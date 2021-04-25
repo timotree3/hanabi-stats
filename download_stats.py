@@ -4,46 +4,40 @@ import requests
 from bs4 import BeautifulSoup
 import os
 
-with open('input/list_of_players.txt') as list_of_players:
-    for player in list_of_players:
-        player = player.strip()
-        history_table = get_history_table(player)
-        stats = get_stats(history_table)
-        save_stats(stats, player)
 
 def get_number_of_suits(variant):
     default_suits = {
-        '3 Suits': 3,
-        '4 Suits': 4,
-        'No Variant': 5,
-        '6 Suits': 6,
-        'Dual-Color Mix': 6,
-        'Ambiguous Mix': 6,
-        'Ambiguous & Dual-Color': 6
+        "3 Suits": 3,
+        "4 Suits": 4,
+        "No Variant": 5,
+        "6 Suits": 6,
+        "Dual-Color Mix": 6,
+        "Ambiguous Mix": 6,
+        "Ambiguous & Dual-Color": 6,
     }
     return default_suits.get(variant, variant[-8:-7])
 
 
 def get_history_table(username):
-    url = 'https://hanab.live/history/' + username
+    url = "https://hanab.live/history/" + username
     try:
         page = requests.get(url)
     except:
-        print('Check your internet connection.')
+        print("Check your internet connection.")
         exit()
     if page.status_code != 200:
-        print('Username is not valid:', repr(username))
+        print("Username is not valid:", repr(username))
         exit()
-    soup = BeautifulSoup(page.content, 'html.parser')
-    return soup.find(id='history-table')
+    soup = BeautifulSoup(page.content, "html.parser")
+    return soup.find(id="history-table")
 
 
 def get_stats(history_table):
     items = []
-    for tr in history_table.findAll('tr')[1:]:
+    for tr in history_table.findAll("tr")[1:]:
         item = []
-        for td in tr.findAll('td'):
-            item.append(td.text.replace('\n', '').strip())
+        for td in tr.findAll("td"):
+            item.append(td.text.replace("\n", "").strip())
         suits = get_number_of_suits(item[3])
         items.append([*item, suits, int(suits) * 5])
     return items
@@ -60,11 +54,19 @@ def mkdir_p(path):
 
 
 def save_stats(items, username):
-    path = f'temp/{username}_stats.txt'
+    path = f"temp/{username}_stats.txt"
     mkdir_p(os.path.dirname(path))
-    with open(path, 'w', encoding='utf-8') as f:
+    with open(path, "w", encoding="utf-8") as f:
         for item in items:
-            file_item = ''
+            file_item = ""
             for i in item:
-                file_item += '{}\t'.format(i)
-            f.write('{}\n'.format(file_item.rstrip()))
+                file_item += "{}\t".format(i)
+            f.write("{}\n".format(file_item.rstrip()))
+
+
+with open("input/list_of_players.txt") as list_of_players:
+    for player in list_of_players:
+        player = player.strip()
+        history_table = get_history_table(player)
+        stats = get_stats(history_table)
+        save_stats(stats, player)
