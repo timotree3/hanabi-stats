@@ -14,7 +14,7 @@ with open("input/list_of_players.txt") as players:
                 if fields[2] == fields[8]:
                     seq += 1
                 else:
-                    if seq > max_seq:
+                    if seq >= max_seq:
                         max_seq = seq
                         max_seq_ender = fields
                     seq = 0
