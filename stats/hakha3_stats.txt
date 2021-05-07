@@ -1,11 +1,11 @@
 510819	3	25	Dark Pink (5 Suits)	2021-04-24 — 00:49:26 UTC	griff77, hakha3, wump	11	5	25
-510761	3	21	Dark Pink (5 Suits)	2021-04-24 — 00:23:16 UTC	griff77, hakha3, wump	10	5	25
-510187	2	0	No Variant	2021-04-23 — 13:10:50 UTC	beri, hakha3	47	5	25
-510181	4	24	No Variant	2021-04-23 — 12:42:42 UTC	beri, hakha3, indego, Lel0uch	233	5	25
+510761	3	21	Dark Pink (5 Suits)	2021-04-24 — 00:23:16 UTC	griff77, hakha3, wump	11	5	25
+510187	2	0	No Variant	2021-04-23 — 13:10:50 UTC	beri, hakha3	48	5	25
+510181	4	24	No Variant	2021-04-23 — 12:42:42 UTC	beri, hakha3, indego, Lel0uch	236	5	25
 508460	4	0	White (6 Suits)	2021-04-21 — 12:09:43 UTC	hakha3, mgce, robense, Spieler42	29	6	30
-508441	4	29	White (6 Suits)	2021-04-21 — 11:45:18 UTC	hakha3, mgce, robense, Spieler42	35	6	30
-508420	2	0	Black (6 Suits)	2021-04-21 — 11:08:34 UTC	hakha3, mgce	546	6	30
-508391	2	0	Black (6 Suits)	2021-04-21 — 10:52:35 UTC	hakha3, mgce	643	6	30
+508441	4	29	White (6 Suits)	2021-04-21 — 11:45:18 UTC	hakha3, mgce, robense, Spieler42	36	6	30
+508420	2	0	Black (6 Suits)	2021-04-21 — 11:08:34 UTC	hakha3, mgce	553	6	30
+508391	2	0	Black (6 Suits)	2021-04-21 — 10:52:35 UTC	hakha3, mgce	654	6	30
 508382	4	0	Dual-Color & Black (6 Suits)	2021-04-21 — 10:42:11 UTC	hakha3, indego, Lel0uch, Wittvector	5	6	30
 508363	4	25	Pink & Omni (5 Suits)	2021-04-21 — 10:19:17 UTC	hakha3, Lel0uch, sephiroth, Wittvector	4	5	25
 508358	4	0	Pink & Omni (5 Suits)	2021-04-21 — 10:02:13 UTC	hakha3, Lel0uch, sephiroth, Wittvector	4	5	25
@@ -34,7 +34,7 @@
 480297	3	22	Gray Reversed (5 Suits)	2021-03-25 — 18:33:00 UTC	hakha3, Kyle, newduke	2	5	25
 480125	5	0	Rainbow & Brown (6 Suits)	2021-03-25 — 15:43:42 UTC	hakha3, kinkajusrevenge, Lel0uch, possum, Syrah	7	6	30
 480113	4	30	Rainbow & Muddy Rainbow (6 Suits)	2021-03-25 — 15:18:36 UTC	asaelr, hakha3, Lel0uch, Syrah	3	6	30
-480105	4	0	Rainbow & Muddy Rainbow (6 Suits)	2021-03-25 — 14:51:47 UTC	asaelr, hakha3, Lel0uch, Syrah	3	6	30
+480105	4	0	Rainbow & Muddy Rainbow (6 Suits)	2021-03-25 — 14:51:47 UTC	asaelr, hakha3, Lel0uch, Syrah	4	6	30
 479161	3	30	Rainbow & Dark Omni (6 Suits)	2021-03-24 — 17:05:42 UTC	bjnh, hakha3, HelanaAshryvr	3	6	30
 479149	3	0	Rainbow & Dark Omni (6 Suits)	2021-03-24 — 16:45:47 UTC	bjnh, hakha3, HelanaAshryvr	4	6	30
 479135	5	29	Rainbow & Dark Omni (6 Suits)	2021-03-24 — 16:21:11 UTC	hakha3, indego, jeff10, Kyle, Lel0uch	1	6	30
@@ -42,14 +42,14 @@
 479127	5	0	Rainbow & Dark Omni (6 Suits)	2021-03-24 — 15:51:59 UTC	hakha3, indego, jeff10, Kyle, Lel0uch	2	6	30
 479120	3	23	Rainbow & Dark Omni (5 Suits)	2021-03-24 — 15:42:50 UTC	hakha3, jeff10, Lel0uch	2	5	25
 479075	4	20	Brown & Prism (4 Suits)	2021-03-24 — 14:44:39 UTC	hakha3, Nitrate, Onen, Pablo-	3	4	20
-478968	2	24	No Variant	2021-03-24 — 11:35:26 UTC	hakha3, mgce	3507	5	25
+478968	2	24	No Variant	2021-03-24 — 11:35:26 UTC	hakha3, mgce	3537	5	25
 477990	5	0	Special Mix (5 Suits)	2021-03-23 — 14:47:16 UTC	hakha3, jeff10, sephiroth, VerySloppyTwo, Wittvector	2	5	25
 477978	3	0	Prism & Dark Pink (6 Suits)	2021-03-23 — 14:09:13 UTC	hakha3, HelanaAshryvr, Lanvin	1	6	30
 477964	3	0	Prism & Dark Pink (6 Suits)	2021-03-23 — 13:49:49 UTC	hakha3, HelanaAshryvr, Lanvin	1	6	30
 477952	3	0	Prism & Dark Pink (6 Suits)	2021-03-23 — 13:34:35 UTC	hakha3, HelanaAshryvr, Lanvin	3	6	30
 477944	5	0	Dark Prism (6 Suits)	2021-03-23 — 13:17:41 UTC	hakha3, Lanvin, possum, sin_faith, wolfpack	4	6	30
-477936	3	20	Brown & Prism (4 Suits)	2021-03-23 — 12:50:37 UTC	Animex52, hakha3, possum	3	4	20
-477324	2	20	Brown & Prism (4 Suits)	2021-03-22 — 22:39:15 UTC	hakha3, Valetta6789	2	4	20
+477936	3	20	Brown & Prism (4 Suits)	2021-03-23 — 12:50:37 UTC	Animex52, hakha3, possum	4	4	20
+477324	2	20	Brown & Prism (4 Suits)	2021-03-22 — 22:39:15 UTC	hakha3, Valetta6789	3	4	20
 477310	2	0	Brown & Prism (4 Suits)	2021-03-22 — 22:29:43 UTC	hakha3, Valetta6789	7	4	20
 477300	2	0	Brown & Prism (4 Suits)	2021-03-22 — 22:21:03 UTC	hakha3, Valetta6789	8	4	20
 477280	2	15	Ambiguous & Null (3 Suits)	2021-03-22 — 22:09:50 UTC	hakha3, Valetta6789	1	3	15
@@ -64,12 +64,12 @@
 477170	2	0	White-Fives & Prism (5 Suits)	2021-03-22 — 20:55:58 UTC	hakha3, Valetta6789	1	5	25
 477157	2	25	White-Fives & Prism (5 Suits)	2021-03-22 — 20:48:07 UTC	hakha3, Valetta6789	2	5	25
 477137	2	15	Alternating Clues & White (3 Suits)	2021-03-22 — 20:33:31 UTC	hakha3, Valetta6789	5	3	15
-477123	2	25	Up or Down & Omni (5 Suits)	2021-03-22 — 20:21:02 UTC	hakha3, Valetta6789	3	5	25
-477104	2	25	Up or Down & Omni (5 Suits)	2021-03-22 — 20:07:07 UTC	hakha3, Valetta6789	6	5	25
-477081	2	25	White-Ones & Pink (5 Suits)	2021-03-22 — 19:50:59 UTC	hakha3, Valetta6789	5	5	25
+477123	2	25	Up or Down & Omni (5 Suits)	2021-03-22 — 20:21:02 UTC	hakha3, Valetta6789	4	5	25
+477104	2	25	Up or Down & Omni (5 Suits)	2021-03-22 — 20:07:07 UTC	hakha3, Valetta6789	7	5	25
+477081	2	25	White-Ones & Pink (5 Suits)	2021-03-22 — 19:50:59 UTC	hakha3, Valetta6789	6	5	25
 477069	2	20	White-Ones & Pink (4 Suits)	2021-03-22 — 19:43:45 UTC	hakha3, Valetta6789	4	4	20
-477057	2	30	White & Brown (6 Suits)	2021-03-22 — 19:29:27 UTC	hakha3, Valetta6789	27	6	30
-477047	2	25	Rainbow & Omni (5 Suits)	2021-03-22 — 19:17:11 UTC	hakha3, Valetta6789	13	5	25
+477057	2	30	White & Brown (6 Suits)	2021-03-22 — 19:29:27 UTC	hakha3, Valetta6789	29	6	30
+477047	2	25	Rainbow & Omni (5 Suits)	2021-03-22 — 19:17:11 UTC	hakha3, Valetta6789	14	5	25
 476951	4	22	Special Mix (5 Suits)	2021-03-22 — 17:52:07 UTC	hakha3, Nitrate2, sephiroth, Wittvector	4	5	25
 476932	4	0	Special Mix (5 Suits)	2021-03-22 — 17:31:09 UTC	hakha3, Nitrate2, sephiroth, Wittvector	4	5	25
 476883	3	0	Black & Muddy Rainbow (6 Suits)	2021-03-22 — 15:56:25 UTC	hakha3, HelanaAshryvr, Lel0uch	4	6	30
@@ -84,10 +84,10 @@
 476365	4	0	Null (5 Suits)	2021-03-21 — 22:39:22 UTC	hakha3, jeff10, Kyle, Lanvin	12	5	25
 476342	2	15	Prism (3 Suits)	2021-03-21 — 22:20:03 UTC	hakha3, Lanvin	5	3	15
 476331	2	0	Prism (3 Suits)	2021-03-21 — 22:14:23 UTC	hakha3, Lanvin	6	3	15
-476323	2	0	Prism (3 Suits)	2021-03-21 — 22:09:32 UTC	hakha3, Lanvin	7	3	15
-476318	2	0	Prism (3 Suits)	2021-03-21 — 22:04:37 UTC	hakha3, Lanvin	15	3	15
-476312	2	0	Prism (3 Suits)	2021-03-21 — 21:58:15 UTC	hakha3, Lanvin	25	3	15
-476308	2	0	Prism (3 Suits)	2021-03-21 — 21:54:45 UTC	hakha3, Lanvin	52	3	15
+476323	2	0	Prism (3 Suits)	2021-03-21 — 22:09:32 UTC	hakha3, Lanvin	8	3	15
+476318	2	0	Prism (3 Suits)	2021-03-21 — 22:04:37 UTC	hakha3, Lanvin	17	3	15
+476312	2	0	Prism (3 Suits)	2021-03-21 — 21:58:15 UTC	hakha3, Lanvin	27	3	15
+476308	2	0	Prism (3 Suits)	2021-03-21 — 21:54:45 UTC	hakha3, Lanvin	57	3	15
 475768	3	30	White & Brown (6 Suits)	2021-03-21 — 12:26:47 UTC	hakha3, hanabornoob, Lanvin	12	6	30
 475756	4	15	Brown (3 Suits)	2021-03-21 — 12:02:46 UTC	hakha3, Lanvin, MangoPie, possum	7	3	15
 475747	4	14	Brown (3 Suits)	2021-03-21 — 11:47:21 UTC	hakha3, Lanvin, MangoPie, possum	13	3	15
@@ -102,7 +102,7 @@
 475172	5	0	Special Mix (5 Suits)	2021-03-20 — 23:03:36 UTC	ChristopheAF, hakha3, jack67889, MangoPie, melwen	1	5	25
 475167	5	22	Special Mix (5 Suits)	2021-03-20 — 22:54:36 UTC	ChristopheAF, hakha3, jack67889, MangoPie, melwen	2	5	25
 474057	4	0	Rainbow & Gray Pink (6 Suits)	2021-03-19 — 23:01:29 UTC	hakha3, jack67889, kevincaseytdk1, MangoPie	5	6	30
-474015	3	29	Black & White (6 Suits)	2021-03-19 — 22:43:36 UTC	dobi, hakha3, Wittvector	34	6	30
+474015	3	29	Black & White (6 Suits)	2021-03-19 — 22:43:36 UTC	dobi, hakha3, Wittvector	35	6	30
 473975	3	0	Black & White (6 Suits)	2021-03-19 — 22:24:32 UTC	dobi, hakha3, Wittvector	39	6	30
 473834	3	0	Rainbow & Gray Pink (5 Suits)	2021-03-19 — 20:13:25 UTC	CaitlinSmith, hakha3, Spieler42	6	5	25
 473826	3	0	Rainbow & Gray Pink (5 Suits)	2021-03-19 — 20:02:18 UTC	CaitlinSmith, hakha3, Spieler42	7	5	25
@@ -112,8 +112,8 @@
 473546	3	0	White & Dark Pink (6 Suits)	2021-03-19 — 12:44:10 UTC	hakha3, Lanvin, Lel0uch	4	6	30
 473541	5	30	White & Dark Pink (6 Suits)	2021-03-19 — 12:32:36 UTC	boba, hakha3, Lanvin, Lel0uch, VerySloppyTwo	1	6	30
 473531	5	0	White & Dark Pink (6 Suits)	2021-03-19 — 12:10:51 UTC	boba, hakha3, Lanvin, Lel0uch, VerySloppyTwo	1	6	30
-473528	4	30	Dark Pink (6 Suits)	2021-03-19 — 11:56:26 UTC	hakha3, Lanvin, Lel0uch, VerySloppyTwo	11	6	30
-472499	3	0	Brown (5 Suits)	2021-03-18 — 18:30:55 UTC	Aluap, dobi, hakha3	63	5	25
+473528	4	30	Dark Pink (6 Suits)	2021-03-19 — 11:56:26 UTC	hakha3, Lanvin, Lel0uch, VerySloppyTwo	12	6	30
+472499	3	0	Brown (5 Suits)	2021-03-18 — 18:30:55 UTC	Aluap, dobi, hakha3	65	5	25
 472339	3	25	Rainbow & Brown (5 Suits)	2021-03-18 — 12:37:50 UTC	hakha3, Lanvin, possum	13	5	25
 472336	3	0	Rainbow-Ones & Gray Pink (6 Suits)	2021-03-18 — 12:09:39 UTC	hakha3, Lanvin, Lel0uch	1	6	30
 472334	3	0	Rainbow-Ones & Gray Pink (6 Suits)	2021-03-18 — 11:54:58 UTC	hakha3, Lanvin, Lel0uch	1	6	30
@@ -126,7 +126,7 @@
 471294	3	25	Light-Pink-Ones & Gray Pink (5 Suits)	2021-03-17 — 13:57:12 UTC	hakha3, Lanvin, MarkusKahlsen	1	5	25
 471287	3	22	Light-Pink-Ones & Gray Pink (5 Suits)	2021-03-17 — 13:35:48 UTC	hakha3, Lanvin, MarkusKahlsen	1	5	25
 471281	3	23	Light-Pink-Ones & Gray Pink (5 Suits)	2021-03-17 — 13:14:07 UTC	hakha3, Lanvin, MarkusKahlsen	1	5	25
-471277	2	30	Omni (6 Suits)	2021-03-17 — 12:55:29 UTC	hakha3, Lanvin	95	6	30
+471277	2	30	Omni (6 Suits)	2021-03-17 — 12:55:29 UTC	hakha3, Lanvin	98	6	30
 470570	5	0	Special Mix (5 Suits)	2021-03-16 — 22:25:16 UTC	ChristopheAF, Floriman, hakha3, MangoPie, Syrah	2	5	25
 470551	5	0	Special Mix (5 Suits)	2021-03-16 — 22:11:35 UTC	ChristopheAF, Floriman, hakha3, MangoPie, Syrah	2	5	25
 470536	5	0	Special Mix (5 Suits)	2021-03-16 — 22:05:31 UTC	ChristopheAF, Floriman, hakha3, MangoPie, Syrah	2	5	25
@@ -173,8 +173,8 @@
 466967	5	0	Special Mix (5 Suits)	2021-03-13 — 20:44:39 UTC	ChristopheAF, hakha3, MangoPie, newduke, TimeHoodie	3	5	25
 466942	5	0	Special Mix (5 Suits)	2021-03-13 — 20:22:17 UTC	ChristopheAF, hakha3, MangoPie, newduke, TimeHoodie	3	5	25
 466926	5	23	Special Mix (5 Suits)	2021-03-13 — 19:58:38 UTC	ChristopheAF, hakha3, MangoPie, newduke, TimeHoodie	3	5	25
-466907	2	0	Light Pink (6 Suits)	2021-03-13 — 19:33:17 UTC	dobi, hakha3	40	6	30
-466902	2	0	Light Pink (6 Suits)	2021-03-13 — 19:23:02 UTC	dobi, hakha3	79	6	30
+466907	2	0	Light Pink (6 Suits)	2021-03-13 — 19:33:17 UTC	dobi, hakha3	41	6	30
+466902	2	0	Light Pink (6 Suits)	2021-03-13 — 19:23:02 UTC	dobi, hakha3	81	6	30
 466886	4	20	Rainbow & White (4 Suits)	2021-03-13 — 18:56:38 UTC	hakha3, Lanvin, narabio, voss	1	4	20
 466873	4	0	Rainbow & White (4 Suits)	2021-03-13 — 18:41:18 UTC	hakha3, Lanvin, narabio, voss	1	4	20
 466868	4	0	Rainbow & White (4 Suits)	2021-03-13 — 18:30:34 UTC	hakha3, Lanvin, narabio, voss	1	4	20
@@ -191,13 +191,13 @@
 464131	3	0	Omni & Muddy Rainbow (4 Suits)	2021-03-11 — 00:20:06 UTC	duckless, hakha3, Lanvin	1	4	20
 464121	3	0	Omni & Muddy Rainbow (4 Suits)	2021-03-11 — 00:07:18 UTC	duckless, hakha3, Lanvin	1	4	20
 464082	3	0	Omni & Muddy Rainbow (4 Suits)	2021-03-10 — 23:47:15 UTC	duckless, hakha3, Lanvin	1	4	20
-464037	3	30	Dark Omni (6 Suits)	2021-03-10 — 23:26:13 UTC	hakha3, jack67889, Lanvin	26	6	30
+464037	3	30	Dark Omni (6 Suits)	2021-03-10 — 23:26:13 UTC	hakha3, jack67889, Lanvin	27	6	30
 463943	5	0	Totally Blind (6 Suits)	2021-03-10 — 21:54:02 UTC	duckless, hakha3, indego, MangoPie, TimeHoodie	2	6	30
 463929	5	29	Totally Blind (6 Suits)	2021-03-10 — 21:40:23 UTC	duckless, hakha3, indego, MangoPie, TimeHoodie	2	6	30
 463889	6	0	Totally Blind (6 Suits)	2021-03-10 — 21:06:32 UTC	colton, hakha3, indego, MangoPie, rz, TimeHoodie	2	6	30
 463868	6	0	Totally Blind (6 Suits)	2021-03-10 — 20:50:38 UTC	colton, hakha3, indego, MangoPie, rz, TimeHoodie	3	6	30
 463853	5	0	Muddy-Rainbow-Fives & Dark Omni (5 Suits)	2021-03-10 — 20:38:10 UTC	colton, hakha3, indego, MangoPie, rz	1	5	25
-463837	3	0	Black (6 Suits)	2021-03-10 — 20:23:52 UTC	hakha3, indego, paips	399	6	30
+463837	3	0	Black (6 Suits)	2021-03-10 — 20:23:52 UTC	hakha3, indego, paips	407	6	30
 463665	5	20	Special Mix (5 Suits)	2021-03-10 — 16:41:33 UTC	ChristopheAF, hakha3, sephiroth, TimeHoodie, Wittvector	1	5	25
 463646	5	0	Special Mix (5 Suits)	2021-03-10 — 16:04:24 UTC	ChristopheAF, hakha3, sephiroth, TimeHoodie, Wittvector	2	5	25
 463610	5	0	Special Mix (5 Suits)	2021-03-10 — 15:36:28 UTC	ChristopheAF, hakha3, sephiroth, TimeHoodie, Wittvector	2	5	25
@@ -208,12 +208,12 @@
 463539	3	0	Brown-Ones & Rainbow (4 Suits)	2021-03-10 — 13:40:01 UTC	hakha3, Lanvin, wolfpack	4	4	20
 463527	5	0	Black (5 Suits)	2021-03-10 — 13:17:21 UTC	eliclax, hakha3, jack67889, Lanvin, qqqq	6	5	25
 463522	5	0	Black (5 Suits)	2021-03-10 — 13:04:50 UTC	eliclax, hakha3, jack67889, Lanvin, qqqq	5	5	25
-463504	5	22	Black (5 Suits)	2021-03-10 — 12:36:20 UTC	eliclax, hakha3, jack67889, Lanvin, qqqq	5	5	25
+463504	5	22	Black (5 Suits)	2021-03-10 — 12:36:20 UTC	eliclax, hakha3, jack67889, Lanvin, qqqq	6	5	25
 463496	4	0	Pink & Omni (4 Suits)	2021-03-10 — 12:08:12 UTC	eliclax, hakha3, Lanvin, qqqq	4	4	20
-463490	4	25	Black (5 Suits)	2021-03-10 — 11:49:10 UTC	Denchulitas, eliclax, hakha3, Lanvin	9	5	25
+463490	4	25	Black (5 Suits)	2021-03-10 — 11:49:10 UTC	Denchulitas, eliclax, hakha3, Lanvin	10	5	25
 463482	6	25	Rainbow & Brown (5 Suits)	2021-03-10 — 11:23:25 UTC	Denchulitas, eliclax, hakha3, indego, qqqq, sephiroth	3	5	25
 463475	3	25	Dark Omni (5 Suits)	2021-03-10 — 10:51:02 UTC	eliclax, hakha3, skyblueexo	16	5	25
-463473	4	25	No Variant	2021-03-10 — 10:27:26 UTC	boba, hakha3, indego, Lel0uch	899	5	25
+463473	4	25	No Variant	2021-03-10 — 10:27:26 UTC	boba, hakha3, indego, Lel0uch	908	5	25
 463038	5	0	Dark Pink (5 Suits)	2021-03-10 — 00:15:42 UTC	Bot-Fiora, ChristopheAF, hakha3, Lanvin, Lel0uch	3	5	25
 463031	5	0	Dark Pink (5 Suits)	2021-03-10 — 00:03:53 UTC	Bot-Fiora, ChristopheAF, hakha3, Lanvin, Lel0uch	6	5	25
 463025	3	0	Special Mix (5 Suits)	2021-03-09 — 23:48:49 UTC	ChristopheAF, hakha3, Lanvin	1	5	25
@@ -266,7 +266,7 @@
 455269	3	0	Black & Light Pink (5 Suits)	2021-03-03 — 13:57:43 UTC	hakha3, Lel0uch, MangoPie	2	5	25
 455268	3	0	Black & Light Pink (5 Suits)	2021-03-03 — 13:55:25 UTC	hakha3, Lel0uch, MangoPie	2	5	25
 455264	3	0	Black & Light Pink (5 Suits)	2021-03-03 — 13:50:32 UTC	hakha3, Lel0uch, MangoPie	2	5	25
-455258	3	22	Black & Light Pink (5 Suits)	2021-03-03 — 13:40:26 UTC	hakha3, Lel0uch, MangoPie	3	5	25
+455258	3	22	Black & Light Pink (5 Suits)	2021-03-03 — 13:40:26 UTC	hakha3, Lel0uch, MangoPie	4	5	25
 455247	3	0	Black & Light Pink (5 Suits)	2021-03-03 — 13:26:36 UTC	hakha3, Lel0uch, MangoPie	4	5	25
 455229	4	23	Brown & Dark Rainbow (5 Suits)	2021-03-03 — 13:04:24 UTC	hakha3, kopen, Lel0uch, melwen	1	5	25
 455214	4	24	Brown & Dark Rainbow (5 Suits)	2021-03-03 — 12:41:26 UTC	hakha3, kopen, Lel0uch, melwen	1	5	25
@@ -295,8 +295,8 @@
 452065	4	0	Null-Ones & Dark Rainbow (6 Suits)	2021-02-28 — 18:31:57 UTC	hakha3, Lanvin, Lel0uch, VerySloppyTwo	2	6	30
 452062	2	25	Black & Light Pink (5 Suits)	2021-02-28 — 18:28:46 UTC	hakha3, robense	15	5	25
 452050	2	0	Black & Light Pink (5 Suits)	2021-02-28 — 18:17:43 UTC	hakha3, robense	18	5	25
-452042	2	0	Black & Light Pink (5 Suits)	2021-02-28 — 18:12:18 UTC	hakha3, robense	19	5	25
-452036	2	0	Black & Light Pink (5 Suits)	2021-02-28 — 18:08:39 UTC	hakha3, robense	19	5	25
+452042	2	0	Black & Light Pink (5 Suits)	2021-02-28 — 18:12:18 UTC	hakha3, robense	20	5	25
+452036	2	0	Black & Light Pink (5 Suits)	2021-02-28 — 18:08:39 UTC	hakha3, robense	20	5	25
 452032	2	23	Black & Light Pink (5 Suits)	2021-02-28 — 18:02:23 UTC	hakha3, robense	22	5	25
 451947	6	22	Black & Light Pink (5 Suits)	2021-02-28 — 14:43:42 UTC	ChristopheAF, hakha3, indego, sin_faith, TheDaniMan, TimeHoodie	1	5	25
 451940	5	24	Black & Light Pink (5 Suits)	2021-02-28 — 14:16:11 UTC	ChristopheAF, hakha3, indego, sin_faith, TimeHoodie	1	5	25
@@ -332,16 +332,16 @@
 448116	6	0	Pink & White (6 Suits)	2021-02-24 — 23:11:17 UTC	hakha3, kimbifille, MangoPie, melwen, newduke, Wittvector	2	6	30
 448082	5	20	Dual-Color & Pink (4 Suits)	2021-02-24 — 22:29:26 UTC	Floriman, hakha3, kimbifille, MangoPie, melwen	1	4	20
 448062	5	30	Cocoa Rainbow (6 Suits)	2021-02-24 — 22:00:58 UTC	asaelr, Floriman, hakha3, kimbifille, rz	3	6	30
-448034	3	0	Gray (6 Suits)	2021-02-24 — 21:37:19 UTC	hakha3, kimbifille, rz	48	6	30
+448034	3	0	Gray (6 Suits)	2021-02-24 — 21:37:19 UTC	hakha3, kimbifille, rz	52	6	30
 448018	4	0	Brown & Prism (5 Suits)	2021-02-24 — 21:21:30 UTC	hakha3, kimbifille, MangoPie, rz	11	5	25
 448000	3	0	Pink & Brown (5 Suits)	2021-02-24 — 21:05:32 UTC	hakha3, MangoPie, rz	20	5	25
-447973	3	0	Brown (5 Suits)	2021-02-24 — 20:44:01 UTC	bjnh, hakha3, MangoPie	79	5	25
+447973	3	0	Brown (5 Suits)	2021-02-24 — 20:44:01 UTC	bjnh, hakha3, MangoPie	82	5	25
 447943	4	25	Rainbow & Light Pink (5 Suits)	2021-02-24 — 20:11:18 UTC	4head, hakha3, MangoPie, nkkarpov	7	5	25
-447907	3	24	Dark Rainbow (5 Suits)	2021-02-24 — 19:38:00 UTC	hakha3, MangoPie, Onen	35	5	25
+447907	3	24	Dark Rainbow (5 Suits)	2021-02-24 — 19:38:00 UTC	hakha3, MangoPie, Onen	36	5	25
 447899	5	0	Pink-Fives & Light Pink (4 Suits)	2021-02-24 — 19:27:27 UTC	ChristopheAF, hakha3, Kernel, Lanvin, MangoPie	2	4	20
 445888	4	24	Light Pink (5 Suits)	2021-02-22 — 21:37:45 UTC	hakha3, rachyrules, robense, VerySloppyTwo	20	5	25
 445841	4	24	Light Pink (5 Suits)	2021-02-22 — 21:06:02 UTC	hakha3, rachyrules, robense, VerySloppyTwo	20	5	25
-445806	4	0	White (5 Suits)	2021-02-22 — 20:40:03 UTC	hakha3, margmarg, rachyrules, VerySloppyTwo	46	5	25
+445806	4	0	White (5 Suits)	2021-02-22 — 20:40:03 UTC	hakha3, margmarg, rachyrules, VerySloppyTwo	47	5	25
 445637	6	0	Pink-Fives & Brown (5 Suits)	2021-02-22 — 17:13:39 UTC	Dr_Kakashi, Floriman, hakha3, indego, micerang, Onen	1	5	25
 445602	5	0	Rainbow-Ones & Black (6 Suits)	2021-02-22 — 16:46:08 UTC	Dr_Kakashi, Floriman, hakha3, indego, micerang	1	6	30
 445591	5	0	Rainbow-Ones & Black (6 Suits)	2021-02-22 — 16:37:43 UTC	Dr_Kakashi, Floriman, hakha3, indego, micerang	1	6	30
@@ -358,15 +358,15 @@
 444540	6	0	Brown (6 Suits)	2021-02-21 — 18:55:43 UTC	CaitlinSmith, hakha3, indego, Lanvin, newduke, VerySloppyTwo	7	6	30
 444439	5	30	Black & White (6 Suits)	2021-02-21 — 16:13:12 UTC	hakha3, indego, MangoPie, torp, Wittvector	13	6	30
 444293	5	0	Prism (6 Suits)	2021-02-21 — 12:50:21 UTC	eliclax, hakha3, possum, robense, swineherd	12	6	30
-429914	4	0	Dark Omni (6 Suits)	2021-02-08 — 14:42:35 UTC	hakha3, jack67889, Lanvin, skyblueexo	14	6	30
+429914	4	0	Dark Omni (6 Suits)	2021-02-08 — 14:42:35 UTC	hakha3, jack67889, Lanvin, skyblueexo	15	6	30
 429902	4	0	Dark Omni (6 Suits)	2021-02-08 — 14:21:35 UTC	hakha3, jack67889, Lanvin, skyblueexo	16	6	30
 421029	5	25	Rainbow-Ones & Rainbow (5 Suits)	2021-01-31 — 11:47:36 UTC	catula, hakha3, Lanvin, Lel0uch, sephiroth	1	5	25
 421023	5	24	Rainbow-Ones & Rainbow (5 Suits)	2021-01-31 — 11:27:32 UTC	bbBgone, catula, hakha3, jack67889, Lel0uch	1	5	25
 421019	4	0	Rainbow-Ones & Rainbow (5 Suits)	2021-01-31 — 11:09:06 UTC	bbBgone, catula, hakha3, Lel0uch	4	5	25
 421018	4	0	Rainbow-Ones & Rainbow (5 Suits)	2021-01-31 — 10:56:51 UTC	hakha3, jack67889, Lel0uch, sephiroth	4	5	25
-419092	2	24	Pink (6 Suits)	2021-01-30 — 00:32:02 UTC	hakha3, Lanvin	157	6	30
-419073	2	0	Pink (6 Suits)	2021-01-30 — 00:23:12 UTC	hakha3, Lanvin	172	6	30
-419067	2	28	Pink (6 Suits)	2021-01-30 — 00:17:16 UTC	hakha3, Lanvin	219	6	30
+419092	2	24	Pink (6 Suits)	2021-01-30 — 00:32:02 UTC	hakha3, Lanvin	158	6	30
+419073	2	0	Pink (6 Suits)	2021-01-30 — 00:23:12 UTC	hakha3, Lanvin	173	6	30
+419067	2	28	Pink (6 Suits)	2021-01-30 — 00:17:16 UTC	hakha3, Lanvin	220	6	30
 419051	2	0	Alternating Clues & Prism (5 Suits)	2021-01-29 — 23:59:27 UTC	hakha3, Lanvin	1	5	25
 419031	2	0	Alternating Clues & Prism (5 Suits)	2021-01-29 — 23:44:40 UTC	hakha3, Lanvin	2	5	25
 418785	4	25	Light-Pink-Ones & White (5 Suits)	2021-01-29 — 20:17:08 UTC	hakha3, Lanvin, Spieler42, TimeHoodie	2	5	25
@@ -376,31 +376,31 @@
 417712	6	24	Rainbow (5 Suits)	2021-01-28 — 18:32:44 UTC	griff77, hakha3, Lanvin, lolthisnotderk, newduke, Plum	4	5	25
 417557	4	30	White & Dark Rainbow (6 Suits)	2021-01-28 — 13:29:28 UTC	hakha3, MarkusKahlsen, sephiroth, VerySloppyTwo	8	6	30
 417484	5	0	Black & Pink (6 Suits)	2021-01-28 — 10:36:37 UTC	hakha3, indego, Lel0uch, sephiroth, Sucubis	6	6	30
-417439	4	0	Black (6 Suits)	2021-01-28 — 09:25:16 UTC	derekcheah, dobi, hakha3, Lel0uch	121	6	30
-416859	4	23	Black (5 Suits)	2021-01-27 — 22:17:56 UTC	hakha3, Lanvin, Nitrate, robense	21	5	25
-416813	4	22	Black (5 Suits)	2021-01-27 — 21:53:02 UTC	hakha3, Lanvin, Nitrate, robense	41	5	25
+417439	4	0	Black (6 Suits)	2021-01-28 — 09:25:16 UTC	derekcheah, dobi, hakha3, Lel0uch	123	6	30
+416859	4	23	Black (5 Suits)	2021-01-27 — 22:17:56 UTC	hakha3, Lanvin, Nitrate, robense	22	5	25
+416813	4	22	Black (5 Suits)	2021-01-27 — 21:53:02 UTC	hakha3, Lanvin, Nitrate, robense	42	5	25
 416772	5	0	Black (6 Suits)	2021-01-27 — 21:25:53 UTC	dobi, hakha3, HelanaAshryvr, Lanvin, newduke	24	6	30
-416740	5	27	Black (6 Suits)	2021-01-27 — 21:04:04 UTC	dobi, hakha3, HelanaAshryvr, Lanvin, newduke	22	6	30
+416740	5	27	Black (6 Suits)	2021-01-27 — 21:04:04 UTC	dobi, hakha3, HelanaAshryvr, Lanvin, newduke	23	6	30
 416634	3	0	Pink & Brown (5 Suits)	2021-01-27 — 19:44:51 UTC	caña, hakha3, Plum	12	5	25
 414848	4	25	Omni-Ones (5 Suits)	2021-01-25 — 20:57:18 UTC	ChristopheAF, hakha3, jeff10, Lanvin	2	5	25
 414817	4	0	Omni-Ones (5 Suits)	2021-01-25 — 20:35:05 UTC	ChristopheAF, hakha3, jeff10, Lanvin	5	5	25
 414799	4	0	Omni-Ones (5 Suits)	2021-01-25 — 20:23:13 UTC	ChristopheAF, hakha3, jeff10, Lanvin	6	5	25
 414776	4	24	Omni-Ones (5 Suits)	2021-01-25 — 20:07:24 UTC	ChristopheAF, hakha3, jeff10, Lanvin	9	5	25
 414749	3	25	Rainbow & Muddy Rainbow (5 Suits)	2021-01-25 — 19:42:41 UTC	hakha3, jeff10, MarkusKahlsen	11	5	25
-414734	2	20	4 Suits	2021-01-25 — 19:26:24 UTC	hakha3, MarkusKahlsen	244	4	20
+414734	2	20	4 Suits	2021-01-25 — 19:26:24 UTC	hakha3, MarkusKahlsen	248	4	20
 414722	3	25	Dark Brown (5 Suits)	2021-01-25 — 19:12:38 UTC	dobi, hakha3, MarkusKahlsen	26	5	25
 414703	5	25	White & Muddy Rainbow (5 Suits)	2021-01-25 — 18:51:12 UTC	bjnh, frosty104, hakha3, Lel0uch, MarkusKahlsen	1	5	25
 414682	5	0	White & Muddy Rainbow (5 Suits)	2021-01-25 — 18:24:49 UTC	bjnh, frosty104, hakha3, Lel0uch, MarkusKahlsen	6	5	25
-409917	2	0	Brown & Cocoa Rainbow (6 Suits)	2021-01-20 — 21:15:30 UTC	hakha3, Lanvin	4	6	30
-409911	2	0	Brown & Cocoa Rainbow (6 Suits)	2021-01-20 — 21:09:54 UTC	hakha3, Lanvin	4	6	30
-409905	2	0	Brown & Cocoa Rainbow (6 Suits)	2021-01-20 — 21:05:35 UTC	hakha3, Lanvin	5	6	30
-409095	4	28	Black & Prism (6 Suits)	2021-01-20 — 00:27:52 UTC	asaelr, hakha3, indego, robense	14	6	30
-409078	4	0	Black & Prism (6 Suits)	2021-01-19 — 23:59:25 UTC	asaelr, hakha3, indego, robense	14	6	30
+409917	2	0	Brown & Cocoa Rainbow (6 Suits)	2021-01-20 — 21:15:30 UTC	hakha3, Lanvin	5	6	30
+409911	2	0	Brown & Cocoa Rainbow (6 Suits)	2021-01-20 — 21:09:54 UTC	hakha3, Lanvin	5	6	30
+409905	2	0	Brown & Cocoa Rainbow (6 Suits)	2021-01-20 — 21:05:35 UTC	hakha3, Lanvin	6	6	30
+409095	4	28	Black & Prism (6 Suits)	2021-01-20 — 00:27:52 UTC	asaelr, hakha3, indego, robense	15	6	30
+409078	4	0	Black & Prism (6 Suits)	2021-01-19 — 23:59:25 UTC	asaelr, hakha3, indego, robense	15	6	30
 409067	4	25	Black & White (6 Suits)	2021-01-19 — 23:37:21 UTC	hakha3, indego, kevincaseytdk1, MarkusKahlsen	24	6	30
-409035	3	0	Black & White (6 Suits)	2021-01-19 — 22:59:54 UTC	hakha3, indego, MarkusKahlsen	47	6	30
-408918	4	25	Dark Brown (5 Suits)	2021-01-19 — 20:51:38 UTC	hakha3, jeff10, Lanvin, robense	10	5	25
-408891	4	22	Dark Brown (5 Suits)	2021-01-19 — 20:34:10 UTC	hakha3, jeff10, Lanvin, robense	10	5	25
-408865	4	0	Dark Brown (5 Suits)	2021-01-19 — 20:15:39 UTC	hakha3, jeff10, Lanvin, robense	12	5	25
+409035	3	0	Black & White (6 Suits)	2021-01-19 — 22:59:54 UTC	hakha3, indego, MarkusKahlsen	48	6	30
+408918	4	25	Dark Brown (5 Suits)	2021-01-19 — 20:51:38 UTC	hakha3, jeff10, Lanvin, robense	11	5	25
+408891	4	22	Dark Brown (5 Suits)	2021-01-19 — 20:34:10 UTC	hakha3, jeff10, Lanvin, robense	11	5	25
+408865	4	0	Dark Brown (5 Suits)	2021-01-19 — 20:15:39 UTC	hakha3, jeff10, Lanvin, robense	13	5	25
 408844	3	15	Omni (3 Suits)	2021-01-19 — 19:56:20 UTC	hakha3, jeff10, Lanvin	6	3	15
 408828	4	25	White-Fives & Rainbow (5 Suits)	2021-01-19 — 19:39:02 UTC	hakha3, jeff10, Lanvin, zeinab001	3	5	25
 408738	2	0	White Reversed (6 Suits)	2021-01-19 — 18:04:47 UTC	hakha3, macanek	11	6	30
@@ -411,14 +411,14 @@
 408730	2	0	White Reversed (6 Suits)	2021-01-19 — 17:59:02 UTC	hakha3, macanek	12	6	30
 408729	2	0	White Reversed (6 Suits)	2021-01-19 — 17:57:54 UTC	hakha3, macanek	12	6	30
 408728	2	0	White Reversed (6 Suits)	2021-01-19 — 17:57:33 UTC	hakha3, macanek	13	6	30
-408727	2	0	White Reversed (6 Suits)	2021-01-19 — 17:57:10 UTC	hakha3, macanek	15	6	30
-408726	2	0	White Reversed (6 Suits)	2021-01-19 — 17:55:38 UTC	hakha3, macanek	16	6	30
-408725	2	0	White Reversed (6 Suits)	2021-01-19 — 17:54:33 UTC	hakha3, macanek	18	6	30
-408724	2	0	White Reversed (6 Suits)	2021-01-19 — 17:53:17 UTC	hakha3, macanek	19	6	30
-408723	2	0	White Reversed (6 Suits)	2021-01-19 — 17:52:36 UTC	hakha3, macanek	20	6	30
-408721	2	0	White Reversed (6 Suits)	2021-01-19 — 17:51:36 UTC	hakha3, macanek	20	6	30
-408720	2	0	White Reversed (6 Suits)	2021-01-19 — 17:50:43 UTC	hakha3, macanek	21	6	30
-408719	2	0	White Reversed (6 Suits)	2021-01-19 — 17:50:04 UTC	hakha3, macanek	21	6	30
+408727	2	0	White Reversed (6 Suits)	2021-01-19 — 17:57:10 UTC	hakha3, macanek	17	6	30
+408726	2	0	White Reversed (6 Suits)	2021-01-19 — 17:55:38 UTC	hakha3, macanek	18	6	30
+408725	2	0	White Reversed (6 Suits)	2021-01-19 — 17:54:33 UTC	hakha3, macanek	20	6	30
+408724	2	0	White Reversed (6 Suits)	2021-01-19 — 17:53:17 UTC	hakha3, macanek	21	6	30
+408723	2	0	White Reversed (6 Suits)	2021-01-19 — 17:52:36 UTC	hakha3, macanek	21	6	30
+408721	2	0	White Reversed (6 Suits)	2021-01-19 — 17:51:36 UTC	hakha3, macanek	21	6	30
+408720	2	0	White Reversed (6 Suits)	2021-01-19 — 17:50:43 UTC	hakha3, macanek	22	6	30
+408719	2	0	White Reversed (6 Suits)	2021-01-19 — 17:50:04 UTC	hakha3, macanek	22	6	30
 408718	2	0	White Reversed (6 Suits)	2021-01-19 — 17:49:23 UTC	hakha3, macanek	22	6	30
 408717	2	0	White Reversed (6 Suits)	2021-01-19 — 17:48:52 UTC	hakha3, macanek	22	6	30
 408716	2	0	White Reversed (6 Suits)	2021-01-19 — 17:48:10 UTC	hakha3, macanek	23	6	30
@@ -429,121 +429,121 @@
 408707	2	0	White Reversed (6 Suits)	2021-01-19 — 17:42:17 UTC	hakha3, macanek	28	6	30
 408706	2	0	White Reversed (6 Suits)	2021-01-19 — 17:41:59 UTC	hakha3, macanek	28	6	30
 408705	2	0	White Reversed (6 Suits)	2021-01-19 — 17:41:14 UTC	hakha3, macanek	29	6	30
-408703	2	0	White Reversed (6 Suits)	2021-01-19 — 17:39:58 UTC	hakha3, macanek	32	6	30
-408702	2	0	White Reversed (6 Suits)	2021-01-19 — 17:39:07 UTC	hakha3, macanek	34	6	30
-408700	2	30	White Reversed (6 Suits)	2021-01-19 — 17:37:33 UTC	hakha3, macanek	35	6	30
-408698	2	0	White Reversed (6 Suits)	2021-01-19 — 17:34:50 UTC	hakha3, macanek	38	6	30
-408697	2	30	White Reversed (6 Suits)	2021-01-19 — 17:32:17 UTC	hakha3, macanek	44	6	30
-408695	2	0	White Reversed (6 Suits)	2021-01-19 — 17:30:17 UTC	hakha3, macanek	49	6	30
+408703	2	0	White Reversed (6 Suits)	2021-01-19 — 17:39:58 UTC	hakha3, macanek	33	6	30
+408702	2	0	White Reversed (6 Suits)	2021-01-19 — 17:39:07 UTC	hakha3, macanek	35	6	30
+408700	2	30	White Reversed (6 Suits)	2021-01-19 — 17:37:33 UTC	hakha3, macanek	36	6	30
+408698	2	0	White Reversed (6 Suits)	2021-01-19 — 17:34:50 UTC	hakha3, macanek	40	6	30
+408697	2	30	White Reversed (6 Suits)	2021-01-19 — 17:32:17 UTC	hakha3, macanek	46	6	30
+408695	2	0	White Reversed (6 Suits)	2021-01-19 — 17:30:17 UTC	hakha3, macanek	52	6	30
 408694	3	0	White Reversed (6 Suits)	2021-01-19 — 17:28:35 UTC	hakha3, knaphill, macanek	21	6	30
-408693	2	0	Rainbow (6 Suits)	2021-01-19 — 17:26:41 UTC	hakha3, macanek	243	6	30
-408692	2	0	Rainbow (6 Suits)	2021-01-19 — 17:25:51 UTC	hakha3, macanek	254	6	30
-408691	2	30	Rainbow (6 Suits)	2021-01-19 — 17:25:15 UTC	hakha3, macanek	269	6	30
-408690	2	0	Rainbow (6 Suits)	2021-01-19 — 17:22:56 UTC	hakha3, macanek	288	6	30
-408687	2	0	Rainbow (6 Suits)	2021-01-19 — 17:22:26 UTC	hakha3, macanek	306	6	30
-408686	2	0	Rainbow (6 Suits)	2021-01-19 — 17:21:42 UTC	hakha3, macanek	327	6	30
-408685	2	0	Rainbow (6 Suits)	2021-01-19 — 17:19:48 UTC	hakha3, macanek	349	6	30
-408683	2	0	Rainbow (6 Suits)	2021-01-19 — 17:19:15 UTC	hakha3, macanek	395	6	30
-408682	2	0	Rainbow (6 Suits)	2021-01-19 — 17:18:31 UTC	hakha3, macanek	441	6	30
-408680	3	26	6 Suits	2021-01-19 — 17:15:15 UTC	Floriman, hakha3, macanek	66	6	30
-408679	3	0	6 Suits	2021-01-19 — 17:12:35 UTC	Floriman, hakha3, macanek	70	6	30
+408693	2	0	Rainbow (6 Suits)	2021-01-19 — 17:26:41 UTC	hakha3, macanek	244	6	30
+408692	2	0	Rainbow (6 Suits)	2021-01-19 — 17:25:51 UTC	hakha3, macanek	255	6	30
+408691	2	30	Rainbow (6 Suits)	2021-01-19 — 17:25:15 UTC	hakha3, macanek	271	6	30
+408690	2	0	Rainbow (6 Suits)	2021-01-19 — 17:22:56 UTC	hakha3, macanek	289	6	30
+408687	2	0	Rainbow (6 Suits)	2021-01-19 — 17:22:26 UTC	hakha3, macanek	307	6	30
+408686	2	0	Rainbow (6 Suits)	2021-01-19 — 17:21:42 UTC	hakha3, macanek	329	6	30
+408685	2	0	Rainbow (6 Suits)	2021-01-19 — 17:19:48 UTC	hakha3, macanek	351	6	30
+408683	2	0	Rainbow (6 Suits)	2021-01-19 — 17:19:15 UTC	hakha3, macanek	398	6	30
+408682	2	0	Rainbow (6 Suits)	2021-01-19 — 17:18:31 UTC	hakha3, macanek	446	6	30
+408680	3	26	6 Suits	2021-01-19 — 17:15:15 UTC	Floriman, hakha3, macanek	68	6	30
+408679	3	0	6 Suits	2021-01-19 — 17:12:35 UTC	Floriman, hakha3, macanek	72	6	30
 408676	3	30	6 Suits	2021-01-19 — 17:10:18 UTC	Floriman, hakha3, macanek	76	6	30
-408672	3	0	6 Suits	2021-01-19 — 17:06:29 UTC	Floriman, hakha3, macanek	83	6	30
+408672	3	0	6 Suits	2021-01-19 — 17:06:29 UTC	Floriman, hakha3, macanek	84	6	30
 408670	3	0	6 Suits	2021-01-19 — 17:04:09 UTC	Floriman, hakha3, macanek	93	6	30
-408668	3	0	6 Suits	2021-01-19 — 17:02:30 UTC	Floriman, hakha3, macanek	112	6	30
+408668	3	0	6 Suits	2021-01-19 — 17:02:30 UTC	Floriman, hakha3, macanek	113	6	30
 408622	4	0	Dark Brown (5 Suits)	2021-01-19 — 15:20:37 UTC	ChristopheAF, hakha3, indego, MangoPie	10	5	25
-408617	4	24	Dark Brown (5 Suits)	2021-01-19 — 15:03:14 UTC	ChristopheAF, hakha3, indego, robense	14	5	25
-407900	2	25	No Variant	2021-01-18 — 21:52:16 UTC	hakha3, macanek	119	5	25
-407898	2	0	No Variant	2021-01-18 — 21:49:34 UTC	hakha3, macanek	121	5	25
-407895	2	25	No Variant	2021-01-18 — 21:47:27 UTC	hakha3, macanek	124	5	25
-407889	2	0	No Variant	2021-01-18 — 21:42:56 UTC	hakha3, macanek	124	5	25
-407886	2	0	No Variant	2021-01-18 — 21:41:09 UTC	hakha3, macanek	125	5	25
-407884	2	0	No Variant	2021-01-18 — 21:39:32 UTC	hakha3, macanek	125	5	25
-407883	2	0	No Variant	2021-01-18 — 21:38:39 UTC	hakha3, macanek	125	5	25
-407879	2	0	No Variant	2021-01-18 — 21:36:13 UTC	hakha3, macanek	126	5	25
-407877	2	0	No Variant	2021-01-18 — 21:35:35 UTC	hakha3, macanek	126	5	25
-407873	2	0	No Variant	2021-01-18 — 21:33:03 UTC	hakha3, macanek	128	5	25
-407872	2	25	No Variant	2021-01-18 — 21:32:23 UTC	hakha3, macanek	132	5	25
-407868	2	0	No Variant	2021-01-18 — 21:30:09 UTC	hakha3, macanek	133	5	25
-407866	2	0	No Variant	2021-01-18 — 21:29:29 UTC	hakha3, macanek	135	5	25
-407864	2	23	No Variant	2021-01-18 — 21:29:07 UTC	hakha3, macanek	138	5	25
-407860	2	0	No Variant	2021-01-18 — 21:26:58 UTC	hakha3, macanek	139	5	25
-407857	2	0	No Variant	2021-01-18 — 21:24:28 UTC	hakha3, macanek	139	5	25
-407856	2	0	No Variant	2021-01-18 — 21:22:28 UTC	hakha3, macanek	139	5	25
-407854	2	0	No Variant	2021-01-18 — 21:20:13 UTC	hakha3, macanek	142	5	25
-407851	2	25	No Variant	2021-01-18 — 21:17:49 UTC	hakha3, macanek	145	5	25
-407847	2	25	No Variant	2021-01-18 — 21:15:11 UTC	hakha3, macanek	149	5	25
-407844	2	0	No Variant	2021-01-18 — 21:13:15 UTC	hakha3, macanek	152	5	25
-407840	2	24	No Variant	2021-01-18 — 21:11:19 UTC	hakha3, macanek	152	5	25
-407838	2	25	No Variant	2021-01-18 — 21:08:28 UTC	hakha3, macanek	151	5	25
-407834	2	0	No Variant	2021-01-18 — 21:06:48 UTC	hakha3, macanek	151	5	25
-407833	2	25	No Variant	2021-01-18 — 21:04:48 UTC	hakha3, macanek	152	5	25
-407828	2	21	No Variant	2021-01-18 — 21:02:08 UTC	hakha3, macanek	154	5	25
-407825	2	0	No Variant	2021-01-18 — 20:59:24 UTC	hakha3, macanek	154	5	25
-407819	2	0	No Variant	2021-01-18 — 20:57:42 UTC	hakha3, macanek	157	5	25
-407817	2	0	No Variant	2021-01-18 — 20:56:08 UTC	hakha3, macanek	156	5	25
-407816	2	0	No Variant	2021-01-18 — 20:55:26 UTC	hakha3, macanek	159	5	25
-407812	2	0	No Variant	2021-01-18 — 20:54:07 UTC	hakha3, macanek	160	5	25
-407807	2	0	No Variant	2021-01-18 — 20:52:26 UTC	hakha3, macanek	163	5	25
-407805	2	25	No Variant	2021-01-18 — 20:51:23 UTC	hakha3, macanek	165	5	25
-407803	2	0	No Variant	2021-01-18 — 20:49:24 UTC	hakha3, macanek	169	5	25
-407801	2	25	No Variant	2021-01-18 — 20:46:52 UTC	hakha3, macanek	170	5	25
-407798	2	25	No Variant	2021-01-18 — 20:44:30 UTC	hakha3, macanek	175	5	25
-407792	2	24	No Variant	2021-01-18 — 20:41:17 UTC	hakha3, macanek	173	5	25
-407789	2	24	No Variant	2021-01-18 — 20:38:25 UTC	hakha3, macanek	178	5	25
-407783	2	25	No Variant	2021-01-18 — 20:34:32 UTC	hakha3, macanek	178	5	25
-407769	3	0	No Variant	2021-01-18 — 20:26:35 UTC	dobi, hakha3, macanek	77	5	25
-407765	3	0	No Variant	2021-01-18 — 20:23:16 UTC	dobi, hakha3, macanek	79	5	25
-407760	3	0	No Variant	2021-01-18 — 20:18:40 UTC	dobi, hakha3, macanek	89	5	25
-407758	3	0	No Variant	2021-01-18 — 20:16:30 UTC	dobi, hakha3, macanek	101	5	25
-407754	4	0	No Variant	2021-01-18 — 20:13:45 UTC	Daryl, dobi, hakha3, macanek	243	5	25
-407741	5	24	No Variant	2021-01-18 — 20:08:00 UTC	dobi, Floriman, hakha3, macanek, orucsoraihc	67	5	25
-407737	5	0	No Variant	2021-01-18 — 20:05:05 UTC	dobi, Floriman, hakha3, macanek, orucsoraihc	100	5	25
-407731	4	0	No Variant	2021-01-18 — 20:03:09 UTC	Floriman, hakha3, orucsoraihc, sephiroth	23	5	25
-407725	4	0	No Variant	2021-01-18 — 20:00:09 UTC	Floriman, hakha3, orucsoraihc, sephiroth	22	5	25
-407721	4	0	No Variant	2021-01-18 — 19:57:04 UTC	Floriman, hakha3, orucsoraihc, sephiroth	28	5	25
-407715	4	0	No Variant	2021-01-18 — 19:53:34 UTC	Floriman, hakha3, orucsoraihc, sephiroth	44	5	25
-407709	4	0	No Variant	2021-01-18 — 19:51:13 UTC	Floriman, hakha3, orucsoraihc, sephiroth	48	5	25
-407706	4	0	No Variant	2021-01-18 — 19:50:06 UTC	Floriman, hakha3, orucsoraihc, sephiroth	59	5	25
-407669	3	0	No Variant	2021-01-18 — 19:10:34 UTC	hakha3, macanek, Onen	98	5	25
-407665	3	25	No Variant	2021-01-18 — 19:04:13 UTC	hakha3, macanek, Onen	106	5	25
-407660	3	0	No Variant	2021-01-18 — 18:58:08 UTC	hakha3, macanek, Onen	102	5	25
-407653	3	0	No Variant	2021-01-18 — 18:52:23 UTC	hakha3, macanek, Onen	110	5	25
-407645	3	0	No Variant	2021-01-18 — 18:47:31 UTC	hakha3, macanek, Onen	114	5	25
-407615	2	0	No Variant	2021-01-18 — 18:06:12 UTC	hakha3, macanek	181	5	25
-407609	2	0	No Variant	2021-01-18 — 18:03:01 UTC	hakha3, macanek	180	5	25
-407608	2	0	No Variant	2021-01-18 — 18:00:51 UTC	hakha3, macanek	179	5	25
-407605	2	0	No Variant	2021-01-18 — 17:58:51 UTC	hakha3, macanek	181	5	25
-407603	2	0	No Variant	2021-01-18 — 17:56:24 UTC	hakha3, macanek	185	5	25
-407602	2	0	No Variant	2021-01-18 — 17:55:10 UTC	hakha3, macanek	184	5	25
-407595	3	25	No Variant	2021-01-18 — 17:49:49 UTC	hakha3, macanek, Wittvector	106	5	25
-407588	3	23	No Variant	2021-01-18 — 17:43:43 UTC	hakha3, macanek, Wittvector	109	5	25
-407584	3	0	No Variant	2021-01-18 — 17:38:57 UTC	hakha3, macanek, Wittvector	111	5	25
-407580	3	25	No Variant	2021-01-18 — 17:34:36 UTC	hakha3, macanek, Wittvector	187	5	25
-407568	2	0	No Variant	2021-01-18 — 17:22:26 UTC	hakha3, macanek	182	5	25
-407565	2	25	No Variant	2021-01-18 — 17:19:05 UTC	hakha3, macanek	186	5	25
-407563	2	0	No Variant	2021-01-18 — 17:17:05 UTC	hakha3, macanek	187	5	25
-407561	2	0	No Variant	2021-01-18 — 17:14:23 UTC	hakha3, macanek	191	5	25
-407558	2	0	No Variant	2021-01-18 — 17:13:03 UTC	hakha3, macanek	195	5	25
-407554	2	25	No Variant	2021-01-18 — 17:09:28 UTC	hakha3, macanek	194	5	25
-407550	2	24	No Variant	2021-01-18 — 17:05:02 UTC	hakha3, macanek	196	5	25
-407546	2	0	No Variant	2021-01-18 — 17:02:43 UTC	hakha3, macanek	194	5	25
-407545	2	0	No Variant	2021-01-18 — 17:00:20 UTC	hakha3, macanek	201	5	25
-407544	2	0	No Variant	2021-01-18 — 16:58:56 UTC	hakha3, macanek	201	5	25
-407542	2	24	No Variant	2021-01-18 — 16:57:20 UTC	hakha3, macanek	207	5	25
-407539	2	0	No Variant	2021-01-18 — 16:53:40 UTC	hakha3, macanek	207	5	25
-407538	2	0	No Variant	2021-01-18 — 16:52:17 UTC	hakha3, macanek	211	5	25
-407535	2	25	No Variant	2021-01-18 — 16:48:23 UTC	hakha3, macanek	311	5	25
-407533	2	24	No Variant	2021-01-18 — 16:45:37 UTC	hakha3, macanek	369	5	25
-407532	2	0	No Variant	2021-01-18 — 16:42:58 UTC	hakha3, macanek	381	5	25
+408617	4	24	Dark Brown (5 Suits)	2021-01-19 — 15:03:14 UTC	ChristopheAF, hakha3, indego, robense	15	5	25
+407900	2	25	No Variant	2021-01-18 — 21:52:16 UTC	hakha3, macanek	126	5	25
+407898	2	0	No Variant	2021-01-18 — 21:49:34 UTC	hakha3, macanek	127	5	25
+407895	2	25	No Variant	2021-01-18 — 21:47:27 UTC	hakha3, macanek	129	5	25
+407889	2	0	No Variant	2021-01-18 — 21:42:56 UTC	hakha3, macanek	130	5	25
+407886	2	0	No Variant	2021-01-18 — 21:41:09 UTC	hakha3, macanek	131	5	25
+407884	2	0	No Variant	2021-01-18 — 21:39:32 UTC	hakha3, macanek	131	5	25
+407883	2	0	No Variant	2021-01-18 — 21:38:39 UTC	hakha3, macanek	131	5	25
+407879	2	0	No Variant	2021-01-18 — 21:36:13 UTC	hakha3, macanek	132	5	25
+407877	2	0	No Variant	2021-01-18 — 21:35:35 UTC	hakha3, macanek	132	5	25
+407873	2	0	No Variant	2021-01-18 — 21:33:03 UTC	hakha3, macanek	134	5	25
+407872	2	25	No Variant	2021-01-18 — 21:32:23 UTC	hakha3, macanek	137	5	25
+407868	2	0	No Variant	2021-01-18 — 21:30:09 UTC	hakha3, macanek	138	5	25
+407866	2	0	No Variant	2021-01-18 — 21:29:29 UTC	hakha3, macanek	140	5	25
+407864	2	23	No Variant	2021-01-18 — 21:29:07 UTC	hakha3, macanek	144	5	25
+407860	2	0	No Variant	2021-01-18 — 21:26:58 UTC	hakha3, macanek	144	5	25
+407857	2	0	No Variant	2021-01-18 — 21:24:28 UTC	hakha3, macanek	144	5	25
+407856	2	0	No Variant	2021-01-18 — 21:22:28 UTC	hakha3, macanek	144	5	25
+407854	2	0	No Variant	2021-01-18 — 21:20:13 UTC	hakha3, macanek	146	5	25
+407851	2	25	No Variant	2021-01-18 — 21:17:49 UTC	hakha3, macanek	148	5	25
+407847	2	25	No Variant	2021-01-18 — 21:15:11 UTC	hakha3, macanek	151	5	25
+407844	2	0	No Variant	2021-01-18 — 21:13:15 UTC	hakha3, macanek	154	5	25
+407840	2	24	No Variant	2021-01-18 — 21:11:19 UTC	hakha3, macanek	154	5	25
+407838	2	25	No Variant	2021-01-18 — 21:08:28 UTC	hakha3, macanek	153	5	25
+407834	2	0	No Variant	2021-01-18 — 21:06:48 UTC	hakha3, macanek	154	5	25
+407833	2	25	No Variant	2021-01-18 — 21:04:48 UTC	hakha3, macanek	154	5	25
+407828	2	21	No Variant	2021-01-18 — 21:02:08 UTC	hakha3, macanek	156	5	25
+407825	2	0	No Variant	2021-01-18 — 20:59:24 UTC	hakha3, macanek	156	5	25
+407819	2	0	No Variant	2021-01-18 — 20:57:42 UTC	hakha3, macanek	159	5	25
+407817	2	0	No Variant	2021-01-18 — 20:56:08 UTC	hakha3, macanek	159	5	25
+407816	2	0	No Variant	2021-01-18 — 20:55:26 UTC	hakha3, macanek	161	5	25
+407812	2	0	No Variant	2021-01-18 — 20:54:07 UTC	hakha3, macanek	161	5	25
+407807	2	0	No Variant	2021-01-18 — 20:52:26 UTC	hakha3, macanek	164	5	25
+407805	2	25	No Variant	2021-01-18 — 20:51:23 UTC	hakha3, macanek	166	5	25
+407803	2	0	No Variant	2021-01-18 — 20:49:24 UTC	hakha3, macanek	170	5	25
+407801	2	25	No Variant	2021-01-18 — 20:46:52 UTC	hakha3, macanek	171	5	25
+407798	2	25	No Variant	2021-01-18 — 20:44:30 UTC	hakha3, macanek	177	5	25
+407792	2	24	No Variant	2021-01-18 — 20:41:17 UTC	hakha3, macanek	176	5	25
+407789	2	24	No Variant	2021-01-18 — 20:38:25 UTC	hakha3, macanek	183	5	25
+407783	2	25	No Variant	2021-01-18 — 20:34:32 UTC	hakha3, macanek	181	5	25
+407769	3	0	No Variant	2021-01-18 — 20:26:35 UTC	dobi, hakha3, macanek	78	5	25
+407765	3	0	No Variant	2021-01-18 — 20:23:16 UTC	dobi, hakha3, macanek	82	5	25
+407760	3	0	No Variant	2021-01-18 — 20:18:40 UTC	dobi, hakha3, macanek	91	5	25
+407758	3	0	No Variant	2021-01-18 — 20:16:30 UTC	dobi, hakha3, macanek	103	5	25
+407754	4	0	No Variant	2021-01-18 — 20:13:45 UTC	Daryl, dobi, hakha3, macanek	245	5	25
+407741	5	24	No Variant	2021-01-18 — 20:08:00 UTC	dobi, Floriman, hakha3, macanek, orucsoraihc	68	5	25
+407737	5	0	No Variant	2021-01-18 — 20:05:05 UTC	dobi, Floriman, hakha3, macanek, orucsoraihc	102	5	25
+407731	4	0	No Variant	2021-01-18 — 20:03:09 UTC	Floriman, hakha3, orucsoraihc, sephiroth	24	5	25
+407725	4	0	No Variant	2021-01-18 — 20:00:09 UTC	Floriman, hakha3, orucsoraihc, sephiroth	23	5	25
+407721	4	0	No Variant	2021-01-18 — 19:57:04 UTC	Floriman, hakha3, orucsoraihc, sephiroth	29	5	25
+407715	4	0	No Variant	2021-01-18 — 19:53:34 UTC	Floriman, hakha3, orucsoraihc, sephiroth	45	5	25
+407709	4	0	No Variant	2021-01-18 — 19:51:13 UTC	Floriman, hakha3, orucsoraihc, sephiroth	49	5	25
+407706	4	0	No Variant	2021-01-18 — 19:50:06 UTC	Floriman, hakha3, orucsoraihc, sephiroth	60	5	25
+407669	3	0	No Variant	2021-01-18 — 19:10:34 UTC	hakha3, macanek, Onen	102	5	25
+407665	3	25	No Variant	2021-01-18 — 19:04:13 UTC	hakha3, macanek, Onen	110	5	25
+407660	3	0	No Variant	2021-01-18 — 18:58:08 UTC	hakha3, macanek, Onen	107	5	25
+407653	3	0	No Variant	2021-01-18 — 18:52:23 UTC	hakha3, macanek, Onen	114	5	25
+407645	3	0	No Variant	2021-01-18 — 18:47:31 UTC	hakha3, macanek, Onen	120	5	25
+407615	2	0	No Variant	2021-01-18 — 18:06:12 UTC	hakha3, macanek	184	5	25
+407609	2	0	No Variant	2021-01-18 — 18:03:01 UTC	hakha3, macanek	183	5	25
+407608	2	0	No Variant	2021-01-18 — 18:00:51 UTC	hakha3, macanek	182	5	25
+407605	2	0	No Variant	2021-01-18 — 17:58:51 UTC	hakha3, macanek	184	5	25
+407603	2	0	No Variant	2021-01-18 — 17:56:24 UTC	hakha3, macanek	187	5	25
+407602	2	0	No Variant	2021-01-18 — 17:55:10 UTC	hakha3, macanek	186	5	25
+407595	3	25	No Variant	2021-01-18 — 17:49:49 UTC	hakha3, macanek, Wittvector	111	5	25
+407588	3	23	No Variant	2021-01-18 — 17:43:43 UTC	hakha3, macanek, Wittvector	115	5	25
+407584	3	0	No Variant	2021-01-18 — 17:38:57 UTC	hakha3, macanek, Wittvector	116	5	25
+407580	3	25	No Variant	2021-01-18 — 17:34:36 UTC	hakha3, macanek, Wittvector	189	5	25
+407568	2	0	No Variant	2021-01-18 — 17:22:26 UTC	hakha3, macanek	184	5	25
+407565	2	25	No Variant	2021-01-18 — 17:19:05 UTC	hakha3, macanek	188	5	25
+407563	2	0	No Variant	2021-01-18 — 17:17:05 UTC	hakha3, macanek	189	5	25
+407561	2	0	No Variant	2021-01-18 — 17:14:23 UTC	hakha3, macanek	194	5	25
+407558	2	0	No Variant	2021-01-18 — 17:13:03 UTC	hakha3, macanek	197	5	25
+407554	2	25	No Variant	2021-01-18 — 17:09:28 UTC	hakha3, macanek	197	5	25
+407550	2	24	No Variant	2021-01-18 — 17:05:02 UTC	hakha3, macanek	199	5	25
+407546	2	0	No Variant	2021-01-18 — 17:02:43 UTC	hakha3, macanek	197	5	25
+407545	2	0	No Variant	2021-01-18 — 17:00:20 UTC	hakha3, macanek	204	5	25
+407544	2	0	No Variant	2021-01-18 — 16:58:56 UTC	hakha3, macanek	203	5	25
+407542	2	24	No Variant	2021-01-18 — 16:57:20 UTC	hakha3, macanek	209	5	25
+407539	2	0	No Variant	2021-01-18 — 16:53:40 UTC	hakha3, macanek	209	5	25
+407538	2	0	No Variant	2021-01-18 — 16:52:17 UTC	hakha3, macanek	215	5	25
+407535	2	25	No Variant	2021-01-18 — 16:48:23 UTC	hakha3, macanek	320	5	25
+407533	2	24	No Variant	2021-01-18 — 16:45:37 UTC	hakha3, macanek	374	5	25
+407532	2	0	No Variant	2021-01-18 — 16:42:58 UTC	hakha3, macanek	387	5	25
 405164	3	27	Omni (6 Suits)	2021-01-16 — 13:47:37 UTC	hakha3, indego, rz	24	6	30
-405156	3	0	Omni (6 Suits)	2021-01-16 — 13:20:59 UTC	hakha3, indego, rz	27	6	30
+405156	3	0	Omni (6 Suits)	2021-01-16 — 13:20:59 UTC	hakha3, indego, rz	28	6	30
 405153	3	0	Omni (6 Suits)	2021-01-16 — 13:11:36 UTC	hakha3, indego, rz	36	6	30
 405146	3	0	Omni (6 Suits)	2021-01-16 — 12:58:59 UTC	hakha3, indego, rz	51	6	30
-404189	5	29	Rainbow-Ones & White (6 Suits)	2021-01-15 — 18:56:40 UTC	hakha3, Lanvin, MangoPie, Onen, rz	4	6	30
+404189	5	29	Rainbow-Ones & White (6 Suits)	2021-01-15 — 18:56:40 UTC	hakha3, Lanvin, MangoPie, Onen, rz	5	6	30
 403120	3	30	Rainbow & Dark Brown (6 Suits)	2021-01-14 — 17:04:59 UTC	colton, dobi, hakha3	5	6	30
 403102	3	0	Rainbow & Dark Brown (6 Suits)	2021-01-14 — 16:36:23 UTC	colton, dobi, hakha3	9	6	30
-403063	3	20	Prism (4 Suits)	2021-01-14 — 15:29:14 UTC	ArualEIs, hakha3, macanek	45	4	20
+403063	3	20	Prism (4 Suits)	2021-01-14 — 15:29:14 UTC	ArualEIs, hakha3, macanek	47	4	20
 402956	4	28	Dual-Color (6 Suits)	2021-01-14 — 10:58:08 UTC	boba, Fey, hakha3, Lel0uch	10	6	30
 402938	4	24	Ambiguous & Black (5 Suits)	2021-01-14 — 10:19:02 UTC	derekcheah, Fireheart, hakha3, pianoblook	1	5	25
 402924	4	0	Ambiguous & Black (5 Suits)	2021-01-14 — 09:55:57 UTC	derekcheah, Fireheart, hakha3, pianoblook	1	5	25
@@ -554,8 +554,8 @@
 402217	3	25	White & Prism (5 Suits)	2021-01-13 — 19:28:53 UTC	hakha3, Lanvin, MangoPie	16	5	25
 402188	3	0	Up or Down & Light Pink (5 Suits)	2021-01-13 — 19:01:25 UTC	dobi, hakha3, Lanvin	7	5	25
 402140	4	0	Clue Starved & Rainbow (5 Suits)	2021-01-13 — 18:08:11 UTC	Floriman, hakha3, lotem, TimeHoodie	4	5	25
-402132	3	29	Up or Down & Pink (6 Suits)	2021-01-13 — 17:51:24 UTC	Fey, hakha3, MangoPie	13	6	30
-402110	3	25	Up or Down & Prism (5 Suits)	2021-01-13 — 17:22:39 UTC	Fey, hakha3, MangoPie	6	5	25
+402132	3	29	Up or Down & Pink (6 Suits)	2021-01-13 — 17:51:24 UTC	Fey, hakha3, MangoPie	14	6	30
+402110	3	25	Up or Down & Prism (5 Suits)	2021-01-13 — 17:22:39 UTC	Fey, hakha3, MangoPie	9	5	25
 402091	3	25	Up or Down & White (5 Suits)	2021-01-13 — 16:59:43 UTC	Fey, hakha3, MangoPie	6	5	25
 402082	3	25	Up or Down (5 Suits)	2021-01-13 — 16:39:56 UTC	Fey, hakha3, MangoPie	9	5	25
 401985	6	23	Black (5 Suits)	2021-01-13 — 13:02:28 UTC	boba, catula, hakha3, jack67889, Lel0uch, Sucubis	8	5	25
@@ -563,13 +563,13 @@
 401316	5	22	Dark Pink (5 Suits)	2021-01-12 — 20:34:44 UTC	ChristopheAF, dobi, Floriman, hakha3, Kyle	5	5	25
 401284	5	28	Black & Pink (6 Suits)	2021-01-12 — 19:50:10 UTC	ChristopheAF, dobi, hakha3, MangoPie, Wittvector	7	6	30
 401267	5	0	Black & Pink (6 Suits)	2021-01-12 — 19:23:57 UTC	ChristopheAF, dobi, hakha3, MangoPie, Wittvector	8	6	30
-401260	4	0	Gray (5 Suits)	2021-01-12 — 19:16:24 UTC	dobi, hakha3, MangoPie, Wittvector	33	5	25
+401260	4	0	Gray (5 Suits)	2021-01-12 — 19:16:24 UTC	dobi, hakha3, MangoPie, Wittvector	34	5	25
 401239	4	25	Black & Brown (5 Suits)	2021-01-12 — 18:53:22 UTC	dobi, hakha3, MangoPie, Wittvector	11	5	25
 401160	6	24	Special Mix (5 Suits)	2021-01-12 — 17:26:32 UTC	ChristopheAF, dobi, hakha3, indegoo, Lel0uch, sephiroth	3	5	25
 401144	6	0	Special Mix (5 Suits)	2021-01-12 — 16:54:38 UTC	ChristopheAF, dobi, hakha3, indegoo, Lel0uch, sephiroth	3	5	25
 401138	6	22	Special Mix (5 Suits)	2021-01-12 — 16:37:21 UTC	ChristopheAF, dobi, hakha3, indegoo, Lel0uch, sephiroth	4	5	25
-401110	3	24	Black & Dark Pink (6 Suits)	2021-01-12 — 14:56:56 UTC	hakha3, Lel0uch, sephiroth	11	6	30
-400608	3	28	Dual-Color Mix	2021-01-12 — 01:09:07 UTC	doctorabi, hakha3, kevincaseytdk1	42	6	30
+401110	3	24	Black & Dark Pink (6 Suits)	2021-01-12 — 14:56:56 UTC	hakha3, Lel0uch, sephiroth	12	6	30
+400608	3	28	Dual-Color Mix	2021-01-12 — 01:09:07 UTC	doctorabi, hakha3, kevincaseytdk1	43	6	30
 400586	4	30	White & Brown (6 Suits)	2021-01-12 — 00:35:54 UTC	doctorabi, hakha3, kevincaseytdk1, ricardodd	9	6	30
 400577	5	0	White & Brown (6 Suits)	2021-01-12 — 00:17:58 UTC	doctorabi, hakha3, indego, MarkusKahlsen, sephiroth	7	6	30
 400559	5	28	White & Brown (6 Suits)	2021-01-11 — 23:55:52 UTC	doctorabi, hakha3, indego, MarkusKahlsen, sephiroth	10	6	30
@@ -586,7 +586,7 @@
 398506	5	0	Dark Pink (5 Suits)	2021-01-10 — 01:35:14 UTC	derekcheah, hakha3, jack67889, Kyle, melwen	1	5	25
 398021	3	28	Rainbow-Ones & Black (6 Suits)	2021-01-09 — 20:04:59 UTC	Feich59, hakha3, TimeHoodie	3	6	30
 397983	3	0	Rainbow-Ones & Black (6 Suits)	2021-01-09 — 19:43:23 UTC	Feich59, hakha3, TimeHoodie	4	6	30
-397933	3	25	No Variant	2021-01-09 — 18:51:34 UTC	CaitlinSmith, hakha3, Pimak	178	5	25
+397933	3	25	No Variant	2021-01-09 — 18:51:34 UTC	CaitlinSmith, hakha3, Pimak	179	5	25
 397888	5	22	Rainbow-Ones & Black (5 Suits)	2021-01-09 — 17:34:41 UTC	BlueNovember, Floriman, hakha3, HelanaAshryvr, Pantheia	2	5	25
 397815	5	29	Rainbow & Dark Brown (6 Suits)	2021-01-09 — 15:42:13 UTC	hakha3, indego, katian, qqqq, Wittvector	2	6	30
 397789	5	0	Rainbow & Dark Brown (6 Suits)	2021-01-09 — 15:02:14 UTC	hakha3, indego, katian, qqqq, Wittvector	3	6	30
@@ -596,8 +596,8 @@
 397160	3	25	Pink & Omni (5 Suits)	2021-01-09 — 00:30:21 UTC	ejwu, hakha3, jeff10	6	5	25
 395415	5	0	Reversed (6 Suits)	2021-01-07 — 10:02:48 UTC	doctorabi, Fey, hakha3, indego, Pablo-	2	6	30
 395411	5	0	Up or Down & Brown (6 Suits)	2021-01-07 — 09:35:52 UTC	doctorabi, Fey, hakha3, indego, Pablo-	4	6	30
-394685	3	25	Black & Pink (5 Suits)	2021-01-06 — 19:50:38 UTC	ChristopheAF, doctorabi, hakha3	9	5	25
-394654	4	30	Pink (6 Suits)	2021-01-06 — 19:25:17 UTC	ChristopheAF, doctorabi, hakha3, kevincaseytdk1	54	6	30
+394685	3	25	Black & Pink (5 Suits)	2021-01-06 — 19:50:38 UTC	ChristopheAF, doctorabi, hakha3	10	5	25
+394654	4	30	Pink (6 Suits)	2021-01-06 — 19:25:17 UTC	ChristopheAF, doctorabi, hakha3, kevincaseytdk1	55	6	30
 394497	3	22	Rainbow & Dark Brown (5 Suits)	2021-01-06 — 15:15:58 UTC	hakha3, Lel0uch, Wittvector	7	5	25
 394481	4	23	Rainbow & Dark Brown (5 Suits)	2021-01-06 — 14:36:28 UTC	hakha3, Lel0uch, TimeHoodie, Wittvector	4	5	25
 394470	4	23	Rainbow & Dark Brown (5 Suits)	2021-01-06 — 14:11:25 UTC	hakha3, Lel0uch, TimeHoodie, Wittvector	3	5	25
@@ -608,7 +608,7 @@
 393683	4	30	Throw It in a Hole & White (6 Suits)	2021-01-05 — 18:22:09 UTC	hakha3, Lanvin, rake, TimeHoodie	1	6	30
 393669	5	25	Rainbow & Prism (5 Suits)	2021-01-05 — 17:47:20 UTC	bjnh, frosty104, hakha3, Lel0uch, TimeHoodie	1	5	25
 393651	4	20	Pink & Muddy Rainbow (4 Suits)	2021-01-05 — 17:18:21 UTC	frosty104, hakha3, Lel0uch, TimeHoodie	2	4	20
-393642	4	25	Black & White (5 Suits)	2021-01-05 — 16:59:29 UTC	frosty104, hakha3, Lel0uch, TimeHoodie	3	5	25
+393642	4	25	Black & White (5 Suits)	2021-01-05 — 16:59:29 UTC	frosty104, hakha3, Lel0uch, TimeHoodie	4	5	25
 393637	4	0	Black & White (5 Suits)	2021-01-05 — 16:39:51 UTC	frosty104, hakha3, Lel0uch, TimeHoodie	5	5	25
 393085	6	0	4 Suits	2021-01-05 — 04:01:31 UTC	avanderwalde, FerKeth, hakha3, indego, JerryYang, Lel0uch	4	4	20
 393068	6	18	4 Suits	2021-01-05 — 03:41:34 UTC	avanderwalde, FerKeth, hakha3, indego, JerryYang, Lel0uch	6	4	20
@@ -617,17 +617,17 @@
 392867	4	30	White-Ones & White (6 Suits)	2021-01-05 — 00:29:00 UTC	hakha3, jack67889, kevincaseytdk1, Pablo-	2	6	30
 392838	4	0	White-Ones & White (6 Suits)	2021-01-04 — 23:59:30 UTC	hakha3, jack67889, kevincaseytdk1, Pablo-	4	6	30
 392823	4	0	White-Ones & White (6 Suits)	2021-01-04 — 23:47:21 UTC	hakha3, jack67889, kevincaseytdk1, Pablo-	4	6	30
-392665	2	30	Brown (6 Suits)	2021-01-04 — 20:53:13 UTC	hakha3, macanek	72	6	30
-392641	2	0	Brown (6 Suits)	2021-01-04 — 20:37:42 UTC	hakha3, macanek	81	6	30
+392665	2	30	Brown (6 Suits)	2021-01-04 — 20:53:13 UTC	hakha3, macanek	73	6	30
+392641	2	0	Brown (6 Suits)	2021-01-04 — 20:37:42 UTC	hakha3, macanek	82	6	30
 392617	3	22	Black & Pink (5 Suits)	2021-01-04 — 20:18:48 UTC	doctorabi, hakha3, macanek	10	5	25
-392601	2	30	Prism (6 Suits)	2021-01-04 — 19:55:26 UTC	hakha3, macanek	32	6	30
-392591	2	29	Prism (6 Suits)	2021-01-04 — 19:41:26 UTC	hakha3, macanek	44	6	30
-392586	2	0	Prism (6 Suits)	2021-01-04 — 19:28:29 UTC	hakha3, macanek	59	6	30
-392581	2	0	Prism (6 Suits)	2021-01-04 — 19:16:44 UTC	hakha3, macanek	64	6	30
-392578	2	29	Prism (6 Suits)	2021-01-04 — 19:09:51 UTC	hakha3, macanek	87	6	30
-392569	2	0	Prism (6 Suits)	2021-01-04 — 18:54:15 UTC	hakha3, macanek	112	6	30
+392601	2	30	Prism (6 Suits)	2021-01-04 — 19:55:26 UTC	hakha3, macanek	33	6	30
+392591	2	29	Prism (6 Suits)	2021-01-04 — 19:41:26 UTC	hakha3, macanek	46	6	30
+392586	2	0	Prism (6 Suits)	2021-01-04 — 19:28:29 UTC	hakha3, macanek	62	6	30
+392581	2	0	Prism (6 Suits)	2021-01-04 — 19:16:44 UTC	hakha3, macanek	66	6	30
+392578	2	29	Prism (6 Suits)	2021-01-04 — 19:09:51 UTC	hakha3, macanek	92	6	30
+392569	2	0	Prism (6 Suits)	2021-01-04 — 18:54:15 UTC	hakha3, macanek	116	6	30
 392489	5	20	Black & White (5 Suits)	2021-01-04 — 15:31:37 UTC	hakha3, Lanvin, Lel0uch, Pimak, Wittvector	4	5	25
-392470	5	0	Black & White (5 Suits)	2021-01-04 — 15:08:26 UTC	hakha3, Lanvin, Lel0uch, Pimak, Wittvector	5	5	25
+392470	5	0	Black & White (5 Suits)	2021-01-04 — 15:08:26 UTC	hakha3, Lanvin, Lel0uch, Pimak, Wittvector	6	5	25
 392462	5	21	Black & White (5 Suits)	2021-01-04 — 14:49:47 UTC	hakha3, Lanvin, Lel0uch, Pimak, Wittvector	7	5	25
 391591	4	29	Cocoa Rainbow & Dark Prism (6 Suits)	2021-01-03 — 19:04:53 UTC	doctorabi, hakha3, Lel0uch, sin_faith	1	6	30
 391565	4	25	Cocoa Rainbow & Dark Prism (6 Suits)	2021-01-03 — 18:39:14 UTC	doctorabi, hakha3, Lel0uch, sin_faith	1	6	30
@@ -640,47 +640,47 @@
 391423	4	25	Pink & Light Pink (5 Suits)	2021-01-03 — 13:22:58 UTC	frosty104, hakha3, jack67889, Lel0uch	3	5	25
 391421	5	0	Brown (4 Suits)	2021-01-03 — 13:02:33 UTC	bob65536, Feich59, hakha3, jack67889, Wittvector	4	4	20
 391415	5	19	Brown (4 Suits)	2021-01-03 — 12:45:17 UTC	bob65536, Feich59, hakha3, jack67889, Wittvector	5	4	20
-390891	4	30	Gray (6 Suits)	2021-01-03 — 01:41:48 UTC	doctorabi, hakha3, Kyle, sephiroth	7	6	30
+390891	4	30	Gray (6 Suits)	2021-01-03 — 01:41:48 UTC	doctorabi, hakha3, Kyle, sephiroth	9	6	30
 390854	4	27	Gray (6 Suits)	2021-01-03 — 01:13:10 UTC	doctorabi, hakha3, Kyle, sephiroth	15	6	30
-390824	3	0	Rainbow & Cocoa Rainbow (6 Suits)	2021-01-03 — 00:46:13 UTC	doctorabi, hakha3, Kyle	5	6	30
+390824	3	0	Rainbow & Cocoa Rainbow (6 Suits)	2021-01-03 — 00:46:13 UTC	doctorabi, hakha3, Kyle	6	6	30
 390800	6	0	Gray (6 Suits)	2021-01-03 — 00:12:07 UTC	doctorabi, hakha3, jeff10, Lanvin, voss, Wittvector	2	6	30
 390768	6	0	Gray (6 Suits)	2021-01-02 — 23:42:27 UTC	doctorabi, hakha3, jeff10, Lanvin, voss, Wittvector	2	6	30
 390731	3	27	Black & Pink (6 Suits)	2021-01-02 — 23:18:07 UTC	doctorabi, hakha3, Lanvin	31	6	30
-390654	3	0	Rainbow (4 Suits)	2021-01-02 — 22:14:01 UTC	hakha3, jeff10, rahsosprout	84	4	20
-390626	3	25	No Variant	2021-01-02 — 21:45:36 UTC	Donna, hakha3, jack67889	1465	5	25
-390590	4	25	No Variant	2021-01-02 — 21:16:11 UTC	Donna, hakha3, jack67889, TimeHoodie	2763	5	25
+390654	3	0	Rainbow (4 Suits)	2021-01-02 — 22:14:01 UTC	hakha3, jeff10, rahsosprout	85	4	20
+390626	3	25	No Variant	2021-01-02 — 21:45:36 UTC	Donna, hakha3, jack67889	1474	5	25
+390590	4	25	No Variant	2021-01-02 — 21:16:11 UTC	Donna, hakha3, jack67889, TimeHoodie	2788	5	25
 390569	4	20	Throw It in a Hole (4 Suits)	2021-01-02 — 20:54:00 UTC	avanderwalde, hakha3, rkass, TimeHoodie	4	4	20
 390546	4	18	Throw It in a Hole (4 Suits)	2021-01-02 — 20:35:55 UTC	avanderwalde, hakha3, rkass, TimeHoodie	5	4	20
-390481	3	20	Pink & White (4 Suits)	2021-01-02 — 19:23:39 UTC	hakha3, piper, plus	6	4	20
-390428	3	30	Light Pink (6 Suits)	2021-01-02 — 18:32:09 UTC	ChristopheAF, hakha3, Lel0uch	34	6	30
-390413	3	0	Light Pink (6 Suits)	2021-01-02 — 18:14:18 UTC	ChristopheAF, hakha3, Lel0uch	38	6	30
+390481	3	20	Pink & White (4 Suits)	2021-01-02 — 19:23:39 UTC	hakha3, piper, plus	7	4	20
+390428	3	30	Light Pink (6 Suits)	2021-01-02 — 18:32:09 UTC	ChristopheAF, hakha3, Lel0uch	37	6	30
+390413	3	0	Light Pink (6 Suits)	2021-01-02 — 18:14:18 UTC	ChristopheAF, hakha3, Lel0uch	40	6	30
 390285	4	24	White & Dark Prism (5 Suits)	2021-01-02 — 13:50:57 UTC	hakha3, sephiroth, Sucubis, TimeHoodie	2	5	25
 390282	4	25	Prism & Gray (5 Suits)	2021-01-02 — 13:30:13 UTC	hakha3, sephiroth, Sucubis, TimeHoodie	3	5	25
 390277	4	25	Black & Pink (5 Suits)	2021-01-02 — 13:07:42 UTC	hakha3, sephiroth, Sucubis, TimeHoodie	13	5	25
-390274	3	13	3 Suits	2021-01-02 — 12:50:14 UTC	Daryl, hakha3, witcher	88	3	15
+390274	3	13	3 Suits	2021-01-02 — 12:50:14 UTC	Daryl, hakha3, witcher	90	3	15
 389334	3	23	White & Brown (5 Suits)	2021-01-01 — 15:10:33 UTC	catula, hakha3, Lanvin	15	5	25
 389323	3	0	White & Brown (5 Suits)	2021-01-01 — 14:48:28 UTC	catula, hakha3, Lanvin	23	5	25
 388348	4	20	Pink & White (4 Suits)	2020-12-31 — 19:25:53 UTC	ChristopheAF, hakha3, Lel0uch, MarkusKahlsen	6	4	20
 388329	4	19	Pink & White (4 Suits)	2020-12-31 — 18:52:43 UTC	ChristopheAF, hakha3, Lel0uch, MarkusKahlsen	6	4	20
-388307	4	22	Gray (5 Suits)	2020-12-31 — 18:14:14 UTC	doctorabi, hakha3, HelanaAshryvr, jeff10	13	5	25
+388307	4	22	Gray (5 Suits)	2020-12-31 — 18:14:14 UTC	doctorabi, hakha3, HelanaAshryvr, jeff10	15	5	25
 388293	4	0	Prism Reversed (4 Suits)	2020-12-31 — 17:49:03 UTC	doctorabi, hakha3, jeff10, Lel0uch	2	4	20
-388288	2	0	Prism (4 Suits)	2020-12-31 — 17:40:42 UTC	doctorabi, hakha3	66	4	20
-387776	2	0	Null (6 Suits)	2020-12-31 — 02:26:37 UTC	hakha3, kimbifille	24	6	30
-387758	2	0	Null (6 Suits)	2020-12-31 — 02:14:10 UTC	hakha3, kimbifille	25	6	30
-387723	2	0	Null (6 Suits)	2020-12-31 — 01:53:30 UTC	hakha3, kimbifille	27	6	30
-387701	2	27	Null (6 Suits)	2020-12-31 — 01:37:14 UTC	hakha3, kimbifille	31	6	30
-387689	2	0	Null (6 Suits)	2020-12-31 — 01:22:54 UTC	hakha3, kimbifille	34	6	30
-387216	3	29	Gray (6 Suits)	2020-12-30 — 13:21:18 UTC	hakha3, Lanvin, macanek	55	6	30
-387206	3	0	Rainbow (5 Suits)	2020-12-30 — 12:20:01 UTC	hakha3, indego, ricardodd	56	5	25
+388288	2	0	Prism (4 Suits)	2020-12-31 — 17:40:42 UTC	doctorabi, hakha3	69	4	20
+387776	2	0	Null (6 Suits)	2020-12-31 — 02:26:37 UTC	hakha3, kimbifille	25	6	30
+387758	2	0	Null (6 Suits)	2020-12-31 — 02:14:10 UTC	hakha3, kimbifille	26	6	30
+387723	2	0	Null (6 Suits)	2020-12-31 — 01:53:30 UTC	hakha3, kimbifille	28	6	30
+387701	2	27	Null (6 Suits)	2020-12-31 — 01:37:14 UTC	hakha3, kimbifille	32	6	30
+387689	2	0	Null (6 Suits)	2020-12-31 — 01:22:54 UTC	hakha3, kimbifille	35	6	30
+387216	3	29	Gray (6 Suits)	2020-12-30 — 13:21:18 UTC	hakha3, Lanvin, macanek	57	6	30
+387206	3	0	Rainbow (5 Suits)	2020-12-30 — 12:20:01 UTC	hakha3, indego, ricardodd	57	5	25
 387200	3	23	Rainbow (5 Suits)	2020-12-30 — 11:42:32 UTC	hakha3, indego, ricardodd	74	5	25
-386781	2	0	Null (6 Suits)	2020-12-30 — 01:52:55 UTC	hakha3, kimbifille	37	6	30
-386764	2	0	Null (6 Suits)	2020-12-30 — 01:43:48 UTC	hakha3, kimbifille	42	6	30
-386740	2	27	Null (6 Suits)	2020-12-30 — 01:33:23 UTC	hakha3, kimbifille	48	6	30
-386705	2	0	Null (6 Suits)	2020-12-30 — 01:12:57 UTC	hakha3, kimbifille	56	6	30
-386699	2	0	Null (6 Suits)	2020-12-30 — 01:09:09 UTC	hakha3, kimbifille	66	6	30
-386686	2	0	Null (6 Suits)	2020-12-30 — 01:01:45 UTC	hakha3, kimbifille	91	6	30
-386672	2	20	Null (4 Suits)	2020-12-30 — 00:45:27 UTC	hakha3, kimbifille	28	4	20
-386662	2	0	Null (4 Suits)	2020-12-30 — 00:36:19 UTC	hakha3, kimbifille	29	4	20
+386781	2	0	Null (6 Suits)	2020-12-30 — 01:52:55 UTC	hakha3, kimbifille	38	6	30
+386764	2	0	Null (6 Suits)	2020-12-30 — 01:43:48 UTC	hakha3, kimbifille	43	6	30
+386740	2	27	Null (6 Suits)	2020-12-30 — 01:33:23 UTC	hakha3, kimbifille	49	6	30
+386705	2	0	Null (6 Suits)	2020-12-30 — 01:12:57 UTC	hakha3, kimbifille	57	6	30
+386699	2	0	Null (6 Suits)	2020-12-30 — 01:09:09 UTC	hakha3, kimbifille	68	6	30
+386686	2	0	Null (6 Suits)	2020-12-30 — 01:01:45 UTC	hakha3, kimbifille	93	6	30
+386672	2	20	Null (4 Suits)	2020-12-30 — 00:45:27 UTC	hakha3, kimbifille	30	4	20
+386662	2	0	Null (4 Suits)	2020-12-30 — 00:36:19 UTC	hakha3, kimbifille	31	4	20
 386649	2	25	Dark Rainbow (5 Suits)	2020-12-30 — 00:23:22 UTC	hakha3, kimbifille	21	5	25
 386638	2	0	Dark Rainbow (5 Suits)	2020-12-30 — 00:12:58 UTC	hakha3, kimbifille	21	5	25
 386415	4	0	Black & Light Pink (5 Suits)	2020-12-29 — 20:42:40 UTC	hakha3, Lanvin, macanek, PMP	8	5	25
@@ -689,18 +689,18 @@
 386201	4	30	Pink & Light Pink (6 Suits)	2020-12-29 — 16:18:59 UTC	hakha3, IAMJEFF, Lel0uch, melwen	4	6	30
 386190	4	0	Pink & Light Pink (6 Suits)	2020-12-29 — 15:54:11 UTC	hakha3, IAMJEFF, Lel0uch, melwen	5	6	30
 385584	5	30	Pink & White (6 Suits)	2020-12-29 — 01:56:31 UTC	doctorabi, hakha3, IAMJEFF, kimbifille, TimeHoodie	5	6	30
-385560	3	30	Brown & Muddy Rainbow (6 Suits)	2020-12-29 — 01:29:52 UTC	hakha3, IAMJEFF, kimbifille	2	6	30
+385560	3	30	Brown & Muddy Rainbow (6 Suits)	2020-12-29 — 01:29:52 UTC	hakha3, IAMJEFF, kimbifille	3	6	30
 383877	5	25	Muddy Rainbow (5 Suits)	2020-12-27 — 12:57:43 UTC	hakha3, IAMJEFF, jack67889, Lel0uch, sin_faith	4	5	25
 383874	5	0	Muddy Rainbow (5 Suits)	2020-12-27 — 12:42:13 UTC	hakha3, IAMJEFF, jack67889, Lel0uch, sin_faith	5	5	25
 383871	6	29	Pink (6 Suits)	2020-12-27 — 12:19:48 UTC	catula, hakha3, IAMJEFF, Lanvin, Lel0uch, sin_faith	2	6	30
 383868	6	0	Pink (6 Suits)	2020-12-27 — 11:58:42 UTC	catula, hakha3, IAMJEFF, Lanvin, Lel0uch, sin_faith	2	6	30
 383866	6	0	Pink (6 Suits)	2020-12-27 — 11:52:07 UTC	catula, hakha3, IAMJEFF, Lanvin, Lel0uch, sin_faith	3	6	30
-383863	3	25	Reversed (5 Suits)	2020-12-27 — 11:35:24 UTC	hakha3, Lel0uch, sephiroth	17	5	25
-383388	4	30	6 Suits	2020-12-27 — 02:08:56 UTC	doctorabi, hakha3, indego, jeff10	250	6	30
+383863	3	25	Reversed (5 Suits)	2020-12-27 — 11:35:24 UTC	hakha3, Lel0uch, sephiroth	18	5	25
+383388	4	30	6 Suits	2020-12-27 — 02:08:56 UTC	doctorabi, hakha3, indego, jeff10	252	6	30
 383362	3	0	Alternating Clues & Black (5 Suits)	2020-12-27 — 01:47:05 UTC	doctorabi, hakha3, jeff10	2	5	25
-383336	2	23	Black (5 Suits)	2020-12-27 — 01:26:09 UTC	doctorabi, hakha3	108	5	25
-383323	2	0	Black (5 Suits)	2020-12-27 — 01:13:18 UTC	doctorabi, hakha3	115	5	25
-383316	2	0	Black (5 Suits)	2020-12-27 — 01:06:40 UTC	doctorabi, hakha3	244	5	25
+383336	2	23	Black (5 Suits)	2020-12-27 — 01:26:09 UTC	doctorabi, hakha3	113	5	25
+383323	2	0	Black (5 Suits)	2020-12-27 — 01:13:18 UTC	doctorabi, hakha3	120	5	25
+383316	2	0	Black (5 Suits)	2020-12-27 — 01:06:40 UTC	doctorabi, hakha3	250	5	25
 382947	4	30	Dark Brown (6 Suits)	2020-12-26 — 19:58:56 UTC	doctorabi, hakha3, HelanaAshryvr, jack67889	9	6	30
 382920	4	0	Dark Brown (6 Suits)	2020-12-26 — 19:29:10 UTC	doctorabi, hakha3, HelanaAshryvr, jack67889	13	6	30
 382899	4	29	Dark Brown (6 Suits)	2020-12-26 — 19:00:33 UTC	colton, doctorabi, hakha3, Pablo-	15	6	30
@@ -708,7 +708,7 @@
 382852	3	0	Brown & Light Pink (5 Suits)	2020-12-26 — 18:02:23 UTC	hakha3, Lel0uch, TheDaniMan	6	5	25
 382841	3	0	Brown & Light Pink (5 Suits)	2020-12-26 — 17:51:58 UTC	hakha3, jeff10, TheDaniMan	5	5	25
 382157	3	30	Dark Rainbow (6 Suits)	2020-12-26 — 01:09:48 UTC	doctorabi, hakha3, Lanvin	91	6	30
-381990	4	28	Dark Pink (6 Suits)	2020-12-25 — 21:45:20 UTC	Floriman, hakha3, Livia, sephiroth	23	6	30
+381990	4	28	Dark Pink (6 Suits)	2020-12-25 — 21:45:20 UTC	Floriman, hakha3, Livia, sephiroth	24	6	30
 381969	5	17	White (4 Suits)	2020-12-25 — 21:13:35 UTC	Fey, hakha3, HelanaAshryvr, Livia, sephiroth	3	4	20
 381958	4	23	Black & White (5 Suits)	2020-12-25 — 20:52:02 UTC	hakha3, HelanaAshryvr, Kyle, Livia	5	5	25
 381948	5	20	Dark Rainbow (5 Suits)	2020-12-25 — 20:33:03 UTC	ChristopheAF, hakha3, Kyle, Livia, sin_faith	9	5	25
@@ -719,23 +719,23 @@
 381274	3	0	Dark Null (6 Suits)	2020-12-25 — 02:16:33 UTC	hakha3, plus, swineherd	4	6	30
 381261	4	0	Dark Null (6 Suits)	2020-12-25 — 01:50:06 UTC	hakha3, plus, swineherd, Wittvector	5	6	30
 381257	4	0	Dark Null (6 Suits)	2020-12-25 — 01:43:14 UTC	hakha3, plus, swineherd, Wittvector	5	6	30
-381253	4	0	Dark Null (6 Suits)	2020-12-25 — 01:36:21 UTC	hakha3, plus, swineherd, Wittvector	6	6	30
-381236	4	0	Dark Null (6 Suits)	2020-12-25 — 01:16:48 UTC	hakha3, plus, swineherd, Wittvector	8	6	30
+381253	4	0	Dark Null (6 Suits)	2020-12-25 — 01:36:21 UTC	hakha3, plus, swineherd, Wittvector	7	6	30
+381236	4	0	Dark Null (6 Suits)	2020-12-25 — 01:16:48 UTC	hakha3, plus, swineherd, Wittvector	9	6	30
 381147	3	24	Dark Rainbow (5 Suits)	2020-12-24 — 22:29:59 UTC	hakha3, Hoodie, jack67889	20	5	25
-381139	3	0	Dark Rainbow (5 Suits)	2020-12-24 — 22:13:28 UTC	hakha3, Hoodie, jack67889	48	5	25
-381123	3	30	Dark Pink (6 Suits)	2020-12-24 — 21:58:56 UTC	doctorabi, hakha3, Hoodie	34	6	30
-381114	3	0	Dark Pink (6 Suits)	2020-12-24 — 21:42:26 UTC	hakha3, Hoodie, kimbifille	41	6	30
+381139	3	0	Dark Rainbow (5 Suits)	2020-12-24 — 22:13:28 UTC	hakha3, Hoodie, jack67889	49	5	25
+381123	3	30	Dark Pink (6 Suits)	2020-12-24 — 21:58:56 UTC	doctorabi, hakha3, Hoodie	35	6	30
+381114	3	0	Dark Pink (6 Suits)	2020-12-24 — 21:42:26 UTC	hakha3, Hoodie, kimbifille	42	6	30
 381106	2	23	Dark Rainbow (5 Suits)	2020-12-24 — 21:31:06 UTC	hakha3, kimbifille	25	5	25
-381095	2	24	Dark Rainbow (5 Suits)	2020-12-24 — 21:14:14 UTC	hakha3, kimbifille	30	5	25
+381095	2	24	Dark Rainbow (5 Suits)	2020-12-24 — 21:14:14 UTC	hakha3, kimbifille	32	5	25
 380876	4	15	Pink (3 Suits)	2020-12-24 — 14:46:21 UTC	hakha3, katian, macanek, Wittvector	18	3	15
-380806	3	25	Up or Down (5 Suits)	2020-12-24 — 09:10:39 UTC	hakha3, Hoodie, ricardodd	54	5	25
-380796	3	0	Up or Down (5 Suits)	2020-12-24 — 08:35:03 UTC	hakha3, pianoblook, ricardodd	42	5	25
-380789	3	0	Up or Down (5 Suits)	2020-12-24 — 08:13:54 UTC	hakha3, Onen, ricardodd	57	5	25
+380806	3	25	Up or Down (5 Suits)	2020-12-24 — 09:10:39 UTC	hakha3, Hoodie, ricardodd	56	5	25
+380796	3	0	Up or Down (5 Suits)	2020-12-24 — 08:35:03 UTC	hakha3, pianoblook, ricardodd	44	5	25
+380789	3	0	Up or Down (5 Suits)	2020-12-24 — 08:13:54 UTC	hakha3, Onen, ricardodd	59	5	25
 379848	4	20	Reversed (4 Suits)	2020-12-23 — 14:06:21 UTC	Floriman, hakha3, jeff10, Sucubis	1	4	20
 379845	4	0	Reversed (4 Suits)	2020-12-23 — 13:56:19 UTC	Floriman, hakha3, jeff10, Sucubis	3	4	20
 379841	4	0	Reversed (4 Suits)	2020-12-23 — 13:47:11 UTC	Floriman, hakha3, jeff10, Sucubis	5	4	20
 379837	4	0	Reversed (4 Suits)	2020-12-23 — 13:39:27 UTC	Floriman, hakha3, jeff10, Sucubis	5	4	20
-379833	4	0	Clue Starved (6 Suits)	2020-12-23 — 13:27:30 UTC	Floriman, hakha3, jeff10, Sucubis	9	6	30
+379833	4	0	Clue Starved (6 Suits)	2020-12-23 — 13:27:30 UTC	Floriman, hakha3, jeff10, Sucubis	10	6	30
 379271	3	0	Black & Dark Rainbow (6 Suits)	2020-12-23 — 01:05:45 UTC	hakha3, Lanvin, Wittvector	19	6	30
 379254	3	0	Black & Dark Rainbow (6 Suits)	2020-12-23 — 00:41:07 UTC	hakha3, Lanvin, Wittvector	20	6	30
 379248	3	23	Black & Dark Rainbow (6 Suits)	2020-12-23 — 00:25:39 UTC	hakha3, Lanvin, Wittvector	28	6	30
@@ -757,8 +757,8 @@
 377983	3	24	Up or Down & White (5 Suits)	2020-12-21 — 20:10:00 UTC	hakha3, Kyle, Pablo-	5	5	25
 377941	4	25	No Variant	2020-12-21 — 19:25:32 UTC	Daryl, hakha3, ricardodd, timotree	36	5	25
 377903	4	0	Pink (5 Suits)	2020-12-21 — 18:35:57 UTC	Fey, hakha3, IAMJEFF, kimbifille	23	5	25
-377836	4	25	Rainbow (5 Suits)	2020-12-21 — 16:46:48 UTC	Fey, hakha3, Pablo-, PMP	23	5	25
-377825	4	24	Rainbow (5 Suits)	2020-12-21 — 16:18:53 UTC	Fey, hakha3, Pablo-, PMP	32	5	25
+377836	4	25	Rainbow (5 Suits)	2020-12-21 — 16:46:48 UTC	Fey, hakha3, Pablo-, PMP	24	5	25
+377825	4	24	Rainbow (5 Suits)	2020-12-21 — 16:18:53 UTC	Fey, hakha3, Pablo-, PMP	34	5	25
 377815	4	0	Rainbow & Pink (6 Suits)	2020-12-21 — 15:45:29 UTC	hakha3, Pablo-, PMP, VerySloppyTwo	6	6	30
 377805	4	0	Rainbow & Pink (6 Suits)	2020-12-21 — 15:22:14 UTC	hakha3, Pablo-, PMP, VerySloppyTwo	6	6	30
 377326	3	24	Black & Pink (5 Suits)	2020-12-21 — 01:43:55 UTC	doctorabi, frosty104, hakha3	15	5	25
@@ -768,12 +768,12 @@
 377186	5	27	Null (6 Suits)	2020-12-20 — 23:05:36 UTC	doctorabi, frosty104, hakha3, jack67889, MarkusKahlsen	10	6	30
 377158	5	0	Null (6 Suits)	2020-12-20 — 22:37:00 UTC	doctorabi, frosty104, hakha3, jack67889, MarkusKahlsen	13	6	30
 376763	4	28	Black & Brown (6 Suits)	2020-12-20 — 13:22:38 UTC	catula, hakha3, Plum, sephiroth	5	6	30
-376757	4	0	Black & Brown (6 Suits)	2020-12-20 — 12:52:11 UTC	catula, hakha3, Plum, sephiroth	9	6	30
-376642	5	0	No Variant	2020-12-20 — 09:57:43 UTC	Daryl, Fey, frosty104, hakha3, postmans	120	5	25
+376757	4	0	Black & Brown (6 Suits)	2020-12-20 — 12:52:11 UTC	catula, hakha3, Plum, sephiroth	10	6	30
+376642	5	0	No Variant	2020-12-20 — 09:57:43 UTC	Daryl, Fey, frosty104, hakha3, postmans	122	5	25
 376183	5	29	White-Ones & Rainbow (6 Suits)	2020-12-20 — 00:02:46 UTC	antitelharsic, frosty104, hakha3, postmans, rz	2	6	30
-376158	4	0	Brown (6 Suits)	2020-12-19 — 23:21:44 UTC	antitelharsic, doctorabi, hakha3, rz	41	6	30
-376136	3	28	Prism (6 Suits)	2020-12-19 — 23:01:05 UTC	Daryl, hakha3, Pablo-	84	6	30
-375098	3	25	No Variant	2020-12-18 — 23:18:40 UTC	ChristopheAF, hakha3, Spieler42	645	5	25
+376158	4	0	Brown (6 Suits)	2020-12-19 — 23:21:44 UTC	antitelharsic, doctorabi, hakha3, rz	42	6	30
+376136	3	28	Prism (6 Suits)	2020-12-19 — 23:01:05 UTC	Daryl, hakha3, Pablo-	85	6	30
+375098	3	25	No Variant	2020-12-18 — 23:18:40 UTC	ChristopheAF, hakha3, Spieler42	655	5	25
 374771	2	0	Light-Pink-Fives & Dark Prism (6 Suits)	2020-12-18 — 16:34:00 UTC	hakha3, Valetta6789	1	6	30
 374766	2	26	Light-Pink-Fives & Dark Prism (6 Suits)	2020-12-18 — 16:27:01 UTC	hakha3, Valetta6789	1	6	30
 374754	2	25	Light-Pink-Fives & Dark Prism (6 Suits)	2020-12-18 — 16:03:02 UTC	hakha3, Valetta6789	1	6	30
@@ -791,45 +791,45 @@
 373802	6	0	No Variant	2020-12-17 — 16:54:00 UTC	doctorabi, hakha3, Kyle, plus, sin_faith, TimeHoodie	2	5	25
 373796	4	0	Prism (4 Suits)	2020-12-17 — 16:40:59 UTC	GemmyBean, hakha3, Lanvin, rz	21	4	20
 373785	5	0	Prism (3 Suits)	2020-12-17 — 16:19:53 UTC	GemmyBean, hakha3, HelanaAshryvr, Lanvin, timotree	1	3	15
-373774	4	14	3 Suits	2020-12-17 — 15:56:21 UTC	GemmyBean, hakha3, Lanvin, timotree	73	3	15
-373766	4	15	Rainbow (3 Suits)	2020-12-17 — 15:38:48 UTC	ChristopheAF, GemmyBean, hakha3, Lanvin	24	3	15
+373774	4	14	3 Suits	2020-12-17 — 15:56:21 UTC	GemmyBean, hakha3, Lanvin, timotree	74	3	15
+373766	4	15	Rainbow (3 Suits)	2020-12-17 — 15:38:48 UTC	ChristopheAF, GemmyBean, hakha3, Lanvin	25	3	15
 373762	5	17	Rainbow (4 Suits)	2020-12-17 — 15:14:55 UTC	ChristopheAF, Div, GemmyBean, hakha3, Lanvin	10	4	20
 373758	5	19	Rainbow (4 Suits)	2020-12-17 — 14:53:11 UTC	ChristopheAF, Div, GemmyBean, hakha3, Lanvin	11	4	20
 373750	3	20	Muddy Rainbow (4 Suits)	2020-12-17 — 14:28:51 UTC	hakha3, Lanvin, sephiroth	11	4	20
-373728	2	23	No Variant	2020-12-17 — 13:14:13 UTC	hakha3, Spieler42	4109	5	25
+373728	2	23	No Variant	2020-12-17 — 13:14:13 UTC	hakha3, Spieler42	4149	5	25
 373699	3	28	Dark Prism (6 Suits)	2020-12-17 — 10:58:09 UTC	frosty104, hakha3, Sucubis	25	6	30
-373695	2	15	Rainbow (3 Suits)	2020-12-17 — 10:31:36 UTC	frosty104, hakha3	127	3	15
-373693	2	15	Reversed (3 Suits)	2020-12-17 — 10:18:21 UTC	derekcheah, hakha3	25	3	15
+373695	2	15	Rainbow (3 Suits)	2020-12-17 — 10:31:36 UTC	frosty104, hakha3	132	3	15
+373693	2	15	Reversed (3 Suits)	2020-12-17 — 10:18:21 UTC	derekcheah, hakha3	26	3	15
 373207	5	28	Black & Prism (6 Suits)	2020-12-16 — 23:19:27 UTC	doctorabi, frosty104, hakha3, ksfortson, scharkbite	4	6	30
 372928	3	0	Pink & Dark Prism (5 Suits)	2020-12-16 — 18:27:49 UTC	Fey, hakha3, Sucubis	2	5	25
 372913	3	0	Pink & Dark Prism (5 Suits)	2020-12-16 — 18:14:59 UTC	Fey, hakha3, Sucubis	3	5	25
 372903	3	26	Black & Prism (6 Suits)	2020-12-16 — 17:48:10 UTC	Fey, hakha3, PMP	22	6	30
 371243	3	25	Gray (5 Suits)	2020-12-15 — 00:43:59 UTC	hakha3, kevincaseytdk1, Onen	20	5	25
-371231	3	22	Gray (5 Suits)	2020-12-15 — 00:27:56 UTC	hakha3, kevincaseytdk1, Onen	42	5	25
+371231	3	22	Gray (5 Suits)	2020-12-15 — 00:27:56 UTC	hakha3, kevincaseytdk1, Onen	44	5	25
 371012	4	25	Rainbow & Gray (5 Suits)	2020-12-14 — 20:26:12 UTC	doctorabi, hakha3, Kyle, Lel0uch	5	5	25
-368238	3	25	Gray (5 Suits)	2020-12-12 — 00:41:28 UTC	hakha3, Livia, timotree	7	5	25
-368216	4	0	Gray (5 Suits)	2020-12-12 — 00:19:28 UTC	hakha3, Lanvin, Livia, timotree	14	5	25
+368238	3	25	Gray (5 Suits)	2020-12-12 — 00:41:28 UTC	hakha3, Livia, timotree	8	5	25
+368216	4	0	Gray (5 Suits)	2020-12-12 — 00:19:28 UTC	hakha3, Lanvin, Livia, timotree	15	5	25
 366807	3	20	Rainbow-Ones (4 Suits)	2020-12-10 — 16:06:11 UTC	GemmyBean, hakha3, ricardodd	12	4	20
 366249	4	30	Reversed (6 Suits)	2020-12-09 — 22:00:05 UTC	Fey, hakha3, HelanaAshryvr, ricardodd	14	6	30
-364889	4	24	No Variant	2020-12-08 — 21:52:56 UTC	hakha3, kevincaseytdk1, ricardodd, xmaiton	373	5	25
+364889	4	24	No Variant	2020-12-08 — 21:52:56 UTC	hakha3, kevincaseytdk1, ricardodd, xmaiton	376	5	25
 364842	5	0	White-Fives (5 Suits)	2020-12-08 — 21:17:52 UTC	hakha3, kimbifille, marvolo2, postmans, ricardodd	2	5	25
-364811	3	15	Brown (3 Suits)	2020-12-08 — 20:56:49 UTC	hakha3, postmans, ricardodd	21	3	15
+364811	3	15	Brown (3 Suits)	2020-12-08 — 20:56:49 UTC	hakha3, postmans, ricardodd	22	3	15
 364800	3	0	Brown (3 Suits)	2020-12-08 — 20:45:27 UTC	hakha3, postmans, ricardodd	23	3	15
 364795	3	0	Brown (3 Suits)	2020-12-08 — 20:39:40 UTC	hakha3, postmans, ricardodd	29	3	15
 364790	3	0	Brown (3 Suits)	2020-12-08 — 20:34:14 UTC	hakha3, postmans, ricardodd	37	3	15
-364778	3	15	White (3 Suits)	2020-12-08 — 20:25:09 UTC	hakha3, postmans, ricardodd	45	3	15
+364778	3	15	White (3 Suits)	2020-12-08 — 20:25:09 UTC	hakha3, postmans, ricardodd	49	3	15
 364013	5	20	4 Suits	2020-12-07 — 22:16:16 UTC	ADrone, hakha3, kimbifille, Pablo-, ricardodd	47	4	20
 363993	3	25	Rainbow & Prism (5 Suits)	2020-12-07 — 21:50:17 UTC	hakha3, Kyle, plus	12	5	25
-363983	3	24	Rainbow & Prism (5 Suits)	2020-12-07 — 21:37:27 UTC	hakha3, Kyle, plus	16	5	25
+363983	3	24	Rainbow & Prism (5 Suits)	2020-12-07 — 21:37:27 UTC	hakha3, Kyle, plus	17	5	25
 363962	3	0	Rainbow & Prism (5 Suits)	2020-12-07 — 21:17:32 UTC	hakha3, Kyle, plus	26	5	25
 363920	4	29	Dual-Color & Rainbow (6 Suits)	2020-12-07 — 20:44:54 UTC	hakha3, Kyle, postmans, ricardodd	2	6	30
 363869	4	0	Dual-Color & Rainbow (6 Suits)	2020-12-07 — 20:05:25 UTC	hakha3, Kyle, postmans, ricardodd	2	6	30
-363844	4	0	Dual-Color & Rainbow (6 Suits)	2020-12-07 — 19:46:25 UTC	hakha3, Kyle, postmans, ricardodd	12	6	30
+363844	4	0	Dual-Color & Rainbow (6 Suits)	2020-12-07 — 19:46:25 UTC	hakha3, Kyle, postmans, ricardodd	13	6	30
 362430	6	23	Black (5 Suits)	2020-12-06 — 12:07:47 UTC	derekcheah, frosty104, hakha3, IAMJEFF, Lel0uch, Pablo-	8	5	25
-362423	6	24	Black (5 Suits)	2020-12-06 — 11:44:06 UTC	derekcheah, frosty104, hakha3, IAMJEFF, Lel0uch, Pablo-	9	5	25
+362423	6	24	Black (5 Suits)	2020-12-06 — 11:44:06 UTC	derekcheah, frosty104, hakha3, IAMJEFF, Lel0uch, Pablo-	10	5	25
 362419	5	0	Light Pink (4 Suits)	2020-12-06 — 11:32:49 UTC	derekcheah, frosty104, hakha3, IAMJEFF, Lel0uch	4	4	20
 361945	3	0	Rainbow & Brown (6 Suits)	2020-12-06 — 01:03:52 UTC	hakha3, kimbifille, StKildaFan	17	6	30
-361926	2	25	Brown (5 Suits)	2020-12-06 — 00:48:43 UTC	hakha3, kimbifille	124	5	25
+361926	2	25	Brown (5 Suits)	2020-12-06 — 00:48:43 UTC	hakha3, kimbifille	126	5	25
 361902	5	25	Up or Down (5 Suits)	2020-12-06 — 00:21:19 UTC	derekcheah, hakha3, Lanvin, sephiroth, swineherd	5	5	25
 361884	5	0	White-Ones (6 Suits)	2020-12-06 — 00:00:11 UTC	bob65536, hakha3, Lanvin, rachyrules, TheDaniMan	3	6	30
 361878	5	0	White-Ones (6 Suits)	2020-12-05 — 23:46:21 UTC	bob65536, hakha3, Lanvin, rachyrules, TheDaniMan	3	6	30
@@ -838,30 +838,30 @@
 361605	5	23	Prism (5 Suits)	2020-12-05 — 17:24:51 UTC	ADrone, hakha3, Lel0uch, postmans, voss	9	5	25
 361589	5	20	Prism (4 Suits)	2020-12-05 — 16:48:56 UTC	ADrone, hakha3, Lel0uch, Livia, postmans	7	4	20
 361580	5	25	Omni (5 Suits)	2020-12-05 — 16:18:37 UTC	doctorabi, hakha3, postmans, sephiroth, swineherd	3	5	25
-361551	4	20	White (4 Suits)	2020-12-05 — 14:31:11 UTC	frosty104, hakha3, Lanvin, sin_faith	34	4	20
+361551	4	20	White (4 Suits)	2020-12-05 — 14:31:11 UTC	frosty104, hakha3, Lanvin, sin_faith	35	4	20
 361546	6	28	White (6 Suits)	2020-12-05 — 14:02:54 UTC	Carunty, frosty104, hakha3, katian, Lel0uch, postmans	6	6	30
-361542	6	0	White (6 Suits)	2020-12-05 — 13:38:51 UTC	Carunty, frosty104, hakha3, katian, Lel0uch, postmans	9	6	30
+361542	6	0	White (6 Suits)	2020-12-05 — 13:38:51 UTC	Carunty, frosty104, hakha3, katian, Lel0uch, postmans	10	6	30
 361538	6	0	White (6 Suits)	2020-12-05 — 13:18:29 UTC	Carunty, frosty104, hakha3, Lel0uch, macanek, postmans	12	6	30
 361527	6	0	Rainbow (6 Suits)	2020-12-05 — 12:46:14 UTC	Carunty, frosty104, hakha3, Lel0uch, macanek, postmans	23	6	30
 360698	6	0	Dark Rainbow (5 Suits)	2020-12-04 — 19:52:13 UTC	bjnh, doctorabi, hakha3, ricardodd, rz, wump	5	5	25
-360673	5	25	Rainbow (5 Suits)	2020-12-04 — 19:25:59 UTC	doctorabi, hakha3, postmans, ricardodd, rz	54	5	25
+360673	5	25	Rainbow (5 Suits)	2020-12-04 — 19:25:59 UTC	doctorabi, hakha3, postmans, ricardodd, rz	55	5	25
 360639	5	0	Gray (6 Suits)	2020-12-04 — 18:52:46 UTC	doctorabi, hakha3, postmans, rz, Sucubis	8	6	30
-360616	5	0	Dark Pink (6 Suits)	2020-12-04 — 18:23:13 UTC	doctorabi, hakha3, rz, Sucubis, swineherd	8	6	30
+360616	5	0	Dark Pink (6 Suits)	2020-12-04 — 18:23:13 UTC	doctorabi, hakha3, rz, Sucubis, swineherd	9	6	30
 360602	3	23	Rainbow & Gray (5 Suits)	2020-12-04 — 18:04:24 UTC	Fey, hakha3, Sucubis	6	5	25
 360586	5	24	Dark Pink (6 Suits)	2020-12-04 — 17:37:21 UTC	Fey, hakha3, postmans, rz, Sucubis	13	6	30
 360574	5	30	Rainbow & White (6 Suits)	2020-12-04 — 17:09:03 UTC	Fey, hakha3, postmans, rz, Sucubis	14	6	30
 359864	5	25	Prism Reversed (5 Suits)	2020-12-03 — 18:50:26 UTC	doctorabi, Fey, hakha3, sephiroth, Sucubis	1	5	25
 359851	5	0	Prism Reversed (5 Suits)	2020-12-03 — 18:20:43 UTC	doctorabi, Fey, hakha3, sephiroth, Sucubis	1	5	25
-359844	4	0	Dark Brown (5 Suits)	2020-12-03 — 17:55:38 UTC	doctorabi, Fey, hakha3, Sucubis	8	5	25
-359241	3	20	4 Suits	2020-12-02 — 23:10:33 UTC	hakha3, macanek, timotree	118	4	20
+359844	4	0	Dark Brown (5 Suits)	2020-12-03 — 17:55:38 UTC	doctorabi, Fey, hakha3, Sucubis	9	5	25
+359241	3	20	4 Suits	2020-12-02 — 23:10:33 UTC	hakha3, macanek, timotree	120	4	20
 359078	6	23	White Reversed (5 Suits)	2020-12-02 — 19:53:37 UTC	ChristopheAF, Feich59, hakha3, rz, timotree, Veexliat	2	5	25
 359050	4	0	White Reversed (5 Suits)	2020-12-02 — 19:11:23 UTC	Feich59, hakha3, rz, timotree	4	5	25
 359035	4	24	White Reversed (5 Suits)	2020-12-02 — 18:46:12 UTC	Carunty, hakha3, timotree, Veexliat	7	5	25
 359023	6	30	Rainbow-Fives (6 Suits)	2020-12-02 — 18:13:13 UTC	Carunty, hakha3, Kyle, rz, swineherd, Veexliat	2	6	30
 359008	3	24	White Reversed (5 Suits)	2020-12-02 — 17:36:58 UTC	hakha3, timotree, Veexliat	14	5	25
 358550	5	0	Dark Brown (5 Suits)	2020-12-01 — 22:19:11 UTC	doctorabi, hakha3, Kyle, Pablo-, timotree	6	5	25
-358542	4	20	Pink (4 Suits)	2020-12-01 — 21:57:15 UTC	hakha3, Kyle, Pablo-, timotree	8	4	20
-358532	3	20	Pink (4 Suits)	2020-12-01 — 21:34:16 UTC	hakha3, Kyle, postmans	27	4	20
+358542	4	20	Pink (4 Suits)	2020-12-01 — 21:57:15 UTC	hakha3, Kyle, Pablo-, timotree	9	4	20
+358532	3	20	Pink (4 Suits)	2020-12-01 — 21:34:16 UTC	hakha3, Kyle, postmans	28	4	20
 358513	5	19	Pink (4 Suits)	2020-12-01 — 21:06:47 UTC	hakha3, kimbifille, Kyle, postmans, willwin4sure	2	4	20
 358496	5	0	Pink (4 Suits)	2020-12-01 — 20:50:41 UTC	hakha3, kimbifille, Kyle, postmans, willwin4sure	4	4	20
 358469	4	25	Pink (5 Suits)	2020-12-01 — 20:20:34 UTC	hakha3, Kyle, postmans, willwin4sure	5	5	25
@@ -869,14 +869,14 @@
 352050	5	30	Rainbow Reversed (6 Suits)	2020-11-23 — 23:31:44 UTC	asaelr, frosty104, hakha3, jack67889, ksfortson	7	6	30
 352036	4	0	Rainbow & Prism (6 Suits)	2020-11-23 — 22:53:56 UTC	asaelr, doctorabi, frosty104, hakha3	5	6	30
 352033	4	0	Rainbow & Prism (6 Suits)	2020-11-23 — 22:49:19 UTC	asaelr, doctorabi, frosty104, hakha3	9	6	30
-351999	5	19	Rainbow (4 Suits)	2020-11-23 — 22:13:13 UTC	doctorabi, hakha3, HelanaAshryvr, jeff10, Romain672	20	4	20
+351999	5	19	Rainbow (4 Suits)	2020-11-23 — 22:13:13 UTC	doctorabi, hakha3, HelanaAshryvr, jeff10, Romain672	21	4	20
 351768	4	0	Rainbow (3 Suits)	2020-11-23 — 17:41:35 UTC	hakha3, jack67889, MarkusKahlsen, Wittvector	4	3	15
 351758	5	10	Rainbow (3 Suits)	2020-11-23 — 17:24:55 UTC	doctorabi, hakha3, jack67889, MarkusKahlsen, Wittvector	7	3	15
 351030	4	0	White & Brown (6 Suits)	2020-11-22 — 21:11:26 UTC	ebin_noob, Fey, hakha3, TimeHoodie	20	6	30
 351008	3	23	Up or Down & White (5 Suits)	2020-11-22 — 20:53:02 UTC	Fey, hakha3, Sucubis	10	5	25
-350990	3	0	Up or Down & White (5 Suits)	2020-11-22 — 20:38:15 UTC	Fey, hakha3, Sucubis	12	5	25
+350990	3	0	Up or Down & White (5 Suits)	2020-11-22 — 20:38:15 UTC	Fey, hakha3, Sucubis	13	5	25
 350977	4	30	Prism Reversed (6 Suits)	2020-11-22 — 20:26:42 UTC	Fey, hakha3, jeff10, Sucubis	2	6	30
-350942	4	0	Prism Reversed (6 Suits)	2020-11-22 — 19:50:36 UTC	Fey, hakha3, jeff10, Sucubis	6	6	30
+350942	4	0	Prism Reversed (6 Suits)	2020-11-22 — 19:50:36 UTC	Fey, hakha3, jeff10, Sucubis	8	6	30
 350755	2	30	Clue Starved (6 Suits)	2020-11-22 — 15:13:33 UTC	hakha3, Valetta6789	11	6	30
 350748	2	0	Clue Starved (6 Suits)	2020-11-22 — 14:46:50 UTC	hakha3, Valetta6789	11	6	30
 350739	2	28	Clue Starved (6 Suits)	2020-11-22 — 14:20:28 UTC	hakha3, Valetta6789	8	6	30
@@ -911,7 +911,7 @@
 344980	2	25	Clue Starved (6 Suits)	2020-11-16 — 17:06:55 UTC	hakha3, Valetta6789	14	6	30
 344971	2	30	Clue Starved (6 Suits)	2020-11-16 — 16:50:59 UTC	hakha3, Valetta6789	17	6	30
 344963	2	26	Clue Starved (6 Suits)	2020-11-16 — 16:24:13 UTC	hakha3, Valetta6789	17	6	30
-344419	2	0	No Variant	2020-11-15 — 22:43:27 UTC	hakha3, ruki	5374	5	25
+344419	2	0	No Variant	2020-11-15 — 22:43:27 UTC	hakha3, ruki	5421	5	25
 343416	2	26	Clue Starved (6 Suits)	2020-11-14 — 18:46:27 UTC	hakha3, Valetta6789	18	6	30
 343406	2	28	Clue Starved (6 Suits)	2020-11-14 — 18:22:36 UTC	hakha3, Valetta6789	21	6	30
 343386	2	0	Clue Starved (6 Suits)	2020-11-14 — 17:56:39 UTC	hakha3, Valetta6789	27	6	30
@@ -920,12 +920,12 @@
 342915	5	0	Cocoa Rainbow (6 Suits)	2020-11-14 — 02:05:19 UTC	avanderwalde, hakha3, kimbifille, melwen, rkass	4	6	30
 342898	5	0	Cocoa Rainbow (6 Suits)	2020-11-14 — 01:47:12 UTC	avanderwalde, hakha3, kimbifille, melwen, rkass	5	6	30
 342860	4	29	Black & Rainbow (6 Suits)	2020-11-14 — 01:08:36 UTC	avanderwalde, hakha3, kimbifille, melwen	11	6	30
-342823	3	0	Black & White (5 Suits)	2020-11-14 — 00:25:48 UTC	hakha3, kimbifille, melwen	40	5	25
+342823	3	0	Black & White (5 Suits)	2020-11-14 — 00:25:48 UTC	hakha3, kimbifille, melwen	41	5	25
 342808	4	0	Black & Rainbow (5 Suits)	2020-11-14 — 00:04:57 UTC	hakha3, kimbifille, melwen, RaKXeR	7	5	25
 342783	4	22	Black & Rainbow (5 Suits)	2020-11-13 — 23:57:40 UTC	hakha3, kimbifille, melwen, RaKXeR	6	5	25
-342714	2	29	Black & Rainbow (6 Suits)	2020-11-13 — 23:24:44 UTC	hakha3, kimbifille	71	6	30
-342665	2	0	Black & Rainbow (6 Suits)	2020-11-13 — 23:06:27 UTC	hakha3, kimbifille	79	6	30
-342637	2	28	Black & Rainbow (6 Suits)	2020-11-13 — 22:58:05 UTC	hakha3, kimbifille	98	6	30
+342714	2	29	Black & Rainbow (6 Suits)	2020-11-13 — 23:24:44 UTC	hakha3, kimbifille	73	6	30
+342665	2	0	Black & Rainbow (6 Suits)	2020-11-13 — 23:06:27 UTC	hakha3, kimbifille	81	6	30
+342637	2	28	Black & Rainbow (6 Suits)	2020-11-13 — 22:58:05 UTC	hakha3, kimbifille	100	6	30
 342482	2	18	Clue Starved & Rainbow (5 Suits)	2020-11-13 — 20:26:26 UTC	hakha3, plus	2	5	25
 342464	2	22	Clue Starved & Rainbow (5 Suits)	2020-11-13 — 20:02:56 UTC	hakha3, plus	2	5	25
 342454	2	0	Clue Starved & Rainbow (5 Suits)	2020-11-13 — 19:50:48 UTC	hakha3, plus	2	5	25
@@ -933,60 +933,60 @@
 342385	2	0	Brown & Prism (5 Suits)	2020-11-13 — 17:24:34 UTC	hakha3, plus	10	5	25
 342374	6	28	Dark Brown (6 Suits)	2020-11-13 — 16:57:45 UTC	hakha3, jeff10, kimbifille, plus, Sucubis, TimeHoodie	6	6	30
 342352	4	0	Black (5 Suits)	2020-11-13 — 16:17:57 UTC	Feich59, hakha3, jeff10, Sucubis	5	5	25
-341526	3	20	No Variant	2020-11-12 — 11:42:08 UTC	beri, Durandal, hakha3	1636	5	25
-341522	3	23	No Variant	2020-11-12 — 11:19:43 UTC	beri, Durandal, hakha3	1881	5	25
-341520	3	0	No Variant	2020-11-12 — 11:02:36 UTC	beri, hakha3, Tomtoz	2163	5	25
-341519	3	25	No Variant	2020-11-12 — 10:57:16 UTC	beri, hakha3, Tomtoz	2606	5	25
-341516	2	23	No Variant	2020-11-12 — 10:32:51 UTC	beri, hakha3	163	5	25
+341526	3	20	No Variant	2020-11-12 — 11:42:08 UTC	beri, Durandal, hakha3	1651	5	25
+341522	3	23	No Variant	2020-11-12 — 11:19:43 UTC	beri, Durandal, hakha3	1896	5	25
+341520	3	0	No Variant	2020-11-12 — 11:02:36 UTC	beri, hakha3, Tomtoz	2179	5	25
+341519	3	25	No Variant	2020-11-12 — 10:57:16 UTC	beri, hakha3, Tomtoz	2627	5	25
+341516	2	23	No Variant	2020-11-12 — 10:32:51 UTC	beri, hakha3	165	5	25
 341149	2	20	White Reversed (4 Suits)	2020-11-11 — 22:31:49 UTC	hakha3, kimbifille	9	4	20
-341135	2	25	Gray (5 Suits)	2020-11-11 — 22:16:50 UTC	hakha3, kimbifille	58	5	25
-341127	2	22	Gray (5 Suits)	2020-11-11 — 22:07:59 UTC	hakha3, kimbifille	66	5	25
-341119	2	0	Gray (5 Suits)	2020-11-11 — 21:58:44 UTC	hakha3, kimbifille	79	5	25
-341108	2	30	Gray (6 Suits)	2020-11-11 — 21:45:00 UTC	hakha3, kimbifille	37	6	30
-341088	2	0	Gray (6 Suits)	2020-11-11 — 21:22:35 UTC	hakha3, kimbifille	39	6	30
-341073	2	0	Gray (6 Suits)	2020-11-11 — 21:01:16 UTC	hakha3, kimbifille	40	6	30
-341059	2	0	Gray (6 Suits)	2020-11-11 — 20:51:34 UTC	hakha3, kimbifille	41	6	30
-341051	2	0	Gray (6 Suits)	2020-11-11 — 20:44:38 UTC	hakha3, kimbifille	45	6	30
+341135	2	25	Gray (5 Suits)	2020-11-11 — 22:16:50 UTC	hakha3, kimbifille	59	5	25
+341127	2	22	Gray (5 Suits)	2020-11-11 — 22:07:59 UTC	hakha3, kimbifille	67	5	25
+341119	2	0	Gray (5 Suits)	2020-11-11 — 21:58:44 UTC	hakha3, kimbifille	80	5	25
+341108	2	30	Gray (6 Suits)	2020-11-11 — 21:45:00 UTC	hakha3, kimbifille	38	6	30
+341088	2	0	Gray (6 Suits)	2020-11-11 — 21:22:35 UTC	hakha3, kimbifille	40	6	30
+341073	2	0	Gray (6 Suits)	2020-11-11 — 21:01:16 UTC	hakha3, kimbifille	41	6	30
+341059	2	0	Gray (6 Suits)	2020-11-11 — 20:51:34 UTC	hakha3, kimbifille	43	6	30
+341051	2	0	Gray (6 Suits)	2020-11-11 — 20:44:38 UTC	hakha3, kimbifille	46	6	30
 341027	2	30	White (6 Suits)	2020-11-11 — 20:28:24 UTC	hakha3, kimbifille	77	6	30
-340848	2	0	Black Reversed (6 Suits)	2020-11-11 — 17:20:46 UTC	hakha3, IAMJEFF	15	6	30
+340848	2	0	Black Reversed (6 Suits)	2020-11-11 — 17:20:46 UTC	hakha3, IAMJEFF	16	6	30
 340840	2	0	Black Reversed (6 Suits)	2020-11-11 — 17:01:12 UTC	hakha3, IAMJEFF	19	6	30
 340835	2	0	Light Pink & Prism (5 Suits)	2020-11-11 — 16:50:01 UTC	hakha3, IAMJEFF	9	5	25
 340797	4	0	Omni-Fives (5 Suits)	2020-11-11 — 15:47:55 UTC	Fey, hakha3, Pepepe, TimeHoodie	6	5	25
 340793	3	0	Omni-Fives (5 Suits)	2020-11-11 — 15:25:38 UTC	Fey, hakha3, TimeHoodie	6	5	25
 340094	5	30	Up or Down & White (6 Suits)	2020-11-10 — 17:39:21 UTC	Fey, hakha3, MarkusKahlsen, sin_faith, Sucubis	4	6	30
 340077	5	23	Up or Down & Prism (5 Suits)	2020-11-10 — 16:56:25 UTC	Fey, hakha3, MarkusKahlsen, Sucubis, TimeHoodie	2	5	25
-340070	5	0	Up or Down & Prism (5 Suits)	2020-11-10 — 16:23:57 UTC	Fey, hakha3, MarkusKahlsen, Sucubis, TimeHoodie	2	5	25
-340056	2	27	White (6 Suits)	2020-11-10 — 15:53:57 UTC	hakha3, kimbifille	100	6	30
-194923	3	25	White (5 Suits)	2020-06-05 — 12:29:17 UTC	Fey, hakha3, robense	29	5	25
+340070	5	0	Up or Down & Prism (5 Suits)	2020-11-10 — 16:23:57 UTC	Fey, hakha3, MarkusKahlsen, Sucubis, TimeHoodie	3	5	25
+340056	2	27	White (6 Suits)	2020-11-10 — 15:53:57 UTC	hakha3, kimbifille	102	6	30
+194923	3	25	White (5 Suits)	2020-06-05 — 12:29:17 UTC	Fey, hakha3, robense	30	5	25
 194263	4	23	Black Reversed (5 Suits)	2020-06-05 — 00:59:06 UTC	hakha3, Lilliana, qbphoenix, TheDaniMan	6	5	25
 194217	4	23	Black Reversed (5 Suits)	2020-06-05 — 00:31:34 UTC	hakha3, Lilliana, qbphoenix, TheDaniMan	8	5	25
 194203	3	23	Black Reversed (5 Suits)	2020-06-05 — 00:12:55 UTC	hakha3, Lilliana, TheDaniMan	6	5	25
 194190	3	23	Black Reversed (5 Suits)	2020-06-04 — 23:58:29 UTC	hakha3, Lilliana, TheDaniMan	10	5	25
 194186	3	30	Black Reversed (6 Suits)	2020-06-04 — 23:44:44 UTC	hakha3, Lilliana, TheDaniMan	8	6	30
 194093	5	19	No Variant	2020-06-04 — 21:50:10 UTC	hakha3, Kyle, Lilliana, newduke, TheDaniMan	39	5	25
-194059	6	23	No Variant	2020-06-04 — 21:16:05 UTC	hakha3, Jake_Stiles, Kyle, Lilliana, newduke, TheDaniMan	91	5	25
+194059	6	23	No Variant	2020-06-04 — 21:16:05 UTC	hakha3, Jake_Stiles, Kyle, Lilliana, newduke, TheDaniMan	92	5	25
 194033	4	0	Black Reversed (5 Suits)	2020-06-04 — 20:53:57 UTC	hakha3, Jake_Stiles, Kyle, Lilliana	9	5	25
 193814	5	30	Up or Down (6 Suits)	2020-06-04 — 16:25:25 UTC	hakha3, Kyle, sephiroth, TimeHoodie, Zakisan	5	6	30
-193790	5	0	Up or Down (6 Suits)	2020-06-04 — 15:50:50 UTC	hakha3, Kyle, sephiroth, TimeHoodie, Zakisan	5	6	30
+193790	5	0	Up or Down (6 Suits)	2020-06-04 — 15:50:50 UTC	hakha3, Kyle, sephiroth, TimeHoodie, Zakisan	6	6	30
 193785	5	0	Up or Down (5 Suits)	2020-06-04 — 15:43:27 UTC	hakha3, Kyle, sephiroth, TimeHoodie, Zakisan	5	5	25
 193772	5	25	White (5 Suits)	2020-06-04 — 15:19:29 UTC	asaelr, hakha3, padi, sephiroth, Zakisan	11	5	25
 193754	4	25	White (5 Suits)	2020-06-04 — 14:48:17 UTC	hakha3, MarkusKahlsen, sin_faith, will.i.am	60	5	25
-193744	3	0	White (4 Suits)	2020-06-04 — 14:31:07 UTC	hakha3, MarkusKahlsen, sin_faith	59	4	20
+193744	3	0	White (4 Suits)	2020-06-04 — 14:31:07 UTC	hakha3, MarkusKahlsen, sin_faith	62	4	20
 193692	6	25	Black & White (6 Suits)	2020-06-04 — 12:50:04 UTC	hakha3, MarkusKahlsen, Nitrate2, sephiroth, TimeHoodie, Zakisan	5	6	30
 193678	3	23	Black & White (5 Suits)	2020-06-04 — 12:06:47 UTC	hakha3, Nitrate2, sephiroth	45	5	25
-193101	3	24	No Variant	2020-06-03 — 23:52:27 UTC	hakha3, newduke, padi	411	5	25
+193101	3	24	No Variant	2020-06-03 — 23:52:27 UTC	hakha3, newduke, padi	417	5	25
 192995	4	0	Rainbow (6 Suits)	2020-06-03 — 21:38:04 UTC	hakha3, kimbifille, kooolant, Kyle	57	6	30
-192982	4	0	Rainbow (6 Suits)	2020-06-03 — 21:26:42 UTC	hakha3, kimbifille, kooolant, Kyle	63	6	30
-192976	4	30	Rainbow (6 Suits)	2020-06-03 — 21:18:24 UTC	hakha3, kimbifille, kooolant, Kyle	65	6	30
-192967	4	0	Rainbow (6 Suits)	2020-06-03 — 21:05:13 UTC	hakha3, kimbifille, kooolant, Kyle	70	6	30
-192960	4	30	Rainbow (6 Suits)	2020-06-03 — 20:52:24 UTC	hakha3, kimbifille, kooolant, Kyle	91	6	30
-192954	4	0	Rainbow (6 Suits)	2020-06-03 — 20:32:11 UTC	hakha3, kimbifille, kooolant, Kyle	96	6	30
+192982	4	0	Rainbow (6 Suits)	2020-06-03 — 21:26:42 UTC	hakha3, kimbifille, kooolant, Kyle	64	6	30
+192976	4	30	Rainbow (6 Suits)	2020-06-03 — 21:18:24 UTC	hakha3, kimbifille, kooolant, Kyle	67	6	30
+192967	4	0	Rainbow (6 Suits)	2020-06-03 — 21:05:13 UTC	hakha3, kimbifille, kooolant, Kyle	72	6	30
+192960	4	30	Rainbow (6 Suits)	2020-06-03 — 20:52:24 UTC	hakha3, kimbifille, kooolant, Kyle	94	6	30
+192954	4	0	Rainbow (6 Suits)	2020-06-03 — 20:32:11 UTC	hakha3, kimbifille, kooolant, Kyle	97	6	30
 192942	4	30	Rainbow (6 Suits)	2020-06-03 — 20:07:22 UTC	hakha3, kimbifille, postmans, Zakisan	132	6	30
-192925	4	0	Rainbow (6 Suits)	2020-06-03 — 19:54:17 UTC	hakha3, kimbifille, postmans, Zakisan	156	6	30
-192915	5	0	Rainbow (6 Suits)	2020-06-03 — 19:46:14 UTC	Fey, hakha3, kimbifille, kooolant, postmans	12	6	30
+192925	4	0	Rainbow (6 Suits)	2020-06-03 — 19:54:17 UTC	hakha3, kimbifille, postmans, Zakisan	157	6	30
+192915	5	0	Rainbow (6 Suits)	2020-06-03 — 19:46:14 UTC	Fey, hakha3, kimbifille, kooolant, postmans	13	6	30
 192906	5	28	Rainbow (6 Suits)	2020-06-03 — 19:40:30 UTC	Fey, hakha3, kimbifille, kooolant, postmans	13	6	30
 192888	5	30	Rainbow (6 Suits)	2020-06-03 — 19:23:25 UTC	Fey, hakha3, kimbifille, kooolant, postmans	15	6	30
-192854	4	30	Rainbow (6 Suits)	2020-06-03 — 19:02:04 UTC	hakha3, kimbifille, kooolant, postmans	238	6	30
+192854	4	30	Rainbow (6 Suits)	2020-06-03 — 19:02:04 UTC	hakha3, kimbifille, kooolant, postmans	244	6	30
 192831	3	30	Rainbow (6 Suits)	2020-06-03 — 18:47:21 UTC	hakha3, kimbifille, postmans	126	6	30
 192810	3	0	Brown & Omni (4 Suits)	2020-06-03 — 18:33:10 UTC	hakha3, kimbifille, postmans	4	4	20
 192631	2	25	Rainbow & Brown (5 Suits)	2020-06-03 — 13:43:15 UTC	charmander, hakha3	9	5	25
@@ -996,7 +996,7 @@
 191968	6	0	Null-Ones (5 Suits)	2020-06-03 — 00:23:02 UTC	hakha3, kimbifille, kooolant, Kyle, melwen, scacc8	1	5	25
 191963	6	25	Brown-Fives (5 Suits)	2020-06-03 — 00:15:20 UTC	hakha3, kimbifille, kooolant, Kyle, melwen, Nitrate2	1	5	25
 191638	4	25	No Variant	2020-06-02 — 18:49:45 UTC	asaelr, hakha3, pianoblook, will.i.am	21	5	25
-191628	4	0	No Variant	2020-06-02 — 18:26:39 UTC	asaelr, hakha3, pianoblook, will.i.am	21	5	25
+191628	4	0	No Variant	2020-06-02 — 18:26:39 UTC	asaelr, hakha3, pianoblook, will.i.am	22	5	25
 191621	4	23	Black & Brown (5 Suits)	2020-06-02 — 18:12:06 UTC	hakha3, padi, TheDaniMan, TimeHoodie	8	5	25
 191608	4	0	Black & Brown (5 Suits)	2020-06-02 — 17:47:10 UTC	hakha3, padi, TheDaniMan, TimeHoodie	10	5	25
 191596	5	0	Black & Brown (5 Suits)	2020-06-02 — 17:34:24 UTC	hakha3, Kyle, swineherd, TheDaniMan, TimeHoodie	5	5	25
@@ -1004,33 +1004,33 @@
 191578	3	24	Black & Brown (5 Suits)	2020-06-02 — 16:57:52 UTC	hakha3, Kyle, TimeHoodie	19	5	25
 191568	5	23	Black & Brown (5 Suits)	2020-06-02 — 16:31:10 UTC	hakha3, Kyle, MarkusKahlsen, TheDaniMan, TimeHoodie	7	5	25
 191547	4	24	Black & Brown (5 Suits)	2020-06-02 — 15:53:37 UTC	hakha3, padi, TimeHoodie, Zakisan	13	5	25
-191474	3	0	Black & Brown (5 Suits)	2020-06-02 — 12:54:45 UTC	charmander, hakha3, kimbifille	10	5	25
-191470	3	0	Black & Brown (5 Suits)	2020-06-02 — 12:32:29 UTC	charmander, hakha3, kimbifille	11	5	25
+191474	3	0	Black & Brown (5 Suits)	2020-06-02 — 12:54:45 UTC	charmander, hakha3, kimbifille	11	5	25
+191470	3	0	Black & Brown (5 Suits)	2020-06-02 — 12:32:29 UTC	charmander, hakha3, kimbifille	12	5	25
 191466	3	24	Black & Brown (5 Suits)	2020-06-02 — 12:09:18 UTC	charmander, hakha3, kimbifille	14	5	25
-191453	2	25	Black & Rainbow (5 Suits)	2020-06-02 — 11:37:12 UTC	charmander, hakha3	39	5	25
-191449	2	0	Black & Rainbow (5 Suits)	2020-06-02 — 11:19:17 UTC	charmander, hakha3	45	5	25
-191443	2	24	Black (5 Suits)	2020-06-02 — 10:48:49 UTC	charmander, hakha3	69	5	25
-191442	2	25	Black (5 Suits)	2020-06-02 — 10:31:50 UTC	charmander, hakha3	78	5	25
-191438	2	21	Black (5 Suits)	2020-06-02 — 10:16:44 UTC	charmander, hakha3	85	5	25
-191434	2	25	Black (5 Suits)	2020-06-02 — 10:03:39 UTC	charmander, hakha3	97	5	25
+191453	2	25	Black & Rainbow (5 Suits)	2020-06-02 — 11:37:12 UTC	charmander, hakha3	40	5	25
+191449	2	0	Black & Rainbow (5 Suits)	2020-06-02 — 11:19:17 UTC	charmander, hakha3	46	5	25
+191443	2	24	Black (5 Suits)	2020-06-02 — 10:48:49 UTC	charmander, hakha3	73	5	25
+191442	2	25	Black (5 Suits)	2020-06-02 — 10:31:50 UTC	charmander, hakha3	82	5	25
+191438	2	21	Black (5 Suits)	2020-06-02 — 10:16:44 UTC	charmander, hakha3	89	5	25
+191434	2	25	Black (5 Suits)	2020-06-02 — 10:03:39 UTC	charmander, hakha3	101	5	25
 190766	3	24	Black & Rainbow (5 Suits)	2020-06-01 — 22:22:06 UTC	hakha3, kimbifille, Romain672	9	5	25
 190737	3	23	Black & Rainbow (5 Suits)	2020-06-01 — 21:53:07 UTC	hakha3, kimbifille, Romain672	8	5	25
-190718	2	29	6 Suits	2020-06-01 — 21:28:04 UTC	hakha3, kimbifille	248	6	30
+190718	2	29	6 Suits	2020-06-01 — 21:28:04 UTC	hakha3, kimbifille	253	6	30
 190670	4	27	Black & Rainbow (6 Suits)	2020-06-01 — 20:43:45 UTC	frollo9386, hakha3, kimbifille, postmans	46	6	30
-190639	2	29	6 Suits	2020-06-01 — 20:22:45 UTC	hakha3, postmans	378	6	30
-190629	2	0	6 Suits	2020-06-01 — 20:15:27 UTC	hakha3, postmans	851	6	30
-190622	2	25	No Variant	2020-06-01 — 20:11:14 UTC	hakha3, postmans	2147	5	25
+190639	2	29	6 Suits	2020-06-01 — 20:22:45 UTC	hakha3, postmans	388	6	30
+190629	2	0	6 Suits	2020-06-01 — 20:15:27 UTC	hakha3, postmans	862	6	30
+190622	2	25	No Variant	2020-06-01 — 20:11:14 UTC	hakha3, postmans	2166	5	25
 190599	4	22	Up or Down (5 Suits)	2020-06-01 — 19:54:18 UTC	hakha3, kooolant, postmans, sephiroth	41	5	25
-190438	3	22	No Variant	2020-06-01 — 14:46:39 UTC	hakha3, kooolant, sephiroth	3260	5	25
-189088	4	0	Rainbow (4 Suits)	2020-05-31 — 14:06:40 UTC	hakha3, kimbifille, melwen, postmans	32	4	20
-189087	4	20	Rainbow (4 Suits)	2020-05-31 — 14:06:30 UTC	hakha3, kimbifille, melwen, postmans	45	4	20
+190438	3	22	No Variant	2020-06-01 — 14:46:39 UTC	hakha3, kooolant, sephiroth	3290	5	25
+189088	4	0	Rainbow (4 Suits)	2020-05-31 — 14:06:40 UTC	hakha3, kimbifille, melwen, postmans	33	4	20
+189087	4	20	Rainbow (4 Suits)	2020-05-31 — 14:06:30 UTC	hakha3, kimbifille, melwen, postmans	46	4	20
 189078	6	25	Reversed (5 Suits)	2020-05-31 — 13:40:32 UTC	asaelr, Dr_Kakashi, hakha3, kimbifille, melwen, postmans	3	5	25
 189039	4	0	Rainbow-Fives & Black (5 Suits)	2020-05-31 — 11:19:52 UTC	Dr_Kakashi, duckmammal, hakha3, postmans	1	5	25
-189034	3	14	3 Suits	2020-05-31 — 10:56:37 UTC	duckmammal, hakha3, postmans	115	3	15
-189029	3	14	3 Suits	2020-05-31 — 10:41:28 UTC	duckmammal, hakha3, postmans	144	3	15
-189028	2	21	Black (5 Suits)	2020-05-31 — 10:26:57 UTC	duckmammal, hakha3	124	5	25
-189022	2	25	Black (5 Suits)	2020-05-31 — 10:07:46 UTC	duckmammal, hakha3	169	5	25
-189020	2	24	Black (5 Suits)	2020-05-31 — 09:53:39 UTC	duckmammal, hakha3	219	5	25
+189034	3	14	3 Suits	2020-05-31 — 10:56:37 UTC	duckmammal, hakha3, postmans	116	3	15
+189029	3	14	3 Suits	2020-05-31 — 10:41:28 UTC	duckmammal, hakha3, postmans	146	3	15
+189028	2	21	Black (5 Suits)	2020-05-31 — 10:26:57 UTC	duckmammal, hakha3	129	5	25
+189022	2	25	Black (5 Suits)	2020-05-31 — 10:07:46 UTC	duckmammal, hakha3	173	5	25
+189020	2	24	Black (5 Suits)	2020-05-31 — 09:53:39 UTC	duckmammal, hakha3	222	5	25
 188248	4	30	Muddy Rainbow (6 Suits)	2020-05-30 — 23:48:38 UTC	hakha3, kimbifille, Kyle, postmans	9	6	30
 188209	5	0	Rainbow (6 Suits)	2020-05-30 — 23:00:09 UTC	DrJones, hakha3, kimbifille, postmans, TheDaniMan	17	6	30
 188173	5	29	Rainbow (6 Suits)	2020-05-30 — 22:23:10 UTC	DrJones, hakha3, kimbifille, postmans, TheDaniMan	24	6	30
@@ -1038,27 +1038,27 @@
 187855	3	21	Black & Rainbow (5 Suits)	2020-05-30 — 15:05:13 UTC	ankeszu, hakha3, postmans	26	5	25
 187839	3	25	Black & Rainbow (5 Suits)	2020-05-30 — 14:32:59 UTC	ankeszu, hakha3, postmans	30	5	25
 187821	3	24	Black & Rainbow (5 Suits)	2020-05-30 — 13:46:23 UTC	ankeszu, hakha3, postmans	31	5	25
-187808	3	24	Black & Rainbow (5 Suits)	2020-05-30 — 13:06:58 UTC	ankeszu, hakha3, postmans	19	5	25
-187799	3	0	Black & Rainbow (5 Suits)	2020-05-30 — 12:45:02 UTC	ankeszu, hakha3, postmans	20	5	25
-187792	3	23	Black & Rainbow (5 Suits)	2020-05-30 — 12:24:55 UTC	ankeszu, hakha3, postmans	24	5	25
-187785	2	23	Black & Rainbow (5 Suits)	2020-05-30 — 12:12:29 UTC	ankeszu, hakha3	55	5	25
-187779	2	22	Black & Rainbow (5 Suits)	2020-05-30 — 11:59:10 UTC	ankeszu, hakha3	61	5	25
+187808	3	24	Black & Rainbow (5 Suits)	2020-05-30 — 13:06:58 UTC	ankeszu, hakha3, postmans	20	5	25
+187799	3	0	Black & Rainbow (5 Suits)	2020-05-30 — 12:45:02 UTC	ankeszu, hakha3, postmans	21	5	25
+187792	3	23	Black & Rainbow (5 Suits)	2020-05-30 — 12:24:55 UTC	ankeszu, hakha3, postmans	25	5	25
+187785	2	23	Black & Rainbow (5 Suits)	2020-05-30 — 12:12:29 UTC	ankeszu, hakha3	56	5	25
+187779	2	22	Black & Rainbow (5 Suits)	2020-05-30 — 11:59:10 UTC	ankeszu, hakha3	62	5	25
 187774	2	22	Black & Rainbow (5 Suits)	2020-05-30 — 11:40:15 UTC	ankeszu, hakha3	73	5	25
-186782	2	19	Rainbow-Ones (4 Suits)	2020-05-29 — 23:03:45 UTC	hakha3, kimbifille	17	4	20
-186774	2	20	Light Pink (4 Suits)	2020-05-29 — 22:53:20 UTC	hakha3, kimbifille	43	4	20
-186762	2	25	Black (6 Suits)	2020-05-29 — 22:41:31 UTC	hakha3, kimbifille	300	6	30
-186746	2	26	Black (6 Suits)	2020-05-29 — 22:19:54 UTC	hakha3, kimbifille	325	6	30
-186731	2	28	Black (6 Suits)	2020-05-29 — 22:05:04 UTC	hakha3, kimbifille	350	6	30
-186715	2	30	6 Suits	2020-05-29 — 21:49:30 UTC	hakha3, kimbifille	274	6	30
-186680	2	0	6 Suits	2020-05-29 — 21:27:34 UTC	hakha3, kimbifille	304	6	30
+186782	2	19	Rainbow-Ones (4 Suits)	2020-05-29 — 23:03:45 UTC	hakha3, kimbifille	19	4	20
+186774	2	20	Light Pink (4 Suits)	2020-05-29 — 22:53:20 UTC	hakha3, kimbifille	48	4	20
+186762	2	25	Black (6 Suits)	2020-05-29 — 22:41:31 UTC	hakha3, kimbifille	306	6	30
+186746	2	26	Black (6 Suits)	2020-05-29 — 22:19:54 UTC	hakha3, kimbifille	332	6	30
+186731	2	28	Black (6 Suits)	2020-05-29 — 22:05:04 UTC	hakha3, kimbifille	358	6	30
+186715	2	30	6 Suits	2020-05-29 — 21:49:30 UTC	hakha3, kimbifille	280	6	30
+186680	2	0	6 Suits	2020-05-29 — 21:27:34 UTC	hakha3, kimbifille	315	6	30
 186613	4	25	Reversed (5 Suits)	2020-05-29 — 20:56:55 UTC	hakha3, kimbifille, Lilliana, postmans	10	5	25
-186576	4	0	Reversed (5 Suits)	2020-05-29 — 20:29:13 UTC	hakha3, kimbifille, Lilliana, postmans	11	5	25
-186554	4	24	Reversed (5 Suits)	2020-05-29 — 20:17:25 UTC	hakha3, kimbifille, Lilliana, postmans	17	5	25
-186521	2	0	6 Suits	2020-05-29 — 19:50:53 UTC	hakha3, kimbifille	340	6	30
+186576	4	0	Reversed (5 Suits)	2020-05-29 — 20:29:13 UTC	hakha3, kimbifille, Lilliana, postmans	12	5	25
+186554	4	24	Reversed (5 Suits)	2020-05-29 — 20:17:25 UTC	hakha3, kimbifille, Lilliana, postmans	19	5	25
+186521	2	0	6 Suits	2020-05-29 — 19:50:53 UTC	hakha3, kimbifille	352	6	30
 185293	4	24	Black & Rainbow (5 Suits)	2020-05-28 — 20:26:21 UTC	hakha3, kimbifille, plus, postmans	32	5	25
 185274	3	0	Black & Rainbow (5 Suits)	2020-05-28 — 20:11:07 UTC	hakha3, kimbifille, postmans	23	5	25
 185263	3	25	Black & Rainbow (5 Suits)	2020-05-28 — 20:02:14 UTC	hakha3, kimbifille, postmans	26	5	25
-185241	3	25	Black & Rainbow (5 Suits)	2020-05-28 — 19:43:51 UTC	hakha3, kimbifille, postmans	27	5	25
+185241	3	25	Black & Rainbow (5 Suits)	2020-05-28 — 19:43:51 UTC	hakha3, kimbifille, postmans	28	5	25
 184148	3	0	Black & Rainbow (5 Suits)	2020-05-28 — 00:31:26 UTC	hakha3, kimbifille, kooolant	33	5	25
 184127	3	30	Black (6 Suits)	2020-05-28 — 00:09:00 UTC	hakha3, kimbifille, kooolant	24	6	30
 184106	3	30	Black (6 Suits)	2020-05-27 — 23:49:10 UTC	hakha3, kimbifille, kooolant	26	6	30
@@ -1066,34 +1066,34 @@
 184055	3	30	Black (6 Suits)	2020-05-27 — 23:04:03 UTC	hakha3, kimbifille, kooolant	32	6	30
 184044	3	30	Dark Rainbow (6 Suits)	2020-05-27 — 22:35:25 UTC	hakha3, kimbifille, kooolant	1	6	30
 183941	3	25	Black & Rainbow (5 Suits)	2020-05-27 — 20:23:45 UTC	ankeszu, hakha3, postmans	40	5	25
-183926	3	23	Black & Rainbow (5 Suits)	2020-05-27 — 20:09:53 UTC	ankeszu, hakha3, postmans	46	5	25
+183926	3	23	Black & Rainbow (5 Suits)	2020-05-27 — 20:09:53 UTC	ankeszu, hakha3, postmans	47	5	25
 183905	3	21	Black & Rainbow (5 Suits)	2020-05-27 — 19:48:36 UTC	ankeszu, hakha3, postmans	58	5	25
-183606	3	19	Throw It in a Hole (4 Suits)	2020-05-27 — 10:56:21 UTC	Fey, hakha3, Zakisan	14	4	20
+183606	3	19	Throw It in a Hole (4 Suits)	2020-05-27 — 10:56:21 UTC	Fey, hakha3, Zakisan	15	4	20
 183603	4	0	Throw It in a Hole (4 Suits)	2020-05-27 — 10:27:57 UTC	Fey, hakha3, sin_faith, Zakisan	12	4	20
-183026	5	26	Black (6 Suits)	2020-05-26 — 23:46:49 UTC	hakha3, honzas, swineherd, TheDaniMan, XMIL	27	6	30
-183004	5	0	Black (6 Suits)	2020-05-26 — 23:10:57 UTC	hakha3, honzas, qbphoenix, swineherd, TheDaniMan	35	6	30
+183026	5	26	Black (6 Suits)	2020-05-26 — 23:46:49 UTC	hakha3, honzas, swineherd, TheDaniMan, XMIL	28	6	30
+183004	5	0	Black (6 Suits)	2020-05-26 — 23:10:57 UTC	hakha3, honzas, qbphoenix, swineherd, TheDaniMan	36	6	30
 182985	6	25	Pink (5 Suits)	2020-05-26 — 22:41:18 UTC	asaelr, DrJones, hakha3, pianoblook, qbphoenix, TheDaniMan	4	5	25
 182968	4	0	Pink (5 Suits)	2020-05-26 — 22:15:31 UTC	asaelr, DrJones, hakha3, TheDaniMan	3	5	25
 182961	5	0	Pink (5 Suits)	2020-05-26 — 22:02:02 UTC	DrJones, hakha3, kimbifille, TheDaniMan, TimeHoodie	20	5	25
-182946	3	25	Pink (5 Suits)	2020-05-26 — 21:42:21 UTC	hakha3, kimbifille, TimeHoodie	36	5	25
-182928	3	0	Pink (5 Suits)	2020-05-26 — 21:21:01 UTC	hakha3, kimbifille, TimeHoodie	49	5	25
+182946	3	25	Pink (5 Suits)	2020-05-26 — 21:42:21 UTC	hakha3, kimbifille, TimeHoodie	38	5	25
+182928	3	0	Pink (5 Suits)	2020-05-26 — 21:21:01 UTC	hakha3, kimbifille, TimeHoodie	51	5	25
 151894	3	0	Omni (5 Suits)	2020-05-04 — 17:56:51 UTC	hakha3, kimbifille, kooolant	50	5	25
-151794	5	29	Black (6 Suits)	2020-05-04 — 14:24:55 UTC	Animex52, arnino, hakha3, padi, TimeHoodie	101	6	30
-151772	4	28	Black (6 Suits)	2020-05-04 — 13:30:25 UTC	arnino, CastlesInTheAir, hakha3, TimeHoodie	142	6	30
+151794	5	29	Black (6 Suits)	2020-05-04 — 14:24:55 UTC	Animex52, arnino, hakha3, padi, TimeHoodie	103	6	30
+151772	4	28	Black (6 Suits)	2020-05-04 — 13:30:25 UTC	arnino, CastlesInTheAir, hakha3, TimeHoodie	143	6	30
 151757	5	29	White (6 Suits)	2020-05-04 — 12:59:30 UTC	hakha3, MarkusKahlsen, plus, TimeHoodie, Zakisan	9	6	30
-150853	2	22	Up or Down (5 Suits)	2020-05-03 — 23:27:45 UTC	beri, hakha3	40	5	25
-150819	2	24	Throw It in a Hole (5 Suits)	2020-05-03 — 22:59:53 UTC	beri, hakha3	24	5	25
-150779	2	21	Throw It in a Hole (5 Suits)	2020-05-03 — 22:26:49 UTC	beri, hakha3	29	5	25
-150758	2	25	No Variant	2020-05-03 — 22:13:02 UTC	beri, hakha3	1621	5	25
+150853	2	22	Up or Down (5 Suits)	2020-05-03 — 23:27:45 UTC	beri, hakha3	42	5	25
+150819	2	24	Throw It in a Hole (5 Suits)	2020-05-03 — 22:59:53 UTC	beri, hakha3	25	5	25
+150779	2	21	Throw It in a Hole (5 Suits)	2020-05-03 — 22:26:49 UTC	beri, hakha3	31	5	25
+150758	2	25	No Variant	2020-05-03 — 22:13:02 UTC	beri, hakha3	1637	5	25
 150121	2	0	Throw It in a Hole (6 Suits)	2020-05-03 — 14:21:24 UTC	ankeszu, hakha3	12	6	30
 150111	2	0	Throw It in a Hole (6 Suits)	2020-05-03 — 14:11:57 UTC	ankeszu, hakha3	16	6	30
 150095	2	0	Throw It in a Hole (6 Suits)	2020-05-03 — 13:55:15 UTC	ankeszu, hakha3	29	6	30
-150042	2	30	Rainbow (6 Suits)	2020-05-03 — 12:52:36 UTC	ankeszu, hakha3	593	6	30
-150022	2	30	Rainbow (6 Suits)	2020-05-03 — 12:16:08 UTC	ankeszu, hakha3	717	6	30
+150042	2	30	Rainbow (6 Suits)	2020-05-03 — 12:52:36 UTC	ankeszu, hakha3	605	6	30
+150022	2	30	Rainbow (6 Suits)	2020-05-03 — 12:16:08 UTC	ankeszu, hakha3	728	6	30
 149251	5	23	No Variant	2020-05-03 — 02:03:23 UTC	hakha3, kalisa, Nitrate2, scharkbite, Zamiel	3	5	25
 149138	5	23	No Variant	2020-05-03 — 01:16:57 UTC	hakha3, honzas, kalisa, scharkbite, Zamiel	3	5	25
-149075	5	24	No Variant	2020-05-03 — 00:42:36 UTC	hakha3, kalisa, Nitrate2, scharkbite, Zamiel	2	5	25
-149023	5	25	No Variant	2020-05-03 — 00:07:01 UTC	hakha3, kalisa, Nitrate2, scharkbite, Zamiel	3	5	25
+149075	5	24	No Variant	2020-05-03 — 00:42:36 UTC	hakha3, kalisa, Nitrate2, scharkbite, Zamiel	3	5	25
+149023	5	25	No Variant	2020-05-03 — 00:07:01 UTC	hakha3, kalisa, Nitrate2, scharkbite, Zamiel	4	5	25
 148886	2	0	Special Mix (5 Suits)	2020-05-02 — 22:04:32 UTC	hakha3, plus	63	5	25
 148804	2	18	Special Mix (5 Suits)	2020-05-02 — 21:20:59 UTC	hakha3, plus	66	5	25
 148763	2	0	Special Mix (5 Suits)	2020-05-02 — 21:02:19 UTC	hakha3, plus	88	5	25
@@ -1101,16 +1101,16 @@
 147037	4	0	Throw It in a Hole (6 Suits)	2020-05-01 — 21:39:28 UTC	hakha3, NotAdmitted, plus, qpenguin	15	6	30
 146958	3	28	Throw It in a Hole (6 Suits)	2020-05-01 — 20:55:55 UTC	hakha3, plus, qpenguin	15	6	30
 146576	3	29	Throw It in a Hole (6 Suits)	2020-05-01 — 15:26:29 UTC	hakha3, kimbifille, Romain672	21	6	30
-146528	2	0	Throw It in a Hole (5 Suits)	2020-05-01 — 14:43:16 UTC	hakha3, kimbifille	34	5	25
-146487	2	24	Throw It in a Hole (5 Suits)	2020-05-01 — 14:08:36 UTC	hakha3, kimbifille	49	5	25
-146476	2	0	Throw It in a Hole (5 Suits)	2020-05-01 — 13:53:16 UTC	hakha3, kimbifille	76	5	25
+146528	2	0	Throw It in a Hole (5 Suits)	2020-05-01 — 14:43:16 UTC	hakha3, kimbifille	37	5	25
+146487	2	24	Throw It in a Hole (5 Suits)	2020-05-01 — 14:08:36 UTC	hakha3, kimbifille	53	5	25
+146476	2	0	Throw It in a Hole (5 Suits)	2020-05-01 — 13:53:16 UTC	hakha3, kimbifille	81	5	25
 146436	5	0	Brown (6 Suits)	2020-05-01 — 13:14:28 UTC	asaelr, hakha3, honzas, Nils, TimeHoodie	16	6	30
 146418	5	0	Brown (6 Suits)	2020-05-01 — 12:55:54 UTC	asaelr, hakha3, honzas, Nils, TimeHoodie	21	6	30
 146403	5	29	Rainbow & White (6 Suits)	2020-05-01 — 12:32:23 UTC	hakha3, Libster, magikarp, TimeHoodie, Zakisan	11	6	30
-146387	6	0	Rainbow & White (6 Suits)	2020-05-01 — 12:05:47 UTC	chriswck, hakha3, Libster, magikarp, TimeHoodie, Zakisan	4	6	30
-146382	6	0	Rainbow & White (6 Suits)	2020-05-01 — 11:56:19 UTC	chriswck, hakha3, Libster, magikarp, TimeHoodie, Zakisan	5	6	30
-146378	5	0	Rainbow & White (6 Suits)	2020-05-01 — 11:43:44 UTC	chriswck, hakha3, magikarp, TimeHoodie, Zakisan	11	6	30
-146376	3	0	Rainbow & White (6 Suits)	2020-05-01 — 11:41:52 UTC	chriswck, hakha3, magikarp	32	6	30
+146387	6	0	Rainbow & White (6 Suits)	2020-05-01 — 12:05:47 UTC	chriswck, hakha3, Libster, magikarp, TimeHoodie, Zakisan	5	6	30
+146382	6	0	Rainbow & White (6 Suits)	2020-05-01 — 11:56:19 UTC	chriswck, hakha3, Libster, magikarp, TimeHoodie, Zakisan	6	6	30
+146378	5	0	Rainbow & White (6 Suits)	2020-05-01 — 11:43:44 UTC	chriswck, hakha3, magikarp, TimeHoodie, Zakisan	12	6	30
+146376	3	0	Rainbow & White (6 Suits)	2020-05-01 — 11:41:52 UTC	chriswck, hakha3, magikarp	33	6	30
 145758	4	0	Up or Down & Rainbow (6 Suits)	2020-05-01 — 01:37:27 UTC	hakha3, kimbifille, kooolant, Romain672	5	6	30
 145689	4	0	Up or Down & Rainbow (6 Suits)	2020-05-01 — 01:02:32 UTC	hakha3, kimbifille, kooolant, Romain672	6	6	30
 145531	3	30	Alternating Clues (6 Suits)	2020-04-30 — 23:09:26 UTC	hakha3, kimbifille, Romain672	6	6	30
@@ -1118,49 +1118,49 @@
 145467	3	0	Cow & Pig (6 Suits)	2020-04-30 — 22:17:18 UTC	hakha3, kimbifille, plus	13	6	30
 145343	5	27	Rainbow (6 Suits)	2020-04-30 — 21:23:28 UTC	Fey, hakha3, kimbifille, Kyle, plus	10	6	30
 145214	5	0	Rainbow (6 Suits)	2020-04-30 — 20:23:11 UTC	Fey, hakha3, kimbifille, Kyle, plus	9	6	30
-145126	3	25	No Variant	2020-04-30 — 19:30:29 UTC	Fey, hakha3, sin_faith	220	5	25
-144030	4	0	Rainbow (6 Suits)	2020-04-30 — 01:00:17 UTC	hakha3, kimbifille, kooolant, Romain672	344	6	30
-143993	4	0	Rainbow (6 Suits)	2020-04-30 — 00:31:57 UTC	hakha3, kimbifille, kooolant, Romain672	493	6	30
+145126	3	25	No Variant	2020-04-30 — 19:30:29 UTC	Fey, hakha3, sin_faith	224	5	25
+144030	4	0	Rainbow (6 Suits)	2020-04-30 — 01:00:17 UTC	hakha3, kimbifille, kooolant, Romain672	349	6	30
+143993	4	0	Rainbow (6 Suits)	2020-04-30 — 00:31:57 UTC	hakha3, kimbifille, kooolant, Romain672	497	6	30
 143961	4	18	White & Omni (4 Suits)	2020-04-30 — 00:03:31 UTC	hakha3, kimbifille, kooolant, Romain672	5	4	20
-143488	2	26	Alternating Clues (6 Suits)	2020-04-29 — 16:08:35 UTC	hakha3, plus	13	6	30
-143467	2	25	Alternating Clues (6 Suits)	2020-04-29 — 15:36:41 UTC	hakha3, plus	19	6	30
+143488	2	26	Alternating Clues (6 Suits)	2020-04-29 — 16:08:35 UTC	hakha3, plus	14	6	30
+143467	2	25	Alternating Clues (6 Suits)	2020-04-29 — 15:36:41 UTC	hakha3, plus	21	6	30
 142747	4	23	Up or Down & Rainbow (5 Suits)	2020-04-29 — 00:43:34 UTC	hakha3, kimbifille, kooolant, plus	15	5	25
 142712	4	20	Extremely Ambiguous (4 Suits)	2020-04-29 — 00:06:21 UTC	hakha3, kimbifille, kooolant, plus	3	4	20
 142700	4	20	Extremely Ambiguous (4 Suits)	2020-04-28 — 23:47:43 UTC	hakha3, kimbifille, kooolant, plus	5	4	20
 142676	4	0	Ambiguous (6 Suits)	2020-04-28 — 23:22:48 UTC	hakha3, kimbifille, kooolant, plus	32	6	30
 142645	4	0	Ambiguous (6 Suits)	2020-04-28 — 22:52:32 UTC	hakha3, kimbifille, kooolant, plus	40	6	30
-142624	3	28	Ambiguous (6 Suits)	2020-04-28 — 22:26:37 UTC	hakha3, kimbifille, kooolant	69	6	30
+142624	3	28	Ambiguous (6 Suits)	2020-04-28 — 22:26:37 UTC	hakha3, kimbifille, kooolant	71	6	30
 142457	5	23	Throw It in a Hole (5 Suits)	2020-04-28 — 20:04:18 UTC	hakha3, NotAdmitted, postmans, qpenguin, Romain672	9	5	25
 142384	4	0	Throw It in a Hole (4 Suits)	2020-04-28 — 19:27:12 UTC	hakha3, NotAdmitted, postmans, Romain672	5	4	20
 142147	3	0	Throw It in a Hole & Rainbow (6 Suits)	2020-04-28 — 13:38:42 UTC	chriswck, Fey, hakha3	1	6	30
 142135	3	30	Throw It in a Hole & Rainbow (6 Suits)	2020-04-28 — 12:56:58 UTC	Fey, hakha3, qpenguin	1	6	30
 142110	3	0	Throw It in a Hole & Rainbow (6 Suits)	2020-04-28 — 12:17:15 UTC	Fey, hakha3, qpenguin	6	6	30
-142096	2	30	Rainbow & Brown (6 Suits)	2020-04-28 — 11:47:32 UTC	hakha3, qpenguin	35	6	30
-142088	2	30	Brown (6 Suits)	2020-04-28 — 11:23:55 UTC	hakha3, qpenguin	94	6	30
-142083	2	29	Brown (6 Suits)	2020-04-28 — 11:12:35 UTC	hakha3, qpenguin	129	6	30
-142080	2	15	3 Suits	2020-04-28 — 11:00:49 UTC	hakha3, qpenguin	271	3	15
-141434	3	0	Up or Down & Rainbow (6 Suits)	2020-04-27 — 23:42:25 UTC	hakha3, NotAdmitted, qpenguin	16	6	30
-141421	3	0	Up or Down & Rainbow (6 Suits)	2020-04-27 — 23:23:19 UTC	hakha3, NotAdmitted, qpenguin	20	6	30
+142096	2	30	Rainbow & Brown (6 Suits)	2020-04-28 — 11:47:32 UTC	hakha3, qpenguin	37	6	30
+142088	2	30	Brown (6 Suits)	2020-04-28 — 11:23:55 UTC	hakha3, qpenguin	95	6	30
+142083	2	29	Brown (6 Suits)	2020-04-28 — 11:12:35 UTC	hakha3, qpenguin	131	6	30
+142080	2	15	3 Suits	2020-04-28 — 11:00:49 UTC	hakha3, qpenguin	273	3	15
+141434	3	0	Up or Down & Rainbow (6 Suits)	2020-04-27 — 23:42:25 UTC	hakha3, NotAdmitted, qpenguin	17	6	30
+141421	3	0	Up or Down & Rainbow (6 Suits)	2020-04-27 — 23:23:19 UTC	hakha3, NotAdmitted, qpenguin	21	6	30
 141361	3	23	Up or Down & Null (5 Suits)	2020-04-27 — 22:27:38 UTC	hakha3, kimbifille, kooolant	4	5	25
 141330	4	23	Up or Down & Rainbow (5 Suits)	2020-04-27 — 21:53:28 UTC	hakha3, kimbifille, kooolant, postmans	18	5	25
 141295	4	24	Up or Down & Omni (5 Suits)	2020-04-27 — 21:17:46 UTC	hakha3, kimbifille, kooolant, postmans	8	5	25
 141269	4	21	Up or Down & Omni (5 Suits)	2020-04-27 — 20:53:57 UTC	hakha3, kimbifille, kooolant, postmans	8	5	25
 140969	2	30	Up or Down & Rainbow (6 Suits)	2020-04-27 — 14:00:29 UTC	Fey, hakha3	19	6	30
-140960	2	28	Up or Down & Rainbow (6 Suits)	2020-04-27 — 13:44:00 UTC	Fey, hakha3	19	6	30
-139984	2	30	Up or Down & Rainbow (6 Suits)	2020-04-26 — 21:06:36 UTC	hakha3, qpenguin	21	6	30
-139953	2	0	Up or Down & Rainbow (6 Suits)	2020-04-26 — 20:54:02 UTC	hakha3, qpenguin	24	6	30
-139918	2	27	Up or Down & Rainbow (6 Suits)	2020-04-26 — 20:40:38 UTC	hakha3, qpenguin	28	6	30
-139873	2	26	Up or Down & Rainbow (6 Suits)	2020-04-26 — 20:24:08 UTC	hakha3, qpenguin	36	6	30
-139794	3	0	Up or Down & Rainbow (6 Suits)	2020-04-26 — 19:47:35 UTC	hakha3, plus, qpenguin	28	6	30
-139721	2	0	Up or Down & Rainbow (6 Suits)	2020-04-26 — 19:13:22 UTC	hakha3, plus	48	6	30
-139685	2	0	Rainbow (6 Suits)	2020-04-26 — 18:53:42 UTC	hakha3, plus	971	6	30
+140960	2	28	Up or Down & Rainbow (6 Suits)	2020-04-27 — 13:44:00 UTC	Fey, hakha3	20	6	30
+139984	2	30	Up or Down & Rainbow (6 Suits)	2020-04-26 — 21:06:36 UTC	hakha3, qpenguin	22	6	30
+139953	2	0	Up or Down & Rainbow (6 Suits)	2020-04-26 — 20:54:02 UTC	hakha3, qpenguin	25	6	30
+139918	2	27	Up or Down & Rainbow (6 Suits)	2020-04-26 — 20:40:38 UTC	hakha3, qpenguin	30	6	30
+139873	2	26	Up or Down & Rainbow (6 Suits)	2020-04-26 — 20:24:08 UTC	hakha3, qpenguin	38	6	30
+139794	3	0	Up or Down & Rainbow (6 Suits)	2020-04-26 — 19:47:35 UTC	hakha3, plus, qpenguin	30	6	30
+139721	2	0	Up or Down & Rainbow (6 Suits)	2020-04-26 — 19:13:22 UTC	hakha3, plus	50	6	30
+139685	2	0	Rainbow (6 Suits)	2020-04-26 — 18:53:42 UTC	hakha3, plus	984	6	30
 139533	5	21	Throw It in a Hole & Rainbow (5 Suits)	2020-04-26 — 16:33:57 UTC	hakha3, kimbifille, kooolant, postmans, qpenguin	3	5	25
 139469	4	0	Throw It in a Hole & Rainbow (6 Suits)	2020-04-26 — 15:46:26 UTC	hakha3, kimbifille, kooolant, postmans	3	6	30
 139424	4	0	Throw It in a Hole (6 Suits)	2020-04-26 — 15:15:40 UTC	hakha3, kimbifille, kooolant, postmans	21	6	30
 139417	5	23	Throw It in a Hole (5 Suits)	2020-04-26 — 15:08:12 UTC	Fey, hakha3, kimbifille, kooolant, postmans	15	5	25
-139392	4	23	Null (5 Suits)	2020-04-26 — 14:34:25 UTC	Fey, hakha3, kimbifille, kooolant	26	5	25
-139376	2	0	Up or Down (6 Suits)	2020-04-26 — 14:07:32 UTC	Fey, hakha3	75	6	30
-64991	3	0	Rainbow & White (6 Suits)	2019-11-16 — 15:14:27 UTC	hakha3, postmans, Valetta6789	46	6	30
-64989	3	23	Up or Down (5 Suits)	2019-11-16 — 14:39:41 UTC	hakha3, postmans, Valetta6789	113	5	25
-64987	2	21	Up or Down (5 Suits)	2019-11-16 — 13:53:38 UTC	hakha3, postmans	105	5	25
-64986	2	22	Up or Down (5 Suits)	2019-11-16 — 13:39:15 UTC	hakha3, postmans	141	5	25
+139392	4	23	Null (5 Suits)	2020-04-26 — 14:34:25 UTC	Fey, hakha3, kimbifille, kooolant	27	5	25
+139376	2	0	Up or Down (6 Suits)	2020-04-26 — 14:07:32 UTC	Fey, hakha3	76	6	30
+64991	3	0	Rainbow & White (6 Suits)	2019-11-16 — 15:14:27 UTC	hakha3, postmans, Valetta6789	48	6	30
+64989	3	23	Up or Down (5 Suits)	2019-11-16 — 14:39:41 UTC	hakha3, postmans, Valetta6789	114	5	25
+64987	2	21	Up or Down (5 Suits)	2019-11-16 — 13:53:38 UTC	hakha3, postmans	108	5	25
+64986	2	22	Up or Down (5 Suits)	2019-11-16 — 13:39:15 UTC	hakha3, postmans	145	5	25

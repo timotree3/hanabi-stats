@@ -1,15 +1,22 @@
+516490	4	30	Rainbow (6 Suits)	2021-04-30 — 04:17:56 UTC	DrSeil, NoMercy, oblique, usuallykayla	8	6	30
+516441	4	0	Rainbow (6 Suits)	2021-04-30 — 03:30:00 UTC	DrSeil, NoMercy, oblique, usuallykayla	8	6	30
+516404	4	0	Rainbow (6 Suits)	2021-04-30 — 02:59:23 UTC	DrSeil, NoMercy, oblique, usuallykayla	8	6	30
+516374	4	0	Rainbow (6 Suits)	2021-04-30 — 02:25:33 UTC	DrSeil, NoMercy, oblique, usuallykayla	8	6	30
+516351	4	0	Rainbow (6 Suits)	2021-04-30 — 02:02:03 UTC	DrSeil, NoMercy, oblique, usuallykayla	8	6	30
+516298	3	0	Rainbow (6 Suits)	2021-04-30 — 01:24:54 UTC	DrSeil, NoMercy, oblique	16	6	30
+516271	3	0	Rainbow (6 Suits)	2021-04-30 — 01:01:43 UTC	DrSeil, NoMercy, oblique	16	6	30
 505058	4	27	Rainbow (6 Suits)	2021-04-18 — 05:04:51 UTC	DrSeil, mazamorra7, NoMercy, usuallykayla	8	6	30
 505002	4	0	Rainbow (6 Suits)	2021-04-18 — 04:01:07 UTC	DrSeil, mazamorra7, NoMercy, usuallykayla	8	6	30
 504982	4	0	Rainbow (6 Suits)	2021-04-18 — 03:30:19 UTC	DrSeil, mazamorra7, NoMercy, usuallykayla	8	6	30
 490702	4	0	Rainbow (6 Suits)	2021-04-04 — 22:38:07 UTC	DrSeil, NoMercy, oblique, usuallykayla	8	6	30
-490682	3	0	Rainbow (6 Suits)	2021-04-04 — 22:14:46 UTC	DrSeil, NoMercy, oblique	15	6	30
+490682	3	0	Rainbow (6 Suits)	2021-04-04 — 22:14:46 UTC	DrSeil, NoMercy, oblique	16	6	30
 467845	5	25	No Variant	2021-03-14 — 07:38:52 UTC	DrSeil, MarcLovesDogs, mazamorra7, NoMercy, oblique	60	5	25
-467826	4	23	No Variant	2021-03-14 — 06:38:31 UTC	DrSeil, mazamorra7, NoMercy, oblique	180	5	25
+467826	4	23	No Variant	2021-03-14 — 06:38:31 UTC	DrSeil, mazamorra7, NoMercy, oblique	182	5	25
 388996	4	0	Rainbow (6 Suits)	2021-01-01 — 07:06:26 UTC	DrSeil, NoMercy, oblique, usuallykayla	7	6	30
 388963	5	0	Rainbow (6 Suits)	2021-01-01 — 06:22:39 UTC	DrSeil, NoMercy, oblique, shansiepants, usuallykayla	20	6	30
 370540	4	30	Rainbow (6 Suits)	2020-12-14 — 02:36:15 UTC	florrat2, Libster, NoMercy, sjdrodge	7	6	30
 370431	4	0	Rainbow (6 Suits)	2020-12-14 — 00:39:49 UTC	florrat2, Libster, NoMercy, sjdrodge	7	6	30
-369012	3	30	Rainbow (6 Suits)	2020-12-12 — 18:46:20 UTC	DrSeil, NoMercy, oblique	14	6	30
+369012	3	30	Rainbow (6 Suits)	2020-12-12 — 18:46:20 UTC	DrSeil, NoMercy, oblique	15	6	30
 367449	4	30	Rainbow (6 Suits)	2020-12-11 — 03:37:14 UTC	florrat2, Libster, NoMercy, sjdrodge	8	6	30
 367333	4	0	Rainbow (6 Suits)	2020-12-11 — 02:09:09 UTC	florrat2, Libster, NoMercy, sjdrodge	7	6	30
 364357	4	30	Rainbow (6 Suits)	2020-12-08 — 04:33:04 UTC	florrat2, Libster, NoMercy, sjdrodge	1	6	30
@@ -25,8 +32,8 @@
 359343	4	30	Rainbow (6 Suits)	2020-12-03 — 02:06:25 UTC	florrat2, Libster, NoMercy, sjdrodge	1	6	30
 358726	3	30	Rainbow (6 Suits)	2020-12-02 — 04:17:24 UTC	florrat2, Libster, NoMercy	6	6	30
 358683	4	30	Rainbow (6 Suits)	2020-12-02 — 03:06:14 UTC	florrat2, Libster, NoMercy, sjdrodge	1	6	30
-344001	3	30	Rainbow (6 Suits)	2020-11-15 — 06:26:51 UTC	DrSeil, NoMercy, oblique	15	6	30
-343963	3	0	Rainbow (6 Suits)	2020-11-15 — 05:32:21 UTC	DrSeil, NoMercy, oblique	15	6	30
+344001	3	30	Rainbow (6 Suits)	2020-11-15 — 06:26:51 UTC	DrSeil, NoMercy, oblique	16	6	30
+343963	3	0	Rainbow (6 Suits)	2020-11-15 — 05:32:21 UTC	DrSeil, NoMercy, oblique	16	6	30
 338624	3	0	Prism (6 Suits)	2020-11-08 — 21:33:12 UTC	Libster, NoMercy, RaKXeR	11	6	30
 338578	3	30	Prism (6 Suits)	2020-11-08 — 20:26:01 UTC	Libster, NoMercy, RaKXeR	11	6	30
 338512	3	28	Prism (6 Suits)	2020-11-08 — 19:18:22 UTC	Libster, NoMercy, RaKXeR	13	6	30
@@ -39,18 +46,18 @@
 337613	3	0	Prism (6 Suits)	2020-11-07 — 17:56:29 UTC	Libster, NoMercy, RaKXeR	18	6	30
 337602	3	30	Prism (6 Suits)	2020-11-07 — 17:27:06 UTC	Libster, NoMercy, RaKXeR	20	6	30
 335905	3	0	Prism (6 Suits)	2020-11-05 — 06:29:14 UTC	Libster, NoMercy, RaKXeR	21	6	30
-335867	3	30	Prism (6 Suits)	2020-11-05 — 05:27:30 UTC	Libster, NoMercy, RaKXeR	24	6	30
+335867	3	30	Prism (6 Suits)	2020-11-05 — 05:27:30 UTC	Libster, NoMercy, RaKXeR	26	6	30
 335834	3	0	Prism (6 Suits)	2020-11-05 — 04:44:43 UTC	Libster, NoMercy, RaKXeR	25	6	30
 333211	3	0	Prism (6 Suits)	2020-11-02 — 01:55:11 UTC	Libster, NoMercy, RaKXeR	36	6	30
-333199	3	0	Prism (6 Suits)	2020-11-02 — 01:34:00 UTC	Libster, NoMercy, RaKXeR	45	6	30
-333176	3	30	Prism (6 Suits)	2020-11-02 — 00:47:42 UTC	Libster, NoMercy, RaKXeR	60	6	30
-333154	3	28	Prism (6 Suits)	2020-11-02 — 00:11:40 UTC	Libster, NoMercy, RaKXeR	84	6	30
-331955	3	30	Rainbow (6 Suits)	2020-10-31 — 08:35:24 UTC	DrSeil, NoMercy, oblique	16	6	30
+333199	3	0	Prism (6 Suits)	2020-11-02 — 01:34:00 UTC	Libster, NoMercy, RaKXeR	46	6	30
+333176	3	30	Prism (6 Suits)	2020-11-02 — 00:47:42 UTC	Libster, NoMercy, RaKXeR	61	6	30
+333154	3	28	Prism (6 Suits)	2020-11-02 — 00:11:40 UTC	Libster, NoMercy, RaKXeR	85	6	30
+331955	3	30	Rainbow (6 Suits)	2020-10-31 — 08:35:24 UTC	DrSeil, NoMercy, oblique	17	6	30
 331946	4	0	Rainbow (6 Suits)	2020-10-31 — 08:06:51 UTC	DrSeil, MarcLovesDogs, NoMercy, oblique	9	6	30
 331934	4	0	Rainbow (6 Suits)	2020-10-31 — 07:48:31 UTC	DrSeil, MarcLovesDogs, NoMercy, oblique	7	6	30
-331925	3	0	Rainbow (6 Suits)	2020-10-31 — 07:15:48 UTC	DrSeil, NoMercy, oblique	17	6	30
-331890	3	0	Rainbow (6 Suits)	2020-10-31 — 06:26:27 UTC	DrSeil, NoMercy, oblique	17	6	30
-331857	3	0	Rainbow (6 Suits)	2020-10-31 — 05:55:27 UTC	DrSeil, NoMercy, oblique	18	6	30
+331925	3	0	Rainbow (6 Suits)	2020-10-31 — 07:15:48 UTC	DrSeil, NoMercy, oblique	18	6	30
+331890	3	0	Rainbow (6 Suits)	2020-10-31 — 06:26:27 UTC	DrSeil, NoMercy, oblique	18	6	30
+331857	3	0	Rainbow (6 Suits)	2020-10-31 — 05:55:27 UTC	DrSeil, NoMercy, oblique	19	6	30
 331756	4	25	Rainbow (6 Suits)	2020-10-31 — 03:54:44 UTC	Alkaven5, DrSeil, NoMercy, oblique	8	6	30
 331701	3	0	Rainbow (6 Suits)	2020-10-31 — 03:12:40 UTC	Alkaven5, DrSeil, NoMercy	19	6	30
 331680	3	0	Rainbow (6 Suits)	2020-10-31 — 02:49:01 UTC	Alkaven5, DrSeil, NoMercy	19	6	30
@@ -171,7 +178,7 @@
 271537	3	0	Throw It in a Hole & Rainbow (6 Suits)	2020-08-15 — 07:27:28 UTC	joelwool, NoMercy, TheDaniMan	6	6	30
 269057	3	0	Omni-Fives & Omni (3 Suits)	2020-08-12 — 19:03:04 UTC	DMoney, kimbifille, NoMercy	1	3	15
 268889	5	29	Rainbow & White (6 Suits)	2020-08-12 — 08:25:18 UTC	efaust, forgotmyacct, NoMercy, paulcd2000, sjdrodge	11	6	30
-268879	5	0	Rainbow & White (6 Suits)	2020-08-12 — 07:54:54 UTC	efaust, forgotmyacct, NoMercy, paulcd2000, sjdrodge	11	6	30
+268879	5	0	Rainbow & White (6 Suits)	2020-08-12 — 07:54:54 UTC	efaust, forgotmyacct, NoMercy, paulcd2000, sjdrodge	12	6	30
 268877	5	0	Rainbow & White (6 Suits)	2020-08-12 — 07:51:07 UTC	efaust, forgotmyacct, NoMercy, paulcd2000, sjdrodge	14	6	30
 259339	3	0	White & Omni (4 Suits)	2020-08-02 — 23:46:16 UTC	Kyle, NoMercy, rs1	3	4	20
 259322	3	0	White & Omni (4 Suits)	2020-08-02 — 23:24:24 UTC	NoMercy, rs1, sjdrodge	4	4	20
@@ -349,11 +356,11 @@
 256575	5	0	Black & Dark Rainbow (6 Suits)	2020-07-31 — 01:37:41 UTC	florrat2, Libster, NoMercy, padi, sjdrodge	1	6	30
 256557	5	0	Black & Dark Rainbow (6 Suits)	2020-07-31 — 01:21:34 UTC	florrat2, Libster, NoMercy, padi, sjdrodge	1	6	30
 256553	5	0	Black & Dark Rainbow (6 Suits)	2020-07-31 — 01:16:25 UTC	florrat2, Libster, NoMercy, padi, sjdrodge	2	6	30
-255940	3	25	No Variant	2020-07-30 — 03:48:53 UTC	MLutz1, NoMercy, oblique	645	5	25
-255910	3	0	No Variant	2020-07-30 — 03:15:29 UTC	MLutz1, NoMercy, oblique	680	5	25
-255898	5	0	No Variant	2020-07-30 — 02:58:30 UTC	Alkaven5, DrSeil, MLutz1, NoMercy, oblique	80	5	25
-255878	5	22	No Variant	2020-07-30 — 02:42:11 UTC	Alkaven5, DrSeil, MLutz1, NoMercy, oblique	100	5	25
-255843	5	21	No Variant	2020-07-30 — 02:14:35 UTC	Alkaven5, DrSeil, MLutz1, NoMercy, oblique	109	5	25
+255940	3	25	No Variant	2020-07-30 — 03:48:53 UTC	MLutz1, NoMercy, oblique	655	5	25
+255910	3	0	No Variant	2020-07-30 — 03:15:29 UTC	MLutz1, NoMercy, oblique	688	5	25
+255898	5	0	No Variant	2020-07-30 — 02:58:30 UTC	Alkaven5, DrSeil, MLutz1, NoMercy, oblique	81	5	25
+255878	5	22	No Variant	2020-07-30 — 02:42:11 UTC	Alkaven5, DrSeil, MLutz1, NoMercy, oblique	102	5	25
+255843	5	21	No Variant	2020-07-30 — 02:14:35 UTC	Alkaven5, DrSeil, MLutz1, NoMercy, oblique	112	5	25
 252687	5	0	Black & Dark Rainbow (6 Suits)	2020-07-27 — 04:20:00 UTC	florrat2, Libster, NoMercy, padi, sjdrodge	2	6	30
 252621	5	0	Black & Dark Rainbow (6 Suits)	2020-07-27 — 03:33:37 UTC	florrat2, Libster, NoMercy, padi, sjdrodge	1	6	30
 252609	5	0	Black & Dark Rainbow (6 Suits)	2020-07-27 — 03:25:27 UTC	florrat2, Libster, NoMercy, padi, sjdrodge	1	6	30
@@ -424,16 +431,16 @@
 252043	4	0	White Reversed (6 Suits)	2020-07-26 — 19:55:55 UTC	Libster, NoMercy, RaKXeR, Valetta6789	3	6	30
 252040	4	0	White Reversed (6 Suits)	2020-07-26 — 19:54:42 UTC	Libster, NoMercy, RaKXeR, Valetta6789	3	6	30
 252037	4	0	White Reversed (6 Suits)	2020-07-26 — 19:52:45 UTC	Libster, NoMercy, RaKXeR, Valetta6789	10	6	30
-250659	4	0	Pink (6 Suits)	2020-07-25 — 08:32:57 UTC	Bonja97, Fey, NoMercy, Pablo-	54	6	30
+250659	4	0	Pink (6 Suits)	2020-07-25 — 08:32:57 UTC	Bonja97, Fey, NoMercy, Pablo-	55	6	30
 250646	3	25	Pink (5 Suits)	2020-07-25 — 08:05:22 UTC	Fey, NoMercy, Pablo-	7	5	25
 243812	5	0	Special Mix (5 Suits)	2020-07-18 — 08:36:02 UTC	Dr_Kakashi, NoMercy, pianoblook, piper, plus	6	5	25
 243789	5	23	Special Mix (5 Suits)	2020-07-18 — 08:08:29 UTC	Dr_Kakashi, NoMercy, pianoblook, piper, plus	6	5	25
 243774	5	0	Special Mix (5 Suits)	2020-07-18 — 07:33:04 UTC	Dr_Kakashi, NoMercy, pianoblook, piper, plus	6	5	25
 243755	5	0	Special Mix (5 Suits)	2020-07-18 — 07:06:51 UTC	Dr_Kakashi, NoMercy, pianoblook, piper, plus	6	5	25
 243739	5	0	Special Mix (5 Suits)	2020-07-18 — 06:43:42 UTC	Dr_Kakashi, NoMercy, pianoblook, piper, plus	7	5	25
-242546	5	23	No Variant	2020-07-17 — 07:59:51 UTC	bobfasul, eljobe, joelwool, NoMercy, theandrewni	207	5	25
-242522	4	25	No Variant	2020-07-17 — 07:19:30 UTC	bobfasul, eljobe, joelwool, NoMercy	278	5	25
-238304	4	25	No Variant	2020-07-13 — 16:52:11 UTC	frollo9386, joelwool, NoMercy, swineherd	308	5	25
+242546	5	23	No Variant	2020-07-17 — 07:59:51 UTC	bobfasul, eljobe, joelwool, NoMercy, theandrewni	208	5	25
+242522	4	25	No Variant	2020-07-17 — 07:19:30 UTC	bobfasul, eljobe, joelwool, NoMercy	280	5	25
+238304	4	25	No Variant	2020-07-13 — 16:52:11 UTC	frollo9386, joelwool, NoMercy, swineherd	311	5	25
 238026	4	25	Up or Down (5 Suits)	2020-07-13 — 03:37:46 UTC	florrat2, Libster, NoMercy, sjdrodge	10	5	25
 237915	4	25	Up or Down (5 Suits)	2020-07-13 — 02:04:55 UTC	florrat2, Libster, NoMercy, sjdrodge	10	5	25
 237810	4	25	Up or Down (5 Suits)	2020-07-13 — 00:38:01 UTC	florrat2, Libster, NoMercy, sjdrodge	3	5	25
@@ -469,11 +476,11 @@
 227327	4	0	Dual-Color & Black (6 Suits)	2020-07-03 — 00:39:28 UTC	DMoney, honzas, Kyle, NoMercy	5	6	30
 215451	4	19	Special Mix (5 Suits)	2020-06-22 — 22:29:45 UTC	derekcheah, NoMercy, scharkbite, will.i.am	4	5	25
 213323	6	23	Black (5 Suits)	2020-06-20 — 22:04:46 UTC	Kyle, NoMercy, padi, qbphoenix, scharkbite, Smandon	5	5	25
-205051	4	25	No Variant	2020-06-13 — 10:25:58 UTC	butterywombat, Cynas, NoMercy, swineherd	373	5	25
+205051	4	25	No Variant	2020-06-13 — 10:25:58 UTC	butterywombat, Cynas, NoMercy, swineherd	376	5	25
 205037	5	25	No Variant	2020-06-13 — 09:40:35 UTC	butterywombat, Cynas, NoMercy, sin_faith, swineherd	21	5	25
-204313	3	0	No Variant	2020-06-13 — 00:52:11 UTC	butterywombat, Lilliana, NoMercy	940	5	25
-204272	3	0	No Variant	2020-06-13 — 00:14:36 UTC	Almipj, butterywombat, NoMercy	750	5	25
-204201	3	0	No Variant	2020-06-12 — 23:28:28 UTC	Almipj, butterywombat, NoMercy	801	5	25
+204313	3	0	No Variant	2020-06-13 — 00:52:11 UTC	butterywombat, Lilliana, NoMercy	952	5	25
+204272	3	0	No Variant	2020-06-13 — 00:14:36 UTC	Almipj, butterywombat, NoMercy	757	5	25
+204201	3	0	No Variant	2020-06-12 — 23:28:28 UTC	Almipj, butterywombat, NoMercy	809	5	25
 200019	3	15	White Reversed (3 Suits)	2020-06-09 — 05:31:19 UTC	IAMJEFF, NoMercy, Zamiel	3	3	15
 200004	3	0	White Reversed (3 Suits)	2020-06-09 — 05:23:59 UTC	IAMJEFF, NoMercy, Zamiel	3	3	15
 199989	3	30	White Reversed (6 Suits)	2020-06-09 — 05:08:47 UTC	IAMJEFF, NoMercy, Zamiel	7	6	30
@@ -484,7 +491,7 @@
 199854	4	0	Rainbow Reversed (3 Suits)	2020-06-09 — 03:38:58 UTC	Cory, NoMercy, scharkbite, Zamiel	2	3	15
 199845	4	0	Rainbow Reversed (3 Suits)	2020-06-09 — 03:34:43 UTC	Cory, NoMercy, scharkbite, Zamiel	2	3	15
 199825	4	20	Rainbow Reversed (4 Suits)	2020-06-09 — 03:20:42 UTC	Cory, NoMercy, scharkbite, Zamiel	4	4	20
-199791	4	25	Rainbow Reversed (5 Suits)	2020-06-09 — 02:59:40 UTC	Cory, NoMercy, scharkbite, Zamiel	11	5	25
+199791	4	25	Rainbow Reversed (5 Suits)	2020-06-09 — 02:59:40 UTC	Cory, NoMercy, scharkbite, Zamiel	13	5	25
 199752	5	25	Black Reversed (5 Suits)	2020-06-09 — 02:36:25 UTC	Cory, Kyle, NoMercy, scharkbite, Zamiel	3	5	25
 199702	4	24	Black Reversed (5 Suits)	2020-06-09 — 02:11:44 UTC	Cory, Kyle, NoMercy, Zamiel	8	5	25
 198750	4	25	No Variant	2020-06-08 — 04:10:36 UTC	florrat2, Libster, NoMercy, Zamiel	18	5	25
@@ -510,27 +517,27 @@
 194349	4	0	No Variant	2020-06-05 — 02:02:44 UTC	florrat2, Libster, NoMercy, Zamiel	1	5	25
 194321	4	25	No Variant	2020-06-05 — 01:37:35 UTC	florrat2, Libster, NoMercy, Zamiel	5	5	25
 178103	4	0	Rainbow (6 Suits)	2020-05-23 — 09:41:27 UTC	Fey, kalisa, NoMercy, tyrcho	10	6	30
-178091	5	24	No Variant	2020-05-23 — 09:15:01 UTC	Elatekur, Fey, kalisa, NoMercy, tyrcho	92	5	25
+178091	5	24	No Variant	2020-05-23 — 09:15:01 UTC	Elatekur, Fey, kalisa, NoMercy, tyrcho	93	5	25
 176916	5	0	Rainbow & Light Pink (5 Suits)	2020-05-22 — 19:47:45 UTC	Dr_Kakashi, Kyle, micerang, NoMercy, Zamiel	2	5	25
 176870	5	0	Rainbow & Light Pink (5 Suits)	2020-05-22 — 19:14:56 UTC	Dr_Kakashi, Kyle, micerang, NoMercy, Zamiel	2	5	25
 176013	3	0	Up or Down & Light Pink (5 Suits)	2020-05-22 — 01:57:29 UTC	Dr_Kakashi, NoMercy, Zamiel	3	5	25
 176000	3	0	Up or Down & Light Pink (5 Suits)	2020-05-22 — 01:49:10 UTC	Dr_Kakashi, NoMercy, Zamiel	5	5	25
 175962	3	0	Up or Down & Light Pink (5 Suits)	2020-05-22 — 01:21:52 UTC	Dr_Kakashi, NoMercy, Zamiel	7	5	25
-159772	4	20	No Variant	2020-05-10 — 03:32:38 UTC	lallman, NoMercy, oblique, tinamou	3581	5	25
+159772	4	20	No Variant	2020-05-10 — 03:32:38 UTC	lallman, NoMercy, oblique, tinamou	3609	5	25
 159655	4	0	Rainbow (6 Suits)	2020-05-10 — 02:47:16 UTC	lallman, NoMercy, oblique, tinamou	9	6	30
 156901	4	23	Rainbow (6 Suits)	2020-05-08 — 06:59:55 UTC	alphabeta, Nitrate2, NoMercy, plus	10	6	30
-141681	3	24	White (5 Suits)	2020-04-28 — 02:47:37 UTC	NoMercy, pianoblook, piper	126	5	25
-141652	4	0	White (5 Suits)	2020-04-28 — 02:30:18 UTC	Mesch, NoMercy, pianoblook, piper	46	5	25
+141681	3	24	White (5 Suits)	2020-04-28 — 02:47:37 UTC	NoMercy, pianoblook, piper	131	5	25
+141652	4	0	White (5 Suits)	2020-04-28 — 02:30:18 UTC	Mesch, NoMercy, pianoblook, piper	47	5	25
 139920	3	0	Up or Down (6 Suits)	2020-04-26 — 20:40:53 UTC	DoubleDown11, lotem, NoMercy	24	6	30
-139874	3	0	Up or Down (6 Suits)	2020-04-26 — 20:24:36 UTC	DoubleDown11, lotem, NoMercy	34	6	30
-139827	3	0	Up or Down (6 Suits)	2020-04-26 — 20:04:07 UTC	DoubleDown11, lotem, NoMercy	41	6	30
-139743	3	25	No Variant	2020-04-26 — 19:22:10 UTC	DoubleDown11, honzas, NoMercy	194	5	25
+139874	3	0	Up or Down (6 Suits)	2020-04-26 — 20:24:36 UTC	DoubleDown11, lotem, NoMercy	35	6	30
+139827	3	0	Up or Down (6 Suits)	2020-04-26 — 20:04:07 UTC	DoubleDown11, lotem, NoMercy	42	6	30
+139743	3	25	No Variant	2020-04-26 — 19:22:10 UTC	DoubleDown11, honzas, NoMercy	198	5	25
 103285	3	29	White (6 Suits)	2020-03-31 — 03:54:15 UTC	NoMercy, scharkbite, TimeHoodie	7	6	30
 103269	4	0	White (6 Suits)	2020-03-31 — 03:37:18 UTC	NoMercy, scharkbite, TimeHoodie, Yuga Suggah	11	6	30
-99634	5	24	No Variant	2020-03-28 — 09:41:48 UTC	letical, Nils, NoMercy, piper, Zakisan	126	5	25
-98480	3	0	Dual-Color Mix	2020-03-27 — 07:16:17 UTC	IAMJEFF, NoMercy, RaKXeR	1	6	30
-98478	3	0	No Variant	2020-03-27 — 06:57:11 UTC	NoMercy, squirtle, Zakisan	243	5	25
-98473	3	0	No Variant	2020-03-27 — 06:37:58 UTC	NoMercy, squirtle, Zakisan	250	5	25
+99634	5	24	No Variant	2020-03-28 — 09:41:48 UTC	letical, Nils, NoMercy, piper, Zakisan	127	5	25
+98480	3	0	Dual-Color Mix	2020-03-27 — 07:16:17 UTC	IAMJEFF, NoMercy, RaKXeR	2	6	30
+98478	3	0	No Variant	2020-03-27 — 06:57:11 UTC	NoMercy, squirtle, Zakisan	246	5	25
+98473	3	0	No Variant	2020-03-27 — 06:37:58 UTC	NoMercy, squirtle, Zakisan	252	5	25
 94223	4	28	Black & Pink (6 Suits)	2020-03-22 — 08:37:07 UTC	Dr_Kakashi, IAMJEFF, NoMercy, wortel	4	6	30
 94220	4	0	Black & Pink (6 Suits)	2020-03-22 — 08:03:05 UTC	Dr_Kakashi, IAMJEFF, NoMercy, wortel	5	6	30
 94218	4	0	Black & Pink (6 Suits)	2020-03-22 — 07:52:37 UTC	Dr_Kakashi, IAMJEFF, NoMercy, wortel	7	6	30
@@ -538,12 +545,12 @@
 94211	4	0	Black & Pink (6 Suits)	2020-03-22 — 07:14:39 UTC	Dr_Kakashi, IAMJEFF, micerang, NoMercy	6	6	30
 94210	4	0	Black & Pink (6 Suits)	2020-03-22 — 07:13:20 UTC	Dr_Kakashi, IAMJEFF, micerang, NoMercy	6	6	30
 94208	4	0	Black & Pink (6 Suits)	2020-03-22 — 07:11:05 UTC	Dr_Kakashi, IAMJEFF, micerang, NoMercy	5	6	30
-94199	3	25	Up or Down & Pink (5 Suits)	2020-03-22 — 06:45:05 UTC	Dr_Kakashi, micerang, NoMercy	8	5	25
-94193	3	0	Up or Down & Pink (5 Suits)	2020-03-22 — 06:26:00 UTC	Dr_Kakashi, micerang, NoMercy	16	5	25
+94199	3	25	Up or Down & Pink (5 Suits)	2020-03-22 — 06:45:05 UTC	Dr_Kakashi, micerang, NoMercy	9	5	25
+94193	3	0	Up or Down & Pink (5 Suits)	2020-03-22 — 06:26:00 UTC	Dr_Kakashi, micerang, NoMercy	17	5	25
 94190	4	0	Black & White (6 Suits)	2020-03-22 — 06:15:36 UTC	DoubleDown11, IAMJEFF, micerang, NoMercy	4	6	30
 94172	4	0	Black & White (6 Suits)	2020-03-22 — 05:59:37 UTC	DoubleDown11, IAMJEFF, micerang, NoMercy	16	6	30
-91858	3	24	No Variant	2020-03-19 — 05:58:33 UTC	duckmammal, lailie.ahava, NoMercy	1636	5	25
-87902	4	25	No Variant	2020-03-12 — 17:12:18 UTC	charmander, Elatekur, MasN, NoMercy	985	5	25
+91858	3	24	No Variant	2020-03-19 — 05:58:33 UTC	duckmammal, lailie.ahava, NoMercy	1651	5	25
+87902	4	25	No Variant	2020-03-12 — 17:12:18 UTC	charmander, Elatekur, MasN, NoMercy	994	5	25
 87839	3	0	Black (6 Suits)	2020-03-12 — 04:44:35 UTC	florrat2, Libster, NoMercy	1	6	30
 87838	3	0	Black (6 Suits)	2020-03-12 — 04:43:40 UTC	florrat2, Libster, NoMercy	1	6	30
 87837	3	0	Black (6 Suits)	2020-03-12 — 04:42:51 UTC	florrat2, Libster, NoMercy	1	6	30
@@ -685,7 +692,7 @@
 87684	4	0	Black (6 Suits)	2020-03-12 — 03:11:19 UTC	florrat2, Libster, NoMercy, Zamiel	1	6	30
 87683	4	0	Black (6 Suits)	2020-03-12 — 03:10:02 UTC	florrat2, Libster, NoMercy, Zamiel	1	6	30
 87682	4	0	Black (6 Suits)	2020-03-12 — 03:09:00 UTC	florrat2, Libster, NoMercy, Zamiel	1	6	30
-87681	5	0	Rainbow (6 Suits)	2020-03-12 — 03:07:43 UTC	florrat2, Libster, NoMercy, WeNeedToKnow, Zamiel	1	6	30
+87681	5	0	Rainbow (6 Suits)	2020-03-12 — 03:07:43 UTC	florrat2, Libster, NoMercy, WeNeedToKnow, Zamiel	2	6	30
 87680	5	0	Rainbow (6 Suits)	2020-03-12 — 03:06:57 UTC	florrat2, Libster, NoMercy, WeNeedToKnow, Zamiel	2	6	30
 87679	5	0	Rainbow (6 Suits)	2020-03-12 — 03:05:43 UTC	florrat2, Libster, NoMercy, WeNeedToKnow, Zamiel	2	6	30
 87678	5	0	Rainbow (6 Suits)	2020-03-12 — 03:04:37 UTC	florrat2, Libster, NoMercy, WeNeedToKnow, Zamiel	2	6	30
@@ -751,9 +758,9 @@
 87609	5	0	Dark Rainbow (6 Suits)	2020-03-12 — 01:37:44 UTC	florrat2, Libster, NoMercy, WeNeedToKnow, Zamiel	2	6	30
 86758	5	25	Pink (5 Suits)	2020-03-10 — 22:24:43 UTC	DoubleDown11, frog-kun, Kyle, NoMercy, RaKXeR	6	5	25
 86755	5	22	Pink (5 Suits)	2020-03-10 — 21:53:16 UTC	DoubleDown11, frog-kun, Kyle, NoMercy, RaKXeR	9	5	25
-86743	4	25	No Variant	2020-03-10 — 19:54:47 UTC	MasN, nakk, NoMercy, padi	2763	5	25
-86739	3	24	No Variant	2020-03-10 — 19:30:29 UTC	nakk, NoMercy, padi	624	5	25
-85894	4	22	No Variant	2020-03-06 — 08:45:09 UTC	Fey, kodomazer, letical, NoMercy	336	5	25
+86743	4	25	No Variant	2020-03-10 — 19:54:47 UTC	MasN, nakk, NoMercy, padi	2788	5	25
+86739	3	24	No Variant	2020-03-10 — 19:30:29 UTC	nakk, NoMercy, padi	632	5	25
+85894	4	22	No Variant	2020-03-06 — 08:45:09 UTC	Fey, kodomazer, letical, NoMercy	340	5	25
 85893	5	0	No Variant	2020-03-06 — 08:21:27 UTC	Dr_Kakashi, Fey, kodomazer, letical, NoMercy	39	5	25
 85879	4	0	Black (6 Suits)	2020-03-06 — 05:27:53 UTC	florrat2, Libster, NoMercy, Razvogor	1	6	30
 85877	4	0	Black (6 Suits)	2020-03-06 — 05:27:17 UTC	florrat2, Libster, NoMercy, Razvogor	1	6	30
@@ -838,9 +845,9 @@
 85782	4	0	Black (6 Suits)	2020-03-06 — 04:29:46 UTC	florrat2, Libster, NoMercy, Razvogor	1	6	30
 85781	4	0	Black (6 Suits)	2020-03-06 — 04:29:04 UTC	florrat2, Libster, NoMercy, Razvogor	1	6	30
 85780	4	0	Black (6 Suits)	2020-03-06 — 04:28:43 UTC	florrat2, Libster, NoMercy, Razvogor	1	6	30
-85398	4	0	Rainbow (6 Suits)	2020-03-05 — 21:09:14 UTC	Floriman, NoMercy, pianoblook, Yuga Suggah	11	6	30
+85398	4	0	Rainbow (6 Suits)	2020-03-05 — 21:09:14 UTC	Floriman, NoMercy, pianoblook, Yuga Suggah	12	6	30
 85391	4	23	Black & Rainbow (6 Suits)	2020-03-05 — 19:46:10 UTC	Kyle, NoMercy, Shos, Valetta6789	34	6	30
-84916	5	0	No Variant	2020-03-04 — 06:51:49 UTC	letical, micerang, NoMercy, pianoblook, Teferi	31	5	25
+84916	5	0	No Variant	2020-03-04 — 06:51:49 UTC	letical, micerang, NoMercy, pianoblook, Teferi	32	5	25
 84913	4	0	No Variant	2020-03-04 — 06:34:01 UTC	micerang, NoMercy, pianoblook, Teferi	36	5	25
 84574	4	30	Rainbow (6 Suits)	2020-03-03 — 05:13:35 UTC	kopen, Kyle, NoMercy, Teferi	12	6	30
 84567	4	25	Rainbow (5 Suits)	2020-03-03 — 04:37:47 UTC	Kyle, micerang, NoMercy, Teferi	3	5	25
@@ -894,7 +901,7 @@
 83289	5	0	Brown & Null (4 Suits)	2020-02-25 — 05:38:57 UTC	Fireheart, IAMJEFF, NoMercy, sankala fan, Zamiel	2	4	20
 83280	5	30	White & Null (6 Suits)	2020-02-25 — 05:10:02 UTC	Fireheart, IAMJEFF, NoMercy, sankala fan, Zamiel	1	6	30
 83276	5	0	White & Null (6 Suits)	2020-02-25 — 04:47:14 UTC	Fireheart, IAMJEFF, NoMercy, sankala fan, Zamiel	1	6	30
-83275	4	0	Special Mix (6 Suits)	2020-02-25 — 04:32:25 UTC	Fireheart, NoMercy, sankala fan, Zamiel	24	6	30
+83275	4	0	Special Mix (6 Suits)	2020-02-25 — 04:32:25 UTC	Fireheart, NoMercy, sankala fan, Zamiel	25	6	30
 83036	4	0	Black (6 Suits)	2020-02-24 — 02:34:48 UTC	florrat2, Libster, NoMercy, RaKXeR	1	6	30
 83035	4	0	Black (6 Suits)	2020-02-24 — 02:34:27 UTC	florrat2, Libster, NoMercy, RaKXeR	1	6	30
 83033	4	0	Black (6 Suits)	2020-02-24 — 02:33:55 UTC	florrat2, Libster, NoMercy, RaKXeR	1	6	30
@@ -947,7 +954,7 @@
 82982	4	0	Black (6 Suits)	2020-02-24 — 02:03:20 UTC	florrat2, Libster, NoMercy, RaKXeR	1	6	30
 82766	4	0	Rainbow (6 Suits)	2020-02-23 — 21:42:07 UTC	DrSeil, NoMercy, oblique, usuallykayla	11	6	30
 82762	4	29	Rainbow (6 Suits)	2020-02-23 — 20:50:36 UTC	DrSeil, NoMercy, oblique, usuallykayla	12	6	30
-82635	4	24	No Variant	2020-02-23 — 03:34:08 UTC	Kyle, MasN, NoMercy, padi	103	5	25
+82635	4	24	No Variant	2020-02-23 — 03:34:08 UTC	Kyle, MasN, NoMercy, padi	105	5	25
 82633	4	25	No Variant	2020-02-23 — 03:03:52 UTC	Fireheart, MasN, NoMercy, padi	130	5	25
 79463	4	25	No Variant	2020-02-12 — 04:57:51 UTC	florrat2, Libster, NoMercy, sankala fan	2	5	25
 79462	4	0	No Variant	2020-02-12 — 04:56:50 UTC	florrat2, Libster, NoMercy, sankala fan	2	5	25
@@ -1015,12 +1022,12 @@
 79393	4	0	No Variant	2020-02-12 — 04:18:33 UTC	florrat2, Libster, NoMercy, sankala fan	4	5	25
 79391	4	0	No Variant	2020-02-12 — 04:18:01 UTC	florrat2, Libster, NoMercy, sankala fan	4	5	25
 79390	4	0	No Variant	2020-02-12 — 04:17:30 UTC	florrat2, Libster, NoMercy, sankala fan	4	5	25
-79389	4	0	No Variant	2020-02-12 — 04:17:10 UTC	florrat2, Libster, NoMercy, sankala fan	4	5	25
-79388	4	0	No Variant	2020-02-12 — 04:16:57 UTC	florrat2, Libster, NoMercy, sankala fan	4	5	25
-79387	4	0	No Variant	2020-02-12 — 04:16:26 UTC	florrat2, Libster, NoMercy, sankala fan	4	5	25
-79386	4	0	No Variant	2020-02-12 — 04:15:46 UTC	florrat2, Libster, NoMercy, sankala fan	4	5	25
-79385	4	0	No Variant	2020-02-12 — 04:15:34 UTC	florrat2, Libster, NoMercy, sankala fan	4	5	25
-79384	4	0	No Variant	2020-02-12 — 04:15:17 UTC	florrat2, Libster, NoMercy, sankala fan	4	5	25
+79389	4	0	No Variant	2020-02-12 — 04:17:10 UTC	florrat2, Libster, NoMercy, sankala fan	5	5	25
+79388	4	0	No Variant	2020-02-12 — 04:16:57 UTC	florrat2, Libster, NoMercy, sankala fan	5	5	25
+79387	4	0	No Variant	2020-02-12 — 04:16:26 UTC	florrat2, Libster, NoMercy, sankala fan	5	5	25
+79386	4	0	No Variant	2020-02-12 — 04:15:46 UTC	florrat2, Libster, NoMercy, sankala fan	5	5	25
+79385	4	0	No Variant	2020-02-12 — 04:15:34 UTC	florrat2, Libster, NoMercy, sankala fan	5	5	25
+79384	4	0	No Variant	2020-02-12 — 04:15:17 UTC	florrat2, Libster, NoMercy, sankala fan	5	5	25
 79382	4	0	No Variant	2020-02-12 — 04:14:28 UTC	florrat2, Libster, NoMercy, sankala fan	5	5	25
 79381	4	0	No Variant	2020-02-12 — 04:13:26 UTC	florrat2, Libster, NoMercy, sankala fan	5	5	25
 79380	4	30	Dark Rainbow (6 Suits)	2020-02-12 — 04:11:23 UTC	florrat2, Libster, NoMercy, sankala fan	1	6	30
@@ -1141,7 +1148,7 @@
 79250	3	0	Dark Rainbow (6 Suits)	2020-02-12 — 02:19:27 UTC	florrat2, NoMercy, sankala fan	1	6	30
 79249	3	0	Dark Rainbow (6 Suits)	2020-02-12 — 02:19:01 UTC	florrat2, NoMercy, sankala fan	1	6	30
 79248	3	0	Dark Rainbow (6 Suits)	2020-02-12 — 02:18:18 UTC	florrat2, NoMercy, sankala fan	1	6	30
-78163	6	25	No Variant	2020-02-08 — 05:43:03 UTC	DoubleDown11, duckmammal, Kyle, MasN, Nitrate, NoMercy	115	5	25
+78163	6	25	No Variant	2020-02-08 — 05:43:03 UTC	DoubleDown11, duckmammal, Kyle, MasN, Nitrate, NoMercy	118	5	25
 68296	3	29	6 Suits	2019-12-03 — 05:18:14 UTC	florrat2, Libster, NoMercy	2	6	30
 68295	3	0	6 Suits	2019-12-03 — 05:16:24 UTC	florrat2, Libster, NoMercy	2	6	30
 68294	3	0	6 Suits	2019-12-03 — 05:15:25 UTC	florrat2, Libster, NoMercy	2	6	30
@@ -1257,7 +1264,7 @@
 68163	5	0	Black (6 Suits)	2019-12-03 — 03:12:18 UTC	florrat2, Jake_Stiles, Libster, NoMercy, Razvogor	2	6	30
 68162	5	0	Black (6 Suits)	2019-12-03 — 03:09:57 UTC	florrat2, Jake_Stiles, Libster, NoMercy, Razvogor	2	6	30
 68160	6	25	Black & Rainbow (5 Suits)	2019-12-03 — 02:44:05 UTC	florrat2, IAMJEFF, Jake_Stiles, Libster, NoMercy, Razvogor	5	5	25
-67810	5	22	No Variant	2019-12-01 — 21:49:59 UTC	chasingunicorns, DrSeil, NoMercy, oblique, usuallykayla	541	5	25
+67810	5	22	No Variant	2019-12-01 — 21:49:59 UTC	chasingunicorns, DrSeil, NoMercy, oblique, usuallykayla	546	5	25
 67114	5	0	Black (6 Suits)	2019-11-28 — 05:38:43 UTC	florrat2, Jake_Stiles, Libster, NoMercy, Zamiel	2	6	30
 67113	5	0	Black (6 Suits)	2019-11-28 — 05:34:04 UTC	florrat2, Jake_Stiles, Libster, NoMercy, Zamiel	2	6	30
 67112	5	0	Black (6 Suits)	2019-11-28 — 05:31:36 UTC	florrat2, Jake_Stiles, Libster, NoMercy, Zamiel	2	6	30
@@ -1337,17 +1344,17 @@
 63079	3	0	Pink & Gray (6 Suits)	2019-11-06 — 00:12:14 UTC	910dan, NoMercy, Zamiel	1	6	30
 63077	5	29	Rainbow & Dark Pink (6 Suits)	2019-11-05 — 23:53:06 UTC	910dan, asaelr, Floriman, NoMercy, Zamiel	2	6	30
 63075	5	0	Rainbow & Dark Pink (6 Suits)	2019-11-05 — 23:24:55 UTC	910dan, asaelr, Floriman, NoMercy, Zamiel	3	6	30
-63072	4	0	Dark Pink (5 Suits)	2019-11-05 — 23:04:49 UTC	910dan, Floriman, NoMercy, Zamiel	20	5	25
+63072	4	0	Dark Pink (5 Suits)	2019-11-05 — 23:04:49 UTC	910dan, Floriman, NoMercy, Zamiel	21	5	25
 61723	5	0	Dark Brown (6 Suits)	2019-10-30 — 18:38:38 UTC	asaelr, Floriman, NoMercy, Romain672, scharkbite	9	6	30
 61719	4	29	Dark Brown (6 Suits)	2019-10-30 — 18:23:19 UTC	asaelr, Floriman, NoMercy, scharkbite	2	6	30
-61557	3	30	6 Suits	2019-10-30 — 01:02:57 UTC	asaelr, kodomazer, NoMercy	17	6	30
+61557	3	30	6 Suits	2019-10-30 — 01:02:57 UTC	asaelr, kodomazer, NoMercy	18	6	30
 61548	5	0	Cow & Pig (4 Suits)	2019-10-29 — 22:39:09 UTC	invarse, micerang, NoMercy, Razvogor, scharkbite	1	4	20
 61543	3	25	Black & White (5 Suits)	2019-10-29 — 22:16:41 UTC	invarse, Livia, NoMercy	2	5	25
 61539	3	0	Black & White (5 Suits)	2019-10-29 — 22:03:59 UTC	invarse, Livia, NoMercy	31	5	25
-61538	4	0	Dark Rainbow (5 Suits)	2019-10-29 — 21:54:32 UTC	Floriman, Livia, micerang, NoMercy	23	5	25
+61538	4	0	Dark Rainbow (5 Suits)	2019-10-29 — 21:54:32 UTC	Floriman, Livia, micerang, NoMercy	24	5	25
 61534	4	0	Dark Rainbow (5 Suits)	2019-10-29 — 21:42:40 UTC	Floriman, Livia, micerang, NoMercy	29	5	25
 61511	4	30	Muddy Rainbow (6 Suits)	2019-10-29 — 20:51:53 UTC	Floriman, Livia, micerang, NoMercy	12	6	30
-61283	5	25	White (5 Suits)	2019-10-29 — 01:20:14 UTC	DMoney, Fireheart, invarse, NoMercy, sjdrodge	21	5	25
+61283	5	25	White (5 Suits)	2019-10-29 — 01:20:14 UTC	DMoney, Fireheart, invarse, NoMercy, sjdrodge	22	5	25
 61278	4	0	White (5 Suits)	2019-10-29 — 01:03:11 UTC	Fireheart, invarse, NoMercy, sjdrodge	7	5	25
 61275	4	0	White (5 Suits)	2019-10-29 — 00:54:17 UTC	Fireheart, invarse, NoMercy, sjdrodge	12	5	25
 61272	4	0	Up or Down & Omni (6 Suits)	2019-10-29 — 00:38:47 UTC	Fireheart, invarse, NoMercy, sjdrodge	5	6	30
@@ -1355,12 +1362,12 @@
 61235	2	0	Rainbow & Brown (3 Suits)	2019-10-28 — 21:34:13 UTC	NoMercy, Zamiel	21	3	15
 61233	2	20	Rainbow & Brown (4 Suits)	2019-10-28 — 21:30:38 UTC	NoMercy, Zamiel	2	4	20
 61231	2	0	Rainbow & Brown (4 Suits)	2019-10-28 — 21:17:14 UTC	NoMercy, Zamiel	2	4	20
-61229	2	0	Rainbow & Brown (4 Suits)	2019-10-28 — 21:10:44 UTC	NoMercy, Zamiel	3	4	20
-61228	2	0	Rainbow & Brown (4 Suits)	2019-10-28 — 21:06:22 UTC	NoMercy, Zamiel	5	4	20
-61227	2	0	Rainbow & Brown (4 Suits)	2019-10-28 — 20:52:16 UTC	NoMercy, Zamiel	7	4	20
-61225	2	0	Rainbow & Brown (4 Suits)	2019-10-28 — 20:47:55 UTC	NoMercy, Zamiel	10	4	20
-61224	2	0	Rainbow & Brown (4 Suits)	2019-10-28 — 20:44:08 UTC	NoMercy, Zamiel	19	4	20
-61223	2	0	Rainbow & Brown (4 Suits)	2019-10-28 — 20:43:07 UTC	NoMercy, Zamiel	22	4	20
+61229	2	0	Rainbow & Brown (4 Suits)	2019-10-28 — 21:10:44 UTC	NoMercy, Zamiel	4	4	20
+61228	2	0	Rainbow & Brown (4 Suits)	2019-10-28 — 21:06:22 UTC	NoMercy, Zamiel	6	4	20
+61227	2	0	Rainbow & Brown (4 Suits)	2019-10-28 — 20:52:16 UTC	NoMercy, Zamiel	8	4	20
+61225	2	0	Rainbow & Brown (4 Suits)	2019-10-28 — 20:47:55 UTC	NoMercy, Zamiel	11	4	20
+61224	2	0	Rainbow & Brown (4 Suits)	2019-10-28 — 20:44:08 UTC	NoMercy, Zamiel	20	4	20
+61223	2	0	Rainbow & Brown (4 Suits)	2019-10-28 — 20:43:07 UTC	NoMercy, Zamiel	23	4	20
 61097	5	0	No Variant	2019-10-28 — 07:55:32 UTC	Fireheart, kopen, NoMercy, Valetta6789, Zamiel	1	5	25
 61096	5	0	No Variant	2019-10-28 — 07:45:31 UTC	Fireheart, kopen, NoMercy, Valetta6789, Zamiel	1	5	25
 61095	5	25	No Variant	2019-10-28 — 07:32:12 UTC	Fireheart, kopen, NoMercy, Valetta6789, Zamiel	1	5	25
@@ -1369,10 +1376,10 @@
 61086	5	24	No Variant	2019-10-28 — 06:46:31 UTC	Fireheart, kopen, NoMercy, Valetta6789, Zamiel	1	5	25
 61083	5	25	No Variant	2019-10-28 — 06:30:29 UTC	Fireheart, kopen, NoMercy, Valetta6789, Zamiel	1	5	25
 60733	3	28	Alternating Clues (6 Suits)	2019-10-25 — 20:31:50 UTC	Jake_Stiles, NoMercy, scharkbite	3	6	30
-60359	4	22	No Variant	2019-10-23 — 20:08:57 UTC	Floriman, honzas, NoMercy, Valetta6789	1449	5	25
-60353	4	0	No Variant	2019-10-23 — 19:29:31 UTC	Fireheart, honzas, NoMercy, Valetta6789	419	5	25
-60245	4	30	White (6 Suits)	2019-10-23 — 01:48:02 UTC	invarse, jeep, NoMercy, Razvogor	60	6	30
-60242	3	0	White (6 Suits)	2019-10-23 — 01:28:21 UTC	invarse, jeep, NoMercy	124	6	30
+60359	4	22	No Variant	2019-10-23 — 20:08:57 UTC	Floriman, honzas, NoMercy, Valetta6789	1459	5	25
+60353	4	0	No Variant	2019-10-23 — 19:29:31 UTC	Fireheart, honzas, NoMercy, Valetta6789	423	5	25
+60245	4	30	White (6 Suits)	2019-10-23 — 01:48:02 UTC	invarse, jeep, NoMercy, Razvogor	62	6	30
+60242	3	0	White (6 Suits)	2019-10-23 — 01:28:21 UTC	invarse, jeep, NoMercy	128	6	30
 60241	3	0	Pink & Omni (5 Suits)	2019-10-23 — 01:19:48 UTC	jeep, NoMercy, Zamiel	1	5	25
 60238	3	0	Pink & Omni (5 Suits)	2019-10-23 — 01:06:03 UTC	jeep, NoMercy, Zamiel	1	5	25
 60237	3	0	Pink & Omni (5 Suits)	2019-10-23 — 01:01:08 UTC	jeep, NoMercy, Zamiel	1	5	25
@@ -1426,9 +1433,9 @@
 59667	4	0	Throw It in a Hole (6 Suits)	2019-10-19 — 07:31:55 UTC	NoMercy, Razvogor, Romain672, Zamiel	7	6	30
 59665	4	0	Throw It in a Hole (6 Suits)	2019-10-19 — 06:59:44 UTC	NoMercy, Razvogor, Romain672, Zamiel	15	6	30
 59663	4	20	Throw It in a Hole (4 Suits)	2019-10-19 — 06:41:29 UTC	NoMercy, Razvogor, Romain672, Zamiel	12	4	20
-59661	4	25	Throw It in a Hole (5 Suits)	2019-10-19 — 06:21:27 UTC	NoMercy, Razvogor, Romain672, Zamiel	20	5	25
-59657	3	0	Throw It in a Hole (5 Suits)	2019-10-19 — 06:02:39 UTC	NoMercy, Razvogor, Zamiel	5	5	25
-59654	3	0	Throw It in a Hole (5 Suits)	2019-10-19 — 05:38:32 UTC	NoMercy, Razvogor, Zamiel	6	5	25
+59661	4	25	Throw It in a Hole (5 Suits)	2019-10-19 — 06:21:27 UTC	NoMercy, Razvogor, Romain672, Zamiel	21	5	25
+59657	3	0	Throw It in a Hole (5 Suits)	2019-10-19 — 06:02:39 UTC	NoMercy, Razvogor, Zamiel	6	5	25
+59654	3	0	Throw It in a Hole (5 Suits)	2019-10-19 — 05:38:32 UTC	NoMercy, Razvogor, Zamiel	7	5	25
 59651	3	0	Throw It in a Hole (5 Suits)	2019-10-19 — 05:16:24 UTC	NoMercy, Razvogor, Zamiel	9	5	25
 59650	3	0	Throw It in a Hole (5 Suits)	2019-10-19 — 05:08:02 UTC	NoMercy, Razvogor, Zamiel	12	5	25
 59647	6	0	Black (5 Suits)	2019-10-19 — 05:00:28 UTC	Fireheart, NoMercy, Razvogor, Romain672, scharkbite, Zamiel	4	5	25
@@ -1436,8 +1443,8 @@
 59641	4	0	Dark Null (6 Suits)	2019-10-19 — 04:24:54 UTC	Fireheart, NoMercy, scharkbite, Zamiel	5	6	30
 59639	4	0	Dark Null (6 Suits)	2019-10-19 — 04:12:49 UTC	Fireheart, NoMercy, scharkbite, Zamiel	5	6	30
 59638	4	0	Dark Null (6 Suits)	2019-10-19 — 04:03:13 UTC	Fireheart, NoMercy, scharkbite, Zamiel	5	6	30
-59635	4	0	Dark Null (6 Suits)	2019-10-19 — 03:36:45 UTC	Fireheart, NoMercy, scharkbite, Zamiel	6	6	30
-59632	4	0	Dark Null (6 Suits)	2019-10-19 — 03:23:16 UTC	Fireheart, NoMercy, scharkbite, Zamiel	8	6	30
+59635	4	0	Dark Null (6 Suits)	2019-10-19 — 03:36:45 UTC	Fireheart, NoMercy, scharkbite, Zamiel	7	6	30
+59632	4	0	Dark Null (6 Suits)	2019-10-19 — 03:23:16 UTC	Fireheart, NoMercy, scharkbite, Zamiel	9	6	30
 59631	3	0	Dark Null (6 Suits)	2019-10-19 — 03:08:51 UTC	Fireheart, NoMercy, Zamiel	14	6	30
 59610	3	23	Black & Null (5 Suits)	2019-10-19 — 01:31:50 UTC	IAMJEFF, NoMercy, Zamiel	2	5	25
 59606	3	0	Black & Null (5 Suits)	2019-10-19 — 01:13:52 UTC	IAMJEFF, NoMercy, Zamiel	2	5	25
@@ -1463,8 +1470,8 @@
 59568	4	0	Black & Null (5 Suits)	2019-10-18 — 22:19:24 UTC	micerang, NoMercy, scharkbite, Zamiel	1	5	25
 59564	4	0	Black & Null (5 Suits)	2019-10-18 — 22:10:59 UTC	micerang, NoMercy, scharkbite, Zamiel	1	5	25
 59562	4	0	Black & Null (5 Suits)	2019-10-18 — 22:07:52 UTC	micerang, NoMercy, scharkbite, Zamiel	1	5	25
-59456	3	0	Dark Omni (6 Suits)	2019-10-18 — 09:17:39 UTC	kopen, NoMercy, Romain672	26	6	30
-59455	3	30	Rainbow & White (6 Suits)	2019-10-18 — 08:51:46 UTC	kopen, NoMercy, Romain672	24	6	30
+59456	3	0	Dark Omni (6 Suits)	2019-10-18 — 09:17:39 UTC	kopen, NoMercy, Romain672	27	6	30
+59455	3	30	Rainbow & White (6 Suits)	2019-10-18 — 08:51:46 UTC	kopen, NoMercy, Romain672	27	6	30
 59454	5	0	Black & Rainbow (6 Suits)	2019-10-18 — 08:18:52 UTC	Dr_Kakashi, kopen, Livia, NoMercy, Romain672	4	6	30
 59452	5	29	Ambiguous & Dual-Color	2019-10-18 — 07:39:35 UTC	Dr_Kakashi, kodomazer, kopen, NoMercy, Romain672	7	6	30
 59379	2	0	Black & Null (5 Suits)	2019-10-18 — 00:27:22 UTC	NoMercy, Zamiel	4	5	25
@@ -1485,16 +1492,16 @@
 59209	5	0	Black & Rainbow (6 Suits)	2019-10-17 — 00:06:24 UTC	asaelr, DMoney, Jake_Stiles, micerang, NoMercy	2	6	30
 59207	4	29	Up or Down & Pink (6 Suits)	2019-10-16 — 23:33:38 UTC	Libster, Livia, micerang, NoMercy	4	6	30
 59206	4	0	Up or Down & Pink (6 Suits)	2019-10-16 — 23:12:28 UTC	Libster, Livia, micerang, NoMercy	4	6	30
-59205	4	28	Up or Down & Pink (6 Suits)	2019-10-16 — 22:49:45 UTC	Floriman, Livia, micerang, NoMercy	8	6	30
-59204	4	0	Up or Down & Pink (6 Suits)	2019-10-16 — 22:12:48 UTC	Floriman, Livia, micerang, NoMercy	12	6	30
+59205	4	28	Up or Down & Pink (6 Suits)	2019-10-16 — 22:49:45 UTC	Floriman, Livia, micerang, NoMercy	9	6	30
+59204	4	0	Up or Down & Pink (6 Suits)	2019-10-16 — 22:12:48 UTC	Floriman, Livia, micerang, NoMercy	13	6	30
 59201	3	30	Pink (6 Suits)	2019-10-16 — 21:46:51 UTC	Floriman, Livia, NoMercy	70	6	30
-59199	3	29	Pink (6 Suits)	2019-10-16 — 21:21:26 UTC	Floriman, Livia, NoMercy	92	6	30
+59199	3	29	Pink (6 Suits)	2019-10-16 — 21:21:26 UTC	Floriman, Livia, NoMercy	94	6	30
 59153	4	30	Up or Down (6 Suits)	2019-10-16 — 16:14:49 UTC	Fireheart, Floriman, NoMercy, Valetta6789	10	6	30
 59152	3	0	Black & Dark Brown (6 Suits)	2019-10-16 — 15:53:06 UTC	Fireheart, NoMercy, Valetta6789	3	6	30
 59151	3	0	Black & Dark Brown (6 Suits)	2019-10-16 — 15:46:02 UTC	Fireheart, NoMercy, Valetta6789	5	6	30
 59057	4	27	Rainbow (6 Suits)	2019-10-16 — 02:02:24 UTC	kopen, micerang, NoMercy, Romain672	12	6	30
 59053	3	30	Rainbow (6 Suits)	2019-10-16 — 01:33:09 UTC	micerang, NoMercy, Romain672	43	6	30
-59051	3	0	Rainbow (6 Suits)	2019-10-16 — 01:11:27 UTC	HENLO, NoMercy, Romain672	46	6	30
+59051	3	0	Rainbow (6 Suits)	2019-10-16 — 01:11:27 UTC	HENLO, NoMercy, Romain672	47	6	30
 58950	4	28	Rainbow & Dark Pink (6 Suits)	2019-10-15 — 07:53:58 UTC	Fireheart, NoMercy, Romain672, Valetta6789	6	6	30
 58947	4	0	Dark Rainbow & Dark Pink (6 Suits)	2019-10-15 — 07:33:29 UTC	Fireheart, NoMercy, Romain672, Valetta6789	4	6	30
 58946	4	0	Dark Rainbow & Dark Pink (6 Suits)	2019-10-15 — 07:29:19 UTC	Fireheart, NoMercy, Romain672, Valetta6789	5	6	30
@@ -1523,37 +1530,37 @@
 57975	3	25	No Variant	2019-10-08 — 01:12:06 UTC	kopen, NoMercy, Zamiel	6	5	25
 57887	5	29	Up or Down & Rainbow (6 Suits)	2019-10-07 — 07:52:20 UTC	Dr_Kakashi, Fireheart, micerang, NoMercy, Valetta6789	3	6	30
 57883	5	0	Up or Down & Rainbow (6 Suits)	2019-10-07 — 07:20:20 UTC	Dr_Kakashi, Fireheart, micerang, NoMercy, Valetta6789	6	6	30
-57646	5	26	Black (6 Suits)	2019-10-05 — 02:52:42 UTC	Fireheart, Kyle, micerang, NoMercy, Razvogor	22	6	30
+57646	5	26	Black (6 Suits)	2019-10-05 — 02:52:42 UTC	Fireheart, Kyle, micerang, NoMercy, Razvogor	23	6	30
 57644	4	25	Black & Rainbow (5 Suits)	2019-10-05 — 02:25:47 UTC	Fireheart, Kyle, micerang, NoMercy	7	5	25
 57642	4	21	Black & Rainbow (5 Suits)	2019-10-05 — 02:06:20 UTC	Fireheart, Kyle, micerang, NoMercy	9	5	25
-57639	4	24	Black & Rainbow (5 Suits)	2019-10-05 — 01:44:34 UTC	Fireheart, Kyle, micerang, NoMercy	9	5	25
-57563	3	24	No Variant	2019-10-04 — 09:38:26 UTC	Bob Dole, kopen, NoMercy	1174	5	25
-57561	3	24	No Variant	2019-10-04 — 08:45:45 UTC	Bob Dole, kopen, NoMercy	1881	5	25
-57436	5	22	No Variant	2019-10-03 — 08:11:41 UTC	Bob Dole, Dr_Kakashi, kopen, NoMercy, Valetta6789	81	5	25
-57433	4	30	Rainbow (6 Suits)	2019-10-03 — 07:22:11 UTC	Dr_Kakashi, kodomazer, NoMercy, Valetta6789	15	6	30
-57271	5	22	No Variant	2019-10-02 — 07:45:05 UTC	Bob Dole, Dr_Kakashi, kodomazer, NoMercy, riking	143	5	25
-57266	5	23	No Variant	2019-10-02 — 07:05:32 UTC	Bob Dole, Dr_Kakashi, kodomazer, NoMercy, riking	296	5	25
-57261	4	0	No Variant	2019-10-02 — 06:39:11 UTC	Bob Dole, kodomazer, NoMercy, riking	717	5	25
-57257	5	0	No Variant	2019-10-02 — 06:24:10 UTC	Bob Dole, kodomazer, Kyle, NoMercy, riking	262	5	25
+57639	4	24	Black & Rainbow (5 Suits)	2019-10-05 — 01:44:34 UTC	Fireheart, Kyle, micerang, NoMercy	10	5	25
+57563	3	24	No Variant	2019-10-04 — 09:38:26 UTC	Bob Dole, kopen, NoMercy	1180	5	25
+57561	3	24	No Variant	2019-10-04 — 08:45:45 UTC	Bob Dole, kopen, NoMercy	1896	5	25
+57436	5	22	No Variant	2019-10-03 — 08:11:41 UTC	Bob Dole, Dr_Kakashi, kopen, NoMercy, Valetta6789	82	5	25
+57433	4	30	Rainbow (6 Suits)	2019-10-03 — 07:22:11 UTC	Dr_Kakashi, kodomazer, NoMercy, Valetta6789	16	6	30
+57271	5	22	No Variant	2019-10-02 — 07:45:05 UTC	Bob Dole, Dr_Kakashi, kodomazer, NoMercy, riking	145	5	25
+57266	5	23	No Variant	2019-10-02 — 07:05:32 UTC	Bob Dole, Dr_Kakashi, kodomazer, NoMercy, riking	302	5	25
+57261	4	0	No Variant	2019-10-02 — 06:39:11 UTC	Bob Dole, kodomazer, NoMercy, riking	724	5	25
+57257	5	0	No Variant	2019-10-02 — 06:24:10 UTC	Bob Dole, kodomazer, Kyle, NoMercy, riking	265	5	25
 57219	5	0	Alternating Clues (6 Suits)	2019-10-02 — 02:42:38 UTC	JeffD, Kyle, Libster, NoMercy, Romain672	1	6	30
 57218	5	0	Alternating Clues (6 Suits)	2019-10-02 — 02:30:54 UTC	JeffD, Kyle, Libster, NoMercy, Romain672	1	6	30
 57217	5	0	Alternating Clues (6 Suits)	2019-10-02 — 02:18:42 UTC	JeffD, Kyle, Libster, NoMercy, Romain672	1	6	30
 57216	5	0	Alternating Clues (6 Suits)	2019-10-02 — 02:12:30 UTC	JeffD, Kyle, Libster, NoMercy, Romain672	1	6	30
 57215	5	0	Alternating Clues (6 Suits)	2019-10-02 — 02:03:53 UTC	JeffD, Kyle, Libster, NoMercy, Romain672	3	6	30
 57214	3	0	Alternating Clues (6 Suits)	2019-10-02 — 01:41:11 UTC	Kyle, NoMercy, Romain672	12	6	30
-57213	2	30	Alternating Clues (6 Suits)	2019-10-02 — 01:20:24 UTC	NoMercy, Romain672	19	6	30
+57213	2	30	Alternating Clues (6 Suits)	2019-10-02 — 01:20:24 UTC	NoMercy, Romain672	21	6	30
 57117	4	25	Rainbow (5 Suits)	2019-10-01 — 03:08:04 UTC	Fireheart, Jake_Stiles, micerang, NoMercy	16	5	25
 57114	5	0	Omni (4 Suits)	2019-10-01 — 02:45:08 UTC	Fireheart, Jake_Stiles, micerang, NoMercy, Zamiel	1	4	20
 57113	5	0	Omni (4 Suits)	2019-10-01 — 02:30:46 UTC	Fireheart, Jake_Stiles, micerang, NoMercy, Zamiel	1	4	20
-56427	5	19	Muddy Rainbow (4 Suits)	2019-09-26 — 00:22:55 UTC	Fireheart, Jake_Stiles, kodomazer, NoMercy, Zamiel	6	4	20
+56427	5	19	Muddy Rainbow (4 Suits)	2019-09-26 — 00:22:55 UTC	Fireheart, Jake_Stiles, kodomazer, NoMercy, Zamiel	7	4	20
 56279	5	28	Rainbow (6 Suits)	2019-09-24 — 23:38:41 UTC	kodomazer, Kyle, micerang, NoMercy, Pimak	22	6	30
 56278	4	25	No Variant	2019-09-24 — 23:05:03 UTC	kodomazer, micerang, NoMercy, Pimak	61	5	25
-56146	4	30	Rainbow & Brown (6 Suits)	2019-09-23 — 23:04:31 UTC	awe, kodomazer, Kyle, NoMercy	11	6	30
-56145	4	0	Rainbow & Brown (6 Suits)	2019-09-23 — 22:24:51 UTC	awe, kodomazer, Kyle, NoMercy	9	6	30
-55959	4	0	Rainbow (6 Suits)	2019-09-22 — 22:31:01 UTC	DrSeil, NoMercy, oblique, usuallykayla	15	6	30
-55953	4	0	Rainbow (6 Suits)	2019-09-22 — 21:53:18 UTC	DrSeil, NoMercy, oblique, usuallykayla	16	6	30
-55764	4	0	Rainbow & White (6 Suits)	2019-09-21 — 00:09:09 UTC	awe, micerang, NoMercy, Romain672	12	6	30
-55762	4	0	Rainbow (4 Suits)	2019-09-20 — 23:48:02 UTC	DMoney, micerang, NoMercy, Romain672	20	4	20
+56146	4	30	Rainbow & Brown (6 Suits)	2019-09-23 — 23:04:31 UTC	awe, kodomazer, Kyle, NoMercy	12	6	30
+56145	4	0	Rainbow & Brown (6 Suits)	2019-09-23 — 22:24:51 UTC	awe, kodomazer, Kyle, NoMercy	10	6	30
+55959	4	0	Rainbow (6 Suits)	2019-09-22 — 22:31:01 UTC	DrSeil, NoMercy, oblique, usuallykayla	16	6	30
+55953	4	0	Rainbow (6 Suits)	2019-09-22 — 21:53:18 UTC	DrSeil, NoMercy, oblique, usuallykayla	17	6	30
+55764	4	0	Rainbow & White (6 Suits)	2019-09-21 — 00:09:09 UTC	awe, micerang, NoMercy, Romain672	13	6	30
+55762	4	0	Rainbow (4 Suits)	2019-09-20 — 23:48:02 UTC	DMoney, micerang, NoMercy, Romain672	21	4	20
 55753	5	0	Very Ambiguous (6 Suits)	2019-09-20 — 23:23:58 UTC	DMoney, Kyle, NoMercy, Romain672, Zamiel	1	6	30
 55750	4	0	White & Dark Omni (6 Suits)	2019-09-20 — 23:04:39 UTC	Kyle, NoMercy, Romain672, Zamiel	5	6	30
 55747	4	0	Black & Omni (6 Suits)	2019-09-20 — 22:44:15 UTC	Kyle, NoMercy, Romain672, Zamiel	3	6	30
@@ -1570,7 +1577,7 @@
 55134	4	15	Null (3 Suits)	2019-09-16 — 20:56:47 UTC	Kyle, NoMercy, sjdrodge, Zamiel	8	3	15
 55132	4	0	Null (3 Suits)	2019-09-16 — 20:49:19 UTC	Kyle, NoMercy, sjdrodge, Zamiel	13	3	15
 55131	4	20	Null (4 Suits)	2019-09-16 — 20:41:57 UTC	Kyle, NoMercy, sjdrodge, Zamiel	9	4	20
-55094	4	0	Rainbow (6 Suits)	2019-09-16 — 11:48:32 UTC	efaust, kemurphy, NoMercy, sjdrodge	16	6	30
+55094	4	0	Rainbow (6 Suits)	2019-09-16 — 11:48:32 UTC	efaust, kemurphy, NoMercy, sjdrodge	17	6	30
 55093	4	0	Rainbow (6 Suits)	2019-09-16 — 11:33:26 UTC	efaust, kemurphy, NoMercy, sjdrodge	17	6	30
 55091	4	0	Rainbow (6 Suits)	2019-09-16 — 11:26:02 UTC	efaust, kemurphy, NoMercy, sjdrodge	19	6	30
 55090	4	0	Rainbow (6 Suits)	2019-09-16 — 11:21:11 UTC	efaust, kemurphy, NoMercy, sjdrodge	19	6	30
@@ -1600,8 +1607,8 @@
 54715	3	0	Special Mix (5 Suits)	2019-09-13 — 23:55:18 UTC	NoMercy, Razvogor, Zamiel	17	5	25
 54714	3	0	Special Mix (5 Suits)	2019-09-13 — 23:47:41 UTC	NoMercy, Razvogor, Zamiel	19	5	25
 54713	3	0	Special Mix (5 Suits)	2019-09-13 — 23:42:44 UTC	NoMercy, Razvogor, Zamiel	23	5	25
-54712	3	0	Special Mix (5 Suits)	2019-09-13 — 23:29:53 UTC	NoMercy, Razvogor, Zamiel	38	5	25
-54711	3	0	Special Mix (5 Suits)	2019-09-13 — 23:11:47 UTC	NoMercy, Razvogor, Zamiel	48	5	25
+54712	3	0	Special Mix (5 Suits)	2019-09-13 — 23:29:53 UTC	NoMercy, Razvogor, Zamiel	39	5	25
+54711	3	0	Special Mix (5 Suits)	2019-09-13 — 23:11:47 UTC	NoMercy, Razvogor, Zamiel	50	5	25
 54709	4	30	Dual-Color & Rainbow (6 Suits)	2019-09-13 — 22:43:11 UTC	invarse, Livia, NoMercy, Zamiel	1	6	30
 54708	5	0	Very Ambiguous (6 Suits)	2019-09-13 — 22:13:22 UTC	invarse, Livia, NoMercy, scharkbite, Zamiel	2	6	30
 54707	5	29	Very Ambiguous (6 Suits)	2019-09-13 — 21:45:19 UTC	awe, Livia, NoMercy, scharkbite, Zamiel	2	6	30
@@ -1614,21 +1621,21 @@
 54187	3	0	Null (3 Suits)	2019-09-10 — 22:08:53 UTC	NoMercy, scharkbite, Zamiel	9	3	15
 54186	5	0	Omni (4 Suits)	2019-09-10 — 21:51:47 UTC	awe, NoMercy, Romain672, scharkbite, Zamiel	1	4	20
 54185	4	0	Null (4 Suits)	2019-09-10 — 21:30:06 UTC	awe, NoMercy, scharkbite, Zamiel	11	4	20
-54183	2	0	Null (4 Suits)	2019-09-10 — 21:19:30 UTC	NoMercy, Zamiel	28	4	20
+54183	2	0	Null (4 Suits)	2019-09-10 — 21:19:30 UTC	NoMercy, Zamiel	30	4	20
 54178	5	0	Null (6 Suits)	2019-09-10 — 20:54:46 UTC	Fireheart, micerang, NoMercy, scharkbite, Zamiel	7	6	30
 53186	4	0	Ambiguous & Dual-Color	2019-09-04 — 01:21:36 UTC	Cory, Kyle, NoMercy, Zamiel	2	6	30
 53183	4	0	Ambiguous & Dual-Color	2019-09-04 — 01:07:54 UTC	Cory, Kyle, NoMercy, Zamiel	3	6	30
 53182	5	0	Dark Pink (6 Suits)	2019-09-04 — 00:45:16 UTC	asaelr, awe, Cory, NoMercy, Zamiel	7	6	30
 53181	5	0	Dark Pink (6 Suits)	2019-09-04 — 00:26:21 UTC	asaelr, awe, Cory, NoMercy, Zamiel	6	6	30
-53180	5	0	Dark Pink (6 Suits)	2019-09-04 — 00:15:26 UTC	asaelr, awe, Cory, NoMercy, Zamiel	8	6	30
+53180	5	0	Dark Pink (6 Suits)	2019-09-04 — 00:15:26 UTC	asaelr, awe, Cory, NoMercy, Zamiel	9	6	30
 53179	5	0	Dark Pink (6 Suits)	2019-09-04 — 00:07:05 UTC	asaelr, awe, Cory, NoMercy, Zamiel	10	6	30
-53178	5	0	Dark Pink (6 Suits)	2019-09-03 — 23:52:57 UTC	asaelr, awe, Cory, NoMercy, Zamiel	11	6	30
+53178	5	0	Dark Pink (6 Suits)	2019-09-03 — 23:52:57 UTC	asaelr, awe, Cory, NoMercy, Zamiel	12	6	30
 53176	4	23	Dark Pink (5 Suits)	2019-09-03 — 23:31:38 UTC	asaelr, awe, NoMercy, Zamiel	13	5	25
-53173	3	0	Null (4 Suits)	2019-09-03 — 23:06:38 UTC	asaelr, NoMercy, Zamiel	10	4	20
-53172	3	0	Null (4 Suits)	2019-09-03 — 22:56:53 UTC	asaelr, NoMercy, Zamiel	23	4	20
+53173	3	0	Null (4 Suits)	2019-09-03 — 23:06:38 UTC	asaelr, NoMercy, Zamiel	11	4	20
+53172	3	0	Null (4 Suits)	2019-09-03 — 22:56:53 UTC	asaelr, NoMercy, Zamiel	24	4	20
 53171	4	0	Ambiguous & Dual-Color	2019-09-03 — 22:40:48 UTC	Jake_Stiles, Kyle, NoMercy, Zamiel	5	6	30
-52930	4	29	Black (6 Suits)	2019-09-02 — 19:46:43 UTC	Kyle, Livia, NoMercy, Valetta6789	91	6	30
-52925	4	26	Black (6 Suits)	2019-09-02 — 19:15:15 UTC	Kyle, Livia, NoMercy, Valetta6789	112	6	30
+52930	4	29	Black (6 Suits)	2019-09-02 — 19:46:43 UTC	Kyle, Livia, NoMercy, Valetta6789	95	6	30
+52925	4	26	Black (6 Suits)	2019-09-02 — 19:15:15 UTC	Kyle, Livia, NoMercy, Valetta6789	113	6	30
 52544	4	0	Pink & Gray (6 Suits)	2019-08-31 — 00:43:22 UTC	IAMJEFF, NoMercy, Ptheven, Zamiel	2	6	30
 52541	4	0	Pink & Gray (6 Suits)	2019-08-31 — 00:32:49 UTC	IAMJEFF, NoMercy, Ptheven, Zamiel	5	6	30
 52540	3	13	Number Mute (3 Suits)	2019-08-31 — 00:25:14 UTC	IAMJEFF, NoMercy, Zamiel	1	3	15
@@ -1642,26 +1649,26 @@
 52384	3	0	Up or Down & White (5 Suits)	2019-08-30 — 01:25:42 UTC	florrat2, Libster, NoMercy	3	5	25
 52379	3	0	Up or Down & White (5 Suits)	2019-08-30 — 01:01:37 UTC	florrat2, Libster, NoMercy	4	5	25
 52268	4	23	Up or Down (5 Suits)	2019-08-29 — 03:14:52 UTC	micerang, NoMercy, Ptheven, Zamiel	75	5	25
-52264	3	0	Up or Down (5 Suits)	2019-08-29 — 02:55:29 UTC	micerang, NoMercy, Ptheven	62	5	25
-52262	3	0	Up or Down (5 Suits)	2019-08-29 — 02:41:31 UTC	micerang, NoMercy, Ptheven	88	5	25
-52258	3	24	Up or Down (5 Suits)	2019-08-29 — 02:26:38 UTC	micerang, NoMercy, Ptheven	113	5	25
+52264	3	0	Up or Down (5 Suits)	2019-08-29 — 02:55:29 UTC	micerang, NoMercy, Ptheven	64	5	25
+52262	3	0	Up or Down (5 Suits)	2019-08-29 — 02:41:31 UTC	micerang, NoMercy, Ptheven	89	5	25
+52258	3	24	Up or Down (5 Suits)	2019-08-29 — 02:26:38 UTC	micerang, NoMercy, Ptheven	114	5	25
 52257	6	22	Gray (5 Suits)	2019-08-29 — 02:01:18 UTC	florrat2, IAMJEFF, Libster, micerang, NoMercy, Ptheven	3	5	25
 52252	3	0	Gray (5 Suits)	2019-08-29 — 01:36:29 UTC	florrat2, NoMercy, RaKXeR	26	5	25
-52250	3	0	Gray (5 Suits)	2019-08-29 — 01:18:44 UTC	florrat2, NoMercy, RaKXeR	35	5	25
+52250	3	0	Gray (5 Suits)	2019-08-29 — 01:18:44 UTC	florrat2, NoMercy, RaKXeR	36	5	25
 51640	3	30	Rainbow (6 Suits)	2019-08-24 — 06:28:02 UTC	DrSeil, NoMercy, usuallykayla	19	6	30
-51635	4	0	Rainbow (6 Suits)	2019-08-24 — 05:58:34 UTC	DrSeil, NoMercy, oblique, usuallykayla	22	6	30
-51625	4	28	Rainbow (6 Suits)	2019-08-24 — 04:58:34 UTC	DrSeil, NoMercy, oblique, usuallykayla	23	6	30
+51635	4	0	Rainbow (6 Suits)	2019-08-24 — 05:58:34 UTC	DrSeil, NoMercy, oblique, usuallykayla	23	6	30
+51625	4	28	Rainbow (6 Suits)	2019-08-24 — 04:58:34 UTC	DrSeil, NoMercy, oblique, usuallykayla	24	6	30
 51616	4	29	Rainbow (6 Suits)	2019-08-24 — 03:58:16 UTC	DrSeil, NoMercy, oblique, usuallykayla	26	6	30
-50891	4	29	Rainbow (6 Suits)	2019-08-18 — 20:48:43 UTC	DrSeil, NoMercy, oblique, usuallykayla	34	6	30
+50891	4	29	Rainbow (6 Suits)	2019-08-18 — 20:48:43 UTC	DrSeil, NoMercy, oblique, usuallykayla	35	6	30
 50410	5	0	Null (5 Suits)	2019-08-15 — 02:39:19 UTC	florrat2, Libster, micerang, NoMercy, Zamiel	6	5	25
 50405	5	0	Null (5 Suits)	2019-08-15 — 02:26:09 UTC	florrat2, Libster, micerang, NoMercy, Zamiel	9	5	25
 50401	5	0	Null (6 Suits)	2019-08-15 — 02:17:52 UTC	florrat2, Libster, micerang, NoMercy, Zamiel	10	6	30
 50397	5	0	Null (6 Suits)	2019-08-15 — 02:06:19 UTC	florrat2, Libster, micerang, NoMercy, Zamiel	10	6	30
 50393	6	29	Null (6 Suits)	2019-08-15 — 01:43:44 UTC	Cory, florrat2, Libster, NoMercy, Ptheven, Zamiel	1	6	30
-50387	6	0	Null (6 Suits)	2019-08-15 — 01:15:40 UTC	Cory, florrat2, Libster, NoMercy, Ptheven, Zamiel	2	6	30
+50387	6	0	Null (6 Suits)	2019-08-15 — 01:15:40 UTC	Cory, florrat2, Libster, NoMercy, Ptheven, Zamiel	3	6	30
 49208	4	30	Rainbow (6 Suits)	2019-08-04 — 15:06:57 UTC	Ahming, awe, NoMercy, Pimak	19	6	30
 49206	4	25	No Variant	2019-08-04 — 14:33:17 UTC	Ahming, awe, NoMercy, Pimak	204	5	25
-49203	5	0	No Variant	2019-08-04 — 14:09:52 UTC	Ahming, awe, Jake_Stiles, NoMercy, Pimak	223	5	25
+49203	5	0	No Variant	2019-08-04 — 14:09:52 UTC	Ahming, awe, Jake_Stiles, NoMercy, Pimak	226	5	25
 49201	4	0	Rainbow (6 Suits)	2019-08-04 — 13:58:59 UTC	Ahming, awe, Jake_Stiles, NoMercy	19	6	30
 49199	5	0	Rainbow (6 Suits)	2019-08-04 — 13:49:58 UTC	Fireheart, invarse, Jake_Stiles, NoMercy, Sucubis	21	6	30
 47957	4	22	Rainbow & Gray (5 Suits)	2019-07-27 — 15:43:24 UTC	Libster, NoMercy, RaKXeR, Razvogor	9	5	25
@@ -1670,32 +1677,32 @@
 47952	4	14	Brown (3 Suits)	2019-07-27 — 14:51:37 UTC	Libster, NoMercy, RaKXeR, Razvogor	13	3	15
 47951	3	0	Brown (6 Suits)	2019-07-27 — 14:30:41 UTC	Libster, NoMercy, RaKXeR	21	6	30
 47950	3	0	Brown (6 Suits)	2019-07-27 — 14:09:03 UTC	Libster, NoMercy, RaKXeR	22	6	30
-47949	3	0	Brown (6 Suits)	2019-07-27 — 13:56:52 UTC	Libster, NoMercy, RaKXeR	40	6	30
+47949	3	0	Brown (6 Suits)	2019-07-27 — 13:56:52 UTC	Libster, NoMercy, RaKXeR	41	6	30
 45274	3	0	Rainbow (6 Suits)	2019-07-08 — 23:08:00 UTC	Kyle, micerang, NoMercy	52	6	30
-45272	4	21	No Variant	2019-07-08 — 22:47:45 UTC	Kyle, NoMercy, scharkbite, sheriff	44	5	25
-45271	4	0	No Variant	2019-07-08 — 22:19:34 UTC	Kyle, NoMercy, scharkbite, sheriff	47	5	25
-45260	2	21	No Variant	2019-07-08 — 20:56:59 UTC	Anaximander, NoMercy	3051	5	25
-45256	2	0	No Variant	2019-07-08 — 20:39:08 UTC	Anaximander, NoMercy	3507	5	25
+45272	4	21	No Variant	2019-07-08 — 22:47:45 UTC	Kyle, NoMercy, scharkbite, sheriff	45	5	25
+45271	4	0	No Variant	2019-07-08 — 22:19:34 UTC	Kyle, NoMercy, scharkbite, sheriff	48	5	25
+45260	2	21	No Variant	2019-07-08 — 20:56:59 UTC	Anaximander, NoMercy	3072	5	25
+45256	2	0	No Variant	2019-07-08 — 20:39:08 UTC	Anaximander, NoMercy	3537	5	25
 44415	5	0	Brown (4 Suits)	2019-07-04 — 03:25:06 UTC	Jake_Stiles, micerang, NoMercy, scharkbite, Zamiel	1	4	20
 44410	4	28	Black & Pink (6 Suits)	2019-07-04 — 03:01:05 UTC	Jake_Stiles, micerang, NoMercy, Zamiel	9	6	30
 44407	4	0	Black & Pink (6 Suits)	2019-07-04 — 02:39:57 UTC	Jake_Stiles, micerang, NoMercy, Zamiel	11	6	30
 44404	4	0	Black & Pink (6 Suits)	2019-07-04 — 02:34:38 UTC	Jake_Stiles, micerang, NoMercy, Zamiel	13	6	30
 44403	4	0	Black & Pink (6 Suits)	2019-07-04 — 02:28:37 UTC	Jake_Stiles, micerang, NoMercy, Zamiel	18	6	30
-44396	6	24	Black (5 Suits)	2019-07-04 — 02:10:21 UTC	asaelr, Cory, Jake_Stiles, micerang, NoMercy, Zamiel	9	5	25
-44390	6	0	Black (5 Suits)	2019-07-04 — 01:46:58 UTC	asaelr, Cory, Jake_Stiles, micerang, NoMercy, Zamiel	9	5	25
+44396	6	24	Black (5 Suits)	2019-07-04 — 02:10:21 UTC	asaelr, Cory, Jake_Stiles, micerang, NoMercy, Zamiel	10	5	25
+44390	6	0	Black (5 Suits)	2019-07-04 — 01:46:58 UTC	asaelr, Cory, Jake_Stiles, micerang, NoMercy, Zamiel	10	5	25
 44307	3	20	Pink & Brown (4 Suits)	2019-07-03 — 07:27:26 UTC	micerang, NoMercy, sjdrodge	12	4	20
 44306	3	30	Black & Rainbow (6 Suits)	2019-07-03 — 07:07:23 UTC	micerang, NoMercy, sjdrodge	10	6	30
 44305	3	0	Black & Rainbow (6 Suits)	2019-07-03 — 06:49:11 UTC	micerang, NoMercy, sjdrodge	11	6	30
 44304	3	0	Black & Rainbow (6 Suits)	2019-07-03 — 06:46:47 UTC	micerang, NoMercy, sjdrodge	11	6	30
 44303	3	0	Black & Rainbow (6 Suits)	2019-07-03 — 06:38:34 UTC	micerang, NoMercy, sjdrodge	14	6	30
-44261	4	24	White (5 Suits)	2019-07-03 — 01:04:55 UTC	Jake_Stiles, micerang, NoMercy, sjdrodge	32	5	25
-44251	3	30	Black & Rainbow (6 Suits)	2019-07-02 — 23:15:31 UTC	asaelr, micerang, NoMercy	36	6	30
-44249	3	0	Black & Rainbow (6 Suits)	2019-07-02 — 22:52:05 UTC	asaelr, micerang, NoMercy	42	6	30
+44261	4	24	White (5 Suits)	2019-07-03 — 01:04:55 UTC	Jake_Stiles, micerang, NoMercy, sjdrodge	33	5	25
+44251	3	30	Black & Rainbow (6 Suits)	2019-07-02 — 23:15:31 UTC	asaelr, micerang, NoMercy	38	6	30
+44249	3	0	Black & Rainbow (6 Suits)	2019-07-02 — 22:52:05 UTC	asaelr, micerang, NoMercy	44	6	30
 44246	5	22	No Variant	2019-07-02 — 22:19:15 UTC	asaelr, Kyle, Livia, NoMercy, Sucubis	135	5	25
-44245	5	0	No Variant	2019-07-02 — 21:44:30 UTC	DMoney, Kyle, Livia, NoMercy, Sucubis	658	5	25
+44245	5	0	No Variant	2019-07-02 — 21:44:30 UTC	DMoney, Kyle, Livia, NoMercy, Sucubis	667	5	25
 44092	5	0	Black (6 Suits)	2019-07-01 — 22:49:15 UTC	awe, micerang, NoMercy, qqqq, Sucubis	24	6	30
 44090	5	0	Black (6 Suits)	2019-07-01 — 22:41:15 UTC	awe, micerang, NoMercy, qqqq, Sucubis	28	6	30
-44086	6	30	White (6 Suits)	2019-07-01 — 22:27:04 UTC	awe, Göttertöter, micerang, NoMercy, scharkbite, Sucubis	9	6	30
+44086	6	30	White (6 Suits)	2019-07-01 — 22:27:04 UTC	awe, Göttertöter, micerang, NoMercy, scharkbite, Sucubis	10	6	30
 43944	6	29	Black (6 Suits)	2019-07-01 — 03:00:30 UTC	Kyle, Libster, micerang, NoMercy, Razvogor, Zamiel	5	6	30
 43936	6	29	Number Mute (6 Suits)	2019-07-01 — 02:28:13 UTC	Ahming, Cory, Libster, NoMercy, Razvogor, Zamiel	1	6	30
 43926	6	0	Number Mute (6 Suits)	2019-07-01 — 02:00:12 UTC	Ahming, Cory, Libster, NoMercy, Razvogor, Zamiel	1	6	30
@@ -1705,10 +1712,10 @@
 43633	4	0	Rainbow & Pink (3 Suits)	2019-06-29 — 06:06:58 UTC	IAMJEFF, NoMercy, wortel, Zamiel	4	3	15
 43631	3	0	Rainbow & Pink (3 Suits)	2019-06-29 — 06:00:18 UTC	IAMJEFF, NoMercy, Zamiel	4	3	15
 43628	4	13	Rainbow & Pink (3 Suits)	2019-06-29 — 05:50:42 UTC	IAMJEFF, NoMercy, qqqq, Zamiel	5	3	15
-43626	4	13	Rainbow & Pink (3 Suits)	2019-06-29 — 05:36:34 UTC	IAMJEFF, NoMercy, qqqq, Zamiel	8	3	15
+43626	4	13	Rainbow & Pink (3 Suits)	2019-06-29 — 05:36:34 UTC	IAMJEFF, NoMercy, qqqq, Zamiel	9	3	15
 43624	4	0	Rainbow & Pink (3 Suits)	2019-06-29 — 05:28:35 UTC	IAMJEFF, NoMercy, qqqq, Zamiel	9	3	15
-43622	3	25	Rainbow & Pink (5 Suits)	2019-06-29 — 05:16:19 UTC	IAMJEFF, NoMercy, Zamiel	22	5	25
-43620	3	0	Rainbow & Pink (5 Suits)	2019-06-29 — 05:01:30 UTC	IAMJEFF, NoMercy, Zamiel	29	5	25
+43622	3	25	Rainbow & Pink (5 Suits)	2019-06-29 — 05:16:19 UTC	IAMJEFF, NoMercy, Zamiel	23	5	25
+43620	3	0	Rainbow & Pink (5 Suits)	2019-06-29 — 05:01:30 UTC	IAMJEFF, NoMercy, Zamiel	30	5	25
 43619	3	30	Rainbow & Pink (6 Suits)	2019-06-29 — 04:45:55 UTC	IAMJEFF, NoMercy, Zamiel	4	6	30
 43618	4	30	Black & Rainbow (6 Suits)	2019-06-29 — 04:13:25 UTC	IAMJEFF, Libster, NoMercy, Zamiel	8	6	30
 43617	5	0	Black & Rainbow (6 Suits)	2019-06-29 — 03:56:02 UTC	Ahming, IAMJEFF, Libster, NoMercy, Zamiel	10	6	30
@@ -1723,31 +1730,31 @@
 43608	6	22	Rainbow-Ones (5 Suits)	2019-06-29 — 01:39:13 UTC	Ahming, Cory, IAMJEFF, Jake_Stiles, NoMercy, Zamiel	3	5	25
 43548	4	0	Rainbow & Pink (4 Suits)	2019-06-28 — 19:31:49 UTC	Cory, IAMJEFF, NoMercy, Zamiel	7	4	20
 43546	4	19	Rainbow & Pink (4 Suits)	2019-06-28 — 19:20:51 UTC	Cory, IAMJEFF, NoMercy, Zamiel	10	4	20
-43544	4	25	Rainbow & Pink (5 Suits)	2019-06-28 — 19:00:11 UTC	Cory, IAMJEFF, NoMercy, Zamiel	14	5	25
-43541	4	30	Rainbow & Pink (6 Suits)	2019-06-28 — 18:36:37 UTC	Cory, IAMJEFF, NoMercy, Zamiel	12	6	30
+43544	4	25	Rainbow & Pink (5 Suits)	2019-06-28 — 19:00:11 UTC	Cory, IAMJEFF, NoMercy, Zamiel	15	5	25
+43541	4	30	Rainbow & Pink (6 Suits)	2019-06-28 — 18:36:37 UTC	Cory, IAMJEFF, NoMercy, Zamiel	13	6	30
 43540	5	0	Rainbow & Pink (6 Suits)	2019-06-28 — 18:10:03 UTC	Cory, IAMJEFF, NoMercy, Sucubis, Zamiel	8	6	30
 43254	3	0	Black (5 Suits)	2019-06-26 — 17:38:41 UTC	Joan, NoMercy, Sucubis	101	5	25
 43253	3	21	Black (5 Suits)	2019-06-26 — 17:19:19 UTC	Joan, NoMercy, Sucubis	119	5	25
-43252	3	22	Black (5 Suits)	2019-06-26 — 17:01:10 UTC	Joan, NoMercy, Sucubis	171	5	25
-43251	5	28	Black (6 Suits)	2019-06-26 — 16:31:42 UTC	awe, IAMJEFF, Joan, NoMercy, Sucubis	101	6	30
-43250	4	20	Rainbow (4 Suits)	2019-06-26 — 16:03:42 UTC	awe, IAMJEFF, NoMercy, Sucubis	25	4	20
-43207	5	22	No Variant	2019-06-26 — 01:14:46 UTC	asaelr, DMoney, micerang, NoMercy, zuzwang	163	5	25
+43252	3	22	Black (5 Suits)	2019-06-26 — 17:01:10 UTC	Joan, NoMercy, Sucubis	174	5	25
+43251	5	28	Black (6 Suits)	2019-06-26 — 16:31:42 UTC	awe, IAMJEFF, Joan, NoMercy, Sucubis	103	6	30
+43250	4	20	Rainbow (4 Suits)	2019-06-26 — 16:03:42 UTC	awe, IAMJEFF, NoMercy, Sucubis	26	4	20
+43207	5	22	No Variant	2019-06-26 — 01:14:46 UTC	asaelr, DMoney, micerang, NoMercy, zuzwang	166	5	25
 43190	4	29	Rainbow (6 Suits)	2019-06-25 — 21:20:44 UTC	asaelr, Kyle, NoMercy, Sucubis	38	6	30
-43188	4	27	6 Suits	2019-06-25 — 20:34:48 UTC	asaelr, Kyle, NoMercy, Sucubis	120	6	30
+43188	4	27	6 Suits	2019-06-25 — 20:34:48 UTC	asaelr, Kyle, NoMercy, Sucubis	122	6	30
 42726	5	18	4 Suits	2019-06-21 — 10:05:46 UTC	asaelr, efaust, kemurphy, NoMercy, sjdrodge	16	4	20
-42724	4	19	Pink (4 Suits)	2019-06-21 — 09:50:26 UTC	efaust, kemurphy, NoMercy, sjdrodge	8	4	20
+42724	4	19	Pink (4 Suits)	2019-06-21 — 09:50:26 UTC	efaust, kemurphy, NoMercy, sjdrodge	9	4	20
 42723	4	0	Pink (4 Suits)	2019-06-21 — 09:40:05 UTC	efaust, kemurphy, NoMercy, sjdrodge	10	4	20
 42722	4	0	Pink (4 Suits)	2019-06-21 — 09:33:22 UTC	efaust, kemurphy, NoMercy, sjdrodge	13	4	20
 42721	4	30	White (6 Suits)	2019-06-21 — 09:09:57 UTC	efaust, kemurphy, NoMercy, sjdrodge	10	6	30
-42720	3	0	White (3 Suits)	2019-06-21 — 08:46:46 UTC	efaust, NoMercy, sjdrodge	29	3	15
+42720	3	0	White (3 Suits)	2019-06-21 — 08:46:46 UTC	efaust, NoMercy, sjdrodge	30	3	15
 42719	4	15	Rainbow (3 Suits)	2019-06-21 — 08:40:12 UTC	efaust, kemurphy, NoMercy, sjdrodge	1	3	15
 42718	4	13	Rainbow (3 Suits)	2019-06-21 — 08:25:37 UTC	efaust, kemurphy, NoMercy, sjdrodge	2	3	15
 42717	4	0	Rainbow (3 Suits)	2019-06-21 — 08:11:23 UTC	efaust, kemurphy, NoMercy, sjdrodge	5	3	15
 42716	4	20	Brown (4 Suits)	2019-06-21 — 07:58:00 UTC	efaust, kemurphy, NoMercy, sjdrodge	22	4	20
 42011	6	30	6 Suits	2019-06-14 — 22:17:56 UTC	Asddsa76, Cory, Joan, Libster, micerang, NoMercy	8	6	30
 41996	5	22	No Variant	2019-06-14 — 21:45:57 UTC	Asddsa76, Cory, Joan, micerang, NoMercy	29	5	25
-41764	4	23	Black (5 Suits)	2019-06-13 — 00:26:45 UTC	Ahming, asaelr, Jake_Stiles, NoMercy	79	5	25
-41762	4	0	Black (5 Suits)	2019-06-13 — 00:04:53 UTC	Ahming, asaelr, Jake_Stiles, NoMercy	98	5	25
+41764	4	23	Black (5 Suits)	2019-06-13 — 00:26:45 UTC	Ahming, asaelr, Jake_Stiles, NoMercy	80	5	25
+41762	4	0	Black (5 Suits)	2019-06-13 — 00:04:53 UTC	Ahming, asaelr, Jake_Stiles, NoMercy	101	5	25
 41759	4	30	Pink & White (6 Suits)	2019-06-12 — 23:36:27 UTC	Andrew_UK, Cory, NoMercy, sjdrodge	3	6	30
 41754	4	0	Pink & White (6 Suits)	2019-06-12 — 23:07:55 UTC	Andrew_UK, Cory, NoMercy, sjdrodge	7	6	30
 41753	4	0	Pink & White (6 Suits)	2019-06-12 — 22:57:34 UTC	Andrew_UK, Cory, NoMercy, sjdrodge	7	6	30
@@ -1756,13 +1763,13 @@
 41693	4	0	Rainbow (5 Suits)	2019-06-12 — 06:03:34 UTC	Feer, micerang, NoMercy, sjdrodge	7	5	25
 41673	4	14	Brown (3 Suits)	2019-06-12 — 02:22:09 UTC	Libster, micerang, NoMercy, scharkbite	8	3	15
 41672	4	0	Brown (3 Suits)	2019-06-12 — 02:13:12 UTC	Libster, micerang, NoMercy, scharkbite	14	3	15
-41670	3	25	Rainbow (5 Suits)	2019-06-12 — 01:21:31 UTC	Ahming, NoMercy, scharkbite	12	5	25
+41670	3	25	Rainbow (5 Suits)	2019-06-12 — 01:21:31 UTC	Ahming, NoMercy, scharkbite	13	5	25
 41669	3	0	Rainbow (3 Suits)	2019-06-12 — 01:09:52 UTC	Ahming, NoMercy, scharkbite	3	3	15
-41611	3	0	Rainbow & Pink (3 Suits)	2019-06-11 — 10:11:07 UTC	efaust, NoMercy, sjdrodge	5	3	15
-41610	3	0	Rainbow & Pink (3 Suits)	2019-06-11 — 10:04:43 UTC	efaust, NoMercy, sjdrodge	5	3	15
-41609	3	14	Rainbow & Pink (3 Suits)	2019-06-11 — 09:50:53 UTC	efaust, NoMercy, sjdrodge	8	3	15
-41608	3	13	Rainbow & Pink (3 Suits)	2019-06-11 — 09:38:33 UTC	efaust, NoMercy, sjdrodge	8	3	15
-41607	3	0	Rainbow & Pink (3 Suits)	2019-06-11 — 09:21:13 UTC	efaust, NoMercy, sjdrodge	9	3	15
+41611	3	0	Rainbow & Pink (3 Suits)	2019-06-11 — 10:11:07 UTC	efaust, NoMercy, sjdrodge	6	3	15
+41610	3	0	Rainbow & Pink (3 Suits)	2019-06-11 — 10:04:43 UTC	efaust, NoMercy, sjdrodge	6	3	15
+41609	3	14	Rainbow & Pink (3 Suits)	2019-06-11 — 09:50:53 UTC	efaust, NoMercy, sjdrodge	9	3	15
+41608	3	13	Rainbow & Pink (3 Suits)	2019-06-11 — 09:38:33 UTC	efaust, NoMercy, sjdrodge	9	3	15
+41607	3	0	Rainbow & Pink (3 Suits)	2019-06-11 — 09:21:13 UTC	efaust, NoMercy, sjdrodge	10	3	15
 41606	3	0	Rainbow & Pink (3 Suits)	2019-06-11 — 09:04:03 UTC	efaust, NoMercy, sjdrodge	13	3	15
 41605	3	12	Rainbow & Pink (3 Suits)	2019-06-11 — 08:48:05 UTC	efaust, NoMercy, sjdrodge	14	3	15
 41604	3	15	Brown (3 Suits)	2019-06-11 — 08:32:52 UTC	efaust, NoMercy, sjdrodge	9	3	15
@@ -1774,42 +1781,42 @@
 41596	5	28	Brown (6 Suits)	2019-06-11 — 06:44:48 UTC	efaust, Libster, micerang, NoMercy, sjdrodge	5	6	30
 41595	5	0	Brown (6 Suits)	2019-06-11 — 06:21:21 UTC	efaust, Libster, micerang, NoMercy, sjdrodge	10	6	30
 41197	5	28	Gray (6 Suits)	2019-06-08 — 09:45:05 UTC	efaust, Feer, kemurphy, NoMercy, Sucubis	3	6	30
-41195	4	21	Gray (5 Suits)	2019-06-08 — 09:12:11 UTC	efaust, Feer, kemurphy, NoMercy	14	5	25
-41194	4	22	Gray (5 Suits)	2019-06-08 — 08:49:54 UTC	efaust, Feer, kemurphy, NoMercy	22	5	25
+41195	4	21	Gray (5 Suits)	2019-06-08 — 09:12:11 UTC	efaust, Feer, kemurphy, NoMercy	16	5	25
+41194	4	22	Gray (5 Suits)	2019-06-08 — 08:49:54 UTC	efaust, Feer, kemurphy, NoMercy	23	5	25
 41193	5	0	Gray (6 Suits)	2019-06-08 — 08:24:56 UTC	efaust, Feer, kemurphy, NoMercy, wjomlex	3	6	30
 41191	4	28	Rainbow (6 Suits)	2019-06-08 — 07:47:02 UTC	Feer, IAMJEFF, NoMercy, wortel	34	6	30
-41189	3	28	Rainbow (6 Suits)	2019-06-08 — 07:20:48 UTC	Feer, IAMJEFF, NoMercy	54	6	30
+41189	3	28	Rainbow (6 Suits)	2019-06-08 — 07:20:48 UTC	Feer, IAMJEFF, NoMercy	55	6	30
 41056	2	30	Cow & Pig (6 Suits)	2019-06-07 — 05:00:27 UTC	NoMercy, Zamiel	15	6	30
 41053	2	0	Cow & Pig (6 Suits)	2019-06-07 — 04:48:22 UTC	NoMercy, Zamiel	23	6	30
 41052	2	25	Cow & Pig (5 Suits)	2019-06-07 — 04:39:57 UTC	NoMercy, Zamiel	9	5	25
-41050	2	0	Cow & Pig (5 Suits)	2019-06-07 — 04:25:49 UTC	NoMercy, Zamiel	9	5	25
-40805	2	23	Cow & Pig (5 Suits)	2019-06-05 — 20:48:51 UTC	NoMercy, Zamiel	12	5	25
-40801	2	0	Cow & Pig (5 Suits)	2019-06-05 — 20:36:53 UTC	NoMercy, Zamiel	14	5	25
-40800	2	0	Cow & Pig (5 Suits)	2019-06-05 — 20:35:16 UTC	NoMercy, Zamiel	21	5	25
-40797	2	0	Cow & Pig (5 Suits)	2019-06-05 — 20:29:11 UTC	NoMercy, Zamiel	34	5	25
-40796	2	0	Cow & Pig (5 Suits)	2019-06-05 — 20:24:50 UTC	NoMercy, Zamiel	47	5	25
-40793	2	0	Cow & Pig (5 Suits)	2019-06-05 — 20:18:38 UTC	NoMercy, Zamiel	65	5	25
+41050	2	0	Cow & Pig (5 Suits)	2019-06-07 — 04:25:49 UTC	NoMercy, Zamiel	10	5	25
+40805	2	23	Cow & Pig (5 Suits)	2019-06-05 — 20:48:51 UTC	NoMercy, Zamiel	13	5	25
+40801	2	0	Cow & Pig (5 Suits)	2019-06-05 — 20:36:53 UTC	NoMercy, Zamiel	15	5	25
+40800	2	0	Cow & Pig (5 Suits)	2019-06-05 — 20:35:16 UTC	NoMercy, Zamiel	22	5	25
+40797	2	0	Cow & Pig (5 Suits)	2019-06-05 — 20:29:11 UTC	NoMercy, Zamiel	35	5	25
+40796	2	0	Cow & Pig (5 Suits)	2019-06-05 — 20:24:50 UTC	NoMercy, Zamiel	48	5	25
+40793	2	0	Cow & Pig (5 Suits)	2019-06-05 — 20:18:38 UTC	NoMercy, Zamiel	66	5	25
 40792	2	30	Duck (6 Suits)	2019-06-05 — 20:08:52 UTC	NoMercy, Zamiel	3	6	30
 40790	2	0	Duck (6 Suits)	2019-06-05 — 19:51:16 UTC	NoMercy, Zamiel	3	6	30
 40789	2	0	Duck (6 Suits)	2019-06-05 — 19:46:40 UTC	NoMercy, Zamiel	3	6	30
 40788	2	0	Duck (6 Suits)	2019-06-05 — 19:43:58 UTC	NoMercy, Zamiel	3	6	30
 40786	2	0	Duck (6 Suits)	2019-06-05 — 19:40:22 UTC	NoMercy, Zamiel	3	6	30
 40785	2	0	Duck (6 Suits)	2019-06-05 — 19:25:06 UTC	NoMercy, Zamiel	3	6	30
-40140	5	24	Brown (5 Suits)	2019-06-01 — 01:24:10 UTC	Ahming, IAMJEFF, micerang, NoMercy, qqqq	17	5	25
+40140	5	24	Brown (5 Suits)	2019-06-01 — 01:24:10 UTC	Ahming, IAMJEFF, micerang, NoMercy, qqqq	18	5	25
 40139	3	25	Brown (5 Suits)	2019-06-01 — 00:49:55 UTC	Ahming, micerang, NoMercy	23	5	25
-40064	4	30	Gray (6 Suits)	2019-05-31 — 08:52:05 UTC	efaust, kemurphy, NoMercy, sjdrodge	3	6	30
-40063	4	0	Gray (6 Suits)	2019-05-31 — 08:25:38 UTC	efaust, kemurphy, NoMercy, sjdrodge	5	6	30
-40062	4	28	Gray (6 Suits)	2019-05-31 — 08:07:07 UTC	efaust, kemurphy, NoMercy, sjdrodge	6	6	30
-40061	4	0	Gray (6 Suits)	2019-05-31 — 07:46:18 UTC	efaust, kemurphy, NoMercy, sjdrodge	7	6	30
-40060	4	0	Gray (6 Suits)	2019-05-31 — 07:40:36 UTC	efaust, kemurphy, NoMercy, sjdrodge	7	6	30
-40058	4	0	Gray (6 Suits)	2019-05-31 — 07:31:37 UTC	efaust, kemurphy, NoMercy, sjdrodge	7	6	30
+40064	4	30	Gray (6 Suits)	2019-05-31 — 08:52:05 UTC	efaust, kemurphy, NoMercy, sjdrodge	4	6	30
+40063	4	0	Gray (6 Suits)	2019-05-31 — 08:25:38 UTC	efaust, kemurphy, NoMercy, sjdrodge	6	6	30
+40062	4	28	Gray (6 Suits)	2019-05-31 — 08:07:07 UTC	efaust, kemurphy, NoMercy, sjdrodge	7	6	30
+40061	4	0	Gray (6 Suits)	2019-05-31 — 07:46:18 UTC	efaust, kemurphy, NoMercy, sjdrodge	8	6	30
+40060	4	0	Gray (6 Suits)	2019-05-31 — 07:40:36 UTC	efaust, kemurphy, NoMercy, sjdrodge	9	6	30
+40058	4	0	Gray (6 Suits)	2019-05-31 — 07:31:37 UTC	efaust, kemurphy, NoMercy, sjdrodge	9	6	30
 40030	4	15	Pink (3 Suits)	2019-05-31 — 02:18:44 UTC	micerang, NoMercy, qqqq, Zamiel	1	3	15
 40029	4	0	Pink (3 Suits)	2019-05-31 — 02:07:31 UTC	micerang, NoMercy, qqqq, Zamiel	1	3	15
 40028	4	0	Pink (3 Suits)	2019-05-31 — 01:57:54 UTC	micerang, NoMercy, qqqq, Zamiel	2	3	15
 40027	3	0	Rainbow-Ones (6 Suits)	2019-05-31 — 01:44:17 UTC	NoMercy, qqqq, Zamiel	9	6	30
 40026	3	0	Rainbow-Ones (6 Suits)	2019-05-31 — 01:24:48 UTC	NoMercy, qqqq, Zamiel	16	6	30
 40025	2	0	Up or Down & Brown (5 Suits)	2019-05-31 — 01:03:36 UTC	NoMercy, Zamiel	9	5	25
-39899	5	0	Pink (6 Suits)	2019-05-30 — 00:00:15 UTC	asaelr, Cory, micerang, NoMercy, SedNegi	29	6	30
+39899	5	0	Pink (6 Suits)	2019-05-30 — 00:00:15 UTC	asaelr, Cory, micerang, NoMercy, SedNegi	31	6	30
 39884	2	20	Duck (4 Suits)	2019-05-29 — 22:04:33 UTC	NoMercy, Zamiel	3	4	20
 39880	2	0	Duck (4 Suits)	2019-05-29 — 21:53:48 UTC	NoMercy, Zamiel	3	4	20
 39878	2	0	Duck (4 Suits)	2019-05-29 — 21:45:40 UTC	NoMercy, Zamiel	3	4	20
@@ -1822,17 +1829,17 @@
 39864	2	0	Duck (4 Suits)	2019-05-29 — 21:04:49 UTC	NoMercy, Zamiel	5	4	20
 39863	2	0	Duck (4 Suits)	2019-05-29 — 21:01:02 UTC	NoMercy, Zamiel	6	4	20
 39862	2	0	Duck (4 Suits)	2019-05-29 — 21:00:10 UTC	NoMercy, Zamiel	6	4	20
-39821	3	0	Gray (6 Suits)	2019-05-29 — 08:35:48 UTC	efaust, NoMercy, sjdrodge	42	6	30
-39820	3	0	Gray (6 Suits)	2019-05-29 — 08:31:10 UTC	efaust, NoMercy, sjdrodge	45	6	30
-39819	3	24	Gray (6 Suits)	2019-05-29 — 08:18:34 UTC	efaust, NoMercy, sjdrodge	48	6	30
+39821	3	0	Gray (6 Suits)	2019-05-29 — 08:35:48 UTC	efaust, NoMercy, sjdrodge	43	6	30
+39820	3	0	Gray (6 Suits)	2019-05-29 — 08:31:10 UTC	efaust, NoMercy, sjdrodge	48	6	30
+39819	3	24	Gray (6 Suits)	2019-05-29 — 08:18:34 UTC	efaust, NoMercy, sjdrodge	52	6	30
 39667	5	21	No Variant	2019-05-28 — 01:28:05 UTC	Asddsa76, bunnycat, Jake_Stiles, Libster, NoMercy	3	5	25
-39662	3	22	No Variant	2019-05-28 — 00:50:17 UTC	Asddsa76, bunnycat, NoMercy	82	5	25
+39662	3	22	No Variant	2019-05-28 — 00:50:17 UTC	Asddsa76, bunnycat, NoMercy	85	5	25
 39370	5	25	No Variant	2019-05-25 — 20:26:18 UTC	Ahming, Asddsa76, Libster, NoMercy, zuzwang	2	5	25
 39365	5	23	No Variant	2019-05-25 — 19:44:27 UTC	Ahming, Asddsa76, Libster, NoMercy, zuzwang	2	5	25
-39362	2	22	No Variant	2019-05-25 — 19:21:18 UTC	NoMercy, zuzwang	1532	5	25
-39359	2	21	No Variant	2019-05-25 — 19:02:39 UTC	NoMercy, zuzwang	1703	5	25
+39362	2	22	No Variant	2019-05-25 — 19:21:18 UTC	NoMercy, zuzwang	1547	5	25
+39359	2	21	No Variant	2019-05-25 — 19:02:39 UTC	NoMercy, zuzwang	1721	5	25
 39339	4	28	Black & Rainbow (6 Suits)	2019-05-25 — 09:08:03 UTC	efaust, Feer, Maiorskills, NoMercy	46	6	30
-39338	5	0	Black (6 Suits)	2019-05-25 — 08:36:15 UTC	efaust, Feer, Maiorskills, NoMercy, sjdrodge	35	6	30
+39338	5	0	Black (6 Suits)	2019-05-25 — 08:36:15 UTC	efaust, Feer, Maiorskills, NoMercy, sjdrodge	36	6	30
 39264	2	30	Dual-Color Mix	2019-05-24 — 22:24:45 UTC	NoMercy, Zamiel	5	6	30
 39263	2	0	Dual-Color Mix	2019-05-24 — 22:17:18 UTC	NoMercy, Zamiel	5	6	30
 39262	2	0	Dual-Color Mix	2019-05-24 — 22:11:45 UTC	NoMercy, Zamiel	5	6	30
@@ -2079,22 +2086,22 @@
 38890	3	0	Black (6 Suits)	2019-05-23 — 02:33:57 UTC	florrat2, Libster, NoMercy	1	6	30
 38889	3	0	Black (6 Suits)	2019-05-23 — 02:32:26 UTC	florrat2, Libster, NoMercy	1	6	30
 38886	4	24	No Variant	2019-05-23 — 02:20:44 UTC	florrat2, Libster, NoMercy, Razvogor	5	5	25
-38885	4	23	Dark Brown (5 Suits)	2019-05-23 — 01:49:20 UTC	florrat2, Libster, NoMercy, Razvogor	8	5	25
+38885	4	23	Dark Brown (5 Suits)	2019-05-23 — 01:49:20 UTC	florrat2, Libster, NoMercy, Razvogor	9	5	25
 38884	4	25	Special Mix (5 Suits)	2019-05-23 — 01:15:35 UTC	florrat2, Libster, NoMercy, Razvogor	29	5	25
-38804	3	17	No Variant	2019-05-22 — 05:34:16 UTC	Asddsa76, beardie1500, NoMercy	106	5	25
-38770	4	0	No Variant	2019-05-21 — 23:31:23 UTC	asaelr, Asddsa76, NoMercy, Will	655	5	25
-38769	4	23	No Variant	2019-05-21 — 23:00:38 UTC	asaelr, micerang, NoMercy, Will	1092	5	25
-38341	4	0	Pink (6 Suits)	2019-05-18 — 06:03:45 UTC	Feer, Libster, NoMercy, Smurf account	70	6	30
+38804	3	17	No Variant	2019-05-22 — 05:34:16 UTC	Asddsa76, beardie1500, NoMercy	110	5	25
+38770	4	0	No Variant	2019-05-21 — 23:31:23 UTC	asaelr, Asddsa76, NoMercy, Will	660	5	25
+38769	4	23	No Variant	2019-05-21 — 23:00:38 UTC	asaelr, micerang, NoMercy, Will	1103	5	25
+38341	4	0	Pink (6 Suits)	2019-05-18 — 06:03:45 UTC	Feer, Libster, NoMercy, Smurf account	71	6	30
 38339	5	0	Pink (5 Suits)	2019-05-18 — 05:43:19 UTC	Feer, Libster, NoMercy, Smurf account, wortel	14	5	25
 38338	5	0	Pink (5 Suits)	2019-05-18 — 05:26:13 UTC	Feer, Libster, NoMercy, Smurf account, wortel	20	5	25
-38337	3	18	Pink (4 Suits)	2019-05-18 — 04:58:06 UTC	Feer, NoMercy, Smurf account	59	4	20
-38336	3	20	Rainbow (4 Suits)	2019-05-18 — 04:19:00 UTC	Feer, NoMercy, Smurf account	43	4	20
-38335	3	20	Rainbow (4 Suits)	2019-05-18 — 03:58:22 UTC	Feer, NoMercy, Smurf account	46	4	20
-38334	3	20	Rainbow (4 Suits)	2019-05-18 — 03:30:35 UTC	Feer, NoMercy, Smurf account	84	4	20
-38322	3	0	No Variant	2019-05-17 — 21:03:31 UTC	NoMercy, sjdrodge, snkylittleazn	154	5	25
-38321	3	0	No Variant	2019-05-17 — 20:46:44 UTC	NoMercy, sjdrodge, snkylittleazn	178	5	25
-38320	2	0	No Variant	2019-05-17 — 20:40:02 UTC	NoMercy, snkylittleazn	2147	5	25
-38319	3	0	No Variant	2019-05-17 — 20:32:22 UTC	micerang, NoMercy, snkylittleazn	840	5	25
+38337	3	18	Pink (4 Suits)	2019-05-18 — 04:58:06 UTC	Feer, NoMercy, Smurf account	60	4	20
+38336	3	20	Rainbow (4 Suits)	2019-05-18 — 04:19:00 UTC	Feer, NoMercy, Smurf account	45	4	20
+38335	3	20	Rainbow (4 Suits)	2019-05-18 — 03:58:22 UTC	Feer, NoMercy, Smurf account	48	4	20
+38334	3	20	Rainbow (4 Suits)	2019-05-18 — 03:30:35 UTC	Feer, NoMercy, Smurf account	85	4	20
+38322	3	0	No Variant	2019-05-17 — 21:03:31 UTC	NoMercy, sjdrodge, snkylittleazn	157	5	25
+38321	3	0	No Variant	2019-05-17 — 20:46:44 UTC	NoMercy, sjdrodge, snkylittleazn	179	5	25
+38320	2	0	No Variant	2019-05-17 — 20:40:02 UTC	NoMercy, snkylittleazn	2166	5	25
+38319	3	0	No Variant	2019-05-17 — 20:32:22 UTC	micerang, NoMercy, snkylittleazn	849	5	25
 38060	2	0	Duck (6 Suits)	2019-05-16 — 01:24:27 UTC	NoMercy, Ula	3	6	30
 38058	2	0	Duck (6 Suits)	2019-05-16 — 01:13:37 UTC	NoMercy, Ula	3	6	30
 38057	2	0	Duck (6 Suits)	2019-05-16 — 01:04:03 UTC	NoMercy, Ula	3	6	30
@@ -2110,13 +2117,13 @@
 38045	3	0	Special Mix (5 Suits)	2019-05-15 — 23:54:40 UTC	Libster, NoMercy, Ula	24	5	25
 38042	2	0	Duck (6 Suits)	2019-05-15 — 23:43:39 UTC	NoMercy, Ula	12	6	30
 38041	2	0	Duck (6 Suits)	2019-05-15 — 23:40:12 UTC	NoMercy, Ula	22	6	30
-38038	2	0	Black & Pink (6 Suits)	2019-05-15 — 23:27:48 UTC	NoMercy, Zamiel	44	6	30
+38038	2	0	Black & Pink (6 Suits)	2019-05-15 — 23:27:48 UTC	NoMercy, Zamiel	46	6	30
 37356	3	0	Rainbow (4 Suits)	2019-05-12 — 06:11:18 UTC	efaust, micerang, NoMercy	11	4	20
 37072	4	18	Rainbow (4 Suits)	2019-05-11 — 08:22:47 UTC	efaust, hanabornoob, NoMercy, wortel	14	4	20
 37071	5	28	Rainbow (6 Suits)	2019-05-11 — 07:39:15 UTC	efaust, Feer, micerang, NoMercy, wortel	22	6	30
-37064	4	25	No Variant	2019-05-11 — 05:54:28 UTC	efaust, Feer, micerang, NoMercy	384	5	25
-37039	4	24	No Variant	2019-05-11 — 05:30:38 UTC	efaust, Feer, micerang, NoMercy	442	5	25
-37013	4	23	No Variant	2019-05-11 — 05:05:32 UTC	efaust, Feer, micerang, NoMercy	501	5	25
+37064	4	25	No Variant	2019-05-11 — 05:54:28 UTC	efaust, Feer, micerang, NoMercy	387	5	25
+37039	4	24	No Variant	2019-05-11 — 05:30:38 UTC	efaust, Feer, micerang, NoMercy	448	5	25
+37013	4	23	No Variant	2019-05-11 — 05:05:32 UTC	efaust, Feer, micerang, NoMercy	507	5	25
 36966	5	25	No Variant	2019-05-11 — 04:33:47 UTC	Bubble, efaust, NoMercy, sjdrodge, snkylittleazn	9	5	25
 36924	5	24	No Variant	2019-05-11 — 04:07:34 UTC	Bubble, efaust, NoMercy, sjdrodge, snkylittleazn	15	5	25
 36797	4	29	Cow & Pig (6 Suits)	2019-05-11 — 00:26:41 UTC	florrat2, Libster, NoMercy, Zamiel	8	6	30
@@ -2128,17 +2135,17 @@
 36790	5	30	Dark Rainbow (6 Suits)	2019-05-10 — 23:04:24 UTC	florrat2, Libster, NoMercy, Razgovor, Zamiel	2	6	30
 36788	5	0	Dark Rainbow (6 Suits)	2019-05-10 — 22:52:38 UTC	florrat2, Libster, NoMercy, Razgovor, Zamiel	2	6	30
 36785	4	21	Special Mix (5 Suits)	2019-05-10 — 22:19:07 UTC	florrat2, NoMercy, Razgovor, Zamiel	39	5	25
-36734	3	22	Up or Down (5 Suits)	2019-05-10 — 09:14:05 UTC	efaust, kemurphy, NoMercy	29	5	25
-36733	3	21	Up or Down (5 Suits)	2019-05-10 — 08:45:52 UTC	efaust, kemurphy, NoMercy	36	5	25
-36732	3	20	Rainbow & White (4 Suits)	2019-05-10 — 08:19:54 UTC	efaust, kemurphy, NoMercy	27	4	20
+36734	3	22	Up or Down (5 Suits)	2019-05-10 — 09:14:05 UTC	efaust, kemurphy, NoMercy	31	5	25
+36733	3	21	Up or Down (5 Suits)	2019-05-10 — 08:45:52 UTC	efaust, kemurphy, NoMercy	38	5	25
+36732	3	20	Rainbow & White (4 Suits)	2019-05-10 — 08:19:54 UTC	efaust, kemurphy, NoMercy	29	4	20
 36731	4	20	Rainbow (4 Suits)	2019-05-10 — 07:53:56 UTC	efaust, kemurphy, NoMercy, sjdrodge	17	4	20
 36730	4	0	Rainbow (5 Suits)	2019-05-10 — 07:34:40 UTC	efaust, kemurphy, NoMercy, sjdrodge	8	5	25
 36729	4	0	Rainbow (5 Suits)	2019-05-10 — 07:09:33 UTC	efaust, kemurphy, NoMercy, sjdrodge	10	5	25
-36616	3	0	Black & White (5 Suits)	2019-05-09 — 08:04:57 UTC	efaust, NoMercy, sjdrodge	40	5	25
+36616	3	0	Black & White (5 Suits)	2019-05-09 — 08:04:57 UTC	efaust, NoMercy, sjdrodge	41	5	25
 36615	3	0	Black & White (5 Suits)	2019-05-09 — 07:41:33 UTC	efaust, NoMercy, sjdrodge	45	5	25
 36438	4	15	Rainbow-Ones (3 Suits)	2019-05-09 — 00:36:50 UTC	Libster, NoMercy, sjdrodge, snkylittleazn	3	3	15
 36436	4	0	Totally Blind (3 Suits)	2019-05-09 — 00:28:27 UTC	Libster, NoMercy, sjdrodge, snkylittleazn	3	3	15
-36395	4	24	Rainbow (5 Suits)	2019-05-08 — 19:17:39 UTC	Asddsa76, micerang, NoMercy, snkylittleazn	32	5	25
+36395	4	24	Rainbow (5 Suits)	2019-05-08 — 19:17:39 UTC	Asddsa76, micerang, NoMercy, snkylittleazn	34	5	25
 36394	5	0	Rainbow (6 Suits)	2019-05-08 — 18:47:24 UTC	Andrew_UK, Asddsa76, micerang, NoMercy, scharkbite	21	6	30
 36186	3	30	6 Suits	2019-05-08 — 04:30:17 UTC	florrat2, Libster, NoMercy	2	6	30
 36185	3	0	6 Suits	2019-05-08 — 04:28:04 UTC	florrat2, Libster, NoMercy	2	6	30
@@ -2184,8 +2191,8 @@
 36142	3	0	6 Suits	2019-05-08 — 03:49:12 UTC	florrat2, Libster, NoMercy	2	6	30
 36141	3	0	6 Suits	2019-05-08 — 03:48:07 UTC	florrat2, Libster, NoMercy	2	6	30
 36128	6	0	Rainbow (5 Suits)	2019-05-08 — 03:25:44 UTC	florrat2, Libster, micerang, NoMercy, sjdrodge, Zamiel	9	5	25
-36116	3	24	No Variant	2019-05-08 — 00:04:43 UTC	NoMercy, sjdrodge, Ten	223	5	25
-36113	5	0	No Variant	2019-05-07 — 23:18:25 UTC	asaelr, NoMercy, snkylittleazn, Tempo, Ten	837	5	25
+36116	3	24	No Variant	2019-05-08 — 00:04:43 UTC	NoMercy, sjdrodge, Ten	228	5	25
+36113	5	0	No Variant	2019-05-07 — 23:18:25 UTC	asaelr, NoMercy, snkylittleazn, Tempo, Ten	845	5	25
 36111	5	23	No Variant	2019-05-07 — 22:51:06 UTC	asaelr, NoMercy, sjdrodge, snkylittleazn, Tempo	23	5	25
 35826	3	0	6 Suits	2019-05-07 — 03:31:34 UTC	florrat2, Libster, NoMercy	2	6	30
 35825	3	0	6 Suits	2019-05-07 — 03:31:11 UTC	florrat2, Libster, NoMercy	2	6	30
@@ -2316,7 +2323,7 @@
 35691	3	0	6 Suits	2019-05-07 — 01:28:34 UTC	florrat2, Libster, NoMercy	2	6	30
 35690	3	0	6 Suits	2019-05-07 — 01:27:56 UTC	florrat2, Libster, NoMercy	2	6	30
 35689	3	0	6 Suits	2019-05-07 — 01:27:31 UTC	florrat2, Libster, NoMercy	2	6	30
-35686	5	23	No Variant	2019-05-07 — 01:10:01 UTC	Libster, NoMercy, sjdrodge, snkylittleazn, Tempo	2	5	25
+35686	5	23	No Variant	2019-05-07 — 01:10:01 UTC	Libster, NoMercy, sjdrodge, snkylittleazn, Tempo	3	5	25
 35213	3	30	Rainbow (6 Suits)	2019-05-05 — 03:13:30 UTC	florrat2, Libster, NoMercy	1	6	30
 35212	3	0	Rainbow (6 Suits)	2019-05-05 — 03:12:04 UTC	florrat2, Libster, NoMercy	1	6	30
 35210	3	0	Rainbow (6 Suits)	2019-05-05 — 03:11:42 UTC	florrat2, Libster, NoMercy	1	6	30
@@ -2343,9 +2350,9 @@
 35187	3	0	Rainbow (6 Suits)	2019-05-05 — 02:49:32 UTC	florrat2, Libster, NoMercy	1	6	30
 35151	3	0	Rainbow (6 Suits)	2019-05-05 — 02:12:39 UTC	DrSeil, NoMercy, oblique	17	6	30
 35125	3	29	Rainbow (6 Suits)	2019-05-05 — 01:33:42 UTC	DrSeil, NoMercy, oblique	20	6	30
-35030	3	30	6 Suits	2019-05-04 — 08:11:58 UTC	Feer, Magnus, NoMercy	132	6	30
-35025	3	28	6 Suits	2019-05-04 — 07:39:50 UTC	Feer, Magnus, NoMercy	147	6	30
-35011	4	0	Gray (6 Suits)	2019-05-04 — 06:24:44 UTC	Asddsa76, Dr_Kakashi, Hunter, NoMercy	13	6	30
+35030	3	30	6 Suits	2019-05-04 — 08:11:58 UTC	Feer, Magnus, NoMercy	133	6	30
+35025	3	28	6 Suits	2019-05-04 — 07:39:50 UTC	Feer, Magnus, NoMercy	149	6	30
+35011	4	0	Gray (6 Suits)	2019-05-04 — 06:24:44 UTC	Asddsa76, Dr_Kakashi, Hunter, NoMercy	14	6	30
 35007	3	23	Dark Pink (5 Suits)	2019-05-04 — 05:58:24 UTC	Asddsa76, Dr_Kakashi, NoMercy	19	5	25
 35001	3	30	Rainbow & White (6 Suits)	2019-05-04 — 05:31:35 UTC	Asddsa76, Dr_Kakashi, NoMercy	6	6	30
 34995	5	0	No Variant	2019-05-04 — 04:58:07 UTC	Dr_Kakashi, efaust, NoMercy, sjdrodge, wjomlex	25	5	25
@@ -2469,39 +2476,39 @@
 34214	5	0	6 Suits	2019-05-02 — 01:10:22 UTC	Ahming, florrat2, Libster, NoMercy, Zamiel	1	6	30
 34212	4	0	No Variant	2019-05-02 — 01:09:03 UTC	Ahming, florrat2, Libster, NoMercy	5	5	25
 34211	4	0	No Variant	2019-05-02 — 01:07:22 UTC	Ahming, florrat2, Libster, NoMercy	5	5	25
-34116	3	26	Rainbow (6 Suits)	2019-05-01 — 04:00:49 UTC	DrSeil, NoMercy, usuallykayla	19	6	30
-34114	3	0	No Variant	2019-05-01 — 03:37:36 UTC	DrSeil, NoMercy, usuallykayla	3260	5	25
+34116	3	26	Rainbow (6 Suits)	2019-05-01 — 04:00:49 UTC	DrSeil, NoMercy, usuallykayla	20	6	30
+34114	3	0	No Variant	2019-05-01 — 03:37:36 UTC	DrSeil, NoMercy, usuallykayla	3290	5	25
 33344	4	25	Black & White (5 Suits)	2019-04-28 — 09:25:31 UTC	Dr_Kakashi, IAMJEFF, NoMercy, qqqq	23	5	25
-33343	3	25	Gray (5 Suits)	2019-04-28 — 08:58:24 UTC	Dr_Kakashi, NoMercy, qqqq	37	5	25
-33340	3	23	Gray (5 Suits)	2019-04-28 — 08:33:14 UTC	Dr_Kakashi, NoMercy, qqqq	42	5	25
-33338	5	23	No Variant	2019-04-28 — 08:07:36 UTC	Dr_Kakashi, efaust, NoMercy, sjdrodge, wortel	28	5	25
-33076	4	23	Dark Brown (5 Suits)	2019-04-27 — 10:32:11 UTC	Asddsa76, efaust, NoMercy, sjdrodge	14	5	25
-33075	4	0	Dark Brown (5 Suits)	2019-04-27 — 10:15:19 UTC	Asddsa76, efaust, NoMercy, sjdrodge	17	5	25
+33343	3	25	Gray (5 Suits)	2019-04-28 — 08:58:24 UTC	Dr_Kakashi, NoMercy, qqqq	39	5	25
+33340	3	23	Gray (5 Suits)	2019-04-28 — 08:33:14 UTC	Dr_Kakashi, NoMercy, qqqq	44	5	25
+33338	5	23	No Variant	2019-04-28 — 08:07:36 UTC	Dr_Kakashi, efaust, NoMercy, sjdrodge, wortel	29	5	25
+33076	4	23	Dark Brown (5 Suits)	2019-04-27 — 10:32:11 UTC	Asddsa76, efaust, NoMercy, sjdrodge	15	5	25
+33075	4	0	Dark Brown (5 Suits)	2019-04-27 — 10:15:19 UTC	Asddsa76, efaust, NoMercy, sjdrodge	18	5	25
 33074	6	20	4 Suits	2019-04-27 — 09:55:39 UTC	Asddsa76, Dr_Kakashi, efaust, NoMercy, sjdrodge, wortel	1	4	20
 33073	6	0	4 Suits	2019-04-27 — 09:37:10 UTC	Asddsa76, Dr_Kakashi, efaust, NoMercy, sjdrodge, wortel	1	4	20
-33071	5	0	No Variant	2019-04-27 — 09:16:02 UTC	Dr_Kakashi, efaust, NoMercy, sjdrodge, wortel	29	5	25
-33067	3	19	Dark Pink (5 Suits)	2019-04-27 — 08:08:17 UTC	Ape, Asddsa76, NoMercy	22	5	25
-33066	3	0	Dark Pink (5 Suits)	2019-04-27 — 07:57:15 UTC	Ape, Asddsa76, NoMercy	26	5	25
+33071	5	0	No Variant	2019-04-27 — 09:16:02 UTC	Dr_Kakashi, efaust, NoMercy, sjdrodge, wortel	30	5	25
+33067	3	19	Dark Pink (5 Suits)	2019-04-27 — 08:08:17 UTC	Ape, Asddsa76, NoMercy	23	5	25
+33066	3	0	Dark Pink (5 Suits)	2019-04-27 — 07:57:15 UTC	Ape, Asddsa76, NoMercy	27	5	25
 33065	3	0	Dark Pink (5 Suits)	2019-04-27 — 07:54:50 UTC	Ape, Asddsa76, NoMercy	38	5	25
-33062	3	22	Dark Pink (5 Suits)	2019-04-27 — 07:41:00 UTC	Ape, Asddsa76, NoMercy	42	5	25
+33062	3	22	Dark Pink (5 Suits)	2019-04-27 — 07:41:00 UTC	Ape, Asddsa76, NoMercy	44	5	25
 33059	3	20	Rainbow (4 Suits)	2019-04-27 — 07:20:59 UTC	Ape, Asddsa76, NoMercy	16	4	20
 33058	5	26	Gray (6 Suits)	2019-04-27 — 06:53:59 UTC	Dr_Kakashi, efaust, Hunter, NoMercy, wortel	19	6	30
 33057	4	0	Gray (6 Suits)	2019-04-27 — 06:15:43 UTC	Dr_Kakashi, efaust, Hunter, NoMercy	29	6	30
 33041	3	0	Rainbow & Brown (4 Suits)	2019-04-27 — 05:40:55 UTC	efaust, NoMercy, sjdrodge	20	4	20
 33004	3	0	Pink & Dark Rainbow (6 Suits)	2019-04-27 — 05:26:32 UTC	efaust, NoMercy, sjdrodge	7	6	30
 32978	4	0	White (5 Suits)	2019-04-27 — 05:12:12 UTC	efaust, Hunter, NoMercy, sjdrodge	12	5	25
-32572	3	0	Black & White (6 Suits)	2019-04-26 — 21:30:47 UTC	Dr_Kakashi, Hunter, NoMercy	47	6	30
+32572	3	0	Black & White (6 Suits)	2019-04-26 — 21:30:47 UTC	Dr_Kakashi, Hunter, NoMercy	48	6	30
 32570	4	0	Black & White (6 Suits)	2019-04-26 — 20:45:44 UTC	Dr_Kakashi, Hunter, Maiorskills, NoMercy	29	6	30
 32395	3	0	Pink (3 Suits)	2019-04-26 — 02:28:48 UTC	micerang, NoMercy, Zamiel	11	3	15
 32394	3	0	Pink (3 Suits)	2019-04-26 — 02:20:30 UTC	micerang, NoMercy, Zamiel	10	3	15
-32392	3	0	Pink (3 Suits)	2019-04-26 — 02:07:35 UTC	micerang, NoMercy, Zamiel	23	3	15
-32390	3	12	Pink (3 Suits)	2019-04-26 — 01:56:03 UTC	micerang, NoMercy, Zamiel	27	3	15
-32389	3	0	Pink (3 Suits)	2019-04-26 — 01:45:32 UTC	micerang, NoMercy, Zamiel	33	3	15
-32388	3	14	Pink (3 Suits)	2019-04-26 — 01:41:30 UTC	micerang, NoMercy, Zamiel	44	3	15
+32392	3	0	Pink (3 Suits)	2019-04-26 — 02:07:35 UTC	micerang, NoMercy, Zamiel	25	3	15
+32390	3	12	Pink (3 Suits)	2019-04-26 — 01:56:03 UTC	micerang, NoMercy, Zamiel	29	3	15
+32389	3	0	Pink (3 Suits)	2019-04-26 — 01:45:32 UTC	micerang, NoMercy, Zamiel	34	3	15
+32388	3	14	Pink (3 Suits)	2019-04-26 — 01:41:30 UTC	micerang, NoMercy, Zamiel	46	3	15
 32383	4	0	Rainbow (6 Suits)	2019-04-26 — 00:47:42 UTC	florrat2, NoMercy, RaKXeR, snkylittleazn	2	6	30
 32381	4	0	Rainbow (6 Suits)	2019-04-26 — 00:21:22 UTC	florrat2, NoMercy, RaKXeR, snkylittleazn	3	6	30
-32379	2	15	Rainbow (3 Suits)	2019-04-26 — 00:09:46 UTC	Hunter, NoMercy	76	3	15
-32378	3	0	Rainbow (4 Suits)	2019-04-25 — 23:58:29 UTC	Dr_Kakashi, Hunter, NoMercy	68	4	20
+32379	2	15	Rainbow (3 Suits)	2019-04-26 — 00:09:46 UTC	Hunter, NoMercy	78	3	15
+32378	3	0	Rainbow (4 Suits)	2019-04-25 — 23:58:29 UTC	Dr_Kakashi, Hunter, NoMercy	69	4	20
 32259	4	0	Black (6 Suits)	2019-04-25 — 05:00:38 UTC	florrat2, Libster, NoMercy, Zamiel	1	6	30
 32258	4	0	Black (6 Suits)	2019-04-25 — 04:59:41 UTC	florrat2, Libster, NoMercy, Zamiel	1	6	30
 32257	4	0	Black (6 Suits)	2019-04-25 — 04:59:10 UTC	florrat2, Libster, NoMercy, Zamiel	1	6	30
@@ -2659,59 +2666,59 @@
 32088	5	0	Rainbow (5 Suits)	2019-04-25 — 02:13:11 UTC	Dr_Kakashi, Hunter, Libster, NoMercy, The Kaito Kid	4	5	25
 32086	4	29	Rainbow (6 Suits)	2019-04-25 — 01:31:30 UTC	Dr_Kakashi, Hunter, NoMercy, RaKXeR	9	6	30
 32083	6	19	4 Suits	2019-04-25 — 00:52:06 UTC	Dr_Kakashi, Hunter, NoMercy, RaKXeR, sjdrodge, snkylittleazn	2	4	20
-32080	3	14	Pink (3 Suits)	2019-04-25 — 00:24:19 UTC	Dr_Kakashi, NoMercy, Zamiel	12	3	15
-32079	3	0	Pink (3 Suits)	2019-04-25 — 00:00:50 UTC	Dr_Kakashi, NoMercy, Zamiel	13	3	15
-32077	3	14	Pink (3 Suits)	2019-04-24 — 23:48:33 UTC	Dr_Kakashi, NoMercy, Zamiel	19	3	15
+32080	3	14	Pink (3 Suits)	2019-04-25 — 00:24:19 UTC	Dr_Kakashi, NoMercy, Zamiel	13	3	15
+32079	3	0	Pink (3 Suits)	2019-04-25 — 00:00:50 UTC	Dr_Kakashi, NoMercy, Zamiel	15	3	15
+32077	3	14	Pink (3 Suits)	2019-04-24 — 23:48:33 UTC	Dr_Kakashi, NoMercy, Zamiel	21	3	15
 32075	3	20	Pink (4 Suits)	2019-04-24 — 23:19:52 UTC	Dr_Kakashi, NoMercy, Zamiel	11	4	20
 32065	5	0	Black & Pink (6 Suits)	2019-04-24 — 21:55:25 UTC	Andrew_UK, Dr_Kakashi, IAMJEFF, Libster, NoMercy	7	6	30
 32062	5	0	Black & Pink (6 Suits)	2019-04-24 — 21:46:53 UTC	Andrew_UK, Dr_Kakashi, Libster, NoMercy, sjdrodge	8	6	30
-32046	6	25	No Variant	2019-04-24 — 19:31:24 UTC	Ape, Dr_Kakashi, kondain, Maiorskills, micerang, NoMercy	478	5	25
+32046	6	25	No Variant	2019-04-24 — 19:31:24 UTC	Ape, Dr_Kakashi, kondain, Maiorskills, micerang, NoMercy	483	5	25
 31880	5	0	Brown (4 Suits)	2019-04-24 — 04:16:29 UTC	Dr_Kakashi, florrat2, Libster, NoMercy, RaKXeR	10	4	20
 31877	5	0	Rainbow & Brown (6 Suits)	2019-04-24 — 03:55:31 UTC	Dr_Kakashi, florrat2, Libster, NoMercy, RaKXeR	7	6	30
 31876	5	30	Brown (6 Suits)	2019-04-24 — 03:33:09 UTC	Dr_Kakashi, florrat2, Libster, NoMercy, RaKXeR	12	6	30
 31869	4	30	Brown (6 Suits)	2019-04-24 — 02:58:10 UTC	Dr_Kakashi, florrat2, NoMercy, NotRaKXeR	17	6	30
 31864	4	0	Brown (6 Suits)	2019-04-24 — 02:24:56 UTC	Dr_Kakashi, florrat2, NoMercy, NotRaKXeR	21	6	30
-31861	4	0	Brown (6 Suits)	2019-04-24 — 02:05:17 UTC	Dr_Kakashi, florrat2, NoMercy, NotRaKXeR	27	6	30
-31840	4	0	Rainbow (5 Suits)	2019-04-23 — 21:14:59 UTC	Dr_Kakashi, kondain, NoMercy, sjdrodge	130	5	25
+31861	4	0	Brown (6 Suits)	2019-04-24 — 02:05:17 UTC	Dr_Kakashi, florrat2, NoMercy, NotRaKXeR	28	6	30
+31840	4	0	Rainbow (5 Suits)	2019-04-23 — 21:14:59 UTC	Dr_Kakashi, kondain, NoMercy, sjdrodge	131	5	25
 31836	5	30	Rainbow (6 Suits)	2019-04-23 — 20:46:46 UTC	Dr_Kakashi, Hunter, kondain, NoMercy, sjdrodge	24	6	30
 31833	5	0	Rainbow (6 Suits)	2019-04-23 — 20:14:45 UTC	Dr_Kakashi, Hunter, kondain, NoMercy, sjdrodge	24	6	30
 31832	4	0	Rainbow (6 Suits)	2019-04-23 — 20:02:00 UTC	Dr_Kakashi, Hunter, NoMercy, sjdrodge	35	6	30
-31828	3	0	Rainbow (6 Suits)	2019-04-23 — 19:47:12 UTC	Dr_Kakashi, Hunter, NoMercy	68	6	30
+31828	3	0	Rainbow (6 Suits)	2019-04-23 — 19:47:12 UTC	Dr_Kakashi, Hunter, NoMercy	69	6	30
 31702	3	0	Rainbow (6 Suits)	2019-04-23 — 00:14:58 UTC	Dr_Kakashi, NoMercy, RaKXeR	18	6	30
 31700	3	0	Rainbow (6 Suits)	2019-04-22 — 23:59:29 UTC	Dr_Kakashi, NoMercy, RaKXeR	19	6	30
 31698	3	0	Rainbow (6 Suits)	2019-04-22 — 23:47:00 UTC	Dr_Kakashi, NoMercy, RaKXeR	23	6	30
-31178	5	23	No Variant	2019-04-20 — 22:22:31 UTC	Doge, Dr_Kakashi, NoMercy, RaKXeR, wjomlex	67	5	25
+31178	5	23	No Variant	2019-04-20 — 22:22:31 UTC	Doge, Dr_Kakashi, NoMercy, RaKXeR, wjomlex	68	5	25
 31176	5	0	No Variant	2019-04-20 — 21:52:11 UTC	Doge, Dr_Kakashi, NoMercy, RaKXeR, wjomlex	75	5	25
-31175	5	25	No Variant	2019-04-20 — 21:27:00 UTC	Dr_Kakashi, NoMercy, RaKXeR, vanina93, wjomlex	77	5	25
-31171	4	0	No Variant	2019-04-20 — 20:48:12 UTC	Dr_Kakashi, NoMercy, RaKXeR, vanina93	43	5	25
+31175	5	25	No Variant	2019-04-20 — 21:27:00 UTC	Dr_Kakashi, NoMercy, RaKXeR, vanina93, wjomlex	78	5	25
+31171	4	0	No Variant	2019-04-20 — 20:48:12 UTC	Dr_Kakashi, NoMercy, RaKXeR, vanina93	44	5	25
 31020	4	30	White & Brown (6 Suits)	2019-04-19 — 19:21:55 UTC	Andrew_UK, Libster, NoMercy, wortel	20	6	30
 31006	5	29	Brown (6 Suits)	2019-04-19 — 18:30:32 UTC	kondain, Libster, micerang, NoMercy, wortel	21	6	30
 31000	6	29	Brown (6 Suits)	2019-04-19 — 17:42:43 UTC	Ape, kondain, Libster, micerang, NoMercy, RaKXeR	10	6	30
-30990	5	21	Brown (5 Suits)	2019-04-19 — 17:03:54 UTC	Ape, kondain, Libster, NoMercy, Zamiel	24	5	25
+30990	5	21	Brown (5 Suits)	2019-04-19 — 17:03:54 UTC	Ape, kondain, Libster, NoMercy, Zamiel	25	5	25
 30978	3	0	Brown (3 Suits)	2019-04-19 — 16:42:00 UTC	Ape, NoMercy, Zamiel	29	3	15
 30976	3	0	Brown (3 Suits)	2019-04-19 — 16:36:00 UTC	Ape, NoMercy, Zamiel	37	3	15
-30862	5	23	No Variant	2019-04-18 — 23:29:09 UTC	Asddsa76, Hunter, NoMercy, sjdrodge, vanina93	50	5	25
-30856	5	29	Rainbow (6 Suits)	2019-04-18 — 22:28:14 UTC	Andrew_UK, Asddsa76, Hunter, NoMercy, sjdrodge	31	6	30
+30862	5	23	No Variant	2019-04-18 — 23:29:09 UTC	Asddsa76, Hunter, NoMercy, sjdrodge, vanina93	52	5	25
+30856	5	29	Rainbow (6 Suits)	2019-04-18 — 22:28:14 UTC	Andrew_UK, Asddsa76, Hunter, NoMercy, sjdrodge	32	6	30
 30775	5	30	Brown (6 Suits)	2019-04-18 — 03:46:47 UTC	Mike, NoMercy, scharkbite, wjomlex, Zamiel	8	6	30
 30770	4	20	Pink (4 Suits)	2019-04-18 — 03:13:45 UTC	Mike, NoMercy, scharkbite, Zamiel	19	4	20
-30768	4	0	Pink (4 Suits)	2019-04-18 — 02:49:33 UTC	Mike, NoMercy, scharkbite, Zamiel	22	4	20
+30768	4	0	Pink (4 Suits)	2019-04-18 — 02:49:33 UTC	Mike, NoMercy, scharkbite, Zamiel	23	4	20
 30766	4	26	Pink (6 Suits)	2019-04-18 — 02:30:40 UTC	Mike, NoMercy, scharkbite, Zamiel	15	6	30
 30762	4	0	Pink (6 Suits)	2019-04-18 — 02:08:45 UTC	Mike, NoMercy, scharkbite, Zamiel	21	6	30
-30760	3	0	Brown (6 Suits)	2019-04-18 — 01:54:43 UTC	Mike, NoMercy, Zamiel	52	6	30
+30760	3	0	Brown (6 Suits)	2019-04-18 — 01:54:43 UTC	Mike, NoMercy, Zamiel	53	6	30
 30759	3	30	Color Mute (6 Suits)	2019-04-18 — 01:36:08 UTC	Libster, NoMercy, Zamiel	3	6	30
 30758	3	25	Pink (5 Suits)	2019-04-18 — 01:16:05 UTC	Libster, NoMercy, Zamiel	23	5	25
 30756	3	0	Pink (5 Suits)	2019-04-18 — 00:59:00 UTC	Libster, NoMercy, Zamiel	33	5	25
-30754	3	0	Pink (5 Suits)	2019-04-18 — 00:48:23 UTC	NoMercy, sjdrodge, Zamiel	36	5	25
-30753	3	0	Pink (5 Suits)	2019-04-18 — 00:40:02 UTC	NoMercy, sjdrodge, Zamiel	43	5	25
-30752	3	0	Pink (5 Suits)	2019-04-18 — 00:35:10 UTC	NoMercy, sjdrodge, Zamiel	49	5	25
-30750	3	24	Pink (5 Suits)	2019-04-18 — 00:20:10 UTC	NoMercy, sjdrodge, Zamiel	62	5	25
-30749	3	0	Pink (5 Suits)	2019-04-18 — 00:05:10 UTC	NoMercy, sjdrodge, Zamiel	75	5	25
-30748	3	24	Pink (5 Suits)	2019-04-17 — 23:52:38 UTC	NoMercy, sjdrodge, Zamiel	108	5	25
+30754	3	0	Pink (5 Suits)	2019-04-18 — 00:48:23 UTC	NoMercy, sjdrodge, Zamiel	38	5	25
+30753	3	0	Pink (5 Suits)	2019-04-18 — 00:40:02 UTC	NoMercy, sjdrodge, Zamiel	44	5	25
+30752	3	0	Pink (5 Suits)	2019-04-18 — 00:35:10 UTC	NoMercy, sjdrodge, Zamiel	51	5	25
+30750	3	24	Pink (5 Suits)	2019-04-18 — 00:20:10 UTC	NoMercy, sjdrodge, Zamiel	64	5	25
+30749	3	0	Pink (5 Suits)	2019-04-18 — 00:05:10 UTC	NoMercy, sjdrodge, Zamiel	77	5	25
+30748	3	24	Pink (5 Suits)	2019-04-17 — 23:52:38 UTC	NoMercy, sjdrodge, Zamiel	112	5	25
 30746	4	0	Rainbow & Dark Pink (6 Suits)	2019-04-17 — 23:17:31 UTC	Libster, NoMercy, sjdrodge, Zamiel	8	6	30
-30744	3	0	Pink (6 Suits)	2019-04-17 — 22:41:57 UTC	NoMercy, scharkbite, sjdrodge	131	6	30
-30679	3	15	Rainbow (3 Suits)	2019-04-17 — 16:07:04 UTC	Hunter, Maiorskills, NoMercy	24	3	15
+30744	3	0	Pink (6 Suits)	2019-04-17 — 22:41:57 UTC	NoMercy, scharkbite, sjdrodge	132	6	30
+30679	3	15	Rainbow (3 Suits)	2019-04-17 — 16:07:04 UTC	Hunter, Maiorskills, NoMercy	25	3	15
 30677	3	12	Rainbow (3 Suits)	2019-04-17 — 15:54:37 UTC	Hunter, Maiorskills, NoMercy	36	3	15
-30672	2	14	Rainbow (3 Suits)	2019-04-17 — 15:37:34 UTC	Hunter, NoMercy	127	3	15
+30672	2	14	Rainbow (3 Suits)	2019-04-17 — 15:37:34 UTC	Hunter, NoMercy	132	3	15
 30550	4	0	Pink (6 Suits)	2019-04-17 — 04:30:26 UTC	Libster, NoMercy, Razgovor, Zamiel	30	6	30
 30549	4	0	Pink (6 Suits)	2019-04-17 — 04:10:47 UTC	Libster, NoMercy, Razgovor, Zamiel	35	6	30
 29526	3	22	Dark Rainbow (5 Suits)	2019-04-13 — 11:07:44 UTC	Andrew_UK, NoMercy, sjdrodge	21	5	25
@@ -2719,38 +2726,38 @@
 29487	3	0	Pink-Fives & Rainbow (5 Suits)	2019-04-12 — 22:41:51 UTC	Andrew_UK, Libster, NoMercy	4	5	25
 29483	5	27	6 Suits	2019-04-12 — 22:23:46 UTC	Asddsa76, Libster, NoMercy, sjdrodge, snkylittleazn	20	6	30
 29480	6	25	No Variant	2019-04-12 — 21:38:29 UTC	Asddsa76, Libster, NoMercy, RaKXeR, sjdrodge, snkylittleazn	36	5	25
-29477	4	0	No Variant	2019-04-12 — 21:09:52 UTC	Asddsa76, NoMercy, sjdrodge, snkylittleazn	190	5	25
-29474	3	0	No Variant	2019-04-12 — 20:48:16 UTC	Hunter, NoMercy, snkylittleazn	275	5	25
+29477	4	0	No Variant	2019-04-12 — 21:09:52 UTC	Asddsa76, NoMercy, sjdrodge, snkylittleazn	192	5	25
+29474	3	0	No Variant	2019-04-12 — 20:48:16 UTC	Hunter, NoMercy, snkylittleazn	277	5	25
 29339	3	25	No Variant	2019-04-12 — 00:36:19 UTC	Mike, NoMercy, Zamiel	6	5	25
 29337	3	24	No Variant	2019-04-12 — 00:12:31 UTC	Mike, NoMercy, Zamiel	5	5	25
 29336	3	24	No Variant	2019-04-11 — 23:49:02 UTC	Mike, NoMercy, Zamiel	6	5	25
 29330	3	20	Pink-Fives & Rainbow (4 Suits)	2019-04-11 — 22:45:14 UTC	Libster, NoMercy, Zamiel	6	4	20
 29329	3	0	Duck (5 Suits)	2019-04-11 — 22:28:00 UTC	Libster, NoMercy, Zamiel	13	5	25
-29327	3	0	Duck (5 Suits)	2019-04-11 — 22:20:37 UTC	Libster, NoMercy, Zamiel	15	5	25
-29326	3	0	Duck (5 Suits)	2019-04-11 — 22:18:09 UTC	Libster, NoMercy, Zamiel	14	5	25
-29325	3	0	Duck (5 Suits)	2019-04-11 — 22:15:08 UTC	Libster, NoMercy, Zamiel	14	5	25
+29327	3	0	Duck (5 Suits)	2019-04-11 — 22:20:37 UTC	Libster, NoMercy, Zamiel	16	5	25
+29326	3	0	Duck (5 Suits)	2019-04-11 — 22:18:09 UTC	Libster, NoMercy, Zamiel	15	5	25
+29325	3	0	Duck (5 Suits)	2019-04-11 — 22:15:08 UTC	Libster, NoMercy, Zamiel	15	5	25
 29324	4	0	Up or Down & White (5 Suits)	2019-04-11 — 22:06:02 UTC	NoMercy, scharkbite, sjdrodge, Zamiel	5	5	25
 29323	4	0	Clue Starved (5 Suits)	2019-04-11 — 21:50:08 UTC	Andrew_UK, NoMercy, scharkbite, sjdrodge	19	5	25
 29321	3	24	Dual-Color (5 Suits)	2019-04-11 — 21:08:03 UTC	NoMercy, scharkbite, sjdrodge	18	5	25
 29040	4	30	Up or Down & Rainbow (6 Suits)	2019-04-10 — 22:08:44 UTC	Andrew_UK, Libster, NoMercy, sjdrodge	20	6	30
 29039	4	0	Ambiguous & Rainbow (5 Suits)	2019-04-10 — 21:31:59 UTC	Andrew_UK, Libster, NoMercy, sjdrodge	1	5	25
-29036	3	0	Up or Down & Rainbow (6 Suits)	2019-04-10 — 21:09:50 UTC	Libster, NoMercy, sjdrodge	8	6	30
-28749	3	23	No Variant	2019-04-09 — 19:09:21 UTC	Asddsa76, Dato, NoMercy	125	5	25
-28739	3	0	No Variant	2019-04-09 — 18:26:30 UTC	Asddsa76, Dato, NoMercy	141	5	25
-28735	4	25	No Variant	2019-04-09 — 17:55:01 UTC	Andrew_UK, MikeIsMufasa, NoMercy, wortel	167	5	25
-28316	2	0	No Variant	2019-04-08 — 08:53:17 UTC	No Mercy 2, NoMercy	4109	5	25
+29036	3	0	Up or Down & Rainbow (6 Suits)	2019-04-10 — 21:09:50 UTC	Libster, NoMercy, sjdrodge	9	6	30
+28749	3	23	No Variant	2019-04-09 — 19:09:21 UTC	Asddsa76, Dato, NoMercy	129	5	25
+28739	3	0	No Variant	2019-04-09 — 18:26:30 UTC	Asddsa76, Dato, NoMercy	145	5	25
+28735	4	25	No Variant	2019-04-09 — 17:55:01 UTC	Andrew_UK, MikeIsMufasa, NoMercy, wortel	169	5	25
+28316	2	0	No Variant	2019-04-08 — 08:53:17 UTC	No Mercy 2, NoMercy	4149	5	25
 28250	3	30	Rainbow (6 Suits)	2019-04-07 — 23:27:47 UTC	DrSeil, NoMercy, oblique	23	6	30
 28196	4	0	Rainbow (6 Suits)	2019-04-07 — 22:44:35 UTC	DrSeil, NoMercy, oblique, usuallykayla	38	6	30
 28157	4	0	Rainbow (6 Suits)	2019-04-07 — 22:03:14 UTC	DrSeil, NoMercy, oblique, usuallykayla	39	6	30
 28108	4	0	Very Ambiguous (6 Suits)	2019-04-07 — 13:46:52 UTC	Asddsa76, NoMercy, sjdrodge, wortel	5	6	30
 28107	4	0	Very Ambiguous (6 Suits)	2019-04-07 — 13:26:09 UTC	Asddsa76, NoMercy, sjdrodge, wortel	6	6	30
 28106	4	0	Very Ambiguous (6 Suits)	2019-04-07 — 13:05:21 UTC	Asddsa76, NoMercy, sjdrodge, wortel	8	6	30
-28104	2	28	Black (6 Suits)	2019-04-07 — 12:02:22 UTC	NoMercy, sjdrodge	391	6	30
-28103	2	29	Rainbow (6 Suits)	2019-04-07 — 11:39:47 UTC	NoMercy, sjdrodge	717	6	30
-28060	4	25	No Variant	2019-04-06 — 22:23:17 UTC	Andrew_UK, efaust, Kakashi, NoMercy	233	5	25
-28055	4	0	No Variant	2019-04-06 — 22:00:40 UTC	Andrew_UK, efaust, Kakashi, NoMercy	257	5	25
-28053	4	0	No Variant	2019-04-06 — 21:52:29 UTC	Andrew_UK, efaust, Kakashi, NoMercy	287	5	25
-28052	4	0	No Variant	2019-04-06 — 21:50:12 UTC	Andrew_UK, efaust, Kakashi, NoMercy	541	5	25
+28104	2	28	Black (6 Suits)	2019-04-07 — 12:02:22 UTC	NoMercy, sjdrodge	398	6	30
+28103	2	29	Rainbow (6 Suits)	2019-04-07 — 11:39:47 UTC	NoMercy, sjdrodge	728	6	30
+28060	4	25	No Variant	2019-04-06 — 22:23:17 UTC	Andrew_UK, efaust, Kakashi, NoMercy	236	5	25
+28055	4	0	No Variant	2019-04-06 — 22:00:40 UTC	Andrew_UK, efaust, Kakashi, NoMercy	260	5	25
+28053	4	0	No Variant	2019-04-06 — 21:52:29 UTC	Andrew_UK, efaust, Kakashi, NoMercy	293	5	25
+28052	4	0	No Variant	2019-04-06 — 21:50:12 UTC	Andrew_UK, efaust, Kakashi, NoMercy	548	5	25
 28028	3	0	Black (6 Suits)	2019-04-06 — 20:10:11 UTC	florrat2, Libster, NoMercy	1	6	30
 28027	3	0	Black (6 Suits)	2019-04-06 — 20:09:57 UTC	florrat2, Libster, NoMercy	1	6	30
 28026	3	0	Black (6 Suits)	2019-04-06 — 20:08:50 UTC	florrat2, Libster, NoMercy	1	6	30
@@ -2819,43 +2826,43 @@
 27960	3	0	6 Suits	2019-04-06 — 19:07:03 UTC	florrat2, Libster, NoMercy	2	6	30
 27959	3	0	6 Suits	2019-04-06 — 19:06:45 UTC	florrat2, Libster, NoMercy	2	6	30
 27958	3	0	6 Suits	2019-04-06 — 19:05:35 UTC	florrat2, Libster, NoMercy	2	6	30
-27821	3	0	Rainbow (6 Suits)	2019-04-05 — 14:01:38 UTC	Asddsa76, Knoekie, NoMercy	53	6	30
-27820	3	0	Rainbow (6 Suits)	2019-04-05 — 13:29:08 UTC	Asddsa76, Knoekie, NoMercy	55	6	30
-27819	3	25	No Variant	2019-04-05 — 13:00:03 UTC	Asddsa76, Knoekie, NoMercy	151	5	25
-27818	3	25	No Variant	2019-04-05 — 12:21:00 UTC	Asddsa76, Knoekie, NoMercy	156	5	25
-27817	3	0	No Variant	2019-04-05 — 12:01:48 UTC	Asddsa76, Knoekie, NoMercy	157	5	25
-27813	3	29	6 Suits	2019-04-05 — 09:50:10 UTC	efaust, Kakashi, NoMercy	252	6	30
+27821	3	0	Rainbow (6 Suits)	2019-04-05 — 14:01:38 UTC	Asddsa76, Knoekie, NoMercy	55	6	30
+27820	3	0	Rainbow (6 Suits)	2019-04-05 — 13:29:08 UTC	Asddsa76, Knoekie, NoMercy	57	6	30
+27819	3	25	No Variant	2019-04-05 — 13:00:03 UTC	Asddsa76, Knoekie, NoMercy	153	5	25
+27818	3	25	No Variant	2019-04-05 — 12:21:00 UTC	Asddsa76, Knoekie, NoMercy	158	5	25
+27817	3	0	No Variant	2019-04-05 — 12:01:48 UTC	Asddsa76, Knoekie, NoMercy	160	5	25
+27813	3	29	6 Suits	2019-04-05 — 09:50:10 UTC	efaust, Kakashi, NoMercy	256	6	30
 27757	2	17	Duck (4 Suits)	2019-04-04 — 23:49:40 UTC	NoMercy, sjdrodge	14	4	20
 27756	2	0	Duck (4 Suits)	2019-04-04 — 23:35:00 UTC	NoMercy, sjdrodge	18	4	20
 27755	2	0	Duck (4 Suits)	2019-04-04 — 23:20:07 UTC	NoMercy, sjdrodge	24	4	20
 27754	3	0	Dual-Color (5 Suits)	2019-04-04 — 23:01:49 UTC	Asddsa76, NoMercy, sjdrodge	31	5	25
 27753	3	0	Dual-Color (5 Suits)	2019-04-04 — 22:45:25 UTC	Asddsa76, NoMercy, sjdrodge	44	5	25
-27752	3	15	Dual-Color (3 Suits)	2019-04-04 — 22:29:07 UTC	Asddsa76, NoMercy, sjdrodge	30	3	15
+27752	3	15	Dual-Color (3 Suits)	2019-04-04 — 22:29:07 UTC	Asddsa76, NoMercy, sjdrodge	32	3	15
 27749	5	0	Rainbow (5 Suits)	2019-04-04 — 22:01:30 UTC	Asddsa76, darkenblade986, Kakashi, NoMercy, sjdrodge	34	5	25
 27744	5	20	4 Suits	2019-04-04 — 21:30:45 UTC	Andrew_UK, Asddsa76, darkenblade986, Kakashi, NoMercy	7	4	20
-27737	4	0	6 Suits	2019-04-04 — 20:48:33 UTC	Andrew_UK, darkenblade986, Kakashi, NoMercy	191	6	30
+27737	4	0	6 Suits	2019-04-04 — 20:48:33 UTC	Andrew_UK, darkenblade986, Kakashi, NoMercy	193	6	30
 27730	5	0	6 Suits	2019-04-04 — 20:13:08 UTC	Andrew_UK, Kakashi, NoMercy, scharkbite, sjdrodge	40	6	30
-27728	4	24	No Variant	2019-04-04 — 19:57:34 UTC	Andrew_UK, Kakashi, NoMercy, scharkbite	117	5	25
-27727	4	0	No Variant	2019-04-04 — 19:37:47 UTC	Andrew_UK, Kakashi, NoMercy, scharkbite	198	5	25
-27699	3	22	Black (5 Suits)	2019-04-04 — 15:05:54 UTC	Andrew_UK, NoMercy, scharkbite	68	5	25
-27698	3	0	Black (5 Suits)	2019-04-04 — 14:50:18 UTC	Andrew_UK, NoMercy, scharkbite	71	5	25
+27728	4	24	No Variant	2019-04-04 — 19:57:34 UTC	Andrew_UK, Kakashi, NoMercy, scharkbite	119	5	25
+27727	4	0	No Variant	2019-04-04 — 19:37:47 UTC	Andrew_UK, Kakashi, NoMercy, scharkbite	199	5	25
+27699	3	22	Black (5 Suits)	2019-04-04 — 15:05:54 UTC	Andrew_UK, NoMercy, scharkbite	69	5	25
+27698	3	0	Black (5 Suits)	2019-04-04 — 14:50:18 UTC	Andrew_UK, NoMercy, scharkbite	73	5	25
 27692	3	21	Black (5 Suits)	2019-04-04 — 14:37:20 UTC	Andrew_UK, NoMercy, scharkbite	84	5	25
-27622	5	30	Rainbow (6 Suits)	2019-04-03 — 22:12:51 UTC	Andrew_UK, Asddsa76, Kakashi, NoMercy, Razgovor	59	6	30
+27622	5	30	Rainbow (6 Suits)	2019-04-03 — 22:12:51 UTC	Andrew_UK, Asddsa76, Kakashi, NoMercy, Razgovor	60	6	30
 27618	5	0	Rainbow (6 Suits)	2019-04-03 — 20:51:09 UTC	Andrew_UK, Asddsa76, Kakashi, NoMercy, Razgovor	83	6	30
 27615	4	0	Rainbow (6 Suits)	2019-04-03 — 20:08:10 UTC	Andrew_UK, darkenblade986, Kakashi, NoMercy	41	6	30
-27613	4	20	4 Suits	2019-04-03 — 19:39:05 UTC	Andrew_UK, darkenblade986, Kakashi, NoMercy	77	4	20
-27607	3	0	4 Suits	2019-04-03 — 19:02:25 UTC	darkenblade986, Kakashi, NoMercy	59	4	20
+27613	4	20	4 Suits	2019-04-03 — 19:39:05 UTC	Andrew_UK, darkenblade986, Kakashi, NoMercy	80	4	20
+27607	3	0	4 Suits	2019-04-03 — 19:02:25 UTC	darkenblade986, Kakashi, NoMercy	60	4	20
 27191	4	25	Dual-Color (5 Suits)	2019-04-02 — 01:37:57 UTC	color vs rank, florrat2, NoMercy, sjdrodge	14	5	25
-27190	3	25	Clue Starved (5 Suits)	2019-04-02 — 00:59:44 UTC	efaust, NoMercy, sjdrodge	13	5	25
-26414	4	21	No Variant	2019-03-28 — 23:50:21 UTC	NoMercy, scharkbite, sjdrodge, snkylittleazn	243	5	25
+27190	3	25	Clue Starved (5 Suits)	2019-04-02 — 00:59:44 UTC	efaust, NoMercy, sjdrodge	14	5	25
+26414	4	21	No Variant	2019-03-28 — 23:50:21 UTC	NoMercy, scharkbite, sjdrodge, snkylittleazn	245	5	25
 26412	3	0	Duck (6 Suits)	2019-03-28 — 23:14:23 UTC	NoMercy, scharkbite, sjdrodge	17	6	30
 26410	5	16	4 Suits	2019-03-28 — 22:54:57 UTC	Andrew_UK, NoMercy, postmans, scharkbite, sjdrodge	3	4	20
 26409	5	0	Up or Down (5 Suits)	2019-03-28 — 22:37:14 UTC	Andrew_UK, NoMercy, postmans, scharkbite, sjdrodge	6	5	25
 26407	5	0	Up or Down (5 Suits)	2019-03-28 — 22:16:23 UTC	Andrew_UK, NoMercy, postmans, sjdrodge, Yeesh	13	5	25
 26405	5	0	Up or Down (5 Suits)	2019-03-28 — 22:00:09 UTC	Andrew_UK, NoMercy, postmans, sjdrodge, Yeesh	23	5	25
 26403	4	15	3 Suits	2019-03-28 — 21:39:44 UTC	Andrew_UK, NoMercy, postmans, Yeesh	4	3	15
-26402	4	0	3 Suits	2019-03-28 — 21:25:06 UTC	NoMercy, postmans, sjdrodge, Yeesh	4	3	15
-26399	4	14	3 Suits	2019-03-28 — 20:59:53 UTC	NoMercy, postmans, sjdrodge, Yeesh	4	3	15
+26402	4	0	3 Suits	2019-03-28 — 21:25:06 UTC	NoMercy, postmans, sjdrodge, Yeesh	5	3	15
+26399	4	14	3 Suits	2019-03-28 — 20:59:53 UTC	NoMercy, postmans, sjdrodge, Yeesh	5	3	15
 26396	4	0	3 Suits	2019-03-28 — 20:46:15 UTC	NoMercy, postmans, sjdrodge, Yeesh	5	3	15
 26311	4	28	Duck (6 Suits)	2019-03-28 — 02:24:40 UTC	florrat2, Libster, NoMercy, Zamiel	1	6	30
 26306	6	0	Rainbow (5 Suits)	2019-03-28 — 01:44:41 UTC	florrat2, Libster, NoMercy, Razgovor, Yeesh, Zamiel	9	5	25
@@ -2863,16 +2870,16 @@
 26301	5	0	Color Blind (4 Suits)	2019-03-28 — 00:49:38 UTC	Libster, NoMercy, Razgovor, Yeesh, Zamiel	1	4	20
 26176	5	18	4 Suits	2019-03-27 — 08:46:26 UTC	Asddsa76, Dr_Kakashi, efaust, NoMercy, sjdrodge	16	4	20
 26172	4	19	4 Suits	2019-03-27 — 08:08:26 UTC	Dr_Kakashi, efaust, NoMercy, sjdrodge	2	4	20
-26170	4	23	No Variant	2019-03-27 — 07:26:23 UTC	Dr_Kakashi, efaust, NoMercy, sjdrodge	899	5	25
+26170	4	23	No Variant	2019-03-27 — 07:26:23 UTC	Dr_Kakashi, efaust, NoMercy, sjdrodge	908	5	25
 26168	5	24	No Variant	2019-03-27 — 06:49:07 UTC	Dr_Kakashi, NoMercy, Razgovor, scharkbite, sjdrodge	49	5	25
 26139	3	0	Duck (5 Suits)	2019-03-27 — 04:55:06 UTC	NoMercy, Razgovor, scharkbite	35	5	25
 26101	3	0	Duck (5 Suits)	2019-03-27 — 04:31:02 UTC	NoMercy, Razgovor, scharkbite	52	5	25
 26035	6	0	Rainbow (5 Suits)	2019-03-27 — 03:33:47 UTC	florrat2, Libster, NoMercy, Razgovor, scharkbite, Zamiel	14	5	25
-26026	4	0	Duck (6 Suits)	2019-03-27 — 02:02:31 UTC	Cory, florrat2, NoMercy, Zamiel	7	6	30
-26022	4	0	Duck (6 Suits)	2019-03-27 — 01:33:11 UTC	Cory, florrat2, NoMercy, Zamiel	9	6	30
+26026	4	0	Duck (6 Suits)	2019-03-27 — 02:02:31 UTC	Cory, florrat2, NoMercy, Zamiel	8	6	30
+26022	4	0	Duck (6 Suits)	2019-03-27 — 01:33:11 UTC	Cory, florrat2, NoMercy, Zamiel	10	6	30
 26002	4	30	Rainbow (6 Suits)	2019-03-26 — 21:51:51 UTC	Andrew_UK, darkenblade986, NoMercy, scharkbite	44	6	30
-25956	5	25	No Variant	2019-03-26 — 09:02:09 UTC	Asddsa76, Dr_Kakashi, IAMJEFF, NoMercy, sjdrodge	383	5	25
-25954	5	23	No Variant	2019-03-26 — 08:10:14 UTC	Asddsa76, Dr_Kakashi, IAMJEFF, NoMercy, sjdrodge	1510	5	25
+25956	5	25	No Variant	2019-03-26 — 09:02:09 UTC	Asddsa76, Dr_Kakashi, IAMJEFF, NoMercy, sjdrodge	384	5	25
+25954	5	23	No Variant	2019-03-26 — 08:10:14 UTC	Asddsa76, Dr_Kakashi, IAMJEFF, NoMercy, sjdrodge	1518	5	25
 25940	4	25	No Variant	2019-03-26 — 05:01:50 UTC	florrat2, Libster, NoMercy, Razgovor	5	5	25
 25939	4	0	No Variant	2019-03-26 — 05:00:20 UTC	florrat2, Libster, NoMercy, Razgovor	5	5	25
 25938	4	0	No Variant	2019-03-26 — 04:59:58 UTC	florrat2, Libster, NoMercy, Razgovor	5	5	25
@@ -2899,29 +2906,29 @@
 25915	4	0	No Variant	2019-03-26 — 04:41:18 UTC	florrat2, Libster, NoMercy, Razgovor	13	5	25
 25914	4	0	No Variant	2019-03-26 — 04:40:38 UTC	florrat2, Libster, NoMercy, Razgovor	13	5	25
 25913	4	0	No Variant	2019-03-26 — 04:39:48 UTC	florrat2, Libster, NoMercy, Razgovor	14	5	25
-25912	4	0	No Variant	2019-03-26 — 04:38:28 UTC	florrat2, Libster, NoMercy, Razgovor	14	5	25
-25911	4	0	No Variant	2019-03-26 — 04:37:13 UTC	florrat2, Libster, NoMercy, Razgovor	13	5	25
-25910	4	0	No Variant	2019-03-26 — 04:36:44 UTC	florrat2, Libster, NoMercy, Razgovor	13	5	25
-25908	4	0	No Variant	2019-03-26 — 04:35:33 UTC	florrat2, Libster, NoMercy, Razgovor	14	5	25
-25907	4	0	No Variant	2019-03-26 — 04:35:08 UTC	florrat2, Libster, NoMercy, Razgovor	16	5	25
-25906	4	0	No Variant	2019-03-26 — 04:34:39 UTC	florrat2, Libster, NoMercy, Razgovor	15	5	25
-25905	4	0	No Variant	2019-03-26 — 04:34:26 UTC	florrat2, Libster, NoMercy, Razgovor	17	5	25
-25904	4	0	No Variant	2019-03-26 — 04:34:06 UTC	florrat2, Libster, NoMercy, Razgovor	17	5	25
-25903	4	0	No Variant	2019-03-26 — 04:33:42 UTC	florrat2, Libster, NoMercy, Razgovor	17	5	25
-25902	4	0	No Variant	2019-03-26 — 04:32:27 UTC	florrat2, Libster, NoMercy, Razgovor	17	5	25
-25901	4	0	No Variant	2019-03-26 — 04:31:52 UTC	florrat2, Libster, NoMercy, Razgovor	17	5	25
-25900	4	25	No Variant	2019-03-26 — 04:30:05 UTC	florrat2, Libster, NoMercy, Razgovor	17	5	25
-25899	4	0	No Variant	2019-03-26 — 04:28:28 UTC	florrat2, Libster, NoMercy, Razgovor	16	5	25
-25898	4	0	No Variant	2019-03-26 — 04:27:46 UTC	florrat2, Libster, NoMercy, Razgovor	17	5	25
-25897	4	0	No Variant	2019-03-26 — 04:26:59 UTC	florrat2, Libster, NoMercy, Razgovor	16	5	25
-25895	4	0	No Variant	2019-03-26 — 04:26:16 UTC	florrat2, Libster, NoMercy, Razgovor	16	5	25
-25894	4	0	No Variant	2019-03-26 — 04:25:18 UTC	florrat2, Libster, NoMercy, Razgovor	16	5	25
-25893	4	0	No Variant	2019-03-26 — 04:24:33 UTC	florrat2, Libster, NoMercy, Razgovor	16	5	25
-25892	4	0	No Variant	2019-03-26 — 04:24:04 UTC	florrat2, Libster, NoMercy, Razgovor	17	5	25
-25891	4	0	No Variant	2019-03-26 — 04:23:46 UTC	florrat2, Libster, NoMercy, Razgovor	20	5	25
-25890	4	0	No Variant	2019-03-26 — 04:22:44 UTC	florrat2, Libster, NoMercy, Razgovor	19	5	25
-25889	4	25	No Variant	2019-03-26 — 04:21:37 UTC	florrat2, Libster, NoMercy, Razgovor	21	5	25
-25888	4	0	No Variant	2019-03-26 — 04:19:50 UTC	florrat2, Libster, NoMercy, Razgovor	19	5	25
+25912	4	0	No Variant	2019-03-26 — 04:38:28 UTC	florrat2, Libster, NoMercy, Razgovor	15	5	25
+25911	4	0	No Variant	2019-03-26 — 04:37:13 UTC	florrat2, Libster, NoMercy, Razgovor	14	5	25
+25910	4	0	No Variant	2019-03-26 — 04:36:44 UTC	florrat2, Libster, NoMercy, Razgovor	14	5	25
+25908	4	0	No Variant	2019-03-26 — 04:35:33 UTC	florrat2, Libster, NoMercy, Razgovor	16	5	25
+25907	4	0	No Variant	2019-03-26 — 04:35:08 UTC	florrat2, Libster, NoMercy, Razgovor	17	5	25
+25906	4	0	No Variant	2019-03-26 — 04:34:39 UTC	florrat2, Libster, NoMercy, Razgovor	16	5	25
+25905	4	0	No Variant	2019-03-26 — 04:34:26 UTC	florrat2, Libster, NoMercy, Razgovor	18	5	25
+25904	4	0	No Variant	2019-03-26 — 04:34:06 UTC	florrat2, Libster, NoMercy, Razgovor	18	5	25
+25903	4	0	No Variant	2019-03-26 — 04:33:42 UTC	florrat2, Libster, NoMercy, Razgovor	18	5	25
+25902	4	0	No Variant	2019-03-26 — 04:32:27 UTC	florrat2, Libster, NoMercy, Razgovor	18	5	25
+25901	4	0	No Variant	2019-03-26 — 04:31:52 UTC	florrat2, Libster, NoMercy, Razgovor	18	5	25
+25900	4	25	No Variant	2019-03-26 — 04:30:05 UTC	florrat2, Libster, NoMercy, Razgovor	18	5	25
+25899	4	0	No Variant	2019-03-26 — 04:28:28 UTC	florrat2, Libster, NoMercy, Razgovor	17	5	25
+25898	4	0	No Variant	2019-03-26 — 04:27:46 UTC	florrat2, Libster, NoMercy, Razgovor	18	5	25
+25897	4	0	No Variant	2019-03-26 — 04:26:59 UTC	florrat2, Libster, NoMercy, Razgovor	17	5	25
+25895	4	0	No Variant	2019-03-26 — 04:26:16 UTC	florrat2, Libster, NoMercy, Razgovor	17	5	25
+25894	4	0	No Variant	2019-03-26 — 04:25:18 UTC	florrat2, Libster, NoMercy, Razgovor	17	5	25
+25893	4	0	No Variant	2019-03-26 — 04:24:33 UTC	florrat2, Libster, NoMercy, Razgovor	17	5	25
+25892	4	0	No Variant	2019-03-26 — 04:24:04 UTC	florrat2, Libster, NoMercy, Razgovor	18	5	25
+25891	4	0	No Variant	2019-03-26 — 04:23:46 UTC	florrat2, Libster, NoMercy, Razgovor	21	5	25
+25890	4	0	No Variant	2019-03-26 — 04:22:44 UTC	florrat2, Libster, NoMercy, Razgovor	20	5	25
+25889	4	25	No Variant	2019-03-26 — 04:21:37 UTC	florrat2, Libster, NoMercy, Razgovor	22	5	25
+25888	4	0	No Variant	2019-03-26 — 04:19:50 UTC	florrat2, Libster, NoMercy, Razgovor	21	5	25
 25884	5	0	6 Suits	2019-03-26 — 04:18:05 UTC	florrat2, Libster, NoMercy, Razgovor, Zamiel	1	6	30
 25883	5	0	6 Suits	2019-03-26 — 04:17:15 UTC	florrat2, Libster, NoMercy, Razgovor, Zamiel	1	6	30
 25882	5	0	6 Suits	2019-03-26 — 04:16:45 UTC	florrat2, Libster, NoMercy, Razgovor, Zamiel	1	6	30
@@ -2981,9 +2988,9 @@
 25820	4	0	Dark Rainbow (6 Suits)	2019-03-26 — 03:07:55 UTC	florrat2, Libster, NoMercy, Zamiel	1	6	30
 25819	4	0	Dark Rainbow (6 Suits)	2019-03-26 — 03:07:21 UTC	florrat2, Libster, NoMercy, Zamiel	1	6	30
 25818	4	0	Dark Rainbow (6 Suits)	2019-03-26 — 03:05:51 UTC	florrat2, Libster, NoMercy, Zamiel	1	6	30
-25817	4	0	Dark Rainbow (6 Suits)	2019-03-26 — 03:04:50 UTC	florrat2, Libster, NoMercy, Zamiel	1	6	30
-25816	4	0	Dark Rainbow (6 Suits)	2019-03-26 — 03:03:37 UTC	florrat2, Libster, NoMercy, Zamiel	1	6	30
-25814	4	0	Dark Rainbow (6 Suits)	2019-03-26 — 03:02:26 UTC	florrat2, Libster, NoMercy, Zamiel	1	6	30
+25817	4	0	Dark Rainbow (6 Suits)	2019-03-26 — 03:04:50 UTC	florrat2, Libster, NoMercy, Zamiel	2	6	30
+25816	4	0	Dark Rainbow (6 Suits)	2019-03-26 — 03:03:37 UTC	florrat2, Libster, NoMercy, Zamiel	2	6	30
+25814	4	0	Dark Rainbow (6 Suits)	2019-03-26 — 03:02:26 UTC	florrat2, Libster, NoMercy, Zamiel	2	6	30
 25813	5	0	6 Suits	2019-03-26 — 02:53:00 UTC	florrat2, Libster, NoMercy, Razgovor, Zamiel	1	6	30
 25811	5	0	6 Suits	2019-03-26 — 02:51:27 UTC	florrat2, Libster, NoMercy, Razgovor, Zamiel	1	6	30
 25810	5	0	6 Suits	2019-03-26 — 02:50:59 UTC	florrat2, Libster, NoMercy, Razgovor, Zamiel	1	6	30
@@ -3001,9 +3008,9 @@
 25798	5	0	6 Suits	2019-03-26 — 02:37:18 UTC	florrat2, Libster, NoMercy, Razgovor, Zamiel	1	6	30
 25797	5	0	6 Suits	2019-03-26 — 02:36:24 UTC	florrat2, Libster, NoMercy, Razgovor, Zamiel	1	6	30
 25796	5	0	6 Suits	2019-03-26 — 02:33:49 UTC	florrat2, Libster, NoMercy, Razgovor, Zamiel	1	6	30
-25795	5	0	6 Suits	2019-03-26 — 02:32:49 UTC	florrat2, Libster, NoMercy, Razgovor, Zamiel	1	6	30
-25793	5	0	6 Suits	2019-03-26 — 02:31:54 UTC	florrat2, Libster, NoMercy, Razgovor, Zamiel	1	6	30
-25792	5	0	6 Suits	2019-03-26 — 02:29:06 UTC	florrat2, Libster, NoMercy, Razgovor, Zamiel	1	6	30
+25795	5	0	6 Suits	2019-03-26 — 02:32:49 UTC	florrat2, Libster, NoMercy, Razgovor, Zamiel	2	6	30
+25793	5	0	6 Suits	2019-03-26 — 02:31:54 UTC	florrat2, Libster, NoMercy, Razgovor, Zamiel	2	6	30
+25792	5	0	6 Suits	2019-03-26 — 02:29:06 UTC	florrat2, Libster, NoMercy, Razgovor, Zamiel	2	6	30
 25791	5	0	6 Suits	2019-03-26 — 02:28:13 UTC	florrat2, Libster, NoMercy, Razgovor, Zamiel	2	6	30
 25790	5	0	6 Suits	2019-03-26 — 02:27:23 UTC	florrat2, Libster, NoMercy, Razgovor, Zamiel	2	6	30
 25789	5	0	6 Suits	2019-03-26 — 02:26:39 UTC	florrat2, Libster, NoMercy, Razgovor, Zamiel	2	6	30
@@ -3018,11 +3025,11 @@
 25779	5	0	No Variant	2019-03-26 — 02:12:03 UTC	florrat2, Libster, NoMercy, Razgovor, Zamiel	2	5	25
 25774	4	0	Up or Down (5 Suits)	2019-03-26 — 01:58:42 UTC	florrat2, Libster, NoMercy, Razgovor	13	5	25
 25771	5	28	Up or Down (6 Suits)	2019-03-26 — 01:25:22 UTC	florrat2, Libster, NoMercy, Razgovor, sjdrodge	14	6	30
-25769	3	0	Up or Down & Rainbow (6 Suits)	2019-03-26 — 00:46:04 UTC	Libster, NoMercy, sjdrodge	20	6	30
+25769	3	0	Up or Down & Rainbow (6 Suits)	2019-03-26 — 00:46:04 UTC	Libster, NoMercy, sjdrodge	21	6	30
 25766	3	25	Up or Down & Rainbow (5 Suits)	2019-03-26 — 00:16:03 UTC	Libster, NoMercy, sjdrodge	6	5	25
-25765	5	24	No Variant	2019-03-25 — 23:27:18 UTC	Andrew_UK, darkenblade986, NoMercy, scharkbite, sjdrodge	120	5	25
-25763	4	0	Black (5 Suits)	2019-03-25 — 22:48:14 UTC	Andrew_UK, NoMercy, scharkbite, sjdrodge	21	5	25
-25761	4	30	Up or Down & White (6 Suits)	2019-03-25 — 22:01:42 UTC	Andrew_UK, NoMercy, scharkbite, sjdrodge	10	6	30
+25765	5	24	No Variant	2019-03-25 — 23:27:18 UTC	Andrew_UK, darkenblade986, NoMercy, scharkbite, sjdrodge	122	5	25
+25763	4	0	Black (5 Suits)	2019-03-25 — 22:48:14 UTC	Andrew_UK, NoMercy, scharkbite, sjdrodge	22	5	25
+25761	4	30	Up or Down & White (6 Suits)	2019-03-25 — 22:01:42 UTC	Andrew_UK, NoMercy, scharkbite, sjdrodge	11	6	30
 25337	2	0	Up or Down & Rainbow (6 Suits)	2019-03-24 — 00:25:20 UTC	NoMercy, Zamiel	5	6	30
 25336	2	0	Up or Down & Rainbow (6 Suits)	2019-03-24 — 00:16:02 UTC	NoMercy, Zamiel	5	6	30
 25335	2	28	Up or Down & Rainbow (6 Suits)	2019-03-24 — 00:11:39 UTC	NoMercy, Zamiel	5	6	30
@@ -3047,10 +3054,10 @@
 25301	3	0	Pink-Fives (3 Suits)	2019-03-23 — 21:44:27 UTC	efaust, NoMercy, Zamiel	7	3	15
 25298	5	18	Rainbow (4 Suits)	2019-03-23 — 21:18:02 UTC	Andrew_UK, Cory, efaust, NoMercy, sjdrodge	11	4	20
 24956	5	0	Rainbow (5 Suits)	2019-03-23 — 02:41:46 UTC	Cory, NoMercy, wjomlex, Yeesh, Zamiel	4	5	25
-24951	4	25	No Variant	2019-03-23 — 01:11:00 UTC	darkenblade986, Libster, NoMercy, Razgovor	23	5	25
-24950	3	24	No Variant	2019-03-23 — 00:39:42 UTC	darkenblade986, NoMercy, Razgovor	137	5	25
-24949	2	0	Rainbow (6 Suits)	2019-03-23 — 00:21:33 UTC	NoMercy, Razgovor	254	6	30
-24948	3	0	No Variant	2019-03-23 — 00:12:09 UTC	darkenblade986, NoMercy, Razgovor	134	5	25
+24951	4	25	No Variant	2019-03-23 — 01:11:00 UTC	darkenblade986, Libster, NoMercy, Razgovor	25	5	25
+24950	3	24	No Variant	2019-03-23 — 00:39:42 UTC	darkenblade986, NoMercy, Razgovor	142	5	25
+24949	2	0	Rainbow (6 Suits)	2019-03-23 — 00:21:33 UTC	NoMercy, Razgovor	255	6	30
+24948	3	0	No Variant	2019-03-23 — 00:12:09 UTC	darkenblade986, NoMercy, Razgovor	140	5	25
 24947	5	0	Color Blind (6 Suits)	2019-03-22 — 21:03:03 UTC	Andrew_UK, NoMercy, Razgovor, wortel, Zamiel	1	6	30
 24946	5	25	Color Blind (6 Suits)	2019-03-22 — 20:19:03 UTC	Andrew_UK, NoMercy, sjdrodge, wortel, Zamiel	1	6	30
 24942	5	0	Color Blind (6 Suits)	2019-03-22 — 19:43:57 UTC	Andrew_UK, NoMercy, sjdrodge, wortel, Zamiel	1	6	30
@@ -3062,33 +3069,33 @@
 24630	4	0	Dual-Color (3 Suits)	2019-03-21 — 23:44:48 UTC	NoMercy, Razgovor, scharkbite, Zamiel	1	3	15
 24629	4	0	Dual-Color (3 Suits)	2019-03-21 — 23:33:37 UTC	NoMercy, Razgovor, scharkbite, Zamiel	2	3	15
 24626	3	29	Dual-Color (6 Suits)	2019-03-21 — 23:06:39 UTC	NoMercy, scharkbite, Zamiel	3	6	30
-24622	5	21	No Variant	2019-03-21 — 22:26:16 UTC	Andrew_UK, darkenblade986, NoMercy, Razgovor, scharkbite	51	5	25
+24622	5	21	No Variant	2019-03-21 — 22:26:16 UTC	Andrew_UK, darkenblade986, NoMercy, Razgovor, scharkbite	52	5	25
 24619	4	22	No Variant	2019-03-21 — 21:45:03 UTC	Andrew_UK, darkenblade986, NoMercy, Razgovor	129	5	25
-24403	3	26	Black (6 Suits)	2019-03-19 — 07:48:09 UTC	efaust, micerang, NoMercy	325	6	30
-24402	3	0	Black (6 Suits)	2019-03-19 — 07:13:04 UTC	efaust, micerang, NoMercy	399	6	30
+24403	3	26	Black (6 Suits)	2019-03-19 — 07:48:09 UTC	efaust, micerang, NoMercy	332	6	30
+24402	3	0	Black (6 Suits)	2019-03-19 — 07:13:04 UTC	efaust, micerang, NoMercy	407	6	30
 24401	4	20	4 Suits	2019-03-19 — 06:42:18 UTC	efaust, micerang, NoMercy, sjdrodge	4	4	20
 24328	4	13	3 Suits	2019-03-18 — 21:03:38 UTC	Andrew_UK, NoMercy, sjdrodge, wortel	16	3	15
 24327	4	13	3 Suits	2019-03-18 — 20:44:06 UTC	Andrew_UK, NoMercy, sjdrodge, wortel	20	3	15
 23426	3	0	White (6 Suits)	2019-03-15 — 08:31:17 UTC	efaust, NoMercy, sjdrodge	27	6	30
 23425	3	0	White (6 Suits)	2019-03-15 — 08:13:02 UTC	efaust, NoMercy, sjdrodge	37	6	30
 23424	3	0	White (6 Suits)	2019-03-15 — 07:51:15 UTC	efaust, NoMercy, sjdrodge	70	6	30
-23423	4	0	White (6 Suits)	2019-03-15 — 07:32:23 UTC	efaust, NoMercy, sjdrodge, wjomlex	20	6	30
+23423	4	0	White (6 Suits)	2019-03-15 — 07:32:23 UTC	efaust, NoMercy, sjdrodge, wjomlex	22	6	30
 23422	4	0	White (6 Suits)	2019-03-15 — 07:19:26 UTC	efaust, NoMercy, sjdrodge, wjomlex	27	6	30
 23421	4	0	White (6 Suits)	2019-03-15 — 07:11:31 UTC	efaust, NoMercy, sjdrodge, wjomlex	29	6	30
 23420	4	0	White (6 Suits)	2019-03-15 — 06:58:24 UTC	efaust, NoMercy, sjdrodge, Zamiel	1	6	30
 23230	4	30	Dark Rainbow (6 Suits)	2019-03-14 — 21:34:55 UTC	Andrew_UK, NoMercy, Razgovor, scharkbite	13	6	30
 23228	4	29	Dark Rainbow (6 Suits)	2019-03-14 — 21:06:26 UTC	Andrew_UK, NoMercy, Razgovor, scharkbite	13	6	30
 23227	4	29	Dark Rainbow (6 Suits)	2019-03-14 — 20:36:56 UTC	Andrew_UK, NoMercy, Razgovor, scharkbite	14	6	30
-22258	3	24	Dual-Color (5 Suits)	2019-03-10 — 07:44:16 UTC	Asddsa76, NoMercy, wortel	69	5	25
-22253	3	26	Rainbow (6 Suits)	2019-03-10 — 05:40:40 UTC	DrSeil, NoMercy, oblique	25	6	30
+22258	3	24	Dual-Color (5 Suits)	2019-03-10 — 07:44:16 UTC	Asddsa76, NoMercy, wortel	70	5	25
+22253	3	26	Rainbow (6 Suits)	2019-03-10 — 05:40:40 UTC	DrSeil, NoMercy, oblique	26	6	30
 22246	3	29	Rainbow (6 Suits)	2019-03-10 — 04:56:53 UTC	DrSeil, NoMercy, oblique	29	6	30
-22046	3	0	6 Suits	2019-03-09 — 22:14:25 UTC	Anaximander, NoMercy, oblique	305	6	30
-22017	3	0	6 Suits	2019-03-09 — 21:56:03 UTC	Anaximander, NoMercy, oblique	365	6	30
+22046	3	0	6 Suits	2019-03-09 — 22:14:25 UTC	Anaximander, NoMercy, oblique	311	6	30
+22017	3	0	6 Suits	2019-03-09 — 21:56:03 UTC	Anaximander, NoMercy, oblique	371	6	30
 21998	4	30	Rainbow (6 Suits)	2019-03-09 — 21:14:38 UTC	Alkaven5, DrSeil, NoMercy, oblique	47	6	30
 21994	4	30	Rainbow (6 Suits)	2019-03-09 — 20:27:19 UTC	Alkaven5, DrSeil, NoMercy, oblique	53	6	30
 21990	5	0	Up or Down (6 Suits)	2019-03-09 — 19:43:40 UTC	florrat2, Libster, NoMercy, Razgovor, Zamiel	8	6	30
 21988	6	0	No Variant	2019-03-09 — 19:12:40 UTC	florrat2, Libster, NoMercy, RaKXeR, Razgovor, Zamiel	60	5	25
-21986	6	24	No Variant	2019-03-09 — 18:51:16 UTC	florrat2, Libster, NoMercy, RaKXeR, Razgovor, Zamiel	282	5	25
+21986	6	24	No Variant	2019-03-09 — 18:51:16 UTC	florrat2, Libster, NoMercy, RaKXeR, Razgovor, Zamiel	284	5	25
 21985	5	23	Up or Down (5 Suits)	2019-03-09 — 18:15:06 UTC	florrat2, Libster, NoMercy, RaKXeR, Razgovor	5	5	25
 21795	4	30	Black (6 Suits)	2019-03-09 — 03:09:56 UTC	florrat2, Libster, NoMercy, Zamiel	2	6	30
 21794	4	0	Black (6 Suits)	2019-03-09 — 03:06:49 UTC	florrat2, Libster, NoMercy, Zamiel	2	6	30
@@ -3097,7 +3104,7 @@
 21791	4	0	Black (6 Suits)	2019-03-09 — 03:04:07 UTC	florrat2, Libster, NoMercy, Zamiel	2	6	30
 21790	4	0	Black (6 Suits)	2019-03-09 — 03:01:37 UTC	florrat2, Libster, NoMercy, Zamiel	2	6	30
 21789	4	0	Black (6 Suits)	2019-03-09 — 02:58:56 UTC	florrat2, Libster, NoMercy, Zamiel	2	6	30
-21785	4	30	Dark Rainbow (6 Suits)	2019-03-09 — 02:52:47 UTC	florrat2, Libster, NoMercy, Zamiel	2	6	30
+21785	4	30	Dark Rainbow (6 Suits)	2019-03-09 — 02:52:47 UTC	florrat2, Libster, NoMercy, Zamiel	3	6	30
 21784	4	0	Dark Rainbow (6 Suits)	2019-03-09 — 02:48:59 UTC	florrat2, Libster, NoMercy, Zamiel	3	6	30
 21782	4	0	Dark Rainbow (6 Suits)	2019-03-09 — 02:46:13 UTC	florrat2, Libster, NoMercy, Zamiel	3	6	30
 21781	4	0	Dark Rainbow (6 Suits)	2019-03-09 — 02:43:47 UTC	florrat2, Libster, NoMercy, Zamiel	3	6	30
@@ -3114,20 +3121,20 @@
 21767	4	0	Dark Rainbow (6 Suits)	2019-03-09 — 02:23:16 UTC	florrat2, Libster, NoMercy, Zamiel	4	6	30
 21766	6	0	Rainbow (6 Suits)	2019-03-09 — 02:04:27 UTC	Cory, Hunter, Libster, NoMercy, sjdrodge, Zamiel	14	6	30
 21753	4	29	Up or Down (6 Suits)	2019-03-08 — 23:18:33 UTC	Andrew_UK, Cory, NoMercy, RaKXeR	12	6	30
-21750	4	0	Up or Down (6 Suits)	2019-03-08 — 22:48:41 UTC	Andrew_UK, Cory, NoMercy, RaKXeR	12	6	30
+21750	4	0	Up or Down (6 Suits)	2019-03-08 — 22:48:41 UTC	Andrew_UK, Cory, NoMercy, RaKXeR	13	6	30
 21748	4	0	Up or Down (6 Suits)	2019-03-08 — 22:36:46 UTC	Andrew_UK, Cory, NoMercy, RaKXeR	15	6	30
-21747	5	25	Rainbow (5 Suits)	2019-03-08 — 21:48:20 UTC	Andrew_UK, NoMercy, RaKXeR, sjdrodge, wortel	54	5	25
+21747	5	25	Rainbow (5 Suits)	2019-03-08 — 21:48:20 UTC	Andrew_UK, NoMercy, RaKXeR, sjdrodge, wortel	55	5	25
 21745	5	30	6 Suits	2019-03-08 — 20:48:12 UTC	Andrew_UK, NoMercy, scharkbite, sjdrodge, wortel	45	6	30
-21743	5	0	6 Suits	2019-03-08 — 20:07:14 UTC	Andrew_UK, NoMercy, scharkbite, sjdrodge, wortel	132	6	30
+21743	5	0	6 Suits	2019-03-08 — 20:07:14 UTC	Andrew_UK, NoMercy, scharkbite, sjdrodge, wortel	133	6	30
 21604	5	29	Very Ambiguous (6 Suits)	2019-03-07 — 02:06:57 UTC	Asddsa76, Cory, NoMercy, sjdrodge, Zamiel	1	6	30
 21587	5	0	3 Suits	2019-03-06 — 21:20:16 UTC	Andrew_UK, NoMercy, Razgovor, scharkbite, sjdrodge	27	3	15
 21558	3	0	Rainbow (6 Suits)	2019-03-06 — 05:54:04 UTC	DrSeil, NoMercy, usuallykayla	28	6	30
 21554	3	0	Rainbow (6 Suits)	2019-03-06 — 05:19:23 UTC	DrSeil, NoMercy, usuallykayla	29	6	30
-21553	3	28	Rainbow (6 Suits)	2019-03-06 — 05:04:43 UTC	DrSeil, NoMercy, usuallykayla	30	6	30
-21551	5	24	No Variant	2019-03-06 — 04:21:05 UTC	Hunter, IAMJEFF, NoMercy, Razgovor, scharkbite	195	5	25
-21547	4	0	No Variant	2019-03-06 — 03:53:27 UTC	Hunter, IAMJEFF, NoMercy, Razgovor	326	5	25
+21553	3	28	Rainbow (6 Suits)	2019-03-06 — 05:04:43 UTC	DrSeil, NoMercy, usuallykayla	31	6	30
+21551	5	24	No Variant	2019-03-06 — 04:21:05 UTC	Hunter, IAMJEFF, NoMercy, Razgovor, scharkbite	198	5	25
+21547	4	0	No Variant	2019-03-06 — 03:53:27 UTC	Hunter, IAMJEFF, NoMercy, Razgovor	330	5	25
 21515	6	0	6 Suits	2019-03-05 — 21:20:32 UTC	Asddsa76, NoMercy, RaKXeR, Razgovor, scharkbite, sjdrodge	9	6	30
-21512	6	0	No Variant	2019-03-05 — 20:54:45 UTC	Asddsa76, NoMercy, RaKXeR, Razgovor, scharkbite, sjdrodge	179	5	25
+21512	6	0	No Variant	2019-03-05 — 20:54:45 UTC	Asddsa76, NoMercy, RaKXeR, Razgovor, scharkbite, sjdrodge	181	5	25
 21456	2	30	Black & Dark Rainbow (6 Suits)	2019-03-04 — 23:09:51 UTC	NoMercy, Zamiel	1	6	30
 21455	2	0	Black & Dark Rainbow (6 Suits)	2019-03-04 — 23:01:46 UTC	NoMercy, Zamiel	1	6	30
 21454	2	0	Black & Dark Rainbow (6 Suits)	2019-03-04 — 22:59:49 UTC	NoMercy, Zamiel	1	6	30
@@ -3172,56 +3179,56 @@
 21400	2	0	Black & Dark Rainbow (6 Suits)	2019-03-04 — 20:55:40 UTC	NoMercy, Zamiel	1	6	30
 21399	2	0	Black & Dark Rainbow (6 Suits)	2019-03-04 — 20:53:40 UTC	NoMercy, Zamiel	1	6	30
 21398	2	0	Black & Dark Rainbow (6 Suits)	2019-03-04 — 20:50:48 UTC	NoMercy, Zamiel	1	6	30
-21273	3	0	Rainbow (6 Suits)	2019-03-03 — 07:39:27 UTC	NoMercy, oblique, usuallykayla	31	6	30
+21273	3	0	Rainbow (6 Suits)	2019-03-03 — 07:39:27 UTC	NoMercy, oblique, usuallykayla	33	6	30
 21270	3	0	Rainbow (6 Suits)	2019-03-03 — 07:22:45 UTC	NoMercy, oblique, usuallykayla	40	6	30
 21267	3	0	Rainbow (6 Suits)	2019-03-03 — 07:09:35 UTC	NoMercy, oblique, usuallykayla	42	6	30
-21264	5	0	Rainbow (6 Suits)	2019-03-03 — 06:38:38 UTC	Anaximander, DrSeil, NoMercy, oblique, usuallykayla	50	6	30
+21264	5	0	Rainbow (6 Suits)	2019-03-03 — 06:38:38 UTC	Anaximander, DrSeil, NoMercy, oblique, usuallykayla	51	6	30
 21088	5	0	Color Blind (6 Suits)	2019-03-02 — 04:05:44 UTC	florrat2, Libster, NoMercy, sjdrodge, Zamiel	1	6	30
 21086	5	0	Color Blind (6 Suits)	2019-03-02 — 03:36:15 UTC	florrat2, Libster, NoMercy, sjdrodge, Zamiel	1	6	30
 21085	5	0	Color Blind (6 Suits)	2019-03-02 — 03:21:14 UTC	florrat2, Libster, NoMercy, sjdrodge, Zamiel	1	6	30
 21083	4	30	Color Blind (6 Suits)	2019-03-02 — 03:05:52 UTC	Libster, NoMercy, sjdrodge, Zamiel	1	6	30
 21081	4	0	Color Blind (6 Suits)	2019-03-02 — 02:42:00 UTC	Libster, NoMercy, sjdrodge, Zamiel	1	6	30
 20972	4	22	Dark Rainbow (5 Suits)	2019-03-01 — 01:55:22 UTC	NoMercy, scharkbite, sjdrodge, Zamiel	11	5	25
-20971	4	0	Dark Rainbow (5 Suits)	2019-03-01 — 01:39:50 UTC	NoMercy, scharkbite, sjdrodge, Zamiel	14	5	25
+20971	4	0	Dark Rainbow (5 Suits)	2019-03-01 — 01:39:50 UTC	NoMercy, scharkbite, sjdrodge, Zamiel	15	5	25
 20947	4	20	White (4 Suits)	2019-02-28 — 22:35:56 UTC	Andrew_UK, Asddsa76, NoMercy, sjdrodge	6	4	20
 20946	4	0	White (4 Suits)	2019-02-28 — 22:21:43 UTC	Andrew_UK, Asddsa76, NoMercy, sjdrodge	7	4	20
 20945	4	0	White (4 Suits)	2019-02-28 — 22:00:49 UTC	Andrew_UK, Asddsa76, NoMercy, sjdrodge	13	4	20
-20943	4	20	4 Suits	2019-02-28 — 21:37:51 UTC	Andrew_UK, Asddsa76, NoMercy, sjdrodge	51	4	20
-20939	4	19	4 Suits	2019-02-28 — 21:13:58 UTC	Andrew_UK, Asddsa76, NoMercy, sjdrodge	101	4	20
-20886	5	24	No Variant	2019-02-28 — 00:47:53 UTC	Asddsa76, doome_burner, Libster, NoMercy, sjdrodge	2	5	25
+20943	4	20	4 Suits	2019-02-28 — 21:37:51 UTC	Andrew_UK, Asddsa76, NoMercy, sjdrodge	52	4	20
+20939	4	19	4 Suits	2019-02-28 — 21:13:58 UTC	Andrew_UK, Asddsa76, NoMercy, sjdrodge	104	4	20
+20886	5	24	No Variant	2019-02-28 — 00:47:53 UTC	Asddsa76, doome_burner, Libster, NoMercy, sjdrodge	3	5	25
 20885	4	15	Rainbow (3 Suits)	2019-02-28 — 00:21:12 UTC	Asddsa76, doome_burner, Libster, NoMercy	2	3	15
-20884	4	0	Rainbow (3 Suits)	2019-02-28 — 00:08:36 UTC	Asddsa76, doome_burner, Libster, NoMercy	10	3	15
+20884	4	0	Rainbow (3 Suits)	2019-02-28 — 00:08:36 UTC	Asddsa76, doome_burner, Libster, NoMercy	11	3	15
 20883	6	26	Black (6 Suits)	2019-02-27 — 23:40:37 UTC	Andrew_UK, Asddsa76, doome_burner, Libster, NoMercy, sjdrodge	38	6	30
 20876	5	17	4 Suits	2019-02-27 — 22:08:06 UTC	Asddsa76, Hyakinthus, NoMercy, Razgovor, sjdrodge	47	4	20
 20810	3	25	Dark Rainbow (5 Suits)	2019-02-27 — 02:47:18 UTC	Libster, NoMercy, Razgovor	2	5	25
-20808	4	30	6 Suits	2019-02-27 — 02:12:12 UTC	Fellatiowned, NoMercy, Razgovor, sjdrodge	354	6	30
+20808	4	30	6 Suits	2019-02-27 — 02:12:12 UTC	Fellatiowned, NoMercy, Razgovor, sjdrodge	359	6	30
 20771	3	0	Up or Down (6 Suits)	2019-02-26 — 04:22:08 UTC	Libster, NoMercy, Razgovor	17	6	30
-20762	3	0	Up or Down (6 Suits)	2019-02-26 — 04:00:34 UTC	Libster, NoMercy, Razgovor	20	6	30
-20750	5	30	Rainbow (6 Suits)	2019-02-26 — 02:25:10 UTC	Cory, Hunter, NoMercy, scharkbite, sjdrodge	12	6	30
+20762	3	0	Up or Down (6 Suits)	2019-02-26 — 04:00:34 UTC	Libster, NoMercy, Razgovor	22	6	30
+20750	5	30	Rainbow (6 Suits)	2019-02-26 — 02:25:10 UTC	Cory, Hunter, NoMercy, scharkbite, sjdrodge	13	6	30
 20745	4	28	Up or Down (6 Suits)	2019-02-26 — 01:49:07 UTC	Cory, NoMercy, scharkbite, sjdrodge	22	6	30
 20688	3	0	Rainbow (6 Suits)	2019-02-25 — 04:55:19 UTC	NoMercy, oblique, usuallykayla	40	6	30
 20683	3	0	Rainbow (6 Suits)	2019-02-25 — 04:33:45 UTC	NoMercy, oblique, usuallykayla	38	6	30
 20402	6	28	Rainbow (6 Suits)	2019-02-20 — 02:15:51 UTC	Cory, NoMercy, Razgovor, sjdrodge, Yeesh, Zamiel	23	6	30
 20401	6	0	Rainbow (6 Suits)	2019-02-20 — 01:32:19 UTC	Asddsa76, NoMercy, Razgovor, sjdrodge, Yeesh, Zamiel	33	6	30
-19494	5	0	No Variant	2019-02-12 — 01:44:46 UTC	doome_burner, florrat2, NoMercy, sjdrodge, Zamiel	2	5	25
-19445	5	26	Rainbow (6 Suits)	2019-02-11 — 02:57:38 UTC	Alkaven5, DrSeil, NoMercy, oblique, usuallykayla	67	6	30
+19494	5	0	No Variant	2019-02-12 — 01:44:46 UTC	doome_burner, florrat2, NoMercy, sjdrodge, Zamiel	3	5	25
+19445	5	26	Rainbow (6 Suits)	2019-02-11 — 02:57:38 UTC	Alkaven5, DrSeil, NoMercy, oblique, usuallykayla	68	6	30
 19432	4	30	Rainbow (6 Suits)	2019-02-11 — 02:07:37 UTC	Alkaven5, DrSeil, NoMercy, oblique	50	6	30
 19351	3	29	Black & Dark Rainbow (6 Suits)	2019-02-10 — 02:47:43 UTC	NoMercy, screamkthxbye, Zamiel	1	6	30
 19350	3	0	Black & Dark Rainbow (6 Suits)	2019-02-10 — 02:35:27 UTC	NoMercy, screamkthxbye, Zamiel	1	6	30
 19349	3	30	Dual-Color & Rainbow (6 Suits)	2019-02-10 — 02:27:50 UTC	NoMercy, screamkthxbye, Zamiel	1	6	30
-19305	2	0	No Variant	2019-02-09 — 19:42:21 UTC	Anaximander, NoMercy	5374	5	25
+19305	2	0	No Variant	2019-02-09 — 19:42:21 UTC	Anaximander, NoMercy	5421	5	25
 19271	4	15	White (3 Suits)	2019-02-09 — 01:48:56 UTC	Cory, Libster, NoMercy, Razgowut	2	3	15
 19269	4	0	White (3 Suits)	2019-02-09 — 01:38:24 UTC	Cory, Libster, NoMercy, Razgowut	2	3	15
 19268	4	13	White (3 Suits)	2019-02-09 — 01:27:17 UTC	Cory, Libster, NoMercy, Razgowut	2	3	15
-19267	4	25	White (5 Suits)	2019-02-09 — 01:11:22 UTC	Cory, Libster, NoMercy, Razgowut	13	5	25
-19264	4	0	White (5 Suits)	2019-02-09 — 00:46:56 UTC	Cory, Libster, NoMercy, Razgowut	18	5	25
-19259	5	23	No Variant	2019-02-08 — 23:45:31 UTC	Asddsa76, Cory, Maco_, NoMercy, Zamiel	5	5	25
+19267	4	25	White (5 Suits)	2019-02-09 — 01:11:22 UTC	Cory, Libster, NoMercy, Razgowut	14	5	25
+19264	4	0	White (5 Suits)	2019-02-09 — 00:46:56 UTC	Cory, Libster, NoMercy, Razgowut	19	5	25
+19259	5	23	No Variant	2019-02-08 — 23:45:31 UTC	Asddsa76, Cory, Maco_, NoMercy, Zamiel	6	5	25
 19258	5	25	No Variant	2019-02-08 — 23:17:57 UTC	Asddsa76, Maco_, NoMercy, Razgowut, Zamiel	6	5	25
 19257	3	27	Black & Dark Rainbow (6 Suits)	2019-02-08 — 22:54:44 UTC	NoMercy, Razgowut, Zamiel	1	6	30
 19256	3	0	Black & Dark Rainbow (6 Suits)	2019-02-08 — 22:34:39 UTC	NoMercy, Razgowut, Zamiel	1	6	30
-19204	3	20	4 Suits	2019-02-08 — 00:17:50 UTC	NoMercy, RaKXeR, scharkbite	28	4	20
-19202	3	28	Up or Down & White (6 Suits)	2019-02-07 — 23:50:58 UTC	NoMercy, RaKXeR, scharkbite	9	6	30
-19201	3	28	Up or Down & White (6 Suits)	2019-02-07 — 23:21:16 UTC	NoMercy, RaKXeR, scharkbite	16	6	30
+19204	3	20	4 Suits	2019-02-08 — 00:17:50 UTC	NoMercy, RaKXeR, scharkbite	29	4	20
+19202	3	28	Up or Down & White (6 Suits)	2019-02-07 — 23:50:58 UTC	NoMercy, RaKXeR, scharkbite	10	6	30
+19201	3	28	Up or Down & White (6 Suits)	2019-02-07 — 23:21:16 UTC	NoMercy, RaKXeR, scharkbite	18	6	30
 19130	4	0	Clue Starved (5 Suits)	2019-02-07 — 03:06:43 UTC	clue number, Libster, NoMercy, Zamiel	9	5	25
 19129	4	0	Clue Starved (5 Suits)	2019-02-07 — 02:51:46 UTC	clue number, Libster, NoMercy, Zamiel	11	5	25
 19128	5	25	Clue Starved (6 Suits)	2019-02-07 — 02:17:00 UTC	clue number, Hunter, Libster, NoMercy, Zamiel	5	6	30
@@ -3230,7 +3237,7 @@
 18823	5	30	Ambiguous (6 Suits)	2019-02-01 — 01:26:54 UTC	florrat2, grayfox, NoMercy, Razgovor, Zamiel	2	6	30
 18822	5	0	Ambiguous (6 Suits)	2019-02-01 — 00:58:09 UTC	florrat2, grayfox, NoMercy, Razgovor, Zamiel	2	6	30
 18624	4	14	3 Suits	2019-01-29 — 00:50:02 UTC	DrJones, Libster, NoMercy, Razgovor	49	3	15
-18619	4	20	4 Suits	2019-01-29 — 00:26:49 UTC	DrJones, Libster, NoMercy, Razgovor	38	4	20
+18619	4	20	4 Suits	2019-01-29 — 00:26:49 UTC	DrJones, Libster, NoMercy, Razgovor	39	4	20
 18418	4	24	No Variant	2019-01-26 — 01:26:34 UTC	DrJones, NoMercy, sankala, Zamiel	2	5	25
 18295	4	0	Black & Dark Rainbow (6 Suits)	2019-01-24 — 02:26:38 UTC	Cory, NoMercy, Razgovor, Zamiel	1	6	30
 18294	3	0	Black & Dark Rainbow (6 Suits)	2019-01-24 — 02:07:15 UTC	NoMercy, Razgovor, Zamiel	1	6	30
@@ -3259,31 +3266,31 @@
 18027	4	0	Rainbow (6 Suits)	2019-01-19 — 22:02:37 UTC	florrat2, NoMercy, NotRaKXeR, sankala	7	6	30
 18026	4	0	Rainbow (6 Suits)	2019-01-19 — 22:00:20 UTC	florrat2, NoMercy, NotRaKXeR, sankala	7	6	30
 18025	4	28	Rainbow (6 Suits)	2019-01-19 — 21:56:48 UTC	florrat2, NoMercy, NotRaKXeR, sankala	8	6	30
-18024	3	25	Dark Rainbow (5 Suits)	2019-01-19 — 21:31:10 UTC	garbo late game, NoMercy, RaKXeR	29	5	25
-18023	3	0	Dark Rainbow (5 Suits)	2019-01-19 — 21:13:18 UTC	garbo late game, NoMercy, RaKXeR	36	5	25
-18022	3	0	Dark Rainbow (5 Suits)	2019-01-19 — 21:08:38 UTC	garbo late game, NoMercy, RaKXeR	48	5	25
-18021	3	0	Dark Rainbow (5 Suits)	2019-01-19 — 21:03:26 UTC	garbo late game, NoMercy, RaKXeR	52	5	25
-18020	3	30	Up or Down & White (6 Suits)	2019-01-19 — 20:46:11 UTC	Libster, NoMercy, RaKXeR	1	6	30
-18018	3	0	Up or Down & White (6 Suits)	2019-01-19 — 20:27:32 UTC	Libster, NoMercy, RaKXeR	2	6	30
-18016	3	26	Up or Down & White (6 Suits)	2019-01-19 — 20:03:06 UTC	Andrew_UK, Libster, NoMercy	2	6	30
-18015	3	0	Up or Down & White (6 Suits)	2019-01-19 — 19:28:05 UTC	Andrew_UK, Libster, NoMercy	3	6	30
-18014	3	0	Up or Down & White (6 Suits)	2019-01-19 — 18:58:58 UTC	Libster, NoMercy, Razgovor	8	6	30
+18024	3	25	Dark Rainbow (5 Suits)	2019-01-19 — 21:31:10 UTC	garbo late game, NoMercy, RaKXeR	30	5	25
+18023	3	0	Dark Rainbow (5 Suits)	2019-01-19 — 21:13:18 UTC	garbo late game, NoMercy, RaKXeR	38	5	25
+18022	3	0	Dark Rainbow (5 Suits)	2019-01-19 — 21:08:38 UTC	garbo late game, NoMercy, RaKXeR	49	5	25
+18021	3	0	Dark Rainbow (5 Suits)	2019-01-19 — 21:03:26 UTC	garbo late game, NoMercy, RaKXeR	53	5	25
+18020	3	30	Up or Down & White (6 Suits)	2019-01-19 — 20:46:11 UTC	Libster, NoMercy, RaKXeR	2	6	30
+18018	3	0	Up or Down & White (6 Suits)	2019-01-19 — 20:27:32 UTC	Libster, NoMercy, RaKXeR	3	6	30
+18016	3	26	Up or Down & White (6 Suits)	2019-01-19 — 20:03:06 UTC	Andrew_UK, Libster, NoMercy	3	6	30
+18015	3	0	Up or Down & White (6 Suits)	2019-01-19 — 19:28:05 UTC	Andrew_UK, Libster, NoMercy	4	6	30
+18014	3	0	Up or Down & White (6 Suits)	2019-01-19 — 18:58:58 UTC	Libster, NoMercy, Razgovor	9	6	30
 17970	4	0	Pink-Fives (6 Suits)	2019-01-19 — 02:07:33 UTC	florrat2, NoMercy, RaKXeR, Zamiel	2	6	30
 17968	5	0	Up or Down (6 Suits)	2019-01-19 — 01:28:14 UTC	florrat2, NoMercy, RaKXeR, Yeesh, Zamiel	9	6	30
 17812	4	20	Rainbow (4 Suits)	2019-01-17 — 07:58:48 UTC	Andrey Khesin, Hunter, Libster, NoMercy	19	4	20
-17811	4	0	Rainbow (4 Suits)	2019-01-17 — 07:43:52 UTC	Andrey Khesin, Hunter, Libster, NoMercy	32	4	20
-17810	4	0	Rainbow (4 Suits)	2019-01-17 — 07:33:35 UTC	Andrey Khesin, Hunter, Libster, NoMercy	45	4	20
+17811	4	0	Rainbow (4 Suits)	2019-01-17 — 07:43:52 UTC	Andrey Khesin, Hunter, Libster, NoMercy	33	4	20
+17810	4	0	Rainbow (4 Suits)	2019-01-17 — 07:33:35 UTC	Andrey Khesin, Hunter, Libster, NoMercy	46	4	20
 17318	4	30	White (6 Suits)	2019-01-11 — 23:06:35 UTC	Andrey Khesin, NoMercy, Razgovor, Zamiel	1	6	30
 17312	4	0	White (6 Suits)	2019-01-11 — 22:46:57 UTC	Andrey Khesin, NoMercy, Razgovor, Zamiel	1	6	30
 17309	4	0	White (6 Suits)	2019-01-11 — 22:36:09 UTC	Andrey Khesin, NoMercy, Razgovor, Zamiel	2	6	30
-17303	3	24	White (5 Suits)	2019-01-11 — 22:23:22 UTC	Andrey Khesin, NoMercy, Zamiel	81	5	25
-17301	5	17	Rainbow (4 Suits)	2019-01-11 — 21:58:50 UTC	Andrey Khesin, Hunter, NoMercy, Razgovor, Zamiel	8	4	20
+17303	3	24	White (5 Suits)	2019-01-11 — 22:23:22 UTC	Andrey Khesin, NoMercy, Zamiel	84	5	25
+17301	5	17	Rainbow (4 Suits)	2019-01-11 — 21:58:50 UTC	Andrey Khesin, Hunter, NoMercy, Razgovor, Zamiel	9	4	20
 17298	5	18	Rainbow (4 Suits)	2019-01-11 — 21:33:13 UTC	Andrey Khesin, Hunter, NoMercy, Razgovor, Zamiel	8	4	20
 17296	4	0	White (6 Suits)	2019-01-11 — 21:03:32 UTC	Hunter, NoMercy, Razgovor, Zamiel	2	6	30
 17292	5	19	Rainbow (4 Suits)	2019-01-11 — 20:42:25 UTC	Hunter, Libster, NoMercy, Razgovor, Zamiel	9	4	20
 17291	5	0	3 Suits	2019-01-11 — 20:26:14 UTC	Hunter, Libster, NoMercy, Razgovor, Zamiel	16	3	15
 17285	4	0	Rainbow (4 Suits)	2019-01-11 — 19:10:34 UTC	Asddsa76, NoMercy, Razgovor, scharkbite	17	4	20
-17283	3	19	Rainbow (4 Suits)	2019-01-11 — 18:58:53 UTC	Asddsa76, NoMercy, Razgovor	32	4	20
+17283	3	19	Rainbow (4 Suits)	2019-01-11 — 18:58:53 UTC	Asddsa76, NoMercy, Razgovor	34	4	20
 17281	5	11	White (3 Suits)	2019-01-11 — 18:46:15 UTC	Asddsa76, Hunter, NoMercy, Razgovor, Zamiel	2	3	15
 17201	4	15	Rainbow (3 Suits)	2019-01-10 — 05:50:21 UTC	NoMercy, Razgovor, scharkbite, Zamiel	2	3	15
 17197	4	14	Rainbow (3 Suits)	2019-01-10 — 05:37:59 UTC	NoMercy, Razgovor, scharkbite, Zamiel	4	3	15
@@ -3296,15 +3303,15 @@
 17182	5	0	Rainbow (5 Suits)	2019-01-10 — 03:39:39 UTC	Cory, grayfox, NoMercy, scharkbite, Zamiel	11	5	25
 17181	5	20	White (4 Suits)	2019-01-10 — 03:24:21 UTC	Cory, grayfox, NoMercy, scharkbite, Zamiel	16	4	20
 17179	5	25	White (5 Suits)	2019-01-10 — 02:57:21 UTC	NoMercy, qqqq, Razgovor, scharkbite, Zamiel	11	5	25
-17144	3	20	4 Suits	2019-01-09 — 19:11:49 UTC	Asddsa76, Libster, NoMercy	160	4	20
+17144	3	20	4 Suits	2019-01-09 — 19:11:49 UTC	Asddsa76, Libster, NoMercy	162	4	20
 16715	4	27	Rainbow (6 Suits)	2019-01-05 — 05:56:57 UTC	DrSeil, NoMercy, oblique, usuallykayla	50	6	30
 16629	4	0	Rainbow (6 Suits)	2019-01-04 — 08:48:20 UTC	gurev, meghal, NoMercy, Zamiel	3	6	30
 16628	5	0	Rainbow (6 Suits)	2019-01-04 — 08:23:37 UTC	gurev, Libster, NoMercy, xdragun, Zamiel	2	6	30
-16626	3	28	Rainbow (6 Suits)	2019-01-04 — 07:49:23 UTC	Alkaven5, NoMercy, usuallykayla	56	6	30
-16624	3	30	Rainbow (6 Suits)	2019-01-04 — 07:03:17 UTC	Alkaven5, NoMercy, usuallykayla	58	6	30
-16620	3	0	Rainbow (6 Suits)	2019-01-04 — 06:32:18 UTC	Alkaven5, NoMercy, usuallykayla	61	6	30
+16626	3	28	Rainbow (6 Suits)	2019-01-04 — 07:49:23 UTC	Alkaven5, NoMercy, usuallykayla	59	6	30
+16624	3	30	Rainbow (6 Suits)	2019-01-04 — 07:03:17 UTC	Alkaven5, NoMercy, usuallykayla	61	6	30
+16620	3	0	Rainbow (6 Suits)	2019-01-04 — 06:32:18 UTC	Alkaven5, NoMercy, usuallykayla	64	6	30
 15730	4	0	Rainbow (6 Suits)	2018-12-27 — 06:50:50 UTC	DrSeil, NoMercy, oblique, usuallykayla	55	6	30
-15727	4	30	Rainbow (6 Suits)	2018-12-27 — 06:13:11 UTC	DrSeil, NoMercy, oblique, usuallykayla	63	6	30
+15727	4	30	Rainbow (6 Suits)	2018-12-27 — 06:13:11 UTC	DrSeil, NoMercy, oblique, usuallykayla	64	6	30
 15716	4	29	Rainbow (6 Suits)	2018-12-27 — 05:19:54 UTC	Hunter, NoMercy, scharkbite, Zamiel	3	6	30
 15704	4	25	No Variant	2018-12-27 — 04:43:51 UTC	Hunter, NoMercy, scharkbite, Zamiel	5	5	25
 15318	4	28	Black (6 Suits)	2018-12-20 — 20:41:26 UTC	Asddsa76, Hunter, Libster, NoMercy	6	6	30
@@ -3314,35 +3321,35 @@
 15188	3	0	Rainbow (6 Suits)	2018-12-18 — 05:30:03 UTC	Andrey Khesin, NoMercy, Zamiel	2	6	30
 15180	3	30	Rainbow (6 Suits)	2018-12-18 — 03:34:05 UTC	florrat2, Libster, NoMercy	1	6	30
 15178	4	30	Black (6 Suits)	2018-12-18 — 03:06:00 UTC	florrat2, NoMercy, qqqq, Zamiel	2	6	30
-15079	4	0	Rainbow (6 Suits)	2018-12-17 — 00:15:16 UTC	Alkaven5, DrSeil, NoMercy, oblique	65	6	30
-15078	5	0	Rainbow (6 Suits)	2018-12-16 — 23:45:58 UTC	Alkaven5, DrSeil, NoMercy, oblique, usuallykayla	101	6	30
-15076	5	30	Rainbow (6 Suits)	2018-12-16 — 23:20:34 UTC	Alkaven5, DrSeil, NoMercy, oblique, usuallykayla	133	6	30
-15073	3	29	Rainbow (6 Suits)	2018-12-16 — 22:17:42 UTC	NoMercy, oblique, usuallykayla	72	6	30
+15079	4	0	Rainbow (6 Suits)	2018-12-17 — 00:15:16 UTC	Alkaven5, DrSeil, NoMercy, oblique	67	6	30
+15078	5	0	Rainbow (6 Suits)	2018-12-16 — 23:45:58 UTC	Alkaven5, DrSeil, NoMercy, oblique, usuallykayla	102	6	30
+15076	5	30	Rainbow (6 Suits)	2018-12-16 — 23:20:34 UTC	Alkaven5, DrSeil, NoMercy, oblique, usuallykayla	134	6	30
+15073	3	29	Rainbow (6 Suits)	2018-12-16 — 22:17:42 UTC	NoMercy, oblique, usuallykayla	73	6	30
 14990	4	0	Rainbow (6 Suits)	2018-12-15 — 02:42:58 UTC	cak199164, Cory, NoMercy, Zamiel	3	6	30
 14989	3	0	Rainbow (6 Suits)	2018-12-15 — 02:37:31 UTC	Cory, NoMercy, Zamiel	2	6	30
 14987	3	0	Rainbow (6 Suits)	2018-12-15 — 02:30:58 UTC	Cory, NoMercy, Zamiel	2	6	30
 14986	3	30	Rainbow (6 Suits)	2018-12-15 — 02:20:14 UTC	Cory, NoMercy, Zamiel	2	6	30
-14635	4	28	Rainbow (6 Suits)	2018-12-10 — 01:29:55 UTC	Dangerbunny, DrSeil, NoMercy, oblique	70	6	30
-14634	4	0	Rainbow (6 Suits)	2018-12-10 — 01:02:30 UTC	Dangerbunny, DrSeil, NoMercy, oblique	73	6	30
-14622	4	0	Rainbow (6 Suits)	2018-12-09 — 21:03:13 UTC	DrSeil, NoMercy, oblique, RedClay	69	6	30
-14621	4	0	Rainbow (6 Suits)	2018-12-09 — 20:48:09 UTC	DrSeil, NoMercy, oblique, RedClay	76	6	30
-14620	3	0	Rainbow (6 Suits)	2018-12-09 — 20:19:31 UTC	NoMercy, oblique, usuallykayla	83	6	30
-14619	3	0	Rainbow (6 Suits)	2018-12-09 — 19:49:52 UTC	NoMercy, oblique, usuallykayla	91	6	30
+14635	4	28	Rainbow (6 Suits)	2018-12-10 — 01:29:55 UTC	Dangerbunny, DrSeil, NoMercy, oblique	72	6	30
+14634	4	0	Rainbow (6 Suits)	2018-12-10 — 01:02:30 UTC	Dangerbunny, DrSeil, NoMercy, oblique	74	6	30
+14622	4	0	Rainbow (6 Suits)	2018-12-09 — 21:03:13 UTC	DrSeil, NoMercy, oblique, RedClay	70	6	30
+14621	4	0	Rainbow (6 Suits)	2018-12-09 — 20:48:09 UTC	DrSeil, NoMercy, oblique, RedClay	77	6	30
+14620	3	0	Rainbow (6 Suits)	2018-12-09 — 20:19:31 UTC	NoMercy, oblique, usuallykayla	84	6	30
+14619	3	0	Rainbow (6 Suits)	2018-12-09 — 19:49:52 UTC	NoMercy, oblique, usuallykayla	93	6	30
 14568	4	0	Dark Rainbow (6 Suits)	2018-12-08 — 01:08:32 UTC	Cory, florrat2, NoMercy, scharkbite	6	6	30
 14566	5	0	Dark Rainbow (6 Suits)	2018-12-08 — 00:28:01 UTC	Cory, florrat2, NoMercy, RaKXeR, scharkbite	8	6	30
 14449	5	0	Dark Rainbow (6 Suits)	2018-12-07 — 01:51:39 UTC	Andrew_UK, Asddsa76, florrat2, NoMercy, NotRaKXeR	7	6	30
-14359	3	29	Rainbow (6 Suits)	2018-12-06 — 05:51:52 UTC	Alkaven5, DrSeil, NoMercy	91	6	30
-14356	4	29	Rainbow (6 Suits)	2018-12-06 — 04:49:34 UTC	DrSeil, NoMercy, oblique, RedClay	91	6	30
-14354	4	0	Rainbow (6 Suits)	2018-12-06 — 04:07:56 UTC	DrSeil, NoMercy, oblique, RedClay	96	6	30
-14347	4	0	Rainbow (6 Suits)	2018-12-06 — 03:45:49 UTC	DrSeil, NoMercy, oblique, RedClay	122	6	30
-14345	3	0	Rainbow (6 Suits)	2018-12-06 — 03:30:22 UTC	NoMercy, oblique, RedClay	102	6	30
+14359	3	29	Rainbow (6 Suits)	2018-12-06 — 05:51:52 UTC	Alkaven5, DrSeil, NoMercy	93	6	30
+14356	4	29	Rainbow (6 Suits)	2018-12-06 — 04:49:34 UTC	DrSeil, NoMercy, oblique, RedClay	94	6	30
+14354	4	0	Rainbow (6 Suits)	2018-12-06 — 04:07:56 UTC	DrSeil, NoMercy, oblique, RedClay	97	6	30
+14347	4	0	Rainbow (6 Suits)	2018-12-06 — 03:45:49 UTC	DrSeil, NoMercy, oblique, RedClay	123	6	30
+14345	3	0	Rainbow (6 Suits)	2018-12-06 — 03:30:22 UTC	NoMercy, oblique, RedClay	104	6	30
 14267	3	28	Rainbow (6 Suits)	2018-12-03 — 22:43:02 UTC	Andrew_UK, NoMercy, scharkbite	13	6	30
 14265	5	0	Rainbow (6 Suits)	2018-12-03 — 22:07:40 UTC	Asddsa76, Libster, NoMercy, RaKXeR, scharkbite	2	6	30
 14264	4	0	Rainbow (6 Suits)	2018-12-03 — 21:35:37 UTC	Asddsa76, Libster, NoMercy, scharkbite	38	6	30
-14228	5	30	Rainbow (6 Suits)	2018-12-02 — 20:47:06 UTC	Alkaven5, DrSeil, NoMercy, oblique, usuallykayla	209	6	30
+14228	5	30	Rainbow (6 Suits)	2018-12-02 — 20:47:06 UTC	Alkaven5, DrSeil, NoMercy, oblique, usuallykayla	211	6	30
 14151	4	0	No Variant	2018-11-30 — 01:17:00 UTC	Asddsa76, Libster, NoMercy, scharkbite	41	5	25
 14148	5	30	Rainbow (6 Suits)	2018-11-30 — 00:17:35 UTC	Andrew_UK, Asddsa76, Libster, NoMercy, scharkbite	2	6	30
-14064	4	25	No Variant	2018-11-28 — 23:49:57 UTC	Asddsa76, Cory, Libster, NoMercy	45	5	25
+14064	4	25	No Variant	2018-11-28 — 23:49:57 UTC	Asddsa76, Cory, Libster, NoMercy	46	5	25
 13948	4	0	Black (6 Suits)	2018-11-28 — 01:09:24 UTC	Asddsa76, Cory, Libster, NoMercy	10	6	30
 13945	4	0	Black (6 Suits)	2018-11-28 — 00:55:13 UTC	Asddsa76, Cory, Libster, NoMercy	10	6	30
 13941	4	0	Black (6 Suits)	2018-11-28 — 00:41:19 UTC	Asddsa76, Cory, Libster, NoMercy	10	6	30
@@ -3362,10 +3369,10 @@
 13049	4	27	Rainbow (6 Suits)	2018-11-10 — 06:45:08 UTC	florrat2, jeep, NoMercy, Zamiel	2	6	30
 13047	3	29	Rainbow (6 Suits)	2018-11-10 — 05:56:48 UTC	florrat2, NoMercy, Zamiel	1	6	30
 13041	3	0	No Variant	2018-11-10 — 05:21:47 UTC	florrat2, NoMercy, Zamiel	9	5	25
-13038	3	25	No Variant	2018-11-10 — 05:04:03 UTC	florrat2, NoMercy, Zamiel	10	5	25
+13038	3	25	No Variant	2018-11-10 — 05:04:03 UTC	florrat2, NoMercy, Zamiel	11	5	25
 13032	4	25	No Variant	2018-11-10 — 04:06:09 UTC	910dan, florrat2, NoMercy, Zamiel	7	5	25
 13027	4	25	No Variant	2018-11-10 — 03:24:33 UTC	910dan, florrat2, NoMercy, Zamiel	9	5	25
-13023	3	0	No Variant	2018-11-10 — 03:03:33 UTC	florrat2, NoMercy, Zamiel	10	5	25
+13023	3	0	No Variant	2018-11-10 — 03:03:33 UTC	florrat2, NoMercy, Zamiel	11	5	25
 12943	5	0	Black & Dark Rainbow (6 Suits)	2018-11-09 — 03:23:51 UTC	910dan, florrat2, garbo late game, NoMercy, Zamiel	1	6	30
 12937	4	0	Rainbow (6 Suits)	2018-11-09 — 02:42:55 UTC	910dan, florrat2, NoMercy, Zamiel	2	6	30
 12936	3	0	Rainbow (6 Suits)	2018-11-09 — 02:30:15 UTC	910dan, NoMercy, Zamiel	3	6	30
@@ -3391,7 +3398,7 @@
 12605	4	0	Rainbow (6 Suits)	2018-11-03 — 00:22:22 UTC	Cory, NoMercy, sankala, Zamiel	3	6	30
 12604	4	0	Rainbow (6 Suits)	2018-11-03 — 00:14:07 UTC	Cory, NoMercy, sankala, Zamiel	3	6	30
 12603	4	0	Rainbow (6 Suits)	2018-11-03 — 00:05:06 UTC	Cory, NoMercy, sankala, Zamiel	3	6	30
-12501	3	0	Black (6 Suits)	2018-11-01 — 17:12:02 UTC	NoMercy, sankala, Yeesh	15	6	30
+12501	3	0	Black (6 Suits)	2018-11-01 — 17:12:02 UTC	NoMercy, sankala, Yeesh	16	6	30
 12483	4	0	Black & Dark Rainbow (6 Suits)	2018-11-01 — 00:29:27 UTC	Cory, NoMercy, scharkbite, Zamiel	1	6	30
 12472	4	0	Black & Dark Rainbow (6 Suits)	2018-11-01 — 00:12:05 UTC	Cory, NoMercy, scharkbite, Zamiel	1	6	30
 12471	4	0	Black & Dark Rainbow (6 Suits)	2018-11-01 — 00:09:29 UTC	Cory, NoMercy, scharkbite, Zamiel	1	6	30
@@ -3407,13 +3414,13 @@
 12190	5	0	Black & Dark Rainbow (6 Suits)	2018-10-25 — 02:41:31 UTC	florrat2, Libster, NoMercy, scharkbite, Zamiel	1	6	30
 12189	5	0	Black & Dark Rainbow (6 Suits)	2018-10-25 — 02:27:27 UTC	florrat2, Libster, NoMercy, scharkbite, Zamiel	1	6	30
 12186	4	30	Black & Dark Rainbow (6 Suits)	2018-10-25 — 02:11:27 UTC	florrat2, Libster, NoMercy, scharkbite	2	6	30
-12184	4	25	No Variant	2018-10-24 — 23:52:14 UTC	Andrew_UK, NoMercy, scharkbite, SedNegi	793	5	25
-12056	4	29	Rainbow (6 Suits)	2018-10-21 — 06:13:18 UTC	Alkaven5, DrSeil, NoMercy, oblique	344	6	30
+12184	4	25	No Variant	2018-10-24 — 23:52:14 UTC	Andrew_UK, NoMercy, scharkbite, SedNegi	800	5	25
+12056	4	29	Rainbow (6 Suits)	2018-10-21 — 06:13:18 UTC	Alkaven5, DrSeil, NoMercy, oblique	349	6	30
 11880	4	0	Black & Dark Rainbow (6 Suits)	2018-10-18 — 01:39:02 UTC	Cory, florrat2, NoMercy, sankala	3	6	30
 11826	4	0	Black & Dark Rainbow (6 Suits)	2018-10-17 — 01:26:40 UTC	Andrew_UK, Andrey Khesin, Cory, NoMercy	9	6	30
 11825	4	30	Dark Rainbow (6 Suits)	2018-10-17 — 00:57:37 UTC	Andrew_UK, Andrey Khesin, Cory, NoMercy	26	6	30
-11824	4	0	Dark Rainbow (6 Suits)	2018-10-17 — 00:24:23 UTC	Andrew_UK, Andrey Khesin, Cory, NoMercy	25	6	30
-11823	4	30	Dark Rainbow (6 Suits)	2018-10-16 — 23:55:03 UTC	910dan, Andrew_UK, Cory, NoMercy	41	6	30
+11824	4	0	Dark Rainbow (6 Suits)	2018-10-17 — 00:24:23 UTC	Andrew_UK, Andrey Khesin, Cory, NoMercy	27	6	30
+11823	4	30	Dark Rainbow (6 Suits)	2018-10-16 — 23:55:03 UTC	910dan, Andrew_UK, Cory, NoMercy	42	6	30
 11768	4	23	Black & Dark Rainbow (6 Suits)	2018-10-15 — 22:36:28 UTC	Andrew_UK, florrat2, NoMercy, sankala	5	6	30
 11767	4	0	Black & Dark Rainbow (6 Suits)	2018-10-15 — 22:11:50 UTC	Andrew_UK, florrat2, NoMercy, sankala	6	6	30
 11766	4	0	Black & Dark Rainbow (6 Suits)	2018-10-15 — 22:02:26 UTC	Andrew_UK, florrat2, NoMercy, sankala	7	6	30
@@ -3430,16 +3437,16 @@
 11570	5	0	Black & Dark Rainbow (6 Suits)	2018-10-11 — 00:28:07 UTC	Doge, Libster, NoMercy, scharkbite, Zamiel	1	6	30
 11566	3	30	Very Ambiguous (6 Suits)	2018-10-10 — 22:59:11 UTC	Libster, NoMercy, Swifter	3	6	30
 11565	5	23	No Variant	2018-10-10 — 22:27:52 UTC	Andrey Khesin, Mike, NoMercy, scharkbite, Zamiel	11	5	25
-11320	4	22	No Variant	2018-10-02 — 23:54:50 UTC	Andrew_UK, firewheel996, NoMercy, scharkbite	1253	5	25
-11213	4	0	Rainbow (6 Suits)	2018-09-30 — 05:33:57 UTC	Andrew_UK, Cory, NoMercy, qqqq	156	6	30
-11212	3	0	Rainbow (6 Suits)	2018-09-30 — 05:10:41 UTC	Andrew_UK, Cory, NoMercy	35	6	30
+11320	4	22	No Variant	2018-10-02 — 23:54:50 UTC	Andrew_UK, firewheel996, NoMercy, scharkbite	1267	5	25
+11213	4	0	Rainbow (6 Suits)	2018-09-30 — 05:33:57 UTC	Andrew_UK, Cory, NoMercy, qqqq	157	6	30
+11212	3	0	Rainbow (6 Suits)	2018-09-30 — 05:10:41 UTC	Andrew_UK, Cory, NoMercy	37	6	30
 11210	4	27	Rainbow (6 Suits)	2018-09-30 — 04:32:53 UTC	Andrew_UK, Cory, NoMercy, RaKXeR	27	6	30
-11044	4	25	No Variant	2018-09-29 — 02:00:09 UTC	NoMercy, qqqq, RaKXeR, scharkbite	59	5	25
-11043	4	0	No Variant	2018-09-29 — 01:51:43 UTC	NoMercy, qqqq, RaKXeR, scharkbite	63	5	25
+11044	4	25	No Variant	2018-09-29 — 02:00:09 UTC	NoMercy, qqqq, RaKXeR, scharkbite	60	5	25
+11043	4	0	No Variant	2018-09-29 — 01:51:43 UTC	NoMercy, qqqq, RaKXeR, scharkbite	64	5	25
 10979	5	30	Dual-Color & Rainbow (6 Suits)	2018-09-27 — 03:22:28 UTC	Cory, jeep, NoMercy, qqqq, RaKXeR	5	6	30
 10978	5	0	No Variant	2018-09-27 — 02:26:06 UTC	Cory, NoMercy, qqqq, RaKXeR, Zamiel	10	5	25
-10975	3	30	Rainbow (6 Suits)	2018-09-27 — 01:33:39 UTC	Doge, jeep, NoMercy	77	6	30
-10971	5	30	Rainbow (6 Suits)	2018-09-26 — 23:24:29 UTC	Andrew_UK, Cory, NoMercy, qqqq, RaKXeR	27	6	30
+10975	3	30	Rainbow (6 Suits)	2018-09-27 — 01:33:39 UTC	Doge, jeep, NoMercy	78	6	30
+10971	5	30	Rainbow (6 Suits)	2018-09-26 — 23:24:29 UTC	Andrew_UK, Cory, NoMercy, qqqq, RaKXeR	28	6	30
 10970	5	24	No Variant	2018-09-26 — 22:43:06 UTC	Andrew_UK, Cory, NoMercy, RaKXeR, Zamiel	10	5	25
 10781	3	29	Dark Rainbow (6 Suits)	2018-09-22 — 13:46:19 UTC	florrat2, NoMercy, qqqq	5	6	30
 10666	4	25	No Variant	2018-09-19 — 03:24:54 UTC	jeep, NoMercy, RaKXeR, Zamiel	12	5	25
@@ -3451,38 +3458,38 @@
 10659	4	0	Black & Dark Rainbow (6 Suits)	2018-09-19 — 00:46:04 UTC	NoMercy, RaKXeR, scharkbite, Zamiel	1	6	30
 10657	4	0	Black & Dark Rainbow (6 Suits)	2018-09-19 — 00:37:28 UTC	NoMercy, RaKXeR, scharkbite, Zamiel	1	6	30
 10624	5	22	No Variant	2018-09-18 — 00:41:52 UTC	Cory, NoMercy, qqqq, RaKXeR, Zamiel	11	5	25
-10613	4	0	Dark Rainbow (6 Suits)	2018-09-17 — 21:55:35 UTC	alercah, Andrew_UK, NoMercy, scharkbite	53	6	30
+10613	4	0	Dark Rainbow (6 Suits)	2018-09-17 — 21:55:35 UTC	alercah, Andrew_UK, NoMercy, scharkbite	54	6	30
 10612	5	0	Dark Rainbow (6 Suits)	2018-09-17 — 21:19:33 UTC	alercah, Andrew_UK, Cory, NoMercy, scharkbite	14	6	30
-10611	4	0	Dark Rainbow (6 Suits)	2018-09-17 — 20:41:54 UTC	Andrew_UK, Cory, NoMercy, scharkbite	48	6	30
+10611	4	0	Dark Rainbow (6 Suits)	2018-09-17 — 20:41:54 UTC	Andrew_UK, Cory, NoMercy, scharkbite	49	6	30
 10605	5	0	Black (6 Suits)	2018-09-17 — 01:23:50 UTC	Cory, Instantiation, NoMercy, qqqq, RaKXeR	13	6	30
 10604	5	0	Black (6 Suits)	2018-09-17 — 00:58:15 UTC	Cory, Instantiation, NoMercy, qqqq, RaKXeR	13	6	30
 10603	5	29	Black (6 Suits)	2018-09-17 — 00:37:14 UTC	Cory, Instantiation, NoMercy, qqqq, RaKXeR	13	6	30
-10602	4	25	No Variant	2018-09-17 — 00:06:20 UTC	Instantiation, NoMercy, qqqq, RaKXeR	125	5	25
-10601	4	0	No Variant	2018-09-16 — 23:50:11 UTC	Cory, NoMercy, qqqq, RaKXeR	82	5	25
+10602	4	25	No Variant	2018-09-17 — 00:06:20 UTC	Instantiation, NoMercy, qqqq, RaKXeR	126	5	25
+10601	4	0	No Variant	2018-09-16 — 23:50:11 UTC	Cory, NoMercy, qqqq, RaKXeR	84	5	25
 10599	4	0	No Variant	2018-09-16 — 22:42:37 UTC	Andrew_UK, NoMercy, RaKXeR, Zamiel	12	5	25
 10598	4	0	No Variant	2018-09-16 — 22:12:40 UTC	Andrew_UK, NoMercy, RaKXeR, Zamiel	13	5	25
 10597	3	0	No Variant	2018-09-16 — 21:52:53 UTC	Andrew_UK, NoMercy, Zamiel	15	5	25
-10508	3	25	No Variant	2018-09-15 — 13:31:59 UTC	Corsair, NoMercy, qqqq	1291	5	25
-10503	3	28	Rainbow (6 Suits)	2018-09-15 — 01:51:15 UTC	NoMercy, scharkbite, Zamiel	7	6	30
-10502	3	26	Rainbow (6 Suits)	2018-09-15 — 01:38:04 UTC	NoMercy, scharkbite, Zamiel	7	6	30
+10508	3	25	No Variant	2018-09-15 — 13:31:59 UTC	Corsair, NoMercy, qqqq	1299	5	25
+10503	3	28	Rainbow (6 Suits)	2018-09-15 — 01:51:15 UTC	NoMercy, scharkbite, Zamiel	8	6	30
+10502	3	26	Rainbow (6 Suits)	2018-09-15 — 01:38:04 UTC	NoMercy, scharkbite, Zamiel	8	6	30
 10499	4	0	Black & Dark Rainbow (6 Suits)	2018-09-15 — 01:12:39 UTC	NoMercy, RaKXeR, scharkbite, Zamiel	1	6	30
 10498	5	0	Rainbow (6 Suits)	2018-09-15 — 00:37:03 UTC	duneaught, NoMercy, RaKXeR, scharkbite, Zamiel	3	6	30
-10477	3	30	Rainbow (6 Suits)	2018-09-14 — 00:27:28 UTC	NoMercy, qqqq, RaKXeR	23	6	30
+10477	3	30	Rainbow (6 Suits)	2018-09-14 — 00:27:28 UTC	NoMercy, qqqq, RaKXeR	24	6	30
 10475	5	0	Rainbow (6 Suits)	2018-09-13 — 23:37:41 UTC	Andrew_UK, NoMercy, qqqq, RaKXeR, scharkbite	39	6	30
-10474	3	0	Rainbow (6 Suits)	2018-09-13 — 23:04:39 UTC	Andrew_UK, NoMercy, scharkbite	104	6	30
-10455	4	25	No Variant	2018-09-13 — 01:18:30 UTC	NoMercy, PtitMax, scharkbite, SeldeGuérande	2076	5	25
+10474	3	0	Rainbow (6 Suits)	2018-09-13 — 23:04:39 UTC	Andrew_UK, NoMercy, scharkbite	106	6	30
+10455	4	25	No Variant	2018-09-13 — 01:18:30 UTC	NoMercy, PtitMax, scharkbite, SeldeGuérande	2094	5	25
 10454	5	23	No Variant	2018-09-13 — 00:37:46 UTC	Cory, NoMercy, PtitMax, scharkbite, Zamiel	11	5	25
 10451	5	0	No Variant	2018-09-12 — 23:47:55 UTC	Cory, NoMercy, PtitMax, scharkbite, Zamiel	11	5	25
 10418	5	0	No Variant	2018-09-11 — 00:59:56 UTC	Corsair, Cory, NoMercy, SeldeGuérande, Zamiel	11	5	25
 10417	5	24	No Variant	2018-09-11 — 00:17:39 UTC	Corsair, Cory, NoMercy, SeldeGuérande, Zamiel	13	5	25
 10412	3	29	Rainbow (6 Suits)	2018-09-10 — 20:51:46 UTC	Andrew_UK, NoMercy, SeldeGuérande	120	6	30
 10410	3	0	Rainbow (6 Suits)	2018-09-10 — 20:15:55 UTC	Andrew_UK, NoMercy, SeldeGuérande	126	6	30
-10409	5	0	No Variant	2018-09-10 — 19:54:18 UTC	Andrew_UK, madrobin, NoMercy, PtitMax, SeldeGuérande	1995	5	25
-10399	3	30	Rainbow (6 Suits)	2018-09-09 — 06:13:49 UTC	Alkaven5, DrSeil, NoMercy	146	6	30
-10398	3	0	Rainbow (6 Suits)	2018-09-09 — 05:29:43 UTC	Alkaven5, DrSeil, NoMercy	196	6	30
-10396	3	29	Rainbow (6 Suits)	2018-09-09 — 04:42:26 UTC	Alkaven5, DrSeil, NoMercy	237	6	30
-10372	3	30	Black (6 Suits)	2018-09-08 — 01:14:12 UTC	Cory, NoMercy, qqqq	95	6	30
-10371	3	30	Rainbow (6 Suits)	2018-09-08 — 00:44:55 UTC	Cory, NoMercy, scharkbite	47	6	30
+10409	5	0	No Variant	2018-09-10 — 19:54:18 UTC	Andrew_UK, madrobin, NoMercy, PtitMax, SeldeGuérande	2011	5	25
+10399	3	30	Rainbow (6 Suits)	2018-09-09 — 06:13:49 UTC	Alkaven5, DrSeil, NoMercy	147	6	30
+10398	3	0	Rainbow (6 Suits)	2018-09-09 — 05:29:43 UTC	Alkaven5, DrSeil, NoMercy	198	6	30
+10396	3	29	Rainbow (6 Suits)	2018-09-09 — 04:42:26 UTC	Alkaven5, DrSeil, NoMercy	239	6	30
+10372	3	30	Black (6 Suits)	2018-09-08 — 01:14:12 UTC	Cory, NoMercy, qqqq	97	6	30
+10371	3	30	Rainbow (6 Suits)	2018-09-08 — 00:44:55 UTC	Cory, NoMercy, scharkbite	48	6	30
 10307	5	0	Rainbow (6 Suits)	2018-09-06 — 04:57:45 UTC	jeep, NoMercy, SeldeGuérande, smallman, Zamiel	3	6	30
 10306	4	30	Rainbow (6 Suits)	2018-09-06 — 03:56:59 UTC	NoMercy, SeldeGuérande, smallman, Zamiel	4	6	30
 10305	5	30	Rainbow (6 Suits)	2018-09-06 — 02:48:21 UTC	NoMercy, scharkbite, SeldeGuérande, smallman, Zamiel	3	6	30
@@ -3490,57 +3497,57 @@
 10300	5	0	Black & Dark Rainbow (6 Suits)	2018-09-06 — 00:00:27 UTC	Cory, NoMercy, scharkbite, SeldeGuérande, Zamiel	1	6	30
 10299	4	29	Rainbow (6 Suits)	2018-09-05 — 23:08:01 UTC	Andrew_UK, NoMercy, SeldeGuérande, Zamiel	3	6	30
 10298	3	30	Rainbow (6 Suits)	2018-09-05 — 22:23:47 UTC	Andrew_UK, NoMercy, Zamiel	9	6	30
-10242	4	30	Rainbow (6 Suits)	2018-09-03 — 05:00:46 UTC	Alkaven5, DrSeil, NoMercy, oblique	493	6	30
-10238	3	27	Rainbow (6 Suits)	2018-09-03 — 01:41:54 UTC	DrSeil, NoMercy, oblique	396	6	30
-10237	3	29	Rainbow (6 Suits)	2018-09-03 — 01:06:40 UTC	DrSeil, NoMercy, oblique	508	6	30
+10242	4	30	Rainbow (6 Suits)	2018-09-03 — 05:00:46 UTC	Alkaven5, DrSeil, NoMercy, oblique	497	6	30
+10238	3	27	Rainbow (6 Suits)	2018-09-03 — 01:41:54 UTC	DrSeil, NoMercy, oblique	404	6	30
+10237	3	29	Rainbow (6 Suits)	2018-09-03 — 01:06:40 UTC	DrSeil, NoMercy, oblique	514	6	30
 10121	3	28	Black & Dark Rainbow (6 Suits)	2018-08-29 — 00:46:20 UTC	NoMercy, scharkbite, Zamiel	1	6	30
 10120	4	0	Black & Dark Rainbow (6 Suits)	2018-08-29 — 00:09:47 UTC	Cory, NoMercy, scharkbite, Zamiel	1	6	30
 10119	4	0	Black & Dark Rainbow (6 Suits)	2018-08-28 — 23:44:08 UTC	Cory, NoMercy, scharkbite, Zamiel	1	6	30
 10118	4	0	Black & Dark Rainbow (6 Suits)	2018-08-28 — 23:31:56 UTC	Cory, NoMercy, scharkbite, Zamiel	1	6	30
 10117	5	0	No Variant	2018-08-28 — 23:22:48 UTC	Andrew_UK, Cory, NoMercy, scharkbite, Zamiel	12	5	25
-10116	4	25	No Variant	2018-08-28 — 22:56:47 UTC	Andrew_UK, NoMercy, scharkbite, Zamiel	13	5	25
+10116	4	25	No Variant	2018-08-28 — 22:56:47 UTC	Andrew_UK, NoMercy, scharkbite, Zamiel	14	5	25
 10114	3	0	Black & Dark Rainbow (6 Suits)	2018-08-28 — 22:27:30 UTC	NoMercy, scharkbite, Zamiel	1	6	30
-10091	3	30	Rainbow (6 Suits)	2018-08-28 — 06:42:41 UTC	jeep, NoMercy, scharkbite	74	6	30
-10090	4	29	Rainbow (6 Suits)	2018-08-28 — 06:05:37 UTC	alercah, jeep, NoMercy, scharkbite	185	6	30
+10091	3	30	Rainbow (6 Suits)	2018-08-28 — 06:42:41 UTC	jeep, NoMercy, scharkbite	75	6	30
+10090	4	29	Rainbow (6 Suits)	2018-08-28 — 06:05:37 UTC	alercah, jeep, NoMercy, scharkbite	188	6	30
 10086	3	30	Dual-Color (6 Suits)	2018-08-28 — 04:24:02 UTC	Hyakinthus, NoMercy, scharkbite	13	6	30
 10081	5	0	Black & Dark Rainbow (6 Suits)	2018-08-28 — 03:55:48 UTC	Hyakinthus, jeep, NoMercy, scharkbite, Zamiel	1	6	30
-10078	4	25	No Variant	2018-08-28 — 02:40:22 UTC	kell, NoMercy, scharkbite, Zamiel	16	5	25
+10078	4	25	No Variant	2018-08-28 — 02:40:22 UTC	kell, NoMercy, scharkbite, Zamiel	17	5	25
 10077	4	0	Black & Dark Rainbow (6 Suits)	2018-08-28 — 02:20:08 UTC	jeep, NoMercy, scharkbite, Zamiel	1	6	30
 10076	4	0	Black & Dark Rainbow (6 Suits)	2018-08-28 — 02:14:46 UTC	jeep, NoMercy, scharkbite, Zamiel	1	6	30
 10075	3	0	Black & Dark Rainbow (6 Suits)	2018-08-28 — 01:52:10 UTC	NoMercy, scharkbite, Zamiel	1	6	30
 10073	5	0	Black & Dark Rainbow (6 Suits)	2018-08-27 — 22:34:12 UTC	Hyakinthus, NoMercy, scharkbite, Swifter, Zamiel	1	6	30
-10051	3	29	Rainbow (6 Suits)	2018-08-27 — 04:56:05 UTC	jeep, NoMercy, scharkbite	75	6	30
+10051	3	29	Rainbow (6 Suits)	2018-08-27 — 04:56:05 UTC	jeep, NoMercy, scharkbite	76	6	30
 10050	3	0	Rainbow (6 Suits)	2018-08-27 — 04:21:43 UTC	jeep, NoMercy, scharkbite	118	6	30
 10049	4	0	Rainbow (6 Suits)	2018-08-27 — 03:52:06 UTC	Hyakinthus, jeep, NoMercy, scharkbite	57	6	30
-10048	3	30	Rainbow (6 Suits)	2018-08-27 — 03:20:32 UTC	Hyakinthus, NoMercy, scharkbite	36	6	30
-10046	3	0	Rainbow (6 Suits)	2018-08-27 — 02:55:03 UTC	Hyakinthus, NoMercy, scharkbite	42	6	30
-9982	3	0	Rainbow (6 Suits)	2018-08-24 — 22:38:07 UTC	Andrew_UK, NoMercy, Swifter	79	6	30
-9981	3	30	Rainbow (6 Suits)	2018-08-24 — 22:10:49 UTC	Andrew_UK, NoMercy, Swifter	215	6	30
+10048	3	30	Rainbow (6 Suits)	2018-08-27 — 03:20:32 UTC	Hyakinthus, NoMercy, scharkbite	38	6	30
+10046	3	0	Rainbow (6 Suits)	2018-08-27 — 02:55:03 UTC	Hyakinthus, NoMercy, scharkbite	43	6	30
+9982	3	0	Rainbow (6 Suits)	2018-08-24 — 22:38:07 UTC	Andrew_UK, NoMercy, Swifter	81	6	30
+9981	3	30	Rainbow (6 Suits)	2018-08-24 — 22:10:49 UTC	Andrew_UK, NoMercy, Swifter	217	6	30
 9976	5	0	Rainbow (6 Suits)	2018-08-23 — 22:51:25 UTC	alercah, Andrew_UK, Libster, NoMercy, Swifter	2	6	30
 9975	5	0	Rainbow (6 Suits)	2018-08-23 — 22:29:34 UTC	alercah, Andrew_UK, Libster, NoMercy, Swifter	2	6	30
-9974	3	0	Rainbow (6 Suits)	2018-08-23 — 21:45:45 UTC	alercah, Andrew_UK, NoMercy	689	6	30
+9974	3	0	Rainbow (6 Suits)	2018-08-23 — 21:45:45 UTC	alercah, Andrew_UK, NoMercy	693	6	30
 9966	5	0	Black & Dark Rainbow (6 Suits)	2018-08-23 — 06:44:00 UTC	alercah, Instantiation, jeep, NoMercy, Zamiel	1	6	30
 9965	5	24	Black & Dark Rainbow (6 Suits)	2018-08-23 — 05:53:50 UTC	alercah, Instantiation, jeep, NoMercy, Zamiel	2	6	30
 9964	5	0	Black & Dark Rainbow (6 Suits)	2018-08-23 — 05:21:04 UTC	alercah, Instantiation, jeep, NoMercy, Zamiel	2	6	30
 9963	5	0	Black & Dark Rainbow (6 Suits)	2018-08-23 — 05:08:45 UTC	alercah, Instantiation, jeep, NoMercy, Zamiel	3	6	30
 9960	4	0	Black & Dark Rainbow (6 Suits)	2018-08-23 — 04:10:12 UTC	alercah, Instantiation, NoMercy, Zamiel	4	6	30
 9959	4	0	Black & Dark Rainbow (6 Suits)	2018-08-23 — 03:50:31 UTC	alercah, Instantiation, NoMercy, Zamiel	3	6	30
-9954	3	27	Rainbow (6 Suits)	2018-08-23 — 01:10:29 UTC	jeep, NoMercy, scharkbite	141	6	30
-9953	3	30	Rainbow (6 Suits)	2018-08-23 — 00:36:12 UTC	jeep, NoMercy, scharkbite	183	6	30
+9954	3	27	Rainbow (6 Suits)	2018-08-23 — 01:10:29 UTC	jeep, NoMercy, scharkbite	144	6	30
+9953	3	30	Rainbow (6 Suits)	2018-08-23 — 00:36:12 UTC	jeep, NoMercy, scharkbite	186	6	30
 9951	4	0	Black & Dark Rainbow (6 Suits)	2018-08-22 — 23:00:14 UTC	Cory, NoMercy, Swifter, Zamiel	3	6	30
-9950	4	30	6 Suits	2018-08-22 — 22:19:26 UTC	alercah, NoMercy, Swifter, Zamiel	7	6	30
+9950	4	30	6 Suits	2018-08-22 — 22:19:26 UTC	alercah, NoMercy, Swifter, Zamiel	8	6	30
 9949	4	0	6 Suits	2018-08-22 — 21:51:57 UTC	alercah, NoMercy, Swifter, Zamiel	8	6	30
-9946	4	25	No Variant	2018-08-22 — 21:18:11 UTC	alercah, NoMercy, Swifter, Zamiel	15	5	25
+9946	4	25	No Variant	2018-08-22 — 21:18:11 UTC	alercah, NoMercy, Swifter, Zamiel	16	5	25
 9944	3	30	Black & Dark Rainbow (6 Suits)	2018-08-22 — 20:45:08 UTC	NoMercy, Swifter, Zamiel	1	6	30
 9908	3	28	Black & Dark Rainbow (6 Suits)	2018-08-21 — 18:18:53 UTC	910dan, NoMercy, scharkbite	19	6	30
 9907	3	0	Black & Dark Rainbow (6 Suits)	2018-08-21 — 17:55:00 UTC	910dan, NoMercy, scharkbite	20	6	30
 9906	3	22	Black & Dark Rainbow (6 Suits)	2018-08-21 — 17:32:55 UTC	910dan, NoMercy, scharkbite	21	6	30
 9905	3	0	Black & Dark Rainbow (6 Suits)	2018-08-21 — 17:05:56 UTC	910dan, NoMercy, scharkbite	28	6	30
-9880	4	25	No Variant	2018-08-21 — 01:31:42 UTC	jeep, Nitrate, NoMercy, Zamiel	16	5	25
-9879	4	25	No Variant	2018-08-21 — 00:59:10 UTC	jeep, Nitrate, NoMercy, Zamiel	17	5	25
-9878	4	0	No Variant	2018-08-21 — 00:07:10 UTC	alercah, Cory, NoMercy, Zamiel	16	5	25
-9877	4	25	No Variant	2018-08-20 — 23:34:49 UTC	alercah, Cory, NoMercy, Zamiel	16	5	25
-9875	4	23	No Variant	2018-08-20 — 23:01:42 UTC	alercah, Cory, NoMercy, Zamiel	16	5	25
+9880	4	25	No Variant	2018-08-21 — 01:31:42 UTC	jeep, Nitrate, NoMercy, Zamiel	18	5	25
+9879	4	25	No Variant	2018-08-21 — 00:59:10 UTC	jeep, Nitrate, NoMercy, Zamiel	18	5	25
+9878	4	0	No Variant	2018-08-21 — 00:07:10 UTC	alercah, Cory, NoMercy, Zamiel	17	5	25
+9877	4	25	No Variant	2018-08-20 — 23:34:49 UTC	alercah, Cory, NoMercy, Zamiel	17	5	25
+9875	4	23	No Variant	2018-08-20 — 23:01:42 UTC	alercah, Cory, NoMercy, Zamiel	17	5	25
 9874	4	0	Rainbow (6 Suits)	2018-08-20 — 22:25:18 UTC	Andrew_UK, Cory, NoMercy, Zamiel	4	6	30
 9873	4	0	Rainbow (6 Suits)	2018-08-20 — 21:46:23 UTC	910dan, Andrew_UK, NoMercy, Zamiel	3	6	30
 9872	4	27	Rainbow (6 Suits)	2018-08-20 — 21:05:18 UTC	910dan, Andrew_UK, NoMercy, Zamiel	4	6	30
@@ -3549,16 +3556,16 @@
 9762	4	0	Rainbow (6 Suits)	2018-08-18 — 23:34:08 UTC	alercah, Instantiation, jeep, NoMercy	19	6	30
 9761	4	0	Rainbow (6 Suits)	2018-08-18 — 23:15:27 UTC	alercah, Instantiation, jeep, NoMercy	17	6	30
 9760	3	0	Dual-Color (6 Suits)	2018-08-18 — 23:10:17 UTC	Instantiation, jeep, NoMercy	13	6	30
-9575	4	29	Rainbow (6 Suits)	2018-08-15 — 23:30:05 UTC	Andrew_UK, Cory, NoMercy, scharkbite	85	6	30
-9562	3	28	Rainbow (6 Suits)	2018-08-15 — 06:49:40 UTC	Instantiation, NoMercy, scharkbite	18	6	30
-9561	3	29	Rainbow (6 Suits)	2018-08-15 — 06:11:59 UTC	Instantiation, NoMercy, scharkbite	20	6	30
-9560	3	0	Rainbow (6 Suits)	2018-08-15 — 05:35:42 UTC	Instantiation, NoMercy, scharkbite	20	6	30
+9575	4	29	Rainbow (6 Suits)	2018-08-15 — 23:30:05 UTC	Andrew_UK, Cory, NoMercy, scharkbite	86	6	30
+9562	3	28	Rainbow (6 Suits)	2018-08-15 — 06:49:40 UTC	Instantiation, NoMercy, scharkbite	19	6	30
+9561	3	29	Rainbow (6 Suits)	2018-08-15 — 06:11:59 UTC	Instantiation, NoMercy, scharkbite	21	6	30
+9560	3	0	Rainbow (6 Suits)	2018-08-15 — 05:35:42 UTC	Instantiation, NoMercy, scharkbite	21	6	30
 9544	5	25	No Variant	2018-08-15 — 01:07:50 UTC	NoMercy, RaKXeR, scharkbite, smallman, Zamiel	12	5	25
 9543	5	22	No Variant	2018-08-15 — 00:20:34 UTC	NoMercy, RaKXeR, scharkbite, smallman, Zamiel	12	5	25
 9541	5	0	No Variant	2018-08-14 — 23:45:43 UTC	NoMercy, RaKXeR, scharkbite, smallman, Zamiel	14	5	25
-9532	3	0	No Variant	2018-08-14 — 17:28:39 UTC	NoMercy, NotNotRaKXeR, NotRaKXeR	1017	5	25
-9531	3	0	No Variant	2018-08-14 — 17:27:39 UTC	NoMercy, NotNotRaKXeR, NotRaKXeR	1095	5	25
-9530	3	25	No Variant	2018-08-14 — 17:26:37 UTC	NoMercy, NotNotRaKXeR, NotRaKXeR	1465	5	25
+9532	3	0	No Variant	2018-08-14 — 17:28:39 UTC	NoMercy, NotNotRaKXeR, NotRaKXeR	1026	5	25
+9531	3	0	No Variant	2018-08-14 — 17:27:39 UTC	NoMercy, NotNotRaKXeR, NotRaKXeR	1102	5	25
+9530	3	25	No Variant	2018-08-14 — 17:26:37 UTC	NoMercy, NotNotRaKXeR, NotRaKXeR	1474	5	25
 9496	3	26	Black & Dark Rainbow (6 Suits)	2018-08-14 — 02:47:27 UTC	NoMercy, scharkbite, Zamiel	2	6	30
 9495	3	28	Black & Dark Rainbow (6 Suits)	2018-08-14 — 02:11:53 UTC	NoMercy, scharkbite, Zamiel	2	6	30
 9494	3	27	Black & Dark Rainbow (6 Suits)	2018-08-14 — 01:42:42 UTC	NoMercy, scharkbite, Zamiel	2	6	30
@@ -3566,14 +3573,14 @@
 9490	5	0	Black & Dark Rainbow (6 Suits)	2018-08-13 — 23:47:05 UTC	florrat2, Libster, NoMercy, RaKXeR, Swifter	3	6	30
 9489	5	0	Black & Dark Rainbow (6 Suits)	2018-08-13 — 23:35:49 UTC	florrat2, Libster, NoMercy, RaKXeR, Swifter	3	6	30
 9477	3	0	Dual-Color (6 Suits)	2018-08-13 — 06:54:30 UTC	Instantiation, NoMercy, Zamiel	5	6	30
-9428	4	0	Rainbow (6 Suits)	2018-08-11 — 15:16:46 UTC	Andrew_UK, Libster, NoMercy, qqqq	163	6	30
+9428	4	0	Rainbow (6 Suits)	2018-08-11 — 15:16:46 UTC	Andrew_UK, Libster, NoMercy, qqqq	164	6	30
 9424	4	29	Black (6 Suits)	2018-08-11 — 12:34:01 UTC	Andrew_UK, Libster, NoMercy, qqqq	21	6	30
-9422	2	30	Rainbow (6 Suits)	2018-08-11 — 11:51:11 UTC	Andrew_UK, NoMercy	593	6	30
-9419	3	0	No Variant	2018-08-11 — 11:18:32 UTC	Andrew_UK, Mythreyi, NoMercy	2163	5	25
-9416	3	0	No Variant	2018-08-11 — 10:36:48 UTC	Andrew_UK, Mythreyi, NoMercy	2606	5	25
-9415	2	28	Dual-Color & Rainbow (6 Suits)	2018-08-11 — 03:31:46 UTC	NoMercy, scharkbite	31	6	30
-9412	4	30	Rainbow (6 Suits)	2018-08-11 — 01:02:58 UTC	Andrew_UK, NoMercy, qqqq, scharkbite	238	6	30
-9411	4	25	No Variant	2018-08-11 — 00:14:45 UTC	Andrew_UK, NoMercy, RaKXeR, scharkbite	131	5	25
+9422	2	30	Rainbow (6 Suits)	2018-08-11 — 11:51:11 UTC	Andrew_UK, NoMercy	605	6	30
+9419	3	0	No Variant	2018-08-11 — 11:18:32 UTC	Andrew_UK, Mythreyi, NoMercy	2179	5	25
+9416	3	0	No Variant	2018-08-11 — 10:36:48 UTC	Andrew_UK, Mythreyi, NoMercy	2627	5	25
+9415	2	28	Dual-Color & Rainbow (6 Suits)	2018-08-11 — 03:31:46 UTC	NoMercy, scharkbite	32	6	30
+9412	4	30	Rainbow (6 Suits)	2018-08-11 — 01:02:58 UTC	Andrew_UK, NoMercy, qqqq, scharkbite	244	6	30
+9411	4	25	No Variant	2018-08-11 — 00:14:45 UTC	Andrew_UK, NoMercy, RaKXeR, scharkbite	132	5	25
 9394	5	0	Black & Dark Rainbow (6 Suits)	2018-08-10 — 14:26:36 UTC	florrat2, Libster, NoMercy, qqqq, Swifter	3	6	30
 9393	5	0	Black & Dark Rainbow (6 Suits)	2018-08-10 — 14:10:36 UTC	florrat2, Libster, NoMercy, qqqq, Swifter	3	6	30
 9390	4	26	Dark Rainbow (6 Suits)	2018-08-10 — 12:51:30 UTC	florrat2, NoMercy, qqqq, Swifter	20	6	30
@@ -3582,24 +3589,24 @@
 9371	3	25	No Variant	2018-08-09 — 23:17:41 UTC	Libster, NoMercy, Yeesh	2	5	25
 9369	5	0	Dark Rainbow (6 Suits)	2018-08-09 — 22:44:39 UTC	Andrew_UK, florrat2, NoMercy, scharkbite, Yeesh	9	6	30
 9368	3	0	Dark Rainbow (6 Suits)	2018-08-09 — 22:18:27 UTC	florrat2, NoMercy, scharkbite	17	6	30
-9350	4	24	No Variant	2018-08-09 — 08:00:50 UTC	Instantiation, Mapwarrior, NoMercy, qqqq	473	5	25
-9349	4	0	No Variant	2018-08-09 — 07:13:25 UTC	Instantiation, Mapwarrior, NoMercy, qqqq	601	5	25
+9350	4	24	No Variant	2018-08-09 — 08:00:50 UTC	Instantiation, Mapwarrior, NoMercy, qqqq	480	5	25
+9349	4	0	No Variant	2018-08-09 — 07:13:25 UTC	Instantiation, Mapwarrior, NoMercy, qqqq	606	5	25
 9345	3	23	No Variant	2018-08-09 — 00:56:50 UTC	Mapwarrior, NoMercy, Zamiel	15	5	25
-9340	3	30	Rainbow (6 Suits)	2018-08-08 — 23:04:07 UTC	Andrew_UK, Libster, NoMercy	165	6	30
+9340	3	30	Rainbow (6 Suits)	2018-08-08 — 23:04:07 UTC	Andrew_UK, Libster, NoMercy	167	6	30
 9315	3	0	Black & Dark Rainbow (6 Suits)	2018-08-08 — 03:16:00 UTC	Libster, NoMercy, qqqq	2	6	30
 9313	3	0	Black & Dark Rainbow (6 Suits)	2018-08-08 — 03:01:05 UTC	Libster, NoMercy, qqqq	2	6	30
-9309	4	30	Rainbow (6 Suits)	2018-08-08 — 02:49:41 UTC	Cory, Libster, NoMercy, qqqq	104	6	30
-9308	3	30	Black (6 Suits)	2018-08-08 — 02:11:38 UTC	Cory, NoMercy, qqqq	108	6	30
-9286	3	0	Black (6 Suits)	2018-08-07 — 16:39:20 UTC	Libster, NoMercy, RaKXeR	149	6	30
+9309	4	30	Rainbow (6 Suits)	2018-08-08 — 02:49:41 UTC	Cory, Libster, NoMercy, qqqq	106	6	30
+9308	3	30	Black (6 Suits)	2018-08-08 — 02:11:38 UTC	Cory, NoMercy, qqqq	111	6	30
+9286	3	0	Black (6 Suits)	2018-08-07 — 16:39:20 UTC	Libster, NoMercy, RaKXeR	151	6	30
 9285	2	29	Dual-Color (6 Suits)	2018-08-07 — 06:58:19 UTC	NoMercy, qqqq	10	6	30
 9284	2	27	Dual-Color (6 Suits)	2018-08-07 — 06:32:54 UTC	NoMercy, qqqq	10	6	30
 9283	2	0	Dual-Color (6 Suits)	2018-08-07 — 06:10:04 UTC	NoMercy, qqqq	10	6	30
 9282	2	0	Dual-Color (6 Suits)	2018-08-07 — 05:56:03 UTC	NoMercy, qqqq	20	6	30
 9281	2	0	Dual-Color (6 Suits)	2018-08-07 — 05:46:58 UTC	NoMercy, qqqq	22	6	30
-9280	2	0	Dual-Color (6 Suits)	2018-08-07 — 05:35:02 UTC	NoMercy, qqqq	34	6	30
-9271	3	25	No Variant	2018-08-06 — 22:50:43 UTC	Andrew_UK, NoMercy, scharkbite	4221	5	25
-9270	4	25	No Variant	2018-08-06 — 22:27:59 UTC	Andrew_UK, NoMercy, scharkbite, Zamiel	16	5	25
-9269	4	25	No Variant	2018-08-06 — 21:59:40 UTC	Andrew_UK, NoMercy, scharkbite, Zamiel	16	5	25
+9280	2	0	Dual-Color (6 Suits)	2018-08-07 — 05:35:02 UTC	NoMercy, qqqq	35	6	30
+9271	3	25	No Variant	2018-08-06 — 22:50:43 UTC	Andrew_UK, NoMercy, scharkbite	4250	5	25
+9270	4	25	No Variant	2018-08-06 — 22:27:59 UTC	Andrew_UK, NoMercy, scharkbite, Zamiel	17	5	25
+9269	4	25	No Variant	2018-08-06 — 21:59:40 UTC	Andrew_UK, NoMercy, scharkbite, Zamiel	17	5	25
 9251	5	0	No Variant	2018-08-04 — 23:27:44 UTC	Andrew_UK, NoMercy, sankala, Yeesh, Zamiel	7	5	25
 9250	5	23	No Variant	2018-08-04 — 22:47:07 UTC	Andrew_UK, NoMercy, sankala, Yeesh, Zamiel	8	5	25
 9248	5	0	No Variant	2018-08-04 — 22:07:26 UTC	Andrew_UK, NoMercy, postmans, sankala, Zamiel	6	5	25
@@ -3612,7 +3619,7 @@
 9225	5	0	Rainbow (6 Suits)	2018-08-04 — 02:26:15 UTC	bradz, Cory, NoMercy, qqqq, Zamiel	3	6	30
 9224	3	30	Rainbow (6 Suits)	2018-08-04 — 02:04:31 UTC	Hyakinthus, NoMercy, Zamiel	8	6	30
 9223	3	29	Rainbow (6 Suits)	2018-08-04 — 01:14:55 UTC	Hyakinthus, NoMercy, Zamiel	8	6	30
-9221	4	25	No Variant	2018-08-03 — 19:57:54 UTC	Cory, Mollerz, NoMercy, RaKXeR	89	5	25
+9221	4	25	No Variant	2018-08-03 — 19:57:54 UTC	Cory, Mollerz, NoMercy, RaKXeR	91	5	25
 9205	3	30	Dual-Color & Rainbow (6 Suits)	2018-08-03 — 03:53:51 UTC	NoMercy, potatochips, Zamiel	1	6	30
 9201	5	0	Dual-Color & Rainbow (6 Suits)	2018-08-03 — 02:56:23 UTC	Cory, NoMercy, potatochips, qqqq, Zamiel	1	6	30
 9200	5	0	Dual-Color & Rainbow (6 Suits)	2018-08-03 — 02:17:41 UTC	Cory, NoMercy, potatochips, qqqq, Zamiel	1	6	30
@@ -3621,11 +3628,11 @@
 9196	3	30	Rainbow (6 Suits)	2018-08-02 — 22:29:01 UTC	NoMercy, qqqq, Zamiel	9	6	30
 9195	3	26	Rainbow (6 Suits)	2018-08-02 — 21:49:04 UTC	NoMercy, postmans, Zamiel	9	6	30
 9193	3	0	Black & Dark Rainbow (6 Suits)	2018-08-02 — 21:09:40 UTC	NoMercy, postmans, Zamiel	4	6	30
-9186	3	0	Rainbow (6 Suits)	2018-08-02 — 02:32:46 UTC	Instantiation, NoMercy, qqqq	24	6	30
-9185	3	30	Rainbow (6 Suits)	2018-08-02 — 02:00:56 UTC	Instantiation, NoMercy, qqqq	25	6	30
+9186	3	0	Rainbow (6 Suits)	2018-08-02 — 02:32:46 UTC	Instantiation, NoMercy, qqqq	25	6	30
+9185	3	30	Rainbow (6 Suits)	2018-08-02 — 02:00:56 UTC	Instantiation, NoMercy, qqqq	26	6	30
 9125	5	23	Black & Dark Rainbow (6 Suits)	2018-08-01 — 22:24:41 UTC	florrat2, NoMercy, postmans, Swifter, Zamiel	3	6	30
 9042	4	30	Dual-Color (6 Suits)	2018-08-01 — 02:15:54 UTC	NoMercy, qqqq, RaKXeR, Swifter	5	6	30
-9040	4	0	Dual-Color (6 Suits)	2018-08-01 — 01:43:58 UTC	NoMercy, qqqq, RaKXeR, Swifter	7	6	30
+9040	4	0	Dual-Color (6 Suits)	2018-08-01 — 01:43:58 UTC	NoMercy, qqqq, RaKXeR, Swifter	8	6	30
 8985	5	0	No Variant	2018-07-31 — 21:58:56 UTC	Libster, NoMercy, NotRaKXeR, postmans, sankala	14	5	25
 8984	5	0	No Variant	2018-07-31 — 21:55:44 UTC	Libster, NoMercy, NotRaKXeR, postmans, sankala	13	5	25
 8983	5	0	No Variant	2018-07-31 — 21:53:54 UTC	Libster, NoMercy, NotRaKXeR, postmans, sankala	13	5	25
@@ -3640,14 +3647,14 @@
 8974	5	0	No Variant	2018-07-31 — 21:34:08 UTC	Libster, NoMercy, NotRaKXeR, postmans, sankala	24	5	25
 8973	5	0	No Variant	2018-07-31 — 21:30:49 UTC	Libster, NoMercy, NotRaKXeR, postmans, sankala	23	5	25
 8972	5	0	No Variant	2018-07-31 — 21:29:01 UTC	Libster, NoMercy, NotRaKXeR, postmans, sankala	23	5	25
-8971	5	0	No Variant	2018-07-31 — 21:26:27 UTC	Libster, NoMercy, NotRaKXeR, postmans, sankala	28	5	25
-8970	5	0	No Variant	2018-07-31 — 21:24:42 UTC	Libster, NoMercy, NotRaKXeR, postmans, sankala	344	5	25
-8969	5	0	No Variant	2018-07-31 — 21:21:54 UTC	Libster, NoMercy, NotRaKXeR, postmans, sankala	457	5	25
+8971	5	0	No Variant	2018-07-31 — 21:26:27 UTC	Libster, NoMercy, NotRaKXeR, postmans, sankala	30	5	25
+8970	5	0	No Variant	2018-07-31 — 21:24:42 UTC	Libster, NoMercy, NotRaKXeR, postmans, sankala	348	5	25
+8969	5	0	No Variant	2018-07-31 — 21:21:54 UTC	Libster, NoMercy, NotRaKXeR, postmans, sankala	461	5	25
 8968	5	30	Rainbow (6 Suits)	2018-07-31 — 21:03:35 UTC	NoMercy, NotRaKXeR, postmans, scharkbite, Swifter	6	6	30
 8967	5	0	Rainbow (6 Suits)	2018-07-31 — 20:42:31 UTC	NoMercy, NotRaKXeR, postmans, scharkbite, Swifter	5	6	30
-8966	4	27	Rainbow (6 Suits)	2018-07-31 — 20:21:30 UTC	NoMercy, NotRaKXeR, scharkbite, Swifter	275	6	30
-8965	4	0	Rainbow (6 Suits)	2018-07-31 — 20:00:42 UTC	NoMercy, postmans, scharkbite, Swifter	200	6	30
-8964	4	24	No Variant	2018-07-31 — 19:48:51 UTC	NoMercy, postmans, scharkbite, Swifter	1744	5	25
+8966	4	27	Rainbow (6 Suits)	2018-07-31 — 20:21:30 UTC	NoMercy, NotRaKXeR, scharkbite, Swifter	280	6	30
+8965	4	0	Rainbow (6 Suits)	2018-07-31 — 20:00:42 UTC	NoMercy, postmans, scharkbite, Swifter	205	6	30
+8964	4	24	No Variant	2018-07-31 — 19:48:51 UTC	NoMercy, postmans, scharkbite, Swifter	1759	5	25
 8962	4	0	Very Ambiguous (6 Suits)	2018-07-31 — 19:28:33 UTC	NoMercy, postmans, scharkbite, Swifter	2	6	30
 8961	4	0	Very Ambiguous (6 Suits)	2018-07-31 — 19:14:08 UTC	NoMercy, postmans, scharkbite, Swifter	2	6	30
 8959	4	0	Very Ambiguous (6 Suits)	2018-07-31 — 18:52:54 UTC	NoMercy, postmans, scharkbite, Swifter	2	6	30
@@ -3661,12 +3668,12 @@
 8930	3	0	Dual-Color (6 Suits)	2018-07-31 — 03:51:10 UTC	NoMercy, qqqq, scharkbite	15	6	30
 8928	3	0	Dual-Color (6 Suits)	2018-07-31 — 03:17:16 UTC	NoMercy, qqqq, scharkbite	16	6	30
 8926	3	30	Dual-Color (6 Suits)	2018-07-31 — 02:34:21 UTC	NoMercy, qqqq, scharkbite	17	6	30
-8924	2	0	Dual-Color (6 Suits)	2018-07-31 — 02:01:09 UTC	NoMercy, qqqq	58	6	30
+8924	2	0	Dual-Color (6 Suits)	2018-07-31 — 02:01:09 UTC	NoMercy, qqqq	60	6	30
 8817	3	29	Dual-Color (6 Suits)	2018-07-30 — 07:14:36 UTC	NoMercy, qqqq, scharkbite	21	6	30
 8816	3	0	Dual-Color (6 Suits)	2018-07-30 — 06:36:29 UTC	NoMercy, qqqq, scharkbite	24	6	30
 8815	3	0	Dual-Color (6 Suits)	2018-07-30 — 06:10:11 UTC	NoMercy, qqqq, scharkbite	26	6	30
 8814	3	29	Dual-Color (6 Suits)	2018-07-30 — 05:47:43 UTC	NoMercy, qqqq, scharkbite	34	6	30
-8813	3	28	Dual-Color (6 Suits)	2018-07-30 — 05:09:16 UTC	NoMercy, qqqq, scharkbite	43	6	30
+8813	3	28	Dual-Color (6 Suits)	2018-07-30 — 05:09:16 UTC	NoMercy, qqqq, scharkbite	44	6	30
 8807	5	25	No Variant	2018-07-30 — 02:12:06 UTC	Cory, Hyakinthus, NoMercy, qqqq, RaKXeR	65	5	25
 8773	5	0	Black & Dark Rainbow (6 Suits)	2018-07-29 — 01:59:07 UTC	NoMercy, qqqq, scharkbite, SeldeGuérande, Zamiel	3	6	30
 8772	5	0	Black & Dark Rainbow (6 Suits)	2018-07-29 — 01:36:05 UTC	NoMercy, qqqq, scharkbite, SeldeGuérande, Zamiel	3	6	30
@@ -3682,8 +3689,8 @@
 8715	5	29	Ambiguous (6 Suits)	2018-07-28 — 03:58:27 UTC	bradz, Cory, NoMercy, scharkbite, Zamiel	2	6	30
 8712	5	0	No Variant	2018-07-28 — 02:11:07 UTC	cubegoldberg, Mike, NoMercy, scharkbite, Zamiel	15	5	25
 8711	5	0	No Variant	2018-07-28 — 01:47:27 UTC	bradz, cubegoldberg, NoMercy, scharkbite, Zamiel	15	5	25
-8710	4	25	No Variant	2018-07-28 — 01:15:32 UTC	cubegoldberg, NoMercy, RaKXeR, Zamiel	17	5	25
-8709	4	24	No Variant	2018-07-28 — 00:42:15 UTC	cubegoldberg, NoMercy, RaKXeR, Zamiel	18	5	25
+8710	4	25	No Variant	2018-07-28 — 01:15:32 UTC	cubegoldberg, NoMercy, RaKXeR, Zamiel	18	5	25
+8709	4	24	No Variant	2018-07-28 — 00:42:15 UTC	cubegoldberg, NoMercy, RaKXeR, Zamiel	19	5	25
 8708	4	28	Rainbow (6 Suits)	2018-07-28 — 00:02:49 UTC	NoMercy, postmans, scharkbite, Zamiel	3	6	30
 8707	4	0	Dual-Color (6 Suits)	2018-07-27 — 23:31:35 UTC	NoMercy, postmans, scharkbite, Zamiel	3	6	30
 8706	4	28	Dual-Color (6 Suits)	2018-07-27 — 23:07:16 UTC	NoMercy, postmans, scharkbite, Zamiel	4	6	30
@@ -3716,7 +3723,7 @@
 8587	5	0	Rainbow (6 Suits)	2018-07-26 — 22:04:41 UTC	florrat2, Hyakinthus, Libster, NoMercy, postmans	4	6	30
 8584	3	30	Dark Rainbow (6 Suits)	2018-07-26 — 21:31:08 UTC	florrat2, NoMercy, Swifter	2	6	30
 8582	3	28	Dark Rainbow (6 Suits)	2018-07-26 — 21:00:59 UTC	florrat2, NoMercy, Swifter	2	6	30
-8581	5	25	No Variant	2018-07-26 — 20:40:24 UTC	Hyakinthus, Libster, NoMercy, postmans, Swifter	30	5	25
+8581	5	25	No Variant	2018-07-26 — 20:40:24 UTC	Hyakinthus, Libster, NoMercy, postmans, Swifter	31	5	25
 8575	4	30	Dual-Color (6 Suits)	2018-07-26 — 17:26:42 UTC	florrat2, NoMercy, postmans, Swifter	4	6	30
 8574	5	0	Rainbow (6 Suits)	2018-07-26 — 16:32:34 UTC	florrat2, NoMercy, postmans, qqqq, Swifter	7	6	30
 8573	5	0	Black & Dark Rainbow (6 Suits)	2018-07-26 — 16:05:37 UTC	florrat2, Libster, NoMercy, qqqq, Swifter	4	6	30
@@ -3729,18 +3736,18 @@
 8563	4	0	Rainbow (6 Suits)	2018-07-26 — 00:04:15 UTC	Hyakinthus, NoMercy, Swifter, Zamiel	5	6	30
 8562	3	0	Black & Dark Rainbow (6 Suits)	2018-07-25 — 23:43:56 UTC	Hyakinthus, NoMercy, Swifter	14	6	30
 8509	5	27	Dark Rainbow (6 Suits)	2018-07-24 — 17:54:36 UTC	florrat2, Libster, NoMercy, RaKXeR, Swifter	10	6	30
-8508	5	28	Dark Rainbow (6 Suits)	2018-07-24 — 17:07:47 UTC	Libster, NoMercy, qqqq, RaKXeR, Swifter	23	6	30
+8508	5	28	Dark Rainbow (6 Suits)	2018-07-24 — 17:07:47 UTC	Libster, NoMercy, qqqq, RaKXeR, Swifter	24	6	30
 8507	5	0	Dark Rainbow (6 Suits)	2018-07-24 — 16:31:24 UTC	Libster, NoMercy, qqqq, RaKXeR, Swifter	33	6	30
 8498	5	29	Black (6 Suits)	2018-07-23 — 22:54:34 UTC	jeep, NoMercy, RaKXeR, scharkbite, Swifter	18	6	30
-8497	5	0	No Variant	2018-07-23 — 22:08:53 UTC	Cory, cubegoldberg, Karashka, NoMercy, RaKXeR	176	5	25
-8496	5	0	No Variant	2018-07-23 — 21:38:38 UTC	cubegoldberg, Karashka, NoMercy, RaKXeR, Swifter	1119	5	25
+8497	5	0	No Variant	2018-07-23 — 22:08:53 UTC	Cory, cubegoldberg, Karashka, NoMercy, RaKXeR	178	5	25
+8496	5	0	No Variant	2018-07-23 — 21:38:38 UTC	cubegoldberg, Karashka, NoMercy, RaKXeR, Swifter	1125	5	25
 8439	4	30	Rainbow (6 Suits)	2018-07-21 — 08:02:55 UTC	Instantiation, jeep, NoMercy, qqqq	26	6	30
 8437	5	0	Black (6 Suits)	2018-07-21 — 06:16:11 UTC	Cory, jeep, NoMercy, qqqq, scharkbite	24	6	30
 8435	5	28	Black (6 Suits)	2018-07-21 — 05:35:32 UTC	bradz, Cory, jeep, NoMercy, scharkbite	36	6	30
 8433	5	0	Black (6 Suits)	2018-07-21 — 05:07:41 UTC	bradz, Cory, jeep, NoMercy, scharkbite	39	6	30
 8431	5	0	Black (6 Suits)	2018-07-21 — 04:31:30 UTC	bradz, jeep, NoMercy, qqqq, scharkbite	58	6	30
-8429	5	28	Black (6 Suits)	2018-07-21 — 03:50:50 UTC	bradz, jeep, NoMercy, qqqq, scharkbite	72	6	30
-8427	4	28	Black (6 Suits)	2018-07-21 — 03:16:29 UTC	jeep, NoMercy, qqqq, scharkbite	213	6	30
+8429	5	28	Black (6 Suits)	2018-07-21 — 03:50:50 UTC	bradz, jeep, NoMercy, qqqq, scharkbite	74	6	30
+8427	4	28	Black (6 Suits)	2018-07-21 — 03:16:29 UTC	jeep, NoMercy, qqqq, scharkbite	215	6	30
 8423	5	23	No Variant	2018-07-21 — 01:34:35 UTC	Cory, cubegoldberg, NoMercy, Swifter, Zamiel	19	5	25
 8422	5	0	Dark Rainbow (6 Suits)	2018-07-21 — 00:56:17 UTC	Cory, Hyakinthus, NoMercy, Swifter, Zamiel	6	6	30
 8421	5	0	Dark Rainbow (6 Suits)	2018-07-21 — 00:31:51 UTC	Cory, Hyakinthus, NoMercy, Swifter, Zamiel	7	6	30
@@ -3748,21 +3755,21 @@
 8416	5	29	Black (6 Suits)	2018-07-20 — 22:17:18 UTC	Hyakinthus, NoMercy, scharkbite, Swifter, Zamiel	9	6	30
 8415	5	25	No Variant	2018-07-20 — 21:49:05 UTC	Hyakinthus, NoMercy, scharkbite, Swifter, Zamiel	23	5	25
 8413	5	28	Black (6 Suits)	2018-07-20 — 20:24:19 UTC	Libster, NoMercy, scharkbite, Swifter, Zamiel	4	6	30
-8411	3	30	6 Suits	2018-07-20 — 06:53:41 UTC	jeep, NoMercy, qqqq	503	6	30
-8403	3	30	Rainbow (6 Suits)	2018-07-20 — 00:26:53 UTC	cubegoldberg, NoMercy, qqqq	282	6	30
-8402	2	0	Rainbow (6 Suits)	2018-07-19 — 23:38:50 UTC	NoMercy, qqqq	971	6	30
+8411	3	30	6 Suits	2018-07-20 — 06:53:41 UTC	jeep, NoMercy, qqqq	511	6	30
+8403	3	30	Rainbow (6 Suits)	2018-07-20 — 00:26:53 UTC	cubegoldberg, NoMercy, qqqq	284	6	30
+8402	2	0	Rainbow (6 Suits)	2018-07-19 — 23:38:50 UTC	NoMercy, qqqq	984	6	30
 8395	5	0	Rainbow (6 Suits)	2018-07-19 — 03:47:55 UTC	Libster, NoMercy, qqqq, scharkbite, Zamiel	3	6	30
 8394	5	25	No Variant	2018-07-19 — 03:23:22 UTC	Libster, NoMercy, qqqq, scharkbite, Zamiel	21	5	25
 8392	3	25	No Variant	2018-07-19 — 02:38:28 UTC	NoMercy, qqqq, Zamiel	21	5	25
-8385	4	29	Rainbow (6 Suits)	2018-07-18 — 08:21:29 UTC	Instantiation, jeep, NoMercy, qqqq	34	6	30
+8385	4	29	Rainbow (6 Suits)	2018-07-18 — 08:21:29 UTC	Instantiation, jeep, NoMercy, qqqq	35	6	30
 8384	4	0	Rainbow (6 Suits)	2018-07-18 — 07:38:47 UTC	Instantiation, jeep, NoMercy, qqqq	37	6	30
 8383	4	0	Rainbow (6 Suits)	2018-07-18 — 07:11:06 UTC	Instantiation, jeep, NoMercy, qqqq	47	6	30
-8376	4	25	No Variant	2018-07-18 — 04:00:38 UTC	NoMercy, qqqq, scharkbite, Zamiel	20	5	25
-8372	4	30	Black (6 Suits)	2018-07-18 — 03:14:50 UTC	bradz, Libster, NoMercy, potatochips	45	6	30
+8376	4	25	No Variant	2018-07-18 — 04:00:38 UTC	NoMercy, qqqq, scharkbite, Zamiel	21	5	25
+8372	4	30	Black (6 Suits)	2018-07-18 — 03:14:50 UTC	bradz, Libster, NoMercy, potatochips	46	6	30
 8370	4	0	Black (6 Suits)	2018-07-18 — 02:23:40 UTC	bradz, Libster, NoMercy, potatochips	1	6	30
 8368	5	24	No Variant	2018-07-18 — 01:36:36 UTC	Cory, Libster, NoMercy, scharkbite, Zamiel	20	5	25
 8367	3	0	No Variant	2018-07-18 — 00:59:29 UTC	NoMercy, scharkbite, Zamiel	20	5	25
-8366	4	0	No Variant	2018-07-17 — 22:33:07 UTC	jeep, NoMercy, Swifter, Zamiel	18	5	25
+8366	4	0	No Variant	2018-07-17 — 22:33:07 UTC	jeep, NoMercy, Swifter, Zamiel	19	5	25
 8365	5	24	No Variant	2018-07-17 — 22:02:01 UTC	jeep, Libster, NoMercy, Swifter, Zamiel	22	5	25
 8364	4	26	Black (6 Suits)	2018-07-17 — 21:30:46 UTC	Libster, NoMercy, Swifter, Zamiel	6	6	30
 8357	3	22	No Variant	2018-07-17 — 05:31:55 UTC	NoMercy, scharkbite, Zamiel	22	5	25
@@ -3770,16 +3777,16 @@
 8354	4	0	No Variant	2018-07-17 — 04:13:53 UTC	NoMercy, qqqq, scharkbite, Zamiel	21	5	25
 8348	5	0	6 Suits	2018-07-17 — 01:22:17 UTC	Cory, NoMercy, qqqq, scharkbite, Zamiel	5	6	30
 8347	5	25	No Variant	2018-07-17 — 00:56:38 UTC	bradz, Cory, NoMercy, scharkbite, Zamiel	20	5	25
-8346	3	25	No Variant	2018-07-17 — 00:14:00 UTC	NoMercy, scharkbite, Zamiel	24	5	25
+8346	3	25	No Variant	2018-07-17 — 00:14:00 UTC	NoMercy, scharkbite, Zamiel	25	5	25
 8323	5	26	Black (6 Suits)	2018-07-16 — 01:52:34 UTC	bradz, Cory, jeep, NoMercy, potatochips	48	6	30
-8321	3	30	Rainbow (6 Suits)	2018-07-16 — 00:46:54 UTC	bradz, NoMercy, potatochips	332	6	30
+8321	3	30	Rainbow (6 Suits)	2018-07-16 — 00:46:54 UTC	bradz, NoMercy, potatochips	335	6	30
 8298	5	26	6 Suits	2018-07-15 — 00:22:06 UTC	bradz, jeep, NoMercy, potatochips, Zamiel	8	6	30
 8274	4	27	6 Suits	2018-07-14 — 09:19:33 UTC	jeep, NoMercy, potatochips, Zamiel	8	6	30
 8273	5	27	6 Suits	2018-07-14 — 08:13:24 UTC	jeep, NoMercy, potatochips, qqqq, Zamiel	11	6	30
-8272	5	0	6 Suits	2018-07-14 — 07:34:22 UTC	bradz, jeep, NoMercy, potatochips, qqqq	199	6	30
-8197	5	25	No Variant	2018-07-09 — 06:04:46 UTC	jeep, NoMercy, qqqq, scharkbite, Zamiel	25	5	25
-8196	5	24	No Variant	2018-07-09 — 05:25:09 UTC	jeep, NoMercy, qqqq, scharkbite, Zamiel	27	5	25
-8195	4	25	No Variant	2018-07-09 — 04:58:35 UTC	jeep, NoMercy, scharkbite, Zamiel	23	5	25
+8272	5	0	6 Suits	2018-07-14 — 07:34:22 UTC	bradz, jeep, NoMercy, potatochips, qqqq	203	6	30
+8197	5	25	No Variant	2018-07-09 — 06:04:46 UTC	jeep, NoMercy, qqqq, scharkbite, Zamiel	26	5	25
+8196	5	24	No Variant	2018-07-09 — 05:25:09 UTC	jeep, NoMercy, qqqq, scharkbite, Zamiel	28	5	25
+8195	4	25	No Variant	2018-07-09 — 04:58:35 UTC	jeep, NoMercy, scharkbite, Zamiel	24	5	25
 8165	3	25	No Variant	2018-07-08 — 08:57:30 UTC	jeep, NoMercy, Zamiel	26	5	25
-8164	4	23	No Variant	2018-07-08 — 08:32:26 UTC	jeep, Mike, NoMercy, Zamiel	23	5	25
+8164	4	23	No Variant	2018-07-08 — 08:32:26 UTC	jeep, Mike, NoMercy, Zamiel	25	5	25
 8163	5	0	No Variant	2018-07-08 — 07:47:23 UTC	jeep, Mike, NoMercy, scharkbite, Zamiel	25	5	25

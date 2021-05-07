@@ -1,19 +1,62 @@
+518153	4	0	White & Prism (6 Suits)	2021-05-02 — 00:08:49 UTC	griff77, nkkarpov, rahsosprout, wolfpack	8	6	30
+518146	4	28	White & Prism (6 Suits)	2021-05-01 — 23:55:50 UTC	griff77, nkkarpov, rahsosprout, wolfpack	10	6	30
+517172	5	25	Light Pink & Dark Prism (6 Suits)	2021-04-30 — 22:28:17 UTC	ChristopheAF, MangoPie, nkkarpov, pianoblook, scharkbite	3	6	30
+517144	5	0	Light Pink & Dark Prism (6 Suits)	2021-04-30 — 21:52:00 UTC	ChristopheAF, MangoPie, nkkarpov, pianoblook, scharkbite	2	6	30
+517117	5	0	Light Pink & Dark Prism (6 Suits)	2021-04-30 — 21:26:36 UTC	ChristopheAF, MangoPie, nkkarpov, pianoblook, scharkbite	2	6	30
+517104	5	0	Light Pink & Dark Prism (6 Suits)	2021-04-30 — 21:14:07 UTC	ChristopheAF, MangoPie, nkkarpov, pianoblook, scharkbite	2	6	30
+517083	5	26	Dark Brown (6 Suits)	2021-04-30 — 20:51:18 UTC	ChristopheAF, Kyle, nkkarpov, pianoblook, scharkbite	3	6	30
+517064	3	21	Dark Pink (5 Suits)	2021-04-30 — 20:30:27 UTC	Kyle, nkkarpov, scharkbite	3	5	25
+516557	5	25	No Variant	2021-04-30 — 05:55:24 UTC	Aluap, bjnh, mestrepoke, newduke, nkkarpov	667	5	25
+516526	5	0	Black (5 Suits)	2021-04-30 — 05:21:39 UTC	Aluap, bjnh, mestrepoke, newduke, nkkarpov	18	5	25
+516504	5	23	Black (5 Suits)	2021-04-30 — 04:38:45 UTC	colton, newduke, nkkarpov, socerman, voss	6	5	25
+516487	3	0	Dark Rainbow & Dark Prism (6 Suits)	2021-04-30 — 04:14:29 UTC	colton, nkkarpov, voss	4	6	30
+516363	4	29	Rainbow (6 Suits)	2021-04-30 — 02:16:23 UTC	griff77, hanablebee, nkkarpov, tacobot5000	164	6	30
+516205	4	0	Rainbow (6 Suits)	2021-04-29 — 22:51:57 UTC	aquarelle, nkkarpov, tacobot5000, wump	12	6	30
+516028	6	27	Rainbow (6 Suits)	2021-04-29 — 19:52:25 UTC	bjnh, colton, HelanaAshryvr, MalachiteMoa, MangoPie, nkkarpov	9	6	30
+515916	4	0	Black & Dark Rainbow (6 Suits)	2021-04-29 — 18:18:32 UTC	asaelr, colton, duckless, nkkarpov	17	6	30
+515902	3	0	Dark Pink (5 Suits)	2021-04-29 — 18:06:02 UTC	duckless, macanek, nkkarpov	27	5	25
+515890	3	15	Prism (3 Suits)	2021-04-29 — 17:55:43 UTC	duckless, macanek, nkkarpov	34	3	15
+515464	3	29	Black & Dark Prism (6 Suits)	2021-04-29 — 03:05:09 UTC	Bot-Fiora, griff77, nkkarpov	2	6	30
+515444	3	27	Black & Dark Prism (6 Suits)	2021-04-29 — 02:39:09 UTC	Bot-Fiora, griff77, nkkarpov	2	6	30
+515429	3	0	Black & Dark Prism (6 Suits)	2021-04-29 — 02:17:33 UTC	Bot-Fiora, griff77, nkkarpov	2	6	30
+515421	3	0	Black & Dark Prism (6 Suits)	2021-04-29 — 02:02:45 UTC	Bot-Fiora, griff77, nkkarpov	2	6	30
+515404	3	0	Black & Dark Prism (6 Suits)	2021-04-29 — 01:37:01 UTC	Bot-Fiora, griff77, nkkarpov	2	6	30
+515384	4	0	Black & Dark Prism (6 Suits)	2021-04-29 — 01:08:58 UTC	griff77, nkkarpov, rz, voss	2	6	30
+515364	4	0	Black & Dark Prism (6 Suits)	2021-04-29 — 00:33:07 UTC	griff77, nkkarpov, rz, voss	3	6	30
+515349	3	26	Black & Dark Prism (6 Suits)	2021-04-29 — 00:08:32 UTC	nkkarpov, rz, voss	2	6	30
+515326	3	0	Prism (6 Suits)	2021-04-28 — 23:31:40 UTC	ChristopheAF, dobi, nkkarpov	26	6	30
+515245	4	26	Dark Rainbow (6 Suits)	2021-04-28 — 22:03:20 UTC	darnley, kunyavskiy, nkkarpov, SergeyMelnikov	4	6	30
+515209	4	30	Dark Rainbow (6 Suits)	2021-04-28 — 21:16:00 UTC	darnley, kunyavskiy, nkkarpov, SergeyMelnikov	4	6	30
+512818	5	23	Rainbow & Null (5 Suits)	2021-04-26 — 03:08:21 UTC	kimbifille, nkkarpov, pianoblook, scharkbite, timotree	2	5	25
+512800	5	0	Rainbow & Null (5 Suits)	2021-04-26 — 02:40:00 UTC	kimbifille, nkkarpov, pianoblook, scharkbite, timotree	2	5	25
+512790	3	0	Rainbow & Null (6 Suits)	2021-04-26 — 02:27:09 UTC	nkkarpov, scharkbite, timotree	7	6	30
+512780	3	0	Rainbow & Null (6 Suits)	2021-04-26 — 02:10:53 UTC	nkkarpov, scharkbite, timotree	8	6	30
+512775	4	0	Rainbow & Null (6 Suits)	2021-04-26 — 02:03:41 UTC	dobi, nkkarpov, scharkbite, timotree	2	6	30
+512772	4	0	Rainbow & Null (6 Suits)	2021-04-26 — 02:01:11 UTC	dobi, nkkarpov, scharkbite, timotree	6	6	30
+512760	4	25	Black & Pink (5 Suits)	2021-04-26 — 01:44:54 UTC	dobi, nkkarpov, scharkbite, timotree	4	5	25
+512750	4	0	Black & Pink (5 Suits)	2021-04-26 — 01:29:24 UTC	dobi, nkkarpov, scharkbite, timotree	4	5	25
+512740	4	0	Black & Pink (5 Suits)	2021-04-26 — 01:10:48 UTC	dobi, nkkarpov, scharkbite, timotree	4	5	25
+512729	4	0	Black & Pink (5 Suits)	2021-04-26 — 00:48:58 UTC	dobi, nkkarpov, scharkbite, timotree	9	5	25
+512719	3	30	Black & Prism (6 Suits)	2021-04-26 — 00:27:05 UTC	nkkarpov, scharkbite, timotree	5	6	30
+512702	4	0	Rainbow & Pink (3 Suits)	2021-04-26 — 00:00:55 UTC	Lanvin, nkkarpov, scharkbite, timotree	9	3	15
+512678	6	30	Rainbow (6 Suits)	2021-04-25 — 23:17:17 UTC	bob65536, Bot-Fiora, griff77, nkkarpov, socerman, tacobot5000	20	6	30
+512653	5	23	Brown-Ones & White (5 Suits)	2021-04-25 — 22:27:37 UTC	antitelharsic, HelanaAshryvr, MangoPie, melwen, nkkarpov	3	5	25
 512486	4	30	Dark Rainbow (6 Suits)	2021-04-25 — 20:12:36 UTC	darnley, kunyavskiy, nkkarpov, SergeyMelnikov	4	6	30
 512393	4	28	Dark Rainbow (6 Suits)	2021-04-25 — 19:11:25 UTC	darnley, kunyavskiy, nkkarpov, SergeyMelnikov	4	6	30
-512360	4	0	No Variant	2021-04-25 — 18:27:10 UTC	darnley, kunyavskiy, nkkarpov, SergeyMelnikov	257	5	25
+512360	4	0	No Variant	2021-04-25 — 18:27:10 UTC	darnley, kunyavskiy, nkkarpov, SergeyMelnikov	260	5	25
 511859	4	20	Prism (4 Suits)	2021-04-25 — 03:45:52 UTC	boba, derekcheah, HelanaAshryvr, nkkarpov	21	4	20
 511819	3	20	Pink-Ones & Brown (4 Suits)	2021-04-25 — 02:45:31 UTC	newduke, nkkarpov, Spieler42	1	4	20
 511807	3	0	Pink-Ones & Brown (4 Suits)	2021-04-25 — 02:23:23 UTC	newduke, nkkarpov, Spieler42	1	4	20
 511645	4	0	Rainbow & Cocoa Rainbow (6 Suits)	2021-04-24 — 22:31:09 UTC	ChristopheAF, colton, MangoPie, nkkarpov	2	6	30
 511536	3	26	Dark Rainbow (6 Suits)	2021-04-24 — 20:38:24 UTC	darnley, nkkarpov, SergeyMelnikov	19	6	30
-511489	4	23	No Variant	2021-04-24 — 19:59:23 UTC	alina239, darnley, nkkarpov, SergeyMelnikov	278	5	25
-511462	4	25	No Variant	2021-04-24 — 19:27:40 UTC	alina239, darnley, nkkarpov, SergeyMelnikov	373	5	25
-511440	4	0	No Variant	2021-04-24 — 19:01:55 UTC	alina239, darnley, nkkarpov, SergeyMelnikov	384	5	25
-511430	4	24	No Variant	2021-04-24 — 18:44:02 UTC	alina239, darnley, nkkarpov, SergeyMelnikov	419	5	25
-511393	3	0	No Variant	2021-04-24 — 18:12:54 UTC	alina239, nkkarpov, SergeyMelnikov	485	5	25
+511489	4	23	No Variant	2021-04-24 — 19:59:23 UTC	alina239, darnley, nkkarpov, SergeyMelnikov	280	5	25
+511462	4	25	No Variant	2021-04-24 — 19:27:40 UTC	alina239, darnley, nkkarpov, SergeyMelnikov	376	5	25
+511440	4	0	No Variant	2021-04-24 — 19:01:55 UTC	alina239, darnley, nkkarpov, SergeyMelnikov	387	5	25
+511430	4	24	No Variant	2021-04-24 — 18:44:02 UTC	alina239, darnley, nkkarpov, SergeyMelnikov	423	5	25
+511393	3	0	No Variant	2021-04-24 — 18:12:54 UTC	alina239, nkkarpov, SergeyMelnikov	491	5	25
 511358	4	23	Black & Brown (5 Suits)	2021-04-24 — 17:26:41 UTC	kevincaseytdk1, MalachiteMoa, mystus, nkkarpov	4	5	25
 511344	4	24	Black & Brown (5 Suits)	2021-04-24 — 17:01:43 UTC	kevincaseytdk1, MalachiteMoa, nkkarpov, wump	8	5	25
-511330	3	24	Black & Brown (5 Suits)	2021-04-24 — 16:33:57 UTC	MalachiteMoa, nkkarpov, wump	7	5	25
+511330	3	24	Black & Brown (5 Suits)	2021-04-24 — 16:33:57 UTC	MalachiteMoa, nkkarpov, wump	8	5	25
 510876	5	29	Pink & Dark Omni (6 Suits)	2021-04-24 — 01:52:31 UTC	HelanaAshryvr, melwen, nkkarpov, pianoblook, squirrel1988	1	6	30
 510856	6	0	Black (5 Suits)	2021-04-24 — 01:21:54 UTC	HelanaAshryvr, Lanvin, Lel0uch, melwen, nkkarpov, ricardodd	1	5	25
 510844	6	23	Black (5 Suits)	2021-04-24 — 01:07:39 UTC	HelanaAshryvr, Lanvin, Lel0uch, melwen, nkkarpov, ricardodd	1	5	25
@@ -29,24 +72,24 @@
 509932	5	0	White & Muddy Rainbow (6 Suits)	2021-04-23 — 03:13:28 UTC	HelanaAshryvr, Lel0uch, melwen, nkkarpov, squirrel1988	1	6	30
 509923	5	0	White & Muddy Rainbow (6 Suits)	2021-04-23 — 02:58:22 UTC	HelanaAshryvr, Lel0uch, melwen, nkkarpov, squirrel1988	1	6	30
 509883	5	29	White & Muddy Rainbow (6 Suits)	2021-04-23 — 02:24:36 UTC	HelanaAshryvr, Lel0uch, melwen, nkkarpov, squirrel1988	1	6	30
-509583	3	0	Rainbow & Pink (6 Suits)	2021-04-22 — 20:42:32 UTC	kinkajusrevenge, newduke, nkkarpov	39	6	30
+509583	3	0	Rainbow & Pink (6 Suits)	2021-04-22 — 20:42:32 UTC	kinkajusrevenge, newduke, nkkarpov	40	6	30
 509548	4	26	Up or Down & Prism (6 Suits)	2021-04-22 — 20:05:30 UTC	Aluap, IsabeltheCat, newduke, nkkarpov	7	6	30
 509480	4	0	Up or Down & Rainbow (6 Suits)	2021-04-22 — 19:00:52 UTC	ChristopheAF, jack67889, nkkarpov, VerySloppyTwo	12	6	30
-508883	5	22	No Variant	2021-04-21 — 23:32:57 UTC	bob65536, DarthGandalf, nkkarpov, Queue, voss	67	5	25
+508883	5	22	No Variant	2021-04-21 — 23:32:57 UTC	bob65536, DarthGandalf, nkkarpov, Queue, voss	68	5	25
 508709	3	30	Prism (6 Suits)	2021-04-21 — 20:30:14 UTC	MalachiteMoa, nkkarpov, Spieler42	25	6	30
 508691	3	0	Prism (6 Suits)	2021-04-21 — 20:08:31 UTC	MalachiteMoa, nkkarpov, Spieler42	36	6	30
-508676	3	0	Prism (6 Suits)	2021-04-21 — 19:52:56 UTC	MalachiteMoa, nkkarpov, Spieler42	45	6	30
+508676	3	0	Prism (6 Suits)	2021-04-21 — 19:52:56 UTC	MalachiteMoa, nkkarpov, Spieler42	46	6	30
 508654	4	0	White-Ones & Prism (6 Suits)	2021-04-21 — 19:35:20 UTC	Lanvin, MalachiteMoa, nkkarpov, Spieler42	1	6	30
-508631	3	25	Up or Down (5 Suits)	2021-04-21 — 19:12:00 UTC	bjnh, MalachiteMoa, nkkarpov	88	5	25
+508631	3	25	Up or Down (5 Suits)	2021-04-21 — 19:12:00 UTC	bjnh, MalachiteMoa, nkkarpov	89	5	25
 508581	4	30	Light Pink (6 Suits)	2021-04-21 — 18:06:22 UTC	bjnh, ChristopheAF, MangoPie, nkkarpov	7	6	30
-508562	3	30	Up or Down & Rainbow (6 Suits)	2021-04-21 — 17:38:47 UTC	ChristopheAF, nkkarpov, orucsoraihc	28	6	30
-508096	3	25	No Variant	2021-04-21 — 02:49:35 UTC	nkkarpov, otterful, torp	130	5	25
-508085	3	0	No Variant	2021-04-21 — 02:38:10 UTC	nkkarpov, otterful, torp	134	5	25
-508079	3	0	No Variant	2021-04-21 — 02:31:45 UTC	nkkarpov, otterful, torp	141	5	25
-508062	3	0	No Variant	2021-04-21 — 02:20:50 UTC	nkkarpov, otterful, torp	213	5	25
-508052	3	24	No Variant	2021-04-21 — 02:07:04 UTC	nkkarpov, otterful, torp	285	5	25
+508562	3	30	Up or Down & Rainbow (6 Suits)	2021-04-21 — 17:38:47 UTC	ChristopheAF, nkkarpov, orucsoraihc	30	6	30
+508096	3	25	No Variant	2021-04-21 — 02:49:35 UTC	nkkarpov, otterful, torp	135	5	25
+508085	3	0	No Variant	2021-04-21 — 02:38:10 UTC	nkkarpov, otterful, torp	140	5	25
+508079	3	0	No Variant	2021-04-21 — 02:31:45 UTC	nkkarpov, otterful, torp	145	5	25
+508062	3	0	No Variant	2021-04-21 — 02:20:50 UTC	nkkarpov, otterful, torp	218	5	25
+508052	3	24	No Variant	2021-04-21 — 02:07:04 UTC	nkkarpov, otterful, torp	287	5	25
 507794	3	0	Dark Rainbow (5 Suits)	2021-04-20 — 20:18:34 UTC	kunyavskiy, nkkarpov, SergeyMelnikov	21	5	25
-507759	3	23	Dark Rainbow (5 Suits)	2021-04-20 — 19:44:47 UTC	kunyavskiy, nkkarpov, SergeyMelnikov	35	5	25
+507759	3	23	Dark Rainbow (5 Suits)	2021-04-20 — 19:44:47 UTC	kunyavskiy, nkkarpov, SergeyMelnikov	36	5	25
 507697	3	24	Gray Pink (5 Suits)	2021-04-20 — 18:00:01 UTC	ChristopheAF, nkkarpov, Wittvector	5	5	25
 507674	3	0	Gray Pink (5 Suits)	2021-04-20 — 17:33:16 UTC	ChristopheAF, nkkarpov, Wittvector	5	5	25
 507664	3	0	Gray Pink (5 Suits)	2021-04-20 — 17:25:07 UTC	ChristopheAF, nkkarpov, Wittvector	3	5	25
@@ -58,21 +101,21 @@
 505776	3	0	Null (5 Suits)	2021-04-18 — 21:36:54 UTC	jeff10, knaphill, nkkarpov	54	5	25
 501375	4	0	Pink (5 Suits)	2021-04-15 — 00:01:50 UTC	ADrone, IsabeltheCat, nkkarpov, wolfpack	23	5	25
 501364	4	0	Pink (5 Suits)	2021-04-14 — 23:50:33 UTC	ADrone, IsabeltheCat, nkkarpov, wolfpack	26	5	25
-501354	4	0	Pink (5 Suits)	2021-04-14 — 23:44:59 UTC	ADrone, IsabeltheCat, nkkarpov, wolfpack	34	5	25
+501354	4	0	Pink (5 Suits)	2021-04-14 — 23:44:59 UTC	ADrone, IsabeltheCat, nkkarpov, wolfpack	35	5	25
 501323	4	30	White (6 Suits)	2021-04-14 — 23:23:20 UTC	ADrone, colton, IsabeltheCat, nkkarpov	14	6	30
-501306	4	0	White (6 Suits)	2021-04-14 — 22:58:56 UTC	ADrone, colton, IsabeltheCat, nkkarpov	16	6	30
+501306	4	0	White (6 Suits)	2021-04-14 — 22:58:56 UTC	ADrone, colton, IsabeltheCat, nkkarpov	17	6	30
 501291	5	23	Ambiguous & Rainbow (5 Suits)	2021-04-14 — 22:31:12 UTC	cockdestroyer, colton, jack67889, nkkarpov, wump	2	5	25
 501269	3	0	Ambiguous & Rainbow (5 Suits)	2021-04-14 — 21:58:24 UTC	cockdestroyer, jack67889, nkkarpov	9	5	25
 501254	3	0	Ambiguous & Rainbow (5 Suits)	2021-04-14 — 21:44:37 UTC	cockdestroyer, jack67889, nkkarpov	13	5	25
 500651	3	30	Dark Brown (6 Suits)	2021-04-14 — 04:38:28 UTC	griff77, IsabeltheCat, nkkarpov	20	6	30
-500623	3	20	Rainbow & Pink (4 Suits)	2021-04-14 — 04:10:16 UTC	griff77, IsabeltheCat, nkkarpov	14	4	20
+500623	3	20	Rainbow & Pink (4 Suits)	2021-04-14 — 04:10:16 UTC	griff77, IsabeltheCat, nkkarpov	16	4	20
 500596	3	20	Omni (4 Suits)	2021-04-14 — 03:53:38 UTC	griff77, IsabeltheCat, nkkarpov	12	4	20
 500566	3	0	Omni (4 Suits)	2021-04-14 — 03:39:16 UTC	griff77, IsabeltheCat, nkkarpov	15	4	20
 500543	3	0	Omni (4 Suits)	2021-04-14 — 03:26:08 UTC	griff77, IsabeltheCat, nkkarpov	21	4	20
-500512	3	19	Omni (4 Suits)	2021-04-14 — 03:02:51 UTC	griff77, IsabeltheCat, nkkarpov	29	4	20
-500336	5	0	Dark Brown (6 Suits)	2021-04-13 — 23:50:25 UTC	DarthGandalf, IsabeltheCat, kevincaseytdk1, knaphill, nkkarpov	8	6	30
+500512	3	19	Omni (4 Suits)	2021-04-14 — 03:02:51 UTC	griff77, IsabeltheCat, nkkarpov	30	4	20
+500336	5	0	Dark Brown (6 Suits)	2021-04-13 — 23:50:25 UTC	DarthGandalf, IsabeltheCat, kevincaseytdk1, knaphill, nkkarpov	9	6	30
 500228	5	30	White-Ones & Prism (6 Suits)	2021-04-13 — 22:14:52 UTC	HelanaAshryvr, indego, Lanvin, melwen, nkkarpov	1	6	30
-497673	2	25	Prism (5 Suits)	2021-04-11 — 22:44:30 UTC	DarthGandalf, nkkarpov	95	5	25
+497673	2	25	Prism (5 Suits)	2021-04-11 — 22:44:30 UTC	DarthGandalf, nkkarpov	98	5	25
 486786	5	0	Rainbow & Light Pink (6 Suits)	2021-03-31 — 21:50:54 UTC	kimbifille, MangoPie, newduke, Nitrate, nkkarpov	3	6	30
 486426	4	19	Omni (4 Suits)	2021-03-31 — 15:58:20 UTC	HelanaAshryvr, kinkajusrevenge, nkkarpov, Sucubis	4	4	20
 486418	4	0	Omni (4 Suits)	2021-03-31 — 15:36:27 UTC	HelanaAshryvr, kinkajusrevenge, nkkarpov, Sucubis	5	4	20
@@ -93,12 +136,12 @@
 484009	4	0	Dark Rainbow (5 Suits)	2021-03-29 — 00:52:16 UTC	IsabeltheCat, ksfortson, nkkarpov, timotree	13	5	25
 483921	3	30	Pink (6 Suits)	2021-03-28 — 22:43:16 UTC	IsabeltheCat, nkkarpov, StKildaFan	70	6	30
 483693	4	25	Prism (5 Suits)	2021-03-28 — 20:00:15 UTC	DarkenedOrigins, DarthGandalf, Fey, nkkarpov	2	5	25
-483611	3	25	No Variant	2021-03-28 — 18:48:50 UTC	nkkarpov, PotatoLatte, tysathem	624	5	25
+483611	3	25	No Variant	2021-03-28 — 18:48:50 UTC	nkkarpov, PotatoLatte, tysathem	632	5	25
 483214	5	28	Rainbow & Dark Prism (6 Suits)	2021-03-28 — 06:15:34 UTC	Bot-Fiora, griff77, ksfortson, nkkarpov, qqqq	2	6	30
 483185	4	0	Black & Dark Prism (6 Suits)	2021-03-28 — 05:35:01 UTC	Bot-Fiora, griff77, ksfortson, nkkarpov	7	6	30
 483092	3	26	Black & Dark Prism (6 Suits)	2021-03-28 — 04:44:49 UTC	Bot-Fiora, griff77, nkkarpov	2	6	30
 483066	3	0	Black & Dark Prism (6 Suits)	2021-03-28 — 04:14:13 UTC	Bot-Fiora, griff77, nkkarpov	2	6	30
-478226	3	15	Rainbow (3 Suits)	2021-03-23 — 20:16:20 UTC	kopen, newduke, nkkarpov	43	3	15
+478226	3	15	Rainbow (3 Suits)	2021-03-23 — 20:16:20 UTC	kopen, newduke, nkkarpov	44	3	15
 477278	4	21	Brown (5 Suits)	2021-03-22 — 22:05:47 UTC	Arcee, MangoPie, newduke, nkkarpov	2	5	25
 477239	3	21	Brown (5 Suits)	2021-03-22 — 21:39:45 UTC	MangoPie, newduke, nkkarpov	31	5	25
 477200	4	0	White (4 Suits)	2021-03-22 — 21:16:48 UTC	MangoPie, newduke, nkkarpov, Wittvector	13	4	20
@@ -107,15 +150,15 @@
 475308	4	0	White & Brown (6 Suits)	2021-03-21 — 01:42:16 UTC	griff77, nkkarpov, otterful, vEnhance	6	6	30
 475291	4	0	White & Brown (6 Suits)	2021-03-21 — 01:16:34 UTC	griff77, nkkarpov, otterful, vEnhance	9	6	30
 474954	5	0	Omni (6 Suits)	2021-03-20 — 19:40:57 UTC	Aluap, indego, newduke, Nitrate, nkkarpov	8	6	30
-474930	5	0	No Variant	2021-03-20 — 19:06:49 UTC	Aluap, indego, mehdi_safi, Nitrate, nkkarpov	100	5	25
+474930	5	0	No Variant	2021-03-20 — 19:06:49 UTC	Aluap, indego, mehdi_safi, Nitrate, nkkarpov	102	5	25
 474893	3	0	Null-Ones (5 Suits)	2021-03-20 — 18:12:50 UTC	griff77, nkkarpov, Wittvector	12	5	25
 474865	6	29	Rainbow (6 Suits)	2021-03-20 — 17:31:48 UTC	dancherp, DarthGandalf, knaphill, ksfortson, nkkarpov, possum	33	6	30
 474841	6	0	Rainbow (6 Suits)	2021-03-20 — 16:51:11 UTC	dancherp, DarthGandalf, knaphill, ksfortson, nkkarpov, possum	60	6	30
-474827	4	0	White (6 Suits)	2021-03-20 — 16:24:53 UTC	DarthGandalf, nkkarpov, possum, qqqq	20	6	30
+474827	4	0	White (6 Suits)	2021-03-20 — 16:24:53 UTC	DarthGandalf, nkkarpov, possum, qqqq	22	6	30
 472854	4	30	Black (6 Suits)	2021-03-18 — 22:11:28 UTC	Damian000, DarthGandalf, Denchulitas, nkkarpov	42	6	30
-472785	4	26	Black (6 Suits)	2021-03-18 — 21:33:59 UTC	Damian000, DarthGandalf, Denchulitas, nkkarpov	45	6	30
+472785	4	26	Black (6 Suits)	2021-03-18 — 21:33:59 UTC	Damian000, DarthGandalf, Denchulitas, nkkarpov	46	6	30
 472736	4	0	Black (6 Suits)	2021-03-18 — 21:05:56 UTC	Damian000, DarthGandalf, Denchulitas, nkkarpov	49	6	30
-472705	5	24	Black (6 Suits)	2021-03-18 — 20:45:56 UTC	Aluap, HariKrishnan, nkkarpov, NumerateClutter, rahsosprout	101	6	30
+472705	5	24	Black (6 Suits)	2021-03-18 — 20:45:56 UTC	Aluap, HariKrishnan, nkkarpov, NumerateClutter, rahsosprout	103	6	30
 472264	4	0	Dual-Color & White (6 Suits)	2021-03-18 — 06:02:18 UTC	corys, Fey, nkkarpov, xor	6	6	30
 472255	4	0	Dual-Color & White (6 Suits)	2021-03-18 — 05:38:07 UTC	corys, Fey, nkkarpov, xor	6	6	30
 471997	3	25	Special Mix (5 Suits)	2021-03-18 — 01:04:34 UTC	ChristopheAF, MangoPie, nkkarpov	1	5	25
@@ -123,13 +166,13 @@
 471878	3	24	Black & Dark Prism (6 Suits)	2021-03-17 — 22:53:33 UTC	darnley, kunyavskiy, nkkarpov	2	6	30
 471814	3	26	Black & Dark Prism (6 Suits)	2021-03-17 — 22:01:31 UTC	darnley, kunyavskiy, nkkarpov	2	6	30
 470606	3	22	Dark Rainbow (5 Suits)	2021-03-16 — 23:09:24 UTC	knaphill, nkkarpov, Onen	24	5	25
-470597	3	0	Dark Rainbow (5 Suits)	2021-03-16 — 22:56:19 UTC	knaphill, nkkarpov, Onen	24	5	25
+470597	3	0	Dark Rainbow (5 Suits)	2021-03-16 — 22:56:19 UTC	knaphill, nkkarpov, Onen	25	5	25
 470590	5	30	Light Pink (6 Suits)	2021-03-16 — 22:43:06 UTC	bjnh, knaphill, Nitrate, nkkarpov, Onen	7	6	30
-470501	3	0	No Variant	2021-03-16 — 21:50:08 UTC	knaphill, nkkarpov, Spieler42	111	5	25
-470469	3	0	No Variant	2021-03-16 — 21:31:42 UTC	knaphill, nkkarpov, Spieler42	114	5	25
-470443	3	24	No Variant	2021-03-16 — 21:15:45 UTC	knaphill, nkkarpov, Spieler42	121	5	25
-470429	2	0	No Variant	2021-03-16 — 20:58:58 UTC	nkkarpov, Spieler42	357	5	25
-470420	2	0	No Variant	2021-03-16 — 20:55:38 UTC	nkkarpov, Spieler42	362	5	25
+470501	3	0	No Variant	2021-03-16 — 21:50:08 UTC	knaphill, nkkarpov, Spieler42	116	5	25
+470469	3	0	No Variant	2021-03-16 — 21:31:42 UTC	knaphill, nkkarpov, Spieler42	120	5	25
+470443	3	24	No Variant	2021-03-16 — 21:15:45 UTC	knaphill, nkkarpov, Spieler42	127	5	25
+470429	2	0	No Variant	2021-03-16 — 20:58:58 UTC	nkkarpov, Spieler42	362	5	25
+470420	2	0	No Variant	2021-03-16 — 20:55:38 UTC	nkkarpov, Spieler42	368	5	25
 470274	4	21	Black (5 Suits)	2021-03-16 — 18:34:53 UTC	Aluap, IsabeltheCat, knaphill, nkkarpov	15	5	25
 470263	5	20	Black (5 Suits)	2021-03-16 — 18:10:02 UTC	Aluap, fowill, IsabeltheCat, knaphill, nkkarpov	20	5	25
 469896	5	0	White-Ones & Light Pink (4 Suits)	2021-03-16 — 05:07:14 UTC	Bot-Fiora, griff77, kinkajusrevenge, ksfortson, nkkarpov	1	4	20
@@ -148,37 +191,37 @@
 469448	4	0	Brown (6 Suits)	2021-03-15 — 22:18:53 UTC	DarthGandalf, knaphill, nkkarpov, rahsosprout	16	6	30
 469436	4	0	Brown (6 Suits)	2021-03-15 — 22:03:28 UTC	DarthGandalf, knaphill, nkkarpov, rahsosprout	17	6	30
 469396	5	24	Pink (5 Suits)	2021-03-15 — 21:38:50 UTC	DarthGandalf, Denchulitas, knaphill, nkkarpov, rahsosprout	14	5	25
-469289	3	0	No Variant	2021-03-15 — 20:13:23 UTC	griff77, nkkarpov, Rapanden	801	5	25
-468392	3	28	Brown (6 Suits)	2021-03-14 — 21:50:19 UTC	darnley, kunyavskiy, nkkarpov	25	6	30
-468342	3	30	Brown (6 Suits)	2021-03-14 — 21:12:22 UTC	darnley, kunyavskiy, nkkarpov	26	6	30
+469289	3	0	No Variant	2021-03-15 — 20:13:23 UTC	griff77, nkkarpov, Rapanden	809	5	25
+468392	3	28	Brown (6 Suits)	2021-03-14 — 21:50:19 UTC	darnley, kunyavskiy, nkkarpov	26	6	30
+468342	3	30	Brown (6 Suits)	2021-03-14 — 21:12:22 UTC	darnley, kunyavskiy, nkkarpov	27	6	30
 468293	3	0	Light Pink (3 Suits)	2021-03-14 — 20:27:04 UTC	colton, nkkarpov, Onen	1	3	15
 468291	3	12	Light Pink (3 Suits)	2021-03-14 — 20:23:51 UTC	colton, nkkarpov, Onen	1	3	15
-467597	4	24	Rainbow (5 Suits)	2021-03-14 — 03:38:43 UTC	griff77, mestrepoke, nkkarpov, possum	29	5	25
+467597	4	24	Rainbow (5 Suits)	2021-03-14 — 03:38:43 UTC	griff77, mestrepoke, nkkarpov, possum	30	5	25
 467474	4	0	Rainbow (5 Suits)	2021-03-14 — 02:46:50 UTC	griff77, mestrepoke, nkkarpov, possum	42	5	25
 467411	4	0	Rainbow (5 Suits)	2021-03-14 — 02:08:57 UTC	griff77, mestrepoke, nkkarpov, possum	63	5	25
-467391	3	0	No Variant	2021-03-14 — 01:53:10 UTC	mestrepoke, nkkarpov, username5	840	5	25
-466859	3	0	Brown (6 Suits)	2021-03-13 — 18:20:20 UTC	dmigor3, Kowalski1337, nkkarpov	31	6	30
-466839	3	30	6 Suits	2021-03-13 — 17:53:58 UTC	Bonja97, Daryl, nkkarpov	196	6	30
+467391	3	0	No Variant	2021-03-14 — 01:53:10 UTC	mestrepoke, nkkarpov, username5	849	5	25
+466859	3	0	Brown (6 Suits)	2021-03-13 — 18:20:20 UTC	dmigor3, Kowalski1337, nkkarpov	33	6	30
+466839	3	30	6 Suits	2021-03-13 — 17:53:58 UTC	Bonja97, Daryl, nkkarpov	199	6	30
 466819	6	0	Brown (6 Suits)	2021-03-13 — 17:23:52 UTC	Bot-Fiora, Daryl, indego, kevincaseytdk1, newduke, nkkarpov	8	6	30
-466476	2	25	No Variant	2021-03-13 — 05:09:47 UTC	alina239, nkkarpov	406	5	25
-466461	2	24	No Variant	2021-03-13 — 04:58:37 UTC	alina239, nkkarpov	411	5	25
-466393	3	0	Gray (6 Suits)	2021-03-13 — 03:57:35 UTC	Nitrate, nkkarpov, rz	55	6	30
-466349	4	30	Brown (6 Suits)	2021-03-13 — 03:22:59 UTC	kevincaseytdk1, Nitrate, nkkarpov, rz	14	6	30
-466317	3	29	Brown (6 Suits)	2021-03-13 — 02:52:24 UTC	kevincaseytdk1, Nitrate, nkkarpov	40	6	30
-466120	3	23	No Variant	2021-03-13 — 00:03:52 UTC	griff77, nkkarpov, username5	1017	5	25
+466476	2	25	No Variant	2021-03-13 — 05:09:47 UTC	alina239, nkkarpov	413	5	25
+466461	2	24	No Variant	2021-03-13 — 04:58:37 UTC	alina239, nkkarpov	418	5	25
+466393	3	0	Gray (6 Suits)	2021-03-13 — 03:57:35 UTC	Nitrate, nkkarpov, rz	57	6	30
+466349	4	30	Brown (6 Suits)	2021-03-13 — 03:22:59 UTC	kevincaseytdk1, Nitrate, nkkarpov, rz	15	6	30
+466317	3	29	Brown (6 Suits)	2021-03-13 — 02:52:24 UTC	kevincaseytdk1, Nitrate, nkkarpov	41	6	30
+466120	3	23	No Variant	2021-03-13 — 00:03:52 UTC	griff77, nkkarpov, username5	1026	5	25
 464374	5	20	Brown (4 Suits)	2021-03-11 — 05:11:24 UTC	Bot-Fiora, griff77, ksfortson, nkkarpov, otterful	5	4	20
 464348	5	0	Brown (4 Suits)	2021-03-11 — 04:49:16 UTC	Bot-Fiora, griff77, ksfortson, nkkarpov, otterful	7	4	20
 464326	5	17	Brown (4 Suits)	2021-03-11 — 04:20:01 UTC	Bot-Fiora, griff77, ksfortson, nkkarpov, otterful	7	4	20
 464303	5	23	White & Brown (5 Suits)	2021-03-11 — 03:45:00 UTC	griff77, ksfortson, nkkarpov, otterful, torp	6	5	25
 464275	5	25	No Variant	2021-03-11 — 03:08:53 UTC	chris-hamper, griff77, ksfortson, nkkarpov, otterful	22	5	25
-463887	3	30	Brown (6 Suits)	2021-03-10 — 21:05:20 UTC	darnley, kunyavskiy, nkkarpov	52	6	30
+463887	3	30	Brown (6 Suits)	2021-03-10 — 21:05:20 UTC	darnley, kunyavskiy, nkkarpov	53	6	30
 463844	3	29	Brown (6 Suits)	2021-03-10 — 20:30:31 UTC	darnley, kunyavskiy, nkkarpov	61	6	30
 463808	3	27	Brown (6 Suits)	2021-03-10 — 19:50:10 UTC	darnley, kunyavskiy, nkkarpov	84	6	30
-463319	3	30	Prism (6 Suits)	2021-03-10 — 05:13:59 UTC	flaaffy, nkkarpov, nwajfromoz	60	6	30
+463319	3	30	Prism (6 Suits)	2021-03-10 — 05:13:59 UTC	flaaffy, nkkarpov, nwajfromoz	61	6	30
 463281	3	20	Rainbow & Brown (5 Suits)	2021-03-10 — 04:36:11 UTC	kinkajusrevenge, nkkarpov, wump	25	5	25
 463210	4	29	Pink & Brown (6 Suits)	2021-03-10 — 03:30:12 UTC	Damian000, louietyj, nkkarpov, rahsosprout	8	6	30
 463176	4	0	Pink & Brown (6 Suits)	2021-03-10 — 02:58:25 UTC	Damian000, louietyj, nkkarpov, rahsosprout	6	6	30
-463149	3	0	Brown (5 Suits)	2021-03-10 — 02:36:35 UTC	louietyj, nkkarpov, rahsosprout	39	5	25
+463149	3	0	Brown (5 Suits)	2021-03-10 — 02:36:35 UTC	louietyj, nkkarpov, rahsosprout	41	5	25
 463076	4	0	Cocoa Rainbow (5 Suits)	2021-03-10 — 01:31:35 UTC	dobi, HelanaAshryvr, nkkarpov, rahsosprout	15	5	25
 460989	5	23	Muddy Rainbow (5 Suits)	2021-03-08 — 03:04:28 UTC	griff77, IsabeltheCat, kopen, ksfortson, nkkarpov	9	5	25
 460931	4	23	Muddy Rainbow (5 Suits)	2021-03-08 — 02:18:55 UTC	corys, griff77, ksfortson, nkkarpov	23	5	25
@@ -186,10 +229,10 @@
 460474	3	24	Black & Dark Prism (6 Suits)	2021-03-07 — 21:14:36 UTC	darnley, kunyavskiy, nkkarpov	2	6	30
 460367	4	25	Black & White (6 Suits)	2021-03-07 — 20:04:40 UTC	CaitlinSmith, Denchulitas, nkkarpov, orucsoraihc	13	6	30
 460328	4	26	Black & White (6 Suits)	2021-03-07 — 19:36:19 UTC	CaitlinSmith, Denchulitas, nkkarpov, orucsoraihc	16	6	30
-459302	3	0	Pink (6 Suits)	2021-03-06 — 22:54:06 UTC	Bot-Fiora, MangoPie, nkkarpov	131	6	30
-459271	5	20	No Variant	2021-03-06 — 22:32:14 UTC	Bot-Fiora, dancherp, kopen, MangoPie, nkkarpov	143	5	25
+459302	3	0	Pink (6 Suits)	2021-03-06 — 22:54:06 UTC	Bot-Fiora, MangoPie, nkkarpov	132	6	30
+459271	5	20	No Variant	2021-03-06 — 22:32:14 UTC	Bot-Fiora, dancherp, kopen, MangoPie, nkkarpov	145	5	25
 459225	5	0	Brown & Dark Prism (6 Suits)	2021-03-06 — 21:59:55 UTC	asaelr, Bot-Fiora, kopen, newduke, nkkarpov	2	6	30
-458973	5	30	Brown & Muddy Rainbow (6 Suits)	2021-03-06 — 18:18:06 UTC	indego, kopen, nkkarpov, rz, wump	2	6	30
+458973	5	30	Brown & Muddy Rainbow (6 Suits)	2021-03-06 — 18:18:06 UTC	indego, kopen, nkkarpov, rz, wump	3	6	30
 458951	5	0	Brown & Muddy Rainbow (6 Suits)	2021-03-06 — 17:49:16 UTC	indego, kopen, nkkarpov, rz, wump	3	6	30
 458943	4	25	Prism & Gray (5 Suits)	2021-03-06 — 17:28:11 UTC	indego, kopen, nkkarpov, rz	1	5	25
 458934	4	0	Prism & Gray (5 Suits)	2021-03-06 — 17:09:55 UTC	indego, kopen, nkkarpov, rz	1	5	25
@@ -201,17 +244,17 @@
 458222	3	24	White-Ones & Brown (5 Suits)	2021-03-06 — 00:33:47 UTC	ksfortson, nkkarpov, torp	7	5	25
 458200	3	0	White-Ones & Brown (5 Suits)	2021-03-06 — 00:08:06 UTC	ksfortson, nkkarpov, torp	8	5	25
 458166	4	25	No Variant	2021-03-05 — 23:47:56 UTC	HariKrishnan, ksfortson, nkkarpov, torp	32	5	25
-458124	3	25	No Variant	2021-03-05 — 23:22:26 UTC	HariKrishnan, ksfortson, nkkarpov	89	5	25
-455665	3	25	Brown-Ones & Brown (5 Suits)	2021-03-03 — 22:35:51 UTC	nkkarpov, rahsosprout, torp	3	5	25
-455650	3	0	Brown-Ones & Brown (5 Suits)	2021-03-03 — 22:21:19 UTC	nkkarpov, rahsosprout, torp	4	5	25
+458124	3	25	No Variant	2021-03-05 — 23:22:26 UTC	HariKrishnan, ksfortson, nkkarpov	91	5	25
+455665	3	25	Brown-Ones & Brown (5 Suits)	2021-03-03 — 22:35:51 UTC	nkkarpov, rahsosprout, torp	4	5	25
+455650	3	0	Brown-Ones & Brown (5 Suits)	2021-03-03 — 22:21:19 UTC	nkkarpov, rahsosprout, torp	5	5	25
 455610	4	27	Throw It in a Hole (6 Suits)	2021-03-03 — 21:47:54 UTC	darnley, kunyavskiy, nkkarpov, SergeyMelnikov	7	6	30
 455556	4	29	Throw It in a Hole (6 Suits)	2021-03-03 — 20:37:14 UTC	darnley, kunyavskiy, nkkarpov, SergeyMelnikov	15	6	30
-454514	3	23	Dark Rainbow (5 Suits)	2021-03-02 — 21:43:43 UTC	darnley, kunyavskiy, nkkarpov	36	5	25
-454451	3	23	Dark Rainbow (5 Suits)	2021-03-02 — 21:11:57 UTC	darnley, kunyavskiy, nkkarpov	48	5	25
-454388	3	23	Dark Rainbow (5 Suits)	2021-03-02 — 20:34:11 UTC	darnley, kunyavskiy, nkkarpov	52	5	25
+454514	3	23	Dark Rainbow (5 Suits)	2021-03-02 — 21:43:43 UTC	darnley, kunyavskiy, nkkarpov	38	5	25
+454451	3	23	Dark Rainbow (5 Suits)	2021-03-02 — 21:11:57 UTC	darnley, kunyavskiy, nkkarpov	49	5	25
+454388	3	23	Dark Rainbow (5 Suits)	2021-03-02 — 20:34:11 UTC	darnley, kunyavskiy, nkkarpov	53	5	25
 452873	5	29	Rainbow (6 Suits)	2021-03-01 — 05:44:05 UTC	corys, Lel0uch, nkkarpov, torp, xor	42	6	30
-452847	5	29	Rainbow (6 Suits)	2021-03-01 — 05:04:50 UTC	corys, Lel0uch, nkkarpov, torp, xor	59	6	30
-452748	5	0	Ambiguous (6 Suits)	2021-03-01 — 03:48:47 UTC	griff77, ksfortson, nkkarpov, otterful, torp	8	6	30
+452847	5	29	Rainbow (6 Suits)	2021-03-01 — 05:04:50 UTC	corys, Lel0uch, nkkarpov, torp, xor	60	6	30
+452748	5	0	Ambiguous (6 Suits)	2021-03-01 — 03:48:47 UTC	griff77, ksfortson, nkkarpov, otterful, torp	9	6	30
 452712	5	0	Ambiguous (6 Suits)	2021-03-01 — 03:13:46 UTC	griff77, ksfortson, nkkarpov, otterful, torp	9	6	30
 452677	5	26	Ambiguous (6 Suits)	2021-03-01 — 02:51:57 UTC	griff77, ksfortson, nkkarpov, otterful, torp	12	6	30
 452592	6	0	White & Light Pink (5 Suits)	2021-03-01 — 01:50:10 UTC	HelanaAshryvr, kimbifille, Lanvin, melwen, nkkarpov, scharkbite	1	5	25
@@ -229,8 +272,8 @@
 450159	4	0	White-Ones & White (5 Suits)	2021-02-26 — 21:57:25 UTC	CaitlinSmith, Daryl, nkkarpov, torp	3	5	25
 450145	4	24	White-Ones & White (5 Suits)	2021-02-26 — 21:47:01 UTC	CaitlinSmith, Daryl, nkkarpov, torp	6	5	25
 449290	3	0	Cocoa Rainbow (6 Suits)	2021-02-25 — 23:26:42 UTC	BraydonM, melwen, nkkarpov	12	6	30
-449235	3	12	Dual-Color (3 Suits)	2021-02-25 — 23:01:00 UTC	bjnh, BraydonM, nkkarpov	16	3	15
-449218	3	0	Dual-Color (3 Suits)	2021-02-25 — 22:51:07 UTC	bjnh, BraydonM, nkkarpov	30	3	15
+449235	3	12	Dual-Color (3 Suits)	2021-02-25 — 23:01:00 UTC	bjnh, BraydonM, nkkarpov	18	3	15
+449218	3	0	Dual-Color (3 Suits)	2021-02-25 — 22:51:07 UTC	bjnh, BraydonM, nkkarpov	32	3	15
 449173	3	29	White (6 Suits)	2021-02-25 — 22:19:56 UTC	ChristopheAF, Nitrate, nkkarpov	13	6	30
 449122	3	0	White (6 Suits)	2021-02-25 — 21:55:10 UTC	ChristopheAF, Nitrate, nkkarpov	18	6	30
 449076	5	23	Black (5 Suits)	2021-02-25 — 21:33:18 UTC	4head, ChristopheAF, Lanvin, Nitrate, nkkarpov	13	5	25
@@ -243,14 +286,14 @@
 448124	5	0	Omni-Fives & Prism (5 Suits)	2021-02-24 — 23:17:40 UTC	colton, indego, kevincaseytdk1, Lanvin, nkkarpov	1	5	25
 447943	4	25	Rainbow & Light Pink (5 Suits)	2021-02-24 — 20:11:18 UTC	4head, hakha3, MangoPie, nkkarpov	7	5	25
 447847	3	0	Totally Blind (5 Suits)	2021-02-24 — 18:37:51 UTC	knaphill, nkkarpov, Spieler42	14	5	25
-447836	3	25	No Variant	2021-02-24 — 18:23:27 UTC	knaphill, nkkarpov, Spieler42	137	5	25
-447823	3	24	No Variant	2021-02-24 — 18:02:00 UTC	knaphill, nkkarpov, Spieler42	151	5	25
+447836	3	25	No Variant	2021-02-24 — 18:23:27 UTC	knaphill, nkkarpov, Spieler42	142	5	25
+447823	3	24	No Variant	2021-02-24 — 18:02:00 UTC	knaphill, nkkarpov, Spieler42	153	5	25
 447547	5	23	Rainbow-Ones (5 Suits)	2021-02-24 — 06:34:55 UTC	BraydonM, dobi, indego, Lel0uch, nkkarpov	1	5	25
 447518	5	0	Rainbow-Ones (5 Suits)	2021-02-24 — 06:05:17 UTC	BraydonM, dobi, indego, Lel0uch, nkkarpov	2	5	25
 447505	5	0	Rainbow-Ones (5 Suits)	2021-02-24 — 05:46:55 UTC	BraydonM, dobi, indego, Lel0uch, nkkarpov	6	5	25
 447495	5	0	Rainbow-Ones (5 Suits)	2021-02-24 — 05:32:12 UTC	BraydonM, dobi, indego, Lel0uch, nkkarpov	5	5	25
 447490	5	0	Rainbow-Ones (5 Suits)	2021-02-24 — 05:22:55 UTC	BraydonM, dobi, indego, Lel0uch, nkkarpov	7	5	25
-447478	3	22	Rainbow & Gray (5 Suits)	2021-02-24 — 05:09:13 UTC	dobi, Lel0uch, nkkarpov	3	5	25
+447478	3	22	Rainbow & Gray (5 Suits)	2021-02-24 — 05:09:13 UTC	dobi, Lel0uch, nkkarpov	4	5	25
 447454	3	0	Rainbow & Gray (5 Suits)	2021-02-24 — 04:45:56 UTC	dobi, Lel0uch, nkkarpov	5	5	25
 447361	4	0	Pink & Brown (6 Suits)	2021-02-24 — 03:33:06 UTC	caña, griff77, nkkarpov, rahsosprout	13	6	30
 447349	4	0	Pink & Brown (6 Suits)	2021-02-24 — 03:21:29 UTC	caña, griff77, nkkarpov, rahsosprout	13	6	30
@@ -273,19 +316,19 @@
 443304	4	0	Brown-Ones & Prism (6 Suits)	2021-02-20 — 19:03:15 UTC	duckless, Lanvin, nkkarpov, VerySloppyTwo	1	6	30
 443289	4	0	Brown-Ones & Prism (6 Suits)	2021-02-20 — 18:49:43 UTC	duckless, Lanvin, nkkarpov, VerySloppyTwo	1	6	30
 443231	3	20	Light Pink (4 Suits)	2021-02-20 — 17:28:23 UTC	griff77, nkkarpov, robense	12	4	20
-443223	3	0	Light Pink (4 Suits)	2021-02-20 — 17:08:51 UTC	griff77, nkkarpov, robense	21	4	20
+443223	3	0	Light Pink (4 Suits)	2021-02-20 — 17:08:51 UTC	griff77, nkkarpov, robense	22	4	20
 442929	4	0	Dark Rainbow (6 Suits)	2021-02-20 — 05:48:37 UTC	4head, IsabeltheCat, nkkarpov, rahsosprout	26	6	30
 442906	4	0	Dark Rainbow (6 Suits)	2021-02-20 — 05:22:10 UTC	4head, IsabeltheCat, nkkarpov, rahsosprout	32	6	30
 442884	5	0	Dark Prism (5 Suits)	2021-02-20 — 05:03:43 UTC	4head, IsabeltheCat, nkkarpov, qqqq, rahsosprout	7	5	25
-442819	4	30	Brown (6 Suits)	2021-02-20 — 04:04:09 UTC	4head, Nitrate, nkkarpov, torp	27	6	30
-442783	4	28	Brown (6 Suits)	2021-02-20 — 03:32:40 UTC	4head, Nitrate, nkkarpov, torp	27	6	30
-442757	4	0	Brown (6 Suits)	2021-02-20 — 03:08:05 UTC	4head, Nitrate, nkkarpov, torp	41	6	30
-442588	2	25	No Variant	2021-02-20 — 01:28:36 UTC	alina239, nkkarpov	423	5	25
-442560	2	0	No Variant	2021-02-20 — 01:13:56 UTC	alina239, nkkarpov	432	5	25
-442558	2	0	No Variant	2021-02-20 — 01:13:24 UTC	alina239, nkkarpov	440	5	25
+442819	4	30	Brown (6 Suits)	2021-02-20 — 04:04:09 UTC	4head, Nitrate, nkkarpov, torp	28	6	30
+442783	4	28	Brown (6 Suits)	2021-02-20 — 03:32:40 UTC	4head, Nitrate, nkkarpov, torp	28	6	30
+442757	4	0	Brown (6 Suits)	2021-02-20 — 03:08:05 UTC	4head, Nitrate, nkkarpov, torp	42	6	30
+442588	2	25	No Variant	2021-02-20 — 01:28:36 UTC	alina239, nkkarpov	429	5	25
+442560	2	0	No Variant	2021-02-20 — 01:13:56 UTC	alina239, nkkarpov	439	5	25
+442558	2	0	No Variant	2021-02-20 — 01:13:24 UTC	alina239, nkkarpov	446	5	25
 442539	3	25	White & Brown (5 Suits)	2021-02-20 — 01:01:11 UTC	griff77, nkkarpov, Wittvector	23	5	25
-442422	4	0	Omni (4 Suits)	2021-02-19 — 23:21:39 UTC	bjnh, jeff10, nkkarpov, rahsosprout	11	4	20
-442395	4	0	Omni (4 Suits)	2021-02-19 — 22:58:55 UTC	bjnh, jeff10, nkkarpov, rahsosprout	15	4	20
+442422	4	0	Omni (4 Suits)	2021-02-19 — 23:21:39 UTC	bjnh, jeff10, nkkarpov, rahsosprout	12	4	20
+442395	4	0	Omni (4 Suits)	2021-02-19 — 22:58:55 UTC	bjnh, jeff10, nkkarpov, rahsosprout	16	4	20
 442269	4	29	Dark Rainbow (6 Suits)	2021-02-19 — 21:21:46 UTC	kunyavskiy, nkkarpov, Petr, SergeyMelnikov	4	6	30
 442190	4	0	Dark Rainbow (6 Suits)	2021-02-19 — 20:25:52 UTC	kunyavskiy, nkkarpov, Petr, SergeyMelnikov	7	6	30
 441554	4	18	Rainbow (4 Suits)	2021-02-19 — 03:08:58 UTC	griff77, ksfortson, nkkarpov, wump	14	4	20
@@ -299,13 +342,13 @@
 438903	4	24	White-Ones & Black (5 Suits)	2021-02-16 — 05:53:23 UTC	eljavi, nkkarpov, torp, wump	4	5	25
 438877	5	0	White-Ones & Black (5 Suits)	2021-02-16 — 05:30:19 UTC	eljavi, ksfortson, nkkarpov, torp, wump	1	5	25
 438858	5	20	White-Ones & Black (5 Suits)	2021-02-16 — 05:09:21 UTC	eljavi, ksfortson, nkkarpov, torp, wump	2	5	25
-438822	3	26	Black (6 Suits)	2021-02-16 — 04:14:25 UTC	nkkarpov, poofart123, voss	71	6	30
-438604	3	23	No Variant	2021-02-15 — 23:49:33 UTC	newduke, nkkarpov, wump	58	5	25
+438822	3	26	Black (6 Suits)	2021-02-16 — 04:14:25 UTC	nkkarpov, poofart123, voss	72	6	30
+438604	3	23	No Variant	2021-02-15 — 23:49:33 UTC	newduke, nkkarpov, wump	59	5	25
 437576	4	0	Prism (6 Suits)	2021-02-15 — 00:35:20 UTC	Denchulitas, nkkarpov, padi, sephiroth	22	6	30
 437508	4	0	Brown (5 Suits)	2021-02-14 — 23:27:55 UTC	4head, duckless, Lanvin, nkkarpov	11	5	25
 437492	4	0	Brown (5 Suits)	2021-02-14 — 23:15:54 UTC	4head, duckless, Lanvin, nkkarpov	12	5	25
 437485	4	0	Brown (5 Suits)	2021-02-14 — 23:08:41 UTC	4head, duckless, Lanvin, nkkarpov	14	5	25
-437464	4	23	Brown (5 Suits)	2021-02-14 — 22:55:11 UTC	4head, duckless, Lanvin, nkkarpov	27	5	25
+437464	4	23	Brown (5 Suits)	2021-02-14 — 22:55:11 UTC	4head, duckless, Lanvin, nkkarpov	28	5	25
 437427	4	30	Alternating Clues & Black (6 Suits)	2021-02-14 — 22:26:12 UTC	4head, duckless, Lanvin, nkkarpov	1	6	30
 436307	5	20	Black & Prism (5 Suits)	2021-02-14 — 02:35:28 UTC	griff77, IsabeltheCat, ksfortson, nkkarpov, ricardodd	2	5	25
 436266	5	20	Black & Prism (5 Suits)	2021-02-14 — 01:56:13 UTC	griff77, IsabeltheCat, ksfortson, nkkarpov, ricardodd	2	5	25
@@ -320,9 +363,9 @@
 435876	5	22	White-Ones & White (5 Suits)	2021-02-13 — 19:22:01 UTC	Bot-Fiora, Denchulitas, griff77, nkkarpov, torp	6	5	25
 435857	3	0	Prism (6 Suits)	2021-02-13 — 18:56:03 UTC	Denchulitas, jian01, nkkarpov	16	6	30
 435227	6	30	Black (6 Suits)	2021-02-13 — 04:16:46 UTC	dobi, eljavi, ksfortson, nkkarpov, rz, wump	8	6	30
-435180	3	0	Dark Rainbow (5 Suits)	2021-02-13 — 03:48:09 UTC	dobi, lolthisnotderk, nkkarpov	29	5	25
-435122	3	23	Black (5 Suits)	2021-02-13 — 03:09:35 UTC	nkkarpov, P_BJ5, poofart123	51	5	25
-435093	3	24	Black (5 Suits)	2021-02-13 — 02:44:41 UTC	nkkarpov, P_BJ5, poofart123	74	5	25
+435180	3	0	Dark Rainbow (5 Suits)	2021-02-13 — 03:48:09 UTC	dobi, lolthisnotderk, nkkarpov	30	5	25
+435122	3	23	Black (5 Suits)	2021-02-13 — 03:09:35 UTC	nkkarpov, P_BJ5, poofart123	52	5	25
+435093	3	24	Black (5 Suits)	2021-02-13 — 02:44:41 UTC	nkkarpov, P_BJ5, poofart123	76	5	25
 435060	3	18	Black (5 Suits)	2021-02-13 — 02:19:31 UTC	nkkarpov, P_BJ5, poofart123	101	5	25
 434819	4	28	Dark Rainbow (6 Suits)	2021-02-12 — 22:23:28 UTC	darnley, kunyavskiy, nkkarpov, SergeyMelnikov	4	6	30
 434759	4	28	Dark Rainbow (6 Suits)	2021-02-12 — 21:26:38 UTC	darnley, kunyavskiy, nkkarpov, SergeyMelnikov	4	6	30
@@ -341,25 +384,25 @@
 433771	3	0	White & Prism (5 Suits)	2021-02-12 — 00:34:28 UTC	colton, eljavi, nkkarpov	1	5	25
 433755	3	25	White & Prism (5 Suits)	2021-02-12 — 00:19:35 UTC	colton, eljavi, nkkarpov	1	5	25
 433738	4	0	White & Prism (5 Suits)	2021-02-12 — 00:01:02 UTC	colton, eljavi, nkkarpov, PMP	1	5	25
-433685	3	29	6 Suits	2021-02-11 — 22:57:13 UTC	haleyw4, nkkarpov, poofart123	305	6	30
-433664	3	0	6 Suits	2021-02-11 — 22:31:57 UTC	haleyw4, nkkarpov, poofart123	365	6	30
+433685	3	29	6 Suits	2021-02-11 — 22:57:13 UTC	haleyw4, nkkarpov, poofart123	311	6	30
+433664	3	0	6 Suits	2021-02-11 — 22:31:57 UTC	haleyw4, nkkarpov, poofart123	371	6	30
 433579	4	27	Dark Rainbow (6 Suits)	2021-02-11 — 21:22:57 UTC	darnley, kunyavskiy, nkkarpov, SergeyMelnikov	4	6	30
 433502	5	27	Dark Rainbow (6 Suits)	2021-02-11 — 20:17:51 UTC	darnley, Kowalski1337, kunyavskiy, nkkarpov, SergeyMelnikov	5	6	30
 433135	4	23	Gray (5 Suits)	2021-02-11 — 04:46:28 UTC	4head, bjnh, nkkarpov, torp	27	5	25
-433098	3	0	Gray (5 Suits)	2021-02-11 — 04:21:56 UTC	4head, nkkarpov, torp	37	5	25
+433098	3	0	Gray (5 Suits)	2021-02-11 — 04:21:56 UTC	4head, nkkarpov, torp	39	5	25
 433057	3	0	Black (5 Suits)	2021-02-11 — 03:39:26 UTC	ksfortson, nkkarpov, torp	43	5	25
-433031	3	0	Black (5 Suits)	2021-02-11 — 03:24:10 UTC	ksfortson, nkkarpov, torp	44	5	25
+433031	3	0	Black (5 Suits)	2021-02-11 — 03:24:10 UTC	ksfortson, nkkarpov, torp	45	5	25
 432832	5	0	Dark Rainbow (5 Suits)	2021-02-11 — 00:31:20 UTC	griff77, ksfortson, nkkarpov, rahsosprout, torp	7	5	25
 432800	5	20	Dark Rainbow (5 Suits)	2021-02-10 — 23:51:54 UTC	griff77, ksfortson, nkkarpov, rahsosprout, torp	9	5	25
 432776	5	21	Dark Rainbow (5 Suits)	2021-02-10 — 23:17:11 UTC	griff77, ksfortson, nkkarpov, rahsosprout, torp	9	5	25
 432682	4	27	Dark Rainbow (6 Suits)	2021-02-10 — 21:48:03 UTC	darnley, Kowalski1337, kunyavskiy, nkkarpov	4	6	30
 432623	4	0	Dark Rainbow (6 Suits)	2021-02-10 — 21:06:18 UTC	darnley, kunyavskiy, nkkarpov, SergeyMelnikov	4	6	30
 432600	4	0	Dark Rainbow (6 Suits)	2021-02-10 — 20:52:39 UTC	darnley, kunyavskiy, nkkarpov, SergeyMelnikov	5	6	30
-431994	3	22	Dark Rainbow (5 Suits)	2021-02-10 — 07:19:10 UTC	bjnh, nkkarpov, rahsosprout	31	5	25
+431994	3	22	Dark Rainbow (5 Suits)	2021-02-10 — 07:19:10 UTC	bjnh, nkkarpov, rahsosprout	32	5	25
 431890	5	0	Rainbow & Gray (6 Suits)	2021-02-10 — 04:41:56 UTC	bjnh, melwen, nkkarpov, scharkbite, vEnhance	1	6	30
 431877	5	0	Rainbow & Gray (6 Suits)	2021-02-10 — 04:30:33 UTC	bjnh, melwen, nkkarpov, scharkbite, vEnhance	1	6	30
 431851	6	29	Dark Prism (6 Suits)	2021-02-10 — 04:01:02 UTC	bjnh, frosty104, kimbifille, nkkarpov, pianoblook, vEnhance	4	6	30
-431794	5	20	No Variant	2021-02-10 — 03:13:20 UTC	jian01, nkkarpov, PMP, rahsosprout, wolfpack	344	5	25
+431794	5	20	No Variant	2021-02-10 — 03:13:20 UTC	jian01, nkkarpov, PMP, rahsosprout, wolfpack	348	5	25
 431649	6	27	Black (6 Suits)	2021-02-10 — 00:21:46 UTC	4head, griff77, Lanvin, nkkarpov, Pimak, rahsosprout	7	6	30
 431626	6	27	Black (6 Suits)	2021-02-09 — 23:48:27 UTC	4head, griff77, Lanvin, nkkarpov, Pimak, rahsosprout	8	6	30
 429145	4	0	White (6 Suits)	2021-02-07 — 19:01:15 UTC	CaitlinSmith, Denchulitas, nkkarpov, voss	29	6	30
@@ -368,17 +411,17 @@
 428522	5	0	Gray (6 Suits)	2021-02-07 — 03:24:01 UTC	4head, Denchulitas, eljavi, Lanvin, nkkarpov	9	6	30
 428447	5	30	Brown (6 Suits)	2021-02-07 — 02:15:58 UTC	colton, melwen, nkkarpov, TheDaniMan, voss	10	6	30
 428406	3	0	Pink (5 Suits)	2021-02-07 — 01:32:09 UTC	caña, nkkarpov, otterful	33	5	25
-428388	3	25	Pink (5 Suits)	2021-02-07 — 01:07:47 UTC	caña, nkkarpov, otterful	36	5	25
-428376	3	0	Pink (5 Suits)	2021-02-07 — 00:46:40 UTC	caña, nkkarpov, otterful	43	5	25
+428388	3	25	Pink (5 Suits)	2021-02-07 — 01:07:47 UTC	caña, nkkarpov, otterful	38	5	25
+428376	3	0	Pink (5 Suits)	2021-02-07 — 00:46:40 UTC	caña, nkkarpov, otterful	44	5	25
 427977	4	24	Black (5 Suits)	2021-02-06 — 20:52:29 UTC	Daryl, Feich59, Kowalski1337, nkkarpov	22	5	25
 427946	4	23	Black (5 Suits)	2021-02-06 — 20:25:20 UTC	Daryl, Feich59, Kowalski1337, nkkarpov	32	5	25
 427913	5	0	Dark Rainbow (6 Suits)	2021-02-06 — 19:55:16 UTC	dobi, Feich59, Kyle, nkkarpov, rahsosprout	11	6	30
-427366	4	0	Black (5 Suits)	2021-02-06 — 04:39:52 UTC	4head, joaep2, nkkarpov, rahsosprout	21	5	25
+427366	4	0	Black (5 Suits)	2021-02-06 — 04:39:52 UTC	4head, joaep2, nkkarpov, rahsosprout	22	5	25
 427350	4	24	Black (5 Suits)	2021-02-06 — 04:29:08 UTC	4head, joaep2, nkkarpov, rahsosprout	24	5	25
 427325	3	0	Black (5 Suits)	2021-02-06 — 04:05:54 UTC	joaep2, nkkarpov, rahsosprout	55	5	25
-427301	4	25	No Variant	2021-02-06 — 03:42:38 UTC	Damian000, dobi, griff77, nkkarpov	190	5	25
-427093	3	25	No Variant	2021-02-06 — 01:27:40 UTC	caña, nkkarpov, otterful	1174	5	25
-427065	3	25	No Variant	2021-02-06 — 01:04:18 UTC	caña, nkkarpov, otterful	1465	5	25
+427301	4	25	No Variant	2021-02-06 — 03:42:38 UTC	Damian000, dobi, griff77, nkkarpov	192	5	25
+427093	3	25	No Variant	2021-02-06 — 01:27:40 UTC	caña, nkkarpov, otterful	1180	5	25
+427065	3	25	No Variant	2021-02-06 — 01:04:18 UTC	caña, nkkarpov, otterful	1474	5	25
 427013	3	15	Rainbow & White (3 Suits)	2021-02-06 — 00:14:59 UTC	Lanvin, nkkarpov, ricardodd	25	3	15
 427004	5	0	Rainbow & Brown (6 Suits)	2021-02-06 — 00:07:10 UTC	IsabeltheCat, Lanvin, nkkarpov, ricardodd, sephiroth	5	6	30
 426993	5	0	Rainbow & Brown (6 Suits)	2021-02-05 — 23:56:38 UTC	IsabeltheCat, Lanvin, nkkarpov, ricardodd, sephiroth	7	6	30
@@ -386,118 +429,118 @@
 426936	5	0	White (6 Suits)	2021-02-05 — 23:08:22 UTC	Denchulitas, griff77, IsabeltheCat, nkkarpov, ricardodd	8	6	30
 426867	3	27	Prism (6 Suits)	2021-02-05 — 22:08:31 UTC	ksfortson, narabio, nkkarpov	18	6	30
 426806	3	0	Prism (6 Suits)	2021-02-05 — 21:30:57 UTC	ksfortson, narabio, nkkarpov	18	6	30
-426777	3	20	4 Suits	2021-02-05 — 21:08:37 UTC	ksfortson, narabio, nkkarpov	59	4	20
+426777	3	20	4 Suits	2021-02-05 — 21:08:37 UTC	ksfortson, narabio, nkkarpov	60	4	20
 426706	4	25	Dark Rainbow (6 Suits)	2021-02-05 — 20:13:44 UTC	darnley, kunyavskiy, nkkarpov, SergeyMelnikov	5	6	30
 426654	4	27	Dark Rainbow (6 Suits)	2021-02-05 — 19:30:09 UTC	darnley, kunyavskiy, nkkarpov, SergeyMelnikov	6	6	30
 426618	4	27	Dark Rainbow (6 Suits)	2021-02-05 — 18:50:06 UTC	darnley, kunyavskiy, nkkarpov, SergeyMelnikov	6	6	30
 425121	5	0	Gray (5 Suits)	2021-02-04 — 05:32:02 UTC	4head, griff77, ksfortson, nkkarpov, rahsosprout	7	5	25
 425083	5	23	Gray (5 Suits)	2021-02-04 — 04:52:30 UTC	4head, griff77, ksfortson, nkkarpov, rahsosprout	10	5	25
-425043	4	22	Gray (5 Suits)	2021-02-04 — 04:19:23 UTC	4head, griff77, ksfortson, nkkarpov	33	5	25
+425043	4	22	Gray (5 Suits)	2021-02-04 — 04:19:23 UTC	4head, griff77, ksfortson, nkkarpov	34	5	25
 424999	3	25	Brown (5 Suits)	2021-02-04 — 03:34:48 UTC	griff77, ksfortson, nkkarpov	38	5	25
 424925	4	0	Black (5 Suits)	2021-02-04 — 02:45:29 UTC	Doge, griff77, Nitrate, nkkarpov	32	5	25
-424805	4	0	No Variant	2021-02-04 — 01:17:17 UTC	indego, IsabeltheCat, newduke, nkkarpov	59	5	25
+424805	4	0	No Variant	2021-02-04 — 01:17:17 UTC	indego, IsabeltheCat, newduke, nkkarpov	60	5	25
 424802	4	0	No Variant	2021-02-04 — 01:11:53 UTC	indego, IsabeltheCat, newduke, nkkarpov	64	5	25
-424795	4	0	No Variant	2021-02-04 — 01:07:57 UTC	indego, IsabeltheCat, newduke, nkkarpov	64	5	25
+424795	4	0	No Variant	2021-02-04 — 01:07:57 UTC	indego, IsabeltheCat, newduke, nkkarpov	65	5	25
 424792	4	0	No Variant	2021-02-04 — 01:05:36 UTC	indego, IsabeltheCat, newduke, nkkarpov	70	5	25
-424779	5	25	No Variant	2021-02-04 — 00:47:02 UTC	4head, indego, IsabeltheCat, newduke, nkkarpov	223	5	25
+424779	5	25	No Variant	2021-02-04 — 00:47:02 UTC	4head, indego, IsabeltheCat, newduke, nkkarpov	226	5	25
 424764	4	0	No Variant	2021-02-04 — 00:28:42 UTC	4head, IsabeltheCat, newduke, nkkarpov	47	5	25
 424752	4	0	No Variant	2021-02-04 — 00:18:40 UTC	4head, IsabeltheCat, newduke, nkkarpov	51	5	25
 424735	6	22	Black (5 Suits)	2021-02-04 — 00:06:46 UTC	4head, colton, dobi, HelanaAshryvr, IsabeltheCat, nkkarpov	5	5	25
 424706	6	22	Black (5 Suits)	2021-02-03 — 23:42:21 UTC	4head, colton, dobi, HelanaAshryvr, IsabeltheCat, nkkarpov	8	5	25
 424692	6	23	Black (5 Suits)	2021-02-03 — 23:19:32 UTC	4head, colton, dobi, HelanaAshryvr, IsabeltheCat, nkkarpov	9	5	25
-424666	4	25	White (5 Suits)	2021-02-03 — 22:55:27 UTC	4head, Damian000, IsabeltheCat, nkkarpov	46	5	25
+424666	4	25	White (5 Suits)	2021-02-03 — 22:55:27 UTC	4head, Damian000, IsabeltheCat, nkkarpov	47	5	25
 424632	5	0	White-Ones & White (6 Suits)	2021-02-03 — 22:33:08 UTC	Damian000, frosty104, newduke, nkkarpov, sephiroth	4	6	30
 424611	4	30	Brown-Fives (6 Suits)	2021-02-03 — 22:09:13 UTC	melwen, nkkarpov, rz, sephiroth	4	6	30
 424590	4	0	Brown-Fives (6 Suits)	2021-02-03 — 21:50:45 UTC	melwen, nkkarpov, rz, sephiroth	4	6	30
 424565	5	0	Up or Down (5 Suits)	2021-02-03 — 21:32:16 UTC	Bot-Fiora, Kyle, newduke, nkkarpov, TimeHoodie	1	5	25
 424540	5	23	Up or Down (5 Suits)	2021-02-03 — 21:13:58 UTC	Bot-Fiora, Kyle, newduke, nkkarpov, TimeHoodie	4	5	25
-423802	5	30	White (6 Suits)	2021-02-03 — 05:20:08 UTC	bjnh, eljavi, ksfortson, nkkarpov, possum	14	6	30
+423802	5	30	White (6 Suits)	2021-02-03 — 05:20:08 UTC	bjnh, eljavi, ksfortson, nkkarpov, possum	16	6	30
 423762	4	23	Black (5 Suits)	2021-02-03 — 04:40:34 UTC	bjnh, ejwu, MarcLovesDogs, nkkarpov	28	5	25
 423724	4	27	Brown-Fives (6 Suits)	2021-02-03 — 03:56:42 UTC	Asddsa76, Lanvin, melwen, nkkarpov	4	6	30
 423686	5	0	Brown-Fives (6 Suits)	2021-02-03 — 03:24:28 UTC	frosty104, HelanaAshryvr, Lanvin, melwen, nkkarpov	2	6	30
-423614	3	27	Black (6 Suits)	2021-02-03 — 02:30:50 UTC	justinjlee99, nkkarpov, possum	261	6	30
+423614	3	27	Black (6 Suits)	2021-02-03 — 02:30:50 UTC	justinjlee99, nkkarpov, possum	263	6	30
 422800	3	0	Dark Rainbow (6 Suits)	2021-02-02 — 06:08:02 UTC	Bot-Fiora, eljavi, nkkarpov	62	6	30
 422781	5	0	Black (6 Suits)	2021-02-02 — 05:20:26 UTC	Bot-Fiora, eljavi, ksfortson, newduke, nkkarpov	23	6	30
 422765	5	26	Black (6 Suits)	2021-02-02 — 04:48:32 UTC	Bot-Fiora, eljavi, ksfortson, newduke, nkkarpov	21	6	30
-422738	5	0	Black (6 Suits)	2021-02-02 — 04:10:48 UTC	Bot-Fiora, eljavi, ksfortson, newduke, nkkarpov	21	6	30
+422738	5	0	Black (6 Suits)	2021-02-02 — 04:10:48 UTC	Bot-Fiora, eljavi, ksfortson, newduke, nkkarpov	22	6	30
 422718	6	19	Brown (4 Suits)	2021-02-02 — 03:46:57 UTC	Bot-Fiora, indego, jeff10, ksfortson, newduke, nkkarpov	2	4	20
 422674	4	30	Pink (6 Suits)	2021-02-02 — 02:56:42 UTC	4head, nkkarpov, nwajfromoz, rahsosprout	30	6	30
 422648	4	0	Pink (6 Suits)	2021-02-02 — 02:29:41 UTC	4head, nkkarpov, nwajfromoz, rahsosprout	35	6	30
-422629	4	0	Pink (6 Suits)	2021-02-02 — 02:08:03 UTC	4head, nkkarpov, nwajfromoz, rahsosprout	42	6	30
-422627	2	0	Rainbow (5 Suits)	2021-02-02 — 02:03:47 UTC	4head, nkkarpov	248	5	25
+422629	4	0	Pink (6 Suits)	2021-02-02 — 02:08:03 UTC	4head, nkkarpov, nwajfromoz, rahsosprout	43	6	30
+422627	2	0	Rainbow (5 Suits)	2021-02-02 — 02:03:47 UTC	4head, nkkarpov	257	5	25
 422601	5	26	Rainbow-Ones (6 Suits)	2021-02-02 — 01:41:46 UTC	IsabeltheCat, newduke, nkkarpov, possum, rahsosprout	7	6	30
-422491	3	30	Rainbow (6 Suits)	2021-02-01 — 23:39:47 UTC	Denchulitas, nkkarpov, wump	53	6	30
-422474	3	0	Rainbow (6 Suits)	2021-02-01 — 23:15:28 UTC	Denchulitas, nkkarpov, wump	58	6	30
+422491	3	30	Rainbow (6 Suits)	2021-02-01 — 23:39:47 UTC	Denchulitas, nkkarpov, wump	55	6	30
+422474	3	0	Rainbow (6 Suits)	2021-02-01 — 23:15:28 UTC	Denchulitas, nkkarpov, wump	61	6	30
 422418	3	28	Dark Rainbow (6 Suits)	2021-02-01 — 22:15:29 UTC	darnley, kunyavskiy, nkkarpov	11	6	30
 422352	5	28	Dark Rainbow (6 Suits)	2021-02-01 — 21:14:07 UTC	darnley, Kowalski1337, kunyavskiy, nkkarpov, Petr	7	6	30
 422292	4	0	Dark Rainbow (6 Suits)	2021-02-01 — 20:11:06 UTC	darnley, kunyavskiy, nkkarpov, Petr	5	6	30
 421941	5	0	Gray (6 Suits)	2021-02-01 — 06:56:19 UTC	indego, louietyj, nkkarpov, pianoblook, TimeHoodie	2	6	30
 421919	4	0	Black (6 Suits)	2021-02-01 — 06:04:24 UTC	louietyj, nkkarpov, pianoblook, TimeHoodie	62	6	30
-421896	5	0	No Variant	2021-02-01 — 05:19:51 UTC	Denchulitas, eljavi, nkkarpov, possum, rahsosprout	109	5	25
-421865	5	0	No Variant	2021-02-01 — 04:51:00 UTC	Denchulitas, eljavi, nkkarpov, possum, rahsosprout	837	5	25
+421896	5	0	No Variant	2021-02-01 — 05:19:51 UTC	Denchulitas, eljavi, nkkarpov, possum, rahsosprout	112	5	25
+421865	5	0	No Variant	2021-02-01 — 04:51:00 UTC	Denchulitas, eljavi, nkkarpov, possum, rahsosprout	845	5	25
 421842	4	29	Black (6 Suits)	2021-02-01 — 04:27:52 UTC	Denchulitas, ksfortson, nkkarpov, rahsosprout	55	6	30
-421815	4	0	Black (6 Suits)	2021-02-01 — 04:03:14 UTC	Denchulitas, ksfortson, nkkarpov, rahsosprout	74	6	30
-421785	4	0	Black (6 Suits)	2021-02-01 — 03:33:26 UTC	Denchulitas, ksfortson, nkkarpov, rahsosprout	90	6	30
-421745	3	0	Black (6 Suits)	2021-02-01 — 02:56:02 UTC	Denchulitas, ksfortson, nkkarpov	125	6	30
-421642	4	22	Dark Rainbow (5 Suits)	2021-02-01 — 01:25:23 UTC	BlueNovember, dobi, Doge, nkkarpov	23	5	25
+421815	4	0	Black (6 Suits)	2021-02-01 — 04:03:14 UTC	Denchulitas, ksfortson, nkkarpov, rahsosprout	76	6	30
+421785	4	0	Black (6 Suits)	2021-02-01 — 03:33:26 UTC	Denchulitas, ksfortson, nkkarpov, rahsosprout	95	6	30
+421745	3	0	Black (6 Suits)	2021-02-01 — 02:56:02 UTC	Denchulitas, ksfortson, nkkarpov	126	6	30
+421642	4	22	Dark Rainbow (5 Suits)	2021-02-01 — 01:25:23 UTC	BlueNovember, dobi, Doge, nkkarpov	24	5	25
 421623	4	0	Dark Rainbow (5 Suits)	2021-02-01 — 00:59:15 UTC	BlueNovember, dobi, Doge, nkkarpov	29	5	25
 421582	3	0	Black (6 Suits)	2021-02-01 — 00:14:28 UTC	dobi, Doge, nkkarpov	134	6	30
 421566	3	0	Black (5 Suits)	2021-02-01 — 00:02:17 UTC	ksfortson, nkkarpov, wump	40	5	25
-421540	3	0	Black (5 Suits)	2021-01-31 — 23:45:20 UTC	ksfortson, nkkarpov, wump	66	5	25
+421540	3	0	Black (5 Suits)	2021-01-31 — 23:45:20 UTC	ksfortson, nkkarpov, wump	67	5	25
 421529	4	20	Brown-Ones & Rainbow (4 Suits)	2021-01-31 — 23:39:28 UTC	ksfortson, Lanvin, nkkarpov, wump	3	4	20
-421494	4	0	Dark Rainbow (6 Suits)	2021-01-31 — 23:20:38 UTC	Bot-Fiora, Lanvin, nkkarpov, wump	53	6	30
+421494	4	0	Dark Rainbow (6 Suits)	2021-01-31 — 23:20:38 UTC	Bot-Fiora, Lanvin, nkkarpov, wump	54	6	30
 421431	4	27	Dark Rainbow (6 Suits)	2021-01-31 — 22:17:34 UTC	darnley, kunyavskiy, nkkarpov, tourist	6	6	30
-421317	3	25	No Variant	2021-01-31 — 20:28:52 UTC	Daryl, HariKrishnan, nkkarpov	940	5	25
+421317	3	25	No Variant	2021-01-31 — 20:28:52 UTC	Daryl, HariKrishnan, nkkarpov	952	5	25
 421267	5	23	Number Mute (5 Suits)	2021-01-31 — 19:21:22 UTC	frosty104, Lanvin, newduke, nkkarpov, wump	1	5	25
 420810	3	13	Pink (3 Suits)	2021-01-31 — 05:44:22 UTC	lolthisnotderk, nkkarpov, torp	4	3	15
 420785	3	0	Pink (3 Suits)	2021-01-31 — 05:33:53 UTC	lolthisnotderk, nkkarpov, torp	6	3	15
 420769	3	0	Pink (3 Suits)	2021-01-31 — 05:25:11 UTC	lolthisnotderk, nkkarpov, torp	6	3	15
 420757	3	14	Pink (3 Suits)	2021-01-31 — 05:19:05 UTC	lolthisnotderk, nkkarpov, torp	8	3	15
-420730	5	17	Rainbow (4 Suits)	2021-01-31 — 05:06:32 UTC	ksfortson, lolthisnotderk, nkkarpov, possum, torp	20	4	20
+420730	5	17	Rainbow (4 Suits)	2021-01-31 — 05:06:32 UTC	ksfortson, lolthisnotderk, nkkarpov, possum, torp	21	4	20
 420685	5	25	Rainbow-Ones & White (5 Suits)	2021-01-31 — 04:39:21 UTC	ksfortson, lolthisnotderk, nkkarpov, possum, torp	2	5	25
 420650	5	21	Rainbow-Ones & White (5 Suits)	2021-01-31 — 04:17:58 UTC	ksfortson, lolthisnotderk, nkkarpov, possum, torp	2	5	25
 420585	3	0	White & Prism (5 Suits)	2021-01-31 — 03:37:14 UTC	eljavi, lolthisnotderk, nkkarpov	16	5	25
 420487	4	24	Pink & Light Pink (5 Suits)	2021-01-31 — 02:41:59 UTC	melwen, newduke, nkkarpov, TimeHoodie	2	5	25
 420446	3	21	Cocoa Rainbow (5 Suits)	2021-01-31 — 02:12:14 UTC	newduke, nkkarpov, TimeHoodie	6	5	25
-420380	5	21	No Variant	2021-01-31 — 01:13:54 UTC	4head, banjoleb, DarthGandalf, InflatableKayak, nkkarpov	457	5	25
-420362	5	0	No Variant	2021-01-31 — 00:49:39 UTC	4head, banjoleb, DarthGandalf, InflatableKayak, nkkarpov	1995	5	25
-420334	4	0	Black & White (6 Suits)	2021-01-31 — 00:20:49 UTC	Denchulitas, griff77, IsabeltheCat, nkkarpov	22	6	30
+420380	5	21	No Variant	2021-01-31 — 01:13:54 UTC	4head, banjoleb, DarthGandalf, InflatableKayak, nkkarpov	461	5	25
+420362	5	0	No Variant	2021-01-31 — 00:49:39 UTC	4head, banjoleb, DarthGandalf, InflatableKayak, nkkarpov	2011	5	25
+420334	4	0	Black & White (6 Suits)	2021-01-31 — 00:20:49 UTC	Denchulitas, griff77, IsabeltheCat, nkkarpov	23	6	30
 420321	4	0	Black & White (6 Suits)	2021-01-31 — 00:03:36 UTC	Denchulitas, griff77, IsabeltheCat, nkkarpov	24	6	30
-420096	2	0	No Variant	2021-01-30 — 21:09:55 UTC	alina239, nkkarpov	450	5	25
-420093	2	0	No Variant	2021-01-30 — 21:09:17 UTC	alina239, nkkarpov	455	5	25
+420096	2	0	No Variant	2021-01-30 — 21:09:55 UTC	alina239, nkkarpov	456	5	25
+420093	2	0	No Variant	2021-01-30 — 21:09:17 UTC	alina239, nkkarpov	461	5	25
 420054	3	24	Prism (5 Suits)	2021-01-30 — 20:44:45 UTC	Bot-Fiora, nkkarpov, torp	22	5	25
-420021	3	0	Prism (5 Suits)	2021-01-30 — 20:21:51 UTC	Bot-Fiora, nkkarpov, torp	24	5	25
-419065	5	29	White (6 Suits)	2021-01-30 — 00:14:40 UTC	Denchulitas, jian01, LautiManzano, nkkarpov, nwajfromoz	27	6	30
+420021	3	0	Prism (5 Suits)	2021-01-30 — 20:21:51 UTC	Bot-Fiora, nkkarpov, torp	25	5	25
+419065	5	29	White (6 Suits)	2021-01-30 — 00:14:40 UTC	Denchulitas, jian01, LautiManzano, nkkarpov, nwajfromoz	28	6	30
 419030	4	23	Brown-Ones & White (5 Suits)	2021-01-29 — 23:43:54 UTC	caña, jian01, LautiManzano, nkkarpov	5	5	25
 419003	4	0	Brown-Ones & White (5 Suits)	2021-01-29 — 23:20:03 UTC	caña, jian01, LautiManzano, nkkarpov	7	5	25
-418825	6	19	No Variant	2021-01-29 — 20:56:02 UTC	4head, CaitlinSmith, griff77, HariKrishnan, nkkarpov, Spieler42	91	5	25
-418788	5	23	No Variant	2021-01-29 — 20:19:17 UTC	4head, CaitlinSmith, griff77, HariKrishnan, nkkarpov	383	5	25
-418750	4	22	Rainbow (5 Suits)	2021-01-29 — 19:37:43 UTC	4head, Donna, eljavi, nkkarpov	19	5	25
-418720	4	0	Rainbow (5 Suits)	2021-01-29 — 19:07:18 UTC	Donna, eljavi, MangoPie, nkkarpov	38	5	25
-418296	3	22	Black (5 Suits)	2021-01-29 — 04:15:33 UTC	bjnh, LautiManzano, nkkarpov	68	5	25
-418264	3	21	Black (5 Suits)	2021-01-29 — 03:51:08 UTC	bjnh, LautiManzano, nkkarpov	71	5	25
-418103	4	0	No Variant	2021-01-29 — 01:09:15 UTC	Bot-Fiora, DarthGandalf, nkkarpov, rahsosprout	308	5	25
+418825	6	19	No Variant	2021-01-29 — 20:56:02 UTC	4head, CaitlinSmith, griff77, HariKrishnan, nkkarpov, Spieler42	92	5	25
+418788	5	23	No Variant	2021-01-29 — 20:19:17 UTC	4head, CaitlinSmith, griff77, HariKrishnan, nkkarpov	384	5	25
+418750	4	22	Rainbow (5 Suits)	2021-01-29 — 19:37:43 UTC	4head, Donna, eljavi, nkkarpov	20	5	25
+418720	4	0	Rainbow (5 Suits)	2021-01-29 — 19:07:18 UTC	Donna, eljavi, MangoPie, nkkarpov	40	5	25
+418296	3	22	Black (5 Suits)	2021-01-29 — 04:15:33 UTC	bjnh, LautiManzano, nkkarpov	69	5	25
+418264	3	21	Black (5 Suits)	2021-01-29 — 03:51:08 UTC	bjnh, LautiManzano, nkkarpov	73	5	25
+418103	4	0	No Variant	2021-01-29 — 01:09:15 UTC	Bot-Fiora, DarthGandalf, nkkarpov, rahsosprout	311	5	25
 418093	6	0	No Variant	2021-01-29 — 00:46:25 UTC	4head, Bot-Fiora, caña, DarthGandalf, nkkarpov, rahsosprout	42	5	25
-418084	3	0	No Variant	2021-01-29 — 00:23:41 UTC	Bot-Fiora, DarthGandalf, nkkarpov	1881	5	25
-418065	3	22	No Variant	2021-01-29 — 00:00:17 UTC	Bot-Fiora, DarthGandalf, nkkarpov	2163	5	25
+418084	3	0	No Variant	2021-01-29 — 00:23:41 UTC	Bot-Fiora, DarthGandalf, nkkarpov	1896	5	25
+418065	3	22	No Variant	2021-01-29 — 00:00:17 UTC	Bot-Fiora, DarthGandalf, nkkarpov	2179	5	25
 418029	3	22	Black (5 Suits)	2021-01-28 — 23:20:55 UTC	dobi, nkkarpov, Wittvector	31	5	25
-417338	3	0	Black & Rainbow (5 Suits)	2021-01-28 — 05:19:54 UTC	bjnh, eljavi, nkkarpov	46	5	25
+417338	3	0	Black & Rainbow (5 Suits)	2021-01-28 — 05:19:54 UTC	bjnh, eljavi, nkkarpov	47	5	25
 417317	3	0	Black & Rainbow (5 Suits)	2021-01-28 — 04:55:58 UTC	bjnh, eljavi, nkkarpov	58	5	25
 417305	3	0	Dark Rainbow (6 Suits)	2021-01-28 — 04:42:00 UTC	eljavi, nkkarpov, Onen	77	6	30
 417284	4	0	White & Prism (5 Suits)	2021-01-28 — 04:20:28 UTC	eljavi, nkkarpov, Onen, wump	6	5	25
-417252	3	21	Prism (5 Suits)	2021-01-28 — 03:59:31 UTC	lolthisnotderk, nkkarpov, possum	38	5	25
-417043	4	22	Black (5 Suits)	2021-01-28 — 01:37:50 UTC	caña, Denchulitas, griff77, nkkarpov	36	5	25
-417016	4	0	Black (5 Suits)	2021-01-28 — 01:10:29 UTC	caña, Denchulitas, griff77, nkkarpov	49	5	25
-416994	4	20	Black (5 Suits)	2021-01-28 — 00:46:04 UTC	caña, Denchulitas, griff77, nkkarpov	98	5	25
-416959	3	0	Black (6 Suits)	2021-01-28 — 00:12:18 UTC	Denchulitas, griff77, nkkarpov	193	6	30
+417252	3	21	Prism (5 Suits)	2021-01-28 — 03:59:31 UTC	lolthisnotderk, nkkarpov, possum	39	5	25
+417043	4	22	Black (5 Suits)	2021-01-28 — 01:37:50 UTC	caña, Denchulitas, griff77, nkkarpov	37	5	25
+417016	4	0	Black (5 Suits)	2021-01-28 — 01:10:29 UTC	caña, Denchulitas, griff77, nkkarpov	51	5	25
+416994	4	20	Black (5 Suits)	2021-01-28 — 00:46:04 UTC	caña, Denchulitas, griff77, nkkarpov	101	5	25
+416959	3	0	Black (6 Suits)	2021-01-28 — 00:12:18 UTC	Denchulitas, griff77, nkkarpov	196	6	30
 416929	5	24	Prism (5 Suits)	2021-01-27 — 23:21:05 UTC	4head, nkkarpov, Plum, rahsosprout, Spieler42	8	5	25
 416914	5	0	Light-Pink-Ones & White (6 Suits)	2021-01-27 — 22:56:00 UTC	4head, nkkarpov, Plum, rahsosprout, Spieler42	1	6	30
 416893	5	11	Rainbow (3 Suits)	2021-01-27 — 22:39:10 UTC	4head, nkkarpov, Plum, rahsosprout, Spieler42	8	3	15
 416861	3	0	Pink (5 Suits)	2021-01-27 — 22:18:25 UTC	4head, nkkarpov, rahsosprout	7	5	25
-416808	2	0	No Variant	2021-01-27 — 21:51:40 UTC	DrJones, nkkarpov	181	5	25
-416790	2	0	No Variant	2021-01-27 — 21:37:01 UTC	DrJones, nkkarpov	180	5	25
-416708	3	0	No Variant	2021-01-27 — 20:43:42 UTC	Fey, Lmarie83, nkkarpov	28	5	25
-415958	4	0	Rainbow (5 Suits)	2021-01-27 — 02:19:49 UTC	griff77, lolthisnotderk, nkkarpov, nwajfromoz	130	5	25
+416808	2	0	No Variant	2021-01-27 — 21:51:40 UTC	DrJones, nkkarpov	184	5	25
+416790	2	0	No Variant	2021-01-27 — 21:37:01 UTC	DrJones, nkkarpov	183	5	25
+416708	3	0	No Variant	2021-01-27 — 20:43:42 UTC	Fey, Lmarie83, nkkarpov	30	5	25
+415958	4	0	Rainbow (5 Suits)	2021-01-27 — 02:19:49 UTC	griff77, lolthisnotderk, nkkarpov, nwajfromoz	131	5	25
 415825	4	22	Black (5 Suits)	2021-01-26 — 23:23:53 UTC	eljavi, knaphill, Lanvin, nkkarpov	23	5	25
 415737	3	30	Dark Rainbow (6 Suits)	2021-01-26 — 22:06:58 UTC	darnley, kunyavskiy, nkkarpov	11	6	30
 415702	3	0	Dark Rainbow (6 Suits)	2021-01-26 — 21:26:57 UTC	darnley, kunyavskiy, nkkarpov	11	6	30
@@ -506,95 +549,95 @@
 415129	6	0	Brown-Ones (5 Suits)	2021-01-26 — 02:44:39 UTC	4head, IsabeltheCat, Lanvin, lolthisnotderk, nkkarpov, rahsosprout	1	5	25
 415119	6	0	Brown-Ones (5 Suits)	2021-01-26 — 02:30:29 UTC	4head, IsabeltheCat, Lanvin, lolthisnotderk, nkkarpov, rahsosprout	1	5	25
 415100	6	24	Brown-Ones (5 Suits)	2021-01-26 — 02:01:09 UTC	4head, IsabeltheCat, Lanvin, lolthisnotderk, nkkarpov, rahsosprout	1	5	25
-415083	3	25	Brown-Ones & White (5 Suits)	2021-01-26 — 01:32:38 UTC	IsabeltheCat, Lanvin, nkkarpov	4	5	25
+415083	3	25	Brown-Ones & White (5 Suits)	2021-01-26 — 01:32:38 UTC	IsabeltheCat, Lanvin, nkkarpov	5	5	25
 414978	4	24	White & Prism (5 Suits)	2021-01-25 — 23:14:46 UTC	asaelr, lolthisnotderk, nkkarpov, torp	14	5	25
 414922	6	28	White-Ones & Rainbow (6 Suits)	2021-01-25 — 22:16:09 UTC	ChristopheAF, HariKrishnan, HelanaAshryvr, Lanvin, nkkarpov, Onen	1	6	30
 414906	6	0	White-Ones & Rainbow (6 Suits)	2021-01-25 — 21:46:49 UTC	ChristopheAF, HariKrishnan, HelanaAshryvr, Lanvin, nkkarpov, Onen	2	6	30
-414271	5	0	Black (6 Suits)	2021-01-25 — 03:45:30 UTC	Asddsa76, Doge, indego, nkkarpov, swineherd	15	6	30
-414240	5	0	Black (6 Suits)	2021-01-25 — 03:11:28 UTC	Asddsa76, Doge, indego, nkkarpov, swineherd	16	6	30
+414271	5	0	Black (6 Suits)	2021-01-25 — 03:45:30 UTC	Asddsa76, Doge, indego, nkkarpov, swineherd	16	6	30
+414240	5	0	Black (6 Suits)	2021-01-25 — 03:11:28 UTC	Asddsa76, Doge, indego, nkkarpov, swineherd	17	6	30
 414217	5	0	Black (6 Suits)	2021-01-25 — 02:56:18 UTC	Asddsa76, Doge, indego, nkkarpov, swineherd	24	6	30
-414199	4	0	Black (6 Suits)	2021-01-25 — 02:33:30 UTC	Asddsa76, Doge, indego, nkkarpov	273	6	30
+414199	4	0	Black (6 Suits)	2021-01-25 — 02:33:30 UTC	Asddsa76, Doge, indego, nkkarpov	276	6	30
 414008	4	0	Black & Brown (6 Suits)	2021-01-24 — 22:47:52 UTC	Lanvin, nkkarpov, Onen, sephiroth	2	6	30
-413997	3	25	No Variant	2021-01-24 — 22:27:31 UTC	dobi, nkkarpov, Onen	573	5	25
-413973	3	0	Dark Rainbow (6 Suits)	2021-01-24 — 22:03:02 UTC	kunyavskiy, nkkarpov, SergeyMelnikov	11	6	30
-410268	4	0	White (6 Suits)	2021-01-21 — 04:24:28 UTC	4head, eljavi, nkkarpov, poofart123	75	6	30
+413997	3	25	No Variant	2021-01-24 — 22:27:31 UTC	dobi, nkkarpov, Onen	582	5	25
+413973	3	0	Dark Rainbow (6 Suits)	2021-01-24 — 22:03:02 UTC	kunyavskiy, nkkarpov, SergeyMelnikov	12	6	30
+410268	4	0	White (6 Suits)	2021-01-21 — 04:24:28 UTC	4head, eljavi, nkkarpov, poofart123	76	6	30
 410240	5	23	Rainbow (5 Suits)	2021-01-21 — 03:59:02 UTC	4head, eljavi, nkkarpov, poofart123, torp	34	5	25
-410220	4	24	No Variant	2021-01-21 — 03:33:31 UTC	4head, eljavi, nkkarpov, poofart123	149	5	25
-410205	4	0	No Variant	2021-01-21 — 03:14:42 UTC	4head, eljavi, nkkarpov, poofart123	156	5	25
-410203	6	0	Black (6 Suits)	2021-01-21 — 03:11:18 UTC	aquarelle, bjnh, eljavi, FerKeth, nkkarpov, torp	15	6	30
+410220	4	24	No Variant	2021-01-21 — 03:33:31 UTC	4head, eljavi, nkkarpov, poofart123	150	5	25
+410205	4	0	No Variant	2021-01-21 — 03:14:42 UTC	4head, eljavi, nkkarpov, poofart123	157	5	25
+410203	6	0	Black (6 Suits)	2021-01-21 — 03:11:18 UTC	aquarelle, bjnh, eljavi, FerKeth, nkkarpov, torp	16	6	30
 410201	6	0	Black (6 Suits)	2021-01-21 — 03:07:12 UTC	aquarelle, bjnh, eljavi, FerKeth, nkkarpov, torp	28	6	30
 410195	5	0	Black (6 Suits)	2021-01-21 — 02:54:41 UTC	aquarelle, eljavi, FerKeth, nkkarpov, torp	48	6	30
-410014	3	29	Dark Rainbow (6 Suits)	2021-01-20 — 22:59:22 UTC	darnley, kunyavskiy, nkkarpov	11	6	30
-409973	3	26	Dark Rainbow (6 Suits)	2021-01-20 — 22:04:45 UTC	darnley, kunyavskiy, nkkarpov	11	6	30
+410014	3	29	Dark Rainbow (6 Suits)	2021-01-20 — 22:59:22 UTC	darnley, kunyavskiy, nkkarpov	12	6	30
+409973	3	26	Dark Rainbow (6 Suits)	2021-01-20 — 22:04:45 UTC	darnley, kunyavskiy, nkkarpov	12	6	30
 409029	3	20	Brown (4 Suits)	2021-01-19 — 22:50:12 UTC	bjnh, nkkarpov, torp	47	4	20
 408989	3	23	Black & Brown (5 Suits)	2021-01-19 — 21:55:40 UTC	nkkarpov, Onen, torp	19	5	25
 408976	3	0	Black & Brown (5 Suits)	2021-01-19 — 21:43:16 UTC	nkkarpov, Onen, robense	14	5	25
-408954	4	24	No Variant	2021-01-19 — 21:21:40 UTC	banjoleb, knaphill, nkkarpov, raramra	336	5	25
-408897	4	23	No Variant	2021-01-19 — 20:37:40 UTC	banjoleb, knaphill, nkkarpov, raramra	501	5	25
+408954	4	24	No Variant	2021-01-19 — 21:21:40 UTC	banjoleb, knaphill, nkkarpov, raramra	340	5	25
+408897	4	23	No Variant	2021-01-19 — 20:37:40 UTC	banjoleb, knaphill, nkkarpov, raramra	507	5	25
 408862	6	0	No Variant	2021-01-19 — 20:08:58 UTC	banjoleb, indego, knaphill, macanek, nkkarpov, radizomic	36	5	25
 408424	5	29	Rainbow (6 Suits)	2021-01-19 — 06:45:53 UTC	4head, eljavi, lolthisnotderk, nkkarpov, sin_faith	20	6	30
-408398	3	0	Black (6 Suits)	2021-01-19 — 06:09:04 UTC	4head, eljavi, nkkarpov	325	6	30
-408379	2	18	Prism (4 Suits)	2021-01-19 — 05:38:36 UTC	4head, nkkarpov	66	4	20
-408365	2	0	Black (6 Suits)	2021-01-19 — 05:29:29 UTC	4head, nkkarpov	643	6	30
-408284	4	25	No Variant	2021-01-19 — 04:29:20 UTC	colton, dobi, eljavi, nkkarpov	655	5	25
-408177	3	30	Rainbow (6 Suits)	2021-01-19 — 02:45:35 UTC	glend, nkkarpov, tacobot5000	689	6	30
+408398	3	0	Black (6 Suits)	2021-01-19 — 06:09:04 UTC	4head, eljavi, nkkarpov	332	6	30
+408379	2	18	Prism (4 Suits)	2021-01-19 — 05:38:36 UTC	4head, nkkarpov	69	4	20
+408365	2	0	Black (6 Suits)	2021-01-19 — 05:29:29 UTC	4head, nkkarpov	654	6	30
+408284	4	25	No Variant	2021-01-19 — 04:29:20 UTC	colton, dobi, eljavi, nkkarpov	660	5	25
+408177	3	30	Rainbow (6 Suits)	2021-01-19 — 02:45:35 UTC	glend, nkkarpov, tacobot5000	693	6	30
 408027	4	28	Up or Down (6 Suits)	2021-01-18 — 23:57:18 UTC	4head, newduke, nkkarpov, rachyrules	19	6	30
 408002	4	0	Up or Down (6 Suits)	2021-01-18 — 23:23:43 UTC	4head, newduke, nkkarpov, rachyrules	22	6	30
 407992	4	0	Up or Down (6 Suits)	2021-01-18 — 23:12:37 UTC	4head, newduke, nkkarpov, rachyrules	28	6	30
 407977	4	29	Up or Down (6 Suits)	2021-01-18 — 22:58:09 UTC	4head, newduke, nkkarpov, rachyrules	40	6	30
-407932	4	25	No Variant	2021-01-18 — 22:16:50 UTC	4head, CaitlinSmith, liquidNitrogen, nkkarpov	985	5	25
-407890	4	23	No Variant	2021-01-18 — 21:44:35 UTC	4head, CaitlinSmith, liquidNitrogen, nkkarpov	1092	5	25
+407932	4	25	No Variant	2021-01-18 — 22:16:50 UTC	4head, CaitlinSmith, liquidNitrogen, nkkarpov	994	5	25
+407890	4	23	No Variant	2021-01-18 — 21:44:35 UTC	4head, CaitlinSmith, liquidNitrogen, nkkarpov	1103	5	25
 407003	3	25	White-Ones & Prism (5 Suits)	2021-01-18 — 04:19:34 UTC	lolthisnotderk, nkkarpov, torp	4	5	25
 406985	3	0	Dark Rainbow (6 Suits)	2021-01-18 — 03:58:32 UTC	lolthisnotderk, nkkarpov, torp	91	6	30
 406969	3	0	Black (5 Suits)	2021-01-18 — 03:35:21 UTC	lolthisnotderk, nkkarpov, Veenar	119	5	25
-406944	4	30	Rainbow (6 Suits)	2021-01-18 — 03:08:58 UTC	lolthisnotderk, nkkarpov, rahsosprout, Veenar	238	6	30
-406916	4	0	Rainbow (6 Suits)	2021-01-18 — 02:44:33 UTC	lolthisnotderk, nkkarpov, rahsosprout, Veenar	344	6	30
+406944	4	30	Rainbow (6 Suits)	2021-01-18 — 03:08:58 UTC	lolthisnotderk, nkkarpov, rahsosprout, Veenar	244	6	30
+406916	4	0	Rainbow (6 Suits)	2021-01-18 — 02:44:33 UTC	lolthisnotderk, nkkarpov, rahsosprout, Veenar	349	6	30
 406895	6	18	4 Suits	2021-01-18 — 02:28:36 UTC	ksfortson, lolthisnotderk, nkkarpov, rahsosprout, torp, Veenar	17	4	20
 406872	5	23	Prism (5 Suits)	2021-01-18 — 02:04:03 UTC	ksfortson, nkkarpov, rahsosprout, torp, Veenar	8	5	25
-406852	5	29	6 Suits	2021-01-18 — 01:34:19 UTC	ksfortson, nkkarpov, rahsosprout, torp, Veenar	132	6	30
-406833	3	23	Prism (5 Suits)	2021-01-18 — 01:00:12 UTC	nkkarpov, PMP, torp	45	5	25
-406729	3	23	Pink (5 Suits)	2021-01-17 — 22:51:20 UTC	nkkarpov, otterful, Stormylu	75	5	25
-406701	3	0	Pink (5 Suits)	2021-01-17 — 22:29:21 UTC	nkkarpov, otterful, Stormylu	108	5	25
+406852	5	29	6 Suits	2021-01-18 — 01:34:19 UTC	ksfortson, nkkarpov, rahsosprout, torp, Veenar	133	6	30
+406833	3	23	Prism (5 Suits)	2021-01-18 — 01:00:12 UTC	nkkarpov, PMP, torp	47	5	25
+406729	3	23	Pink (5 Suits)	2021-01-17 — 22:51:20 UTC	nkkarpov, otterful, Stormylu	77	5	25
+406701	3	0	Pink (5 Suits)	2021-01-17 — 22:29:21 UTC	nkkarpov, otterful, Stormylu	112	5	25
 406671	6	25	No Variant	2021-01-17 — 22:07:28 UTC	Daryl, Doge, Nils, nkkarpov, otterful, Stormylu	60	5	25
 406635	6	0	6 Suits	2021-01-17 — 21:35:34 UTC	Daryl, Doge, Nils, nkkarpov, otterful, Stormylu	50	6	30
-406517	4	22	Black (5 Suits)	2021-01-17 — 20:09:44 UTC	CaitlinSmith, Nils, Nitrate, nkkarpov	36	5	25
+406517	4	22	Black (5 Suits)	2021-01-17 — 20:09:44 UTC	CaitlinSmith, Nils, Nitrate, nkkarpov	37	5	25
 405994	3	0	Pink (3 Suits)	2021-01-17 — 03:57:43 UTC	eljavi, nkkarpov, torp	10	3	15
-405974	3	0	Pink (3 Suits)	2021-01-17 — 03:43:49 UTC	eljavi, nkkarpov, torp	12	3	15
-405938	4	25	No Variant	2021-01-17 — 03:19:44 UTC	4head, Denchulitas, louietyj, nkkarpov	162	5	25
-405907	4	25	No Variant	2021-01-17 — 02:51:33 UTC	4head, Denchulitas, louietyj, nkkarpov	167	5	25
-405885	4	25	No Variant	2021-01-17 — 02:29:55 UTC	4head, Denchulitas, louietyj, nkkarpov	198	5	25
+405974	3	0	Pink (3 Suits)	2021-01-17 — 03:43:49 UTC	eljavi, nkkarpov, torp	13	3	15
+405938	4	25	No Variant	2021-01-17 — 03:19:44 UTC	4head, Denchulitas, louietyj, nkkarpov	166	5	25
+405907	4	25	No Variant	2021-01-17 — 02:51:33 UTC	4head, Denchulitas, louietyj, nkkarpov	169	5	25
+405885	4	25	No Variant	2021-01-17 — 02:29:55 UTC	4head, Denchulitas, louietyj, nkkarpov	199	5	25
 405757	4	28	6 Suits	2021-01-17 — 00:19:34 UTC	4head, knaphill, LautiManzano, nkkarpov	24	6	30
 405563	4	25	No Variant	2021-01-16 — 21:45:02 UTC	Denchulitas, nkkarpov, Onen, PMP	213	5	25
-405487	3	26	Black (6 Suits)	2021-01-16 — 21:04:34 UTC	Nils, Nitrate, nkkarpov	213	6	30
+405487	3	26	Black (6 Suits)	2021-01-16 — 21:04:34 UTC	Nils, Nitrate, nkkarpov	214	6	30
 405415	3	26	Black (6 Suits)	2021-01-16 — 20:24:32 UTC	Nils, Nitrate, nkkarpov	236	6	30
-405361	3	25	Black (6 Suits)	2021-01-16 — 19:43:47 UTC	Nils, Nitrate, nkkarpov	399	6	30
+405361	3	25	Black (6 Suits)	2021-01-16 — 19:43:47 UTC	Nils, Nitrate, nkkarpov	407	6	30
 405315	3	22	Black (5 Suits)	2021-01-16 — 19:12:20 UTC	ArualEIs, Nils, nkkarpov	84	5	25
 405291	3	20	Black (5 Suits)	2021-01-16 — 18:41:39 UTC	ArualEIs, Nils, nkkarpov	92	5	25
-405275	3	22	Black (5 Suits)	2021-01-16 — 18:12:24 UTC	ArualEIs, Nils, nkkarpov	134	5	25
-405263	3	22	Black (5 Suits)	2021-01-16 — 17:47:15 UTC	ArualEIs, Nils, nkkarpov	171	5	25
-404847	4	0	Rainbow (6 Suits)	2021-01-16 — 04:55:48 UTC	kinkajusrevenge, nkkarpov, socerman, tacobot5000	275	6	30
-404779	5	30	Rainbow (6 Suits)	2021-01-16 — 04:12:16 UTC	4head, Denchulitas, jian01, LautiManzano, nkkarpov	101	6	30
-404720	5	0	Rainbow (6 Suits)	2021-01-16 — 03:47:23 UTC	4head, Denchulitas, jian01, LautiManzano, nkkarpov	133	6	30
-404701	5	28	Rainbow (6 Suits)	2021-01-16 — 03:36:43 UTC	4head, Denchulitas, jian01, LautiManzano, nkkarpov	209	6	30
-404369	3	28	Prism (6 Suits)	2021-01-15 — 21:40:51 UTC	darnley, kunyavskiy, nkkarpov	84	6	30
-404286	3	26	Dark Rainbow (6 Suits)	2021-01-15 — 20:36:47 UTC	darnley, kunyavskiy, nkkarpov	12	6	30
-404221	3	26	Dark Rainbow (6 Suits)	2021-01-15 — 19:34:40 UTC	darnley, kunyavskiy, nkkarpov	12	6	30
+405275	3	22	Black (5 Suits)	2021-01-16 — 18:12:24 UTC	ArualEIs, Nils, nkkarpov	135	5	25
+405263	3	22	Black (5 Suits)	2021-01-16 — 17:47:15 UTC	ArualEIs, Nils, nkkarpov	174	5	25
+404847	4	0	Rainbow (6 Suits)	2021-01-16 — 04:55:48 UTC	kinkajusrevenge, nkkarpov, socerman, tacobot5000	280	6	30
+404779	5	30	Rainbow (6 Suits)	2021-01-16 — 04:12:16 UTC	4head, Denchulitas, jian01, LautiManzano, nkkarpov	102	6	30
+404720	5	0	Rainbow (6 Suits)	2021-01-16 — 03:47:23 UTC	4head, Denchulitas, jian01, LautiManzano, nkkarpov	134	6	30
+404701	5	28	Rainbow (6 Suits)	2021-01-16 — 03:36:43 UTC	4head, Denchulitas, jian01, LautiManzano, nkkarpov	211	6	30
+404369	3	28	Prism (6 Suits)	2021-01-15 — 21:40:51 UTC	darnley, kunyavskiy, nkkarpov	85	6	30
+404286	3	26	Dark Rainbow (6 Suits)	2021-01-15 — 20:36:47 UTC	darnley, kunyavskiy, nkkarpov	13	6	30
+404221	3	26	Dark Rainbow (6 Suits)	2021-01-15 — 19:34:40 UTC	darnley, kunyavskiy, nkkarpov	13	6	30
 403176	4	18	Rainbow & Brown (4 Suits)	2021-01-14 — 18:58:02 UTC	ksfortson, MangoPie, nkkarpov, Onen	11	4	20
 403163	3	18	Rainbow & Brown (4 Suits)	2021-01-14 — 18:38:52 UTC	MangoPie, nkkarpov, Onen	20	4	20
 402812	5	0	Prism (5 Suits)	2021-01-14 — 06:13:43 UTC	4head, Denchulitas, eljavi, lolthisnotderk, nkkarpov	9	5	25
-402203	3	25	No Variant	2021-01-13 — 19:13:53 UTC	ChristopheAF, nkkarpov, TimeHoodie	451	5	25
-402136	3	18	No Variant	2021-01-13 — 17:58:00 UTC	4head, CaitlinSmith, nkkarpov	154	5	25
-402097	2	0	No Variant	2021-01-13 — 17:06:37 UTC	nkkarpov, Sorenjoren	458	5	25
-402090	2	0	No Variant	2021-01-13 — 16:55:00 UTC	nkkarpov, Sorenjoren	476	5	25
+402203	3	25	No Variant	2021-01-13 — 19:13:53 UTC	ChristopheAF, nkkarpov, TimeHoodie	456	5	25
+402136	3	18	No Variant	2021-01-13 — 17:58:00 UTC	4head, CaitlinSmith, nkkarpov	157	5	25
+402097	2	0	No Variant	2021-01-13 — 17:06:37 UTC	nkkarpov, Sorenjoren	465	5	25
+402090	2	0	No Variant	2021-01-13 — 16:55:00 UTC	nkkarpov, Sorenjoren	485	5	25
 401863	3	0	White (6 Suits)	2021-01-13 — 06:41:40 UTC	dobi, eljavi, nkkarpov	70	6	30
-401811	4	24	No Variant	2021-01-13 — 05:49:14 UTC	4head, louietyj, nkkarpov, tzy	287	5	25
-401780	4	25	No Variant	2021-01-13 — 05:19:46 UTC	4head, louietyj, nkkarpov, tzy	326	5	25
-401755	2	25	No Variant	2021-01-13 — 04:49:57 UTC	4head, nkkarpov	496	5	25
+401811	4	24	No Variant	2021-01-13 — 05:49:14 UTC	4head, louietyj, nkkarpov, tzy	293	5	25
+401780	4	25	No Variant	2021-01-13 — 05:19:46 UTC	4head, louietyj, nkkarpov, tzy	330	5	25
+401755	2	25	No Variant	2021-01-13 — 04:49:57 UTC	4head, nkkarpov	502	5	25
 401723	5	0	Prism (6 Suits)	2021-01-13 — 04:11:49 UTC	4head, eljavi, ksfortson, Lanvin, nkkarpov	3	6	30
 401687	5	0	Prism (6 Suits)	2021-01-13 — 03:33:16 UTC	4head, eljavi, ksfortson, Lanvin, nkkarpov	3	6	30
 401602	4	30	Brown-Ones (6 Suits)	2021-01-13 — 02:28:35 UTC	ksfortson, Lanvin, nkkarpov, torp	2	6	30
 401575	4	0	Brown-Ones (6 Suits)	2021-01-13 — 01:58:36 UTC	ksfortson, Lanvin, nkkarpov, torp	3	6	30
-401553	4	28	Brown-Ones (6 Suits)	2021-01-13 — 01:32:29 UTC	ksfortson, Lanvin, nkkarpov, torp	4	6	30
+401553	4	28	Brown-Ones (6 Suits)	2021-01-13 — 01:32:29 UTC	ksfortson, Lanvin, nkkarpov, torp	5	6	30
 401530	3	30	White-Ones & White (6 Suits)	2021-01-13 — 01:00:06 UTC	Lanvin, nkkarpov, torp	5	6	30
 401488	4	0	3 Suits	2021-01-12 — 23:51:30 UTC	knaphill, nkkarpov, rahsosprout, torp	24	3	15
 401478	4	0	3 Suits	2021-01-12 — 23:33:57 UTC	knaphill, nkkarpov, rahsosprout, torp	26	3	15
@@ -602,12 +645,12 @@
 401443	4	13	3 Suits	2021-01-12 — 22:56:38 UTC	knaphill, nkkarpov, rahsosprout, torp	49	3	15
 401425	4	14	3 Suits	2021-01-12 — 22:40:33 UTC	knaphill, nkkarpov, rahsosprout, torp	62	3	15
 401406	4	19	Brown (4 Suits)	2021-01-12 — 22:20:40 UTC	bjnh, knaphill, nkkarpov, torp	22	4	20
-401388	4	20	Rainbow (4 Suits)	2021-01-12 — 21:54:56 UTC	bjnh, knaphill, nkkarpov, torp	45	4	20
+401388	4	20	Rainbow (4 Suits)	2021-01-12 — 21:54:56 UTC	bjnh, knaphill, nkkarpov, torp	46	4	20
 401368	5	0	White (6 Suits)	2021-01-12 — 21:31:29 UTC	bjnh, knaphill, nkkarpov, PMP, torp	37	6	30
 401303	2	0	Black & Rainbow (6 Suits)	2021-01-12 — 20:19:28 UTC	nkkarpov, paips	5	6	30
 401276	3	30	White-Ones & Rainbow (6 Suits)	2021-01-12 — 19:37:43 UTC	bjnh, Lanvin, nkkarpov	4	6	30
-401257	3	0	No Variant	2021-01-12 — 19:13:51 UTC	bjnh, Lanvin, nkkarpov	516	5	25
-401188	4	30	Prism (6 Suits)	2021-01-12 — 18:04:08 UTC	Fey, newduke, nkkarpov, sin_faith	10	6	30
+401257	3	0	No Variant	2021-01-12 — 19:13:51 UTC	bjnh, Lanvin, nkkarpov	523	5	25
+401188	4	30	Prism (6 Suits)	2021-01-12 — 18:04:08 UTC	Fey, newduke, nkkarpov, sin_faith	11	6	30
 401168	4	0	Prism (6 Suits)	2021-01-12 — 17:39:10 UTC	Fey, newduke, nkkarpov, sin_faith	15	6	30
 401163	4	0	Prism (5 Suits)	2021-01-12 — 17:30:59 UTC	Fey, MangoPie, newduke, nkkarpov	4	5	25
 401155	4	0	Prism (5 Suits)	2021-01-12 — 17:22:40 UTC	Fey, MangoPie, newduke, nkkarpov	5	5	25
@@ -619,152 +662,152 @@
 400934	6	0	Black (6 Suits)	2021-01-12 — 06:32:57 UTC	bjnh, FlightForward, lolthisnotderk, louietyj, nkkarpov, rahsosprout	38	6	30
 400923	5	0	Black (5 Suits)	2021-01-12 — 06:15:43 UTC	bjnh, FlightForward, lolthisnotderk, nkkarpov, rahsosprout	27	5	25
 400909	5	0	Black (5 Suits)	2021-01-12 — 05:58:55 UTC	bjnh, FlightForward, lolthisnotderk, nkkarpov, rahsosprout	36	5	25
-400882	3	22	White (5 Suits)	2021-01-12 — 05:32:37 UTC	bjnh, FlightForward, nkkarpov	81	5	25
+400882	3	22	White (5 Suits)	2021-01-12 — 05:32:37 UTC	bjnh, FlightForward, nkkarpov	84	5	25
 400849	4	0	Up or Down (5 Suits)	2021-01-12 — 05:04:02 UTC	bjnh, IsabeltheCat, nkkarpov, rahsosprout	52	5	25
 400812	4	0	Up or Down (5 Suits)	2021-01-12 — 04:36:05 UTC	bjnh, IsabeltheCat, nkkarpov, rahsosprout	75	5	25
 400793	3	0	Dual-Color (5 Suits)	2021-01-12 — 04:14:41 UTC	dobi, IsabeltheCat, nkkarpov	44	5	25
-400763	2	22	Dark Rainbow (5 Suits)	2021-01-12 — 03:50:24 UTC	nkkarpov, rahsosprout	71	5	25
-400744	2	0	Dark Rainbow (5 Suits)	2021-01-12 — 03:33:36 UTC	nkkarpov, rahsosprout	79	5	25
+400763	2	22	Dark Rainbow (5 Suits)	2021-01-12 — 03:50:24 UTC	nkkarpov, rahsosprout	72	5	25
+400744	2	0	Dark Rainbow (5 Suits)	2021-01-12 — 03:33:36 UTC	nkkarpov, rahsosprout	80	5	25
 400592	3	25	White-Ones (5 Suits)	2021-01-12 — 00:51:46 UTC	nkkarpov, Onen, torp	3	5	25
-400583	3	0	Pink (3 Suits)	2021-01-12 — 00:29:31 UTC	louietyj, nkkarpov, torp	13	3	15
-400578	3	0	Pink (3 Suits)	2021-01-12 — 00:21:35 UTC	louietyj, nkkarpov, torp	19	3	15
-400573	3	0	Pink (3 Suits)	2021-01-12 — 00:14:13 UTC	louietyj, nkkarpov, torp	23	3	15
+400583	3	0	Pink (3 Suits)	2021-01-12 — 00:29:31 UTC	louietyj, nkkarpov, torp	15	3	15
+400578	3	0	Pink (3 Suits)	2021-01-12 — 00:21:35 UTC	louietyj, nkkarpov, torp	21	3	15
+400573	3	0	Pink (3 Suits)	2021-01-12 — 00:14:13 UTC	louietyj, nkkarpov, torp	25	3	15
 400552	5	0	Rainbow (5 Suits)	2021-01-11 — 23:48:15 UTC	IsabeltheCat, louietyj, nkkarpov, torp, wump	22	5	25
-400528	4	25	No Variant	2021-01-11 — 23:14:27 UTC	indego, louietyj, nkkarpov, wump	53	5	25
+400528	4	25	No Variant	2021-01-11 — 23:14:27 UTC	indego, louietyj, nkkarpov, wump	55	5	25
 399847	5	30	6 Suits	2021-01-11 — 04:02:39 UTC	bjnh, eljavi, nkkarpov, rahsosprout, torp	40	6	30
-399806	4	23	Black (5 Suits)	2021-01-11 — 03:18:55 UTC	aquarelle, boba, FerKeth, nkkarpov	44	5	25
+399806	4	23	Black (5 Suits)	2021-01-11 — 03:18:55 UTC	aquarelle, boba, FerKeth, nkkarpov	47	5	25
 399772	5	0	Rainbow (6 Suits)	2021-01-11 — 02:40:08 UTC	antitelharsic, boba, FerKeth, HelanaAshryvr, nkkarpov	49	6	30
 399745	5	0	Rainbow (6 Suits)	2021-01-11 — 01:51:26 UTC	antitelharsic, boba, FerKeth, HelanaAshryvr, nkkarpov	83	6	30
-399718	3	0	6 Suits	2021-01-11 — 01:21:02 UTC	nkkarpov, poofart123, Walker	503	6	30
-399676	4	0	Dark Rainbow (6 Suits)	2021-01-11 — 00:01:16 UTC	newduke, nkkarpov, PMP, ricardodd	25	6	30
+399718	3	0	6 Suits	2021-01-11 — 01:21:02 UTC	nkkarpov, poofart123, Walker	511	6	30
+399676	4	0	Dark Rainbow (6 Suits)	2021-01-11 — 00:01:16 UTC	newduke, nkkarpov, PMP, ricardodd	27	6	30
 399373	5	18	4 Suits	2021-01-10 — 19:36:38 UTC	ArualEIs, eljavi, function, MangoPie, nkkarpov	47	4	20
-399345	3	23	No Variant	2021-01-10 — 19:02:30 UTC	function, Nexus, nkkarpov	2606	5	25
-399241	4	0	Dark Rainbow (6 Suits)	2021-01-10 — 16:05:21 UTC	CaitlinSmith, katian, nkkarpov, ricardodd	41	6	30
-399235	4	0	Dark Rainbow (6 Suits)	2021-01-10 — 15:53:30 UTC	CaitlinSmith, katian, nkkarpov, ricardodd	48	6	30
-398777	3	0	Pink (3 Suits)	2021-01-10 — 05:10:21 UTC	louietyj, nkkarpov, torp	44	3	15
-398760	3	15	White (3 Suits)	2021-01-10 — 04:56:12 UTC	louietyj, nkkarpov, torp	45	3	15
+399345	3	23	No Variant	2021-01-10 — 19:02:30 UTC	function, Nexus, nkkarpov	2627	5	25
+399241	4	0	Dark Rainbow (6 Suits)	2021-01-10 — 16:05:21 UTC	CaitlinSmith, katian, nkkarpov, ricardodd	42	6	30
+399235	4	0	Dark Rainbow (6 Suits)	2021-01-10 — 15:53:30 UTC	CaitlinSmith, katian, nkkarpov, ricardodd	49	6	30
+398777	3	0	Pink (3 Suits)	2021-01-10 — 05:10:21 UTC	louietyj, nkkarpov, torp	46	3	15
+398760	3	15	White (3 Suits)	2021-01-10 — 04:56:12 UTC	louietyj, nkkarpov, torp	49	3	15
 398717	3	22	Rainbow-Fives (5 Suits)	2021-01-10 — 04:22:26 UTC	function, nkkarpov, torp	8	5	25
 398585	6	24	No Variant	2021-01-10 — 02:46:53 UTC	function, ksfortson, nkkarpov, rahsosprout, torp, Vensahn	75	5	25
-398145	3	24	Prism (5 Suits)	2021-01-09 — 21:50:33 UTC	darnley, Feich59, nkkarpov	6	5	25
+398145	3	24	Prism (5 Suits)	2021-01-09 — 21:50:33 UTC	darnley, Feich59, nkkarpov	7	5	25
 398111	3	0	Prism (5 Suits)	2021-01-09 — 21:18:07 UTC	darnley, Feich59, nkkarpov	10	5	25
-398086	4	23	No Variant	2021-01-09 — 20:57:39 UTC	burunduk1, darnley, Feich59, nkkarpov	442	5	25
-398049	3	0	No Variant	2021-01-09 — 20:27:07 UTC	burunduk1, darnley, nkkarpov	680	5	25
-397990	3	28	Dark Rainbow (6 Suits)	2021-01-09 — 19:48:09 UTC	darnley, kunyavskiy, nkkarpov	12	6	30
+398086	4	23	No Variant	2021-01-09 — 20:57:39 UTC	burunduk1, darnley, Feich59, nkkarpov	448	5	25
+398049	3	0	No Variant	2021-01-09 — 20:27:07 UTC	burunduk1, darnley, nkkarpov	688	5	25
+397990	3	28	Dark Rainbow (6 Suits)	2021-01-09 — 19:48:09 UTC	darnley, kunyavskiy, nkkarpov	13	6	30
 397579	4	20	4 Suits	2021-01-09 — 06:34:38 UTC	eljavi, MangoPie, nkkarpov, torp	13	4	20
-397554	3	25	Prism (5 Suits)	2021-01-09 — 06:07:38 UTC	eljavi, nkkarpov, torp	80	5	25
+397554	3	25	Prism (5 Suits)	2021-01-09 — 06:07:38 UTC	eljavi, nkkarpov, torp	82	5	25
 397383	4	23	Brown-Ones (5 Suits)	2021-01-09 — 03:36:13 UTC	eljavi, Lanvin, nkkarpov, rahsosprout	6	5	25
-397345	4	25	Brown (5 Suits)	2021-01-09 — 03:02:05 UTC	eljavi, Lanvin, nkkarpov, rahsosprout	36	5	25
+397345	4	25	Brown (5 Suits)	2021-01-09 — 03:02:05 UTC	eljavi, Lanvin, nkkarpov, rahsosprout	37	5	25
 397168	4	20	4 Suits	2021-01-09 — 00:33:08 UTC	nkkarpov, Onen, rahsosprout, torp	6	4	20
-397134	4	0	4 Suits	2021-01-09 — 00:14:53 UTC	nkkarpov, Onen, rahsosprout, torp	17	4	20
-397107	5	24	No Variant	2021-01-08 — 23:48:37 UTC	ksfortson, MarcLovesDogs, nkkarpov, Onen, torp	28	5	25
+397134	4	0	4 Suits	2021-01-09 — 00:14:53 UTC	nkkarpov, Onen, rahsosprout, torp	18	4	20
+397107	5	24	No Variant	2021-01-08 — 23:48:37 UTC	ksfortson, MarcLovesDogs, nkkarpov, Onen, torp	30	5	25
 397089	4	14	3 Suits	2021-01-08 — 23:24:59 UTC	ksfortson, nkkarpov, Onen, torp	31	3	15
-397014	2	15	Rainbow (3 Suits)	2021-01-08 — 22:12:35 UTC	nkkarpov, torp	127	3	15
-397000	3	19	4 Suits	2021-01-08 — 21:57:25 UTC	nkkarpov, torp, VyV	70	4	20
+397014	2	15	Rainbow (3 Suits)	2021-01-08 — 22:12:35 UTC	nkkarpov, torp	132	3	15
+397000	3	19	4 Suits	2021-01-08 — 21:57:25 UTC	nkkarpov, torp, VyV	71	4	20
 396954	5	0	Dark Rainbow (6 Suits)	2021-01-08 — 21:21:26 UTC	darnley, Feich59, kunyavskiy, nkkarpov, SergeyMelnikov	5	6	30
 396894	4	23	Dark Rainbow (6 Suits)	2021-01-08 — 20:35:13 UTC	darnley, kunyavskiy, nkkarpov, SergeyMelnikov	6	6	30
 396532	5	29	6 Suits	2021-01-08 — 08:27:00 UTC	bjnh, eljavi, lolthisnotderk, nkkarpov, torp	54	6	30
 396500	4	23	Rainbow (5 Suits)	2021-01-08 — 07:27:39 UTC	MangoPie, nkkarpov, Onen, sephiroth	54	5	25
-396449	3	21	White (5 Suits)	2021-01-08 — 06:15:02 UTC	eljavi, MangoPie, nkkarpov	61	5	25
-396420	4	25	No Variant	2021-01-08 — 05:35:36 UTC	eljavi, Lel0uch, MangoPie, nkkarpov	793	5	25
-396367	4	23	Black (5 Suits)	2021-01-08 — 04:40:47 UTC	lolthisnotderk, nkkarpov, rahsosprout, torp	79	5	25
+396449	3	21	White (5 Suits)	2021-01-08 — 06:15:02 UTC	eljavi, MangoPie, nkkarpov	65	5	25
+396420	4	25	No Variant	2021-01-08 — 05:35:36 UTC	eljavi, Lel0uch, MangoPie, nkkarpov	800	5	25
+396367	4	23	Black (5 Suits)	2021-01-08 — 04:40:47 UTC	lolthisnotderk, nkkarpov, rahsosprout, torp	80	5	25
 396318	4	20	4 Suits	2021-01-08 — 04:06:21 UTC	lolthisnotderk, nkkarpov, rahsosprout, torp	19	4	20
 396287	4	19	4 Suits	2021-01-08 — 03:34:36 UTC	lolthisnotderk, nkkarpov, rahsosprout, torp	21	4	20
 396262	3	0	White-Ones (3 Suits)	2021-01-08 — 03:10:41 UTC	lolthisnotderk, nkkarpov, torp	3	3	15
 396239	6	0	6 Suits	2021-01-08 — 02:52:22 UTC	eljavi, kinkajusrevenge, lolthisnotderk, nkkarpov, torp, wvh	84	6	30
 395369	5	27	Prism (6 Suits)	2021-01-07 — 07:49:46 UTC	eljavi, ksfortson, MarcLovesDogs, nkkarpov, torp	11	6	30
 395338	4	0	Prism (6 Suits)	2021-01-07 — 06:57:01 UTC	eljavi, ksfortson, MarcLovesDogs, nkkarpov	1	6	30
-395306	3	25	No Variant	2021-01-07 — 06:22:22 UTC	eljavi, ksfortson, nkkarpov	551	5	25
-395269	5	22	No Variant	2021-01-07 — 05:45:31 UTC	eljavi, IsabeltheCat, ksfortson, MangoPie, nkkarpov	31	5	25
-395226	3	21	No Variant	2021-01-07 — 04:56:52 UTC	LamboXD, louietyj, nkkarpov	1095	5	25
-395157	4	22	No Variant	2021-01-07 — 03:36:06 UTC	desymo99, eljavi, nkkarpov, wump	55	5	25
-395042	4	27	Black (6 Suits)	2021-01-07 — 01:57:58 UTC	nkkarpov, rahsosprout, Vensahn, voss	142	6	30
-395015	5	0	Black (6 Suits)	2021-01-07 — 01:17:34 UTC	Nitrate, nkkarpov, rahsosprout, Vensahn, voss	27	6	30
-395000	3	28	Black (6 Suits)	2021-01-07 — 00:57:32 UTC	Nitrate, nkkarpov, voss	149	6	30
-394977	3	0	Black (6 Suits)	2021-01-07 — 00:24:04 UTC	Nitrate, nkkarpov, voss	159	6	30
-394897	3	24	White-Ones (5 Suits)	2021-01-06 — 23:02:17 UTC	ArualEIs, nkkarpov, Pimak	20	5	25
+395306	3	25	No Variant	2021-01-07 — 06:22:22 UTC	eljavi, ksfortson, nkkarpov	558	5	25
+395269	5	22	No Variant	2021-01-07 — 05:45:31 UTC	eljavi, IsabeltheCat, ksfortson, MangoPie, nkkarpov	32	5	25
+395226	3	21	No Variant	2021-01-07 — 04:56:52 UTC	LamboXD, louietyj, nkkarpov	1102	5	25
+395157	4	22	No Variant	2021-01-07 — 03:36:06 UTC	desymo99, eljavi, nkkarpov, wump	56	5	25
+395042	4	27	Black (6 Suits)	2021-01-07 — 01:57:58 UTC	nkkarpov, rahsosprout, Vensahn, voss	143	6	30
+395015	5	0	Black (6 Suits)	2021-01-07 — 01:17:34 UTC	Nitrate, nkkarpov, rahsosprout, Vensahn, voss	28	6	30
+395000	3	28	Black (6 Suits)	2021-01-07 — 00:57:32 UTC	Nitrate, nkkarpov, voss	151	6	30
+394977	3	0	Black (6 Suits)	2021-01-07 — 00:24:04 UTC	Nitrate, nkkarpov, voss	161	6	30
+394897	3	24	White-Ones (5 Suits)	2021-01-06 — 23:02:17 UTC	ArualEIs, nkkarpov, Pimak	21	5	25
 394844	3	17	4 Suits	2021-01-06 — 22:24:03 UTC	Damian000, nkkarpov, robense	90	4	20
-394546	3	23	No Variant	2021-01-06 — 17:27:34 UTC	knaphill, Nils, nkkarpov	459	5	25
-394534	4	11	3 Suits	2021-01-06 — 16:56:15 UTC	knaphill, majaitre, Nils, nkkarpov	73	3	15
-394516	4	19	No Variant	2021-01-06 — 16:06:10 UTC	LamboXD, narabio, nkkarpov, sean1815	3581	5	25
+394546	3	23	No Variant	2021-01-06 — 17:27:34 UTC	knaphill, Nils, nkkarpov	467	5	25
+394534	4	11	3 Suits	2021-01-06 — 16:56:15 UTC	knaphill, majaitre, Nils, nkkarpov	74	3	15
+394516	4	19	No Variant	2021-01-06 — 16:06:10 UTC	LamboXD, narabio, nkkarpov, sean1815	3609	5	25
 394485	3	28	Rainbow (6 Suits)	2021-01-06 — 14:43:41 UTC	kinkajusrevenge, knaphill, nkkarpov	120	6	30
-393197	2	25	No Variant	2021-01-05 — 06:35:56 UTC	alina239, nkkarpov	506	5	25
-393190	2	0	No Variant	2021-01-05 — 06:18:04 UTC	alina239, nkkarpov	513	5	25
-393185	2	0	No Variant	2021-01-05 — 06:07:35 UTC	alina239, nkkarpov	526	5	25
-393181	2	0	No Variant	2021-01-05 — 06:01:32 UTC	alina239, nkkarpov	534	5	25
+393197	2	25	No Variant	2021-01-05 — 06:35:56 UTC	alina239, nkkarpov	513	5	25
+393190	2	0	No Variant	2021-01-05 — 06:18:04 UTC	alina239, nkkarpov	521	5	25
+393185	2	0	No Variant	2021-01-05 — 06:07:35 UTC	alina239, nkkarpov	534	5	25
+393181	2	0	No Variant	2021-01-05 — 06:01:32 UTC	alina239, nkkarpov	543	5	25
 393132	3	0	Null-Ones (3 Suits)	2021-01-05 — 04:59:22 UTC	nkkarpov, Onen, ricardodd	1	3	15
 393129	3	0	Null-Ones (3 Suits)	2021-01-05 — 04:48:32 UTC	nkkarpov, Onen, ricardodd	4	3	15
 393061	4	0	White-Ones (5 Suits)	2021-01-05 — 03:33:35 UTC	lolthisnotderk, Nitrate, nkkarpov, sin_faith	7	5	25
 392989	3	24	White-Ones (5 Suits)	2021-01-05 — 02:51:16 UTC	lolthisnotderk, Nitrate, nkkarpov	3	5	25
-392934	3	25	No Variant	2021-01-05 — 02:15:42 UTC	lolthisnotderk, Nitrate, nkkarpov	1291	5	25
-392899	3	21	No Variant	2021-01-05 — 01:33:26 UTC	lolthisnotderk, Nitrate, nkkarpov	1636	5	25
+392934	3	25	No Variant	2021-01-05 — 02:15:42 UTC	lolthisnotderk, Nitrate, nkkarpov	1299	5	25
+392899	3	21	No Variant	2021-01-05 — 01:33:26 UTC	lolthisnotderk, Nitrate, nkkarpov	1651	5	25
 392879	4	14	White-Ones (3 Suits)	2021-01-05 — 00:56:43 UTC	knaphill, Lanvin, nkkarpov, torp	1	3	15
 392869	4	0	White-Ones (3 Suits)	2021-01-05 — 00:34:02 UTC	knaphill, Lanvin, nkkarpov, torp	2	3	15
 392705	3	25	No Variant	2021-01-04 — 21:32:08 UTC	bjnh, nkkarpov, robense	27	5	25
-392667	3	23	No Variant	2021-01-04 — 20:54:05 UTC	ADrone, diael, nkkarpov	106	5	25
-392620	3	0	No Variant	2021-01-04 — 20:21:50 UTC	ADrone, diael, nkkarpov	106	5	25
-392599	3	22	No Variant	2021-01-04 — 19:51:33 UTC	ADrone, diael, nkkarpov	109	5	25
+392667	3	23	No Variant	2021-01-04 — 20:54:05 UTC	ADrone, diael, nkkarpov	110	5	25
+392620	3	0	No Variant	2021-01-04 — 20:21:50 UTC	ADrone, diael, nkkarpov	111	5	25
+392599	3	22	No Variant	2021-01-04 — 19:51:33 UTC	ADrone, diael, nkkarpov	115	5	25
 392585	5	0	Rainbow & Pink (6 Suits)	2021-01-04 — 19:28:27 UTC	ChristopheAF, HelanaAshryvr, IsabeltheCat, Lanvin, nkkarpov	10	6	30
 392576	5	30	White-Ones (6 Suits)	2021-01-04 — 19:08:03 UTC	IsabeltheCat, knaphill, Lanvin, nkkarpov, Pimak	3	6	30
-392338	4	25	No Variant	2021-01-04 — 07:53:10 UTC	eljavi, ksfortson, MarcLovesDogs, nkkarpov	82	5	25
-392321	4	25	No Variant	2021-01-04 — 07:20:32 UTC	eljavi, ksfortson, MarcLovesDogs, nkkarpov	180	5	25
-392300	4	23	No Variant	2021-01-04 — 06:37:11 UTC	banjoleb, eljavi, ksfortson, nkkarpov	2763	5	25
-392273	5	24	No Variant	2021-01-04 — 05:52:01 UTC	banjoleb, eljavi, ksfortson, nkkarpov, SevenSpirits	35	5	25
-392220	5	21	Rainbow (5 Suits)	2021-01-04 — 04:59:09 UTC	Lanvin, lolthisnotderk, nkkarpov, rahsosprout, torp	54	5	25
+392338	4	25	No Variant	2021-01-04 — 07:53:10 UTC	eljavi, ksfortson, MarcLovesDogs, nkkarpov	84	5	25
+392321	4	25	No Variant	2021-01-04 — 07:20:32 UTC	eljavi, ksfortson, MarcLovesDogs, nkkarpov	182	5	25
+392300	4	23	No Variant	2021-01-04 — 06:37:11 UTC	banjoleb, eljavi, ksfortson, nkkarpov	2788	5	25
+392273	5	24	No Variant	2021-01-04 — 05:52:01 UTC	banjoleb, eljavi, ksfortson, nkkarpov, SevenSpirits	36	5	25
+392220	5	21	Rainbow (5 Suits)	2021-01-04 — 04:59:09 UTC	Lanvin, lolthisnotderk, nkkarpov, rahsosprout, torp	55	5	25
 392177	5	21	Black (5 Suits)	2021-01-04 — 04:20:21 UTC	IsabeltheCat, Lanvin, nkkarpov, rahsosprout, torp	23	5	25
 392147	5	0	Black (5 Suits)	2021-01-04 — 03:53:28 UTC	colton, IsabeltheCat, Lanvin, nkkarpov, torp	30	5	25
 392125	3	20	White-Ones (4 Suits)	2021-01-04 — 03:35:49 UTC	IsabeltheCat, Lanvin, nkkarpov	7	4	20
-392032	3	23	No Variant	2021-01-04 — 02:34:03 UTC	lolthisnotderk, Matir, nkkarpov	3260	5	25
-391729	2	20	4 Suits	2021-01-03 — 21:29:48 UTC	ArualEIs, nkkarpov	128	4	20
-391705	2	19	4 Suits	2021-01-03 — 21:05:00 UTC	ArualEIs, nkkarpov	171	4	20
-391685	2	0	4 Suits	2021-01-03 — 20:50:12 UTC	ArualEIs, nkkarpov	244	4	20
-391675	3	0	4 Suits	2021-01-03 — 20:40:43 UTC	ArualEIs, nkkarpov, rahsosprout	118	4	20
-391661	3	19	4 Suits	2021-01-03 — 20:27:57 UTC	ArualEIs, nkkarpov, rahsosprout	160	4	20
-391644	2	24	No Variant	2021-01-03 — 20:03:06 UTC	alina239, nkkarpov	549	5	25
-391633	2	0	No Variant	2021-01-03 — 19:50:48 UTC	alina239, nkkarpov	555	5	25
-391625	2	25	No Variant	2021-01-03 — 19:40:46 UTC	alina239, nkkarpov	581	5	25
-391608	2	0	No Variant	2021-01-03 — 19:23:36 UTC	alina239, nkkarpov	593	5	25
-391600	2	0	No Variant	2021-01-03 — 19:15:08 UTC	alina239, nkkarpov	597	5	25
-391347	4	24	No Variant	2021-01-03 — 08:06:57 UTC	lolthisnotderk, nkkarpov, rahsosprout, torp	717	5	25
-391286	4	19	4 Suits	2021-01-03 — 06:31:02 UTC	lolthisnotderk, nkkarpov, rahsosprout, torp	77	4	20
-391259	4	18	4 Suits	2021-01-03 — 05:53:39 UTC	lolthisnotderk, nkkarpov, rahsosprout, torp	101	4	20
-391224	3	25	No Variant	2021-01-03 — 05:22:46 UTC	nkkarpov, rahsosprout, Yerroherro	645	5	25
-391134	2	23	No Variant	2021-01-03 — 04:28:00 UTC	nkkarpov, Rapzim	626	5	25
-391088	2	24	No Variant	2021-01-03 — 04:03:57 UTC	nkkarpov, Rapzim	654	5	25
-391046	2	0	No Variant	2021-01-03 — 03:35:53 UTC	nkkarpov, pianoblook	677	5	25
-391008	2	0	No Variant	2021-01-03 — 03:10:18 UTC	alina239, nkkarpov	699	5	25
-390999	2	0	No Variant	2021-01-03 — 03:06:51 UTC	alina239, nkkarpov	719	5	25
-390992	2	0	No Variant	2021-01-03 — 02:58:59 UTC	alina239, nkkarpov	741	5	25
-390968	2	0	No Variant	2021-01-03 — 02:46:59 UTC	alina239, nkkarpov	770	5	25
-390957	2	0	No Variant	2021-01-03 — 02:37:03 UTC	alina239, nkkarpov	794	5	25
-390939	2	0	No Variant	2021-01-03 — 02:23:29 UTC	alina239, nkkarpov	818	5	25
-390787	2	0	No Variant	2021-01-02 — 23:58:32 UTC	alina239, nkkarpov	854	5	25
-390772	2	0	No Variant	2021-01-02 — 23:44:15 UTC	alina239, nkkarpov	883	5	25
-390757	2	22	No Variant	2021-01-02 — 23:33:17 UTC	alina239, nkkarpov	921	5	25
-390725	2	0	No Variant	2021-01-02 — 23:14:51 UTC	alina239, nkkarpov	948	5	25
-390709	2	23	No Variant	2021-01-02 — 23:01:11 UTC	alina239, nkkarpov	976	5	25
-390444	4	25	No Variant	2021-01-02 — 18:45:55 UTC	Damian000, diael, knaphill, nkkarpov	601	5	25
-390392	3	23	No Variant	2021-01-02 — 17:38:47 UTC	Damian000, knaphill, nkkarpov	4221	5	25
-390340	4	24	No Variant	2021-01-02 — 16:29:33 UTC	Doge, knaphill, nkkarpov, wump	63	5	25
-390046	2	25	No Variant	2021-01-02 — 05:23:59 UTC	alina239, nkkarpov	1031	5	25
-390022	2	23	No Variant	2021-01-02 — 05:02:27 UTC	alina239, nkkarpov	1078	5	25
-390006	2	0	No Variant	2021-01-02 — 04:46:12 UTC	alina239, nkkarpov	1117	5	25
-389999	2	25	No Variant	2021-01-02 — 04:37:35 UTC	alina239, nkkarpov	1148	5	25
-389982	2	0	No Variant	2021-01-02 — 04:18:58 UTC	alina239, nkkarpov	1206	5	25
-389971	2	0	No Variant	2021-01-02 — 04:08:33 UTC	alina239, nkkarpov	1249	5	25
-389936	2	0	No Variant	2021-01-02 — 03:35:33 UTC	alina239, nkkarpov	1299	5	25
-389920	2	25	No Variant	2021-01-02 — 03:18:10 UTC	alina239, nkkarpov	1376	5	25
-389905	2	0	No Variant	2021-01-02 — 03:01:25 UTC	alina239, nkkarpov	1448	5	25
-389888	2	0	No Variant	2021-01-02 — 02:44:21 UTC	alina239, nkkarpov	1532	5	25
-389874	2	0	No Variant	2021-01-02 — 02:33:56 UTC	alina239, nkkarpov	1621	5	25
-389869	2	0	No Variant	2021-01-02 — 02:30:16 UTC	alina239, nkkarpov	1703	5	25
-389853	2	25	No Variant	2021-01-02 — 02:14:32 UTC	alina239, nkkarpov	1840	5	25
-389842	2	24	No Variant	2021-01-02 — 01:59:05 UTC	alina239, nkkarpov	1952	5	25
-389829	2	23	No Variant	2021-01-02 — 01:45:14 UTC	alina239, nkkarpov	2147	5	25
-389779	2	25	No Variant	2021-01-02 — 00:54:26 UTC	alina239, nkkarpov	2288	5	25
-389751	2	25	No Variant	2021-01-02 — 00:25:16 UTC	alina239, nkkarpov	2532	5	25
-389735	2	0	No Variant	2021-01-02 — 00:05:54 UTC	alina239, nkkarpov	2750	5	25
-389716	2	25	No Variant	2021-01-01 — 23:50:39 UTC	alina239, nkkarpov	3051	5	25
-389676	2	23	No Variant	2021-01-01 — 23:15:41 UTC	alina239, nkkarpov	3507	5	25
-389655	2	0	No Variant	2021-01-01 — 22:54:19 UTC	alina239, nkkarpov	4109	5	25
-389641	2	0	No Variant	2021-01-01 — 22:36:44 UTC	alina239, nkkarpov	5374	5	25
-389477	3	23	No Variant	2021-01-01 — 19:44:24 UTC	darnley, kunyavskiy, nkkarpov	750	5	25
+392032	3	23	No Variant	2021-01-04 — 02:34:03 UTC	lolthisnotderk, Matir, nkkarpov	3290	5	25
+391729	2	20	4 Suits	2021-01-03 — 21:29:48 UTC	ArualEIs, nkkarpov	134	4	20
+391705	2	19	4 Suits	2021-01-03 — 21:05:00 UTC	ArualEIs, nkkarpov	177	4	20
+391685	2	0	4 Suits	2021-01-03 — 20:50:12 UTC	ArualEIs, nkkarpov	248	4	20
+391675	3	0	4 Suits	2021-01-03 — 20:40:43 UTC	ArualEIs, nkkarpov, rahsosprout	120	4	20
+391661	3	19	4 Suits	2021-01-03 — 20:27:57 UTC	ArualEIs, nkkarpov, rahsosprout	162	4	20
+391644	2	24	No Variant	2021-01-03 — 20:03:06 UTC	alina239, nkkarpov	558	5	25
+391633	2	0	No Variant	2021-01-03 — 19:50:48 UTC	alina239, nkkarpov	564	5	25
+391625	2	25	No Variant	2021-01-03 — 19:40:46 UTC	alina239, nkkarpov	589	5	25
+391608	2	0	No Variant	2021-01-03 — 19:23:36 UTC	alina239, nkkarpov	604	5	25
+391600	2	0	No Variant	2021-01-03 — 19:15:08 UTC	alina239, nkkarpov	609	5	25
+391347	4	24	No Variant	2021-01-03 — 08:06:57 UTC	lolthisnotderk, nkkarpov, rahsosprout, torp	724	5	25
+391286	4	19	4 Suits	2021-01-03 — 06:31:02 UTC	lolthisnotderk, nkkarpov, rahsosprout, torp	80	4	20
+391259	4	18	4 Suits	2021-01-03 — 05:53:39 UTC	lolthisnotderk, nkkarpov, rahsosprout, torp	104	4	20
+391224	3	25	No Variant	2021-01-03 — 05:22:46 UTC	nkkarpov, rahsosprout, Yerroherro	655	5	25
+391134	2	23	No Variant	2021-01-03 — 04:28:00 UTC	nkkarpov, Rapzim	637	5	25
+391088	2	24	No Variant	2021-01-03 — 04:03:57 UTC	nkkarpov, Rapzim	664	5	25
+391046	2	0	No Variant	2021-01-03 — 03:35:53 UTC	nkkarpov, pianoblook	683	5	25
+391008	2	0	No Variant	2021-01-03 — 03:10:18 UTC	alina239, nkkarpov	705	5	25
+390999	2	0	No Variant	2021-01-03 — 03:06:51 UTC	alina239, nkkarpov	725	5	25
+390992	2	0	No Variant	2021-01-03 — 02:58:59 UTC	alina239, nkkarpov	749	5	25
+390968	2	0	No Variant	2021-01-03 — 02:46:59 UTC	alina239, nkkarpov	779	5	25
+390957	2	0	No Variant	2021-01-03 — 02:37:03 UTC	alina239, nkkarpov	803	5	25
+390939	2	0	No Variant	2021-01-03 — 02:23:29 UTC	alina239, nkkarpov	828	5	25
+390787	2	0	No Variant	2021-01-02 — 23:58:32 UTC	alina239, nkkarpov	863	5	25
+390772	2	0	No Variant	2021-01-02 — 23:44:15 UTC	alina239, nkkarpov	890	5	25
+390757	2	22	No Variant	2021-01-02 — 23:33:17 UTC	alina239, nkkarpov	931	5	25
+390725	2	0	No Variant	2021-01-02 — 23:14:51 UTC	alina239, nkkarpov	960	5	25
+390709	2	23	No Variant	2021-01-02 — 23:01:11 UTC	alina239, nkkarpov	985	5	25
+390444	4	25	No Variant	2021-01-02 — 18:45:55 UTC	Damian000, diael, knaphill, nkkarpov	606	5	25
+390392	3	23	No Variant	2021-01-02 — 17:38:47 UTC	Damian000, knaphill, nkkarpov	4250	5	25
+390340	4	24	No Variant	2021-01-02 — 16:29:33 UTC	Doge, knaphill, nkkarpov, wump	64	5	25
+390046	2	25	No Variant	2021-01-02 — 05:23:59 UTC	alina239, nkkarpov	1041	5	25
+390022	2	23	No Variant	2021-01-02 — 05:02:27 UTC	alina239, nkkarpov	1089	5	25
+390006	2	0	No Variant	2021-01-02 — 04:46:12 UTC	alina239, nkkarpov	1124	5	25
+389999	2	25	No Variant	2021-01-02 — 04:37:35 UTC	alina239, nkkarpov	1159	5	25
+389982	2	0	No Variant	2021-01-02 — 04:18:58 UTC	alina239, nkkarpov	1219	5	25
+389971	2	0	No Variant	2021-01-02 — 04:08:33 UTC	alina239, nkkarpov	1263	5	25
+389936	2	0	No Variant	2021-01-02 — 03:35:33 UTC	alina239, nkkarpov	1311	5	25
+389920	2	25	No Variant	2021-01-02 — 03:18:10 UTC	alina239, nkkarpov	1392	5	25
+389905	2	0	No Variant	2021-01-02 — 03:01:25 UTC	alina239, nkkarpov	1460	5	25
+389888	2	0	No Variant	2021-01-02 — 02:44:21 UTC	alina239, nkkarpov	1547	5	25
+389874	2	0	No Variant	2021-01-02 — 02:33:56 UTC	alina239, nkkarpov	1637	5	25
+389869	2	0	No Variant	2021-01-02 — 02:30:16 UTC	alina239, nkkarpov	1721	5	25
+389853	2	25	No Variant	2021-01-02 — 02:14:32 UTC	alina239, nkkarpov	1856	5	25
+389842	2	24	No Variant	2021-01-02 — 01:59:05 UTC	alina239, nkkarpov	1966	5	25
+389829	2	23	No Variant	2021-01-02 — 01:45:14 UTC	alina239, nkkarpov	2166	5	25
+389779	2	25	No Variant	2021-01-02 — 00:54:26 UTC	alina239, nkkarpov	2307	5	25
+389751	2	25	No Variant	2021-01-02 — 00:25:16 UTC	alina239, nkkarpov	2552	5	25
+389735	2	0	No Variant	2021-01-02 — 00:05:54 UTC	alina239, nkkarpov	2772	5	25
+389716	2	25	No Variant	2021-01-01 — 23:50:39 UTC	alina239, nkkarpov	3072	5	25
+389676	2	23	No Variant	2021-01-01 — 23:15:41 UTC	alina239, nkkarpov	3537	5	25
+389655	2	0	No Variant	2021-01-01 — 22:54:19 UTC	alina239, nkkarpov	4149	5	25
+389641	2	0	No Variant	2021-01-01 — 22:36:44 UTC	alina239, nkkarpov	5421	5	25
+389477	3	23	No Variant	2021-01-01 — 19:44:24 UTC	darnley, kunyavskiy, nkkarpov	757	5	25

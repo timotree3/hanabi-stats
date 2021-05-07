@@ -1,14 +1,48 @@
+522027	5	0	Black (6 Suits)	2021-05-06 — 09:34:48 UTC	Aluap, Animex52, antitelharsic, boba, methmatics	22	6	30
+522022	5	0	Black (6 Suits)	2021-05-06 — 09:08:59 UTC	Aluap, Animex52, antitelharsic, boba, methmatics	23	6	30
+522017	5	26	Black (6 Suits)	2021-05-06 — 08:57:04 UTC	Aluap, Animex52, antitelharsic, boba, methmatics	28	6	30
+522008	4	0	Black (5 Suits)	2021-05-06 — 08:14:47 UTC	Aluap, Animex52, antitelharsic, boba	37	5	25
+518455	4	0	Black (5 Suits)	2021-05-02 — 05:39:51 UTC	Animex52, antitelharsic, qqqq, squirrel1988	47	5	25
+518448	4	0	Black (5 Suits)	2021-05-02 — 05:25:00 UTC	Animex52, antitelharsic, indego, squirrel1988	64	5	25
+517673	6	0	Rainbow (5 Suits)	2021-05-01 — 11:06:20 UTC	Aluap, Animex52, antitelharsic, catula, ejnyebejnye, Lanvin	1	5	25
+517672	6	0	Rainbow (5 Suits)	2021-05-01 — 10:48:25 UTC	Aluap, Animex52, antitelharsic, catula, ejnyebejnye, Lanvin	1	5	25
+517633	4	22	Dark Prism (5 Suits)	2021-05-01 — 08:30:15 UTC	Aluap, Animex52, antitelharsic, squirrel1988	1	5	25
+517629	4	0	Dark Prism (5 Suits)	2021-05-01 — 08:10:25 UTC	Aluap, Animex52, antitelharsic, squirrel1988	2	5	25
+517627	4	0	Dark Prism (5 Suits)	2021-05-01 — 07:54:58 UTC	Aluap, Animex52, antitelharsic, squirrel1988	2	5	25
+517623	4	0	Dark Prism (5 Suits)	2021-05-01 — 07:44:24 UTC	Aluap, Animex52, antitelharsic, squirrel1988	3	5	25
+517616	4	24	Dark Prism (5 Suits)	2021-05-01 — 07:25:49 UTC	Animex52, antitelharsic, dobi, squirrel1988	4	5	25
+516658	3	20	White & Cocoa Rainbow (5 Suits)	2021-04-30 — 09:23:01 UTC	Animex52, antitelharsic, catula	2	5	25
+516642	4	23	Cocoa Rainbow (5 Suits)	2021-04-30 — 08:46:21 UTC	Animex52, antitelharsic, catula, robense	8	5	25
+514799	3	24	Black & Prism (5 Suits)	2021-04-28 — 12:42:42 UTC	Animex52, catula, Sucubis	2	5	25
+514795	3	0	Black & Prism (5 Suits)	2021-04-28 — 12:15:59 UTC	Animex52, catula, Sucubis	3	5	25
+514793	3	0	Black & Prism (5 Suits)	2021-04-28 — 12:09:19 UTC	Animex52, catula, Sucubis	3	5	25
+513838	6	28	White & Dark Rainbow (6 Suits)	2021-04-27 — 09:32:05 UTC	Animex52, antitelharsic, boba, indego, Lel0uch, squirrel1988	2	6	30
+513834	6	0	White & Dark Rainbow (6 Suits)	2021-04-27 — 08:56:30 UTC	Animex52, antitelharsic, boba, indego, Lel0uch, squirrel1988	2	6	30
+513809	6	29	Pink (6 Suits)	2021-04-27 — 07:07:41 UTC	Animex52, antitelharsic, Lel0uch, squirrel1988, Wittvector, xor	6	6	30
+513791	3	30	Pink & Dark Prism (6 Suits)	2021-04-27 — 06:29:56 UTC	Animex52, Lel0uch, squirrel1988	3	6	30
+513769	3	0	Pink & Dark Prism (6 Suits)	2021-04-27 — 06:00:32 UTC	Animex52, Lel0uch, squirrel1988	3	6	30
+513646	4	30	Brown (6 Suits)	2021-04-27 — 03:26:43 UTC	Animex52, antitelharsic, HelanaAshryvr, kimbifille	28	6	30
+513634	4	0	Brown (6 Suits)	2021-04-27 — 02:58:44 UTC	Animex52, antitelharsic, HelanaAshryvr, kimbifille	28	6	30
+513625	3	30	Ambiguous (6 Suits)	2021-04-27 — 02:41:07 UTC	Animex52, aquarelle, HelanaAshryvr	16	6	30
+513600	3	0	Ambiguous (6 Suits)	2021-04-27 — 02:17:13 UTC	Animex52, aquarelle, HelanaAshryvr	23	6	30
+513595	3	0	Ambiguous (6 Suits)	2021-04-27 — 02:10:18 UTC	Animex52, aquarelle, HelanaAshryvr	29	6	30
+513589	3	0	Ambiguous (6 Suits)	2021-04-27 — 02:02:49 UTC	Animex52, aquarelle, HelanaAshryvr	43	6	30
+513581	3	0	Ambiguous (6 Suits)	2021-04-27 — 01:51:04 UTC	Animex52, aquarelle, HelanaAshryvr	71	6	30
+513107	2	0	Duck (5 Suits)	2021-04-26 — 15:08:43 UTC	Animex52, sin_faith	13	5	25
+513096	2	0	Duck (5 Suits)	2021-04-26 — 14:45:04 UTC	Aluap, Animex52	17	5	25
+513078	2	0	Duck (5 Suits)	2021-04-26 — 14:09:32 UTC	Aluap, Animex52	18	5	25
+513063	2	0	Duck (5 Suits)	2021-04-26 — 13:44:25 UTC	Aluap, Animex52	31	5	25
 512179	6	0	Omni (6 Suits)	2021-04-25 — 12:37:56 UTC	Animex52, aquarelle, BraydonM, Lanvin, sin_faith, squirrel1988	4	6	30
 512177	6	0	Omni (6 Suits)	2021-04-25 — 12:23:19 UTC	Animex52, aquarelle, BraydonM, Lanvin, sin_faith, squirrel1988	7	6	30
 511229	5	0	Black & Brown (5 Suits)	2021-04-24 — 11:54:13 UTC	Aluap, Animex52, aquarelle, MalachiteMoa, mystus	6	5	25
 511222	5	0	Black & Brown (5 Suits)	2021-04-24 — 11:27:26 UTC	Aluap, Animex52, aquarelle, MalachiteMoa, mystus	7	5	25
 509193	3	25	Gray (5 Suits)	2021-04-22 — 05:32:41 UTC	Aluap, Animex52, antitelharsic	11	5	25
 509179	3	0	Gray (5 Suits)	2021-04-22 — 05:11:36 UTC	Aluap, Animex52, antitelharsic	11	5	25
-509171	3	21	Gray (5 Suits)	2021-04-22 — 04:59:29 UTC	Aluap, Animex52, antitelharsic	11	5	25
-509151	3	23	Gray (5 Suits)	2021-04-22 — 04:28:23 UTC	Aluap, Animex52, antitelharsic	12	5	25
-509133	3	22	Gray (5 Suits)	2021-04-22 — 04:01:57 UTC	Aluap, Animex52, antitelharsic	17	5	25
-509113	3	0	Gray (5 Suits)	2021-04-22 — 03:37:49 UTC	Aluap, Animex52, antitelharsic	35	5	25
-509100	3	0	Gray (5 Suits)	2021-04-22 — 03:22:27 UTC	Aluap, Animex52, antitelharsic	37	5	25
+509171	3	21	Gray (5 Suits)	2021-04-22 — 04:59:29 UTC	Aluap, Animex52, antitelharsic	12	5	25
+509151	3	23	Gray (5 Suits)	2021-04-22 — 04:28:23 UTC	Aluap, Animex52, antitelharsic	13	5	25
+509133	3	22	Gray (5 Suits)	2021-04-22 — 04:01:57 UTC	Aluap, Animex52, antitelharsic	18	5	25
+509113	3	0	Gray (5 Suits)	2021-04-22 — 03:37:49 UTC	Aluap, Animex52, antitelharsic	36	5	25
+509100	3	0	Gray (5 Suits)	2021-04-22 — 03:22:27 UTC	Aluap, Animex52, antitelharsic	39	5	25
 509051	6	22	Black (5 Suits)	2021-04-22 — 02:49:27 UTC	Animex52, antitelharsic, aquarelle, boba, HelanaAshryvr, squirrel1988	3	5	25
 509029	6	22	Black (5 Suits)	2021-04-22 — 02:06:06 UTC	Animex52, antitelharsic, aquarelle, boba, HelanaAshryvr, squirrel1988	3	5	25
 509001	6	23	Black (5 Suits)	2021-04-22 — 01:35:34 UTC	Animex52, antitelharsic, aquarelle, boba, HelanaAshryvr, squirrel1988	8	5	25
@@ -20,69 +54,69 @@
 507396	5	0	Black (5 Suits)	2021-04-20 — 09:03:14 UTC	Animex52, antitelharsic, Lel0uch, squirrel1988, VerySloppyTwo	6	5	25
 507394	5	0	Black (5 Suits)	2021-04-20 — 08:43:59 UTC	Animex52, antitelharsic, Lel0uch, squirrel1988, VerySloppyTwo	9	5	25
 507391	5	0	Black (5 Suits)	2021-04-20 — 08:23:24 UTC	Animex52, antitelharsic, Lel0uch, squirrel1988, VerySloppyTwo	11	5	25
-507389	4	0	Black (5 Suits)	2021-04-20 — 08:13:35 UTC	Animex52, antitelharsic, Lel0uch, squirrel1988	36	5	25
-507388	4	0	Black (5 Suits)	2021-04-20 — 08:08:29 UTC	Animex52, antitelharsic, Lel0uch, squirrel1988	41	5	25
+507389	4	0	Black (5 Suits)	2021-04-20 — 08:13:35 UTC	Animex52, antitelharsic, Lel0uch, squirrel1988	37	5	25
+507388	4	0	Black (5 Suits)	2021-04-20 — 08:08:29 UTC	Animex52, antitelharsic, Lel0uch, squirrel1988	42	5	25
 507199	4	0	Dark Prism (6 Suits)	2021-04-20 — 03:25:23 UTC	Animex52, aquarelle, boba, HelanaAshryvr	8	6	30
-507194	4	0	Dark Prism (6 Suits)	2021-04-20 — 03:17:44 UTC	Animex52, aquarelle, boba, HelanaAshryvr	10	6	30
+507194	4	0	Dark Prism (6 Suits)	2021-04-20 — 03:17:44 UTC	Animex52, aquarelle, boba, HelanaAshryvr	11	6	30
 507192	4	0	Dark Prism (6 Suits)	2021-04-20 — 03:15:19 UTC	Animex52, aquarelle, boba, HelanaAshryvr	14	6	30
-507180	4	0	Omni (4 Suits)	2021-04-20 — 03:04:57 UTC	Animex52, aquarelle, boba, HelanaAshryvr	15	4	20
+507180	4	0	Omni (4 Suits)	2021-04-20 — 03:04:57 UTC	Animex52, aquarelle, boba, HelanaAshryvr	16	4	20
 507164	3	23	Dark Pink (5 Suits)	2021-04-20 — 02:50:14 UTC	Animex52, aquarelle, HelanaAshryvr	38	5	25
-506510	2	0	Null (4 Suits)	2021-04-19 — 13:28:11 UTC	Animex52, catula	40	4	20
-506506	2	17	Null (4 Suits)	2021-04-19 — 13:12:22 UTC	Animex52, catula	46	4	20
+506510	2	0	Null (4 Suits)	2021-04-19 — 13:28:11 UTC	Animex52, catula	42	4	20
+506506	2	17	Null (4 Suits)	2021-04-19 — 13:12:22 UTC	Animex52, catula	48	4	20
 506495	2	0	Light-Pink-Fives & Omni (3 Suits)	2021-04-19 — 12:49:51 UTC	Animex52, catula	2	3	15
-506480	3	24	Brown-Fives (5 Suits)	2021-04-19 — 12:29:31 UTC	Aluap, Animex52, catula	2	5	25
-506452	3	0	Brown-Fives (5 Suits)	2021-04-19 — 11:56:11 UTC	Aluap, Animex52, catula	4	5	25
+506480	3	24	Brown-Fives (5 Suits)	2021-04-19 — 12:29:31 UTC	Aluap, Animex52, catula	3	5	25
+506452	3	0	Brown-Fives (5 Suits)	2021-04-19 — 11:56:11 UTC	Aluap, Animex52, catula	5	5	25
 506035	5	28	Brown-Ones & White (6 Suits)	2021-04-19 — 01:19:44 UTC	Animex52, boba, kevincaseytdk1, Lanvin, melwen	1	6	30
-505168	4	20	White (4 Suits)	2021-04-18 — 08:58:12 UTC	Aluap, Animex52, possum, qqqq	20	4	20
+505168	4	20	White (4 Suits)	2021-04-18 — 08:58:12 UTC	Aluap, Animex52, possum, qqqq	21	4	20
 505105	4	30	White (6 Suits)	2021-04-18 — 06:06:00 UTC	Animex52, FerKeth, HelanaAshryvr, squirrel1988	14	6	30
 501810	2	0	Duck (4 Suits)	2021-04-15 — 12:22:13 UTC	Animex52, catula	6	4	20
 499718	5	24	No Variant	2021-04-13 — 14:59:01 UTC	Aluap, Animex52, bebkoglorius, Nitrate, vjk	16	5	25
-499691	4	30	Rainbow (6 Suits)	2021-04-13 — 12:59:38 UTC	Animex52, boba, squirrel1988, Viovio87	156	6	30
+499691	4	30	Rainbow (6 Suits)	2021-04-13 — 12:59:38 UTC	Animex52, boba, squirrel1988, Viovio87	157	6	30
 499671	5	24	No Variant	2021-04-13 — 12:11:11 UTC	Animex52, Lanvin, squirrel1988, VerySloppyTwo, Viovio87	23	5	25
 491162	5	0	Black & White (6 Suits)	2021-04-05 — 13:54:26 UTC	Aluap, Animex52, catula, sin_faith, Sucubis	13	6	30
 491146	4	0	Black & White (6 Suits)	2021-04-05 — 13:27:30 UTC	Aluap, Animex52, catula, Sucubis	24	6	30
-491127	3	25	No Variant	2021-04-05 — 13:01:04 UTC	Aluap, Animex52, catula	69	5	25
+491127	3	25	No Variant	2021-04-05 — 13:01:04 UTC	Aluap, Animex52, catula	73	5	25
 490312	5	23	Dark Prism (5 Suits)	2021-04-04 — 13:13:30 UTC	Aluap, Animex52, catula, sin_faith, Sucubis	1	5	25
 490306	5	21	Dark Prism (5 Suits)	2021-04-04 — 12:41:58 UTC	Aluap, Animex52, catula, sin_faith, Sucubis	2	5	25
 490301	5	0	Dark Prism (5 Suits)	2021-04-04 — 12:19:57 UTC	Aluap, Animex52, catula, sin_faith, Sucubis	3	5	25
 490300	5	0	Dark Prism (5 Suits)	2021-04-04 — 12:16:21 UTC	Aluap, Animex52, catula, sin_faith, Sucubis	5	5	25
 490293	4	24	Black (5 Suits)	2021-04-04 — 12:06:00 UTC	Aluap, Animex52, catula, sin_faith	21	5	25
 488217	2	25	Rainbow & Prism (5 Suits)	2021-04-02 — 10:09:59 UTC	Animex52, boba	20	5	25
-488215	2	0	Rainbow & Prism (5 Suits)	2021-04-02 — 10:00:38 UTC	Animex52, boba	30	5	25
+488215	2	0	Rainbow & Prism (5 Suits)	2021-04-02 — 10:00:38 UTC	Animex52, boba	31	5	25
 488203	4	0	Black (5 Suits)	2021-04-02 — 09:10:09 UTC	Animex52, antitelharsic, boba, sin_faith	23	5	25
-488197	4	0	Black (5 Suits)	2021-04-02 — 08:53:27 UTC	Animex52, antitelharsic, boba, sin_faith	21	5	25
+488197	4	0	Black (5 Suits)	2021-04-02 — 08:53:27 UTC	Animex52, antitelharsic, boba, sin_faith	22	5	25
 488193	6	22	Black (5 Suits)	2021-04-02 — 08:39:58 UTC	Animex52, antitelharsic, boba, Lanvin, sin_nofaith, stinkygf	5	5	25
 487938	6	23	Black (5 Suits)	2021-04-02 — 01:35:11 UTC	Animex52, HelanaAshryvr, Lel0uch, melwen, ricardodd, squirrel1988	3	5	25
 487345	6	0	Cocoa Rainbow (6 Suits)	2021-04-01 — 12:11:43 UTC	Aluap, Animex52, catula, dobi, Lanvin, sephiroth	3	6	30
 487342	4	0	Cocoa Rainbow (6 Suits)	2021-04-01 — 12:01:02 UTC	Aluap, Animex52, catula, Lanvin	8	6	30
 487338	4	0	Cocoa Rainbow (6 Suits)	2021-04-01 — 11:52:28 UTC	Aluap, Animex52, catula, Lanvin	8	6	30
 486385	5	0	Muddy Rainbow & Gray Pink (6 Suits)	2021-03-31 — 13:03:32 UTC	Animex52, catula, indego, Lanvin, Pablo-	1	6	30
-485199	4	25	Prism & Dark Omni (6 Suits)	2021-03-30 — 04:26:12 UTC	Animex52, FerKeth, HelanaAshryvr, Lel0uch	2	6	30
-484346	2	0	No Variant	2021-03-29 — 12:34:40 UTC	Animex52, nitawa	854	5	25
-484341	2	0	Rainbow (5 Suits)	2021-03-29 — 12:25:51 UTC	Animex52, catula	154	5	25
-484328	2	25	Black (5 Suits)	2021-03-29 — 11:37:02 UTC	Animex52, catula	69	5	25
-484323	2	0	Black (5 Suits)	2021-03-29 — 11:21:54 UTC	Animex52, catula	78	5	25
-480997	2	29	6 Suits	2021-03-26 — 05:02:44 UTC	Animex52, squirrel1988	378	6	30
-480982	2	0	6 Suits	2021-03-26 — 04:54:56 UTC	Animex52, squirrel1988	401	6	30
-480941	2	27	6 Suits	2021-03-26 — 04:33:51 UTC	Animex52, squirrel1988	444	6	30
-480930	2	0	6 Suits	2021-03-26 — 04:24:34 UTC	Animex52, squirrel1988	505	6	30
-480925	2	0	6 Suits	2021-03-26 — 04:17:17 UTC	Animex52, squirrel1988	593	6	30
-480914	2	0	6 Suits	2021-03-26 — 04:07:56 UTC	Animex52, squirrel1988	666	6	30
-480909	2	0	6 Suits	2021-03-26 — 04:03:56 UTC	Animex52, squirrel1988	851	6	30
+485199	4	25	Prism & Dark Omni (6 Suits)	2021-03-30 — 04:26:12 UTC	Animex52, FerKeth, HelanaAshryvr, Lel0uch	3	6	30
+484346	2	0	No Variant	2021-03-29 — 12:34:40 UTC	Animex52, nitawa	863	5	25
+484341	2	0	Rainbow (5 Suits)	2021-03-29 — 12:25:51 UTC	Animex52, catula	159	5	25
+484328	2	25	Black (5 Suits)	2021-03-29 — 11:37:02 UTC	Animex52, catula	73	5	25
+484323	2	0	Black (5 Suits)	2021-03-29 — 11:21:54 UTC	Animex52, catula	82	5	25
+480997	2	29	6 Suits	2021-03-26 — 05:02:44 UTC	Animex52, squirrel1988	388	6	30
+480982	2	0	6 Suits	2021-03-26 — 04:54:56 UTC	Animex52, squirrel1988	413	6	30
+480941	2	27	6 Suits	2021-03-26 — 04:33:51 UTC	Animex52, squirrel1988	453	6	30
+480930	2	0	6 Suits	2021-03-26 — 04:24:34 UTC	Animex52, squirrel1988	513	6	30
+480925	2	0	6 Suits	2021-03-26 — 04:17:17 UTC	Animex52, squirrel1988	601	6	30
+480914	2	0	6 Suits	2021-03-26 — 04:07:56 UTC	Animex52, squirrel1988	675	6	30
+480909	2	0	6 Suits	2021-03-26 — 04:03:56 UTC	Animex52, squirrel1988	862	6	30
 478982	3	30	Dark Prism (6 Suits)	2021-03-24 — 12:05:19 UTC	Animex52, catula, sephiroth	1	6	30
-478972	2	0	Black (5 Suits)	2021-03-24 — 11:41:18 UTC	Animex52, catula	85	5	25
-478970	2	0	Black (5 Suits)	2021-03-24 — 11:37:38 UTC	Animex52, catula	97	5	25
-478963	2	0	Black (5 Suits)	2021-03-24 — 11:25:04 UTC	Animex52, catula	108	5	25
-477936	3	20	Brown & Prism (4 Suits)	2021-03-23 — 12:50:37 UTC	Animex52, hakha3, possum	3	4	20
+478972	2	0	Black (5 Suits)	2021-03-24 — 11:41:18 UTC	Animex52, catula	89	5	25
+478970	2	0	Black (5 Suits)	2021-03-24 — 11:37:38 UTC	Animex52, catula	101	5	25
+478963	2	0	Black (5 Suits)	2021-03-24 — 11:25:04 UTC	Animex52, catula	113	5	25
+477936	3	20	Brown & Prism (4 Suits)	2021-03-23 — 12:50:37 UTC	Animex52, hakha3, possum	4	4	20
 475800	4	0	Cocoa Rainbow (5 Suits)	2021-03-21 — 13:36:07 UTC	Animex52, boba, Lanvin, nitawa	3	5	25
 475793	4	24	Cocoa Rainbow (5 Suits)	2021-03-21 — 13:21:00 UTC	Animex52, boba, Lanvin, nitawa	8	5	25
 475785	4	23	Cocoa Rainbow (5 Suits)	2021-03-21 — 12:58:22 UTC	Animex52, boba, Lanvin, nitawa	5	5	25
-475769	2	30	Dark Pink (6 Suits)	2021-03-21 — 12:29:17 UTC	Animex52, boba	24	6	30
-475762	2	29	Dark Pink (6 Suits)	2021-03-21 — 12:09:23 UTC	Animex52, boba	25	6	30
-475751	2	28	Dark Pink (6 Suits)	2021-03-21 — 11:53:54 UTC	Animex52, boba	26	6	30
-475742	2	0	Dark Pink (6 Suits)	2021-03-21 — 11:41:24 UTC	Animex52, boba	29	6	30
-475740	2	0	Dark Pink (6 Suits)	2021-03-21 — 11:37:03 UTC	Animex52, boba	32	6	30
-475739	2	0	Dark Pink (6 Suits)	2021-03-21 — 11:36:02 UTC	Animex52, boba	43	6	30
+475769	2	30	Dark Pink (6 Suits)	2021-03-21 — 12:29:17 UTC	Animex52, boba	26	6	30
+475762	2	29	Dark Pink (6 Suits)	2021-03-21 — 12:09:23 UTC	Animex52, boba	27	6	30
+475751	2	28	Dark Pink (6 Suits)	2021-03-21 — 11:53:54 UTC	Animex52, boba	28	6	30
+475742	2	0	Dark Pink (6 Suits)	2021-03-21 — 11:41:24 UTC	Animex52, boba	31	6	30
+475740	2	0	Dark Pink (6 Suits)	2021-03-21 — 11:37:03 UTC	Animex52, boba	34	6	30
+475739	2	0	Dark Pink (6 Suits)	2021-03-21 — 11:36:02 UTC	Animex52, boba	45	6	30
 474755	3	0	Dark Prism (5 Suits)	2021-03-20 — 12:38:19 UTC	Animex52, catula, cockdestroyer	15	5	25
 474725	5	23	Rainbow (5 Suits)	2021-03-20 — 11:22:26 UTC	Animex52, catula, jack67889, Lel0uch, wump	11	5	25
 472315	3	29	Very Ambiguous (6 Suits)	2021-03-18 — 10:24:43 UTC	Animex52, boba, Lel0uch	37	6	30
@@ -93,44 +127,44 @@
 468906	4	0	Duck (5 Suits)	2021-03-15 — 10:17:20 UTC	Animex52, boba, knaphill, Lel0uch	1	5	25
 468900	4	0	Duck (5 Suits)	2021-03-15 — 10:00:44 UTC	Animex52, boba, knaphill, Lel0uch	1	5	25
 468897	4	0	Duck (5 Suits)	2021-03-15 — 09:40:21 UTC	Animex52, boba, knaphill, Lel0uch	1	5	25
-468888	4	26	Dark Pink (6 Suits)	2021-03-15 — 08:31:03 UTC	Animex52, boba, Lel0uch, sephiroth	18	6	30
+468888	4	26	Dark Pink (6 Suits)	2021-03-15 — 08:31:03 UTC	Animex52, boba, Lel0uch, sephiroth	19	6	30
 467954	5	24	No Variant	2021-03-14 — 13:22:13 UTC	Animex52, boba, jack67889, Lanvin, Lel0uch	24	5	25
 465626	3	27	Dark Rainbow (6 Suits)	2021-03-12 — 14:09:47 UTC	Animex52, boba, Lel0uch	41	6	30
-465620	2	0	Dark Pink (6 Suits)	2021-03-12 — 13:48:10 UTC	Animex52, boba	50	6	30
-464676	4	0	White (6 Suits)	2021-03-11 — 16:24:50 UTC	Animex52, boba, HelanaAshryvr, squirrel1988	35	6	30
+465620	2	0	Dark Pink (6 Suits)	2021-03-12 — 13:48:10 UTC	Animex52, boba	53	6	30
+464676	4	0	White (6 Suits)	2021-03-11 — 16:24:50 UTC	Animex52, boba, HelanaAshryvr, squirrel1988	36	6	30
 464672	2	0	Black & Brown (6 Suits)	2021-03-11 — 16:13:24 UTC	Animex52, boba	26	6	30
 464669	4	20	Pink (4 Suits)	2021-03-11 — 16:03:50 UTC	Animex52, boba, HelanaAshryvr, squirrel1988	19	4	20
-464637	2	20	Prism (4 Suits)	2021-03-11 — 15:05:53 UTC	Animex52, aquarelle	66	4	20
-464557	4	0	No Variant	2021-03-11 — 12:06:24 UTC	Animex52, cockdestroyer, indego, Sucubis	39	5	25
+464637	2	20	Prism (4 Suits)	2021-03-11 — 15:05:53 UTC	Animex52, aquarelle	69	4	20
+464557	4	0	No Variant	2021-03-11 — 12:06:24 UTC	Animex52, cockdestroyer, indego, Sucubis	40	5	25
 463542	2	29	Prism & Dark Pink (6 Suits)	2021-03-10 — 13:51:04 UTC	Animex52, boba	6	6	30
-463535	2	27	Prism & Dark Pink (6 Suits)	2021-03-10 — 13:35:32 UTC	Animex52, boba	6	6	30
-463529	2	22	Prism & Dark Pink (6 Suits)	2021-03-10 — 13:22:10 UTC	Animex52, boba	6	6	30
-463520	2	0	No Variant	2021-03-10 — 13:01:25 UTC	Animex52, boba	1376	5	25
+463535	2	27	Prism & Dark Pink (6 Suits)	2021-03-10 — 13:35:32 UTC	Animex52, boba	7	6	30
+463529	2	22	Prism & Dark Pink (6 Suits)	2021-03-10 — 13:22:10 UTC	Animex52, boba	7	6	30
+463520	2	0	No Variant	2021-03-10 — 13:01:25 UTC	Animex52, boba	1392	5	25
 463207	2	24	Pink & Prism (5 Suits)	2021-03-10 — 03:29:32 UTC	Animex52, boba	9	5	25
 463188	2	0	Pink & Prism (5 Suits)	2021-03-10 — 03:07:08 UTC	Animex52, boba	14	5	25
 463151	2	27	Duck (6 Suits)	2021-03-10 — 02:39:24 UTC	Animex52, boba	6	6	30
 463134	2	0	Duck (6 Suits)	2021-03-10 — 02:23:12 UTC	Animex52, boba	6	6	30
 463121	2	0	Duck (6 Suits)	2021-03-10 — 02:12:15 UTC	Animex52, boba	6	6	30
-462418	3	25	No Variant	2021-03-09 — 15:55:57 UTC	Animex52, aquarelle, boba	68	5	25
-462409	3	0	No Variant	2021-03-09 — 15:27:35 UTC	Animex52, aquarelle, boba	71	5	25
-462407	4	0	No Variant	2021-03-09 — 15:16:48 UTC	Animex52, aquarelle, boba, Lanvin	42	5	25
+462418	3	25	No Variant	2021-03-09 — 15:55:57 UTC	Animex52, aquarelle, boba	72	5	25
+462409	3	0	No Variant	2021-03-09 — 15:27:35 UTC	Animex52, aquarelle, boba	74	5	25
+462407	4	0	No Variant	2021-03-09 — 15:16:48 UTC	Animex52, aquarelle, boba, Lanvin	43	5	25
 462070	2	0	Dark Prism (6 Suits)	2021-03-09 — 03:31:32 UTC	Animex52, aquarelle	33	6	30
 462060	2	0	Dark Prism (6 Suits)	2021-03-09 — 03:20:16 UTC	Animex52, aquarelle	34	6	30
-461957	2	25	No Variant	2021-03-09 — 01:01:06 UTC	Animex52, XMIL	163	5	25
-461373	2	22	No Variant	2021-03-08 — 14:54:11 UTC	Animex52, HelanaAshryvr	593	5	25
-461359	2	0	No Variant	2021-03-08 — 14:44:50 UTC	Animex52, HelanaAshryvr	626	5	25
-461349	2	24	No Variant	2021-03-08 — 14:21:25 UTC	Animex52, HelanaAshryvr	654	5	25
+461957	2	25	No Variant	2021-03-09 — 01:01:06 UTC	Animex52, XMIL	164	5	25
+461373	2	22	No Variant	2021-03-08 — 14:54:11 UTC	Animex52, HelanaAshryvr	604	5	25
+461359	2	0	No Variant	2021-03-08 — 14:44:50 UTC	Animex52, HelanaAshryvr	637	5	25
+461349	2	24	No Variant	2021-03-08 — 14:21:25 UTC	Animex52, HelanaAshryvr	664	5	25
 460143	6	0	Rainbow (6 Suits)	2021-03-07 — 15:45:16 UTC	Animex52, boba, HelanaAshryvr, mario86, squirrel1988, stardust	23	6	30
 460142	6	0	Rainbow (6 Suits)	2021-03-07 — 15:44:35 UTC	Animex52, boba, HelanaAshryvr, mario86, squirrel1988, stardust	60	6	30
 460136	5	0	Rainbow (6 Suits)	2021-03-07 — 15:30:53 UTC	Animex52, boba, HelanaAshryvr, mario86, stardust	42	6	30
 455105	6	23	No Variant	2021-03-03 — 06:27:58 UTC	Animex52, antitelharsic, cockdestroyer, indegoo, methmatics, spbsuitmo	3	5	25
-455065	3	20	Rainbow (4 Suits)	2021-03-03 — 05:35:33 UTC	Animex52, aquarelle, boba	32	4	20
-455040	3	0	Rainbow (4 Suits)	2021-03-03 — 05:15:14 UTC	Animex52, aquarelle, boba	43	4	20
+455065	3	20	Rainbow (4 Suits)	2021-03-03 — 05:35:33 UTC	Animex52, aquarelle, boba	34	4	20
+455040	3	0	Rainbow (4 Suits)	2021-03-03 — 05:15:14 UTC	Animex52, aquarelle, boba	45	4	20
 455016	2	14	Duck (4 Suits)	2021-03-03 — 05:04:05 UTC	Animex52, aquarelle	6	4	20
 455002	2	0	Duck (4 Suits)	2021-03-03 — 04:55:11 UTC	Animex52, aquarelle	14	4	20
-454106	4	24	Dark Prism (5 Suits)	2021-03-02 — 11:34:50 UTC	Animex52, catula, methmatics, Sucubis	5	5	25
-454097	4	22	Dark Prism (5 Suits)	2021-03-02 — 11:04:42 UTC	Animex52, catula, methmatics, Sucubis	8	5	25
-454088	3	0	Dark Prism (6 Suits)	2021-03-02 — 10:48:22 UTC	Animex52, catula, Sucubis	20	6	30
+454106	4	24	Dark Prism (5 Suits)	2021-03-02 — 11:34:50 UTC	Animex52, catula, methmatics, Sucubis	6	5	25
+454097	4	22	Dark Prism (5 Suits)	2021-03-02 — 11:04:42 UTC	Animex52, catula, methmatics, Sucubis	10	5	25
+454088	3	0	Dark Prism (6 Suits)	2021-03-02 — 10:48:22 UTC	Animex52, catula, Sucubis	22	6	30
 454086	2	0	Black (6 Suits)	2021-03-02 — 10:39:19 UTC	Animex52, catula	25	6	30
 454001	5	0	Black & Pink (6 Suits)	2021-03-02 — 07:50:16 UTC	Animex52, boba, Floriman, indego, Lel0uch	1	6	30
 452793	5	0	Black & Pink (6 Suits)	2021-03-01 — 04:25:27 UTC	Animex52, boba, FerKeth, HelanaAshryvr, Lel0uch	1	6	30
@@ -138,19 +172,19 @@
 452755	4	0	Prism (3 Suits)	2021-03-01 — 03:53:56 UTC	Animex52, boba, HelanaAshryvr, Lel0uch	5	3	15
 452747	4	0	Prism (3 Suits)	2021-03-01 — 03:48:30 UTC	Animex52, boba, HelanaAshryvr, Lel0uch	5	3	15
 452732	6	0	Dark Rainbow (6 Suits)	2021-03-01 — 03:36:36 UTC	Animex52, boba, HelanaAshryvr, Lanvin, Lel0uch, squirrel1988	3	6	30
-452721	6	0	Dark Rainbow (6 Suits)	2021-03-01 — 03:24:07 UTC	Animex52, boba, HelanaAshryvr, Lanvin, Lel0uch, squirrel1988	3	6	30
+452721	6	0	Dark Rainbow (6 Suits)	2021-03-01 — 03:24:07 UTC	Animex52, boba, HelanaAshryvr, Lanvin, Lel0uch, squirrel1988	4	6	30
 452703	6	0	Dark Rainbow (6 Suits)	2021-03-01 — 03:07:35 UTC	Animex52, boba, HelanaAshryvr, Lanvin, Lel0uch, squirrel1988	5	6	30
-452679	3	0	No Variant	2021-03-01 — 02:53:15 UTC	Animex52, kinkajusrevenge, wolfpack	78	5	25
+452679	3	0	No Variant	2021-03-01 — 02:53:15 UTC	Animex52, kinkajusrevenge, wolfpack	79	5	25
 451746	5	21	Dark Prism (5 Suits)	2021-02-28 — 06:25:09 UTC	Animex52, boba, HelanaAshryvr, Lel0uch, squirrel1988	1	5	25
 451718	3	0	Dark Null (6 Suits)	2021-02-28 — 05:55:05 UTC	Animex52, boba, HelanaAshryvr	14	6	30
 450534	5	25	No Variant	2021-02-27 — 04:43:55 UTC	Animex52, antitelharsic, indego, Nitrate2, XMIL	15	5	25
 448628	6	21	Black (5 Suits)	2021-02-25 — 10:59:25 UTC	Animex52, boba, jack67889, methmatics, sin_faith, Sucubis	4	5	25
-448622	4	22	No Variant	2021-02-25 — 10:26:55 UTC	Animex52, boba, methmatics, Sucubis	43	5	25
+448622	4	22	No Variant	2021-02-25 — 10:26:55 UTC	Animex52, boba, methmatics, Sucubis	44	5	25
 448609	2	0	Duck (6 Suits)	2021-02-25 — 09:48:20 UTC	Animex52, boba	7	6	30
 448604	2	30	Duck (6 Suits)	2021-02-25 — 09:30:32 UTC	Animex52, boba	8	6	30
-448410	3	30	Duck (6 Suits)	2021-02-25 — 04:19:59 UTC	Animex52, aquarelle, FerKeth	3	6	30
-448376	3	0	Duck (6 Suits)	2021-02-25 — 03:51:51 UTC	Animex52, aquarelle, FerKeth	5	6	30
-448353	3	27	Duck (6 Suits)	2021-02-25 — 03:31:28 UTC	Animex52, boba, FerKeth	7	6	30
+448410	3	30	Duck (6 Suits)	2021-02-25 — 04:19:59 UTC	Animex52, aquarelle, FerKeth	4	6	30
+448376	3	0	Duck (6 Suits)	2021-02-25 — 03:51:51 UTC	Animex52, aquarelle, FerKeth	6	6	30
+448353	3	27	Duck (6 Suits)	2021-02-25 — 03:31:28 UTC	Animex52, boba, FerKeth	8	6	30
 447432	5	26	Black (6 Suits)	2021-02-24 — 04:29:30 UTC	Animex52, aquarelle, bjnh, FerKeth, HelanaAshryvr	36	6	30
 447364	6	0	Duck (6 Suits)	2021-02-24 — 03:39:14 UTC	Animex52, aquarelle, FerKeth, HelanaAshryvr, Lanvin, squirrel1988	1	6	30
 447175	3	19	Clue Starved & Prism (5 Suits)	2021-02-23 — 23:45:05 UTC	Animex52, Lanvin, ricardodd	4	5	25
@@ -169,101 +203,101 @@
 432743	4	24	Pink (5 Suits)	2021-02-10 — 22:46:19 UTC	Animex52, cockdestroyer, jack67889, Nitrate	16	5	25
 432728	4	0	Pink (5 Suits)	2021-02-10 — 22:20:38 UTC	Animex52, cockdestroyer, jack67889, Nitrate	17	5	25
 432711	4	0	Pink (5 Suits)	2021-02-10 — 22:06:40 UTC	Animex52, cockdestroyer, jack67889, Nitrate	23	5	25
-432688	4	25	No Variant	2021-02-10 — 21:50:43 UTC	Animex52, cockdestroyer, Nitrate, spbsuitmo	45	5	25
-432248	2	26	6 Suits	2021-02-10 — 14:25:33 UTC	Animex52, boba	236	6	30
-432242	2	28	6 Suits	2021-02-10 — 14:18:49 UTC	Animex52, boba	248	6	30
-432237	2	0	6 Suits	2021-02-10 — 14:07:01 UTC	Animex52, boba	274	6	30
-432230	2	29	6 Suits	2021-02-10 — 14:00:38 UTC	Animex52, boba	304	6	30
+432688	4	25	No Variant	2021-02-10 — 21:50:43 UTC	Animex52, cockdestroyer, Nitrate, spbsuitmo	46	5	25
+432248	2	26	6 Suits	2021-02-10 — 14:25:33 UTC	Animex52, boba	240	6	30
+432242	2	28	6 Suits	2021-02-10 — 14:18:49 UTC	Animex52, boba	253	6	30
+432237	2	0	6 Suits	2021-02-10 — 14:07:01 UTC	Animex52, boba	280	6	30
+432230	2	29	6 Suits	2021-02-10 — 14:00:38 UTC	Animex52, boba	315	6	30
 432168	2	28	Black (6 Suits)	2021-02-10 — 12:39:33 UTC	Animex52, catula	137	6	30
-432164	2	0	Black (6 Suits)	2021-02-10 — 12:25:28 UTC	Animex52, catula	144	6	30
-432161	2	0	Black (6 Suits)	2021-02-10 — 12:16:38 UTC	Animex52, catula	152	6	30
-432159	2	0	Black (6 Suits)	2021-02-10 — 12:04:37 UTC	Animex52, catula	153	6	30
-432158	2	0	Black (6 Suits)	2021-02-10 — 11:58:24 UTC	Animex52, catula	157	6	30
-432155	2	0	Black (6 Suits)	2021-02-10 — 11:50:35 UTC	Animex52, catula	157	6	30
-432151	2	28	Black (6 Suits)	2021-02-10 — 11:46:03 UTC	Animex52, catula	165	6	30
-432141	2	28	Black (6 Suits)	2021-02-10 — 11:25:38 UTC	Animex52, catula	167	6	30
-432134	2	0	Black (6 Suits)	2021-02-10 — 11:14:33 UTC	Animex52, catula	221	6	30
+432164	2	0	Black (6 Suits)	2021-02-10 — 12:25:28 UTC	Animex52, catula	145	6	30
+432161	2	0	Black (6 Suits)	2021-02-10 — 12:16:38 UTC	Animex52, catula	153	6	30
+432159	2	0	Black (6 Suits)	2021-02-10 — 12:04:37 UTC	Animex52, catula	154	6	30
+432158	2	0	Black (6 Suits)	2021-02-10 — 11:58:24 UTC	Animex52, catula	159	6	30
+432155	2	0	Black (6 Suits)	2021-02-10 — 11:50:35 UTC	Animex52, catula	160	6	30
+432151	2	28	Black (6 Suits)	2021-02-10 — 11:46:03 UTC	Animex52, catula	168	6	30
+432141	2	28	Black (6 Suits)	2021-02-10 — 11:25:38 UTC	Animex52, catula	170	6	30
+432134	2	0	Black (6 Suits)	2021-02-10 — 11:14:33 UTC	Animex52, catula	226	6	30
 431001	3	25	White-Fives & Prism (5 Suits)	2021-02-09 — 13:54:00 UTC	Animex52, cockdestroyer, nitawa	3	5	25
-430993	2	28	Black (6 Suits)	2021-02-09 — 13:26:27 UTC	Animex52, nitawa	174	6	30
-430981	2	27	Black (6 Suits)	2021-02-09 — 13:04:01 UTC	Animex52, catula	294	6	30
-430975	2	21	Black (6 Suits)	2021-02-09 — 12:43:25 UTC	Animex52, catula	300	6	30
+430993	2	28	Black (6 Suits)	2021-02-09 — 13:26:27 UTC	Animex52, nitawa	177	6	30
+430981	2	27	Black (6 Suits)	2021-02-09 — 13:04:01 UTC	Animex52, catula	300	6	30
+430975	2	21	Black (6 Suits)	2021-02-09 — 12:43:25 UTC	Animex52, catula	306	6	30
 429850	6	30	White-Ones & Brown (6 Suits)	2021-02-08 — 12:59:14 UTC	Animex52, catula, Lanvin, nitawa, Pablo-, Sucubis	1	6	30
 429833	6	0	White-Ones & Brown (6 Suits)	2021-02-08 — 12:30:16 UTC	Animex52, catula, Lanvin, nitawa, Pablo-, Sucubis	1	6	30
-429829	6	0	White-Ones & Brown (6 Suits)	2021-02-08 — 12:19:09 UTC	Animex52, catula, Lanvin, nitawa, Pablo-, Sucubis	2	6	30
-428002	3	0	6 Suits	2021-02-06 — 21:18:06 UTC	Animex52, antitelharsic, nitawa	45	6	30
-427982	3	27	6 Suits	2021-02-06 — 20:59:30 UTC	Animex52, antitelharsic, nitawa	47	6	30
-427961	3	0	6 Suits	2021-02-06 — 20:36:02 UTC	Animex52, antitelharsic, nitawa	48	6	30
+429829	6	0	White-Ones & Brown (6 Suits)	2021-02-08 — 12:19:09 UTC	Animex52, catula, Lanvin, nitawa, Pablo-, Sucubis	3	6	30
+428002	3	0	6 Suits	2021-02-06 — 21:18:06 UTC	Animex52, antitelharsic, nitawa	46	6	30
+427982	3	27	6 Suits	2021-02-06 — 20:59:30 UTC	Animex52, antitelharsic, nitawa	48	6	30
+427961	3	0	6 Suits	2021-02-06 — 20:36:02 UTC	Animex52, antitelharsic, nitawa	49	6	30
 427612	4	15	3 Suits	2021-02-06 — 12:56:57 UTC	Animex52, boba, nitawa, Sucubis	16	3	15
 427607	4	0	3 Suits	2021-02-06 — 12:48:27 UTC	Animex52, boba, nitawa, Sucubis	20	3	15
 427604	4	14	3 Suits	2021-02-06 — 12:36:59 UTC	Animex52, boba, nitawa, Sucubis	24	3	15
 427599	4	14	3 Suits	2021-02-06 — 12:27:20 UTC	Animex52, boba, nitawa, Sucubis	26	3	15
-427589	2	29	Black (6 Suits)	2021-02-06 — 12:07:51 UTC	Animex52, nitawa	186	6	30
-427578	2	24	Black (6 Suits)	2021-02-06 — 11:30:00 UTC	Animex52, nitawa	186	6	30
-427573	2	0	Black (6 Suits)	2021-02-06 — 11:13:25 UTC	Animex52, nitawa	192	6	30
-427567	2	0	Black (6 Suits)	2021-02-06 — 10:50:40 UTC	Animex52, nitawa	201	6	30
-423952	2	23	Black (6 Suits)	2021-02-03 — 11:49:21 UTC	Animex52, catula	325	6	30
-423943	2	26	Black (6 Suits)	2021-02-03 — 11:16:40 UTC	Animex52, catula	350	6	30
-423941	2	25	No Variant	2021-02-03 — 10:54:31 UTC	Animex52, catula	249	5	25
-423939	2	0	No Variant	2021-02-03 — 10:26:43 UTC	Animex52, catula	292	5	25
-422954	2	28	Black (6 Suits)	2021-02-02 — 12:32:16 UTC	Animex52, catula	391	6	30
-422948	2	27	Black (6 Suits)	2021-02-02 — 12:08:37 UTC	Animex52, catula	442	6	30
+427589	2	29	Black (6 Suits)	2021-02-06 — 12:07:51 UTC	Animex52, nitawa	189	6	30
+427578	2	24	Black (6 Suits)	2021-02-06 — 11:30:00 UTC	Animex52, nitawa	190	6	30
+427573	2	0	Black (6 Suits)	2021-02-06 — 11:13:25 UTC	Animex52, nitawa	196	6	30
+427567	2	0	Black (6 Suits)	2021-02-06 — 10:50:40 UTC	Animex52, nitawa	205	6	30
+423952	2	23	Black (6 Suits)	2021-02-03 — 11:49:21 UTC	Animex52, catula	332	6	30
+423943	2	26	Black (6 Suits)	2021-02-03 — 11:16:40 UTC	Animex52, catula	358	6	30
+423941	2	25	No Variant	2021-02-03 — 10:54:31 UTC	Animex52, catula	253	5	25
+423939	2	0	No Variant	2021-02-03 — 10:26:43 UTC	Animex52, catula	303	5	25
+422954	2	28	Black (6 Suits)	2021-02-02 — 12:32:16 UTC	Animex52, catula	398	6	30
+422948	2	27	Black (6 Suits)	2021-02-02 — 12:08:37 UTC	Animex52, catula	450	6	30
 422937	4	0	Brown & Prism (5 Suits)	2021-02-02 — 11:46:41 UTC	Animex52, catula, methmatics, Sucubis	11	5	25
 422930	4	28	Dark Prism (6 Suits)	2021-02-02 — 11:24:52 UTC	Animex52, catula, methmatics, Sucubis	14	6	30
-422919	3	0	Brown (6 Suits)	2021-02-02 — 10:56:36 UTC	Animex52, catula, nitawa	52	6	30
-422895	2	23	No Variant	2021-02-02 — 10:19:23 UTC	Animex52, catula	302	5	25
-422885	2	0	No Variant	2021-02-02 — 10:01:06 UTC	Animex52, catula	308	5	25
-421962	2	26	Black (6 Suits)	2021-02-01 — 07:26:40 UTC	Animex52, boba	232	6	30
-421668	2	29	Black (6 Suits)	2021-02-01 — 01:54:34 UTC	Animex52, boba	255	6	30
-421645	2	0	Black (6 Suits)	2021-02-01 — 01:27:24 UTC	Animex52, boba	275	6	30
-419498	3	28	White (6 Suits)	2021-01-30 — 04:28:58 UTC	Animex52, aquarelle, HelanaAshryvr	101	6	30
-418565	3	25	No Variant	2021-01-29 — 14:22:54 UTC	Animex52, boba, nitawa	77	5	25
+422919	3	0	Brown (6 Suits)	2021-02-02 — 10:56:36 UTC	Animex52, catula, nitawa	53	6	30
+422895	2	23	No Variant	2021-02-02 — 10:19:23 UTC	Animex52, catula	313	5	25
+422885	2	0	No Variant	2021-02-02 — 10:01:06 UTC	Animex52, catula	318	5	25
+421962	2	26	Black (6 Suits)	2021-02-01 — 07:26:40 UTC	Animex52, boba	237	6	30
+421668	2	29	Black (6 Suits)	2021-02-01 — 01:54:34 UTC	Animex52, boba	259	6	30
+421645	2	0	Black (6 Suits)	2021-02-01 — 01:27:24 UTC	Animex52, boba	283	6	30
+419498	3	28	White (6 Suits)	2021-01-30 — 04:28:58 UTC	Animex52, aquarelle, HelanaAshryvr	103	6	30
+418565	3	25	No Variant	2021-01-29 — 14:22:54 UTC	Animex52, boba, nitawa	78	5	25
 418030	5	0	No Variant	2021-01-28 — 23:22:10 UTC	Animex52, jack67889, Lanvin, nitawa, Pablo-	15	5	25
 418028	5	0	No Variant	2021-01-28 — 23:19:50 UTC	Animex52, jack67889, Lanvin, nitawa, Pablo-	15	5	25
 418025	5	0	No Variant	2021-01-28 — 23:17:20 UTC	Animex52, jack67889, Lanvin, nitawa, Pablo-	17	5	25
 418020	5	0	No Variant	2021-01-28 — 23:14:51 UTC	Animex52, jack67889, Lanvin, nitawa, Pablo-	15	5	25
-418017	5	0	No Variant	2021-01-28 — 23:12:41 UTC	Animex52, jack67889, Lanvin, nitawa, Pablo-	16	5	25
+418017	5	0	No Variant	2021-01-28 — 23:12:41 UTC	Animex52, jack67889, Lanvin, nitawa, Pablo-	17	5	25
 418013	5	0	No Variant	2021-01-28 — 23:09:16 UTC	Animex52, jack67889, Lanvin, nitawa, Pablo-	19	5	25
 418011	5	0	No Variant	2021-01-28 — 23:07:34 UTC	Animex52, jack67889, Lanvin, nitawa, Pablo-	22	5	25
 418000	4	25	Color Mute (5 Suits)	2021-01-28 — 22:57:12 UTC	Animex52, jack67889, nitawa, Pablo-	3	5	25
 417976	4	0	Rainbow (4 Suits)	2021-01-28 — 22:29:16 UTC	Animex52, aquarelle, jack67889, nitawa	11	4	20
-417962	4	19	Rainbow (4 Suits)	2021-01-28 — 22:16:49 UTC	Animex52, aquarelle, jack67889, nitawa	20	4	20
+417962	4	19	Rainbow (4 Suits)	2021-01-28 — 22:16:49 UTC	Animex52, aquarelle, jack67889, nitawa	21	4	20
 416907	5	0	Duck (6 Suits)	2021-01-27 — 22:50:18 UTC	Animex52, aquarelle, jack67889, melwen, methmatics	2	6	30
 416873	5	0	Duck (6 Suits)	2021-01-27 — 22:24:24 UTC	Animex52, aquarelle, jack67889, melwen, methmatics	3	6	30
-416863	3	0	Duck (6 Suits)	2021-01-27 — 22:18:58 UTC	Animex52, aquarelle, jack67889	8	6	30
-416844	3	0	Duck (6 Suits)	2021-01-27 — 22:07:10 UTC	Animex52, aquarelle, jack67889	9	6	30
+416863	3	0	Duck (6 Suits)	2021-01-27 — 22:18:58 UTC	Animex52, aquarelle, jack67889	9	6	30
+416844	3	0	Duck (6 Suits)	2021-01-27 — 22:07:10 UTC	Animex52, aquarelle, jack67889	10	6	30
 416802	3	0	Duck (6 Suits)	2021-01-27 — 21:44:50 UTC	Animex52, aquarelle, jack67889	12	6	30
 416273	2	30	Duck (6 Suits)	2021-01-27 — 06:28:59 UTC	Animex52, boba	12	6	30
-415425	2	25	No Variant	2021-01-26 — 14:00:00 UTC	Animex52, boba	1532	5	25
-415418	2	19	No Variant	2021-01-26 — 13:43:14 UTC	Animex52, boba	1621	5	25
+415425	2	25	No Variant	2021-01-26 — 14:00:00 UTC	Animex52, boba	1547	5	25
+415418	2	19	No Variant	2021-01-26 — 13:43:14 UTC	Animex52, boba	1637	5	25
 415409	2	27	Duck (6 Suits)	2021-01-26 — 13:18:02 UTC	Animex52, boba	22	6	30
 414555	3	0	Duck (6 Suits)	2021-01-25 — 14:12:12 UTC	Animex52, boba, catula	17	6	30
-413542	3	18	Rainbow (4 Suits)	2021-01-24 — 14:37:59 UTC	Animex52, aquarelle, boba	46	4	20
-413534	3	0	Rainbow (4 Suits)	2021-01-24 — 14:18:16 UTC	Animex52, aquarelle, boba	68	4	20
+413542	3	18	Rainbow (4 Suits)	2021-01-24 — 14:37:59 UTC	Animex52, aquarelle, boba	48	4	20
+413534	3	0	Rainbow (4 Suits)	2021-01-24 — 14:18:16 UTC	Animex52, aquarelle, boba	69	4	20
 413518	5	0	No Variant	2021-01-24 — 13:21:53 UTC	Animex52, boba, Denchulitas, katian, nitawa	23	5	25
 413516	5	0	No Variant	2021-01-24 — 13:14:06 UTC	Animex52, boba, catula, Denchulitas, katian	20	5	25
 413508	4	23	Rainbow (5 Suits)	2021-01-24 — 12:55:58 UTC	Animex52, boba, catula, katian	63	5	25
 413434	4	22	Cocoa Rainbow (5 Suits)	2021-01-24 — 08:41:09 UTC	Animex52, boba, catula, nitawa	8	5	25
 413426	4	0	Cocoa Rainbow (5 Suits)	2021-01-24 — 08:17:21 UTC	Animex52, boba, catula, nitawa	10	5	25
 413423	4	0	Cocoa Rainbow (5 Suits)	2021-01-24 — 08:01:48 UTC	Animex52, boba, catula, Dwu123	14	5	25
-413413	3	0	Cocoa Rainbow (6 Suits)	2021-01-24 — 07:46:02 UTC	Animex52, boba, catula	32	6	30
+413413	3	0	Cocoa Rainbow (6 Suits)	2021-01-24 — 07:46:02 UTC	Animex52, boba, catula	33	6	30
 413271	5	24	Prism (5 Suits)	2021-01-24 — 05:18:47 UTC	Animex52, antitelharsic, aquarelle, boba, ejwu	9	5	25
-413209	3	0	Cocoa Rainbow (5 Suits)	2021-01-24 — 04:17:06 UTC	Animex52, aquarelle, Nitrate	29	5	25
+413209	3	0	Cocoa Rainbow (5 Suits)	2021-01-24 — 04:17:06 UTC	Animex52, aquarelle, Nitrate	30	5	25
 410416	3	25	Muddy Rainbow (5 Suits)	2021-01-21 — 09:23:14 UTC	Animex52, boba, catula	37	5	25
-409318	3	0	No Variant	2021-01-20 — 04:52:34 UTC	Animex52, aquarelle, FerKeth	77	5	25
+409318	3	0	No Variant	2021-01-20 — 04:52:34 UTC	Animex52, aquarelle, FerKeth	79	5	25
 409285	4	23	Prism (5 Suits)	2021-01-20 — 04:25:45 UTC	Animex52, aquarelle, boba, FerKeth	20	5	25
 408293	4	0	Black (5 Suits)	2021-01-19 — 04:36:12 UTC	Animex52, aquarelle, indego, XMIL	22	5	25
 408266	4	0	Black (5 Suits)	2021-01-19 — 04:06:57 UTC	Animex52, aquarelle, indego, XMIL	23	5	25
 408246	3	25	White (5 Suits)	2021-01-19 — 03:45:52 UTC	Animex52, aquarelle, XMIL	5	5	25
 407942	4	0	Dark Prism (5 Suits)	2021-01-18 — 22:24:20 UTC	Animex52, jack67889, nitawa, XMIL	3	5	25
 407916	4	24	Dark Prism (5 Suits)	2021-01-18 — 22:03:40 UTC	Animex52, jack67889, nitawa, XMIL	4	5	25
-407869	2	29	Brown (6 Suits)	2021-01-18 — 21:30:09 UTC	Animex52, nitawa	72	6	30
-407389	3	24	No Variant	2021-01-18 — 13:10:01 UTC	Animex52, exfret, nitawa	82	5	25
-407373	2	22	No Variant	2021-01-18 — 12:32:48 UTC	Animex52, boba	1703	5	25
-407363	4	25	No Variant	2021-01-18 — 12:11:51 UTC	Animex52, catula, louietyj, nitawa	48	5	25
-406238	2	25	Dual-Color (5 Suits)	2021-01-17 — 08:43:19 UTC	Animex52, boba	53	5	25
-406234	2	22	Dual-Color (5 Suits)	2021-01-17 — 08:34:12 UTC	Animex52, boba	63	5	25
-406231	2	0	Dual-Color (5 Suits)	2021-01-17 — 08:22:55 UTC	Animex52, boba	74	5	25
-406228	2	0	Dual-Color (5 Suits)	2021-01-17 — 08:18:56 UTC	Animex52, boba	85	5	25
+407869	2	29	Brown (6 Suits)	2021-01-18 — 21:30:09 UTC	Animex52, nitawa	73	6	30
+407389	3	24	No Variant	2021-01-18 — 13:10:01 UTC	Animex52, exfret, nitawa	85	5	25
+407373	2	22	No Variant	2021-01-18 — 12:32:48 UTC	Animex52, boba	1721	5	25
+407363	4	25	No Variant	2021-01-18 — 12:11:51 UTC	Animex52, catula, louietyj, nitawa	49	5	25
+406238	2	25	Dual-Color (5 Suits)	2021-01-17 — 08:43:19 UTC	Animex52, boba	54	5	25
+406234	2	22	Dual-Color (5 Suits)	2021-01-17 — 08:34:12 UTC	Animex52, boba	64	5	25
+406231	2	0	Dual-Color (5 Suits)	2021-01-17 — 08:22:55 UTC	Animex52, boba	76	5	25
+406228	2	0	Dual-Color (5 Suits)	2021-01-17 — 08:18:56 UTC	Animex52, boba	87	5	25
 406219	2	19	Duck (4 Suits)	2021-01-17 — 08:09:35 UTC	Animex52, boba	8	4	20
 406204	2	0	Duck (4 Suits)	2021-01-17 — 07:45:40 UTC	Animex52, boba	9	4	20
 406191	2	0	Duck (4 Suits)	2021-01-17 — 07:21:12 UTC	Animex52, boba	11	4	20
@@ -285,38 +319,38 @@
 402652	3	14	Duck (3 Suits)	2021-01-14 — 03:00:51 UTC	Animex52, aquarelle, boba	21	3	15
 402592	4	0	Dual-Color Mix	2021-01-14 — 02:06:35 UTC	Animex52, boba, catula, newduke	12	6	30
 402577	4	0	Dual-Color Mix	2021-01-14 — 01:44:42 UTC	Animex52, boba, catula, newduke	18	6	30
-401907	2	18	Null (4 Suits)	2021-01-13 — 08:09:22 UTC	Animex52, boba	14	4	20
-401037	2	18	Null (4 Suits)	2021-01-12 — 09:12:30 UTC	Animex52, boba	16	4	20
-401034	2	18	Null (4 Suits)	2021-01-12 — 08:52:54 UTC	Animex52, boba	16	4	20
-401030	2	0	Null (4 Suits)	2021-01-12 — 08:37:40 UTC	Animex52, boba	19	4	20
-400133	5	0	Black (5 Suits)	2021-01-11 — 13:57:38 UTC	Animex52, Lanvin, nitawa, Pablo-, VerySloppyTwo	13	5	25
-397725	2	0	Pink (5 Suits)	2021-01-09 — 11:27:21 UTC	Animex52, nitawa	88	5	25
-397718	2	0	Pink (5 Suits)	2021-01-09 — 11:15:14 UTC	Animex52, nitawa	95	5	25
-397711	2	0	Pink (5 Suits)	2021-01-09 — 10:57:57 UTC	Animex52, nitawa	119	5	25
-397709	2	20	Rainbow (4 Suits)	2021-01-09 — 10:44:33 UTC	Animex52, nitawa	132	4	20
-396530	2	25	No Variant	2021-01-08 — 08:18:00 UTC	Animex22, Animex52	883	5	25
-395918	3	25	Dark Prism (5 Suits)	2021-01-07 — 23:15:09 UTC	Animex52, ejwu, jack67889	18	5	25
+401907	2	18	Null (4 Suits)	2021-01-13 — 08:09:22 UTC	Animex52, boba	15	4	20
+401037	2	18	Null (4 Suits)	2021-01-12 — 09:12:30 UTC	Animex52, boba	17	4	20
+401034	2	18	Null (4 Suits)	2021-01-12 — 08:52:54 UTC	Animex52, boba	17	4	20
+401030	2	0	Null (4 Suits)	2021-01-12 — 08:37:40 UTC	Animex52, boba	21	4	20
+400133	5	0	Black (5 Suits)	2021-01-11 — 13:57:38 UTC	Animex52, Lanvin, nitawa, Pablo-, VerySloppyTwo	14	5	25
+397725	2	0	Pink (5 Suits)	2021-01-09 — 11:27:21 UTC	Animex52, nitawa	91	5	25
+397718	2	0	Pink (5 Suits)	2021-01-09 — 11:15:14 UTC	Animex52, nitawa	100	5	25
+397711	2	0	Pink (5 Suits)	2021-01-09 — 10:57:57 UTC	Animex52, nitawa	124	5	25
+397709	2	20	Rainbow (4 Suits)	2021-01-09 — 10:44:33 UTC	Animex52, nitawa	135	4	20
+396530	2	25	No Variant	2021-01-08 — 08:18:00 UTC	Animex22, Animex52	890	5	25
+395918	3	25	Dark Prism (5 Suits)	2021-01-07 — 23:15:09 UTC	Animex52, ejwu, jack67889	19	5	25
 395889	5	0	White-Ones & Brown (6 Suits)	2021-01-07 — 22:47:21 UTC	Animex52, jack67889, nitawa, Pablo-, XMIL	1	6	30
 395870	5	0	White-Ones & Brown (6 Suits)	2021-01-07 — 22:32:46 UTC	Animex52, jack67889, nitawa, Pablo-, XMIL	1	6	30
 394503	3	0	Brown (6 Suits)	2021-01-06 — 15:36:21 UTC	Animex52, nitawa, wump	61	6	30
 394498	3	0	Brown (6 Suits)	2021-01-06 — 15:17:29 UTC	Animex52, nitawa, wump	84	6	30
-392523	2	20	4 Suits	2021-01-04 — 16:36:46 UTC	Animex52, boba	110	4	20
-392520	2	18	4 Suits	2021-01-04 — 16:30:17 UTC	Animex52, boba	128	4	20
-392513	2	19	4 Suits	2021-01-04 — 16:25:24 UTC	Animex52, boba	171	4	20
+392523	2	20	4 Suits	2021-01-04 — 16:36:46 UTC	Animex52, boba	113	4	20
+392520	2	18	4 Suits	2021-01-04 — 16:30:17 UTC	Animex52, boba	134	4	20
+392513	2	19	4 Suits	2021-01-04 — 16:25:24 UTC	Animex52, boba	177	4	20
 392440	3	0	Prism Reversed (6 Suits)	2021-01-04 — 12:48:14 UTC	Animex52, boba, Lel0uch	5	6	30
 392435	3	0	Prism Reversed (6 Suits)	2021-01-04 — 12:32:51 UTC	Animex52, boba, Lel0uch	7	6	30
 392430	4	23	Duck (5 Suits)	2021-01-04 — 12:12:12 UTC	Animex52, boba, catula, Lel0uch	5	5	25
 392423	3	25	White Reversed (5 Suits)	2021-01-04 — 11:38:38 UTC	Animex52, catula, sephiroth	14	5	25
-392411	2	0	White Reversed (6 Suits)	2021-01-04 — 11:09:09 UTC	Animex52, catula	44	6	30
-392408	2	0	White Reversed (6 Suits)	2021-01-04 — 10:57:34 UTC	Animex52, catula	49	6	30
+392411	2	0	White Reversed (6 Suits)	2021-01-04 — 11:09:09 UTC	Animex52, catula	46	6	30
+392408	2	0	White Reversed (6 Suits)	2021-01-04 — 10:57:34 UTC	Animex52, catula	52	6	30
 392153	6	0	Black (5 Suits)	2021-01-04 — 03:58:46 UTC	Animex52, antitelharsic, Nitrate2, Stinkydude63, wina, XMIL	5	5	25
 392144	5	0	Black (5 Suits)	2021-01-04 — 03:47:15 UTC	Animex52, antitelharsic, Nitrate2, Stinkydude63, XMIL	5	5	25
-392143	6	0	No Variant	2021-01-04 — 03:46:44 UTC	Animex52, antitelharsic, Nitrate2, Stinkydude63, wina, XMIL	8	5	25
+392143	6	0	No Variant	2021-01-04 — 03:46:44 UTC	Animex52, antitelharsic, Nitrate2, Stinkydude63, wina, XMIL	9	5	25
 392137	6	0	Black (5 Suits)	2021-01-04 — 03:43:36 UTC	Animex52, antitelharsic, cockdestroyer, nitawa, Nitrate2, XMIL	5	5	25
 392131	6	0	Black (5 Suits)	2021-01-04 — 03:39:41 UTC	Animex52, antitelharsic, cockdestroyer, nitawa, Nitrate2, XMIL	5	5	25
 392121	6	19	Black (5 Suits)	2021-01-04 — 03:33:36 UTC	Animex52, antitelharsic, cockdestroyer, nitawa, Nitrate2, XMIL	8	5	25
 392083	6	0	Black (5 Suits)	2021-01-04 — 03:09:51 UTC	Animex52, antitelharsic, cockdestroyer, nitawa, Nitrate2, XMIL	9	5	25
-392071	5	0	Black (5 Suits)	2021-01-04 — 03:01:16 UTC	Animex52, antitelharsic, cockdestroyer, nitawa, Nitrate2	5	5	25
+392071	5	0	Black (5 Suits)	2021-01-04 — 03:01:16 UTC	Animex52, antitelharsic, cockdestroyer, nitawa, Nitrate2	6	5	25
 392057	5	0	Black (5 Suits)	2021-01-04 — 02:54:19 UTC	Animex52, nitawa, Nitrate2, Stinkydude63, XMIL	5	5	25
 392030	5	0	Black (5 Suits)	2021-01-04 — 02:32:32 UTC	Animex52, nitawa, Nitrate2, Stinkydude63, XMIL	8	5	25
 392020	5	22	Black (5 Suits)	2021-01-04 — 02:21:47 UTC	Animex52, nitawa, Nitrate2, Stinkydude63, XMIL	10	5	25
@@ -327,31 +361,31 @@
 391436	5	23	Prism Reversed (5 Suits)	2021-01-03 — 13:58:13 UTC	Animex52, catula, Lanvin, methmatics, nitawa	3	5	25
 391422	4	0	Prism Reversed (5 Suits)	2021-01-03 — 13:22:57 UTC	Animex52, catula, Lanvin, nitawa	2	5	25
 391417	2	18	Duck (4 Suits)	2021-01-03 — 12:48:54 UTC	Animex52, boba	24	4	20
-390328	3	25	Gray (5 Suits)	2021-01-02 — 15:59:56 UTC	Animex52, jack67889, nitawa	16	5	25
+390328	3	25	Gray (5 Suits)	2021-01-02 — 15:59:56 UTC	Animex52, jack67889, nitawa	17	5	25
 390317	3	0	Gray (5 Suits)	2021-01-02 — 15:27:54 UTC	Animex52, jack67889, nitawa	20	5	25
-390303	3	0	Gray (5 Suits)	2021-01-02 — 14:52:06 UTC	Animex52, jack67889, nitawa	19	5	25
-390297	3	0	Gray (5 Suits)	2021-01-02 — 14:28:55 UTC	Animex52, jack67889, nitawa	21	5	25
+390303	3	0	Gray (5 Suits)	2021-01-02 — 14:52:06 UTC	Animex52, jack67889, nitawa	20	5	25
+390297	3	0	Gray (5 Suits)	2021-01-02 — 14:28:55 UTC	Animex52, jack67889, nitawa	23	5	25
 390288	3	0	Gray (5 Suits)	2021-01-02 — 14:05:09 UTC	Animex52, jack67889, nitawa	26	5	25
 388983	6	0	Muddy-Rainbow-Ones & Pink (5 Suits)	2021-01-01 — 06:55:53 UTC	Animex52, antitelharsic, catula, derekcheah, sin_faith, XMIL	1	5	25
 388970	6	25	White-Ones & Brown (5 Suits)	2021-01-01 — 06:32:10 UTC	Animex52, antitelharsic, catula, derekcheah, sin_faith, XMIL	2	5	25
 386864	4	0	Rainbow (4 Suits)	2020-12-30 — 03:13:16 UTC	Animex52, aquarelle, boba, HelanaAshryvr	17	4	20
 386846	4	0	Rainbow (4 Suits)	2020-12-30 — 02:56:31 UTC	Animex52, aquarelle, boba, HelanaAshryvr	19	4	20
 386806	2	0	Duck (5 Suits)	2020-12-30 — 02:16:07 UTC	Animex52, boba	41	5	25
-386759	2	24	Duck (5 Suits)	2020-12-30 — 01:40:09 UTC	Animex52, boba	63	5	25
+386759	2	24	Duck (5 Suits)	2020-12-30 — 01:40:09 UTC	Animex52, boba	64	5	25
 386209	3	20	Duck (4 Suits)	2020-12-29 — 16:33:10 UTC	Animex52, aquarelle, boba	8	4	20
 386191	3	25	Duck (5 Suits)	2020-12-29 — 15:54:29 UTC	Animex52, aquarelle, boba	3	5	25
-384953	2	25	Dark Prism (5 Suits)	2020-12-28 — 12:40:05 UTC	Animex52, boba	40	5	25
+384953	2	25	Dark Prism (5 Suits)	2020-12-28 — 12:40:05 UTC	Animex52, boba	42	5	25
 382997	4	30	Ambiguous (6 Suits)	2020-12-26 — 20:43:25 UTC	Animex52, jack67889, Stinkydude63, XMIL	40	6	30
 382944	5	0	Rainbow & Prism (5 Suits)	2020-12-26 — 19:54:27 UTC	Animex52, Lanvin, macanek, orucsoraihc, XMIL	8	5	25
 382922	5	0	Rainbow & Prism (5 Suits)	2020-12-26 — 19:32:02 UTC	Animex52, Lanvin, macanek, orucsoraihc, XMIL	9	5	25
 382711	5	25	Prism Reversed (5 Suits)	2020-12-26 — 12:04:54 UTC	Animex52, boba, frosty104, IAMJEFF, Lel0uch	3	5	25
-380866	2	24	Black (5 Suits)	2020-12-24 — 13:58:44 UTC	Animex52, boba	169	5	25
-380861	2	22	Black (5 Suits)	2020-12-24 — 13:40:59 UTC	Animex52, boba	219	5	25
-380858	2	18	Black (5 Suits)	2020-12-24 — 13:24:18 UTC	Animex52, boba	244	5	25
+380866	2	24	Black (5 Suits)	2020-12-24 — 13:58:44 UTC	Animex52, boba	173	5	25
+380861	2	22	Black (5 Suits)	2020-12-24 — 13:40:59 UTC	Animex52, boba	222	5	25
+380858	2	18	Black (5 Suits)	2020-12-24 — 13:24:18 UTC	Animex52, boba	250	5	25
 380764	6	0	Ambiguous (6 Suits)	2020-12-24 — 07:19:06 UTC	Animex52, aquarelle, boba, FerKeth, HelanaAshryvr, methmatics	1	6	30
 380753	6	0	Ambiguous (6 Suits)	2020-12-24 — 06:49:30 UTC	Animex52, aquarelle, boba, FerKeth, HelanaAshryvr, methmatics	8	6	30
-380735	5	23	No Variant	2020-12-24 — 06:26:13 UTC	Animex52, aquarelle, FerKeth, moeski, wavychips	27	5	25
-379996	5	0	Rainbow (6 Suits)	2020-12-23 — 18:53:02 UTC	Animex52, aquarelle, boba, Lel0uch, rz	133	6	30
+380735	5	23	No Variant	2020-12-24 — 06:26:13 UTC	Animex52, aquarelle, FerKeth, moeski, wavychips	28	5	25
+379996	5	0	Rainbow (6 Suits)	2020-12-23 — 18:53:02 UTC	Animex52, aquarelle, boba, Lel0uch, rz	134	6	30
 379575	3	0	Duck (5 Suits)	2020-12-23 — 05:21:51 UTC	Animex52, aquarelle, HelanaAshryvr	3	5	25
 379503	3	23	Duck (5 Suits)	2020-12-23 — 04:26:48 UTC	Animex52, aquarelle, HelanaAshryvr	4	5	25
 379468	4	0	Duck (5 Suits)	2020-12-23 — 03:58:04 UTC	Animex52, aquarelle, colton, HelanaAshryvr	4	5	25
@@ -359,29 +393,29 @@
 379331	5	27	Prism (6 Suits)	2020-12-23 — 02:25:30 UTC	Animex52, aquarelle, boba, doctorabi, HelanaAshryvr	7	6	30
 379298	5	0	Prism (6 Suits)	2020-12-23 — 01:55:14 UTC	Animex52, aquarelle, boba, doctorabi, HelanaAshryvr	11	6	30
 378425	4	22	Dark Prism (5 Suits)	2020-12-22 — 04:46:15 UTC	Animex52, ejwu, vEnhance, XMIL	10	5	25
-378302	3	0	No Variant	2020-12-22 — 02:52:06 UTC	Animex52, catula, XMIL	41	5	25
+378302	3	0	No Variant	2020-12-22 — 02:52:06 UTC	Animex52, catula, XMIL	42	5	25
 377613	6	0	Black (5 Suits)	2020-12-21 — 06:29:27 UTC	Animex52, aquarelle, boba, FerKeth, HelanaAshryvr, Lel0uch	7	5	25
-377607	6	0	Black (5 Suits)	2020-12-21 — 06:17:43 UTC	Animex52, aquarelle, boba, FerKeth, HelanaAshryvr, Lel0uch	9	5	25
+377607	6	0	Black (5 Suits)	2020-12-21 — 06:17:43 UTC	Animex52, aquarelle, boba, FerKeth, HelanaAshryvr, Lel0uch	10	5	25
 376808	3	0	White-Ones & Brown (5 Suits)	2020-12-20 — 15:15:19 UTC	Animex52, nitawa, XMIL	1	5	25
 376688	3	0	Pink (5 Suits)	2020-12-20 — 10:58:49 UTC	Animex52, nitawa, rachyrules	33	5	25
-376663	3	0	Pink (5 Suits)	2020-12-20 — 10:32:39 UTC	Animex52, nitawa, rachyrules	36	5	25
+376663	3	0	Pink (5 Suits)	2020-12-20 — 10:32:39 UTC	Animex52, nitawa, rachyrules	38	5	25
 376517	5	0	Muddy Rainbow & Dark Pink (6 Suits)	2020-12-20 — 06:18:47 UTC	Animex52, catula, derekcheah, sin_faith, will.i.am	1	6	30
 376509	5	0	Muddy Rainbow & Dark Pink (6 Suits)	2020-12-20 — 06:07:48 UTC	Animex52, catula, derekcheah, sin_faith, will.i.am	2	6	30
 376500	5	0	Muddy Rainbow & Dark Pink (6 Suits)	2020-12-20 — 05:59:49 UTC	Animex52, catula, derekcheah, sin_faith, will.i.am	2	6	30
 375741	5	23	No Variant	2020-12-19 — 13:17:35 UTC	Animex52, catula, nitawa, Nitrate2, Pablo-	21	5	25
 375736	6	25	Muddy Rainbow (5 Suits)	2020-12-19 — 12:29:53 UTC	Animex52, catula, jack67889, nitawa, Nitrate2, Sucubis	3	5	25
 375732	5	0	Muddy Rainbow (5 Suits)	2020-12-19 — 11:57:45 UTC	Animex52, catula, nitawa, Nitrate2, Sucubis	8	5	25
-374724	4	23	Dark Prism (5 Suits)	2020-12-18 — 15:10:58 UTC	Animex52, cockdestroyer, jack67889, wump	11	5	25
+374724	4	23	Dark Prism (5 Suits)	2020-12-18 — 15:10:58 UTC	Animex52, cockdestroyer, jack67889, wump	12	5	25
 374713	4	0	Dark Prism (5 Suits)	2020-12-18 — 14:51:10 UTC	Animex52, cockdestroyer, jack67889, wump	13	5	25
 374703	5	0	Dark Prism (5 Suits)	2020-12-18 — 14:36:43 UTC	Animex52, catula, cockdestroyer, jack67889, wump	4	5	25
 374611	6	0	Black (6 Suits)	2020-12-18 — 08:02:45 UTC	Animex52, cockdestroyer, hughjanus, nitawa, Stinkydude63, whalesgomoo	7	6	30
 374602	5	23	No Variant	2020-12-18 — 07:47:06 UTC	Animex52, cockdestroyer, hughjanus, Stinkydude63, whalesgomoo	23	5	25
-373751	3	20	Pink (4 Suits)	2020-12-17 — 14:29:13 UTC	Animex52, jack67889, nitawa	59	4	20
+373751	3	20	Pink (4 Suits)	2020-12-17 — 14:29:13 UTC	Animex52, jack67889, nitawa	60	4	20
 373724	4	0	Duck (5 Suits)	2020-12-17 — 12:54:27 UTC	Animex52, catula, jack67889, Nitrate2	5	5	25
 373721	5	25	Pink (5 Suits)	2020-12-17 — 12:30:09 UTC	Animex52, jack67889, methmatics, nitawa, Nitrate2	14	5	25
 373709	4	0	Duck (5 Suits)	2020-12-17 — 11:45:01 UTC	Animex52, jack67889, nitawa, Nitrate2	1	5	25
-373696	3	0	Prism (4 Suits)	2020-12-17 — 10:32:18 UTC	Animex52, nitawa, Nitrate2	45	4	20
-369886	3	0	Pink (5 Suits)	2020-12-13 — 14:10:23 UTC	Animex52, hughjanus, penisman	108	5	25
+373696	3	0	Prism (4 Suits)	2020-12-17 — 10:32:18 UTC	Animex52, nitawa, Nitrate2	47	4	20
+369886	3	0	Pink (5 Suits)	2020-12-13 — 14:10:23 UTC	Animex52, hughjanus, penisman	112	5	25
 369852	5	23	Pink (5 Suits)	2020-12-13 — 13:35:34 UTC	Animex52, hughjanus, nitawa, Sucubis, wump	9	5	25
 369848	5	23	Dark Rainbow (5 Suits)	2020-12-13 — 13:02:20 UTC	Animex52, catula, nitawa, Sucubis, wump	7	5	25
 369843	5	20	Dark Rainbow (5 Suits)	2020-12-13 — 12:35:58 UTC	Animex52, catula, nitawa, Sucubis, wump	9	5	25
@@ -389,7 +423,7 @@
 369720	4	0	Cow & Pig (5 Suits)	2020-12-13 — 06:37:36 UTC	Animex52, dwu, IsabeltheCat, methmatics	28	5	25
 369670	5	22	Pink-Ones (5 Suits)	2020-12-13 — 05:41:45 UTC	Animex52, antitelharsic, catula, Stinkydude63, XMIL	5	5	25
 369627	5	20	Prism (4 Suits)	2020-12-13 — 04:52:37 UTC	Animex52, antitelharsic, catula, Stinkydude63, XMIL	10	4	20
-368767	5	0	White (5 Suits)	2020-12-12 — 09:13:33 UTC	Animex52, catula, eljavi, Kernel, methmatics	21	5	25
+368767	5	0	White (5 Suits)	2020-12-12 — 09:13:33 UTC	Animex52, catula, eljavi, Kernel, methmatics	22	5	25
 367722	4	0	Duck (5 Suits)	2020-12-11 — 12:05:54 UTC	Animex52, catula, methmatics, nitawa	2	5	25
 367707	4	0	Duck (5 Suits)	2020-12-11 — 11:43:34 UTC	Animex52, catula, methmatics, nitawa	2	5	25
 367704	3	0	Black & Brown (5 Suits)	2020-12-11 — 11:34:02 UTC	Animex52, catula, nitawa	16	5	25
@@ -401,9 +435,9 @@
 365596	3	0	Duck (5 Suits)	2020-12-09 — 10:50:35 UTC	Animex52, nitawa, XMIL	5	5	25
 365594	3	0	Duck (5 Suits)	2020-12-09 — 10:44:07 UTC	Animex52, nitawa, XMIL	5	5	25
 365249	6	0	Rainbow (6 Suits)	2020-12-09 — 02:53:49 UTC	Animex52, antitelharsic, aquarelle, methmatics, penisman, Stinkydude63	20	6	30
-365218	4	0	Rainbow (6 Suits)	2020-12-09 — 02:32:37 UTC	Animex52, methmatics, penisman, Stinkydude63	85	6	30
-365179	4	30	Black (6 Suits)	2020-12-09 — 02:10:50 UTC	Animex52, aquarelle, methmatics, orucsoraihc	90	6	30
-365130	4	0	Rainbow (6 Suits)	2020-12-09 — 01:46:55 UTC	andre_smaira, Animex52, methmatics, orucsoraihc	91	6	30
+365218	4	0	Rainbow (6 Suits)	2020-12-09 — 02:32:37 UTC	Animex52, methmatics, penisman, Stinkydude63	86	6	30
+365179	4	30	Black (6 Suits)	2020-12-09 — 02:10:50 UTC	Animex52, aquarelle, methmatics, orucsoraihc	95	6	30
+365130	4	0	Rainbow (6 Suits)	2020-12-09 — 01:46:55 UTC	andre_smaira, Animex52, methmatics, orucsoraihc	94	6	30
 364653	3	22	Duck (5 Suits)	2020-12-08 — 17:10:51 UTC	Animex52, nitawa, penisman	5	5	25
 364646	3	0	Duck (5 Suits)	2020-12-08 — 16:52:08 UTC	Animex52, nitawa, penisman	11	5	25
 364638	5	25	Prism (5 Suits)	2020-12-08 — 16:23:50 UTC	Animex52, ChristopheAF, Fey, postmans, Sucubis	5	5	25
@@ -412,75 +446,75 @@
 361505	3	0	Light Pink (6 Suits)	2020-12-05 — 10:23:01 UTC	Animex52, Fey, methmatics	4	6	30
 361503	3	0	Light Pink (6 Suits)	2020-12-05 — 10:12:54 UTC	Animex52, Fey, methmatics	6	6	30
 359724	4	24	No Variant	2020-12-03 — 08:02:37 UTC	Animex52, cockdestroyer, nitawa, Stinkydude63	51	5	25
-359715	3	0	Rainbow (6 Suits)	2020-12-03 — 07:15:26 UTC	Animex52, cockdestroyer, Stinkydude63	689	6	30
+359715	3	0	Rainbow (6 Suits)	2020-12-03 — 07:15:26 UTC	Animex52, cockdestroyer, Stinkydude63	693	6	30
 359712	5	0	Duck (5 Suits)	2020-12-03 — 07:02:36 UTC	Animex52, colton, nitawa, orucsoraihc, StKildaFan	9	5	25
 358993	4	23	Duck (5 Suits)	2020-12-02 — 16:47:43 UTC	Animex52, nitawa, Nitrate2, VerySloppyTwo	5	5	25
-358964	4	0	Duck (5 Suits)	2020-12-02 — 15:35:19 UTC	Animex52, nitawa, penisman, VerySloppyTwo	6	5	25
+358964	4	0	Duck (5 Suits)	2020-12-02 — 15:35:19 UTC	Animex52, nitawa, penisman, VerySloppyTwo	7	5	25
 358956	3	0	Duck (5 Suits)	2020-12-02 — 15:10:40 UTC	Animex52, nitawa, Nitrate2	13	5	25
-358721	4	0	Duck (5 Suits)	2020-12-02 — 04:12:34 UTC	Animex52, antitelharsic, nitawa, Pablo-	8	5	25
+358721	4	0	Duck (5 Suits)	2020-12-02 — 04:12:34 UTC	Animex52, antitelharsic, nitawa, Pablo-	9	5	25
 358707	3	0	Duck (5 Suits)	2020-12-02 — 03:52:34 UTC	Animex52, antitelharsic, nitawa	3	5	25
-358700	4	21	No Variant	2020-12-02 — 03:35:26 UTC	Animex52, antitelharsic, nitawa, Stinkydude63	43	5	25
-358675	4	19	No Variant	2020-12-02 — 02:50:13 UTC	Animex52, antitelharsic, nitawa, Stinkydude63	43	5	25
-358643	4	25	Rainbow (5 Suits)	2020-12-02 — 02:06:25 UTC	Animex52, antitelharsic, nitawa, whalesgomoo	92	5	25
+358700	4	21	No Variant	2020-12-02 — 03:35:26 UTC	Animex52, antitelharsic, nitawa, Stinkydude63	44	5	25
+358675	4	19	No Variant	2020-12-02 — 02:50:13 UTC	Animex52, antitelharsic, nitawa, Stinkydude63	44	5	25
+358643	4	25	Rainbow (5 Suits)	2020-12-02 — 02:06:25 UTC	Animex52, antitelharsic, nitawa, whalesgomoo	93	5	25
 358203	4	0	Dark Prism (6 Suits)	2020-12-01 — 11:53:55 UTC	Animex52, catula, sephiroth, VerySloppyTwo	20	6	30
 358198	4	0	Dark Prism (6 Suits)	2020-12-01 — 11:37:13 UTC	Animex52, catula, sephiroth, VerySloppyTwo	23	6	30
 357923	4	20	Ambiguous (4 Suits)	2020-12-01 — 02:30:01 UTC	Animex52, cockdestroyer, nitawa, sephiroth	11	4	20
 357909	4	19	Ambiguous (4 Suits)	2020-12-01 — 02:01:00 UTC	Animex52, cockdestroyer, nitawa, sephiroth	20	4	20
-357498	4	25	No Variant	2020-11-30 — 12:00:49 UTC	Animex52, methmatics, sephiroth, VerySloppyTwo	27	5	25
+357498	4	25	No Variant	2020-11-30 — 12:00:49 UTC	Animex52, methmatics, sephiroth, VerySloppyTwo	28	5	25
 357497	4	0	No Variant	2020-11-30 — 11:50:47 UTC	Animex52, methmatics, sephiroth, VerySloppyTwo	47	5	25
-357496	3	0	No Variant	2020-11-30 — 11:44:12 UTC	Animex52, methmatics, sephiroth	76	5	25
-357495	3	0	No Variant	2020-11-30 — 11:43:02 UTC	Animex52, methmatics, sephiroth	79	5	25
+357496	3	0	No Variant	2020-11-30 — 11:44:12 UTC	Animex52, methmatics, sephiroth	77	5	25
+357495	3	0	No Variant	2020-11-30 — 11:43:02 UTC	Animex52, methmatics, sephiroth	82	5	25
 357485	4	23	Dark Prism (5 Suits)	2020-11-30 — 11:02:26 UTC	Animex52, catula, sephiroth, Sucubis	4	5	25
-357479	4	23	Dark Prism (5 Suits)	2020-11-30 — 10:42:20 UTC	Animex52, catula, sephiroth, Sucubis	4	5	25
+357479	4	23	Dark Prism (5 Suits)	2020-11-30 — 10:42:20 UTC	Animex52, catula, sephiroth, Sucubis	5	5	25
 357473	5	0	No Variant	2020-11-30 — 10:18:18 UTC	Animex52, catula, sephiroth, Sucubis, VerySloppyTwo	21	5	25
 357469	5	0	No Variant	2020-11-30 — 10:05:24 UTC	Animex52, catula, sephiroth, Sucubis, VerySloppyTwo	23	5	25
-357454	3	0	No Variant	2020-11-30 — 09:18:30 UTC	Animex52, catula, charmander	77	5	25
+357454	3	0	No Variant	2020-11-30 — 09:18:30 UTC	Animex52, catula, charmander	79	5	25
 357435	3	12	Brown (3 Suits)	2020-11-30 — 07:16:28 UTC	Animex52, Carunty, frosty104	37	3	15
-357431	3	15	3 Suits	2020-11-30 — 06:59:36 UTC	Animex52, Carunty, frosty104	39	3	15
+357431	3	15	3 Suits	2020-11-30 — 06:59:36 UTC	Animex52, Carunty, frosty104	40	3	15
 355877	4	0	Black & White (5 Suits)	2020-11-28 — 14:09:16 UTC	Animex52, catula, jack67889, nitawa	23	5	25
-355784	4	21	No Variant	2020-11-28 — 05:58:16 UTC	Animex52, catula, StKildaFan, voss	44	5	25
-355098	4	25	No Variant	2020-11-27 — 15:21:23 UTC	Animex52, Carunty, katian, TimeHoodie	48	5	25
-354840	4	20	Rainbow & Prism (4 Suits)	2020-11-27 — 03:53:46 UTC	Animex52, doctorabi, frosty104, sankala	7	4	20
-354821	4	20	4 Suits	2020-11-27 — 03:31:44 UTC	Animex52, doctorabi, frosty104, sankala	77	4	20
+355784	4	21	No Variant	2020-11-28 — 05:58:16 UTC	Animex52, catula, StKildaFan, voss	45	5	25
+355098	4	25	No Variant	2020-11-27 — 15:21:23 UTC	Animex52, Carunty, katian, TimeHoodie	49	5	25
+354840	4	20	Rainbow & Prism (4 Suits)	2020-11-27 — 03:53:46 UTC	Animex52, doctorabi, frosty104, sankala	8	4	20
+354821	4	20	4 Suits	2020-11-27 — 03:31:44 UTC	Animex52, doctorabi, frosty104, sankala	80	4	20
 354793	5	0	4 Suits	2020-11-27 — 02:54:52 UTC	Animex52, doctorabi, frosty104, rmitra5, sankala	16	4	20
 354418	5	30	Brown (6 Suits)	2020-11-26 — 17:16:16 UTC	Animex52, emilyzhao, Lel0uch, MarkusKahlsen, piper	10	6	30
-354400	4	0	Dark Prism (5 Suits)	2020-11-26 — 16:53:30 UTC	Animex52, emilyzhao, MarkusKahlsen, piper	17	5	25
+354400	4	0	Dark Prism (5 Suits)	2020-11-26 — 16:53:30 UTC	Animex52, emilyzhao, MarkusKahlsen, piper	18	5	25
 354390	5	21	Dark Pink (5 Suits)	2020-11-26 — 16:36:53 UTC	Animex52, emilyzhao, MarkusKahlsen, piper, robense	8	5	25
 354294	4	0	White-Ones & Brown (5 Suits)	2020-11-26 — 08:30:18 UTC	Animex52, cockdestroyer, methmatics, XMIL	1	5	25
 354281	4	0	White-Ones & Brown (5 Suits)	2020-11-26 — 08:03:12 UTC	Animex52, methmatics, Stinkydude63, XMIL	2	5	25
 354251	6	25	No Variant	2020-11-26 — 07:08:52 UTC	Animex52, doctorabi, ejwu, penisman, Stinkydude63, voss	16	5	25
 354232	6	0	No Variant	2020-11-26 — 06:40:10 UTC	Animex52, doctorabi, ejwu, penisman, Stinkydude63, voss	17	5	25
-354204	5	24	No Variant	2020-11-26 — 06:12:38 UTC	Animex52, ejwu, penisman, Stinkydude63, voss2	143	5	25
-354086	5	24	No Variant	2020-11-26 — 04:10:11 UTC	Animex52, colton, hailey, HelanaAshryvr, Romain672	207	5	25
+354204	5	24	No Variant	2020-11-26 — 06:12:38 UTC	Animex52, ejwu, penisman, Stinkydude63, voss2	145	5	25
+354086	5	24	No Variant	2020-11-26 — 04:10:11 UTC	Animex52, colton, hailey, HelanaAshryvr, Romain672	208	5	25
 352417	3	25	Light Pink (5 Suits)	2020-11-24 — 10:48:43 UTC	Animex52, jack67889, Sucubis	23	5	25
-352413	4	0	Brown (5 Suits)	2020-11-24 — 10:25:48 UTC	Animex52, catula, sephiroth, VerySloppyTwo	27	5	25
+352413	4	0	Brown (5 Suits)	2020-11-24 — 10:25:48 UTC	Animex52, catula, sephiroth, VerySloppyTwo	28	5	25
 349653	5	0	Deceptive-Ones (5 Suits)	2020-11-21 — 12:00:32 UTC	Animex52, Carunty, catula, sin_faith, StKildaFan	4	5	25
 349646	3	25	Deceptive-Ones (5 Suits)	2020-11-21 — 11:22:58 UTC	Animex52, Carunty, catula	5	5	25
 349637	3	0	Deceptive-Ones (5 Suits)	2020-11-21 — 10:54:03 UTC	Animex52, Carunty, catula	8	5	25
-348705	5	23	Black (5 Suits)	2020-11-20 — 17:02:20 UTC	Animex52, cockdestroyer, penisman, Stinkydude63, Sucubis	17	5	25
+348705	5	23	Black (5 Suits)	2020-11-20 — 17:02:20 UTC	Animex52, cockdestroyer, penisman, Stinkydude63, Sucubis	18	5	25
 348696	5	0	Black (5 Suits)	2020-11-20 — 16:42:48 UTC	Animex52, cockdestroyer, penisman, Stinkydude63, Sucubis	17	5	25
-348689	2	25	Prism (5 Suits)	2020-11-20 — 16:24:03 UTC	Animex52, cockdestroyer	95	5	25
+348689	2	25	Prism (5 Suits)	2020-11-20 — 16:24:03 UTC	Animex52, cockdestroyer	98	5	25
 348613	5	20	Pink (4 Suits)	2020-11-20 — 12:58:03 UTC	Animex52, Carunty, catula, frosty104, pianoblook	9	4	20
 348607	4	14	Prism (3 Suits)	2020-11-20 — 12:32:44 UTC	Animex52, Carunty, catula, robense	8	3	15
-348603	4	14	Prism (3 Suits)	2020-11-20 — 12:16:31 UTC	Animex52, Carunty, catula, robense	12	3	15
-348542	3	23	Clue Starved (5 Suits)	2020-11-20 — 07:51:51 UTC	Animex52, catula, Lel0uch	13	5	25
+348603	4	14	Prism (3 Suits)	2020-11-20 — 12:16:31 UTC	Animex52, Carunty, catula, robense	13	3	15
+348542	3	23	Clue Starved (5 Suits)	2020-11-20 — 07:51:51 UTC	Animex52, catula, Lel0uch	14	5	25
 347747	4	0	No Variant	2020-11-19 — 11:50:58 UTC	Animex52, nitawa, sin_faith, Sucubis	33	5	25
 347746	4	24	No Variant	2020-11-19 — 11:50:23 UTC	Animex52, nitawa, sin_faith, Sucubis	32	5	25
-347745	4	0	No Variant	2020-11-19 — 11:46:21 UTC	Animex52, nitawa, sin_faith, Sucubis	34	5	25
-347744	4	0	No Variant	2020-11-19 — 11:43:10 UTC	Animex52, nitawa, sin_faith, Sucubis	34	5	25
+347745	4	0	No Variant	2020-11-19 — 11:46:21 UTC	Animex52, nitawa, sin_faith, Sucubis	35	5	25
+347744	4	0	No Variant	2020-11-19 — 11:43:10 UTC	Animex52, nitawa, sin_faith, Sucubis	35	5	25
 347742	4	0	No Variant	2020-11-19 — 11:39:13 UTC	Animex52, nitawa, sin_faith, Sucubis	35	5	25
 347741	4	0	No Variant	2020-11-19 — 11:35:01 UTC	Animex52, nitawa, sin_faith, Sucubis	36	5	25
-347740	4	0	No Variant	2020-11-19 — 11:31:14 UTC	Animex52, nitawa, sin_faith, Sucubis	39	5	25
+347740	4	0	No Variant	2020-11-19 — 11:31:14 UTC	Animex52, nitawa, sin_faith, Sucubis	40	5	25
 347739	6	22	Special Mix (5 Suits)	2020-11-19 — 11:17:10 UTC	Animex52, catula, cockdestroyer, sephiroth, sin_faith, Sucubis	4	5	25
 347736	5	0	Special Mix (5 Suits)	2020-11-19 — 10:44:30 UTC	Animex52, catula, sephiroth, sin_faith, Sucubis	6	5	25
 347719	4	0	Pink (5 Suits)	2020-11-19 — 09:07:09 UTC	Animex52, catula, sephiroth, VerySloppyTwo	26	5	25
-347623	4	25	No Variant	2020-11-19 — 05:02:36 UTC	Animex52, penisman, Stinkydude63, whalesgomoo	52	5	25
-347589	4	0	No Variant	2020-11-19 — 04:24:37 UTC	Animex52, penisman, Stinkydude63, whalesgomoo	53	5	25
-347576	4	0	No Variant	2020-11-19 — 04:10:37 UTC	Animex52, penisman, Stinkydude63, whalesgomoo	55	5	25
+347623	4	25	No Variant	2020-11-19 — 05:02:36 UTC	Animex52, penisman, Stinkydude63, whalesgomoo	54	5	25
+347589	4	0	No Variant	2020-11-19 — 04:24:37 UTC	Animex52, penisman, Stinkydude63, whalesgomoo	55	5	25
+347576	4	0	No Variant	2020-11-19 — 04:10:37 UTC	Animex52, penisman, Stinkydude63, whalesgomoo	56	5	25
 347089	5	18	4 Suits	2020-11-18 — 16:30:23 UTC	Animex52, jeff10, nitawa, Nitrate2, SriWang	16	4	20
 346977	6	24	Clue Starved (5 Suits)	2020-11-18 — 06:47:09 UTC	Animex52, cockdestroyer, penisman, Stinkydude63, vEnhance, whalesgomoo	2	5	25
-346963	3	23	Clue Starved (5 Suits)	2020-11-18 — 06:20:51 UTC	Animex52, cockdestroyer, penisman	16	5	25
-346959	3	0	Clue Starved (5 Suits)	2020-11-18 — 06:09:53 UTC	Animex52, cockdestroyer, penisman	18	5	25
+346963	3	23	Clue Starved (5 Suits)	2020-11-18 — 06:20:51 UTC	Animex52, cockdestroyer, penisman	17	5	25
+346959	3	0	Clue Starved (5 Suits)	2020-11-18 — 06:09:53 UTC	Animex52, cockdestroyer, penisman	19	5	25
 346099	4	0	Clue Starved (5 Suits)	2020-11-17 — 06:59:09 UTC	Animex52, cockdestroyer, duckmedic, Stinkydude63	11	5	25
 346096	4	0	Clue Starved (5 Suits)	2020-11-17 — 06:39:55 UTC	Animex52, cockdestroyer, duckmedic, Stinkydude63	19	5	25
 344884	5	0	No Variant	2020-11-16 — 09:59:13 UTC	Animex52, catula, sephiroth, VerySloppyTwo, wina	21	5	25
@@ -488,11 +522,11 @@
 344861	5	23	Null-Ones (5 Suits)	2020-11-16 — 08:56:41 UTC	Animex52, methmatics, nitawa, sephiroth, Stinkydude63	2	5	25
 344840	5	22	Null-Ones (5 Suits)	2020-11-16 — 08:09:52 UTC	Animex52, Carunty, methmatics, nitawa, Stinkydude63	3	5	25
 344835	3	0	Null-Ones (4 Suits)	2020-11-16 — 07:37:26 UTC	Animex52, nitawa, robense	4	4	20
-344119	4	23	No Variant	2020-11-15 — 11:22:54 UTC	Animex52, catula, Fey, Lel0uch	54	5	25
+344119	4	23	No Variant	2020-11-15 — 11:22:54 UTC	Animex52, catula, Fey, Lel0uch	56	5	25
 344116	4	0	No Variant	2020-11-15 — 11:05:53 UTC	Animex52, catula, Fey, Lel0uch	60	5	25
-344113	5	0	No Variant	2020-11-15 — 10:55:59 UTC	Animex52, catula, Fey, Lel0uch, robense	25	5	25
+344113	5	0	No Variant	2020-11-15 — 10:55:59 UTC	Animex52, catula, Fey, Lel0uch, robense	26	5	25
 344110	4	25	No Variant	2020-11-15 — 10:46:23 UTC	Animex52, catula, Lel0uch, Sucubis	61	5	25
-344108	4	0	No Variant	2020-11-15 — 10:35:04 UTC	Animex52, catula, sephiroth, Sucubis	54	5	25
+344108	4	0	No Variant	2020-11-15 — 10:35:04 UTC	Animex52, catula, sephiroth, Sucubis	55	5	25
 344100	3	0	Null-Ones & Prism (5 Suits)	2020-11-15 — 10:01:01 UTC	Animex52, nitawa, sephiroth	2	5	25
 344096	4	0	Null-Ones & Prism (5 Suits)	2020-11-15 — 09:32:39 UTC	Animex52, asaelr, nitawa, Wittvector	2	5	25
 344087	5	0	No Variant	2020-11-15 — 09:04:53 UTC	Animex52, asaelr, catula, nitawa, Wittvector	11	5	25
@@ -500,24 +534,24 @@
 343959	5	0	Pink (6 Suits)	2020-11-15 — 05:30:12 UTC	Animex52, Bonja97, catula, derekcheah, wump	15	6	30
 343291	3	0	Dark Brown (5 Suits)	2020-11-14 — 12:56:33 UTC	Animex52, catula, Pablo-	18	5	25
 343289	3	0	Dark Brown (5 Suits)	2020-11-14 — 12:42:25 UTC	Animex52, catula, Pablo-	26	5	25
-342257	3	14	Prism (3 Suits)	2020-11-13 — 11:35:12 UTC	Animex52, nitawa, sephiroth	32	3	15
+342257	3	14	Prism (3 Suits)	2020-11-13 — 11:35:12 UTC	Animex52, nitawa, sephiroth	34	3	15
 342196	5	0	No Variant	2020-11-13 — 07:14:37 UTC	Animex52, cockdestroyer, hughjanus, whalesgomoo, XMIL	21	5	25
 342191	5	0	No Variant	2020-11-13 — 06:49:32 UTC	Animex52, cockdestroyer, hughjanus, whalesgomoo, XMIL	21	5	25
-342184	4	22	No Variant	2020-11-13 — 06:21:31 UTC	Animex52, cockdestroyer, Stinkydude63, whalesgomoo	55	5	25
-342048	3	25	No Variant	2020-11-13 — 02:34:46 UTC	Animex52, Stinkydude63, whalesgomoo	89	5	25
+342184	4	22	No Variant	2020-11-13 — 06:21:31 UTC	Animex52, cockdestroyer, Stinkydude63, whalesgomoo	56	5	25
+342048	3	25	No Variant	2020-11-13 — 02:34:46 UTC	Animex52, Stinkydude63, whalesgomoo	91	5	25
 341558	3	25	Clue Starved (5 Suits)	2020-11-12 — 13:39:58 UTC	Animex52, robense, TimeHoodie	33	5	25
-341553	4	0	No Variant	2020-11-12 — 13:18:14 UTC	Animex52, Lel0uch, robense, TimeHoodie	63	5	25
-341551	3	22	No Variant	2020-11-12 — 13:08:30 UTC	Animex52, catula, sephiroth	69	5	25
-340445	4	25	No Variant	2020-11-11 — 02:16:19 UTC	Animex52, cockdestroyer, Nitrate2, Smelly-Phlegm	53	5	25
-339107	3	0	No Variant	2020-11-09 — 11:35:04 UTC	Animex52, catula, Lel0uch	77	5	25
+341553	4	0	No Variant	2020-11-12 — 13:18:14 UTC	Animex52, Lel0uch, robense, TimeHoodie	64	5	25
+341551	3	22	No Variant	2020-11-12 — 13:08:30 UTC	Animex52, catula, sephiroth	72	5	25
+340445	4	25	No Variant	2020-11-11 — 02:16:19 UTC	Animex52, cockdestroyer, Nitrate2, Smelly-Phlegm	55	5	25
+339107	3	0	No Variant	2020-11-09 — 11:35:04 UTC	Animex52, catula, Lel0uch	78	5	25
 339105	3	14	Muddy Rainbow (4 Suits)	2020-11-09 — 11:13:19 UTC	Animex52, catula, Sucubis	11	4	20
-339103	3	0	Muddy Rainbow (4 Suits)	2020-11-09 — 10:59:20 UTC	Animex52, catula, Sucubis	18	4	20
+339103	3	0	Muddy Rainbow (4 Suits)	2020-11-09 — 10:59:20 UTC	Animex52, catula, Sucubis	20	4	20
 339079	4	0	Brown (6 Suits)	2020-11-09 — 09:23:25 UTC	Animex52, catula, jack67889, Sucubis	17	6	30
 338905	3	29	Prism (6 Suits)	2020-11-09 — 04:14:27 UTC	Animex52, emilyzhao, squidgetx	11	6	30
 338879	3	30	Prism (6 Suits)	2020-11-09 — 03:39:19 UTC	Animex52, emilyzhao, squidgetx	11	6	30
 338854	3	30	Prism (6 Suits)	2020-11-09 — 02:57:42 UTC	Animex52, emilyzhao, squidgetx	5	6	30
 338292	6	0	Dark Rainbow (6 Suits)	2020-11-08 — 12:49:31 UTC	Animex52, catula, cockdestroyer, methmatics, sephiroth, Sucubis	5	6	30
-338163	5	22	No Variant	2020-11-08 — 06:59:43 UTC	Animex52, catula, Stinkydude63, Tiramisu1th, whalesgomoo	344	5	25
+338163	5	22	No Variant	2020-11-08 — 06:59:43 UTC	Animex52, catula, Stinkydude63, Tiramisu1th, whalesgomoo	348	5	25
 338084	3	30	Prism (6 Suits)	2020-11-08 — 04:00:41 UTC	Animex52, emilyzhao, squidgetx	13	6	30
 338060	3	27	Prism (6 Suits)	2020-11-08 — 03:22:49 UTC	Animex52, emilyzhao, squidgetx	14	6	30
 338029	3	0	Prism (6 Suits)	2020-11-08 — 02:52:24 UTC	Animex52, emilyzhao, JackFrost	14	6	30
@@ -526,18 +560,18 @@
 337941	3	0	Prism (6 Suits)	2020-11-08 — 01:05:11 UTC	Animex52, emilyzhao, squidgetx	6	6	30
 337926	3	0	Prism (6 Suits)	2020-11-08 — 00:37:26 UTC	Animex52, emilyzhao, squidgetx	6	6	30
 337887	6	0	Prism (5 Suits)	2020-11-07 — 23:32:44 UTC	Animex52, catula, honzas, rachyrules, sephiroth, Sucubis	3	5	25
-337844	3	15	Rainbow (3 Suits)	2020-11-07 — 23:03:36 UTC	Animex52, catula, honzas	43	3	15
-337814	3	14	Rainbow (3 Suits)	2020-11-07 — 22:39:09 UTC	Animex52, catula, honzas	53	3	15
-337792	3	14	Rainbow (3 Suits)	2020-11-07 — 22:19:49 UTC	Animex52, catula, honzas	71	3	15
+337844	3	15	Rainbow (3 Suits)	2020-11-07 — 23:03:36 UTC	Animex52, catula, honzas	44	3	15
+337814	3	14	Rainbow (3 Suits)	2020-11-07 — 22:39:09 UTC	Animex52, catula, honzas	54	3	15
+337792	3	14	Rainbow (3 Suits)	2020-11-07 — 22:19:49 UTC	Animex52, catula, honzas	72	3	15
 337524	3	26	Dark Rainbow (6 Suits)	2020-11-07 — 14:01:52 UTC	Animex52, catula, sephiroth	91	6	30
-337518	3	0	No Variant	2020-11-07 — 13:44:37 UTC	Animex52, catula, sephiroth	82	5	25
+337518	3	0	No Variant	2020-11-07 — 13:44:37 UTC	Animex52, catula, sephiroth	84	5	25
 337514	3	30	Prism (6 Suits)	2020-11-07 — 13:29:22 UTC	Animex52, catula, nitawa	8	6	30
 337508	3	0	Prism (6 Suits)	2020-11-07 — 13:07:24 UTC	Animex52, catula, nitawa	36	6	30
-337504	3	23	No Variant	2020-11-07 — 12:59:14 UTC	Animex52, catula, nitawa	83	5	25
-337499	3	25	No Variant	2020-11-07 — 12:40:49 UTC	Animex52, catula, methmatics	89	5	25
-337479	5	18	Rainbow (4 Suits)	2020-11-07 — 11:14:07 UTC	Animex52, Carunty, catula, kimbifille, Sucubis	6	4	20
-337477	3	0	Muddy Rainbow (4 Suits)	2020-11-07 — 10:48:53 UTC	Animex52, Carunty, Sucubis	22	4	20
-337475	3	19	Muddy Rainbow (4 Suits)	2020-11-07 — 10:37:17 UTC	Animex52, Carunty, Sucubis	29	4	20
+337504	3	23	No Variant	2020-11-07 — 12:59:14 UTC	Animex52, catula, nitawa	86	5	25
+337499	3	25	No Variant	2020-11-07 — 12:40:49 UTC	Animex52, catula, methmatics	91	5	25
+337479	5	18	Rainbow (4 Suits)	2020-11-07 — 11:14:07 UTC	Animex52, Carunty, catula, kimbifille, Sucubis	7	4	20
+337477	3	0	Muddy Rainbow (4 Suits)	2020-11-07 — 10:48:53 UTC	Animex52, Carunty, Sucubis	23	4	20
+337475	3	19	Muddy Rainbow (4 Suits)	2020-11-07 — 10:37:17 UTC	Animex52, Carunty, Sucubis	31	4	20
 337470	5	19	White (4 Suits)	2020-11-07 — 10:07:23 UTC	Animex52, cockdestroyer, IAMJEFF, Nitrate2, sephiroth	5	4	20
 337420	3	29	Prism (6 Suits)	2020-11-07 — 07:32:56 UTC	Animex52, emilyzhao, squidgetx	10	6	30
 337403	3	0	Prism (6 Suits)	2020-11-07 — 07:09:52 UTC	Animex52, emilyzhao, squidgetx	10	6	30
@@ -552,24 +586,24 @@
 335566	3	27	Prism (6 Suits)	2020-11-04 — 23:46:42 UTC	Animex52, emilyzhao, squidgetx	13	6	30
 335212	5	0	Prism & Dark Rainbow (6 Suits)	2020-11-04 — 12:21:30 UTC	Animex52, Carunty, catula, melwen, Sucubis	1	6	30
 335207	5	0	Prism & Dark Rainbow (6 Suits)	2020-11-04 — 11:47:41 UTC	Animex52, Carunty, catula, melwen, Sucubis	3	6	30
-335206	5	0	Prism & Dark Rainbow (6 Suits)	2020-11-04 — 11:25:34 UTC	Animex52, Carunty, catula, melwen, Sucubis	3	6	30
+335206	5	0	Prism & Dark Rainbow (6 Suits)	2020-11-04 — 11:25:34 UTC	Animex52, Carunty, catula, melwen, Sucubis	4	6	30
 334357	4	24	No Variant	2020-11-03 — 09:44:01 UTC	Animex52, Carunty, catula, Pablo-	52	5	25
 334338	6	30	6 Suits	2020-11-03 — 08:11:04 UTC	Animex52, hughjanus, kodomazer, Stinkydude63, whalesgomoo, wump	12	6	30
-334335	4	0	No Variant	2020-11-03 — 07:43:16 UTC	Animex52, hughjanus, Stinkydude63, whalesgomoo	78	5	25
+334335	4	0	No Variant	2020-11-03 — 07:43:16 UTC	Animex52, hughjanus, Stinkydude63, whalesgomoo	79	5	25
 334328	5	23	No Variant	2020-11-03 — 06:56:01 UTC	Animex52, kodomazer, methmatics, Stinkydude63, whalesgomoo	25	5	25
-334191	3	0	Prism (6 Suits)	2020-11-03 — 03:33:34 UTC	Animex52, Jake_Stiles, Puzzle	84	6	30
-334158	3	0	Black (5 Suits)	2020-11-03 — 02:52:54 UTC	Animex52, cockdestroyer, penisman	51	5	25
-334145	3	0	Black (5 Suits)	2020-11-03 — 02:34:19 UTC	Animex52, cockdestroyer, penisman	66	5	25
+334191	3	0	Prism (6 Suits)	2020-11-03 — 03:33:34 UTC	Animex52, Jake_Stiles, Puzzle	85	6	30
+334158	3	0	Black (5 Suits)	2020-11-03 — 02:52:54 UTC	Animex52, cockdestroyer, penisman	52	5	25
+334145	3	0	Black (5 Suits)	2020-11-03 — 02:34:19 UTC	Animex52, cockdestroyer, penisman	67	5	25
 334028	3	0	Prism (6 Suits)	2020-11-03 — 00:12:46 UTC	Animex52, emilyzhao, squidgetx	15	6	30
 334017	3	0	Prism (6 Suits)	2020-11-02 — 23:55:23 UTC	Animex52, emilyzhao, squidgetx	16	6	30
 334010	3	0	Prism (6 Suits)	2020-11-02 — 23:40:23 UTC	Animex52, emilyzhao, squidgetx	18	6	30
 333742	3	0	Black & Dark Prism (6 Suits)	2020-11-02 — 16:42:11 UTC	Animex52, jack67889, level_0	4	6	30
-333731	4	0	Black & Dark Prism (6 Suits)	2020-11-02 — 16:14:41 UTC	Animex52, level_0, MarkusKahlsen, TimeHoodie	2	6	30
+333731	4	0	Black & Dark Prism (6 Suits)	2020-11-02 — 16:14:41 UTC	Animex52, level_0, MarkusKahlsen, TimeHoodie	3	6	30
 332414	5	0	Null (6 Suits)	2020-10-31 — 23:59:06 UTC	Animex52, melwen, newduke, TimeHoodie, timotree	6	6	30
 332378	5	0	Null (6 Suits)	2020-10-31 — 23:28:06 UTC	Animex52, kimbifille, melwen, newduke, timotree	7	6	30
 332361	5	0	Null (6 Suits)	2020-10-31 — 23:10:25 UTC	Animex52, kimbifille, melwen, newduke, timotree	8	6	30
-330734	3	0	No Variant	2020-10-30 — 00:05:19 UTC	Animex52, moeski, whalesgomoo	93	5	25
-330722	3	23	No Variant	2020-10-29 — 23:41:42 UTC	Animex52, Stinkydude63, whalesgomoo	101	5	25
+330734	3	0	No Variant	2020-10-30 — 00:05:19 UTC	Animex52, moeski, whalesgomoo	95	5	25
+330722	3	23	No Variant	2020-10-29 — 23:41:42 UTC	Animex52, Stinkydude63, whalesgomoo	103	5	25
 330139	3	30	Prism (6 Suits)	2020-10-29 — 00:10:25 UTC	Animex52, emilyzhao, squidgetx	18	6	30
 330111	4	30	Prism (6 Suits)	2020-10-28 — 23:04:21 UTC	amyy, Animex52, jack67889, Nitrate2	35	6	30
 330100	4	0	Prism (6 Suits)	2020-10-28 — 22:27:30 UTC	amyy, Animex52, jack67889, Nitrate2	53	6	30
@@ -582,10 +616,10 @@
 328871	3	0	Black & Prism (5 Suits)	2020-10-26 — 23:08:08 UTC	Animex52, emilyzhao, squidgetx	9	5	25
 328864	3	23	Black & Prism (5 Suits)	2020-10-26 — 22:53:32 UTC	Animex52, emilyzhao, squidgetx	12	5	25
 328857	3	0	Black & Prism (5 Suits)	2020-10-26 — 22:38:06 UTC	Animex52, emilyzhao, squidgetx	12	5	25
-328850	3	0	Black & Prism (5 Suits)	2020-10-26 — 22:28:50 UTC	Animex52, emilyzhao, squidgetx	14	5	25
-328457	4	30	6 Suits	2020-10-26 — 04:15:20 UTC	Animex52, penisman, Stinkydude63, whalesgomoo	47	6	30
-328419	3	25	No Variant	2020-10-26 — 03:17:24 UTC	Animex52, penisman, whalesgomoo	97	5	25
-328388	3	0	No Variant	2020-10-26 — 02:42:04 UTC	Animex52, penisman, whalesgomoo	100	5	25
+328850	3	0	Black & Prism (5 Suits)	2020-10-26 — 22:28:50 UTC	Animex52, emilyzhao, squidgetx	15	5	25
+328457	4	30	6 Suits	2020-10-26 — 04:15:20 UTC	Animex52, penisman, Stinkydude63, whalesgomoo	49	6	30
+328419	3	25	No Variant	2020-10-26 — 03:17:24 UTC	Animex52, penisman, whalesgomoo	99	5	25
+328388	3	0	No Variant	2020-10-26 — 02:42:04 UTC	Animex52, penisman, whalesgomoo	103	5	25
 328065	3	23	Duck (5 Suits)	2020-10-25 — 18:39:53 UTC	Animex52, emilyzhao, squidgetx	9	5	25
 328051	3	25	Duck (5 Suits)	2020-10-25 — 17:53:25 UTC	Animex52, emilyzhao, squidgetx	10	5	25
 328044	3	25	Duck (5 Suits)	2020-10-25 — 17:21:58 UTC	Animex52, emilyzhao, squidgetx	10	5	25
@@ -597,25 +631,25 @@
 327376	3	0	Duck (5 Suits)	2020-10-24 — 18:09:26 UTC	Animex52, emilyzhao, squidgetx	6	5	25
 327360	3	24	Duck (5 Suits)	2020-10-24 — 17:31:18 UTC	Animex52, emilyzhao, squidgetx	6	5	25
 327353	3	23	Duck (5 Suits)	2020-10-24 — 16:55:26 UTC	Animex52, emilyzhao, squidgetx	6	5	25
-327339	3	0	Rainbow (6 Suits)	2020-10-24 — 15:57:08 UTC	Animex52, penisman, sephiroth	196	6	30
-327324	3	0	Rainbow (6 Suits)	2020-10-24 — 15:21:02 UTC	Animex52, penisman, sephiroth	282	6	30
-327279	4	25	Prism (5 Suits)	2020-10-24 — 12:14:14 UTC	Animex52, kodomazer, level_0, Wittvector	23	5	25
-327270	3	0	Dark Prism (5 Suits)	2020-10-24 — 11:24:21 UTC	Animex52, kodomazer, sephiroth	26	5	25
+327339	3	0	Rainbow (6 Suits)	2020-10-24 — 15:57:08 UTC	Animex52, penisman, sephiroth	198	6	30
+327324	3	0	Rainbow (6 Suits)	2020-10-24 — 15:21:02 UTC	Animex52, penisman, sephiroth	284	6	30
+327279	4	25	Prism (5 Suits)	2020-10-24 — 12:14:14 UTC	Animex52, kodomazer, level_0, Wittvector	25	5	25
+327270	3	0	Dark Prism (5 Suits)	2020-10-24 — 11:24:21 UTC	Animex52, kodomazer, sephiroth	27	5	25
 326739	3	25	Duck (5 Suits)	2020-10-23 — 21:57:10 UTC	Animex52, emilyzhao, squidgetx	6	5	25
 326718	3	0	Duck (5 Suits)	2020-10-23 — 21:26:56 UTC	Animex52, emilyzhao, squidgetx	6	5	25
 326406	4	0	Black & Dark Prism (6 Suits)	2020-10-23 — 10:17:24 UTC	Animex52, cockdestroyer, methmatics, Pablo-	7	6	30
 326397	3	0	Black & Dark Prism (6 Suits)	2020-10-23 — 09:56:49 UTC	Animex52, cockdestroyer, methmatics	7	6	30
 325785	4	22	Dark Prism (5 Suits)	2020-10-22 — 15:39:28 UTC	Animex52, cockdestroyer, Pablo-, TheDaniMan	5	5	25
 325776	4	0	Dark Prism (5 Suits)	2020-10-22 — 15:16:31 UTC	Animex52, cockdestroyer, Pablo-, TheDaniMan	8	5	25
-325772	4	0	Dark Prism (5 Suits)	2020-10-22 — 14:58:14 UTC	Animex52, cockdestroyer, Pablo-, TheDaniMan	9	5	25
-325711	3	25	No Variant	2020-10-22 — 10:41:05 UTC	Animex52, catula, Sucubis	106	5	25
-325709	3	0	No Variant	2020-10-22 — 10:12:33 UTC	Animex52, catula, Sucubis	109	5	25
-325693	4	0	No Variant	2020-10-22 — 08:18:39 UTC	Animex52, Carunty, catula, rachyrules	82	5	25
+325772	4	0	Dark Prism (5 Suits)	2020-10-22 — 14:58:14 UTC	Animex52, cockdestroyer, Pablo-, TheDaniMan	10	5	25
+325711	3	25	No Variant	2020-10-22 — 10:41:05 UTC	Animex52, catula, Sucubis	110	5	25
+325709	3	0	No Variant	2020-10-22 — 10:12:33 UTC	Animex52, catula, Sucubis	115	5	25
+325693	4	0	No Variant	2020-10-22 — 08:18:39 UTC	Animex52, Carunty, catula, rachyrules	84	5	25
 325345	3	0	Duck (5 Suits)	2020-10-22 — 00:11:00 UTC	Animex52, emilyzhao, squidgetx	7	5	25
 325324	3	0	Duck (5 Suits)	2020-10-21 — 23:19:51 UTC	Animex52, emilyzhao, squidgetx	7	5	25
 325303	3	0	Duck (5 Suits)	2020-10-21 — 22:49:45 UTC	Animex52, emilyzhao, squidgetx	7	5	25
 325290	3	0	Duck (5 Suits)	2020-10-21 — 22:25:27 UTC	Animex52, emilyzhao, squidgetx	7	5	25
-324597	4	0	Black & Prism (6 Suits)	2020-10-20 — 20:45:10 UTC	Animex52, honzas, rachyrules, timotree	14	6	30
+324597	4	0	Black & Prism (6 Suits)	2020-10-20 — 20:45:10 UTC	Animex52, honzas, rachyrules, timotree	15	6	30
 324308	3	0	Duck (5 Suits)	2020-10-20 — 05:47:00 UTC	Animex52, emilyzhao, squidgetx	7	5	25
 324296	3	0	Duck (5 Suits)	2020-10-20 — 05:16:22 UTC	Animex52, emilyzhao, squidgetx	8	5	25
 324287	3	0	Duck (5 Suits)	2020-10-20 — 05:00:09 UTC	Animex52, emilyzhao, squidgetx	8	5	25
@@ -624,105 +658,105 @@
 323663	5	25	No Variant	2020-10-19 — 11:34:03 UTC	Animex52, catula, Sucubis, TimeHoodie, Zakisan	20	5	25
 323649	6	0	No Variant	2020-10-19 — 09:57:33 UTC	Animex52, catula, cockdestroyer, jack67889, StKildaFan, swineherd	4	5	25
 323645	5	24	No Variant	2020-10-19 — 09:27:06 UTC	Animex52, asaelr, catula, cockdestroyer, jack67889	12	5	25
-323616	5	23	No Variant	2020-10-19 — 07:16:26 UTC	Animex52, methmatics, penisman, Stinkydude63, whalesgomoo	27	5	25
+323616	5	23	No Variant	2020-10-19 — 07:16:26 UTC	Animex52, methmatics, penisman, Stinkydude63, whalesgomoo	28	5	25
 323603	5	22	No Variant	2020-10-19 — 06:27:12 UTC	Animex52, methmatics, penisman, Stinkydude63, whalesgomoo	25	5	25
 323594	5	0	No Variant	2020-10-19 — 05:53:19 UTC	Animex52, methmatics, penisman, Stinkydude63, whalesgomoo	25	5	25
 323569	4	22	Throw It in a Hole (5 Suits)	2020-10-19 — 05:12:45 UTC	Animex52, penisman, Stinkydude63, whalesgomoo	40	5	25
 323458	5	30	6 Suits	2020-10-19 — 02:42:30 UTC	Animex52, methmatics, penisman, Stinkydude63, whalesgomoo	7	6	30
 323435	5	0	6 Suits	2020-10-19 — 02:16:53 UTC	Animex52, methmatics, penisman, Stinkydude63, whalesgomoo	35	6	30
-323418	4	0	No Variant	2020-10-19 — 01:59:43 UTC	Animex52, penisman, Stinkydude63, whalesgomoo	90	5	25
+323418	4	0	No Variant	2020-10-19 — 01:59:43 UTC	Animex52, penisman, Stinkydude63, whalesgomoo	92	5	25
 322961	5	0	No Variant	2020-10-18 — 17:06:04 UTC	Animex52, Puzzle, TimeHoodie, wump, XMIL	21	5	25
 322878	5	0	Pink (5 Suits)	2020-10-18 — 12:24:28 UTC	Animex52, catula, sin_faith, StKildaFan, Veexliat	5	5	25
 322576	3	22	Duck (5 Suits)	2020-10-18 — 01:35:26 UTC	Animex52, emilyzhao, squidgetx	10	5	25
-322552	3	0	Duck (5 Suits)	2020-10-18 — 01:04:56 UTC	Animex52, emilyzhao, squidgetx	15	5	25
-322545	3	0	Duck (5 Suits)	2020-10-18 — 00:52:32 UTC	Animex52, emilyzhao, squidgetx	14	5	25
-322539	3	0	Duck (5 Suits)	2020-10-18 — 00:39:07 UTC	Animex52, emilyzhao, squidgetx	14	5	25
+322552	3	0	Duck (5 Suits)	2020-10-18 — 01:04:56 UTC	Animex52, emilyzhao, squidgetx	16	5	25
+322545	3	0	Duck (5 Suits)	2020-10-18 — 00:52:32 UTC	Animex52, emilyzhao, squidgetx	15	5	25
+322539	3	0	Duck (5 Suits)	2020-10-18 — 00:39:07 UTC	Animex52, emilyzhao, squidgetx	15	5	25
 322212	5	0	Prism (6 Suits)	2020-10-17 — 14:14:28 UTC	Animex52, catula, jack67889, melwen, Sucubis	5	6	30
 322204	5	0	Prism (6 Suits)	2020-10-17 — 13:23:44 UTC	Animex52, catula, jack67889, melwen, Sucubis	12	6	30
-322199	4	22	No Variant	2020-10-17 — 12:38:34 UTC	Animex52, catula, melwen, Sucubis	16	5	25
-322192	5	25	No Variant	2020-10-17 — 12:04:12 UTC	Animex52, catula, ebin_noob, Sucubis, wortel	81	5	25
+322199	4	22	No Variant	2020-10-17 — 12:38:34 UTC	Animex52, catula, melwen, Sucubis	17	5	25
+322192	5	25	No Variant	2020-10-17 — 12:04:12 UTC	Animex52, catula, ebin_noob, Sucubis, wortel	82	5	25
 321639	3	0	Duck (5 Suits)	2020-10-16 — 19:04:06 UTC	Animex52, emilyzhao, squidgetx	15	5	25
 321605	3	23	Duck (5 Suits)	2020-10-16 — 18:28:14 UTC	Animex52, emilyzhao, squidgetx	17	5	25
 321566	3	0	Duck (5 Suits)	2020-10-16 — 17:07:50 UTC	Animex52, emilyzhao, squidgetx	16	5	25
-320898	4	0	No Variant	2020-10-15 — 16:00:16 UTC	angel-a, Animex52, IsabeltheCat, level_0	336	5	25
+320898	4	0	No Variant	2020-10-15 — 16:00:16 UTC	angel-a, Animex52, IsabeltheCat, level_0	340	5	25
 320833	4	0	Throw It in a Hole (4 Suits)	2020-10-15 — 11:46:11 UTC	Animex52, catula, Sucubis, TimeHoodie	5	4	20
 320830	4	19	Throw It in a Hole (4 Suits)	2020-10-15 — 11:31:29 UTC	Animex52, catula, Sucubis, TimeHoodie	12	4	20
 320822	2	25	Pink-Ones & Prism (5 Suits)	2020-10-15 — 10:26:51 UTC	Animex52, methmatics	3	5	25
 320818	2	0	Pink-Ones & Prism (5 Suits)	2020-10-15 — 10:08:40 UTC	Animex52, methmatics	3	5	25
-320817	2	0	Pink-Ones & Prism (5 Suits)	2020-10-15 — 10:04:33 UTC	Animex52, methmatics	5	5	25
-320815	2	15	3 Suits	2020-10-15 — 09:45:42 UTC	Animex52, methmatics	105	3	15
-320804	2	19	4 Suits	2020-10-15 — 07:52:55 UTC	Animex52, catula	244	4	20
+320817	2	0	Pink-Ones & Prism (5 Suits)	2020-10-15 — 10:04:33 UTC	Animex52, methmatics	6	5	25
+320815	2	15	3 Suits	2020-10-15 — 09:45:42 UTC	Animex52, methmatics	106	3	15
+320804	2	19	4 Suits	2020-10-15 — 07:52:55 UTC	Animex52, catula	248	4	20
 320246	6	30	Prism (6 Suits)	2020-10-14 — 13:36:51 UTC	Animex52, Hapotata, Pepepe, Sucubis, TheDaniMan, TimeHoodie	8	6	30
-320225	3	25	White (5 Suits)	2020-10-14 — 11:42:49 UTC	Animex52, catula, Tiramisu1th	126	5	25
+320225	3	25	White (5 Suits)	2020-10-14 — 11:42:49 UTC	Animex52, catula, Tiramisu1th	131	5	25
 320091	4	0	Duck (5 Suits)	2020-10-14 — 04:14:20 UTC	Animex52, penisman, Stinkydude63, whalesgomoo	10	5	25
 320073	4	0	Duck (5 Suits)	2020-10-14 — 03:54:01 UTC	Animex52, penisman, Stinkydude63, whalesgomoo	13	5	25
-320052	3	25	No Variant	2020-10-14 — 03:33:50 UTC	Animex52, penisman, whalesgomoo	112	5	25
+320052	3	25	No Variant	2020-10-14 — 03:33:50 UTC	Animex52, penisman, whalesgomoo	116	5	25
 320002	5	25	Prism (5 Suits)	2020-10-14 — 02:35:46 UTC	angel-a, Animex52, JackFrost, ksfortson, wump	9	5	25
-319881	5	19	Muddy Rainbow (4 Suits)	2020-10-14 — 00:22:40 UTC	Animex52, melwen, TimeHoodie, timotree, XMIL	6	4	20
+319881	5	19	Muddy Rainbow (4 Suits)	2020-10-14 — 00:22:40 UTC	Animex52, melwen, TimeHoodie, timotree, XMIL	7	4	20
 319855	4	0	Muddy Rainbow (6 Suits)	2020-10-13 — 23:42:43 UTC	Animex52, melwen, TimeHoodie, timotree	25	6	30
 319831	3	0	Duck (5 Suits)	2020-10-13 — 22:50:11 UTC	Animex52, emilyzhao, squidgetx	22	5	25
-319462	4	0	Rainbow & Muddy Rainbow (6 Suits)	2020-10-13 — 12:13:46 UTC	Animex52, cockdestroyer, IAMJEFF, TimeHoodie	6	6	30
+319462	4	0	Rainbow & Muddy Rainbow (6 Suits)	2020-10-13 — 12:13:46 UTC	Animex52, cockdestroyer, IAMJEFF, TimeHoodie	8	6	30
 319454	4	23	Throw It in a Hole (5 Suits)	2020-10-13 — 11:30:28 UTC	Animex52, catula, cockdestroyer, jack67889	10	5	25
-319435	5	0	Prism (5 Suits)	2020-10-13 — 09:46:00 UTC	Animex52, catula, cockdestroyer, jack67889, robense	13	5	25
+319435	5	0	Prism (5 Suits)	2020-10-13 — 09:46:00 UTC	Animex52, catula, cockdestroyer, jack67889, robense	14	5	25
 319433	5	0	Prism (5 Suits)	2020-10-13 — 09:41:35 UTC	Animex52, cockdestroyer, jack67889, robense, sephiroth	7	5	25
 319431	6	20	4 Suits	2020-10-13 — 09:23:30 UTC	Animex52, catula, level_0, level_17, methmatics, StKildaFan	17	4	20
-319384	4	0	Duck (5 Suits)	2020-10-13 — 06:45:42 UTC	Animex52, antitelharsic, cockdestroyer, timotree	27	5	25
+319384	4	0	Duck (5 Suits)	2020-10-13 — 06:45:42 UTC	Animex52, antitelharsic, cockdestroyer, timotree	28	5	25
 319280	3	25	Duck (5 Suits)	2020-10-13 — 04:03:28 UTC	Animex52, emilyzhao, squidgetx	25	5	25
 319244	3	0	Duck (5 Suits)	2020-10-13 — 03:28:54 UTC	Animex52, emilyzhao, squidgetx	35	5	25
 319228	3	0	Duck (5 Suits)	2020-10-13 — 03:02:14 UTC	Animex52, emilyzhao, squidgetx	52	5	25
-318729	3	30	Prism (6 Suits)	2020-10-12 — 09:16:30 UTC	Animex52, methmatics, sephiroth	45	6	30
-318725	5	22	No Variant	2020-10-12 — 08:43:23 UTC	Animex52, cockdestroyer, methmatics, robense, Stinkydude63	28	5	25
-318722	4	0	No Variant	2020-10-12 — 08:11:34 UTC	Animex52, cockdestroyer, robense, Stinkydude63	64	5	25
+318729	3	30	Prism (6 Suits)	2020-10-12 — 09:16:30 UTC	Animex52, methmatics, sephiroth	46	6	30
+318725	5	22	No Variant	2020-10-12 — 08:43:23 UTC	Animex52, cockdestroyer, methmatics, robense, Stinkydude63	29	5	25
+318722	4	0	No Variant	2020-10-12 — 08:11:34 UTC	Animex52, cockdestroyer, robense, Stinkydude63	65	5	25
 318721	4	0	No Variant	2020-10-12 — 08:10:32 UTC	Animex52, cockdestroyer, robense, Stinkydude63	70	5	25
-318680	3	25	No Variant	2020-10-12 — 05:49:31 UTC	Animex52, Stinkydude63, vEnhance	110	5	25
-318672	4	0	No Variant	2020-10-12 — 05:34:40 UTC	Animex52, cockdestroyer, Stinkydude63, vEnhance	95	5	25
-317961	6	26	Black (6 Suits)	2020-10-11 — 06:49:08 UTC	angel-a, Animex52, catula, sin_faith, swineherd, wump	15	6	30
-316431	3	25	No Variant	2020-10-09 — 08:01:52 UTC	Animex52, arc, catula	111	5	25
-315736	4	0	Brown (6 Suits)	2020-10-08 — 08:35:58 UTC	Animex52, cockdestroyer, pianoblook, TimeHoodie	41	6	30
-315623	5	25	Rainbow (5 Suits)	2020-10-08 — 04:37:49 UTC	Animex52, ejwu, penisman, Stinkydude63, whalesgomoo	54	5	25
-315572	3	0	Rainbow (5 Suits)	2020-10-08 — 03:49:51 UTC	Animex52, penisman, Stinkydude63	116	5	25
-315545	4	24	No Variant	2020-10-08 — 03:16:35 UTC	Animex52, orucsoraihc, penisman, Stinkydude63	103	5	25
+318680	3	25	No Variant	2020-10-12 — 05:49:31 UTC	Animex52, Stinkydude63, vEnhance	114	5	25
+318672	4	0	No Variant	2020-10-12 — 05:34:40 UTC	Animex52, cockdestroyer, Stinkydude63, vEnhance	98	5	25
+317961	6	26	Black (6 Suits)	2020-10-11 — 06:49:08 UTC	angel-a, Animex52, catula, sin_faith, swineherd, wump	16	6	30
+316431	3	25	No Variant	2020-10-09 — 08:01:52 UTC	Animex52, arc, catula	116	5	25
+315736	4	0	Brown (6 Suits)	2020-10-08 — 08:35:58 UTC	Animex52, cockdestroyer, pianoblook, TimeHoodie	42	6	30
+315623	5	25	Rainbow (5 Suits)	2020-10-08 — 04:37:49 UTC	Animex52, ejwu, penisman, Stinkydude63, whalesgomoo	55	5	25
+315572	3	0	Rainbow (5 Suits)	2020-10-08 — 03:49:51 UTC	Animex52, penisman, Stinkydude63	119	5	25
+315545	4	24	No Variant	2020-10-08 — 03:16:35 UTC	Animex52, orucsoraihc, penisman, Stinkydude63	104	5	25
 314226	6	29	Brown (6 Suits)	2020-10-06 — 12:39:40 UTC	Animex52, catula, cockdestroyer, jack67889, rachyrules, sephiroth	10	6	30
 314214	6	25	No Variant	2020-10-06 — 11:40:17 UTC	Animex52, asaelr, catula, cockdestroyer, jack67889, Sucubis	8	5	25
-314207	4	0	No Variant	2020-10-06 — 10:59:55 UTC	Animex52, asaelr, catula, cockdestroyer	16	5	25
-314204	4	25	No Variant	2020-10-06 — 10:32:24 UTC	Animex52, cockdestroyer, methmatics, sephiroth	74	5	25
-314184	2	22	No Variant	2020-10-06 — 09:41:15 UTC	Animex52, catula	335	5	25
-314183	4	29	Rainbow (6 Suits)	2020-10-06 — 09:10:21 UTC	Animex52, Dwu123, methmatics, Stinkydude63	185	6	30
+314207	4	0	No Variant	2020-10-06 — 10:59:55 UTC	Animex52, asaelr, catula, cockdestroyer	17	5	25
+314204	4	25	No Variant	2020-10-06 — 10:32:24 UTC	Animex52, cockdestroyer, methmatics, sephiroth	75	5	25
+314184	2	22	No Variant	2020-10-06 — 09:41:15 UTC	Animex52, catula	340	5	25
+314183	4	29	Rainbow (6 Suits)	2020-10-06 — 09:10:21 UTC	Animex52, Dwu123, methmatics, Stinkydude63	188	6	30
 313402	5	0	Prism (5 Suits)	2020-10-05 — 16:23:14 UTC	Animex52, cockdestroyer, jeff10, Nitrate2, sin_faith	9	5	25
 313397	5	0	Prism (5 Suits)	2020-10-05 — 16:11:08 UTC	Animex52, cockdestroyer, jeff10, Nitrate2, sin_faith	10	5	25
-313372	3	26	Black (6 Suits)	2020-10-05 — 14:05:10 UTC	Animex52, IsabeltheCat, StKildaFan	108	6	30
-313364	3	0	Black (6 Suits)	2020-10-05 — 13:34:40 UTC	Animex52, IsabeltheCat, StKildaFan	172	6	30
-313338	4	29	6 Suits	2020-10-05 — 08:10:41 UTC	Animex52, hughjanus, Stinkydude63, whalesgomoo	59	6	30
-313332	3	0	6 Suits	2020-10-05 — 07:20:17 UTC	Animex52, hughjanus, Stinkydude63	305	6	30
+313372	3	26	Black (6 Suits)	2020-10-05 — 14:05:10 UTC	Animex52, IsabeltheCat, StKildaFan	111	6	30
+313364	3	0	Black (6 Suits)	2020-10-05 — 13:34:40 UTC	Animex52, IsabeltheCat, StKildaFan	175	6	30
+313338	4	29	6 Suits	2020-10-05 — 08:10:41 UTC	Animex52, hughjanus, Stinkydude63, whalesgomoo	60	6	30
+313332	3	0	6 Suits	2020-10-05 — 07:20:17 UTC	Animex52, hughjanus, Stinkydude63	311	6	30
 311843	5	0	Dark Omni (6 Suits)	2020-10-03 — 13:52:57 UTC	Animex52, cockdestroyer, lotem, Nitrate2, vEnhance	10	6	30
 311832	5	0	Dark Omni (6 Suits)	2020-10-03 — 13:12:43 UTC	Animex52, cockdestroyer, lotem, Nitrate2, vEnhance	10	6	30
 311079	5	25	No Variant	2020-10-02 — 16:34:34 UTC	Animex52, cockdestroyer, nitawa, Veexliat, vEnhance	26	5	25
-310875	3	25	Rainbow (5 Suits)	2020-10-02 — 04:29:27 UTC	Animex52, penisman, Stinkydude63	185	5	25
-310851	4	25	No Variant	2020-10-02 — 03:53:07 UTC	Animex52, penisman, Stinkydude63, whalesgomoo	473	5	25
+310875	3	25	Rainbow (5 Suits)	2020-10-02 — 04:29:27 UTC	Animex52, penisman, Stinkydude63	186	5	25
+310851	4	25	No Variant	2020-10-02 — 03:53:07 UTC	Animex52, penisman, Stinkydude63, whalesgomoo	480	5	25
 309667	6	22	No Variant	2020-09-30 — 13:56:38 UTC	Animex52, catula, MarkusKahlsen, StKildaFan, Sucubis, vEnhance	8	5	25
 309657	6	0	No Variant	2020-09-30 — 13:13:04 UTC	Animex52, catula, MarkusKahlsen, StKildaFan, Sucubis, vEnhance	18	5	25
 309651	6	0	No Variant	2020-09-30 — 13:02:39 UTC	Animex52, catula, MarkusKahlsen, StKildaFan, Sucubis, vEnhance	26	5	25
 309512	3	19	Prism (4 Suits)	2020-09-30 — 03:57:41 UTC	Animex52, emilyzhao, penisman	21	4	20
-309484	5	0	No Variant	2020-09-30 — 03:29:07 UTC	Animex52, cockdestroyer, penisman, Stinkydude63, whalesgomoo	223	5	25
-309467	5	24	No Variant	2020-09-30 — 03:05:53 UTC	Animex52, cockdestroyer, penisman, Stinkydude63, whalesgomoo	296	5	25
+309484	5	0	No Variant	2020-09-30 — 03:29:07 UTC	Animex52, cockdestroyer, penisman, Stinkydude63, whalesgomoo	226	5	25
+309467	5	24	No Variant	2020-09-30 — 03:05:53 UTC	Animex52, cockdestroyer, penisman, Stinkydude63, whalesgomoo	302	5	25
 309423	6	25	Brown (6 Suits)	2020-09-30 — 02:07:30 UTC	Animex52, ejwu, Jake_Stiles, rachyrules, StKildaFan, timotree	7	6	30
 309032	5	23	No Variant	2020-09-29 — 11:35:38 UTC	Animex52, catula, Feich59, orucsoraihc, Sucubis	38	5	25
 308962	4	24	Dark Omni (5 Suits)	2020-09-29 — 05:38:29 UTC	Animex52, ejwu, emilyzhao, squidgetx	9	5	25
 308945	4	0	Dark Omni (5 Suits)	2020-09-29 — 05:11:15 UTC	Animex52, ejwu, emilyzhao, squidgetx	15	5	25
-308930	4	0	Null (5 Suits)	2020-09-29 — 04:49:48 UTC	Animex52, ejwu, emilyzhao, squidgetx	26	5	25
+308930	4	0	Null (5 Suits)	2020-09-29 — 04:49:48 UTC	Animex52, ejwu, emilyzhao, squidgetx	27	5	25
 308913	5	0	Null (5 Suits)	2020-09-29 — 04:22:09 UTC	Animex52, ejwu, emilyzhao, jeff10, squidgetx	11	5	25
 308348	3	0	Pink & Dark Prism (5 Suits)	2020-09-28 — 16:23:58 UTC	Animex52, emilyzhao, will.i.am	1	5	25
 308329	3	20	White (4 Suits)	2020-09-28 — 15:43:02 UTC	Animex52, emilyzhao, squidgetx	30	4	20
 308149	5	27	6 Suits	2020-09-28 — 04:39:32 UTC	Animex52, CoxZuckrMachine, parrotdoxair, penisman, timotree	96	6	30
-308131	4	24	No Variant	2020-09-28 — 03:56:30 UTC	Animex52, CoxZuckrMachine, penisman, StKildaFan	158	5	25
-307956	4	24	No Variant	2020-09-28 — 00:55:15 UTC	Animex52, honobu, penisman, whalesgomoo	655	5	25
-307919	4	25	No Variant	2020-09-28 — 00:06:50 UTC	Animex52, honobu, penisman, whalesgomoo	717	5	25
-307591	4	25	No Variant	2020-09-27 — 12:59:14 UTC	Animex52, catula, MarkusKahlsen, nitawa	88	5	25
+308131	4	24	No Variant	2020-09-28 — 03:56:30 UTC	Animex52, CoxZuckrMachine, penisman, StKildaFan	161	5	25
+307956	4	24	No Variant	2020-09-28 — 00:55:15 UTC	Animex52, honobu, penisman, whalesgomoo	660	5	25
+307919	4	25	No Variant	2020-09-28 — 00:06:50 UTC	Animex52, honobu, penisman, whalesgomoo	724	5	25
+307591	4	25	No Variant	2020-09-27 — 12:59:14 UTC	Animex52, catula, MarkusKahlsen, nitawa	90	5	25
 307576	5	0	Prism (5 Suits)	2020-09-27 — 11:22:26 UTC	Animex52, catula, Hapotata, nitawa, StKildaFan	20	5	25
 307352	4	0	Rainbow (6 Suits)	2020-09-27 — 03:29:37 UTC	Animex52, emilyzhao, savoryoatmeal, squidgetx	9	6	30
 307307	4	0	Rainbow (6 Suits)	2020-09-27 — 02:38:20 UTC	Animex52, emilyzhao, savoryoatmeal, squidgetx	27	6	30
-307277	4	0	Rainbow (6 Suits)	2020-09-27 — 01:56:54 UTC	Animex52, emilyzhao, savoryoatmeal, squidgetx	34	6	30
-307255	4	0	No Variant	2020-09-27 — 01:22:20 UTC	Animex52, emilyzhao, savoryoatmeal, squidgetx	180	5	25
+307277	4	0	Rainbow (6 Suits)	2020-09-27 — 01:56:54 UTC	Animex52, emilyzhao, savoryoatmeal, squidgetx	35	6	30
+307255	4	0	No Variant	2020-09-27 — 01:22:20 UTC	Animex52, emilyzhao, savoryoatmeal, squidgetx	182	5	25
 307106	6	0	Rainbow (5 Suits)	2020-09-26 — 22:25:13 UTC	Animex52, ejwu, IsabeltheCat, jack67889, rachyrules, robense	8	5	25
 306686	4	0	Light Pink (5 Suits)	2020-09-26 — 05:42:50 UTC	Animex52, ejwu, emilyzhao, squidgetx	20	5	25
 306667	3	25	Prism (5 Suits)	2020-09-26 — 05:11:29 UTC	Animex52, emilyzhao, squidgetx	14	5	25
@@ -734,23 +768,23 @@
 306091	5	0	Prism (6 Suits)	2020-09-25 — 14:07:54 UTC	Animex52, catula, CoxZuckrMachine, melwen, Pablo-	8	6	30
 306087	5	0	Black (6 Suits)	2020-09-25 — 13:50:34 UTC	Animex52, catula, MarkusKahlsen, Pablo-, swineherd	13	6	30
 306084	6	0	6 Suits	2020-09-25 — 13:30:02 UTC	Animex52, catula, CoxZuckrMachine, MarkusKahlsen, Pablo-, sephiroth	50	6	30
-305355	5	0	No Variant	2020-09-24 — 14:10:16 UTC	Animex52, catula, CoxZuckrMachine, MKQ, vEnhance	29	5	25
-305347	5	0	No Variant	2020-09-24 — 13:43:25 UTC	Animex52, catula, CoxZuckrMachine, jack67889, vEnhance	28	5	25
+305355	5	0	No Variant	2020-09-24 — 14:10:16 UTC	Animex52, catula, CoxZuckrMachine, MKQ, vEnhance	30	5	25
+305347	5	0	No Variant	2020-09-24 — 13:43:25 UTC	Animex52, catula, CoxZuckrMachine, jack67889, vEnhance	30	5	25
 305331	6	25	No Variant	2020-09-24 — 12:23:22 UTC	Animex52, catula, CoxZuckrMachine, jack67889, Pablo-, sephiroth	10	5	25
 304705	3	25	Omni (5 Suits)	2020-09-23 — 15:44:28 UTC	Animex52, emilyzhao, squidgetx	21	5	25
 304693	4	25	Extremely Ambiguous (5 Suits)	2020-09-23 — 15:14:49 UTC	Animex52, CoxZuckrMachine, rachyrules, sin_faith	9	5	25
-304675	5	27	Prism (6 Suits)	2020-09-23 — 14:22:09 UTC	Animex52, catula, CoxZuckrMachine, rachyrules, sin_faith	17	6	30
+304675	5	27	Prism (6 Suits)	2020-09-23 — 14:22:09 UTC	Animex52, catula, CoxZuckrMachine, rachyrules, sin_faith	18	6	30
 304655	5	0	Prism (6 Suits)	2020-09-23 — 13:45:53 UTC	Animex52, catula, CoxZuckrMachine, rachyrules, sin_faith	24	6	30
 304647	5	0	White (5 Suits)	2020-09-23 — 13:22:47 UTC	Animex52, catula, CoxZuckrMachine, rachyrules, sin_faith	37	5	25
 304642	3	19	Rainbow (4 Suits)	2020-09-23 — 12:55:02 UTC	Animex52, CoxZuckrMachine, rachyrules	22	4	20
 304604	6	24	No Variant	2020-09-23 — 10:34:03 UTC	Animex52, CoxZuckrMachine, jack67889, Nitrate2, postmans, sephiroth	10	5	25
-304575	4	25	No Variant	2020-09-23 — 06:22:59 UTC	Animex52, cockdestroyer, Stinkydude63, whalesgomoo	899	5	25
+304575	4	25	No Variant	2020-09-23 — 06:22:59 UTC	Animex52, cockdestroyer, Stinkydude63, whalesgomoo	908	5	25
 304028	3	30	Prism (6 Suits)	2020-09-22 — 16:34:46 UTC	Animex52, emilyzhao, squidgetx	20	6	30
 304008	5	0	Prism (6 Suits)	2020-09-22 — 15:52:10 UTC	Animex52, emilyzhao, MarkusKahlsen, orucsoraihc, pianoblook	10	6	30
-304000	3	0	Prism (6 Suits)	2020-09-22 — 15:32:03 UTC	Animex52, pianoblook, rachyrules	60	6	30
-303986	4	21	Black (5 Suits)	2020-09-22 — 14:25:43 UTC	Animex52, cockdestroyer, rachyrules, Tiramisu1th	98	5	25
-303981	6	25	No Variant	2020-09-22 — 13:53:25 UTC	Animex52, Bonja97, catula, cockdestroyer, rachyrules, StKildaFan	179	5	25
-303975	5	22	No Variant	2020-09-22 — 13:09:12 UTC	Animex52, Bonja97, catula, cockdestroyer, StKildaFan	31	5	25
+304000	3	0	Prism (6 Suits)	2020-09-22 — 15:32:03 UTC	Animex52, pianoblook, rachyrules	61	6	30
+303986	4	21	Black (5 Suits)	2020-09-22 — 14:25:43 UTC	Animex52, cockdestroyer, rachyrules, Tiramisu1th	101	5	25
+303981	6	25	No Variant	2020-09-22 — 13:53:25 UTC	Animex52, Bonja97, catula, cockdestroyer, rachyrules, StKildaFan	181	5	25
+303975	5	22	No Variant	2020-09-22 — 13:09:12 UTC	Animex52, Bonja97, catula, cockdestroyer, StKildaFan	32	5	25
 303968	6	0	No Variant	2020-09-22 — 12:47:33 UTC	Animex52, Bonja97, catula, cockdestroyer, sephiroth, StKildaFan	10	5	25
 303316	6	0	No Variant	2020-09-21 — 12:52:36 UTC	Animex52, catula, cockdestroyer, orucsoraihc, sephiroth, StKildaFan	10	5	25
 303314	6	22	No Variant	2020-09-21 — 12:25:56 UTC	Animex52, catula, cockdestroyer, orucsoraihc, sephiroth, StKildaFan	11	5	25
@@ -760,134 +794,134 @@
 302947	5	0	Black (5 Suits)	2020-09-21 — 02:59:44 UTC	Animex52, cockdestroyer, orucsoraihc, penisman, vEnhance	20	5	25
 302909	5	0	Extremely Ambiguous (4 Suits)	2020-09-21 — 02:23:46 UTC	Animex52, cockdestroyer, penisman, Stinkydude63, vEnhance	3	4	20
 302865	3	20	Ambiguous (4 Suits)	2020-09-21 — 01:51:06 UTC	Animex52, cockdestroyer, vEnhance	39	4	20
-302824	3	19	Rainbow (4 Suits)	2020-09-21 — 01:13:53 UTC	Animex52, cockdestroyer, rachyrules	28	4	20
-302789	4	0	Rainbow (5 Suits)	2020-09-21 — 00:44:24 UTC	Animex52, cockdestroyer, rachyrules, Stinkydude63	68	5	25
-302308	4	0	No Variant	2020-09-20 — 14:13:55 UTC	Animex52, cockdestroyer, sephiroth, vEnhance	81	5	25
-302306	4	0	6 Suits	2020-09-20 — 13:55:50 UTC	Animex52, cockdestroyer, sephiroth, vEnhance	68	6	30
-302297	5	24	No Variant	2020-09-20 — 13:19:27 UTC	Animex52, catula, cockdestroyer, StKildaFan, vEnhance	28	5	25
-302287	5	21	No Variant	2020-09-20 — 12:45:19 UTC	Animex52, catula, cockdestroyer, StKildaFan, vEnhance	31	5	25
-302274	5	0	No Variant	2020-09-20 — 12:07:21 UTC	Animex52, catula, cockdestroyer, Fireheart, orucsoraihc	126	5	25
-302177	3	25	No Variant	2020-09-20 — 05:39:02 UTC	Animex52, ejwu, parrotdoxair	114	5	25
+302824	3	19	Rainbow (4 Suits)	2020-09-21 — 01:13:53 UTC	Animex52, cockdestroyer, rachyrules	29	4	20
+302789	4	0	Rainbow (5 Suits)	2020-09-21 — 00:44:24 UTC	Animex52, cockdestroyer, rachyrules, Stinkydude63	70	5	25
+302308	4	0	No Variant	2020-09-20 — 14:13:55 UTC	Animex52, cockdestroyer, sephiroth, vEnhance	84	5	25
+302306	4	0	6 Suits	2020-09-20 — 13:55:50 UTC	Animex52, cockdestroyer, sephiroth, vEnhance	69	6	30
+302297	5	24	No Variant	2020-09-20 — 13:19:27 UTC	Animex52, catula, cockdestroyer, StKildaFan, vEnhance	29	5	25
+302287	5	21	No Variant	2020-09-20 — 12:45:19 UTC	Animex52, catula, cockdestroyer, StKildaFan, vEnhance	32	5	25
+302274	5	0	No Variant	2020-09-20 — 12:07:21 UTC	Animex52, catula, cockdestroyer, Fireheart, orucsoraihc	127	5	25
+302177	3	25	No Variant	2020-09-20 — 05:39:02 UTC	Animex52, ejwu, parrotdoxair	120	5	25
 302142	5	26	Dark Prism (6 Suits)	2020-09-20 — 04:36:21 UTC	Animex52, emilyzhao, savoryoatmeal, squidgetx, timotree	14	6	30
 302094	3	0	Dark Prism (6 Suits)	2020-09-20 — 03:47:49 UTC	Animex52, emilyzhao, timotree	25	6	30
 301963	4	0	Dark Rainbow (5 Suits)	2020-09-20 — 01:38:54 UTC	Animex52, avanderwalde, emilyzhao, rkass	24	5	25
-301929	4	0	Prism (5 Suits)	2020-09-20 — 01:09:33 UTC	Animex52, avanderwalde, emilyzhao, rkass	47	5	25
+301929	4	0	Prism (5 Suits)	2020-09-20 — 01:09:33 UTC	Animex52, avanderwalde, emilyzhao, rkass	48	5	25
 301564	5	23	No Variant	2020-09-19 — 13:17:42 UTC	Animex52, catula, cockdestroyer, MarkusKahlsen, swineherd	21	5	25
-301561	4	0	No Variant	2020-09-19 — 12:49:36 UTC	Animex52, catula, cockdestroyer, Mala	384	5	25
-300653	5	0	4 Suits	2020-09-18 — 13:20:23 UTC	Animex52, catula, jack67889, MKQ, orucsoraihc	23	4	20
-300648	5	0	Rainbow (6 Suits)	2020-09-18 — 13:04:01 UTC	Animex52, catula, jack67889, MKQ, orucsoraihc	50	6	30
-300644	4	0	Rainbow (6 Suits)	2020-09-18 — 12:38:17 UTC	Animex52, catula, jack67889, orucsoraihc	238	6	30
-300636	4	0	Rainbow (6 Suits)	2020-09-18 — 12:22:43 UTC	Animex52, catula, jack67889, orucsoraihc	493	6	30
-300633	4	26	Black (6 Suits)	2020-09-18 — 12:02:41 UTC	Animex52, catula, cockdestroyer, orucsoraihc	273	6	30
+301561	4	0	No Variant	2020-09-19 — 12:49:36 UTC	Animex52, catula, cockdestroyer, Mala	387	5	25
+300653	5	0	4 Suits	2020-09-18 — 13:20:23 UTC	Animex52, catula, jack67889, MKQ, orucsoraihc	24	4	20
+300648	5	0	Rainbow (6 Suits)	2020-09-18 — 13:04:01 UTC	Animex52, catula, jack67889, MKQ, orucsoraihc	51	6	30
+300644	4	0	Rainbow (6 Suits)	2020-09-18 — 12:38:17 UTC	Animex52, catula, jack67889, orucsoraihc	244	6	30
+300636	4	0	Rainbow (6 Suits)	2020-09-18 — 12:22:43 UTC	Animex52, catula, jack67889, orucsoraihc	497	6	30
+300633	4	26	Black (6 Suits)	2020-09-18 — 12:02:41 UTC	Animex52, catula, cockdestroyer, orucsoraihc	276	6	30
 300620	5	27	6 Suits	2020-09-18 — 11:20:09 UTC	Animex52, catula, cockdestroyer, MKQ, orucsoraihc	45	6	30
 300617	6	0	6 Suits	2020-09-18 — 10:42:48 UTC	Animex52, cockdestroyer, orucsoraihc, rachyrules, Stinkydude63, whalesgomoo	84	6	30
-300614	3	21	No Variant	2020-09-18 — 10:10:40 UTC	Animex52, orucsoraihc, rachyrules	119	5	25
+300614	3	21	No Variant	2020-09-18 — 10:10:40 UTC	Animex52, orucsoraihc, rachyrules	126	5	25
 300608	6	30	6 Suits	2020-09-18 — 09:05:22 UTC	Animex52, antitelharsic, catula, methmatics, orucsoraihc, StKildaFan	16	6	30
 300603	6	0	6 Suits	2020-09-18 — 08:39:10 UTC	Animex52, antitelharsic, catula, methmatics, orucsoraihc, StKildaFan	19	6	30
-300601	3	0	No Variant	2020-09-18 — 08:16:05 UTC	Animex52, catula, methmatics	121	5	25
+300601	3	0	No Variant	2020-09-18 — 08:16:05 UTC	Animex52, catula, methmatics	127	5	25
 300597	6	0	6 Suits	2020-09-18 — 07:30:41 UTC	Animex52, asaelr, emilyzhao, orucsoraihc, sephiroth, squidgetx	8	6	30
-300590	3	28	6 Suits	2020-09-18 — 06:54:26 UTC	Animex52, penisman, Stinkydude63	503	6	30
+300590	3	28	6 Suits	2020-09-18 — 06:54:26 UTC	Animex52, penisman, Stinkydude63	511	6	30
 300571	4	29	6 Suits	2020-09-18 — 06:15:44 UTC	Animex52, penisman, Stinkydude63, whalesgomoo	81	6	30
-300551	4	25	No Variant	2020-09-18 — 05:29:20 UTC	Animex52, penisman, Stinkydude63, whalesgomoo	1092	5	25
-299587	4	20	4 Suits	2020-09-17 — 09:20:06 UTC	Animex52, cockdestroyer, orucsoraihc, StKildaFan	101	4	20
-299585	3	0	4 Suits	2020-09-17 — 09:02:35 UTC	Animex52, cockdestroyer, orucsoraihc	59	4	20
+300551	4	25	No Variant	2020-09-18 — 05:29:20 UTC	Animex52, penisman, Stinkydude63, whalesgomoo	1103	5	25
+299587	4	20	4 Suits	2020-09-17 — 09:20:06 UTC	Animex52, cockdestroyer, orucsoraihc, StKildaFan	104	4	20
+299585	3	0	4 Suits	2020-09-17 — 09:02:35 UTC	Animex52, cockdestroyer, orucsoraihc	60	4	20
 299580	4	28	6 Suits	2020-09-17 — 08:37:30 UTC	Animex52, catula, orucsoraihc, StKildaFan	100	6	30
-299572	4	0	6 Suits	2020-09-17 — 08:06:14 UTC	Animex52, catula, cockdestroyer, orucsoraihc	151	6	30
-299568	3	25	No Variant	2020-09-17 — 07:43:07 UTC	Animex52, cockdestroyer, orucsoraihc	125	5	25
+299572	4	0	6 Suits	2020-09-17 — 08:06:14 UTC	Animex52, catula, cockdestroyer, orucsoraihc	152	6	30
+299568	3	25	No Variant	2020-09-17 — 07:43:07 UTC	Animex52, cockdestroyer, orucsoraihc	129	5	25
 299564	5	0	No Variant	2020-09-17 — 07:23:22 UTC	Animex52, cockdestroyer, Dr_Kakashi, orucsoraihc, sephiroth	10	5	25
-299527	4	28	Rainbow (6 Suits)	2020-09-17 — 05:59:33 UTC	Animex52, emilyzhao, savoryoatmeal, squidgetx	34	6	30
+299527	4	28	Rainbow (6 Suits)	2020-09-17 — 05:59:33 UTC	Animex52, emilyzhao, savoryoatmeal, squidgetx	35	6	30
 299498	4	0	Rainbow (6 Suits)	2020-09-17 — 05:17:09 UTC	Animex52, emilyzhao, savoryoatmeal, squidgetx	34	6	30
 298763	4	30	6 Suits	2020-09-16 — 08:36:29 UTC	Animex52, methmatics, Pablo-, rachyrules	92	6	30
-298760	2	0	Pink & White (5 Suits)	2020-09-16 — 08:07:27 UTC	Animex52, methmatics	31	5	25
+298760	2	0	Pink & White (5 Suits)	2020-09-16 — 08:07:27 UTC	Animex52, methmatics	33	5	25
 298758	2	24	Muddy Rainbow & Gray (5 Suits)	2020-09-16 — 07:49:24 UTC	Animex52, methmatics	5	5	25
 298137	2	0	White & Dark Rainbow (6 Suits)	2020-09-15 — 07:38:55 UTC	Animex52, methmatics	11	6	30
 298135	2	0	White & Dark Rainbow (6 Suits)	2020-09-15 — 07:24:46 UTC	Animex52, methmatics	13	6	30
-298118	3	0	Prism (6 Suits)	2020-09-15 — 05:44:17 UTC	Animex52, emilyzhao, squidgetx	24	6	30
+298118	3	0	Prism (6 Suits)	2020-09-15 — 05:44:17 UTC	Animex52, emilyzhao, squidgetx	26	6	30
 298104	3	0	Prism (6 Suits)	2020-09-15 — 05:10:50 UTC	Animex52, emilyzhao, squidgetx	25	6	30
-298081	5	22	No Variant	2020-09-15 — 04:34:34 UTC	Animex52, anser, emilyzhao, penisman, squidgetx	80	5	25
-298059	4	23	No Variant	2020-09-15 — 04:10:01 UTC	Animex52, anser, penisman, squidgetx	278	5	25
-297422	5	24	No Variant	2020-09-14 — 10:13:26 UTC	Animex52, catula, cockdestroyer, methmatics, sephiroth	31	5	25
-297418	4	25	No Variant	2020-09-14 — 09:20:23 UTC	Animex52, cockdestroyer, methmatics, sephiroth	79	5	25
+298081	5	22	No Variant	2020-09-15 — 04:34:34 UTC	Animex52, anser, emilyzhao, penisman, squidgetx	81	5	25
+298059	4	23	No Variant	2020-09-15 — 04:10:01 UTC	Animex52, anser, penisman, squidgetx	280	5	25
+297422	5	24	No Variant	2020-09-14 — 10:13:26 UTC	Animex52, catula, cockdestroyer, methmatics, sephiroth	32	5	25
+297418	4	25	No Variant	2020-09-14 — 09:20:23 UTC	Animex52, cockdestroyer, methmatics, sephiroth	81	5	25
 296536	6	21	No Variant	2020-09-13 — 05:29:29 UTC	Animex52, honobu, methmatics, penisman, Stinkydude63, whalesgomoo	10	5	25
-296516	5	23	No Variant	2020-09-13 — 04:48:30 UTC	Animex52, methmatics, penisman, Stinkydude63, whalesgomoo	109	5	25
-296459	4	25	No Variant	2020-09-13 — 03:13:54 UTC	314Nikki, Animex52, catula, penisman	985	5	25
-296432	4	23	No Variant	2020-09-13 — 02:39:07 UTC	314Nikki, Animex52, catula, penisman	1253	5	25
-296394	4	23	No Variant	2020-09-13 — 01:50:29 UTC	Animex52, Stinkydude63, vEnhance, whalesgomoo	190	5	25
+296516	5	23	No Variant	2020-09-13 — 04:48:30 UTC	Animex52, methmatics, penisman, Stinkydude63, whalesgomoo	112	5	25
+296459	4	25	No Variant	2020-09-13 — 03:13:54 UTC	314Nikki, Animex52, catula, penisman	994	5	25
+296432	4	23	No Variant	2020-09-13 — 02:39:07 UTC	314Nikki, Animex52, catula, penisman	1267	5	25
+296394	4	23	No Variant	2020-09-13 — 01:50:29 UTC	Animex52, Stinkydude63, vEnhance, whalesgomoo	192	5	25
 296345	4	0	No Variant	2020-09-13 — 00:59:22 UTC	Animex52, Stinkydude63, vEnhance, whalesgomoo	204	5	25
-296263	2	23	No Variant	2020-09-12 — 23:37:23 UTC	Animex52, penisman	1840	5	25
-294626	5	25	No Variant	2020-09-11 — 06:45:07 UTC	Animex52, cockdestroyer, penisman, Stinkydude63, vEnhance	38	5	25
-294615	5	23	No Variant	2020-09-11 — 05:59:13 UTC	Animex52, cockdestroyer, penisman, Stinkydude63, vEnhance	41	5	25
-294605	5	0	No Variant	2020-09-11 — 05:23:32 UTC	Animex52, cockdestroyer, penisman, Stinkydude63, vEnhance	41	5	25
+296263	2	23	No Variant	2020-09-12 — 23:37:23 UTC	Animex52, penisman	1856	5	25
+294626	5	25	No Variant	2020-09-11 — 06:45:07 UTC	Animex52, cockdestroyer, penisman, Stinkydude63, vEnhance	40	5	25
+294615	5	23	No Variant	2020-09-11 — 05:59:13 UTC	Animex52, cockdestroyer, penisman, Stinkydude63, vEnhance	42	5	25
+294605	5	0	No Variant	2020-09-11 — 05:23:32 UTC	Animex52, cockdestroyer, penisman, Stinkydude63, vEnhance	42	5	25
 294601	5	23	No Variant	2020-09-11 — 05:05:14 UTC	Animex52, cockdestroyer, penisman, Stinkydude63, vEnhance	45	5	25
-294574	5	0	No Variant	2020-09-11 — 04:23:42 UTC	Animex52, cockdestroyer, penisman, Stinkydude63, vEnhance	50	5	25
+294574	5	0	No Variant	2020-09-11 — 04:23:42 UTC	Animex52, cockdestroyer, penisman, Stinkydude63, vEnhance	52	5	25
 294557	5	24	No Variant	2020-09-11 — 03:50:19 UTC	Animex52, cockdestroyer, penisman, Stinkydude63, vEnhance	60	5	25
-294490	3	0	No Variant	2020-09-11 — 02:18:24 UTC	Animex52, cockdestroyer, Stinkydude63	130	5	25
-294473	3	24	No Variant	2020-09-11 — 01:43:06 UTC	Animex52, cockdestroyer, Stinkydude63	137	5	25
-294450	3	19	No Variant	2020-09-11 — 01:14:01 UTC	Animex52, cockdestroyer, zeroblackalpha	134	5	25
-294427	3	25	No Variant	2020-09-11 — 00:40:27 UTC	Animex52, cockdestroyer, penisman	141	5	25
-293650	4	0	No Variant	2020-09-10 — 00:01:44 UTC	Animex52, cockdestroyer, Stinkydude63, whalesgomoo	1449	5	25
+294490	3	0	No Variant	2020-09-11 — 02:18:24 UTC	Animex52, cockdestroyer, Stinkydude63	135	5	25
+294473	3	24	No Variant	2020-09-11 — 01:43:06 UTC	Animex52, cockdestroyer, Stinkydude63	142	5	25
+294450	3	19	No Variant	2020-09-11 — 01:14:01 UTC	Animex52, cockdestroyer, zeroblackalpha	140	5	25
+294427	3	25	No Variant	2020-09-11 — 00:40:27 UTC	Animex52, cockdestroyer, penisman	145	5	25
+293650	4	0	No Variant	2020-09-10 — 00:01:44 UTC	Animex52, cockdestroyer, Stinkydude63, whalesgomoo	1459	5	25
 293254	4	0	Rainbow & Prism (5 Suits)	2020-09-09 — 11:45:49 UTC	Animex52, Feich59, level_17, sin_faith	16	5	25
-293249	4	25	No Variant	2020-09-09 — 11:24:06 UTC	Animex52, catula, Feich59, sin_faith	47	5	25
+293249	4	25	No Variant	2020-09-09 — 11:24:06 UTC	Animex52, catula, Feich59, sin_faith	48	5	25
 293246	5	24	No Variant	2020-09-09 — 10:47:43 UTC	Animex52, catula, jack67889, sin_faith, Tiramisu1th	15	5	25
-293007	5	24	No Variant	2020-09-09 — 03:05:57 UTC	Animex52, cockdestroyer, Stinkydude63, vEnhance, whalesgomoo	67	5	25
-292854	4	0	Black (6 Suits)	2020-09-08 — 23:29:37 UTC	Animex52, ejwu, emilyzhao, MasterP	77	6	30
+293007	5	24	No Variant	2020-09-09 — 03:05:57 UTC	Animex52, cockdestroyer, Stinkydude63, vEnhance, whalesgomoo	68	5	25
+292854	4	0	Black (6 Suits)	2020-09-08 — 23:29:37 UTC	Animex52, ejwu, emilyzhao, MasterP	81	6	30
 292825	5	24	No Variant	2020-09-08 — 22:31:13 UTC	Animex52, ejwu, emilyzhao, squidgetx, zeyaoli	65	5	25
 292481	4	20	Prism (4 Suits)	2020-09-08 — 13:02:31 UTC	Animex52, Bonja97, MarkusKahlsen, sephiroth	21	4	20
 292475	4	26	Black (6 Suits)	2020-09-08 — 12:35:03 UTC	Animex52, Bonja97, melwen, StKildaFan	5	6	30
-292466	3	23	No Variant	2020-09-08 — 12:06:09 UTC	Animex52, catula, StKildaFan	164	5	25
-292431	3	24	No Variant	2020-09-08 — 11:34:33 UTC	Animex52, catula, StKildaFan	170	5	25
-292390	3	21	No Variant	2020-09-08 — 10:55:41 UTC	Animex52, catula, StKildaFan	175	5	25
-292385	2	25	No Variant	2020-09-08 — 10:23:34 UTC	Animex52, catula	450	5	25
-292270	4	25	Prism (5 Suits)	2020-09-08 — 04:25:34 UTC	Animex52, ejwu, emilyzhao, squidgetx	29	5	25
-292257	3	0	Prism (5 Suits)	2020-09-08 — 03:57:51 UTC	Animex52, emilyzhao, squidgetx	38	5	25
-292245	3	0	Prism (5 Suits)	2020-09-08 — 03:41:50 UTC	Animex52, emilyzhao, squidgetx	80	5	25
-292222	3	21	No Variant	2020-09-08 — 02:59:45 UTC	Animex52, Rubix, StKildaFan	178	5	25
-292202	3	24	No Variant	2020-09-08 — 02:39:08 UTC	Animex52, Rubix, StKildaFan	213	5	25
+292466	3	23	No Variant	2020-09-08 — 12:06:09 UTC	Animex52, catula, StKildaFan	167	5	25
+292431	3	24	No Variant	2020-09-08 — 11:34:33 UTC	Animex52, catula, StKildaFan	173	5	25
+292390	3	21	No Variant	2020-09-08 — 10:55:41 UTC	Animex52, catula, StKildaFan	176	5	25
+292385	2	25	No Variant	2020-09-08 — 10:23:34 UTC	Animex52, catula	456	5	25
+292270	4	25	Prism (5 Suits)	2020-09-08 — 04:25:34 UTC	Animex52, ejwu, emilyzhao, squidgetx	31	5	25
+292257	3	0	Prism (5 Suits)	2020-09-08 — 03:57:51 UTC	Animex52, emilyzhao, squidgetx	39	5	25
+292245	3	0	Prism (5 Suits)	2020-09-08 — 03:41:50 UTC	Animex52, emilyzhao, squidgetx	82	5	25
+292222	3	21	No Variant	2020-09-08 — 02:59:45 UTC	Animex52, Rubix, StKildaFan	179	5	25
+292202	3	24	No Variant	2020-09-08 — 02:39:08 UTC	Animex52, Rubix, StKildaFan	218	5	25
 292103	6	29	Black (6 Suits)	2020-09-08 — 00:18:06 UTC	Animex52, ejwu, melwen, plus, sephiroth, swineherd	2	6	30
-291694	3	0	No Variant	2020-09-07 — 13:52:15 UTC	Animex52, MarkusKahlsen, rachyrules	148	5	25
-291687	3	25	No Variant	2020-09-07 — 13:19:18 UTC	Animex52, MarkusKahlsen, rachyrules	167	5	25
+291694	3	0	No Variant	2020-09-07 — 13:52:15 UTC	Animex52, MarkusKahlsen, rachyrules	149	5	25
+291687	3	25	No Variant	2020-09-07 — 13:19:18 UTC	Animex52, MarkusKahlsen, rachyrules	170	5	25
 290047	5	22	Black (5 Suits)	2020-09-05 — 19:29:58 UTC	Animex52, JerryYang, timotree, vEnhance, XMIL	18	5	25
-289810	6	0	No Variant	2020-09-05 — 10:31:54 UTC	Animex52, chriswck, MKQ, Rubix, sephiroth, Tiramisu1th	91	5	25
+289810	6	0	No Variant	2020-09-05 — 10:31:54 UTC	Animex52, chriswck, MKQ, Rubix, sephiroth, Tiramisu1th	92	5	25
 289803	6	24	No Variant	2020-09-05 — 10:05:31 UTC	Animex52, chriswck, Rubix, sephiroth, sin_faith, Tiramisu1th	75	5	25
 289795	5	21	No Variant	2020-09-05 — 09:33:47 UTC	Animex52, Rubix, sephiroth, sin_faith, Tiramisu1th	29	5	25
-288596	3	24	No Variant	2020-09-04 — 04:08:50 UTC	Animex52, ejwu, Tiramisu1th	243	5	25
-288573	4	22	Black (6 Suits)	2020-09-04 — 03:41:28 UTC	Animex52, ejwu, newduke, StKildaFan	142	6	30
-288553	4	0	Black (6 Suits)	2020-09-04 — 03:17:52 UTC	Animex52, ejwu, newduke, StKildaFan	213	6	30
+288596	3	24	No Variant	2020-09-04 — 04:08:50 UTC	Animex52, ejwu, Tiramisu1th	246	5	25
+288573	4	22	Black (6 Suits)	2020-09-04 — 03:41:28 UTC	Animex52, ejwu, newduke, StKildaFan	143	6	30
+288553	4	0	Black (6 Suits)	2020-09-04 — 03:17:52 UTC	Animex52, ejwu, newduke, StKildaFan	215	6	30
 288531	5	0	Black (6 Suits)	2020-09-04 — 02:56:59 UTC	Animex52, ejwu, jeff10, newduke, StKildaFan	39	6	30
-287946	2	25	No Variant	2020-09-03 — 11:46:26 UTC	Animex22, Animex52	1952	5	25
-287944	2	25	No Variant	2020-09-03 — 11:41:56 UTC	Animex22, Animex52	2147	5	25
-287636	4	22	No Variant	2020-09-03 — 01:31:38 UTC	Ahming, Animex52, antitelharsic, timotree	99	5	25
-287248	3	0	No Variant	2020-09-02 — 16:04:33 UTC	Animex52, nachoz, rachyrules	275	5	25
-287242	3	0	No Variant	2020-09-02 — 15:31:12 UTC	Animex52, nachoz, rachyrules	285	5	25
-287227	3	0	No Variant	2020-09-02 — 14:44:44 UTC	Animex52, nachoz, rachyrules	422	5	25
+287946	2	25	No Variant	2020-09-03 — 11:46:26 UTC	Animex22, Animex52	1966	5	25
+287944	2	25	No Variant	2020-09-03 — 11:41:56 UTC	Animex22, Animex52	2166	5	25
+287636	4	22	No Variant	2020-09-03 — 01:31:38 UTC	Ahming, Animex52, antitelharsic, timotree	100	5	25
+287248	3	0	No Variant	2020-09-02 — 16:04:33 UTC	Animex52, nachoz, rachyrules	277	5	25
+287242	3	0	No Variant	2020-09-02 — 15:31:12 UTC	Animex52, nachoz, rachyrules	287	5	25
+287227	3	0	No Variant	2020-09-02 — 14:44:44 UTC	Animex52, nachoz, rachyrules	428	5	25
 287151	6	23	Rainbow (5 Suits)	2020-09-02 — 07:05:23 UTC	Animex52, joelwool, Pablo-, pianoblook, rs1, savoryoatmeal	9	5	25
 287126	6	0	Rainbow (5 Suits)	2020-09-02 — 06:20:00 UTC	Animex52, joelwool, Pablo-, pianoblook, rs1, savoryoatmeal	8	5	25
-282464	4	21	No Variant	2020-08-28 — 06:20:52 UTC	Animex52, mcelevan12, newduke, nukelauncher	793	5	25
-282441	5	21	No Variant	2020-08-28 — 05:32:20 UTC	amethystdragon, Animex52, mcelevan12, newduke, shootinglucky	383	5	25
-282419	6	0	No Variant	2020-08-28 — 04:56:07 UTC	amethystdragon, Animex52, mcelevan12, newduke, shootinglucky, TheDaniMan	115	5	25
-282407	4	20	No Variant	2020-08-28 — 04:29:23 UTC	amethystdragon, Animex52, newduke, shootinglucky	1744	5	25
-282345	3	23	No Variant	2020-08-28 — 03:11:42 UTC	agrantal, Animex52, jecaismyname	4221	5	25
+282464	4	21	No Variant	2020-08-28 — 06:20:52 UTC	Animex52, mcelevan12, newduke, nukelauncher	800	5	25
+282441	5	21	No Variant	2020-08-28 — 05:32:20 UTC	amethystdragon, Animex52, mcelevan12, newduke, shootinglucky	384	5	25
+282419	6	0	No Variant	2020-08-28 — 04:56:07 UTC	amethystdragon, Animex52, mcelevan12, newduke, shootinglucky, TheDaniMan	118	5	25
+282407	4	20	No Variant	2020-08-28 — 04:29:23 UTC	amethystdragon, Animex52, newduke, shootinglucky	1759	5	25
+282345	3	23	No Variant	2020-08-28 — 03:11:42 UTC	agrantal, Animex52, jecaismyname	4250	5	25
 275754	6	0	No Variant	2020-08-20 — 13:03:31 UTC	Animex52, joelwool, kodomazer, Nitrate2, Pablo-, sephiroth	23	5	25
 275751	6	0	No Variant	2020-08-20 — 12:47:32 UTC	Animex52, joelwool, kodomazer, Nitrate2, Pablo-, sephiroth	29	5	25
 275749	5	25	No Variant	2020-08-20 — 12:28:31 UTC	Animex52, joelwool, Nitrate2, Pablo-, sephiroth	49	5	25
 271650	5	21	Black (5 Suits)	2020-08-15 — 14:26:23 UTC	ADrone, Animex52, pianoblook, robense, Valetta6789	30	5	25
-268575	3	0	No Variant	2020-08-12 — 02:10:54 UTC	Animex52, pianoblook, timotree	98	5	25
-268071	4	25	No Variant	2020-08-11 — 15:31:00 UTC	Animex52, JerryYang, reuzed, timotree	198	5	25
+268575	3	0	No Variant	2020-08-12 — 02:10:54 UTC	Animex52, pianoblook, timotree	102	5	25
+268071	4	25	No Variant	2020-08-11 — 15:31:00 UTC	Animex52, JerryYang, reuzed, timotree	199	5	25
 268003	4	0	No Variant	2020-08-11 — 11:38:47 UTC	Animex52, ayauhcoatl, Nitrate2, swineherd	213	5	25
 267931	6	0	Dark Brown (6 Suits)	2020-08-11 — 06:27:05 UTC	Animex52, antitelharsic, Bonja97, crossproduct, Cynas, Dr_Kakashi	6	6	30
 267887	5	0	No Variant	2020-08-11 — 05:33:00 UTC	Animex52, Bonja97, crossproduct, Cynas, Dr_Kakashi	10	5	25
 267752	4	19	Pink-Ones (4 Suits)	2020-08-11 — 02:38:46 UTC	Animex52, joelwool, Puzzle, robense	3	4	20
-267697	3	24	No Variant	2020-08-11 — 01:57:08 UTC	Animex52, joelwool, robense	35	5	25
+267697	3	24	No Variant	2020-08-11 — 01:57:08 UTC	Animex52, joelwool, robense	36	5	25
 267234	5	27	Black (6 Suits)	2020-08-10 — 14:36:21 UTC	Animex52, Bonja97, melwen, Nitrate2, swineherd	5	6	30
 267228	5	0	Black (6 Suits)	2020-08-10 — 14:07:11 UTC	Animex52, Bonja97, melwen, reuzed, swineherd	7	6	30
-267218	4	0	White (6 Suits)	2020-08-10 — 13:43:08 UTC	Animex52, Bonja97, rachyrules, reuzed	75	6	30
+267218	4	0	White (6 Suits)	2020-08-10 — 13:43:08 UTC	Animex52, Bonja97, rachyrules, reuzed	76	6	30
 264239	4	0	Rainbow & White (4 Suits)	2020-08-07 — 14:33:36 UTC	Animex52, MarkusKahlsen, Pablo-, sephiroth	12	4	20
 262282	3	0	Pink (6 Suits)	2020-08-05 — 04:24:13 UTC	Animex52, rs1, XMIL	31	6	30
-262220	3	0	Pink (6 Suits)	2020-08-05 — 03:29:27 UTC	Animex52, rs1, XMIL	131	6	30
-261603	4	25	No Variant	2020-08-04 — 15:52:20 UTC	Animex52, letical, MarkusKahlsen, Nitrate2	59	5	25
-261585	4	25	No Variant	2020-08-04 — 15:28:48 UTC	Animex52, letical, MarkusKahlsen, Nitrate2	70	5	25
+262220	3	0	Pink (6 Suits)	2020-08-05 — 03:29:27 UTC	Animex52, rs1, XMIL	132	6	30
+261603	4	25	No Variant	2020-08-04 — 15:52:20 UTC	Animex52, letical, MarkusKahlsen, Nitrate2	60	5	25
+261585	4	25	No Variant	2020-08-04 — 15:28:48 UTC	Animex52, letical, MarkusKahlsen, Nitrate2	71	5	25
 261579	4	0	No Variant	2020-08-04 — 15:09:02 UTC	Animex52, letical, MarkusKahlsen, Nitrate2	74	5	25
-261577	3	20	4 Suits	2020-08-04 — 14:58:51 UTC	Animex52, MarkusKahlsen, Nitrate2	118	4	20
+261577	3	20	4 Suits	2020-08-04 — 14:58:51 UTC	Animex52, MarkusKahlsen, Nitrate2	120	4	20
 261429	6	0	Cocoa Rainbow (5 Suits)	2020-08-04 — 06:45:56 UTC	Animex52, Bonja97, derekcheah, IsabeltheCat, joelwool, will.i.am	1	5	25
 261421	6	0	Cocoa Rainbow (5 Suits)	2020-08-04 — 06:35:12 UTC	Animex52, Bonja97, derekcheah, IsabeltheCat, joelwool, will.i.am	1	5	25
 261407	6	0	Cocoa Rainbow (5 Suits)	2020-08-04 — 06:26:21 UTC	Animex52, Bonja97, derekcheah, IsabeltheCat, joelwool, will.i.am	1	5	25
@@ -895,47 +929,47 @@
 261374	6	22	Cocoa Rainbow (5 Suits)	2020-08-04 — 05:49:46 UTC	Animex52, Bonja97, derekcheah, IsabeltheCat, joelwool, will.i.am	3	5	25
 261337	4	0	Cocoa Rainbow (5 Suits)	2020-08-04 — 05:19:39 UTC	Animex52, derekcheah, IsabeltheCat, will.i.am	15	5	25
 261306	4	23	Cocoa Rainbow (5 Suits)	2020-08-04 — 04:52:52 UTC	Animex52, derekcheah, IsabeltheCat, will.i.am	20	5	25
-261276	2	25	Dark Rainbow (6 Suits)	2020-08-04 — 04:25:22 UTC	Animex52, IsabeltheCat	51	6	30
-261240	2	0	Dark Rainbow (6 Suits)	2020-08-04 — 04:10:57 UTC	Animex52, IsabeltheCat	57	6	30
-261183	3	25	No Variant	2020-08-04 — 03:52:31 UTC	Animex52, antitelharsic, joelwool	154	5	25
-261142	3	0	No Variant	2020-08-04 — 03:37:13 UTC	Animex52, antitelharsic, joelwool	151	5	25
-261119	3	0	No Variant	2020-08-04 — 03:29:01 UTC	Animex52, antitelharsic, joelwool	156	5	25
-261093	3	0	No Variant	2020-08-04 — 03:18:51 UTC	Animex52, antitelharsic, joelwool	160	5	25
+261276	2	25	Dark Rainbow (6 Suits)	2020-08-04 — 04:25:22 UTC	Animex52, IsabeltheCat	53	6	30
+261240	2	0	Dark Rainbow (6 Suits)	2020-08-04 — 04:10:57 UTC	Animex52, IsabeltheCat	59	6	30
+261183	3	25	No Variant	2020-08-04 — 03:52:31 UTC	Animex52, antitelharsic, joelwool	157	5	25
+261142	3	0	No Variant	2020-08-04 — 03:37:13 UTC	Animex52, antitelharsic, joelwool	153	5	25
+261119	3	0	No Variant	2020-08-04 — 03:29:01 UTC	Animex52, antitelharsic, joelwool	158	5	25
+261093	3	0	No Variant	2020-08-04 — 03:18:51 UTC	Animex52, antitelharsic, joelwool	163	5	25
 260500	3	25	No Variant	2020-08-03 — 13:36:14 UTC	Animex52, asaelr, Pablo-	12	5	25
 260497	3	0	No Variant	2020-08-03 — 13:25:10 UTC	Animex52, asaelr, Pablo-	13	5	25
-260491	2	25	No Variant	2020-08-03 — 13:17:02 UTC	Animex52, asaelr	119	5	25
-260490	2	0	No Variant	2020-08-03 — 13:09:09 UTC	Animex52, asaelr	121	5	25
-259585	4	22	No Variant	2020-08-03 — 02:54:34 UTC	Animex52, barnheartowl, IsabeltheCat, methmatics	103	5	25
-259505	4	25	No Variant	2020-08-03 — 02:06:51 UTC	Animex52, barnheartowl, IsabeltheCat, methmatics	111	5	25
-259435	4	22	No Variant	2020-08-03 — 01:22:26 UTC	Animex52, barnheartowl, IsabeltheCat, methmatics	117	5	25
-259398	3	22	6 Suits	2020-08-03 — 00:43:29 UTC	Animex52, barnheartowl, IsabeltheCat	365	6	30
-258984	5	22	No Variant	2020-08-02 — 14:48:54 UTC	Animex52, aredus, Namster, nly7, Radax	541	5	25
-258980	5	19	No Variant	2020-08-02 — 14:11:19 UTC	Animex52, aredus, Namster, nly7, Radax	837	5	25
-258934	4	29	Dark Rainbow (6 Suits)	2020-08-02 — 09:49:05 UTC	Animex52, joelwool, MarkusKahlsen, swineherd	53	6	30
+260491	2	25	No Variant	2020-08-03 — 13:17:02 UTC	Animex52, asaelr	126	5	25
+260490	2	0	No Variant	2020-08-03 — 13:09:09 UTC	Animex52, asaelr	127	5	25
+259585	4	22	No Variant	2020-08-03 — 02:54:34 UTC	Animex52, barnheartowl, IsabeltheCat, methmatics	105	5	25
+259505	4	25	No Variant	2020-08-03 — 02:06:51 UTC	Animex52, barnheartowl, IsabeltheCat, methmatics	112	5	25
+259435	4	22	No Variant	2020-08-03 — 01:22:26 UTC	Animex52, barnheartowl, IsabeltheCat, methmatics	119	5	25
+259398	3	22	6 Suits	2020-08-03 — 00:43:29 UTC	Animex52, barnheartowl, IsabeltheCat	371	6	30
+258984	5	22	No Variant	2020-08-02 — 14:48:54 UTC	Animex52, aredus, Namster, nly7, Radax	546	5	25
+258980	5	19	No Variant	2020-08-02 — 14:11:19 UTC	Animex52, aredus, Namster, nly7, Radax	845	5	25
+258934	4	29	Dark Rainbow (6 Suits)	2020-08-02 — 09:49:05 UTC	Animex52, joelwool, MarkusKahlsen, swineherd	54	6	30
 258927	4	27	Black (6 Suits)	2020-08-02 — 08:56:54 UTC	Animex52, joelwool, robense, swineherd	62	6	30
-258000	5	22	No Variant	2020-08-01 — 14:04:53 UTC	Animex52, Bonja97, lalchetian, melwen, sephiroth	120	5	25
-257992	4	24	No Variant	2020-08-01 — 13:09:24 UTC	Animex52, Bonja97, lalchetian, melwen	17	5	25
-257983	3	24	No Variant	2020-08-01 — 12:21:24 UTC	Animex52, lalchetian, melwen	57	5	25
-257477	2	19	Dark Rainbow (6 Suits)	2020-08-01 — 01:34:26 UTC	Animex52, IsabeltheCat	91	6	30
-257431	2	24	Dark Rainbow (6 Suits)	2020-08-01 — 00:53:24 UTC	Animex52, IsabeltheCat	95	6	30
-257407	2	0	Dark Rainbow (6 Suits)	2020-08-01 — 00:25:47 UTC	Animex52, IsabeltheCat	102	6	30
-257398	2	0	Dark Rainbow (6 Suits)	2020-08-01 — 00:13:00 UTC	Animex52, IsabeltheCat	110	6	30
-257060	5	0	No Variant	2020-07-31 — 11:24:09 UTC	Animex52, joelwool, lalchetian, MarkusKahlsen, muerto	163	5	25
-257052	3	0	No Variant	2020-07-31 — 10:42:15 UTC	Animex52, joelwool, muerto	320	5	25
-257049	3	20	No Variant	2020-07-31 — 10:04:32 UTC	Animex52, joelwool, muerto	1174	5	25
+258000	5	22	No Variant	2020-08-01 — 14:04:53 UTC	Animex52, Bonja97, lalchetian, melwen, sephiroth	122	5	25
+257992	4	24	No Variant	2020-08-01 — 13:09:24 UTC	Animex52, Bonja97, lalchetian, melwen	18	5	25
+257983	3	24	No Variant	2020-08-01 — 12:21:24 UTC	Animex52, lalchetian, melwen	58	5	25
+257477	2	19	Dark Rainbow (6 Suits)	2020-08-01 — 01:34:26 UTC	Animex52, IsabeltheCat	94	6	30
+257431	2	24	Dark Rainbow (6 Suits)	2020-08-01 — 00:53:24 UTC	Animex52, IsabeltheCat	98	6	30
+257407	2	0	Dark Rainbow (6 Suits)	2020-08-01 — 00:25:47 UTC	Animex52, IsabeltheCat	105	6	30
+257398	2	0	Dark Rainbow (6 Suits)	2020-08-01 — 00:13:00 UTC	Animex52, IsabeltheCat	113	6	30
+257060	5	0	No Variant	2020-07-31 — 11:24:09 UTC	Animex52, joelwool, lalchetian, MarkusKahlsen, muerto	166	5	25
+257052	3	0	No Variant	2020-07-31 — 10:42:15 UTC	Animex52, joelwool, muerto	324	5	25
+257049	3	20	No Variant	2020-07-31 — 10:04:32 UTC	Animex52, joelwool, muerto	1180	5	25
 257026	4	20	No Variant	2020-07-31 — 08:49:48 UTC	Animex52, antitelharsic, lalchetian, muerto	129	5	25
 256538	5	0	Black (6 Suits)	2020-07-31 — 00:59:44 UTC	Animex52, joelwool, melwen, pianoblook, TheDaniMan	8	6	30
 256525	5	0	Black (5 Suits)	2020-07-31 — 00:44:32 UTC	Animex52, joelwool, melwen, TheDaniMan, XMIL	10	5	25
 256513	5	0	Black (5 Suits)	2020-07-31 — 00:34:24 UTC	Animex52, joelwool, melwen, TheDaniMan, XMIL	13	5	25
 256474	5	0	Black (5 Suits)	2020-07-30 — 23:55:06 UTC	Animex52, joelwool, melwen, TheDaniMan, XMIL	13	5	25
-256235	3	24	Black (6 Suits)	2020-07-30 — 13:30:10 UTC	Animex52, Efece, sephiroth	193	6	30
+256235	3	24	Black (6 Suits)	2020-07-30 — 13:30:10 UTC	Animex52, Efece, sephiroth	196	6	30
 255288	4	0	Rainbow & White (3 Suits)	2020-07-29 — 15:01:35 UTC	Animex52, melwen, sephiroth, will.i.am	4	3	15
 255286	4	0	Rainbow & White (3 Suits)	2020-07-29 — 14:48:07 UTC	Animex52, melwen, sephiroth, will.i.am	6	3	15
-255285	4	28	Rainbow (6 Suits)	2020-07-29 — 14:27:36 UTC	Animex52, Floriman, reuzed, sephiroth	344	6	30
-255281	4	25	No Variant	2020-07-29 — 14:01:23 UTC	Animex52, Floriman, reuzed, sephiroth	138	5	25
-255275	3	24	No Variant	2020-07-29 — 13:32:21 UTC	Animex52, methmatics, reuzed	324	5	25
-255272	3	23	No Variant	2020-07-29 — 12:52:19 UTC	Animex52, methmatics, reuzed	354	5	25
-255268	2	19	No Variant	2020-07-29 — 12:16:17 UTC	Animex52, reuzed	1448	5	25
+255285	4	28	Rainbow (6 Suits)	2020-07-29 — 14:27:36 UTC	Animex52, Floriman, reuzed, sephiroth	349	6	30
+255281	4	25	No Variant	2020-07-29 — 14:01:23 UTC	Animex52, Floriman, reuzed, sephiroth	139	5	25
+255275	3	24	No Variant	2020-07-29 — 13:32:21 UTC	Animex52, methmatics, reuzed	330	5	25
+255272	3	23	No Variant	2020-07-29 — 12:52:19 UTC	Animex52, methmatics, reuzed	359	5	25
+255268	2	19	No Variant	2020-07-29 — 12:16:17 UTC	Animex52, reuzed	1460	5	25
 249787	4	20	Muddy-Rainbow-Ones (5 Suits)	2020-07-24 — 15:01:41 UTC	Animex52, melwen, Nitrate2, Pablo-	1	5	25
 249775	5	25	White-Ones & Rainbow (5 Suits)	2020-07-24 — 14:23:03 UTC	Animex52, melwen, Nitrate2, Pablo-, piper	3	5	25
 249758	4	25	Rainbow-Ones (5 Suits)	2020-07-24 — 13:52:02 UTC	Animex52, melwen, Nitrate2, Pablo-	7	5	25
@@ -943,235 +977,235 @@
 248679	6	25	No Variant	2020-07-23 — 12:25:50 UTC	Animex52, Dr_Kakashi, frollo9386, Pablo-, sephiroth, TheDaniMan	42	5	25
 248674	5	0	Brown (6 Suits)	2020-07-23 — 12:02:23 UTC	Animex52, Dr_Kakashi, joelwool, Pablo-, sephiroth	8	6	30
 248669	4	0	Dark Brown (6 Suits)	2020-07-23 — 11:46:40 UTC	Animex52, Dr_Kakashi, joelwool, sephiroth	14	6	30
-248662	2	18	White (4 Suits)	2020-07-23 — 11:20:15 UTC	Animex52, frollo9386	94	4	20
-248655	2	30	Black (6 Suits)	2020-07-23 — 10:59:56 UTC	Animex52, frollo9386	546	6	30
-241195	5	30	Dark Pink (6 Suits)	2020-07-16 — 04:12:23 UTC	Animex52, derekcheah, melwen, Smandon, TheDaniMan	8	6	30
-241147	4	0	Dark Pink (6 Suits)	2020-07-16 — 03:37:18 UTC	Animex52, derekcheah, melwen, TheDaniMan	23	6	30
-241128	3	0	Dark Pink (6 Suits)	2020-07-16 — 03:21:10 UTC	Animex52, derekcheah, TheDaniMan	18	6	30
-241098	3	28	Dark Pink (6 Suits)	2020-07-16 — 03:03:57 UTC	Animex52, Bonja97, TheDaniMan	24	6	30
-241056	3	0	Dark Pink (6 Suits)	2020-07-16 — 02:35:46 UTC	Animex52, Bonja97, TheDaniMan	34	6	30
-241041	3	0	Dark Pink (6 Suits)	2020-07-16 — 02:24:07 UTC	Animex52, Bonja97, TheDaniMan	41	6	30
-240926	3	23	No Variant	2020-07-16 — 00:54:01 UTC	Animex52, Bonja97, Slonimsky	375	5	25
-240443	4	25	No Variant	2020-07-15 — 14:49:14 UTC	Animex52, Efece, egerdm, Libster	287	5	25
-240420	4	22	No Variant	2020-07-15 — 14:22:06 UTC	Animex52, Efece, egerdm, Elatekur	68	5	25
+248662	2	18	White (4 Suits)	2020-07-23 — 11:20:15 UTC	Animex52, frollo9386	100	4	20
+248655	2	30	Black (6 Suits)	2020-07-23 — 10:59:56 UTC	Animex52, frollo9386	553	6	30
+241195	5	30	Dark Pink (6 Suits)	2020-07-16 — 04:12:23 UTC	Animex52, derekcheah, melwen, Smandon, TheDaniMan	9	6	30
+241147	4	0	Dark Pink (6 Suits)	2020-07-16 — 03:37:18 UTC	Animex52, derekcheah, melwen, TheDaniMan	24	6	30
+241128	3	0	Dark Pink (6 Suits)	2020-07-16 — 03:21:10 UTC	Animex52, derekcheah, TheDaniMan	19	6	30
+241098	3	28	Dark Pink (6 Suits)	2020-07-16 — 03:03:57 UTC	Animex52, Bonja97, TheDaniMan	25	6	30
+241056	3	0	Dark Pink (6 Suits)	2020-07-16 — 02:35:46 UTC	Animex52, Bonja97, TheDaniMan	35	6	30
+241041	3	0	Dark Pink (6 Suits)	2020-07-16 — 02:24:07 UTC	Animex52, Bonja97, TheDaniMan	42	6	30
+240926	3	23	No Variant	2020-07-16 — 00:54:01 UTC	Animex52, Bonja97, Slonimsky	380	5	25
+240443	4	25	No Variant	2020-07-15 — 14:49:14 UTC	Animex52, Efece, egerdm, Libster	293	5	25
+240420	4	22	No Variant	2020-07-15 — 14:22:06 UTC	Animex52, Efece, egerdm, Elatekur	69	5	25
 240399	4	0	No Variant	2020-07-15 — 13:56:20 UTC	Animex52, Efece, egerdm, Elatekur	71	5	25
 234168	5	0	Pink (6 Suits)	2020-07-09 — 13:36:30 UTC	Animex52, melwen, sephiroth, TheDaniMan, Zakisan	13	6	30
-234164	4	0	Pink (4 Suits)	2020-07-09 — 13:16:08 UTC	Animex52, melwen, TheDaniMan, Zakisan	22	4	20
-234163	4	15	Rainbow (3 Suits)	2020-07-09 — 12:59:47 UTC	Animex52, melwen, Pablo-, TheDaniMan	24	3	15
+234164	4	0	Pink (4 Suits)	2020-07-09 — 13:16:08 UTC	Animex52, melwen, TheDaniMan, Zakisan	23	4	20
+234163	4	15	Rainbow (3 Suits)	2020-07-09 — 12:59:47 UTC	Animex52, melwen, Pablo-, TheDaniMan	25	3	15
 234157	3	25	Black (5 Suits)	2020-07-09 — 12:37:33 UTC	Animex52, sephiroth, TheDaniMan	22	5	25
 234149	3	0	Black (5 Suits)	2020-07-09 — 12:24:19 UTC	Animex52, sephiroth, TheDaniMan	25	5	25
 234148	3	0	Black (5 Suits)	2020-07-09 — 12:20:25 UTC	Animex52, sephiroth, TheDaniMan	24	5	25
 230212	4	21	Clue Starved (5 Suits)	2020-07-05 — 15:45:17 UTC	Animex52, DMoney, pianoblook, piper	5	5	25
 230191	4	0	Clue Starved (5 Suits)	2020-07-05 — 15:19:37 UTC	Animex52, DMoney, pianoblook, piper	5	5	25
 230178	4	0	Clue Starved (5 Suits)	2020-07-05 — 14:56:28 UTC	Animex52, DMoney, pianoblook, piper	6	5	25
-228053	3	25	No Variant	2020-07-03 — 18:09:51 UTC	Animex52, blackswi, Puzzle	645	5	25
-227994	3	22	No Variant	2020-07-03 — 17:25:52 UTC	Animex52, blackswi, blueberry	386	5	25
-227964	3	0	No Variant	2020-07-03 — 16:51:50 UTC	Animex52, blackswi, blueberry	451	5	25
-227954	3	0	No Variant	2020-07-03 — 16:32:43 UTC	Animex52, blackswi, blueberry	485	5	25
-219415	5	25	No Variant	2020-06-26 — 15:33:19 UTC	Animex52, chriswck, MarkusKahlsen, pianoblook, TimeHoodie	30	5	25
+228053	3	25	No Variant	2020-07-03 — 18:09:51 UTC	Animex52, blackswi, Puzzle	655	5	25
+227994	3	22	No Variant	2020-07-03 — 17:25:52 UTC	Animex52, blackswi, blueberry	392	5	25
+227964	3	0	No Variant	2020-07-03 — 16:51:50 UTC	Animex52, blackswi, blueberry	456	5	25
+227954	3	0	No Variant	2020-07-03 — 16:32:43 UTC	Animex52, blackswi, blueberry	491	5	25
+219415	5	25	No Variant	2020-06-26 — 15:33:19 UTC	Animex52, chriswck, MarkusKahlsen, pianoblook, TimeHoodie	31	5	25
 219405	5	0	No Variant	2020-06-26 — 14:45:17 UTC	Animex52, chriswck, letical, metta, robense	135	5	25
 219400	4	22	No Variant	2020-06-26 — 14:10:04 UTC	Animex52, letical, metta, Tiramisu1th	116	5	25
 219394	4	0	Black (6 Suits)	2020-06-26 — 13:36:12 UTC	Animex52, letical, MarkusKahlsen, sephiroth	38	6	30
 219387	4	0	Black (6 Suits)	2020-06-26 — 13:07:27 UTC	Animex52, letical, MarkusKahlsen, sephiroth	42	6	30
-219381	4	0	Black (6 Suits)	2020-06-26 — 12:47:23 UTC	Animex52, letical, sephiroth, Tiramisu1th	67	6	30
-219376	5	24	Black (6 Suits)	2020-06-26 — 12:22:38 UTC	Animex52, letical, padi, sephiroth, Tiramisu1th	35	6	30
+219381	4	0	Black (6 Suits)	2020-06-26 — 12:47:23 UTC	Animex52, letical, sephiroth, Tiramisu1th	69	6	30
+219376	5	24	Black (6 Suits)	2020-06-26 — 12:22:38 UTC	Animex52, letical, padi, sephiroth, Tiramisu1th	36	6	30
 219327	3	25	Reversed (5 Suits)	2020-06-26 — 07:59:10 UTC	Animex52, Fey, robense	4	5	25
-219316	2	25	No Variant	2020-06-26 — 07:25:39 UTC	Animex52, Fey	455	5	25
+219316	2	25	No Variant	2020-06-26 — 07:25:39 UTC	Animex52, Fey	461	5	25
 216037	4	29	Black (6 Suits)	2020-06-23 — 11:02:15 UTC	Animex52, MarkusKahlsen, melwen, robense	5	6	30
-216032	2	22	No Variant	2020-06-23 — 10:25:56 UTC	Animex52, robense	73	5	25
-216028	2	0	No Variant	2020-06-23 — 10:05:30 UTC	Animex52, robense	74	5	25
+216032	2	22	No Variant	2020-06-23 — 10:25:56 UTC	Animex52, robense	75	5	25
+216028	2	0	No Variant	2020-06-23 — 10:05:30 UTC	Animex52, robense	76	5	25
 215005	3	23	Black & White (5 Suits)	2020-06-22 — 06:41:17 UTC	Animex52, derekcheah, pianoblook	8	5	25
 214983	3	0	Black & White (5 Suits)	2020-06-22 — 06:12:21 UTC	Animex52, derekcheah, pianoblook	7	5	25
 214975	3	0	Black & White (5 Suits)	2020-06-22 — 05:58:33 UTC	Animex52, derekcheah, pianoblook	8	5	25
-214966	3	0	Black & White (5 Suits)	2020-06-22 — 05:43:39 UTC	Animex52, derekcheah, pianoblook	10	5	25
+214966	3	0	Black & White (5 Suits)	2020-06-22 — 05:43:39 UTC	Animex52, derekcheah, pianoblook	11	5	25
 209675	5	23	Ambiguous & Pink (5 Suits)	2020-06-17 — 18:58:57 UTC	Animex52, Lilliana, Livia, padi, TheDaniMan	2	5	25
-209652	5	0	Brown-Ones & White (5 Suits)	2020-06-17 — 18:25:06 UTC	Animex52, Kyle, Lilliana, TheDaniMan, TimeHoodie	2	5	25
+209652	5	0	Brown-Ones & White (5 Suits)	2020-06-17 — 18:25:06 UTC	Animex52, Kyle, Lilliana, TheDaniMan, TimeHoodie	3	5	25
 209648	4	0	Brown-Ones & White (5 Suits)	2020-06-17 — 18:15:30 UTC	Animex52, Lilliana, TheDaniMan, TimeHoodie	7	5	25
 209643	5	0	Brown-Ones & White (5 Suits)	2020-06-17 — 17:53:24 UTC	Animex52, Kyle, Lilliana, TheDaniMan, TimeHoodie	3	5	25
-209626	3	22	No Variant	2020-06-17 — 17:12:13 UTC	Animex52, DrJones, Wittvector	459	5	25
-209607	3	0	No Variant	2020-06-17 — 16:38:45 UTC	Animex52, DrJones, Wittvector	551	5	25
-209602	3	0	No Variant	2020-06-17 — 16:26:40 UTC	Animex52, DrJones, Wittvector	573	5	25
-209596	3	0	No Variant	2020-06-17 — 16:20:21 UTC	Animex52, DrJones, Wittvector	624	5	25
+209626	3	22	No Variant	2020-06-17 — 17:12:13 UTC	Animex52, DrJones, Wittvector	467	5	25
+209607	3	0	No Variant	2020-06-17 — 16:38:45 UTC	Animex52, DrJones, Wittvector	558	5	25
+209602	3	0	No Variant	2020-06-17 — 16:26:40 UTC	Animex52, DrJones, Wittvector	582	5	25
+209596	3	0	No Variant	2020-06-17 — 16:20:21 UTC	Animex52, DrJones, Wittvector	632	5	25
 206318	6	25	Throw It in a Hole (5 Suits)	2020-06-14 — 15:02:43 UTC	Animex52, MarkusKahlsen, melwen, padi, piper, sephiroth	1	5	25
 206307	5	0	Black (6 Suits)	2020-06-14 — 14:24:36 UTC	Animex52, callistooooo, MarkusKahlsen, melwen, sephiroth	10	6	30
-205629	4	29	6 Suits	2020-06-13 — 23:25:01 UTC	Animex52, newduke, Smandon, TheDaniMan	191	6	30
+205629	4	29	6 Suits	2020-06-13 — 23:25:01 UTC	Animex52, newduke, Smandon, TheDaniMan	193	6	30
 205583	5	23	Black (6 Suits)	2020-06-13 — 22:35:55 UTC	Animex52, newduke, Puzzle, Smandon, TheDaniMan	48	6	30
-205529	4	26	Black (6 Suits)	2020-06-13 — 21:44:57 UTC	Animex52, newduke, Smandon, TheDaniMan	121	6	30
+205529	4	26	Black (6 Suits)	2020-06-13 — 21:44:57 UTC	Animex52, newduke, Smandon, TheDaniMan	123	6	30
 203754	3	0	Muddy Rainbow (4 Suits)	2020-06-12 — 17:24:41 UTC	Animex52, Livia, MarkusKahlsen	15	4	20
-203745	3	25	Throw It in a Hole (5 Suits)	2020-06-12 — 16:57:35 UTC	Animex52, TheDaniMan, will.i.am	30	5	25
-203730	3	0	Throw It in a Hole (5 Suits)	2020-06-12 — 16:29:56 UTC	Animex52, TheDaniMan, will.i.am	52	5	25
+203745	3	25	Throw It in a Hole (5 Suits)	2020-06-12 — 16:57:35 UTC	Animex52, TheDaniMan, will.i.am	31	5	25
+203730	3	0	Throw It in a Hole (5 Suits)	2020-06-12 — 16:29:56 UTC	Animex52, TheDaniMan, will.i.am	53	5	25
 198930	4	20	No Variant	2020-06-08 — 08:14:49 UTC	Animex52, melwen, swineherd, sylvia	33	5	25
-193715	6	27	Dark Rainbow (6 Suits)	2020-06-04 — 13:28:06 UTC	Animex52, asaelr, MarkusKahlsen, Nitrate2, sephiroth, Zakisan	3	6	30
+193715	6	27	Dark Rainbow (6 Suits)	2020-06-04 — 13:28:06 UTC	Animex52, asaelr, MarkusKahlsen, Nitrate2, sephiroth, Zakisan	4	6	30
 192720	5	23	White (5 Suits)	2020-06-03 — 16:19:22 UTC	Animex52, Kyle, padi, will.i.am, Zakisan	1	5	25
 192689	5	0	White (5 Suits)	2020-06-03 — 15:42:04 UTC	Animex52, Kyle, padi, will.i.am, Zakisan	2	5	25
-192673	3	0	No Variant	2020-06-03 — 15:22:16 UTC	Animex52, Kyle, Mishka	74	5	25
+192673	3	0	No Variant	2020-06-03 — 15:22:16 UTC	Animex52, Kyle, Mishka	75	5	25
 192523	3	0	Brown & Dark Rainbow (6 Suits)	2020-06-03 — 07:38:37 UTC	Animex52, asaelr, letical	5	6	30
 192507	3	25	No Variant	2020-06-03 — 07:23:39 UTC	Animex52, asaelr, letical	22	5	25
 191497	6	23	No Variant	2020-06-02 — 14:49:24 UTC	Aluap, Animex52, MarekU, melwen, sephiroth, Zakisan	19	5	25
 190492	5	0	Rainbow-Fives & Pink (5 Suits)	2020-06-01 — 16:38:38 UTC	Animex52, Fey, Kyle, Nitrate2, TimeHoodie	1	5	25
 187791	4	0	Black & Rainbow (5 Suits)	2020-05-30 — 12:21:49 UTC	Animex52, MarkusKahlsen, sephiroth, Zakisan	17	5	25
-187776	3	28	Black (6 Suits)	2020-05-30 — 11:46:55 UTC	Animex52, derekcheah, sephiroth	119	6	30
-187771	3	0	Black (6 Suits)	2020-05-30 — 11:12:06 UTC	Animex52, derekcheah, sephiroth	125	6	30
+187776	3	28	Black (6 Suits)	2020-05-30 — 11:46:55 UTC	Animex52, derekcheah, sephiroth	122	6	30
+187771	3	0	Black (6 Suits)	2020-05-30 — 11:12:06 UTC	Animex52, derekcheah, sephiroth	126	6	30
 187767	3	0	Black (6 Suits)	2020-05-30 — 11:04:33 UTC	Animex52, derekcheah, sephiroth	134	6	30
-187762	3	28	Black (6 Suits)	2020-05-30 — 10:47:42 UTC	Animex52, derekcheah, sephiroth	149	6	30
+187762	3	28	Black (6 Suits)	2020-05-30 — 10:47:42 UTC	Animex52, derekcheah, sephiroth	151	6	30
 186529	4	0	Black & Rainbow (5 Suits)	2020-05-29 — 19:54:15 UTC	Animex52, Kyle, pianoblook, Zakisan	4	5	25
 186485	4	0	Black & Rainbow (5 Suits)	2020-05-29 — 19:18:41 UTC	Animex52, Kyle, TheDaniMan, will.i.am	12	5	25
-184416	3	21	Black & Rainbow (5 Suits)	2020-05-28 — 03:22:20 UTC	Animex52, qbphoenix, TimeHoodie	46	5	25
+184416	3	21	Black & Rainbow (5 Suits)	2020-05-28 — 03:22:20 UTC	Animex52, qbphoenix, TimeHoodie	47	5	25
 184383	3	0	Black & Rainbow (5 Suits)	2020-05-28 — 02:58:45 UTC	Animex52, qbphoenix, TimeHoodie	58	5	25
 184339	4	0	Black & Rainbow (5 Suits)	2020-05-28 — 02:30:16 UTC	Animex52, qbphoenix, TimeHoodie, will.i.am	32	5	25
-183077	6	25	Black (5 Suits)	2020-05-27 — 00:57:06 UTC	Animex52, claudiob, honzas, kalisa, sephiroth, will.i.am	9	5	25
+183077	6	25	Black (5 Suits)	2020-05-27 — 00:57:06 UTC	Animex52, claudiob, honzas, kalisa, sephiroth, will.i.am	10	5	25
 183042	5	0	Black (5 Suits)	2020-05-27 — 00:09:34 UTC	Animex52, claudiob, honzas, kalisa, will.i.am	27	5	25
 181358	5	0	Black (6 Suits)	2020-05-25 — 16:10:11 UTC	Animex52, eljobe, Kyle, pianoblook, TimeHoodie	18	6	30
-179807	4	23	No Variant	2020-05-24 — 16:21:39 UTC	Animex52, DrJones, sephiroth, swineherd	2076	5	25
-179758	2	30	Black (6 Suits)	2020-05-24 — 15:25:32 UTC	Animex52, DrJones	239	6	30
+179807	4	23	No Variant	2020-05-24 — 16:21:39 UTC	Animex52, DrJones, sephiroth, swineherd	2094	5	25
+179758	2	30	Black (6 Suits)	2020-05-24 — 15:25:32 UTC	Animex52, DrJones	244	6	30
 174109	4	0	Dark Rainbow (5 Suits)	2020-05-20 — 15:42:55 UTC	Animex52, asaelr, Dr_Kakashi, will.i.am	13	5	25
 174104	4	0	Dark Rainbow (5 Suits)	2020-05-20 — 15:34:55 UTC	Animex52, asaelr, Dr_Kakashi, will.i.am	11	5	25
 174103	4	24	Dark Rainbow (5 Suits)	2020-05-20 — 15:22:27 UTC	Animex52, asaelr, Dr_Kakashi, will.i.am	11	5	25
-174099	4	0	Dark Rainbow (5 Suits)	2020-05-20 — 14:56:36 UTC	Animex52, asaelr, Dr_Kakashi, will.i.am	14	5	25
-174093	4	0	Dark Rainbow (5 Suits)	2020-05-20 — 14:43:47 UTC	Animex52, asaelr, Dr_Kakashi, will.i.am	23	5	25
-172976	4	0	Black (6 Suits)	2020-05-19 — 18:55:13 UTC	Animex52, TheDaniMan, TimeHoodie, zombyw00f	91	6	30
-172954	4	0	Black (6 Suits)	2020-05-19 — 18:33:41 UTC	Animex52, TheDaniMan, TimeHoodie, zombyw00f	102	6	30
+174099	4	0	Dark Rainbow (5 Suits)	2020-05-20 — 14:56:36 UTC	Animex52, asaelr, Dr_Kakashi, will.i.am	15	5	25
+174093	4	0	Dark Rainbow (5 Suits)	2020-05-20 — 14:43:47 UTC	Animex52, asaelr, Dr_Kakashi, will.i.am	24	5	25
+172976	4	0	Black (6 Suits)	2020-05-19 — 18:55:13 UTC	Animex52, TheDaniMan, TimeHoodie, zombyw00f	95	6	30
+172954	4	0	Black (6 Suits)	2020-05-19 — 18:33:41 UTC	Animex52, TheDaniMan, TimeHoodie, zombyw00f	103	6	30
 172937	6	0	Black (6 Suits)	2020-05-19 — 17:58:19 UTC	alphabeta, Animex52, Kyle, TheDaniMan, TimeHoodie, zombyw00f	3	6	30
-172913	3	28	Black (6 Suits)	2020-05-19 — 17:23:58 UTC	Animex52, Kyle, TimeHoodie	55	6	30
+172913	3	28	Black (6 Suits)	2020-05-19 — 17:23:58 UTC	Animex52, Kyle, TimeHoodie	57	6	30
 170588	4	25	Omni (5 Suits)	2020-05-17 — 19:51:37 UTC	ADrone, Animex52, Dr_Kakashi, Livia	3	5	25
-170533	4	23	Omni (5 Suits)	2020-05-17 — 19:02:49 UTC	Animex52, Dr_Kakashi, Livia, padi	3	5	25
-170427	3	0	Rainbow (6 Suits)	2020-05-17 — 17:47:40 UTC	Animex52, Iullo, marilyn	508	6	30
-166923	4	0	Black (6 Suits)	2020-05-15 — 13:27:16 UTC	Animex52, Fey, LaFayetteX, TimeHoodie	112	6	30
-166907	4	29	Black (6 Suits)	2020-05-15 — 12:47:12 UTC	Animex52, Fey, LaFayetteX, TimeHoodie	128	6	30
+170533	4	23	Omni (5 Suits)	2020-05-17 — 19:02:49 UTC	Animex52, Dr_Kakashi, Livia, padi	4	5	25
+170427	3	0	Rainbow (6 Suits)	2020-05-17 — 17:47:40 UTC	Animex52, Iullo, marilyn	514	6	30
+166923	4	0	Black (6 Suits)	2020-05-15 — 13:27:16 UTC	Animex52, Fey, LaFayetteX, TimeHoodie	113	6	30
+166907	4	29	Black (6 Suits)	2020-05-15 — 12:47:12 UTC	Animex52, Fey, LaFayetteX, TimeHoodie	129	6	30
 166890	4	0	Muddy Rainbow & Light Pink (5 Suits)	2020-05-15 — 11:56:33 UTC	Animex52, Nitrate2, sin_faith, TimeHoodie	4	5	25
 166881	4	0	Rainbow & Gray Pink (5 Suits)	2020-05-15 — 11:26:16 UTC	Animex52, Nitrate2, robense, TimeHoodie	5	5	25
 166866	4	20	Rainbow & Gray Pink (5 Suits)	2020-05-15 — 11:02:25 UTC	Animex52, Nitrate2, robense, TimeHoodie	6	5	25
-166828	4	0	No Variant	2020-05-15 — 09:50:03 UTC	Animex52, evelyn, hhhhhhhhhhhh, swineherd	2763	5	25
+166828	4	0	No Variant	2020-05-15 — 09:50:03 UTC	Animex52, evelyn, hhhhhhhhhhhh, swineherd	2788	5	25
 164279	6	23	Brown-Fives (5 Suits)	2020-05-13 — 14:25:37 UTC	Animex52, honzas, melwen, sin_faith, TimeHoodie, Zakisan	1	5	25
-163373	3	25	No Variant	2020-05-12 — 19:48:00 UTC	Alicja, Animex52, MarkusKahlsen	344	5	25
-163281	3	23	No Variant	2020-05-12 — 18:47:33 UTC	Alicja, Animex52, MarkusKahlsen	411	5	25
-163235	5	25	No Variant	2020-05-12 — 17:48:36 UTC	Alicja, Animex52, arnino, LaFayetteX, MarkusKahlsen	92	5	25
+163373	3	25	No Variant	2020-05-12 — 19:48:00 UTC	Alicja, Animex52, MarkusKahlsen	353	5	25
+163281	3	23	No Variant	2020-05-12 — 18:47:33 UTC	Alicja, Animex52, MarkusKahlsen	417	5	25
+163235	5	25	No Variant	2020-05-12 — 17:48:36 UTC	Alicja, Animex52, arnino, LaFayetteX, MarkusKahlsen	93	5	25
 163068	4	25	White (5 Suits)	2020-05-12 — 11:44:27 UTC	Animex52, arnino, melwen, TimeHoodie	60	5	25
-163054	4	25	No Variant	2020-05-12 — 11:06:19 UTC	Animex52, Elatekur, robense, TimeHoodie	167	5	25
-161897	2	0	No Variant	2020-05-11 — 16:24:05 UTC	Animex52, hojaverdeee	2288	5	25
-161890	2	0	No Variant	2020-05-11 — 16:05:49 UTC	Animex52, hojaverdeee	2532	5	25
-161880	3	0	No Variant	2020-05-11 — 15:39:51 UTC	Animex52, asaelr, Fey	28	5	25
-155759	5	29	Pink (6 Suits)	2020-05-07 — 09:59:02 UTC	Animex52, LaFayetteX, Nitrate2, pianoblook, plus	29	6	30
-153189	4	22	No Variant	2020-05-05 — 18:09:28 UTC	Animex52, Beardy, ilmrak, Ricca29	125	5	25
-153178	3	0	No Variant	2020-05-05 — 17:47:47 UTC	Animex52, Beardy, Ricca29	206	5	25
-152930	5	22	No Variant	2020-05-05 — 10:26:55 UTC	Animex52, Iullo, LaFayetteX, TimeHoodie, Zakisan	35	5	25
-152924	4	22	No Variant	2020-05-05 — 09:59:42 UTC	Animex52, Iullo, LaFayetteX, TimeHoodie	97	5	25
-152922	5	0	No Variant	2020-05-05 — 09:38:09 UTC	Animex52, claudiob, Iullo, LaFayetteX, TimeHoodie	100	5	25
-152917	5	0	No Variant	2020-05-05 — 09:18:21 UTC	Animex52, claudiob, LaFayetteX, TimeHoodie, Zakisan	35	5	25
+163054	4	25	No Variant	2020-05-12 — 11:06:19 UTC	Animex52, Elatekur, robense, TimeHoodie	169	5	25
+161897	2	0	No Variant	2020-05-11 — 16:24:05 UTC	Animex52, hojaverdeee	2307	5	25
+161890	2	0	No Variant	2020-05-11 — 16:05:49 UTC	Animex52, hojaverdeee	2552	5	25
+161880	3	0	No Variant	2020-05-11 — 15:39:51 UTC	Animex52, asaelr, Fey	30	5	25
+155759	5	29	Pink (6 Suits)	2020-05-07 — 09:59:02 UTC	Animex52, LaFayetteX, Nitrate2, pianoblook, plus	31	6	30
+153189	4	22	No Variant	2020-05-05 — 18:09:28 UTC	Animex52, Beardy, ilmrak, Ricca29	126	5	25
+153178	3	0	No Variant	2020-05-05 — 17:47:47 UTC	Animex52, Beardy, Ricca29	209	5	25
+152930	5	22	No Variant	2020-05-05 — 10:26:55 UTC	Animex52, Iullo, LaFayetteX, TimeHoodie, Zakisan	36	5	25
+152924	4	22	No Variant	2020-05-05 — 09:59:42 UTC	Animex52, Iullo, LaFayetteX, TimeHoodie	98	5	25
+152922	5	0	No Variant	2020-05-05 — 09:38:09 UTC	Animex52, claudiob, Iullo, LaFayetteX, TimeHoodie	102	5	25
+152917	5	0	No Variant	2020-05-05 — 09:18:21 UTC	Animex52, claudiob, LaFayetteX, TimeHoodie, Zakisan	36	5	25
 152915	5	0	No Variant	2020-05-05 — 09:09:06 UTC	Animex52, claudiob, LaFayetteX, TimeHoodie, Zakisan	39	5	25
-152913	5	0	No Variant	2020-05-05 — 08:58:08 UTC	Animex52, claudiob, LaFayetteX, TimeHoodie, Zakisan	77	5	25
-151794	5	29	Black (6 Suits)	2020-05-04 — 14:24:55 UTC	Animex52, arnino, hakha3, padi, TimeHoodie	101	6	30
-150311	3	20	No Variant	2020-05-03 — 18:05:29 UTC	Animex52, kiwakandyfloss, marilyn	680	5	25
+152913	5	0	No Variant	2020-05-05 — 08:58:08 UTC	Animex52, claudiob, LaFayetteX, TimeHoodie, Zakisan	78	5	25
+151794	5	29	Black (6 Suits)	2020-05-04 — 14:24:55 UTC	Animex52, arnino, hakha3, padi, TimeHoodie	103	6	30
+150311	3	20	No Variant	2020-05-03 — 18:05:29 UTC	Animex52, kiwakandyfloss, marilyn	688	5	25
 150221	4	0	Special Mix (5 Suits)	2020-05-03 — 16:36:40 UTC	Animex52, eevee, honzas, sin_faith	12	5	25
 150210	4	0	Special Mix (5 Suits)	2020-05-03 — 16:23:02 UTC	Animex52, eevee, honzas, sin_faith	11	5	25
 150200	4	0	Special Mix (5 Suits)	2020-05-03 — 16:09:47 UTC	Animex52, eevee, honzas, sin_faith	14	5	25
 148120	4	29	Rainbow (6 Suits)	2020-05-02 — 12:38:31 UTC	Animex52, Nils, Nitrate2, TimeHoodie	37	6	30
 148104	3	0	Rainbow (6 Suits)	2020-05-02 — 11:51:55 UTC	Animex52, DrJones, TimeHoodie	52	6	30
 147993	5	24	Pink (5 Suits)	2020-05-02 — 07:33:36 UTC	alphabeta, Animex52, Fey, pianoblook, piper	9	5	25
-146484	3	19	No Variant	2020-05-01 — 14:05:16 UTC	Animex52, edens, zebel	2163	5	25
-145968	5	23	No Variant	2020-05-01 — 03:44:40 UTC	Animex52, claudiob, dontmacme, pianoblook, XMIL	262	5	25
-145937	4	23	No Variant	2020-05-01 — 03:23:30 UTC	Animex52, claudiob, dontmacme, will.i.am	442	5	25
-145892	4	0	No Variant	2020-05-01 — 02:55:51 UTC	Animex52, claudiob, dontmacme, will.i.am	501	5	25
-145865	4	0	No Variant	2020-05-01 — 02:40:17 UTC	Animex52, claudiob, dontmacme, will.i.am	541	5	25
+146484	3	19	No Variant	2020-05-01 — 14:05:16 UTC	Animex52, edens, zebel	2179	5	25
+145968	5	23	No Variant	2020-05-01 — 03:44:40 UTC	Animex52, claudiob, dontmacme, pianoblook, XMIL	265	5	25
+145937	4	23	No Variant	2020-05-01 — 03:23:30 UTC	Animex52, claudiob, dontmacme, will.i.am	448	5	25
+145892	4	0	No Variant	2020-05-01 — 02:55:51 UTC	Animex52, claudiob, dontmacme, will.i.am	507	5	25
+145865	4	0	No Variant	2020-05-01 — 02:40:17 UTC	Animex52, claudiob, dontmacme, will.i.am	548	5	25
 144972	5	28	Black (6 Suits)	2020-04-30 — 16:47:26 UTC	Animex52, Kyle, Nitrate2, Sucubis, Zakisan	14	6	30
 144951	5	0	Black (6 Suits)	2020-04-30 — 16:22:02 UTC	Animex52, Kyle, Nitrate2, Sucubis, Zakisan	14	6	30
-144828	4	28	Black (6 Suits)	2020-04-30 — 12:27:50 UTC	Animex52, asaelr, TimeHoodie, Zakisan	175	6	30
+144828	4	28	Black (6 Suits)	2020-04-30 — 12:27:50 UTC	Animex52, asaelr, TimeHoodie, Zakisan	176	6	30
 144813	5	28	Black (6 Suits)	2020-04-30 — 11:55:24 UTC	Animex52, asaelr, honzas, Sucubis, TimeHoodie	23	6	30
 144805	3	0	Black (6 Suits)	2020-04-30 — 11:25:41 UTC	Animex52, asaelr, Sucubis	31	6	30
-136082	3	0	Rainbow (5 Suits)	2020-04-24 — 20:04:49 UTC	Animex52, Valetta6789, Zamiel	18	5	25
+136082	3	0	Rainbow (5 Suits)	2020-04-24 — 20:04:49 UTC	Animex52, Valetta6789, Zamiel	19	5	25
 136024	4	25	No Variant	2020-04-24 — 19:35:12 UTC	Animex52, MarkusKahlsen, padi, Zamiel	1	5	25
 135984	4	0	Rainbow & Gray (6 Suits)	2020-04-24 — 19:09:27 UTC	Animex52, Feer, padi, Zamiel	15	6	30
-135925	3	25	6 Suits	2020-04-24 — 17:42:31 UTC	Animex52, Buds, LaFayetteX	132	6	30
-135910	3	0	6 Suits	2020-04-24 — 17:20:47 UTC	Animex52, Buds, LaFayetteX	147	6	30
-135889	3	29	6 Suits	2020-04-24 — 16:57:03 UTC	Animex52, LaFayetteX, Spip_B	196	6	30
-135563	4	30	6 Suits	2020-04-24 — 09:46:31 UTC	Animex52, Artificial, LaFayetteX, piper	250	6	30
-135549	4	0	6 Suits	2020-04-24 — 09:04:24 UTC	Animex52, Artificial, LaFayetteX, piper	354	6	30
-135538	4	25	No Variant	2020-04-24 — 08:32:50 UTC	Animex52, Artificial, asaelr, duckmammal	308	5	25
+135925	3	25	6 Suits	2020-04-24 — 17:42:31 UTC	Animex52, Buds, LaFayetteX	133	6	30
+135910	3	0	6 Suits	2020-04-24 — 17:20:47 UTC	Animex52, Buds, LaFayetteX	149	6	30
+135889	3	29	6 Suits	2020-04-24 — 16:57:03 UTC	Animex52, LaFayetteX, Spip_B	199	6	30
+135563	4	30	6 Suits	2020-04-24 — 09:46:31 UTC	Animex52, Artificial, LaFayetteX, piper	252	6	30
+135549	4	0	6 Suits	2020-04-24 — 09:04:24 UTC	Animex52, Artificial, LaFayetteX, piper	359	6	30
+135538	4	25	No Variant	2020-04-24 — 08:32:50 UTC	Animex52, Artificial, asaelr, duckmammal	311	5	25
 134348	4	0	6 Suits	2020-04-23 — 14:58:29 UTC	Animex52, Dr_Kakashi, duckmammal, LaFayetteX	6	6	30
 134342	4	0	6 Suits	2020-04-23 — 14:47:33 UTC	Animex52, Dr_Kakashi, duckmammal, LaFayetteX	6	6	30
 121543	5	19	No Variant	2020-04-14 — 08:00:22 UTC	Animex52, AutumnHedgehog, JDepp, letical, sin_faith	44	5	25
-121531	5	20	No Variant	2020-04-14 — 07:05:04 UTC	Animex52, AutumnHedgehog, JDepp, letical, sin_faith	45	5	25
-121496	4	20	No Variant	2020-04-14 — 06:14:05 UTC	Animex52, Fey, letical, Tiramisu1th	156	5	25
+121531	5	20	No Variant	2020-04-14 — 07:05:04 UTC	Animex52, AutumnHedgehog, JDepp, letical, sin_faith	46	5	25
+121496	4	20	No Variant	2020-04-14 — 06:14:05 UTC	Animex52, Fey, letical, Tiramisu1th	157	5	25
 120581	5	25	No Variant	2020-04-13 — 18:55:56 UTC	Animex52, Elatekur, Kyle, Libster, Yuga Suggah	3	5	25
 120554	4	0	No Variant	2020-04-13 — 18:33:07 UTC	Animex52, Elatekur, Kyle, Yuga Suggah	57	5	25
-115692	5	15	No Variant	2020-04-10 — 13:54:20 UTC	Animex52, EsonLinji, LaFayetteX, smallman, tserclaes	1995	5	25
+115692	5	15	No Variant	2020-04-10 — 13:54:20 UTC	Animex52, EsonLinji, LaFayetteX, smallman, tserclaes	2011	5	25
 115471	6	25	No Variant	2020-04-10 — 06:53:06 UTC	Animex52, MasN, pianoblook, piper, sin_faith, Zakisan	36	5	25
-115437	5	24	Brown (5 Suits)	2020-04-10 — 06:05:31 UTC	Animex52, MasN, pianoblook, piper, sin_faith	24	5	25
-113918	3	0	No Variant	2020-04-08 — 16:23:56 UTC	Animex52, SmellyJoe, Toguimaraes	218	5	25
-113907	3	22	No Variant	2020-04-08 — 16:09:16 UTC	Animex52, SmellyJoe, Toguimaraes	223	5	25
-111396	5	20	No Variant	2020-04-06 — 13:09:39 UTC	Animex52, GunPetal, MarkusKahlsen, smallman, wortel	1510	5	25
-110152	4	0	Rainbow (6 Suits)	2020-04-05 — 16:12:59 UTC	Animex52, honzas, smallman, SmellyJoe	275	6	30
+115437	5	24	Brown (5 Suits)	2020-04-10 — 06:05:31 UTC	Animex52, MasN, pianoblook, piper, sin_faith	25	5	25
+113918	3	0	No Variant	2020-04-08 — 16:23:56 UTC	Animex52, SmellyJoe, Toguimaraes	223	5	25
+113907	3	22	No Variant	2020-04-08 — 16:09:16 UTC	Animex52, SmellyJoe, Toguimaraes	228	5	25
+111396	5	20	No Variant	2020-04-06 — 13:09:39 UTC	Animex52, GunPetal, MarkusKahlsen, smallman, wortel	1518	5	25
+110152	4	0	Rainbow (6 Suits)	2020-04-05 — 16:12:59 UTC	Animex52, honzas, smallman, SmellyJoe	280	6	30
 109603	5	0	Black (6 Suits)	2020-04-05 — 00:10:08 UTC	Animex52, CompleteTrust, Kyle, lotem, Yuga Suggah	24	6	30
 109543	5	0	Black (6 Suits)	2020-04-04 — 23:35:04 UTC	Animex52, CompleteTrust, Kyle, lotem, micerang	24	6	30
 109505	4	0	No Variant	2020-04-04 — 23:06:46 UTC	Animex52, Kyle, lotem, micerang	33	5	25
-109424	3	22	Black (5 Suits)	2020-04-04 — 22:23:00 UTC	Animex52, letical, Yuga Suggah	68	5	25
-109367	3	0	Black (5 Suits)	2020-04-04 — 21:53:40 UTC	Animex52, letical, Yuga Suggah	71	5	25
-109297	3	23	Black (5 Suits)	2020-04-04 — 21:20:08 UTC	Animex52, letical, Yuga Suggah	74	5	25
+109424	3	22	Black (5 Suits)	2020-04-04 — 22:23:00 UTC	Animex52, letical, Yuga Suggah	69	5	25
+109367	3	0	Black (5 Suits)	2020-04-04 — 21:53:40 UTC	Animex52, letical, Yuga Suggah	73	5	25
+109297	3	23	Black (5 Suits)	2020-04-04 — 21:20:08 UTC	Animex52, letical, Yuga Suggah	76	5	25
 109218	3	21	Black (5 Suits)	2020-04-04 — 20:41:33 UTC	Animex52, letical, Yuga Suggah	84	5	25
 109175	3	0	Black (5 Suits)	2020-04-04 — 20:22:51 UTC	Animex52, letical, Yuga Suggah	92	5	25
 109165	3	0	Black (5 Suits)	2020-04-04 — 20:18:51 UTC	Animex52, letical, Yuga Suggah	101	5	25
-108692	4	23	No Variant	2020-04-04 — 13:43:04 UTC	Animex52, GunPetal, smallman, TheWaisel	3581	5	25
-107065	2	23	No Variant	2020-04-03 — 14:08:11 UTC	Animex52, hedgepig	348	5	25
-107047	2	21	No Variant	2020-04-03 — 13:32:03 UTC	Animex52, hedgepig	354	5	25
-107037	2	0	No Variant	2020-04-03 — 13:20:19 UTC	Animex52, hedgepig	357	5	25
-107023	2	23	No Variant	2020-04-03 — 12:54:43 UTC	Animex52, hedgepig	381	5	25
-107004	2	24	No Variant	2020-04-03 — 12:39:49 UTC	Animex52, hedgepig	387	5	25
-106990	2	24	No Variant	2020-04-03 — 12:27:22 UTC	Animex52, hedgepig	393	5	25
-57154	3	0	Rainbow (5 Suits)	2019-10-01 — 13:44:58 UTC	Animex52, Kyle, micerang	17	5	25
-57153	2	27	Rainbow (6 Suits)	2019-10-01 — 13:32:12 UTC	Animex52, micerang	717	6	30
-57152	2	0	Rainbow (6 Suits)	2019-10-01 — 13:17:44 UTC	Animex52, micerang	971	6	30
+108692	4	23	No Variant	2020-04-04 — 13:43:04 UTC	Animex52, GunPetal, smallman, TheWaisel	3609	5	25
+107065	2	23	No Variant	2020-04-03 — 14:08:11 UTC	Animex52, hedgepig	355	5	25
+107047	2	21	No Variant	2020-04-03 — 13:32:03 UTC	Animex52, hedgepig	359	5	25
+107037	2	0	No Variant	2020-04-03 — 13:20:19 UTC	Animex52, hedgepig	362	5	25
+107023	2	23	No Variant	2020-04-03 — 12:54:43 UTC	Animex52, hedgepig	387	5	25
+107004	2	24	No Variant	2020-04-03 — 12:39:49 UTC	Animex52, hedgepig	393	5	25
+106990	2	24	No Variant	2020-04-03 — 12:27:22 UTC	Animex52, hedgepig	400	5	25
+57154	3	0	Rainbow (5 Suits)	2019-10-01 — 13:44:58 UTC	Animex52, Kyle, micerang	18	5	25
+57153	2	27	Rainbow (6 Suits)	2019-10-01 — 13:32:12 UTC	Animex52, micerang	728	6	30
+57152	2	0	Rainbow (6 Suits)	2019-10-01 — 13:17:44 UTC	Animex52, micerang	984	6	30
 55683	6	24	Rainbow (5 Suits)	2019-09-20 — 13:21:51 UTC	Animex52, asaelr, Fireheart, IAMJEFF, Jake_Stiles, Romain672	9	5	25
 55681	6	0	Rainbow (5 Suits)	2019-09-20 — 12:57:32 UTC	Animex52, asaelr, Fireheart, IAMJEFF, Jake_Stiles, Romain672	11	5	25
-55359	4	0	White (5 Suits)	2019-09-18 — 00:39:46 UTC	Animex52, DMoney, micerang, Romain672	46	5	25
+55359	4	0	White (5 Suits)	2019-09-18 — 00:39:46 UTC	Animex52, DMoney, micerang, Romain672	47	5	25
 55357	4	0	Gray (6 Suits)	2019-09-18 — 00:26:05 UTC	Animex52, DMoney, invarse, micerang	11	6	30
-55356	2	26	Gray (6 Suits)	2019-09-18 — 00:09:46 UTC	Animex52, invarse	40	6	30
-55352	2	0	Gray (6 Suits)	2019-09-17 — 23:56:34 UTC	Animex52, invarse	41	6	30
-55351	2	0	Gray (6 Suits)	2019-09-17 — 23:54:09 UTC	Animex52, invarse	45	6	30
-55350	2	0	Gray (6 Suits)	2019-09-17 — 23:51:51 UTC	Animex52, invarse	55	6	30
-55349	2	0	Gray (6 Suits)	2019-09-17 — 23:49:16 UTC	Animex52, invarse	59	6	30
-55245	2	25	No Variant	2019-09-17 — 09:52:00 UTC	Animex52, chocman5	3051	5	25
-55243	2	20	No Variant	2019-09-17 — 09:31:28 UTC	Animex52, chocman5	3507	5	25
-55241	2	0	No Variant	2019-09-17 — 09:16:03 UTC	Animex52, chocman5	5374	5	25
-54882	3	20	Brown (4 Suits)	2019-09-15 — 04:38:48 UTC	Animex52, Fireheart, Yeesh	19	4	20
+55356	2	26	Gray (6 Suits)	2019-09-18 — 00:09:46 UTC	Animex52, invarse	41	6	30
+55352	2	0	Gray (6 Suits)	2019-09-17 — 23:56:34 UTC	Animex52, invarse	43	6	30
+55351	2	0	Gray (6 Suits)	2019-09-17 — 23:54:09 UTC	Animex52, invarse	46	6	30
+55350	2	0	Gray (6 Suits)	2019-09-17 — 23:51:51 UTC	Animex52, invarse	56	6	30
+55349	2	0	Gray (6 Suits)	2019-09-17 — 23:49:16 UTC	Animex52, invarse	60	6	30
+55245	2	25	No Variant	2019-09-17 — 09:52:00 UTC	Animex52, chocman5	3072	5	25
+55243	2	20	No Variant	2019-09-17 — 09:31:28 UTC	Animex52, chocman5	3537	5	25
+55241	2	0	No Variant	2019-09-17 — 09:16:03 UTC	Animex52, chocman5	5421	5	25
+54882	3	20	Brown (4 Suits)	2019-09-15 — 04:38:48 UTC	Animex52, Fireheart, Yeesh	22	4	20
 54881	3	19	Brown (4 Suits)	2019-09-15 — 04:19:53 UTC	Animex52, Fireheart, Yeesh	31	4	20
 54880	3	0	Brown (4 Suits)	2019-09-15 — 04:06:09 UTC	Animex52, Fireheart, Yeesh	47	4	20
 54879	4	0	Brown & Dark Null (6 Suits)	2019-09-15 — 03:58:19 UTC	Animex52, Fireheart, hanabornoob, Yeesh	2	6	30
-54878	4	0	Dark Pink (6 Suits)	2019-09-15 — 03:39:47 UTC	Animex52, Fireheart, scharkbite, Yeesh	29	6	30
-54877	2	0	Dark Pink (6 Suits)	2019-09-15 — 03:21:55 UTC	Animex52, scharkbite	56	6	30
+54878	4	0	Dark Pink (6 Suits)	2019-09-15 — 03:39:47 UTC	Animex52, Fireheart, scharkbite, Yeesh	30	6	30
+54877	2	0	Dark Pink (6 Suits)	2019-09-15 — 03:21:55 UTC	Animex52, scharkbite	59	6	30
 54196	5	24	No Variant	2019-09-11 — 00:15:44 UTC	Animex52, kodomazer, Razvogor, Romain672, Zamiel	2	5	25
 54195	5	24	No Variant	2019-09-10 — 23:43:55 UTC	Animex52, kodomazer, Razvogor, Romain672, Zamiel	2	5	25
 53283	5	0	Dark Rainbow (6 Suits)	2019-09-04 — 11:50:34 UTC	Animex52, asaelr, Fireheart, IAMJEFF, Yeesh	33	6	30
 53267	5	0	Dark Rainbow (5 Suits)	2019-09-04 — 11:29:46 UTC	Animex52, asaelr, Fireheart, IAMJEFF, Yeesh	10	5	25
 53262	4	0	Dark Rainbow (5 Suits)	2019-09-04 — 11:15:26 UTC	Animex52, asaelr, Fireheart, Yeesh	29	5	25
 52872	3	30	6 Suits	2019-09-02 — 14:00:22 UTC	Animex52, asaelr, bulbasaur	25	6	30
-52870	2	25	No Variant	2019-09-02 — 13:39:53 UTC	Animex52, asaelr	506	5	25
+52870	2	25	No Variant	2019-09-02 — 13:39:53 UTC	Animex52, asaelr	513	5	25
 52853	4	0	Rainbow & Pink (4 Suits)	2019-09-02 — 11:15:11 UTC	Animex52, asaelr, DMS, IAMJEFF	6	4	20
 52851	3	0	Black & White (5 Suits)	2019-09-02 — 11:05:53 UTC	Animex52, DMS, IAMJEFF	31	5	25
 52727	5	21	Rainbow (5 Suits)	2019-09-01 — 08:14:32 UTC	Animex52, darkenblade986, Dr_Kakashi, Fireheart, wortel	26	5	25
 51665	3	11	3 Suits	2019-08-24 — 10:20:58 UTC	Animex52, Dr_Kakashi, Livia	12	3	15
 51664	3	11	3 Suits	2019-08-24 — 10:00:21 UTC	Animex52, Dr_Kakashi, Livia	12	3	15
 51214	4	23	No Variant	2019-08-21 — 09:56:52 UTC	Ainz Ooal Gown, Animex52, Asddsa76, Valetta6789	130	5	25
-51213	4	25	No Variant	2019-08-21 — 09:10:22 UTC	Ainz Ooal Gown, Animex52, Asddsa76, Valetta6789	233	5	25
+51213	4	25	No Variant	2019-08-21 — 09:10:22 UTC	Ainz Ooal Gown, Animex52, Asddsa76, Valetta6789	236	5	25
 51079	5	24	Brown (5 Suits)	2019-08-20 — 05:50:34 UTC	Animex52, Dr_Kakashi, Fireheart, Kyle, micerang	4	5	25
 51035	4	25	No Variant	2019-08-20 — 00:08:41 UTC	Animex52, Dr_Kakashi, Libster, RaKXeR	8	5	25
 51033	4	0	No Variant	2019-08-19 — 23:40:45 UTC	Animex52, Dr_Kakashi, Libster, RaKXeR	9	5	25
 51032	4	0	No Variant	2019-08-19 — 23:25:38 UTC	Animex52, Dr_Kakashi, Libster, RaKXeR	9	5	25
 51030	4	0	No Variant	2019-08-19 — 23:11:43 UTC	Animex52, Dr_Kakashi, Libster, RaKXeR	9	5	25
 51028	4	0	No Variant	2019-08-19 — 22:57:45 UTC	Animex52, Dr_Kakashi, Libster, RaKXeR	10	5	25
-51022	5	22	No Variant	2019-08-19 — 21:58:58 UTC	Animex52, anser, Dr_Kakashi, Livia, RaKXeR	51	5	25
+51022	5	22	No Variant	2019-08-19 — 21:58:58 UTC	Animex52, anser, Dr_Kakashi, Livia, RaKXeR	52	5	25
 51018	6	0	No Variant	2019-08-19 — 21:19:02 UTC	Animex52, asaelr, Dr_Kakashi, Fireheart, Livia, RaKXeR	52	5	25
-50987	3	20	No Variant	2019-08-19 — 11:51:26 UTC	Animex52, eevee, Fireheart	750	5	25
-50986	3	0	No Variant	2019-08-19 — 11:34:41 UTC	Animex52, eevee, Fireheart	801	5	25
-50985	3	0	No Variant	2019-08-19 — 11:30:49 UTC	Animex52, eevee, Fireheart	2606	5	25
-50984	3	0	No Variant	2019-08-19 — 11:21:00 UTC	Animex52, eevee, Fireheart	3260	5	25
-50983	3	0	Rainbow (6 Suits)	2019-08-19 — 11:01:46 UTC	Animex52, asaelr, Fireheart	237	6	30
-50908	4	0	White (6 Suits)	2019-08-18 — 23:10:23 UTC	Animex52, Dr_Kakashi, invarse, Kyle	41	6	30
+50987	3	20	No Variant	2019-08-19 — 11:51:26 UTC	Animex52, eevee, Fireheart	757	5	25
+50986	3	0	No Variant	2019-08-19 — 11:34:41 UTC	Animex52, eevee, Fireheart	809	5	25
+50985	3	0	No Variant	2019-08-19 — 11:30:49 UTC	Animex52, eevee, Fireheart	2627	5	25
+50984	3	0	No Variant	2019-08-19 — 11:21:00 UTC	Animex52, eevee, Fireheart	3290	5	25
+50983	3	0	Rainbow (6 Suits)	2019-08-19 — 11:01:46 UTC	Animex52, asaelr, Fireheart	239	6	30
+50908	4	0	White (6 Suits)	2019-08-18 — 23:10:23 UTC	Animex52, Dr_Kakashi, invarse, Kyle	43	6	30
 50687	3	17	Rainbow (4 Suits)	2019-08-17 — 02:31:25 UTC	Animex52, invarse, scharkbite	3	4	20
 50684	3	30	Black (6 Suits)	2019-08-17 — 02:07:20 UTC	Animex52, invarse, scharkbite	36	6	30
-50438	2	25	No Variant	2019-08-15 — 09:47:03 UTC	Animex52, Fireheart	344	5	25
-50437	2	0	No Variant	2019-08-15 — 09:31:33 UTC	Animex52, Fireheart	362	5	25
-50436	2	0	No Variant	2019-08-15 — 09:19:13 UTC	Animex52, Fireheart	2750	5	25
-50435	2	0	No Variant	2019-08-15 — 09:15:27 UTC	Animex52, Fireheart	4109	5	25
+50438	2	25	No Variant	2019-08-15 — 09:47:03 UTC	Animex52, Fireheart	349	5	25
+50437	2	0	No Variant	2019-08-15 — 09:31:33 UTC	Animex52, Fireheart	368	5	25
+50436	2	0	No Variant	2019-08-15 — 09:19:13 UTC	Animex52, Fireheart	2772	5	25
+50435	2	0	No Variant	2019-08-15 — 09:15:27 UTC	Animex52, Fireheart	4149	5	25
 50148	4	0	No Variant	2019-08-13 — 01:25:32 UTC	Animex52, asaelr, Ptheven, Zamiel	2	5	25
 50142	4	0	No Variant	2019-08-13 — 00:57:06 UTC	Animex52, asaelr, Ptheven, Zamiel	2	5	25
 50134	3	25	No Variant	2019-08-13 — 00:08:40 UTC	Animex52, rft50, Zamiel	5	5	25
@@ -1183,65 +1217,65 @@
 50050	6	30	Rainbow (6 Suits)	2019-08-12 — 01:37:30 UTC	Animex52, Cory, Darth_Calculus, invarse, micerang, Ptheven	33	6	30
 50046	5	22	Pink (5 Suits)	2019-08-12 — 01:11:57 UTC	Animex52, Cory, invarse, micerang, Ptheven	11	5	25
 49991	6	22	Rainbow (5 Suits)	2019-08-11 — 13:03:54 UTC	Animex52, DMS, Dr_Kakashi, Fireheart, Ptheven, Yeesh	14	5	25
-49989	4	30	6 Suits	2019-08-11 — 12:03:54 UTC	Animex52, DMS, Dr_Kakashi, Yeesh	120	6	30
-49986	3	25	No Variant	2019-08-11 — 11:16:41 UTC	Animex52, Dr_Kakashi, Yeesh	157	5	25
-49984	4	25	No Variant	2019-08-11 — 10:42:49 UTC	Animex52, Dr_Kakashi, Fireheart, Metylene	601	5	25
-49982	5	21	No Variant	2019-08-11 — 09:51:12 UTC	Animex52, Dr_Kakashi, Fireheart, Metylene, wortel	457	5	25
-49550	5	0	6 Suits	2019-08-07 — 11:43:37 UTC	Animex52, Fireheart, magikarp, Maiorskills, Pikachu	132	6	30
-49545	5	0	6 Suits	2019-08-07 — 10:51:02 UTC	Animex52, Fireheart, magikarp, Maiorskills, Pikachu	199	6	30
-49544	4	0	No Variant	2019-08-07 — 10:14:35 UTC	Animex52, Dr_Kakashi, Fireheart, Maiorskills	243	5	25
-49541	4	24	No Variant	2019-08-07 — 09:34:55 UTC	Animex52, Dr_Kakashi, Fireheart, Maiorskills	373	5	25
-49539	3	0	No Variant	2019-08-07 — 09:02:04 UTC	Animex52, Dr_Kakashi, Fireheart	199	5	25
-49193	3	25	No Variant	2019-08-04 — 12:23:57 UTC	Animex52, Fireheart, Yeesh	220	5	25
-49190	3	0	No Variant	2019-08-04 — 12:07:07 UTC	Animex52, Fireheart, Yeesh	224	5	25
-49189	3	0	No Variant	2019-08-04 — 12:05:57 UTC	Animex52, Fireheart, Yeesh	250	5	25
-49188	3	0	No Variant	2019-08-04 — 12:02:52 UTC	Animex52, Fireheart, Yeesh	259	5	25
-49186	3	24	No Variant	2019-08-04 — 11:53:23 UTC	Animex52, Fireheart, Yeesh	269	5	25
-49182	3	23	No Variant	2019-08-04 — 11:19:20 UTC	Animex52, Fireheart, Yeesh	307	5	25
-49180	4	0	No Variant	2019-08-04 — 10:53:23 UTC	Animex52, asaelr, Fireheart, Yeesh	149	5	25
-49179	4	0	No Variant	2019-08-04 — 10:42:12 UTC	Animex52, asaelr, Fireheart, Yeesh	162	5	25
-49162	3	22	No Variant	2019-08-04 — 05:17:33 UTC	Animex52, Fireheart, Jake_Stiles	1017	5	25
-49156	3	0	No Variant	2019-08-04 — 04:51:08 UTC	Animex52, Fireheart, Jake_Stiles	1291	5	25
-49151	4	0	No Variant	2019-08-04 — 04:21:44 UTC	Animex52, Fireheart, invarse, micerang	89	5	25
-49147	4	0	No Variant	2019-08-04 — 03:53:44 UTC	Animex52, Fireheart, invarse, micerang	95	5	25
-48643	4	25	No Variant	2019-08-01 — 06:08:15 UTC	Animex52, Dr_Kakashi, micerang, sjdrodge	40	5	25
-48638	4	0	No Variant	2019-08-01 — 05:24:52 UTC	Animex52, Dr_Kakashi, micerang, sjdrodge	39	5	25
-48634	4	0	No Variant	2019-08-01 — 05:03:51 UTC	Animex52, Dr_Kakashi, micerang, sjdrodge	41	5	25
-48631	3	0	No Variant	2019-08-01 — 04:42:54 UTC	Animex52, Dr_Kakashi, micerang	102	5	25
-48630	3	0	No Variant	2019-08-01 — 04:38:48 UTC	Animex52, Dr_Kakashi, micerang	106	5	25
-48501	3	0	Rainbow (6 Suits)	2019-07-31 — 03:29:32 UTC	Animex52, Dr_Kakashi, invarse	141	6	30
-48497	3	0	Rainbow (6 Suits)	2019-07-31 — 02:55:18 UTC	Animex52, Dr_Kakashi, invarse	165	6	30
-48126	3	0	No Variant	2019-07-28 — 10:53:00 UTC	Animex52, Dr_Kakashi, Fireheart	1881	5	25
-48114	3	0	4 Suits	2019-07-28 — 09:11:27 UTC	Animex52, Fireheart, Livia	70	4	20
+49989	4	30	6 Suits	2019-08-11 — 12:03:54 UTC	Animex52, DMS, Dr_Kakashi, Yeesh	122	6	30
+49986	3	25	No Variant	2019-08-11 — 11:16:41 UTC	Animex52, Dr_Kakashi, Yeesh	160	5	25
+49984	4	25	No Variant	2019-08-11 — 10:42:49 UTC	Animex52, Dr_Kakashi, Fireheart, Metylene	606	5	25
+49982	5	21	No Variant	2019-08-11 — 09:51:12 UTC	Animex52, Dr_Kakashi, Fireheart, Metylene, wortel	461	5	25
+49550	5	0	6 Suits	2019-08-07 — 11:43:37 UTC	Animex52, Fireheart, magikarp, Maiorskills, Pikachu	133	6	30
+49545	5	0	6 Suits	2019-08-07 — 10:51:02 UTC	Animex52, Fireheart, magikarp, Maiorskills, Pikachu	203	6	30
+49544	4	0	No Variant	2019-08-07 — 10:14:35 UTC	Animex52, Dr_Kakashi, Fireheart, Maiorskills	245	5	25
+49541	4	24	No Variant	2019-08-07 — 09:34:55 UTC	Animex52, Dr_Kakashi, Fireheart, Maiorskills	376	5	25
+49539	3	0	No Variant	2019-08-07 — 09:02:04 UTC	Animex52, Dr_Kakashi, Fireheart	202	5	25
+49193	3	25	No Variant	2019-08-04 — 12:23:57 UTC	Animex52, Fireheart, Yeesh	224	5	25
+49190	3	0	No Variant	2019-08-04 — 12:07:07 UTC	Animex52, Fireheart, Yeesh	227	5	25
+49189	3	0	No Variant	2019-08-04 — 12:05:57 UTC	Animex52, Fireheart, Yeesh	252	5	25
+49188	3	0	No Variant	2019-08-04 — 12:02:52 UTC	Animex52, Fireheart, Yeesh	261	5	25
+49186	3	24	No Variant	2019-08-04 — 11:53:23 UTC	Animex52, Fireheart, Yeesh	272	5	25
+49182	3	23	No Variant	2019-08-04 — 11:19:20 UTC	Animex52, Fireheart, Yeesh	311	5	25
+49180	4	0	No Variant	2019-08-04 — 10:53:23 UTC	Animex52, asaelr, Fireheart, Yeesh	150	5	25
+49179	4	0	No Variant	2019-08-04 — 10:42:12 UTC	Animex52, asaelr, Fireheart, Yeesh	166	5	25
+49162	3	22	No Variant	2019-08-04 — 05:17:33 UTC	Animex52, Fireheart, Jake_Stiles	1026	5	25
+49156	3	0	No Variant	2019-08-04 — 04:51:08 UTC	Animex52, Fireheart, Jake_Stiles	1299	5	25
+49151	4	0	No Variant	2019-08-04 — 04:21:44 UTC	Animex52, Fireheart, invarse, micerang	91	5	25
+49147	4	0	No Variant	2019-08-04 — 03:53:44 UTC	Animex52, Fireheart, invarse, micerang	98	5	25
+48643	4	25	No Variant	2019-08-01 — 06:08:15 UTC	Animex52, Dr_Kakashi, micerang, sjdrodge	41	5	25
+48638	4	0	No Variant	2019-08-01 — 05:24:52 UTC	Animex52, Dr_Kakashi, micerang, sjdrodge	40	5	25
+48634	4	0	No Variant	2019-08-01 — 05:03:51 UTC	Animex52, Dr_Kakashi, micerang, sjdrodge	42	5	25
+48631	3	0	No Variant	2019-08-01 — 04:42:54 UTC	Animex52, Dr_Kakashi, micerang	107	5	25
+48630	3	0	No Variant	2019-08-01 — 04:38:48 UTC	Animex52, Dr_Kakashi, micerang	111	5	25
+48501	3	0	Rainbow (6 Suits)	2019-07-31 — 03:29:32 UTC	Animex52, Dr_Kakashi, invarse	144	6	30
+48497	3	0	Rainbow (6 Suits)	2019-07-31 — 02:55:18 UTC	Animex52, Dr_Kakashi, invarse	167	6	30
+48126	3	0	No Variant	2019-07-28 — 10:53:00 UTC	Animex52, Dr_Kakashi, Fireheart	1896	5	25
+48114	3	0	4 Suits	2019-07-28 — 09:11:27 UTC	Animex52, Fireheart, Livia	71	4	20
 48112	3	18	4 Suits	2019-07-28 — 08:48:36 UTC	Animex52, Fireheart, Livia	90	4	20
-48109	3	0	4 Suits	2019-07-28 — 08:29:09 UTC	Animex52, Fireheart, Livia	160	4	20
-48108	5	23	No Variant	2019-07-28 — 07:53:29 UTC	Animex52, Dr_Kakashi, Fireheart, Livia, wortel	1119	5	25
-47791	4	0	No Variant	2019-07-26 — 15:13:37 UTC	Animex52, Dr_Kakashi, Jake_Stiles, Kyle	419	5	25
-47790	3	0	Black (6 Suits)	2019-07-26 — 14:57:18 UTC	Animex52, Dr_Kakashi, Jake_Stiles	159	6	30
-47787	3	0	Black (6 Suits)	2019-07-26 — 14:31:13 UTC	Animex52, Dr_Kakashi, Jake_Stiles	261	6	30
+48109	3	0	4 Suits	2019-07-28 — 08:29:09 UTC	Animex52, Fireheart, Livia	162	4	20
+48108	5	23	No Variant	2019-07-28 — 07:53:29 UTC	Animex52, Dr_Kakashi, Fireheart, Livia, wortel	1125	5	25
+47791	4	0	No Variant	2019-07-26 — 15:13:37 UTC	Animex52, Dr_Kakashi, Jake_Stiles, Kyle	423	5	25
+47790	3	0	Black (6 Suits)	2019-07-26 — 14:57:18 UTC	Animex52, Dr_Kakashi, Jake_Stiles	161	6	30
+47787	3	0	Black (6 Suits)	2019-07-26 — 14:31:13 UTC	Animex52, Dr_Kakashi, Jake_Stiles	263	6	30
 47786	5	0	White (6 Suits)	2019-07-26 — 13:53:40 UTC	Animex52, Dr_Kakashi, honkbeep, Jake_Stiles, Kyle	9	6	30
 47785	3	0	Rainbow (5 Suits)	2019-07-26 — 13:36:04 UTC	Animex52, Dr_Kakashi, honkbeep	135	5	25
 47172	5	23	No Variant	2019-07-21 — 02:42:49 UTC	Animex52, Fireheart, invarse, Jake_Stiles, micerang	75	5	25
-47165	3	24	No Variant	2019-07-21 — 02:00:42 UTC	Animex52, Fireheart, invarse	516	5	25
-47161	4	0	6 Suits	2019-07-21 — 01:28:42 UTC	Animex52, asaelr, Fireheart, invarse	32	6	30
-47160	4	0	6 Suits	2019-07-21 — 01:01:23 UTC	Animex52, asaelr, Fireheart, invarse	49	6	30
-47069	3	25	No Variant	2019-07-20 — 12:07:36 UTC	Animex52, Livia, Sucubis	1636	5	25
+47165	3	24	No Variant	2019-07-21 — 02:00:42 UTC	Animex52, Fireheart, invarse	523	5	25
+47161	4	0	6 Suits	2019-07-21 — 01:28:42 UTC	Animex52, asaelr, Fireheart, invarse	33	6	30
+47160	4	0	6 Suits	2019-07-21 — 01:01:23 UTC	Animex52, asaelr, Fireheart, invarse	51	6	30
+47069	3	25	No Variant	2019-07-20 — 12:07:36 UTC	Animex52, Livia, Sucubis	1651	5	25
 46916	3	24	No Variant	2019-07-19 — 00:43:04 UTC	Animex52, Mike, Zamiel	6	5	25
 46912	3	0	No Variant	2019-07-19 — 00:08:44 UTC	Animex52, Mike, Zamiel	6	5	25
-46413	3	19	No Variant	2019-07-15 — 12:54:17 UTC	Animex52, Asddsa76, Dr_Kakashi	77	5	25
-46411	3	22	No Variant	2019-07-15 — 12:16:44 UTC	Animex52, Dr_Kakashi, Sucubis	840	5	25
-46408	3	0	No Variant	2019-07-15 — 11:55:49 UTC	Animex52, Dr_Kakashi, Sucubis	940	5	25
-46406	3	0	No Variant	2019-07-15 — 11:24:34 UTC	Animex52, Dr_Kakashi, Sucubis	1095	5	25
-46401	3	0	No Variant	2019-07-15 — 11:01:10 UTC	Animex52, Dr_Kakashi, Sucubis	1465	5	25
-46396	4	0	No Variant	2019-07-15 — 10:43:33 UTC	Animex52, asaelr, Dr_Kakashi, Sucubis	257	5	25
-46395	4	0	No Variant	2019-07-15 — 10:30:29 UTC	Animex52, asaelr, Dr_Kakashi, Sucubis	326	5	25
-45831	3	25	No Variant	2019-07-11 — 16:36:56 UTC	Animex52, eevee, micerang	187	5	25
-45830	3	0	No Variant	2019-07-11 — 16:18:58 UTC	Animex52, eevee, micerang	194	5	25
-45825	5	23	No Variant	2019-07-11 — 15:48:30 UTC	Animex52, eevee, hanabornoob, kondain, micerang	658	5	25
-45824	5	0	No Variant	2019-07-11 — 15:05:07 UTC	Animex52, eevee, kondain, micerang, Sucubis	176	5	25
+46413	3	19	No Variant	2019-07-15 — 12:54:17 UTC	Animex52, Asddsa76, Dr_Kakashi	78	5	25
+46411	3	22	No Variant	2019-07-15 — 12:16:44 UTC	Animex52, Dr_Kakashi, Sucubis	849	5	25
+46408	3	0	No Variant	2019-07-15 — 11:55:49 UTC	Animex52, Dr_Kakashi, Sucubis	952	5	25
+46406	3	0	No Variant	2019-07-15 — 11:24:34 UTC	Animex52, Dr_Kakashi, Sucubis	1102	5	25
+46401	3	0	No Variant	2019-07-15 — 11:01:10 UTC	Animex52, Dr_Kakashi, Sucubis	1474	5	25
+46396	4	0	No Variant	2019-07-15 — 10:43:33 UTC	Animex52, asaelr, Dr_Kakashi, Sucubis	260	5	25
+46395	4	0	No Variant	2019-07-15 — 10:30:29 UTC	Animex52, asaelr, Dr_Kakashi, Sucubis	330	5	25
+45831	3	25	No Variant	2019-07-11 — 16:36:56 UTC	Animex52, eevee, micerang	189	5	25
+45830	3	0	No Variant	2019-07-11 — 16:18:58 UTC	Animex52, eevee, micerang	198	5	25
+45825	5	23	No Variant	2019-07-11 — 15:48:30 UTC	Animex52, eevee, hanabornoob, kondain, micerang	667	5	25
+45824	5	0	No Variant	2019-07-11 — 15:05:07 UTC	Animex52, eevee, kondain, micerang, Sucubis	178	5	25
 45823	5	0	4 Suits	2019-07-11 — 14:37:28 UTC	Animex52, eevee, kondain, micerang, Sucubis	47	4	20
-45821	5	21	No Variant	2019-07-11 — 14:06:38 UTC	Animex52, asaelr, eevee, kondain, micerang	195	5	25
-45773	4	24	No Variant	2019-07-11 — 13:15:35 UTC	Animex52, asaelr, kondain, micerang	131	5	25
-45759	3	23	No Variant	2019-07-11 — 12:32:32 UTC	Animex52, asaelr, micerang	201	5	25
-45756	2	25	No Variant	2019-07-11 — 11:31:37 UTC	Animex52, asaelr	677	5	25
-45755	2	0	No Variant	2019-07-11 — 11:16:44 UTC	Animex52, asaelr	699	5	25
+45821	5	21	No Variant	2019-07-11 — 14:06:38 UTC	Animex52, asaelr, eevee, kondain, micerang	198	5	25
+45773	4	24	No Variant	2019-07-11 — 13:15:35 UTC	Animex52, asaelr, kondain, micerang	132	5	25
+45759	3	23	No Variant	2019-07-11 — 12:32:32 UTC	Animex52, asaelr, micerang	203	5	25
+45756	2	25	No Variant	2019-07-11 — 11:31:37 UTC	Animex52, asaelr	683	5	25
+45755	2	0	No Variant	2019-07-11 — 11:16:44 UTC	Animex52, asaelr	705	5	25

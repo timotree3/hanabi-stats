@@ -1,3 +1,15 @@
+522922	5	23	Pink & Prism (5 Suits)	2021-05-07 — 06:35:27 UTC	dobi, IsabeltheCat, kopen, micerang, newduke	2	5	25
+522907	5	0	Pink & Prism (5 Suits)	2021-05-07 — 06:07:24 UTC	dobi, IsabeltheCat, kopen, micerang, newduke	3	5	25
+522884	5	0	Pink & Prism (5 Suits)	2021-05-07 — 05:50:26 UTC	dobi, IsabeltheCat, kopen, micerang, newduke	6	5	25
+522869	3	25	Rainbow & Light Pink (5 Suits)	2021-05-07 — 05:31:32 UTC	kopen, micerang, newduke	7	5	25
+522860	3	0	Rainbow & Light Pink (5 Suits)	2021-05-07 — 05:10:51 UTC	kopen, micerang, newduke	10	5	25
+517828	5	25	No Variant	2021-05-01 — 18:26:26 UTC	Fey, kopen, Nitrate, tacobot5000, timotree	7	5	25
+517816	5	0	No Variant	2021-05-01 — 18:04:34 UTC	Fey, kopen, Nitrate, tacobot5000, timotree	12	5	25
+517804	4	0	Black & Muddy Rainbow (6 Suits)	2021-05-01 — 17:48:21 UTC	ChristopheAF, jeff10, kopen, orucsoraihc	6	6	30
+517787	3	0	Black & Gray (6 Suits)	2021-05-01 — 17:30:04 UTC	kopen, MarkusKahlsen, Wittvector	11	6	30
+517171	5	0	White Reversed (5 Suits)	2021-04-30 — 22:23:56 UTC	indego, kopen, Lanvin, MarkusKahlsen, wump	3	5	25
+517149	5	0	White Reversed (5 Suits)	2021-04-30 — 21:56:21 UTC	indego, kopen, Lanvin, MarkusKahlsen, wump	2	5	25
+517131	5	0	White Reversed (5 Suits)	2021-04-30 — 21:37:12 UTC	indego, kopen, Lanvin, MarkusKahlsen, wump	4	5	25
 510578	5	24	Black (5 Suits)	2021-04-23 — 21:33:17 UTC	ChristopheAF, HelanaAshryvr, kopen, Lanvin, pianoblook	1	5	25
 510561	5	0	Black (5 Suits)	2021-04-23 — 21:11:51 UTC	ChristopheAF, HelanaAshryvr, kopen, Lanvin, pianoblook	3	5	25
 510551	4	28	Gray Pink (6 Suits)	2021-04-23 — 20:59:24 UTC	ChristopheAF, indego, kopen, Kyle	1	6	30
@@ -10,8 +22,8 @@
 504587	5	0	Black & Brown (6 Suits)	2021-04-17 — 22:03:57 UTC	kopen, rz, timotree, voss, wump	3	6	30
 504551	5	25	Black & Brown (6 Suits)	2021-04-17 — 21:26:18 UTC	kopen, rz, timotree, voss, wump	5	6	30
 504530	4	0	Black & Brown (6 Suits)	2021-04-17 — 21:06:51 UTC	kopen, rz, voss, wump	9	6	30
-504525	4	0	Black & Brown (6 Suits)	2021-04-17 — 21:02:11 UTC	kopen, rz, voss, wump	11	6	30
-504513	4	0	Black & Brown (6 Suits)	2021-04-17 — 20:56:13 UTC	kopen, rz, voss, wump	12	6	30
+504525	4	0	Black & Brown (6 Suits)	2021-04-17 — 21:02:11 UTC	kopen, rz, voss, wump	13	6	30
+504513	4	0	Black & Brown (6 Suits)	2021-04-17 — 20:56:13 UTC	kopen, rz, voss, wump	13	6	30
 504479	5	30	Dual-Color (6 Suits)	2021-04-17 — 20:44:06 UTC	bjnh, griff77, kopen, rz, wump	6	6	30
 504407	5	0	Black (5 Suits)	2021-04-17 — 19:56:39 UTC	bjnh, griff77, kopen, rz, wump	3	5	25
 504384	5	23	Black (5 Suits)	2021-04-17 — 19:30:42 UTC	bjnh, griff77, kopen, rz, wump	4	5	25
@@ -24,21 +36,21 @@
 495421	4	29	Up or Down (6 Suits)	2021-04-09 — 22:29:11 UTC	bob65536, kopen, MangoPie, Zakisan	40	6	30
 495380	5	0	Up or Down (5 Suits)	2021-04-09 — 21:54:32 UTC	bob65536, indego, kopen, MangoPie, Zakisan	19	5	25
 493129	6	0	White & Omni (6 Suits)	2021-04-07 — 17:33:04 UTC	indego, kopen, Lel0uch, sin_faith, Spieler42, squirrel1988	1	6	30
-492629	3	24	Clue Starved (5 Suits)	2021-04-07 — 00:00:41 UTC	bob65536, kevincaseytdk1, kopen	10	5	25
+492629	3	24	Clue Starved (5 Suits)	2021-04-07 — 00:00:41 UTC	bob65536, kevincaseytdk1, kopen	11	5	25
 492607	5	0	Clue Starved (5 Suits)	2021-04-06 — 23:21:36 UTC	asaelr, bob65536, kevincaseytdk1, kopen, MangoPie	4	5	25
-488687	2	15	Pink & Brown (3 Suits)	2021-04-02 — 22:00:07 UTC	kopen, StKildaFan	6	3	15
-488677	2	0	Pink & Brown (3 Suits)	2021-04-02 — 21:54:19 UTC	kopen, StKildaFan	6	3	15
-488662	2	0	Pink & Brown (3 Suits)	2021-04-02 — 21:48:14 UTC	kopen, StKildaFan	11	3	15
-488652	2	0	Pink & Brown (3 Suits)	2021-04-02 — 21:42:43 UTC	kopen, StKildaFan	13	3	15
-488641	2	14	Pink & Brown (3 Suits)	2021-04-02 — 21:36:42 UTC	kopen, StKildaFan	17	3	15
+488687	2	15	Pink & Brown (3 Suits)	2021-04-02 — 22:00:07 UTC	kopen, StKildaFan	7	3	15
+488677	2	0	Pink & Brown (3 Suits)	2021-04-02 — 21:54:19 UTC	kopen, StKildaFan	7	3	15
+488662	2	0	Pink & Brown (3 Suits)	2021-04-02 — 21:48:14 UTC	kopen, StKildaFan	12	3	15
+488652	2	0	Pink & Brown (3 Suits)	2021-04-02 — 21:42:43 UTC	kopen, StKildaFan	14	3	15
+488641	2	14	Pink & Brown (3 Suits)	2021-04-02 — 21:36:42 UTC	kopen, StKildaFan	18	3	15
 488627	2	25	White & Omni (5 Suits)	2021-04-02 — 21:26:33 UTC	kopen, StKildaFan	1	5	25
 488613	2	0	White & Omni (5 Suits)	2021-04-02 — 21:17:05 UTC	kopen, StKildaFan	1	5	25
 488603	2	0	White & Omni (5 Suits)	2021-04-02 — 21:12:21 UTC	kopen, StKildaFan	1	5	25
 484712	4	30	Black & Pink (6 Suits)	2021-03-29 — 21:05:40 UTC	kopen, Lanvin, Onen, Syrah	11	6	30
 481566	4	0	Pink & White (6 Suits)	2021-03-26 — 21:52:23 UTC	knaphill, kopen, MangoPie, MarkusKahlsen	1	6	30
 481562	4	0	Pink & White (6 Suits)	2021-03-26 — 21:47:35 UTC	knaphill, kopen, MangoPie, MarkusKahlsen	7	6	30
-481542	3	25	Pink (5 Suits)	2021-03-26 — 21:36:27 UTC	knaphill, kopen, MarkusKahlsen	36	5	25
-481518	2	0	No Variant	2021-03-26 — 21:15:33 UTC	kopen, NumerateClutter	948	5	25
+481542	3	25	Pink (5 Suits)	2021-03-26 — 21:36:27 UTC	knaphill, kopen, MarkusKahlsen	38	5	25
+481518	2	0	No Variant	2021-03-26 — 21:15:33 UTC	kopen, NumerateClutter	960	5	25
 478933	4	0	Brown & Dark Omni (5 Suits)	2021-03-24 — 08:36:18 UTC	derekcheah, dobi, kopen, Zakisan	1	5	25
 478928	4	24	Brown & Dark Omni (5 Suits)	2021-03-24 — 08:19:09 UTC	derekcheah, dobi, kopen, Zakisan	1	5	25
 478923	5	0	White & Muddy Rainbow (6 Suits)	2021-03-24 — 07:56:24 UTC	Aluap, derekcheah, dobi, kopen, sephiroth	2	6	30
@@ -52,7 +64,7 @@
 478480	4	25	Up or Down & Omni (5 Suits)	2021-03-24 — 00:33:57 UTC	dobi, kopen, Lanvin, MangoPie	8	5	25
 478291	4	24	Omni-Fives & Dark Rainbow (6 Suits)	2021-03-23 — 21:05:15 UTC	kevincaseytdk1, kopen, Lanvin, newduke	1	6	30
 478256	4	0	Omni-Fives & Dark Rainbow (6 Suits)	2021-03-23 — 20:36:43 UTC	kevincaseytdk1, kopen, Lanvin, newduke	1	6	30
-478226	3	15	Rainbow (3 Suits)	2021-03-23 — 20:16:20 UTC	kopen, newduke, nkkarpov	43	3	15
+478226	3	15	Rainbow (3 Suits)	2021-03-23 — 20:16:20 UTC	kopen, newduke, nkkarpov	44	3	15
 478197	3	0	Black & Prism (6 Suits)	2021-03-23 — 19:50:17 UTC	IsabeltheCat, kopen, newduke	22	6	30
 478176	4	0	Dual-Color & Rainbow (6 Suits)	2021-03-23 — 19:26:22 UTC	IsabeltheCat, kopen, Lanvin, newduke	7	6	30
 474952	5	25	Rainbow-Ones & Pink (5 Suits)	2021-03-20 — 19:40:44 UTC	asaelr, griff77, kopen, Wittvector, wump	1	5	25
@@ -80,8 +92,8 @@
 464559	5	0	Pink & Gray (6 Suits)	2021-03-11 — 12:15:10 UTC	kopen, Lanvin, Lel0uch, swineherd, VerySloppyTwo	2	6	30
 464553	4	0	Rainbow & Dark Brown (5 Suits)	2021-03-11 — 12:03:09 UTC	kopen, Lanvin, Lel0uch, swineherd	1	5	25
 464550	3	25	Dark Omni (5 Suits)	2021-03-11 — 11:55:40 UTC	kopen, Lanvin, Lel0uch	5	5	25
-464545	2	29	Rainbow (6 Suits)	2021-03-11 — 11:39:46 UTC	kopen, Lanvin	500	6	30
-464543	2	30	6 Suits	2021-03-11 — 11:25:36 UTC	kopen, Lanvin	200	6	30
+464545	2	29	Rainbow (6 Suits)	2021-03-11 — 11:39:46 UTC	kopen, Lanvin	506	6	30
+464543	2	30	6 Suits	2021-03-11 — 11:25:36 UTC	kopen, Lanvin	204	6	30
 464539	4	0	White-Ones & Pink (5 Suits)	2021-03-11 — 11:08:41 UTC	eliclax, kopen, Lanvin, TimeHoodie	4	5	25
 464534	4	20	Omni & Light Pink (4 Suits)	2021-03-11 — 10:51:42 UTC	dobi, kopen, Lanvin, TimeHoodie	1	4	20
 464522	5	30	White-Ones & Brown (6 Suits)	2021-03-11 — 10:26:33 UTC	dobi, knaphill, kopen, Lanvin, TimeHoodie	2	6	30
@@ -89,15 +101,15 @@
 463442	3	0	Dark Rainbow (6 Suits)	2021-03-10 — 08:37:13 UTC	indego, kopen, newduke	41	6	30
 463432	4	0	White & Muddy Rainbow (6 Suits)	2021-03-10 — 08:13:41 UTC	indego, kopen, Lel0uch, newduke	1	6	30
 463428	3	29	White & Muddy Rainbow (6 Suits)	2021-03-10 — 07:57:41 UTC	indego, kopen, Lel0uch	2	6	30
-463417	3	0	White & Muddy Rainbow (6 Suits)	2021-03-10 — 07:37:00 UTC	indego, kopen, Lel0uch	2	6	30
-463404	3	0	White & Muddy Rainbow (6 Suits)	2021-03-10 — 07:13:29 UTC	indego, kopen, Lel0uch	4	6	30
-462291	3	27	Black (6 Suits)	2021-03-09 — 11:43:55 UTC	CaitlinSmith, kopen, Spieler42	399	6	30
+463417	3	0	White & Muddy Rainbow (6 Suits)	2021-03-10 — 07:37:00 UTC	indego, kopen, Lel0uch	3	6	30
+463404	3	0	White & Muddy Rainbow (6 Suits)	2021-03-10 — 07:13:29 UTC	indego, kopen, Lel0uch	5	6	30
+462291	3	27	Black (6 Suits)	2021-03-09 — 11:43:55 UTC	CaitlinSmith, kopen, Spieler42	407	6	30
 462281	5	23	Dark Brown (5 Suits)	2021-03-09 — 11:12:58 UTC	asaelr, indego, kopen, Lel0uch, Spieler42	1	5	25
 462279	5	30	Rainbow & Muddy Rainbow (6 Suits)	2021-03-09 — 10:48:54 UTC	asaelr, indego, kopen, Lel0uch, Spieler42	5	6	30
 462277	4	0	White & Brown (6 Suits)	2021-03-09 — 10:23:55 UTC	indego, kopen, Lel0uch, Spieler42	2	6	30
 462275	4	0	White & Brown (6 Suits)	2021-03-09 — 10:14:05 UTC	indego, kopen, Lel0uch, Spieler42	6	6	30
 462274	3	0	White & Brown (6 Suits)	2021-03-09 — 10:09:29 UTC	kopen, Lel0uch, Spieler42	10	6	30
-462272	3	29	White & Brown (6 Suits)	2021-03-09 — 09:56:15 UTC	indego, kopen, Lel0uch	20	6	30
+462272	3	29	White & Brown (6 Suits)	2021-03-09 — 09:56:15 UTC	indego, kopen, Lel0uch	21	6	30
 462270	4	25	Rainbow & Dark Prism (5 Suits)	2021-03-09 — 09:31:57 UTC	indego, kopen, Lel0uch, VerySloppyTwo	2	5	25
 462266	4	0	Rainbow & Dark Prism (5 Suits)	2021-03-09 — 09:12:27 UTC	indego, kopen, Lel0uch, VerySloppyTwo	4	5	25
 462263	4	24	Rainbow & Dark Prism (5 Suits)	2021-03-09 — 08:54:24 UTC	indego, kopen, Lel0uch, VerySloppyTwo	3	5	25
@@ -113,7 +125,7 @@
 461725	5	20	Rainbow & Gray Pink (5 Suits)	2021-03-08 — 21:48:00 UTC	Floriman, kimbifille, kopen, Lanvin, TimeHoodie	2	5	25
 461129	5	22	Muddy Rainbow (5 Suits)	2021-03-08 — 05:04:52 UTC	Bot-Fiora, griff77, IsabeltheCat, kopen, ksfortson	7	5	25
 461087	5	22	Muddy Rainbow (5 Suits)	2021-03-08 — 04:24:07 UTC	Bot-Fiora, griff77, IsabeltheCat, kopen, ksfortson	8	5	25
-461032	4	23	Muddy Rainbow (5 Suits)	2021-03-08 — 03:47:44 UTC	griff77, IsabeltheCat, kopen, ksfortson	6	5	25
+461032	4	23	Muddy Rainbow (5 Suits)	2021-03-08 — 03:47:44 UTC	griff77, IsabeltheCat, kopen, ksfortson	7	5	25
 460989	5	23	Muddy Rainbow (5 Suits)	2021-03-08 — 03:04:28 UTC	griff77, IsabeltheCat, kopen, ksfortson, nkkarpov	9	5	25
 460667	4	0	White-Ones & Dark Pink (6 Suits)	2021-03-07 — 22:47:27 UTC	kopen, Lanvin, MangoPie, Wittvector	1	6	30
 460626	4	0	White-Ones & Dark Pink (6 Suits)	2021-03-07 — 22:27:13 UTC	kopen, Lanvin, MangoPie, Wittvector	1	6	30
@@ -124,14 +136,14 @@
 460203	5	0	White-Fives & Gray Pink (6 Suits)	2021-03-07 — 17:22:17 UTC	kopen, Lanvin, Lel0uch, melwen, Wittvector	1	6	30
 460196	4	0	Light Pink & Gray (6 Suits)	2021-03-07 — 17:12:04 UTC	kopen, Lanvin, Lel0uch, Wittvector	2	6	30
 460192	3	21	Dark Omni (5 Suits)	2021-03-07 — 17:09:30 UTC	kopen, Lel0uch, Wittvector	5	5	25
-460177	3	20	Brown (4 Suits)	2021-03-07 — 16:46:26 UTC	kopen, Lel0uch, Wittvector	6	4	20
+460177	3	20	Brown (4 Suits)	2021-03-07 — 16:46:26 UTC	kopen, Lel0uch, Wittvector	7	4	20
 459593	3	30	Alternating Clues & Light Pink (6 Suits)	2021-03-07 — 01:16:11 UTC	kopen, newduke, rz	1	6	30
 459484	3	0	Alternating Clues & Light Pink (6 Suits)	2021-03-07 — 00:31:52 UTC	kopen, newduke, rz	2	6	30
-459271	5	20	No Variant	2021-03-06 — 22:32:14 UTC	Bot-Fiora, dancherp, kopen, MangoPie, nkkarpov	143	5	25
+459271	5	20	No Variant	2021-03-06 — 22:32:14 UTC	Bot-Fiora, dancherp, kopen, MangoPie, nkkarpov	145	5	25
 459225	5	0	Brown & Dark Prism (6 Suits)	2021-03-06 — 21:59:55 UTC	asaelr, Bot-Fiora, kopen, newduke, nkkarpov	2	6	30
 459167	4	0	Brown & Dark Prism (6 Suits)	2021-03-06 — 21:16:09 UTC	Div, indego, kopen, newduke	2	6	30
 459126	4	25	Rainbow-Fives & Prism (5 Suits)	2021-03-06 — 20:38:01 UTC	DarthGandalf, griff77, kopen, newduke	1	5	25
-458973	5	30	Brown & Muddy Rainbow (6 Suits)	2021-03-06 — 18:18:06 UTC	indego, kopen, nkkarpov, rz, wump	2	6	30
+458973	5	30	Brown & Muddy Rainbow (6 Suits)	2021-03-06 — 18:18:06 UTC	indego, kopen, nkkarpov, rz, wump	3	6	30
 458951	5	0	Brown & Muddy Rainbow (6 Suits)	2021-03-06 — 17:49:16 UTC	indego, kopen, nkkarpov, rz, wump	3	6	30
 458943	4	25	Prism & Gray (5 Suits)	2021-03-06 — 17:28:11 UTC	indego, kopen, nkkarpov, rz	1	5	25
 458934	4	0	Prism & Gray (5 Suits)	2021-03-06 — 17:09:55 UTC	indego, kopen, nkkarpov, rz	1	5	25
@@ -180,8 +192,8 @@
 455155	4	0	Black & Light Pink (6 Suits)	2021-03-03 — 10:33:08 UTC	derekcheah, hakha3, kopen, melwen	5	6	30
 455151	5	30	Dark Brown (6 Suits)	2021-03-03 — 10:22:57 UTC	derekcheah, hakha3, kopen, Lel0uch, melwen	6	6	30
 455147	4	21	Prism & Dark Brown (5 Suits)	2021-03-03 — 09:59:37 UTC	derekcheah, kopen, Lel0uch, melwen	1	5	25
-455144	4	0	Prism & Dark Brown (5 Suits)	2021-03-03 — 09:44:09 UTC	derekcheah, kopen, Lel0uch, melwen	1	5	25
-455143	3	0	Prism & Dark Brown (5 Suits)	2021-03-03 — 09:40:39 UTC	derekcheah, kopen, melwen	2	5	25
+455144	4	0	Prism & Dark Brown (5 Suits)	2021-03-03 — 09:44:09 UTC	derekcheah, kopen, Lel0uch, melwen	2	5	25
+455143	3	0	Prism & Dark Brown (5 Suits)	2021-03-03 — 09:40:39 UTC	derekcheah, kopen, melwen	3	5	25
 455140	5	0	Dark Brown (6 Suits)	2021-03-03 — 09:28:39 UTC	derekcheah, kopen, Lel0uch, melwen, VerySloppyTwo	5	6	30
 455137	5	0	Dark Brown (6 Suits)	2021-03-03 — 09:10:05 UTC	derekcheah, indego, kopen, Lel0uch, VerySloppyTwo	6	6	30
 455136	5	0	Dark Brown (6 Suits)	2021-03-03 — 09:06:02 UTC	derekcheah, indego, kopen, Lel0uch, VerySloppyTwo	7	6	30
@@ -195,25 +207,25 @@
 455090	2	0	Pink & Brown (5 Suits)	2021-03-03 — 05:59:46 UTC	kopen, StKildaFan	21	5	25
 455082	2	0	Pink & Brown (5 Suits)	2021-03-03 — 05:50:16 UTC	kopen, StKildaFan	22	5	25
 455071	2	23	Pink & Brown (5 Suits)	2021-03-03 — 05:38:29 UTC	kopen, StKildaFan	27	5	25
-455057	2	0	Pink & Brown (5 Suits)	2021-03-03 — 05:29:19 UTC	kopen, StKildaFan	27	5	25
+455057	2	0	Pink & Brown (5 Suits)	2021-03-03 — 05:29:19 UTC	kopen, StKildaFan	28	5	25
 455046	2	20	Pink & White (4 Suits)	2021-03-03 — 05:20:57 UTC	kopen, StKildaFan	7	4	20
 455038	2	0	Pink & White (4 Suits)	2021-03-03 — 05:14:22 UTC	kopen, StKildaFan	9	4	20
 455032	2	0	Pink & White (4 Suits)	2021-03-03 — 05:10:52 UTC	kopen, StKildaFan	10	4	20
-455018	2	18	Pink & White (4 Suits)	2021-03-03 — 05:04:45 UTC	kopen, StKildaFan	21	4	20
-454660	3	30	Rainbow & Omni (6 Suits)	2021-03-02 — 23:29:35 UTC	kopen, MangoPie, methmatics	2	6	30
-454630	3	0	Rainbow & Omni (6 Suits)	2021-03-02 — 23:03:08 UTC	kopen, MangoPie, methmatics	1	6	30
-454616	3	27	Rainbow & Omni (6 Suits)	2021-03-02 — 22:46:39 UTC	kopen, MangoPie, methmatics	3	6	30
-454574	5	30	Rainbow (6 Suits)	2021-03-02 — 22:12:14 UTC	bjnh, kinkajusrevenge, knaphill, kopen, MangoPie	101	6	30
-454511	5	0	Rainbow (6 Suits)	2021-03-02 — 21:42:47 UTC	bjnh, kinkajusrevenge, knaphill, kopen, MangoPie	209	6	30
+455018	2	18	Pink & White (4 Suits)	2021-03-03 — 05:04:45 UTC	kopen, StKildaFan	22	4	20
+454660	3	30	Rainbow & Omni (6 Suits)	2021-03-02 — 23:29:35 UTC	kopen, MangoPie, methmatics	3	6	30
+454630	3	0	Rainbow & Omni (6 Suits)	2021-03-02 — 23:03:08 UTC	kopen, MangoPie, methmatics	3	6	30
+454616	3	27	Rainbow & Omni (6 Suits)	2021-03-02 — 22:46:39 UTC	kopen, MangoPie, methmatics	4	6	30
+454574	5	30	Rainbow (6 Suits)	2021-03-02 — 22:12:14 UTC	bjnh, kinkajusrevenge, knaphill, kopen, MangoPie	102	6	30
+454511	5	0	Rainbow (6 Suits)	2021-03-02 — 21:42:47 UTC	bjnh, kinkajusrevenge, knaphill, kopen, MangoPie	211	6	30
 454153	3	0	Brown (6 Suits)	2021-03-02 — 13:53:24 UTC	eliclax, kopen, MarkusKahlsen	61	6	30
 454140	3	0	Pink-Fives & Muddy Rainbow (5 Suits)	2021-03-02 — 13:08:56 UTC	kopen, Lanvin, StKildaFan	1	5	25
 454134	3	0	Pink-Fives & Muddy Rainbow (5 Suits)	2021-03-02 — 12:54:22 UTC	kopen, Lanvin, StKildaFan	2	5	25
 454130	3	0	Pink-Fives & Muddy Rainbow (5 Suits)	2021-03-02 — 12:49:45 UTC	kopen, Lanvin, StKildaFan	2	5	25
 454126	3	0	Pink-Fives & Muddy Rainbow (5 Suits)	2021-03-02 — 12:38:38 UTC	kopen, Lanvin, StKildaFan	2	5	25
-454118	4	30	Rainbow & Omni (6 Suits)	2021-03-02 — 12:14:43 UTC	kopen, Lanvin, MarkusKahlsen, VerySloppyTwo	6	6	30
-453947	3	29	White & Dark Brown (6 Suits)	2021-03-02 — 05:47:51 UTC	BraydonM, IsabeltheCat, kopen	6	6	30
-453933	3	0	White & Dark Brown (6 Suits)	2021-03-02 — 05:31:14 UTC	BraydonM, IsabeltheCat, kopen	7	6	30
-453916	3	0	Gray Pink (6 Suits)	2021-03-02 — 05:07:51 UTC	Bonja97, kopen, Lel0uch	13	6	30
+454118	4	30	Rainbow & Omni (6 Suits)	2021-03-02 — 12:14:43 UTC	kopen, Lanvin, MarkusKahlsen, VerySloppyTwo	7	6	30
+453947	3	29	White & Dark Brown (6 Suits)	2021-03-02 — 05:47:51 UTC	BraydonM, IsabeltheCat, kopen	7	6	30
+453933	3	0	White & Dark Brown (6 Suits)	2021-03-02 — 05:31:14 UTC	BraydonM, IsabeltheCat, kopen	8	6	30
+453916	3	0	Gray Pink (6 Suits)	2021-03-02 — 05:07:51 UTC	Bonja97, kopen, Lel0uch	15	6	30
 453874	5	27	Black & Pink (6 Suits)	2021-03-02 — 04:30:36 UTC	Bonja97, kopen, Lel0uch, melwen, newduke	1	6	30
 453852	5	0	Black & Pink (6 Suits)	2021-03-02 — 04:07:33 UTC	Bonja97, kopen, Lel0uch, melwen, newduke	1	6	30
 452861	4	0	Rainbow & Gray (5 Suits)	2021-03-01 — 05:25:17 UTC	kopen, newduke, pianoblook, scharkbite	2	5	25
@@ -233,7 +245,7 @@
 451453	4	0	Pink & Muddy Rainbow (5 Suits)	2021-02-28 — 02:39:01 UTC	derekcheah, indegoo, kopen, swineherd	2	5	25
 451428	4	24	Pink & Muddy Rainbow (5 Suits)	2021-02-28 — 02:17:37 UTC	derekcheah, indegoo, kopen, swineherd	4	5	25
 451414	4	0	Pink & Muddy Rainbow (5 Suits)	2021-02-28 — 01:54:51 UTC	derekcheah, indegoo, kopen, swineherd	6	5	25
-451288	5	25	No Variant	2021-02-27 — 23:24:29 UTC	ADrone, BraydonM, Daryl, HariKrishnan, kopen	100	5	25
+451288	5	25	No Variant	2021-02-27 — 23:24:29 UTC	ADrone, BraydonM, Daryl, HariKrishnan, kopen	102	5	25
 450340	4	20	Brown (4 Suits)	2021-02-27 — 01:13:47 UTC	dobi, kopen, otterful, torp	9	4	20
 450328	4	18	Brown (4 Suits)	2021-02-27 — 00:57:30 UTC	dobi, kopen, otterful, torp	11	4	20
 450310	4	0	Pink (5 Suits)	2021-02-27 — 00:32:56 UTC	kopen, ksfortson, otterful, torp	6	5	25
@@ -246,16 +258,16 @@
 449756	5	0	Omni & Muddy Rainbow (5 Suits)	2021-02-26 — 10:05:37 UTC	derekcheah, indego, kopen, Lel0uch, sephiroth	1	5	25
 449755	5	0	Omni & Muddy Rainbow (5 Suits)	2021-02-26 — 09:56:53 UTC	derekcheah, indego, kopen, Lel0uch, sephiroth	1	5	25
 449751	5	0	Omni & Muddy Rainbow (5 Suits)	2021-02-26 — 09:36:29 UTC	derekcheah, indego, kopen, Lel0uch, sephiroth	3	5	25
-449747	4	0	Omni & Cocoa Rainbow (5 Suits)	2021-02-26 — 08:42:40 UTC	derekcheah, indego, kopen, Lel0uch	2	5	25
+449747	4	0	Omni & Cocoa Rainbow (5 Suits)	2021-02-26 — 08:42:40 UTC	derekcheah, indego, kopen, Lel0uch	3	5	25
 449742	2	25	Gray (5 Suits)	2021-02-26 — 08:15:53 UTC	indego, kopen	16	5	25
 449739	2	0	Gray (5 Suits)	2021-02-26 — 08:03:51 UTC	indego, kopen	16	5	25
 449729	4	29	Prism (6 Suits)	2021-02-26 — 07:34:57 UTC	bjnh, corys, kopen, xor	35	6	30
 449630	5	23	Black & Pink (5 Suits)	2021-02-26 — 05:19:28 UTC	kimbifille, kopen, Lel0uch, melwen, micerang	4	5	25
 449589	5	0	Dark Brown (6 Suits)	2021-02-26 — 04:45:35 UTC	kimbifille, kopen, Lel0uch, melwen, Zamiel	2	6	30
 449578	5	0	Dark Brown (6 Suits)	2021-02-26 — 04:32:27 UTC	kimbifille, kopen, Lel0uch, melwen, Zamiel	2	6	30
-449560	4	0	Muddy Rainbow & Light Pink (6 Suits)	2021-02-26 — 04:16:20 UTC	kimbifille, kopen, melwen, Zamiel	4	6	30
-448588	5	0	Rainbow & Null (5 Suits)	2021-02-25 — 08:18:19 UTC	derekcheah, indego, kopen, sin_faith, TheDaniMan	1	5	25
-448580	5	0	Rainbow & Null (5 Suits)	2021-02-25 — 07:51:01 UTC	derekcheah, indego, kopen, sin_faith, TheDaniMan	1	5	25
+449560	4	0	Muddy Rainbow & Light Pink (6 Suits)	2021-02-26 — 04:16:20 UTC	kimbifille, kopen, melwen, Zamiel	5	6	30
+448588	5	0	Rainbow & Null (5 Suits)	2021-02-25 — 08:18:19 UTC	derekcheah, indego, kopen, sin_faith, TheDaniMan	2	5	25
+448580	5	0	Rainbow & Null (5 Suits)	2021-02-25 — 07:51:01 UTC	derekcheah, indego, kopen, sin_faith, TheDaniMan	2	5	25
 448573	5	24	Rainbow & Null (5 Suits)	2021-02-25 — 07:24:27 UTC	indego, kopen, newduke, sin_faith, TheDaniMan	3	5	25
 448561	3	0	Null (3 Suits)	2021-02-25 — 07:02:56 UTC	indego, kopen, newduke	9	3	15
 448558	3	0	Null (3 Suits)	2021-02-25 — 07:01:10 UTC	indego, kopen, newduke	10	3	15
@@ -274,7 +286,7 @@
 448170	5	0	Dark Null (6 Suits)	2021-02-25 — 00:17:03 UTC	indego, kevincaseytdk1, kopen, melwen, Wittvector	4	6	30
 447455	3	20	Prism (4 Suits)	2021-02-24 — 04:46:13 UTC	eliclax, indegoo, kopen	21	4	20
 447428	3	0	Prism (4 Suits)	2021-02-24 — 04:27:30 UTC	eliclax, indegoo, kopen	27	4	20
-447406	3	0	Prism (4 Suits)	2021-02-24 — 04:08:48 UTC	eliclax, indegoo, kopen	45	4	20
+447406	3	0	Prism (4 Suits)	2021-02-24 — 04:08:48 UTC	eliclax, indegoo, kopen	47	4	20
 447371	5	0	Omni & Muddy Rainbow (5 Suits)	2021-02-24 — 03:45:33 UTC	eliclax, indego, kopen, rz, TimeHoodie	3	5	25
 447345	5	26	Gray (6 Suits)	2021-02-24 — 03:18:52 UTC	indego, JerryYang, kopen, rz, TimeHoodie	2	6	30
 447284	5	0	Rainbow & Gray (5 Suits)	2021-02-24 — 02:25:37 UTC	indego, kevincaseytdk1, kopen, MangoPie, melwen	1	5	25
@@ -289,37 +301,37 @@
 447148	3	0	Special Mix (5 Suits)	2021-02-23 — 23:22:54 UTC	ChristopheAF, kopen, nkkarpov	7	5	25
 447119	3	0	Special Mix (5 Suits)	2021-02-23 — 23:07:39 UTC	ChristopheAF, kopen, nkkarpov	7	5	25
 447105	3	0	Special Mix (5 Suits)	2021-02-23 — 22:58:18 UTC	ChristopheAF, kopen, nkkarpov	7	5	25
-446500	5	0	Rainbow (6 Suits)	2021-02-23 — 06:52:02 UTC	catula, corys, kopen, Lel0uch, xor	31	6	30
-446474	4	25	No Variant	2021-02-23 — 06:13:58 UTC	corys, kopen, Lel0uch, xor	717	5	25
+446500	5	0	Rainbow (6 Suits)	2021-02-23 — 06:52:02 UTC	catula, corys, kopen, Lel0uch, xor	32	6	30
+446474	4	25	No Variant	2021-02-23 — 06:13:58 UTC	corys, kopen, Lel0uch, xor	724	5	25
 445202	4	0	Rainbow & Light Pink (5 Suits)	2021-02-22 — 04:58:56 UTC	colton, indego, kopen, Lel0uch	5	5	25
 445174	3	25	Muddy Rainbow (5 Suits)	2021-02-22 — 04:36:07 UTC	indego, kopen, Lel0uch	15	5	25
 445135	3	0	Muddy Rainbow (5 Suits)	2021-02-22 — 04:04:50 UTC	indego, kopen, Lel0uch	22	5	25
 445106	5	0	Black & Pink (5 Suits)	2021-02-22 — 03:40:40 UTC	indego, jeff10, kopen, rz, scharkbite	1	5	25
 445079	5	23	Black & Pink (5 Suits)	2021-02-22 — 03:21:13 UTC	indego, jeff10, kopen, rz, scharkbite	5	5	25
-444709	2	25	Pink (5 Suits)	2021-02-21 — 21:49:01 UTC	indego, kopen	77	5	25
-444693	2	0	Pink (5 Suits)	2021-02-21 — 21:30:46 UTC	indego, kopen	119	5	25
-444675	2	0	Pink (5 Suits)	2021-02-21 — 21:15:10 UTC	indego, kopen	200	5	25
+444709	2	25	Pink (5 Suits)	2021-02-21 — 21:49:01 UTC	indego, kopen	79	5	25
+444693	2	0	Pink (5 Suits)	2021-02-21 — 21:30:46 UTC	indego, kopen	124	5	25
+444675	2	0	Pink (5 Suits)	2021-02-21 — 21:15:10 UTC	indego, kopen	204	5	25
 444667	4	0	Clue Starved & Prism (5 Suits)	2021-02-21 — 21:07:14 UTC	indego, kopen, newduke, VerySloppyTwo	4	5	25
 444651	4	0	Clue Starved & Prism (5 Suits)	2021-02-21 — 20:56:30 UTC	indego, kopen, newduke, VerySloppyTwo	6	5	25
 444614	4	24	Clue Starved & Prism (5 Suits)	2021-02-21 — 20:30:33 UTC	indego, kopen, newduke, VerySloppyTwo	6	5	25
 444280	3	25	Rainbow-Ones & Black (5 Suits)	2021-02-21 — 11:46:42 UTC	Fireheart, kopen, swineherd	4	5	25
 444275	3	24	Rainbow-Ones & Black (5 Suits)	2021-02-21 — 11:24:47 UTC	Fireheart, kopen, swineherd	5	5	25
-443745	3	30	Dark Brown (6 Suits)	2021-02-21 — 01:42:48 UTC	4head, kopen, vEnhance	18	6	30
+443745	3	30	Dark Brown (6 Suits)	2021-02-21 — 01:42:48 UTC	4head, kopen, vEnhance	19	6	30
 443723	4	0	Dark Brown (6 Suits)	2021-02-21 — 01:17:41 UTC	4head, indego, kopen, vEnhance	13	6	30
 443701	4	0	Dark Brown (6 Suits)	2021-02-21 — 00:52:40 UTC	4head, indego, kopen, vEnhance	14	6	30
 443661	4	24	Dark Brown (6 Suits)	2021-02-21 — 00:29:08 UTC	4head, indego, kopen, vEnhance	17	6	30
-443631	3	0	Dark Brown (6 Suits)	2021-02-21 — 00:02:01 UTC	4head, kopen, vEnhance	22	6	30
+443631	3	0	Dark Brown (6 Suits)	2021-02-21 — 00:02:01 UTC	4head, kopen, vEnhance	23	6	30
 443610	3	0	Dark Brown (6 Suits)	2021-02-20 — 23:48:31 UTC	4head, kopen, vEnhance	28	6	30
 443596	3	0	Dark Brown (6 Suits)	2021-02-20 — 23:37:40 UTC	4head, kopen, vEnhance	32	6	30
 443556	4	20	Rainbow & Omni (4 Suits)	2021-02-20 — 23:09:09 UTC	4head, indego, kopen, Wittvector	3	4	20
 443520	4	0	Rainbow & Omni (6 Suits)	2021-02-20 — 22:46:20 UTC	4head, indego, kopen, Wittvector	6	6	30
 443498	4	0	Rainbow & Omni (6 Suits)	2021-02-20 — 22:31:23 UTC	4head, indego, kopen, Wittvector	8	6	30
-443474	3	29	Rainbow & Omni (6 Suits)	2021-02-20 — 22:02:29 UTC	indego, kopen, Wittvector	10	6	30
-443444	3	0	Rainbow & Omni (6 Suits)	2021-02-20 — 21:26:01 UTC	indego, kopen, Wittvector	10	6	30
-442552	4	0	No Variant	2021-02-20 — 01:10:37 UTC	indegoo, kopen, nwajfromoz, RaKXeR	278	5	25
-442488	3	0	No Variant	2021-02-20 — 00:28:31 UTC	kopen, nwajfromoz, RaKXeR	49	5	25
-442482	3	0	No Variant	2021-02-20 — 00:24:31 UTC	kopen, nwajfromoz, RaKXeR	50	5	25
-442480	4	0	No Variant	2021-02-20 — 00:22:55 UTC	kopen, Lanvin, nwajfromoz, RaKXeR	53	5	25
+443474	3	29	Rainbow & Omni (6 Suits)	2021-02-20 — 22:02:29 UTC	indego, kopen, Wittvector	11	6	30
+443444	3	0	Rainbow & Omni (6 Suits)	2021-02-20 — 21:26:01 UTC	indego, kopen, Wittvector	11	6	30
+442552	4	0	No Variant	2021-02-20 — 01:10:37 UTC	indegoo, kopen, nwajfromoz, RaKXeR	280	5	25
+442488	3	0	No Variant	2021-02-20 — 00:28:31 UTC	kopen, nwajfromoz, RaKXeR	51	5	25
+442482	3	0	No Variant	2021-02-20 — 00:24:31 UTC	kopen, nwajfromoz, RaKXeR	51	5	25
+442480	4	0	No Variant	2021-02-20 — 00:22:55 UTC	kopen, Lanvin, nwajfromoz, RaKXeR	55	5	25
 442475	4	23	No Variant	2021-02-20 — 00:14:47 UTC	kopen, Lanvin, nwajfromoz, RaKXeR	116	5	25
 442461	4	13	3 Suits	2021-02-19 — 23:57:13 UTC	indego, kopen, Lanvin, Wittvector	37	3	15
 441436	4	0	Gray Pink (5 Suits)	2021-02-19 — 01:11:40 UTC	kopen, Kyle, newduke, Zamiel	1	5	25
@@ -362,17 +374,17 @@
 84365	3	25	Rainbow-Ones (5 Suits)	2020-02-29 — 22:16:01 UTC	kopen, micerang, padi	1	5	25
 84364	2	25	Brown (5 Suits)	2020-02-29 — 21:58:56 UTC	kopen, micerang	50	5	25
 84284	4	30	Pink-Fives (6 Suits)	2020-02-29 — 05:36:37 UTC	DoubleDown11, Fireheart, kopen, Kyle	2	6	30
-84276	5	30	Pink (6 Suits)	2020-02-29 — 05:10:44 UTC	DoubleDown11, Fireheart, IAMJEFF, kopen, Kyle	29	6	30
+84276	5	30	Pink (6 Suits)	2020-02-29 — 05:10:44 UTC	DoubleDown11, Fireheart, IAMJEFF, kopen, Kyle	31	6	30
 84270	5	27	Throw It in a Hole (6 Suits)	2020-02-29 — 04:36:19 UTC	Fireheart, florrat2, IAMJEFF, kopen, Kyle	2	6	30
 84263	5	0	Throw It in a Hole (6 Suits)	2020-02-29 — 04:13:58 UTC	Fireheart, florrat2, IAMJEFF, kopen, Kyle	2	6	30
 84262	5	0	Throw It in a Hole (6 Suits)	2020-02-29 — 04:06:29 UTC	Fireheart, florrat2, IAMJEFF, kopen, Kyle	2	6	30
 84260	3	0	Throw It in a Hole (6 Suits)	2020-02-29 — 03:51:23 UTC	Fireheart, florrat2, kopen	10	6	30
 84167	4	0	Up or Down & Omni (5 Suits)	2020-02-28 — 06:40:40 UTC	Feer, kopen, micerang, Razvogor	8	5	25
 84166	4	25	Rainbow-Ones (5 Suits)	2020-02-28 — 06:31:37 UTC	Feer, kopen, micerang, Razvogor	1	5	25
-84161	4	20	White (4 Suits)	2020-02-28 — 06:04:21 UTC	DoubleDown11, Feer, kopen, micerang	34	4	20
-84148	3	20	White (4 Suits)	2020-02-28 — 05:45:26 UTC	DoubleDown11, Feer, kopen	46	4	20
-84116	3	19	White (4 Suits)	2020-02-28 — 05:23:32 UTC	DoubleDown11, Feer, kopen	59	4	20
-83468	4	28	Dual-Color Mix	2020-02-26 — 09:45:10 UTC	Dr_Kakashi, Fireheart, kopen, Maiorskills	11	6	30
+84161	4	20	White (4 Suits)	2020-02-28 — 06:04:21 UTC	DoubleDown11, Feer, kopen, micerang	35	4	20
+84148	3	20	White (4 Suits)	2020-02-28 — 05:45:26 UTC	DoubleDown11, Feer, kopen	47	4	20
+84116	3	19	White (4 Suits)	2020-02-28 — 05:23:32 UTC	DoubleDown11, Feer, kopen	62	4	20
+83468	4	28	Dual-Color Mix	2020-02-26 — 09:45:10 UTC	Dr_Kakashi, Fireheart, kopen, Maiorskills	12	6	30
 83467	4	20	Light Pink (4 Suits)	2020-02-26 — 09:15:11 UTC	Dr_Kakashi, duckmammal, Fireheart, kopen	2	4	20
 83466	4	0	Light Pink (4 Suits)	2020-02-26 — 08:57:11 UTC	Dr_Kakashi, duckmammal, Fireheart, kopen	2	4	20
 83464	4	0	Number Mute (6 Suits)	2020-02-26 — 08:42:27 UTC	Fireheart, IAMJEFF, kopen, Zamiel	1	6	30
@@ -384,7 +396,7 @@
 83457	4	0	Number Mute (6 Suits)	2020-02-26 — 07:47:55 UTC	Fireheart, IAMJEFF, kopen, Zamiel	1	6	30
 83456	4	0	Number Mute (6 Suits)	2020-02-26 — 07:29:30 UTC	Fireheart, IAMJEFF, kopen, Zamiel	1	6	30
 83455	4	0	Number Mute (6 Suits)	2020-02-26 — 07:23:43 UTC	Fireheart, IAMJEFF, kopen, Zamiel	1	6	30
-83271	4	0	Rainbow (5 Suits)	2020-02-25 — 04:13:32 UTC	DoubleDown11, kopen, Kyle, RaKXeR	30	5	25
+83271	4	0	Rainbow (5 Suits)	2020-02-25 — 04:13:32 UTC	DoubleDown11, kopen, Kyle, RaKXeR	31	5	25
 83266	4	0	No Variant	2020-02-25 — 03:44:23 UTC	DoubleDown11, kopen, Kyle, RaKXeR	12	5	25
 83263	4	25	No Variant	2020-02-25 — 03:42:10 UTC	DoubleDown11, kopen, Kyle, RaKXeR	12	5	25
 79477	4	14	Number Blind (3 Suits)	2020-02-12 — 08:11:07 UTC	Fireheart, IAMJEFF, kopen, Valetta6789	3	3	15
@@ -408,17 +420,17 @@
 77977	2	24	Dark Pink (5 Suits)	2020-02-06 — 06:30:58 UTC	kopen, micerang	33	5	25
 77973	2	22	Dark Pink (5 Suits)	2020-02-06 — 06:19:36 UTC	kopen, micerang	33	5	25
 77859	3	0	Dual-Color Mix	2020-02-05 — 03:46:58 UTC	Gazrovor, kopen, Nitrate	33	6	30
-77858	3	0	Dual-Color Mix	2020-02-05 — 03:33:14 UTC	Gazrovor, kopen, Nitrate	42	6	30
+77858	3	0	Dual-Color Mix	2020-02-05 — 03:33:14 UTC	Gazrovor, kopen, Nitrate	43	6	30
 77857	5	0	Rainbow (6 Suits)	2020-02-05 — 03:13:51 UTC	Gazrovor, Hyakinthus, kopen, Libster, Nitrate	2	6	30
 77776	3	24	Dark Pink (5 Suits)	2020-02-04 — 06:59:27 UTC	kopen, micerang, scharkbite	11	5	25
-77775	3	0	Dark Pink (5 Suits)	2020-02-04 — 06:47:34 UTC	kopen, micerang, scharkbite	10	5	25
-77774	3	0	Dark Pink (5 Suits)	2020-02-04 — 06:38:43 UTC	kopen, micerang, scharkbite	11	5	25
+77775	3	0	Dark Pink (5 Suits)	2020-02-04 — 06:47:34 UTC	kopen, micerang, scharkbite	11	5	25
+77774	3	0	Dark Pink (5 Suits)	2020-02-04 — 06:38:43 UTC	kopen, micerang, scharkbite	12	5	25
 77773	3	0	Dark Pink (5 Suits)	2020-02-04 — 06:28:18 UTC	kopen, micerang, scharkbite	17	5	25
 77772	3	23	Dark Pink (5 Suits)	2020-02-04 — 06:16:43 UTC	kopen, micerang, scharkbite	19	5	25
 77771	3	25	Pink & White (5 Suits)	2020-02-04 — 05:59:16 UTC	kodomazer, kopen, scharkbite	4	5	25
 77770	3	23	Pink & White (5 Suits)	2020-02-04 — 05:37:38 UTC	Feer, kopen, scharkbite	7	5	25
-77768	2	30	Black & Rainbow (6 Suits)	2020-02-04 — 05:13:28 UTC	kopen, scharkbite	71	6	30
-77765	2	27	Black & Rainbow (6 Suits)	2020-02-04 — 04:51:34 UTC	kopen, scharkbite	79	6	30
+77768	2	30	Black & Rainbow (6 Suits)	2020-02-04 — 05:13:28 UTC	kopen, scharkbite	73	6	30
+77765	2	27	Black & Rainbow (6 Suits)	2020-02-04 — 04:51:34 UTC	kopen, scharkbite	81	6	30
 77635	3	0	White & Null (6 Suits)	2020-02-03 — 11:16:48 UTC	Fireheart, IAMJEFF, kopen	1	6	30
 77634	3	0	White & Null (6 Suits)	2020-02-03 — 11:09:11 UTC	Fireheart, IAMJEFF, kopen	1	6	30
 77633	3	0	White & Null (6 Suits)	2020-02-03 — 11:06:01 UTC	Fireheart, IAMJEFF, kopen	1	6	30
@@ -429,45 +441,45 @@
 77627	3	0	White & Null (6 Suits)	2020-02-03 — 10:13:53 UTC	Fireheart, IAMJEFF, kopen	2	6	30
 77625	3	0	White & Null (6 Suits)	2020-02-03 — 10:07:48 UTC	Fireheart, IAMJEFF, kopen	3	6	30
 77312	3	29	Dark Rainbow (6 Suits)	2020-02-01 — 10:52:25 UTC	kopen, MasN, micerang	53	6	30
-77311	4	28	Dark Rainbow (6 Suits)	2020-02-01 — 10:13:22 UTC	Fireheart, kopen, MasN, micerang	17	6	30
+77311	4	28	Dark Rainbow (6 Suits)	2020-02-01 — 10:13:22 UTC	Fireheart, kopen, MasN, micerang	18	6	30
 77308	4	25	Black (5 Suits)	2020-02-01 — 09:42:33 UTC	Fireheart, kopen, MasN, micerang	32	5	25
 77307	3	0	Black & Rainbow (6 Suits)	2020-02-01 — 09:20:32 UTC	Fireheart, kopen, micerang	9	6	30
 77306	3	21	Black & Rainbow (5 Suits)	2020-02-01 — 08:59:29 UTC	Fireheart, kopen, micerang	2	5	25
 77305	2	23	Black & Rainbow (5 Suits)	2020-02-01 — 08:44:59 UTC	Fireheart, kopen	20	5	25
 77183	3	28	Black (6 Suits)	2020-01-31 — 06:25:29 UTC	duckmammal, kopen, RaKXeR	23	6	30
-77174	4	0	Black (6 Suits)	2020-01-31 — 05:55:39 UTC	duckmammal, Hm, kopen, RaKXeR	91	6	30
-77166	4	0	Black (6 Suits)	2020-01-31 — 05:44:17 UTC	duckmammal, Hm, kopen, RaKXeR	112	6	30
-77162	4	0	Black (6 Suits)	2020-01-31 — 05:40:04 UTC	duckmammal, Hm, kopen, RaKXeR	128	6	30
+77174	4	0	Black (6 Suits)	2020-01-31 — 05:55:39 UTC	duckmammal, Hm, kopen, RaKXeR	95	6	30
+77166	4	0	Black (6 Suits)	2020-01-31 — 05:44:17 UTC	duckmammal, Hm, kopen, RaKXeR	113	6	30
+77162	4	0	Black (6 Suits)	2020-01-31 — 05:40:04 UTC	duckmammal, Hm, kopen, RaKXeR	129	6	30
 76871	4	25	Black (5 Suits)	2020-01-29 — 04:51:01 UTC	Gazrovor, kopen, Libster, RaKXeR	19	5	25
 76765	3	0	Brown & Gray (6 Suits)	2020-01-28 — 10:09:53 UTC	Fireheart, Floriman, kopen	2	6	30
-76764	3	0	Brown & Gray (6 Suits)	2020-01-28 — 09:42:55 UTC	Fireheart, Floriman, kopen	4	6	30
-76763	3	0	Brown & Gray (6 Suits)	2020-01-28 — 09:30:15 UTC	Fireheart, Floriman, kopen	5	6	30
+76764	3	0	Brown & Gray (6 Suits)	2020-01-28 — 09:42:55 UTC	Fireheart, Floriman, kopen	5	6	30
+76763	3	0	Brown & Gray (6 Suits)	2020-01-28 — 09:30:15 UTC	Fireheart, Floriman, kopen	6	6	30
 76762	4	30	White & Brown (6 Suits)	2020-01-28 — 09:13:40 UTC	Fireheart, Floriman, kopen, sjdrodge	20	6	30
 76761	3	25	Black & White (5 Suits)	2020-01-28 — 08:50:06 UTC	Fireheart, kopen, sjdrodge	7	5	25
-76760	2	0	Black & White (5 Suits)	2020-01-28 — 08:38:02 UTC	Fireheart, kopen	31	5	25
-76730	6	0	Rainbow & White (6 Suits)	2020-01-28 — 02:32:44 UTC	Jake_Stiles, kopen, Kyle, MasN, Nitrate, scharkbite	4	6	30
-76728	5	27	Rainbow & White (6 Suits)	2020-01-28 — 02:11:42 UTC	Jake_Stiles, kopen, Kyle, Nitrate, scharkbite	6	6	30
+76760	2	0	Black & White (5 Suits)	2020-01-28 — 08:38:02 UTC	Fireheart, kopen	33	5	25
+76730	6	0	Rainbow & White (6 Suits)	2020-01-28 — 02:32:44 UTC	Jake_Stiles, kopen, Kyle, MasN, Nitrate, scharkbite	5	6	30
+76728	5	27	Rainbow & White (6 Suits)	2020-01-28 — 02:11:42 UTC	Jake_Stiles, kopen, Kyle, Nitrate, scharkbite	7	6	30
 76010	4	0	White (5 Suits)	2020-01-22 — 05:17:24 UTC	kopen, Kyle, MasN, scharkbite	12	5	25
-76008	4	0	White (5 Suits)	2020-01-22 — 04:56:36 UTC	kopen, Kyle, MasN, scharkbite	18	5	25
+76008	4	0	White (5 Suits)	2020-01-22 — 04:56:36 UTC	kopen, Kyle, MasN, scharkbite	19	5	25
 76007	5	24	White (5 Suits)	2020-01-22 — 04:39:20 UTC	hanabornoob, kopen, Kyle, MasN, scharkbite	3	5	25
 75848	2	25	Dark Pink (5 Suits)	2020-01-21 — 04:13:57 UTC	kopen, Libster	58	5	25
 75713	3	25	Dual-Color Mix	2020-01-19 — 10:41:01 UTC	Fireheart, kopen, Livia	16	6	30
 75712	3	0	Dual-Color Mix	2020-01-19 — 10:12:29 UTC	Fireheart, kopen, Livia	19	6	30
 75709	3	30	Ambiguous Mix	2020-01-19 — 09:45:17 UTC	Fireheart, kopen, Livia	5	6	30
 75707	3	25	Brown (5 Suits)	2020-01-19 — 09:23:18 UTC	Fireheart, kopen, Livia	23	5	25
-75698	3	0	Gray (6 Suits)	2020-01-19 — 06:10:43 UTC	kopen, Kyle, scharkbite	16	6	30
+75698	3	0	Gray (6 Suits)	2020-01-19 — 06:10:43 UTC	kopen, Kyle, scharkbite	19	6	30
 75696	4	27	Dark Brown (6 Suits)	2020-01-19 — 05:56:04 UTC	Jake_Stiles, kopen, Kyle, scharkbite	2	6	30
 75691	3	0	Dark Brown (6 Suits)	2020-01-19 — 05:07:09 UTC	Jake_Stiles, kopen, scharkbite	5	6	30
 75690	3	27	Dark Brown (6 Suits)	2020-01-19 — 04:46:08 UTC	Jake_Stiles, kopen, scharkbite	6	6	30
 75688	3	0	Dark Brown (6 Suits)	2020-01-19 — 04:28:05 UTC	Jake_Stiles, kopen, scharkbite	8	6	30
-75686	3	30	Dark Omni (6 Suits)	2020-01-19 — 04:07:46 UTC	Jake_Stiles, kopen, scharkbite	20	6	30
+75686	3	30	Dark Omni (6 Suits)	2020-01-19 — 04:07:46 UTC	Jake_Stiles, kopen, scharkbite	21	6	30
 75682	5	25	Brown (5 Suits)	2020-01-19 — 03:44:23 UTC	invarse, Jake_Stiles, kopen, Livia, scharkbite	4	5	25
 75564	4	0	Dual-Color Mix	2020-01-18 — 03:02:37 UTC	Fireheart, kopen, Kyle, scharkbite	4	6	30
-75562	3	28	Dual-Color Mix	2020-01-18 — 02:33:25 UTC	Fireheart, kopen, Kyle	17	6	30
+75562	3	28	Dual-Color Mix	2020-01-18 — 02:33:25 UTC	Fireheart, kopen, Kyle	18	6	30
 75559	3	0	Dual-Color Mix	2020-01-18 — 02:09:53 UTC	Fireheart, kopen, Kyle	20	6	30
 75552	2	0	Gray (5 Suits)	2020-01-18 — 00:17:30 UTC	hanabornoob, kopen	18	5	25
 75550	2	0	Gray (5 Suits)	2020-01-18 — 00:03:45 UTC	hanabornoob, kopen	20	5	25
-75494	5	0	Rainbow (6 Suits)	2020-01-17 — 04:23:57 UTC	kodomazer, kopen, MasN, micerang, scharkbite	11	6	30
+75494	5	0	Rainbow (6 Suits)	2020-01-17 — 04:23:57 UTC	kodomazer, kopen, MasN, micerang, scharkbite	12	6	30
 75492	4	0	Rainbow (5 Suits)	2020-01-17 — 03:48:49 UTC	kodomazer, kopen, MasN, micerang	5	5	25
 75490	4	23	Rainbow (5 Suits)	2020-01-17 — 03:20:34 UTC	kodomazer, kopen, MasN, micerang	6	5	25
 75451	3	0	Dark Rainbow (6 Suits)	2020-01-16 — 06:20:43 UTC	Feer, kopen, Kyle	62	6	30
@@ -479,10 +491,10 @@
 75329	6	0	Rainbow (5 Suits)	2020-01-14 — 22:39:38 UTC	Floriman, kopen, RaKXeR, Razvogor, scharkbite, sjdrodge	8	5	25
 75204	4	29	Ambiguous Mix	2020-01-14 — 01:34:17 UTC	kopen, Kyle, Libster, micerang	1	6	30
 75200	4	0	Ambiguous Mix	2020-01-14 — 01:11:06 UTC	kopen, Kyle, Libster, micerang	10	6	30
-75197	4	29	Ambiguous Mix	2020-01-14 — 00:53:17 UTC	Fireheart, kopen, Kyle, sjdrodge	18	6	30
-75146	3	0	No Variant	2020-01-13 — 02:30:33 UTC	DoubleDown11, kodomazer, kopen	199	5	25
-75145	3	25	No Variant	2020-01-13 — 02:07:54 UTC	DoubleDown11, kodomazer, kopen	218	5	25
-75142	3	0	No Variant	2020-01-13 — 01:40:37 UTC	DoubleDown11, kodomazer, kopen	220	5	25
+75197	4	29	Ambiguous Mix	2020-01-14 — 00:53:17 UTC	Fireheart, kopen, Kyle, sjdrodge	19	6	30
+75146	3	0	No Variant	2020-01-13 — 02:30:33 UTC	DoubleDown11, kodomazer, kopen	202	5	25
+75145	3	25	No Variant	2020-01-13 — 02:07:54 UTC	DoubleDown11, kodomazer, kopen	223	5	25
+75142	3	0	No Variant	2020-01-13 — 01:40:37 UTC	DoubleDown11, kodomazer, kopen	224	5	25
 75091	4	29	Dual-Color (6 Suits)	2020-01-12 — 12:22:57 UTC	asaelr, Dr_Kakashi, kopen, wortel	4	6	30
 75090	4	0	Dual-Color (6 Suits)	2020-01-12 — 11:53:23 UTC	asaelr, Dr_Kakashi, kopen, wortel	3	6	30
 75089	4	0	Dual-Color (6 Suits)	2020-01-12 — 11:29:38 UTC	asaelr, Dr_Kakashi, kopen, wortel	3	6	30
@@ -500,13 +512,13 @@
 74821	4	0	Rainbow (6 Suits)	2020-01-10 — 10:37:28 UTC	Dr_Kakashi, Floriman, Hyakinthus, kopen	19	6	30
 74820	4	0	Rainbow (6 Suits)	2020-01-10 — 10:24:47 UTC	Dr_Kakashi, Floriman, Hyakinthus, kopen	19	6	30
 74819	4	0	Rainbow (6 Suits)	2020-01-10 — 10:09:54 UTC	Dr_Kakashi, Floriman, Hyakinthus, kopen	26	6	30
-74818	3	0	Rainbow (6 Suits)	2020-01-10 — 09:41:41 UTC	Dr_Kakashi, Hyakinthus, kopen	35	6	30
+74818	3	0	Rainbow (6 Suits)	2020-01-10 — 09:41:41 UTC	Dr_Kakashi, Hyakinthus, kopen	37	6	30
 74816	3	0	Rainbow (6 Suits)	2020-01-10 — 09:13:45 UTC	Dr_Kakashi, Hyakinthus, kopen	40	6	30
-74814	4	30	Rainbow (6 Suits)	2020-01-10 — 08:44:24 UTC	Dr_Kakashi, Hyakinthus, kopen, sjdrodge	23	6	30
+74814	4	30	Rainbow (6 Suits)	2020-01-10 — 08:44:24 UTC	Dr_Kakashi, Hyakinthus, kopen, sjdrodge	24	6	30
 74799	4	0	Color Blind (5 Suits)	2020-01-10 — 03:05:57 UTC	kopen, Kyle, Libster, micerang	1	5	25
 74791	4	0	Color Blind (5 Suits)	2020-01-10 — 02:47:52 UTC	kopen, Kyle, Libster, micerang	1	5	25
 74790	4	0	Color Blind (5 Suits)	2020-01-10 — 02:37:31 UTC	kopen, Kyle, Libster, micerang	1	5	25
-74787	3	25	No Variant	2020-01-10 — 01:07:50 UTC	aladdin3, kopen, sjdrodge	63	5	25
+74787	3	25	No Variant	2020-01-10 — 01:07:50 UTC	aladdin3, kopen, sjdrodge	64	5	25
 74785	3	25	Rainbow & White (5 Suits)	2020-01-10 — 00:37:23 UTC	invarse, kopen, sjdrodge	4	5	25
 74784	3	14	Pink & Null (3 Suits)	2020-01-10 — 00:18:18 UTC	kopen, sjdrodge, Zamiel	4	3	15
 74572	4	25	Light Pink (5 Suits)	2020-01-08 — 04:36:29 UTC	kopen, Kyle, micerang, scharkbite	3	5	25
@@ -518,17 +530,17 @@
 74427	4	0	Rainbow-Ones (5 Suits)	2020-01-07 — 05:20:14 UTC	kopen, Kyle, micerang, Razvogor	1	5	25
 74402	3	0	Dark Pink (5 Suits)	2020-01-07 — 03:15:31 UTC	kopen, Kyle, Libster	12	5	25
 74400	3	0	Dark Pink (5 Suits)	2020-01-07 — 03:08:48 UTC	kopen, Kyle, micerang	16	5	25
-74396	3	22	Dark Pink (5 Suits)	2020-01-07 — 02:56:31 UTC	kopen, Kyle, micerang	22	5	25
-74391	3	0	Dark Pink (5 Suits)	2020-01-07 — 02:45:58 UTC	kopen, Kyle, micerang	26	5	25
+74396	3	22	Dark Pink (5 Suits)	2020-01-07 — 02:56:31 UTC	kopen, Kyle, micerang	23	5	25
+74391	3	0	Dark Pink (5 Suits)	2020-01-07 — 02:45:58 UTC	kopen, Kyle, micerang	27	5	25
 74390	3	24	Dark Pink (5 Suits)	2020-01-07 — 02:40:55 UTC	asaelr, kopen, micerang	38	5	25
-74386	3	24	Dark Pink (5 Suits)	2020-01-07 — 02:25:48 UTC	asaelr, kopen, micerang	42	5	25
+74386	3	24	Dark Pink (5 Suits)	2020-01-07 — 02:25:48 UTC	asaelr, kopen, micerang	44	5	25
 74382	3	25	Rainbow & Brown (5 Suits)	2020-01-07 — 02:12:12 UTC	asaelr, kopen, micerang	6	5	25
-74379	3	30	Black & Pink (6 Suits)	2020-01-07 — 01:57:39 UTC	asaelr, kopen, micerang	4	6	30
-74252	2	20	White (4 Suits)	2020-01-06 — 01:47:08 UTC	kopen, micerang	35	4	20
-74251	2	0	White (4 Suits)	2020-01-06 — 01:39:55 UTC	kopen, micerang	41	4	20
-74250	2	20	Pink (4 Suits)	2020-01-06 — 01:34:01 UTC	kopen, micerang	105	4	20
-74249	2	15	Rainbow (3 Suits)	2020-01-06 — 01:26:12 UTC	kopen, micerang	76	3	15
-74247	2	20	Rainbow (4 Suits)	2020-01-06 — 01:19:03 UTC	kopen, micerang	76	4	20
+74379	3	30	Black & Pink (6 Suits)	2020-01-07 — 01:57:39 UTC	asaelr, kopen, micerang	6	6	30
+74252	2	20	White (4 Suits)	2020-01-06 — 01:47:08 UTC	kopen, micerang	38	4	20
+74251	2	0	White (4 Suits)	2020-01-06 — 01:39:55 UTC	kopen, micerang	44	4	20
+74250	2	20	Pink (4 Suits)	2020-01-06 — 01:34:01 UTC	kopen, micerang	106	4	20
+74249	2	15	Rainbow (3 Suits)	2020-01-06 — 01:26:12 UTC	kopen, micerang	78	3	15
+74247	2	20	Rainbow (4 Suits)	2020-01-06 — 01:19:03 UTC	kopen, micerang	77	4	20
 74187	4	30	Omni (6 Suits)	2020-01-05 — 09:50:01 UTC	Dr_Kakashi, Floriman, kopen, micerang	13	6	30
 74186	4	0	Omni (6 Suits)	2020-01-05 — 09:30:49 UTC	Dr_Kakashi, Floriman, kopen, micerang	18	6	30
 74185	5	29	Omni (6 Suits)	2020-01-05 — 09:17:36 UTC	Dr_Kakashi, Feer, Floriman, kopen, micerang	5	6	30
@@ -544,9 +556,9 @@
 74149	2	24	Gray (5 Suits)	2020-01-05 — 05:56:44 UTC	kopen, scharkbite	25	5	25
 74147	2	22	Gray (5 Suits)	2020-01-05 — 05:48:05 UTC	kopen, scharkbite	25	5	25
 74144	2	22	Gray (5 Suits)	2020-01-05 — 05:36:04 UTC	kopen, scharkbite	29	5	25
-74141	2	23	Gray (5 Suits)	2020-01-05 — 05:25:33 UTC	kopen, scharkbite	34	5	25
+74141	2	23	Gray (5 Suits)	2020-01-05 — 05:25:33 UTC	kopen, scharkbite	35	5	25
 74138	2	20	Gray (5 Suits)	2020-01-05 — 05:17:57 UTC	kopen, scharkbite	33	5	25
-74136	2	23	Gray (5 Suits)	2020-01-05 — 05:07:46 UTC	kopen, scharkbite	39	5	25
+74136	2	23	Gray (5 Suits)	2020-01-05 — 05:07:46 UTC	kopen, scharkbite	40	5	25
 74133	2	20	Rainbow & White (4 Suits)	2020-01-05 — 04:57:35 UTC	kopen, scharkbite	6	4	20
 74105	3	0	Omni & Dark Rainbow (6 Suits)	2020-01-04 — 22:26:15 UTC	Feer, kopen, Zamiel	1	6	30
 74104	3	15	Brown & Omni (3 Suits)	2020-01-04 — 22:06:04 UTC	Feer, kopen, Zamiel	1	3	15
@@ -575,22 +587,22 @@
 74015	2	30	White & Omni (6 Suits)	2020-01-04 — 08:53:45 UTC	kopen, Zamiel	2	6	30
 74014	2	0	White & Omni (6 Suits)	2020-01-04 — 08:45:49 UTC	kopen, Zamiel	2	6	30
 74013	2	0	White & Omni (6 Suits)	2020-01-04 — 08:39:30 UTC	kopen, Zamiel	2	6	30
-74010	3	25	Dark Brown (5 Suits)	2020-01-04 — 08:02:54 UTC	kopen, micerang, sjdrodge	18	5	25
-74008	4	27	Dark Pink (6 Suits)	2020-01-04 — 07:47:49 UTC	kopen, Kyle, micerang, sjdrodge	11	6	30
+74010	3	25	Dark Brown (5 Suits)	2020-01-04 — 08:02:54 UTC	kopen, micerang, sjdrodge	19	5	25
+74008	4	27	Dark Pink (6 Suits)	2020-01-04 — 07:47:49 UTC	kopen, Kyle, micerang, sjdrodge	12	6	30
 74004	3	0	Pink & Brown (5 Suits)	2020-01-04 — 07:20:20 UTC	kopen, Kyle, micerang	11	5	25
 74002	3	0	Pink & Brown (5 Suits)	2020-01-04 — 07:10:59 UTC	kopen, Kyle, micerang	12	5	25
 74000	3	25	Black & Pink (5 Suits)	2020-01-04 — 06:56:14 UTC	kopen, Kyle, micerang	13	5	25
 73996	3	23	Black & Pink (5 Suits)	2020-01-04 — 06:38:52 UTC	kopen, Kyle, micerang	15	5	25
-73994	4	28	Black (6 Suits)	2020-01-04 — 06:15:15 UTC	Feer, kopen, Kyle, RaKXeR	77	6	30
+73994	4	28	Black (6 Suits)	2020-01-04 — 06:15:15 UTC	Feer, kopen, Kyle, RaKXeR	81	6	30
 73993	4	22	Black & Pink (5 Suits)	2020-01-04 — 05:47:03 UTC	Feer, kopen, Kyle, RaKXeR	3	5	25
 73989	4	0	Black & Pink (5 Suits)	2020-01-04 — 05:32:25 UTC	Feer, kopen, Kyle, RaKXeR	4	5	25
 73986	3	0	Black & Pink (5 Suits)	2020-01-04 — 05:21:48 UTC	Feer, kopen, Kyle	22	5	25
 73985	4	23	Black & Pink (5 Suits)	2020-01-04 — 05:00:52 UTC	Feer, kopen, Kyle, Libster	13	5	25
 73984	4	0	Black & Pink (5 Suits)	2020-01-04 — 04:36:06 UTC	Feer, kopen, Kyle, Libster	16	5	25
-73983	2	15	3 Suits	2020-01-04 — 04:18:46 UTC	kopen, Kyle	22	3	15
-73979	4	25	No Variant	2020-01-04 — 03:10:26 UTC	aladdin3, kopen, Kyle, TimeHoodie	131	5	25
-73977	4	24	No Variant	2020-01-04 — 02:26:17 UTC	aladdin3, kopen, Kyle, TimeHoodie	149	5	25
-73976	4	25	No Variant	2020-01-04 — 01:38:23 UTC	aladdin3, kopen, sjdrodge, TimeHoodie	27	5	25
+73983	2	15	3 Suits	2020-01-04 — 04:18:46 UTC	kopen, Kyle	23	3	15
+73979	4	25	No Variant	2020-01-04 — 03:10:26 UTC	aladdin3, kopen, Kyle, TimeHoodie	132	5	25
+73977	4	24	No Variant	2020-01-04 — 02:26:17 UTC	aladdin3, kopen, Kyle, TimeHoodie	150	5	25
+73976	4	25	No Variant	2020-01-04 — 01:38:23 UTC	aladdin3, kopen, sjdrodge, TimeHoodie	28	5	25
 73805	4	20	Rainbow-Ones & Pink (4 Suits)	2020-01-02 — 11:33:09 UTC	Dr_Kakashi, Fireheart, Floriman, kopen	1	4	20
 73804	4	0	Rainbow-Ones & Pink (4 Suits)	2020-01-02 — 11:20:26 UTC	Dr_Kakashi, Fireheart, Floriman, kopen	1	4	20
 73803	4	0	Rainbow-Ones & Pink (4 Suits)	2020-01-02 — 11:05:56 UTC	Dr_Kakashi, Fireheart, Floriman, kopen	2	4	20
@@ -614,8 +626,8 @@
 73319	4	25	Pink & Brown (5 Suits)	2019-12-29 — 20:13:57 UTC	kopen, micerang, Valetta6789, Zamiel	15	5	25
 73318	6	0	White (6 Suits)	2019-12-29 — 19:51:39 UTC	Dr_Kakashi, kopen, Livia, micerang, Valetta6789, Zamiel	2	6	30
 73316	6	30	Brown (6 Suits)	2019-12-29 — 19:27:30 UTC	kopen, Kyle, Livia, micerang, Valetta6789, Zamiel	5	6	30
-73229	3	22	No Variant	2019-12-29 — 01:25:46 UTC	aladdin3, kodomazer, kopen	224	5	25
-73227	2	22	No Variant	2019-12-29 — 00:46:02 UTC	aladdin3, kopen	976	5	25
+73229	3	22	No Variant	2019-12-29 — 01:25:46 UTC	aladdin3, kodomazer, kopen	227	5	25
+73227	2	22	No Variant	2019-12-29 — 00:46:02 UTC	aladdin3, kopen	985	5	25
 73051	4	0	Dual-Color (5 Suits)	2019-12-27 — 21:39:05 UTC	Dr_Kakashi, kopen, micerang, RaKXeR	14	5	25
 73050	3	0	Muddy Rainbow (5 Suits)	2019-12-27 — 21:25:11 UTC	Dr_Kakashi, kopen, micerang	10	5	25
 73047	5	0	Extremely Ambiguous (5 Suits)	2019-12-27 — 20:53:20 UTC	Dr_Kakashi, kopen, Livia, micerang, Valetta6789	2	5	25
@@ -628,35 +640,35 @@
 72959	2	0	Dark Rainbow (5 Suits)	2019-12-27 — 08:31:07 UTC	Dr_Kakashi, kopen	8	5	25
 72958	2	24	Dark Rainbow (5 Suits)	2019-12-27 — 08:16:23 UTC	Dr_Kakashi, kopen	8	5	25
 72957	2	0	Dark Rainbow (5 Suits)	2019-12-27 — 08:06:21 UTC	Dr_Kakashi, kopen	13	5	25
-72956	2	0	Dark Rainbow (5 Suits)	2019-12-27 — 08:01:26 UTC	Dr_Kakashi, kopen	16	5	25
+72956	2	0	Dark Rainbow (5 Suits)	2019-12-27 — 08:01:26 UTC	Dr_Kakashi, kopen	17	5	25
 72955	2	0	Dark Rainbow (5 Suits)	2019-12-27 — 07:53:10 UTC	Dr_Kakashi, kopen	21	5	25
 72954	2	0	Dark Rainbow (5 Suits)	2019-12-27 — 07:48:15 UTC	Dr_Kakashi, kopen	21	5	25
 72953	2	0	Dark Rainbow (5 Suits)	2019-12-27 — 07:39:00 UTC	Dr_Kakashi, kopen	25	5	25
-72951	2	0	Dark Rainbow (5 Suits)	2019-12-27 — 07:22:54 UTC	Dr_Kakashi, kopen	30	5	25
-72950	2	0	Dark Rainbow (5 Suits)	2019-12-27 — 07:12:01 UTC	Dr_Kakashi, kopen	39	5	25
-72949	2	0	Dark Rainbow (5 Suits)	2019-12-27 — 07:04:02 UTC	Dr_Kakashi, kopen	47	5	25
-72947	2	0	Dark Rainbow (5 Suits)	2019-12-27 — 06:53:57 UTC	Dr_Kakashi, kopen	71	5	25
-72946	2	0	Dark Rainbow (5 Suits)	2019-12-27 — 06:49:29 UTC	Dr_Kakashi, kopen	79	5	25
+72951	2	0	Dark Rainbow (5 Suits)	2019-12-27 — 07:22:54 UTC	Dr_Kakashi, kopen	32	5	25
+72950	2	0	Dark Rainbow (5 Suits)	2019-12-27 — 07:12:01 UTC	Dr_Kakashi, kopen	41	5	25
+72949	2	0	Dark Rainbow (5 Suits)	2019-12-27 — 07:04:02 UTC	Dr_Kakashi, kopen	49	5	25
+72947	2	0	Dark Rainbow (5 Suits)	2019-12-27 — 06:53:57 UTC	Dr_Kakashi, kopen	72	5	25
+72946	2	0	Dark Rainbow (5 Suits)	2019-12-27 — 06:49:29 UTC	Dr_Kakashi, kopen	80	5	25
 72908	4	28	Black & White (6 Suits)	2019-12-26 — 22:49:21 UTC	asaelr, kopen, Kyle, Livia	8	6	30
-72907	4	0	Black & White (6 Suits)	2019-12-26 — 22:27:52 UTC	asaelr, kopen, Kyle, Livia	7	6	30
+72907	4	0	Black & White (6 Suits)	2019-12-26 — 22:27:52 UTC	asaelr, kopen, Kyle, Livia	8	6	30
 72906	5	27	Dark Rainbow (6 Suits)	2019-12-26 — 22:03:56 UTC	asaelr, Floriman, kopen, Kyle, Livia	14	6	30
-72905	5	0	Dark Rainbow (6 Suits)	2019-12-26 — 21:43:41 UTC	asaelr, Floriman, kopen, Kyle, Livia	18	6	30
-72904	5	0	Dark Rainbow (6 Suits)	2019-12-26 — 21:30:01 UTC	asaelr, Floriman, kopen, Kyle, Livia	23	6	30
+72905	5	0	Dark Rainbow (6 Suits)	2019-12-26 — 21:43:41 UTC	asaelr, Floriman, kopen, Kyle, Livia	19	6	30
+72904	5	0	Dark Rainbow (6 Suits)	2019-12-26 — 21:30:01 UTC	asaelr, Floriman, kopen, Kyle, Livia	24	6	30
 72902	6	0	Rainbow (5 Suits)	2019-12-26 — 21:13:27 UTC	asaelr, darkenblade986, Dr_Kakashi, Floriman, IAMJEFF, kopen	9	5	25
-72808	3	25	Gray (5 Suits)	2019-12-26 — 08:41:06 UTC	kopen, micerang, Valetta6789	21	5	25
+72808	3	25	Gray (5 Suits)	2019-12-26 — 08:41:06 UTC	kopen, micerang, Valetta6789	23	5	25
 72807	3	21	Gray (5 Suits)	2019-12-26 — 08:22:52 UTC	kopen, micerang, Valetta6789	26	5	25
 72805	4	26	Dark Brown (6 Suits)	2019-12-26 — 07:56:11 UTC	Dr_Kakashi, kopen, micerang, Valetta6789	15	6	30
 72803	4	29	Dark Brown (6 Suits)	2019-12-26 — 07:24:29 UTC	Dr_Kakashi, kopen, micerang, Valetta6789	15	6	30
 72800	4	30	Rainbow & Dark Pink (6 Suits)	2019-12-26 — 06:52:48 UTC	Dr_Kakashi, kopen, micerang, Valetta6789	8	6	30
-71663	4	23	No Variant	2019-12-18 — 05:10:26 UTC	iforgotmypass, jshulman7, kopen, smatoff	541	5	25
-71080	5	23	No Variant	2019-12-15 — 11:11:49 UTC	alihuang, jshulman7, kopen, messinator, smatoff	163	5	25
-71076	5	0	No Variant	2019-12-15 — 10:19:07 UTC	alihuang, jshulman7, kopen, messinator, smatoff	176	5	25
-71071	5	0	No Variant	2019-12-15 — 09:28:07 UTC	alihuang, jshulman7, kopen, messinator, smatoff	207	5	25
-69153	2	23	Gray (5 Suits)	2019-12-06 — 06:49:58 UTC	Feer, kopen	51	5	25
-69152	2	0	Gray (5 Suits)	2019-12-06 — 06:38:10 UTC	Feer, kopen	58	5	25
-69151	2	0	Gray (5 Suits)	2019-12-06 — 06:29:41 UTC	Feer, kopen	66	5	25
-69150	2	0	Gray (5 Suits)	2019-12-06 — 06:24:04 UTC	Feer, kopen	79	5	25
-69149	3	22	Gray (5 Suits)	2019-12-06 — 06:12:49 UTC	Feer, hanabornoob, kopen	42	5	25
+71663	4	23	No Variant	2019-12-18 — 05:10:26 UTC	iforgotmypass, jshulman7, kopen, smatoff	548	5	25
+71080	5	23	No Variant	2019-12-15 — 11:11:49 UTC	alihuang, jshulman7, kopen, messinator, smatoff	166	5	25
+71076	5	0	No Variant	2019-12-15 — 10:19:07 UTC	alihuang, jshulman7, kopen, messinator, smatoff	178	5	25
+71071	5	0	No Variant	2019-12-15 — 09:28:07 UTC	alihuang, jshulman7, kopen, messinator, smatoff	208	5	25
+69153	2	23	Gray (5 Suits)	2019-12-06 — 06:49:58 UTC	Feer, kopen	52	5	25
+69152	2	0	Gray (5 Suits)	2019-12-06 — 06:38:10 UTC	Feer, kopen	59	5	25
+69151	2	0	Gray (5 Suits)	2019-12-06 — 06:29:41 UTC	Feer, kopen	67	5	25
+69150	2	0	Gray (5 Suits)	2019-12-06 — 06:24:04 UTC	Feer, kopen	80	5	25
+69149	3	22	Gray (5 Suits)	2019-12-06 — 06:12:49 UTC	Feer, hanabornoob, kopen	44	5	25
 67637	4	0	Rainbow (5 Suits)	2019-12-01 — 05:39:47 UTC	kopen, Libster, Razvogor, scharkbite	5	5	25
 67589	2	0	Ambiguous & Dual-Color	2019-12-01 — 00:42:52 UTC	kopen, Zamiel	13	6	30
 67587	2	0	Ambiguous & Dual-Color	2019-12-01 — 00:38:02 UTC	kopen, Zamiel	15	6	30
@@ -672,7 +684,7 @@
 67577	2	0	Color Mute (5 Suits)	2019-11-30 — 23:48:43 UTC	kopen, Zamiel	5	5	25
 67576	2	0	Color Mute (5 Suits)	2019-11-30 — 23:47:09 UTC	kopen, Zamiel	6	5	25
 67575	2	0	Color Mute (5 Suits)	2019-11-30 — 23:43:12 UTC	kopen, Zamiel	7	5	25
-67574	2	15	Very Ambiguous (3 Suits)	2019-11-30 — 23:37:07 UTC	kopen, Zamiel	20	3	15
+67574	2	15	Very Ambiguous (3 Suits)	2019-11-30 — 23:37:07 UTC	kopen, Zamiel	21	3	15
 67573	3	0	Very Ambiguous (3 Suits)	2019-11-30 — 23:33:34 UTC	Floriman, kopen, Zamiel	1	3	15
 67572	3	13	Very Ambiguous (3 Suits)	2019-11-30 — 23:28:36 UTC	Floriman, kopen, Zamiel	1	3	15
 67571	3	0	Very Ambiguous (3 Suits)	2019-11-30 — 23:20:40 UTC	Floriman, kopen, Zamiel	1	3	15
@@ -695,7 +707,7 @@
 67390	2	0	Brown & Omni (5 Suits)	2019-11-29 — 16:57:26 UTC	IAMJEFF, kopen	3	5	25
 67389	2	0	Brown & Omni (5 Suits)	2019-11-29 — 16:54:26 UTC	IAMJEFF, kopen	5	5	25
 67388	2	0	Brown & Omni (5 Suits)	2019-11-29 — 16:51:27 UTC	IAMJEFF, kopen	6	5	25
-67387	2	20	Brown & Omni (4 Suits)	2019-11-29 — 16:42:10 UTC	IAMJEFF, kopen	8	4	20
+67387	2	20	Brown & Omni (4 Suits)	2019-11-29 — 16:42:10 UTC	IAMJEFF, kopen	9	4	20
 67386	2	25	Black & Brown (5 Suits)	2019-11-29 — 16:35:48 UTC	IAMJEFF, kopen	10	5	25
 67384	2	0	Black & Brown (5 Suits)	2019-11-29 — 16:29:51 UTC	IAMJEFF, kopen	10	5	25
 67382	2	0	Black & Brown (5 Suits)	2019-11-29 — 16:25:09 UTC	IAMJEFF, kopen	10	5	25
@@ -704,44 +716,44 @@
 67379	2	0	Black & Brown (5 Suits)	2019-11-29 — 16:19:28 UTC	IAMJEFF, kopen	17	5	25
 67378	2	0	Black & Brown (5 Suits)	2019-11-29 — 16:18:42 UTC	IAMJEFF, kopen	18	5	25
 67377	2	0	Black & Brown (5 Suits)	2019-11-29 — 16:12:54 UTC	IAMJEFF, kopen	17	5	25
-67376	2	0	Black & Brown (5 Suits)	2019-11-29 — 16:08:54 UTC	IAMJEFF, kopen	18	5	25
-67375	2	0	Black & Brown (5 Suits)	2019-11-29 — 16:06:04 UTC	IAMJEFF, kopen	22	5	25
-67374	2	0	Black & Brown (5 Suits)	2019-11-29 — 16:02:55 UTC	IAMJEFF, kopen	27	5	25
+67376	2	0	Black & Brown (5 Suits)	2019-11-29 — 16:08:54 UTC	IAMJEFF, kopen	20	5	25
+67375	2	0	Black & Brown (5 Suits)	2019-11-29 — 16:06:04 UTC	IAMJEFF, kopen	24	5	25
+67374	2	0	Black & Brown (5 Suits)	2019-11-29 — 16:02:55 UTC	IAMJEFF, kopen	28	5	25
 67373	2	30	Black & Brown (6 Suits)	2019-11-29 — 15:56:35 UTC	IAMJEFF, kopen	8	6	30
 67371	2	0	Black & Brown (6 Suits)	2019-11-29 — 15:49:59 UTC	IAMJEFF, kopen	8	6	30
 67370	2	0	Black & Brown (6 Suits)	2019-11-29 — 15:48:51 UTC	IAMJEFF, kopen	10	6	30
 67369	3	0	Black & Brown (6 Suits)	2019-11-29 — 15:42:37 UTC	Ahming, IAMJEFF, kopen	4	6	30
 67367	3	0	Black & Brown (6 Suits)	2019-11-29 — 15:30:41 UTC	Ahming, IAMJEFF, kopen	16	6	30
-66914	3	0	White (5 Suits)	2019-11-27 — 07:59:05 UTC	kopen, schroedz, smatoff	29	5	25
-66913	3	0	White (5 Suits)	2019-11-27 — 07:48:02 UTC	kopen, schroedz, smatoff	35	5	25
-66912	3	0	White (5 Suits)	2019-11-27 — 07:40:12 UTC	kopen, schroedz, smatoff	48	5	25
-66911	3	25	No Variant	2019-11-27 — 07:19:44 UTC	kopen, schroedz, smatoff	243	5	25
-66910	3	0	No Variant	2019-11-27 — 07:05:01 UTC	kopen, schroedz, smatoff	250	5	25
-66909	3	0	No Variant	2019-11-27 — 06:54:17 UTC	kopen, schroedz, smatoff	259	5	25
-66908	3	25	No Variant	2019-11-27 — 06:39:30 UTC	kopen, schroedz, smatoff	269	5	25
-66907	3	25	No Variant	2019-11-27 — 06:23:52 UTC	kopen, schroedz, smatoff	275	5	25
-66906	3	0	No Variant	2019-11-27 — 06:04:14 UTC	kopen, schroedz, smatoff	285	5	25
-66905	3	0	No Variant	2019-11-27 — 05:47:41 UTC	kopen, schroedz, smatoff	307	5	25
-66904	2	25	No Variant	2019-11-27 — 05:23:22 UTC	kopen, smatoff	593	5	25
-66903	2	0	No Variant	2019-11-27 — 05:05:53 UTC	kopen, smatoff	597	5	25
-66902	2	0	No Variant	2019-11-27 — 04:57:06 UTC	kopen, smatoff	626	5	25
-66898	2	0	No Variant	2019-11-27 — 04:40:39 UTC	kopen, smatoff	654	5	25
-66896	2	0	No Variant	2019-11-27 — 04:00:45 UTC	kopen, smatoff	677	5	25
-66894	2	0	No Variant	2019-11-27 — 03:45:23 UTC	kopen, smatoff	699	5	25
-66892	2	0	No Variant	2019-11-27 — 03:34:43 UTC	kopen, smatoff	719	5	25
-66779	3	24	No Variant	2019-11-26 — 06:06:53 UTC	Fireheart, kopen, schroedz	206	5	25
-66775	3	0	No Variant	2019-11-26 — 05:47:16 UTC	Fireheart, kopen, schroedz	213	5	25
+66914	3	0	White (5 Suits)	2019-11-27 — 07:59:05 UTC	kopen, schroedz, smatoff	30	5	25
+66913	3	0	White (5 Suits)	2019-11-27 — 07:48:02 UTC	kopen, schroedz, smatoff	37	5	25
+66912	3	0	White (5 Suits)	2019-11-27 — 07:40:12 UTC	kopen, schroedz, smatoff	52	5	25
+66911	3	25	No Variant	2019-11-27 — 07:19:44 UTC	kopen, schroedz, smatoff	246	5	25
+66910	3	0	No Variant	2019-11-27 — 07:05:01 UTC	kopen, schroedz, smatoff	252	5	25
+66909	3	0	No Variant	2019-11-27 — 06:54:17 UTC	kopen, schroedz, smatoff	261	5	25
+66908	3	25	No Variant	2019-11-27 — 06:39:30 UTC	kopen, schroedz, smatoff	272	5	25
+66907	3	25	No Variant	2019-11-27 — 06:23:52 UTC	kopen, schroedz, smatoff	277	5	25
+66906	3	0	No Variant	2019-11-27 — 06:04:14 UTC	kopen, schroedz, smatoff	287	5	25
+66905	3	0	No Variant	2019-11-27 — 05:47:41 UTC	kopen, schroedz, smatoff	311	5	25
+66904	2	25	No Variant	2019-11-27 — 05:23:22 UTC	kopen, smatoff	604	5	25
+66903	2	0	No Variant	2019-11-27 — 05:05:53 UTC	kopen, smatoff	609	5	25
+66902	2	0	No Variant	2019-11-27 — 04:57:06 UTC	kopen, smatoff	637	5	25
+66898	2	0	No Variant	2019-11-27 — 04:40:39 UTC	kopen, smatoff	664	5	25
+66896	2	0	No Variant	2019-11-27 — 04:00:45 UTC	kopen, smatoff	683	5	25
+66894	2	0	No Variant	2019-11-27 — 03:45:23 UTC	kopen, smatoff	705	5	25
+66892	2	0	No Variant	2019-11-27 — 03:34:43 UTC	kopen, smatoff	725	5	25
+66779	3	24	No Variant	2019-11-26 — 06:06:53 UTC	Fireheart, kopen, schroedz	209	5	25
+66775	3	0	No Variant	2019-11-26 — 05:47:16 UTC	Fireheart, kopen, schroedz	218	5	25
 66774	3	24	No Variant	2019-11-26 — 05:32:02 UTC	kopen, schroedz, Zamiel	6	5	25
-66772	2	0	No Variant	2019-11-26 — 05:15:17 UTC	kopen, schroedz	883	5	25
-66771	3	0	No Variant	2019-11-26 — 05:12:16 UTC	kopen, schroedz, smatoff	320	5	25
-66768	3	0	No Variant	2019-11-26 — 05:05:08 UTC	kopen, schroedz, smatoff	324	5	25
-66766	3	0	No Variant	2019-11-26 — 04:49:42 UTC	kopen, schroedz, smatoff	354	5	25
-66763	3	0	No Variant	2019-11-26 — 04:36:00 UTC	kopen, schroedz, smatoff	375	5	25
-66754	3	27	White & Dark Brown (6 Suits)	2019-11-26 — 03:35:53 UTC	Fireheart, kopen, Romain672	3	6	30
-66750	3	0	White & Dark Brown (6 Suits)	2019-11-26 — 03:14:32 UTC	Fireheart, kopen, Romain672	4	6	30
+66772	2	0	No Variant	2019-11-26 — 05:15:17 UTC	kopen, schroedz	890	5	25
+66771	3	0	No Variant	2019-11-26 — 05:12:16 UTC	kopen, schroedz, smatoff	324	5	25
+66768	3	0	No Variant	2019-11-26 — 05:05:08 UTC	kopen, schroedz, smatoff	330	5	25
+66766	3	0	No Variant	2019-11-26 — 04:49:42 UTC	kopen, schroedz, smatoff	359	5	25
+66763	3	0	No Variant	2019-11-26 — 04:36:00 UTC	kopen, schroedz, smatoff	380	5	25
+66754	3	27	White & Dark Brown (6 Suits)	2019-11-26 — 03:35:53 UTC	Fireheart, kopen, Romain672	4	6	30
+66750	3	0	White & Dark Brown (6 Suits)	2019-11-26 — 03:14:32 UTC	Fireheart, kopen, Romain672	5	6	30
 66747	3	25	Black & Omni (5 Suits)	2019-11-26 — 02:57:32 UTC	Fireheart, kopen, Romain672	4	5	25
 66744	3	0	Black & Omni (5 Suits)	2019-11-26 — 02:42:53 UTC	Fireheart, kopen, Romain672	4	5	25
-66741	3	21	Black & Omni (5 Suits)	2019-11-26 — 02:37:39 UTC	Fireheart, kopen, Romain672	6	5	25
+66741	3	21	Black & Omni (5 Suits)	2019-11-26 — 02:37:39 UTC	Fireheart, kopen, Romain672	7	5	25
 66737	3	20	Extremely Ambiguous (4 Suits)	2019-11-26 — 02:23:19 UTC	Fireheart, kopen, Romain672	10	4	20
 66682	4	0	Brown & Gray (5 Suits)	2019-11-25 — 11:35:33 UTC	asaelr, Dr_Kakashi, kopen, Valetta6789	1	5	25
 66681	4	0	Brown & Gray (5 Suits)	2019-11-25 — 11:11:25 UTC	asaelr, Dr_Kakashi, kopen, Valetta6789	1	5	25
@@ -756,24 +768,24 @@
 66672	4	0	Brown & Gray (5 Suits)	2019-11-25 — 09:12:28 UTC	Dr_Kakashi, Fireheart, kopen, Valetta6789	2	5	25
 66575	4	20	Rainbow (4 Suits)	2019-11-24 — 22:09:50 UTC	DMoney, Floriman, kopen, Livia	17	4	20
 66571	4	19	Rainbow (4 Suits)	2019-11-24 — 21:46:03 UTC	DMoney, Floriman, kopen, Livia	19	4	20
-66567	3	0	Rainbow (4 Suits)	2019-11-24 — 21:27:58 UTC	DMoney, Floriman, kopen	43	4	20
-66566	5	0	No Variant	2019-11-24 — 20:47:38 UTC	an94, DMoney, Floriman, honzas, kopen	195	5	25
+66567	3	0	Rainbow (4 Suits)	2019-11-24 — 21:27:58 UTC	DMoney, Floriman, kopen	45	4	20
+66566	5	0	No Variant	2019-11-24 — 20:47:38 UTC	an94, DMoney, Floriman, honzas, kopen	198	5	25
 66523	3	20	Brown & Omni (4 Suits)	2019-11-24 — 11:05:30 UTC	Dr_Kakashi, IAMJEFF, kopen	3	4	20
 66522	3	0	Brown & Omni (4 Suits)	2019-11-24 — 10:52:13 UTC	Dr_Kakashi, IAMJEFF, kopen	4	4	20
 66521	3	15	Brown & Omni (3 Suits)	2019-11-24 — 10:41:53 UTC	Dr_Kakashi, IAMJEFF, kopen	3	3	15
 66520	4	20	Pink (4 Suits)	2019-11-24 — 10:23:31 UTC	Dr_Kakashi, kopen, Livia, Valetta6789	5	4	20
 66519	4	25	Muddy Rainbow (5 Suits)	2019-11-24 — 09:58:34 UTC	Dr_Kakashi, kopen, Livia, Valetta6789	18	5	25
-66516	3	20	No Variant	2019-11-24 — 09:27:17 UTC	iforgotmypass, jshulman7, kopen	386	5	25
-66512	3	0	No Variant	2019-11-24 — 08:58:38 UTC	iforgotmypass, jshulman7, kopen	411	5	25
-66508	5	25	No Variant	2019-11-24 — 08:23:08 UTC	iforgotmypass, jshulman7, kopen, messinator, smatoff	223	5	25
-66506	5	24	No Variant	2019-11-24 — 07:48:39 UTC	iforgotmypass, jshulman7, kopen, messinator, smatoff	262	5	25
-66503	5	22	No Variant	2019-11-24 — 07:14:51 UTC	iforgotmypass, jshulman7, kopen, messinator, smatoff	296	5	25
-66497	5	0	No Variant	2019-11-24 — 06:42:03 UTC	iforgotmypass, jshulman7, kopen, messinator, smatoff	344	5	25
-66490	5	24	No Variant	2019-11-24 — 06:19:42 UTC	iforgotmypass, jshulman7, kopen, messinator, smatoff	457	5	25
-66478	3	20	No Variant	2019-11-24 — 05:43:49 UTC	jshulman7, kopen, smatoff	451	5	25
-66473	4	23	No Variant	2019-11-24 — 05:11:18 UTC	jshulman7, kopen, OrangeMagma, smatoff	793	5	25
-66464	3	0	No Variant	2019-11-24 — 04:34:19 UTC	jshulman7, kopen, smatoff	516	5	25
-66462	3	20	Muddy Rainbow (4 Suits)	2019-11-24 — 03:58:27 UTC	IAMJEFF, kopen, scharkbite	29	4	20
+66516	3	20	No Variant	2019-11-24 — 09:27:17 UTC	iforgotmypass, jshulman7, kopen	392	5	25
+66512	3	0	No Variant	2019-11-24 — 08:58:38 UTC	iforgotmypass, jshulman7, kopen	417	5	25
+66508	5	25	No Variant	2019-11-24 — 08:23:08 UTC	iforgotmypass, jshulman7, kopen, messinator, smatoff	226	5	25
+66506	5	24	No Variant	2019-11-24 — 07:48:39 UTC	iforgotmypass, jshulman7, kopen, messinator, smatoff	265	5	25
+66503	5	22	No Variant	2019-11-24 — 07:14:51 UTC	iforgotmypass, jshulman7, kopen, messinator, smatoff	302	5	25
+66497	5	0	No Variant	2019-11-24 — 06:42:03 UTC	iforgotmypass, jshulman7, kopen, messinator, smatoff	348	5	25
+66490	5	24	No Variant	2019-11-24 — 06:19:42 UTC	iforgotmypass, jshulman7, kopen, messinator, smatoff	461	5	25
+66478	3	20	No Variant	2019-11-24 — 05:43:49 UTC	jshulman7, kopen, smatoff	456	5	25
+66473	4	23	No Variant	2019-11-24 — 05:11:18 UTC	jshulman7, kopen, OrangeMagma, smatoff	800	5	25
+66464	3	0	No Variant	2019-11-24 — 04:34:19 UTC	jshulman7, kopen, smatoff	523	5	25
+66462	3	20	Muddy Rainbow (4 Suits)	2019-11-24 — 03:58:27 UTC	IAMJEFF, kopen, scharkbite	31	4	20
 66458	4	0	Number Mute (6 Suits)	2019-11-24 — 03:26:15 UTC	IAMJEFF, kopen, Livia, Razvogor	1	6	30
 66457	4	0	Number Mute (6 Suits)	2019-11-24 — 03:15:31 UTC	IAMJEFF, kopen, Livia, Razvogor	1	6	30
 66455	3	0	Number Mute (6 Suits)	2019-11-24 — 02:54:20 UTC	kopen, Livia, Razvogor	2	6	30
@@ -782,25 +794,25 @@
 66451	3	0	Number Mute (6 Suits)	2019-11-24 — 01:59:57 UTC	kopen, Livia, Zamiel	2	6	30
 66450	3	0	Number Mute (6 Suits)	2019-11-24 — 01:54:30 UTC	kopen, Livia, Zamiel	2	6	30
 66449	3	0	Brown & Omni (5 Suits)	2019-11-24 — 01:50:00 UTC	kopen, Livia, Zamiel	3	5	25
-66411	5	23	No Variant	2019-11-23 — 23:10:24 UTC	jshulman7, kopen, messinator, schroedz, smatoff	837	5	25
-66403	5	0	No Variant	2019-11-23 — 22:35:05 UTC	jshulman7, kopen, messinator, schroedz, smatoff	1510	5	25
-66400	5	0	No Variant	2019-11-23 — 22:23:46 UTC	jshulman7, kopen, messinator, schroedz, smatoff	1995	5	25
-66190	4	0	No Variant	2019-11-23 — 05:53:47 UTC	jshulman7, kopen, messinator, smatoff	899	5	25
-66183	4	24	No Variant	2019-11-23 — 04:50:23 UTC	jshulman7, kopen, messinator, smatoff	985	5	25
-66180	4	21	No Variant	2019-11-23 — 04:05:19 UTC	jshulman7, kopen, messinator, smatoff	1253	5	25
-66089	4	30	Brown (6 Suits)	2019-11-22 — 16:56:12 UTC	honzas, IAMJEFF, Jake_Stiles, kopen	14	6	30
+66411	5	23	No Variant	2019-11-23 — 23:10:24 UTC	jshulman7, kopen, messinator, schroedz, smatoff	845	5	25
+66403	5	0	No Variant	2019-11-23 — 22:35:05 UTC	jshulman7, kopen, messinator, schroedz, smatoff	1518	5	25
+66400	5	0	No Variant	2019-11-23 — 22:23:46 UTC	jshulman7, kopen, messinator, schroedz, smatoff	2011	5	25
+66190	4	0	No Variant	2019-11-23 — 05:53:47 UTC	jshulman7, kopen, messinator, smatoff	908	5	25
+66183	4	24	No Variant	2019-11-23 — 04:50:23 UTC	jshulman7, kopen, messinator, smatoff	994	5	25
+66180	4	21	No Variant	2019-11-23 — 04:05:19 UTC	jshulman7, kopen, messinator, smatoff	1267	5	25
+66089	4	30	Brown (6 Suits)	2019-11-22 — 16:56:12 UTC	honzas, IAMJEFF, Jake_Stiles, kopen	15	6	30
 66088	4	0	Brown (6 Suits)	2019-11-22 — 16:33:54 UTC	honzas, IAMJEFF, Jake_Stiles, kopen	16	6	30
 66087	3	0	Muddy Rainbow (5 Suits)	2019-11-22 — 16:22:40 UTC	IAMJEFF, Jake_Stiles, kopen	46	5	25
 66085	2	0	Pink & White (6 Suits)	2019-11-22 — 16:12:12 UTC	IAMJEFF, kopen	31	6	30
-66084	2	25	Pink & White (5 Suits)	2019-11-22 — 16:04:36 UTC	IAMJEFF, kopen	16	5	25
-66082	2	0	Pink & White (5 Suits)	2019-11-22 — 15:58:58 UTC	IAMJEFF, kopen	24	5	25
-66081	2	0	Pink & White (5 Suits)	2019-11-22 — 15:56:11 UTC	IAMJEFF, kopen	31	5	25
+66084	2	25	Pink & White (5 Suits)	2019-11-22 — 16:04:36 UTC	IAMJEFF, kopen	17	5	25
+66082	2	0	Pink & White (5 Suits)	2019-11-22 — 15:58:58 UTC	IAMJEFF, kopen	26	5	25
+66081	2	0	Pink & White (5 Suits)	2019-11-22 — 15:56:11 UTC	IAMJEFF, kopen	33	5	25
 66080	4	0	Brown (6 Suits)	2019-11-22 — 15:45:42 UTC	IAMJEFF, Jake_Stiles, kopen, Valetta6789	17	6	30
 66079	4	0	Brown (6 Suits)	2019-11-22 — 15:35:30 UTC	IAMJEFF, Jake_Stiles, kopen, Valetta6789	21	6	30
-65817	3	25	White (5 Suits)	2019-11-21 — 04:41:39 UTC	iforgotmypass, kopen, smatoff	61	5	25
-65812	3	0	White (5 Suits)	2019-11-21 — 04:14:30 UTC	iforgotmypass, kopen, smatoff	81	5	25
-65802	4	25	No Variant	2019-11-21 — 03:49:22 UTC	iforgotmypass, kopen, messinator, smatoff	1449	5	25
-65794	4	0	No Variant	2019-11-21 — 03:19:33 UTC	iforgotmypass, kopen, messinator, smatoff	1744	5	25
+65817	3	25	White (5 Suits)	2019-11-21 — 04:41:39 UTC	iforgotmypass, kopen, smatoff	65	5	25
+65812	3	0	White (5 Suits)	2019-11-21 — 04:14:30 UTC	iforgotmypass, kopen, smatoff	84	5	25
+65802	4	25	No Variant	2019-11-21 — 03:49:22 UTC	iforgotmypass, kopen, messinator, smatoff	1459	5	25
+65794	4	0	No Variant	2019-11-21 — 03:19:33 UTC	iforgotmypass, kopen, messinator, smatoff	1759	5	25
 65707	3	30	Black & Dark Rainbow (6 Suits)	2019-11-20 — 08:31:39 UTC	Dr_Kakashi, Floriman, kopen	14	6	30
 65704	3	0	Black & Dark Rainbow (6 Suits)	2019-11-20 — 08:09:47 UTC	Dr_Kakashi, Floriman, kopen	21	6	30
 65703	3	0	Black & Dark Rainbow (6 Suits)	2019-11-20 — 07:45:34 UTC	Dr_Kakashi, Fireheart, kopen	19	6	30
@@ -824,7 +836,7 @@
 65478	3	0	Up or Down & White (5 Suits)	2019-11-19 — 09:33:21 UTC	Dr_Kakashi, IAMJEFF, kopen	6	5	25
 65477	3	0	Up or Down & White (5 Suits)	2019-11-19 — 09:26:13 UTC	Dr_Kakashi, IAMJEFF, kopen	9	5	25
 65476	3	0	Up or Down & White (5 Suits)	2019-11-19 — 09:21:36 UTC	Dr_Kakashi, IAMJEFF, kopen	10	5	25
-65475	3	0	Up or Down & White (5 Suits)	2019-11-19 — 09:08:46 UTC	Dr_Kakashi, IAMJEFF, kopen	12	5	25
+65475	3	0	Up or Down & White (5 Suits)	2019-11-19 — 09:08:46 UTC	Dr_Kakashi, IAMJEFF, kopen	13	5	25
 65474	4	0	Rainbow & Brown (5 Suits)	2019-11-19 — 08:49:08 UTC	Dr_Kakashi, Fireheart, IAMJEFF, kopen	2	5	25
 65473	4	0	Rainbow & Brown (5 Suits)	2019-11-19 — 08:37:29 UTC	Dr_Kakashi, Fireheart, IAMJEFF, kopen	3	5	25
 65472	4	0	Rainbow & Brown (5 Suits)	2019-11-19 — 08:22:13 UTC	Dr_Kakashi, Fireheart, IAMJEFF, kopen	3	5	25
@@ -835,13 +847,13 @@
 65466	4	0	Rainbow & Brown (5 Suits)	2019-11-19 — 07:17:16 UTC	Dr_Kakashi, Fireheart, IAMJEFF, kopen	9	5	25
 65465	4	0	Pink & Omni (4 Suits)	2019-11-19 — 07:14:44 UTC	Dr_Kakashi, Fireheart, IAMJEFF, kopen	1	4	20
 65464	5	25	Omni (5 Suits)	2019-11-19 — 07:04:51 UTC	Dr_Kakashi, Fireheart, IAMJEFF, kopen, scharkbite	8	5	25
-65459	3	0	No Variant	2019-11-19 — 05:50:11 UTC	kopen, messinator, schroedz	624	5	25
-65457	3	23	No Variant	2019-11-19 — 05:33:16 UTC	kopen, messinator, schroedz	680	5	25
-65453	3	0	No Variant	2019-11-19 — 05:05:41 UTC	kopen, messinator, schroedz	750	5	25
-65448	4	20	4 Suits	2019-11-19 — 04:48:22 UTC	eagles, kopen, messinator, schroedz	101	4	20
-65445	5	30	6 Suits	2019-11-19 — 04:25:16 UTC	eagles, kopen, messinator, schroedz, smatoff	199	6	30
-65432	4	0	No Variant	2019-11-19 — 03:34:22 UTC	eagles, kopen, schroedz, smatoff	2076	5	25
-65431	4	25	No Variant	2019-11-19 — 03:30:49 UTC	eagles, kopen, schroedz, smatoff	3581	5	25
+65459	3	0	No Variant	2019-11-19 — 05:50:11 UTC	kopen, messinator, schroedz	632	5	25
+65457	3	23	No Variant	2019-11-19 — 05:33:16 UTC	kopen, messinator, schroedz	688	5	25
+65453	3	0	No Variant	2019-11-19 — 05:05:41 UTC	kopen, messinator, schroedz	757	5	25
+65448	4	20	4 Suits	2019-11-19 — 04:48:22 UTC	eagles, kopen, messinator, schroedz	104	4	20
+65445	5	30	6 Suits	2019-11-19 — 04:25:16 UTC	eagles, kopen, messinator, schroedz, smatoff	203	6	30
+65432	4	0	No Variant	2019-11-19 — 03:34:22 UTC	eagles, kopen, schroedz, smatoff	2094	5	25
+65431	4	25	No Variant	2019-11-19 — 03:30:49 UTC	eagles, kopen, schroedz, smatoff	3609	5	25
 65251	5	0	Duck (5 Suits)	2019-11-18 — 08:34:28 UTC	Dr_Kakashi, IAMJEFF, kopen, Razvogor, Valetta6789	1	5	25
 65250	5	0	Duck (5 Suits)	2019-11-18 — 08:19:27 UTC	Dr_Kakashi, IAMJEFF, kopen, Razvogor, Valetta6789	2	5	25
 65249	5	0	Duck (5 Suits)	2019-11-18 — 08:14:36 UTC	Dr_Kakashi, IAMJEFF, kopen, Razvogor, Valetta6789	4	5	25
@@ -854,12 +866,12 @@
 65242	3	0	Duck (5 Suits)	2019-11-18 — 06:47:23 UTC	Dr_Kakashi, kopen, Razvogor	10	5	25
 65237	4	23	Up or Down & White (5 Suits)	2019-11-18 — 06:11:30 UTC	Dr_Kakashi, florrat2, kopen, Razvogor	5	5	25
 65231	4	0	Up or Down & White (5 Suits)	2019-11-18 — 05:45:54 UTC	Dr_Kakashi, florrat2, kopen, Razvogor	11	5	25
-65230	4	0	Rainbow (5 Suits)	2019-11-18 — 05:37:01 UTC	Dr_Kakashi, florrat2, kopen, Razvogor	19	5	25
-65228	4	25	Rainbow (5 Suits)	2019-11-18 — 05:29:13 UTC	Dr_Kakashi, florrat2, kopen, Razvogor	19	5	25
+65230	4	0	Rainbow (5 Suits)	2019-11-18 — 05:37:01 UTC	Dr_Kakashi, florrat2, kopen, Razvogor	20	5	25
+65228	4	25	Rainbow (5 Suits)	2019-11-18 — 05:29:13 UTC	Dr_Kakashi, florrat2, kopen, Razvogor	20	5	25
 65186	5	0	Pink (4 Suits)	2019-11-18 — 01:02:36 UTC	DMoney, IAMJEFF, Jake_Stiles, kopen, micerang	7	4	20
 65184	4	30	Rainbow (6 Suits)	2019-11-18 — 00:22:25 UTC	DMoney, Jake_Stiles, kopen, micerang	57	6	30
-65181	4	27	Rainbow (6 Suits)	2019-11-17 — 23:31:19 UTC	DMoney, honzas, kopen, salonka	344	6	30
-65176	4	0	Rainbow (6 Suits)	2019-11-17 — 22:44:35 UTC	DMoney, honzas, kopen, salonka	493	6	30
+65181	4	27	Rainbow (6 Suits)	2019-11-17 — 23:31:19 UTC	DMoney, honzas, kopen, salonka	349	6	30
+65176	4	0	Rainbow (6 Suits)	2019-11-17 — 22:44:35 UTC	DMoney, honzas, kopen, salonka	497	6	30
 65144	3	0	Brown & Null (3 Suits)	2019-11-17 — 13:08:07 UTC	asaelr, IAMJEFF, kopen	2	3	15
 65143	3	0	Brown & Null (3 Suits)	2019-11-17 — 13:04:38 UTC	asaelr, IAMJEFF, kopen	2	3	15
 65142	3	0	Brown & Null (3 Suits)	2019-11-17 — 12:56:37 UTC	asaelr, IAMJEFF, kopen	2	3	15
@@ -875,8 +887,8 @@
 65131	2	0	Black & Brown (6 Suits)	2019-11-17 — 11:36:53 UTC	IAMJEFF, kopen	19	6	30
 65130	2	0	Black & Brown (6 Suits)	2019-11-17 — 11:33:17 UTC	IAMJEFF, kopen	23	6	30
 65129	2	25	Black & White (5 Suits)	2019-11-17 — 11:25:07 UTC	IAMJEFF, kopen	14	5	25
-65128	4	0	Brown (6 Suits)	2019-11-17 — 11:11:36 UTC	IAMJEFF, kodomazer, kopen, Valetta6789	27	6	30
-65127	4	0	Brown (6 Suits)	2019-11-17 — 10:47:05 UTC	IAMJEFF, kodomazer, kopen, Valetta6789	27	6	30
+65128	4	0	Brown (6 Suits)	2019-11-17 — 11:11:36 UTC	IAMJEFF, kodomazer, kopen, Valetta6789	28	6	30
+65127	4	0	Brown (6 Suits)	2019-11-17 — 10:47:05 UTC	IAMJEFF, kodomazer, kopen, Valetta6789	28	6	30
 65126	6	0	Omni (6 Suits)	2019-11-17 — 10:20:51 UTC	Dr_Kakashi, Floriman, IAMJEFF, kodomazer, kopen, Valetta6789	1	6	30
 65125	6	0	Omni (6 Suits)	2019-11-17 — 10:10:02 UTC	Dr_Kakashi, Floriman, IAMJEFF, kodomazer, kopen, Valetta6789	2	6	30
 65124	6	0	Omni (6 Suits)	2019-11-17 — 10:01:43 UTC	Dr_Kakashi, Floriman, IAMJEFF, kodomazer, kopen, Valetta6789	2	6	30
@@ -886,18 +898,18 @@
 65120	6	0	Omni (6 Suits)	2019-11-17 — 09:12:42 UTC	Dr_Kakashi, Floriman, IAMJEFF, kodomazer, kopen, Valetta6789	2	6	30
 65119	5	0	Omni (6 Suits)	2019-11-17 — 08:56:59 UTC	Dr_Kakashi, Floriman, IAMJEFF, kopen, Valetta6789	9	6	30
 65118	5	0	Omni (6 Suits)	2019-11-17 — 08:45:49 UTC	Dr_Kakashi, Floriman, IAMJEFF, kopen, Valetta6789	15	6	30
-65117	3	0	Duck (5 Suits)	2019-11-17 — 08:27:45 UTC	Dr_Kakashi, kopen, Valetta6789	14	5	25
+65117	3	0	Duck (5 Suits)	2019-11-17 — 08:27:45 UTC	Dr_Kakashi, kopen, Valetta6789	15	5	25
 65116	3	0	Duck (5 Suits)	2019-11-17 — 08:19:48 UTC	Dr_Kakashi, kopen, Valetta6789	16	5	25
 65115	3	24	Duck (5 Suits)	2019-11-17 — 07:50:15 UTC	Dr_Kakashi, kodomazer, kopen	22	5	25
 65114	3	0	Duck (5 Suits)	2019-11-17 — 07:30:38 UTC	Dr_Kakashi, kodomazer, kopen	25	5	25
 65113	2	0	Duck (5 Suits)	2019-11-17 — 07:23:11 UTC	kodomazer, kopen	9	5	25
 65112	4	0	Dark Rainbow (6 Suits)	2019-11-17 — 06:59:21 UTC	Jake_Stiles, kodomazer, kopen, micerang	21	6	30
 65111	4	0	Dark Rainbow (6 Suits)	2019-11-17 — 06:37:50 UTC	Jake_Stiles, kodomazer, kopen, micerang	26	6	30
-65109	4	0	Dark Rainbow (6 Suits)	2019-11-17 — 06:24:44 UTC	Jake_Stiles, kodomazer, kopen, micerang	25	6	30
+65109	4	0	Dark Rainbow (6 Suits)	2019-11-17 — 06:24:44 UTC	Jake_Stiles, kodomazer, kopen, micerang	27	6	30
 65106	4	0	Dark Rainbow (6 Suits)	2019-11-17 — 05:56:16 UTC	Jake_Stiles, kodomazer, kopen, micerang	32	6	30
-65104	4	0	Dark Rainbow (6 Suits)	2019-11-17 — 05:30:57 UTC	DMoney, Jake_Stiles, kopen, micerang	41	6	30
-65102	4	0	Dark Rainbow (6 Suits)	2019-11-17 — 05:06:18 UTC	DMoney, Jake_Stiles, kopen, micerang	48	6	30
-65099	4	29	Dark Rainbow (6 Suits)	2019-11-17 — 04:27:50 UTC	DMoney, Jake_Stiles, kopen, micerang	53	6	30
+65104	4	0	Dark Rainbow (6 Suits)	2019-11-17 — 05:30:57 UTC	DMoney, Jake_Stiles, kopen, micerang	42	6	30
+65102	4	0	Dark Rainbow (6 Suits)	2019-11-17 — 05:06:18 UTC	DMoney, Jake_Stiles, kopen, micerang	49	6	30
+65099	4	29	Dark Rainbow (6 Suits)	2019-11-17 — 04:27:50 UTC	DMoney, Jake_Stiles, kopen, micerang	54	6	30
 65095	6	0	Pink (5 Suits)	2019-11-17 — 03:57:07 UTC	DMoney, Fireheart, Jake_Stiles, kopen, scharkbite, Zamiel	3	5	25
 65094	6	0	Pink (5 Suits)	2019-11-17 — 03:37:01 UTC	DMoney, Fireheart, Jake_Stiles, kopen, scharkbite, Zamiel	4	5	25
 65092	5	0	Omni & Null (6 Suits)	2019-11-17 — 03:23:22 UTC	DMoney, Fireheart, Jake_Stiles, kopen, Zamiel	1	6	30
@@ -907,9 +919,9 @@
 65082	4	0	Omni & Null (6 Suits)	2019-11-17 — 02:47:34 UTC	DMoney, Fireheart, kopen, Zamiel	2	6	30
 65080	4	0	Omni & Null (6 Suits)	2019-11-17 — 02:33:35 UTC	DMoney, Fireheart, kopen, Zamiel	3	6	30
 65079	4	0	Omni & Null (6 Suits)	2019-11-17 — 02:22:54 UTC	DMoney, Fireheart, kopen, Zamiel	4	6	30
-65078	3	0	Omni & Null (6 Suits)	2019-11-17 — 02:10:58 UTC	Fireheart, kopen, Zamiel	4	6	30
-65051	2	0	Rainbow & Null (6 Suits)	2019-11-16 — 22:23:43 UTC	kopen, Zamiel	7	6	30
-65050	2	0	Rainbow & Null (6 Suits)	2019-11-16 — 22:20:49 UTC	kopen, Zamiel	7	6	30
+65078	3	0	Omni & Null (6 Suits)	2019-11-17 — 02:10:58 UTC	Fireheart, kopen, Zamiel	5	6	30
+65051	2	0	Rainbow & Null (6 Suits)	2019-11-16 — 22:23:43 UTC	kopen, Zamiel	8	6	30
+65050	2	0	Rainbow & Null (6 Suits)	2019-11-16 — 22:20:49 UTC	kopen, Zamiel	8	6	30
 65046	3	15	Pink & Omni (3 Suits)	2019-11-16 — 22:14:12 UTC	DMoney, kopen, Zamiel	2	3	15
 65039	3	0	Pink & Omni (3 Suits)	2019-11-16 — 21:59:42 UTC	DMoney, kopen, Zamiel	2	3	15
 64931	5	27	Black & Rainbow (6 Suits)	2019-11-16 — 03:35:51 UTC	DMoney, Jake_Stiles, kopen, micerang, Zamiel	2	6	30
@@ -921,9 +933,9 @@
 64906	3	0	Black & Null (5 Suits)	2019-11-16 — 02:24:31 UTC	kopen, micerang, Zamiel	1	5	25
 64903	3	24	Black & Null (5 Suits)	2019-11-16 — 02:02:13 UTC	kopen, micerang, Zamiel	1	5	25
 64901	3	0	Muddy Rainbow (5 Suits)	2019-11-16 — 01:48:30 UTC	kopen, micerang, Zamiel	17	5	25
-64644	4	30	6 Suits	2019-11-15 — 09:24:03 UTC	Dr_Kakashi, kopen, RaKXeR, sankala fan	10	6	30
-64643	4	0	6 Suits	2019-11-15 — 09:20:50 UTC	Dr_Kakashi, kopen, RaKXeR, sankala fan	10	6	30
-64642	4	0	6 Suits	2019-11-15 — 09:20:40 UTC	Dr_Kakashi, kopen, RaKXeR, sankala fan	12	6	30
+64644	4	30	6 Suits	2019-11-15 — 09:24:03 UTC	Dr_Kakashi, kopen, RaKXeR, sankala fan	11	6	30
+64643	4	0	6 Suits	2019-11-15 — 09:20:50 UTC	Dr_Kakashi, kopen, RaKXeR, sankala fan	11	6	30
+64642	4	0	6 Suits	2019-11-15 — 09:20:40 UTC	Dr_Kakashi, kopen, RaKXeR, sankala fan	13	6	30
 64641	4	0	6 Suits	2019-11-15 — 09:17:40 UTC	Dr_Kakashi, kopen, RaKXeR, sankala fan	13	6	30
 64640	4	0	6 Suits	2019-11-15 — 09:17:15 UTC	Dr_Kakashi, kopen, RaKXeR, sankala fan	12	6	30
 64639	4	0	6 Suits	2019-11-15 — 09:16:40 UTC	Dr_Kakashi, kopen, RaKXeR, sankala fan	13	6	30
@@ -936,7 +948,7 @@
 64632	4	0	6 Suits	2019-11-15 — 09:08:10 UTC	Dr_Kakashi, kopen, RaKXeR, sankala fan	18	6	30
 64631	4	0	6 Suits	2019-11-15 — 09:07:43 UTC	Dr_Kakashi, kopen, RaKXeR, sankala fan	19	6	30
 64630	4	0	6 Suits	2019-11-15 — 09:06:49 UTC	Dr_Kakashi, kopen, RaKXeR, sankala fan	24	6	30
-64629	4	0	6 Suits	2019-11-15 — 09:06:38 UTC	Dr_Kakashi, kopen, RaKXeR, sankala fan	32	6	30
+64629	4	0	6 Suits	2019-11-15 — 09:06:38 UTC	Dr_Kakashi, kopen, RaKXeR, sankala fan	33	6	30
 64628	5	0	6 Suits	2019-11-15 — 09:05:09 UTC	Dr_Kakashi, Floriman, kopen, RaKXeR, sankala fan	4	6	30
 64627	5	0	6 Suits	2019-11-15 — 09:03:17 UTC	Dr_Kakashi, Floriman, kopen, RaKXeR, sankala fan	4	6	30
 64626	5	0	6 Suits	2019-11-15 — 09:00:23 UTC	Dr_Kakashi, Floriman, kopen, RaKXeR, sankala fan	4	6	30
@@ -960,16 +972,16 @@
 64606	5	0	4 Suits	2019-11-15 — 07:09:46 UTC	Dr_Kakashi, kopen, RaKXeR, sankala fan, Valetta6789	2	4	20
 64605	5	0	4 Suits	2019-11-15 — 06:59:53 UTC	Dr_Kakashi, kopen, RaKXeR, sankala fan, Valetta6789	3	4	20
 64604	4	0	4 Suits	2019-11-15 — 06:31:42 UTC	Dr_Kakashi, kopen, RaKXeR, Valetta6789	4	4	20
-64602	3	25	No Variant	2019-11-15 — 06:16:21 UTC	Dr_Kakashi, kopen, RaKXeR	28	5	25
-64598	3	24	No Variant	2019-11-15 — 05:56:22 UTC	Dr_Kakashi, kopen, RaKXeR	28	5	25
+64602	3	25	No Variant	2019-11-15 — 06:16:21 UTC	Dr_Kakashi, kopen, RaKXeR	30	5	25
+64598	3	24	No Variant	2019-11-15 — 05:56:22 UTC	Dr_Kakashi, kopen, RaKXeR	30	5	25
 64564	3	14	Pink-Fives (3 Suits)	2019-11-15 — 03:58:05 UTC	DMoney, kopen, micerang	5	3	15
 64561	3	0	Pink-Fives (3 Suits)	2019-11-15 — 03:50:45 UTC	DMoney, kopen, micerang	7	3	15
-64557	3	25	Pink (5 Suits)	2019-11-15 — 03:34:44 UTC	DMoney, kopen, micerang	49	5	25
+64557	3	25	Pink (5 Suits)	2019-11-15 — 03:34:44 UTC	DMoney, kopen, micerang	51	5	25
 64552	3	14	Pink (3 Suits)	2019-11-15 — 03:01:26 UTC	DMoney, Dr_Kakashi, kopen	9	3	15
 64550	3	14	Pink (3 Suits)	2019-11-15 — 02:37:56 UTC	DMoney, Dr_Kakashi, kopen	9	3	15
 64548	3	0	Pink (3 Suits)	2019-11-15 — 02:22:12 UTC	DMoney, Dr_Kakashi, kopen	11	3	15
 64496	5	23	Up or Down (6 Suits)	2019-11-14 — 06:05:38 UTC	Fireheart, kopen, RaKXeR, scharkbite, Valetta6789	7	6	30
-64495	6	22	Black (5 Suits)	2019-11-14 — 05:30:53 UTC	Fireheart, florrat2, kopen, Libster, RaKXeR, scharkbite	9	5	25
+64495	6	22	Black (5 Suits)	2019-11-14 — 05:30:53 UTC	Fireheart, florrat2, kopen, Libster, RaKXeR, scharkbite	10	5	25
 64491	6	22	Dark Rainbow (5 Suits)	2019-11-14 — 05:11:35 UTC	Fireheart, florrat2, kopen, Libster, RaKXeR, scharkbite	4	5	25
 64489	6	22	Dark Rainbow (5 Suits)	2019-11-14 — 04:48:34 UTC	Fireheart, florrat2, kopen, Libster, RaKXeR, scharkbite	5	5	25
 64487	6	0	Null (6 Suits)	2019-11-14 — 04:15:29 UTC	Fireheart, florrat2, Jake_Stiles, kopen, RaKXeR, sankala fan	1	6	30
@@ -978,12 +990,12 @@
 64316	2	25	Rainbow & Dark Pink (5 Suits)	2019-11-13 — 09:24:58 UTC	Fireheart, kopen	2	5	25
 64315	2	23	Rainbow & Dark Pink (5 Suits)	2019-11-13 — 09:14:59 UTC	Fireheart, kopen	4	5	25
 64314	2	0	Rainbow & Dark Pink (5 Suits)	2019-11-13 — 09:04:10 UTC	Fireheart, kopen	4	5	25
-64313	2	0	Rainbow & Dark Pink (5 Suits)	2019-11-13 — 09:02:31 UTC	Fireheart, kopen	3	5	25
-64312	2	0	Rainbow & Dark Pink (5 Suits)	2019-11-13 — 08:59:58 UTC	Fireheart, kopen	6	5	25
-64311	2	0	Rainbow & Dark Pink (5 Suits)	2019-11-13 — 08:55:02 UTC	Fireheart, kopen	6	5	25
-64310	2	0	Rainbow & Dark Pink (5 Suits)	2019-11-13 — 08:49:42 UTC	Fireheart, kopen	8	5	25
-64309	2	0	Rainbow & Dark Pink (5 Suits)	2019-11-13 — 08:43:12 UTC	Fireheart, kopen	9	5	25
-64308	2	0	Rainbow & Dark Pink (5 Suits)	2019-11-13 — 08:40:55 UTC	Fireheart, kopen	13	5	25
+64313	2	0	Rainbow & Dark Pink (5 Suits)	2019-11-13 — 09:02:31 UTC	Fireheart, kopen	4	5	25
+64312	2	0	Rainbow & Dark Pink (5 Suits)	2019-11-13 — 08:59:58 UTC	Fireheart, kopen	7	5	25
+64311	2	0	Rainbow & Dark Pink (5 Suits)	2019-11-13 — 08:55:02 UTC	Fireheart, kopen	7	5	25
+64310	2	0	Rainbow & Dark Pink (5 Suits)	2019-11-13 — 08:49:42 UTC	Fireheart, kopen	9	5	25
+64309	2	0	Rainbow & Dark Pink (5 Suits)	2019-11-13 — 08:43:12 UTC	Fireheart, kopen	10	5	25
+64308	2	0	Rainbow & Dark Pink (5 Suits)	2019-11-13 — 08:40:55 UTC	Fireheart, kopen	14	5	25
 64307	2	30	Rainbow & Dark Omni (6 Suits)	2019-11-13 — 08:32:20 UTC	Fireheart, kopen	5	6	30
 64306	2	0	Rainbow & Dark Omni (6 Suits)	2019-11-13 — 08:16:42 UTC	Fireheart, kopen	5	6	30
 64305	2	0	Rainbow & Dark Omni (6 Suits)	2019-11-13 — 08:09:46 UTC	Fireheart, kopen	7	6	30
@@ -1000,36 +1012,36 @@
 64294	2	0	Dark Omni (5 Suits)	2019-11-13 — 06:43:19 UTC	Fireheart, kopen	7	5	25
 64292	2	22	Dark Omni (5 Suits)	2019-11-13 — 06:38:08 UTC	Fireheart, kopen	10	5	25
 64282	3	0	Dark Omni (6 Suits)	2019-11-13 — 05:00:52 UTC	Fireheart, kopen, scharkbite	5	6	30
-64159	4	0	Black (5 Suits)	2019-11-12 — 04:27:53 UTC	DMoney, florrat2, Jake_Stiles, kopen	21	5	25
+64159	4	0	Black (5 Suits)	2019-11-12 — 04:27:53 UTC	DMoney, florrat2, Jake_Stiles, kopen	22	5	25
 64156	4	23	Black (5 Suits)	2019-11-12 — 04:00:50 UTC	DMoney, florrat2, Jake_Stiles, kopen	23	5	25
-64151	4	23	Black (5 Suits)	2019-11-12 — 03:27:59 UTC	DMoney, florrat2, Jake_Stiles, kopen	49	5	25
-64150	2	25	Rainbow (5 Suits)	2019-11-12 — 03:06:23 UTC	florrat2, kopen	129	5	25
+64151	4	23	Black (5 Suits)	2019-11-12 — 03:27:59 UTC	DMoney, florrat2, Jake_Stiles, kopen	51	5	25
+64150	2	25	Rainbow (5 Suits)	2019-11-12 — 03:06:23 UTC	florrat2, kopen	134	5	25
 64147	3	20	4 Suits	2019-11-12 — 02:48:23 UTC	Fireheart, kopen, RaKXeR	23	4	20
-64144	3	0	4 Suits	2019-11-12 — 02:39:01 UTC	Fireheart, kopen, RaKXeR	29	4	20
+64144	3	0	4 Suits	2019-11-12 — 02:39:01 UTC	Fireheart, kopen, RaKXeR	30	4	20
 64023	3	30	Rainbow & Brown (6 Suits)	2019-11-11 — 09:50:22 UTC	Dr_Kakashi, Floriman, kopen	6	6	30
 64022	3	0	Rainbow & Brown (6 Suits)	2019-11-11 — 09:22:20 UTC	Dr_Kakashi, Floriman, kopen	7	6	30
 64021	3	0	Rainbow & Brown (6 Suits)	2019-11-11 — 09:13:57 UTC	Dr_Kakashi, Floriman, kopen	13	6	30
 64020	3	0	Rainbow & Brown (6 Suits)	2019-11-11 — 08:57:36 UTC	Dr_Kakashi, Floriman, kopen	17	6	30
 64019	4	0	Rainbow & Brown (6 Suits)	2019-11-11 — 08:26:38 UTC	Dr_Kakashi, jeep, kopen, Valetta6789	6	6	30
 64017	4	0	Rainbow & Brown (6 Suits)	2019-11-11 — 07:57:36 UTC	Dr_Kakashi, jeep, kopen, Valetta6789	7	6	30
-64015	4	0	Rainbow & Brown (6 Suits)	2019-11-11 — 07:38:54 UTC	Dr_Kakashi, jeep, kopen, Valetta6789	11	6	30
-64012	4	0	Rainbow & Brown (6 Suits)	2019-11-11 — 07:17:28 UTC	Dr_Kakashi, jeep, kopen, Valetta6789	12	6	30
+64015	4	0	Rainbow & Brown (6 Suits)	2019-11-11 — 07:38:54 UTC	Dr_Kakashi, jeep, kopen, Valetta6789	12	6	30
+64012	4	0	Rainbow & Brown (6 Suits)	2019-11-11 — 07:17:28 UTC	Dr_Kakashi, jeep, kopen, Valetta6789	13	6	30
 64011	4	0	Rainbow & Brown (6 Suits)	2019-11-11 — 07:02:23 UTC	Dr_Kakashi, jeep, kopen, Valetta6789	14	6	30
 64010	3	0	Rainbow & Brown (6 Suits)	2019-11-11 — 06:35:50 UTC	Dr_Kakashi, kopen, Valetta6789	23	6	30
-64009	4	0	Rainbow & Brown (6 Suits)	2019-11-11 — 06:15:46 UTC	Fireheart, kopen, scharkbite, Valetta6789	9	6	30
-64008	3	0	Dark Omni (6 Suits)	2019-11-11 — 06:03:25 UTC	Fireheart, kopen, scharkbite	9	6	30
-64007	3	28	Dark Omni (6 Suits)	2019-11-11 — 05:57:55 UTC	Fireheart, kopen, scharkbite	10	6	30
-64004	4	30	Black & White (6 Suits)	2019-11-11 — 05:30:19 UTC	Feer, Fireheart, kopen, scharkbite	9	6	30
+64009	4	0	Rainbow & Brown (6 Suits)	2019-11-11 — 06:15:46 UTC	Fireheart, kopen, scharkbite, Valetta6789	10	6	30
+64008	3	0	Dark Omni (6 Suits)	2019-11-11 — 06:03:25 UTC	Fireheart, kopen, scharkbite	10	6	30
+64007	3	28	Dark Omni (6 Suits)	2019-11-11 — 05:57:55 UTC	Fireheart, kopen, scharkbite	11	6	30
+64004	4	30	Black & White (6 Suits)	2019-11-11 — 05:30:19 UTC	Feer, Fireheart, kopen, scharkbite	10	6	30
 63964	2	0	Extremely Ambiguous (6 Suits)	2019-11-10 — 22:53:43 UTC	Fireheart, kopen	10	6	30
 63962	2	0	Extremely Ambiguous (6 Suits)	2019-11-10 — 22:46:20 UTC	Fireheart, kopen	24	6	30
-63960	2	25	Up or Down & Omni (5 Suits)	2019-11-10 — 22:39:06 UTC	Fireheart, kopen	6	5	25
-63956	2	0	Up or Down & Omni (5 Suits)	2019-11-10 — 22:26:11 UTC	Fireheart, kopen	6	5	25
-63954	2	0	Up or Down & Omni (5 Suits)	2019-11-10 — 22:21:31 UTC	Fireheart, kopen	6	5	25
-63952	2	0	Up or Down & Omni (5 Suits)	2019-11-10 — 22:15:03 UTC	Fireheart, kopen	6	5	25
-63949	2	23	Up or Down & Omni (5 Suits)	2019-11-10 — 22:05:33 UTC	Fireheart, kopen	7	5	25
+63960	2	25	Up or Down & Omni (5 Suits)	2019-11-10 — 22:39:06 UTC	Fireheart, kopen	7	5	25
+63956	2	0	Up or Down & Omni (5 Suits)	2019-11-10 — 22:26:11 UTC	Fireheart, kopen	7	5	25
+63954	2	0	Up or Down & Omni (5 Suits)	2019-11-10 — 22:21:31 UTC	Fireheart, kopen	7	5	25
+63952	2	0	Up or Down & Omni (5 Suits)	2019-11-10 — 22:15:03 UTC	Fireheart, kopen	7	5	25
+63949	2	23	Up or Down & Omni (5 Suits)	2019-11-10 — 22:05:33 UTC	Fireheart, kopen	8	5	25
 63885	2	0	Rainbow & Brown (5 Suits)	2019-11-10 — 12:01:47 UTC	IAMJEFF, kopen	33	5	25
-63884	2	20	Rainbow & Brown (4 Suits)	2019-11-10 — 11:56:56 UTC	IAMJEFF, kopen	7	4	20
-63883	2	0	Rainbow & Brown (4 Suits)	2019-11-10 — 11:51:51 UTC	IAMJEFF, kopen	10	4	20
+63884	2	20	Rainbow & Brown (4 Suits)	2019-11-10 — 11:56:56 UTC	IAMJEFF, kopen	8	4	20
+63883	2	0	Rainbow & Brown (4 Suits)	2019-11-10 — 11:51:51 UTC	IAMJEFF, kopen	11	4	20
 63882	2	15	Rainbow & Brown (3 Suits)	2019-11-10 — 11:47:11 UTC	IAMJEFF, kopen	21	3	15
 63881	2	0	Rainbow & Brown (3 Suits)	2019-11-10 — 11:41:39 UTC	IAMJEFF, kopen	29	3	15
 63880	2	25	Black & Pink (5 Suits)	2019-11-10 — 11:35:24 UTC	IAMJEFF, kopen	1	5	25
@@ -1072,16 +1084,16 @@
 63742	3	0	Black & Rainbow (5 Suits)	2019-11-09 — 22:46:15 UTC	DMoney, Hyakinthus, kopen	2	5	25
 63740	4	22	Black & White (5 Suits)	2019-11-09 — 22:20:07 UTC	DMoney, Feer, Floriman, kopen	8	5	25
 63730	4	23	Black & White (5 Suits)	2019-11-09 — 21:43:43 UTC	DMoney, Feer, Floriman, kopen	9	5	25
-63725	6	21	No Variant	2019-11-09 — 21:13:24 UTC	DMoney, Floriman, honzas, kopen, micerang, salonka	282	5	25
-63724	5	0	No Variant	2019-11-09 — 20:56:31 UTC	DMoney, Floriman, honzas, kopen, salonka	541	5	25
-63722	4	24	No Variant	2019-11-09 — 20:40:54 UTC	Floriman, hanabornoob, honzas, kopen	1092	5	25
-63714	5	24	No Variant	2019-11-09 — 20:02:45 UTC	Feer, Floriman, honzas, kopen, salonka	658	5	25
+63725	6	21	No Variant	2019-11-09 — 21:13:24 UTC	DMoney, Floriman, honzas, kopen, micerang, salonka	284	5	25
+63724	5	0	No Variant	2019-11-09 — 20:56:31 UTC	DMoney, Floriman, honzas, kopen, salonka	546	5	25
+63722	4	24	No Variant	2019-11-09 — 20:40:54 UTC	Floriman, hanabornoob, honzas, kopen	1103	5	25
+63714	5	24	No Variant	2019-11-09 — 20:02:45 UTC	Feer, Floriman, honzas, kopen, salonka	667	5	25
 63590	5	0	Null (6 Suits)	2019-11-09 — 05:02:58 UTC	Dr_Kakashi, Fireheart, kopen, scharkbite, Zamiel	2	6	30
 63588	5	0	Null (6 Suits)	2019-11-09 — 04:34:51 UTC	Dr_Kakashi, Fireheart, kopen, scharkbite, Zamiel	2	6	30
 63586	5	0	Null (6 Suits)	2019-11-09 — 04:22:25 UTC	Dr_Kakashi, Fireheart, kopen, scharkbite, Zamiel	3	6	30
 63585	5	23	Cocoa Rainbow (5 Suits)	2019-11-09 — 04:11:21 UTC	Dr_Kakashi, Fireheart, florrat2, kopen, Zamiel	9	5	25
-63578	4	30	Gray Pink (6 Suits)	2019-11-09 — 03:40:26 UTC	Dr_Kakashi, florrat2, kopen, Zamiel	7	6	30
-63569	4	0	Gray Pink (6 Suits)	2019-11-09 — 03:13:11 UTC	Dr_Kakashi, florrat2, kopen, Zamiel	7	6	30
+63578	4	30	Gray Pink (6 Suits)	2019-11-09 — 03:40:26 UTC	Dr_Kakashi, florrat2, kopen, Zamiel	8	6	30
+63569	4	0	Gray Pink (6 Suits)	2019-11-09 — 03:13:11 UTC	Dr_Kakashi, florrat2, kopen, Zamiel	8	6	30
 63559	6	0	Brown (6 Suits)	2019-11-09 — 02:41:01 UTC	Dr_Kakashi, florrat2, IAMJEFF, kopen, Libster, TheWildCard	8	6	30
 63458	6	25	Rainbow & White (5 Suits)	2019-11-08 — 05:58:08 UTC	Dr_Kakashi, Feer, Fireheart, kopen, scharkbite, Valetta6789	2	5	25
 63453	3	24	Rainbow & White (5 Suits)	2019-11-08 — 05:27:25 UTC	Fireheart, kopen, scharkbite	5	5	25
@@ -1098,11 +1110,11 @@
 62723	2	0	White & Omni (5 Suits)	2019-11-04 — 09:05:21 UTC	Fireheart, kopen	5	5	25
 62722	2	24	White & Omni (5 Suits)	2019-11-04 — 08:59:44 UTC	Fireheart, kopen	7	5	25
 62721	2	0	White & Omni (5 Suits)	2019-11-04 — 08:52:07 UTC	Fireheart, kopen	8	5	25
-62720	2	0	White & Omni (5 Suits)	2019-11-04 — 08:48:14 UTC	Fireheart, kopen	10	5	25
-62718	2	0	White & Omni (5 Suits)	2019-11-04 — 08:41:29 UTC	Fireheart, kopen	11	5	25
+62720	2	0	White & Omni (5 Suits)	2019-11-04 — 08:48:14 UTC	Fireheart, kopen	11	5	25
+62718	2	0	White & Omni (5 Suits)	2019-11-04 — 08:41:29 UTC	Fireheart, kopen	12	5	25
 62717	2	30	White & Omni (6 Suits)	2019-11-04 — 08:33:08 UTC	Fireheart, kopen	2	6	30
-62715	2	0	White & Omni (6 Suits)	2019-11-04 — 08:21:20 UTC	Fireheart, kopen	8	6	30
-62713	2	0	White & Omni (6 Suits)	2019-11-04 — 08:15:44 UTC	Fireheart, kopen	12	6	30
+62715	2	0	White & Omni (6 Suits)	2019-11-04 — 08:21:20 UTC	Fireheart, kopen	9	6	30
+62713	2	0	White & Omni (6 Suits)	2019-11-04 — 08:15:44 UTC	Fireheart, kopen	13	6	30
 62712	2	30	Pink & Omni (6 Suits)	2019-11-04 — 08:08:08 UTC	Fireheart, kopen	6	6	30
 62711	2	0	Pink & Omni (6 Suits)	2019-11-04 — 07:53:38 UTC	Fireheart, kopen	6	6	30
 62710	2	0	Pink & Omni (6 Suits)	2019-11-04 — 07:47:01 UTC	Fireheart, kopen	6	6	30
@@ -1110,10 +1122,10 @@
 62708	2	20	Cow & Pig (4 Suits)	2019-11-04 — 07:33:14 UTC	Fireheart, kopen	9	4	20
 62707	2	0	Cow & Pig (4 Suits)	2019-11-04 — 07:20:59 UTC	Fireheart, kopen	12	4	20
 62705	2	15	Cow & Pig (3 Suits)	2019-11-04 — 07:11:45 UTC	Fireheart, kopen	29	3	15
-62704	2	20	Throw It in a Hole (4 Suits)	2019-11-04 — 07:02:34 UTC	Fireheart, kopen	52	4	20
+62704	2	20	Throw It in a Hole (4 Suits)	2019-11-04 — 07:02:34 UTC	Fireheart, kopen	54	4	20
 62703	3	25	Cocoa Rainbow (5 Suits)	2019-11-04 — 06:50:22 UTC	Fireheart, kopen, scharkbite	22	5	25
 62701	3	22	Cocoa Rainbow (5 Suits)	2019-11-04 — 06:36:30 UTC	Fireheart, kopen, scharkbite	23	5	25
-62700	3	0	Cocoa Rainbow (5 Suits)	2019-11-04 — 06:26:29 UTC	Fireheart, kopen, scharkbite	29	5	25
+62700	3	0	Cocoa Rainbow (5 Suits)	2019-11-04 — 06:26:29 UTC	Fireheart, kopen, scharkbite	30	5	25
 62698	4	22	Cocoa Rainbow (5 Suits)	2019-11-04 — 06:17:12 UTC	Fireheart, kopen, micerang, scharkbite	15	5	25
 62697	4	0	Cocoa Rainbow (5 Suits)	2019-11-04 — 06:05:42 UTC	Fireheart, kopen, micerang, scharkbite	15	5	25
 62696	4	23	Cocoa Rainbow (5 Suits)	2019-11-04 — 06:01:20 UTC	Fireheart, kopen, micerang, scharkbite	20	5	25
@@ -1137,10 +1149,10 @@
 62645	4	20	Pink & Omni (4 Suits)	2019-11-03 — 22:45:07 UTC	kopen, Kyle, scharkbite, Zamiel	6	4	20
 62641	3	0	Pink & Omni (3 Suits)	2019-11-03 — 22:32:42 UTC	kopen, scharkbite, Zamiel	3	3	15
 62640	3	0	Pink & Omni (3 Suits)	2019-11-03 — 22:29:40 UTC	kopen, scharkbite, Zamiel	4	3	15
-62637	3	20	Pink & Omni (4 Suits)	2019-11-03 — 22:17:58 UTC	kopen, scharkbite, Zamiel	3	4	20
+62637	3	20	Pink & Omni (4 Suits)	2019-11-03 — 22:17:58 UTC	kopen, scharkbite, Zamiel	4	4	20
 62630	5	0	Omni (4 Suits)	2019-11-03 — 21:54:53 UTC	invarse, kopen, Livia, scharkbite, Zamiel	1	4	20
 62624	4	0	Muddy Rainbow (5 Suits)	2019-11-03 — 21:36:07 UTC	kopen, Livia, postmans, scharkbite	23	5	25
-62618	4	29	6 Suits	2019-11-03 — 21:06:33 UTC	honzas, kopen, Romain672, salonka	59	6	30
+62618	4	29	6 Suits	2019-11-03 — 21:06:33 UTC	honzas, kopen, Romain672, salonka	60	6	30
 62521	2	25	Extremely Ambiguous (5 Suits)	2019-11-03 — 10:04:39 UTC	kopen, Livia	10	5	25
 62520	2	0	Extremely Ambiguous (5 Suits)	2019-11-03 — 09:55:12 UTC	kopen, Livia	10	5	25
 62519	2	0	Extremely Ambiguous (5 Suits)	2019-11-03 — 09:48:31 UTC	kopen, Livia	10	5	25
@@ -1155,7 +1167,7 @@
 62503	2	0	Omni (5 Suits)	2019-11-03 — 08:30:26 UTC	kopen, Livia	39	5	25
 62500	2	0	Omni (5 Suits)	2019-11-03 — 08:21:25 UTC	kopen, Livia	55	5	25
 62459	3	28	Rainbow & Dark Brown (6 Suits)	2019-11-03 — 02:15:03 UTC	kopen, micerang, scharkbite	9	6	30
-62422	4	0	Pink & Dark Rainbow (6 Suits)	2019-11-02 — 22:35:53 UTC	awe, Floriman, kopen, scharkbite	6	6	30
+62422	4	0	Pink & Dark Rainbow (6 Suits)	2019-11-02 — 22:35:53 UTC	awe, Floriman, kopen, scharkbite	7	6	30
 62413	4	0	Cocoa Rainbow (6 Suits)	2019-11-02 — 22:10:42 UTC	Floriman, kopen, micerang, scharkbite	3	6	30
 62401	4	0	Cocoa Rainbow (6 Suits)	2019-11-02 — 21:55:39 UTC	Floriman, kopen, micerang, scharkbite	4	6	30
 62392	5	23	Up or Down (5 Suits)	2019-11-02 — 21:38:04 UTC	asaelr, Floriman, kopen, micerang, scharkbite	4	5	25
@@ -1165,27 +1177,27 @@
 62362	4	0	Dark Rainbow (6 Suits)	2019-11-02 — 20:40:09 UTC	asaelr, Floriman, kopen, scharkbite	9	6	30
 62360	4	0	Dark Rainbow (6 Suits)	2019-11-02 — 20:36:49 UTC	asaelr, Floriman, kopen, scharkbite	9	6	30
 62358	4	0	Dark Rainbow (6 Suits)	2019-11-02 — 20:28:56 UTC	asaelr, Floriman, kopen, scharkbite	10	6	30
-62277	3	0	Gray Pink (5 Suits)	2019-11-02 — 11:07:48 UTC	Floriman, kopen, Livia	6	5	25
-62274	3	23	Gray Pink (5 Suits)	2019-11-02 — 10:48:18 UTC	Floriman, kopen, Livia	8	5	25
-62272	3	0	Gray Pink (5 Suits)	2019-11-02 — 10:32:59 UTC	Floriman, kopen, Livia	9	5	25
+62277	3	0	Gray Pink (5 Suits)	2019-11-02 — 11:07:48 UTC	Floriman, kopen, Livia	7	5	25
+62274	3	23	Gray Pink (5 Suits)	2019-11-02 — 10:48:18 UTC	Floriman, kopen, Livia	9	5	25
+62272	3	0	Gray Pink (5 Suits)	2019-11-02 — 10:32:59 UTC	Floriman, kopen, Livia	10	5	25
 62270	3	0	Gray Pink (5 Suits)	2019-11-02 — 10:25:31 UTC	Floriman, kopen, Livia	13	5	25
-62268	3	0	Gray Pink (5 Suits)	2019-11-02 — 10:15:51 UTC	Floriman, kopen, Livia	13	5	25
+62268	3	0	Gray Pink (5 Suits)	2019-11-02 — 10:15:51 UTC	Floriman, kopen, Livia	14	5	25
 62267	3	0	Gray Pink (5 Suits)	2019-11-02 — 10:09:35 UTC	Floriman, kopen, Livia	15	5	25
 62264	3	0	Gray Pink (5 Suits)	2019-11-02 — 09:51:35 UTC	Floriman, kopen, Livia	18	5	25
 62263	3	15	Very Ambiguous (3 Suits)	2019-11-02 — 09:36:52 UTC	Floriman, kopen, Livia	1	3	15
 62262	3	13	Very Ambiguous (3 Suits)	2019-11-02 — 09:27:24 UTC	Floriman, kopen, Livia	1	3	15
 62261	3	14	Very Ambiguous (3 Suits)	2019-11-02 — 09:18:19 UTC	Floriman, kopen, Livia	1	3	15
 62260	2	20	Rainbow & White (4 Suits)	2019-11-02 — 09:08:37 UTC	kopen, Livia	11	4	20
-62259	2	0	Rainbow & White (4 Suits)	2019-11-02 — 09:00:28 UTC	kopen, Livia	17	4	20
-62258	2	0	Rainbow & White (4 Suits)	2019-11-02 — 08:54:29 UTC	kopen, Livia	28	4	20
-62257	2	30	Pink (6 Suits)	2019-11-02 — 08:44:30 UTC	kopen, Livia	60	6	30
+62259	2	0	Rainbow & White (4 Suits)	2019-11-02 — 09:00:28 UTC	kopen, Livia	18	4	20
+62258	2	0	Rainbow & White (4 Suits)	2019-11-02 — 08:54:29 UTC	kopen, Livia	29	4	20
+62257	2	30	Pink (6 Suits)	2019-11-02 — 08:44:30 UTC	kopen, Livia	61	6	30
 62255	2	0	Pink (6 Suits)	2019-11-02 — 08:31:38 UTC	kopen, Livia	64	6	30
 62252	2	0	Pink (6 Suits)	2019-11-02 — 08:16:27 UTC	kopen, Livia	79	6	30
 62251	2	0	Pink (6 Suits)	2019-11-02 — 08:04:14 UTC	kopen, Livia	85	6	30
 62192	4	0	White & Dark Brown (6 Suits)	2019-11-02 — 02:09:07 UTC	kopen, Livia, nmego, Zamiel	3	6	30
 62188	4	0	White & Dark Brown (6 Suits)	2019-11-02 — 01:47:33 UTC	kopen, Livia, nmego, Zamiel	5	6	30
 62187	4	0	White & Dark Brown (6 Suits)	2019-11-02 — 01:34:20 UTC	kopen, Livia, nmego, Zamiel	5	6	30
-62186	4	25	Dark Brown (5 Suits)	2019-11-02 — 01:20:07 UTC	kopen, Livia, nmego, Zamiel	12	5	25
+62186	4	25	Dark Brown (5 Suits)	2019-11-02 — 01:20:07 UTC	kopen, Livia, nmego, Zamiel	13	5	25
 62184	3	0	Dark Brown (6 Suits)	2019-11-02 — 01:07:46 UTC	kopen, Livia, Zamiel	8	6	30
 62182	3	0	Dark Brown (6 Suits)	2019-11-02 — 00:57:42 UTC	kopen, Livia, Zamiel	11	6	30
 62179	3	0	Dark Brown (6 Suits)	2019-11-02 — 00:38:04 UTC	kopen, Livia, Zamiel	20	6	30
@@ -1193,44 +1205,44 @@
 62003	5	0	Rainbow & Gray (6 Suits)	2019-11-01 — 02:02:24 UTC	asaelr, florrat2, kopen, micerang, Zamiel	5	6	30
 62001	5	0	Rainbow & Gray (6 Suits)	2019-11-01 — 01:52:58 UTC	asaelr, florrat2, kopen, micerang, Zamiel	7	6	30
 61998	4	28	Rainbow & Gray (6 Suits)	2019-11-01 — 01:34:23 UTC	asaelr, florrat2, kopen, Zamiel	8	6	30
-61997	3	0	Rainbow & Gray (6 Suits)	2019-11-01 — 01:08:52 UTC	florrat2, kopen, Zamiel	17	6	30
-61867	5	30	White (6 Suits)	2019-10-31 — 09:58:20 UTC	Floriman, honzas, kodomazer, kopen, Livia	27	6	30
-61866	6	0	White (6 Suits)	2019-10-31 — 09:28:41 UTC	Fireheart, Floriman, honzas, kodomazer, kopen, Livia	9	6	30
-61865	5	25	No Variant	2019-10-31 — 09:07:58 UTC	Fireheart, Floriman, honzas, kopen, Livia	383	5	25
-61863	4	23	No Variant	2019-10-31 — 08:37:16 UTC	Fireheart, Floriman, honzas, kopen	2763	5	25
+61997	3	0	Rainbow & Gray (6 Suits)	2019-11-01 — 01:08:52 UTC	florrat2, kopen, Zamiel	18	6	30
+61867	5	30	White (6 Suits)	2019-10-31 — 09:58:20 UTC	Floriman, honzas, kodomazer, kopen, Livia	28	6	30
+61866	6	0	White (6 Suits)	2019-10-31 — 09:28:41 UTC	Fireheart, Floriman, honzas, kodomazer, kopen, Livia	10	6	30
+61865	5	25	No Variant	2019-10-31 — 09:07:58 UTC	Fireheart, Floriman, honzas, kopen, Livia	384	5	25
+61863	4	23	No Variant	2019-10-31 — 08:37:16 UTC	Fireheart, Floriman, honzas, kopen	2788	5	25
 61861	3	0	Dark Rainbow (5 Suits)	2019-10-31 — 08:22:37 UTC	Fireheart, Floriman, kopen	22	5	25
 61860	3	0	Dark Rainbow (5 Suits)	2019-10-31 — 08:22:06 UTC	Fireheart, Floriman, kopen	21	5	25
 61859	3	0	Dark Rainbow (5 Suits)	2019-10-31 — 08:18:28 UTC	Fireheart, Floriman, kopen	25	5	25
 61858	3	23	Dark Rainbow (5 Suits)	2019-10-31 — 08:03:35 UTC	Fireheart, kopen, Valetta6789	24	5	25
-61857	3	0	Dark Rainbow (5 Suits)	2019-10-31 — 07:48:03 UTC	Fireheart, kopen, Valetta6789	52	5	25
+61857	3	0	Dark Rainbow (5 Suits)	2019-10-31 — 07:48:03 UTC	Fireheart, kopen, Valetta6789	53	5	25
 61856	3	25	Light Pink (5 Suits)	2019-10-31 — 07:37:47 UTC	Fireheart, kopen, Valetta6789	11	5	25
 61855	3	0	Light Pink (5 Suits)	2019-10-31 — 07:23:26 UTC	Fireheart, kopen, Valetta6789	13	5	25
 61854	3	0	Light Pink (5 Suits)	2019-10-31 — 07:15:32 UTC	Fireheart, kopen, Valetta6789	12	5	25
 61853	3	0	Light Pink (5 Suits)	2019-10-31 — 07:04:31 UTC	Fireheart, kopen, Valetta6789	23	5	25
 61852	3	0	Duck (5 Suits)	2019-10-31 — 06:42:48 UTC	Fireheart, kodomazer, kopen	35	5	25
 61851	3	24	Duck (5 Suits)	2019-10-31 — 06:31:00 UTC	Fireheart, kodomazer, kopen	52	5	25
-61850	2	24	Duck (5 Suits)	2019-10-31 — 05:55:23 UTC	kodomazer, kopen	30	5	25
+61850	2	24	Duck (5 Suits)	2019-10-31 — 05:55:23 UTC	kodomazer, kopen	31	5	25
 61849	2	0	Duck (5 Suits)	2019-10-31 — 05:40:46 UTC	kodomazer, kopen	41	5	25
-61848	2	0	Duck (5 Suits)	2019-10-31 — 05:21:29 UTC	kodomazer, kopen	63	5	25
+61848	2	0	Duck (5 Suits)	2019-10-31 — 05:21:29 UTC	kodomazer, kopen	64	5	25
 61847	3	0	Duck (5 Suits)	2019-10-31 — 04:51:30 UTC	kodomazer, kopen, Razvogor	13	5	25
-61842	3	0	Duck (5 Suits)	2019-10-31 — 04:31:15 UTC	kodomazer, kopen, Razvogor	15	5	25
+61842	3	0	Duck (5 Suits)	2019-10-31 — 04:31:15 UTC	kodomazer, kopen, Razvogor	16	5	25
 61838	4	0	Duck (5 Suits)	2019-10-31 — 04:21:30 UTC	invarse, kodomazer, kopen, Razvogor	5	5	25
-61587	2	25	No Variant	2019-10-30 — 05:09:24 UTC	jonathan124567, kopen	1031	5	25
-61581	2	0	No Variant	2019-10-30 — 04:48:47 UTC	jonathan124567, kopen	1078	5	25
-61577	2	0	No Variant	2019-10-30 — 04:40:23 UTC	jonathan124567, kopen	1117	5	25
-61575	2	0	No Variant	2019-10-30 — 04:19:36 UTC	jonathan124567, kopen	1148	5	25
-61573	2	0	No Variant	2019-10-30 — 04:04:32 UTC	jonathan124567, kopen	1206	5	25
-61568	2	24	No Variant	2019-10-30 — 03:49:31 UTC	jonathan124567, kopen	1249	5	25
-61563	2	0	No Variant	2019-10-30 — 03:07:45 UTC	jonathan124567, kopen	2532	5	25
-61562	2	22	No Variant	2019-10-30 — 02:50:27 UTC	jonathan124567, kopen	2750	5	25
-61561	2	20	No Variant	2019-10-30 — 02:34:07 UTC	jonathan124567, kopen	3051	5	25
-61560	2	23	No Variant	2019-10-30 — 02:14:39 UTC	jonathan124567, kopen	3507	5	25
+61587	2	25	No Variant	2019-10-30 — 05:09:24 UTC	jonathan124567, kopen	1041	5	25
+61581	2	0	No Variant	2019-10-30 — 04:48:47 UTC	jonathan124567, kopen	1089	5	25
+61577	2	0	No Variant	2019-10-30 — 04:40:23 UTC	jonathan124567, kopen	1124	5	25
+61575	2	0	No Variant	2019-10-30 — 04:19:36 UTC	jonathan124567, kopen	1159	5	25
+61573	2	0	No Variant	2019-10-30 — 04:04:32 UTC	jonathan124567, kopen	1219	5	25
+61568	2	24	No Variant	2019-10-30 — 03:49:31 UTC	jonathan124567, kopen	1263	5	25
+61563	2	0	No Variant	2019-10-30 — 03:07:45 UTC	jonathan124567, kopen	2552	5	25
+61562	2	22	No Variant	2019-10-30 — 02:50:27 UTC	jonathan124567, kopen	2772	5	25
+61561	2	20	No Variant	2019-10-30 — 02:34:07 UTC	jonathan124567, kopen	3072	5	25
+61560	2	23	No Variant	2019-10-30 — 02:14:39 UTC	jonathan124567, kopen	3537	5	25
 61352	6	15	3 Suits	2019-10-29 — 08:32:55 UTC	asaelr, efaust, Fireheart, kopen, sjdrodge, Valetta6789	2	3	15
 61351	6	0	3 Suits	2019-10-29 — 08:21:31 UTC	asaelr, efaust, Fireheart, kopen, sjdrodge, Valetta6789	1	3	15
 61348	6	13	3 Suits	2019-10-29 — 08:10:31 UTC	asaelr, efaust, Fireheart, kopen, sjdrodge, Valetta6789	2	3	15
 61346	5	22	Black & Rainbow (5 Suits)	2019-10-29 — 07:45:45 UTC	efaust, Fireheart, kopen, sjdrodge, Valetta6789	3	5	25
-61345	5	0	Black & Rainbow (5 Suits)	2019-10-29 — 07:16:24 UTC	efaust, Fireheart, kopen, sjdrodge, Valetta6789	4	5	25
-61342	5	0	Black & Rainbow (5 Suits)	2019-10-29 — 06:51:19 UTC	efaust, Fireheart, kopen, sjdrodge, Valetta6789	6	5	25
+61345	5	0	Black & Rainbow (5 Suits)	2019-10-29 — 07:16:24 UTC	efaust, Fireheart, kopen, sjdrodge, Valetta6789	5	5	25
+61342	5	0	Black & Rainbow (5 Suits)	2019-10-29 — 06:51:19 UTC	efaust, Fireheart, kopen, sjdrodge, Valetta6789	7	5	25
 61339	4	0	Black & Rainbow (5 Suits)	2019-10-29 — 06:35:26 UTC	Fireheart, kopen, sjdrodge, Valetta6789	4	5	25
 61338	3	22	Black & Rainbow (5 Suits)	2019-10-29 — 06:21:44 UTC	Fireheart, kopen, Valetta6789	3	5	25
 61336	4	24	Black & Rainbow (5 Suits)	2019-10-29 — 06:04:59 UTC	Fireheart, kopen, scharkbite, Valetta6789	32	5	25
@@ -1239,11 +1251,11 @@
 61329	3	0	Duck (5 Suits)	2019-10-29 — 05:07:22 UTC	kopen, Razvogor, scharkbite	15	5	25
 61327	3	0	Duck (5 Suits)	2019-10-29 — 05:02:36 UTC	kopen, Razvogor, scharkbite	17	5	25
 61326	4	0	Duck (5 Suits)	2019-10-29 — 04:55:38 UTC	Fireheart, kopen, Razvogor, scharkbite	13	5	25
-61325	4	0	Duck (5 Suits)	2019-10-29 — 04:49:40 UTC	Fireheart, kopen, Razvogor, scharkbite	27	5	25
+61325	4	0	Duck (5 Suits)	2019-10-29 — 04:49:40 UTC	Fireheart, kopen, Razvogor, scharkbite	28	5	25
 61324	5	0	Pink (6 Suits)	2019-10-29 — 04:45:40 UTC	Fireheart, kopen, Libster, Razvogor, scharkbite	8	6	30
 61323	5	0	Pink (6 Suits)	2019-10-29 — 04:41:12 UTC	Fireheart, kopen, Libster, Razvogor, scharkbite	9	6	30
 61319	5	0	Duck (5 Suits)	2019-10-29 — 04:28:52 UTC	Fireheart, kopen, Libster, Razvogor, scharkbite	9	5	25
-61313	5	0	Black & Rainbow (6 Suits)	2019-10-29 — 03:56:21 UTC	efaust, Fireheart, kopen, Razvogor, sjdrodge	20	6	30
+61313	5	0	Black & Rainbow (6 Suits)	2019-10-29 — 03:56:21 UTC	efaust, Fireheart, kopen, Razvogor, sjdrodge	21	6	30
 61310	5	30	Black & White (6 Suits)	2019-10-29 — 03:30:22 UTC	efaust, Fireheart, kopen, Razvogor, sjdrodge	10	6	30
 61308	5	27	Black & White (6 Suits)	2019-10-29 — 03:00:30 UTC	efaust, Fireheart, kopen, sjdrodge, Zamiel	13	6	30
 61301	3	0	Black & Rainbow (5 Suits)	2019-10-29 — 02:34:03 UTC	DMoney, efaust, kopen	7	5	25
@@ -1262,7 +1274,7 @@
 61071	5	0	No Variant	2019-10-28 — 05:31:34 UTC	Fireheart, kopen, scharkbite, Valetta6789, Zamiel	1	5	25
 61070	5	0	No Variant	2019-10-28 — 05:21:44 UTC	Fireheart, kopen, scharkbite, Valetta6789, Zamiel	1	5	25
 61029	3	25	Black (5 Suits)	2019-10-28 — 01:35:12 UTC	DMoney, kopen, Romain672	119	5	25
-61025	2	24	Rainbow (5 Suits)	2019-10-28 — 01:16:06 UTC	kopen, Romain672	248	5	25
+61025	2	24	Rainbow (5 Suits)	2019-10-28 — 01:16:06 UTC	kopen, Romain672	257	5	25
 61021	4	23	Black (5 Suits)	2019-10-28 — 00:55:58 UTC	asaelr, awe, kopen, Romain672	13	5	25
 61019	4	24	Black (5 Suits)	2019-10-28 — 00:33:37 UTC	asaelr, awe, kopen, Romain672	14	5	25
 61015	4	0	Black (5 Suits)	2019-10-28 — 00:14:42 UTC	asaelr, awe, kopen, Romain672	16	5	25
@@ -1270,40 +1282,40 @@
 61009	6	0	Black (6 Suits)	2019-10-27 — 23:41:54 UTC	asaelr, awe, DMoney, kopen, Libster, Romain672	3	6	30
 61007	6	0	Black (6 Suits)	2019-10-27 — 23:19:16 UTC	asaelr, awe, DMoney, kopen, Libster, Romain672	3	6	30
 61006	6	0	Black (6 Suits)	2019-10-27 — 23:09:56 UTC	asaelr, awe, DMoney, kopen, Libster, Romain672	3	6	30
-61005	5	0	Black (5 Suits)	2019-10-27 — 22:53:47 UTC	awe, DMoney, kopen, Libster, Romain672	17	5	25
-61004	4	24	Black (5 Suits)	2019-10-27 — 22:31:46 UTC	awe, DMoney, kopen, Libster	44	5	25
+61005	5	0	Black (5 Suits)	2019-10-27 — 22:53:47 UTC	awe, DMoney, kopen, Libster, Romain672	18	5	25
+61004	4	24	Black (5 Suits)	2019-10-27 — 22:31:46 UTC	awe, DMoney, kopen, Libster	47	5	25
 61003	3	0	Rainbow (5 Suits)	2019-10-27 — 22:05:31 UTC	DMoney, kopen, Libster	11	5	25
-61002	3	0	Rainbow (5 Suits)	2019-10-27 — 21:58:04 UTC	DMoney, kopen, Libster	12	5	25
-61001	3	24	Rainbow (5 Suits)	2019-10-27 — 21:49:22 UTC	DMoney, kopen, Libster	12	5	25
+61002	3	0	Rainbow (5 Suits)	2019-10-27 — 21:58:04 UTC	DMoney, kopen, Libster	13	5	25
+61001	3	24	Rainbow (5 Suits)	2019-10-27 — 21:49:22 UTC	DMoney, kopen, Libster	13	5	25
 61000	2	0	Pink (4 Suits)	2019-10-27 — 21:33:01 UTC	DMoney, kopen	31	4	20
 60999	2	19	Pink (4 Suits)	2019-10-27 — 21:26:41 UTC	DMoney, kopen	34	4	20
-60998	3	25	White (5 Suits)	2019-10-27 — 21:14:44 UTC	DMoney, kopen, scharkbite	29	5	25
-60997	3	0	White (5 Suits)	2019-10-27 — 20:56:23 UTC	DMoney, kopen, scharkbite	41	5	25
+60998	3	25	White (5 Suits)	2019-10-27 — 21:14:44 UTC	DMoney, kopen, scharkbite	30	5	25
+60997	3	0	White (5 Suits)	2019-10-27 — 20:56:23 UTC	DMoney, kopen, scharkbite	44	5	25
 60995	3	24	White (5 Suits)	2019-10-27 — 20:41:56 UTC	asaelr, kopen, scharkbite	10	5	25
-60992	3	30	6 Suits	2019-10-27 — 20:25:59 UTC	asaelr, kopen, scharkbite	18	6	30
-60990	2	25	No Variant	2019-10-27 — 20:05:45 UTC	asaelr, kopen	220	5	25
-60871	3	0	Black (5 Suits)	2019-10-26 — 22:12:11 UTC	honzas, JeffD, kopen	134	5	25
+60992	3	30	6 Suits	2019-10-27 — 20:25:59 UTC	asaelr, kopen, scharkbite	20	6	30
+60990	2	25	No Variant	2019-10-27 — 20:05:45 UTC	asaelr, kopen	226	5	25
+60871	3	0	Black (5 Suits)	2019-10-26 — 22:12:11 UTC	honzas, JeffD, kopen	135	5	25
 60784	3	0	Rainbow (5 Suits)	2019-10-26 — 03:44:54 UTC	kodomazer, kopen, riking	135	5	25
-60778	3	21	Rainbow (5 Suits)	2019-10-26 — 03:21:44 UTC	kodomazer, kopen, riking	185	5	25
-60772	3	25	White (5 Suits)	2019-10-26 — 02:58:25 UTC	kodomazer, kopen, riking	126	5	25
-60769	3	25	No Variant	2019-10-26 — 02:36:45 UTC	kodomazer, kopen, riking	344	5	25
+60778	3	21	Rainbow (5 Suits)	2019-10-26 — 03:21:44 UTC	kodomazer, kopen, riking	186	5	25
+60772	3	25	White (5 Suits)	2019-10-26 — 02:58:25 UTC	kodomazer, kopen, riking	131	5	25
+60769	3	25	No Variant	2019-10-26 — 02:36:45 UTC	kodomazer, kopen, riking	353	5	25
 60603	2	25	White (5 Suits)	2019-10-25 — 06:53:15 UTC	kopen, micerang	42	5	25
 60601	2	23	White (5 Suits)	2019-10-25 — 06:39:02 UTC	kopen, micerang	48	5	25
 60265	4	0	Rainbow & Gray (5 Suits)	2019-10-23 — 05:14:39 UTC	Fireheart, kopen, Kyle, scharkbite	7	5	25
 60264	4	20	Rainbow & Gray (5 Suits)	2019-10-23 — 04:58:00 UTC	Fireheart, kopen, Kyle, scharkbite	9	5	25
-60263	4	25	Gray (5 Suits)	2019-10-23 — 04:38:02 UTC	Fireheart, kopen, Kyle, scharkbite	1	5	25
-60261	3	24	Gray (5 Suits)	2019-10-23 — 04:17:18 UTC	kopen, Kyle, scharkbite	12	5	25
+60263	4	25	Gray (5 Suits)	2019-10-23 — 04:38:02 UTC	Fireheart, kopen, Kyle, scharkbite	4	5	25
+60261	3	24	Gray (5 Suits)	2019-10-23 — 04:17:18 UTC	kopen, Kyle, scharkbite	13	5	25
 60260	3	0	Dual-Color Mix	2019-10-23 — 03:46:36 UTC	kopen, Kyle, Razvogor	11	6	30
 60259	3	0	Dual-Color Mix	2019-10-23 — 03:30:51 UTC	kopen, Kyle, Razvogor	10	6	30
 60257	3	0	Dual-Color Mix	2019-10-23 — 03:16:15 UTC	kopen, Kyle, Razvogor	11	6	30
 60251	3	0	Dual-Color Mix	2019-10-23 — 03:04:50 UTC	kopen, Kyle, Razvogor	11	6	30
 60249	3	0	Dual-Color Mix	2019-10-23 — 02:45:16 UTC	kopen, micerang, Razvogor	12	6	30
-60248	3	0	Dual-Color Mix	2019-10-23 — 02:27:25 UTC	kopen, micerang, Razvogor	12	6	30
+60248	3	0	Dual-Color Mix	2019-10-23 — 02:27:25 UTC	kopen, micerang, Razvogor	13	6	30
 60247	3	0	Dual-Color Mix	2019-10-23 — 02:07:47 UTC	kopen, micerang, Razvogor	16	6	30
-60120	3	0	Null (3 Suits)	2019-10-22 — 05:32:22 UTC	Dr_Kakashi, IAMJEFF, kopen	11	3	15
-60118	3	0	Null (3 Suits)	2019-10-22 — 05:25:07 UTC	Dr_Kakashi, IAMJEFF, kopen	11	3	15
-60117	3	0	Null (3 Suits)	2019-10-22 — 05:20:02 UTC	Dr_Kakashi, IAMJEFF, kopen	17	3	15
-60116	3	0	Null (3 Suits)	2019-10-22 — 05:13:44 UTC	Dr_Kakashi, IAMJEFF, kopen	23	3	15
+60120	3	0	Null (3 Suits)	2019-10-22 — 05:32:22 UTC	Dr_Kakashi, IAMJEFF, kopen	12	3	15
+60118	3	0	Null (3 Suits)	2019-10-22 — 05:25:07 UTC	Dr_Kakashi, IAMJEFF, kopen	12	3	15
+60117	3	0	Null (3 Suits)	2019-10-22 — 05:20:02 UTC	Dr_Kakashi, IAMJEFF, kopen	18	3	15
+60116	3	0	Null (3 Suits)	2019-10-22 — 05:13:44 UTC	Dr_Kakashi, IAMJEFF, kopen	24	3	15
 60115	3	15	Pink & Null (3 Suits)	2019-10-22 — 05:00:06 UTC	Dr_Kakashi, IAMJEFF, kopen	2	3	15
 60114	3	0	Omni (6 Suits)	2019-10-22 — 04:49:08 UTC	Dr_Kakashi, IAMJEFF, kopen	36	6	30
 60113	4	25	Rainbow & White (5 Suits)	2019-10-22 — 04:29:32 UTC	Dr_Kakashi, IAMJEFF, kopen, scharkbite	12	5	25
@@ -1313,7 +1325,7 @@
 59994	4	30	Rainbow & Dark Brown (6 Suits)	2019-10-21 — 09:48:34 UTC	Dr_Kakashi, kopen, Livia, Romain672	4	6	30
 59993	4	0	Rainbow & Dark Brown (6 Suits)	2019-10-21 — 09:06:31 UTC	Dr_Kakashi, kopen, Livia, Romain672	5	6	30
 59992	4	0	Rainbow & Dark Brown (6 Suits)	2019-10-21 — 08:51:41 UTC	Dr_Kakashi, kopen, Livia, Romain672	6	6	30
-59991	2	20	Ambiguous (4 Suits)	2019-10-21 — 08:43:08 UTC	Dr_Kakashi, kopen	84	4	20
+59991	2	20	Ambiguous (4 Suits)	2019-10-21 — 08:43:08 UTC	Dr_Kakashi, kopen	86	4	20
 59990	2	15	Dual-Color (3 Suits)	2019-10-21 — 08:36:15 UTC	Dr_Kakashi, kopen	1	3	15
 59989	2	13	Dual-Color (3 Suits)	2019-10-21 — 08:27:41 UTC	Dr_Kakashi, kopen	1	3	15
 59988	2	0	Dual-Color (3 Suits)	2019-10-21 — 08:21:01 UTC	Dr_Kakashi, kopen	1	3	15
@@ -1330,73 +1342,73 @@
 59977	2	0	Null (5 Suits)	2019-10-21 — 07:18:07 UTC	Dr_Kakashi, kopen	13	5	25
 59976	2	0	Null (5 Suits)	2019-10-21 — 07:10:05 UTC	Dr_Kakashi, kopen	14	5	25
 59975	2	0	Null (5 Suits)	2019-10-21 — 06:58:52 UTC	Dr_Kakashi, kopen	14	5	25
-59974	2	25	No Variant	2019-10-21 — 06:45:44 UTC	Dr_Kakashi, kopen	249	5	25
-59973	2	0	No Variant	2019-10-21 — 06:34:48 UTC	Dr_Kakashi, kopen	254	5	25
-59971	3	28	Up or Down & Rainbow (6 Suits)	2019-10-21 — 06:04:17 UTC	Dr_Kakashi, Fireheart, kopen	28	6	30
+59974	2	25	No Variant	2019-10-21 — 06:45:44 UTC	Dr_Kakashi, kopen	253	5	25
+59973	2	0	No Variant	2019-10-21 — 06:34:48 UTC	Dr_Kakashi, kopen	258	5	25
+59971	3	28	Up or Down & Rainbow (6 Suits)	2019-10-21 — 06:04:17 UTC	Dr_Kakashi, Fireheart, kopen	30	6	30
 59970	4	0	Rainbow & Dark Pink (5 Suits)	2019-10-21 — 05:30:29 UTC	Dr_Kakashi, Fireheart, IAMJEFF, kopen	6	5	25
 59966	5	19	Pink (4 Suits)	2019-10-21 — 05:07:54 UTC	Dr_Kakashi, Fireheart, IAMJEFF, kopen, micerang	9	4	20
 59963	5	15	3 Suits	2019-10-21 — 04:49:00 UTC	Dr_Kakashi, Fireheart, IAMJEFF, kopen, micerang	9	3	15
 59959	5	12	3 Suits	2019-10-21 — 04:36:56 UTC	Dr_Kakashi, Fireheart, IAMJEFF, kopen, micerang	10	3	15
-59957	4	25	Gray (5 Suits)	2019-10-21 — 04:23:19 UTC	Fireheart, kopen, micerang, scharkbite	1	5	25
-59955	4	21	Gray (5 Suits)	2019-10-21 — 04:03:21 UTC	Fireheart, kopen, micerang, scharkbite	4	5	25
-59954	4	23	Gray (5 Suits)	2019-10-21 — 03:44:14 UTC	Fireheart, kopen, micerang, scharkbite	4	5	25
-59953	4	22	Gray (5 Suits)	2019-10-21 — 03:23:35 UTC	Fireheart, kopen, micerang, scharkbite	33	5	25
-59952	4	0	Gray (5 Suits)	2019-10-21 — 02:54:29 UTC	Fireheart, kopen, micerang, Zamiel	3	5	25
-59951	4	0	Gray (5 Suits)	2019-10-21 — 02:42:27 UTC	Fireheart, kopen, micerang, Zamiel	3	5	25
-59949	4	22	Gray (5 Suits)	2019-10-21 — 02:26:06 UTC	Fireheart, kopen, micerang, Zamiel	3	5	25
-59948	4	0	Gray (5 Suits)	2019-10-21 — 02:00:35 UTC	Fireheart, kopen, micerang, Zamiel	3	5	25
-59946	4	0	Gray (5 Suits)	2019-10-21 — 01:43:41 UTC	Fireheart, kopen, micerang, Zamiel	4	5	25
-59942	4	24	Gray (5 Suits)	2019-10-21 — 01:32:35 UTC	Fireheart, kopen, micerang, Zamiel	5	5	25
-59939	4	22	Gray (5 Suits)	2019-10-21 — 01:14:30 UTC	Fireheart, kopen, micerang, Zamiel	5	5	25
+59957	4	25	Gray (5 Suits)	2019-10-21 — 04:23:19 UTC	Fireheart, kopen, micerang, scharkbite	5	5	25
+59955	4	21	Gray (5 Suits)	2019-10-21 — 04:03:21 UTC	Fireheart, kopen, micerang, scharkbite	6	5	25
+59954	4	23	Gray (5 Suits)	2019-10-21 — 03:44:14 UTC	Fireheart, kopen, micerang, scharkbite	6	5	25
+59953	4	22	Gray (5 Suits)	2019-10-21 — 03:23:35 UTC	Fireheart, kopen, micerang, scharkbite	34	5	25
+59952	4	0	Gray (5 Suits)	2019-10-21 — 02:54:29 UTC	Fireheart, kopen, micerang, Zamiel	6	5	25
+59951	4	0	Gray (5 Suits)	2019-10-21 — 02:42:27 UTC	Fireheart, kopen, micerang, Zamiel	6	5	25
+59949	4	22	Gray (5 Suits)	2019-10-21 — 02:26:06 UTC	Fireheart, kopen, micerang, Zamiel	6	5	25
+59948	4	0	Gray (5 Suits)	2019-10-21 — 02:00:35 UTC	Fireheart, kopen, micerang, Zamiel	6	5	25
+59946	4	0	Gray (5 Suits)	2019-10-21 — 01:43:41 UTC	Fireheart, kopen, micerang, Zamiel	8	5	25
+59942	4	24	Gray (5 Suits)	2019-10-21 — 01:32:35 UTC	Fireheart, kopen, micerang, Zamiel	9	5	25
+59939	4	22	Gray (5 Suits)	2019-10-21 — 01:14:30 UTC	Fireheart, kopen, micerang, Zamiel	8	5	25
 59764	4	24	No Variant	2019-10-20 — 01:43:40 UTC	Instantiation, kopen, Libster, Zy	8	5	25
 59763	4	0	No Variant	2019-10-20 — 01:18:32 UTC	Instantiation, kopen, Libster, Zy	9	5	25
 59760	4	24	No Variant	2019-10-20 — 00:58:22 UTC	Instantiation, kopen, Libster, Zy	7	5	25
 59757	4	0	No Variant	2019-10-20 — 00:40:52 UTC	Instantiation, kopen, Libster, Zy	9	5	25
-59755	4	25	No Variant	2019-10-20 — 00:23:22 UTC	Instantiation, jeep, kopen, Zy	384	5	25
-59754	3	24	No Variant	2019-10-20 — 00:02:34 UTC	Instantiation, jeep, kopen	551	5	25
-59753	3	0	No Variant	2019-10-19 — 23:53:24 UTC	Instantiation, jeep, kopen	573	5	25
-59752	3	22	No Variant	2019-10-19 — 23:46:03 UTC	Instantiation, jeep, kopen	801	5	25
-59750	4	0	White (6 Suits)	2019-10-19 — 23:29:55 UTC	Floriman, jeep, kopen, Livia	16	6	30
+59755	4	25	No Variant	2019-10-20 — 00:23:22 UTC	Instantiation, jeep, kopen, Zy	387	5	25
+59754	3	24	No Variant	2019-10-20 — 00:02:34 UTC	Instantiation, jeep, kopen	558	5	25
+59753	3	0	No Variant	2019-10-19 — 23:53:24 UTC	Instantiation, jeep, kopen	582	5	25
+59752	3	22	No Variant	2019-10-19 — 23:46:03 UTC	Instantiation, jeep, kopen	809	5	25
+59750	4	0	White (6 Suits)	2019-10-19 — 23:29:55 UTC	Floriman, jeep, kopen, Livia	17	6	30
 59746	4	0	White (6 Suits)	2019-10-19 — 23:12:05 UTC	Floriman, jeep, kopen, Livia	29	6	30
 59741	3	0	Alternating Clues (5 Suits)	2019-10-19 — 23:01:57 UTC	Floriman, kopen, Livia	24	5	25
 59726	3	27	Black & White (6 Suits)	2019-10-19 — 22:23:44 UTC	asaelr, kopen, Zy	13	6	30
-59722	3	0	Black & White (6 Suits)	2019-10-19 — 22:05:30 UTC	asaelr, kopen, Zy	33	6	30
-59720	3	0	Black & White (6 Suits)	2019-10-19 — 22:01:24 UTC	asaelr, kopen, Zy	34	6	30
-59717	3	24	Black & White (6 Suits)	2019-10-19 — 21:48:17 UTC	asaelr, kopen, Zy	47	6	30
-59636	3	0	No Variant	2019-10-19 — 03:47:08 UTC	DMoney, kopen, Zy	645	5	25
-59633	3	0	No Variant	2019-10-19 — 03:27:40 UTC	DMoney, kopen, Zy	840	5	25
-59629	3	0	No Variant	2019-10-19 — 03:01:23 UTC	DMoney, kopen, Zy	940	5	25
-59627	3	0	No Variant	2019-10-19 — 02:47:02 UTC	DMoney, kopen, Zy	1017	5	25
+59722	3	0	Black & White (6 Suits)	2019-10-19 — 22:05:30 UTC	asaelr, kopen, Zy	34	6	30
+59720	3	0	Black & White (6 Suits)	2019-10-19 — 22:01:24 UTC	asaelr, kopen, Zy	35	6	30
+59717	3	24	Black & White (6 Suits)	2019-10-19 — 21:48:17 UTC	asaelr, kopen, Zy	48	6	30
+59636	3	0	No Variant	2019-10-19 — 03:47:08 UTC	DMoney, kopen, Zy	655	5	25
+59633	3	0	No Variant	2019-10-19 — 03:27:40 UTC	DMoney, kopen, Zy	849	5	25
+59629	3	0	No Variant	2019-10-19 — 03:01:23 UTC	DMoney, kopen, Zy	952	5	25
+59627	3	0	No Variant	2019-10-19 — 02:47:02 UTC	DMoney, kopen, Zy	1026	5	25
 59623	5	0	No Variant	2019-10-19 — 02:31:57 UTC	DMoney, Fireheart, kopen, micerang, Zamiel	1	5	25
 59622	5	0	No Variant	2019-10-19 — 02:27:13 UTC	DMoney, Fireheart, kopen, micerang, Zamiel	1	5	25
 59620	5	25	No Variant	2019-10-19 — 02:16:47 UTC	DMoney, Fireheart, kopen, micerang, Zamiel	1	5	25
 59617	4	25	No Variant	2019-10-19 — 02:01:59 UTC	Fireheart, kopen, micerang, Zamiel	2	5	25
 59613	4	25	No Variant	2019-10-19 — 01:47:56 UTC	Fireheart, IAMJEFF, kopen, Zamiel	2	5	25
 59608	3	0	Black & Null (6 Suits)	2019-10-19 — 01:19:25 UTC	Fireheart, Jake_Stiles, kopen	7	6	30
-59456	3	0	Dark Omni (6 Suits)	2019-10-18 — 09:17:39 UTC	kopen, NoMercy, Romain672	26	6	30
-59455	3	30	Rainbow & White (6 Suits)	2019-10-18 — 08:51:46 UTC	kopen, NoMercy, Romain672	24	6	30
+59456	3	0	Dark Omni (6 Suits)	2019-10-18 — 09:17:39 UTC	kopen, NoMercy, Romain672	27	6	30
+59455	3	30	Rainbow & White (6 Suits)	2019-10-18 — 08:51:46 UTC	kopen, NoMercy, Romain672	27	6	30
 59454	5	0	Black & Rainbow (6 Suits)	2019-10-18 — 08:18:52 UTC	Dr_Kakashi, kopen, Livia, NoMercy, Romain672	4	6	30
 59452	5	29	Ambiguous & Dual-Color	2019-10-18 — 07:39:35 UTC	Dr_Kakashi, kodomazer, kopen, NoMercy, Romain672	7	6	30
 59449	4	0	Ambiguous & Dual-Color	2019-10-18 — 07:02:18 UTC	Dr_Kakashi, kodomazer, kopen, Romain672	11	6	30
 59447	5	21	No Variant	2019-10-18 — 06:43:59 UTC	Dr_Kakashi, kodomazer, kopen, micerang, Romain672	25	5	25
-59446	5	0	No Variant	2019-10-18 — 06:37:10 UTC	Dr_Kakashi, kodomazer, kopen, micerang, Romain672	28	5	25
+59446	5	0	No Variant	2019-10-18 — 06:37:10 UTC	Dr_Kakashi, kodomazer, kopen, micerang, Romain672	30	5	25
 59444	4	12	3 Suits	2019-10-18 — 06:31:06 UTC	Dr_Kakashi, kodomazer, kopen, micerang	3	3	15
 59443	4	13	3 Suits	2019-10-18 — 06:25:18 UTC	Dr_Kakashi, kodomazer, kopen, micerang	3	3	15
 59442	4	0	3 Suits	2019-10-18 — 06:22:09 UTC	Dr_Kakashi, kodomazer, kopen, micerang	3	3	15
 59440	4	0	3 Suits	2019-10-18 — 06:20:48 UTC	Dr_Kakashi, kodomazer, kopen, micerang	3	3	15
 59439	4	0	3 Suits	2019-10-18 — 06:18:52 UTC	Dr_Kakashi, kodomazer, kopen, micerang	4	3	15
-59438	4	0	3 Suits	2019-10-18 — 06:15:20 UTC	Dr_Kakashi, kodomazer, kopen, micerang	4	3	15
+59438	4	0	3 Suits	2019-10-18 — 06:15:20 UTC	Dr_Kakashi, kodomazer, kopen, micerang	5	3	15
 59435	3	30	Dark Pink (6 Suits)	2019-10-18 — 05:55:54 UTC	Dr_Kakashi, kopen, micerang	11	6	30
 59433	3	0	Dark Pink (6 Suits)	2019-10-18 — 05:28:43 UTC	Dr_Kakashi, kopen, micerang	13	6	30
 59432	3	0	Dark Pink (6 Suits)	2019-10-18 — 05:22:39 UTC	Dr_Kakashi, kopen, micerang	15	6	30
-59429	3	0	Dark Rainbow (5 Suits)	2019-10-18 — 05:19:13 UTC	Dr_Kakashi, kopen, micerang	24	5	25
-59427	3	0	Dark Rainbow (5 Suits)	2019-10-18 — 05:13:25 UTC	Dr_Kakashi, kopen, micerang	29	5	25
-59424	3	0	Dark Rainbow (5 Suits)	2019-10-18 — 05:03:15 UTC	Dr_Kakashi, kopen, micerang	31	5	25
+59429	3	0	Dark Rainbow (5 Suits)	2019-10-18 — 05:19:13 UTC	Dr_Kakashi, kopen, micerang	25	5	25
+59427	3	0	Dark Rainbow (5 Suits)	2019-10-18 — 05:13:25 UTC	Dr_Kakashi, kopen, micerang	30	5	25
+59424	3	0	Dark Rainbow (5 Suits)	2019-10-18 — 05:03:15 UTC	Dr_Kakashi, kopen, micerang	32	5	25
 59418	5	28	Dark Pink (6 Suits)	2019-10-18 — 04:33:14 UTC	DMoney, jeep, kopen, Kyle, micerang	10	6	30
-59415	5	0	Dark Pink (6 Suits)	2019-10-18 — 04:15:28 UTC	DMoney, jeep, kopen, Kyle, micerang	11	6	30
+59415	5	0	Dark Pink (6 Suits)	2019-10-18 — 04:15:28 UTC	DMoney, jeep, kopen, Kyle, micerang	12	6	30
 59413	5	0	Dark Pink (6 Suits)	2019-10-18 — 04:13:31 UTC	DMoney, jeep, kopen, Kyle, micerang	13	6	30
-59410	4	0	Dark Pink (5 Suits)	2019-10-18 — 03:59:10 UTC	DMoney, jeep, kopen, Kyle	15	5	25
-59408	4	0	Dark Pink (5 Suits)	2019-10-18 — 03:36:36 UTC	DMoney, jeep, kopen, Kyle	20	5	25
+59410	4	0	Dark Pink (5 Suits)	2019-10-18 — 03:59:10 UTC	DMoney, jeep, kopen, Kyle	16	5	25
+59408	4	0	Dark Pink (5 Suits)	2019-10-18 — 03:36:36 UTC	DMoney, jeep, kopen, Kyle	21	5	25
 59404	5	0	No Variant	2019-10-18 — 03:21:41 UTC	DMoney, kopen, Razvogor, scharkbite, Zamiel	1	5	25
 59403	5	24	No Variant	2019-10-18 — 03:10:17 UTC	DMoney, kopen, Razvogor, scharkbite, Zamiel	1	5	25
 59401	5	0	No Variant	2019-10-18 — 03:04:25 UTC	DMoney, kopen, Razvogor, scharkbite, Zamiel	1	5	25
@@ -1411,86 +1423,86 @@
 59239	3	16	Pink-Fives (4 Suits)	2019-10-17 — 04:17:35 UTC	jeep, kopen, scharkbite	2	4	20
 59238	3	0	Pink-Fives (4 Suits)	2019-10-17 — 03:58:19 UTC	jeep, kopen, scharkbite	3	4	20
 59236	3	18	Pink-Fives (4 Suits)	2019-10-17 — 03:49:46 UTC	jeep, kopen, scharkbite	4	4	20
-59235	2	30	Black & White (6 Suits)	2019-10-17 — 03:30:48 UTC	jeep, kopen	69	6	30
+59235	2	30	Black & White (6 Suits)	2019-10-17 — 03:30:48 UTC	jeep, kopen	72	6	30
 59234	4	20	Rainbow & Brown (4 Suits)	2019-10-17 — 03:04:07 UTC	florrat2, kopen, micerang, Romain672	3	4	20
 59231	3	30	Pink (6 Suits)	2019-10-17 — 02:29:53 UTC	kodomazer, kopen, micerang	2	6	30
 59226	3	0	Rainbow (5 Suits)	2019-10-17 — 01:55:07 UTC	florrat2, kopen, Romain672	2	5	25
-59077	3	0	Ambiguous (6 Suits)	2019-10-16 — 05:42:39 UTC	jeep, kopen, Romain672	28	6	30
-59076	3	0	Ambiguous (6 Suits)	2019-10-16 — 05:23:05 UTC	kingyau, kopen, Romain672	42	6	30
+59077	3	0	Ambiguous (6 Suits)	2019-10-16 — 05:42:39 UTC	jeep, kopen, Romain672	29	6	30
+59076	3	0	Ambiguous (6 Suits)	2019-10-16 — 05:23:05 UTC	kingyau, kopen, Romain672	43	6	30
 59075	3	20	Pink-Fives (4 Suits)	2019-10-16 — 05:17:51 UTC	jeep, kopen, Romain672	4	4	20
 59074	3	19	Pink-Fives (4 Suits)	2019-10-16 — 04:59:00 UTC	jeep, kopen, Romain672	7	4	20
 59073	3	25	Black & Pink (5 Suits)	2019-10-16 — 04:36:05 UTC	jeep, kopen, Romain672	29	5	25
 59072	2	0	Extremely Ambiguous (4 Suits)	2019-10-16 — 04:15:42 UTC	kopen, Romain672	26	4	20
-59070	3	0	Rainbow & White (6 Suits)	2019-10-16 — 03:55:06 UTC	kopen, micerang, Romain672	32	6	30
-59069	3	0	Rainbow & White (6 Suits)	2019-10-16 — 03:36:54 UTC	kopen, micerang, Romain672	46	6	30
+59070	3	0	Rainbow & White (6 Suits)	2019-10-16 — 03:55:06 UTC	kopen, micerang, Romain672	33	6	30
+59069	3	0	Rainbow & White (6 Suits)	2019-10-16 — 03:36:54 UTC	kopen, micerang, Romain672	48	6	30
 59067	3	25	White (5 Suits)	2019-10-16 — 03:30:55 UTC	kopen, micerang, Romain672	23	5	25
 59065	3	30	Pink (6 Suits)	2019-10-16 — 03:09:19 UTC	kopen, micerang, Romain672	12	6	30
 59062	3	0	Pink (6 Suits)	2019-10-16 — 02:47:05 UTC	kopen, micerang, Romain672	12	6	30
 59061	3	25	Pink (5 Suits)	2019-10-16 — 02:33:57 UTC	kopen, micerang, Romain672	33	5	25
 59057	4	27	Rainbow (6 Suits)	2019-10-16 — 02:02:24 UTC	kopen, micerang, NoMercy, Romain672	12	6	30
-58967	4	0	Throw It in a Hole (5 Suits)	2019-10-15 — 10:31:07 UTC	Fireheart, kodomazer, kopen, Valetta6789	20	5	25
-58966	3	0	Throw It in a Hole (4 Suits)	2019-10-15 — 10:08:24 UTC	Fireheart, kopen, Valetta6789	27	4	20
+58967	4	0	Throw It in a Hole (5 Suits)	2019-10-15 — 10:31:07 UTC	Fireheart, kodomazer, kopen, Valetta6789	21	5	25
+58966	3	0	Throw It in a Hole (4 Suits)	2019-10-15 — 10:08:24 UTC	Fireheart, kopen, Valetta6789	28	4	20
 58846	3	15	Pink & Brown (3 Suits)	2019-10-14 — 09:14:47 UTC	kopen, Romain672, Valetta6789	4	3	15
 58845	3	14	Pink & Brown (3 Suits)	2019-10-14 — 08:59:59 UTC	kopen, Romain672, Valetta6789	5	3	15
 58844	3	14	Pink & Brown (3 Suits)	2019-10-14 — 08:46:29 UTC	kopen, Romain672, Valetta6789	6	3	15
-58843	3	0	Dual-Color & Rainbow (4 Suits)	2019-10-14 — 08:16:06 UTC	Dr_Kakashi, kopen, Romain672	12	4	20
-58842	4	30	Ambiguous (6 Suits)	2019-10-14 — 07:44:55 UTC	Dr_Kakashi, kopen, micerang, Romain672	8	6	30
+58843	3	0	Dual-Color & Rainbow (4 Suits)	2019-10-14 — 08:16:06 UTC	Dr_Kakashi, kopen, Romain672	13	4	20
+58842	4	30	Ambiguous (6 Suits)	2019-10-14 — 07:44:55 UTC	Dr_Kakashi, kopen, micerang, Romain672	9	6	30
 58839	4	25	Pink-Fives (5 Suits)	2019-10-14 — 07:12:36 UTC	Dr_Kakashi, kopen, micerang, Romain672	2	5	25
 58837	4	0	Pink-Fives (5 Suits)	2019-10-14 — 06:55:30 UTC	Dr_Kakashi, kopen, micerang, Romain672	2	5	25
 58836	4	0	Pink-Fives (5 Suits)	2019-10-14 — 06:54:28 UTC	Dr_Kakashi, kopen, micerang, Romain672	2	5	25
-58834	2	30	White (6 Suits)	2019-10-14 — 06:46:02 UTC	Dr_Kakashi, kopen	48	6	30
-58830	2	25	No Variant	2019-10-14 — 06:29:43 UTC	Dr_Kakashi, kopen	259	5	25
-58827	2	22	No Variant	2019-10-14 — 06:12:07 UTC	Dr_Kakashi, kopen	257	5	25
-58811	3	0	Up or Down & Pink (5 Suits)	2019-10-14 — 03:15:14 UTC	Fireheart, kopen, Razvogor	16	5	25
+58834	2	30	White (6 Suits)	2019-10-14 — 06:46:02 UTC	Dr_Kakashi, kopen	49	6	30
+58830	2	25	No Variant	2019-10-14 — 06:29:43 UTC	Dr_Kakashi, kopen	263	5	25
+58827	2	22	No Variant	2019-10-14 — 06:12:07 UTC	Dr_Kakashi, kopen	262	5	25
+58811	3	0	Up or Down & Pink (5 Suits)	2019-10-14 — 03:15:14 UTC	Fireheart, kopen, Razvogor	17	5	25
 58807	6	27	Pink (6 Suits)	2019-10-14 — 02:46:21 UTC	DMoney, Fireheart, florrat2, kopen, micerang, Razvogor	3	6	30
 58804	6	0	Pink (6 Suits)	2019-10-14 — 02:11:28 UTC	DMoney, Fireheart, florrat2, kopen, micerang, Razvogor	3	6	30
 58803	5	0	Cocoa Rainbow (6 Suits)	2019-10-14 — 01:56:57 UTC	DMoney, Fireheart, kopen, micerang, Razvogor	6	6	30
 58801	5	25	Brown (5 Suits)	2019-10-14 — 01:37:17 UTC	DMoney, Fireheart, kopen, micerang, Razvogor	3	5	25
 58797	4	0	Black (6 Suits)	2019-10-14 — 01:07:18 UTC	DMoney, Fireheart, kopen, micerang	49	6	30
-58795	4	0	Black (6 Suits)	2019-10-14 — 00:47:50 UTC	DMoney, Fireheart, kopen, micerang	90	6	30
+58795	4	0	Black (6 Suits)	2019-10-14 — 00:47:50 UTC	DMoney, Fireheart, kopen, micerang	95	6	30
 58794	5	20	White (4 Suits)	2019-10-14 — 00:29:25 UTC	DMoney, Fireheart, kopen, Libster, micerang	1	4	20
 58792	6	25	White (5 Suits)	2019-10-14 — 00:05:53 UTC	DMoney, Feer, kopen, Libster, micerang, Romain672	5	5	25
 58791	3	22	Black & Rainbow (6 Suits)	2019-10-13 — 23:38:54 UTC	Feer, kopen, Romain672	19	6	30
 58789	6	0	Ambiguous (6 Suits)	2019-10-13 — 23:07:02 UTC	Feer, Fireheart, kopen, Kyle, Romain672, scharkbite	8	6	30
-58786	5	26	Black (6 Suits)	2019-10-13 — 22:40:26 UTC	Feer, kopen, micerang, Romain672, scharkbite	15	6	30
+58786	5	26	Black (6 Suits)	2019-10-13 — 22:40:26 UTC	Feer, kopen, micerang, Romain672, scharkbite	16	6	30
 58785	6	30	Rainbow (6 Suits)	2019-10-13 — 22:12:26 UTC	Feer, kopen, Kyle, micerang, Romain672, scharkbite	14	6	30
-58784	4	30	Rainbow (6 Suits)	2019-10-13 — 21:30:23 UTC	Floriman, kopen, micerang, Romain672	91	6	30
-58783	4	0	Rainbow (6 Suits)	2019-10-13 — 20:55:09 UTC	Floriman, kopen, micerang, Romain672	96	6	30
-58782	4	0	Rainbow (6 Suits)	2019-10-13 — 20:37:07 UTC	Floriman, kopen, micerang, Romain672	122	6	30
+58784	4	30	Rainbow (6 Suits)	2019-10-13 — 21:30:23 UTC	Floriman, kopen, micerang, Romain672	94	6	30
+58783	4	0	Rainbow (6 Suits)	2019-10-13 — 20:55:09 UTC	Floriman, kopen, micerang, Romain672	97	6	30
+58782	4	0	Rainbow (6 Suits)	2019-10-13 — 20:37:07 UTC	Floriman, kopen, micerang, Romain672	123	6	30
 58709	3	0	Black & Rainbow (5 Suits)	2019-10-13 — 11:49:10 UTC	Floriman, kodomazer, kopen	8	5	25
 58708	3	22	Black & Rainbow (5 Suits)	2019-10-13 — 11:32:10 UTC	Floriman, kodomazer, kopen	9	5	25
 58707	3	0	Black & Rainbow (5 Suits)	2019-10-13 — 11:11:33 UTC	Floriman, kodomazer, kopen	58	5	25
-58706	3	23	No Variant	2019-10-13 — 10:49:04 UTC	kodomazer, kopen, riking	459	5	25
-58705	3	20	No Variant	2019-10-13 — 10:15:55 UTC	kodomazer, kopen, riking	485	5	25
-58704	2	24	No Variant	2019-10-13 — 09:44:50 UTC	kodomazer, kopen	513	5	25
+58706	3	23	No Variant	2019-10-13 — 10:49:04 UTC	kodomazer, kopen, riking	467	5	25
+58705	3	20	No Variant	2019-10-13 — 10:15:55 UTC	kodomazer, kopen, riking	491	5	25
+58704	2	24	No Variant	2019-10-13 — 09:44:50 UTC	kodomazer, kopen	521	5	25
 58691	4	20	Rainbow & Brown (4 Suits)	2019-10-13 — 04:06:14 UTC	IAMJEFF, kopen, Romain672, scharkbite	3	4	20
 58688	4	0	Rainbow & Brown (4 Suits)	2019-10-13 — 03:52:14 UTC	IAMJEFF, kopen, Romain672, scharkbite	5	4	20
 58687	4	0	Rainbow & Brown (4 Suits)	2019-10-13 — 03:42:17 UTC	IAMJEFF, kopen, Romain672, scharkbite	11	4	20
 58680	5	28	White & Brown (6 Suits)	2019-10-13 — 03:07:33 UTC	IAMJEFF, kopen, Kyle, Romain672, scharkbite	3	6	30
 58676	5	0	White & Brown (6 Suits)	2019-10-13 — 02:43:59 UTC	IAMJEFF, kopen, Kyle, Romain672, scharkbite	4	6	30
-58675	5	30	Rainbow & White (6 Suits)	2019-10-13 — 02:28:08 UTC	IAMJEFF, kopen, micerang, Romain672, scharkbite	6	6	30
-58673	6	0	Rainbow & White (6 Suits)	2019-10-13 — 02:03:39 UTC	IAMJEFF, kopen, Kyle, micerang, Romain672, scharkbite	5	6	30
+58675	5	30	Rainbow & White (6 Suits)	2019-10-13 — 02:28:08 UTC	IAMJEFF, kopen, micerang, Romain672, scharkbite	7	6	30
+58673	6	0	Rainbow & White (6 Suits)	2019-10-13 — 02:03:39 UTC	IAMJEFF, kopen, Kyle, micerang, Romain672, scharkbite	6	6	30
 58670	5	0	Rainbow & White (6 Suits)	2019-10-13 — 01:43:09 UTC	kopen, Kyle, micerang, Romain672, scharkbite	11	6	30
 58669	3	29	Black (6 Suits)	2019-10-13 — 01:23:59 UTC	kopen, micerang, scharkbite	24	6	30
-58668	4	29	6 Suits	2019-10-13 — 00:57:00 UTC	asaelr, kopen, micerang, scharkbite	16	6	30
+58668	4	29	6 Suits	2019-10-13 — 00:57:00 UTC	asaelr, kopen, micerang, scharkbite	17	6	30
 58665	3	0	6 Suits	2019-10-13 — 00:33:54 UTC	asaelr, kopen, scharkbite	22	6	30
 58660	4	28	6 Suits	2019-10-13 — 00:05:44 UTC	asaelr, kopen, Kyle, scharkbite	19	6	30
-58658	2	20	4 Suits	2019-10-12 — 23:39:56 UTC	kopen, Kyle	51	4	20
-58655	5	25	No Variant	2019-10-12 — 23:08:59 UTC	Feer, kopen, Kyle, riking, riking28	1119	5	25
+58658	2	20	4 Suits	2019-10-12 — 23:39:56 UTC	kopen, Kyle	52	4	20
+58655	5	25	No Variant	2019-10-12 — 23:08:59 UTC	Feer, kopen, Kyle, riking, riking28	1125	5	25
 58637	6	0	Pink-Fives (5 Suits)	2019-10-12 — 20:29:54 UTC	Fireheart, IAMJEFF, kopen, Kyle, micerang, Valetta6789	1	5	25
 58636	6	23	Pink-Fives (5 Suits)	2019-10-12 — 20:14:59 UTC	Fireheart, Floriman, IAMJEFF, kopen, micerang, Valetta6789	1	5	25
 58635	6	20	Pink-Fives (4 Suits)	2019-10-12 — 19:57:01 UTC	Fireheart, Floriman, IAMJEFF, kopen, micerang, Valetta6789	1	4	20
 58634	4	20	Pink-Fives (4 Suits)	2019-10-12 — 19:40:15 UTC	Fireheart, IAMJEFF, kopen, micerang	3	4	20
-58497	3	0	No Variant	2019-10-12 — 04:29:59 UTC	kopen, kopen2, OrangeMagma	1095	5	25
-58492	3	24	No Variant	2019-10-12 — 04:08:34 UTC	kopen, kopen2, OrangeMagma	1291	5	25
-58490	3	25	No Variant	2019-10-12 — 03:43:54 UTC	kopen, kopen2, OrangeMagma	1465	5	25
-58483	3	25	No Variant	2019-10-12 — 03:07:08 UTC	kopen, kopen2, OrangeMagma	1636	5	25
-58471	2	20	No Variant	2019-10-12 — 01:58:52 UTC	kopen, OrangeMagma	4109	5	25
+58497	3	0	No Variant	2019-10-12 — 04:29:59 UTC	kopen, kopen2, OrangeMagma	1102	5	25
+58492	3	24	No Variant	2019-10-12 — 04:08:34 UTC	kopen, kopen2, OrangeMagma	1299	5	25
+58490	3	25	No Variant	2019-10-12 — 03:43:54 UTC	kopen, kopen2, OrangeMagma	1474	5	25
+58483	3	25	No Variant	2019-10-12 — 03:07:08 UTC	kopen, kopen2, OrangeMagma	1651	5	25
+58471	2	20	No Variant	2019-10-12 — 01:58:52 UTC	kopen, OrangeMagma	4149	5	25
 58369	3	0	Light Pink (4 Suits)	2019-10-11 — 10:05:19 UTC	Fireheart, kopen, Valetta6789	8	4	20
 58368	3	0	Light Pink (4 Suits)	2019-10-11 — 09:56:55 UTC	Fireheart, kopen, Valetta6789	12	4	20
 58367	3	19	Light Pink (4 Suits)	2019-10-11 — 09:48:23 UTC	Fireheart, kopen, Valetta6789	17	4	20
 58365	3	0	Light Pink (4 Suits)	2019-10-11 — 09:28:25 UTC	Fireheart, kopen, Valetta6789	21	4	20
-58363	3	0	Light Pink (4 Suits)	2019-10-11 — 09:16:41 UTC	Fireheart, kopen, Valetta6789	21	4	20
+58363	3	0	Light Pink (4 Suits)	2019-10-11 — 09:16:41 UTC	Fireheart, kopen, Valetta6789	22	4	20
 58362	5	29	White (6 Suits)	2019-10-11 — 08:39:45 UTC	Bob Dole, Dr_Kakashi, Fireheart, kopen, Valetta6789	5	6	30
 58361	5	0	White (6 Suits)	2019-10-11 — 08:11:58 UTC	Bob Dole, Dr_Kakashi, Fireheart, kopen, Valetta6789	6	6	30
 58360	5	0	White (6 Suits)	2019-10-11 — 07:42:45 UTC	Bob Dole, Dr_Kakashi, Fireheart, kopen, Valetta6789	7	6	30
@@ -1502,33 +1514,33 @@
 58343	5	0	Rainbow-Ones (6 Suits)	2019-10-11 — 05:42:15 UTC	Dr_Kakashi, Fireheart, kopen, Kyle, micerang	7	6	30
 58340	5	24	Rainbow-Ones (5 Suits)	2019-10-11 — 05:18:08 UTC	Dr_Kakashi, Fireheart, kopen, Kyle, micerang	7	5	25
 58337	4	23	Cocoa Rainbow (6 Suits)	2019-10-11 — 04:45:53 UTC	kopen, Kyle, micerang, scharkbite	7	6	30
-58332	2	0	No Variant	2019-10-11 — 03:20:51 UTC	kopen, OrangeMagma	5374	5	25
-58251	3	0	Pink (5 Suits)	2019-10-10 — 04:37:08 UTC	jeep, kopen, Kyle	75	5	25
+58332	2	0	No Variant	2019-10-11 — 03:20:51 UTC	kopen, OrangeMagma	5421	5	25
+58251	3	0	Pink (5 Suits)	2019-10-10 — 04:37:08 UTC	jeep, kopen, Kyle	77	5	25
 58248	4	25	Rainbow (5 Suits)	2019-10-10 — 04:02:21 UTC	kopen, Kyle, micerang, Sucubis	12	5	25
 58246	4	25	Pink (5 Suits)	2019-10-10 — 03:35:52 UTC	kopen, Kyle, micerang, Sucubis	51	5	25
-58245	2	19	Pink (5 Suits)	2019-10-10 — 03:18:33 UTC	kopen, micerang	88	5	25
-58244	2	0	Pink (5 Suits)	2019-10-10 — 03:04:47 UTC	kopen, micerang	95	5	25
+58245	2	19	Pink (5 Suits)	2019-10-10 — 03:18:33 UTC	kopen, micerang	91	5	25
+58244	2	0	Pink (5 Suits)	2019-10-10 — 03:04:47 UTC	kopen, micerang	100	5	25
 58134	5	30	Pink (6 Suits)	2019-10-09 — 09:47:45 UTC	Dr_Kakashi, Fireheart, kodomazer, kopen, Valetta6789	13	6	30
 58133	5	0	Pink (6 Suits)	2019-10-09 — 09:07:56 UTC	Dr_Kakashi, Fireheart, kodomazer, kopen, Valetta6789	15	6	30
-58132	4	0	Pink (6 Suits)	2019-10-09 — 08:37:14 UTC	Dr_Kakashi, Fireheart, kopen, Valetta6789	42	6	30
-58131	4	0	Pink (6 Suits)	2019-10-09 — 08:23:43 UTC	Dr_Kakashi, Fireheart, kopen, Valetta6789	54	6	30
+58132	4	0	Pink (6 Suits)	2019-10-09 — 08:37:14 UTC	Dr_Kakashi, Fireheart, kopen, Valetta6789	43	6	30
+58131	4	0	Pink (6 Suits)	2019-10-09 — 08:23:43 UTC	Dr_Kakashi, Fireheart, kopen, Valetta6789	55	6	30
 58130	3	25	Black & Rainbow (5 Suits)	2019-10-09 — 07:59:02 UTC	Dr_Kakashi, kopen, Valetta6789	23	5	25
-58128	3	0	Black & Rainbow (5 Suits)	2019-10-09 — 07:42:24 UTC	Dr_Kakashi, kopen, Valetta6789	24	5	25
+58128	3	0	Black & Rainbow (5 Suits)	2019-10-09 — 07:42:24 UTC	Dr_Kakashi, kopen, Valetta6789	25	5	25
 58127	3	0	Black & Rainbow (5 Suits)	2019-10-09 — 07:39:14 UTC	Dr_Kakashi, kopen, Valetta6789	26	5	25
-58126	3	0	Black & Rainbow (5 Suits)	2019-10-09 — 07:25:16 UTC	Dr_Kakashi, kopen, Valetta6789	27	5	25
-58124	3	0	Black & Rainbow (5 Suits)	2019-10-09 — 07:07:19 UTC	Dr_Kakashi, kopen, Valetta6789	33	5	25
+58126	3	0	Black & Rainbow (5 Suits)	2019-10-09 — 07:25:16 UTC	Dr_Kakashi, kopen, Valetta6789	28	5	25
+58124	3	0	Black & Rainbow (5 Suits)	2019-10-09 — 07:07:19 UTC	Dr_Kakashi, kopen, Valetta6789	34	5	25
 58123	3	0	Black & Rainbow (5 Suits)	2019-10-09 — 07:03:37 UTC	Dr_Kakashi, kopen, Valetta6789	33	5	25
 58122	3	0	Black & Rainbow (5 Suits)	2019-10-09 — 06:55:53 UTC	Dr_Kakashi, kopen, Valetta6789	40	5	25
-58119	3	0	Black & Rainbow (5 Suits)	2019-10-09 — 06:40:55 UTC	Dr_Kakashi, kopen, Valetta6789	46	5	25
+58119	3	0	Black & Rainbow (5 Suits)	2019-10-09 — 06:40:55 UTC	Dr_Kakashi, kopen, Valetta6789	47	5	25
 58118	3	22	Black & Rainbow (5 Suits)	2019-10-09 — 06:25:35 UTC	Fireheart, kopen, Valetta6789	7	5	25
 58116	3	21	Black & Rainbow (5 Suits)	2019-10-09 — 06:10:15 UTC	Fireheart, kopen, Valetta6789	7	5	25
 58115	3	0	Black & Rainbow (5 Suits)	2019-10-09 — 05:57:10 UTC	Fireheart, kopen, Valetta6789	7	5	25
 58114	3	0	Black & Rainbow (5 Suits)	2019-10-09 — 05:53:56 UTC	Fireheart, kopen, Valetta6789	7	5	25
 58112	3	0	Black & Rainbow (5 Suits)	2019-10-09 — 05:42:13 UTC	Fireheart, kopen, Valetta6789	9	5	25
-58109	3	0	White (5 Suits)	2019-10-09 — 05:21:14 UTC	Fireheart, kopen, Kyle	11	5	25
+58109	3	0	White (5 Suits)	2019-10-09 — 05:21:14 UTC	Fireheart, kopen, Kyle	12	5	25
 58106	5	20	White (5 Suits)	2019-10-09 — 04:56:22 UTC	Fireheart, jeep, kopen, Kyle, scharkbite	2	5	25
-58101	5	25	No Variant	2019-10-09 — 04:24:34 UTC	jeep, kopen, Kyle, micerang, scharkbite	9	5	25
-58092	5	21	No Variant	2019-10-09 — 03:55:28 UTC	jeep, kopen, Kyle, micerang, scharkbite	9	5	25
+58101	5	25	No Variant	2019-10-09 — 04:24:34 UTC	jeep, kopen, Kyle, micerang, scharkbite	10	5	25
+58092	5	21	No Variant	2019-10-09 — 03:55:28 UTC	jeep, kopen, Kyle, micerang, scharkbite	10	5	25
 58088	5	0	No Variant	2019-10-09 — 03:35:40 UTC	kopen, Kyle, micerang, scharkbite, Zamiel	1	5	25
 58085	5	0	No Variant	2019-10-09 — 03:23:30 UTC	kopen, Kyle, micerang, scharkbite, Zamiel	1	5	25
 58083	5	0	No Variant	2019-10-09 — 03:16:34 UTC	kopen, Kyle, micerang, scharkbite, Zamiel	1	5	25
@@ -1537,54 +1549,54 @@
 58075	4	25	No Variant	2019-10-09 — 02:12:31 UTC	kopen, Kyle, micerang, Zamiel	2	5	25
 58071	5	23	No Variant	2019-10-09 — 01:42:50 UTC	kodomazer, kopen, Kyle, micerang, Zamiel	1	5	25
 58069	5	0	No Variant	2019-10-09 — 01:20:34 UTC	kodomazer, kopen, Kyle, micerang, Zamiel	1	5	25
-58011	3	0	White (6 Suits)	2019-10-08 — 07:29:42 UTC	asaelr, Dr_Kakashi, kopen	124	6	30
-58010	4	28	White (6 Suits)	2019-10-08 — 06:57:22 UTC	Dr_Kakashi, jeep, kopen, Kyle	35	6	30
+58011	3	0	White (6 Suits)	2019-10-08 — 07:29:42 UTC	asaelr, Dr_Kakashi, kopen	128	6	30
+58010	4	28	White (6 Suits)	2019-10-08 — 06:57:22 UTC	Dr_Kakashi, jeep, kopen, Kyle	36	6	30
 58009	4	24	White (5 Suits)	2019-10-08 — 06:01:09 UTC	Dr_Kakashi, kopen, Kyle, Valetta6789	5	5	25
-58008	4	20	Rainbow (4 Suits)	2019-10-08 — 05:27:14 UTC	kodomazer, kopen, Kyle, Valetta6789	25	4	20
-58006	4	18	Rainbow (4 Suits)	2019-10-08 — 05:00:56 UTC	kodomazer, kopen, Kyle, Valetta6789	32	4	20
+58008	4	20	Rainbow (4 Suits)	2019-10-08 — 05:27:14 UTC	kodomazer, kopen, Kyle, Valetta6789	26	4	20
+58006	4	18	Rainbow (4 Suits)	2019-10-08 — 05:00:56 UTC	kodomazer, kopen, Kyle, Valetta6789	33	4	20
 58004	6	0	Rainbow (4 Suits)	2019-10-08 — 04:42:41 UTC	Fireheart, IAMJEFF, kodomazer, kopen, Kyle, scharkbite	6	4	20
-58002	3	23	No Variant	2019-10-08 — 04:28:09 UTC	kopen, schroedz, smatoff	2163	5	25
-57997	3	25	No Variant	2019-10-08 — 03:57:31 UTC	kopen, schroedz, smatoff	2606	5	25
-57993	3	24	No Variant	2019-10-08 — 03:26:03 UTC	kopen, schroedz, smatoff	3260	5	25
-57986	3	0	No Variant	2019-10-08 — 02:46:16 UTC	kopen, schroedz, smatoff	4221	5	25
+58002	3	23	No Variant	2019-10-08 — 04:28:09 UTC	kopen, schroedz, smatoff	2179	5	25
+57997	3	25	No Variant	2019-10-08 — 03:57:31 UTC	kopen, schroedz, smatoff	2627	5	25
+57993	3	24	No Variant	2019-10-08 — 03:26:03 UTC	kopen, schroedz, smatoff	3290	5	25
+57986	3	0	No Variant	2019-10-08 — 02:46:16 UTC	kopen, schroedz, smatoff	4250	5	25
 57981	5	25	No Variant	2019-10-08 — 02:11:19 UTC	Fireheart, kopen, Kyle, NoMercy, Zamiel	1	5	25
 57978	4	0	No Variant	2019-10-08 — 01:49:38 UTC	kopen, Kyle, NoMercy, Zamiel	2	5	25
 57977	4	0	No Variant	2019-10-08 — 01:29:05 UTC	kopen, Kyle, NoMercy, Zamiel	2	5	25
 57975	3	25	No Variant	2019-10-08 — 01:12:06 UTC	kopen, NoMercy, Zamiel	6	5	25
-57790	4	29	Black & White (6 Suits)	2019-10-06 — 10:13:51 UTC	Dr_Kakashi, Floriman, kopen, wortel	17	6	30
+57790	4	29	Black & White (6 Suits)	2019-10-06 — 10:13:51 UTC	Dr_Kakashi, Floriman, kopen, wortel	18	6	30
 57723	4	0	White (5 Suits)	2019-10-05 — 23:42:02 UTC	asaelr, Dr_Kakashi, kopen, Kyle	5	5	25
 57722	4	24	White (5 Suits)	2019-10-05 — 23:29:32 UTC	asaelr, Dr_Kakashi, kopen, Kyle	7	5	25
 57721	4	0	White (4 Suits)	2019-10-05 — 23:11:30 UTC	asaelr, kopen, Kyle, Romain672	5	4	20
 57720	3	0	White (6 Suits)	2019-10-05 — 23:02:50 UTC	kopen, Kyle, Romain672	33	6	30
 57719	3	0	White (6 Suits)	2019-10-05 — 22:49:37 UTC	kopen, Kyle, Romain672	53	6	30
-57718	2	0	White (5 Suits)	2019-10-05 — 22:28:39 UTC	kopen, Romain672	90	5	25
-57717	2	25	White (5 Suits)	2019-10-05 — 22:13:12 UTC	kopen, Romain672	123	5	25
-57681	2	21	No Variant	2019-10-05 — 09:29:55 UTC	kopen, smatoff	1299	5	25
-57680	2	0	No Variant	2019-10-05 — 09:10:00 UTC	kopen, smatoff	1376	5	25
-57679	2	0	No Variant	2019-10-05 — 08:52:52 UTC	kopen, smatoff	1703	5	25
-57678	2	25	No Variant	2019-10-05 — 08:35:49 UTC	kopen, smatoff	1840	5	25
-57677	2	23	No Variant	2019-10-05 — 08:05:50 UTC	kopen, smatoff	1952	5	25
-57645	4	25	No Variant	2019-10-05 — 02:40:05 UTC	JeffD, kodomazer, kopen, Romain672	655	5	25
+57718	2	0	White (5 Suits)	2019-10-05 — 22:28:39 UTC	kopen, Romain672	92	5	25
+57717	2	25	White (5 Suits)	2019-10-05 — 22:13:12 UTC	kopen, Romain672	127	5	25
+57681	2	21	No Variant	2019-10-05 — 09:29:55 UTC	kopen, smatoff	1311	5	25
+57680	2	0	No Variant	2019-10-05 — 09:10:00 UTC	kopen, smatoff	1392	5	25
+57679	2	0	No Variant	2019-10-05 — 08:52:52 UTC	kopen, smatoff	1721	5	25
+57678	2	25	No Variant	2019-10-05 — 08:35:49 UTC	kopen, smatoff	1856	5	25
+57677	2	23	No Variant	2019-10-05 — 08:05:50 UTC	kopen, smatoff	1966	5	25
+57645	4	25	No Variant	2019-10-05 — 02:40:05 UTC	JeffD, kodomazer, kopen, Romain672	660	5	25
 57643	3	13	3 Suits	2019-10-05 — 02:17:17 UTC	kodomazer, kopen, Romain672	29	3	15
-57641	3	14	3 Suits	2019-10-05 — 01:59:06 UTC	kodomazer, kopen, Romain672	39	3	15
-57640	3	20	4 Suits	2019-10-05 — 01:44:59 UTC	kodomazer, kopen, Romain672	118	4	20
-57632	2	19	4 Suits	2019-10-05 — 01:26:18 UTC	kopen, Romain672	171	4	20
-57629	2	0	4 Suits	2019-10-05 — 01:06:17 UTC	kopen, Romain672	244	4	20
-57627	4	28	6 Suits	2019-10-05 — 00:45:44 UTC	JeffD, kodomazer, kopen, Romain672	68	6	30
+57641	3	14	3 Suits	2019-10-05 — 01:59:06 UTC	kodomazer, kopen, Romain672	40	3	15
+57640	3	20	4 Suits	2019-10-05 — 01:44:59 UTC	kodomazer, kopen, Romain672	120	4	20
+57632	2	19	4 Suits	2019-10-05 — 01:26:18 UTC	kopen, Romain672	177	4	20
+57629	2	0	4 Suits	2019-10-05 — 01:06:17 UTC	kopen, Romain672	248	4	20
+57627	4	28	6 Suits	2019-10-05 — 00:45:44 UTC	JeffD, kodomazer, kopen, Romain672	69	6	30
 57626	4	27	6 Suits	2019-10-05 — 00:06:24 UTC	JeffD, kodomazer, kopen, Romain672	92	6	30
 57622	4	0	6 Suits	2019-10-04 — 23:42:12 UTC	JeffD, kodomazer, kopen, Romain672	100	6	30
-57563	3	24	No Variant	2019-10-04 — 09:38:26 UTC	Bob Dole, kopen, NoMercy	1174	5	25
-57561	3	24	No Variant	2019-10-04 — 08:45:45 UTC	Bob Dole, kopen, NoMercy	1881	5	25
-57560	2	24	No Variant	2019-10-04 — 08:11:11 UTC	kodomazer, kopen	818	5	25
-57559	2	25	No Variant	2019-10-04 — 07:34:58 UTC	kodomazer, kopen	854	5	25
-57545	2	25	No Variant	2019-10-04 — 05:14:15 UTC	kopen, Libster	1448	5	25
-57544	2	0	No Variant	2019-10-04 — 04:47:37 UTC	kopen, Libster	1532	5	25
-57539	2	0	No Variant	2019-10-04 — 04:30:11 UTC	kopen, Libster	1621	5	25
+57563	3	24	No Variant	2019-10-04 — 09:38:26 UTC	Bob Dole, kopen, NoMercy	1180	5	25
+57561	3	24	No Variant	2019-10-04 — 08:45:45 UTC	Bob Dole, kopen, NoMercy	1896	5	25
+57560	2	24	No Variant	2019-10-04 — 08:11:11 UTC	kodomazer, kopen	828	5	25
+57559	2	25	No Variant	2019-10-04 — 07:34:58 UTC	kodomazer, kopen	863	5	25
+57545	2	25	No Variant	2019-10-04 — 05:14:15 UTC	kopen, Libster	1460	5	25
+57544	2	0	No Variant	2019-10-04 — 04:47:37 UTC	kopen, Libster	1547	5	25
+57539	2	0	No Variant	2019-10-04 — 04:30:11 UTC	kopen, Libster	1637	5	25
 57534	3	25	No Variant	2019-10-04 — 03:27:33 UTC	kopen, red_hedgehog, Zamiel	6	5	25
 57532	3	25	No Variant	2019-10-04 — 03:01:21 UTC	kopen, red_hedgehog, Zamiel	6	5	25
 57520	3	25	No Variant	2019-10-04 — 01:59:38 UTC	kopen, red_hedgehog, Zamiel	6	5	25
-57440	4	0	No Variant	2019-10-03 — 09:36:07 UTC	Bob Dole, kodomazer, kopen, Valetta6789	601	5	25
-57439	3	0	No Variant	2019-10-03 — 08:48:20 UTC	Bob Dole, kodomazer, kopen	422	5	25
-57436	5	22	No Variant	2019-10-03 — 08:11:41 UTC	Bob Dole, Dr_Kakashi, kopen, NoMercy, Valetta6789	81	5	25
-57361	2	19	No Variant	2019-10-03 — 02:07:10 UTC	kopen, smatoff	2147	5	25
-57355	2	0	No Variant	2019-10-03 — 01:42:12 UTC	kopen, smatoff	2288	5	25
+57440	4	0	No Variant	2019-10-03 — 09:36:07 UTC	Bob Dole, kodomazer, kopen, Valetta6789	606	5	25
+57439	3	0	No Variant	2019-10-03 — 08:48:20 UTC	Bob Dole, kodomazer, kopen	428	5	25
+57436	5	22	No Variant	2019-10-03 — 08:11:41 UTC	Bob Dole, Dr_Kakashi, kopen, NoMercy, Valetta6789	82	5	25
+57361	2	19	No Variant	2019-10-03 — 02:07:10 UTC	kopen, smatoff	2166	5	25
+57355	2	0	No Variant	2019-10-03 — 01:42:12 UTC	kopen, smatoff	2307	5	25

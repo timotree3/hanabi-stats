@@ -1,26 +1,71 @@
-511168	4	25	Gray (5 Suits)	2021-04-24 — 08:57:13 UTC	antitelharsic, jack67889, nitawa, Pablo-	4	5	25
-511158	4	25	Gray (5 Suits)	2021-04-24 — 08:20:43 UTC	antitelharsic, jack67889, nitawa, Pablo-	4	5	25
-511150	4	0	Gray (5 Suits)	2021-04-24 — 08:01:14 UTC	antitelharsic, jack67889, nitawa, Pablo-	3	5	25
+522152	4	0	Special Mix (6 Suits)	2021-05-06 — 15:51:58 UTC	dobi, jack67889, Kyle, Wittvector	5	6	30
+522143	4	0	Special Mix (6 Suits)	2021-05-06 — 15:34:56 UTC	dobi, jack67889, Kyle, Wittvector	5	6	30
+522131	4	0	Special Mix (6 Suits)	2021-05-06 — 15:23:51 UTC	dobi, jack67889, Kyle, Wittvector	8	6	30
+522125	4	0	Special Mix (6 Suits)	2021-05-06 — 15:15:40 UTC	dobi, jack67889, Kyle, Wittvector	12	6	30
+522122	3	0	Special Mix (6 Suits)	2021-05-06 — 15:06:00 UTC	jack67889, Kyle, Wittvector	16	6	30
+522115	3	0	Special Mix (6 Suits)	2021-05-06 — 14:47:05 UTC	jack67889, Kyle, Wittvector	24	6	30
+522109	5	30	Pink & White (6 Suits)	2021-05-06 — 14:18:28 UTC	ChristopheAF, jack67889, Lanvin, rz, Wittvector	1	6	30
+522101	5	0	Pink & White (6 Suits)	2021-05-06 — 13:59:11 UTC	ChristopheAF, jack67889, Lanvin, rz, Wittvector	1	6	30
+522097	4	0	White & Omni (5 Suits)	2021-05-06 — 13:45:56 UTC	jack67889, Lanvin, rz, Wittvector	1	5	25
+522096	4	0	White & Omni (5 Suits)	2021-05-06 — 13:41:22 UTC	jack67889, Lanvin, rz, Wittvector	1	5	25
+522091	4	12	Pink & Brown (3 Suits)	2021-05-06 — 13:28:15 UTC	aquarelle, jack67889, Lanvin, VerySloppyTwo	3	3	15
+522085	4	13	Rainbow & Prism (3 Suits)	2021-05-06 — 13:12:15 UTC	aquarelle, catula, jack67889, Lanvin	1	3	15
+521704	6	0	Rainbow & Omni (6 Suits)	2021-05-05 — 23:35:37 UTC	bjnh, ChristopheAF, jack67889, Lanvin, lotem, melwen	1	6	30
+521683	6	0	Rainbow & Omni (6 Suits)	2021-05-05 — 23:03:17 UTC	bjnh, ChristopheAF, jack67889, Lanvin, lotem, melwen	1	6	30
+521669	5	0	Brown-Ones & Brown (6 Suits)	2021-05-05 — 22:39:59 UTC	DarthGandalf, jack67889, Lanvin, lotem, MarkusKahlsen	1	6	30
+521340	3	29	Black & Pink (6 Suits)	2021-05-05 — 15:14:57 UTC	jack67889, kinkajusrevenge, Wittvector	6	6	30
+521319	3	0	Black & Pink (6 Suits)	2021-05-05 — 14:49:14 UTC	jack67889, kinkajusrevenge, Wittvector	13	6	30
+521308	3	0	Black & Pink (6 Suits)	2021-05-05 — 14:32:27 UTC	jack67889, kinkajusrevenge, Wittvector	13	6	30
+521287	4	25	Black & Omni (5 Suits)	2021-05-05 — 14:06:37 UTC	jack67889, Lanvin, MarkusKahlsen, Wittvector	3	5	25
+521280	4	0	Black & Omni (5 Suits)	2021-05-05 — 13:46:53 UTC	jack67889, Lanvin, MarkusKahlsen, Wittvector	5	5	25
+521274	4	24	Black & Omni (5 Suits)	2021-05-05 — 13:36:49 UTC	jack67889, Lanvin, MarkusKahlsen, Wittvector	6	5	25
+517834	5	0	Pink-Ones & Pink (5 Suits)	2021-05-01 — 18:38:01 UTC	ChristopheAF, dobi, HelanaAshryvr, jack67889, melwen	1	5	25
+517823	5	23	Pink-Ones & Pink (5 Suits)	2021-05-01 — 18:15:35 UTC	ChristopheAF, dobi, HelanaAshryvr, jack67889, melwen	1	5	25
+517268	3	15	White (3 Suits)	2021-05-01 — 00:00:12 UTC	aquarelle, jack67889, wump	49	3	15
+517244	2	29	Omni (6 Suits)	2021-04-30 — 23:36:24 UTC	aquarelle, jack67889	124	6	30
+516927	3	21	Gray (5 Suits)	2021-04-30 — 18:21:54 UTC	antitelharsic, jack67889, nitawa	5	5	25
+516900	3	25	Gray (5 Suits)	2021-04-30 — 17:49:43 UTC	antitelharsic, jack67889, nitawa	6	5	25
+516887	3	24	Gray (5 Suits)	2021-04-30 — 17:18:59 UTC	antitelharsic, jack67889, nitawa	8	5	25
+515627	4	28	Pink & Dark Rainbow (6 Suits)	2021-04-29 — 09:25:29 UTC	asaelr, jack67889, Lel0uch, Wittvector	4	6	30
+515625	4	27	Pink & Dark Rainbow (6 Suits)	2021-04-29 — 08:55:16 UTC	asaelr, jack67889, Lel0uch, Wittvector	7	6	30
+515205	2	25	Up or Down & Prism (5 Suits)	2021-04-28 — 21:06:37 UTC	aquarelle, jack67889	19	5	25
+515107	3	26	Gray Pink (6 Suits)	2021-04-28 — 19:36:34 UTC	jack67889, nitawa, Pablo-	6	6	30
+515061	3	0	Gray Pink (6 Suits)	2021-04-28 — 19:10:49 UTC	jack67889, nitawa, Pablo-	14	6	30
+515045	3	0	Gray Pink (6 Suits)	2021-04-28 — 18:48:50 UTC	jack67889, nitawa, Pablo-	15	6	30
+515014	4	25	Gray (5 Suits)	2021-04-28 — 18:15:41 UTC	antitelharsic, jack67889, nitawa, Pablo-	4	5	25
+513848	4	29	Black & Brown (6 Suits)	2021-04-27 — 10:25:52 UTC	indego, jack67889, Lel0uch, macanek	13	6	30
+513843	3	17	Light Pink (4 Suits)	2021-04-27 — 09:56:03 UTC	indego, jack67889, macanek	22	4	20
+513493	6	27	White-Ones & White (6 Suits)	2021-04-26 — 22:40:09 UTC	bob65536, jack67889, Lanvin, MangoPie, mystus, Wittvector	1	6	30
+513477	6	0	White-Ones & White (6 Suits)	2021-04-26 — 22:03:42 UTC	bob65536, jack67889, Lanvin, MangoPie, mystus, Wittvector	1	6	30
+513459	6	24	White-Ones & Rainbow (5 Suits)	2021-04-26 — 21:27:58 UTC	jack67889, Lanvin, MangoPie, mystus, prontwo, Wittvector	1	5	25
+513436	6	0	White-Ones & Rainbow (5 Suits)	2021-04-26 — 21:03:16 UTC	jack67889, Lanvin, MangoPie, mystus, prontwo, Wittvector	1	5	25
+513407	5	30	Brown-Ones & White (6 Suits)	2021-04-26 — 20:26:57 UTC	jack67889, Lanvin, MangoPie, mystus, rz	1	6	30
+513387	4	24	White-Fives (5 Suits)	2021-04-26 — 19:59:02 UTC	jack67889, Lanvin, MangoPie, rz	1	5	25
+513337	4	24	Gray (5 Suits)	2021-04-26 — 18:29:26 UTC	antitelharsic, jack67889, nitawa, Pablo-	5	5	25
+513315	3	0	Gray (5 Suits)	2021-04-26 — 18:00:41 UTC	antitelharsic, jack67889, nitawa	8	5	25
+511168	4	25	Gray (5 Suits)	2021-04-24 — 08:57:13 UTC	antitelharsic, jack67889, nitawa, Pablo-	6	5	25
+511158	4	25	Gray (5 Suits)	2021-04-24 — 08:20:43 UTC	antitelharsic, jack67889, nitawa, Pablo-	6	5	25
+511150	4	0	Gray (5 Suits)	2021-04-24 — 08:01:14 UTC	antitelharsic, jack67889, nitawa, Pablo-	6	5	25
 511147	3	22	Gray (5 Suits)	2021-04-24 — 07:41:38 UTC	antitelharsic, jack67889, nitawa	10	5	25
-510472	2	25	Brown (5 Suits)	2021-04-23 — 19:47:15 UTC	aquarelle, jack67889	87	5	25
+510472	2	25	Brown (5 Suits)	2021-04-23 — 19:47:15 UTC	aquarelle, jack67889	89	5	25
 509666	4	20	Rainbow & Light Pink (4 Suits)	2021-04-22 — 22:17:58 UTC	jack67889, kevincaseytdk1, Lanvin, robense	5	4	20
 509655	5	0	Rainbow & Light Pink (6 Suits)	2021-04-22 — 21:56:18 UTC	aquarelle, jack67889, Lanvin, melwen, timotree	3	6	30
-509631	3	0	Gray Pink (6 Suits)	2021-04-22 — 21:29:22 UTC	jack67889, nitawa, Pablo-	15	6	30
-509603	3	0	Gray Pink (6 Suits)	2021-04-22 — 21:01:03 UTC	jack67889, nitawa, Pablo-	21	6	30
+509631	3	0	Gray Pink (6 Suits)	2021-04-22 — 21:29:22 UTC	jack67889, nitawa, Pablo-	16	6	30
+509603	3	0	Gray Pink (6 Suits)	2021-04-22 — 21:01:03 UTC	jack67889, nitawa, Pablo-	22	6	30
 509576	3	30	Cocoa Rainbow (6 Suits)	2021-04-22 — 20:39:45 UTC	jack67889, nitawa, Pablo-	20	6	30
-509549	4	23	Gray (5 Suits)	2021-04-22 — 20:06:21 UTC	antitelharsic, jack67889, nitawa, Pablo-	3	5	25
-509510	4	22	Gray (5 Suits)	2021-04-22 — 19:35:46 UTC	antitelharsic, jack67889, nitawa, Pablo-	3	5	25
+509549	4	23	Gray (5 Suits)	2021-04-22 — 20:06:21 UTC	antitelharsic, jack67889, nitawa, Pablo-	6	5	25
+509510	4	22	Gray (5 Suits)	2021-04-22 — 19:35:46 UTC	antitelharsic, jack67889, nitawa, Pablo-	6	5	25
 509480	4	0	Up or Down & Rainbow (6 Suits)	2021-04-22 — 19:00:52 UTC	ChristopheAF, jack67889, nkkarpov, VerySloppyTwo	12	6	30
 509448	4	23	White & Cocoa Rainbow (5 Suits)	2021-04-22 — 18:28:50 UTC	ChristopheAF, indego, jack67889, VerySloppyTwo	4	5	25
 508486	3	24	Deceptive-Ones & Brown (5 Suits)	2021-04-21 — 13:31:35 UTC	catula, jack67889, robense	2	5	25
 508475	4	0	Deceptive-Ones & Brown (5 Suits)	2021-04-21 — 13:07:36 UTC	Animex52, catula, jack67889, robense	1	5	25
 507918	4	30	Pink & Light Pink (6 Suits)	2021-04-20 — 22:43:41 UTC	aquarelle, HelanaAshryvr, jack67889, wump	5	6	30
-507890	2	30	White (6 Suits)	2021-04-20 — 22:10:40 UTC	aquarelle, jack67889	184	6	30
+507890	2	30	White (6 Suits)	2021-04-20 — 22:10:40 UTC	aquarelle, jack67889	186	6	30
 507502	5	24	Prism (5 Suits)	2021-04-20 — 12:27:57 UTC	boba, catula, jack67889, mgce, Wittvector	9	5	25
 505855	3	23	Dark Prism Reversed (5 Suits)	2021-04-18 — 22:25:14 UTC	duckless, jack67889, PotatoLatte	2	5	25
 505830	3	0	Dark Prism Reversed (5 Suits)	2021-04-18 — 22:08:45 UTC	duckless, jack67889, PotatoLatte	6	5	25
 505809	3	22	Dark Prism Reversed (5 Suits)	2021-04-18 — 21:54:58 UTC	duckless, jack67889, PotatoLatte	7	5	25
-505783	4	0	Dark Prism Reversed (5 Suits)	2021-04-18 — 21:42:08 UTC	duckless, IsabeltheCat, jack67889, PotatoLatte	3	5	25
+505783	4	0	Dark Prism Reversed (5 Suits)	2021-04-18 — 21:42:08 UTC	duckless, IsabeltheCat, jack67889, PotatoLatte	4	5	25
 505710	3	25	Null (5 Suits)	2021-04-18 — 20:39:05 UTC	antitelharsic, jack67889, Pablo-	12	5	25
 505605	3	0	Null (5 Suits)	2021-04-18 — 19:29:28 UTC	antitelharsic, jack67889, Pablo-	12	5	25
 505563	3	24	Null (5 Suits)	2021-04-18 — 18:50:51 UTC	antitelharsic, jack67889, Pablo-	13	5	25
@@ -52,7 +97,7 @@
 498394	3	0	Duck (4 Suits)	2021-04-12 — 12:57:47 UTC	catula, jack67889, Lanvin	5	4	20
 498391	3	0	Duck (4 Suits)	2021-04-12 — 12:51:06 UTC	catula, jack67889, Lanvin	4	4	20
 498389	3	0	Duck (4 Suits)	2021-04-12 — 12:47:15 UTC	catula, jack67889, Lanvin	5	4	20
-497621	4	30	Dual-Color Mix	2021-04-11 — 22:01:10 UTC	antitelharsic, jack67889, Lanvin, wump	11	6	30
+497621	4	30	Dual-Color Mix	2021-04-11 — 22:01:10 UTC	antitelharsic, jack67889, Lanvin, wump	12	6	30
 497590	4	0	Dual-Color Mix	2021-04-11 — 21:37:46 UTC	antitelharsic, jack67889, Lanvin, wump	20	6	30
 497568	4	29	Up or Down & Null (6 Suits)	2021-04-11 — 21:18:50 UTC	antitelharsic, ChristopheAF, jack67889, Lanvin	1	6	30
 496457	3	25	Null (5 Suits)	2021-04-10 — 20:36:30 UTC	antitelharsic, jack67889, Pablo-	17	5	25
@@ -73,7 +118,7 @@
 493490	4	20	Rainbow & Pink (4 Suits)	2021-04-07 — 21:56:13 UTC	jack67889, Lanvin, rahsosprout, Syrah	6	4	20
 493470	4	0	Rainbow & Pink (4 Suits)	2021-04-07 — 21:34:12 UTC	jack67889, Lanvin, rahsosprout, Syrah	7	4	20
 493449	3	28	Rainbow & Dark Omni (6 Suits)	2021-04-07 — 21:13:09 UTC	jack67889, jeff10, Lanvin	4	6	30
-493413	3	25	Cow & Pig (5 Suits)	2021-04-07 — 20:47:16 UTC	jack67889, jeff10, Lanvin	33	5	25
+493413	3	25	Cow & Pig (5 Suits)	2021-04-07 — 20:47:16 UTC	jack67889, jeff10, Lanvin	34	5	25
 493298	3	0	Null (5 Suits)	2021-04-07 — 19:47:43 UTC	antitelharsic, jack67889, Pablo-	20	5	25
 493259	3	22	Null (5 Suits)	2021-04-07 — 19:19:43 UTC	antitelharsic, jack67889, Pablo-	21	5	25
 493218	3	24	Null (5 Suits)	2021-04-07 — 18:48:43 UTC	antitelharsic, jack67889, Pablo-	32	5	25
@@ -92,8 +137,8 @@
 492051	5	0	Rainbow & Omni (6 Suits)	2021-04-06 — 11:27:03 UTC	indego, jack67889, Lel0uch, squirrel1988, Zakisan	3	6	30
 492047	5	0	Rainbow & Omni (6 Suits)	2021-04-06 — 11:08:18 UTC	indego, jack67889, Lel0uch, squirrel1988, Zakisan	5	6	30
 491575	3	19	Cow & Pig (4 Suits)	2021-04-05 — 22:15:46 UTC	bob65536, jack67889, Lanvin	15	4	20
-491547	4	0	Duck (6 Suits)	2021-04-05 — 21:33:25 UTC	HelanaAshryvr, jack67889, Lanvin, timotree	7	6	30
-491530	4	0	Duck (6 Suits)	2021-04-05 — 21:14:10 UTC	HelanaAshryvr, jack67889, Lanvin, timotree	9	6	30
+491547	4	0	Duck (6 Suits)	2021-04-05 — 21:33:25 UTC	HelanaAshryvr, jack67889, Lanvin, timotree	8	6	30
+491530	4	0	Duck (6 Suits)	2021-04-05 — 21:14:10 UTC	HelanaAshryvr, jack67889, Lanvin, timotree	10	6	30
 491520	3	0	Duck (6 Suits)	2021-04-05 — 21:00:33 UTC	jack67889, kevincaseytdk1, Lanvin	17	6	30
 491491	5	0	Duck (6 Suits)	2021-04-05 — 20:32:01 UTC	bjnh, jack67889, kevincaseytdk1, Lanvin, lotem	1	6	30
 491451	4	0	Duck (6 Suits)	2021-04-05 — 20:04:29 UTC	jack67889, kevincaseytdk1, Lanvin, lotem	3	6	30
@@ -112,7 +157,7 @@
 488684	5	30	Cocoa Rainbow (6 Suits)	2021-04-02 — 21:57:20 UTC	antitelharsic, dobi, jack67889, kevincaseytdk1, Lanvin	5	6	30
 488631	5	25	Pink-Ones (5 Suits)	2021-04-02 — 21:28:52 UTC	antitelharsic, cockdestroyer, jack67889, kevincaseytdk1, Lanvin	3	5	25
 488596	4	0	Pink-Ones (5 Suits)	2021-04-02 — 21:09:08 UTC	antitelharsic, cockdestroyer, jack67889, Lanvin	3	5	25
-488589	4	0	Pink-Ones (5 Suits)	2021-04-02 — 21:05:44 UTC	antitelharsic, cockdestroyer, jack67889, Lanvin	2	5	25
+488589	4	0	Pink-Ones (5 Suits)	2021-04-02 — 21:05:44 UTC	antitelharsic, cockdestroyer, jack67889, Lanvin	3	5	25
 488576	3	25	Omni & Prism (5 Suits)	2021-04-02 — 20:54:08 UTC	cockdestroyer, jack67889, Lanvin	2	5	25
 488536	5	28	Cocoa Rainbow (6 Suits)	2021-04-02 — 20:19:41 UTC	aquarelle, bjnh, jack67889, Lanvin, squirrel1988	7	6	30
 488279	6	30	Dark Prism (6 Suits)	2021-04-02 — 13:39:16 UTC	catula, jack67889, Lanvin, MangoPie, ricardodd, sephiroth	3	6	30
@@ -127,7 +172,7 @@
 487374	5	0	Black & Muddy Rainbow (6 Suits)	2021-04-01 — 14:18:31 UTC	asaelr, dobi, jack67889, Lel0uch, sin_faith	1	6	30
 487371	5	0	Black & Muddy Rainbow (6 Suits)	2021-04-01 — 14:05:58 UTC	asaelr, dobi, jack67889, Lel0uch, sin_faith	1	6	30
 487367	5	0	Black & Muddy Rainbow (6 Suits)	2021-04-01 — 13:49:07 UTC	indego, jack67889, Lel0uch, melwen, Spieler42	1	6	30
-487362	5	20	Black & Rainbow (5 Suits)	2021-04-01 — 13:22:41 UTC	dobi, jack67889, Lel0uch, MarkusKahlsen, melwen	7	5	25
+487362	5	20	Black & Rainbow (5 Suits)	2021-04-01 — 13:22:41 UTC	dobi, jack67889, Lel0uch, MarkusKahlsen, melwen	8	5	25
 487253	3	25	Null (5 Suits)	2021-04-01 — 07:22:49 UTC	antitelharsic, jack67889, Pablo-	40	5	25
 487240	4	0	No Variant	2021-04-01 — 06:48:03 UTC	antitelharsic, jack67889, nitawa, Pablo-	32	5	25
 487232	4	0	No Variant	2021-04-01 — 06:17:59 UTC	antitelharsic, jack67889, nitawa, Pablo-	32	5	25
@@ -150,7 +195,7 @@
 483811	3	0	Up or Down & Omni (5 Suits)	2021-03-28 — 21:12:15 UTC	jack67889, sephiroth, VerySloppyTwo	5	5	25
 483775	3	0	Clue Starved & Pink (5 Suits)	2021-03-28 — 20:48:01 UTC	bjnh, jack67889, robense	5	5	25
 483738	3	21	Clue Starved & Pink (5 Suits)	2021-03-28 — 20:21:37 UTC	cockdestroyer, jack67889, wump	6	5	25
-483412	4	25	No Variant	2021-03-28 — 14:30:58 UTC	aquarelle, indego, jack67889, mario86	601	5	25
+483412	4	25	No Variant	2021-03-28 — 14:30:58 UTC	aquarelle, indego, jack67889, mario86	606	5	25
 482419	4	30	Clue Starved & Pink (6 Suits)	2021-03-27 — 18:25:30 UTC	aquarelle, indego, jack67889, Lel0uch	2	6	30
 482387	3	0	Clue Starved & Pink (5 Suits)	2021-03-27 — 17:29:28 UTC	indego, jack67889, MangoPie	3	5	25
 482312	5	28	Black & Light Pink (6 Suits)	2021-03-27 — 14:42:24 UTC	aquarelle, HelanaAshryvr, indego, jack67889, Sucubis	7	6	30
@@ -158,12 +203,12 @@
 482249	4	0	Up or Down & Pink (6 Suits)	2021-03-27 — 10:42:39 UTC	cockdestroyer, jack67889, sephiroth, VerySloppyTwo	4	6	30
 482243	5	25	Special Mix (5 Suits)	2021-03-27 — 10:31:47 UTC	jack67889, robense, sephiroth, Wittvector, Zakisan	2	5	25
 481400	4	30	Omni (6 Suits)	2021-03-26 — 19:07:39 UTC	Bonja97, jack67889, Lanvin, VerySloppyTwo	13	6	30
-481378	3	30	Rainbow & Omni (6 Suits)	2021-03-26 — 18:31:38 UTC	Bonja97, jack67889, Lanvin	10	6	30
-481358	3	0	Rainbow & Omni (6 Suits)	2021-03-26 — 18:04:11 UTC	Bonja97, jack67889, Lanvin	10	6	30
-481345	2	25	Clue Starved (5 Suits)	2021-03-26 — 17:46:47 UTC	jack67889, Lanvin	32	5	25
-481331	2	0	Clue Starved (5 Suits)	2021-03-26 — 17:33:40 UTC	jack67889, Lanvin	46	5	25
+481378	3	30	Rainbow & Omni (6 Suits)	2021-03-26 — 18:31:38 UTC	Bonja97, jack67889, Lanvin	11	6	30
+481358	3	0	Rainbow & Omni (6 Suits)	2021-03-26 — 18:04:11 UTC	Bonja97, jack67889, Lanvin	11	6	30
+481345	2	25	Clue Starved (5 Suits)	2021-03-26 — 17:46:47 UTC	jack67889, Lanvin	33	5	25
+481331	2	0	Clue Starved (5 Suits)	2021-03-26 — 17:33:40 UTC	jack67889, Lanvin	47	5	25
 480103	4	0	Prism & Gray Pink (6 Suits)	2021-03-25 — 14:45:52 UTC	dobi, jack67889, Lanvin, Valetta6789	1	6	30
-480098	4	0	Prism & Gray Pink (6 Suits)	2021-03-25 — 14:30:55 UTC	dobi, jack67889, Lanvin, Valetta6789	1	6	30
+480098	4	0	Prism & Gray Pink (6 Suits)	2021-03-25 — 14:30:55 UTC	dobi, jack67889, Lanvin, Valetta6789	2	6	30
 480094	3	0	Rainbow & Omni (5 Suits)	2021-03-25 — 14:17:04 UTC	jack67889, Lanvin, Valetta6789	6	5	25
 480090	3	0	Rainbow & Omni (5 Suits)	2021-03-25 — 14:04:16 UTC	jack67889, Lanvin, Valetta6789	8	5	25
 479507	4	0	Black & Brown (5 Suits)	2021-03-24 — 21:39:40 UTC	CaitlinSmith, indego, jack67889, kevincaseytdk1	1	5	25
@@ -190,7 +235,7 @@
 477212	5	23	Black (5 Suits)	2021-03-22 — 21:23:35 UTC	Bonja97, cockdestroyer, jack67889, nitawa, Pablo-	4	5	25
 477177	5	0	Black (5 Suits)	2021-03-22 — 21:00:41 UTC	Bonja97, cockdestroyer, jack67889, nitawa, Pablo-	10	5	25
 477164	5	0	Black (5 Suits)	2021-03-22 — 20:52:46 UTC	Bonja97, cockdestroyer, jack67889, nitawa, Pablo-	23	5	25
-477152	2	0	Brown (4 Suits)	2021-03-22 — 20:42:07 UTC	cockdestroyer, jack67889	54	4	20
+477152	2	0	Brown (4 Suits)	2021-03-22 — 20:42:07 UTC	cockdestroyer, jack67889	55	4	20
 476845	5	0	Special Mix (5 Suits)	2021-03-22 — 14:31:45 UTC	ChristopheAF, jack67889, Lanvin, sephiroth, VerySloppyTwo	1	5	25
 476834	5	0	Special Mix (5 Suits)	2021-03-22 — 14:10:50 UTC	ChristopheAF, jack67889, Lanvin, sephiroth, VerySloppyTwo	1	5	25
 476830	5	0	Special Mix (5 Suits)	2021-03-22 — 13:59:04 UTC	ChristopheAF, jack67889, Lanvin, sephiroth, VerySloppyTwo	1	5	25
@@ -198,7 +243,7 @@
 476824	5	0	Special Mix (5 Suits)	2021-03-22 — 13:41:16 UTC	ChristopheAF, jack67889, Lanvin, sephiroth, VerySloppyTwo	1	5	25
 476816	5	0	Special Mix (5 Suits)	2021-03-22 — 13:22:01 UTC	ChristopheAF, jack67889, Lanvin, sephiroth, VerySloppyTwo	1	5	25
 476299	3	27	Brown (6 Suits)	2021-03-21 — 21:45:56 UTC	antitelharsic, Fey, jack67889	22	6	30
-476279	3	0	Brown (6 Suits)	2021-03-21 — 21:21:20 UTC	antitelharsic, Fey, jack67889	25	6	30
+476279	3	0	Brown (6 Suits)	2021-03-21 — 21:21:20 UTC	antitelharsic, Fey, jack67889	26	6	30
 475226	5	0	Special Mix (5 Suits)	2021-03-20 — 23:57:21 UTC	ChristopheAF, hakha3, jack67889, MangoPie, melwen	1	5	25
 475225	5	0	Special Mix (5 Suits)	2021-03-20 — 23:51:49 UTC	ChristopheAF, hakha3, jack67889, MangoPie, melwen	1	5	25
 475197	5	0	Special Mix (5 Suits)	2021-03-20 — 23:29:26 UTC	ChristopheAF, hakha3, jack67889, MangoPie, melwen	1	5	25
@@ -218,15 +263,15 @@
 474146	4	25	Brown-Ones & Light Pink (5 Suits)	2021-03-19 — 23:56:07 UTC	jack67889, kevincaseytdk1, Lanvin, MangoPie	2	5	25
 474122	5	24	Brown-Ones & Light Pink (5 Suits)	2021-03-19 — 23:31:20 UTC	jack67889, kevincaseytdk1, Lanvin, MangoPie, Wittvector	1	5	25
 474057	4	0	Rainbow & Gray Pink (6 Suits)	2021-03-19 — 23:01:29 UTC	hakha3, jack67889, kevincaseytdk1, MangoPie	5	6	30
-474010	2	29	Dark Pink (6 Suits)	2021-03-19 — 22:41:20 UTC	jack67889, Onen	43	6	30
-473982	2	0	Dark Pink (6 Suits)	2021-03-19 — 22:30:18 UTC	jack67889, Onen	43	6	30
-473978	2	0	Dark Pink (6 Suits)	2021-03-19 — 22:26:29 UTC	jack67889, Onen	50	6	30
-473973	2	26	Dark Pink (6 Suits)	2021-03-19 — 22:23:06 UTC	jack67889, Onen	56	6	30
+474010	2	29	Dark Pink (6 Suits)	2021-03-19 — 22:41:20 UTC	jack67889, Onen	45	6	30
+473982	2	0	Dark Pink (6 Suits)	2021-03-19 — 22:30:18 UTC	jack67889, Onen	45	6	30
+473978	2	0	Dark Pink (6 Suits)	2021-03-19 — 22:26:29 UTC	jack67889, Onen	53	6	30
+473973	2	26	Dark Pink (6 Suits)	2021-03-19 — 22:23:06 UTC	jack67889, Onen	59	6	30
 473563	3	0	White & Prism (5 Suits)	2021-03-19 — 13:34:40 UTC	Fey, jack67889, possum	6	5	25
-473556	2	30	Black (6 Suits)	2021-03-19 — 13:10:27 UTC	Fey, jack67889	201	6	30
-473554	2	0	Black (6 Suits)	2021-03-19 — 12:56:48 UTC	Fey, jack67889	214	6	30
-473552	2	0	Black (6 Suits)	2021-03-19 — 12:52:32 UTC	Fey, jack67889	221	6	30
-473550	2	0	Black (6 Suits)	2021-03-19 — 12:49:31 UTC	Fey, jack67889	232	6	30
+473556	2	30	Black (6 Suits)	2021-03-19 — 13:10:27 UTC	Fey, jack67889	205	6	30
+473554	2	0	Black (6 Suits)	2021-03-19 — 12:56:48 UTC	Fey, jack67889	218	6	30
+473552	2	0	Black (6 Suits)	2021-03-19 — 12:52:32 UTC	Fey, jack67889	226	6	30
+473550	2	0	Black (6 Suits)	2021-03-19 — 12:49:31 UTC	Fey, jack67889	237	6	30
 472956	5	0	Clue Starved & Pink (6 Suits)	2021-03-18 — 23:37:09 UTC	jack67889, kevincaseytdk1, Lanvin, MarkusKahlsen, padi	2	6	30
 472919	5	29	Clue Starved & Pink (6 Suits)	2021-03-18 — 22:57:14 UTC	jack67889, kevincaseytdk1, Lanvin, MarkusKahlsen, padi	2	6	30
 472872	5	23	White-Ones & Black (5 Suits)	2021-03-18 — 22:25:31 UTC	jack67889, Kyle, Lanvin, rz, wump	1	5	25
@@ -236,13 +281,13 @@
 472709	4	0	Dual-Color & Gray Pink (6 Suits)	2021-03-18 — 20:49:40 UTC	bjnh, jack67889, Lanvin, newduke	2	6	30
 472701	4	0	Dual-Color & Gray Pink (6 Suits)	2021-03-18 — 20:42:13 UTC	bjnh, jack67889, Lanvin, newduke	2	6	30
 472682	4	27	Dual-Color & Gray Pink (6 Suits)	2021-03-18 — 20:30:02 UTC	bjnh, jack67889, Lanvin, newduke	3	6	30
-472428	2	29	Black (6 Suits)	2021-03-18 — 16:52:30 UTC	Fey, jack67889	239	6	30
-472426	2	28	Black (6 Suits)	2021-03-18 — 16:41:39 UTC	Fey, jack67889	255	6	30
+472428	2	29	Black (6 Suits)	2021-03-18 — 16:52:30 UTC	Fey, jack67889	244	6	30
+472426	2	28	Black (6 Suits)	2021-03-18 — 16:41:39 UTC	Fey, jack67889	259	6	30
 472415	3	23	Up or Down & Omni (5 Suits)	2021-03-18 — 16:21:40 UTC	jack67889, Kyle, sephiroth	3	5	25
 472405	3	0	Up or Down & Omni (5 Suits)	2021-03-18 — 16:01:13 UTC	jack67889, Kyle, sephiroth	4	5	25
 472372	3	25	Alternating Clues (5 Suits)	2021-03-18 — 14:30:25 UTC	jack67889, qqqq, rz	24	5	25
 472363	4	0	Alternating Clues (6 Suits)	2021-03-18 — 14:09:17 UTC	jack67889, qqqq, rz, sephiroth	4	6	30
-472360	4	0	Alternating Clues (6 Suits)	2021-03-18 — 14:01:46 UTC	jack67889, qqqq, rz, sephiroth	7	6	30
+472360	4	0	Alternating Clues (6 Suits)	2021-03-18 — 14:01:46 UTC	jack67889, qqqq, rz, sephiroth	8	6	30
 472329	3	25	Pink-Ones & Omni (5 Suits)	2021-03-18 — 11:24:03 UTC	catula, jack67889, Nitrate2	2	5	25
 472323	3	0	Pink-Ones & Omni (5 Suits)	2021-03-18 — 10:52:04 UTC	catula, jack67889, Nitrate2	2	5	25
 472319	2	0	Black & Prism (6 Suits)	2021-03-18 — 10:37:34 UTC	catula, jack67889	31	6	30
@@ -251,8 +296,8 @@
 471382	3	0	Special Mix (5 Suits)	2021-03-17 — 17:13:01 UTC	ChristopheAF, jack67889, rz	1	5	25
 471375	3	23	Special Mix (5 Suits)	2021-03-17 — 16:52:09 UTC	jack67889, rz, Wittvector	10	5	25
 471352	3	21	Special Mix (5 Suits)	2021-03-17 — 16:12:11 UTC	jack67889, rz, Wittvector	10	5	25
-471289	3	22	Prism (5 Suits)	2021-03-17 — 13:40:44 UTC	Aluap, jack67889, Spieler42	24	5	25
-471282	3	0	Prism (5 Suits)	2021-03-17 — 13:19:06 UTC	Aluap, jack67889, Spieler42	38	5	25
+471289	3	22	Prism (5 Suits)	2021-03-17 — 13:40:44 UTC	Aluap, jack67889, Spieler42	25	5	25
+471282	3	0	Prism (5 Suits)	2021-03-17 — 13:19:06 UTC	Aluap, jack67889, Spieler42	39	5	25
 471279	4	0	Pink-Ones & Omni (5 Suits)	2021-03-17 — 12:58:54 UTC	Aluap, jack67889, qqqq, Spieler42	3	5	25
 470262	3	22	Special Mix (5 Suits)	2021-03-16 — 18:00:27 UTC	hakha3, jack67889, wump	16	5	25
 470253	3	0	Special Mix (5 Suits)	2021-03-16 — 17:43:29 UTC	hakha3, jack67889, wump	19	5	25
@@ -263,10 +308,10 @@
 469331	5	0	Special Mix (5 Suits)	2021-03-15 — 20:53:07 UTC	jack67889, kevincaseytdk1, Lanvin, rz, sephiroth	2	5	25
 469311	5	0	Special Mix (5 Suits)	2021-03-15 — 20:36:55 UTC	jack67889, kevincaseytdk1, Lanvin, rz, sephiroth	2	5	25
 469300	5	0	Special Mix (5 Suits)	2021-03-15 — 20:27:27 UTC	bjnh, jack67889, kevincaseytdk1, rz, sephiroth	2	5	25
-469290	3	30	White & Brown (6 Suits)	2021-03-15 — 20:13:37 UTC	bjnh, fowill, jack67889	20	6	30
+469290	3	30	White & Brown (6 Suits)	2021-03-15 — 20:13:37 UTC	bjnh, fowill, jack67889	21	6	30
 468458	4	0	White & Light Pink (5 Suits)	2021-03-14 — 22:34:39 UTC	DarthGandalf, jack67889, knaphill, MarkusKahlsen	5	5	25
 468421	4	0	White & Light Pink (5 Suits)	2021-03-14 — 22:09:38 UTC	DarthGandalf, jack67889, knaphill, MarkusKahlsen	6	5	25
-468167	2	23	Rainbow (5 Suits)	2021-03-14 — 18:49:21 UTC	aquarelle, jack67889	51	5	25
+468167	2	23	Rainbow (5 Suits)	2021-03-14 — 18:49:21 UTC	aquarelle, jack67889	55	5	25
 467954	5	24	No Variant	2021-03-14 — 13:22:13 UTC	Animex52, boba, jack67889, Lanvin, Lel0uch	24	5	25
 467258	5	0	Ambiguous & Rainbow (5 Suits)	2021-03-14 — 00:19:20 UTC	indego, IsabeltheCat, jack67889, Lanvin, TheDaniMan	4	5	25
 467242	5	0	Ambiguous & Rainbow (5 Suits)	2021-03-14 — 00:10:31 UTC	indego, IsabeltheCat, jack67889, Lanvin, TheDaniMan	5	5	25
@@ -275,21 +320,21 @@
 467201	4	0	Rainbow & Muddy Rainbow (5 Suits)	2021-03-13 — 23:21:23 UTC	bjnh, jack67889, MarkusKahlsen, TheDaniMan	4	5	25
 466679	3	0	Black & Omni (6 Suits)	2021-03-13 — 13:02:55 UTC	jack67889, Lel0uch, melwen	4	6	30
 466672	3	28	Black & Omni (6 Suits)	2021-03-13 — 12:39:16 UTC	jack67889, Lel0uch, melwen	10	6	30
-465624	3	24	White & Prism (5 Suits)	2021-03-12 — 14:06:04 UTC	Denchulitas, jack67889, possum	7	5	25
+465624	3	24	White & Prism (5 Suits)	2021-03-12 — 14:06:04 UTC	Denchulitas, jack67889, possum	8	5	25
 465613	3	0	White & Prism (5 Suits)	2021-03-12 — 13:32:55 UTC	Denchulitas, jack67889, possum	10	5	25
 465599	3	0	White & Prism (5 Suits)	2021-03-12 — 13:07:52 UTC	Denchulitas, jack67889, possum	16	5	25
 465597	3	20	Rainbow & Prism (4 Suits)	2021-03-12 — 13:01:05 UTC	Denchulitas, jack67889, possum	3	4	20
-464037	3	30	Dark Omni (6 Suits)	2021-03-10 — 23:26:13 UTC	hakha3, jack67889, Lanvin	26	6	30
+464037	3	30	Dark Omni (6 Suits)	2021-03-10 — 23:26:13 UTC	hakha3, jack67889, Lanvin	27	6	30
 464024	4	20	White & Brown (4 Suits)	2021-03-10 — 23:04:28 UTC	IsabeltheCat, jack67889, kevincaseytdk1, Lanvin	4	4	20
 464003	4	18	White & Brown (4 Suits)	2021-03-10 — 22:44:31 UTC	IsabeltheCat, jack67889, kevincaseytdk1, Lanvin	8	4	20
 463983	4	0	White & Brown (4 Suits)	2021-03-10 — 22:28:32 UTC	IsabeltheCat, jack67889, kevincaseytdk1, Lanvin	11	4	20
-463964	2	25	Dark Prism (5 Suits)	2021-03-10 — 22:14:08 UTC	aquarelle, jack67889	40	5	25
-463954	2	20	Dark Prism (5 Suits)	2021-03-10 — 22:06:06 UTC	aquarelle, jack67889	38	5	25
-463945	2	23	Dark Prism (5 Suits)	2021-03-10 — 21:56:26 UTC	aquarelle, jack67889	41	5	25
-463935	2	24	Dark Prism (5 Suits)	2021-03-10 — 21:44:36 UTC	aquarelle, jack67889	42	5	25
+463964	2	25	Dark Prism (5 Suits)	2021-03-10 — 22:14:08 UTC	aquarelle, jack67889	42	5	25
+463954	2	20	Dark Prism (5 Suits)	2021-03-10 — 22:06:06 UTC	aquarelle, jack67889	40	5	25
+463945	2	23	Dark Prism (5 Suits)	2021-03-10 — 21:56:26 UTC	aquarelle, jack67889	43	5	25
+463935	2	24	Dark Prism (5 Suits)	2021-03-10 — 21:44:36 UTC	aquarelle, jack67889	45	5	25
 463527	5	0	Black (5 Suits)	2021-03-10 — 13:17:21 UTC	eliclax, hakha3, jack67889, Lanvin, qqqq	6	5	25
 463522	5	0	Black (5 Suits)	2021-03-10 — 13:04:50 UTC	eliclax, hakha3, jack67889, Lanvin, qqqq	5	5	25
-463504	5	22	Black (5 Suits)	2021-03-10 — 12:36:20 UTC	eliclax, hakha3, jack67889, Lanvin, qqqq	5	5	25
+463504	5	22	Black (5 Suits)	2021-03-10 — 12:36:20 UTC	eliclax, hakha3, jack67889, Lanvin, qqqq	6	5	25
 462927	3	0	Special Mix (5 Suits)	2021-03-09 — 22:27:51 UTC	ChristopheAF, jack67889, Lanvin	1	5	25
 462916	3	0	Special Mix (5 Suits)	2021-03-09 — 22:22:08 UTC	ChristopheAF, jack67889, Lanvin	1	5	25
 462494	5	29	Black & Pink (6 Suits)	2021-03-09 — 17:26:47 UTC	cockdestroyer, indego, jack67889, sephiroth, Sucubis	2	6	30
@@ -299,15 +344,15 @@
 460324	4	30	Throw It in a Hole (6 Suits)	2021-03-07 — 19:34:03 UTC	antitelharsic, jack67889, nitawa, Pablo-	7	6	30
 460259	4	0	Throw It in a Hole (6 Suits)	2021-03-07 — 18:25:56 UTC	antitelharsic, jack67889, nitawa, Pablo-	2	6	30
 459500	2	25	White (5 Suits)	2021-03-07 — 00:39:20 UTC	aquarelle, jack67889	42	5	25
-459466	2	24	White (5 Suits)	2021-03-07 — 00:23:50 UTC	aquarelle, jack67889	78	5	25
-459432	2	0	White (5 Suits)	2021-03-07 — 00:07:14 UTC	aquarelle, jack67889	90	5	25
-459407	2	21	White (5 Suits)	2021-03-06 — 23:47:26 UTC	aquarelle, jack67889	123	5	25
-459368	2	24	White (5 Suits)	2021-03-06 — 23:29:57 UTC	aquarelle, jack67889	184	5	25
+459466	2	24	White (5 Suits)	2021-03-07 — 00:23:50 UTC	aquarelle, jack67889	80	5	25
+459432	2	0	White (5 Suits)	2021-03-07 — 00:07:14 UTC	aquarelle, jack67889	92	5	25
+459407	2	21	White (5 Suits)	2021-03-06 — 23:47:26 UTC	aquarelle, jack67889	127	5	25
+459368	2	24	White (5 Suits)	2021-03-06 — 23:29:57 UTC	aquarelle, jack67889	187	5	25
 459284	4	30	Throw It in a Hole (6 Suits)	2021-03-06 — 22:45:19 UTC	antitelharsic, jack67889, nitawa, Pablo-	7	6	30
 459101	4	27	Throw It in a Hole (6 Suits)	2021-03-06 — 20:05:31 UTC	antitelharsic, jack67889, nitawa, Pablo-	12	6	30
 458992	4	0	Throw It in a Hole (6 Suits)	2021-03-06 — 18:32:39 UTC	antitelharsic, jack67889, nitawa, Pablo-	2	6	30
-458814	2	20	4 Suits	2021-03-06 — 13:29:07 UTC	jack67889, Pablo-	76	4	20
-458809	2	20	4 Suits	2021-03-06 — 13:20:11 UTC	jack67889, Pablo-	110	4	20
+458814	2	20	4 Suits	2021-03-06 — 13:29:07 UTC	jack67889, Pablo-	78	4	20
+458809	2	20	4 Suits	2021-03-06 — 13:20:11 UTC	jack67889, Pablo-	113	4	20
 458807	3	25	White-Ones (5 Suits)	2021-03-06 — 13:06:43 UTC	cockdestroyer, jack67889, Pablo-	3	5	25
 456194	4	28	Throw It in a Hole (6 Suits)	2021-03-04 — 07:53:22 UTC	antitelharsic, jack67889, nitawa, Pablo-	3	6	30
 456182	4	0	Throw It in a Hole (6 Suits)	2021-03-04 — 07:10:08 UTC	antitelharsic, jack67889, nitawa, Pablo-	3	6	30
@@ -330,14 +375,14 @@
 453196	4	25	Light Pink (5 Suits)	2021-03-01 — 17:45:38 UTC	asaelr, duckless, jack67889, Lanvin	6	5	25
 453033	6	30	Pink & Gray (6 Suits)	2021-03-01 — 12:47:18 UTC	ChristopheAF, cockdestroyer, jack67889, Lanvin, Lel0uch, VerySloppyTwo	1	6	30
 453031	6	0	Pink & Gray (6 Suits)	2021-03-01 — 12:31:39 UTC	ChristopheAF, cockdestroyer, jack67889, Lanvin, Lel0uch, VerySloppyTwo	1	6	30
-451365	2	25	No Variant	2021-02-28 — 00:56:08 UTC	boba, jack67889	818	5	25
+451365	2	25	No Variant	2021-02-28 — 00:56:08 UTC	boba, jack67889	828	5	25
 451341	5	22	Black (5 Suits)	2021-02-28 — 00:27:03 UTC	Bonja97, jack67889, nitawa, Nitrate2, Pablo-	13	5	25
 451188	4	30	Throw It in a Hole (6 Suits)	2021-02-27 — 22:06:13 UTC	antitelharsic, jack67889, nitawa, Pablo-	3	6	30
 451141	4	27	Throw It in a Hole (6 Suits)	2021-02-27 — 21:10:25 UTC	antitelharsic, jack67889, nitawa, Pablo-	3	6	30
 450485	5	0	Pink-Ones & Prism (6 Suits)	2021-02-27 — 04:04:22 UTC	antitelharsic, boba, jack67889, Nitrate2, XMIL	1	6	30
 450448	6	22	No Variant	2021-02-27 — 03:13:39 UTC	antitelharsic, boba, cockdestroyer, jack67889, Nitrate2, XMIL	4	5	25
-450425	3	30	Ambiguous (6 Suits)	2021-02-27 — 02:38:18 UTC	boba, jack67889, Nitrate2	69	6	30
-449826	4	27	Black (6 Suits)	2021-02-26 — 13:35:38 UTC	catula, jack67889, Lanvin, nitawa	213	6	30
+450425	3	30	Ambiguous (6 Suits)	2021-02-27 — 02:38:18 UTC	boba, jack67889, Nitrate2	71	6	30
+449826	4	27	Black (6 Suits)	2021-02-26 — 13:35:38 UTC	catula, jack67889, Lanvin, nitawa	215	6	30
 449815	6	0	Black (6 Suits)	2021-02-26 — 13:05:06 UTC	catula, jack67889, Lanvin, MKQ, nitawa, wolfpack	3	6	30
 449812	5	0	Black (6 Suits)	2021-02-26 — 13:01:17 UTC	catula, jack67889, Lanvin, nitawa, wolfpack	13	6	30
 449805	3	0	Brown-Ones & Light Pink (5 Suits)	2021-02-26 — 12:43:36 UTC	catula, jack67889, Lanvin	1	5	25
@@ -385,13 +430,13 @@
 437271	3	29	Black & Brown (6 Suits)	2021-02-14 — 20:31:29 UTC	jack67889, sephiroth, voss	7	6	30
 437230	3	28	Black & Brown (6 Suits)	2021-02-14 — 20:05:19 UTC	jack67889, sephiroth, voss	7	6	30
 436020	5	20	Pink (4 Suits)	2021-02-13 — 21:27:49 UTC	antitelharsic, jack67889, Lanvin, nitawa, Pablo-	7	4	20
-434821	4	27	Dark Omni (6 Suits)	2021-02-12 — 22:25:51 UTC	bjnh, ChristopheAF, jack67889, Lanvin	13	6	30
+434821	4	27	Dark Omni (6 Suits)	2021-02-12 — 22:25:51 UTC	bjnh, ChristopheAF, jack67889, Lanvin	14	6	30
 434375	4	25	Brown-Ones & Gray (5 Suits)	2021-02-12 — 11:42:18 UTC	catula, jack67889, nitawa, Pablo-	1	5	25
 434367	4	23	Brown-Ones & Gray (5 Suits)	2021-02-12 — 11:25:51 UTC	catula, jack67889, nitawa, Pablo-	1	5	25
 434358	4	22	Brown-Ones & Gray (5 Suits)	2021-02-12 — 11:02:44 UTC	catula, jack67889, nitawa, Pablo-	2	5	25
 434351	4	30	Dark Rainbow Reversed (6 Suits)	2021-02-12 — 10:36:15 UTC	catula, jack67889, nitawa, Pablo-	6	6	30
 433557	4	25	Rainbow & Omni (5 Suits)	2021-02-11 — 21:07:32 UTC	bjnh, Floriman, jack67889, Nitrate2	2	5	25
-433525	3	20	Null (4 Suits)	2021-02-11 — 20:45:17 UTC	Floriman, jack67889, Nitrate2	10	4	20
+433525	3	20	Null (4 Suits)	2021-02-11 — 20:45:17 UTC	Floriman, jack67889, Nitrate2	11	4	20
 433388	4	0	Brown & Prism (5 Suits)	2021-02-11 — 17:41:01 UTC	jack67889, Lanvin, rz, Wittvector	6	5	25
 433376	4	0	Brown & Prism (5 Suits)	2021-02-11 — 17:19:05 UTC	jack67889, Lanvin, rz, Wittvector	10	5	25
 432743	4	24	Pink (5 Suits)	2021-02-10 — 22:46:19 UTC	Animex52, cockdestroyer, jack67889, Nitrate	16	5	25
@@ -405,12 +450,12 @@
 432532	4	0	White-Ones & Gray Pink (6 Suits)	2021-02-10 — 20:23:43 UTC	jack67889, Lanvin, newduke, TimeHoodie	2	6	30
 432508	5	0	White-Ones & Gray Pink (6 Suits)	2021-02-10 — 20:08:40 UTC	IsabeltheCat, jack67889, Lanvin, newduke, sephiroth	1	6	30
 432397	3	20	4 Suits	2021-02-10 — 17:53:54 UTC	jack67889, nitawa, Pablo-	90	4	20
-432377	3	15	White-Ones (3 Suits)	2021-02-10 — 17:39:08 UTC	jack67889, nitawa, Pablo-	1	3	15
+432377	3	15	White-Ones (3 Suits)	2021-02-10 — 17:39:08 UTC	jack67889, nitawa, Pablo-	2	3	15
 432348	4	0	Black & Muddy Rainbow (6 Suits)	2021-02-10 — 17:13:11 UTC	frosty104, indego, jack67889, Wittvector	6	6	30
-432339	4	0	Black & Muddy Rainbow (6 Suits)	2021-02-10 — 17:00:43 UTC	frosty104, indego, jack67889, Wittvector	5	6	30
+432339	4	0	Black & Muddy Rainbow (6 Suits)	2021-02-10 — 17:00:43 UTC	frosty104, indego, jack67889, Wittvector	6	6	30
 431456	4	24	Up or Down (5 Suits)	2021-02-09 — 21:43:51 UTC	4head, jack67889, Kernel, Pimak	75	5	25
 431407	5	0	Up or Down (5 Suits)	2021-02-09 — 21:17:55 UTC	4head, CaitlinSmith, jack67889, Kernel, Pimak	23	5	25
-431382	4	0	Up or Down (6 Suits)	2021-02-09 — 20:58:31 UTC	4head, CaitlinSmith, jack67889, Pimak	12	6	30
+431382	4	0	Up or Down (6 Suits)	2021-02-09 — 20:58:31 UTC	4head, CaitlinSmith, jack67889, Pimak	13	6	30
 431356	4	27	Up or Down (6 Suits)	2021-02-09 — 20:32:46 UTC	4head, CaitlinSmith, jack67889, Pimak	15	6	30
 431192	4	24	Muddy Rainbow & Dark Brown (5 Suits)	2021-02-09 — 17:35:04 UTC	indego, jack67889, Nitrate2, TheDaniMan	2	5	25
 431174	3	24	Dark Brown (5 Suits)	2021-02-09 — 17:07:19 UTC	dobi, indego, jack67889	11	5	25
@@ -421,16 +466,16 @@
 430463	5	0	Special Mix (5 Suits)	2021-02-08 — 22:33:38 UTC	ChristopheAF, HelanaAshryvr, jack67889, Lanvin, sephiroth	3	5	25
 430428	4	0	Special Mix (5 Suits)	2021-02-08 — 22:16:30 UTC	ChristopheAF, HelanaAshryvr, jack67889, Lanvin	17	5	25
 430400	5	0	Special Mix (5 Suits)	2021-02-08 — 21:59:35 UTC	ChristopheAF, Floriman, HelanaAshryvr, jack67889, Lanvin	6	5	25
-430358	3	30	Dark Pink (6 Suits)	2021-02-08 — 21:41:00 UTC	jack67889, rachyrules, robense	24	6	30
-430325	3	0	Dark Pink (6 Suits)	2021-02-08 — 21:15:15 UTC	jack67889, rachyrules, robense	34	6	30
+430358	3	30	Dark Pink (6 Suits)	2021-02-08 — 21:41:00 UTC	jack67889, rachyrules, robense	25	6	30
+430325	3	0	Dark Pink (6 Suits)	2021-02-08 — 21:15:15 UTC	jack67889, rachyrules, robense	35	6	30
 430136	4	30	Cocoa Rainbow (6 Suits)	2021-02-08 — 18:56:35 UTC	jack67889, nitawa, Nitrate2, Pablo-	7	6	30
 430118	4	0	Cocoa Rainbow (6 Suits)	2021-02-08 — 18:29:22 UTC	jack67889, nitawa, Nitrate2, Pablo-	8	6	30
 430109	4	28	Cocoa Rainbow (6 Suits)	2021-02-08 — 18:13:00 UTC	jack67889, nitawa, Nitrate2, Pablo-	8	6	30
 429993	5	23	Special Mix (5 Suits)	2021-02-08 — 16:43:34 UTC	ChristopheAF, frosty104, jack67889, jeff10, MangoPie	6	5	25
-429914	4	0	Dark Omni (6 Suits)	2021-02-08 — 14:42:35 UTC	hakha3, jack67889, Lanvin, skyblueexo	14	6	30
+429914	4	0	Dark Omni (6 Suits)	2021-02-08 — 14:42:35 UTC	hakha3, jack67889, Lanvin, skyblueexo	15	6	30
 429902	4	0	Dark Omni (6 Suits)	2021-02-08 — 14:21:35 UTC	hakha3, jack67889, Lanvin, skyblueexo	16	6	30
 429898	3	0	Dark Omni (5 Suits)	2021-02-08 — 14:10:19 UTC	jack67889, Lanvin, skyblueexo	22	5	25
-429882	4	0	Black & White (5 Suits)	2021-02-08 — 13:42:32 UTC	jack67889, Lanvin, sephiroth, VerySloppyTwo	3	5	25
+429882	4	0	Black & White (5 Suits)	2021-02-08 — 13:42:32 UTC	jack67889, Lanvin, sephiroth, VerySloppyTwo	4	5	25
 429876	4	0	Black & White (5 Suits)	2021-02-08 — 13:35:22 UTC	jack67889, Lanvin, sephiroth, VerySloppyTwo	5	5	25
 429870	4	19	Black & White (5 Suits)	2021-02-08 — 13:23:26 UTC	jack67889, Lanvin, sephiroth, VerySloppyTwo	8	5	25
 429391	6	20	Special Mix (5 Suits)	2021-02-07 — 22:37:48 UTC	ChristopheAF, jack67889, Lanvin, sephiroth, TimeHoodie, Wittvector	2	5	25
@@ -440,25 +485,25 @@
 428990	5	30	Rainbow & Cocoa Rainbow (6 Suits)	2021-02-07 — 15:33:55 UTC	Floriman, indego, jack67889, melwen, TheDaniMan	1	6	30
 426664	5	27	Dark Prism (6 Suits)	2021-02-05 — 19:39:37 UTC	colton, hailey, jack67889, Lanvin, sephiroth	14	6	30
 425854	3	23	Brown-Ones (5 Suits)	2021-02-04 — 23:35:01 UTC	aquarelle, boba, jack67889	10	5	25
-425837	2	0	No Variant	2021-02-04 — 23:09:06 UTC	boba, jack67889	1148	5	25
+425837	2	0	No Variant	2021-02-04 — 23:09:06 UTC	boba, jack67889	1159	5	25
 425808	4	30	White-Ones (6 Suits)	2021-02-04 — 22:31:53 UTC	jack67889, melwen, nitawa, Nitrate2	9	6	30
 425772	3	25	White-Ones & Prism (5 Suits)	2021-02-04 — 22:03:24 UTC	jack67889, nitawa, Nitrate2	4	5	25
 424614	6	20	Rainbow (4 Suits)	2021-02-03 — 22:13:04 UTC	Bot-Fiora, Denchulitas, dobi, jack67889, Lanvin, newduke	1	4	20
 424596	6	0	Rainbow (4 Suits)	2021-02-03 — 21:52:52 UTC	Bot-Fiora, Denchulitas, dobi, jack67889, Lanvin, newduke	1	4	20
-424569	5	0	Light Pink (6 Suits)	2021-02-03 — 21:38:27 UTC	bjnh, jack67889, Lanvin, rachyrules, Wittvector	2	6	30
+424569	5	0	Light Pink (6 Suits)	2021-02-03 — 21:38:27 UTC	bjnh, jack67889, Lanvin, rachyrules, Wittvector	3	6	30
 424556	6	0	Black (6 Suits)	2021-02-03 — 21:24:48 UTC	bjnh, jack67889, Kernel, Lanvin, rachyrules, Wittvector	4	6	30
 424523	6	0	Dark Brown (5 Suits)	2021-02-03 — 20:52:13 UTC	dobi, jack67889, Kernel, Lanvin, rachyrules, Wittvector	3	5	25
 424484	4	0	Rainbow & Omni (5 Suits)	2021-02-03 — 20:32:47 UTC	colton, jack67889, Lanvin, sephiroth	5	5	25
 424441	4	0	Rainbow & Omni (5 Suits)	2021-02-03 — 20:13:48 UTC	colton, jack67889, Lanvin, sephiroth	9	5	25
 424370	5	26	Black & Light Pink (6 Suits)	2021-02-03 — 19:44:21 UTC	colton, jack67889, Kyle, Lanvin, VerySloppyTwo	3	6	30
-424161	4	25	Dark Prism (5 Suits)	2021-02-03 — 17:14:48 UTC	jack67889, nitawa, Nitrate2, XMIL	2	5	25
-424140	4	0	Dark Prism (5 Suits)	2021-02-03 — 16:50:36 UTC	jack67889, nitawa, Nitrate2, XMIL	3	5	25
+424161	4	25	Dark Prism (5 Suits)	2021-02-03 — 17:14:48 UTC	jack67889, nitawa, Nitrate2, XMIL	3	5	25
+424140	4	0	Dark Prism (5 Suits)	2021-02-03 — 16:50:36 UTC	jack67889, nitawa, Nitrate2, XMIL	4	5	25
 424132	4	0	Dark Prism (5 Suits)	2021-02-03 — 16:41:54 UTC	jack67889, nitawa, Nitrate2, XMIL	4	5	25
 422460	5	21	Dark Prism (5 Suits)	2021-02-01 — 22:54:08 UTC	jack67889, Lanvin, newduke, Wittvector, wump	3	5	25
 422434	5	0	Dark Prism (5 Suits)	2021-02-01 — 22:28:46 UTC	jack67889, Lanvin, newduke, Wittvector, wump	5	5	25
 422419	4	22	Black & Dark Rainbow (6 Suits)	2021-02-01 — 22:15:30 UTC	jack67889, Lanvin, Onen, TimeHoodie	15	6	30
 422402	4	0	Dark Prism (5 Suits)	2021-02-01 — 21:57:13 UTC	jack67889, Lanvin, nitawa, Stinkydude63	10	5	25
-422368	3	0	Dark Pink (6 Suits)	2021-02-01 — 21:24:08 UTC	jack67889, Onen, robense	41	6	30
+422368	3	0	Dark Pink (6 Suits)	2021-02-01 — 21:24:08 UTC	jack67889, Onen, robense	42	6	30
 422098	5	0	Black & Pink (6 Suits)	2021-02-01 — 13:16:45 UTC	indego, jack67889, Lel0uch, sephiroth, TimeHoodie	1	6	30
 422093	4	0	Cocoa Rainbow & Gray Pink (6 Suits)	2021-02-01 — 12:57:16 UTC	indegoo, jack67889, Lel0uch, TimeHoodie	1	6	30
 422082	5	0	Black & Pink (6 Suits)	2021-02-01 — 12:36:15 UTC	indego, jack67889, Lel0uch, MangoPie, TimeHoodie	1	6	30
@@ -482,35 +527,35 @@
 418028	5	0	No Variant	2021-01-28 — 23:19:50 UTC	Animex52, jack67889, Lanvin, nitawa, Pablo-	15	5	25
 418025	5	0	No Variant	2021-01-28 — 23:17:20 UTC	Animex52, jack67889, Lanvin, nitawa, Pablo-	17	5	25
 418020	5	0	No Variant	2021-01-28 — 23:14:51 UTC	Animex52, jack67889, Lanvin, nitawa, Pablo-	15	5	25
-418017	5	0	No Variant	2021-01-28 — 23:12:41 UTC	Animex52, jack67889, Lanvin, nitawa, Pablo-	16	5	25
+418017	5	0	No Variant	2021-01-28 — 23:12:41 UTC	Animex52, jack67889, Lanvin, nitawa, Pablo-	17	5	25
 418013	5	0	No Variant	2021-01-28 — 23:09:16 UTC	Animex52, jack67889, Lanvin, nitawa, Pablo-	19	5	25
 418011	5	0	No Variant	2021-01-28 — 23:07:34 UTC	Animex52, jack67889, Lanvin, nitawa, Pablo-	22	5	25
 418000	4	25	Color Mute (5 Suits)	2021-01-28 — 22:57:12 UTC	Animex52, jack67889, nitawa, Pablo-	3	5	25
 417976	4	0	Rainbow (4 Suits)	2021-01-28 — 22:29:16 UTC	Animex52, aquarelle, jack67889, nitawa	11	4	20
-417962	4	19	Rainbow (4 Suits)	2021-01-28 — 22:16:49 UTC	Animex52, aquarelle, jack67889, nitawa	20	4	20
-417933	2	25	No Variant	2021-01-28 — 21:56:45 UTC	aquarelle, jack67889	1117	5	25
+417962	4	19	Rainbow (4 Suits)	2021-01-28 — 22:16:49 UTC	Animex52, aquarelle, jack67889, nitawa	21	4	20
+417933	2	25	No Variant	2021-01-28 — 21:56:45 UTC	aquarelle, jack67889	1124	5	25
 416907	5	0	Duck (6 Suits)	2021-01-27 — 22:50:18 UTC	Animex52, aquarelle, jack67889, melwen, methmatics	2	6	30
 416873	5	0	Duck (6 Suits)	2021-01-27 — 22:24:24 UTC	Animex52, aquarelle, jack67889, melwen, methmatics	3	6	30
-416863	3	0	Duck (6 Suits)	2021-01-27 — 22:18:58 UTC	Animex52, aquarelle, jack67889	8	6	30
-416844	3	0	Duck (6 Suits)	2021-01-27 — 22:07:10 UTC	Animex52, aquarelle, jack67889	9	6	30
+416863	3	0	Duck (6 Suits)	2021-01-27 — 22:18:58 UTC	Animex52, aquarelle, jack67889	9	6	30
+416844	3	0	Duck (6 Suits)	2021-01-27 — 22:07:10 UTC	Animex52, aquarelle, jack67889	10	6	30
 416802	3	0	Duck (6 Suits)	2021-01-27 — 21:44:50 UTC	Animex52, aquarelle, jack67889	12	6	30
 416663	4	24	Rainbow & Brown (5 Suits)	2021-01-27 — 20:13:35 UTC	aquarelle, jack67889, Kernel, Nitrate	6	5	25
 416642	4	0	Rainbow & Brown (5 Suits)	2021-01-27 — 19:52:50 UTC	aquarelle, jack67889, Kernel, Nitrate	9	5	25
 416636	4	0	Rainbow & Brown (5 Suits)	2021-01-27 — 19:45:19 UTC	aquarelle, jack67889, Kernel, Nitrate	17	5	25
-416329	5	24	White-Ones & Brown (5 Suits)	2021-01-27 — 12:11:51 UTC	catula, jack67889, robense, Sucubis, TimeHoodie	2	5	25
+416329	5	24	White-Ones & Brown (5 Suits)	2021-01-27 — 12:11:51 UTC	catula, jack67889, robense, Sucubis, TimeHoodie	3	5	25
 416324	3	18	White-Ones & Brown (4 Suits)	2021-01-27 — 11:48:39 UTC	catula, jack67889, Sucubis	2	4	20
 416321	3	0	Pink-Ones & Dark Prism (6 Suits)	2021-01-27 — 11:30:40 UTC	catula, jack67889, Pablo-	2	6	30
 415752	3	21	Muddy Rainbow & Dark Pink (5 Suits)	2021-01-26 — 22:18:05 UTC	indego, jack67889, MarkusKahlsen	2	5	25
 415717	4	21	White & Dark Pink (5 Suits)	2021-01-26 — 21:47:42 UTC	dobi, jack67889, Lanvin, MarkusKahlsen	3	5	25
-415703	3	0	Dark Pink (5 Suits)	2021-01-26 — 21:27:40 UTC	dobi, jack67889, Lanvin	26	5	25
+415703	3	0	Dark Pink (5 Suits)	2021-01-26 — 21:27:40 UTC	dobi, jack67889, Lanvin	27	5	25
 415402	5	28	Pink & Prism (6 Suits)	2021-01-26 — 12:56:15 UTC	indego, jack67889, Lel0uch, MangoPie, rachyrules	3	6	30
-414690	3	0	Up or Down & Prism (5 Suits)	2021-01-25 — 18:29:20 UTC	jack67889, nitawa, XMIL	14	5	25
+414690	3	0	Up or Down & Prism (5 Suits)	2021-01-25 — 18:29:20 UTC	jack67889, nitawa, XMIL	16	5	25
 414661	4	20	Muddy Rainbow (4 Suits)	2021-01-25 — 18:03:32 UTC	jack67889, nitawa, Sucubis, XMIL	8	4	20
-414643	4	0	Muddy Rainbow (4 Suits)	2021-01-25 — 17:37:19 UTC	jack67889, nitawa, Sucubis, XMIL	9	4	20
+414643	4	0	Muddy Rainbow (4 Suits)	2021-01-25 — 17:37:19 UTC	jack67889, nitawa, Sucubis, XMIL	10	4	20
 414628	3	25	White-Ones & White (5 Suits)	2021-01-25 — 17:12:08 UTC	jack67889, nitawa, Sucubis	5	5	25
-413689	3	29	Dual-Color (6 Suits)	2021-01-24 — 18:17:18 UTC	jack67889, Kernel, MarkusKahlsen	43	6	30
-413665	3	0	Dual-Color (6 Suits)	2021-01-24 — 17:55:45 UTC	jack67889, Kernel, MarkusKahlsen	66	6	30
-410813	5	21	No Variant	2021-01-21 — 22:02:34 UTC	exfret, jack67889, keeganhess, methmatics, omfret	67	5	25
+413689	3	29	Dual-Color (6 Suits)	2021-01-24 — 18:17:18 UTC	jack67889, Kernel, MarkusKahlsen	44	6	30
+413665	3	0	Dual-Color (6 Suits)	2021-01-24 — 17:55:45 UTC	jack67889, Kernel, MarkusKahlsen	67	6	30
+410813	5	21	No Variant	2021-01-21 — 22:02:34 UTC	exfret, jack67889, keeganhess, methmatics, omfret	68	5	25
 410773	5	25	No Variant	2021-01-21 — 21:21:57 UTC	cockdestroyer, exfret, jack67889, Stinkydude63, wump	20	5	25
 410630	4	24	Deceptive-Fives & Gray Pink (5 Suits)	2021-01-21 — 17:29:06 UTC	jack67889, Lel0uch, newduke, Wittvector	1	5	25
 410614	4	0	Deceptive-Fives & Gray Pink (5 Suits)	2021-01-21 — 17:07:23 UTC	jack67889, Lel0uch, newduke, Wittvector	1	5	25
@@ -530,7 +575,7 @@
 409607	5	24	Muddy-Rainbow-Fives & Dark Pink (5 Suits)	2021-01-20 — 14:50:42 UTC	jack67889, Lel0uch, MangoPie, TimeHoodie, Wittvector	1	5	25
 408993	5	19	Rainbow & White (4 Suits)	2021-01-19 — 22:02:06 UTC	BananaBum, Floriman, jack67889, MarkusKahlsen, rachyrules	4	4	20
 408970	4	30	Dark Prism (6 Suits)	2021-01-19 — 21:37:31 UTC	ejwu, jack67889, rachyrules, sephiroth	7	6	30
-408935	4	0	Dark Prism (6 Suits)	2021-01-19 — 21:05:24 UTC	ejwu, jack67889, rachyrules, sephiroth	10	6	30
+408935	4	0	Dark Prism (6 Suits)	2021-01-19 — 21:05:24 UTC	ejwu, jack67889, rachyrules, sephiroth	11	6	30
 408896	4	24	Null-Ones (5 Suits)	2021-01-19 — 20:36:19 UTC	antitelharsic, ejwu, jack67889, Pablo-	3	5	25
 408859	4	0	Null (5 Suits)	2021-01-19 — 20:08:04 UTC	antitelharsic, jack67889, nitawa, Pablo-	6	5	25
 407982	6	23	Black (5 Suits)	2021-01-18 — 22:59:42 UTC	Floriman, indego, IsabeltheCat, jack67889, Lanvin, Onen	5	5	25
@@ -545,15 +590,15 @@
 407528	5	0	Pink-Fives & Dark Rainbow (5 Suits)	2021-01-18 — 16:38:11 UTC	ChristopheAF, Floriman, HelanaAshryvr, jack67889, Lanvin	1	5	25
 407497	5	0	Pink-Fives & Dark Rainbow (5 Suits)	2021-01-18 — 16:14:25 UTC	ChristopheAF, Floriman, HelanaAshryvr, jack67889, Lanvin	2	5	25
 407483	5	0	Dark Pink (6 Suits)	2021-01-18 — 16:03:16 UTC	ChristopheAF, Floriman, HelanaAshryvr, jack67889, Wittvector	5	6	30
-407477	5	0	Dark Pink (6 Suits)	2021-01-18 — 15:51:22 UTC	ChristopheAF, Floriman, HelanaAshryvr, jack67889, Wittvector	11	6	30
+407477	5	0	Dark Pink (6 Suits)	2021-01-18 — 15:51:22 UTC	ChristopheAF, Floriman, HelanaAshryvr, jack67889, Wittvector	12	6	30
 407446	4	29	Dark Omni (6 Suits)	2021-01-18 — 15:11:05 UTC	jack67889, Plum, sin_faith, Wittvector	17	6	30
-406608	3	24	Prism (5 Suits)	2021-01-17 — 21:16:50 UTC	ChristopheAF, jack67889, robense	45	5	25
+406608	3	24	Prism (5 Suits)	2021-01-17 — 21:16:50 UTC	ChristopheAF, jack67889, robense	47	5	25
 406568	4	0	Prism (5 Suits)	2021-01-17 — 20:46:55 UTC	aquarelle, ChristopheAF, indego, jack67889	7	5	25
 406549	4	0	Prism (5 Suits)	2021-01-17 — 20:32:12 UTC	aquarelle, ChristopheAF, indego, jack67889	14	5	25
-406513	4	0	Prism (5 Suits)	2021-01-17 — 20:06:18 UTC	aquarelle, ChristopheAF, indego, jack67889	23	5	25
-406493	4	0	Prism (5 Suits)	2021-01-17 — 19:51:24 UTC	aquarelle, ChristopheAF, indego, jack67889	29	5	25
+406513	4	0	Prism (5 Suits)	2021-01-17 — 20:06:18 UTC	aquarelle, ChristopheAF, indego, jack67889	25	5	25
+406493	4	0	Prism (5 Suits)	2021-01-17 — 19:51:24 UTC	aquarelle, ChristopheAF, indego, jack67889	31	5	25
 406383	3	28	Black Reversed (6 Suits)	2021-01-17 — 17:26:31 UTC	Fey, jack67889, Wittvector	10	6	30
-405784	3	24	Up or Down (5 Suits)	2021-01-17 — 00:55:03 UTC	dobi, jack67889, Lanvin	88	5	25
+405784	3	24	Up or Down (5 Suits)	2021-01-17 — 00:55:03 UTC	dobi, jack67889, Lanvin	89	5	25
 405764	5	0	Up or Down (6 Suits)	2021-01-17 — 00:29:00 UTC	bjnh, dobi, HelanaAshryvr, jack67889, Lanvin	8	6	30
 405750	4	0	Light-Pink-Ones (5 Suits)	2021-01-17 — 00:10:15 UTC	bjnh, dobi, jack67889, Lanvin	3	5	25
 405740	4	0	Brown-Ones (4 Suits)	2021-01-16 — 23:57:15 UTC	Denchulitas, indego, jack67889, Lanvin	4	4	20
@@ -567,12 +612,12 @@
 403150	4	25	Extremely Ambiguous (5 Suits)	2021-01-14 — 18:12:43 UTC	jack67889, Lel0uch, Nitrate2, sin_faith	2	5	25
 403143	4	0	Extremely Ambiguous (5 Suits)	2021-01-14 — 17:55:45 UTC	jack67889, Lel0uch, Nitrate2, sin_faith	2	5	25
 403132	5	0	Null (6 Suits)	2021-01-14 — 17:30:18 UTC	duckington, jack67889, Lel0uch, Pablo-, sin_faith	3	6	30
-403123	5	0	Null (6 Suits)	2021-01-14 — 17:10:05 UTC	duckington, jack67889, Lel0uch, Pablo-, sin_faith	4	6	30
+403123	5	0	Null (6 Suits)	2021-01-14 — 17:10:05 UTC	duckington, jack67889, Lel0uch, Pablo-, sin_faith	5	6	30
 403113	5	0	Null (6 Suits)	2021-01-14 — 16:56:09 UTC	duckington, jack67889, Lel0uch, Pablo-, sin_faith	6	6	30
 403098	6	17	Dark Rainbow (5 Suits)	2021-01-14 — 16:28:47 UTC	indego, jack67889, Kyle, Lel0uch, melwen, Pablo-	2	5	25
-402077	5	29	Black (6 Suits)	2021-01-13 — 16:18:49 UTC	jack67889, Lanvin, MangoPie, Pimak, zeinab001	27	6	30
-402063	5	28	Black (6 Suits)	2021-01-13 — 15:51:45 UTC	jack67889, Lanvin, MangoPie, Pimak, zeinab001	101	6	30
-402042	4	30	Rainbow & White (6 Suits)	2021-01-13 — 15:17:45 UTC	jack67889, Lanvin, MangoPie, Pimak	16	6	30
+402077	5	29	Black (6 Suits)	2021-01-13 — 16:18:49 UTC	jack67889, Lanvin, MangoPie, Pimak, zeinab001	28	6	30
+402063	5	28	Black (6 Suits)	2021-01-13 — 15:51:45 UTC	jack67889, Lanvin, MangoPie, Pimak, zeinab001	103	6	30
+402042	4	30	Rainbow & White (6 Suits)	2021-01-13 — 15:17:45 UTC	jack67889, Lanvin, MangoPie, Pimak	17	6	30
 402019	6	0	Black (6 Suits)	2021-01-13 — 14:44:33 UTC	HelanaAshryvr, jack67889, Lanvin, MangoPie, Pimak, Wittvector	4	6	30
 402015	6	0	Black (6 Suits)	2021-01-13 — 14:27:39 UTC	HelanaAshryvr, jack67889, Lanvin, MangoPie, Pimak, Wittvector	5	6	30
 401985	6	23	Black (5 Suits)	2021-01-13 — 13:02:28 UTC	boba, catula, hakha3, jack67889, Lel0uch, Sucubis	8	5	25
@@ -592,11 +637,11 @@
 398428	5	30	Dark Rainbow (6 Suits)	2021-01-10 — 00:34:27 UTC	derekcheah, Floriman, jack67889, Kyle, melwen	6	6	30
 398364	4	22	Dark Prism (5 Suits)	2021-01-09 — 23:56:41 UTC	antitelharsic, jack67889, nitawa, XMIL	5	5	25
 398330	4	0	Dark Prism (5 Suits)	2021-01-09 — 23:37:21 UTC	antitelharsic, jack67889, nitawa, XMIL	8	5	25
-398302	4	0	Dark Prism (5 Suits)	2021-01-09 — 23:21:18 UTC	antitelharsic, jack67889, nitawa, XMIL	9	5	25
-398287	4	0	Dark Prism (5 Suits)	2021-01-09 — 23:14:30 UTC	antitelharsic, jack67889, nitawa, XMIL	8	5	25
-398273	4	0	Dark Prism (5 Suits)	2021-01-09 — 23:06:57 UTC	antitelharsic, jack67889, nitawa, XMIL	17	5	25
+398302	4	0	Dark Prism (5 Suits)	2021-01-09 — 23:21:18 UTC	antitelharsic, jack67889, nitawa, XMIL	10	5	25
+398287	4	0	Dark Prism (5 Suits)	2021-01-09 — 23:14:30 UTC	antitelharsic, jack67889, nitawa, XMIL	10	5	25
+398273	4	0	Dark Prism (5 Suits)	2021-01-09 — 23:06:57 UTC	antitelharsic, jack67889, nitawa, XMIL	18	5	25
 397882	4	25	Dark Pink (5 Suits)	2021-01-09 — 17:18:21 UTC	jack67889, Lanvin, nitawa, XMIL	9	5	25
-397872	3	0	Dark Pink (5 Suits)	2021-01-09 — 17:04:54 UTC	jack67889, nitawa, XMIL	42	5	25
+397872	3	0	Dark Pink (5 Suits)	2021-01-09 — 17:04:54 UTC	jack67889, nitawa, XMIL	44	5	25
 397869	4	23	Dark Pink (5 Suits)	2021-01-09 — 16:58:25 UTC	jack67889, Lanvin, nitawa, XMIL	6	5	25
 397841	4	0	Dark Pink (5 Suits)	2021-01-09 — 16:23:35 UTC	jack67889, Lanvin, nitawa, XMIL	10	5	25
 397831	4	0	Dark Pink (5 Suits)	2021-01-09 — 16:07:53 UTC	jack67889, Lanvin, nitawa, XMIL	9	5	25
@@ -604,7 +649,7 @@
 397808	4	0	Dark Pink (5 Suits)	2021-01-09 — 15:29:53 UTC	jack67889, Lanvin, nitawa, XMIL	11	5	25
 397802	3	30	Pink (6 Suits)	2021-01-09 — 15:10:03 UTC	jack67889, nitawa, XMIL	10	6	30
 397187	5	0	Black (5 Suits)	2021-01-09 — 00:51:22 UTC	jack67889, Lanvin, nitawa, Pablo-, XMIL	4	5	25
-397165	5	22	Black (5 Suits)	2021-01-09 — 00:32:28 UTC	jack67889, Lanvin, nitawa, Pablo-, XMIL	4	5	25
+397165	5	22	Black (5 Suits)	2021-01-09 — 00:32:28 UTC	jack67889, Lanvin, nitawa, Pablo-, XMIL	5	5	25
 397128	5	23	Black (5 Suits)	2021-01-09 — 00:12:00 UTC	jack67889, Lanvin, nitawa, Pablo-, XMIL	12	5	25
 397106	5	0	Null (6 Suits)	2021-01-08 — 23:48:33 UTC	duckington, jack67889, Lanvin, nitawa, Pablo-	7	6	30
 397103	5	0	Null (6 Suits)	2021-01-08 — 23:37:09 UTC	duckington, jack67889, Lanvin, nitawa, Pablo-	8	6	30
@@ -629,10 +674,10 @@
 396695	3	20	White Reversed (4 Suits)	2021-01-08 — 16:16:17 UTC	doctorabi, Fey, jack67889	7	4	20
 396682	3	19	Rainbow & Pink (4 Suits)	2021-01-08 — 15:21:02 UTC	Div, jack67889, plus	2	4	20
 396666	3	30	Omni (6 Suits)	2021-01-08 — 14:58:31 UTC	Div, jack67889, MarkusKahlsen	22	6	30
-395918	3	25	Dark Prism (5 Suits)	2021-01-07 — 23:15:09 UTC	Animex52, ejwu, jack67889	18	5	25
+395918	3	25	Dark Prism (5 Suits)	2021-01-07 — 23:15:09 UTC	Animex52, ejwu, jack67889	19	5	25
 395889	5	0	White-Ones & Brown (6 Suits)	2021-01-07 — 22:47:21 UTC	Animex52, jack67889, nitawa, Pablo-, XMIL	1	6	30
 395870	5	0	White-Ones & Brown (6 Suits)	2021-01-07 — 22:32:46 UTC	Animex52, jack67889, nitawa, Pablo-, XMIL	1	6	30
-395850	3	20	Brown (4 Suits)	2021-01-07 — 22:15:10 UTC	bob65536, jack67889, Nitrate2	19	4	20
+395850	3	20	Brown (4 Suits)	2021-01-07 — 22:15:10 UTC	bob65536, jack67889, Nitrate2	22	4	20
 395815	5	0	Dark Rainbow (5 Suits)	2021-01-07 — 21:57:02 UTC	jack67889, nitawa, Nitrate2, Pablo-, VerySloppyTwo	3	5	25
 395770	5	29	Pink & Dark Brown (6 Suits)	2021-01-07 — 21:18:09 UTC	Floriman, jack67889, Lel0uch, Pablo-, TimeHoodie	1	6	30
 395742	5	0	Pink & Dark Brown (6 Suits)	2021-01-07 — 20:48:56 UTC	Floriman, jack67889, Lel0uch, Pablo-, TimeHoodie	2	6	30
@@ -652,16 +697,16 @@
 395559	6	0	Dual-Color Mix	2021-01-07 — 15:51:28 UTC	indego, jack67889, Kyle, melwen, sephiroth, TimeHoodie	2	6	30
 395543	6	0	Dual-Color Mix	2021-01-07 — 15:29:42 UTC	indego, jack67889, Kyle, melwen, sephiroth, TimeHoodie	3	6	30
 395532	4	28	Dark Pink & Gray Pink (6 Suits)	2021-01-07 — 15:07:21 UTC	jack67889, Lanvin, melwen, sephiroth	1	6	30
-395515	5	22	No Variant	2021-01-07 — 14:33:52 UTC	gobblet, jack67889, Lanvin, melwen, sephiroth	29	5	25
-394950	4	0	Omni (6 Suits)	2021-01-06 — 23:54:45 UTC	jack67889, MarkusKahlsen, rake, Wittvector	15	6	30
+395515	5	22	No Variant	2021-01-07 — 14:33:52 UTC	gobblet, jack67889, Lanvin, melwen, sephiroth	30	5	25
+394950	4	0	Omni (6 Suits)	2021-01-06 — 23:54:45 UTC	jack67889, MarkusKahlsen, rake, Wittvector	16	6	30
 394923	4	0	Special Mix (6 Suits)	2021-01-06 — 23:27:22 UTC	jack67889, MarkusKahlsen, rake, Wittvector	17	6	30
-394902	4	0	Special Mix (6 Suits)	2021-01-06 — 23:05:26 UTC	jack67889, MarkusKahlsen, rake, Wittvector	24	6	30
+394902	4	0	Special Mix (6 Suits)	2021-01-06 — 23:05:26 UTC	jack67889, MarkusKahlsen, rake, Wittvector	25	6	30
 394527	4	24	Dark Rainbow (5 Suits)	2021-01-06 — 16:40:47 UTC	jack67889, nitawa, wump, XMIL	8	5	25
 394518	4	22	Dark Rainbow (5 Suits)	2021-01-06 — 16:08:09 UTC	jack67889, nitawa, wump, XMIL	17	5	25
 393953	3	24	Pink & Prism (5 Suits)	2021-01-05 — 23:42:52 UTC	jack67889, Kyle, MarkusKahlsen	13	5	25
 393937	3	0	Omni (6 Suits)	2021-01-05 — 23:15:26 UTC	doctorabi, jack67889, MarkusKahlsen	51	6	30
 393919	3	0	Omni (6 Suits)	2021-01-05 — 22:55:12 UTC	doctorabi, jack67889, MarkusKahlsen	70	6	30
-393909	3	25	Dark Rainbow (5 Suits)	2021-01-05 — 22:43:03 UTC	ChristopheAF, jack67889, MarkusKahlsen	4	5	25
+393909	3	25	Dark Rainbow (5 Suits)	2021-01-05 — 22:43:03 UTC	ChristopheAF, jack67889, MarkusKahlsen	5	5	25
 393890	4	0	Dark Rainbow (5 Suits)	2021-01-05 — 22:16:03 UTC	ChristopheAF, jack67889, MarkusKahlsen, voss	6	5	25
 393869	3	24	Dark Rainbow (5 Suits)	2021-01-05 — 21:57:32 UTC	jack67889, MarkusKahlsen, XMIL	6	5	25
 393843	3	0	Dark Rainbow (5 Suits)	2021-01-05 — 21:36:47 UTC	jack67889, MarkusKahlsen, XMIL	7	5	25
@@ -698,7 +743,7 @@
 391734	5	0	6 Suits	2021-01-03 — 21:34:45 UTC	bob65536, colton, jack67889, sephiroth, VerySloppyTwo	40	6	30
 391710	6	0	Dark Pink (5 Suits)	2021-01-03 — 21:11:30 UTC	bob65536, colton, doctorabi, jack67889, sephiroth, VerySloppyTwo	4	5	25
 391692	6	25	Pink & Prism (5 Suits)	2021-01-03 — 20:56:06 UTC	bob65536, colton, doctorabi, jack67889, sephiroth, VerySloppyTwo	1	5	25
-391665	4	0	Dark Pink (6 Suits)	2021-01-03 — 20:31:12 UTC	doctorabi, jack67889, plus, sephiroth	6	6	30
+391665	4	0	Dark Pink (6 Suits)	2021-01-03 — 20:31:12 UTC	doctorabi, jack67889, plus, sephiroth	7	6	30
 391650	4	30	Rainbow & Dark Brown (6 Suits)	2021-01-03 — 20:12:20 UTC	doctorabi, jack67889, plus, sephiroth	4	6	30
 391635	3	25	Omni-Ones & Omni (5 Suits)	2021-01-03 — 19:51:45 UTC	doctorabi, jack67889, Nitrate2	1	5	25
 391614	3	0	Omni-Ones & Omni (5 Suits)	2021-01-03 — 19:26:45 UTC	doctorabi, jack67889, Nitrate2	1	5	25
@@ -711,30 +756,30 @@
 391407	3	30	Rainbow & Brown (6 Suits)	2021-01-03 — 12:13:50 UTC	bob65536, jack67889, Wittvector	23	6	30
 390863	5	23	Light Pink (5 Suits)	2021-01-03 — 01:21:48 UTC	aquarelle, boba, indego, jack67889, Lanvin	6	5	25
 390825	5	0	Light Pink (5 Suits)	2021-01-03 — 00:47:00 UTC	aquarelle, boba, jack67889, Lanvin, Wittvector	11	5	25
-390756	3	27	6 Suits	2021-01-02 — 23:33:01 UTC	indego, jack67889, sean1815	252	6	30
-390730	4	0	6 Suits	2021-01-02 — 23:17:42 UTC	indego, jack67889, nxxxp, sean1815	354	6	30
-390713	3	14	Rainbow (3 Suits)	2021-01-02 — 23:04:59 UTC	indego, jack67889, sean1815	71	3	15
+390756	3	27	6 Suits	2021-01-02 — 23:33:01 UTC	indego, jack67889, sean1815	256	6	30
+390730	4	0	6 Suits	2021-01-02 — 23:17:42 UTC	indego, jack67889, nxxxp, sean1815	359	6	30
+390713	3	14	Rainbow (3 Suits)	2021-01-02 — 23:04:59 UTC	indego, jack67889, sean1815	72	3	15
 390678	5	24	Rainbow (5 Suits)	2021-01-02 — 22:31:16 UTC	indego, jack67889, rz, sean1815, XMIL	12	5	25
-390626	3	25	No Variant	2021-01-02 — 21:45:36 UTC	Donna, hakha3, jack67889	1465	5	25
-390590	4	25	No Variant	2021-01-02 — 21:16:11 UTC	Donna, hakha3, jack67889, TimeHoodie	2763	5	25
-390328	3	25	Gray (5 Suits)	2021-01-02 — 15:59:56 UTC	Animex52, jack67889, nitawa	16	5	25
+390626	3	25	No Variant	2021-01-02 — 21:45:36 UTC	Donna, hakha3, jack67889	1474	5	25
+390590	4	25	No Variant	2021-01-02 — 21:16:11 UTC	Donna, hakha3, jack67889, TimeHoodie	2788	5	25
+390328	3	25	Gray (5 Suits)	2021-01-02 — 15:59:56 UTC	Animex52, jack67889, nitawa	17	5	25
 390317	3	0	Gray (5 Suits)	2021-01-02 — 15:27:54 UTC	Animex52, jack67889, nitawa	20	5	25
-390303	3	0	Gray (5 Suits)	2021-01-02 — 14:52:06 UTC	Animex52, jack67889, nitawa	19	5	25
-390297	3	0	Gray (5 Suits)	2021-01-02 — 14:28:55 UTC	Animex52, jack67889, nitawa	21	5	25
+390303	3	0	Gray (5 Suits)	2021-01-02 — 14:52:06 UTC	Animex52, jack67889, nitawa	20	5	25
+390297	3	0	Gray (5 Suits)	2021-01-02 — 14:28:55 UTC	Animex52, jack67889, nitawa	23	5	25
 390288	3	0	Gray (5 Suits)	2021-01-02 — 14:05:09 UTC	Animex52, jack67889, nitawa	26	5	25
-389730	4	24	No Variant	2021-01-02 — 00:02:48 UTC	jack67889, Lanvin, MarcLovesDogs, robense	79	5	25
+389730	4	24	No Variant	2021-01-02 — 00:02:48 UTC	jack67889, Lanvin, MarcLovesDogs, robense	81	5	25
 389695	4	0	No Variant	2021-01-01 — 23:34:23 UTC	jack67889, Lanvin, MarcLovesDogs, robense	129	5	25
 389671	6	30	6 Suits	2021-01-01 — 23:09:08 UTC	aquarelle, HelanaAshryvr, indego, jack67889, Lanvin, rahsosprout	9	6	30
 389637	6	0	Up or Down (6 Suits)	2021-01-01 — 22:33:34 UTC	aquarelle, HelanaAshryvr, indego, jack67889, rahsosprout, ricardodd	10	6	30
 389609	4	0	Dark Prism (6 Suits)	2021-01-01 — 22:06:51 UTC	indego, jack67889, kinkajusrevenge, sephiroth	14	6	30
 389445	4	30	Rainbow (6 Suits)	2021-01-01 — 18:39:07 UTC	Daryl, jack67889, rz, TimeHoodie	13	6	30
-389432	4	0	Rainbow (6 Suits)	2021-01-01 — 18:11:57 UTC	Daryl, jack67889, rz, TimeHoodie	15	6	30
-389420	4	28	Rainbow (6 Suits)	2021-01-01 — 17:47:23 UTC	Daryl, jack67889, rz, TimeHoodie	15	6	30
+389432	4	0	Rainbow (6 Suits)	2021-01-01 — 18:11:57 UTC	Daryl, jack67889, rz, TimeHoodie	16	6	30
+389420	4	28	Rainbow (6 Suits)	2021-01-01 — 17:47:23 UTC	Daryl, jack67889, rz, TimeHoodie	16	6	30
 389407	4	0	Rainbow (6 Suits)	2021-01-01 — 17:23:17 UTC	Daryl, jack67889, rz, TimeHoodie	19	6	30
 388201	5	0	Brown-Ones & Cocoa Rainbow (6 Suits)	2020-12-31 — 15:30:51 UTC	jack67889, Kyle, melwen, TimeHoodie, wump	1	6	30
 387655	3	19	Rainbow & Brown (4 Suits)	2020-12-31 — 00:30:12 UTC	asaelr, doctorabi, jack67889	3	4	20
 387642	3	0	Rainbow & Brown (4 Suits)	2020-12-31 — 00:14:29 UTC	asaelr, doctorabi, jack67889	4	4	20
-387635	3	0	Rainbow & Brown (4 Suits)	2020-12-31 — 00:05:31 UTC	asaelr, doctorabi, jack67889	13	4	20
+387635	3	0	Rainbow & Brown (4 Suits)	2020-12-31 — 00:05:31 UTC	asaelr, doctorabi, jack67889	15	4	20
 387622	3	18	Rainbow & Brown (4 Suits)	2020-12-30 — 23:48:24 UTC	asaelr, doctorabi, jack67889	20	4	20
 387287	5	0	Rainbow-Ones (4 Suits)	2020-12-30 — 16:30:11 UTC	jack67889, Kernel, Lanvin, melwen, sephiroth	1	4	20
 387281	5	18	Rainbow-Ones (4 Suits)	2020-12-30 — 16:07:42 UTC	jack67889, Kernel, Lanvin, melwen, sephiroth	1	4	20
@@ -752,24 +797,24 @@
 386145	5	0	Rainbow & Prism (4 Suits)	2020-12-29 — 14:19:13 UTC	ChristopheAF, frosty104, indego, jack67889, Lel0uch	3	4	20
 386125	5	18	Rainbow & Prism (4 Suits)	2020-12-29 — 13:55:30 UTC	ChristopheAF, frosty104, indego, jack67889, Lel0uch	3	4	20
 386106	5	25	White (5 Suits)	2020-12-29 — 13:25:11 UTC	ChristopheAF, frosty104, indego, jack67889, Lel0uch	11	5	25
-386070	4	0	White (5 Suits)	2020-12-29 — 12:52:07 UTC	ChristopheAF, indego, jack67889, Lel0uch	79	5	25
+386070	4	0	White (5 Suits)	2020-12-29 — 12:52:07 UTC	ChristopheAF, indego, jack67889, Lel0uch	80	5	25
 386048	5	24	Rainbow & Brown (5 Suits)	2020-12-29 — 11:49:58 UTC	catula, jack67889, macanek, methmatics, Pablo-	6	5	25
 386029	5	30	Prism Reversed (6 Suits)	2020-12-29 — 10:54:37 UTC	indego, jack67889, Livia, macanek, sephiroth	1	6	30
 386021	5	0	Prism Reversed (6 Suits)	2020-12-29 — 10:27:57 UTC	indego, jack67889, Livia, macanek, sephiroth	2	6	30
 386012	5	28	Prism Reversed (6 Suits)	2020-12-29 — 10:10:21 UTC	indego, jack67889, Livia, macanek, sephiroth	5	6	30
-385508	4	0	Light Pink (6 Suits)	2020-12-29 — 00:28:21 UTC	jack67889, JackFrost, ksfortson, wump	14	6	30
+385508	4	0	Light Pink (6 Suits)	2020-12-29 — 00:28:21 UTC	jack67889, JackFrost, ksfortson, wump	15	6	30
 385479	4	29	Light Pink (6 Suits)	2020-12-28 — 23:53:50 UTC	jack67889, JackFrost, ksfortson, wump	19	6	30
 385444	5	21	Light Pink (5 Suits)	2020-12-28 — 23:21:32 UTC	jack67889, JackFrost, ksfortson, Onen, wump	12	5	25
 385411	6	25	Brown-Ones (5 Suits)	2020-12-28 — 22:44:51 UTC	jack67889, JackFrost, ksfortson, Onen, Pablo-, wump	2	5	25
-385213	5	24	No Variant	2020-12-28 — 19:36:53 UTC	doctorabi, frosty104, jack67889, Spieler42, witcher	296	5	25
+385213	5	24	No Variant	2020-12-28 — 19:36:53 UTC	doctorabi, frosty104, jack67889, Spieler42, witcher	302	5	25
 385193	4	23	Dark Pink (5 Suits)	2020-12-28 — 19:15:04 UTC	doctorabi, frosty104, jack67889, plus	11	5	25
 385169	4	24	Dark Pink (5 Suits)	2020-12-28 — 18:52:54 UTC	doctorabi, frosty104, jack67889, plus	13	5	25
-385158	4	0	Dark Pink (5 Suits)	2020-12-28 — 18:34:42 UTC	doctorabi, frosty104, jack67889, plus	15	5	25
+385158	4	0	Dark Pink (5 Suits)	2020-12-28 — 18:34:42 UTC	doctorabi, frosty104, jack67889, plus	16	5	25
 385083	4	25	Brown & Muddy Rainbow (5 Suits)	2020-12-28 — 16:59:36 UTC	colton, doctorabi, jack67889, sin_faith	2	5	25
 385075	4	0	Brown & Muddy Rainbow (5 Suits)	2020-12-28 — 16:30:45 UTC	colton, doctorabi, jack67889, sin_faith	2	5	25
 385069	4	0	Brown & Muddy Rainbow (5 Suits)	2020-12-28 — 16:16:36 UTC	colton, doctorabi, jack67889, sin_faith	2	5	25
 385044	3	0	Brown & Muddy Rainbow (5 Suits)	2020-12-28 — 15:45:56 UTC	colton, jack67889, MarkusKahlsen	6	5	25
-384961	5	26	Dark Rainbow (6 Suits)	2020-12-28 — 13:10:39 UTC	indego, jack67889, Pablo-, StKildaFan, Sucubis	23	6	30
+384961	5	26	Dark Rainbow (6 Suits)	2020-12-28 — 13:10:39 UTC	indego, jack67889, Pablo-, StKildaFan, Sucubis	24	6	30
 384957	5	0	Dark Rainbow (6 Suits)	2020-12-28 — 12:54:45 UTC	indego, jack67889, Pablo-, StKildaFan, Sucubis	33	6	30
 384298	6	25	Black & Prism (5 Suits)	2020-12-27 — 22:53:22 UTC	doctorabi, frosty104, jack67889, Pablo-, scharkbite, Wittvector	1	5	25
 383877	5	25	Muddy Rainbow (5 Suits)	2020-12-27 — 12:57:43 UTC	hakha3, IAMJEFF, jack67889, Lel0uch, sin_faith	4	5	25
@@ -786,32 +831,32 @@
 382787	4	0	Black & Pink (6 Suits)	2020-12-26 — 16:23:03 UTC	Fey, jack67889, robense, Sucubis	18	6	30
 382754	4	25	Black & Light Pink (5 Suits)	2020-12-26 — 14:46:44 UTC	frosty104, jack67889, Lel0uch, Sucubis	8	5	25
 382752	4	22	Black & Light Pink (5 Suits)	2020-12-26 — 14:35:06 UTC	frosty104, jack67889, Lel0uch, Sucubis	9	5	25
-382746	4	30	Black & Prism (6 Suits)	2020-12-26 — 14:19:06 UTC	frosty104, jack67889, Lel0uch, Sucubis	14	6	30
+382746	4	30	Black & Prism (6 Suits)	2020-12-26 — 14:19:06 UTC	frosty104, jack67889, Lel0uch, Sucubis	15	6	30
 381210	4	20	Light Pink (4 Suits)	2020-12-25 — 00:11:42 UTC	doctorabi, jack67889, kevincaseytdk1, orucsoraihc	8	4	20
 381197	4	19	Light Pink (4 Suits)	2020-12-24 — 23:47:59 UTC	doctorabi, jack67889, kevincaseytdk1, orucsoraihc	11	4	20
 381147	3	24	Dark Rainbow (5 Suits)	2020-12-24 — 22:29:59 UTC	hakha3, Hoodie, jack67889	20	5	25
-381139	3	0	Dark Rainbow (5 Suits)	2020-12-24 — 22:13:28 UTC	hakha3, Hoodie, jack67889	48	5	25
+381139	3	0	Dark Rainbow (5 Suits)	2020-12-24 — 22:13:28 UTC	hakha3, Hoodie, jack67889	49	5	25
 381118	3	24	Cocoa Rainbow (5 Suits)	2020-12-24 — 21:47:25 UTC	jack67889, sephiroth, VerySloppyTwo	14	5	25
 381108	3	0	Cocoa Rainbow (5 Suits)	2020-12-24 — 21:31:48 UTC	jack67889, sephiroth, VerySloppyTwo	21	5	25
-381067	3	25	No Variant	2020-12-24 — 20:35:55 UTC	jack67889, macanek, sean1815	645	5	25
-381041	3	20	4 Suits	2020-12-24 — 20:03:27 UTC	bob65536, jack67889, witcher	160	4	20
+381067	3	25	No Variant	2020-12-24 — 20:35:55 UTC	jack67889, macanek, sean1815	655	5	25
+381041	3	20	4 Suits	2020-12-24 — 20:03:27 UTC	bob65536, jack67889, witcher	162	4	20
 380857	3	0	Dark Prism Reversed (5 Suits)	2020-12-24 — 13:23:47 UTC	jack67889, Pablo-, VerySloppyTwo	2	5	25
 380852	4	26	Cocoa Rainbow & Gray Pink (6 Suits)	2020-12-24 — 13:10:58 UTC	jack67889, Pablo-, sin_faith, VerySloppyTwo	2	6	30
 379873	5	30	Prism & Dark Rainbow (6 Suits)	2020-12-23 — 15:06:55 UTC	boba, doctorabi, frosty104, jack67889, Lel0uch	3	6	30
-379860	5	0	Prism & Dark Rainbow (6 Suits)	2020-12-23 — 14:34:26 UTC	boba, doctorabi, frosty104, jack67889, Lel0uch	3	6	30
+379860	5	0	Prism & Dark Rainbow (6 Suits)	2020-12-23 — 14:34:26 UTC	boba, doctorabi, frosty104, jack67889, Lel0uch	4	6	30
 379810	6	24	White-Fives (5 Suits)	2020-12-23 — 12:40:57 UTC	catula, doctorabi, jack67889, melwen, Pablo-, Sucubis	1	5	25
 379797	4	0	Prism Reversed (5 Suits)	2020-12-23 — 12:12:10 UTC	jack67889, melwen, nitawa, Sucubis	5	5	25
-379792	4	24	No Variant	2020-12-23 — 11:44:37 UTC	banjoleb, frosty104, jack67889, Lel0uch	1744	5	25
+379792	4	24	No Variant	2020-12-23 — 11:44:37 UTC	banjoleb, frosty104, jack67889, Lel0uch	1759	5	25
 379784	4	0	Black & Light Pink (6 Suits)	2020-12-23 — 11:19:19 UTC	doctorabi, frosty104, jack67889, Lel0uch	10	6	30
 379223	3	22	Duck (5 Suits)	2020-12-22 — 23:40:49 UTC	jack67889, jeff10, lotem	22	5	25
 379206	3	24	Duck (5 Suits)	2020-12-22 — 23:16:01 UTC	jack67889, jeff10, lotem	25	5	25
 379188	3	0	Duck (5 Suits)	2020-12-22 — 22:55:12 UTC	jack67889, jeff10, lotem	35	5	25
 379170	3	0	Dark Null (6 Suits)	2020-12-22 — 22:34:59 UTC	frosty104, jack67889, plus	11	6	30
 378944	6	0	White-Fives (5 Suits)	2020-12-22 — 18:01:26 UTC	doctorabi, Fey, jack67889, Pablo-, Plum, Sucubis	1	5	25
-378844	4	24	Brown (5 Suits)	2020-12-22 — 14:59:29 UTC	jack67889, kinkajusrevenge, Lanvin, PMP	46	5	25
+378844	4	24	Brown (5 Suits)	2020-12-22 — 14:59:29 UTC	jack67889, kinkajusrevenge, Lanvin, PMP	47	5	25
 378804	4	30	Black & White (6 Suits)	2020-12-22 — 12:27:15 UTC	frosty104, jack67889, kimbifille, sjdrodge	16	6	30
 378795	4	0	Black & White (6 Suits)	2020-12-22 — 11:52:40 UTC	frosty104, jack67889, kimbifille, sjdrodge	17	6	30
-378793	4	25	Dark Brown (5 Suits)	2020-12-22 — 11:34:01 UTC	frosty104, jack67889, kimbifille, sjdrodge	10	5	25
+378793	4	25	Dark Brown (5 Suits)	2020-12-22 — 11:34:01 UTC	frosty104, jack67889, kimbifille, sjdrodge	11	5	25
 378787	4	0	Dark Brown (5 Suits)	2020-12-22 — 11:18:06 UTC	frosty104, jack67889, kimbifille, sjdrodge	10	5	25
 378105	3	0	Null (6 Suits)	2020-12-21 — 22:29:25 UTC	doctorabi, hakha3, jack67889	12	6	30
 378095	3	0	Null (6 Suits)	2020-12-21 — 22:19:47 UTC	doctorabi, hakha3, jack67889	13	6	30
@@ -821,8 +866,8 @@
 377883	3	0	Dark Omni (5 Suits)	2020-12-21 — 18:00:46 UTC	jack67889, Lel0uch, sephiroth	6	5	25
 377869	5	20	Black (5 Suits)	2020-12-21 — 17:36:31 UTC	Fey, jack67889, rz, sin_faith, Sucubis	8	5	25
 377853	5	0	Black (5 Suits)	2020-12-21 — 17:16:48 UTC	Fey, jack67889, rz, Sucubis, wump	13	5	25
-377781	4	25	No Variant	2020-12-21 — 13:54:26 UTC	indego, jack67889, kodomazer, MarkusKahlsen	52	5	25
-377758	4	25	Pink & Brown (5 Suits)	2020-12-21 — 12:47:11 UTC	jack67889, sin_faith, TimeHoodie, Wittvector	10	5	25
+377781	4	25	No Variant	2020-12-21 — 13:54:26 UTC	indego, jack67889, kodomazer, MarkusKahlsen	54	5	25
+377758	4	25	Pink & Brown (5 Suits)	2020-12-21 — 12:47:11 UTC	jack67889, sin_faith, TimeHoodie, Wittvector	11	5	25
 377756	5	0	Black & Prism (6 Suits)	2020-12-21 — 12:29:34 UTC	catula, doctorabi, jack67889, sin_faith, Sucubis	3	6	30
 377754	5	0	Black & Prism (6 Suits)	2020-12-21 — 12:16:26 UTC	catula, doctorabi, jack67889, sin_faith, Sucubis	3	6	30
 377753	5	0	Black & Prism (6 Suits)	2020-12-21 — 12:14:15 UTC	catula, doctorabi, jack67889, sin_faith, Sucubis	4	6	30
@@ -832,9 +877,9 @@
 377193	4	0	Null (6 Suits)	2020-12-20 — 23:25:13 UTC	doctorabi, frosty104, jack67889, jeff10	21	6	30
 377186	5	27	Null (6 Suits)	2020-12-20 — 23:05:36 UTC	doctorabi, frosty104, hakha3, jack67889, MarkusKahlsen	10	6	30
 377158	5	0	Null (6 Suits)	2020-12-20 — 22:37:00 UTC	doctorabi, frosty104, hakha3, jack67889, MarkusKahlsen	13	6	30
-377134	3	0	Null (6 Suits)	2020-12-20 — 22:22:43 UTC	doctorabi, jack67889, MarkusKahlsen	26	6	30
-377119	3	0	Null (6 Suits)	2020-12-20 — 22:14:50 UTC	doctorabi, jack67889, MarkusKahlsen	36	6	30
-377097	3	0	Null (6 Suits)	2020-12-20 — 22:04:42 UTC	doctorabi, jack67889, MarkusKahlsen	57	6	30
+377134	3	0	Null (6 Suits)	2020-12-20 — 22:22:43 UTC	doctorabi, jack67889, MarkusKahlsen	27	6	30
+377119	3	0	Null (6 Suits)	2020-12-20 — 22:14:50 UTC	doctorabi, jack67889, MarkusKahlsen	38	6	30
+377097	3	0	Null (6 Suits)	2020-12-20 — 22:04:42 UTC	doctorabi, jack67889, MarkusKahlsen	60	6	30
 377067	4	0	Black & Muddy Rainbow (5 Suits)	2020-12-20 — 21:38:44 UTC	doctorabi, jack67889, Pablo-, penisman	6	5	25
 377055	4	0	Black & Muddy Rainbow (5 Suits)	2020-12-20 — 21:25:12 UTC	doctorabi, jack67889, Pablo-, penisman	6	5	25
 377039	6	0	Dark Pink (6 Suits)	2020-12-20 — 21:10:52 UTC	doctorabi, jack67889, Pablo-, penisman, rachyrules, XMIL	2	6	30
@@ -845,19 +890,19 @@
 376817	4	25	White-Ones & Brown (5 Suits)	2020-12-20 — 15:44:34 UTC	jack67889, Sucubis, wump, XMIL	1	5	25
 376805	6	25	Null (5 Suits)	2020-12-20 — 15:09:01 UTC	frosty104, jack67889, jeff10, katian, Lel0uch, sin_faith	5	5	25
 376795	5	0	Null (5 Suits)	2020-12-20 — 14:49:02 UTC	frosty104, jack67889, Lel0uch, magikarp, sin_faith	9	5	25
-376787	4	0	Null (5 Suits)	2020-12-20 — 14:37:18 UTC	frosty104, jack67889, katian, Lel0uch	7	5	25
+376787	4	0	Null (5 Suits)	2020-12-20 — 14:37:18 UTC	frosty104, jack67889, katian, Lel0uch	8	5	25
 376776	4	0	Null (5 Suits)	2020-12-20 — 14:17:33 UTC	frosty104, jack67889, katian, Lel0uch	8	5	25
 376772	4	0	Null (5 Suits)	2020-12-20 — 13:54:38 UTC	frosty104, jack67889, katian, Lel0uch	7	5	25
 376768	4	0	Null (5 Suits)	2020-12-20 — 13:37:42 UTC	frosty104, jack67889, katian, Lel0uch	12	5	25
 376766	4	0	Null (5 Suits)	2020-12-20 — 13:30:50 UTC	frosty104, jack67889, katian, Lel0uch	20	5	25
-376762	4	24	Null (5 Suits)	2020-12-20 — 13:18:22 UTC	frosty104, jack67889, katian, Lel0uch	26	5	25
+376762	4	24	Null (5 Suits)	2020-12-20 — 13:18:22 UTC	frosty104, jack67889, katian, Lel0uch	27	5	25
 376756	6	0	Dark Rainbow (6 Suits)	2020-12-20 — 12:46:55 UTC	frosty104, jack67889, Lel0uch, nitawa, rachyrules, Sucubis	8	6	30
 375765	4	25	Black & Brown (5 Suits)	2020-12-19 — 15:09:57 UTC	Fey, jack67889, swineherd, TimeHoodie	8	5	25
 375754	4	25	Black & Pink (5 Suits)	2020-12-19 — 14:10:51 UTC	jack67889, jeff10, robense, swineherd	4	5	25
 375749	5	20	Rainbow-Fives (4 Suits)	2020-12-19 — 13:47:37 UTC	jack67889, Nitrate2, Pablo-, sephiroth, VerySloppyTwo	1	4	20
 375745	3	0	Rainbow-Fives (4 Suits)	2020-12-19 — 13:36:33 UTC	jack67889, Nitrate2, Pablo-	5	4	20
 375736	6	25	Muddy Rainbow (5 Suits)	2020-12-19 — 12:29:53 UTC	Animex52, catula, jack67889, nitawa, Nitrate2, Sucubis	3	5	25
-375730	3	30	White (6 Suits)	2020-12-19 — 11:42:11 UTC	Div, jack67889, orucsoraihc	124	6	30
+375730	3	30	White (6 Suits)	2020-12-19 — 11:42:11 UTC	Div, jack67889, orucsoraihc	128	6	30
 375120	4	25	Cocoa Rainbow (5 Suits)	2020-12-18 — 23:44:51 UTC	doctorabi, jack67889, Pablo-, rachyrules	8	5	25
 375103	3	0	Cocoa Rainbow (5 Suits)	2020-12-18 — 23:24:26 UTC	jack67889, nitawa, Pablo-	10	5	25
 375086	3	22	Cocoa Rainbow (5 Suits)	2020-12-18 — 23:10:20 UTC	jack67889, nitawa, Pablo-	10	5	25
@@ -865,13 +910,13 @@
 375064	3	0	Cocoa Rainbow (5 Suits)	2020-12-18 — 22:50:18 UTC	jack67889, nitawa, Pablo-	22	5	25
 375032	6	0	Dual-Color (5 Suits)	2020-12-18 — 22:10:36 UTC	Floriman, frosty104, jack67889, Lanvin, plus, postmans	2	5	25
 375013	6	0	Dual-Color (5 Suits)	2020-12-18 — 21:38:10 UTC	Floriman, frosty104, jack67889, Lanvin, plus, postmans	2	5	25
-374977	3	20	Cocoa Rainbow (5 Suits)	2020-12-18 — 20:47:35 UTC	jack67889, penisman, XMIL	29	5	25
+374977	3	20	Cocoa Rainbow (5 Suits)	2020-12-18 — 20:47:35 UTC	jack67889, penisman, XMIL	30	5	25
 374935	4	25	Muddy Rainbow (5 Suits)	2020-12-18 — 20:15:47 UTC	jack67889, nitawa, penisman, XMIL	12	5	25
 374796	5	0	Pink & Brown (6 Suits)	2020-12-18 — 17:14:30 UTC	Floriman, jack67889, Kyle, postmans, sephiroth	5	6	30
 374785	5	0	Special Mix (6 Suits)	2020-12-18 — 16:55:03 UTC	Floriman, jack67889, Kyle, postmans, sephiroth	11	6	30
-374769	4	25	No Variant	2020-12-18 — 16:32:50 UTC	GemmyBean, jack67889, sankala, Spieler42	899	5	25
+374769	4	25	No Variant	2020-12-18 — 16:32:50 UTC	GemmyBean, jack67889, sankala, Spieler42	908	5	25
 374741	4	0	Dark Rainbow (5 Suits)	2020-12-18 — 15:38:13 UTC	cockdestroyer, jack67889, Kyle, melwen	7	5	25
-374724	4	23	Dark Prism (5 Suits)	2020-12-18 — 15:10:58 UTC	Animex52, cockdestroyer, jack67889, wump	11	5	25
+374724	4	23	Dark Prism (5 Suits)	2020-12-18 — 15:10:58 UTC	Animex52, cockdestroyer, jack67889, wump	12	5	25
 374713	4	0	Dark Prism (5 Suits)	2020-12-18 — 14:51:10 UTC	Animex52, cockdestroyer, jack67889, wump	13	5	25
 374703	5	0	Dark Prism (5 Suits)	2020-12-18 — 14:36:43 UTC	Animex52, catula, cockdestroyer, jack67889, wump	4	5	25
 374098	4	25	Clue Starved & Omni (5 Suits)	2020-12-17 — 22:59:19 UTC	frosty104, jack67889, pianoblook, plus	1	5	25
@@ -885,19 +930,19 @@
 373767	5	21	Up or Down & Pink (5 Suits)	2020-12-17 — 15:42:22 UTC	jack67889, melwen, nitawa, Nitrate2, Sucubis	3	5	25
 373760	4	0	Up or Down & Pink (5 Suits)	2020-12-17 — 15:12:49 UTC	jack67889, melwen, nitawa, Sucubis	3	5	25
 373757	4	0	Up or Down & Pink (5 Suits)	2020-12-17 — 14:52:36 UTC	jack67889, melwen, nitawa, Sucubis	6	5	25
-373751	3	20	Pink (4 Suits)	2020-12-17 — 14:29:13 UTC	Animex52, jack67889, nitawa	59	4	20
+373751	3	20	Pink (4 Suits)	2020-12-17 — 14:29:13 UTC	Animex52, jack67889, nitawa	60	4	20
 373724	4	0	Duck (5 Suits)	2020-12-17 — 12:54:27 UTC	Animex52, catula, jack67889, Nitrate2	5	5	25
 373721	5	25	Pink (5 Suits)	2020-12-17 — 12:30:09 UTC	Animex52, jack67889, methmatics, nitawa, Nitrate2	14	5	25
 373709	4	0	Duck (5 Suits)	2020-12-17 — 11:45:01 UTC	Animex52, jack67889, nitawa, Nitrate2	1	5	25
 373236	3	0	White-Ones (6 Suits)	2020-12-16 — 23:54:31 UTC	jack67889, nitawa, Nitrate2	7	6	30
 373215	3	28	White-Ones (6 Suits)	2020-12-16 — 23:28:42 UTC	jack67889, nitawa, Nitrate2	11	6	30
 373193	3	25	White-Ones (5 Suits)	2020-12-16 — 23:02:41 UTC	jack67889, nitawa, Nitrate2	5	5	25
-373186	3	0	White-Ones (5 Suits)	2020-12-16 — 22:53:06 UTC	jack67889, nitawa, Nitrate2	9	5	25
-373184	3	0	White-Ones (5 Suits)	2020-12-16 — 22:47:48 UTC	jack67889, nitawa, Nitrate2	20	5	25
-373160	3	0	6 Suits	2020-12-16 — 22:21:19 UTC	jack67889, Lanvin, nitawa	305	6	30
-373144	3	0	6 Suits	2020-12-16 — 22:02:26 UTC	jack67889, Lanvin, nitawa	365	6	30
-372811	3	25	No Variant	2020-12-16 — 15:46:42 UTC	BillaVGC, HelanaAshryvr, jack67889	275	5	25
-372804	3	25	No Variant	2020-12-16 — 15:22:17 UTC	BillaVGC, HelanaAshryvr, jack67889	307	5	25
+373186	3	0	White-Ones (5 Suits)	2020-12-16 — 22:53:06 UTC	jack67889, nitawa, Nitrate2	10	5	25
+373184	3	0	White-Ones (5 Suits)	2020-12-16 — 22:47:48 UTC	jack67889, nitawa, Nitrate2	21	5	25
+373160	3	0	6 Suits	2020-12-16 — 22:21:19 UTC	jack67889, Lanvin, nitawa	311	6	30
+373144	3	0	6 Suits	2020-12-16 — 22:02:26 UTC	jack67889, Lanvin, nitawa	371	6	30
+372811	3	25	No Variant	2020-12-16 — 15:46:42 UTC	BillaVGC, HelanaAshryvr, jack67889	277	5	25
+372804	3	25	No Variant	2020-12-16 — 15:22:17 UTC	BillaVGC, HelanaAshryvr, jack67889	311	5	25
 372791	3	25	Rainbow & Muddy Rainbow (5 Suits)	2020-12-16 — 14:49:56 UTC	Feich59, HelanaAshryvr, jack67889	6	5	25
 372780	3	0	Rainbow & Muddy Rainbow (5 Suits)	2020-12-16 — 14:21:58 UTC	frosty104, jack67889, Lanvin	11	5	25
 372763	4	24	Rainbow & Muddy Rainbow (5 Suits)	2020-12-16 — 13:56:07 UTC	frosty104, jack67889, Lanvin, zeinab001	3	5	25
@@ -906,28 +951,28 @@
 372286	4	0	White Reversed (5 Suits)	2020-12-15 — 23:22:16 UTC	jack67889, Lanvin, Pablo-, ricardodd	2	5	25
 372259	4	0	White Reversed (5 Suits)	2020-12-15 — 23:05:37 UTC	jack67889, Lanvin, Pablo-, ricardodd	4	5	25
 372228	4	0	White Reversed (5 Suits)	2020-12-15 — 22:49:33 UTC	jack67889, Lanvin, Pablo-, ricardodd	7	5	25
-372205	3	0	Up or Down (5 Suits)	2020-12-15 — 22:25:08 UTC	jack67889, Lanvin, ricardodd	113	5	25
+372205	3	0	Up or Down (5 Suits)	2020-12-15 — 22:25:08 UTC	jack67889, Lanvin, ricardodd	114	5	25
 371964	6	0	Up or Down & Muddy Rainbow (5 Suits)	2020-12-15 — 17:10:01 UTC	jack67889, lotem, Nitrate2, sin_faith, Sucubis, TimeHoodie	1	5	25
-371924	4	25	Rainbow (5 Suits)	2020-12-15 — 15:00:39 UTC	jack67889, Lanvin, Pablo-, wump	38	5	25
+371924	4	25	Rainbow (5 Suits)	2020-12-15 — 15:00:39 UTC	jack67889, Lanvin, Pablo-, wump	40	5	25
 371920	4	0	Rainbow & Pink (6 Suits)	2020-12-15 — 14:28:45 UTC	jack67889, Lanvin, Pablo-, wump	6	6	30
 371741	3	24	Pink & White (5 Suits)	2020-12-15 — 11:20:53 UTC	frosty104, jack67889, Pablo-	17	5	25
 371739	3	25	Rainbow & Brown (5 Suits)	2020-12-15 — 10:59:53 UTC	frosty104, jack67889, Pablo-	24	5	25
 371193	6	27	Pink & White (6 Suits)	2020-12-14 — 23:31:47 UTC	frosty104, jack67889, jeff10, Lanvin, TimeHoodie, Wittvector	3	6	30
-371158	5	30	Rainbow (6 Suits)	2020-12-14 — 22:53:11 UTC	doctorabi, Floriman, frosty104, jack67889, TimeHoodie	27	6	30
+371158	5	30	Rainbow (6 Suits)	2020-12-14 — 22:53:11 UTC	doctorabi, Floriman, frosty104, jack67889, TimeHoodie	28	6	30
 370829	4	25	Rainbow & White (5 Suits)	2020-12-14 — 13:32:13 UTC	GemmyBean, jack67889, StKildaFan, swineherd	9	5	25
 370823	5	19	White (4 Suits)	2020-12-14 — 13:06:41 UTC	catula, eevee, GemmyBean, jack67889, StKildaFan	6	4	20
 370364	6	23	Dark Rainbow (5 Suits)	2020-12-13 — 23:46:00 UTC	Carunty, doctorabi, Feich59, frosty104, jack67889, ricardodd	4	5	25
 370328	5	0	Dark Rainbow (5 Suits)	2020-12-13 — 23:08:57 UTC	Carunty, doctorabi, frosty104, jack67889, ricardodd	6	5	25
 370307	6	22	Dark Rainbow (5 Suits)	2020-12-13 — 22:42:06 UTC	Carunty, doctorabi, jack67889, ricardodd, sephiroth, TimeHoodie	4	5	25
 370193	4	25	White-Ones & Brown (5 Suits)	2020-12-13 — 20:41:24 UTC	Aluap, antitelharsic, jack67889, XMIL	1	5	25
-370133	3	25	No Variant	2020-12-13 — 19:51:24 UTC	ehallett, esakach, jack67889	160	5	25
+370133	3	25	No Variant	2020-12-13 — 19:51:24 UTC	ehallett, esakach, jack67889	163	5	25
 370112	3	25	Omni-Ones (5 Suits)	2020-12-13 — 19:17:40 UTC	jack67889, Pablo-, robense	6	5	25
 370098	3	0	Omni-Ones (5 Suits)	2020-12-13 — 18:58:38 UTC	jack67889, Pablo-, robense	7	5	25
-370041	4	30	Rainbow & Brown (6 Suits)	2020-12-13 — 17:43:38 UTC	doctorabi, jack67889, rz, TimeHoodie	11	6	30
+370041	4	30	Rainbow & Brown (6 Suits)	2020-12-13 — 17:43:38 UTC	doctorabi, jack67889, rz, TimeHoodie	12	6	30
 369962	3	30	Dark Rainbow (6 Suits)	2020-12-13 — 15:31:24 UTC	jack67889, sephiroth, TimeHoodie	18	6	30
 369847	5	0	Dark Rainbow (6 Suits)	2020-12-13 — 13:00:08 UTC	jack67889, katian, Lel0uch, sephiroth, swineherd	7	6	30
-369427	3	25	Reversed (5 Suits)	2020-12-13 — 01:30:03 UTC	Carunty, doctorabi, jack67889	35	5	25
-369396	4	23	Dark Pink (5 Suits)	2020-12-13 — 01:05:46 UTC	Carunty, doctorabi, frosty104, jack67889	20	5	25
+369427	3	25	Reversed (5 Suits)	2020-12-13 — 01:30:03 UTC	Carunty, doctorabi, jack67889	36	5	25
+369396	4	23	Dark Pink (5 Suits)	2020-12-13 — 01:05:46 UTC	Carunty, doctorabi, frosty104, jack67889	21	5	25
 369374	3	0	Dark Rainbow (5 Suits)	2020-12-13 — 00:42:23 UTC	Carunty, frosty104, jack67889	7	5	25
 369353	3	23	Dark Rainbow (5 Suits)	2020-12-13 — 00:25:34 UTC	Carunty, frosty104, jack67889	10	5	25
 369318	4	30	Dark Rainbow (6 Suits)	2020-12-12 — 23:47:59 UTC	jack67889, Pablo-, sephiroth, VerySloppyTwo	17	6	30
@@ -936,7 +981,7 @@
 368958	3	0	Dark Rainbow (5 Suits)	2020-12-12 — 17:23:38 UTC	doctorabi, frosty104, jack67889	24	5	25
 368949	5	23	Dark Rainbow (5 Suits)	2020-12-12 — 16:57:12 UTC	Doge, frosty104, jack67889, sephiroth, VerySloppyTwo	7	5	25
 368944	4	21	Dark Rainbow (5 Suits)	2020-12-12 — 16:32:46 UTC	Doge, frosty104, jack67889, sephiroth	13	5	25
-368939	4	0	Dark Rainbow (5 Suits)	2020-12-12 — 16:13:22 UTC	Doge, frosty104, jack67889, sephiroth	20	5	25
+368939	4	0	Dark Rainbow (5 Suits)	2020-12-12 — 16:13:22 UTC	Doge, frosty104, jack67889, sephiroth	21	5	25
 368931	4	25	Dark Rainbow (6 Suits)	2020-12-12 — 15:50:33 UTC	frosty104, jack67889, sephiroth, VerySloppyTwo	18	6	30
 368925	3	0	Dark Brown (6 Suits)	2020-12-12 — 15:27:33 UTC	hanabornoob, jack67889, Wittvector	32	6	30
 368205	3	0	Dark Rainbow (5 Suits)	2020-12-11 — 23:59:24 UTC	jack67889, MarkusKahlsen, timotree	13	5	25
@@ -944,21 +989,21 @@
 368175	4	0	Dark Rainbow (5 Suits)	2020-12-11 — 23:14:34 UTC	doctorabi, jack67889, MarkusKahlsen, timotree	11	5	25
 368160	3	23	Dark Rainbow (5 Suits)	2020-12-11 — 22:56:51 UTC	Carunty, jack67889, MarkusKahlsen	25	5	25
 368132	3	25	Light-Pink-Ones & Muddy Rainbow (5 Suits)	2020-12-11 — 22:34:10 UTC	Carunty, jack67889, MarkusKahlsen	1	5	25
-367857	5	0	Dark Rainbow (6 Suits)	2020-12-11 — 17:11:08 UTC	frosty104, GemmyBean, jack67889, Lel0uch, Wittvector	18	6	30
+367857	5	0	Dark Rainbow (6 Suits)	2020-12-11 — 17:11:08 UTC	frosty104, GemmyBean, jack67889, Lel0uch, Wittvector	19	6	30
 367850	5	18	Deceptive-Ones (4 Suits)	2020-12-11 — 16:50:57 UTC	frosty104, GemmyBean, jack67889, Lel0uch, sephiroth	1	4	20
 367840	5	19	Omni-Ones & Gray Pink (5 Suits)	2020-12-11 — 16:29:40 UTC	frosty104, jack67889, Lel0uch, Sucubis, TimeHoodie	1	5	25
 367834	4	0	Omni-Ones & Gray Pink (5 Suits)	2020-12-11 — 16:10:49 UTC	frosty104, jack67889, Sucubis, TimeHoodie	1	5	25
 367831	4	0	Omni-Ones & Gray Pink (5 Suits)	2020-12-11 — 16:04:20 UTC	frosty104, jack67889, Sucubis, TimeHoodie	1	5	25
 367827	4	23	Omni-Ones & Gray Pink (5 Suits)	2020-12-11 — 15:44:29 UTC	jack67889, Lel0uch, sin_faith, Sucubis	1	5	25
 367821	4	0	Omni-Ones & Gray Pink (5 Suits)	2020-12-11 — 15:26:03 UTC	jack67889, Lel0uch, sin_faith, Sucubis	1	5	25
-367799	4	0	Dark Rainbow (5 Suits)	2020-12-11 — 14:09:51 UTC	jack67889, methmatics, nitawa, XMIL	19	5	25
+367799	4	0	Dark Rainbow (5 Suits)	2020-12-11 — 14:09:51 UTC	jack67889, methmatics, nitawa, XMIL	20	5	25
 367780	4	23	Dark Rainbow (5 Suits)	2020-12-11 — 13:33:43 UTC	jack67889, methmatics, nitawa, XMIL	29	5	25
 367751	3	24	Cow & Pig (5 Suits)	2020-12-11 — 12:51:39 UTC	jack67889, methmatics, nitawa	1	5	25
 367736	3	0	Cow & Pig (5 Suits)	2020-12-11 — 12:24:22 UTC	jack67889, methmatics, nitawa	1	5	25
 367111	3	25	Omni-Ones & Prism (5 Suits)	2020-12-10 — 22:53:37 UTC	Fireheart, Floriman, jack67889	1	5	25
 367096	3	0	Omni-Ones & Prism (5 Suits)	2020-12-10 — 22:35:02 UTC	Fireheart, Floriman, jack67889	2	5	25
 367084	4	30	White (6 Suits)	2020-12-10 — 22:18:42 UTC	Floriman, hanabornoob, jack67889, robense	4	6	30
-367046	4	28	Dark Rainbow (6 Suits)	2020-12-10 — 21:35:59 UTC	cockdestroyer, HelanaAshryvr, jack67889, sephiroth	17	6	30
+367046	4	28	Dark Rainbow (6 Suits)	2020-12-10 — 21:35:59 UTC	cockdestroyer, HelanaAshryvr, jack67889, sephiroth	18	6	30
 367011	3	0	Dark Rainbow (6 Suits)	2020-12-10 — 20:54:46 UTC	HelanaAshryvr, jack67889, sephiroth	23	6	30
 366988	3	0	Dark Rainbow (6 Suits)	2020-12-10 — 20:31:28 UTC	HelanaAshryvr, jack67889, sephiroth	26	6	30
 366803	5	30	Dual-Color Mix	2020-12-10 — 15:49:59 UTC	jack67889, melwen, Nitrate2, Pablo-, sephiroth	2	6	30
@@ -966,19 +1011,19 @@
 366757	4	22	Muddy Rainbow (5 Suits)	2020-12-10 — 11:43:20 UTC	doctorabi, frosty104, jack67889, nitawa	23	5	25
 366745	5	0	Muddy Rainbow (4 Suits)	2020-12-10 — 11:10:21 UTC	doctorabi, frosty104, jack67889, Lel0uch, nitawa	2	4	20
 366737	4	22	Dark Rainbow (5 Suits)	2020-12-10 — 10:43:28 UTC	doctorabi, frosty104, jack67889, Lel0uch	11	5	25
-366727	4	0	Dark Rainbow (5 Suits)	2020-12-10 — 10:10:38 UTC	doctorabi, frosty104, jack67889, Lel0uch	14	5	25
+366727	4	0	Dark Rainbow (5 Suits)	2020-12-10 — 10:10:38 UTC	doctorabi, frosty104, jack67889, Lel0uch	15	5	25
 366722	5	23	Dual-Color (5 Suits)	2020-12-10 — 09:47:53 UTC	doctorabi, frosty104, jack67889, Lel0uch, Sucubis	7	5	25
 366720	5	23	Dual-Color (5 Suits)	2020-12-10 — 09:16:34 UTC	doctorabi, frosty104, jack67889, Lel0uch, orucsoraihc	15	5	25
 365985	3	0	Dual-Color Mix	2020-12-09 — 16:56:25 UTC	jack67889, Nitrate2, orucsoraihc	25	6	30
-365967	3	0	Dual-Color Mix	2020-12-09 — 16:17:51 UTC	jack67889, Nitrate2, orucsoraihc	29	6	30
+365967	3	0	Dual-Color Mix	2020-12-09 — 16:17:51 UTC	jack67889, Nitrate2, orucsoraihc	30	6	30
 365918	5	25	Duck (5 Suits)	2020-12-09 — 15:09:01 UTC	Animex52, jack67889, nitawa, penisman, sin_faith	3	5	25
 365849	4	25	Deceptive-Fives (5 Suits)	2020-12-09 — 14:25:19 UTC	jack67889, MarkusKahlsen, methmatics, penisman	4	5	25
 364910	3	0	Dual-Color Mix	2020-12-08 — 22:05:37 UTC	Doge, frosty104, jack67889	33	6	30
-364867	3	0	Dual-Color Mix	2020-12-08 — 21:39:16 UTC	Doge, frosty104, jack67889	42	6	30
-364839	4	25	No Variant	2020-12-08 — 21:15:08 UTC	anhnguyen, Doge, frosty104, jack67889	501	5	25
+364867	3	0	Dual-Color Mix	2020-12-08 — 21:39:16 UTC	Doge, frosty104, jack67889	43	6	30
+364839	4	25	No Variant	2020-12-08 — 21:15:08 UTC	anhnguyen, Doge, frosty104, jack67889	507	5	25
 364793	4	27	Black & White (6 Suits)	2020-12-08 — 20:37:54 UTC	doctorabi, frosty104, jack67889, jeff10	19	6	30
 364760	3	0	Black & White (5 Suits)	2020-12-08 — 20:11:20 UTC	doctorabi, frosty104, jack67889	31	5	25
-364737	3	22	Black & White (5 Suits)	2020-12-08 — 19:47:01 UTC	doctorabi, jack67889, plus	40	5	25
+364737	3	22	Black & White (5 Suits)	2020-12-08 — 19:47:01 UTC	doctorabi, jack67889, plus	41	5	25
 364639	6	25	Rainbow-Fives (5 Suits)	2020-12-08 — 16:34:13 UTC	Carunty, frosty104, jack67889, macanek, nitawa, Pablo-	1	5	25
 364576	5	23	Dark Prism (5 Suits)	2020-12-08 — 13:41:47 UTC	frosty104, jack67889, Lel0uch, sin_faith, Wittvector	3	5	25
 364569	5	0	Dark Prism (5 Suits)	2020-12-08 — 13:11:27 UTC	frosty104, jack67889, Lel0uch, sin_faith, Wittvector	7	5	25
@@ -993,7 +1038,7 @@
 363734	5	0	Up or Down & Pink (6 Suits)	2020-12-07 — 17:08:31 UTC	Carunty, jack67889, Lel0uch, Nitrate2, Pablo-	6	6	30
 363722	6	25	Rainbow & White (5 Suits)	2020-12-07 — 16:44:25 UTC	jack67889, Lanvin, Lel0uch, macanek, Nitrate2, Pablo-	3	5	25
 363708	6	25	No Variant	2020-12-07 — 16:25:34 UTC	jack67889, Lanvin, macanek, possum, sin_faith, zeinab001	7	5	25
-363691	4	0	No Variant	2020-12-07 — 15:52:42 UTC	jack67889, Kyle, Lanvin, possum	16	5	25
+363691	4	0	No Variant	2020-12-07 — 15:52:42 UTC	jack67889, Kyle, Lanvin, possum	17	5	25
 363637	3	24	Rainbow-Ones (5 Suits)	2020-12-07 — 15:17:57 UTC	Carunty, jack67889, Lanvin	14	5	25
 363614	3	0	Rainbow-Ones (5 Suits)	2020-12-07 — 14:56:06 UTC	Carunty, jack67889, Lanvin	18	5	25
 358961	6	0	Up or Down & White (5 Suits)	2020-12-02 — 15:26:32 UTC	Carunty, ChristopheAF, Floriman, jack67889, Lel0uch, TimeHoodie	2	5	25
@@ -1016,7 +1061,7 @@
 352608	4	0	Light-Pink-Ones (4 Suits)	2020-11-24 — 17:08:50 UTC	jack67889, MarkusKahlsen, Nitrate2, Pablo-	2	4	20
 352476	4	26	Dual-Color Mix	2020-11-24 — 14:31:52 UTC	jack67889, Lel0uch, sin_faith, TimeHoodie	12	6	30
 352464	4	0	Dual-Color Mix	2020-11-24 — 14:05:39 UTC	jack67889, Lel0uch, sin_faith, TimeHoodie	18	6	30
-352451	5	19	Rainbow (4 Suits)	2020-11-24 — 13:43:34 UTC	jack67889, Lel0uch, robense, sin_faith, TimeHoodie	8	4	20
+352451	5	19	Rainbow (4 Suits)	2020-11-24 — 13:43:34 UTC	jack67889, Lel0uch, robense, sin_faith, TimeHoodie	9	4	20
 352417	3	25	Light Pink (5 Suits)	2020-11-24 — 10:48:43 UTC	Animex52, jack67889, Sucubis	23	5	25
 352050	5	30	Rainbow Reversed (6 Suits)	2020-11-23 — 23:31:44 UTC	asaelr, frosty104, hakha3, jack67889, ksfortson	7	6	30
 351971	4	0	Deceptive-Fives (5 Suits)	2020-11-23 — 21:37:20 UTC	jack67889, StKildaFan, TheDaniMan, Wittvector	5	5	25
@@ -1035,9 +1080,9 @@
 348633	5	30	Dual-Color (6 Suits)	2020-11-20 — 14:24:18 UTC	frosty104, jack67889, robense, sin_faith, StKildaFan	18	6	30
 348213	3	0	Special Mix (5 Suits)	2020-11-19 — 23:40:52 UTC	jack67889, Sucubis, XMIL	22	5	25
 348190	3	0	Special Mix (5 Suits)	2020-11-19 — 23:16:01 UTC	jack67889, Sucubis, XMIL	24	5	25
-347941	3	29	Black (6 Suits)	2020-11-19 — 20:00:32 UTC	jack67889, timotree, wump	125	6	30
+347941	3	29	Black (6 Suits)	2020-11-19 — 20:00:32 UTC	jack67889, timotree, wump	126	6	30
 347927	3	0	Black (6 Suits)	2020-11-19 — 19:34:09 UTC	jack67889, timotree, wump	134	6	30
-347914	3	28	Black (6 Suits)	2020-11-19 — 19:08:34 UTC	jack67889, timotree, wump	172	6	30
+347914	3	28	Black (6 Suits)	2020-11-19 — 19:08:34 UTC	jack67889, timotree, wump	175	6	30
 347829	6	30	Light Pink (6 Suits)	2020-11-19 — 17:02:27 UTC	doctorabi, jack67889, kimbifille, Kyle, sin_faith, TimeHoodie	3	6	30
 347815	4	25	Light-Pink-Ones & White (5 Suits)	2020-11-19 — 16:29:31 UTC	jack67889, kimbifille, Kyle, sin_faith	1	5	25
 347805	4	0	Light-Pink-Ones & White (5 Suits)	2020-11-19 — 16:08:36 UTC	jack67889, kimbifille, Kyle, sin_faith	2	5	25
@@ -1048,11 +1093,11 @@
 347772	3	0	Pink & Brown (5 Suits)	2020-11-19 — 13:47:36 UTC	jack67889, MarkusKahlsen, Pablo-	12	5	25
 347770	3	0	Pink & Brown (5 Suits)	2020-11-19 — 13:35:51 UTC	jack67889, MarkusKahlsen, Pablo-	22	5	25
 347766	4	0	Pink & Brown (5 Suits)	2020-11-19 — 13:25:34 UTC	jack67889, Pablo-, sephiroth, VerySloppyTwo	15	5	25
-347359	3	30	Brown (6 Suits)	2020-11-18 — 23:23:49 UTC	jack67889, JackFrost, penisman	31	6	30
+347359	3	30	Brown (6 Suits)	2020-11-18 — 23:23:49 UTC	jack67889, JackFrost, penisman	33	6	30
 347342	5	0	Pink-Ones & Brown (5 Suits)	2020-11-18 — 22:57:54 UTC	Bonja97, cockdestroyer, jack67889, JackFrost, sephiroth	1	5	25
 347331	5	0	Pink-Ones & Brown (5 Suits)	2020-11-18 — 22:44:33 UTC	Bonja97, cockdestroyer, jack67889, JackFrost, sephiroth	2	5	25
-347113	4	0	White & Dark Prism (6 Suits)	2020-11-18 — 17:20:25 UTC	Floriman, jack67889, Nitrate2, Pablo-	1	6	30
-347100	3	0	White & Dark Prism (6 Suits)	2020-11-18 — 17:00:56 UTC	jack67889, Nitrate2, Pablo-	5	6	30
+347113	4	0	White & Dark Prism (6 Suits)	2020-11-18 — 17:20:25 UTC	Floriman, jack67889, Nitrate2, Pablo-	2	6	30
+347100	3	0	White & Dark Prism (6 Suits)	2020-11-18 — 17:00:56 UTC	jack67889, Nitrate2, Pablo-	6	6	30
 347045	4	25	Gray Pink (5 Suits)	2020-11-18 — 13:03:37 UTC	asaelr, jack67889, Lel0uch, Wittvector	3	5	25
 347042	4	0	Gray Pink (5 Suits)	2020-11-18 — 12:44:39 UTC	asaelr, jack67889, Lel0uch, Wittvector	12	5	25
 347033	4	0	Clue Starved (5 Suits)	2020-11-18 — 12:23:17 UTC	jack67889, Lel0uch, robense, sin_faith	9	5	25
@@ -1067,7 +1112,7 @@
 346145	4	24	Light Pink (5 Suits)	2020-11-17 — 12:48:25 UTC	jack67889, Lel0uch, sin_faith, StKildaFan	12	5	25
 346137	4	0	Light Pink (5 Suits)	2020-11-17 — 12:26:27 UTC	jack67889, Lel0uch, sin_faith, StKildaFan	20	5	25
 346135	4	30	Muddy-Rainbow-Fives & White (6 Suits)	2020-11-17 — 12:07:24 UTC	jack67889, Lel0uch, sin_faith, StKildaFan	4	6	30
-346128	4	0	No Variant	2020-11-17 — 11:35:40 UTC	catula, jack67889, Lel0uch, whalesgomoo	336	5	25
+346128	4	0	No Variant	2020-11-17 — 11:35:40 UTC	catula, jack67889, Lel0uch, whalesgomoo	340	5	25
 346127	5	0	Special Mix (5 Suits)	2020-11-17 — 11:02:36 UTC	catula, jack67889, Lel0uch, swineherd, whalesgomoo	11	5	25
 345677	5	30	Pink-Fives & Light Pink (6 Suits)	2020-11-16 — 22:45:19 UTC	avanderwalde, jack67889, kevincaseytdk1, Sucubis, TimeHoodie	1	6	30
 345623	5	0	Pink-Fives & Light Pink (6 Suits)	2020-11-16 — 22:26:08 UTC	avanderwalde, jack67889, kevincaseytdk1, Sucubis, TimeHoodie	1	6	30
@@ -1079,11 +1124,11 @@
 345215	4	0	Pink & Dark Brown (5 Suits)	2020-11-16 — 19:16:58 UTC	jack67889, kimbifille, Kyle, TimeHoodie	2	5	25
 345181	4	0	Pink & Dark Brown (5 Suits)	2020-11-16 — 19:06:03 UTC	jack67889, kimbifille, Kyle, TimeHoodie	3	5	25
 345167	4	0	Pink & Dark Brown (5 Suits)	2020-11-16 — 18:59:35 UTC	jack67889, kimbifille, Kyle, TimeHoodie	3	5	25
-344454	3	0	Rainbow (5 Suits)	2020-11-15 — 23:22:30 UTC	HelanaAshryvr, jack67889, Lel0uch	31	5	25
-344441	3	28	6 Suits	2020-11-15 — 23:04:37 UTC	HelanaAshryvr, jack67889, Lel0uch	503	6	30
-344422	5	0	No Variant	2020-11-15 — 22:46:26 UTC	colton, HelanaAshryvr, jack67889, Lel0uch, sankala	1510	5	25
-344389	6	23	No Variant	2020-11-15 — 22:19:54 UTC	colton, hailey, HelanaAshryvr, jack67889, Lel0uch, sankala	179	5	25
-344354	6	0	No Variant	2020-11-15 — 21:34:34 UTC	colton, hailey, HelanaAshryvr, jack67889, Lel0uch, sankala	282	5	25
+344454	3	0	Rainbow (5 Suits)	2020-11-15 — 23:22:30 UTC	HelanaAshryvr, jack67889, Lel0uch	33	5	25
+344441	3	28	6 Suits	2020-11-15 — 23:04:37 UTC	HelanaAshryvr, jack67889, Lel0uch	511	6	30
+344422	5	0	No Variant	2020-11-15 — 22:46:26 UTC	colton, HelanaAshryvr, jack67889, Lel0uch, sankala	1518	5	25
+344389	6	23	No Variant	2020-11-15 — 22:19:54 UTC	colton, hailey, HelanaAshryvr, jack67889, Lel0uch, sankala	181	5	25
+344354	6	0	No Variant	2020-11-15 — 21:34:34 UTC	colton, hailey, HelanaAshryvr, jack67889, Lel0uch, sankala	284	5	25
 344192	4	25	Black & Prism (5 Suits)	2020-11-15 — 16:47:15 UTC	baads, frosty104, jack67889, Wittvector	5	5	25
 344179	4	0	Black & Prism (5 Suits)	2020-11-15 — 16:13:17 UTC	baads, frosty104, jack67889, Wittvector	6	5	25
 344170	6	22	Rainbow & White (5 Suits)	2020-11-15 — 15:40:15 UTC	baads, frosty104, jack67889, StKildaFan, TimeHoodie, Wittvector	1	5	25
@@ -1091,62 +1136,62 @@
 344142	5	30	Light-Pink-Ones & Muddy Rainbow (6 Suits)	2020-11-15 — 13:55:48 UTC	asaelr, jack67889, sin_faith, StKildaFan, TimeHoodie	1	6	30
 344136	4	25	Pink & White (5 Suits)	2020-11-15 — 13:18:09 UTC	jack67889, Lel0uch, Sucubis, TimeHoodie	6	5	25
 344131	4	23	Pink & White (5 Suits)	2020-11-15 — 12:59:06 UTC	jack67889, Lel0uch, Sucubis, TimeHoodie	11	5	25
-342844	4	25	No Variant	2020-11-14 — 00:51:56 UTC	jack67889, Onen, rachyrules, rz	793	5	25
-342827	4	25	No Variant	2020-11-14 — 00:27:32 UTC	jack67889, Onen, rachyrules, rz	3581	5	25
-342801	4	25	No Variant	2020-11-14 — 00:02:46 UTC	jack67889, Onen, rachyrules, StKildaFan	47	5	25
+342844	4	25	No Variant	2020-11-14 — 00:51:56 UTC	jack67889, Onen, rachyrules, rz	800	5	25
+342827	4	25	No Variant	2020-11-14 — 00:27:32 UTC	jack67889, Onen, rachyrules, rz	3609	5	25
+342801	4	25	No Variant	2020-11-14 — 00:02:46 UTC	jack67889, Onen, rachyrules, StKildaFan	48	5	25
 342747	5	25	Rainbow & Prism (5 Suits)	2020-11-13 — 23:41:48 UTC	doctorabi, ejwu, Feich59, jack67889, rachyrules	8	5	25
-342688	5	0	3 Suits	2020-11-13 — 23:13:33 UTC	doctorabi, ejwu, Feich59, jack67889, rachyrules	24	3	15
-342659	4	24	Brown (5 Suits)	2020-11-13 — 23:03:49 UTC	dmigor3, Feich59, jack67889, rachyrules	27	5	25
+342688	5	0	3 Suits	2020-11-13 — 23:13:33 UTC	doctorabi, ejwu, Feich59, jack67889, rachyrules	25	3	15
+342659	4	24	Brown (5 Suits)	2020-11-13 — 23:03:49 UTC	dmigor3, Feich59, jack67889, rachyrules	28	5	25
 342576	5	0	Rainbow & Prism (5 Suits)	2020-11-13 — 22:30:26 UTC	dmigor3, ebin_noob, Feich59, jack67889, TimeHoodie	4	5	25
 342561	5	24	Rainbow & Prism (5 Suits)	2020-11-13 — 22:08:23 UTC	dmigor3, ebin_noob, Feich59, jack67889, TimeHoodie	5	5	25
-342268	5	24	No Variant	2020-11-13 — 12:31:12 UTC	frosty104, jack67889, Lel0uch, nitawa, StKildaFan	80	5	25
-342260	5	24	No Variant	2020-11-13 — 12:00:13 UTC	frosty104, jack67889, Lel0uch, nitawa, StKildaFan	126	5	25
+342268	5	24	No Variant	2020-11-13 — 12:31:12 UTC	frosty104, jack67889, Lel0uch, nitawa, StKildaFan	81	5	25
+342260	5	24	No Variant	2020-11-13 — 12:00:13 UTC	frosty104, jack67889, Lel0uch, nitawa, StKildaFan	127	5	25
 342254	3	0	Pink (6 Suits)	2020-11-13 — 11:27:21 UTC	frosty104, jack67889, Lel0uch	70	6	30
 341943	5	21	No Variant	2020-11-12 — 23:39:30 UTC	Isaac176, jack67889, MarcLovesDogs, timotree, wump	11	5	25
-341884	3	25	No Variant	2020-11-12 — 22:31:22 UTC	jack67889, MarcLovesDogs, voss	119	5	25
-341862	3	24	No Variant	2020-11-12 — 21:53:39 UTC	jack67889, MarcLovesDogs, voss	125	5	25
-341638	4	27	Gray Pink (6 Suits)	2020-11-12 — 17:33:45 UTC	jack67889, Jar-Of-Smegma, Nitrate2, vEnhance	7	6	30
-341628	4	0	Gray Pink (6 Suits)	2020-11-12 — 17:09:57 UTC	jack67889, Jar-Of-Smegma, Nitrate2, vEnhance	7	6	30
-341624	4	0	Gray Pink (6 Suits)	2020-11-12 — 16:58:34 UTC	jack67889, Jar-Of-Smegma, Nitrate2, vEnhance	12	6	30
-341619	4	24	Gray (5 Suits)	2020-11-12 — 16:36:12 UTC	cockdestroyer, jack67889, Nitrate2, sephiroth	14	5	25
+341884	3	25	No Variant	2020-11-12 — 22:31:22 UTC	jack67889, MarcLovesDogs, voss	126	5	25
+341862	3	24	No Variant	2020-11-12 — 21:53:39 UTC	jack67889, MarcLovesDogs, voss	129	5	25
+341638	4	27	Gray Pink (6 Suits)	2020-11-12 — 17:33:45 UTC	jack67889, Jar-Of-Smegma, Nitrate2, vEnhance	8	6	30
+341628	4	0	Gray Pink (6 Suits)	2020-11-12 — 17:09:57 UTC	jack67889, Jar-Of-Smegma, Nitrate2, vEnhance	8	6	30
+341624	4	0	Gray Pink (6 Suits)	2020-11-12 — 16:58:34 UTC	jack67889, Jar-Of-Smegma, Nitrate2, vEnhance	14	6	30
+341619	4	24	Gray (5 Suits)	2020-11-12 — 16:36:12 UTC	cockdestroyer, jack67889, Nitrate2, sephiroth	15	5	25
 341608	4	0	Gray Pink (5 Suits)	2020-11-12 — 16:16:44 UTC	cockdestroyer, jack67889, Nitrate2, sephiroth	11	5	25
 341606	4	15	Brown (3 Suits)	2020-11-12 — 16:12:25 UTC	cockdestroyer, jack67889, Nitrate2, sephiroth	13	3	15
 341575	4	0	Omni (6 Suits)	2020-11-12 — 15:09:11 UTC	jack67889, MarkusKahlsen, sin_faith, Wittvector	18	6	30
 341570	4	0	Omni (6 Suits)	2020-11-12 — 14:55:11 UTC	jack67889, MarkusKahlsen, sin_faith, Wittvector	19	6	30
-341566	4	0	Omni (6 Suits)	2020-11-12 — 14:32:34 UTC	jack67889, MarkusKahlsen, sin_faith, Wittvector	26	6	30
-341531	3	24	Clue Starved (5 Suits)	2020-11-12 — 11:56:36 UTC	catula, jack67889, Sucubis	16	5	25
-341523	3	0	Clue Starved (5 Suits)	2020-11-12 — 11:27:50 UTC	catula, jack67889, Sucubis	18	5	25
+341566	4	0	Omni (6 Suits)	2020-11-12 — 14:32:34 UTC	jack67889, MarkusKahlsen, sin_faith, Wittvector	27	6	30
+341531	3	24	Clue Starved (5 Suits)	2020-11-12 — 11:56:36 UTC	catula, jack67889, Sucubis	17	5	25
+341523	3	0	Clue Starved (5 Suits)	2020-11-12 — 11:27:50 UTC	catula, jack67889, Sucubis	19	5	25
 341521	3	0	Clue Starved (5 Suits)	2020-11-12 — 11:10:05 UTC	catula, jack67889, Sucubis	22	5	25
 341518	3	0	Clue Starved (5 Suits)	2020-11-12 — 10:55:45 UTC	catula, jack67889, Sucubis	33	5	25
-341174	4	30	Brown (6 Suits)	2020-11-11 — 23:11:19 UTC	avanderwalde, emilyzhao, jack67889, squidgetx	27	6	30
-341153	4	0	Brown (6 Suits)	2020-11-11 — 22:40:10 UTC	avanderwalde, emilyzhao, jack67889, squidgetx	41	6	30
+341174	4	30	Brown (6 Suits)	2020-11-11 — 23:11:19 UTC	avanderwalde, emilyzhao, jack67889, squidgetx	28	6	30
+341153	4	0	Brown (6 Suits)	2020-11-11 — 22:40:10 UTC	avanderwalde, emilyzhao, jack67889, squidgetx	42	6	30
 340802	5	30	Omni (6 Suits)	2020-11-11 — 16:01:44 UTC	Carunty, jack67889, Lel0uch, MarkusKahlsen, robense	5	6	30
-340794	3	0	Gray Pink (6 Suits)	2020-11-11 — 15:25:51 UTC	Carunty, jack67889, MarkusKahlsen	25	6	30
-340782	3	0	Gray Pink (6 Suits)	2020-11-11 — 14:50:09 UTC	Carunty, jack67889, MarkusKahlsen	29	6	30
+340794	3	0	Gray Pink (6 Suits)	2020-11-11 — 15:25:51 UTC	Carunty, jack67889, MarkusKahlsen	26	6	30
+340782	3	0	Gray Pink (6 Suits)	2020-11-11 — 14:50:09 UTC	Carunty, jack67889, MarkusKahlsen	30	6	30
 340335	4	23	Gray Pink (5 Suits)	2020-11-10 — 23:32:15 UTC	anser, Carunty, jack67889, Kyle	2	5	25
 340321	4	0	Gray Pink (5 Suits)	2020-11-10 — 23:11:16 UTC	anser, Carunty, jack67889, Kyle	2	5	25
 340306	6	27	Pink (6 Suits)	2020-11-10 — 22:48:27 UTC	Carunty, jack67889, Kyle, TimeHoodie, timotree, Wittvector	10	6	30
-340277	3	24	Dark Brown (5 Suits)	2020-11-10 — 21:50:23 UTC	Bonja97, Carunty, jack67889	18	5	25
+340277	3	24	Dark Brown (5 Suits)	2020-11-10 — 21:50:23 UTC	Bonja97, Carunty, jack67889	19	5	25
 340259	3	23	Dark Brown (5 Suits)	2020-11-10 — 21:29:11 UTC	Bonja97, Carunty, jack67889	18	5	25
 340243	3	0	Dark Brown (5 Suits)	2020-11-10 — 21:13:15 UTC	Bonja97, Carunty, jack67889	26	5	25
 340239	4	0	White-Fives & Black (6 Suits)	2020-11-10 — 21:06:51 UTC	Bonja97, Carunty, jack67889, jeff10	2	6	30
-340211	3	21	Dark Rainbow (5 Suits)	2020-11-10 — 20:42:00 UTC	asaelr, frosty104, jack67889	52	5	25
+340211	3	21	Dark Rainbow (5 Suits)	2020-11-10 — 20:42:00 UTC	asaelr, frosty104, jack67889	53	5	25
 340099	6	29	6 Suits	2020-11-10 — 17:49:00 UTC	anser, jack67889, jeff10, Lel0uch, rz, Wittvector	84	6	30
-340076	5	0	Black (6 Suits)	2020-11-10 — 16:53:42 UTC	anser, jack67889, Lel0uch, will.i.am, wump	16	6	30
+340076	5	0	Black (6 Suits)	2020-11-10 — 16:53:42 UTC	anser, jack67889, Lel0uch, will.i.am, wump	17	6	30
 340039	6	0	Black (6 Suits)	2020-11-10 — 14:45:13 UTC	Carunty, jack67889, Lel0uch, melwen, orucsoraihc, TimeHoodie	2	6	30
-339997	3	20	Prism (4 Suits)	2020-11-10 — 13:07:54 UTC	jack67889, robense, StKildaFan	45	4	20
+339997	3	20	Prism (4 Suits)	2020-11-10 — 13:07:54 UTC	jack67889, robense, StKildaFan	47	4	20
 339991	4	13	3 Suits	2020-11-10 — 12:48:17 UTC	Carunty, jack67889, robense, StKildaFan	24	3	15
 339978	4	20	Brown (4 Suits)	2020-11-10 — 12:30:52 UTC	Carunty, jack67889, Lel0uch, StKildaFan	22	4	20
 339971	5	0	Omni (6 Suits)	2020-11-10 — 11:59:33 UTC	Carunty, jack67889, Lel0uch, sin_faith, TimeHoodie	8	6	30
 339968	4	30	Prism (6 Suits)	2020-11-10 — 11:26:59 UTC	baads, jack67889, robense, TimeHoodie	15	6	30
-339459	4	25	No Variant	2020-11-09 — 20:51:38 UTC	cockdestroyer, jack67889, nitawa, XMIL	55	5	25
+339459	4	25	No Variant	2020-11-09 — 20:51:38 UTC	cockdestroyer, jack67889, nitawa, XMIL	56	5	25
 339427	5	0	No Variant	2020-11-09 — 20:27:58 UTC	Carunty, cockdestroyer, jack67889, nitawa, XMIL	29	5	25
 339102	6	0	Ambiguous (6 Suits)	2020-11-09 — 10:50:41 UTC	catula, jack67889, methmatics, Pablo-, sephiroth, Sucubis	3	6	30
 339101	6	0	Ambiguous (6 Suits)	2020-11-09 — 10:41:52 UTC	catula, jack67889, methmatics, Pablo-, sephiroth, Sucubis	5	6	30
 339099	5	0	Ambiguous (6 Suits)	2020-11-09 — 10:20:10 UTC	jack67889, methmatics, Pablo-, sephiroth, Sucubis	9	6	30
-339090	3	0	Ambiguous (6 Suits)	2020-11-09 — 09:43:20 UTC	jack67889, methmatics, Sucubis	22	6	30
-339089	3	0	Ambiguous (6 Suits)	2020-11-09 — 09:43:09 UTC	jack67889, methmatics, Sucubis	28	6	30
-339084	3	0	Ambiguous (6 Suits)	2020-11-09 — 09:33:11 UTC	jack67889, methmatics, Sucubis	42	6	30
+339090	3	0	Ambiguous (6 Suits)	2020-11-09 — 09:43:20 UTC	jack67889, methmatics, Sucubis	23	6	30
+339089	3	0	Ambiguous (6 Suits)	2020-11-09 — 09:43:09 UTC	jack67889, methmatics, Sucubis	29	6	30
+339084	3	0	Ambiguous (6 Suits)	2020-11-09 — 09:33:11 UTC	jack67889, methmatics, Sucubis	43	6	30
 339083	3	0	Prism (4 Suits)	2020-11-09 — 09:31:32 UTC	jack67889, methmatics, Sucubis	27	4	20
 339079	4	0	Brown (6 Suits)	2020-11-09 — 09:23:25 UTC	Animex52, catula, jack67889, Sucubis	17	6	30
 338750	3	25	Dual-Color (5 Suits)	2020-11-08 — 23:53:04 UTC	jack67889, rachyrules, timotree	31	5	25
@@ -1164,15 +1209,15 @@
 338305	4	22	Special Mix (5 Suits)	2020-11-08 — 13:36:56 UTC	honzas, jack67889, MarkusKahlsen, rachyrules	21	5	25
 338298	4	0	Special Mix (5 Suits)	2020-11-08 — 13:12:47 UTC	honzas, jack67889, MarkusKahlsen, rachyrules	20	5	25
 338297	4	0	Special Mix (5 Suits)	2020-11-08 — 13:07:00 UTC	honzas, jack67889, MarkusKahlsen, rachyrules	25	5	25
-338255	3	19	Null (4 Suits)	2020-11-08 — 11:29:46 UTC	jack67889, level_0, magikarp	23	4	20
-337878	4	30	Black (6 Suits)	2020-11-07 — 23:25:03 UTC	Carunty, jack67889, JackFrost, rz	67	6	30
-337838	4	0	Black (6 Suits)	2020-11-07 — 23:00:45 UTC	Carunty, jack67889, JackFrost, rz	90	6	30
-337827	4	0	Black (6 Suits)	2020-11-07 — 22:52:33 UTC	Carunty, jack67889, JackFrost, rz	91	6	30
+338255	3	19	Null (4 Suits)	2020-11-08 — 11:29:46 UTC	jack67889, level_0, magikarp	24	4	20
+337878	4	30	Black (6 Suits)	2020-11-07 — 23:25:03 UTC	Carunty, jack67889, JackFrost, rz	69	6	30
+337838	4	0	Black (6 Suits)	2020-11-07 — 23:00:45 UTC	Carunty, jack67889, JackFrost, rz	95	6	30
+337827	4	0	Black (6 Suits)	2020-11-07 — 22:52:33 UTC	Carunty, jack67889, JackFrost, rz	95	6	30
 337815	5	0	Black (6 Suits)	2020-11-07 — 22:40:31 UTC	Carunty, jack67889, JackFrost, rz, wump	18	6	30
 337793	5	27	Black (6 Suits)	2020-11-07 — 22:21:05 UTC	Carunty, jack67889, JackFrost, rz, wump	21	6	30
 337763	5	0	Black (6 Suits)	2020-11-07 — 21:50:07 UTC	Carunty, jack67889, JackFrost, nitawa, rz	23	6	30
-337752	5	0	Black (6 Suits)	2020-11-07 — 21:29:10 UTC	Carunty, jack67889, nitawa, rz, wump	21	6	30
-337730	5	26	Black (6 Suits)	2020-11-07 — 20:57:54 UTC	Carunty, jack67889, nitawa, rz, wump	22	6	30
+337752	5	0	Black (6 Suits)	2020-11-07 — 21:29:10 UTC	Carunty, jack67889, nitawa, rz, wump	22	6	30
+337730	5	26	Black (6 Suits)	2020-11-07 — 20:57:54 UTC	Carunty, jack67889, nitawa, rz, wump	23	6	30
 337711	3	25	White Reversed (5 Suits)	2020-11-07 — 20:28:39 UTC	Carunty, jack67889, wump	14	5	25
 337684	4	25	Light-Pink-Ones & White (5 Suits)	2020-11-07 — 19:59:25 UTC	Carunty, jack67889, Pablo-, wump	2	5	25
 337582	5	0	Up or Down & Light Pink (5 Suits)	2020-11-07 — 16:23:14 UTC	Floriman, jack67889, Kyle, melwen, Sucubis	1	5	25
@@ -1182,8 +1227,8 @@
 337535	3	22	Up or Down & White (5 Suits)	2020-11-07 — 14:34:00 UTC	jack67889, melwen, sephiroth	10	5	25
 337503	3	0	Reversed (6 Suits)	2020-11-07 — 12:58:49 UTC	jack67889, kimbifille, postmans	10	6	30
 337501	3	27	Reversed (6 Suits)	2020-11-07 — 12:51:52 UTC	jack67889, kimbifille, postmans	14	6	30
-337496	3	0	Reversed (6 Suits)	2020-11-07 — 12:37:38 UTC	jack67889, kimbifille, postmans	20	6	30
-337494	4	20	White (4 Suits)	2020-11-07 — 12:24:45 UTC	Carunty, jack67889, kimbifille, postmans	34	4	20
+337496	3	0	Reversed (6 Suits)	2020-11-07 — 12:37:38 UTC	jack67889, kimbifille, postmans	21	6	30
+337494	4	20	White (4 Suits)	2020-11-07 — 12:24:45 UTC	Carunty, jack67889, kimbifille, postmans	35	4	20
 337486	5	23	Pink (5 Suits)	2020-11-07 — 12:07:09 UTC	Carunty, jack67889, kimbifille, postmans, Sucubis	12	5	25
 337484	6	23	Rainbow (5 Suits)	2020-11-07 — 11:46:22 UTC	Carunty, ebin_noob, jack67889, kimbifille, postmans, Sucubis	15	5	25
 337119	3	20	Rainbow & Light Pink (4 Suits)	2020-11-07 — 00:21:11 UTC	jack67889, melwen, scharkbite	2	4	20
@@ -1192,37 +1237,37 @@
 337077	3	19	Rainbow & Light Pink (4 Suits)	2020-11-06 — 23:18:33 UTC	jack67889, melwen, scharkbite	3	4	20
 337068	4	23	Brown & Dark Prism (5 Suits)	2020-11-06 — 23:01:23 UTC	jack67889, MarkusKahlsen, scharkbite, will.i.am	2	5	25
 337053	4	0	Brown & Dark Prism (5 Suits)	2020-11-06 — 22:42:23 UTC	jack67889, MarkusKahlsen, scharkbite, will.i.am	3	5	25
-337050	3	0	Brown & Dark Prism (5 Suits)	2020-11-06 — 22:31:55 UTC	jack67889, MarkusKahlsen, will.i.am	2	5	25
-337037	3	0	Brown & Dark Prism (5 Suits)	2020-11-06 — 22:12:43 UTC	jack67889, MarkusKahlsen, will.i.am	2	5	25
-337026	3	0	Brown & Dark Prism (5 Suits)	2020-11-06 — 21:56:00 UTC	jack67889, MarkusKahlsen, will.i.am	2	5	25
+337050	3	0	Brown & Dark Prism (5 Suits)	2020-11-06 — 22:31:55 UTC	jack67889, MarkusKahlsen, will.i.am	3	5	25
+337037	3	0	Brown & Dark Prism (5 Suits)	2020-11-06 — 22:12:43 UTC	jack67889, MarkusKahlsen, will.i.am	3	5	25
+337026	3	0	Brown & Dark Prism (5 Suits)	2020-11-06 — 21:56:00 UTC	jack67889, MarkusKahlsen, will.i.am	3	5	25
 336887	5	21	Dark Brown (5 Suits)	2020-11-06 — 17:53:34 UTC	Fey, jack67889, plus, TimeHoodie, will.i.am	5	5	25
 336884	5	0	Muddy Rainbow (4 Suits)	2020-11-06 — 17:32:06 UTC	Fey, jack67889, Kyle, Sucubis, TimeHoodie	5	4	20
 336880	5	18	Muddy Rainbow (4 Suits)	2020-11-06 — 17:18:08 UTC	Fey, jack67889, Kyle, Sucubis, TimeHoodie	6	4	20
 336875	6	23	Black (5 Suits)	2020-11-06 — 16:59:56 UTC	ebin_noob, Fey, jack67889, Kyle, Sucubis, TimeHoodie	3	5	25
 336869	6	0	Black (5 Suits)	2020-11-06 — 16:42:24 UTC	ebin_noob, Fey, jack67889, Kyle, Sucubis, TimeHoodie	5	5	25
-336863	6	0	Black (5 Suits)	2020-11-06 — 16:30:59 UTC	ebin_noob, Fey, jack67889, Kyle, Sucubis, TimeHoodie	9	5	25
+336863	6	0	Black (5 Suits)	2020-11-06 — 16:30:59 UTC	ebin_noob, Fey, jack67889, Kyle, Sucubis, TimeHoodie	10	5	25
 336841	5	30	White & Brown (6 Suits)	2020-11-06 — 15:18:20 UTC	Carunty, jack67889, Pablo-, Pepepe, Wittvector	7	6	30
 336828	6	0	White & Brown (6 Suits)	2020-11-06 — 14:28:29 UTC	Carunty, jack67889, Pablo-, Pepepe, Tiramisu1th, Wittvector	3	6	30
-336823	5	0	White & Brown (5 Suits)	2020-11-06 — 13:41:54 UTC	Carunty, jack67889, Pablo-, Tiramisu2th, Triqueon	8	5	25
+336823	5	0	White & Brown (5 Suits)	2020-11-06 — 13:41:54 UTC	Carunty, jack67889, Pablo-, Tiramisu2th, Triqueon	9	5	25
 336802	4	0	Dual-Color (6 Suits)	2020-11-06 — 11:32:47 UTC	catula, cockdestroyer, jack67889, Nitrate2	39	6	30
 336799	6	28	Up or Down (6 Suits)	2020-11-06 — 10:58:44 UTC	catula, cockdestroyer, jack67889, nitawa, Pablo-, Sucubis	3	6	30
 336789	5	25	Brown (5 Suits)	2020-11-06 — 10:17:25 UTC	jack67889, MarkusKahlsen, Pablo-, squirtle, swineherd	5	5	25
-336360	4	30	Up or Down & Pink (6 Suits)	2020-11-05 — 22:54:38 UTC	Bonja97, jack67889, newduke, robense	12	6	30
+336360	4	30	Up or Down & Pink (6 Suits)	2020-11-05 — 22:54:38 UTC	Bonja97, jack67889, newduke, robense	13	6	30
 336239	5	0	Up or Down & Pink (6 Suits)	2020-11-05 — 20:21:47 UTC	jack67889, Kyle, melwen, sephiroth, TimeHoodie	1	6	30
 336198	5	28	Up or Down & Pink (6 Suits)	2020-11-05 — 19:39:59 UTC	jack67889, Kyle, melwen, sephiroth, TimeHoodie	3	6	30
 336094	5	0	Up or Down (5 Suits)	2020-11-05 — 16:40:41 UTC	Carunty, jack67889, jeff10, Kyle, will.i.am	6	5	25
 336089	5	0	Up or Down (5 Suits)	2020-11-05 — 16:26:28 UTC	Carunty, jack67889, jeff10, Kyle, will.i.am	6	5	25
 336081	5	29	Rainbow (6 Suits)	2020-11-05 — 16:05:24 UTC	baads, jack67889, jeff10, Kyle, MarkusKahlsen	10	6	30
-336067	4	0	Rainbow (5 Suits)	2020-11-05 — 14:44:04 UTC	ebin_noob, jack67889, MarkusKahlsen, robense	23	5	25
+336067	4	0	Rainbow (5 Suits)	2020-11-05 — 14:44:04 UTC	ebin_noob, jack67889, MarkusKahlsen, robense	24	5	25
 336065	4	0	Rainbow (5 Suits)	2020-11-05 — 14:30:22 UTC	ebin_noob, jack67889, MarkusKahlsen, robense	42	5	25
 336058	6	24	White (5 Suits)	2020-11-05 — 13:53:08 UTC	Carunty, jack67889, MarkusKahlsen, rz, StKildaFan, Tiramisu1th	8	5	25
-336054	3	23	Dual-Color (5 Suits)	2020-11-05 — 13:23:11 UTC	jack67889, MarkusKahlsen, rz	69	5	25
+336054	3	23	Dual-Color (5 Suits)	2020-11-05 — 13:23:11 UTC	jack67889, MarkusKahlsen, rz	70	5	25
 336043	3	0	Black (5 Suits)	2020-11-05 — 11:55:02 UTC	catula, jack67889, Sucubis	40	5	25
-336042	3	0	Black (5 Suits)	2020-11-05 — 11:40:45 UTC	catula, jack67889, Sucubis	44	5	25
+336042	3	0	Black (5 Suits)	2020-11-05 — 11:40:45 UTC	catula, jack67889, Sucubis	45	5	25
 336038	3	0	Black (5 Suits)	2020-11-05 — 11:29:51 UTC	catula, jack67889, Sucubis	43	5	25
-336036	3	0	Black (5 Suits)	2020-11-05 — 11:20:28 UTC	catula, jack67889, Sucubis	44	5	25
-336034	3	0	Black (5 Suits)	2020-11-05 — 11:08:09 UTC	catula, jack67889, Sucubis	66	5	25
-336032	3	0	Black (5 Suits)	2020-11-05 — 10:57:07 UTC	catula, jack67889, Sucubis	71	5	25
+336036	3	0	Black (5 Suits)	2020-11-05 — 11:20:28 UTC	catula, jack67889, Sucubis	45	5	25
+336034	3	0	Black (5 Suits)	2020-11-05 — 11:08:09 UTC	catula, jack67889, Sucubis	67	5	25
+336032	3	0	Black (5 Suits)	2020-11-05 — 10:57:07 UTC	catula, jack67889, Sucubis	73	5	25
 336023	5	28	Black (6 Suits)	2020-11-05 — 09:57:10 UTC	Bonja97, jack67889, kodomazer, pianoblook, sin_faith	23	6	30
 336015	5	0	Black (6 Suits)	2020-11-05 — 09:24:05 UTC	Bonja97, jack67889, kodomazer, pianoblook, sin_faith	21	6	30
 336013	5	0	Black (6 Suits)	2020-11-05 — 09:16:21 UTC	Bonja97, jack67889, kodomazer, pianoblook, sin_faith	24	6	30
@@ -1234,13 +1279,13 @@
 334674	5	0	Black & Prism (6 Suits)	2020-11-03 — 21:12:50 UTC	avanderwalde, jack67889, JerryYang, TimeHoodie, Wittvector	2	6	30
 334400	5	0	3 Suits	2020-11-03 — 14:32:06 UTC	jack67889, kodomazer, MarkusKahlsen, melwen, TimeHoodie	5	3	15
 334387	5	12	3 Suits	2020-11-03 — 13:59:43 UTC	jack67889, kodomazer, MarkusKahlsen, melwen, TimeHoodie	9	3	15
-334358	2	25	Prism (5 Suits)	2020-11-03 — 09:45:55 UTC	asaelr, jack67889	95	5	25
+334358	2	25	Prism (5 Suits)	2020-11-03 — 09:45:55 UTC	asaelr, jack67889	98	5	25
 334354	3	30	Up or Down & Prism (6 Suits)	2020-11-03 — 09:31:42 UTC	asaelr, jack67889, sephiroth	8	6	30
 334350	3	0	Up or Down & Prism (6 Suits)	2020-11-03 — 09:11:20 UTC	asaelr, jack67889, sephiroth	13	6	30
 333935	4	15	Prism (3 Suits)	2020-11-02 — 21:41:54 UTC	asaelr, Feich59, jack67889, Kowalski1337	8	3	15
 333920	4	14	Prism (3 Suits)	2020-11-02 — 21:25:30 UTC	asaelr, Feich59, jack67889, Kowalski1337	8	3	15
-333908	4	14	Prism (3 Suits)	2020-11-02 — 21:07:52 UTC	asaelr, Feich59, jack67889, Kowalski1337	11	3	15
-333897	4	0	Prism (3 Suits)	2020-11-02 — 20:53:00 UTC	asaelr, Feich59, jack67889, Kowalski1337	12	3	15
+333908	4	14	Prism (3 Suits)	2020-11-02 — 21:07:52 UTC	asaelr, Feich59, jack67889, Kowalski1337	12	3	15
+333897	4	0	Prism (3 Suits)	2020-11-02 — 20:53:00 UTC	asaelr, Feich59, jack67889, Kowalski1337	13	3	15
 333829	4	14	Omni (3 Suits)	2020-11-02 — 19:20:53 UTC	jack67889, Kyle, Wittvector, XMIL	6	3	15
 333820	4	0	Omni (3 Suits)	2020-11-02 — 19:05:11 UTC	jack67889, Kyle, Wittvector, XMIL	11	3	15
 333807	6	14	3 Suits	2020-11-02 — 18:55:52 UTC	ebin_noob, jack67889, Kyle, timotree, Wittvector, XMIL	9	3	15
@@ -1249,27 +1294,27 @@
 333742	3	0	Black & Dark Prism (6 Suits)	2020-11-02 — 16:42:11 UTC	Animex52, jack67889, level_0	4	6	30
 333728	4	29	Rainbow & Brown (6 Suits)	2020-11-02 — 15:44:21 UTC	asaelr, ebin_noob, jack67889, rz	6	6	30
 333720	4	28	Rainbow & Brown (6 Suits)	2020-11-02 — 15:15:54 UTC	asaelr, ebin_noob, jack67889, rz	7	6	30
-333712	3	21	Rainbow (5 Suits)	2020-11-02 — 14:41:12 UTC	jack67889, rz, StKildaFan	39	5	25
-333705	3	0	Rainbow (5 Suits)	2020-11-02 — 14:14:58 UTC	jack67889, rz, StKildaFan	43	5	25
-333658	3	29	Pink (6 Suits)	2020-11-02 — 09:18:37 UTC	Carunty, frosty104, jack67889	92	6	30
+333712	3	21	Rainbow (5 Suits)	2020-11-02 — 14:41:12 UTC	jack67889, rz, StKildaFan	40	5	25
+333705	3	0	Rainbow (5 Suits)	2020-11-02 — 14:14:58 UTC	jack67889, rz, StKildaFan	44	5	25
+333658	3	29	Pink (6 Suits)	2020-11-02 — 09:18:37 UTC	Carunty, frosty104, jack67889	94	6	30
 333094	4	29	Brown (6 Suits)	2020-11-01 — 22:48:10 UTC	jack67889, jeff10, rachyrules, sephiroth	21	6	30
-333066	3	0	Pink (6 Suits)	2020-11-01 — 22:10:15 UTC	jack67889, Jake_Stiles, jeff10	131	6	30
+333066	3	0	Pink (6 Suits)	2020-11-01 — 22:10:15 UTC	jack67889, Jake_Stiles, jeff10	132	6	30
 333049	4	0	Null (5 Suits)	2020-11-01 — 21:51:28 UTC	Bonja97, jack67889, Jake_Stiles, Kyle	8	5	25
 333027	4	25	Up or Down & Rainbow (5 Suits)	2020-11-01 — 21:28:44 UTC	Bonja97, jack67889, Jake_Stiles, Kyle	3	5	25
 332887	4	25	Black (5 Suits)	2020-11-01 — 18:25:27 UTC	jack67889, sankala, wump, XMIL	32	5	25
-332879	5	20	Black (5 Suits)	2020-11-01 — 17:58:05 UTC	Carunty, jack67889, rachyrules, sankala, XMIL	17	5	25
+332879	5	20	Black (5 Suits)	2020-11-01 — 17:58:05 UTC	Carunty, jack67889, rachyrules, sankala, XMIL	18	5	25
 332848	4	24	Black (5 Suits)	2020-11-01 — 17:21:54 UTC	Carunty, jack67889, rachyrules, sankala	32	5	25
-332832	4	23	Black (5 Suits)	2020-11-01 — 16:58:37 UTC	Carunty, jack67889, rachyrules, sankala	36	5	25
-332108	3	22	Dark Rainbow (5 Suits)	2020-10-31 — 16:46:27 UTC	ADrone, jack67889, Tiramisu1th	24	5	25
-332100	3	0	Dark Rainbow (5 Suits)	2020-10-31 — 16:20:55 UTC	ADrone, jack67889, Tiramisu1th	36	5	25
+332832	4	23	Black (5 Suits)	2020-11-01 — 16:58:37 UTC	Carunty, jack67889, rachyrules, sankala	37	5	25
+332108	3	22	Dark Rainbow (5 Suits)	2020-10-31 — 16:46:27 UTC	ADrone, jack67889, Tiramisu1th	25	5	25
+332100	3	0	Dark Rainbow (5 Suits)	2020-10-31 — 16:20:55 UTC	ADrone, jack67889, Tiramisu1th	38	5	25
 332004	6	25	Brown (5 Suits)	2020-10-31 — 11:39:51 UTC	Carunty, catula, jack67889, nitawa, sephiroth, Sucubis	8	5	25
-331999	4	22	Pink (5 Suits)	2020-10-31 — 11:03:25 UTC	Carunty, catula, jack67889, nitawa	34	5	25
-331987	3	0	Brown (6 Suits)	2020-10-31 — 10:07:49 UTC	jack67889, rachyrules, sephiroth	40	6	30
-331977	2	0	Brown (6 Suits)	2020-10-31 — 09:45:58 UTC	jack67889, rachyrules	129	6	30
-331508	5	22	No Variant	2020-10-30 — 23:01:26 UTC	ejwu, jack67889, MarcLovesDogs, newduke, rz	262	5	25
-331475	3	23	Dark Rainbow (5 Suits)	2020-10-30 — 22:02:15 UTC	jack67889, newduke, rachyrules	29	5	25
-331452	3	0	Dark Rainbow (5 Suits)	2020-10-30 — 21:33:18 UTC	jack67889, newduke, rachyrules	31	5	25
-331430	3	0	Dark Rainbow (5 Suits)	2020-10-30 — 21:17:29 UTC	jack67889, newduke, rachyrules	35	5	25
+331999	4	22	Pink (5 Suits)	2020-10-31 — 11:03:25 UTC	Carunty, catula, jack67889, nitawa	35	5	25
+331987	3	0	Brown (6 Suits)	2020-10-31 — 10:07:49 UTC	jack67889, rachyrules, sephiroth	41	6	30
+331977	2	0	Brown (6 Suits)	2020-10-31 — 09:45:58 UTC	jack67889, rachyrules	131	6	30
+331508	5	22	No Variant	2020-10-30 — 23:01:26 UTC	ejwu, jack67889, MarcLovesDogs, newduke, rz	265	5	25
+331475	3	23	Dark Rainbow (5 Suits)	2020-10-30 — 22:02:15 UTC	jack67889, newduke, rachyrules	30	5	25
+331452	3	0	Dark Rainbow (5 Suits)	2020-10-30 — 21:33:18 UTC	jack67889, newduke, rachyrules	32	5	25
+331430	3	0	Dark Rainbow (5 Suits)	2020-10-30 — 21:17:29 UTC	jack67889, newduke, rachyrules	36	5	25
 331387	5	23	No Variant	2020-10-30 — 20:46:11 UTC	ebin_noob, jack67889, kiele, TheDaniMan, TimeHoodie	21	5	25
 331368	6	0	White (4 Suits)	2020-10-30 — 20:25:51 UTC	ebin_noob, jack67889, kiele, sephiroth, swineherd, TheDaniMan	1	4	20
 331361	6	0	White (4 Suits)	2020-10-30 — 20:16:30 UTC	ebin_noob, jack67889, kiele, sephiroth, swineherd, TheDaniMan	5	4	20
@@ -1283,7 +1328,7 @@
 331076	3	0	Pink-Fives & White (6 Suits)	2020-10-30 — 09:54:57 UTC	catula, jack67889, Pepepe	4	6	30
 330430	6	25	Throw It in a Hole (5 Suits)	2020-10-29 — 11:26:46 UTC	catula, eevee, jack67889, nitawa, rz, Sucubis	4	5	25
 330429	5	22	No Variant	2020-10-29 — 10:44:35 UTC	catula, eevee, jack67889, rz, StKildaFan	65	5	25
-330425	3	25	No Variant	2020-10-29 — 10:09:30 UTC	catula, jack67889, Sucubis	285	5	25
+330425	3	25	No Variant	2020-10-29 — 10:09:30 UTC	catula, jack67889, Sucubis	287	5	25
 330111	4	30	Prism (6 Suits)	2020-10-28 — 23:04:21 UTC	amyy, Animex52, jack67889, Nitrate2	35	6	30
 330100	4	0	Prism (6 Suits)	2020-10-28 — 22:27:30 UTC	amyy, Animex52, jack67889, Nitrate2	53	6	30
 329838	5	30	Rainbow & Brown (6 Suits)	2020-10-28 — 14:54:27 UTC	jack67889, nitawa, Pablo-, sin_faith, TheDaniMan	6	6	30
@@ -1296,27 +1341,27 @@
 329792	4	0	Rainbow & Brown (6 Suits)	2020-10-28 — 12:06:19 UTC	ebin_noob, Feich59, jack67889, JonasPro	14	6	30
 329790	6	0	Rainbow & Brown (6 Suits)	2020-10-28 — 11:55:46 UTC	catula, ebin_noob, Feich59, jack67889, sin_faith, Veexliat	2	6	30
 329788	5	29	Rainbow (6 Suits)	2020-10-28 — 11:33:20 UTC	catula, jack67889, StKildaFan, Sucubis, TheDaniMan	42	6	30
-329787	5	0	Rainbow (6 Suits)	2020-10-28 — 11:10:37 UTC	catula, jack67889, StKildaFan, Sucubis, TheDaniMan	59	6	30
+329787	5	0	Rainbow (6 Suits)	2020-10-28 — 11:10:37 UTC	catula, jack67889, StKildaFan, Sucubis, TheDaniMan	60	6	30
 329786	4	25	No Variant	2020-10-28 — 10:56:13 UTC	jack67889, orucsoraihc, StKildaFan, Sucubis	60	5	25
 329441	6	24	Pink (5 Suits)	2020-10-27 — 22:43:45 UTC	jack67889, MarkusKahlsen, nitawa, Nitrate2, sephiroth, swineherd	1	5	25
-329419	4	0	Muddy Rainbow (5 Suits)	2020-10-27 — 22:12:22 UTC	jack67889, MarkusKahlsen, nitawa, swineherd	6	5	25
+329419	4	0	Muddy Rainbow (5 Suits)	2020-10-27 — 22:12:22 UTC	jack67889, MarkusKahlsen, nitawa, swineherd	7	5	25
 329410	3	25	Brown (5 Suits)	2020-10-27 — 21:48:09 UTC	jack67889, MarkusKahlsen, nitawa	31	5	25
-329396	3	0	Brown (5 Suits)	2020-10-27 — 21:22:15 UTC	jack67889, MarkusKahlsen, nitawa	63	5	25
+329396	3	0	Brown (5 Suits)	2020-10-27 — 21:22:15 UTC	jack67889, MarkusKahlsen, nitawa	65	5	25
 329382	5	0	Up or Down & White (6 Suits)	2020-10-27 — 20:47:49 UTC	Bonja97, jack67889, Pablo-, sephiroth, TheDaniMan	7	6	30
-329369	3	0	Up or Down & White (6 Suits)	2020-10-27 — 20:28:14 UTC	jack67889, Pablo-, sephiroth	16	6	30
-329360	4	0	Black (6 Suits)	2020-10-27 — 20:06:48 UTC	jack67889, jeff10, Pablo-, sephiroth	18	6	30
+329369	3	0	Up or Down & White (6 Suits)	2020-10-27 — 20:28:14 UTC	jack67889, Pablo-, sephiroth	18	6	30
+329360	4	0	Black (6 Suits)	2020-10-27 — 20:06:48 UTC	jack67889, jeff10, Pablo-, sephiroth	19	6	30
 329341	6	28	Black (6 Suits)	2020-10-27 — 19:34:24 UTC	cockdestroyer, dj.narayanan, jack67889, jeff10, Pablo-, sephiroth	8	6	30
-329330	6	0	Black (6 Suits)	2020-10-27 — 19:07:56 UTC	cockdestroyer, dj.narayanan, jack67889, jeff10, Pablo-, sephiroth	15	6	30
+329330	6	0	Black (6 Suits)	2020-10-27 — 19:07:56 UTC	cockdestroyer, dj.narayanan, jack67889, jeff10, Pablo-, sephiroth	16	6	30
 329287	5	25	Reversed (5 Suits)	2020-10-27 — 17:01:26 UTC	Carunty, jack67889, jeff10, MarkusKahlsen, rz	6	5	25
 329200	4	25	Up or Down (5 Suits)	2020-10-27 — 14:14:08 UTC	Carunty, jack67889, Pablo-, sephiroth	4	5	25
-329195	4	25	No Variant	2020-10-27 — 13:47:54 UTC	Carunty, jack67889, MarkusKahlsen, StKildaFan	54	5	25
+329195	4	25	No Variant	2020-10-27 — 13:47:54 UTC	Carunty, jack67889, MarkusKahlsen, StKildaFan	55	5	25
 329164	4	23	Black (5 Suits)	2020-10-27 — 11:54:57 UTC	asaelr, jack67889, kodomazer, Sucubis	3	5	25
-329156	3	22	Black (5 Suits)	2020-10-27 — 11:31:25 UTC	jack67889, kodomazer, Sucubis	68	5	25
+329156	3	22	Black (5 Suits)	2020-10-27 — 11:31:25 UTC	jack67889, kodomazer, Sucubis	69	5	25
 329151	6	20	Cocoa Rainbow (5 Suits)	2020-10-27 — 11:06:58 UTC	cockdestroyer, jack67889, kodomazer, methmatics, orucsoraihc, Sucubis	3	5	25
 329147	5	0	Pink (5 Suits)	2020-10-27 — 10:31:41 UTC	catula, cockdestroyer, jack67889, kodomazer, Sucubis	20	5	25
 329144	4	0	Pink (5 Suits)	2020-10-27 — 10:10:03 UTC	catula, jack67889, kodomazer, Sucubis	14	5	25
 329142	5	25	No Variant	2020-10-27 — 09:50:47 UTC	catula, jack67889, Pablo-, sephiroth, VerySloppyTwo	26	5	25
-329140	4	0	No Variant	2020-10-27 — 09:20:03 UTC	catula, jack67889, Pablo-, VerySloppyTwo	233	5	25
+329140	4	0	No Variant	2020-10-27 — 09:20:03 UTC	catula, jack67889, Pablo-, VerySloppyTwo	236	5	25
 329139	4	0	White & Prism (5 Suits)	2020-10-27 — 09:11:04 UTC	catula, jack67889, Pablo-, VerySloppyTwo	5	5	25
 329138	4	0	White & Prism (5 Suits)	2020-10-27 — 09:04:29 UTC	catula, jack67889, Pablo-, VerySloppyTwo	11	5	25
 328855	5	23	Omni-Fives & Omni (5 Suits)	2020-10-26 — 22:34:56 UTC	Floriman, jack67889, scharkbite, sephiroth, timotree	1	5	25
@@ -1327,12 +1372,12 @@
 328781	5	24	Null-Ones (5 Suits)	2020-10-26 — 20:55:02 UTC	jack67889, JackFrost, newduke, nitawa, Pablo-	3	5	25
 328692	6	30	Rainbow-Ones & Rainbow (6 Suits)	2020-10-26 — 18:35:07 UTC	jack67889, Kyle, newduke, Pablo-, sephiroth, TheDaniMan	1	6	30
 328669	6	29	Rainbow-Ones & Rainbow (6 Suits)	2020-10-26 — 18:06:21 UTC	jack67889, Kyle, MarkusKahlsen, Pablo-, sephiroth, TheDaniMan	1	6	30
-328652	4	22	Dark Brown (5 Suits)	2020-10-26 — 17:41:29 UTC	jack67889, MarkusKahlsen, Pablo-, TheDaniMan	8	5	25
+328652	4	22	Dark Brown (5 Suits)	2020-10-26 — 17:41:29 UTC	jack67889, MarkusKahlsen, Pablo-, TheDaniMan	9	5	25
 328641	4	25	Dark Omni (5 Suits)	2020-10-26 — 17:20:54 UTC	jack67889, MarkusKahlsen, Pablo-, TheDaniMan	6	5	25
 328634	6	26	Black & White (6 Suits)	2020-10-26 — 16:56:38 UTC	jack67889, jeff10, MarkusKahlsen, superbipbip, TheDaniMan, Wittvector	4	6	30
-328598	4	30	White (6 Suits)	2020-10-26 — 14:12:57 UTC	Carunty, jack67889, Pablo-, superbipbip	41	6	30
-328592	4	28	White (6 Suits)	2020-10-26 — 13:40:17 UTC	jack67889, kodomazer, Pablo-, superbipbip	60	6	30
-328583	4	0	White (6 Suits)	2020-10-26 — 13:12:11 UTC	jack67889, kodomazer, Pablo-, superbipbip	75	6	30
+328598	4	30	White (6 Suits)	2020-10-26 — 14:12:57 UTC	Carunty, jack67889, Pablo-, superbipbip	43	6	30
+328592	4	28	White (6 Suits)	2020-10-26 — 13:40:17 UTC	jack67889, kodomazer, Pablo-, superbipbip	62	6	30
+328583	4	0	White (6 Suits)	2020-10-26 — 13:12:11 UTC	jack67889, kodomazer, Pablo-, superbipbip	76	6	30
 328572	6	22	No Variant	2020-10-26 — 12:42:57 UTC	jack67889, kodomazer, Pablo-, sin_faith, StKildaFan, superbipbip	7	5	25
 328035	6	0	Light Pink & Gray (6 Suits)	2020-10-25 — 17:01:39 UTC	asaelr, Floriman, jack67889, Pablo-, TimeHoodie, XMIL	1	6	30
 328021	6	0	Light Pink & Gray (6 Suits)	2020-10-25 — 16:31:32 UTC	asaelr, Floriman, jack67889, Pablo-, TimeHoodie, XMIL	1	6	30
@@ -1342,54 +1387,54 @@
 326503	5	0	Rainbow-Ones (6 Suits)	2020-10-23 — 14:17:08 UTC	Fey, jack67889, nitawa, Pablo-, wump	2	6	30
 326497	5	0	Rainbow-Ones (6 Suits)	2020-10-23 — 13:59:29 UTC	Fey, jack67889, nitawa, Pablo-, wump	5	6	30
 326480	6	25	White (5 Suits)	2020-10-23 — 13:34:58 UTC	jack67889, nitawa, Pablo-, Pepepe, StKildaFan, Sucubis	10	5	25
-326443	4	30	Rainbow (6 Suits)	2020-10-23 — 12:23:11 UTC	ebin_noob, Hapotata, jack67889, MarkusKahlsen	200	6	30
-326431	4	0	Rainbow (6 Suits)	2020-10-23 — 11:47:13 UTC	ebin_noob, Hapotata, jack67889, Zakisan	344	6	30
-326418	5	25	Rainbow (5 Suits)	2020-10-23 — 10:49:47 UTC	cockdestroyer, jack67889, Pablo-, robense, Zakisan	54	5	25
-326409	3	0	Omni (4 Suits)	2020-10-23 — 10:25:14 UTC	jack67889, robense, Zakisan	29	4	20
+326443	4	30	Rainbow (6 Suits)	2020-10-23 — 12:23:11 UTC	ebin_noob, Hapotata, jack67889, MarkusKahlsen	205	6	30
+326431	4	0	Rainbow (6 Suits)	2020-10-23 — 11:47:13 UTC	ebin_noob, Hapotata, jack67889, Zakisan	349	6	30
+326418	5	25	Rainbow (5 Suits)	2020-10-23 — 10:49:47 UTC	cockdestroyer, jack67889, Pablo-, robense, Zakisan	55	5	25
+326409	3	0	Omni (4 Suits)	2020-10-23 — 10:25:14 UTC	jack67889, robense, Zakisan	30	4	20
 326405	3	25	Omni (5 Suits)	2020-10-23 — 10:08:17 UTC	jack67889, robense, Zakisan	21	5	25
 326394	5	30	Prism (6 Suits)	2020-10-23 — 09:38:07 UTC	Carunty, catula, jack67889, Sucubis, Wittvector	7	6	30
-326387	4	25	Brown (5 Suits)	2020-10-23 — 08:54:19 UTC	ebin_noob, Fey, jack67889, TheDaniMan	19	5	25
-326385	4	0	Brown (5 Suits)	2020-10-23 — 08:35:34 UTC	ebin_noob, Fey, jack67889, TheDaniMan	36	5	25
-326382	3	25	Black (5 Suits)	2020-10-23 — 08:25:26 UTC	Fey, jack67889, robense	134	5	25
-326005	4	20	Rainbow & Prism (4 Suits)	2020-10-22 — 21:30:26 UTC	jack67889, newduke, Pepepe, wump	6	4	20
-325996	4	17	Rainbow & Prism (4 Suits)	2020-10-22 — 21:02:22 UTC	jack67889, newduke, Pepepe, wump	7	4	20
-325985	3	0	Brown (5 Suits)	2020-10-22 — 20:35:14 UTC	jack67889, Veexliat, wump	79	5	25
-325970	3	0	Prism (5 Suits)	2020-10-22 — 20:14:08 UTC	angel-a, jack67889, wump	80	5	25
+326387	4	25	Brown (5 Suits)	2020-10-23 — 08:54:19 UTC	ebin_noob, Fey, jack67889, TheDaniMan	20	5	25
+326385	4	0	Brown (5 Suits)	2020-10-23 — 08:35:34 UTC	ebin_noob, Fey, jack67889, TheDaniMan	37	5	25
+326382	3	25	Black (5 Suits)	2020-10-23 — 08:25:26 UTC	Fey, jack67889, robense	135	5	25
+326005	4	20	Rainbow & Prism (4 Suits)	2020-10-22 — 21:30:26 UTC	jack67889, newduke, Pepepe, wump	7	4	20
+325996	4	17	Rainbow & Prism (4 Suits)	2020-10-22 — 21:02:22 UTC	jack67889, newduke, Pepepe, wump	8	4	20
+325985	3	0	Brown (5 Suits)	2020-10-22 — 20:35:14 UTC	jack67889, Veexliat, wump	82	5	25
+325970	3	0	Prism (5 Suits)	2020-10-22 — 20:14:08 UTC	angel-a, jack67889, wump	82	5	25
 325963	4	0	Prism (5 Suits)	2020-10-22 — 20:04:43 UTC	angel-a, jack67889, VerySloppyTwo, wump	5	5	25
-325953	4	23	Prism (5 Suits)	2020-10-22 — 19:55:24 UTC	angel-a, jack67889, VerySloppyTwo, wump	9	5	25
-325934	4	0	Prism (5 Suits)	2020-10-22 — 19:36:12 UTC	angel-a, jack67889, VerySloppyTwo, wump	10	5	25
+325953	4	23	Prism (5 Suits)	2020-10-22 — 19:55:24 UTC	angel-a, jack67889, VerySloppyTwo, wump	10	5	25
+325934	4	0	Prism (5 Suits)	2020-10-22 — 19:36:12 UTC	angel-a, jack67889, VerySloppyTwo, wump	12	5	25
 325730	4	23	Rainbow & Dark Pink (5 Suits)	2020-10-22 — 12:40:47 UTC	jack67889, MarkusKahlsen, TimeHoodie, Zakisan	4	5	25
 325717	4	0	Rainbow & Dark Pink (5 Suits)	2020-10-22 — 12:10:53 UTC	jack67889, MarkusKahlsen, TimeHoodie, Zakisan	5	5	25
 325715	4	0	Rainbow & Dark Pink (5 Suits)	2020-10-22 — 11:53:42 UTC	jack67889, MarkusKahlsen, TimeHoodie, Zakisan	6	5	25
 325712	4	30	Light Pink (6 Suits)	2020-10-22 — 11:20:38 UTC	jack67889, MarkusKahlsen, TimeHoodie, Wittvector	13	6	30
 325705	3	25	Muddy Rainbow (5 Suits)	2020-10-22 — 09:57:07 UTC	Carunty, jack67889, sin_faith	8	5	25
-325702	2	18	4 Suits	2020-10-22 — 09:31:38 UTC	Carunty, jack67889	128	4	20
-325699	2	19	4 Suits	2020-10-22 — 09:18:42 UTC	Carunty, jack67889	171	4	20
-325698	4	0	No Variant	2020-10-22 — 08:57:51 UTC	Carunty, catula, jack67889, orucsoraihc	326	5	25
+325702	2	18	4 Suits	2020-10-22 — 09:31:38 UTC	Carunty, jack67889	134	4	20
+325699	2	19	4 Suits	2020-10-22 — 09:18:42 UTC	Carunty, jack67889	177	4	20
+325698	4	0	No Variant	2020-10-22 — 08:57:51 UTC	Carunty, catula, jack67889, orucsoraihc	330	5	25
 325046	3	30	Muddy Rainbow (6 Suits)	2020-10-21 — 15:14:32 UTC	Floriman, jack67889, Kyle	3	6	30
 325023	4	30	6 Suits	2020-10-21 — 12:37:46 UTC	asaelr, Feich59, jack67889, Zakisan	9	6	30
 325018	3	25	Rainbow & Prism (5 Suits)	2020-10-21 — 12:04:20 UTC	jack67889, rachyrules, TimeHoodie	12	5	25
-325016	3	0	Rainbow & Prism (5 Suits)	2020-10-21 — 11:43:18 UTC	jack67889, rachyrules, TimeHoodie	16	5	25
+325016	3	0	Rainbow & Prism (5 Suits)	2020-10-21 — 11:43:18 UTC	jack67889, rachyrules, TimeHoodie	17	5	25
 324722	5	29	6 Suits	2020-10-20 — 22:51:01 UTC	a_small_emu, jack67889, newduke, rz, sephiroth	54	6	30
 324673	5	0	6 Suits	2020-10-20 — 22:07:46 UTC	a_small_emu, jack67889, newduke, rz, sephiroth	69	6	30
 324649	5	26	Black (6 Suits)	2020-10-20 — 21:42:22 UTC	jack67889, newduke, Pepepe, robense, rz	24	6	30
 324609	5	0	Black (6 Suits)	2020-10-20 — 21:07:03 UTC	jack67889, Pablo-, Pepepe, rz, VerySloppyTwo	48	6	30
-324591	5	24	No Variant	2020-10-20 — 20:35:04 UTC	jack67889, ksfortson, Pablo-, pianoblook, VerySloppyTwo	92	5	25
-324578	4	24	No Variant	2020-10-20 — 20:08:54 UTC	jack67889, ksfortson, VerySloppyTwo, Zakisan	156	5	25
+324591	5	24	No Variant	2020-10-20 — 20:35:04 UTC	jack67889, ksfortson, Pablo-, pianoblook, VerySloppyTwo	93	5	25
+324578	4	24	No Variant	2020-10-20 — 20:08:54 UTC	jack67889, ksfortson, VerySloppyTwo, Zakisan	157	5	25
 324558	6	0	Brown (6 Suits)	2020-10-20 — 19:43:45 UTC	ebin_noob, honobu, jack67889, sephiroth, VerySloppyTwo, Zakisan	3	6	30
 324539	6	0	Brown (6 Suits)	2020-10-20 — 19:24:19 UTC	ebin_noob, honobu, jack67889, sephiroth, VerySloppyTwo, Zakisan	8	6	30
-324526	4	0	Brown (6 Suits)	2020-10-20 — 19:13:41 UTC	ebin_noob, honobu, jack67889, sephiroth	27	6	30
-324514	3	25	Rainbow (5 Suits)	2020-10-20 — 18:57:39 UTC	honobu, jack67889, sephiroth	50	5	25
+324526	4	0	Brown (6 Suits)	2020-10-20 — 19:13:41 UTC	ebin_noob, honobu, jack67889, sephiroth	28	6	30
+324514	3	25	Rainbow (5 Suits)	2020-10-20 — 18:57:39 UTC	honobu, jack67889, sephiroth	51	5	25
 324393	4	30	Brown-Ones & Brown (6 Suits)	2020-10-20 — 14:48:59 UTC	jack67889, melwen, Pablo-, Pepepe	2	6	30
-324370	5	25	No Variant	2020-10-20 — 12:28:04 UTC	catula, jack67889, rachyrules, sephiroth, Sucubis	30	5	25
-324366	5	0	No Variant	2020-10-20 — 12:02:14 UTC	catula, jack67889, rachyrules, sephiroth, Sucubis	35	5	25
+324370	5	25	No Variant	2020-10-20 — 12:28:04 UTC	catula, jack67889, rachyrules, sephiroth, Sucubis	31	5	25
+324366	5	0	No Variant	2020-10-20 — 12:02:14 UTC	catula, jack67889, rachyrules, sephiroth, Sucubis	36	5	25
 324363	5	0	Throw It in a Hole (5 Suits)	2020-10-20 — 11:54:10 UTC	catula, jack67889, rachyrules, sephiroth, Sucubis	3	5	25
 324361	5	0	Throw It in a Hole & Rainbow (5 Suits)	2020-10-20 — 11:44:37 UTC	catula, jack67889, rachyrules, sephiroth, Sucubis	3	5	25
 324360	4	0	Black (5 Suits)	2020-10-20 — 11:42:08 UTC	catula, jack67889, rachyrules, Sucubis	4	5	25
 324356	4	20	Black (5 Suits)	2020-10-20 — 11:27:30 UTC	catula, jack67889, rachyrules, Sucubis	4	5	25
 324349	4	0	Black (5 Suits)	2020-10-20 — 11:01:51 UTC	catula, jack67889, rachyrules, Sucubis	5	5	25
 324344	5	0	Black (6 Suits)	2020-10-20 — 10:50:16 UTC	catula, jack67889, rachyrules, StKildaFan, Sucubis	23	6	30
-324342	5	0	Black (6 Suits)	2020-10-20 — 10:45:26 UTC	catula, jack67889, rachyrules, StKildaFan, Sucubis	35	6	30
+324342	5	0	Black (6 Suits)	2020-10-20 — 10:45:26 UTC	catula, jack67889, rachyrules, StKildaFan, Sucubis	36	6	30
 324341	6	23	No Variant	2020-10-20 — 10:29:59 UTC	cockdestroyer, jack67889, Nitrate2, orucsoraihc, rachyrules, Sucubis	10	5	25
 323987	4	23	Black & Prism (5 Suits)	2020-10-19 — 22:20:35 UTC	DMoney, jack67889, scharkbite, Veexliat	10	5	25
 323976	4	0	Black & Prism (5 Suits)	2020-10-19 — 22:03:03 UTC	DMoney, jack67889, scharkbite, Veexliat	11	5	25
@@ -1399,23 +1444,23 @@
 323950	4	0	Special Mix (5 Suits)	2020-10-19 — 21:07:01 UTC	jack67889, lotem, MarkusKahlsen, timotree	16	5	25
 323942	4	0	Special Mix (5 Suits)	2020-10-19 — 20:51:56 UTC	jack67889, lotem, MarkusKahlsen, timotree	28	5	25
 323928	4	24	Gray Pink (5 Suits)	2020-10-19 — 20:29:05 UTC	jack67889, Kyle, lotem, timotree	14	5	25
-323747	3	30	Brown (6 Suits)	2020-10-19 — 16:47:42 UTC	Fey, jack67889, TimeHoodie	52	6	30
+323747	3	30	Brown (6 Suits)	2020-10-19 — 16:47:42 UTC	Fey, jack67889, TimeHoodie	53	6	30
 323735	3	29	Brown (6 Suits)	2020-10-19 — 16:20:47 UTC	Fey, jack67889, TimeHoodie	84	6	30
-323702	4	25	Prism (5 Suits)	2020-10-19 — 14:56:04 UTC	jack67889, Pepepe, TimeHoodie, Wittvector	47	5	25
+323702	4	25	Prism (5 Suits)	2020-10-19 — 14:56:04 UTC	jack67889, Pepepe, TimeHoodie, Wittvector	48	5	25
 323685	4	21	Dark Pink (5 Suits)	2020-10-19 — 14:08:05 UTC	jack67889, melwen, Pepepe, Wittvector	7	5	25
 323675	5	0	Rainbow (5 Suits)	2020-10-19 — 13:30:18 UTC	jack67889, MarkusKahlsen, Pablo-, Wittvector, Zakisan	14	5	25
 323672	6	0	Pink (5 Suits)	2020-10-19 — 12:50:12 UTC	Floriman, jack67889, MarkusKahlsen, swineherd, Wittvector, Zakisan	2	5	25
 323670	6	0	Pink (5 Suits)	2020-10-19 — 12:27:58 UTC	Floriman, jack67889, MarkusKahlsen, swineherd, Wittvector, Zakisan	3	5	25
-323660	4	27	Black (6 Suits)	2020-10-19 — 10:55:48 UTC	Floriman, jack67889, StKildaFan, Wittvector	77	6	30
-323657	4	0	Rainbow (5 Suits)	2020-10-19 — 10:26:01 UTC	catula, jack67889, StKildaFan, swineherd	68	5	25
-323655	4	0	Rainbow (5 Suits)	2020-10-19 — 10:20:41 UTC	catula, jack67889, StKildaFan, swineherd	92	5	25
+323660	4	27	Black (6 Suits)	2020-10-19 — 10:55:48 UTC	Floriman, jack67889, StKildaFan, Wittvector	81	6	30
+323657	4	0	Rainbow (5 Suits)	2020-10-19 — 10:26:01 UTC	catula, jack67889, StKildaFan, swineherd	70	5	25
+323655	4	0	Rainbow (5 Suits)	2020-10-19 — 10:20:41 UTC	catula, jack67889, StKildaFan, swineherd	93	5	25
 323649	6	0	No Variant	2020-10-19 — 09:57:33 UTC	Animex52, catula, cockdestroyer, jack67889, StKildaFan, swineherd	4	5	25
 323645	5	24	No Variant	2020-10-19 — 09:27:06 UTC	Animex52, asaelr, catula, cockdestroyer, jack67889	12	5	25
 323166	4	24	Null (5 Suits)	2020-10-18 — 21:33:41 UTC	cockdestroyer, jack67889, Nitrate2, Veexliat	14	5	25
-322425	3	0	Special Mix (5 Suits)	2020-10-17 — 21:44:04 UTC	jack67889, MarkusKahlsen, Wittvector	38	5	25
-322397	3	0	Special Mix (5 Suits)	2020-10-17 — 21:10:00 UTC	jack67889, MarkusKahlsen, Wittvector	48	5	25
+322425	3	0	Special Mix (5 Suits)	2020-10-17 — 21:44:04 UTC	jack67889, MarkusKahlsen, Wittvector	39	5	25
+322397	3	0	Special Mix (5 Suits)	2020-10-17 — 21:10:00 UTC	jack67889, MarkusKahlsen, Wittvector	50	5	25
 322393	4	0	Cocoa Rainbow (6 Suits)	2020-10-17 — 21:01:37 UTC	avanderwalde, honzas, jack67889, MarkusKahlsen	11	6	30
-322386	4	0	Cocoa Rainbow (6 Suits)	2020-10-17 — 20:49:13 UTC	avanderwalde, honzas, jack67889, MarkusKahlsen	11	6	30
+322386	4	0	Cocoa Rainbow (6 Suits)	2020-10-17 — 20:49:13 UTC	avanderwalde, honzas, jack67889, MarkusKahlsen	13	6	30
 322250	4	30	White & Prism (6 Suits)	2020-10-17 — 16:56:52 UTC	jack67889, plus, sephiroth, squirtle	6	6	30
 322238	4	0	White & Prism (6 Suits)	2020-10-17 — 16:30:26 UTC	jack67889, plus, sephiroth, squirtle	8	6	30
 322231	6	0	Pink (5 Suits)	2020-10-17 — 16:06:17 UTC	Carunty, jack67889, rz, sephiroth, swineherd, wump	3	5	25
@@ -1426,76 +1471,76 @@
 322216	5	0	Dark Rainbow (5 Suits)	2020-10-17 — 14:51:06 UTC	jack67889, sephiroth, TheDaniMan, TimeHoodie, Wittvector	10	5	25
 322212	5	0	Prism (6 Suits)	2020-10-17 — 14:14:28 UTC	Animex52, catula, jack67889, melwen, Sucubis	5	6	30
 322204	5	0	Prism (6 Suits)	2020-10-17 — 13:23:44 UTC	Animex52, catula, jack67889, melwen, Sucubis	12	6	30
-321534	5	25	No Variant	2020-10-16 — 14:19:56 UTC	jack67889, level_0, level_ofConcern, orucsoraihc, VerySloppyTwo	223	5	25
-321527	3	0	Gray (5 Suits)	2020-10-16 — 13:34:44 UTC	bulbasaur, jack67889, StKildaFan	35	5	25
-321523	3	21	Gray (5 Suits)	2020-10-16 — 13:15:52 UTC	bulbasaur, jack67889, StKildaFan	42	5	25
+321534	5	25	No Variant	2020-10-16 — 14:19:56 UTC	jack67889, level_0, level_ofConcern, orucsoraihc, VerySloppyTwo	226	5	25
+321527	3	0	Gray (5 Suits)	2020-10-16 — 13:34:44 UTC	bulbasaur, jack67889, StKildaFan	36	5	25
+321523	3	21	Gray (5 Suits)	2020-10-16 — 13:15:52 UTC	bulbasaur, jack67889, StKildaFan	44	5	25
 321491	6	25	No Variant	2020-10-16 — 10:26:49 UTC	ebin_noob, jack67889, methmatics, squirtle, Veexliat, Wittvector	11	5	25
-321488	4	25	No Variant	2020-10-16 — 09:56:36 UTC	ebin_noob, jack67889, methmatics, Wittvector	70	5	25
-321486	3	22	No Variant	2020-10-16 — 09:30:16 UTC	ebin_noob, jack67889, methmatics	199	5	25
+321488	4	25	No Variant	2020-10-16 — 09:56:36 UTC	ebin_noob, jack67889, methmatics, Wittvector	71	5	25
+321486	3	22	No Variant	2020-10-16 — 09:30:16 UTC	ebin_noob, jack67889, methmatics	202	5	25
 320874	4	23	Pink & Prism (5 Suits)	2020-10-15 — 15:09:32 UTC	jack67889, TheDaniMan, Veexliat, Wittvector	5	5	25
 320871	4	0	Pink & Prism (5 Suits)	2020-10-15 — 14:47:13 UTC	jack67889, TheDaniMan, Veexliat, Wittvector	8	5	25
 320865	6	0	Black & Light Pink (6 Suits)	2020-10-15 — 14:38:01 UTC	jack67889, TheDaniMan, TimeHoodie, will.i.am, Wittvector, Zakisan	2	6	30
 320864	6	0	Black & Light Pink (6 Suits)	2020-10-15 — 14:34:03 UTC	jack67889, TheDaniMan, TimeHoodie, will.i.am, Wittvector, Zakisan	2	6	30
 320863	3	25	Pink-Ones (5 Suits)	2020-10-15 — 14:14:58 UTC	jack67889, melwen, TimeHoodie	1	5	25
-320860	3	0	Pink-Ones (5 Suits)	2020-10-15 — 13:47:44 UTC	jack67889, melwen, TimeHoodie	1	5	25
+320860	3	0	Pink-Ones (5 Suits)	2020-10-15 — 13:47:44 UTC	jack67889, melwen, TimeHoodie	2	5	25
 320847	5	24	Pink (5 Suits)	2020-10-15 — 13:08:19 UTC	catula, jack67889, melwen, MKQ, StKildaFan	5	5	25
 320840	4	20	Throw It in a Hole (4 Suits)	2020-10-15 — 12:15:54 UTC	catula, jack67889, sephiroth, Sucubis	4	4	20
 320835	4	0	Throw It in a Hole (4 Suits)	2020-10-15 — 11:52:23 UTC	catula, jack67889, sephiroth, Sucubis	5	4	20
 320821	4	24	Special Mix (5 Suits)	2020-10-15 — 10:19:06 UTC	asaelr, jack67889, level_17, robense	18	5	25
 320816	4	0	Special Mix (5 Suits)	2020-10-15 — 09:46:52 UTC	asaelr, jack67889, level_17, robense	39	5	25
 320813	4	30	Muddy Rainbow (6 Suits)	2020-10-15 — 09:24:36 UTC	asaelr, jack67889, methmatics, robense	19	6	30
-320807	4	30	Pink (6 Suits)	2020-10-15 — 08:36:59 UTC	catula, jack67889, methmatics, sephiroth	54	6	30
+320807	4	30	Pink (6 Suits)	2020-10-15 — 08:36:59 UTC	catula, jack67889, methmatics, sephiroth	55	6	30
 320280	3	25	Extremely Ambiguous (5 Suits)	2020-10-14 — 16:09:07 UTC	asaelr, jack67889, Kyle	5	5	25
 320272	3	0	Extremely Ambiguous (5 Suits)	2020-10-14 — 15:49:51 UTC	asaelr, jack67889, Kyle	5	5	25
 320266	3	24	Extremely Ambiguous (5 Suits)	2020-10-14 — 15:32:32 UTC	asaelr, jack67889, Kyle	10	5	25
 320264	2	0	Extremely Ambiguous (5 Suits)	2020-10-14 — 15:19:04 UTC	asaelr, jack67889	7	5	25
 320261	4	29	Rainbow-Ones (6 Suits)	2020-10-14 — 15:01:36 UTC	jack67889, Pepepe, Sucubis, TimeHoodie	15	6	30
 320250	5	30	Brown (6 Suits)	2020-10-14 — 14:16:26 UTC	jack67889, Pepepe, Sucubis, TimeHoodie, Wittvector	8	6	30
-320245	3	20	Rainbow (4 Suits)	2020-10-14 — 13:35:39 UTC	Feich59, jack67889, Wittvector	46	4	20
-320241	3	18	Rainbow (4 Suits)	2020-10-14 — 13:01:32 UTC	Feich59, jack67889, Wittvector	68	4	20
-320234	3	0	Rainbow (4 Suits)	2020-10-14 — 12:30:58 UTC	Feich59, jack67889, Wittvector	84	4	20
+320245	3	20	Rainbow (4 Suits)	2020-10-14 — 13:35:39 UTC	Feich59, jack67889, Wittvector	48	4	20
+320241	3	18	Rainbow (4 Suits)	2020-10-14 — 13:01:32 UTC	Feich59, jack67889, Wittvector	69	4	20
+320234	3	0	Rainbow (4 Suits)	2020-10-14 — 12:30:58 UTC	Feich59, jack67889, Wittvector	85	4	20
 320218	5	0	Rainbow (5 Suits)	2020-10-14 — 11:16:02 UTC	jack67889, MKQ, Pablo-, Pepepe, StKildaFan	14	5	25
-320215	3	0	Rainbow (5 Suits)	2020-10-14 — 10:33:56 UTC	jack67889, Pepepe, StKildaFan	57	5	25
-320212	3	0	Rainbow (5 Suits)	2020-10-14 — 10:05:24 UTC	jack67889, Pepepe, StKildaFan	56	5	25
+320215	3	0	Rainbow (5 Suits)	2020-10-14 — 10:33:56 UTC	jack67889, Pepepe, StKildaFan	59	5	25
+320212	3	0	Rainbow (5 Suits)	2020-10-14 — 10:05:24 UTC	jack67889, Pepepe, StKildaFan	57	5	25
 320210	3	0	Rainbow (5 Suits)	2020-10-14 — 09:46:20 UTC	jack67889, Pepepe, StKildaFan	74	5	25
-320205	3	25	White (5 Suits)	2020-10-14 — 09:00:04 UTC	asaelr, jack67889, timotree	9	5	25
+320205	3	25	White (5 Suits)	2020-10-14 — 09:00:04 UTC	asaelr, jack67889, timotree	10	5	25
 320203	3	0	White (5 Suits)	2020-10-14 — 08:38:05 UTC	asaelr, jack67889, timotree	10	5	25
 319797	6	18	No Variant	2020-10-13 — 21:50:18 UTC	Carunty, jack67889, ksfortson, newduke, TimeHoodie, timotree	12	5	25
 319713	5	24	Rainbow-Ones & Rainbow (5 Suits)	2020-10-13 — 20:33:15 UTC	jack67889, Pablo-, Pepepe, rachyrules, sephiroth	2	5	25
 319693	5	0	Rainbow-Ones & Rainbow (5 Suits)	2020-10-13 — 20:02:01 UTC	jack67889, Pablo-, Pepepe, rachyrules, sephiroth	3	5	25
-319476	3	0	Rainbow (5 Suits)	2020-10-13 — 13:53:07 UTC	angel-a, jack67889, StKildaFan	84	5	25
-319472	3	23	Rainbow (5 Suits)	2020-10-13 — 13:32:16 UTC	angel-a, jack67889, StKildaFan	116	5	25
-319468	4	0	4 Suits	2020-10-13 — 12:52:36 UTC	cockdestroyer, IAMJEFF, jack67889, sephiroth	77	4	20
+319476	3	0	Rainbow (5 Suits)	2020-10-13 — 13:53:07 UTC	angel-a, jack67889, StKildaFan	87	5	25
+319472	3	23	Rainbow (5 Suits)	2020-10-13 — 13:32:16 UTC	angel-a, jack67889, StKildaFan	119	5	25
+319468	4	0	4 Suits	2020-10-13 — 12:52:36 UTC	cockdestroyer, IAMJEFF, jack67889, sephiroth	80	4	20
 319454	4	23	Throw It in a Hole (5 Suits)	2020-10-13 — 11:30:28 UTC	Animex52, catula, cockdestroyer, jack67889	10	5	25
 319444	5	25	Prism (5 Suits)	2020-10-13 — 10:46:08 UTC	catula, cockdestroyer, jack67889, robense, sephiroth	5	5	25
 319439	5	22	Prism (5 Suits)	2020-10-13 — 10:11:31 UTC	catula, cockdestroyer, jack67889, robense, sephiroth	8	5	25
-319435	5	0	Prism (5 Suits)	2020-10-13 — 09:46:00 UTC	Animex52, catula, cockdestroyer, jack67889, robense	13	5	25
+319435	5	0	Prism (5 Suits)	2020-10-13 — 09:46:00 UTC	Animex52, catula, cockdestroyer, jack67889, robense	14	5	25
 319433	5	0	Prism (5 Suits)	2020-10-13 — 09:41:35 UTC	Animex52, cockdestroyer, jack67889, robense, sephiroth	7	5	25
-318769	4	23	No Variant	2020-10-12 — 13:16:02 UTC	angel-a, jack67889, TimeHoodie, Wittvector	985	5	25
+318769	4	23	No Variant	2020-10-12 — 13:16:02 UTC	angel-a, jack67889, TimeHoodie, Wittvector	994	5	25
 318763	5	25	No Variant	2020-10-12 — 12:47:48 UTC	angel-a, jack67889, MarkusKahlsen, TimeHoodie, Wittvector	75	5	25
-318757	3	29	Black (6 Suits)	2020-10-12 — 12:15:52 UTC	jack67889, StKildaFan, Wittvector	149	6	30
+318757	3	29	Black (6 Suits)	2020-10-12 — 12:15:52 UTC	jack67889, StKildaFan, Wittvector	151	6	30
 318741	4	0	Throw It in a Hole (6 Suits)	2020-10-12 — 11:00:25 UTC	catula, jack67889, sephiroth, sin_faith	15	6	30
-318735	2	25	Rainbow (5 Suits)	2020-10-12 — 09:56:59 UTC	jack67889, rachyrules	248	5	25
+318735	2	25	Rainbow (5 Suits)	2020-10-12 — 09:56:59 UTC	jack67889, rachyrules	257	5	25
 318181	5	0	Muddy Rainbow (6 Suits)	2020-10-11 — 18:17:22 UTC	DMoney, jack67889, newduke, TheDaniMan, TimeHoodie	11	6	30
 318144	5	24	Brown-Fives (5 Suits)	2020-10-11 — 16:06:02 UTC	jack67889, newduke, Pepepe, rachyrules, TimeHoodie	4	5	25
-318130	3	0	Brown-Fives (5 Suits)	2020-10-11 — 15:38:18 UTC	jack67889, newduke, Pepepe	4	5	25
-318125	3	0	Brown-Fives (5 Suits)	2020-10-11 — 15:21:43 UTC	jack67889, newduke, Pepepe	5	5	25
-318085	4	24	Throw It in a Hole (5 Suits)	2020-10-11 — 11:44:28 UTC	catula, cockdestroyer, jack67889, Nitrate2	20	5	25
-317627	3	27	Cocoa Rainbow (6 Suits)	2020-10-10 — 23:23:53 UTC	jack67889, rachyrules, timotree	32	6	30
+318130	3	0	Brown-Fives (5 Suits)	2020-10-11 — 15:38:18 UTC	jack67889, newduke, Pepepe	5	5	25
+318125	3	0	Brown-Fives (5 Suits)	2020-10-11 — 15:21:43 UTC	jack67889, newduke, Pepepe	6	5	25
+318085	4	24	Throw It in a Hole (5 Suits)	2020-10-11 — 11:44:28 UTC	catula, cockdestroyer, jack67889, Nitrate2	21	5	25
+317627	3	27	Cocoa Rainbow (6 Suits)	2020-10-10 — 23:23:53 UTC	jack67889, rachyrules, timotree	33	6	30
 317586	5	0	Cocoa Rainbow (6 Suits)	2020-10-10 — 22:32:03 UTC	jack67889, MarkusKahlsen, rachyrules, Rubix, timotree	9	6	30
-316694	3	24	Rainbow & Light Pink (5 Suits)	2020-10-09 — 20:40:52 UTC	jack67889, scharkbite, wortel	6	5	25
+316694	3	24	Rainbow & Light Pink (5 Suits)	2020-10-09 — 20:40:52 UTC	jack67889, scharkbite, wortel	7	5	25
 316672	6	0	Dark Rainbow (5 Suits)	2020-10-09 — 20:00:20 UTC	jack67889, Kyle, scharkbite, sephiroth, TimeHoodie, wortel	2	5	25
-316514	4	28	Cocoa Rainbow (6 Suits)	2020-10-09 — 14:30:30 UTC	chriswck, DMoney, jack67889, TimeHoodie	14	6	30
+316514	4	28	Cocoa Rainbow (6 Suits)	2020-10-09 — 14:30:30 UTC	chriswck, DMoney, jack67889, TimeHoodie	15	6	30
 316503	4	25	Gray (5 Suits)	2020-10-09 — 13:49:15 UTC	catula, jack67889, sephiroth, StKildaFan	27	5	25
-316501	3	0	Gray (5 Suits)	2020-10-09 — 13:23:58 UTC	catula, jack67889, sephiroth	37	5	25
-316499	3	30	Gray (6 Suits)	2020-10-09 — 13:14:38 UTC	jack67889, TimeHoodie, Wittvector	20	6	30
-316470	4	0	Black (6 Suits)	2020-10-09 — 11:01:24 UTC	catula, jack67889, MarkusKahlsen, TimeHoodie	64	6	30
+316501	3	0	Gray (5 Suits)	2020-10-09 — 13:23:58 UTC	catula, jack67889, sephiroth	39	5	25
+316499	3	30	Gray (6 Suits)	2020-10-09 — 13:14:38 UTC	jack67889, TimeHoodie, Wittvector	21	6	30
+316470	4	0	Black (6 Suits)	2020-10-09 — 11:01:24 UTC	catula, jack67889, MarkusKahlsen, TimeHoodie	66	6	30
 316443	6	0	Black (6 Suits)	2020-10-09 — 10:15:26 UTC	asaelr, catula, jack67889, kodomazer, sephiroth, TimeHoodie	3	6	30
 316442	5	25	No Variant	2020-10-09 — 09:49:38 UTC	asaelr, catula, jack67889, kodomazer, TimeHoodie	14	5	25
 316439	6	0	No Variant	2020-10-09 — 09:22:21 UTC	asaelr, catula, cockdestroyer, jack67889, kodomazer, TimeHoodie	5	5	25
 316437	6	0	No Variant	2020-10-09 — 09:14:30 UTC	asaelr, catula, cockdestroyer, jack67889, kodomazer, TimeHoodie	5	5	25
 316436	4	25	No Variant	2020-10-09 — 09:03:30 UTC	cockdestroyer, jack67889, kodomazer, TimeHoodie	74	5	25
-316433	3	22	No Variant	2020-10-09 — 08:30:51 UTC	jack67889, kodomazer, TimeHoodie	49	5	25
+316433	3	22	No Variant	2020-10-09 — 08:30:51 UTC	jack67889, kodomazer, TimeHoodie	51	5	25
 315838	3	24	Dark Omni (5 Suits)	2020-10-08 — 17:01:42 UTC	anser, jack67889, vEnhance	8	5	25
 315827	3	21	Dark Omni (5 Suits)	2020-10-08 — 16:42:11 UTC	anser, jack67889, vEnhance	12	5	25
 315823	3	24	Dark Omni (5 Suits)	2020-10-08 — 16:21:42 UTC	anser, jack67889, vEnhance	13	5	25
@@ -1513,69 +1558,69 @@
 314949	5	0	Brown (6 Suits)	2020-10-07 — 14:41:57 UTC	Bonja97, cockdestroyer, Floriman, jack67889, swineherd	12	6	30
 314924	6	28	Dark Prism (6 Suits)	2020-10-07 — 14:03:03 UTC	Bonja97, cockdestroyer, Floriman, jack67889, Nitrate2, StKildaFan	4	6	30
 314898	4	24	Black (5 Suits)	2020-10-07 — 13:22:27 UTC	asaelr, Bonja97, cockdestroyer, jack67889	3	5	25
-314883	4	25	No Variant	2020-10-07 — 12:49:21 UTC	asaelr, catula, cockdestroyer, jack67889	13	5	25
-314842	2	25	No Variant	2020-10-07 — 09:56:50 UTC	jack67889, Veexliat	1206	5	25
-314839	2	23	No Variant	2020-10-07 — 09:24:50 UTC	jack67889, Veexliat	1249	5	25
-314272	5	0	Prism (6 Suits)	2020-10-06 — 14:24:55 UTC	Bonja97, cockdestroyer, jack67889, melwen, Nitrate2	17	6	30
+314883	4	25	No Variant	2020-10-07 — 12:49:21 UTC	asaelr, catula, cockdestroyer, jack67889	14	5	25
+314842	2	25	No Variant	2020-10-07 — 09:56:50 UTC	jack67889, Veexliat	1219	5	25
+314839	2	23	No Variant	2020-10-07 — 09:24:50 UTC	jack67889, Veexliat	1263	5	25
+314272	5	0	Prism (6 Suits)	2020-10-06 — 14:24:55 UTC	Bonja97, cockdestroyer, jack67889, melwen, Nitrate2	18	6	30
 314262	6	25	Brown (5 Suits)	2020-10-06 — 13:51:32 UTC	Bonja97, cockdestroyer, jack67889, melwen, Nitrate2, TheDaniMan	2	5	25
-314252	4	30	Dark Pink (6 Suits)	2020-10-06 — 13:17:01 UTC	Bonja97, cockdestroyer, jack67889, TheDaniMan	7	6	30
-314243	4	0	Dark Pink (6 Suits)	2020-10-06 — 12:57:20 UTC	Bonja97, cockdestroyer, jack67889, TheDaniMan	11	6	30
+314252	4	30	Dark Pink (6 Suits)	2020-10-06 — 13:17:01 UTC	Bonja97, cockdestroyer, jack67889, TheDaniMan	8	6	30
+314243	4	0	Dark Pink (6 Suits)	2020-10-06 — 12:57:20 UTC	Bonja97, cockdestroyer, jack67889, TheDaniMan	12	6	30
 314226	6	29	Brown (6 Suits)	2020-10-06 — 12:39:40 UTC	Animex52, catula, cockdestroyer, jack67889, rachyrules, sephiroth	10	6	30
 314214	6	25	No Variant	2020-10-06 — 11:40:17 UTC	Animex52, asaelr, catula, cockdestroyer, jack67889, Sucubis	8	5	25
 313711	4	24	Rainbow (5 Suits)	2020-10-05 — 21:25:01 UTC	jack67889, MarkusKahlsen, orucsoraihc, sephiroth	63	5	25
 313654	3	0	Rainbow (5 Suits)	2020-10-05 — 20:47:21 UTC	jack67889, orucsoraihc, Veexliat	135	5	25
-313401	3	15	3 Suits	2020-10-05 — 16:20:00 UTC	jack67889, rachyrules, Veexliat	115	3	15
-313395	3	0	3 Suits	2020-10-05 — 16:08:14 UTC	jack67889, rachyrules, Veexliat	144	3	15
+313401	3	15	3 Suits	2020-10-05 — 16:20:00 UTC	jack67889, rachyrules, Veexliat	116	3	15
+313395	3	0	3 Suits	2020-10-05 — 16:08:14 UTC	jack67889, rachyrules, Veexliat	146	3	15
 313376	3	29	Brown (6 Suits)	2020-10-05 — 14:14:29 UTC	jack67889, melwen, TimeHoodie	61	6	30
 313366	5	0	Pink (6 Suits)	2020-10-05 — 13:44:00 UTC	cockdestroyer, jack67889, melwen, Nitrate2, sephiroth	8	6	30
-313362	4	23	No Variant	2020-10-05 — 13:18:59 UTC	cockdestroyer, jack67889, Nitrate2, sephiroth	308	5	25
-313356	5	24	Brown (5 Suits)	2020-10-05 — 11:31:28 UTC	asaelr, catula, jack67889, Pablo-, Veexliat	17	5	25
+313362	4	23	No Variant	2020-10-05 — 13:18:59 UTC	cockdestroyer, jack67889, Nitrate2, sephiroth	311	5	25
+313356	5	24	Brown (5 Suits)	2020-10-05 — 11:31:28 UTC	asaelr, catula, jack67889, Pablo-, Veexliat	18	5	25
 313348	5	0	Brown (5 Suits)	2020-10-05 — 10:48:38 UTC	asaelr, catula, jack67889, TimeHoodie, Veexliat	3	5	25
-313345	4	25	No Variant	2020-10-05 — 10:04:31 UTC	catula, jack67889, rachyrules, sephiroth	125	5	25
-313343	4	0	Dark Rainbow (6 Suits)	2020-10-05 — 09:19:34 UTC	jack67889, rachyrules, robense, sephiroth	41	6	30
-313341	3	25	Black (5 Suits)	2020-10-05 — 08:42:06 UTC	hughjanus, jack67889, sephiroth	171	5	25
+313345	4	25	No Variant	2020-10-05 — 10:04:31 UTC	catula, jack67889, rachyrules, sephiroth	126	5	25
+313343	4	0	Dark Rainbow (6 Suits)	2020-10-05 — 09:19:34 UTC	jack67889, rachyrules, robense, sephiroth	42	6	30
+313341	3	25	Black (5 Suits)	2020-10-05 — 08:42:06 UTC	hughjanus, jack67889, sephiroth	174	5	25
 311877	4	0	Dark Omni (5 Suits)	2020-10-03 — 15:11:49 UTC	cockdestroyer, jack67889, Nitrate2, vEnhance	7	5	25
 311861	4	22	Dark Omni (5 Suits)	2020-10-03 — 14:42:12 UTC	cockdestroyer, jack67889, Nitrate2, vEnhance	7	5	25
 311853	4	0	Dark Omni (5 Suits)	2020-10-03 — 14:22:47 UTC	cockdestroyer, jack67889, Nitrate2, vEnhance	9	5	25
 311850	4	0	Dark Omni (5 Suits)	2020-10-03 — 14:19:03 UTC	cockdestroyer, jack67889, Nitrate2, vEnhance	15	5	25
 311812	6	0	Pink (5 Suits)	2020-10-03 — 11:52:08 UTC	catula, cockdestroyer, jack67889, nitawa, Pablo-, sephiroth	9	5	25
 311802	5	22	Omni (5 Suits)	2020-10-03 — 11:17:32 UTC	catula, cockdestroyer, jack67889, nitawa, Sucubis	11	5	25
-311206	4	0	Rainbow (6 Suits)	2020-10-02 — 20:21:51 UTC	jack67889, nitawa, Pepepe, Veexliat	275	6	30
+311206	4	0	Rainbow (6 Suits)	2020-10-02 — 20:21:51 UTC	jack67889, nitawa, Pepepe, Veexliat	280	6	30
 311181	5	24	Rainbow (5 Suits)	2020-10-02 — 19:48:52 UTC	jack67889, newduke, Pepepe, swineherd, TheDaniMan	12	5	25
 311165	5	0	Rainbow (5 Suits)	2020-10-02 — 19:22:47 UTC	jack67889, newduke, Pepepe, swineherd, TheDaniMan	13	5	25
 311157	6	0	Rainbow (5 Suits)	2020-10-02 — 19:07:32 UTC	jack67889, Kyle, newduke, Pepepe, swineherd, TheDaniMan	5	5	25
 311145	6	24	Rainbow (5 Suits)	2020-10-02 — 18:47:17 UTC	jack67889, Kyle, newduke, Pepepe, swineherd, TheDaniMan	9	5	25
-311125	4	0	Black (6 Suits)	2020-10-02 — 18:08:04 UTC	ejwu, emilyzhao, jack67889, swineherd	71	6	30
-311113	4	0	Black (6 Suits)	2020-10-02 — 17:51:14 UTC	ejwu, emilyzhao, jack67889, swineherd	74	6	30
-311101	4	0	Black (6 Suits)	2020-10-02 — 17:38:42 UTC	ejwu, emilyzhao, jack67889, swineherd	112	6	30
+311125	4	0	Black (6 Suits)	2020-10-02 — 18:08:04 UTC	ejwu, emilyzhao, jack67889, swineherd	73	6	30
+311113	4	0	Black (6 Suits)	2020-10-02 — 17:51:14 UTC	ejwu, emilyzhao, jack67889, swineherd	76	6	30
+311101	4	0	Black (6 Suits)	2020-10-02 — 17:38:42 UTC	ejwu, emilyzhao, jack67889, swineherd	113	6	30
 311045	4	0	Black (5 Suits)	2020-10-02 — 15:23:10 UTC	cockdestroyer, jack67889, Sucubis, vEnhance	21	5	25
 311038	4	0	Black (5 Suits)	2020-10-02 — 14:41:56 UTC	cockdestroyer, jack67889, Sucubis, vEnhance	22	5	25
-311037	4	0	Black (5 Suits)	2020-10-02 — 14:32:43 UTC	cockdestroyer, jack67889, Sucubis, vEnhance	41	5	25
+311037	4	0	Black (5 Suits)	2020-10-02 — 14:32:43 UTC	cockdestroyer, jack67889, Sucubis, vEnhance	42	5	25
 311035	6	0	Black (6 Suits)	2020-10-02 — 14:18:16 UTC	catula, cockdestroyer, jack67889, StKildaFan, Sucubis, vEnhance	28	6	30
 311033	6	28	Black (6 Suits)	2020-10-02 — 14:03:25 UTC	catula, cockdestroyer, jack67889, StKildaFan, Sucubis, vEnhance	38	6	30
-311023	3	26	Black (6 Suits)	2020-10-02 — 13:10:35 UTC	catula, cockdestroyer, jack67889	213	6	30
-310987	5	26	Black (6 Suits)	2020-10-02 — 12:16:21 UTC	catula, cockdestroyer, jack67889, TimeHoodie, Veexliat	72	6	30
+311023	3	26	Black (6 Suits)	2020-10-02 — 13:10:35 UTC	catula, cockdestroyer, jack67889	214	6	30
+310987	5	26	Black (6 Suits)	2020-10-02 — 12:16:21 UTC	catula, cockdestroyer, jack67889, TimeHoodie, Veexliat	74	6	30
 310953	6	24	No Variant	2020-10-02 — 10:29:19 UTC	cockdestroyer, jack67889, StKildaFan, TimeHoodie, Tiramisu1th, Veexliat	29	5	25
-310950	3	25	No Variant	2020-10-02 — 10:02:20 UTC	catula, jack67889, Veexliat	1636	5	25
-310658	2	25	Muddy Rainbow (5 Suits)	2020-10-01 — 21:09:42 UTC	jack67889, Kyle	31	5	25
-310651	2	0	Muddy Rainbow (5 Suits)	2020-10-01 — 20:56:18 UTC	jack67889, Kyle	34	5	25
+310950	3	25	No Variant	2020-10-02 — 10:02:20 UTC	catula, jack67889, Veexliat	1651	5	25
+310658	2	25	Muddy Rainbow (5 Suits)	2020-10-01 — 21:09:42 UTC	jack67889, Kyle	32	5	25
+310651	2	0	Muddy Rainbow (5 Suits)	2020-10-01 — 20:56:18 UTC	jack67889, Kyle	36	5	25
 310494	4	21	Dark Omni (5 Suits)	2020-10-01 — 16:33:41 UTC	anser, jack67889, Kyle, sin_faith	4	5	25
 310480	4	0	Dark Omni (5 Suits)	2020-10-01 — 16:10:31 UTC	anser, jack67889, Kyle, sin_faith	4	5	25
 310479	4	23	Dark Omni (5 Suits)	2020-10-01 — 16:10:23 UTC	anser, jack67889, Kyle, sin_faith	5	5	25
 310467	4	0	Dark Omni (5 Suits)	2020-10-01 — 15:52:15 UTC	anser, jack67889, Kyle, sin_faith	7	5	25
 310459	3	27	Pink (6 Suits)	2020-10-01 — 15:36:45 UTC	cockdestroyer, jack67889, Tiramisu1th	11	6	30
-310447	4	25	No Variant	2020-10-01 — 14:43:06 UTC	cockdestroyer, jack67889, robense, Tiramisu1th	82	5	25
-310439	6	24	No Variant	2020-10-01 — 14:04:29 UTC	catula, cockdestroyer, jack67889, sephiroth, StKildaFan, vEnhance	8	5	25
+310447	4	25	No Variant	2020-10-01 — 14:43:06 UTC	cockdestroyer, jack67889, robense, Tiramisu1th	84	5	25
+310439	6	24	No Variant	2020-10-01 — 14:04:29 UTC	catula, cockdestroyer, jack67889, sephiroth, StKildaFan, vEnhance	9	5	25
 310411	6	24	No Variant	2020-10-01 — 11:06:52 UTC	catula, cockdestroyer, jack67889, Nitrate2, Sucubis, TimeHoodie	8	5	25
-310409	4	23	Dark Prism (5 Suits)	2020-10-01 — 10:35:46 UTC	cockdestroyer, jack67889, Nitrate2, TimeHoodie	4	5	25
-310402	4	21	Dark Prism (5 Suits)	2020-10-01 — 10:07:01 UTC	cockdestroyer, jack67889, Nitrate2, TimeHoodie	5	5	25
+310409	4	23	Dark Prism (5 Suits)	2020-10-01 — 10:35:46 UTC	cockdestroyer, jack67889, Nitrate2, TimeHoodie	5	5	25
+310402	4	21	Dark Prism (5 Suits)	2020-10-01 — 10:07:01 UTC	cockdestroyer, jack67889, Nitrate2, TimeHoodie	6	5	25
 310399	4	0	Black & Muddy Rainbow (5 Suits)	2020-10-01 — 09:36:36 UTC	Dr_Kakashi, jack67889, Nitrate2, TimeHoodie	8	5	25
-310397	3	30	Prism (6 Suits)	2020-10-01 — 09:17:35 UTC	Dr_Kakashi, jack67889, TimeHoodie	45	6	30
+310397	3	30	Prism (6 Suits)	2020-10-01 — 09:17:35 UTC	Dr_Kakashi, jack67889, TimeHoodie	46	6	30
 309674	3	24	Muddy Rainbow (5 Suits)	2020-09-30 — 15:00:46 UTC	jack67889, melwen, Nitrate2	8	5	25
 309671	3	24	Muddy Rainbow (5 Suits)	2020-09-30 — 14:18:19 UTC	jack67889, melwen, Nitrate2	22	5	25
-309665	4	25	Gray (6 Suits)	2020-09-30 — 13:48:53 UTC	jack67889, Nitrate2, TheDaniMan, TimeHoodie	18	6	30
-309621	2	0	6 Suits	2020-09-30 — 09:06:06 UTC	jack67889, TimeHoodie	666	6	30
-309619	2	28	6 Suits	2020-09-30 — 08:49:29 UTC	jack67889, TimeHoodie	851	6	30
+309665	4	25	Gray (6 Suits)	2020-09-30 — 13:48:53 UTC	jack67889, Nitrate2, TheDaniMan, TimeHoodie	19	6	30
+309621	2	0	6 Suits	2020-09-30 — 09:06:06 UTC	jack67889, TimeHoodie	675	6	30
+309619	2	28	6 Suits	2020-09-30 — 08:49:29 UTC	jack67889, TimeHoodie	862	6	30
 309277	4	22	Omni-Ones & Brown (5 Suits)	2020-09-29 — 21:31:06 UTC	jack67889, kevincaseytdk1, newduke, robense	1	5	25
 309256	4	0	Omni-Ones & Brown (5 Suits)	2020-09-29 — 21:01:54 UTC	jack67889, kevincaseytdk1, newduke, robense	1	5	25
 309238	3	0	Omni-Ones & Brown (5 Suits)	2020-09-29 — 20:46:35 UTC	jack67889, newduke, robense	3	5	25
@@ -1593,41 +1638,41 @@
 309049	3	0	Muddy Rainbow (5 Suits)	2020-09-29 — 13:28:05 UTC	Feich59, jack67889, rachyrules	37	5	25
 309045	3	0	Muddy Rainbow (5 Suits)	2020-09-29 — 12:46:40 UTC	Feich59, jack67889, rachyrules	46	5	25
 309038	5	25	No Variant	2020-09-29 — 12:22:13 UTC	asaelr, Feich59, jack67889, nitawa, orucsoraihc	13	5	25
-309025	3	23	Rainbow (5 Suits)	2020-09-29 — 10:45:01 UTC	jack67889, level_17, level_ofConcern	185	5	25
-309019	3	0	No Variant	2020-09-29 — 09:42:19 UTC	examine, jack67889, StKildaFan	98	5	25
-309016	4	22	No Variant	2020-09-29 — 08:54:25 UTC	examine, jack67889, Pablo-, StKildaFan	243	5	25
+309025	3	23	Rainbow (5 Suits)	2020-09-29 — 10:45:01 UTC	jack67889, level_17, level_ofConcern	186	5	25
+309019	3	0	No Variant	2020-09-29 — 09:42:19 UTC	examine, jack67889, StKildaFan	102	5	25
+309016	4	22	No Variant	2020-09-29 — 08:54:25 UTC	examine, jack67889, Pablo-, StKildaFan	245	5	25
 308317	6	0	Brown (5 Suits)	2020-09-28 — 15:02:20 UTC	cockdestroyer, jack67889, lotem, melwen, Nitrate2, sin_faith	2	5	25
 308314	6	0	Brown (5 Suits)	2020-09-28 — 14:24:20 UTC	cockdestroyer, jack67889, melwen, Nitrate2, sephiroth, sin_faith	8	5	25
 308291	5	23	Brown (5 Suits)	2020-09-28 — 13:44:11 UTC	cockdestroyer, jack67889, rachyrules, sephiroth, swineherd	7	5	25
-308273	5	25	No Variant	2020-09-28 — 13:04:44 UTC	cockdestroyer, jack67889, nitawa, rachyrules, sephiroth	457	5	25
+308273	5	25	No Variant	2020-09-28 — 13:04:44 UTC	cockdestroyer, jack67889, nitawa, rachyrules, sephiroth	461	5	25
 308263	6	24	No Variant	2020-09-28 — 12:30:00 UTC	cockdestroyer, derekcheah, jack67889, Nitrate2, sephiroth, swineherd	8	5	25
 308260	6	0	No Variant	2020-09-28 — 11:57:32 UTC	catula, chriswck, cockdestroyer, jack67889, Nitrate2, StKildaFan	19	5	25
-308258	6	24	No Variant	2020-09-28 — 11:34:11 UTC	catula, chriswck, cockdestroyer, jack67889, Nitrate2, StKildaFan	115	5	25
-307632	3	25	Black (5 Suits)	2020-09-27 — 15:41:46 UTC	DMoney, jack67889, Puzzle	74	5	25
+308258	6	24	No Variant	2020-09-28 — 11:34:11 UTC	catula, chriswck, cockdestroyer, jack67889, Nitrate2, StKildaFan	118	5	25
+307632	3	25	Black (5 Suits)	2020-09-27 — 15:41:46 UTC	DMoney, jack67889, Puzzle	76	5	25
 307627	3	0	Black (5 Suits)	2020-09-27 — 15:22:10 UTC	DMoney, jack67889, Puzzle	84	5	25
 307625	3	0	Black (5 Suits)	2020-09-27 — 15:17:31 UTC	DMoney, jack67889, Puzzle	92	5	25
-307617	4	0	Black (5 Suits)	2020-09-27 — 14:58:32 UTC	DMoney, jack67889, Puzzle, TimeHoodie	36	5	25
-307613	4	0	Black (5 Suits)	2020-09-27 — 14:32:36 UTC	jack67889, MarkusKahlsen, Puzzle, TimeHoodie	44	5	25
-307605	2	0	Black (5 Suits)	2020-09-27 — 14:08:13 UTC	jack67889, TimeHoodie	244	5	25
-307140	3	25	No Variant	2020-09-26 — 23:16:09 UTC	ejwu, jack67889, robense	30	5	25
+307617	4	0	Black (5 Suits)	2020-09-27 — 14:58:32 UTC	DMoney, jack67889, Puzzle, TimeHoodie	37	5	25
+307613	4	0	Black (5 Suits)	2020-09-27 — 14:32:36 UTC	jack67889, MarkusKahlsen, Puzzle, TimeHoodie	47	5	25
+307605	2	0	Black (5 Suits)	2020-09-27 — 14:08:13 UTC	jack67889, TimeHoodie	250	5	25
+307140	3	25	No Variant	2020-09-26 — 23:16:09 UTC	ejwu, jack67889, robense	33	5	25
 307106	6	0	Rainbow (5 Suits)	2020-09-26 — 22:25:13 UTC	Animex52, ejwu, IsabeltheCat, jack67889, rachyrules, robense	8	5	25
 307079	4	30	Gray (6 Suits)	2020-09-26 — 21:51:35 UTC	DMoney, ejwu, jack67889, TimeHoodie	15	6	30
-307060	3	0	Gray (6 Suits)	2020-09-26 — 21:21:40 UTC	DMoney, ejwu, jack67889	42	6	30
-307058	3	0	Gray (6 Suits)	2020-09-26 — 21:21:03 UTC	DMoney, ejwu, jack67889	45	6	30
-307055	3	0	Gray (6 Suits)	2020-09-26 — 21:12:35 UTC	DMoney, ejwu, jack67889	48	6	30
+307060	3	0	Gray (6 Suits)	2020-09-26 — 21:21:40 UTC	DMoney, ejwu, jack67889	43	6	30
+307058	3	0	Gray (6 Suits)	2020-09-26 — 21:21:03 UTC	DMoney, ejwu, jack67889	48	6	30
+307055	3	0	Gray (6 Suits)	2020-09-26 — 21:12:35 UTC	DMoney, ejwu, jack67889	52	6	30
 305972	5	22	No Variant	2020-09-25 — 10:20:35 UTC	catula, egerdm, jack67889, Pablo-, sephiroth	44	5	25
-305952	3	24	No Variant	2020-09-25 — 09:35:19 UTC	egerdm, jack67889, Pablo-	114	5	25
-305951	3	0	No Variant	2020-09-25 — 09:09:07 UTC	egerdm, jack67889, Pablo-	121	5	25
+305952	3	24	No Variant	2020-09-25 — 09:35:19 UTC	egerdm, jack67889, Pablo-	120	5	25
+305951	3	0	No Variant	2020-09-25 — 09:09:07 UTC	egerdm, jack67889, Pablo-	127	5	25
 305950	3	25	Null (5 Suits)	2020-09-25 — 08:57:26 UTC	asaelr, jack67889, sephiroth	27	5	25
-305948	2	25	Null (5 Suits)	2020-09-25 — 08:21:36 UTC	asaelr, jack67889	101	5	25
-305347	5	0	No Variant	2020-09-24 — 13:43:25 UTC	Animex52, catula, CoxZuckrMachine, jack67889, vEnhance	28	5	25
+305948	2	25	Null (5 Suits)	2020-09-25 — 08:21:36 UTC	asaelr, jack67889	103	5	25
+305347	5	0	No Variant	2020-09-24 — 13:43:25 UTC	Animex52, catula, CoxZuckrMachine, jack67889, vEnhance	30	5	25
 305338	5	0	No Variant	2020-09-24 — 12:59:02 UTC	catula, CoxZuckrMachine, jack67889, nitawa, vEnhance	39	5	25
 305331	6	25	No Variant	2020-09-24 — 12:23:22 UTC	Animex52, catula, CoxZuckrMachine, jack67889, Pablo-, sephiroth	10	5	25
-305317	4	0	No Variant	2020-09-24 — 11:45:04 UTC	catula, CoxZuckrMachine, jack67889, Pablo-	2076	5	25
-305308	5	0	No Variant	2020-09-24 — 11:15:25 UTC	catula, CoxZuckrMachine, jack67889, OPOP, Pablo-	658	5	25
+305317	4	0	No Variant	2020-09-24 — 11:45:04 UTC	catula, CoxZuckrMachine, jack67889, Pablo-	2094	5	25
+305308	5	0	No Variant	2020-09-24 — 11:15:25 UTC	catula, CoxZuckrMachine, jack67889, OPOP, Pablo-	667	5	25
 304931	3	0	Pink & Brown (6 Suits)	2020-09-23 — 22:14:14 UTC	jack67889, lotem, Pablo-	13	6	30
 304915	3	0	Pink & Brown (6 Suits)	2020-09-23 — 21:51:41 UTC	jack67889, lotem, Pablo-	18	6	30
-304906	3	15	Pink (3 Suits)	2020-09-23 — 21:42:20 UTC	jack67889, lotem, Pablo-	44	3	15
+304906	3	15	Pink (3 Suits)	2020-09-23 — 21:42:20 UTC	jack67889, lotem, Pablo-	46	3	15
 304885	4	25	Rainbow-Ones & Pink (5 Suits)	2020-09-23 — 21:13:09 UTC	jack67889, lotem, Pablo-, TheDaniMan	4	5	25
 304877	4	0	Rainbow-Ones & Pink (5 Suits)	2020-09-23 — 21:00:08 UTC	jack67889, lotem, Pablo-, TheDaniMan	6	5	25
 304860	4	0	No Variant	2020-09-23 — 20:31:12 UTC	jack67889, Pablo-, Shrine, TheDaniMan	12	5	25
@@ -1636,7 +1681,7 @@
 304789	3	0	Omni (5 Suits)	2020-09-23 — 19:17:39 UTC	jack67889, newduke, Pablo-	31	5	25
 304689	5	23	Omni (5 Suits)	2020-09-23 — 15:00:30 UTC	jack67889, Kyle, melwen, Pablo-, postmans	8	5	25
 304669	5	23	Omni (5 Suits)	2020-09-23 — 14:16:14 UTC	jack67889, Kyle, melwen, Pablo-, postmans	13	5	25
-304654	3	25	White (5 Suits)	2020-09-23 — 13:45:33 UTC	jack67889, melwen, postmans	126	5	25
+304654	3	25	White (5 Suits)	2020-09-23 — 13:45:33 UTC	jack67889, melwen, postmans	131	5	25
 304649	3	0	White (5 Suits)	2020-09-23 — 13:24:32 UTC	Fey, jack67889, melwen	10	5	25
 304644	3	0	White (5 Suits)	2020-09-23 — 13:09:20 UTC	Fey, jack67889, melwen	10	5	25
 304604	6	24	No Variant	2020-09-23 — 10:34:03 UTC	Animex52, CoxZuckrMachine, jack67889, Nitrate2, postmans, sephiroth	10	5	25
@@ -1645,88 +1690,88 @@
 304600	4	30	Prism (6 Suits)	2020-09-23 — 08:43:45 UTC	asaelr, catula, cockdestroyer, jack67889	26	6	30
 304593	4	25	Brown (5 Suits)	2020-09-23 — 08:02:49 UTC	antitelharsic, asaelr, jack67889, Pablo-	12	5	25
 304590	3	0	Brown (5 Suits)	2020-09-23 — 07:29:26 UTC	antitelharsic, jack67889, Pablo-	38	5	25
-303976	4	25	No Variant	2020-09-22 — 13:09:25 UTC	asaelr, Fey, jack67889, SushiGirl	13	5	25
+303976	4	25	No Variant	2020-09-22 — 13:09:25 UTC	asaelr, Fey, jack67889, SushiGirl	15	5	25
 303964	3	30	Pink (6 Suits)	2020-09-22 — 12:34:50 UTC	Fey, jack67889, MarkusKahlsen	24	6	30
-303941	4	24	No Variant	2020-09-22 — 11:05:03 UTC	asaelr, catula, jack67889, kodomazer	16	5	25
-303934	4	25	No Variant	2020-09-22 — 10:37:47 UTC	asaelr, jack67889, kodomazer, sephiroth	17	5	25
+303941	4	24	No Variant	2020-09-22 — 11:05:03 UTC	asaelr, catula, jack67889, kodomazer	18	5	25
+303934	4	25	No Variant	2020-09-22 — 10:37:47 UTC	asaelr, jack67889, kodomazer, sephiroth	18	5	25
 303933	3	25	No Variant	2020-09-22 — 10:20:59 UTC	asaelr, jack67889, kodomazer	11	5	25
-303500	3	23	Pink (5 Suits)	2020-09-21 — 20:56:55 UTC	ezahid1662, IsabeltheCat, jack67889	75	5	25
-303484	3	25	Pink (5 Suits)	2020-09-21 — 20:17:27 UTC	ezahid1662, impostor, jack67889	108	5	25
+303500	3	23	Pink (5 Suits)	2020-09-21 — 20:56:55 UTC	ezahid1662, IsabeltheCat, jack67889	77	5	25
+303484	3	25	Pink (5 Suits)	2020-09-21 — 20:17:27 UTC	ezahid1662, impostor, jack67889	112	5	25
 303292	4	0	No Variant	2020-09-21 — 10:35:42 UTC	cockdestroyer, Dr_Kakashi, jack67889, Pablo-	7	5	25
 303285	4	0	No Variant	2020-09-21 — 09:57:52 UTC	cockdestroyer, Dr_Kakashi, jack67889, sephiroth	8	5	25
 303284	5	25	No Variant	2020-09-21 — 09:14:13 UTC	cockdestroyer, Dr_Kakashi, jack67889, rachyrules, sephiroth	9	5	25
-302650	2	24	No Variant	2020-09-20 — 21:05:23 UTC	jack67889, sheamol	854	5	25
-302630	2	0	No Variant	2020-09-20 — 20:51:21 UTC	jack67889, sheamol	883	5	25
+302650	2	24	No Variant	2020-09-20 — 21:05:23 UTC	jack67889, sheamol	863	5	25
+302630	2	0	No Variant	2020-09-20 — 20:51:21 UTC	jack67889, sheamol	890	5	25
 302608	5	0	Black (6 Suits)	2020-09-20 — 20:35:34 UTC	emilyzhao, jack67889, sephiroth, sheamol, TimeHoodie	7	6	30
 302582	5	0	Black (6 Suits)	2020-09-20 — 20:20:07 UTC	emilyzhao, jack67889, sephiroth, sheamol, TimeHoodie	9	6	30
 302556	6	0	No Variant	2020-09-20 — 20:06:35 UTC	emilyzhao, jack67889, MarkusKahlsen, sephiroth, sheamol, TimeHoodie	13	5	25
 302547	6	25	No Variant	2020-09-20 — 20:01:17 UTC	emilyzhao, jack67889, MarkusKahlsen, sephiroth, sheamol, TimeHoodie	16	5	25
-302512	2	22	Brown (5 Suits)	2020-09-20 — 19:37:44 UTC	jack67889, MarkusKahlsen	124	5	25
-302496	3	20	White (4 Suits)	2020-09-20 — 18:56:26 UTC	jack67889, MarkusKahlsen, squidgetx	46	4	20
-302491	3	17	White (4 Suits)	2020-09-20 — 18:36:03 UTC	jack67889, newduke, squidgetx	59	4	20
+302512	2	22	Brown (5 Suits)	2020-09-20 — 19:37:44 UTC	jack67889, MarkusKahlsen	126	5	25
+302496	3	20	White (4 Suits)	2020-09-20 — 18:56:26 UTC	jack67889, MarkusKahlsen, squidgetx	47	4	20
+302491	3	17	White (4 Suits)	2020-09-20 — 18:36:03 UTC	jack67889, newduke, squidgetx	62	4	20
 301614	6	30	Rainbow (6 Suits)	2020-09-19 — 17:40:54 UTC	ADrone, avanderwalde, jack67889, kimbifille, piper, rkass	33	6	30
-301579	2	25	No Variant	2020-09-19 — 15:17:49 UTC	jack67889, Wittvector	1299	5	25
-301577	2	21	No Variant	2020-09-19 — 14:51:28 UTC	jack67889, Wittvector	1376	5	25
+301579	2	25	No Variant	2020-09-19 — 15:17:49 UTC	jack67889, Wittvector	1311	5	25
+301577	2	21	No Variant	2020-09-19 — 14:51:28 UTC	jack67889, Wittvector	1392	5	25
 301572	5	24	No Variant	2020-09-19 — 14:19:01 UTC	catula, cockdestroyer, jack67889, melwen, Wittvector	135	5	25
 301556	6	24	No Variant	2020-09-19 — 11:43:31 UTC	catula, cockdestroyer, Div, jack67889, orucsoraihc, sephiroth	60	5	25
-301549	4	23	No Variant	2020-09-19 — 11:08:47 UTC	catula, Div, jack67889, orucsoraihc	717	5	25
-301538	3	0	No Variant	2020-09-19 — 10:42:08 UTC	catula, Div, jack67889	1881	5	25
-301535	3	0	No Variant	2020-09-19 — 10:23:10 UTC	catula, Div, jack67889	2163	5	25
-300978	2	25	No Variant	2020-09-18 — 22:17:34 UTC	dhruvpillai6, jack67889	1448	5	25
-300963	2	0	No Variant	2020-09-18 — 21:53:41 UTC	dhruvpillai6, jack67889	1532	5	25
-300938	2	23	No Variant	2020-09-18 — 21:26:42 UTC	dhruvpillai6, jack67889	1952	5	25
-300667	2	25	No Variant	2020-09-18 — 14:21:35 UTC	jack67889, StKildaFan	244	5	25
-300661	3	24	No Variant	2020-09-18 — 13:54:50 UTC	jack67889, orucsoraihc, Pablo-	259	5	25
-300653	5	0	4 Suits	2020-09-18 — 13:20:23 UTC	Animex52, catula, jack67889, MKQ, orucsoraihc	23	4	20
-300648	5	0	Rainbow (6 Suits)	2020-09-18 — 13:04:01 UTC	Animex52, catula, jack67889, MKQ, orucsoraihc	50	6	30
-300644	4	0	Rainbow (6 Suits)	2020-09-18 — 12:38:17 UTC	Animex52, catula, jack67889, orucsoraihc	238	6	30
-300636	4	0	Rainbow (6 Suits)	2020-09-18 — 12:22:43 UTC	Animex52, catula, jack67889, orucsoraihc	493	6	30
-298201	3	24	No Variant	2020-09-15 — 14:45:17 UTC	Bonja97, jack67889, TimeHoodie	187	5	25
-298194	4	25	No Variant	2020-09-15 — 14:13:14 UTC	Bonja97, jack67889, sephiroth, TimeHoodie	89	5	25
-298161	3	25	No Variant	2020-09-15 — 11:12:00 UTC	catula, cockdestroyer, jack67889	4221	5	25
-298158	5	0	No Variant	2020-09-15 — 10:41:36 UTC	catula, cockdestroyer, Feich59, jack67889, StKildaFan	1119	5	25
-298154	4	0	No Variant	2020-09-15 — 10:10:08 UTC	catula, cockdestroyer, jack67889, StKildaFan	655	5	25
-297734	3	25	No Variant	2020-09-14 — 21:43:06 UTC	jack67889, kevincaseytdk1, MKQ	386	5	25
-297705	4	25	No Variant	2020-09-14 — 21:07:20 UTC	jack67889, kevincaseytdk1, Pablo-, robense	90	5	25
-297645	3	0	No Variant	2020-09-14 — 20:16:55 UTC	IsabeltheCat, jack67889, Wittvector	516	5	25
-294115	4	25	No Variant	2020-09-10 — 17:06:46 UTC	Bonja97, jack67889, Pepepe, Slonimsky	138	5	25
-294086	4	25	No Variant	2020-09-10 — 16:07:16 UTC	Bonja97, jack67889, Pepepe, Slonimsky	149	5	25
-294064	2	0	No Variant	2020-09-10 — 15:27:16 UTC	jack67889, Pepepe	2147	5	25
-294056	4	23	No Variant	2020-09-10 — 14:57:08 UTC	chriswck, jack67889, Pepepe, sin_faith	44	5	25
+301549	4	23	No Variant	2020-09-19 — 11:08:47 UTC	catula, Div, jack67889, orucsoraihc	724	5	25
+301538	3	0	No Variant	2020-09-19 — 10:42:08 UTC	catula, Div, jack67889	1896	5	25
+301535	3	0	No Variant	2020-09-19 — 10:23:10 UTC	catula, Div, jack67889	2179	5	25
+300978	2	25	No Variant	2020-09-18 — 22:17:34 UTC	dhruvpillai6, jack67889	1460	5	25
+300963	2	0	No Variant	2020-09-18 — 21:53:41 UTC	dhruvpillai6, jack67889	1547	5	25
+300938	2	23	No Variant	2020-09-18 — 21:26:42 UTC	dhruvpillai6, jack67889	1966	5	25
+300667	2	25	No Variant	2020-09-18 — 14:21:35 UTC	jack67889, StKildaFan	250	5	25
+300661	3	24	No Variant	2020-09-18 — 13:54:50 UTC	jack67889, orucsoraihc, Pablo-	261	5	25
+300653	5	0	4 Suits	2020-09-18 — 13:20:23 UTC	Animex52, catula, jack67889, MKQ, orucsoraihc	24	4	20
+300648	5	0	Rainbow (6 Suits)	2020-09-18 — 13:04:01 UTC	Animex52, catula, jack67889, MKQ, orucsoraihc	51	6	30
+300644	4	0	Rainbow (6 Suits)	2020-09-18 — 12:38:17 UTC	Animex52, catula, jack67889, orucsoraihc	244	6	30
+300636	4	0	Rainbow (6 Suits)	2020-09-18 — 12:22:43 UTC	Animex52, catula, jack67889, orucsoraihc	497	6	30
+298201	3	24	No Variant	2020-09-15 — 14:45:17 UTC	Bonja97, jack67889, TimeHoodie	189	5	25
+298194	4	25	No Variant	2020-09-15 — 14:13:14 UTC	Bonja97, jack67889, sephiroth, TimeHoodie	91	5	25
+298161	3	25	No Variant	2020-09-15 — 11:12:00 UTC	catula, cockdestroyer, jack67889	4250	5	25
+298158	5	0	No Variant	2020-09-15 — 10:41:36 UTC	catula, cockdestroyer, Feich59, jack67889, StKildaFan	1125	5	25
+298154	4	0	No Variant	2020-09-15 — 10:10:08 UTC	catula, cockdestroyer, jack67889, StKildaFan	660	5	25
+297734	3	25	No Variant	2020-09-14 — 21:43:06 UTC	jack67889, kevincaseytdk1, MKQ	392	5	25
+297705	4	25	No Variant	2020-09-14 — 21:07:20 UTC	jack67889, kevincaseytdk1, Pablo-, robense	92	5	25
+297645	3	0	No Variant	2020-09-14 — 20:16:55 UTC	IsabeltheCat, jack67889, Wittvector	523	5	25
+294115	4	25	No Variant	2020-09-10 — 17:06:46 UTC	Bonja97, jack67889, Pepepe, Slonimsky	139	5	25
+294086	4	25	No Variant	2020-09-10 — 16:07:16 UTC	Bonja97, jack67889, Pepepe, Slonimsky	150	5	25
+294064	2	0	No Variant	2020-09-10 — 15:27:16 UTC	jack67889, Pepepe	2166	5	25
+294056	4	23	No Variant	2020-09-10 — 14:57:08 UTC	chriswck, jack67889, Pepepe, sin_faith	45	5	25
 294026	5	22	No Variant	2020-09-10 — 13:58:37 UTC	blastzit, chriswck, jack67889, Pepepe, sin_faith	16	5	25
-294016	6	0	No Variant	2020-09-10 — 13:13:23 UTC	blastzit, catula, chriswck, jack67889, Pepepe, StKildaFan	478	5	25
-293992	4	22	No Variant	2020-09-10 — 11:55:51 UTC	Bonja97, catula, jack67889, Kowalski1337	158	5	25
-293976	3	0	No Variant	2020-09-10 — 11:19:55 UTC	Bonja97, catula, jack67889	194	5	25
-293973	3	0	No Variant	2020-09-10 — 11:04:00 UTC	Bonja97, catula, jack67889	220	5	25
-293969	3	0	No Variant	2020-09-10 — 10:24:58 UTC	Bonja97, catula, jack67889	224	5	25
+294016	6	0	No Variant	2020-09-10 — 13:13:23 UTC	blastzit, catula, chriswck, jack67889, Pepepe, StKildaFan	483	5	25
+293992	4	22	No Variant	2020-09-10 — 11:55:51 UTC	Bonja97, catula, jack67889, Kowalski1337	161	5	25
+293976	3	0	No Variant	2020-09-10 — 11:19:55 UTC	Bonja97, catula, jack67889	198	5	25
+293973	3	0	No Variant	2020-09-10 — 11:04:00 UTC	Bonja97, catula, jack67889	224	5	25
+293969	3	0	No Variant	2020-09-10 — 10:24:58 UTC	Bonja97, catula, jack67889	227	5	25
 293967	2	25	No Variant	2020-09-10 — 10:04:11 UTC	asaelr, jack67889	106	5	25
 293965	2	23	No Variant	2020-09-10 — 09:50:02 UTC	asaelr, jack67889	108	5	25
 293964	3	24	No Variant	2020-09-10 — 09:34:59 UTC	asaelr, Fireheart, jack67889	11	5	25
 293962	3	25	No Variant	2020-09-10 — 09:17:28 UTC	asaelr, Fireheart, jack67889	9	5	25
-293959	5	0	No Variant	2020-09-10 — 08:45:28 UTC	Fireheart, jack67889, Rubix, sephiroth, Zakisan	31	5	25
-293312	2	20	No Variant	2020-09-09 — 14:09:21 UTC	jack67889, newduke	921	5	25
-293285	2	23	No Variant	2020-09-09 — 13:45:08 UTC	jack67889, newduke	948	5	25
-293271	2	20	No Variant	2020-09-09 — 13:22:33 UTC	jack67889, newduke	976	5	25
+293959	5	0	No Variant	2020-09-10 — 08:45:28 UTC	Fireheart, jack67889, Rubix, sephiroth, Zakisan	32	5	25
+293312	2	20	No Variant	2020-09-09 — 14:09:21 UTC	jack67889, newduke	931	5	25
+293285	2	23	No Variant	2020-09-09 — 13:45:08 UTC	jack67889, newduke	960	5	25
+293271	2	20	No Variant	2020-09-09 — 13:22:33 UTC	jack67889, newduke	985	5	25
 293246	5	24	No Variant	2020-09-09 — 10:47:43 UTC	Animex52, catula, jack67889, sin_faith, Tiramisu1th	15	5	25
 293243	3	22	No Variant	2020-09-09 — 10:09:40 UTC	catula, jack67889, Tiramisu1th	19	5	25
-293240	4	22	No Variant	2020-09-09 — 09:25:33 UTC	catula, honobu, jack67889, Tiramisu1th	1092	5	25
-293233	5	0	No Variant	2020-09-09 — 08:43:36 UTC	antitelharsic, honobu, impostor, jack67889, Tiramisu1th	77	5	25
-292792	2	20	No Variant	2020-09-08 — 21:47:19 UTC	jack67889, Ronnie.to	2288	5	25
-292729	2	22	No Variant	2020-09-08 — 20:28:15 UTC	jack67889, MasterP	2532	5	25
-292695	2	0	No Variant	2020-09-08 — 19:38:37 UTC	jack67889, Zuppafaggioli	2750	5	25
-292669	2	22	No Variant	2020-09-08 — 19:09:22 UTC	Feich59, jack67889	1621	5	25
-292630	3	25	No Variant	2020-09-08 — 18:25:46 UTC	Fey, jack67889, newduke	93	5	25
+293240	4	22	No Variant	2020-09-09 — 09:25:33 UTC	catula, honobu, jack67889, Tiramisu1th	1103	5	25
+293233	5	0	No Variant	2020-09-09 — 08:43:36 UTC	antitelharsic, honobu, impostor, jack67889, Tiramisu1th	78	5	25
+292792	2	20	No Variant	2020-09-08 — 21:47:19 UTC	jack67889, Ronnie.to	2307	5	25
+292729	2	22	No Variant	2020-09-08 — 20:28:15 UTC	jack67889, MasterP	2552	5	25
+292695	2	0	No Variant	2020-09-08 — 19:38:37 UTC	jack67889, Zuppafaggioli	2772	5	25
+292669	2	22	No Variant	2020-09-08 — 19:09:22 UTC	Feich59, jack67889	1637	5	25
+292630	3	25	No Variant	2020-09-08 — 18:25:46 UTC	Fey, jack67889, newduke	95	5	25
 292391	5	23	No Variant	2020-09-08 — 10:57:12 UTC	Feich59, jack67889, level_17, sin_faith, Tiramisu1th	21	5	25
-292384	4	0	No Variant	2020-09-08 — 10:22:23 UTC	Feich59, jack67889, sin_faith, Tiramisu1th	54	5	25
+292384	4	0	No Variant	2020-09-08 — 10:22:23 UTC	Feich59, jack67889, sin_faith, Tiramisu1th	56	5	25
 292382	4	25	No Variant	2020-09-08 — 09:32:32 UTC	Feich59, jack67889, sin_faith, Tiramisu1th	57	5	25
-292376	3	25	No Variant	2020-09-08 — 08:49:04 UTC	Feich59, Fey, jack67889	100	5	25
-292371	3	0	No Variant	2020-09-08 — 08:16:40 UTC	Feich59, Fey, jack67889	102	5	25
-292369	3	23	No Variant	2020-09-08 — 07:58:50 UTC	Feich59, Fey, jack67889	110	5	25
-292363	2	0	No Variant	2020-09-08 — 07:31:29 UTC	Fey, jack67889	259	5	25
-291718	3	25	No Variant	2020-09-07 — 14:41:10 UTC	Feich59, jack67889, rachyrules	1095	5	25
-291698	2	20	No Variant	2020-09-07 — 13:56:39 UTC	Feich59, jack67889	1703	5	25
-291689	2	25	No Variant	2020-09-07 — 13:27:39 UTC	Feich59, jack67889	1840	5	25
-288284	2	25	No Variant	2020-09-03 — 22:12:18 UTC	jack67889, Soren1129	3051	5	25
-288279	2	24	No Variant	2020-09-03 — 22:00:04 UTC	jack67889, Soren1129	3507	5	25
-288129	2	0	No Variant	2020-09-03 — 19:29:37 UTC	ezahid1662, jack67889	4109	5	25
-288078	2	22	No Variant	2020-09-03 — 18:43:54 UTC	ezahid1662, jack67889	5374	5	25
+292376	3	25	No Variant	2020-09-08 — 08:49:04 UTC	Feich59, Fey, jack67889	103	5	25
+292371	3	0	No Variant	2020-09-08 — 08:16:40 UTC	Feich59, Fey, jack67889	107	5	25
+292369	3	23	No Variant	2020-09-08 — 07:58:50 UTC	Feich59, Fey, jack67889	114	5	25
+292363	2	0	No Variant	2020-09-08 — 07:31:29 UTC	Fey, jack67889	263	5	25
+291718	3	25	No Variant	2020-09-07 — 14:41:10 UTC	Feich59, jack67889, rachyrules	1102	5	25
+291698	2	20	No Variant	2020-09-07 — 13:56:39 UTC	Feich59, jack67889	1721	5	25
+291689	2	25	No Variant	2020-09-07 — 13:27:39 UTC	Feich59, jack67889	1856	5	25
+288284	2	25	No Variant	2020-09-03 — 22:12:18 UTC	jack67889, Soren1129	3072	5	25
+288279	2	24	No Variant	2020-09-03 — 22:00:04 UTC	jack67889, Soren1129	3537	5	25
+288129	2	0	No Variant	2020-09-03 — 19:29:37 UTC	ezahid1662, jack67889	4149	5	25
+288078	2	22	No Variant	2020-09-03 — 18:43:54 UTC	ezahid1662, jack67889	5421	5	25

@@ -1,12 +1,45 @@
-509844	3	30	Gray (6 Suits)	2021-04-23 — 01:40:13 UTC	Nitrate, rz, wump	42	6	30
-509820	3	0	Gray (6 Suits)	2021-04-23 — 01:06:37 UTC	Nitrate, rz, wump	45	6	30
+522762	5	29	Brown-Ones & Prism (6 Suits)	2021-05-07 — 03:00:12 UTC	dobi, Lanvin, melwen, Nitrate, ricardodd	1	6	30
+522726	5	0	Brown-Ones & Prism (6 Suits)	2021-05-07 — 02:33:19 UTC	dobi, Lanvin, melwen, Nitrate, ricardodd	1	6	30
+522694	5	28	Brown-Ones & Prism (6 Suits)	2021-05-07 — 02:09:12 UTC	dobi, Lanvin, melwen, Nitrate, ricardodd	1	6	30
+522669	5	0	Brown-Ones & Prism (6 Suits)	2021-05-07 — 01:48:01 UTC	dobi, Lanvin, melwen, Nitrate, ricardodd	1	6	30
+522653	5	30	Brown-Ones & Brown (6 Suits)	2021-05-07 — 01:26:09 UTC	dobi, Lanvin, melwen, Nitrate, ricardodd	1	6	30
+522566	4	30	Prism Reversed (6 Suits)	2021-05-07 — 00:50:04 UTC	dobi, Lanvin, melwen, Nitrate	8	6	30
+522301	3	17	Muddy Rainbow (4 Suits)	2021-05-06 — 20:06:27 UTC	BlueNovember, Nitrate, SpaceAnemone	31	4	20
+521653	3	20	White & Prism (4 Suits)	2021-05-05 — 22:07:17 UTC	Lanvin, MarkusKahlsen, Nitrate	1	4	20
+521591	6	0	Muddy Rainbow (5 Suits)	2021-05-05 — 20:44:57 UTC	aquarelle, ChristopheAF, dobi, HelanaAshryvr, Lanvin, Nitrate	2	5	25
+521561	5	26	Brown-Ones & Brown (6 Suits)	2021-05-05 — 20:09:33 UTC	kimbifille, Lanvin, Nitrate, pianoblook, Spieler42	1	6	30
+521266	3	0	Dark Brown (6 Suits)	2021-05-05 — 13:25:56 UTC	macanek, Nitrate, rz	23	6	30
+520829	4	0	Muddy Rainbow (6 Suits)	2021-05-05 — 01:15:33 UTC	BlueNovember, kinkajusrevenge, Nitrate, possum	10	6	30
+520804	4	25	Brown (5 Suits)	2021-05-05 — 00:45:06 UTC	BlueNovember, kinkajusrevenge, Nitrate, possum	37	5	25
+520776	3	0	Brown-Ones & White (6 Suits)	2021-05-05 — 00:12:36 UTC	BlueNovember, Nitrate, SpaceAnemone	2	6	30
+520758	3	0	Brown-Ones & White (6 Suits)	2021-05-04 — 23:44:48 UTC	BlueNovember, Nitrate, SpaceAnemone	2	6	30
+519774	3	25	Brown-Ones & Brown (5 Suits)	2021-05-03 — 22:08:58 UTC	BlueNovember, Nitrate, SpaceAnemone	4	5	25
+519733	3	0	Brown-Ones & Brown (5 Suits)	2021-05-03 — 21:35:19 UTC	BlueNovember, Nitrate, SpaceAnemone	5	5	25
+519533	3	25	Brown-Ones & White (5 Suits)	2021-05-03 — 18:39:02 UTC	asaelr, Fafrd, Nitrate	5	5	25
+518874	3	26	Brown (6 Suits)	2021-05-02 — 20:40:13 UTC	DarthGandalf, Nitrate, Spieler42	26	6	30
+518830	3	29	Brown (6 Suits)	2021-05-02 — 20:03:31 UTC	DarthGandalf, Nitrate, Spieler42	27	6	30
+517859	5	23	No Variant	2021-05-01 — 19:03:18 UTC	bob65536, indego, Nitrate, tacobot5000, timotree	10	5	25
+517828	5	25	No Variant	2021-05-01 — 18:26:26 UTC	Fey, kopen, Nitrate, tacobot5000, timotree	7	5	25
+517816	5	0	No Variant	2021-05-01 — 18:04:34 UTC	Fey, kopen, Nitrate, tacobot5000, timotree	12	5	25
+517798	5	23	No Variant	2021-05-01 — 17:39:27 UTC	Fafrd, Fey, Nitrate, tacobot5000, timotree	12	5	25
+517753	5	24	No Variant	2021-05-01 — 15:52:31 UTC	Fey, Nitrate, tacobot5000, timotree, wolfpack	12	5	25
+517733	3	30	Rainbow (6 Suits)	2021-05-01 — 15:07:12 UTC	Fey, Nitrate, tacobot5000	16	6	30
+517717	3	27	Rainbow (6 Suits)	2021-05-01 — 14:31:28 UTC	Fey, Nitrate, tacobot5000	16	6	30
+515413	4	25	Deceptive-Ones & White (5 Suits)	2021-04-29 — 01:55:05 UTC	Lanvin, Lel0uch, melwen, Nitrate	1	5	25
+515397	4	24	Deceptive-Ones & White (5 Suits)	2021-04-29 — 01:29:00 UTC	Lanvin, Lel0uch, melwen, Nitrate	1	5	25
+515377	6	25	White & Brown (5 Suits)	2021-04-29 — 00:57:58 UTC	dobi, Lanvin, Lel0uch, melwen, newduke, Nitrate	2	5	25
+515361	5	0	Prism & Dark Omni (6 Suits)	2021-04-29 — 00:27:53 UTC	Lanvin, Lel0uch, melwen, newduke, Nitrate	1	6	30
+515346	3	25	White & Brown (5 Suits)	2021-04-29 — 00:03:46 UTC	Lanvin, melwen, Nitrate	6	5	25
+515328	3	25	Dual-Color Mix	2021-04-28 — 23:33:15 UTC	BlueNovember, Nitrate, SpaceAnemone	18	6	30
+509844	3	30	Gray (6 Suits)	2021-04-23 — 01:40:13 UTC	Nitrate, rz, wump	43	6	30
+509820	3	0	Gray (6 Suits)	2021-04-23 — 01:06:37 UTC	Nitrate, rz, wump	48	6	30
 509796	3	13	Muddy Rainbow (3 Suits)	2021-04-23 — 00:34:48 UTC	Nitrate, rz, wump	22	3	15
 509652	4	25	Rainbow (5 Suits)	2021-04-22 — 21:53:39 UTC	kevincaseytdk1, Kyle, Nitrate, VBVBVBVB	2	5	25
 508695	5	27	Rainbow & Prism (6 Suits)	2021-04-21 — 20:11:52 UTC	asaelr, duckless, Kyle, MangoPie, Nitrate	11	6	30
 508677	4	0	Rainbow & Prism (6 Suits)	2021-04-21 — 19:53:05 UTC	asaelr, duckless, MangoPie, Nitrate	3	6	30
 508666	4	0	Rainbow & Prism (6 Suits)	2021-04-21 — 19:47:18 UTC	asaelr, duckless, MangoPie, Nitrate	3	6	30
 507029	3	0	No Variant	2021-04-20 — 00:00:27 UTC	BlueNovember, Nitrate, SpaceAnemone	22	5	25
-506825	5	21	Black & Rainbow (5 Suits)	2021-04-19 — 19:45:08 UTC	ChristopheAF, melwen, Nitrate, sephiroth, Wittvector	4	5	25
+506825	5	21	Black & Rainbow (5 Suits)	2021-04-19 — 19:45:08 UTC	ChristopheAF, melwen, Nitrate, sephiroth, Wittvector	5	5	25
 506803	5	27	Muddy Rainbow (6 Suits)	2021-04-19 — 19:06:24 UTC	bjnh, jeff10, melwen, Nitrate, Wittvector	11	6	30
 506212	2	20	Alternating Clues (4 Suits)	2021-04-19 — 03:04:39 UTC	BlueNovember, Nitrate	4	4	20
 506180	2	0	Alternating Clues (4 Suits)	2021-04-19 — 02:52:01 UTC	BlueNovember, Nitrate	5	4	20
@@ -15,50 +48,50 @@
 506111	2	0	Alternating Clues (4 Suits)	2021-04-19 — 02:15:57 UTC	BlueNovember, Nitrate	15	4	20
 506082	2	20	Rainbow-Fives & Omni (4 Suits)	2021-04-19 — 01:55:49 UTC	BlueNovember, Nitrate	1	4	20
 506052	2	18	Rainbow-Fives & Omni (4 Suits)	2021-04-19 — 01:35:40 UTC	BlueNovember, Nitrate	1	4	20
-505709	4	25	No Variant	2021-04-18 — 20:38:18 UTC	BlueNovember, Nitrate, randomuser, SpaceAnemone	111	5	25
+505709	4	25	No Variant	2021-04-18 — 20:38:18 UTC	BlueNovember, Nitrate, randomuser, SpaceAnemone	112	5	25
 505624	4	24	No Variant	2021-04-18 — 19:42:32 UTC	BlueNovember, Nitrate, randomuser, SpaceAnemone	116	5	25
 504848	2	0	Rainbow-Fives & Omni (4 Suits)	2021-04-18 — 01:34:09 UTC	BlueNovember, Nitrate	1	4	20
 504846	2	0	Rainbow-Fives & Omni (4 Suits)	2021-04-18 — 01:33:47 UTC	BlueNovember, Nitrate	1	4	20
-504442	3	30	Prism (6 Suits)	2021-04-17 — 20:25:59 UTC	Nitrate, randomuser, SpaceAnemone	60	6	30
-504379	3	0	Prism (6 Suits)	2021-04-17 — 19:29:18 UTC	Nitrate, randomuser, SpaceAnemone	84	6	30
+504442	3	30	Prism (6 Suits)	2021-04-17 — 20:25:59 UTC	Nitrate, randomuser, SpaceAnemone	61	6	30
+504379	3	0	Prism (6 Suits)	2021-04-17 — 19:29:18 UTC	Nitrate, randomuser, SpaceAnemone	85	6	30
 504327	4	15	White (3 Suits)	2021-04-17 — 18:40:16 UTC	BlueNovember, Crux, Nitrate, SpaceAnemone	27	3	15
-504155	3	25	No Variant	2021-04-17 — 14:24:43 UTC	ChristopheAF, Nitrate, vjk	411	5	25
-504132	3	23	No Variant	2021-04-17 — 13:47:40 UTC	ChristopheAF, Nitrate, vjk	422	5	25
+504155	3	25	No Variant	2021-04-17 — 14:24:43 UTC	ChristopheAF, Nitrate, vjk	417	5	25
+504132	3	23	No Variant	2021-04-17 — 13:47:40 UTC	ChristopheAF, Nitrate, vjk	428	5	25
 503795	5	25	Prism & Dark Omni (6 Suits)	2021-04-17 — 03:04:39 UTC	indego, Lel0uch, melwen, Nitrate, squirrel1988	1	6	30
 503742	5	0	Brown & Dark Prism (6 Suits)	2021-04-17 — 02:22:20 UTC	indego, Lel0uch, melwen, Nitrate, squirrel1988	1	6	30
 503716	5	0	Brown & Dark Prism (6 Suits)	2021-04-17 — 01:59:17 UTC	indego, Lel0uch, melwen, Nitrate, squirrel1988	1	6	30
 502434	5	23	No Variant	2021-04-16 — 01:55:27 UTC	bjnh, griff77, jeff10, Meowie, Nitrate	39	5	25
-502300	3	30	Light Pink (6 Suits)	2021-04-15 — 23:24:00 UTC	BlueNovember, Nitrate, SpaceAnemone	25	6	30
-502277	3	0	Light Pink (6 Suits)	2021-04-15 — 22:56:39 UTC	BlueNovember, Nitrate, SpaceAnemone	34	6	30
+502300	3	30	Light Pink (6 Suits)	2021-04-15 — 23:24:00 UTC	BlueNovember, Nitrate, SpaceAnemone	26	6	30
+502277	3	0	Light Pink (6 Suits)	2021-04-15 — 22:56:39 UTC	BlueNovember, Nitrate, SpaceAnemone	37	6	30
 501862	5	0	Rainbow (5 Suits)	2021-04-15 — 15:13:22 UTC	Nitrate, Plum, Syrah, vjk, voss	23	5	25
 501405	2	0	Omni (3 Suits)	2021-04-15 — 00:32:21 UTC	BlueNovember, Nitrate	7	3	15
 501392	2	0	Omni (3 Suits)	2021-04-15 — 00:21:02 UTC	BlueNovember, Nitrate	8	3	15
 501382	2	12	Omni (3 Suits)	2021-04-15 — 00:10:50 UTC	BlueNovember, Nitrate	8	3	15
 501376	2	13	Omni (3 Suits)	2021-04-15 — 00:02:15 UTC	BlueNovember, Nitrate	9	3	15
 501363	2	14	Omni (3 Suits)	2021-04-14 — 23:50:29 UTC	BlueNovember, Nitrate	10	3	15
-501336	3	0	Dual-Color Mix	2021-04-14 — 23:34:05 UTC	BlueNovember, Nitrate, SpaceAnemone	19	6	30
+501336	3	0	Dual-Color Mix	2021-04-14 — 23:34:05 UTC	BlueNovember, Nitrate, SpaceAnemone	20	6	30
 501314	3	14	Omni (3 Suits)	2021-04-14 — 23:12:51 UTC	BlueNovember, Nitrate, SpaceAnemone	26	3	15
-500460	3	0	Light Pink (6 Suits)	2021-04-14 — 01:40:52 UTC	Nitrate, nwajfromoz, qqqq	38	6	30
+500460	3	0	Light Pink (6 Suits)	2021-04-14 — 01:40:52 UTC	Nitrate, nwajfromoz, qqqq	40	6	30
 500384	2	0	Omni (3 Suits)	2021-04-14 — 00:37:16 UTC	BlueNovember, Nitrate	13	3	15
 500372	2	0	Omni (3 Suits)	2021-04-14 — 00:17:11 UTC	BlueNovember, Nitrate	17	3	15
-500204	2	19	Pink (4 Suits)	2021-04-13 — 21:57:19 UTC	Nitrate, SpaceAnemone	105	4	20
+500204	2	19	Pink (4 Suits)	2021-04-13 — 21:57:19 UTC	Nitrate, SpaceAnemone	106	4	20
 500057	3	30	Black (6 Suits)	2021-04-13 — 20:29:05 UTC	Kyle, MangoPie, Nitrate	31	6	30
 500029	3	29	Black (6 Suits)	2021-04-13 — 20:11:44 UTC	Kyle, MangoPie, Nitrate	31	6	30
 499997	3	26	Black (6 Suits)	2021-04-13 — 19:56:37 UTC	Kyle, MangoPie, Nitrate	36	6	30
 499718	5	24	No Variant	2021-04-13 — 14:59:01 UTC	Aluap, Animex52, bebkoglorius, Nitrate, vjk	16	5	25
-499295	3	25	No Variant	2021-04-13 — 02:13:37 UTC	Nitrate, PotatoLatte, sheriff	320	5	25
-499241	3	25	No Variant	2021-04-13 — 01:41:39 UTC	Nitrate, PotatoLatte, sheriff	324	5	25
+499295	3	25	No Variant	2021-04-13 — 02:13:37 UTC	Nitrate, PotatoLatte, sheriff	324	5	25
+499241	3	25	No Variant	2021-04-13 — 01:41:39 UTC	Nitrate, PotatoLatte, sheriff	330	5	25
 499087	3	15	Brown (3 Suits)	2021-04-12 — 23:15:51 UTC	BlueNovember, Nitrate, SpaceAnemone	9	3	15
 499042	4	14	Rainbow (3 Suits)	2021-04-12 — 22:57:09 UTC	BlueNovember, Nitrate, Pantheia, SpaceAnemone	6	3	15
-498950	2	0	White (5 Suits)	2021-04-12 — 21:47:30 UTC	Nitrate, SpaceAnemone	184	5	25
+498950	2	0	White (5 Suits)	2021-04-12 — 21:47:30 UTC	Nitrate, SpaceAnemone	187	5	25
 497501	5	25	Prism (5 Suits)	2021-04-11 — 20:28:29 UTC	Arcee, griff77, newduke, Nitrate, Wittvector	8	5	25
 497464	5	0	Prism (5 Suits)	2021-04-11 — 19:58:42 UTC	Arcee, griff77, newduke, Nitrate, Wittvector	7	5	25
-497424	3	21	Up or Down (5 Suits)	2021-04-11 — 19:31:23 UTC	Arcee, newduke, Nitrate	36	5	25
-497386	4	14	Rainbow (3 Suits)	2021-04-11 — 19:01:42 UTC	Kernel, Nitrate, possum, Zakisan	10	3	15
-497363	4	14	Rainbow (3 Suits)	2021-04-11 — 18:42:47 UTC	Kernel, Nitrate, possum, Zakisan	13	3	15
-497341	4	25	Rainbow (5 Suits)	2021-04-11 — 18:11:29 UTC	Arcee, Damian000, Nitrate, possum	23	5	25
-496651	4	0	Rainbow (5 Suits)	2021-04-10 — 22:20:30 UTC	BlueNovember, Nitrate, randomuser, SpaceAnemone	29	5	25
-496619	4	0	Rainbow (5 Suits)	2021-04-10 — 21:59:29 UTC	BlueNovember, Nitrate, randomuser, SpaceAnemone	32	5	25
+497424	3	21	Up or Down (5 Suits)	2021-04-11 — 19:31:23 UTC	Arcee, newduke, Nitrate	38	5	25
+497386	4	14	Rainbow (3 Suits)	2021-04-11 — 19:01:42 UTC	Kernel, Nitrate, possum, Zakisan	11	3	15
+497363	4	14	Rainbow (3 Suits)	2021-04-11 — 18:42:47 UTC	Kernel, Nitrate, possum, Zakisan	14	3	15
+497341	4	25	Rainbow (5 Suits)	2021-04-11 — 18:11:29 UTC	Arcee, Damian000, Nitrate, possum	24	5	25
+496651	4	0	Rainbow (5 Suits)	2021-04-10 — 22:20:30 UTC	BlueNovember, Nitrate, randomuser, SpaceAnemone	30	5	25
+496619	4	0	Rainbow (5 Suits)	2021-04-10 — 21:59:29 UTC	BlueNovember, Nitrate, randomuser, SpaceAnemone	34	5	25
 496580	4	15	3 Suits	2021-04-10 — 21:39:30 UTC	BlueNovember, Nitrate, randomuser, SpaceAnemone	20	3	15
 496553	4	0	3 Suits	2021-04-10 — 21:25:29 UTC	BlueNovember, Nitrate, randomuser, SpaceAnemone	24	3	15
 496539	4	0	3 Suits	2021-04-10 — 21:18:43 UTC	BlueNovember, Nitrate, randomuser, SpaceAnemone	26	3	15
@@ -67,20 +100,20 @@
 495605	4	23	Black (5 Suits)	2021-04-10 — 02:41:28 UTC	BlueNovember, bob65536, griff77, Nitrate	13	5	25
 495575	4	24	Black (5 Suits)	2021-04-10 — 02:09:51 UTC	BlueNovember, bob65536, griff77, Nitrate	14	5	25
 495549	3	13	Brown (3 Suits)	2021-04-10 — 01:31:50 UTC	BlueNovember, Crux, Nitrate	9	3	15
-495535	3	12	Brown (3 Suits)	2021-04-10 — 01:12:21 UTC	BlueNovember, Crux, Nitrate	11	3	15
-494430	5	26	Black & Rainbow (6 Suits)	2021-04-09 — 00:58:06 UTC	Aluap, bjnh, BlueNovember, Nitrate, orucsoraihc	20	6	30
+495535	3	12	Brown (3 Suits)	2021-04-10 — 01:12:21 UTC	BlueNovember, Crux, Nitrate	12	3	15
+494430	5	26	Black & Rainbow (6 Suits)	2021-04-09 — 00:58:06 UTC	Aluap, bjnh, BlueNovember, Nitrate, orucsoraihc	21	6	30
 494398	3	0	Omni (6 Suits)	2021-04-09 — 00:17:17 UTC	BlueNovember, Nitrate, SpaceAnemone	51	6	30
 494005	3	25	Black & Light Pink (5 Suits)	2021-04-08 — 15:27:10 UTC	kinkajusrevenge, Nitrate, Wittvector	2	5	25
 493580	3	29	Black & Rainbow (6 Suits)	2021-04-08 — 00:32:19 UTC	BlueNovember, Nitrate, Pantheia	51	6	30
 493557	2	24	White (5 Suits)	2021-04-08 — 00:00:52 UTC	BlueNovember, Nitrate	21	5	25
 493553	2	23	White (5 Suits)	2021-04-07 — 23:51:39 UTC	BlueNovember, Nitrate	21	5	25
-492706	3	30	Black & White (6 Suits)	2021-04-07 — 01:51:45 UTC	dobi, indego, Nitrate	33	6	30
-492648	3	0	Black & Rainbow (6 Suits)	2021-04-07 — 00:31:02 UTC	BlueNovember, Nitrate, SpaceAnemone	59	6	30
+492706	3	30	Black & White (6 Suits)	2021-04-07 — 01:51:45 UTC	dobi, indego, Nitrate	34	6	30
+492648	3	0	Black & Rainbow (6 Suits)	2021-04-07 — 00:31:02 UTC	BlueNovember, Nitrate, SpaceAnemone	60	6	30
 492476	5	25	White-Fives (5 Suits)	2021-04-06 — 21:15:36 UTC	jack67889, Lanvin, MangoPie, Nitrate, squirrel1988	2	5	25
 492427	6	25	Prism (5 Suits)	2021-04-06 — 20:45:04 UTC	bjnh, jack67889, Lanvin, MangoPie, Nitrate, squirrel1988	1	5	25
 492188	5	0	Rainbow & Light Pink (6 Suits)	2021-04-06 — 15:59:20 UTC	dobi, knaphill, Nitrate, Syrah, Wittvector	5	6	30
 491414	4	29	White & Light Pink (6 Suits)	2021-04-05 — 19:31:38 UTC	BlueNovember, kimbifille, Kyle, Nitrate	5	6	30
-491240	4	25	No Variant	2021-04-05 — 16:16:13 UTC	mgce, Nitrate, Spieler42, Syrah	90	5	25
+491240	4	25	No Variant	2021-04-05 — 16:16:13 UTC	mgce, Nitrate, Spieler42, Syrah	92	5	25
 491223	5	0	Rainbow & Prism (5 Suits)	2021-04-05 — 15:38:59 UTC	IsabeltheCat, kimbifille, MangoPie, Nitrate, Syrah	5	5	25
 491212	3	0	Muddy Rainbow (6 Suits)	2021-04-05 — 15:08:34 UTC	MangoPie, Nitrate, wolfpack	18	6	30
 491198	3	0	Muddy Rainbow (6 Suits)	2021-04-05 — 14:48:07 UTC	MangoPie, Nitrate, wolfpack	25	6	30
@@ -88,113 +121,113 @@
 490481	5	25	Pink (5 Suits)	2021-04-04 — 18:36:07 UTC	griff77, MangoPie, Nitrate, rz, Syrah	12	5	25
 490469	4	20	Ambiguous (4 Suits)	2021-04-04 — 18:11:46 UTC	griff77, MangoPie, Nitrate, rz	20	4	20
 490434	5	25	Muddy Rainbow (5 Suits)	2021-04-04 — 17:41:02 UTC	griff77, MangoPie, Nitrate, rz, Spieler42	5	5	25
-490414	5	0	Black (5 Suits)	2021-04-04 — 17:09:34 UTC	griff77, MangoPie, Nitrate, rz, Spieler42	5	5	25
+490414	5	0	Black (5 Suits)	2021-04-04 — 17:09:34 UTC	griff77, MangoPie, Nitrate, rz, Spieler42	6	5	25
 490409	5	21	Black (5 Suits)	2021-04-04 — 16:43:37 UTC	griff77, MangoPie, Nitrate, rz, Spieler42	11	5	25
-490400	3	20	Brown (4 Suits)	2021-04-04 — 16:16:50 UTC	griff77, MangoPie, Nitrate	9	4	20
+490400	3	20	Brown (4 Suits)	2021-04-04 — 16:16:50 UTC	griff77, MangoPie, Nitrate	10	4	20
 489483	6	0	Pink & White (6 Suits)	2021-04-03 — 18:08:59 UTC	jack67889, Lel0uch, melwen, Nitrate, Syrah, VerySloppyTwo	1	6	30
 489468	5	0	White & Dark Prism (5 Suits)	2021-04-03 — 17:39:57 UTC	indego, Lel0uch, melwen, Nitrate, Syrah	2	5	25
 489452	3	0	Rainbow & Brown (6 Suits)	2021-04-03 — 17:16:37 UTC	Lanvin, Nitrate, Syrah	13	6	30
-488350	3	0	Rainbow (6 Suits)	2021-04-02 — 16:00:56 UTC	Meowie, Nitrate, vjk	508	6	30
-486905	2	25	Gray Pink (6 Suits)	2021-04-01 — 00:44:31 UTC	BlueNovember, Nitrate	34	6	30
-486894	2	28	Gray Pink (6 Suits)	2021-04-01 — 00:25:08 UTC	BlueNovember, Nitrate	38	6	30
+488350	3	0	Rainbow (6 Suits)	2021-04-02 — 16:00:56 UTC	Meowie, Nitrate, vjk	514	6	30
+486905	2	25	Gray Pink (6 Suits)	2021-04-01 — 00:44:31 UTC	BlueNovember, Nitrate	36	6	30
+486894	2	28	Gray Pink (6 Suits)	2021-04-01 — 00:25:08 UTC	BlueNovember, Nitrate	40	6	30
 486786	5	0	Rainbow & Light Pink (6 Suits)	2021-03-31 — 21:50:54 UTC	kimbifille, MangoPie, newduke, Nitrate, nkkarpov	3	6	30
 486748	3	25	Muddy Rainbow (5 Suits)	2021-03-31 — 21:08:46 UTC	newduke, Nitrate, robense	46	5	25
 486037	2	25	Omni (5 Suits)	2021-03-31 — 01:56:34 UTC	BlueNovember, Nitrate	27	5	25
 486000	2	0	Omni (5 Suits)	2021-03-31 — 01:34:03 UTC	BlueNovember, Nitrate	29	5	25
 485967	3	15	Prism (3 Suits)	2021-03-31 — 01:13:45 UTC	BlueNovember, Cynas, Nitrate	20	3	15
-485950	3	0	Prism (3 Suits)	2021-03-31 — 00:56:50 UTC	BlueNovember, Cynas, Nitrate	32	3	15
+485950	3	0	Prism (3 Suits)	2021-03-31 — 00:56:50 UTC	BlueNovember, Cynas, Nitrate	34	3	15
 485936	3	20	Prism (4 Suits)	2021-03-31 — 00:39:54 UTC	BlueNovember, Cynas, Nitrate	21	4	20
 485922	3	0	Prism (4 Suits)	2021-03-31 — 00:17:45 UTC	BlueNovember, Cynas, Nitrate	27	4	20
 484941	5	29	White & Prism (6 Suits)	2021-03-30 — 00:01:36 UTC	Lanvin, melwen, Nitrate, orucsoraihc, wump	4	6	30
 484846	6	23	Black (5 Suits)	2021-03-29 — 22:59:45 UTC	ChristopheAF, DarthGandalf, Doge, MangoPie, newduke, Nitrate	8	5	25
 483437	3	25	Pink & Prism (5 Suits)	2021-03-28 — 15:09:07 UTC	kinkajusrevenge, Nitrate, robense	13	5	25
-483407	3	21	Gray (5 Suits)	2021-03-28 — 14:20:04 UTC	kinkajusrevenge, Nitrate, robense	11	5	25
+483407	3	21	Gray (5 Suits)	2021-03-28 — 14:20:04 UTC	kinkajusrevenge, Nitrate, robense	12	5	25
 483387	3	25	Black & Prism (5 Suits)	2021-03-28 — 13:48:24 UTC	indego, MarkusKahlsen, Nitrate	1	5	25
 482316	4	0	Black & Rainbow (6 Suits)	2021-03-27 — 14:56:45 UTC	ADrone, CaitlinSmith, MarkusKahlsen, Nitrate	34	6	30
 482303	5	29	Rainbow & Pink (6 Suits)	2021-03-27 — 14:15:45 UTC	ADrone, CaitlinSmith, Lanvin, MarkusKahlsen, Nitrate	5	6	30
 479700	3	25	Black & Dark Prism (6 Suits)	2021-03-25 — 00:45:29 UTC	BlueNovember, Nitrate, Pantheia	7	6	30
 479644	4	23	Pink & White (5 Suits)	2021-03-24 — 23:56:58 UTC	BlueNovember, Nitrate, Pantheia, SpaceAnemone	11	5	25
-479534	3	0	Black (6 Suits)	2021-03-24 — 22:00:17 UTC	cockdestroyer, Doge, Nitrate	172	6	30
-479510	3	0	Black (6 Suits)	2021-03-24 — 21:41:57 UTC	cockdestroyer, Doge, Nitrate	193	6	30
+479534	3	0	Black (6 Suits)	2021-03-24 — 22:00:17 UTC	cockdestroyer, Doge, Nitrate	175	6	30
+479510	3	0	Black (6 Suits)	2021-03-24 — 21:41:57 UTC	cockdestroyer, Doge, Nitrate	196	6	30
 479425	4	0	Rainbow & Prism (6 Suits)	2021-03-24 — 20:53:59 UTC	Doge, fowill, Nitrate, robense	9	6	30
-479383	4	0	Rainbow & Prism (6 Suits)	2021-03-24 — 20:25:05 UTC	Doge, fowill, Nitrate, robense	13	6	30
+479383	4	0	Rainbow & Prism (6 Suits)	2021-03-24 — 20:25:05 UTC	Doge, fowill, Nitrate, robense	14	6	30
 479075	4	20	Brown & Prism (4 Suits)	2021-03-24 — 14:44:39 UTC	hakha3, Nitrate, Onen, Pablo-	3	4	20
 478485	3	15	Rainbow & Prism (3 Suits)	2021-03-24 — 00:43:38 UTC	BlueNovember, Nitrate, Pantheia	6	3	15
 478477	3	0	Rainbow & Prism (3 Suits)	2021-03-24 — 00:29:58 UTC	BlueNovember, Nitrate, Pantheia	8	3	15
 478472	3	12	Rainbow & Prism (3 Suits)	2021-03-24 — 00:19:43 UTC	BlueNovember, Nitrate, Pantheia	10	3	15
-477390	3	24	Pink (5 Suits)	2021-03-22 — 23:44:29 UTC	BlueNovember, Nitrate, SpaceAnemone	36	5	25
-477346	4	23	No Variant	2021-03-22 — 22:57:08 UTC	LookAway, Nitrate, Onen, ThomasW	1744	5	25
-477316	4	0	No Variant	2021-03-22 — 22:34:57 UTC	Nitrate, Onen, orucsoraihc, ThomasW	95	5	25
+477390	3	24	Pink (5 Suits)	2021-03-22 — 23:44:29 UTC	BlueNovember, Nitrate, SpaceAnemone	38	5	25
+477346	4	23	No Variant	2021-03-22 — 22:57:08 UTC	LookAway, Nitrate, Onen, ThomasW	1759	5	25
+477316	4	0	No Variant	2021-03-22 — 22:34:57 UTC	Nitrate, Onen, orucsoraihc, ThomasW	98	5	25
 477187	3	0	No Variant	2021-03-22 — 21:06:31 UTC	Fey, Nitrate, ThomasW	23	5	25
 476334	5	23	Prism (5 Suits)	2021-03-21 — 22:15:46 UTC	BlueNovember, DarthGandalf, newduke, Nitrate, Wittvector	9	5	25
 476290	5	0	Prism (5 Suits)	2021-03-21 — 21:33:55 UTC	BlueNovember, DarthGandalf, newduke, Nitrate, Wittvector	10	5	25
-475881	4	27	Black (6 Suits)	2021-03-21 — 15:51:24 UTC	BlueNovember, Nitrate, Pantheia, randomuser	90	6	30
+475881	4	27	Black (6 Suits)	2021-03-21 — 15:51:24 UTC	BlueNovember, Nitrate, Pantheia, randomuser	95	6	30
 475079	4	0	Light-Pink-Ones (4 Suits)	2021-03-20 — 21:38:17 UTC	Lanvin, newduke, Nitrate, Wittvector	1	4	20
 475067	4	0	Light-Pink-Ones (4 Suits)	2021-03-20 — 21:25:58 UTC	Lanvin, newduke, Nitrate, Wittvector	2	4	20
 475045	4	0	Light-Pink-Ones (4 Suits)	2021-03-20 — 21:10:01 UTC	Lanvin, newduke, Nitrate, Wittvector	2	4	20
 474954	5	0	Omni (6 Suits)	2021-03-20 — 19:40:57 UTC	Aluap, indego, newduke, Nitrate, nkkarpov	8	6	30
-474930	5	0	No Variant	2021-03-20 — 19:06:49 UTC	Aluap, indego, mehdi_safi, Nitrate, nkkarpov	100	5	25
-474909	2	27	Dark Rainbow (6 Suits)	2021-03-20 — 18:40:29 UTC	BlueNovember, Nitrate	88	6	30
-474899	2	25	Muddy Rainbow (5 Suits)	2021-03-20 — 18:21:27 UTC	BlueNovember, Nitrate	21	5	25
-474886	2	0	Muddy Rainbow (5 Suits)	2021-03-20 — 17:59:29 UTC	BlueNovember, Nitrate	25	5	25
+474930	5	0	No Variant	2021-03-20 — 19:06:49 UTC	Aluap, indego, mehdi_safi, Nitrate, nkkarpov	102	5	25
+474909	2	27	Dark Rainbow (6 Suits)	2021-03-20 — 18:40:29 UTC	BlueNovember, Nitrate	91	6	30
+474899	2	25	Muddy Rainbow (5 Suits)	2021-03-20 — 18:21:27 UTC	BlueNovember, Nitrate	22	5	25
+474886	2	0	Muddy Rainbow (5 Suits)	2021-03-20 — 17:59:29 UTC	BlueNovember, Nitrate	26	5	25
 473904	5	0	Rainbow & Gray Pink (5 Suits)	2021-03-19 — 21:23:00 UTC	Fey, HelanaAshryvr, Lanvin, Nitrate, Syrah	1	5	25
 473873	4	0	Rainbow & Prism (5 Suits)	2021-03-19 — 21:04:08 UTC	Fey, Lanvin, Nitrate, Syrah	1	5	25
 473863	5	0	Dark Pink (6 Suits)	2021-03-19 — 20:53:43 UTC	Denchulitas, Fey, Lanvin, Nitrate, Syrah	7	6	30
 473856	5	0	Brown (6 Suits)	2021-03-19 — 20:40:38 UTC	Denchulitas, Fey, Lanvin, Nitrate, Syrah	5	6	30
 473843	5	27	Brown (6 Suits)	2021-03-19 — 20:26:04 UTC	Denchulitas, Fey, Lanvin, Nitrate, Syrah	10	6	30
 473816	5	0	White-Ones & Black (6 Suits)	2021-03-19 — 19:50:40 UTC	Denchulitas, hakha3, Lanvin, MangoPie, Nitrate	2	6	30
-473753	3	25	Pink (5 Suits)	2021-03-19 — 18:33:27 UTC	kinkajusrevenge, Krepps57, Nitrate	108	5	25
-473603	3	0	Rainbow (6 Suits)	2021-03-19 — 15:13:38 UTC	ChristopheAF, Nitrate, wolfpack	196	6	30
-473588	3	28	Rainbow (6 Suits)	2021-03-19 — 14:37:02 UTC	ChristopheAF, Nitrate, wolfpack	332	6	30
-472916	3	0	Dual-Color Mix	2021-03-18 — 22:50:21 UTC	BlueNovember, Nitrate, SpaceAnemone	19	6	30
+473753	3	25	Pink (5 Suits)	2021-03-19 — 18:33:27 UTC	kinkajusrevenge, Krepps57, Nitrate	112	5	25
+473603	3	0	Rainbow (6 Suits)	2021-03-19 — 15:13:38 UTC	ChristopheAF, Nitrate, wolfpack	198	6	30
+473588	3	28	Rainbow (6 Suits)	2021-03-19 — 14:37:02 UTC	ChristopheAF, Nitrate, wolfpack	335	6	30
+472916	3	0	Dual-Color Mix	2021-03-18 — 22:50:21 UTC	BlueNovember, Nitrate, SpaceAnemone	20	6	30
 471979	3	20	White (4 Suits)	2021-03-18 — 00:35:49 UTC	BlueNovember, Nitrate, Pantheia	30	4	20
-471960	2	24	Muddy Rainbow (5 Suits)	2021-03-18 — 00:14:34 UTC	BlueNovember, Nitrate	31	5	25
-471943	2	0	Muddy Rainbow (5 Suits)	2021-03-17 — 23:58:11 UTC	BlueNovember, Nitrate	34	5	25
-471935	2	0	Muddy Rainbow (5 Suits)	2021-03-17 — 23:50:00 UTC	BlueNovember, Nitrate	46	5	25
-471927	2	0	Muddy Rainbow (5 Suits)	2021-03-17 — 23:37:01 UTC	BlueNovember, Nitrate	78	5	25
-471912	2	30	Brown (6 Suits)	2021-03-17 — 23:24:00 UTC	BlueNovember, Nitrate	72	6	30
-470770	3	0	Pink (5 Suits)	2021-03-17 — 01:33:34 UTC	BlueNovember, Nitrate, Pantheia	43	5	25
-470726	3	15	Pink (3 Suits)	2021-03-17 — 01:11:49 UTC	BlueNovember, Nitrate, Pantheia	44	3	15
+471960	2	24	Muddy Rainbow (5 Suits)	2021-03-18 — 00:14:34 UTC	BlueNovember, Nitrate	32	5	25
+471943	2	0	Muddy Rainbow (5 Suits)	2021-03-17 — 23:58:11 UTC	BlueNovember, Nitrate	36	5	25
+471935	2	0	Muddy Rainbow (5 Suits)	2021-03-17 — 23:50:00 UTC	BlueNovember, Nitrate	50	5	25
+471927	2	0	Muddy Rainbow (5 Suits)	2021-03-17 — 23:37:01 UTC	BlueNovember, Nitrate	82	5	25
+471912	2	30	Brown (6 Suits)	2021-03-17 — 23:24:00 UTC	BlueNovember, Nitrate	73	6	30
+470770	3	0	Pink (5 Suits)	2021-03-17 — 01:33:34 UTC	BlueNovember, Nitrate, Pantheia	44	5	25
+470726	3	15	Pink (3 Suits)	2021-03-17 — 01:11:49 UTC	BlueNovember, Nitrate, Pantheia	46	3	15
 470693	2	30	Pink (6 Suits)	2021-03-17 — 00:46:34 UTC	BlueNovember, Nitrate	93	6	30
 470677	2	0	Pink (6 Suits)	2021-03-17 — 00:24:10 UTC	BlueNovember, Nitrate	93	6	30
-470670	2	0	Pink (6 Suits)	2021-03-17 — 00:17:56 UTC	BlueNovember, Nitrate	104	6	30
+470670	2	0	Pink (6 Suits)	2021-03-17 — 00:17:56 UTC	BlueNovember, Nitrate	106	6	30
 470590	5	30	Light Pink (6 Suits)	2021-03-16 — 22:43:06 UTC	bjnh, knaphill, Nitrate, nkkarpov, Onen	7	6	30
 469669	2	0	Pink-Ones & Black (5 Suits)	2021-03-16 — 01:12:01 UTC	BlueNovember, Nitrate	3	5	25
 469656	2	0	Pink-Ones & Black (5 Suits)	2021-03-16 — 00:57:36 UTC	BlueNovember, Nitrate	3	5	25
 469651	2	0	Pink-Ones & Black (5 Suits)	2021-03-16 — 00:48:42 UTC	BlueNovember, Nitrate	3	5	25
 469645	2	0	Pink-Ones & Black (5 Suits)	2021-03-16 — 00:36:06 UTC	BlueNovember, Nitrate	3	5	25
 469618	3	0	Dual-Color Mix	2021-03-16 — 00:12:26 UTC	BlueNovember, Nitrate, SpaceAnemone	25	6	30
-469548	3	24	Dual-Color Mix	2021-03-15 — 23:30:19 UTC	BlueNovember, Nitrate, SpaceAnemone	29	6	30
+469548	3	24	Dual-Color Mix	2021-03-15 — 23:30:19 UTC	BlueNovember, Nitrate, SpaceAnemone	30	6	30
 469437	3	30	White (6 Suits)	2021-03-15 — 22:04:34 UTC	BlueNovember, Nitrate, Pantheia	33	6	30
 469392	3	0	White (6 Suits)	2021-03-15 — 21:36:21 UTC	BlueNovember, Nitrate, Pantheia	37	6	30
-469375	2	20	Rainbow (4 Suits)	2021-03-15 — 21:22:55 UTC	Nitrate, Pantheia	132	4	20
+469375	2	20	Rainbow (4 Suits)	2021-03-15 — 21:22:55 UTC	Nitrate, Pantheia	135	4	20
 469356	2	0	Muddy Rainbow (3 Suits)	2021-03-15 — 21:10:57 UTC	BlueNovember, Nitrate	7	3	15
 469340	2	14	Muddy Rainbow (3 Suits)	2021-03-15 — 20:57:59 UTC	BlueNovember, Nitrate	7	3	15
 469317	2	15	Pink (3 Suits)	2021-03-15 — 20:41:19 UTC	BlueNovember, Nitrate	25	3	15
 469304	2	12	Pink (3 Suits)	2021-03-15 — 20:29:26 UTC	BlueNovember, Nitrate	29	3	15
-466393	3	0	Gray (6 Suits)	2021-03-13 — 03:57:35 UTC	Nitrate, nkkarpov, rz	55	6	30
-466349	4	30	Brown (6 Suits)	2021-03-13 — 03:22:59 UTC	kevincaseytdk1, Nitrate, nkkarpov, rz	14	6	30
-466317	3	29	Brown (6 Suits)	2021-03-13 — 02:52:24 UTC	kevincaseytdk1, Nitrate, nkkarpov	40	6	30
-466114	3	29	Gray (6 Suits)	2021-03-12 — 23:56:24 UTC	Lanvin, MangoPie, Nitrate	10	6	30
-466089	3	0	Gray (6 Suits)	2021-03-12 — 23:31:33 UTC	Lanvin, MangoPie, Nitrate	12	6	30
+466393	3	0	Gray (6 Suits)	2021-03-13 — 03:57:35 UTC	Nitrate, nkkarpov, rz	57	6	30
+466349	4	30	Brown (6 Suits)	2021-03-13 — 03:22:59 UTC	kevincaseytdk1, Nitrate, nkkarpov, rz	15	6	30
+466317	3	29	Brown (6 Suits)	2021-03-13 — 02:52:24 UTC	kevincaseytdk1, Nitrate, nkkarpov	41	6	30
+466114	3	29	Gray (6 Suits)	2021-03-12 — 23:56:24 UTC	Lanvin, MangoPie, Nitrate	11	6	30
+466089	3	0	Gray (6 Suits)	2021-03-12 — 23:31:33 UTC	Lanvin, MangoPie, Nitrate	13	6	30
 466065	5	23	Black (5 Suits)	2021-03-12 — 23:11:37 UTC	Lanvin, MangoPie, Nitrate, Onen, orucsoraihc	6	5	25
 465146	2	30	Rainbow (6 Suits)	2021-03-12 — 01:34:02 UTC	BlueNovember, Nitrate	73	6	30
 465134	2	0	Rainbow (6 Suits)	2021-03-12 — 01:17:54 UTC	BlueNovember, Nitrate	75	6	30
-465129	2	29	Rainbow (6 Suits)	2021-03-12 — 01:07:37 UTC	BlueNovember, Nitrate	77	6	30
-465119	3	30	Dual-Color (6 Suits)	2021-03-12 — 00:45:45 UTC	BlueNovember, Nitrate, SpaceAnemone	43	6	30
-465108	3	0	Dual-Color (6 Suits)	2021-03-12 — 00:18:43 UTC	BlueNovember, Nitrate, SpaceAnemone	66	6	30
-465099	2	0	Rainbow (6 Suits)	2021-03-12 — 00:02:20 UTC	BlueNovember, Nitrate	82	6	30
+465129	2	29	Rainbow (6 Suits)	2021-03-12 — 01:07:37 UTC	BlueNovember, Nitrate	78	6	30
+465119	3	30	Dual-Color (6 Suits)	2021-03-12 — 00:45:45 UTC	BlueNovember, Nitrate, SpaceAnemone	44	6	30
+465108	3	0	Dual-Color (6 Suits)	2021-03-12 — 00:18:43 UTC	BlueNovember, Nitrate, SpaceAnemone	67	6	30
+465099	2	0	Rainbow (6 Suits)	2021-03-12 — 00:02:20 UTC	BlueNovember, Nitrate	83	6	30
 465085	4	23	Black & Rainbow (5 Suits)	2021-03-11 — 23:40:39 UTC	dobi, MarkusKahlsen, Nitrate, Syrah	9	5	25
-464015	3	22	Black (5 Suits)	2021-03-10 — 22:56:01 UTC	BlueNovember, Nitrate, SpaceAnemone	51	5	25
+464015	3	22	Black (5 Suits)	2021-03-10 — 22:56:01 UTC	BlueNovember, Nitrate, SpaceAnemone	52	5	25
 463051	3	13	Brown (3 Suits)	2021-03-10 — 00:53:02 UTC	BlueNovember, Nitrate, Pantheia	15	3	15
 463045	2	12	Rainbow & Brown (3 Suits)	2021-03-10 — 00:40:24 UTC	BlueNovember, Nitrate	6	3	15
 463042	2	14	Rainbow & Brown (3 Suits)	2021-03-10 — 00:30:13 UTC	BlueNovember, Nitrate	9	3	15
 463041	2	0	Rainbow & Brown (3 Suits)	2021-03-10 — 00:26:04 UTC	BlueNovember, Nitrate	13	3	15
 463036	3	0	Rainbow & Brown (4 Suits)	2021-03-10 — 00:10:28 UTC	BlueNovember, Nitrate, SpaceAnemone	20	4	20
-461826	4	0	No Variant	2021-03-08 — 22:50:05 UTC	BraydonM, dancherp, knaphill, Nitrate	180	5	25
-461798	2	25	Black (5 Suits)	2021-03-08 — 22:25:15 UTC	BraydonM, Nitrate	219	5	25
-461744	4	0	Gray (5 Suits)	2021-03-08 — 21:56:11 UTC	BraydonM, newduke, Nitrate, wump	22	5	25
-461704	4	0	Gray (5 Suits)	2021-03-08 — 21:32:16 UTC	BraydonM, newduke, Nitrate, wump	33	5	25
+461826	4	0	No Variant	2021-03-08 — 22:50:05 UTC	BraydonM, dancherp, knaphill, Nitrate	182	5	25
+461798	2	25	Black (5 Suits)	2021-03-08 — 22:25:15 UTC	BraydonM, Nitrate	222	5	25
+461744	4	0	Gray (5 Suits)	2021-03-08 — 21:56:11 UTC	BraydonM, newduke, Nitrate, wump	23	5	25
+461704	4	0	Gray (5 Suits)	2021-03-08 — 21:32:16 UTC	BraydonM, newduke, Nitrate, wump	34	5	25
 461673	4	0	Dark Prism (6 Suits)	2021-03-08 — 21:10:49 UTC	BraydonM, Denchulitas, Nitrate, sephiroth	14	6	30
 460662	3	0	Brown (3 Suits)	2021-03-07 — 22:44:09 UTC	BlueNovember, Nitrate, SpaceAnemone	29	3	15
 460613	3	12	Brown (3 Suits)	2021-03-07 — 22:20:54 UTC	BlueNovember, Nitrate, SpaceAnemone	37	3	15
@@ -205,8 +238,8 @@
 459724	5	29	6 Suits	2021-03-07 — 03:14:18 UTC	Bonja97, dancherp, Lel0uch, melwen, Nitrate	9	6	30
 454845	4	19	Brown (4 Suits)	2021-03-03 — 03:10:35 UTC	Nitrate, possum, rz, squirrel1988	22	4	20
 454816	4	0	Muddy Rainbow (4 Suits)	2021-03-03 — 02:41:11 UTC	Lanvin, Nitrate, rz, squirrel1988	5	4	20
-454794	4	0	Muddy Rainbow (4 Suits)	2021-03-03 — 02:25:06 UTC	Lanvin, Nitrate, rz, squirrel1988	9	4	20
-454783	4	0	Muddy Rainbow (4 Suits)	2021-03-03 — 02:14:31 UTC	Lanvin, Nitrate, rz, squirrel1988	16	4	20
+454794	4	0	Muddy Rainbow (4 Suits)	2021-03-03 — 02:25:06 UTC	Lanvin, Nitrate, rz, squirrel1988	10	4	20
+454783	4	0	Muddy Rainbow (4 Suits)	2021-03-03 — 02:14:31 UTC	Lanvin, Nitrate, rz, squirrel1988	17	4	20
 454772	6	0	Dual-Color (6 Suits)	2021-03-03 — 01:57:56 UTC	dobi, griff77, indego, IsabeltheCat, Lanvin, Nitrate	2	6	30
 454762	6	20	White-Ones & Brown (4 Suits)	2021-03-03 — 01:41:07 UTC	aquarelle, dobi, indego, Lanvin, Nitrate, wolfpack	1	4	20
 452662	4	24	Up or Down (5 Suits)	2021-03-01 — 02:38:23 UTC	bjnh, dobi, Nitrate, rz	13	5	25
@@ -218,7 +251,7 @@
 452131	3	0	White-Ones & Rainbow (5 Suits)	2021-02-28 — 19:34:25 UTC	bjnh, Nitrate, TheDaniMan	9	5	25
 451133	3	30	White & Prism (6 Suits)	2021-02-27 — 21:07:47 UTC	Fey, Nitrate, nkkarpov	7	6	30
 451111	3	0	White & Prism (6 Suits)	2021-02-27 — 20:41:32 UTC	Fey, Nitrate, nkkarpov	13	6	30
-450235	4	0	Rainbow (6 Suits)	2021-02-26 — 22:44:35 UTC	BlueNovember, Nitrate, Pantheia, SpaceAnemone	200	6	30
+450235	4	0	Rainbow (6 Suits)	2021-02-26 — 22:44:35 UTC	BlueNovember, Nitrate, Pantheia, SpaceAnemone	205	6	30
 449455	4	24	Rainbow & Dark Prism (5 Suits)	2021-02-26 — 02:37:34 UTC	4head, Nitrate, poofart123, rahsosprout	4	5	25
 449433	4	0	Rainbow & Dark Prism (5 Suits)	2021-02-26 — 02:18:20 UTC	4head, Nitrate, poofart123, rahsosprout	3	5	25
 449427	4	0	Rainbow & Dark Prism (5 Suits)	2021-02-26 — 02:14:29 UTC	4head, Nitrate, poofart123, rahsosprout	4	5	25
@@ -229,7 +262,7 @@
 449122	3	0	White (6 Suits)	2021-02-25 — 21:55:10 UTC	ChristopheAF, Nitrate, nkkarpov	18	6	30
 449076	5	23	Black (5 Suits)	2021-02-25 — 21:33:18 UTC	4head, ChristopheAF, Lanvin, Nitrate, nkkarpov	13	5	25
 448357	4	15	Rainbow & Pink (3 Suits)	2021-02-25 — 03:37:01 UTC	4head, jeff10, newduke, Nitrate	3	3	15
-448335	4	27	Gray (6 Suits)	2021-02-25 — 03:01:48 UTC	ksfortson, newduke, Nitrate, nwajfromoz	13	6	30
+448335	4	27	Gray (6 Suits)	2021-02-25 — 03:01:48 UTC	ksfortson, newduke, Nitrate, nwajfromoz	14	6	30
 448307	4	0	Dual-Color (6 Suits)	2021-02-25 — 02:28:41 UTC	IsabeltheCat, Nitrate, nkkarpov, nwajfromoz	24	6	30
 448164	3	0	Black & Rainbow (5 Suits)	2021-02-25 — 00:09:39 UTC	BlueNovember, Nitrate, SpaceAnemone	58	5	25
 447744	3	0	Rainbow & Prism (3 Suits)	2021-02-24 — 15:52:11 UTC	banjoleb, Nitrate, Spieler42	1	3	15
@@ -238,12 +271,12 @@
 447727	3	14	Rainbow & Prism (3 Suits)	2021-02-24 — 15:18:57 UTC	banjoleb, Nitrate, Spieler42	1	3	15
 447719	3	13	Rainbow & Prism (3 Suits)	2021-02-24 — 15:09:04 UTC	banjoleb, Nitrate, Spieler42	2	3	15
 446261	5	25	White (5 Suits)	2021-02-23 — 02:57:23 UTC	BlueNovember, griff77, ksfortson, louietyj, Nitrate	11	5	25
-446164	5	28	White (6 Suits)	2021-02-23 — 02:07:47 UTC	BlueNovember, griff77, louietyj, Nitrate, rahsosprout	20	6	30
+446164	5	28	White (6 Suits)	2021-02-23 — 02:07:47 UTC	BlueNovember, griff77, louietyj, Nitrate, rahsosprout	21	6	30
 446101	4	22	Black (5 Suits)	2021-02-23 — 01:28:03 UTC	BlueNovember, griff77, Nitrate, rahsosprout	15	5	25
-446004	3	25	Prism (5 Suits)	2021-02-22 — 23:21:23 UTC	Nitrate, rz, Wittvector	80	5	25
+446004	3	25	Prism (5 Suits)	2021-02-22 — 23:21:23 UTC	Nitrate, rz, Wittvector	82	5	25
 445966	4	0	Gray (6 Suits)	2021-02-22 — 22:42:10 UTC	bjnh, Nitrate, rz, Wittvector	10	6	30
 445943	4	0	Gray (6 Suits)	2021-02-22 — 22:26:58 UTC	bjnh, Nitrate, rz, Wittvector	15	6	30
-445929	4	0	Gray (6 Suits)	2021-02-22 — 22:15:15 UTC	bjnh, Nitrate, rz, Wittvector	18	6	30
+445929	4	0	Gray (6 Suits)	2021-02-22 — 22:15:15 UTC	bjnh, Nitrate, rz, Wittvector	19	6	30
 445738	5	24	Brown-Ones & Rainbow (5 Suits)	2021-02-22 — 19:27:03 UTC	Lanvin, MangoPie, Nitrate, squirrel1988, VerySloppyTwo	1	5	25
 445716	5	0	Brown-Ones & Rainbow (5 Suits)	2021-02-22 — 19:09:22 UTC	Lanvin, MangoPie, Nitrate, squirrel1988, VerySloppyTwo	1	5	25
 445708	5	0	Brown-Ones & Rainbow (5 Suits)	2021-02-22 — 18:57:40 UTC	Lanvin, MangoPie, Nitrate, squirrel1988, VerySloppyTwo	1	5	25
@@ -254,51 +287,51 @@
 445026	3	0	Muddy Rainbow (6 Suits)	2021-02-22 — 02:25:58 UTC	Doge, ksfortson, Nitrate	37	6	30
 444998	3	0	Muddy Rainbow (6 Suits)	2021-02-22 — 01:58:37 UTC	Doge, ksfortson, Nitrate	49	6	30
 444738	4	0	White & Dark Rainbow (5 Suits)	2021-02-21 — 22:14:39 UTC	dobi, IsabeltheCat, Nitrate, wump	5	5	25
-444704	4	28	Black & White (6 Suits)	2021-02-21 — 21:43:51 UTC	IsabeltheCat, Nitrate, rachyrules, wump	17	6	30
-444677	2	25	Dark Prism (5 Suits)	2021-02-21 — 21:17:13 UTC	IsabeltheCat, Nitrate	40	5	25
-444661	2	0	Dark Prism (5 Suits)	2021-02-21 — 21:03:10 UTC	IsabeltheCat, Nitrate	38	5	25
-444639	2	22	Dark Prism (5 Suits)	2021-02-21 — 20:48:13 UTC	IsabeltheCat, Nitrate	41	5	25
-442819	4	30	Brown (6 Suits)	2021-02-20 — 04:04:09 UTC	4head, Nitrate, nkkarpov, torp	27	6	30
-442783	4	28	Brown (6 Suits)	2021-02-20 — 03:32:40 UTC	4head, Nitrate, nkkarpov, torp	27	6	30
-442757	4	0	Brown (6 Suits)	2021-02-20 — 03:08:05 UTC	4head, Nitrate, nkkarpov, torp	41	6	30
+444704	4	28	Black & White (6 Suits)	2021-02-21 — 21:43:51 UTC	IsabeltheCat, Nitrate, rachyrules, wump	18	6	30
+444677	2	25	Dark Prism (5 Suits)	2021-02-21 — 21:17:13 UTC	IsabeltheCat, Nitrate	42	5	25
+444661	2	0	Dark Prism (5 Suits)	2021-02-21 — 21:03:10 UTC	IsabeltheCat, Nitrate	40	5	25
+444639	2	22	Dark Prism (5 Suits)	2021-02-21 — 20:48:13 UTC	IsabeltheCat, Nitrate	43	5	25
+442819	4	30	Brown (6 Suits)	2021-02-20 — 04:04:09 UTC	4head, Nitrate, nkkarpov, torp	28	6	30
+442783	4	28	Brown (6 Suits)	2021-02-20 — 03:32:40 UTC	4head, Nitrate, nkkarpov, torp	28	6	30
+442757	4	0	Brown (6 Suits)	2021-02-20 — 03:08:05 UTC	4head, Nitrate, nkkarpov, torp	42	6	30
 442738	3	28	Dark Rainbow (6 Suits)	2021-02-20 — 02:50:00 UTC	Nitrate, otterful, torp	77	6	30
 442697	3	25	Black (5 Suits)	2021-02-20 — 02:16:54 UTC	4head, Nitrate, rahsosprout	17	5	25
 442668	3	0	Black (5 Suits)	2021-02-20 — 02:02:39 UTC	4head, Nitrate, rahsosprout	19	5	25
 442642	3	0	Black (5 Suits)	2021-02-20 — 01:51:26 UTC	4head, Nitrate, rahsosprout	20	5	25
 442333	5	17	Rainbow (4 Suits)	2021-02-19 — 22:08:43 UTC	griff77, Nitrate, ontak, possum, Spieler42	11	4	20
-442276	5	18	Rainbow (4 Suits)	2021-02-19 — 21:26:56 UTC	griff77, Nitrate, ontak, possum, Spieler42	16	4	20
+442276	5	18	Rainbow (4 Suits)	2021-02-19 — 21:26:56 UTC	griff77, Nitrate, ontak, possum, Spieler42	17	4	20
 442224	5	0	Black (5 Suits)	2021-02-19 — 20:52:18 UTC	griff77, Nitrate, ontak, possum, Spieler42	12	5	25
-442185	5	0	Black (5 Suits)	2021-02-19 — 20:24:17 UTC	griff77, Nitrate, ontak, possum, Spieler42	13	5	25
-442160	5	0	Black (5 Suits)	2021-02-19 — 19:57:34 UTC	griff77, Nitrate, ontak, possum, Spieler42	17	5	25
+442185	5	0	Black (5 Suits)	2021-02-19 — 20:24:17 UTC	griff77, Nitrate, ontak, possum, Spieler42	14	5	25
+442160	5	0	Black (5 Suits)	2021-02-19 — 19:57:34 UTC	griff77, Nitrate, ontak, possum, Spieler42	18	5	25
 442142	5	0	Black (5 Suits)	2021-02-19 — 19:31:12 UTC	griff77, Nitrate, ontak, possum, Spieler42	17	5	25
 442122	5	0	Black (5 Suits)	2021-02-19 — 19:10:54 UTC	griff77, Nitrate, ontak, possum, Spieler42	20	5	25
 442103	5	20	White (4 Suits)	2021-02-19 — 18:43:02 UTC	bjnh, Denchulitas, griff77, Nitrate, rahsosprout	16	4	20
 442071	4	0	White (4 Suits)	2021-02-19 — 18:11:23 UTC	bjnh, griff77, Nitrate, rahsosprout	5	4	20
-441558	4	24	Gray (6 Suits)	2021-02-19 — 03:12:21 UTC	cockdestroyer, dobi, newduke, Nitrate	18	6	30
-441527	4	0	Gray (6 Suits)	2021-02-19 — 02:43:49 UTC	cockdestroyer, dobi, newduke, Nitrate	22	6	30
+441558	4	24	Gray (6 Suits)	2021-02-19 — 03:12:21 UTC	cockdestroyer, dobi, newduke, Nitrate	19	6	30
+441527	4	0	Gray (6 Suits)	2021-02-19 — 02:43:49 UTC	cockdestroyer, dobi, newduke, Nitrate	23	6	30
 441501	4	30	Dark Rainbow (6 Suits)	2021-02-19 — 02:16:13 UTC	cockdestroyer, newduke, Nitrate, rz	16	6	30
 441461	5	29	Brown (6 Suits)	2021-02-19 — 01:37:17 UTC	Nitrate, nwajfromoz, rahsosprout, rz, wump	3	6	30
 440568	6	26	White-Ones & White (6 Suits)	2021-02-18 — 03:07:16 UTC	aquarelle, BlueNovember, BraydonM, Lanvin, melwen, Nitrate	1	6	30
 440544	5	23	White-Ones & White (5 Suits)	2021-02-18 — 02:32:04 UTC	aquarelle, BlueNovember, BraydonM, Lanvin, Nitrate	5	5	25
 440540	5	0	White-Ones & White (5 Suits)	2021-02-18 — 02:18:12 UTC	aquarelle, BlueNovember, BraydonM, Lanvin, Nitrate	6	5	25
 440529	5	0	3 Suits	2021-02-18 — 02:04:13 UTC	aquarelle, BraydonM, Lanvin, Nitrate, vjk	19	3	15
-440505	3	0	Black (6 Suits)	2021-02-18 — 01:31:12 UTC	BlueNovember, Nitrate, Pantheia	74	6	30
-440480	3	28	Black (6 Suits)	2021-02-18 — 00:55:42 UTC	BlueNovember, Nitrate, Pantheia	80	6	30
-440430	4	23	Rainbow (5 Suits)	2021-02-18 — 00:20:58 UTC	BlueNovember, Nitrate, Pantheia, SpaceAnemone	38	5	25
+440505	3	0	Black (6 Suits)	2021-02-18 — 01:31:12 UTC	BlueNovember, Nitrate, Pantheia	75	6	30
+440480	3	28	Black (6 Suits)	2021-02-18 — 00:55:42 UTC	BlueNovember, Nitrate, Pantheia	82	6	30
+440430	4	23	Rainbow (5 Suits)	2021-02-18 — 00:20:58 UTC	BlueNovember, Nitrate, Pantheia, SpaceAnemone	40	5	25
 439452	4	0	Black (5 Suits)	2021-02-16 — 22:24:09 UTC	BlueNovember, Nitrate, Pantheia, SpaceAnemone	24	5	25
 439397	4	24	Black (5 Suits)	2021-02-16 — 21:44:26 UTC	BlueNovember, Nitrate, Pantheia, SpaceAnemone	28	5	25
 439281	3	25	White (5 Suits)	2021-02-16 — 19:48:49 UTC	Nitrate, Pimak, XMIL	5	5	25
 439261	3	22	White (5 Suits)	2021-02-16 — 19:25:24 UTC	Nitrate, Pimak, XMIL	5	5	25
-439250	4	0	No Variant	2021-02-16 — 19:08:21 UTC	Nitrate, Padouga, Pimak, XMIL	42	5	25
+439250	4	0	No Variant	2021-02-16 — 19:08:21 UTC	Nitrate, Padouga, Pimak, XMIL	43	5	25
 439225	4	0	No Variant	2021-02-16 — 18:45:33 UTC	Kernel, Nitrate, Padouga, Pimak	129	5	25
-438706	3	25	No Variant	2021-02-16 — 02:07:29 UTC	BlueNovember, Nitrate, Pantheia	30	5	25
-438698	3	0	No Variant	2021-02-16 — 01:53:29 UTC	BlueNovember, Nitrate, Pantheia	30	5	25
-438684	4	0	No Variant	2021-02-16 — 01:38:38 UTC	BlueNovember, Crux, Nitrate, Pantheia	117	5	25
-438670	3	25	No Variant	2021-02-16 — 01:28:01 UTC	BlueNovember, Crux, Nitrate	31	5	25
-438666	3	0	No Variant	2021-02-16 — 01:21:59 UTC	BlueNovember, Crux, Nitrate	31	5	25
+438706	3	25	No Variant	2021-02-16 — 02:07:29 UTC	BlueNovember, Nitrate, Pantheia	32	5	25
+438698	3	0	No Variant	2021-02-16 — 01:53:29 UTC	BlueNovember, Nitrate, Pantheia	33	5	25
+438684	4	0	No Variant	2021-02-16 — 01:38:38 UTC	BlueNovember, Crux, Nitrate, Pantheia	119	5	25
+438670	3	25	No Variant	2021-02-16 — 01:28:01 UTC	BlueNovember, Crux, Nitrate	33	5	25
+438666	3	0	No Variant	2021-02-16 — 01:21:59 UTC	BlueNovember, Crux, Nitrate	35	5	25
 438627	4	24	Black (5 Suits)	2021-02-16 — 00:43:28 UTC	BlueNovember, Crux, Nitrate, Pantheia	32	5	25
-438615	4	22	Black (5 Suits)	2021-02-16 — 00:06:29 UTC	BlueNovember, Crux, Nitrate, SpaceAnemone	36	5	25
-438145	4	25	No Variant	2021-02-15 — 16:47:56 UTC	banjoleb, MangoPie, MathNoob, Nitrate	287	5	25
+438615	4	22	Black (5 Suits)	2021-02-16 — 00:06:29 UTC	BlueNovember, Crux, Nitrate, SpaceAnemone	37	5	25
+438145	4	25	No Variant	2021-02-15 — 16:47:56 UTC	banjoleb, MangoPie, MathNoob, Nitrate	293	5	25
 437433	4	25	Brown & Prism (5 Suits)	2021-02-14 — 22:31:23 UTC	melwen, Nitrate, nwajfromoz, TimeHoodie	2	5	25
 437399	4	22	Brown & Prism (5 Suits)	2021-02-14 — 22:06:58 UTC	melwen, Nitrate, nwajfromoz, TimeHoodie	3	5	25
 437345	5	18	Muddy Rainbow (4 Suits)	2021-02-14 — 21:20:46 UTC	indego, jack67889, jeff10, Nitrate, TimeHoodie	2	4	20
@@ -308,10 +341,10 @@
 436968	5	21	Black (5 Suits)	2021-02-14 — 15:49:15 UTC	ChristopheAF, Fey, Lanvin, Nitrate, robense	9	5	25
 436948	5	0	Black (5 Suits)	2021-02-14 — 15:19:13 UTC	ChristopheAF, Fey, Lanvin, Nitrate, robense	13	5	25
 435863	5	30	Black (6 Suits)	2021-02-13 — 19:06:04 UTC	ChristopheAF, Lanvin, Nitrate, Pimak, TimeHoodie	39	6	30
-435818	4	23	Gray (5 Suits)	2021-02-13 — 18:13:58 UTC	aquarelle, ChristopheAF, Nitrate, Pimak	9	5	25
-435798	4	0	Gray (5 Suits)	2021-02-13 — 17:33:45 UTC	aquarelle, ChristopheAF, Nitrate, Pimak	12	5	25
-433443	3	28	Gray (6 Suits)	2021-02-11 — 18:56:49 UTC	Lanvin, Nitrate, Onen	20	6	30
-433419	3	0	Gray (6 Suits)	2021-02-11 — 18:26:38 UTC	Lanvin, Nitrate, Onen	23	6	30
+435818	4	23	Gray (5 Suits)	2021-02-13 — 18:13:58 UTC	aquarelle, ChristopheAF, Nitrate, Pimak	11	5	25
+435798	4	0	Gray (5 Suits)	2021-02-13 — 17:33:45 UTC	aquarelle, ChristopheAF, Nitrate, Pimak	15	5	25
+433443	3	28	Gray (6 Suits)	2021-02-11 — 18:56:49 UTC	Lanvin, Nitrate, Onen	21	6	30
+433419	3	0	Gray (6 Suits)	2021-02-11 — 18:26:38 UTC	Lanvin, Nitrate, Onen	25	6	30
 432932	3	0	Rainbow-Ones (6 Suits)	2021-02-11 — 02:03:34 UTC	BlueNovember, Nitrate, Pantheia	7	6	30
 432899	3	0	Rainbow-Ones (6 Suits)	2021-02-11 — 01:33:53 UTC	BlueNovember, Nitrate, Pantheia	9	6	30
 432876	3	0	Rainbow-Ones (6 Suits)	2021-02-11 — 01:13:58 UTC	BlueNovember, Nitrate, Pantheia	16	6	30
@@ -319,41 +352,41 @@
 432743	4	24	Pink (5 Suits)	2021-02-10 — 22:46:19 UTC	Animex52, cockdestroyer, jack67889, Nitrate	16	5	25
 432728	4	0	Pink (5 Suits)	2021-02-10 — 22:20:38 UTC	Animex52, cockdestroyer, jack67889, Nitrate	17	5	25
 432711	4	0	Pink (5 Suits)	2021-02-10 — 22:06:40 UTC	Animex52, cockdestroyer, jack67889, Nitrate	23	5	25
-432688	4	25	No Variant	2021-02-10 — 21:50:43 UTC	Animex52, cockdestroyer, Nitrate, spbsuitmo	45	5	25
-432453	3	0	No Variant	2021-02-10 — 18:55:55 UTC	girilaxmi, HariKrishnan, Nitrate	259	5	25
-431816	6	0	Black (6 Suits)	2021-02-10 — 03:32:50 UTC	BlueNovember, Bot-Fiora, griff77, IsabeltheCat, lolthisnotderk, Nitrate	15	6	30
+432688	4	25	No Variant	2021-02-10 — 21:50:43 UTC	Animex52, cockdestroyer, Nitrate, spbsuitmo	46	5	25
+432453	3	0	No Variant	2021-02-10 — 18:55:55 UTC	girilaxmi, HariKrishnan, Nitrate	261	5	25
+431816	6	0	Black (6 Suits)	2021-02-10 — 03:32:50 UTC	BlueNovember, Bot-Fiora, griff77, IsabeltheCat, lolthisnotderk, Nitrate	16	6	30
 431774	6	25	Rainbow (5 Suits)	2021-02-10 — 02:54:32 UTC	BlueNovember, Bot-Fiora, griff77, lolthisnotderk, Nitrate, stardust	7	5	25
-431723	4	0	Rainbow (5 Suits)	2021-02-10 — 02:03:34 UTC	Bot-Fiora, griff77, Nitrate, stardust	92	5	25
+431723	4	0	Rainbow (5 Suits)	2021-02-10 — 02:03:34 UTC	Bot-Fiora, griff77, Nitrate, stardust	93	5	25
 431684	5	0	Rainbow (5 Suits)	2021-02-10 — 01:28:57 UTC	Bot-Fiora, griff77, Nitrate, poofart123, stardust	26	5	25
 431678	5	0	Rainbow-Ones & Rainbow (5 Suits)	2021-02-10 — 01:04:37 UTC	indego, IsabeltheCat, melwen, Nitrate, TimeHoodie	3	5	25
-428501	3	0	No Variant	2021-02-07 — 03:04:35 UTC	BlueNovember, Nitrate, Pantheia	32	5	25
-428475	3	22	No Variant	2021-02-07 — 02:41:51 UTC	BlueNovember, Nitrate, Pantheia	34	5	25
-428445	3	0	No Variant	2021-02-07 — 02:15:22 UTC	BlueNovember, Nitrate, Pantheia	35	5	25
+428501	3	0	No Variant	2021-02-07 — 03:04:35 UTC	BlueNovember, Nitrate, Pantheia	33	5	25
+428475	3	22	No Variant	2021-02-07 — 02:41:51 UTC	BlueNovember, Nitrate, Pantheia	35	5	25
+428445	3	0	No Variant	2021-02-07 — 02:15:22 UTC	BlueNovember, Nitrate, Pantheia	36	5	25
 428423	4	14	3 Suits	2021-02-07 — 01:52:25 UTC	BlueNovember, Crux, Nitrate, Pantheia	37	3	15
 428414	4	0	3 Suits	2021-02-07 — 01:35:57 UTC	BlueNovember, Crux, Nitrate, Pantheia	49	3	15
-428390	4	20	Rainbow (4 Suits)	2021-02-07 — 01:11:06 UTC	BlueNovember, Crux, Nitrate, SpaceAnemone	45	4	20
+428390	4	20	Rainbow (4 Suits)	2021-02-07 — 01:11:06 UTC	BlueNovember, Crux, Nitrate, SpaceAnemone	46	4	20
 426126	4	0	Throw It in a Hole & Rainbow (5 Suits)	2021-02-05 — 03:34:49 UTC	aquarelle, HelanaAshryvr, newduke, Nitrate	1	5	25
 426097	4	0	Throw It in a Hole & Rainbow (5 Suits)	2021-02-05 — 02:58:50 UTC	aquarelle, HelanaAshryvr, newduke, Nitrate	1	5	25
 426058	4	20	White & Brown (4 Suits)	2021-02-05 — 02:21:51 UTC	aquarelle, Lel0uch, newduke, Nitrate	11	4	20
-425969	3	24	No Variant	2021-02-05 — 01:18:50 UTC	BlueNovember, Nitrate, SpaceAnemone	37	5	25
+425969	3	24	No Variant	2021-02-05 — 01:18:50 UTC	BlueNovember, Nitrate, SpaceAnemone	39	5	25
 424925	4	0	Black (5 Suits)	2021-02-04 — 02:45:29 UTC	Doge, griff77, Nitrate, nkkarpov	32	5	25
 424893	4	20	White (4 Suits)	2021-02-04 — 02:24:58 UTC	BlueNovember, Doge, griff77, Nitrate	6	4	20
 424860	4	0	White (4 Suits)	2021-02-04 — 02:01:13 UTC	BlueNovember, Doge, griff77, Nitrate	7	4	20
 424838	4	0	White (4 Suits)	2021-02-04 — 01:45:40 UTC	BlueNovember, Doge, griff77, Nitrate	13	4	20
-424800	4	0	White (4 Suits)	2021-02-04 — 01:10:54 UTC	BlueNovember, Doge, griff77, Nitrate	20	4	20
-424780	4	0	White (4 Suits)	2021-02-04 — 00:49:08 UTC	BlueNovember, Doge, griff77, Nitrate	34	4	20
+424800	4	0	White (4 Suits)	2021-02-04 — 01:10:54 UTC	BlueNovember, Doge, griff77, Nitrate	21	4	20
+424780	4	0	White (4 Suits)	2021-02-04 — 00:49:08 UTC	BlueNovember, Doge, griff77, Nitrate	35	4	20
 424754	3	23	Black (5 Suits)	2021-02-04 — 00:20:34 UTC	BlueNovember, Nitrate, SpaceAnemone	55	5	25
 424609	4	22	Pink-Fives & Dark Prism (5 Suits)	2021-02-03 — 22:06:00 UTC	4head, jeff10, knaphill, Nitrate	2	5	25
 424571	5	0	Black (6 Suits)	2021-02-03 — 21:38:40 UTC	4head, griff77, HariKrishnan, knaphill, Nitrate	58	6	30
-424542	5	27	Black (6 Suits)	2021-02-03 — 21:15:10 UTC	4head, griff77, HariKrishnan, knaphill, Nitrate	72	6	30
-423578	3	29	Black (6 Suits)	2021-02-03 — 01:59:22 UTC	BlueNovember, Crux, Nitrate	83	6	30
-423528	3	28	Black (6 Suits)	2021-02-03 — 01:18:07 UTC	BlueNovember, Crux, Nitrate	95	6	30
-423503	3	0	Black (6 Suits)	2021-02-03 — 00:46:48 UTC	BlueNovember, Crux, Nitrate	97	6	30
-423483	3	0	Black (6 Suits)	2021-02-03 — 00:29:05 UTC	BlueNovember, Crux, Nitrate	108	6	30
-423446	4	0	No Variant	2021-02-02 — 23:55:17 UTC	BlueNovember, Crux, Nitrate, SpaceAnemone	131	5	25
+424542	5	27	Black (6 Suits)	2021-02-03 — 21:15:10 UTC	4head, griff77, HariKrishnan, knaphill, Nitrate	74	6	30
+423578	3	29	Black (6 Suits)	2021-02-03 — 01:59:22 UTC	BlueNovember, Crux, Nitrate	85	6	30
+423528	3	28	Black (6 Suits)	2021-02-03 — 01:18:07 UTC	BlueNovember, Crux, Nitrate	97	6	30
+423503	3	0	Black (6 Suits)	2021-02-03 — 00:46:48 UTC	BlueNovember, Crux, Nitrate	100	6	30
+423483	3	0	Black (6 Suits)	2021-02-03 — 00:29:05 UTC	BlueNovember, Crux, Nitrate	111	6	30
+423446	4	0	No Variant	2021-02-02 — 23:55:17 UTC	BlueNovember, Crux, Nitrate, SpaceAnemone	132	5	25
 423392	4	24	Rainbow & Gray (5 Suits)	2021-02-02 — 22:33:34 UTC	dobi, Nitrate, rz, TimeHoodie	4	5	25
-423359	4	30	White & Prism (6 Suits)	2021-02-02 — 22:07:31 UTC	dobi, Nitrate, rz, TimeHoodie	7	6	30
-422690	3	30	Light Pink & Prism (6 Suits)	2021-02-02 — 03:13:50 UTC	melwen, Nitrate, Zamiel	2	6	30
+423359	4	30	White & Prism (6 Suits)	2021-02-02 — 22:07:31 UTC	dobi, Nitrate, rz, TimeHoodie	8	6	30
+422690	3	30	Light Pink & Prism (6 Suits)	2021-02-02 — 03:13:50 UTC	melwen, Nitrate, Zamiel	3	6	30
 422573	4	0	Rainbow-Ones (6 Suits)	2021-02-02 — 01:08:38 UTC	IsabeltheCat, newduke, Nitrate, rahsosprout	4	6	30
 422548	4	29	Rainbow-Ones (6 Suits)	2021-02-02 — 00:40:08 UTC	IsabeltheCat, newduke, Nitrate, rahsosprout	15	6	30
 421747	3	0	Pink (3 Suits)	2021-02-01 — 02:57:29 UTC	Nitrate, otterful, torp	2	3	15
@@ -365,67 +398,67 @@
 421130	3	27	Dark Brown (6 Suits)	2021-01-31 — 15:13:55 UTC	arnino, frosty104, Nitrate	32	6	30
 420741	4	0	Rainbow (5 Suits)	2021-01-31 — 05:12:50 UTC	BlueNovember, hailey, joaep2, Nitrate	42	5	25
 420697	4	22	Rainbow (5 Suits)	2021-01-31 — 04:46:05 UTC	BlueNovember, hailey, joaep2, Nitrate	63	5	25
-420264	4	23	No Variant	2021-01-30 — 22:53:25 UTC	BlueNovember, Crux, Nitrate, SpaceAnemone	138	5	25
-420238	4	0	No Variant	2021-01-30 — 22:26:29 UTC	BlueNovember, Crux, Nitrate, SpaceAnemone	149	5	25
-420208	2	0	No Variant	2021-01-30 — 22:05:27 UTC	Nitrate, SpaceAnemone	2750	5	25
-419998	4	28	White (6 Suits)	2021-01-30 — 20:00:52 UTC	Denchulitas, Nitrate, poofart123, TimeHoodie	16	6	30
-419958	4	30	White (6 Suits)	2021-01-30 — 19:04:19 UTC	Denchulitas, MangoPie, Nitrate, robense	41	6	30
-419459	2	0	Black (5 Suits)	2021-01-30 — 04:08:17 UTC	BlueNovember, Nitrate	69	5	25
-419432	2	24	Black (5 Suits)	2021-01-30 — 03:54:43 UTC	BlueNovember, Nitrate	78	5	25
-419401	2	21	Black (5 Suits)	2021-01-30 — 03:39:52 UTC	BlueNovember, Nitrate	85	5	25
-419362	2	20	Black (5 Suits)	2021-01-30 — 03:23:22 UTC	BlueNovember, Nitrate	97	5	25
-419329	2	23	Black (5 Suits)	2021-01-30 — 03:12:45 UTC	BlueNovember, Nitrate	108	5	25
-419291	2	20	Black (5 Suits)	2021-01-30 — 02:54:26 UTC	BlueNovember, Nitrate	115	5	25
-419248	3	25	No Variant	2021-01-30 — 02:29:29 UTC	BlueNovember, InflatableKayak, Nitrate	40	5	25
-419201	3	24	No Variant	2021-01-30 — 02:04:12 UTC	BlueNovember, InflatableKayak, Nitrate	40	5	25
-419168	3	0	Black (6 Suits)	2021-01-30 — 01:33:48 UTC	BlueNovember, colton, Nitrate	119	6	30
-419156	3	0	Black (6 Suits)	2021-01-30 — 01:19:04 UTC	BlueNovember, colton, Nitrate	125	6	30
-418848	4	25	Pink-Ones (5 Suits)	2021-01-29 — 21:15:47 UTC	ChristopheAF, MarkusKahlsen, methmatics, Nitrate	3	5	25
-418216	5	0	Dark Brown (6 Suits)	2021-01-29 — 03:01:21 UTC	indego, kimbifille, melwen, Nitrate, Zamiel	2	6	30
+420264	4	23	No Variant	2021-01-30 — 22:53:25 UTC	BlueNovember, Crux, Nitrate, SpaceAnemone	139	5	25
+420238	4	0	No Variant	2021-01-30 — 22:26:29 UTC	BlueNovember, Crux, Nitrate, SpaceAnemone	150	5	25
+420208	2	0	No Variant	2021-01-30 — 22:05:27 UTC	Nitrate, SpaceAnemone	2772	5	25
+419998	4	28	White (6 Suits)	2021-01-30 — 20:00:52 UTC	Denchulitas, Nitrate, poofart123, TimeHoodie	17	6	30
+419958	4	30	White (6 Suits)	2021-01-30 — 19:04:19 UTC	Denchulitas, MangoPie, Nitrate, robense	43	6	30
+419459	2	0	Black (5 Suits)	2021-01-30 — 04:08:17 UTC	BlueNovember, Nitrate	73	5	25
+419432	2	24	Black (5 Suits)	2021-01-30 — 03:54:43 UTC	BlueNovember, Nitrate	82	5	25
+419401	2	21	Black (5 Suits)	2021-01-30 — 03:39:52 UTC	BlueNovember, Nitrate	89	5	25
+419362	2	20	Black (5 Suits)	2021-01-30 — 03:23:22 UTC	BlueNovember, Nitrate	101	5	25
+419329	2	23	Black (5 Suits)	2021-01-30 — 03:12:45 UTC	BlueNovember, Nitrate	113	5	25
+419291	2	20	Black (5 Suits)	2021-01-30 — 02:54:26 UTC	BlueNovember, Nitrate	120	5	25
+419248	3	25	No Variant	2021-01-30 — 02:29:29 UTC	BlueNovember, InflatableKayak, Nitrate	41	5	25
+419201	3	24	No Variant	2021-01-30 — 02:04:12 UTC	BlueNovember, InflatableKayak, Nitrate	41	5	25
+419168	3	0	Black (6 Suits)	2021-01-30 — 01:33:48 UTC	BlueNovember, colton, Nitrate	122	6	30
+419156	3	0	Black (6 Suits)	2021-01-30 — 01:19:04 UTC	BlueNovember, colton, Nitrate	126	6	30
+418848	4	25	Pink-Ones (5 Suits)	2021-01-29 — 21:15:47 UTC	ChristopheAF, MarkusKahlsen, methmatics, Nitrate	4	5	25
+418216	5	0	Dark Brown (6 Suits)	2021-01-29 — 03:01:21 UTC	indego, kimbifille, melwen, Nitrate, Zamiel	3	6	30
 418198	5	0	Dark Brown (6 Suits)	2021-01-29 — 02:48:56 UTC	indego, kimbifille, melwen, Nitrate, Zamiel	5	6	30
 418150	5	30	Cocoa Rainbow (6 Suits)	2021-01-29 — 02:15:29 UTC	indego, Kyle, melwen, Nitrate, Zamiel	1	6	30
-418101	4	27	White (6 Suits)	2021-01-29 — 01:03:48 UTC	BlueNovember, dobi, hailey, Nitrate	60	6	30
+418101	4	27	White (6 Suits)	2021-01-29 — 01:03:48 UTC	BlueNovember, dobi, hailey, Nitrate	62	6	30
 418081	5	0	Dark Rainbow (5 Suits)	2021-01-29 — 00:20:46 UTC	colton, HelanaAshryvr, Nitrate, rahsosprout, robense	10	5	25
 418067	3	11	Pink-Ones & White (3 Suits)	2021-01-29 — 00:01:29 UTC	Durandal, HelanaAshryvr, Nitrate	1	3	15
-417124	3	29	6 Suits	2021-01-28 — 02:39:04 UTC	BlueNovember, Nitrate, Pantheia	28	6	30
-417079	2	0	Rainbow & Dark Brown (5 Suits)	2021-01-28 — 02:04:32 UTC	BlueNovember, Nitrate	11	5	25
+417124	3	29	6 Suits	2021-01-28 — 02:39:04 UTC	BlueNovember, Nitrate, Pantheia	29	6	30
+417079	2	0	Rainbow & Dark Brown (5 Suits)	2021-01-28 — 02:04:32 UTC	BlueNovember, Nitrate	13	5	25
 417045	2	30	Black (6 Suits)	2021-01-28 — 01:40:37 UTC	BlueNovember, Nitrate	91	6	30
-417010	3	0	Black (5 Suits)	2021-01-28 — 01:02:52 UTC	BlueNovember, Nitrate, Pantheia	71	5	25
-416977	4	22	No Variant	2021-01-28 — 00:30:41 UTC	BlueNovember, Nitrate, randomuser, SpaceAnemone	156	5	25
-416859	4	23	Black (5 Suits)	2021-01-27 — 22:17:56 UTC	hakha3, Lanvin, Nitrate, robense	21	5	25
-416813	4	22	Black (5 Suits)	2021-01-27 — 21:53:02 UTC	hakha3, Lanvin, Nitrate, robense	41	5	25
+417010	3	0	Black (5 Suits)	2021-01-28 — 01:02:52 UTC	BlueNovember, Nitrate, Pantheia	73	5	25
+416977	4	22	No Variant	2021-01-28 — 00:30:41 UTC	BlueNovember, Nitrate, randomuser, SpaceAnemone	157	5	25
+416859	4	23	Black (5 Suits)	2021-01-27 — 22:17:56 UTC	hakha3, Lanvin, Nitrate, robense	22	5	25
+416813	4	22	Black (5 Suits)	2021-01-27 — 21:53:02 UTC	hakha3, Lanvin, Nitrate, robense	42	5	25
 416663	4	24	Rainbow & Brown (5 Suits)	2021-01-27 — 20:13:35 UTC	aquarelle, jack67889, Kernel, Nitrate	6	5	25
 416642	4	0	Rainbow & Brown (5 Suits)	2021-01-27 — 19:52:50 UTC	aquarelle, jack67889, Kernel, Nitrate	9	5	25
 416636	4	0	Rainbow & Brown (5 Suits)	2021-01-27 — 19:45:19 UTC	aquarelle, jack67889, Kernel, Nitrate	17	5	25
-416606	4	0	No Variant	2021-01-27 — 19:19:19 UTC	aquarelle, Durandal, HelanaAshryvr, Nitrate	384	5	25
-416597	3	0	No Variant	2021-01-27 — 19:10:59 UTC	Durandal, HelanaAshryvr, Nitrate	218	5	25
-415981	3	0	Dark Pink (5 Suits)	2021-01-27 — 02:47:16 UTC	BlueNovember, Nitrate, Pantheia	42	5	25
-415955	2	0	Brown (6 Suits)	2021-01-27 — 02:15:52 UTC	BlueNovember, Nitrate	81	6	30
+416606	4	0	No Variant	2021-01-27 — 19:19:19 UTC	aquarelle, Durandal, HelanaAshryvr, Nitrate	387	5	25
+416597	3	0	No Variant	2021-01-27 — 19:10:59 UTC	Durandal, HelanaAshryvr, Nitrate	223	5	25
+415981	3	0	Dark Pink (5 Suits)	2021-01-27 — 02:47:16 UTC	BlueNovember, Nitrate, Pantheia	44	5	25
+415955	2	0	Brown (6 Suits)	2021-01-27 — 02:15:52 UTC	BlueNovember, Nitrate	82	6	30
 415934	4	0	3 Suits	2021-01-27 — 01:53:01 UTC	BlueNovember, Crux, Nitrate, Pantheia	62	3	15
-415920	4	14	3 Suits	2021-01-27 — 01:37:26 UTC	BlueNovember, Crux, Nitrate, Pantheia	73	3	15
+415920	4	14	3 Suits	2021-01-27 — 01:37:26 UTC	BlueNovember, Crux, Nitrate, Pantheia	74	3	15
 415900	3	25	Rainbow-Fives & Rainbow (5 Suits)	2021-01-27 — 01:10:47 UTC	BlueNovember, Crux, Nitrate	2	5	25
 415874	3	0	Rainbow-Fives & Rainbow (5 Suits)	2021-01-27 — 00:28:22 UTC	BlueNovember, Crux, Nitrate	2	5	25
 415789	3	25	Rainbow-Fives (5 Suits)	2021-01-26 — 22:49:45 UTC	BlueNovember, Nitrate, SpaceAnemone	4	5	25
 415126	3	30	Muddy-Rainbow-Fives (6 Suits)	2021-01-26 — 02:38:45 UTC	Kyle, Nitrate, Zamiel	2	6	30
 415109	3	0	Muddy-Rainbow-Fives (6 Suits)	2021-01-26 — 02:15:49 UTC	Kyle, Nitrate, Zamiel	2	6	30
-414991	3	20	Pink (5 Suits)	2021-01-25 — 23:28:30 UTC	BlueNovember, Crux, Nitrate	49	5	25
-414972	3	24	Pink (5 Suits)	2021-01-25 — 23:07:38 UTC	BlueNovember, Crux, Nitrate	62	5	25
-414952	3	20	Pink (4 Suits)	2021-01-25 — 22:51:15 UTC	BlueNovember, Crux, Nitrate	59	4	20
+414991	3	20	Pink (5 Suits)	2021-01-25 — 23:28:30 UTC	BlueNovember, Crux, Nitrate	51	5	25
+414972	3	24	Pink (5 Suits)	2021-01-25 — 23:07:38 UTC	BlueNovember, Crux, Nitrate	64	5	25
+414952	3	20	Pink (4 Suits)	2021-01-25 — 22:51:15 UTC	BlueNovember, Crux, Nitrate	60	4	20
 413570	4	23	Rainbow-Ones & Prism (5 Suits)	2021-01-24 — 15:24:14 UTC	ChristopheAF, knaphill, Nitrate, robense	2	5	25
-413209	3	0	Cocoa Rainbow (5 Suits)	2021-01-24 — 04:17:06 UTC	Animex52, aquarelle, Nitrate	29	5	25
+413209	3	0	Cocoa Rainbow (5 Suits)	2021-01-24 — 04:17:06 UTC	Animex52, aquarelle, Nitrate	30	5	25
 413134	5	22	Cocoa Rainbow (5 Suits)	2021-01-24 — 03:03:39 UTC	aquarelle, Asddsa76, indego, Lanvin, Nitrate	9	5	25
-412915	3	30	Rainbow (6 Suits)	2021-01-23 — 23:05:25 UTC	kinkajusrevenge, Nitrate, rahsosprout	77	6	30
+412915	3	30	Rainbow (6 Suits)	2021-01-23 — 23:05:25 UTC	kinkajusrevenge, Nitrate, rahsosprout	78	6	30
 412876	5	23	Black (5 Suits)	2021-01-23 — 22:40:42 UTC	BlueNovember, Crux, Nitrate, randomuser, SpaceAnemone	30	5	25
 412828	6	30	6 Suits	2021-01-23 — 22:04:31 UTC	cockdestroyer, Dwu123, methmatics, nitawa, Nitrate, XMIL	12	6	30
 412800	5	0	No Variant	2021-01-23 — 21:37:38 UTC	cockdestroyer, Dwu123, nitawa, Nitrate, XMIL	25	5	25
-411541	3	0	6 Suits	2021-01-22 — 20:17:46 UTC	Denchulitas, Nitrate, Spieler42	503	6	30
-411508	4	0	No Variant	2021-01-22 — 19:41:37 UTC	Daryl, Denchulitas, Nitrate, Wittvector	601	5	25
+411541	3	0	6 Suits	2021-01-22 — 20:17:46 UTC	Denchulitas, Nitrate, Spieler42	511	6	30
+411508	4	0	No Variant	2021-01-22 — 19:41:37 UTC	Daryl, Denchulitas, Nitrate, Wittvector	606	5	25
 411018	3	25	Brown (5 Suits)	2021-01-22 — 02:23:17 UTC	BlueNovember, Nitrate, rz	38	5	25
-410989	3	0	Brown (5 Suits)	2021-01-22 — 02:01:11 UTC	BlueNovember, Nitrate, rz	79	5	25
+410989	3	0	Brown (5 Suits)	2021-01-22 — 02:01:11 UTC	BlueNovember, Nitrate, rz	82	5	25
 410961	4	0	Rainbow (5 Suits)	2021-01-22 — 01:32:40 UTC	BlueNovember, indego, Nitrate, rz	54	5	25
 410939	3	22	Black (5 Suits)	2021-01-22 — 01:02:15 UTC	bjnh, BlueNovember, Nitrate	84	5	25
-410936	4	0	Rainbow (3 Suits)	2021-01-22 — 00:48:23 UTC	bjnh, BlueNovember, Nitrate, randomuser	14	3	15
-410933	4	0	Rainbow (3 Suits)	2021-01-22 — 00:44:12 UTC	bjnh, BlueNovember, Nitrate, randomuser	24	3	15
+410936	4	0	Rainbow (3 Suits)	2021-01-22 — 00:48:23 UTC	bjnh, BlueNovember, Nitrate, randomuser	15	3	15
+410933	4	0	Rainbow (3 Suits)	2021-01-22 — 00:44:12 UTC	bjnh, BlueNovember, Nitrate, randomuser	25	3	15
 410124	3	19	Black (5 Suits)	2021-01-21 — 01:03:36 UTC	BlueNovember, Nitrate, Pantheia	92	5	25
 410092	3	0	Black (5 Suits)	2021-01-21 — 00:34:43 UTC	BlueNovember, Nitrate, Pantheia	101	5	25
 410065	3	24	Black (5 Suits)	2021-01-21 — 00:06:07 UTC	BlueNovember, Nitrate, SpaceAnemone	119	5	25
@@ -433,263 +466,263 @@
 409842	4	0	Up or Down (6 Suits)	2021-01-20 — 19:57:52 UTC	4head, CaitlinSmith, newduke, Nitrate	15	6	30
 409807	5	0	Up or Down & Rainbow (5 Suits)	2021-01-20 — 19:28:22 UTC	4head, bjnh, CaitlinSmith, newduke, Nitrate	6	5	25
 409780	6	0	Rainbow (5 Suits)	2021-01-20 — 19:02:55 UTC	BananaBum, bjnh, CaitlinSmith, kevincaseytdk1, newduke, Nitrate	8	5	25
-409211	2	0	Rainbow (6 Suits)	2021-01-20 — 03:17:56 UTC	BlueNovember, Nitrate	97	6	30
-409201	2	29	Rainbow (6 Suits)	2021-01-20 — 02:59:12 UTC	BlueNovember, Nitrate	102	6	30
-409186	2	0	Rainbow (6 Suits)	2021-01-20 — 02:42:58 UTC	BlueNovember, Nitrate	106	6	30
-409172	3	0	Rainbow (3 Suits)	2021-01-20 — 02:25:13 UTC	BlueNovember, Crux, Nitrate	43	3	15
-409156	3	0	Rainbow (3 Suits)	2021-01-20 — 01:59:59 UTC	BlueNovember, Crux, Nitrate	53	3	15
-409144	3	12	Rainbow (3 Suits)	2021-01-20 — 01:44:06 UTC	BlueNovember, Crux, Nitrate	71	3	15
+409211	2	0	Rainbow (6 Suits)	2021-01-20 — 03:17:56 UTC	BlueNovember, Nitrate	98	6	30
+409201	2	29	Rainbow (6 Suits)	2021-01-20 — 02:59:12 UTC	BlueNovember, Nitrate	103	6	30
+409186	2	0	Rainbow (6 Suits)	2021-01-20 — 02:42:58 UTC	BlueNovember, Nitrate	107	6	30
+409172	3	0	Rainbow (3 Suits)	2021-01-20 — 02:25:13 UTC	BlueNovember, Crux, Nitrate	44	3	15
+409156	3	0	Rainbow (3 Suits)	2021-01-20 — 01:59:59 UTC	BlueNovember, Crux, Nitrate	54	3	15
+409144	3	12	Rainbow (3 Suits)	2021-01-20 — 01:44:06 UTC	BlueNovember, Crux, Nitrate	72	3	15
 409128	3	20	Rainbow (4 Suits)	2021-01-20 — 01:23:38 UTC	BlueNovember, Crux, Nitrate	11	4	20
-409108	3	25	Rainbow (5 Suits)	2021-01-20 — 00:51:33 UTC	BlueNovember, Crux, Nitrate	22	5	25
-409093	3	0	Rainbow (5 Suits)	2021-01-20 — 00:25:51 UTC	BlueNovember, Crux, Nitrate	21	5	25
+409108	3	25	Rainbow (5 Suits)	2021-01-20 — 00:51:33 UTC	BlueNovember, Crux, Nitrate	24	5	25
+409093	3	0	Rainbow (5 Suits)	2021-01-20 — 00:25:51 UTC	BlueNovember, Crux, Nitrate	23	5	25
 408105	5	24	Pink & Brown (5 Suits)	2021-01-19 — 01:29:52 UTC	indego, melwen, newduke, Nitrate, TimeHoodie	7	5	25
 408080	4	0	Rainbow-Fives & White (6 Suits)	2021-01-19 — 00:52:56 UTC	Nitrate, rachyrules, sephiroth, TimeHoodie	4	6	30
 408035	5	0	Black & Pink (5 Suits)	2021-01-19 — 00:13:54 UTC	dobi, Nitrate, rachyrules, sephiroth, wump	5	5	25
 408031	3	24	Black & Pink (5 Suits)	2021-01-19 — 00:03:58 UTC	dobi, Nitrate, sephiroth	22	5	25
-408011	3	25	No Variant	2021-01-18 — 23:38:49 UTC	Nitrate, Pantheia, SpaceAnemone	61	5	25
-407936	3	24	No Variant	2021-01-18 — 22:21:26 UTC	Nitrate, Pantheia, SpaceAnemone	63	5	25
+408011	3	25	No Variant	2021-01-18 — 23:38:49 UTC	Nitrate, Pantheia, SpaceAnemone	62	5	25
+407936	3	24	No Variant	2021-01-18 — 22:21:26 UTC	Nitrate, Pantheia, SpaceAnemone	64	5	25
 406740	3	19	Ambiguous (4 Suits)	2021-01-17 — 23:03:59 UTC	4head, BlueNovember, Nitrate	19	4	20
 406706	3	18	Ambiguous (4 Suits)	2021-01-17 — 22:34:16 UTC	4head, BlueNovember, Nitrate	39	4	20
 406663	3	30	Rainbow (6 Suits)	2021-01-17 — 22:01:57 UTC	4head, BlueNovember, Nitrate	126	6	30
-406517	4	22	Black (5 Suits)	2021-01-17 — 20:09:44 UTC	CaitlinSmith, Nils, Nitrate, nkkarpov	36	5	25
+406517	4	22	Black (5 Suits)	2021-01-17 — 20:09:44 UTC	CaitlinSmith, Nils, Nitrate, nkkarpov	37	5	25
 406474	5	22	Black (5 Suits)	2021-01-17 — 19:27:57 UTC	4head, ArualEIs, CaitlinSmith, Nitrate, Pimak	36	5	25
-406450	5	22	No Variant	2021-01-17 — 18:45:03 UTC	4head, ArualEIs, CaitlinSmith, Nitrate, Pimak	262	5	25
-405829	2	15	Rainbow (3 Suits)	2021-01-17 — 01:37:32 UTC	Nitrate, Pantheia	76	3	15
+406450	5	22	No Variant	2021-01-17 — 18:45:03 UTC	4head, ArualEIs, CaitlinSmith, Nitrate, Pimak	265	5	25
+405829	2	15	Rainbow (3 Suits)	2021-01-17 — 01:37:32 UTC	Nitrate, Pantheia	78	3	15
 405779	5	20	4 Suits	2021-01-17 — 00:48:17 UTC	BlueNovember, Crux, Nitrate, Pantheia, randomuser	47	4	20
-405487	3	26	Black (6 Suits)	2021-01-16 — 21:04:34 UTC	Nils, Nitrate, nkkarpov	213	6	30
+405487	3	26	Black (6 Suits)	2021-01-16 — 21:04:34 UTC	Nils, Nitrate, nkkarpov	214	6	30
 405415	3	26	Black (6 Suits)	2021-01-16 — 20:24:32 UTC	Nils, Nitrate, nkkarpov	236	6	30
-405361	3	25	Black (6 Suits)	2021-01-16 — 19:43:47 UTC	Nils, Nitrate, nkkarpov	399	6	30
+405361	3	25	Black (6 Suits)	2021-01-16 — 19:43:47 UTC	Nils, Nitrate, nkkarpov	407	6	30
 405243	3	23	White-Ones & Prism (5 Suits)	2021-01-16 — 16:54:05 UTC	dobi, Nitrate, TimeHoodie	3	5	25
 405214	3	0	White-Ones & Prism (5 Suits)	2021-01-16 — 16:19:41 UTC	dobi, Nitrate, TimeHoodie	4	5	25
 404830	3	0	Very Ambiguous (6 Suits)	2021-01-16 — 04:41:45 UTC	BlueNovember, Nitrate, Pantheia	37	6	30
-404762	4	24	No Variant	2021-01-16 — 04:06:41 UTC	BlueNovember, Capoeira45, Nitrate, Pantheia	190	5	25
-404660	3	19	White (4 Suits)	2021-01-16 — 03:14:52 UTC	BlueNovember, Nitrate, Pantheia	46	4	20
-404601	3	19	White (4 Suits)	2021-01-16 — 02:38:39 UTC	BlueNovember, Nitrate, Pantheia	59	4	20
-404574	4	23	Black (5 Suits)	2021-01-16 — 02:15:08 UTC	BlueNovember, Crux, Nitrate, Pantheia	44	5	25
-404346	3	0	No Variant	2021-01-15 — 21:19:55 UTC	Nitrate, Pantheia, SpaceAnemone	65	5	25
-404314	3	25	No Variant	2021-01-15 — 20:52:04 UTC	BlueNovember, Nitrate, SpaceAnemone	38	5	25
-403609	2	12	Null (3 Suits)	2021-01-15 — 03:11:03 UTC	BlueNovember, Nitrate	37	3	15
-403598	2	0	Null (3 Suits)	2021-01-15 — 02:59:47 UTC	BlueNovember, Nitrate	56	3	15
-403585	2	0	Null (5 Suits)	2021-01-15 — 02:47:36 UTC	BlueNovember, Nitrate	101	5	25
+404762	4	24	No Variant	2021-01-16 — 04:06:41 UTC	BlueNovember, Capoeira45, Nitrate, Pantheia	192	5	25
+404660	3	19	White (4 Suits)	2021-01-16 — 03:14:52 UTC	BlueNovember, Nitrate, Pantheia	47	4	20
+404601	3	19	White (4 Suits)	2021-01-16 — 02:38:39 UTC	BlueNovember, Nitrate, Pantheia	62	4	20
+404574	4	23	Black (5 Suits)	2021-01-16 — 02:15:08 UTC	BlueNovember, Crux, Nitrate, Pantheia	47	5	25
+404346	3	0	No Variant	2021-01-15 — 21:19:55 UTC	Nitrate, Pantheia, SpaceAnemone	67	5	25
+404314	3	25	No Variant	2021-01-15 — 20:52:04 UTC	BlueNovember, Nitrate, SpaceAnemone	40	5	25
+403609	2	12	Null (3 Suits)	2021-01-15 — 03:11:03 UTC	BlueNovember, Nitrate	38	3	15
+403598	2	0	Null (3 Suits)	2021-01-15 — 02:59:47 UTC	BlueNovember, Nitrate	57	3	15
+403585	2	0	Null (5 Suits)	2021-01-15 — 02:47:36 UTC	BlueNovember, Nitrate	103	5	25
 403563	3	28	Dark Prism (6 Suits)	2021-01-15 — 02:25:27 UTC	BlueNovember, Crux, Nitrate	13	6	30
-403528	3	26	Dark Prism (6 Suits)	2021-01-15 — 01:40:24 UTC	BlueNovember, Crux, Nitrate	20	6	30
+403528	3	26	Dark Prism (6 Suits)	2021-01-15 — 01:40:24 UTC	BlueNovember, Crux, Nitrate	22	6	30
 403516	3	0	Dark Prism (6 Suits)	2021-01-15 — 01:08:10 UTC	BlueNovember, Crux, Nitrate	25	6	30
 403500	4	0	Dark Prism (6 Suits)	2021-01-15 — 00:47:45 UTC	BlueNovember, Crux, Nitrate, Pantheia	23	6	30
-403326	3	25	No Variant	2021-01-14 — 21:24:31 UTC	Nitrate, Pantheia, SpaceAnemone	83	5	25
-403301	3	0	No Variant	2021-01-14 — 21:05:18 UTC	Nitrate, Pantheia, SpaceAnemone	82	5	25
-403283	3	25	No Variant	2021-01-14 — 20:53:40 UTC	Nitrate, Pantheia, SpaceAnemone	130	5	25
-401420	4	24	Black (5 Suits)	2021-01-12 — 22:35:07 UTC	BlueNovember, Nitrate, randomuser, SpaceAnemone	49	5	25
-401387	4	0	Black (5 Suits)	2021-01-12 — 21:54:38 UTC	BlueNovember, Nitrate, randomuser, SpaceAnemone	63	5	25
-401309	4	23	No Variant	2021-01-12 — 20:27:59 UTC	4head, indego, Nitrate, tezeteta	336	5	25
-400757	4	30	White (6 Suits)	2021-01-12 — 03:46:12 UTC	BlueNovember, indego, Nitrate, pianoblook	35	6	30
+403326	3	25	No Variant	2021-01-14 — 21:24:31 UTC	Nitrate, Pantheia, SpaceAnemone	86	5	25
+403301	3	0	No Variant	2021-01-14 — 21:05:18 UTC	Nitrate, Pantheia, SpaceAnemone	85	5	25
+403283	3	25	No Variant	2021-01-14 — 20:53:40 UTC	Nitrate, Pantheia, SpaceAnemone	135	5	25
+401420	4	24	Black (5 Suits)	2021-01-12 — 22:35:07 UTC	BlueNovember, Nitrate, randomuser, SpaceAnemone	51	5	25
+401387	4	0	Black (5 Suits)	2021-01-12 — 21:54:38 UTC	BlueNovember, Nitrate, randomuser, SpaceAnemone	64	5	25
+401309	4	23	No Variant	2021-01-12 — 20:27:59 UTC	4head, indego, Nitrate, tezeteta	340	5	25
+400757	4	30	White (6 Suits)	2021-01-12 — 03:46:12 UTC	BlueNovember, indego, Nitrate, pianoblook	36	6	30
 400712	2	29	Black (6 Suits)	2021-01-12 — 03:13:58 UTC	BlueNovember, Nitrate	92	6	30
 400632	5	0	Rainbow (5 Suits)	2021-01-12 — 01:58:38 UTC	BlueNovember, Fireheart, Jake_Stiles, Nitrate, XMIL	6	5	25
 400623	5	0	Rainbow (5 Suits)	2021-01-12 — 01:34:12 UTC	BlueNovember, Fireheart, Jake_Stiles, Nitrate, XMIL	12	5	25
-400606	3	22	Rainbow (5 Suits)	2021-01-12 — 01:08:40 UTC	BlueNovember, Nitrate, XMIL	39	5	25
-400587	5	20	No Variant	2021-01-12 — 00:47:30 UTC	BlueNovember, Chizz, kinkajusrevenge, Nitrate, XMIL	31	5	25
-400448	3	15	3 Suits	2021-01-11 — 21:43:55 UTC	ArualEIs, Nitrate, rahsosprout	39	3	15
-400433	3	11	3 Suits	2021-01-11 — 21:25:19 UTC	ArualEIs, Nitrate, rahsosprout	43	3	15
+400606	3	22	Rainbow (5 Suits)	2021-01-12 — 01:08:40 UTC	BlueNovember, Nitrate, XMIL	40	5	25
+400587	5	20	No Variant	2021-01-12 — 00:47:30 UTC	BlueNovember, Chizz, kinkajusrevenge, Nitrate, XMIL	32	5	25
+400448	3	15	3 Suits	2021-01-11 — 21:43:55 UTC	ArualEIs, Nitrate, rahsosprout	40	3	15
+400433	3	11	3 Suits	2021-01-11 — 21:25:19 UTC	ArualEIs, Nitrate, rahsosprout	45	3	15
 400406	5	24	Brown-Ones (5 Suits)	2021-01-11 — 21:00:57 UTC	Daryl, Lanvin, Nitrate, rahsosprout, sephiroth	3	5	25
 400387	5	0	Brown-Ones (5 Suits)	2021-01-11 — 20:42:56 UTC	Daryl, Lanvin, Nitrate, rahsosprout, sephiroth	5	5	25
 400374	5	0	3 Suits	2021-01-11 — 20:30:45 UTC	CaitlinSmith, Daryl, Lanvin, Nitrate, rahsosprout	27	3	15
-400333	3	25	No Variant	2021-01-11 — 19:55:36 UTC	CaitlinSmith, Daryl, Nitrate	167	5	25
-400313	3	0	No Variant	2021-01-11 — 19:32:37 UTC	CaitlinSmith, Daryl, Nitrate	164	5	25
-399602	4	23	Black (5 Suits)	2021-01-10 — 23:01:21 UTC	BlueNovember, Nitrate, randomuser, SpaceAnemone	79	5	25
-399510	4	27	White (6 Suits)	2021-01-10 — 22:05:47 UTC	BlueNovember, Nitrate, randomuser, SpaceAnemone	75	6	30
-399465	4	23	No Variant	2021-01-10 — 21:19:13 UTC	CaitlinSmith, liquidNitrogen, Nitrate, rahsosprout	419	5	25
-398563	3	15	3 Suits	2021-01-10 — 02:31:30 UTC	BlueNovember, Crux, Nitrate	88	3	15
-398545	3	14	3 Suits	2021-01-10 — 02:19:35 UTC	BlueNovember, Crux, Nitrate	115	3	15
-398510	5	0	Rainbow (6 Suits)	2021-01-10 — 01:38:06 UTC	BlueNovember, Crux, Nitrate, Pantheia, randomuser	101	6	30
-398181	2	14	Rainbow (3 Suits)	2021-01-09 — 22:12:13 UTC	Kernel, Nitrate	127	3	15
-398165	2	15	3 Suits	2021-01-09 — 22:00:09 UTC	Kernel, Nitrate	193	3	15
-398152	2	0	3 Suits	2021-01-09 — 21:55:38 UTC	Kernel, Nitrate	271	3	15
-398137	5	22	No Variant	2021-01-09 — 21:39:07 UTC	Kernel, Nitrate, nwajfromoz, Padouga, rahsosprout	207	5	25
-398092	5	23	No Variant	2021-01-09 — 21:00:39 UTC	Kernel, Nitrate, nwajfromoz, Padouga, rahsosprout	296	5	25
+400333	3	25	No Variant	2021-01-11 — 19:55:36 UTC	CaitlinSmith, Daryl, Nitrate	170	5	25
+400313	3	0	No Variant	2021-01-11 — 19:32:37 UTC	CaitlinSmith, Daryl, Nitrate	167	5	25
+399602	4	23	Black (5 Suits)	2021-01-10 — 23:01:21 UTC	BlueNovember, Nitrate, randomuser, SpaceAnemone	80	5	25
+399510	4	27	White (6 Suits)	2021-01-10 — 22:05:47 UTC	BlueNovember, Nitrate, randomuser, SpaceAnemone	76	6	30
+399465	4	23	No Variant	2021-01-10 — 21:19:13 UTC	CaitlinSmith, liquidNitrogen, Nitrate, rahsosprout	423	5	25
+398563	3	15	3 Suits	2021-01-10 — 02:31:30 UTC	BlueNovember, Crux, Nitrate	90	3	15
+398545	3	14	3 Suits	2021-01-10 — 02:19:35 UTC	BlueNovember, Crux, Nitrate	116	3	15
+398510	5	0	Rainbow (6 Suits)	2021-01-10 — 01:38:06 UTC	BlueNovember, Crux, Nitrate, Pantheia, randomuser	102	6	30
+398181	2	14	Rainbow (3 Suits)	2021-01-09 — 22:12:13 UTC	Kernel, Nitrate	132	3	15
+398165	2	15	3 Suits	2021-01-09 — 22:00:09 UTC	Kernel, Nitrate	195	3	15
+398152	2	0	3 Suits	2021-01-09 — 21:55:38 UTC	Kernel, Nitrate	273	3	15
+398137	5	22	No Variant	2021-01-09 — 21:39:07 UTC	Kernel, Nitrate, nwajfromoz, Padouga, rahsosprout	208	5	25
+398092	5	23	No Variant	2021-01-09 — 21:00:39 UTC	Kernel, Nitrate, nwajfromoz, Padouga, rahsosprout	302	5	25
 397365	3	21	Rainbow-Ones (5 Suits)	2021-01-09 — 03:19:56 UTC	BlueNovember, kinkajusrevenge, Nitrate	18	5	25
 397295	6	27	6 Suits	2021-01-09 — 02:23:04 UTC	BlueNovember, kinkajusrevenge, Lanvin, Nitrate, randomuser, SpaceAnemone	34	6	30
-396864	3	25	No Variant	2021-01-08 — 20:03:00 UTC	function, louietyj, Nitrate	375	5	25
-396787	5	21	No Variant	2021-01-08 — 18:53:18 UTC	Donna, function, lolthisnotderk, Nitrate, Pimak	344	5	25
+396864	3	25	No Variant	2021-01-08 — 20:03:00 UTC	function, louietyj, Nitrate	380	5	25
+396787	5	21	No Variant	2021-01-08 — 18:53:18 UTC	Donna, function, lolthisnotderk, Nitrate, Pimak	348	5	25
 396150	5	23	White (5 Suits)	2021-01-08 — 01:46:40 UTC	BlueNovember, Nitrate, Pantheia, rahsosprout, torp	37	5	25
 396017	2	22	Omni (5 Suits)	2021-01-08 — 01:05:29 UTC	BlueNovember, Nitrate	39	5	25
-395960	3	24	No Variant	2021-01-08 — 00:20:29 UTC	BlueNovember, Nitrate, SpaceAnemone	41	5	25
-395797	3	22	No Variant	2021-01-07 — 21:36:49 UTC	Damian000, function, Nitrate	624	5	25
-395738	3	23	No Variant	2021-01-07 — 20:44:00 UTC	Damian000, function, Nitrate	680	5	25
-395708	3	0	No Variant	2021-01-07 — 20:11:29 UTC	Damian000, function, Nitrate	1095	5	25
-395015	5	0	Black (6 Suits)	2021-01-07 — 01:17:34 UTC	Nitrate, nkkarpov, rahsosprout, Vensahn, voss	27	6	30
-395000	3	28	Black (6 Suits)	2021-01-07 — 00:57:32 UTC	Nitrate, nkkarpov, voss	149	6	30
-394977	3	0	Black (6 Suits)	2021-01-07 — 00:24:04 UTC	Nitrate, nkkarpov, voss	159	6	30
+395960	3	24	No Variant	2021-01-08 — 00:20:29 UTC	BlueNovember, Nitrate, SpaceAnemone	43	5	25
+395797	3	22	No Variant	2021-01-07 — 21:36:49 UTC	Damian000, function, Nitrate	632	5	25
+395738	3	23	No Variant	2021-01-07 — 20:44:00 UTC	Damian000, function, Nitrate	688	5	25
+395708	3	0	No Variant	2021-01-07 — 20:11:29 UTC	Damian000, function, Nitrate	1102	5	25
+395015	5	0	Black (6 Suits)	2021-01-07 — 01:17:34 UTC	Nitrate, nkkarpov, rahsosprout, Vensahn, voss	28	6	30
+395000	3	28	Black (6 Suits)	2021-01-07 — 00:57:32 UTC	Nitrate, nkkarpov, voss	151	6	30
+394977	3	0	Black (6 Suits)	2021-01-07 — 00:24:04 UTC	Nitrate, nkkarpov, voss	161	6	30
 394133	4	0	Ambiguous (4 Suits)	2021-01-06 — 02:53:32 UTC	boba, FerKeth, HelanaAshryvr, Nitrate	4	4	20
 394128	4	0	Ambiguous (4 Suits)	2021-01-06 — 02:47:45 UTC	boba, FerKeth, HelanaAshryvr, Nitrate	5	4	20
 394114	4	16	Ambiguous (4 Suits)	2021-01-06 — 02:32:42 UTC	boba, FerKeth, HelanaAshryvr, Nitrate	7	4	20
 393061	4	0	White-Ones (5 Suits)	2021-01-05 — 03:33:35 UTC	lolthisnotderk, Nitrate, nkkarpov, sin_faith	7	5	25
 392989	3	24	White-Ones (5 Suits)	2021-01-05 — 02:51:16 UTC	lolthisnotderk, Nitrate, nkkarpov	3	5	25
-392934	3	25	No Variant	2021-01-05 — 02:15:42 UTC	lolthisnotderk, Nitrate, nkkarpov	1291	5	25
-392899	3	21	No Variant	2021-01-05 — 01:33:26 UTC	lolthisnotderk, Nitrate, nkkarpov	1636	5	25
-392434	3	25	No Variant	2021-01-04 — 12:31:40 UTC	knaphill, Nitrate, Pablo-	89	5	25
+392934	3	25	No Variant	2021-01-05 — 02:15:42 UTC	lolthisnotderk, Nitrate, nkkarpov	1299	5	25
+392899	3	21	No Variant	2021-01-05 — 01:33:26 UTC	lolthisnotderk, Nitrate, nkkarpov	1651	5	25
+392434	3	25	No Variant	2021-01-04 — 12:31:40 UTC	knaphill, Nitrate, Pablo-	91	5	25
 391656	5	0	Brown (6 Suits)	2021-01-03 — 20:20:43 UTC	eljavi, Lanvin, Nitrate, nwajfromoz, wump	8	6	30
 391630	5	0	Brown (6 Suits)	2021-01-03 — 19:47:38 UTC	eljavi, Lanvin, Nitrate, nwajfromoz, wump	12	6	30
-391605	4	25	No Variant	2021-01-03 — 19:19:08 UTC	Nitrate, Pimak, tezeteta, XMIL	48	5	25
-391568	4	0	No Variant	2021-01-03 — 18:42:28 UTC	macanek, Nitrate, Pimak, tezeteta	233	5	25
+391605	4	25	No Variant	2021-01-03 — 19:19:08 UTC	Nitrate, Pimak, tezeteta, XMIL	49	5	25
+391568	4	0	No Variant	2021-01-03 — 18:42:28 UTC	macanek, Nitrate, Pimak, tezeteta	236	5	25
 391541	5	23	No Variant	2021-01-03 — 18:04:59 UTC	Kyle, Lanvin, Nitrate, Spieler42, XMIL	7	5	25
-388448	3	13	3 Suits	2020-12-31 — 21:23:45 UTC	Kernel, Nitrate, Olipod	144	3	15
-388399	3	27	6 Suits	2020-12-31 — 20:43:17 UTC	Nitrate, Olipod, XMIL	147	6	30
+388448	3	13	3 Suits	2020-12-31 — 21:23:45 UTC	Kernel, Nitrate, Olipod	146	3	15
+388399	3	27	6 Suits	2020-12-31 — 20:43:17 UTC	Nitrate, Olipod, XMIL	149	6	30
 388344	4	24	No Variant	2020-12-31 — 19:21:23 UTC	Lanvin, Nitrate, Olipod, XMIL	47	5	25
 388333	5	0	White (6 Suits)	2020-12-31 — 18:56:01 UTC	Lanvin, Nitrate, Olipod, Padouga, XMIL	6	6	30
-360123	3	21	No Variant	2020-12-04 — 01:27:04 UTC	HelanaAshryvr, Nitrate, nwajfromoz	459	5	25
+360123	3	21	No Variant	2020-12-04 — 01:27:04 UTC	HelanaAshryvr, Nitrate, nwajfromoz	467	5	25
 360066	3	19	Black (5 Suits)	2020-12-03 — 23:45:31 UTC	cockdestroyer, Nitrate, Nitrate2	43	5	25
-360045	3	0	Black (5 Suits)	2020-12-03 — 23:20:43 UTC	cockdestroyer, Nitrate, Nitrate2	44	5	25
-360037	3	24	Black (5 Suits)	2020-12-03 — 23:08:43 UTC	cockdestroyer, Nitrate, Nitrate2	74	5	25
+360045	3	0	Black (5 Suits)	2020-12-03 — 23:20:43 UTC	cockdestroyer, Nitrate, Nitrate2	45	5	25
+360037	3	24	Black (5 Suits)	2020-12-03 — 23:08:43 UTC	cockdestroyer, Nitrate, Nitrate2	76	5	25
 360013	5	24	Rainbow & White (5 Suits)	2020-12-03 — 22:43:01 UTC	Fireheart, Floriman, Kyle, Nitrate, sephiroth	4	5	25
 359996	5	0	Rainbow & White (5 Suits)	2020-12-03 — 22:19:27 UTC	Fireheart, Floriman, Kyle, Nitrate, sephiroth	5	5	25
 114069	5	0	Black & White (6 Suits)	2020-04-08 — 19:38:19 UTC	Kyle, Nitrate, scharkbite, YacineH, Yuga Suggah	2	6	30
 114051	5	0	Black & White (6 Suits)	2020-04-08 — 19:20:17 UTC	Kyle, Nitrate, scharkbite, YacineH, Yuga Suggah	2	6	30
 114024	6	25	Black & White (6 Suits)	2020-04-08 — 18:55:17 UTC	Andrew_UK, Floriman, Kyle, Nitrate, YacineH, Yuga Suggah	2	6	30
 113987	3	25	Black & White (6 Suits)	2020-04-08 — 18:18:25 UTC	Nitrate, scharkbite, Yuga Suggah	25	6	30
-113915	5	19	No Variant	2020-04-08 — 16:17:39 UTC	kelderon, MarkusKahlsen, Nitrate, Throwaway, zarash	1119	5	25
-109245	2	0	Rainbow (6 Suits)	2020-04-04 — 20:55:24 UTC	Nitrate, YacineH	717	6	30
-109192	2	0	Rainbow (6 Suits)	2020-04-04 — 20:31:35 UTC	Nitrate, YacineH	971	6	30
-109150	2	20	4 Suits	2020-04-04 — 20:11:38 UTC	Nitrate, YacineH	171	4	20
-109110	2	0	4 Suits	2020-04-04 — 19:55:56 UTC	Nitrate, YacineH	244	4	20
+113915	5	19	No Variant	2020-04-08 — 16:17:39 UTC	kelderon, MarkusKahlsen, Nitrate, Throwaway, zarash	1125	5	25
+109245	2	0	Rainbow (6 Suits)	2020-04-04 — 20:55:24 UTC	Nitrate, YacineH	728	6	30
+109192	2	0	Rainbow (6 Suits)	2020-04-04 — 20:31:35 UTC	Nitrate, YacineH	984	6	30
+109150	2	20	4 Suits	2020-04-04 — 20:11:38 UTC	Nitrate, YacineH	177	4	20
+109110	2	0	4 Suits	2020-04-04 — 19:55:56 UTC	Nitrate, YacineH	248	4	20
 108060	5	24	Brown (5 Suits)	2020-04-04 — 02:52:57 UTC	eevee, Kyle, micerang, Nitrate, Yuga Suggah	1	5	25
 107997	5	0	Brown (5 Suits)	2020-04-04 — 02:18:09 UTC	eevee, Kyle, micerang, Nitrate, Yuga Suggah	2	5	25
-107955	3	0	Throw It in a Hole (4 Suits)	2020-04-04 — 01:55:03 UTC	Kyle, Nitrate, Yuga Suggah	27	4	20
+107955	3	0	Throw It in a Hole (4 Suits)	2020-04-04 — 01:55:03 UTC	Kyle, Nitrate, Yuga Suggah	28	4	20
 107914	4	20	4 Suits	2020-04-04 — 01:26:11 UTC	kodomazer, Kyle, Nitrate, Yuga Suggah	19	4	20
-107665	4	30	Rainbow (6 Suits)	2020-04-03 — 21:51:11 UTC	Nitrate, padi, sin_faith, Zakisan	493	6	30
-107196	5	0	No Variant	2020-04-03 — 16:50:02 UTC	kelderon, Mordak, Nitrate, Throwaway, zarash	1510	5	25
-105010	4	30	Black (6 Suits)	2020-04-01 — 20:23:22 UTC	CompleteTrust, letical, Nitrate, sin_faith	102	6	30
-104980	4	0	Black (6 Suits)	2020-04-01 — 20:03:00 UTC	CompleteTrust, letical, Nitrate, sin_faith	175	6	30
+107665	4	30	Rainbow (6 Suits)	2020-04-03 — 21:51:11 UTC	Nitrate, padi, sin_faith, Zakisan	497	6	30
+107196	5	0	No Variant	2020-04-03 — 16:50:02 UTC	kelderon, Mordak, Nitrate, Throwaway, zarash	1518	5	25
+105010	4	30	Black (6 Suits)	2020-04-01 — 20:23:22 UTC	CompleteTrust, letical, Nitrate, sin_faith	103	6	30
+104980	4	0	Black (6 Suits)	2020-04-01 — 20:03:00 UTC	CompleteTrust, letical, Nitrate, sin_faith	176	6	30
 103760	4	20	White-Ones & White (4 Suits)	2020-03-31 — 19:45:46 UTC	Dr_Kakashi, Floriman, Nitrate, scharkbite	1	4	20
 103735	3	0	Black & Pink (5 Suits)	2020-03-31 — 19:24:05 UTC	Dr_Kakashi, Floriman, Nitrate	7	5	25
 103690	5	0	Rainbow (6 Suits)	2020-03-31 — 18:46:14 UTC	Batzi, Kyle, Nitrate, sin_faith, TimeHoodie	17	6	30
-103662	5	0	Rainbow (6 Suits)	2020-03-31 — 18:18:47 UTC	Batzi, Kyle, Nitrate, sin_faith, TimeHoodie	67	6	30
-103646	5	0	No Variant	2020-03-31 — 18:09:59 UTC	Batzi, Kyle, Nitrate, sin_faith, TimeHoodie	109	5	25
-103547	5	24	Black (6 Suits)	2020-03-31 — 16:16:39 UTC	JDepp, letical, maxnorris13, Nitrate, sin_faith	101	6	30
+103662	5	0	Rainbow (6 Suits)	2020-03-31 — 18:18:47 UTC	Batzi, Kyle, Nitrate, sin_faith, TimeHoodie	68	6	30
+103646	5	0	No Variant	2020-03-31 — 18:09:59 UTC	Batzi, Kyle, Nitrate, sin_faith, TimeHoodie	112	5	25
+103547	5	24	Black (6 Suits)	2020-03-31 — 16:16:39 UTC	JDepp, letical, maxnorris13, Nitrate, sin_faith	103	6	30
 103484	6	25	No Variant	2020-03-31 — 13:14:08 UTC	letical, Nitrate, sin_faith, superbipbip, Turkish, Zakisan	60	5	25
 101334	5	0	No Variant	2020-03-29 — 14:14:29 UTC	Dr_Kakashi, Fey, letical, Nitrate, Zakisan	15	5	25
 100268	5	0	Omni-Ones & Brown (5 Suits)	2020-03-28 — 21:44:12 UTC	Floriman, Kyle, micerang, Nitrate, scharkbite	2	5	25
 100142	3	24	Brown (5 Suits)	2020-03-28 — 20:39:56 UTC	Dr_Kakashi, micerang, Nitrate	4	5	25
 100086	3	0	4 Suits	2020-03-28 — 20:11:28 UTC	Nils, Nitrate, TimeHoodie	31	4	20
-100064	3	0	4 Suits	2020-03-28 — 19:56:20 UTC	Nils, Nitrate, TimeHoodie	160	4	20
-96539	5	23	No Variant	2020-03-25 — 01:04:52 UTC	asaelr, honzas, JDepp, Nitrate, pianoblook	25	5	25
-96500	5	24	No Variant	2020-03-25 — 00:18:36 UTC	asaelr, JDepp, Nitrate, padi, pianoblook	27	5	25
-96420	4	0	No Variant	2020-03-24 — 22:53:31 UTC	hda, Nils, Nitrate, YacineH	541	5	25
-96390	4	0	No Variant	2020-03-24 — 22:33:51 UTC	hda, Nils, Nitrate, YacineH	717	5	25
-96188	3	25	Dual-Color (5 Suits)	2020-03-24 — 19:46:11 UTC	Floriman, Nitrate, sckuzzle	69	5	25
-96176	4	0	No Variant	2020-03-24 — 19:33:14 UTC	DoubleDown11, JDepp, Nitrate, padi	501	5	25
+100064	3	0	4 Suits	2020-03-28 — 19:56:20 UTC	Nils, Nitrate, TimeHoodie	162	4	20
+96539	5	23	No Variant	2020-03-25 — 01:04:52 UTC	asaelr, honzas, JDepp, Nitrate, pianoblook	26	5	25
+96500	5	24	No Variant	2020-03-25 — 00:18:36 UTC	asaelr, JDepp, Nitrate, padi, pianoblook	28	5	25
+96420	4	0	No Variant	2020-03-24 — 22:53:31 UTC	hda, Nils, Nitrate, YacineH	548	5	25
+96390	4	0	No Variant	2020-03-24 — 22:33:51 UTC	hda, Nils, Nitrate, YacineH	724	5	25
+96188	3	25	Dual-Color (5 Suits)	2020-03-24 — 19:46:11 UTC	Floriman, Nitrate, sckuzzle	70	5	25
+96176	4	0	No Variant	2020-03-24 — 19:33:14 UTC	DoubleDown11, JDepp, Nitrate, padi	507	5	25
 96166	3	18	4 Suits	2020-03-24 — 19:25:00 UTC	DoubleDown11, Nitrate, sckuzzle	34	4	20
-96148	3	19	4 Suits	2020-03-24 — 18:56:40 UTC	DoubleDown11, Nitrate, sckuzzle	70	4	20
+96148	3	19	4 Suits	2020-03-24 — 18:56:40 UTC	DoubleDown11, Nitrate, sckuzzle	71	4	20
 96128	3	20	4 Suits	2020-03-24 — 18:19:17 UTC	Dr_Kakashi, JDepp, Nitrate	11	4	20
-96104	3	25	No Variant	2020-03-24 — 17:50:29 UTC	asaelr, Dr_Kakashi, Nitrate	39	5	25
+96104	3	25	No Variant	2020-03-24 — 17:50:29 UTC	asaelr, Dr_Kakashi, Nitrate	41	5	25
 95646	4	24	No Variant	2020-03-24 — 02:13:46 UTC	aladdin3, Fireheart, Nitrate, phtheven	213	5	25
-95619	3	22	No Variant	2020-03-24 — 01:50:54 UTC	aladdin3, Fireheart, Nitrate	82	5	25
+95619	3	22	No Variant	2020-03-24 — 01:50:54 UTC	aladdin3, Fireheart, Nitrate	84	5	25
 95588	4	20	4 Suits	2020-03-24 — 01:17:47 UTC	eevee, Livia, Nitrate, Zamiel	3	4	20
-95568	4	0	Dark Pink (5 Suits)	2020-03-24 — 00:50:19 UTC	duckmammal, Livia, Nitrate, Zamiel	15	5	25
-95428	4	25	No Variant	2020-03-23 — 22:11:22 UTC	elperzon, Nitrate, padi, YacineH	793	5	25
-95374	5	0	No Variant	2020-03-23 — 21:26:06 UTC	camplise, Nitrate, other, padi, YacineH	658	5	25
-95336	4	22	No Variant	2020-03-23 — 20:56:51 UTC	ingakristina, Nitrate, padi, YacineH	899	5	25
-95168	6	0	No Variant	2020-03-23 — 17:33:48 UTC	hda, Nitrate, Shos, sin_faith, Sucubis, Zakisan	478	5	25
+95568	4	0	Dark Pink (5 Suits)	2020-03-24 — 00:50:19 UTC	duckmammal, Livia, Nitrate, Zamiel	16	5	25
+95428	4	25	No Variant	2020-03-23 — 22:11:22 UTC	elperzon, Nitrate, padi, YacineH	800	5	25
+95374	5	0	No Variant	2020-03-23 — 21:26:06 UTC	camplise, Nitrate, other, padi, YacineH	667	5	25
+95336	4	22	No Variant	2020-03-23 — 20:56:51 UTC	ingakristina, Nitrate, padi, YacineH	908	5	25
+95168	6	0	No Variant	2020-03-23 — 17:33:48 UTC	hda, Nitrate, Shos, sin_faith, Sucubis, Zakisan	483	5	25
 94846	3	25	Rainbow & White (5 Suits)	2020-03-23 — 02:12:03 UTC	kodomazer, Nitrate, pianoblook	26	5	25
 94818	6	0	Black & White (6 Suits)	2020-03-23 — 01:47:05 UTC	IAMJEFF, kodomazer, micerang, Nitrate, pianoblook, RaKXeR	2	6	30
 94809	6	0	Black & White (6 Suits)	2020-03-23 — 01:38:30 UTC	IAMJEFF, kodomazer, micerang, Nitrate, pianoblook, RaKXeR	4	6	30
 94785	6	0	Black & White (6 Suits)	2020-03-23 — 01:04:46 UTC	IAMJEFF, kodomazer, micerang, Nitrate, pianoblook, RaKXeR	5	6	30
-92917	2	24	No Variant	2020-03-20 — 22:45:57 UTC	Nitrate, shem	1448	5	25
-92897	2	19	No Variant	2020-03-20 — 22:26:07 UTC	Nitrate, shem	1532	5	25
-92886	2	0	No Variant	2020-03-20 — 22:14:17 UTC	Nitrate, shem	1621	5	25
+92917	2	24	No Variant	2020-03-20 — 22:45:57 UTC	Nitrate, shem	1460	5	25
+92897	2	19	No Variant	2020-03-20 — 22:26:07 UTC	Nitrate, shem	1547	5	25
+92886	2	0	No Variant	2020-03-20 — 22:14:17 UTC	Nitrate, shem	1637	5	25
 92727	5	0	Black & White (6 Suits)	2020-03-20 — 17:58:56 UTC	ADrone, Floriman, Nitrate, pianoblook, Yuga Suggah	13	6	30
-91726	5	0	No Variant	2020-03-19 — 02:30:54 UTC	charmander, Kyle, letical, Nitrate, Yuga Suggah	195	5	25
-91704	5	24	No Variant	2020-03-19 — 01:50:40 UTC	Kyle, letical, Nitrate, padi, Yuga Suggah	223	5	25
+91726	5	0	No Variant	2020-03-19 — 02:30:54 UTC	charmander, Kyle, letical, Nitrate, Yuga Suggah	198	5	25
+91704	5	24	No Variant	2020-03-19 — 01:50:40 UTC	Kyle, letical, Nitrate, padi, Yuga Suggah	226	5	25
 91687	6	25	No Variant	2020-03-19 — 01:18:14 UTC	asaelr, letical, MasN, Nitrate, padi, Yuga Suggah	26	5	25
 91665	6	0	No Variant	2020-03-19 — 00:51:51 UTC	asaelr, letical, MasN, Nitrate, padi, Yuga Suggah	25	5	25
 91655	5	0	No Variant	2020-03-19 — 00:38:38 UTC	asaelr, letical, MasN, Nitrate, padi	25	5	25
-91479	3	25	No Variant	2020-03-18 — 20:11:53 UTC	ADrone, asaelr, Nitrate	42	5	25
-90912	3	22	Black (5 Suits)	2020-03-17 — 20:49:52 UTC	Floriman, fow, Nitrate	134	5	25
-90904	3	24	Black (5 Suits)	2020-03-17 — 20:25:55 UTC	Floriman, fow, Nitrate	171	5	25
-90890	3	25	No Variant	2020-03-17 — 19:55:57 UTC	Floriman, Nitrate, sckuzzle	750	5	25
-90877	2	20	No Variant	2020-03-17 — 19:30:13 UTC	Nitrate, sckuzzle	2147	5	25
-90870	2	0	No Variant	2020-03-17 — 19:06:14 UTC	Nitrate, sckuzzle	2288	5	25
+91479	3	25	No Variant	2020-03-18 — 20:11:53 UTC	ADrone, asaelr, Nitrate	45	5	25
+90912	3	22	Black (5 Suits)	2020-03-17 — 20:49:52 UTC	Floriman, fow, Nitrate	135	5	25
+90904	3	24	Black (5 Suits)	2020-03-17 — 20:25:55 UTC	Floriman, fow, Nitrate	174	5	25
+90890	3	25	No Variant	2020-03-17 — 19:55:57 UTC	Floriman, Nitrate, sckuzzle	757	5	25
+90877	2	20	No Variant	2020-03-17 — 19:30:13 UTC	Nitrate, sckuzzle	2166	5	25
+90870	2	0	No Variant	2020-03-17 — 19:06:14 UTC	Nitrate, sckuzzle	2307	5	25
 90867	5	0	No Variant	2020-03-17 — 18:51:30 UTC	alejo7797, Libster, Nitrate, padi, sckuzzle	2	5	25
-90853	5	21	No Variant	2020-03-17 — 18:07:59 UTC	Nitrate, padi, sckuzzle, shem, yaiir	1995	5	25
-90845	5	0	No Variant	2020-03-17 — 17:31:13 UTC	MasN, Nitrate, padi, sckuzzle, yaiir	541	5	25
+90853	5	21	No Variant	2020-03-17 — 18:07:59 UTC	Nitrate, padi, sckuzzle, shem, yaiir	2011	5	25
+90845	5	0	No Variant	2020-03-17 — 17:31:13 UTC	MasN, Nitrate, padi, sckuzzle, yaiir	546	5	25
 89524	2	25	Rainbow (5 Suits)	2020-03-15 — 15:56:05 UTC	Kyle, Nitrate	16	5	25
 89523	2	24	Rainbow (5 Suits)	2020-03-15 — 15:43:31 UTC	Kyle, Nitrate	18	5	25
 89518	5	25	No Variant	2020-03-15 — 15:18:15 UTC	aladdin3, Kyle, Libster, Nitrate, padi	2	5	25
-89512	3	20	Gray (5 Suits)	2020-03-15 — 14:38:23 UTC	aladdin3, Nitrate, padi	42	5	25
-89511	2	0	Gray (5 Suits)	2020-03-15 — 14:21:00 UTC	Nitrate, padi	79	5	25
+89512	3	20	Gray (5 Suits)	2020-03-15 — 14:38:23 UTC	aladdin3, Nitrate, padi	44	5	25
+89511	2	0	Gray (5 Suits)	2020-03-15 — 14:21:00 UTC	Nitrate, padi	80	5	25
 89398	5	0	Black (6 Suits)	2020-03-14 — 22:28:25 UTC	Floriman, Kyle, Nitrate, scharkbite, Shos	9	6	30
-89376	5	28	Dark Pink (6 Suits)	2020-03-14 — 21:53:02 UTC	Floriman, micerang, Nitrate, scharkbite, Shos	8	6	30
+89376	5	28	Dark Pink (6 Suits)	2020-03-14 — 21:53:02 UTC	Floriman, micerang, Nitrate, scharkbite, Shos	9	6	30
 89363	3	25	Rainbow & Brown (5 Suits)	2020-03-14 — 21:26:48 UTC	Floriman, micerang, Nitrate	6	5	25
-89343	3	28	Rainbow (6 Suits)	2020-03-14 — 20:52:39 UTC	DoubleDown11, MarkusKahlsen, Nitrate	689	6	30
+89343	3	28	Rainbow (6 Suits)	2020-03-14 — 20:52:39 UTC	DoubleDown11, MarkusKahlsen, Nitrate	693	6	30
 82239	5	24	Rainbow & Pink (5 Suits)	2020-02-21 — 21:09:02 UTC	duckmammal, Floriman, honzas, Kyle, Nitrate	4	5	25
 82233	5	23	Rainbow & Pink (5 Suits)	2020-02-21 — 20:33:41 UTC	duckmammal, Floriman, honzas, Kyle, Nitrate	6	5	25
 81889	4	0	No Variant	2020-02-21 — 01:38:38 UTC	Kyle, Libster, Nitrate, sankala fan	8	5	25
 81724	5	24	White (5 Suits)	2020-02-20 — 23:44:55 UTC	aladdin3, DoubleDown11, Floriman, Nitrate, padi	14	5	25
-81722	5	0	White (5 Suits)	2020-02-20 — 23:24:06 UTC	aladdin3, DoubleDown11, Floriman, Nitrate, padi	21	5	25
+81722	5	0	White (5 Suits)	2020-02-20 — 23:24:06 UTC	aladdin3, DoubleDown11, Floriman, Nitrate, padi	22	5	25
 81721	5	24	White (5 Suits)	2020-02-20 — 23:02:04 UTC	aladdin3, DoubleDown11, Floriman, Nitrate, padi	26	5	25
 80582	6	0	6 Suits	2020-02-17 — 22:01:04 UTC	Floriman, Kyle, MasN, Nitrate, padi, Yuga Suggah	4	6	30
 80578	6	0	6 Suits	2020-02-17 — 21:18:22 UTC	Floriman, Kyle, MasN, Nitrate, padi, Yuga Suggah	7	6	30
-80576	2	30	6 Suits	2020-02-17 — 20:48:46 UTC	Nitrate, padi	851	6	30
-80575	5	30	6 Suits	2020-02-17 — 20:19:21 UTC	Floriman, Kyle, Nitrate, padi, Shos	199	6	30
-79597	5	29	6 Suits	2020-02-12 — 23:52:18 UTC	aladdin3, asaelr, Floriman, MasN, Nitrate	132	6	30
-79595	4	25	No Variant	2020-02-12 — 23:23:07 UTC	asaelr, Floriman, MasN, Nitrate	53	5	25
+80576	2	30	6 Suits	2020-02-17 — 20:48:46 UTC	Nitrate, padi	862	6	30
+80575	5	30	6 Suits	2020-02-17 — 20:19:21 UTC	Floriman, Kyle, Nitrate, padi, Shos	203	6	30
+79597	5	29	6 Suits	2020-02-12 — 23:52:18 UTC	aladdin3, asaelr, Floriman, MasN, Nitrate	133	6	30
+79595	4	25	No Variant	2020-02-12 — 23:23:07 UTC	asaelr, Floriman, MasN, Nitrate	55	5	25
 78395	3	30	Pink (6 Suits)	2020-02-09 — 23:02:42 UTC	kopen, Nitrate, scharkbite	31	6	30
 78394	5	27	Black (6 Suits)	2020-02-09 — 22:31:01 UTC	asaelr, Floriman, Nitrate, scharkbite, Shos	10	6	30
 78393	5	0	Black (6 Suits)	2020-02-09 — 22:08:54 UTC	asaelr, Floriman, Nitrate, scharkbite, Shos	10	6	30
 78391	4	0	Black (6 Suits)	2020-02-09 — 21:55:21 UTC	asaelr, Floriman, Nitrate, Shos	33	6	30
 78390	4	30	6 Suits	2020-02-09 — 21:36:47 UTC	asaelr, Floriman, Nitrate, Shos	13	6	30
 78389	4	0	6 Suits	2020-02-09 — 21:18:38 UTC	asaelr, Floriman, Nitrate, Shos	14	6	30
-78388	4	25	No Variant	2020-02-09 — 21:03:38 UTC	asaelr, Floriman, Nitrate, Shos	54	5	25
-78217	4	23	White (5 Suits)	2020-02-08 — 20:35:20 UTC	DoubleDown11, Nitrate, Shos, wortel	13	5	25
+78388	4	25	No Variant	2020-02-09 — 21:03:38 UTC	asaelr, Floriman, Nitrate, Shos	56	5	25
+78217	4	23	White (5 Suits)	2020-02-08 — 20:35:20 UTC	DoubleDown11, Nitrate, Shos, wortel	14	5	25
 78216	5	0	White (6 Suits)	2020-02-08 — 20:02:32 UTC	DoubleDown11, Kyle, Nitrate, Shos, wortel	37	6	30
 78214	5	0	White (6 Suits)	2020-02-08 — 19:31:49 UTC	DoubleDown11, Kyle, Nitrate, scharkbite, Shos	5	6	30
 78205	6	30	6 Suits	2020-02-08 — 17:51:08 UTC	asaelr, DoubleDown11, hanabornoob, honzas, Nitrate, Shos	8	6	30
 78202	6	0	6 Suits	2020-02-08 — 17:25:46 UTC	asaelr, DoubleDown11, hanabornoob, honzas, Nitrate, Shos	50	6	30
-78197	3	0	6 Suits	2020-02-08 — 17:03:03 UTC	DoubleDown11, hanabornoob, Nitrate	365	6	30
-78193	3	30	6 Suits	2020-02-08 — 16:42:33 UTC	hanabornoob, Libster, Nitrate	44	6	30
-78163	6	25	No Variant	2020-02-08 — 05:43:03 UTC	DoubleDown11, duckmammal, Kyle, MasN, Nitrate, NoMercy	115	5	25
-78162	3	23	No Variant	2020-02-08 — 05:01:46 UTC	DoubleDown11, Nitrate, padi	801	5	25
-78161	3	0	No Variant	2020-02-08 — 04:24:34 UTC	DoubleDown11, Nitrate, padi	840	5	25
-78159	3	0	No Variant	2020-02-08 — 03:56:58 UTC	DoubleDown11, Nitrate, padi	940	5	25
-78157	3	0	No Variant	2020-02-08 — 03:37:51 UTC	ADrone, DoubleDown11, Nitrate	1017	5	25
-78156	2	0	No Variant	2020-02-08 — 03:33:08 UTC	DoubleDown11, Nitrate	3051	5	25
-78155	2	23	No Variant	2020-02-08 — 03:18:12 UTC	DoubleDown11, Nitrate	3507	5	25
+78197	3	0	6 Suits	2020-02-08 — 17:03:03 UTC	DoubleDown11, hanabornoob, Nitrate	371	6	30
+78193	3	30	6 Suits	2020-02-08 — 16:42:33 UTC	hanabornoob, Libster, Nitrate	45	6	30
+78163	6	25	No Variant	2020-02-08 — 05:43:03 UTC	DoubleDown11, duckmammal, Kyle, MasN, Nitrate, NoMercy	118	5	25
+78162	3	23	No Variant	2020-02-08 — 05:01:46 UTC	DoubleDown11, Nitrate, padi	809	5	25
+78161	3	0	No Variant	2020-02-08 — 04:24:34 UTC	DoubleDown11, Nitrate, padi	849	5	25
+78159	3	0	No Variant	2020-02-08 — 03:56:58 UTC	DoubleDown11, Nitrate, padi	952	5	25
+78157	3	0	No Variant	2020-02-08 — 03:37:51 UTC	ADrone, DoubleDown11, Nitrate	1026	5	25
+78156	2	0	No Variant	2020-02-08 — 03:33:08 UTC	DoubleDown11, Nitrate	3072	5	25
+78155	2	23	No Variant	2020-02-08 — 03:18:12 UTC	DoubleDown11, Nitrate	3537	5	25
 77904	5	0	Rainbow (5 Suits)	2020-02-05 — 19:49:40 UTC	Fireheart, Floriman, Kyle, Livia, Nitrate	14	5	25
 77903	3	0	Rainbow (5 Suits)	2020-02-05 — 19:28:39 UTC	Fireheart, Floriman, Nitrate	6	5	25
 77902	4	25	No Variant	2020-02-05 — 19:04:50 UTC	Fireheart, Floriman, Kyle, Nitrate	64	5	25
-77901	4	0	No Variant	2020-02-05 — 18:41:21 UTC	Fireheart, Floriman, Kyle, Nitrate	64	5	25
+77901	4	0	No Variant	2020-02-05 — 18:41:21 UTC	Fireheart, Floriman, Kyle, Nitrate	65	5	25
 77859	3	0	Dual-Color Mix	2020-02-05 — 03:46:58 UTC	Gazrovor, kopen, Nitrate	33	6	30
-77858	3	0	Dual-Color Mix	2020-02-05 — 03:33:14 UTC	Gazrovor, kopen, Nitrate	42	6	30
+77858	3	0	Dual-Color Mix	2020-02-05 — 03:33:14 UTC	Gazrovor, kopen, Nitrate	43	6	30
 77857	5	0	Rainbow (6 Suits)	2020-02-05 — 03:13:51 UTC	Gazrovor, Hyakinthus, kopen, Libster, Nitrate	2	6	30
 77856	3	21	Black (5 Suits)	2020-02-05 — 02:33:52 UTC	Hyakinthus, Libster, Nitrate	25	5	25
-77368	5	25	Rainbow & White (5 Suits)	2020-02-01 — 23:25:48 UTC	duckmammal, MasN, Nitrate, SashaIr, Sucubis	10	5	25
-77363	5	25	Rainbow (5 Suits)	2020-02-01 — 22:56:34 UTC	duckmammal, kondain, Nitrate, SashaIr, Sucubis	17	5	25
+77368	5	25	Rainbow & White (5 Suits)	2020-02-01 — 23:25:48 UTC	duckmammal, MasN, Nitrate, SashaIr, Sucubis	11	5	25
+77363	5	25	Rainbow (5 Suits)	2020-02-01 — 22:56:34 UTC	duckmammal, kondain, Nitrate, SashaIr, Sucubis	18	5	25
 77360	4	25	White (5 Suits)	2020-02-01 — 21:51:31 UTC	micerang, Nitrate, scharkbite, Shos	31	5	25
-77358	6	24	Rainbow (6 Suits)	2020-02-01 — 21:20:42 UTC	duckmammal, micerang, Nitrate, scharkbite, Shos, wortel	8	6	30
+77358	6	24	Rainbow (6 Suits)	2020-02-01 — 21:20:42 UTC	duckmammal, micerang, Nitrate, scharkbite, Shos, wortel	9	6	30
 77357	6	0	Rainbow (6 Suits)	2020-02-01 — 20:44:59 UTC	duckmammal, micerang, Nitrate, scharkbite, Shos, wortel	20	6	30
 77354	5	0	Rainbow (6 Suits)	2020-02-01 — 20:15:09 UTC	asaelr, duckmammal, Nitrate, scharkbite, wortel	10	6	30
 77349	3	30	Up or Down (6 Suits)	2020-02-01 — 18:36:02 UTC	Nitrate, scharkbite, Valetta6789	3	6	30
-77333	4	22	No Variant	2020-02-01 — 15:55:06 UTC	aladdin3, Nitrate, Shos, wortel	985	5	25
-77325	3	0	No Variant	2020-02-01 — 15:29:30 UTC	aladdin3, Nitrate, Shos	1465	5	25
+77333	4	22	No Variant	2020-02-01 — 15:55:06 UTC	aladdin3, Nitrate, Shos, wortel	994	5	25
+77325	3	0	No Variant	2020-02-01 — 15:29:30 UTC	aladdin3, Nitrate, Shos	1474	5	25
 77323	4	22	Black (5 Suits)	2020-02-01 — 15:04:14 UTC	Floriman, IAMJEFF, Nitrate, Valetta6789	16	5	25
-77143	3	23	White (5 Suits)	2020-01-31 — 03:31:56 UTC	MasN, micerang, Nitrate	29	5	25
-77141	3	19	Black (5 Suits)	2020-01-31 — 02:59:07 UTC	MasN, micerang, Nitrate	66	5	25
-77133	4	25	No Variant	2020-01-31 — 00:56:18 UTC	aladdin3, kondain, Nitrate, RaKXeR	40	5	25
+77143	3	23	White (5 Suits)	2020-01-31 — 03:31:56 UTC	MasN, micerang, Nitrate	30	5	25
+77141	3	19	Black (5 Suits)	2020-01-31 — 02:59:07 UTC	MasN, micerang, Nitrate	67	5	25
+77133	4	25	No Variant	2020-01-31 — 00:56:18 UTC	aladdin3, kondain, Nitrate, RaKXeR	41	5	25
 76858	4	0	6 Suits	2020-01-29 — 04:09:57 UTC	Gazrovor, Libster, Nitrate, RaKXeR	1	6	30
 76857	4	0	6 Suits	2020-01-29 — 03:58:23 UTC	Gazrovor, Libster, Nitrate, RaKXeR	1	6	30
-76856	3	0	No Variant	2020-01-29 — 03:38:35 UTC	Libster, Nitrate, sjdrodge	57	5	25
-76731	4	25	White (5 Suits)	2020-01-28 — 02:56:34 UTC	Jake_Stiles, Libster, MasN, Nitrate	46	5	25
-76730	6	0	Rainbow & White (6 Suits)	2020-01-28 — 02:32:44 UTC	Jake_Stiles, kopen, Kyle, MasN, Nitrate, scharkbite	4	6	30
-76728	5	27	Rainbow & White (6 Suits)	2020-01-28 — 02:11:42 UTC	Jake_Stiles, kopen, Kyle, Nitrate, scharkbite	6	6	30
+76856	3	0	No Variant	2020-01-29 — 03:38:35 UTC	Libster, Nitrate, sjdrodge	58	5	25
+76731	4	25	White (5 Suits)	2020-01-28 — 02:56:34 UTC	Jake_Stiles, Libster, MasN, Nitrate	47	5	25
+76730	6	0	Rainbow & White (6 Suits)	2020-01-28 — 02:32:44 UTC	Jake_Stiles, kopen, Kyle, MasN, Nitrate, scharkbite	5	6	30
+76728	5	27	Rainbow & White (6 Suits)	2020-01-28 — 02:11:42 UTC	Jake_Stiles, kopen, Kyle, Nitrate, scharkbite	7	6	30
 76727	4	20	4 Suits	2020-01-28 — 01:47:55 UTC	Jake_Stiles, Kyle, Nitrate, scharkbite	12	4	20
-76545	3	0	Rainbow (5 Suits)	2020-01-27 — 03:34:01 UTC	Libster, Nitrate, RaKXeR	14	5	25
+76545	3	0	Rainbow (5 Suits)	2020-01-27 — 03:34:01 UTC	Libster, Nitrate, RaKXeR	15	5	25
 76543	3	25	No Variant	2020-01-27 — 03:25:25 UTC	Libster, Nitrate, RaKXeR	8	5	25
-76541	3	0	No Variant	2020-01-27 — 03:08:19 UTC	Libster, Nitrate, RaKXeR	10	5	25
-76411	4	25	White (5 Suits)	2020-01-25 — 16:49:09 UTC	Fireheart, Floriman, Nitrate, Valetta6789	18	5	25
+76541	3	0	No Variant	2020-01-27 — 03:08:19 UTC	Libster, Nitrate, RaKXeR	11	5	25
+76411	4	25	White (5 Suits)	2020-01-25 — 16:49:09 UTC	Fireheart, Floriman, Nitrate, Valetta6789	19	5	25
 76409	5	30	Rainbow (6 Suits)	2020-01-25 — 16:21:40 UTC	Fireheart, Floriman, Libster, Nitrate, Valetta6789	3	6	30
-76114	3	21	Rainbow (5 Suits)	2020-01-23 — 02:07:56 UTC	MasN, micerang, Nitrate	50	5	25
-76108	3	24	No Variant	2020-01-23 — 01:34:38 UTC	MasN, micerang, Nitrate	62	5	25
+76114	3	21	Rainbow (5 Suits)	2020-01-23 — 02:07:56 UTC	MasN, micerang, Nitrate	51	5	25
+76108	3	24	No Variant	2020-01-23 — 01:34:38 UTC	MasN, micerang, Nitrate	65	5	25
 76104	5	23	No Variant	2020-01-23 — 01:08:02 UTC	aladdin3, asaelr, MasN, Nitrate, TimeHoodie	45	5	25
-76101	5	0	No Variant	2020-01-23 — 00:38:30 UTC	aladdin3, asaelr, MasN, Nitrate, TimeHoodie	51	5	25
-76100	5	0	No Variant	2020-01-23 — 00:18:23 UTC	aladdin3, asaelr, MasN, Nitrate, TimeHoodie	67	5	25
+76101	5	0	No Variant	2020-01-23 — 00:38:30 UTC	aladdin3, asaelr, MasN, Nitrate, TimeHoodie	52	5	25
+76100	5	0	No Variant	2020-01-23 — 00:18:23 UTC	aladdin3, asaelr, MasN, Nitrate, TimeHoodie	68	5	25
 76099	6	0	No Variant	2020-01-23 — 00:04:00 UTC	aladdin3, asaelr, MasN, Nitrate, RaKXeR, TimeHoodie	75	5	25
 76002	5	0	Black (5 Suits)	2020-01-22 — 03:45:34 UTC	Kyle, Libster, MasN, Nitrate, Razvogor	11	5	25
 76001	5	0	Black (5 Suits)	2020-01-22 — 03:38:00 UTC	Kyle, Libster, MasN, Nitrate, Razvogor	10	5	25
@@ -698,41 +731,41 @@
 75998	5	30	Black (6 Suits)	2020-01-22 — 02:52:56 UTC	Libster, MasN, micerang, Nitrate, Razvogor	2	6	30
 75997	5	0	Black (6 Suits)	2020-01-22 — 02:32:18 UTC	Libster, MasN, micerang, Nitrate, Razvogor	2	6	30
 75996	6	0	No Variant	2020-01-22 — 02:18:55 UTC	Libster, MasN, micerang, Nitrate, Razvogor, whosedansisthis	5	5	25
-75738	3	23	Rainbow (5 Suits)	2020-01-19 — 22:20:54 UTC	Floriman, micerang, Nitrate	57	5	25
-75733	3	20	4 Suits	2020-01-19 — 21:54:28 UTC	Floriman, micerang, Nitrate	118	4	20
+75738	3	23	Rainbow (5 Suits)	2020-01-19 — 22:20:54 UTC	Floriman, micerang, Nitrate	59	5	25
+75733	3	20	4 Suits	2020-01-19 — 21:54:28 UTC	Floriman, micerang, Nitrate	120	4	20
 75732	3	19	4 Suits	2020-01-19 — 21:40:28 UTC	Floriman, Libster, Nitrate	21	4	20
 75730	5	19	4 Suits	2020-01-19 — 21:20:36 UTC	Floriman, hanabornoob, Libster, micerang, Nitrate	4	4	20
-75729	3	25	No Variant	2020-01-19 — 20:57:29 UTC	Floriman, Libster, Nitrate	112	5	25
-75677	2	0	No Variant	2020-01-19 — 03:15:50 UTC	Nitrate, zarash	4109	5	25
-75667	2	21	No Variant	2020-01-19 — 02:42:16 UTC	Nitrate, zarash	5374	5	25
-75131	2	24	No Variant	2020-01-12 — 23:01:56 UTC	hanabornoob, Nitrate	1031	5	25
-75130	2	0	No Variant	2020-01-12 — 22:39:17 UTC	hanabornoob, Nitrate	1078	5	25
-75129	2	23	No Variant	2020-01-12 — 22:26:43 UTC	hanabornoob, Nitrate	1117	5	25
-75128	3	22	No Variant	2020-01-12 — 22:12:23 UTC	Nitrate, Shos, vvaish22	1881	5	25
-75127	3	0	No Variant	2020-01-12 — 21:54:47 UTC	Nitrate, Shos, vvaish22	2163	5	25
-75126	3	0	No Variant	2020-01-12 — 21:31:26 UTC	Nitrate, Shos, vvaish22	2606	5	25
-74668	4	25	No Variant	2020-01-09 — 01:08:40 UTC	Jake_Stiles, micerang, Nitrate, TimeHoodie	48	5	25
+75729	3	25	No Variant	2020-01-19 — 20:57:29 UTC	Floriman, Libster, Nitrate	116	5	25
+75677	2	0	No Variant	2020-01-19 — 03:15:50 UTC	Nitrate, zarash	4149	5	25
+75667	2	21	No Variant	2020-01-19 — 02:42:16 UTC	Nitrate, zarash	5421	5	25
+75131	2	24	No Variant	2020-01-12 — 23:01:56 UTC	hanabornoob, Nitrate	1041	5	25
+75130	2	0	No Variant	2020-01-12 — 22:39:17 UTC	hanabornoob, Nitrate	1089	5	25
+75129	2	23	No Variant	2020-01-12 — 22:26:43 UTC	hanabornoob, Nitrate	1124	5	25
+75128	3	22	No Variant	2020-01-12 — 22:12:23 UTC	Nitrate, Shos, vvaish22	1896	5	25
+75127	3	0	No Variant	2020-01-12 — 21:54:47 UTC	Nitrate, Shos, vvaish22	2179	5	25
+75126	3	0	No Variant	2020-01-12 — 21:31:26 UTC	Nitrate, Shos, vvaish22	2627	5	25
+74668	4	25	No Variant	2020-01-09 — 01:08:40 UTC	Jake_Stiles, micerang, Nitrate, TimeHoodie	49	5	25
 74665	5	0	No Variant	2020-01-09 — 00:36:31 UTC	910dan, micerang, Nitrate, sjdrodge, TimeHoodie	11	5	25
-74662	3	0	No Variant	2020-01-09 — 00:13:10 UTC	910dan, Nitrate, sjdrodge	66	5	25
-74366	3	24	No Variant	2020-01-07 — 00:30:58 UTC	hanabornoob, kodomazer, Nitrate	223	5	25
+74662	3	0	No Variant	2020-01-09 — 00:13:10 UTC	910dan, Nitrate, sjdrodge	69	5	25
+74366	3	24	No Variant	2020-01-07 — 00:30:58 UTC	hanabornoob, kodomazer, Nitrate	228	5	25
 74362	4	30	6 Suits	2020-01-06 — 23:55:15 UTC	Floriman, Nitrate, scharkbite, Valetta6789	24	6	30
 74360	4	28	6 Suits	2020-01-06 — 23:31:25 UTC	Floriman, Nitrate, scharkbite, Valetta6789	25	6	30
-74358	4	25	No Variant	2020-01-06 — 23:03:14 UTC	Fireheart, Floriman, Nitrate, Valetta6789	198	5	25
-74091	5	22	No Variant	2020-01-04 — 20:57:44 UTC	Feer, Kyle, Meike, Nitrate, TimeHoodie	837	5	25
-74059	4	22	No Variant	2020-01-04 — 18:25:46 UTC	Fireheart, Nitrate, TimeHoodie, Valetta6789	308	5	25
+74358	4	25	No Variant	2020-01-06 — 23:03:14 UTC	Fireheart, Floriman, Nitrate, Valetta6789	199	5	25
+74091	5	22	No Variant	2020-01-04 — 20:57:44 UTC	Feer, Kyle, Meike, Nitrate, TimeHoodie	845	5	25
+74059	4	22	No Variant	2020-01-04 — 18:25:46 UTC	Fireheart, Nitrate, TimeHoodie, Valetta6789	311	5	25
 74041	3	25	No Variant	2020-01-04 — 15:43:05 UTC	Fireheart, Nitrate, RaKXeR	16	5	25
-74040	5	24	No Variant	2020-01-04 — 15:14:53 UTC	Fireheart, Floriman, florrat2, Nitrate, RaKXeR	16	5	25
+74040	5	24	No Variant	2020-01-04 — 15:14:53 UTC	Fireheart, Floriman, florrat2, Nitrate, RaKXeR	17	5	25
 73870	4	22	No Variant	2020-01-03 — 03:28:48 UTC	Feer, Kyle, Libster, Nitrate	8	5	25
-73865	4	24	No Variant	2020-01-03 — 03:06:00 UTC	Feer, Kyle, Libster, Nitrate	8	5	25
-73860	2	25	No Variant	2020-01-03 — 02:43:44 UTC	Jake_Stiles, Nitrate	179	5	25
-73858	2	0	No Variant	2020-01-03 — 02:33:29 UTC	Jake_Stiles, Nitrate	181	5	25
-73856	3	0	No Variant	2020-01-03 — 02:25:00 UTC	Jake_Stiles, Nitrate, solarstar92	1174	5	25
-73855	2	0	No Variant	2020-01-03 — 02:19:25 UTC	Jake_Stiles, Nitrate	185	5	25
-73854	2	0	No Variant	2020-01-03 — 02:14:55 UTC	Jake_Stiles, Nitrate	184	5	25
-71649	3	24	No Variant	2019-12-18 — 00:22:17 UTC	hanabornoob, Nitrate, RaKXeR	24	5	25
-71648	3	0	No Variant	2019-12-17 — 23:55:50 UTC	hanabornoob, Nitrate, RaKXeR	24	5	25
-71545	3	20	4 Suits	2019-12-16 — 23:31:47 UTC	honzas, Nitrate, salonka	44	4	20
-71544	3	0	4 Suits	2019-12-16 — 23:14:07 UTC	honzas, Nitrate, salonka	59	4	20
+73865	4	24	No Variant	2020-01-03 — 03:06:00 UTC	Feer, Kyle, Libster, Nitrate	9	5	25
+73860	2	25	No Variant	2020-01-03 — 02:43:44 UTC	Jake_Stiles, Nitrate	182	5	25
+73858	2	0	No Variant	2020-01-03 — 02:33:29 UTC	Jake_Stiles, Nitrate	184	5	25
+73856	3	0	No Variant	2020-01-03 — 02:25:00 UTC	Jake_Stiles, Nitrate, solarstar92	1180	5	25
+73855	2	0	No Variant	2020-01-03 — 02:19:25 UTC	Jake_Stiles, Nitrate	187	5	25
+73854	2	0	No Variant	2020-01-03 — 02:14:55 UTC	Jake_Stiles, Nitrate	186	5	25
+71649	3	24	No Variant	2019-12-18 — 00:22:17 UTC	hanabornoob, Nitrate, RaKXeR	25	5	25
+71648	3	0	No Variant	2019-12-17 — 23:55:50 UTC	hanabornoob, Nitrate, RaKXeR	25	5	25
+71545	3	20	4 Suits	2019-12-16 — 23:31:47 UTC	honzas, Nitrate, salonka	45	4	20
+71544	3	0	4 Suits	2019-12-16 — 23:14:07 UTC	honzas, Nitrate, salonka	60	4	20
 71541	3	0	4 Suits	2019-12-16 — 23:01:08 UTC	honzas, Nitrate, salonka	90	4	20
 71339	3	23	Black (5 Suits)	2019-12-16 — 03:38:50 UTC	Fireheart, Libster, Nitrate	29	5	25
 71337	3	0	Black (5 Suits)	2019-12-16 — 03:24:52 UTC	Fireheart, Libster, Nitrate	31	5	25
@@ -741,32 +774,32 @@
 71332	2	19	Totally Blind (4 Suits)	2019-12-16 — 02:57:00 UTC	Fireheart, Nitrate	6	4	20
 71331	2	18	Totally Blind (4 Suits)	2019-12-16 — 02:49:08 UTC	Fireheart, Nitrate	12	4	20
 71330	2	15	Totally Blind (3 Suits)	2019-12-16 — 02:40:05 UTC	Fireheart, Nitrate	21	3	15
-71263	5	24	No Variant	2019-12-15 — 22:49:34 UTC	asaelr, Fireheart, Floriman, micerang, Nitrate	28	5	25
-71235	5	0	No Variant	2019-12-15 — 22:31:38 UTC	asaelr, Fireheart, Floriman, micerang, Nitrate	29	5	25
-71209	3	25	No Variant	2019-12-15 — 22:13:49 UTC	honzas, micerang, Nitrate	77	5	25
-71181	4	24	No Variant	2019-12-15 — 21:52:00 UTC	Floriman, honzas, Kyle, Nitrate	158	5	25
-71174	4	25	No Variant	2019-12-15 — 20:58:44 UTC	Floriman, honzas, Kyle, Nitrate	162	5	25
+71263	5	24	No Variant	2019-12-15 — 22:49:34 UTC	asaelr, Fireheart, Floriman, micerang, Nitrate	29	5	25
+71235	5	0	No Variant	2019-12-15 — 22:31:38 UTC	asaelr, Fireheart, Floriman, micerang, Nitrate	30	5	25
+71209	3	25	No Variant	2019-12-15 — 22:13:49 UTC	honzas, micerang, Nitrate	79	5	25
+71181	4	24	No Variant	2019-12-15 — 21:52:00 UTC	Floriman, honzas, Kyle, Nitrate	161	5	25
+71174	4	25	No Variant	2019-12-15 — 20:58:44 UTC	Floriman, honzas, Kyle, Nitrate	166	5	25
 71170	4	0	No Variant	2019-12-15 — 20:41:06 UTC	Floriman, honzas, Kyle, Nitrate	204	5	25
-71165	4	19	No Variant	2019-12-15 — 20:22:46 UTC	Floriman, honzas, Kyle, Nitrate	243	5	25
-71163	3	0	No Variant	2019-12-15 — 20:03:22 UTC	aladdin3, honzas, Nitrate	3260	5	25
-71094	5	22	No Variant	2019-12-15 — 16:36:31 UTC	an94, asaelr, Jake_Stiles, Kyle, Nitrate	28	5	25
+71165	4	19	No Variant	2019-12-15 — 20:22:46 UTC	Floriman, honzas, Kyle, Nitrate	245	5	25
+71163	3	0	No Variant	2019-12-15 — 20:03:22 UTC	aladdin3, honzas, Nitrate	3290	5	25
+71094	5	22	No Variant	2019-12-15 — 16:36:31 UTC	an94, asaelr, Jake_Stiles, Kyle, Nitrate	30	5	25
 71091	5	0	No Variant	2019-12-15 — 16:10:55 UTC	an94, asaelr, Jake_Stiles, Kyle, Nitrate	38	5	25
 71087	5	22	No Variant	2019-12-15 — 15:46:35 UTC	an94, asaelr, Jake_Stiles, Kyle, Nitrate	65	5	25
-70962	5	0	No Variant	2019-12-14 — 23:27:35 UTC	asaelr, Floriman, honzas, micerang, Nitrate	30	5	25
-70961	5	0	No Variant	2019-12-14 — 22:53:25 UTC	asaelr, Floriman, honzas, micerang, Nitrate	35	5	25
-70959	3	0	No Variant	2019-12-14 — 22:28:46 UTC	aladdin3, Hawlucha, Nitrate	4221	5	25
-70946	4	25	No Variant	2019-12-14 — 19:18:54 UTC	Fireheart, Floriman, Nitrate, Valetta6789	442	5	25
-70945	4	0	No Variant	2019-12-14 — 18:56:53 UTC	Fireheart, Floriman, Nitrate, Valetta6789	473	5	25
-70927	3	25	No Variant	2019-12-14 — 16:39:34 UTC	hanabornoob, Nitrate, RaKXeR	25	5	25
-70926	2	0	No Variant	2019-12-14 — 16:21:36 UTC	hanabornoob, Nitrate	1703	5	25
-70925	2	0	No Variant	2019-12-14 — 16:16:33 UTC	hanabornoob, Nitrate	1840	5	25
+70962	5	0	No Variant	2019-12-14 — 23:27:35 UTC	asaelr, Floriman, honzas, micerang, Nitrate	31	5	25
+70961	5	0	No Variant	2019-12-14 — 22:53:25 UTC	asaelr, Floriman, honzas, micerang, Nitrate	36	5	25
+70959	3	0	No Variant	2019-12-14 — 22:28:46 UTC	aladdin3, Hawlucha, Nitrate	4250	5	25
+70946	4	25	No Variant	2019-12-14 — 19:18:54 UTC	Fireheart, Floriman, Nitrate, Valetta6789	448	5	25
+70945	4	0	No Variant	2019-12-14 — 18:56:53 UTC	Fireheart, Floriman, Nitrate, Valetta6789	480	5	25
+70927	3	25	No Variant	2019-12-14 — 16:39:34 UTC	hanabornoob, Nitrate, RaKXeR	26	5	25
+70926	2	0	No Variant	2019-12-14 — 16:21:36 UTC	hanabornoob, Nitrate	1721	5	25
+70925	2	0	No Variant	2019-12-14 — 16:16:33 UTC	hanabornoob, Nitrate	1856	5	25
 70828	3	25	No Variant	2019-12-13 — 03:55:47 UTC	micerang, Nitrate, Zamiel	6	5	25
 70824	3	25	No Variant	2019-12-13 — 03:09:37 UTC	Nitrate, red_hedgehog, Zamiel	6	5	25
-70741	3	21	No Variant	2019-12-12 — 03:17:10 UTC	Fireheart, magikarp, Nitrate	111	5	25
-70740	3	0	No Variant	2019-12-12 — 02:52:53 UTC	Fireheart, magikarp, Nitrate	119	5	25
+70741	3	21	No Variant	2019-12-12 — 03:17:10 UTC	Fireheart, magikarp, Nitrate	116	5	25
+70740	3	0	No Variant	2019-12-12 — 02:52:53 UTC	Fireheart, magikarp, Nitrate	126	5	25
 70603	4	23	No Variant	2019-12-11 — 01:09:24 UTC	florrat2, Libster, Nitrate, sankala fan	5	5	25
 70602	3	25	No Variant	2019-12-11 — 00:36:57 UTC	florrat2, Nitrate, sankala fan	25	5	25
-9924	4	24	No Variant	2018-08-21 — 23:08:27 UTC	alercah, Andrew_UK, Nitrate, scharkbite	2763	5	25
-9923	4	0	6 Suits	2018-08-21 — 22:33:22 UTC	alercah, Andrew_UK, Nitrate, scharkbite	354	6	30
-9880	4	25	No Variant	2018-08-21 — 01:31:42 UTC	jeep, Nitrate, NoMercy, Zamiel	16	5	25
-9879	4	25	No Variant	2018-08-21 — 00:59:10 UTC	jeep, Nitrate, NoMercy, Zamiel	17	5	25
+9924	4	24	No Variant	2018-08-21 — 23:08:27 UTC	alercah, Andrew_UK, Nitrate, scharkbite	2788	5	25
+9923	4	0	6 Suits	2018-08-21 — 22:33:22 UTC	alercah, Andrew_UK, Nitrate, scharkbite	359	6	30
+9880	4	25	No Variant	2018-08-21 — 01:31:42 UTC	jeep, Nitrate, NoMercy, Zamiel	18	5	25
+9879	4	25	No Variant	2018-08-21 — 00:59:10 UTC	jeep, Nitrate, NoMercy, Zamiel	18	5	25

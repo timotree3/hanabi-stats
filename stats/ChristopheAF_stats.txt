@@ -1,6 +1,131 @@
-512262	3	0	Rainbow & Cocoa Rainbow (6 Suits)	2021-04-25 — 15:55:33 UTC	Bot-Fiora, ChristopheAF, sephiroth	2	6	30
-512259	3	0	Rainbow & Cocoa Rainbow (6 Suits)	2021-04-25 — 15:51:33 UTC	Bot-Fiora, ChristopheAF, sephiroth	4	6	30
-512248	3	28	Rainbow & Cocoa Rainbow (6 Suits)	2021-04-25 — 15:36:16 UTC	Bot-Fiora, ChristopheAF, sephiroth	5	6	30
+522271	4	26	Light Pink & Dark Prism (6 Suits)	2021-05-06 — 19:08:28 UTC	ChristopheAF, indego, Kyle, rz	1	6	30
+522257	4	0	Light Pink & Dark Prism (6 Suits)	2021-05-06 — 18:42:57 UTC	ChristopheAF, indego, Kyle, rz	1	6	30
+522247	4	0	Light Pink & Dark Prism (6 Suits)	2021-05-06 — 18:30:51 UTC	ChristopheAF, indego, Kyle, rz	1	6	30
+522232	4	26	Light Pink & Dark Prism (6 Suits)	2021-05-06 — 18:15:24 UTC	ChristopheAF, indego, Kyle, rz	1	6	30
+522218	5	12	Muddy Rainbow (3 Suits)	2021-05-06 — 17:58:46 UTC	ChristopheAF, indego, jeff10, rz, VerySloppyTwo	1	3	15
+522213	5	0	Muddy Rainbow (3 Suits)	2021-05-06 — 17:51:43 UTC	ChristopheAF, indego, jeff10, rz, VerySloppyTwo	1	3	15
+522209	4	0	Black & White (6 Suits)	2021-05-06 — 17:48:37 UTC	ChristopheAF, indego, jeff10, rz	8	6	30
+522207	4	0	Black & White (6 Suits)	2021-05-06 — 17:44:57 UTC	ChristopheAF, indego, jeff10, rz	23	6	30
+522198	2	15	Rainbow (3 Suits)	2021-05-06 — 17:33:46 UTC	ChristopheAF, indego	132	3	15
+522109	5	30	Pink & White (6 Suits)	2021-05-06 — 14:18:28 UTC	ChristopheAF, jack67889, Lanvin, rz, Wittvector	1	6	30
+522101	5	0	Pink & White (6 Suits)	2021-05-06 — 13:59:11 UTC	ChristopheAF, jack67889, Lanvin, rz, Wittvector	1	6	30
+521704	6	0	Rainbow & Omni (6 Suits)	2021-05-05 — 23:35:37 UTC	bjnh, ChristopheAF, jack67889, Lanvin, lotem, melwen	1	6	30
+521683	6	0	Rainbow & Omni (6 Suits)	2021-05-05 — 23:03:17 UTC	bjnh, ChristopheAF, jack67889, Lanvin, lotem, melwen	1	6	30
+521619	5	30	Dark Pink (6 Suits)	2021-05-05 — 21:14:49 UTC	bjnh, ChristopheAF, dobi, Lanvin, MangoPie	9	6	30
+521591	6	0	Muddy Rainbow (5 Suits)	2021-05-05 — 20:44:57 UTC	aquarelle, ChristopheAF, dobi, HelanaAshryvr, Lanvin, Nitrate	2	5	25
+521498	4	0	Black & Brown (5 Suits)	2021-05-05 — 19:00:27 UTC	bob65536, ChristopheAF, Lanvin, VerySloppyTwo	6	5	25
+521480	4	23	Black & Brown (5 Suits)	2021-05-05 — 18:38:42 UTC	bob65536, ChristopheAF, Lanvin, VerySloppyTwo	7	5	25
+521466	6	0	Pink & Light Pink (6 Suits)	2021-05-05 — 18:19:36 UTC	ChristopheAF, indego, Lanvin, Lel0uch, squirrel1988, VerySloppyTwo	1	6	30
+521457	4	25	White (5 Suits)	2021-05-05 — 18:06:51 UTC	ChristopheAF, Fafrd, MangoPie, sajizzle	47	5	25
+521378	4	30	Rainbow & Omni (6 Suits)	2021-05-05 — 16:13:56 UTC	ChristopheAF, dobi, possum, Wittvector	5	6	30
+521357	4	0	Rainbow & Omni (6 Suits)	2021-05-05 — 15:41:43 UTC	ChristopheAF, dobi, possum, Wittvector	7	6	30
+520675	5	25	White-Ones & Muddy Rainbow (5 Suits)	2021-05-04 — 22:07:22 UTC	ChristopheAF, Lanvin, MangoPie, melwen, scharkbite	1	5	25
+520661	4	25	White-Ones & Muddy Rainbow (5 Suits)	2021-05-04 — 21:34:36 UTC	ChristopheAF, indego, Pablo-, rz	1	5	25
+520512	4	20	Rainbow & Muddy Rainbow (4 Suits)	2021-05-04 — 18:11:11 UTC	asaelr, ChristopheAF, macanek, Wittvector	1	4	20
+520496	6	0	Prism (5 Suits)	2021-05-04 — 17:53:29 UTC	ChristopheAF, indego, Kyle, MathNoob, possum, Wittvector	3	5	25
+520476	6	0	Prism (5 Suits)	2021-05-04 — 17:27:28 UTC	ChristopheAF, indego, Kyle, MathNoob, possum, Wittvector	3	5	25
+519830	4	24	No Variant	2021-05-03 — 23:17:32 UTC	ChristopheAF, kevincaseytdk1, Lanvin, tacobot5000	150	5	25
+519707	5	30	Dark Prism (6 Suits)	2021-05-03 — 21:05:19 UTC	asaelr, ChristopheAF, Lanvin, Pablo-, ricardodd	2	6	30
+519677	4	30	Rainbow & Prism (6 Suits)	2021-05-03 — 20:29:11 UTC	bjnh, BraydonM, ChristopheAF, DarthGandalf	14	6	30
+519619	5	20	Muddy Rainbow (4 Suits)	2021-05-03 — 19:54:35 UTC	bjnh, ChristopheAF, colton, DarthGandalf, rahsosprout	7	4	20
+519455	2	15	Muddy Rainbow (3 Suits)	2021-05-03 — 16:47:25 UTC	ChristopheAF, macanek	25	3	15
+519450	2	0	Muddy Rainbow (3 Suits)	2021-05-03 — 16:33:58 UTC	ChristopheAF, macanek	38	3	15
+519446	2	13	Muddy Rainbow (3 Suits)	2021-05-03 — 16:26:07 UTC	ChristopheAF, macanek	44	3	15
+518961	4	18	White-Ones & Prism (4 Suits)	2021-05-02 — 23:43:51 UTC	ChristopheAF, dobi, Fafrd, Lanvin	1	4	20
+518947	4	0	White-Ones & Prism (4 Suits)	2021-05-02 — 23:25:23 UTC	ChristopheAF, dobi, Fafrd, Lanvin	1	4	20
+518942	4	19	White-Ones & Prism (4 Suits)	2021-05-02 — 23:15:14 UTC	ChristopheAF, dobi, Fafrd, Lanvin	1	4	20
+518936	5	30	Brown-Ones (6 Suits)	2021-05-02 — 22:49:04 UTC	bjnh, ChristopheAF, dobi, FerKeth, HelanaAshryvr	4	6	30
+518599	6	30	Muddy Rainbow (6 Suits)	2021-05-02 — 13:11:41 UTC	asaelr, ChristopheAF, HelanaAshryvr, MangoPie, squirrel1988, Wittvector	1	6	30
+517943	3	0	Clue Starved & Rainbow (5 Suits)	2021-05-01 — 20:27:04 UTC	ChristopheAF, Lanvin, newduke	9	5	25
+517920	3	0	Clue Starved & Rainbow (6 Suits)	2021-05-01 — 20:12:33 UTC	ChristopheAF, Lanvin, melwen	2	6	30
+517910	3	0	Clue Starved & Rainbow (6 Suits)	2021-05-01 — 20:06:16 UTC	ChristopheAF, Lanvin, melwen	2	6	30
+517891	4	0	Omni & Cocoa Rainbow (5 Suits)	2021-05-01 — 19:43:45 UTC	ChristopheAF, HelanaAshryvr, Lanvin, melwen	3	5	25
+517886	4	0	Omni & Cocoa Rainbow (5 Suits)	2021-05-01 — 19:36:36 UTC	ChristopheAF, HelanaAshryvr, Lanvin, melwen	3	5	25
+517878	3	0	Clue Starved & Rainbow (6 Suits)	2021-05-01 — 19:25:20 UTC	ChristopheAF, HelanaAshryvr, melwen	2	6	30
+517876	3	0	Clue Starved & Rainbow (6 Suits)	2021-05-01 — 19:21:45 UTC	ChristopheAF, HelanaAshryvr, melwen	2	6	30
+517868	3	0	Clue Starved & Rainbow (6 Suits)	2021-05-01 — 19:11:26 UTC	ChristopheAF, HelanaAshryvr, melwen	2	6	30
+517834	5	0	Pink-Ones & Pink (5 Suits)	2021-05-01 — 18:38:01 UTC	ChristopheAF, dobi, HelanaAshryvr, jack67889, melwen	1	5	25
+517823	5	23	Pink-Ones & Pink (5 Suits)	2021-05-01 — 18:15:35 UTC	ChristopheAF, dobi, HelanaAshryvr, jack67889, melwen	1	5	25
+517804	4	0	Black & Muddy Rainbow (6 Suits)	2021-05-01 — 17:48:21 UTC	ChristopheAF, jeff10, kopen, orucsoraihc	6	6	30
+517778	5	27	Brown & Omni (6 Suits)	2021-05-01 — 17:12:32 UTC	ChristopheAF, indego, Lel0uch, melwen, scharkbite	1	6	30
+517763	5	0	Brown & Omni (6 Suits)	2021-05-01 — 16:27:33 UTC	ChristopheAF, indego, Lel0uch, melwen, scharkbite	1	6	30
+517752	3	24	Black & Brown (5 Suits)	2021-05-01 — 15:49:36 UTC	ChristopheAF, rz, Wittvector	6	5	25
+517735	3	23	Black & Brown (5 Suits)	2021-05-01 — 15:13:53 UTC	ChristopheAF, rz, Wittvector	7	5	25
+517720	3	24	Black & Brown (5 Suits)	2021-05-01 — 14:43:10 UTC	ChristopheAF, rz, Wittvector	8	5	25
+517713	3	20	Rainbow & Muddy Rainbow (4 Suits)	2021-05-01 — 14:11:25 UTC	ChristopheAF, rz, Wittvector	5	4	20
+517172	5	25	Light Pink & Dark Prism (6 Suits)	2021-04-30 — 22:28:17 UTC	ChristopheAF, MangoPie, nkkarpov, pianoblook, scharkbite	3	6	30
+517144	5	0	Light Pink & Dark Prism (6 Suits)	2021-04-30 — 21:52:00 UTC	ChristopheAF, MangoPie, nkkarpov, pianoblook, scharkbite	2	6	30
+517117	5	0	Light Pink & Dark Prism (6 Suits)	2021-04-30 — 21:26:36 UTC	ChristopheAF, MangoPie, nkkarpov, pianoblook, scharkbite	2	6	30
+517104	5	0	Light Pink & Dark Prism (6 Suits)	2021-04-30 — 21:14:07 UTC	ChristopheAF, MangoPie, nkkarpov, pianoblook, scharkbite	2	6	30
+517083	5	26	Dark Brown (6 Suits)	2021-04-30 — 20:51:18 UTC	ChristopheAF, Kyle, nkkarpov, pianoblook, scharkbite	3	6	30
+516953	5	25	White-Ones & Brown (5 Suits)	2021-04-30 — 18:55:09 UTC	Aluap, ChristopheAF, Lanvin, MangoPie, VerySloppyTwo	3	5	25
+516937	5	23	White-Ones & Brown (5 Suits)	2021-04-30 — 18:33:49 UTC	Aluap, ChristopheAF, Lanvin, MangoPie, VerySloppyTwo	3	5	25
+516919	4	0	Black & Brown (6 Suits)	2021-04-30 — 18:17:41 UTC	Aluap, ChristopheAF, MangoPie, VerySloppyTwo	13	6	30
+516917	4	0	Black & Brown (6 Suits)	2021-04-30 — 18:15:52 UTC	Aluap, ChristopheAF, MangoPie, VerySloppyTwo	13	6	30
+516913	3	0	Dark Pink (5 Suits)	2021-04-30 — 18:11:36 UTC	bjnh, ChristopheAF, MangoPie	11	5	25
+516908	3	20	Dark Pink (5 Suits)	2021-04-30 — 18:06:59 UTC	bjnh, ChristopheAF, MangoPie	12	5	25
+516901	4	30	Rainbow & Muddy Rainbow (6 Suits)	2021-04-30 — 17:50:58 UTC	bjnh, ChristopheAF, MangoPie, voss	8	6	30
+516890	3	20	Rainbow & Prism (4 Suits)	2021-04-30 — 17:25:40 UTC	bjnh, ChristopheAF, DarthGandalf	15	4	20
+516825	4	30	Black & Light Pink (6 Suits)	2021-04-30 — 15:55:30 UTC	ChristopheAF, Kyle, micerang, rz	7	6	30
+516805	3	0	Rainbow & Omni (6 Suits)	2021-04-30 — 15:34:08 UTC	ChristopheAF, Kyle, rz	3	6	30
+516794	3	0	Rainbow & Omni (6 Suits)	2021-04-30 — 15:16:14 UTC	ChristopheAF, Kyle, rz	3	6	30
+516788	3	30	Black & Pink (6 Suits)	2021-04-30 — 15:02:17 UTC	ChristopheAF, Kyle, rz	6	6	30
+515891	3	30	Light Pink & Dark Prism (6 Suits)	2021-04-29 — 17:55:48 UTC	ChristopheAF, MangoPie, rz	3	6	30
+515860	3	0	Light Pink & Dark Prism (6 Suits)	2021-04-29 — 17:24:21 UTC	ChristopheAF, rz, scharkbite	3	6	30
+515821	3	0	Light Pink & Dark Prism (6 Suits)	2021-04-29 — 17:03:55 UTC	ChristopheAF, rz, scharkbite	2	6	30
+515806	3	29	Light Pink & Dark Prism (6 Suits)	2021-04-29 — 16:49:25 UTC	ChristopheAF, rz, scharkbite	2	6	30
+515798	5	0	Light Pink & Dark Prism (6 Suits)	2021-04-29 — 16:32:11 UTC	ChristopheAF, indego, Lel0uch, rz, scharkbite	2	6	30
+515791	4	28	Light Pink & Dark Prism (6 Suits)	2021-04-29 — 16:20:08 UTC	ChristopheAF, Lel0uch, rz, scharkbite	4	6	30
+515783	2	15	Rainbow & Pink (3 Suits)	2021-04-29 — 16:02:47 UTC	ChristopheAF, Lel0uch	30	3	15
+515780	5	0	Gray Reversed (6 Suits)	2021-04-29 — 15:49:41 UTC	ChristopheAF, Kyle, MarkusKahlsen, melwen, Pablo-	1	6	30
+515777	5	0	Gray Reversed (6 Suits)	2021-04-29 — 15:33:45 UTC	ChristopheAF, Kyle, MarkusKahlsen, melwen, Pablo-	2	6	30
+515713	3	30	Rainbow & Prism (6 Suits)	2021-04-29 — 13:27:29 UTC	ChristopheAF, qqqq, wolfpack	19	6	30
+515326	3	0	Prism (6 Suits)	2021-04-28 — 23:31:40 UTC	ChristopheAF, dobi, nkkarpov	26	6	30
+515250	4	0	Rainbow & Muddy Rainbow (4 Suits)	2021-04-28 — 22:06:35 UTC	ChristopheAF, kevincaseytdk1, melwen, pianoblook	3	4	20
+515228	4	0	Rainbow & Muddy Rainbow (4 Suits)	2021-04-28 — 21:40:30 UTC	ChristopheAF, kevincaseytdk1, melwen, pianoblook	3	4	20
+515211	4	0	Brown-Ones & Omni (6 Suits)	2021-04-28 — 21:18:36 UTC	ChristopheAF, kevincaseytdk1, Lanvin, pianoblook	2	6	30
+515171	3	25	Black & Rainbow (5 Suits)	2021-04-28 — 20:20:29 UTC	bob65536, ChristopheAF, newduke	14	5	25
+515150	3	0	Black & Rainbow (5 Suits)	2021-04-28 — 20:05:08 UTC	bob65536, ChristopheAF, newduke	16	5	25
+515139	3	0	Black & Rainbow (5 Suits)	2021-04-28 — 19:58:22 UTC	bob65536, ChristopheAF, newduke	20	5	25
+515103	5	30	Light Pink (6 Suits)	2021-04-28 — 19:34:59 UTC	bob65536, BraydonM, ChristopheAF, indego, newduke	3	6	30
+514893	5	25	Rainbow (5 Suits)	2021-04-28 — 15:42:54 UTC	BraydonM, ChristopheAF, MathNoob, PotatoLatte, wolfpack	55	5	25
+514859	3	23	Rainbow & White (5 Suits)	2021-04-28 — 15:04:11 UTC	BraydonM, ChristopheAF, wolfpack	10	5	25
+514846	3	0	Rainbow & White (5 Suits)	2021-04-28 — 14:44:05 UTC	BraydonM, ChristopheAF, wolfpack	15	5	25
+514841	3	0	Rainbow & White (5 Suits)	2021-04-28 — 14:35:14 UTC	BraydonM, ChristopheAF, wolfpack	22	5	25
+514836	3	23	Rainbow & White (5 Suits)	2021-04-28 — 14:22:08 UTC	BraydonM, ChristopheAF, wolfpack	21	5	25
+514317	6	23	Black (5 Suits)	2021-04-27 — 22:45:07 UTC	ChristopheAF, indego, jeff10, Lanvin, MangoPie, melwen	1	5	25
+514304	6	0	Black (5 Suits)	2021-04-27 — 22:17:25 UTC	ChristopheAF, indego, jeff10, Lanvin, MangoPie, melwen	1	5	25
+514298	5	0	Pink & White (6 Suits)	2021-04-27 — 22:08:18 UTC	ChristopheAF, Kyle, Lanvin, MangoPie, melwen	1	6	30
+514290	5	0	Pink & White (6 Suits)	2021-04-27 — 21:59:44 UTC	ChristopheAF, Kyle, Lanvin, MangoPie, melwen	1	6	30
+514232	4	19	Brown & Light Pink (4 Suits)	2021-04-27 — 21:32:23 UTC	ChristopheAF, Lanvin, MangoPie, melwen	3	4	20
+514218	2	0	Pink & Brown (3 Suits)	2021-04-27 — 21:18:32 UTC	ChristopheAF, Lanvin	18	3	15
+514205	4	25	Dark Prism (5 Suits)	2021-04-27 — 21:01:44 UTC	Bot-Fiora, ChristopheAF, indego, Syrah	10	5	25
+514178	4	24	Dark Prism (5 Suits)	2021-04-27 — 20:39:45 UTC	Bot-Fiora, ChristopheAF, indego, Syrah	10	5	25
+514155	4	0	Dark Prism (5 Suits)	2021-04-27 — 20:13:48 UTC	Bot-Fiora, ChristopheAF, indego, Syrah	12	5	25
+514138	6	20	Omni (4 Suits)	2021-04-27 — 19:57:19 UTC	ChristopheAF, indego, jeff10, Kyle, Lanvin, newduke	1	4	20
+514122	6	0	Omni (4 Suits)	2021-04-27 — 19:37:43 UTC	ChristopheAF, indego, jeff10, Kyle, Lanvin, newduke	1	4	20
+514055	4	30	Cocoa Rainbow (6 Suits)	2021-04-27 — 17:47:26 UTC	ChristopheAF, indego, MangoPie, rz	13	6	30
+514044	3	0	Black & Rainbow (5 Suits)	2021-04-27 — 17:30:06 UTC	ChristopheAF, indego, rz	21	5	25
+514041	2	18	White (4 Suits)	2021-04-27 — 17:26:47 UTC	ChristopheAF, indego	100	4	20
+514035	2	20	Rainbow (4 Suits)	2021-04-27 — 17:16:53 UTC	ChristopheAF, indego	41	4	20
+514031	2	0	Rainbow (4 Suits)	2021-04-27 — 17:10:26 UTC	ChristopheAF, indego	56	4	20
+514001	6	0	Pink & White (6 Suits)	2021-04-27 — 16:00:40 UTC	ChristopheAF, Kernel, Lel0uch, melwen, rz, squirrel1988	1	6	30
+513991	6	0	Pink & White (6 Suits)	2021-04-27 — 15:30:13 UTC	ChristopheAF, Kernel, Lel0uch, melwen, rz, squirrel1988	1	6	30
+513941	4	14	Light Pink (3 Suits)	2021-04-27 — 13:39:02 UTC	ChristopheAF, kinkajusrevenge, sephiroth, Wittvector	1	3	15
+513512	5	0	Black (5 Suits)	2021-04-26 — 23:53:26 UTC	bjnh, ChristopheAF, HelanaAshryvr, Lanvin, newduke	1	5	25
+513509	4	20	White & Light Pink (4 Suits)	2021-04-26 — 23:35:45 UTC	ChristopheAF, HelanaAshryvr, Lanvin, melwen	2	4	20
+513504	3	0	Clue Starved & Rainbow (6 Suits)	2021-04-26 — 23:13:34 UTC	ChristopheAF, HelanaAshryvr, melwen	2	6	30
+513497	3	0	Clue Starved & Rainbow (6 Suits)	2021-04-26 — 22:53:14 UTC	ChristopheAF, HelanaAshryvr, melwen	3	6	30
+513484	3	0	Black & Dark Pink (6 Suits)	2021-04-26 — 22:17:27 UTC	ChristopheAF, duckless, kevincaseytdk1	4	6	30
+513474	3	0	Black & Dark Pink (6 Suits)	2021-04-26 — 21:55:16 UTC	ChristopheAF, duckless, kevincaseytdk1	5	6	30
+513469	3	28	Black & Dark Pink (6 Suits)	2021-04-26 — 21:41:18 UTC	ChristopheAF, duckless, kevincaseytdk1	5	6	30
+513453	4	0	Black & Dark Pink (6 Suits)	2021-04-26 — 21:19:39 UTC	ChristopheAF, duckless, indego, kevincaseytdk1	4	6	30
+513417	5	18	Pink & White (4 Suits)	2021-04-26 — 20:45:08 UTC	ChristopheAF, Floriman, indego, kevincaseytdk1, superbipbip	4	4	20
+513375	6	15	Pink (3 Suits)	2021-04-26 — 19:41:24 UTC	ChristopheAF, kevincaseytdk1, micerang, newduke, superbipbip, Wittvector	3	3	15
+513122	3	0	Black & Omni (5 Suits)	2021-04-26 — 15:20:11 UTC	ChristopheAF, robense, Wittvector	10	5	25
+512262	3	0	Rainbow & Cocoa Rainbow (6 Suits)	2021-04-25 — 15:55:33 UTC	Bot-Fiora, ChristopheAF, sephiroth	3	6	30
+512259	3	0	Rainbow & Cocoa Rainbow (6 Suits)	2021-04-25 — 15:51:33 UTC	Bot-Fiora, ChristopheAF, sephiroth	5	6	30
+512248	3	28	Rainbow & Cocoa Rainbow (6 Suits)	2021-04-25 — 15:36:16 UTC	Bot-Fiora, ChristopheAF, sephiroth	6	6	30
 512241	4	30	Rainbow & Gray (6 Suits)	2021-04-25 — 15:04:26 UTC	Bot-Fiora, ChristopheAF, duckless, sephiroth	10	6	30
 512237	3	30	White (6 Suits)	2021-04-25 — 14:42:12 UTC	Bot-Fiora, ChristopheAF, duckless	70	6	30
 512231	4	0	Up or Down & Omni (6 Suits)	2021-04-25 — 14:24:32 UTC	ChristopheAF, MangoPie, robense, sephiroth	1	6	30
@@ -13,8 +138,8 @@
 511321	4	0	Rainbow & Cocoa Rainbow (6 Suits)	2021-04-24 — 16:16:19 UTC	ChristopheAF, desymo99, dobi, rz	2	6	30
 511315	4	0	Rainbow & Cocoa Rainbow (6 Suits)	2021-04-24 — 15:59:17 UTC	ChristopheAF, desymo99, dobi, rz	3	6	30
 511305	4	0	Rainbow & Cocoa Rainbow (6 Suits)	2021-04-24 — 15:30:02 UTC	ChristopheAF, desymo99, dobi, rz	3	6	30
-511301	2	30	Prism (6 Suits)	2021-04-24 — 15:20:46 UTC	ChristopheAF, HelanaAshryvr	59	6	30
-511297	2	28	Prism (6 Suits)	2021-04-24 — 14:59:45 UTC	ChristopheAF, HelanaAshryvr	64	6	30
+511301	2	30	Prism (6 Suits)	2021-04-24 — 15:20:46 UTC	ChristopheAF, HelanaAshryvr	62	6	30
+511297	2	28	Prism (6 Suits)	2021-04-24 — 14:59:45 UTC	ChristopheAF, HelanaAshryvr	66	6	30
 511293	4	20	Muddy-Rainbow-Ones & Pink (4 Suits)	2021-04-24 — 14:41:53 UTC	Aluap, bob65536, ChristopheAF, HelanaAshryvr	1	4	20
 510827	5	25	White & Muddy Rainbow (5 Suits)	2021-04-24 — 00:53:13 UTC	aquarelle, ChristopheAF, colton, kinkajusrevenge, MarcLovesDogs	6	5	25
 510637	6	30	Up or Down & Rainbow (6 Suits)	2021-04-23 — 22:26:04 UTC	ChristopheAF, Floriman, indego, kevincaseytdk1, pianoblook, Wittvector	3	6	30
@@ -32,18 +157,18 @@
 509630	3	0	Rainbow & Gray (6 Suits)	2021-04-22 — 21:26:44 UTC	ChristopheAF, duckless, ricardodd	5	6	30
 509480	4	0	Up or Down & Rainbow (6 Suits)	2021-04-22 — 19:00:52 UTC	ChristopheAF, jack67889, nkkarpov, VerySloppyTwo	12	6	30
 509448	4	23	White & Cocoa Rainbow (5 Suits)	2021-04-22 — 18:28:50 UTC	ChristopheAF, indego, jack67889, VerySloppyTwo	4	5	25
-509423	4	0	Brown & Muddy Rainbow (6 Suits)	2021-04-22 — 18:01:53 UTC	ChristopheAF, indego, MangoPie, Spieler42	1	6	30
+509423	4	0	Brown & Muddy Rainbow (6 Suits)	2021-04-22 — 18:01:53 UTC	ChristopheAF, indego, MangoPie, Spieler42	2	6	30
 509412	4	0	Brown & Muddy Rainbow (6 Suits)	2021-04-22 — 17:34:46 UTC	ChristopheAF, indego, MangoPie, Spieler42	3	6	30
-509408	3	0	White & Muddy Rainbow (6 Suits)	2021-04-22 — 17:22:49 UTC	ChristopheAF, MangoPie, robense	4	6	30
+509408	3	0	White & Muddy Rainbow (6 Suits)	2021-04-22 — 17:22:49 UTC	ChristopheAF, MangoPie, robense	5	6	30
 509402	5	30	Black & Rainbow (6 Suits)	2021-04-22 — 17:08:46 UTC	bjnh, ChristopheAF, MarkusKahlsen, rz, squirrel1988	6	6	30
 509393	5	0	Black & Rainbow (6 Suits)	2021-04-22 — 16:32:15 UTC	ChristopheAF, MarkusKahlsen, rz, squirrel1988, Syrah	11	6	30
 508879	5	23	Black (5 Suits)	2021-04-21 — 23:28:29 UTC	bjnh, ChristopheAF, Lanvin, MangoPie, melwen	1	5	25
 508804	5	0	Null (5 Suits)	2021-04-21 — 21:24:17 UTC	ChristopheAF, duckless, Floriman, MangoPie, scharkbite	2	5	25
 508790	5	0	Null (5 Suits)	2021-04-21 — 21:06:01 UTC	ChristopheAF, duckless, Floriman, MangoPie, scharkbite	2	5	25
 508761	4	0	Rainbow & Prism (6 Suits)	2021-04-21 — 20:52:49 UTC	ChristopheAF, duckless, Floriman, MangoPie	6	6	30
-508605	3	28	Cocoa Rainbow (6 Suits)	2021-04-21 — 18:45:17 UTC	bob65536, ChristopheAF, MangoPie	32	6	30
+508605	3	28	Cocoa Rainbow (6 Suits)	2021-04-21 — 18:45:17 UTC	bob65536, ChristopheAF, MangoPie	33	6	30
 508581	4	30	Light Pink (6 Suits)	2021-04-21 — 18:06:22 UTC	bjnh, ChristopheAF, MangoPie, nkkarpov	7	6	30
-508562	3	30	Up or Down & Rainbow (6 Suits)	2021-04-21 — 17:38:47 UTC	ChristopheAF, nkkarpov, orucsoraihc	28	6	30
+508562	3	30	Up or Down & Rainbow (6 Suits)	2021-04-21 — 17:38:47 UTC	ChristopheAF, nkkarpov, orucsoraihc	30	6	30
 508553	3	0	Rainbow & White (6 Suits)	2021-04-21 — 17:17:25 UTC	aquarelle, ChristopheAF, Fey	2	6	30
 508545	3	0	Rainbow & White (6 Suits)	2021-04-21 — 17:02:05 UTC	aquarelle, ChristopheAF, Fey	2	6	30
 508540	3	0	Rainbow & White (6 Suits)	2021-04-21 — 16:50:43 UTC	aquarelle, ChristopheAF, Fey	2	6	30
@@ -54,9 +179,9 @@
 507788	4	0	Special Mix (5 Suits)	2021-04-20 — 20:09:51 UTC	ChristopheAF, MangoPie, ricardodd, sephiroth	4	5	25
 507782	4	0	Rainbow & Muddy Rainbow (6 Suits)	2021-04-20 — 20:03:25 UTC	ChristopheAF, Kyle, MangoPie, ricardodd	1	6	30
 507777	4	0	Rainbow & Muddy Rainbow (6 Suits)	2021-04-20 — 19:59:27 UTC	ChristopheAF, Kyle, MangoPie, ricardodd	1	6	30
-507762	4	0	Rainbow & Muddy Rainbow (6 Suits)	2021-04-20 — 19:45:58 UTC	ChristopheAF, Kyle, MangoPie, ricardodd	2	6	30
+507762	4	0	Rainbow & Muddy Rainbow (6 Suits)	2021-04-20 — 19:45:58 UTC	ChristopheAF, Kyle, MangoPie, ricardodd	3	6	30
 507745	4	0	Rainbow & Muddy Rainbow (6 Suits)	2021-04-20 — 19:27:22 UTC	ChristopheAF, Kyle, MangoPie, ricardodd	3	6	30
-507736	4	0	Rainbow & Muddy Rainbow (6 Suits)	2021-04-20 — 19:09:40 UTC	ChristopheAF, Kyle, MangoPie, ricardodd	3	6	30
+507736	4	0	Rainbow & Muddy Rainbow (6 Suits)	2021-04-20 — 19:09:40 UTC	ChristopheAF, Kyle, MangoPie, ricardodd	4	6	30
 507728	3	29	Rainbow & Brown (6 Suits)	2021-04-20 — 18:54:48 UTC	ChristopheAF, Kyle, ricardodd	13	6	30
 507718	5	0	Dark Omni (6 Suits)	2021-04-20 — 18:36:32 UTC	ChristopheAF, indego, Lanvin, ricardodd, VerySloppyTwo	7	6	30
 507710	5	0	Dark Omni (6 Suits)	2021-04-20 — 18:25:04 UTC	ChristopheAF, indego, Lanvin, ricardodd, VerySloppyTwo	10	6	30
@@ -72,10 +197,10 @@
 507025	5	0	Brown & Muddy Rainbow (5 Suits)	2021-04-19 — 23:50:30 UTC	ChristopheAF, indego, kevincaseytdk1, Lanvin, pianoblook	3	5	25
 507020	5	0	White-Fives & Brown (6 Suits)	2021-04-19 — 23:36:38 UTC	ChristopheAF, indego, Lanvin, Lel0uch, pianoblook	2	6	30
 506843	5	0	Up or Down & Rainbow (6 Suits)	2021-04-19 — 20:08:45 UTC	ChristopheAF, dobi, Lanvin, melwen, Wittvector	3	6	30
-506825	5	21	Black & Rainbow (5 Suits)	2021-04-19 — 19:45:08 UTC	ChristopheAF, melwen, Nitrate, sephiroth, Wittvector	4	5	25
+506825	5	21	Black & Rainbow (5 Suits)	2021-04-19 — 19:45:08 UTC	ChristopheAF, melwen, Nitrate, sephiroth, Wittvector	5	5	25
 506797	3	30	Rainbow (6 Suits)	2021-04-19 — 19:01:34 UTC	ChristopheAF, socerman, tacobot5000	19	6	30
 506763	3	29	Rainbow (6 Suits)	2021-04-19 — 18:29:59 UTC	ChristopheAF, socerman, tacobot5000	19	6	30
-506614	3	20	Rainbow & White (4 Suits)	2021-04-19 — 15:57:40 UTC	ChristopheAF, Kyle, VBVBVBVB	27	4	20
+506614	3	20	Rainbow & White (4 Suits)	2021-04-19 — 15:57:40 UTC	ChristopheAF, Kyle, VBVBVBVB	29	4	20
 505955	4	18	Rainbow & White (4 Suits)	2021-04-18 — 23:58:37 UTC	bjnh, ChristopheAF, nkkarpov, wolfpack	12	4	20
 505680	5	30	White & Muddy Rainbow (6 Suits)	2021-04-18 — 20:19:07 UTC	ChristopheAF, dobi, indego, knaphill, micerang	2	6	30
 505642	4	0	Rainbow & Dark Brown (5 Suits)	2021-04-18 — 19:54:51 UTC	ChristopheAF, dobi, Kyle, micerang	5	5	25
@@ -83,14 +208,14 @@
 505483	3	0	Black & Brown (6 Suits)	2021-04-18 — 17:44:06 UTC	ChristopheAF, MangoPie, rz	23	6	30
 505459	4	30	Pink (6 Suits)	2021-04-18 — 17:27:29 UTC	ChristopheAF, Fey, MangoPie, rz	10	6	30
 505435	4	0	Pink (6 Suits)	2021-04-18 — 17:02:21 UTC	ChristopheAF, Fey, MangoPie, rz	10	6	30
-505418	4	0	Pink (6 Suits)	2021-04-18 — 16:48:25 UTC	ChristopheAF, Fey, MangoPie, rz	42	6	30
+505418	4	0	Pink (6 Suits)	2021-04-18 — 16:48:25 UTC	ChristopheAF, Fey, MangoPie, rz	43	6	30
 505330	3	30	Dark Null (6 Suits)	2021-04-18 — 15:04:06 UTC	ChristopheAF, MangoPie, Wittvector	14	6	30
 505315	3	0	Dark Null (6 Suits)	2021-04-18 — 14:42:56 UTC	ChristopheAF, MangoPie, Wittvector	13	6	30
 505308	3	0	Dark Null (6 Suits)	2021-04-18 — 14:28:26 UTC	ChristopheAF, MangoPie, Wittvector	14	6	30
 504608	3	25	Rainbow & Brown (5 Suits)	2021-04-17 — 22:20:19 UTC	bjnh, ChristopheAF, newduke	13	5	25
-504155	3	25	No Variant	2021-04-17 — 14:24:43 UTC	ChristopheAF, Nitrate, vjk	411	5	25
-504132	3	23	No Variant	2021-04-17 — 13:47:40 UTC	ChristopheAF, Nitrate, vjk	422	5	25
-503295	4	0	Rainbow & Null (6 Suits)	2021-04-16 — 20:37:24 UTC	ChristopheAF, Lanvin, MangoPie, Wittvector	5	6	30
+504155	3	25	No Variant	2021-04-17 — 14:24:43 UTC	ChristopheAF, Nitrate, vjk	417	5	25
+504132	3	23	No Variant	2021-04-17 — 13:47:40 UTC	ChristopheAF, Nitrate, vjk	428	5	25
+503295	4	0	Rainbow & Null (6 Suits)	2021-04-16 — 20:37:24 UTC	ChristopheAF, Lanvin, MangoPie, Wittvector	6	6	30
 503267	4	0	Rainbow & Null (6 Suits)	2021-04-16 — 20:18:20 UTC	ChristopheAF, Lanvin, MangoPie, Wittvector	6	6	30
 503243	4	0	Rainbow & Null (6 Suits)	2021-04-16 — 19:59:33 UTC	ChristopheAF, Lanvin, MangoPie, Wittvector	6	6	30
 503212	5	29	Null (6 Suits)	2021-04-16 — 19:28:52 UTC	ChristopheAF, kevincaseytdk1, Lanvin, MangoPie, Wittvector	6	6	30
@@ -104,10 +229,10 @@
 502035	5	0	Dark Brown (6 Suits)	2021-04-15 — 18:41:31 UTC	ChristopheAF, kevincaseytdk1, MangoPie, Syrah, VerySloppyTwo	10	6	30
 502018	4	0	Prism (6 Suits)	2021-04-15 — 18:24:36 UTC	ChristopheAF, duckless, Fey, Sucubis	22	6	30
 502001	4	0	Prism (6 Suits)	2021-04-15 — 18:13:00 UTC	ChristopheAF, duckless, Fey, Sucubis	23	6	30
-501992	4	30	Rainbow & White (6 Suits)	2021-04-15 — 17:58:59 UTC	ChristopheAF, duckless, Fey, Sucubis	2	6	30
-501971	4	0	Rainbow & White (6 Suits)	2021-04-15 — 17:33:12 UTC	ChristopheAF, duckless, Fey, Sucubis	3	6	30
+501992	4	30	Rainbow & White (6 Suits)	2021-04-15 — 17:58:59 UTC	ChristopheAF, duckless, Fey, Sucubis	3	6	30
+501971	4	0	Rainbow & White (6 Suits)	2021-04-15 — 17:33:12 UTC	ChristopheAF, duckless, Fey, Sucubis	4	6	30
 501320	4	0	Null (6 Suits)	2021-04-14 — 23:21:09 UTC	ChristopheAF, indego, knaphill, MangoPie	4	6	30
-501304	4	0	Null (6 Suits)	2021-04-14 — 22:56:30 UTC	ChristopheAF, indego, knaphill, MangoPie	4	6	30
+501304	4	0	Null (6 Suits)	2021-04-14 — 22:56:30 UTC	ChristopheAF, indego, knaphill, MangoPie	5	6	30
 501295	4	0	Null (6 Suits)	2021-04-14 — 22:34:01 UTC	ChristopheAF, indego, knaphill, MangoPie	6	6	30
 501283	4	0	Null (6 Suits)	2021-04-14 — 22:21:11 UTC	ChristopheAF, indego, knaphill, MangoPie	6	6	30
 501201	4	25	Muddy Rainbow & Light Pink (5 Suits)	2021-04-14 — 21:00:36 UTC	ChristopheAF, melwen, swineherd, Wittvector	4	5	25
@@ -116,13 +241,13 @@
 501108	3	23	Dark Null (5 Suits)	2021-04-14 — 20:06:50 UTC	ChristopheAF, melwen, Wittvector	2	5	25
 501058	4	25	Brown & Muddy Rainbow (5 Suits)	2021-04-14 — 19:42:06 UTC	ChristopheAF, jeff10, newduke, Wittvector	3	5	25
 501026	6	0	Up or Down & Muddy Rainbow (5 Suits)	2021-04-14 — 19:17:18 UTC	ChristopheAF, indego, jeff10, lotem, newduke, Wittvector	1	5	25
-501007	3	0	Dark Brown (5 Suits)	2021-04-14 — 18:52:33 UTC	ChristopheAF, VerySloppyTwo, Wittvector	18	5	25
+501007	3	0	Dark Brown (5 Suits)	2021-04-14 — 18:52:33 UTC	ChristopheAF, VerySloppyTwo, Wittvector	19	5	25
 500993	3	23	Dark Brown (5 Suits)	2021-04-14 — 18:33:33 UTC	ChristopheAF, VerySloppyTwo, Wittvector	18	5	25
 500969	4	0	Brown & Cocoa Rainbow (6 Suits)	2021-04-14 — 18:12:49 UTC	ChristopheAF, indego, Lel0uch, VerySloppyTwo	3	6	30
 500949	5	30	Dual-Color & Light Pink (6 Suits)	2021-04-14 — 17:50:30 UTC	bjnh, ChristopheAF, Kyle, Lel0uch, melwen	1	6	30
 500928	5	0	Dual-Color & Light Pink (6 Suits)	2021-04-14 — 17:23:16 UTC	bjnh, ChristopheAF, Kyle, Lel0uch, melwen	1	6	30
 500913	5	0	Up or Down & Prism (5 Suits)	2021-04-14 — 16:41:22 UTC	ChristopheAF, dobi, duckless, rz, wump	3	5	25
-500907	3	0	Up or Down & Prism (5 Suits)	2021-04-14 — 16:33:00 UTC	ChristopheAF, duckless, rz	9	5	25
+500907	3	0	Up or Down & Prism (5 Suits)	2021-04-14 — 16:33:00 UTC	ChristopheAF, duckless, rz	10	5	25
 499775	5	0	Rainbow (5 Suits)	2021-04-13 — 17:18:14 UTC	ChristopheAF, indego, Kyle, Lel0uch, sin_faith	3	5	25
 499770	5	0	Rainbow (5 Suits)	2021-04-13 — 17:15:01 UTC	ChristopheAF, indego, Kyle, Lel0uch, sin_faith	3	5	25
 499769	5	0	Rainbow (5 Suits)	2021-04-13 — 17:13:38 UTC	ChristopheAF, indego, Kyle, Lel0uch, sin_faith	4	5	25
@@ -132,12 +257,12 @@
 499764	5	0	Rainbow (5 Suits)	2021-04-13 — 17:06:04 UTC	ChristopheAF, indego, Kyle, Lel0uch, sin_faith	4	5	25
 499762	4	25	Rainbow (5 Suits)	2021-04-13 — 17:03:24 UTC	ChristopheAF, indego, Lel0uch, sin_faith	6	5	25
 499759	4	0	Rainbow (5 Suits)	2021-04-13 — 16:59:21 UTC	ChristopheAF, indego, Lel0uch, sin_faith	7	5	25
-499757	3	0	Rainbow (5 Suits)	2021-04-13 — 16:56:52 UTC	ChristopheAF, Lel0uch, sin_faith	12	5	25
-499756	3	0	Rainbow (5 Suits)	2021-04-13 — 16:51:13 UTC	ChristopheAF, Lel0uch, sin_faith	12	5	25
-499753	3	23	Rainbow (5 Suits)	2021-04-13 — 16:45:54 UTC	ChristopheAF, Lel0uch, sin_faith	14	5	25
-499752	3	0	Rainbow (5 Suits)	2021-04-13 — 16:41:13 UTC	ChristopheAF, Lel0uch, sin_faith	14	5	25
-499747	3	0	Rainbow (5 Suits)	2021-04-13 — 16:37:25 UTC	ChristopheAF, Lel0uch, sin_faith	17	5	25
-499746	3	0	Rainbow (5 Suits)	2021-04-13 — 16:32:55 UTC	ChristopheAF, Lel0uch, sin_faith	18	5	25
+499757	3	0	Rainbow (5 Suits)	2021-04-13 — 16:56:52 UTC	ChristopheAF, Lel0uch, sin_faith	13	5	25
+499756	3	0	Rainbow (5 Suits)	2021-04-13 — 16:51:13 UTC	ChristopheAF, Lel0uch, sin_faith	13	5	25
+499753	3	23	Rainbow (5 Suits)	2021-04-13 — 16:45:54 UTC	ChristopheAF, Lel0uch, sin_faith	15	5	25
+499752	3	0	Rainbow (5 Suits)	2021-04-13 — 16:41:13 UTC	ChristopheAF, Lel0uch, sin_faith	15	5	25
+499747	3	0	Rainbow (5 Suits)	2021-04-13 — 16:37:25 UTC	ChristopheAF, Lel0uch, sin_faith	18	5	25
+499746	3	0	Rainbow (5 Suits)	2021-04-13 — 16:32:55 UTC	ChristopheAF, Lel0uch, sin_faith	19	5	25
 499034	5	0	Rainbow & Brown (5 Suits)	2021-04-12 — 22:53:13 UTC	ChristopheAF, MangoPie, melwen, nwajfromoz, squirrel1988	3	5	25
 499007	6	0	Black (5 Suits)	2021-04-12 — 22:38:16 UTC	aquarelle, ChristopheAF, HelanaAshryvr, jack67889, kevincaseytdk1, Lanvin	3	5	25
 498957	4	23	Light Pink & Gray (5 Suits)	2021-04-12 — 21:59:43 UTC	ChristopheAF, indego, kevincaseytdk1, Lanvin	2	5	25
@@ -182,7 +307,7 @@
 493460	5	0	Black (5 Suits)	2021-04-07 — 21:25:55 UTC	bjnh, ChristopheAF, cockdestroyer, IsabeltheCat, newduke	5	5	25
 493440	5	20	Black (5 Suits)	2021-04-07 — 21:04:42 UTC	bjnh, ChristopheAF, cockdestroyer, IsabeltheCat, newduke	5	5	25
 492694	3	0	Dual-Color Mix	2021-04-07 — 01:38:00 UTC	bob65536, BraydonM, ChristopheAF	25	6	30
-492683	3	0	Dual-Color Mix	2021-04-07 — 01:21:52 UTC	bob65536, BraydonM, ChristopheAF	29	6	30
+492683	3	0	Dual-Color Mix	2021-04-07 — 01:21:52 UTC	bob65536, BraydonM, ChristopheAF	30	6	30
 492668	3	0	Dual-Color Mix	2021-04-07 — 01:00:31 UTC	bob65536, BraydonM, ChristopheAF	33	6	30
 492604	3	0	Special Mix (5 Suits)	2021-04-06 — 23:18:15 UTC	ChristopheAF, HelanaAshryvr, squirrel1988	1	5	25
 492593	3	0	Special Mix (5 Suits)	2021-04-06 — 22:59:54 UTC	ChristopheAF, HelanaAshryvr, squirrel1988	1	5	25
@@ -197,8 +322,8 @@
 487389	4	0	Pink & Omni (6 Suits)	2021-04-01 — 15:26:36 UTC	ChristopheAF, dobi, knaphill, Zakisan	3	6	30
 487355	3	30	Up or Down & Omni (6 Suits)	2021-04-01 — 12:55:00 UTC	ChristopheAF, sephiroth, sin_faith	2	6	30
 487352	5	0	Up or Down & Omni (6 Suits)	2021-04-01 — 12:30:46 UTC	catula, ChristopheAF, Lanvin, sephiroth, sin_faith	3	6	30
-486850	2	0	6 Suits	2021-03-31 — 23:05:50 UTC	ChristopheAF, newduke	593	6	30
-486844	2	0	6 Suits	2021-03-31 — 23:01:03 UTC	ChristopheAF, newduke	666	6	30
+486850	2	0	6 Suits	2021-03-31 — 23:05:50 UTC	ChristopheAF, newduke	601	6	30
+486844	2	0	6 Suits	2021-03-31 — 23:01:03 UTC	ChristopheAF, newduke	675	6	30
 486836	5	0	Rainbow & Pink (6 Suits)	2021-03-31 — 22:51:07 UTC	bjnh, ChristopheAF, HelanaAshryvr, Lanvin, squirrel1988	4	6	30
 486830	5	0	Rainbow & Pink (6 Suits)	2021-03-31 — 22:45:27 UTC	bjnh, ChristopheAF, HelanaAshryvr, Lanvin, squirrel1988	4	6	30
 486817	6	0	Black (5 Suits)	2021-03-31 — 22:30:23 UTC	bjnh, ChristopheAF, HelanaAshryvr, Lanvin, squirrel1988, VerySloppyTwo	2	5	25
@@ -327,7 +452,7 @@
 476828	5	0	Special Mix (5 Suits)	2021-03-22 — 13:53:11 UTC	ChristopheAF, jack67889, Lanvin, sephiroth, VerySloppyTwo	1	5	25
 476824	5	0	Special Mix (5 Suits)	2021-03-22 — 13:41:16 UTC	ChristopheAF, jack67889, Lanvin, sephiroth, VerySloppyTwo	1	5	25
 476816	5	0	Special Mix (5 Suits)	2021-03-22 — 13:22:01 UTC	ChristopheAF, jack67889, Lanvin, sephiroth, VerySloppyTwo	1	5	25
-476163	5	0	Black (6 Suits)	2021-03-21 — 20:04:47 UTC	Aluap, antitelharsic, ChristopheAF, Fey, NumerateClutter	35	6	30
+476163	5	0	Black (6 Suits)	2021-03-21 — 20:04:47 UTC	Aluap, antitelharsic, ChristopheAF, Fey, NumerateClutter	36	6	30
 475941	3	0	Dark Pink (6 Suits)	2021-03-21 — 17:25:24 UTC	ChristopheAF, Onen, wump	9	6	30
 475935	3	0	Dark Pink (6 Suits)	2021-03-21 — 17:18:00 UTC	ChristopheAF, Onen, wump	10	6	30
 475926	5	30	Rainbow (6 Suits)	2021-03-21 — 17:02:51 UTC	aquarelle, ChristopheAF, HelanaAshryvr, Lel0uch, mario86	15	6	30
@@ -357,8 +482,8 @@
 474831	5	0	Special Mix (5 Suits)	2021-03-20 — 16:33:09 UTC	ChristopheAF, jack67889, MarkusKahlsen, sephiroth, voss	1	5	25
 474825	5	0	Special Mix (5 Suits)	2021-03-20 — 16:17:31 UTC	ChristopheAF, jack67889, Lel0uch, sephiroth, voss	1	5	25
 474822	4	0	Special Mix (5 Suits)	2021-03-20 — 16:01:59 UTC	ChristopheAF, dobi, Lel0uch, sephiroth	3	5	25
-473603	3	0	Rainbow (6 Suits)	2021-03-19 — 15:13:38 UTC	ChristopheAF, Nitrate, wolfpack	196	6	30
-473588	3	28	Rainbow (6 Suits)	2021-03-19 — 14:37:02 UTC	ChristopheAF, Nitrate, wolfpack	332	6	30
+473603	3	0	Rainbow (6 Suits)	2021-03-19 — 15:13:38 UTC	ChristopheAF, Nitrate, wolfpack	198	6	30
+473588	3	28	Rainbow (6 Suits)	2021-03-19 — 14:37:02 UTC	ChristopheAF, Nitrate, wolfpack	335	6	30
 472962	5	0	Special Mix (5 Suits)	2021-03-18 — 23:43:05 UTC	ChristopheAF, colton, indego, rz, wump	2	5	25
 472946	4	0	Special Mix (5 Suits)	2021-03-18 — 23:25:20 UTC	ChristopheAF, colton, rz, wump	5	5	25
 472941	4	0	Special Mix (5 Suits)	2021-03-18 — 23:21:00 UTC	ChristopheAF, indego, rz, wump	4	5	25
@@ -367,17 +492,17 @@
 472761	5	0	Special Mix (5 Suits)	2021-03-18 — 21:19:15 UTC	ChristopheAF, kevincaseytdk1, orucsoraihc, sephiroth, VerySloppyTwo	1	5	25
 472738	5	0	Special Mix (5 Suits)	2021-03-18 — 21:06:41 UTC	ChristopheAF, kevincaseytdk1, orucsoraihc, sephiroth, VerySloppyTwo	1	5	25
 472688	5	24	Special Mix (5 Suits)	2021-03-18 — 20:34:30 UTC	ChristopheAF, kevincaseytdk1, orucsoraihc, sephiroth, VerySloppyTwo	1	5	25
-472595	4	24	Gray (5 Suits)	2021-03-18 — 19:37:42 UTC	CaitlinSmith, ChristopheAF, kevincaseytdk1, swineherd	4	5	25
-472558	4	23	Gray (5 Suits)	2021-03-18 — 19:09:08 UTC	CaitlinSmith, ChristopheAF, kevincaseytdk1, swineherd	4	5	25
+472595	4	24	Gray (5 Suits)	2021-03-18 — 19:37:42 UTC	CaitlinSmith, ChristopheAF, kevincaseytdk1, swineherd	6	5	25
+472558	4	23	Gray (5 Suits)	2021-03-18 — 19:09:08 UTC	CaitlinSmith, ChristopheAF, kevincaseytdk1, swineherd	6	5	25
 472501	5	22	Special Mix (5 Suits)	2021-03-18 — 18:32:31 UTC	ChristopheAF, Lanvin, MangoPie, newduke, VerySloppyTwo	1	5	25
 471997	3	25	Special Mix (5 Suits)	2021-03-18 — 01:04:34 UTC	ChristopheAF, MangoPie, nkkarpov	1	5	25
 471986	3	0	Special Mix (5 Suits)	2021-03-18 — 00:43:05 UTC	ChristopheAF, MangoPie, nkkarpov	1	5	25
 471952	5	25	White-Ones & White (5 Suits)	2021-03-18 — 00:07:07 UTC	Arcee, ChristopheAF, hakha3, kevincaseytdk1, Kyle	5	5	25
 471928	5	0	White-Ones & White (5 Suits)	2021-03-17 — 23:37:35 UTC	Arcee, ChristopheAF, hakha3, kevincaseytdk1, Kyle	6	5	25
 471903	3	23	Special Mix (5 Suits)	2021-03-17 — 23:15:45 UTC	ChristopheAF, Floriman, kevincaseytdk1	1	5	25
-471882	3	0	Black & Brown (5 Suits)	2021-03-17 — 22:53:53 UTC	ChristopheAF, knaphill, wump	9	5	25
-471860	3	0	Black & Brown (5 Suits)	2021-03-17 — 22:37:40 UTC	ChristopheAF, knaphill, wump	10	5	25
-471843	3	23	Black & Brown (5 Suits)	2021-03-17 — 22:26:30 UTC	ChristopheAF, knaphill, wump	11	5	25
+471882	3	0	Black & Brown (5 Suits)	2021-03-17 — 22:53:53 UTC	ChristopheAF, knaphill, wump	10	5	25
+471860	3	0	Black & Brown (5 Suits)	2021-03-17 — 22:37:40 UTC	ChristopheAF, knaphill, wump	11	5	25
+471843	3	23	Black & Brown (5 Suits)	2021-03-17 — 22:26:30 UTC	ChristopheAF, knaphill, wump	12	5	25
 471813	4	0	Pink (5 Suits)	2021-03-17 — 22:01:08 UTC	ChristopheAF, knaphill, orucsoraihc, StKildaFan	51	5	25
 471652	3	0	Special Mix (5 Suits)	2021-03-17 — 20:58:17 UTC	ChristopheAF, MangoPie, rz	1	5	25
 471646	3	0	Special Mix (5 Suits)	2021-03-17 — 20:52:29 UTC	ChristopheAF, MangoPie, rz	1	5	25
@@ -440,7 +565,7 @@
 468927	4	25	Special Mix (5 Suits)	2021-03-15 — 10:57:28 UTC	asaelr, ChristopheAF, katian, swineherd	5	5	25
 468917	4	0	Special Mix (5 Suits)	2021-03-15 — 10:40:15 UTC	asaelr, ChristopheAF, katian, swineherd	5	5	25
 468913	4	0	Special Mix (5 Suits)	2021-03-15 — 10:35:01 UTC	asaelr, ChristopheAF, katian, swineherd	5	5	25
-468646	3	0	Pink (5 Suits)	2021-03-15 — 01:29:03 UTC	ChristopheAF, MarcLovesDogs, rz	49	5	25
+468646	3	0	Pink (5 Suits)	2021-03-15 — 01:29:03 UTC	ChristopheAF, MarcLovesDogs, rz	51	5	25
 468629	4	0	Pink (5 Suits)	2021-03-15 — 01:13:20 UTC	ChristopheAF, MarcLovesDogs, melwen, rz	2	5	25
 468498	6	0	Prism (5 Suits)	2021-03-14 — 23:14:34 UTC	aquarelle, bjnh, ChristopheAF, corys, HelanaAshryvr, Lanvin	2	5	25
 468492	6	0	Prism (5 Suits)	2021-03-14 — 23:06:23 UTC	aquarelle, bjnh, ChristopheAF, corys, HelanaAshryvr, Lanvin	3	5	25
@@ -461,7 +586,7 @@
 466942	5	0	Special Mix (5 Suits)	2021-03-13 — 20:22:17 UTC	ChristopheAF, hakha3, MangoPie, newduke, TimeHoodie	3	5	25
 466926	5	23	Special Mix (5 Suits)	2021-03-13 — 19:58:38 UTC	ChristopheAF, hakha3, MangoPie, newduke, TimeHoodie	3	5	25
 466914	3	0	Rainbow & Brown (6 Suits)	2021-03-13 — 19:36:06 UTC	ChristopheAF, MangoPie, newduke	23	6	30
-466904	3	25	No Variant	2021-03-13 — 19:27:25 UTC	Arcee, ChristopheAF, newduke	285	5	25
+466904	3	25	No Variant	2021-03-13 — 19:27:25 UTC	Arcee, ChristopheAF, newduke	287	5	25
 466890	5	22	Special Mix (5 Suits)	2021-03-13 — 19:00:21 UTC	asaelr, ChristopheAF, dobi, newduke, VerySloppyTwo	3	5	25
 466863	3	30	Brown (6 Suits)	2021-03-13 — 18:24:57 UTC	ChristopheAF, Lel0uch, melwen	7	6	30
 466847	3	30	Brown (6 Suits)	2021-03-13 — 18:01:36 UTC	ChristopheAF, Lel0uch, melwen	9	6	30
@@ -489,9 +614,9 @@
 465699	3	0	Special Mix (5 Suits)	2021-03-12 — 16:35:37 UTC	ChristopheAF, indego, Lanvin	1	5	25
 465279	3	30	Brown (6 Suits)	2021-03-12 — 03:49:10 UTC	ChristopheAF, Lel0uch, melwen	8	6	30
 465113	3	25	Pink & Muddy Rainbow (5 Suits)	2021-03-12 — 00:34:01 UTC	asaelr, ChristopheAF, padi	3	5	25
-465103	3	0	Pink & Muddy Rainbow (5 Suits)	2021-03-12 — 00:05:15 UTC	asaelr, ChristopheAF, padi	5	5	25
+465103	3	0	Pink & Muddy Rainbow (5 Suits)	2021-03-12 — 00:05:15 UTC	asaelr, ChristopheAF, padi	6	5	25
 465092	3	0	Pink & Muddy Rainbow (5 Suits)	2021-03-11 — 23:49:16 UTC	asaelr, ChristopheAF, padi	6	5	25
-465077	3	25	Throw It in a Hole (5 Suits)	2021-03-11 — 23:30:30 UTC	ChristopheAF, kevincaseytdk1, robense	23	5	25
+465077	3	25	Throw It in a Hole (5 Suits)	2021-03-11 — 23:30:30 UTC	ChristopheAF, kevincaseytdk1, robense	24	5	25
 464969	5	0	Special Mix (5 Suits)	2021-03-11 — 21:25:34 UTC	ChristopheAF, indego, Kyle, robense, rz	2	5	25
 464953	5	0	Special Mix (5 Suits)	2021-03-11 — 21:11:25 UTC	ChristopheAF, indego, Kyle, robense, rz	2	5	25
 464941	5	0	Special Mix (5 Suits)	2021-03-11 — 20:59:20 UTC	ChristopheAF, indego, Kyle, robense, rz	3	5	25
@@ -551,7 +676,7 @@
 462717	4	0	Dark Pink (5 Suits)	2021-03-09 — 20:15:14 UTC	CaitlinSmith, ChristopheAF, rahsosprout, Spieler42	9	5	25
 462668	4	23	Dark Pink (5 Suits)	2021-03-09 — 19:54:12 UTC	CaitlinSmith, ChristopheAF, rahsosprout, Spieler42	11	5	25
 462615	4	22	Dark Pink (5 Suits)	2021-03-09 — 19:32:05 UTC	CaitlinSmith, ChristopheAF, rahsosprout, Spieler42	13	5	25
-462593	4	0	Dark Pink (5 Suits)	2021-03-09 — 19:09:55 UTC	CaitlinSmith, ChristopheAF, rahsosprout, Spieler42	15	5	25
+462593	4	0	Dark Pink (5 Suits)	2021-03-09 — 19:09:55 UTC	CaitlinSmith, ChristopheAF, rahsosprout, Spieler42	16	5	25
 462476	4	24	Dark Omni (5 Suits)	2021-03-09 — 17:12:20 UTC	ChristopheAF, HelanaAshryvr, jeff10, squirrel1988	5	5	25
 462457	4	0	Dark Omni (5 Suits)	2021-03-09 — 16:55:32 UTC	ChristopheAF, HelanaAshryvr, jeff10, squirrel1988	7	5	25
 462453	4	0	Dark Omni (5 Suits)	2021-03-09 — 16:50:26 UTC	ChristopheAF, HelanaAshryvr, jeff10, squirrel1988	6	5	25
@@ -568,7 +693,7 @@
 460659	4	0	White & Brown (5 Suits)	2021-03-07 — 22:41:54 UTC	ChristopheAF, DarthGandalf, melwen, newduke	6	5	25
 459158	4	0	Throw It in a Hole (6 Suits)	2021-03-06 — 21:04:07 UTC	ChristopheAF, HelanaAshryvr, Lanvin, squirrel1988	5	6	30
 459132	4	27	Throw It in a Hole (6 Suits)	2021-03-06 — 20:44:24 UTC	ChristopheAF, HelanaAshryvr, Lanvin, squirrel1988	6	6	30
-459099	3	30	Dark Omni (6 Suits)	2021-03-06 — 20:03:42 UTC	aquarelle, ChristopheAF, VerySloppyTwo	26	6	30
+459099	3	30	Dark Omni (6 Suits)	2021-03-06 — 20:03:42 UTC	aquarelle, ChristopheAF, VerySloppyTwo	27	6	30
 459050	5	27	Dark Brown (6 Suits)	2021-03-06 — 19:28:57 UTC	aquarelle, ChristopheAF, indego, Sucubis, VerySloppyTwo	9	6	30
 459016	5	0	Dark Brown (6 Suits)	2021-03-06 — 18:54:49 UTC	aquarelle, ChristopheAF, indego, Sucubis, VerySloppyTwo	10	6	30
 458997	3	0	Cocoa Rainbow (5 Suits)	2021-03-06 — 18:35:33 UTC	aquarelle, ChristopheAF, Sucubis	7	5	25
@@ -577,9 +702,9 @@
 458860	6	25	Brown (5 Suits)	2021-03-06 — 14:56:09 UTC	ChristopheAF, eliclax, hakha3, Lel0uch, sin_faith, wortel	4	5	25
 458842	6	0	Brown (5 Suits)	2021-03-06 — 14:26:04 UTC	ChristopheAF, eliclax, hakha3, Lel0uch, sin_faith, wortel	5	5	25
 458832	4	25	Dark Brown (5 Suits)	2021-03-06 — 14:03:30 UTC	ChristopheAF, Lel0uch, possum, qqqq	7	5	25
-458827	4	0	Dark Brown (5 Suits)	2021-03-06 — 13:46:45 UTC	ChristopheAF, Lel0uch, possum, qqqq	10	5	25
-458815	4	0	Dark Brown (5 Suits)	2021-03-06 — 13:29:55 UTC	ChristopheAF, Lel0uch, possum, qqqq	8	5	25
-458805	4	22	Dark Brown (5 Suits)	2021-03-06 — 13:00:01 UTC	ChristopheAF, Lel0uch, possum, qqqq	17	5	25
+458827	4	0	Dark Brown (5 Suits)	2021-03-06 — 13:46:45 UTC	ChristopheAF, Lel0uch, possum, qqqq	11	5	25
+458815	4	0	Dark Brown (5 Suits)	2021-03-06 — 13:29:55 UTC	ChristopheAF, Lel0uch, possum, qqqq	9	5	25
+458805	4	22	Dark Brown (5 Suits)	2021-03-06 — 13:00:01 UTC	ChristopheAF, Lel0uch, possum, qqqq	18	5	25
 458799	4	30	Gray (6 Suits)	2021-03-06 — 12:33:38 UTC	ChristopheAF, Div, Lel0uch, possum	10	6	30
 458790	4	0	Gray (6 Suits)	2021-03-06 — 12:03:19 UTC	ChristopheAF, Div, Lel0uch, possum	11	6	30
 458302	5	24	Rainbow & Brown (5 Suits)	2021-03-06 — 02:06:35 UTC	ChristopheAF, Lanvin, MangoPie, melwen, Zamiel	6	5	25
@@ -589,8 +714,8 @@
 457867	5	0	White-Ones & Omni (6 Suits)	2021-03-05 — 20:21:43 UTC	bjnh, ChristopheAF, Lanvin, squirrel1988, VerySloppyTwo	1	6	30
 457821	4	0	Throw It in a Hole (6 Suits)	2021-03-05 — 19:23:35 UTC	ChristopheAF, HelanaAshryvr, Lanvin, squirrel1988	6	6	30
 457804	4	0	Throw It in a Hole (6 Suits)	2021-03-05 — 19:03:28 UTC	ChristopheAF, HelanaAshryvr, Lanvin, squirrel1988	6	6	30
-457792	3	0	Gray (6 Suits)	2021-03-05 — 18:49:08 UTC	ChristopheAF, Lanvin, squirrel1988	16	6	30
-457780	3	0	Gray (6 Suits)	2021-03-05 — 18:36:18 UTC	ChristopheAF, Lanvin, squirrel1988	16	6	30
+457792	3	0	Gray (6 Suits)	2021-03-05 — 18:49:08 UTC	ChristopheAF, Lanvin, squirrel1988	18	6	30
+457780	3	0	Gray (6 Suits)	2021-03-05 — 18:36:18 UTC	ChristopheAF, Lanvin, squirrel1988	19	6	30
 457766	4	0	Throw It in a Hole (6 Suits)	2021-03-05 — 18:23:17 UTC	ChristopheAF, HelanaAshryvr, Lanvin, squirrel1988	7	6	30
 457663	3	0	Special Mix (5 Suits)	2021-03-05 — 16:50:21 UTC	ChristopheAF, rz, wump	1	5	25
 457657	3	0	Special Mix (5 Suits)	2021-03-05 — 16:38:37 UTC	ChristopheAF, rz, wump	1	5	25
@@ -606,11 +731,11 @@
 456667	5	0	Rainbow (4 Suits)	2021-03-04 — 20:49:30 UTC	ChristopheAF, flaaffy, knaphill, newduke, Pablo-	9	4	20
 456642	4	20	4 Suits	2021-03-04 — 20:34:41 UTC	ChristopheAF, flaaffy, knaphill, newduke	32	4	20
 456613	3	0	Color Mute (5 Suits)	2021-03-04 — 20:14:58 UTC	ChristopheAF, HelanaAshryvr, newduke	2	5	25
-456510	4	22	Gray (5 Suits)	2021-03-04 — 18:03:41 UTC	ChristopheAF, indego, jeff10, Lel0uch	3	5	25
-456503	4	0	Gray (5 Suits)	2021-03-04 — 17:45:24 UTC	ChristopheAF, indego, jeff10, Lel0uch	4	5	25
-456498	4	0	Gray (5 Suits)	2021-03-04 — 17:39:10 UTC	ChristopheAF, indego, jeff10, Lel0uch	5	5	25
-456496	4	0	Gray (5 Suits)	2021-03-04 — 17:36:59 UTC	ChristopheAF, indego, jeff10, Lel0uch	9	5	25
-456490	4	0	Gray (5 Suits)	2021-03-04 — 17:31:59 UTC	ChristopheAF, indego, jeff10, Lel0uch	7	5	25
+456510	4	22	Gray (5 Suits)	2021-03-04 — 18:03:41 UTC	ChristopheAF, indego, jeff10, Lel0uch	6	5	25
+456503	4	0	Gray (5 Suits)	2021-03-04 — 17:45:24 UTC	ChristopheAF, indego, jeff10, Lel0uch	8	5	25
+456498	4	0	Gray (5 Suits)	2021-03-04 — 17:39:10 UTC	ChristopheAF, indego, jeff10, Lel0uch	9	5	25
+456496	4	0	Gray (5 Suits)	2021-03-04 — 17:36:59 UTC	ChristopheAF, indego, jeff10, Lel0uch	11	5	25
+456490	4	0	Gray (5 Suits)	2021-03-04 — 17:31:59 UTC	ChristopheAF, indego, jeff10, Lel0uch	9	5	25
 456482	4	28	Dark Omni (6 Suits)	2021-03-04 — 17:16:39 UTC	ChristopheAF, indego, Lel0uch, TimeHoodie	16	6	30
 456471	4	0	Dark Omni (6 Suits)	2021-03-04 — 16:55:57 UTC	ChristopheAF, HelanaAshryvr, indego, Lel0uch	17	6	30
 456467	4	22	Clue Starved & Brown (5 Suits)	2021-03-04 — 16:40:42 UTC	ChristopheAF, indego, Lel0uch, robense	2	5	25
@@ -625,8 +750,8 @@
 455676	5	0	Special Mix (5 Suits)	2021-03-03 — 22:51:12 UTC	ChristopheAF, Lanvin, MangoPie, newduke, Wittvector	1	5	25
 455668	5	0	Special Mix (5 Suits)	2021-03-03 — 22:41:22 UTC	ChristopheAF, Lanvin, MangoPie, newduke, Wittvector	1	5	25
 455661	5	0	Special Mix (5 Suits)	2021-03-03 — 22:32:54 UTC	ChristopheAF, Lanvin, MangoPie, newduke, Wittvector	2	5	25
-455483	3	27	Rainbow & Gray (6 Suits)	2021-03-03 — 19:30:41 UTC	ChristopheAF, rahsosprout, sephiroth	10	6	30
-455449	3	0	Rainbow & Gray (6 Suits)	2021-03-03 — 19:08:03 UTC	ChristopheAF, rahsosprout, sephiroth	17	6	30
+455483	3	27	Rainbow & Gray (6 Suits)	2021-03-03 — 19:30:41 UTC	ChristopheAF, rahsosprout, sephiroth	11	6	30
+455449	3	0	Rainbow & Gray (6 Suits)	2021-03-03 — 19:08:03 UTC	ChristopheAF, rahsosprout, sephiroth	18	6	30
 455317	3	23	Special Mix (5 Suits)	2021-03-03 — 16:13:54 UTC	ChristopheAF, TimeHoodie, VerySloppyTwo	1	5	25
 455309	3	23	Special Mix (5 Suits)	2021-03-03 — 15:55:25 UTC	ChristopheAF, TimeHoodie, VerySloppyTwo	1	5	25
 454710	4	0	Rainbow & Gray (5 Suits)	2021-03-03 — 00:22:42 UTC	ChristopheAF, HelanaAshryvr, indego, melwen	2	5	25
@@ -672,8 +797,8 @@
 453150	4	29	Black & White (6 Suits)	2021-03-01 — 16:34:12 UTC	ChristopheAF, HelanaAshryvr, Lel0uch, squirrel1988	19	6	30
 453128	4	0	Black & White (6 Suits)	2021-03-01 — 16:06:52 UTC	ChristopheAF, HelanaAshryvr, Lel0uch, squirrel1988	17	6	30
 453112	3	0	Black & White (6 Suits)	2021-03-01 — 15:48:55 UTC	ChristopheAF, HelanaAshryvr, squirrel1988	28	6	30
-453110	4	0	White (6 Suits)	2021-03-01 — 15:36:41 UTC	ChristopheAF, dobi, HelanaAshryvr, squirrel1988	16	6	30
-453109	4	0	White (6 Suits)	2021-03-01 — 15:26:02 UTC	ChristopheAF, dobi, HelanaAshryvr, squirrel1988	20	6	30
+453110	4	0	White (6 Suits)	2021-03-01 — 15:36:41 UTC	ChristopheAF, dobi, HelanaAshryvr, squirrel1988	17	6	30
+453109	4	0	White (6 Suits)	2021-03-01 — 15:26:02 UTC	ChristopheAF, dobi, HelanaAshryvr, squirrel1988	22	6	30
 453104	3	0	Special Mix (5 Suits)	2021-03-01 — 15:15:59 UTC	ChristopheAF, indego, robense	2	5	25
 453092	3	0	Special Mix (5 Suits)	2021-03-01 — 14:47:02 UTC	ChristopheAF, indego, robense	5	5	25
 453033	6	30	Pink & Gray (6 Suits)	2021-03-01 — 12:47:18 UTC	ChristopheAF, cockdestroyer, jack67889, Lanvin, Lel0uch, VerySloppyTwo	1	6	30
@@ -699,12 +824,12 @@
 451132	3	0	Special Mix (5 Suits)	2021-02-27 — 21:03:45 UTC	ChristopheAF, dobi, newduke	2	5	25
 450983	4	24	White & Brown (5 Suits)	2021-02-27 — 19:09:01 UTC	ChristopheAF, Lanvin, nwajfromoz, VerySloppyTwo	8	5	25
 450934	5	18	Rainbow-Ones (4 Suits)	2021-02-27 — 17:47:36 UTC	ChristopheAF, HelanaAshryvr, narabio, sean1815, squirrel1988	3	4	20
-450928	4	0	Rainbow & White (6 Suits)	2021-02-27 — 17:30:26 UTC	ChristopheAF, HelanaAshryvr, rz, squirrel1988	5	6	30
-450924	4	0	Rainbow & White (6 Suits)	2021-02-27 — 17:24:34 UTC	ChristopheAF, HelanaAshryvr, rz, squirrel1988	7	6	30
-450910	4	0	Rainbow & White (6 Suits)	2021-02-27 — 17:13:29 UTC	ChristopheAF, HelanaAshryvr, rz, squirrel1988	16	6	30
-450905	4	0	Rainbow & White (6 Suits)	2021-02-27 — 16:57:34 UTC	ChristopheAF, HelanaAshryvr, rz, squirrel1988	23	6	30
-450902	3	0	Gray (6 Suits)	2021-02-27 — 16:44:35 UTC	ChristopheAF, HelanaAshryvr, squirrel1988	45	6	30
-450896	3	0	Gray (6 Suits)	2021-02-27 — 16:31:32 UTC	ChristopheAF, HelanaAshryvr, squirrel1988	48	6	30
+450928	4	0	Rainbow & White (6 Suits)	2021-02-27 — 17:30:26 UTC	ChristopheAF, HelanaAshryvr, rz, squirrel1988	6	6	30
+450924	4	0	Rainbow & White (6 Suits)	2021-02-27 — 17:24:34 UTC	ChristopheAF, HelanaAshryvr, rz, squirrel1988	8	6	30
+450910	4	0	Rainbow & White (6 Suits)	2021-02-27 — 17:13:29 UTC	ChristopheAF, HelanaAshryvr, rz, squirrel1988	17	6	30
+450905	4	0	Rainbow & White (6 Suits)	2021-02-27 — 16:57:34 UTC	ChristopheAF, HelanaAshryvr, rz, squirrel1988	25	6	30
+450902	3	0	Gray (6 Suits)	2021-02-27 — 16:44:35 UTC	ChristopheAF, HelanaAshryvr, squirrel1988	48	6	30
+450896	3	0	Gray (6 Suits)	2021-02-27 — 16:31:32 UTC	ChristopheAF, HelanaAshryvr, squirrel1988	52	6	30
 450870	5	0	Special Mix (5 Suits)	2021-02-27 — 15:45:56 UTC	ChristopheAF, Dr_Kakashi, HelanaAshryvr, indego, MangoPie	2	5	25
 450855	5	0	Special Mix (5 Suits)	2021-02-27 — 15:27:42 UTC	ChristopheAF, Dr_Kakashi, HelanaAshryvr, indego, MangoPie	2	5	25
 450842	5	0	Special Mix (5 Suits)	2021-02-27 — 14:56:58 UTC	ChristopheAF, Dr_Kakashi, HelanaAshryvr, indego, MangoPie	3	5	25
@@ -740,7 +865,7 @@
 448676	4	25	Special Mix (5 Suits)	2021-02-25 — 13:58:32 UTC	ChristopheAF, Floriman, hakha3, TimeHoodie	4	5	25
 448668	4	0	Special Mix (5 Suits)	2021-02-25 — 13:36:03 UTC	ChristopheAF, Floriman, hakha3, TimeHoodie	4	5	25
 448666	4	0	Special Mix (5 Suits)	2021-02-25 — 13:23:11 UTC	ChristopheAF, Floriman, hakha3, TimeHoodie	5	5	25
-448663	3	0	Rainbow & Brown (4 Suits)	2021-02-25 — 13:16:01 UTC	ChristopheAF, Floriman, TimeHoodie	13	4	20
+448663	3	0	Rainbow & Brown (4 Suits)	2021-02-25 — 13:16:01 UTC	ChristopheAF, Floriman, TimeHoodie	15	4	20
 448659	3	0	Rainbow & Brown (4 Suits)	2021-02-25 — 13:02:59 UTC	ChristopheAF, Floriman, TimeHoodie	20	4	20
 448654	4	0	Special Mix (5 Suits)	2021-02-25 — 12:52:11 UTC	ChristopheAF, Floriman, hakha3, TimeHoodie	5	5	25
 448073	4	24	Special Mix (5 Suits)	2021-02-24 — 22:17:24 UTC	ChristopheAF, indego, Lanvin, VerySloppyTwo	4	5	25
@@ -750,7 +875,7 @@
 447991	4	0	Special Mix (5 Suits)	2021-02-24 — 20:54:43 UTC	ChristopheAF, indego, Lanvin, VerySloppyTwo	4	5	25
 447974	3	0	Special Mix (5 Suits)	2021-02-24 — 20:44:04 UTC	ChristopheAF, indego, Lanvin	7	5	25
 447957	4	30	Dark Rainbow (6 Suits)	2021-02-24 — 20:21:52 UTC	ChristopheAF, indego, Kernel, Lanvin	26	6	30
-447931	4	0	Dark Rainbow (6 Suits)	2021-02-24 — 19:58:32 UTC	ChristopheAF, indego, Kernel, Lanvin	25	6	30
+447931	4	0	Dark Rainbow (6 Suits)	2021-02-24 — 19:58:32 UTC	ChristopheAF, indego, Kernel, Lanvin	27	6	30
 447910	4	0	Dark Rainbow (6 Suits)	2021-02-24 — 19:42:26 UTC	ChristopheAF, indego, Kernel, Lanvin	32	6	30
 447899	5	0	Pink-Fives & Light Pink (4 Suits)	2021-02-24 — 19:27:27 UTC	ChristopheAF, hakha3, Kernel, Lanvin, MangoPie	2	4	20
 447897	3	0	Special Mix (5 Suits)	2021-02-24 — 19:25:16 UTC	ChristopheAF, Onen, sephiroth	2	5	25
@@ -807,7 +932,7 @@
 442109	3	28	Rainbow & Dark Brown (6 Suits)	2021-02-19 — 18:48:27 UTC	ChristopheAF, MarkusKahlsen, Nitrate2	9	6	30
 442080	3	0	Pink & Omni (3 Suits)	2021-02-19 — 18:16:10 UTC	ChristopheAF, MarkusKahlsen, Nitrate2	4	3	15
 442055	3	20	Pink & Omni (4 Suits)	2021-02-19 — 17:50:55 UTC	ChristopheAF, MarkusKahlsen, Nitrate2	2	4	20
-442043	3	19	Pink & Omni (4 Suits)	2021-02-19 — 17:26:16 UTC	ChristopheAF, MarkusKahlsen, Nitrate2	3	4	20
+442043	3	19	Pink & Omni (4 Suits)	2021-02-19 — 17:26:16 UTC	ChristopheAF, MarkusKahlsen, Nitrate2	4	4	20
 441381	5	0	Dark Rainbow (6 Suits)	2021-02-19 — 00:30:24 UTC	BlueNovember, ChristopheAF, dobi, kevincaseytdk1, rz	14	6	30
 441343	4	22	Rainbow & Gray (5 Suits)	2021-02-18 — 23:52:26 UTC	asaelr, ChristopheAF, kimbifille, rahsosprout	6	5	25
 441332	4	21	Rainbow & Gray (5 Suits)	2021-02-18 — 23:31:45 UTC	asaelr, ChristopheAF, kimbifille, rahsosprout	7	5	25
@@ -819,14 +944,14 @@
 440917	3	0	Special Mix (5 Suits)	2021-02-18 — 16:28:49 UTC	ChristopheAF, MangoPie, VerySloppyTwo	10	5	25
 440911	3	24	Special Mix (5 Suits)	2021-02-18 — 16:02:54 UTC	ChristopheAF, MangoPie, VerySloppyTwo	17	5	25
 440903	3	0	Special Mix (5 Suits)	2021-02-18 — 15:42:08 UTC	ChristopheAF, MangoPie, VerySloppyTwo	17	5	25
-440472	4	30	Black & Rainbow (6 Suits)	2021-02-18 — 00:46:26 UTC	ChristopheAF, Lanvin, Onen, ricardodd	13	6	30
+440472	4	30	Black & Rainbow (6 Suits)	2021-02-18 — 00:46:26 UTC	ChristopheAF, Lanvin, Onen, ricardodd	14	6	30
 440436	3	30	Dark Brown (6 Suits)	2021-02-18 — 00:22:10 UTC	ChristopheAF, Lanvin, Onen	28	6	30
 440281	4	24	Special Mix (5 Suits)	2021-02-17 — 21:46:26 UTC	ChristopheAF, Lanvin, MarkusKahlsen, VerySloppyTwo	6	5	25
 440250	4	0	Special Mix (5 Suits)	2021-02-17 — 21:20:28 UTC	ChristopheAF, Lanvin, MarkusKahlsen, VerySloppyTwo	6	5	25
 440231	4	0	Special Mix (5 Suits)	2021-02-17 — 21:07:31 UTC	ChristopheAF, Lanvin, MarkusKahlsen, VerySloppyTwo	6	5	25
 440215	4	0	Special Mix (5 Suits)	2021-02-17 — 20:56:00 UTC	ChristopheAF, Lanvin, MarkusKahlsen, VerySloppyTwo	5	5	25
 440195	4	24	Special Mix (5 Suits)	2021-02-17 — 20:37:16 UTC	ChristopheAF, Lanvin, MarkusKahlsen, VerySloppyTwo	5	5	25
-439548	3	24	Rainbow & Prism (5 Suits)	2021-02-17 — 00:52:26 UTC	ChristopheAF, Lanvin, nwajfromoz	16	5	25
+439548	3	24	Rainbow & Prism (5 Suits)	2021-02-17 — 00:52:26 UTC	ChristopheAF, Lanvin, nwajfromoz	17	5	25
 439532	5	0	Special Mix (5 Suits)	2021-02-17 — 00:15:41 UTC	ChristopheAF, Lanvin, melwen, scharkbite, TheDaniMan	2	5	25
 439508	5	21	Special Mix (5 Suits)	2021-02-16 — 23:44:26 UTC	ChristopheAF, Lanvin, melwen, scharkbite, TheDaniMan	2	5	25
 439491	5	0	Special Mix (5 Suits)	2021-02-16 — 23:19:04 UTC	ChristopheAF, Lanvin, melwen, scharkbite, TheDaniMan	2	5	25
@@ -835,7 +960,7 @@
 439469	5	0	Special Mix (5 Suits)	2021-02-16 — 22:38:02 UTC	ChristopheAF, Lanvin, melwen, Onen, scharkbite	2	5	25
 439457	5	0	Special Mix (5 Suits)	2021-02-16 — 22:26:42 UTC	ChristopheAF, Lanvin, melwen, Onen, scharkbite	2	5	25
 439320	4	0	Rainbow & Prism (6 Suits)	2021-02-16 — 20:21:45 UTC	ChristopheAF, colton, Pimak, robense	16	6	30
-439227	3	0	Rainbow (5 Suits)	2021-02-16 — 18:46:05 UTC	ChristopheAF, Lanvin, squirrel1988	39	5	25
+439227	3	0	Rainbow (5 Suits)	2021-02-16 — 18:46:05 UTC	ChristopheAF, Lanvin, squirrel1988	40	5	25
 439206	4	20	Pink & Light Pink (4 Suits)	2021-02-16 — 18:19:38 UTC	ChristopheAF, Fey, Lanvin, TheDaniMan	2	4	20
 439201	4	0	Pink & Light Pink (4 Suits)	2021-02-16 — 18:09:29 UTC	ChristopheAF, Fey, Lanvin, TheDaniMan	3	4	20
 439197	4	0	Pink & Light Pink (4 Suits)	2021-02-16 — 18:03:42 UTC	ChristopheAF, Fey, Lanvin, TheDaniMan	3	4	20
@@ -843,7 +968,7 @@
 439189	4	0	Pink & Light Pink (5 Suits)	2021-02-16 — 17:56:12 UTC	ChristopheAF, Fey, Lanvin, TheDaniMan	3	5	25
 439185	4	0	Pink & Light Pink (5 Suits)	2021-02-16 — 17:48:00 UTC	ChristopheAF, Fey, frosty104, sephiroth	3	5	25
 439176	4	24	Pink & Light Pink (5 Suits)	2021-02-16 — 17:36:20 UTC	ChristopheAF, Fey, frosty104, sephiroth	3	5	25
-439135	3	22	Rainbow (5 Suits)	2021-02-16 — 15:42:03 UTC	BananaBum, ChristopheAF, Kernel	50	5	25
+439135	3	22	Rainbow (5 Suits)	2021-02-16 — 15:42:03 UTC	BananaBum, ChristopheAF, Kernel	51	5	25
 439084	3	25	White & Light Pink (5 Suits)	2021-02-16 — 12:08:51 UTC	ChristopheAF, frosty104, sephiroth	6	5	25
 439078	6	23	Special Mix (5 Suits)	2021-02-16 — 11:44:34 UTC	asaelr, ChristopheAF, frosty104, Pablo-, sephiroth, VerySloppyTwo	2	5	25
 438737	3	24	Black & Muddy Rainbow (5 Suits)	2021-02-16 — 02:42:37 UTC	ChristopheAF, cockdestroyer, TheDaniMan	3	5	25
@@ -864,7 +989,7 @@
 438021	4	0	Pink & Omni (6 Suits)	2021-02-15 — 11:48:00 UTC	catula, ChristopheAF, cockdestroyer, frosty104	7	6	30
 438008	5	28	Rainbow & Pink (6 Suits)	2021-02-15 — 11:15:31 UTC	catula, ChristopheAF, cockdestroyer, frosty104, Pablo-	7	6	30
 437993	5	28	Pink & Dark Rainbow (6 Suits)	2021-02-15 — 10:39:01 UTC	ChristopheAF, cockdestroyer, frosty104, Pablo-, TimeHoodie	2	6	30
-437983	4	29	Pink & Dark Rainbow (6 Suits)	2021-02-15 — 10:07:28 UTC	ChristopheAF, frosty104, Pablo-, TimeHoodie	6	6	30
+437983	4	29	Pink & Dark Rainbow (6 Suits)	2021-02-15 — 10:07:28 UTC	ChristopheAF, frosty104, Pablo-, TimeHoodie	7	6	30
 437367	6	30	White & Prism (6 Suits)	2021-02-14 — 21:47:12 UTC	4head, CaitlinSmith, ChristopheAF, griff77, knaphill, Lanvin	2	6	30
 437336	5	0	Rainbow & White (5 Suits)	2021-02-14 — 21:16:18 UTC	4head, CaitlinSmith, ChristopheAF, knaphill, Lanvin	2	5	25
 437320	5	24	Rainbow & White (5 Suits)	2021-02-14 — 21:04:40 UTC	4head, CaitlinSmith, ChristopheAF, knaphill, Lanvin	4	5	25
@@ -872,7 +997,7 @@
 437223	3	22	Special Mix (5 Suits)	2021-02-14 — 19:59:52 UTC	ChristopheAF, Lanvin, rz	14	5	25
 437197	3	23	Special Mix (5 Suits)	2021-02-14 — 19:37:35 UTC	ChristopheAF, Lanvin, rz	14	5	25
 437157	3	0	Special Mix (5 Suits)	2021-02-14 — 19:13:58 UTC	ChristopheAF, Lanvin, rz	16	5	25
-437133	3	24	Special Mix (5 Suits)	2021-02-14 — 18:49:15 UTC	ChristopheAF, Lanvin, rz	38	5	25
+437133	3	24	Special Mix (5 Suits)	2021-02-14 — 18:49:15 UTC	ChristopheAF, Lanvin, rz	39	5	25
 437086	3	0	Special Mix (5 Suits)	2021-02-14 — 18:00:54 UTC	ChristopheAF, Lanvin, Wittvector	15	5	25
 437059	3	0	Special Mix (5 Suits)	2021-02-14 — 17:36:40 UTC	ChristopheAF, Lanvin, Wittvector	16	5	25
 437040	6	0	Special Mix (5 Suits)	2021-02-14 — 17:20:56 UTC	ChristopheAF, Lanvin, rachyrules, rz, Wittvector, wump	4	5	25
@@ -890,30 +1015,30 @@
 436019	5	0	Pink & Light Pink (5 Suits)	2021-02-13 — 21:26:43 UTC	4head, ChristopheAF, nkkarpov, Spieler42, torp	3	5	25
 435997	5	0	Pink & Light Pink (5 Suits)	2021-02-13 — 21:08:05 UTC	4head, ChristopheAF, nkkarpov, Spieler42, torp	5	5	25
 435863	5	30	Black (6 Suits)	2021-02-13 — 19:06:04 UTC	ChristopheAF, Lanvin, Nitrate, Pimak, TimeHoodie	39	6	30
-435818	4	23	Gray (5 Suits)	2021-02-13 — 18:13:58 UTC	aquarelle, ChristopheAF, Nitrate, Pimak	9	5	25
-435798	4	0	Gray (5 Suits)	2021-02-13 — 17:33:45 UTC	aquarelle, ChristopheAF, Nitrate, Pimak	12	5	25
+435818	4	23	Gray (5 Suits)	2021-02-13 — 18:13:58 UTC	aquarelle, ChristopheAF, Nitrate, Pimak	11	5	25
+435798	4	0	Gray (5 Suits)	2021-02-13 — 17:33:45 UTC	aquarelle, ChristopheAF, Nitrate, Pimak	15	5	25
 435761	3	23	Dark Pink (5 Suits)	2021-02-13 — 16:15:28 UTC	ChristopheAF, frosty104, qqqq	12	5	25
 435745	3	0	Dark Pink (5 Suits)	2021-02-13 — 15:41:11 UTC	ChristopheAF, frosty104, qqqq	16	5	25
 435731	3	24	Dark Pink (5 Suits)	2021-02-13 — 15:08:24 UTC	ChristopheAF, frosty104, qqqq	17	5	25
 434863	4	0	Pink & Omni (5 Suits)	2021-02-12 — 23:23:42 UTC	ADrone, ChristopheAF, Lanvin, MarkusKahlsen	2	5	25
 434854	4	22	Pink & Omni (5 Suits)	2021-02-12 — 23:06:06 UTC	ADrone, ChristopheAF, Lanvin, MarkusKahlsen	2	5	25
 434835	4	0	Pink & Omni (5 Suits)	2021-02-12 — 22:41:43 UTC	ADrone, ChristopheAF, jeff10, Lanvin	4	5	25
-434821	4	27	Dark Omni (6 Suits)	2021-02-12 — 22:25:51 UTC	bjnh, ChristopheAF, jack67889, Lanvin	13	6	30
-434694	4	20	Rainbow & Prism (4 Suits)	2021-02-12 — 20:36:51 UTC	ChristopheAF, Denchulitas, duckless, Lanvin	6	4	20
+434821	4	27	Dark Omni (6 Suits)	2021-02-12 — 22:25:51 UTC	bjnh, ChristopheAF, jack67889, Lanvin	14	6	30
+434694	4	20	Rainbow & Prism (4 Suits)	2021-02-12 — 20:36:51 UTC	ChristopheAF, Denchulitas, duckless, Lanvin	7	4	20
 434512	6	25	Rainbow & Brown (5 Suits)	2021-02-12 — 17:13:49 UTC	ChristopheAF, cockdestroyer, Lanvin, nitawa, Nitrate2, Pablo-	2	5	25
 434492	6	24	Rainbow & Brown (5 Suits)	2021-02-12 — 16:47:12 UTC	ChristopheAF, cockdestroyer, Lanvin, nitawa, Nitrate2, Pablo-	2	5	25
 434477	4	22	Black & Pink (5 Suits)	2021-02-12 — 16:16:57 UTC	ChristopheAF, nitawa, Nitrate2, Pablo-	16	5	25
 434468	4	25	Throw It in a Hole (5 Suits)	2021-02-12 — 15:51:52 UTC	ChristopheAF, nitawa, Nitrate2, Pablo-	10	5	25
 433368	3	25	No Variant	2021-02-11 — 17:04:18 UTC	ChristopheAF, Kaznad, Padouga	13	5	25
 432793	4	0	Omni & Muddy Rainbow (5 Suits)	2021-02-10 — 23:45:52 UTC	4head, ChristopheAF, indego, newduke	2	5	25
-432774	5	0	No Variant	2021-02-10 — 23:16:11 UTC	4head, ChristopheAF, indego, newduke, vergoodhanabi	50	5	25
-432758	4	30	Dark Pink (6 Suits)	2021-02-10 — 22:56:24 UTC	4head, ChristopheAF, indego, newduke	23	6	30
-432727	4	0	Dark Pink (6 Suits)	2021-02-10 — 22:20:10 UTC	4head, ChristopheAF, indego, newduke	29	6	30
+432774	5	0	No Variant	2021-02-10 — 23:16:11 UTC	4head, ChristopheAF, indego, newduke, vergoodhanabi	52	5	25
+432758	4	30	Dark Pink (6 Suits)	2021-02-10 — 22:56:24 UTC	4head, ChristopheAF, indego, newduke	24	6	30
+432727	4	0	Dark Pink (6 Suits)	2021-02-10 — 22:20:10 UTC	4head, ChristopheAF, indego, newduke	30	6	30
 432716	3	20	Pink-Ones & Muddy Rainbow (4 Suits)	2021-02-10 — 22:08:16 UTC	4head, ChristopheAF, indego	2	4	20
 432567	2	25	Omni (5 Suits)	2021-02-10 — 20:38:40 UTC	ChristopheAF, robense	39	5	25
 432543	2	0	Omni (5 Suits)	2021-02-10 — 20:28:35 UTC	ChristopheAF, robense	55	5	25
-432533	2	0	Omni (5 Suits)	2021-02-10 — 20:23:55 UTC	ChristopheAF, robense	78	5	25
-432476	5	0	Brown-Ones & White (5 Suits)	2021-02-10 — 19:29:34 UTC	Bot-Fiora, ChristopheAF, InflatableKayak, Lanvin, Onen	2	5	25
+432533	2	0	Omni (5 Suits)	2021-02-10 — 20:23:55 UTC	ChristopheAF, robense	81	5	25
+432476	5	0	Brown-Ones & White (5 Suits)	2021-02-10 — 19:29:34 UTC	Bot-Fiora, ChristopheAF, InflatableKayak, Lanvin, Onen	3	5	25
 432292	3	20	Pink-Ones & Omni (4 Suits)	2021-02-10 — 15:50:36 UTC	ChristopheAF, HelanaAshryvr, MarkusKahlsen	1	4	20
 431656	4	30	White & Brown (6 Suits)	2021-02-10 — 00:30:57 UTC	ChristopheAF, indego, IsabeltheCat, melwen	20	6	30
 431547	4	25	Black & White (5 Suits)	2021-02-09 — 22:37:40 UTC	ChristopheAF, duckington, Lanvin, sephiroth	9	5	25
@@ -952,7 +1077,7 @@
 430113	3	0	Special Mix (5 Suits)	2021-02-08 — 18:23:00 UTC	bjnh, ChristopheAF, wump	30	5	25
 429993	5	23	Special Mix (5 Suits)	2021-02-08 — 16:43:34 UTC	ChristopheAF, frosty104, jack67889, jeff10, MangoPie	6	5	25
 429964	5	23	Special Mix (5 Suits)	2021-02-08 — 16:02:49 UTC	ChristopheAF, HelanaAshryvr, jeff10, Lel0uch, MangoPie	6	5	25
-429952	4	22	Dark Pink (5 Suits)	2021-02-08 — 15:30:27 UTC	ChristopheAF, MangoPie, VerySloppyTwo, Wittvector	20	5	25
+429952	4	22	Dark Pink (5 Suits)	2021-02-08 — 15:30:27 UTC	ChristopheAF, MangoPie, VerySloppyTwo, Wittvector	21	5	25
 429923	5	0	Special Mix (5 Suits)	2021-02-08 — 14:59:18 UTC	ChristopheAF, Kernel, MangoPie, TimeHoodie, Wittvector	3	5	25
 429908	6	0	Special Mix (5 Suits)	2021-02-08 — 14:28:01 UTC	ChristopheAF, HelanaAshryvr, indego, Kernel, TimeHoodie, Wittvector	2	5	25
 429890	3	22	Special Mix (5 Suits)	2021-02-08 — 13:57:38 UTC	ChristopheAF, Kernel, Wittvector	17	5	25
@@ -987,7 +1112,7 @@
 427649	4	0	Brown & Omni (6 Suits)	2021-02-06 — 14:44:55 UTC	ChristopheAF, Floriman, indego, Lanvin	3	6	30
 427631	4	29	Brown & Omni (6 Suits)	2021-02-06 — 14:14:44 UTC	ChristopheAF, Floriman, sephiroth, Wittvector	5	6	30
 427621	4	0	Brown & Omni (6 Suits)	2021-02-06 — 13:53:05 UTC	ChristopheAF, Floriman, katian, sephiroth	5	6	30
-427615	4	30	Rainbow & Light Pink (6 Suits)	2021-02-06 — 13:28:08 UTC	ChristopheAF, Div, Lel0uch, MarkusKahlsen	5	6	30
+427615	4	30	Rainbow & Light Pink (6 Suits)	2021-02-06 — 13:28:08 UTC	ChristopheAF, Div, Lel0uch, MarkusKahlsen	6	6	30
 426953	3	0	Special Mix (5 Suits)	2021-02-05 — 23:22:55 UTC	ChristopheAF, HelanaAshryvr, rahsosprout	22	5	25
 426934	5	0	Special Mix (5 Suits)	2021-02-05 — 23:07:38 UTC	ChristopheAF, Floriman, HelanaAshryvr, lotem, rahsosprout	3	5	25
 426923	4	0	Special Mix (5 Suits)	2021-02-05 — 22:57:45 UTC	ChristopheAF, HelanaAshryvr, rahsosprout, TimeHoodie	13	5	25
@@ -1001,9 +1126,9 @@
 426695	4	0	Special Mix (5 Suits)	2021-02-05 — 20:05:55 UTC	ChristopheAF, dobi, duckington, Kyle	21	5	25
 426678	4	0	Special Mix (5 Suits)	2021-02-05 — 19:52:02 UTC	ChristopheAF, dobi, duckington, Kyle	20	5	25
 426663	4	0	Special Mix (5 Suits)	2021-02-05 — 19:39:06 UTC	ChristopheAF, dobi, duckington, Kyle	25	5	25
-426653	4	30	Rainbow-Ones & Prism (6 Suits)	2021-02-05 — 19:29:55 UTC	ChristopheAF, dobi, duckington, TimeHoodie	2	6	30
+426653	4	30	Rainbow-Ones & Prism (6 Suits)	2021-02-05 — 19:29:55 UTC	ChristopheAF, dobi, duckington, TimeHoodie	4	6	30
 426635	5	0	Rainbow-Ones & Prism (6 Suits)	2021-02-05 — 19:00:43 UTC	ChristopheAF, dobi, duckington, Kyle, TimeHoodie	3	6	30
-426606	4	0	Rainbow-Ones & Prism (6 Suits)	2021-02-05 — 18:42:16 UTC	ChristopheAF, dobi, duckington, TimeHoodie	2	6	30
+426606	4	0	Rainbow-Ones & Prism (6 Suits)	2021-02-05 — 18:42:16 UTC	ChristopheAF, dobi, duckington, TimeHoodie	3	6	30
 425851	4	24	Special Mix (5 Suits)	2021-02-04 — 23:32:57 UTC	ChristopheAF, frosty104, Lanvin, TimeHoodie	9	5	25
 425833	4	0	Special Mix (5 Suits)	2021-02-04 — 23:07:12 UTC	ChristopheAF, frosty104, Lanvin, TimeHoodie	9	5	25
 425818	4	0	Special Mix (5 Suits)	2021-02-04 — 22:46:17 UTC	ChristopheAF, frosty104, Lanvin, TimeHoodie	10	5	25
@@ -1020,31 +1145,31 @@
 425377	5	0	Special Mix (5 Suits)	2021-02-04 — 16:13:48 UTC	ChristopheAF, Lanvin, melwen, robense, sin_faith	3	5	25
 425367	5	21	Black (5 Suits)	2021-02-04 — 15:49:10 UTC	ChristopheAF, Lanvin, orucsoraihc, qqqq, sin_faith	4	5	25
 425366	5	0	Black (5 Suits)	2021-02-04 — 15:35:26 UTC	ChristopheAF, Lanvin, qqqq, rz, sin_nofaith	9	5	25
-425364	5	0	Black (5 Suits)	2021-02-04 — 15:28:46 UTC	ChristopheAF, Lanvin, qqqq, rz, sin_nofaith	11	5	25
+425364	5	0	Black (5 Suits)	2021-02-04 — 15:28:46 UTC	ChristopheAF, Lanvin, qqqq, rz, sin_nofaith	12	5	25
 425322	4	25	Rainbow & White (5 Suits)	2021-02-04 — 14:12:01 UTC	ChristopheAF, Kernel, Lanvin, rz	2	5	25
 425310	4	0	Rainbow & White (5 Suits)	2021-02-04 — 13:53:42 UTC	ChristopheAF, Kernel, Lanvin, rz	2	5	25
 425302	4	0	Rainbow & White (5 Suits)	2021-02-04 — 13:41:48 UTC	ChristopheAF, Kernel, Lanvin, rz	3	5	25
-425288	4	30	Rainbow & Pink (6 Suits)	2021-02-04 — 13:25:03 UTC	ChristopheAF, Kernel, Lanvin, MangoPie	12	6	30
+425288	4	30	Rainbow & Pink (6 Suits)	2021-02-04 — 13:25:03 UTC	ChristopheAF, Kernel, Lanvin, MangoPie	13	6	30
 425278	4	0	Rainbow & Pink (6 Suits)	2021-02-04 — 13:07:46 UTC	ChristopheAF, Kernel, Lanvin, MangoPie	16	6	30
 425272	5	0	White & Prism (5 Suits)	2021-02-04 — 12:59:48 UTC	ChristopheAF, Floriman, MangoPie, sin_faith, TimeHoodie	5	5	25
 425263	6	0	Pink & White (6 Suits)	2021-02-04 — 12:33:43 UTC	ChristopheAF, Floriman, Lel0uch, rachyrules, sin_faith, TimeHoodie	2	6	30
 425254	5	21	Special Mix (5 Suits)	2021-02-04 — 12:05:51 UTC	ChristopheAF, Lel0uch, rachyrules, TimeHoodie, VerySloppyTwo	5	5	25
 425248	5	0	Special Mix (5 Suits)	2021-02-04 — 11:48:37 UTC	ChristopheAF, Lel0uch, rachyrules, TimeHoodie, VerySloppyTwo	5	5	25
 425246	5	0	White (5 Suits)	2021-02-04 — 11:42:55 UTC	ChristopheAF, Lel0uch, possum, rachyrules, TimeHoodie	7	5	25
-425244	3	0	White (6 Suits)	2021-02-04 — 11:33:34 UTC	ChristopheAF, Denchulitas, possum	18	6	30
+425244	3	0	White (6 Suits)	2021-02-04 — 11:33:34 UTC	ChristopheAF, Denchulitas, possum	19	6	30
 425242	3	0	White (6 Suits)	2021-02-04 — 11:29:21 UTC	ChristopheAF, Denchulitas, possum	18	6	30
 425241	3	0	White (6 Suits)	2021-02-04 — 11:25:27 UTC	ChristopheAF, Denchulitas, possum	19	6	30
 424739	4	25	Dark Rainbow (5 Suits)	2021-02-04 — 00:09:17 UTC	ChristopheAF, indego, MarkusKahlsen, rahsosprout	13	5	25
 424712	4	0	Dark Rainbow (5 Suits)	2021-02-03 — 23:47:18 UTC	ChristopheAF, indego, MarkusKahlsen, rahsosprout	11	5	25
-424636	3	0	Black (6 Suits)	2021-02-03 — 22:36:57 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	60	6	30
-424619	3	0	Black (6 Suits)	2021-02-03 — 22:15:54 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	62	6	30
-424610	3	0	Black (6 Suits)	2021-02-03 — 22:06:43 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	66	6	30
-424599	3	0	Black (6 Suits)	2021-02-03 — 21:55:23 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	69	6	30
-424588	3	0	Black (6 Suits)	2021-02-03 — 21:49:56 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	71	6	30
-424560	3	29	Black (6 Suits)	2021-02-03 — 21:29:22 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	74	6	30
-424528	3	0	Black (6 Suits)	2021-02-03 — 20:54:43 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	80	6	30
-424512	3	0	Black (6 Suits)	2021-02-03 — 20:46:09 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	83	6	30
-424467	3	0	Black (6 Suits)	2021-02-03 — 20:26:50 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	95	6	30
+424636	3	0	Black (6 Suits)	2021-02-03 — 22:36:57 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	63	6	30
+424619	3	0	Black (6 Suits)	2021-02-03 — 22:15:54 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	64	6	30
+424610	3	0	Black (6 Suits)	2021-02-03 — 22:06:43 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	68	6	30
+424599	3	0	Black (6 Suits)	2021-02-03 — 21:55:23 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	70	6	30
+424588	3	0	Black (6 Suits)	2021-02-03 — 21:49:56 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	72	6	30
+424560	3	29	Black (6 Suits)	2021-02-03 — 21:29:22 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	75	6	30
+424528	3	0	Black (6 Suits)	2021-02-03 — 20:54:43 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	82	6	30
+424512	3	0	Black (6 Suits)	2021-02-03 — 20:46:09 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	85	6	30
+424467	3	0	Black (6 Suits)	2021-02-03 — 20:26:50 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	97	6	30
 424400	4	0	White & Brown (5 Suits)	2021-02-03 — 19:56:12 UTC	ChristopheAF, frosty104, Spieler42, Wittvector	8	5	25
 424361	4	0	White & Brown (5 Suits)	2021-02-03 — 19:41:01 UTC	ChristopheAF, frosty104, Spieler42, Wittvector	18	5	25
 424327	5	23	White & Brown (5 Suits)	2021-02-03 — 19:22:23 UTC	ChristopheAF, frosty104, Spieler42, Wittvector, wump	6	5	25
@@ -1072,12 +1197,12 @@
 423395	3	0	Brown & Gray (6 Suits)	2021-02-02 — 22:35:51 UTC	ChristopheAF, Lanvin, Onen	3	6	30
 423385	3	0	Brown & Gray (6 Suits)	2021-02-02 — 22:28:13 UTC	ChristopheAF, Lanvin, Onen	3	6	30
 423361	6	0	Rainbow & Brown (5 Suits)	2021-02-02 — 22:09:08 UTC	4head, Bot-Fiora, ChristopheAF, Denchulitas, PMP, rahsosprout	4	5	25
-423280	4	0	Dark Rainbow (6 Suits)	2021-02-02 — 21:12:44 UTC	Bot-Fiora, ChristopheAF, MarkusKahlsen, XMIL	41	6	30
+423280	4	0	Dark Rainbow (6 Suits)	2021-02-02 — 21:12:44 UTC	Bot-Fiora, ChristopheAF, MarkusKahlsen, XMIL	42	6	30
 423255	6	0	Light-Pink-Ones & White (6 Suits)	2021-02-02 — 20:52:25 UTC	Bot-Fiora, ChristopheAF, Lanvin, MangoPie, sin_faith, TimeHoodie	1	6	30
 423230	6	0	Light-Pink-Ones & White (6 Suits)	2021-02-02 — 20:30:14 UTC	Bot-Fiora, ChristopheAF, Lanvin, MangoPie, sin_faith, TimeHoodie	1	6	30
 423219	6	0	Light-Pink-Ones & White (6 Suits)	2021-02-02 — 20:19:38 UTC	Bot-Fiora, ChristopheAF, Lanvin, MangoPie, sin_faith, TimeHoodie	1	6	30
 423207	5	0	Pink (6 Suits)	2021-02-02 — 20:10:13 UTC	Bot-Fiora, ChristopheAF, Kernel, MangoPie, sin_faith	18	6	30
-423190	5	28	Pink (6 Suits)	2021-02-02 — 19:53:41 UTC	Bot-Fiora, ChristopheAF, Kernel, MangoPie, sin_faith	29	6	30
+423190	5	28	Pink (6 Suits)	2021-02-02 — 19:53:41 UTC	Bot-Fiora, ChristopheAF, Kernel, MangoPie, sin_faith	31	6	30
 423146	6	25	Rainbow (5 Suits)	2021-02-02 — 19:24:11 UTC	Bot-Fiora, ChristopheAF, Kernel, MangoPie, PMP, sin_faith	14	5	25
 423121	6	0	Rainbow (5 Suits)	2021-02-02 — 19:08:27 UTC	Bot-Fiora, ChristopheAF, Kernel, MangoPie, PMP, sin_faith	15	5	25
 423112	4	30	Pink & Brown (6 Suits)	2021-02-02 — 18:57:13 UTC	Bot-Fiora, ChristopheAF, MangoPie, Pablo-	13	6	30
@@ -1086,8 +1211,8 @@
 423028	3	0	Pink & Omni (5 Suits)	2021-02-02 — 16:52:15 UTC	ChristopheAF, indego, Sucubis	6	5	25
 423015	4	0	Pink & Omni (5 Suits)	2021-02-02 — 16:14:28 UTC	ChristopheAF, indego, Lanvin, Sucubis	4	5	25
 423006	5	23	Pink & Omni (5 Suits)	2021-02-02 — 15:36:19 UTC	ChristopheAF, MarkusKahlsen, Pablo-, rz, VerySloppyTwo	2	5	25
-422996	3	0	Black & White (6 Suits)	2021-02-02 — 15:03:01 UTC	ChristopheAF, rz, sephiroth	33	6	30
-422992	3	0	Black & White (6 Suits)	2021-02-02 — 14:47:22 UTC	ChristopheAF, rz, sephiroth	34	6	30
+422996	3	0	Black & White (6 Suits)	2021-02-02 — 15:03:01 UTC	ChristopheAF, rz, sephiroth	34	6	30
+422992	3	0	Black & White (6 Suits)	2021-02-02 — 14:47:22 UTC	ChristopheAF, rz, sephiroth	35	6	30
 422973	6	0	Pink & Omni (5 Suits)	2021-02-02 — 13:39:37 UTC	ChristopheAF, indego, Lanvin, sin_faith, StKildaFan, VerySloppyTwo	1	5	25
 422968	5	0	Pink & Omni (5 Suits)	2021-02-02 — 13:23:29 UTC	ChristopheAF, indego, Lanvin, TimeHoodie, VerySloppyTwo	1	5	25
 422961	5	0	Pink & Omni (5 Suits)	2021-02-02 — 12:56:24 UTC	ChristopheAF, indego, Lanvin, VerySloppyTwo, Wittvector	1	5	25
@@ -1101,8 +1226,8 @@
 422412	3	0	Muddy Rainbow (4 Suits)	2021-02-01 — 22:08:32 UTC	ChristopheAF, HelanaAshryvr, rz	11	4	20
 422396	4	20	Light Pink (4 Suits)	2021-02-01 — 21:51:29 UTC	ChristopheAF, Div, HelanaAshryvr, rz	11	4	20
 422381	3	0	Muddy Rainbow (4 Suits)	2021-02-01 — 21:35:46 UTC	ChristopheAF, Div, HelanaAshryvr	15	4	20
-422375	3	0	Muddy Rainbow (4 Suits)	2021-02-01 — 21:31:44 UTC	ChristopheAF, Div, HelanaAshryvr	22	4	20
-422353	3	19	Muddy Rainbow (4 Suits)	2021-02-01 — 21:15:04 UTC	ChristopheAF, Div, HelanaAshryvr	29	4	20
+422375	3	0	Muddy Rainbow (4 Suits)	2021-02-01 — 21:31:44 UTC	ChristopheAF, Div, HelanaAshryvr	23	4	20
+422353	3	19	Muddy Rainbow (4 Suits)	2021-02-01 — 21:15:04 UTC	ChristopheAF, Div, HelanaAshryvr	31	4	20
 422317	3	25	Pink & Omni (5 Suits)	2021-02-01 — 20:39:03 UTC	ChristopheAF, frosty104, HelanaAshryvr	9	5	25
 422290	4	23	Pink & Omni (5 Suits)	2021-02-01 — 20:07:52 UTC	ChristopheAF, colton, frosty104, HelanaAshryvr	3	5	25
 422261	5	0	Pink & Omni (5 Suits)	2021-02-01 — 19:36:45 UTC	ChristopheAF, colton, frosty104, MangoPie, sephiroth	1	5	25
@@ -1116,14 +1241,14 @@
 422130	3	30	Pink & Omni (6 Suits)	2021-02-01 — 14:32:41 UTC	ChristopheAF, HelanaAshryvr, StKildaFan	3	6	30
 421505	5	30	Pink & Omni (6 Suits)	2021-01-31 — 23:28:52 UTC	avanderwalde, ChristopheAF, derekcheah, rkass, sephiroth	3	6	30
 421478	4	0	Pink & Omni (5 Suits)	2021-01-31 — 22:58:31 UTC	avanderwalde, ChristopheAF, rkass, sephiroth	4	5	25
-421214	4	30	Gray Pink (6 Suits)	2021-01-31 — 18:03:35 UTC	Bot-Fiora, ChristopheAF, Lanvin, MarkusKahlsen	12	6	30
+421214	4	30	Gray Pink (6 Suits)	2021-01-31 — 18:03:35 UTC	Bot-Fiora, ChristopheAF, Lanvin, MarkusKahlsen	14	6	30
 421203	5	0	Rainbow & Pink (6 Suits)	2021-01-31 — 17:37:11 UTC	Bot-Fiora, ChristopheAF, frosty104, Lanvin, Lel0uch	8	6	30
-421146	4	23	Gray (5 Suits)	2021-01-31 — 16:00:24 UTC	banjoleb, ChristopheAF, rz, Spieler42	13	5	25
-421139	4	23	Gray (5 Suits)	2021-01-31 — 15:41:00 UTC	banjoleb, ChristopheAF, rz, Spieler42	14	5	25
-421133	4	0	Gray (5 Suits)	2021-01-31 — 15:22:08 UTC	banjoleb, ChristopheAF, rz, Spieler42	22	5	25
+421146	4	23	Gray (5 Suits)	2021-01-31 — 16:00:24 UTC	banjoleb, ChristopheAF, rz, Spieler42	15	5	25
+421139	4	23	Gray (5 Suits)	2021-01-31 — 15:41:00 UTC	banjoleb, ChristopheAF, rz, Spieler42	15	5	25
+421133	4	0	Gray (5 Suits)	2021-01-31 — 15:22:08 UTC	banjoleb, ChristopheAF, rz, Spieler42	23	5	25
 421127	4	0	Gray (5 Suits)	2021-01-31 — 15:09:06 UTC	banjoleb, ChristopheAF, rz, Spieler42	27	5	25
-421120	3	0	Gray Pink (6 Suits)	2021-01-31 — 14:51:12 UTC	banjoleb, ChristopheAF, Spieler42	13	6	30
-421112	3	0	Gray Pink (6 Suits)	2021-01-31 — 14:30:20 UTC	banjoleb, ChristopheAF, Spieler42	29	6	30
+421120	3	0	Gray Pink (6 Suits)	2021-01-31 — 14:51:12 UTC	banjoleb, ChristopheAF, Spieler42	15	6	30
+421112	3	0	Gray Pink (6 Suits)	2021-01-31 — 14:30:20 UTC	banjoleb, ChristopheAF, Spieler42	30	6	30
 420256	3	30	Omni (6 Suits)	2021-01-30 — 22:46:37 UTC	ChristopheAF, Kernel, rz	9	6	30
 420235	3	0	Omni (6 Suits)	2021-01-30 — 22:23:12 UTC	ChristopheAF, Kernel, rz	10	6	30
 420222	3	0	Omni (6 Suits)	2021-01-30 — 22:12:12 UTC	ChristopheAF, Kernel, rz	13	6	30
@@ -1134,7 +1259,7 @@
 418995	4	0	Rainbow-Ones & Dark Rainbow (5 Suits)	2021-01-29 — 23:07:26 UTC	ChristopheAF, HelanaAshryvr, Lanvin, newduke	1	5	25
 418976	4	0	Rainbow-Ones & Dark Rainbow (5 Suits)	2021-01-29 — 22:55:46 UTC	ChristopheAF, HelanaAshryvr, Lanvin, newduke	2	5	25
 418954	4	28	Omni-Fives & Gray (6 Suits)	2021-01-29 — 22:32:02 UTC	ChristopheAF, HelanaAshryvr, Lanvin, newduke	1	6	30
-418848	4	25	Pink-Ones (5 Suits)	2021-01-29 — 21:15:47 UTC	ChristopheAF, MarkusKahlsen, methmatics, Nitrate	3	5	25
+418848	4	25	Pink-Ones (5 Suits)	2021-01-29 — 21:15:47 UTC	ChristopheAF, MarkusKahlsen, methmatics, Nitrate	4	5	25
 418707	5	18	Brown-Ones & Rainbow (4 Suits)	2021-01-29 — 18:47:43 UTC	4head, bjnh, ChristopheAF, Lanvin, Lel0uch	1	4	20
 418699	6	0	Brown-Ones & Rainbow (4 Suits)	2021-01-29 — 18:33:23 UTC	4head, bjnh, ChristopheAF, dobi, Lanvin, Lel0uch	1	4	20
 415790	5	29	Dark Omni (6 Suits)	2021-01-26 — 22:50:02 UTC	ChristopheAF, dobi, HelanaAshryvr, Lanvin, newduke	10	6	30
@@ -1142,17 +1267,17 @@
 415760	5	0	Special Mix (5 Suits)	2021-01-26 — 22:29:03 UTC	ChristopheAF, dobi, HelanaAshryvr, Lanvin, newduke	11	5	25
 415741	4	0	Special Mix (5 Suits)	2021-01-26 — 22:08:51 UTC	ChristopheAF, dobi, HelanaAshryvr, Lanvin	39	5	25
 415697	5	0	Omni-Ones & Dark Pink (6 Suits)	2021-01-26 — 21:24:06 UTC	ChristopheAF, duckington, indego, sephiroth, sin_faith	1	6	30
-415559	4	24	No Variant	2021-01-26 — 19:16:41 UTC	Bot-Fiora, CaitlinSmith, ChristopheAF, HariKrishnan	233	5	25
-415545	4	0	No Variant	2021-01-26 — 18:51:19 UTC	Bot-Fiora, CaitlinSmith, ChristopheAF, HariKrishnan	243	5	25
-415527	4	0	No Variant	2021-01-26 — 18:35:28 UTC	Bot-Fiora, CaitlinSmith, ChristopheAF, HariKrishnan	473	5	25
-415520	4	0	No Variant	2021-01-26 — 18:27:16 UTC	Bot-Fiora, CaitlinSmith, ChristopheAF, HariKrishnan	601	5	25
-415507	4	25	No Variant	2021-01-26 — 18:06:18 UTC	4head, Bot-Fiora, CaitlinSmith, ChristopheAF	79	5	25
-415496	5	22	No Variant	2021-01-26 — 17:45:31 UTC	4head, Bot-Fiora, CaitlinSmith, ChristopheAF, Spieler42	92	5	25
-415489	5	25	No Variant	2021-01-26 — 17:18:38 UTC	4head, Bot-Fiora, CaitlinSmith, ChristopheAF, Spieler42	120	5	25
-415070	3	27	Gray (6 Suits)	2021-01-26 — 01:01:22 UTC	ChristopheAF, Lanvin, lolthisnotderk	21	6	30
-415055	3	0	Gray (6 Suits)	2021-01-26 — 00:32:55 UTC	ChristopheAF, Lanvin, lolthisnotderk	30	6	30
-415043	3	0	Gray (6 Suits)	2021-01-26 — 00:22:44 UTC	ChristopheAF, Lanvin, lolthisnotderk	36	6	30
-415038	3	0	Gray (6 Suits)	2021-01-26 — 00:13:37 UTC	ChristopheAF, Lanvin, lolthisnotderk	42	6	30
+415559	4	24	No Variant	2021-01-26 — 19:16:41 UTC	Bot-Fiora, CaitlinSmith, ChristopheAF, HariKrishnan	236	5	25
+415545	4	0	No Variant	2021-01-26 — 18:51:19 UTC	Bot-Fiora, CaitlinSmith, ChristopheAF, HariKrishnan	245	5	25
+415527	4	0	No Variant	2021-01-26 — 18:35:28 UTC	Bot-Fiora, CaitlinSmith, ChristopheAF, HariKrishnan	480	5	25
+415520	4	0	No Variant	2021-01-26 — 18:27:16 UTC	Bot-Fiora, CaitlinSmith, ChristopheAF, HariKrishnan	606	5	25
+415507	4	25	No Variant	2021-01-26 — 18:06:18 UTC	4head, Bot-Fiora, CaitlinSmith, ChristopheAF	81	5	25
+415496	5	22	No Variant	2021-01-26 — 17:45:31 UTC	4head, Bot-Fiora, CaitlinSmith, ChristopheAF, Spieler42	93	5	25
+415489	5	25	No Variant	2021-01-26 — 17:18:38 UTC	4head, Bot-Fiora, CaitlinSmith, ChristopheAF, Spieler42	122	5	25
+415070	3	27	Gray (6 Suits)	2021-01-26 — 01:01:22 UTC	ChristopheAF, Lanvin, lolthisnotderk	25	6	30
+415055	3	0	Gray (6 Suits)	2021-01-26 — 00:32:55 UTC	ChristopheAF, Lanvin, lolthisnotderk	32	6	30
+415043	3	0	Gray (6 Suits)	2021-01-26 — 00:22:44 UTC	ChristopheAF, Lanvin, lolthisnotderk	37	6	30
+415038	3	0	Gray (6 Suits)	2021-01-26 — 00:13:37 UTC	ChristopheAF, Lanvin, lolthisnotderk	43	6	30
 415025	5	0	Pink-Ones & Dark Brown (5 Suits)	2021-01-25 — 23:57:31 UTC	ChristopheAF, colton, indego, Lanvin, pianoblook	1	5	25
 415008	5	0	Pink-Ones & Dark Brown (5 Suits)	2021-01-25 — 23:45:14 UTC	ChristopheAF, colton, indego, Lanvin, pianoblook	1	5	25
 414922	6	28	White-Ones & Rainbow (6 Suits)	2021-01-25 — 22:16:09 UTC	ChristopheAF, HariKrishnan, HelanaAshryvr, Lanvin, nkkarpov, Onen	1	6	30
@@ -1168,9 +1293,9 @@
 414649	5	30	Omni-Ones (6 Suits)	2021-01-25 — 17:45:19 UTC	ChristopheAF, Fey, Lel0uch, Onen, rz	2	6	30
 414631	5	0	Null-Ones (6 Suits)	2021-01-25 — 17:16:53 UTC	ChristopheAF, Fey, Lel0uch, Onen, rz	2	6	30
 414614	4	27	Black & Prism (6 Suits)	2021-01-25 — 16:20:11 UTC	banjoleb, ChristopheAF, Lanvin, Pimak	8	6	30
-414600	4	0	Black & Prism (6 Suits)	2021-01-25 — 15:45:07 UTC	banjoleb, ChristopheAF, Lanvin, Pimak	10	6	30
-414585	4	0	Black & Prism (6 Suits)	2021-01-25 — 15:13:05 UTC	banjoleb, ChristopheAF, Lanvin, Pimak	14	6	30
-414574	3	29	Black & Prism (6 Suits)	2021-01-25 — 14:40:14 UTC	banjoleb, ChristopheAF, Pimak	18	6	30
+414600	4	0	Black & Prism (6 Suits)	2021-01-25 — 15:45:07 UTC	banjoleb, ChristopheAF, Lanvin, Pimak	12	6	30
+414585	4	0	Black & Prism (6 Suits)	2021-01-25 — 15:13:05 UTC	banjoleb, ChristopheAF, Lanvin, Pimak	15	6	30
+414574	3	29	Black & Prism (6 Suits)	2021-01-25 — 14:40:14 UTC	banjoleb, ChristopheAF, Pimak	19	6	30
 414560	3	0	Black & Prism (6 Suits)	2021-01-25 — 14:20:15 UTC	banjoleb, ChristopheAF, Pimak	22	6	30
 413964	4	30	Null-Ones (6 Suits)	2021-01-24 — 21:49:51 UTC	ChristopheAF, Lanvin, MarkusKahlsen, robense	1	6	30
 413937	4	0	Null-Ones (6 Suits)	2021-01-24 — 21:24:00 UTC	ChristopheAF, Lanvin, MarkusKahlsen, robense	2	6	30
@@ -1181,22 +1306,22 @@
 412464	4	25	White-Ones (5 Suits)	2021-01-23 — 16:08:30 UTC	ChristopheAF, Daryl, Lel0uch, Pimak	10	5	25
 411676	6	24	Dark Pink (5 Suits)	2021-01-22 — 23:00:57 UTC	ChristopheAF, dobi, Hoodie, Lanvin, Onen, sephiroth	3	5	25
 411653	4	27	Black & Dark Rainbow (6 Suits)	2021-01-22 — 22:32:29 UTC	ChristopheAF, Hoodie, Lanvin, Wittvector	10	6	30
-411634	4	0	Black & Dark Rainbow (6 Suits)	2021-01-22 — 22:12:48 UTC	ChristopheAF, Hoodie, Lanvin, Wittvector	16	6	30
+411634	4	0	Black & Dark Rainbow (6 Suits)	2021-01-22 — 22:12:48 UTC	ChristopheAF, Hoodie, Lanvin, Wittvector	17	6	30
 411625	3	0	Light Pink & Dark Prism (6 Suits)	2021-01-22 — 21:59:51 UTC	ChristopheAF, Lanvin, Wittvector	3	6	30
-411589	3	0	Dark Pink (5 Suits)	2021-01-22 — 21:12:49 UTC	caña, ChristopheAF, Kernel	26	5	25
+411589	3	0	Dark Pink (5 Suits)	2021-01-22 — 21:12:49 UTC	caña, ChristopheAF, Kernel	27	5	25
 411581	3	0	Dark Pink (5 Suits)	2021-01-22 — 21:03:07 UTC	caña, ChristopheAF, Kernel	38	5	25
-411567	3	24	Dark Pink (5 Suits)	2021-01-22 — 20:52:19 UTC	caña, ChristopheAF, Kernel	42	5	25
+411567	3	24	Dark Pink (5 Suits)	2021-01-22 — 20:52:19 UTC	caña, ChristopheAF, Kernel	44	5	25
 411489	5	18	Rainbow-Ones (4 Suits)	2021-01-22 — 19:14:52 UTC	ChristopheAF, Kernel, melwen, Nitrate2, Plum	1	4	20
 411464	5	18	Rainbow-Ones (4 Suits)	2021-01-22 — 18:46:59 UTC	ChristopheAF, Kernel, melwen, Nitrate2, Plum	1	4	20
 411454	5	0	Rainbow-Ones & White (6 Suits)	2021-01-22 — 18:26:19 UTC	ChristopheAF, HelanaAshryvr, nitawa, Nitrate2, Pablo-	3	6	30
-411448	5	0	Rainbow-Ones & White (6 Suits)	2021-01-22 — 18:05:08 UTC	ChristopheAF, HelanaAshryvr, nitawa, Nitrate2, Pablo-	4	6	30
+411448	5	0	Rainbow-Ones & White (6 Suits)	2021-01-22 — 18:05:08 UTC	ChristopheAF, HelanaAshryvr, nitawa, Nitrate2, Pablo-	5	6	30
 411433	6	16	Brown-Ones (4 Suits)	2021-01-22 — 17:29:47 UTC	ChristopheAF, HelanaAshryvr, Kernel, Lanvin, nitawa, Nitrate2	1	4	20
 411422	5	0	Omni-Fives & Cocoa Rainbow (6 Suits)	2021-01-22 — 17:05:43 UTC	ChristopheAF, Lanvin, nitawa, Nitrate2, Pablo-	1	6	30
 411409	5	30	Muddy-Rainbow-Fives & Pink (6 Suits)	2021-01-22 — 16:49:03 UTC	ChristopheAF, Lanvin, nitawa, Nitrate2, Pablo-	2	6	30
 410894	3	0	Black & Rainbow (5 Suits)	2021-01-21 — 23:24:37 UTC	ChristopheAF, jeff10, Onen	23	5	25
-410881	3	0	Black & Rainbow (5 Suits)	2021-01-21 — 23:12:37 UTC	ChristopheAF, jeff10, Onen	24	5	25
+410881	3	0	Black & Rainbow (5 Suits)	2021-01-21 — 23:12:37 UTC	ChristopheAF, jeff10, Onen	25	5	25
 410877	3	0	Black & Rainbow (5 Suits)	2021-01-21 — 23:02:11 UTC	ChristopheAF, jeff10, Onen	26	5	25
-410871	3	0	Black & Rainbow (5 Suits)	2021-01-21 — 22:54:47 UTC	ChristopheAF, jeff10, Onen	33	5	25
+410871	3	0	Black & Rainbow (5 Suits)	2021-01-21 — 22:54:47 UTC	ChristopheAF, jeff10, Onen	34	5	25
 410857	4	0	Dark Brown (5 Suits)	2021-01-21 — 22:37:10 UTC	ChristopheAF, jeff10, MarkusKahlsen, Onen	4	5	25
 410825	4	0	Dark Brown (5 Suits)	2021-01-21 — 22:14:29 UTC	ChristopheAF, jeff10, MarkusKahlsen, Onen	4	5	25
 410806	4	0	Dark Brown (5 Suits)	2021-01-21 — 21:57:03 UTC	ChristopheAF, jeff10, MarkusKahlsen, Onen	5	5	25
@@ -1212,35 +1337,35 @@
 409057	5	0	Special Mix (5 Suits)	2021-01-19 — 23:24:32 UTC	ChristopheAF, Kyle, Lanvin, melwen, StKildaFan	2	5	25
 409052	5	0	Special Mix (6 Suits)	2021-01-19 — 23:19:16 UTC	ChristopheAF, Kyle, Lanvin, melwen, StKildaFan	4	6	30
 409039	3	0	Special Mix (6 Suits)	2021-01-19 — 23:07:11 UTC	ChristopheAF, Lanvin, melwen	12	6	30
-409027	3	0	Special Mix (6 Suits)	2021-01-19 — 22:48:00 UTC	ChristopheAF, Lanvin, melwen	15	6	30
+409027	3	0	Special Mix (6 Suits)	2021-01-19 — 22:48:00 UTC	ChristopheAF, Lanvin, melwen	16	6	30
 409013	6	0	Special Mix (5 Suits)	2021-01-19 — 22:25:30 UTC	ChristopheAF, dobi, HelanaAshryvr, Lanvin, melwen, newduke	1	5	25
 408996	5	0	Special Mix (5 Suits)	2021-01-19 — 22:04:50 UTC	ChristopheAF, HelanaAshryvr, Lanvin, melwen, newduke	2	5	25
 408979	5	20	Special Mix (5 Suits)	2021-01-19 — 21:45:20 UTC	ChristopheAF, HelanaAshryvr, Lanvin, melwen, newduke	2	5	25
 408945	4	22	Special Mix (5 Suits)	2021-01-19 — 21:12:17 UTC	ChristopheAF, Lanvin, melwen, newduke	2	5	25
-408792	2	25	No Variant	2021-01-19 — 18:57:23 UTC	ChristopheAF, macanek	69	5	25
-408790	2	0	No Variant	2021-01-19 — 18:55:51 UTC	ChristopheAF, macanek	71	5	25
-408788	2	25	No Variant	2021-01-19 — 18:55:16 UTC	ChristopheAF, macanek	73	5	25
-408786	2	23	No Variant	2021-01-19 — 18:52:41 UTC	ChristopheAF, macanek	73	5	25
-408784	2	0	No Variant	2021-01-19 — 18:50:32 UTC	ChristopheAF, macanek	77	5	25
-408783	2	0	No Variant	2021-01-19 — 18:49:31 UTC	ChristopheAF, macanek	77	5	25
-408780	2	24	No Variant	2021-01-19 — 18:47:59 UTC	ChristopheAF, macanek	78	5	25
-408778	2	24	No Variant	2021-01-19 — 18:45:41 UTC	ChristopheAF, macanek	80	5	25
-408776	2	0	No Variant	2021-01-19 — 18:43:52 UTC	ChristopheAF, macanek	81	5	25
-408773	2	25	No Variant	2021-01-19 — 18:42:15 UTC	ChristopheAF, macanek	79	5	25
-408772	2	25	No Variant	2021-01-19 — 18:39:55 UTC	ChristopheAF, macanek	79	5	25
-408769	2	0	No Variant	2021-01-19 — 18:36:45 UTC	ChristopheAF, macanek	81	5	25
-408767	2	0	No Variant	2021-01-19 — 18:35:36 UTC	ChristopheAF, macanek	80	5	25
-408765	2	22	No Variant	2021-01-19 — 18:34:09 UTC	ChristopheAF, macanek	84	5	25
-408761	2	0	No Variant	2021-01-19 — 18:31:51 UTC	ChristopheAF, macanek	86	5	25
-408759	2	0	No Variant	2021-01-19 — 18:30:30 UTC	ChristopheAF, macanek	87	5	25
-408757	2	25	No Variant	2021-01-19 — 18:28:14 UTC	ChristopheAF, macanek	88	5	25
-408755	2	0	No Variant	2021-01-19 — 18:25:14 UTC	ChristopheAF, macanek	90	5	25
-408754	2	0	No Variant	2021-01-19 — 18:22:48 UTC	ChristopheAF, macanek	90	5	25
-408752	2	0	No Variant	2021-01-19 — 18:20:16 UTC	ChristopheAF, macanek	90	5	25
-408749	2	25	No Variant	2021-01-19 — 18:17:27 UTC	ChristopheAF, macanek	91	5	25
-408745	2	0	No Variant	2021-01-19 — 18:15:06 UTC	ChristopheAF, macanek	92	5	25
-408744	2	0	No Variant	2021-01-19 — 18:13:36 UTC	ChristopheAF, macanek	93	5	25
-408743	2	0	No Variant	2021-01-19 — 18:10:45 UTC	ChristopheAF, macanek	92	5	25
+408792	2	25	No Variant	2021-01-19 — 18:57:23 UTC	ChristopheAF, macanek	71	5	25
+408790	2	0	No Variant	2021-01-19 — 18:55:51 UTC	ChristopheAF, macanek	72	5	25
+408788	2	25	No Variant	2021-01-19 — 18:55:16 UTC	ChristopheAF, macanek	74	5	25
+408786	2	23	No Variant	2021-01-19 — 18:52:41 UTC	ChristopheAF, macanek	74	5	25
+408784	2	0	No Variant	2021-01-19 — 18:50:32 UTC	ChristopheAF, macanek	78	5	25
+408783	2	0	No Variant	2021-01-19 — 18:49:31 UTC	ChristopheAF, macanek	78	5	25
+408780	2	24	No Variant	2021-01-19 — 18:47:59 UTC	ChristopheAF, macanek	79	5	25
+408778	2	24	No Variant	2021-01-19 — 18:45:41 UTC	ChristopheAF, macanek	81	5	25
+408776	2	0	No Variant	2021-01-19 — 18:43:52 UTC	ChristopheAF, macanek	83	5	25
+408773	2	25	No Variant	2021-01-19 — 18:42:15 UTC	ChristopheAF, macanek	81	5	25
+408772	2	25	No Variant	2021-01-19 — 18:39:55 UTC	ChristopheAF, macanek	81	5	25
+408769	2	0	No Variant	2021-01-19 — 18:36:45 UTC	ChristopheAF, macanek	84	5	25
+408767	2	0	No Variant	2021-01-19 — 18:35:36 UTC	ChristopheAF, macanek	84	5	25
+408765	2	22	No Variant	2021-01-19 — 18:34:09 UTC	ChristopheAF, macanek	86	5	25
+408761	2	0	No Variant	2021-01-19 — 18:31:51 UTC	ChristopheAF, macanek	87	5	25
+408759	2	0	No Variant	2021-01-19 — 18:30:30 UTC	ChristopheAF, macanek	88	5	25
+408757	2	25	No Variant	2021-01-19 — 18:28:14 UTC	ChristopheAF, macanek	90	5	25
+408755	2	0	No Variant	2021-01-19 — 18:25:14 UTC	ChristopheAF, macanek	92	5	25
+408754	2	0	No Variant	2021-01-19 — 18:22:48 UTC	ChristopheAF, macanek	92	5	25
+408752	2	0	No Variant	2021-01-19 — 18:20:16 UTC	ChristopheAF, macanek	92	5	25
+408749	2	25	No Variant	2021-01-19 — 18:17:27 UTC	ChristopheAF, macanek	92	5	25
+408745	2	0	No Variant	2021-01-19 — 18:15:06 UTC	ChristopheAF, macanek	93	5	25
+408744	2	0	No Variant	2021-01-19 — 18:13:36 UTC	ChristopheAF, macanek	94	5	25
+408743	2	0	No Variant	2021-01-19 — 18:10:45 UTC	ChristopheAF, macanek	93	5	25
 408735	3	0	Rainbow & Dark Omni (6 Suits)	2021-01-19 — 18:02:17 UTC	ChristopheAF, HelanaAshryvr, Lanvin	3	6	30
 408699	5	22	Special Mix (5 Suits)	2021-01-19 — 17:35:51 UTC	ChristopheAF, HelanaAshryvr, Lanvin, Pablo-, Wittvector	11	5	25
 408666	5	0	Special Mix (5 Suits)	2021-01-19 — 17:00:32 UTC	ChristopheAF, HelanaAshryvr, Lanvin, Pablo-, Wittvector	16	5	25
@@ -1249,11 +1374,11 @@
 408643	5	0	Null-Ones (5 Suits)	2021-01-19 — 16:04:25 UTC	ChristopheAF, HelanaAshryvr, indego, Lanvin, Pablo-	3	5	25
 408635	4	0	No Variant	2021-01-19 — 15:48:40 UTC	ChristopheAF, indego, Lanvin, macanek	204	5	25
 408633	4	0	No Variant	2021-01-19 — 15:45:59 UTC	ChristopheAF, indego, Lanvin, macanek	213	5	25
-408630	4	0	No Variant	2021-01-19 — 15:42:23 UTC	ChristopheAF, indego, Lanvin, macanek	257	5	25
+408630	4	0	No Variant	2021-01-19 — 15:42:23 UTC	ChristopheAF, indego, Lanvin, macanek	260	5	25
 408622	4	0	Dark Brown (5 Suits)	2021-01-19 — 15:20:37 UTC	ChristopheAF, hakha3, indego, MangoPie	10	5	25
-408617	4	24	Dark Brown (5 Suits)	2021-01-19 — 15:03:14 UTC	ChristopheAF, hakha3, indego, robense	14	5	25
-408019	2	21	Dark Rainbow (5 Suits)	2021-01-18 — 23:52:16 UTC	boba, ChristopheAF	79	5	25
-407993	4	21	Gray (5 Suits)	2021-01-18 — 23:13:40 UTC	ChristopheAF, ksfortson, robense, swineherd	5	5	25
+408617	4	24	Dark Brown (5 Suits)	2021-01-19 — 15:03:14 UTC	ChristopheAF, hakha3, indego, robense	15	5	25
+408019	2	21	Dark Rainbow (5 Suits)	2021-01-18 — 23:52:16 UTC	boba, ChristopheAF	80	5	25
+407993	4	21	Gray (5 Suits)	2021-01-18 — 23:13:40 UTC	ChristopheAF, ksfortson, robense, swineherd	8	5	25
 407649	3	0	Pink & Null (5 Suits)	2021-01-18 — 18:51:01 UTC	ChristopheAF, HelanaAshryvr, Lanvin	1	5	25
 407632	3	0	Pink & Null (5 Suits)	2021-01-18 — 18:28:31 UTC	ChristopheAF, HelanaAshryvr, Lanvin	3	5	25
 407613	3	0	Pink & Null (5 Suits)	2021-01-18 — 18:04:26 UTC	ChristopheAF, HelanaAshryvr, Lanvin	4	5	25
@@ -1264,35 +1389,35 @@
 407528	5	0	Pink-Fives & Dark Rainbow (5 Suits)	2021-01-18 — 16:38:11 UTC	ChristopheAF, Floriman, HelanaAshryvr, jack67889, Lanvin	1	5	25
 407497	5	0	Pink-Fives & Dark Rainbow (5 Suits)	2021-01-18 — 16:14:25 UTC	ChristopheAF, Floriman, HelanaAshryvr, jack67889, Lanvin	2	5	25
 407483	5	0	Dark Pink (6 Suits)	2021-01-18 — 16:03:16 UTC	ChristopheAF, Floriman, HelanaAshryvr, jack67889, Wittvector	5	6	30
-407477	5	0	Dark Pink (6 Suits)	2021-01-18 — 15:51:22 UTC	ChristopheAF, Floriman, HelanaAshryvr, jack67889, Wittvector	11	6	30
+407477	5	0	Dark Pink (6 Suits)	2021-01-18 — 15:51:22 UTC	ChristopheAF, Floriman, HelanaAshryvr, jack67889, Wittvector	12	6	30
 406731	3	25	Up or Down (5 Suits)	2021-01-17 — 22:54:08 UTC	ChristopheAF, Fey, Lanvin	6	5	25
 406704	3	0	Up or Down (5 Suits)	2021-01-17 — 22:32:47 UTC	ChristopheAF, Fey, Lanvin	8	5	25
 406691	3	0	Up or Down (5 Suits)	2021-01-17 — 22:21:39 UTC	ChristopheAF, Fey, Lanvin	8	5	25
 406673	4	0	Muddy-Rainbow-Ones & Omni (5 Suits)	2021-01-17 — 22:08:34 UTC	ChristopheAF, HelanaAshryvr, Lanvin, rz	2	5	25
-406645	3	27	Black & White (6 Suits)	2021-01-17 — 21:45:04 UTC	ChristopheAF, robense, sephiroth	47	6	30
-406608	3	24	Prism (5 Suits)	2021-01-17 — 21:16:50 UTC	ChristopheAF, jack67889, robense	45	5	25
+406645	3	27	Black & White (6 Suits)	2021-01-17 — 21:45:04 UTC	ChristopheAF, robense, sephiroth	48	6	30
+406608	3	24	Prism (5 Suits)	2021-01-17 — 21:16:50 UTC	ChristopheAF, jack67889, robense	47	5	25
 406568	4	0	Prism (5 Suits)	2021-01-17 — 20:46:55 UTC	aquarelle, ChristopheAF, indego, jack67889	7	5	25
 406549	4	0	Prism (5 Suits)	2021-01-17 — 20:32:12 UTC	aquarelle, ChristopheAF, indego, jack67889	14	5	25
-406513	4	0	Prism (5 Suits)	2021-01-17 — 20:06:18 UTC	aquarelle, ChristopheAF, indego, jack67889	23	5	25
-406493	4	0	Prism (5 Suits)	2021-01-17 — 19:51:24 UTC	aquarelle, ChristopheAF, indego, jack67889	29	5	25
+406513	4	0	Prism (5 Suits)	2021-01-17 — 20:06:18 UTC	aquarelle, ChristopheAF, indego, jack67889	25	5	25
+406493	4	0	Prism (5 Suits)	2021-01-17 — 19:51:24 UTC	aquarelle, ChristopheAF, indego, jack67889	31	5	25
 406451	5	24	Rainbow & Gray Pink (5 Suits)	2021-01-17 — 18:46:33 UTC	ChristopheAF, indego, Lanvin, MangoPie, newduke	1	5	25
 406437	5	0	Rainbow & Gray Pink (5 Suits)	2021-01-17 — 18:25:48 UTC	ChristopheAF, indego, Lanvin, MangoPie, newduke	1	5	25
 406420	5	0	Rainbow & Gray Pink (5 Suits)	2021-01-17 — 18:10:18 UTC	ChristopheAF, indego, Lanvin, MangoPie, newduke	2	5	25
 406393	5	25	Brown-Ones (5 Suits)	2021-01-17 — 17:45:01 UTC	CaitlinSmith, ChristopheAF, Lanvin, MangoPie, Nils	1	5	25
 406381	5	0	Brown-Ones (5 Suits)	2021-01-17 — 17:21:45 UTC	CaitlinSmith, ChristopheAF, Lanvin, MangoPie, Nils	1	5	25
 406369	5	22	Brown-Ones (5 Suits)	2021-01-17 — 16:56:03 UTC	CaitlinSmith, ChristopheAF, Lanvin, MangoPie, Nils	2	5	25
-405672	3	20	White (4 Suits)	2021-01-16 — 23:01:01 UTC	ChristopheAF, Denchulitas, newduke	18	4	20
+405672	3	20	White (4 Suits)	2021-01-16 — 23:01:01 UTC	ChristopheAF, Denchulitas, newduke	19	4	20
 405630	3	0	White (4 Suits)	2021-01-16 — 22:29:51 UTC	ChristopheAF, Denchulitas, newduke	30	4	20
-405514	3	28	6 Suits	2021-01-16 — 21:18:17 UTC	ChristopheAF, sankala, Spieler42	252	6	30
-405473	6	0	No Variant	2021-01-16 — 20:57:07 UTC	bjnh, ChristopheAF, Daryl, indego, sankala, Spieler42	478	5	25
-405447	4	26	Rainbow (6 Suits)	2021-01-16 — 20:42:33 UTC	bjnh, ChristopheAF, indego, Spieler42	122	6	30
-405398	4	0	Rainbow (6 Suits)	2021-01-16 — 20:12:32 UTC	bjnh, ChristopheAF, indego, Spieler42	156	6	30
-405373	4	0	Rainbow (6 Suits)	2021-01-16 — 19:52:59 UTC	bjnh, ChristopheAF, indego, Spieler42	275	6	30
+405514	3	28	6 Suits	2021-01-16 — 21:18:17 UTC	ChristopheAF, sankala, Spieler42	256	6	30
+405473	6	0	No Variant	2021-01-16 — 20:57:07 UTC	bjnh, ChristopheAF, Daryl, indego, sankala, Spieler42	483	5	25
+405447	4	26	Rainbow (6 Suits)	2021-01-16 — 20:42:33 UTC	bjnh, ChristopheAF, indego, Spieler42	123	6	30
+405398	4	0	Rainbow (6 Suits)	2021-01-16 — 20:12:32 UTC	bjnh, ChristopheAF, indego, Spieler42	157	6	30
+405373	4	0	Rainbow (6 Suits)	2021-01-16 — 19:52:59 UTC	bjnh, ChristopheAF, indego, Spieler42	280	6	30
 405295	5	0	Pink & Cocoa Rainbow (6 Suits)	2021-01-16 — 18:44:10 UTC	ChristopheAF, HelanaAshryvr, indego, Lanvin, TimeHoodie	2	6	30
 405279	5	0	Pink & Cocoa Rainbow (6 Suits)	2021-01-16 — 18:18:58 UTC	ChristopheAF, HelanaAshryvr, indego, Lanvin, TimeHoodie	2	6	30
 405271	5	0	Pink & Cocoa Rainbow (6 Suits)	2021-01-16 — 18:00:07 UTC	ChristopheAF, HelanaAshryvr, indego, Lanvin, TimeHoodie	3	6	30
 405260	5	0	Dark Omni (5 Suits)	2021-01-16 — 17:41:09 UTC	ChristopheAF, Kernel, Lanvin, MangoPie, TimeHoodie	6	5	25
-405255	3	14	Null (3 Suits)	2021-01-16 — 17:25:12 UTC	ChristopheAF, TimeHoodie, XMIL	23	3	15
+405255	3	14	Null (3 Suits)	2021-01-16 — 17:25:12 UTC	ChristopheAF, TimeHoodie, XMIL	24	3	15
 404472	5	0	Light Pink & Dark Brown (6 Suits)	2021-01-15 — 23:41:43 UTC	ChristopheAF, HelanaAshryvr, Lanvin, newduke, sephiroth	2	6	30
 404466	5	11	Rainbow (3 Suits)	2021-01-15 — 23:24:49 UTC	ChristopheAF, HelanaAshryvr, Lanvin, newduke, sephiroth	6	3	15
 404295	6	23	White-Ones (5 Suits)	2021-01-15 — 20:41:06 UTC	bjnh, ChristopheAF, Daryl, Kernel, Lanvin, Pablo-	1	5	25
@@ -1306,16 +1431,16 @@
 404012	4	0	Black & Dark Rainbow (6 Suits)	2021-01-15 — 14:05:51 UTC	ChristopheAF, katian, robense, StKildaFan	15	6	30
 404005	2	0	Black & Rainbow (5 Suits)	2021-01-15 — 13:49:35 UTC	ChristopheAF, StKildaFan	73	5	25
 403465	3	23	Special Mix (5 Suits)	2021-01-14 — 23:50:54 UTC	ChristopheAF, duckington, HelanaAshryvr	23	5	25
-403446	3	0	Special Mix (5 Suits)	2021-01-14 — 23:29:24 UTC	ChristopheAF, duckington, HelanaAshryvr	48	5	25
+403446	3	0	Special Mix (5 Suits)	2021-01-14 — 23:29:24 UTC	ChristopheAF, duckington, HelanaAshryvr	50	5	25
 403410	6	22	Special Mix (5 Suits)	2021-01-14 — 22:54:05 UTC	ChristopheAF, HelanaAshryvr, indego, Lanvin, newduke, Wittvector	2	5	25
 403386	6	0	Special Mix (5 Suits)	2021-01-14 — 22:31:24 UTC	ChristopheAF, HelanaAshryvr, indego, Lanvin, newduke, Wittvector	2	5	25
 403373	6	0	Special Mix (5 Suits)	2021-01-14 — 22:20:25 UTC	ChristopheAF, HelanaAshryvr, indego, Lanvin, newduke, Wittvector	4	5	25
-403360	6	0	Special Mix (5 Suits)	2021-01-14 — 22:07:55 UTC	ChristopheAF, HelanaAshryvr, indego, Lanvin, newduke, Wittvector	5	5	25
+403360	6	0	Special Mix (5 Suits)	2021-01-14 — 22:07:55 UTC	ChristopheAF, HelanaAshryvr, indego, Lanvin, newduke, Wittvector	6	5	25
 403341	3	0	Special Mix (5 Suits)	2021-01-14 — 21:46:22 UTC	ChristopheAF, HelanaAshryvr, Lanvin	28	5	25
 403304	5	29	Rainbow-Ones & Dark Rainbow (6 Suits)	2021-01-14 — 21:07:42 UTC	ChristopheAF, dobi, HelanaAshryvr, Lanvin, MarkusKahlsen	2	6	30
-403108	3	30	Rainbow & Pink (6 Suits)	2021-01-14 — 16:47:40 UTC	ChristopheAF, Wittvector, zeinab001	19	6	30
-403100	3	0	Rainbow & Pink (6 Suits)	2021-01-14 — 16:30:09 UTC	ChristopheAF, Wittvector, zeinab001	23	6	30
-403095	3	0	Rainbow & Pink (6 Suits)	2021-01-14 — 16:22:48 UTC	ChristopheAF, Wittvector, zeinab001	39	6	30
+403108	3	30	Rainbow & Pink (6 Suits)	2021-01-14 — 16:47:40 UTC	ChristopheAF, Wittvector, zeinab001	20	6	30
+403100	3	0	Rainbow & Pink (6 Suits)	2021-01-14 — 16:30:09 UTC	ChristopheAF, Wittvector, zeinab001	24	6	30
+403095	3	0	Rainbow & Pink (6 Suits)	2021-01-14 — 16:22:48 UTC	ChristopheAF, Wittvector, zeinab001	40	6	30
 403084	3	22	Pink & Dark Brown (5 Suits)	2021-01-14 — 16:00:51 UTC	ChristopheAF, Wittvector, zeinab001	2	5	25
 403074	3	0	Pink & Dark Brown (5 Suits)	2021-01-14 — 15:41:43 UTC	ChristopheAF, Wittvector, zeinab001	3	5	25
 403072	3	0	Pink & Dark Brown (5 Suits)	2021-01-14 — 15:39:01 UTC	ChristopheAF, Wittvector, zeinab001	4	5	25
@@ -1332,16 +1457,16 @@
 402378	4	0	Black & Pink (5 Suits)	2021-01-13 — 21:47:22 UTC	ChristopheAF, colton, rahsosprout, Wittvector	13	5	25
 402327	4	23	Black & Pink (5 Suits)	2021-01-13 — 21:13:46 UTC	ChristopheAF, colton, Kyle, Wittvector	1	5	25
 402272	4	24	Black & Pink (5 Suits)	2021-01-13 — 20:28:58 UTC	bjnh, ChristopheAF, Kyle, Wittvector	1	5	25
-402238	5	0	Rainbow & White (6 Suits)	2021-01-13 — 19:53:36 UTC	ChristopheAF, knaphill, ksfortson, Kyle, TimeHoodie	5	6	30
-402203	3	25	No Variant	2021-01-13 — 19:13:53 UTC	ChristopheAF, nkkarpov, TimeHoodie	451	5	25
+402238	5	0	Rainbow & White (6 Suits)	2021-01-13 — 19:53:36 UTC	ChristopheAF, knaphill, ksfortson, Kyle, TimeHoodie	6	6	30
+402203	3	25	No Variant	2021-01-13 — 19:13:53 UTC	ChristopheAF, nkkarpov, TimeHoodie	456	5	25
 402172	5	0	Clue Starved & Rainbow (6 Suits)	2021-01-13 — 18:51:26 UTC	ChristopheAF, Div, Kyle, lotem, TimeHoodie	1	6	30
 402163	6	0	Clue Starved & Muddy Rainbow (6 Suits)	2021-01-13 — 18:38:24 UTC	ChristopheAF, Div, Floriman, Kyle, lotem, TimeHoodie	1	6	30
 402149	6	0	Clue Starved & Muddy Rainbow (6 Suits)	2021-01-13 — 18:18:53 UTC	ChristopheAF, Div, Floriman, Kyle, lotem, TimeHoodie	1	6	30
-402102	4	24	No Variant	2021-01-13 — 17:16:22 UTC	bakerbakura, ChristopheAF, HelanaAshryvr, rz	419	5	25
-402089	3	0	Gray Pink (6 Suits)	2021-01-13 — 16:54:21 UTC	boba, ChristopheAF, Lel0uch	15	6	30
-402080	3	0	Gray Pink (6 Suits)	2021-01-13 — 16:34:25 UTC	boba, ChristopheAF, Lel0uch	21	6	30
-402072	3	29	Gray Pink (6 Suits)	2021-01-13 — 16:15:26 UTC	boba, ChristopheAF, Lel0uch	24	6	30
-402064	3	0	Gray Pink (6 Suits)	2021-01-13 — 15:54:29 UTC	boba, ChristopheAF, Lel0uch	25	6	30
+402102	4	24	No Variant	2021-01-13 — 17:16:22 UTC	bakerbakura, ChristopheAF, HelanaAshryvr, rz	423	5	25
+402089	3	0	Gray Pink (6 Suits)	2021-01-13 — 16:54:21 UTC	boba, ChristopheAF, Lel0uch	16	6	30
+402080	3	0	Gray Pink (6 Suits)	2021-01-13 — 16:34:25 UTC	boba, ChristopheAF, Lel0uch	22	6	30
+402072	3	29	Gray Pink (6 Suits)	2021-01-13 — 16:15:26 UTC	boba, ChristopheAF, Lel0uch	25	6	30
+402064	3	0	Gray Pink (6 Suits)	2021-01-13 — 15:54:29 UTC	boba, ChristopheAF, Lel0uch	26	6	30
 401512	3	23	Pink & Prism (5 Suits)	2021-01-13 — 00:31:07 UTC	ChristopheAF, melwen, wump	3	5	25
 401404	5	0	Rainbow & Dark Pink (5 Suits)	2021-01-12 — 22:17:54 UTC	ChristopheAF, IsabeltheCat, Jake_Stiles, Kyle, sephiroth	3	5	25
 401375	5	25	Rainbow & Dark Brown (5 Suits)	2021-01-12 — 21:43:28 UTC	ChristopheAF, Floriman, IsabeltheCat, Jake_Stiles, sephiroth	1	5	25
@@ -1351,8 +1476,8 @@
 401267	5	0	Black & Pink (6 Suits)	2021-01-12 — 19:23:57 UTC	ChristopheAF, dobi, hakha3, MangoPie, Wittvector	8	6	30
 401203	4	20	Omni (4 Suits)	2021-01-12 — 18:23:45 UTC	ChristopheAF, indego, PMP, rz	5	4	20
 401191	4	0	Omni (4 Suits)	2021-01-12 — 18:06:42 UTC	ChristopheAF, indego, PMP, rz	7	4	20
-401185	4	0	Omni (4 Suits)	2021-01-12 — 17:56:46 UTC	ChristopheAF, indego, PMP, rz	11	4	20
-401176	4	0	Omni (4 Suits)	2021-01-12 — 17:45:19 UTC	ChristopheAF, indego, PMP, rz	15	4	20
+401185	4	0	Omni (4 Suits)	2021-01-12 — 17:56:46 UTC	ChristopheAF, indego, PMP, rz	12	4	20
+401176	4	0	Omni (4 Suits)	2021-01-12 — 17:45:19 UTC	ChristopheAF, indego, PMP, rz	16	4	20
 401160	6	24	Special Mix (5 Suits)	2021-01-12 — 17:26:32 UTC	ChristopheAF, dobi, hakha3, indegoo, Lel0uch, sephiroth	3	5	25
 401144	6	0	Special Mix (5 Suits)	2021-01-12 — 16:54:38 UTC	ChristopheAF, dobi, hakha3, indegoo, Lel0uch, sephiroth	3	5	25
 401138	6	22	Special Mix (5 Suits)	2021-01-12 — 16:37:21 UTC	ChristopheAF, dobi, hakha3, indegoo, Lel0uch, sephiroth	4	5	25
@@ -1362,40 +1487,40 @@
 400525	5	29	Black (6 Suits)	2021-01-11 — 23:10:18 UTC	ChristopheAF, Feich59, jack67889, Pimak, rahsosprout	28	6	30
 400503	4	25	Rainbow & Prism (5 Suits)	2021-01-11 — 22:43:57 UTC	ChristopheAF, jack67889, Kyle, Pimak	7	5	25
 400471	5	18	4 Suits	2021-01-11 — 22:11:22 UTC	CaitlinSmith, ChristopheAF, Doge, Kyle, Pimak	4	4	20
-400451	4	0	White (6 Suits)	2021-01-11 — 21:46:19 UTC	CaitlinSmith, ChristopheAF, Pimak, sean1815	35	6	30
-400434	4	0	White (6 Suits)	2021-01-11 — 21:25:22 UTC	CaitlinSmith, ChristopheAF, Pimak, sean1815	41	6	30
+400451	4	0	White (6 Suits)	2021-01-11 — 21:46:19 UTC	CaitlinSmith, ChristopheAF, Pimak, sean1815	36	6	30
+400434	4	0	White (6 Suits)	2021-01-11 — 21:25:22 UTC	CaitlinSmith, ChristopheAF, Pimak, sean1815	43	6	30
 400382	3	25	Rainbow Reversed (5 Suits)	2021-01-11 — 20:38:43 UTC	ChristopheAF, Kyle, swineherd	2	5	25
 400367	3	0	Rainbow Reversed (5 Suits)	2021-01-11 — 20:24:30 UTC	ChristopheAF, Kyle, swineherd	2	5	25
 400355	3	0	Rainbow Reversed (5 Suits)	2021-01-11 — 20:16:31 UTC	ChristopheAF, Kyle, swineherd	3	5	25
-400339	4	30	Dual-Color & Rainbow (6 Suits)	2021-01-11 — 19:59:02 UTC	ChristopheAF, Nitrate2, Pablo-, swineherd	12	6	30
-400311	5	0	Dual-Color & Rainbow (6 Suits)	2021-01-11 — 19:30:48 UTC	ChristopheAF, Nitrate2, Pablo-, swineherd, VerySloppyTwo	3	6	30
+400339	4	30	Dual-Color & Rainbow (6 Suits)	2021-01-11 — 19:59:02 UTC	ChristopheAF, Nitrate2, Pablo-, swineherd	13	6	30
+400311	5	0	Dual-Color & Rainbow (6 Suits)	2021-01-11 — 19:30:48 UTC	ChristopheAF, Nitrate2, Pablo-, swineherd, VerySloppyTwo	4	6	30
 400293	5	0	Dual-Color & Rainbow (6 Suits)	2021-01-11 — 19:15:55 UTC	ChristopheAF, Nitrate2, Pablo-, swineherd, VerySloppyTwo	5	6	30
-400229	3	0	Black (6 Suits)	2021-01-11 — 17:21:18 UTC	ChristopheAF, HelanaAshryvr, ricardodd	108	6	30
-400224	3	0	Black (6 Suits)	2021-01-11 — 17:17:53 UTC	ChristopheAF, HelanaAshryvr, ricardodd	119	6	30
-400218	3	0	Black (6 Suits)	2021-01-11 — 17:10:25 UTC	ChristopheAF, HelanaAshryvr, ricardodd	125	6	30
+400229	3	0	Black (6 Suits)	2021-01-11 — 17:21:18 UTC	ChristopheAF, HelanaAshryvr, ricardodd	111	6	30
+400224	3	0	Black (6 Suits)	2021-01-11 — 17:17:53 UTC	ChristopheAF, HelanaAshryvr, ricardodd	122	6	30
+400218	3	0	Black (6 Suits)	2021-01-11 — 17:10:25 UTC	ChristopheAF, HelanaAshryvr, ricardodd	126	6	30
 400212	3	0	Black (6 Suits)	2021-01-11 — 17:04:39 UTC	ChristopheAF, HelanaAshryvr, ricardodd	134	6	30
-400204	3	28	Black (6 Suits)	2021-01-11 — 16:47:11 UTC	ChristopheAF, HelanaAshryvr, ricardodd	149	6	30
-400194	3	28	Black (6 Suits)	2021-01-11 — 16:23:43 UTC	ChristopheAF, HelanaAshryvr, ricardodd	159	6	30
-400176	3	0	Black (6 Suits)	2021-01-11 — 15:54:22 UTC	ChristopheAF, HelanaAshryvr, ricardodd	172	6	30
+400204	3	28	Black (6 Suits)	2021-01-11 — 16:47:11 UTC	ChristopheAF, HelanaAshryvr, ricardodd	151	6	30
+400194	3	28	Black (6 Suits)	2021-01-11 — 16:23:43 UTC	ChristopheAF, HelanaAshryvr, ricardodd	161	6	30
+400176	3	0	Black (6 Suits)	2021-01-11 — 15:54:22 UTC	ChristopheAF, HelanaAshryvr, ricardodd	175	6	30
 400161	4	20	Brown (4 Suits)	2021-01-11 — 15:24:53 UTC	ChristopheAF, macanek, skyblueexo, wump	22	4	20
 399685	3	25	Null (5 Suits)	2021-01-11 — 00:24:18 UTC	aquarelle, ChristopheAF, Lanvin	18	5	25
-399663	3	25	No Variant	2021-01-10 — 23:40:35 UTC	ChristopheAF, newduke, poofart123	459	5	25
-399630	3	0	Null (4 Suits)	2021-01-10 — 23:17:58 UTC	ChristopheAF, MarkusKahlsen, newduke	8	4	20
-399607	3	19	Null (4 Suits)	2021-01-10 — 23:04:31 UTC	ChristopheAF, MarkusKahlsen, newduke	6	4	20
-399570	3	18	Null (4 Suits)	2021-01-10 — 22:41:57 UTC	ChristopheAF, MarkusKahlsen, newduke	10	4	20
-399541	3	0	Null (4 Suits)	2021-01-10 — 22:26:00 UTC	ChristopheAF, MarkusKahlsen, newduke	23	4	20
-399354	4	22	Gray (5 Suits)	2021-01-10 — 19:13:15 UTC	CaitlinSmith, ChristopheAF, rachyrules, rahsosprout	33	5	25
-399333	2	0	No Variant	2021-01-10 — 18:48:47 UTC	CaitlinSmith, ChristopheAF	72	5	25
-399292	3	0	Special Mix (6 Suits)	2021-01-10 — 17:41:01 UTC	ChristopheAF, dobi, HelanaAshryvr	23	6	30
-399282	4	30	6 Suits	2021-01-10 — 17:19:48 UTC	ChristopheAF, dobi, HelanaAshryvr, knaphill	250	6	30
+399663	3	25	No Variant	2021-01-10 — 23:40:35 UTC	ChristopheAF, newduke, poofart123	467	5	25
+399630	3	0	Null (4 Suits)	2021-01-10 — 23:17:58 UTC	ChristopheAF, MarkusKahlsen, newduke	9	4	20
+399607	3	19	Null (4 Suits)	2021-01-10 — 23:04:31 UTC	ChristopheAF, MarkusKahlsen, newduke	7	4	20
+399570	3	18	Null (4 Suits)	2021-01-10 — 22:41:57 UTC	ChristopheAF, MarkusKahlsen, newduke	11	4	20
+399541	3	0	Null (4 Suits)	2021-01-10 — 22:26:00 UTC	ChristopheAF, MarkusKahlsen, newduke	24	4	20
+399354	4	22	Gray (5 Suits)	2021-01-10 — 19:13:15 UTC	CaitlinSmith, ChristopheAF, rachyrules, rahsosprout	34	5	25
+399333	2	0	No Variant	2021-01-10 — 18:48:47 UTC	CaitlinSmith, ChristopheAF	73	5	25
+399292	3	0	Special Mix (6 Suits)	2021-01-10 — 17:41:01 UTC	ChristopheAF, dobi, HelanaAshryvr	24	6	30
+399282	4	30	6 Suits	2021-01-10 — 17:19:48 UTC	ChristopheAF, dobi, HelanaAshryvr, knaphill	252	6	30
 399255	3	24	Special Mix (5 Suits)	2021-01-10 — 16:43:01 UTC	ChristopheAF, HelanaAshryvr, jeff10	19	5	25
-399240	3	25	No Variant	2021-01-10 — 16:02:06 UTC	ADrone, banjoleb, ChristopheAF	83	5	25
-399229	3	0	No Variant	2021-01-10 — 15:43:05 UTC	ADrone, banjoleb, ChristopheAF	100	5	25
-399216	3	25	No Variant	2021-01-10 — 15:16:20 UTC	banjoleb, ChristopheAF, Kernel	307	5	25
-399193	5	25	No Variant	2021-01-10 — 14:21:27 UTC	banjoleb, boba, CaitlinSmith, ChristopheAF, Kaznad	176	5	25
-398645	3	25	No Variant	2021-01-10 — 03:35:45 UTC	ChristopheAF, eljavi, louietyj	324	5	25
-398354	3	23	No Variant	2021-01-09 — 23:53:05 UTC	ChristopheAF, function, rahsosprout	516	5	25
-398286	3	22	No Variant	2021-01-09 — 23:14:14 UTC	ChristopheAF, function, Vensahn	750	5	25
+399240	3	25	No Variant	2021-01-10 — 16:02:06 UTC	ADrone, banjoleb, ChristopheAF	86	5	25
+399229	3	0	No Variant	2021-01-10 — 15:43:05 UTC	ADrone, banjoleb, ChristopheAF	103	5	25
+399216	3	25	No Variant	2021-01-10 — 15:16:20 UTC	banjoleb, ChristopheAF, Kernel	311	5	25
+399193	5	25	No Variant	2021-01-10 — 14:21:27 UTC	banjoleb, boba, CaitlinSmith, ChristopheAF, Kaznad	178	5	25
+398645	3	25	No Variant	2021-01-10 — 03:35:45 UTC	ChristopheAF, eljavi, louietyj	330	5	25
+398354	3	23	No Variant	2021-01-09 — 23:53:05 UTC	ChristopheAF, function, rahsosprout	523	5	25
+398286	3	22	No Variant	2021-01-09 — 23:14:14 UTC	ChristopheAF, function, Vensahn	757	5	25
 398205	3	15	Omni (3 Suits)	2021-01-09 — 22:28:15 UTC	ChristopheAF, newduke, PMP	11	3	15
 398194	3	0	Omni (3 Suits)	2021-01-09 — 22:19:26 UTC	ChristopheAF, newduke, PMP	14	3	15
 398183	3	0	Omni (3 Suits)	2021-01-09 — 22:12:43 UTC	ChristopheAF, newduke, PMP	17	3	15
@@ -1403,7 +1528,7 @@
 397905	3	23	Brown-Fives & Black (5 Suits)	2021-01-09 — 18:07:28 UTC	ChristopheAF, colton, robense	2	5	25
 397835	5	30	Pink-Fives & Rainbow (6 Suits)	2021-01-09 — 16:14:37 UTC	ChristopheAF, Fey, Lel0uch, melwen, TimeHoodie	3	6	30
 397824	4	0	Pink-Fives & Rainbow (6 Suits)	2021-01-09 — 15:56:28 UTC	ChristopheAF, Fey, Lel0uch, TimeHoodie	7	6	30
-397781	5	23	Brown (5 Suits)	2021-01-09 — 14:53:21 UTC	ChristopheAF, diael, MangoPie, narabio, rz	17	5	25
+397781	5	23	Brown (5 Suits)	2021-01-09 — 14:53:21 UTC	ChristopheAF, diael, MangoPie, narabio, rz	18	5	25
 396837	4	30	Omni (6 Suits)	2021-01-08 — 19:42:40 UTC	ChristopheAF, colton, rz, wump	18	6	30
 396801	3	0	Pink & Omni (6 Suits)	2021-01-08 — 19:05:47 UTC	ChristopheAF, colton, rz	4	6	30
 396780	4	0	Omni (6 Suits)	2021-01-08 — 18:43:54 UTC	ChristopheAF, colton, MarkusKahlsen, rz	13	6	30
@@ -1416,14 +1541,14 @@
 396664	3	20	Omni (4 Suits)	2021-01-08 — 14:52:22 UTC	ChristopheAF, MangoPie, ricardodd	12	4	20
 396653	3	19	Omni (4 Suits)	2021-01-08 — 14:32:10 UTC	ChristopheAF, MangoPie, ricardodd	15	4	20
 395905	3	25	Muddy Rainbow (5 Suits)	2021-01-07 — 22:58:01 UTC	bob65536, ChristopheAF, rz	37	5	25
-395823	3	23	No Variant	2021-01-07 — 22:02:56 UTC	ChristopheAF, Dennisdj, hailey	801	5	25
-395776	3	24	No Variant	2021-01-07 — 21:22:58 UTC	ChristopheAF, Dennisdj, hailey	940	5	25
+395823	3	23	No Variant	2021-01-07 — 22:02:56 UTC	ChristopheAF, Dennisdj, hailey	809	5	25
+395776	3	24	No Variant	2021-01-07 — 21:22:58 UTC	ChristopheAF, Dennisdj, hailey	952	5	25
 395675	5	0	Dark Rainbow (6 Suits)	2021-01-07 — 19:30:19 UTC	ChristopheAF, Floriman, jack67889, Lel0uch, Pablo-	7	6	30
 395672	5	0	Dark Rainbow (6 Suits)	2021-01-07 — 19:25:19 UTC	ChristopheAF, Floriman, jack67889, Lel0uch, Pablo-	14	6	30
 395662	5	28	Dark Rainbow (6 Suits)	2021-01-07 — 19:08:14 UTC	ChristopheAF, Floriman, Lel0uch, MarkusKahlsen, Pimak	12	6	30
 395653	5	0	Dark Rainbow (6 Suits)	2021-01-07 — 18:45:37 UTC	ChristopheAF, Floriman, Lel0uch, MarkusKahlsen, Pimak	14	6	30
 395643	4	0	Dark Rainbow (5 Suits)	2021-01-07 — 18:28:26 UTC	ChristopheAF, Lel0uch, MarkusKahlsen, Pimak	7	5	25
-395629	4	0	4 Suits	2021-01-07 — 18:04:43 UTC	ChristopheAF, Kernel, Pimak, Spruelo	101	4	20
+395629	4	0	4 Suits	2021-01-07 — 18:04:43 UTC	ChristopheAF, Kernel, Pimak, Spruelo	104	4	20
 395598	4	0	Null (6 Suits)	2021-01-07 — 17:09:33 UTC	boba, ChristopheAF, HelanaAshryvr, Lanvin	10	6	30
 395582	4	0	Null (6 Suits)	2021-01-07 — 16:35:45 UTC	boba, ChristopheAF, HelanaAshryvr, Lanvin	13	6	30
 395569	4	0	Null (6 Suits)	2021-01-07 — 16:10:13 UTC	boba, ChristopheAF, HelanaAshryvr, Lanvin	18	6	30
@@ -1431,48 +1556,48 @@
 395529	3	30	Rainbow (6 Suits)	2021-01-07 — 14:59:24 UTC	ChristopheAF, kinkajusrevenge, Lel0uch	118	6	30
 395501	4	0	Black & Dark Pink (6 Suits)	2021-01-07 — 13:52:08 UTC	ChristopheAF, Pablo-, sephiroth, Wittvector	9	6	30
 395492	4	0	Black & Dark Pink (6 Suits)	2021-01-07 — 13:38:37 UTC	ChristopheAF, Pablo-, sephiroth, Wittvector	9	6	30
-394855	3	20	Rainbow (4 Suits)	2021-01-06 — 22:32:54 UTC	bob65536, ChristopheAF, Pimak	43	4	20
-394838	3	0	Rainbow (4 Suits)	2021-01-06 — 22:19:53 UTC	bob65536, ChristopheAF, Pimak	46	4	20
-394826	3	0	Rainbow (4 Suits)	2021-01-06 — 22:11:31 UTC	bob65536, ChristopheAF, Pimak	68	4	20
-394810	3	0	Rainbow (4 Suits)	2021-01-06 — 22:00:25 UTC	bob65536, ChristopheAF, Pimak	84	4	20
+394855	3	20	Rainbow (4 Suits)	2021-01-06 — 22:32:54 UTC	bob65536, ChristopheAF, Pimak	45	4	20
+394838	3	0	Rainbow (4 Suits)	2021-01-06 — 22:19:53 UTC	bob65536, ChristopheAF, Pimak	48	4	20
+394826	3	0	Rainbow (4 Suits)	2021-01-06 — 22:11:31 UTC	bob65536, ChristopheAF, Pimak	69	4	20
+394810	3	0	Rainbow (4 Suits)	2021-01-06 — 22:00:25 UTC	bob65536, ChristopheAF, Pimak	85	4	20
 394772	6	19	Black & Pink (5 Suits)	2021-01-06 — 21:23:53 UTC	bob65536, ChristopheAF, HelanaAshryvr, indego, Lanvin, TimeHoodie	2	5	25
-394685	3	25	Black & Pink (5 Suits)	2021-01-06 — 19:50:38 UTC	ChristopheAF, doctorabi, hakha3	9	5	25
-394654	4	30	Pink (6 Suits)	2021-01-06 — 19:25:17 UTC	ChristopheAF, doctorabi, hakha3, kevincaseytdk1	54	6	30
-394548	3	30	Dark Pink (6 Suits)	2021-01-06 — 17:28:29 UTC	boba, ChristopheAF, HelanaAshryvr	34	6	30
+394685	3	25	Black & Pink (5 Suits)	2021-01-06 — 19:50:38 UTC	ChristopheAF, doctorabi, hakha3	10	5	25
+394654	4	30	Pink (6 Suits)	2021-01-06 — 19:25:17 UTC	ChristopheAF, doctorabi, hakha3, kevincaseytdk1	55	6	30
+394548	3	30	Dark Pink (6 Suits)	2021-01-06 — 17:28:29 UTC	boba, ChristopheAF, HelanaAshryvr	35	6	30
 394522	5	12	3 Suits	2021-01-06 — 16:24:14 UTC	boba, ChristopheAF, colton, HelanaAshryvr, Lel0uch	19	3	15
-394519	5	0	3 Suits	2021-01-06 — 16:09:18 UTC	boba, ChristopheAF, colton, HelanaAshryvr, Lel0uch	24	3	15
+394519	5	0	3 Suits	2021-01-06 — 16:09:18 UTC	boba, ChristopheAF, colton, HelanaAshryvr, Lel0uch	25	3	15
 393985	4	25	Gray Pink (5 Suits)	2021-01-06 — 00:22:47 UTC	ChristopheAF, doctorabi, melwen, XMIL	11	5	25
-393909	3	25	Dark Rainbow (5 Suits)	2021-01-05 — 22:43:03 UTC	ChristopheAF, jack67889, MarkusKahlsen	4	5	25
+393909	3	25	Dark Rainbow (5 Suits)	2021-01-05 — 22:43:03 UTC	ChristopheAF, jack67889, MarkusKahlsen	5	5	25
 393890	4	0	Dark Rainbow (5 Suits)	2021-01-05 — 22:16:03 UTC	ChristopheAF, jack67889, MarkusKahlsen, voss	6	5	25
 393863	4	22	Dark Pink (5 Suits)	2021-01-05 — 21:49:04 UTC	ChristopheAF, doctorabi, frosty104, plus	9	5	25
 393835	3	0	Black & Brown (5 Suits)	2021-01-05 — 21:30:37 UTC	ChristopheAF, frosty104, plus	14	5	25
 393824	3	0	Black & Brown (5 Suits)	2021-01-05 — 21:22:49 UTC	ChristopheAF, frosty104, plus	16	5	25
 393807	3	0	Black & Brown (5 Suits)	2021-01-05 — 21:11:15 UTC	ChristopheAF, frosty104, plus	19	5	25
 393772	4	22	Dark Pink (5 Suits)	2021-01-05 — 20:40:16 UTC	ChristopheAF, doctorabi, frosty104, plus	11	5	25
-393742	5	24	No Variant	2021-01-05 — 20:02:07 UTC	ChristopheAF, Daryl, diael, frosty104, MangoPie	383	5	25
-393717	4	24	Black (5 Suits)	2021-01-05 — 19:17:43 UTC	ChristopheAF, Daryl, PMP, rahsosprout	41	5	25
+393742	5	24	No Variant	2021-01-05 — 20:02:07 UTC	ChristopheAF, Daryl, diael, frosty104, MangoPie	384	5	25
+393717	4	24	Black (5 Suits)	2021-01-05 — 19:17:43 UTC	ChristopheAF, Daryl, PMP, rahsosprout	42	5	25
 393701	4	20	Prism (4 Suits)	2021-01-05 — 18:54:58 UTC	ChristopheAF, MangoPie, Onen, VerySloppyTwo	11	4	20
-393689	4	18	Prism (4 Suits)	2021-01-05 — 18:33:02 UTC	ChristopheAF, MangoPie, Onen, VerySloppyTwo	13	4	20
+393689	4	18	Prism (4 Suits)	2021-01-05 — 18:33:02 UTC	ChristopheAF, MangoPie, Onen, VerySloppyTwo	14	4	20
 392847	5	0	Dual-Color (6 Suits)	2021-01-05 — 00:03:53 UTC	ChristopheAF, doctorabi, HelanaAshryvr, indego, Lanvin	18	6	30
 392808	5	0	Black (6 Suits)	2021-01-04 — 23:31:27 UTC	ChristopheAF, HelanaAshryvr, indego, Lanvin, MarcLovesDogs	48	6	30
-392767	3	22	No Variant	2021-01-04 — 22:26:21 UTC	ChristopheAF, oliana, Webs	840	5	25
-392735	3	0	No Variant	2021-01-04 — 21:55:42 UTC	ChristopheAF, oliana, Webs	1017	5	25
-392710	3	0	Prism (5 Suits)	2021-01-04 — 21:36:00 UTC	ChristopheAF, doctorabi, torp	38	5	25
-392607	4	25	No Variant	2021-01-04 — 20:06:13 UTC	ChristopheAF, HelanaAshryvr, Lanvin, torp	308	5	25
-392597	4	0	No Variant	2021-01-04 — 19:49:07 UTC	ChristopheAF, HelanaAshryvr, Lanvin, torp	326	5	25
+392767	3	22	No Variant	2021-01-04 — 22:26:21 UTC	ChristopheAF, oliana, Webs	849	5	25
+392735	3	0	No Variant	2021-01-04 — 21:55:42 UTC	ChristopheAF, oliana, Webs	1026	5	25
+392710	3	0	Prism (5 Suits)	2021-01-04 — 21:36:00 UTC	ChristopheAF, doctorabi, torp	39	5	25
+392607	4	25	No Variant	2021-01-04 — 20:06:13 UTC	ChristopheAF, HelanaAshryvr, Lanvin, torp	311	5	25
+392597	4	0	No Variant	2021-01-04 — 19:49:07 UTC	ChristopheAF, HelanaAshryvr, Lanvin, torp	330	5	25
 392589	4	0	Rainbow & Pink (6 Suits)	2021-01-04 — 19:37:58 UTC	ChristopheAF, HelanaAshryvr, IsabeltheCat, Lanvin	22	6	30
 392585	5	0	Rainbow & Pink (6 Suits)	2021-01-04 — 19:28:27 UTC	ChristopheAF, HelanaAshryvr, IsabeltheCat, Lanvin, nkkarpov	10	6	30
 392579	3	29	Dark Prism (6 Suits)	2021-01-04 — 19:14:30 UTC	ChristopheAF, HelanaAshryvr, sephiroth	3	6	30
 392564	3	29	Dark Prism (6 Suits)	2021-01-04 — 18:45:27 UTC	ChristopheAF, HelanaAshryvr, sephiroth	5	6	30
-392542	4	24	No Variant	2021-01-04 — 17:18:08 UTC	banjoleb, ChristopheAF, Pimak, tezeteta	167	5	25
+392542	4	24	No Variant	2021-01-04 — 17:18:08 UTC	banjoleb, ChristopheAF, Pimak, tezeteta	169	5	25
 392527	5	24	No Variant	2021-01-04 — 16:45:37 UTC	ChristopheAF, HelanaAshryvr, Lanvin, Pimak, tezeteta	135	5	25
-392512	4	0	No Variant	2021-01-04 — 16:24:25 UTC	ChristopheAF, Lanvin, Pimak, tezeteta	180	5	25
+392512	4	0	No Variant	2021-01-04 — 16:24:25 UTC	ChristopheAF, Lanvin, Pimak, tezeteta	182	5	25
 392501	3	25	Light Pink (5 Suits)	2021-01-04 — 16:01:09 UTC	ChristopheAF, Lanvin, Pimak	40	5	25
-391916	3	30	Up or Down (6 Suits)	2021-01-04 — 00:24:43 UTC	ChristopheAF, HelanaAshryvr, ricardodd	34	6	30
-391892	3	29	Up or Down (6 Suits)	2021-01-03 — 23:54:19 UTC	ChristopheAF, HelanaAshryvr, ricardodd	41	6	30
-391708	5	24	No Variant	2021-01-03 — 21:10:05 UTC	ChristopheAF, Daryl, HelanaAshryvr, Spieler42, torp	109	5	25
-391673	5	0	No Variant	2021-01-03 — 20:39:41 UTC	ChristopheAF, Daryl, HelanaAshryvr, Spieler42, torp	126	5	25
-391646	3	25	No Variant	2021-01-03 — 20:04:54 UTC	ChristopheAF, Daryl, Spieler42	551	5	25
+391916	3	30	Up or Down (6 Suits)	2021-01-04 — 00:24:43 UTC	ChristopheAF, HelanaAshryvr, ricardodd	35	6	30
+391892	3	29	Up or Down (6 Suits)	2021-01-03 — 23:54:19 UTC	ChristopheAF, HelanaAshryvr, ricardodd	42	6	30
+391708	5	24	No Variant	2021-01-03 — 21:10:05 UTC	ChristopheAF, Daryl, HelanaAshryvr, Spieler42, torp	112	5	25
+391673	5	0	No Variant	2021-01-03 — 20:39:41 UTC	ChristopheAF, Daryl, HelanaAshryvr, Spieler42, torp	127	5	25
+391646	3	25	No Variant	2021-01-03 — 20:04:54 UTC	ChristopheAF, Daryl, Spieler42	558	5	25
 391584	3	30	Muddy Rainbow (6 Suits)	2021-01-03 — 18:57:28 UTC	ChristopheAF, HelanaAshryvr, jeff10	25	6	30
 391561	3	0	Muddy Rainbow (6 Suits)	2021-01-03 — 18:36:07 UTC	ChristopheAF, HelanaAshryvr, jeff10	37	6	30
 391459	4	0	Cocoa Rainbow & Gray Pink (6 Suits)	2021-01-03 — 15:11:22 UTC	ChristopheAF, hakha3, Lel0uch, Wittvector	1	6	30
@@ -1482,24 +1607,24 @@
 391443	5	0	Up or Down & Omni (6 Suits)	2021-01-03 — 14:20:04 UTC	ChristopheAF, frosty104, hakha3, Lel0uch, Wittvector	2	6	30
 391435	5	27	Up or Down & Omni (6 Suits)	2021-01-03 — 13:55:46 UTC	ChristopheAF, frosty104, hakha3, Lel0uch, Wittvector	2	6	30
 391426	4	0	Cocoa Rainbow & Gray Pink (6 Suits)	2021-01-03 — 13:35:32 UTC	ChristopheAF, frosty104, Lel0uch, Wittvector	1	6	30
-390428	3	30	Light Pink (6 Suits)	2021-01-02 — 18:32:09 UTC	ChristopheAF, hakha3, Lel0uch	34	6	30
-390413	3	0	Light Pink (6 Suits)	2021-01-02 — 18:14:18 UTC	ChristopheAF, hakha3, Lel0uch	38	6	30
+390428	3	30	Light Pink (6 Suits)	2021-01-02 — 18:32:09 UTC	ChristopheAF, hakha3, Lel0uch	37	6	30
+390413	3	0	Light Pink (6 Suits)	2021-01-02 — 18:14:18 UTC	ChristopheAF, hakha3, Lel0uch	40	6	30
 390401	4	29	Dual-Color (6 Suits)	2021-01-02 — 17:57:36 UTC	aquarelle, boba, ChristopheAF, Lel0uch	15	6	30
 390388	4	0	Dual-Color (6 Suits)	2021-01-02 — 17:33:47 UTC	aquarelle, boba, ChristopheAF, Lel0uch	24	6	30
 390379	4	30	Rainbow (6 Suits)	2021-01-02 — 17:13:23 UTC	boba, ChristopheAF, Etherealz, Lel0uch	44	6	30
-390353	3	30	Rainbow (6 Suits)	2021-01-02 — 16:44:38 UTC	boba, ChristopheAF, Etherealz	396	6	30
-389747	5	0	No Variant	2021-01-02 — 00:23:27 UTC	ChristopheAF, doctorabi, mitchocinco, socerman, Wittvector	1995	5	25
-389723	4	21	Gray (5 Suits)	2021-01-01 — 23:55:34 UTC	ChristopheAF, doctorabi, Sucubis, TheDaniMan	12	5	25
-389705	4	0	Gray (5 Suits)	2021-01-01 — 23:42:31 UTC	ChristopheAF, doctorabi, Sucubis, TheDaniMan	14	5	25
+390353	3	30	Rainbow (6 Suits)	2021-01-02 — 16:44:38 UTC	boba, ChristopheAF, Etherealz	404	6	30
+389747	5	0	No Variant	2021-01-02 — 00:23:27 UTC	ChristopheAF, doctorabi, mitchocinco, socerman, Wittvector	2011	5	25
+389723	4	21	Gray (5 Suits)	2021-01-01 — 23:55:34 UTC	ChristopheAF, doctorabi, Sucubis, TheDaniMan	14	5	25
+389705	4	0	Gray (5 Suits)	2021-01-01 — 23:42:31 UTC	ChristopheAF, doctorabi, Sucubis, TheDaniMan	16	5	25
 389687	4	25	Rainbow-Fives & Brown (5 Suits)	2021-01-01 — 23:25:19 UTC	ChristopheAF, doctorabi, StKildaFan, TheDaniMan	1	5	25
-389664	2	0	No Variant	2021-01-01 — 23:01:49 UTC	ChristopheAF, StKildaFan	90	5	25
+389664	2	0	No Variant	2021-01-01 — 23:01:49 UTC	ChristopheAF, StKildaFan	91	5	25
 389415	6	17	Rainbow (4 Suits)	2021-01-01 — 17:37:11 UTC	ChristopheAF, doctorabi, knaphill, Lanvin, MangoPie, sephiroth	6	4	20
 389386	4	25	Light Pink (5 Suits)	2021-01-01 — 16:50:30 UTC	aquarelle, ChristopheAF, rz, zeinab001	20	5	25
 389358	5	28	Rainbow (6 Suits)	2021-01-01 — 15:50:09 UTC	ChristopheAF, katian, Lel0uch, skyblueexo, Wittvector	83	6	30
-389339	5	22	No Variant	2021-01-01 — 15:14:44 UTC	ChristopheAF, katian, Lel0uch, skyblueexo, Wittvector	541	5	25
-388518	4	0	No Variant	2020-12-31 — 22:30:38 UTC	ChristopheAF, Kernel, Olipod, XMIL	43	5	25
-388471	3	0	No Variant	2020-12-31 — 21:48:17 UTC	ChristopheAF, knaphill, voss	68	5	25
-388446	3	0	No Variant	2020-12-31 — 21:21:43 UTC	ChristopheAF, knaphill, voss	71	5	25
+389339	5	22	No Variant	2021-01-01 — 15:14:44 UTC	ChristopheAF, katian, Lel0uch, skyblueexo, Wittvector	546	5	25
+388518	4	0	No Variant	2020-12-31 — 22:30:38 UTC	ChristopheAF, Kernel, Olipod, XMIL	44	5	25
+388471	3	0	No Variant	2020-12-31 — 21:48:17 UTC	ChristopheAF, knaphill, voss	72	5	25
+388446	3	0	No Variant	2020-12-31 — 21:21:43 UTC	ChristopheAF, knaphill, voss	74	5	25
 388348	4	20	Pink & White (4 Suits)	2020-12-31 — 19:25:53 UTC	ChristopheAF, hakha3, Lel0uch, MarkusKahlsen	6	4	20
 388329	4	19	Pink & White (4 Suits)	2020-12-31 — 18:52:43 UTC	ChristopheAF, hakha3, Lel0uch, MarkusKahlsen	6	4	20
 388316	4	24	Black & White (5 Suits)	2020-12-31 — 18:30:14 UTC	ChristopheAF, Lel0uch, sephiroth, sin_faith	7	5	25
@@ -1509,8 +1634,8 @@
 388250	5	0	Brown & Gray Pink (6 Suits)	2020-12-31 — 16:43:24 UTC	ChristopheAF, Fey, Kyle, sin_faith, TimeHoodie	1	6	30
 388239	5	29	Brown & Gray Pink (6 Suits)	2020-12-31 — 16:20:56 UTC	ChristopheAF, Fey, Kyle, sin_faith, TimeHoodie	1	6	30
 388222	5	25	Light Pink (5 Suits)	2020-12-31 — 15:59:46 UTC	ChristopheAF, Fey, Kyle, sin_faith, TimeHoodie	6	5	25
-387595	3	20	Brown (4 Suits)	2020-12-30 — 22:46:59 UTC	ChristopheAF, Onen, sephiroth	9	4	20
-387581	4	29	Dark Pink (6 Suits)	2020-12-30 — 22:23:55 UTC	ChristopheAF, Floriman, frosty104, Lel0uch	11	6	30
+387595	3	20	Brown (4 Suits)	2020-12-30 — 22:46:59 UTC	ChristopheAF, Onen, sephiroth	10	4	20
+387581	4	29	Dark Pink (6 Suits)	2020-12-30 — 22:23:55 UTC	ChristopheAF, Floriman, frosty104, Lel0uch	12	6	30
 387504	6	30	6 Suits	2020-12-30 — 21:09:04 UTC	aquarelle, ChristopheAF, HelanaAshryvr, Onen, rz, sheamol	12	6	30
 387478	6	0	6 Suits	2020-12-30 — 20:40:28 UTC	aquarelle, ChristopheAF, HelanaAshryvr, Onen, rz, sheamol	19	6	30
 387450	4	0	Rainbow-Fives (5 Suits)	2020-12-30 — 20:17:09 UTC	aquarelle, ChristopheAF, rz, sheamol	11	5	25
@@ -1521,7 +1646,7 @@
 387285	5	29	Dark Prism (6 Suits)	2020-12-30 — 16:24:15 UTC	ChristopheAF, Fey, frosty104, Lel0uch, sin_faith	9	6	30
 387275	6	22	No Variant	2020-12-30 — 15:54:04 UTC	ChristopheAF, frosty104, kinkajusrevenge, Lel0uch, macanek, tezeteta	52	5	25
 386607	4	16	Brown (4 Suits)	2020-12-29 — 23:26:38 UTC	ChristopheAF, Doge, jeff10, Wittvector	4	4	20
-386586	4	0	Brown (4 Suits)	2020-12-29 — 23:08:06 UTC	ChristopheAF, Doge, jeff10, Wittvector	7	4	20
+386586	4	0	Brown (4 Suits)	2020-12-29 — 23:08:06 UTC	ChristopheAF, Doge, jeff10, Wittvector	8	4	20
 386559	4	19	Brown (4 Suits)	2020-12-29 — 22:48:37 UTC	ChristopheAF, Doge, jeff10, Wittvector	7	4	20
 386517	5	30	Pink & Prism (6 Suits)	2020-12-29 — 22:07:12 UTC	ChristopheAF, doctorabi, Floriman, frosty104, TimeHoodie	3	6	30
 386478	5	29	Pink & Prism (6 Suits)	2020-12-29 — 21:30:58 UTC	ChristopheAF, doctorabi, Floriman, frosty104, TimeHoodie	3	6	30
@@ -1530,16 +1655,16 @@
 386145	5	0	Rainbow & Prism (4 Suits)	2020-12-29 — 14:19:13 UTC	ChristopheAF, frosty104, indego, jack67889, Lel0uch	3	4	20
 386125	5	18	Rainbow & Prism (4 Suits)	2020-12-29 — 13:55:30 UTC	ChristopheAF, frosty104, indego, jack67889, Lel0uch	3	4	20
 386106	5	25	White (5 Suits)	2020-12-29 — 13:25:11 UTC	ChristopheAF, frosty104, indego, jack67889, Lel0uch	11	5	25
-386070	4	0	White (5 Suits)	2020-12-29 — 12:52:07 UTC	ChristopheAF, indego, jack67889, Lel0uch	79	5	25
+386070	4	0	White (5 Suits)	2020-12-29 — 12:52:07 UTC	ChristopheAF, indego, jack67889, Lel0uch	80	5	25
 386060	4	25	Up or Down & Muddy Rainbow (5 Suits)	2020-12-29 — 12:30:31 UTC	ChristopheAF, frosty104, Lel0uch, Sucubis	1	5	25
 386056	4	24	Up or Down & Muddy Rainbow (5 Suits)	2020-12-29 — 12:07:37 UTC	ChristopheAF, frosty104, Lel0uch, Sucubis	1	5	25
 386049	4	0	Up or Down & Muddy Rainbow (5 Suits)	2020-12-29 — 11:50:19 UTC	ChristopheAF, frosty104, Lel0uch, Sucubis	1	5	25
 386046	4	0	Up or Down & Muddy Rainbow (5 Suits)	2020-12-29 — 11:43:22 UTC	ChristopheAF, frosty104, Lel0uch, Sucubis	7	5	25
-385374	6	30	Rainbow (6 Suits)	2020-12-28 — 22:07:11 UTC	ChristopheAF, doctorabi, eljavi, frosty104, HelanaAshryvr, orucsoraihc	19	6	30
+385374	6	30	Rainbow (6 Suits)	2020-12-28 — 22:07:11 UTC	ChristopheAF, doctorabi, eljavi, frosty104, HelanaAshryvr, orucsoraihc	20	6	30
 385341	6	25	No Variant	2020-12-28 — 21:27:36 UTC	ChristopheAF, frosty104, MangoPie, robense, sephiroth, VerySloppyTwo	36	5	25
 385274	4	22	Prism (5 Suits)	2020-12-28 — 20:30:59 UTC	ChristopheAF, frosty104, MarcLovesDogs, TimeHoodie	20	5	25
 385245	4	25	Up or Down (5 Suits)	2020-12-28 — 20:06:16 UTC	ChristopheAF, frosty104, Lel0uch, TimeHoodie	75	5	25
-385214	3	28	Gray (6 Suits)	2020-12-28 — 19:37:20 UTC	aquarelle, ChristopheAF, Lel0uch	55	6	30
+385214	3	28	Gray (6 Suits)	2020-12-28 — 19:37:20 UTC	aquarelle, ChristopheAF, Lel0uch	57	6	30
 385079	3	25	Pink & Brown (5 Suits)	2020-12-28 — 16:45:25 UTC	ChristopheAF, frosty104, Lel0uch	22	5	25
 385073	3	0	Pink & Brown (5 Suits)	2020-12-28 — 16:25:23 UTC	ChristopheAF, frosty104, Lel0uch	20	5	25
 385062	3	25	Null (5 Suits)	2020-12-28 — 16:07:06 UTC	ChristopheAF, frosty104, Lel0uch	27	5	25
@@ -1548,11 +1673,11 @@
 385021	5	25	Dual-Color (5 Suits)	2020-12-28 — 15:11:35 UTC	ChristopheAF, Lel0uch, orucsoraihc, Pablo-, sin_faith	2	5	25
 384998	5	23	Dual-Color (5 Suits)	2020-12-28 — 14:34:30 UTC	boba, ChristopheAF, Lel0uch, Pablo-, sin_faith	2	5	25
 384480	4	25	Omni (5 Suits)	2020-12-28 — 01:39:35 UTC	ChristopheAF, ksfortson, orucsoraihc, wump	24	5	25
-384454	3	0	Pink & White (4 Suits)	2020-12-28 — 01:07:48 UTC	ChristopheAF, plus, wump	9	4	20
-384437	3	18	Pink & White (4 Suits)	2020-12-28 — 00:50:26 UTC	ChristopheAF, plus, wump	13	4	20
+384454	3	0	Pink & White (4 Suits)	2020-12-28 — 01:07:48 UTC	ChristopheAF, plus, wump	10	4	20
+384437	3	18	Pink & White (4 Suits)	2020-12-28 — 00:50:26 UTC	ChristopheAF, plus, wump	14	4	20
 384074	3	25	Reversed (5 Suits)	2020-12-27 — 19:28:01 UTC	ChristopheAF, Fey, Lanvin	2	5	25
 384046	4	23	Rainbow (5 Suits)	2020-12-27 — 19:04:51 UTC	ChristopheAF, Kernel, moeski, wavychips	63	5	25
-384010	3	20	Black & Rainbow (5 Suits)	2020-12-27 — 18:23:54 UTC	ChristopheAF, doctorabi, jeff10	27	5	25
+384010	3	20	Black & Rainbow (5 Suits)	2020-12-27 — 18:23:54 UTC	ChristopheAF, doctorabi, jeff10	28	5	25
 383091	5	25	Pink (5 Suits)	2020-12-26 — 21:52:21 UTC	ChristopheAF, doctorabi, jack67889, Lanvin, macanek	9	5	25
 383066	5	0	Pink (5 Suits)	2020-12-26 — 21:32:59 UTC	ChristopheAF, doctorabi, jack67889, Lanvin, macanek	10	5	25
 383042	6	0	Pink (5 Suits)	2020-12-26 — 21:15:55 UTC	ChristopheAF, doctorabi, jack67889, Lanvin, macanek, StKildaFan	2	5	25
@@ -1562,21 +1687,21 @@
 382790	4	22	Dark Omni (5 Suits)	2020-12-26 — 16:30:05 UTC	boba, ChristopheAF, colton, Lel0uch	15	5	25
 382782	3	30	Omni (6 Suits)	2020-12-26 — 16:06:38 UTC	ChristopheAF, colton, Lel0uch	17	6	30
 382773	5	0	Dark Rainbow (6 Suits)	2020-12-26 — 15:30:44 UTC	ChristopheAF, frosty104, Lanvin, Livia, sephiroth	7	6	30
-382758	3	0	White (6 Suits)	2020-12-26 — 14:57:29 UTC	ChristopheAF, Lanvin, Onen	20	6	30
+382758	3	0	White (6 Suits)	2020-12-26 — 14:57:29 UTC	ChristopheAF, Lanvin, Onen	21	6	30
 382753	3	0	White (6 Suits)	2020-12-26 — 14:42:08 UTC	ChristopheAF, Lanvin, Onen	27	6	30
 382146	3	25	Omni (5 Suits)	2020-12-26 — 00:45:17 UTC	ChristopheAF, Hoodie, Wittvector	31	5	25
 382122	3	0	Omni (5 Suits)	2020-12-26 — 00:16:20 UTC	ChristopheAF, Hoodie, Wittvector	50	5	25
 382091	4	25	Black (5 Suits)	2020-12-25 — 23:43:30 UTC	ChristopheAF, doctorabi, HelanaAshryvr, Wittvector	23	5	25
-382059	3	29	Black (6 Suits)	2020-12-25 — 23:05:41 UTC	aquarelle, ChristopheAF, doctorabi	325	6	30
+382059	3	29	Black (6 Suits)	2020-12-25 — 23:05:41 UTC	aquarelle, ChristopheAF, doctorabi	332	6	30
 382037	3	25	Prism (5 Suits)	2020-12-25 — 22:36:41 UTC	ChristopheAF, eljavi, Feich59	19	5	25
 381948	5	20	Dark Rainbow (5 Suits)	2020-12-25 — 20:33:03 UTC	ChristopheAF, hakha3, Kyle, Livia, sin_faith	9	5	25
 381937	3	23	Dark Rainbow Reversed (5 Suits)	2020-12-25 — 20:14:10 UTC	ChristopheAF, hakha3, Livia	4	5	25
 381927	3	0	Dark Rainbow Reversed (5 Suits)	2020-12-25 — 19:57:48 UTC	ChristopheAF, hakha3, Livia	4	5	25
-381867	4	27	White (6 Suits)	2020-12-25 — 17:52:52 UTC	banjoleb, ChristopheAF, indego, Lanvin	60	6	30
+381867	4	27	White (6 Suits)	2020-12-25 — 17:52:52 UTC	banjoleb, ChristopheAF, indego, Lanvin	62	6	30
 381848	3	24	Dark Omni (5 Suits)	2020-12-25 — 17:14:00 UTC	ChristopheAF, jeff10, Lel0uch	16	5	25
-381839	3	0	White (3 Suits)	2020-12-25 — 17:03:17 UTC	aquarelle, ChristopheAF, Lel0uch	30	3	15
-381829	3	11	White (3 Suits)	2020-12-25 — 16:54:57 UTC	ChristopheAF, deadshot, Lel0uch	45	3	15
-381817	4	0	White (6 Suits)	2020-12-25 — 16:28:35 UTC	ChristopheAF, colton, Div, witcher	75	6	30
+381839	3	0	White (3 Suits)	2020-12-25 — 17:03:17 UTC	aquarelle, ChristopheAF, Lel0uch	31	3	15
+381829	3	11	White (3 Suits)	2020-12-25 — 16:54:57 UTC	ChristopheAF, deadshot, Lel0uch	49	3	15
+381817	4	0	White (6 Suits)	2020-12-25 — 16:28:35 UTC	ChristopheAF, colton, Div, witcher	76	6	30
 381803	3	0	White (6 Suits)	2020-12-25 — 16:09:44 UTC	ChristopheAF, colton, witcher	33	6	30
 381797	3	26	White (6 Suits)	2020-12-25 — 15:58:07 UTC	ChristopheAF, colton, witcher	37	6	30
 380953	6	0	Null (5 Suits)	2020-12-24 — 18:01:23 UTC	ChristopheAF, duckington, jeff10, Lel0uch, plus, rz	1	5	25
@@ -1584,38 +1709,38 @@
 380925	5	0	Dark Null (5 Suits)	2020-12-24 — 17:18:41 UTC	ChristopheAF, frosty104, HelanaAshryvr, Lel0uch, melwen	2	5	25
 380920	3	22	Dark Null (5 Suits)	2020-12-24 — 17:03:14 UTC	ChristopheAF, HelanaAshryvr, melwen	11	5	25
 380913	3	0	Dark Null (5 Suits)	2020-12-24 — 16:49:11 UTC	ChristopheAF, HelanaAshryvr, melwen	13	5	25
-380900	3	30	Rainbow (6 Suits)	2020-12-24 — 16:22:06 UTC	ChristopheAF, kinkajusrevenge, methmatics	282	6	30
-380073	4	25	No Variant	2020-12-23 — 20:17:31 UTC	ChristopheAF, Daryl, Kernel, macanek	655	5	25
+380900	3	30	Rainbow (6 Suits)	2020-12-24 — 16:22:06 UTC	ChristopheAF, kinkajusrevenge, methmatics	284	6	30
+380073	4	25	No Variant	2020-12-23 — 20:17:31 UTC	ChristopheAF, Daryl, Kernel, macanek	660	5	25
 380058	4	25	White (5 Suits)	2020-12-23 — 19:50:43 UTC	ChristopheAF, Daryl, Lanvin, macanek	60	5	25
-379972	3	30	Pink & Prism (6 Suits)	2020-12-23 — 18:10:58 UTC	ChristopheAF, Lel0uch, orucsoraihc	11	6	30
+379972	3	30	Pink & Prism (6 Suits)	2020-12-23 — 18:10:58 UTC	ChristopheAF, Lel0uch, orucsoraihc	12	6	30
 379943	4	30	Rainbow & Brown (6 Suits)	2020-12-23 — 17:40:10 UTC	ChristopheAF, Fey, kimbifille, Lel0uch	7	6	30
-379935	4	0	Rainbow & Brown (6 Suits)	2020-12-23 — 17:25:21 UTC	ChristopheAF, Fey, kimbifille, Lel0uch	11	6	30
-379926	4	0	Rainbow & Brown (6 Suits)	2020-12-23 — 17:15:46 UTC	ChristopheAF, Fey, kimbifille, Lel0uch	12	6	30
+379935	4	0	Rainbow & Brown (6 Suits)	2020-12-23 — 17:25:21 UTC	ChristopheAF, Fey, kimbifille, Lel0uch	12	6	30
+379926	4	0	Rainbow & Brown (6 Suits)	2020-12-23 — 17:15:46 UTC	ChristopheAF, Fey, kimbifille, Lel0uch	13	6	30
 379921	4	0	Rainbow & Brown (6 Suits)	2020-12-23 — 17:03:33 UTC	ChristopheAF, Fey, kimbifille, Lel0uch	14	6	30
-379910	4	30	Black (6 Suits)	2020-12-23 — 16:30:07 UTC	ChristopheAF, colton, katian, Lanvin	121	6	30
-379890	4	28	Black (6 Suits)	2020-12-23 — 15:47:54 UTC	ChristopheAF, colton, katian, Lanvin	128	6	30
-379875	4	27	Black (6 Suits)	2020-12-23 — 15:14:08 UTC	ChristopheAF, colton, katian, Lanvin	142	6	30
-379865	3	0	Reversed (5 Suits)	2020-12-23 — 14:42:21 UTC	ChristopheAF, colton, Lanvin	35	5	25
-379858	3	0	White (6 Suits)	2020-12-23 — 14:32:37 UTC	ChristopheAF, katian, skyblueexo	101	6	30
+379910	4	30	Black (6 Suits)	2020-12-23 — 16:30:07 UTC	ChristopheAF, colton, katian, Lanvin	123	6	30
+379890	4	28	Black (6 Suits)	2020-12-23 — 15:47:54 UTC	ChristopheAF, colton, katian, Lanvin	129	6	30
+379875	4	27	Black (6 Suits)	2020-12-23 — 15:14:08 UTC	ChristopheAF, colton, katian, Lanvin	143	6	30
+379865	3	0	Reversed (5 Suits)	2020-12-23 — 14:42:21 UTC	ChristopheAF, colton, Lanvin	36	5	25
+379858	3	0	White (6 Suits)	2020-12-23 — 14:32:37 UTC	ChristopheAF, katian, skyblueexo	103	6	30
 379150	5	30	Brown (6 Suits)	2020-12-22 — 22:10:47 UTC	ChristopheAF, ejwu, HelanaAshryvr, Jake_Stiles, macanek	8	6	30
 379096	5	29	Brown (6 Suits)	2020-12-22 — 21:24:18 UTC	ChristopheAF, ejwu, Hoodie, Jake_Stiles, macanek	16	6	30
 379018	5	30	Omni (6 Suits)	2020-12-22 — 20:21:39 UTC	ChristopheAF, Div, doctorabi, newduke, postmans	9	6	30
 378993	3	20	Prism (4 Suits)	2020-12-22 — 19:48:11 UTC	ChristopheAF, Div, postmans	27	4	20
-378938	4	24	Rainbow (5 Suits)	2020-12-22 — 17:48:02 UTC	Alix_Eisenhardt, ChristopheAF, Kernel, Padouga	68	5	25
-378850	2	25	Rainbow (5 Suits)	2020-12-22 — 15:08:18 UTC	boba, ChristopheAF	129	5	25
-378840	2	0	Rainbow (5 Suits)	2020-12-22 — 14:53:52 UTC	boba, ChristopheAF	154	5	25
-378179	3	25	White (5 Suits)	2020-12-22 — 00:21:40 UTC	ChristopheAF, kinkajusrevenge, Lanvin	81	5	25
-378157	5	28	6 Suits	2020-12-21 — 23:45:35 UTC	aquarelle, BlueNovember, ChristopheAF, Lanvin, nordli	132	6	30
+378938	4	24	Rainbow (5 Suits)	2020-12-22 — 17:48:02 UTC	Alix_Eisenhardt, ChristopheAF, Kernel, Padouga	70	5	25
+378850	2	25	Rainbow (5 Suits)	2020-12-22 — 15:08:18 UTC	boba, ChristopheAF	134	5	25
+378840	2	0	Rainbow (5 Suits)	2020-12-22 — 14:53:52 UTC	boba, ChristopheAF	159	5	25
+378179	3	25	White (5 Suits)	2020-12-22 — 00:21:40 UTC	ChristopheAF, kinkajusrevenge, Lanvin	84	5	25
+378157	5	28	6 Suits	2020-12-21 — 23:45:35 UTC	aquarelle, BlueNovember, ChristopheAF, Lanvin, nordli	133	6	30
 378129	6	28	6 Suits	2020-12-21 — 23:10:20 UTC	aquarelle, BlueNovember, ChristopheAF, Lanvin, nordli, rz	20	6	30
-378093	5	0	No Variant	2020-12-21 — 22:14:20 UTC	aquarelle, asunakir98, BlueNovember, ChristopheAF, Lanvin	296	5	25
-378073	3	30	Prism (6 Suits)	2020-12-21 — 21:55:40 UTC	BlueNovember, ChristopheAF, frosty104	60	6	30
+378093	5	0	No Variant	2020-12-21 — 22:14:20 UTC	aquarelle, asunakir98, BlueNovember, ChristopheAF, Lanvin	302	5	25
+378073	3	30	Prism (6 Suits)	2020-12-21 — 21:55:40 UTC	BlueNovember, ChristopheAF, frosty104	61	6	30
 378056	3	19	Omni (4 Suits)	2020-12-21 — 21:33:22 UTC	ChristopheAF, frosty104, zeinab001	21	4	20
-378037	3	19	Omni (4 Suits)	2020-12-21 — 21:10:05 UTC	ChristopheAF, frosty104, zeinab001	29	4	20
-378015	3	25	Pink (5 Suits)	2020-12-21 — 20:42:51 UTC	ChristopheAF, frosty104, kevincaseytdk1	43	5	25
+378037	3	19	Omni (4 Suits)	2020-12-21 — 21:10:05 UTC	ChristopheAF, frosty104, zeinab001	30	4	20
+378015	3	25	Pink (5 Suits)	2020-12-21 — 20:42:51 UTC	ChristopheAF, frosty104, kevincaseytdk1	44	5	25
 377988	5	0	Up or Down & Rainbow (6 Suits)	2020-12-21 — 20:12:22 UTC	ChristopheAF, doctorabi, frosty104, Lanvin, rz	6	6	30
 377958	5	0	Up or Down & Rainbow (6 Suits)	2020-12-21 — 19:47:06 UTC	ChristopheAF, doctorabi, frosty104, Lanvin, rz	5	6	30
-377930	3	23	Black & Rainbow (5 Suits)	2020-12-21 — 19:11:17 UTC	ChristopheAF, doctorabi, kinkajusrevenge	46	5	25
-377912	3	0	Rainbow (6 Suits)	2020-12-21 — 18:48:55 UTC	ChristopheAF, kinkajusrevenge, PMP	508	6	30
+377930	3	23	Black & Rainbow (5 Suits)	2020-12-21 — 19:11:17 UTC	ChristopheAF, doctorabi, kinkajusrevenge	47	5	25
+377912	3	0	Rainbow (6 Suits)	2020-12-21 — 18:48:55 UTC	ChristopheAF, kinkajusrevenge, PMP	514	6	30
 377900	4	20	White Reversed (4 Suits)	2020-12-21 — 18:34:08 UTC	ChristopheAF, Kyle, Lel0uch, plus	2	4	20
 377897	4	0	White Reversed (4 Suits)	2020-12-21 — 18:23:48 UTC	ChristopheAF, Kyle, Lel0uch, plus	2	4	20
 377851	4	30	Muddy Rainbow (6 Suits)	2020-12-21 — 17:11:56 UTC	ChristopheAF, IAMJEFF, Lel0uch, TimeHoodie	6	6	30
@@ -1625,21 +1750,21 @@
 377808	4	22	Rainbow & Gray (5 Suits)	2020-12-21 — 15:32:14 UTC	ChristopheAF, Lel0uch, MarkusKahlsen, swineherd	9	5	25
 377802	3	0	Rainbow & Gray (5 Suits)	2020-12-21 — 15:13:42 UTC	ChristopheAF, Lel0uch, MarkusKahlsen	5	5	25
 377184	5	29	Light Pink (6 Suits)	2020-12-20 — 23:04:36 UTC	boba, ChristopheAF, Floriman, Lanvin, Wittvector	11	6	30
-377142	3	29	Black (6 Suits)	2020-12-20 — 22:26:42 UTC	boba, ChristopheAF, Lanvin	399	6	30
-376865	3	27	Black & Rainbow (6 Suits)	2020-12-20 — 17:56:55 UTC	ChristopheAF, Fey, Lel0uch	36	6	30
-376860	3	0	Black & Rainbow (6 Suits)	2020-12-20 — 17:36:51 UTC	ChristopheAF, Fey, Lel0uch	42	6	30
+377142	3	29	Black (6 Suits)	2020-12-20 — 22:26:42 UTC	boba, ChristopheAF, Lanvin	407	6	30
+376865	3	27	Black & Rainbow (6 Suits)	2020-12-20 — 17:56:55 UTC	ChristopheAF, Fey, Lel0uch	38	6	30
+376860	3	0	Black & Rainbow (6 Suits)	2020-12-20 — 17:36:51 UTC	ChristopheAF, Fey, Lel0uch	44	6	30
 376854	3	29	Black & Rainbow (6 Suits)	2020-12-20 — 17:22:35 UTC	ChristopheAF, Fey, Lel0uch	51	6	30
-376847	4	27	Dark Pink (6 Suits)	2020-12-20 — 16:59:01 UTC	ChristopheAF, Fey, Lel0uch, Onen	14	6	30
-376828	4	0	Rainbow (6 Suits)	2020-12-20 — 16:10:11 UTC	ADrone, ChristopheAF, Daryl, kinkajusrevenge	344	6	30
-376801	4	0	Rainbow (6 Suits)	2020-12-20 — 15:02:18 UTC	ADrone, ChristopheAF, Daryl, kinkajusrevenge	493	6	30
-376166	5	30	White (6 Suits)	2020-12-19 — 23:40:41 UTC	ChristopheAF, HelanaAshryvr, Lanvin, rachyrules, voss	14	6	30
-376155	5	0	White (6 Suits)	2020-12-19 — 23:18:44 UTC	ChristopheAF, HelanaAshryvr, Lanvin, rachyrules, voss	17	6	30
+376847	4	27	Dark Pink (6 Suits)	2020-12-20 — 16:59:01 UTC	ChristopheAF, Fey, Lel0uch, Onen	15	6	30
+376828	4	0	Rainbow (6 Suits)	2020-12-20 — 16:10:11 UTC	ADrone, ChristopheAF, Daryl, kinkajusrevenge	349	6	30
+376801	4	0	Rainbow (6 Suits)	2020-12-20 — 15:02:18 UTC	ADrone, ChristopheAF, Daryl, kinkajusrevenge	497	6	30
+376166	5	30	White (6 Suits)	2020-12-19 — 23:40:41 UTC	ChristopheAF, HelanaAshryvr, Lanvin, rachyrules, voss	16	6	30
+376155	5	0	White (6 Suits)	2020-12-19 — 23:18:44 UTC	ChristopheAF, HelanaAshryvr, Lanvin, rachyrules, voss	18	6	30
 375858	6	0	White & Light Pink (5 Suits)	2020-12-19 — 18:41:30 UTC	ChristopheAF, colton, Div, esakach, jeff10, Lel0uch	2	5	25
 375832	6	24	White & Light Pink (5 Suits)	2020-12-19 — 18:10:18 UTC	ChristopheAF, colton, Div, jeff10, Lel0uch, sephiroth	2	5	25
 375811	6	30	White (6 Suits)	2020-12-19 — 17:30:55 UTC	ChristopheAF, colton, Lanvin, Lel0uch, postmans, rz	5	6	30
 375793	5	23	White (5 Suits)	2020-12-19 — 16:44:16 UTC	ChristopheAF, colton, Lel0uch, postmans, rz	26	5	25
 375790	5	30	White & Prism (6 Suits)	2020-12-19 — 16:24:22 UTC	ChristopheAF, colton, Lel0uch, robense, rz	3	6	30
-375098	3	25	No Variant	2020-12-18 — 23:18:40 UTC	ChristopheAF, hakha3, Spieler42	645	5	25
+375098	3	25	No Variant	2020-12-18 — 23:18:40 UTC	ChristopheAF, hakha3, Spieler42	655	5	25
 374822	3	30	Brown (6 Suits)	2020-12-18 — 17:53:13 UTC	boba, ChristopheAF, Lel0uch	11	6	30
 374805	3	0	Brown (6 Suits)	2020-12-18 — 17:28:43 UTC	boba, ChristopheAF, Lel0uch	11	6	30
 374794	3	0	Brown (6 Suits)	2020-12-18 — 17:09:53 UTC	ChristopheAF, Lanvin, Lel0uch	18	6	30
@@ -1649,23 +1774,23 @@
 374113	5	0	Null (5 Suits)	2020-12-17 — 23:31:31 UTC	ChristopheAF, doctorabi, frosty104, kevincaseytdk1, rachyrules	6	5	25
 374079	5	17	Light Pink (4 Suits)	2020-12-17 — 22:38:54 UTC	ChristopheAF, Floriman, Kyle, Lanvin, zeinab001	4	4	20
 374015	6	29	Brown (6 Suits)	2020-12-17 — 21:56:21 UTC	ChristopheAF, doctorabi, Floriman, HelanaAshryvr, sephiroth, VerySloppyTwo	5	6	30
-373960	4	29	Black (6 Suits)	2020-12-17 — 21:18:00 UTC	bjnh, ChristopheAF, rachyrules, vEnhance	213	6	30
-373941	4	25	Null (5 Suits)	2020-12-17 — 20:49:10 UTC	ChristopheAF, HelanaAshryvr, kevincaseytdk1, plus	7	5	25
+373960	4	29	Black (6 Suits)	2020-12-17 — 21:18:00 UTC	bjnh, ChristopheAF, rachyrules, vEnhance	215	6	30
+373941	4	25	Null (5 Suits)	2020-12-17 — 20:49:10 UTC	ChristopheAF, HelanaAshryvr, kevincaseytdk1, plus	8	5	25
 373902	4	0	Null (5 Suits)	2020-12-17 — 20:15:49 UTC	ChristopheAF, HelanaAshryvr, kevincaseytdk1, plus	8	5	25
 373875	3	30	Null (6 Suits)	2020-12-17 — 19:47:49 UTC	ChristopheAF, HelanaAshryvr, kevincaseytdk1	5	6	30
 373864	3	0	Null (6 Suits)	2020-12-17 — 19:26:38 UTC	ChristopheAF, HelanaAshryvr, kevincaseytdk1	5	6	30
 373851	3	30	Null (6 Suits)	2020-12-17 — 19:06:05 UTC	ChristopheAF, HelanaAshryvr, kevincaseytdk1	7	6	30
-373842	4	25	Brown (5 Suits)	2020-12-17 — 18:36:14 UTC	ChristopheAF, HelanaAshryvr, Lel0uch, Onen	27	5	25
-373835	3	20	4 Suits	2020-12-17 — 18:10:51 UTC	ChristopheAF, eljavi, Onen	59	4	20
-373766	4	15	Rainbow (3 Suits)	2020-12-17 — 15:38:48 UTC	ChristopheAF, GemmyBean, hakha3, Lanvin	24	3	15
+373842	4	25	Brown (5 Suits)	2020-12-17 — 18:36:14 UTC	ChristopheAF, HelanaAshryvr, Lel0uch, Onen	28	5	25
+373835	3	20	4 Suits	2020-12-17 — 18:10:51 UTC	ChristopheAF, eljavi, Onen	60	4	20
+373766	4	15	Rainbow (3 Suits)	2020-12-17 — 15:38:48 UTC	ChristopheAF, GemmyBean, hakha3, Lanvin	25	3	15
 373762	5	17	Rainbow (4 Suits)	2020-12-17 — 15:14:55 UTC	ChristopheAF, Div, GemmyBean, hakha3, Lanvin	10	4	20
 373758	5	19	Rainbow (4 Suits)	2020-12-17 — 14:53:11 UTC	ChristopheAF, Div, GemmyBean, hakha3, Lanvin	11	4	20
 373086	3	0	Brown (6 Suits)	2020-12-16 — 20:52:40 UTC	ChristopheAF, HelanaAshryvr, ricardodd	17	6	30
 373055	3	0	Brown (6 Suits)	2020-12-16 — 20:34:49 UTC	ChristopheAF, HelanaAshryvr, ricardodd	21	6	30
 373016	3	0	Brown (6 Suits)	2020-12-16 — 20:21:35 UTC	ChristopheAF, HelanaAshryvr, ricardodd	22	6	30
-373005	3	0	Brown (6 Suits)	2020-12-16 — 20:15:11 UTC	ChristopheAF, HelanaAshryvr, ricardodd	25	6	30
+373005	3	0	Brown (6 Suits)	2020-12-16 — 20:15:11 UTC	ChristopheAF, HelanaAshryvr, ricardodd	26	6	30
 372990	3	27	Brown (6 Suits)	2020-12-16 — 20:05:06 UTC	ChristopheAF, HelanaAshryvr, ricardodd	61	6	30
-372971	3	25	Brown (5 Suits)	2020-12-16 — 19:41:58 UTC	ChristopheAF, HelanaAshryvr, ricardodd	63	5	25
+372971	3	25	Brown (5 Suits)	2020-12-16 — 19:41:58 UTC	ChristopheAF, HelanaAshryvr, ricardodd	65	5	25
 372953	3	0	Brown (6 Suits)	2020-12-16 — 18:56:36 UTC	ChristopheAF, Lel0uch, postmans	84	6	30
 372939	5	0	Brown (6 Suits)	2020-12-16 — 18:41:26 UTC	ChristopheAF, doctorabi, Fey, Lel0uch, postmans	21	6	30
 372933	5	0	Dual-Color (5 Suits)	2020-12-16 — 18:30:54 UTC	ChristopheAF, HelanaAshryvr, jeff10, Lel0uch, sin_faith	2	5	25
@@ -1676,209 +1801,209 @@
 372858	6	0	Dual-Color (5 Suits)	2020-12-16 — 16:58:15 UTC	ChristopheAF, HelanaAshryvr, Lanvin, Lel0uch, lotem, sin_faith	4	5	25
 372845	4	0	Dual-Color (5 Suits)	2020-12-16 — 16:47:29 UTC	ChristopheAF, Lanvin, lotem, sin_faith	20	5	25
 372839	4	0	Dual-Color (5 Suits)	2020-12-16 — 16:40:23 UTC	ChristopheAF, Lanvin, lotem, sin_faith	31	5	25
-372176	4	30	6 Suits	2020-12-15 — 21:59:41 UTC	ChristopheAF, Daryl, eljavi, HelanaAshryvr	354	6	30
+372176	4	30	6 Suits	2020-12-15 — 21:59:41 UTC	ChristopheAF, Daryl, eljavi, HelanaAshryvr	359	6	30
 372159	5	0	6 Suits	2020-12-15 — 21:28:02 UTC	aquarelle, ChristopheAF, Daryl, eljavi, HelanaAshryvr	96	6	30
-372126	3	0	White (6 Suits)	2020-12-15 — 20:58:10 UTC	aquarelle, ChristopheAF, eljavi	124	6	30
+372126	3	0	White (6 Suits)	2020-12-15 — 20:58:10 UTC	aquarelle, ChristopheAF, eljavi	128	6	30
 372004	5	21	Black (5 Suits)	2020-12-15 — 18:40:21 UTC	ChristopheAF, Div, HelanaAshryvr, Lel0uch, sin_faith	10	5	25
 371998	4	23	Black (5 Suits)	2020-12-15 — 18:29:31 UTC	ChristopheAF, HelanaAshryvr, Lel0uch, sin_faith	24	5	25
 371991	4	24	Black (5 Suits)	2020-12-15 — 18:14:56 UTC	ChristopheAF, HelanaAshryvr, Lel0uch, sin_faith	32	5	25
 371983	5	24	Black (5 Suits)	2020-12-15 — 17:56:52 UTC	ChristopheAF, HelanaAshryvr, Lel0uch, ricardodd, sin_faith	9	5	25
 371978	5	0	Black (5 Suits)	2020-12-15 — 17:46:18 UTC	ChristopheAF, HelanaAshryvr, Lel0uch, ricardodd, sin_faith	8	5	25
-371969	5	25	No Variant	2020-12-15 — 17:19:35 UTC	ChristopheAF, hagawaga, HelanaAshryvr, jeff10, Lel0uch	1119	5	25
-371215	3	23	No Variant	2020-12-15 — 00:08:25 UTC	aquarelle, ChristopheAF, kinkajusrevenge	1174	5	25
-371195	3	24	No Variant	2020-12-14 — 23:40:29 UTC	aquarelle, ChristopheAF, kinkajusrevenge	1291	5	25
-371082	4	0	Brown (6 Suits)	2020-12-14 — 21:25:54 UTC	ChristopheAF, Fey, Lanvin, MarkusKahlsen	27	6	30
-371058	4	0	Brown (6 Suits)	2020-12-14 — 21:01:59 UTC	ChristopheAF, Fey, Lanvin, MarkusKahlsen	41	6	30
+371969	5	25	No Variant	2020-12-15 — 17:19:35 UTC	ChristopheAF, hagawaga, HelanaAshryvr, jeff10, Lel0uch	1125	5	25
+371215	3	23	No Variant	2020-12-15 — 00:08:25 UTC	aquarelle, ChristopheAF, kinkajusrevenge	1180	5	25
+371195	3	24	No Variant	2020-12-14 — 23:40:29 UTC	aquarelle, ChristopheAF, kinkajusrevenge	1299	5	25
+371082	4	0	Brown (6 Suits)	2020-12-14 — 21:25:54 UTC	ChristopheAF, Fey, Lanvin, MarkusKahlsen	28	6	30
+371058	4	0	Brown (6 Suits)	2020-12-14 — 21:01:59 UTC	ChristopheAF, Fey, Lanvin, MarkusKahlsen	42	6	30
 371034	4	0	Brown (5 Suits)	2020-12-14 — 20:47:00 UTC	ChristopheAF, Fey, Lanvin, MarkusKahlsen	7	5	25
-370993	5	0	White (6 Suits)	2020-12-14 — 20:08:37 UTC	ChristopheAF, frosty104, HelanaAshryvr, Lanvin, ricardodd	20	6	30
-370965	5	22	No Variant	2020-12-14 — 19:33:14 UTC	ChristopheAF, Fey, frosty104, Lanvin, olivia14	344	5	25
-370946	3	0	Pink (5 Suits)	2020-12-14 — 19:07:07 UTC	ChristopheAF, doctorabi, frosty104	108	5	25
+370993	5	0	White (6 Suits)	2020-12-14 — 20:08:37 UTC	ChristopheAF, frosty104, HelanaAshryvr, Lanvin, ricardodd	21	6	30
+370965	5	22	No Variant	2020-12-14 — 19:33:14 UTC	ChristopheAF, Fey, frosty104, Lanvin, olivia14	348	5	25
+370946	3	0	Pink (5 Suits)	2020-12-14 — 19:07:07 UTC	ChristopheAF, doctorabi, frosty104	112	5	25
 370938	6	0	Up or Down & Rainbow (5 Suits)	2020-12-14 — 18:51:48 UTC	ChristopheAF, frosty104, Kyle, Lel0uch, Livia, sephiroth	1	5	25
 370930	6	0	Up or Down & Rainbow (5 Suits)	2020-12-14 — 18:38:22 UTC	ChristopheAF, frosty104, Kyle, Lel0uch, Livia, sephiroth	1	5	25
-370924	4	23	Black (5 Suits)	2020-12-14 — 18:21:55 UTC	ChristopheAF, frosty104, Lanvin, Lel0uch	36	5	25
+370924	4	23	Black (5 Suits)	2020-12-14 — 18:21:55 UTC	ChristopheAF, frosty104, Lanvin, Lel0uch	37	5	25
 370905	5	25	Omni (5 Suits)	2020-12-14 — 17:59:02 UTC	ChristopheAF, frosty104, HelanaAshryvr, Lel0uch, methmatics	11	5	25
-370902	4	0	Omni (5 Suits)	2020-12-14 — 17:40:24 UTC	ChristopheAF, HelanaAshryvr, Lel0uch, methmatics	26	5	25
+370902	4	0	Omni (5 Suits)	2020-12-14 — 17:40:24 UTC	ChristopheAF, HelanaAshryvr, Lel0uch, methmatics	27	5	25
 370894	3	0	Omni (6 Suits)	2020-12-14 — 17:25:59 UTC	ChristopheAF, HelanaAshryvr, Lel0uch	70	6	30
 370031	4	29	Muddy Rainbow (6 Suits)	2020-12-13 — 17:32:17 UTC	ChristopheAF, frosty104, HelanaAshryvr, Lel0uch	25	6	30
 370012	5	18	Muddy Rainbow (4 Suits)	2020-12-13 — 17:07:35 UTC	ChristopheAF, frosty104, HelanaAshryvr, Lel0uch, swineherd	6	4	20
-370003	4	24	Dark Brown (5 Suits)	2020-12-13 — 16:40:11 UTC	ChristopheAF, esakach, frosty104, Lel0uch	10	5	25
-369990	4	0	Dark Brown (5 Suits)	2020-12-13 — 16:21:07 UTC	ChristopheAF, esakach, frosty104, Lel0uch	12	5	25
-369987	4	0	Dark Brown (5 Suits)	2020-12-13 — 16:15:26 UTC	ChristopheAF, esakach, frosty104, Lel0uch	14	5	25
-369978	4	0	Brown (6 Suits)	2020-12-13 — 15:55:53 UTC	ChristopheAF, esakach, frosty104, katian	27	6	30
-369952	4	23	Black (5 Suits)	2020-12-13 — 15:09:51 UTC	ChristopheAF, frosty104, katian, Lel0uch	44	5	25
-369931	4	0	Black (5 Suits)	2020-12-13 — 14:48:13 UTC	ChristopheAF, frosty104, katian, Lel0uch	49	5	25
+370003	4	24	Dark Brown (5 Suits)	2020-12-13 — 16:40:11 UTC	ChristopheAF, esakach, frosty104, Lel0uch	11	5	25
+369990	4	0	Dark Brown (5 Suits)	2020-12-13 — 16:21:07 UTC	ChristopheAF, esakach, frosty104, Lel0uch	13	5	25
+369987	4	0	Dark Brown (5 Suits)	2020-12-13 — 16:15:26 UTC	ChristopheAF, esakach, frosty104, Lel0uch	15	5	25
+369978	4	0	Brown (6 Suits)	2020-12-13 — 15:55:53 UTC	ChristopheAF, esakach, frosty104, katian	28	6	30
+369952	4	23	Black (5 Suits)	2020-12-13 — 15:09:51 UTC	ChristopheAF, frosty104, katian, Lel0uch	47	5	25
+369931	4	0	Black (5 Suits)	2020-12-13 — 14:48:13 UTC	ChristopheAF, frosty104, katian, Lel0uch	51	5	25
 369913	4	20	Pink (4 Suits)	2020-12-13 — 14:31:36 UTC	ChristopheAF, frosty104, katian, Lel0uch	19	4	20
 369889	3	20	Pink (4 Suits)	2020-12-13 — 14:13:48 UTC	ChristopheAF, frosty104, Lel0uch	6	4	20
 369338	4	25	White & Prism (5 Suits)	2020-12-13 — 00:06:06 UTC	ChristopheAF, HelanaAshryvr, Lanvin, ricardodd	14	5	25
 369301	6	0	6 Suits	2020-12-12 — 23:31:39 UTC	ChristopheAF, HelanaAshryvr, Lanvin, PMP, ricardodd, Wittvector	50	6	30
-368933	3	25	No Variant	2020-12-12 — 15:54:55 UTC	boba, ChristopheAF, Lel0uch	1095	5	25
-368166	3	24	No Variant	2020-12-11 — 23:02:25 UTC	ChristopheAF, emlgt, HelanaAshryvr	375	5	25
-368136	3	24	No Variant	2020-12-11 — 22:36:00 UTC	ChristopheAF, Daryl, emlgt	3260	5	25
-368102	3	0	Rainbow (6 Suits)	2020-12-11 — 22:13:04 UTC	ChristopheAF, Daryl, emlgt	689	6	30
-368036	3	25	Rainbow (5 Suits)	2020-12-11 — 21:21:27 UTC	ChristopheAF, eljavi, Wittvector	116	5	25
+368933	3	25	No Variant	2020-12-12 — 15:54:55 UTC	boba, ChristopheAF, Lel0uch	1102	5	25
+368166	3	24	No Variant	2020-12-11 — 23:02:25 UTC	ChristopheAF, emlgt, HelanaAshryvr	380	5	25
+368136	3	24	No Variant	2020-12-11 — 22:36:00 UTC	ChristopheAF, Daryl, emlgt	3290	5	25
+368102	3	0	Rainbow (6 Suits)	2020-12-11 — 22:13:04 UTC	ChristopheAF, Daryl, emlgt	693	6	30
+368036	3	25	Rainbow (5 Suits)	2020-12-11 — 21:21:27 UTC	ChristopheAF, eljavi, Wittvector	119	5	25
 367913	5	20	Brown (4 Suits)	2020-12-11 — 19:17:56 UTC	aquarelle, ChristopheAF, HelanaAshryvr, rz, voss	7	4	20
-367898	4	24	Brown (5 Suits)	2020-12-11 — 18:51:19 UTC	aquarelle, ChristopheAF, Onen, voss	36	5	25
-367885	3	0	Brown (5 Suits)	2020-12-11 — 18:24:50 UTC	aquarelle, ChristopheAF, voss	79	5	25
+367898	4	24	Brown (5 Suits)	2020-12-11 — 18:51:19 UTC	aquarelle, ChristopheAF, Onen, voss	37	5	25
+367885	3	0	Brown (5 Suits)	2020-12-11 — 18:24:50 UTC	aquarelle, ChristopheAF, voss	82	5	25
 367861	3	0	Pink & Omni (6 Suits)	2020-12-11 — 17:32:15 UTC	ChristopheAF, plus, TheDaniMan	5	6	30
 367189	3	20	Light Pink (4 Suits)	2020-12-11 — 00:16:23 UTC	Carunty, ChristopheAF, kevincaseytdk1	17	4	20
 367168	3	0	Light Pink (4 Suits)	2020-12-10 — 23:56:57 UTC	Carunty, ChristopheAF, kevincaseytdk1	21	4	20
 367135	4	29	Muddy Rainbow (6 Suits)	2020-12-10 — 23:25:16 UTC	bob65536, Carunty, ChristopheAF, MarkusKahlsen	19	6	30
 367064	4	19	Brown (4 Suits)	2020-12-10 — 21:50:47 UTC	bob65536, ChristopheAF, doctorabi, orucsoraihc	9	4	20
-366978	5	21	No Variant	2020-12-10 — 20:23:21 UTC	BillaVGC, ChristopheAF, frosty104, Kernel, Lanvin	658	5	25
+366978	5	21	No Variant	2020-12-10 — 20:23:21 UTC	BillaVGC, ChristopheAF, frosty104, Kernel, Lanvin	667	5	25
 366956	4	14	Prism (3 Suits)	2020-12-10 — 19:56:44 UTC	ChristopheAF, frosty104, HelanaAshryvr, plus	8	3	15
-366945	4	0	Prism (3 Suits)	2020-12-10 — 19:44:47 UTC	ChristopheAF, frosty104, HelanaAshryvr, plus	11	3	15
+366945	4	0	Prism (3 Suits)	2020-12-10 — 19:44:47 UTC	ChristopheAF, frosty104, HelanaAshryvr, plus	12	3	15
 366930	3	30	Pink & Brown (6 Suits)	2020-12-10 — 19:22:46 UTC	ChristopheAF, plus, sephiroth	13	6	30
 366829	4	12	Rainbow & Pink (3 Suits)	2020-12-10 — 17:27:46 UTC	Carunty, ChristopheAF, jeff10, Wittvector	4	3	15
 366819	4	13	Rainbow & Pink (3 Suits)	2020-12-10 — 16:56:41 UTC	Carunty, ChristopheAF, jeff10, Wittvector	4	3	15
 366810	5	28	Pink & White (6 Suits)	2020-12-10 — 16:25:30 UTC	ChristopheAF, melwen, Nitrate2, Pablo-, wump	5	6	30
 364820	4	0	Pink & Omni (5 Suits)	2020-12-08 — 21:02:47 UTC	ChristopheAF, HelanaAshryvr, Lel0uch, orucsoraihc	6	5	25
 364784	4	20	Rainbow & Pink (4 Suits)	2020-12-08 — 20:30:45 UTC	ChristopheAF, HelanaAshryvr, Lel0uch, sin_faith	10	4	20
-364752	3	0	Rainbow & Pink (4 Suits)	2020-12-08 — 20:02:42 UTC	ChristopheAF, HelanaAshryvr, Lel0uch	14	4	20
+364752	3	0	Rainbow & Pink (4 Suits)	2020-12-08 — 20:02:42 UTC	ChristopheAF, HelanaAshryvr, Lel0uch	16	4	20
 364726	4	22	Rainbow & Prism (5 Suits)	2020-12-08 — 19:33:55 UTC	ChristopheAF, HelanaAshryvr, Lel0uch, macanek	9	5	25
 364695	3	29	Rainbow & Prism (6 Suits)	2020-12-08 — 19:06:14 UTC	ChristopheAF, Lel0uch, macanek	10	6	30
-364679	4	0	Rainbow (5 Suits)	2020-12-08 — 18:30:14 UTC	ChristopheAF, eljavi, macanek, ricardodd	92	5	25
-364665	4	22	No Variant	2020-12-08 — 17:49:42 UTC	Carunty, ChristopheAF, Kernel, ksfortson	501	5	25
+364679	4	0	Rainbow (5 Suits)	2020-12-08 — 18:30:14 UTC	ChristopheAF, eljavi, macanek, ricardodd	93	5	25
+364665	4	22	No Variant	2020-12-08 — 17:49:42 UTC	Carunty, ChristopheAF, Kernel, ksfortson	507	5	25
 364659	4	0	Dark Brown (6 Suits)	2020-12-08 — 17:23:34 UTC	ChristopheAF, Fey, Lel0uch, postmans	14	6	30
 364652	4	0	Dark Brown (6 Suits)	2020-12-08 — 17:08:38 UTC	ChristopheAF, Fey, Lel0uch, postmans	17	6	30
 364648	3	28	Pink & Brown (6 Suits)	2020-12-08 — 16:55:41 UTC	ChristopheAF, Fey, postmans	18	6	30
 364640	4	0	Pink & Brown (6 Suits)	2020-12-08 — 16:35:35 UTC	ChristopheAF, Fey, postmans, TimeHoodie	8	6	30
 364638	5	25	Prism (5 Suits)	2020-12-08 — 16:23:50 UTC	Animex52, ChristopheAF, Fey, postmans, Sucubis	5	5	25
-364015	3	25	No Variant	2020-12-07 — 22:20:18 UTC	ChristopheAF, Daryl, macanek	1881	5	25
-363978	4	23	No Variant	2020-12-07 — 21:31:33 UTC	BillaVGC, ChristopheAF, Daryl, macanek	1092	5	25
-363894	3	23	No Variant	2020-12-07 — 20:25:41 UTC	ChristopheAF, Lanvin, xmaiton	1465	5	25
-362882	2	0	Pink (6 Suits)	2020-12-06 — 23:42:06 UTC	ChristopheAF, HelanaAshryvr	172	6	30
-362873	2	0	Pink (6 Suits)	2020-12-06 — 23:32:24 UTC	ChristopheAF, HelanaAshryvr	219	6	30
+364015	3	25	No Variant	2020-12-07 — 22:20:18 UTC	ChristopheAF, Daryl, macanek	1896	5	25
+363978	4	23	No Variant	2020-12-07 — 21:31:33 UTC	BillaVGC, ChristopheAF, Daryl, macanek	1103	5	25
+363894	3	23	No Variant	2020-12-07 — 20:25:41 UTC	ChristopheAF, Lanvin, xmaiton	1474	5	25
+362882	2	0	Pink (6 Suits)	2020-12-06 — 23:42:06 UTC	ChristopheAF, HelanaAshryvr	173	6	30
+362873	2	0	Pink (6 Suits)	2020-12-06 — 23:32:24 UTC	ChristopheAF, HelanaAshryvr	220	6	30
 362869	2	20	Pink (4 Suits)	2020-12-06 — 23:26:19 UTC	ChristopheAF, HelanaAshryvr	49	4	20
-362863	2	18	Pink (4 Suits)	2020-12-06 — 23:14:00 UTC	ChristopheAF, HelanaAshryvr	64	4	20
-362849	2	17	Pink (4 Suits)	2020-12-06 — 23:04:58 UTC	ChristopheAF, HelanaAshryvr	105	4	20
+362863	2	18	Pink (4 Suits)	2020-12-06 — 23:14:00 UTC	ChristopheAF, HelanaAshryvr	65	4	20
+362849	2	17	Pink (4 Suits)	2020-12-06 — 23:04:58 UTC	ChristopheAF, HelanaAshryvr	106	4	20
 362673	3	26	Pink & Dark Brown (6 Suits)	2020-12-06 — 19:53:09 UTC	Carunty, ChristopheAF, Fey	5	6	30
 362622	4	0	No Variant	2020-12-06 — 18:51:49 UTC	carpdiem, ChristopheAF, PMP, sin_faith	33	5	25
 362535	5	20	Black (5 Suits)	2020-12-06 — 17:03:40 UTC	boba, ChristopheAF, frosty104, HelanaAshryvr, Lel0uch	20	5	25
-362522	4	22	Black (5 Suits)	2020-12-06 — 16:34:03 UTC	boba, ChristopheAF, HelanaAshryvr, Lel0uch	63	5	25
-362515	3	0	No Variant	2020-12-06 — 16:16:15 UTC	ChristopheAF, dkafinated1, evanman100	269	5	25
-362503	3	21	Black (5 Suits)	2020-12-06 — 15:49:10 UTC	ChristopheAF, Kaznad, Kernel	51	5	25
+362522	4	22	Black (5 Suits)	2020-12-06 — 16:34:03 UTC	boba, ChristopheAF, HelanaAshryvr, Lel0uch	64	5	25
+362515	3	0	No Variant	2020-12-06 — 16:16:15 UTC	ChristopheAF, dkafinated1, evanman100	272	5	25
+362503	3	21	Black (5 Suits)	2020-12-06 — 15:49:10 UTC	ChristopheAF, Kaznad, Kernel	52	5	25
 362489	5	20	Light Pink (4 Suits)	2020-12-06 — 15:21:54 UTC	Carunty, ChristopheAF, frosty104, katian, Lel0uch	9	4	20
-362462	3	15	Pink (3 Suits)	2020-12-06 — 14:34:48 UTC	ChristopheAF, frosty104, Lel0uch	23	3	15
-362456	5	0	Rainbow & White (6 Suits)	2020-12-06 — 14:16:56 UTC	ChristopheAF, frosty104, Lanvin, Lel0uch, zeinab001	11	6	30
-362453	4	0	Rainbow (6 Suits)	2020-12-06 — 13:50:34 UTC	ChristopheAF, Lanvin, Lel0uch, zeinab001	69	6	30
-362446	5	22	No Variant	2020-12-06 — 13:21:17 UTC	BillaVGC, ChristopheAF, MarkusKahlsen, StKildaFan, wortel	41	5	25
-362433	4	23	No Variant	2020-12-06 — 12:21:14 UTC	BillaVGC, ChristopheAF, orucsoraihc, wortel	81	5	25
-362417	3	0	No Variant	2020-12-06 — 11:27:28 UTC	BillaVGC, ChristopheAF, orucsoraihc	320	5	25
-362388	3	22	No Variant	2020-12-06 — 10:25:45 UTC	BillaVGC, ChristopheAF, orucsoraihc	344	5	25
-361872	3	19	White (4 Suits)	2020-12-05 — 23:36:12 UTC	aquarelle, ChristopheAF, HelanaAshryvr	59	4	20
-361861	4	0	4 Suits	2020-12-05 — 23:15:46 UTC	aquarelle, CaptainQwark, ChristopheAF, HelanaAshryvr	77	4	20
-361844	4	0	No Variant	2020-12-05 — 22:53:11 UTC	ada.yukie, aquarelle, ChristopheAF, HelanaAshryvr	1253	5	25
+362462	3	15	Pink (3 Suits)	2020-12-06 — 14:34:48 UTC	ChristopheAF, frosty104, Lel0uch	25	3	15
+362456	5	0	Rainbow & White (6 Suits)	2020-12-06 — 14:16:56 UTC	ChristopheAF, frosty104, Lanvin, Lel0uch, zeinab001	12	6	30
+362453	4	0	Rainbow (6 Suits)	2020-12-06 — 13:50:34 UTC	ChristopheAF, Lanvin, Lel0uch, zeinab001	70	6	30
+362446	5	22	No Variant	2020-12-06 — 13:21:17 UTC	BillaVGC, ChristopheAF, MarkusKahlsen, StKildaFan, wortel	42	5	25
+362433	4	23	No Variant	2020-12-06 — 12:21:14 UTC	BillaVGC, ChristopheAF, orucsoraihc, wortel	84	5	25
+362417	3	0	No Variant	2020-12-06 — 11:27:28 UTC	BillaVGC, ChristopheAF, orucsoraihc	324	5	25
+362388	3	22	No Variant	2020-12-06 — 10:25:45 UTC	BillaVGC, ChristopheAF, orucsoraihc	353	5	25
+361872	3	19	White (4 Suits)	2020-12-05 — 23:36:12 UTC	aquarelle, ChristopheAF, HelanaAshryvr	62	4	20
+361861	4	0	4 Suits	2020-12-05 — 23:15:46 UTC	aquarelle, CaptainQwark, ChristopheAF, HelanaAshryvr	80	4	20
+361844	4	0	No Variant	2020-12-05 — 22:53:11 UTC	ada.yukie, aquarelle, ChristopheAF, HelanaAshryvr	1267	5	25
 361583	4	0	Rainbow Reversed (6 Suits)	2020-12-05 — 16:41:04 UTC	Carunty, ChristopheAF, frosty104, Onen	11	6	30
-361574	6	22	Black (5 Suits)	2020-12-05 — 16:05:55 UTC	Carunty, ChristopheAF, frosty104, jeff10, Onen, PMP	9	5	25
-361567	3	20	4 Suits	2020-12-05 — 15:40:36 UTC	ChristopheAF, ricardodd, zeinab001	118	4	20
+361574	6	22	Black (5 Suits)	2020-12-05 — 16:05:55 UTC	Carunty, ChristopheAF, frosty104, jeff10, Onen, PMP	10	5	25
+361567	3	20	4 Suits	2020-12-05 — 15:40:36 UTC	ChristopheAF, ricardodd, zeinab001	120	4	20
 361552	4	22	Dark Prism (5 Suits)	2020-12-05 — 14:37:59 UTC	ChristopheAF, Lel0uch, MarkusKahlsen, Wittvector	10	5	25
 361547	6	0	No Variant	2020-12-05 — 14:04:55 UTC	ChristopheAF, cutie, Lanvin, narabio, sin_faith, StKildaFan	10	5	25
-360903	4	23	Black (5 Suits)	2020-12-04 — 23:38:13 UTC	ChristopheAF, HelanaAshryvr, macanek, ricardodd	79	5	25
-360882	4	0	Black (5 Suits)	2020-12-04 — 23:16:51 UTC	ChristopheAF, HelanaAshryvr, macanek, ricardodd	98	5	25
-360871	3	25	Black (5 Suits)	2020-12-04 — 23:03:18 UTC	ChristopheAF, HelanaAshryvr, ricardodd	134	5	25
-360835	3	23	Black (5 Suits)	2020-12-04 — 22:25:24 UTC	ChristopheAF, HelanaAshryvr, ricardodd	171	5	25
-360808	3	30	6 Suits	2020-12-04 — 21:55:35 UTC	ChristopheAF, macanek, ricardodd	503	6	30
+360903	4	23	Black (5 Suits)	2020-12-04 — 23:38:13 UTC	ChristopheAF, HelanaAshryvr, macanek, ricardodd	80	5	25
+360882	4	0	Black (5 Suits)	2020-12-04 — 23:16:51 UTC	ChristopheAF, HelanaAshryvr, macanek, ricardodd	101	5	25
+360871	3	25	Black (5 Suits)	2020-12-04 — 23:03:18 UTC	ChristopheAF, HelanaAshryvr, ricardodd	135	5	25
+360835	3	23	Black (5 Suits)	2020-12-04 — 22:25:24 UTC	ChristopheAF, HelanaAshryvr, ricardodd	174	5	25
+360808	3	30	6 Suits	2020-12-04 — 21:55:35 UTC	ChristopheAF, macanek, ricardodd	511	6	30
 360787	4	19	Prism (4 Suits)	2020-12-04 — 21:30:26 UTC	bjnh, ChristopheAF, macanek, ricardodd	21	4	20
 360749	5	0	Prism (5 Suits)	2020-12-04 — 20:53:22 UTC	ChristopheAF, Fey, macanek, postmans, ricardodd	8	5	25
 360726	5	0	Black (5 Suits)	2020-12-04 — 20:24:50 UTC	ChristopheAF, Fey, macanek, postmans, ricardodd	23	5	25
-360713	3	15	3 Suits	2020-12-04 — 20:11:44 UTC	ChristopheAF, postmans, ricardodd	88	3	15
-360533	3	13	Pink (3 Suits)	2020-12-04 — 15:59:44 UTC	ChristopheAF, Lel0uch, Onen	33	3	15
-360524	3	0	Pink (3 Suits)	2020-12-04 — 15:39:52 UTC	ChristopheAF, Lel0uch, Onen	44	3	15
-360521	3	0	Rainbow (6 Suits)	2020-12-04 — 15:26:20 UTC	ChristopheAF, HelanaAshryvr, zeinab001	165	6	30
+360713	3	15	3 Suits	2020-12-04 — 20:11:44 UTC	ChristopheAF, postmans, ricardodd	90	3	15
+360533	3	13	Pink (3 Suits)	2020-12-04 — 15:59:44 UTC	ChristopheAF, Lel0uch, Onen	34	3	15
+360524	3	0	Pink (3 Suits)	2020-12-04 — 15:39:52 UTC	ChristopheAF, Lel0uch, Onen	46	3	15
+360521	3	0	Rainbow (6 Suits)	2020-12-04 — 15:26:20 UTC	ChristopheAF, HelanaAshryvr, zeinab001	167	6	30
 359917	5	20	Throw It in a Hole (5 Suits)	2020-12-03 — 20:16:34 UTC	aquarelle, ChristopheAF, flaaffy, superbipbip, zeinab001	15	5	25
-359888	4	25	Brown (5 Suits)	2020-12-03 — 19:36:28 UTC	aquarelle, ChristopheAF, postmans, ricardodd	46	5	25
+359888	4	25	Brown (5 Suits)	2020-12-03 — 19:36:28 UTC	aquarelle, ChristopheAF, postmans, ricardodd	47	5	25
 359871	4	15	3 Suits	2020-12-03 — 18:59:45 UTC	aquarelle, ChristopheAF, postmans, ricardodd	62	3	15
 359814	4	25	Up or Down & Rainbow (5 Suits)	2020-12-03 — 15:48:42 UTC	aquarelle, ChristopheAF, Fey, Lel0uch	15	5	25
 359808	4	0	Up or Down & Rainbow (5 Suits)	2020-12-03 — 15:26:00 UTC	aquarelle, ChristopheAF, Fey, Lel0uch	18	5	25
 359804	3	28	White (6 Suits)	2020-12-03 — 15:01:12 UTC	Carunty, ChristopheAF, macanek	53	6	30
-359212	4	28	Black (6 Suits)	2020-12-02 — 22:20:20 UTC	ChristopheAF, Feich59, jeff10, Wittvector	175	6	30
-359157	4	0	Black (6 Suits)	2020-12-02 — 21:03:50 UTC	ChristopheAF, hanabornoob, Onen, rake	273	6	30
+359212	4	28	Black (6 Suits)	2020-12-02 — 22:20:20 UTC	ChristopheAF, Feich59, jeff10, Wittvector	176	6	30
+359157	4	0	Black (6 Suits)	2020-12-02 — 21:03:50 UTC	ChristopheAF, hanabornoob, Onen, rake	276	6	30
 359078	6	23	White Reversed (5 Suits)	2020-12-02 — 19:53:37 UTC	ChristopheAF, Feich59, hakha3, rz, timotree, Veexliat	2	5	25
 359034	5	23	Prism Reversed (5 Suits)	2020-12-02 — 18:43:57 UTC	ChristopheAF, Fey, macanek, Onen, Sucubis	2	5	25
 359022	5	24	Reversed (5 Suits)	2020-12-02 — 18:13:10 UTC	ChristopheAF, Fey, macanek, Onen, Sucubis	2	5	25
-359012	4	25	Prism (5 Suits)	2020-12-02 — 17:49:33 UTC	ChristopheAF, Fey, macanek, Onen	47	5	25
-359002	3	25	No Variant	2020-12-02 — 17:24:55 UTC	ChristopheAF, macanek, Onen	2163	5	25
-358974	3	0	Prism (3 Suits)	2020-12-02 — 15:56:34 UTC	Carunty, ChristopheAF, jeff10	32	3	15
-358969	3	15	Rainbow (3 Suits)	2020-12-02 — 15:45:33 UTC	Carunty, ChristopheAF, jeff10	16	3	15
+359012	4	25	Prism (5 Suits)	2020-12-02 — 17:49:33 UTC	ChristopheAF, Fey, macanek, Onen	48	5	25
+359002	3	25	No Variant	2020-12-02 — 17:24:55 UTC	ChristopheAF, macanek, Onen	2179	5	25
+358974	3	0	Prism (3 Suits)	2020-12-02 — 15:56:34 UTC	Carunty, ChristopheAF, jeff10	34	3	15
+358969	3	15	Rainbow (3 Suits)	2020-12-02 — 15:45:33 UTC	Carunty, ChristopheAF, jeff10	17	3	15
 358961	6	0	Up or Down & White (5 Suits)	2020-12-02 — 15:26:32 UTC	Carunty, ChristopheAF, Floriman, jack67889, Lel0uch, TimeHoodie	2	5	25
 358834	6	24	No Variant	2020-12-02 — 06:21:38 UTC	bjnh, ChristopheAF, Feich59, Lel0uch, Pablo-, voss	32	5	25
-358807	6	0	No Variant	2020-12-02 — 05:50:20 UTC	bjnh, ChristopheAF, doctorabi, Feich59, Lel0uch, voss	115	5	25
-358785	3	25	Rainbow (5 Suits)	2020-12-02 — 05:31:06 UTC	ChristopheAF, kevincaseytdk1, Onen	43	5	25
-358770	2	0	3 Suits	2020-12-02 — 05:12:31 UTC	ChristopheAF, Onen	124	3	15
-358768	2	14	3 Suits	2020-12-02 — 05:10:24 UTC	ChristopheAF, Onen	193	3	15
+358807	6	0	No Variant	2020-12-02 — 05:50:20 UTC	bjnh, ChristopheAF, doctorabi, Feich59, Lel0uch, voss	118	5	25
+358785	3	25	Rainbow (5 Suits)	2020-12-02 — 05:31:06 UTC	ChristopheAF, kevincaseytdk1, Onen	44	5	25
+358770	2	0	3 Suits	2020-12-02 — 05:12:31 UTC	ChristopheAF, Onen	125	3	15
+358768	2	14	3 Suits	2020-12-02 — 05:10:24 UTC	ChristopheAF, Onen	195	3	15
 358746	5	0	Rainbow (5 Suits)	2020-12-02 — 04:52:33 UTC	ChristopheAF, nitawa, Onen, XMIL, yasztiger	23	5	25
 358691	5	0	Rainbow & Omni (5 Suits)	2020-12-02 — 03:20:23 UTC	ChristopheAF, HelanaAshryvr, jeff10, Lel0uch, Romain672	3	5	25
 358677	4	0	Rainbow & Omni (5 Suits)	2020-12-02 — 02:56:52 UTC	ChristopheAF, HelanaAshryvr, jeff10, Lel0uch	9	5	25
 358595	6	25	White-Ones (5 Suits)	2020-12-02 — 00:03:35 UTC	ChristopheAF, Kyle, Pablo-, rz, superbipbip, wump	3	5	25
-358580	5	23	No Variant	2020-12-01 — 23:22:58 UTC	ChristopheAF, ksfortson, MarcLovesDogs, superbipbip, wump	28	5	25
+358580	5	23	No Variant	2020-12-01 — 23:22:58 UTC	ChristopheAF, ksfortson, MarcLovesDogs, superbipbip, wump	29	5	25
 358521	4	24	Muddy Rainbow (5 Suits)	2020-12-01 — 21:12:16 UTC	ChristopheAF, HelanaAshryvr, macanek, Pablo-	9	5	25
-358470	4	0	Rainbow (5 Suits)	2020-12-01 — 20:20:40 UTC	bjnh, ChristopheAF, HelanaAshryvr, macanek	130	5	25
-358430	5	0	No Variant	2020-12-01 — 19:45:19 UTC	ChristopheAF, HelanaAshryvr, macanek, Sucubis, yasztiger	163	5	25
-358416	5	0	No Variant	2020-12-01 — 19:29:05 UTC	ChristopheAF, HelanaAshryvr, macanek, Sucubis, yasztiger	195	5	25
-358405	5	23	No Variant	2020-12-01 — 19:14:57 UTC	ChristopheAF, HelanaAshryvr, macanek, Sucubis, yasztiger	262	5	25
-358393	5	24	No Variant	2020-12-01 — 18:44:53 UTC	ChristopheAF, HelanaAshryvr, macanek, Sucubis, yasztiger	457	5	25
+358470	4	0	Rainbow (5 Suits)	2020-12-01 — 20:20:40 UTC	bjnh, ChristopheAF, HelanaAshryvr, macanek	131	5	25
+358430	5	0	No Variant	2020-12-01 — 19:45:19 UTC	ChristopheAF, HelanaAshryvr, macanek, Sucubis, yasztiger	166	5	25
+358416	5	0	No Variant	2020-12-01 — 19:29:05 UTC	ChristopheAF, HelanaAshryvr, macanek, Sucubis, yasztiger	198	5	25
+358405	5	23	No Variant	2020-12-01 — 19:14:57 UTC	ChristopheAF, HelanaAshryvr, macanek, Sucubis, yasztiger	265	5	25
+358393	5	24	No Variant	2020-12-01 — 18:44:53 UTC	ChristopheAF, HelanaAshryvr, macanek, Sucubis, yasztiger	461	5	25
 358368	3	24	Rainbow & Pink (5 Suits)	2020-12-01 — 18:10:36 UTC	ChristopheAF, Lel0uch, Sucubis	19	5	25
-358318	4	19	4 Suits	2020-12-01 — 15:43:39 UTC	ChristopheAF, macanek, MasN, rz	38	4	20
-358308	3	19	4 Suits	2020-12-01 — 15:13:11 UTC	ChristopheAF, macanek, rz	160	4	20
+358318	4	19	4 Suits	2020-12-01 — 15:43:39 UTC	ChristopheAF, macanek, MasN, rz	39	4	20
+358308	3	19	4 Suits	2020-12-01 — 15:13:11 UTC	ChristopheAF, macanek, rz	162	4	20
 358295	4	25	Rainbow-Ones & White (5 Suits)	2020-12-01 — 14:50:37 UTC	ChristopheAF, macanek, sin_faith, TimeHoodie	1	5	25
-357888	3	0	Brown (6 Suits)	2020-12-01 — 00:03:34 UTC	ChristopheAF, Feich59, StKildaFan	26	6	30
-357885	3	0	Brown (6 Suits)	2020-11-30 — 23:57:20 UTC	ChristopheAF, Feich59, StKildaFan	31	6	30
-357875	3	0	Brown (6 Suits)	2020-11-30 — 23:41:05 UTC	ChristopheAF, Feich59, StKildaFan	40	6	30
-357866	3	0	Brown (6 Suits)	2020-11-30 — 23:22:47 UTC	ChristopheAF, Feich59, StKildaFan	52	6	30
+357888	3	0	Brown (6 Suits)	2020-12-01 — 00:03:34 UTC	ChristopheAF, Feich59, StKildaFan	27	6	30
+357885	3	0	Brown (6 Suits)	2020-11-30 — 23:57:20 UTC	ChristopheAF, Feich59, StKildaFan	33	6	30
+357875	3	0	Brown (6 Suits)	2020-11-30 — 23:41:05 UTC	ChristopheAF, Feich59, StKildaFan	41	6	30
+357866	3	0	Brown (6 Suits)	2020-11-30 — 23:22:47 UTC	ChristopheAF, Feich59, StKildaFan	53	6	30
 357690	5	26	Dark Rainbow (6 Suits)	2020-11-30 — 19:10:18 UTC	aquarelle, ChristopheAF, colton, HelanaAshryvr, sin_faith	33	6	30
-357662	3	25	White (5 Suits)	2020-11-30 — 18:01:46 UTC	ChristopheAF, colton, Lel0uch	126	5	25
-357651	2	30	Rainbow (6 Suits)	2020-11-30 — 17:42:31 UTC	ChristopheAF, colton	441	6	30
-357632	4	22	White (5 Suits)	2020-11-30 — 17:08:54 UTC	ChristopheAF, colton, Fey, HelanaAshryvr	32	5	25
+357662	3	25	White (5 Suits)	2020-11-30 — 18:01:46 UTC	ChristopheAF, colton, Lel0uch	131	5	25
+357651	2	30	Rainbow (6 Suits)	2020-11-30 — 17:42:31 UTC	ChristopheAF, colton	446	6	30
+357632	4	22	White (5 Suits)	2020-11-30 — 17:08:54 UTC	ChristopheAF, colton, Fey, HelanaAshryvr	33	5	25
 357609	5	0	White (5 Suits)	2020-11-30 — 16:41:36 UTC	ChristopheAF, colton, doctorabi, Fey, HelanaAshryvr	7	5	25
-356767	5	0	Black (5 Suits)	2020-11-29 — 19:14:00 UTC	ChristopheAF, doctorabi, Lel0uch, rachyrules, sephiroth	13	5	25
-356760	3	25	No Variant	2020-11-29 — 18:22:19 UTC	ChristopheAF, Padouga, Spruelo	141	5	25
-356746	4	24	No Variant	2020-11-29 — 17:47:31 UTC	ChristopheAF, Kaznad, Padouga, Spruelo	48	5	25
+356767	5	0	Black (5 Suits)	2020-11-29 — 19:14:00 UTC	ChristopheAF, doctorabi, Lel0uch, rachyrules, sephiroth	14	5	25
+356760	3	25	No Variant	2020-11-29 — 18:22:19 UTC	ChristopheAF, Padouga, Spruelo	145	5	25
+356746	4	24	No Variant	2020-11-29 — 17:47:31 UTC	ChristopheAF, Kaznad, Padouga, Spruelo	49	5	25
 356718	5	25	No Variant	2020-11-29 — 17:07:08 UTC	Carunty, ChristopheAF, Fey, Lel0uch, macanek	49	5	25
 356707	5	27	6 Suits	2020-11-29 — 16:29:53 UTC	Carunty, ChristopheAF, Fey, macanek, rz	35	6	30
 356218	3	29	Rainbow (6 Suits)	2020-11-28 — 22:16:39 UTC	ChristopheAF, HelanaAshryvr, Romain672	120	6	30
-356198	3	0	Rainbow (6 Suits)	2020-11-28 — 21:49:20 UTC	ChristopheAF, HelanaAshryvr, Romain672	146	6	30
-356163	3	24	Rainbow (5 Suits)	2020-11-28 — 20:56:15 UTC	bob65536, ChristopheAF, HelanaAshryvr	185	5	25
-356129	4	20	White (4 Suits)	2020-11-28 — 20:14:03 UTC	ChristopheAF, HelanaAshryvr, Lel0uch, SriWang	34	4	20
+356198	3	0	Rainbow (6 Suits)	2020-11-28 — 21:49:20 UTC	ChristopheAF, HelanaAshryvr, Romain672	147	6	30
+356163	3	24	Rainbow (5 Suits)	2020-11-28 — 20:56:15 UTC	bob65536, ChristopheAF, HelanaAshryvr	186	5	25
+356129	4	20	White (4 Suits)	2020-11-28 — 20:14:03 UTC	ChristopheAF, HelanaAshryvr, Lel0uch, SriWang	35	4	20
 356108	4	20	Muddy Rainbow (4 Suits)	2020-11-28 — 19:44:42 UTC	Carunty, ChristopheAF, HelanaAshryvr, Lel0uch	8	4	20
 356099	4	25	Muddy Rainbow (5 Suits)	2020-11-28 — 19:25:16 UTC	Carunty, ChristopheAF, HelanaAshryvr, Lel0uch	12	5	25
 356087	4	0	Muddy Rainbow (5 Suits)	2020-11-28 — 19:05:27 UTC	Carunty, ChristopheAF, HelanaAshryvr, Lel0uch	18	5	25
 356064	4	23	Muddy Rainbow (5 Suits)	2020-11-28 — 18:41:57 UTC	Carunty, ChristopheAF, HelanaAshryvr, Lel0uch	23	5	25
-356030	4	0	No Variant	2020-11-28 — 18:13:45 UTC	ChristopheAF, doctorabi, jeff10, rachyrules	985	5	25
+356030	4	0	No Variant	2020-11-28 — 18:13:45 UTC	ChristopheAF, doctorabi, jeff10, rachyrules	994	5	25
 356022	3	0	4 Suits	2020-11-28 — 18:06:44 UTC	Carunty, ChristopheAF, kevincaseytdk1	90	4	20
-355999	4	30	Prism (6 Suits)	2020-11-28 — 17:44:53 UTC	Carunty, ChristopheAF, kevincaseytdk1, pianoblook	10	6	30
+355999	4	30	Prism (6 Suits)	2020-11-28 — 17:44:53 UTC	Carunty, ChristopheAF, kevincaseytdk1, pianoblook	11	6	30
 355413	5	0	White & Prism (6 Suits)	2020-11-27 — 22:54:01 UTC	ChristopheAF, kevincaseytdk1, Lel0uch, StKildaFan, TimeHoodie	4	6	30
 355405	5	27	White & Prism (6 Suits)	2020-11-27 — 22:45:44 UTC	ChristopheAF, kevincaseytdk1, Lel0uch, StKildaFan, TimeHoodie	4	6	30
 355333	5	25	Muddy Rainbow (5 Suits)	2020-11-27 — 21:20:35 UTC	ChristopheAF, doctorabi, ejwu, jeff10, rachyrules	7	5	25
-354514	5	23	Rainbow & White (5 Suits)	2020-11-26 — 19:47:04 UTC	Carunty, ChristopheAF, Lel0uch, MarkusKahlsen, sin_faith	10	5	25
+354514	5	23	Rainbow & White (5 Suits)	2020-11-26 — 19:47:04 UTC	Carunty, ChristopheAF, Lel0uch, MarkusKahlsen, sin_faith	11	5	25
 353857	3	22	Rainbow & White (5 Suits)	2020-11-25 — 22:50:01 UTC	ChristopheAF, HelanaAshryvr, Romain672	26	5	25
-353843	2	0	4 Suits	2020-11-25 — 22:18:54 UTC	ChristopheAF, HelanaAshryvr	171	4	20
-353842	2	17	4 Suits	2020-11-25 — 22:18:27 UTC	ChristopheAF, HelanaAshryvr	244	4	20
-353835	3	0	No Variant	2020-11-25 — 21:59:07 UTC	ChristopheAF, Lel0uch, Romain672	2606	5	25
-353805	3	0	No Variant	2020-11-25 — 21:16:10 UTC	ChristopheAF, HelanaAshryvr, Lel0uch	680	5	25
+353843	2	0	4 Suits	2020-11-25 — 22:18:54 UTC	ChristopheAF, HelanaAshryvr	177	4	20
+353842	2	17	4 Suits	2020-11-25 — 22:18:27 UTC	ChristopheAF, HelanaAshryvr	248	4	20
+353835	3	0	No Variant	2020-11-25 — 21:59:07 UTC	ChristopheAF, Lel0uch, Romain672	2627	5	25
+353805	3	0	No Variant	2020-11-25 — 21:16:10 UTC	ChristopheAF, HelanaAshryvr, Lel0uch	688	5	25
 353789	6	0	Rainbow (5 Suits)	2020-11-25 — 20:54:38 UTC	ChristopheAF, doctorabi, frosty104, HelanaAshryvr, Lel0uch, Romain672	9	5	25
-353627	3	30	Pink (6 Suits)	2020-11-25 — 19:08:08 UTC	ChristopheAF, HelanaAshryvr, Lel0uch	131	6	30
-353609	2	25	White (5 Suits)	2020-11-25 — 18:38:16 UTC	ChristopheAF, HelanaAshryvr	184	5	25
+353627	3	30	Pink (6 Suits)	2020-11-25 — 19:08:08 UTC	ChristopheAF, HelanaAshryvr, Lel0uch	132	6	30
+353609	2	25	White (5 Suits)	2020-11-25 — 18:38:16 UTC	ChristopheAF, HelanaAshryvr	187	5	25
 352737	6	30	Deceptive-Ones (6 Suits)	2020-11-24 — 17:56:09 UTC	ChristopheAF, Lel0uch, melwen, Nitrate2, Pablo-, TimeHoodie	1	6	30
 352630	5	25	Rainbow-Ones & White (5 Suits)	2020-11-24 — 17:25:10 UTC	ChristopheAF, Fey, Lel0uch, melwen, TimeHoodie	3	5	25
 351805	4	18	Brown (4 Suits)	2020-11-23 — 18:34:32 UTC	ChristopheAF, ebin_noob, Lel0uch, rachyrules	11	4	20
-351789	4	0	Brown (4 Suits)	2020-11-23 — 18:14:58 UTC	ChristopheAF, ebin_noob, Lel0uch, rachyrules	13	4	20
-351707	4	20	Rainbow (4 Suits)	2020-11-23 — 15:57:02 UTC	ChristopheAF, frosty104, Lel0uch, superbipbip	25	4	20
-351696	5	17	Rainbow (4 Suits)	2020-11-23 — 15:28:53 UTC	ChristopheAF, frosty104, Lel0uch, sin_faith, superbipbip	16	4	20
+351789	4	0	Brown (4 Suits)	2020-11-23 — 18:14:58 UTC	ChristopheAF, ebin_noob, Lel0uch, rachyrules	14	4	20
+351707	4	20	Rainbow (4 Suits)	2020-11-23 — 15:57:02 UTC	ChristopheAF, frosty104, Lel0uch, superbipbip	26	4	20
+351696	5	17	Rainbow (4 Suits)	2020-11-23 — 15:28:53 UTC	ChristopheAF, frosty104, Lel0uch, sin_faith, superbipbip	17	4	20
 351683	4	30	Rainbow (6 Suits)	2020-11-23 — 14:51:55 UTC	ChristopheAF, Lel0uch, sin_faith, TimeHoodie	26	6	30
-351190	3	30	Rainbow (6 Suits)	2020-11-22 — 23:57:30 UTC	ChristopheAF, HelanaAshryvr, Romain672	215	6	30
-351145	2	0	No Variant	2020-11-22 — 23:15:17 UTC	ChristopheAF, Onen	2288	5	25
-351135	2	24	No Variant	2020-11-22 — 23:07:48 UTC	ChristopheAF, Onen	2532	5	25
+351190	3	30	Rainbow (6 Suits)	2020-11-22 — 23:57:30 UTC	ChristopheAF, HelanaAshryvr, Romain672	217	6	30
+351145	2	0	No Variant	2020-11-22 — 23:15:17 UTC	ChristopheAF, Onen	2307	5	25
+351135	2	24	No Variant	2020-11-22 — 23:07:48 UTC	ChristopheAF, Onen	2552	5	25
 349759	5	25	Rainbow (5 Suits)	2020-11-21 — 17:27:30 UTC	ChristopheAF, Fey, Lel0uch, Plum, sin_faith	26	5	25
-349740	4	29	Rainbow (6 Suits)	2020-11-21 — 16:45:11 UTC	ChristopheAF, HelanaAshryvr, Lel0uch, sin_faith	63	6	30
-349719	3	25	No Variant	2020-11-21 — 16:08:33 UTC	ChristopheAF, HelanaAshryvr, Lel0uch	1636	5	25
-349705	3	25	Rainbow (6 Suits)	2020-11-21 — 15:29:51 UTC	ChristopheAF, HelanaAshryvr, sin_faith	237	6	30
-349696	2	0	Rainbow (6 Suits)	2020-11-21 — 14:59:34 UTC	ChristopheAF, HelanaAshryvr	593	6	30
-348943	4	25	No Variant	2020-11-20 — 21:58:03 UTC	Alix_Eisenhardt, ChristopheAF, Kaznad, Padouga	53	5	25
-348889	4	25	No Variant	2020-11-20 — 21:03:26 UTC	Alix_Eisenhardt, ChristopheAF, Kaznad, Padouga	55	5	25
-348216	3	27	Prism (6 Suits)	2020-11-19 — 23:50:05 UTC	BarneyRubble, ChristopheAF, HelanaAshryvr	84	6	30
-348187	3	25	No Variant	2020-11-19 — 23:06:20 UTC	ChristopheAF, HelanaAshryvr, StKildaFan	37	5	25
-348140	3	23	No Variant	2020-11-19 — 21:59:56 UTC	ChristopheAF, HelanaAshryvr, StKildaFan	40	5	25
-348108	2	24	No Variant	2020-11-19 — 21:40:56 UTC	ChristopheAF, HelanaAshryvr	3507	5	25
-341936	3	22	Gray (5 Suits)	2020-11-12 — 23:26:32 UTC	aquarelle, ChristopheAF, HelanaAshryvr	42	5	25
+349740	4	29	Rainbow (6 Suits)	2020-11-21 — 16:45:11 UTC	ChristopheAF, HelanaAshryvr, Lel0uch, sin_faith	64	6	30
+349719	3	25	No Variant	2020-11-21 — 16:08:33 UTC	ChristopheAF, HelanaAshryvr, Lel0uch	1651	5	25
+349705	3	25	Rainbow (6 Suits)	2020-11-21 — 15:29:51 UTC	ChristopheAF, HelanaAshryvr, sin_faith	239	6	30
+349696	2	0	Rainbow (6 Suits)	2020-11-21 — 14:59:34 UTC	ChristopheAF, HelanaAshryvr	605	6	30
+348943	4	25	No Variant	2020-11-20 — 21:58:03 UTC	Alix_Eisenhardt, ChristopheAF, Kaznad, Padouga	55	5	25
+348889	4	25	No Variant	2020-11-20 — 21:03:26 UTC	Alix_Eisenhardt, ChristopheAF, Kaznad, Padouga	56	5	25
+348216	3	27	Prism (6 Suits)	2020-11-19 — 23:50:05 UTC	BarneyRubble, ChristopheAF, HelanaAshryvr	85	6	30
+348187	3	25	No Variant	2020-11-19 — 23:06:20 UTC	ChristopheAF, HelanaAshryvr, StKildaFan	39	5	25
+348140	3	23	No Variant	2020-11-19 — 21:59:56 UTC	ChristopheAF, HelanaAshryvr, StKildaFan	42	5	25
+348108	2	24	No Variant	2020-11-19 — 21:40:56 UTC	ChristopheAF, HelanaAshryvr	3537	5	25
+341936	3	22	Gray (5 Suits)	2020-11-12 — 23:26:32 UTC	aquarelle, ChristopheAF, HelanaAshryvr	44	5	25
 341909	3	19	Null (5 Suits)	2020-11-12 — 23:04:03 UTC	aquarelle, ChristopheAF, HelanaAshryvr	40	5	25
-315227	3	24	No Variant	2020-10-07 — 21:02:14 UTC	beri, ChristopheAF, HelanaAshryvr	4221	5	25
+315227	3	24	No Variant	2020-10-07 — 21:02:14 UTC	beri, ChristopheAF, HelanaAshryvr	4250	5	25

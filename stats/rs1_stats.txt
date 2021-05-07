@@ -35,22 +35,22 @@
 474618	3	0	Brown (6 Suits)	2021-03-20 — 07:03:51 UTC	Bonja97, orucsoraihc, rs1	17	6	30
 473483	3	28	Brown (6 Suits)	2021-03-19 — 09:00:46 UTC	Bonja97, orucsoraihc, rs1	21	6	30
 473476	3	0	Brown (6 Suits)	2021-03-19 — 08:30:02 UTC	Bonja97, orucsoraihc, rs1	22	6	30
-473467	3	0	Brown (6 Suits)	2021-03-19 — 08:02:28 UTC	Bonja97, orucsoraihc, rs1	25	6	30
-473464	3	0	Brown (6 Suits)	2021-03-19 — 07:57:50 UTC	Bonja97, orucsoraihc, rs1	26	6	30
-473457	3	30	Brown (6 Suits)	2021-03-19 — 07:44:31 UTC	Bonja97, orucsoraihc, rs1	52	6	30
+473467	3	0	Brown (6 Suits)	2021-03-19 — 08:02:28 UTC	Bonja97, orucsoraihc, rs1	26	6	30
+473464	3	0	Brown (6 Suits)	2021-03-19 — 07:57:50 UTC	Bonja97, orucsoraihc, rs1	27	6	30
+473457	3	30	Brown (6 Suits)	2021-03-19 — 07:44:31 UTC	Bonja97, orucsoraihc, rs1	53	6	30
 463949	5	30	Rainbow (6 Suits)	2021-03-10 — 22:00:46 UTC	AssistantSensei, krampster2, molly, nk, rs1	22	6	30
-460093	3	20	No Variant	2021-03-07 — 14:08:00 UTC	bli, GilZ, rs1	750	5	25
+460093	3	20	No Variant	2021-03-07 — 14:08:00 UTC	bli, GilZ, rs1	757	5	25
 347940	4	0	White & Brown (6 Suits)	2020-11-19 — 19:57:47 UTC	AssistantSensei, krampster2, nk, rs1	20	6	30
 324497	4	23	Cow & Pig (5 Suits)	2020-10-20 — 18:39:31 UTC	AssistantSensei, krampster2, nk, rs1	12	5	25
 324477	4	0	Cow & Pig (5 Suits)	2020-10-20 — 18:13:51 UTC	AssistantSensei, krampster2, nk, rs1	28	5	25
-314773	2	24	White Reversed (6 Suits)	2020-10-07 — 05:31:07 UTC	krampster2, rs1	34	6	30
-314752	2	0	White Reversed (6 Suits)	2020-10-07 — 04:52:04 UTC	krampster2, rs1	35	6	30
-314718	2	21	White Reversed (6 Suits)	2020-10-07 — 04:19:07 UTC	krampster2, rs1	38	6	30
+314773	2	24	White Reversed (6 Suits)	2020-10-07 — 05:31:07 UTC	krampster2, rs1	35	6	30
+314752	2	0	White Reversed (6 Suits)	2020-10-07 — 04:52:04 UTC	krampster2, rs1	36	6	30
+314718	2	21	White Reversed (6 Suits)	2020-10-07 — 04:19:07 UTC	krampster2, rs1	40	6	30
 287151	6	23	Rainbow (5 Suits)	2020-09-02 — 07:05:23 UTC	Animex52, joelwool, Pablo-, pianoblook, rs1, savoryoatmeal	9	5	25
 287126	6	0	Rainbow (5 Suits)	2020-09-02 — 06:20:00 UTC	Animex52, joelwool, Pablo-, pianoblook, rs1, savoryoatmeal	8	5	25
-287108	4	30	6 Suits	2020-09-02 — 05:58:26 UTC	joelwool, pianoblook, rs1, savoryoatmeal	120	6	30
-287084	3	0	6 Suits	2020-09-02 — 05:15:33 UTC	joelwool, pianoblook, rs1	196	6	30
-287069	3	0	6 Suits	2020-09-02 — 04:53:29 UTC	joelwool, pianoblook, rs1	252	6	30
+287108	4	30	6 Suits	2020-09-02 — 05:58:26 UTC	joelwool, pianoblook, rs1, savoryoatmeal	122	6	30
+287084	3	0	6 Suits	2020-09-02 — 05:15:33 UTC	joelwool, pianoblook, rs1	199	6	30
+287069	3	0	6 Suits	2020-09-02 — 04:53:29 UTC	joelwool, pianoblook, rs1	256	6	30
 287058	4	30	White (6 Suits)	2020-09-02 — 04:36:38 UTC	Bonja97, joelwool, pianoblook, rs1	27	6	30
 287009	6	21	Black (5 Suits)	2020-09-02 — 03:59:26 UTC	Bonja97, joelwool, melwen, pianoblook, Puzzle, rs1	8	5	25
 283035	4	28	Prism (6 Suits)	2020-08-28 — 23:51:13 UTC	AssistantSensei, krampster2, nk, rs1	26	6	30
@@ -58,29 +58,29 @@
 282967	4	27	Prism (6 Suits)	2020-08-28 — 22:33:43 UTC	AssistantSensei, krampster2, nk, rs1	53	6	30
 282269	6	27	Up or Down & Prism (6 Suits)	2020-08-28 — 01:54:55 UTC	avanderwalde, melwen, rkass, rs1, scharkbite, timotree	1	6	30
 282225	6	27	Up or Down & Prism (6 Suits)	2020-08-28 — 01:12:29 UTC	avanderwalde, melwen, rkass, rs1, scharkbite, timotree	1	6	30
-274967	3	22	No Variant	2020-08-19 — 05:36:00 UTC	Aluap, antitelharsic, rs1	106	5	25
-274952	3	0	No Variant	2020-08-19 — 05:12:39 UTC	Aluap, antitelharsic, rs1	109	5	25
-274939	3	23	No Variant	2020-08-19 — 04:57:11 UTC	Aluap, antitelharsic, rs1	112	5	25
+274967	3	22	No Variant	2020-08-19 — 05:36:00 UTC	Aluap, antitelharsic, rs1	111	5	25
+274952	3	0	No Variant	2020-08-19 — 05:12:39 UTC	Aluap, antitelharsic, rs1	115	5	25
+274939	3	23	No Variant	2020-08-19 — 04:57:11 UTC	Aluap, antitelharsic, rs1	116	5	25
 272806	3	23	Black (5 Suits)	2020-08-16 — 22:15:47 UTC	asaelr, padi, rs1	55	5	25
-272787	3	20	Black (5 Suits)	2020-08-16 — 21:54:37 UTC	asaelr, padi, rs1	66	5	25
+272787	3	20	Black (5 Suits)	2020-08-16 — 21:54:37 UTC	asaelr, padi, rs1	67	5	25
 272772	6	20	Brown-Ones & Gray Pink (5 Suits)	2020-08-16 — 21:33:27 UTC	asaelr, Floriman, melwen, rs1, scharkbite, sephiroth	1	5	25
 272752	4	24	Muddy Rainbow (5 Suits)	2020-08-16 — 21:06:19 UTC	Floriman, MarkusKahlsen, rs1, sephiroth	18	5	25
-272731	3	30	Brown (6 Suits)	2020-08-16 — 20:36:37 UTC	Floriman, plus, rs1	31	6	30
-272683	2	22	No Variant	2020-08-16 — 20:03:09 UTC	Arbelula, rs1	3051	5	25
-272651	3	25	No Variant	2020-08-16 — 19:31:23 UTC	Arbelula, rs1, rs2	801	5	25
+272731	3	30	Brown (6 Suits)	2020-08-16 — 20:36:37 UTC	Floriman, plus, rs1	33	6	30
+272683	2	22	No Variant	2020-08-16 — 20:03:09 UTC	Arbelula, rs1	3072	5	25
+272651	3	25	No Variant	2020-08-16 — 19:31:23 UTC	Arbelula, rs1, rs2	809	5	25
 271900	5	0	Dark Rainbow (6 Suits)	2020-08-15 — 21:19:23 UTC	joelwool, plus, rs1, scharkbite, swineherd	8	6	30
 271873	6	29	Dark Pink (6 Suits)	2020-08-15 — 20:58:21 UTC	asaelr, joelwool, plus, rs1, Sucubis, Valetta6789	4	6	30
 271853	4	0	Dark Pink (6 Suits)	2020-08-15 — 20:37:42 UTC	asaelr, rs1, Sucubis, Valetta6789	2	6	30
 271845	4	0	Dark Pink (6 Suits)	2020-08-15 — 20:31:46 UTC	asaelr, rs1, Sucubis, Valetta6789	3	6	30
 271838	4	0	Dark Pink (6 Suits)	2020-08-15 — 20:20:15 UTC	asaelr, rs1, Sucubis, Valetta6789	3	6	30
-271818	2	22	No Variant	2020-08-15 — 19:59:34 UTC	Arbelula, rs1	3507	5	25
-271801	2	19	No Variant	2020-08-15 — 19:33:05 UTC	Arbelula, rs1	4109	5	25
-271783	2	0	No Variant	2020-08-15 — 19:02:40 UTC	Arbelula, rs1	5374	5	25
-271765	3	18	No Variant	2020-08-15 — 18:16:32 UTC	Arbelula, jesskeenerphoto, rs1	840	5	25
-271076	3	19	4 Suits	2020-08-14 — 23:58:17 UTC	AssistantSensei, nk, rs1	118	4	20
-271064	3	0	4 Suits	2020-08-14 — 23:40:33 UTC	AssistantSensei, nk, rs1	160	4	20
-271044	4	0	No Variant	2020-08-14 — 23:16:38 UTC	AssistantSensei, molly, nk, rs1	2076	5	25
-270620	2	0	Rainbow (6 Suits)	2020-08-14 — 06:34:41 UTC	plus, rs1	593	6	30
+271818	2	22	No Variant	2020-08-15 — 19:59:34 UTC	Arbelula, rs1	3537	5	25
+271801	2	19	No Variant	2020-08-15 — 19:33:05 UTC	Arbelula, rs1	4149	5	25
+271783	2	0	No Variant	2020-08-15 — 19:02:40 UTC	Arbelula, rs1	5421	5	25
+271765	3	18	No Variant	2020-08-15 — 18:16:32 UTC	Arbelula, jesskeenerphoto, rs1	849	5	25
+271076	3	19	4 Suits	2020-08-14 — 23:58:17 UTC	AssistantSensei, nk, rs1	120	4	20
+271064	3	0	4 Suits	2020-08-14 — 23:40:33 UTC	AssistantSensei, nk, rs1	162	4	20
+271044	4	0	No Variant	2020-08-14 — 23:16:38 UTC	AssistantSensei, molly, nk, rs1	2094	5	25
+270620	2	0	Rainbow (6 Suits)	2020-08-14 — 06:34:41 UTC	plus, rs1	605	6	30
 269515	5	0	Rainbow & Light Pink (5 Suits)	2020-08-13 — 04:16:12 UTC	Bonja97, joelwool, melwen, rs1, scharkbite	4	5	25
 269482	5	20	Rainbow & Light Pink (5 Suits)	2020-08-13 — 03:48:32 UTC	Bonja97, joelwool, melwen, rs1, scharkbite	5	5	25
 269464	4	0	Rainbow & Light Pink (4 Suits)	2020-08-13 — 03:22:57 UTC	Bonja97, joelwool, rs1, scharkbite	2	4	20
@@ -90,22 +90,22 @@
 267799	3	20	Rainbow-Fives & Pink (4 Suits)	2020-08-11 — 03:46:59 UTC	joelwool, Puzzle, rs1	2	4	20
 267777	5	19	Rainbow-Fives & Pink (4 Suits)	2020-08-11 — 03:11:49 UTC	Bonja97, joelwool, Puzzle, robense, rs1	1	4	20
 267015	6	0	Up or Down (6 Suits)	2020-08-10 — 06:50:53 UTC	Bonja97, crossproduct, Dr_Kakashi, joelwool, pianoblook, rs1	10	6	30
-266983	4	20	Rainbow & White (4 Suits)	2020-08-10 — 05:52:04 UTC	Bonja97, crossproduct, pianoblook, rs1	8	4	20
+266983	4	20	Rainbow & White (4 Suits)	2020-08-10 — 05:52:04 UTC	Bonja97, crossproduct, pianoblook, rs1	9	4	20
 266939	4	0	Rainbow & White (4 Suits)	2020-08-10 — 05:14:26 UTC	Bonja97, crossproduct, pianoblook, rs1	12	4	20
-266910	4	20	Muddy Rainbow (4 Suits)	2020-08-10 — 04:48:13 UTC	Bonja97, joelwool, pianoblook, rs1	16	4	20
-266875	4	0	Rainbow (4 Suits)	2020-08-10 — 04:15:06 UTC	Bonja97, joelwool, rs1, XMIL	45	4	20
+266910	4	20	Muddy Rainbow (4 Suits)	2020-08-10 — 04:48:13 UTC	Bonja97, joelwool, pianoblook, rs1	17	4	20
+266875	4	0	Rainbow (4 Suits)	2020-08-10 — 04:15:06 UTC	Bonja97, joelwool, rs1, XMIL	46	4	20
 266859	5	25	Throw It in a Hole (6 Suits)	2020-08-10 — 03:52:15 UTC	antitelharsic, JerryYang, joelwool, rs1, XMIL	8	6	30
 266821	5	0	Throw It in a Hole (5 Suits)	2020-08-10 — 03:03:18 UTC	antitelharsic, JerryYang, joelwool, rs1, XMIL	4	5	25
 266812	3	0	Duck (5 Suits)	2020-08-10 — 02:54:06 UTC	JerryYang, rs1, XMIL	22	5	25
 266783	5	28	Black & Rainbow (6 Suits)	2020-08-10 — 02:32:48 UTC	avanderwalde, JerryYang, rkass, rs1, XMIL	12	6	30
 266734	5	0	Black & Rainbow (6 Suits)	2020-08-10 — 01:54:30 UTC	avanderwalde, JerryYang, Kyle, rkass, rs1	11	6	30
 266704	4	0	Black & Rainbow (6 Suits)	2020-08-10 — 01:30:22 UTC	avanderwalde, rkass, rs1, XMIL	11	6	30
-266673	4	27	Black & Rainbow (6 Suits)	2020-08-10 — 01:01:11 UTC	avanderwalde, rkass, rs1, XMIL	13	6	30
+266673	4	27	Black & Rainbow (6 Suits)	2020-08-10 — 01:01:11 UTC	avanderwalde, rkass, rs1, XMIL	14	6	30
 266405	4	25	White-Ones & Brown (5 Suits)	2020-08-09 — 19:30:38 UTC	Ahming, rkass, rs1, XMIL	2	5	25
 266107	4	25	White (5 Suits)	2020-08-09 — 06:54:34 UTC	Bonja97, rs1, vEnhance, XMIL	31	5	25
-266087	4	0	White (5 Suits)	2020-08-09 — 06:21:43 UTC	Bonja97, rs1, vEnhance, XMIL	32	5	25
+266087	4	0	White (5 Suits)	2020-08-09 — 06:21:43 UTC	Bonja97, rs1, vEnhance, XMIL	33	5	25
 266060	5	23	White (5 Suits)	2020-08-09 — 06:02:13 UTC	alv1nn, Bonja97, rs1, vEnhance, XMIL	26	5	25
-266026	4	25	No Variant	2020-08-09 — 05:27:17 UTC	Bonja97, rs1, vEnhance, XMIL	111	5	25
+266026	4	25	No Variant	2020-08-09 — 05:27:17 UTC	Bonja97, rs1, vEnhance, XMIL	112	5	25
 265970	3	0	Dual-Color (6 Suits)	2020-08-09 — 04:41:00 UTC	bazzy, krampster2, rs1	15	6	30
 265909	4	24	Rainbow-Ones & Light Pink (5 Suits)	2020-08-09 — 03:57:54 UTC	joelwool, melwen, rs1, scharkbite	1	5	25
 265865	4	0	Rainbow-Ones & Light Pink (5 Suits)	2020-08-09 — 03:18:30 UTC	joelwool, melwen, rs1, scharkbite	1	5	25
@@ -120,15 +120,15 @@
 264746	3	27	Dual-Color (6 Suits)	2020-08-08 — 02:52:26 UTC	bazzy, krampster2, rs1	17	6	30
 264698	3	0	Dual-Color (6 Suits)	2020-08-08 — 02:02:58 UTC	bazzy, krampster2, rs1	21	6	30
 264665	3	0	Dual-Color (6 Suits)	2020-08-08 — 01:30:56 UTC	bazzy, krampster2, rs1	24	6	30
-264133	4	15	Rainbow (3 Suits)	2020-08-07 — 07:59:43 UTC	derekcheah, piper, rs1, Wittvector	13	3	15
-264127	4	10	Rainbow (3 Suits)	2020-08-07 — 07:41:26 UTC	derekcheah, piper, rs1, Wittvector	14	3	15
-264122	4	0	Rainbow (3 Suits)	2020-08-07 — 07:28:34 UTC	derekcheah, piper, rs1, Wittvector	24	3	15
+264133	4	15	Rainbow (3 Suits)	2020-08-07 — 07:59:43 UTC	derekcheah, piper, rs1, Wittvector	14	3	15
+264127	4	10	Rainbow (3 Suits)	2020-08-07 — 07:41:26 UTC	derekcheah, piper, rs1, Wittvector	15	3	15
+264122	4	0	Rainbow (3 Suits)	2020-08-07 — 07:28:34 UTC	derekcheah, piper, rs1, Wittvector	25	3	15
 264114	6	25	White (5 Suits)	2020-08-07 — 07:05:35 UTC	antitelharsic, derekcheah, piper, rs1, Wittvector, XMIL	5	5	25
 264079	3	0	Dual-Color (6 Suits)	2020-08-07 — 05:51:12 UTC	bazzy, krampster2, rs1	26	6	30
 264032	3	0	Dual-Color (6 Suits)	2020-08-07 — 04:54:29 UTC	bazzy, krampster2, rs1	34	6	30
-263994	3	0	Dual-Color (6 Suits)	2020-08-07 — 04:24:09 UTC	bazzy, krampster2, rs1	43	6	30
-263938	3	0	Dual-Color (6 Suits)	2020-08-07 — 03:31:19 UTC	bazzy, krampster2, rs1	66	6	30
-263727	4	0	No Variant	2020-08-06 — 23:35:54 UTC	Ahming, avanderwalde, Clarendon, rs1	1744	5	25
+263994	3	0	Dual-Color (6 Suits)	2020-08-07 — 04:24:09 UTC	bazzy, krampster2, rs1	44	6	30
+263938	3	0	Dual-Color (6 Suits)	2020-08-07 — 03:31:19 UTC	bazzy, krampster2, rs1	67	6	30
+263727	4	0	No Variant	2020-08-06 — 23:35:54 UTC	Ahming, avanderwalde, Clarendon, rs1	1759	5	25
 263285	3	0	Light Pink (3 Suits)	2020-08-06 — 05:59:37 UTC	pianoblook, piper, rs1	7	3	15
 263250	3	14	Light Pink (3 Suits)	2020-08-06 — 05:34:39 UTC	pianoblook, piper, rs1	12	3	15
 263216	3	15	Brown (3 Suits)	2020-08-06 — 05:14:14 UTC	pianoblook, piper, rs1	37	3	15
@@ -142,7 +142,7 @@
 262359	3	0	White-Ones & Brown (5 Suits)	2020-08-05 — 05:27:05 UTC	lilyxy, rs1, TheDaniMan	8	5	25
 262346	4	0	White-Ones & Brown (5 Suits)	2020-08-05 — 05:14:16 UTC	lilyxy, rs1, TheDaniMan, XMIL	3	5	25
 262282	3	0	Pink (6 Suits)	2020-08-05 — 04:24:13 UTC	Animex52, rs1, XMIL	31	6	30
-262220	3	0	Pink (6 Suits)	2020-08-05 — 03:29:27 UTC	Animex52, rs1, XMIL	131	6	30
+262220	3	0	Pink (6 Suits)	2020-08-05 — 03:29:27 UTC	Animex52, rs1, XMIL	132	6	30
 260349	4	24	Up or Down (5 Suits)	2020-08-03 — 06:59:01 UTC	asaelr, Bonja97, joelwool, rs1	75	5	25
 260324	5	25	No Variant	2020-08-03 — 06:28:43 UTC	Bonja97, efaust, joelwool, rs1, sjdrodge	6	5	25
 260316	5	0	No Variant	2020-08-03 — 06:07:19 UTC	Bonja97, efaust, joelwool, rs1, sjdrodge	7	5	25
@@ -153,20 +153,20 @@
 259955	5	0	Light Pink (4 Suits)	2020-08-03 — 04:46:12 UTC	DMoney, efaust, joelwool, rs1, sjdrodge	9	4	20
 259339	3	0	White & Omni (4 Suits)	2020-08-02 — 23:46:16 UTC	Kyle, NoMercy, rs1	3	4	20
 259322	3	0	White & Omni (4 Suits)	2020-08-02 — 23:24:24 UTC	NoMercy, rs1, sjdrodge	4	4	20
-257923	3	25	No Variant	2020-08-01 — 07:57:46 UTC	Fireheart, Floriman, rs1	76	5	25
-257897	3	0	No Variant	2020-08-01 — 07:40:27 UTC	Fireheart, Floriman, rs1	77	5	25
-257878	2	0	No Variant	2020-08-01 — 07:29:07 UTC	Fireheart, rs1	81	5	25
-257834	3	25	No Variant	2020-08-01 — 06:56:15 UTC	Fey, lalchetian, rs1	206	5	25
-257782	3	25	No Variant	2020-08-01 — 06:20:47 UTC	Fey, lalchetian, rs1	243	5	25
+257923	3	25	No Variant	2020-08-01 — 07:57:46 UTC	Fireheart, Floriman, rs1	77	5	25
+257897	3	0	No Variant	2020-08-01 — 07:40:27 UTC	Fireheart, Floriman, rs1	78	5	25
+257878	2	0	No Variant	2020-08-01 — 07:29:07 UTC	Fireheart, rs1	83	5	25
+257834	3	25	No Variant	2020-08-01 — 06:56:15 UTC	Fey, lalchetian, rs1	209	5	25
+257782	3	25	No Variant	2020-08-01 — 06:20:47 UTC	Fey, lalchetian, rs1	246	5	25
 257733	4	0	White Reversed (6 Suits)	2020-08-01 — 05:45:56 UTC	derekcheah, Fey, pianoblook, rs1	10	6	30
 257701	3	0	White Reversed (6 Suits)	2020-08-01 — 05:07:27 UTC	Fey, pianoblook, rs1	7	6	30
 257001	3	28	Pink (6 Suits)	2020-07-31 — 07:24:13 UTC	asaelr, Fey, rs1	5	6	30
 256990	3	29	Pink (6 Suits)	2020-07-31 — 07:00:37 UTC	asaelr, Fey, rs1	5	6	30
-256970	2	25	No Variant	2020-07-31 — 06:34:59 UTC	asaelr, rs1	132	5	25
+256970	2	25	No Variant	2020-07-31 — 06:34:59 UTC	asaelr, rs1	137	5	25
 256552	3	0	Dual-Color (6 Suits)	2020-07-31 — 01:15:56 UTC	avanderwalde, mattnabi, rs1	14	6	30
 256526	3	0	Dual-Color (6 Suits)	2020-07-31 — 00:45:03 UTC	avanderwalde, mattnabi, rs1	12	6	30
-256116	2	26	Up or Down (6 Suits)	2020-07-30 — 06:44:58 UTC	Bonja97, rs1	60	6	30
-256100	2	26	Up or Down (6 Suits)	2020-07-30 — 06:26:25 UTC	Bonja97, rs1	75	6	30
+256116	2	26	Up or Down (6 Suits)	2020-07-30 — 06:44:58 UTC	Bonja97, rs1	61	6	30
+256100	2	26	Up or Down (6 Suits)	2020-07-30 — 06:26:25 UTC	Bonja97, rs1	76	6	30
 255888	3	27	Black & Dark Rainbow (6 Suits)	2020-07-30 — 02:50:13 UTC	avanderwalde, rkass, rs1	19	6	30
 255847	3	0	Black & Dark Rainbow (6 Suits)	2020-07-30 — 02:16:46 UTC	avanderwalde, rkass, rs1	20	6	30
 255806	3	26	Black & Dark Rainbow (6 Suits)	2020-07-30 — 01:52:54 UTC	avanderwalde, rkass, rs1	21	6	30
@@ -176,76 +176,76 @@
 255727	3	22	Black & Rainbow (6 Suits)	2020-07-30 — 00:29:49 UTC	avanderwalde, rkass, rs1	19	6	30
 255157	4	20	Rainbow (4 Suits)	2020-07-29 — 05:33:38 UTC	Kyle, pianoblook, piper, rs1	4	4	20
 255132	3	0	Brown (4 Suits)	2020-07-29 — 05:13:45 UTC	Kyle, pianoblook, rs1	3	4	20
-255117	2	0	4 Suits	2020-07-29 — 04:56:28 UTC	pianoblook, rs1	171	4	20
+255117	2	0	4 Suits	2020-07-29 — 04:56:28 UTC	pianoblook, rs1	177	4	20
 254926	5	28	Dual-Color (6 Suits)	2020-07-29 — 02:13:04 UTC	avanderwalde, bazzy, mattnabi, rkass, rs1	11	6	30
 254869	5	30	Dual-Color (6 Suits)	2020-07-29 — 01:35:22 UTC	avanderwalde, bazzy, mattnabi, rkass, rs1	18	6	30
 254673	4	30	Dual-Color (6 Suits)	2020-07-28 — 21:45:10 UTC	AssistantSensei, krampster2, nk, rs1	39	6	30
 252955	3	25	White-Ones (5 Suits)	2020-07-27 — 06:18:54 UTC	pianoblook, piper, rs1	5	5	25
-252923	3	0	White-Ones (5 Suits)	2020-07-27 — 05:40:26 UTC	pianoblook, piper, rs1	9	5	25
-252819	3	0	White-Ones (5 Suits)	2020-07-27 — 05:06:31 UTC	pianoblook, piper, rs1	20	5	25
+252923	3	0	White-Ones (5 Suits)	2020-07-27 — 05:40:26 UTC	pianoblook, piper, rs1	10	5	25
+252819	3	0	White-Ones (5 Suits)	2020-07-27 — 05:06:31 UTC	pianoblook, piper, rs1	21	5	25
 252696	5	29	Dark Pink (6 Suits)	2020-07-27 — 04:24:57 UTC	melwen, pianoblook, piper, rs1, scharkbite	7	6	30
 252635	5	29	Light Pink (6 Suits)	2020-07-27 — 03:43:31 UTC	pianoblook, plus, rs1, scharkbite, Smandon	11	6	30
 252573	5	0	Brown-Fives & Pink (6 Suits)	2020-07-27 — 03:02:05 UTC	melwen, pianoblook, rs1, scharkbite, Smandon	1	6	30
 250644	4	0	Black (6 Suits)	2020-07-25 — 08:01:40 UTC	bazzy, Bonja97, rs1, XMIL	62	6	30
-250637	4	0	Black (6 Suits)	2020-07-25 — 07:49:22 UTC	bazzy, Bonja97, rs1, XMIL	74	6	30
+250637	4	0	Black (6 Suits)	2020-07-25 — 07:49:22 UTC	bazzy, Bonja97, rs1, XMIL	76	6	30
 250624	4	0	White (6 Suits)	2020-07-25 — 07:26:10 UTC	bazzy, Fey, rs1, XMIL	14	6	30
-250603	4	25	Black (6 Suits)	2020-07-25 — 06:45:28 UTC	bazzy, Fey, rs1, XMIL	91	6	30
-250566	3	30	Rainbow (6 Suits)	2020-07-25 — 05:58:29 UTC	bazzy, rs1, XMIL	183	6	30
+250603	4	25	Black (6 Suits)	2020-07-25 — 06:45:28 UTC	bazzy, Fey, rs1, XMIL	95	6	30
+250566	3	30	Rainbow (6 Suits)	2020-07-25 — 05:58:29 UTC	bazzy, rs1, XMIL	186	6	30
 250527	4	25	No Variant	2020-07-25 — 05:12:11 UTC	bazzy, joelwool, rs1, XMIL	129	5	25
-249445	3	25	No Variant	2020-07-24 — 03:57:08 UTC	JK, Rafaloffthelog, rs1	940	5	25
+249445	3	25	No Variant	2020-07-24 — 03:57:08 UTC	JK, Rafaloffthelog, rs1	952	5	25
 249382	3	0	White Reversed (6 Suits)	2020-07-24 — 02:43:22 UTC	Ahming, Kyle, rs1	11	6	30
 249358	3	0	White Reversed (6 Suits)	2020-07-24 — 02:18:31 UTC	Ahming, Kyle, rs1	15	6	30
 248639	4	25	Up or Down & Brown (5 Suits)	2020-07-23 — 08:32:12 UTC	rs1, sephiroth, TheDaniMan, Zakisan	9	5	25
 248637	4	0	Up or Down & Brown (5 Suits)	2020-07-23 — 08:15:26 UTC	rs1, sephiroth, TheDaniMan, Zakisan	10	5	25
-248635	6	0	Rainbow (6 Suits)	2020-07-23 — 08:01:26 UTC	joelwool, Pablo-, rs1, sephiroth, sjdrodge, TheDaniMan	8	6	30
+248635	6	0	Rainbow (6 Suits)	2020-07-23 — 08:01:26 UTC	joelwool, Pablo-, rs1, sephiroth, sjdrodge, TheDaniMan	9	6	30
 248633	3	0	Up or Down (6 Suits)	2020-07-23 — 07:41:11 UTC	joelwool, rs1, sjdrodge	6	6	30
 248611	3	29	White Reversed (6 Suits)	2020-07-23 — 06:59:02 UTC	joelwool, rs1, sjdrodge	21	6	30
-248585	2	0	White Reversed (6 Suits)	2020-07-23 — 06:18:34 UTC	joelwool, rs1	44	6	30
-248573	2	0	White Reversed (6 Suits)	2020-07-23 — 05:44:31 UTC	joelwool, rs1	49	6	30
+248585	2	0	White Reversed (6 Suits)	2020-07-23 — 06:18:34 UTC	joelwool, rs1	46	6	30
+248573	2	0	White Reversed (6 Suits)	2020-07-23 — 05:44:31 UTC	joelwool, rs1	52	6	30
 248534	2	25	6 Suits	2020-07-23 — 05:08:37 UTC	bazzy, rs1	30	6	30
 248471	2	29	6 Suits	2020-07-23 — 04:24:47 UTC	bazzy, rs1	30	6	30
-248437	2	30	6 Suits	2020-07-23 — 03:52:21 UTC	bazzy, rs1	137	6	30
-248410	2	0	6 Suits	2020-07-23 — 03:31:11 UTC	bazzy, rs1	147	6	30
-248406	2	27	6 Suits	2020-07-23 — 03:21:04 UTC	bazzy, rs1	160	6	30
+248437	2	30	6 Suits	2020-07-23 — 03:52:21 UTC	bazzy, rs1	140	6	30
+248410	2	0	6 Suits	2020-07-23 — 03:31:11 UTC	bazzy, rs1	150	6	30
+248406	2	27	6 Suits	2020-07-23 — 03:21:04 UTC	bazzy, rs1	163	6	30
 248366	6	0	Black & Rainbow (5 Suits)	2020-07-23 — 02:43:58 UTC	avanderwalde, Kyle, rkass, rs1, Smandon, Tiramisu1th	5	5	25
-247665	4	0	Rainbow (4 Suits)	2020-07-22 — 07:05:32 UTC	derekcheah, pianoblook, piper, rs1	20	4	20
-247631	4	19	Rainbow (4 Suits)	2020-07-22 — 06:27:52 UTC	derekcheah, pianoblook, piper, rs1	25	4	20
+247665	4	0	Rainbow (4 Suits)	2020-07-22 — 07:05:32 UTC	derekcheah, pianoblook, piper, rs1	21	4	20
+247631	4	19	Rainbow (4 Suits)	2020-07-22 — 06:27:52 UTC	derekcheah, pianoblook, piper, rs1	26	4	20
 247601	4	0	Dark Rainbow (6 Suits)	2020-07-22 — 05:47:40 UTC	derekcheah, pianoblook, piper, rs1	32	6	30
 247583	2	28	6 Suits	2020-07-22 — 05:21:44 UTC	bazzy, rs1	31	6	30
-247564	2	29	6 Suits	2020-07-22 — 05:00:47 UTC	bazzy, rs1	169	6	30
-247552	2	0	6 Suits	2020-07-22 — 04:48:07 UTC	bazzy, rs1	174	6	30
+247564	2	29	6 Suits	2020-07-22 — 05:00:47 UTC	bazzy, rs1	172	6	30
+247552	2	0	6 Suits	2020-07-22 — 04:48:07 UTC	bazzy, rs1	179	6	30
 247546	2	28	6 Suits	2020-07-22 — 04:41:57 UTC	bazzy, rs1	30	6	30
-247530	2	28	6 Suits	2020-07-22 — 04:17:34 UTC	bazzy, rs1	180	6	30
-247500	2	30	6 Suits	2020-07-22 — 03:44:44 UTC	bazzy, rs1	189	6	30
-247486	2	26	6 Suits	2020-07-22 — 03:16:49 UTC	bazzy, rs1	200	6	30
-246672	2	25	6 Suits	2020-07-21 — 06:15:53 UTC	bazzy, rs1	207	6	30
-246655	2	0	6 Suits	2020-07-21 — 05:50:27 UTC	bazzy, rs1	211	6	30
-246639	2	22	6 Suits	2020-07-21 — 05:26:12 UTC	bazzy, rs1	221	6	30
-246505	2	25	6 Suits	2020-07-21 — 04:02:01 UTC	bazzy, rs1	236	6	30
-246458	2	0	6 Suits	2020-07-21 — 03:29:11 UTC	bazzy, rs1	248	6	30
-246443	2	28	6 Suits	2020-07-21 — 03:19:39 UTC	bazzy, rs1	274	6	30
-246390	2	0	6 Suits	2020-07-21 — 02:43:04 UTC	bazzy, rs1	304	6	30
-246372	2	0	6 Suits	2020-07-21 — 02:18:03 UTC	bazzy, rs1	340	6	30
-244710	2	0	6 Suits	2020-07-19 — 04:56:30 UTC	bazzy, rs1	378	6	30
-244668	2	0	6 Suits	2020-07-19 — 04:29:16 UTC	bazzy, rs1	401	6	30
-244641	2	0	6 Suits	2020-07-19 — 04:11:22 UTC	bazzy, rs1	444	6	30
-244614	2	0	6 Suits	2020-07-19 — 03:47:38 UTC	bazzy, rs1	505	6	30
-244566	2	0	6 Suits	2020-07-19 — 03:09:16 UTC	bazzy, rs1	593	6	30
-244533	2	0	6 Suits	2020-07-19 — 02:44:02 UTC	bazzy, rs1	666	6	30
-244490	2	0	6 Suits	2020-07-19 — 02:16:31 UTC	bazzy, rs1	851	6	30
+247530	2	28	6 Suits	2020-07-22 — 04:17:34 UTC	bazzy, rs1	185	6	30
+247500	2	30	6 Suits	2020-07-22 — 03:44:44 UTC	bazzy, rs1	193	6	30
+247486	2	26	6 Suits	2020-07-22 — 03:16:49 UTC	bazzy, rs1	204	6	30
+246672	2	25	6 Suits	2020-07-21 — 06:15:53 UTC	bazzy, rs1	211	6	30
+246655	2	0	6 Suits	2020-07-21 — 05:50:27 UTC	bazzy, rs1	215	6	30
+246639	2	22	6 Suits	2020-07-21 — 05:26:12 UTC	bazzy, rs1	225	6	30
+246505	2	25	6 Suits	2020-07-21 — 04:02:01 UTC	bazzy, rs1	240	6	30
+246458	2	0	6 Suits	2020-07-21 — 03:29:11 UTC	bazzy, rs1	253	6	30
+246443	2	28	6 Suits	2020-07-21 — 03:19:39 UTC	bazzy, rs1	280	6	30
+246390	2	0	6 Suits	2020-07-21 — 02:43:04 UTC	bazzy, rs1	315	6	30
+246372	2	0	6 Suits	2020-07-21 — 02:18:03 UTC	bazzy, rs1	352	6	30
+244710	2	0	6 Suits	2020-07-19 — 04:56:30 UTC	bazzy, rs1	388	6	30
+244668	2	0	6 Suits	2020-07-19 — 04:29:16 UTC	bazzy, rs1	413	6	30
+244641	2	0	6 Suits	2020-07-19 — 04:11:22 UTC	bazzy, rs1	453	6	30
+244614	2	0	6 Suits	2020-07-19 — 03:47:38 UTC	bazzy, rs1	513	6	30
+244566	2	0	6 Suits	2020-07-19 — 03:09:16 UTC	bazzy, rs1	601	6	30
+244533	2	0	6 Suits	2020-07-19 — 02:44:02 UTC	bazzy, rs1	675	6	30
+244490	2	0	6 Suits	2020-07-19 — 02:16:31 UTC	bazzy, rs1	862	6	30
 241756	5	0	Up or Down (6 Suits)	2020-07-16 — 18:56:03 UTC	AssistantSensei, krampster2, molly, nk, rs1	14	6	30
 238013	4	24	Up or Down (5 Suits)	2020-07-13 — 03:20:28 UTC	Pablo-, Puzzle, rs1, Smandon	31	5	25
 237970	4	0	Up or Down (5 Suits)	2020-07-13 — 02:42:16 UTC	guava, Pablo-, Puzzle, rs1	35	5	25
 237923	4	24	Up or Down (5 Suits)	2020-07-13 — 02:09:56 UTC	bazzy, guava, Pablo-, rs1	25	5	25
 237645	5	22	Black (5 Suits)	2020-07-12 — 21:11:45 UTC	avanderwalde, MarekU, Pablo-, rs1, sheamol	27	5	25
-237613	4	0	Black (5 Suits)	2020-07-12 — 20:37:29 UTC	avanderwalde, MarekU, mattnabi, rs1	98	5	25
+237613	4	0	Black (5 Suits)	2020-07-12 — 20:37:29 UTC	avanderwalde, MarekU, mattnabi, rs1	101	5	25
 237592	5	23	Black (5 Suits)	2020-07-12 — 20:08:05 UTC	avanderwalde, emilyzhao, mattnabi, rs1, squidgetx	30	5	25
 237576	5	23	Black (5 Suits)	2020-07-12 — 19:35:22 UTC	avanderwalde, emilyzhao, mattnabi, rs1, squidgetx	36	5	25
-237557	3	18	Black (5 Suits)	2020-07-12 — 19:08:10 UTC	avanderwalde, mattnabi, rs1	134	5	25
+237557	3	18	Black (5 Suits)	2020-07-12 — 19:08:10 UTC	avanderwalde, mattnabi, rs1	135	5	25
 237373	5	0	Dark Pink (6 Suits)	2020-07-12 — 09:37:19 UTC	asaelr, derekcheah, rs1, sephiroth, TheDaniMan	13	6	30
 237372	4	0	Dark Pink (5 Suits)	2020-07-12 — 09:18:49 UTC	rs1, sephiroth, TheDaniMan, Zakisan	9	5	25
 237370	4	0	Dark Pink (5 Suits)	2020-07-12 — 09:15:27 UTC	rs1, sephiroth, TheDaniMan, Zakisan	11	5	25
-237364	4	25	Dark Rainbow (5 Suits)	2020-07-12 — 09:04:29 UTC	rs1, sephiroth, TheDaniMan, Zakisan	23	5	25
+237364	4	25	Dark Rainbow (5 Suits)	2020-07-12 — 09:04:29 UTC	rs1, sephiroth, TheDaniMan, Zakisan	24	5	25
 237361	4	0	Dark Rainbow (5 Suits)	2020-07-12 — 08:52:40 UTC	rs1, sephiroth, TheDaniMan, Zakisan	29	5	25
 237349	5	0	Up or Down (6 Suits)	2020-07-12 — 08:37:01 UTC	asaelr, derekcheah, rs1, sephiroth, Zakisan	3	6	30
 237341	5	0	Up or Down (6 Suits)	2020-07-12 — 08:11:50 UTC	asaelr, derekcheah, rs1, sephiroth, Zakisan	3	6	30
@@ -255,15 +255,15 @@
 236553	4	0	Up or Down (5 Suits)	2020-07-11 — 21:14:42 UTC	avanderwalde, mattnabi, rkass, rs1	15	5	25
 236520	4	0	Up or Down (5 Suits)	2020-07-11 — 20:50:58 UTC	avanderwalde, mattnabi, rkass, rs1	18	5	25
 236513	4	25	Up or Down (5 Suits)	2020-07-11 — 20:42:53 UTC	avanderwalde, mattnabi, rkass, rs1	16	5	25
-235548	2	0	4 Suits	2020-07-10 — 22:43:28 UTC	Dudsmaster, rs1	244	4	20
+235548	2	0	4 Suits	2020-07-10 — 22:43:28 UTC	Dudsmaster, rs1	248	4	20
 234319	5	23	Up or Down (6 Suits)	2020-07-09 — 19:08:28 UTC	AssistantSensei, krampster2, molly, nk, rs1	17	6	30
-233952	3	20	No Variant	2020-07-09 — 05:04:14 UTC	davidk, gazebo, rs1	1017	5	25
-233887	3	0	No Variant	2020-07-09 — 04:09:18 UTC	davidk, gazebo, rs1	1095	5	25
+233952	3	20	No Variant	2020-07-09 — 05:04:14 UTC	davidk, gazebo, rs1	1026	5	25
+233887	3	0	No Variant	2020-07-09 — 04:09:18 UTC	davidk, gazebo, rs1	1102	5	25
 233832	4	23	Up or Down (5 Suits)	2020-07-09 — 02:56:19 UTC	avanderwalde, rkass, rs1, theandrewni	21	5	25
 233778	5	0	Up or Down (5 Suits)	2020-07-09 — 02:00:21 UTC	avanderwalde, emilyzhao, rkass, rs1, squidgetx	13	5	25
 233734	4	22	Up or Down (5 Suits)	2020-07-09 — 01:24:34 UTC	Bonja, guava, rs1, theandrewni	41	5	25
-229059	4	0	Rainbow (6 Suits)	2020-07-04 — 08:45:25 UTC	eljobe, rs1, swineherd, Zakisan	275	6	30
-229044	4	25	No Variant	2020-07-04 — 08:05:44 UTC	eljobe, rs1, swineherd, Zakisan	180	5	25
+229059	4	0	Rainbow (6 Suits)	2020-07-04 — 08:45:25 UTC	eljobe, rs1, swineherd, Zakisan	280	6	30
+229044	4	25	No Variant	2020-07-04 — 08:05:44 UTC	eljobe, rs1, swineherd, Zakisan	182	5	25
 219905	3	30	Rainbow (6 Suits)	2020-06-26 — 23:35:39 UTC	krampster2, molly, rs1	24	6	30
 218704	3	30	Rainbow (6 Suits)	2020-06-26 — 00:39:11 UTC	krampster2, molly, rs1	26	6	30
 215671	3	28	Rainbow (6 Suits)	2020-06-23 — 02:33:43 UTC	krampster2, molly, rs1	26	6	30
@@ -272,40 +272,40 @@
 212172	5	28	Rainbow (6 Suits)	2020-06-20 — 00:40:50 UTC	AssistantSensei, krampster2, molly, nk, rs1	24	6	30
 212105	5	26	Rainbow (6 Suits)	2020-06-19 — 23:50:21 UTC	AssistantSensei, krampster2, molly, nk, rs1	24	6	30
 211559	4	24	Up or Down (5 Suits)	2020-06-19 — 08:17:19 UTC	derekcheah, kodomazer, rs1, Zakisan	52	5	25
-211518	3	22	No Variant	2020-06-19 — 05:59:33 UTC	JK, rs1, Waffle	1174	5	25
-211467	3	20	No Variant	2020-06-19 — 05:16:20 UTC	JK, rs1, Waffle	1881	5	25
-209466	3	23	Up or Down (5 Suits)	2020-06-17 — 07:10:36 UTC	derekcheah, kooolant, rs1	54	5	25
-209451	3	0	Up or Down (5 Suits)	2020-06-17 — 06:38:32 UTC	derekcheah, kooolant, rs1	57	5	25
-209392	3	0	Rainbow (6 Suits)	2020-06-17 — 05:16:46 UTC	metta, rs1, sephiroth	689	6	30
-209279	3	25	No Variant	2020-06-17 — 04:06:59 UTC	metta, rs1, sephiroth	1291	5	25
+211518	3	22	No Variant	2020-06-19 — 05:59:33 UTC	JK, rs1, Waffle	1180	5	25
+211467	3	20	No Variant	2020-06-19 — 05:16:20 UTC	JK, rs1, Waffle	1896	5	25
+209466	3	23	Up or Down (5 Suits)	2020-06-17 — 07:10:36 UTC	derekcheah, kooolant, rs1	56	5	25
+209451	3	0	Up or Down (5 Suits)	2020-06-17 — 06:38:32 UTC	derekcheah, kooolant, rs1	59	5	25
+209392	3	0	Rainbow (6 Suits)	2020-06-17 — 05:16:46 UTC	metta, rs1, sephiroth	693	6	30
+209279	3	25	No Variant	2020-06-17 — 04:06:59 UTC	metta, rs1, sephiroth	1299	5	25
 205930	2	26	Pink (6 Suits)	2020-06-14 — 03:43:37 UTC	krampster2, rs1	27	6	30
 204298	2	0	Pink (6 Suits)	2020-06-13 — 00:37:14 UTC	krampster2, rs1	27	6	30
-203326	2	15	3 Suits	2020-06-12 — 03:55:21 UTC	padi, rs1	193	3	15
-203292	3	14	3 Suits	2020-06-12 — 03:38:38 UTC	newduke, padi, rs1	88	3	15
-203268	3	14	3 Suits	2020-06-12 — 03:22:19 UTC	newduke, padi, rs1	115	3	15
-203238	3	14	3 Suits	2020-06-12 — 03:05:43 UTC	newduke, padi, rs1	144	3	15
+203326	2	15	3 Suits	2020-06-12 — 03:55:21 UTC	padi, rs1	195	3	15
+203292	3	14	3 Suits	2020-06-12 — 03:38:38 UTC	newduke, padi, rs1	90	3	15
+203268	3	14	3 Suits	2020-06-12 — 03:22:19 UTC	newduke, padi, rs1	116	3	15
+203238	3	14	3 Suits	2020-06-12 — 03:05:43 UTC	newduke, padi, rs1	146	3	15
 203004	2	28	Pink (6 Suits)	2020-06-12 — 00:35:25 UTC	krampster2, rs1	31	6	30
 202220	2	30	Pink (6 Suits)	2020-06-11 — 03:10:39 UTC	krampster2, rs1	32	6	30
 201756	2	29	Pink (6 Suits)	2020-06-10 — 21:06:53 UTC	krampster2, rs1	93	6	30
 201687	2	0	Pink (6 Suits)	2020-06-10 — 20:14:47 UTC	krampster2, rs1	93	6	30
-200882	2	27	Pink (6 Suits)	2020-06-10 — 01:06:06 UTC	krampster2, rs1	104	6	30
-200820	2	0	Pink (6 Suits)	2020-06-10 — 00:14:40 UTC	krampster2, rs1	115	6	30
-200108	2	0	Pink (6 Suits)	2020-06-09 — 07:11:12 UTC	derekcheah, rs1	143	6	30
-200095	2	25	Pink (6 Suits)	2020-06-09 — 06:52:59 UTC	derekcheah, rs1	157	6	30
-200080	2	0	Pink (6 Suits)	2020-06-09 — 06:31:40 UTC	derekcheah, rs1	172	6	30
-200067	2	0	Pink (6 Suits)	2020-06-09 — 06:15:36 UTC	derekcheah, rs1	219	6	30
-199805	3	0	Brown (6 Suits)	2020-06-09 — 03:09:53 UTC	qbphoenix, rs1, XMIL	40	6	30
+200882	2	27	Pink (6 Suits)	2020-06-10 — 01:06:06 UTC	krampster2, rs1	106	6	30
+200820	2	0	Pink (6 Suits)	2020-06-10 — 00:14:40 UTC	krampster2, rs1	117	6	30
+200108	2	0	Pink (6 Suits)	2020-06-09 — 07:11:12 UTC	derekcheah, rs1	146	6	30
+200095	2	25	Pink (6 Suits)	2020-06-09 — 06:52:59 UTC	derekcheah, rs1	158	6	30
+200080	2	0	Pink (6 Suits)	2020-06-09 — 06:31:40 UTC	derekcheah, rs1	173	6	30
+200067	2	0	Pink (6 Suits)	2020-06-09 — 06:15:36 UTC	derekcheah, rs1	220	6	30
+199805	3	0	Brown (6 Suits)	2020-06-09 — 03:09:53 UTC	qbphoenix, rs1, XMIL	41	6	30
 199736	5	21	Special Mix (5 Suits)	2020-06-09 — 02:29:08 UTC	derekcheah, melwen, rs1, will.i.am, XMIL	16	5	25
-198914	3	0	No Variant	2020-06-08 — 07:28:26 UTC	rs1, swineherd, sylvia	1465	5	25
-198902	3	0	No Variant	2020-06-08 — 07:08:20 UTC	rs1, swineherd, sylvia	1636	5	25
-198892	3	0	No Variant	2020-06-08 — 06:54:53 UTC	rs1, swineherd, sylvia	2163	5	25
-198867	3	23	No Variant	2020-06-08 — 06:13:16 UTC	newduke, rs1, sylvia	2606	5	25
-198810	3	23	No Variant	2020-06-08 — 05:11:44 UTC	newduke, rs1, sylvia	3260	5	25
+198914	3	0	No Variant	2020-06-08 — 07:28:26 UTC	rs1, swineherd, sylvia	1474	5	25
+198902	3	0	No Variant	2020-06-08 — 07:08:20 UTC	rs1, swineherd, sylvia	1651	5	25
+198892	3	0	No Variant	2020-06-08 — 06:54:53 UTC	rs1, swineherd, sylvia	2179	5	25
+198867	3	23	No Variant	2020-06-08 — 06:13:16 UTC	newduke, rs1, sylvia	2627	5	25
+198810	3	23	No Variant	2020-06-08 — 05:11:44 UTC	newduke, rs1, sylvia	3290	5	25
 198371	3	25	Rainbow (6 Suits)	2020-06-07 — 22:40:20 UTC	Instantiation, rs1, scharkbite	7	6	30
 198280	6	0	Rainbow (6 Suits)	2020-06-07 — 21:15:18 UTC	Darth_Calculus, Instantiation, postmans, qwertyelmer, rs1, scharkbite	9	6	30
 197086	5	0	6 Suits	2020-06-07 — 02:05:06 UTC	Double E, krampster2, molly, nk, rs1	96	6	30
-197044	5	0	6 Suits	2020-06-07 — 01:30:42 UTC	Double E, krampster2, molly, nk, rs1	132	6	30
-196976	5	27	6 Suits	2020-06-07 — 00:45:02 UTC	Double E, krampster2, molly, nk, rs1	199	6	30
+197044	5	0	6 Suits	2020-06-07 — 01:30:42 UTC	Double E, krampster2, molly, nk, rs1	133	6	30
+196976	5	27	6 Suits	2020-06-07 — 00:45:02 UTC	Double E, krampster2, molly, nk, rs1	203	6	30
 195989	3	0	Black Reversed (6 Suits)	2020-06-06 — 05:20:49 UTC	Cory, Lilliana, rs1	5	6	30
 195943	3	0	Black Reversed (6 Suits)	2020-06-06 — 05:05:33 UTC	Cory, Lilliana, rs1	7	6	30
 195880	3	29	Black Reversed (6 Suits)	2020-06-06 — 04:38:24 UTC	Cory, kooolant, rs1	10	6	30
@@ -313,19 +313,19 @@
 195718	3	0	Black Reversed (5 Suits)	2020-06-06 — 03:02:57 UTC	Cory, qbphoenix, rs1	10	5	25
 195676	4	0	Black Reversed (5 Suits)	2020-06-06 — 02:35:48 UTC	Cory, qbphoenix, rs1, sephiroth	4	5	25
 195651	4	0	Black Reversed (5 Suits)	2020-06-06 — 02:22:38 UTC	Cory, qbphoenix, rs1, sephiroth	9	5	25
-195391	5	0	No Variant	2020-06-05 — 23:16:36 UTC	Double E, krampster2, molly, nk, rs1	658	5	25
-194866	4	25	No Variant	2020-06-05 — 07:49:31 UTC	derekcheah, pianoblook, rs1, Zakisan	54	5	25
+195391	5	0	No Variant	2020-06-05 — 23:16:36 UTC	Double E, krampster2, molly, nk, rs1	667	5	25
+194866	4	25	No Variant	2020-06-05 — 07:49:31 UTC	derekcheah, pianoblook, rs1, Zakisan	55	5	25
 194841	5	22	No Variant	2020-06-05 — 07:05:31 UTC	derekcheah, pianoblook, rs1, swineherd, TheDaniMan	135	5	25
 194807	6	0	Null (5 Suits)	2020-06-05 — 06:34:32 UTC	derekcheah, letical, pianoblook, rs1, swineherd, TheDaniMan	5	5	25
 194788	5	24	Null (5 Suits)	2020-06-05 — 06:13:57 UTC	derekcheah, pianoblook, rs1, swineherd, TheDaniMan	6	5	25
-192777	5	24	No Variant	2020-06-03 — 18:00:27 UTC	Double E, krampster2, molly, nk, rs1	837	5	25
+192777	5	24	No Variant	2020-06-03 — 18:00:27 UTC	Double E, krampster2, molly, nk, rs1	845	5	25
 188311	5	0	Black & Rainbow (6 Suits)	2020-05-31 — 00:43:31 UTC	DrJones, melwen, rs1, swineherd, TheDaniMan	10	6	30
 188274	5	27	Black & Rainbow (6 Suits)	2020-05-31 — 00:08:12 UTC	DrJones, melwen, rs1, swineherd, TheDaniMan	15	6	30
-188119	4	25	No Variant	2020-05-30 — 21:33:15 UTC	Aluap, antitelharsic, Joacoini, rs1	287	5	25
-188077	4	0	No Variant	2020-05-30 — 20:55:24 UTC	Aluap, antitelharsic, Joacoini, rs1	308	5	25
+188119	4	25	No Variant	2020-05-30 — 21:33:15 UTC	Aluap, antitelharsic, Joacoini, rs1	293	5	25
+188077	4	0	No Variant	2020-05-30 — 20:55:24 UTC	Aluap, antitelharsic, Joacoini, rs1	311	5	25
 187653	3	25	No Variant	2020-05-30 — 07:24:41 UTC	red_hedgehog, rs1, Zamiel	6	5	25
-187391	5	27	Black (6 Suits)	2020-05-30 — 05:09:59 UTC	derekcheah, mikefrenil, nqztv, rs1, will.i.am	101	6	30
-187329	4	0	Black (6 Suits)	2020-05-30 — 04:31:34 UTC	derekcheah, nqztv, rs1, will.i.am	142	6	30
+187391	5	27	Black (6 Suits)	2020-05-30 — 05:09:59 UTC	derekcheah, mikefrenil, nqztv, rs1, will.i.am	103	6	30
+187329	4	0	Black (6 Suits)	2020-05-30 — 04:31:34 UTC	derekcheah, nqztv, rs1, will.i.am	143	6	30
 184312	3	0	Black & Rainbow (5 Suits)	2020-05-28 — 02:11:49 UTC	molly, nk, rs1	30	5	25
 183824	3	0	Black & Rainbow (5 Suits)	2020-05-27 — 18:55:11 UTC	molly, nk, rs1	31	5	25
 175936	3	29	Black (6 Suits)	2020-05-22 — 00:58:49 UTC	Double E, krampster2, rs1	24	6	30
@@ -334,7 +334,7 @@
 172922	3	27	Black (6 Suits)	2020-05-19 — 17:38:15 UTC	Double E, krampster2, rs1	32	6	30
 167373	5	19	4 Suits	2020-05-15 — 23:06:13 UTC	Double E, krampster2, molly, nk, rs1	47	4	20
 167356	5	27	Dark Rainbow (6 Suits)	2020-05-15 — 22:49:18 UTC	Double E, krampster2, molly, nk, rs1	6	6	30
-166420	3	22	No Variant	2020-05-15 — 02:51:08 UTC	JK, rs1, Waffle	4221	5	25
+166420	3	22	No Variant	2020-05-15 — 02:51:08 UTC	JK, rs1, Waffle	4250	5	25
 163481	5	26	Dark Rainbow (6 Suits)	2020-05-12 — 20:59:11 UTC	Double E, krampster2, molly, nk, rs1	7	6	30
 163432	5	0	Dark Rainbow (6 Suits)	2020-05-12 — 20:19:25 UTC	Double E, krampster2, molly, nk, rs1	7	6	30
 163425	5	0	Dark Rainbow (6 Suits)	2020-05-12 — 20:15:11 UTC	Double E, krampster2, molly, nk, rs1	8	6	30
@@ -343,33 +343,33 @@
 151891	5	26	Dark Rainbow (6 Suits)	2020-05-04 — 17:51:05 UTC	Double E, krampster2, molly, nk, rs1	9	6	30
 145270	5	27	Dark Rainbow (6 Suits)	2020-04-30 — 20:53:35 UTC	Double E, krampster2, molly, nk, rs1	11	6	30
 145205	5	0	Dark Rainbow (6 Suits)	2020-04-30 — 20:16:35 UTC	Double E, krampster2, molly, nk, rs1	12	6	30
-141277	5	24	No Variant	2020-04-27 — 21:01:58 UTC	Double E, krampster2, molly, nk, rs1	1119	5	25
+141277	5	24	No Variant	2020-04-27 — 21:01:58 UTC	Double E, krampster2, molly, nk, rs1	1125	5	25
 141256	5	25	Dark Rainbow (6 Suits)	2020-04-27 — 20:42:43 UTC	Double E, krampster2, molly, nk, rs1	14	6	30
 134802	5	23	Dark Rainbow (6 Suits)	2020-04-23 — 21:55:54 UTC	Double E, krampster2, molly, nk, rs1	14	6	30
 134756	5	0	Dark Rainbow (6 Suits)	2020-04-23 — 21:28:09 UTC	Double E, krampster2, molly, nk, rs1	13	6	30
-134736	4	0	Dark Rainbow (6 Suits)	2020-04-23 — 21:15:38 UTC	Double E, molly, nk, rs1	41	6	30
+134736	4	0	Dark Rainbow (6 Suits)	2020-04-23 — 21:15:38 UTC	Double E, molly, nk, rs1	42	6	30
 130755	5	26	Dark Rainbow (6 Suits)	2020-04-20 — 19:47:26 UTC	Double E, krampster2, molly, nk, rs1	14	6	30
-130726	5	24	Dark Rainbow (6 Suits)	2020-04-20 — 19:05:26 UTC	Double E, krampster2, molly, nk, rs1	18	6	30
-124572	5	25	Dark Rainbow (6 Suits)	2020-04-16 — 21:50:53 UTC	Double E, krampster2, molly, nk, rs1	23	6	30
+130726	5	24	Dark Rainbow (6 Suits)	2020-04-20 — 19:05:26 UTC	Double E, krampster2, molly, nk, rs1	19	6	30
+124572	5	25	Dark Rainbow (6 Suits)	2020-04-16 — 21:50:53 UTC	Double E, krampster2, molly, nk, rs1	24	6	30
 124506	5	0	Dark Rainbow (6 Suits)	2020-04-16 — 21:12:10 UTC	Double E, krampster2, molly, nk, rs1	33	6	30
-120534	4	0	Dark Rainbow (6 Suits)	2020-04-13 — 18:07:53 UTC	Double E, krampster2, nk, rs1	48	6	30
-120485	4	0	Dark Rainbow (6 Suits)	2020-04-13 — 17:24:59 UTC	Double E, krampster2, nk, rs1	53	6	30
-114006	5	30	Rainbow (6 Suits)	2020-04-08 — 18:37:53 UTC	Double E, krampster2, molly, nk, rs1	27	6	30
-111961	5	27	Rainbow (6 Suits)	2020-04-06 — 22:46:10 UTC	Double E, krampster2, molly, nk, rs1	31	6	30
+120534	4	0	Dark Rainbow (6 Suits)	2020-04-13 — 18:07:53 UTC	Double E, krampster2, nk, rs1	49	6	30
+120485	4	0	Dark Rainbow (6 Suits)	2020-04-13 — 17:24:59 UTC	Double E, krampster2, nk, rs1	54	6	30
+114006	5	30	Rainbow (6 Suits)	2020-04-08 — 18:37:53 UTC	Double E, krampster2, molly, nk, rs1	28	6	30
+111961	5	27	Rainbow (6 Suits)	2020-04-06 — 22:46:10 UTC	Double E, krampster2, molly, nk, rs1	32	6	30
 107285	5	0	Rainbow (6 Suits)	2020-04-03 — 18:35:52 UTC	Double E, krampster2, molly, nk, rs1	39	6	30
 107266	5	0	Rainbow (6 Suits)	2020-04-03 — 18:17:43 UTC	Double E, krampster2, molly, nk, rs1	42	6	30
-103649	4	30	Rainbow (6 Suits)	2020-03-31 — 18:11:10 UTC	Double E, krampster2, nk, rs1	344	6	30
-103594	4	0	Rainbow (6 Suits)	2020-03-31 — 17:17:57 UTC	Double E, krampster2, nk, rs1	493	6	30
+103649	4	30	Rainbow (6 Suits)	2020-03-31 — 18:11:10 UTC	Double E, krampster2, nk, rs1	349	6	30
+103594	4	0	Rainbow (6 Suits)	2020-03-31 — 17:17:57 UTC	Double E, krampster2, nk, rs1	497	6	30
 99160	5	27	Rainbow (6 Suits)	2020-03-28 — 00:53:41 UTC	Double E, krampster2, molly, nk, rs1	49	6	30
-99052	5	0	Rainbow (6 Suits)	2020-03-28 — 00:05:55 UTC	Double E, krampster2, molly, nk, rs1	50	6	30
-99043	5	0	Rainbow (6 Suits)	2020-03-28 — 00:00:04 UTC	Double E, krampster2, molly, nk, rs1	59	6	30
-97021	5	0	Rainbow (6 Suits)	2020-03-25 — 19:21:20 UTC	Double E, krampster2, molly, nk, rs1	67	6	30
+99052	5	0	Rainbow (6 Suits)	2020-03-28 — 00:05:55 UTC	Double E, krampster2, molly, nk, rs1	51	6	30
+99043	5	0	Rainbow (6 Suits)	2020-03-28 — 00:00:04 UTC	Double E, krampster2, molly, nk, rs1	60	6	30
+97021	5	0	Rainbow (6 Suits)	2020-03-25 — 19:21:20 UTC	Double E, krampster2, molly, nk, rs1	68	6	30
 96996	5	0	Rainbow (6 Suits)	2020-03-25 — 18:40:21 UTC	Double E, krampster2, molly, nk, rs1	83	6	30
-96992	5	0	Rainbow (6 Suits)	2020-03-25 — 18:35:12 UTC	Double E, krampster2, molly, nk, rs1	101	6	30
-95482	5	0	Rainbow (6 Suits)	2020-03-23 — 22:49:59 UTC	Double E, krampster2, molly, nk, rs1	133	6	30
-92275	5	0	Rainbow (6 Suits)	2020-03-19 — 23:19:08 UTC	Double E, krampster2, molly, nk, rs1	209	6	30
-92250	4	26	Black (6 Suits)	2020-03-19 — 22:55:18 UTC	Double E, krampster2, nk, rs1	175	6	30
-90908	4	30	Black (6 Suits)	2020-03-17 — 20:43:18 UTC	Double E, krampster2, nk, rs1	213	6	30
-90901	4	0	Black (6 Suits)	2020-03-17 — 20:14:04 UTC	Double E, krampster2, nk, rs1	273	6	30
-88561	4	25	No Variant	2020-03-13 — 22:51:43 UTC	Double E, krampster2, nk, rs1	2763	5	25
-88547	4	0	No Variant	2020-03-13 — 22:23:20 UTC	Double E, krampster2, nk, rs1	3581	5	25
+96992	5	0	Rainbow (6 Suits)	2020-03-25 — 18:35:12 UTC	Double E, krampster2, molly, nk, rs1	102	6	30
+95482	5	0	Rainbow (6 Suits)	2020-03-23 — 22:49:59 UTC	Double E, krampster2, molly, nk, rs1	134	6	30
+92275	5	0	Rainbow (6 Suits)	2020-03-19 — 23:19:08 UTC	Double E, krampster2, molly, nk, rs1	211	6	30
+92250	4	26	Black (6 Suits)	2020-03-19 — 22:55:18 UTC	Double E, krampster2, nk, rs1	176	6	30
+90908	4	30	Black (6 Suits)	2020-03-17 — 20:43:18 UTC	Double E, krampster2, nk, rs1	215	6	30
+90901	4	0	Black (6 Suits)	2020-03-17 — 20:14:04 UTC	Double E, krampster2, nk, rs1	276	6	30
+88561	4	25	No Variant	2020-03-13 — 22:51:43 UTC	Double E, krampster2, nk, rs1	2788	5	25
+88547	4	0	No Variant	2020-03-13 — 22:23:20 UTC	Double E, krampster2, nk, rs1	3609	5	25

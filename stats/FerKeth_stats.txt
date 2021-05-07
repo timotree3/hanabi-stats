@@ -1,3 +1,11 @@
+518936	5	30	Brown-Ones (6 Suits)	2021-05-02 — 22:49:04 UTC	bjnh, ChristopheAF, dobi, FerKeth, HelanaAshryvr	4	6	30
+518926	4	0	Brown-Ones (6 Suits)	2021-05-02 — 22:11:41 UTC	bjnh, dobi, FerKeth, HelanaAshryvr	5	6	30
+518814	5	0	Black (5 Suits)	2021-05-02 — 19:45:48 UTC	colton, dobi, FerKeth, HelanaAshryvr, MangoPie	12	5	25
+518804	5	24	Black (5 Suits)	2021-05-02 — 19:30:11 UTC	colton, dobi, FerKeth, HelanaAshryvr, MangoPie	14	5	25
+518781	4	20	White & Prism (4 Suits)	2021-05-02 — 18:59:49 UTC	colton, FerKeth, HelanaAshryvr, MangoPie	5	4	20
+518450	4	30	Rainbow (6 Suits)	2021-05-02 — 05:26:30 UTC	Fafrd, FerKeth, nathanshelly, rahsosprout	106	6	30
+518428	4	0	Rainbow (6 Suits)	2021-05-02 — 04:55:53 UTC	Fafrd, FerKeth, nathanshelly, rahsosprout	123	6	30
+518408	4	28	Rainbow (6 Suits)	2021-05-02 — 04:27:29 UTC	Fafrd, FerKeth, nathanshelly, rahsosprout	157	6	30
 506752	3	0	Brown (3 Suits)	2021-04-19 — 18:21:19 UTC	bjnh, FerKeth, kinkajusrevenge	23	3	15
 506748	3	0	Brown (3 Suits)	2021-04-19 — 18:16:19 UTC	bjnh, FerKeth, kinkajusrevenge	29	3	15
 506738	3	14	Brown (3 Suits)	2021-04-19 — 18:02:58 UTC	bjnh, FerKeth, kinkajusrevenge	37	3	15
@@ -9,24 +17,24 @@
 495850	4	0	Dual-Color & Omni (6 Suits)	2021-04-10 — 06:19:26 UTC	bjnh, FerKeth, HelanaAshryvr, squirrel1988	4	6	30
 495836	3	0	Dual-Color & Pink (6 Suits)	2021-04-10 — 06:13:10 UTC	bjnh, FerKeth, squirrel1988	7	6	30
 495826	3	0	Dual-Color & Pink (6 Suits)	2021-04-10 — 06:04:35 UTC	bjnh, FerKeth, squirrel1988	8	6	30
-493862	3	0	Rainbow (6 Suits)	2021-04-08 — 07:41:33 UTC	boba, Etherealz, FerKeth	83	6	30
-493859	3	0	Rainbow (6 Suits)	2021-04-08 — 07:30:56 UTC	boba, Etherealz, FerKeth	91	6	30
-493857	3	0	Rainbow (6 Suits)	2021-04-08 — 07:26:46 UTC	boba, Etherealz, FerKeth	91	6	30
+493862	3	0	Rainbow (6 Suits)	2021-04-08 — 07:41:33 UTC	boba, Etherealz, FerKeth	84	6	30
+493859	3	0	Rainbow (6 Suits)	2021-04-08 — 07:30:56 UTC	boba, Etherealz, FerKeth	93	6	30
+493857	3	0	Rainbow (6 Suits)	2021-04-08 — 07:26:46 UTC	boba, Etherealz, FerKeth	93	6	30
 493814	2	24	Black & Pink (5 Suits)	2021-04-08 — 05:27:16 UTC	boba, FerKeth	26	5	25
 493808	2	18	Black & Pink (5 Suits)	2021-04-08 — 05:04:00 UTC	boba, FerKeth	29	5	25
 493741	4	23	Muddy Rainbow (5 Suits)	2021-04-08 — 04:12:08 UTC	FerKeth, griff77, MangoPie, wump	12	5	25
-485199	4	25	Prism & Dark Omni (6 Suits)	2021-03-30 — 04:26:12 UTC	Animex52, FerKeth, HelanaAshryvr, Lel0uch	2	6	30
-485158	2	28	Dual-Color & Black (6 Suits)	2021-03-30 — 03:58:30 UTC	FerKeth, HelanaAshryvr	14	6	30
+485199	4	25	Prism & Dark Omni (6 Suits)	2021-03-30 — 04:26:12 UTC	Animex52, FerKeth, HelanaAshryvr, Lel0uch	3	6	30
+485158	2	28	Dual-Color & Black (6 Suits)	2021-03-30 — 03:58:30 UTC	FerKeth, HelanaAshryvr	15	6	30
 480918	5	0	Rainbow-Fives & Rainbow (5 Suits)	2021-03-26 — 04:10:58 UTC	dobi, FerKeth, HelanaAshryvr, kinkajusrevenge, newduke	1	5	25
 480876	5	19	Dark Pink (5 Suits)	2021-03-26 — 03:31:31 UTC	FerKeth, HelanaAshryvr, newduke, squirrel1988, wump	7	5	25
 480847	5	0	Dark Pink (5 Suits)	2021-03-26 — 03:06:45 UTC	FerKeth, HelanaAshryvr, newduke, squirrel1988, wump	7	5	25
 480515	3	30	Brown-Ones & Prism (6 Suits)	2021-03-25 — 21:37:37 UTC	FerKeth, Gortok, Lanvin	1	6	30
-480420	2	23	No Variant	2021-03-25 — 20:23:21 UTC	FerKeth, Gortok	1952	5	25
-480388	2	19	No Variant	2021-03-25 — 20:04:25 UTC	FerKeth, Gortok	4109	5	25
-480353	2	24	No Variant	2021-03-25 — 19:49:55 UTC	FerKeth, Gortok	5374	5	25
+480420	2	23	No Variant	2021-03-25 — 20:23:21 UTC	FerKeth, Gortok	1966	5	25
+480388	2	19	No Variant	2021-03-25 — 20:04:25 UTC	FerKeth, Gortok	4149	5	25
+480353	2	24	No Variant	2021-03-25 — 19:49:55 UTC	FerKeth, Gortok	5421	5	25
 478841	4	21	Dark Prism (5 Suits)	2021-03-24 — 04:33:58 UTC	FerKeth, HelanaAshryvr, indego, kevincaseytdk1	17	5	25
 478810	3	0	Dark Rainbow (5 Suits)	2021-03-24 — 04:16:32 UTC	FerKeth, indego, kevincaseytdk1	22	5	25
-478775	3	21	Dark Rainbow (5 Suits)	2021-03-24 — 04:00:23 UTC	FerKeth, indego, kevincaseytdk1	36	5	25
+478775	3	21	Dark Rainbow (5 Suits)	2021-03-24 — 04:00:23 UTC	FerKeth, indego, kevincaseytdk1	38	5	25
 456186	5	0	3 Suits	2021-03-04 — 07:26:27 UTC	eliclax, FerKeth, indego, kopen, newduke	5	3	15
 456184	5	12	3 Suits	2021-03-04 — 07:15:34 UTC	eliclax, FerKeth, indego, kopen, newduke	4	3	15
 456180	5	0	3 Suits	2021-03-04 — 07:04:35 UTC	eliclax, FerKeth, indego, kopen, newduke	5	3	15
@@ -37,20 +45,20 @@
 456136	4	0	Light Pink (3 Suits)	2021-03-04 — 05:52:39 UTC	eliclax, FerKeth, indego, newduke	10	3	15
 455980	4	25	Up or Down (5 Suits)	2021-03-04 — 04:17:07 UTC	bjnh, FerKeth, HelanaAshryvr, squirrel1988	15	5	25
 455968	4	0	Up or Down (5 Suits)	2021-03-04 — 04:05:14 UTC	bjnh, FerKeth, HelanaAshryvr, squirrel1988	18	5	25
-452835	2	24	Rainbow (5 Suits)	2021-03-01 — 04:52:38 UTC	FerKeth, remyremyremy	248	5	25
+452835	2	24	Rainbow (5 Suits)	2021-03-01 — 04:52:38 UTC	FerKeth, remyremyremy	257	5	25
 452793	5	0	Black & Pink (6 Suits)	2021-03-01 — 04:25:27 UTC	Animex52, boba, FerKeth, HelanaAshryvr, Lel0uch	1	6	30
-448495	3	30	Gray (6 Suits)	2021-02-25 — 05:20:37 UTC	aquarelle, FerKeth, kimbifille	42	6	30
-448464	3	0	Gray (6 Suits)	2021-02-25 — 04:52:03 UTC	aquarelle, FerKeth, kimbifille	45	6	30
-448410	3	30	Duck (6 Suits)	2021-02-25 — 04:19:59 UTC	Animex52, aquarelle, FerKeth	3	6	30
-448376	3	0	Duck (6 Suits)	2021-02-25 — 03:51:51 UTC	Animex52, aquarelle, FerKeth	5	6	30
-448353	3	27	Duck (6 Suits)	2021-02-25 — 03:31:28 UTC	Animex52, boba, FerKeth	7	6	30
+448495	3	30	Gray (6 Suits)	2021-02-25 — 05:20:37 UTC	aquarelle, FerKeth, kimbifille	43	6	30
+448464	3	0	Gray (6 Suits)	2021-02-25 — 04:52:03 UTC	aquarelle, FerKeth, kimbifille	48	6	30
+448410	3	30	Duck (6 Suits)	2021-02-25 — 04:19:59 UTC	Animex52, aquarelle, FerKeth	4	6	30
+448376	3	0	Duck (6 Suits)	2021-02-25 — 03:51:51 UTC	Animex52, aquarelle, FerKeth	6	6	30
+448353	3	27	Duck (6 Suits)	2021-02-25 — 03:31:28 UTC	Animex52, boba, FerKeth	8	6	30
 448308	4	21	Dark Prism (5 Suits)	2021-02-25 — 02:29:24 UTC	boba, FerKeth, Lanvin, squirrel1988	8	5	25
-448267	4	0	Dark Prism (5 Suits)	2021-02-25 — 02:04:09 UTC	boba, FerKeth, Lanvin, squirrel1988	9	5	25
+448267	4	0	Dark Prism (5 Suits)	2021-02-25 — 02:04:09 UTC	boba, FerKeth, Lanvin, squirrel1988	10	5	25
 448259	4	0	Light Pink (3 Suits)	2021-02-25 — 01:49:59 UTC	FerKeth, HelanaAshryvr, Lanvin, squirrel1988	8	3	15
 447432	5	26	Black (6 Suits)	2021-02-24 — 04:29:30 UTC	Animex52, aquarelle, bjnh, FerKeth, HelanaAshryvr	36	6	30
 447364	6	0	Duck (6 Suits)	2021-02-24 — 03:39:14 UTC	Animex52, aquarelle, FerKeth, HelanaAshryvr, Lanvin, squirrel1988	1	6	30
 447320	5	0	Rainbow & Prism (6 Suits)	2021-02-24 — 03:04:23 UTC	caña, FerKeth, griff77, Lanvin, rahsosprout	7	6	30
-445260	3	24	Pink & Muddy Rainbow (5 Suits)	2021-02-22 — 06:05:17 UTC	FerKeth, indego, Lel0uch	5	5	25
+445260	3	24	Pink & Muddy Rainbow (5 Suits)	2021-02-22 — 06:05:17 UTC	FerKeth, indego, Lel0uch	6	5	25
 445230	5	24	White (5 Suits)	2021-02-22 — 05:28:48 UTC	aquarelle, FerKeth, HelanaAshryvr, rahsosprout, squirrel1988	26	5	25
 445187	5	25	Light Pink (6 Suits)	2021-02-22 — 04:45:15 UTC	aquarelle, FerKeth, Lanvin, squirrel1988, wump	1	6	30
 444897	3	0	Rainbow & Brown (5 Suits)	2021-02-22 — 00:07:13 UTC	FerKeth, griff77, HelanaAshryvr	25	5	25
@@ -58,7 +66,7 @@
 444655	4	17	White-Ones & Rainbow (4 Suits)	2021-02-21 — 20:59:30 UTC	FerKeth, HelanaAshryvr, knaphill, Lanvin	2	4	20
 444604	5	0	Dark Prism Reversed (6 Suits)	2021-02-21 — 20:26:12 UTC	FerKeth, HelanaAshryvr, knaphill, Lanvin, squirrel1988	2	6	30
 442985	4	20	Prism (5 Suits)	2021-02-20 — 06:58:43 UTC	corys, FerKeth, Onen, xor	14	5	25
-442962	4	0	Prism (5 Suits)	2021-02-20 — 06:33:37 UTC	corys, FerKeth, Onen, xor	29	5	25
+442962	4	0	Prism (5 Suits)	2021-02-20 — 06:33:37 UTC	corys, FerKeth, Onen, xor	31	5	25
 442952	6	0	Prism (6 Suits)	2021-02-20 — 06:13:39 UTC	corys, FerKeth, ksfortson, Lel0uch, Onen, xor	3	6	30
 442923	6	25	No Variant	2021-02-20 — 05:37:40 UTC	corys, FerKeth, HelanaAshryvr, Lel0uch, Onen, xor	36	5	25
 440635	4	22	Ambiguous & White (5 Suits)	2021-02-18 — 04:39:16 UTC	4head, eljavi, FerKeth, rahsosprout	9	5	25
@@ -67,73 +75,73 @@
 439654	4	0	Rainbow (4 Suits)	2021-02-17 — 03:45:03 UTC	boba, FerKeth, HelanaAshryvr, squirrel1988	14	4	20
 438886	4	24	Rainbow (5 Suits)	2021-02-16 — 05:37:56 UTC	FerKeth, HelanaAshryvr, MathNoob, squirrel1988	63	5	25
 436473	5	0	Muddy Rainbow & Dark Brown (5 Suits)	2021-02-14 — 05:07:35 UTC	bjnh, Doge, FerKeth, indego, JerryYang	2	5	25
-433371	3	0	No Variant	2021-02-11 — 17:13:58 UTC	4head, FerKeth, Zahard	680	5	25
-433362	3	19	No Variant	2021-02-11 — 16:48:46 UTC	4head, FerKeth, sss	801	5	25
-429634	4	25	Brown (5 Suits)	2021-02-08 — 04:05:50 UTC	colton, FerKeth, hailey, MangoPie	46	5	25
-427142	2	26	6 Suits	2021-02-06 — 02:15:36 UTC	boba, FerKeth	340	6	30
-421950	4	25	No Variant	2021-02-01 — 07:04:36 UTC	eljavi, FerKeth, skyblueexo, wump	48	5	25
-421933	4	24	No Variant	2021-02-01 — 06:34:25 UTC	eljavi, FerKeth, skyblueexo, wump	52	5	25
-421920	4	24	No Variant	2021-02-01 — 06:06:31 UTC	eljavi, FerKeth, skyblueexo, wump	53	5	25
+433371	3	0	No Variant	2021-02-11 — 17:13:58 UTC	4head, FerKeth, Zahard	688	5	25
+433362	3	19	No Variant	2021-02-11 — 16:48:46 UTC	4head, FerKeth, sss	809	5	25
+429634	4	25	Brown (5 Suits)	2021-02-08 — 04:05:50 UTC	colton, FerKeth, hailey, MangoPie	47	5	25
+427142	2	26	6 Suits	2021-02-06 — 02:15:36 UTC	boba, FerKeth	352	6	30
+421950	4	25	No Variant	2021-02-01 — 07:04:36 UTC	eljavi, FerKeth, skyblueexo, wump	49	5	25
+421933	4	24	No Variant	2021-02-01 — 06:34:25 UTC	eljavi, FerKeth, skyblueexo, wump	54	5	25
+421920	4	24	No Variant	2021-02-01 — 06:06:31 UTC	eljavi, FerKeth, skyblueexo, wump	55	5	25
 418313	5	0	Brown-Ones & White (5 Suits)	2021-01-29 — 04:29:12 UTC	aquarelle, Bot-Fiora, FerKeth, HelanaAshryvr, Lanvin	3	5	25
 418280	5	16	Brown-Ones (4 Suits)	2021-01-29 — 04:06:01 UTC	aquarelle, Bot-Fiora, FerKeth, HelanaAshryvr, Lanvin	1	4	20
 417297	3	0	Rainbow & Prism (5 Suits)	2021-01-28 — 04:36:25 UTC	aquarelle, FerKeth, HelanaAshryvr	26	5	25
 416127	5	21	White & Prism (5 Suits)	2021-01-27 — 04:34:42 UTC	caña, eljavi, FerKeth, griff77, MarcLovesDogs	4	5	25
-416088	4	22	No Variant	2021-01-27 — 04:09:31 UTC	caña, eljavi, FerKeth, MangoPie	501	5	25
+416088	4	22	No Variant	2021-01-27 — 04:09:31 UTC	caña, eljavi, FerKeth, MangoPie	507	5	25
 411963	6	0	6 Suits	2021-01-23 — 04:06:56 UTC	4head, bjnh, eljavi, FerKeth, moeski, wavychips	50	6	30
-411942	5	0	No Variant	2021-01-23 — 03:47:48 UTC	FerKeth, ksfortson, lolthisnotderk, otterful, skyblueexo	457	5	25
-411765	4	28	Special Mix (6 Suits)	2021-01-23 — 00:48:24 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	7	6	30
-411744	4	0	Special Mix (6 Suits)	2021-01-23 — 00:13:03 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	11	6	30
+411942	5	0	No Variant	2021-01-23 — 03:47:48 UTC	FerKeth, ksfortson, lolthisnotderk, otterful, skyblueexo	461	5	25
+411765	4	28	Special Mix (6 Suits)	2021-01-23 — 00:48:24 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	8	6	30
+411744	4	0	Special Mix (6 Suits)	2021-01-23 — 00:13:03 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	12	6	30
 411737	4	0	Special Mix (6 Suits)	2021-01-23 — 00:07:41 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	14	6	30
 411699	4	0	Special Mix (6 Suits)	2021-01-22 — 23:31:31 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	17	6	30
-411695	4	0	Special Mix (6 Suits)	2021-01-22 — 23:28:07 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	24	6	30
-410286	3	0	Rainbow (6 Suits)	2021-01-21 — 04:46:04 UTC	antitelharsic, aquarelle, FerKeth	25	6	30
+411695	4	0	Special Mix (6 Suits)	2021-01-22 — 23:28:07 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	25	6	30
+410286	3	0	Rainbow (6 Suits)	2021-01-21 — 04:46:04 UTC	antitelharsic, aquarelle, FerKeth	26	6	30
 410253	3	24	No Variant	2021-01-21 — 04:14:13 UTC	antitelharsic, aquarelle, FerKeth	21	5	25
-410203	6	0	Black (6 Suits)	2021-01-21 — 03:11:18 UTC	aquarelle, bjnh, eljavi, FerKeth, nkkarpov, torp	15	6	30
+410203	6	0	Black (6 Suits)	2021-01-21 — 03:11:18 UTC	aquarelle, bjnh, eljavi, FerKeth, nkkarpov, torp	16	6	30
 410201	6	0	Black (6 Suits)	2021-01-21 — 03:07:12 UTC	aquarelle, bjnh, eljavi, FerKeth, nkkarpov, torp	28	6	30
 410195	5	0	Black (6 Suits)	2021-01-21 — 02:54:41 UTC	aquarelle, eljavi, FerKeth, nkkarpov, torp	48	6	30
 409351	6	21	Prism (5 Suits)	2021-01-20 — 05:32:43 UTC	aquarelle, bjnh, ejwu, FerKeth, griff77, HelanaAshryvr	6	5	25
-409318	3	0	No Variant	2021-01-20 — 04:52:34 UTC	Animex52, aquarelle, FerKeth	77	5	25
+409318	3	0	No Variant	2021-01-20 — 04:52:34 UTC	Animex52, aquarelle, FerKeth	79	5	25
 409285	4	23	Prism (5 Suits)	2021-01-20 — 04:25:45 UTC	Animex52, aquarelle, boba, FerKeth	20	5	25
-409130	4	0	Rainbow (6 Suits)	2021-01-20 — 01:24:29 UTC	boba, Etherealz, FerKeth, missyalyssi	163	6	30
-409106	4	30	Rainbow (6 Suits)	2021-01-20 — 00:46:46 UTC	boba, Etherealz, FerKeth, missyalyssi	275	6	30
-406063	2	0	Dual-Color (6 Suits)	2021-01-17 — 05:01:08 UTC	FerKeth, HelanaAshryvr	58	6	30
-406050	2	25	Dual-Color (5 Suits)	2021-01-17 — 04:46:37 UTC	FerKeth, HelanaAshryvr	19	5	25
-406031	2	15	Dual-Color (3 Suits)	2021-01-17 — 04:30:10 UTC	FerKeth, HelanaAshryvr	35	3	15
+409130	4	0	Rainbow (6 Suits)	2021-01-20 — 01:24:29 UTC	boba, Etherealz, FerKeth, missyalyssi	164	6	30
+409106	4	30	Rainbow (6 Suits)	2021-01-20 — 00:46:46 UTC	boba, Etherealz, FerKeth, missyalyssi	280	6	30
+406063	2	0	Dual-Color (6 Suits)	2021-01-17 — 05:01:08 UTC	FerKeth, HelanaAshryvr	60	6	30
+406050	2	25	Dual-Color (5 Suits)	2021-01-17 — 04:46:37 UTC	FerKeth, HelanaAshryvr	22	5	25
+406031	2	15	Dual-Color (3 Suits)	2021-01-17 — 04:30:10 UTC	FerKeth, HelanaAshryvr	36	3	15
 404948	5	0	Brown-Ones & White (6 Suits)	2021-01-16 — 06:09:16 UTC	boba, FerKeth, HelanaAshryvr, indego, Lanvin	2	6	30
 404933	5	0	Brown-Ones & White (6 Suits)	2021-01-16 — 05:55:40 UTC	boba, FerKeth, HelanaAshryvr, indego, Lanvin	2	6	30
 404901	4	27	Dual-Color (6 Suits)	2021-01-16 — 05:33:07 UTC	boba, FerKeth, HelanaAshryvr, Lanvin	39	6	30
 403626	4	0	Prism (6 Suits)	2021-01-15 — 03:29:35 UTC	4head, eljavi, FerKeth, PMP	26	6	30
 402851	4	22	Prism (5 Suits)	2021-01-14 — 06:53:38 UTC	bjnh, FerKeth, ksfortson, torp	5	5	25
 402831	4	0	Prism (5 Suits)	2021-01-14 — 06:31:53 UTC	bjnh, FerKeth, ksfortson, torp	5	5	25
-402821	3	0	Pink (5 Suits)	2021-01-14 — 06:23:08 UTC	bjnh, FerKeth, torp	62	5	25
+402821	3	0	Pink (5 Suits)	2021-01-14 — 06:23:08 UTC	bjnh, FerKeth, torp	64	5	25
 402806	3	0	Dual-Color & White (6 Suits)	2021-01-14 — 05:58:08 UTC	bjnh, FerKeth, torp	10	6	30
 402791	3	0	Gray Reversed (5 Suits)	2021-01-14 — 05:29:31 UTC	boba, FerKeth, indego	7	5	25
-402716	5	21	No Variant	2021-01-14 — 03:57:58 UTC	4head, bjnh, Denchulitas, FerKeth, poofart123	1510	5	25
-402683	3	24	No Variant	2021-01-14 — 03:25:44 UTC	4head, FerKeth, poofart123	4221	5	25
-402641	3	20	4 Suits	2021-01-14 — 02:48:25 UTC	dobi, FerKeth, poofart123	160	4	20
-401817	2	22	White (5 Suits)	2021-01-13 — 05:55:02 UTC	dobi, FerKeth	184	5	25
-401781	3	0	Black (6 Suits)	2021-01-13 — 05:21:38 UTC	boba, FerKeth, HelanaAshryvr	97	6	30
+402716	5	21	No Variant	2021-01-14 — 03:57:58 UTC	4head, bjnh, Denchulitas, FerKeth, poofart123	1518	5	25
+402683	3	24	No Variant	2021-01-14 — 03:25:44 UTC	4head, FerKeth, poofart123	4250	5	25
+402641	3	20	4 Suits	2021-01-14 — 02:48:25 UTC	dobi, FerKeth, poofart123	162	4	20
+401817	2	22	White (5 Suits)	2021-01-13 — 05:55:02 UTC	dobi, FerKeth	187	5	25
+401781	3	0	Black (6 Suits)	2021-01-13 — 05:21:38 UTC	boba, FerKeth, HelanaAshryvr	100	6	30
 401757	5	30	Brown (6 Suits)	2021-01-13 — 04:50:34 UTC	aquarelle, boba, FerKeth, HelanaAshryvr, Onen	16	6	30
-399844	4	30	Rainbow (6 Suits)	2021-01-11 — 04:00:53 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	185	6	30
-399829	4	0	Rainbow (6 Suits)	2021-01-11 — 03:41:23 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	200	6	30
-399806	4	23	Black (5 Suits)	2021-01-11 — 03:18:55 UTC	aquarelle, boba, FerKeth, nkkarpov	44	5	25
+399844	4	30	Rainbow (6 Suits)	2021-01-11 — 04:00:53 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	188	6	30
+399829	4	0	Rainbow (6 Suits)	2021-01-11 — 03:41:23 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	205	6	30
+399806	4	23	Black (5 Suits)	2021-01-11 — 03:18:55 UTC	aquarelle, boba, FerKeth, nkkarpov	47	5	25
 399772	5	0	Rainbow (6 Suits)	2021-01-11 — 02:40:08 UTC	antitelharsic, boba, FerKeth, HelanaAshryvr, nkkarpov	49	6	30
 399745	5	0	Rainbow (6 Suits)	2021-01-11 — 01:51:26 UTC	antitelharsic, boba, FerKeth, HelanaAshryvr, nkkarpov	83	6	30
-398907	3	30	Dual-Color (6 Suits)	2021-01-10 — 06:53:25 UTC	boba, FerKeth, HelanaAshryvr	43	6	30
-398855	3	0	Rainbow (4 Suits)	2021-01-10 — 06:13:46 UTC	aquarelle, boba, FerKeth	84	4	20
-398624	2	28	Rainbow (6 Suits)	2021-01-10 — 03:18:10 UTC	boba, FerKeth	106	6	30
-398579	2	30	Rainbow (6 Suits)	2021-01-10 — 02:42:36 UTC	boba, FerKeth	106	6	30
+398907	3	30	Dual-Color (6 Suits)	2021-01-10 — 06:53:25 UTC	boba, FerKeth, HelanaAshryvr	44	6	30
+398855	3	0	Rainbow (4 Suits)	2021-01-10 — 06:13:46 UTC	aquarelle, boba, FerKeth	85	4	20
+398624	2	28	Rainbow (6 Suits)	2021-01-10 — 03:18:10 UTC	boba, FerKeth	107	6	30
+398579	2	30	Rainbow (6 Suits)	2021-01-10 — 02:42:36 UTC	boba, FerKeth	108	6	30
 397617	4	0	White-Ones (5 Suits)	2021-01-09 — 07:19:19 UTC	eljavi, FerKeth, MangoPie, torp	10	5	25
-397536	5	30	Rainbow (6 Suits)	2021-01-09 — 05:50:40 UTC	boba, Etherealz, FerKeth, Lel0uch, missyalyssi	67	6	30
+397536	5	30	Rainbow (6 Suits)	2021-01-09 — 05:50:40 UTC	boba, Etherealz, FerKeth, Lel0uch, missyalyssi	68	6	30
 395351	5	21	Throw It in a Hole (5 Suits)	2021-01-07 — 07:16:29 UTC	aquarelle, boba, FerKeth, HelanaAshryvr, Lel0uch	9	5	25
 395317	4	0	Throw It in a Hole (6 Suits)	2021-01-07 — 06:30:15 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	15	6	30
 395283	6	0	Dual-Color (6 Suits)	2021-01-07 — 05:57:48 UTC	aquarelle, boba, FerKeth, HelanaAshryvr, Lel0uch, methmatics	1	6	30
 395263	6	0	Dual-Color (6 Suits)	2021-01-07 — 05:41:39 UTC	aquarelle, boba, FerKeth, HelanaAshryvr, Lel0uch, methmatics	2	6	30
-395183	3	25	No Variant	2021-01-07 — 04:00:46 UTC	ducky, FerKeth, louietyj	516	5	25
-395139	3	25	No Variant	2021-01-07 — 03:14:44 UTC	ducky, FerKeth, louietyj	551	5	25
-395083	3	23	No Variant	2021-01-07 — 02:26:36 UTC	ducky, FerKeth, louietyj	940	5	25
-394300	4	28	White (6 Suits)	2021-01-06 — 06:13:31 UTC	boba, FerKeth, HelanaAshryvr, Lel0uch	60	6	30
-394282	4	29	White (6 Suits)	2021-01-06 — 05:49:11 UTC	boba, FerKeth, HelanaAshryvr, Lel0uch	75	6	30
+395183	3	25	No Variant	2021-01-07 — 04:00:46 UTC	ducky, FerKeth, louietyj	523	5	25
+395139	3	25	No Variant	2021-01-07 — 03:14:44 UTC	ducky, FerKeth, louietyj	558	5	25
+395083	3	23	No Variant	2021-01-07 — 02:26:36 UTC	ducky, FerKeth, louietyj	952	5	25
+394300	4	28	White (6 Suits)	2021-01-06 — 06:13:31 UTC	boba, FerKeth, HelanaAshryvr, Lel0uch	62	6	30
+394282	4	29	White (6 Suits)	2021-01-06 — 05:49:11 UTC	boba, FerKeth, HelanaAshryvr, Lel0uch	76	6	30
 394264	5	0	Ambiguous (6 Suits)	2021-01-06 — 05:24:46 UTC	bjnh, boba, FerKeth, HelanaAshryvr, Lel0uch	12	6	30
 394235	5	29	Ambiguous (6 Suits)	2021-01-06 — 04:56:34 UTC	aquarelle, boba, FerKeth, HelanaAshryvr, Lel0uch	14	6	30
 394208	5	0	Ambiguous (6 Suits)	2021-01-06 — 04:29:37 UTC	aquarelle, boba, FerKeth, HelanaAshryvr, Lel0uch	18	6	30
@@ -145,108 +153,108 @@
 394114	4	16	Ambiguous (4 Suits)	2021-01-06 — 02:32:42 UTC	boba, FerKeth, HelanaAshryvr, Nitrate	7	4	20
 394097	4	0	Ambiguous (4 Suits)	2021-01-06 — 02:15:29 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	11	4	20
 394081	4	0	Ambiguous (4 Suits)	2021-01-06 — 02:00:26 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	20	4	20
-394034	3	15	Dual-Color (3 Suits)	2021-01-06 — 01:17:43 UTC	aquarelle, boba, FerKeth	30	3	15
+394034	3	15	Dual-Color (3 Suits)	2021-01-06 — 01:17:43 UTC	aquarelle, boba, FerKeth	32	3	15
 394008	2	0	Pink (4 Suits)	2021-01-06 — 00:47:45 UTC	FerKeth, HelanaAshryvr	34	4	20
 393994	2	0	Pink (4 Suits)	2021-01-06 — 00:31:44 UTC	FerKeth, HelanaAshryvr	42	4	20
-393978	2	20	4 Suits	2021-01-06 — 00:17:11 UTC	FerKeth, HelanaAshryvr	76	4	20
+393978	2	20	4 Suits	2021-01-06 — 00:17:11 UTC	FerKeth, HelanaAshryvr	78	4	20
 393127	5	0	Gray (6 Suits)	2021-01-05 — 04:44:53 UTC	doctorabi, FerKeth, indego, JerryYang, sin_faith	19	6	30
 393085	6	0	4 Suits	2021-01-05 — 04:01:31 UTC	avanderwalde, FerKeth, hakha3, indego, JerryYang, Lel0uch	4	4	20
 393068	6	18	4 Suits	2021-01-05 — 03:41:34 UTC	avanderwalde, FerKeth, hakha3, indego, JerryYang, Lel0uch	6	4	20
 393023	4	22	Rainbow-Ones (5 Suits)	2021-01-05 — 03:14:31 UTC	boba, FerKeth, HelanaAshryvr, Lel0uch	12	5	25
-392980	2	25	No Variant	2021-01-05 — 02:46:56 UTC	boba, FerKeth	1840	5	25
-392940	2	24	No Variant	2021-01-05 — 02:19:02 UTC	boba, FerKeth	2147	5	25
+392980	2	25	No Variant	2021-01-05 — 02:46:56 UTC	boba, FerKeth	1856	5	25
+392940	2	24	No Variant	2021-01-05 — 02:19:02 UTC	boba, FerKeth	2166	5	25
 392874	4	14	Brown (3 Suits)	2021-01-05 — 00:44:29 UTC	FerKeth, HelanaAshryvr, Onen, sephiroth	4	3	15
-392074	4	19	No Variant	2021-01-04 — 03:05:02 UTC	banjoleb, FerKeth, IsabeltheCat, Vensahn	419	5	25
-391344	4	0	No Variant	2021-01-03 — 08:00:45 UTC	boba, FerKeth, HelanaAshryvr, Lel0uch	442	5	25
-391325	4	0	No Variant	2021-01-03 — 07:26:01 UTC	boba, FerKeth, HelanaAshryvr, Lel0uch	601	5	25
-391312	4	19	4 Suits	2021-01-03 — 07:00:39 UTC	boba, FerKeth, HelanaAshryvr, Lel0uch	51	4	20
-384545	4	0	Pink (4 Suits)	2020-12-28 — 02:47:10 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	22	4	20
+392074	4	19	No Variant	2021-01-04 — 03:05:02 UTC	banjoleb, FerKeth, IsabeltheCat, Vensahn	423	5	25
+391344	4	0	No Variant	2021-01-03 — 08:00:45 UTC	boba, FerKeth, HelanaAshryvr, Lel0uch	448	5	25
+391325	4	0	No Variant	2021-01-03 — 07:26:01 UTC	boba, FerKeth, HelanaAshryvr, Lel0uch	606	5	25
+391312	4	19	4 Suits	2021-01-03 — 07:00:39 UTC	boba, FerKeth, HelanaAshryvr, Lel0uch	52	4	20
+384545	4	0	Pink (4 Suits)	2020-12-28 — 02:47:10 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	23	4	20
 384503	5	27	Black (6 Suits)	2020-12-28 — 02:08:12 UTC	boba, Etherealz, FerKeth, HelanaAshryvr, missyalyssi	4	6	30
 384468	5	28	Black (6 Suits)	2020-12-28 — 01:27:06 UTC	boba, Etherealz, FerKeth, HelanaAshryvr, missyalyssi	5	6	30
-384339	4	30	Rainbow (6 Suits)	2020-12-27 — 23:28:53 UTC	FerKeth, GianniRossi, HelanaAshryvr, Plum	238	6	30
-384289	2	26	Black & White (6 Suits)	2020-12-27 — 22:46:55 UTC	FerKeth, HelanaAshryvr	15	6	30
-384260	4	25	Prism (5 Suits)	2020-12-27 — 22:19:25 UTC	asaelr, eljavi, FerKeth, HelanaAshryvr	23	5	25
-384208	4	0	Alternating Clues (5 Suits)	2020-12-27 — 21:34:24 UTC	asaelr, eljavi, FerKeth, macanek	8	5	25
-383796	3	25	No Variant	2020-12-27 — 08:11:01 UTC	eljavi, FerKeth, stinebean	1095	5	25
+384339	4	30	Rainbow (6 Suits)	2020-12-27 — 23:28:53 UTC	FerKeth, GianniRossi, HelanaAshryvr, Plum	244	6	30
+384289	2	26	Black & White (6 Suits)	2020-12-27 — 22:46:55 UTC	FerKeth, HelanaAshryvr	16	6	30
+384260	4	25	Prism (5 Suits)	2020-12-27 — 22:19:25 UTC	asaelr, eljavi, FerKeth, HelanaAshryvr	25	5	25
+384208	4	0	Alternating Clues (5 Suits)	2020-12-27 — 21:34:24 UTC	asaelr, eljavi, FerKeth, macanek	9	5	25
+383796	3	25	No Variant	2020-12-27 — 08:11:01 UTC	eljavi, FerKeth, stinebean	1102	5	25
 382534	6	0	Rainbow Reversed (6 Suits)	2020-12-26 — 06:05:08 UTC	aquarelle, boba, colton, FerKeth, HelanaAshryvr, Lel0uch	2	6	30
-382483	4	24	Rainbow Reversed (5 Suits)	2020-12-26 — 05:23:13 UTC	aquarelle, FerKeth, HelanaAshryvr, Lel0uch	11	5	25
+382483	4	24	Rainbow Reversed (5 Suits)	2020-12-26 — 05:23:13 UTC	aquarelle, FerKeth, HelanaAshryvr, Lel0uch	13	5	25
 382452	6	11	Rainbow (3 Suits)	2020-12-26 — 05:00:02 UTC	aquarelle, boba, colton, FerKeth, HelanaAshryvr, Lel0uch	3	3	15
 382410	6	13	Rainbow (3 Suits)	2020-12-26 — 04:30:45 UTC	aquarelle, boba, colton, FerKeth, HelanaAshryvr, Lel0uch	5	3	15
 382353	4	24	Dark Rainbow (5 Suits)	2020-12-26 — 03:51:34 UTC	boba, FerKeth, HelanaAshryvr, Lel0uch	29	5	25
-381213	3	0	Black (6 Suits)	2020-12-25 — 00:20:52 UTC	FerKeth, HelanaAshryvr, ricardodd	193	6	30
-381201	4	0	Rainbow (4 Suits)	2020-12-24 — 23:54:08 UTC	eljavi, FerKeth, HelanaAshryvr, ricardodd	20	4	20
-381189	3	0	Rainbow (3 Suits)	2020-12-24 — 23:30:53 UTC	eljavi, FerKeth, HelanaAshryvr	16	3	15
-381179	3	14	Rainbow (3 Suits)	2020-12-24 — 23:19:31 UTC	eljavi, FerKeth, HelanaAshryvr	24	3	15
+381213	3	0	Black (6 Suits)	2020-12-25 — 00:20:52 UTC	FerKeth, HelanaAshryvr, ricardodd	196	6	30
+381201	4	0	Rainbow (4 Suits)	2020-12-24 — 23:54:08 UTC	eljavi, FerKeth, HelanaAshryvr, ricardodd	21	4	20
+381189	3	0	Rainbow (3 Suits)	2020-12-24 — 23:30:53 UTC	eljavi, FerKeth, HelanaAshryvr	17	3	15
+381179	3	14	Rainbow (3 Suits)	2020-12-24 — 23:19:31 UTC	eljavi, FerKeth, HelanaAshryvr	25	3	15
 381158	5	0	White (6 Suits)	2020-12-24 — 22:45:26 UTC	bob65536, eljavi, FerKeth, HelanaAshryvr, ricardodd	12	6	30
-381132	4	24	No Variant	2020-12-24 — 22:09:20 UTC	Durandal, FerKeth, HelanaAshryvr, ricardodd	541	5	25
-381103	4	24	No Variant	2020-12-24 — 21:27:53 UTC	Durandal, FerKeth, HelanaAshryvr, ricardodd	655	5	25
+381132	4	24	No Variant	2020-12-24 — 22:09:20 UTC	Durandal, FerKeth, HelanaAshryvr, ricardodd	548	5	25
+381103	4	24	No Variant	2020-12-24 — 21:27:53 UTC	Durandal, FerKeth, HelanaAshryvr, ricardodd	660	5	25
 380764	6	0	Ambiguous (6 Suits)	2020-12-24 — 07:19:06 UTC	Animex52, aquarelle, boba, FerKeth, HelanaAshryvr, methmatics	1	6	30
 380753	6	0	Ambiguous (6 Suits)	2020-12-24 — 06:49:30 UTC	Animex52, aquarelle, boba, FerKeth, HelanaAshryvr, methmatics	8	6	30
-380735	5	23	No Variant	2020-12-24 — 06:26:13 UTC	Animex52, aquarelle, FerKeth, moeski, wavychips	27	5	25
+380735	5	23	No Variant	2020-12-24 — 06:26:13 UTC	Animex52, aquarelle, FerKeth, moeski, wavychips	28	5	25
 377613	6	0	Black (5 Suits)	2020-12-21 — 06:29:27 UTC	Animex52, aquarelle, boba, FerKeth, HelanaAshryvr, Lel0uch	7	5	25
-377607	6	0	Black (5 Suits)	2020-12-21 — 06:17:43 UTC	Animex52, aquarelle, boba, FerKeth, HelanaAshryvr, Lel0uch	9	5	25
-375584	4	0	Rainbow & White (6 Suits)	2020-12-19 — 06:46:25 UTC	FerKeth, frosty104, HelanaAshryvr, Lel0uch	8	6	30
+377607	6	0	Black (5 Suits)	2020-12-21 — 06:17:43 UTC	Animex52, aquarelle, boba, FerKeth, HelanaAshryvr, Lel0uch	10	5	25
+375584	4	0	Rainbow & White (6 Suits)	2020-12-19 — 06:46:25 UTC	FerKeth, frosty104, HelanaAshryvr, Lel0uch	10	6	30
 375570	4	0	Rainbow & White (6 Suits)	2020-12-19 — 06:26:31 UTC	FerKeth, frosty104, HelanaAshryvr, Lel0uch	10	6	30
-375557	4	0	Rainbow & White (6 Suits)	2020-12-19 — 06:17:41 UTC	FerKeth, frosty104, HelanaAshryvr, Lel0uch	12	6	30
+375557	4	0	Rainbow & White (6 Suits)	2020-12-19 — 06:17:41 UTC	FerKeth, frosty104, HelanaAshryvr, Lel0uch	13	6	30
 375545	6	20	Rainbow (4 Suits)	2020-12-19 — 05:59:01 UTC	FerKeth, frosty104, HelanaAshryvr, Lel0uch, ricardodd, TheDaniMan	6	4	20
 374460	6	0	Rainbow (5 Suits)	2020-12-18 — 04:44:34 UTC	aquarelle, FerKeth, HelanaAshryvr, jeff10, Lel0uch, ricardodd	4	5	25
 374418	5	0	Special Mix (6 Suits)	2020-12-18 — 04:10:16 UTC	aquarelle, boba, FerKeth, HelanaAshryvr, ricardodd	7	6	30
 374407	5	0	Special Mix (6 Suits)	2020-12-18 — 03:55:55 UTC	aquarelle, boba, FerKeth, HelanaAshryvr, ricardodd	11	6	30
 374369	2	0	Special Mix (5 Suits)	2020-12-18 — 03:24:19 UTC	FerKeth, HelanaAshryvr	88	5	25
-373626	2	17	Prism (4 Suits)	2020-12-17 — 06:47:51 UTC	eljavi, FerKeth	31	4	20
-373617	2	0	Prism (4 Suits)	2020-12-17 — 06:29:19 UTC	eljavi, FerKeth	66	4	20
-373609	2	20	Rainbow (4 Suits)	2020-12-17 — 06:06:32 UTC	eljavi, FerKeth	132	4	20
-372629	4	0	Black (5 Suits)	2020-12-16 — 06:53:04 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	49	5	25
-372499	3	30	White (6 Suits)	2020-12-16 — 03:53:15 UTC	eljavi, FerKeth, Lel0uch	101	6	30
-372469	2	0	White (6 Suits)	2020-12-16 — 03:13:14 UTC	eljavi, FerKeth	184	6	30
+373626	2	17	Prism (4 Suits)	2020-12-17 — 06:47:51 UTC	eljavi, FerKeth	33	4	20
+373617	2	0	Prism (4 Suits)	2020-12-17 — 06:29:19 UTC	eljavi, FerKeth	69	4	20
+373609	2	20	Rainbow (4 Suits)	2020-12-17 — 06:06:32 UTC	eljavi, FerKeth	135	4	20
+372629	4	0	Black (5 Suits)	2020-12-16 — 06:53:04 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	51	5	25
+372499	3	30	White (6 Suits)	2020-12-16 — 03:53:15 UTC	eljavi, FerKeth, Lel0uch	103	6	30
+372469	2	0	White (6 Suits)	2020-12-16 — 03:13:14 UTC	eljavi, FerKeth	186	6	30
 372378	4	15	Muddy Rainbow (3 Suits)	2020-12-16 — 01:38:22 UTC	FerKeth, HelanaAshryvr, kevincaseytdk1, TimeHoodie	3	3	15
 372363	4	14	Muddy Rainbow (3 Suits)	2020-12-16 — 01:23:00 UTC	FerKeth, HelanaAshryvr, kevincaseytdk1, TimeHoodie	7	3	15
 372342	3	18	Rainbow-Ones (4 Suits)	2020-12-16 — 00:57:36 UTC	boba, FerKeth, HelanaAshryvr	4	4	20
-372318	2	0	Rainbow-Ones (3 Suits)	2020-12-16 — 00:35:03 UTC	FerKeth, HelanaAshryvr	5	3	15
-372309	2	14	Rainbow-Ones (3 Suits)	2020-12-16 — 00:27:01 UTC	FerKeth, HelanaAshryvr	19	3	15
+372318	2	0	Rainbow-Ones (3 Suits)	2020-12-16 — 00:35:03 UTC	FerKeth, HelanaAshryvr	6	3	15
+372309	2	14	Rainbow-Ones (3 Suits)	2020-12-16 — 00:27:01 UTC	FerKeth, HelanaAshryvr	21	3	15
 372304	3	18	Rainbow-Ones (4 Suits)	2020-12-16 — 00:12:32 UTC	Durandal, FerKeth, HelanaAshryvr	12	4	20
-372298	3	20	White (4 Suits)	2020-12-15 — 23:49:13 UTC	Durandal, FerKeth, HelanaAshryvr	18	4	20
+372298	3	20	White (4 Suits)	2020-12-15 — 23:49:13 UTC	Durandal, FerKeth, HelanaAshryvr	19	4	20
 372284	3	17	White (4 Suits)	2020-12-15 — 23:20:23 UTC	Durandal, FerKeth, HelanaAshryvr	30	4	20
-372258	3	18	White (4 Suits)	2020-12-15 — 23:05:16 UTC	Durandal, FerKeth, HelanaAshryvr	46	4	20
-371656	3	25	Rainbow (5 Suits)	2020-12-15 — 06:44:12 UTC	eljavi, FerKeth, Fey	56	5	25
-371644	3	0	Rainbow (5 Suits)	2020-12-15 — 06:14:49 UTC	eljavi, FerKeth, orucsoraihc	84	5	25
+372258	3	18	White (4 Suits)	2020-12-15 — 23:05:16 UTC	Durandal, FerKeth, HelanaAshryvr	47	4	20
+371656	3	25	Rainbow (5 Suits)	2020-12-15 — 06:44:12 UTC	eljavi, FerKeth, Fey	57	5	25
+371644	3	0	Rainbow (5 Suits)	2020-12-15 — 06:14:49 UTC	eljavi, FerKeth, orucsoraihc	87	5	25
 371571	4	13	3 Suits	2020-12-15 — 04:54:59 UTC	doctorabi, FerKeth, frosty104, HelanaAshryvr	37	3	15
-370725	5	22	No Variant	2020-12-14 — 06:24:15 UTC	FerKeth, HelanaAshryvr, hughjanus, IsabeltheCat, roonsta820	383	5	25
-370476	3	30	6 Suits	2020-12-14 — 01:19:10 UTC	Durandal, FerKeth, HelanaAshryvr	196	6	30
-366640	3	24	No Variant	2020-12-10 — 06:34:56 UTC	FerKeth, Fey, HelanaAshryvr	39	5	25
-366633	3	0	No Variant	2020-12-10 — 06:17:11 UTC	FerKeth, Fey, HelanaAshryvr	38	5	25
-366622	3	15	3 Suits	2020-12-10 — 06:04:11 UTC	FerKeth, HelanaAshryvr, MarcLovesDogs	115	3	15
-366611	3	14	3 Suits	2020-12-10 — 05:50:32 UTC	FerKeth, HelanaAshryvr, MarcLovesDogs	144	3	15
+370725	5	22	No Variant	2020-12-14 — 06:24:15 UTC	FerKeth, HelanaAshryvr, hughjanus, IsabeltheCat, roonsta820	384	5	25
+370476	3	30	6 Suits	2020-12-14 — 01:19:10 UTC	Durandal, FerKeth, HelanaAshryvr	199	6	30
+366640	3	24	No Variant	2020-12-10 — 06:34:56 UTC	FerKeth, Fey, HelanaAshryvr	41	5	25
+366633	3	0	No Variant	2020-12-10 — 06:17:11 UTC	FerKeth, Fey, HelanaAshryvr	40	5	25
+366622	3	15	3 Suits	2020-12-10 — 06:04:11 UTC	FerKeth, HelanaAshryvr, MarcLovesDogs	116	3	15
+366611	3	14	3 Suits	2020-12-10 — 05:50:32 UTC	FerKeth, HelanaAshryvr, MarcLovesDogs	146	3	15
 366592	5	22	Black (6 Suits)	2020-12-10 — 05:22:41 UTC	Doge, FerKeth, HelanaAshryvr, Onen, voss	39	6	30
-365551	2	25	No Variant	2020-12-09 — 08:15:34 UTC	eljavi, FerKeth	2532	5	25
-365545	2	22	No Variant	2020-12-09 — 07:42:11 UTC	eljavi, FerKeth	2750	5	25
-365521	2	20	No Variant	2020-12-09 — 07:05:19 UTC	eljavi, FerKeth	3507	5	25
-364450	5	0	Black (6 Suits)	2020-12-08 — 06:20:24 UTC	eljavi, FerKeth, HelanaAshryvr, Lel0uch, Romain672	101	6	30
-364433	4	0	Black (6 Suits)	2020-12-08 — 05:53:36 UTC	eljavi, FerKeth, HelanaAshryvr, Romain672	273	6	30
+365551	2	25	No Variant	2020-12-09 — 08:15:34 UTC	eljavi, FerKeth	2552	5	25
+365545	2	22	No Variant	2020-12-09 — 07:42:11 UTC	eljavi, FerKeth	2772	5	25
+365521	2	20	No Variant	2020-12-09 — 07:05:19 UTC	eljavi, FerKeth	3537	5	25
+364450	5	0	Black (6 Suits)	2020-12-08 — 06:20:24 UTC	eljavi, FerKeth, HelanaAshryvr, Lel0uch, Romain672	103	6	30
+364433	4	0	Black (6 Suits)	2020-12-08 — 05:53:36 UTC	eljavi, FerKeth, HelanaAshryvr, Romain672	276	6	30
 364424	5	0	Rainbow (3 Suits)	2020-12-08 — 05:44:41 UTC	boba, eljavi, FerKeth, HelanaAshryvr, Romain672	8	3	15
 364397	6	26	Black (6 Suits)	2020-12-08 — 05:13:28 UTC	aquarelle, boba, eljavi, FerKeth, HelanaAshryvr, Romain672	38	6	30
 364354	4	20	4 Suits	2020-12-08 — 04:30:16 UTC	boba, FerKeth, HelanaAshryvr, Romain672	32	4	20
 363167	3	0	Muddy Rainbow (6 Suits)	2020-12-07 — 04:53:40 UTC	FerKeth, HelanaAshryvr, Romain672	49	6	30
 363136	4	0	Throw It in a Hole (6 Suits)	2020-12-07 — 04:18:58 UTC	aquarelle, FerKeth, HelanaAshryvr, Romain672	21	6	30
 363114	5	9	3 Suits	2020-12-07 — 03:52:24 UTC	aquarelle, boba, FerKeth, HelanaAshryvr, Romain672	27	3	15
-363103	3	0	6 Suits	2020-12-07 — 03:35:16 UTC	boba, FerKeth, HelanaAshryvr	252	6	30
-363092	3	0	6 Suits	2020-12-07 — 03:17:29 UTC	boba, FerKeth, HelanaAshryvr	305	6	30
-363064	2	0	White (5 Suits)	2020-12-07 — 02:41:14 UTC	FerKeth, HelanaAshryvr	90	5	25
-357240	4	24	Throw It in a Hole (5 Suits)	2020-11-30 — 03:50:24 UTC	aquarelle-, FerKeth, HelanaAshryvr, Romain672	13	5	25
+363103	3	0	6 Suits	2020-12-07 — 03:35:16 UTC	boba, FerKeth, HelanaAshryvr	256	6	30
+363092	3	0	6 Suits	2020-12-07 — 03:17:29 UTC	boba, FerKeth, HelanaAshryvr	311	6	30
+363064	2	0	White (5 Suits)	2020-12-07 — 02:41:14 UTC	FerKeth, HelanaAshryvr	92	5	25
+357240	4	24	Throw It in a Hole (5 Suits)	2020-11-30 — 03:50:24 UTC	aquarelle-, FerKeth, HelanaAshryvr, Romain672	14	5	25
 357179	4	20	Prism & Dark Rainbow (5 Suits)	2020-11-30 — 02:54:05 UTC	FerKeth, HelanaAshryvr, kimbifille, Romain672	4	5	25
-357136	4	15	Rainbow (3 Suits)	2020-11-30 — 02:10:46 UTC	FerKeth, HelanaAshryvr, kimbifille, Romain672	24	3	15
-355795	5	24	6 Suits	2020-11-28 — 06:27:10 UTC	eljavi, FerKeth, HelanaAshryvr, Lel0uch, Romain672	132	6	30
+357136	4	15	Rainbow (3 Suits)	2020-11-30 — 02:10:46 UTC	FerKeth, HelanaAshryvr, kimbifille, Romain672	25	3	15
+355795	5	24	6 Suits	2020-11-28 — 06:27:10 UTC	eljavi, FerKeth, HelanaAshryvr, Lel0uch, Romain672	133	6	30
 355774	5	19	4 Suits	2020-11-28 — 05:42:02 UTC	eljavi, FerKeth, HelanaAshryvr, Lel0uch, Romain672	16	4	20
-355758	4	0	4 Suits	2020-11-28 — 05:12:53 UTC	eljavi, FerKeth, HelanaAshryvr, Romain672	38	4	20
-355719	4	29	6 Suits	2020-11-28 — 04:30:59 UTC	eljavi, FerKeth, HelanaAshryvr, Romain672	47	6	30
+355758	4	0	4 Suits	2020-11-28 — 05:12:53 UTC	eljavi, FerKeth, HelanaAshryvr, Romain672	39	4	20
+355719	4	29	6 Suits	2020-11-28 — 04:30:59 UTC	eljavi, FerKeth, HelanaAshryvr, Romain672	49	6	30
 355672	4	0	Up or Down (5 Suits)	2020-11-28 — 03:51:09 UTC	eljavi, FerKeth, HelanaAshryvr, Romain672	75	5	25
 355611	3	0	Rainbow Reversed (6 Suits)	2020-11-28 — 03:10:15 UTC	FerKeth, HelanaAshryvr, Romain672	7	6	30
 355556	3	0	Rainbow Reversed (6 Suits)	2020-11-28 — 02:29:06 UTC	FerKeth, HelanaAshryvr, Romain672	12	6	30
-355512	3	24	Up or Down (5 Suits)	2020-11-28 — 01:34:52 UTC	FerKeth, HelanaAshryvr, Romain672	113	5	25
-354977	4	28	6 Suits	2020-11-27 — 06:12:33 UTC	eljavi, FerKeth, HelanaAshryvr, Romain672	49	6	30
-354933	4	23	No Variant	2020-11-27 — 05:23:59 UTC	eljavi, FerKeth, HelanaAshryvr, Romain672	717	5	25
-354896	4	24	No Variant	2020-11-27 — 04:48:51 UTC	eljavi, FerKeth, HelanaAshryvr, Romain672	985	5	25
-350604	2	22	No Variant	2020-11-22 — 06:55:56 UTC	FerKeth, HelanaAshryvr	2288	5	25
-350579	2	20	No Variant	2020-11-22 — 06:20:38 UTC	FerKeth, HelanaAshryvr	3051	5	25
-350541	4	0	Alternating Clues (6 Suits)	2020-11-22 — 05:44:06 UTC	angel-a, FerKeth, HelanaAshryvr, Romain672	7	6	30
-347653	3	25	No Variant	2020-11-19 — 05:40:05 UTC	eljavi, FerKeth, HelanaAshryvr	2163	5	25
+355512	3	24	Up or Down (5 Suits)	2020-11-28 — 01:34:52 UTC	FerKeth, HelanaAshryvr, Romain672	114	5	25
+354977	4	28	6 Suits	2020-11-27 — 06:12:33 UTC	eljavi, FerKeth, HelanaAshryvr, Romain672	51	6	30
+354933	4	23	No Variant	2020-11-27 — 05:23:59 UTC	eljavi, FerKeth, HelanaAshryvr, Romain672	724	5	25
+354896	4	24	No Variant	2020-11-27 — 04:48:51 UTC	eljavi, FerKeth, HelanaAshryvr, Romain672	994	5	25
+350604	2	22	No Variant	2020-11-22 — 06:55:56 UTC	FerKeth, HelanaAshryvr	2307	5	25
+350579	2	20	No Variant	2020-11-22 — 06:20:38 UTC	FerKeth, HelanaAshryvr	3072	5	25
+350541	4	0	Alternating Clues (6 Suits)	2020-11-22 — 05:44:06 UTC	angel-a, FerKeth, HelanaAshryvr, Romain672	8	6	30
+347653	3	25	No Variant	2020-11-19 — 05:40:05 UTC	eljavi, FerKeth, HelanaAshryvr	2179	5	25

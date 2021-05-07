@@ -2,25 +2,25 @@
 498508	3	0	Black & Brown (5 Suits)	2021-04-12 — 16:57:50 UTC	CaitlinSmith, kinkajusrevenge, ricardodd	1	5	25
 498506	3	0	Black & Brown (5 Suits)	2021-04-12 — 16:54:03 UTC	CaitlinSmith, kinkajusrevenge, ricardodd	1	5	25
 497563	3	24	Rainbow & White (5 Suits)	2021-04-11 — 21:17:23 UTC	CaitlinSmith, griff77, wolfpack	26	5	25
-497516	2	20	Light Pink (4 Suits)	2021-04-11 — 20:40:35 UTC	CaitlinSmith, DarthGandalf	14	4	20
-497488	2	0	Light Pink (4 Suits)	2021-04-11 — 20:20:06 UTC	CaitlinSmith, DarthGandalf	17	4	20
-497469	2	0	Light Pink (4 Suits)	2021-04-11 — 20:01:41 UTC	CaitlinSmith, DarthGandalf	25	4	20
-497454	2	0	Light Pink (4 Suits)	2021-04-11 — 19:47:59 UTC	CaitlinSmith, DarthGandalf	43	4	20
+497516	2	20	Light Pink (4 Suits)	2021-04-11 — 20:40:35 UTC	CaitlinSmith, DarthGandalf	15	4	20
+497488	2	0	Light Pink (4 Suits)	2021-04-11 — 20:20:06 UTC	CaitlinSmith, DarthGandalf	20	4	20
+497469	2	0	Light Pink (4 Suits)	2021-04-11 — 20:01:41 UTC	CaitlinSmith, DarthGandalf	29	4	20
+497454	2	0	Light Pink (4 Suits)	2021-04-11 — 19:47:59 UTC	CaitlinSmith, DarthGandalf	48	4	20
 497151	3	0	Dark Prism (6 Suits)	2021-04-11 — 11:13:12 UTC	bob65536, CaitlinSmith, qqqq	32	6	30
 496518	3	25	Pink-Fives & Prism (5 Suits)	2021-04-10 — 21:09:13 UTC	CaitlinSmith, DarthGandalf, griff77	2	5	25
 496470	4	20	Pink (4 Suits)	2021-04-10 — 20:39:51 UTC	CaitlinSmith, DarthGandalf, griff77, robense	8	4	20
 496412	4	30	Muddy Rainbow (6 Suits)	2021-04-10 — 20:15:13 UTC	CaitlinSmith, DarthGandalf, griff77, indego	5	6	30
 496377	4	0	Black & Brown (5 Suits)	2021-04-10 — 19:30:03 UTC	Aluap, CaitlinSmith, DarthGandalf, timotree	1	5	25
-496356	3	23	Black & Rainbow (5 Suits)	2021-04-10 — 18:59:20 UTC	Aluap, CaitlinSmith, timotree	20	5	25
-496327	3	24	No Variant	2021-04-10 — 18:19:44 UTC	CaitlinSmith, pdx, robense	17	5	25
-496324	3	24	No Variant	2021-04-10 — 18:01:24 UTC	CaitlinSmith, pdx, robense	18	5	25
+496356	3	23	Black & Rainbow (5 Suits)	2021-04-10 — 18:59:20 UTC	Aluap, CaitlinSmith, timotree	21	5	25
+496327	3	24	No Variant	2021-04-10 — 18:19:44 UTC	CaitlinSmith, pdx, robense	18	5	25
+496324	3	24	No Variant	2021-04-10 — 18:01:24 UTC	CaitlinSmith, pdx, robense	19	5	25
 495440	3	0	Black (5 Suits)	2021-04-09 — 22:50:04 UTC	CaitlinSmith, kevincaseytdk1, Syrah	25	5	25
 494246	6	21	No Variant	2021-04-08 — 21:04:47 UTC	CaitlinSmith, DarthGandalf, kevincaseytdk1, knaphill, newduke, Spieler42	29	5	25
 494218	6	0	No Variant	2021-04-08 — 20:36:18 UTC	CaitlinSmith, DarthGandalf, kevincaseytdk1, knaphill, newduke, Spieler42	32	5	25
 494206	5	0	Black (5 Suits)	2021-04-08 — 20:19:16 UTC	CaitlinSmith, DarthGandalf, knaphill, newduke, Spieler42	6	5	25
 494182	5	21	Black (5 Suits)	2021-04-08 — 19:54:08 UTC	CaitlinSmith, DarthGandalf, knaphill, newduke, Spieler42	6	5	25
 494160	4	0	Black & Rainbow (6 Suits)	2021-04-08 — 19:35:41 UTC	CaitlinSmith, DarthGandalf, knaphill, Spieler42	46	6	30
-494146	2	29	Black & Rainbow (6 Suits)	2021-04-08 — 19:24:08 UTC	CaitlinSmith, DarthGandalf	98	6	30
+494146	2	29	Black & Rainbow (6 Suits)	2021-04-08 — 19:24:08 UTC	CaitlinSmith, DarthGandalf	100	6	30
 493401	5	0	3 Suits	2021-04-07 — 20:36:52 UTC	bjnh, CaitlinSmith, IsabeltheCat, MangoPie, newduke	4	3	15
 493372	5	0	3 Suits	2021-04-07 — 20:21:35 UTC	bjnh, CaitlinSmith, IsabeltheCat, MangoPie, newduke	5	3	15
 493312	5	0	Alternating Clues (6 Suits)	2021-04-07 — 19:57:13 UTC	CaitlinSmith, IsabeltheCat, Lanvin, newduke, Spieler42	3	6	30
@@ -29,12 +29,12 @@
 493206	3	24	Black & Light Pink (5 Suits)	2021-04-07 — 18:40:49 UTC	CaitlinSmith, kinkajusrevenge, Spieler42	2	5	25
 493177	3	0	Black & Light Pink (5 Suits)	2021-04-07 — 18:26:05 UTC	ADrone, CaitlinSmith, kinkajusrevenge	2	5	25
 493165	3	0	Black & Light Pink (5 Suits)	2021-04-07 — 18:11:49 UTC	ADrone, CaitlinSmith, kinkajusrevenge	2	5	25
-493136	3	0	Black & Light Pink (5 Suits)	2021-04-07 — 17:38:26 UTC	ADrone, bjnh, CaitlinSmith	3	5	25
+493136	3	0	Black & Light Pink (5 Suits)	2021-04-07 — 17:38:26 UTC	ADrone, bjnh, CaitlinSmith	4	5	25
 492522	5	22	Rainbow (5 Suits)	2021-04-06 — 21:46:20 UTC	CaitlinSmith, Damian000, PotatoLatte, ReaverSe, Spieler42	13	5	25
 492473	5	0	Rainbow (5 Suits)	2021-04-06 — 21:14:07 UTC	CaitlinSmith, Damian000, PotatoLatte, ReaverSe, Spieler42	12	5	25
 492440	5	0	Rainbow (5 Suits)	2021-04-06 — 20:52:36 UTC	CaitlinSmith, Damian000, PotatoLatte, ReaverSe, Spieler42	14	5	25
 492410	5	0	Rainbow (5 Suits)	2021-04-06 — 20:29:55 UTC	CaitlinSmith, Damian000, PotatoLatte, ReaverSe, Spieler42	14	5	25
-492399	5	0	Rainbow (5 Suits)	2021-04-06 — 20:19:51 UTC	CaitlinSmith, Damian000, PotatoLatte, ReaverSe, Spieler42	17	5	25
+492399	5	0	Rainbow (5 Suits)	2021-04-06 — 20:19:51 UTC	CaitlinSmith, Damian000, PotatoLatte, ReaverSe, Spieler42	18	5	25
 492322	3	0	Black & Light Pink (5 Suits)	2021-04-06 — 18:58:58 UTC	CaitlinSmith, kevincaseytdk1, Syrah	4	5	25
 492303	3	0	Black & Light Pink (5 Suits)	2021-04-06 — 18:38:42 UTC	CaitlinSmith, kevincaseytdk1, Syrah	6	5	25
 492293	3	0	Black & Light Pink (5 Suits)	2021-04-06 — 18:28:21 UTC	CaitlinSmith, kevincaseytdk1, Syrah	5	5	25
@@ -45,35 +45,35 @@
 492221	3	0	Black & Light Pink (5 Suits)	2021-04-06 — 17:04:05 UTC	CaitlinSmith, IsabeltheCat, kevincaseytdk1	11	5	25
 492214	3	0	Black & Light Pink (5 Suits)	2021-04-06 — 16:55:58 UTC	CaitlinSmith, IsabeltheCat, kevincaseytdk1	13	5	25
 491526	4	23	Black & Light Pink (5 Suits)	2021-04-05 — 21:04:21 UTC	CaitlinSmith, DarthGandalf, MangoPie, newduke	8	5	25
-491113	3	24	No Variant	2021-04-05 — 12:06:08 UTC	CaitlinSmith, mgce, Spieler42	49	5	25
-491103	3	0	No Variant	2021-04-05 — 11:35:52 UTC	CaitlinSmith, mgce, Spieler42	48	5	25
-491098	3	0	No Variant	2021-04-05 — 11:13:37 UTC	CaitlinSmith, mgce, Spieler42	50	5	25
-491087	3	25	No Variant	2021-04-05 — 10:46:24 UTC	CaitlinSmith, sin_faith, Spieler42	27	5	25
-491080	3	0	No Variant	2021-04-05 — 10:32:32 UTC	CaitlinSmith, sin_faith, Spieler42	27	5	25
+491113	3	24	No Variant	2021-04-05 — 12:06:08 UTC	CaitlinSmith, mgce, Spieler42	51	5	25
+491103	3	0	No Variant	2021-04-05 — 11:35:52 UTC	CaitlinSmith, mgce, Spieler42	50	5	25
+491098	3	0	No Variant	2021-04-05 — 11:13:37 UTC	CaitlinSmith, mgce, Spieler42	51	5	25
+491087	3	25	No Variant	2021-04-05 — 10:46:24 UTC	CaitlinSmith, sin_faith, Spieler42	29	5	25
+491080	3	0	No Variant	2021-04-05 — 10:32:32 UTC	CaitlinSmith, sin_faith, Spieler42	28	5	25
 491072	4	18	Brown & Prism (4 Suits)	2021-04-05 — 09:39:05 UTC	CaitlinSmith, Lanvin, Lel0uch, sin_faith	3	4	20
-490686	3	25	White (5 Suits)	2021-04-04 — 22:16:38 UTC	CaitlinSmith, ReaverSe, VBVBVBVB	61	5	25
-490626	3	0	White (5 Suits)	2021-04-04 — 21:26:24 UTC	CaitlinSmith, ReaverSe, VBVBVBVB	81	5	25
-490569	3	24	White (5 Suits)	2021-04-04 — 20:23:48 UTC	CaitlinSmith, ReaverSe, VBVBVBVB	126	5	25
-490357	3	0	Black & White (5 Suits)	2021-04-04 — 15:08:02 UTC	bob65536, CaitlinSmith, robense	40	5	25
+490686	3	25	White (5 Suits)	2021-04-04 — 22:16:38 UTC	CaitlinSmith, ReaverSe, VBVBVBVB	65	5	25
+490626	3	0	White (5 Suits)	2021-04-04 — 21:26:24 UTC	CaitlinSmith, ReaverSe, VBVBVBVB	84	5	25
+490569	3	24	White (5 Suits)	2021-04-04 — 20:23:48 UTC	CaitlinSmith, ReaverSe, VBVBVBVB	131	5	25
+490357	3	0	Black & White (5 Suits)	2021-04-04 — 15:08:02 UTC	bob65536, CaitlinSmith, robense	41	5	25
 490342	3	23	Black & White (5 Suits)	2021-04-04 — 14:43:51 UTC	bob65536, CaitlinSmith, robense	45	5	25
 489709	4	21	Light Pink (5 Suits)	2021-04-03 — 22:02:53 UTC	CaitlinSmith, Damian000, newduke, Pimak	9	5	25
 489676	4	0	Light Pink (5 Suits)	2021-04-03 — 21:35:07 UTC	CaitlinSmith, Damian000, newduke, Pimak	20	5	25
-489313	2	25	Light Pink (5 Suits)	2021-04-03 — 12:24:16 UTC	CaitlinSmith, robense	18	5	25
-489311	2	0	Light Pink (5 Suits)	2021-04-03 — 12:13:01 UTC	CaitlinSmith, robense	23	5	25
-489309	2	0	Light Pink (5 Suits)	2021-04-03 — 12:08:19 UTC	CaitlinSmith, robense	35	5	25
-489308	2	23	Light Pink (5 Suits)	2021-04-03 — 11:58:05 UTC	CaitlinSmith, robense	65	5	25
+489313	2	25	Light Pink (5 Suits)	2021-04-03 — 12:24:16 UTC	CaitlinSmith, robense	19	5	25
+489311	2	0	Light Pink (5 Suits)	2021-04-03 — 12:13:01 UTC	CaitlinSmith, robense	24	5	25
+489309	2	0	Light Pink (5 Suits)	2021-04-03 — 12:08:19 UTC	CaitlinSmith, robense	38	5	25
+489308	2	23	Light Pink (5 Suits)	2021-04-03 — 11:58:05 UTC	CaitlinSmith, robense	70	5	25
 489305	2	23	No Variant	2021-04-03 — 11:44:59 UTC	CaitlinSmith, knaphill	60	5	25
 489301	2	0	No Variant	2021-04-03 — 11:26:58 UTC	CaitlinSmith, knaphill	61	5	25
 488592	4	20	White (4 Suits)	2021-04-02 — 21:07:13 UTC	CaitlinSmith, Krepps57, newduke, rz	7	4	20
-488572	4	0	No Variant	2021-04-02 — 20:52:51 UTC	CaitlinSmith, kevincaseytdk1, Krepps57, rz	117	5	25
-488551	4	24	No Variant	2021-04-02 — 20:34:41 UTC	CaitlinSmith, kevincaseytdk1, Krepps57, rz	156	5	25
-488513	4	0	No Variant	2021-04-02 — 19:58:12 UTC	CaitlinSmith, kevincaseytdk1, Krepps57, rz	190	5	25
+488572	4	0	No Variant	2021-04-02 — 20:52:51 UTC	CaitlinSmith, kevincaseytdk1, Krepps57, rz	119	5	25
+488551	4	24	No Variant	2021-04-02 — 20:34:41 UTC	CaitlinSmith, kevincaseytdk1, Krepps57, rz	157	5	25
+488513	4	0	No Variant	2021-04-02 — 19:58:12 UTC	CaitlinSmith, kevincaseytdk1, Krepps57, rz	192	5	25
 488475	3	0	Black & Brown (5 Suits)	2021-04-02 — 19:24:12 UTC	CaitlinSmith, kevincaseytdk1, Krepps57	1	5	25
 488460	3	0	Black & Brown (5 Suits)	2021-04-02 — 19:02:46 UTC	CaitlinSmith, Doge, Kernel	1	5	25
 488441	3	23	Black & Brown (5 Suits)	2021-04-02 — 18:38:53 UTC	CaitlinSmith, Doge, Kernel	1	5	25
 488270	3	25	Black & Brown (5 Suits)	2021-04-02 — 13:04:24 UTC	CaitlinSmith, indego, ricardodd	1	5	25
-488265	3	23	Black & Brown (5 Suits)	2021-04-02 — 12:41:53 UTC	CaitlinSmith, indego, ricardodd	1	5	25
-487680	3	0	Black & Brown (5 Suits)	2021-04-01 — 20:49:02 UTC	CaitlinSmith, Kyle, MangoPie	1	5	25
+488265	3	23	Black & Brown (5 Suits)	2021-04-02 — 12:41:53 UTC	CaitlinSmith, indego, ricardodd	2	5	25
+487680	3	0	Black & Brown (5 Suits)	2021-04-01 — 20:49:02 UTC	CaitlinSmith, Kyle, MangoPie	2	5	25
 487657	4	0	Black & Brown (5 Suits)	2021-04-01 — 20:27:05 UTC	ADrone, CaitlinSmith, MangoPie, robense	1	5	25
 487628	3	0	Black & Brown (5 Suits)	2021-04-01 — 19:59:39 UTC	ADrone, CaitlinSmith, robense	1	5	25
 487537	5	0	Pink (5 Suits)	2021-04-01 — 18:38:02 UTC	CaitlinSmith, Fey, Kyle, micerang, swineherd	1	5	25
@@ -83,48 +83,48 @@
 486689	3	0	Up or Down & Omni (6 Suits)	2021-03-31 — 20:18:49 UTC	CaitlinSmith, knaphill, Syrah	7	6	30
 486678	6	0	Black & Brown (6 Suits)	2021-03-31 — 20:08:48 UTC	CaitlinSmith, Denchulitas, knaphill, Onen, sephiroth, Syrah	3	6	30
 486660	6	0	Black & Brown (6 Suits)	2021-03-31 — 19:54:47 UTC	CaitlinSmith, Denchulitas, knaphill, Onen, sephiroth, Syrah	4	6	30
-486639	3	0	Black & Brown (5 Suits)	2021-03-31 — 19:44:27 UTC	CaitlinSmith, Denchulitas, sephiroth	1	5	25
+486639	3	0	Black & Brown (5 Suits)	2021-03-31 — 19:44:27 UTC	CaitlinSmith, Denchulitas, sephiroth	2	5	25
 486581	6	24	Prism (5 Suits)	2021-03-31 — 19:10:08 UTC	antitelharsic, CaitlinSmith, HelanaAshryvr, jeff10, Lanvin, VerySloppyTwo	7	5	25
 486551	4	21	Black & Brown (5 Suits)	2021-03-31 — 18:42:04 UTC	CaitlinSmith, DingoEgret, jack67889, jeff10	1	5	25
-485660	2	0	Rainbow (5 Suits)	2021-03-30 — 19:41:27 UTC	ADrone, CaitlinSmith	51	5	25
-485650	2	0	Rainbow (5 Suits)	2021-03-30 — 19:35:51 UTC	ADrone, CaitlinSmith	64	5	25
-485638	2	0	Rainbow (5 Suits)	2021-03-30 — 19:26:19 UTC	ADrone, CaitlinSmith	75	5	25
+485660	2	0	Rainbow (5 Suits)	2021-03-30 — 19:41:27 UTC	ADrone, CaitlinSmith	55	5	25
+485650	2	0	Rainbow (5 Suits)	2021-03-30 — 19:35:51 UTC	ADrone, CaitlinSmith	68	5	25
+485638	2	0	Rainbow (5 Suits)	2021-03-30 — 19:26:19 UTC	ADrone, CaitlinSmith	77	5	25
 485618	4	23	Brown (5 Suits)	2021-03-30 — 19:02:06 UTC	ADrone, CaitlinSmith, dobi, Kyle	1	5	25
 485604	4	0	Brown (5 Suits)	2021-03-30 — 18:40:45 UTC	ADrone, CaitlinSmith, dobi, Kyle	1	5	25
 485597	5	25	Brown (5 Suits)	2021-03-30 — 18:23:08 UTC	ADrone, CaitlinSmith, kinkajusrevenge, Kyle, Spieler42	1	5	25
 485584	5	0	Brown (5 Suits)	2021-03-30 — 18:03:20 UTC	ADrone, CaitlinSmith, kinkajusrevenge, Kyle, Spieler42	2	5	25
 485571	5	0	Omni-Fives & Light Pink (5 Suits)	2021-03-30 — 17:46:28 UTC	CaitlinSmith, kinkajusrevenge, Kyle, robense, Spieler42	1	5	25
-484735	3	0	Black & Brown (5 Suits)	2021-03-29 — 21:23:18 UTC	CaitlinSmith, Floriman, knaphill	1	5	25
-484720	3	0	Black & Brown (5 Suits)	2021-03-29 — 21:12:54 UTC	CaitlinSmith, Floriman, knaphill	1	5	25
-484715	3	0	Black & Brown (5 Suits)	2021-03-29 — 21:08:21 UTC	CaitlinSmith, Floriman, knaphill	1	5	25
-484708	3	0	Black & Brown (5 Suits)	2021-03-29 — 21:00:11 UTC	CaitlinSmith, Floriman, knaphill	1	5	25
-484693	2	0	Throw It in a Hole (5 Suits)	2021-03-29 — 20:39:24 UTC	CaitlinSmith, knaphill	76	5	25
-484665	3	0	Black & Brown (5 Suits)	2021-03-29 — 20:03:17 UTC	CaitlinSmith, Denchulitas, knaphill	1	5	25
-484648	3	0	Black & Brown (5 Suits)	2021-03-29 — 19:42:32 UTC	CaitlinSmith, Denchulitas, knaphill	2	5	25
-484644	3	0	Black & Brown (5 Suits)	2021-03-29 — 19:36:08 UTC	CaitlinSmith, Denchulitas, knaphill	3	5	25
-484578	3	24	Black & Brown (5 Suits)	2021-03-29 — 18:42:16 UTC	Aluap, CaitlinSmith, Onen	5	5	25
-484540	3	0	Black & Brown (5 Suits)	2021-03-29 — 18:20:53 UTC	Aluap, CaitlinSmith, Onen	6	5	25
-484518	3	19	No Variant	2021-03-29 — 17:58:57 UTC	CaitlinSmith, IsabeltheCat, Slaeb	48	5	25
-484498	3	0	No Variant	2021-03-29 — 17:36:58 UTC	CaitlinSmith, IsabeltheCat, Slaeb	49	5	25
-484479	3	23	No Variant	2021-03-29 — 17:19:00 UTC	CaitlinSmith, IsabeltheCat, Slaeb	49	5	25
+484735	3	0	Black & Brown (5 Suits)	2021-03-29 — 21:23:18 UTC	CaitlinSmith, Floriman, knaphill	2	5	25
+484720	3	0	Black & Brown (5 Suits)	2021-03-29 — 21:12:54 UTC	CaitlinSmith, Floriman, knaphill	2	5	25
+484715	3	0	Black & Brown (5 Suits)	2021-03-29 — 21:08:21 UTC	CaitlinSmith, Floriman, knaphill	2	5	25
+484708	3	0	Black & Brown (5 Suits)	2021-03-29 — 21:00:11 UTC	CaitlinSmith, Floriman, knaphill	2	5	25
+484693	2	0	Throw It in a Hole (5 Suits)	2021-03-29 — 20:39:24 UTC	CaitlinSmith, knaphill	81	5	25
+484665	3	0	Black & Brown (5 Suits)	2021-03-29 — 20:03:17 UTC	CaitlinSmith, Denchulitas, knaphill	2	5	25
+484648	3	0	Black & Brown (5 Suits)	2021-03-29 — 19:42:32 UTC	CaitlinSmith, Denchulitas, knaphill	3	5	25
+484644	3	0	Black & Brown (5 Suits)	2021-03-29 — 19:36:08 UTC	CaitlinSmith, Denchulitas, knaphill	5	5	25
+484578	3	24	Black & Brown (5 Suits)	2021-03-29 — 18:42:16 UTC	Aluap, CaitlinSmith, Onen	6	5	25
+484540	3	0	Black & Brown (5 Suits)	2021-03-29 — 18:20:53 UTC	Aluap, CaitlinSmith, Onen	7	5	25
+484518	3	19	No Variant	2021-03-29 — 17:58:57 UTC	CaitlinSmith, IsabeltheCat, Slaeb	49	5	25
+484498	3	0	No Variant	2021-03-29 — 17:36:58 UTC	CaitlinSmith, IsabeltheCat, Slaeb	51	5	25
+484479	3	23	No Variant	2021-03-29 — 17:19:00 UTC	CaitlinSmith, IsabeltheCat, Slaeb	51	5	25
 483838	4	0	Up or Down (5 Suits)	2021-03-28 — 21:30:34 UTC	CaitlinSmith, DarthGandalf, knaphill, narabio	75	5	25
 483810	4	0	Black & Brown (5 Suits)	2021-03-28 — 21:11:39 UTC	CaitlinSmith, DarthGandalf, knaphill, narabio	1	5	25
 483797	4	0	Black & Brown (5 Suits)	2021-03-28 — 21:02:33 UTC	CaitlinSmith, DarthGandalf, knaphill, narabio	1	5	25
-483763	3	0	Black & Brown (5 Suits)	2021-03-28 — 20:43:15 UTC	CaitlinSmith, DarthGandalf, narabio	7	5	25
-483742	3	0	Black & Brown (5 Suits)	2021-03-28 — 20:24:01 UTC	CaitlinSmith, DarthGandalf, narabio	9	5	25
-483717	3	0	Black & Brown (5 Suits)	2021-03-28 — 20:10:25 UTC	CaitlinSmith, DarthGandalf, narabio	10	5	25
+483763	3	0	Black & Brown (5 Suits)	2021-03-28 — 20:43:15 UTC	CaitlinSmith, DarthGandalf, narabio	8	5	25
+483742	3	0	Black & Brown (5 Suits)	2021-03-28 — 20:24:01 UTC	CaitlinSmith, DarthGandalf, narabio	10	5	25
+483717	3	0	Black & Brown (5 Suits)	2021-03-28 — 20:10:25 UTC	CaitlinSmith, DarthGandalf, narabio	11	5	25
 483616	4	0	Black & Brown (5 Suits)	2021-03-28 — 18:51:28 UTC	CaitlinSmith, indego, robense, timotree	1	5	25
-483604	3	0	Black & Brown (5 Suits)	2021-03-28 — 18:41:34 UTC	CaitlinSmith, indego, robense	11	5	25
+483604	3	0	Black & Brown (5 Suits)	2021-03-28 — 18:41:34 UTC	CaitlinSmith, indego, robense	12	5	25
 483583	4	30	White & Brown (6 Suits)	2021-03-28 — 18:21:33 UTC	CaitlinSmith, dobi, Lanvin, rz	6	6	30
 482683	4	27	Black (6 Suits)	2021-03-27 — 21:55:56 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat, Zamiel	7	6	30
 482638	4	0	Black (6 Suits)	2021-03-27 — 21:32:44 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat, Zamiel	8	6	30
-482622	4	0	Black (6 Suits)	2021-03-27 — 21:23:48 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat, Spieler42	91	6	30
-482611	4	0	Black (6 Suits)	2021-03-27 — 21:12:31 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat, Spieler42	121	6	30
-482599	4	0	Black (6 Suits)	2021-03-27 — 21:01:31 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat, Spieler42	128	6	30
-482582	4	28	Black (6 Suits)	2021-03-27 — 20:49:34 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat, Spieler42	142	6	30
-482559	3	0	Brown (6 Suits)	2021-03-27 — 20:24:55 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat	40	6	30
-482537	2	23	Brown (6 Suits)	2021-03-27 — 20:02:51 UTC	CaitlinSmith, IsabeltheCat	72	6	30
-482509	2	29	Brown (6 Suits)	2021-03-27 — 19:47:00 UTC	CaitlinSmith, IsabeltheCat	129	6	30
+482622	4	0	Black (6 Suits)	2021-03-27 — 21:23:48 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat, Spieler42	95	6	30
+482611	4	0	Black (6 Suits)	2021-03-27 — 21:12:31 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat, Spieler42	123	6	30
+482599	4	0	Black (6 Suits)	2021-03-27 — 21:01:31 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat, Spieler42	129	6	30
+482582	4	28	Black (6 Suits)	2021-03-27 — 20:49:34 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat, Spieler42	143	6	30
+482559	3	0	Brown (6 Suits)	2021-03-27 — 20:24:55 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat	41	6	30
+482537	2	23	Brown (6 Suits)	2021-03-27 — 20:02:51 UTC	CaitlinSmith, IsabeltheCat	73	6	30
+482509	2	29	Brown (6 Suits)	2021-03-27 — 19:47:00 UTC	CaitlinSmith, IsabeltheCat	131	6	30
 482316	4	0	Black & Rainbow (6 Suits)	2021-03-27 — 14:56:45 UTC	ADrone, CaitlinSmith, MarkusKahlsen, Nitrate	34	6	30
 482303	5	29	Rainbow & Pink (6 Suits)	2021-03-27 — 14:15:45 UTC	ADrone, CaitlinSmith, Lanvin, MarkusKahlsen, Nitrate	5	6	30
 482286	4	0	Black & Brown (5 Suits)	2021-03-27 — 13:09:25 UTC	CaitlinSmith, ChristopheAF, Denchulitas, knaphill	1	5	25
@@ -132,13 +132,13 @@
 482269	4	0	Black & Brown (5 Suits)	2021-03-27 — 12:15:31 UTC	CaitlinSmith, Denchulitas, knaphill, sephiroth	2	5	25
 482265	3	0	Black & Brown (5 Suits)	2021-03-27 — 12:01:28 UTC	CaitlinSmith, Denchulitas, knaphill	14	5	25
 481718	4	0	Brown (6 Suits)	2021-03-27 — 00:11:36 UTC	CaitlinSmith, DarthGandalf, Doge, IsabeltheCat	8	6	30
-481707	4	0	Brown (6 Suits)	2021-03-26 — 23:57:43 UTC	CaitlinSmith, DarthGandalf, Doge, IsabeltheCat	27	6	30
-481702	4	0	Brown (6 Suits)	2021-03-26 — 23:52:25 UTC	CaitlinSmith, DarthGandalf, Doge, IsabeltheCat	27	6	30
-481687	4	0	Brown (6 Suits)	2021-03-26 — 23:35:36 UTC	CaitlinSmith, DarthGandalf, Doge, IsabeltheCat	41	6	30
+481707	4	0	Brown (6 Suits)	2021-03-26 — 23:57:43 UTC	CaitlinSmith, DarthGandalf, Doge, IsabeltheCat	28	6	30
+481702	4	0	Brown (6 Suits)	2021-03-26 — 23:52:25 UTC	CaitlinSmith, DarthGandalf, Doge, IsabeltheCat	28	6	30
+481687	4	0	Brown (6 Suits)	2021-03-26 — 23:35:36 UTC	CaitlinSmith, DarthGandalf, Doge, IsabeltheCat	42	6	30
 480461	3	28	Dark Pink (6 Suits)	2021-03-25 — 20:52:24 UTC	Bonja97, CaitlinSmith, MarkusKahlsen	10	6	30
 480427	3	0	Dark Pink (6 Suits)	2021-03-25 — 20:28:25 UTC	Bonja97, CaitlinSmith, MarkusKahlsen	15	6	30
-480409	3	27	Dark Pink (6 Suits)	2021-03-25 — 20:15:23 UTC	Bonja97, CaitlinSmith, MarkusKahlsen	17	6	30
-480369	3	0	Dark Pink (6 Suits)	2021-03-25 — 19:56:11 UTC	Bonja97, CaitlinSmith, MarkusKahlsen	16	6	30
+480409	3	27	Dark Pink (6 Suits)	2021-03-25 — 20:15:23 UTC	Bonja97, CaitlinSmith, MarkusKahlsen	18	6	30
+480369	3	0	Dark Pink (6 Suits)	2021-03-25 — 19:56:11 UTC	Bonja97, CaitlinSmith, MarkusKahlsen	17	6	30
 479507	4	0	Black & Brown (5 Suits)	2021-03-24 — 21:39:40 UTC	CaitlinSmith, indego, jack67889, kevincaseytdk1	1	5	25
 479490	4	23	Black & Brown (5 Suits)	2021-03-24 — 21:28:33 UTC	CaitlinSmith, indego, jack67889, kevincaseytdk1	3	5	25
 479455	4	0	Black & Brown (5 Suits)	2021-03-24 — 21:06:27 UTC	CaitlinSmith, indego, jack67889, kevincaseytdk1	6	5	25
@@ -148,7 +148,7 @@
 479372	5	0	Omni (5 Suits)	2021-03-24 — 20:16:28 UTC	CaitlinSmith, dobi, kevincaseytdk1, lotem, Wittvector	2	5	25
 479306	2	25	No Variant	2021-03-24 — 19:33:23 UTC	CaitlinSmith, JoBean	62	5	25
 479291	2	0	No Variant	2021-03-24 — 19:12:22 UTC	CaitlinSmith, JoBean	62	5	25
-479278	2	0	No Variant	2021-03-24 — 18:52:40 UTC	CaitlinSmith, JoBean	62	5	25
+479278	2	0	No Variant	2021-03-24 — 18:52:40 UTC	CaitlinSmith, JoBean	63	5	25
 479252	2	20	No Variant	2021-03-24 — 18:29:23 UTC	CaitlinSmith, JoBean	63	5	25
 478319	4	22	Special Mix (5 Suits)	2021-03-23 — 21:32:10 UTC	CaitlinSmith, MangoPie, Onen, Wittvector	21	5	25
 478296	4	0	Special Mix (5 Suits)	2021-03-23 — 21:13:00 UTC	CaitlinSmith, MangoPie, Onen, Wittvector	20	5	25
@@ -163,69 +163,69 @@
 477075	3	0	Black & Brown (5 Suits)	2021-03-22 — 19:46:13 UTC	CaitlinSmith, jeff10, rz	16	5	25
 477054	3	0	Black & Brown (5 Suits)	2021-03-22 — 19:27:01 UTC	CaitlinSmith, jeff10, rz	19	5	25
 476274	4	30	Pink (6 Suits)	2021-03-21 — 21:17:37 UTC	CaitlinSmith, IsabeltheCat, Onen, robense	35	6	30
-476256	4	27	Pink (6 Suits)	2021-03-21 — 20:53:21 UTC	CaitlinSmith, IsabeltheCat, Onen, robense	42	6	30
-476209	4	0	Pink (6 Suits)	2021-03-21 — 20:27:08 UTC	CaitlinSmith, IsabeltheCat, Onen, robense	70	6	30
+476256	4	27	Pink (6 Suits)	2021-03-21 — 20:53:21 UTC	CaitlinSmith, IsabeltheCat, Onen, robense	43	6	30
+476209	4	0	Pink (6 Suits)	2021-03-21 — 20:27:08 UTC	CaitlinSmith, IsabeltheCat, Onen, robense	71	6	30
 475781	4	0	Up or Down & Pink (6 Suits)	2021-03-21 — 12:52:58 UTC	Aluap, CaitlinSmith, mehdi_safi, sephiroth	4	6	30
 473913	4	25	Black & Brown (5 Suits)	2021-03-19 — 21:35:45 UTC	CaitlinSmith, kevincaseytdk1, knaphill, thejazzagent	11	5	25
 473868	4	21	Black & Brown (5 Suits)	2021-03-19 — 20:58:46 UTC	bjnh, CaitlinSmith, Kernel, kevincaseytdk1	7	5	25
 473850	4	0	Black & Brown (5 Suits)	2021-03-19 — 20:34:22 UTC	bjnh, CaitlinSmith, Kernel, kevincaseytdk1	8	5	25
 473834	3	0	Rainbow & Gray Pink (5 Suits)	2021-03-19 — 20:13:25 UTC	CaitlinSmith, hakha3, Spieler42	6	5	25
 473826	3	0	Rainbow & Gray Pink (5 Suits)	2021-03-19 — 20:02:18 UTC	CaitlinSmith, hakha3, Spieler42	7	5	25
-472595	4	24	Gray (5 Suits)	2021-03-18 — 19:37:42 UTC	CaitlinSmith, ChristopheAF, kevincaseytdk1, swineherd	4	5	25
-472558	4	23	Gray (5 Suits)	2021-03-18 — 19:09:08 UTC	CaitlinSmith, ChristopheAF, kevincaseytdk1, swineherd	4	5	25
+472595	4	24	Gray (5 Suits)	2021-03-18 — 19:37:42 UTC	CaitlinSmith, ChristopheAF, kevincaseytdk1, swineherd	6	5	25
+472558	4	23	Gray (5 Suits)	2021-03-18 — 19:09:08 UTC	CaitlinSmith, ChristopheAF, kevincaseytdk1, swineherd	6	5	25
 472531	4	0	Black & Brown (5 Suits)	2021-03-18 — 18:46:13 UTC	CaitlinSmith, indego, kevincaseytdk1, swineherd	3	5	25
-472496	4	0	Black & Brown (5 Suits)	2021-03-18 — 18:30:16 UTC	CaitlinSmith, indego, kevincaseytdk1, swineherd	5	5	25
-472486	4	0	Black & Brown (5 Suits)	2021-03-18 — 18:12:33 UTC	CaitlinSmith, indego, kevincaseytdk1, swineherd	6	5	25
+472496	4	0	Black & Brown (5 Suits)	2021-03-18 — 18:30:16 UTC	CaitlinSmith, indego, kevincaseytdk1, swineherd	6	5	25
+472486	4	0	Black & Brown (5 Suits)	2021-03-18 — 18:12:33 UTC	CaitlinSmith, indego, kevincaseytdk1, swineherd	7	5	25
 472478	4	0	Black & Brown (5 Suits)	2021-03-18 — 18:01:21 UTC	CaitlinSmith, indego, kevincaseytdk1, swineherd	10	5	25
 472468	4	0	Black & Brown (5 Suits)	2021-03-18 — 17:55:25 UTC	CaitlinSmith, indego, kevincaseytdk1, swineherd	13	5	25
 472453	4	25	Rainbow & Pink (5 Suits)	2021-03-18 — 17:42:25 UTC	CaitlinSmith, indego, kevincaseytdk1, swineherd	4	5	25
-471808	2	20	Rainbow (4 Suits)	2021-03-17 — 21:57:55 UTC	CaitlinSmith, robense	40	4	20
-471779	2	0	Rainbow (4 Suits)	2021-03-17 — 21:48:00 UTC	CaitlinSmith, robense	55	4	20
-471772	2	0	Rainbow (4 Suits)	2021-03-17 — 21:43:47 UTC	CaitlinSmith, robense	76	4	20
+471808	2	20	Rainbow (4 Suits)	2021-03-17 — 21:57:55 UTC	CaitlinSmith, robense	41	4	20
+471779	2	0	Rainbow (4 Suits)	2021-03-17 — 21:48:00 UTC	CaitlinSmith, robense	56	4	20
+471772	2	0	Rainbow (4 Suits)	2021-03-17 — 21:43:47 UTC	CaitlinSmith, robense	77	4	20
 471433	5	0	Rainbow & White (5 Suits)	2021-03-17 — 18:29:32 UTC	CaitlinSmith, ChristopheAF, Lanvin, padi, possum	2	5	25
 470380	5	0	Black & White (5 Suits)	2021-03-16 — 20:17:44 UTC	asaelr, Bot-Fiora, CaitlinSmith, HariKrishnan, Kyle	2	5	25
 470358	5	0	Black & White (5 Suits)	2021-03-16 — 19:58:04 UTC	asaelr, Bot-Fiora, CaitlinSmith, HariKrishnan, Kyle	2	5	25
-470332	3	25	No Variant	2021-03-16 — 19:42:14 UTC	Bot-Fiora, CaitlinSmith, HariKrishnan	53	5	25
-470304	3	25	No Variant	2021-03-16 — 19:13:39 UTC	Bot-Fiora, CaitlinSmith, HariKrishnan	51	5	25
+470332	3	25	No Variant	2021-03-16 — 19:42:14 UTC	Bot-Fiora, CaitlinSmith, HariKrishnan	54	5	25
+470304	3	25	No Variant	2021-03-16 — 19:13:39 UTC	Bot-Fiora, CaitlinSmith, HariKrishnan	53	5	25
 470277	6	0	Special Mix (5 Suits)	2021-03-16 — 18:38:45 UTC	4head, Bot-Fiora, CaitlinSmith, ChristopheAF, hakha3, newduke	5	5	25
 469435	4	28	Throw It in a Hole (6 Suits)	2021-03-15 — 22:02:19 UTC	Bot-Fiora, CaitlinSmith, jack67889, jeff10	7	6	30
 469370	3	0	Throw It in a Hole (6 Suits)	2021-03-15 — 21:19:25 UTC	Bot-Fiora, CaitlinSmith, MangoPie	21	6	30
-469169	2	30	Black (6 Suits)	2021-03-15 — 18:36:14 UTC	CaitlinSmith, knaphill	391	6	30
+469169	2	30	Black (6 Suits)	2021-03-15 — 18:36:14 UTC	CaitlinSmith, knaphill	398	6	30
 468377	4	0	Dark Prism (6 Suits)	2021-03-14 — 21:37:52 UTC	CaitlinSmith, griff77, IsabeltheCat, wump	20	6	30
-467198	2	0	Pink (5 Suits)	2021-03-13 — 23:18:19 UTC	CaitlinSmith, Onen	88	5	25
-467194	2	0	Pink (5 Suits)	2021-03-13 — 23:12:24 UTC	CaitlinSmith, Onen	95	5	25
-467189	2	20	4 Suits	2021-03-13 — 23:09:19 UTC	CaitlinSmith, Onen	110	4	20
-467151	3	0	No Variant	2021-03-13 — 22:51:29 UTC	CaitlinSmith, japura, mberry	53	5	25
+467198	2	0	Pink (5 Suits)	2021-03-13 — 23:18:19 UTC	CaitlinSmith, Onen	91	5	25
+467194	2	0	Pink (5 Suits)	2021-03-13 — 23:12:24 UTC	CaitlinSmith, Onen	100	5	25
+467189	2	20	4 Suits	2021-03-13 — 23:09:19 UTC	CaitlinSmith, Onen	113	4	20
+467151	3	0	No Variant	2021-03-13 — 22:51:29 UTC	CaitlinSmith, japura, mberry	54	5	25
 466717	6	23	Rainbow (5 Suits)	2021-03-13 — 15:03:56 UTC	Aluap, CaitlinSmith, Lanvin, possum, Spieler42, VerySloppyTwo	2	5	25
 466710	4	0	Throw It in a Hole (6 Suits)	2021-03-13 — 14:35:23 UTC	Aluap, CaitlinSmith, Lanvin, possum	5	6	30
 466697	4	0	Throw It in a Hole (6 Suits)	2021-03-13 — 14:09:35 UTC	Aluap, CaitlinSmith, Lanvin, possum	15	6	30
 465987	3	0	Pink (6 Suits)	2021-03-12 — 22:10:55 UTC	ADrone, Arcee, CaitlinSmith	47	6	30
-465951	5	18	Rainbow (4 Suits)	2021-03-12 — 21:42:01 UTC	ADrone, Arcee, CaitlinSmith, Denchulitas, knaphill	16	4	20
-465916	5	0	Rainbow (4 Suits)	2021-03-12 — 21:24:09 UTC	ADrone, Arcee, CaitlinSmith, Denchulitas, knaphill	20	4	20
+465951	5	18	Rainbow (4 Suits)	2021-03-12 — 21:42:01 UTC	ADrone, Arcee, CaitlinSmith, Denchulitas, knaphill	17	4	20
+465916	5	0	Rainbow (4 Suits)	2021-03-12 — 21:24:09 UTC	ADrone, Arcee, CaitlinSmith, Denchulitas, knaphill	21	4	20
 465870	3	25	Throw It in a Hole (5 Suits)	2021-03-12 — 20:55:49 UTC	CaitlinSmith, Lanvin, rahsosprout	12	5	25
-463809	3	23	Throw It in a Hole (5 Suits)	2021-03-10 — 19:50:15 UTC	CaitlinSmith, kevincaseytdk1, rahsosprout	30	5	25
+463809	3	23	Throw It in a Hole (5 Suits)	2021-03-10 — 19:50:15 UTC	CaitlinSmith, kevincaseytdk1, rahsosprout	31	5	25
 463779	4	0	Throw It in a Hole (5 Suits)	2021-03-10 — 19:16:35 UTC	CaitlinSmith, kevincaseytdk1, Spieler42, Wittvector	40	5	25
-463754	4	15	Rainbow (3 Suits)	2021-03-10 — 18:50:32 UTC	bjnh, CaitlinSmith, Spieler42, torp	13	3	15
-463732	4	0	Gray (6 Suits)	2021-03-10 — 18:29:00 UTC	bjnh, CaitlinSmith, Spieler42, voss	13	6	30
+463754	4	15	Rainbow (3 Suits)	2021-03-10 — 18:50:32 UTC	bjnh, CaitlinSmith, Spieler42, torp	14	3	15
+463732	4	0	Gray (6 Suits)	2021-03-10 — 18:29:00 UTC	bjnh, CaitlinSmith, Spieler42, voss	14	6	30
 462717	4	0	Dark Pink (5 Suits)	2021-03-09 — 20:15:14 UTC	CaitlinSmith, ChristopheAF, rahsosprout, Spieler42	9	5	25
 462668	4	23	Dark Pink (5 Suits)	2021-03-09 — 19:54:12 UTC	CaitlinSmith, ChristopheAF, rahsosprout, Spieler42	11	5	25
 462615	4	22	Dark Pink (5 Suits)	2021-03-09 — 19:32:05 UTC	CaitlinSmith, ChristopheAF, rahsosprout, Spieler42	13	5	25
-462593	4	0	Dark Pink (5 Suits)	2021-03-09 — 19:09:55 UTC	CaitlinSmith, ChristopheAF, rahsosprout, Spieler42	15	5	25
+462593	4	0	Dark Pink (5 Suits)	2021-03-09 — 19:09:55 UTC	CaitlinSmith, ChristopheAF, rahsosprout, Spieler42	16	5	25
 462536	3	0	Pink (6 Suits)	2021-03-09 — 18:24:29 UTC	CaitlinSmith, eljavi, knaphill	53	6	30
 462507	5	0	Black (5 Suits)	2021-03-09 — 17:47:19 UTC	CaitlinSmith, eljavi, knaphill, Lanvin, rachyrules	12	5	25
-462503	5	0	Dark Pink (6 Suits)	2021-03-09 — 17:39:26 UTC	CaitlinSmith, eljavi, knaphill, Lanvin, rachyrules	12	6	30
-462291	3	27	Black (6 Suits)	2021-03-09 — 11:43:55 UTC	CaitlinSmith, kopen, Spieler42	399	6	30
+462503	5	0	Dark Pink (6 Suits)	2021-03-09 — 17:39:26 UTC	CaitlinSmith, eljavi, knaphill, Lanvin, rachyrules	14	6	30
+462291	3	27	Black (6 Suits)	2021-03-09 — 11:43:55 UTC	CaitlinSmith, kopen, Spieler42	407	6	30
 461777	4	21	Black (5 Suits)	2021-03-08 — 22:10:28 UTC	Bot-Fiora, CaitlinSmith, DarthGandalf, jeff10	13	5	25
-461739	3	0	No Variant	2021-03-08 — 21:54:01 UTC	CaitlinSmith, DarthGandalf, susu123	50	5	25
-461686	4	17	White (4 Suits)	2021-03-08 — 21:20:31 UTC	CaitlinSmith, Damian000, DarthGandalf, MangoPie	34	4	20
-461642	4	24	No Variant	2021-03-08 — 20:48:57 UTC	CaitlinSmith, Damian000, Dragonican, MangoPie	180	5	25
+461739	3	0	No Variant	2021-03-08 — 21:54:01 UTC	CaitlinSmith, DarthGandalf, susu123	51	5	25
+461686	4	17	White (4 Suits)	2021-03-08 — 21:20:31 UTC	CaitlinSmith, Damian000, DarthGandalf, MangoPie	35	4	20
+461642	4	24	No Variant	2021-03-08 — 20:48:57 UTC	CaitlinSmith, Damian000, Dragonican, MangoPie	182	5	25
 460367	4	25	Black & White (6 Suits)	2021-03-07 — 20:04:40 UTC	CaitlinSmith, Denchulitas, nkkarpov, orucsoraihc	13	6	30
 460328	4	26	Black & White (6 Suits)	2021-03-07 — 19:36:19 UTC	CaitlinSmith, Denchulitas, nkkarpov, orucsoraihc	16	6	30
-459303	3	0	Pink (5 Suits)	2021-03-06 — 22:54:42 UTC	CaitlinSmith, knaphill, Onen	43	5	25
-459260	3	0	Pink (5 Suits)	2021-03-06 — 22:23:01 UTC	CaitlinSmith, knaphill, Onen	49	5	25
+459303	3	0	Pink (5 Suits)	2021-03-06 — 22:54:42 UTC	CaitlinSmith, knaphill, Onen	44	5	25
+459260	3	0	Pink (5 Suits)	2021-03-06 — 22:23:01 UTC	CaitlinSmith, knaphill, Onen	51	5	25
 458859	6	0	Black & Rainbow (6 Suits)	2021-03-06 — 14:56:08 UTC	CaitlinSmith, Denchulitas, Lanvin, MarkusKahlsen, VerySloppyTwo, wolfpack	2	6	30
 458029	3	18	Brown (4 Suits)	2021-03-05 — 22:06:33 UTC	BraydonM, CaitlinSmith, MangoPie	11	4	20
-458007	3	0	Brown (4 Suits)	2021-03-05 — 21:42:32 UTC	BraydonM, CaitlinSmith, MangoPie	19	4	20
+458007	3	0	Brown (4 Suits)	2021-03-05 — 21:42:32 UTC	BraydonM, CaitlinSmith, MangoPie	22	4	20
 457979	3	18	Brown (4 Suits)	2021-03-05 — 21:24:35 UTC	BraydonM, CaitlinSmith, MangoPie	31	4	20
 456823	3	22	Black (5 Suits)	2021-03-04 — 23:06:48 UTC	CaitlinSmith, DarthGandalf, Spieler42	24	5	25
 456792	3	0	Black (5 Suits)	2021-03-04 — 22:47:50 UTC	CaitlinSmith, DarthGandalf, Spieler42	22	5	25
@@ -233,47 +233,47 @@
 455526	3	0	Rainbow & Prism (3 Suits)	2021-03-03 — 19:59:26 UTC	CaitlinSmith, sean1815, Spieler42	1	3	15
 455499	3	13	Rainbow & Prism (3 Suits)	2021-03-03 — 19:36:58 UTC	CaitlinSmith, sean1815, Spieler42	1	3	15
 455465	5	0	4 Suits	2021-03-03 — 19:17:39 UTC	antitelharsic, CaitlinSmith, IsabeltheCat, sean1815, Spieler42	47	4	20
-455432	3	0	Brown (6 Suits)	2021-03-03 — 18:53:22 UTC	CaitlinSmith, IsabeltheCat, rahsosprout	52	6	30
+455432	3	0	Brown (6 Suits)	2021-03-03 — 18:53:22 UTC	CaitlinSmith, IsabeltheCat, rahsosprout	53	6	30
 455384	3	0	Pink (6 Suits)	2021-03-03 — 18:25:14 UTC	CaitlinSmith, eljavi, knaphill	70	6	30
-454548	3	30	Rainbow (6 Suits)	2021-03-02 — 22:03:12 UTC	CaitlinSmith, eljavi, IsabeltheCat	183	6	30
+454548	3	30	Rainbow (6 Suits)	2021-03-02 — 22:03:12 UTC	CaitlinSmith, eljavi, IsabeltheCat	186	6	30
 453385	2	22	No Variant	2021-03-01 — 20:55:48 UTC	CaitlinSmith, HariKrishnan	63	5	25
 453370	2	0	No Variant	2021-03-01 — 20:42:50 UTC	CaitlinSmith, HariKrishnan	63	5	25
 453354	2	23	No Variant	2021-03-01 — 20:31:12 UTC	CaitlinSmith, HariKrishnan	64	5	25
 453334	2	25	No Variant	2021-03-01 — 20:18:48 UTC	CaitlinSmith, HariKrishnan	63	5	25
 453304	3	29	Black (6 Suits)	2021-03-01 — 19:54:25 UTC	CaitlinSmith, eljavi, HariKrishnan	236	6	30
-453271	3	0	Black (6 Suits)	2021-03-01 — 19:20:16 UTC	CaitlinSmith, eljavi, HariKrishnan	261	6	30
-452327	4	23	No Variant	2021-02-28 — 21:52:53 UTC	CaitlinSmith, DarthGandalf, robense, wump	47	5	25
-452083	3	22	Black (5 Suits)	2021-02-28 — 18:51:19 UTC	CaitlinSmith, knaphill, wump	25	5	25
+453271	3	0	Black (6 Suits)	2021-03-01 — 19:20:16 UTC	CaitlinSmith, eljavi, HariKrishnan	263	6	30
+452327	4	23	No Variant	2021-02-28 — 21:52:53 UTC	CaitlinSmith, DarthGandalf, robense, wump	48	5	25
+452083	3	22	Black (5 Suits)	2021-02-28 — 18:51:19 UTC	CaitlinSmith, knaphill, wump	26	5	25
 452057	3	0	Black (5 Suits)	2021-02-28 — 18:23:45 UTC	CaitlinSmith, knaphill, wump	27	5	25
 451911	3	0	Pink-Fives (3 Suits)	2021-02-28 — 13:14:47 UTC	CaitlinSmith, DarthGandalf, MangoPie	5	3	15
 451907	3	0	Pink-Fives (3 Suits)	2021-02-28 — 13:04:39 UTC	CaitlinSmith, DarthGandalf, MangoPie	7	3	15
 451888	2	0	Rainbow & Gray Pink (5 Suits)	2021-02-28 — 12:43:05 UTC	CaitlinSmith, DarthGandalf	7	5	25
 451876	3	22	Black (5 Suits)	2021-02-28 — 12:02:25 UTC	CaitlinSmith, DarthGandalf, Kernel	29	5	25
-451233	4	0	Ambiguous (6 Suits)	2021-02-27 — 22:44:24 UTC	Bot-Fiora, CaitlinSmith, eljavi, Spieler42	20	6	30
+451233	4	0	Ambiguous (6 Suits)	2021-02-27 — 22:44:24 UTC	Bot-Fiora, CaitlinSmith, eljavi, Spieler42	22	6	30
 451211	5	0	Black & White (6 Suits)	2021-02-27 — 22:23:54 UTC	Bot-Fiora, CaitlinSmith, eljavi, ksfortson, Spieler42	13	6	30
 450159	4	0	White-Ones & White (5 Suits)	2021-02-26 — 21:57:25 UTC	CaitlinSmith, Daryl, nkkarpov, torp	3	5	25
 450145	4	24	White-Ones & White (5 Suits)	2021-02-26 — 21:47:01 UTC	CaitlinSmith, Daryl, nkkarpov, torp	6	5	25
-450106	3	22	No Variant	2021-02-26 — 21:20:44 UTC	CaitlinSmith, Daryl, torp	53	5	25
-450082	3	22	No Variant	2021-02-26 — 20:57:13 UTC	CaitlinSmith, Daryl, torp	56	5	25
-450066	3	23	No Variant	2021-02-26 — 20:37:06 UTC	CaitlinSmith, Daryl, torp	57	5	25
-450042	3	24	No Variant	2021-02-26 — 20:14:20 UTC	CaitlinSmith, Daryl, torp	57	5	25
+450106	3	22	No Variant	2021-02-26 — 21:20:44 UTC	CaitlinSmith, Daryl, torp	54	5	25
+450082	3	22	No Variant	2021-02-26 — 20:57:13 UTC	CaitlinSmith, Daryl, torp	57	5	25
+450066	3	23	No Variant	2021-02-26 — 20:37:06 UTC	CaitlinSmith, Daryl, torp	58	5	25
+450042	3	24	No Variant	2021-02-26 — 20:14:20 UTC	CaitlinSmith, Daryl, torp	58	5	25
 449991	3	0	Black (6 Suits)	2021-02-26 — 18:50:18 UTC	4head, BraydonM, CaitlinSmith	48	6	30
-449979	3	0	Black (6 Suits)	2021-02-26 — 18:35:00 UTC	4head, BraydonM, CaitlinSmith	56	6	30
+449979	3	0	Black (6 Suits)	2021-02-26 — 18:35:00 UTC	4head, BraydonM, CaitlinSmith	58	6	30
 449089	2	24	No Variant	2021-02-25 — 21:39:43 UTC	CaitlinSmith, PotatoLatte	62	5	25
-449062	2	0	No Variant	2021-02-25 — 21:25:51 UTC	CaitlinSmith, PotatoLatte	63	5	25
-449023	2	24	No Variant	2021-02-25 — 21:11:48 UTC	CaitlinSmith, PotatoLatte	63	5	25
-448014	2	24	No Variant	2021-02-24 — 21:19:34 UTC	basking, CaitlinSmith	63	5	25
-447999	2	0	No Variant	2021-02-24 — 21:05:13 UTC	basking, CaitlinSmith	64	5	25
-447989	2	0	No Variant	2021-02-24 — 20:54:28 UTC	basking, CaitlinSmith	63	5	25
-447980	2	0	No Variant	2021-02-24 — 20:46:07 UTC	basking, CaitlinSmith	63	5	25
-447962	2	0	No Variant	2021-02-24 — 20:30:53 UTC	basking, CaitlinSmith	63	5	25
+449062	2	0	No Variant	2021-02-25 — 21:25:51 UTC	CaitlinSmith, PotatoLatte	64	5	25
+449023	2	24	No Variant	2021-02-25 — 21:11:48 UTC	CaitlinSmith, PotatoLatte	65	5	25
+448014	2	24	No Variant	2021-02-24 — 21:19:34 UTC	basking, CaitlinSmith	64	5	25
+447999	2	0	No Variant	2021-02-24 — 21:05:13 UTC	basking, CaitlinSmith	65	5	25
+447989	2	0	No Variant	2021-02-24 — 20:54:28 UTC	basking, CaitlinSmith	65	5	25
+447980	2	0	No Variant	2021-02-24 — 20:46:07 UTC	basking, CaitlinSmith	65	5	25
+447962	2	0	No Variant	2021-02-24 — 20:30:53 UTC	basking, CaitlinSmith	65	5	25
 447942	5	0	No Variant	2021-02-24 — 20:10:39 UTC	basking, CaitlinSmith, eljavi, MathNoob, wolfpack	44	5	25
 447929	5	0	No Variant	2021-02-24 — 19:56:23 UTC	basking, CaitlinSmith, eljavi, MathNoob, wolfpack	60	5	25
-447916	5	0	No Variant	2021-02-24 — 19:46:48 UTC	basking, CaitlinSmith, eljavi, MathNoob, wolfpack	67	5	25
-447892	5	0	No Variant	2021-02-24 — 19:20:05 UTC	basking, CaitlinSmith, eljavi, MathNoob, wolfpack	126	5	25
-447862	3	24	No Variant	2021-02-24 — 18:46:14 UTC	CaitlinSmith, eljavi, wolfpack	58	5	25
+447916	5	0	No Variant	2021-02-24 — 19:46:48 UTC	basking, CaitlinSmith, eljavi, MathNoob, wolfpack	68	5	25
+447892	5	0	No Variant	2021-02-24 — 19:20:05 UTC	basking, CaitlinSmith, eljavi, MathNoob, wolfpack	127	5	25
+447862	3	24	No Variant	2021-02-24 — 18:46:14 UTC	CaitlinSmith, eljavi, wolfpack	59	5	25
 446753	4	22	Black & Rainbow (5 Suits)	2021-02-23 — 18:42:41 UTC	CaitlinSmith, griff77, jeff10, swineherd	12	5	25
-446734	4	0	Muddy Rainbow (6 Suits)	2021-02-23 — 18:21:16 UTC	4head, CaitlinSmith, dobi, Lanvin	9	6	30
+446734	4	0	Muddy Rainbow (6 Suits)	2021-02-23 — 18:21:16 UTC	4head, CaitlinSmith, dobi, Lanvin	10	6	30
 446725	4	0	Muddy Rainbow (6 Suits)	2021-02-23 — 18:13:03 UTC	4head, CaitlinSmith, dobi, Lanvin	12	6	30
 446717	4	0	Muddy Rainbow (6 Suits)	2021-02-23 — 17:54:44 UTC	4head, CaitlinSmith, dobi, Lanvin	19	6	30
 445917	4	24	Black (5 Suits)	2021-02-22 — 22:05:56 UTC	CaitlinSmith, Damian000, DarthGandalf, eljavi	11	5	25
@@ -281,24 +281,24 @@
 445887	4	0	Black (5 Suits)	2021-02-22 — 21:37:23 UTC	CaitlinSmith, Damian000, DarthGandalf, eljavi	14	5	25
 445855	4	0	Black (5 Suits)	2021-02-22 — 21:15:19 UTC	CaitlinSmith, Damian000, DarthGandalf, eljavi	14	5	25
 445825	4	22	Black (5 Suits)	2021-02-22 — 20:53:44 UTC	CaitlinSmith, Damian000, DarthGandalf, eljavi	16	5	25
-445775	3	24	No Variant	2021-02-22 — 20:20:33 UTC	CaitlinSmith, DarthGandalf, PotatoLatte	57	5	25
-445703	3	29	Black (6 Suits)	2021-02-22 — 18:52:49 UTC	4head, CaitlinSmith, Damian000	149	6	30
-445689	5	25	No Variant	2021-02-22 — 18:28:30 UTC	4head, bjnh, CaitlinSmith, Damian000, Onen	344	5	25
+445775	3	24	No Variant	2021-02-22 — 20:20:33 UTC	CaitlinSmith, DarthGandalf, PotatoLatte	58	5	25
+445703	3	29	Black (6 Suits)	2021-02-22 — 18:52:49 UTC	4head, CaitlinSmith, Damian000	151	6	30
+445689	5	25	No Variant	2021-02-22 — 18:28:30 UTC	4head, bjnh, CaitlinSmith, Damian000, Onen	348	5	25
 444634	3	23	Black (5 Suits)	2021-02-21 — 20:43:14 UTC	CaitlinSmith, Doge, possum	31	5	25
 444540	6	0	Brown (6 Suits)	2021-02-21 — 18:55:43 UTC	CaitlinSmith, hakha3, indego, Lanvin, newduke, VerySloppyTwo	7	6	30
 444265	4	15	3 Suits	2021-02-21 — 10:57:37 UTC	bingchin, CaitlinSmith, eliclax, rinka	24	3	15
 444255	4	0	3 Suits	2021-02-21 — 10:30:03 UTC	bingchin, CaitlinSmith, eliclax, rinka	26	3	15
 444246	4	0	3 Suits	2021-02-21 — 10:12:27 UTC	bingchin, CaitlinSmith, eliclax, rinka	31	3	15
 444241	4	0	3 Suits	2021-02-21 — 10:06:21 UTC	bingchin, CaitlinSmith, eliclax, rinka	37	3	15
-443598	3	24	No Variant	2021-02-20 — 23:37:58 UTC	bingchin, CaitlinSmith, poofart123	57	5	25
+443598	3	24	No Variant	2021-02-20 — 23:37:58 UTC	bingchin, CaitlinSmith, poofart123	58	5	25
 443130	4	19	Rainbow (4 Suits)	2021-02-20 — 13:04:10 UTC	CaitlinSmith, ontak, possum, rz	17	4	20
 443114	4	0	Rainbow (4 Suits)	2021-02-20 — 12:39:01 UTC	CaitlinSmith, ontak, possum, rz	17	4	20
 442305	5	23	White-Ones & Prism (5 Suits)	2021-02-19 — 21:51:47 UTC	bjnh, CaitlinSmith, Feich59, HariKrishnan, Lanvin	1	5	25
 442271	5	0	White-Ones & Prism (5 Suits)	2021-02-19 — 21:23:14 UTC	bjnh, CaitlinSmith, Feich59, HariKrishnan, Lanvin	2	5	25
 442248	5	0	White-Ones & Prism (5 Suits)	2021-02-19 — 21:05:45 UTC	bjnh, CaitlinSmith, Feich59, HariKrishnan, Lanvin	3	5	25
-442151	3	23	Up or Down & Prism (5 Suits)	2021-02-19 — 19:42:34 UTC	4head, CaitlinSmith, ricardodd	6	5	25
+442151	3	23	Up or Down & Prism (5 Suits)	2021-02-19 — 19:42:34 UTC	4head, CaitlinSmith, ricardodd	9	5	25
 441037	4	30	White (6 Suits)	2021-02-18 — 19:34:17 UTC	CaitlinSmith, Damian000, Denchulitas, knaphill	11	6	30
-441017	3	0	Prism (5 Suits)	2021-02-18 — 19:06:46 UTC	CaitlinSmith, Damian000, Denchulitas	6	5	25
+441017	3	0	Prism (5 Suits)	2021-02-18 — 19:06:46 UTC	CaitlinSmith, Damian000, Denchulitas	7	5	25
 440993	3	25	Prism (5 Suits)	2021-02-18 — 18:43:41 UTC	CaitlinSmith, Damian000, Denchulitas	9	5	25
 440970	3	24	Prism (5 Suits)	2021-02-18 — 18:22:07 UTC	CaitlinSmith, Damian000, Denchulitas	10	5	25
 440947	4	25	Black & White (5 Suits)	2021-02-18 — 17:49:26 UTC	CaitlinSmith, Damian000, Denchulitas, rachyrules	23	5	25
@@ -309,48 +309,48 @@
 439285	5	21	Pink-Ones (5 Suits)	2021-02-16 — 19:52:25 UTC	bjnh, CaitlinSmith, Lanvin, squirrel1988, Wittvector	5	5	25
 439258	6	0	Pink-Ones (5 Suits)	2021-02-16 — 19:21:05 UTC	bjnh, CaitlinSmith, dobi, Lanvin, squirrel1988, Wittvector	2	5	25
 438439	4	0	Dark Rainbow (5 Suits)	2021-02-15 — 21:30:56 UTC	CaitlinSmith, eljavi, otterful, Stormylu	17	5	25
-438408	4	0	Dark Rainbow (5 Suits)	2021-02-15 — 21:09:13 UTC	CaitlinSmith, eljavi, otterful, Stormylu	20	5	25
-438387	3	25	No Variant	2021-02-15 — 20:52:34 UTC	CaitlinSmith, eljavi, Stormylu	59	5	25
+438408	4	0	Dark Rainbow (5 Suits)	2021-02-15 — 21:09:13 UTC	CaitlinSmith, eljavi, otterful, Stormylu	21	5	25
+438387	3	25	No Variant	2021-02-15 — 20:52:34 UTC	CaitlinSmith, eljavi, Stormylu	60	5	25
 437367	6	30	White & Prism (6 Suits)	2021-02-14 — 21:47:12 UTC	4head, CaitlinSmith, ChristopheAF, griff77, knaphill, Lanvin	2	6	30
 437336	5	0	Rainbow & White (5 Suits)	2021-02-14 — 21:16:18 UTC	4head, CaitlinSmith, ChristopheAF, knaphill, Lanvin	2	5	25
 437320	5	24	Rainbow & White (5 Suits)	2021-02-14 — 21:04:40 UTC	4head, CaitlinSmith, ChristopheAF, knaphill, Lanvin	4	5	25
 437125	4	0	Pink (4 Suits)	2021-02-14 — 18:41:55 UTC	CaitlinSmith, ontak, Spieler42, torp	19	4	20
-437101	4	0	Pink (4 Suits)	2021-02-14 — 18:18:53 UTC	CaitlinSmith, ontak, Spieler42, torp	22	4	20
-436695	5	0	No Variant	2021-02-14 — 08:10:20 UTC	4head, CaitlinSmith, rahsosprout, Spieler42, Wittvector	45	5	25
-436680	3	22	No Variant	2021-02-14 — 07:38:53 UTC	CaitlinSmith, dobi, rahsosprout	60	5	25
-436102	2	25	No Variant	2021-02-13 — 22:48:12 UTC	CaitlinSmith, Doge	63	5	25
-436077	2	24	No Variant	2021-02-13 — 22:25:04 UTC	CaitlinSmith, Doge	64	5	25
-436058	2	0	No Variant	2021-02-13 — 22:08:33 UTC	CaitlinSmith, Doge	64	5	25
+437101	4	0	Pink (4 Suits)	2021-02-14 — 18:18:53 UTC	CaitlinSmith, ontak, Spieler42, torp	23	4	20
+436695	5	0	No Variant	2021-02-14 — 08:10:20 UTC	4head, CaitlinSmith, rahsosprout, Spieler42, Wittvector	46	5	25
+436680	3	22	No Variant	2021-02-14 — 07:38:53 UTC	CaitlinSmith, dobi, rahsosprout	61	5	25
+436102	2	25	No Variant	2021-02-13 — 22:48:12 UTC	CaitlinSmith, Doge	65	5	25
+436077	2	24	No Variant	2021-02-13 — 22:25:04 UTC	CaitlinSmith, Doge	65	5	25
+436058	2	0	No Variant	2021-02-13 — 22:08:33 UTC	CaitlinSmith, Doge	65	5	25
 435833	4	0	Rainbow (4 Suits)	2021-02-13 — 18:30:37 UTC	banjoleb, CaitlinSmith, ontak, possum	19	4	20
-435822	4	0	Rainbow (4 Suits)	2021-02-13 — 18:16:46 UTC	banjoleb, CaitlinSmith, ontak, possum	20	4	20
-435727	4	0	Dark Pink (5 Suits)	2021-02-13 — 15:06:03 UTC	ADrone, CaitlinSmith, indego, Kernel	20	5	25
+435822	4	0	Rainbow (4 Suits)	2021-02-13 — 18:16:46 UTC	banjoleb, CaitlinSmith, ontak, possum	21	4	20
+435727	4	0	Dark Pink (5 Suits)	2021-02-13 — 15:06:03 UTC	ADrone, CaitlinSmith, indego, Kernel	21	5	25
 435645	3	25	Black & Pink (5 Suits)	2021-02-13 — 10:58:35 UTC	4head, CaitlinSmith, louietyj	22	5	25
 435617	3	24	Black & Pink (5 Suits)	2021-02-13 — 10:15:21 UTC	4head, CaitlinSmith, louietyj	29	5	25
 434882	5	24	No Variant	2021-02-12 — 23:46:41 UTC	4head, CaitlinSmith, griff77, MathNoob, Zamiel	1	5	25
-434858	3	25	No Variant	2021-02-12 — 23:11:23 UTC	4head, CaitlinSmith, wolfpack	63	5	25
+434858	3	25	No Variant	2021-02-12 — 23:11:23 UTC	4head, CaitlinSmith, wolfpack	64	5	25
 434844	6	0	Rainbow-Ones (4 Suits)	2021-02-12 — 22:52:43 UTC	4head, CaitlinSmith, Denchulitas, griff77, Onen, Zamiel	1	4	20
 434841	4	0	Rainbow-Ones (4 Suits)	2021-02-12 — 22:50:11 UTC	4head, CaitlinSmith, caña, griff77	3	4	20
 434838	4	0	Rainbow-Ones (4 Suits)	2021-02-12 — 22:46:14 UTC	4head, CaitlinSmith, caña, griff77	5	4	20
 434828	4	18	Rainbow & White (4 Suits)	2021-02-12 — 22:33:09 UTC	4head, CaitlinSmith, griff77, robense	3	4	20
 434814	2	25	No Variant	2021-02-12 — 22:17:23 UTC	CaitlinSmith, robense	62	5	25
 434799	3	0	Prism (6 Suits)	2021-02-12 — 22:01:30 UTC	CaitlinSmith, caña, Denchulitas	36	6	30
-434777	3	0	Prism (6 Suits)	2021-02-12 — 21:43:55 UTC	CaitlinSmith, caña, Denchulitas	45	6	30
-434762	3	25	No Variant	2021-02-12 — 21:31:47 UTC	CaitlinSmith, HariKrishnan, ontak	61	5	25
-434733	3	0	No Variant	2021-02-12 — 21:11:23 UTC	CaitlinSmith, HariKrishnan, ontak	65	5	25
-434726	3	0	No Variant	2021-02-12 — 21:05:36 UTC	CaitlinSmith, HariKrishnan, ontak	62	5	25
-434701	3	0	No Variant	2021-02-12 — 20:46:16 UTC	CaitlinSmith, HariKrishnan, ontak	66	5	25
-434670	3	25	No Variant	2021-02-12 — 20:19:40 UTC	CaitlinSmith, HariKrishnan, ontak	63	5	25
-434649	3	0	No Variant	2021-02-12 — 19:58:53 UTC	CaitlinSmith, HariKrishnan, ontak	69	5	25
+434777	3	0	Prism (6 Suits)	2021-02-12 — 21:43:55 UTC	CaitlinSmith, caña, Denchulitas	46	6	30
+434762	3	25	No Variant	2021-02-12 — 21:31:47 UTC	CaitlinSmith, HariKrishnan, ontak	62	5	25
+434733	3	0	No Variant	2021-02-12 — 21:11:23 UTC	CaitlinSmith, HariKrishnan, ontak	67	5	25
+434726	3	0	No Variant	2021-02-12 — 21:05:36 UTC	CaitlinSmith, HariKrishnan, ontak	65	5	25
+434701	3	0	No Variant	2021-02-12 — 20:46:16 UTC	CaitlinSmith, HariKrishnan, ontak	69	5	25
+434670	3	25	No Variant	2021-02-12 — 20:19:40 UTC	CaitlinSmith, HariKrishnan, ontak	66	5	25
+434649	3	0	No Variant	2021-02-12 — 19:58:53 UTC	CaitlinSmith, HariKrishnan, ontak	73	5	25
 434618	5	0	Null-Fives & White (5 Suits)	2021-02-12 — 19:35:09 UTC	4head, CaitlinSmith, duckless, MangoPie, newduke	1	5	25
 434591	4	0	Null-Fives & White (5 Suits)	2021-02-12 — 19:03:59 UTC	CaitlinSmith, duckless, MangoPie, newduke	1	5	25
-434565	3	25	No Variant	2021-02-12 — 18:39:59 UTC	CaitlinSmith, kevincaseytdk1, narabio	68	5	25
+434565	3	25	No Variant	2021-02-12 — 18:39:59 UTC	CaitlinSmith, kevincaseytdk1, narabio	72	5	25
 434530	3	0	Cow & Pig (4 Suits)	2021-02-12 — 17:44:50 UTC	CaitlinSmith, caña, rahsosprout	3	4	20
 434522	3	19	Cow & Pig (4 Suits)	2021-02-12 — 17:30:17 UTC	CaitlinSmith, caña, rahsosprout	4	4	20
 434515	3	0	Cow & Pig (4 Suits)	2021-02-12 — 17:17:03 UTC	CaitlinSmith, caña, rahsosprout	7	4	20
 434511	3	0	Cow & Pig (4 Suits)	2021-02-12 — 17:12:12 UTC	CaitlinSmith, caña, rahsosprout	9	4	20
 434509	3	0	Cow & Pig (4 Suits)	2021-02-12 — 17:07:55 UTC	CaitlinSmith, caña, rahsosprout	15	4	20
 434305	4	0	Light Pink (5 Suits)	2021-02-12 — 09:01:41 UTC	CaitlinSmith, eliclax, indego, Pablo-	10	5	25
-433635	4	27	Rainbow (6 Suits)	2021-02-11 — 22:01:03 UTC	CaitlinSmith, socerman, tacobot5000, torp	493	6	30
+433635	4	27	Rainbow (6 Suits)	2021-02-11 — 22:01:03 UTC	CaitlinSmith, socerman, tacobot5000, torp	497	6	30
 433565	2	0	Rainbow (6 Suits)	2021-02-11 — 21:11:27 UTC	CaitlinSmith, robense	46	6	30
 433555	2	0	Rainbow (6 Suits)	2021-02-11 — 21:06:33 UTC	CaitlinSmith, robense	47	6	30
 433546	2	0	Rainbow (6 Suits)	2021-02-11 — 20:59:23 UTC	CaitlinSmith, robense	48	6	30
@@ -359,17 +359,17 @@
 433469	5	23	Rainbow & White (5 Suits)	2021-02-11 — 19:35:06 UTC	4head, CaitlinSmith, eljavi, MangoPie, Pimak	5	5	25
 433457	5	0	Rainbow & White (5 Suits)	2021-02-11 — 19:12:56 UTC	4head, CaitlinSmith, eljavi, MangoPie, Pimak	4	5	25
 433445	5	0	Rainbow & White (5 Suits)	2021-02-11 — 19:03:26 UTC	4head, CaitlinSmith, eljavi, MangoPie, Pimak	3	5	25
-433435	5	0	Rainbow & White (5 Suits)	2021-02-11 — 18:43:35 UTC	4head, CaitlinSmith, eljavi, MangoPie, Pimak	10	5	25
+433435	5	0	Rainbow & White (5 Suits)	2021-02-11 — 18:43:35 UTC	4head, CaitlinSmith, eljavi, MangoPie, Pimak	11	5	25
 433415	3	0	Rainbow & White (5 Suits)	2021-02-11 — 18:21:21 UTC	CaitlinSmith, eljavi, Pimak	37	5	25
-433396	3	20	Prism (4 Suits)	2021-02-11 — 17:52:03 UTC	CaitlinSmith, eljavi, torp	45	4	20
+433396	3	20	Prism (4 Suits)	2021-02-11 — 17:52:03 UTC	CaitlinSmith, eljavi, torp	47	4	20
 433385	4	0	Prism (6 Suits)	2021-02-11 — 17:35:50 UTC	4head, CaitlinSmith, eljavi, torp	2	6	30
 432785	4	23	Black (5 Suits)	2021-02-10 — 23:30:29 UTC	CaitlinSmith, Lanvin, macanek, voss	15	5	25
 432770	4	0	Black (5 Suits)	2021-02-10 — 23:09:26 UTC	CaitlinSmith, Lanvin, macanek, voss	19	5	25
-432210	3	0	Gray Pink (6 Suits)	2021-02-10 — 13:33:18 UTC	CaitlinSmith, StKildaFan, Wittvector	25	6	30
-432196	3	0	Gray Pink (6 Suits)	2021-02-10 — 13:17:29 UTC	CaitlinSmith, StKildaFan, Wittvector	29	6	30
-432053	3	13	3 Suits	2021-02-10 — 09:37:40 UTC	CaitlinSmith, DarthGandalf, macanek	88	3	15
+432210	3	0	Gray Pink (6 Suits)	2021-02-10 — 13:33:18 UTC	CaitlinSmith, StKildaFan, Wittvector	26	6	30
+432196	3	0	Gray Pink (6 Suits)	2021-02-10 — 13:17:29 UTC	CaitlinSmith, StKildaFan, Wittvector	30	6	30
+432053	3	13	3 Suits	2021-02-10 — 09:37:40 UTC	CaitlinSmith, DarthGandalf, macanek	90	3	15
 431407	5	0	Up or Down (5 Suits)	2021-02-09 — 21:17:55 UTC	4head, CaitlinSmith, jack67889, Kernel, Pimak	23	5	25
-431382	4	0	Up or Down (6 Suits)	2021-02-09 — 20:58:31 UTC	4head, CaitlinSmith, jack67889, Pimak	12	6	30
+431382	4	0	Up or Down (6 Suits)	2021-02-09 — 20:58:31 UTC	4head, CaitlinSmith, jack67889, Pimak	13	6	30
 431356	4	27	Up or Down (6 Suits)	2021-02-09 — 20:32:46 UTC	4head, CaitlinSmith, jack67889, Pimak	15	6	30
 431323	6	0	Rainbow (5 Suits)	2021-02-09 — 19:55:10 UTC	4head, CaitlinSmith, caña, InflatableKayak, Lanvin, newduke	2	5	25
 431296	6	22	Rainbow (5 Suits)	2021-02-09 — 19:30:21 UTC	4head, CaitlinSmith, griff77, jian01, ksfortson, LautiManzano	14	5	25
@@ -387,158 +387,158 @@
 430232	6	0	Prism (5 Suits)	2021-02-08 — 20:20:05 UTC	CaitlinSmith, Denchulitas, eljavi, griff77, HariKrishnan, wump	3	5	25
 430204	5	0	6 Suits	2021-02-08 — 19:59:01 UTC	CaitlinSmith, caña, eljavi, griff77, HariKrishnan	20	6	30
 430186	5	28	6 Suits	2021-02-08 — 19:40:28 UTC	CaitlinSmith, caña, eljavi, griff77, HariKrishnan	23	6	30
-429894	4	25	No Variant	2021-02-08 — 14:01:21 UTC	CaitlinSmith, MangoPie, MathNoob, PMP	198	5	25
+429894	4	25	No Variant	2021-02-08 — 14:01:21 UTC	CaitlinSmith, MangoPie, MathNoob, PMP	199	5	25
 429825	5	24	White & Prism (5 Suits)	2021-02-08 — 11:52:09 UTC	CaitlinSmith, catula, eliclax, gchang02, Lanvin	4	5	25
-429821	3	0	No Variant	2021-02-08 — 11:11:17 UTC	CaitlinSmith, knaphill, macanek	55	5	25
+429821	3	0	No Variant	2021-02-08 — 11:11:17 UTC	CaitlinSmith, knaphill, macanek	57	5	25
 429372	3	0	Rainbow (4 Suits)	2021-02-07 — 22:15:56 UTC	4head, CaitlinSmith, rahsosprout	22	4	20
-429360	3	0	Rainbow (4 Suits)	2021-02-07 — 22:03:44 UTC	4head, CaitlinSmith, rahsosprout	43	4	20
-429322	3	0	Rainbow (4 Suits)	2021-02-07 — 21:40:03 UTC	4head, CaitlinSmith, rahsosprout	46	4	20
+429360	3	0	Rainbow (4 Suits)	2021-02-07 — 22:03:44 UTC	4head, CaitlinSmith, rahsosprout	45	4	20
+429322	3	0	Rainbow (4 Suits)	2021-02-07 — 21:40:03 UTC	4head, CaitlinSmith, rahsosprout	48	4	20
 429312	4	0	Rainbow (5 Suits)	2021-02-07 — 21:22:33 UTC	CaitlinSmith, Doge, eljavi, Kernel	13	5	25
 429304	4	0	Rainbow (5 Suits)	2021-02-07 — 21:12:46 UTC	CaitlinSmith, Doge, eljavi, Kernel	12	5	25
 429291	4	0	Rainbow (5 Suits)	2021-02-07 — 21:01:12 UTC	CaitlinSmith, Doge, eljavi, Kernel	16	5	25
-429275	4	0	Rainbow (5 Suits)	2021-02-07 — 20:44:17 UTC	CaitlinSmith, Doge, eljavi, Kernel	17	5	25
-429247	3	21	Black (5 Suits)	2021-02-07 — 20:18:16 UTC	CaitlinSmith, Denchulitas, HariKrishnan	36	5	25
-429221	3	0	Black (5 Suits)	2021-02-07 — 19:55:19 UTC	CaitlinSmith, Denchulitas, HariKrishnan	35	5	25
-429199	4	0	Prism (6 Suits)	2021-02-07 — 19:38:52 UTC	4head, CaitlinSmith, Denchulitas, voss	7	6	30
+429275	4	0	Rainbow (5 Suits)	2021-02-07 — 20:44:17 UTC	CaitlinSmith, Doge, eljavi, Kernel	18	5	25
+429247	3	21	Black (5 Suits)	2021-02-07 — 20:18:16 UTC	CaitlinSmith, Denchulitas, HariKrishnan	37	5	25
+429221	3	0	Black (5 Suits)	2021-02-07 — 19:55:19 UTC	CaitlinSmith, Denchulitas, HariKrishnan	36	5	25
+429199	4	0	Prism (6 Suits)	2021-02-07 — 19:38:52 UTC	4head, CaitlinSmith, Denchulitas, voss	8	6	30
 429185	4	0	Prism (6 Suits)	2021-02-07 — 19:30:22 UTC	4head, CaitlinSmith, Denchulitas, voss	35	6	30
 429167	4	0	Omni (6 Suits)	2021-02-07 — 19:16:53 UTC	4head, CaitlinSmith, Denchulitas, newduke	19	6	30
 429145	4	0	White (6 Suits)	2021-02-07 — 19:01:15 UTC	CaitlinSmith, Denchulitas, nkkarpov, voss	29	6	30
-429088	3	25	No Variant	2021-02-07 — 18:11:41 UTC	CaitlinSmith, Doge, eljavi	71	5	25
+429088	3	25	No Variant	2021-02-07 — 18:11:41 UTC	CaitlinSmith, Doge, eljavi	74	5	25
 429065	4	0	No Variant	2021-02-07 — 17:35:34 UTC	CaitlinSmith, Doge, eljavi, robense	61	5	25
 428880	4	25	Black & Pink (5 Suits)	2021-02-07 — 11:18:24 UTC	asaelr, CaitlinSmith, Lel0uch, Spieler42	4	5	25
 428865	4	0	Black & Pink (5 Suits)	2021-02-07 — 11:01:31 UTC	asaelr, CaitlinSmith, Lel0uch, Spieler42	6	5	25
 428809	4	0	Prism (6 Suits)	2021-02-07 — 08:54:32 UTC	CaitlinSmith, dobi, indego, Lel0uch	15	6	30
 428797	4	0	Prism (6 Suits)	2021-02-07 — 08:35:20 UTC	CaitlinSmith, dobi, indego, Lel0uch	15	6	30
-428174	3	0	Pink & Prism (6 Suits)	2021-02-06 — 22:55:53 UTC	4head, CaitlinSmith, indego	11	6	30
+428174	3	0	Pink & Prism (6 Suits)	2021-02-06 — 22:55:53 UTC	4head, CaitlinSmith, indego	12	6	30
 428114	5	0	Pink & Prism (6 Suits)	2021-02-06 — 22:29:32 UTC	4head, CaitlinSmith, indego, TheDaniMan, TimeHoodie	2	6	30
-427791	4	0	Black (6 Suits)	2021-02-06 — 17:52:30 UTC	CaitlinSmith, Denchulitas, Lanvin, nwajfromoz	175	6	30
-427762	4	26	Black & Rainbow (6 Suits)	2021-02-06 — 17:15:14 UTC	CaitlinSmith, Lanvin, nwajfromoz, VerySloppyTwo	14	6	30
-427733	4	0	Black & Rainbow (6 Suits)	2021-02-06 — 16:50:25 UTC	CaitlinSmith, Lanvin, nwajfromoz, VerySloppyTwo	16	6	30
-427685	4	0	Prism (5 Suits)	2021-02-06 — 15:53:47 UTC	CaitlinSmith, Daryl, MathNoob, Spieler42	23	5	25
-427670	4	25	Prism (5 Suits)	2021-02-06 — 15:26:27 UTC	CaitlinSmith, Daryl, MathNoob, Spieler42	29	5	25
+427791	4	0	Black (6 Suits)	2021-02-06 — 17:52:30 UTC	CaitlinSmith, Denchulitas, Lanvin, nwajfromoz	176	6	30
+427762	4	26	Black & Rainbow (6 Suits)	2021-02-06 — 17:15:14 UTC	CaitlinSmith, Lanvin, nwajfromoz, VerySloppyTwo	16	6	30
+427733	4	0	Black & Rainbow (6 Suits)	2021-02-06 — 16:50:25 UTC	CaitlinSmith, Lanvin, nwajfromoz, VerySloppyTwo	18	6	30
+427685	4	0	Prism (5 Suits)	2021-02-06 — 15:53:47 UTC	CaitlinSmith, Daryl, MathNoob, Spieler42	25	5	25
+427670	4	25	Prism (5 Suits)	2021-02-06 — 15:26:27 UTC	CaitlinSmith, Daryl, MathNoob, Spieler42	31	5	25
 427648	2	20	No Variant	2021-02-06 — 14:42:47 UTC	CaitlinSmith, MathNoob	65	5	25
 427610	4	0	Rainbow & Dark Prism (5 Suits)	2021-02-06 — 12:55:13 UTC	CaitlinSmith, Div, Lel0uch, Wittvector	4	5	25
 427605	4	0	Rainbow & Dark Prism (5 Suits)	2021-02-06 — 12:43:51 UTC	CaitlinSmith, Div, Lel0uch, Wittvector	5	5	25
-427595	4	25	Pink (5 Suits)	2021-02-06 — 12:19:01 UTC	CaitlinSmith, Div, Lanvin, qqqq	34	5	25
-427533	3	0	No Variant	2021-02-06 — 08:02:28 UTC	CaitlinSmith, caña, hailey	71	5	25
-427527	3	0	No Variant	2021-02-06 — 07:38:02 UTC	CaitlinSmith, caña, hailey	69	5	25
-427522	3	0	No Variant	2021-02-06 — 07:27:53 UTC	CaitlinSmith, caña, hailey	74	5	25
-426911	4	19	Black (5 Suits)	2021-02-05 — 22:46:43 UTC	CaitlinSmith, DarthGandalf, Onen, Spieler42	21	5	25
+427595	4	25	Pink (5 Suits)	2021-02-06 — 12:19:01 UTC	CaitlinSmith, Div, Lanvin, qqqq	35	5	25
+427533	3	0	No Variant	2021-02-06 — 08:02:28 UTC	CaitlinSmith, caña, hailey	73	5	25
+427527	3	0	No Variant	2021-02-06 — 07:38:02 UTC	CaitlinSmith, caña, hailey	72	5	25
+427522	3	0	No Variant	2021-02-06 — 07:27:53 UTC	CaitlinSmith, caña, hailey	75	5	25
+426911	4	19	Black (5 Suits)	2021-02-05 — 22:46:43 UTC	CaitlinSmith, DarthGandalf, Onen, Spieler42	22	5	25
 426885	4	22	Black (5 Suits)	2021-02-05 — 22:23:12 UTC	CaitlinSmith, DarthGandalf, Onen, Spieler42	32	5	25
-426854	3	25	No Variant	2021-02-05 — 22:01:27 UTC	CaitlinSmith, DarthGandalf, Onen	78	5	25
-426821	3	24	No Variant	2021-02-05 — 21:40:29 UTC	CaitlinSmith, DarthGandalf, Onen	77	5	25
-426738	3	0	White (4 Suits)	2021-02-05 — 20:29:21 UTC	CaitlinSmith, HariKrishnan, Kernel	46	4	20
-426690	3	18	White (4 Suits)	2021-02-05 — 20:03:04 UTC	CaitlinSmith, HariKrishnan, Kernel	59	4	20
-426646	4	19	Rainbow (4 Suits)	2021-02-05 — 19:19:41 UTC	CaitlinSmith, HariKrishnan, Kernel, rahsosprout	25	4	20
-426619	4	0	Rainbow (4 Suits)	2021-02-05 — 18:50:22 UTC	CaitlinSmith, HariKrishnan, Kernel, rahsosprout	32	4	20
-425785	3	0	Rainbow (5 Suits)	2021-02-04 — 22:15:28 UTC	CaitlinSmith, Damian000, griff77	84	5	25
-425742	3	0	Rainbow (5 Suits)	2021-02-04 — 21:26:01 UTC	CaitlinSmith, Damian000, griff77	116	5	25
+426854	3	25	No Variant	2021-02-05 — 22:01:27 UTC	CaitlinSmith, DarthGandalf, Onen	79	5	25
+426821	3	24	No Variant	2021-02-05 — 21:40:29 UTC	CaitlinSmith, DarthGandalf, Onen	78	5	25
+426738	3	0	White (4 Suits)	2021-02-05 — 20:29:21 UTC	CaitlinSmith, HariKrishnan, Kernel	47	4	20
+426690	3	18	White (4 Suits)	2021-02-05 — 20:03:04 UTC	CaitlinSmith, HariKrishnan, Kernel	62	4	20
+426646	4	19	Rainbow (4 Suits)	2021-02-05 — 19:19:41 UTC	CaitlinSmith, HariKrishnan, Kernel, rahsosprout	26	4	20
+426619	4	0	Rainbow (4 Suits)	2021-02-05 — 18:50:22 UTC	CaitlinSmith, HariKrishnan, Kernel, rahsosprout	33	4	20
+425785	3	0	Rainbow (5 Suits)	2021-02-04 — 22:15:28 UTC	CaitlinSmith, Damian000, griff77	87	5	25
+425742	3	0	Rainbow (5 Suits)	2021-02-04 — 21:26:01 UTC	CaitlinSmith, Damian000, griff77	119	5	25
 425655	3	0	White (6 Suits)	2021-02-04 — 20:25:15 UTC	ADrone, CaitlinSmith, Denchulitas	33	6	30
-425602	3	25	No Variant	2021-02-04 — 19:49:26 UTC	CaitlinSmith, colton, ricardodd	77	5	25
-425536	5	0	6 Suits	2021-02-04 — 19:07:24 UTC	CaitlinSmith, Denchulitas, knaphill, MangoPie, ricardodd	31	6	30
+425602	3	25	No Variant	2021-02-04 — 19:49:26 UTC	CaitlinSmith, colton, ricardodd	79	5	25
+425536	5	0	6 Suits	2021-02-04 — 19:07:24 UTC	CaitlinSmith, Denchulitas, knaphill, MangoPie, ricardodd	32	6	30
 425498	5	0	6 Suits	2021-02-04 — 18:45:29 UTC	CaitlinSmith, Denchulitas, knaphill, MangoPie, ricardodd	35	6	30
-424636	3	0	Black (6 Suits)	2021-02-03 — 22:36:57 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	60	6	30
-424619	3	0	Black (6 Suits)	2021-02-03 — 22:15:54 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	62	6	30
-424610	3	0	Black (6 Suits)	2021-02-03 — 22:06:43 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	66	6	30
-424599	3	0	Black (6 Suits)	2021-02-03 — 21:55:23 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	69	6	30
-424588	3	0	Black (6 Suits)	2021-02-03 — 21:49:56 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	71	6	30
-424560	3	29	Black (6 Suits)	2021-02-03 — 21:29:22 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	74	6	30
-424528	3	0	Black (6 Suits)	2021-02-03 — 20:54:43 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	80	6	30
-424512	3	0	Black (6 Suits)	2021-02-03 — 20:46:09 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	83	6	30
-424467	3	0	Black (6 Suits)	2021-02-03 — 20:26:50 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	95	6	30
+424636	3	0	Black (6 Suits)	2021-02-03 — 22:36:57 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	63	6	30
+424619	3	0	Black (6 Suits)	2021-02-03 — 22:15:54 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	64	6	30
+424610	3	0	Black (6 Suits)	2021-02-03 — 22:06:43 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	68	6	30
+424599	3	0	Black (6 Suits)	2021-02-03 — 21:55:23 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	70	6	30
+424588	3	0	Black (6 Suits)	2021-02-03 — 21:49:56 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	72	6	30
+424560	3	29	Black (6 Suits)	2021-02-03 — 21:29:22 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	75	6	30
+424528	3	0	Black (6 Suits)	2021-02-03 — 20:54:43 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	82	6	30
+424512	3	0	Black (6 Suits)	2021-02-03 — 20:46:09 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	85	6	30
+424467	3	0	Black (6 Suits)	2021-02-03 — 20:26:50 UTC	CaitlinSmith, ChristopheAF, HelanaAshryvr	97	6	30
 424436	3	0	Dark Brown (6 Suits)	2021-02-03 — 20:11:14 UTC	CaitlinSmith, HelanaAshryvr, Onen	20	6	30
-424399	3	25	Dark Brown (6 Suits)	2021-02-03 — 19:56:10 UTC	CaitlinSmith, HelanaAshryvr, Onen	22	6	30
-424259	2	0	No Variant	2021-02-03 — 18:50:44 UTC	CaitlinSmith, PMP	35	5	25
-424242	3	0	No Variant	2021-02-03 — 18:40:15 UTC	bot_11, CaitlinSmith, jessecontrol	82	5	25
-424214	4	25	No Variant	2021-02-03 — 18:24:04 UTC	4head, Bot-Fiora, CaitlinSmith, Onen	52	5	25
+424399	3	25	Dark Brown (6 Suits)	2021-02-03 — 19:56:10 UTC	CaitlinSmith, HelanaAshryvr, Onen	23	6	30
+424259	2	0	No Variant	2021-02-03 — 18:50:44 UTC	CaitlinSmith, PMP	37	5	25
+424242	3	0	No Variant	2021-02-03 — 18:40:15 UTC	bot_11, CaitlinSmith, jessecontrol	84	5	25
+424214	4	25	No Variant	2021-02-03 — 18:24:04 UTC	4head, Bot-Fiora, CaitlinSmith, Onen	54	5	25
 423308	4	23	Pink & White (5 Suits)	2021-02-02 — 21:29:37 UTC	CaitlinSmith, ksfortson, newduke, padi	2	5	25
 423261	4	0	Pink & White (5 Suits)	2021-02-02 — 20:57:05 UTC	CaitlinSmith, ksfortson, newduke, padi	2	5	25
 423246	5	0	Black (5 Suits)	2021-02-02 — 20:44:04 UTC	CaitlinSmith, eljavi, ksfortson, newduke, padi	9	5	25
 423236	5	0	Black (5 Suits)	2021-02-02 — 20:37:34 UTC	CaitlinSmith, eljavi, ksfortson, newduke, padi	9	5	25
 423217	5	22	Black (5 Suits)	2021-02-02 — 20:17:40 UTC	CaitlinSmith, eljavi, ksfortson, newduke, padi	13	5	25
 423127	3	0	Black (5 Suits)	2021-02-02 — 19:14:41 UTC	CaitlinSmith, Damian000, eljavi	40	5	25
-423108	3	0	Black (5 Suits)	2021-02-02 — 18:47:47 UTC	CaitlinSmith, Damian000, eljavi	44	5	25
-423084	4	21	No Variant	2021-02-02 — 18:20:57 UTC	CaitlinSmith, Damian000, eljavi, possum	162	5	25
-423071	4	0	No Variant	2021-02-02 — 17:56:28 UTC	CaitlinSmith, Damian000, eljavi, possum	278	5	25
-423059	4	24	No Variant	2021-02-02 — 17:38:11 UTC	CaitlinSmith, Damian000, eljavi, possum	287	5	25
+423108	3	0	Black (5 Suits)	2021-02-02 — 18:47:47 UTC	CaitlinSmith, Damian000, eljavi	45	5	25
+423084	4	21	No Variant	2021-02-02 — 18:20:57 UTC	CaitlinSmith, Damian000, eljavi, possum	166	5	25
+423071	4	0	No Variant	2021-02-02 — 17:56:28 UTC	CaitlinSmith, Damian000, eljavi, possum	280	5	25
+423059	4	24	No Variant	2021-02-02 — 17:38:11 UTC	CaitlinSmith, Damian000, eljavi, possum	293	5	25
 422881	3	22	Black (5 Suits)	2021-02-02 — 09:47:15 UTC	CaitlinSmith, catula, Denchulitas	55	5	25
 422339	3	15	Pink & White (3 Suits)	2021-02-01 — 20:59:29 UTC	4head, CaitlinSmith, rahsosprout	8	3	15
 422301	5	21	Black (5 Suits)	2021-02-01 — 20:16:47 UTC	4head, CaitlinSmith, griff77, rahsosprout, tacobot5000	18	5	25
 422249	5	20	Black (5 Suits)	2021-02-01 — 19:23:43 UTC	4head, CaitlinSmith, griff77, rahsosprout, tacobot5000	30	5	25
-421304	5	27	Black & Rainbow (6 Suits)	2021-01-31 — 20:16:09 UTC	CaitlinSmith, MarkusKahlsen, rachyrules, TimeHoodie, VerySloppyTwo	20	6	30
+421304	5	27	Black & Rainbow (6 Suits)	2021-01-31 — 20:16:09 UTC	CaitlinSmith, MarkusKahlsen, rachyrules, TimeHoodie, VerySloppyTwo	21	6	30
 421276	3	0	Pink (5 Suits)	2021-01-31 — 19:33:50 UTC	CaitlinSmith, rachyrules, VerySloppyTwo	23	5	25
 421007	4	28	Prism (6 Suits)	2021-01-31 — 10:01:38 UTC	CaitlinSmith, indego, katian, VerySloppyTwo	22	6	30
 420989	4	0	Prism (6 Suits)	2021-01-31 — 09:12:48 UTC	CaitlinSmith, indego, katian, VerySloppyTwo	23	6	30
-420207	3	25	No Variant	2021-01-30 — 22:05:07 UTC	4head, ADrone, CaitlinSmith	76	5	25
-419722	3	20	4 Suits	2021-01-30 — 11:48:33 UTC	CaitlinSmith, eliclax, gchang02	70	4	20
+420207	3	25	No Variant	2021-01-30 — 22:05:07 UTC	4head, ADrone, CaitlinSmith	77	5	25
+419722	3	20	4 Suits	2021-01-30 — 11:48:33 UTC	CaitlinSmith, eliclax, gchang02	71	4	20
 419714	3	0	4 Suits	2021-01-30 — 11:21:39 UTC	CaitlinSmith, eliclax, gchang02	90	4	20
 419681	2	25	No Variant	2021-01-30 — 10:01:07 UTC	CaitlinSmith, rahsosprout	65	5	25
 418939	5	24	No Variant	2021-01-29 — 22:21:06 UTC	4head, CaitlinSmith, griff77, HariKrishnan, rahsosprout	65	5	25
 418893	5	0	No Variant	2021-01-29 — 21:44:42 UTC	4head, CaitlinSmith, griff77, HariKrishnan, rahsosprout	75	5	25
-418825	6	19	No Variant	2021-01-29 — 20:56:02 UTC	4head, CaitlinSmith, griff77, HariKrishnan, nkkarpov, Spieler42	91	5	25
-418788	5	23	No Variant	2021-01-29 — 20:19:17 UTC	4head, CaitlinSmith, griff77, HariKrishnan, nkkarpov	383	5	25
+418825	6	19	No Variant	2021-01-29 — 20:56:02 UTC	4head, CaitlinSmith, griff77, HariKrishnan, nkkarpov, Spieler42	92	5	25
+418788	5	23	No Variant	2021-01-29 — 20:19:17 UTC	4head, CaitlinSmith, griff77, HariKrishnan, nkkarpov	384	5	25
 418638	2	0	No Variant	2021-01-29 — 17:29:47 UTC	CaitlinSmith, Innocentagain	66	5	25
 417955	4	0	Rainbow & White (5 Suits)	2021-01-28 — 22:09:45 UTC	4head, CaitlinSmith, colton, Lanvin	4	5	25
 415691	4	0	No Variant	2021-01-26 — 21:11:01 UTC	Bot-Fiora, CaitlinSmith, knaphill, Spieler42	213	5	25
-415666	3	0	No Variant	2021-01-26 — 20:49:48 UTC	Bot-Fiora, CaitlinSmith, knaphill	77	5	25
-415649	3	0	No Variant	2021-01-26 — 20:40:50 UTC	Bot-Fiora, CaitlinSmith, knaphill	77	5	25
-415637	3	0	No Variant	2021-01-26 — 20:29:25 UTC	Bot-Fiora, CaitlinSmith, knaphill	77	5	25
-415601	4	24	No Variant	2021-01-26 — 20:07:06 UTC	4head, Bot-Fiora, CaitlinSmith, HariKrishnan	82	5	25
-415577	3	0	No Variant	2021-01-26 — 19:38:31 UTC	Bot-Fiora, CaitlinSmith, HariKrishnan	79	5	25
-415559	4	24	No Variant	2021-01-26 — 19:16:41 UTC	Bot-Fiora, CaitlinSmith, ChristopheAF, HariKrishnan	233	5	25
-415545	4	0	No Variant	2021-01-26 — 18:51:19 UTC	Bot-Fiora, CaitlinSmith, ChristopheAF, HariKrishnan	243	5	25
-415527	4	0	No Variant	2021-01-26 — 18:35:28 UTC	Bot-Fiora, CaitlinSmith, ChristopheAF, HariKrishnan	473	5	25
-415520	4	0	No Variant	2021-01-26 — 18:27:16 UTC	Bot-Fiora, CaitlinSmith, ChristopheAF, HariKrishnan	601	5	25
-415507	4	25	No Variant	2021-01-26 — 18:06:18 UTC	4head, Bot-Fiora, CaitlinSmith, ChristopheAF	79	5	25
-415496	5	22	No Variant	2021-01-26 — 17:45:31 UTC	4head, Bot-Fiora, CaitlinSmith, ChristopheAF, Spieler42	92	5	25
-415489	5	25	No Variant	2021-01-26 — 17:18:38 UTC	4head, Bot-Fiora, CaitlinSmith, ChristopheAF, Spieler42	120	5	25
+415666	3	0	No Variant	2021-01-26 — 20:49:48 UTC	Bot-Fiora, CaitlinSmith, knaphill	78	5	25
+415649	3	0	No Variant	2021-01-26 — 20:40:50 UTC	Bot-Fiora, CaitlinSmith, knaphill	78	5	25
+415637	3	0	No Variant	2021-01-26 — 20:29:25 UTC	Bot-Fiora, CaitlinSmith, knaphill	79	5	25
+415601	4	24	No Variant	2021-01-26 — 20:07:06 UTC	4head, Bot-Fiora, CaitlinSmith, HariKrishnan	84	5	25
+415577	3	0	No Variant	2021-01-26 — 19:38:31 UTC	Bot-Fiora, CaitlinSmith, HariKrishnan	82	5	25
+415559	4	24	No Variant	2021-01-26 — 19:16:41 UTC	Bot-Fiora, CaitlinSmith, ChristopheAF, HariKrishnan	236	5	25
+415545	4	0	No Variant	2021-01-26 — 18:51:19 UTC	Bot-Fiora, CaitlinSmith, ChristopheAF, HariKrishnan	245	5	25
+415527	4	0	No Variant	2021-01-26 — 18:35:28 UTC	Bot-Fiora, CaitlinSmith, ChristopheAF, HariKrishnan	480	5	25
+415520	4	0	No Variant	2021-01-26 — 18:27:16 UTC	Bot-Fiora, CaitlinSmith, ChristopheAF, HariKrishnan	606	5	25
+415507	4	25	No Variant	2021-01-26 — 18:06:18 UTC	4head, Bot-Fiora, CaitlinSmith, ChristopheAF	81	5	25
+415496	5	22	No Variant	2021-01-26 — 17:45:31 UTC	4head, Bot-Fiora, CaitlinSmith, ChristopheAF, Spieler42	93	5	25
+415489	5	25	No Variant	2021-01-26 — 17:18:38 UTC	4head, Bot-Fiora, CaitlinSmith, ChristopheAF, Spieler42	122	5	25
 415481	3	24	No Variant	2021-01-26 — 16:59:02 UTC	Bot-Fiora, CaitlinSmith, robense	23	5	25
-415426	2	24	No Variant	2021-01-26 — 14:01:10 UTC	banjoleb, CaitlinSmith	66	5	25
+415426	2	24	No Variant	2021-01-26 — 14:01:10 UTC	banjoleb, CaitlinSmith	67	5	25
 415419	2	23	No Variant	2021-01-26 — 13:43:53 UTC	banjoleb, CaitlinSmith	66	5	25
 415412	2	22	No Variant	2021-01-26 — 13:24:17 UTC	banjoleb, CaitlinSmith	65	5	25
 414923	5	0	6 Suits	2021-01-25 — 22:16:52 UTC	4head, CaitlinSmith, griff77, Plum, Spieler42	40	6	30
-414896	3	24	No Variant	2021-01-25 — 21:34:49 UTC	CaitlinSmith, griff77, IsabeltheCat	83	5	25
-414867	3	25	No Variant	2021-01-25 — 21:11:37 UTC	CaitlinSmith, griff77, IsabeltheCat	89	5	25
-414812	5	24	No Variant	2021-01-25 — 20:33:01 UTC	4head, CaitlinSmith, griff77, jian01, LautiManzano	100	5	25
-414768	4	24	No Variant	2021-01-25 — 19:59:36 UTC	CaitlinSmith, griff77, jian01, LautiManzano	326	5	25
-414736	4	24	No Variant	2021-01-25 — 19:30:23 UTC	CaitlinSmith, griff77, jian01, LautiManzano	336	5	25
-414653	5	23	No Variant	2021-01-25 — 17:51:06 UTC	4head, CaitlinSmith, eliclax, griff77, knaphill	163	5	25
-414635	4	0	No Variant	2021-01-25 — 17:24:12 UTC	4head, CaitlinSmith, eliclax, knaphill	90	5	25
-414630	4	0	No Variant	2021-01-25 — 17:16:20 UTC	4head, CaitlinSmith, eliclax, knaphill	95	5	25
-414623	4	0	No Variant	2021-01-25 — 16:57:43 UTC	4head, CaitlinSmith, eliclax, knaphill	95	5	25
-414610	5	22	No Variant	2021-01-25 — 16:04:37 UTC	CaitlinSmith, eliclax, gchang02, knaphill, PMP	143	5	25
-414483	3	25	Black (6 Suits)	2021-01-25 — 09:49:51 UTC	CaitlinSmith, Denchulitas, robense	52	6	30
-414474	3	0	Black (6 Suits)	2021-01-25 — 09:26:44 UTC	CaitlinSmith, Denchulitas, robense	55	6	30
+414896	3	24	No Variant	2021-01-25 — 21:34:49 UTC	CaitlinSmith, griff77, IsabeltheCat	86	5	25
+414867	3	25	No Variant	2021-01-25 — 21:11:37 UTC	CaitlinSmith, griff77, IsabeltheCat	91	5	25
+414812	5	24	No Variant	2021-01-25 — 20:33:01 UTC	4head, CaitlinSmith, griff77, jian01, LautiManzano	102	5	25
+414768	4	24	No Variant	2021-01-25 — 19:59:36 UTC	CaitlinSmith, griff77, jian01, LautiManzano	330	5	25
+414736	4	24	No Variant	2021-01-25 — 19:30:23 UTC	CaitlinSmith, griff77, jian01, LautiManzano	340	5	25
+414653	5	23	No Variant	2021-01-25 — 17:51:06 UTC	4head, CaitlinSmith, eliclax, griff77, knaphill	166	5	25
+414635	4	0	No Variant	2021-01-25 — 17:24:12 UTC	4head, CaitlinSmith, eliclax, knaphill	92	5	25
+414630	4	0	No Variant	2021-01-25 — 17:16:20 UTC	4head, CaitlinSmith, eliclax, knaphill	98	5	25
+414623	4	0	No Variant	2021-01-25 — 16:57:43 UTC	4head, CaitlinSmith, eliclax, knaphill	98	5	25
+414610	5	22	No Variant	2021-01-25 — 16:04:37 UTC	CaitlinSmith, eliclax, gchang02, knaphill, PMP	145	5	25
+414483	3	25	Black (6 Suits)	2021-01-25 — 09:49:51 UTC	CaitlinSmith, Denchulitas, robense	53	6	30
+414474	3	0	Black (6 Suits)	2021-01-25 — 09:26:44 UTC	CaitlinSmith, Denchulitas, robense	57	6	30
 413890	6	24	No Variant	2021-01-24 — 20:45:14 UTC	4head, Asddsa76, banjoleb, CaitlinSmith, Daryl, louietyj	23	5	25
-413838	4	0	No Variant	2021-01-24 — 20:08:53 UTC	4head, banjoleb, CaitlinSmith, indego	78	5	25
-413805	4	0	No Variant	2021-01-24 — 19:51:07 UTC	4head, banjoleb, CaitlinSmith, indego	97	5	25
-413762	3	25	No Variant	2021-01-24 — 19:27:01 UTC	banjoleb, CaitlinSmith, indego	82	5	25
+413838	4	0	No Variant	2021-01-24 — 20:08:53 UTC	4head, banjoleb, CaitlinSmith, indego	79	5	25
+413805	4	0	No Variant	2021-01-24 — 19:51:07 UTC	4head, banjoleb, CaitlinSmith, indego	98	5	25
+413762	3	25	No Variant	2021-01-24 — 19:27:01 UTC	banjoleb, CaitlinSmith, indego	85	5	25
 413732	3	0	Black (5 Suits)	2021-01-24 — 19:03:33 UTC	CaitlinSmith, voss, wump	43	5	25
-413721	3	0	Black (5 Suits)	2021-01-24 — 18:52:29 UTC	CaitlinSmith, voss, wump	44	5	25
-413711	3	23	Black (5 Suits)	2021-01-24 — 18:38:20 UTC	CaitlinSmith, voss, wump	51	5	25
-412996	4	23	No Variant	2021-01-24 — 00:12:55 UTC	Bot-Fiora, CaitlinSmith, griff77, jian01	442	5	25
-412973	4	0	No Variant	2021-01-23 — 23:51:21 UTC	Bot-Fiora, CaitlinSmith, griff77, jian01	501	5	25
-412959	4	0	No Variant	2021-01-23 — 23:43:20 UTC	Bot-Fiora, CaitlinSmith, griff77, jian01	793	5	25
-412947	4	0	No Variant	2021-01-23 — 23:32:21 UTC	Bot-Fiora, CaitlinSmith, griff77, jian01	899	5	25
-412908	6	24	No Variant	2021-01-23 — 23:02:56 UTC	Bot-Fiora, CaitlinSmith, Denchulitas, eljavi, griff77, jian01	478	5	25
-412872	3	0	No Variant	2021-01-23 — 22:38:17 UTC	CaitlinSmith, griff77, jian01	97	5	25
-412839	3	25	No Variant	2021-01-23 — 22:13:20 UTC	CaitlinSmith, Denchulitas, jian01	98	5	25
+413721	3	0	Black (5 Suits)	2021-01-24 — 18:52:29 UTC	CaitlinSmith, voss, wump	45	5	25
+413711	3	23	Black (5 Suits)	2021-01-24 — 18:38:20 UTC	CaitlinSmith, voss, wump	52	5	25
+412996	4	23	No Variant	2021-01-24 — 00:12:55 UTC	Bot-Fiora, CaitlinSmith, griff77, jian01	448	5	25
+412973	4	0	No Variant	2021-01-23 — 23:51:21 UTC	Bot-Fiora, CaitlinSmith, griff77, jian01	507	5	25
+412959	4	0	No Variant	2021-01-23 — 23:43:20 UTC	Bot-Fiora, CaitlinSmith, griff77, jian01	800	5	25
+412947	4	0	No Variant	2021-01-23 — 23:32:21 UTC	Bot-Fiora, CaitlinSmith, griff77, jian01	908	5	25
+412908	6	24	No Variant	2021-01-23 — 23:02:56 UTC	Bot-Fiora, CaitlinSmith, Denchulitas, eljavi, griff77, jian01	483	5	25
+412872	3	0	No Variant	2021-01-23 — 22:38:17 UTC	CaitlinSmith, griff77, jian01	99	5	25
+412839	3	25	No Variant	2021-01-23 — 22:13:20 UTC	CaitlinSmith, Denchulitas, jian01	102	5	25
 412493	4	0	Black (5 Suits)	2021-01-23 — 16:58:14 UTC	CaitlinSmith, Lanvin, robense, rz	24	5	25
 412483	4	0	Black (5 Suits)	2021-01-23 — 16:41:46 UTC	CaitlinSmith, Lanvin, robense, rz	28	5	25
 412479	4	0	Black (5 Suits)	2021-01-23 — 16:34:51 UTC	CaitlinSmith, Lanvin, robense, rz	32	5	25
-412468	4	0	Black (5 Suits)	2021-01-23 — 16:17:15 UTC	CaitlinSmith, Lanvin, robense, rz	44	5	25
-411666	3	23	No Variant	2021-01-22 — 22:47:25 UTC	4head, CaitlinSmith, rodrigo_buddy	100	5	25
+412468	4	0	Black (5 Suits)	2021-01-23 — 16:17:15 UTC	CaitlinSmith, Lanvin, robense, rz	47	5	25
+411666	3	23	No Variant	2021-01-22 — 22:47:25 UTC	4head, CaitlinSmith, rodrigo_buddy	103	5	25
 410846	4	23	No Variant	2021-01-21 — 22:29:11 UTC	4head, CaitlinSmith, Spieler42, tacobot5000	116	5	25
 410804	4	0	No Variant	2021-01-21 — 21:55:34 UTC	4head, CaitlinSmith, Spieler42, tacobot5000	129	5	25
 410795	4	0	No Variant	2021-01-21 — 21:49:40 UTC	4head, CaitlinSmith, Spieler42, tacobot5000	130	5	25
-410785	4	25	No Variant	2021-01-21 — 21:41:01 UTC	4head, CaitlinSmith, Spieler42, tacobot5000	131	5	25
-410762	3	24	No Variant	2021-01-21 — 21:11:10 UTC	4head, CaitlinSmith, tacobot5000	106	5	25
-410757	4	0	No Variant	2021-01-21 — 20:56:19 UTC	4head, CaitlinSmith, socerman, tacobot5000	257	5	25
-410749	4	24	No Variant	2021-01-21 — 20:41:22 UTC	4head, CaitlinSmith, socerman, tacobot5000	3581	5	25
+410785	4	25	No Variant	2021-01-21 — 21:41:01 UTC	4head, CaitlinSmith, Spieler42, tacobot5000	132	5	25
+410762	3	24	No Variant	2021-01-21 — 21:11:10 UTC	4head, CaitlinSmith, tacobot5000	110	5	25
+410757	4	0	No Variant	2021-01-21 — 20:56:19 UTC	4head, CaitlinSmith, socerman, tacobot5000	260	5	25
+410749	4	24	No Variant	2021-01-21 — 20:41:22 UTC	4head, CaitlinSmith, socerman, tacobot5000	3609	5	25
 410736	2	20	Black & Rainbow (5 Suits)	2021-01-21 — 20:19:01 UTC	CaitlinSmith, macanek	73	5	25
 410725	2	25	No Variant	2021-01-21 — 19:59:32 UTC	arnino, CaitlinSmith	65	5	25
-410705	4	0	Black (5 Suits)	2021-01-21 — 19:25:46 UTC	CaitlinSmith, Denchulitas, HariKrishnan, Onen	41	5	25
-410664	3	25	No Variant	2021-01-21 — 18:23:51 UTC	CaitlinSmith, colton, HelanaAshryvr	106	5	25
+410705	4	0	Black (5 Suits)	2021-01-21 — 19:25:46 UTC	CaitlinSmith, Denchulitas, HariKrishnan, Onen	42	5	25
+410664	3	25	No Variant	2021-01-21 — 18:23:51 UTC	CaitlinSmith, colton, HelanaAshryvr	111	5	25
 409873	4	0	Up or Down (6 Suits)	2021-01-20 — 20:33:45 UTC	4head, CaitlinSmith, newduke, Nitrate	12	6	30
 409842	4	0	Up or Down (6 Suits)	2021-01-20 — 19:57:52 UTC	4head, CaitlinSmith, newduke, Nitrate	15	6	30
 409807	5	0	Up or Down & Rainbow (5 Suits)	2021-01-20 — 19:28:22 UTC	4head, bjnh, CaitlinSmith, newduke, Nitrate	6	5	25
@@ -546,302 +546,302 @@
 408796	5	0	Brown-Ones (4 Suits)	2021-01-19 — 19:06:23 UTC	BananaBum, CaitlinSmith, HariKrishnan, Lanvin, newduke	1	4	20
 408764	5	16	Brown-Ones (4 Suits)	2021-01-19 — 18:33:48 UTC	BananaBum, CaitlinSmith, eljavi, HariKrishnan, Lanvin	1	4	20
 408753	5	0	Brown-Ones (4 Suits)	2021-01-19 — 18:20:21 UTC	BananaBum, CaitlinSmith, eljavi, HariKrishnan, Lanvin	1	4	20
-408748	5	0	No Variant	2021-01-19 — 18:16:38 UTC	BananaBum, CaitlinSmith, eljavi, HariKrishnan, Lanvin	223	5	25
-408731	3	25	No Variant	2021-01-19 — 18:00:05 UTC	bjnh, CaitlinSmith, eljavi	102	5	25
-407932	4	25	No Variant	2021-01-18 — 22:16:50 UTC	4head, CaitlinSmith, liquidNitrogen, nkkarpov	985	5	25
-407890	4	23	No Variant	2021-01-18 — 21:44:35 UTC	4head, CaitlinSmith, liquidNitrogen, nkkarpov	1092	5	25
-407836	3	0	Gray (6 Suits)	2021-01-18 — 21:07:24 UTC	4head, CaitlinSmith, PMP	30	6	30
-407797	3	0	Gray (6 Suits)	2021-01-18 — 20:43:28 UTC	4head, CaitlinSmith, PMP	36	6	30
-407768	3	0	Gray (6 Suits)	2021-01-18 — 20:25:16 UTC	4head, CaitlinSmith, PMP	42	6	30
-407753	3	0	Gray (6 Suits)	2021-01-18 — 20:12:19 UTC	4head, CaitlinSmith, PMP	45	6	30
-407736	3	0	Gray (6 Suits)	2021-01-18 — 20:04:37 UTC	4head, CaitlinSmith, PMP	48	6	30
-407720	3	0	Gray (6 Suits)	2021-01-18 — 19:56:14 UTC	4head, CaitlinSmith, PMP	55	6	30
-407686	3	0	No Variant	2021-01-18 — 19:35:08 UTC	CaitlinSmith, Kernel, macanek	93	5	25
-407674	3	25	No Variant	2021-01-18 — 19:18:06 UTC	CaitlinSmith, Kernel, Plum	89	5	25
-406517	4	22	Black (5 Suits)	2021-01-17 — 20:09:44 UTC	CaitlinSmith, Nils, Nitrate, nkkarpov	36	5	25
+408748	5	0	No Variant	2021-01-19 — 18:16:38 UTC	BananaBum, CaitlinSmith, eljavi, HariKrishnan, Lanvin	226	5	25
+408731	3	25	No Variant	2021-01-19 — 18:00:05 UTC	bjnh, CaitlinSmith, eljavi	107	5	25
+407932	4	25	No Variant	2021-01-18 — 22:16:50 UTC	4head, CaitlinSmith, liquidNitrogen, nkkarpov	994	5	25
+407890	4	23	No Variant	2021-01-18 — 21:44:35 UTC	4head, CaitlinSmith, liquidNitrogen, nkkarpov	1103	5	25
+407836	3	0	Gray (6 Suits)	2021-01-18 — 21:07:24 UTC	4head, CaitlinSmith, PMP	32	6	30
+407797	3	0	Gray (6 Suits)	2021-01-18 — 20:43:28 UTC	4head, CaitlinSmith, PMP	37	6	30
+407768	3	0	Gray (6 Suits)	2021-01-18 — 20:25:16 UTC	4head, CaitlinSmith, PMP	43	6	30
+407753	3	0	Gray (6 Suits)	2021-01-18 — 20:12:19 UTC	4head, CaitlinSmith, PMP	48	6	30
+407736	3	0	Gray (6 Suits)	2021-01-18 — 20:04:37 UTC	4head, CaitlinSmith, PMP	52	6	30
+407720	3	0	Gray (6 Suits)	2021-01-18 — 19:56:14 UTC	4head, CaitlinSmith, PMP	57	6	30
+407686	3	0	No Variant	2021-01-18 — 19:35:08 UTC	CaitlinSmith, Kernel, macanek	95	5	25
+407674	3	25	No Variant	2021-01-18 — 19:18:06 UTC	CaitlinSmith, Kernel, Plum	91	5	25
+406517	4	22	Black (5 Suits)	2021-01-17 — 20:09:44 UTC	CaitlinSmith, Nils, Nitrate, nkkarpov	37	5	25
 406474	5	22	Black (5 Suits)	2021-01-17 — 19:27:57 UTC	4head, ArualEIs, CaitlinSmith, Nitrate, Pimak	36	5	25
-406450	5	22	No Variant	2021-01-17 — 18:45:03 UTC	4head, ArualEIs, CaitlinSmith, Nitrate, Pimak	262	5	25
-406427	3	0	Black (5 Suits)	2021-01-17 — 18:14:50 UTC	ArualEIs, CaitlinSmith, Pimak	68	5	25
+406450	5	22	No Variant	2021-01-17 — 18:45:03 UTC	4head, ArualEIs, CaitlinSmith, Nitrate, Pimak	265	5	25
+406427	3	0	Black (5 Suits)	2021-01-17 — 18:14:50 UTC	ArualEIs, CaitlinSmith, Pimak	69	5	25
 406393	5	25	Brown-Ones (5 Suits)	2021-01-17 — 17:45:01 UTC	CaitlinSmith, ChristopheAF, Lanvin, MangoPie, Nils	1	5	25
 406381	5	0	Brown-Ones (5 Suits)	2021-01-17 — 17:21:45 UTC	CaitlinSmith, ChristopheAF, Lanvin, MangoPie, Nils	1	5	25
 406369	5	22	Brown-Ones (5 Suits)	2021-01-17 — 16:56:03 UTC	CaitlinSmith, ChristopheAF, Lanvin, MangoPie, Nils	2	5	25
 406358	4	20	Brown-Ones (4 Suits)	2021-01-17 — 16:22:54 UTC	CaitlinSmith, knaphill, Lanvin, Nils	3	4	20
 406308	4	0	White-Ones & Prism (6 Suits)	2021-01-17 — 13:05:02 UTC	CaitlinSmith, indego, Lanvin, Pablo-	2	6	30
-406304	3	0	Black (5 Suits)	2021-01-17 — 12:34:00 UTC	CaitlinSmith, Lanvin, Wittvector	31	5	25
+406304	3	0	Black (5 Suits)	2021-01-17 — 12:34:00 UTC	CaitlinSmith, Lanvin, Wittvector	32	5	25
 406302	3	0	Black (5 Suits)	2021-01-17 — 12:18:54 UTC	CaitlinSmith, Lanvin, Wittvector	31	5	25
 406292	3	23	Prism (5 Suits)	2021-01-17 — 11:41:45 UTC	CaitlinSmith, catula, Wittvector	19	5	25
-406285	3	0	Prism (5 Suits)	2021-01-17 — 11:12:09 UTC	CaitlinSmith, catula, Wittvector	45	5	25
-406269	4	28	Black (6 Suits)	2021-01-17 — 10:02:26 UTC	CaitlinSmith, Kaznad, Kernel, narabio	213	6	30
-406252	3	20	Black (5 Suits)	2021-01-17 — 09:10:27 UTC	CaitlinSmith, MarcLovesDogs, narabio	66	5	25
-405594	3	0	No Variant	2021-01-16 — 22:06:18 UTC	4head, CaitlinSmith, liquidNitrogen	109	5	25
+406285	3	0	Prism (5 Suits)	2021-01-17 — 11:12:09 UTC	CaitlinSmith, catula, Wittvector	47	5	25
+406269	4	28	Black (6 Suits)	2021-01-17 — 10:02:26 UTC	CaitlinSmith, Kaznad, Kernel, narabio	215	6	30
+406252	3	20	Black (5 Suits)	2021-01-17 — 09:10:27 UTC	CaitlinSmith, MarcLovesDogs, narabio	67	5	25
+405594	3	0	No Variant	2021-01-16 — 22:06:18 UTC	4head, CaitlinSmith, liquidNitrogen	115	5	25
 405124	6	25	No Variant	2021-01-16 — 11:34:17 UTC	CaitlinSmith, catula, derekcheah, Div, sephiroth, TheDaniMan	3	5	25
-404452	3	23	No Variant	2021-01-15 — 23:03:55 UTC	CaitlinSmith, Denchulitas, torp	110	5	25
-404425	3	24	No Variant	2021-01-15 — 22:29:22 UTC	CaitlinSmith, Denchulitas, torp	112	5	25
-404277	3	0	No Variant	2021-01-15 — 20:27:29 UTC	BananaBum, CaitlinSmith, HariKrishnan	111	5	25
-404271	3	0	No Variant	2021-01-15 — 20:22:46 UTC	BananaBum, CaitlinSmith, HariKrishnan	114	5	25
-404266	4	0	No Variant	2021-01-15 — 20:15:49 UTC	BananaBum, CaitlinSmith, duckington, HariKrishnan	2763	5	25
-404246	3	19	4 Suits	2021-01-15 — 19:55:18 UTC	BananaBum, CaitlinSmith, HariKrishnan	160	4	20
-404132	3	19	Rainbow (4 Suits)	2021-01-15 — 17:36:29 UTC	CaitlinSmith, knaphill, macanek	28	4	20
-404123	3	0	Rainbow (4 Suits)	2021-01-15 — 17:16:53 UTC	CaitlinSmith, knaphill, macanek	32	4	20
+404452	3	23	No Variant	2021-01-15 — 23:03:55 UTC	CaitlinSmith, Denchulitas, torp	114	5	25
+404425	3	24	No Variant	2021-01-15 — 22:29:22 UTC	CaitlinSmith, Denchulitas, torp	116	5	25
+404277	3	0	No Variant	2021-01-15 — 20:27:29 UTC	BananaBum, CaitlinSmith, HariKrishnan	116	5	25
+404271	3	0	No Variant	2021-01-15 — 20:22:46 UTC	BananaBum, CaitlinSmith, HariKrishnan	120	5	25
+404266	4	0	No Variant	2021-01-15 — 20:15:49 UTC	BananaBum, CaitlinSmith, duckington, HariKrishnan	2788	5	25
+404246	3	19	4 Suits	2021-01-15 — 19:55:18 UTC	BananaBum, CaitlinSmith, HariKrishnan	162	4	20
+404132	3	19	Rainbow (4 Suits)	2021-01-15 — 17:36:29 UTC	CaitlinSmith, knaphill, macanek	29	4	20
+404123	3	0	Rainbow (4 Suits)	2021-01-15 — 17:16:53 UTC	CaitlinSmith, knaphill, macanek	34	4	20
 404095	3	20	Prism (4 Suits)	2021-01-15 — 16:37:32 UTC	CaitlinSmith, MangoPie, Pimak	13	4	20
 404075	3	0	Prism (4 Suits)	2021-01-15 — 16:07:56 UTC	CaitlinSmith, MangoPie, Pimak	21	4	20
 404066	3	0	Dark Prism (6 Suits)	2021-01-15 — 15:38:10 UTC	CaitlinSmith, sephiroth, Wittvector	4	6	30
-403332	4	22	No Variant	2021-01-14 — 21:34:59 UTC	4head, CaitlinSmith, griff77, knaphill	1744	5	25
-403286	3	0	No Variant	2021-01-14 — 20:55:25 UTC	4head, CaitlinSmith, knaphill	119	5	25
-403240	3	0	Black (5 Suits)	2021-01-14 — 20:18:09 UTC	CaitlinSmith, knaphill, MangoPie	71	5	25
-403199	3	24	Black (5 Suits)	2021-01-14 — 19:24:59 UTC	4head, BananaBum, CaitlinSmith	74	5	25
+403332	4	22	No Variant	2021-01-14 — 21:34:59 UTC	4head, CaitlinSmith, griff77, knaphill	1759	5	25
+403286	3	0	No Variant	2021-01-14 — 20:55:25 UTC	4head, CaitlinSmith, knaphill	126	5	25
+403240	3	0	Black (5 Suits)	2021-01-14 — 20:18:09 UTC	CaitlinSmith, knaphill, MangoPie	73	5	25
+403199	3	24	Black (5 Suits)	2021-01-14 — 19:24:59 UTC	4head, BananaBum, CaitlinSmith	76	5	25
 403183	3	20	Black (5 Suits)	2021-01-14 — 19:04:16 UTC	4head, BananaBum, CaitlinSmith	84	5	25
 403171	3	0	Black (5 Suits)	2021-01-14 — 18:50:43 UTC	4head, BananaBum, CaitlinSmith	92	5	25
 403170	3	0	Black (5 Suits)	2021-01-14 — 18:49:49 UTC	4head, BananaBum, CaitlinSmith	101	5	25
-403156	4	0	Black (6 Suits)	2021-01-14 — 18:24:42 UTC	4head, BananaBum, CaitlinSmith, LautiManzano	77	6	30
-403140	4	24	Black (6 Suits)	2021-01-14 — 17:51:04 UTC	4head, BananaBum, CaitlinSmith, LautiManzano	90	6	30
-403126	3	0	No Variant	2021-01-14 — 17:16:42 UTC	4head, banjoleb, CaitlinSmith	121	5	25
-403117	3	0	No Variant	2021-01-14 — 16:59:58 UTC	4head, banjoleb, CaitlinSmith	125	5	25
-403111	3	0	No Variant	2021-01-14 — 16:51:07 UTC	4head, banjoleb, CaitlinSmith	130	5	25
-403097	3	25	No Variant	2021-01-14 — 16:28:46 UTC	CaitlinSmith, poofart123, Sorenjoren	137	5	25
-402920	4	23	No Variant	2021-01-14 — 09:48:21 UTC	4head, CaitlinSmith, Fey, Lel0uch	55	5	25
-402914	4	0	No Variant	2021-01-14 — 09:23:49 UTC	4head, CaitlinSmith, Fey, Lel0uch	59	5	25
-402912	5	0	No Variant	2021-01-14 — 09:14:36 UTC	4head, CaitlinSmith, Fey, Lel0uch, louietyj	109	5	25
-402907	5	22	No Variant	2021-01-14 — 09:01:21 UTC	4head, CaitlinSmith, Fey, Lel0uch, louietyj	195	5	25
-402342	2	25	6 Suits	2021-01-13 — 21:22:13 UTC	CaitlinSmith, liquidNitrogen	112	6	30
-402318	2	0	6 Suits	2021-01-13 — 21:08:43 UTC	CaitlinSmith, liquidNitrogen	117	6	30
-402314	2	0	Black (6 Suits)	2021-01-13 — 21:07:28 UTC	CaitlinSmith, liquidNitrogen	546	6	30
-402313	2	0	Black (6 Suits)	2021-01-13 — 21:07:09 UTC	CaitlinSmith, liquidNitrogen	643	6	30
-402286	3	23	No Variant	2021-01-13 — 20:40:43 UTC	CaitlinSmith, griff77, Spieler42	134	5	25
-402234	3	24	No Variant	2021-01-13 — 19:49:16 UTC	bjnh, CaitlinSmith, Spieler42	141	5	25
+403156	4	0	Black (6 Suits)	2021-01-14 — 18:24:42 UTC	4head, BananaBum, CaitlinSmith, LautiManzano	81	6	30
+403140	4	24	Black (6 Suits)	2021-01-14 — 17:51:04 UTC	4head, BananaBum, CaitlinSmith, LautiManzano	95	6	30
+403126	3	0	No Variant	2021-01-14 — 17:16:42 UTC	4head, banjoleb, CaitlinSmith	127	5	25
+403117	3	0	No Variant	2021-01-14 — 16:59:58 UTC	4head, banjoleb, CaitlinSmith	129	5	25
+403111	3	0	No Variant	2021-01-14 — 16:51:07 UTC	4head, banjoleb, CaitlinSmith	135	5	25
+403097	3	25	No Variant	2021-01-14 — 16:28:46 UTC	CaitlinSmith, poofart123, Sorenjoren	142	5	25
+402920	4	23	No Variant	2021-01-14 — 09:48:21 UTC	4head, CaitlinSmith, Fey, Lel0uch	56	5	25
+402914	4	0	No Variant	2021-01-14 — 09:23:49 UTC	4head, CaitlinSmith, Fey, Lel0uch	60	5	25
+402912	5	0	No Variant	2021-01-14 — 09:14:36 UTC	4head, CaitlinSmith, Fey, Lel0uch, louietyj	112	5	25
+402907	5	22	No Variant	2021-01-14 — 09:01:21 UTC	4head, CaitlinSmith, Fey, Lel0uch, louietyj	198	5	25
+402342	2	25	6 Suits	2021-01-13 — 21:22:13 UTC	CaitlinSmith, liquidNitrogen	113	6	30
+402318	2	0	6 Suits	2021-01-13 — 21:08:43 UTC	CaitlinSmith, liquidNitrogen	119	6	30
+402314	2	0	Black (6 Suits)	2021-01-13 — 21:07:28 UTC	CaitlinSmith, liquidNitrogen	553	6	30
+402313	2	0	Black (6 Suits)	2021-01-13 — 21:07:09 UTC	CaitlinSmith, liquidNitrogen	654	6	30
+402286	3	23	No Variant	2021-01-13 — 20:40:43 UTC	CaitlinSmith, griff77, Spieler42	140	5	25
+402234	3	24	No Variant	2021-01-13 — 19:49:16 UTC	bjnh, CaitlinSmith, Spieler42	145	5	25
 402213	2	0	No Variant	2021-01-13 — 19:23:25 UTC	CaitlinSmith, liquidn2	65	5	25
 402212	2	0	No Variant	2021-01-13 — 19:21:15 UTC	CaitlinSmith, liquidn2	65	5	25
 402191	2	0	No Variant	2021-01-13 — 19:06:16 UTC	CaitlinSmith, liquidn2	66	5	25
-402136	3	18	No Variant	2021-01-13 — 17:58:00 UTC	4head, CaitlinSmith, nkkarpov	154	5	25
-402114	3	22	No Variant	2021-01-13 — 17:32:07 UTC	CaitlinSmith, macanek, Sorenjoren	151	5	25
+402136	3	18	No Variant	2021-01-13 — 17:58:00 UTC	4head, CaitlinSmith, nkkarpov	157	5	25
+402114	3	22	No Variant	2021-01-13 — 17:32:07 UTC	CaitlinSmith, macanek, Sorenjoren	153	5	25
 402093	5	0	No Variant	2021-01-13 — 17:00:36 UTC	banjoleb, CaitlinSmith, macanek, robense, Wittvector	45	5	25
 401989	3	24	Black (5 Suits)	2021-01-13 — 13:09:32 UTC	asaelr, banjoleb, CaitlinSmith	8	5	25
 401980	3	21	Black (5 Suits)	2021-01-13 — 12:33:42 UTC	asaelr, banjoleb, CaitlinSmith	10	5	25
 401967	3	0	Black (5 Suits)	2021-01-13 — 11:58:36 UTC	banjoleb, CaitlinSmith, Pimak	119	5	25
-401960	4	23	Black (5 Suits)	2021-01-13 — 11:32:35 UTC	ArualEIs, banjoleb, CaitlinSmith, Pimak	79	5	25
-401952	4	0	Black (5 Suits)	2021-01-13 — 11:00:39 UTC	ArualEIs, banjoleb, CaitlinSmith, Pimak	98	5	25
-401323	3	0	Pink (6 Suits)	2021-01-12 — 20:38:44 UTC	CaitlinSmith, Lanvin, Onen	92	6	30
+401960	4	23	Black (5 Suits)	2021-01-13 — 11:32:35 UTC	ArualEIs, banjoleb, CaitlinSmith, Pimak	80	5	25
+401952	4	0	Black (5 Suits)	2021-01-13 — 11:00:39 UTC	ArualEIs, banjoleb, CaitlinSmith, Pimak	101	5	25
+401323	3	0	Pink (6 Suits)	2021-01-12 — 20:38:44 UTC	CaitlinSmith, Lanvin, Onen	94	6	30
 401300	3	0	Pink-Fives & Prism (5 Suits)	2021-01-12 — 20:13:36 UTC	CaitlinSmith, Lanvin, Onen	2	5	25
-401288	2	24	No Variant	2021-01-12 — 19:54:03 UTC	CaitlinSmith, nwajfromoz	67	5	25
-401280	2	0	No Variant	2021-01-12 — 19:43:14 UTC	CaitlinSmith, nwajfromoz	67	5	25
-401255	2	24	No Variant	2021-01-12 — 19:10:23 UTC	4head, CaitlinSmith	68	5	25
-401248	2	0	No Variant	2021-01-12 — 18:59:38 UTC	4head, CaitlinSmith	68	5	25
-401228	2	0	No Variant	2021-01-12 — 18:46:39 UTC	4head, CaitlinSmith	69	5	25
-401217	2	0	No Variant	2021-01-12 — 18:32:34 UTC	4head, CaitlinSmith	73	5	25
-401214	2	0	No Variant	2021-01-12 — 18:31:15 UTC	4head, CaitlinSmith	72	5	25
-401206	3	0	No Variant	2021-01-12 — 18:25:12 UTC	4head, CaitlinSmith, IsabeltheCat	156	5	25
-401189	3	25	No Variant	2021-01-12 — 18:04:28 UTC	4head, CaitlinSmith, IsabeltheCat	157	5	25
-401164	5	0	No Variant	2021-01-12 — 17:34:59 UTC	ADrone, CaitlinSmith, Donna, Hoffnung, IsabeltheCat	207	5	25
-401158	3	0	Rainbow (4 Suits)	2021-01-12 — 17:25:32 UTC	CaitlinSmith, IsabeltheCat, narabio	68	4	20
-401147	3	19	Rainbow (4 Suits)	2021-01-12 — 16:59:49 UTC	CaitlinSmith, IsabeltheCat, narabio	84	4	20
-401086	3	25	Up or Down (5 Suits)	2021-01-12 — 12:52:54 UTC	ArualEIs, CaitlinSmith, skyblueexo	62	5	25
-401078	3	0	Up or Down (5 Suits)	2021-01-12 — 12:21:17 UTC	ArualEIs, CaitlinSmith, skyblueexo	88	5	25
+401288	2	24	No Variant	2021-01-12 — 19:54:03 UTC	CaitlinSmith, nwajfromoz	68	5	25
+401280	2	0	No Variant	2021-01-12 — 19:43:14 UTC	CaitlinSmith, nwajfromoz	68	5	25
+401255	2	24	No Variant	2021-01-12 — 19:10:23 UTC	4head, CaitlinSmith	70	5	25
+401248	2	0	No Variant	2021-01-12 — 18:59:38 UTC	4head, CaitlinSmith	70	5	25
+401228	2	0	No Variant	2021-01-12 — 18:46:39 UTC	4head, CaitlinSmith	71	5	25
+401217	2	0	No Variant	2021-01-12 — 18:32:34 UTC	4head, CaitlinSmith	74	5	25
+401214	2	0	No Variant	2021-01-12 — 18:31:15 UTC	4head, CaitlinSmith	73	5	25
+401206	3	0	No Variant	2021-01-12 — 18:25:12 UTC	4head, CaitlinSmith, IsabeltheCat	158	5	25
+401189	3	25	No Variant	2021-01-12 — 18:04:28 UTC	4head, CaitlinSmith, IsabeltheCat	160	5	25
+401164	5	0	No Variant	2021-01-12 — 17:34:59 UTC	ADrone, CaitlinSmith, Donna, Hoffnung, IsabeltheCat	208	5	25
+401158	3	0	Rainbow (4 Suits)	2021-01-12 — 17:25:32 UTC	CaitlinSmith, IsabeltheCat, narabio	69	4	20
+401147	3	19	Rainbow (4 Suits)	2021-01-12 — 16:59:49 UTC	CaitlinSmith, IsabeltheCat, narabio	85	4	20
+401086	3	25	Up or Down (5 Suits)	2021-01-12 — 12:52:54 UTC	ArualEIs, CaitlinSmith, skyblueexo	64	5	25
+401078	3	0	Up or Down (5 Suits)	2021-01-12 — 12:21:17 UTC	ArualEIs, CaitlinSmith, skyblueexo	89	5	25
 400471	5	18	4 Suits	2021-01-11 — 22:11:22 UTC	CaitlinSmith, ChristopheAF, Doge, Kyle, Pimak	4	4	20
-400451	4	0	White (6 Suits)	2021-01-11 — 21:46:19 UTC	CaitlinSmith, ChristopheAF, Pimak, sean1815	35	6	30
-400434	4	0	White (6 Suits)	2021-01-11 — 21:25:22 UTC	CaitlinSmith, ChristopheAF, Pimak, sean1815	41	6	30
-400418	3	25	No Variant	2021-01-11 — 21:13:44 UTC	CaitlinSmith, Pimak, sean1815	160	5	25
+400451	4	0	White (6 Suits)	2021-01-11 — 21:46:19 UTC	CaitlinSmith, ChristopheAF, Pimak, sean1815	36	6	30
+400434	4	0	White (6 Suits)	2021-01-11 — 21:25:22 UTC	CaitlinSmith, ChristopheAF, Pimak, sean1815	43	6	30
+400418	3	25	No Variant	2021-01-11 — 21:13:44 UTC	CaitlinSmith, Pimak, sean1815	163	5	25
 400374	5	0	3 Suits	2021-01-11 — 20:30:45 UTC	CaitlinSmith, Daryl, Lanvin, Nitrate, rahsosprout	27	3	15
-400333	3	25	No Variant	2021-01-11 — 19:55:36 UTC	CaitlinSmith, Daryl, Nitrate	167	5	25
-400313	3	0	No Variant	2021-01-11 — 19:32:37 UTC	CaitlinSmith, Daryl, Nitrate	164	5	25
-400299	3	0	No Variant	2021-01-11 — 19:22:27 UTC	CaitlinSmith, Daryl, knaphill	175	5	25
-400266	3	0	No Variant	2021-01-11 — 18:47:01 UTC	CaitlinSmith, Daryl, knaphill	187	5	25
+400333	3	25	No Variant	2021-01-11 — 19:55:36 UTC	CaitlinSmith, Daryl, Nitrate	170	5	25
+400313	3	0	No Variant	2021-01-11 — 19:32:37 UTC	CaitlinSmith, Daryl, Nitrate	167	5	25
+400299	3	0	No Variant	2021-01-11 — 19:22:27 UTC	CaitlinSmith, Daryl, knaphill	176	5	25
+400266	3	0	No Variant	2021-01-11 — 18:47:01 UTC	CaitlinSmith, Daryl, knaphill	189	5	25
 400240	5	24	Rainbow (5 Suits)	2021-01-11 — 17:49:45 UTC	CaitlinSmith, Fey, Lanvin, Nils, sin_nofaith	22	5	25
 400217	5	21	White-Ones & Black (5 Suits)	2021-01-11 — 17:07:47 UTC	CaitlinSmith, Fey, jeff10, Lanvin, sin_faith	2	5	25
 400196	4	25	Rainbow & Muddy Rainbow (5 Suits)	2021-01-11 — 16:28:12 UTC	CaitlinSmith, macanek, TimeHoodie, zeinab001	4	5	25
-400173	4	0	Rainbow (3 Suits)	2021-01-11 — 15:52:42 UTC	bakerbakura, CaitlinSmith, macanek, zeinab001	14	3	15
-399465	4	23	No Variant	2021-01-10 — 21:19:13 UTC	CaitlinSmith, liquidNitrogen, Nitrate, rahsosprout	419	5	25
-399429	3	0	Black (5 Suits)	2021-01-10 — 20:45:15 UTC	CaitlinSmith, DrJones, rahsosprout	134	5	25
-399420	3	0	Black (5 Suits)	2021-01-10 — 20:34:06 UTC	CaitlinSmith, DrJones, rahsosprout	171	5	25
-399415	2	0	Black (5 Suits)	2021-01-10 — 20:29:01 UTC	CaitlinSmith, DrJones	169	5	25
-399406	2	25	No Variant	2021-01-10 — 20:21:55 UTC	CaitlinSmith, DrJones	71	5	25
-399396	2	24	No Variant	2021-01-10 — 20:09:42 UTC	CaitlinSmith, DrJones	73	5	25
-399380	3	25	No Variant	2021-01-10 — 19:46:33 UTC	bjnh, CaitlinSmith, rahsosprout	170	5	25
-399354	4	22	Gray (5 Suits)	2021-01-10 — 19:13:15 UTC	CaitlinSmith, ChristopheAF, rachyrules, rahsosprout	33	5	25
-399333	2	0	No Variant	2021-01-10 — 18:48:47 UTC	CaitlinSmith, ChristopheAF	72	5	25
-399241	4	0	Dark Rainbow (6 Suits)	2021-01-10 — 16:05:21 UTC	CaitlinSmith, katian, nkkarpov, ricardodd	41	6	30
-399235	4	0	Dark Rainbow (6 Suits)	2021-01-10 — 15:53:30 UTC	CaitlinSmith, katian, nkkarpov, ricardodd	48	6	30
-399193	5	25	No Variant	2021-01-10 — 14:21:27 UTC	banjoleb, boba, CaitlinSmith, ChristopheAF, Kaznad	176	5	25
+400173	4	0	Rainbow (3 Suits)	2021-01-11 — 15:52:42 UTC	bakerbakura, CaitlinSmith, macanek, zeinab001	15	3	15
+399465	4	23	No Variant	2021-01-10 — 21:19:13 UTC	CaitlinSmith, liquidNitrogen, Nitrate, rahsosprout	423	5	25
+399429	3	0	Black (5 Suits)	2021-01-10 — 20:45:15 UTC	CaitlinSmith, DrJones, rahsosprout	135	5	25
+399420	3	0	Black (5 Suits)	2021-01-10 — 20:34:06 UTC	CaitlinSmith, DrJones, rahsosprout	174	5	25
+399415	2	0	Black (5 Suits)	2021-01-10 — 20:29:01 UTC	CaitlinSmith, DrJones	173	5	25
+399406	2	25	No Variant	2021-01-10 — 20:21:55 UTC	CaitlinSmith, DrJones	72	5	25
+399396	2	24	No Variant	2021-01-10 — 20:09:42 UTC	CaitlinSmith, DrJones	74	5	25
+399380	3	25	No Variant	2021-01-10 — 19:46:33 UTC	bjnh, CaitlinSmith, rahsosprout	173	5	25
+399354	4	22	Gray (5 Suits)	2021-01-10 — 19:13:15 UTC	CaitlinSmith, ChristopheAF, rachyrules, rahsosprout	34	5	25
+399333	2	0	No Variant	2021-01-10 — 18:48:47 UTC	CaitlinSmith, ChristopheAF	73	5	25
+399241	4	0	Dark Rainbow (6 Suits)	2021-01-10 — 16:05:21 UTC	CaitlinSmith, katian, nkkarpov, ricardodd	42	6	30
+399235	4	0	Dark Rainbow (6 Suits)	2021-01-10 — 15:53:30 UTC	CaitlinSmith, katian, nkkarpov, ricardodd	49	6	30
+399193	5	25	No Variant	2021-01-10 — 14:21:27 UTC	banjoleb, boba, CaitlinSmith, ChristopheAF, Kaznad	178	5	25
 399186	3	22	No Variant	2021-01-10 — 13:41:51 UTC	banjoleb, CaitlinSmith, Kaznad	15	5	25
-399158	3	23	No Variant	2021-01-10 — 12:09:53 UTC	CaitlinSmith, MangoPie, sephiroth	148	5	25
-399156	5	23	No Variant	2021-01-10 — 11:29:55 UTC	ArualEIs, CaitlinSmith, knaphill, narabio, Spieler42	457	5	25
-399150	4	22	No Variant	2021-01-10 — 10:56:34 UTC	CaitlinSmith, knaphill, narabio, Spieler42	2076	5	25
-399142	5	0	No Variant	2021-01-10 — 10:23:49 UTC	banjoleb, CaitlinSmith, Fey, raramra, Spieler42	77	5	25
-399130	5	0	No Variant	2021-01-10 — 10:12:14 UTC	banjoleb, CaitlinSmith, Fey, raramra, Spieler42	80	5	25
+399158	3	23	No Variant	2021-01-10 — 12:09:53 UTC	CaitlinSmith, MangoPie, sephiroth	149	5	25
+399156	5	23	No Variant	2021-01-10 — 11:29:55 UTC	ArualEIs, CaitlinSmith, knaphill, narabio, Spieler42	461	5	25
+399150	4	22	No Variant	2021-01-10 — 10:56:34 UTC	CaitlinSmith, knaphill, narabio, Spieler42	2094	5	25
+399142	5	0	No Variant	2021-01-10 — 10:23:49 UTC	banjoleb, CaitlinSmith, Fey, raramra, Spieler42	78	5	25
+399130	5	0	No Variant	2021-01-10 — 10:12:14 UTC	banjoleb, CaitlinSmith, Fey, raramra, Spieler42	81	5	25
 399087	4	25	Rainbow-Ones (5 Suits)	2021-01-10 — 09:30:22 UTC	CaitlinSmith, derekcheah, Fey, Lel0uch	4	5	25
 399072	4	0	Rainbow-Ones (5 Suits)	2021-01-10 — 09:14:01 UTC	CaitlinSmith, derekcheah, Fey, Lel0uch	5	5	25
 399069	4	0	Rainbow-Ones (5 Suits)	2021-01-10 — 09:08:53 UTC	CaitlinSmith, derekcheah, Fey, Lel0uch	7	5	25
-399061	2	0	No Variant	2021-01-10 — 09:05:34 UTC	CaitlinSmith, louietyj	72	5	25
-398180	2	22	No Variant	2021-01-09 — 22:12:01 UTC	CaitlinSmith, liquidNitrogen	72	5	25
-398168	2	24	No Variant	2021-01-09 — 22:03:20 UTC	CaitlinSmith, liquidNitrogen	72	5	25
-398147	2	20	No Variant	2021-01-09 — 21:51:59 UTC	CaitlinSmith, liquidNitrogen	72	5	25
+399061	2	0	No Variant	2021-01-10 — 09:05:34 UTC	CaitlinSmith, louietyj	73	5	25
+398180	2	22	No Variant	2021-01-09 — 22:12:01 UTC	CaitlinSmith, liquidNitrogen	73	5	25
+398168	2	24	No Variant	2021-01-09 — 22:03:20 UTC	CaitlinSmith, liquidNitrogen	73	5	25
+398147	2	20	No Variant	2021-01-09 — 21:51:59 UTC	CaitlinSmith, liquidNitrogen	74	5	25
 398112	3	22	Rainbow (5 Suits)	2021-01-09 — 21:18:26 UTC	CaitlinSmith, liquidNitrogen, Vensahn	135	5	25
-398064	3	0	No Variant	2021-01-09 — 20:39:12 UTC	CaitlinSmith, liquidNitrogen, Vensahn	194	5	25
-398024	4	23	No Variant	2021-01-09 — 20:05:56 UTC	CaitlinSmith, liquidNitrogen, Vensahn, zeinab001	1449	5	25
-397986	4	0	No Variant	2021-01-09 — 19:47:00 UTC	CaitlinSmith, liquidNitrogen, Wittvector, zeinab001	1253	5	25
-397970	3	25	Rainbow (5 Suits)	2021-01-09 — 19:30:19 UTC	CaitlinSmith, Pimak, zeinab001	185	5	25
-397933	3	25	No Variant	2021-01-09 — 18:51:34 UTC	CaitlinSmith, hakha3, Pimak	178	5	25
-396891	5	20	No Variant	2021-01-08 — 20:31:19 UTC	ArualEIs, CaitlinSmith, Damian000, diael, tezeteta	541	5	25
-396856	5	0	No Variant	2021-01-08 — 19:56:51 UTC	ArualEIs, CaitlinSmith, Damian000, diael, tezeteta	837	5	25
-396831	3	0	No Variant	2021-01-08 — 19:34:51 UTC	CaitlinSmith, diael, tezeteta	201	5	25
-396812	4	22	No Variant	2021-01-08 — 19:17:11 UTC	ADrone, CaitlinSmith, diael, tezeteta	149	5	25
-396778	3	25	No Variant	2021-01-08 — 18:41:16 UTC	ADrone, CaitlinSmith, doctorabi	101	5	25
-396748	4	23	No Variant	2021-01-08 — 17:52:54 UTC	CaitlinSmith, eljavi, knaphill, robense	138	5	25
-396712	2	22	No Variant	2021-01-08 — 16:57:37 UTC	CaitlinSmith, knaphill	73	5	25
-394815	4	13	Rainbow (4 Suits)	2021-01-06 — 22:04:12 UTC	CaitlinSmith, diael, oliana, Vensahn	45	4	20
+398064	3	0	No Variant	2021-01-09 — 20:39:12 UTC	CaitlinSmith, liquidNitrogen, Vensahn	198	5	25
+398024	4	23	No Variant	2021-01-09 — 20:05:56 UTC	CaitlinSmith, liquidNitrogen, Vensahn, zeinab001	1459	5	25
+397986	4	0	No Variant	2021-01-09 — 19:47:00 UTC	CaitlinSmith, liquidNitrogen, Wittvector, zeinab001	1267	5	25
+397970	3	25	Rainbow (5 Suits)	2021-01-09 — 19:30:19 UTC	CaitlinSmith, Pimak, zeinab001	186	5	25
+397933	3	25	No Variant	2021-01-09 — 18:51:34 UTC	CaitlinSmith, hakha3, Pimak	179	5	25
+396891	5	20	No Variant	2021-01-08 — 20:31:19 UTC	ArualEIs, CaitlinSmith, Damian000, diael, tezeteta	546	5	25
+396856	5	0	No Variant	2021-01-08 — 19:56:51 UTC	ArualEIs, CaitlinSmith, Damian000, diael, tezeteta	845	5	25
+396831	3	0	No Variant	2021-01-08 — 19:34:51 UTC	CaitlinSmith, diael, tezeteta	203	5	25
+396812	4	22	No Variant	2021-01-08 — 19:17:11 UTC	ADrone, CaitlinSmith, diael, tezeteta	150	5	25
+396778	3	25	No Variant	2021-01-08 — 18:41:16 UTC	ADrone, CaitlinSmith, doctorabi	103	5	25
+396748	4	23	No Variant	2021-01-08 — 17:52:54 UTC	CaitlinSmith, eljavi, knaphill, robense	139	5	25
+396712	2	22	No Variant	2021-01-08 — 16:57:37 UTC	CaitlinSmith, knaphill	75	5	25
+394815	4	13	Rainbow (4 Suits)	2021-01-06 — 22:04:12 UTC	CaitlinSmith, diael, oliana, Vensahn	46	4	20
 394761	4	0	Rainbow (4 Suits)	2021-01-06 — 21:13:26 UTC	CaitlinSmith, diael, Kyle, oliana	1	4	20
-394739	4	0	6 Suits	2021-01-06 — 20:39:46 UTC	CaitlinSmith, diael, Kyle, Vensahn	151	6	30
-394695	4	30	6 Suits	2021-01-06 — 19:55:57 UTC	CaitlinSmith, MangoPie, rahsosprout, will.i.am	191	6	30
-394642	4	22	Rainbow (5 Suits)	2021-01-06 — 19:07:28 UTC	CaitlinSmith, rahsosprout, Spieler42, wump	26	5	25
-394619	4	0	Rainbow (5 Suits)	2021-01-06 — 18:28:18 UTC	CaitlinSmith, rahsosprout, Spieler42, wump	30	5	25
-392214	2	22	Black (5 Suits)	2021-01-04 — 04:54:19 UTC	CaitlinSmith, davidwillwinn	219	5	25
-392203	2	21	Black (5 Suits)	2021-01-04 — 04:41:55 UTC	CaitlinSmith, davidwillwinn	244	5	25
-392080	2	25	No Variant	2021-01-04 — 03:08:21 UTC	CaitlinSmith, liquidNitrogen	73	5	25
-392064	2	0	No Variant	2021-01-04 — 02:57:43 UTC	CaitlinSmith, liquidNitrogen	73	5	25
-392053	2	25	No Variant	2021-01-04 — 02:50:29 UTC	CaitlinSmith, liquidNitrogen	74	5	25
-392026	2	20	Rainbow (5 Suits)	2021-01-04 — 02:28:49 UTC	CaitlinSmith, liquidNitrogen	154	5	25
-391987	2	0	Rainbow (5 Suits)	2021-01-04 — 01:55:42 UTC	CaitlinSmith, liquidNitrogen	248	5	25
-391129	2	25	No Variant	2021-01-03 — 04:26:21 UTC	CaitlinSmith, eljavi	75	5	25
-391072	2	23	No Variant	2021-01-03 — 03:53:50 UTC	CaitlinSmith, eljavi	75	5	25
-391015	5	23	No Variant	2021-01-03 — 03:15:10 UTC	CaitlinSmith, rahsosprout, torp, wump, wvh	29	5	25
+394739	4	0	6 Suits	2021-01-06 — 20:39:46 UTC	CaitlinSmith, diael, Kyle, Vensahn	152	6	30
+394695	4	30	6 Suits	2021-01-06 — 19:55:57 UTC	CaitlinSmith, MangoPie, rahsosprout, will.i.am	193	6	30
+394642	4	22	Rainbow (5 Suits)	2021-01-06 — 19:07:28 UTC	CaitlinSmith, rahsosprout, Spieler42, wump	28	5	25
+394619	4	0	Rainbow (5 Suits)	2021-01-06 — 18:28:18 UTC	CaitlinSmith, rahsosprout, Spieler42, wump	31	5	25
+392214	2	22	Black (5 Suits)	2021-01-04 — 04:54:19 UTC	CaitlinSmith, davidwillwinn	222	5	25
+392203	2	21	Black (5 Suits)	2021-01-04 — 04:41:55 UTC	CaitlinSmith, davidwillwinn	250	5	25
+392080	2	25	No Variant	2021-01-04 — 03:08:21 UTC	CaitlinSmith, liquidNitrogen	75	5	25
+392064	2	0	No Variant	2021-01-04 — 02:57:43 UTC	CaitlinSmith, liquidNitrogen	75	5	25
+392053	2	25	No Variant	2021-01-04 — 02:50:29 UTC	CaitlinSmith, liquidNitrogen	76	5	25
+392026	2	20	Rainbow (5 Suits)	2021-01-04 — 02:28:49 UTC	CaitlinSmith, liquidNitrogen	159	5	25
+391987	2	0	Rainbow (5 Suits)	2021-01-04 — 01:55:42 UTC	CaitlinSmith, liquidNitrogen	257	5	25
+391129	2	25	No Variant	2021-01-03 — 04:26:21 UTC	CaitlinSmith, eljavi	77	5	25
+391072	2	23	No Variant	2021-01-03 — 03:53:50 UTC	CaitlinSmith, eljavi	76	5	25
+391015	5	23	No Variant	2021-01-03 — 03:15:10 UTC	CaitlinSmith, rahsosprout, torp, wump, wvh	30	5	25
 390950	5	22	Rainbow (5 Suits)	2021-01-03 — 02:31:14 UTC	CaitlinSmith, rahsosprout, torp, wump, wvh	23	5	25
 390923	5	0	Rainbow (5 Suits)	2021-01-03 — 02:10:08 UTC	CaitlinSmith, rahsosprout, torp, wump, wvh	26	5	25
-390906	4	25	Rainbow (5 Suits)	2021-01-03 — 01:50:52 UTC	CaitlinSmith, geenar, rahsosprout, wump	32	5	25
-390874	3	0	Rainbow (5 Suits)	2021-01-03 — 01:30:42 UTC	CaitlinSmith, rahsosprout, wump	57	5	25
-390851	2	19	Rainbow (4 Suits)	2021-01-03 — 01:12:16 UTC	CaitlinSmith, wump	132	4	20
-390551	4	24	No Variant	2021-01-02 — 20:40:58 UTC	CaitlinSmith, HariKrishnan, Pimak, Spieler42	373	5	25
-390106	2	0	No Variant	2021-01-02 — 06:51:46 UTC	CaitlinSmith, liquidNitrogen	77	5	25
-390102	2	25	No Variant	2021-01-02 — 06:47:09 UTC	CaitlinSmith, liquidNitrogen	78	5	25
-390094	2	22	No Variant	2021-01-02 — 06:40:26 UTC	CaitlinSmith, liquidNitrogen	78	5	25
-390088	2	23	No Variant	2021-01-02 — 06:26:47 UTC	CaitlinSmith, liquidNitrogen	77	5	25
-390065	5	0	No Variant	2021-01-02 — 05:47:08 UTC	CaitlinSmith, eljavi, rahsosprout, ricardodd, torp	1510	5	25
-390042	5	0	No Variant	2021-01-02 — 05:20:51 UTC	CaitlinSmith, eljavi, rahsosprout, ricardodd, torp	1995	5	25
-390023	3	27	6 Suits	2021-01-02 — 05:03:06 UTC	CaitlinSmith, nwajfromoz, wump	66	6	30
-389987	2	16	White (4 Suits)	2021-01-02 — 04:24:01 UTC	CaitlinSmith, wump	94	4	20
-389966	2	25	No Variant	2021-01-02 — 04:03:50 UTC	CaitlinSmith, wump	78	5	25
-389606	3	22	No Variant	2021-01-01 — 22:03:42 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog	199	5	25
-389587	3	0	No Variant	2021-01-01 — 21:39:16 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog	206	5	25
-389573	3	0	No Variant	2021-01-01 — 21:29:54 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog	213	5	25
-389564	3	0	No Variant	2021-01-01 — 21:23:32 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog	218	5	25
-389557	3	0	No Variant	2021-01-01 — 21:17:04 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog	223	5	25
-389550	3	0	No Variant	2021-01-01 — 21:09:52 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog	259	5	25
-389535	3	0	No Variant	2021-01-01 — 20:59:49 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog	269	5	25
-389455	2	30	6 Suits	2021-01-01 — 18:48:29 UTC	Bud_meister, CaitlinSmith	132	6	30
-389439	2	30	6 Suits	2021-01-01 — 18:28:18 UTC	Bud_meister, CaitlinSmith	137	6	30
-389423	2	28	6 Suits	2021-01-01 — 17:50:12 UTC	Bud_meister, CaitlinSmith	147	6	30
-388939	3	23	No Variant	2021-01-01 — 05:46:16 UTC	CaitlinSmith, StanMarsh, torp	220	5	25
-388912	3	25	No Variant	2021-01-01 — 05:24:52 UTC	CaitlinSmith, StanMarsh, torp	224	5	25
-388882	3	24	No Variant	2021-01-01 — 04:58:47 UTC	CaitlinSmith, StanMarsh, torp	243	5	25
+390906	4	25	Rainbow (5 Suits)	2021-01-03 — 01:50:52 UTC	CaitlinSmith, geenar, rahsosprout, wump	34	5	25
+390874	3	0	Rainbow (5 Suits)	2021-01-03 — 01:30:42 UTC	CaitlinSmith, rahsosprout, wump	59	5	25
+390851	2	19	Rainbow (4 Suits)	2021-01-03 — 01:12:16 UTC	CaitlinSmith, wump	135	4	20
+390551	4	24	No Variant	2021-01-02 — 20:40:58 UTC	CaitlinSmith, HariKrishnan, Pimak, Spieler42	376	5	25
+390106	2	0	No Variant	2021-01-02 — 06:51:46 UTC	CaitlinSmith, liquidNitrogen	78	5	25
+390102	2	25	No Variant	2021-01-02 — 06:47:09 UTC	CaitlinSmith, liquidNitrogen	79	5	25
+390094	2	22	No Variant	2021-01-02 — 06:40:26 UTC	CaitlinSmith, liquidNitrogen	79	5	25
+390088	2	23	No Variant	2021-01-02 — 06:26:47 UTC	CaitlinSmith, liquidNitrogen	78	5	25
+390065	5	0	No Variant	2021-01-02 — 05:47:08 UTC	CaitlinSmith, eljavi, rahsosprout, ricardodd, torp	1518	5	25
+390042	5	0	No Variant	2021-01-02 — 05:20:51 UTC	CaitlinSmith, eljavi, rahsosprout, ricardodd, torp	2011	5	25
+390023	3	27	6 Suits	2021-01-02 — 05:03:06 UTC	CaitlinSmith, nwajfromoz, wump	68	6	30
+389987	2	16	White (4 Suits)	2021-01-02 — 04:24:01 UTC	CaitlinSmith, wump	100	4	20
+389966	2	25	No Variant	2021-01-02 — 04:03:50 UTC	CaitlinSmith, wump	79	5	25
+389606	3	22	No Variant	2021-01-01 — 22:03:42 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog	202	5	25
+389587	3	0	No Variant	2021-01-01 — 21:39:16 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog	209	5	25
+389573	3	0	No Variant	2021-01-01 — 21:29:54 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog	218	5	25
+389564	3	0	No Variant	2021-01-01 — 21:23:32 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog	223	5	25
+389557	3	0	No Variant	2021-01-01 — 21:17:04 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog	228	5	25
+389550	3	0	No Variant	2021-01-01 — 21:09:52 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog	261	5	25
+389535	3	0	No Variant	2021-01-01 — 20:59:49 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog	272	5	25
+389455	2	30	6 Suits	2021-01-01 — 18:48:29 UTC	Bud_meister, CaitlinSmith	135	6	30
+389439	2	30	6 Suits	2021-01-01 — 18:28:18 UTC	Bud_meister, CaitlinSmith	140	6	30
+389423	2	28	6 Suits	2021-01-01 — 17:50:12 UTC	Bud_meister, CaitlinSmith	150	6	30
+388939	3	23	No Variant	2021-01-01 — 05:46:16 UTC	CaitlinSmith, StanMarsh, torp	224	5	25
+388912	3	25	No Variant	2021-01-01 — 05:24:52 UTC	CaitlinSmith, StanMarsh, torp	227	5	25
+388882	3	24	No Variant	2021-01-01 — 04:58:47 UTC	CaitlinSmith, StanMarsh, torp	246	5	25
 388847	4	30	6 Suits	2021-01-01 — 04:20:57 UTC	bjnh, CaitlinSmith, ejwu, rz	81	6	30
 388819	4	0	6 Suits	2021-01-01 — 03:45:15 UTC	bjnh, CaitlinSmith, ejwu, rz	92	6	30
-388796	4	0	No Variant	2021-01-01 — 03:11:38 UTC	bjnh, CaitlinSmith, diael, rahsosprout	655	5	25
-388763	2	23	No Variant	2021-01-01 — 02:40:48 UTC	CaitlinSmith, Hank_the_Cowdog	77	5	25
-388746	2	0	No Variant	2021-01-01 — 02:27:03 UTC	CaitlinSmith, Hank_the_Cowdog	77	5	25
-388720	2	21	No Variant	2021-01-01 — 02:01:32 UTC	CaitlinSmith, Hank_the_Cowdog	78	5	25
-388679	4	0	No Variant	2021-01-01 — 01:11:14 UTC	CaitlinSmith, colton, IsabeltheCat, ksfortson	384	5	25
-388675	4	0	No Variant	2021-01-01 — 01:02:19 UTC	CaitlinSmith, colton, IsabeltheCat, ksfortson	541	5	25
+388796	4	0	No Variant	2021-01-01 — 03:11:38 UTC	bjnh, CaitlinSmith, diael, rahsosprout	660	5	25
+388763	2	23	No Variant	2021-01-01 — 02:40:48 UTC	CaitlinSmith, Hank_the_Cowdog	78	5	25
+388746	2	0	No Variant	2021-01-01 — 02:27:03 UTC	CaitlinSmith, Hank_the_Cowdog	78	5	25
+388720	2	21	No Variant	2021-01-01 — 02:01:32 UTC	CaitlinSmith, Hank_the_Cowdog	79	5	25
+388679	4	0	No Variant	2021-01-01 — 01:11:14 UTC	CaitlinSmith, colton, IsabeltheCat, ksfortson	387	5	25
+388675	4	0	No Variant	2021-01-01 — 01:02:19 UTC	CaitlinSmith, colton, IsabeltheCat, ksfortson	548	5	25
 388017	2	30	White (6 Suits)	2020-12-31 — 05:30:18 UTC	CaitlinSmith, StKildaFan	32	6	30
-387998	2	0	White (6 Suits)	2020-12-31 — 05:13:52 UTC	CaitlinSmith, StKildaFan	36	6	30
-387995	2	0	White (6 Suits)	2020-12-31 — 05:11:22 UTC	CaitlinSmith, StKildaFan	48	6	30
+387998	2	0	White (6 Suits)	2020-12-31 — 05:13:52 UTC	CaitlinSmith, StKildaFan	37	6	30
+387995	2	0	White (6 Suits)	2020-12-31 — 05:11:22 UTC	CaitlinSmith, StKildaFan	49	6	30
 387990	2	0	White (6 Suits)	2020-12-31 — 05:04:13 UTC	CaitlinSmith, StKildaFan	55	6	30
-387977	2	0	4 Suits	2020-12-31 — 04:46:25 UTC	CaitlinSmith, doctorabi	128	4	20
-387941	4	0	No Variant	2020-12-31 — 04:18:27 UTC	CaitlinSmith, pianoblook, PMP, voss	28	5	25
-387938	4	25	No Variant	2020-12-31 — 04:17:29 UTC	CaitlinSmith, pianoblook, PMP, voss	26	5	25
-387878	3	25	White (5 Suits)	2020-12-31 — 03:39:20 UTC	CaitlinSmith, colton, StKildaFan	29	5	25
+387977	2	0	4 Suits	2020-12-31 — 04:46:25 UTC	CaitlinSmith, doctorabi	134	4	20
+387941	4	0	No Variant	2020-12-31 — 04:18:27 UTC	CaitlinSmith, pianoblook, PMP, voss	29	5	25
+387938	4	25	No Variant	2020-12-31 — 04:17:29 UTC	CaitlinSmith, pianoblook, PMP, voss	27	5	25
+387878	3	25	White (5 Suits)	2020-12-31 — 03:39:20 UTC	CaitlinSmith, colton, StKildaFan	30	5	25
 387859	2	20	4 Suits	2020-12-31 — 03:19:40 UTC	CaitlinSmith, StKildaFan	17	4	20
 387831	2	18	4 Suits	2020-12-31 — 03:02:19 UTC	CaitlinSmith, StKildaFan	17	4	20
 387819	2	0	4 Suits	2020-12-31 — 02:53:53 UTC	CaitlinSmith, StKildaFan	17	4	20
 387803	2	20	4 Suits	2020-12-31 — 02:45:58 UTC	CaitlinSmith, StKildaFan	18	4	20
-387762	3	19	4 Suits	2020-12-31 — 02:16:42 UTC	CaitlinSmith, ksfortson, voss	118	4	20
-387714	2	19	4 Suits	2020-12-31 — 01:48:26 UTC	CaitlinSmith, liquidNitrogen	171	4	20
-387688	2	17	4 Suits	2020-12-31 — 01:22:52 UTC	CaitlinSmith, liquidNitrogen	244	4	20
-387680	2	22	6 Suits	2020-12-31 — 01:13:17 UTC	CaitlinSmith, liquidNitrogen	160	6	30
-387041	3	0	4 Suits	2020-12-30 — 06:08:56 UTC	CaitlinSmith, tenbens1010, vEnhance	29	4	20
+387762	3	19	4 Suits	2020-12-31 — 02:16:42 UTC	CaitlinSmith, ksfortson, voss	120	4	20
+387714	2	19	4 Suits	2020-12-31 — 01:48:26 UTC	CaitlinSmith, liquidNitrogen	177	4	20
+387688	2	17	4 Suits	2020-12-31 — 01:22:52 UTC	CaitlinSmith, liquidNitrogen	248	4	20
+387680	2	22	6 Suits	2020-12-31 — 01:13:17 UTC	CaitlinSmith, liquidNitrogen	163	6	30
+387041	3	0	4 Suits	2020-12-30 — 06:08:56 UTC	CaitlinSmith, tenbens1010, vEnhance	30	4	20
 387024	3	0	4 Suits	2020-12-30 — 05:51:16 UTC	CaitlinSmith, tenbens1010, vEnhance	31	4	20
 387002	3	17	4 Suits	2020-12-30 — 05:28:29 UTC	CaitlinSmith, tenbens1010, vEnhance	34	4	20
-386975	3	17	4 Suits	2020-12-30 — 05:04:52 UTC	CaitlinSmith, tenbens1010, vEnhance	44	4	20
-386957	3	0	4 Suits	2020-12-30 — 04:45:40 UTC	CaitlinSmith, tenbens1010, vEnhance	59	4	20
-386934	2	30	6 Suits	2020-12-30 — 04:22:49 UTC	CaitlinSmith, vEnhance	169	6	30
+386975	3	17	4 Suits	2020-12-30 — 05:04:52 UTC	CaitlinSmith, tenbens1010, vEnhance	45	4	20
+386957	3	0	4 Suits	2020-12-30 — 04:45:40 UTC	CaitlinSmith, tenbens1010, vEnhance	60	4	20
+386934	2	30	6 Suits	2020-12-30 — 04:22:49 UTC	CaitlinSmith, vEnhance	172	6	30
 384713	4	27	6 Suits	2020-12-28 — 05:13:10 UTC	CaitlinSmith, colton, ksfortson, wump	100	6	30
-384626	3	30	6 Suits	2020-12-28 — 03:52:27 UTC	CaitlinSmith, eljavi, segfalt	70	6	30
+384626	3	30	6 Suits	2020-12-28 — 03:52:27 UTC	CaitlinSmith, eljavi, segfalt	72	6	30
 384578	3	0	6 Suits	2020-12-28 — 03:15:59 UTC	CaitlinSmith, Macsgirl, segfalt	76	6	30
-384549	3	29	6 Suits	2020-12-28 — 02:50:45 UTC	bjnh, CaitlinSmith, stinebean	83	6	30
+384549	3	29	6 Suits	2020-12-28 — 02:50:45 UTC	bjnh, CaitlinSmith, stinebean	84	6	30
 384508	3	28	6 Suits	2020-12-28 — 02:12:37 UTC	bjnh, CaitlinSmith, stinebean	93	6	30
-384489	2	24	6 Suits	2020-12-28 — 01:49:43 UTC	CaitlinSmith, sergovoy	174	6	30
-384155	2	27	6 Suits	2020-12-27 — 20:48:22 UTC	CaitlinSmith, macanek	180	6	30
-384139	2	0	6 Suits	2020-12-27 — 20:22:48 UTC	CaitlinSmith, macanek	189	6	30
-384110	2	29	6 Suits	2020-12-27 — 19:58:37 UTC	CaitlinSmith, macanek	200	6	30
-384088	2	26	6 Suits	2020-12-27 — 19:39:58 UTC	CaitlinSmith, macanek	207	6	30
-384040	2	0	6 Suits	2020-12-27 — 18:56:03 UTC	CaitlinSmith, macanek	211	6	30
-383181	3	26	6 Suits	2020-12-26 — 23:00:58 UTC	CaitlinSmith, liquidNitrogen, nv	99	6	30
-382510	2	27	6 Suits	2020-12-26 — 05:41:42 UTC	CaitlinSmith, lavamitt	221	6	30
-382438	2	25	6 Suits	2020-12-26 — 04:52:28 UTC	CaitlinSmith, lavamitt	236	6	30
-381545	2	27	6 Suits	2020-12-25 — 06:01:19 UTC	CaitlinSmith, liquidNitrogen	248	6	30
-381503	2	26	6 Suits	2020-12-25 — 05:30:22 UTC	CaitlinSmith, liquidNitrogen	274	6	30
-381481	2	0	6 Suits	2020-12-25 — 05:12:07 UTC	CaitlinSmith, liquidNitrogen	304	6	30
-381426	3	27	6 Suits	2020-12-25 — 04:39:06 UTC	CaitlinSmith, liquidNitrogen, PMP	112	6	30
-381372	3	0	6 Suits	2020-12-25 — 03:57:59 UTC	CaitlinSmith, liquidNitrogen, PMP	126	6	30
-381333	2	23	6 Suits	2020-12-25 — 03:25:20 UTC	CaitlinSmith, liquidNitrogen	340	6	30
+384489	2	24	6 Suits	2020-12-28 — 01:49:43 UTC	CaitlinSmith, sergovoy	179	6	30
+384155	2	27	6 Suits	2020-12-27 — 20:48:22 UTC	CaitlinSmith, macanek	185	6	30
+384139	2	0	6 Suits	2020-12-27 — 20:22:48 UTC	CaitlinSmith, macanek	193	6	30
+384110	2	29	6 Suits	2020-12-27 — 19:58:37 UTC	CaitlinSmith, macanek	204	6	30
+384088	2	26	6 Suits	2020-12-27 — 19:39:58 UTC	CaitlinSmith, macanek	211	6	30
+384040	2	0	6 Suits	2020-12-27 — 18:56:03 UTC	CaitlinSmith, macanek	215	6	30
+383181	3	26	6 Suits	2020-12-26 — 23:00:58 UTC	CaitlinSmith, liquidNitrogen, nv	100	6	30
+382510	2	27	6 Suits	2020-12-26 — 05:41:42 UTC	CaitlinSmith, lavamitt	225	6	30
+382438	2	25	6 Suits	2020-12-26 — 04:52:28 UTC	CaitlinSmith, lavamitt	240	6	30
+381545	2	27	6 Suits	2020-12-25 — 06:01:19 UTC	CaitlinSmith, liquidNitrogen	253	6	30
+381503	2	26	6 Suits	2020-12-25 — 05:30:22 UTC	CaitlinSmith, liquidNitrogen	280	6	30
+381481	2	0	6 Suits	2020-12-25 — 05:12:07 UTC	CaitlinSmith, liquidNitrogen	315	6	30
+381426	3	27	6 Suits	2020-12-25 — 04:39:06 UTC	CaitlinSmith, liquidNitrogen, PMP	113	6	30
+381372	3	0	6 Suits	2020-12-25 — 03:57:59 UTC	CaitlinSmith, liquidNitrogen, PMP	128	6	30
+381333	2	23	6 Suits	2020-12-25 — 03:25:20 UTC	CaitlinSmith, liquidNitrogen	352	6	30
 381286	6	17	4 Suits	2020-12-25 — 02:32:15 UTC	CaitlinSmith, eljavi, emilyzhao, jeff10, Lanvin, zeyaoli	17	4	20
-381199	3	0	No Variant	2020-12-24 — 23:52:01 UTC	CaitlinSmith, macanek, sean1815	250	5	25
-381181	2	21	No Variant	2020-12-24 — 23:21:42 UTC	CaitlinSmith, macanek	77	5	25
-381150	2	0	No Variant	2020-12-24 — 22:33:15 UTC	CaitlinSmith, macanek	77	5	25
-380978	3	22	Dark Pink (5 Suits)	2020-12-24 — 18:29:54 UTC	CaitlinSmith, PMP, robense	42	5	25
-380680	4	0	6 Suits	2020-12-24 — 05:14:30 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog, Scarletfox	250	6	30
-380647	4	0	6 Suits	2020-12-24 — 04:32:56 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog, Scarletfox	354	6	30
-379543	3	25	6 Suits	2020-12-23 — 04:51:59 UTC	CaitlinSmith, liquidNitrogen, nv	132	6	30
-379499	3	28	6 Suits	2020-12-23 — 04:22:26 UTC	CaitlinSmith, liquidNitrogen, nv	147	6	30
-379466	3	28	6 Suits	2020-12-23 — 03:57:36 UTC	CaitlinSmith, liquidNitrogen, nv	168	6	30
-379430	3	28	6 Suits	2020-12-23 — 03:31:24 UTC	CaitlinSmith, liquidNitrogen, nv	196	6	30
-379383	2	29	6 Suits	2020-12-23 — 02:59:15 UTC	CaitlinSmith, liquidNitrogen	378	6	30
-379353	2	28	6 Suits	2020-12-23 — 02:46:00 UTC	CaitlinSmith, liquidNitrogen	401	6	30
-379336	2	27	6 Suits	2020-12-23 — 02:27:52 UTC	CaitlinSmith, liquidNitrogen	444	6	30
-379316	2	21	6 Suits	2020-12-23 — 02:13:16 UTC	CaitlinSmith, liquidNitrogen	505	6	30
-379148	3	0	6 Suits	2020-12-22 — 22:10:26 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog	252	6	30
-379116	3	28	6 Suits	2020-12-22 — 21:39:42 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog	305	6	30
-379017	2	20	6 Suits	2020-12-22 — 20:20:07 UTC	CaitlinSmith, davidwillwinn	593	6	30
-379004	2	24	6 Suits	2020-12-22 — 20:01:25 UTC	CaitlinSmith, davidwillwinn	666	6	30
-378989	2	0	6 Suits	2020-12-22 — 19:40:50 UTC	CaitlinSmith, davidwillwinn	851	6	30
-370705	3	0	6 Suits	2020-12-14 — 05:46:41 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog	365	6	30
-370670	3	0	6 Suits	2020-12-14 — 05:03:57 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog	503	6	30
-370653	3	24	No Variant	2020-12-14 — 04:44:53 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog	275	5	25
-360289	2	22	No Variant	2020-12-04 — 04:50:48 UTC	anov26, CaitlinSmith	80	5	25
-360267	2	18	No Variant	2020-12-04 — 04:38:58 UTC	anov26, CaitlinSmith	81	5	25
-360249	2	22	No Variant	2020-12-04 — 04:25:34 UTC	anov26, CaitlinSmith	79	5	25
-360236	2	23	No Variant	2020-12-04 — 04:12:27 UTC	anov26, CaitlinSmith	79	5	25
-358047	2	23	No Variant	2020-12-01 — 04:21:49 UTC	CaitlinSmith, davidwillwinn	81	5	25
-358039	2	23	No Variant	2020-12-01 — 04:08:52 UTC	CaitlinSmith, davidwillwinn	80	5	25
-349280	3	0	No Variant	2020-11-21 — 03:50:42 UTC	adorablepanda, CaitlinSmith, liquidNitrogen	285	5	25
-349268	3	23	No Variant	2020-11-21 — 03:41:29 UTC	adorablepanda, CaitlinSmith, liquidNitrogen	307	5	25
-349221	2	22	No Variant	2020-11-21 — 03:15:51 UTC	CaitlinSmith, liquidNitrogen	84	5	25
-349201	2	24	No Variant	2020-11-21 — 03:01:56 UTC	CaitlinSmith, liquidNitrogen	84	5	25
-348437	2	22	No Variant	2020-11-20 — 04:52:43 UTC	CaitlinSmith, subjectcone3981	85	5	25
-348421	2	22	No Variant	2020-11-20 — 04:30:49 UTC	CaitlinSmith, subjectcone3981	85	5	25
-347473	2	23	No Variant	2020-11-19 — 02:29:53 UTC	CaitlinSmith, davidwillwinn	85	5	25
-347456	2	23	No Variant	2020-11-19 — 02:09:26 UTC	CaitlinSmith, davidwillwinn	86	5	25
-347438	2	0	No Variant	2020-11-19 — 01:52:14 UTC	CaitlinSmith, davidwillwinn	86	5	25
-346694	2	20	No Variant	2020-11-18 — 02:17:15 UTC	CaitlinSmith, liquidNitrogen	86	5	25
-346670	2	23	No Variant	2020-11-18 — 02:01:01 UTC	CaitlinSmith, liquidNitrogen	86	5	25
-346660	2	25	No Variant	2020-11-18 — 01:46:51 UTC	CaitlinSmith, liquidNitrogen	87	5	25
-346654	2	23	No Variant	2020-11-18 — 01:38:12 UTC	CaitlinSmith, liquidNitrogen	88	5	25
-346644	2	23	No Variant	2020-11-18 — 01:26:08 UTC	CaitlinSmith, liquidNitrogen	90	5	25
-346635	2	25	No Variant	2020-11-18 — 01:17:55 UTC	CaitlinSmith, liquidNitrogen	90	5	25
-341933	2	0	No Variant	2020-11-12 — 23:23:40 UTC	CaitlinSmith, davidwillwinn	90	5	25
-341206	2	0	No Variant	2020-11-12 — 01:13:28 UTC	CaitlinSmith, liquidNitrogen	90	5	25
-341192	2	23	No Variant	2020-11-12 — 00:35:27 UTC	CaitlinSmith, liquidNitrogen	91	5	25
-339791	2	23	No Variant	2020-11-10 — 04:05:55 UTC	CaitlinSmith, liquidNitrogen	92	5	25
-339778	2	25	No Variant	2020-11-10 — 03:53:27 UTC	CaitlinSmith, liquidNitrogen	93	5	25
-339768	2	20	No Variant	2020-11-10 — 03:45:24 UTC	CaitlinSmith, liquidNitrogen	92	5	25
-339745	2	25	No Variant	2020-11-10 — 03:29:39 UTC	CaitlinSmith, liquidNitrogen	92	5	25
-339731	2	23	No Variant	2020-11-10 — 03:22:10 UTC	CaitlinSmith, liquidNitrogen	93	5	25
-339723	2	22	No Variant	2020-11-10 — 03:14:36 UTC	CaitlinSmith, liquidNitrogen	93	5	25
-339701	2	25	No Variant	2020-11-10 — 03:01:56 UTC	CaitlinSmith, liquidNitrogen	96	5	25
-339691	2	23	No Variant	2020-11-10 — 02:53:01 UTC	CaitlinSmith, liquidNitrogen	96	5	25
-338080	2	0	No Variant	2020-11-08 — 03:54:52 UTC	CaitlinSmith, liquidNitrogen	96	5	25
-338063	2	22	No Variant	2020-11-08 — 03:24:36 UTC	CaitlinSmith, liquidNitrogen	97	5	25
-338036	2	22	No Variant	2020-11-08 — 02:57:46 UTC	CaitlinSmith, liquidNitrogen	97	5	25
-338020	2	24	No Variant	2020-11-08 — 02:43:10 UTC	CaitlinSmith, liquidNitrogen	98	5	25
-338012	2	24	No Variant	2020-11-08 — 02:28:41 UTC	CaitlinSmith, liquidNitrogen	99	5	25
-337997	2	23	No Variant	2020-11-08 — 02:14:02 UTC	CaitlinSmith, liquidNitrogen	100	5	25
+381199	3	0	No Variant	2020-12-24 — 23:52:01 UTC	CaitlinSmith, macanek, sean1815	252	5	25
+381181	2	21	No Variant	2020-12-24 — 23:21:42 UTC	CaitlinSmith, macanek	78	5	25
+381150	2	0	No Variant	2020-12-24 — 22:33:15 UTC	CaitlinSmith, macanek	78	5	25
+380978	3	22	Dark Pink (5 Suits)	2020-12-24 — 18:29:54 UTC	CaitlinSmith, PMP, robense	44	5	25
+380680	4	0	6 Suits	2020-12-24 — 05:14:30 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog, Scarletfox	252	6	30
+380647	4	0	6 Suits	2020-12-24 — 04:32:56 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog, Scarletfox	359	6	30
+379543	3	25	6 Suits	2020-12-23 — 04:51:59 UTC	CaitlinSmith, liquidNitrogen, nv	133	6	30
+379499	3	28	6 Suits	2020-12-23 — 04:22:26 UTC	CaitlinSmith, liquidNitrogen, nv	149	6	30
+379466	3	28	6 Suits	2020-12-23 — 03:57:36 UTC	CaitlinSmith, liquidNitrogen, nv	169	6	30
+379430	3	28	6 Suits	2020-12-23 — 03:31:24 UTC	CaitlinSmith, liquidNitrogen, nv	199	6	30
+379383	2	29	6 Suits	2020-12-23 — 02:59:15 UTC	CaitlinSmith, liquidNitrogen	388	6	30
+379353	2	28	6 Suits	2020-12-23 — 02:46:00 UTC	CaitlinSmith, liquidNitrogen	413	6	30
+379336	2	27	6 Suits	2020-12-23 — 02:27:52 UTC	CaitlinSmith, liquidNitrogen	453	6	30
+379316	2	21	6 Suits	2020-12-23 — 02:13:16 UTC	CaitlinSmith, liquidNitrogen	513	6	30
+379148	3	0	6 Suits	2020-12-22 — 22:10:26 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog	256	6	30
+379116	3	28	6 Suits	2020-12-22 — 21:39:42 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog	311	6	30
+379017	2	20	6 Suits	2020-12-22 — 20:20:07 UTC	CaitlinSmith, davidwillwinn	601	6	30
+379004	2	24	6 Suits	2020-12-22 — 20:01:25 UTC	CaitlinSmith, davidwillwinn	675	6	30
+378989	2	0	6 Suits	2020-12-22 — 19:40:50 UTC	CaitlinSmith, davidwillwinn	862	6	30
+370705	3	0	6 Suits	2020-12-14 — 05:46:41 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog	371	6	30
+370670	3	0	6 Suits	2020-12-14 — 05:03:57 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog	511	6	30
+370653	3	24	No Variant	2020-12-14 — 04:44:53 UTC	Bud_meister, CaitlinSmith, Hank_the_Cowdog	277	5	25
+360289	2	22	No Variant	2020-12-04 — 04:50:48 UTC	anov26, CaitlinSmith	81	5	25
+360267	2	18	No Variant	2020-12-04 — 04:38:58 UTC	anov26, CaitlinSmith	83	5	25
+360249	2	22	No Variant	2020-12-04 — 04:25:34 UTC	anov26, CaitlinSmith	81	5	25
+360236	2	23	No Variant	2020-12-04 — 04:12:27 UTC	anov26, CaitlinSmith	81	5	25
+358047	2	23	No Variant	2020-12-01 — 04:21:49 UTC	CaitlinSmith, davidwillwinn	84	5	25
+358039	2	23	No Variant	2020-12-01 — 04:08:52 UTC	CaitlinSmith, davidwillwinn	84	5	25
+349280	3	0	No Variant	2020-11-21 — 03:50:42 UTC	adorablepanda, CaitlinSmith, liquidNitrogen	287	5	25
+349268	3	23	No Variant	2020-11-21 — 03:41:29 UTC	adorablepanda, CaitlinSmith, liquidNitrogen	311	5	25
+349221	2	22	No Variant	2020-11-21 — 03:15:51 UTC	CaitlinSmith, liquidNitrogen	86	5	25
+349201	2	24	No Variant	2020-11-21 — 03:01:56 UTC	CaitlinSmith, liquidNitrogen	86	5	25
+348437	2	22	No Variant	2020-11-20 — 04:52:43 UTC	CaitlinSmith, subjectcone3981	86	5	25
+348421	2	22	No Variant	2020-11-20 — 04:30:49 UTC	CaitlinSmith, subjectcone3981	86	5	25
+347473	2	23	No Variant	2020-11-19 — 02:29:53 UTC	CaitlinSmith, davidwillwinn	86	5	25
+347456	2	23	No Variant	2020-11-19 — 02:09:26 UTC	CaitlinSmith, davidwillwinn	87	5	25
+347438	2	0	No Variant	2020-11-19 — 01:52:14 UTC	CaitlinSmith, davidwillwinn	87	5	25
+346694	2	20	No Variant	2020-11-18 — 02:17:15 UTC	CaitlinSmith, liquidNitrogen	87	5	25
+346670	2	23	No Variant	2020-11-18 — 02:01:01 UTC	CaitlinSmith, liquidNitrogen	87	5	25
+346660	2	25	No Variant	2020-11-18 — 01:46:51 UTC	CaitlinSmith, liquidNitrogen	88	5	25
+346654	2	23	No Variant	2020-11-18 — 01:38:12 UTC	CaitlinSmith, liquidNitrogen	90	5	25
+346644	2	23	No Variant	2020-11-18 — 01:26:08 UTC	CaitlinSmith, liquidNitrogen	92	5	25
+346635	2	25	No Variant	2020-11-18 — 01:17:55 UTC	CaitlinSmith, liquidNitrogen	92	5	25
+341933	2	0	No Variant	2020-11-12 — 23:23:40 UTC	CaitlinSmith, davidwillwinn	92	5	25
+341206	2	0	No Variant	2020-11-12 — 01:13:28 UTC	CaitlinSmith, liquidNitrogen	91	5	25
+341192	2	23	No Variant	2020-11-12 — 00:35:27 UTC	CaitlinSmith, liquidNitrogen	92	5	25
+339791	2	23	No Variant	2020-11-10 — 04:05:55 UTC	CaitlinSmith, liquidNitrogen	93	5	25
+339778	2	25	No Variant	2020-11-10 — 03:53:27 UTC	CaitlinSmith, liquidNitrogen	94	5	25
+339768	2	20	No Variant	2020-11-10 — 03:45:24 UTC	CaitlinSmith, liquidNitrogen	93	5	25
+339745	2	25	No Variant	2020-11-10 — 03:29:39 UTC	CaitlinSmith, liquidNitrogen	93	5	25
+339731	2	23	No Variant	2020-11-10 — 03:22:10 UTC	CaitlinSmith, liquidNitrogen	94	5	25
+339723	2	22	No Variant	2020-11-10 — 03:14:36 UTC	CaitlinSmith, liquidNitrogen	94	5	25
+339701	2	25	No Variant	2020-11-10 — 03:01:56 UTC	CaitlinSmith, liquidNitrogen	98	5	25
+339691	2	23	No Variant	2020-11-10 — 02:53:01 UTC	CaitlinSmith, liquidNitrogen	98	5	25
+338080	2	0	No Variant	2020-11-08 — 03:54:52 UTC	CaitlinSmith, liquidNitrogen	98	5	25
+338063	2	22	No Variant	2020-11-08 — 03:24:36 UTC	CaitlinSmith, liquidNitrogen	98	5	25
+338036	2	22	No Variant	2020-11-08 — 02:57:46 UTC	CaitlinSmith, liquidNitrogen	98	5	25
+338020	2	24	No Variant	2020-11-08 — 02:43:10 UTC	CaitlinSmith, liquidNitrogen	99	5	25
+338012	2	24	No Variant	2020-11-08 — 02:28:41 UTC	CaitlinSmith, liquidNitrogen	100	5	25
+337997	2	23	No Variant	2020-11-08 — 02:14:02 UTC	CaitlinSmith, liquidNitrogen	101	5	25
 337988	2	25	No Variant	2020-11-08 — 02:01:56 UTC	CaitlinSmith, liquidNitrogen	101	5	25
 337978	2	0	No Variant	2020-11-08 — 01:49:30 UTC	CaitlinSmith, liquidNitrogen	102	5	25
 337970	2	24	No Variant	2020-11-08 — 01:35:58 UTC	CaitlinSmith, liquidNitrogen	101	5	25
@@ -851,203 +851,203 @@
 329573	2	25	No Variant	2020-10-28 — 02:04:18 UTC	CaitlinSmith, liquidNitrogen	108	5	25
 329563	2	25	No Variant	2020-10-28 — 01:51:16 UTC	CaitlinSmith, liquidNitrogen	109	5	25
 329540	2	20	No Variant	2020-10-28 — 01:26:35 UTC	CaitlinSmith, liquidNitrogen	109	5	25
-329523	2	20	No Variant	2020-10-28 — 01:02:51 UTC	CaitlinSmith, liquidNitrogen	108	5	25
-329518	2	0	No Variant	2020-10-28 — 00:50:59 UTC	CaitlinSmith, liquidNitrogen	108	5	25
-329513	2	19	No Variant	2020-10-28 — 00:38:10 UTC	CaitlinSmith, liquidNitrogen	109	5	25
-329503	2	23	No Variant	2020-10-28 — 00:19:42 UTC	CaitlinSmith, liquidNitrogen	109	5	25
-329496	2	0	No Variant	2020-10-28 — 00:02:40 UTC	CaitlinSmith, liquidNitrogen	109	5	25
-278874	2	22	No Variant	2020-08-23 — 23:21:48 UTC	Bud_meister, CaitlinSmith	109	5	25
-278834	2	19	No Variant	2020-08-23 — 22:33:42 UTC	Bud_meister, CaitlinSmith	110	5	25
-262043	2	18	No Variant	2020-08-05 — 01:11:54 UTC	CaitlinSmith, Thefirstwaldo	115	5	25
-259573	2	25	No Variant	2020-08-03 — 02:44:31 UTC	CaitlinSmith, Thefirstwaldo	116	5	25
-259533	2	23	No Variant	2020-08-03 — 02:18:22 UTC	CaitlinSmith, Thefirstwaldo	118	5	25
-259481	2	19	No Variant	2020-08-03 — 01:50:55 UTC	CaitlinSmith, Thefirstwaldo	114	5	25
-258670	2	18	No Variant	2020-08-02 — 03:48:49 UTC	CaitlinSmith, Thefirstwaldo	117	5	25
-258640	2	21	No Variant	2020-08-02 — 03:30:33 UTC	CaitlinSmith, Thefirstwaldo	117	5	25
-258626	2	0	No Variant	2020-08-02 — 03:12:47 UTC	CaitlinSmith, Thefirstwaldo	117	5	25
-258613	2	0	No Variant	2020-08-02 — 03:00:28 UTC	CaitlinSmith, Thefirstwaldo	117	5	25
-256695	2	19	No Variant	2020-07-31 — 03:17:05 UTC	CaitlinSmith, liquidNitrogen	117	5	25
-256675	2	22	No Variant	2020-07-31 — 03:02:12 UTC	CaitlinSmith, liquidNitrogen	119	5	25
-255921	2	17	No Variant	2020-07-30 — 03:31:31 UTC	CaitlinSmith, liquidNitrogen	121	5	25
-255914	2	22	No Variant	2020-07-30 — 03:21:00 UTC	CaitlinSmith, liquidNitrogen	124	5	25
-255906	2	0	No Variant	2020-07-30 — 03:11:15 UTC	CaitlinSmith, liquidNitrogen	124	5	25
-255901	2	18	No Variant	2020-07-30 — 03:03:04 UTC	CaitlinSmith, liquidNitrogen	125	5	25
-255894	2	0	No Variant	2020-07-30 — 02:55:15 UTC	CaitlinSmith, liquidNitrogen	125	5	25
-255877	2	21	No Variant	2020-07-30 — 02:41:58 UTC	CaitlinSmith, liquidNitrogen	125	5	25
-255849	2	22	No Variant	2020-07-30 — 02:17:15 UTC	CaitlinSmith, liquidNitrogen	126	5	25
-255815	2	21	No Variant	2020-07-30 — 01:58:59 UTC	CaitlinSmith, liquidNitrogen	126	5	25
-250272	2	24	No Variant	2020-07-25 — 01:48:14 UTC	CaitlinSmith, davidwillwinn	128	5	25
-250243	2	25	No Variant	2020-07-25 — 01:20:15 UTC	CaitlinSmith, davidwillwinn	132	5	25
-248320	2	22	No Variant	2020-07-23 — 02:13:21 UTC	CaitlinSmith, davidwillwinn	133	5	25
-248299	2	24	No Variant	2020-07-23 — 01:57:04 UTC	CaitlinSmith, davidwillwinn	135	5	25
-246365	2	0	No Variant	2020-07-21 — 02:13:50 UTC	CaitlinSmith, liquidNitrogen	138	5	25
-246351	2	20	No Variant	2020-07-21 — 02:03:41 UTC	CaitlinSmith, liquidNitrogen	139	5	25
-246340	2	0	No Variant	2020-07-21 — 01:52:40 UTC	CaitlinSmith, liquidNitrogen	139	5	25
-245574	2	23	No Variant	2020-07-20 — 02:43:53 UTC	CaitlinSmith, liquidNitrogen	139	5	25
-245566	2	25	No Variant	2020-07-20 — 02:31:52 UTC	CaitlinSmith, liquidNitrogen	142	5	25
-245554	2	22	No Variant	2020-07-20 — 02:12:52 UTC	CaitlinSmith, liquidNitrogen	145	5	25
-245541	2	25	No Variant	2020-07-20 — 01:57:46 UTC	CaitlinSmith, liquidNitrogen	149	5	25
-245526	2	23	No Variant	2020-07-20 — 01:43:26 UTC	CaitlinSmith, liquidNitrogen	152	5	25
-245513	2	24	No Variant	2020-07-20 — 01:27:08 UTC	CaitlinSmith, liquidNitrogen	152	5	25
-231947	2	25	No Variant	2020-07-07 — 02:39:26 UTC	CaitlinSmith, liquidNitrogen	151	5	25
-231936	2	23	No Variant	2020-07-07 — 02:30:19 UTC	CaitlinSmith, liquidNitrogen	151	5	25
-231923	2	23	No Variant	2020-07-07 — 02:21:52 UTC	CaitlinSmith, liquidNitrogen	152	5	25
-217772	2	21	No Variant	2020-06-25 — 02:42:25 UTC	CaitlinSmith, liquidNitrogen	154	5	25
-217754	2	0	No Variant	2020-06-25 — 02:28:20 UTC	CaitlinSmith, liquidNitrogen	154	5	25
-216644	2	23	No Variant	2020-06-24 — 02:53:31 UTC	CaitlinSmith, liquidNitrogen	157	5	25
-169541	3	20	No Variant	2020-05-17 — 02:37:47 UTC	CaitlinSmith, liquidNitrogen, tford73	320	5	25
-169458	2	21	No Variant	2020-05-17 — 01:49:47 UTC	CaitlinSmith, liquidNitrogen	156	5	25
-169434	2	22	No Variant	2020-05-17 — 01:38:04 UTC	CaitlinSmith, liquidNitrogen	159	5	25
-169409	2	19	No Variant	2020-05-17 — 01:23:41 UTC	CaitlinSmith, liquidNitrogen	160	5	25
-162331	2	25	No Variant	2020-05-12 — 00:10:51 UTC	CaitlinSmith, liquidNitrogen	163	5	25
-152471	2	0	No Variant	2020-05-05 — 02:19:59 UTC	CaitlinSmith, liquidNitrogen	163	5	25
-152411	2	24	No Variant	2020-05-05 — 01:49:50 UTC	CaitlinSmith, liquidNitrogen	165	5	25
-152387	2	19	No Variant	2020-05-05 — 01:33:19 UTC	CaitlinSmith, liquidNitrogen	169	5	25
-152327	2	23	No Variant	2020-05-05 — 00:55:11 UTC	CaitlinSmith, liquidNitrogen	170	5	25
-152308	2	24	No Variant	2020-05-05 — 00:39:56 UTC	CaitlinSmith, liquidNitrogen	175	5	25
-144208	2	24	No Variant	2020-04-30 — 02:16:54 UTC	CaitlinSmith, liquidNitrogen	173	5	25
-137062	2	23	No Variant	2020-04-25 — 03:41:31 UTC	CaitlinSmith, liquidNitrogen	178	5	25
-137025	2	17	No Variant	2020-04-25 — 03:32:26 UTC	CaitlinSmith, liquidNitrogen	178	5	25
-135282	2	22	No Variant	2020-04-24 — 03:56:23 UTC	CaitlinSmith, liquidNitrogen	181	5	25
-135258	2	20	No Variant	2020-04-24 — 03:41:51 UTC	CaitlinSmith, liquidNitrogen	180	5	25
-135233	2	21	No Variant	2020-04-24 — 03:32:03 UTC	CaitlinSmith, liquidNitrogen	179	5	25
-135216	2	21	No Variant	2020-04-24 — 03:22:49 UTC	CaitlinSmith, liquidNitrogen	181	5	25
-135180	2	23	No Variant	2020-04-24 — 03:00:56 UTC	CaitlinSmith, liquidNitrogen	185	5	25
-135164	2	0	No Variant	2020-04-24 — 02:52:18 UTC	CaitlinSmith, liquidNitrogen	184	5	25
-135131	2	24	No Variant	2020-04-24 — 02:33:29 UTC	CaitlinSmith, liquidNitrogen	182	5	25
-133856	2	22	No Variant	2020-04-23 — 03:05:22 UTC	CaitlinSmith, liquidNitrogen	186	5	25
-133846	2	24	No Variant	2020-04-23 — 02:56:53 UTC	CaitlinSmith, liquidNitrogen	187	5	25
-132723	3	17	No Variant	2020-04-22 — 03:13:59 UTC	CaitlinSmith, liquidNitrogen, trentonf	324	5	25
-128113	2	25	No Variant	2020-04-19 — 02:14:18 UTC	CaitlinSmith, liquidNitrogen	191	5	25
-128098	2	22	No Variant	2020-04-19 — 02:06:34 UTC	CaitlinSmith, liquidNitrogen	195	5	25
-126615	3	22	No Variant	2020-04-18 — 05:05:19 UTC	CaitlinSmith, liquidNitrogen, trentonf	344	5	25
-126581	3	22	No Variant	2020-04-18 — 04:39:26 UTC	CaitlinSmith, liquidNitrogen, trentonf	354	5	25
-126472	2	23	No Variant	2020-04-18 — 03:41:31 UTC	CaitlinSmith, liquidNitrogen	194	5	25
-126440	2	0	No Variant	2020-04-18 — 03:29:24 UTC	CaitlinSmith, liquidNitrogen	196	5	25
-126430	2	23	No Variant	2020-04-18 — 03:20:25 UTC	CaitlinSmith, liquidNitrogen	194	5	25
-126407	2	0	No Variant	2020-04-18 — 03:10:49 UTC	CaitlinSmith, liquidNitrogen	201	5	25
-126387	2	21	No Variant	2020-04-18 — 03:00:38 UTC	CaitlinSmith, liquidNitrogen	201	5	25
-126375	2	0	No Variant	2020-04-18 — 02:48:18 UTC	CaitlinSmith, liquidNitrogen	207	5	25
-126371	2	0	No Variant	2020-04-18 — 02:44:45 UTC	CaitlinSmith, liquidNitrogen	207	5	25
-124901	2	0	No Variant	2020-04-17 — 02:47:13 UTC	CaitlinSmith, davidwillwinn	211	5	25
-124843	2	23	No Variant	2020-04-17 — 02:17:02 UTC	CaitlinSmith, davidwillwinn	212	5	25
-124817	2	23	No Variant	2020-04-17 — 02:01:18 UTC	CaitlinSmith, davidwillwinn	215	5	25
-123692	3	24	No Variant	2020-04-16 — 03:00:26 UTC	CaitlinSmith, liquidNitrogen, trentonf	375	5	25
-123656	2	22	No Variant	2020-04-16 — 02:36:41 UTC	CaitlinSmith, liquidNitrogen	220	5	25
-123629	2	23	No Variant	2020-04-16 — 02:24:26 UTC	CaitlinSmith, liquidNitrogen	220	5	25
-123613	2	16	No Variant	2020-04-16 — 02:16:49 UTC	CaitlinSmith, liquidNitrogen	225	5	25
-123584	2	22	No Variant	2020-04-16 — 01:58:24 UTC	CaitlinSmith, liquidNitrogen	228	5	25
-122652	2	18	No Variant	2020-04-15 — 04:28:21 UTC	CaitlinSmith, liquidNitrogen	231	5	25
-122620	2	23	No Variant	2020-04-15 — 04:10:33 UTC	CaitlinSmith, liquidNitrogen	244	5	25
-122600	2	22	No Variant	2020-04-15 — 03:57:07 UTC	CaitlinSmith, liquidNitrogen	249	5	25
-122573	2	22	No Variant	2020-04-15 — 03:42:08 UTC	CaitlinSmith, liquidNitrogen	254	5	25
-122557	2	21	No Variant	2020-04-15 — 03:30:18 UTC	CaitlinSmith, liquidNitrogen	259	5	25
-122522	2	22	No Variant	2020-04-15 — 03:04:40 UTC	CaitlinSmith, liquidNitrogen	257	5	25
-122497	3	0	No Variant	2020-04-15 — 02:49:51 UTC	CaitlinSmith, liquidNitrogen, trentonf	386	5	25
-122496	3	22	No Variant	2020-04-15 — 02:48:01 UTC	CaitlinSmith, liquidNitrogen, trentonf	411	5	25
-121405	3	23	No Variant	2020-04-14 — 04:27:44 UTC	CaitlinSmith, liquidNitrogen, trentonf	422	5	25
-121362	2	0	No Variant	2020-04-14 — 03:49:25 UTC	CaitlinSmith, liquidNitrogen	264	5	25
-121359	2	22	No Variant	2020-04-14 — 03:46:17 UTC	CaitlinSmith, liquidNitrogen	271	5	25
-121340	2	24	No Variant	2020-04-14 — 03:28:00 UTC	CaitlinSmith, liquidNitrogen	275	5	25
-120905	2	25	No Variant	2020-04-13 — 21:57:27 UTC	CaitlinSmith, liquidNitrogen	277	5	25
-120764	3	0	No Variant	2020-04-13 — 20:39:19 UTC	CaitlinSmith, liquidNitrogen, trentonf	451	5	25
-118486	2	22	No Variant	2020-04-12 — 02:37:02 UTC	CaitlinSmith, trentonf	279	5	25
-118411	2	0	No Variant	2020-04-12 — 01:58:49 UTC	CaitlinSmith, trentonf	281	5	25
-118335	2	25	No Variant	2020-04-12 — 01:15:09 UTC	CaitlinSmith, liquidNitrogen	299	5	25
-118304	2	18	No Variant	2020-04-12 — 00:53:00 UTC	CaitlinSmith, liquidNitrogen	292	5	25
-118291	2	23	No Variant	2020-04-12 — 00:42:11 UTC	CaitlinSmith, liquidNitrogen	302	5	25
-118254	2	23	No Variant	2020-04-12 — 00:22:58 UTC	CaitlinSmith, liquidNitrogen	308	5	25
-118216	2	0	No Variant	2020-04-11 — 23:59:12 UTC	CaitlinSmith, liquidNitrogen	303	5	25
-116749	2	22	No Variant	2020-04-11 — 03:45:11 UTC	CaitlinSmith, liquidNitrogen	311	5	25
-116724	2	21	No Variant	2020-04-11 — 03:33:24 UTC	CaitlinSmith, liquidNitrogen	315	5	25
-116685	2	21	No Variant	2020-04-11 — 03:13:49 UTC	CaitlinSmith, liquidNitrogen	321	5	25
-116660	2	25	No Variant	2020-04-11 — 02:59:39 UTC	CaitlinSmith, liquidNitrogen	328	5	25
-116617	3	23	No Variant	2020-04-11 — 02:45:17 UTC	CaitlinSmith, davidwillwinn, liquidNitrogen	459	5	25
-116545	2	22	No Variant	2020-04-11 — 02:12:58 UTC	CaitlinSmith, davidwillwinn	335	5	25
-116045	2	25	No Variant	2020-04-10 — 20:26:36 UTC	CaitlinSmith, liquidNitrogen	344	5	25
-116014	2	24	No Variant	2020-04-10 — 20:03:49 UTC	CaitlinSmith, liquidNitrogen	348	5	25
-115987	2	19	No Variant	2020-04-10 — 19:50:51 UTC	CaitlinSmith, liquidNitrogen	354	5	25
-115113	2	0	No Variant	2020-04-10 — 02:35:24 UTC	CaitlinSmith, davidwillwinn	357	5	25
-115109	2	22	No Variant	2020-04-10 — 02:33:22 UTC	CaitlinSmith, davidwillwinn	362	5	25
-115079	2	25	No Variant	2020-04-10 — 02:12:09 UTC	CaitlinSmith, davidwillwinn	369	5	25
-115056	2	22	No Variant	2020-04-10 — 01:59:26 UTC	CaitlinSmith, davidwillwinn	381	5	25
-111825	2	22	No Variant	2020-04-06 — 21:33:05 UTC	CaitlinSmith, liquidNitrogen	387	5	25
-111779	2	21	No Variant	2020-04-06 — 21:10:28 UTC	CaitlinSmith, liquidNitrogen	393	5	25
-111731	2	21	No Variant	2020-04-06 — 20:46:12 UTC	CaitlinSmith, liquidNitrogen	393	5	25
-111712	2	0	No Variant	2020-04-06 — 20:31:51 UTC	CaitlinSmith, liquidNitrogen	406	5	25
-111704	2	21	No Variant	2020-04-06 — 20:26:46 UTC	CaitlinSmith, liquidNitrogen	411	5	25
-108284	3	22	No Variant	2020-04-04 — 05:05:48 UTC	CaitlinSmith, liquidNitrogen, trentonf	485	5	25
-108245	3	22	No Variant	2020-04-04 — 04:42:00 UTC	CaitlinSmith, liquidNitrogen, trentonf	516	5	25
-106597	2	23	No Variant	2020-04-03 — 02:46:28 UTC	CaitlinSmith, davidwillwinn	423	5	25
-106559	2	24	No Variant	2020-04-03 — 02:24:32 UTC	CaitlinSmith, davidwillwinn	432	5	25
-106529	2	22	No Variant	2020-04-03 — 02:08:51 UTC	CaitlinSmith, davidwillwinn	440	5	25
-105469	2	0	No Variant	2020-04-02 — 03:00:25 UTC	CaitlinSmith, davidwillwinn	450	5	25
-105424	2	0	No Variant	2020-04-02 — 02:29:58 UTC	CaitlinSmith, davidwillwinn	455	5	25
-105414	2	21	No Variant	2020-04-02 — 02:24:19 UTC	CaitlinSmith, davidwillwinn	458	5	25
-105320	2	24	No Variant	2020-04-02 — 01:25:49 UTC	CaitlinSmith, davidwillwinn	476	5	25
-104470	2	23	No Variant	2020-04-01 — 04:39:19 UTC	CaitlinSmith, davidwillwinn	496	5	25
-104452	2	22	No Variant	2020-04-01 — 04:22:10 UTC	CaitlinSmith, davidwillwinn	506	5	25
-104437	2	22	No Variant	2020-04-01 — 04:12:09 UTC	CaitlinSmith, davidwillwinn	513	5	25
-104420	2	20	No Variant	2020-04-01 — 03:50:16 UTC	CaitlinSmith, davidwillwinn	526	5	25
-104394	2	21	No Variant	2020-04-01 — 03:34:16 UTC	CaitlinSmith, davidwillwinn	534	5	25
-102211	3	22	No Variant	2020-03-30 — 03:19:43 UTC	CaitlinSmith, davidwillwinn, liquidNitrogen	551	5	25
-102191	3	17	No Variant	2020-03-30 — 02:54:01 UTC	CaitlinSmith, davidwillwinn, liquidNitrogen	573	5	25
-102169	3	22	No Variant	2020-03-30 — 02:30:19 UTC	CaitlinSmith, davidwillwinn, liquidNitrogen	624	5	25
-102135	2	0	No Variant	2020-03-30 — 01:57:44 UTC	CaitlinSmith, davidwillwinn	548	5	25
-101464	2	19	No Variant	2020-03-29 — 16:59:23 UTC	CaitlinSmith, liquidNitrogen	555	5	25
-101043	2	23	No Variant	2020-03-29 — 05:22:45 UTC	CaitlinSmith, davidwillwinn	581	5	25
-101015	2	21	No Variant	2020-03-29 — 05:02:49 UTC	CaitlinSmith, davidwillwinn	593	5	25
-99282	3	21	No Variant	2020-03-28 — 02:02:59 UTC	CaitlinSmith, liquidNitrogen, trentonf	645	5	25
-99231	3	21	No Variant	2020-03-28 — 01:34:46 UTC	CaitlinSmith, liquidNitrogen, trentonf	680	5	25
-99190	3	22	No Variant	2020-03-28 — 01:07:47 UTC	CaitlinSmith, liquidNitrogen, trentonf	750	5	25
-97477	2	22	No Variant	2020-03-26 — 03:30:17 UTC	CaitlinSmith, liquidNitrogen	597	5	25
-97459	2	0	No Variant	2020-03-26 — 03:17:53 UTC	CaitlinSmith, liquidNitrogen	626	5	25
-97431	3	22	No Variant	2020-03-26 — 03:00:31 UTC	CaitlinSmith, liquidNitrogen, trentonf	801	5	25
-97411	3	20	No Variant	2020-03-26 — 02:39:10 UTC	CaitlinSmith, liquidNitrogen, trentonf	840	5	25
-97389	3	20	No Variant	2020-03-26 — 02:13:21 UTC	CaitlinSmith, liquidNitrogen, trentonf	940	5	25
-96693	2	24	No Variant	2020-03-25 — 03:49:38 UTC	CaitlinSmith, liquidNitrogen	654	5	25
-96684	2	22	No Variant	2020-03-25 — 03:37:35 UTC	CaitlinSmith, liquidNitrogen	677	5	25
-96660	2	19	No Variant	2020-03-25 — 03:16:49 UTC	CaitlinSmith, liquidNitrogen	699	5	25
-96635	2	22	No Variant	2020-03-25 — 02:56:56 UTC	CaitlinSmith, liquidNitrogen	719	5	25
-95800	3	21	No Variant	2020-03-24 — 04:36:59 UTC	CaitlinSmith, liquidNitrogen, trentonf	1017	5	25
-95776	3	22	No Variant	2020-03-24 — 04:10:09 UTC	CaitlinSmith, liquidNitrogen, trentonf	1095	5	25
-95742	2	24	No Variant	2020-03-24 — 03:38:13 UTC	CaitlinSmith, liquidNitrogen	770	5	25
-95238	2	24	No Variant	2020-03-23 — 19:35:27 UTC	CaitlinSmith, liquidNitrogen	794	5	25
-95222	2	22	No Variant	2020-03-23 — 19:17:51 UTC	CaitlinSmith, liquidNitrogen	818	5	25
-94931	2	21	No Variant	2020-03-23 — 04:14:37 UTC	CaitlinSmith, liquidNitrogen	854	5	25
-94924	2	0	No Variant	2020-03-23 — 04:05:41 UTC	CaitlinSmith, liquidNitrogen	883	5	25
-94886	2	22	No Variant	2020-03-23 — 02:55:22 UTC	CaitlinSmith, liquidNitrogen	921	5	25
-94859	2	20	No Variant	2020-03-23 — 02:31:56 UTC	CaitlinSmith, liquidNitrogen	948	5	25
-94814	3	24	No Variant	2020-03-23 — 01:42:43 UTC	CaitlinSmith, liquidNitrogen, trentonf	1174	5	25
-94786	3	17	No Variant	2020-03-23 — 01:04:58 UTC	CaitlinSmith, liquidNitrogen, trentonf	1291	5	25
-94752	2	0	No Variant	2020-03-23 — 00:16:29 UTC	CaitlinSmith, liquidNitrogen	976	5	25
-94750	2	24	No Variant	2020-03-23 — 00:15:54 UTC	CaitlinSmith, liquidNitrogen	1031	5	25
-94728	2	0	No Variant	2020-03-22 — 23:57:24 UTC	CaitlinSmith, liquidNitrogen	1078	5	25
-94078	3	25	No Variant	2020-03-22 — 04:28:15 UTC	CaitlinSmith, liquidNitrogen, tford5	1465	5	25
-94046	2	0	No Variant	2020-03-22 — 04:01:12 UTC	CaitlinSmith, liquidNitrogen	1117	5	25
-94043	2	0	No Variant	2020-03-22 — 03:58:46 UTC	CaitlinSmith, liquidNitrogen	1148	5	25
-94025	2	25	No Variant	2020-03-22 — 03:43:28 UTC	CaitlinSmith, liquidNitrogen	1206	5	25
-94004	2	20	No Variant	2020-03-22 — 03:31:59 UTC	CaitlinSmith, liquidNitrogen	1249	5	25
-93992	2	22	No Variant	2020-03-22 — 03:15:59 UTC	CaitlinSmith, liquidNitrogen	1299	5	25
-93967	2	0	No Variant	2020-03-22 — 02:55:32 UTC	CaitlinSmith, liquidNitrogen	1376	5	25
-93963	2	19	No Variant	2020-03-22 — 02:48:26 UTC	CaitlinSmith, liquidNitrogen	1448	5	25
-93949	2	0	No Variant	2020-03-22 — 02:36:58 UTC	CaitlinSmith, liquidNitrogen	1532	5	25
-93925	2	18	No Variant	2020-03-22 — 02:21:50 UTC	CaitlinSmith, liquidNitrogen	1621	5	25
-93897	2	19	No Variant	2020-03-22 — 02:03:04 UTC	CaitlinSmith, liquidNitrogen	1703	5	25
-93169	3	23	No Variant	2020-03-21 — 04:56:22 UTC	CaitlinSmith, liquidNitrogen, tford5	1636	5	25
-93147	3	22	No Variant	2020-03-21 — 04:18:37 UTC	CaitlinSmith, liquidNitrogen, tford5	1881	5	25
-93136	3	0	No Variant	2020-03-21 — 03:46:05 UTC	CaitlinSmith, liquidNitrogen, tford5	2163	5	25
-93092	2	24	No Variant	2020-03-21 — 02:45:15 UTC	CaitlinSmith, liquidNitrogen	1840	5	25
-93081	2	22	No Variant	2020-03-21 — 02:26:47 UTC	CaitlinSmith, liquidNitrogen	1952	5	25
-93062	2	22	No Variant	2020-03-21 — 01:57:05 UTC	CaitlinSmith, liquidNitrogen	2147	5	25
-92490	3	0	No Variant	2020-03-20 — 03:52:09 UTC	CaitlinSmith, Scarletfox04, Shadowsan	2606	5	25
-92469	3	19	No Variant	2020-03-20 — 03:20:13 UTC	CaitlinSmith, Scarletfox04, Shadowsan	3260	5	25
-92435	3	19	No Variant	2020-03-20 — 02:43:41 UTC	CaitlinSmith, Scarletfox04, Shadowsan	4221	5	25
-92400	2	0	No Variant	2020-03-20 — 02:11:53 UTC	CaitlinSmith, Shadowsan	2288	5	25
-92215	2	0	No Variant	2020-03-19 — 22:21:12 UTC	CaitlinSmith, hanabornoob	741	5	25
-91745	2	22	No Variant	2020-03-19 — 03:01:11 UTC	CaitlinSmith, liquidNitrogen	2532	5	25
-91728	2	0	No Variant	2020-03-19 — 02:37:32 UTC	CaitlinSmith, liquidNitrogen	2750	5	25
-91721	2	18	No Variant	2020-03-19 — 02:22:31 UTC	CaitlinSmith, liquidNitrogen	3051	5	25
-91713	2	22	No Variant	2020-03-19 — 02:03:34 UTC	CaitlinSmith, liquidNitrogen	3507	5	25
-91703	2	0	No Variant	2020-03-19 — 01:49:43 UTC	CaitlinSmith, liquidNitrogen	4109	5	25
-91448	2	21	No Variant	2020-03-18 — 19:29:47 UTC	CaitlinSmith, liquidNitrogen	5374	5	25
+329523	2	20	No Variant	2020-10-28 — 01:02:51 UTC	CaitlinSmith, liquidNitrogen	109	5	25
+329518	2	0	No Variant	2020-10-28 — 00:50:59 UTC	CaitlinSmith, liquidNitrogen	109	5	25
+329513	2	19	No Variant	2020-10-28 — 00:38:10 UTC	CaitlinSmith, liquidNitrogen	110	5	25
+329503	2	23	No Variant	2020-10-28 — 00:19:42 UTC	CaitlinSmith, liquidNitrogen	110	5	25
+329496	2	0	No Variant	2020-10-28 — 00:02:40 UTC	CaitlinSmith, liquidNitrogen	110	5	25
+278874	2	22	No Variant	2020-08-23 — 23:21:48 UTC	Bud_meister, CaitlinSmith	111	5	25
+278834	2	19	No Variant	2020-08-23 — 22:33:42 UTC	Bud_meister, CaitlinSmith	112	5	25
+262043	2	18	No Variant	2020-08-05 — 01:11:54 UTC	CaitlinSmith, Thefirstwaldo	117	5	25
+259573	2	25	No Variant	2020-08-03 — 02:44:31 UTC	CaitlinSmith, Thefirstwaldo	118	5	25
+259533	2	23	No Variant	2020-08-03 — 02:18:22 UTC	CaitlinSmith, Thefirstwaldo	120	5	25
+259481	2	19	No Variant	2020-08-03 — 01:50:55 UTC	CaitlinSmith, Thefirstwaldo	116	5	25
+258670	2	18	No Variant	2020-08-02 — 03:48:49 UTC	CaitlinSmith, Thefirstwaldo	119	5	25
+258640	2	21	No Variant	2020-08-02 — 03:30:33 UTC	CaitlinSmith, Thefirstwaldo	119	5	25
+258626	2	0	No Variant	2020-08-02 — 03:12:47 UTC	CaitlinSmith, Thefirstwaldo	119	5	25
+258613	2	0	No Variant	2020-08-02 — 03:00:28 UTC	CaitlinSmith, Thefirstwaldo	119	5	25
+256695	2	19	No Variant	2020-07-31 — 03:17:05 UTC	CaitlinSmith, liquidNitrogen	121	5	25
+256675	2	22	No Variant	2020-07-31 — 03:02:12 UTC	CaitlinSmith, liquidNitrogen	126	5	25
+255921	2	17	No Variant	2020-07-30 — 03:31:31 UTC	CaitlinSmith, liquidNitrogen	127	5	25
+255914	2	22	No Variant	2020-07-30 — 03:21:00 UTC	CaitlinSmith, liquidNitrogen	129	5	25
+255906	2	0	No Variant	2020-07-30 — 03:11:15 UTC	CaitlinSmith, liquidNitrogen	130	5	25
+255901	2	18	No Variant	2020-07-30 — 03:03:04 UTC	CaitlinSmith, liquidNitrogen	131	5	25
+255894	2	0	No Variant	2020-07-30 — 02:55:15 UTC	CaitlinSmith, liquidNitrogen	131	5	25
+255877	2	21	No Variant	2020-07-30 — 02:41:58 UTC	CaitlinSmith, liquidNitrogen	131	5	25
+255849	2	22	No Variant	2020-07-30 — 02:17:15 UTC	CaitlinSmith, liquidNitrogen	132	5	25
+255815	2	21	No Variant	2020-07-30 — 01:58:59 UTC	CaitlinSmith, liquidNitrogen	132	5	25
+250272	2	24	No Variant	2020-07-25 — 01:48:14 UTC	CaitlinSmith, davidwillwinn	134	5	25
+250243	2	25	No Variant	2020-07-25 — 01:20:15 UTC	CaitlinSmith, davidwillwinn	137	5	25
+248320	2	22	No Variant	2020-07-23 — 02:13:21 UTC	CaitlinSmith, davidwillwinn	138	5	25
+248299	2	24	No Variant	2020-07-23 — 01:57:04 UTC	CaitlinSmith, davidwillwinn	140	5	25
+246365	2	0	No Variant	2020-07-21 — 02:13:50 UTC	CaitlinSmith, liquidNitrogen	144	5	25
+246351	2	20	No Variant	2020-07-21 — 02:03:41 UTC	CaitlinSmith, liquidNitrogen	144	5	25
+246340	2	0	No Variant	2020-07-21 — 01:52:40 UTC	CaitlinSmith, liquidNitrogen	144	5	25
+245574	2	23	No Variant	2020-07-20 — 02:43:53 UTC	CaitlinSmith, liquidNitrogen	144	5	25
+245566	2	25	No Variant	2020-07-20 — 02:31:52 UTC	CaitlinSmith, liquidNitrogen	146	5	25
+245554	2	22	No Variant	2020-07-20 — 02:12:52 UTC	CaitlinSmith, liquidNitrogen	148	5	25
+245541	2	25	No Variant	2020-07-20 — 01:57:46 UTC	CaitlinSmith, liquidNitrogen	151	5	25
+245526	2	23	No Variant	2020-07-20 — 01:43:26 UTC	CaitlinSmith, liquidNitrogen	154	5	25
+245513	2	24	No Variant	2020-07-20 — 01:27:08 UTC	CaitlinSmith, liquidNitrogen	154	5	25
+231947	2	25	No Variant	2020-07-07 — 02:39:26 UTC	CaitlinSmith, liquidNitrogen	153	5	25
+231936	2	23	No Variant	2020-07-07 — 02:30:19 UTC	CaitlinSmith, liquidNitrogen	154	5	25
+231923	2	23	No Variant	2020-07-07 — 02:21:52 UTC	CaitlinSmith, liquidNitrogen	154	5	25
+217772	2	21	No Variant	2020-06-25 — 02:42:25 UTC	CaitlinSmith, liquidNitrogen	156	5	25
+217754	2	0	No Variant	2020-06-25 — 02:28:20 UTC	CaitlinSmith, liquidNitrogen	156	5	25
+216644	2	23	No Variant	2020-06-24 — 02:53:31 UTC	CaitlinSmith, liquidNitrogen	159	5	25
+169541	3	20	No Variant	2020-05-17 — 02:37:47 UTC	CaitlinSmith, liquidNitrogen, tford73	324	5	25
+169458	2	21	No Variant	2020-05-17 — 01:49:47 UTC	CaitlinSmith, liquidNitrogen	159	5	25
+169434	2	22	No Variant	2020-05-17 — 01:38:04 UTC	CaitlinSmith, liquidNitrogen	161	5	25
+169409	2	19	No Variant	2020-05-17 — 01:23:41 UTC	CaitlinSmith, liquidNitrogen	161	5	25
+162331	2	25	No Variant	2020-05-12 — 00:10:51 UTC	CaitlinSmith, liquidNitrogen	164	5	25
+152471	2	0	No Variant	2020-05-05 — 02:19:59 UTC	CaitlinSmith, liquidNitrogen	165	5	25
+152411	2	24	No Variant	2020-05-05 — 01:49:50 UTC	CaitlinSmith, liquidNitrogen	166	5	25
+152387	2	19	No Variant	2020-05-05 — 01:33:19 UTC	CaitlinSmith, liquidNitrogen	170	5	25
+152327	2	23	No Variant	2020-05-05 — 00:55:11 UTC	CaitlinSmith, liquidNitrogen	171	5	25
+152308	2	24	No Variant	2020-05-05 — 00:39:56 UTC	CaitlinSmith, liquidNitrogen	177	5	25
+144208	2	24	No Variant	2020-04-30 — 02:16:54 UTC	CaitlinSmith, liquidNitrogen	176	5	25
+137062	2	23	No Variant	2020-04-25 — 03:41:31 UTC	CaitlinSmith, liquidNitrogen	183	5	25
+137025	2	17	No Variant	2020-04-25 — 03:32:26 UTC	CaitlinSmith, liquidNitrogen	181	5	25
+135282	2	22	No Variant	2020-04-24 — 03:56:23 UTC	CaitlinSmith, liquidNitrogen	184	5	25
+135258	2	20	No Variant	2020-04-24 — 03:41:51 UTC	CaitlinSmith, liquidNitrogen	183	5	25
+135233	2	21	No Variant	2020-04-24 — 03:32:03 UTC	CaitlinSmith, liquidNitrogen	182	5	25
+135216	2	21	No Variant	2020-04-24 — 03:22:49 UTC	CaitlinSmith, liquidNitrogen	184	5	25
+135180	2	23	No Variant	2020-04-24 — 03:00:56 UTC	CaitlinSmith, liquidNitrogen	187	5	25
+135164	2	0	No Variant	2020-04-24 — 02:52:18 UTC	CaitlinSmith, liquidNitrogen	186	5	25
+135131	2	24	No Variant	2020-04-24 — 02:33:29 UTC	CaitlinSmith, liquidNitrogen	184	5	25
+133856	2	22	No Variant	2020-04-23 — 03:05:22 UTC	CaitlinSmith, liquidNitrogen	188	5	25
+133846	2	24	No Variant	2020-04-23 — 02:56:53 UTC	CaitlinSmith, liquidNitrogen	189	5	25
+132723	3	17	No Variant	2020-04-22 — 03:13:59 UTC	CaitlinSmith, liquidNitrogen, trentonf	330	5	25
+128113	2	25	No Variant	2020-04-19 — 02:14:18 UTC	CaitlinSmith, liquidNitrogen	194	5	25
+128098	2	22	No Variant	2020-04-19 — 02:06:34 UTC	CaitlinSmith, liquidNitrogen	197	5	25
+126615	3	22	No Variant	2020-04-18 — 05:05:19 UTC	CaitlinSmith, liquidNitrogen, trentonf	353	5	25
+126581	3	22	No Variant	2020-04-18 — 04:39:26 UTC	CaitlinSmith, liquidNitrogen, trentonf	359	5	25
+126472	2	23	No Variant	2020-04-18 — 03:41:31 UTC	CaitlinSmith, liquidNitrogen	197	5	25
+126440	2	0	No Variant	2020-04-18 — 03:29:24 UTC	CaitlinSmith, liquidNitrogen	199	5	25
+126430	2	23	No Variant	2020-04-18 — 03:20:25 UTC	CaitlinSmith, liquidNitrogen	197	5	25
+126407	2	0	No Variant	2020-04-18 — 03:10:49 UTC	CaitlinSmith, liquidNitrogen	204	5	25
+126387	2	21	No Variant	2020-04-18 — 03:00:38 UTC	CaitlinSmith, liquidNitrogen	203	5	25
+126375	2	0	No Variant	2020-04-18 — 02:48:18 UTC	CaitlinSmith, liquidNitrogen	209	5	25
+126371	2	0	No Variant	2020-04-18 — 02:44:45 UTC	CaitlinSmith, liquidNitrogen	209	5	25
+124901	2	0	No Variant	2020-04-17 — 02:47:13 UTC	CaitlinSmith, davidwillwinn	215	5	25
+124843	2	23	No Variant	2020-04-17 — 02:17:02 UTC	CaitlinSmith, davidwillwinn	217	5	25
+124817	2	23	No Variant	2020-04-17 — 02:01:18 UTC	CaitlinSmith, davidwillwinn	221	5	25
+123692	3	24	No Variant	2020-04-16 — 03:00:26 UTC	CaitlinSmith, liquidNitrogen, trentonf	380	5	25
+123656	2	22	No Variant	2020-04-16 — 02:36:41 UTC	CaitlinSmith, liquidNitrogen	226	5	25
+123629	2	23	No Variant	2020-04-16 — 02:24:26 UTC	CaitlinSmith, liquidNitrogen	226	5	25
+123613	2	16	No Variant	2020-04-16 — 02:16:49 UTC	CaitlinSmith, liquidNitrogen	233	5	25
+123584	2	22	No Variant	2020-04-16 — 01:58:24 UTC	CaitlinSmith, liquidNitrogen	234	5	25
+122652	2	18	No Variant	2020-04-15 — 04:28:21 UTC	CaitlinSmith, liquidNitrogen	238	5	25
+122620	2	23	No Variant	2020-04-15 — 04:10:33 UTC	CaitlinSmith, liquidNitrogen	250	5	25
+122600	2	22	No Variant	2020-04-15 — 03:57:07 UTC	CaitlinSmith, liquidNitrogen	253	5	25
+122573	2	22	No Variant	2020-04-15 — 03:42:08 UTC	CaitlinSmith, liquidNitrogen	258	5	25
+122557	2	21	No Variant	2020-04-15 — 03:30:18 UTC	CaitlinSmith, liquidNitrogen	263	5	25
+122522	2	22	No Variant	2020-04-15 — 03:04:40 UTC	CaitlinSmith, liquidNitrogen	262	5	25
+122497	3	0	No Variant	2020-04-15 — 02:49:51 UTC	CaitlinSmith, liquidNitrogen, trentonf	392	5	25
+122496	3	22	No Variant	2020-04-15 — 02:48:01 UTC	CaitlinSmith, liquidNitrogen, trentonf	417	5	25
+121405	3	23	No Variant	2020-04-14 — 04:27:44 UTC	CaitlinSmith, liquidNitrogen, trentonf	428	5	25
+121362	2	0	No Variant	2020-04-14 — 03:49:25 UTC	CaitlinSmith, liquidNitrogen	270	5	25
+121359	2	22	No Variant	2020-04-14 — 03:46:17 UTC	CaitlinSmith, liquidNitrogen	277	5	25
+121340	2	24	No Variant	2020-04-14 — 03:28:00 UTC	CaitlinSmith, liquidNitrogen	283	5	25
+120905	2	25	No Variant	2020-04-13 — 21:57:27 UTC	CaitlinSmith, liquidNitrogen	285	5	25
+120764	3	0	No Variant	2020-04-13 — 20:39:19 UTC	CaitlinSmith, liquidNitrogen, trentonf	456	5	25
+118486	2	22	No Variant	2020-04-12 — 02:37:02 UTC	CaitlinSmith, trentonf	288	5	25
+118411	2	0	No Variant	2020-04-12 — 01:58:49 UTC	CaitlinSmith, trentonf	289	5	25
+118335	2	25	No Variant	2020-04-12 — 01:15:09 UTC	CaitlinSmith, liquidNitrogen	306	5	25
+118304	2	18	No Variant	2020-04-12 — 00:53:00 UTC	CaitlinSmith, liquidNitrogen	303	5	25
+118291	2	23	No Variant	2020-04-12 — 00:42:11 UTC	CaitlinSmith, liquidNitrogen	313	5	25
+118254	2	23	No Variant	2020-04-12 — 00:22:58 UTC	CaitlinSmith, liquidNitrogen	318	5	25
+118216	2	0	No Variant	2020-04-11 — 23:59:12 UTC	CaitlinSmith, liquidNitrogen	313	5	25
+116749	2	22	No Variant	2020-04-11 — 03:45:11 UTC	CaitlinSmith, liquidNitrogen	320	5	25
+116724	2	21	No Variant	2020-04-11 — 03:33:24 UTC	CaitlinSmith, liquidNitrogen	324	5	25
+116685	2	21	No Variant	2020-04-11 — 03:13:49 UTC	CaitlinSmith, liquidNitrogen	329	5	25
+116660	2	25	No Variant	2020-04-11 — 02:59:39 UTC	CaitlinSmith, liquidNitrogen	336	5	25
+116617	3	23	No Variant	2020-04-11 — 02:45:17 UTC	CaitlinSmith, davidwillwinn, liquidNitrogen	467	5	25
+116545	2	22	No Variant	2020-04-11 — 02:12:58 UTC	CaitlinSmith, davidwillwinn	340	5	25
+116045	2	25	No Variant	2020-04-10 — 20:26:36 UTC	CaitlinSmith, liquidNitrogen	349	5	25
+116014	2	24	No Variant	2020-04-10 — 20:03:49 UTC	CaitlinSmith, liquidNitrogen	355	5	25
+115987	2	19	No Variant	2020-04-10 — 19:50:51 UTC	CaitlinSmith, liquidNitrogen	359	5	25
+115113	2	0	No Variant	2020-04-10 — 02:35:24 UTC	CaitlinSmith, davidwillwinn	362	5	25
+115109	2	22	No Variant	2020-04-10 — 02:33:22 UTC	CaitlinSmith, davidwillwinn	368	5	25
+115079	2	25	No Variant	2020-04-10 — 02:12:09 UTC	CaitlinSmith, davidwillwinn	374	5	25
+115056	2	22	No Variant	2020-04-10 — 01:59:26 UTC	CaitlinSmith, davidwillwinn	387	5	25
+111825	2	22	No Variant	2020-04-06 — 21:33:05 UTC	CaitlinSmith, liquidNitrogen	393	5	25
+111779	2	21	No Variant	2020-04-06 — 21:10:28 UTC	CaitlinSmith, liquidNitrogen	400	5	25
+111731	2	21	No Variant	2020-04-06 — 20:46:12 UTC	CaitlinSmith, liquidNitrogen	401	5	25
+111712	2	0	No Variant	2020-04-06 — 20:31:51 UTC	CaitlinSmith, liquidNitrogen	413	5	25
+111704	2	21	No Variant	2020-04-06 — 20:26:46 UTC	CaitlinSmith, liquidNitrogen	418	5	25
+108284	3	22	No Variant	2020-04-04 — 05:05:48 UTC	CaitlinSmith, liquidNitrogen, trentonf	491	5	25
+108245	3	22	No Variant	2020-04-04 — 04:42:00 UTC	CaitlinSmith, liquidNitrogen, trentonf	523	5	25
+106597	2	23	No Variant	2020-04-03 — 02:46:28 UTC	CaitlinSmith, davidwillwinn	429	5	25
+106559	2	24	No Variant	2020-04-03 — 02:24:32 UTC	CaitlinSmith, davidwillwinn	439	5	25
+106529	2	22	No Variant	2020-04-03 — 02:08:51 UTC	CaitlinSmith, davidwillwinn	446	5	25
+105469	2	0	No Variant	2020-04-02 — 03:00:25 UTC	CaitlinSmith, davidwillwinn	456	5	25
+105424	2	0	No Variant	2020-04-02 — 02:29:58 UTC	CaitlinSmith, davidwillwinn	461	5	25
+105414	2	21	No Variant	2020-04-02 — 02:24:19 UTC	CaitlinSmith, davidwillwinn	465	5	25
+105320	2	24	No Variant	2020-04-02 — 01:25:49 UTC	CaitlinSmith, davidwillwinn	485	5	25
+104470	2	23	No Variant	2020-04-01 — 04:39:19 UTC	CaitlinSmith, davidwillwinn	502	5	25
+104452	2	22	No Variant	2020-04-01 — 04:22:10 UTC	CaitlinSmith, davidwillwinn	513	5	25
+104437	2	22	No Variant	2020-04-01 — 04:12:09 UTC	CaitlinSmith, davidwillwinn	521	5	25
+104420	2	20	No Variant	2020-04-01 — 03:50:16 UTC	CaitlinSmith, davidwillwinn	534	5	25
+104394	2	21	No Variant	2020-04-01 — 03:34:16 UTC	CaitlinSmith, davidwillwinn	543	5	25
+102211	3	22	No Variant	2020-03-30 — 03:19:43 UTC	CaitlinSmith, davidwillwinn, liquidNitrogen	558	5	25
+102191	3	17	No Variant	2020-03-30 — 02:54:01 UTC	CaitlinSmith, davidwillwinn, liquidNitrogen	582	5	25
+102169	3	22	No Variant	2020-03-30 — 02:30:19 UTC	CaitlinSmith, davidwillwinn, liquidNitrogen	632	5	25
+102135	2	0	No Variant	2020-03-30 — 01:57:44 UTC	CaitlinSmith, davidwillwinn	558	5	25
+101464	2	19	No Variant	2020-03-29 — 16:59:23 UTC	CaitlinSmith, liquidNitrogen	564	5	25
+101043	2	23	No Variant	2020-03-29 — 05:22:45 UTC	CaitlinSmith, davidwillwinn	589	5	25
+101015	2	21	No Variant	2020-03-29 — 05:02:49 UTC	CaitlinSmith, davidwillwinn	604	5	25
+99282	3	21	No Variant	2020-03-28 — 02:02:59 UTC	CaitlinSmith, liquidNitrogen, trentonf	655	5	25
+99231	3	21	No Variant	2020-03-28 — 01:34:46 UTC	CaitlinSmith, liquidNitrogen, trentonf	688	5	25
+99190	3	22	No Variant	2020-03-28 — 01:07:47 UTC	CaitlinSmith, liquidNitrogen, trentonf	757	5	25
+97477	2	22	No Variant	2020-03-26 — 03:30:17 UTC	CaitlinSmith, liquidNitrogen	609	5	25
+97459	2	0	No Variant	2020-03-26 — 03:17:53 UTC	CaitlinSmith, liquidNitrogen	637	5	25
+97431	3	22	No Variant	2020-03-26 — 03:00:31 UTC	CaitlinSmith, liquidNitrogen, trentonf	809	5	25
+97411	3	20	No Variant	2020-03-26 — 02:39:10 UTC	CaitlinSmith, liquidNitrogen, trentonf	849	5	25
+97389	3	20	No Variant	2020-03-26 — 02:13:21 UTC	CaitlinSmith, liquidNitrogen, trentonf	952	5	25
+96693	2	24	No Variant	2020-03-25 — 03:49:38 UTC	CaitlinSmith, liquidNitrogen	664	5	25
+96684	2	22	No Variant	2020-03-25 — 03:37:35 UTC	CaitlinSmith, liquidNitrogen	683	5	25
+96660	2	19	No Variant	2020-03-25 — 03:16:49 UTC	CaitlinSmith, liquidNitrogen	705	5	25
+96635	2	22	No Variant	2020-03-25 — 02:56:56 UTC	CaitlinSmith, liquidNitrogen	725	5	25
+95800	3	21	No Variant	2020-03-24 — 04:36:59 UTC	CaitlinSmith, liquidNitrogen, trentonf	1026	5	25
+95776	3	22	No Variant	2020-03-24 — 04:10:09 UTC	CaitlinSmith, liquidNitrogen, trentonf	1102	5	25
+95742	2	24	No Variant	2020-03-24 — 03:38:13 UTC	CaitlinSmith, liquidNitrogen	779	5	25
+95238	2	24	No Variant	2020-03-23 — 19:35:27 UTC	CaitlinSmith, liquidNitrogen	803	5	25
+95222	2	22	No Variant	2020-03-23 — 19:17:51 UTC	CaitlinSmith, liquidNitrogen	828	5	25
+94931	2	21	No Variant	2020-03-23 — 04:14:37 UTC	CaitlinSmith, liquidNitrogen	863	5	25
+94924	2	0	No Variant	2020-03-23 — 04:05:41 UTC	CaitlinSmith, liquidNitrogen	890	5	25
+94886	2	22	No Variant	2020-03-23 — 02:55:22 UTC	CaitlinSmith, liquidNitrogen	931	5	25
+94859	2	20	No Variant	2020-03-23 — 02:31:56 UTC	CaitlinSmith, liquidNitrogen	960	5	25
+94814	3	24	No Variant	2020-03-23 — 01:42:43 UTC	CaitlinSmith, liquidNitrogen, trentonf	1180	5	25
+94786	3	17	No Variant	2020-03-23 — 01:04:58 UTC	CaitlinSmith, liquidNitrogen, trentonf	1299	5	25
+94752	2	0	No Variant	2020-03-23 — 00:16:29 UTC	CaitlinSmith, liquidNitrogen	985	5	25
+94750	2	24	No Variant	2020-03-23 — 00:15:54 UTC	CaitlinSmith, liquidNitrogen	1041	5	25
+94728	2	0	No Variant	2020-03-22 — 23:57:24 UTC	CaitlinSmith, liquidNitrogen	1089	5	25
+94078	3	25	No Variant	2020-03-22 — 04:28:15 UTC	CaitlinSmith, liquidNitrogen, tford5	1474	5	25
+94046	2	0	No Variant	2020-03-22 — 04:01:12 UTC	CaitlinSmith, liquidNitrogen	1124	5	25
+94043	2	0	No Variant	2020-03-22 — 03:58:46 UTC	CaitlinSmith, liquidNitrogen	1159	5	25
+94025	2	25	No Variant	2020-03-22 — 03:43:28 UTC	CaitlinSmith, liquidNitrogen	1219	5	25
+94004	2	20	No Variant	2020-03-22 — 03:31:59 UTC	CaitlinSmith, liquidNitrogen	1263	5	25
+93992	2	22	No Variant	2020-03-22 — 03:15:59 UTC	CaitlinSmith, liquidNitrogen	1311	5	25
+93967	2	0	No Variant	2020-03-22 — 02:55:32 UTC	CaitlinSmith, liquidNitrogen	1392	5	25
+93963	2	19	No Variant	2020-03-22 — 02:48:26 UTC	CaitlinSmith, liquidNitrogen	1460	5	25
+93949	2	0	No Variant	2020-03-22 — 02:36:58 UTC	CaitlinSmith, liquidNitrogen	1547	5	25
+93925	2	18	No Variant	2020-03-22 — 02:21:50 UTC	CaitlinSmith, liquidNitrogen	1637	5	25
+93897	2	19	No Variant	2020-03-22 — 02:03:04 UTC	CaitlinSmith, liquidNitrogen	1721	5	25
+93169	3	23	No Variant	2020-03-21 — 04:56:22 UTC	CaitlinSmith, liquidNitrogen, tford5	1651	5	25
+93147	3	22	No Variant	2020-03-21 — 04:18:37 UTC	CaitlinSmith, liquidNitrogen, tford5	1896	5	25
+93136	3	0	No Variant	2020-03-21 — 03:46:05 UTC	CaitlinSmith, liquidNitrogen, tford5	2179	5	25
+93092	2	24	No Variant	2020-03-21 — 02:45:15 UTC	CaitlinSmith, liquidNitrogen	1856	5	25
+93081	2	22	No Variant	2020-03-21 — 02:26:47 UTC	CaitlinSmith, liquidNitrogen	1966	5	25
+93062	2	22	No Variant	2020-03-21 — 01:57:05 UTC	CaitlinSmith, liquidNitrogen	2166	5	25
+92490	3	0	No Variant	2020-03-20 — 03:52:09 UTC	CaitlinSmith, Scarletfox04, Shadowsan	2627	5	25
+92469	3	19	No Variant	2020-03-20 — 03:20:13 UTC	CaitlinSmith, Scarletfox04, Shadowsan	3290	5	25
+92435	3	19	No Variant	2020-03-20 — 02:43:41 UTC	CaitlinSmith, Scarletfox04, Shadowsan	4250	5	25
+92400	2	0	No Variant	2020-03-20 — 02:11:53 UTC	CaitlinSmith, Shadowsan	2307	5	25
+92215	2	0	No Variant	2020-03-19 — 22:21:12 UTC	CaitlinSmith, hanabornoob	749	5	25
+91745	2	22	No Variant	2020-03-19 — 03:01:11 UTC	CaitlinSmith, liquidNitrogen	2552	5	25
+91728	2	0	No Variant	2020-03-19 — 02:37:32 UTC	CaitlinSmith, liquidNitrogen	2772	5	25
+91721	2	18	No Variant	2020-03-19 — 02:22:31 UTC	CaitlinSmith, liquidNitrogen	3072	5	25
+91713	2	22	No Variant	2020-03-19 — 02:03:34 UTC	CaitlinSmith, liquidNitrogen	3537	5	25
+91703	2	0	No Variant	2020-03-19 — 01:49:43 UTC	CaitlinSmith, liquidNitrogen	4149	5	25
+91448	2	21	No Variant	2020-03-18 — 19:29:47 UTC	CaitlinSmith, liquidNitrogen	5421	5	25

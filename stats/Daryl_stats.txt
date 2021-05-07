@@ -1,69 +1,69 @@
 512274	4	13	3 Suits	2021-04-25 — 16:13:54 UTC	Daryl, HelanaAshryvr, mystus, VBVBVBVB	26	3	15
 512260	4	14	3 Suits	2021-04-25 — 15:54:32 UTC	Daryl, HelanaAshryvr, mystus, VBVBVBVB	31	3	15
 472907	3	26	Black (6 Suits)	2021-03-18 — 22:43:29 UTC	DarthGandalf, Daryl, Spieler42	236	6	30
-467998	4	0	Pink (6 Suits)	2021-03-14 — 15:30:02 UTC	Aluap, DarthGandalf, Daryl, possum	54	6	30
-467986	4	0	Pink (6 Suits)	2021-03-14 — 14:58:21 UTC	Aluap, DarthGandalf, Daryl, possum	70	6	30
+467998	4	0	Pink (6 Suits)	2021-03-14 — 15:30:02 UTC	Aluap, DarthGandalf, Daryl, possum	55	6	30
+467986	4	0	Pink (6 Suits)	2021-03-14 — 14:58:21 UTC	Aluap, DarthGandalf, Daryl, possum	71	6	30
 467967	4	24	Prism (5 Suits)	2021-03-14 — 14:10:24 UTC	Aluap, Daryl, possum, sjdrodge	7	5	25
-467958	4	0	Prism (5 Suits)	2021-03-14 — 13:40:17 UTC	Aluap, Daryl, possum, sjdrodge	10	5	25
-467952	3	0	Black (5 Suits)	2021-03-14 — 13:18:34 UTC	Daryl, knaphill, possum	51	5	25
-467949	3	0	Black (5 Suits)	2021-03-14 — 13:09:43 UTC	Daryl, knaphill, possum	66	5	25
-467939	3	22	Black (5 Suits)	2021-03-14 — 12:50:07 UTC	Daryl, knaphill, possum	68	5	25
-467931	3	24	Black (5 Suits)	2021-03-14 — 12:19:29 UTC	Daryl, knaphill, possum	74	5	25
-467922	3	24	Black (5 Suits)	2021-03-14 — 11:40:08 UTC	Daryl, knaphill, possum	134	5	25
+467958	4	0	Prism (5 Suits)	2021-03-14 — 13:40:17 UTC	Aluap, Daryl, possum, sjdrodge	12	5	25
+467952	3	0	Black (5 Suits)	2021-03-14 — 13:18:34 UTC	Daryl, knaphill, possum	52	5	25
+467949	3	0	Black (5 Suits)	2021-03-14 — 13:09:43 UTC	Daryl, knaphill, possum	67	5	25
+467939	3	22	Black (5 Suits)	2021-03-14 — 12:50:07 UTC	Daryl, knaphill, possum	69	5	25
+467931	3	24	Black (5 Suits)	2021-03-14 — 12:19:29 UTC	Daryl, knaphill, possum	76	5	25
+467922	3	24	Black (5 Suits)	2021-03-14 — 11:40:08 UTC	Daryl, knaphill, possum	135	5	25
 467904	5	30	White (6 Suits)	2021-03-14 — 10:59:28 UTC	DarthGandalf, Daryl, knaphill, possum, Wittvector	12	6	30
 467878	5	27	Black (6 Suits)	2021-03-14 — 10:03:05 UTC	Daryl, Fey, Lel0uch, possum, Wittvector	48	6	30
-467060	3	25	No Variant	2021-03-13 — 21:55:09 UTC	Daryl, HelanaAshryvr, username5	154	5	25
-466839	3	30	6 Suits	2021-03-13 — 17:53:58 UTC	Bonja97, Daryl, nkkarpov	196	6	30
+467060	3	25	No Variant	2021-03-13 — 21:55:09 UTC	Daryl, HelanaAshryvr, username5	157	5	25
+466839	3	30	6 Suits	2021-03-13 — 17:53:58 UTC	Bonja97, Daryl, nkkarpov	199	6	30
 466819	6	0	Brown (6 Suits)	2021-03-13 — 17:23:52 UTC	Bot-Fiora, Daryl, indego, kevincaseytdk1, newduke, nkkarpov	8	6	30
-465008	2	25	Black (5 Suits)	2021-03-11 — 22:10:58 UTC	DarthGandalf, Daryl	219	5	25
-464997	2	0	Black (5 Suits)	2021-03-11 — 22:02:10 UTC	DarthGandalf, Daryl	244	5	25
+465008	2	25	Black (5 Suits)	2021-03-11 — 22:10:58 UTC	DarthGandalf, Daryl	222	5	25
+464997	2	0	Black (5 Suits)	2021-03-11 — 22:02:10 UTC	DarthGandalf, Daryl	250	5	25
 464985	6	22	Prism (5 Suits)	2021-03-11 — 21:43:07 UTC	DarthGandalf, Daryl, Denchulitas, Lanvin, sephiroth, VerySloppyTwo	1	5	25
 464951	5	0	Rainbow & White (5 Suits)	2021-03-11 — 21:08:24 UTC	DarthGandalf, Daryl, Denchulitas, Lanvin, VerySloppyTwo	4	5	25
-451875	2	23	No Variant	2021-02-28 — 11:59:27 UTC	Daryl, jilcy	5374	5	25
-451288	5	25	No Variant	2021-02-27 — 23:24:29 UTC	ADrone, BraydonM, Daryl, HariKrishnan, kopen	100	5	25
-451230	3	21	No Variant	2021-02-27 — 22:37:53 UTC	ADrone, Daryl, HariKrishnan	77	5	25
-451198	4	0	No Variant	2021-02-27 — 22:15:05 UTC	ADrone, Daryl, HariKrishnan, MathNoob	138	5	25
+451875	2	23	No Variant	2021-02-28 — 11:59:27 UTC	Daryl, jilcy	5421	5	25
+451288	5	25	No Variant	2021-02-27 — 23:24:29 UTC	ADrone, BraydonM, Daryl, HariKrishnan, kopen	102	5	25
+451230	3	21	No Variant	2021-02-27 — 22:37:53 UTC	ADrone, Daryl, HariKrishnan	79	5	25
+451198	4	0	No Variant	2021-02-27 — 22:15:05 UTC	ADrone, Daryl, HariKrishnan, MathNoob	139	5	25
 450280	5	29	White-Ones (6 Suits)	2021-02-26 — 23:32:10 UTC	DarthGandalf, Daryl, kopen, ksfortson, torp	8	6	30
 450264	5	24	No Variant	2021-02-26 — 23:04:28 UTC	DarthGandalf, Daryl, kopen, ksfortson, torp	23	5	25
 450230	3	25	White-Ones (5 Suits)	2021-02-26 — 22:42:21 UTC	Daryl, nkkarpov, torp	3	5	25
 450189	3	0	White-Ones (5 Suits)	2021-02-26 — 22:19:07 UTC	Daryl, nkkarpov, torp	3	5	25
 450159	4	0	White-Ones & White (5 Suits)	2021-02-26 — 21:57:25 UTC	CaitlinSmith, Daryl, nkkarpov, torp	3	5	25
 450145	4	24	White-Ones & White (5 Suits)	2021-02-26 — 21:47:01 UTC	CaitlinSmith, Daryl, nkkarpov, torp	6	5	25
-450106	3	22	No Variant	2021-02-26 — 21:20:44 UTC	CaitlinSmith, Daryl, torp	53	5	25
-450082	3	22	No Variant	2021-02-26 — 20:57:13 UTC	CaitlinSmith, Daryl, torp	56	5	25
-450066	3	23	No Variant	2021-02-26 — 20:37:06 UTC	CaitlinSmith, Daryl, torp	57	5	25
-450042	3	24	No Variant	2021-02-26 — 20:14:20 UTC	CaitlinSmith, Daryl, torp	57	5	25
+450106	3	22	No Variant	2021-02-26 — 21:20:44 UTC	CaitlinSmith, Daryl, torp	54	5	25
+450082	3	22	No Variant	2021-02-26 — 20:57:13 UTC	CaitlinSmith, Daryl, torp	57	5	25
+450066	3	23	No Variant	2021-02-26 — 20:37:06 UTC	CaitlinSmith, Daryl, torp	58	5	25
+450042	3	24	No Variant	2021-02-26 — 20:14:20 UTC	CaitlinSmith, Daryl, torp	58	5	25
 447007	5	30	6 Suits	2021-02-23 — 21:33:05 UTC	Damian000, DarthGandalf, Daryl, HariKrishnan, knaphill	69	6	30
-446924	4	0	Black (6 Suits)	2021-02-23 — 20:39:55 UTC	Damian000, DarthGandalf, Daryl, HariKrishnan	213	6	30
-446855	3	23	No Variant	2021-02-23 — 19:49:25 UTC	Damian000, Daryl, HariKrishnan	157	5	25
-446812	3	0	No Variant	2021-02-23 — 19:24:49 UTC	Damian000, Daryl, HariKrishnan	160	5	25
-435649	3	22	No Variant	2021-02-13 — 11:03:09 UTC	banjoleb, BraydonM, Daryl	201	5	25
+446924	4	0	Black (6 Suits)	2021-02-23 — 20:39:55 UTC	Damian000, DarthGandalf, Daryl, HariKrishnan	215	6	30
+446855	3	23	No Variant	2021-02-23 — 19:49:25 UTC	Damian000, Daryl, HariKrishnan	160	5	25
+446812	3	0	No Variant	2021-02-23 — 19:24:49 UTC	Damian000, Daryl, HariKrishnan	163	5	25
+435649	3	22	No Variant	2021-02-13 — 11:03:09 UTC	banjoleb, BraydonM, Daryl	203	5	25
 434629	4	24	Dual-Color (5 Suits)	2021-02-12 — 19:45:01 UTC	Daryl, narabio, Pimak, Spieler42	5	5	25
 434594	4	0	Dual-Color (5 Suits)	2021-02-12 — 19:09:17 UTC	Daryl, narabio, Pimak, Spieler42	7	5	25
 434577	4	0	Dual-Color (5 Suits)	2021-02-12 — 18:50:37 UTC	Daryl, duckless, Pimak, Spieler42	13	5	25
-433487	3	0	Black (6 Suits)	2021-02-11 — 19:58:05 UTC	DarthGandalf, Daryl, HariKrishnan	325	6	30
-433459	3	0	Black (6 Suits)	2021-02-11 — 19:17:20 UTC	DarthGandalf, Daryl, HariKrishnan	399	6	30
-430313	3	25	No Variant	2021-02-08 — 21:09:03 UTC	Damian000, Daryl, MathNoob	485	5	25
-430239	4	23	No Variant	2021-02-08 — 20:28:08 UTC	Damian000, Daryl, lolthisnotderk, MathNoob	326	5	25
-428298	3	15	3 Suits	2021-02-06 — 23:52:07 UTC	Daryl, griff77, HariKrishnan	74	3	15
-428220	3	14	3 Suits	2021-02-06 — 23:16:57 UTC	Daryl, griff77, HariKrishnan	115	3	15
+433487	3	0	Black (6 Suits)	2021-02-11 — 19:58:05 UTC	DarthGandalf, Daryl, HariKrishnan	332	6	30
+433459	3	0	Black (6 Suits)	2021-02-11 — 19:17:20 UTC	DarthGandalf, Daryl, HariKrishnan	407	6	30
+430313	3	25	No Variant	2021-02-08 — 21:09:03 UTC	Damian000, Daryl, MathNoob	491	5	25
+430239	4	23	No Variant	2021-02-08 — 20:28:08 UTC	Damian000, Daryl, lolthisnotderk, MathNoob	330	5	25
+428298	3	15	3 Suits	2021-02-06 — 23:52:07 UTC	Daryl, griff77, HariKrishnan	75	3	15
+428220	3	14	3 Suits	2021-02-06 — 23:16:57 UTC	Daryl, griff77, HariKrishnan	116	3	15
 428159	4	14	3 Suits	2021-02-06 — 22:49:35 UTC	Daryl, griff77, HariKrishnan, kondain	37	3	15
 428117	4	0	3 Suits	2021-02-06 — 22:31:18 UTC	Daryl, griff77, HariKrishnan, kondain	49	3	15
-428091	3	13	3 Suits	2021-02-06 — 22:12:34 UTC	Daryl, HariKrishnan, kondain	144	3	15
+428091	3	13	3 Suits	2021-02-06 — 22:12:34 UTC	Daryl, HariKrishnan, kondain	146	3	15
 428029	5	22	Rainbow & Prism (5 Suits)	2021-02-06 — 21:36:40 UTC	4head, DarthGandalf, Daryl, Doge, torp	4	5	25
 427977	4	24	Black (5 Suits)	2021-02-06 — 20:52:29 UTC	Daryl, Feich59, Kowalski1337, nkkarpov	22	5	25
 427946	4	23	Black (5 Suits)	2021-02-06 — 20:25:20 UTC	Daryl, Feich59, Kowalski1337, nkkarpov	32	5	25
 427754	6	0	No Variant	2021-02-06 — 17:04:41 UTC	banjoleb, Daryl, Denchulitas, Doge, griff77, narabio	75	5	25
-427710	5	0	White (6 Suits)	2021-02-06 — 16:34:58 UTC	banjoleb, Daryl, Denchulitas, Doge, narabio	17	6	30
-427685	4	0	Prism (5 Suits)	2021-02-06 — 15:53:47 UTC	CaitlinSmith, Daryl, MathNoob, Spieler42	23	5	25
-427670	4	25	Prism (5 Suits)	2021-02-06 — 15:26:27 UTC	CaitlinSmith, Daryl, MathNoob, Spieler42	29	5	25
-426699	4	0	White (6 Suits)	2021-02-05 — 20:06:56 UTC	Daryl, Denchulitas, griff77, Plum	60	6	30
-426624	5	23	No Variant	2021-02-05 — 18:52:07 UTC	Daryl, eljavi, griff77, MathNoob, Plum	81	5	25
-426598	5	0	No Variant	2021-02-05 — 18:26:45 UTC	Daryl, eljavi, griff77, MathNoob, robense	51	5	25
+427710	5	0	White (6 Suits)	2021-02-06 — 16:34:58 UTC	banjoleb, Daryl, Denchulitas, Doge, narabio	18	6	30
+427685	4	0	Prism (5 Suits)	2021-02-06 — 15:53:47 UTC	CaitlinSmith, Daryl, MathNoob, Spieler42	25	5	25
+427670	4	25	Prism (5 Suits)	2021-02-06 — 15:26:27 UTC	CaitlinSmith, Daryl, MathNoob, Spieler42	31	5	25
+426699	4	0	White (6 Suits)	2021-02-05 — 20:06:56 UTC	Daryl, Denchulitas, griff77, Plum	62	6	30
+426624	5	23	No Variant	2021-02-05 — 18:52:07 UTC	Daryl, eljavi, griff77, MathNoob, Plum	82	5	25
+426598	5	0	No Variant	2021-02-05 — 18:26:45 UTC	Daryl, eljavi, griff77, MathNoob, robense	52	5	25
 425719	4	25	No Variant	2021-02-04 — 21:10:53 UTC	Daryl, eljavi, HariKrishnan, robense	60	5	25
-425675	4	23	Black (5 Suits)	2021-02-04 — 20:42:25 UTC	Daryl, HariKrishnan, rahsosprout, Spieler42	36	5	25
-425644	4	0	Black (5 Suits)	2021-02-04 — 20:19:40 UTC	Daryl, HariKrishnan, rahsosprout, Spieler42	49	5	25
-425614	4	21	Black (5 Suits)	2021-02-04 — 20:01:51 UTC	Daryl, HariKrishnan, rahsosprout, Spieler42	63	5	25
+425675	4	23	Black (5 Suits)	2021-02-04 — 20:42:25 UTC	Daryl, HariKrishnan, rahsosprout, Spieler42	37	5	25
+425644	4	0	Black (5 Suits)	2021-02-04 — 20:19:40 UTC	Daryl, HariKrishnan, rahsosprout, Spieler42	51	5	25
+425614	4	21	Black (5 Suits)	2021-02-04 — 20:01:51 UTC	Daryl, HariKrishnan, rahsosprout, Spieler42	64	5	25
 423339	5	25	Pink (5 Suits)	2021-02-02 — 21:50:53 UTC	Daryl, knaphill, Kyle, robense, Spieler42	2	5	25
 423284	5	21	Black (5 Suits)	2021-02-02 — 21:15:08 UTC	Daryl, Denchulitas, jian01, LautiManzano, narabio	27	5	25
 421460	6	23	No Variant	2021-01-31 — 22:44:37 UTC	Bot-Fiora, Daryl, Denchulitas, Doge, ksfortson, MarcLovesDogs	17	5	25
@@ -71,9 +71,9 @@
 421399	6	24	Rainbow (5 Suits)	2021-01-31 — 21:46:03 UTC	Bot-Fiora, Daryl, frosty104, knaphill, Lanvin, MarcLovesDogs	7	5	25
 421372	6	0	Black & White (6 Suits)	2021-01-31 — 21:21:51 UTC	Bot-Fiora, Daryl, Denchulitas, frosty104, knaphill, MarcLovesDogs	4	6	30
 421361	4	0	Black & White (6 Suits)	2021-01-31 — 21:11:06 UTC	Daryl, Denchulitas, rahsosprout, robense	29	6	30
-421317	3	25	No Variant	2021-01-31 — 20:28:52 UTC	Daryl, HariKrishnan, nkkarpov	940	5	25
-421212	5	23	No Variant	2021-01-31 — 17:54:55 UTC	banjoleb, Daryl, Denchulitas, griff77, possum	1119	5	25
-416785	3	22	Prism (5 Suits)	2021-01-27 — 21:33:48 UTC	caña, Daryl, griff77	38	5	25
+421317	3	25	No Variant	2021-01-31 — 20:28:52 UTC	Daryl, HariKrishnan, nkkarpov	952	5	25
+421212	5	23	No Variant	2021-01-31 — 17:54:55 UTC	banjoleb, Daryl, Denchulitas, griff77, possum	1125	5	25
+416785	3	22	Prism (5 Suits)	2021-01-27 — 21:33:48 UTC	caña, Daryl, griff77	39	5	25
 415718	4	22	Prism (5 Suits)	2021-01-26 — 21:48:00 UTC	Daryl, Denchulitas, griff77, ksfortson	4	5	25
 415704	4	0	Prism (5 Suits)	2021-01-26 — 21:28:49 UTC	Daryl, Denchulitas, griff77, ksfortson	4	5	25
 415685	6	21	Rainbow (5 Suits)	2021-01-26 — 21:06:28 UTC	Daryl, Denchulitas, griff77, ksfortson, Lanvin, VerySloppyTwo	5	5	25
@@ -89,28 +89,28 @@
 412464	4	25	White-Ones (5 Suits)	2021-01-23 — 16:08:30 UTC	ChristopheAF, Daryl, Lel0uch, Pimak	10	5	25
 411628	6	24	White (5 Suits)	2021-01-22 — 22:05:40 UTC	4head, caña, Daryl, Denchulitas, griff77, jian01	8	5	25
 411605	6	0	White (5 Suits)	2021-01-22 — 21:36:39 UTC	4head, caña, Daryl, Denchulitas, griff77, jian01	10	5	25
-411508	4	0	No Variant	2021-01-22 — 19:41:37 UTC	Daryl, Denchulitas, Nitrate, Wittvector	601	5	25
+411508	4	0	No Variant	2021-01-22 — 19:41:37 UTC	Daryl, Denchulitas, Nitrate, Wittvector	606	5	25
 410024	6	0	No Variant	2021-01-20 — 23:10:07 UTC	4head, Daryl, Denchulitas, griff77, ksfortson, louietyj	19	5	25
 409988	6	21	No Variant	2021-01-20 — 22:24:18 UTC	4head, Daryl, Denchulitas, griff77, ksfortson, louietyj	26	5	25
 409967	6	0	No Variant	2021-01-20 — 21:57:28 UTC	4head, Daryl, Denchulitas, griff77, ksfortson, louietyj	29	5	25
 409948	6	0	No Variant	2021-01-20 — 21:40:28 UTC	4head, Daryl, Denchulitas, griff77, ksfortson, louietyj	52	5	25
-409910	3	29	6 Suits	2021-01-20 — 21:09:31 UTC	4head, Daryl, Denchulitas	252	6	30
+409910	3	29	6 Suits	2021-01-20 — 21:09:31 UTC	4head, Daryl, Denchulitas	256	6	30
 409875	2	25	No Variant	2021-01-20 — 20:37:22 UTC	Daryl, rachyrules	21	5	25
-408881	3	24	No Variant	2021-01-19 — 20:28:32 UTC	arnino, Daryl, HariKrishnan	624	5	25
-408837	3	25	No Variant	2021-01-19 — 19:48:48 UTC	arnino, Daryl, HariKrishnan	750	5	25
-408799	5	29	Rainbow (6 Suits)	2021-01-19 — 19:08:26 UTC	Daryl, kinkajusrevenge, knaphill, LautiManzano, zeinab001	67	6	30
-408711	6	0	No Variant	2021-01-19 — 17:43:59 UTC	ArualEIs, bjnh, Daryl, knaphill, Spieler42, zeinab001	282	5	25
-408447	2	21	No Variant	2021-01-19 — 07:54:40 UTC	Daryl, voss	181	5	25
-408436	3	27	Black (6 Suits)	2021-01-19 — 07:20:59 UTC	Daryl, voss, zeinab001	108	6	30
-407904	3	20	White (4 Suits)	2021-01-18 — 21:53:13 UTC	Daryl, padi, rachyrules	59	4	20
-407754	4	0	No Variant	2021-01-18 — 20:13:45 UTC	Daryl, dobi, hakha3, macanek	243	5	25
+408881	3	24	No Variant	2021-01-19 — 20:28:32 UTC	arnino, Daryl, HariKrishnan	632	5	25
+408837	3	25	No Variant	2021-01-19 — 19:48:48 UTC	arnino, Daryl, HariKrishnan	757	5	25
+408799	5	29	Rainbow (6 Suits)	2021-01-19 — 19:08:26 UTC	Daryl, kinkajusrevenge, knaphill, LautiManzano, zeinab001	68	6	30
+408711	6	0	No Variant	2021-01-19 — 17:43:59 UTC	ArualEIs, bjnh, Daryl, knaphill, Spieler42, zeinab001	284	5	25
+408447	2	21	No Variant	2021-01-19 — 07:54:40 UTC	Daryl, voss	184	5	25
+408436	3	27	Black (6 Suits)	2021-01-19 — 07:20:59 UTC	Daryl, voss, zeinab001	111	6	30
+407904	3	20	White (4 Suits)	2021-01-18 — 21:53:13 UTC	Daryl, padi, rachyrules	62	4	20
+407754	4	0	No Variant	2021-01-18 — 20:13:45 UTC	Daryl, dobi, hakha3, macanek	245	5	25
 406671	6	25	No Variant	2021-01-17 — 22:07:28 UTC	Daryl, Doge, Nils, nkkarpov, otterful, Stormylu	60	5	25
 406635	6	0	6 Suits	2021-01-17 — 21:35:34 UTC	Daryl, Doge, Nils, nkkarpov, otterful, Stormylu	50	6	30
-406325	3	22	No Variant	2021-01-17 — 14:23:55 UTC	Daryl, Denchulitas, Plum	134	5	25
+406325	3	22	No Variant	2021-01-17 — 14:23:55 UTC	Daryl, Denchulitas, Plum	140	5	25
 406314	5	30	Brown-Ones (6 Suits)	2021-01-17 — 13:41:06 UTC	banjoleb, Daryl, indego, Lanvin, Plum	1	6	30
-406307	3	28	Black (6 Suits)	2021-01-17 — 12:59:34 UTC	ArualEIs, Daryl, robense	56	6	30
-406303	3	25	No Variant	2021-01-17 — 12:22:46 UTC	ArualEIs, Daryl, louietyj	199	5	25
-405473	6	0	No Variant	2021-01-16 — 20:57:07 UTC	bjnh, ChristopheAF, Daryl, indego, sankala, Spieler42	478	5	25
+406307	3	28	Black (6 Suits)	2021-01-17 — 12:59:34 UTC	ArualEIs, Daryl, robense	58	6	30
+406303	3	25	No Variant	2021-01-17 — 12:22:46 UTC	ArualEIs, Daryl, louietyj	202	5	25
+405473	6	0	No Variant	2021-01-16 — 20:57:07 UTC	bjnh, ChristopheAF, Daryl, indego, sankala, Spieler42	483	5	25
 405276	6	23	White & Prism (5 Suits)	2021-01-16 — 18:14:58 UTC	ADrone, Daryl, dobi, Kernel, Libster, MangoPie	2	5	25
 405259	5	19	White (4 Suits)	2021-01-16 — 17:36:24 UTC	ADrone, Daryl, dobi, pianoblook, sjdrodge	5	4	20
 405140	3	27	White (6 Suits)	2021-01-16 — 12:45:57 UTC	Daryl, knaphill, macanek	70	6	30
@@ -118,148 +118,148 @@
 405098	5	0	Rainbow-Ones & Prism (6 Suits)	2021-01-16 — 10:17:16 UTC	Daryl, derekcheah, Floriman, sephiroth, TheDaniMan	1	6	30
 405094	5	0	Rainbow-Ones & Prism (6 Suits)	2021-01-16 — 10:00:26 UTC	Daryl, derekcheah, Floriman, sephiroth, TheDaniMan	1	6	30
 405087	5	0	Rainbow-Ones & Prism (6 Suits)	2021-01-16 — 09:45:10 UTC	Daryl, derekcheah, Floriman, sephiroth, TheDaniMan	3	6	30
-404396	3	0	Rainbow (5 Suits)	2021-01-15 — 22:04:52 UTC	Daryl, Div, Spieler42	43	5	25
-404348	3	0	Rainbow (6 Suits)	2021-01-15 — 21:21:37 UTC	Daryl, HariKrishnan, kinkajusrevenge	91	6	30
+404396	3	0	Rainbow (5 Suits)	2021-01-15 — 22:04:52 UTC	Daryl, Div, Spieler42	44	5	25
+404348	3	0	Rainbow (6 Suits)	2021-01-15 — 21:21:37 UTC	Daryl, HariKrishnan, kinkajusrevenge	93	6	30
 404295	6	23	White-Ones (5 Suits)	2021-01-15 — 20:41:06 UTC	bjnh, ChristopheAF, Daryl, Kernel, Lanvin, Pablo-	1	5	25
-404269	4	0	No Variant	2021-01-15 — 20:16:42 UTC	Daryl, duckington, HariKrishnan, Spieler42	793	5	25
-404229	3	23	Rainbow (5 Suits)	2021-01-15 — 19:42:22 UTC	ADrone, Daryl, duckington	57	5	25
-401279	4	25	No Variant	2021-01-12 — 19:40:23 UTC	Daryl, indego, Pablo-, tezeteta	89	5	25
-401253	4	0	No Variant	2021-01-12 — 19:04:11 UTC	Daryl, indego, tezeteta, XMIL	44	5	25
+404269	4	0	No Variant	2021-01-15 — 20:16:42 UTC	Daryl, duckington, HariKrishnan, Spieler42	800	5	25
+404229	3	23	Rainbow (5 Suits)	2021-01-15 — 19:42:22 UTC	ADrone, Daryl, duckington	59	5	25
+401279	4	25	No Variant	2021-01-12 — 19:40:23 UTC	Daryl, indego, Pablo-, tezeteta	91	5	25
+401253	4	0	No Variant	2021-01-12 — 19:04:11 UTC	Daryl, indego, tezeteta, XMIL	45	5	25
 400406	5	24	Brown-Ones (5 Suits)	2021-01-11 — 21:00:57 UTC	Daryl, Lanvin, Nitrate, rahsosprout, sephiroth	3	5	25
 400387	5	0	Brown-Ones (5 Suits)	2021-01-11 — 20:42:56 UTC	Daryl, Lanvin, Nitrate, rahsosprout, sephiroth	5	5	25
 400374	5	0	3 Suits	2021-01-11 — 20:30:45 UTC	CaitlinSmith, Daryl, Lanvin, Nitrate, rahsosprout	27	3	15
-400333	3	25	No Variant	2021-01-11 — 19:55:36 UTC	CaitlinSmith, Daryl, Nitrate	167	5	25
-400313	3	0	No Variant	2021-01-11 — 19:32:37 UTC	CaitlinSmith, Daryl, Nitrate	164	5	25
-400299	3	0	No Variant	2021-01-11 — 19:22:27 UTC	CaitlinSmith, Daryl, knaphill	175	5	25
-400266	3	0	No Variant	2021-01-11 — 18:47:01 UTC	CaitlinSmith, Daryl, knaphill	187	5	25
-400245	4	0	White (6 Suits)	2021-01-11 — 18:09:54 UTC	Daryl, knaphill, sin_faith, zeinab001	75	6	30
-397715	3	25	No Variant	2021-01-09 — 11:09:11 UTC	Daryl, Dennisdj, StKildaFan	24	5	25
-397703	3	24	No Variant	2021-01-09 — 10:17:43 UTC	Daryl, Dennisdj, StKildaFan	25	5	25
-395867	2	19	4 Suits	2021-01-07 — 22:30:46 UTC	Daryl, diael	171	4	20
-395832	2	17	4 Suits	2021-01-07 — 22:10:11 UTC	Daryl, diael	244	4	20
-395799	3	19	Up or Down (5 Suits)	2021-01-07 — 21:38:23 UTC	Daryl, diael, sean1815	88	5	25
-395766	3	0	Up or Down (5 Suits)	2021-01-07 — 21:15:46 UTC	Daryl, diael, sean1815	113	5	25
+400333	3	25	No Variant	2021-01-11 — 19:55:36 UTC	CaitlinSmith, Daryl, Nitrate	170	5	25
+400313	3	0	No Variant	2021-01-11 — 19:32:37 UTC	CaitlinSmith, Daryl, Nitrate	167	5	25
+400299	3	0	No Variant	2021-01-11 — 19:22:27 UTC	CaitlinSmith, Daryl, knaphill	176	5	25
+400266	3	0	No Variant	2021-01-11 — 18:47:01 UTC	CaitlinSmith, Daryl, knaphill	189	5	25
+400245	4	0	White (6 Suits)	2021-01-11 — 18:09:54 UTC	Daryl, knaphill, sin_faith, zeinab001	76	6	30
+397715	3	25	No Variant	2021-01-09 — 11:09:11 UTC	Daryl, Dennisdj, StKildaFan	25	5	25
+397703	3	24	No Variant	2021-01-09 — 10:17:43 UTC	Daryl, Dennisdj, StKildaFan	26	5	25
+395867	2	19	4 Suits	2021-01-07 — 22:30:46 UTC	Daryl, diael	177	4	20
+395832	2	17	4 Suits	2021-01-07 — 22:10:11 UTC	Daryl, diael	248	4	20
+395799	3	19	Up or Down (5 Suits)	2021-01-07 — 21:38:23 UTC	Daryl, diael, sean1815	89	5	25
+395766	3	0	Up or Down (5 Suits)	2021-01-07 — 21:15:46 UTC	Daryl, diael, sean1815	114	5	25
 395748	4	20	Prism (4 Suits)	2021-01-07 — 20:52:55 UTC	Daryl, diael, Lanvin, sean1815	4	4	20
 395710	5	26	White-Ones & White (6 Suits)	2021-01-07 — 20:12:12 UTC	Daryl, Lanvin, MangoPie, McPhisto2051, yvi	4	6	30
-395664	5	23	Black (5 Suits)	2021-01-07 — 19:09:44 UTC	Daryl, HelanaAshryvr, Lanvin, MangoPie, sephiroth	17	5	25
-393778	3	25	No Variant	2021-01-05 — 20:48:55 UTC	Daryl, diael, knaphill	1017	5	25
-393742	5	24	No Variant	2021-01-05 — 20:02:07 UTC	ChristopheAF, Daryl, diael, frosty104, MangoPie	383	5	25
-393717	4	24	Black (5 Suits)	2021-01-05 — 19:17:43 UTC	ChristopheAF, Daryl, PMP, rahsosprout	41	5	25
-392696	4	18	Rainbow (4 Suits)	2021-01-04 — 21:23:08 UTC	Daryl, Onen, Spieler42, tezeteta	45	4	20
-392660	3	28	White (6 Suits)	2021-01-04 — 20:49:14 UTC	Daryl, rahsosprout, Spieler42	101	6	30
-392615	3	0	White (6 Suits)	2021-01-04 — 20:15:53 UTC	Daryl, rahsosprout, Spieler42	124	6	30
-391708	5	24	No Variant	2021-01-03 — 21:10:05 UTC	ChristopheAF, Daryl, HelanaAshryvr, Spieler42, torp	109	5	25
-391673	5	0	No Variant	2021-01-03 — 20:39:41 UTC	ChristopheAF, Daryl, HelanaAshryvr, Spieler42, torp	126	5	25
-391646	3	25	No Variant	2021-01-03 — 20:04:54 UTC	ChristopheAF, Daryl, Spieler42	551	5	25
-391401	3	30	Gray (6 Suits)	2021-01-03 — 11:24:59 UTC	Daryl, katian, ricardodd	30	6	30
-391397	3	0	Gray (6 Suits)	2021-01-03 — 11:02:38 UTC	Daryl, katian, ricardodd	36	6	30
-391396	3	0	Gray (6 Suits)	2021-01-03 — 10:49:15 UTC	Daryl, katian, ricardodd	42	6	30
-391388	3	0	Gray (6 Suits)	2021-01-03 — 10:18:06 UTC	Daryl, katian, ricardodd	45	6	30
-391380	3	0	Gray (6 Suits)	2021-01-03 — 10:00:20 UTC	Daryl, katian, ricardodd	48	6	30
-391373	3	29	Gray (6 Suits)	2021-01-03 — 09:42:22 UTC	Daryl, katian, ricardodd	55	6	30
-390640	3	30	Prism (6 Suits)	2021-01-02 — 21:59:34 UTC	Daryl, Lanvin, robense	60	6	30
+395664	5	23	Black (5 Suits)	2021-01-07 — 19:09:44 UTC	Daryl, HelanaAshryvr, Lanvin, MangoPie, sephiroth	18	5	25
+393778	3	25	No Variant	2021-01-05 — 20:48:55 UTC	Daryl, diael, knaphill	1026	5	25
+393742	5	24	No Variant	2021-01-05 — 20:02:07 UTC	ChristopheAF, Daryl, diael, frosty104, MangoPie	384	5	25
+393717	4	24	Black (5 Suits)	2021-01-05 — 19:17:43 UTC	ChristopheAF, Daryl, PMP, rahsosprout	42	5	25
+392696	4	18	Rainbow (4 Suits)	2021-01-04 — 21:23:08 UTC	Daryl, Onen, Spieler42, tezeteta	46	4	20
+392660	3	28	White (6 Suits)	2021-01-04 — 20:49:14 UTC	Daryl, rahsosprout, Spieler42	103	6	30
+392615	3	0	White (6 Suits)	2021-01-04 — 20:15:53 UTC	Daryl, rahsosprout, Spieler42	128	6	30
+391708	5	24	No Variant	2021-01-03 — 21:10:05 UTC	ChristopheAF, Daryl, HelanaAshryvr, Spieler42, torp	112	5	25
+391673	5	0	No Variant	2021-01-03 — 20:39:41 UTC	ChristopheAF, Daryl, HelanaAshryvr, Spieler42, torp	127	5	25
+391646	3	25	No Variant	2021-01-03 — 20:04:54 UTC	ChristopheAF, Daryl, Spieler42	558	5	25
+391401	3	30	Gray (6 Suits)	2021-01-03 — 11:24:59 UTC	Daryl, katian, ricardodd	32	6	30
+391397	3	0	Gray (6 Suits)	2021-01-03 — 11:02:38 UTC	Daryl, katian, ricardodd	37	6	30
+391396	3	0	Gray (6 Suits)	2021-01-03 — 10:49:15 UTC	Daryl, katian, ricardodd	43	6	30
+391388	3	0	Gray (6 Suits)	2021-01-03 — 10:18:06 UTC	Daryl, katian, ricardodd	48	6	30
+391380	3	0	Gray (6 Suits)	2021-01-03 — 10:00:20 UTC	Daryl, katian, ricardodd	52	6	30
+391373	3	29	Gray (6 Suits)	2021-01-03 — 09:42:22 UTC	Daryl, katian, ricardodd	57	6	30
+390640	3	30	Prism (6 Suits)	2021-01-02 — 21:59:34 UTC	Daryl, Lanvin, robense	61	6	30
 390535	4	19	Dark Prism (5 Suits)	2021-01-02 — 20:24:09 UTC	Daryl, Lanvin, macanek, ricardodd	17	5	25
-390274	3	13	3 Suits	2021-01-02 — 12:50:14 UTC	Daryl, hakha3, witcher	88	3	15
-390257	5	24	No Variant	2021-01-02 — 12:27:32 UTC	Daryl, frosty104, indego, Lel0uch, witcher	176	5	25
+390274	3	13	3 Suits	2021-01-02 — 12:50:14 UTC	Daryl, hakha3, witcher	90	3	15
+390257	5	24	No Variant	2021-01-02 — 12:27:32 UTC	Daryl, frosty104, indego, Lel0uch, witcher	178	5	25
 390243	5	27	Reversed (6 Suits)	2021-01-02 — 11:52:39 UTC	Daryl, frosty104, indego, Lel0uch, Sucubis	14	6	30
-390234	3	0	Rainbow (5 Suits)	2021-01-02 — 11:14:20 UTC	Daryl, indego, Lel0uch	21	5	25
-390225	4	24	No Variant	2021-01-02 — 10:47:21 UTC	Daryl, Div, Lel0uch, methmatics	53	5	25
+390234	3	0	Rainbow (5 Suits)	2021-01-02 — 11:14:20 UTC	Daryl, indego, Lel0uch	23	5	25
+390225	4	24	No Variant	2021-01-02 — 10:47:21 UTC	Daryl, Div, Lel0uch, methmatics	55	5	25
 389639	5	0	Rainbow & Prism (5 Suits)	2021-01-01 — 22:35:41 UTC	Daryl, frosty104, Lanvin, MarcLovesDogs, Spieler42	5	5	25
 389621	5	0	Rainbow & Prism (5 Suits)	2021-01-01 — 22:14:24 UTC	Daryl, frosty104, Lanvin, MarcLovesDogs, Spieler42	7	5	25
 389595	5	0	Prism (6 Suits)	2021-01-01 — 21:49:45 UTC	bjnh, Daryl, frosty104, Lanvin, Spieler42	12	6	30
 389554	5	29	White & Prism (6 Suits)	2021-01-01 — 21:16:02 UTC	bjnh, Daryl, indego, Lanvin, Spieler42	3	6	30
 389515	5	0	White & Prism (6 Suits)	2021-01-01 — 20:34:58 UTC	bjnh, Daryl, indego, Lanvin, Spieler42	5	6	30
-389487	4	0	White & Prism (6 Suits)	2021-01-01 — 20:02:53 UTC	Daryl, indego, Lanvin, Spieler42	8	6	30
+389487	4	0	White & Prism (6 Suits)	2021-01-01 — 20:02:53 UTC	Daryl, indego, Lanvin, Spieler42	10	6	30
 389445	4	30	Rainbow (6 Suits)	2021-01-01 — 18:39:07 UTC	Daryl, jack67889, rz, TimeHoodie	13	6	30
-389432	4	0	Rainbow (6 Suits)	2021-01-01 — 18:11:57 UTC	Daryl, jack67889, rz, TimeHoodie	15	6	30
-389420	4	28	Rainbow (6 Suits)	2021-01-01 — 17:47:23 UTC	Daryl, jack67889, rz, TimeHoodie	15	6	30
+389432	4	0	Rainbow (6 Suits)	2021-01-01 — 18:11:57 UTC	Daryl, jack67889, rz, TimeHoodie	16	6	30
+389420	4	28	Rainbow (6 Suits)	2021-01-01 — 17:47:23 UTC	Daryl, jack67889, rz, TimeHoodie	16	6	30
 389407	4	0	Rainbow (6 Suits)	2021-01-01 — 17:23:17 UTC	Daryl, jack67889, rz, TimeHoodie	19	6	30
-389319	3	30	6 Suits	2021-01-01 — 14:45:53 UTC	Daryl, MangoPie, zeinab001	503	6	30
+389319	3	30	6 Suits	2021-01-01 — 14:45:53 UTC	Daryl, MangoPie, zeinab001	511	6	30
 389306	5	12	3 Suits	2021-01-01 — 14:17:51 UTC	bob65536, Daryl, Lanvin, MangoPie, Wittvector	11	3	15
-389303	5	12	3 Suits	2021-01-01 — 13:59:33 UTC	bob65536, Daryl, Lanvin, MangoPie, Wittvector	24	3	15
+389303	5	12	3 Suits	2021-01-01 — 13:59:33 UTC	bob65536, Daryl, Lanvin, MangoPie, Wittvector	25	3	15
 389299	5	20	Prism (4 Suits)	2021-01-01 — 13:28:02 UTC	bob65536, Daryl, Lanvin, MangoPie, Wittvector	10	4	20
-389285	3	25	No Variant	2021-01-01 — 12:58:48 UTC	Daryl, MangoPie, Wittvector	275	5	25
+389285	3	25	No Variant	2021-01-01 — 12:58:48 UTC	Daryl, MangoPie, Wittvector	277	5	25
 388175	3	25	White (5 Suits)	2020-12-31 — 13:33:45 UTC	Daryl, macanek, StKildaFan	23	5	25
-388173	3	25	White (5 Suits)	2020-12-31 — 13:18:17 UTC	Daryl, macanek, StKildaFan	29	5	25
+388173	3	25	White (5 Suits)	2020-12-31 — 13:18:17 UTC	Daryl, macanek, StKildaFan	30	5	25
 388166	3	25	Brown (5 Suits)	2020-12-31 — 12:54:00 UTC	Daryl, frosty104, Wittvector	31	5	25
 388158	4	22	Black (5 Suits)	2020-12-31 — 12:06:49 UTC	Daryl, frosty104, StKildaFan, Wittvector	21	5	25
 388154	5	25	No Variant	2020-12-31 — 11:36:12 UTC	Daryl, frosty104, StKildaFan, TimeHoodie, Wittvector	15	5	25
-388144	3	25	Prism (5 Suits)	2020-12-31 — 11:02:33 UTC	Daryl, frosty104, macanek	45	5	25
+388144	3	25	Prism (5 Suits)	2020-12-31 — 11:02:33 UTC	Daryl, frosty104, macanek	47	5	25
 387591	4	0	Totally Blind (6 Suits)	2020-12-30 — 22:36:29 UTC	Daryl, Lanvin, macanek, Pimak	8	6	30
 387570	4	0	3 Suits	2020-12-30 — 22:07:05 UTC	Daryl, eljavi, Lanvin, macanek	62	3	15
 387554	4	20	4 Suits	2020-12-30 — 21:51:57 UTC	Daryl, doctorabi, Floriman, Kyle	10	4	20
 387531	4	19	4 Suits	2020-12-30 — 21:36:00 UTC	Daryl, doctorabi, Floriman, Kyle	13	4	20
-387497	3	29	Rainbow (6 Suits)	2020-12-30 — 21:01:42 UTC	Daryl, macanek, sean1815	196	6	30
-387459	6	21	No Variant	2020-12-30 — 20:21:32 UTC	ArualEIs, Damian000, Daryl, oliana, voss, witcher	91	5	25
-387429	4	0	No Variant	2020-12-30 — 19:49:55 UTC	ArualEIs, Daryl, oliana, voss	156	5	25
-385333	5	21	No Variant	2020-12-28 — 21:22:14 UTC	BillaVGC, Daryl, macanek, Shemetz, Spieler42	207	5	25
+387497	3	29	Rainbow (6 Suits)	2020-12-30 — 21:01:42 UTC	Daryl, macanek, sean1815	198	6	30
+387459	6	21	No Variant	2020-12-30 — 20:21:32 UTC	ArualEIs, Damian000, Daryl, oliana, voss, witcher	92	5	25
+387429	4	0	No Variant	2020-12-30 — 19:49:55 UTC	ArualEIs, Daryl, oliana, voss	157	5	25
+385333	5	21	No Variant	2020-12-28 — 21:22:14 UTC	BillaVGC, Daryl, macanek, Shemetz, Spieler42	208	5	25
 385292	5	0	White-Fives (5 Suits)	2020-12-28 — 20:45:32 UTC	BillaVGC, Daryl, Lanvin, macanek, Spieler42	2	5	25
-385260	3	25	White-Ones (5 Suits)	2020-12-28 — 20:20:43 UTC	Daryl, Lanvin, Spieler42	20	5	25
-385242	5	0	No Variant	2020-12-28 — 20:04:46 UTC	Daryl, jian01, Lanvin, nmirson, Spieler42	262	5	25
+385260	3	25	White-Ones (5 Suits)	2020-12-28 — 20:20:43 UTC	Daryl, Lanvin, Spieler42	21	5	25
+385242	5	0	No Variant	2020-12-28 — 20:04:46 UTC	Daryl, jian01, Lanvin, nmirson, Spieler42	265	5	25
 385229	3	23	Alternating Clues (5 Suits)	2020-12-28 — 19:48:57 UTC	BillaVGC, Daryl, Lanvin	13	5	25
-385189	4	0	Prism (5 Suits)	2020-12-28 — 19:13:24 UTC	BillaVGC, Daryl, indego, Lanvin	47	5	25
+385189	4	0	Prism (5 Suits)	2020-12-28 — 19:13:24 UTC	BillaVGC, Daryl, indego, Lanvin	48	5	25
 385113	5	25	Prism (5 Suits)	2020-12-28 — 17:44:04 UTC	aquarelle, Daryl, Feich59, indego, Lanvin	20	5	25
-384135	4	0	No Variant	2020-12-27 — 20:19:40 UTC	Daryl, ducky, Ellena, witcher	257	5	25
-384070	4	22	No Variant	2020-12-27 — 19:26:44 UTC	Daryl, doctorabi, Kaznad, MarkusKahlsen	39	5	25
-384000	6	22	No Variant	2020-12-27 — 18:15:38 UTC	Daryl, macanek, narabio, Pepe123, sephiroth, VerySloppyTwo	115	5	25
+384135	4	0	No Variant	2020-12-27 — 20:19:40 UTC	Daryl, ducky, Ellena, witcher	260	5	25
+384070	4	22	No Variant	2020-12-27 — 19:26:44 UTC	Daryl, doctorabi, Kaznad, MarkusKahlsen	40	5	25
+384000	6	22	No Variant	2020-12-27 — 18:15:38 UTC	Daryl, macanek, narabio, Pepe123, sephiroth, VerySloppyTwo	118	5	25
 383916	4	22	No Variant	2020-12-27 — 15:39:20 UTC	Daryl, narabio, oliana, wump	64	5	25
 383905	5	25	No Variant	2020-12-27 — 15:06:27 UTC	Daryl, indego, kinkajusrevenge, oliana, wump	135	5	25
 380832	5	20	No Variant	2020-12-24 — 12:16:18 UTC	Daryl, katian, Pablo-, sin_faith, Sucubis	7	5	25
 380831	5	24	No Variant	2020-12-24 — 11:36:54 UTC	Daryl, katian, Pablo-, sin_faith, Sucubis	7	5	25
-380826	4	0	No Variant	2020-12-24 — 11:08:52 UTC	Daryl, Pablo-, Plum, Sucubis	111	5	25
-380820	2	20	No Variant	2020-12-24 — 10:39:26 UTC	Daryl, Pablo-	4109	5	25
-380073	4	25	No Variant	2020-12-23 — 20:17:31 UTC	ChristopheAF, Daryl, Kernel, macanek	655	5	25
+380826	4	0	No Variant	2020-12-24 — 11:08:52 UTC	Daryl, Pablo-, Plum, Sucubis	112	5	25
+380820	2	20	No Variant	2020-12-24 — 10:39:26 UTC	Daryl, Pablo-	4149	5	25
+380073	4	25	No Variant	2020-12-23 — 20:17:31 UTC	ChristopheAF, Daryl, Kernel, macanek	660	5	25
 380058	4	25	White (5 Suits)	2020-12-23 — 19:50:43 UTC	ChristopheAF, Daryl, Lanvin, macanek	60	5	25
-380020	4	0	Rainbow (4 Suits)	2020-12-23 — 19:19:46 UTC	Daryl, Lanvin, moeski, Wittvector	25	4	20
-379153	5	20	No Variant	2020-12-22 — 22:14:15 UTC	banjoleb, Daryl, Doge, indego, sean1815	837	5	25
-379098	5	22	No Variant	2020-12-22 — 21:24:57 UTC	banjoleb, Daryl, indego, Kyle, sean1815	16	5	25
-379045	3	22	No Variant	2020-12-22 — 20:42:48 UTC	banjoleb, Daryl, sean1815	1291	5	25
-378995	3	24	No Variant	2020-12-22 — 19:50:45 UTC	banjoleb, Daryl, sean1815	1465	5	25
-378964	4	23	No Variant	2020-12-22 — 18:41:19 UTC	banjoleb, Daryl, indego, sean1815	2076	5	25
-378921	4	24	No Variant	2020-12-22 — 17:21:18 UTC	Daryl, PMP, sean1815, wump	78	5	25
-378891	5	0	No Variant	2020-12-22 — 16:35:19 UTC	banjoleb, Daryl, Lanvin, sean1815, wump	195	5	25
-378064	4	24	White (5 Suits)	2020-12-21 — 21:41:22 UTC	Daryl, Lanvin, ricardodd, StKildaFan	79	5	25
+380020	4	0	Rainbow (4 Suits)	2020-12-23 — 19:19:46 UTC	Daryl, Lanvin, moeski, Wittvector	26	4	20
+379153	5	20	No Variant	2020-12-22 — 22:14:15 UTC	banjoleb, Daryl, Doge, indego, sean1815	845	5	25
+379098	5	22	No Variant	2020-12-22 — 21:24:57 UTC	banjoleb, Daryl, indego, Kyle, sean1815	17	5	25
+379045	3	22	No Variant	2020-12-22 — 20:42:48 UTC	banjoleb, Daryl, sean1815	1299	5	25
+378995	3	24	No Variant	2020-12-22 — 19:50:45 UTC	banjoleb, Daryl, sean1815	1474	5	25
+378964	4	23	No Variant	2020-12-22 — 18:41:19 UTC	banjoleb, Daryl, indego, sean1815	2094	5	25
+378921	4	24	No Variant	2020-12-22 — 17:21:18 UTC	Daryl, PMP, sean1815, wump	79	5	25
+378891	5	0	No Variant	2020-12-22 — 16:35:19 UTC	banjoleb, Daryl, Lanvin, sean1815, wump	198	5	25
+378064	4	24	White (5 Suits)	2020-12-21 — 21:41:22 UTC	Daryl, Lanvin, ricardodd, StKildaFan	80	5	25
 378023	5	0	4 Suits	2020-12-21 — 20:49:25 UTC	Daryl, HariKrishnan, Kyle, Lanvin, StKildaFan	4	4	20
 377997	6	25	No Variant	2020-12-21 — 20:25:41 UTC	Daryl, hakha3, Kyle, Pablo-, sephiroth, TimeHoodie	1	5	25
 377941	4	25	No Variant	2020-12-21 — 19:25:32 UTC	Daryl, hakha3, ricardodd, timotree	36	5	25
-377923	3	23	Gray (5 Suits)	2020-12-21 — 19:02:31 UTC	Daryl, Onen, orucsoraihc	12	5	25
-377902	3	20	Gray (5 Suits)	2020-12-21 — 18:35:33 UTC	Daryl, Onen, orucsoraihc	17	5	25
-377896	3	0	Gray (5 Suits)	2020-12-21 — 18:22:26 UTC	Daryl, Onen, orucsoraihc	16	5	25
-377080	5	24	No Variant	2020-12-20 — 21:50:44 UTC	Daryl, HariKrishnan, kinkajusrevenge, Lanvin, Pimak	541	5	25
+377923	3	23	Gray (5 Suits)	2020-12-21 — 19:02:31 UTC	Daryl, Onen, orucsoraihc	13	5	25
+377902	3	20	Gray (5 Suits)	2020-12-21 — 18:35:33 UTC	Daryl, Onen, orucsoraihc	18	5	25
+377896	3	0	Gray (5 Suits)	2020-12-21 — 18:22:26 UTC	Daryl, Onen, orucsoraihc	17	5	25
+377080	5	24	No Variant	2020-12-20 — 21:50:44 UTC	Daryl, HariKrishnan, kinkajusrevenge, Lanvin, Pimak	546	5	25
 376874	6	20	Prism (4 Suits)	2020-12-20 — 18:20:37 UTC	Daryl, Div, frosty104, Kyle, Lanvin, ricardodd	2	4	20
 376867	5	0	White (3 Suits)	2020-12-20 — 18:03:39 UTC	Daryl, frosty104, Kyle, Lanvin, ricardodd	6	3	15
-376828	4	0	Rainbow (6 Suits)	2020-12-20 — 16:10:11 UTC	ADrone, ChristopheAF, Daryl, kinkajusrevenge	344	6	30
-376801	4	0	Rainbow (6 Suits)	2020-12-20 — 15:02:18 UTC	ADrone, ChristopheAF, Daryl, kinkajusrevenge	493	6	30
-376702	4	30	Rainbow (6 Suits)	2020-12-20 — 11:07:17 UTC	Daryl, frosty104, postmans, sjdrodge	163	6	30
+376828	4	0	Rainbow (6 Suits)	2020-12-20 — 16:10:11 UTC	ADrone, ChristopheAF, Daryl, kinkajusrevenge	349	6	30
+376801	4	0	Rainbow (6 Suits)	2020-12-20 — 15:02:18 UTC	ADrone, ChristopheAF, Daryl, kinkajusrevenge	497	6	30
+376702	4	30	Rainbow (6 Suits)	2020-12-20 — 11:07:17 UTC	Daryl, frosty104, postmans, sjdrodge	164	6	30
 376666	3	0	Rainbow (6 Suits)	2020-12-20 — 10:42:25 UTC	Daryl, frosty104, postmans	120	6	30
-376651	4	25	No Variant	2020-12-20 — 10:21:58 UTC	Daryl, Fey, frosty104, postmans	82	5	25
-376642	5	0	No Variant	2020-12-20 — 09:57:43 UTC	Daryl, Fey, frosty104, hakha3, postmans	120	5	25
-376631	4	25	No Variant	2020-12-20 — 09:29:21 UTC	Daryl, doctorabi, Fey, postmans	88	5	25
-376136	3	28	Prism (6 Suits)	2020-12-19 — 23:01:05 UTC	Daryl, hakha3, Pablo-	84	6	30
-372176	4	30	6 Suits	2020-12-15 — 21:59:41 UTC	ChristopheAF, Daryl, eljavi, HelanaAshryvr	354	6	30
+376651	4	25	No Variant	2020-12-20 — 10:21:58 UTC	Daryl, Fey, frosty104, postmans	84	5	25
+376642	5	0	No Variant	2020-12-20 — 09:57:43 UTC	Daryl, Fey, frosty104, hakha3, postmans	122	5	25
+376631	4	25	No Variant	2020-12-20 — 09:29:21 UTC	Daryl, doctorabi, Fey, postmans	90	5	25
+376136	3	28	Prism (6 Suits)	2020-12-19 — 23:01:05 UTC	Daryl, hakha3, Pablo-	85	6	30
+372176	4	30	6 Suits	2020-12-15 — 21:59:41 UTC	ChristopheAF, Daryl, eljavi, HelanaAshryvr	359	6	30
 372159	5	0	6 Suits	2020-12-15 — 21:28:02 UTC	aquarelle, ChristopheAF, Daryl, eljavi, HelanaAshryvr	96	6	30
-370283	4	23	Black (5 Suits)	2020-12-13 — 22:16:13 UTC	Daryl, eljavi, Plum, PMP	79	5	25
-370259	3	25	White (5 Suits)	2020-12-13 — 21:39:54 UTC	Daryl, eljavi, Plum	126	5	25
-370236	4	0	No Variant	2020-12-13 — 21:13:10 UTC	Daryl, Lechuga, onlyimo, Plum	2763	5	25
-370152	5	27	White (6 Suits)	2020-12-13 — 20:09:28 UTC	Daryl, HelanaAshryvr, Lanvin, ricardodd, sephiroth	27	6	30
-370125	3	20	Prism (4 Suits)	2020-12-13 — 19:45:22 UTC	Daryl, Lanvin, ricardodd	45	4	20
-368136	3	24	No Variant	2020-12-11 — 22:36:00 UTC	ChristopheAF, Daryl, emlgt	3260	5	25
-368102	3	0	Rainbow (6 Suits)	2020-12-11 — 22:13:04 UTC	ChristopheAF, Daryl, emlgt	689	6	30
-367910	4	0	Black (6 Suits)	2020-12-11 — 19:13:52 UTC	Daryl, frosty104, Lanvin, TheDaniMan	17	6	30
-367903	4	0	Black (6 Suits)	2020-12-11 — 19:04:13 UTC	Daryl, frosty104, Lanvin, TheDaniMan	17	6	30
-367092	3	24	Rainbow (5 Suits)	2020-12-10 — 22:29:44 UTC	Daryl, Doge, ricardodd	84	5	25
-367066	3	25	No Variant	2020-12-10 — 21:52:23 UTC	Daryl, ricardodd, yasztiger	1636	5	25
-367035	3	21	No Variant	2020-12-10 — 21:25:28 UTC	Daryl, ricardodd, yasztiger	2163	5	25
-366963	3	25	No Variant	2020-12-10 — 20:08:11 UTC	Carunty, Daryl, macanek	324	5	25
-366937	3	0	No Variant	2020-12-10 — 19:31:12 UTC	Carunty, Daryl, macanek	354	5	25
-366273	2	25	6 Suits	2020-12-09 — 22:20:29 UTC	Daryl, macanek	666	6	30
-366246	2	28	6 Suits	2020-12-09 — 21:57:05 UTC	Daryl, macanek	851	6	30
-364015	3	25	No Variant	2020-12-07 — 22:20:18 UTC	ChristopheAF, Daryl, macanek	1881	5	25
-363978	4	23	No Variant	2020-12-07 — 21:31:33 UTC	BillaVGC, ChristopheAF, Daryl, macanek	1092	5	25
-359229	4	25	No Variant	2020-12-02 — 22:47:03 UTC	Daryl, Lanvin, orucsoraihc, Peppix222	278	5	25
-359176	4	23	No Variant	2020-12-02 — 21:19:06 UTC	Daryl, Lanvin, orucsoraihc, Peppix222	287	5	25
+370283	4	23	Black (5 Suits)	2020-12-13 — 22:16:13 UTC	Daryl, eljavi, Plum, PMP	80	5	25
+370259	3	25	White (5 Suits)	2020-12-13 — 21:39:54 UTC	Daryl, eljavi, Plum	131	5	25
+370236	4	0	No Variant	2020-12-13 — 21:13:10 UTC	Daryl, Lechuga, onlyimo, Plum	2788	5	25
+370152	5	27	White (6 Suits)	2020-12-13 — 20:09:28 UTC	Daryl, HelanaAshryvr, Lanvin, ricardodd, sephiroth	28	6	30
+370125	3	20	Prism (4 Suits)	2020-12-13 — 19:45:22 UTC	Daryl, Lanvin, ricardodd	47	4	20
+368136	3	24	No Variant	2020-12-11 — 22:36:00 UTC	ChristopheAF, Daryl, emlgt	3290	5	25
+368102	3	0	Rainbow (6 Suits)	2020-12-11 — 22:13:04 UTC	ChristopheAF, Daryl, emlgt	693	6	30
+367910	4	0	Black (6 Suits)	2020-12-11 — 19:13:52 UTC	Daryl, frosty104, Lanvin, TheDaniMan	18	6	30
+367903	4	0	Black (6 Suits)	2020-12-11 — 19:04:13 UTC	Daryl, frosty104, Lanvin, TheDaniMan	19	6	30
+367092	3	24	Rainbow (5 Suits)	2020-12-10 — 22:29:44 UTC	Daryl, Doge, ricardodd	87	5	25
+367066	3	25	No Variant	2020-12-10 — 21:52:23 UTC	Daryl, ricardodd, yasztiger	1651	5	25
+367035	3	21	No Variant	2020-12-10 — 21:25:28 UTC	Daryl, ricardodd, yasztiger	2179	5	25
+366963	3	25	No Variant	2020-12-10 — 20:08:11 UTC	Carunty, Daryl, macanek	330	5	25
+366937	3	0	No Variant	2020-12-10 — 19:31:12 UTC	Carunty, Daryl, macanek	359	5	25
+366273	2	25	6 Suits	2020-12-09 — 22:20:29 UTC	Daryl, macanek	675	6	30
+366246	2	28	6 Suits	2020-12-09 — 21:57:05 UTC	Daryl, macanek	862	6	30
+364015	3	25	No Variant	2020-12-07 — 22:20:18 UTC	ChristopheAF, Daryl, macanek	1896	5	25
+363978	4	23	No Variant	2020-12-07 — 21:31:33 UTC	BillaVGC, ChristopheAF, Daryl, macanek	1103	5	25
+359229	4	25	No Variant	2020-12-02 — 22:47:03 UTC	Daryl, Lanvin, orucsoraihc, Peppix222	280	5	25
+359176	4	23	No Variant	2020-12-02 — 21:19:06 UTC	Daryl, Lanvin, orucsoraihc, Peppix222	293	5	25
 359068	6	26	Dark Rainbow (6 Suits)	2020-12-02 — 19:39:41 UTC	Daryl, doctorabi, nitawa, sephiroth, Sucubis, Wittvector	5	6	30
-203741	4	23	No Variant	2020-06-12 — 16:55:17 UTC	Daryl, Dr_Kakashi, Fey, XMIL	9	5	25
-203646	4	23	No Variant	2020-06-12 — 12:49:43 UTC	Daryl, Fey, sephiroth, tyrtel	3581	5	25
-178123	3	24	No Variant	2020-05-23 — 11:39:08 UTC	Daryl, maertin, robense	47	5	25
-141339	3	0	No Variant	2020-04-27 — 22:06:36 UTC	Daryl, H_H, SmellyJoe	121	5	25
+203741	4	23	No Variant	2020-06-12 — 16:55:17 UTC	Daryl, Dr_Kakashi, Fey, XMIL	10	5	25
+203646	4	23	No Variant	2020-06-12 — 12:49:43 UTC	Daryl, Fey, sephiroth, tyrtel	3609	5	25
+178123	3	24	No Variant	2020-05-23 — 11:39:08 UTC	Daryl, maertin, robense	48	5	25
+141339	3	0	No Variant	2020-04-27 — 22:06:36 UTC	Daryl, H_H, SmellyJoe	127	5	25

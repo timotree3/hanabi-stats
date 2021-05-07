@@ -1,138 +1,138 @@
-505400	2	0	Omni (6 Suits)	2021-04-18 — 16:28:52 UTC	katian, skyblueexo	62	6	30
-505350	2	0	Omni (6 Suits)	2021-04-18 — 15:42:58 UTC	katian, skyblueexo	64	6	30
-501882	2	0	Omni (6 Suits)	2021-04-15 — 16:29:59 UTC	katian, skyblueexo	73	6	30
-501878	2	0	Omni (6 Suits)	2021-04-15 — 16:05:37 UTC	katian, skyblueexo	95	6	30
-501876	2	0	Omni (6 Suits)	2021-04-15 — 15:54:07 UTC	katian, skyblueexo	121	6	30
-500905	3	0	Pink (3 Suits)	2021-04-14 — 16:29:49 UTC	katian, Krepps57, skyblueexo	19	3	15
-500890	3	14	Pink (3 Suits)	2021-04-14 — 16:04:45 UTC	katian, Krepps57, skyblueexo	23	3	15
-500879	3	0	Pink (3 Suits)	2021-04-14 — 15:36:34 UTC	katian, Krepps57, skyblueexo	27	3	15
-500874	3	0	Pink (3 Suits)	2021-04-14 — 15:26:55 UTC	katian, Krepps57, skyblueexo	33	3	15
-500871	3	0	Pink (3 Suits)	2021-04-14 — 15:25:17 UTC	katian, Krepps57, skyblueexo	44	3	15
-500867	2	15	White (3 Suits)	2021-04-14 — 15:14:45 UTC	katian, skyblueexo	46	3	15
-500861	2	0	White (3 Suits)	2021-04-14 — 14:59:54 UTC	katian, skyblueexo	71	3	15
-500855	2	0	White (3 Suits)	2021-04-14 — 14:53:01 UTC	katian, skyblueexo	95	3	15
-500846	2	25	Brown (5 Suits)	2021-04-14 — 14:29:15 UTC	katian, skyblueexo	124	5	25
-499725	3	0	6 Suits	2021-04-13 — 15:31:51 UTC	iamfelix, katian, skyblueexo	83	6	30
+505400	2	0	Omni (6 Suits)	2021-04-18 — 16:28:52 UTC	katian, skyblueexo	64	6	30
+505350	2	0	Omni (6 Suits)	2021-04-18 — 15:42:58 UTC	katian, skyblueexo	66	6	30
+501882	2	0	Omni (6 Suits)	2021-04-15 — 16:29:59 UTC	katian, skyblueexo	75	6	30
+501878	2	0	Omni (6 Suits)	2021-04-15 — 16:05:37 UTC	katian, skyblueexo	98	6	30
+501876	2	0	Omni (6 Suits)	2021-04-15 — 15:54:07 UTC	katian, skyblueexo	124	6	30
+500905	3	0	Pink (3 Suits)	2021-04-14 — 16:29:49 UTC	katian, Krepps57, skyblueexo	21	3	15
+500890	3	14	Pink (3 Suits)	2021-04-14 — 16:04:45 UTC	katian, Krepps57, skyblueexo	25	3	15
+500879	3	0	Pink (3 Suits)	2021-04-14 — 15:36:34 UTC	katian, Krepps57, skyblueexo	29	3	15
+500874	3	0	Pink (3 Suits)	2021-04-14 — 15:26:55 UTC	katian, Krepps57, skyblueexo	34	3	15
+500871	3	0	Pink (3 Suits)	2021-04-14 — 15:25:17 UTC	katian, Krepps57, skyblueexo	46	3	15
+500867	2	15	White (3 Suits)	2021-04-14 — 15:14:45 UTC	katian, skyblueexo	48	3	15
+500861	2	0	White (3 Suits)	2021-04-14 — 14:59:54 UTC	katian, skyblueexo	73	3	15
+500855	2	0	White (3 Suits)	2021-04-14 — 14:53:01 UTC	katian, skyblueexo	100	3	15
+500846	2	25	Brown (5 Suits)	2021-04-14 — 14:29:15 UTC	katian, skyblueexo	126	5	25
+499725	3	0	6 Suits	2021-04-13 — 15:31:51 UTC	iamfelix, katian, skyblueexo	84	6	30
 499716	3	0	6 Suits	2021-04-13 — 14:33:07 UTC	iamfelix, katian, skyblueexo	93	6	30
 499713	2	30	Brown (6 Suits)	2021-04-13 — 14:11:07 UTC	iamfelix, skyblueexo	17	6	30
 494940	2	30	Brown (6 Suits)	2021-04-09 — 16:37:51 UTC	katian, skyblueexo	25	6	30
 494925	2	0	Brown (6 Suits)	2021-04-09 — 16:11:38 UTC	katian, skyblueexo	28	6	30
-494911	3	0	Dark Brown (6 Suits)	2021-04-09 — 15:45:54 UTC	katian, Krepps57, skyblueexo	13	6	30
-494003	2	0	Brown (6 Suits)	2021-04-08 — 15:23:25 UTC	katian, skyblueexo	33	6	30
-493998	2	0	Brown (6 Suits)	2021-04-08 — 15:14:34 UTC	katian, skyblueexo	42	6	30
-493991	2	0	Brown (6 Suits)	2021-04-08 — 15:01:55 UTC	katian, skyblueexo	49	6	30
-493989	2	0	Brown (6 Suits)	2021-04-08 — 14:55:50 UTC	katian, skyblueexo	60	6	30
-493984	2	0	Brown (6 Suits)	2021-04-08 — 14:50:15 UTC	katian, skyblueexo	72	6	30
-490421	3	0	Brown & Muddy Rainbow (6 Suits)	2021-04-04 — 17:25:34 UTC	katian, Krepps57, skyblueexo	1	6	30
-490410	3	0	Brown & Muddy Rainbow (6 Suits)	2021-04-04 — 16:53:02 UTC	katian, Krepps57, skyblueexo	1	6	30
-490403	3	0	Brown & Muddy Rainbow (6 Suits)	2021-04-04 — 16:24:26 UTC	katian, Krepps57, skyblueexo	2	6	30
+494911	3	0	Dark Brown (6 Suits)	2021-04-09 — 15:45:54 UTC	katian, Krepps57, skyblueexo	14	6	30
+494003	2	0	Brown (6 Suits)	2021-04-08 — 15:23:25 UTC	katian, skyblueexo	35	6	30
+493998	2	0	Brown (6 Suits)	2021-04-08 — 15:14:34 UTC	katian, skyblueexo	43	6	30
+493991	2	0	Brown (6 Suits)	2021-04-08 — 15:01:55 UTC	katian, skyblueexo	50	6	30
+493989	2	0	Brown (6 Suits)	2021-04-08 — 14:55:50 UTC	katian, skyblueexo	61	6	30
+493984	2	0	Brown (6 Suits)	2021-04-08 — 14:50:15 UTC	katian, skyblueexo	73	6	30
+490421	3	0	Brown & Muddy Rainbow (6 Suits)	2021-04-04 — 17:25:34 UTC	katian, Krepps57, skyblueexo	2	6	30
+490410	3	0	Brown & Muddy Rainbow (6 Suits)	2021-04-04 — 16:53:02 UTC	katian, Krepps57, skyblueexo	2	6	30
+490403	3	0	Brown & Muddy Rainbow (6 Suits)	2021-04-04 — 16:24:26 UTC	katian, Krepps57, skyblueexo	3	6	30
 490396	3	0	Brown & Muddy Rainbow (6 Suits)	2021-04-04 — 16:11:45 UTC	katian, Krepps57, skyblueexo	2	6	30
 490393	3	0	Muddy Rainbow (6 Suits)	2021-04-04 — 16:06:30 UTC	katian, Krepps57, skyblueexo	18	6	30
 488349	3	30	Muddy Rainbow (6 Suits)	2021-04-02 — 16:00:30 UTC	katian, Krepps57, skyblueexo	25	6	30
-488308	2	0	Brown (6 Suits)	2021-04-02 — 15:04:01 UTC	katian, skyblueexo	81	6	30
-488303	2	0	Brown (6 Suits)	2021-04-02 — 14:56:46 UTC	katian, skyblueexo	94	6	30
-488298	2	0	Brown (6 Suits)	2021-04-02 — 14:46:04 UTC	katian, skyblueexo	129	6	30
-487465	3	0	Dark Brown (6 Suits)	2021-04-01 — 17:17:04 UTC	katian, Krepps57, skyblueexo	18	6	30
+488308	2	0	Brown (6 Suits)	2021-04-02 — 15:04:01 UTC	katian, skyblueexo	82	6	30
+488303	2	0	Brown (6 Suits)	2021-04-02 — 14:56:46 UTC	katian, skyblueexo	95	6	30
+488298	2	0	Brown (6 Suits)	2021-04-02 — 14:46:04 UTC	katian, skyblueexo	131	6	30
+487465	3	0	Dark Brown (6 Suits)	2021-04-01 — 17:17:04 UTC	katian, Krepps57, skyblueexo	19	6	30
 487440	3	0	Dark Brown (6 Suits)	2021-04-01 — 16:51:59 UTC	katian, Krepps57, skyblueexo	20	6	30
-485401	4	20	Omni (4 Suits)	2021-03-30 — 13:26:36 UTC	Lanvin, qqqq, skyblueexo, VerySloppyTwo	11	4	20
-485395	4	0	Omni (4 Suits)	2021-03-30 — 13:16:19 UTC	Lanvin, qqqq, skyblueexo, VerySloppyTwo	15	4	20
+485401	4	20	Omni (4 Suits)	2021-03-30 — 13:26:36 UTC	Lanvin, qqqq, skyblueexo, VerySloppyTwo	12	4	20
+485395	4	0	Omni (4 Suits)	2021-03-30 — 13:16:19 UTC	Lanvin, qqqq, skyblueexo, VerySloppyTwo	16	4	20
 485277	4	0	Up or Down & Omni (6 Suits)	2021-03-30 — 08:02:57 UTC	BraydonM, indego, sephiroth, skyblueexo	3	6	30
 485275	4	0	Up or Down & Omni (6 Suits)	2021-03-30 — 07:53:28 UTC	BraydonM, indego, sephiroth, skyblueexo	4	6	30
-484444	3	0	Dark Brown (6 Suits)	2021-03-29 — 16:06:03 UTC	katian, Krepps57, skyblueexo	22	6	30
-483324	3	0	Light Pink (6 Suits)	2021-03-28 — 10:45:58 UTC	katian, Krepps57, skyblueexo	25	6	30
-483320	3	0	Light Pink (6 Suits)	2021-03-28 — 10:35:42 UTC	katian, Krepps57, skyblueexo	34	6	30
-481279	3	0	Light Pink (6 Suits)	2021-03-26 — 16:23:38 UTC	iamfelix, katian, skyblueexo	38	6	30
-481225	2	0	Special Mix (6 Suits)	2021-03-26 — 15:05:22 UTC	katian, skyblueexo	10	6	30
-481214	2	0	Special Mix (6 Suits)	2021-03-26 — 14:35:31 UTC	katian, skyblueexo	11	6	30
-481208	2	0	Special Mix (6 Suits)	2021-03-26 — 14:12:05 UTC	katian, skyblueexo	11	6	30
-481204	2	0	Special Mix (6 Suits)	2021-03-26 — 14:02:26 UTC	katian, skyblueexo	11	6	30
-481193	2	0	Special Mix (6 Suits)	2021-03-26 — 13:44:51 UTC	katian, skyblueexo	12	6	30
-481187	2	0	Special Mix (6 Suits)	2021-03-26 — 13:29:08 UTC	katian, skyblueexo	11	6	30
-481185	2	0	Special Mix (6 Suits)	2021-03-26 — 13:26:01 UTC	katian, skyblueexo	12	6	30
-481182	2	0	Special Mix (6 Suits)	2021-03-26 — 13:21:51 UTC	katian, skyblueexo	12	6	30
+484444	3	0	Dark Brown (6 Suits)	2021-03-29 — 16:06:03 UTC	katian, Krepps57, skyblueexo	23	6	30
+483324	3	0	Light Pink (6 Suits)	2021-03-28 — 10:45:58 UTC	katian, Krepps57, skyblueexo	26	6	30
+483320	3	0	Light Pink (6 Suits)	2021-03-28 — 10:35:42 UTC	katian, Krepps57, skyblueexo	37	6	30
+481279	3	0	Light Pink (6 Suits)	2021-03-26 — 16:23:38 UTC	iamfelix, katian, skyblueexo	40	6	30
+481225	2	0	Special Mix (6 Suits)	2021-03-26 — 15:05:22 UTC	katian, skyblueexo	11	6	30
+481214	2	0	Special Mix (6 Suits)	2021-03-26 — 14:35:31 UTC	katian, skyblueexo	12	6	30
+481208	2	0	Special Mix (6 Suits)	2021-03-26 — 14:12:05 UTC	katian, skyblueexo	12	6	30
+481204	2	0	Special Mix (6 Suits)	2021-03-26 — 14:02:26 UTC	katian, skyblueexo	12	6	30
+481193	2	0	Special Mix (6 Suits)	2021-03-26 — 13:44:51 UTC	katian, skyblueexo	13	6	30
+481187	2	0	Special Mix (6 Suits)	2021-03-26 — 13:29:08 UTC	katian, skyblueexo	12	6	30
+481185	2	0	Special Mix (6 Suits)	2021-03-26 — 13:26:01 UTC	katian, skyblueexo	13	6	30
+481182	2	0	Special Mix (6 Suits)	2021-03-26 — 13:21:51 UTC	katian, skyblueexo	13	6	30
 480193	3	0	White & Light Pink (5 Suits)	2021-03-25 — 16:57:53 UTC	iamfelix, Krepps57, skyblueexo	9	5	25
-480144	4	24	Black (5 Suits)	2021-03-25 — 16:17:10 UTC	iamfelix, katian, Krepps57, skyblueexo	41	5	25
-480126	4	0	Black (5 Suits)	2021-03-25 — 15:44:25 UTC	iamfelix, katian, Krepps57, skyblueexo	63	5	25
-480106	3	25	No Variant	2021-03-25 — 14:54:53 UTC	iamfelix, katian, skyblueexo	100	5	25
-480100	3	0	No Variant	2021-03-25 — 14:37:45 UTC	iamfelix, katian, skyblueexo	102	5	25
-480096	3	25	No Variant	2021-03-25 — 14:25:22 UTC	iamfelix, katian, skyblueexo	106	5	25
-480089	2	0	Null (5 Suits)	2021-03-25 — 14:02:06 UTC	katian, skyblueexo	101	5	25
-479036	2	0	Special Mix (6 Suits)	2021-03-24 — 13:23:12 UTC	katian, skyblueexo	12	6	30
-479023	2	30	Null (6 Suits)	2021-03-24 — 13:05:54 UTC	katian, skyblueexo	27	6	30
-479001	2	0	Null (6 Suits)	2021-03-24 — 12:39:03 UTC	katian, skyblueexo	31	6	30
-478999	2	0	Null (6 Suits)	2021-03-24 — 12:37:54 UTC	katian, skyblueexo	34	6	30
-478994	2	0	Null (6 Suits)	2021-03-24 — 12:34:20 UTC	katian, skyblueexo	37	6	30
-478989	2	0	Null (6 Suits)	2021-03-24 — 12:23:27 UTC	katian, skyblueexo	42	6	30
-478985	2	0	Null (6 Suits)	2021-03-24 — 12:14:34 UTC	katian, skyblueexo	48	6	30
+480144	4	24	Black (5 Suits)	2021-03-25 — 16:17:10 UTC	iamfelix, katian, Krepps57, skyblueexo	42	5	25
+480126	4	0	Black (5 Suits)	2021-03-25 — 15:44:25 UTC	iamfelix, katian, Krepps57, skyblueexo	64	5	25
+480106	3	25	No Variant	2021-03-25 — 14:54:53 UTC	iamfelix, katian, skyblueexo	103	5	25
+480100	3	0	No Variant	2021-03-25 — 14:37:45 UTC	iamfelix, katian, skyblueexo	107	5	25
+480096	3	25	No Variant	2021-03-25 — 14:25:22 UTC	iamfelix, katian, skyblueexo	111	5	25
+480089	2	0	Null (5 Suits)	2021-03-25 — 14:02:06 UTC	katian, skyblueexo	103	5	25
+479036	2	0	Special Mix (6 Suits)	2021-03-24 — 13:23:12 UTC	katian, skyblueexo	13	6	30
+479023	2	30	Null (6 Suits)	2021-03-24 — 13:05:54 UTC	katian, skyblueexo	28	6	30
+479001	2	0	Null (6 Suits)	2021-03-24 — 12:39:03 UTC	katian, skyblueexo	32	6	30
+478999	2	0	Null (6 Suits)	2021-03-24 — 12:37:54 UTC	katian, skyblueexo	35	6	30
+478994	2	0	Null (6 Suits)	2021-03-24 — 12:34:20 UTC	katian, skyblueexo	38	6	30
+478989	2	0	Null (6 Suits)	2021-03-24 — 12:23:27 UTC	katian, skyblueexo	43	6	30
+478985	2	0	Null (6 Suits)	2021-03-24 — 12:14:34 UTC	katian, skyblueexo	49	6	30
 477991	3	0	Muddy Rainbow (6 Suits)	2021-03-23 — 14:50:13 UTC	iamfelix, katian, skyblueexo	37	6	30
-477969	2	0	Null (6 Suits)	2021-03-23 — 13:57:43 UTC	katian, skyblueexo	56	6	30
-477958	2	0	Null (6 Suits)	2021-03-23 — 13:42:56 UTC	katian, skyblueexo	66	6	30
-477951	2	0	Null (6 Suits)	2021-03-23 — 13:34:17 UTC	katian, skyblueexo	91	6	30
-476886	2	0	Light Pink (5 Suits)	2021-03-22 — 16:01:01 UTC	katian, skyblueexo	23	5	25
-476875	2	0	Light Pink (5 Suits)	2021-03-22 — 15:35:11 UTC	katian, skyblueexo	35	5	25
-476856	2	0	Light Pink (5 Suits)	2021-03-22 — 15:03:11 UTC	katian, skyblueexo	65	5	25
-476852	2	20	White (4 Suits)	2021-03-22 — 14:40:08 UTC	katian, skyblueexo	94	4	20
+477969	2	0	Null (6 Suits)	2021-03-23 — 13:57:43 UTC	katian, skyblueexo	57	6	30
+477958	2	0	Null (6 Suits)	2021-03-23 — 13:42:56 UTC	katian, skyblueexo	68	6	30
+477951	2	0	Null (6 Suits)	2021-03-23 — 13:34:17 UTC	katian, skyblueexo	93	6	30
+476886	2	0	Light Pink (5 Suits)	2021-03-22 — 16:01:01 UTC	katian, skyblueexo	24	5	25
+476875	2	0	Light Pink (5 Suits)	2021-03-22 — 15:35:11 UTC	katian, skyblueexo	38	5	25
+476856	2	0	Light Pink (5 Suits)	2021-03-22 — 15:03:11 UTC	katian, skyblueexo	70	5	25
+476852	2	20	White (4 Suits)	2021-03-22 — 14:40:08 UTC	katian, skyblueexo	100	4	20
 476841	2	0	Duck (5 Suits)	2021-03-22 — 14:23:31 UTC	katian, skyblueexo	41	5	25
-476835	2	0	Duck (5 Suits)	2021-03-22 — 14:11:49 UTC	katian, skyblueexo	63	5	25
-476789	2	25	White (5 Suits)	2021-03-22 — 11:24:55 UTC	katian, skyblueexo	184	5	25
+476835	2	0	Duck (5 Suits)	2021-03-22 — 14:11:49 UTC	katian, skyblueexo	64	5	25
+476789	2	25	White (5 Suits)	2021-03-22 — 11:24:55 UTC	katian, skyblueexo	187	5	25
 475717	3	30	Pink (6 Suits)	2021-03-21 — 09:52:47 UTC	katian, Krepps57, skyblueexo	18	6	30
-475007	3	23	No Variant	2021-03-20 — 20:34:53 UTC	Amelia0417, Krepps57, skyblueexo	109	5	25
+475007	3	23	No Variant	2021-03-20 — 20:34:53 UTC	Amelia0417, Krepps57, skyblueexo	115	5	25
 474870	3	29	Pink (6 Suits)	2021-03-20 — 17:40:05 UTC	katian, Krepps57, skyblueexo	24	6	30
 474849	3	0	Pink (6 Suits)	2021-03-20 — 17:01:48 UTC	katian, Krepps57, skyblueexo	26	6	30
 474843	3	0	Pink (6 Suits)	2021-03-20 — 16:53:46 UTC	katian, Krepps57, skyblueexo	37	6	30
 474838	3	0	Pink (6 Suits)	2021-03-20 — 16:42:00 UTC	katian, Krepps57, skyblueexo	47	6	30
 474829	3	0	Pink (6 Suits)	2021-03-20 — 16:28:18 UTC	katian, Krepps57, skyblueexo	53	6	30
-474706	2	29	Black & Light Pink (6 Suits)	2021-03-20 — 10:24:45 UTC	katian, skyblueexo	17	6	30
-474689	2	0	Black & Light Pink (6 Suits)	2021-03-20 — 09:42:37 UTC	katian, skyblueexo	20	6	30
-474688	2	0	Black & Light Pink (6 Suits)	2021-03-20 — 09:36:33 UTC	katian, skyblueexo	22	6	30
+474706	2	29	Black & Light Pink (6 Suits)	2021-03-20 — 10:24:45 UTC	katian, skyblueexo	18	6	30
+474689	2	0	Black & Light Pink (6 Suits)	2021-03-20 — 09:42:37 UTC	katian, skyblueexo	21	6	30
+474688	2	0	Black & Light Pink (6 Suits)	2021-03-20 — 09:36:33 UTC	katian, skyblueexo	23	6	30
 473159	3	0	Gray Pink (5 Suits)	2021-03-19 — 02:42:30 UTC	BraydonM, possum, skyblueexo	13	5	25
 473131	3	0	Gray Pink (5 Suits)	2021-03-19 — 02:23:05 UTC	BraydonM, possum, skyblueexo	15	5	25
 473112	3	0	Gray Pink (5 Suits)	2021-03-19 — 02:06:51 UTC	BraydonM, possum, skyblueexo	18	5	25
 473096	3	15	White & Prism (3 Suits)	2021-03-19 — 01:56:11 UTC	BraydonM, possum, skyblueexo	5	3	15
 472387	3	28	Cocoa Rainbow (6 Suits)	2021-03-18 — 15:19:08 UTC	iamfelix, katian, skyblueexo	17	6	30
 472374	3	0	Cocoa Rainbow (6 Suits)	2021-03-18 — 14:34:42 UTC	iamfelix, katian, skyblueexo	21	6	30
-472361	2	0	Ambiguous (6 Suits)	2021-03-18 — 14:02:53 UTC	katian, skyblueexo	105	6	30
+472361	2	0	Ambiguous (6 Suits)	2021-03-18 — 14:02:53 UTC	katian, skyblueexo	107	6	30
 472302	3	23	Dark Pink (5 Suits)	2021-03-18 — 09:30:32 UTC	Denchulitas, possum, skyblueexo	38	5	25
-472295	3	0	Dark Pink (5 Suits)	2021-03-18 — 09:04:20 UTC	Denchulitas, possum, skyblueexo	42	5	25
-471337	2	15	Prism (3 Suits)	2021-03-17 — 15:41:01 UTC	katian, skyblueexo	15	3	15
-471328	2	0	Prism (3 Suits)	2021-03-17 — 15:22:15 UTC	katian, skyblueexo	25	3	15
-471322	2	14	Prism (3 Suits)	2021-03-17 — 15:05:57 UTC	katian, skyblueexo	52	3	15
-470158	2	20	Prism (4 Suits)	2021-03-16 — 15:33:11 UTC	katian, skyblueexo	31	4	20
-470154	2	0	Prism (4 Suits)	2021-03-16 — 15:13:34 UTC	katian, skyblueexo	66	4	20
+472295	3	0	Dark Pink (5 Suits)	2021-03-18 — 09:04:20 UTC	Denchulitas, possum, skyblueexo	44	5	25
+471337	2	15	Prism (3 Suits)	2021-03-17 — 15:41:01 UTC	katian, skyblueexo	17	3	15
+471328	2	0	Prism (3 Suits)	2021-03-17 — 15:22:15 UTC	katian, skyblueexo	27	3	15
+471322	2	14	Prism (3 Suits)	2021-03-17 — 15:05:57 UTC	katian, skyblueexo	57	3	15
+470158	2	20	Prism (4 Suits)	2021-03-16 — 15:33:11 UTC	katian, skyblueexo	33	4	20
+470154	2	0	Prism (4 Suits)	2021-03-16 — 15:13:34 UTC	katian, skyblueexo	69	4	20
 469022	2	15	Pink (3 Suits)	2021-03-15 — 15:06:33 UTC	katian, skyblueexo	25	3	15
 469016	2	0	Pink (3 Suits)	2021-03-15 — 14:47:42 UTC	katian, skyblueexo	29	3	15
 469015	2	0	Pink (3 Suits)	2021-03-15 — 14:42:29 UTC	katian, skyblueexo	49	3	15
-469011	2	0	Pink (3 Suits)	2021-03-15 — 14:29:49 UTC	katian, skyblueexo	53	3	15
-469005	2	0	Pink (3 Suits)	2021-03-15 — 14:14:47 UTC	katian, skyblueexo	64	3	15
-469003	2	0	Pink (3 Suits)	2021-03-15 — 14:02:25 UTC	katian, skyblueexo	87	3	15
-469001	2	20	Pink (4 Suits)	2021-03-15 — 13:57:20 UTC	katian, skyblueexo	105	4	20
-468933	2	0	Pink (5 Suits)	2021-03-15 — 11:17:17 UTC	katian, skyblueexo	200	5	25
-467996	2	30	Pink (6 Suits)	2021-03-14 — 15:23:30 UTC	katian, skyblueexo	143	6	30
-467985	2	0	Pink (6 Suits)	2021-03-14 — 14:57:33 UTC	katian, skyblueexo	157	6	30
+469011	2	0	Pink (3 Suits)	2021-03-15 — 14:29:49 UTC	katian, skyblueexo	54	3	15
+469005	2	0	Pink (3 Suits)	2021-03-15 — 14:14:47 UTC	katian, skyblueexo	65	3	15
+469003	2	0	Pink (3 Suits)	2021-03-15 — 14:02:25 UTC	katian, skyblueexo	89	3	15
+469001	2	20	Pink (4 Suits)	2021-03-15 — 13:57:20 UTC	katian, skyblueexo	106	4	20
+468933	2	0	Pink (5 Suits)	2021-03-15 — 11:17:17 UTC	katian, skyblueexo	204	5	25
+467996	2	30	Pink (6 Suits)	2021-03-14 — 15:23:30 UTC	katian, skyblueexo	146	6	30
+467985	2	0	Pink (6 Suits)	2021-03-14 — 14:57:33 UTC	katian, skyblueexo	158	6	30
 467972	3	27	Cocoa Rainbow (6 Suits)	2021-03-14 — 14:24:05 UTC	iamfelix, katian, skyblueexo	20	6	30
 467951	3	0	Cocoa Rainbow (6 Suits)	2021-03-14 — 13:15:24 UTC	iamfelix, katian, skyblueexo	30	6	30
-467938	3	0	Cocoa Rainbow (6 Suits)	2021-03-14 — 12:43:53 UTC	iamfelix, katian, skyblueexo	32	6	30
+467938	3	0	Cocoa Rainbow (6 Suits)	2021-03-14 — 12:43:53 UTC	iamfelix, katian, skyblueexo	33	6	30
 466683	3	0	Rainbow & Prism (6 Suits)	2021-03-13 — 13:16:30 UTC	Lanvin, possum, skyblueexo	3	6	30
 466676	3	0	Rainbow & Prism (6 Suits)	2021-03-13 — 12:55:54 UTC	Lanvin, possum, skyblueexo	10	6	30
-466656	2	15	Rainbow (3 Suits)	2021-03-13 — 11:31:00 UTC	katian, skyblueexo	76	3	15
-466653	2	0	Rainbow (3 Suits)	2021-03-13 — 11:19:40 UTC	katian, skyblueexo	127	3	15
+466656	2	15	Rainbow (3 Suits)	2021-03-13 — 11:31:00 UTC	katian, skyblueexo	78	3	15
+466653	2	0	Rainbow (3 Suits)	2021-03-13 — 11:19:40 UTC	katian, skyblueexo	132	3	15
 465710	3	27	Omni (6 Suits)	2021-03-12 — 16:53:49 UTC	katian, Krepps57, skyblueexo	13	6	30
 465676	3	0	Omni (6 Suits)	2021-03-12 — 15:55:04 UTC	katian, Krepps57, skyblueexo	17	6	30
 464763	3	29	Dual-Color Mix	2021-03-11 — 18:12:32 UTC	katian, Krepps57, skyblueexo	33	6	30
-464693	3	0	Dual-Color Mix	2021-03-11 — 17:02:56 UTC	katian, Krepps57, skyblueexo	42	6	30
+464693	3	0	Dual-Color Mix	2021-03-11 — 17:02:56 UTC	katian, Krepps57, skyblueexo	43	6	30
 464678	3	0	Omni (5 Suits)	2021-03-11 — 16:34:53 UTC	katian, Krepps57, skyblueexo	50	5	25
-463659	2	0	Black & Pink (6 Suits)	2021-03-10 — 16:29:36 UTC	katian, skyblueexo	34	6	30
-463643	2	0	Black & Pink (6 Suits)	2021-03-10 — 16:03:03 UTC	katian, skyblueexo	36	6	30
-463633	2	0	Black & Pink (6 Suits)	2021-03-10 — 15:55:40 UTC	katian, skyblueexo	44	6	30
-463620	2	20	Rainbow (4 Suits)	2021-03-10 — 15:42:09 UTC	katian, skyblueexo	132	4	20
+463659	2	0	Black & Pink (6 Suits)	2021-03-10 — 16:29:36 UTC	katian, skyblueexo	35	6	30
+463643	2	0	Black & Pink (6 Suits)	2021-03-10 — 16:03:03 UTC	katian, skyblueexo	37	6	30
+463633	2	0	Black & Pink (6 Suits)	2021-03-10 — 15:55:40 UTC	katian, skyblueexo	46	6	30
+463620	2	20	Rainbow (4 Suits)	2021-03-10 — 15:42:09 UTC	katian, skyblueexo	135	4	20
 463574	3	25	Rainbow-Ones (5 Suits)	2021-03-10 — 14:56:42 UTC	eljavi, skyblueexo, wump	3	5	25
 463475	3	25	Dark Omni (5 Suits)	2021-03-10 — 10:51:02 UTC	eliclax, hakha3, skyblueexo	16	5	25
 463396	4	0	Dual-Color (5 Suits)	2021-03-10 — 07:04:53 UTC	BraydonM, corys, skyblueexo, xor	20	5	25
 463382	4	23	Dual-Color (5 Suits)	2021-03-10 — 06:31:38 UTC	BraydonM, corys, skyblueexo, xor	37	5	25
-462543	4	24	No Variant	2021-03-09 — 18:37:03 UTC	asdfew, DrJones, Krepps57, skyblueexo	198	5	25
+462543	4	24	No Variant	2021-03-09 — 18:37:03 UTC	asdfew, DrJones, Krepps57, skyblueexo	199	5	25
 462522	4	0	No Variant	2021-03-09 — 18:09:32 UTC	asdfew, DrJones, Krepps57, skyblueexo	204	5	25
 462518	4	0	No Variant	2021-03-09 — 18:02:27 UTC	asdfew, DrJones, Krepps57, skyblueexo	213	5	25
-462454	4	0	Omni (6 Suits)	2021-03-09 — 16:50:35 UTC	iamfelix, katian, Krepps57, skyblueexo	26	6	30
+462454	4	0	Omni (6 Suits)	2021-03-09 — 16:50:35 UTC	iamfelix, katian, Krepps57, skyblueexo	27	6	30
 462424	3	0	Omni (6 Suits)	2021-03-09 — 16:06:12 UTC	katian, Krepps57, skyblueexo	22	6	30
 462417	3	0	Omni (6 Suits)	2021-03-09 — 15:51:56 UTC	katian, Krepps57, skyblueexo	24	6	30
 461352	6	0	Rainbow (5 Suits)	2021-03-08 — 14:26:00 UTC	4head, eliclax, Lanvin, possum, skyblueexo, Spieler42	2	5	25
@@ -140,86 +140,86 @@
 461337	6	0	Rainbow (5 Suits)	2021-03-08 — 13:55:49 UTC	4head, eliclax, Lanvin, possum, skyblueexo, Spieler42	7	5	25
 461266	4	30	Dark Prism (6 Suits)	2021-03-08 — 11:30:04 UTC	asaelr, Denchulitas, skyblueexo, TimeHoodie	2	6	30
 461219	4	0	Color Mute (5 Suits)	2021-03-08 — 08:26:13 UTC	Bot-Fiora, newduke, possum, skyblueexo	1	5	25
-461171	3	21	Dual-Color (5 Suits)	2021-03-08 — 06:00:37 UTC	corys, skyblueexo, xor	69	5	25
-461117	2	25	No Variant	2021-03-08 — 04:52:02 UTC	dobi, skyblueexo	1532	5	25
-460122	3	25	No Variant	2021-03-07 — 15:04:05 UTC	eliclax, eljavi, skyblueexo	106	5	25
-460117	3	0	No Variant	2021-03-07 — 14:54:07 UTC	eliclax, eljavi, skyblueexo	110	5	25
-460092	3	15	3 Suits	2021-03-07 — 14:03:48 UTC	eliclax, possum, skyblueexo	74	3	15
-458909	3	0	Rainbow (6 Suits)	2021-03-06 — 16:26:56 UTC	kinkajusrevenge, PMP, skyblueexo	72	6	30
-458890	3	0	Rainbow (6 Suits)	2021-03-06 — 15:47:31 UTC	kinkajusrevenge, PMP, skyblueexo	74	6	30
-458830	2	15	3 Suits	2021-03-06 — 13:57:19 UTC	katian, skyblueexo	105	3	15
-458828	2	14	3 Suits	2021-03-06 — 13:47:16 UTC	katian, skyblueexo	124	3	15
-458822	2	0	3 Suits	2021-03-06 — 13:38:48 UTC	katian, skyblueexo	193	3	15
-458818	2	0	3 Suits	2021-03-06 — 13:35:14 UTC	katian, skyblueexo	271	3	15
-456439	2	25	Black (5 Suits)	2021-03-04 — 15:47:20 UTC	katian, skyblueexo	55	5	25
-456426	2	0	Black (5 Suits)	2021-03-04 — 15:31:41 UTC	katian, skyblueexo	56	5	25
+461171	3	21	Dual-Color (5 Suits)	2021-03-08 — 06:00:37 UTC	corys, skyblueexo, xor	70	5	25
+461117	2	25	No Variant	2021-03-08 — 04:52:02 UTC	dobi, skyblueexo	1547	5	25
+460122	3	25	No Variant	2021-03-07 — 15:04:05 UTC	eliclax, eljavi, skyblueexo	110	5	25
+460117	3	0	No Variant	2021-03-07 — 14:54:07 UTC	eliclax, eljavi, skyblueexo	114	5	25
+460092	3	15	3 Suits	2021-03-07 — 14:03:48 UTC	eliclax, possum, skyblueexo	75	3	15
+458909	3	0	Rainbow (6 Suits)	2021-03-06 — 16:26:56 UTC	kinkajusrevenge, PMP, skyblueexo	73	6	30
+458890	3	0	Rainbow (6 Suits)	2021-03-06 — 15:47:31 UTC	kinkajusrevenge, PMP, skyblueexo	75	6	30
+458830	2	15	3 Suits	2021-03-06 — 13:57:19 UTC	katian, skyblueexo	106	3	15
+458828	2	14	3 Suits	2021-03-06 — 13:47:16 UTC	katian, skyblueexo	125	3	15
+458822	2	0	3 Suits	2021-03-06 — 13:38:48 UTC	katian, skyblueexo	195	3	15
+458818	2	0	3 Suits	2021-03-06 — 13:35:14 UTC	katian, skyblueexo	273	3	15
+456439	2	25	Black (5 Suits)	2021-03-04 — 15:47:20 UTC	katian, skyblueexo	57	5	25
+456426	2	0	Black (5 Suits)	2021-03-04 — 15:31:41 UTC	katian, skyblueexo	58	5	25
 454191	4	0	Omni (6 Suits)	2021-03-02 — 16:02:10 UTC	indego, katian, Krepps57, skyblueexo	33	6	30
-453152	3	0	Omni (6 Suits)	2021-03-01 — 16:37:59 UTC	katian, Krepps57, skyblueexo	27	6	30
-453105	2	0	Black (5 Suits)	2021-03-01 — 15:18:49 UTC	katian, skyblueexo	60	5	25
-453098	2	0	Black (5 Suits)	2021-03-01 — 15:02:03 UTC	katian, skyblueexo	60	5	25
-453091	2	0	Black (5 Suits)	2021-03-01 — 14:46:09 UTC	katian, skyblueexo	63	5	25
-453081	2	24	Black (5 Suits)	2021-03-01 — 14:28:40 UTC	katian, skyblueexo	64	5	25
-453058	2	0	Black (5 Suits)	2021-03-01 — 14:01:42 UTC	katian, skyblueexo	69	5	25
-453048	2	0	Black (5 Suits)	2021-03-01 — 13:39:08 UTC	katian, skyblueexo	78	5	25
+453152	3	0	Omni (6 Suits)	2021-03-01 — 16:37:59 UTC	katian, Krepps57, skyblueexo	28	6	30
+453105	2	0	Black (5 Suits)	2021-03-01 — 15:18:49 UTC	katian, skyblueexo	63	5	25
+453098	2	0	Black (5 Suits)	2021-03-01 — 15:02:03 UTC	katian, skyblueexo	63	5	25
+453091	2	0	Black (5 Suits)	2021-03-01 — 14:46:09 UTC	katian, skyblueexo	65	5	25
+453081	2	24	Black (5 Suits)	2021-03-01 — 14:28:40 UTC	katian, skyblueexo	68	5	25
+453058	2	0	Black (5 Suits)	2021-03-01 — 14:01:42 UTC	katian, skyblueexo	73	5	25
+453048	2	0	Black (5 Suits)	2021-03-01 — 13:39:08 UTC	katian, skyblueexo	82	5	25
 452027	3	0	Omni (6 Suits)	2021-02-28 — 17:59:28 UTC	katian, Krepps57, skyblueexo	36	6	30
 451994	3	0	Omni (6 Suits)	2021-02-28 — 16:57:37 UTC	katian, Krepps57, skyblueexo	51	6	30
-451949	2	30	Rainbow (6 Suits)	2021-02-28 — 14:47:01 UTC	katian, skyblueexo	306	6	30
-451941	2	0	Rainbow (6 Suits)	2021-02-28 — 14:16:46 UTC	katian, skyblueexo	327	6	30
-451931	2	0	Rainbow (6 Suits)	2021-02-28 — 13:56:37 UTC	katian, skyblueexo	349	6	30
-450811	2	0	Black (5 Suits)	2021-02-27 — 13:34:50 UTC	katian, skyblueexo	85	5	25
-450798	2	0	Black (5 Suits)	2021-02-27 — 12:38:59 UTC	katian, skyblueexo	97	5	25
-450793	2	0	Black (5 Suits)	2021-02-27 — 12:23:23 UTC	katian, skyblueexo	108	5	25
-450782	2	0	Black (5 Suits)	2021-02-27 — 12:02:21 UTC	katian, skyblueexo	115	5	25
-450780	2	0	Black (5 Suits)	2021-02-27 — 11:56:47 UTC	katian, skyblueexo	124	5	25
-450773	2	0	Black (5 Suits)	2021-02-27 — 11:41:42 UTC	katian, skyblueexo	169	5	25
-450769	2	0	Black (5 Suits)	2021-02-27 — 11:22:36 UTC	katian, skyblueexo	219	5	25
-449862	2	30	6 Suits	2021-02-26 — 15:28:08 UTC	katian, skyblueexo	340	6	30
-449850	2	0	6 Suits	2021-02-26 — 14:55:25 UTC	katian, skyblueexo	378	6	30
-449848	2	0	6 Suits	2021-02-26 — 14:52:42 UTC	katian, skyblueexo	401	6	30
-449847	2	0	6 Suits	2021-02-26 — 14:48:31 UTC	katian, skyblueexo	444	6	30
-449841	2	0	6 Suits	2021-02-26 — 14:41:37 UTC	katian, skyblueexo	505	6	30
-449836	2	0	6 Suits	2021-02-26 — 14:18:40 UTC	katian, skyblueexo	593	6	30
-449834	2	0	6 Suits	2021-02-26 — 14:08:07 UTC	katian, skyblueexo	666	6	30
-449830	2	0	6 Suits	2021-02-26 — 13:55:25 UTC	katian, skyblueexo	851	6	30
+451949	2	30	Rainbow (6 Suits)	2021-02-28 — 14:47:01 UTC	katian, skyblueexo	307	6	30
+451941	2	0	Rainbow (6 Suits)	2021-02-28 — 14:16:46 UTC	katian, skyblueexo	329	6	30
+451931	2	0	Rainbow (6 Suits)	2021-02-28 — 13:56:37 UTC	katian, skyblueexo	351	6	30
+450811	2	0	Black (5 Suits)	2021-02-27 — 13:34:50 UTC	katian, skyblueexo	89	5	25
+450798	2	0	Black (5 Suits)	2021-02-27 — 12:38:59 UTC	katian, skyblueexo	101	5	25
+450793	2	0	Black (5 Suits)	2021-02-27 — 12:23:23 UTC	katian, skyblueexo	113	5	25
+450782	2	0	Black (5 Suits)	2021-02-27 — 12:02:21 UTC	katian, skyblueexo	120	5	25
+450780	2	0	Black (5 Suits)	2021-02-27 — 11:56:47 UTC	katian, skyblueexo	129	5	25
+450773	2	0	Black (5 Suits)	2021-02-27 — 11:41:42 UTC	katian, skyblueexo	173	5	25
+450769	2	0	Black (5 Suits)	2021-02-27 — 11:22:36 UTC	katian, skyblueexo	222	5	25
+449862	2	30	6 Suits	2021-02-26 — 15:28:08 UTC	katian, skyblueexo	352	6	30
+449850	2	0	6 Suits	2021-02-26 — 14:55:25 UTC	katian, skyblueexo	388	6	30
+449848	2	0	6 Suits	2021-02-26 — 14:52:42 UTC	katian, skyblueexo	413	6	30
+449847	2	0	6 Suits	2021-02-26 — 14:48:31 UTC	katian, skyblueexo	453	6	30
+449841	2	0	6 Suits	2021-02-26 — 14:41:37 UTC	katian, skyblueexo	513	6	30
+449836	2	0	6 Suits	2021-02-26 — 14:18:40 UTC	katian, skyblueexo	601	6	30
+449834	2	0	6 Suits	2021-02-26 — 14:08:07 UTC	katian, skyblueexo	675	6	30
+449830	2	0	6 Suits	2021-02-26 — 13:55:25 UTC	katian, skyblueexo	862	6	30
 448705	3	0	Omni (6 Suits)	2021-02-25 — 15:15:12 UTC	iamfelix, katian, skyblueexo	70	6	30
-447809	3	0	Up or Down (6 Suits)	2021-02-24 — 17:42:37 UTC	iamfelix, Krepps57, skyblueexo	10	6	30
-447775	3	0	Up or Down (6 Suits)	2021-02-24 — 17:01:30 UTC	iamfelix, Krepps57, skyblueexo	10	6	30
+447809	3	0	Up or Down (6 Suits)	2021-02-24 — 17:42:37 UTC	iamfelix, Krepps57, skyblueexo	11	6	30
+447775	3	0	Up or Down (6 Suits)	2021-02-24 — 17:01:30 UTC	iamfelix, Krepps57, skyblueexo	11	6	30
 447757	4	0	Up or Down (5 Suits)	2021-02-24 — 16:33:58 UTC	iamfelix, katian, Krepps57, skyblueexo	52	5	25
 447750	4	0	Up or Down (5 Suits)	2021-02-24 — 15:59:53 UTC	iamfelix, katian, Krepps57, skyblueexo	75	5	25
 443196	3	0	Up or Down (6 Suits)	2021-02-20 — 16:20:48 UTC	iamfelix, Krepps57, skyblueexo	12	6	30
-443182	2	0	Black (5 Suits)	2021-02-20 — 15:30:15 UTC	iamfelix, skyblueexo	244	5	25
+443182	2	0	Black (5 Suits)	2021-02-20 — 15:30:15 UTC	iamfelix, skyblueexo	250	5	25
 442026	4	25	No Variant	2021-02-19 — 17:00:06 UTC	Espen, Fey, indego, skyblueexo	61	5	25
-442018	4	24	No Variant	2021-02-19 — 16:41:25 UTC	Espen, Fey, indego, skyblueexo	63	5	25
-441859	3	25	No Variant	2021-02-19 — 09:59:01 UTC	MangoPie, possum, skyblueexo	89	5	25
-441850	3	24	No Variant	2021-02-19 — 09:28:38 UTC	MangoPie, possum, skyblueexo	97	5	25
+442018	4	24	No Variant	2021-02-19 — 16:41:25 UTC	Espen, Fey, indego, skyblueexo	64	5	25
+441859	3	25	No Variant	2021-02-19 — 09:59:01 UTC	MangoPie, possum, skyblueexo	91	5	25
+441850	3	24	No Variant	2021-02-19 — 09:28:38 UTC	MangoPie, possum, skyblueexo	99	5	25
 441761	4	0	Pink-Ones & Rainbow (5 Suits)	2021-02-19 — 06:33:54 UTC	4head, rahsosprout, skyblueexo, torp	1	5	25
-439979	5	0	Black (6 Suits)	2021-02-17 — 15:12:15 UTC	eliclax, indego, ontak, possum, skyblueexo	27	6	30
-439954	5	26	Black (6 Suits)	2021-02-17 — 14:26:36 UTC	eliclax, indego, ontak, possum, skyblueexo	35	6	30
+439979	5	0	Black (6 Suits)	2021-02-17 — 15:12:15 UTC	eliclax, indego, ontak, possum, skyblueexo	28	6	30
+439954	5	26	Black (6 Suits)	2021-02-17 — 14:26:36 UTC	eliclax, indego, ontak, possum, skyblueexo	36	6	30
 439158	3	0	Up or Down (6 Suits)	2021-02-16 — 17:01:59 UTC	katian, Krepps57, skyblueexo	12	6	30
-439149	3	0	Up or Down (5 Suits)	2021-02-16 — 16:35:11 UTC	katian, Krepps57, skyblueexo	57	5	25
+439149	3	0	Up or Down (5 Suits)	2021-02-16 — 16:35:11 UTC	katian, Krepps57, skyblueexo	59	5	25
 439110	3	0	4 Suits	2021-02-16 — 13:34:03 UTC	banjoleb, possum, skyblueexo	31	4	20
 439102	3	0	4 Suits	2021-02-16 — 13:12:28 UTC	banjoleb, possum, skyblueexo	34	4	20
-439096	4	25	No Variant	2021-02-16 — 12:55:22 UTC	banjoleb, possum, skyblueexo, Spieler42	233	5	25
-439076	3	21	No Variant	2021-02-16 — 11:30:18 UTC	DarthGandalf, possum, skyblueexo	112	5	25
+439096	4	25	No Variant	2021-02-16 — 12:55:22 UTC	banjoleb, possum, skyblueexo, Spieler42	236	5	25
+439076	3	21	No Variant	2021-02-16 — 11:30:18 UTC	DarthGandalf, possum, skyblueexo	116	5	25
 438191	3	0	Up or Down (6 Suits)	2021-02-15 — 17:54:48 UTC	katian, Krepps57, skyblueexo	15	6	30
 438157	3	0	Up or Down (6 Suits)	2021-02-15 — 17:00:10 UTC	katian, Krepps57, skyblueexo	15	6	30
 438141	3	0	Up or Down (6 Suits)	2021-02-15 — 16:46:09 UTC	katian, Krepps57, skyblueexo	17	6	30
-438081	5	0	Rainbow & White (6 Suits)	2021-02-15 — 15:08:19 UTC	BananaBum, banjoleb, DarthGandalf, eljavi, skyblueexo	11	6	30
+438081	5	0	Rainbow & White (6 Suits)	2021-02-15 — 15:08:19 UTC	BananaBum, banjoleb, DarthGandalf, eljavi, skyblueexo	12	6	30
 438071	5	0	Rainbow & White (6 Suits)	2021-02-15 — 14:27:28 UTC	BananaBum, banjoleb, DarthGandalf, eljavi, skyblueexo	14	6	30
 438045	3	25	White & Prism (5 Suits)	2021-02-15 — 13:19:01 UTC	iamfelix, katian, skyblueexo	16	5	25
-438010	2	27	Black (6 Suits)	2021-02-15 — 11:19:01 UTC	katian, skyblueexo	144	6	30
+438010	2	27	Black (6 Suits)	2021-02-15 — 11:19:01 UTC	katian, skyblueexo	145	6	30
 437996	3	0	White & Prism (5 Suits)	2021-02-15 — 10:47:33 UTC	iamfelix, katian, skyblueexo	17	5	25
-437821	2	25	Black (6 Suits)	2021-02-15 — 05:04:35 UTC	katian, skyblueexo	153	6	30
-437778	2	0	Black (6 Suits)	2021-02-15 — 04:25:54 UTC	katian, skyblueexo	157	6	30
-437073	4	0	No Variant	2021-02-14 — 17:47:01 UTC	iamfelix, katian, Krepps57, skyblueexo	899	5	25
-436989	3	28	Up or Down (6 Suits)	2021-02-14 — 16:30:11 UTC	katian, Krepps57, skyblueexo	20	6	30
+437821	2	25	Black (6 Suits)	2021-02-15 — 05:04:35 UTC	katian, skyblueexo	154	6	30
+437778	2	0	Black (6 Suits)	2021-02-15 — 04:25:54 UTC	katian, skyblueexo	159	6	30
+437073	4	0	No Variant	2021-02-14 — 17:47:01 UTC	iamfelix, katian, Krepps57, skyblueexo	908	5	25
+436989	3	28	Up or Down (6 Suits)	2021-02-14 — 16:30:11 UTC	katian, Krepps57, skyblueexo	22	6	30
 436954	3	0	Up or Down (6 Suits)	2021-02-14 — 15:35:52 UTC	katian, Krepps57, skyblueexo	24	6	30
-436929	3	0	Up or Down (6 Suits)	2021-02-14 — 14:50:56 UTC	katian, Krepps57, skyblueexo	34	6	30
-436906	3	0	Up or Down (6 Suits)	2021-02-14 — 14:26:37 UTC	katian, Krepps57, skyblueexo	41	6	30
-436840	4	21	Rainbow (5 Suits)	2021-02-14 — 13:01:04 UTC	eliclax, indego, narabio, skyblueexo	130	5	25
+436929	3	0	Up or Down (6 Suits)	2021-02-14 — 14:50:56 UTC	katian, Krepps57, skyblueexo	35	6	30
+436906	3	0	Up or Down (6 Suits)	2021-02-14 — 14:26:37 UTC	katian, Krepps57, skyblueexo	42	6	30
+436840	4	21	Rainbow (5 Suits)	2021-02-14 — 13:01:04 UTC	eliclax, indego, narabio, skyblueexo	131	5	25
 435767	3	0	Prism (6 Suits)	2021-02-13 — 16:32:29 UTC	Denchulitas, Pimak, skyblueexo	20	6	30
 435759	3	29	Prism (6 Suits)	2021-02-13 — 16:11:04 UTC	Denchulitas, Pimak, skyblueexo	21	6	30
-435751	3	0	Prism (6 Suits)	2021-02-13 — 15:48:59 UTC	Denchulitas, Pimak, skyblueexo	24	6	30
+435751	3	0	Prism (6 Suits)	2021-02-13 — 15:48:59 UTC	Denchulitas, Pimak, skyblueexo	26	6	30
 435735	4	0	White & Dark Prism (5 Suits)	2021-02-13 — 15:17:14 UTC	MangoPie, skyblueexo, Spieler42, Wittvector	2	5	25
 435723	4	0	White & Dark Prism (5 Suits)	2021-02-13 — 15:02:06 UTC	MangoPie, skyblueexo, Spieler42, Wittvector	2	5	25
 435718	4	0	White & Dark Prism (5 Suits)	2021-02-13 — 14:41:21 UTC	MangoPie, skyblueexo, Spieler42, Wittvector	3	5	25
@@ -227,113 +227,113 @@
 435707	3	0	Black (5 Suits)	2021-02-13 — 14:14:55 UTC	rz, skyblueexo, Wittvector	29	5	25
 435692	4	0	Brown-Ones & Pink (5 Suits)	2021-02-13 — 13:46:44 UTC	katian, Lanvin, skyblueexo, Wittvector	1	5	25
 435687	4	0	Brown-Ones & Pink (5 Suits)	2021-02-13 — 13:36:17 UTC	katian, Lanvin, skyblueexo, Wittvector	1	5	25
-435492	2	0	Black (6 Suits)	2021-02-13 — 06:36:20 UTC	katian, skyblueexo	157	6	30
-435380	2	30	Black (6 Suits)	2021-02-13 — 05:26:45 UTC	katian, skyblueexo	165	6	30
-434447	2	0	Black (6 Suits)	2021-02-12 — 15:04:37 UTC	katian, skyblueexo	167	6	30
-434433	2	0	Black (6 Suits)	2021-02-12 — 14:18:52 UTC	katian, skyblueexo	174	6	30
+435492	2	0	Black (6 Suits)	2021-02-13 — 06:36:20 UTC	katian, skyblueexo	160	6	30
+435380	2	30	Black (6 Suits)	2021-02-13 — 05:26:45 UTC	katian, skyblueexo	168	6	30
+434447	2	0	Black (6 Suits)	2021-02-12 — 15:04:37 UTC	katian, skyblueexo	170	6	30
+434433	2	0	Black (6 Suits)	2021-02-12 — 14:18:52 UTC	katian, skyblueexo	177	6	30
 434424	3	0	Muddy Rainbow (6 Suits)	2021-02-12 — 13:54:50 UTC	iamfelix, katian, skyblueexo	49	6	30
 433357	3	25	Brown (5 Suits)	2021-02-11 — 16:37:14 UTC	katian, Krepps57, skyblueexo	6	5	25
-433351	2	0	Black (6 Suits)	2021-02-11 — 16:14:47 UTC	katian, skyblueexo	186	6	30
-433348	2	26	Black (6 Suits)	2021-02-11 — 16:01:46 UTC	katian, skyblueexo	186	6	30
-433338	2	0	Black (6 Suits)	2021-02-11 — 15:31:22 UTC	katian, skyblueexo	192	6	30
-433332	2	0	Black (6 Suits)	2021-02-11 — 15:16:34 UTC	katian, skyblueexo	201	6	30
-433330	2	0	Black (6 Suits)	2021-02-11 — 15:14:29 UTC	katian, skyblueexo	214	6	30
-433276	3	20	White (4 Suits)	2021-02-11 — 11:44:07 UTC	eliclax, Nchin012, skyblueexo	59	4	20
-431959	3	29	Black (6 Suits)	2021-02-10 — 06:29:49 UTC	eliclax, skyblueexo, Spieler42	261	6	30
+433351	2	0	Black (6 Suits)	2021-02-11 — 16:14:47 UTC	katian, skyblueexo	189	6	30
+433348	2	26	Black (6 Suits)	2021-02-11 — 16:01:46 UTC	katian, skyblueexo	190	6	30
+433338	2	0	Black (6 Suits)	2021-02-11 — 15:31:22 UTC	katian, skyblueexo	196	6	30
+433332	2	0	Black (6 Suits)	2021-02-11 — 15:16:34 UTC	katian, skyblueexo	205	6	30
+433330	2	0	Black (6 Suits)	2021-02-11 — 15:14:29 UTC	katian, skyblueexo	218	6	30
+433276	3	20	White (4 Suits)	2021-02-11 — 11:44:07 UTC	eliclax, Nchin012, skyblueexo	62	4	20
+431959	3	29	Black (6 Suits)	2021-02-10 — 06:29:49 UTC	eliclax, skyblueexo, Spieler42	263	6	30
 431934	4	21	Black (5 Suits)	2021-02-10 — 05:42:42 UTC	eliclax, eljavi, IsabeltheCat, skyblueexo	22	5	25
-431917	4	22	Black (5 Suits)	2021-02-10 — 05:14:14 UTC	eliclax, eljavi, IsabeltheCat, skyblueexo	21	5	25
+431917	4	22	Black (5 Suits)	2021-02-10 — 05:14:14 UTC	eliclax, eljavi, IsabeltheCat, skyblueexo	22	5	25
 431179	3	0	Rainbow-Ones (6 Suits)	2021-02-09 — 17:10:48 UTC	katian, Krepps57, skyblueexo	9	6	30
-431108	3	0	No Variant	2021-02-09 — 16:14:23 UTC	iamfelix, katian, skyblueexo	114	5	25
+431108	3	0	No Variant	2021-02-09 — 16:14:23 UTC	iamfelix, katian, skyblueexo	120	5	25
 430991	4	24	Special Mix (5 Suits)	2021-02-09 — 13:22:52 UTC	ChristopheAF, Lanvin, MangoPie, skyblueexo	15	5	25
-430969	3	0	Black (6 Suits)	2021-02-09 — 12:12:03 UTC	catula, melwen, skyblueexo	8	6	30
+430969	3	0	Black (6 Suits)	2021-02-09 — 12:12:03 UTC	catula, melwen, skyblueexo	9	6	30
 430965	3	0	Dark Prism (5 Suits)	2021-02-09 — 11:46:38 UTC	catula, melwen, skyblueexo	12	5	25
-429997	3	0	No Variant	2021-02-08 — 16:47:00 UTC	katian, Krepps57, skyblueexo	119	5	25
-429914	4	0	Dark Omni (6 Suits)	2021-02-08 — 14:42:35 UTC	hakha3, jack67889, Lanvin, skyblueexo	14	6	30
+429997	3	0	No Variant	2021-02-08 — 16:47:00 UTC	katian, Krepps57, skyblueexo	126	5	25
+429914	4	0	Dark Omni (6 Suits)	2021-02-08 — 14:42:35 UTC	hakha3, jack67889, Lanvin, skyblueexo	15	6	30
 429902	4	0	Dark Omni (6 Suits)	2021-02-08 — 14:21:35 UTC	hakha3, jack67889, Lanvin, skyblueexo	16	6	30
 429898	3	0	Dark Omni (5 Suits)	2021-02-08 — 14:10:19 UTC	jack67889, Lanvin, skyblueexo	22	5	25
-429816	3	25	No Variant	2021-02-08 — 10:44:35 UTC	iamfelix, katian, skyblueexo	121	5	25
-429799	3	0	No Variant	2021-02-08 — 09:55:40 UTC	iamfelix, katian, skyblueexo	125	5	25
-429780	3	0	No Variant	2021-02-08 — 09:14:40 UTC	iamfelix, katian, skyblueexo	130	5	25
+429816	3	25	No Variant	2021-02-08 — 10:44:35 UTC	iamfelix, katian, skyblueexo	127	5	25
+429799	3	0	No Variant	2021-02-08 — 09:55:40 UTC	iamfelix, katian, skyblueexo	129	5	25
+429780	3	0	No Variant	2021-02-08 — 09:14:40 UTC	iamfelix, katian, skyblueexo	135	5	25
 429013	4	0	Rainbow & Omni (6 Suits)	2021-02-07 — 16:06:40 UTC	Lanvin, MangoPie, Pimak, skyblueexo	6	6	30
 428997	4	0	Rainbow & Omni (6 Suits)	2021-02-07 — 15:41:48 UTC	Lanvin, MangoPie, Pimak, skyblueexo	8	6	30
-428816	2	30	Black (6 Suits)	2021-02-07 — 09:10:23 UTC	katian, skyblueexo	275	6	30
-428806	2	0	Black (6 Suits)	2021-02-07 — 08:51:32 UTC	katian, skyblueexo	294	6	30
-428799	2	0	Black (6 Suits)	2021-02-07 — 08:39:39 UTC	katian, skyblueexo	300	6	30
+428816	2	30	Black (6 Suits)	2021-02-07 — 09:10:23 UTC	katian, skyblueexo	283	6	30
+428806	2	0	Black (6 Suits)	2021-02-07 — 08:51:32 UTC	katian, skyblueexo	300	6	30
+428799	2	0	Black (6 Suits)	2021-02-07 — 08:39:39 UTC	katian, skyblueexo	306	6	30
 428765	3	11	Light Pink (3 Suits)	2021-02-07 — 07:06:44 UTC	4head, Onen, skyblueexo	3	3	15
 428758	3	0	Light Pink (3 Suits)	2021-02-07 — 06:55:32 UTC	4head, Onen, skyblueexo	4	3	15
 428752	3	12	Light Pink (3 Suits)	2021-02-07 — 06:50:25 UTC	4head, Onen, skyblueexo	4	3	15
 428748	3	0	Light Pink (3 Suits)	2021-02-07 — 06:39:05 UTC	4head, Onen, skyblueexo	6	3	15
 428745	3	0	Light Pink (3 Suits)	2021-02-07 — 06:32:02 UTC	4head, Onen, skyblueexo	7	3	15
-427789	3	0	6 Suits	2021-02-06 — 17:50:25 UTC	katian, Krepps57, skyblueexo	112	6	30
-427772	3	0	6 Suits	2021-02-06 — 17:25:09 UTC	katian, Krepps57, skyblueexo	126	6	30
-427759	3	0	6 Suits	2021-02-06 — 17:07:45 UTC	katian, Krepps57, skyblueexo	132	6	30
-427753	3	0	6 Suits	2021-02-06 — 17:04:38 UTC	katian, Krepps57, skyblueexo	147	6	30
-427736	3	0	6 Suits	2021-02-06 — 16:51:35 UTC	katian, Krepps57, skyblueexo	196	6	30
+427789	3	0	6 Suits	2021-02-06 — 17:50:25 UTC	katian, Krepps57, skyblueexo	113	6	30
+427772	3	0	6 Suits	2021-02-06 — 17:25:09 UTC	katian, Krepps57, skyblueexo	128	6	30
+427759	3	0	6 Suits	2021-02-06 — 17:07:45 UTC	katian, Krepps57, skyblueexo	133	6	30
+427753	3	0	6 Suits	2021-02-06 — 17:04:38 UTC	katian, Krepps57, skyblueexo	149	6	30
+427736	3	0	6 Suits	2021-02-06 — 16:51:35 UTC	katian, Krepps57, skyblueexo	199	6	30
 427608	3	23	Brown (5 Suits)	2021-02-06 — 12:52:44 UTC	iamfelix, katian, skyblueexo	7	5	25
 427591	3	0	Brown (5 Suits)	2021-02-06 — 12:11:35 UTC	iamfelix, katian, skyblueexo	9	5	25
 427406	5	24	Prism (5 Suits)	2021-02-06 — 05:13:26 UTC	4head, griff77, indego, joaep2, skyblueexo	8	5	25
-426525	3	0	Ambiguous (6 Suits)	2021-02-05 — 16:53:06 UTC	katian, Krepps57, skyblueexo	14	6	30
-426454	4	30	White (6 Suits)	2021-02-05 — 14:58:11 UTC	Div, eliclax, rahsosprout, skyblueexo	60	6	30
+426525	3	0	Ambiguous (6 Suits)	2021-02-05 — 16:53:06 UTC	katian, Krepps57, skyblueexo	16	6	30
+426454	4	30	White (6 Suits)	2021-02-05 — 14:58:11 UTC	Div, eliclax, rahsosprout, skyblueexo	62	6	30
 426445	5	0	Rainbow (5 Suits)	2021-02-05 — 14:24:20 UTC	Div, eliclax, qqqq, rahsosprout, skyblueexo	22	5	25
-426434	3	25	Black (6 Suits)	2021-02-05 — 13:49:30 UTC	Denchulitas, eliclax, skyblueexo	159	6	30
-426419	3	0	Black (6 Suits)	2021-02-05 — 13:18:22 UTC	Denchulitas, eliclax, skyblueexo	172	6	30
-426394	3	24	No Variant	2021-02-05 — 12:26:02 UTC	indego, katian, skyblueexo	137	5	25
+426434	3	25	Black (6 Suits)	2021-02-05 — 13:49:30 UTC	Denchulitas, eliclax, skyblueexo	161	6	30
+426419	3	0	Black (6 Suits)	2021-02-05 — 13:18:22 UTC	Denchulitas, eliclax, skyblueexo	175	6	30
+426394	3	24	No Variant	2021-02-05 — 12:26:02 UTC	indego, katian, skyblueexo	142	5	25
 426381	3	30	White (6 Suits)	2021-02-05 — 11:19:21 UTC	Denchulitas, eliclax, skyblueexo	18	6	30
-426370	3	0	White (6 Suits)	2021-02-05 — 10:45:22 UTC	Denchulitas, eliclax, skyblueexo	20	6	30
-426359	3	0	No Variant	2021-02-05 — 10:08:56 UTC	indego, Jenny101, skyblueexo	134	5	25
+426370	3	0	White (6 Suits)	2021-02-05 — 10:45:22 UTC	Denchulitas, eliclax, skyblueexo	21	6	30
+426359	3	0	No Variant	2021-02-05 — 10:08:56 UTC	indego, Jenny101, skyblueexo	140	5	25
 426160	3	28	Pink (6 Suits)	2021-02-05 — 04:06:44 UTC	iamfelix, katian, skyblueexo	70	6	30
-425403	3	29	Ambiguous (6 Suits)	2021-02-04 — 17:01:54 UTC	katian, Krepps57, skyblueexo	22	6	30
-425381	3	0	Ambiguous (6 Suits)	2021-02-04 — 16:25:17 UTC	katian, Krepps57, skyblueexo	28	6	30
+425403	3	29	Ambiguous (6 Suits)	2021-02-04 — 17:01:54 UTC	katian, Krepps57, skyblueexo	23	6	30
+425381	3	0	Ambiguous (6 Suits)	2021-02-04 — 16:25:17 UTC	katian, Krepps57, skyblueexo	29	6	30
 425326	4	25	No Variant	2021-02-04 — 14:16:42 UTC	asaelr, DarthGandalf, possum, skyblueexo	12	5	25
 425306	4	23	No Variant	2021-02-04 — 13:46:17 UTC	asaelr, DarthGandalf, possum, skyblueexo	12	5	25
-425139	3	0	Ambiguous (6 Suits)	2021-02-04 — 05:51:29 UTC	iamfelix, katian, skyblueexo	42	6	30
-425102	3	28	Ambiguous (6 Suits)	2021-02-04 — 05:14:10 UTC	iamfelix, katian, skyblueexo	69	6	30
-424251	4	19	4 Suits	2021-02-03 — 18:46:27 UTC	frosty104, iamfelix, Krepps57, skyblueexo	38	4	20
-424184	3	22	Rainbow (5 Suits)	2021-02-03 — 17:58:01 UTC	iamfelix, Krepps57, skyblueexo	185	5	25
-424144	3	25	Gray (5 Suits)	2021-02-03 — 16:53:20 UTC	katian, Krepps57, skyblueexo	19	5	25
-424118	3	0	Gray (5 Suits)	2021-02-03 — 16:26:37 UTC	katian, Krepps57, skyblueexo	21	5	25
+425139	3	0	Ambiguous (6 Suits)	2021-02-04 — 05:51:29 UTC	iamfelix, katian, skyblueexo	43	6	30
+425102	3	28	Ambiguous (6 Suits)	2021-02-04 — 05:14:10 UTC	iamfelix, katian, skyblueexo	71	6	30
+424251	4	19	4 Suits	2021-02-03 — 18:46:27 UTC	frosty104, iamfelix, Krepps57, skyblueexo	39	4	20
+424184	3	22	Rainbow (5 Suits)	2021-02-03 — 17:58:01 UTC	iamfelix, Krepps57, skyblueexo	186	5	25
+424144	3	25	Gray (5 Suits)	2021-02-03 — 16:53:20 UTC	katian, Krepps57, skyblueexo	20	5	25
+424118	3	0	Gray (5 Suits)	2021-02-03 — 16:26:37 UTC	katian, Krepps57, skyblueexo	23	5	25
 424092	3	0	Gray (5 Suits)	2021-02-03 — 16:08:27 UTC	katian, Krepps57, skyblueexo	26	5	25
-424054	3	0	Gray (5 Suits)	2021-02-03 — 15:30:23 UTC	katian, Krepps57, skyblueexo	35	5	25
-424027	3	0	Gray (5 Suits)	2021-02-03 — 14:58:45 UTC	iamfelix, katian, skyblueexo	37	5	25
-424012	2	25	No Variant	2021-02-03 — 14:40:40 UTC	katian, skyblueexo	1206	5	25
-424006	2	24	No Variant	2021-02-03 — 14:29:12 UTC	katian, skyblueexo	1249	5	25
+424054	3	0	Gray (5 Suits)	2021-02-03 — 15:30:23 UTC	katian, Krepps57, skyblueexo	36	5	25
+424027	3	0	Gray (5 Suits)	2021-02-03 — 14:58:45 UTC	iamfelix, katian, skyblueexo	39	5	25
+424012	2	25	No Variant	2021-02-03 — 14:40:40 UTC	katian, skyblueexo	1219	5	25
+424006	2	24	No Variant	2021-02-03 — 14:29:12 UTC	katian, skyblueexo	1263	5	25
 423954	5	0	No Variant	2021-02-03 — 11:52:15 UTC	Apathetic, possum, rahsosprout, sin_faith, skyblueexo	6	5	25
-423051	3	0	No Variant	2021-02-02 — 17:30:40 UTC	katian, Krepps57, skyblueexo	141	5	25
-423041	3	0	No Variant	2021-02-02 — 17:15:16 UTC	katian, Krepps57, skyblueexo	148	5	25
+423051	3	0	No Variant	2021-02-02 — 17:30:40 UTC	katian, Krepps57, skyblueexo	145	5	25
+423041	3	0	No Variant	2021-02-02 — 17:15:16 UTC	katian, Krepps57, skyblueexo	149	5	25
 423031	3	30	White (6 Suits)	2021-02-02 — 16:56:45 UTC	iamfelix, Krepps57, skyblueexo	53	6	30
-423011	3	27	Rainbow & White (6 Suits)	2021-02-02 — 16:01:02 UTC	iamfelix, katian, skyblueexo	46	6	30
-422984	3	0	6 Suits	2021-02-02 — 14:19:07 UTC	eliclax, possum, skyblueexo	168	6	30
-422970	3	29	6 Suits	2021-02-02 — 13:37:20 UTC	eliclax, possum, skyblueexo	252	6	30
+423011	3	27	Rainbow & White (6 Suits)	2021-02-02 — 16:01:02 UTC	iamfelix, katian, skyblueexo	48	6	30
+422984	3	0	6 Suits	2021-02-02 — 14:19:07 UTC	eliclax, possum, skyblueexo	169	6	30
+422970	3	29	6 Suits	2021-02-02 — 13:37:20 UTC	eliclax, possum, skyblueexo	256	6	30
 422859	6	0	Pink & Cocoa Rainbow (6 Suits)	2021-02-02 — 08:49:28 UTC	indego, katian, Lel0uch, sephiroth, skyblueexo, Wittvector	1	6	30
 422167	3	25	Rainbow & Brown (5 Suits)	2021-02-01 — 16:45:58 UTC	katian, Krepps57, skyblueexo	14	5	25
 422158	3	0	Rainbow & Brown (5 Suits)	2021-02-01 — 16:16:15 UTC	katian, Krepps57, skyblueexo	24	5	25
-422148	3	0	No Variant	2021-02-01 — 15:42:45 UTC	indego, katian, skyblueexo	154	5	25
-422135	3	0	No Variant	2021-02-01 — 14:49:39 UTC	indego, katian, skyblueexo	151	5	25
-421990	4	25	No Variant	2021-02-01 — 08:05:54 UTC	4head, ksfortson, possum, skyblueexo	36	5	25
+422148	3	0	No Variant	2021-02-01 — 15:42:45 UTC	indego, katian, skyblueexo	157	5	25
+422135	3	0	No Variant	2021-02-01 — 14:49:39 UTC	indego, katian, skyblueexo	153	5	25
+421990	4	25	No Variant	2021-02-01 — 08:05:54 UTC	4head, ksfortson, possum, skyblueexo	37	5	25
 421967	4	25	No Variant	2021-02-01 — 07:36:42 UTC	ksfortson, possum, skyblueexo, wump	36	5	25
-421950	4	25	No Variant	2021-02-01 — 07:04:36 UTC	eljavi, FerKeth, skyblueexo, wump	48	5	25
-421933	4	24	No Variant	2021-02-01 — 06:34:25 UTC	eljavi, FerKeth, skyblueexo, wump	52	5	25
-421920	4	24	No Variant	2021-02-01 — 06:06:31 UTC	eljavi, FerKeth, skyblueexo, wump	53	5	25
-421168	3	24	No Variant	2021-01-31 — 16:40:53 UTC	indego, katian, skyblueexo	156	5	25
-421140	3	0	No Variant	2021-01-31 — 15:41:44 UTC	indego, katian, skyblueexo	157	5	25
-421126	3	0	No Variant	2021-01-31 — 15:08:28 UTC	indego, katian, skyblueexo	160	5	25
+421950	4	25	No Variant	2021-02-01 — 07:04:36 UTC	eljavi, FerKeth, skyblueexo, wump	49	5	25
+421933	4	24	No Variant	2021-02-01 — 06:34:25 UTC	eljavi, FerKeth, skyblueexo, wump	54	5	25
+421920	4	24	No Variant	2021-02-01 — 06:06:31 UTC	eljavi, FerKeth, skyblueexo, wump	55	5	25
+421168	3	24	No Variant	2021-01-31 — 16:40:53 UTC	indego, katian, skyblueexo	158	5	25
+421140	3	0	No Variant	2021-01-31 — 15:41:44 UTC	indego, katian, skyblueexo	160	5	25
+421126	3	0	No Variant	2021-01-31 — 15:08:28 UTC	indego, katian, skyblueexo	163	5	25
 421099	6	28	6 Suits	2021-01-31 — 14:08:23 UTC	DarthGandalf, eliclax, louietyj, possum, skyblueexo, Spieler42	50	6	30
 421061	6	0	6 Suits	2021-01-31 — 12:58:12 UTC	DarthGandalf, eliclax, louietyj, possum, skyblueexo, Spieler42	84	6	30
 421015	4	30	Pink & White (6 Suits)	2021-01-31 — 10:38:08 UTC	jack67889, katian, Lel0uch, skyblueexo	2	6	30
-420964	3	25	No Variant	2021-01-31 — 08:25:05 UTC	Fey, louietyj, skyblueexo	28	5	25
+420964	3	25	No Variant	2021-01-31 — 08:25:05 UTC	Fey, louietyj, skyblueexo	30	5	25
 419895	3	0	Rainbow & Brown (5 Suits)	2021-01-30 — 17:08:20 UTC	katian, Krepps57, skyblueexo	25	5	25
-419810	3	23	No Variant	2021-01-30 — 14:57:59 UTC	Apathetic, possum, skyblueexo	170	5	25
-419793	3	0	No Variant	2021-01-30 — 14:15:30 UTC	Apathetic, possum, skyblueexo	187	5	25
+419810	3	23	No Variant	2021-01-30 — 14:57:59 UTC	Apathetic, possum, skyblueexo	173	5	25
+419793	3	0	No Variant	2021-01-30 — 14:15:30 UTC	Apathetic, possum, skyblueexo	189	5	25
 419777	4	0	Black (5 Suits)	2021-01-30 — 13:50:29 UTC	katian, possum, skyblueexo, StKildaFan	15	5	25
 419768	4	0	Black (5 Suits)	2021-01-30 — 13:40:09 UTC	katian, possum, skyblueexo, StKildaFan	19	5	25
-419758	4	0	Black (5 Suits)	2021-01-30 — 13:22:57 UTC	katian, possum, skyblueexo, StKildaFan	79	5	25
+419758	4	0	Black (5 Suits)	2021-01-30 — 13:22:57 UTC	katian, possum, skyblueexo, StKildaFan	80	5	25
 418606	3	24	Brown (5 Suits)	2021-01-29 — 16:25:03 UTC	katian, Krepps57, skyblueexo	11	5	25
 418444	5	22	White-Ones & Rainbow (5 Suits)	2021-01-29 — 07:12:03 UTC	eljavi, indego, katian, lolthisnotderk, skyblueexo	2	5	25
 418431	5	0	White-Ones & Rainbow (5 Suits)	2021-01-29 — 06:45:21 UTC	eljavi, indego, katian, lolthisnotderk, skyblueexo	3	5	25
 418420	4	22	White & Prism (5 Suits)	2021-01-29 — 06:32:07 UTC	eljavi, IsabeltheCat, lolthisnotderk, skyblueexo	5	5	25
 418396	5	23	Prism (5 Suits)	2021-01-29 — 06:03:05 UTC	eljavi, IsabeltheCat, lolthisnotderk, possum, skyblueexo	20	5	25
-417646	3	0	No Variant	2021-01-28 — 17:09:16 UTC	katian, Krepps57, skyblueexo	178	5	25
-417622	3	0	No Variant	2021-01-28 — 16:24:24 UTC	katian, Krepps57, skyblueexo	213	5	25
+417646	3	0	No Variant	2021-01-28 — 17:09:16 UTC	katian, Krepps57, skyblueexo	179	5	25
+417622	3	0	No Variant	2021-01-28 — 16:24:24 UTC	katian, Krepps57, skyblueexo	218	5	25
 416470	3	0	Brown (5 Suits)	2021-01-27 — 16:49:44 UTC	katian, Krepps57, skyblueexo	13	5	25
 416455	3	20	Rainbow (4 Suits)	2021-01-27 — 16:20:02 UTC	katian, Krepps57, skyblueexo	9	4	20
 415488	3	0	Rainbow (4 Suits)	2021-01-26 — 17:18:13 UTC	katian, Krepps57, skyblueexo	11	4	20
@@ -343,39 +343,39 @@
 414624	3	0	Rainbow (4 Suits)	2021-01-25 — 17:01:39 UTC	katian, Krepps57, skyblueexo	13	4	20
 414621	3	0	Rainbow (4 Suits)	2021-01-25 — 16:51:45 UTC	katian, Krepps57, skyblueexo	16	4	20
 414616	3	18	Rainbow (4 Suits)	2021-01-25 — 16:25:55 UTC	katian, Krepps57, skyblueexo	22	4	20
-414607	3	19	Rainbow (4 Suits)	2021-01-25 — 15:55:12 UTC	katian, Krepps57, skyblueexo	28	4	20
-414578	4	25	No Variant	2021-01-25 — 14:57:58 UTC	eliclax, gchang02, Plum, skyblueexo	601	5	25
-414564	3	0	Black & Rainbow (5 Suits)	2021-01-25 — 14:24:28 UTC	macanek, MangoPie, skyblueexo	46	5	25
+414607	3	19	Rainbow (4 Suits)	2021-01-25 — 15:55:12 UTC	katian, Krepps57, skyblueexo	29	4	20
+414578	4	25	No Variant	2021-01-25 — 14:57:58 UTC	eliclax, gchang02, Plum, skyblueexo	606	5	25
+414564	3	0	Black & Rainbow (5 Suits)	2021-01-25 — 14:24:28 UTC	macanek, MangoPie, skyblueexo	47	5	25
 414551	3	21	Black & Rainbow (5 Suits)	2021-01-25 — 14:00:36 UTC	macanek, MangoPie, skyblueexo	58	5	25
-414524	3	25	No Variant	2021-01-25 — 12:26:53 UTC	MissedFinesse, possum, skyblueexo	259	5	25
-414504	3	25	No Variant	2021-01-25 — 11:42:03 UTC	MissedFinesse, possum, skyblueexo	307	5	25
+414524	3	25	No Variant	2021-01-25 — 12:26:53 UTC	MissedFinesse, possum, skyblueexo	261	5	25
+414504	3	25	No Variant	2021-01-25 — 11:42:03 UTC	MissedFinesse, possum, skyblueexo	311	5	25
 414478	5	0	Brown (6 Suits)	2021-01-25 — 09:35:59 UTC	Floriman, indego, katian, rahsosprout, skyblueexo	21	6	30
 414470	6	0	Light Pink (6 Suits)	2021-01-25 — 09:07:29 UTC	Floriman, indego, katian, rahsosprout, sephiroth, skyblueexo	1	6	30
-413607	3	18	Rainbow (4 Suits)	2021-01-24 — 16:52:56 UTC	katian, Krepps57, skyblueexo	32	4	20
-413590	3	0	Rainbow (4 Suits)	2021-01-24 — 16:13:35 UTC	katian, Krepps57, skyblueexo	43	4	20
-413580	3	0	Rainbow (4 Suits)	2021-01-24 — 15:46:30 UTC	katian, Krepps57, skyblueexo	46	4	20
-413568	3	24	No Variant	2021-01-24 — 15:22:46 UTC	eliclax, skyblueexo, Spieler42	206	5	25
-413484	3	25	Reversed (5 Suits)	2021-01-24 — 11:01:44 UTC	macanek, MissedFinesse, skyblueexo	35	5	25
-413436	4	25	Brown (5 Suits)	2021-01-24 — 08:52:53 UTC	geenar, lolthisnotderk, rahsosprout, skyblueexo	46	5	25
-413431	4	25	No Variant	2021-01-24 — 08:25:25 UTC	geenar, lolthisnotderk, rahsosprout, skyblueexo	501	5	25
-413367	4	25	Rainbow (5 Suits)	2021-01-24 — 06:32:57 UTC	4head, antitelharsic, ejwu, skyblueexo	38	5	25
-413333	4	0	Rainbow (5 Suits)	2021-01-24 — 06:01:56 UTC	4head, antitelharsic, ejwu, skyblueexo	68	5	25
-412481	4	23	No Variant	2021-01-23 — 16:39:17 UTC	banjoleb, MangoPie, possum, skyblueexo	717	5	25
+413607	3	18	Rainbow (4 Suits)	2021-01-24 — 16:52:56 UTC	katian, Krepps57, skyblueexo	34	4	20
+413590	3	0	Rainbow (4 Suits)	2021-01-24 — 16:13:35 UTC	katian, Krepps57, skyblueexo	45	4	20
+413580	3	0	Rainbow (4 Suits)	2021-01-24 — 15:46:30 UTC	katian, Krepps57, skyblueexo	48	4	20
+413568	3	24	No Variant	2021-01-24 — 15:22:46 UTC	eliclax, skyblueexo, Spieler42	209	5	25
+413484	3	25	Reversed (5 Suits)	2021-01-24 — 11:01:44 UTC	macanek, MissedFinesse, skyblueexo	36	5	25
+413436	4	25	Brown (5 Suits)	2021-01-24 — 08:52:53 UTC	geenar, lolthisnotderk, rahsosprout, skyblueexo	47	5	25
+413431	4	25	No Variant	2021-01-24 — 08:25:25 UTC	geenar, lolthisnotderk, rahsosprout, skyblueexo	507	5	25
+413367	4	25	Rainbow (5 Suits)	2021-01-24 — 06:32:57 UTC	4head, antitelharsic, ejwu, skyblueexo	40	5	25
+413333	4	0	Rainbow (5 Suits)	2021-01-24 — 06:01:56 UTC	4head, antitelharsic, ejwu, skyblueexo	70	5	25
+412481	4	23	No Variant	2021-01-23 — 16:39:17 UTC	banjoleb, MangoPie, possum, skyblueexo	724	5	25
 412458	6	23	No Variant	2021-01-23 — 15:57:58 UTC	banjoleb, desymo99, eljavi, Plum, possum, skyblueexo	52	5	25
-412427	3	25	No Variant	2021-01-23 — 15:01:50 UTC	banjoleb, possum, skyblueexo	194	5	25
-412407	3	22	No Variant	2021-01-23 — 14:30:11 UTC	banjoleb, possum, skyblueexo	199	5	25
-412399	3	0	No Variant	2021-01-23 — 14:08:06 UTC	banjoleb, possum, skyblueexo	220	5	25
+412427	3	25	No Variant	2021-01-23 — 15:01:50 UTC	banjoleb, possum, skyblueexo	198	5	25
+412407	3	22	No Variant	2021-01-23 — 14:30:11 UTC	banjoleb, possum, skyblueexo	202	5	25
+412399	3	0	No Variant	2021-01-23 — 14:08:06 UTC	banjoleb, possum, skyblueexo	224	5	25
 412385	3	22	White (5 Suits)	2021-01-23 — 13:19:14 UTC	eliclax, macanek, skyblueexo	17	5	25
-412253	3	25	No Variant	2021-01-23 — 11:10:05 UTC	disco.py, rahsosprout, skyblueexo	386	5	25
-412245	3	0	No Variant	2021-01-23 — 10:40:40 UTC	disco.py, rahsosprout, skyblueexo	451	5	25
-412239	3	24	No Variant	2021-01-23 — 10:25:01 UTC	disco.py, rahsosprout, skyblueexo	459	5	25
-412223	2	0	No Variant	2021-01-23 — 09:52:34 UTC	dobi, skyblueexo	1621	5	25
-412220	2	0	No Variant	2021-01-23 — 09:46:11 UTC	dobi, skyblueexo	1703	5	25
-412209	2	0	No Variant	2021-01-23 — 09:26:43 UTC	dobi, skyblueexo	1840	5	25
+412253	3	25	No Variant	2021-01-23 — 11:10:05 UTC	disco.py, rahsosprout, skyblueexo	392	5	25
+412245	3	0	No Variant	2021-01-23 — 10:40:40 UTC	disco.py, rahsosprout, skyblueexo	456	5	25
+412239	3	24	No Variant	2021-01-23 — 10:25:01 UTC	disco.py, rahsosprout, skyblueexo	467	5	25
+412223	2	0	No Variant	2021-01-23 — 09:52:34 UTC	dobi, skyblueexo	1637	5	25
+412220	2	0	No Variant	2021-01-23 — 09:46:11 UTC	dobi, skyblueexo	1721	5	25
+412209	2	0	No Variant	2021-01-23 — 09:26:43 UTC	dobi, skyblueexo	1856	5	25
 412148	6	30	Black (6 Suits)	2021-01-23 — 06:48:20 UTC	Asddsa76, dobi, duckington, indego, katian, skyblueexo	5	6	30
 412036	6	25	Prism (5 Suits)	2021-01-23 — 04:52:43 UTC	IsabeltheCat, ksfortson, lolthisnotderk, otterful, skyblueexo, torp	6	5	25
 411969	4	23	No Variant	2021-01-23 — 04:13:24 UTC	ksfortson, lolthisnotderk, otterful, skyblueexo	41	5	25
-411942	5	0	No Variant	2021-01-23 — 03:47:48 UTC	FerKeth, ksfortson, lolthisnotderk, otterful, skyblueexo	457	5	25
+411942	5	0	No Variant	2021-01-23 — 03:47:48 UTC	FerKeth, ksfortson, lolthisnotderk, otterful, skyblueexo	461	5	25
 411418	3	0	Brown (5 Suits)	2021-01-22 — 17:02:37 UTC	katian, Krepps57, skyblueexo	16	5	25
 411396	3	0	Brown (5 Suits)	2021-01-22 — 16:26:39 UTC	katian, Krepps57, skyblueexo	17	5	25
 411387	3	0	Brown (5 Suits)	2021-01-22 — 16:05:53 UTC	katian, Krepps57, skyblueexo	17	5	25
@@ -388,46 +388,46 @@
 410419	5	0	Dark Prism (6 Suits)	2021-01-21 — 09:31:20 UTC	4head, arnino, katian, louietyj, skyblueexo	10	6	30
 410411	5	0	Dark Prism (6 Suits)	2021-01-21 — 09:01:29 UTC	4head, arnino, katian, louietyj, skyblueexo	14	6	30
 410395	3	20	Ambiguous (4 Suits)	2021-01-21 — 08:27:21 UTC	4head, louietyj, skyblueexo	14	4	20
-410384	3	23	No Variant	2021-01-21 — 07:59:40 UTC	4head, louietyj, skyblueexo	111	5	25
+410384	3	23	No Variant	2021-01-21 — 07:59:40 UTC	4head, louietyj, skyblueexo	116	5	25
 409435	6	26	White (6 Suits)	2021-01-20 — 08:30:49 UTC	antitelharsic, frosty104, indego, katian, newduke, skyblueexo	5	6	30
-409415	4	0	Dark Rainbow (6 Suits)	2021-01-20 — 07:39:27 UTC	frosty104, indego, katian, skyblueexo	53	6	30
-409123	4	25	No Variant	2021-01-20 — 01:16:55 UTC	Denchulitas, rahsosprout, skyblueexo, torp	180	5	25
-409104	3	22	No Variant	2021-01-20 — 00:45:12 UTC	radizomic, skyblueexo, torp	218	5	25
-409085	2	22	No Variant	2021-01-20 — 00:16:05 UTC	radizomic, skyblueexo	1952	5	25
+409415	4	0	Dark Rainbow (6 Suits)	2021-01-20 — 07:39:27 UTC	frosty104, indego, katian, skyblueexo	54	6	30
+409123	4	25	No Variant	2021-01-20 — 01:16:55 UTC	Denchulitas, rahsosprout, skyblueexo, torp	182	5	25
+409104	3	22	No Variant	2021-01-20 — 00:45:12 UTC	radizomic, skyblueexo, torp	223	5	25
+409085	2	22	No Variant	2021-01-20 — 00:16:05 UTC	radizomic, skyblueexo	1966	5	25
 408618	3	0	Brown (5 Suits)	2021-01-19 — 15:10:13 UTC	katian, Krepps57, skyblueexo	23	5	25
 408610	5	0	White-Ones & Brown (6 Suits)	2021-01-19 — 14:37:29 UTC	katian, Lanvin, MarkusKahlsen, rz, skyblueexo	3	6	30
-408603	4	0	Brown-Ones & Rainbow (6 Suits)	2021-01-19 — 14:16:06 UTC	katian, Lanvin, rz, skyblueexo	2	6	30
-408529	3	0	Pink-Fives (5 Suits)	2021-01-19 — 10:40:13 UTC	catula, Pimak, skyblueexo	9	5	25
-408517	3	0	Pink-Ones (5 Suits)	2021-01-19 — 10:09:19 UTC	catula, Pimak, skyblueexo	6	5	25
+408603	4	0	Brown-Ones & Rainbow (6 Suits)	2021-01-19 — 14:16:06 UTC	katian, Lanvin, rz, skyblueexo	3	6	30
+408529	3	0	Pink-Fives (5 Suits)	2021-01-19 — 10:40:13 UTC	catula, Pimak, skyblueexo	10	5	25
+408517	3	0	Pink-Ones (5 Suits)	2021-01-19 — 10:09:19 UTC	catula, Pimak, skyblueexo	7	5	25
 407556	3	0	Brown (5 Suits)	2021-01-18 — 17:12:03 UTC	katian, Krepps57, skyblueexo	25	5	25
 407537	3	0	Brown (5 Suits)	2021-01-18 — 16:52:00 UTC	katian, Krepps57, skyblueexo	31	5	25
 407530	3	0	Brown (5 Suits)	2021-01-18 — 16:38:30 UTC	katian, Krepps57, skyblueexo	38	5	25
-407514	3	0	Brown (5 Suits)	2021-01-18 — 16:26:25 UTC	katian, Krepps57, skyblueexo	39	5	25
-407492	3	24	Brown (5 Suits)	2021-01-18 — 16:09:29 UTC	katian, Krepps57, skyblueexo	63	5	25
-407418	3	25	No Variant	2021-01-18 — 14:02:28 UTC	katian, macanek, skyblueexo	167	5	25
-407414	3	0	No Variant	2021-01-18 — 13:51:55 UTC	katian, macanek, skyblueexo	164	5	25
-407412	3	0	No Variant	2021-01-18 — 13:47:32 UTC	katian, macanek, skyblueexo	175	5	25
-407407	3	23	No Variant	2021-01-18 — 13:38:49 UTC	katian, macanek, skyblueexo	201	5	25
-407359	2	0	No Variant	2021-01-18 — 12:10:34 UTC	macanek, skyblueexo	699	5	25
-407356	2	0	No Variant	2021-01-18 — 12:03:21 UTC	macanek, skyblueexo	719	5	25
-407350	2	0	No Variant	2021-01-18 — 11:59:05 UTC	macanek, skyblueexo	741	5	25
-407348	2	0	No Variant	2021-01-18 — 11:56:50 UTC	macanek, skyblueexo	770	5	25
-407343	2	0	No Variant	2021-01-18 — 11:53:58 UTC	macanek, skyblueexo	794	5	25
-407341	2	0	No Variant	2021-01-18 — 11:50:00 UTC	macanek, skyblueexo	818	5	25
-407336	2	0	No Variant	2021-01-18 — 11:40:56 UTC	macanek, skyblueexo	854	5	25
-407332	2	0	No Variant	2021-01-18 — 11:36:34 UTC	macanek, skyblueexo	883	5	25
-407329	2	25	No Variant	2021-01-18 — 11:29:37 UTC	macanek, skyblueexo	921	5	25
-407323	2	0	No Variant	2021-01-18 — 11:19:40 UTC	macanek, skyblueexo	948	5	25
+407514	3	0	Brown (5 Suits)	2021-01-18 — 16:26:25 UTC	katian, Krepps57, skyblueexo	41	5	25
+407492	3	24	Brown (5 Suits)	2021-01-18 — 16:09:29 UTC	katian, Krepps57, skyblueexo	65	5	25
+407418	3	25	No Variant	2021-01-18 — 14:02:28 UTC	katian, macanek, skyblueexo	170	5	25
+407414	3	0	No Variant	2021-01-18 — 13:51:55 UTC	katian, macanek, skyblueexo	167	5	25
+407412	3	0	No Variant	2021-01-18 — 13:47:32 UTC	katian, macanek, skyblueexo	176	5	25
+407407	3	23	No Variant	2021-01-18 — 13:38:49 UTC	katian, macanek, skyblueexo	203	5	25
+407359	2	0	No Variant	2021-01-18 — 12:10:34 UTC	macanek, skyblueexo	705	5	25
+407356	2	0	No Variant	2021-01-18 — 12:03:21 UTC	macanek, skyblueexo	725	5	25
+407350	2	0	No Variant	2021-01-18 — 11:59:05 UTC	macanek, skyblueexo	749	5	25
+407348	2	0	No Variant	2021-01-18 — 11:56:50 UTC	macanek, skyblueexo	779	5	25
+407343	2	0	No Variant	2021-01-18 — 11:53:58 UTC	macanek, skyblueexo	803	5	25
+407341	2	0	No Variant	2021-01-18 — 11:50:00 UTC	macanek, skyblueexo	828	5	25
+407336	2	0	No Variant	2021-01-18 — 11:40:56 UTC	macanek, skyblueexo	863	5	25
+407332	2	0	No Variant	2021-01-18 — 11:36:34 UTC	macanek, skyblueexo	890	5	25
+407329	2	25	No Variant	2021-01-18 — 11:29:37 UTC	macanek, skyblueexo	931	5	25
+407323	2	0	No Variant	2021-01-18 — 11:19:40 UTC	macanek, skyblueexo	960	5	25
 407231	4	29	Black & Rainbow (6 Suits)	2021-01-18 — 09:58:12 UTC	katian, Pablo-, robense, skyblueexo	46	6	30
 405242	3	18	Prism (4 Suits)	2021-01-16 — 16:51:17 UTC	katian, Krepps57, skyblueexo	21	4	20
-404076	4	20	Rainbow (4 Suits)	2021-01-15 — 16:08:04 UTC	iamfelix, katian, Krepps57, skyblueexo	45	4	20
-404056	3	0	Rainbow (4 Suits)	2021-01-15 — 15:21:55 UTC	iamfelix, katian, skyblueexo	84	4	20
-403954	4	0	No Variant	2021-01-15 — 11:59:48 UTC	Denchulitas, sin_faith, skyblueexo, Wittvector	16	5	25
-403595	4	0	No Variant	2021-01-15 — 02:54:10 UTC	4head, eljavi, PMP, skyblueexo	190	5	25
-403115	3	24	Brown (5 Suits)	2021-01-14 — 16:58:45 UTC	katian, Krepps57, skyblueexo	79	5	25
-403091	3	30	Brown (6 Suits)	2021-01-14 — 16:13:27 UTC	katian, Krepps57, skyblueexo	52	6	30
+404076	4	20	Rainbow (4 Suits)	2021-01-15 — 16:08:04 UTC	iamfelix, katian, Krepps57, skyblueexo	46	4	20
+404056	3	0	Rainbow (4 Suits)	2021-01-15 — 15:21:55 UTC	iamfelix, katian, skyblueexo	85	4	20
+403954	4	0	No Variant	2021-01-15 — 11:59:48 UTC	Denchulitas, sin_faith, skyblueexo, Wittvector	17	5	25
+403595	4	0	No Variant	2021-01-15 — 02:54:10 UTC	4head, eljavi, PMP, skyblueexo	192	5	25
+403115	3	24	Brown (5 Suits)	2021-01-14 — 16:58:45 UTC	katian, Krepps57, skyblueexo	82	5	25
+403091	3	30	Brown (6 Suits)	2021-01-14 — 16:13:27 UTC	katian, Krepps57, skyblueexo	53	6	30
 403076	3	0	Brown (6 Suits)	2021-01-14 — 15:46:58 UTC	katian, Krepps57, skyblueexo	84	6	30
-403064	5	0	No Variant	2021-01-14 — 15:29:52 UTC	katian, Krepps57, skyblueexo, Sorenjoren, wortel	100	5	25
+403064	5	0	No Variant	2021-01-14 — 15:29:52 UTC	katian, Krepps57, skyblueexo, Sorenjoren, wortel	102	5	25
 403022	3	0	Brown (6 Suits)	2021-01-14 — 14:40:15 UTC	indego, katian, skyblueexo	61	6	30
 403003	6	20	White-Ones (4 Suits)	2021-01-14 — 13:57:30 UTC	Lanvin, Pimak, sephiroth, skyblueexo, Wittvector, zeinab001	2	4	20
 402994	6	0	White-Ones (4 Suits)	2021-01-14 — 13:32:15 UTC	Lanvin, Pimak, sephiroth, skyblueexo, Wittvector, zeinab001	2	4	20
@@ -436,153 +436,153 @@
 402982	3	0	Brown-Ones & Rainbow (6 Suits)	2021-01-14 — 12:47:11 UTC	Lanvin, skyblueexo, Wittvector	3	6	30
 402976	3	0	Brown-Ones & Rainbow (6 Suits)	2021-01-14 — 12:31:18 UTC	Lanvin, skyblueexo, Wittvector	4	6	30
 402945	3	30	White & Prism (6 Suits)	2021-01-14 — 10:28:53 UTC	katian, Krepps57, skyblueexo	13	6	30
-402921	5	0	Rainbow (6 Suits)	2021-01-14 — 09:49:07 UTC	arnino, katian, Krepps57, Pimak, skyblueexo	209	6	30
+402921	5	0	Rainbow (6 Suits)	2021-01-14 — 09:49:07 UTC	arnino, katian, Krepps57, Pimak, skyblueexo	211	6	30
 402719	4	23	White-Ones (5 Suits)	2021-01-14 — 04:08:09 UTC	eljavi, PMP, rahsosprout, skyblueexo	1	5	25
 402694	4	22	White-Ones (5 Suits)	2021-01-14 — 03:31:53 UTC	eljavi, PMP, rahsosprout, skyblueexo	1	5	25
 402672	4	0	White-Ones (5 Suits)	2021-01-14 — 03:15:10 UTC	eljavi, PMP, rahsosprout, skyblueexo	3	5	25
-402073	3	22	No Variant	2021-01-13 — 16:15:34 UTC	4head, poofart123, skyblueexo	1465	5	25
-402045	3	22	Black (5 Suits)	2021-01-13 — 15:21:53 UTC	arnino, skyblueexo, zeinab001	134	5	25
-402025	3	30	6 Suits	2021-01-13 — 14:55:30 UTC	arnino, skyblueexo, zeinab001	305	6	30
+402073	3	22	No Variant	2021-01-13 — 16:15:34 UTC	4head, poofart123, skyblueexo	1474	5	25
+402045	3	22	Black (5 Suits)	2021-01-13 — 15:21:53 UTC	arnino, skyblueexo, zeinab001	135	5	25
+402025	3	30	6 Suits	2021-01-13 — 14:55:30 UTC	arnino, skyblueexo, zeinab001	311	6	30
 402006	3	24	Up or Down (5 Suits)	2021-01-13 — 14:02:53 UTC	Fey, MangoPie, skyblueexo	11	5	25
-401919	3	25	No Variant	2021-01-13 — 08:44:19 UTC	LamboXD, louietyj, skyblueexo	243	5	25
-401901	3	0	No Variant	2021-01-13 — 08:03:48 UTC	Feich59, RaptorReleased, skyblueexo	224	5	25
+401919	3	25	No Variant	2021-01-13 — 08:44:19 UTC	LamboXD, louietyj, skyblueexo	246	5	25
+401901	3	0	No Variant	2021-01-13 — 08:03:48 UTC	Feich59, RaptorReleased, skyblueexo	227	5	25
 401132	4	0	White (6 Suits)	2021-01-12 — 16:11:36 UTC	katian, Krepps57, Lanvin, skyblueexo	10	6	30
 401122	4	0	White (6 Suits)	2021-01-12 — 15:46:40 UTC	katian, Krepps57, Lanvin, skyblueexo	10	6	30
 401119	4	0	White (6 Suits)	2021-01-12 — 15:34:45 UTC	katian, Krepps57, Lanvin, skyblueexo	11	6	30
 401113	4	0	White (6 Suits)	2021-01-12 — 15:10:38 UTC	katian, Krepps57, Lanvin, skyblueexo	14	6	30
 401108	5	0	White-Ones & Rainbow (4 Suits)	2021-01-12 — 14:41:23 UTC	indego, katian, Lanvin, PMP, skyblueexo	1	4	20
-401102	5	20	Rainbow (4 Suits)	2021-01-12 — 14:08:02 UTC	indego, Lanvin, MangoPie, PMP, skyblueexo	20	4	20
+401102	5	20	Rainbow (4 Suits)	2021-01-12 — 14:08:02 UTC	indego, Lanvin, MangoPie, PMP, skyblueexo	21	4	20
 401098	4	0	White-Ones & Rainbow (6 Suits)	2021-01-12 — 13:45:46 UTC	indego, Lel0uch, MangoPie, skyblueexo	4	6	30
-401086	3	25	Up or Down (5 Suits)	2021-01-12 — 12:52:54 UTC	ArualEIs, CaitlinSmith, skyblueexo	62	5	25
-401078	3	0	Up or Down (5 Suits)	2021-01-12 — 12:21:17 UTC	ArualEIs, CaitlinSmith, skyblueexo	88	5	25
+401086	3	25	Up or Down (5 Suits)	2021-01-12 — 12:52:54 UTC	ArualEIs, CaitlinSmith, skyblueexo	64	5	25
+401078	3	0	Up or Down (5 Suits)	2021-01-12 — 12:21:17 UTC	ArualEIs, CaitlinSmith, skyblueexo	89	5	25
 401061	3	0	Prism (4 Suits)	2021-01-12 — 11:00:26 UTC	katian, Pimak, skyblueexo	27	4	20
-401053	3	19	Prism (4 Suits)	2021-01-12 — 10:21:21 UTC	katian, Pimak, skyblueexo	45	4	20
-401044	3	29	White (6 Suits)	2021-01-12 — 09:38:57 UTC	ArualEIs, katian, skyblueexo	124	6	30
+401053	3	19	Prism (4 Suits)	2021-01-12 — 10:21:21 UTC	katian, Pimak, skyblueexo	47	4	20
+401044	3	29	White (6 Suits)	2021-01-12 — 09:38:57 UTC	ArualEIs, katian, skyblueexo	128	6	30
 401033	3	29	White (6 Suits)	2021-01-12 — 08:49:51 UTC	ArualEIs, rahsosprout, skyblueexo	70	6	30
 400161	4	20	Brown (4 Suits)	2021-01-11 — 15:24:53 UTC	ChristopheAF, macanek, skyblueexo, wump	22	4	20
-400135	4	24	No Variant	2021-01-11 — 14:01:20 UTC	ArualEIs, BananaBum, PMP, skyblueexo	308	5	25
-400114	4	0	White (6 Suits)	2021-01-11 — 13:09:40 UTC	BananaBum, Lanvin, sgfx, skyblueexo	16	6	30
-400108	4	0	White (6 Suits)	2021-01-11 — 12:33:05 UTC	BananaBum, Lanvin, sgfx, skyblueexo	16	6	30
-400104	4	0	No Variant	2021-01-11 — 12:16:34 UTC	BananaBum, Lanvin, sgfx, skyblueexo	2076	5	25
+400135	4	24	No Variant	2021-01-11 — 14:01:20 UTC	ArualEIs, BananaBum, PMP, skyblueexo	311	5	25
+400114	4	0	White (6 Suits)	2021-01-11 — 13:09:40 UTC	BananaBum, Lanvin, sgfx, skyblueexo	17	6	30
+400108	4	0	White (6 Suits)	2021-01-11 — 12:33:05 UTC	BananaBum, Lanvin, sgfx, skyblueexo	17	6	30
+400104	4	0	No Variant	2021-01-11 — 12:16:34 UTC	BananaBum, Lanvin, sgfx, skyblueexo	2094	5	25
 400101	5	0	White-Ones (5 Suits)	2021-01-11 — 12:04:37 UTC	BananaBum, katian, Lanvin, macanek, skyblueexo	2	5	25
-400092	4	22	No Variant	2021-01-11 — 11:18:37 UTC	Fey, sgfx, skyblueexo, swineherd	54	5	25
-400087	4	22	No Variant	2021-01-11 — 10:30:40 UTC	banjoleb, knaphill, raramra, skyblueexo	1253	5	25
+400092	4	22	No Variant	2021-01-11 — 11:18:37 UTC	Fey, sgfx, skyblueexo, swineherd	55	5	25
+400087	4	22	No Variant	2021-01-11 — 10:30:40 UTC	banjoleb, knaphill, raramra, skyblueexo	1267	5	25
 400041	3	25	Rainbow & Prism (5 Suits)	2021-01-11 — 08:26:33 UTC	katian, Pimak, skyblueexo	2	5	25
 400019	3	0	Rainbow & Prism (5 Suits)	2021-01-11 — 08:01:35 UTC	katian, Pimak, skyblueexo	2	5	25
 400014	3	24	Rainbow & Prism (5 Suits)	2021-01-11 — 07:47:13 UTC	katian, Pimak, skyblueexo	4	5	25
-399996	3	30	Prism (6 Suits)	2021-01-11 — 07:15:49 UTC	katian, Pimak, skyblueexo	60	6	30
-399036	3	24	No Variant	2021-01-10 — 08:41:37 UTC	eljavi, skyblueexo, torp	223	5	25
+399996	3	30	Prism (6 Suits)	2021-01-11 — 07:15:49 UTC	katian, Pimak, skyblueexo	61	6	30
+399036	3	24	No Variant	2021-01-10 — 08:41:37 UTC	eljavi, skyblueexo, torp	228	5	25
 398982	4	25	White-Ones (5 Suits)	2021-01-10 — 07:55:47 UTC	eljavi, MangoPie, skyblueexo, torp	7	5	25
 397876	3	24	Rainbow & Prism (5 Suits)	2021-01-09 — 17:06:47 UTC	katian, Krepps57, skyblueexo	12	5	25
-397847	3	0	Rainbow & Prism (5 Suits)	2021-01-09 — 16:29:05 UTC	katian, Krepps57, skyblueexo	16	5	25
+397847	3	0	Rainbow & Prism (5 Suits)	2021-01-09 — 16:29:05 UTC	katian, Krepps57, skyblueexo	17	5	25
 397833	3	0	Rainbow & Prism (5 Suits)	2021-01-09 — 16:12:36 UTC	katian, Krepps57, skyblueexo	26	5	25
 397803	3	25	Brown-Ones (5 Suits)	2021-01-09 — 15:10:13 UTC	Lanvin, skyblueexo, tezeteta	10	5	25
-397720	3	25	No Variant	2021-01-09 — 11:18:27 UTC	Nexus, skyblueexo, Wittvector	250	5	25
+397720	3	25	No Variant	2021-01-09 — 11:18:27 UTC	Nexus, skyblueexo, Wittvector	252	5	25
 396706	5	25	Prism (5 Suits)	2021-01-08 — 16:43:16 UTC	ArualEIs, katian, MangoPie, Pimak, skyblueexo	10	5	25
 396693	3	30	White-Ones (6 Suits)	2021-01-08 — 15:55:46 UTC	MangoPie, Pimak, skyblueexo	11	6	30
-396650	3	0	6 Suits	2021-01-08 — 14:27:30 UTC	ArualEIs, robense, skyblueexo	99	6	30
-395594	4	20	No Variant	2021-01-07 — 17:04:19 UTC	iamfelix, katian, Krepps57, skyblueexo	1092	5	25
-395580	3	0	No Variant	2021-01-07 — 16:24:13 UTC	katian, Krepps57, skyblueexo	269	5	25
-395571	3	0	No Variant	2021-01-07 — 16:11:05 UTC	katian, Krepps57, skyblueexo	275	5	25
-395556	3	29	Black (6 Suits)	2021-01-07 — 15:49:01 UTC	katian, Krepps57, skyblueexo	325	6	30
-395535	3	0	Black (6 Suits)	2021-01-07 — 15:16:15 UTC	katian, Krepps57, skyblueexo	399	6	30
-395479	3	24	Pink (6 Suits)	2021-01-07 — 13:08:06 UTC	katian, sean1815, skyblueexo	92	6	30
-395446	3	0	Pink (6 Suits)	2021-01-07 — 11:46:16 UTC	katian, sean1815, skyblueexo	131	6	30
-395439	4	0	No Variant	2021-01-07 — 11:23:09 UTC	katian, louietyj, sean1815, skyblueexo	336	5	25
-395435	3	25	No Variant	2021-01-07 — 11:12:32 UTC	katian, sean1815, skyblueexo	285	5	25
-395368	2	25	No Variant	2021-01-07 — 07:47:04 UTC	Cration, skyblueexo	2147	5	25
-395352	3	22	No Variant	2021-01-07 — 07:16:55 UTC	archieee, Cration, skyblueexo	2163	5	25
-395324	4	24	No Variant	2021-01-07 — 06:40:07 UTC	Cration, Fey, Onen, skyblueexo	70	5	25
-394484	3	0	Rainbow (6 Suits)	2021-01-06 — 14:43:13 UTC	frosty104, katian, skyblueexo	332	6	30
-394433	4	24	No Variant	2021-01-06 — 12:31:31 UTC	louietyj, methmatics, Plum, skyblueexo	54	5	25
+396650	3	0	6 Suits	2021-01-08 — 14:27:30 UTC	ArualEIs, robense, skyblueexo	100	6	30
+395594	4	20	No Variant	2021-01-07 — 17:04:19 UTC	iamfelix, katian, Krepps57, skyblueexo	1103	5	25
+395580	3	0	No Variant	2021-01-07 — 16:24:13 UTC	katian, Krepps57, skyblueexo	272	5	25
+395571	3	0	No Variant	2021-01-07 — 16:11:05 UTC	katian, Krepps57, skyblueexo	277	5	25
+395556	3	29	Black (6 Suits)	2021-01-07 — 15:49:01 UTC	katian, Krepps57, skyblueexo	332	6	30
+395535	3	0	Black (6 Suits)	2021-01-07 — 15:16:15 UTC	katian, Krepps57, skyblueexo	407	6	30
+395479	3	24	Pink (6 Suits)	2021-01-07 — 13:08:06 UTC	katian, sean1815, skyblueexo	94	6	30
+395446	3	0	Pink (6 Suits)	2021-01-07 — 11:46:16 UTC	katian, sean1815, skyblueexo	132	6	30
+395439	4	0	No Variant	2021-01-07 — 11:23:09 UTC	katian, louietyj, sean1815, skyblueexo	340	5	25
+395435	3	25	No Variant	2021-01-07 — 11:12:32 UTC	katian, sean1815, skyblueexo	287	5	25
+395368	2	25	No Variant	2021-01-07 — 07:47:04 UTC	Cration, skyblueexo	2166	5	25
+395352	3	22	No Variant	2021-01-07 — 07:16:55 UTC	archieee, Cration, skyblueexo	2179	5	25
+395324	4	24	No Variant	2021-01-07 — 06:40:07 UTC	Cration, Fey, Onen, skyblueexo	71	5	25
+394484	3	0	Rainbow (6 Suits)	2021-01-06 — 14:43:13 UTC	frosty104, katian, skyblueexo	335	6	30
+394433	4	24	No Variant	2021-01-06 — 12:31:31 UTC	louietyj, methmatics, Plum, skyblueexo	56	5	25
 394423	5	22	No Variant	2021-01-06 — 11:46:07 UTC	LamboXD, louietyj, methmatics, Plum, skyblueexo	75	5	25
 394415	5	0	Ambiguous Mix	2021-01-06 — 11:23:29 UTC	LamboXD, methmatics, Plum, skyblueexo, TimeHoodie	7	6	30
 393612	4	20	Rainbow (4 Suits)	2021-01-05 — 14:57:05 UTC	ArualEIs, Lanvin, Pimak, skyblueexo	11	4	20
 393601	4	0	Rainbow (4 Suits)	2021-01-05 — 14:30:06 UTC	ArualEIs, Lanvin, Pimak, skyblueexo	17	4	20
 393312	3	25	Rainbow-Fives (5 Suits)	2021-01-05 — 10:31:27 UTC	indego, ricardodd, skyblueexo	4	5	25
 393304	3	0	Rainbow-Fives (5 Suits)	2021-01-05 — 10:07:45 UTC	indego, ricardodd, skyblueexo	8	5	25
-393262	4	0	Brown-Ones (6 Suits)	2021-01-05 — 08:55:18 UTC	frosty104, katian, Lel0uch, skyblueexo	4	6	30
+393262	4	0	Brown-Ones (6 Suits)	2021-01-05 — 08:55:18 UTC	frosty104, katian, Lel0uch, skyblueexo	5	6	30
 393253	5	29	Dual-Color Mix	2021-01-05 — 08:26:58 UTC	frosty104, katian, Lel0uch, sin_faith, skyblueexo	5	6	30
-392531	3	29	Rainbow (6 Suits)	2021-01-04 — 16:51:08 UTC	katian, Krepps57, skyblueexo	396	6	30
-392390	4	14	3 Suits	2021-01-04 — 09:25:34 UTC	katian, rahsosprout, skyblueexo, torp	73	3	15
-392375	4	17	White (4 Suits)	2021-01-04 — 09:02:22 UTC	katian, rahsosprout, skyblueexo, torp	34	4	20
-392356	4	22	Black (5 Suits)	2021-01-04 — 08:31:17 UTC	katian, rahsosprout, skyblueexo, torp	98	5	25
-390400	4	25	White (5 Suits)	2021-01-02 — 17:57:08 UTC	Fey, Krepps57, MarkusKahlsen, skyblueexo	22	5	25
+392531	3	29	Rainbow (6 Suits)	2021-01-04 — 16:51:08 UTC	katian, Krepps57, skyblueexo	404	6	30
+392390	4	14	3 Suits	2021-01-04 — 09:25:34 UTC	katian, rahsosprout, skyblueexo, torp	74	3	15
+392375	4	17	White (4 Suits)	2021-01-04 — 09:02:22 UTC	katian, rahsosprout, skyblueexo, torp	35	4	20
+392356	4	22	Black (5 Suits)	2021-01-04 — 08:31:17 UTC	katian, rahsosprout, skyblueexo, torp	101	5	25
+390400	4	25	White (5 Suits)	2021-01-02 — 17:57:08 UTC	Fey, Krepps57, MarkusKahlsen, skyblueexo	23	5	25
 390386	6	0	Black (5 Suits)	2021-01-02 — 17:31:10 UTC	frosty104, indego, Krepps57, Lanvin, MarkusKahlsen, skyblueexo	7	5	25
-390368	3	0	No Variant	2021-01-02 — 17:01:57 UTC	doctorabi, Krepps57, skyblueexo	485	5	25
+390368	3	0	No Variant	2021-01-02 — 17:01:57 UTC	doctorabi, Krepps57, skyblueexo	491	5	25
 390219	4	0	Rainbow (5 Suits)	2021-01-02 — 10:32:09 UTC	frosty104, katian, Krepps57, skyblueexo	42	5	25
-390204	3	25	White (5 Suits)	2021-01-02 — 09:35:43 UTC	katian, Krepps57, skyblueexo	126	5	25
+390204	3	25	White (5 Suits)	2021-01-02 — 09:35:43 UTC	katian, Krepps57, skyblueexo	131	5	25
 389358	5	28	Rainbow (6 Suits)	2021-01-01 — 15:50:09 UTC	ChristopheAF, katian, Lel0uch, skyblueexo, Wittvector	83	6	30
-389339	5	22	No Variant	2021-01-01 — 15:14:44 UTC	ChristopheAF, katian, Lel0uch, skyblueexo, Wittvector	541	5	25
-387314	4	24	No Variant	2020-12-30 — 17:35:54 UTC	Krepps57, macanek, skyblueexo, tezeteta	473	5	25
-386198	4	28	Rainbow (6 Suits)	2020-12-29 — 16:16:04 UTC	frosty104, katian, Krepps57, skyblueexo	156	6	30
-386188	4	24	No Variant	2020-12-29 — 15:35:58 UTC	frosty104, katian, Krepps57, skyblueexo	655	5	25
+389339	5	22	No Variant	2021-01-01 — 15:14:44 UTC	ChristopheAF, katian, Lel0uch, skyblueexo, Wittvector	546	5	25
+387314	4	24	No Variant	2020-12-30 — 17:35:54 UTC	Krepps57, macanek, skyblueexo, tezeteta	480	5	25
+386198	4	28	Rainbow (6 Suits)	2020-12-29 — 16:16:04 UTC	frosty104, katian, Krepps57, skyblueexo	157	6	30
+386188	4	24	No Variant	2020-12-29 — 15:35:58 UTC	frosty104, katian, Krepps57, skyblueexo	660	5	25
 386183	5	0	Throw It in a Hole (5 Suits)	2020-12-29 — 15:13:42 UTC	frosty104, indego, katian, macanek, skyblueexo	15	5	25
-385076	3	25	No Variant	2020-12-28 — 16:34:55 UTC	katian, Krepps57, skyblueexo	320	5	25
-385061	3	23	No Variant	2020-12-28 — 16:06:00 UTC	akamaru, Krepps57, skyblueexo	516	5	25
-385028	3	0	No Variant	2020-12-28 — 15:20:22 UTC	akamaru, Krepps57, skyblueexo	645	5	25
-385020	3	0	No Variant	2020-12-28 — 15:09:38 UTC	katian, Krepps57, skyblueexo	324	5	25
-385002	3	23	No Variant	2020-12-28 — 14:43:54 UTC	katian, Krepps57, skyblueexo	344	5	25
-382791	3	0	No Variant	2020-12-26 — 16:30:44 UTC	katian, Krepps57, skyblueexo	354	5	25
-382517	4	24	No Variant	2020-12-26 — 05:52:08 UTC	frosty104, iamfelix, katian, skyblueexo	985	5	25
-382444	3	0	No Variant	2020-12-26 — 04:54:52 UTC	iamfelix, katian, skyblueexo	375	5	25
-382360	4	0	No Variant	2020-12-26 — 04:00:11 UTC	iamfelix, katian, Krepps57, skyblueexo	1449	5	25
+385076	3	25	No Variant	2020-12-28 — 16:34:55 UTC	katian, Krepps57, skyblueexo	324	5	25
+385061	3	23	No Variant	2020-12-28 — 16:06:00 UTC	akamaru, Krepps57, skyblueexo	523	5	25
+385028	3	0	No Variant	2020-12-28 — 15:20:22 UTC	akamaru, Krepps57, skyblueexo	655	5	25
+385020	3	0	No Variant	2020-12-28 — 15:09:38 UTC	katian, Krepps57, skyblueexo	330	5	25
+385002	3	23	No Variant	2020-12-28 — 14:43:54 UTC	katian, Krepps57, skyblueexo	353	5	25
+382791	3	0	No Variant	2020-12-26 — 16:30:44 UTC	katian, Krepps57, skyblueexo	359	5	25
+382517	4	24	No Variant	2020-12-26 — 05:52:08 UTC	frosty104, iamfelix, katian, skyblueexo	994	5	25
+382444	3	0	No Variant	2020-12-26 — 04:54:52 UTC	iamfelix, katian, skyblueexo	380	5	25
+382360	4	0	No Variant	2020-12-26 — 04:00:11 UTC	iamfelix, katian, Krepps57, skyblueexo	1459	5	25
 380908	4	23	White (5 Suits)	2020-12-24 — 16:33:54 UTC	iamfelix, katian, Krepps57, skyblueexo	60	5	25
-379858	3	0	White (6 Suits)	2020-12-23 — 14:32:37 UTC	ChristopheAF, katian, skyblueexo	101	6	30
-378898	3	30	Rainbow (6 Suits)	2020-12-22 — 16:49:36 UTC	katian, Krepps57, skyblueexo	508	6	30
-378846	3	0	Prism (6 Suits)	2020-12-22 — 15:03:51 UTC	katian, Krepps57, skyblueexo	84	6	30
-378834	3	0	Rainbow (6 Suits)	2020-12-22 — 14:20:28 UTC	katian, Krepps57, skyblueexo	689	6	30
+379858	3	0	White (6 Suits)	2020-12-23 — 14:32:37 UTC	ChristopheAF, katian, skyblueexo	103	6	30
+378898	3	30	Rainbow (6 Suits)	2020-12-22 — 16:49:36 UTC	katian, Krepps57, skyblueexo	514	6	30
+378846	3	0	Prism (6 Suits)	2020-12-22 — 15:03:51 UTC	katian, Krepps57, skyblueexo	85	6	30
+378834	3	0	Rainbow (6 Suits)	2020-12-22 — 14:20:28 UTC	katian, Krepps57, skyblueexo	693	6	30
 374793	3	0	Rainbow (5 Suits)	2020-12-18 — 17:08:17 UTC	katian, Krepps57, skyblueexo	74	5	25
-374722	3	0	Rainbow (5 Suits)	2020-12-18 — 15:04:39 UTC	iamfelix, katian, skyblueexo	84	5	25
-370883	3	20	4 Suits	2020-12-14 — 16:40:09 UTC	katian, Krepps57, skyblueexo	160	4	20
-368987	3	13	3 Suits	2020-12-12 — 18:03:17 UTC	katian, Krepps57, skyblueexo	43	3	15
-368968	3	0	3 Suits	2020-12-12 — 17:36:49 UTC	katian, Krepps57, skyblueexo	115	3	15
-368964	3	0	3 Suits	2020-12-12 — 17:32:21 UTC	katian, Krepps57, skyblueexo	144	3	15
-368945	3	23	No Variant	2020-12-12 — 16:34:25 UTC	katian, Krepps57, skyblueexo	411	5	25
-367846	3	25	No Variant	2020-12-11 — 16:43:05 UTC	iamfelix, katian, skyblueexo	422	5	25
-361592	3	25	No Variant	2020-12-05 — 16:55:26 UTC	katian, Krepps57, skyblueexo	551	5	25
-361570	3	0	No Variant	2020-12-05 — 15:49:23 UTC	katian, Krepps57, skyblueexo	573	5	25
-360564	3	0	No Variant	2020-12-04 — 16:50:07 UTC	katian, Pii, skyblueexo	624	5	25
-360522	3	20	No Variant	2020-12-04 — 15:28:25 UTC	katian, Pii, skyblueexo	680	5	25
-359876	3	22	No Variant	2020-12-03 — 19:09:06 UTC	Gr8Dan, Krepps57, skyblueexo	750	5	25
-359841	3	0	No Variant	2020-12-03 — 17:50:10 UTC	iamfelix, katian, skyblueexo	801	5	25
-359827	3	0	No Variant	2020-12-03 — 16:59:14 UTC	katian, Krepps57, skyblueexo	840	5	25
-358980	4	22	No Variant	2020-12-02 — 16:14:18 UTC	katian, Krepps57, macanek, skyblueexo	1744	5	25
-358963	5	0	No Variant	2020-12-02 — 15:31:59 UTC	Este, katian, Krepps57, macanek, skyblueexo	1995	5	25
-358955	3	0	No Variant	2020-12-02 — 15:07:34 UTC	katian, macanek, skyblueexo	940	5	25
-358932	3	0	No Variant	2020-12-02 — 14:08:42 UTC	katian, macanek, skyblueexo	1017	5	25
-357646	2	21	No Variant	2020-11-30 — 17:34:12 UTC	Krepps57, skyblueexo	2288	5	25
-357634	2	23	No Variant	2020-11-30 — 17:11:02 UTC	Krepps57, skyblueexo	2532	5	25
-357591	6	23	No Variant	2020-11-30 — 16:16:03 UTC	Carunty, HelanaAshryvr, katian, Krepps57, macanek, skyblueexo	91	5	25
+374722	3	0	Rainbow (5 Suits)	2020-12-18 — 15:04:39 UTC	iamfelix, katian, skyblueexo	87	5	25
+370883	3	20	4 Suits	2020-12-14 — 16:40:09 UTC	katian, Krepps57, skyblueexo	162	4	20
+368987	3	13	3 Suits	2020-12-12 — 18:03:17 UTC	katian, Krepps57, skyblueexo	45	3	15
+368968	3	0	3 Suits	2020-12-12 — 17:36:49 UTC	katian, Krepps57, skyblueexo	116	3	15
+368964	3	0	3 Suits	2020-12-12 — 17:32:21 UTC	katian, Krepps57, skyblueexo	146	3	15
+368945	3	23	No Variant	2020-12-12 — 16:34:25 UTC	katian, Krepps57, skyblueexo	417	5	25
+367846	3	25	No Variant	2020-12-11 — 16:43:05 UTC	iamfelix, katian, skyblueexo	428	5	25
+361592	3	25	No Variant	2020-12-05 — 16:55:26 UTC	katian, Krepps57, skyblueexo	558	5	25
+361570	3	0	No Variant	2020-12-05 — 15:49:23 UTC	katian, Krepps57, skyblueexo	582	5	25
+360564	3	0	No Variant	2020-12-04 — 16:50:07 UTC	katian, Pii, skyblueexo	632	5	25
+360522	3	20	No Variant	2020-12-04 — 15:28:25 UTC	katian, Pii, skyblueexo	688	5	25
+359876	3	22	No Variant	2020-12-03 — 19:09:06 UTC	Gr8Dan, Krepps57, skyblueexo	757	5	25
+359841	3	0	No Variant	2020-12-03 — 17:50:10 UTC	iamfelix, katian, skyblueexo	809	5	25
+359827	3	0	No Variant	2020-12-03 — 16:59:14 UTC	katian, Krepps57, skyblueexo	849	5	25
+358980	4	22	No Variant	2020-12-02 — 16:14:18 UTC	katian, Krepps57, macanek, skyblueexo	1759	5	25
+358963	5	0	No Variant	2020-12-02 — 15:31:59 UTC	Este, katian, Krepps57, macanek, skyblueexo	2011	5	25
+358955	3	0	No Variant	2020-12-02 — 15:07:34 UTC	katian, macanek, skyblueexo	952	5	25
+358932	3	0	No Variant	2020-12-02 — 14:08:42 UTC	katian, macanek, skyblueexo	1026	5	25
+357646	2	21	No Variant	2020-11-30 — 17:34:12 UTC	Krepps57, skyblueexo	2307	5	25
+357634	2	23	No Variant	2020-11-30 — 17:11:02 UTC	Krepps57, skyblueexo	2552	5	25
+357591	6	23	No Variant	2020-11-30 — 16:16:03 UTC	Carunty, HelanaAshryvr, katian, Krepps57, macanek, skyblueexo	92	5	25
 357569	5	13	3 Suits	2020-11-30 — 15:40:39 UTC	Carunty, katian, Krepps57, macanek, skyblueexo	19	3	15
-357544	5	22	No Variant	2020-11-30 — 14:56:16 UTC	Carunty, katian, Krepps57, macanek, skyblueexo	658	5	25
-356676	3	25	No Variant	2020-11-29 — 14:03:31 UTC	iamfelix, katian, skyblueexo	1095	5	25
-355943	3	0	No Variant	2020-11-28 — 16:59:03 UTC	katian, Krepps57, skyblueexo	1174	5	25
-355908	2	0	No Variant	2020-11-28 — 16:26:45 UTC	Krepps57, skyblueexo	2750	5	25
-355139	4	23	No Variant	2020-11-27 — 17:15:45 UTC	katian, Krepps57, Pii, skyblueexo	2763	5	25
-355108	3	0	No Variant	2020-11-27 — 15:53:04 UTC	katian, Krepps57, skyblueexo	1291	5	25
-354331	3	23	No Variant	2020-11-26 — 11:48:50 UTC	iamfelix, katian, skyblueexo	1636	5	25
-352720	3	25	No Variant	2020-11-24 — 17:53:26 UTC	katian, Krepps57, skyblueexo	2606	5	25
-352606	3	0	6 Suits	2020-11-24 — 17:08:22 UTC	katian, Krepps57, skyblueexo	365	6	30
-352548	3	0	6 Suits	2020-11-24 — 16:45:53 UTC	katian, Krepps57, skyblueexo	503	6	30
-352536	2	0	No Variant	2020-11-24 — 16:30:24 UTC	Krepps57, skyblueexo	3051	5	25
-352529	2	0	No Variant	2020-11-24 — 16:16:17 UTC	Krepps57, skyblueexo	3507	5	25
-352528	2	0	No Variant	2020-11-24 — 16:14:04 UTC	Krepps57, skyblueexo	4109	5	25
-351712	3	24	Up or Down (5 Suits)	2020-11-23 — 16:09:16 UTC	katian, Krepps57, skyblueexo	113	5	25
+357544	5	22	No Variant	2020-11-30 — 14:56:16 UTC	Carunty, katian, Krepps57, macanek, skyblueexo	667	5	25
+356676	3	25	No Variant	2020-11-29 — 14:03:31 UTC	iamfelix, katian, skyblueexo	1102	5	25
+355943	3	0	No Variant	2020-11-28 — 16:59:03 UTC	katian, Krepps57, skyblueexo	1180	5	25
+355908	2	0	No Variant	2020-11-28 — 16:26:45 UTC	Krepps57, skyblueexo	2772	5	25
+355139	4	23	No Variant	2020-11-27 — 17:15:45 UTC	katian, Krepps57, Pii, skyblueexo	2788	5	25
+355108	3	0	No Variant	2020-11-27 — 15:53:04 UTC	katian, Krepps57, skyblueexo	1299	5	25
+354331	3	23	No Variant	2020-11-26 — 11:48:50 UTC	iamfelix, katian, skyblueexo	1651	5	25
+352720	3	25	No Variant	2020-11-24 — 17:53:26 UTC	katian, Krepps57, skyblueexo	2627	5	25
+352606	3	0	6 Suits	2020-11-24 — 17:08:22 UTC	katian, Krepps57, skyblueexo	371	6	30
+352548	3	0	6 Suits	2020-11-24 — 16:45:53 UTC	katian, Krepps57, skyblueexo	511	6	30
+352536	2	0	No Variant	2020-11-24 — 16:30:24 UTC	Krepps57, skyblueexo	3072	5	25
+352529	2	0	No Variant	2020-11-24 — 16:16:17 UTC	Krepps57, skyblueexo	3537	5	25
+352528	2	0	No Variant	2020-11-24 — 16:14:04 UTC	Krepps57, skyblueexo	4149	5	25
+351712	3	24	Up or Down (5 Suits)	2020-11-23 — 16:09:16 UTC	katian, Krepps57, skyblueexo	114	5	25
 350756	3	23	Deceptive-Ones (5 Suits)	2020-11-22 — 15:16:05 UTC	katian, shadowind, skyblueexo	8	5	25
 350718	3	0	Deceptive-Ones (5 Suits)	2020-11-22 — 13:41:39 UTC	katian, shadowind, skyblueexo	14	5	25
-350658	4	28	Rainbow (6 Suits)	2020-11-22 — 09:01:08 UTC	katian, Pii, shadowind, skyblueexo	200	6	30
-350434	3	24	No Variant	2020-11-22 — 04:24:56 UTC	iris102525, katian, skyblueexo	1881	5	25
+350658	4	28	Rainbow (6 Suits)	2020-11-22 — 09:01:08 UTC	katian, Pii, shadowind, skyblueexo	205	6	30
+350434	3	24	No Variant	2020-11-22 — 04:24:56 UTC	iris102525, katian, skyblueexo	1896	5	25
 347842	3	0	Duck (5 Suits)	2020-11-19 — 17:45:26 UTC	iamfelix, katian, skyblueexo	35	5	25
 347816	3	0	Duck (5 Suits)	2020-11-19 — 16:30:09 UTC	iamfelix, katian, skyblueexo	52	5	25
-347077	3	21	No Variant	2020-11-18 — 15:50:54 UTC	katian, NN, skyblueexo	3260	5	25
-346201	4	30	6 Suits	2020-11-17 — 16:25:36 UTC	katian, NN, Pii, skyblueexo	354	6	30
-346178	3	25	Up or Down (6 Suits)	2020-11-17 — 14:32:25 UTC	iamfelix, katian, skyblueexo	55	6	30
-345042	2	23	No Variant	2020-11-16 — 17:53:48 UTC	NN, skyblueexo	5374	5	25
-344965	4	29	Rainbow (6 Suits)	2020-11-16 — 16:25:27 UTC	katian, NN, shadowind, skyblueexo	238	6	30
-344942	4	0	Rainbow (6 Suits)	2020-11-16 — 14:57:06 UTC	katian, NN, shadowind, skyblueexo	275	6	30
-344206	4	24	Rainbow (6 Suits)	2020-11-15 — 17:44:27 UTC	iamfelix, katian, NN, skyblueexo	344	6	30
-344160	4	0	Rainbow (6 Suits)	2020-11-15 — 15:05:27 UTC	iamfelix, katian, NN, skyblueexo	493	6	30
-343345	3	20	No Variant	2020-11-14 — 16:36:09 UTC	katian, NN, skyblueexo	4221	5	25
+347077	3	21	No Variant	2020-11-18 — 15:50:54 UTC	katian, NN, skyblueexo	3290	5	25
+346201	4	30	6 Suits	2020-11-17 — 16:25:36 UTC	katian, NN, Pii, skyblueexo	359	6	30
+346178	3	25	Up or Down (6 Suits)	2020-11-17 — 14:32:25 UTC	iamfelix, katian, skyblueexo	56	6	30
+345042	2	23	No Variant	2020-11-16 — 17:53:48 UTC	NN, skyblueexo	5421	5	25
+344965	4	29	Rainbow (6 Suits)	2020-11-16 — 16:25:27 UTC	katian, NN, shadowind, skyblueexo	244	6	30
+344942	4	0	Rainbow (6 Suits)	2020-11-16 — 14:57:06 UTC	katian, NN, shadowind, skyblueexo	280	6	30
+344206	4	24	Rainbow (6 Suits)	2020-11-15 — 17:44:27 UTC	iamfelix, katian, NN, skyblueexo	349	6	30
+344160	4	0	Rainbow (6 Suits)	2020-11-15 — 15:05:27 UTC	iamfelix, katian, NN, skyblueexo	497	6	30
+343345	3	20	No Variant	2020-11-14 — 16:36:09 UTC	katian, NN, skyblueexo	4250	5	25
 341610	3	29	White Reversed (6 Suits)	2020-11-12 — 16:19:23 UTC	iamfelix, katian, skyblueexo	21	6	30
-340837	4	0	No Variant	2020-11-11 — 16:50:18 UTC	iamfelix, katian, NN, skyblueexo	3581	5	25
+340837	4	0	No Variant	2020-11-11 — 16:50:18 UTC	iamfelix, katian, NN, skyblueexo	3609	5	25

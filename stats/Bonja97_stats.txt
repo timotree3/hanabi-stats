@@ -1,3 +1,18 @@
+519940	4	0	White (6 Suits)	2021-05-04 — 01:50:11 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	17	6	30
+519901	4	0	White (6 Suits)	2021-05-04 — 01:03:22 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	17	6	30
+519888	4	0	White (6 Suits)	2021-05-04 — 00:45:20 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	22	6	30
+519866	4	25	Prism (5 Suits)	2021-05-04 — 00:17:12 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	31	5	25
+517941	3	0	Dark Rainbow (6 Suits)	2021-05-01 — 20:26:22 UTC	Bonja97, cardshark, Slonimsky	12	6	30
+517890	3	0	Dark Rainbow (6 Suits)	2021-05-01 — 19:43:28 UTC	Bonja97, cardshark, Slonimsky	12	6	30
+517880	3	0	Dark Rainbow (6 Suits)	2021-05-01 — 19:25:43 UTC	Bonja97, cardshark, Slonimsky	12	6	30
+517432	3	0	Dark Rainbow (6 Suits)	2021-05-01 — 02:21:11 UTC	Bonja97, cardshark, Slonimsky	13	6	30
+517393	3	0	Dark Rainbow (6 Suits)	2021-05-01 — 01:55:51 UTC	Bonja97, cardshark, Slonimsky	13	6	30
+517353	3	0	Dark Rainbow (6 Suits)	2021-05-01 — 01:17:31 UTC	Bonja97, cardshark, Slonimsky	13	6	30
+514454	3	0	Dark Rainbow (6 Suits)	2021-04-28 — 01:56:54 UTC	Bonja97, cardshark, Slonimsky	13	6	30
+513568	3	0	Dark Rainbow (6 Suits)	2021-04-27 — 01:28:56 UTC	Bonja97, cardshark, Slonimsky	13	6	30
+513539	3	0	Dark Rainbow (6 Suits)	2021-04-27 — 00:54:48 UTC	Bonja97, cardshark, Slonimsky	13	6	30
+512793	3	0	Dark Rainbow (6 Suits)	2021-04-26 — 02:32:10 UTC	Bonja97, cardshark, Slonimsky	13	6	30
+512769	3	24	Dark Rainbow (6 Suits)	2021-04-26 — 01:55:58 UTC	Bonja97, cardshark, Slonimsky	13	6	30
 511488	3	27	Dark Rainbow (6 Suits)	2021-04-24 — 19:59:11 UTC	Bonja97, cardshark, Slonimsky	15	6	30
 511448	3	29	Dark Rainbow (6 Suits)	2021-04-24 — 19:08:55 UTC	Bonja97, cardshark, Slonimsky	17	6	30
 511407	3	0	Dark Rainbow (6 Suits)	2021-04-24 — 18:26:51 UTC	Bonja97, cardshark, Slonimsky	19	6	30
@@ -9,8 +24,8 @@
 508016	4	19	Rainbow (4 Suits)	2021-04-21 — 01:18:43 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	11	4	20
 508004	4	0	Rainbow (4 Suits)	2021-04-21 — 00:57:06 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	14	4	20
 508000	4	0	Rainbow (4 Suits)	2021-04-21 — 00:50:06 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	17	4	20
-507984	4	0	Rainbow (4 Suits)	2021-04-21 — 00:31:37 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	20	4	20
-507959	4	25	Rainbow (5 Suits)	2021-04-21 — 00:03:41 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	19	5	25
+507984	4	0	Rainbow (4 Suits)	2021-04-21 — 00:31:37 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	21	4	20
+507959	4	25	Rainbow (5 Suits)	2021-04-21 — 00:03:41 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	20	5	25
 507040	3	27	Dark Rainbow (6 Suits)	2021-04-20 — 00:20:29 UTC	Bonja97, Slonimsky, susanryan45	23	6	30
 507022	3	0	Dark Rainbow (6 Suits)	2021-04-19 — 23:40:00 UTC	Bonja97, Slonimsky, susanryan45	26	6	30
 504444	3	0	Null (5 Suits)	2021-04-17 — 20:26:10 UTC	Bonja97, orucsoraihc, rs1	12	5	25
@@ -22,63 +37,63 @@
 502706	3	25	Null (5 Suits)	2021-04-16 — 06:41:12 UTC	Bonja97, orucsoraihc, rs1	17	5	25
 502419	3	0	Dark Rainbow (6 Suits)	2021-04-16 — 01:35:48 UTC	Bonja97, cardshark45, Slonimsky	29	6	30
 502384	3	0	Dark Rainbow (6 Suits)	2021-04-16 — 01:04:11 UTC	Bonja97, cardshark45, Slonimsky	31	6	30
-500441	4	24	Rainbow (5 Suits)	2021-04-14 — 01:22:24 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	19	5	25
-500395	4	0	Rainbow (5 Suits)	2021-04-14 — 00:47:22 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	23	5	25
-500389	4	0	Rainbow (5 Suits)	2021-04-14 — 00:41:16 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	23	5	25
-500352	4	0	Rainbow (5 Suits)	2021-04-14 — 00:00:16 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	26	5	25
+500441	4	24	Rainbow (5 Suits)	2021-04-14 — 01:22:24 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	20	5	25
+500395	4	0	Rainbow (5 Suits)	2021-04-14 — 00:47:22 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	24	5	25
+500389	4	0	Rainbow (5 Suits)	2021-04-14 — 00:41:16 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	24	5	25
+500352	4	0	Rainbow (5 Suits)	2021-04-14 — 00:00:16 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	28	5	25
 499179	3	25	Dark Rainbow (6 Suits)	2021-04-13 — 00:14:58 UTC	Bonja97, cardshark45, Slonimsky	34	6	30
 499126	3	27	Dark Rainbow (6 Suits)	2021-04-12 — 23:27:32 UTC	Bonja97, cardshark45, Slonimsky	37	6	30
 497433	3	23	Dark Rainbow (6 Suits)	2021-04-11 — 19:36:34 UTC	Bonja97, cardshark45, Slonimsky	41	6	30
 497376	3	0	Dark Rainbow (6 Suits)	2021-04-11 — 18:53:17 UTC	Bonja97, cardshark45, Slonimsky	41	6	30
 497352	3	0	Dark Rainbow (6 Suits)	2021-04-11 — 18:29:06 UTC	Bonja97, cardshark45, Slonimsky	53	6	30
-496913	3	24	Dark Rainbow (5 Suits)	2021-04-11 — 02:43:14 UTC	Bonja97, cardshark45, Slonimsky	35	5	25
+496913	3	24	Dark Rainbow (5 Suits)	2021-04-11 — 02:43:14 UTC	Bonja97, cardshark45, Slonimsky	36	5	25
 496386	3	25	Dark Rainbow (6 Suits)	2021-04-10 — 19:45:43 UTC	Bonja97, cardshark45, Slonimsky	62	6	30
 496364	3	0	Dark Rainbow (6 Suits)	2021-04-10 — 19:08:28 UTC	Bonja97, cardshark45, Slonimsky	77	6	30
 496282	3	0	Null (5 Suits)	2021-04-10 — 16:52:48 UTC	Bonja97, orucsoraihc, rs1	18	5	25
 496270	3	0	Null (5 Suits)	2021-04-10 — 16:37:53 UTC	Bonja97, orucsoraihc, rs1	18	5	25
 496248	3	24	Null (5 Suits)	2021-04-10 — 16:10:56 UTC	Bonja97, orucsoraihc, rs1	18	5	25
 495554	3	30	Gray (6 Suits)	2021-04-10 — 01:44:35 UTC	Bonja97, cardshark45, Slonimsky	8	6	30
-495528	3	0	Gray (6 Suits)	2021-04-10 — 00:55:19 UTC	Bonja97, cardshark45, Slonimsky	9	6	30
+495528	3	0	Gray (6 Suits)	2021-04-10 — 00:55:19 UTC	Bonja97, cardshark45, Slonimsky	10	6	30
 494725	3	21	Null (5 Suits)	2021-04-09 — 07:57:00 UTC	Bonja97, orucsoraihc, rs1	20	5	25
 494719	3	0	Null (5 Suits)	2021-04-09 — 07:30:47 UTC	Bonja97, orucsoraihc, rs1	21	5	25
 494712	3	23	Null (5 Suits)	2021-04-09 — 07:16:13 UTC	Bonja97, orucsoraihc, rs1	27	5	25
-492698	4	0	Rainbow (5 Suits)	2021-04-07 — 01:41:03 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	30	5	25
-492680	4	0	Rainbow (5 Suits)	2021-04-07 — 01:18:57 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	29	5	25
-492660	4	24	Rainbow (5 Suits)	2021-04-07 — 00:43:44 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	32	5	25
-492630	4	23	Rainbow (5 Suits)	2021-04-07 — 00:03:41 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	38	5	25
+492698	4	0	Rainbow (5 Suits)	2021-04-07 — 01:41:03 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	31	5	25
+492680	4	0	Rainbow (5 Suits)	2021-04-07 — 01:18:57 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	30	5	25
+492660	4	24	Rainbow (5 Suits)	2021-04-07 — 00:43:44 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	34	5	25
+492630	4	23	Rainbow (5 Suits)	2021-04-07 — 00:03:41 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	40	5	25
 492174	3	0	Black & Rainbow (6 Suits)	2021-04-06 — 15:43:59 UTC	Bonja97, jeff10, wolfpack	51	6	30
-492152	3	0	Black & Rainbow (6 Suits)	2021-04-06 — 15:25:58 UTC	Bonja97, jeff10, wolfpack	59	6	30
+492152	3	0	Black & Rainbow (6 Suits)	2021-04-06 — 15:25:58 UTC	Bonja97, jeff10, wolfpack	60	6	30
 491758	5	30	Rainbow & Pink (6 Suits)	2021-04-06 — 02:39:22 UTC	bjnh, Bonja97, cockdestroyer, Lanvin, voss	4	6	30
 491735	4	23	Ambiguous & Gray (5 Suits)	2021-04-06 — 02:13:41 UTC	Bonja97, cockdestroyer, Lanvin, voss	1	5	25
-491628	3	26	Gray (6 Suits)	2021-04-05 — 23:37:28 UTC	Bonja97, cardshark45, Slonimsky	10	6	30
-490825	3	0	Gray (6 Suits)	2021-04-05 — 02:18:56 UTC	Bonja97, cardshark45, Slonimsky	12	6	30
-490802	3	0	Gray (6 Suits)	2021-04-05 — 01:35:28 UTC	Bonja97, cardshark45, Slonimsky	16	6	30
-490798	3	0	Gray (6 Suits)	2021-04-05 — 01:20:42 UTC	Bonja97, cardshark45, Slonimsky	16	6	30
-490568	3	27	Gray (6 Suits)	2021-04-04 — 20:23:35 UTC	Bonja97, cardshark45, Slonimsky	20	6	30
+491628	3	26	Gray (6 Suits)	2021-04-05 — 23:37:28 UTC	Bonja97, cardshark45, Slonimsky	11	6	30
+490825	3	0	Gray (6 Suits)	2021-04-05 — 02:18:56 UTC	Bonja97, cardshark45, Slonimsky	13	6	30
+490802	3	0	Gray (6 Suits)	2021-04-05 — 01:35:28 UTC	Bonja97, cardshark45, Slonimsky	18	6	30
+490798	3	0	Gray (6 Suits)	2021-04-05 — 01:20:42 UTC	Bonja97, cardshark45, Slonimsky	19	6	30
+490568	3	27	Gray (6 Suits)	2021-04-04 — 20:23:35 UTC	Bonja97, cardshark45, Slonimsky	21	6	30
 489879	3	19	White (4 Suits)	2021-04-04 — 02:00:33 UTC	Bonja97, cardshark45, Slonimsky	7	4	20
 489851	3	0	White (4 Suits)	2021-04-04 — 01:20:47 UTC	Bonja97, cardshark45, Slonimsky	8	4	20
 489839	3	0	White (4 Suits)	2021-04-04 — 00:57:20 UTC	Bonja97, cardshark45, Slonimsky	8	4	20
-489616	3	0	Black & Omni (5 Suits)	2021-04-03 — 20:46:57 UTC	Bonja97, HelanaAshryvr, squirrel1988	8	5	25
-489602	3	0	Black & Omni (5 Suits)	2021-04-03 — 20:27:34 UTC	Bonja97, HelanaAshryvr, squirrel1988	8	5	25
-489593	3	0	Black & Omni (5 Suits)	2021-04-03 — 20:19:10 UTC	Bonja97, HelanaAshryvr, squirrel1988	12	5	25
+489616	3	0	Black & Omni (5 Suits)	2021-04-03 — 20:46:57 UTC	Bonja97, HelanaAshryvr, squirrel1988	10	5	25
+489602	3	0	Black & Omni (5 Suits)	2021-04-03 — 20:27:34 UTC	Bonja97, HelanaAshryvr, squirrel1988	10	5	25
+489593	3	0	Black & Omni (5 Suits)	2021-04-03 — 20:19:10 UTC	Bonja97, HelanaAshryvr, squirrel1988	13	5	25
 489580	4	24	Black & Omni (5 Suits)	2021-04-03 — 20:07:13 UTC	Bonja97, HelanaAshryvr, Lel0uch, squirrel1988	8	5	25
-489505	4	0	Rainbow & White (6 Suits)	2021-04-03 — 18:38:07 UTC	Bonja97, Fey, voss, wolfpack	7	6	30
+489505	4	0	Rainbow & White (6 Suits)	2021-04-03 — 18:38:07 UTC	Bonja97, Fey, voss, wolfpack	8	6	30
 489495	4	0	Rainbow & White (6 Suits)	2021-04-03 — 18:25:17 UTC	Bonja97, Fey, voss, wolfpack	10	6	30
 489485	3	25	White (5 Suits)	2021-04-03 — 18:11:06 UTC	Bonja97, voss, wolfpack	2	5	25
 488810	3	18	White (4 Suits)	2021-04-03 — 00:07:10 UTC	Bonja97, cardshark45, Slonimsky	10	4	20
 488798	3	0	White (4 Suits)	2021-04-02 — 23:44:49 UTC	Bonja97, cardshark45, Slonimsky	13	4	20
-488776	3	30	Black (6 Suits)	2021-04-02 — 23:03:38 UTC	Bonja97, cardshark45, Slonimsky	97	6	30
+488776	3	30	Black (6 Suits)	2021-04-02 — 23:03:38 UTC	Bonja97, cardshark45, Slonimsky	100	6	30
 488453	3	0	Null (5 Suits)	2021-04-02 — 18:58:16 UTC	Bonja97, orucsoraihc, rs1	32	5	25
 488442	3	25	Null (5 Suits)	2021-04-02 — 18:39:41 UTC	Bonja97, orucsoraihc, rs1	36	5	25
 488426	3	0	Null (5 Suits)	2021-04-02 — 18:16:34 UTC	Bonja97, orucsoraihc, rs1	40	5	25
 488419	3	23	Null (5 Suits)	2021-04-02 — 18:00:09 UTC	Bonja97, orucsoraihc, rs1	54	5	25
-488374	3	23	No Variant	2021-04-02 — 16:41:26 UTC	Bonja97, cardshark45, Slonimsky	46	5	25
-488002	3	24	Black (6 Suits)	2021-04-02 — 03:12:53 UTC	Bonja97, cardshark45, Slonimsky	108	6	30
-487969	3	0	Black (6 Suits)	2021-04-02 — 02:34:22 UTC	Bonja97, cardshark45, Slonimsky	119	6	30
-487954	3	25	Black (6 Suits)	2021-04-02 — 01:58:14 UTC	Bonja97, cardshark45, Slonimsky	125	6	30
+488374	3	23	No Variant	2021-04-02 — 16:41:26 UTC	Bonja97, cardshark45, Slonimsky	48	5	25
+488002	3	24	Black (6 Suits)	2021-04-02 — 03:12:53 UTC	Bonja97, cardshark45, Slonimsky	111	6	30
+487969	3	0	Black (6 Suits)	2021-04-02 — 02:34:22 UTC	Bonja97, cardshark45, Slonimsky	122	6	30
+487954	3	25	Black (6 Suits)	2021-04-02 — 01:58:14 UTC	Bonja97, cardshark45, Slonimsky	126	6	30
 487929	3	0	Black (6 Suits)	2021-04-02 — 01:26:19 UTC	Bonja97, cardshark45, Slonimsky	134	6	30
-487887	3	25	No Variant	2021-04-02 — 00:27:18 UTC	Bonja97, newduke, ReaverSe	47	5	25
-485991	3	26	Black (6 Suits)	2021-03-31 — 01:30:23 UTC	Bonja97, cardshark45, Slonimsky	213	6	30
+487887	3	25	No Variant	2021-04-02 — 00:27:18 UTC	Bonja97, newduke, ReaverSe	48	5	25
+485991	3	26	Black (6 Suits)	2021-03-31 — 01:30:23 UTC	Bonja97, cardshark45, Slonimsky	214	6	30
 485892	3	24	Rainbow & Omni (5 Suits)	2021-03-30 — 23:05:47 UTC	Bonja97, melwen, rz	2	5	25
 485870	3	0	Rainbow & Omni (5 Suits)	2021-03-30 — 22:40:30 UTC	Bonja97, melwen, rz	2	5	25
 485841	5	0	Dark Omni (6 Suits)	2021-03-30 — 22:06:53 UTC	Bonja97, Lanvin, melwen, nkkarpov, rz	2	6	30
@@ -88,9 +103,9 @@
 485750	4	21	Dark Omni (5 Suits)	2021-03-30 — 21:02:12 UTC	Bonja97, DarthGandalf, newduke, rz	15	5	25
 485355	3	22	Dark Prism (5 Suits)	2021-03-30 — 11:32:18 UTC	BananaBum, Bonja97, catula	12	5	25
 485348	3	0	Dark Prism (5 Suits)	2021-03-30 — 11:08:48 UTC	BananaBum, Bonja97, catula	23	5	25
-484088	4	24	Rainbow (5 Suits)	2021-03-29 — 02:01:21 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	92	5	25
-484005	4	30	Rainbow (6 Suits)	2021-03-29 — 00:49:18 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	156	6	30
-483969	4	0	Rainbow (6 Suits)	2021-03-29 — 00:01:59 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	163	6	30
+484088	4	24	Rainbow (5 Suits)	2021-03-29 — 02:01:21 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	93	5	25
+484005	4	30	Rainbow (6 Suits)	2021-03-29 — 00:49:18 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	157	6	30
+483969	4	0	Rainbow (6 Suits)	2021-03-29 — 00:01:59 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	164	6	30
 483678	3	29	Muddy Rainbow (6 Suits)	2021-03-28 — 19:52:44 UTC	Bonja97, cockdestroyer, wump	25	6	30
 483637	5	23	Black & Brown (5 Suits)	2021-03-28 — 19:22:46 UTC	Bonja97, indego, MarkusKahlsen, timotree, wump	5	5	25
 483267	3	29	Brown (6 Suits)	2021-03-28 — 07:56:25 UTC	Bonja97, orucsoraihc, rs1	11	6	30
@@ -119,35 +134,35 @@
 481433	6	20	Black (5 Suits)	2021-03-26 — 19:59:35 UTC	bjnh, Bonja97, cockdestroyer, jeff10, Lanvin, VerySloppyTwo	3	5	25
 481417	4	0	Pink & Prism (5 Suits)	2021-03-26 — 19:34:21 UTC	Bonja97, jeff10, Lanvin, VerySloppyTwo	8	5	25
 481400	4	30	Omni (6 Suits)	2021-03-26 — 19:07:39 UTC	Bonja97, jack67889, Lanvin, VerySloppyTwo	13	6	30
-481378	3	30	Rainbow & Omni (6 Suits)	2021-03-26 — 18:31:38 UTC	Bonja97, jack67889, Lanvin	10	6	30
-481358	3	0	Rainbow & Omni (6 Suits)	2021-03-26 — 18:04:11 UTC	Bonja97, jack67889, Lanvin	10	6	30
+481378	3	30	Rainbow & Omni (6 Suits)	2021-03-26 — 18:31:38 UTC	Bonja97, jack67889, Lanvin	11	6	30
+481358	3	0	Rainbow & Omni (6 Suits)	2021-03-26 — 18:04:11 UTC	Bonja97, jack67889, Lanvin	11	6	30
 481102	3	29	Brown (6 Suits)	2021-03-26 — 08:48:56 UTC	Bonja97, orucsoraihc, rs1	11	6	30
 481092	3	30	Brown (6 Suits)	2021-03-26 — 08:22:02 UTC	Bonja97, orucsoraihc, rs1	7	6	30
 481078	3	30	Brown (6 Suits)	2021-03-26 — 07:51:19 UTC	Bonja97, orucsoraihc, rs1	9	6	30
-480718	3	28	Black (6 Suits)	2021-03-26 — 01:04:43 UTC	Bonja97, cardshark45, Slonimsky	399	6	30
-480677	3	25	Rainbow (5 Suits)	2021-03-26 — 00:05:32 UTC	Bonja97, cardshark45, Slonimsky	39	5	25
-480645	3	0	Rainbow (5 Suits)	2021-03-25 — 23:27:51 UTC	Bonja97, cardshark45, Slonimsky	43	5	25
-480628	3	0	Rainbow (5 Suits)	2021-03-25 — 23:05:39 UTC	Bonja97, cardshark45, Slonimsky	50	5	25
+480718	3	28	Black (6 Suits)	2021-03-26 — 01:04:43 UTC	Bonja97, cardshark45, Slonimsky	407	6	30
+480677	3	25	Rainbow (5 Suits)	2021-03-26 — 00:05:32 UTC	Bonja97, cardshark45, Slonimsky	40	5	25
+480645	3	0	Rainbow (5 Suits)	2021-03-25 — 23:27:51 UTC	Bonja97, cardshark45, Slonimsky	44	5	25
+480628	3	0	Rainbow (5 Suits)	2021-03-25 — 23:05:39 UTC	Bonja97, cardshark45, Slonimsky	51	5	25
 480461	3	28	Dark Pink (6 Suits)	2021-03-25 — 20:52:24 UTC	Bonja97, CaitlinSmith, MarkusKahlsen	10	6	30
 480427	3	0	Dark Pink (6 Suits)	2021-03-25 — 20:28:25 UTC	Bonja97, CaitlinSmith, MarkusKahlsen	15	6	30
-480409	3	27	Dark Pink (6 Suits)	2021-03-25 — 20:15:23 UTC	Bonja97, CaitlinSmith, MarkusKahlsen	17	6	30
-480369	3	0	Dark Pink (6 Suits)	2021-03-25 — 19:56:11 UTC	Bonja97, CaitlinSmith, MarkusKahlsen	16	6	30
-479760	3	24	Dark Rainbow (5 Suits)	2021-03-25 — 01:28:36 UTC	Bonja97, DarthGandalf, newduke	24	5	25
-479718	3	0	Dark Rainbow (5 Suits)	2021-03-25 — 00:59:47 UTC	Bonja97, DarthGandalf, newduke	36	5	25
-479690	3	21	Dark Rainbow (5 Suits)	2021-03-25 — 00:39:34 UTC	Bonja97, DarthGandalf, newduke	52	5	25
-479665	3	0	No Variant	2021-03-25 — 00:12:33 UTC	Bonja97, IsabeltheCat, newduke	49	5	25
-479649	3	0	No Variant	2021-03-25 — 00:02:02 UTC	Bonja97, IsabeltheCat, newduke	48	5	25
+480409	3	27	Dark Pink (6 Suits)	2021-03-25 — 20:15:23 UTC	Bonja97, CaitlinSmith, MarkusKahlsen	18	6	30
+480369	3	0	Dark Pink (6 Suits)	2021-03-25 — 19:56:11 UTC	Bonja97, CaitlinSmith, MarkusKahlsen	17	6	30
+479760	3	24	Dark Rainbow (5 Suits)	2021-03-25 — 01:28:36 UTC	Bonja97, DarthGandalf, newduke	25	5	25
+479718	3	0	Dark Rainbow (5 Suits)	2021-03-25 — 00:59:47 UTC	Bonja97, DarthGandalf, newduke	38	5	25
+479690	3	21	Dark Rainbow (5 Suits)	2021-03-25 — 00:39:34 UTC	Bonja97, DarthGandalf, newduke	53	5	25
+479665	3	0	No Variant	2021-03-25 — 00:12:33 UTC	Bonja97, IsabeltheCat, newduke	51	5	25
+479649	3	0	No Variant	2021-03-25 — 00:02:02 UTC	Bonja97, IsabeltheCat, newduke	50	5	25
 479106	5	0	Special Mix (5 Suits)	2021-03-24 — 15:16:13 UTC	Bonja97, dobi, jeff10, robense, Wittvector	6	5	25
 479090	5	0	Special Mix (5 Suits)	2021-03-24 — 15:01:07 UTC	Bonja97, dobi, jeff10, robense, Wittvector	6	5	25
-478538	3	21	Rainbow (5 Suits)	2021-03-24 — 01:23:28 UTC	Bonja97, cardshark45, Slonimsky	57	5	25
+478538	3	21	Rainbow (5 Suits)	2021-03-24 — 01:23:28 UTC	Bonja97, cardshark45, Slonimsky	59	5	25
 477301	5	22	Black (5 Suits)	2021-03-22 — 22:22:02 UTC	Bonja97, cockdestroyer, jack67889, nitawa, Pablo-	4	5	25
 477256	5	0	Black (5 Suits)	2021-03-22 — 21:50:14 UTC	Bonja97, cockdestroyer, jack67889, nitawa, Pablo-	4	5	25
 477212	5	23	Black (5 Suits)	2021-03-22 — 21:23:35 UTC	Bonja97, cockdestroyer, jack67889, nitawa, Pablo-	4	5	25
 477177	5	0	Black (5 Suits)	2021-03-22 — 21:00:41 UTC	Bonja97, cockdestroyer, jack67889, nitawa, Pablo-	10	5	25
 477164	5	0	Black (5 Suits)	2021-03-22 — 20:52:46 UTC	Bonja97, cockdestroyer, jack67889, nitawa, Pablo-	23	5	25
-476540	4	29	Rainbow (6 Suits)	2021-03-22 — 01:57:34 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	185	6	30
-476503	4	0	Rainbow (6 Suits)	2021-03-22 — 01:07:05 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	200	6	30
-476466	4	0	Rainbow (6 Suits)	2021-03-22 — 00:35:19 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	238	6	30
+476540	4	29	Rainbow (6 Suits)	2021-03-22 — 01:57:34 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	188	6	30
+476503	4	0	Rainbow (6 Suits)	2021-03-22 — 01:07:05 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	205	6	30
+476466	4	0	Rainbow (6 Suits)	2021-03-22 — 00:35:19 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	244	6	30
 476454	3	30	Rainbow (6 Suits)	2021-03-22 — 00:11:04 UTC	Bonja97, cardshark45, Sipsey	126	6	30
 474677	3	27	Brown (6 Suits)	2021-03-20 — 09:10:45 UTC	Bonja97, orucsoraihc, rs1	9	6	30
 474668	3	0	Brown (6 Suits)	2021-03-20 — 08:50:49 UTC	Bonja97, orucsoraihc, rs1	9	6	30
@@ -156,29 +171,29 @@
 474645	3	28	Brown (6 Suits)	2021-03-20 — 08:00:05 UTC	Bonja97, orucsoraihc, rs1	11	6	30
 474628	3	27	Brown (6 Suits)	2021-03-20 — 07:25:43 UTC	Bonja97, orucsoraihc, rs1	18	6	30
 474618	3	0	Brown (6 Suits)	2021-03-20 — 07:03:51 UTC	Bonja97, orucsoraihc, rs1	17	6	30
-473751	3	27	Rainbow (6 Suits)	2021-03-19 — 18:31:17 UTC	Bonja97, cardshark45, Slonimsky	141	6	30
-473708	3	0	Rainbow (6 Suits)	2021-03-19 — 17:57:52 UTC	Bonja97, cardshark45, Slonimsky	165	6	30
-473689	3	0	Rainbow (6 Suits)	2021-03-19 — 17:39:51 UTC	Bonja97, cardshark45, Slonimsky	196	6	30
+473751	3	27	Rainbow (6 Suits)	2021-03-19 — 18:31:17 UTC	Bonja97, cardshark45, Slonimsky	144	6	30
+473708	3	0	Rainbow (6 Suits)	2021-03-19 — 17:57:52 UTC	Bonja97, cardshark45, Slonimsky	167	6	30
+473689	3	0	Rainbow (6 Suits)	2021-03-19 — 17:39:51 UTC	Bonja97, cardshark45, Slonimsky	198	6	30
 473483	3	28	Brown (6 Suits)	2021-03-19 — 09:00:46 UTC	Bonja97, orucsoraihc, rs1	21	6	30
 473476	3	0	Brown (6 Suits)	2021-03-19 — 08:30:02 UTC	Bonja97, orucsoraihc, rs1	22	6	30
-473467	3	0	Brown (6 Suits)	2021-03-19 — 08:02:28 UTC	Bonja97, orucsoraihc, rs1	25	6	30
-473464	3	0	Brown (6 Suits)	2021-03-19 — 07:57:50 UTC	Bonja97, orucsoraihc, rs1	26	6	30
-473457	3	30	Brown (6 Suits)	2021-03-19 — 07:44:31 UTC	Bonja97, orucsoraihc, rs1	52	6	30
-469723	3	29	Rainbow (6 Suits)	2021-03-16 — 02:24:58 UTC	Bonja97, cardshark45, Sipsey	215	6	30
-469690	3	0	Rainbow (6 Suits)	2021-03-16 — 01:47:19 UTC	Bonja97, cardshark45, Sipsey	237	6	30
-469677	3	0	Rainbow (6 Suits)	2021-03-16 — 01:30:08 UTC	Bonja97, cardshark45, Sipsey	282	6	30
+473467	3	0	Brown (6 Suits)	2021-03-19 — 08:02:28 UTC	Bonja97, orucsoraihc, rs1	26	6	30
+473464	3	0	Brown (6 Suits)	2021-03-19 — 07:57:50 UTC	Bonja97, orucsoraihc, rs1	27	6	30
+473457	3	30	Brown (6 Suits)	2021-03-19 — 07:44:31 UTC	Bonja97, orucsoraihc, rs1	53	6	30
+469723	3	29	Rainbow (6 Suits)	2021-03-16 — 02:24:58 UTC	Bonja97, cardshark45, Sipsey	217	6	30
+469690	3	0	Rainbow (6 Suits)	2021-03-16 — 01:47:19 UTC	Bonja97, cardshark45, Sipsey	239	6	30
+469677	3	0	Rainbow (6 Suits)	2021-03-16 — 01:30:08 UTC	Bonja97, cardshark45, Sipsey	284	6	30
 469345	5	24	Omni & Muddy Rainbow (5 Suits)	2021-03-15 — 20:59:52 UTC	Bonja97, colton, indego, kopen, newduke	1	5	25
 469305	5	0	Omni & Muddy Rainbow (5 Suits)	2021-03-15 — 20:29:45 UTC	Bonja97, colton, indego, kopen, newduke	2	5	25
 469286	4	0	Muddy-Rainbow-Ones & Pink (5 Suits)	2021-03-15 — 20:11:03 UTC	Bonja97, colton, indego, newduke	1	5	25
 469255	5	24	Rainbow & Prism (5 Suits)	2021-03-15 — 19:46:22 UTC	Bonja97, ChristopheAF, indego, newduke, swineherd	7	5	25
-469238	4	0	Gray (5 Suits)	2021-03-15 — 19:28:27 UTC	Bonja97, indego, newduke, swineherd	3	5	25
-469230	4	0	Gray (5 Suits)	2021-03-15 — 19:23:50 UTC	Bonja97, indego, newduke, swineherd	3	5	25
-469198	4	0	Gray (5 Suits)	2021-03-15 — 19:01:56 UTC	Bonja97, indego, newduke, swineherd	3	5	25
+469238	4	0	Gray (5 Suits)	2021-03-15 — 19:28:27 UTC	Bonja97, indego, newduke, swineherd	6	5	25
+469230	4	0	Gray (5 Suits)	2021-03-15 — 19:23:50 UTC	Bonja97, indego, newduke, swineherd	6	5	25
+469198	4	0	Gray (5 Suits)	2021-03-15 — 19:01:56 UTC	Bonja97, indego, newduke, swineherd	6	5	25
 469179	4	20	Prism Reversed (4 Suits)	2021-03-15 — 18:43:48 UTC	Bonja97, indego, Kyle, swineherd	1	4	20
 469164	4	0	Prism Reversed (4 Suits)	2021-03-15 — 18:31:54 UTC	Bonja97, indego, Kyle, swineherd	2	4	20
-468691	3	27	Rainbow (6 Suits)	2021-03-15 — 02:04:58 UTC	Bonja97, cardshark45, Slonimsky	332	6	30
-468651	3	0	No Variant	2021-03-15 — 01:32:36 UTC	Bonja97, cardshark45, Slonimsky	50	5	25
-468638	3	26	Rainbow (6 Suits)	2021-03-15 — 01:20:37 UTC	Bonja97, cardshark45, Slonimsky	508	6	30
+468691	3	27	Rainbow (6 Suits)	2021-03-15 — 02:04:58 UTC	Bonja97, cardshark45, Slonimsky	335	6	30
+468651	3	0	No Variant	2021-03-15 — 01:32:36 UTC	Bonja97, cardshark45, Slonimsky	51	5	25
+468638	3	26	Rainbow (6 Suits)	2021-03-15 — 01:20:37 UTC	Bonja97, cardshark45, Slonimsky	514	6	30
 467496	4	21	Brown & Gray (5 Suits)	2021-03-14 — 02:59:11 UTC	Bonja97, colton, indego, Nitrate2	4	5	25
 467468	4	0	Brown & Gray (5 Suits)	2021-03-14 — 02:44:56 UTC	Bonja97, colton, indego, Nitrate2	5	5	25
 467450	4	0	Brown & Gray (5 Suits)	2021-03-14 — 02:35:23 UTC	Bonja97, colton, indego, Nitrate2	5	5	25
@@ -188,10 +203,10 @@
 466895	4	0	Light-Pink-Fives (6 Suits)	2021-03-13 — 19:11:28 UTC	Bonja97, cockdestroyer, TimeHoodie, wump	2	6	30
 466878	4	29	Light-Pink-Fives (6 Suits)	2021-03-13 — 18:48:55 UTC	Bonja97, cockdestroyer, TimeHoodie, wump	2	6	30
 466860	4	0	Light-Pink-Fives (6 Suits)	2021-03-13 — 18:23:29 UTC	Bonja97, cockdestroyer, TimeHoodie, wump	2	6	30
-466839	3	30	6 Suits	2021-03-13 — 17:53:58 UTC	Bonja97, Daryl, nkkarpov	196	6	30
+466839	3	30	6 Suits	2021-03-13 — 17:53:58 UTC	Bonja97, Daryl, nkkarpov	199	6	30
 466203	3	24	Rainbow (5 Suits)	2021-03-13 — 01:37:56 UTC	Aluap, antitelharsic, Bonja97	11	5	25
 465713	4	0	Rainbow & Pink (6 Suits)	2021-03-12 — 16:57:16 UTC	Bonja97, Fey, Lel0uch, MarkusKahlsen	7	6	30
-465697	4	0	Rainbow & Pink (6 Suits)	2021-03-12 — 16:32:36 UTC	Bonja97, Fey, Lel0uch, MarkusKahlsen	12	6	30
+465697	4	0	Rainbow & Pink (6 Suits)	2021-03-12 — 16:32:36 UTC	Bonja97, Fey, Lel0uch, MarkusKahlsen	13	6	30
 465678	3	0	Dark Omni (5 Suits)	2021-03-12 — 16:03:49 UTC	Bonja97, duckless, Nitrate2	7	5	25
 465674	3	0	Dark Omni (5 Suits)	2021-03-12 — 15:50:40 UTC	Bonja97, duckless, Nitrate2	6	5	25
 465667	3	0	Dark Omni (5 Suits)	2021-03-12 — 15:35:54 UTC	Bonja97, duckless, Nitrate2	8	5	25
@@ -202,7 +217,7 @@
 465633	3	22	Dark Omni (5 Suits)	2021-03-12 — 14:29:46 UTC	Bonja97, duckless, Nitrate2	22	5	25
 465123	3	25	Omni (5 Suits)	2021-03-12 — 00:56:13 UTC	ADrone, Bonja97, kevincaseytdk1	11	5	25
 464910	3	0	Brown-Ones & Pink (6 Suits)	2021-03-11 — 20:36:09 UTC	Bonja97, rz, Zamiel	2	6	30
-464893	3	0	Brown-Ones & Pink (6 Suits)	2021-03-11 — 20:20:49 UTC	Bonja97, rz, Zamiel	2	6	30
+464893	3	0	Brown-Ones & Pink (6 Suits)	2021-03-11 — 20:20:49 UTC	Bonja97, rz, Zamiel	3	6	30
 464869	3	0	Omni-Ones & Dark Null (5 Suits)	2021-03-11 — 20:07:07 UTC	Bonja97, rz, Zamiel	1	5	25
 464853	3	0	Omni-Ones & Dark Null (5 Suits)	2021-03-11 — 19:51:59 UTC	Bonja97, rz, Zamiel	1	5	25
 464835	3	0	Omni-Ones & Dark Null (5 Suits)	2021-03-11 — 19:38:42 UTC	Bonja97, rz, Zamiel	1	5	25
@@ -216,12 +231,12 @@
 464150	5	30	Null (6 Suits)	2021-03-11 — 00:54:00 UTC	Bonja97, melwen, padi, rz, Zamiel	2	6	30
 464130	5	0	Null (6 Suits)	2021-03-11 — 00:18:57 UTC	Bonja97, melwen, padi, rz, Zamiel	2	6	30
 463105	4	0	Prism (6 Suits)	2021-03-10 — 01:58:12 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	6	6	30
-463082	4	0	Prism (6 Suits)	2021-03-10 — 01:35:01 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	7	6	30
-463054	4	20	4 Suits	2021-03-10 — 01:07:21 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	51	4	20
+463082	4	0	Prism (6 Suits)	2021-03-10 — 01:35:01 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	8	6	30
+463054	4	20	4 Suits	2021-03-10 — 01:07:21 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	52	4	20
 462027	5	0	Black & Light Pink (6 Suits)	2021-03-09 — 02:48:29 UTC	Bonja97, Lel0uch, orucsoraihc, rz, TimeHoodie	7	6	30
 462003	6	0	Pink & Dark Omni (6 Suits)	2021-03-09 — 02:14:55 UTC	Bonja97, Lanvin, Lel0uch, melwen, rz, TimeHoodie	1	6	30
 461986	6	0	Pink & Dark Omni (6 Suits)	2021-03-09 — 01:43:10 UTC	Bonja97, dobi, HelanaAshryvr, Lanvin, melwen, squirrel1988	1	6	30
-461040	2	21	No Variant	2021-03-08 — 03:53:04 UTC	Bonja97, Onen	654	5	25
+461040	2	21	No Variant	2021-03-08 — 03:53:04 UTC	Bonja97, Onen	664	5	25
 460787	3	29	Pink & Gray (6 Suits)	2021-03-08 — 00:26:10 UTC	Bonja97, melwen, orucsoraihc	9	6	30
 459881	5	29	Pink & Dark Omni (6 Suits)	2021-03-07 — 06:20:25 UTC	Bonja97, HelanaAshryvr, Lel0uch, melwen, squirrel1988	1	6	30
 459854	5	0	Pink & Dark Omni (6 Suits)	2021-03-07 — 05:47:52 UTC	Bonja97, HelanaAshryvr, Lel0uch, melwen, squirrel1988	1	6	30
@@ -232,56 +247,56 @@
 459788	4	30	Prism & Gray (6 Suits)	2021-03-07 — 04:23:10 UTC	Bonja97, Lel0uch, melwen, Nitrate	1	6	30
 459760	5	24	No Variant	2021-03-07 — 03:47:11 UTC	Bonja97, dancherp, Lel0uch, melwen, Nitrate	44	5	25
 459724	5	29	6 Suits	2021-03-07 — 03:14:18 UTC	Bonja97, dancherp, Lel0uch, melwen, Nitrate	9	6	30
-459683	4	23	No Variant	2021-03-07 — 02:38:59 UTC	Bonja97, dancherp, Lel0uch, melwen	17	5	25
-459670	4	0	No Variant	2021-03-07 — 02:22:53 UTC	Bonja97, dancherp, Lel0uch, melwen	17	5	25
-459660	4	0	No Variant	2021-03-07 — 02:08:33 UTC	Bonja97, dancherp, Lel0uch, melwen	17	5	25
+459683	4	23	No Variant	2021-03-07 — 02:38:59 UTC	Bonja97, dancherp, Lel0uch, melwen	18	5	25
+459670	4	0	No Variant	2021-03-07 — 02:22:53 UTC	Bonja97, dancherp, Lel0uch, melwen	18	5	25
+459660	4	0	No Variant	2021-03-07 — 02:08:33 UTC	Bonja97, dancherp, Lel0uch, melwen	18	5	25
 459249	3	21	White (5 Suits)	2021-03-06 — 22:14:47 UTC	Bonja97, cardshark45, Slonimsky	3	5	25
 459194	3	24	White (5 Suits)	2021-03-06 — 21:38:41 UTC	Bonja97, cardshark45, Slonimsky	2	5	25
 459150	3	25	White (5 Suits)	2021-03-06 — 20:56:51 UTC	Bonja97, cardshark45, Slonimsky	2	5	25
 458328	3	0	White (5 Suits)	2021-03-06 — 02:20:51 UTC	Bonja97, cardshark45, Slonimsky	2	5	25
-458295	3	22	No Variant	2021-03-06 — 02:01:26 UTC	Bonja97, cardshark45, Slonimsky	48	5	25
-458265	3	0	No Variant	2021-03-06 — 01:29:37 UTC	Bonja97, cardshark45, Slonimsky	49	5	25
-458245	3	23	No Variant	2021-03-06 — 01:01:50 UTC	Bonja97, cardshark45, Slonimsky	53	5	25
+458295	3	22	No Variant	2021-03-06 — 02:01:26 UTC	Bonja97, cardshark45, Slonimsky	49	5	25
+458265	3	0	No Variant	2021-03-06 — 01:29:37 UTC	Bonja97, cardshark45, Slonimsky	51	5	25
+458245	3	23	No Variant	2021-03-06 — 01:01:50 UTC	Bonja97, cardshark45, Slonimsky	54	5	25
 458031	6	0	No Variant	2021-03-05 — 22:09:30 UTC	Bonja97, cockdestroyer, nitawa, Nitrate2, Pablo-, spbsuitmo	13	5	25
 458008	6	0	Alternating Clues (6 Suits)	2021-03-05 — 21:44:37 UTC	Bonja97, cockdestroyer, nitawa, Nitrate2, Pablo-, spbsuitmo	1	6	30
-457987	4	0	Black & White (6 Suits)	2021-03-05 — 21:29:53 UTC	Bonja97, nitawa, Nitrate2, Pablo-	17	6	30
+457987	4	0	Black & White (6 Suits)	2021-03-05 — 21:29:53 UTC	Bonja97, nitawa, Nitrate2, Pablo-	18	6	30
 457949	3	24	Dark Brown (5 Suits)	2021-03-05 — 21:08:07 UTC	Bonja97, Pablo-, XMIL	17	5	25
-457122	3	25	No Variant	2021-03-05 — 02:32:09 UTC	Bonja97, cardshark45, Slonimsky	51	5	25
-457092	3	0	No Variant	2021-03-05 — 02:09:08 UTC	Bonja97, cardshark45, Slonimsky	53	5	25
-457030	3	22	No Variant	2021-03-05 — 01:35:12 UTC	Bonja97, cardshark45, Slonimsky	53	5	25
+457122	3	25	No Variant	2021-03-05 — 02:32:09 UTC	Bonja97, cardshark45, Slonimsky	53	5	25
+457092	3	0	No Variant	2021-03-05 — 02:09:08 UTC	Bonja97, cardshark45, Slonimsky	54	5	25
+457030	3	22	No Variant	2021-03-05 — 01:35:12 UTC	Bonja97, cardshark45, Slonimsky	54	5	25
 456600	5	29	Black & White (6 Suits)	2021-03-04 — 20:06:01 UTC	bjnh, Bonja97, Denchulitas, knaphill, sephiroth	2	6	30
 456572	4	27	Black & White (6 Suits)	2021-03-04 — 19:33:21 UTC	Bonja97, Denchulitas, IsabeltheCat, sephiroth	19	6	30
 455557	3	0	Light-Pink-Ones (4 Suits)	2021-03-03 — 20:39:36 UTC	Bonja97, Kyle, newduke	2	4	20
 455541	3	15	Pink-Ones & White (3 Suits)	2021-03-03 — 20:20:37 UTC	Bonja97, Kyle, newduke	3	3	15
 455399	3	0	Light Pink (6 Suits)	2021-03-03 — 18:33:29 UTC	Bonja97, dobi, MangoPie	14	6	30
-455380	4	0	Gray (6 Suits)	2021-03-03 — 18:22:07 UTC	Bonja97, dobi, Lel0uch, MangoPie	5	6	30
+455380	4	0	Gray (6 Suits)	2021-03-03 — 18:22:07 UTC	Bonja97, dobi, Lel0uch, MangoPie	6	6	30
 455342	4	25	Rainbow Reversed (5 Suits)	2021-03-03 — 17:10:21 UTC	Bonja97, Kyle, Lel0uch, TimeHoodie	2	5	25
 455337	4	0	Rainbow Reversed (5 Suits)	2021-03-03 — 16:52:48 UTC	Bonja97, Kyle, Lel0uch, TimeHoodie	3	5	25
 455088	3	25	No Variant	2021-03-03 — 05:58:09 UTC	antitelharsic, Bonja97, cockdestroyer	16	5	25
 455072	3	21	Dark Prism (5 Suits)	2021-03-03 — 05:41:01 UTC	antitelharsic, Bonja97, cockdestroyer	5	5	25
-455039	3	0	Dark Prism (5 Suits)	2021-03-03 — 05:15:02 UTC	antitelharsic, Bonja97, cockdestroyer	6	5	25
-455021	3	0	Dark Prism (5 Suits)	2021-03-03 — 05:05:26 UTC	antitelharsic, Bonja97, cockdestroyer	8	5	25
+455039	3	0	Dark Prism (5 Suits)	2021-03-03 — 05:15:02 UTC	antitelharsic, Bonja97, cockdestroyer	7	5	25
+455021	3	0	Dark Prism (5 Suits)	2021-03-03 — 05:05:26 UTC	antitelharsic, Bonja97, cockdestroyer	9	5	25
 454988	5	0	Prism (6 Suits)	2021-03-03 — 04:46:08 UTC	antitelharsic, Bonja97, cockdestroyer, penisman, XMIL	7	6	30
 454957	5	29	Prism (6 Suits)	2021-03-03 — 04:24:47 UTC	antitelharsic, Bonja97, cockdestroyer, penisman, XMIL	11	6	30
 454908	5	0	Pink & Cocoa Rainbow (6 Suits)	2021-03-03 — 03:53:02 UTC	antitelharsic, Bonja97, cockdestroyer, penisman, XMIL	3	6	30
 454278	4	0	Deceptive-Ones & Prism (3 Suits)	2021-03-02 — 18:26:01 UTC	Bonja97, Lanvin, MangoPie, Wittvector	1	3	15
 454256	5	30	Rainbow Reversed (6 Suits)	2021-03-02 — 17:43:56 UTC	Bonja97, ChristopheAF, Fey, Lanvin, TimeHoodie	7	6	30
-453916	3	0	Gray Pink (6 Suits)	2021-03-02 — 05:07:51 UTC	Bonja97, kopen, Lel0uch	13	6	30
+453916	3	0	Gray Pink (6 Suits)	2021-03-02 — 05:07:51 UTC	Bonja97, kopen, Lel0uch	15	6	30
 453874	5	27	Black & Pink (6 Suits)	2021-03-02 — 04:30:36 UTC	Bonja97, kopen, Lel0uch, melwen, newduke	1	6	30
 453852	5	0	Black & Pink (6 Suits)	2021-03-02 — 04:07:33 UTC	Bonja97, kopen, Lel0uch, melwen, newduke	1	6	30
-453765	3	22	No Variant	2021-03-02 — 02:53:05 UTC	Bonja97, cardshark45, Sipsey	56	5	25
-453722	4	0	White (6 Suits)	2021-03-02 — 02:10:56 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	60	6	30
-453669	4	25	No Variant	2021-03-02 — 01:13:22 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	34	5	25
-453325	3	29	Black (6 Suits)	2021-03-01 — 20:10:43 UTC	Bonja97, nitawa, Pablo-	149	6	30
-453306	3	0	Black (6 Suits)	2021-03-01 — 19:56:32 UTC	Bonja97, nitawa, Pablo-	159	6	30
-453291	3	25	Black (6 Suits)	2021-03-01 — 19:44:34 UTC	Bonja97, nitawa, Pablo-	172	6	30
-453268	3	27	Black (6 Suits)	2021-03-01 — 19:15:21 UTC	Bonja97, nitawa, Pablo-	193	6	30
+453765	3	22	No Variant	2021-03-02 — 02:53:05 UTC	Bonja97, cardshark45, Sipsey	57	5	25
+453722	4	0	White (6 Suits)	2021-03-02 — 02:10:56 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	62	6	30
+453669	4	25	No Variant	2021-03-02 — 01:13:22 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	35	5	25
+453325	3	29	Black (6 Suits)	2021-03-01 — 20:10:43 UTC	Bonja97, nitawa, Pablo-	151	6	30
+453306	3	0	Black (6 Suits)	2021-03-01 — 19:56:32 UTC	Bonja97, nitawa, Pablo-	161	6	30
+453291	3	25	Black (6 Suits)	2021-03-01 — 19:44:34 UTC	Bonja97, nitawa, Pablo-	175	6	30
+453268	3	27	Black (6 Suits)	2021-03-01 — 19:15:21 UTC	Bonja97, nitawa, Pablo-	196	6	30
 452711	4	0	Pink & Light Pink (5 Suits)	2021-03-01 — 03:13:33 UTC	Bonja97, melwen, newduke, scharkbite	1	5	25
 452676	4	23	Pink & Light Pink (5 Suits)	2021-03-01 — 02:51:51 UTC	Bonja97, melwen, newduke, scharkbite	1	5	25
 452654	4	0	Pink & Light Pink (5 Suits)	2021-03-01 — 02:31:39 UTC	Bonja97, melwen, newduke, scharkbite	1	5	25
 452624	4	0	Pink & Light Pink (5 Suits)	2021-03-01 — 02:14:58 UTC	Bonja97, melwen, newduke, scharkbite	2	5	25
 452422	3	26	White (6 Suits)	2021-02-28 — 23:01:53 UTC	Bonja97, cardshark45, Slonimsky	18	6	30
-452331	3	0	White (6 Suits)	2021-02-28 — 21:55:15 UTC	Bonja97, cardshark45, Slonimsky	18	6	30
+452331	3	0	White (6 Suits)	2021-02-28 — 21:55:15 UTC	Bonja97, cardshark45, Slonimsky	19	6	30
 451736	5	29	Up or Down & Pink (6 Suits)	2021-02-28 — 06:14:18 UTC	Bonja97, melwen, Nitrate2, rz, scharkbite	1	6	30
 451706	5	0	Up or Down & Pink (6 Suits)	2021-02-28 — 05:37:47 UTC	Bonja97, melwen, Nitrate2, rz, scharkbite	1	6	30
 451680	5	27	Up or Down & Pink (6 Suits)	2021-02-28 — 05:14:58 UTC	Bonja97, melwen, Nitrate2, rz, scharkbite	1	6	30
@@ -295,57 +310,57 @@
 451429	5	29	Null-Ones & Prism (6 Suits)	2021-02-28 — 02:17:42 UTC	boba, Bonja97, nitawa, Nitrate2, Pablo-	2	6	30
 451389	4	30	Alternating Clues (6 Suits)	2021-02-28 — 01:31:32 UTC	Bonja97, nitawa, Nitrate2, Pablo-	3	6	30
 451371	4	0	Alternating Clues (6 Suits)	2021-02-28 — 01:04:20 UTC	Bonja97, nitawa, Nitrate2, Pablo-	4	6	30
-451358	4	0	Alternating Clues (6 Suits)	2021-02-28 — 00:48:34 UTC	Bonja97, nitawa, Nitrate2, Pablo-	7	6	30
+451358	4	0	Alternating Clues (6 Suits)	2021-02-28 — 00:48:34 UTC	Bonja97, nitawa, Nitrate2, Pablo-	8	6	30
 451341	5	22	Black (5 Suits)	2021-02-28 — 00:27:03 UTC	Bonja97, jack67889, nitawa, Nitrate2, Pablo-	13	5	25
 451244	5	25	Pink & Muddy Rainbow (5 Suits)	2021-02-27 — 22:57:54 UTC	Bonja97, derekcheah, dobi, hakha3, MarkusKahlsen	4	5	25
 451228	4	21	Black & White (5 Suits)	2021-02-27 — 22:36:51 UTC	Bonja97, dobi, hakha3, MarkusKahlsen	16	5	25
 451103	5	27	Prism (6 Suits)	2021-02-27 — 20:37:43 UTC	asaelr, Bonja97, corys, eljavi, xor	9	6	30
 450394	3	26	White (6 Suits)	2021-02-27 — 02:12:31 UTC	Bonja97, cardshark45, Slonimsky	18	6	30
 450353	3	0	White (6 Suits)	2021-02-27 — 01:34:33 UTC	Bonja97, cardshark45, Slonimsky	19	6	30
-450314	3	28	White (6 Suits)	2021-02-27 — 00:41:08 UTC	Bonja97, cardshark45, Slonimsky	20	6	30
+450314	3	28	White (6 Suits)	2021-02-27 — 00:41:08 UTC	Bonja97, cardshark45, Slonimsky	21	6	30
 449420	3	25	White (5 Suits)	2021-02-26 — 02:05:07 UTC	Bonja97, cardshark45, Slonimsky	2	5	25
 449349	3	24	White (5 Suits)	2021-02-26 — 00:56:00 UTC	Bonja97, cardshark45, Slonimsky	2	5	25
 448281	3	0	White (5 Suits)	2021-02-25 — 02:14:27 UTC	Bonja97, cardshark45, Slonimsky	2	5	25
 447274	3	0	White (5 Suits)	2021-02-24 — 02:04:56 UTC	Bonja97, cardshark45, Slonimsky	3	5	25
-447248	3	25	No Variant	2021-02-24 — 01:16:54 UTC	Bonja97, cardshark45, Slonimsky	57	5	25
-446191	4	23	No Variant	2021-02-23 — 02:20:23 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	36	5	25
+447248	3	25	No Variant	2021-02-24 — 01:16:54 UTC	Bonja97, cardshark45, Slonimsky	58	5	25
+446191	4	23	No Variant	2021-02-23 — 02:20:23 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	37	5	25
 446072	4	0	No Variant	2021-02-23 — 01:00:59 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	36	5	25
 441553	3	25	White (5 Suits)	2021-02-19 — 03:05:37 UTC	Bonja97, Sipsey, Slonimsky	4	5	25
-441500	4	25	No Variant	2021-02-19 — 02:14:47 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	39	5	25
+441500	4	25	No Variant	2021-02-19 — 02:14:47 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	40	5	25
 441433	4	25	No Variant	2021-02-19 — 01:09:50 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	38	5	25
-438674	3	22	No Variant	2021-02-16 — 01:30:44 UTC	Bonja97, cardshark45, Slonimsky	55	5	25
-431727	4	0	No Variant	2021-02-10 — 02:06:32 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	40	5	25
-431676	4	0	No Variant	2021-02-10 — 01:02:33 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	39	5	25
-422639	4	24	No Variant	2021-02-02 — 02:20:32 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	41	5	25
-422578	4	25	No Variant	2021-02-02 — 01:12:53 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	42	5	25
-415110	4	25	No Variant	2021-01-26 — 02:17:00 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	43	5	25
-415076	4	21	No Variant	2021-01-26 — 01:19:17 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	43	5	25
-408143	4	21	No Variant	2021-01-19 — 02:14:08 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	43	5	25
-408096	4	24	No Variant	2021-01-19 — 01:17:14 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	45	5	25
-401568	4	25	No Variant	2021-01-13 — 01:53:05 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	47	5	25
-401534	3	25	No Variant	2021-01-13 — 01:05:55 UTC	Bonja97, cardshark45, Sipsey	57	5	25
-392933	3	24	No Variant	2021-01-05 — 02:15:27 UTC	Bonja97, Sipsey, susanryan45	58	5	25
-392890	3	0	No Variant	2021-01-05 — 01:22:40 UTC	Bonja97, Sipsey, susanryan45	57	5	25
-392881	3	24	No Variant	2021-01-05 — 01:05:36 UTC	Bonja97, Sipsey, susanryan45	57	5	25
-385606	3	24	No Variant	2020-12-29 — 02:10:51 UTC	Bonja97, cardshark45, Sipsey	59	5	25
-385552	4	20	No Variant	2020-12-29 — 01:20:52 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	48	5	25
+438674	3	22	No Variant	2021-02-16 — 01:30:44 UTC	Bonja97, cardshark45, Slonimsky	57	5	25
+431727	4	0	No Variant	2021-02-10 — 02:06:32 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	41	5	25
+431676	4	0	No Variant	2021-02-10 — 01:02:33 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	40	5	25
+422639	4	24	No Variant	2021-02-02 — 02:20:32 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	42	5	25
+422578	4	25	No Variant	2021-02-02 — 01:12:53 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	43	5	25
+415110	4	25	No Variant	2021-01-26 — 02:17:00 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	44	5	25
+415076	4	21	No Variant	2021-01-26 — 01:19:17 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	44	5	25
+408143	4	21	No Variant	2021-01-19 — 02:14:08 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	44	5	25
+408096	4	24	No Variant	2021-01-19 — 01:17:14 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	46	5	25
+401568	4	25	No Variant	2021-01-13 — 01:53:05 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	48	5	25
+401534	3	25	No Variant	2021-01-13 — 01:05:55 UTC	Bonja97, cardshark45, Sipsey	58	5	25
+392933	3	24	No Variant	2021-01-05 — 02:15:27 UTC	Bonja97, Sipsey, susanryan45	59	5	25
+392890	3	0	No Variant	2021-01-05 — 01:22:40 UTC	Bonja97, Sipsey, susanryan45	58	5	25
+392881	3	24	No Variant	2021-01-05 — 01:05:36 UTC	Bonja97, Sipsey, susanryan45	58	5	25
+385606	3	24	No Variant	2020-12-29 — 02:10:51 UTC	Bonja97, cardshark45, Sipsey	60	5	25
+385552	4	20	No Variant	2020-12-29 — 01:20:52 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	49	5	25
 375343	3	24	White (5 Suits)	2020-12-19 — 03:11:34 UTC	Bonja97, cardshark45, Sipsey	4	5	25
-375299	3	0	No Variant	2020-12-19 — 02:31:20 UTC	Bonja97, cardshark45, Sipsey	60	5	25
-375282	3	25	No Variant	2020-12-19 — 02:19:03 UTC	Bonja97, cardshark45, Sipsey	61	5	25
-375233	3	23	No Variant	2020-12-19 — 01:41:44 UTC	Bonja97, cardshark45, Sipsey	63	5	25
-364191	3	20	No Variant	2020-12-08 — 02:20:37 UTC	Bonja97, cardshark45, Sipsey	65	5	25
-364156	3	0	No Variant	2020-12-08 — 01:41:12 UTC	Bonja97, cardshark45, Sipsey	62	5	25
+375299	3	0	No Variant	2020-12-19 — 02:31:20 UTC	Bonja97, cardshark45, Sipsey	61	5	25
+375282	3	25	No Variant	2020-12-19 — 02:19:03 UTC	Bonja97, cardshark45, Sipsey	62	5	25
+375233	3	23	No Variant	2020-12-19 — 01:41:44 UTC	Bonja97, cardshark45, Sipsey	64	5	25
+364191	3	20	No Variant	2020-12-08 — 02:20:37 UTC	Bonja97, cardshark45, Sipsey	67	5	25
+364156	3	0	No Variant	2020-12-08 — 01:41:12 UTC	Bonja97, cardshark45, Sipsey	65	5	25
 351859	4	29	Up or Down & Light Pink (6 Suits)	2020-11-23 — 20:02:19 UTC	Bonja97, Kyle, newduke, Sucubis	5	6	30
-351444	3	0	Gray (5 Suits)	2020-11-23 — 03:10:02 UTC	Bonja97, derekcheah, swineherd	5	5	25
-351440	3	25	Gray (5 Suits)	2020-11-23 — 03:08:31 UTC	Bonja97, derekcheah, swineherd	7	5	25
-351421	3	0	Gray (5 Suits)	2020-11-23 — 02:54:38 UTC	Bonja97, derekcheah, swineherd	7	5	25
-351342	4	29	Gray (6 Suits)	2020-11-23 — 02:26:38 UTC	Bonja97, derekcheah, swineherd, timotree	6	6	30
+351444	3	0	Gray (5 Suits)	2020-11-23 — 03:10:02 UTC	Bonja97, derekcheah, swineherd	6	5	25
+351440	3	25	Gray (5 Suits)	2020-11-23 — 03:08:31 UTC	Bonja97, derekcheah, swineherd	8	5	25
+351421	3	0	Gray (5 Suits)	2020-11-23 — 02:54:38 UTC	Bonja97, derekcheah, swineherd	8	5	25
+351342	4	29	Gray (6 Suits)	2020-11-23 — 02:26:38 UTC	Bonja97, derekcheah, swineherd, timotree	7	6	30
 351303	3	0	Gray (5 Suits)	2020-11-23 — 02:10:51 UTC	Bonja97, derekcheah, timotree	10	5	25
 351293	3	0	Gray (5 Suits)	2020-11-23 — 02:04:54 UTC	Bonja97, derekcheah, timotree	11	5	25
 351282	3	0	Gray (5 Suits)	2020-11-23 — 01:57:53 UTC	Bonja97, derekcheah, timotree	11	5	25
-350850	3	22	Gray (5 Suits)	2020-11-22 — 18:04:55 UTC	Bonja97, Feich59, jeff10	35	5	25
-350832	3	0	Gray (5 Suits)	2020-11-22 — 17:42:16 UTC	Bonja97, Feich59, jeff10	37	5	25
-350810	3	0	Gray (5 Suits)	2020-11-22 — 17:21:49 UTC	Bonja97, Feich59, jeff10	42	5	25
+350850	3	22	Gray (5 Suits)	2020-11-22 — 18:04:55 UTC	Bonja97, Feich59, jeff10	36	5	25
+350832	3	0	Gray (5 Suits)	2020-11-22 — 17:42:16 UTC	Bonja97, Feich59, jeff10	39	5	25
+350810	3	0	Gray (5 Suits)	2020-11-22 — 17:21:49 UTC	Bonja97, Feich59, jeff10	44	5	25
 350580	4	0	Special Mix (6 Suits)	2020-11-22 — 06:23:52 UTC	Bonja97, derekcheah, will.i.am, Zamiel	2	6	30
 350569	4	0	Special Mix (6 Suits)	2020-11-22 — 06:09:14 UTC	Bonja97, derekcheah, will.i.am, Zamiel	3	6	30
 350560	4	0	Special Mix (6 Suits)	2020-11-22 — 05:58:32 UTC	Bonja97, derekcheah, will.i.am, Zamiel	2	6	30
@@ -363,31 +378,31 @@
 350374	5	24	Rainbow & Brown (5 Suits)	2020-11-22 — 03:32:59 UTC	Bonja97, derekcheah, doctorabi, swineherd, will.i.am	3	5	25
 350341	5	0	Rainbow & Brown (5 Suits)	2020-11-22 — 03:10:07 UTC	Bonja97, derekcheah, doctorabi, jeff10, will.i.am	3	5	25
 349538	4	0	Dark Prism (5 Suits)	2020-11-21 — 06:58:14 UTC	Bonja97, derekcheah, frosty104, JackFrost	13	5	25
-349529	4	0	Dark Prism (5 Suits)	2020-11-21 — 06:47:53 UTC	Bonja97, derekcheah, frosty104, JackFrost	17	5	25
+349529	4	0	Dark Prism (5 Suits)	2020-11-21 — 06:47:53 UTC	Bonja97, derekcheah, frosty104, JackFrost	18	5	25
 349516	4	0	Dark Prism (5 Suits)	2020-11-21 — 06:35:02 UTC	Bonja97, derekcheah, frosty104, JackFrost	17	5	25
 349508	4	20	Brown (4 Suits)	2020-11-21 — 06:22:19 UTC	Bonja97, derekcheah, frosty104, JackFrost	9	4	20
 349481	4	18	Brown (4 Suits)	2020-11-21 — 06:03:43 UTC	Bonja97, derekcheah, frosty104, JackFrost	11	4	20
-349431	4	0	Brown (4 Suits)	2020-11-21 — 05:46:34 UTC	Bonja97, derekcheah, frosty104, JackFrost	13	4	20
+349431	4	0	Brown (4 Suits)	2020-11-21 — 05:46:34 UTC	Bonja97, derekcheah, frosty104, JackFrost	14	4	20
 349397	4	18	Brown (4 Suits)	2020-11-21 — 05:37:08 UTC	Bonja97, derekcheah, frosty104, JackFrost	22	4	20
 348972	4	0	Light-Pink-Fives & Gray (5 Suits)	2020-11-20 — 22:30:56 UTC	Bonja97, Kyle, Sucubis, swineherd	2	5	25
 348966	4	0	Light-Pink-Fives & Gray (5 Suits)	2020-11-20 — 22:25:13 UTC	Bonja97, Kyle, Sucubis, swineherd	2	5	25
 348955	4	30	Up or Down & Prism (6 Suits)	2020-11-20 — 22:10:49 UTC	avanderwalde, Bonja97, Kyle, Sucubis	6	6	30
 348937	4	0	Up or Down & Prism (6 Suits)	2020-11-20 — 21:46:13 UTC	avanderwalde, Bonja97, Kyle, Sucubis	7	6	30
-348275	3	24	Rainbow (5 Suits)	2020-11-20 — 01:47:04 UTC	Bonja97, cardshark45, Slonimsky	56	5	25
+348275	3	24	Rainbow (5 Suits)	2020-11-20 — 01:47:04 UTC	Bonja97, cardshark45, Slonimsky	57	5	25
 348247	3	23	Rainbow (5 Suits)	2020-11-20 — 01:01:19 UTC	Bonja97, cardshark45, Slonimsky	74	5	25
 348223	4	24	Up or Down & White (5 Suits)	2020-11-20 — 00:09:36 UTC	Bonja97, ejwu, newduke, robense	11	5	25
 347840	4	0	Muddy Rainbow (6 Suits)	2020-11-19 — 17:37:29 UTC	Bonja97, Fey, Lel0uch, wump	19	6	30
-347834	3	26	Dual-Color Mix	2020-11-19 — 17:11:23 UTC	Bonja97, level_17, level_ofConcern	42	6	30
+347834	3	26	Dual-Color Mix	2020-11-19 — 17:11:23 UTC	Bonja97, level_17, level_ofConcern	43	6	30
 347738	3	28	Prism (6 Suits)	2020-11-19 — 11:12:04 UTC	Bonja97, Lel0uch, MarcLovesDogs	10	6	30
-347471	3	0	Rainbow (5 Suits)	2020-11-19 — 02:29:09 UTC	Bonja97, cardshark45, Slonimsky	84	5	25
-347436	4	0	Rainbow (6 Suits)	2020-11-19 — 01:51:57 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	344	6	30
+347471	3	0	Rainbow (5 Suits)	2020-11-19 — 02:29:09 UTC	Bonja97, cardshark45, Slonimsky	87	5	25
+347436	4	0	Rainbow (6 Suits)	2020-11-19 — 01:51:57 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	349	6	30
 347342	5	0	Pink-Ones & Brown (5 Suits)	2020-11-18 — 22:57:54 UTC	Bonja97, cockdestroyer, jack67889, JackFrost, sephiroth	1	5	25
 347331	5	0	Pink-Ones & Brown (5 Suits)	2020-11-18 — 22:44:33 UTC	Bonja97, cockdestroyer, jack67889, JackFrost, sephiroth	2	5	25
-347322	3	0	Dark Brown (6 Suits)	2020-11-18 — 22:35:32 UTC	Bonja97, JackFrost, sephiroth	22	6	30
+347322	3	0	Dark Brown (6 Suits)	2020-11-18 — 22:35:32 UTC	Bonja97, JackFrost, sephiroth	23	6	30
 347318	3	0	Dark Brown (6 Suits)	2020-11-18 — 22:25:04 UTC	Bonja97, JackFrost, sephiroth	28	6	30
 347302	3	0	Dark Brown (6 Suits)	2020-11-18 — 22:04:31 UTC	Bonja97, JackFrost, sephiroth	32	6	30
 347016	5	0	Gray (6 Suits)	2020-11-18 — 09:11:12 UTC	Bonja97, cockdestroyer, sephiroth, Stinkydude63, StKildaFan	19	6	30
-346631	4	29	Rainbow (6 Suits)	2020-11-18 — 01:13:11 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	493	6	30
+346631	4	29	Rainbow (6 Suits)	2020-11-18 — 01:13:11 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	497	6	30
 346574	4	30	Dark Omni (6 Suits)	2020-11-17 — 23:36:47 UTC	Bonja97, derekcheah, swineherd, TheDaniMan	2	6	30
 346564	4	0	Dark Omni (6 Suits)	2020-11-17 — 23:13:12 UTC	Bonja97, derekcheah, swineherd, TheDaniMan	2	6	30
 346557	4	28	Dark Omni (6 Suits)	2020-11-17 — 22:58:45 UTC	Bonja97, derekcheah, swineherd, TheDaniMan	2	6	30
@@ -406,13 +421,13 @@
 345591	3	0	Rainbow-Ones & Black (6 Suits)	2020-11-16 — 21:39:28 UTC	Bonja97, Carunty, TheDaniMan	1	6	30
 345586	3	0	Rainbow-Ones & Black (6 Suits)	2020-11-16 — 21:31:32 UTC	Bonja97, Carunty, TheDaniMan	3	6	30
 345582	3	0	Rainbow-Ones & Black (6 Suits)	2020-11-16 — 21:21:56 UTC	Bonja97, Carunty, TheDaniMan	4	6	30
-345571	4	27	Black & Prism (6 Suits)	2020-11-16 — 21:08:06 UTC	Bonja97, Carunty, doctorabi, TheDaniMan	14	6	30
+345571	4	27	Black & Prism (6 Suits)	2020-11-16 — 21:08:06 UTC	Bonja97, Carunty, doctorabi, TheDaniMan	15	6	30
 345528	4	0	Black & Light Pink (6 Suits)	2020-11-16 — 20:48:42 UTC	Bonja97, Carunty, superbipbip, TheDaniMan	2	6	30
 345461	4	0	Black & Light Pink (6 Suits)	2020-11-16 — 20:29:21 UTC	Bonja97, Carunty, superbipbip, TheDaniMan	2	6	30
 344799	5	23	Prism (5 Suits)	2020-11-16 — 05:20:56 UTC	Bonja97, doctorabi, Fey, scharkbite, TheDaniMan	9	5	25
 344776	5	29	6 Suits	2020-11-16 — 04:47:43 UTC	Bonja97, doctorabi, HelanaAshryvr, rz, XMIL	40	6	30
-344743	5	27	Gray (6 Suits)	2020-11-16 — 04:16:43 UTC	Bonja97, cockdestroyer, doctorabi, duckmedic, TheDaniMan	10	6	30
-344721	4	29	Gray (6 Suits)	2020-11-16 — 03:45:18 UTC	Bonja97, cockdestroyer, doctorabi, duckmedic	7	6	30
+344743	5	27	Gray (6 Suits)	2020-11-16 — 04:16:43 UTC	Bonja97, cockdestroyer, doctorabi, duckmedic, TheDaniMan	11	6	30
+344721	4	29	Gray (6 Suits)	2020-11-16 — 03:45:18 UTC	Bonja97, cockdestroyer, doctorabi, duckmedic	8	6	30
 344701	4	0	Gray (6 Suits)	2020-11-16 — 03:21:47 UTC	Bonja97, cockdestroyer, doctorabi, duckmedic	11	6	30
 344579	3	0	Light Pink & Cocoa Rainbow (5 Suits)	2020-11-16 — 02:11:43 UTC	Bonja97, lotem, Pablo-	1	5	25
 344558	3	0	Light Pink & Cocoa Rainbow (5 Suits)	2020-11-16 — 01:51:54 UTC	Bonja97, lotem, Pablo-	1	5	25
@@ -425,9 +440,9 @@
 344337	5	0	Rainbow & Prism (4 Suits)	2020-11-15 — 21:05:24 UTC	asaelr, Bonja97, doctorabi, ebin_noob, TheDaniMan	3	4	20
 344326	5	19	Rainbow & Prism (4 Suits)	2020-11-15 — 20:49:43 UTC	asaelr, Bonja97, doctorabi, ebin_noob, TheDaniMan	4	4	20
 344308	3	25	Pink-Ones & Brown (5 Suits)	2020-11-15 — 20:28:08 UTC	Bonja97, ebin_noob, TheDaniMan	4	5	25
-344292	3	15	3 Suits	2020-11-15 — 20:03:40 UTC	Bonja97, cardshark45, Slonimsky	144	3	15
-344267	4	20	4 Suits	2020-11-15 — 19:34:23 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	77	4	20
-344240	4	18	4 Suits	2020-11-15 — 18:55:39 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	101	4	20
+344292	3	15	3 Suits	2020-11-15 — 20:03:40 UTC	Bonja97, cardshark45, Slonimsky	146	3	15
+344267	4	20	4 Suits	2020-11-15 — 19:34:23 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	80	4	20
+344240	4	18	4 Suits	2020-11-15 — 18:55:39 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	104	4	20
 344080	4	0	Gray (6 Suits)	2020-11-15 — 08:43:11 UTC	Bonja97, catula, derekcheah, Fey	10	6	30
 344073	4	0	Gray (6 Suits)	2020-11-15 — 08:28:27 UTC	Bonja97, catula, derekcheah, Fey	15	6	30
 344062	3	0	Ambiguous & Muddy Rainbow (3 Suits)	2020-11-15 — 08:00:35 UTC	Bonja97, derekcheah, micerang	1	3	15
@@ -438,10 +453,10 @@
 343992	5	30	Pink (6 Suits)	2020-11-15 — 06:13:36 UTC	Animex52, Bonja97, catula, derekcheah, wump	8	6	30
 343959	5	0	Pink (6 Suits)	2020-11-15 — 05:30:12 UTC	Animex52, Bonja97, catula, derekcheah, wump	15	6	30
 343945	3	29	Black & Prism (6 Suits)	2020-11-15 — 05:08:34 UTC	Bonja97, derekcheah, pianoblook	11	6	30
-343928	3	0	Black & Prism (6 Suits)	2020-11-15 — 04:44:07 UTC	Bonja97, derekcheah, pianoblook	12	6	30
-343915	3	0	Black & Prism (6 Suits)	2020-11-15 — 04:31:55 UTC	Bonja97, derekcheah, pianoblook	18	6	30
+343928	3	0	Black & Prism (6 Suits)	2020-11-15 — 04:44:07 UTC	Bonja97, derekcheah, pianoblook	13	6	30
+343915	3	0	Black & Prism (6 Suits)	2020-11-15 — 04:31:55 UTC	Bonja97, derekcheah, pianoblook	19	6	30
 343872	5	30	Rainbow & White (6 Suits)	2020-11-15 — 03:44:10 UTC	anser, Bonja97, cockdestroyer, nukelauncher, Pablo-	11	6	30
-343850	5	0	Rainbow & White (6 Suits)	2020-11-15 — 03:19:42 UTC	anser, Bonja97, cockdestroyer, nukelauncher, Pablo-	11	6	30
+343850	5	0	Rainbow & White (6 Suits)	2020-11-15 — 03:19:42 UTC	anser, Bonja97, cockdestroyer, nukelauncher, Pablo-	12	6	30
 343830	3	0	Muddy Rainbow (6 Suits)	2020-11-15 — 02:59:05 UTC	anser, Bonja97, Pablo-	11	6	30
 343825	3	0	Muddy Rainbow (6 Suits)	2020-11-15 — 02:51:36 UTC	anser, Bonja97, Pablo-	18	6	30
 343815	3	0	Muddy Rainbow (6 Suits)	2020-11-15 — 02:41:42 UTC	anser, Bonja97, Pablo-	37	6	30
@@ -451,21 +466,21 @@
 343773	5	0	Cocoa Rainbow (5 Suits)	2020-11-15 — 01:28:34 UTC	Bonja97, derekcheah, newduke, Pablo-, will.i.am	4	5	25
 343771	5	0	Cocoa Rainbow (5 Suits)	2020-11-15 — 01:19:14 UTC	Bonja97, derekcheah, newduke, Pablo-, will.i.am	3	5	25
 343764	5	0	Cocoa Rainbow (5 Suits)	2020-11-15 — 01:10:11 UTC	Bonja97, derekcheah, newduke, Pablo-, will.i.am	5	5	25
-343760	4	0	Black (6 Suits)	2020-11-15 — 01:00:11 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	175	6	30
-343750	4	0	Black (6 Suits)	2020-11-15 — 00:34:35 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	273	6	30
+343760	4	0	Black (6 Suits)	2020-11-15 — 01:00:11 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	176	6	30
+343750	4	0	Black (6 Suits)	2020-11-15 — 00:34:35 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	276	6	30
 343743	4	20	White (4 Suits)	2020-11-15 — 00:23:09 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	13	4	20
-343726	4	0	No Variant	2020-11-14 — 23:49:51 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	48	5	25
+343726	4	0	No Variant	2020-11-14 — 23:49:51 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	49	5	25
 343720	6	0	Rainbow (5 Suits)	2020-11-14 — 23:43:19 UTC	Bonja97, cockdestroyer, jeff10, newduke, Pablo-, XMIL	6	5	25
 343717	6	0	Rainbow (5 Suits)	2020-11-14 — 23:41:19 UTC	Bonja97, cockdestroyer, jeff10, newduke, Pablo-, XMIL	7	5	25
 343712	6	0	Rainbow (5 Suits)	2020-11-14 — 23:37:37 UTC	Bonja97, cockdestroyer, jeff10, newduke, Pablo-, XMIL	7	5	25
 343703	6	0	Rainbow (5 Suits)	2020-11-14 — 23:24:35 UTC	Bonja97, cockdestroyer, jeff10, newduke, Pablo-, XMIL	9	5	25
-343361	4	30	Prism (6 Suits)	2020-11-14 — 17:08:26 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	10	6	30
+343361	4	30	Prism (6 Suits)	2020-11-14 — 17:08:26 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	11	6	30
 343335	4	27	Prism (6 Suits)	2020-11-14 — 15:56:45 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	22	6	30
-342923	3	25	Prism (5 Suits)	2020-11-14 — 02:11:02 UTC	Bonja97, cardshark45, Slonimsky	45	5	25
-342864	3	24	Prism (5 Suits)	2020-11-14 — 01:13:32 UTC	Bonja97, cardshark45, Slonimsky	80	5	25
-342581	3	0	Light Pink (6 Suits)	2020-11-13 — 22:36:19 UTC	Bonja97, rachyrules, robense	34	6	30
-342565	3	0	Light Pink (6 Suits)	2020-11-13 — 22:14:29 UTC	Bonja97, rachyrules, robense	38	6	30
-342236	3	30	Dark Omni (6 Suits)	2020-11-13 — 09:38:05 UTC	Bonja97, Lel0uch, melwen	26	6	30
+342923	3	25	Prism (5 Suits)	2020-11-14 — 02:11:02 UTC	Bonja97, cardshark45, Slonimsky	47	5	25
+342864	3	24	Prism (5 Suits)	2020-11-14 — 01:13:32 UTC	Bonja97, cardshark45, Slonimsky	82	5	25
+342581	3	0	Light Pink (6 Suits)	2020-11-13 — 22:36:19 UTC	Bonja97, rachyrules, robense	37	6	30
+342565	3	0	Light Pink (6 Suits)	2020-11-13 — 22:14:29 UTC	Bonja97, rachyrules, robense	40	6	30
+342236	3	30	Dark Omni (6 Suits)	2020-11-13 — 09:38:05 UTC	Bonja97, Lel0uch, melwen	27	6	30
 342228	5	0	Dark Omni (6 Suits)	2020-11-13 — 09:05:57 UTC	Bonja97, doctorabi, Lel0uch, melwen, robense	4	6	30
 342223	4	0	Dark Omni (6 Suits)	2020-11-13 — 08:34:56 UTC	Bonja97, derekcheah, Lel0uch, melwen	3	6	30
 342220	4	0	Dark Omni (6 Suits)	2020-11-13 — 08:15:53 UTC	Bonja97, derekcheah, Lel0uch, melwen	3	6	30
@@ -475,13 +490,13 @@
 342201	4	0	Dark Omni (6 Suits)	2020-11-13 — 07:26:01 UTC	Bonja97, derekcheah, melwen, swineherd	4	6	30
 342192	5	0	Dark Omni (6 Suits)	2020-11-13 — 06:54:52 UTC	Bonja97, derekcheah, Fey, Lel0uch, melwen	10	6	30
 342188	5	0	Dark Omni (6 Suits)	2020-11-13 — 06:35:41 UTC	Bonja97, derekcheah, Fey, Lel0uch, melwen	10	6	30
-342185	4	0	Gray (6 Suits)	2020-11-13 — 06:25:15 UTC	Bonja97, derekcheah, doctorabi, Lel0uch	18	6	30
-342181	4	0	Gray (6 Suits)	2020-11-13 — 06:03:53 UTC	Bonja97, derekcheah, doctorabi, Lel0uch	18	6	30
+342185	4	0	Gray (6 Suits)	2020-11-13 — 06:25:15 UTC	Bonja97, derekcheah, doctorabi, Lel0uch	19	6	30
+342181	4	0	Gray (6 Suits)	2020-11-13 — 06:03:53 UTC	Bonja97, derekcheah, doctorabi, Lel0uch	19	6	30
 342173	3	25	Omni & Muddy Rainbow (5 Suits)	2020-11-13 — 05:36:04 UTC	Bonja97, derekcheah, will.i.am	1	5	25
 342071	3	30	Prism (6 Suits)	2020-11-13 — 02:55:04 UTC	Bonja97, cardshark45, Slonimsky	10	6	30
 342016	3	0	Prism (6 Suits)	2020-11-13 — 01:59:56 UTC	Bonja97, cardshark45, Slonimsky	11	6	30
-341996	4	0	Gray (6 Suits)	2020-11-13 — 01:24:09 UTC	Bonja97, Carunty, Pablo-, rachyrules	7	6	30
-341985	4	0	Gray (6 Suits)	2020-11-13 — 01:04:00 UTC	Bonja97, Carunty, Pablo-, rachyrules	7	6	30
+341996	4	0	Gray (6 Suits)	2020-11-13 — 01:24:09 UTC	Bonja97, Carunty, Pablo-, rachyrules	9	6	30
+341985	4	0	Gray (6 Suits)	2020-11-13 — 01:04:00 UTC	Bonja97, Carunty, Pablo-, rachyrules	9	6	30
 341979	4	20	Rainbow (4 Suits)	2020-11-13 — 00:48:06 UTC	Bonja97, Carunty, Pablo-, rachyrules	17	4	20
 341970	4	19	Rainbow (4 Suits)	2020-11-13 — 00:19:52 UTC	Bonja97, Carunty, Pablo-, rachyrules	19	4	20
 341915	3	24	White-Fives & Brown (5 Suits)	2020-11-12 — 23:09:33 UTC	Bonja97, Carunty, robense	1	5	25
@@ -502,19 +517,19 @@
 341023	4	0	White-Fives & Prism (5 Suits)	2020-11-11 — 20:26:42 UTC	Bonja97, MarkusKahlsen, Pepepe, timotree	1	5	25
 340997	4	24	White-Fives & Prism (5 Suits)	2020-11-11 — 20:02:05 UTC	Bonja97, MarkusKahlsen, Pepepe, timotree	1	5	25
 340975	4	23	White-Fives & Prism (5 Suits)	2020-11-11 — 19:37:52 UTC	Bonja97, Floriman, MarkusKahlsen, timotree	1	5	25
-340938	4	0	Black (6 Suits)	2020-11-11 — 19:05:50 UTC	Bonja97, Floriman, MarkusKahlsen, orucsoraihc	45	6	30
+340938	4	0	Black (6 Suits)	2020-11-11 — 19:05:50 UTC	Bonja97, Floriman, MarkusKahlsen, orucsoraihc	46	6	30
 340763	3	30	Dark Prism (6 Suits)	2020-11-11 — 13:15:29 UTC	Bonja97, Lel0uch, StKildaFan	25	6	30
 340758	3	0	Dark Prism (6 Suits)	2020-11-11 — 12:54:52 UTC	Bonja97, Lel0uch, StKildaFan	32	6	30
 340735	5	25	Light Pink (5 Suits)	2020-11-11 — 11:55:52 UTC	asaelr, Bonja97, Fey, Lel0uch, swineherd	1	5	25
 340728	5	0	Light Pink (5 Suits)	2020-11-11 — 11:32:03 UTC	asaelr, Bonja97, Fey, Lel0uch, swineherd	1	5	25
 340727	4	24	Dark Rainbow (5 Suits)	2020-11-11 — 11:16:48 UTC	Bonja97, Fey, Lel0uch, swineherd	24	5	25
-340724	4	24	No Variant	2020-11-11 — 10:42:49 UTC	asdfew, Bonja97, Fey, Sucubis	44	5	25
-340723	3	30	Brown (6 Suits)	2020-11-11 — 10:11:24 UTC	Bonja97, Fey, Sucubis	31	6	30
-340718	2	26	Brown (6 Suits)	2020-11-11 — 09:40:00 UTC	Bonja97, Fey	72	6	30
+340724	4	24	No Variant	2020-11-11 — 10:42:49 UTC	asdfew, Bonja97, Fey, Sucubis	45	5	25
+340723	3	30	Brown (6 Suits)	2020-11-11 — 10:11:24 UTC	Bonja97, Fey, Sucubis	33	6	30
+340718	2	26	Brown (6 Suits)	2020-11-11 — 09:40:00 UTC	Bonja97, Fey	73	6	30
 340442	3	29	Prism (6 Suits)	2020-11-11 — 02:14:52 UTC	Bonja97, cardshark45, Slonimsky	11	6	30
 340407	3	0	Prism (6 Suits)	2020-11-11 — 01:31:10 UTC	Bonja97, cardshark45, Slonimsky	12	6	30
 340393	3	28	Prism (6 Suits)	2020-11-11 — 01:03:05 UTC	Bonja97, cardshark45, Slonimsky	13	6	30
-340277	3	24	Dark Brown (5 Suits)	2020-11-10 — 21:50:23 UTC	Bonja97, Carunty, jack67889	18	5	25
+340277	3	24	Dark Brown (5 Suits)	2020-11-10 — 21:50:23 UTC	Bonja97, Carunty, jack67889	19	5	25
 340259	3	23	Dark Brown (5 Suits)	2020-11-10 — 21:29:11 UTC	Bonja97, Carunty, jack67889	18	5	25
 340243	3	0	Dark Brown (5 Suits)	2020-11-10 — 21:13:15 UTC	Bonja97, Carunty, jack67889	26	5	25
 340239	4	0	White-Fives & Black (6 Suits)	2020-11-10 — 21:06:51 UTC	Bonja97, Carunty, jack67889, jeff10	2	6	30
@@ -522,10 +537,10 @@
 340210	3	0	White-Fives & Black (6 Suits)	2020-11-10 — 20:41:51 UTC	Bonja97, Carunty, jeff10	1	6	30
 340191	3	0	White-Fives & Black (6 Suits)	2020-11-10 — 20:26:26 UTC	Bonja97, Carunty, jeff10	2	6	30
 340172	6	30	Black (6 Suits)	2020-11-10 — 20:13:20 UTC	asaelr, Bonja97, Carunty, frosty104, honzas, jeff10	3	6	30
-339815	3	25	Gray Pink (5 Suits)	2020-11-10 — 04:27:14 UTC	Bonja97, derekcheah, will.i.am	8	5	25
-339798	3	0	Gray Pink (5 Suits)	2020-11-10 — 04:11:31 UTC	Bonja97, derekcheah, will.i.am	9	5	25
+339815	3	25	Gray Pink (5 Suits)	2020-11-10 — 04:27:14 UTC	Bonja97, derekcheah, will.i.am	9	5	25
+339798	3	0	Gray Pink (5 Suits)	2020-11-10 — 04:11:31 UTC	Bonja97, derekcheah, will.i.am	10	5	25
 339786	3	0	Gray Pink (5 Suits)	2020-11-10 — 03:58:29 UTC	Bonja97, derekcheah, will.i.am	13	5	25
-339756	3	0	Gray Pink (5 Suits)	2020-11-10 — 03:38:45 UTC	Bonja97, derekcheah, will.i.am	13	5	25
+339756	3	0	Gray Pink (5 Suits)	2020-11-10 — 03:38:45 UTC	Bonja97, derekcheah, will.i.am	14	5	25
 339737	3	0	Gray Pink (5 Suits)	2020-11-10 — 03:26:37 UTC	Bonja97, derekcheah, will.i.am	15	5	25
 339726	3	0	Gray Pink (5 Suits)	2020-11-10 — 03:19:10 UTC	Bonja97, derekcheah, will.i.am	18	5	25
 339693	3	21	White (5 Suits)	2020-11-10 — 02:54:35 UTC	Bonja97, Sipsey, Slonimsky	5	5	25
@@ -533,18 +548,18 @@
 339618	4	23	No Variant	2020-11-10 — 01:15:52 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	51	5	25
 339539	5	0	Up or Down (5 Suits)	2020-11-09 — 22:42:42 UTC	anser, Bonja97, Kyle, MarkusKahlsen, newduke	1	5	25
 339518	5	0	Up or Down (5 Suits)	2020-11-09 — 22:15:36 UTC	anser, Bonja97, Kyle, MarkusKahlsen, newduke	1	5	25
-339502	4	30	Prism (6 Suits)	2020-11-09 — 21:54:33 UTC	Bonja97, Carunty, doctorabi, TimeHoodie	8	6	30
+339502	4	30	Prism (6 Suits)	2020-11-09 — 21:54:33 UTC	Bonja97, Carunty, doctorabi, TimeHoodie	10	6	30
 339487	4	0	Prism (6 Suits)	2020-11-09 — 21:30:16 UTC	Bonja97, Carunty, doctorabi, TimeHoodie	15	6	30
 339471	5	0	Prism (6 Suits)	2020-11-09 — 21:10:11 UTC	Bonja97, Carunty, doctorabi, TimeHoodie, vEnhance	12	6	30
 339435	6	25	White-Ones & Brown (5 Suits)	2020-11-09 — 20:34:54 UTC	Bonja97, Kyle, sin_faith, Sucubis, TimeHoodie, vEnhance	2	5	25
 339368	3	30	White-Fives & Prism (6 Suits)	2020-11-09 — 19:56:07 UTC	Bonja97, Carunty, Div	2	6	30
 339329	3	28	White-Fives & Prism (6 Suits)	2020-11-09 — 19:27:26 UTC	Bonja97, Carunty, Div	2	6	30
 339274	3	30	Dark Rainbow (6 Suits)	2020-11-09 — 18:47:06 UTC	Bonja97, Carunty, superbipbip	91	6	30
-339241	3	20	Rainbow (4 Suits)	2020-11-09 — 18:19:04 UTC	Bonja97, Carunty, superbipbip	68	4	20
+339241	3	20	Rainbow (4 Suits)	2020-11-09 — 18:19:04 UTC	Bonja97, Carunty, superbipbip	69	4	20
 339225	3	29	Dark Prism (6 Suits)	2020-11-09 — 17:58:01 UTC	Bonja97, Kyle, Wittvector	5	6	30
 339214	3	30	Prism (6 Suits)	2020-11-09 — 17:32:53 UTC	Bonja97, Kyle, Wittvector	15	6	30
 339205	3	0	Prism (6 Suits)	2020-11-09 — 17:16:13 UTC	Bonja97, Kyle, Wittvector	16	6	30
-339201	5	0	Null (6 Suits)	2020-11-09 — 16:59:10 UTC	Bonja97, ebin_noob, jeff10, Kyle, TimeHoodie	4	6	30
+339201	5	0	Null (6 Suits)	2020-11-09 — 16:59:10 UTC	Bonja97, ebin_noob, jeff10, Kyle, TimeHoodie	5	6	30
 339194	5	0	Null (6 Suits)	2020-11-09 — 16:40:04 UTC	Bonja97, ebin_noob, jeff10, Kyle, TimeHoodie	8	6	30
 339188	4	0	Null (6 Suits)	2020-11-09 — 16:27:05 UTC	Bonja97, ebin_noob, jeff10, TimeHoodie	10	6	30
 339186	4	0	Null (6 Suits)	2020-11-09 — 16:22:44 UTC	Bonja97, ebin_noob, jeff10, TimeHoodie	10	6	30
@@ -552,16 +567,16 @@
 339172	3	0	Omni & Muddy Rainbow (5 Suits)	2020-11-09 — 15:43:02 UTC	Bonja97, ebin_noob, will.i.am	4	5	25
 338692	3	26	Prism (6 Suits)	2020-11-08 — 22:46:28 UTC	Bonja97, cardshark45, Slonimsky	18	6	30
 338640	3	0	Prism (6 Suits)	2020-11-08 — 21:47:40 UTC	Bonja97, cardshark45, Slonimsky	18	6	30
-338102	3	29	Rainbow (6 Suits)	2020-11-08 — 04:57:56 UTC	Bonja97, ejwu, swineherd	689	6	30
+338102	3	29	Rainbow (6 Suits)	2020-11-08 — 04:57:56 UTC	Bonja97, ejwu, swineherd	693	6	30
 338088	5	0	Omni (6 Suits)	2020-11-08 — 04:19:17 UTC	Bonja97, ejwu, jeff10, rachyrules, swineherd	15	6	30
 338077	4	0	Omni (5 Suits)	2020-11-08 — 03:49:37 UTC	Bonja97, ejwu, jeff10, rachyrules	24	5	25
 338069	4	0	Null (6 Suits)	2020-11-08 — 03:30:35 UTC	Bonja97, newduke, Pablo-, rachyrules	13	6	30
 338043	4	0	Null (6 Suits)	2020-11-08 — 03:08:04 UTC	Bonja97, newduke, Pablo-, rachyrules	18	6	30
 338014	4	25	Null (5 Suits)	2020-11-08 — 02:31:33 UTC	Bonja97, newduke, Pablo-, rachyrules	20	5	25
-337980	4	0	Null (5 Suits)	2020-11-08 — 01:53:00 UTC	Bonja97, newduke, Pablo-, rachyrules	26	5	25
+337980	4	0	Null (5 Suits)	2020-11-08 — 01:53:00 UTC	Bonja97, newduke, Pablo-, rachyrules	27	5	25
 337734	3	0	Prism (6 Suits)	2020-11-07 — 21:02:43 UTC	Bonja97, cardshark45, Slonimsky	20	6	30
 337733	3	0	Prism (6 Suits)	2020-11-07 — 21:01:02 UTC	Bonja97, cardshark45, Slonimsky	21	6	30
-337187	3	0	Prism (6 Suits)	2020-11-07 — 02:38:20 UTC	Bonja97, cardshark45, Slonimsky	24	6	30
+337187	3	0	Prism (6 Suits)	2020-11-07 — 02:38:20 UTC	Bonja97, cardshark45, Slonimsky	26	6	30
 337166	3	0	Prism (6 Suits)	2020-11-07 — 01:48:53 UTC	Bonja97, cardshark45, Slonimsky	25	6	30
 337155	4	25	Light-Pink-Ones & Rainbow (5 Suits)	2020-11-07 — 01:28:27 UTC	Bonja97, melwen, Nitrate2, Pablo-	1	5	25
 337143	4	0	Light-Pink-Ones & Rainbow (5 Suits)	2020-11-07 — 01:00:55 UTC	Bonja97, melwen, Nitrate2, Pablo-	1	5	25
@@ -570,11 +585,11 @@
 337105	3	30	Light-Pink-Ones (6 Suits)	2020-11-07 — 00:02:20 UTC	Bonja97, Nitrate2, Pablo-	3	6	30
 336901	5	24	Rainbow (5 Suits)	2020-11-06 — 18:48:20 UTC	Bonja97, Pepepe, robense, sephiroth, superbipbip	11	5	25
 336892	3	0	Clue Starved & Pink (5 Suits)	2020-11-06 — 18:18:59 UTC	Bonja97, plus, sephiroth	5	5	25
-336761	3	23	No Variant	2020-11-06 — 07:36:29 UTC	BarneyRubble, Bonja97, doctorabi	66	5	25
-336751	3	25	No Variant	2020-11-06 — 07:03:21 UTC	BarneyRubble, Bonja97, doctorabi	63	5	25
+336761	3	23	No Variant	2020-11-06 — 07:36:29 UTC	BarneyRubble, Bonja97, doctorabi	69	5	25
+336751	3	25	No Variant	2020-11-06 — 07:03:21 UTC	BarneyRubble, Bonja97, doctorabi	66	5	25
 336530	3	29	Prism (6 Suits)	2020-11-06 — 02:39:38 UTC	Bonja97, cardshark45, Slonimsky	36	6	30
-336438	3	0	Prism (6 Suits)	2020-11-06 — 01:33:23 UTC	Bonja97, cardshark45, Slonimsky	45	6	30
-336360	4	30	Up or Down & Pink (6 Suits)	2020-11-05 — 22:54:38 UTC	Bonja97, jack67889, newduke, robense	12	6	30
+336438	3	0	Prism (6 Suits)	2020-11-06 — 01:33:23 UTC	Bonja97, cardshark45, Slonimsky	46	6	30
+336360	4	30	Up or Down & Pink (6 Suits)	2020-11-05 — 22:54:38 UTC	Bonja97, jack67889, newduke, robense	13	6	30
 336327	4	29	Prism (6 Suits)	2020-11-05 — 22:03:49 UTC	Bonja97, newduke, StKildaFan, VerySloppyTwo	14	6	30
 336301	4	0	Prism (6 Suits)	2020-11-05 — 21:17:44 UTC	Bonja97, newduke, StKildaFan, VerySloppyTwo	15	6	30
 336280	4	25	No Variant	2020-11-05 — 20:58:55 UTC	Bonja97, Floriman, kimbifille, Zamiel	1	5	25
@@ -604,17 +619,17 @@
 336003	4	0	Gray (6 Suits)	2020-11-05 — 08:37:13 UTC	Bonja97, kodomazer, pianoblook, sin_faith	3	6	30
 335998	3	0	Light Pink (6 Suits)	2020-11-05 — 08:25:34 UTC	Bonja97, kodomazer, pianoblook	11	6	30
 335991	3	0	Light Pink (6 Suits)	2020-11-05 — 08:12:06 UTC	Bonja97, kodomazer, pianoblook	16	6	30
-335988	3	15	Prism (3 Suits)	2020-11-05 — 08:07:27 UTC	Bonja97, kodomazer, pianoblook	32	3	15
+335988	3	15	Prism (3 Suits)	2020-11-05 — 08:07:27 UTC	Bonja97, kodomazer, pianoblook	34	3	15
 335975	5	27	Dark Brown (6 Suits)	2020-11-05 — 07:51:33 UTC	Bonja97, cockdestroyer, Kyle, pianoblook, XMIL	3	6	30
 335949	5	0	Dark Brown (6 Suits)	2020-11-05 — 07:20:51 UTC	Bonja97, cockdestroyer, Kyle, pianoblook, XMIL	5	6	30
 335935	5	0	Dark Brown (6 Suits)	2020-11-05 — 07:10:26 UTC	Bonja97, cockdestroyer, Kyle, pianoblook, XMIL	6	6	30
 335926	5	0	Dark Brown (6 Suits)	2020-11-05 — 06:59:49 UTC	Bonja97, cockdestroyer, Kyle, pianoblook, XMIL	7	6	30
-335913	5	0	Dark Brown (6 Suits)	2020-11-05 — 06:37:50 UTC	Bonja97, cockdestroyer, Kyle, pianoblook, XMIL	8	6	30
+335913	5	0	Dark Brown (6 Suits)	2020-11-05 — 06:37:50 UTC	Bonja97, cockdestroyer, Kyle, pianoblook, XMIL	9	6	30
 335900	5	0	Black (5 Suits)	2020-11-05 — 06:24:35 UTC	Bonja97, catula, cockdestroyer, pianoblook, XMIL	12	5	25
-335895	5	0	Black (5 Suits)	2020-11-05 — 06:17:21 UTC	Bonja97, catula, cockdestroyer, pianoblook, XMIL	13	5	25
+335895	5	0	Black (5 Suits)	2020-11-05 — 06:17:21 UTC	Bonja97, catula, cockdestroyer, pianoblook, XMIL	14	5	25
 335511	4	24	Dual-Color (5 Suits)	2020-11-04 — 22:32:03 UTC	Bonja97, ebin_noob, jack67889, will.i.am	31	5	25
 335479	4	0	Dual-Color (5 Suits)	2020-11-04 — 22:05:10 UTC	Bonja97, ebin_noob, jack67889, will.i.am	37	5	25
-335448	3	0	Dual-Color (5 Suits)	2020-11-04 — 21:36:22 UTC	Bonja97, ebin_noob, StKildaFan	69	5	25
+335448	3	0	Dual-Color (5 Suits)	2020-11-04 — 21:36:22 UTC	Bonja97, ebin_noob, StKildaFan	70	5	25
 335432	3	0	Rainbow & Brown (6 Suits)	2020-11-04 — 21:19:40 UTC	Bonja97, ebin_noob, StKildaFan	2	6	30
 335416	3	0	Rainbow & Brown (6 Suits)	2020-11-04 — 21:08:16 UTC	Bonja97, ebin_noob, StKildaFan	2	6	30
 335398	3	0	Rainbow & Brown (6 Suits)	2020-11-04 — 20:52:11 UTC	Bonja97, ebin_noob, StKildaFan	2	6	30
@@ -623,64 +638,64 @@
 335070	5	0	Rainbow-Ones (5 Suits)	2020-11-04 — 04:41:38 UTC	Bonja97, ejwu, jeff10, Puzzle, timotree	6	5	25
 335066	5	0	Rainbow-Ones (5 Suits)	2020-11-04 — 04:36:36 UTC	Bonja97, ejwu, jeff10, Puzzle, timotree	5	5	25
 335052	5	0	Rainbow-Ones (5 Suits)	2020-11-04 — 04:17:46 UTC	Bonja97, ejwu, jeff10, Puzzle, timotree	7	5	25
-334986	4	23	Gray (5 Suits)	2020-11-04 — 02:55:23 UTC	avanderwalde, Bonja97, swineherd, timotree	33	5	25
+334986	4	23	Gray (5 Suits)	2020-11-04 — 02:55:23 UTC	avanderwalde, Bonja97, swineherd, timotree	34	5	25
 334886	3	0	Omni (4 Suits)	2020-11-04 — 01:04:54 UTC	Bonja97, newduke, Pablo-	5	4	20
 334875	3	0	Omni (4 Suits)	2020-11-04 — 00:54:28 UTC	Bonja97, newduke, Pablo-	12	4	20
 334865	3	0	Omni (4 Suits)	2020-11-04 — 00:41:38 UTC	Bonja97, newduke, Pablo-	15	4	20
 334851	3	0	Omni (4 Suits)	2020-11-04 — 00:13:49 UTC	Bonja97, newduke, Pablo-	21	4	20
-334840	3	0	Omni (4 Suits)	2020-11-04 — 00:00:44 UTC	Bonja97, newduke, Pablo-	29	4	20
+334840	3	0	Omni (4 Suits)	2020-11-04 — 00:00:44 UTC	Bonja97, newduke, Pablo-	30	4	20
 334564	3	24	White (5 Suits)	2020-11-03 — 19:21:51 UTC	Bonja97, cardshark45, Slonimsky	5	5	25
 334524	3	25	White (5 Suits)	2020-11-03 — 18:27:02 UTC	Bonja97, cardshark45, Slonimsky	5	5	25
 334368	5	17	Prism (4 Suits)	2020-11-03 — 11:22:12 UTC	Bonja97, Carunty, Nitrate2, Sucubis, TimeHoodie	2	4	20
 334366	5	0	Prism (4 Suits)	2020-11-03 — 11:03:31 UTC	Bonja97, Carunty, Nitrate2, Sucubis, TimeHoodie	3	4	20
-334365	5	26	Dark Rainbow (6 Suits)	2020-11-03 — 10:45:47 UTC	Bonja97, Carunty, Nitrate2, Pablo-, Sucubis	18	6	30
-334363	4	0	Rainbow (4 Suits)	2020-11-03 — 10:12:47 UTC	Bonja97, Carunty, Nitrate2, Pablo-	25	4	20
-334035	4	22	White (5 Suits)	2020-11-03 — 00:24:24 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	46	5	25
+334365	5	26	Dark Rainbow (6 Suits)	2020-11-03 — 10:45:47 UTC	Bonja97, Carunty, Nitrate2, Pablo-, Sucubis	19	6	30
+334363	4	0	Rainbow (4 Suits)	2020-11-03 — 10:12:47 UTC	Bonja97, Carunty, Nitrate2, Pablo-	26	4	20
+334035	4	22	White (5 Suits)	2020-11-03 — 00:24:24 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	47	5	25
 334012	4	0	White (5 Suits)	2020-11-02 — 23:46:17 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	60	5	25
 333998	4	25	Null (6 Suits)	2020-11-02 — 23:21:10 UTC	Bonja97, MarkusKahlsen, TimeHoodie, timotree	21	6	30
 333952	4	0	Clue Starved & White (5 Suits)	2020-11-02 — 22:04:47 UTC	Bonja97, lotem, MarkusKahlsen, robense	4	5	25
 333936	3	0	Clue Starved & White (5 Suits)	2020-11-02 — 21:43:03 UTC	Bonja97, lotem, robense	6	5	25
-333640	3	25	Pink (5 Suits)	2020-11-02 — 07:16:06 UTC	Bonja97, Jtjg, wump	75	5	25
+333640	3	25	Pink (5 Suits)	2020-11-02 — 07:16:06 UTC	Bonja97, Jtjg, wump	77	5	25
 333593	5	16	4 Suits	2020-11-02 — 05:45:27 UTC	Bonja97, cockdestroyer, Jtjg, vEnhance, XMIL	16	4	20
 333576	4	20	Pink (4 Suits)	2020-11-02 — 05:14:26 UTC	Bonja97, cockdestroyer, vEnhance, XMIL	10	4	20
 333566	4	0	Pink (4 Suits)	2020-11-02 — 04:56:12 UTC	Bonja97, cockdestroyer, vEnhance, XMIL	13	4	20
 333564	4	0	Pink (4 Suits)	2020-11-02 — 04:53:45 UTC	Bonja97, cockdestroyer, vEnhance, XMIL	19	4	20
 333558	4	15	Rainbow (3 Suits)	2020-11-02 — 04:45:55 UTC	Bonja97, cockdestroyer, vEnhance, XMIL	5	3	15
 333538	4	0	Rainbow (3 Suits)	2020-11-02 — 04:34:16 UTC	Bonja97, cockdestroyer, vEnhance, XMIL	6	3	15
-333531	4	0	Rainbow (3 Suits)	2020-11-02 — 04:30:50 UTC	Bonja97, cockdestroyer, vEnhance, XMIL	10	3	15
-333510	4	0	Rainbow (3 Suits)	2020-11-02 — 04:20:51 UTC	Bonja97, cockdestroyer, vEnhance, XMIL	13	3	15
-333489	4	0	Rainbow (3 Suits)	2020-11-02 — 04:11:52 UTC	Bonja97, cockdestroyer, vEnhance, XMIL	14	3	15
-333478	4	0	Rainbow (3 Suits)	2020-11-02 — 04:05:50 UTC	Bonja97, cockdestroyer, vEnhance, XMIL	24	3	15
-333455	4	15	3 Suits	2020-11-02 — 03:56:36 UTC	Bonja97, cockdestroyer, vEnhance, XMIL	73	3	15
+333531	4	0	Rainbow (3 Suits)	2020-11-02 — 04:30:50 UTC	Bonja97, cockdestroyer, vEnhance, XMIL	11	3	15
+333510	4	0	Rainbow (3 Suits)	2020-11-02 — 04:20:51 UTC	Bonja97, cockdestroyer, vEnhance, XMIL	14	3	15
+333489	4	0	Rainbow (3 Suits)	2020-11-02 — 04:11:52 UTC	Bonja97, cockdestroyer, vEnhance, XMIL	15	3	15
+333478	4	0	Rainbow (3 Suits)	2020-11-02 — 04:05:50 UTC	Bonja97, cockdestroyer, vEnhance, XMIL	25	3	15
+333455	4	15	3 Suits	2020-11-02 — 03:56:36 UTC	Bonja97, cockdestroyer, vEnhance, XMIL	74	3	15
 333382	5	0	Brown (6 Suits)	2020-11-02 — 03:34:34 UTC	Bonja97, cockdestroyer, Jake_Stiles, swineherd, XMIL	6	6	30
 333321	3	0	Brown (6 Suits)	2020-11-02 — 03:11:07 UTC	Bonja97, Jake_Stiles, XMIL	11	6	30
 333241	4	24	No Variant	2020-11-02 — 02:21:10 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	52	5	25
 333049	4	0	Null (5 Suits)	2020-11-01 — 21:51:28 UTC	Bonja97, jack67889, Jake_Stiles, Kyle	8	5	25
 333027	4	25	Up or Down & Rainbow (5 Suits)	2020-11-01 — 21:28:44 UTC	Bonja97, jack67889, Jake_Stiles, Kyle	3	5	25
-332973	4	23	Dark Prism (5 Suits)	2020-11-01 — 20:23:58 UTC	Bonja97, rachyrules, sephiroth, XMIL	5	5	25
+332973	4	23	Dark Prism (5 Suits)	2020-11-01 — 20:23:58 UTC	Bonja97, rachyrules, sephiroth, XMIL	6	5	25
 332950	3	25	Black (5 Suits)	2020-11-01 — 19:58:15 UTC	Bonja97, ebin_noob, rachyrules	40	5	25
 332934	4	0	Prism (6 Suits)	2020-11-01 — 19:29:46 UTC	Bonja97, ebin_noob, rachyrules, superbipbip	23	6	30
-332914	3	0	Black (5 Suits)	2020-11-01 — 19:10:43 UTC	Bonja97, ebin_noob, rachyrules	44	5	25
-332910	3	0	Black (5 Suits)	2020-11-01 — 19:06:32 UTC	Bonja97, ebin_noob, rachyrules	51	5	25
+332914	3	0	Black (5 Suits)	2020-11-01 — 19:10:43 UTC	Bonja97, ebin_noob, rachyrules	45	5	25
+332910	3	0	Black (5 Suits)	2020-11-01 — 19:06:32 UTC	Bonja97, ebin_noob, rachyrules	52	5	25
 332896	4	0	Prism (6 Suits)	2020-11-01 — 18:45:07 UTC	Bonja97, ebin_noob, rachyrules, VerySloppyTwo	26	6	30
-332474	3	28	Prism (6 Suits)	2020-11-01 — 01:23:29 UTC	Bonja97, cardshark45, Slonimsky	60	6	30
-332148	4	24	Dark Brown (5 Suits)	2020-10-31 — 18:04:03 UTC	Bonja97, rachyrules, wump, XMIL	14	5	25
-332139	4	0	Dark Brown (5 Suits)	2020-10-31 — 17:31:38 UTC	Bonja97, rachyrules, wump, XMIL	17	5	25
-331824	5	30	Dark Prism (6 Suits)	2020-10-31 — 05:08:31 UTC	Bonja97, melwen, newduke, scharkbite, TheDaniMan	1	6	30
-331802	5	0	Dark Prism (6 Suits)	2020-10-31 — 04:41:18 UTC	Bonja97, melwen, newduke, scharkbite, TheDaniMan	1	6	30
-331782	5	0	Dark Prism (6 Suits)	2020-10-31 — 04:17:48 UTC	Bonja97, melwen, newduke, scharkbite, TheDaniMan	1	6	30
-331549	3	0	Prism (6 Suits)	2020-10-31 — 00:34:08 UTC	Bonja97, cardshark45, Slonimsky	84	6	30
+332474	3	28	Prism (6 Suits)	2020-11-01 — 01:23:29 UTC	Bonja97, cardshark45, Slonimsky	61	6	30
+332148	4	24	Dark Brown (5 Suits)	2020-10-31 — 18:04:03 UTC	Bonja97, rachyrules, wump, XMIL	15	5	25
+332139	4	0	Dark Brown (5 Suits)	2020-10-31 — 17:31:38 UTC	Bonja97, rachyrules, wump, XMIL	18	5	25
+331824	5	30	Dark Prism (6 Suits)	2020-10-31 — 05:08:31 UTC	Bonja97, melwen, newduke, scharkbite, TheDaniMan	2	6	30
+331802	5	0	Dark Prism (6 Suits)	2020-10-31 — 04:41:18 UTC	Bonja97, melwen, newduke, scharkbite, TheDaniMan	2	6	30
+331782	5	0	Dark Prism (6 Suits)	2020-10-31 — 04:17:48 UTC	Bonja97, melwen, newduke, scharkbite, TheDaniMan	2	6	30
+331549	3	0	Prism (6 Suits)	2020-10-31 — 00:34:08 UTC	Bonja97, cardshark45, Slonimsky	85	6	30
 331528	3	25	White (5 Suits)	2020-10-30 — 23:48:58 UTC	Bonja97, cardshark45, Slonimsky	5	5	25
 330818	3	0	White (5 Suits)	2020-10-30 — 02:03:59 UTC	Bonja97, cardshark45, Slonimsky	7	5	25
 330770	3	0	White (5 Suits)	2020-10-30 — 01:09:00 UTC	Bonja97, cardshark45, Slonimsky	7	5	25
 330581	4	25	Dark Omni (6 Suits)	2020-10-29 — 19:48:50 UTC	Bonja97, cockdestroyer, swineherd, TheDaniMan	4	6	30
 330571	4	0	Dark Omni (6 Suits)	2020-10-29 — 19:32:34 UTC	Bonja97, cockdestroyer, swineherd, TheDaniMan	5	6	30
-330560	4	30	Dark Prism (6 Suits)	2020-10-29 — 19:19:52 UTC	anser, Bonja97, swineherd, TheDaniMan	8	6	30
-330537	5	26	Dark Prism (6 Suits)	2020-10-29 — 18:46:10 UTC	Bonja97, sephiroth, TheDaniMan, TimeHoodie, will.i.am	2	6	30
+330560	4	30	Dark Prism (6 Suits)	2020-10-29 — 19:19:52 UTC	anser, Bonja97, swineherd, TheDaniMan	9	6	30
+330537	5	26	Dark Prism (6 Suits)	2020-10-29 — 18:46:10 UTC	Bonja97, sephiroth, TheDaniMan, TimeHoodie, will.i.am	3	6	30
 330528	4	0	Cocoa Rainbow & Gray Pink (6 Suits)	2020-10-29 — 18:27:04 UTC	Bonja97, sephiroth, TheDaniMan, will.i.am	3	6	30
 330527	4	0	Cocoa Rainbow & Gray Pink (6 Suits)	2020-10-29 — 18:25:17 UTC	Bonja97, sephiroth, TheDaniMan, will.i.am	3	6	30
 330287	4	29	Dark Omni (6 Suits)	2020-10-29 — 04:21:01 UTC	Bonja97, honzas, IAMJEFF, TheDaniMan	5	6	30
-330182	3	24	White (5 Suits)	2020-10-29 — 01:56:41 UTC	Bonja97, cardshark45, Slonimsky	9	5	25
+330182	3	24	White (5 Suits)	2020-10-29 — 01:56:41 UTC	Bonja97, cardshark45, Slonimsky	10	5	25
 330156	3	24	White (5 Suits)	2020-10-29 — 01:00:22 UTC	Bonja97, cardshark45, Slonimsky	10	5	25
 329984	4	0	Black & Light Pink (6 Suits)	2020-10-28 — 19:32:37 UTC	Bonja97, MarkusKahlsen, TheDaniMan, Wittvector	2	6	30
 329965	4	0	Black & Light Pink (6 Suits)	2020-10-28 — 19:20:40 UTC	Bonja97, MarkusKahlsen, TheDaniMan, Wittvector	3	6	30
@@ -691,7 +706,7 @@
 329899	4	0	Dark Omni (6 Suits)	2020-10-28 — 17:52:08 UTC	AshleyBridge, Bonja97, swineherd, TheDaniMan	7	6	30
 329887	5	0	Dark Omni (6 Suits)	2020-10-28 — 17:36:41 UTC	AshleyBridge, Bonja97, newduke, swineherd, TheDaniMan	4	6	30
 329558	3	18	White (4 Suits)	2020-10-28 — 01:45:04 UTC	Bonja97, cardshark45, Slonimsky	16	4	20
-329530	3	17	White (4 Suits)	2020-10-28 — 01:13:25 UTC	Bonja97, cardshark45, Slonimsky	18	4	20
+329530	3	17	White (4 Suits)	2020-10-28 — 01:13:25 UTC	Bonja97, cardshark45, Slonimsky	19	4	20
 329427	6	0	Rainbow & Brown (6 Suits)	2020-10-27 — 22:27:20 UTC	Bonja97, ebin_noob, newduke, Pablo-, TheDaniMan, Veexliat	1	6	30
 329417	6	0	Rainbow & Brown (6 Suits)	2020-10-27 — 22:10:31 UTC	Bonja97, ebin_noob, newduke, Pablo-, TheDaniMan, Veexliat	2	6	30
 329411	6	0	Rainbow & Brown (6 Suits)	2020-10-27 — 21:49:58 UTC	Bonja97, ebin_noob, newduke, Pablo-, TheDaniMan, Veexliat	4	6	30
@@ -701,309 +716,309 @@
 329398	4	27	Dark Omni (6 Suits)	2020-10-27 — 21:24:47 UTC	Bonja97, Pablo-, TheDaniMan, Veexliat	8	6	30
 329382	5	0	Up or Down & White (6 Suits)	2020-10-27 — 20:47:49 UTC	Bonja97, jack67889, Pablo-, sephiroth, TheDaniMan	7	6	30
 329361	5	25	Prism (5 Suits)	2020-10-27 — 20:07:26 UTC	Bonja97, Kyle, scharkbite, TheDaniMan, Valetta6789	9	5	25
-328946	3	25	No Variant	2020-10-27 — 02:03:44 UTC	Bonja97, Sipsey, Slonimsky	69	5	25
-328925	4	25	No Variant	2020-10-27 — 01:11:33 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	52	5	25
-328895	4	25	No Variant	2020-10-27 — 00:17:38 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	53	5	25
+328946	3	25	No Variant	2020-10-27 — 02:03:44 UTC	Bonja97, Sipsey, Slonimsky	73	5	25
+328925	4	25	No Variant	2020-10-27 — 01:11:33 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	54	5	25
+328895	4	25	No Variant	2020-10-27 — 00:17:38 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	55	5	25
 328355	3	25	White (5 Suits)	2020-10-26 — 01:13:29 UTC	Bonja97, cardshark45, Slonimsky	10	5	25
 328319	3	0	White (5 Suits)	2020-10-26 — 00:17:50 UTC	Bonja97, cardshark45, Slonimsky	10	5	25
 328298	3	0	White (5 Suits)	2020-10-25 — 23:46:29 UTC	Bonja97, cardshark45, Slonimsky	10	5	25
-327264	4	24	Brown (5 Suits)	2020-10-24 — 10:19:45 UTC	Bonja97, Carunty, catula, kodomazer	46	5	25
+327264	4	24	Brown (5 Suits)	2020-10-24 — 10:19:45 UTC	Bonja97, Carunty, catula, kodomazer	47	5	25
 326126	3	24	White (5 Suits)	2020-10-23 — 01:28:56 UTC	Bonja97, cardshark45, Slonimsky	10	5	25
 326088	3	0	White (5 Suits)	2020-10-23 — 00:25:00 UTC	Bonja97, cardshark45, Slonimsky	11	5	25
 325582	5	0	Pink & Brown (6 Suits)	2020-10-22 — 04:54:10 UTC	Bonja97, IAMJEFF, kimbifille, pianoblook, piper	4	6	30
-325563	5	0	Black (5 Suits)	2020-10-22 — 04:28:52 UTC	Bonja97, IAMJEFF, kimbifille, pianoblook, piper	17	5	25
+325563	5	0	Black (5 Suits)	2020-10-22 — 04:28:52 UTC	Bonja97, IAMJEFF, kimbifille, pianoblook, piper	18	5	25
 325545	5	0	Black (5 Suits)	2020-10-22 — 04:09:02 UTC	Bonja97, IAMJEFF, kimbifille, pianoblook, piper	17	5	25
 325536	5	0	Black (5 Suits)	2020-10-22 — 03:59:35 UTC	Bonja97, IAMJEFF, kimbifille, pianoblook, piper	20	5	25
 324767	3	0	White (5 Suits)	2020-10-21 — 00:36:21 UTC	Bonja97, cardshark45, Slonimsky	17	5	25
-324126	4	22	No Variant	2020-10-20 — 01:19:48 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	54	5	25
-324072	4	25	No Variant	2020-10-20 — 00:12:30 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	53	5	25
+324126	4	22	No Variant	2020-10-20 — 01:19:48 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	56	5	25
+324072	4	25	No Variant	2020-10-20 — 00:12:30 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	55	5	25
 323736	4	0	Light Pink (5 Suits)	2020-10-19 — 16:23:03 UTC	Bonja97, Pablo-, swineherd, Wittvector	9	5	25
 323730	4	0	Light Pink (5 Suits)	2020-10-19 — 16:09:11 UTC	Bonja97, Pablo-, swineherd, Wittvector	12	5	25
 323724	6	27	Black (6 Suits)	2020-10-19 — 15:58:59 UTC	Bonja97, MarkusKahlsen, Pablo-, swineherd, Wittvector, Zakisan	28	6	30
 323712	3	24	Rainbow & Dark Brown (5 Suits)	2020-10-19 — 15:31:48 UTC	Bonja97, MarkusKahlsen, Zakisan	7	5	25
 323361	3	25	White (5 Suits)	2020-10-19 — 00:53:25 UTC	Bonja97, cardshark45, Slonimsky	23	5	25
-323172	4	27	Duck (6 Suits)	2020-10-18 — 21:36:26 UTC	Bonja97, lotem, MarkusKahlsen, Puzzle	7	6	30
-323116	4	0	Duck (6 Suits)	2020-10-18 — 20:46:16 UTC	Bonja97, lotem, MarkusKahlsen, Puzzle	9	6	30
-323087	5	24	Rainbow & White (5 Suits)	2020-10-18 — 20:09:33 UTC	Bonja97, ebin_noob, lotem, micerang, Puzzle	10	5	25
-322569	3	0	White (5 Suits)	2020-10-18 — 01:26:51 UTC	Bonja97, cardshark45, Slonimsky	29	5	25
-322551	3	22	White (5 Suits)	2020-10-18 — 01:03:43 UTC	Bonja97, cardshark45, Slonimsky	29	5	25
-322526	3	0	White (5 Suits)	2020-10-18 — 00:22:08 UTC	Bonja97, cardshark45, Slonimsky	35	5	25
-322522	3	0	White (5 Suits)	2020-10-18 — 00:03:59 UTC	Bonja97, cardshark45, Slonimsky	41	5	25
-321908	3	25	White (5 Suits)	2020-10-17 — 01:53:24 UTC	Bonja97, cardshark45, Slonimsky	48	5	25
-321878	3	25	No Variant	2020-10-17 — 00:57:02 UTC	Bonja97, cardshark45, Slonimsky	68	5	25
-321845	3	0	No Variant	2020-10-17 — 00:15:16 UTC	Bonja97, cardshark45, Slonimsky	71	5	25
-321814	3	23	No Variant	2020-10-16 — 23:37:05 UTC	Bonja97, cardshark45, Slonimsky	71	5	25
+323172	4	27	Duck (6 Suits)	2020-10-18 — 21:36:26 UTC	Bonja97, lotem, MarkusKahlsen, Puzzle	8	6	30
+323116	4	0	Duck (6 Suits)	2020-10-18 — 20:46:16 UTC	Bonja97, lotem, MarkusKahlsen, Puzzle	10	6	30
+323087	5	24	Rainbow & White (5 Suits)	2020-10-18 — 20:09:33 UTC	Bonja97, ebin_noob, lotem, micerang, Puzzle	11	5	25
+322569	3	0	White (5 Suits)	2020-10-18 — 01:26:51 UTC	Bonja97, cardshark45, Slonimsky	30	5	25
+322551	3	22	White (5 Suits)	2020-10-18 — 01:03:43 UTC	Bonja97, cardshark45, Slonimsky	30	5	25
+322526	3	0	White (5 Suits)	2020-10-18 — 00:22:08 UTC	Bonja97, cardshark45, Slonimsky	37	5	25
+322522	3	0	White (5 Suits)	2020-10-18 — 00:03:59 UTC	Bonja97, cardshark45, Slonimsky	44	5	25
+321908	3	25	White (5 Suits)	2020-10-17 — 01:53:24 UTC	Bonja97, cardshark45, Slonimsky	52	5	25
+321878	3	25	No Variant	2020-10-17 — 00:57:02 UTC	Bonja97, cardshark45, Slonimsky	72	5	25
+321845	3	0	No Variant	2020-10-17 — 00:15:16 UTC	Bonja97, cardshark45, Slonimsky	74	5	25
+321814	3	23	No Variant	2020-10-16 — 23:37:05 UTC	Bonja97, cardshark45, Slonimsky	73	5	25
 321554	5	0	Pink & Omni (6 Suits)	2020-10-16 — 15:43:19 UTC	Bonja97, Div, Kyle, TimeHoodie, Wittvector	3	6	30
-321309	3	24	No Variant	2020-10-16 — 01:55:49 UTC	Bonja97, cardshark45, Slonimsky	69	5	25
-321261	3	25	No Variant	2020-10-16 — 00:57:52 UTC	Bonja97, cardshark45, Slonimsky	74	5	25
-321238	3	0	No Variant	2020-10-16 — 00:16:33 UTC	Bonja97, cardshark45, Slonimsky	78	5	25
-321222	3	0	No Variant	2020-10-15 — 23:58:53 UTC	Bonja97, cardshark45, Slonimsky	77	5	25
+321309	3	24	No Variant	2020-10-16 — 01:55:49 UTC	Bonja97, cardshark45, Slonimsky	72	5	25
+321261	3	25	No Variant	2020-10-16 — 00:57:52 UTC	Bonja97, cardshark45, Slonimsky	75	5	25
+321238	3	0	No Variant	2020-10-16 — 00:16:33 UTC	Bonja97, cardshark45, Slonimsky	79	5	25
+321222	3	0	No Variant	2020-10-15 — 23:58:53 UTC	Bonja97, cardshark45, Slonimsky	78	5	25
 321194	4	0	Cocoa Rainbow (6 Suits)	2020-10-15 — 23:20:05 UTC	Bonja97, DMoney, newduke, Puzzle	7	6	30
 321185	4	0	Cocoa Rainbow (6 Suits)	2020-10-15 — 23:08:05 UTC	Bonja97, DMoney, newduke, Puzzle	7	6	30
 321173	4	0	Cocoa Rainbow (6 Suits)	2020-10-15 — 22:54:28 UTC	Bonja97, DMoney, newduke, Puzzle	7	6	30
-321168	3	30	Brown (6 Suits)	2020-10-15 — 22:42:35 UTC	Bonja97, Puzzle, will.i.am	40	6	30
-320921	3	30	Light Pink & Prism (6 Suits)	2020-10-15 — 16:41:08 UTC	Bonja97, TheDaniMan, Veexliat	1	6	30
+321168	3	30	Brown (6 Suits)	2020-10-15 — 22:42:35 UTC	Bonja97, Puzzle, will.i.am	41	6	30
+320921	3	30	Light Pink & Prism (6 Suits)	2020-10-15 — 16:41:08 UTC	Bonja97, TheDaniMan, Veexliat	2	6	30
 320906	3	25	Light Pink & Prism (5 Suits)	2020-10-15 — 16:14:20 UTC	Bonja97, TheDaniMan, Veexliat	5	5	25
 320893	3	25	Pink & Prism (5 Suits)	2020-10-15 — 15:51:29 UTC	Bonja97, TheDaniMan, Veexliat	1	5	25
 320881	5	17	Rainbow (4 Suits)	2020-10-15 — 15:30:25 UTC	Bonja97, Fey, kimbifille, TimeHoodie, will.i.am	9	4	20
-320877	2	25	Rainbow (5 Suits)	2020-10-15 — 15:20:23 UTC	Bonja97, kimbifille	129	5	25
-320465	3	24	No Variant	2020-10-14 — 23:30:23 UTC	Bonja97, cardshark45, Slonimsky	77	5	25
-320452	4	23	No Variant	2020-10-14 — 23:01:26 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	55	5	25
-319543	3	25	No Variant	2020-10-13 — 16:37:27 UTC	Bonja97, cardshark45, Slonimsky	77	5	25
-319522	3	0	No Variant	2020-10-13 — 16:03:37 UTC	Bonja97, cardshark45, Slonimsky	76	5	25
-319508	3	0	No Variant	2020-10-13 — 15:50:50 UTC	Bonja97, cardshark45, Slonimsky	77	5	25
-319498	3	0	No Variant	2020-10-13 — 15:38:20 UTC	Bonja97, cardshark45, Slonimsky	82	5	25
-319480	2	0	6 Suits	2020-10-13 — 14:13:44 UTC	Bonja97, TimeHoodie	505	6	30
-319479	2	0	6 Suits	2020-10-13 — 14:04:29 UTC	Bonja97, TimeHoodie	593	6	30
-319474	3	0	White & Cocoa Rainbow (6 Suits)	2020-10-13 — 13:48:28 UTC	Bonja97, kimbifille, TimeHoodie	2	6	30
-318807	3	25	No Variant	2020-10-12 — 16:34:50 UTC	Bonja97, cardshark45, Slonimsky	93	5	25
-318794	3	0	No Variant	2020-10-12 — 15:48:05 UTC	Bonja97, cardshark45, Slonimsky	101	5	25
-318193	3	24	No Variant	2020-10-11 — 18:58:34 UTC	Bonja97, cardshark45, Slonimsky	98	5	25
-318180	3	24	No Variant	2020-10-11 — 18:08:45 UTC	Bonja97, cardshark45, Slonimsky	100	5	25
+320877	2	25	Rainbow (5 Suits)	2020-10-15 — 15:20:23 UTC	Bonja97, kimbifille	134	5	25
+320465	3	24	No Variant	2020-10-14 — 23:30:23 UTC	Bonja97, cardshark45, Slonimsky	78	5	25
+320452	4	23	No Variant	2020-10-14 — 23:01:26 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	56	5	25
+319543	3	25	No Variant	2020-10-13 — 16:37:27 UTC	Bonja97, cardshark45, Slonimsky	79	5	25
+319522	3	0	No Variant	2020-10-13 — 16:03:37 UTC	Bonja97, cardshark45, Slonimsky	77	5	25
+319508	3	0	No Variant	2020-10-13 — 15:50:50 UTC	Bonja97, cardshark45, Slonimsky	78	5	25
+319498	3	0	No Variant	2020-10-13 — 15:38:20 UTC	Bonja97, cardshark45, Slonimsky	84	5	25
+319480	2	0	6 Suits	2020-10-13 — 14:13:44 UTC	Bonja97, TimeHoodie	513	6	30
+319479	2	0	6 Suits	2020-10-13 — 14:04:29 UTC	Bonja97, TimeHoodie	601	6	30
+319474	3	0	White & Cocoa Rainbow (6 Suits)	2020-10-13 — 13:48:28 UTC	Bonja97, kimbifille, TimeHoodie	3	6	30
+318807	3	25	No Variant	2020-10-12 — 16:34:50 UTC	Bonja97, cardshark45, Slonimsky	95	5	25
+318794	3	0	No Variant	2020-10-12 — 15:48:05 UTC	Bonja97, cardshark45, Slonimsky	103	5	25
+318193	3	24	No Variant	2020-10-11 — 18:58:34 UTC	Bonja97, cardshark45, Slonimsky	102	5	25
+318180	3	24	No Variant	2020-10-11 — 18:08:45 UTC	Bonja97, cardshark45, Slonimsky	103	5	25
 318120	4	23	Light Pink (5 Suits)	2020-10-11 — 15:10:51 UTC	Bonja97, Hapotata, IsabeltheCat, lotem	20	5	25
 318114	5	25	Brown (5 Suits)	2020-10-11 — 14:37:07 UTC	Bonja97, Hapotata, lotem, rachyrules, sephiroth	15	5	25
-318103	3	24	Black (5 Suits)	2020-10-11 — 13:41:32 UTC	Bonja97, cockdestroyer, VerySloppyTwo	171	5	25
+318103	3	24	Black (5 Suits)	2020-10-11 — 13:41:32 UTC	Bonja97, cockdestroyer, VerySloppyTwo	174	5	25
 317737	3	30	Omni (6 Suits)	2020-10-11 — 01:37:45 UTC	Bonja97, honzas, swineherd	70	6	30
 317708	4	30	Light Pink (6 Suits)	2020-10-11 — 01:02:04 UTC	Bonja97, sephiroth, StKildaFan, swineherd	19	6	30
 317679	3	20	Light Pink (4 Suits)	2020-10-11 — 00:32:39 UTC	Bonja97, rachyrules, sephiroth	12	4	20
 317665	5	0	Cocoa Rainbow (6 Suits)	2020-10-11 — 00:12:24 UTC	Bonja97, ejwu, micerang, rachyrules, timotree	6	6	30
 317655	5	0	Cocoa Rainbow (6 Suits)	2020-10-10 — 23:58:05 UTC	Bonja97, ejwu, micerang, rachyrules, timotree	7	6	30
-317353	3	22	No Variant	2020-10-10 — 16:08:37 UTC	Bonja97, cardshark45, Slonimsky	102	5	25
-317333	3	0	No Variant	2020-10-10 — 15:10:27 UTC	Bonja97, cardshark45, Slonimsky	106	5	25
-316890	3	23	No Variant	2020-10-10 — 00:34:05 UTC	Bonja97, cardshark45, Slonimsky	110	5	25
-316857	3	25	No Variant	2020-10-09 — 23:46:13 UTC	Bonja97, cardshark45, Slonimsky	112	5	25
-316819	3	0	No Variant	2020-10-09 — 23:05:56 UTC	Bonja97, cardshark45, Slonimsky	111	5	25
-316791	3	0	No Variant	2020-10-09 — 22:38:01 UTC	Bonja97, cardshark45, Slonimsky	114	5	25
-315700	3	0	6 Suits	2020-10-08 — 06:32:06 UTC	Bonja97, derekcheah, pianoblook	99	6	30
-315679	3	0	6 Suits	2020-10-08 — 05:56:07 UTC	Bonja97, derekcheah, pianoblook	112	6	30
-315661	3	0	6 Suits	2020-10-08 — 05:33:35 UTC	Bonja97, derekcheah, pianoblook	126	6	30
-315652	3	0	6 Suits	2020-10-08 — 05:20:53 UTC	Bonja97, derekcheah, pianoblook	132	6	30
+317353	3	22	No Variant	2020-10-10 — 16:08:37 UTC	Bonja97, cardshark45, Slonimsky	107	5	25
+317333	3	0	No Variant	2020-10-10 — 15:10:27 UTC	Bonja97, cardshark45, Slonimsky	111	5	25
+316890	3	23	No Variant	2020-10-10 — 00:34:05 UTC	Bonja97, cardshark45, Slonimsky	114	5	25
+316857	3	25	No Variant	2020-10-09 — 23:46:13 UTC	Bonja97, cardshark45, Slonimsky	116	5	25
+316819	3	0	No Variant	2020-10-09 — 23:05:56 UTC	Bonja97, cardshark45, Slonimsky	116	5	25
+316791	3	0	No Variant	2020-10-09 — 22:38:01 UTC	Bonja97, cardshark45, Slonimsky	120	5	25
+315700	3	0	6 Suits	2020-10-08 — 06:32:06 UTC	Bonja97, derekcheah, pianoblook	100	6	30
+315679	3	0	6 Suits	2020-10-08 — 05:56:07 UTC	Bonja97, derekcheah, pianoblook	113	6	30
+315661	3	0	6 Suits	2020-10-08 — 05:33:35 UTC	Bonja97, derekcheah, pianoblook	128	6	30
+315652	3	0	6 Suits	2020-10-08 — 05:20:53 UTC	Bonja97, derekcheah, pianoblook	133	6	30
 315639	4	0	Gray (6 Suits)	2020-10-08 — 04:57:34 UTC	Bonja97, derekcheah, parrotdoxair, pianoblook	10	6	30
-315607	4	28	Ambiguous Mix	2020-10-08 — 04:29:10 UTC	Bonja97, derekcheah, pianoblook, scharkbite	18	6	30
-315444	3	25	No Variant	2020-10-08 — 01:48:52 UTC	Bonja97, cardshark45, Slonimsky	119	5	25
-315396	3	25	No Variant	2020-10-08 — 00:58:19 UTC	Bonja97, cardshark45, Ultraling	121	5	25
+315607	4	28	Ambiguous Mix	2020-10-08 — 04:29:10 UTC	Bonja97, derekcheah, pianoblook, scharkbite	19	6	30
+315444	3	25	No Variant	2020-10-08 — 01:48:52 UTC	Bonja97, cardshark45, Slonimsky	126	5	25
+315396	3	25	No Variant	2020-10-08 — 00:58:19 UTC	Bonja97, cardshark45, Ultraling	127	5	25
 314990	4	0	Prism (6 Suits)	2020-10-07 — 16:42:24 UTC	Bonja97, pianoblook, swineherd, vEnhance	35	6	30
 314973	4	29	Prism (6 Suits)	2020-10-07 — 16:11:53 UTC	Bonja97, pianoblook, swineherd, vEnhance	53	6	30
-314967	4	25	Prism (5 Suits)	2020-10-07 — 15:34:38 UTC	Bonja97, cockdestroyer, honzas, micerang	47	5	25
+314967	4	25	Prism (5 Suits)	2020-10-07 — 15:34:38 UTC	Bonja97, cockdestroyer, honzas, micerang	48	5	25
 314957	5	25	Prism (5 Suits)	2020-10-07 — 15:06:12 UTC	Bonja97, cockdestroyer, Floriman, honzas, micerang	8	5	25
 314949	5	0	Brown (6 Suits)	2020-10-07 — 14:41:57 UTC	Bonja97, cockdestroyer, Floriman, jack67889, swineherd	12	6	30
 314924	6	28	Dark Prism (6 Suits)	2020-10-07 — 14:03:03 UTC	Bonja97, cockdestroyer, Floriman, jack67889, Nitrate2, StKildaFan	4	6	30
 314898	4	24	Black (5 Suits)	2020-10-07 — 13:22:27 UTC	asaelr, Bonja97, cockdestroyer, jack67889	3	5	25
-314592	4	0	No Variant	2020-10-07 — 00:53:07 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	55	5	25
+314592	4	0	No Variant	2020-10-07 — 00:53:07 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	56	5	25
 314280	5	28	Prism (6 Suits)	2020-10-06 — 15:07:32 UTC	Bonja97, cockdestroyer, Kyle, Nitrate2, Sucubis	10	6	30
-314272	5	0	Prism (6 Suits)	2020-10-06 — 14:24:55 UTC	Bonja97, cockdestroyer, jack67889, melwen, Nitrate2	17	6	30
+314272	5	0	Prism (6 Suits)	2020-10-06 — 14:24:55 UTC	Bonja97, cockdestroyer, jack67889, melwen, Nitrate2	18	6	30
 314262	6	25	Brown (5 Suits)	2020-10-06 — 13:51:32 UTC	Bonja97, cockdestroyer, jack67889, melwen, Nitrate2, TheDaniMan	2	5	25
-314252	4	30	Dark Pink (6 Suits)	2020-10-06 — 13:17:01 UTC	Bonja97, cockdestroyer, jack67889, TheDaniMan	7	6	30
-314243	4	0	Dark Pink (6 Suits)	2020-10-06 — 12:57:20 UTC	Bonja97, cockdestroyer, jack67889, TheDaniMan	11	6	30
+314252	4	30	Dark Pink (6 Suits)	2020-10-06 — 13:17:01 UTC	Bonja97, cockdestroyer, jack67889, TheDaniMan	8	6	30
+314243	4	0	Dark Pink (6 Suits)	2020-10-06 — 12:57:20 UTC	Bonja97, cockdestroyer, jack67889, TheDaniMan	12	6	30
 313968	4	0	White-Ones & Prism (6 Suits)	2020-10-06 — 02:32:29 UTC	Bonja97, melwen, pianoblook, StKildaFan	3	6	30
 313935	5	29	Prism (6 Suits)	2020-10-06 — 01:54:59 UTC	Bonja97, melwen, orucsoraihc, pianoblook, StKildaFan	24	6	30
-313904	3	24	No Variant	2020-10-06 — 01:06:42 UTC	Bonja97, cardshark45, Slonimsky	125	5	25
-313877	3	24	No Variant	2020-10-06 — 00:18:55 UTC	Bonja97, cardshark45, Slonimsky	130	5	25
-313846	4	20	No Variant	2020-10-05 — 23:33:46 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	54	5	25
+313904	3	24	No Variant	2020-10-06 — 01:06:42 UTC	Bonja97, cardshark45, Slonimsky	129	5	25
+313877	3	24	No Variant	2020-10-06 — 00:18:55 UTC	Bonja97, cardshark45, Slonimsky	135	5	25
+313846	4	20	No Variant	2020-10-05 — 23:33:46 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	55	5	25
 313161	4	25	No Variant	2020-10-05 — 01:45:03 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	57	5	25
 313113	4	24	No Variant	2020-10-05 — 00:53:08 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	60	5	25
-313089	5	24	No Variant	2020-10-05 — 00:01:35 UTC	Bonja97, cardshark45, Sipsey, Slonimsky, Ultraling	67	5	25
+313089	5	24	No Variant	2020-10-05 — 00:01:35 UTC	Bonja97, cardshark45, Sipsey, Slonimsky, Ultraling	68	5	25
 312778	5	30	Light Pink (6 Suits)	2020-10-04 — 15:46:34 UTC	Bonja97, cockdestroyer, Kyle, sephiroth, TheDaniMan	7	6	30
 312770	6	25	No Variant	2020-10-04 — 15:15:50 UTC	Bonja97, cockdestroyer, Kyle, Nitrate2, sephiroth, TheDaniMan	1	5	25
 312765	4	24	No Variant	2020-10-04 — 14:46:06 UTC	Bonja97, cockdestroyer, Nitrate2, sephiroth	61	5	25
-312453	3	0	No Variant	2020-10-04 — 02:00:22 UTC	Bonja97, cardshark45, Slonimsky	137	5	25
-312386	4	0	No Variant	2020-10-04 — 01:18:15 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	59	5	25
-312337	3	21	No Variant	2020-10-04 — 00:27:31 UTC	Bonja97, cardshark45, Slonimsky	141	5	25
-311538	3	0	No Variant	2020-10-03 — 02:10:23 UTC	Bonja97, cardshark45, Slonimsky	148	5	25
-311490	3	0	No Variant	2020-10-03 — 01:32:36 UTC	Bonja97, cardshark45, Slonimsky	154	5	25
-311453	3	24	No Variant	2020-10-03 — 00:58:09 UTC	Bonja97, cardshark45, Slonimsky	151	5	25
-310718	3	22	No Variant	2020-10-02 — 00:07:30 UTC	Bonja97, cardshark45, Slonimsky	156	5	25
-310705	4	24	No Variant	2020-10-01 — 23:32:59 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	63	5	25
+312453	3	0	No Variant	2020-10-04 — 02:00:22 UTC	Bonja97, cardshark45, Slonimsky	142	5	25
+312386	4	0	No Variant	2020-10-04 — 01:18:15 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	60	5	25
+312337	3	21	No Variant	2020-10-04 — 00:27:31 UTC	Bonja97, cardshark45, Slonimsky	145	5	25
+311538	3	0	No Variant	2020-10-03 — 02:10:23 UTC	Bonja97, cardshark45, Slonimsky	149	5	25
+311490	3	0	No Variant	2020-10-03 — 01:32:36 UTC	Bonja97, cardshark45, Slonimsky	157	5	25
+311453	3	24	No Variant	2020-10-03 — 00:58:09 UTC	Bonja97, cardshark45, Slonimsky	153	5	25
+310718	3	22	No Variant	2020-10-02 — 00:07:30 UTC	Bonja97, cardshark45, Slonimsky	158	5	25
+310705	4	24	No Variant	2020-10-01 — 23:32:59 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	64	5	25
 310584	3	0	Pink & Dark Prism (5 Suits)	2020-10-01 — 19:33:40 UTC	Bonja97, newduke, will.i.am	1	5	25
 310576	3	0	Pink & Dark Prism (5 Suits)	2020-10-01 — 19:14:18 UTC	Bonja97, Fey, will.i.am	1	5	25
 310570	3	0	Pink & Dark Prism (5 Suits)	2020-10-01 — 18:59:31 UTC	Bonja97, Fey, will.i.am	1	5	25
-310034	3	24	No Variant	2020-10-01 — 00:47:53 UTC	Bonja97, cardshark45, Slonimsky	167	5	25
-309711	5	30	White (6 Suits)	2020-09-30 — 16:41:41 UTC	Bonja97, jeff10, nitawa, swineherd, timotree	27	6	30
+310034	3	24	No Variant	2020-10-01 — 00:47:53 UTC	Bonja97, cardshark45, Slonimsky	170	5	25
+309711	5	30	White (6 Suits)	2020-09-30 — 16:41:41 UTC	Bonja97, jeff10, nitawa, swineherd, timotree	28	6	30
 309696	6	25	No Variant	2020-09-30 — 16:08:26 UTC	Bonja97, cockdestroyer, Hapotata, nitawa, Nitrate2, swineherd	18	5	25
 309686	5	0	No Variant	2020-09-30 — 15:46:28 UTC	Bonja97, cockdestroyer, nitawa, Nitrate2, swineherd	23	5	25
-309420	2	0	No Variant	2020-09-30 — 02:01:23 UTC	Bonja97, cockdestroyer	1840	5	25
-309417	2	0	No Variant	2020-09-30 — 01:59:22 UTC	Bonja97, cockdestroyer	1952	5	25
-309416	2	0	No Variant	2020-09-30 — 01:58:50 UTC	Bonja97, cockdestroyer	2147	5	25
-309415	2	0	No Variant	2020-09-30 — 01:58:01 UTC	Bonja97, cockdestroyer	2288	5	25
-309414	2	0	No Variant	2020-09-30 — 01:56:53 UTC	Bonja97, cockdestroyer	2532	5	25
-309413	2	0	No Variant	2020-09-30 — 01:56:12 UTC	Bonja97, cockdestroyer	2750	5	25
-309404	3	23	No Variant	2020-09-30 — 01:40:57 UTC	Bonja97, cardshark45, Slonimsky	164	5	25
+309420	2	0	No Variant	2020-09-30 — 02:01:23 UTC	Bonja97, cockdestroyer	1856	5	25
+309417	2	0	No Variant	2020-09-30 — 01:59:22 UTC	Bonja97, cockdestroyer	1966	5	25
+309416	2	0	No Variant	2020-09-30 — 01:58:50 UTC	Bonja97, cockdestroyer	2166	5	25
+309415	2	0	No Variant	2020-09-30 — 01:58:01 UTC	Bonja97, cockdestroyer	2307	5	25
+309414	2	0	No Variant	2020-09-30 — 01:56:53 UTC	Bonja97, cockdestroyer	2552	5	25
+309413	2	0	No Variant	2020-09-30 — 01:56:12 UTC	Bonja97, cockdestroyer	2772	5	25
+309404	3	23	No Variant	2020-09-30 — 01:40:57 UTC	Bonja97, cardshark45, Slonimsky	167	5	25
 308781	4	24	No Variant	2020-09-29 — 02:01:42 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	64	5	25
-308746	4	0	No Variant	2020-09-29 — 01:26:03 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	64	5	25
-308719	4	0	No Variant	2020-09-29 — 00:54:24 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	70	5	25
+308746	4	0	No Variant	2020-09-29 — 01:26:03 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	65	5	25
+308719	4	0	No Variant	2020-09-29 — 00:54:24 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	71	5	25
 308686	5	25	No Variant	2020-09-29 — 00:10:26 UTC	Bonja97, cardshark45, Sipsey, Slonimsky, Ultraling	75	5	25
 306917	4	21	No Variant	2020-09-26 — 17:15:08 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	70	5	25
-306899	4	25	No Variant	2020-09-26 — 16:17:15 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	68	5	25
+306899	4	25	No Variant	2020-09-26 — 16:17:15 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	69	5	25
 306878	4	25	No Variant	2020-09-26 — 15:15:06 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	71	5	25
 306855	5	23	Dark Pink (5 Suits)	2020-09-26 — 13:27:27 UTC	Bonja97, melwen, postmans, robense, sephiroth	3	5	25
 306846	5	0	Dark Pink (5 Suits)	2020-09-26 — 13:04:02 UTC	Bonja97, melwen, postmans, robense, sephiroth	3	5	25
 306832	5	0	Dark Pink (5 Suits)	2020-09-26 — 12:43:35 UTC	Bonja97, melwen, postmans, robense, sephiroth	3	5	25
-306828	5	25	No Variant	2020-09-26 — 12:23:32 UTC	Bonja97, catula, CoxZuckrMachine, nitawa, rachyrules	77	5	25
+306828	5	25	No Variant	2020-09-26 — 12:23:32 UTC	Bonja97, catula, CoxZuckrMachine, nitawa, rachyrules	78	5	25
 305691	4	24	No Variant	2020-09-25 — 00:54:43 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	74	5	25
-305666	3	0	No Variant	2020-09-24 — 23:59:18 UTC	Bonja97, Slonimsky, Ultraling	170	5	25
-305660	3	0	No Variant	2020-09-24 — 23:40:14 UTC	Bonja97, Slonimsky, Ultraling	175	5	25
-305655	4	25	No Variant	2020-09-24 — 23:25:03 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	74	5	25
-305029	4	22	No Variant	2020-09-24 — 02:02:14 UTC	Bonja97, cardshark45, Slonimsky, timotree	78	5	25
-304990	4	25	No Variant	2020-09-24 — 01:12:32 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	82	5	25
-304398	4	25	No Variant	2020-09-23 — 02:13:47 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	79	5	25
-304361	4	23	No Variant	2020-09-23 — 01:18:44 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	81	5	25
-303981	6	25	No Variant	2020-09-22 — 13:53:25 UTC	Animex52, Bonja97, catula, cockdestroyer, rachyrules, StKildaFan	179	5	25
-303975	5	22	No Variant	2020-09-22 — 13:09:12 UTC	Animex52, Bonja97, catula, cockdestroyer, StKildaFan	31	5	25
+305666	3	0	No Variant	2020-09-24 — 23:59:18 UTC	Bonja97, Slonimsky, Ultraling	173	5	25
+305660	3	0	No Variant	2020-09-24 — 23:40:14 UTC	Bonja97, Slonimsky, Ultraling	176	5	25
+305655	4	25	No Variant	2020-09-24 — 23:25:03 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	75	5	25
+305029	4	22	No Variant	2020-09-24 — 02:02:14 UTC	Bonja97, cardshark45, Slonimsky, timotree	79	5	25
+304990	4	25	No Variant	2020-09-24 — 01:12:32 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	84	5	25
+304398	4	25	No Variant	2020-09-23 — 02:13:47 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	81	5	25
+304361	4	23	No Variant	2020-09-23 — 01:18:44 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	84	5	25
+303981	6	25	No Variant	2020-09-22 — 13:53:25 UTC	Animex52, Bonja97, catula, cockdestroyer, rachyrules, StKildaFan	181	5	25
+303975	5	22	No Variant	2020-09-22 — 13:09:12 UTC	Animex52, Bonja97, catula, cockdestroyer, StKildaFan	32	5	25
 303968	6	0	No Variant	2020-09-22 — 12:47:33 UTC	Animex52, Bonja97, catula, cockdestroyer, sephiroth, StKildaFan	10	5	25
-303703	4	24	No Variant	2020-09-22 — 02:07:10 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	88	5	25
-303668	4	22	No Variant	2020-09-22 — 01:16:34 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	95	5	25
-303651	4	0	No Variant	2020-09-22 — 00:40:52 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	95	5	25
-303637	5	23	No Variant	2020-09-22 — 00:10:42 UTC	Bonja97, cardshark45, Sipsey, Slonimsky, Ultraling	81	5	25
-302270	5	24	No Variant	2020-09-20 — 11:31:32 UTC	Bonja97, catula, cockdestroyer, Fireheart, orucsoraihc	80	5	25
-302264	5	0	No Variant	2020-09-20 — 11:03:44 UTC	Bonja97, catula, cockdestroyer, Fireheart, orucsoraihc	92	5	25
-300327	5	20	No Variant	2020-09-17 — 23:29:49 UTC	Bonja97, cardshark45, dhruvpillai6, Slonimsky, Ultraling	100	5	25
-300311	5	0	No Variant	2020-09-17 — 23:04:47 UTC	Bonja97, cardshark45, dhruvpillai6, Slonimsky, Ultraling	109	5	25
+303703	4	24	No Variant	2020-09-22 — 02:07:10 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	90	5	25
+303668	4	22	No Variant	2020-09-22 — 01:16:34 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	98	5	25
+303651	4	0	No Variant	2020-09-22 — 00:40:52 UTC	Bonja97, cardshark45, Sipsey, Slonimsky	98	5	25
+303637	5	23	No Variant	2020-09-22 — 00:10:42 UTC	Bonja97, cardshark45, Sipsey, Slonimsky, Ultraling	82	5	25
+302270	5	24	No Variant	2020-09-20 — 11:31:32 UTC	Bonja97, catula, cockdestroyer, Fireheart, orucsoraihc	81	5	25
+302264	5	0	No Variant	2020-09-20 — 11:03:44 UTC	Bonja97, catula, cockdestroyer, Fireheart, orucsoraihc	93	5	25
+300327	5	20	No Variant	2020-09-17 — 23:29:49 UTC	Bonja97, cardshark45, dhruvpillai6, Slonimsky, Ultraling	102	5	25
+300311	5	0	No Variant	2020-09-17 — 23:04:47 UTC	Bonja97, cardshark45, dhruvpillai6, Slonimsky, Ultraling	112	5	25
 299626	4	25	White-Fives (5 Suits)	2020-09-17 — 12:59:32 UTC	Bonja97, cockdestroyer, Pablo-, sephiroth	8	5	25
-299623	3	0	Rainbow (6 Suits)	2020-09-17 — 12:29:49 UTC	Bonja97, cockdestroyer, sephiroth	396	6	30
-299618	4	17	Rainbow (4 Suits)	2020-09-17 — 11:59:36 UTC	Bonja97, catula, cockdestroyer, Pablo-	32	4	20
+299623	3	0	Rainbow (6 Suits)	2020-09-17 — 12:29:49 UTC	Bonja97, cockdestroyer, sephiroth	404	6	30
+299618	4	17	Rainbow (4 Suits)	2020-09-17 — 11:59:36 UTC	Bonja97, catula, cockdestroyer, Pablo-	33	4	20
 299611	3	0	Black (5 Suits)	2020-09-17 — 11:32:36 UTC	Bonja97, cockdestroyer, Pablo-	55	5	25
-299188	4	0	No Variant	2020-09-16 — 23:19:32 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	97	5	25
+299188	4	0	No Variant	2020-09-16 — 23:19:32 UTC	Bonja97, cardshark45, Slonimsky, Ultraling	98	5	25
 298988	5	20	Black (5 Suits)	2020-09-16 — 20:22:38 UTC	Bonja97, postmans, scharkbite, TimeHoodie, will.i.am	4	5	25
-298978	5	0	Black (5 Suits)	2020-09-16 — 20:03:42 UTC	Bonja97, postmans, scharkbite, TimeHoodie, will.i.am	4	5	25
+298978	5	0	Black (5 Suits)	2020-09-16 — 20:03:42 UTC	Bonja97, postmans, scharkbite, TimeHoodie, will.i.am	5	5	25
 298976	5	0	Black (5 Suits)	2020-09-16 — 19:58:31 UTC	Bonja97, postmans, scharkbite, TimeHoodie, will.i.am	5	5	25
 298968	5	0	Black (5 Suits)	2020-09-16 — 19:47:46 UTC	Bonja97, postmans, scharkbite, TimeHoodie, will.i.am	12	5	25
 298957	4	29	Omni (6 Suits)	2020-09-16 — 19:21:16 UTC	Bonja97, postmans, TimeHoodie, will.i.am	33	6	30
-298803	4	20	White (4 Suits)	2020-09-16 — 13:41:08 UTC	Bonja97, MarkusKahlsen, sephiroth, TimeHoodie	20	4	20
-298801	4	24	No Variant	2020-09-16 — 13:13:44 UTC	Bonja97, catula, MarkusKahlsen, TimeHoodie	90	5	25
-298797	4	22	No Variant	2020-09-16 — 12:43:14 UTC	Bonja97, catula, chriswck, Feich59	103	5	25
-298539	5	17	No Variant	2020-09-16 — 01:10:14 UTC	Bonja97, cardshark45, Sipsey, Slonimsky, Ultraling	126	5	25
-298510	5	0	No Variant	2020-09-16 — 00:35:00 UTC	Bonja97, cardshark45, Sipsey, Slonimsky, Ultraling	163	5	25
-298499	5	22	No Variant	2020-09-16 — 00:09:26 UTC	Bonja97, cardshark45, Sipsey, Slonimsky, Ultraling	837	5	25
-298201	3	24	No Variant	2020-09-15 — 14:45:17 UTC	Bonja97, jack67889, TimeHoodie	187	5	25
-298194	4	25	No Variant	2020-09-15 — 14:13:14 UTC	Bonja97, jack67889, sephiroth, TimeHoodie	89	5	25
-297962	4	0	Gray (6 Suits)	2020-09-15 — 02:20:27 UTC	Bonja97, IsabeltheCat, pianoblook, swineherd	13	6	30
-297922	4	0	Gray (6 Suits)	2020-09-15 — 01:54:10 UTC	Bonja97, IsabeltheCat, pianoblook, swineherd	22	6	30
+298803	4	20	White (4 Suits)	2020-09-16 — 13:41:08 UTC	Bonja97, MarkusKahlsen, sephiroth, TimeHoodie	21	4	20
+298801	4	24	No Variant	2020-09-16 — 13:13:44 UTC	Bonja97, catula, MarkusKahlsen, TimeHoodie	92	5	25
+298797	4	22	No Variant	2020-09-16 — 12:43:14 UTC	Bonja97, catula, chriswck, Feich59	104	5	25
+298539	5	17	No Variant	2020-09-16 — 01:10:14 UTC	Bonja97, cardshark45, Sipsey, Slonimsky, Ultraling	127	5	25
+298510	5	0	No Variant	2020-09-16 — 00:35:00 UTC	Bonja97, cardshark45, Sipsey, Slonimsky, Ultraling	166	5	25
+298499	5	22	No Variant	2020-09-16 — 00:09:26 UTC	Bonja97, cardshark45, Sipsey, Slonimsky, Ultraling	845	5	25
+298201	3	24	No Variant	2020-09-15 — 14:45:17 UTC	Bonja97, jack67889, TimeHoodie	189	5	25
+298194	4	25	No Variant	2020-09-15 — 14:13:14 UTC	Bonja97, jack67889, sephiroth, TimeHoodie	91	5	25
+297962	4	0	Gray (6 Suits)	2020-09-15 — 02:20:27 UTC	Bonja97, IsabeltheCat, pianoblook, swineherd	14	6	30
+297922	4	0	Gray (6 Suits)	2020-09-15 — 01:54:10 UTC	Bonja97, IsabeltheCat, pianoblook, swineherd	23	6	30
 297475	6	0	No Variant	2020-09-14 — 15:14:59 UTC	bobfasul, Bonja97, cockdestroyer, MKQ, sephiroth, sin_faith	32	5	25
-297469	4	0	No Variant	2020-09-14 — 14:31:59 UTC	Bonja97, cockdestroyer, MKQ, sephiroth	99	5	25
+297469	4	0	No Variant	2020-09-14 — 14:31:59 UTC	Bonja97, cockdestroyer, MKQ, sephiroth	100	5	25
 297460	4	20	No Variant	2020-09-14 — 13:53:32 UTC	Bonja97, catula, cockdestroyer, sephiroth	129	5	25
-297446	3	23	No Variant	2020-09-14 — 13:07:40 UTC	Bonja97, cockdestroyer, sephiroth	157	5	25
-297442	5	21	No Variant	2020-09-14 — 12:38:50 UTC	Bonja97, chriswck, cockdestroyer, Nitrate2, sephiroth	35	5	25
-297437	3	0	No Variant	2020-09-14 — 12:05:33 UTC	Bonja97, sephiroth, umi	160	5	25
-297368	5	0	No Variant	2020-09-14 — 05:46:56 UTC	AnnaTheNerd, Bonja97, Flamehead90, orucsoraihc, StKildaFan	143	5	25
-297346	5	22	No Variant	2020-09-14 — 05:19:36 UTC	AnnaTheNerd, Bonja97, Flamehead90, orucsoraihc, StKildaFan	176	5	25
+297446	3	23	No Variant	2020-09-14 — 13:07:40 UTC	Bonja97, cockdestroyer, sephiroth	160	5	25
+297442	5	21	No Variant	2020-09-14 — 12:38:50 UTC	Bonja97, chriswck, cockdestroyer, Nitrate2, sephiroth	36	5	25
+297437	3	0	No Variant	2020-09-14 — 12:05:33 UTC	Bonja97, sephiroth, umi	163	5	25
+297368	5	0	No Variant	2020-09-14 — 05:46:56 UTC	AnnaTheNerd, Bonja97, Flamehead90, orucsoraihc, StKildaFan	145	5	25
+297346	5	22	No Variant	2020-09-14 — 05:19:36 UTC	AnnaTheNerd, Bonja97, Flamehead90, orucsoraihc, StKildaFan	178	5	25
 297321	4	0	Up or Down & Rainbow (6 Suits)	2020-09-14 — 04:52:42 UTC	Bonja97, newduke, TheDaniMan, vEnhance	12	6	30
 297294	4	0	Up or Down & Rainbow (6 Suits)	2020-09-14 — 04:26:00 UTC	Bonja97, newduke, TheDaniMan, vEnhance	11	6	30
 296754	6	30	White & Brown (6 Suits)	2020-09-13 — 17:42:03 UTC	Bonja97, Pablo-, sin_faith, swineherd, TheDaniMan, Veexliat	1	6	30
 296738	6	0	White & Brown (6 Suits)	2020-09-13 — 17:11:38 UTC	Bonja97, Pablo-, sin_faith, swineherd, TheDaniMan, Veexliat	1	6	30
 296731	4	0	White & Brown (6 Suits)	2020-09-13 — 17:00:03 UTC	Bonja97, Pablo-, swineherd, TheDaniMan	20	6	30
 296635	4	0	Black & Light Pink (6 Suits)	2020-09-13 — 10:07:04 UTC	Bonja97, Fireheart, joelwool, Pablo-	5	6	30
-296631	4	0	Black & Light Pink (6 Suits)	2020-09-13 — 09:51:40 UTC	Bonja97, Fireheart, joelwool, Pablo-	6	6	30
+296631	4	0	Black & Light Pink (6 Suits)	2020-09-13 — 09:51:40 UTC	Bonja97, Fireheart, joelwool, Pablo-	7	6	30
 296630	4	0	Black & Light Pink (6 Suits)	2020-09-13 — 09:48:52 UTC	Bonja97, Fireheart, joelwool, Pablo-	10	6	30
 296628	3	26	Black & Light Pink (6 Suits)	2020-09-13 — 09:36:13 UTC	Bonja97, Fireheart, Pablo-	10	6	30
 296626	3	0	Black & Light Pink (6 Suits)	2020-09-13 — 09:22:47 UTC	Bonja97, Fireheart, Pablo-	16	6	30
 296624	3	25	Black & Prism (5 Suits)	2020-09-13 — 09:14:50 UTC	Bonja97, Fireheart, Pablo-	12	5	25
 296621	3	0	Black & Prism (5 Suits)	2020-09-13 — 09:02:31 UTC	Bonja97, Fireheart, Pablo-	12	5	25
-296619	3	24	Black & Prism (5 Suits)	2020-09-13 — 08:42:22 UTC	Bonja97, Fireheart, Pablo-	14	5	25
-296368	5	18	No Variant	2020-09-13 — 01:23:14 UTC	Bonja97, cardshark45, Slonimsky, StKildaFan, Ultraling	195	5	25
-295868	5	0	No Variant	2020-09-12 — 16:28:39 UTC	Bonja97, cardshark45, Puzzle, Slonimsky, Ultraling	207	5	25
-295844	3	24	No Variant	2020-09-12 — 14:01:05 UTC	Bonja97, catula, melwen	50	5	25
-295822	3	25	Rainbow (5 Suits)	2020-09-12 — 12:48:10 UTC	Bonja97, chriswck, Kowalski1337	116	5	25
+296619	3	24	Black & Prism (5 Suits)	2020-09-13 — 08:42:22 UTC	Bonja97, Fireheart, Pablo-	15	5	25
+296368	5	18	No Variant	2020-09-13 — 01:23:14 UTC	Bonja97, cardshark45, Slonimsky, StKildaFan, Ultraling	198	5	25
+295868	5	0	No Variant	2020-09-12 — 16:28:39 UTC	Bonja97, cardshark45, Puzzle, Slonimsky, Ultraling	208	5	25
+295844	3	24	No Variant	2020-09-12 — 14:01:05 UTC	Bonja97, catula, melwen	51	5	25
+295822	3	25	Rainbow (5 Suits)	2020-09-12 — 12:48:10 UTC	Bonja97, chriswck, Kowalski1337	119	5	25
 295815	3	0	Rainbow (5 Suits)	2020-09-12 — 11:58:49 UTC	Bonja97, chriswck, Kowalski1337	135	5	25
-295314	4	0	No Variant	2020-09-12 — 02:31:09 UTC	Bonja97, parrotdoxair, Slonimsky, Ultraling	131	5	25
-295258	5	25	No Variant	2020-09-12 — 01:40:50 UTC	Bonja97, jeff10, Slonimsky, susanryan45, Ultraling	262	5	25
-295208	5	0	No Variant	2020-09-12 — 00:56:15 UTC	Bonja97, jeff10, Slonimsky, susanryan45, Ultraling	296	5	25
+295314	4	0	No Variant	2020-09-12 — 02:31:09 UTC	Bonja97, parrotdoxair, Slonimsky, Ultraling	132	5	25
+295258	5	25	No Variant	2020-09-12 — 01:40:50 UTC	Bonja97, jeff10, Slonimsky, susanryan45, Ultraling	265	5	25
+295208	5	0	No Variant	2020-09-12 — 00:56:15 UTC	Bonja97, jeff10, Slonimsky, susanryan45, Ultraling	302	5	25
 294915	4	19	Pink & White (4 Suits)	2020-09-11 — 18:36:37 UTC	Bonja97, plus, TheDaniMan, TimeHoodie	6	4	20
 294905	4	0	Pink & White (4 Suits)	2020-09-11 — 18:17:07 UTC	Bonja97, plus, TheDaniMan, TimeHoodie	9	4	20
 294356	3	20	Pink & Brown (4 Suits)	2020-09-10 — 22:22:48 UTC	Bonja97, lotem, plus	6	4	20
 294343	3	0	Pink & Brown (4 Suits)	2020-09-10 — 22:01:16 UTC	Bonja97, lotem, plus	12	4	20
-294317	3	23	Prism (5 Suits)	2020-09-10 — 21:45:21 UTC	Bonja97, lotem, plus	38	5	25
+294317	3	23	Prism (5 Suits)	2020-09-10 — 21:45:21 UTC	Bonja97, lotem, plus	39	5	25
 294292	3	15	Omni-Ones & Brown (3 Suits)	2020-09-10 — 21:20:04 UTC	Bonja97, lotem, plus	2	3	15
 294282	5	0	Cocoa Rainbow (6 Suits)	2020-09-10 — 21:06:06 UTC	ADrone, Bonja97, micerang, pianoblook, Zamiel	4	6	30
-294115	4	25	No Variant	2020-09-10 — 17:06:46 UTC	Bonja97, jack67889, Pepepe, Slonimsky	138	5	25
-294086	4	25	No Variant	2020-09-10 — 16:07:16 UTC	Bonja97, jack67889, Pepepe, Slonimsky	149	5	25
-293992	4	22	No Variant	2020-09-10 — 11:55:51 UTC	Bonja97, catula, jack67889, Kowalski1337	158	5	25
-293976	3	0	No Variant	2020-09-10 — 11:19:55 UTC	Bonja97, catula, jack67889	194	5	25
-293973	3	0	No Variant	2020-09-10 — 11:04:00 UTC	Bonja97, catula, jack67889	220	5	25
-293969	3	0	No Variant	2020-09-10 — 10:24:58 UTC	Bonja97, catula, jack67889	224	5	25
-293963	5	23	No Variant	2020-09-10 — 09:27:49 UTC	Bonja97, Nitrate2, rachyrules, Rubix, sephiroth	45	5	25
+294115	4	25	No Variant	2020-09-10 — 17:06:46 UTC	Bonja97, jack67889, Pepepe, Slonimsky	139	5	25
+294086	4	25	No Variant	2020-09-10 — 16:07:16 UTC	Bonja97, jack67889, Pepepe, Slonimsky	150	5	25
+293992	4	22	No Variant	2020-09-10 — 11:55:51 UTC	Bonja97, catula, jack67889, Kowalski1337	161	5	25
+293976	3	0	No Variant	2020-09-10 — 11:19:55 UTC	Bonja97, catula, jack67889	198	5	25
+293973	3	0	No Variant	2020-09-10 — 11:04:00 UTC	Bonja97, catula, jack67889	224	5	25
+293969	3	0	No Variant	2020-09-10 — 10:24:58 UTC	Bonja97, catula, jack67889	227	5	25
+293963	5	23	No Variant	2020-09-10 — 09:27:49 UTC	Bonja97, Nitrate2, rachyrules, Rubix, sephiroth	46	5	25
 293711	5	21	Special Mix (5 Suits)	2020-09-10 — 01:38:36 UTC	avanderwalde, Bonja97, plus, rkass, will.i.am	3	5	25
 293685	5	20	Special Mix (5 Suits)	2020-09-10 — 01:00:04 UTC	avanderwalde, Bonja97, plus, rkass, will.i.am	3	5	25
 293665	3	24	Clue Starved & Prism (5 Suits)	2020-09-10 — 00:26:20 UTC	avanderwalde, Bonja97, will.i.am	3	5	25
 293547	5	0	Cocoa Rainbow (6 Suits)	2020-09-09 — 21:01:26 UTC	Bonja97, Floriman, pianoblook, will.i.am, Zamiel	5	6	30
 293532	3	0	Cocoa Rainbow (6 Suits)	2020-09-09 — 20:37:37 UTC	Bonja97, pianoblook, Zamiel	6	6	30
 293517	3	0	Cocoa Rainbow (6 Suits)	2020-09-09 — 20:21:30 UTC	Bonja97, pianoblook, Zamiel	6	6	30
-293497	5	23	No Variant	2020-09-09 — 19:57:03 UTC	Bonja97, egerdm, ezahid1662, MasterP, newduke	344	5	25
+293497	5	23	No Variant	2020-09-09 — 19:57:03 UTC	Bonja97, egerdm, ezahid1662, MasterP, newduke	348	5	25
 293486	6	0	No Variant	2020-09-09 — 19:40:11 UTC	Bonja97, egerdm, ezahid1662, MasterP, newduke, XMIL	52	5	25
 293392	3	0	Clue Starved & Prism (5 Suits)	2020-09-09 — 17:32:01 UTC	Bonja97, scharkbite, will.i.am	3	5	25
 293014	4	15	Prism (3 Suits)	2020-09-09 — 03:10:26 UTC	Bonja97, derekcheah, melwen, sephiroth	5	3	15
 293005	4	0	Prism (3 Suits)	2020-09-09 — 03:03:12 UTC	Bonja97, derekcheah, melwen, sephiroth	8	3	15
 293003	4	13	Prism (3 Suits)	2020-09-09 — 03:00:33 UTC	Bonja97, derekcheah, melwen, sephiroth	8	3	15
-292988	4	0	Prism (3 Suits)	2020-09-09 — 02:42:36 UTC	Bonja97, derekcheah, melwen, sephiroth	11	3	15
-292976	4	0	Prism (3 Suits)	2020-09-09 — 02:26:12 UTC	Bonja97, derekcheah, melwen, sephiroth	12	3	15
-292966	3	19	Muddy Rainbow (4 Suits)	2020-09-09 — 02:11:02 UTC	Bonja97, derekcheah, sephiroth	29	4	20
+292988	4	0	Prism (3 Suits)	2020-09-09 — 02:42:36 UTC	Bonja97, derekcheah, melwen, sephiroth	12	3	15
+292976	4	0	Prism (3 Suits)	2020-09-09 — 02:26:12 UTC	Bonja97, derekcheah, melwen, sephiroth	13	3	15
+292966	3	19	Muddy Rainbow (4 Suits)	2020-09-09 — 02:11:02 UTC	Bonja97, derekcheah, sephiroth	31	4	20
 292494	4	24	Muddy Rainbow (5 Suits)	2020-09-08 — 13:48:23 UTC	Bonja97, MarkusKahlsen, sephiroth, Zakisan	9	5	25
 292486	4	0	Muddy Rainbow (5 Suits)	2020-09-08 — 13:18:43 UTC	Bonja97, MarkusKahlsen, sephiroth, Zakisan	12	5	25
 292481	4	20	Prism (4 Suits)	2020-09-08 — 13:02:31 UTC	Animex52, Bonja97, MarkusKahlsen, sephiroth	21	4	20
 292475	4	26	Black (6 Suits)	2020-09-08 — 12:35:03 UTC	Animex52, Bonja97, melwen, StKildaFan	5	6	30
 291764	6	25	White (5 Suits)	2020-09-07 — 16:29:45 UTC	Bonja97, Fey, rachyrules, sephiroth, TheDaniMan, Veexliat	5	5	25
 291759	6	0	White (5 Suits)	2020-09-07 — 16:03:49 UTC	Bonja97, Fey, rachyrules, sephiroth, TheDaniMan, Veexliat	8	5	25
-291755	5	24	White (5 Suits)	2020-09-07 — 15:53:54 UTC	Bonja97, Fey, rachyrules, TheDaniMan, Veexliat	21	5	25
-291743	4	0	White (5 Suits)	2020-09-07 — 15:24:45 UTC	Bonja97, Feich59, rachyrules, Veexliat	79	5	25
+291755	5	24	White (5 Suits)	2020-09-07 — 15:53:54 UTC	Bonja97, Fey, rachyrules, TheDaniMan, Veexliat	22	5	25
+291743	4	0	White (5 Suits)	2020-09-07 — 15:24:45 UTC	Bonja97, Feich59, rachyrules, Veexliat	80	5	25
 291705	4	0	Up or Down & Brown (6 Suits)	2020-09-07 — 14:09:13 UTC	Bonja97, sephiroth, sin_faith, Takis	9	6	30
-291408	4	24	No Variant	2020-09-07 — 02:22:59 UTC	Bonja97, Sipsey, Slonimsky, susanryan45	180	5	25
-291355	4	0	No Variant	2020-09-07 — 01:28:36 UTC	Bonja97, Sipsey, Slonimsky, susanryan45	190	5	25
-291290	4	20	No Variant	2020-09-07 — 00:24:48 UTC	Bonja97, Sipsey, Slonimsky, susanryan45	233	5	25
-290762	4	25	No Variant	2020-09-06 — 14:39:34 UTC	Bonja97, joelwool, rfrank27, Sucubis	156	5	25
+291408	4	24	No Variant	2020-09-07 — 02:22:59 UTC	Bonja97, Sipsey, Slonimsky, susanryan45	182	5	25
+291355	4	0	No Variant	2020-09-07 — 01:28:36 UTC	Bonja97, Sipsey, Slonimsky, susanryan45	192	5	25
+291290	4	20	No Variant	2020-09-07 — 00:24:48 UTC	Bonja97, Sipsey, Slonimsky, susanryan45	236	5	25
+290762	4	25	No Variant	2020-09-06 — 14:39:34 UTC	Bonja97, joelwool, rfrank27, Sucubis	157	5	25
 290756	4	0	No Variant	2020-09-06 — 14:12:10 UTC	Bonja97, rfrank27, sephiroth, Sucubis	204	5	25
 289205	3	25	Rainbow & Prism (5 Suits)	2020-09-04 — 21:29:27 UTC	Bonja97, Nitrate2, Zamiel	26	5	25
 289163	3	30	Rainbow & Prism (6 Suits)	2020-09-04 — 20:59:15 UTC	Bonja97, Nitrate2, Zamiel	4	6	30
 289130	3	0	Rainbow & Prism (6 Suits)	2020-09-04 — 20:32:12 UTC	Bonja97, Nitrate2, Zamiel	10	6	30
 288004	3	0	Black (6 Suits)	2020-09-03 — 15:33:54 UTC	Bonja97, rachyrules, sephiroth	236	6	30
-288002	3	27	Black (6 Suits)	2020-09-03 — 15:29:19 UTC	Bonja97, rachyrules, sephiroth	261	6	30
+288002	3	27	Black (6 Suits)	2020-09-03 — 15:29:19 UTC	Bonja97, rachyrules, sephiroth	263	6	30
 287947	4	0	Dark Brown (5 Suits)	2020-09-03 — 11:53:59 UTC	Bonja97, Dr_Kakashi, joelwool, Zakisan	2	5	25
 287938	4	24	Dark Brown (5 Suits)	2020-09-03 — 11:20:18 UTC	Bonja97, Dr_Kakashi, joelwool, Zakisan	2	5	25
-287929	3	20	Prism (4 Suits)	2020-09-03 — 10:39:28 UTC	Bonja97, Dr_Kakashi, Zakisan	45	4	20
-287909	3	30	Gray (6 Suits)	2020-09-03 — 09:00:14 UTC	antitelharsic, Bonja97, impostor	23	6	30
-287902	3	0	Gray (6 Suits)	2020-09-03 — 08:22:56 UTC	antitelharsic, Bonja97, impostor	21	6	30
-287899	3	0	Gray (6 Suits)	2020-09-03 — 08:07:48 UTC	antitelharsic, Bonja97, impostor	30	6	30
-287889	3	26	Gray (6 Suits)	2020-09-03 — 07:47:20 UTC	antitelharsic, Bonja97, impostor	36	6	30
+287929	3	20	Prism (4 Suits)	2020-09-03 — 10:39:28 UTC	Bonja97, Dr_Kakashi, Zakisan	47	4	20
+287909	3	30	Gray (6 Suits)	2020-09-03 — 09:00:14 UTC	antitelharsic, Bonja97, impostor	25	6	30
+287902	3	0	Gray (6 Suits)	2020-09-03 — 08:22:56 UTC	antitelharsic, Bonja97, impostor	25	6	30
+287899	3	0	Gray (6 Suits)	2020-09-03 — 08:07:48 UTC	antitelharsic, Bonja97, impostor	32	6	30
+287889	3	26	Gray (6 Suits)	2020-09-03 — 07:47:20 UTC	antitelharsic, Bonja97, impostor	37	6	30
 287451	4	29	Up or Down & Prism (6 Suits)	2020-09-02 — 20:51:56 UTC	Bonja97, robense, sephiroth, Wittvector	10	6	30
-287413	5	0	No Variant	2020-09-02 — 20:26:48 UTC	antitelharsic, Bonja97, Nitrate2, rachyrules, timotree	28	5	25
-287395	5	0	No Variant	2020-09-02 — 20:13:13 UTC	antitelharsic, Bonja97, Nitrate2, rachyrules, timotree	28	5	25
+287413	5	0	No Variant	2020-09-02 — 20:26:48 UTC	antitelharsic, Bonja97, Nitrate2, rachyrules, timotree	29	5	25
+287395	5	0	No Variant	2020-09-02 — 20:13:13 UTC	antitelharsic, Bonja97, Nitrate2, rachyrules, timotree	30	5	25
 287376	5	24	No Variant	2020-09-02 — 19:46:33 UTC	Bonja97, MarkusKahlsen, Nitrate2, rachyrules, timotree	135	5	25
 287185	4	0	Gray (6 Suits)	2020-09-02 — 10:21:52 UTC	Bonja97, joelwool, Pablo-, pianoblook	29	6	30
-287181	3	24	Dark Pink (5 Suits)	2020-09-02 — 09:47:30 UTC	Bonja97, joelwool, sephiroth	42	5	25
+287181	3	24	Dark Pink (5 Suits)	2020-09-02 — 09:47:30 UTC	Bonja97, joelwool, sephiroth	44	5	25
 287058	4	30	White (6 Suits)	2020-09-02 — 04:36:38 UTC	Bonja97, joelwool, pianoblook, rs1	27	6	30
 287009	6	21	Black (5 Suits)	2020-09-02 — 03:59:26 UTC	Bonja97, joelwool, melwen, pianoblook, Puzzle, rs1	8	5	25
-286946	3	0	Black (5 Suits)	2020-09-02 — 03:13:09 UTC	Bonja97, melwen, Puzzle	134	5	25
-286903	4	19	Omni (4 Suits)	2020-09-02 — 02:36:07 UTC	Bonja97, joelwool, melwen, Puzzle	15	4	20
+286946	3	0	Black (5 Suits)	2020-09-02 — 03:13:09 UTC	Bonja97, melwen, Puzzle	135	5	25
+286903	4	19	Omni (4 Suits)	2020-09-02 — 02:36:07 UTC	Bonja97, joelwool, melwen, Puzzle	16	4	20
 286854	5	25	White & Prism (5 Suits)	2020-09-02 — 01:54:53 UTC	antitelharsic, Bonja97, melwen, pianoblook, will.i.am	4	5	25
 286818	3	0	White & Prism (5 Suits)	2020-09-02 — 01:22:13 UTC	Bonja97, pianoblook, will.i.am	10	5	25
 286797	3	0	White & Prism (5 Suits)	2020-09-02 — 01:02:28 UTC	Bonja97, pianoblook, will.i.am	16	5	25
 286789	3	0	White & Prism (5 Suits)	2020-09-02 — 00:49:10 UTC	Bonja97, pianoblook, will.i.am	17	5	25
 286322	4	28	Prism & Gray (6 Suits)	2020-09-01 — 12:56:18 UTC	Bonja97, joelwool, MKQ, Pablo-	2	6	30
 285339	3	15	White (3 Suits)	2020-08-31 — 10:53:35 UTC	Bonja97, joelwool, newduke	22	3	15
-285316	3	13	White (3 Suits)	2020-08-31 — 10:31:26 UTC	Bonja97, joelwool, newduke	26	3	15
-285312	3	0	White (3 Suits)	2020-08-31 — 10:14:52 UTC	Bonja97, joelwool, newduke	29	3	15
-285310	2	15	White (3 Suits)	2020-08-31 — 10:01:03 UTC	Bonja97, joelwool	71	3	15
-285309	2	14	White (3 Suits)	2020-08-31 — 09:52:56 UTC	Bonja97, joelwool	95	3	15
-285307	2	15	Pink (3 Suits)	2020-08-31 — 09:40:33 UTC	Bonja97, joelwool	87	3	15
-285306	2	15	Rainbow (3 Suits)	2020-08-31 — 09:28:02 UTC	Bonja97, joelwool	127	3	15
-285304	2	15	3 Suits	2020-08-31 — 09:17:27 UTC	Bonja97, joelwool	193	3	15
-285303	2	13	3 Suits	2020-08-31 — 09:08:44 UTC	Bonja97, joelwool	271	3	15
-284641	4	25	No Variant	2020-08-30 — 10:49:37 UTC	antitelharsic, Bonja97, joelwool, StKildaFan	103	5	25
-284617	3	0	No Variant	2020-08-30 — 09:35:15 UTC	antitelharsic, Bonja97, catula	77	5	25
-284614	3	24	No Variant	2020-08-30 — 08:59:16 UTC	antitelharsic, Bonja97, catula	79	5	25
-283754	3	15	Brown (3 Suits)	2020-08-29 — 15:10:22 UTC	Bonja97, melwen, padi	21	3	15
+285316	3	13	White (3 Suits)	2020-08-31 — 10:31:26 UTC	Bonja97, joelwool, newduke	28	3	15
+285312	3	0	White (3 Suits)	2020-08-31 — 10:14:52 UTC	Bonja97, joelwool, newduke	30	3	15
+285310	2	15	White (3 Suits)	2020-08-31 — 10:01:03 UTC	Bonja97, joelwool	73	3	15
+285309	2	14	White (3 Suits)	2020-08-31 — 09:52:56 UTC	Bonja97, joelwool	100	3	15
+285307	2	15	Pink (3 Suits)	2020-08-31 — 09:40:33 UTC	Bonja97, joelwool	89	3	15
+285306	2	15	Rainbow (3 Suits)	2020-08-31 — 09:28:02 UTC	Bonja97, joelwool	132	3	15
+285304	2	15	3 Suits	2020-08-31 — 09:17:27 UTC	Bonja97, joelwool	195	3	15
+285303	2	13	3 Suits	2020-08-31 — 09:08:44 UTC	Bonja97, joelwool	273	3	15
+284641	4	25	No Variant	2020-08-30 — 10:49:37 UTC	antitelharsic, Bonja97, joelwool, StKildaFan	105	5	25
+284617	3	0	No Variant	2020-08-30 — 09:35:15 UTC	antitelharsic, Bonja97, catula	79	5	25
+284614	3	24	No Variant	2020-08-30 — 08:59:16 UTC	antitelharsic, Bonja97, catula	82	5	25
+283754	3	15	Brown (3 Suits)	2020-08-29 — 15:10:22 UTC	Bonja97, melwen, padi	22	3	15
 283750	3	13	Brown (3 Suits)	2020-08-29 — 14:59:07 UTC	Bonja97, melwen, padi	23	3	15
-283748	2	13	Brown (3 Suits)	2020-08-29 — 14:51:53 UTC	Bonja97, melwen	47	3	15
-283745	2	15	Prism (3 Suits)	2020-08-29 — 14:45:03 UTC	Bonja97, melwen	25	3	15
-283743	2	12	Prism (3 Suits)	2020-08-29 — 14:35:39 UTC	Bonja97, melwen	52	3	15
-283543	3	24	No Variant	2020-08-29 — 08:47:08 UTC	antitelharsic, Bonja97, honobu	82	5	25
-283539	3	0	No Variant	2020-08-29 — 08:33:41 UTC	antitelharsic, Bonja97, honobu	89	5	25
-283533	3	0	No Variant	2020-08-29 — 08:20:37 UTC	antitelharsic, Bonja97, honobu	89	5	25
+283748	2	13	Brown (3 Suits)	2020-08-29 — 14:51:53 UTC	Bonja97, melwen	48	3	15
+283745	2	15	Prism (3 Suits)	2020-08-29 — 14:45:03 UTC	Bonja97, melwen	27	3	15
+283743	2	12	Prism (3 Suits)	2020-08-29 — 14:35:39 UTC	Bonja97, melwen	57	3	15
+283543	3	24	No Variant	2020-08-29 — 08:47:08 UTC	antitelharsic, Bonja97, honobu	85	5	25
+283539	3	0	No Variant	2020-08-29 — 08:33:41 UTC	antitelharsic, Bonja97, honobu	91	5	25
+283533	3	0	No Variant	2020-08-29 — 08:20:37 UTC	antitelharsic, Bonja97, honobu	91	5	25
 282739	5	0	Prism (5 Suits)	2020-08-28 — 17:43:32 UTC	Bonja97, Fey, MarekU, melwen, TheDaniMan	10	5	25
-282728	5	0	Prism (5 Suits)	2020-08-28 — 17:22:20 UTC	Bonja97, Fey, MarekU, melwen, TheDaniMan	13	5	25
+282728	5	0	Prism (5 Suits)	2020-08-28 — 17:22:20 UTC	Bonja97, Fey, MarekU, melwen, TheDaniMan	14	5	25
 282718	5	24	Prism (5 Suits)	2020-08-28 — 17:00:30 UTC	Bonja97, Fey, MarekU, melwen, TheDaniMan	20	5	25
 282538	4	13	Rainbow & Pink (3 Suits)	2020-08-28 — 08:42:21 UTC	Bonja97, joelwool, Pablo-, sephiroth	4	3	15
 282536	4	14	Rainbow & Pink (3 Suits)	2020-08-28 — 08:23:47 UTC	Bonja97, joelwool, Pablo-, sephiroth	4	3	15
 282531	4	0	Rainbow & Pink (3 Suits)	2020-08-28 — 08:07:48 UTC	Bonja97, joelwool, Pablo-, sephiroth	5	3	15
-282524	4	0	Rainbow & Pink (3 Suits)	2020-08-28 — 07:54:45 UTC	Bonja97, joelwool, Pablo-, sephiroth	8	3	15
+282524	4	0	Rainbow & Pink (3 Suits)	2020-08-28 — 07:54:45 UTC	Bonja97, joelwool, Pablo-, sephiroth	9	3	15
 282517	4	0	Rainbow & Pink (3 Suits)	2020-08-28 — 07:39:14 UTC	Bonja97, joelwool, Pablo-, sephiroth	9	3	15
 282508	4	15	Light Pink (3 Suits)	2020-08-28 — 07:21:55 UTC	asaelr, Bonja97, joelwool, TheDaniMan	9	3	15
 282500	5	20	Brown (4 Suits)	2020-08-28 — 07:08:19 UTC	asaelr, Bonja97, Fey, joelwool, TheDaniMan	5	4	20
@@ -1014,8 +1029,8 @@
 282309	5	0	Brown & Prism (5 Suits)	2020-08-28 — 02:30:54 UTC	Bonja97, joelwool, piper, Puzzle, will.i.am	5	5	25
 282285	4	0	Brown & Prism (5 Suits)	2020-08-28 — 02:08:18 UTC	Bonja97, joelwool, piper, will.i.am	11	5	25
 281832	6	25	Dark Prism (5 Suits)	2020-08-27 — 16:48:08 UTC	Bonja97, DMoney, melwen, Nitrate2, Pablo-, TheDaniMan	3	5	25
-281821	3	25	No Variant	2020-08-27 — 16:01:41 UTC	Bonja97, edelopo, Slonimsky	243	5	25
-281810	3	0	No Variant	2020-08-27 — 15:29:40 UTC	Bonja97, edelopo, Slonimsky	840	5	25
+281821	3	25	No Variant	2020-08-27 — 16:01:41 UTC	Bonja97, edelopo, Slonimsky	246	5	25
+281810	3	0	No Variant	2020-08-27 — 15:29:40 UTC	Bonja97, edelopo, Slonimsky	849	5	25
 281758	5	0	Dark Prism (6 Suits)	2020-08-27 — 10:10:40 UTC	asaelr, Bonja97, Dr_Kakashi, Floriman, Pablo-	6	6	30
 281757	5	0	Dark Prism (6 Suits)	2020-08-27 — 10:06:28 UTC	asaelr, Bonja97, Dr_Kakashi, Floriman, Pablo-	6	6	30
 281755	5	0	Dark Prism (6 Suits)	2020-08-27 — 09:50:29 UTC	asaelr, Bonja97, Dr_Kakashi, Floriman, Pablo-	9	6	30
@@ -1023,15 +1038,15 @@
 281749	5	0	Dark Prism (6 Suits)	2020-08-27 — 09:17:47 UTC	asaelr, Bonja97, Dr_Kakashi, Floriman, Pablo-	14	6	30
 281744	6	30	Prism (6 Suits)	2020-08-27 — 08:55:29 UTC	asaelr, Bonja97, Dr_Kakashi, Floriman, Pablo-, sephiroth	6	6	30
 281737	6	0	Prism (6 Suits)	2020-08-27 — 08:33:52 UTC	asaelr, Bonja97, Dr_Kakashi, Floriman, Pablo-, sephiroth	8	6	30
-281541	4	25	No Variant	2020-08-27 — 02:34:01 UTC	avanderwalde, Bonja97, rkass, Slonimsky	257	5	25
+281541	4	25	No Variant	2020-08-27 — 02:34:01 UTC	avanderwalde, Bonja97, rkass, Slonimsky	260	5	25
 281053	4	0	Rainbow & Pink (3 Suits)	2020-08-26 — 13:01:29 UTC	Bonja97, Dr_Kakashi, melwen, sephiroth	2	3	15
 281043	4	12	Rainbow & Pink (3 Suits)	2020-08-26 — 12:30:23 UTC	Bonja97, Dr_Kakashi, melwen, sephiroth	1	3	15
 281035	4	0	Rainbow & Pink (3 Suits)	2020-08-26 — 12:13:03 UTC	Bonja97, Dr_Kakashi, melwen, sephiroth	3	3	15
 281032	3	13	Rainbow & Pink (3 Suits)	2020-08-26 — 11:51:48 UTC	Bonja97, Dr_Kakashi, sephiroth	13	3	15
 281023	3	0	Rainbow & Pink (3 Suits)	2020-08-26 — 11:33:45 UTC	Bonja97, Dr_Kakashi, sephiroth	14	3	15
-281020	3	0	No Variant	2020-08-26 — 11:10:49 UTC	Bonja97, catula, sephiroth	1017	5	25
+281020	3	0	No Variant	2020-08-26 — 11:10:49 UTC	Bonja97, catula, sephiroth	1026	5	25
 281019	4	20	Light Pink (4 Suits)	2020-08-26 — 11:00:24 UTC	asaelr, Bonja97, MarkusKahlsen, sephiroth	8	4	20
-281018	3	17	Light Pink (4 Suits)	2020-08-26 — 10:39:44 UTC	asaelr, Bonja97, sephiroth	21	4	20
+281018	3	17	Light Pink (4 Suits)	2020-08-26 — 10:39:44 UTC	asaelr, Bonja97, sephiroth	22	4	20
 281014	3	30	Dark Null (6 Suits)	2020-08-26 — 09:28:37 UTC	asaelr, Bonja97, Dr_Kakashi	5	6	30
 281013	3	0	Dark Null (6 Suits)	2020-08-26 — 09:08:38 UTC	asaelr, Bonja97, Dr_Kakashi	5	6	30
 281012	3	0	Dark Null (6 Suits)	2020-08-26 — 09:00:35 UTC	asaelr, Bonja97, Dr_Kakashi	5	6	30
@@ -1057,10 +1072,10 @@
 280097	4	0	Dark Brown (5 Suits)	2020-08-25 — 09:39:28 UTC	Bonja97, Dr_Kakashi, joelwool, sephiroth	4	5	25
 280091	4	0	Dark Brown (5 Suits)	2020-08-25 — 09:23:49 UTC	Bonja97, Dr_Kakashi, joelwool, sephiroth	4	5	25
 280086	4	0	Dark Brown (5 Suits)	2020-08-25 — 09:07:27 UTC	Bonja97, Dr_Kakashi, joelwool, sephiroth	5	5	25
-279856	4	0	No Variant	2020-08-25 — 02:22:09 UTC	Bonja97, DbladeVGN, Sipsey, Slonimsky	287	5	25
-279837	4	0	No Variant	2020-08-25 — 01:58:06 UTC	Bonja97, DbladeVGN, Sipsey, Slonimsky	308	5	25
-279806	4	25	No Variant	2020-08-25 — 01:27:08 UTC	Bonja97, DbladeVGN, Sipsey, Slonimsky	326	5	25
-279760	5	22	No Variant	2020-08-25 — 00:44:03 UTC	Bonja97, Sipsey, Slonimsky, susanryan45, Ultraling	1995	5	25
+279856	4	0	No Variant	2020-08-25 — 02:22:09 UTC	Bonja97, DbladeVGN, Sipsey, Slonimsky	293	5	25
+279837	4	0	No Variant	2020-08-25 — 01:58:06 UTC	Bonja97, DbladeVGN, Sipsey, Slonimsky	311	5	25
+279806	4	25	No Variant	2020-08-25 — 01:27:08 UTC	Bonja97, DbladeVGN, Sipsey, Slonimsky	330	5	25
+279760	5	22	No Variant	2020-08-25 — 00:44:03 UTC	Bonja97, Sipsey, Slonimsky, susanryan45, Ultraling	2011	5	25
 279336	5	0	Up or Down & Pink (5 Suits)	2020-08-24 — 15:28:32 UTC	Bonja97, joelwool, postmans, sephiroth, TheDaniMan	3	5	25
 279333	4	0	Up or Down & Pink (5 Suits)	2020-08-24 — 15:22:45 UTC	Bonja97, joelwool, sephiroth, TheDaniMan	8	5	25
 279332	4	0	Up or Down & Pink (5 Suits)	2020-08-24 — 15:20:56 UTC	Bonja97, joelwool, sephiroth, TheDaniMan	12	5	25
@@ -1069,36 +1084,36 @@
 279312	3	28	Pink (6 Suits)	2020-08-24 — 12:49:03 UTC	asaelr, Bonja97, sephiroth	5	6	30
 279305	3	0	Pink (6 Suits)	2020-08-24 — 12:33:06 UTC	asaelr, Bonja97, sephiroth	5	6	30
 279300	5	0	No Variant	2020-08-24 — 12:19:51 UTC	asaelr, Bonja97, melwen, QuantumCrusher, Wittvector	16	5	25
-277505	3	0	No Variant	2020-08-22 — 14:27:11 UTC	Bonja97, Pablo-, Slonimsky	201	5	25
-277501	3	0	No Variant	2020-08-22 — 14:12:01 UTC	Bonja97, Pablo-, Slonimsky	199	5	25
-277496	3	25	No Variant	2020-08-22 — 13:43:28 UTC	Bonja97, Pablo-, Slonimsky	206	5	25
-277484	3	21	No Variant	2020-08-22 — 13:08:35 UTC	Bonja97, Pablo-, Slonimsky	213	5	25
-277456	3	0	Gray (6 Suits)	2020-08-22 — 12:32:19 UTC	Bonja97, MarkusKahlsen, Pablo-	42	6	30
-277455	3	26	Gray (6 Suits)	2020-08-22 — 12:12:32 UTC	Bonja97, MarkusKahlsen, Pablo-	45	6	30
-277451	3	0	Gray (6 Suits)	2020-08-22 — 11:46:49 UTC	Bonja97, MarkusKahlsen, Pablo-	48	6	30
-277449	3	0	Gray (6 Suits)	2020-08-22 — 11:38:21 UTC	Bonja97, MarkusKahlsen, Pablo-	55	6	30
+277505	3	0	No Variant	2020-08-22 — 14:27:11 UTC	Bonja97, Pablo-, Slonimsky	203	5	25
+277501	3	0	No Variant	2020-08-22 — 14:12:01 UTC	Bonja97, Pablo-, Slonimsky	202	5	25
+277496	3	25	No Variant	2020-08-22 — 13:43:28 UTC	Bonja97, Pablo-, Slonimsky	209	5	25
+277484	3	21	No Variant	2020-08-22 — 13:08:35 UTC	Bonja97, Pablo-, Slonimsky	218	5	25
+277456	3	0	Gray (6 Suits)	2020-08-22 — 12:32:19 UTC	Bonja97, MarkusKahlsen, Pablo-	43	6	30
+277455	3	26	Gray (6 Suits)	2020-08-22 — 12:12:32 UTC	Bonja97, MarkusKahlsen, Pablo-	48	6	30
+277451	3	0	Gray (6 Suits)	2020-08-22 — 11:46:49 UTC	Bonja97, MarkusKahlsen, Pablo-	52	6	30
+277449	3	0	Gray (6 Suits)	2020-08-22 — 11:38:21 UTC	Bonja97, MarkusKahlsen, Pablo-	57	6	30
 277297	4	25	Black (5 Suits)	2020-08-22 — 07:33:37 UTC	Bonja97, Fey, NoMercy, piper	22	5	25
 277274	4	0	Black (5 Suits)	2020-08-22 — 07:11:54 UTC	Bonja97, Fey, NoMercy, piper	23	5	25
 277267	4	0	Black (5 Suits)	2020-08-22 — 06:55:18 UTC	Bonja97, Fey, NoMercy, piper	24	5	25
 277248	4	21	Black & Pink (5 Suits)	2020-08-22 — 06:30:16 UTC	Bonja97, pianoblook, piper, swineherd	6	5	25
 277222	4	0	Black & Pink (5 Suits)	2020-08-22 — 06:04:05 UTC	Bonja97, pianoblook, piper, swineherd	5	5	25
 277014	3	25	Muddy Rainbow (5 Suits)	2020-08-22 — 02:54:47 UTC	Bonja97, joelwool, melwen	46	5	25
-276314	2	20	No Variant	2020-08-21 — 06:05:31 UTC	Bonja97, gsherm	3051	5	25
+276314	2	20	No Variant	2020-08-21 — 06:05:31 UTC	Bonja97, gsherm	3072	5	25
 275693	4	0	Black (5 Suits)	2020-08-20 — 06:55:06 UTC	Bonja97, derposaur, jack_0f_hearts, piper	28	5	25
-275677	4	0	Black (5 Suits)	2020-08-20 — 06:10:33 UTC	Bonja97, derposaur, jack_0f_hearts, piper	41	5	25
+275677	4	0	Black (5 Suits)	2020-08-20 — 06:10:33 UTC	Bonja97, derposaur, jack_0f_hearts, piper	42	5	25
 275664	4	0	White (6 Suits)	2020-08-20 — 05:37:43 UTC	Bonja97, pianoblook, piper, sephiroth	29	6	30
-275637	4	26	Gray Pink (6 Suits)	2020-08-20 — 04:53:45 UTC	Bonja97, scharkbite, will.i.am, XMIL	5	6	30
-275593	4	28	Gray Pink (6 Suits)	2020-08-20 — 04:11:17 UTC	Bonja97, scharkbite, will.i.am, XMIL	6	6	30
+275637	4	26	Gray Pink (6 Suits)	2020-08-20 — 04:53:45 UTC	Bonja97, scharkbite, will.i.am, XMIL	6	6	30
+275593	4	28	Gray Pink (6 Suits)	2020-08-20 — 04:11:17 UTC	Bonja97, scharkbite, will.i.am, XMIL	7	6	30
 275571	5	0	Pink & Gray Pink (6 Suits)	2020-08-20 — 03:46:45 UTC	Bonja97, scharkbite, timotree, will.i.am, XMIL	1	6	30
 275553	5	0	Pink & Gray Pink (6 Suits)	2020-08-20 — 03:26:22 UTC	Bonja97, scharkbite, timotree, will.i.am, XMIL	1	6	30
-275471	3	21	No Variant	2020-08-20 — 01:59:09 UTC	Bonja97, pianoblook, Slonimsky	97	5	25
+275471	3	21	No Variant	2020-08-20 — 01:59:09 UTC	Bonja97, pianoblook, Slonimsky	99	5	25
 275036	4	20	Brown-Ones (4 Suits)	2020-08-19 — 11:44:27 UTC	Bonja97, melwen, Pablo-, sephiroth	3	4	20
 275026	4	0	Brown-Ones (4 Suits)	2020-08-19 — 11:29:36 UTC	Bonja97, Pablo-, sephiroth, swineherd	4	4	20
 275024	5	0	Brown-Ones (4 Suits)	2020-08-19 — 11:21:06 UTC	Bonja97, MarkusKahlsen, Pablo-, reuzed, sephiroth	2	4	20
 275023	5	0	Brown (6 Suits)	2020-08-19 — 10:42:04 UTC	Bonja97, MarkusKahlsen, Pablo-, reuzed, robense	21	6	30
-275021	4	0	No Variant	2020-08-19 — 09:57:22 UTC	Bonja97, Pablo-, reuzed, sephiroth	167	5	25
-275018	3	24	Throw It in a Hole (5 Suits)	2020-08-19 — 09:00:41 UTC	antitelharsic, Bonja97, sephiroth	30	5	25
-275011	3	25	Throw It in a Hole (5 Suits)	2020-08-19 — 08:24:18 UTC	antitelharsic, Bonja97, sephiroth	52	5	25
+275021	4	0	No Variant	2020-08-19 — 09:57:22 UTC	Bonja97, Pablo-, reuzed, sephiroth	169	5	25
+275018	3	24	Throw It in a Hole (5 Suits)	2020-08-19 — 09:00:41 UTC	antitelharsic, Bonja97, sephiroth	31	5	25
+275011	3	25	Throw It in a Hole (5 Suits)	2020-08-19 — 08:24:18 UTC	antitelharsic, Bonja97, sephiroth	53	5	25
 275002	4	24	Clue Starved (5 Suits)	2020-08-19 — 07:40:59 UTC	antitelharsic, Bonja97, robense, sephiroth	19	5	25
 274924	3	19	Rainbow (4 Suits)	2020-08-19 — 04:36:05 UTC	Bonja97, kevincaseytdk1, scharkbite	2	4	20
 274912	3	18	Rainbow (4 Suits)	2020-08-19 — 04:19:19 UTC	Bonja97, kevincaseytdk1, scharkbite	2	4	20
@@ -1111,10 +1126,10 @@
 274133	4	0	Omni (3 Suits)	2020-08-18 — 07:02:59 UTC	Bonja97, joelwool, pianoblook, piper	6	3	15
 274123	4	0	Omni (3 Suits)	2020-08-18 — 06:43:42 UTC	Bonja97, joelwool, pianoblook, piper	6	3	15
 274114	4	0	Omni (3 Suits)	2020-08-18 — 06:24:14 UTC	Bonja97, joelwool, pianoblook, piper	8	3	15
-274095	4	30	Gray Pink (6 Suits)	2020-08-18 — 05:55:48 UTC	Bonja97, joelwool, pianoblook, piper	12	6	30
+274095	4	30	Gray Pink (6 Suits)	2020-08-18 — 05:55:48 UTC	Bonja97, joelwool, pianoblook, piper	14	6	30
 274077	3	25	Cocoa Rainbow (5 Suits)	2020-08-18 — 05:17:44 UTC	Bonja97, pianoblook, piper	21	5	25
 273706	4	24	Dark Rainbow (5 Suits)	2020-08-17 — 22:50:03 UTC	Bonja97, Fireheart, scharkbite, timotree	17	5	25
-273686	4	21	Dark Rainbow (5 Suits)	2020-08-17 — 22:22:06 UTC	Bonja97, Fireheart, scharkbite, timotree	20	5	25
+273686	4	21	Dark Rainbow (5 Suits)	2020-08-17 — 22:22:06 UTC	Bonja97, Fireheart, scharkbite, timotree	21	5	25
 273662	4	25	Rainbow (5 Suits)	2020-08-17 — 21:54:25 UTC	Bonja97, scharkbite, timotree, will.i.am	7	5	25
 273645	4	0	Rainbow (5 Suits)	2020-08-17 — 21:31:29 UTC	Bonja97, robense, scharkbite, timotree	7	5	25
 273330	5	0	Pink (4 Suits)	2020-08-17 — 06:09:02 UTC	Bonja97, crossproduct, derekcheah, joelwool, will.i.am	6	4	20
@@ -1124,10 +1139,10 @@
 273245	4	0	Pink & Gray Pink (6 Suits)	2020-08-17 — 04:50:14 UTC	Bonja97, derekcheah, joelwool, will.i.am	2	6	30
 273224	4	0	Pink & Gray Pink (6 Suits)	2020-08-17 — 04:40:03 UTC	Bonja97, derekcheah, joelwool, will.i.am	3	6	30
 273208	4	0	Pink & Gray Pink (6 Suits)	2020-08-17 — 04:30:03 UTC	Bonja97, derekcheah, joelwool, will.i.am	3	6	30
-272528	5	0	Black (5 Suits)	2020-08-16 — 15:40:48 UTC	asaelr, Bonja97, JerryYang, Maiorskills, Puzzle	11	5	25
+272528	5	0	Black (5 Suits)	2020-08-16 — 15:40:48 UTC	asaelr, Bonja97, JerryYang, Maiorskills, Puzzle	12	5	25
 272514	5	0	Black (6 Suits)	2020-08-16 — 15:03:08 UTC	asaelr, Bonja97, JerryYang, Puzzle, rachyrules	28	6	30
-272509	4	25	White (5 Suits)	2020-08-16 — 14:33:02 UTC	Bonja97, JerryYang, Puzzle, rachyrules	18	5	25
-272505	4	0	White (5 Suits)	2020-08-16 — 14:11:52 UTC	Bonja97, JerryYang, rachyrules, sephiroth	22	5	25
+272509	4	25	White (5 Suits)	2020-08-16 — 14:33:02 UTC	Bonja97, JerryYang, Puzzle, rachyrules	19	5	25
+272505	4	0	White (5 Suits)	2020-08-16 — 14:11:52 UTC	Bonja97, JerryYang, rachyrules, sephiroth	23	5	25
 272480	5	0	White & Omni (5 Suits)	2020-08-16 — 12:02:53 UTC	Andrew_UK, Bonja97, kodomazer, Maiorskills, MarkusKahlsen	2	5	25
 272271	3	0	Pink (6 Suits)	2020-08-16 — 04:20:33 UTC	Bonja97, scharkbite, timotree	18	6	30
 272242	3	0	Pink (6 Suits)	2020-08-16 — 03:58:17 UTC	Bonja97, scharkbite, timotree	24	6	30
@@ -1135,31 +1150,31 @@
 272195	5	19	Muddy-Rainbow-Fives & Rainbow (4 Suits)	2020-08-16 — 03:28:57 UTC	Bonja97, joelwool, melwen, scharkbite, will.i.am	1	4	20
 271679	5	25	Rainbow (5 Suits)	2020-08-15 — 15:41:20 UTC	Bonja97, Fireheart, Puzzle, timotree, XMIL	34	5	25
 271666	5	25	No Variant	2020-08-15 — 15:18:03 UTC	Bonja97, Fireheart, pianoblook, timotree, XMIL	65	5	25
-271659	3	0	No Variant	2020-08-15 — 14:55:32 UTC	Bonja97, pianoblook, XMIL	83	5	25
+271659	3	0	No Variant	2020-08-15 — 14:55:32 UTC	Bonja97, pianoblook, XMIL	86	5	25
 271556	4	24	Up or Down & Rainbow (5 Suits)	2020-08-15 — 08:21:29 UTC	Bonja97, joelwool, NoMercy, TheDaniMan	6	5	25
 271547	4	23	Up or Down & Rainbow (5 Suits)	2020-08-15 — 07:51:32 UTC	Bonja97, joelwool, NoMercy, TheDaniMan	7	5	25
 271469	5	23	Pink & Cocoa Rainbow (5 Suits)	2020-08-15 — 06:24:30 UTC	ADrone, Bonja97, derekcheah, pianoblook, piper	2	5	25
 271391	5	24	Pink & Cocoa Rainbow (5 Suits)	2020-08-15 — 05:20:20 UTC	ADrone, Bonja97, derekcheah, pianoblook, piper	2	5	25
 271331	4	24	Pink & Cocoa Rainbow (5 Suits)	2020-08-15 — 04:37:00 UTC	ADrone, Bonja97, pianoblook, piper	3	5	25
 271292	4	24	Pink & Cocoa Rainbow (5 Suits)	2020-08-15 — 03:54:39 UTC	ADrone, Bonja97, pianoblook, piper	4	5	25
-270975	4	29	Black (6 Suits)	2020-08-14 — 21:58:56 UTC	Bonja97, kevincaseytdk1, sheamol, timotree	142	6	30
+270975	4	29	Black (6 Suits)	2020-08-14 — 21:58:56 UTC	Bonja97, kevincaseytdk1, sheamol, timotree	143	6	30
 270949	3	25	Light Pink (5 Suits)	2020-08-14 — 21:27:05 UTC	Ahming, Bonja97, sheamol	40	5	25
 270725	4	0	Muddy-Rainbow-Ones & Dark Pink (6 Suits)	2020-08-14 — 14:07:17 UTC	Bonja97, MarkusKahlsen, melwen, Nitrate2	1	6	30
 270724	6	25	Pink & Muddy Rainbow (5 Suits)	2020-08-14 — 13:46:37 UTC	Bonja97, MarkusKahlsen, melwen, Nitrate2, sjdrodge, swineherd	1	5	25
 270707	6	0	No Variant	2020-08-14 — 12:05:34 UTC	Bonja97, lotem, MASEL, Nitrate2, rotem, Wittvector	75	5	25
-270698	6	0	No Variant	2020-08-14 — 11:41:30 UTC	Bonja97, lotem, MASEL, Nitrate2, rotem, Wittvector	91	5	25
-270689	4	30	Up or Down (6 Suits)	2020-08-14 — 11:08:04 UTC	Bonja97, Fireheart, Nitrate2, Valetta6789	8	6	30
+270698	6	0	No Variant	2020-08-14 — 11:41:30 UTC	Bonja97, lotem, MASEL, Nitrate2, rotem, Wittvector	92	5	25
+270689	4	30	Up or Down (6 Suits)	2020-08-14 — 11:08:04 UTC	Bonja97, Fireheart, Nitrate2, Valetta6789	9	6	30
 270688	4	0	Up or Down (6 Suits)	2020-08-14 — 10:39:26 UTC	Bonja97, Fireheart, Nitrate2, Valetta6789	9	6	30
-270530	4	0	White (4 Suits)	2020-08-14 — 04:27:00 UTC	Ahming, Bonja97, timotree, XMIL	34	4	20
+270530	4	0	White (4 Suits)	2020-08-14 — 04:27:00 UTC	Ahming, Bonja97, timotree, XMIL	35	4	20
 270487	3	30	White (6 Suits)	2020-08-14 — 03:41:05 UTC	Ahming, Bonja97, timotree	27	6	30
 270442	3	0	White (6 Suits)	2020-08-14 — 03:09:41 UTC	Ahming, Bonja97, will.i.am	33	6	30
 270424	3	0	White (6 Suits)	2020-08-14 — 02:54:49 UTC	Ahming, Bonja97, will.i.am	37	6	30
 270395	3	0	White (6 Suits)	2020-08-14 — 02:30:39 UTC	Ahming, Bonja97, will.i.am	53	6	30
 270187	5	0	Pink (6 Suits)	2020-08-13 — 23:36:34 UTC	Bonja97, IsabeltheCat, melwen, pianoblook, plus	9	6	30
-269708	3	0	White (5 Suits)	2020-08-13 — 12:36:25 UTC	Bonja97, MarkusKahlsen, Pablo-	61	5	25
-269698	5	29	White (6 Suits)	2020-08-13 — 12:05:35 UTC	Bonja97, Floriman, MarkusKahlsen, Pablo-, reuzed	17	6	30
-269692	4	27	White (6 Suits)	2020-08-13 — 11:22:06 UTC	Bonja97, Floriman, reuzed, TheDaniMan	35	6	30
-269682	4	0	White (6 Suits)	2020-08-13 — 10:52:51 UTC	Bonja97, Floriman, reuzed, TheDaniMan	41	6	30
+269708	3	0	White (5 Suits)	2020-08-13 — 12:36:25 UTC	Bonja97, MarkusKahlsen, Pablo-	65	5	25
+269698	5	29	White (6 Suits)	2020-08-13 — 12:05:35 UTC	Bonja97, Floriman, MarkusKahlsen, Pablo-, reuzed	18	6	30
+269692	4	27	White (6 Suits)	2020-08-13 — 11:22:06 UTC	Bonja97, Floriman, reuzed, TheDaniMan	36	6	30
+269682	4	0	White (6 Suits)	2020-08-13 — 10:52:51 UTC	Bonja97, Floriman, reuzed, TheDaniMan	43	6	30
 269515	5	0	Rainbow & Light Pink (5 Suits)	2020-08-13 — 04:16:12 UTC	Bonja97, joelwool, melwen, rs1, scharkbite	4	5	25
 269482	5	20	Rainbow & Light Pink (5 Suits)	2020-08-13 — 03:48:32 UTC	Bonja97, joelwool, melwen, rs1, scharkbite	5	5	25
 269464	4	0	Rainbow & Light Pink (4 Suits)	2020-08-13 — 03:22:57 UTC	Bonja97, joelwool, rs1, scharkbite	2	4	20
@@ -1168,11 +1183,11 @@
 268935	5	0	White & Light Pink (5 Suits)	2020-08-12 — 13:20:16 UTC	Bonja97, MarkusKahlsen, melwen, Pablo-, reuzed	1	5	25
 268926	4	30	6 Suits	2020-08-12 — 12:59:18 UTC	asaelr, Bonja97, MarkusKahlsen, Pablo-	10	6	30
 268915	3	27	Brown (6 Suits)	2020-08-12 — 11:48:54 UTC	Bonja97, Fireheart, Valetta6789	84	6	30
-268912	4	0	Brown (6 Suits)	2020-08-12 — 11:23:21 UTC	Bonja97, Fireheart, reuzed, Valetta6789	14	6	30
+268912	4	0	Brown (6 Suits)	2020-08-12 — 11:23:21 UTC	Bonja97, Fireheart, reuzed, Valetta6789	15	6	30
 268907	4	0	Rainbow & Cocoa Rainbow (6 Suits)	2020-08-12 — 11:04:45 UTC	Bonja97, Fireheart, reuzed, Valetta6789	6	6	30
 268904	5	0	6 Suits	2020-08-12 — 10:58:34 UTC	asaelr, Bonja97, Fireheart, Floriman, Nitrate2	7	6	30
-268701	3	25	No Variant	2020-08-12 — 04:24:53 UTC	Bonja97, jack_0f_hearts, joelwool	940	5	25
-268676	5	0	No Variant	2020-08-12 — 03:49:14 UTC	Bonja97, jack_0f_hearts, joelwool, pianoblook, plus	383	5	25
+268701	3	25	No Variant	2020-08-12 — 04:24:53 UTC	Bonja97, jack_0f_hearts, joelwool	952	5	25
+268676	5	0	No Variant	2020-08-12 — 03:49:14 UTC	Bonja97, jack_0f_hearts, joelwool, pianoblook, plus	384	5	25
 268311	5	0	Muddy Rainbow (5 Suits)	2020-08-11 — 21:18:00 UTC	Bonja97, joelwool, Pablo-, plus, scharkbite	2	5	25
 268298	5	23	Muddy Rainbow (5 Suits)	2020-08-11 — 21:07:28 UTC	Bonja97, joelwool, Pablo-, plus, scharkbite	2	5	25
 268262	3	24	Muddy Rainbow (5 Suits)	2020-08-11 — 20:34:26 UTC	Bonja97, plus, scharkbite	10	5	25
@@ -1189,40 +1204,40 @@
 267867	3	0	Brown (5 Suits)	2020-08-11 — 05:16:26 UTC	Bonja97, Dr_Kakashi, XMIL	17	5	25
 267777	5	19	Rainbow-Fives & Pink (4 Suits)	2020-08-11 — 03:11:49 UTC	Bonja97, joelwool, Puzzle, robense, rs1	1	4	20
 267355	6	0	Rainbow (6 Suits)	2020-08-10 — 18:21:07 UTC	ADrone, Bonja97, DMoney, Kyle, melwen, Zakisan	60	6	30
-267270	3	24	No Variant	2020-08-10 — 16:24:30 UTC	Bonja97, JerryYang, timotree	307	5	25
-267259	3	25	No Variant	2020-08-10 — 15:44:19 UTC	Bonja97, JerryYang, timotree	344	5	25
+267270	3	24	No Variant	2020-08-10 — 16:24:30 UTC	Bonja97, JerryYang, timotree	311	5	25
+267259	3	25	No Variant	2020-08-10 — 15:44:19 UTC	Bonja97, JerryYang, timotree	353	5	25
 267244	5	0	White (5 Suits)	2020-08-10 — 15:02:43 UTC	Bonja97, melwen, Nitrate2, Wittvector, Zakisan	37	5	25
 267234	5	27	Black (6 Suits)	2020-08-10 — 14:36:21 UTC	Animex52, Bonja97, melwen, Nitrate2, swineherd	5	6	30
 267228	5	0	Black (6 Suits)	2020-08-10 — 14:07:11 UTC	Animex52, Bonja97, melwen, reuzed, swineherd	7	6	30
-267218	4	0	White (6 Suits)	2020-08-10 — 13:43:08 UTC	Animex52, Bonja97, rachyrules, reuzed	75	6	30
-267207	3	24	No Variant	2020-08-10 — 12:54:24 UTC	Bonja97, rachyrules, reuzed	269	5	25
-267186	3	25	No Variant	2020-08-10 — 12:25:47 UTC	Bonja97, rachyrules, Wittvector	645	5	25
+267218	4	0	White (6 Suits)	2020-08-10 — 13:43:08 UTC	Animex52, Bonja97, rachyrules, reuzed	76	6	30
+267207	3	24	No Variant	2020-08-10 — 12:54:24 UTC	Bonja97, rachyrules, reuzed	272	5	25
+267186	3	25	No Variant	2020-08-10 — 12:25:47 UTC	Bonja97, rachyrules, Wittvector	655	5	25
 267015	6	0	Up or Down (6 Suits)	2020-08-10 — 06:50:53 UTC	Bonja97, crossproduct, Dr_Kakashi, joelwool, pianoblook, rs1	10	6	30
-266983	4	20	Rainbow & White (4 Suits)	2020-08-10 — 05:52:04 UTC	Bonja97, crossproduct, pianoblook, rs1	8	4	20
+266983	4	20	Rainbow & White (4 Suits)	2020-08-10 — 05:52:04 UTC	Bonja97, crossproduct, pianoblook, rs1	9	4	20
 266939	4	0	Rainbow & White (4 Suits)	2020-08-10 — 05:14:26 UTC	Bonja97, crossproduct, pianoblook, rs1	12	4	20
-266910	4	20	Muddy Rainbow (4 Suits)	2020-08-10 — 04:48:13 UTC	Bonja97, joelwool, pianoblook, rs1	16	4	20
-266875	4	0	Rainbow (4 Suits)	2020-08-10 — 04:15:06 UTC	Bonja97, joelwool, rs1, XMIL	45	4	20
-266159	4	0	Rainbow (5 Suits)	2020-08-09 — 10:41:06 UTC	Bonja97, MarkusKahlsen, Pablo-, reuzed	68	5	25
-266156	2	0	Rainbow (5 Suits)	2020-08-09 — 10:20:20 UTC	Bonja97, Pablo-	75	5	25
+266910	4	20	Muddy Rainbow (4 Suits)	2020-08-10 — 04:48:13 UTC	Bonja97, joelwool, pianoblook, rs1	17	4	20
+266875	4	0	Rainbow (4 Suits)	2020-08-10 — 04:15:06 UTC	Bonja97, joelwool, rs1, XMIL	46	4	20
+266159	4	0	Rainbow (5 Suits)	2020-08-09 — 10:41:06 UTC	Bonja97, MarkusKahlsen, Pablo-, reuzed	70	5	25
+266156	2	0	Rainbow (5 Suits)	2020-08-09 — 10:20:20 UTC	Bonja97, Pablo-	77	5	25
 266138	3	25	Brown (5 Suits)	2020-08-09 — 07:54:22 UTC	Bonja97, vEnhance, XMIL	31	5	25
 266131	3	0	Brown (5 Suits)	2020-08-09 — 07:31:02 UTC	Bonja97, vEnhance, XMIL	38	5	25
 266107	4	25	White (5 Suits)	2020-08-09 — 06:54:34 UTC	Bonja97, rs1, vEnhance, XMIL	31	5	25
-266087	4	0	White (5 Suits)	2020-08-09 — 06:21:43 UTC	Bonja97, rs1, vEnhance, XMIL	32	5	25
+266087	4	0	White (5 Suits)	2020-08-09 — 06:21:43 UTC	Bonja97, rs1, vEnhance, XMIL	33	5	25
 266060	5	23	White (5 Suits)	2020-08-09 — 06:02:13 UTC	alv1nn, Bonja97, rs1, vEnhance, XMIL	26	5	25
-266026	4	25	No Variant	2020-08-09 — 05:27:17 UTC	Bonja97, rs1, vEnhance, XMIL	111	5	25
-265540	3	0	Black & White (5 Suits)	2020-08-08 — 21:34:01 UTC	Bonja97, IsabeltheCat, will.i.am	40	5	25
+266026	4	25	No Variant	2020-08-09 — 05:27:17 UTC	Bonja97, rs1, vEnhance, XMIL	112	5	25
+265540	3	0	Black & White (5 Suits)	2020-08-08 — 21:34:01 UTC	Bonja97, IsabeltheCat, will.i.am	41	5	25
 265530	3	0	Black & White (5 Suits)	2020-08-08 — 21:15:52 UTC	Bonja97, IsabeltheCat, will.i.am	45	5	25
 265236	4	0	Dark Omni (6 Suits)	2020-08-08 — 10:10:16 UTC	Bonja97, Dr_Kakashi, piper, sephiroth	9	6	30
 265231	4	0	Dark Omni (6 Suits)	2020-08-08 — 09:49:32 UTC	Bonja97, Dr_Kakashi, piper, sephiroth	9	6	30
 265229	4	0	Dark Omni (6 Suits)	2020-08-08 — 09:37:30 UTC	Bonja97, Dr_Kakashi, piper, sephiroth	11	6	30
 265091	4	22	Gray Pink (5 Suits)	2020-08-08 — 07:00:13 UTC	Bonja97, Dr_Kakashi, piper, rs1	12	5	25
-265032	3	24	Gray Pink (5 Suits)	2020-08-08 — 06:27:22 UTC	Bonja97, Dr_Kakashi, piper	6	5	25
-264988	4	0	Dark Omni (6 Suits)	2020-08-08 — 05:56:54 UTC	Bonja97, Dr_Kakashi, pianoblook, piper	12	6	30
+265032	3	24	Gray Pink (5 Suits)	2020-08-08 — 06:27:22 UTC	Bonja97, Dr_Kakashi, piper	7	5	25
+264988	4	0	Dark Omni (6 Suits)	2020-08-08 — 05:56:54 UTC	Bonja97, Dr_Kakashi, pianoblook, piper	13	6	30
 264953	4	0	Dark Omni (6 Suits)	2020-08-08 — 05:30:10 UTC	Bonja97, Dr_Kakashi, pianoblook, piper	14	6	30
 264939	4	25	Cocoa Rainbow (5 Suits)	2020-08-08 — 05:17:09 UTC	Bonja97, Dr_Kakashi, pianoblook, piper	3	5	25
-264549	3	0	Up or Down (5 Suits)	2020-08-07 — 23:07:49 UTC	Bonja97, joelwool, sheamol	62	5	25
-264539	3	22	Up or Down (5 Suits)	2020-08-07 — 22:57:43 UTC	Bonja97, joelwool, sheamol	88	5	25
-264518	3	0	Up or Down (5 Suits)	2020-08-07 — 22:37:22 UTC	Bonja97, joelwool, sheamol	113	5	25
+264549	3	0	Up or Down (5 Suits)	2020-08-07 — 23:07:49 UTC	Bonja97, joelwool, sheamol	64	5	25
+264539	3	22	Up or Down (5 Suits)	2020-08-07 — 22:57:43 UTC	Bonja97, joelwool, sheamol	89	5	25
+264518	3	0	Up or Down (5 Suits)	2020-08-07 — 22:37:22 UTC	Bonja97, joelwool, sheamol	114	5	25
 264485	5	0	6 Suits	2020-08-07 — 22:00:42 UTC	Bonja97, DMoney, Floriman, sheamol, Tobythedog	12	6	30
 264465	4	0	Ambiguous (6 Suits)	2020-08-07 — 21:31:42 UTC	Ahming, Bonja97, Floriman, sheamol	32	6	30
 264151	5	30	Muddy Rainbow (6 Suits)	2020-08-07 — 09:56:17 UTC	Bonja97, derekcheah, piper, sephiroth, Zakisan	5	6	30
@@ -1238,14 +1253,14 @@
 263913	3	0	Black & Muddy Rainbow (5 Suits)	2020-08-07 — 02:56:08 UTC	Bonja97, melwen, scharkbite	3	5	25
 263892	4	25	Black & Muddy Rainbow (5 Suits)	2020-08-07 — 02:34:20 UTC	Bonja97, melwen, scharkbite, will.i.am	3	5	25
 263873	5	0	Black & Muddy Rainbow (5 Suits)	2020-08-07 — 02:12:34 UTC	Bonja97, derekcheah, melwen, scharkbite, will.i.am	1	5	25
-263775	5	23	No Variant	2020-08-07 — 00:42:08 UTC	Ahming, Bonja97, Clarendon, joelwool, wenderlah	457	5	25
-263750	4	0	No Variant	2020-08-07 — 00:10:24 UTC	Ahming, Bonja97, Clarendon, wenderlah	601	5	25
+263775	5	23	No Variant	2020-08-07 — 00:42:08 UTC	Ahming, Bonja97, Clarendon, joelwool, wenderlah	461	5	25
+263750	4	0	No Variant	2020-08-07 — 00:10:24 UTC	Ahming, Bonja97, Clarendon, wenderlah	606	5	25
 263423	4	0	Dark Brown (5 Suits)	2020-08-06 — 12:19:12 UTC	Bonja97, Dr_Kakashi, Floriman, Nitrate2	3	5	25
 263418	4	23	Dark Brown (5 Suits)	2020-08-06 — 12:00:08 UTC	Bonja97, Dr_Kakashi, Floriman, Nitrate2	4	5	25
 263411	4	0	Dark Brown (5 Suits)	2020-08-06 — 11:37:54 UTC	Bonja97, Dr_Kakashi, Floriman, Nitrate2	4	5	25
 263410	4	0	Dark Brown (5 Suits)	2020-08-06 — 11:33:14 UTC	Bonja97, Dr_Kakashi, Floriman, Nitrate2	4	5	25
 263407	4	23	Dark Brown (5 Suits)	2020-08-06 — 11:25:50 UTC	Bonja97, Dr_Kakashi, Floriman, Nitrate2	4	5	25
-263405	4	23	Dark Brown (5 Suits)	2020-08-06 — 11:04:01 UTC	Bonja97, Dr_Kakashi, Floriman, Nitrate2	14	5	25
+263405	4	23	Dark Brown (5 Suits)	2020-08-06 — 11:04:01 UTC	Bonja97, Dr_Kakashi, Floriman, Nitrate2	15	5	25
 263402	6	30	White (6 Suits)	2020-08-06 — 10:36:29 UTC	Bonja97, Dr_Kakashi, Floriman, Nitrate2, Pablo-, TheDaniMan	4	6	30
 263149	4	0	Black & Muddy Rainbow (5 Suits)	2020-08-06 — 03:50:59 UTC	Bonja97, DMoney, emilyzhao, squidgetx	8	5	25
 263133	4	0	Black & Muddy Rainbow (6 Suits)	2020-08-06 — 03:31:38 UTC	Bonja97, DMoney, emilyzhao, squidgetx	8	6	30
@@ -1259,20 +1274,20 @@
 262814	6	29	Black & Muddy Rainbow (6 Suits)	2020-08-05 — 19:26:10 UTC	Bonja97, DMoney, emilyzhao, sephiroth, squidgetx, will.i.am	1	6	30
 262797	3	0	Black & Muddy Rainbow (6 Suits)	2020-08-05 — 18:55:55 UTC	Bonja97, DMoney, will.i.am	11	6	30
 262781	4	30	Muddy Rainbow (6 Suits)	2020-08-05 — 18:18:53 UTC	Bonja97, DMoney, honzas, Kyle	6	6	30
-262768	4	30	Black (6 Suits)	2020-08-05 — 17:44:40 UTC	bilico, Bonja97, egerdm, XMIL	213	6	30
+262768	4	30	Black (6 Suits)	2020-08-05 — 17:44:40 UTC	bilico, Bonja97, egerdm, XMIL	215	6	30
 262763	3	20	White (4 Suits)	2020-08-05 — 17:12:09 UTC	Bonja97, egerdm, XMIL	30	4	20
-262497	4	25	No Variant	2020-08-05 — 09:47:24 UTC	Bonja97, Fey, Pablo-, rachyrules	198	5	25
+262497	4	25	No Variant	2020-08-05 — 09:47:24 UTC	Bonja97, Fey, Pablo-, rachyrules	199	5	25
 262492	4	20	White & Brown (4 Suits)	2020-08-05 — 09:28:56 UTC	Bonja97, derekcheah, Fey, Pablo-	11	4	20
 262488	3	14	Brown (3 Suits)	2020-08-05 — 09:14:44 UTC	Bonja97, derekcheah, Pablo-	29	3	15
 262485	3	0	Brown (3 Suits)	2020-08-05 — 09:08:22 UTC	Bonja97, derekcheah, Pablo-	37	3	15
-262483	3	24	No Variant	2020-08-05 — 09:00:26 UTC	Bonja97, Pablo-, rachyrules	218	5	25
-262477	3	0	No Variant	2020-08-05 — 08:27:32 UTC	Bonja97, Pablo-, rachyrules	223	5	25
+262483	3	24	No Variant	2020-08-05 — 09:00:26 UTC	Bonja97, Pablo-, rachyrules	223	5	25
+262477	3	0	No Variant	2020-08-05 — 08:27:32 UTC	Bonja97, Pablo-, rachyrules	228	5	25
 262045	3	0	Cocoa Rainbow (5 Suits)	2020-08-05 — 01:15:14 UTC	Bonja97, Kyle, will.i.am	10	5	25
 262024	3	21	Cocoa Rainbow (5 Suits)	2020-08-05 — 00:55:03 UTC	Bonja97, Kyle, will.i.am	10	5	25
 262012	3	0	Cocoa Rainbow (5 Suits)	2020-08-05 — 00:40:39 UTC	Bonja97, Kyle, will.i.am	12	5	25
 261485	6	28	Up or Down & Pink (6 Suits)	2020-08-04 — 09:26:25 UTC	Bonja97, derekcheah, joelwool, Pablo-, robense, sephiroth	1	6	30
 261481	4	15	White (3 Suits)	2020-08-04 — 08:55:26 UTC	Bonja97, derekcheah, joelwool, robense	27	3	15
-261474	4	17	Pink (4 Suits)	2020-08-04 — 08:26:46 UTC	Bonja97, Fey, joelwool, kevincaseytdk1	22	4	20
+261474	4	17	Pink (4 Suits)	2020-08-04 — 08:26:46 UTC	Bonja97, Fey, joelwool, kevincaseytdk1	23	4	20
 261463	5	0	Black (5 Suits)	2020-08-04 — 07:53:57 UTC	antitelharsic, Bonja97, Fey, joelwool, kevincaseytdk1	30	5	25
 261449	5	24	Black (5 Suits)	2020-08-04 — 07:25:10 UTC	Bonja97, Fey, joelwool, kevincaseytdk1, MapoTofu	36	5	25
 261429	6	0	Cocoa Rainbow (5 Suits)	2020-08-04 — 06:45:56 UTC	Animex52, Bonja97, derekcheah, IsabeltheCat, joelwool, will.i.am	1	5	25
@@ -1280,7 +1295,7 @@
 261407	6	0	Cocoa Rainbow (5 Suits)	2020-08-04 — 06:26:21 UTC	Animex52, Bonja97, derekcheah, IsabeltheCat, joelwool, will.i.am	1	5	25
 261395	6	0	Cocoa Rainbow (5 Suits)	2020-08-04 — 06:07:57 UTC	Animex52, Bonja97, derekcheah, IsabeltheCat, joelwool, will.i.am	1	5	25
 261374	6	22	Cocoa Rainbow (5 Suits)	2020-08-04 — 05:49:46 UTC	Animex52, Bonja97, derekcheah, IsabeltheCat, joelwool, will.i.am	3	5	25
-260891	3	0	Light Pink (6 Suits)	2020-08-03 — 23:34:07 UTC	Bonja97, qbphoenix, TheDaniMan	25	6	30
+260891	3	0	Light Pink (6 Suits)	2020-08-03 — 23:34:07 UTC	Bonja97, qbphoenix, TheDaniMan	26	6	30
 260870	5	0	Light Pink (5 Suits)	2020-08-03 — 23:01:06 UTC	Bonja97, DMoney, scharkbite, TheDaniMan, Zamiel	3	5	25
 260367	3	28	Rainbow (6 Suits)	2020-08-03 — 07:29:06 UTC	asaelr, Bonja97, joelwool	19	6	30
 260349	4	24	Up or Down (5 Suits)	2020-08-03 — 06:59:01 UTC	asaelr, Bonja97, joelwool, rs1	75	5	25
@@ -1288,28 +1303,28 @@
 260316	5	0	No Variant	2020-08-03 — 06:07:19 UTC	Bonja97, efaust, joelwool, rs1, sjdrodge	7	5	25
 258936	4	30	Pink & White (6 Suits)	2020-08-02 — 10:07:40 UTC	asaelr, Bonja97, Floriman, Pablo-	7	6	30
 258933	3	15	Pink (3 Suits)	2020-08-02 — 09:42:46 UTC	asaelr, Bonja97, Pablo-	4	3	15
-258929	3	20	White (4 Suits)	2020-08-02 — 09:14:32 UTC	Bonja97, Pablo-, Wittvector	46	4	20
-258925	3	18	White (4 Suits)	2020-08-02 — 08:53:56 UTC	Bonja97, Pablo-, Wittvector	59	4	20
-258847	4	0	No Variant	2020-08-02 — 05:30:11 UTC	Bonja97, DMoney, lalchetian, Smandon	243	5	25
+258929	3	20	White (4 Suits)	2020-08-02 — 09:14:32 UTC	Bonja97, Pablo-, Wittvector	47	4	20
+258925	3	18	White (4 Suits)	2020-08-02 — 08:53:56 UTC	Bonja97, Pablo-, Wittvector	62	4	20
+258847	4	0	No Variant	2020-08-02 — 05:30:11 UTC	Bonja97, DMoney, lalchetian, Smandon	245	5	25
 258815	3	0	Pink (3 Suits)	2020-08-02 — 05:08:04 UTC	Bonja97, DMoney, Smandon	6	3	15
 258800	3	0	Pink (3 Suits)	2020-08-02 — 04:59:34 UTC	Bonja97, DMoney, Smandon	6	3	15
 258779	3	14	Pink (3 Suits)	2020-08-02 — 04:51:07 UTC	Ahming, Bonja97, Smandon	8	3	15
 258748	3	14	Pink (3 Suits)	2020-08-02 — 04:29:24 UTC	Ahming, Bonja97, Smandon	11	3	15
 258723	3	0	Rainbow (3 Suits)	2020-08-02 — 04:16:56 UTC	Ahming, Bonja97, Smandon	36	3	15
-258714	3	15	3 Suits	2020-08-02 — 04:10:38 UTC	Ahming, Bonja97, Smandon	51	3	15
+258714	3	15	3 Suits	2020-08-02 — 04:10:38 UTC	Ahming, Bonja97, Smandon	52	3	15
 258049	5	22	Black (5 Suits)	2020-08-01 — 16:00:31 UTC	Andrew_UK, Bonja97, MarkusKahlsen, melwen, pianoblook	11	5	25
 258034	4	22	Black (5 Suits)	2020-08-01 — 15:36:50 UTC	Andrew_UK, Bonja97, MarkusKahlsen, pianoblook	14	5	25
 258026	4	21	Black (5 Suits)	2020-08-01 — 15:14:21 UTC	Andrew_UK, Bonja97, MarkusKahlsen, pianoblook	14	5	25
 258012	4	15	Brown (3 Suits)	2020-08-01 — 14:52:04 UTC	Bonja97, MarkusKahlsen, melwen, pianoblook	8	3	15
 258004	4	13	Brown (3 Suits)	2020-08-01 — 14:30:49 UTC	Bonja97, MarkusKahlsen, melwen, pianoblook	13	3	15
-258000	5	22	No Variant	2020-08-01 — 14:04:53 UTC	Animex52, Bonja97, lalchetian, melwen, sephiroth	120	5	25
-257992	4	24	No Variant	2020-08-01 — 13:09:24 UTC	Animex52, Bonja97, lalchetian, melwen	17	5	25
-257533	2	30	Rainbow (6 Suits)	2020-08-01 — 02:26:14 UTC	Bonja97, robense	50	6	30
-257513	2	0	Rainbow (6 Suits)	2020-08-01 — 02:03:18 UTC	Bonja97, robense	52	6	30
+258000	5	22	No Variant	2020-08-01 — 14:04:53 UTC	Animex52, Bonja97, lalchetian, melwen, sephiroth	122	5	25
+257992	4	24	No Variant	2020-08-01 — 13:09:24 UTC	Animex52, Bonja97, lalchetian, melwen	18	5	25
+257533	2	30	Rainbow (6 Suits)	2020-08-01 — 02:26:14 UTC	Bonja97, robense	51	6	30
+257513	2	0	Rainbow (6 Suits)	2020-08-01 — 02:03:18 UTC	Bonja97, robense	53	6	30
 257495	2	0	Rainbow (6 Suits)	2020-08-01 — 01:49:59 UTC	Bonja97, robense	54	6	30
 257492	2	0	Rainbow (6 Suits)	2020-08-01 — 01:48:26 UTC	Bonja97, robense	54	6	30
-257157	5	28	Gray (6 Suits)	2020-07-31 — 16:56:16 UTC	Bonja97, joelwool, MarkusKahlsen, pianoblook, wortel	14	6	30
-257150	3	0	Gray (5 Suits)	2020-07-31 — 16:25:26 UTC	Bonja97, MarkusKahlsen, pianoblook	11	5	25
+257157	5	28	Gray (6 Suits)	2020-07-31 — 16:56:16 UTC	Bonja97, joelwool, MarkusKahlsen, pianoblook, wortel	15	6	30
+257150	3	0	Gray (5 Suits)	2020-07-31 — 16:25:26 UTC	Bonja97, MarkusKahlsen, pianoblook	12	5	25
 257148	3	25	Pink & Brown (5 Suits)	2020-07-31 — 16:12:49 UTC	Bonja97, Fey, joelwool	22	5	25
 257142	3	25	White & Brown (5 Suits)	2020-07-31 — 15:46:32 UTC	Bonja97, Fey, joelwool	15	5	25
 257136	3	0	White & Brown (5 Suits)	2020-07-31 — 15:28:54 UTC	Bonja97, Fey, joelwool	23	5	25
@@ -1318,24 +1333,24 @@
 256968	4	25	No Variant	2020-07-31 — 06:31:06 UTC	Bonja97, lalchetian, pianoblook, piper	33	5	25
 256917	6	23	Pink (5 Suits)	2020-07-31 — 05:55:34 UTC	Bonja97, emilyzhao, pianoblook, piper, squidgetx, TheDaniMan	3	5	25
 256885	6	0	Pink (5 Suits)	2020-07-31 — 05:27:56 UTC	Bonja97, emilyzhao, Fey, JerryYang, piper, squidgetx	9	5	25
-256777	4	24	Black (5 Suits)	2020-07-31 — 04:30:32 UTC	Bonja97, IsabeltheCat, kevincaseytdk1, melwen	49	5	25
-256749	4	0	Black (5 Suits)	2020-07-31 — 04:12:51 UTC	Bonja97, IsabeltheCat, kevincaseytdk1, melwen	63	5	25
-256740	4	0	Black (5 Suits)	2020-07-31 — 04:05:40 UTC	Bonja97, IsabeltheCat, kevincaseytdk1, melwen	79	5	25
-256716	5	0	Rainbow (6 Suits)	2020-07-31 — 03:37:21 UTC	Bonja97, IsabeltheCat, joelwool, kevincaseytdk1, melwen	101	6	30
+256777	4	24	Black (5 Suits)	2020-07-31 — 04:30:32 UTC	Bonja97, IsabeltheCat, kevincaseytdk1, melwen	51	5	25
+256749	4	0	Black (5 Suits)	2020-07-31 — 04:12:51 UTC	Bonja97, IsabeltheCat, kevincaseytdk1, melwen	64	5	25
+256740	4	0	Black (5 Suits)	2020-07-31 — 04:05:40 UTC	Bonja97, IsabeltheCat, kevincaseytdk1, melwen	80	5	25
+256716	5	0	Rainbow (6 Suits)	2020-07-31 — 03:37:21 UTC	Bonja97, IsabeltheCat, joelwool, kevincaseytdk1, melwen	102	6	30
 256343	6	0	Rainbow & Dark Brown (5 Suits)	2020-07-30 — 19:51:12 UTC	asaelr, Bonja97, joelwool, Kyle, plus, will.i.am	1	5	25
 256335	3	23	Black (5 Suits)	2020-07-30 — 19:26:55 UTC	Bonja97, MarkusKahlsen, Pablo-	92	5	25
 256329	3	0	Black (5 Suits)	2020-07-30 — 19:08:24 UTC	Bonja97, MarkusKahlsen, Pablo-	101	5	25
 256325	4	0	Black (5 Suits)	2020-07-30 — 19:01:54 UTC	Bonja97, frollo9386, MarkusKahlsen, Pablo-	32	5	25
-256320	4	0	Black (5 Suits)	2020-07-30 — 18:50:32 UTC	Bonja97, frollo9386, MarkusKahlsen, Pablo-	36	5	25
-256307	4	0	Black (5 Suits)	2020-07-30 — 18:23:43 UTC	Bonja97, frollo9386, MarkusKahlsen, Pablo-	36	5	25
+256320	4	0	Black (5 Suits)	2020-07-30 — 18:50:32 UTC	Bonja97, frollo9386, MarkusKahlsen, Pablo-	37	5	25
+256307	4	0	Black (5 Suits)	2020-07-30 — 18:23:43 UTC	Bonja97, frollo9386, MarkusKahlsen, Pablo-	37	5	25
 256209	5	28	Black (6 Suits)	2020-07-30 — 10:07:00 UTC	Bonja97, MarkusKahlsen, sephiroth, swineherd, theandrewni	23	6	30
-256195	5	28	Black (6 Suits)	2020-07-30 — 09:29:16 UTC	Bonja97, MarkusKahlsen, sephiroth, swineherd, theandrewni	21	6	30
+256195	5	28	Black (6 Suits)	2020-07-30 — 09:29:16 UTC	Bonja97, MarkusKahlsen, sephiroth, swineherd, theandrewni	22	6	30
 256182	5	22	Black (5 Suits)	2020-07-30 — 08:50:03 UTC	Bonja97, MarkusKahlsen, sephiroth, swineherd, theandrewni	18	5	25
 256168	5	0	Black (5 Suits)	2020-07-30 — 08:25:40 UTC	Bonja97, Fey, sephiroth, swineherd, theandrewni	27	5	25
 256159	3	24	Rainbow & Brown (5 Suits)	2020-07-30 — 08:05:02 UTC	Bonja97, robense, sephiroth	25	5	25
-256116	2	26	Up or Down (6 Suits)	2020-07-30 — 06:44:58 UTC	Bonja97, rs1	60	6	30
-256100	2	26	Up or Down (6 Suits)	2020-07-30 — 06:26:25 UTC	Bonja97, rs1	75	6	30
-255876	4	24	Pink-Ones (5 Suits)	2020-07-30 — 02:40:50 UTC	Bonja97, melwen, Nitrate2, scharkbite	3	5	25
+256116	2	26	Up or Down (6 Suits)	2020-07-30 — 06:44:58 UTC	Bonja97, rs1	61	6	30
+256100	2	26	Up or Down (6 Suits)	2020-07-30 — 06:26:25 UTC	Bonja97, rs1	76	6	30
+255876	4	24	Pink-Ones (5 Suits)	2020-07-30 — 02:40:50 UTC	Bonja97, melwen, Nitrate2, scharkbite	4	5	25
 255856	4	0	Pink-Ones (5 Suits)	2020-07-30 — 02:22:28 UTC	Bonja97, melwen, Nitrate2, scharkbite	11	5	25
 255841	4	0	Pink-Ones & Omni (5 Suits)	2020-07-30 — 02:14:17 UTC	Bonja97, melwen, Nitrate2, scharkbite	2	5	25
 255813	4	0	Pink-Ones & Omni (5 Suits)	2020-07-30 — 01:58:02 UTC	Bonja97, melwen, Nitrate2, scharkbite	3	5	25
@@ -1347,33 +1362,33 @@
 255718	6	0	Rainbow & Pink (5 Suits)	2020-07-30 — 00:22:34 UTC	Bonja97, melwen, Nitrate2, plus, sephiroth, will.i.am	2	5	25
 255696	6	0	Rainbow & Pink (5 Suits)	2020-07-30 — 00:09:05 UTC	Bonja97, melwen, Nitrate2, plus, sephiroth, will.i.am	2	5	25
 255689	6	0	Rainbow & Pink (5 Suits)	2020-07-30 — 00:06:05 UTC	Bonja97, melwen, Nitrate2, plus, sephiroth, will.i.am	3	5	25
-255672	3	0	Rainbow & Pink (5 Suits)	2020-07-29 — 23:55:37 UTC	Bonja97, melwen, plus	22	5	25
-255637	3	0	Rainbow & Pink (5 Suits)	2020-07-29 — 23:33:59 UTC	Bonja97, melwen, plus	29	5	25
+255672	3	0	Rainbow & Pink (5 Suits)	2020-07-29 — 23:55:37 UTC	Bonja97, melwen, plus	23	5	25
+255637	3	0	Rainbow & Pink (5 Suits)	2020-07-29 — 23:33:59 UTC	Bonja97, melwen, plus	30	5	25
 255247	5	16	Rainbow (4 Suits)	2020-07-29 — 10:49:41 UTC	Bonja97, joelwool, MarkusKahlsen, Nitrate2, sephiroth	2	4	20
 255242	5	0	Rainbow (4 Suits)	2020-07-29 — 10:21:38 UTC	Bonja97, joelwool, MarkusKahlsen, Nitrate2, sephiroth	3	4	20
 255239	5	0	Rainbow (4 Suits)	2020-07-29 — 09:43:11 UTC	Bonja97, joelwool, MarkusKahlsen, Nitrate2, sephiroth	3	4	20
 255238	5	0	Rainbow (4 Suits)	2020-07-29 — 09:19:32 UTC	Bonja97, joelwool, MarkusKahlsen, Nitrate2, sephiroth	4	4	20
-255235	3	24	No Variant	2020-07-29 — 08:45:00 UTC	antitelharsic, Bonja97, methmatics	178	5	25
-255231	4	0	No Variant	2020-07-29 — 08:08:27 UTC	antitelharsic, Bonja97, methmatics, robense	125	5	25
+255235	3	24	No Variant	2020-07-29 — 08:45:00 UTC	antitelharsic, Bonja97, methmatics	179	5	25
+255231	4	0	No Variant	2020-07-29 — 08:08:27 UTC	antitelharsic, Bonja97, methmatics, robense	126	5	25
 255015	5	0	Special Mix (5 Suits)	2020-07-29 — 03:25:11 UTC	Bonja97, joelwool, melwen, scharkbite, will.i.am	3	5	25
 254973	4	23	Special Mix (5 Suits)	2020-07-29 — 02:41:59 UTC	Bonja97, joelwool, melwen, scharkbite	6	5	25
 254916	4	0	Black & Light Pink (5 Suits)	2020-07-29 — 02:08:21 UTC	Bonja97, joelwool, melwen, will.i.am	3	5	25
 254851	4	0	Special Mix (5 Suits)	2020-07-29 — 01:21:22 UTC	Ahming, Bonja97, joelwool, melwen	9	5	25
 254796	4	0	Special Mix (5 Suits)	2020-07-29 — 00:59:15 UTC	Ahming, Bonja97, joelwool, melwen	16	5	25
-253974	3	0	Dark Rainbow (5 Suits)	2020-07-28 — 05:50:15 UTC	Bonja97, Pablo-, theandrewni	48	5	25
-253851	3	30	Black (6 Suits)	2020-07-28 — 05:07:37 UTC	Bonja97, Pablo-, theandrewni	325	6	30
+253974	3	0	Dark Rainbow (5 Suits)	2020-07-28 — 05:50:15 UTC	Bonja97, Pablo-, theandrewni	49	5	25
+253851	3	30	Black (6 Suits)	2020-07-28 — 05:07:37 UTC	Bonja97, Pablo-, theandrewni	332	6	30
 253794	5	0	No Variant	2020-07-28 — 04:42:34 UTC	Bonja97, florrat2, padi, RaKXeR, Tiramisu1th	15	5	25
-253754	4	29	Black (6 Suits)	2020-07-28 — 04:26:24 UTC	Bonja97, emilyzhao, Pablo-, squidgetx	90	6	30
-253687	4	0	Black (6 Suits)	2020-07-28 — 03:54:00 UTC	Bonja97, emilyzhao, Pablo-, squidgetx	91	6	30
+253754	4	29	Black (6 Suits)	2020-07-28 — 04:26:24 UTC	Bonja97, emilyzhao, Pablo-, squidgetx	95	6	30
+253687	4	0	Black (6 Suits)	2020-07-28 — 03:54:00 UTC	Bonja97, emilyzhao, Pablo-, squidgetx	95	6	30
 252910	4	0	Rainbow & Gray Pink (5 Suits)	2020-07-27 — 05:32:45 UTC	Bonja97, Fey, joelwool, will.i.am	3	5	25
 252798	4	21	Rainbow & Gray Pink (5 Suits)	2020-07-27 — 05:00:24 UTC	Bonja97, Fey, joelwool, will.i.am	5	5	25
 252718	3	0	Rainbow & Gray Pink (5 Suits)	2020-07-27 — 04:35:04 UTC	Bonja97, joelwool, will.i.am	6	5	25
 252700	3	20	White & Brown (4 Suits)	2020-07-27 — 04:25:28 UTC	Bonja97, joelwool, will.i.am	9	4	20
 252412	6	0	Dark Pink (5 Suits)	2020-07-27 — 01:14:46 UTC	Bonja97, derekcheah, melwen, qbphoenix, scharkbite, will.i.am	2	5	25
 252393	6	21	Dark Pink (5 Suits)	2020-07-27 — 00:47:19 UTC	Bonja97, derekcheah, melwen, qbphoenix, scharkbite, will.i.am	4	5	25
-252381	4	0	Dark Pink (5 Suits)	2020-07-27 — 00:30:03 UTC	Bonja97, melwen, qbphoenix, scharkbite	20	5	25
-251974	3	25	No Variant	2020-07-26 — 18:51:11 UTC	Bonja97, DMoney, JerryYang	324	5	25
-251965	4	25	No Variant	2020-07-26 — 18:23:43 UTC	Bonja97, DMoney, JerryYang, Smandon	278	5	25
+252381	4	0	Dark Pink (5 Suits)	2020-07-27 — 00:30:03 UTC	Bonja97, melwen, qbphoenix, scharkbite	21	5	25
+251974	3	25	No Variant	2020-07-26 — 18:51:11 UTC	Bonja97, DMoney, JerryYang	330	5	25
+251965	4	25	No Variant	2020-07-26 — 18:23:43 UTC	Bonja97, DMoney, JerryYang, Smandon	280	5	25
 251663	5	25	Brown-Ones (5 Suits)	2020-07-26 — 06:58:22 UTC	Bonja97, derekcheah, Fey, piper, Zakisan	2	5	25
 251623	5	24	Brown-Ones (5 Suits)	2020-07-26 — 06:17:37 UTC	Bonja97, derekcheah, Fey, joelwool, piper	3	5	25
 251576	5	23	Brown-Ones (5 Suits)	2020-07-26 — 05:39:59 UTC	Bonja97, derekcheah, Fey, joelwool, piper	5	5	25
@@ -1383,13 +1398,13 @@
 250994	6	0	Pink (6 Suits)	2020-07-25 — 20:26:30 UTC	Bonja97, Dr_Kakashi, Fey, kimbifille, qbphoenix, Zakisan	3	6	30
 250953	6	0	Pink (6 Suits)	2020-07-25 — 19:58:02 UTC	Bonja97, Dr_Kakashi, Fey, kimbifille, qbphoenix, Zakisan	4	6	30
 250671	5	22	Pink (5 Suits)	2020-07-25 — 09:09:47 UTC	Bonja97, Fey, joelwool, Pablo-, sephiroth	10	5	25
-250659	4	0	Pink (6 Suits)	2020-07-25 — 08:32:57 UTC	Bonja97, Fey, NoMercy, Pablo-	54	6	30
+250659	4	0	Pink (6 Suits)	2020-07-25 — 08:32:57 UTC	Bonja97, Fey, NoMercy, Pablo-	55	6	30
 250644	4	0	Black (6 Suits)	2020-07-25 — 08:01:40 UTC	bazzy, Bonja97, rs1, XMIL	62	6	30
-250637	4	0	Black (6 Suits)	2020-07-25 — 07:49:22 UTC	bazzy, Bonja97, rs1, XMIL	74	6	30
-250619	3	0	Pink (5 Suits)	2020-07-25 — 07:20:53 UTC	Bonja97, Pablo-, Tiramisu1th	108	5	25
+250637	4	0	Black (6 Suits)	2020-07-25 — 07:49:22 UTC	bazzy, Bonja97, rs1, XMIL	76	6	30
+250619	3	0	Pink (5 Suits)	2020-07-25 — 07:20:53 UTC	Bonja97, Pablo-, Tiramisu1th	112	5	25
 250612	3	30	Pink (6 Suits)	2020-07-25 — 07:05:11 UTC	Bonja97, Pablo-, Tiramisu1th	12	6	30
-250142	3	23	No Variant	2020-07-24 — 23:31:54 UTC	Bonja97, Pablo-, Slonimsky	320	5	25
-250113	3	0	No Variant	2020-07-24 — 22:58:43 UTC	Bonja97, Pablo-, Slonimsky	354	5	25
+250142	3	23	No Variant	2020-07-24 — 23:31:54 UTC	Bonja97, Pablo-, Slonimsky	324	5	25
+250113	3	0	No Variant	2020-07-24 — 22:58:43 UTC	Bonja97, Pablo-, Slonimsky	359	5	25
 249643	3	0	Reversed (5 Suits)	2020-07-24 — 07:36:06 UTC	Bonja97, Fey, joelwool	2	5	25
 249630	3	24	Reversed (5 Suits)	2020-07-24 — 07:05:02 UTC	Bonja97, Fey, joelwool	2	5	25
 249622	3	0	Reversed (5 Suits)	2020-07-24 — 06:43:11 UTC	Bonja97, Fey, joelwool	2	5	25
@@ -1410,10 +1425,10 @@
 248593	3	21	Gray Reversed (5 Suits)	2020-07-23 — 06:33:43 UTC	Bonja97, piper, plus	6	5	25
 248581	3	24	Gray Reversed (5 Suits)	2020-07-23 — 06:07:04 UTC	Bonja97, piper, plus	5	5	25
 248569	3	0	Gray Reversed (5 Suits)	2020-07-23 — 05:40:26 UTC	Bonja97, piper, plus	7	5	25
-248469	4	0	Rainbow (6 Suits)	2020-07-23 — 04:23:42 UTC	ADrone, Ahming, Bonja97, Smandon	275	6	30
-247810	3	29	Rainbow (6 Suits)	2020-07-22 — 15:00:32 UTC	Bonja97, eljobe, VerySloppyTwo	91	6	30
+248469	4	0	Rainbow (6 Suits)	2020-07-23 — 04:23:42 UTC	ADrone, Ahming, Bonja97, Smandon	280	6	30
+247810	3	29	Rainbow (6 Suits)	2020-07-22 — 15:00:32 UTC	Bonja97, eljobe, VerySloppyTwo	93	6	30
 247416	4	23	Rainbow (5 Suits)	2020-07-22 — 01:53:07 UTC	Bonja97, DMoney, melwen, Pablo-	12	5	25
-247364	4	0	Rainbow (6 Suits)	2020-07-22 — 01:24:03 UTC	Bonja97, DMoney, melwen, Pablo-	73	6	30
+247364	4	0	Rainbow (6 Suits)	2020-07-22 — 01:24:03 UTC	Bonja97, DMoney, melwen, Pablo-	74	6	30
 246699	4	0	Omni (5 Suits)	2020-07-21 — 06:51:35 UTC	Bonja97, derekcheah, joelwool, pianoblook	9	5	25
 246688	5	0	Omni (5 Suits)	2020-07-21 — 06:34:50 UTC	Bonja97, derekcheah, Dr_Kakashi, joelwool, pianoblook	3	5	25
 246680	5	0	Omni (5 Suits)	2020-07-21 — 06:24:22 UTC	Bonja97, derekcheah, Dr_Kakashi, joelwool, pianoblook	3	5	25
@@ -1423,28 +1438,28 @@
 245349	6	0	Brown-Fives & Pink (6 Suits)	2020-07-19 — 21:56:46 UTC	Bonja97, DMoney, scharkbite, swineherd, TheDaniMan, will.i.am	1	6	30
 245333	6	29	Brown-Fives & Pink (6 Suits)	2020-07-19 — 21:44:59 UTC	Bonja97, DMoney, Floriman, scharkbite, swineherd, TheDaniMan	1	6	30
 244794	6	0	Rainbow (5 Suits)	2020-07-19 — 05:43:59 UTC	antitelharsic, Bonja97, derekcheah, joelwool, piper, will.i.am	15	5	25
-244662	4	20	Rainbow (5 Suits)	2020-07-19 — 04:23:40 UTC	Bonja97, guava, rcaseyatbat, stephanielo	130	5	25
-244200	4	0	Brown (5 Suits)	2020-07-18 — 22:05:15 UTC	Bonja97, derekcheah, MarkusKahlsen, swineherd	19	5	25
+244662	4	20	Rainbow (5 Suits)	2020-07-19 — 04:23:40 UTC	Bonja97, guava, rcaseyatbat, stephanielo	131	5	25
+244200	4	0	Brown (5 Suits)	2020-07-18 — 22:05:15 UTC	Bonja97, derekcheah, MarkusKahlsen, swineherd	20	5	25
 244162	4	0	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-18 — 21:31:32 UTC	Bonja97, derekcheah, swineherd, will.i.am	1	5	25
-243945	4	0	Black (6 Suits)	2020-07-18 — 16:58:12 UTC	Bonja97, Pablo-, swineherd, Tiramisu1th	128	6	30
+243945	4	0	Black (6 Suits)	2020-07-18 — 16:58:12 UTC	Bonja97, Pablo-, swineherd, Tiramisu1th	129	6	30
 243935	3	0	Pink (3 Suits)	2020-07-18 — 16:29:31 UTC	Bonja97, Pablo-, Tiramisu1th	9	3	15
 243928	3	13	Pink (3 Suits)	2020-07-18 — 16:08:59 UTC	Bonja97, Pablo-, Tiramisu1th	9	3	15
 243796	3	0	Pink (3 Suits)	2020-07-18 — 08:14:36 UTC	Bonja97, joelwool, Pablo-	10	3	15
-243783	3	14	Pink (3 Suits)	2020-07-18 — 07:53:47 UTC	Bonja97, joelwool, Pablo-	12	3	15
-243776	3	0	Pink (3 Suits)	2020-07-18 — 07:37:31 UTC	Bonja97, joelwool, Pablo-	13	3	15
-243770	3	13	Pink (3 Suits)	2020-07-18 — 07:28:09 UTC	Bonja97, joelwool, Pablo-	33	3	15
-243757	3	14	Pink (3 Suits)	2020-07-18 — 07:09:05 UTC	Bonja97, derekcheah, joelwool	19	3	15
-243741	3	0	Pink (3 Suits)	2020-07-18 — 06:47:49 UTC	Bonja97, derekcheah, joelwool	23	3	15
-243728	3	0	Pink (3 Suits)	2020-07-18 — 06:33:09 UTC	Bonja97, derekcheah, joelwool	27	3	15
-243723	3	0	Pink (3 Suits)	2020-07-18 — 06:27:52 UTC	Bonja97, derekcheah, joelwool	44	3	15
+243783	3	14	Pink (3 Suits)	2020-07-18 — 07:53:47 UTC	Bonja97, joelwool, Pablo-	13	3	15
+243776	3	0	Pink (3 Suits)	2020-07-18 — 07:37:31 UTC	Bonja97, joelwool, Pablo-	15	3	15
+243770	3	13	Pink (3 Suits)	2020-07-18 — 07:28:09 UTC	Bonja97, joelwool, Pablo-	34	3	15
+243757	3	14	Pink (3 Suits)	2020-07-18 — 07:09:05 UTC	Bonja97, derekcheah, joelwool	21	3	15
+243741	3	0	Pink (3 Suits)	2020-07-18 — 06:47:49 UTC	Bonja97, derekcheah, joelwool	25	3	15
+243728	3	0	Pink (3 Suits)	2020-07-18 — 06:33:09 UTC	Bonja97, derekcheah, joelwool	29	3	15
+243723	3	0	Pink (3 Suits)	2020-07-18 — 06:27:52 UTC	Bonja97, derekcheah, joelwool	46	3	15
 243696	3	20	Pink (4 Suits)	2020-07-18 — 06:09:05 UTC	Bonja97, derekcheah, joelwool	11	4	20
 243644	4	0	Ambiguous (6 Suits)	2020-07-18 — 05:37:29 UTC	Bonja97, derekcheah, pianoblook, piper	40	6	30
 243606	4	0	Ambiguous & Black (5 Suits)	2020-07-18 — 05:13:36 UTC	Bonja97, derekcheah, pianoblook, piper	2	5	25
 243325	4	22	Black (5 Suits)	2020-07-18 — 01:59:44 UTC	Bonja97, joelwool, pianoblook, TheDaniMan	16	5	25
 243267	5	0	Dual-Color Mix	2020-07-18 — 01:26:35 UTC	ADrone, Bonja97, joelwool, pianoblook, TheDaniMan	5	6	30
-243139	6	22	No Variant	2020-07-18 — 00:12:23 UTC	Bonja97, guava, lotem, Puzzle, rotem, theandrewni	282	5	25
-242754	5	23	No Variant	2020-07-17 — 18:11:04 UTC	bobfasul, Bonja97, eljobe, imu_96, Slonimsky	541	5	25
-242733	4	24	No Variant	2020-07-17 — 17:22:20 UTC	bobfasul, Bonja97, imu_96, Slonimsky	384	5	25
+243139	6	22	No Variant	2020-07-18 — 00:12:23 UTC	Bonja97, guava, lotem, Puzzle, rotem, theandrewni	284	5	25
+242754	5	23	No Variant	2020-07-17 — 18:11:04 UTC	bobfasul, Bonja97, eljobe, imu_96, Slonimsky	546	5	25
+242733	4	24	No Variant	2020-07-17 — 17:22:20 UTC	bobfasul, Bonja97, imu_96, Slonimsky	387	5	25
 242534	5	20	Rainbow (4 Suits)	2020-07-17 — 07:35:54 UTC	Bonja97, derekcheah, pianoblook, plus, TheDaniMan	10	4	20
 242519	5	0	Rainbow (4 Suits)	2020-07-17 — 07:16:13 UTC	Bonja97, derekcheah, pianoblook, plus, TheDaniMan	11	4	20
 242502	5	0	Ambiguous (6 Suits)	2020-07-17 — 06:46:11 UTC	Bonja97, derekcheah, pianoblook, TheDaniMan, Tiramisu1th	14	6	30
@@ -1453,60 +1468,60 @@
 242425	6	0	6 Suits	2020-07-17 — 05:07:16 UTC	Bonja97, derekcheah, Smandon, TheDaniMan, Tiramisu1th, will.i.am	20	6	30
 242413	6	0	Dual-Color (6 Suits)	2020-07-17 — 04:57:48 UTC	Bonja97, derekcheah, Smandon, TheDaniMan, Tiramisu1th, will.i.am	5	6	30
 242391	5	30	Gray Pink (6 Suits)	2020-07-17 — 04:38:08 UTC	Bonja97, derekcheah, Smandon, TheDaniMan, Tiramisu1th	2	6	30
-241978	4	25	Rainbow (6 Suits)	2020-07-16 — 22:56:49 UTC	Bonja97, melwen, pianoblook, Wittvector	76	6	30
+241978	4	25	Rainbow (6 Suits)	2020-07-16 — 22:56:49 UTC	Bonja97, melwen, pianoblook, Wittvector	77	6	30
 241893	4	0	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-16 — 21:31:48 UTC	Bonja97, DMoney, Kyle, will.i.am	1	5	25
-241865	3	20	Brown (4 Suits)	2020-07-16 — 20:56:23 UTC	Bonja97, Kyle, will.i.am	6	4	20
-241844	3	0	Brown (4 Suits)	2020-07-16 — 20:37:05 UTC	Bonja97, Kyle, will.i.am	9	4	20
+241865	3	20	Brown (4 Suits)	2020-07-16 — 20:56:23 UTC	Bonja97, Kyle, will.i.am	7	4	20
+241844	3	0	Brown (4 Suits)	2020-07-16 — 20:37:05 UTC	Bonja97, Kyle, will.i.am	10	4	20
 241817	6	21	Up or Down & White (5 Suits)	2020-07-16 — 20:10:20 UTC	Bonja97, DMoney, Floriman, MarkusKahlsen, padi, will.i.am	2	5	25
-241098	3	28	Dark Pink (6 Suits)	2020-07-16 — 03:03:57 UTC	Animex52, Bonja97, TheDaniMan	24	6	30
-241056	3	0	Dark Pink (6 Suits)	2020-07-16 — 02:35:46 UTC	Animex52, Bonja97, TheDaniMan	34	6	30
-241041	3	0	Dark Pink (6 Suits)	2020-07-16 — 02:24:07 UTC	Animex52, Bonja97, TheDaniMan	41	6	30
-240926	3	23	No Variant	2020-07-16 — 00:54:01 UTC	Animex52, Bonja97, Slonimsky	375	5	25
+241098	3	28	Dark Pink (6 Suits)	2020-07-16 — 03:03:57 UTC	Animex52, Bonja97, TheDaniMan	25	6	30
+241056	3	0	Dark Pink (6 Suits)	2020-07-16 — 02:35:46 UTC	Animex52, Bonja97, TheDaniMan	35	6	30
+241041	3	0	Dark Pink (6 Suits)	2020-07-16 — 02:24:07 UTC	Animex52, Bonja97, TheDaniMan	42	6	30
+240926	3	23	No Variant	2020-07-16 — 00:54:01 UTC	Animex52, Bonja97, Slonimsky	380	5	25
 240863	4	30	Pink (6 Suits)	2020-07-15 — 23:54:51 UTC	Bonja97, guava, melwen, TheDaniMan	15	6	30
 240839	3	29	White (6 Suits)	2020-07-15 — 23:27:36 UTC	Bonja97, melwen, TheDaniMan	70	6	30
-240832	3	0	White (6 Suits)	2020-07-15 — 23:14:54 UTC	Bonja97, melwen, TheDaniMan	101	6	30
-240830	3	0	White (6 Suits)	2020-07-15 — 23:10:34 UTC	Bonja97, melwen, TheDaniMan	124	6	30
+240832	3	0	White (6 Suits)	2020-07-15 — 23:14:54 UTC	Bonja97, melwen, TheDaniMan	103	6	30
+240830	3	0	White (6 Suits)	2020-07-15 — 23:10:34 UTC	Bonja97, melwen, TheDaniMan	128	6	30
 240823	3	30	Pink (6 Suits)	2020-07-15 — 22:56:53 UTC	Bonja97, melwen, TheDaniMan	53	6	30
 240775	6	23	White (5 Suits)	2020-07-15 — 21:34:47 UTC	Bonja97, DMoney, joelwool, MarkusKahlsen, piper, sheamol	10	5	25
-240744	4	0	Black (5 Suits)	2020-07-15 — 21:12:04 UTC	Bonja97, DMoney, joelwool, piper	98	5	25
-240701	4	24	Black (5 Suits)	2020-07-15 — 20:54:11 UTC	Bonja97, DMoney, pianoblook, piper	9	5	25
+240744	4	0	Black (5 Suits)	2020-07-15 — 21:12:04 UTC	Bonja97, DMoney, joelwool, piper	101	5	25
+240701	4	24	Black (5 Suits)	2020-07-15 — 20:54:11 UTC	Bonja97, DMoney, pianoblook, piper	10	5	25
 240664	4	25	Pink (5 Suits)	2020-07-15 — 20:26:10 UTC	Bonja97, DMoney, pianoblook, piper	13	5	25
 240632	4	24	Light Pink (5 Suits)	2020-07-15 — 19:55:50 UTC	ADrone, Bonja97, DMoney, pianoblook	20	5	25
 240605	6	0	6 Suits	2020-07-15 — 19:22:28 UTC	ADrone, Bonja97, DMoney, egerdm, pianoblook, Smandon	50	6	30
 240589	5	25	Pink (5 Suits)	2020-07-15 — 18:48:08 UTC	Bonja97, DMoney, MarkusKahlsen, Pablo-, scharkbite	7	5	25
 240575	5	0	Pink (5 Suits)	2020-07-15 — 18:18:51 UTC	Bonja97, DMoney, MarkusKahlsen, Pablo-, scharkbite	11	5	25
 240244	5	25	No Variant	2020-07-15 — 06:31:09 UTC	Bonja97, joelwool, pianoblook, piper, RaKXeR	25	5	25
-240204	3	15	Rainbow (3 Suits)	2020-07-15 — 05:53:48 UTC	Bonja97, guava, TheDaniMan	43	3	15
-240195	3	13	Rainbow (3 Suits)	2020-07-15 — 05:44:53 UTC	Bonja97, guava, TheDaniMan	53	3	15
-240182	3	0	Rainbow (3 Suits)	2020-07-15 — 05:33:25 UTC	Bonja97, guava, TheDaniMan	71	3	15
-240163	4	29	Dark Rainbow (6 Suits)	2020-07-15 — 05:17:32 UTC	Bonja97, eljobe, guava, TheDaniMan	53	6	30
-240139	3	22	No Variant	2020-07-15 — 04:52:20 UTC	Bonja97, eljobe, TheDaniMan	109	5	25
+240204	3	15	Rainbow (3 Suits)	2020-07-15 — 05:53:48 UTC	Bonja97, guava, TheDaniMan	44	3	15
+240195	3	13	Rainbow (3 Suits)	2020-07-15 — 05:44:53 UTC	Bonja97, guava, TheDaniMan	54	3	15
+240182	3	0	Rainbow (3 Suits)	2020-07-15 — 05:33:25 UTC	Bonja97, guava, TheDaniMan	72	3	15
+240163	4	29	Dark Rainbow (6 Suits)	2020-07-15 — 05:17:32 UTC	Bonja97, eljobe, guava, TheDaniMan	54	6	30
+240139	3	22	No Variant	2020-07-15 — 04:52:20 UTC	Bonja97, eljobe, TheDaniMan	115	5	25
 239925	6	0	White (5 Suits)	2020-07-15 — 02:45:37 UTC	Ahming, Bonja97, joelwool, melwen, micerang, theandrewni	2	5	25
 239899	6	0	White (5 Suits)	2020-07-15 — 02:27:44 UTC	Ahming, Bonja97, joelwool, melwen, micerang, theandrewni	2	5	25
-239829	3	21	White (5 Suits)	2020-07-15 — 01:47:12 UTC	Ahming, Bonja97, micerang	11	5	25
-239241	5	18	Rainbow (4 Suits)	2020-07-14 — 19:25:22 UTC	Bonja97, Kyle, Pablo-, pianoblook, theandrewni	8	4	20
+239829	3	21	White (5 Suits)	2020-07-15 — 01:47:12 UTC	Ahming, Bonja97, micerang	12	5	25
+239241	5	18	Rainbow (4 Suits)	2020-07-14 — 19:25:22 UTC	Bonja97, Kyle, Pablo-, pianoblook, theandrewni	9	4	20
 239223	5	0	Rainbow (4 Suits)	2020-07-14 — 19:04:41 UTC	Bonja97, Kyle, Pablo-, pianoblook, theandrewni	8	4	20
 239214	4	19	Rainbow (4 Suits)	2020-07-14 — 18:51:31 UTC	Bonja97, Kyle, pianoblook, theandrewni	4	4	20
 239205	3	0	Rainbow (4 Suits)	2020-07-14 — 18:31:53 UTC	Bonja97, Kyle, pianoblook	3	4	20
 239193	5	0	Gray (6 Suits)	2020-07-14 — 18:03:40 UTC	Bonja97, DMoney, Kyle, pianoblook, will.i.am	8	6	30
-239171	3	25	White (5 Suits)	2020-07-14 — 17:29:07 UTC	Bonja97, DMoney, frollo9386	81	5	25
+239171	3	25	White (5 Suits)	2020-07-14 — 17:29:07 UTC	Bonja97, DMoney, frollo9386	84	5	25
 238878	4	23	Black & Rainbow (5 Suits)	2020-07-14 — 04:01:42 UTC	Bonja97, Nitrate2, pianoblook, plus	12	5	25
 238848	5	19	Black & Rainbow (5 Suits)	2020-07-14 — 03:25:10 UTC	Bonja97, Nitrate2, pianoblook, plus, Puzzle	3	5	25
-238816	3	29	6 Suits	2020-07-14 — 02:56:50 UTC	Bonja97, pianoblook, Puzzle	365	6	30
+238816	3	29	6 Suits	2020-07-14 — 02:56:50 UTC	Bonja97, pianoblook, Puzzle	371	6	30
 238776	5	10	Throw It in a Hole & Omni (4 Suits)	2020-07-14 — 02:17:11 UTC	Bonja97, DbladeV, Sipsey, Slonimsky, Ultraling	1	4	20
 238751	6	24	6 Suits	2020-07-14 — 01:54:19 UTC	Bonja97, DbladeV, Sipsey, Slonimsky, susanryan45, Ultraling	84	6	30
-238662	4	19	No Variant	2020-07-14 — 00:23:32 UTC	Bonja97, Sipsey, Slonimsky, susanryan45	655	5	25
-238598	3	24	No Variant	2020-07-13 — 23:12:46 UTC	Bonja97, joelwool, Scaramouche129	1465	5	25
+238662	4	19	No Variant	2020-07-14 — 00:23:32 UTC	Bonja97, Sipsey, Slonimsky, susanryan45	660	5	25
+238598	3	24	No Variant	2020-07-13 — 23:12:46 UTC	Bonja97, joelwool, Scaramouche129	1474	5	25
 238528	4	23	Rainbow (5 Suits)	2020-07-13 — 21:31:56 UTC	Bonja97, DMoney, MarekU, Smandon	63	5	25
-238296	4	23	No Variant	2020-07-13 — 16:19:23 UTC	Bonja97, egerdm, joelwool, swineherd	541	5	25
+238296	4	23	No Variant	2020-07-13 — 16:19:23 UTC	Bonja97, egerdm, joelwool, swineherd	548	5	25
 238287	4	25	No Variant	2020-07-13 — 15:44:25 UTC	Bonja97, egerdm, joelwool, pianoblook	35	5	25
-238279	3	24	No Variant	2020-07-13 — 15:08:50 UTC	Bonja97, Marie92, pianoblook	106	5	25
-238140	4	22	No Variant	2020-07-13 — 05:56:55 UTC	Bonja97, imu_96, joelwool, TheDaniMan	39	5	25
+238279	3	24	No Variant	2020-07-13 — 15:08:50 UTC	Bonja97, Marie92, pianoblook	110	5	25
+238140	4	22	No Variant	2020-07-13 — 05:56:55 UTC	Bonja97, imu_96, joelwool, TheDaniMan	40	5	25
 238120	4	24	No Variant	2020-07-13 — 05:23:14 UTC	Bonja97, imu_96, joelwool, TheDaniMan	130	5	25
-238082	3	24	No Variant	2020-07-13 — 04:45:22 UTC	Bonja97, imu_96, joelwool	1636	5	25
-237572	4	25	No Variant	2020-07-12 — 19:32:44 UTC	Ahming, Bonja97, guava, MarekU	501	5	25
-237549	5	28	6 Suits	2020-07-12 — 18:48:03 UTC	Ahming, Bonja97, joelwool, Pablo-, Slonimsky	132	6	30
-237532	4	0	6 Suits	2020-07-12 — 18:15:22 UTC	Ahming, Bonja97, Pablo-, Slonimsky	354	6	30
+238082	3	24	No Variant	2020-07-13 — 04:45:22 UTC	Bonja97, imu_96, joelwool	1651	5	25
+237572	4	25	No Variant	2020-07-12 — 19:32:44 UTC	Ahming, Bonja97, guava, MarekU	507	5	25
+237549	5	28	6 Suits	2020-07-12 — 18:48:03 UTC	Ahming, Bonja97, joelwool, Pablo-, Slonimsky	133	6	30
+237532	4	0	6 Suits	2020-07-12 — 18:15:22 UTC	Ahming, Bonja97, Pablo-, Slonimsky	359	6	30
 237318	4	15	Pink (3 Suits)	2020-07-12 — 07:31:26 UTC	Bonja97, piper, sephiroth, Zakisan	8	3	15
 237298	5	18	Pink (4 Suits)	2020-07-12 — 07:11:24 UTC	Bonja97, MarkusKahlsen, piper, sephiroth, Zakisan	9	4	20
 237275	4	14	Pink (3 Suits)	2020-07-12 — 06:41:10 UTC	Bonja97, MarkusKahlsen, piper, Zakisan	13	3	15
@@ -1515,81 +1530,81 @@
 237188	5	0	4 Suits	2020-07-12 — 05:05:49 UTC	Bonja97, joelwool, piper, plus, will.i.am	16	4	20
 237133	5	19	4 Suits	2020-07-12 — 04:35:58 UTC	Bonja97, joelwool, piper, plus, will.i.am	47	4	20
 237090	6	18	4 Suits	2020-07-12 — 04:09:08 UTC	Bonja97, joelwool, piper, plus, Puzzle, will.i.am	17	4	20
-236782	4	21	No Variant	2020-07-12 — 00:34:06 UTC	Bonja97, Slonimsky, susanryan45, Ultraling	1253	5	25
+236782	4	21	No Variant	2020-07-12 — 00:34:06 UTC	Bonja97, Slonimsky, susanryan45, Ultraling	1267	5	25
 236434	4	0	Rainbow (5 Suits)	2020-07-11 — 19:02:19 UTC	Bonja97, MarekU, Puzzle, sheamol	42	5	25
 236413	4	25	Rainbow (5 Suits)	2020-07-11 — 18:30:39 UTC	Bonja97, MarekU, Puzzle, sheamol	54	5	25
 236392	4	28	Rainbow (6 Suits)	2020-07-11 — 17:38:57 UTC	Bonja97, MarekU, Pablo-, Puzzle	132	6	30
-236375	3	0	No Variant	2020-07-11 — 17:05:21 UTC	Bonja97, MarekU, Pablo-	386	5	25
-236366	3	25	No Variant	2020-07-11 — 16:53:58 UTC	Bonja97, MarekU, Pablo-	411	5	25
-236351	4	22	No Variant	2020-07-11 — 16:30:31 UTC	Bonja97, joelwool, MarekU, swineherd	717	5	25
-236320	5	22	No Variant	2020-07-11 — 15:54:01 UTC	Bonja97, egerdm, joelwool, MarekU, Slonimsky	1119	5	25
-236302	4	23	No Variant	2020-07-11 — 15:06:40 UTC	Bonja97, egerdm, MarekU, Slonimsky	1092	5	25
+236375	3	0	No Variant	2020-07-11 — 17:05:21 UTC	Bonja97, MarekU, Pablo-	392	5	25
+236366	3	25	No Variant	2020-07-11 — 16:53:58 UTC	Bonja97, MarekU, Pablo-	417	5	25
+236351	4	22	No Variant	2020-07-11 — 16:30:31 UTC	Bonja97, joelwool, MarekU, swineherd	724	5	25
+236320	5	22	No Variant	2020-07-11 — 15:54:01 UTC	Bonja97, egerdm, joelwool, MarekU, Slonimsky	1125	5	25
+236302	4	23	No Variant	2020-07-11 — 15:06:40 UTC	Bonja97, egerdm, MarekU, Slonimsky	1103	5	25
 236156	4	30	Pink (6 Suits)	2020-07-11 — 07:04:00 UTC	Bonja97, derekcheah, piper, plus	21	6	30
-236108	3	25	White (5 Suits)	2020-07-11 — 06:26:29 UTC	Bonja97, eljobe, theandrewni	126	5	25
-236093	3	0	Rainbow (6 Suits)	2020-07-11 — 05:58:11 UTC	Bonja97, eljobe, theandrewni	146	6	30
-235992	3	25	No Variant	2020-07-11 — 04:35:38 UTC	Bonja97, joelwool, theandrewni	422	5	25
+236108	3	25	White (5 Suits)	2020-07-11 — 06:26:29 UTC	Bonja97, eljobe, theandrewni	131	5	25
+236093	3	0	Rainbow (6 Suits)	2020-07-11 — 05:58:11 UTC	Bonja97, eljobe, theandrewni	147	6	30
+235992	3	25	No Variant	2020-07-11 — 04:35:38 UTC	Bonja97, joelwool, theandrewni	428	5	25
 235913	4	23	No Variant	2020-07-11 — 03:37:44 UTC	Bonja97, joelwool, pianoblook, piper	41	5	25
-235359	3	25	No Variant	2020-07-10 — 20:06:55 UTC	Bonja97, CastlesInTheAir, imu_96	1291	5	25
+235359	3	25	No Variant	2020-07-10 — 20:06:55 UTC	Bonja97, CastlesInTheAir, imu_96	1299	5	25
 235273	4	0	Rainbow (6 Suits)	2020-07-10 — 18:34:37 UTC	Bonja97, eljobe, emilyzhao, squidgetx	37	6	30
-235234	3	30	Rainbow (6 Suits)	2020-07-10 — 17:45:04 UTC	Bonja97, eljobe, Fireheart	183	6	30
-234491	3	0	No Variant	2020-07-09 — 22:41:19 UTC	Bonja97, mugsly, theandrewni	451	5	25
-234452	3	25	No Variant	2020-07-09 — 21:58:58 UTC	Bonja97, mugsly, theandrewni	516	5	25
-234420	3	0	No Variant	2020-07-09 — 21:26:44 UTC	Bonja97, mugsly, theandrewni	624	5	25
-234399	3	24	No Variant	2020-07-09 — 20:57:11 UTC	Bonja97, mugsly, will.i.am	134	5	25
-234370	4	24	No Variant	2020-07-09 — 20:17:12 UTC	Bonja97, guava, jeff10, mugsly	793	5	25
-234335	5	21	No Variant	2020-07-09 — 19:36:34 UTC	Bonja97, guava, jeff10, joelwool, mugsly	1510	5	25
-234311	3	25	No Variant	2020-07-09 — 19:01:16 UTC	Bonja97, joelwool, mugsly	4221	5	25
-234128	3	25	Rainbow (5 Suits)	2020-07-09 — 10:23:57 UTC	Bonja97, Pablo-, theandrewni	185	5	25
-234112	4	0	Rainbow (6 Suits)	2020-07-09 — 09:27:01 UTC	Bonja97, Isa, Pablo-, theandrewni	122	6	30
-234100	3	25	No Variant	2020-07-09 — 08:49:55 UTC	antitelharsic, Bonja97, theandrewni	250	5	25
-234087	3	0	No Variant	2020-07-09 — 08:03:05 UTC	antitelharsic, Bonja97, joelwool	259	5	25
-234066	2	20	No Variant	2020-07-09 — 07:24:00 UTC	Bonja97, joelwool	3507	5	25
-234051	2	22	No Variant	2020-07-09 — 06:58:25 UTC	Bonja97, joelwool	4109	5	25
-234040	2	0	No Variant	2020-07-09 — 06:39:22 UTC	Bonja97, joelwool	5374	5	25
-233682	4	22	No Variant	2020-07-09 — 00:27:05 UTC	Bonja97, classico, joelwool, theandrewni	899	5	25
-233653	4	0	No Variant	2020-07-08 — 23:52:13 UTC	Bonja97, joelwool, Puzzle, theandrewni	373	5	25
-233617	4	0	No Variant	2020-07-08 — 23:30:05 UTC	Bonja97, joelwool, Puzzle, theandrewni	419	5	25
-233473	3	22	No Variant	2020-07-08 — 22:08:12 UTC	Bonja97, Puzzle, theandrewni	680	5	25
-233455	3	0	No Variant	2020-07-08 — 21:50:11 UTC	Bonja97, Puzzle, theandrewni	801	5	25
-233438	4	23	No Variant	2020-07-08 — 21:20:37 UTC	Bonja97, Puzzle, sheamol, theandrewni	442	5	25
-233399	4	25	No Variant	2020-07-08 — 20:37:26 UTC	Bonja97, pianoblook, Puzzle, sephiroth	31	5	25
-233365	5	22	No Variant	2020-07-08 — 19:58:50 UTC	Bonja97, Puzzle, sephiroth, sheamol, Zakisan	31	5	25
+235234	3	30	Rainbow (6 Suits)	2020-07-10 — 17:45:04 UTC	Bonja97, eljobe, Fireheart	186	6	30
+234491	3	0	No Variant	2020-07-09 — 22:41:19 UTC	Bonja97, mugsly, theandrewni	456	5	25
+234452	3	25	No Variant	2020-07-09 — 21:58:58 UTC	Bonja97, mugsly, theandrewni	523	5	25
+234420	3	0	No Variant	2020-07-09 — 21:26:44 UTC	Bonja97, mugsly, theandrewni	632	5	25
+234399	3	24	No Variant	2020-07-09 — 20:57:11 UTC	Bonja97, mugsly, will.i.am	140	5	25
+234370	4	24	No Variant	2020-07-09 — 20:17:12 UTC	Bonja97, guava, jeff10, mugsly	800	5	25
+234335	5	21	No Variant	2020-07-09 — 19:36:34 UTC	Bonja97, guava, jeff10, joelwool, mugsly	1518	5	25
+234311	3	25	No Variant	2020-07-09 — 19:01:16 UTC	Bonja97, joelwool, mugsly	4250	5	25
+234128	3	25	Rainbow (5 Suits)	2020-07-09 — 10:23:57 UTC	Bonja97, Pablo-, theandrewni	186	5	25
+234112	4	0	Rainbow (6 Suits)	2020-07-09 — 09:27:01 UTC	Bonja97, Isa, Pablo-, theandrewni	123	6	30
+234100	3	25	No Variant	2020-07-09 — 08:49:55 UTC	antitelharsic, Bonja97, theandrewni	252	5	25
+234087	3	0	No Variant	2020-07-09 — 08:03:05 UTC	antitelharsic, Bonja97, joelwool	261	5	25
+234066	2	20	No Variant	2020-07-09 — 07:24:00 UTC	Bonja97, joelwool	3537	5	25
+234051	2	22	No Variant	2020-07-09 — 06:58:25 UTC	Bonja97, joelwool	4149	5	25
+234040	2	0	No Variant	2020-07-09 — 06:39:22 UTC	Bonja97, joelwool	5421	5	25
+233682	4	22	No Variant	2020-07-09 — 00:27:05 UTC	Bonja97, classico, joelwool, theandrewni	908	5	25
+233653	4	0	No Variant	2020-07-08 — 23:52:13 UTC	Bonja97, joelwool, Puzzle, theandrewni	376	5	25
+233617	4	0	No Variant	2020-07-08 — 23:30:05 UTC	Bonja97, joelwool, Puzzle, theandrewni	423	5	25
+233473	3	22	No Variant	2020-07-08 — 22:08:12 UTC	Bonja97, Puzzle, theandrewni	688	5	25
+233455	3	0	No Variant	2020-07-08 — 21:50:11 UTC	Bonja97, Puzzle, theandrewni	809	5	25
+233438	4	23	No Variant	2020-07-08 — 21:20:37 UTC	Bonja97, Puzzle, sheamol, theandrewni	448	5	25
+233399	4	25	No Variant	2020-07-08 — 20:37:26 UTC	Bonja97, pianoblook, Puzzle, sephiroth	32	5	25
+233365	5	22	No Variant	2020-07-08 — 19:58:50 UTC	Bonja97, Puzzle, sephiroth, sheamol, Zakisan	32	5	25
 233338	6	0	Pink (6 Suits)	2020-07-08 — 19:17:36 UTC	Bonja97, DMoney, NoMercy, Pablo-, Puzzle, squidgetx	2	6	30
 233313	3	20	Brown (4 Suits)	2020-07-08 — 18:47:55 UTC	Bonja97, DMoney, NoMercy	31	4	20
-233295	2	19	Brown (4 Suits)	2020-07-08 — 18:28:15 UTC	Bonja97, DMoney	74	4	20
-233084	4	24	No Variant	2020-07-08 — 07:53:58 UTC	Bonja97, eljobe, metta, OnceUponAQuine	1449	5	25
-233055	4	0	No Variant	2020-07-08 — 07:01:18 UTC	Bonja97, eljobe, metta, OnceUponAQuine	2763	5	25
-233023	4	0	No Variant	2020-07-08 — 06:27:04 UTC	Bonja97, eljobe, metta, OnceUponAQuine	3581	5	25
-232979	3	22	No Variant	2020-07-08 — 05:32:18 UTC	Bonja97, metta, OnceUponAQuine	2163	5	25
-232926	4	24	No Variant	2020-07-08 — 04:16:28 UTC	Bonja97, jeff10, OnceUponAQuine, wenderlah	2076	5	25
-232893	3	0	No Variant	2020-07-08 — 03:35:12 UTC	Bonja97, jeff10, OnceUponAQuine	2606	5	25
-232884	3	0	No Variant	2020-07-08 — 03:25:31 UTC	Bonja97, jeff10, OnceUponAQuine	3260	5	25
-232826	3	0	No Variant	2020-07-08 — 02:24:09 UTC	Bonja97, jeff10, qbphoenix	1174	5	25
-232777	3	0	No Variant	2020-07-08 — 01:47:52 UTC	Bonja97, jeff10, qbphoenix	1881	5	25
+233295	2	19	Brown (4 Suits)	2020-07-08 — 18:28:15 UTC	Bonja97, DMoney	76	4	20
+233084	4	24	No Variant	2020-07-08 — 07:53:58 UTC	Bonja97, eljobe, metta, OnceUponAQuine	1459	5	25
+233055	4	0	No Variant	2020-07-08 — 07:01:18 UTC	Bonja97, eljobe, metta, OnceUponAQuine	2788	5	25
+233023	4	0	No Variant	2020-07-08 — 06:27:04 UTC	Bonja97, eljobe, metta, OnceUponAQuine	3609	5	25
+232979	3	22	No Variant	2020-07-08 — 05:32:18 UTC	Bonja97, metta, OnceUponAQuine	2179	5	25
+232926	4	24	No Variant	2020-07-08 — 04:16:28 UTC	Bonja97, jeff10, OnceUponAQuine, wenderlah	2094	5	25
+232893	3	0	No Variant	2020-07-08 — 03:35:12 UTC	Bonja97, jeff10, OnceUponAQuine	2627	5	25
+232884	3	0	No Variant	2020-07-08 — 03:25:31 UTC	Bonja97, jeff10, OnceUponAQuine	3290	5	25
+232826	3	0	No Variant	2020-07-08 — 02:24:09 UTC	Bonja97, jeff10, qbphoenix	1180	5	25
+232777	3	0	No Variant	2020-07-08 — 01:47:52 UTC	Bonja97, jeff10, qbphoenix	1896	5	25
 232758	3	0	Up or Down (5 Suits)	2020-07-08 — 01:26:53 UTC	avanderwalde, Bonja97, rkass	9	5	25
 232727	3	0	Up or Down (5 Suits)	2020-07-08 — 01:03:31 UTC	avanderwalde, Bonja97, rkass	10	5	25
-232625	5	20	No Variant	2020-07-07 — 23:38:18 UTC	Bonja97, imu_96, Kingstom, Puzzle, theandrewni	658	5	25
-232561	3	25	No Variant	2020-07-07 — 22:58:21 UTC	Bonja97, Kingstom, theandrewni	750	5	25
-232519	3	22	No Variant	2020-07-07 — 22:06:10 UTC	Bonja97, jeff10, MarekU	459	5	25
-232481	3	0	No Variant	2020-07-07 — 21:30:09 UTC	Bonja97, jeff10, MarekU	485	5	25
-232451	3	24	No Variant	2020-07-07 — 20:51:38 UTC	Bonja97, jeff10, MarekU	551	5	25
-232411	3	0	No Variant	2020-07-07 — 20:06:03 UTC	Bonja97, jeff10, MarekU	573	5	25
+232625	5	20	No Variant	2020-07-07 — 23:38:18 UTC	Bonja97, imu_96, Kingstom, Puzzle, theandrewni	667	5	25
+232561	3	25	No Variant	2020-07-07 — 22:58:21 UTC	Bonja97, Kingstom, theandrewni	757	5	25
+232519	3	22	No Variant	2020-07-07 — 22:06:10 UTC	Bonja97, jeff10, MarekU	467	5	25
+232481	3	0	No Variant	2020-07-07 — 21:30:09 UTC	Bonja97, jeff10, MarekU	491	5	25
+232451	3	24	No Variant	2020-07-07 — 20:51:38 UTC	Bonja97, jeff10, MarekU	558	5	25
+232411	3	0	No Variant	2020-07-07 — 20:06:03 UTC	Bonja97, jeff10, MarekU	582	5	25
 232350	4	21	No Variant	2020-07-07 — 18:37:39 UTC	Bonja97, Emory, MarekU, will.i.am	116	5	25
-232331	4	24	No Variant	2020-07-07 — 18:14:42 UTC	Bonja97, Emory, MarekU, will.i.am	117	5	25
-232290	4	24	No Variant	2020-07-07 — 17:05:00 UTC	Bonja97, melwen, Puzzle, swineherd	21	5	25
-232279	4	24	No Variant	2020-07-07 — 16:33:23 UTC	Bonja97, melwen, Puzzle, swineherd	19	5	25
-232259	4	0	Rainbow (6 Suits)	2020-07-07 — 15:58:03 UTC	Bonja97, eljobe, melwen, pianoblook	69	6	30
-232239	4	23	No Variant	2020-07-07 — 14:57:34 UTC	Bonja97, metta, sjdrodge, swineherd	16	5	25
-232233	4	0	No Variant	2020-07-07 — 14:24:06 UTC	Bonja97, metta, sjdrodge, swineherd	16	5	25
+232331	4	24	No Variant	2020-07-07 — 18:14:42 UTC	Bonja97, Emory, MarekU, will.i.am	119	5	25
+232290	4	24	No Variant	2020-07-07 — 17:05:00 UTC	Bonja97, melwen, Puzzle, swineherd	22	5	25
+232279	4	24	No Variant	2020-07-07 — 16:33:23 UTC	Bonja97, melwen, Puzzle, swineherd	21	5	25
+232259	4	0	Rainbow (6 Suits)	2020-07-07 — 15:58:03 UTC	Bonja97, eljobe, melwen, pianoblook	70	6	30
+232239	4	23	No Variant	2020-07-07 — 14:57:34 UTC	Bonja97, metta, sjdrodge, swineherd	17	5	25
+232233	4	0	No Variant	2020-07-07 — 14:24:06 UTC	Bonja97, metta, sjdrodge, swineherd	17	5	25
 232214	4	0	Black (6 Suits)	2020-07-07 — 12:54:29 UTC	asaelr, Bonja97, melwen, Tiramisu1th	5	6	30
-232210	4	25	No Variant	2020-07-07 — 12:42:58 UTC	Bonja97, MarkusKahlsen, Tiramisu1th, Zakisan	162	5	25
+232210	4	25	No Variant	2020-07-07 — 12:42:58 UTC	Bonja97, MarkusKahlsen, Tiramisu1th, Zakisan	166	5	25
 232208	6	23	No Variant	2020-07-07 — 12:08:56 UTC	Bonja97, MarkusKahlsen, metta, sjdrodge, swineherd, Zakisan	10	5	25
-231652	3	0	No Variant	2020-07-06 — 23:58:08 UTC	Bonja97, romanof, santimosna	49	5	25
-231570	4	25	No Variant	2020-07-06 — 23:06:08 UTC	Aluap, antitelharsic, Bonja97, Puzzle	336	5	25
-231474	4	0	No Variant	2020-07-06 — 21:33:29 UTC	blueberry, Bonja97, Pablo-, theandrewni	985	5	25
-231420	5	19	No Variant	2020-07-06 — 20:45:02 UTC	antitelharsic, blueberry, Bonja97, Pablo-, theandrewni	223	5	25
-231375	4	0	No Variant	2020-07-06 — 20:04:34 UTC	blueberry, Bonja97, Pablo-, theandrewni	1744	5	25
-231333	3	25	No Variant	2020-07-06 — 19:25:05 UTC	antitelharsic, Bonja97, theandrewni	275	5	25
-231314	3	0	No Variant	2020-07-06 — 18:54:32 UTC	antitelharsic, Bonja97, theandrewni	285	5	25
-231283	4	23	No Variant	2020-07-06 — 17:54:50 UTC	Bonja97, Puzzle, theandrewni, Wittvector	473	5	25
-231263	3	0	No Variant	2020-07-06 — 17:14:42 UTC	Bonja97, Puzzle, Wittvector	1095	5	25
+231652	3	0	No Variant	2020-07-06 — 23:58:08 UTC	Bonja97, romanof, santimosna	51	5	25
+231570	4	25	No Variant	2020-07-06 — 23:06:08 UTC	Aluap, antitelharsic, Bonja97, Puzzle	340	5	25
+231474	4	0	No Variant	2020-07-06 — 21:33:29 UTC	blueberry, Bonja97, Pablo-, theandrewni	994	5	25
+231420	5	19	No Variant	2020-07-06 — 20:45:02 UTC	antitelharsic, blueberry, Bonja97, Pablo-, theandrewni	226	5	25
+231375	4	0	No Variant	2020-07-06 — 20:04:34 UTC	blueberry, Bonja97, Pablo-, theandrewni	1759	5	25
+231333	3	25	No Variant	2020-07-06 — 19:25:05 UTC	antitelharsic, Bonja97, theandrewni	277	5	25
+231314	3	0	No Variant	2020-07-06 — 18:54:32 UTC	antitelharsic, Bonja97, theandrewni	287	5	25
+231283	4	23	No Variant	2020-07-06 — 17:54:50 UTC	Bonja97, Puzzle, theandrewni, Wittvector	480	5	25
+231263	3	0	No Variant	2020-07-06 — 17:14:42 UTC	Bonja97, Puzzle, Wittvector	1102	5	25

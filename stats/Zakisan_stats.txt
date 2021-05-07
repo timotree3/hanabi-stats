@@ -1,21 +1,26 @@
+518526	4	0	Dark Rainbow (6 Suits)	2021-05-02 — 09:13:30 UTC	bjnh, Fey, Wittvector, Zakisan	18	6	30
+518523	4	29	Dark Rainbow (6 Suits)	2021-05-02 — 08:52:05 UTC	bjnh, Fey, Wittvector, Zakisan	42	6	30
+513852	3	30	Prism Reversed (6 Suits)	2021-04-27 — 10:40:51 UTC	sephiroth, Sucubis, Zakisan	1	6	30
+513846	3	0	Prism Reversed (6 Suits)	2021-04-27 — 10:21:25 UTC	sephiroth, Sucubis, Zakisan	1	6	30
+513845	3	0	Prism Reversed (6 Suits)	2021-04-27 — 10:17:52 UTC	sephiroth, Sucubis, Zakisan	1	6	30
 506431	3	30	White (6 Suits)	2021-04-19 — 11:14:56 UTC	BananaBum, Wittvector, Zakisan	33	6	30
 506415	3	0	Gray Pink (5 Suits)	2021-04-19 — 10:43:03 UTC	BananaBum, Wittvector, Zakisan	13	5	25
-500869	4	28	Black (6 Suits)	2021-04-14 — 15:19:12 UTC	dobi, Syrah, Wittvector, Zakisan	71	6	30
-500850	3	0	Rainbow & Gray (6 Suits)	2021-04-14 — 14:45:08 UTC	Syrah, Wittvector, Zakisan	10	6	30
-500840	3	29	Rainbow & Gray (6 Suits)	2021-04-14 — 14:16:32 UTC	Syrah, Wittvector, Zakisan	17	6	30
+500869	4	28	Black (6 Suits)	2021-04-14 — 15:19:12 UTC	dobi, Syrah, Wittvector, Zakisan	73	6	30
+500850	3	0	Rainbow & Gray (6 Suits)	2021-04-14 — 14:45:08 UTC	Syrah, Wittvector, Zakisan	11	6	30
+500840	3	29	Rainbow & Gray (6 Suits)	2021-04-14 — 14:16:32 UTC	Syrah, Wittvector, Zakisan	18	6	30
 500827	5	0	Rainbow & Dark Brown (6 Suits)	2021-04-14 — 13:36:59 UTC	Lel0uch, MarkusKahlsen, swineherd, Wittvector, Zakisan	2	6	30
 500821	5	0	Rainbow & Dark Brown (6 Suits)	2021-04-14 — 13:16:24 UTC	Lel0uch, MarkusKahlsen, robense, Wittvector, Zakisan	2	6	30
 500768	4	22	Black & Light Pink (5 Suits)	2021-04-14 — 10:43:19 UTC	sephiroth, Spieler42, Wittvector, Zakisan	7	5	25
 499731	5	0	White & Light Pink (6 Suits)	2021-04-13 — 15:42:39 UTC	dobi, Lel0uch, melwen, squirrel1988, Zakisan	2	6	30
 499719	6	0	Pink & White (6 Suits)	2021-04-13 — 14:59:37 UTC	dobi, indego, Lel0uch, melwen, squirrel1988, Zakisan	3	6	30
 498160	3	0	Black & Rainbow (6 Suits)	2021-04-12 — 04:32:45 UTC	derekcheah, newduke, Zakisan	25	6	30
-498119	3	0	Black & Rainbow (6 Suits)	2021-04-12 — 04:10:00 UTC	derekcheah, newduke, Zakisan	26	6	30
-498109	3	0	Black & Rainbow (6 Suits)	2021-04-12 — 03:58:42 UTC	derekcheah, newduke, Zakisan	27	6	30
-498096	3	0	Black & Rainbow (6 Suits)	2021-04-12 — 03:46:03 UTC	derekcheah, newduke, Zakisan	30	6	30
+498119	3	0	Black & Rainbow (6 Suits)	2021-04-12 — 04:10:00 UTC	derekcheah, newduke, Zakisan	27	6	30
+498109	3	0	Black & Rainbow (6 Suits)	2021-04-12 — 03:58:42 UTC	derekcheah, newduke, Zakisan	28	6	30
+498096	3	0	Black & Rainbow (6 Suits)	2021-04-12 — 03:46:03 UTC	derekcheah, newduke, Zakisan	31	6	30
 498077	4	30	Up or Down & Brown (6 Suits)	2021-04-12 — 03:32:45 UTC	derekcheah, micerang, newduke, Zakisan	11	6	30
 498053	4	0	Up or Down & Brown (6 Suits)	2021-04-12 — 03:12:58 UTC	derekcheah, micerang, newduke, Zakisan	9	6	30
-497386	4	14	Rainbow (3 Suits)	2021-04-11 — 19:01:42 UTC	Kernel, Nitrate, possum, Zakisan	10	3	15
-497363	4	14	Rainbow (3 Suits)	2021-04-11 — 18:42:47 UTC	Kernel, Nitrate, possum, Zakisan	13	3	15
+497386	4	14	Rainbow (3 Suits)	2021-04-11 — 19:01:42 UTC	Kernel, Nitrate, possum, Zakisan	11	3	15
+497363	4	14	Rainbow (3 Suits)	2021-04-11 — 18:42:47 UTC	Kernel, Nitrate, possum, Zakisan	14	3	15
 497114	3	24	Black (5 Suits)	2021-04-11 — 08:13:43 UTC	dobi, IsabeltheCat, Zakisan	8	5	25
 497110	3	0	Black (5 Suits)	2021-04-11 — 07:58:57 UTC	dobi, IsabeltheCat, Zakisan	10	5	25
 497108	3	0	Black (5 Suits)	2021-04-11 — 07:49:47 UTC	dobi, IsabeltheCat, Zakisan	10	5	25
@@ -27,7 +32,7 @@
 497088	5	0	Rainbow & Omni (6 Suits)	2021-04-11 — 06:42:40 UTC	bjnh, derekcheah, dobi, Lel0uch, Zakisan	2	6	30
 497080	5	0	Rainbow & Omni (6 Suits)	2021-04-11 — 06:16:28 UTC	bjnh, derekcheah, dobi, Lel0uch, Zakisan	2	6	30
 495893	4	19	Pink & White (4 Suits)	2021-04-10 — 08:16:10 UTC	bob65536, cockdestroyer, derekcheah, Zakisan	9	4	20
-495890	4	20	Rainbow & White (4 Suits)	2021-04-10 — 07:50:59 UTC	bob65536, cockdestroyer, derekcheah, Zakisan	8	4	20
+495890	4	20	Rainbow & White (4 Suits)	2021-04-10 — 07:50:59 UTC	bob65536, cockdestroyer, derekcheah, Zakisan	9	4	20
 495885	4	0	Rainbow & White (4 Suits)	2021-04-10 — 07:34:08 UTC	bob65536, cockdestroyer, derekcheah, Zakisan	12	4	20
 495883	5	0	Dual-Color & Dark Rainbow (6 Suits)	2021-04-10 — 07:10:54 UTC	derekcheah, Fey, Lel0uch, sin_faith, Zakisan	1	6	30
 495875	4	25	Rainbow & Dark Prism (5 Suits)	2021-04-10 — 06:47:47 UTC	derekcheah, Fey, sin_faith, Zakisan	4	5	25
@@ -38,17 +43,17 @@
 494876	4	28	Ambiguous & Dual-Color	2021-04-09 — 14:29:06 UTC	Lel0uch, melwen, sin_faith, Zakisan	2	6	30
 494843	4	0	Throw It in a Hole (5 Suits)	2021-04-09 — 13:11:38 UTC	MarkusKahlsen, sin_faith, VerySloppyTwo, Zakisan	2	5	25
 494832	4	24	Throw It in a Hole (5 Suits)	2021-04-09 — 12:45:24 UTC	MarkusKahlsen, sin_faith, VerySloppyTwo, Zakisan	8	5	25
-494822	4	0	Throw It in a Hole (5 Suits)	2021-04-09 — 12:18:50 UTC	MarkusKahlsen, sin_faith, VerySloppyTwo, Zakisan	13	5	25
+494822	4	0	Throw It in a Hole (5 Suits)	2021-04-09 — 12:18:50 UTC	MarkusKahlsen, sin_faith, VerySloppyTwo, Zakisan	14	5	25
 494807	3	25	Pink (5 Suits)	2021-04-09 — 11:55:59 UTC	sin_faith, VerySloppyTwo, Zakisan	4	5	25
 494801	3	0	Pink (5 Suits)	2021-04-09 — 11:50:40 UTC	sin_faith, VerySloppyTwo, Zakisan	6	5	25
 494800	3	0	Pink (5 Suits)	2021-04-09 — 11:47:53 UTC	sin_faith, VerySloppyTwo, Zakisan	7	5	25
-494794	3	0	Pink (5 Suits)	2021-04-09 — 11:42:49 UTC	sin_faith, VerySloppyTwo, Zakisan	12	5	25
-494784	3	24	No Variant	2021-04-09 — 11:18:17 UTC	possum, wump, Zakisan	47	5	25
+494794	3	0	Pink (5 Suits)	2021-04-09 — 11:42:49 UTC	sin_faith, VerySloppyTwo, Zakisan	13	5	25
+494784	3	24	No Variant	2021-04-09 — 11:18:17 UTC	possum, wump, Zakisan	48	5	25
 494777	6	0	Gray (5 Suits)	2021-04-09 — 10:48:57 UTC	indego, Lanvin, Lel0uch, melwen, sephiroth, Zakisan	3	5	25
 494770	3	0	Rainbow & Gray (5 Suits)	2021-04-09 — 10:06:59 UTC	Lanvin, melwen, Zakisan	5	5	25
 494768	3	24	Rainbow & Gray (5 Suits)	2021-04-09 — 09:55:00 UTC	Lanvin, melwen, Zakisan	5	5	25
 494763	4	23	Up or Down & Light Pink (5 Suits)	2021-04-09 — 09:35:12 UTC	Fey, Lanvin, sephiroth, Zakisan	3	5	25
-494739	3	20	Pink & Prism (4 Suits)	2021-04-09 — 08:50:00 UTC	cockdestroyer, derekcheah, Zakisan	5	4	20
+494739	3	20	Pink & Prism (4 Suits)	2021-04-09 — 08:50:00 UTC	cockdestroyer, derekcheah, Zakisan	6	4	20
 494731	4	25	White & Dark Brown (5 Suits)	2021-04-09 — 08:24:15 UTC	antitelharsic, derekcheah, XMIL, Zakisan	3	5	25
 494727	4	30	Rainbow & Pink (6 Suits)	2021-04-09 — 08:00:39 UTC	antitelharsic, derekcheah, XMIL, Zakisan	22	6	30
 494720	4	25	Brown & Light Pink (5 Suits)	2021-04-09 — 07:36:06 UTC	Aluap, antitelharsic, derekcheah, Zakisan	3	5	25
@@ -56,15 +61,15 @@
 494698	3	23	Brown & Light Pink (5 Suits)	2021-04-09 — 06:41:35 UTC	Aluap, derekcheah, Zakisan	6	5	25
 493999	4	21	Dark Prism Reversed (5 Suits)	2021-04-08 — 15:15:25 UTC	possum, sephiroth, VerySloppyTwo, Zakisan	2	5	25
 493935	3	0	Extremely Ambiguous & Brown (5 Suits)	2021-04-08 — 11:49:42 UTC	catula, sin_faith, Zakisan	2	5	25
-493894	4	25	No Variant	2021-04-08 — 09:55:21 UTC	BananaBum, mgce, swineherd, Zakisan	103	5	25
+493894	4	25	No Variant	2021-04-08 — 09:55:21 UTC	BananaBum, mgce, swineherd, Zakisan	104	5	25
 493891	4	0	No Variant	2021-04-08 — 09:36:45 UTC	BananaBum, mgce, swineherd, Zakisan	116	5	25
 493888	4	0	Pink & Omni (5 Suits)	2021-04-08 — 09:12:10 UTC	indego, Lel0uch, swineherd, Zakisan	3	5	25
 493883	3	0	Pink & Brown (5 Suits)	2021-04-08 — 08:43:54 UTC	melwen, swineherd, Zakisan	1	5	25
 493882	3	0	Pink & Brown (5 Suits)	2021-04-08 — 08:43:46 UTC	melwen, swineherd, Zakisan	2	5	25
 493877	3	29	Pink & Gray (6 Suits)	2021-04-08 — 08:23:40 UTC	melwen, sephiroth, Zakisan	4	6	30
 493866	4	30	Up or Down & Prism (6 Suits)	2021-04-08 — 07:46:18 UTC	Lel0uch, robense, sephiroth, Zakisan	2	6	30
-493062	3	21	Black & Rainbow (5 Suits)	2021-04-07 — 15:32:40 UTC	swineherd, Syrah, Zakisan	15	5	25
-493056	3	0	Black & Rainbow (5 Suits)	2021-04-07 — 15:13:28 UTC	swineherd, Syrah, Zakisan	19	5	25
+493062	3	21	Black & Rainbow (5 Suits)	2021-04-07 — 15:32:40 UTC	swineherd, Syrah, Zakisan	16	5	25
+493056	3	0	Black & Rainbow (5 Suits)	2021-04-07 — 15:13:28 UTC	swineherd, Syrah, Zakisan	20	5	25
 493052	3	0	Black & Rainbow (5 Suits)	2021-04-07 — 15:01:57 UTC	swineherd, Syrah, Zakisan	23	5	25
 493032	3	0	Dark Prism Reversed (5 Suits)	2021-04-07 — 13:16:19 UTC	pianoblook, sephiroth, Zakisan	1	5	25
 493023	4	0	Brown & Muddy Rainbow (4 Suits)	2021-04-07 — 12:17:27 UTC	indego, pianoblook, Plum, Zakisan	1	4	20
@@ -84,7 +89,7 @@
 489287	6	21	Special Mix (5 Suits)	2021-04-03 — 10:22:11 UTC	cockdestroyer, jack67889, Lanvin, sin_faith, Wittvector, Zakisan	3	5	25
 489284	6	0	Special Mix (5 Suits)	2021-04-03 — 09:59:10 UTC	cockdestroyer, jack67889, Lanvin, sin_faith, Wittvector, Zakisan	3	5	25
 489280	6	0	Special Mix (5 Suits)	2021-04-03 — 09:47:19 UTC	cockdestroyer, jack67889, Lanvin, sin_faith, Wittvector, Zakisan	4	5	25
-489225	4	30	Rainbow & White (6 Suits)	2021-04-03 — 06:51:39 UTC	Aluap, derekcheah, Fey, Zakisan	8	6	30
+489225	4	30	Rainbow & White (6 Suits)	2021-04-03 — 06:51:39 UTC	Aluap, derekcheah, Fey, Zakisan	10	6	30
 488175	4	0	Dual-Color Mix	2021-04-02 — 07:11:48 UTC	BraydonM, Fey, sin_nofaith, Zakisan	12	6	30
 488174	4	0	Dual-Color Mix	2021-04-02 — 06:55:47 UTC	BraydonM, Fey, sin_nofaith, Zakisan	18	6	30
 487424	4	30	Pink & Omni (6 Suits)	2021-04-01 — 16:24:27 UTC	ChristopheAF, Kyle, rz, Zakisan	1	6	30
@@ -92,8 +97,8 @@
 487396	4	0	Pink & Omni (6 Suits)	2021-04-01 — 15:49:36 UTC	ChristopheAF, dobi, knaphill, Zakisan	3	6	30
 487389	4	0	Pink & Omni (6 Suits)	2021-04-01 — 15:26:36 UTC	ChristopheAF, dobi, knaphill, Zakisan	3	6	30
 487384	3	28	Pink & Dark Prism (6 Suits)	2021-04-01 — 15:03:36 UTC	indego, Kyle, Zakisan	2	6	30
-487382	3	0	Pink & Dark Prism (6 Suits)	2021-04-01 — 14:45:00 UTC	indego, Kyle, Zakisan	2	6	30
-487380	3	0	Pink & Dark Prism (6 Suits)	2021-04-01 — 14:37:02 UTC	indego, Kyle, Zakisan	2	6	30
+487382	3	0	Pink & Dark Prism (6 Suits)	2021-04-01 — 14:45:00 UTC	indego, Kyle, Zakisan	3	6	30
+487380	3	0	Pink & Dark Prism (6 Suits)	2021-04-01 — 14:37:02 UTC	indego, Kyle, Zakisan	3	6	30
 487373	4	24	Pink & Gray Pink (5 Suits)	2021-04-01 — 14:12:06 UTC	indego, Kyle, melwen, Zakisan	1	5	25
 487323	4	28	Rainbow & Cocoa Rainbow (6 Suits)	2021-04-01 — 11:08:57 UTC	hakha3, sephiroth, Wittvector, Zakisan	3	6	30
 487316	4	0	Rainbow & Cocoa Rainbow (6 Suits)	2021-04-01 — 10:32:07 UTC	hakha3, sephiroth, Wittvector, Zakisan	3	6	30
@@ -101,35 +106,35 @@
 487296	4	0	Brown & Light Pink (6 Suits)	2021-04-01 — 09:54:44 UTC	cockdestroyer, hakha3, Wittvector, Zakisan	4	6	30
 487288	5	0	Dark Rainbow (6 Suits)	2021-04-01 — 09:33:50 UTC	cockdestroyer, Denchulitas, knaphill, Wittvector, Zakisan	10	6	30
 487279	5	0	Dark Rainbow (6 Suits)	2021-04-01 — 09:04:20 UTC	cockdestroyer, Denchulitas, knaphill, Wittvector, Zakisan	9	6	30
-487273	3	0	Rainbow & White (6 Suits)	2021-04-01 — 08:46:28 UTC	Denchulitas, Wittvector, Zakisan	32	6	30
-487268	3	0	Rainbow & White (6 Suits)	2021-04-01 — 08:37:41 UTC	Denchulitas, Wittvector, Zakisan	46	6	30
+487273	3	0	Rainbow & White (6 Suits)	2021-04-01 — 08:46:28 UTC	Denchulitas, Wittvector, Zakisan	33	6	30
+487268	3	0	Rainbow & White (6 Suits)	2021-04-01 — 08:37:41 UTC	Denchulitas, Wittvector, Zakisan	48	6	30
 487264	5	29	Up or Down & Pink (6 Suits)	2021-04-01 — 08:16:37 UTC	indego, Lel0uch, TheDaniMan, Wittvector, Zakisan	3	6	30
 486407	4	0	Up or Down & Omni (5 Suits)	2021-03-31 — 15:00:02 UTC	ChristopheAF, duckless, indego, Zakisan	4	5	25
 486404	4	0	Up or Down & Omni (5 Suits)	2021-03-31 — 14:38:43 UTC	ChristopheAF, duckless, indego, Zakisan	3	5	25
 486402	4	0	Up or Down & Omni (5 Suits)	2021-03-31 — 14:23:05 UTC	ChristopheAF, duckless, indego, Zakisan	5	5	25
 486400	5	22	Omni & Light Pink (5 Suits)	2021-03-31 — 14:09:24 UTC	ChristopheAF, duckless, jack67889, rz, Zakisan	1	5	25
-486343	3	30	Gray (6 Suits)	2021-03-31 — 09:40:16 UTC	knaphill, qqqq, Zakisan	23	6	30
-486338	3	0	Gray (6 Suits)	2021-03-31 — 09:21:54 UTC	knaphill, qqqq, Zakisan	48	6	30
-486333	3	0	Gray (6 Suits)	2021-03-31 — 09:09:56 UTC	knaphill, qqqq, Zakisan	55	6	30
+486343	3	30	Gray (6 Suits)	2021-03-31 — 09:40:16 UTC	knaphill, qqqq, Zakisan	25	6	30
+486338	3	0	Gray (6 Suits)	2021-03-31 — 09:21:54 UTC	knaphill, qqqq, Zakisan	52	6	30
+486333	3	0	Gray (6 Suits)	2021-03-31 — 09:09:56 UTC	knaphill, qqqq, Zakisan	57	6	30
 486325	4	0	Prism & Dark Omni (6 Suits)	2021-03-31 — 08:47:55 UTC	knaphill, Lel0uch, melwen, Zakisan	2	6	30
 486320	4	0	Rainbow & Pink (6 Suits)	2021-03-31 — 08:30:02 UTC	DarthGandalf, derekcheah, Lel0uch, Zakisan	6	6	30
 486314	4	0	Rainbow & Pink (6 Suits)	2021-03-31 — 08:10:36 UTC	DarthGandalf, derekcheah, Lel0uch, Zakisan	6	6	30
 486306	4	0	Rainbow & Pink (6 Suits)	2021-03-31 — 07:53:21 UTC	DarthGandalf, derekcheah, Lel0uch, Zakisan	6	6	30
-486300	3	25	Up or Down & Pink (5 Suits)	2021-03-31 — 07:30:39 UTC	derekcheah, robense, Zakisan	16	5	25
+486300	3	25	Up or Down & Pink (5 Suits)	2021-03-31 — 07:30:39 UTC	derekcheah, robense, Zakisan	17	5	25
 486297	3	22	Up or Down & Pink (5 Suits)	2021-03-31 — 07:10:48 UTC	asaelr, derekcheah, Zakisan	5	5	25
 485516	5	23	Special Mix (5 Suits)	2021-03-30 — 15:54:16 UTC	ChristopheAF, melwen, sephiroth, VerySloppyTwo, Zakisan	1	5	25
 485487	6	0	Special Mix (5 Suits)	2021-03-30 — 15:23:20 UTC	ChristopheAF, dobi, melwen, sephiroth, VerySloppyTwo, Zakisan	1	5	25
 485458	3	0	Dark Prism Reversed (5 Suits)	2021-03-30 — 14:48:57 UTC	dobi, sephiroth, Zakisan	2	5	25
-485365	5	0	No Variant	2021-03-30 — 12:08:19 UTC	Aluap, BananaBum, catula, Sucubis, Zakisan	28	5	25
-484374	3	0	No Variant	2021-03-29 — 14:07:32 UTC	Jerzuod, kvons, Zakisan	551	5	25
-484365	3	21	No Variant	2021-03-29 — 13:45:54 UTC	Jerzuod, kvons, Zakisan	624	5	25
-484353	3	24	No Variant	2021-03-29 — 13:04:08 UTC	Jerzuod, kvons, Zakisan	940	5	25
-484345	3	0	Rainbow (5 Suits)	2021-03-29 — 12:33:38 UTC	Jerzuod, kvons, Zakisan	185	5	25
-484340	3	19	No Variant	2021-03-29 — 12:25:23 UTC	Jerzuod, kvons, Zakisan	1017	5	25
-484327	3	0	No Variant	2021-03-29 — 11:37:01 UTC	Jerzuod, kvons, Zakisan	1095	5	25
-484322	3	22	No Variant	2021-03-29 — 11:19:13 UTC	Jerzuod, kvons, Zakisan	1291	5	25
-484317	3	22	No Variant	2021-03-29 — 10:45:48 UTC	Jerzuod, kvons, Zakisan	1881	5	25
-484312	3	0	No Variant	2021-03-29 — 10:17:19 UTC	Jerzuod, kvons, Zakisan	2163	5	25
+485365	5	0	No Variant	2021-03-30 — 12:08:19 UTC	Aluap, BananaBum, catula, Sucubis, Zakisan	29	5	25
+484374	3	0	No Variant	2021-03-29 — 14:07:32 UTC	Jerzuod, kvons, Zakisan	558	5	25
+484365	3	21	No Variant	2021-03-29 — 13:45:54 UTC	Jerzuod, kvons, Zakisan	632	5	25
+484353	3	24	No Variant	2021-03-29 — 13:04:08 UTC	Jerzuod, kvons, Zakisan	952	5	25
+484345	3	0	Rainbow (5 Suits)	2021-03-29 — 12:33:38 UTC	Jerzuod, kvons, Zakisan	186	5	25
+484340	3	19	No Variant	2021-03-29 — 12:25:23 UTC	Jerzuod, kvons, Zakisan	1026	5	25
+484327	3	0	No Variant	2021-03-29 — 11:37:01 UTC	Jerzuod, kvons, Zakisan	1102	5	25
+484322	3	22	No Variant	2021-03-29 — 11:19:13 UTC	Jerzuod, kvons, Zakisan	1299	5	25
+484317	3	22	No Variant	2021-03-29 — 10:45:48 UTC	Jerzuod, kvons, Zakisan	1896	5	25
+484312	3	0	No Variant	2021-03-29 — 10:17:19 UTC	Jerzuod, kvons, Zakisan	2179	5	25
 483259	4	25	Pink & Prism (5 Suits)	2021-03-28 — 07:39:30 UTC	dobi, newduke, swineherd, Zakisan	5	5	25
 483237	6	25	Rainbow (5 Suits)	2021-03-28 — 07:12:02 UTC	indego, kimbifille, MarcLovesDogs, pianoblook, piper, Zakisan	7	5	25
 482243	5	25	Special Mix (5 Suits)	2021-03-27 — 10:31:47 UTC	jack67889, robense, sephiroth, Wittvector, Zakisan	2	5	25
@@ -149,7 +154,7 @@
 481160	5	25	Brown & Prism (5 Suits)	2021-03-26 — 12:27:35 UTC	indego, Lel0uch, MarkusKahlsen, wolfpack, Zakisan	5	5	25
 481158	3	0	Brown & Prism (5 Suits)	2021-03-26 — 12:11:10 UTC	indego, MarkusKahlsen, Zakisan	6	5	25
 481157	3	0	Brown & Prism (5 Suits)	2021-03-26 — 12:09:16 UTC	indego, MarkusKahlsen, Zakisan	9	5	25
-481145	3	0	Black (5 Suits)	2021-03-26 — 10:47:34 UTC	Aluap, indego, Zakisan	74	5	25
+481145	3	0	Black (5 Suits)	2021-03-26 — 10:47:34 UTC	Aluap, indego, Zakisan	76	5	25
 481136	4	0	Up or Down & Light Pink (5 Suits)	2021-03-26 — 10:20:06 UTC	Aluap, cockdestroyer, derekcheah, Zakisan	2	5	25
 481128	4	0	Up or Down & Light Pink (5 Suits)	2021-03-26 — 09:59:57 UTC	Aluap, cockdestroyer, derekcheah, Zakisan	4	5	25
 481122	4	0	Up or Down & Light Pink (5 Suits)	2021-03-26 — 09:44:25 UTC	Aluap, cockdestroyer, derekcheah, Zakisan	9	5	25
@@ -164,48 +169,48 @@
 480011	3	23	Brown & Dark Omni (5 Suits)	2021-03-25 — 08:59:10 UTC	derekcheah, sin_faith, Zakisan	1	5	25
 478933	4	0	Brown & Dark Omni (5 Suits)	2021-03-24 — 08:36:18 UTC	derekcheah, dobi, kopen, Zakisan	1	5	25
 478928	4	24	Brown & Dark Omni (5 Suits)	2021-03-24 — 08:19:09 UTC	derekcheah, dobi, kopen, Zakisan	1	5	25
-326431	4	0	Rainbow (6 Suits)	2020-10-23 — 11:47:13 UTC	ebin_noob, Hapotata, jack67889, Zakisan	344	6	30
-326424	4	25	Rainbow & White (5 Suits)	2020-10-23 — 11:21:04 UTC	ebin_noob, Pepepe, TimeHoodie, Zakisan	23	5	25
-326418	5	25	Rainbow (5 Suits)	2020-10-23 — 10:49:47 UTC	cockdestroyer, jack67889, Pablo-, robense, Zakisan	54	5	25
-326409	3	0	Omni (4 Suits)	2020-10-23 — 10:25:14 UTC	jack67889, robense, Zakisan	29	4	20
+326431	4	0	Rainbow (6 Suits)	2020-10-23 — 11:47:13 UTC	ebin_noob, Hapotata, jack67889, Zakisan	349	6	30
+326424	4	25	Rainbow & White (5 Suits)	2020-10-23 — 11:21:04 UTC	ebin_noob, Pepepe, TimeHoodie, Zakisan	24	5	25
+326418	5	25	Rainbow (5 Suits)	2020-10-23 — 10:49:47 UTC	cockdestroyer, jack67889, Pablo-, robense, Zakisan	55	5	25
+326409	3	0	Omni (4 Suits)	2020-10-23 — 10:25:14 UTC	jack67889, robense, Zakisan	30	4	20
 326405	3	25	Omni (5 Suits)	2020-10-23 — 10:08:17 UTC	jack67889, robense, Zakisan	21	5	25
 325900	6	25	No Variant	2020-10-22 — 18:53:12 UTC	ccaammppbbeell, jakobvandalen, nitawa, R-kaart, Yzion, Zakisan	29	5	25
 325782	3	23	Omni & Prism (5 Suits)	2020-10-22 — 15:35:35 UTC	melwen, will.i.am, Zakisan	2	5	25
-325775	3	0	White (3 Suits)	2020-10-22 — 15:09:34 UTC	melwen, Wittvector, Zakisan	26	3	15
-325770	3	0	White (3 Suits)	2020-10-22 — 14:53:37 UTC	melwen, Wittvector, Zakisan	29	3	15
-325761	3	0	White (3 Suits)	2020-10-22 — 14:42:21 UTC	melwen, Wittvector, Zakisan	30	3	15
-325758	3	13	White (3 Suits)	2020-10-22 — 14:31:37 UTC	melwen, Wittvector, Zakisan	45	3	15
+325775	3	0	White (3 Suits)	2020-10-22 — 15:09:34 UTC	melwen, Wittvector, Zakisan	28	3	15
+325770	3	0	White (3 Suits)	2020-10-22 — 14:53:37 UTC	melwen, Wittvector, Zakisan	30	3	15
+325761	3	0	White (3 Suits)	2020-10-22 — 14:42:21 UTC	melwen, Wittvector, Zakisan	31	3	15
+325758	3	13	White (3 Suits)	2020-10-22 — 14:31:37 UTC	melwen, Wittvector, Zakisan	49	3	15
 325730	4	23	Rainbow & Dark Pink (5 Suits)	2020-10-22 — 12:40:47 UTC	jack67889, MarkusKahlsen, TimeHoodie, Zakisan	4	5	25
 325717	4	0	Rainbow & Dark Pink (5 Suits)	2020-10-22 — 12:10:53 UTC	jack67889, MarkusKahlsen, TimeHoodie, Zakisan	5	5	25
 325715	4	0	Rainbow & Dark Pink (5 Suits)	2020-10-22 — 11:53:42 UTC	jack67889, MarkusKahlsen, TimeHoodie, Zakisan	6	5	25
 325687	3	25	Dark Prism (5 Suits)	2020-10-22 — 07:52:07 UTC	IAMJEFF, Wittvector, Zakisan	15	5	25
 325685	3	15	Prism (3 Suits)	2020-10-22 — 07:31:42 UTC	IAMJEFF, Wittvector, Zakisan	20	3	15
-325681	3	14	Prism (3 Suits)	2020-10-22 — 07:21:11 UTC	IAMJEFF, Wittvector, Zakisan	32	3	15
+325681	3	14	Prism (3 Suits)	2020-10-22 — 07:21:11 UTC	IAMJEFF, Wittvector, Zakisan	34	3	15
 325152	5	25	Brown (5 Suits)	2020-10-21 — 19:28:37 UTC	Div, ebin_noob, lotem, TheDaniMan, Zakisan	8	5	25
-325129	5	0	Brown (5 Suits)	2020-10-21 — 19:00:01 UTC	Div, ebin_noob, lotem, TheDaniMan, Zakisan	24	5	25
+325129	5	0	Brown (5 Suits)	2020-10-21 — 19:00:01 UTC	Div, ebin_noob, lotem, TheDaniMan, Zakisan	25	5	25
 325047	5	0	Rainbow & Dark Pink (5 Suits)	2020-10-21 — 15:23:11 UTC	IAMJEFF, kimbifille, pianoblook, TimeHoodie, Zakisan	3	5	25
 325043	5	0	Rainbow & Dark Pink (5 Suits)	2020-10-21 — 14:46:58 UTC	IAMJEFF, kimbifille, pianoblook, TimeHoodie, Zakisan	2	5	25
 325023	4	30	6 Suits	2020-10-21 — 12:37:46 UTC	asaelr, Feich59, jack67889, Zakisan	9	6	30
-324578	4	24	No Variant	2020-10-20 — 20:08:54 UTC	jack67889, ksfortson, VerySloppyTwo, Zakisan	156	5	25
+324578	4	24	No Variant	2020-10-20 — 20:08:54 UTC	jack67889, ksfortson, VerySloppyTwo, Zakisan	157	5	25
 324558	6	0	Brown (6 Suits)	2020-10-20 — 19:43:45 UTC	ebin_noob, honobu, jack67889, sephiroth, VerySloppyTwo, Zakisan	3	6	30
 324539	6	0	Brown (6 Suits)	2020-10-20 — 19:24:19 UTC	ebin_noob, honobu, jack67889, sephiroth, VerySloppyTwo, Zakisan	8	6	30
 324420	5	24	Muddy-Rainbow-Fives & Muddy Rainbow (5 Suits)	2020-10-20 — 15:57:22 UTC	asaelr, melwen, Pablo-, sin_faith, Zakisan	1	5	25
 324406	5	0	Muddy-Rainbow-Fives & Muddy Rainbow (5 Suits)	2020-10-20 — 15:16:03 UTC	asaelr, melwen, Pablo-, sin_faith, Zakisan	1	5	25
 324380	5	0	Brown-Ones & Brown (6 Suits)	2020-10-20 — 14:05:42 UTC	melwen, Pablo-, Pepepe, rachyrules, Zakisan	2	6	30
-324362	4	29	Black (6 Suits)	2020-10-20 — 11:48:00 UTC	Pablo-, VerySloppyTwo, Wittvector, Zakisan	213	6	30
+324362	4	29	Black (6 Suits)	2020-10-20 — 11:48:00 UTC	Pablo-, VerySloppyTwo, Wittvector, Zakisan	215	6	30
 323858	6	0	Dark Rainbow (6 Suits)	2020-10-19 — 19:17:29 UTC	honzas, newduke, Pablo-, swineherd, TheDaniMan, Zakisan	3	6	30
-323837	3	0	Dark Rainbow (5 Suits)	2020-10-19 — 18:55:22 UTC	swineherd, will.i.am, Zakisan	29	5	25
-323829	3	0	Dark Rainbow (5 Suits)	2020-10-19 — 18:47:34 UTC	swineherd, will.i.am, Zakisan	31	5	25
-323822	3	0	Dark Rainbow (5 Suits)	2020-10-19 — 18:37:59 UTC	swineherd, will.i.am, Zakisan	35	5	25
+323837	3	0	Dark Rainbow (5 Suits)	2020-10-19 — 18:55:22 UTC	swineherd, will.i.am, Zakisan	30	5	25
+323829	3	0	Dark Rainbow (5 Suits)	2020-10-19 — 18:47:34 UTC	swineherd, will.i.am, Zakisan	32	5	25
+323822	3	0	Dark Rainbow (5 Suits)	2020-10-19 — 18:37:59 UTC	swineherd, will.i.am, Zakisan	36	5	25
 323724	6	27	Black (6 Suits)	2020-10-19 — 15:58:59 UTC	Bonja97, MarkusKahlsen, Pablo-, swineherd, Wittvector, Zakisan	28	6	30
 323712	3	24	Rainbow & Dark Brown (5 Suits)	2020-10-19 — 15:31:48 UTC	Bonja97, MarkusKahlsen, Zakisan	7	5	25
 323690	4	21	Light Pink (5 Suits)	2020-10-19 — 14:23:20 UTC	MKQ, Pablo-, swineherd, Zakisan	20	5	25
 323675	5	0	Rainbow (5 Suits)	2020-10-19 — 13:30:18 UTC	jack67889, MarkusKahlsen, Pablo-, Wittvector, Zakisan	14	5	25
 323672	6	0	Pink (5 Suits)	2020-10-19 — 12:50:12 UTC	Floriman, jack67889, MarkusKahlsen, swineherd, Wittvector, Zakisan	2	5	25
 323670	6	0	Pink (5 Suits)	2020-10-19 — 12:27:58 UTC	Floriman, jack67889, MarkusKahlsen, swineherd, Wittvector, Zakisan	3	5	25
-323666	3	24	Pink (5 Suits)	2020-10-19 — 12:05:32 UTC	swineherd, Wittvector, Zakisan	75	5	25
+323666	3	24	Pink (5 Suits)	2020-10-19 — 12:05:32 UTC	swineherd, Wittvector, Zakisan	77	5	25
 323663	5	25	No Variant	2020-10-19 — 11:34:03 UTC	Animex52, catula, Sucubis, TimeHoodie, Zakisan	20	5	25
-323640	6	30	Rainbow (6 Suits)	2020-10-19 — 08:47:26 UTC	cockdestroyer, derekcheah, newduke, TheDaniMan, vEnhance, Zakisan	13	6	30
+323640	6	30	Rainbow (6 Suits)	2020-10-19 — 08:47:26 UTC	cockdestroyer, derekcheah, newduke, TheDaniMan, vEnhance, Zakisan	14	6	30
 323637	6	0	Rainbow (6 Suits)	2020-10-19 — 08:18:05 UTC	cockdestroyer, derekcheah, newduke, TheDaniMan, vEnhance, Zakisan	23	6	30
 322140	3	30	Dual-Color & Brown (6 Suits)	2020-10-17 — 08:27:49 UTC	derekcheah, sephiroth, Zakisan	2	6	30
 322135	3	0	Dual-Color & Brown (6 Suits)	2020-10-17 — 08:03:27 UTC	derekcheah, sephiroth, Zakisan	3	6	30
@@ -219,10 +224,10 @@
 321533	3	0	Duck (5 Suits)	2020-10-16 — 14:17:40 UTC	bulbasaur, will.i.am, Zakisan	35	5	25
 321531	3	0	Duck (5 Suits)	2020-10-16 — 14:04:08 UTC	bulbasaur, will.i.am, Zakisan	52	5	25
 321031	3	25	Brown (5 Suits)	2020-10-15 — 19:16:00 UTC	angel-a, Puzzle, Zakisan	38	5	25
-320999	4	24	Black (5 Suits)	2020-10-15 — 18:36:29 UTC	angel-a, MarkusKahlsen, Puzzle, Zakisan	41	5	25
+320999	4	24	Black (5 Suits)	2020-10-15 — 18:36:29 UTC	angel-a, MarkusKahlsen, Puzzle, Zakisan	42	5	25
 320970	6	30	Pink & Dark Prism (6 Suits)	2020-10-15 — 18:07:56 UTC	angel-a, dj.narayanan, MarkusKahlsen, Puzzle, will.i.am, Zakisan	1	6	30
 320875	5	29	Gray (6 Suits)	2020-10-15 — 15:12:01 UTC	Fey, Pepepe, TimeHoodie, will.i.am, Zakisan	9	6	30
-320867	5	0	Gray (6 Suits)	2020-10-15 — 14:42:30 UTC	Fey, Pepepe, TimeHoodie, will.i.am, Zakisan	10	6	30
+320867	5	0	Gray (6 Suits)	2020-10-15 — 14:42:30 UTC	Fey, Pepepe, TimeHoodie, will.i.am, Zakisan	11	6	30
 320865	6	0	Black & Light Pink (6 Suits)	2020-10-15 — 14:38:01 UTC	jack67889, TheDaniMan, TimeHoodie, will.i.am, Wittvector, Zakisan	2	6	30
 320864	6	0	Black & Light Pink (6 Suits)	2020-10-15 — 14:34:03 UTC	jack67889, TheDaniMan, TimeHoodie, will.i.am, Wittvector, Zakisan	2	6	30
 320332	6	30	Rainbow & White (6 Suits)	2020-10-14 — 18:51:38 UTC	angel-a, Carunty, sephiroth, TheDaniMan, timotree, Zakisan	4	6	30
@@ -234,7 +239,7 @@
 315809	4	0	Dark Omni (5 Suits)	2020-10-08 — 15:18:13 UTC	anser, jack67889, vEnhance, Zakisan	4	5	25
 315807	3	24	Dark Omni (5 Suits)	2020-10-08 — 15:04:42 UTC	jack67889, vEnhance, Zakisan	16	5	25
 309171	6	30	Gray (6 Suits)	2020-09-29 — 19:23:26 UTC	jack67889, Kyle, Pepepe, scharkbite, timotree, Zakisan	5	6	30
-309159	5	27	Gray (6 Suits)	2020-09-29 — 18:51:52 UTC	jeff10, Pepepe, scharkbite, timotree, Zakisan	14	6	30
+309159	5	27	Gray (6 Suits)	2020-09-29 — 18:51:52 UTC	jeff10, Pepepe, scharkbite, timotree, Zakisan	15	6	30
 300003	4	25	Black & White (5 Suits)	2020-09-17 — 15:19:47 UTC	Nitrate2, Pablo-, pianoblook, Zakisan	9	5	25
 299969	4	0	Black & White (5 Suits)	2020-09-17 — 15:06:42 UTC	Nitrate2, Pablo-, pianoblook, Zakisan	14	5	25
 298977	5	22	Gray (5 Suits)	2020-09-16 — 20:01:24 UTC	DMoney, melwen, newduke, Wittvector, Zakisan	7	5	25
@@ -251,10 +256,10 @@
 294842	3	0	Light Pink (3 Suits)	2020-09-11 — 16:14:39 UTC	plus, TheDaniMan, Zakisan	19	3	15
 294752	3	22	Dark Null (5 Suits)	2020-09-11 — 13:41:28 UTC	sephiroth, sin_faith, Zakisan	15	5	25
 294735	3	30	Up or Down & Muddy Rainbow (6 Suits)	2020-09-11 — 13:11:27 UTC	sephiroth, sin_faith, Zakisan	4	6	30
-293959	5	0	No Variant	2020-09-10 — 08:45:28 UTC	Fireheart, jack67889, Rubix, sephiroth, Zakisan	31	5	25
-293958	4	24	No Variant	2020-09-10 — 08:16:44 UTC	ratnam, Rubix, sephiroth, Zakisan	158	5	25
-293416	5	0	No Variant	2020-09-09 — 18:08:17 UTC	Kyle, newduke, Pepepe, Veexliat, Zakisan	27	5	25
-293393	3	23	No Variant	2020-09-09 — 17:32:01 UTC	newduke, Pepepe, Zakisan	485	5	25
+293959	5	0	No Variant	2020-09-10 — 08:45:28 UTC	Fireheart, jack67889, Rubix, sephiroth, Zakisan	32	5	25
+293958	4	24	No Variant	2020-09-10 — 08:16:44 UTC	ratnam, Rubix, sephiroth, Zakisan	161	5	25
+293416	5	0	No Variant	2020-09-09 — 18:08:17 UTC	Kyle, newduke, Pepepe, Veexliat, Zakisan	28	5	25
+293393	3	23	No Variant	2020-09-09 — 17:32:01 UTC	newduke, Pepepe, Zakisan	491	5	25
 293369	3	0	Clue Starved & Prism (5 Suits)	2020-09-09 — 17:03:25 UTC	scharkbite, will.i.am, Zakisan	3	5	25
 292635	3	20	Rainbow & Brown (4 Suits)	2020-09-08 — 18:35:13 UTC	Kyle, plus, Zakisan	20	4	20
 292623	3	15	Rainbow Reversed (3 Suits)	2020-09-08 — 18:18:16 UTC	Kyle, plus, Zakisan	2	3	15
@@ -268,10 +273,10 @@
 292494	4	24	Muddy Rainbow (5 Suits)	2020-09-08 — 13:48:23 UTC	Bonja97, MarkusKahlsen, sephiroth, Zakisan	9	5	25
 292486	4	0	Muddy Rainbow (5 Suits)	2020-09-08 — 13:18:43 UTC	Bonja97, MarkusKahlsen, sephiroth, Zakisan	12	5	25
 290602	3	29	Pink (6 Suits)	2020-09-06 — 07:19:15 UTC	asaelr, sin_faith, Zakisan	5	6	30
-290597	3	30	Prism (6 Suits)	2020-09-06 — 06:59:07 UTC	asaelr, sin_faith, Zakisan	84	6	30
-288783	3	0	White (5 Suits)	2020-09-04 — 10:14:08 UTC	sephiroth, sin_faith, Zakisan	29	5	25
-288782	3	24	White (5 Suits)	2020-09-04 — 10:05:42 UTC	sephiroth, sin_faith, Zakisan	35	5	25
-288780	3	25	White (5 Suits)	2020-09-04 — 09:59:05 UTC	sephiroth, sin_faith, Zakisan	41	5	25
+290597	3	30	Prism (6 Suits)	2020-09-06 — 06:59:07 UTC	asaelr, sin_faith, Zakisan	85	6	30
+288783	3	0	White (5 Suits)	2020-09-04 — 10:14:08 UTC	sephiroth, sin_faith, Zakisan	30	5	25
+288782	3	24	White (5 Suits)	2020-09-04 — 10:05:42 UTC	sephiroth, sin_faith, Zakisan	37	5	25
+288780	3	25	White (5 Suits)	2020-09-04 — 09:59:05 UTC	sephiroth, sin_faith, Zakisan	44	5	25
 288006	4	0	Rainbow & Dark Pink (6 Suits)	2020-09-03 — 15:52:27 UTC	ADrone, pianoblook, XMIL, Zakisan	8	6	30
 287998	5	0	Rainbow & Dark Pink (6 Suits)	2020-09-03 — 15:19:24 UTC	Nitrate2, pianoblook, sin_faith, XMIL, Zakisan	3	6	30
 287993	4	0	Clue Starved & Prism (5 Suits)	2020-09-03 — 14:47:12 UTC	Nitrate2, sin_faith, XMIL, Zakisan	6	5	25
@@ -281,30 +286,30 @@
 287974	3	19	Rainbow & Pink (4 Suits)	2020-09-03 — 13:57:21 UTC	Nitrate2, plus, Zakisan	2	4	20
 287947	4	0	Dark Brown (5 Suits)	2020-09-03 — 11:53:59 UTC	Bonja97, Dr_Kakashi, joelwool, Zakisan	2	5	25
 287938	4	24	Dark Brown (5 Suits)	2020-09-03 — 11:20:18 UTC	Bonja97, Dr_Kakashi, joelwool, Zakisan	2	5	25
-287929	3	20	Prism (4 Suits)	2020-09-03 — 10:39:28 UTC	Bonja97, Dr_Kakashi, Zakisan	45	4	20
+287929	3	20	Prism (4 Suits)	2020-09-03 — 10:39:28 UTC	Bonja97, Dr_Kakashi, Zakisan	47	4	20
 287402	4	25	Up or Down & Prism (5 Suits)	2020-09-02 — 20:17:22 UTC	robense, sephiroth, swineherd, Zakisan	12	5	25
-287360	3	0	Up or Down & Prism (5 Suits)	2020-09-02 — 19:19:02 UTC	MarkusKahlsen, Nitrate2, Zakisan	14	5	25
-287341	5	29	Dark Rainbow (6 Suits)	2020-09-02 — 18:54:55 UTC	MarkusKahlsen, Nitrate2, plus, timotree, Zakisan	23	6	30
+287360	3	0	Up or Down & Prism (5 Suits)	2020-09-02 — 19:19:02 UTC	MarkusKahlsen, Nitrate2, Zakisan	16	5	25
+287341	5	29	Dark Rainbow (6 Suits)	2020-09-02 — 18:54:55 UTC	MarkusKahlsen, Nitrate2, plus, timotree, Zakisan	24	6	30
 286464	6	30	Rainbow & Brown (6 Suits)	2020-09-01 — 19:57:49 UTC	Ahming, Floriman, micerang, postmans, sephiroth, Zakisan	4	6	30
 286442	6	29	Black & Prism (6 Suits)	2020-09-01 — 19:20:06 UTC	Floriman, Kyle, postmans, sin_faith, timotree, Zakisan	2	6	30
 286413	6	0	Black & Prism (6 Suits)	2020-09-01 — 18:43:21 UTC	Floriman, Kyle, postmans, sin_faith, timotree, Zakisan	2	6	30
 286401	5	25	Dark Prism (5 Suits)	2020-09-01 — 18:15:08 UTC	Floriman, pianoblook, postmans, timotree, Zakisan	7	5	25
-286365	3	0	Up or Down (6 Suits)	2020-09-01 — 16:47:26 UTC	Aroma1997, Pablo-, Zakisan	34	6	30
+286365	3	0	Up or Down (6 Suits)	2020-09-01 — 16:47:26 UTC	Aroma1997, Pablo-, Zakisan	35	6	30
 286334	4	24	Black & Prism (5 Suits)	2020-09-01 — 14:33:29 UTC	Nitrate2, Pablo-, sin_faith, Zakisan	10	5	25
 286330	4	21	Black & Prism (5 Suits)	2020-09-01 — 14:04:51 UTC	melwen, Nitrate2, Pablo-, Zakisan	11	5	25
 286326	4	0	Dark Prism (5 Suits)	2020-09-01 — 13:31:40 UTC	melwen, Nitrate2, sephiroth, Zakisan	8	5	25
-286323	4	0	Dark Prism (5 Suits)	2020-09-01 — 13:09:22 UTC	Nitrate2, sephiroth, sin_faith, Zakisan	9	5	25
-286320	4	21	Dark Prism (5 Suits)	2020-09-01 — 12:51:47 UTC	Nitrate2, sephiroth, sin_faith, Zakisan	8	5	25
+286323	4	0	Dark Prism (5 Suits)	2020-09-01 — 13:09:22 UTC	Nitrate2, sephiroth, sin_faith, Zakisan	10	5	25
+286320	4	21	Dark Prism (5 Suits)	2020-09-01 — 12:51:47 UTC	Nitrate2, sephiroth, sin_faith, Zakisan	10	5	25
 286310	4	0	Dark Prism (5 Suits)	2020-09-01 — 12:33:16 UTC	Dr_Kakashi, Nitrate2, sephiroth, Zakisan	10	5	25
-286306	4	0	Dark Prism (5 Suits)	2020-09-01 — 12:14:46 UTC	Dr_Kakashi, Nitrate2, sephiroth, Zakisan	11	5	25
+286306	4	0	Dark Prism (5 Suits)	2020-09-01 — 12:14:46 UTC	Dr_Kakashi, Nitrate2, sephiroth, Zakisan	12	5	25
 286303	4	0	Dark Prism (5 Suits)	2020-09-01 — 12:01:09 UTC	Dr_Kakashi, Nitrate2, sephiroth, Zakisan	13	5	25
-286299	4	24	Dark Prism (5 Suits)	2020-09-01 — 11:40:40 UTC	Dr_Kakashi, Nitrate2, sephiroth, Zakisan	17	5	25
+286299	4	24	Dark Prism (5 Suits)	2020-09-01 — 11:40:40 UTC	Dr_Kakashi, Nitrate2, sephiroth, Zakisan	18	5	25
 286297	4	0	Dark Prism (5 Suits)	2020-09-01 — 11:25:33 UTC	Dr_Kakashi, Nitrate2, sephiroth, Zakisan	17	5	25
-286295	3	0	Dark Prism (5 Suits)	2020-09-01 — 11:17:06 UTC	Dr_Kakashi, Nitrate2, Zakisan	18	5	25
+286295	3	0	Dark Prism (5 Suits)	2020-09-01 — 11:17:06 UTC	Dr_Kakashi, Nitrate2, Zakisan	19	5	25
 286291	3	0	Dark Prism (5 Suits)	2020-09-01 — 11:03:10 UTC	Dr_Kakashi, Nitrate2, Zakisan	23	5	25
-286285	3	0	Dark Prism (5 Suits)	2020-09-01 — 10:48:43 UTC	Dr_Kakashi, Nitrate2, Zakisan	26	5	25
-286284	4	29	Black & Prism (6 Suits)	2020-09-01 — 10:39:47 UTC	Dr_Kakashi, Nitrate2, sephiroth, Zakisan	14	6	30
-286283	4	29	Black & Prism (6 Suits)	2020-09-01 — 10:27:30 UTC	Dr_Kakashi, Nitrate2, sephiroth, Zakisan	14	6	30
+286285	3	0	Dark Prism (5 Suits)	2020-09-01 — 10:48:43 UTC	Dr_Kakashi, Nitrate2, Zakisan	27	5	25
+286284	4	29	Black & Prism (6 Suits)	2020-09-01 — 10:39:47 UTC	Dr_Kakashi, Nitrate2, sephiroth, Zakisan	15	6	30
+286283	4	29	Black & Prism (6 Suits)	2020-09-01 — 10:27:30 UTC	Dr_Kakashi, Nitrate2, sephiroth, Zakisan	15	6	30
 286281	5	21	Dark Pink (5 Suits)	2020-09-01 — 09:45:32 UTC	Dr_Kakashi, joelwool, Nitrate2, sephiroth, Zakisan	3	5	25
 286278	4	0	Dark Pink (5 Suits)	2020-09-01 — 08:33:39 UTC	joelwool, sephiroth, Tiramisu1th, Zakisan	4	5	25
 286276	4	0	Dark Pink (5 Suits)	2020-09-01 — 08:11:37 UTC	joelwool, sephiroth, Tiramisu1th, Zakisan	7	5	25
@@ -312,21 +317,21 @@
 286262	5	0	Dark Pink (6 Suits)	2020-09-01 — 07:22:31 UTC	asaelr, joelwool, sephiroth, Tiramisu1th, Zakisan	2	6	30
 285491	4	30	Dark Prism (6 Suits)	2020-08-31 — 18:38:16 UTC	pianoblook, plus, TheDaniMan, Zakisan	7	6	30
 285420	4	25	Prism (5 Suits)	2020-08-31 — 15:31:21 UTC	honobu, Nitrate2, Tiramisu1th, Zakisan	20	5	25
-285374	5	21	No Variant	2020-08-31 — 14:32:26 UTC	BramGrooten, honobu, melwen, Nitrate2, Zakisan	41	5	25
+285374	5	21	No Variant	2020-08-31 — 14:32:26 UTC	BramGrooten, honobu, melwen, Nitrate2, Zakisan	42	5	25
 285369	4	0	Throw It in a Hole & Pink (6 Suits)	2020-08-31 — 14:00:01 UTC	melwen, Nitrate2, sephiroth, Zakisan	2	6	30
 284738	4	28	Dark Prism (6 Suits)	2020-08-30 — 18:35:12 UTC	joelwool, Pablo-, timotree, Zakisan	5	6	30
 284731	5	27	Dark Prism (6 Suits)	2020-08-30 — 18:01:34 UTC	joelwool, Pablo-, Puzzle, timotree, Zakisan	5	6	30
 284725	5	18	Light Pink (4 Suits)	2020-08-30 — 17:28:21 UTC	melwen, Pablo-, Puzzle, timotree, Zakisan	9	4	20
 283698	6	0	Brown (6 Suits)	2020-08-29 — 12:23:39 UTC	joelwool, MarkusKahlsen, postmans, sephiroth, swineherd, Zakisan	7	6	30
 282641	5	26	Dark Prism (6 Suits)	2020-08-28 — 14:25:20 UTC	asaelr, melwen, Nitrate2, sephiroth, Zakisan	5	6	30
-282634	4	0	Dark Prism (6 Suits)	2020-08-28 — 14:05:19 UTC	asaelr, melwen, Nitrate2, Zakisan	8	6	30
+282634	4	0	Dark Prism (6 Suits)	2020-08-28 — 14:05:19 UTC	asaelr, melwen, Nitrate2, Zakisan	9	6	30
 282632	4	0	Dark Prism (6 Suits)	2020-08-28 — 14:02:53 UTC	asaelr, melwen, Nitrate2, Zakisan	8	6	30
 282628	3	0	Dark Prism (6 Suits)	2020-08-28 — 13:46:41 UTC	melwen, Nitrate2, Zakisan	32	6	30
-282623	5	25	Prism (5 Suits)	2020-08-28 — 13:20:22 UTC	Nitrate2, Pablo-, sephiroth, Sucubis, Zakisan	13	5	25
-281824	3	25	Prism (5 Suits)	2020-08-27 — 16:14:03 UTC	MarkusKahlsen, piper, Zakisan	80	5	25
+282623	5	25	Prism (5 Suits)	2020-08-28 — 13:20:22 UTC	Nitrate2, Pablo-, sephiroth, Sucubis, Zakisan	14	5	25
+281824	3	25	Prism (5 Suits)	2020-08-27 — 16:14:03 UTC	MarkusKahlsen, piper, Zakisan	82	5	25
 281814	5	21	Prism (5 Suits)	2020-08-27 — 15:43:32 UTC	asaelr, MarkusKahlsen, piper, robense, Zakisan	20	5	25
-267488	4	28	White (6 Suits)	2020-08-10 — 20:51:37 UTC	avanderwalde, MarkusKahlsen, swineherd, Zakisan	75	6	30
-267426	5	24	No Variant	2020-08-10 — 19:56:39 UTC	impostor, kevincaseytdk1, timotree, XMIL, Zakisan	41	5	25
+267488	4	28	White (6 Suits)	2020-08-10 — 20:51:37 UTC	avanderwalde, MarkusKahlsen, swineherd, Zakisan	76	6	30
+267426	5	24	No Variant	2020-08-10 — 19:56:39 UTC	impostor, kevincaseytdk1, timotree, XMIL, Zakisan	42	5	25
 267383	6	24	No Variant	2020-08-10 — 19:17:12 UTC	impostor, JerryYang, kevincaseytdk1, timotree, XMIL, Zakisan	25	5	25
 267355	6	0	Rainbow (6 Suits)	2020-08-10 — 18:21:07 UTC	ADrone, Bonja97, DMoney, Kyle, melwen, Zakisan	60	6	30
 267258	5	25	White (5 Suits)	2020-08-10 — 15:41:31 UTC	DMoney, melwen, Nitrate2, Wittvector, Zakisan	10	5	25
@@ -336,10 +341,10 @@
 264332	4	0	Ambiguous (6 Suits)	2020-08-07 — 18:25:53 UTC	DMoney, Kyle, Nitrate2, Zakisan	5	6	30
 264329	4	0	Very Ambiguous (6 Suits)	2020-08-07 — 18:16:52 UTC	DMoney, Kyle, Nitrate2, Zakisan	6	6	30
 264323	4	0	Very Ambiguous (6 Suits)	2020-08-07 — 18:06:11 UTC	DMoney, Kyle, Nitrate2, Zakisan	8	6	30
-264314	4	27	Ambiguous (6 Suits)	2020-08-07 — 17:49:21 UTC	DMoney, Kyle, Nitrate2, Zakisan	13	6	30
+264314	4	27	Ambiguous (6 Suits)	2020-08-07 — 17:49:21 UTC	DMoney, Kyle, Nitrate2, Zakisan	14	6	30
 264302	5	0	Rainbow (5 Suits)	2020-08-07 — 16:53:15 UTC	DMoney, Libster, Nitrate2, Syrah, Zakisan	5	5	25
-264188	5	0	Rainbow & White (6 Suits)	2020-08-07 — 12:41:26 UTC	Dr_Kakashi, Nitrate2, Pablo-, sephiroth, Zakisan	6	6	30
-264175	5	0	Rainbow & White (6 Suits)	2020-08-07 — 12:11:42 UTC	Dr_Kakashi, Nitrate2, Pablo-, sephiroth, Zakisan	6	6	30
+264188	5	0	Rainbow & White (6 Suits)	2020-08-07 — 12:41:26 UTC	Dr_Kakashi, Nitrate2, Pablo-, sephiroth, Zakisan	7	6	30
+264175	5	0	Rainbow & White (6 Suits)	2020-08-07 — 12:11:42 UTC	Dr_Kakashi, Nitrate2, Pablo-, sephiroth, Zakisan	7	6	30
 264151	5	30	Muddy Rainbow (6 Suits)	2020-08-07 — 09:56:17 UTC	Bonja97, derekcheah, piper, sephiroth, Zakisan	5	6	30
 264149	5	0	Muddy Rainbow (6 Suits)	2020-08-07 — 09:20:34 UTC	Bonja97, derekcheah, piper, sephiroth, Zakisan	7	6	30
 264146	5	0	Muddy Rainbow (6 Suits)	2020-08-07 — 08:59:55 UTC	Bonja97, derekcheah, piper, sephiroth, Zakisan	6	6	30
@@ -348,26 +353,26 @@
 263455	4	25	Omni-Ones (5 Suits)	2020-08-06 — 15:19:36 UTC	Nitrate2, Pablo-, sephiroth, Zakisan	6	5	25
 263448	4	25	Pink-Ones (5 Suits)	2020-08-06 — 14:57:15 UTC	Nitrate2, Pablo-, sephiroth, Zakisan	3	5	25
 263443	5	25	White-Ones (5 Suits)	2020-08-06 — 14:32:46 UTC	asaelr, Nitrate2, Pablo-, sephiroth, Zakisan	3	5	25
-263372	3	25	Up or Down (5 Suits)	2020-08-06 — 07:45:50 UTC	Nitrate2, sephiroth, Zakisan	19	5	25
-263361	3	0	Up or Down (5 Suits)	2020-08-06 — 07:23:52 UTC	Nitrate2, sephiroth, Zakisan	24	5	25
+263372	3	25	Up or Down (5 Suits)	2020-08-06 — 07:45:50 UTC	Nitrate2, sephiroth, Zakisan	20	5	25
+263361	3	0	Up or Down (5 Suits)	2020-08-06 — 07:23:52 UTC	Nitrate2, sephiroth, Zakisan	26	5	25
 262854	3	25	Cocoa Rainbow (5 Suits)	2020-08-05 — 21:01:58 UTC	MarkusKahlsen, plus, Zakisan	21	5	25
 262839	4	23	Cocoa Rainbow (5 Suits)	2020-08-05 — 20:26:30 UTC	MarkusKahlsen, plus, XMIL, Zakisan	15	5	25
 262823	5	24	Cocoa Rainbow (5 Suits)	2020-08-05 — 19:48:28 UTC	asaelr, MarkusKahlsen, pianoblook, plus, Zakisan	4	5	25
 262811	5	0	Cocoa Rainbow (5 Suits)	2020-08-05 — 19:20:40 UTC	asaelr, MarkusKahlsen, pianoblook, plus, Zakisan	9	5	25
-262729	5	0	Up or Down (6 Suits)	2020-08-05 — 14:18:22 UTC	asaelr, Cory, Nitrate2, sephiroth, Zakisan	3	6	30
+262729	5	0	Up or Down (6 Suits)	2020-08-05 — 14:18:22 UTC	asaelr, Cory, Nitrate2, sephiroth, Zakisan	4	6	30
 262717	4	0	Up or Down (6 Suits)	2020-08-05 — 13:46:01 UTC	asaelr, Nitrate2, sephiroth, Zakisan	12	6	30
-262711	4	30	Rainbow (6 Suits)	2020-08-05 — 13:18:10 UTC	eljobe, joelwool, Nitrate2, Zakisan	70	6	30
+262711	4	30	Rainbow (6 Suits)	2020-08-05 — 13:18:10 UTC	eljobe, joelwool, Nitrate2, Zakisan	72	6	30
 262535	5	0	Dark Rainbow (6 Suits)	2020-08-05 — 10:48:25 UTC	asaelr, Dr_Kakashi, Floriman, IAMJEFF, Zakisan	7	6	30
 262518	5	29	Dark Rainbow (6 Suits)	2020-08-05 — 10:33:10 UTC	asaelr, Dr_Kakashi, Floriman, IAMJEFF, Zakisan	8	6	30
 261581	5	0	4 Suits	2020-08-04 — 15:13:13 UTC	Kyle, Pablo-, pianoblook, sephiroth, Zakisan	16	4	20
 255401	4	0	Brown (5 Suits)	2020-07-29 — 19:55:54 UTC	MarkusKahlsen, sephiroth, XMIL, Zakisan	14	5	25
-255335	3	0	No Variant	2020-07-29 — 17:18:29 UTC	plus, will.i.am, Zakisan	109	5	25
-255334	3	0	No Variant	2020-07-29 — 17:17:20 UTC	plus, will.i.am, Zakisan	110	5	25
-255333	3	0	No Variant	2020-07-29 — 17:16:05 UTC	plus, will.i.am, Zakisan	112	5	25
-255332	3	0	No Variant	2020-07-29 — 17:15:01 UTC	plus, will.i.am, Zakisan	111	5	25
-255331	3	0	No Variant	2020-07-29 — 17:14:11 UTC	plus, will.i.am, Zakisan	114	5	25
-255330	3	0	No Variant	2020-07-29 — 17:13:07 UTC	plus, will.i.am, Zakisan	119	5	25
-255328	4	0	No Variant	2020-07-29 — 17:10:24 UTC	plus, sephiroth, will.i.am, Zakisan	97	5	25
+255335	3	0	No Variant	2020-07-29 — 17:18:29 UTC	plus, will.i.am, Zakisan	115	5	25
+255334	3	0	No Variant	2020-07-29 — 17:17:20 UTC	plus, will.i.am, Zakisan	114	5	25
+255333	3	0	No Variant	2020-07-29 — 17:16:05 UTC	plus, will.i.am, Zakisan	116	5	25
+255332	3	0	No Variant	2020-07-29 — 17:15:01 UTC	plus, will.i.am, Zakisan	116	5	25
+255331	3	0	No Variant	2020-07-29 — 17:14:11 UTC	plus, will.i.am, Zakisan	120	5	25
+255330	3	0	No Variant	2020-07-29 — 17:13:07 UTC	plus, will.i.am, Zakisan	126	5	25
+255328	4	0	No Variant	2020-07-29 — 17:10:24 UTC	plus, sephiroth, will.i.am, Zakisan	98	5	25
 255299	4	0	Rainbow & White (3 Suits)	2020-07-29 — 15:42:29 UTC	melwen, sephiroth, will.i.am, Zakisan	3	3	15
 255297	4	0	Rainbow & White (3 Suits)	2020-07-29 — 15:28:36 UTC	melwen, sephiroth, will.i.am, Zakisan	3	3	15
 255294	4	0	Rainbow & White (3 Suits)	2020-07-29 — 15:23:14 UTC	melwen, sephiroth, will.i.am, Zakisan	4	3	15
@@ -388,8 +393,8 @@
 251877	2	30	6 Suits	2020-07-26 — 15:22:22 UTC	melwen, Zakisan	30	6	30
 251867	2	26	6 Suits	2020-07-26 — 14:50:05 UTC	melwen, Zakisan	31	6	30
 251857	2	30	6 Suits	2020-07-26 — 14:15:50 UTC	melwen, Zakisan	30	6	30
-251849	2	24	6 Suits	2020-07-26 — 13:57:05 UTC	melwen, Zakisan	35	6	30
-251839	2	0	6 Suits	2020-07-26 — 13:39:17 UTC	melwen, Zakisan	36	6	30
+251849	2	24	6 Suits	2020-07-26 — 13:57:05 UTC	melwen, Zakisan	37	6	30
+251839	2	0	6 Suits	2020-07-26 — 13:39:17 UTC	melwen, Zakisan	38	6	30
 251780	4	0	No Variant	2020-07-26 — 12:28:34 UTC	asaelr, Dr_Kakashi, Nitrate2, Zakisan	8	5	25
 251777	4	0	No Variant	2020-07-26 — 12:25:01 UTC	asaelr, Dr_Kakashi, Nitrate2, Zakisan	8	5	25
 251773	4	0	No Variant	2020-07-26 — 12:22:22 UTC	asaelr, Dr_Kakashi, Nitrate2, Zakisan	8	5	25
@@ -411,19 +416,19 @@
 251728	4	0	Dark Pink (5 Suits)	2020-07-26 — 09:24:36 UTC	derekcheah, Fey, joelwool, Zakisan	4	5	25
 251722	4	24	Dark Pink (5 Suits)	2020-07-26 — 09:00:40 UTC	derekcheah, Fey, joelwool, Zakisan	9	5	25
 251715	4	23	Dark Pink (5 Suits)	2020-07-26 — 08:39:09 UTC	derekcheah, Fey, joelwool, Zakisan	6	5	25
-251703	4	24	Dark Pink (5 Suits)	2020-07-26 — 08:14:45 UTC	derekcheah, Fey, joelwool, Zakisan	20	5	25
+251703	4	24	Dark Pink (5 Suits)	2020-07-26 — 08:14:45 UTC	derekcheah, Fey, joelwool, Zakisan	21	5	25
 251692	3	25	Light Pink (5 Suits)	2020-07-26 — 07:52:29 UTC	derekcheah, joelwool, Zakisan	40	5	25
 251674	5	25	Omni (5 Suits)	2020-07-26 — 07:26:40 UTC	asaelr, derekcheah, piper, plus, Zakisan	8	5	25
 251663	5	25	Brown-Ones (5 Suits)	2020-07-26 — 06:58:22 UTC	Bonja97, derekcheah, Fey, piper, Zakisan	2	5	25
-251106	2	0	6 Suits	2020-07-25 — 22:43:22 UTC	melwen, Zakisan	39	6	30
-251093	2	30	6 Suits	2020-07-25 — 22:25:05 UTC	melwen, Zakisan	40	6	30
+251106	2	0	6 Suits	2020-07-25 — 22:43:22 UTC	melwen, Zakisan	41	6	30
+251093	2	30	6 Suits	2020-07-25 — 22:25:05 UTC	melwen, Zakisan	42	6	30
 251083	4	23	Dual-Color (5 Suits)	2020-07-25 — 22:01:22 UTC	MarkusKahlsen, Pablo-, Smandon, Zakisan	37	5	25
 251037	3	22	Pink (5 Suits)	2020-07-25 — 21:13:44 UTC	Bonja97, MarkusKahlsen, Zakisan	23	5	25
 250994	6	0	Pink (6 Suits)	2020-07-25 — 20:26:30 UTC	Bonja97, Dr_Kakashi, Fey, kimbifille, qbphoenix, Zakisan	3	6	30
 250953	6	0	Pink (6 Suits)	2020-07-25 — 19:58:02 UTC	Bonja97, Dr_Kakashi, Fey, kimbifille, qbphoenix, Zakisan	4	6	30
 250912	5	0	Dark Pink (5 Suits)	2020-07-25 — 19:23:33 UTC	Dr_Kakashi, kimbifille, melwen, qbphoenix, Zakisan	2	5	25
 250885	4	0	Dark Pink (5 Suits)	2020-07-25 — 18:58:09 UTC	Dr_Kakashi, melwen, qbphoenix, Zakisan	11	5	25
-250875	4	0	Dark Pink (5 Suits)	2020-07-25 — 18:48:22 UTC	Dr_Kakashi, melwen, qbphoenix, Zakisan	15	5	25
+250875	4	0	Dark Pink (5 Suits)	2020-07-25 — 18:48:22 UTC	Dr_Kakashi, melwen, qbphoenix, Zakisan	16	5	25
 250853	6	0	Dark Pink (5 Suits)	2020-07-25 — 18:10:56 UTC	DMoney, Dr_Kakashi, melwen, plus, qbphoenix, Zakisan	4	5	25
 250836	5	22	Dark Pink (5 Suits)	2020-07-25 — 17:39:58 UTC	DMoney, Dr_Kakashi, melwen, qbphoenix, Zakisan	3	5	25
 250812	4	0	Dark Pink (5 Suits)	2020-07-25 — 17:06:03 UTC	DMoney, melwen, qbphoenix, Zakisan	13	5	25
@@ -434,9 +439,9 @@
 250728	4	0	Special Mix (5 Suits)	2020-07-25 — 14:05:07 UTC	Dr_Kakashi, melwen, sephiroth, Zakisan	4	5	25
 250723	6	0	Dark Pink (6 Suits)	2020-07-25 — 13:33:33 UTC	Div, Dr_Kakashi, melwen, sephiroth, Sucubis, Zakisan	4	6	30
 250720	5	25	White-Fives & Brown (5 Suits)	2020-07-25 — 12:38:13 UTC	Dr_Kakashi, melwen, sephiroth, Sucubis, Zakisan	1	5	25
-250716	3	0	Up or Down (5 Suits)	2020-07-25 — 12:05:38 UTC	sephiroth, Sucubis, Zakisan	42	5	25
-250711	3	0	Up or Down (5 Suits)	2020-07-25 — 11:49:53 UTC	sephiroth, Sucubis, Zakisan	54	5	25
-250703	3	0	Up or Down (5 Suits)	2020-07-25 — 11:35:33 UTC	sephiroth, Sucubis, Zakisan	57	5	25
+250716	3	0	Up or Down (5 Suits)	2020-07-25 — 12:05:38 UTC	sephiroth, Sucubis, Zakisan	44	5	25
+250711	3	0	Up or Down (5 Suits)	2020-07-25 — 11:49:53 UTC	sephiroth, Sucubis, Zakisan	56	5	25
+250703	3	0	Up or Down (5 Suits)	2020-07-25 — 11:35:33 UTC	sephiroth, Sucubis, Zakisan	59	5	25
 248690	5	0	Throw It in a Hole (5 Suits)	2020-07-23 — 13:10:29 UTC	Animex52, Dr_Kakashi, joelwool, sephiroth, Zakisan	9	5	25
 248661	4	30	Omni (6 Suits)	2020-07-23 — 11:15:38 UTC	Dr_Kakashi, joelwool, sephiroth, Zakisan	6	6	30
 248645	5	0	Up or Down (6 Suits)	2020-07-23 — 09:45:51 UTC	Bonja97, joelwool, Pablo-, TheDaniMan, Zakisan	14	6	30
@@ -456,8 +461,8 @@
 241757	3	25	Light-Pink-Fives & White (5 Suits)	2020-07-16 — 18:56:27 UTC	padi, scharkbite, Zakisan	1	5	25
 241727	6	29	Light Pink (6 Suits)	2020-07-16 — 18:09:46 UTC	padi, plus, scharkbite, sephiroth, will.i.am, Zakisan	3	6	30
 241709	4	14	White (3 Suits)	2020-07-16 — 17:37:42 UTC	scharkbite, sephiroth, will.i.am, Zakisan	11	3	15
-241374	4	24	Dark Brown (5 Suits)	2020-07-16 — 07:31:28 UTC	derekcheah, sephiroth, TheDaniMan, Zakisan	14	5	25
-241369	4	0	Dark Brown (5 Suits)	2020-07-16 — 07:10:48 UTC	derekcheah, sephiroth, TheDaniMan, Zakisan	17	5	25
+241374	4	24	Dark Brown (5 Suits)	2020-07-16 — 07:31:28 UTC	derekcheah, sephiroth, TheDaniMan, Zakisan	15	5	25
+241369	4	0	Dark Brown (5 Suits)	2020-07-16 — 07:10:48 UTC	derekcheah, sephiroth, TheDaniMan, Zakisan	18	5	25
 240681	5	0	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-15 — 20:40:04 UTC	MarkusKahlsen, padi, sephiroth, will.i.am, Zakisan	1	5	25
 240650	4	23	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-15 — 20:09:14 UTC	padi, sephiroth, will.i.am, Zakisan	3	5	25
 240625	3	21	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-15 — 19:46:29 UTC	padi, will.i.am, Zakisan	2	5	25
@@ -467,7 +472,7 @@
 237483	5	25	Rainbow & Brown (5 Suits)	2020-07-12 — 16:46:30 UTC	asaelr, MarkusKahlsen, robense, swineherd, Zakisan	6	5	25
 237372	4	0	Dark Pink (5 Suits)	2020-07-12 — 09:18:49 UTC	rs1, sephiroth, TheDaniMan, Zakisan	9	5	25
 237370	4	0	Dark Pink (5 Suits)	2020-07-12 — 09:15:27 UTC	rs1, sephiroth, TheDaniMan, Zakisan	11	5	25
-237364	4	25	Dark Rainbow (5 Suits)	2020-07-12 — 09:04:29 UTC	rs1, sephiroth, TheDaniMan, Zakisan	23	5	25
+237364	4	25	Dark Rainbow (5 Suits)	2020-07-12 — 09:04:29 UTC	rs1, sephiroth, TheDaniMan, Zakisan	24	5	25
 237361	4	0	Dark Rainbow (5 Suits)	2020-07-12 — 08:52:40 UTC	rs1, sephiroth, TheDaniMan, Zakisan	29	5	25
 237349	5	0	Up or Down (6 Suits)	2020-07-12 — 08:37:01 UTC	asaelr, derekcheah, rs1, sephiroth, Zakisan	3	6	30
 237341	5	0	Up or Down (6 Suits)	2020-07-12 — 08:11:50 UTC	asaelr, derekcheah, rs1, sephiroth, Zakisan	3	6	30
@@ -477,46 +482,46 @@
 237275	4	14	Pink (3 Suits)	2020-07-12 — 06:41:10 UTC	Bonja97, MarkusKahlsen, piper, Zakisan	13	3	15
 237261	4	0	Pink (3 Suits)	2020-07-12 — 06:17:14 UTC	Bonja97, joelwool, piper, Zakisan	18	3	15
 237240	6	20	4 Suits	2020-07-12 — 05:49:58 UTC	Bonja97, joelwool, piper, plus, will.i.am, Zakisan	11	4	20
-234211	4	25	Throw It in a Hole (5 Suits)	2020-07-09 — 15:44:22 UTC	lotem, sephiroth, TheDaniMan, Zakisan	20	5	25
+234211	4	25	Throw It in a Hole (5 Suits)	2020-07-09 — 15:44:22 UTC	lotem, sephiroth, TheDaniMan, Zakisan	21	5	25
 234196	5	30	Pink-Ones (6 Suits)	2020-07-09 — 15:14:31 UTC	lotem, sephiroth, TheDaniMan, will.i.am, Zakisan	2	6	30
 234186	5	0	Pink-Ones (6 Suits)	2020-07-09 — 14:53:28 UTC	lotem, sephiroth, TheDaniMan, will.i.am, Zakisan	2	6	30
 234180	4	25	Pink-Ones (5 Suits)	2020-07-09 — 14:36:28 UTC	sephiroth, TheDaniMan, will.i.am, Zakisan	11	5	25
-234176	3	20	Rainbow (4 Suits)	2020-07-09 — 14:18:33 UTC	sephiroth, TheDaniMan, Zakisan	68	4	20
-234174	3	0	Rainbow (4 Suits)	2020-07-09 — 14:08:31 UTC	sephiroth, TheDaniMan, Zakisan	84	4	20
-234172	3	15	Pink (3 Suits)	2020-07-09 — 14:03:06 UTC	sephiroth, TheDaniMan, Zakisan	44	3	15
-234170	3	20	Pink (4 Suits)	2020-07-09 — 13:56:25 UTC	sephiroth, TheDaniMan, Zakisan	59	4	20
+234176	3	20	Rainbow (4 Suits)	2020-07-09 — 14:18:33 UTC	sephiroth, TheDaniMan, Zakisan	69	4	20
+234174	3	0	Rainbow (4 Suits)	2020-07-09 — 14:08:31 UTC	sephiroth, TheDaniMan, Zakisan	85	4	20
+234172	3	15	Pink (3 Suits)	2020-07-09 — 14:03:06 UTC	sephiroth, TheDaniMan, Zakisan	46	3	15
+234170	3	20	Pink (4 Suits)	2020-07-09 — 13:56:25 UTC	sephiroth, TheDaniMan, Zakisan	60	4	20
 234168	5	0	Pink (6 Suits)	2020-07-09 — 13:36:30 UTC	Animex52, melwen, sephiroth, TheDaniMan, Zakisan	13	6	30
-234164	4	0	Pink (4 Suits)	2020-07-09 — 13:16:08 UTC	Animex52, melwen, TheDaniMan, Zakisan	22	4	20
+234164	4	0	Pink (4 Suits)	2020-07-09 — 13:16:08 UTC	Animex52, melwen, TheDaniMan, Zakisan	23	4	20
 234135	4	25	Black (5 Suits)	2020-07-09 — 10:48:34 UTC	derekcheah, sephiroth, TheDaniMan, Zakisan	32	5	25
 234131	4	0	Black (5 Suits)	2020-07-09 — 10:34:18 UTC	derekcheah, sephiroth, TheDaniMan, Zakisan	32	5	25
-234127	4	22	Black (5 Suits)	2020-07-09 — 10:22:05 UTC	derekcheah, sephiroth, TheDaniMan, Zakisan	36	5	25
-234121	4	0	Black (5 Suits)	2020-07-09 — 10:05:49 UTC	derekcheah, sephiroth, TheDaniMan, Zakisan	36	5	25
-234117	4	24	Black (5 Suits)	2020-07-09 — 09:52:51 UTC	derekcheah, sephiroth, TheDaniMan, Zakisan	49	5	25
+234127	4	22	Black (5 Suits)	2020-07-09 — 10:22:05 UTC	derekcheah, sephiroth, TheDaniMan, Zakisan	37	5	25
+234121	4	0	Black (5 Suits)	2020-07-09 — 10:05:49 UTC	derekcheah, sephiroth, TheDaniMan, Zakisan	37	5	25
+234117	4	24	Black (5 Suits)	2020-07-09 — 09:52:51 UTC	derekcheah, sephiroth, TheDaniMan, Zakisan	51	5	25
 234115	3	0	Black (5 Suits)	2020-07-09 — 09:37:48 UTC	derekcheah, TheDaniMan, Zakisan	22	5	25
-234114	3	23	Black (5 Suits)	2020-07-09 — 09:32:48 UTC	derekcheah, TheDaniMan, Zakisan	25	5	25
+234114	3	23	Black (5 Suits)	2020-07-09 — 09:32:48 UTC	derekcheah, TheDaniMan, Zakisan	26	5	25
 234107	3	0	Black (5 Suits)	2020-07-09 — 09:15:54 UTC	derekcheah, TheDaniMan, Zakisan	29	5	25
 234104	3	23	Black (5 Suits)	2020-07-09 — 09:07:55 UTC	derekcheah, TheDaniMan, Zakisan	31	5	25
-234102	3	0	Black (5 Suits)	2020-07-09 — 08:54:31 UTC	derekcheah, TheDaniMan, Zakisan	31	5	25
-233365	5	22	No Variant	2020-07-08 — 19:58:50 UTC	Bonja97, Puzzle, sephiroth, sheamol, Zakisan	31	5	25
-233342	3	28	Black (6 Suits)	2020-07-08 — 19:21:03 UTC	Kyle, sheamol, Zakisan	52	6	30
+234102	3	0	Black (5 Suits)	2020-07-09 — 08:54:31 UTC	derekcheah, TheDaniMan, Zakisan	32	5	25
+233365	5	22	No Variant	2020-07-08 — 19:58:50 UTC	Bonja97, Puzzle, sephiroth, sheamol, Zakisan	32	5	25
+233342	3	28	Black (6 Suits)	2020-07-08 — 19:21:03 UTC	Kyle, sheamol, Zakisan	53	6	30
 233312	5	30	6 Suits	2020-07-08 — 18:47:53 UTC	Kyle, Nitrate2, piper, sheamol, Zakisan	45	6	30
 233285	6	24	No Variant	2020-07-08 — 18:19:48 UTC	CastlesInTheAir, Kyle, Nitrate2, piper, sheamol, Zakisan	26	5	25
 233274	5	0	Pink (6 Suits)	2020-07-08 — 17:41:56 UTC	CastlesInTheAir, Nitrate2, piper, plus, Zakisan	15	6	30
-233258	3	25	No Variant	2020-07-08 — 17:14:26 UTC	Nitrate2, robense, Zakisan	41	5	25
-233228	5	23	No Variant	2020-07-08 — 16:10:01 UTC	MarkusKahlsen, Nitrate2, TheDaniMan, will.i.am, Zakisan	51	5	25
+233258	3	25	No Variant	2020-07-08 — 17:14:26 UTC	Nitrate2, robense, Zakisan	42	5	25
+233228	5	23	No Variant	2020-07-08 — 16:10:01 UTC	MarkusKahlsen, Nitrate2, TheDaniMan, will.i.am, Zakisan	52	5	25
 233214	4	0	No Variant	2020-07-08 — 15:35:26 UTC	MarkusKahlsen, Nitrate2, TheDaniMan, Zakisan	36	5	25
 233210	5	0	No Variant	2020-07-08 — 15:25:14 UTC	MarkusKahlsen, Nitrate2, sephiroth, TheDaniMan, Zakisan	45	5	25
 232245	6	24	No Variant	2020-07-07 — 15:21:58 UTC	asaelr, Floriman, MarkusKahlsen, plus, Wittvector, Zakisan	10	5	25
-232240	4	24	No Variant	2020-07-07 — 15:01:14 UTC	asaelr, Floriman, MarkusKahlsen, Zakisan	17	5	25
+232240	4	24	No Variant	2020-07-07 — 15:01:14 UTC	asaelr, Floriman, MarkusKahlsen, Zakisan	18	5	25
 232237	5	22	No Variant	2020-07-07 — 14:39:34 UTC	asaelr, Floriman, melwen, pianoblook, Zakisan	21	5	25
-232232	4	0	No Variant	2020-07-07 — 14:19:51 UTC	asaelr, melwen, pianoblook, Zakisan	16	5	25
-232229	4	25	No Variant	2020-07-07 — 14:06:52 UTC	asaelr, melwen, pianoblook, Zakisan	16	5	25
-232210	4	25	No Variant	2020-07-07 — 12:42:58 UTC	Bonja97, MarkusKahlsen, Tiramisu1th, Zakisan	162	5	25
+232232	4	0	No Variant	2020-07-07 — 14:19:51 UTC	asaelr, melwen, pianoblook, Zakisan	17	5	25
+232229	4	25	No Variant	2020-07-07 — 14:06:52 UTC	asaelr, melwen, pianoblook, Zakisan	17	5	25
+232210	4	25	No Variant	2020-07-07 — 12:42:58 UTC	Bonja97, MarkusKahlsen, Tiramisu1th, Zakisan	166	5	25
 232208	6	23	No Variant	2020-07-07 — 12:08:56 UTC	Bonja97, MarkusKahlsen, metta, sjdrodge, swineherd, Zakisan	10	5	25
-232204	4	25	No Variant	2020-07-07 — 11:33:53 UTC	metta, sjdrodge, swineherd, Zakisan	167	5	25
-232184	4	22	No Variant	2020-07-07 — 09:28:58 UTC	blueberry, MarkusKahlsen, theandrewni, Zakisan	243	5	25
-232176	3	25	No Variant	2020-07-07 — 08:55:46 UTC	blueberry, theandrewni, Zakisan	840	5	25
-232125	5	23	No Variant	2020-07-07 — 05:55:09 UTC	atomickilo, derekcheah, pianoblook, piper, Zakisan	67	5	25
+232204	4	25	No Variant	2020-07-07 — 11:33:53 UTC	metta, sjdrodge, swineherd, Zakisan	169	5	25
+232184	4	22	No Variant	2020-07-07 — 09:28:58 UTC	blueberry, MarkusKahlsen, theandrewni, Zakisan	245	5	25
+232176	3	25	No Variant	2020-07-07 — 08:55:46 UTC	blueberry, theandrewni, Zakisan	849	5	25
+232125	5	23	No Variant	2020-07-07 — 05:55:09 UTC	atomickilo, derekcheah, pianoblook, piper, Zakisan	68	5	25
 231434	5	0	Omni-Fives (6 Suits)	2020-07-06 — 20:54:01 UTC	DMoney, MarkusKahlsen, padi, TheDaniMan, Zakisan	2	6	30
 231394	5	0	Omni-Fives (6 Suits)	2020-07-06 — 20:21:40 UTC	DMoney, MarkusKahlsen, padi, TheDaniMan, Zakisan	2	6	30
 231374	5	28	Omni-Fives (6 Suits)	2020-07-06 — 20:03:56 UTC	DMoney, kooolant, MarkusKahlsen, TheDaniMan, Zakisan	3	6	30
@@ -528,18 +533,18 @@
 231169	4	24	Up or Down (5 Suits)	2020-07-06 — 12:53:47 UTC	MarkusKahlsen, melwen, sephiroth, Zakisan	2	5	25
 231164	5	25	No Variant	2020-07-06 — 12:15:12 UTC	blueberry, melwen, sephiroth, Wittvector, Zakisan	65	5	25
 230353	6	24	No Variant	2020-07-05 — 20:21:38 UTC	antitelharsic, DMoney, MarkusKahlsen, melwen, OnceUponAQuine, Zakisan	11	5	25
-230326	4	25	No Variant	2020-07-05 — 19:37:42 UTC	antitelharsic, blueberry, MarkusKahlsen, Zakisan	373	5	25
+230326	4	25	No Variant	2020-07-05 — 19:37:42 UTC	antitelharsic, blueberry, MarkusKahlsen, Zakisan	376	5	25
 229105	4	25	Up or Down (5 Suits)	2020-07-04 — 12:06:06 UTC	MarkusKahlsen, sephiroth, swineherd, Zakisan	16	5	25
 229092	5	0	Up or Down (6 Suits)	2020-07-04 — 11:00:10 UTC	derekcheah, Div, MarkusKahlsen, swineherd, Zakisan	7	6	30
 229079	5	0	Up or Down (6 Suits)	2020-07-04 — 10:36:22 UTC	derekcheah, Div, MarkusKahlsen, swineherd, Zakisan	9	6	30
-229073	3	24	Up or Down (5 Suits)	2020-07-04 — 10:17:09 UTC	derekcheah, Nitrate2, Zakisan	88	5	25
+229073	3	24	Up or Down (5 Suits)	2020-07-04 — 10:17:09 UTC	derekcheah, Nitrate2, Zakisan	89	5	25
 229067	4	0	Up or Down (5 Suits)	2020-07-04 — 09:49:43 UTC	chriswck, derekcheah, Nitrate2, Zakisan	20	5	25
 229066	4	0	Up or Down (5 Suits)	2020-07-04 — 09:29:21 UTC	chriswck, derekcheah, Nitrate2, Zakisan	19	5	25
-229059	4	0	Rainbow (6 Suits)	2020-07-04 — 08:45:25 UTC	eljobe, rs1, swineherd, Zakisan	275	6	30
-229044	4	25	No Variant	2020-07-04 — 08:05:44 UTC	eljobe, rs1, swineherd, Zakisan	180	5	25
-229033	3	0	No Variant	2020-07-04 — 07:47:24 UTC	eljobe, swineherd, Zakisan	2606	5	25
+229059	4	0	Rainbow (6 Suits)	2020-07-04 — 08:45:25 UTC	eljobe, rs1, swineherd, Zakisan	280	6	30
+229044	4	25	No Variant	2020-07-04 — 08:05:44 UTC	eljobe, rs1, swineherd, Zakisan	182	5	25
+229033	3	0	No Variant	2020-07-04 — 07:47:24 UTC	eljobe, swineherd, Zakisan	2627	5	25
 227915	5	0	Rainbow & White (5 Suits)	2020-07-03 — 14:40:24 UTC	alv1nn, honzas, pianoblook, piper, Zakisan	7	5	25
-227905	3	25	Rainbow & White (5 Suits)	2020-07-03 — 14:12:38 UTC	MarkusKahlsen, piper, Zakisan	21	5	25
+227905	3	25	Rainbow & White (5 Suits)	2020-07-03 — 14:12:38 UTC	MarkusKahlsen, piper, Zakisan	22	5	25
 227847	4	25	Up or Down (5 Suits)	2020-07-03 — 10:57:28 UTC	derekcheah, MarkusKahlsen, TheDaniMan, Zakisan	21	5	25
 227842	5	0	Up or Down (5 Suits)	2020-07-03 — 10:32:09 UTC	derekcheah, Fey, MarkusKahlsen, TheDaniMan, Zakisan	23	5	25
 227838	4	0	Up or Down (5 Suits)	2020-07-03 — 10:15:43 UTC	Fey, MarkusKahlsen, TheDaniMan, Zakisan	25	5	25
@@ -558,8 +563,8 @@
 226570	4	0	Dual-Color & Pink (6 Suits)	2020-07-02 — 05:51:10 UTC	derekcheah, plus, swineherd, Zakisan	6	6	30
 226542	4	25	Black & Pink (5 Suits)	2020-07-02 — 05:26:12 UTC	derekcheah, plus, TheDaniMan, Zakisan	5	5	25
 225476	4	23	Special Mix (5 Suits)	2020-07-01 — 10:39:13 UTC	MarkusKahlsen, sephiroth, swineherd, Zakisan	39	5	25
-225473	5	0	Rainbow (6 Suits)	2020-07-01 — 10:05:59 UTC	eljobe, MarkusKahlsen, sephiroth, swineherd, Zakisan	133	6	30
-225468	3	27	Rainbow (6 Suits)	2020-07-01 — 09:46:15 UTC	eljobe, sephiroth, Zakisan	215	6	30
+225473	5	0	Rainbow (6 Suits)	2020-07-01 — 10:05:59 UTC	eljobe, MarkusKahlsen, sephiroth, swineherd, Zakisan	134	6	30
+225468	3	27	Rainbow (6 Suits)	2020-07-01 — 09:46:15 UTC	eljobe, sephiroth, Zakisan	217	6	30
 225448	4	23	Black & Pink (5 Suits)	2020-07-01 — 07:07:24 UTC	derekcheah, plus, swineherd, Zakisan	13	5	25
 225429	4	23	Black & Pink (5 Suits)	2020-07-01 — 06:41:29 UTC	derekcheah, plus, swineherd, Zakisan	16	5	25
 225404	5	0	Special Mix (5 Suits)	2020-07-01 — 06:14:08 UTC	derekcheah, piper, plus, swineherd, Zakisan	9	5	25
@@ -573,13 +578,13 @@
 223336	5	0	White & Null (5 Suits)	2020-06-29 — 19:59:42 UTC	DMoney, pianoblook, swineherd, will.i.am, Zakisan	2	5	25
 223324	3	0	White & Null (5 Suits)	2020-06-29 — 19:40:05 UTC	DMoney, will.i.am, Zakisan	4	5	25
 223311	5	24	White & Null (5 Suits)	2020-06-29 — 19:23:21 UTC	DMoney, MarkusKahlsen, Nitrate2, will.i.am, Zakisan	2	5	25
-223287	5	30	6 Suits	2020-06-29 — 18:41:39 UTC	Floriman, MarkusKahlsen, Pablo-, swineherd, Zakisan	31	6	30
+223287	5	30	6 Suits	2020-06-29 — 18:41:39 UTC	Floriman, MarkusKahlsen, Pablo-, swineherd, Zakisan	32	6	30
 223260	4	0	Rainbow (5 Suits)	2020-06-29 — 18:11:33 UTC	Bprrg, Floriman, Pablo-, Zakisan	42	5	25
-221959	3	0	No Variant	2020-06-28 — 15:58:12 UTC	blueberry, DrJones, Zakisan	516	5	25
-221949	3	0	No Variant	2020-06-28 — 15:37:15 UTC	blueberry, DrJones, Zakisan	801	5	25
-221943	4	0	No Variant	2020-06-28 — 15:16:26 UTC	blueberry, superiortuna, Tiramisu1th, Zakisan	419	5	25
+221959	3	0	No Variant	2020-06-28 — 15:58:12 UTC	blueberry, DrJones, Zakisan	523	5	25
+221949	3	0	No Variant	2020-06-28 — 15:37:15 UTC	blueberry, DrJones, Zakisan	809	5	25
+221943	4	0	No Variant	2020-06-28 — 15:16:26 UTC	blueberry, superiortuna, Tiramisu1th, Zakisan	423	5	25
 221816	5	24	Black (5 Suits)	2020-06-28 — 07:24:43 UTC	derekcheah, eljobe, Kyle, TheDaniMan, Zakisan	12	5	25
-221793	5	0	Black (5 Suits)	2020-06-28 — 06:45:20 UTC	asaelr, derekcheah, eljobe, TheDaniMan, Zakisan	17	5	25
+221793	5	0	Black (5 Suits)	2020-06-28 — 06:45:20 UTC	asaelr, derekcheah, eljobe, TheDaniMan, Zakisan	18	5	25
 217323	3	22	Black (5 Suits)	2020-06-24 — 19:41:57 UTC	kooolant, Pablo-, Zakisan	84	5	25
 217216	5	21	Special Mix (5 Suits)	2020-06-24 — 15:33:52 UTC	MarkusKahlsen, melwen, padi, will.i.am, Zakisan	7	5	25
 215142	4	22	Special Mix (5 Suits)	2020-06-22 — 15:44:18 UTC	Nitrate2, sephiroth, will.i.am, Zakisan	6	5	25
@@ -587,11 +592,11 @@
 214215	4	26	Black & Pink (6 Suits)	2020-06-21 — 17:31:54 UTC	Kyle, MasN, piper, Zakisan	11	6	30
 213963	4	25	Special Mix (5 Suits)	2020-06-21 — 06:43:42 UTC	derekcheah, Nitrate2, swineherd, Zakisan	29	5	25
 213175	5	25	No Variant	2020-06-20 — 20:05:04 UTC	antitelharsic, MarkusKahlsen, swineherd, Tobythedog, Zakisan	49	5	25
-213087	4	25	Rainbow (6 Suits)	2020-06-20 — 18:24:41 UTC	eljobe, swineherd, Tobythedog, Zakisan	73	6	30
-213064	4	0	Rainbow (6 Suits)	2020-06-20 — 17:55:23 UTC	eljobe, swineherd, Tobythedog, Zakisan	76	6	30
-213046	4	0	Rainbow (6 Suits)	2020-06-20 — 17:31:39 UTC	eljobe, robense, sckuzzle, Zakisan	85	6	30
+213087	4	25	Rainbow (6 Suits)	2020-06-20 — 18:24:41 UTC	eljobe, swineherd, Tobythedog, Zakisan	74	6	30
+213064	4	0	Rainbow (6 Suits)	2020-06-20 — 17:55:23 UTC	eljobe, swineherd, Tobythedog, Zakisan	77	6	30
+213046	4	0	Rainbow (6 Suits)	2020-06-20 — 17:31:39 UTC	eljobe, robense, sckuzzle, Zakisan	86	6	30
 211626	4	0	Null-Ones & Rainbow (6 Suits)	2020-06-19 — 14:33:55 UTC	melwen, sephiroth, swineherd, Zakisan	1	6	30
-211604	3	0	Pink (6 Suits)	2020-06-19 — 12:38:41 UTC	pianoblook, swineherd, Zakisan	92	6	30
+211604	3	0	Pink (6 Suits)	2020-06-19 — 12:38:41 UTC	pianoblook, swineherd, Zakisan	94	6	30
 211570	4	0	Up or Down (5 Suits)	2020-06-19 — 09:21:42 UTC	derekcheah, kodomazer, LaFayetteX, Zakisan	27	5	25
 211568	4	0	Up or Down (5 Suits)	2020-06-19 — 09:03:42 UTC	derekcheah, kodomazer, LaFayetteX, Zakisan	27	5	25
 211567	4	0	Up or Down (5 Suits)	2020-06-19 — 08:51:32 UTC	derekcheah, kodomazer, LaFayetteX, Zakisan	35	5	25
@@ -601,9 +606,9 @@
 210752	5	26	Null-Ones & Rainbow (6 Suits)	2020-06-18 — 19:08:18 UTC	Kyle, Lilliana, padi, sephiroth, Zakisan	1	6	30
 210720	5	0	Null-Ones & Rainbow (6 Suits)	2020-06-18 — 18:27:00 UTC	Kyle, Lilliana, padi, sephiroth, Zakisan	1	6	30
 210710	5	0	Null-Ones & Rainbow (6 Suits)	2020-06-18 — 18:13:30 UTC	Kyle, Lilliana, padi, sephiroth, Zakisan	1	6	30
-210595	5	0	No Variant	2020-06-18 — 13:39:37 UTC	melwen, metta, Nitrate2, TimeHoodie, Zakisan	31	5	25
-210590	4	0	No Variant	2020-06-18 — 13:14:50 UTC	melwen, metta, Nitrate2, Zakisan	27	5	25
-210587	4	25	No Variant	2020-06-18 — 13:02:44 UTC	melwen, metta, Nitrate2, Zakisan	31	5	25
+210595	5	0	No Variant	2020-06-18 — 13:39:37 UTC	melwen, metta, Nitrate2, TimeHoodie, Zakisan	32	5	25
+210590	4	0	No Variant	2020-06-18 — 13:14:50 UTC	melwen, metta, Nitrate2, Zakisan	28	5	25
+210587	4	25	No Variant	2020-06-18 — 13:02:44 UTC	melwen, metta, Nitrate2, Zakisan	32	5	25
 210572	3	26	Rainbow & Brown (6 Suits)	2020-06-18 — 11:53:55 UTC	asaelr, MarkusKahlsen, Zakisan	13	6	30
 210567	3	0	Rainbow & Brown (6 Suits)	2020-06-18 — 11:26:08 UTC	asaelr, MarkusKahlsen, Zakisan	17	6	30
 210562	3	25	Alternating Clues (5 Suits)	2020-06-18 — 11:08:06 UTC	asaelr, LaFayetteX, Zakisan	13	5	25
@@ -611,17 +616,17 @@
 209755	6	26	6 Suits	2020-06-17 — 20:30:24 UTC	Batman, ccaammppbbeell, Glaurung, remarKR, robinwhyareyou, Zakisan	34	6	30
 209699	6	30	6 Suits	2020-06-17 — 19:37:35 UTC	Batman, ccaammppbbeell, Glaurung, remarKR, robinwhyareyou, Zakisan	84	6	30
 209658	6	0	No Variant	2020-06-17 — 18:37:12 UTC	Batman, ccaammppbbeell, Glaurung, remarKR, robinwhyareyou, Zakisan	42	5	25
-209640	5	23	No Variant	2020-06-17 — 17:48:43 UTC	Batman, Glaurung, remarKR, robinwhyareyou, Zakisan	383	5	25
+209640	5	23	No Variant	2020-06-17 — 17:48:43 UTC	Batman, Glaurung, remarKR, robinwhyareyou, Zakisan	384	5	25
 209561	6	0	6 Suits	2020-06-17 — 15:01:00 UTC	Cory, LaFayetteX, metta, Pablo-, padi, Zakisan	8	6	30
 209559	6	30	6 Suits	2020-06-17 — 14:54:06 UTC	Cory, LaFayetteX, metta, Pablo-, padi, Zakisan	8	6	30
-209516	3	27	6 Suits	2020-06-17 — 12:03:08 UTC	Pablo-, sephiroth, Zakisan	503	6	30
+209516	3	27	6 Suits	2020-06-17 — 12:03:08 UTC	Pablo-, sephiroth, Zakisan	511	6	30
 209495	5	0	White Reversed (4 Suits)	2020-06-17 — 09:26:41 UTC	asaelr, derekcheah, kooolant, LaFayetteX, Zakisan	2	4	20
 209492	5	18	White Reversed (4 Suits)	2020-06-17 — 08:54:43 UTC	asaelr, derekcheah, kooolant, LaFayetteX, Zakisan	2	4	20
 209489	4	20	White Reversed (4 Suits)	2020-06-17 — 08:30:13 UTC	derekcheah, kooolant, LaFayetteX, Zakisan	5	4	20
 208656	3	30	Pink (6 Suits)	2020-06-16 — 15:19:35 UTC	Kyle, piper, Zakisan	12	6	30
 208648	4	0	Black (6 Suits)	2020-06-16 — 14:38:03 UTC	Kyle, piper, swineherd, Zakisan	42	6	30
-208639	3	0	No Variant	2020-06-16 — 14:10:43 UTC	Kyle, swineherd, Zakisan	69	5	25
-208629	6	0	No Variant	2020-06-16 — 13:51:50 UTC	MarkusKahlsen, metta, Pablo-, sephiroth, swineherd, Zakisan	282	5	25
+208639	3	0	No Variant	2020-06-16 — 14:10:43 UTC	Kyle, swineherd, Zakisan	73	5	25
+208629	6	0	No Variant	2020-06-16 — 13:51:50 UTC	MarkusKahlsen, metta, Pablo-, sephiroth, swineherd, Zakisan	284	5	25
 207785	4	0	Up or Down (6 Suits)	2020-06-15 — 20:09:40 UTC	plus, TheDaniMan, TimeHoodie, Zakisan	15	6	30
 207769	4	0	Up or Down (6 Suits)	2020-06-15 — 20:00:40 UTC	plus, TheDaniMan, TimeHoodie, Zakisan	19	6	30
 207613	4	0	Clue Starved (5 Suits)	2020-06-15 — 16:01:11 UTC	asaelr, pianoblook, scharkbite, Zakisan	9	5	25
@@ -636,27 +641,27 @@
 207551	3	0	Clue Starved (5 Suits)	2020-06-15 — 12:43:11 UTC	asaelr, sephiroth, Zakisan	5	5	25
 201596	4	0	White & Brown (5 Suits)	2020-06-10 — 18:58:05 UTC	Lilliana, lotem, TheDaniMan, Zakisan	18	5	25
 201559	5	25	Brown (5 Suits)	2020-06-10 — 18:25:53 UTC	Lilliana, lotem, TheDaniMan, will.i.am, Zakisan	7	5	25
-200298	4	25	No Variant	2020-06-09 — 15:11:29 UTC	jerryK, Puzzle, sephiroth, Zakisan	655	5	25
+200298	4	25	No Variant	2020-06-09 — 15:11:29 UTC	jerryK, Puzzle, sephiroth, Zakisan	660	5	25
 200266	5	30	Light Pink (6 Suits)	2020-06-09 — 13:45:05 UTC	MarkusKahlsen, Nitrate2, padi, swineherd, Zakisan	11	6	30
-200251	4	30	Pink (6 Suits)	2020-06-09 — 13:12:36 UTC	MarkusKahlsen, Nitrate2, swineherd, Zakisan	70	6	30
+200251	4	30	Pink (6 Suits)	2020-06-09 — 13:12:36 UTC	MarkusKahlsen, Nitrate2, swineherd, Zakisan	71	6	30
 200239	3	0	Pink (6 Suits)	2020-06-09 — 12:47:51 UTC	Nitrate2, swineherd, Zakisan	70	6	30
 200209	3	30	Brown-Ones & Brown (6 Suits)	2020-06-09 — 11:21:37 UTC	MarkusKahlsen, TimeHoodie, Zakisan	1	6	30
-200204	3	29	Brown-Ones & Brown (6 Suits)	2020-06-09 — 10:51:29 UTC	MarkusKahlsen, TimeHoodie, Zakisan	1	6	30
+200204	3	29	Brown-Ones & Brown (6 Suits)	2020-06-09 — 10:51:29 UTC	MarkusKahlsen, TimeHoodie, Zakisan	2	6	30
 199235	5	0	Dual-Color (6 Suits)	2020-06-08 — 20:02:42 UTC	kooolant, Kyle, postmans, scharkbite, Zakisan	8	6	30
 199167	4	21	Dark Omni (5 Suits)	2020-06-08 — 19:23:39 UTC	DrJones, Kyle, postmans, Zakisan	15	5	25
-199135	4	29	Dark Rainbow (6 Suits)	2020-06-08 — 18:48:11 UTC	DrJones, Nitrate2, will.i.am, Zakisan	48	6	30
-199102	4	0	Dark Rainbow (6 Suits)	2020-06-08 — 18:09:42 UTC	DrJones, Nitrate2, will.i.am, Zakisan	53	6	30
+199135	4	29	Dark Rainbow (6 Suits)	2020-06-08 — 18:48:11 UTC	DrJones, Nitrate2, will.i.am, Zakisan	49	6	30
+199102	4	0	Dark Rainbow (6 Suits)	2020-06-08 — 18:09:42 UTC	DrJones, Nitrate2, will.i.am, Zakisan	54	6	30
 199048	4	0	Black & Dark Pink (6 Suits)	2020-06-08 — 16:44:21 UTC	Dr_Kakashi, kimbifille, Kyle, Zakisan	3	6	30
 199019	6	25	No Variant	2020-06-08 — 15:57:57 UTC	Dr_Kakashi, Kyle, MarkusKahlsen, TheDaniMan, tyrtel, Zakisan	17	5	25
 198949	5	24	No Variant	2020-06-08 — 11:33:37 UTC	asaelr, Dr_Kakashi, swineherd, sylvia, Zakisan	11	5	25
 198946	5	0	No Variant	2020-06-08 — 10:56:54 UTC	asaelr, Dr_Kakashi, schildknaapje, sylvia, Zakisan	11	5	25
 198941	3	29	Rainbow & Brown (6 Suits)	2020-06-08 — 10:23:08 UTC	melwen, swineherd, Zakisan	23	6	30
-198938	3	25	No Variant	2020-06-08 — 09:48:13 UTC	melwen, swineherd, Zakisan	78	5	25
+198938	3	25	No Variant	2020-06-08 — 09:48:13 UTC	melwen, swineherd, Zakisan	79	5	25
 198187	5	25	Light Pink (5 Suits)	2020-06-07 — 20:07:22 UTC	MarkusKahlsen, piper, sephiroth, TheDaniMan, Zakisan	12	5	25
 198149	4	20	Light Pink (4 Suits)	2020-06-07 — 19:39:03 UTC	MarkusKahlsen, Nitrate2, TheDaniMan, Zakisan	15	4	20
-198126	3	29	Light Pink (6 Suits)	2020-06-07 — 19:19:52 UTC	Nitrate2, TheDaniMan, Zakisan	34	6	30
-198098	3	21	Light Pink (6 Suits)	2020-06-07 — 18:47:26 UTC	Nitrate2, TheDaniMan, Zakisan	38	6	30
-198070	4	0	Light Pink (6 Suits)	2020-06-07 — 18:23:42 UTC	MarkusKahlsen, Nitrate2, TheDaniMan, Zakisan	14	6	30
+198126	3	29	Light Pink (6 Suits)	2020-06-07 — 19:19:52 UTC	Nitrate2, TheDaniMan, Zakisan	37	6	30
+198098	3	21	Light Pink (6 Suits)	2020-06-07 — 18:47:26 UTC	Nitrate2, TheDaniMan, Zakisan	40	6	30
+198070	4	0	Light Pink (6 Suits)	2020-06-07 — 18:23:42 UTC	MarkusKahlsen, Nitrate2, TheDaniMan, Zakisan	15	6	30
 198056	4	0	Light Pink (6 Suits)	2020-06-07 — 18:11:11 UTC	MarkusKahlsen, Nitrate2, TheDaniMan, Zakisan	19	6	30
 197950	5	0	3 Suits	2020-06-07 — 16:31:03 UTC	Dr_Kakashi, Livia, padi, postmans, Zakisan	5	3	15
 197946	5	0	3 Suits	2020-06-07 — 16:25:11 UTC	Dr_Kakashi, Livia, padi, postmans, Zakisan	5	3	15
@@ -665,9 +670,9 @@
 196737	6	0	Light-Pink-Fives & White (6 Suits)	2020-06-06 — 21:19:08 UTC	Dr_Kakashi, kimbifille, Kyle, Lilliana, TimeHoodie, Zakisan	1	6	30
 196679	6	0	Light-Pink-Fives & White (6 Suits)	2020-06-06 — 20:45:54 UTC	Dr_Kakashi, kimbifille, Kyle, Lilliana, TimeHoodie, Zakisan	1	6	30
 196516	6	0	Rainbow (6 Suits)	2020-06-06 — 18:50:14 UTC	Aluap, LaFayetteX, MarkusKahlsen, piper, sephiroth, Zakisan	20	6	30
-196491	4	28	Rainbow (6 Suits)	2020-06-06 — 18:18:39 UTC	Aluap, antitelharsic, sephiroth, Zakisan	104	6	30
-196448	3	24	Black & Rainbow (5 Suits)	2020-06-06 — 17:26:19 UTC	MarkusKahlsen, piper, Zakisan	20	5	25
-196407	3	0	Black & Rainbow (5 Suits)	2020-06-06 — 16:46:19 UTC	MarkusKahlsen, piper, Zakisan	24	5	25
+196491	4	28	Rainbow (6 Suits)	2020-06-06 — 18:18:39 UTC	Aluap, antitelharsic, sephiroth, Zakisan	106	6	30
+196448	3	24	Black & Rainbow (5 Suits)	2020-06-06 — 17:26:19 UTC	MarkusKahlsen, piper, Zakisan	21	5	25
+196407	3	0	Black & Rainbow (5 Suits)	2020-06-06 — 16:46:19 UTC	MarkusKahlsen, piper, Zakisan	25	5	25
 196386	4	22	Special Mix (5 Suits)	2020-06-06 — 16:14:09 UTC	melwen, piper, sephiroth, Zakisan	18	5	25
 196318	4	0	Black Reversed (5 Suits)	2020-06-06 — 15:09:52 UTC	melwen, piper, sephiroth, Zakisan	6	5	25
 196300	3	28	Black Reversed (6 Suits)	2020-06-06 — 14:45:32 UTC	melwen, sephiroth, Zakisan	8	6	30
@@ -676,141 +681,141 @@
 196103	5	24	Up or Down (6 Suits)	2020-06-06 — 06:31:52 UTC	derekcheah, Fey, kooolant, Lilliana, Zakisan	11	6	30
 196057	5	0	Up or Down (6 Suits)	2020-06-06 — 05:54:42 UTC	derekcheah, Fey, kooolant, Lilliana, Zakisan	11	6	30
 195008	4	21	Dark Brown (5 Suits)	2020-06-05 — 15:36:30 UTC	Floriman, Kyle, sephiroth, Zakisan	10	5	25
-194994	4	0	Dark Brown (5 Suits)	2020-06-05 — 15:14:03 UTC	Floriman, Kyle, sephiroth, Zakisan	12	5	25
+194994	4	0	Dark Brown (5 Suits)	2020-06-05 — 15:14:03 UTC	Floriman, Kyle, sephiroth, Zakisan	13	5	25
 194914	3	30	Pink (6 Suits)	2020-06-05 — 11:47:05 UTC	asaelr, MarkusKahlsen, Zakisan	18	6	30
 194904	4	28	Up or Down (6 Suits)	2020-06-05 — 11:01:39 UTC	arnino, derekcheah, TimeHoodie, Zakisan	22	6	30
 194893	5	29	Up or Down (6 Suits)	2020-06-05 — 10:07:27 UTC	arnino, derekcheah, Fey, TimeHoodie, Zakisan	17	6	30
 194884	4	0	Up or Down (6 Suits)	2020-06-05 — 09:20:18 UTC	derekcheah, Fey, TimeHoodie, Zakisan	28	6	30
-194866	4	25	No Variant	2020-06-05 — 07:49:31 UTC	derekcheah, pianoblook, rs1, Zakisan	54	5	25
+194866	4	25	No Variant	2020-06-05 — 07:49:31 UTC	derekcheah, pianoblook, rs1, Zakisan	55	5	25
 193814	5	30	Up or Down (6 Suits)	2020-06-04 — 16:25:25 UTC	hakha3, Kyle, sephiroth, TimeHoodie, Zakisan	5	6	30
-193790	5	0	Up or Down (6 Suits)	2020-06-04 — 15:50:50 UTC	hakha3, Kyle, sephiroth, TimeHoodie, Zakisan	5	6	30
+193790	5	0	Up or Down (6 Suits)	2020-06-04 — 15:50:50 UTC	hakha3, Kyle, sephiroth, TimeHoodie, Zakisan	6	6	30
 193785	5	0	Up or Down (5 Suits)	2020-06-04 — 15:43:27 UTC	hakha3, Kyle, sephiroth, TimeHoodie, Zakisan	5	5	25
 193772	5	25	White (5 Suits)	2020-06-04 — 15:19:29 UTC	asaelr, hakha3, padi, sephiroth, Zakisan	11	5	25
-193715	6	27	Dark Rainbow (6 Suits)	2020-06-04 — 13:28:06 UTC	Animex52, asaelr, MarkusKahlsen, Nitrate2, sephiroth, Zakisan	3	6	30
+193715	6	27	Dark Rainbow (6 Suits)	2020-06-04 — 13:28:06 UTC	Animex52, asaelr, MarkusKahlsen, Nitrate2, sephiroth, Zakisan	4	6	30
 193692	6	25	Black & White (6 Suits)	2020-06-04 — 12:50:04 UTC	hakha3, MarkusKahlsen, Nitrate2, sephiroth, TimeHoodie, Zakisan	5	6	30
 192996	5	0	Rainbow (6 Suits)	2020-06-03 — 21:39:00 UTC	asaelr, Floriman, MarkusKahlsen, scharkbite, Zakisan	6	6	30
 192978	5	28	Rainbow (6 Suits)	2020-06-03 — 21:21:06 UTC	asaelr, Floriman, MarkusKahlsen, scharkbite, Zakisan	7	6	30
-192958	4	30	White (6 Suits)	2020-06-03 — 20:48:11 UTC	MarkusKahlsen, will.i.am, XMIL, Zakisan	41	6	30
+192958	4	30	White (6 Suits)	2020-06-03 — 20:48:11 UTC	MarkusKahlsen, will.i.am, XMIL, Zakisan	43	6	30
 192942	4	30	Rainbow (6 Suits)	2020-06-03 — 20:07:22 UTC	hakha3, kimbifille, postmans, Zakisan	132	6	30
-192925	4	0	Rainbow (6 Suits)	2020-06-03 — 19:54:17 UTC	hakha3, kimbifille, postmans, Zakisan	156	6	30
+192925	4	0	Rainbow (6 Suits)	2020-06-03 — 19:54:17 UTC	hakha3, kimbifille, postmans, Zakisan	157	6	30
 192720	5	23	White (5 Suits)	2020-06-03 — 16:19:22 UTC	Animex52, Kyle, padi, will.i.am, Zakisan	1	5	25
 192689	5	0	White (5 Suits)	2020-06-03 — 15:42:04 UTC	Animex52, Kyle, padi, will.i.am, Zakisan	2	5	25
 192648	4	0	Light-Pink-Fives & Rainbow (5 Suits)	2020-06-03 — 14:37:49 UTC	sephiroth, sin_faith, TimeHoodie, Zakisan	1	5	25
 192634	5	18	Light-Pink-Fives & Rainbow (4 Suits)	2020-06-03 — 13:50:11 UTC	MarkusKahlsen, padi, sephiroth, TimeHoodie, Zakisan	1	4	20
 191547	4	24	Black & Brown (5 Suits)	2020-06-02 — 15:53:37 UTC	hakha3, padi, TimeHoodie, Zakisan	13	5	25
 191497	6	23	No Variant	2020-06-02 — 14:49:24 UTC	Aluap, Animex52, MarekU, melwen, sephiroth, Zakisan	19	5	25
-191480	4	0	Special Mix (6 Suits)	2020-06-02 — 13:11:38 UTC	sephiroth, sin_faith, TimeHoodie, Zakisan	7	6	30
-191472	4	0	Special Mix (6 Suits)	2020-06-02 — 12:44:57 UTC	sephiroth, sin_faith, TimeHoodie, Zakisan	11	6	30
-191419	5	29	Pink-Ones (6 Suits)	2020-06-02 — 09:03:09 UTC	asaelr, Dr_Kakashi, duckmammal, Floriman, Zakisan	1	6	30
-191412	5	0	Pink-Ones (6 Suits)	2020-06-02 — 08:37:16 UTC	asaelr, Dr_Kakashi, duckmammal, Floriman, Zakisan	2	6	30
+191480	4	0	Special Mix (6 Suits)	2020-06-02 — 13:11:38 UTC	sephiroth, sin_faith, TimeHoodie, Zakisan	8	6	30
+191472	4	0	Special Mix (6 Suits)	2020-06-02 — 12:44:57 UTC	sephiroth, sin_faith, TimeHoodie, Zakisan	12	6	30
+191419	5	29	Pink-Ones (6 Suits)	2020-06-02 — 09:03:09 UTC	asaelr, Dr_Kakashi, duckmammal, Floriman, Zakisan	2	6	30
+191412	5	0	Pink-Ones (6 Suits)	2020-06-02 — 08:37:16 UTC	asaelr, Dr_Kakashi, duckmammal, Floriman, Zakisan	3	6	30
 191403	4	22	Cocoa Rainbow (5 Suits)	2020-06-02 — 08:04:11 UTC	asaelr, duckmammal, Fey, Zakisan	20	5	25
-190711	4	25	Black (5 Suits)	2020-06-01 — 21:20:53 UTC	MarkusKahlsen, TheDaniMan, will.i.am, Zakisan	63	5	25
-190689	4	23	Black (5 Suits)	2020-06-01 — 21:00:36 UTC	MarkusKahlsen, TheDaniMan, will.i.am, Zakisan	79	5	25
+190711	4	25	Black (5 Suits)	2020-06-01 — 21:20:53 UTC	MarkusKahlsen, TheDaniMan, will.i.am, Zakisan	64	5	25
+190689	4	23	Black (5 Suits)	2020-06-01 — 21:00:36 UTC	MarkusKahlsen, TheDaniMan, will.i.am, Zakisan	80	5	25
 190671	3	0	Black (5 Suits)	2020-06-01 — 20:44:42 UTC	TheDaniMan, will.i.am, Zakisan	92	5	25
 190667	3	0	Black (5 Suits)	2020-06-01 — 20:41:35 UTC	TheDaniMan, will.i.am, Zakisan	101	5	25
 187805	4	22	Black & Rainbow (5 Suits)	2020-05-30 — 13:04:41 UTC	MarkusKahlsen, melwen, sephiroth, Zakisan	12	5	25
 187791	4	0	Black & Rainbow (5 Suits)	2020-05-30 — 12:21:49 UTC	Animex52, MarkusKahlsen, sephiroth, Zakisan	17	5	25
 187737	3	21	Black (5 Suits)	2020-05-30 — 09:25:13 UTC	antitelharsic, derekcheah, Zakisan	119	5	25
-187715	3	0	Black (5 Suits)	2020-05-30 — 08:43:51 UTC	antitelharsic, derekcheah, Zakisan	134	5	25
-187699	3	0	Black (5 Suits)	2020-05-30 — 08:19:35 UTC	antitelharsic, derekcheah, Zakisan	171	5	25
+187715	3	0	Black (5 Suits)	2020-05-30 — 08:43:51 UTC	antitelharsic, derekcheah, Zakisan	135	5	25
+187699	3	0	Black (5 Suits)	2020-05-30 — 08:19:35 UTC	antitelharsic, derekcheah, Zakisan	174	5	25
 187598	3	0	Black & Rainbow (5 Suits)	2020-05-30 — 06:55:36 UTC	derekcheah, mikefrenil, Zakisan	26	5	25
 187528	3	0	Black & Rainbow (5 Suits)	2020-05-30 — 06:18:10 UTC	derekcheah, mikefrenil, Zakisan	33	5	25
 186565	4	0	Black & Rainbow (5 Suits)	2020-05-29 — 20:23:49 UTC	Kyle, pianoblook, scharkbite, Zakisan	2	5	25
 186529	4	0	Black & Rainbow (5 Suits)	2020-05-29 — 19:54:15 UTC	Animex52, Kyle, pianoblook, Zakisan	4	5	25
-186281	3	0	Rainbow (5 Suits)	2020-05-29 — 15:21:15 UTC	duckmammal, XMIL, Zakisan	50	5	25
-186268	3	0	Rainbow (5 Suits)	2020-05-29 — 14:57:45 UTC	duckmammal, XMIL, Zakisan	57	5	25
-186255	3	25	Up or Down (5 Suits)	2020-05-29 — 14:42:11 UTC	duckmammal, kimbifille, Zakisan	17	5	25
+186281	3	0	Rainbow (5 Suits)	2020-05-29 — 15:21:15 UTC	duckmammal, XMIL, Zakisan	51	5	25
+186268	3	0	Rainbow (5 Suits)	2020-05-29 — 14:57:45 UTC	duckmammal, XMIL, Zakisan	59	5	25
+186255	3	25	Up or Down (5 Suits)	2020-05-29 — 14:42:11 UTC	duckmammal, kimbifille, Zakisan	18	5	25
 186222	3	20	Alternating Clues & White (4 Suits)	2020-05-29 — 13:53:36 UTC	Dr_Kakashi, kimbifille, Zakisan	1	4	20
 186208	3	19	Alternating Clues & White (4 Suits)	2020-05-29 — 13:20:42 UTC	Dr_Kakashi, kimbifille, Zakisan	1	4	20
 186203	3	0	Alternating Clues & White (4 Suits)	2020-05-29 — 13:00:19 UTC	Dr_Kakashi, kimbifille, Zakisan	3	4	20
 185023	4	15	Reversed (3 Suits)	2020-05-28 — 15:52:19 UTC	Cory, TheDaniMan, Zakisan, Zamiel	1	3	15
-185009	4	0	Reversed (3 Suits)	2020-05-28 — 15:31:20 UTC	Cory, TheDaniMan, Zakisan, Zamiel	2	3	15
-184998	2	24	Reversed (5 Suits)	2020-05-28 — 15:19:43 UTC	TheDaniMan, Zakisan	44	5	25
+185009	4	0	Reversed (3 Suits)	2020-05-28 — 15:31:20 UTC	Cory, TheDaniMan, Zakisan, Zamiel	3	3	15
+184998	2	24	Reversed (5 Suits)	2020-05-28 — 15:19:43 UTC	TheDaniMan, Zakisan	45	5	25
 184981	5	0	Reversed (5 Suits)	2020-05-28 — 14:56:25 UTC	Cory, Kyle, TheDaniMan, Zakisan, Zamiel	6	5	25
-184974	4	0	Reversed (3 Suits)	2020-05-28 — 14:43:54 UTC	Cory, TheDaniMan, Zakisan, Zamiel	3	3	15
+184974	4	0	Reversed (3 Suits)	2020-05-28 — 14:43:54 UTC	Cory, TheDaniMan, Zakisan, Zamiel	4	3	15
 184941	4	25	Black & Rainbow (5 Suits)	2020-05-28 — 13:56:11 UTC	Libster, Nitrate2, sephiroth, Zakisan	2	5	25
 184927	5	28	Black & Rainbow (6 Suits)	2020-05-28 — 13:26:55 UTC	LaFayetteX, MarkusKahlsen, Nitrate2, sephiroth, Zakisan	15	6	30
-184914	3	0	Black & Rainbow (6 Suits)	2020-05-28 — 12:48:42 UTC	robense, sephiroth, Zakisan	59	6	30
+184914	3	0	Black & Rainbow (6 Suits)	2020-05-28 — 12:48:42 UTC	robense, sephiroth, Zakisan	60	6	30
 184848	4	0	Muddy-Rainbow-Ones & Null (5 Suits)	2020-05-28 — 09:28:17 UTC	Dr_Kakashi, sin_faith, TimeHoodie, Zakisan	1	5	25
 184842	4	0	Muddy-Rainbow-Ones & Null (5 Suits)	2020-05-28 — 09:10:23 UTC	Dr_Kakashi, sin_faith, TimeHoodie, Zakisan	1	5	25
 184837	4	0	Muddy-Rainbow-Ones & Null (5 Suits)	2020-05-28 — 08:57:55 UTC	Dr_Kakashi, sin_faith, TimeHoodie, Zakisan	1	5	25
-184828	5	25	Brown-Ones & Pink (5 Suits)	2020-05-28 — 08:31:07 UTC	asaelr, Dr_Kakashi, sin_faith, TimeHoodie, Zakisan	2	5	25
+184828	5	25	Brown-Ones & Pink (5 Suits)	2020-05-28 — 08:31:07 UTC	asaelr, Dr_Kakashi, sin_faith, TimeHoodie, Zakisan	3	5	25
 183963	4	24	Black & Rainbow (5 Suits)	2020-05-27 — 20:53:47 UTC	Floriman, Nitrate2, sephiroth, Zakisan	16	5	25
 183871	3	23	Black & Rainbow (5 Suits)	2020-05-27 — 19:31:51 UTC	Kyle, will.i.am, Zakisan	9	5	25
 183830	6	0	Black & Rainbow (6 Suits)	2020-05-27 — 19:03:14 UTC	Kyle, sephiroth, swineherd, TheDaniMan, will.i.am, Zakisan	2	6	30
 183797	6	0	Black & Rainbow (6 Suits)	2020-05-27 — 18:34:03 UTC	Kyle, sephiroth, swineherd, TheDaniMan, will.i.am, Zakisan	3	6	30
 183771	3	23	Black & Rainbow (5 Suits)	2020-05-27 — 18:03:06 UTC	MarkusKahlsen, sephiroth, Zakisan	40	5	25
-183750	3	0	Black & Rainbow (5 Suits)	2020-05-27 — 17:33:16 UTC	MarkusKahlsen, sephiroth, Zakisan	46	5	25
+183750	3	0	Black & Rainbow (5 Suits)	2020-05-27 — 17:33:16 UTC	MarkusKahlsen, sephiroth, Zakisan	47	5	25
 183740	6	29	Black & Rainbow (6 Suits)	2020-05-27 — 17:11:00 UTC	DrJones, MarkusKahlsen, pianoblook, robense, sephiroth, Zakisan	3	6	30
 183718	6	0	Black & Rainbow (6 Suits)	2020-05-27 — 16:34:31 UTC	DrJones, MarkusKahlsen, pianoblook, robense, sephiroth, Zakisan	6	6	30
 183711	5	0	Black & Rainbow (6 Suits)	2020-05-27 — 16:28:18 UTC	Kyle, robense, sephiroth, TheDaniMan, Zakisan	12	6	30
-183706	5	0	Black & Rainbow (6 Suits)	2020-05-27 — 16:22:09 UTC	Kyle, robense, sephiroth, TheDaniMan, Zakisan	20	6	30
+183706	5	0	Black & Rainbow (6 Suits)	2020-05-27 — 16:22:09 UTC	Kyle, robense, sephiroth, TheDaniMan, Zakisan	21	6	30
 183691	4	0	Black & Rainbow (5 Suits)	2020-05-27 — 15:54:28 UTC	robense, sephiroth, TheDaniMan, Zakisan	23	5	25
 183625	3	22	Black & Rainbow (5 Suits)	2020-05-27 — 12:31:00 UTC	Dr_Kakashi, Fey, Zakisan	3	5	25
 183616	3	0	Black & Rainbow (5 Suits)	2020-05-27 — 12:01:19 UTC	Dr_Kakashi, Fey, Zakisan	3	5	25
 183608	3	21	Black & Rainbow (5 Suits)	2020-05-27 — 11:33:44 UTC	Dr_Kakashi, Fey, Zakisan	3	5	25
-183606	3	19	Throw It in a Hole (4 Suits)	2020-05-27 — 10:56:21 UTC	Fey, hakha3, Zakisan	14	4	20
+183606	3	19	Throw It in a Hole (4 Suits)	2020-05-27 — 10:56:21 UTC	Fey, hakha3, Zakisan	15	4	20
 183603	4	0	Throw It in a Hole (4 Suits)	2020-05-27 — 10:27:57 UTC	Fey, hakha3, sin_faith, Zakisan	12	4	20
 182943	3	0	Black (6 Suits)	2020-05-26 — 21:37:31 UTC	DrJones, TheDaniMan, Zakisan	31	6	30
 182609	4	22	Black & Rainbow (5 Suits)	2020-05-26 — 15:25:46 UTC	pianoblook, sephiroth, TheDaniMan, Zakisan	32	5	25
 182602	3	0	Black & Rainbow (5 Suits)	2020-05-26 — 15:04:02 UTC	pianoblook, sephiroth, Zakisan	58	5	25
-182599	4	0	Black (6 Suits)	2020-05-26 — 14:52:02 UTC	pianoblook, sephiroth, swineherd, Zakisan	102	6	30
+182599	4	0	Black (6 Suits)	2020-05-26 — 14:52:02 UTC	pianoblook, sephiroth, swineherd, Zakisan	103	6	30
 181706	3	0	Light Pink & Gray (6 Suits)	2020-05-25 — 21:37:14 UTC	Dr_Kakashi, pianoblook, Zakisan	1	6	30
 181660	3	0	Light Pink & Gray (6 Suits)	2020-05-25 — 21:11:34 UTC	Dr_Kakashi, pianoblook, Zakisan	2	6	30
-181352	4	26	Black (6 Suits)	2020-05-25 — 15:59:56 UTC	Floriman, padi, sephiroth, Zakisan	91	6	30
+181352	4	26	Black (6 Suits)	2020-05-25 — 15:59:56 UTC	Floriman, padi, sephiroth, Zakisan	95	6	30
 181334	5	30	Rainbow (6 Suits)	2020-05-25 — 15:16:00 UTC	Cory, mycarpe, sephiroth, swineherd, Zakisan	39	6	30
 181317	5	0	Rainbow (6 Suits)	2020-05-25 — 14:35:08 UTC	Cory, MarkusKahlsen, mycarpe, sephiroth, Zakisan	83	6	30
-180972	3	24	Pink (5 Suits)	2020-05-25 — 05:15:18 UTC	kalisa, will.i.am, Zakisan	36	5	25
-180937	3	0	Pink (5 Suits)	2020-05-25 — 04:52:34 UTC	kalisa, will.i.am, Zakisan	62	5	25
-179989	3	25	Up or Down (5 Suits)	2020-05-24 — 18:33:02 UTC	Scaramouche129, TheDaniMan, Zakisan	113	5	25
+180972	3	24	Pink (5 Suits)	2020-05-25 — 05:15:18 UTC	kalisa, will.i.am, Zakisan	38	5	25
+180937	3	0	Pink (5 Suits)	2020-05-25 — 04:52:34 UTC	kalisa, will.i.am, Zakisan	64	5	25
+179989	3	25	Up or Down (5 Suits)	2020-05-24 — 18:33:02 UTC	Scaramouche129, TheDaniMan, Zakisan	114	5	25
 179939	5	0	Black (6 Suits)	2020-05-24 — 18:02:52 UTC	Aluap, DrJones, sephiroth, TheDaniMan, Zakisan	39	6	30
-179895	2	0	Rainbow (6 Suits)	2020-05-24 — 17:35:47 UTC	DrJones, Zakisan	395	6	30
+179895	2	0	Rainbow (6 Suits)	2020-05-24 — 17:35:47 UTC	DrJones, Zakisan	398	6	30
 179637	3	27	Black (6 Suits)	2020-05-24 — 10:02:57 UTC	alphabeta, derekcheah, Zakisan	24	6	30
 179621	3	30	Black (6 Suits)	2020-05-24 — 09:10:33 UTC	alphabeta, derekcheah, Zakisan	26	6	30
 179595	3	30	Black (6 Suits)	2020-05-24 — 08:23:05 UTC	alphabeta, derekcheah, Zakisan	31	6	30
 179560	3	30	Black (6 Suits)	2020-05-24 — 07:39:20 UTC	alphabeta, derekcheah, Zakisan	32	6	30
-179530	3	28	Black (6 Suits)	2020-05-24 — 07:04:24 UTC	alphabeta, derekcheah, Zakisan	325	6	30
-179406	4	30	Ambiguous (6 Suits)	2020-05-24 — 05:29:09 UTC	melwen, scharkbite, TimeHoodie, Zakisan	20	6	30
+179530	3	28	Black (6 Suits)	2020-05-24 — 07:04:24 UTC	alphabeta, derekcheah, Zakisan	332	6	30
+179406	4	30	Ambiguous (6 Suits)	2020-05-24 — 05:29:09 UTC	melwen, scharkbite, TimeHoodie, Zakisan	22	6	30
 178367	4	0	Black (6 Suits)	2020-05-23 — 18:00:03 UTC	Kyle, qbphoenix, TimeHoodie, Zakisan	57	6	30
-178349	3	0	Black (6 Suits)	2020-05-23 — 17:37:03 UTC	qbphoenix, TimeHoodie, Zakisan	172	6	30
-178329	4	0	Black (6 Suits)	2020-05-23 — 17:16:47 UTC	Fey, qbphoenix, TimeHoodie, Zakisan	74	6	30
+178349	3	0	Black (6 Suits)	2020-05-23 — 17:37:03 UTC	qbphoenix, TimeHoodie, Zakisan	175	6	30
+178329	4	0	Black (6 Suits)	2020-05-23 — 17:16:47 UTC	Fey, qbphoenix, TimeHoodie, Zakisan	76	6	30
 178212	3	27	Black (6 Suits)	2020-05-23 — 14:48:30 UTC	Dr_Kakashi, kimbifille, Zakisan	11	6	30
 178191	3	0	Black (6 Suits)	2020-05-23 — 14:13:11 UTC	Dr_Kakashi, kimbifille, Zakisan	10	6	30
-178180	4	0	Black (6 Suits)	2020-05-23 — 13:50:29 UTC	Dr_Kakashi, kimbifille, sephiroth, Zakisan	64	6	30
-178069	5	24	No Variant	2020-05-23 — 08:41:06 UTC	antitelharsic, derekcheah, eljobe, kalisa, Zakisan	457	5	25
-178050	4	0	Rainbow (6 Suits)	2020-05-23 — 08:13:53 UTC	antitelharsic, derekcheah, kalisa, Zakisan	163	6	30
-178045	4	0	Rainbow (6 Suits)	2020-05-23 — 08:06:56 UTC	antitelharsic, derekcheah, kalisa, Zakisan	185	6	30
-178018	3	25	Black (6 Suits)	2020-05-23 — 07:43:57 UTC	antitelharsic, derekcheah, Zakisan	193	6	30
-177961	3	19	Black (6 Suits)	2020-05-23 — 06:56:07 UTC	antitelharsic, derekcheah, Zakisan	213	6	30
-176931	5	24	No Variant	2020-05-22 — 19:56:51 UTC	anna567, Div, eljobe, swineherd, Zakisan	262	5	25
+178180	4	0	Black (6 Suits)	2020-05-23 — 13:50:29 UTC	Dr_Kakashi, kimbifille, sephiroth, Zakisan	66	6	30
+178069	5	24	No Variant	2020-05-23 — 08:41:06 UTC	antitelharsic, derekcheah, eljobe, kalisa, Zakisan	461	5	25
+178050	4	0	Rainbow (6 Suits)	2020-05-23 — 08:13:53 UTC	antitelharsic, derekcheah, kalisa, Zakisan	164	6	30
+178045	4	0	Rainbow (6 Suits)	2020-05-23 — 08:06:56 UTC	antitelharsic, derekcheah, kalisa, Zakisan	188	6	30
+178018	3	25	Black (6 Suits)	2020-05-23 — 07:43:57 UTC	antitelharsic, derekcheah, Zakisan	196	6	30
+177961	3	19	Black (6 Suits)	2020-05-23 — 06:56:07 UTC	antitelharsic, derekcheah, Zakisan	214	6	30
+176931	5	24	No Variant	2020-05-22 — 19:56:51 UTC	anna567, Div, eljobe, swineherd, Zakisan	265	5	25
 176886	5	0	No Variant	2020-05-22 — 19:26:56 UTC	anna567, eljobe, swineherd, TheDaniMan, Zakisan	75	5	25
-176860	5	23	No Variant	2020-05-22 — 19:06:09 UTC	anna567, eljobe, swineherd, TheDaniMan, Zakisan	344	5	25
-176833	4	0	No Variant	2020-05-22 — 18:38:01 UTC	eljobe, swineherd, TheDaniMan, Zakisan	81	5	25
-176821	4	24	No Variant	2020-05-22 — 18:23:44 UTC	sephiroth, swineherd, TheDaniMan, Zakisan	88	5	25
-176794	4	0	No Variant	2020-05-22 — 17:59:59 UTC	sephiroth, swineherd, TheDaniMan, Zakisan	90	5	25
-176780	3	25	No Variant	2020-05-22 — 17:43:51 UTC	swineherd, TheDaniMan, Zakisan	220	5	25
-176728	5	22	No Variant	2020-05-22 — 16:38:50 UTC	Elatekur, eljobe, sephiroth, swineherd, Zakisan	109	5	25
-176708	5	0	No Variant	2020-05-22 — 16:08:43 UTC	Elatekur, eljobe, mycarpe, swineherd, Zakisan	195	5	25
-176685	4	0	No Variant	2020-05-22 — 15:36:23 UTC	melwen, mycarpe, swineherd, Zakisan	48	5	25
-176667	5	30	Rainbow (6 Suits)	2020-05-22 — 14:50:05 UTC	melwen, mycarpe, sephiroth, swineherd, Zakisan	209	6	30
+176860	5	23	No Variant	2020-05-22 — 19:06:09 UTC	anna567, eljobe, swineherd, TheDaniMan, Zakisan	348	5	25
+176833	4	0	No Variant	2020-05-22 — 18:38:01 UTC	eljobe, swineherd, TheDaniMan, Zakisan	84	5	25
+176821	4	24	No Variant	2020-05-22 — 18:23:44 UTC	sephiroth, swineherd, TheDaniMan, Zakisan	90	5	25
+176794	4	0	No Variant	2020-05-22 — 17:59:59 UTC	sephiroth, swineherd, TheDaniMan, Zakisan	92	5	25
+176780	3	25	No Variant	2020-05-22 — 17:43:51 UTC	swineherd, TheDaniMan, Zakisan	224	5	25
+176728	5	22	No Variant	2020-05-22 — 16:38:50 UTC	Elatekur, eljobe, sephiroth, swineherd, Zakisan	112	5	25
+176708	5	0	No Variant	2020-05-22 — 16:08:43 UTC	Elatekur, eljobe, mycarpe, swineherd, Zakisan	198	5	25
+176685	4	0	No Variant	2020-05-22 — 15:36:23 UTC	melwen, mycarpe, swineherd, Zakisan	49	5	25
+176667	5	30	Rainbow (6 Suits)	2020-05-22 — 14:50:05 UTC	melwen, mycarpe, sephiroth, swineherd, Zakisan	211	6	30
 176649	6	0	Rainbow (6 Suits)	2020-05-22 — 14:00:06 UTC	melwen, mycarpe, sephiroth, swineherd, TimeHoodie, Zakisan	33	6	30
-175160	3	15	3 Suits	2020-05-21 — 06:47:32 UTC	claudiob, derekcheah, Zakisan	88	3	15
-175137	3	15	3 Suits	2020-05-21 — 06:29:09 UTC	claudiob, derekcheah, Zakisan	115	3	15
-175119	3	12	3 Suits	2020-05-21 — 06:12:34 UTC	claudiob, derekcheah, Zakisan	144	3	15
+175160	3	15	3 Suits	2020-05-21 — 06:47:32 UTC	claudiob, derekcheah, Zakisan	90	3	15
+175137	3	15	3 Suits	2020-05-21 — 06:29:09 UTC	claudiob, derekcheah, Zakisan	116	3	15
+175119	3	12	3 Suits	2020-05-21 — 06:12:34 UTC	claudiob, derekcheah, Zakisan	146	3	15
 174117	3	20	Pink-Ones & Rainbow (4 Suits)	2020-05-20 — 15:55:26 UTC	Nitrate2, TimeHoodie, Zakisan	1	4	20
 174101	4	0	Pink-Ones & Rainbow (4 Suits)	2020-05-20 — 15:14:10 UTC	kimbifille, Nitrate2, TimeHoodie, Zakisan	1	4	20
 174096	4	0	Pink-Ones & Rainbow (4 Suits)	2020-05-20 — 14:49:41 UTC	kimbifille, Nitrate2, TimeHoodie, Zakisan	2	4	20
 173168	6	0	Brown (6 Suits)	2020-05-19 — 21:36:15 UTC	CastlesInTheAir, kimbifille, kooolant, qbphoenix, TheDaniMan, Zakisan	10	6	30
 171975	6	23	White & Light Pink (5 Suits)	2020-05-18 — 21:10:09 UTC	kimbifille, kooolant, padi, TheDaniMan, XMIL, Zakisan	2	5	25
 171939	5	0	White & Light Pink (4 Suits)	2020-05-18 — 20:34:31 UTC	kimbifille, kooolant, padi, TheDaniMan, Zakisan	1	4	20
-171669	3	25	No Variant	2020-05-18 — 12:40:24 UTC	MarkusKahlsen, sin_faith, Zakisan	102	5	25
-171663	3	0	No Variant	2020-05-18 — 12:27:02 UTC	MarkusKahlsen, sin_faith, Zakisan	187	5	25
-171660	3	25	No Variant	2020-05-18 — 12:19:15 UTC	MarkusKahlsen, sin_faith, Zakisan	324	5	25
+171669	3	25	No Variant	2020-05-18 — 12:40:24 UTC	MarkusKahlsen, sin_faith, Zakisan	107	5	25
+171663	3	0	No Variant	2020-05-18 — 12:27:02 UTC	MarkusKahlsen, sin_faith, Zakisan	189	5	25
+171660	3	25	No Variant	2020-05-18 — 12:19:15 UTC	MarkusKahlsen, sin_faith, Zakisan	330	5	25
 169968	5	28	6 Suits	2020-05-17 — 06:30:01 UTC	derekcheah, kalisa, swineherd, XMIL, Zakisan	96	6	30
 169863	4	25	Pink-Fives & Brown (5 Suits)	2020-05-17 — 05:30:21 UTC	kimbifille, kooolant, TheDaniMan, Zakisan	2	5	25
 169816	4	22	Pink-Fives & Brown (5 Suits)	2020-05-17 — 05:02:14 UTC	kimbifille, kooolant, TheDaniMan, Zakisan	3	5	25
 169787	3	0	Pink-Fives & Brown (5 Suits)	2020-05-17 — 04:44:13 UTC	kimbifille, kooolant, Zakisan	4	5	25
-166973	5	25	Muddy Rainbow & Light Pink (5 Suits)	2020-05-15 — 14:45:58 UTC	LaFayetteX, letical, sin_faith, TimeHoodie, Zakisan	2	5	25
+166973	5	25	Muddy Rainbow & Light Pink (5 Suits)	2020-05-15 — 14:45:58 UTC	LaFayetteX, letical, sin_faith, TimeHoodie, Zakisan	3	5	25
 165789	5	22	Black & Light Pink (5 Suits)	2020-05-14 — 18:30:15 UTC	kimbifille, kooolant, Kyle, TimeHoodie, Zakisan	1	5	25
 165763	5	0	Black & Light Pink (5 Suits)	2020-05-14 — 17:51:41 UTC	kimbifille, kooolant, Kyle, TimeHoodie, Zakisan	1	5	25
 165747	5	0	Black & Light Pink (5 Suits)	2020-05-14 — 17:28:16 UTC	kimbifille, kooolant, Kyle, TimeHoodie, Zakisan	3	5	25
@@ -820,43 +825,43 @@
 164289	6	0	Brown-Fives (5 Suits)	2020-05-13 — 14:59:26 UTC	asaelr, kooolant, LaFayetteX, Mattwei, TimeHoodie, Zakisan	1	5	25
 164279	6	23	Brown-Fives (5 Suits)	2020-05-13 — 14:25:37 UTC	Animex52, honzas, melwen, sin_faith, TimeHoodie, Zakisan	1	5	25
 164264	4	21	No Variant	2020-05-13 — 13:00:23 UTC	melwen, swineherd, TimeHoodie, Zakisan	51	5	25
-164253	4	0	No Variant	2020-05-13 — 12:31:10 UTC	melwen, swineherd, TimeHoodie, Zakisan	52	5	25
+164253	4	0	No Variant	2020-05-13 — 12:31:10 UTC	melwen, swineherd, TimeHoodie, Zakisan	54	5	25
 163092	5	28	Muddy Rainbow (6 Suits)	2020-05-12 — 13:22:40 UTC	Nitrate2, NoAnni, sin_faith, TimeHoodie, Zakisan	10	6	30
 162183	4	24	White-Ones & Dark Rainbow (5 Suits)	2020-05-11 — 21:27:01 UTC	alphabeta, TimeHoodie, XMIL, Zakisan	1	5	25
 161868	5	0	Rainbow (6 Suits)	2020-05-11 — 15:05:23 UTC	arnino, Fey, Nitrate2, TimeHoodie, Zakisan	42	6	30
 161864	5	24	White (5 Suits)	2020-05-11 — 14:39:20 UTC	arnino, Fey, Nitrate2, TimeHoodie, Zakisan	14	5	25
 161856	5	0	Rainbow (6 Suits)	2020-05-11 — 14:08:18 UTC	arnino, Nitrate2, sin_faith, TimeHoodie, Zakisan	20	6	30
-161845	4	24	No Variant	2020-05-11 — 13:39:48 UTC	sin_faith, Smiley532, TimeHoodie, Zakisan	95	5	25
-161835	4	25	No Variant	2020-05-11 — 13:13:18 UTC	Iullo, sin_faith, Smiley532, Zakisan	117	5	25
-160118	4	0	Rainbow (6 Suits)	2020-05-10 — 06:59:32 UTC	kalisa, Kyle, sin_faith, Zakisan	69	6	30
-160098	4	23	No Variant	2020-05-10 — 06:27:43 UTC	JDepp, kalisa, Kyle, Zakisan	27	5	25
+161845	4	24	No Variant	2020-05-11 — 13:39:48 UTC	sin_faith, Smiley532, TimeHoodie, Zakisan	98	5	25
+161835	4	25	No Variant	2020-05-11 — 13:13:18 UTC	Iullo, sin_faith, Smiley532, Zakisan	119	5	25
+160118	4	0	Rainbow (6 Suits)	2020-05-10 — 06:59:32 UTC	kalisa, Kyle, sin_faith, Zakisan	70	6	30
+160098	4	23	No Variant	2020-05-10 — 06:27:43 UTC	JDepp, kalisa, Kyle, Zakisan	28	5	25
 160077	4	0	No Variant	2020-05-10 — 06:07:44 UTC	claudiob, JDepp, kalisa, Zakisan	130	5	25
-160071	4	0	No Variant	2020-05-10 — 06:01:59 UTC	claudiob, JDepp, kalisa, Zakisan	125	5	25
+160071	4	0	No Variant	2020-05-10 — 06:01:59 UTC	claudiob, JDepp, kalisa, Zakisan	126	5	25
 158247	6	0	Rainbow & Brown (6 Suits)	2020-05-09 — 05:58:28 UTC	Fireheart, letical, micerang, plus, sin_faith, Zakisan	4	6	30
-157226	4	29	Black (6 Suits)	2020-05-08 — 18:11:58 UTC	ADrone, Kyle, padi, Zakisan	67	6	30
+157226	4	29	Black (6 Suits)	2020-05-08 — 18:11:58 UTC	ADrone, Kyle, padi, Zakisan	69	6	30
 157142	6	30	Up or Down (6 Suits)	2020-05-08 — 15:31:17 UTC	Div, lotem, sin_faith, Sucubis, TimeHoodie, Zakisan	6	6	30
 157095	5	0	Up or Down (5 Suits)	2020-05-08 — 14:35:33 UTC	arnino, Div, lotem, sin_faith, Zakisan	8	5	25
 157046	5	27	Rainbow (6 Suits)	2020-05-08 — 13:13:58 UTC	arnino, Div, robense, sin_faith, Zakisan	21	6	30
 156992	6	30	6 Suits	2020-05-08 — 10:24:03 UTC	asaelr, Buds, LaFayetteX, MarkusKahlsen, Spip_B, Zakisan	7	6	30
-156986	5	0	Rainbow (6 Suits)	2020-05-08 — 09:53:11 UTC	arnino, Div, LaFayetteX, Spip_B, Zakisan	101	6	30
-156983	4	0	Rainbow (6 Suits)	2020-05-08 — 09:30:39 UTC	arnino, Div, LaFayetteX, Zakisan	91	6	30
-156981	4	0	Rainbow (6 Suits)	2020-05-08 — 09:14:27 UTC	arnino, Div, LaFayetteX, Zakisan	96	6	30
+156986	5	0	Rainbow (6 Suits)	2020-05-08 — 09:53:11 UTC	arnino, Div, LaFayetteX, Spip_B, Zakisan	102	6	30
+156983	4	0	Rainbow (6 Suits)	2020-05-08 — 09:30:39 UTC	arnino, Div, LaFayetteX, Zakisan	94	6	30
+156981	4	0	Rainbow (6 Suits)	2020-05-08 — 09:14:27 UTC	arnino, Div, LaFayetteX, Zakisan	97	6	30
 156232	3	0	White & Null (5 Suits)	2020-05-07 — 21:19:54 UTC	asaelr, sin_faith, Zakisan	6	5	25
-156198	3	0	Black & Omni (5 Suits)	2020-05-07 — 20:51:16 UTC	lotem, sin_faith, Zakisan	12	5	25
-155917	3	27	Black (6 Suits)	2020-05-07 — 14:42:28 UTC	honzas, Iullo, Zakisan	261	6	30
+156198	3	0	Black & Omni (5 Suits)	2020-05-07 — 20:51:16 UTC	lotem, sin_faith, Zakisan	13	5	25
+155917	3	27	Black (6 Suits)	2020-05-07 — 14:42:28 UTC	honzas, Iullo, Zakisan	263	6	30
 155905	6	0	Black (6 Suits)	2020-05-07 — 14:05:03 UTC	arnino, honzas, Iullo, LaFayetteX, TimeHoodie, Zakisan	38	6	30
-155862	4	25	Rainbow (5 Suits)	2020-05-07 — 12:26:19 UTC	MarkusKahlsen, plus, TimeHoodie, Zakisan	92	5	25
+155862	4	25	Rainbow (5 Suits)	2020-05-07 — 12:26:19 UTC	MarkusKahlsen, plus, TimeHoodie, Zakisan	93	5	25
 155811	4	0	Pink (6 Suits)	2020-05-07 — 11:15:46 UTC	LaFayetteX, plus, TimeHoodie, Zakisan	30	6	30
 155793	5	0	Pink (6 Suits)	2020-05-07 — 10:40:24 UTC	LaFayetteX, Nitrate2, pianoblook, plus, Zakisan	18	6	30
-155701	5	0	Black (6 Suits)	2020-05-07 — 08:18:09 UTC	dontmacme, pianoblook, plus, TimeHoodie, Zakisan	35	6	30
+155701	5	0	Black (6 Suits)	2020-05-07 — 08:18:09 UTC	dontmacme, pianoblook, plus, TimeHoodie, Zakisan	36	6	30
 154867	4	0	Pink-Ones & Dark Brown (6 Suits)	2020-05-06 — 21:32:37 UTC	plus, sin_faith, TimeHoodie, Zakisan	1	6	30
 154805	4	0	Pink-Ones & Dark Brown (6 Suits)	2020-05-06 — 21:00:27 UTC	plus, sin_faith, TimeHoodie, Zakisan	1	6	30
 154748	3	25	Black & Brown (6 Suits)	2020-05-06 — 20:34:21 UTC	plus, TimeHoodie, Zakisan	23	6	30
-154694	3	0	Rainbow (5 Suits)	2020-05-06 — 20:09:37 UTC	plus, TimeHoodie, Zakisan	56	5	25
+154694	3	0	Rainbow (5 Suits)	2020-05-06 — 20:09:37 UTC	plus, TimeHoodie, Zakisan	57	5	25
 154665	6	0	No Variant	2020-05-06 — 19:51:35 UTC	ccaammppbbeell, Glaurung, R-kaart, robinwhyareyou, WhiteRussian, Zakisan	52	5	25
 154611	6	0	No Variant	2020-05-06 — 18:59:51 UTC	ccaammppbbeell, Glaurung, R-kaart, robinwhyareyou, WhiteRussian, Zakisan	75	5	25
-154589	6	21	No Variant	2020-05-06 — 18:33:29 UTC	ccaammppbbeell, Glaurung, R-kaart, robinwhyareyou, WhiteRussian, Zakisan	91	5	25
-154559	6	0	No Variant	2020-05-06 — 17:41:42 UTC	ccaammppbbeell, Glaurung, R-kaart, robinwhyareyou, WhiteRussian, Zakisan	115	5	25
+154589	6	21	No Variant	2020-05-06 — 18:33:29 UTC	ccaammppbbeell, Glaurung, R-kaart, robinwhyareyou, WhiteRussian, Zakisan	92	5	25
+154559	6	0	No Variant	2020-05-06 — 17:41:42 UTC	ccaammppbbeell, Glaurung, R-kaart, robinwhyareyou, WhiteRussian, Zakisan	118	5	25
 154452	5	0	Extremely Ambiguous (6 Suits)	2020-05-06 — 14:13:41 UTC	LaFayetteX, robense, sin_faith, TimeHoodie, Zakisan	7	6	30
 154436	5	29	Dual-Color Mix	2020-05-06 — 13:37:52 UTC	LaFayetteX, robense, sin_faith, TimeHoodie, Zakisan	5	6	30
 154423	5	0	Dual-Color Mix	2020-05-06 — 13:16:52 UTC	LaFayetteX, robense, sin_faith, TimeHoodie, Zakisan	7	6	30
@@ -865,188 +870,188 @@
 154328	4	28	Dual-Color (6 Suits)	2020-05-06 — 09:28:10 UTC	arnino, robense, TimeHoodie, Zakisan	24	6	30
 154300	4	0	Dual-Color (6 Suits)	2020-05-06 — 08:50:45 UTC	arnino, robense, TimeHoodie, Zakisan	39	6	30
 153187	6	0	Rainbow (6 Suits)	2020-05-05 — 18:02:40 UTC	Kyle, lotem, plus, rotem, Sucubis, Zakisan	9	6	30
-153175	4	0	Rainbow (6 Suits)	2020-05-05 — 17:41:30 UTC	Kyle, plus, Sucubis, Zakisan	122	6	30
-153143	5	0	No Variant	2020-05-05 — 16:45:52 UTC	Kyle, LaFayetteX, Nitrate2, plus, Zakisan	29	5	25
-153117	5	0	No Variant	2020-05-05 — 16:20:44 UTC	Kyle, LaFayetteX, Nitrate2, plus, Zakisan	30	5	25
-153099	5	0	No Variant	2020-05-05 — 16:01:23 UTC	Kyle, LaFayetteX, Nitrate2, plus, Zakisan	28	5	25
+153175	4	0	Rainbow (6 Suits)	2020-05-05 — 17:41:30 UTC	Kyle, plus, Sucubis, Zakisan	123	6	30
+153143	5	0	No Variant	2020-05-05 — 16:45:52 UTC	Kyle, LaFayetteX, Nitrate2, plus, Zakisan	30	5	25
+153117	5	0	No Variant	2020-05-05 — 16:20:44 UTC	Kyle, LaFayetteX, Nitrate2, plus, Zakisan	31	5	25
+153099	5	0	No Variant	2020-05-05 — 16:01:23 UTC	Kyle, LaFayetteX, Nitrate2, plus, Zakisan	29	5	25
 153088	5	0	No Variant	2020-05-05 — 15:51:30 UTC	Kyle, LaFayetteX, Nitrate2, plus, Zakisan	44	5	25
 153078	6	0	No Variant	2020-05-05 — 15:38:35 UTC	Fey, Kyle, LaFayetteX, Nitrate2, plus, Zakisan	32	5	25
-152988	5	23	No Variant	2020-05-05 — 12:32:52 UTC	chriswck, MarkusKahlsen, robense, TimeHoodie, Zakisan	45	5	25
-152972	3	23	No Variant	2020-05-05 — 12:01:54 UTC	chriswck, TimeHoodie, Zakisan	1465	5	25
-152959	3	0	No Variant	2020-05-05 — 11:44:44 UTC	chriswck, TimeHoodie, Zakisan	1636	5	25
-152930	5	22	No Variant	2020-05-05 — 10:26:55 UTC	Animex52, Iullo, LaFayetteX, TimeHoodie, Zakisan	35	5	25
-152917	5	0	No Variant	2020-05-05 — 09:18:21 UTC	Animex52, claudiob, LaFayetteX, TimeHoodie, Zakisan	35	5	25
+152988	5	23	No Variant	2020-05-05 — 12:32:52 UTC	chriswck, MarkusKahlsen, robense, TimeHoodie, Zakisan	46	5	25
+152972	3	23	No Variant	2020-05-05 — 12:01:54 UTC	chriswck, TimeHoodie, Zakisan	1474	5	25
+152959	3	0	No Variant	2020-05-05 — 11:44:44 UTC	chriswck, TimeHoodie, Zakisan	1651	5	25
+152930	5	22	No Variant	2020-05-05 — 10:26:55 UTC	Animex52, Iullo, LaFayetteX, TimeHoodie, Zakisan	36	5	25
+152917	5	0	No Variant	2020-05-05 — 09:18:21 UTC	Animex52, claudiob, LaFayetteX, TimeHoodie, Zakisan	36	5	25
 152915	5	0	No Variant	2020-05-05 — 09:09:06 UTC	Animex52, claudiob, LaFayetteX, TimeHoodie, Zakisan	39	5	25
-152913	5	0	No Variant	2020-05-05 — 08:58:08 UTC	Animex52, claudiob, LaFayetteX, TimeHoodie, Zakisan	77	5	25
+152913	5	0	No Variant	2020-05-05 — 08:58:08 UTC	Animex52, claudiob, LaFayetteX, TimeHoodie, Zakisan	78	5	25
 151991	5	0	Pink & Brown (5 Suits)	2020-05-04 — 19:47:01 UTC	asaelr, Kyle, Nils, plus, Zakisan	7	5	25
 151950	4	0	Special Mix (5 Suits)	2020-05-04 — 19:12:55 UTC	ADrone, Nils, robense, Zakisan	21	5	25
 151928	4	0	Special Mix (5 Suits)	2020-05-04 — 18:40:00 UTC	ADrone, Nils, robense, Zakisan	25	5	25
-151849	5	24	No Variant	2020-05-04 — 16:25:00 UTC	alphabeta, chriswck, DrJones, robense, Zakisan	207	5	25
-151841	5	0	No Variant	2020-05-04 — 15:56:37 UTC	chriswck, DrJones, Fey, kiwakandyfloss, Zakisan	541	5	25
-151836	4	0	No Variant	2020-05-04 — 15:45:43 UTC	chriswck, DrJones, kiwakandyfloss, Zakisan	601	5	25
-151818	3	22	Pink (5 Suits)	2020-05-04 — 15:18:09 UTC	lotem, Nils, Zakisan	108	5	25
+151849	5	24	No Variant	2020-05-04 — 16:25:00 UTC	alphabeta, chriswck, DrJones, robense, Zakisan	208	5	25
+151841	5	0	No Variant	2020-05-04 — 15:56:37 UTC	chriswck, DrJones, Fey, kiwakandyfloss, Zakisan	546	5	25
+151836	4	0	No Variant	2020-05-04 — 15:45:43 UTC	chriswck, DrJones, kiwakandyfloss, Zakisan	606	5	25
+151818	3	22	Pink (5 Suits)	2020-05-04 — 15:18:09 UTC	lotem, Nils, Zakisan	112	5	25
 151757	5	29	White (6 Suits)	2020-05-04 — 12:59:30 UTC	hakha3, MarkusKahlsen, plus, TimeHoodie, Zakisan	9	6	30
 151718	4	0	White (5 Suits)	2020-05-04 — 12:08:11 UTC	plus, robense, TimeHoodie, Zakisan	31	5	25
-151703	4	0	White (5 Suits)	2020-05-04 — 11:35:09 UTC	plus, robense, TimeHoodie, Zakisan	32	5	25
-151692	3	25	White (5 Suits)	2020-05-04 — 11:09:20 UTC	plus, robense, Zakisan	61	5	25
-150201	5	24	No Variant	2020-05-03 — 16:12:05 UTC	Maverick, padi, Spieler42, TimeHoodie, Zakisan	81	5	25
-150171	5	22	No Variant	2020-05-03 — 15:26:14 UTC	eevee, padi, Spieler42, TimeHoodie, Zakisan	143	5	25
+151703	4	0	White (5 Suits)	2020-05-04 — 11:35:09 UTC	plus, robense, TimeHoodie, Zakisan	33	5	25
+151692	3	25	White (5 Suits)	2020-05-04 — 11:09:20 UTC	plus, robense, Zakisan	65	5	25
+150201	5	24	No Variant	2020-05-03 — 16:12:05 UTC	Maverick, padi, Spieler42, TimeHoodie, Zakisan	82	5	25
+150171	5	22	No Variant	2020-05-03 — 15:26:14 UTC	eevee, padi, Spieler42, TimeHoodie, Zakisan	145	5	25
 149697	4	30	Rainbow (6 Suits)	2020-05-03 — 05:48:36 UTC	alphabeta, piper, TimeHoodie, Zakisan	35	6	30
-149627	5	25	No Variant	2020-05-03 — 05:08:45 UTC	alphabeta, DoubleDown11, piper, TimeHoodie, Zakisan	92	5	25
-149578	5	0	No Variant	2020-05-03 — 04:44:05 UTC	alphabeta, DoubleDown11, piper, TimeHoodie, Zakisan	163	5	25
-148520	4	25	No Variant	2020-05-02 — 18:48:59 UTC	asaelr, duckmammal, plus, Zakisan	25	5	25
+149627	5	25	No Variant	2020-05-03 — 05:08:45 UTC	alphabeta, DoubleDown11, piper, TimeHoodie, Zakisan	93	5	25
+149578	5	0	No Variant	2020-05-03 — 04:44:05 UTC	alphabeta, DoubleDown11, piper, TimeHoodie, Zakisan	166	5	25
+148520	4	25	No Variant	2020-05-02 — 18:48:59 UTC	asaelr, duckmammal, plus, Zakisan	27	5	25
 148483	5	0	No Variant	2020-05-02 — 18:08:25 UTC	asaelr, duckmammal, piper, plus, Zakisan	21	5	25
 148436	5	0	Black (6 Suits)	2020-05-02 — 17:07:21 UTC	duckmammal, Fey, piper, Sucubis, Zakisan	36	6	30
-148421	4	24	Black (5 Suits)	2020-05-02 — 16:47:36 UTC	Fey, piper, Sucubis, Zakisan	44	5	25
+148421	4	24	Black (5 Suits)	2020-05-02 — 16:47:36 UTC	Fey, piper, Sucubis, Zakisan	47	5	25
 147919	6	25	No Variant	2020-05-02 — 06:25:20 UTC	alphabeta, Fey, micerang, Othnia, pianoblook, Zakisan	16	5	25
-147884	5	24	No Variant	2020-05-02 — 05:57:10 UTC	alphabeta, Fey, Othnia, piper, Zakisan	223	5	25
-146600	3	0	6 Suits	2020-05-01 — 15:53:07 UTC	DrJones, Steve Backshall, Zakisan	132	6	30
-146466	4	25	Brown (5 Suits)	2020-05-01 — 13:43:20 UTC	honzas, Nils, TimeHoodie, Zakisan	46	5	25
+147884	5	24	No Variant	2020-05-02 — 05:57:10 UTC	alphabeta, Fey, Othnia, piper, Zakisan	226	5	25
+146600	3	0	6 Suits	2020-05-01 — 15:53:07 UTC	DrJones, Steve Backshall, Zakisan	133	6	30
+146466	4	25	Brown (5 Suits)	2020-05-01 — 13:43:20 UTC	honzas, Nils, TimeHoodie, Zakisan	47	5	25
 146403	5	29	Rainbow & White (6 Suits)	2020-05-01 — 12:32:23 UTC	hakha3, Libster, magikarp, TimeHoodie, Zakisan	11	6	30
-146387	6	0	Rainbow & White (6 Suits)	2020-05-01 — 12:05:47 UTC	chriswck, hakha3, Libster, magikarp, TimeHoodie, Zakisan	4	6	30
-146382	6	0	Rainbow & White (6 Suits)	2020-05-01 — 11:56:19 UTC	chriswck, hakha3, Libster, magikarp, TimeHoodie, Zakisan	5	6	30
-146378	5	0	Rainbow & White (6 Suits)	2020-05-01 — 11:43:44 UTC	chriswck, hakha3, magikarp, TimeHoodie, Zakisan	11	6	30
-146375	3	0	White (5 Suits)	2020-05-01 — 11:39:47 UTC	pianoblook, TimeHoodie, Zakisan	81	5	25
+146387	6	0	Rainbow & White (6 Suits)	2020-05-01 — 12:05:47 UTC	chriswck, hakha3, Libster, magikarp, TimeHoodie, Zakisan	5	6	30
+146382	6	0	Rainbow & White (6 Suits)	2020-05-01 — 11:56:19 UTC	chriswck, hakha3, Libster, magikarp, TimeHoodie, Zakisan	6	6	30
+146378	5	0	Rainbow & White (6 Suits)	2020-05-01 — 11:43:44 UTC	chriswck, hakha3, magikarp, TimeHoodie, Zakisan	12	6	30
+146375	3	0	White (5 Suits)	2020-05-01 — 11:39:47 UTC	pianoblook, TimeHoodie, Zakisan	84	5	25
 146358	5	30	Rainbow & White (6 Suits)	2020-05-01 — 11:09:42 UTC	magikarp, pianoblook, sin_faith, TimeHoodie, Zakisan	14	6	30
 146344	5	0	Pink & Brown (6 Suits)	2020-05-01 — 10:40:29 UTC	magikarp, pianoblook, sin_faith, TimeHoodie, Zakisan	5	6	30
 146341	5	0	Pink & Brown (6 Suits)	2020-05-01 — 10:32:09 UTC	magikarp, pianoblook, sin_faith, TimeHoodie, Zakisan	7	6	30
-146243	5	27	White (6 Suits)	2020-05-01 — 06:53:35 UTC	alphabeta, pianoblook, piper, XMIL, Zakisan	17	6	30
-146188	5	0	White (6 Suits)	2020-05-01 — 05:49:12 UTC	alphabeta, pianoblook, piper, XMIL, Zakisan	20	6	30
-144996	4	20	Black (5 Suits)	2020-04-30 — 17:21:42 UTC	Kyle, Nitrate2, Sucubis, Zakisan	98	5	25
+146243	5	27	White (6 Suits)	2020-05-01 — 06:53:35 UTC	alphabeta, pianoblook, piper, XMIL, Zakisan	18	6	30
+146188	5	0	White (6 Suits)	2020-05-01 — 05:49:12 UTC	alphabeta, pianoblook, piper, XMIL, Zakisan	21	6	30
+144996	4	20	Black (5 Suits)	2020-04-30 — 17:21:42 UTC	Kyle, Nitrate2, Sucubis, Zakisan	101	5	25
 144972	5	28	Black (6 Suits)	2020-04-30 — 16:47:26 UTC	Animex52, Kyle, Nitrate2, Sucubis, Zakisan	14	6	30
 144951	5	0	Black (6 Suits)	2020-04-30 — 16:22:02 UTC	Animex52, Kyle, Nitrate2, Sucubis, Zakisan	14	6	30
-144828	4	28	Black (6 Suits)	2020-04-30 — 12:27:50 UTC	Animex52, asaelr, TimeHoodie, Zakisan	175	6	30
-144672	3	20	No Variant	2020-04-30 — 06:53:00 UTC	claudiob, XMIL, Zakisan	320	5	25
-144659	3	24	No Variant	2020-04-30 — 06:33:34 UTC	claudiob, XMIL, Zakisan	375	5	25
-144643	3	0	No Variant	2020-04-30 — 06:21:46 UTC	claudiob, XMIL, Zakisan	451	5	25
+144828	4	28	Black (6 Suits)	2020-04-30 — 12:27:50 UTC	Animex52, asaelr, TimeHoodie, Zakisan	176	6	30
+144672	3	20	No Variant	2020-04-30 — 06:53:00 UTC	claudiob, XMIL, Zakisan	324	5	25
+144659	3	24	No Variant	2020-04-30 — 06:33:34 UTC	claudiob, XMIL, Zakisan	380	5	25
+144643	3	0	No Variant	2020-04-30 — 06:21:46 UTC	claudiob, XMIL, Zakisan	456	5	25
 143789	5	26	Black (6 Suits)	2020-04-29 — 21:08:35 UTC	Dr_Kakashi, MarkusKahlsen, sin_faith, XMIL, Zakisan	24	6	30
 143744	5	25	No Variant	2020-04-29 — 20:28:51 UTC	Dr_Kakashi, MarkusKahlsen, sin_faith, XMIL, Zakisan	12	5	25
-143693	3	25	No Variant	2020-04-29 — 19:48:23 UTC	Dr_Kakashi, Fey, Zakisan	37	5	25
+143693	3	25	No Variant	2020-04-29 — 19:48:23 UTC	Dr_Kakashi, Fey, Zakisan	39	5	25
 143497	4	0	No Variant	2020-04-29 — 16:19:25 UTC	ADrone, Libster, sin_faith, Zakisan	70	5	25
-143479	3	0	No Variant	2020-04-29 — 15:54:07 UTC	ADrone, Libster, Zakisan	93	5	25
+143479	3	0	No Variant	2020-04-29 — 15:54:07 UTC	ADrone, Libster, Zakisan	95	5	25
 143463	5	0	No Variant	2020-04-29 — 15:34:50 UTC	ADrone, asaelr, lotem, rotem, Zakisan	21	5	25
-143446	3	25	No Variant	2020-04-29 — 15:03:03 UTC	LaFayetteX, lotem, Zakisan	354	5	25
+143446	3	25	No Variant	2020-04-29 — 15:03:03 UTC	LaFayetteX, lotem, Zakisan	359	5	25
 143429	5	24	No Variant	2020-04-29 — 14:19:48 UTC	arnino, LaFayetteX, lotem, TimeHoodie, Zakisan	60	5	25
-143389	5	25	Brown (5 Suits)	2020-04-29 — 12:40:52 UTC	chriswck, robense, sin_faith, TimeHoodie, Zakisan	17	5	25
-143218	3	30	White (6 Suits)	2020-04-29 — 06:12:59 UTC	ThorsKraken, TimeHoodie, Zakisan	101	6	30
-142243	5	25	Black (6 Suits)	2020-04-28 — 17:16:03 UTC	ADrone, bunny_in_a_hat, LaFayetteX, MarkusKahlsen, Zakisan	72	6	30
+143389	5	25	Brown (5 Suits)	2020-04-29 — 12:40:52 UTC	chriswck, robense, sin_faith, TimeHoodie, Zakisan	18	5	25
+143218	3	30	White (6 Suits)	2020-04-29 — 06:12:59 UTC	ThorsKraken, TimeHoodie, Zakisan	103	6	30
+142243	5	25	Black (6 Suits)	2020-04-28 — 17:16:03 UTC	ADrone, bunny_in_a_hat, LaFayetteX, MarkusKahlsen, Zakisan	74	6	30
 142203	5	0	Black (6 Suits)	2020-04-28 — 16:28:53 UTC	ADrone, bunny_in_a_hat, MarkusKahlsen, Nitrate2, Zakisan	58	6	30
 142192	5	0	Black (5 Suits)	2020-04-28 — 16:09:12 UTC	ADrone, bunny_in_a_hat, MarkusKahlsen, Nitrate2, Zakisan	23	5	25
-142174	5	0	No Variant	2020-04-28 — 15:20:05 UTC	rotem, S0nmi451, schildknaapje, sin_faith, Zakisan	38	5	25
+142174	5	0	No Variant	2020-04-28 — 15:20:05 UTC	rotem, S0nmi451, schildknaapje, sin_faith, Zakisan	40	5	25
 142144	4	25	Pink (5 Suits)	2020-04-28 — 13:28:55 UTC	asaelr, Nitrate2, robense, Zakisan	3	5	25
 142134	4	0	Pink (5 Suits)	2020-04-28 — 12:55:46 UTC	asaelr, Nitrate2, robense, Zakisan	5	5	25
 140972	5	21	No Variant	2020-04-27 — 14:08:51 UTC	LaFayetteX, Mattwei, Nitrate2, sin_faith, Zakisan	38	5	25
 140729	3	30	Black (6 Suits)	2020-04-27 — 05:31:53 UTC	DoubleDown11, scharkbite, Zakisan	23	6	30
-139578	3	25	No Variant	2020-04-26 — 17:35:35 UTC	chriswck, LaFayetteX, Zakisan	386	5	25
+139578	3	25	No Variant	2020-04-26 — 17:35:35 UTC	chriswck, LaFayetteX, Zakisan	392	5	25
 139213	3	0	Rainbow (6 Suits)	2020-04-26 — 08:15:58 UTC	alphabeta, asaelr, Zakisan	29	6	30
-139202	3	0	Rainbow (6 Suits)	2020-04-26 — 08:07:38 UTC	alphabeta, asaelr, Zakisan	30	6	30
-139199	3	0	Rainbow (6 Suits)	2020-04-26 — 08:01:13 UTC	alphabeta, asaelr, Zakisan	35	6	30
-139194	3	0	Rainbow (6 Suits)	2020-04-26 — 07:50:12 UTC	alphabeta, asaelr, Zakisan	36	6	30
+139202	3	0	Rainbow (6 Suits)	2020-04-26 — 08:07:38 UTC	alphabeta, asaelr, Zakisan	31	6	30
+139199	3	0	Rainbow (6 Suits)	2020-04-26 — 08:01:13 UTC	alphabeta, asaelr, Zakisan	37	6	30
+139194	3	0	Rainbow (6 Suits)	2020-04-26 — 07:50:12 UTC	alphabeta, asaelr, Zakisan	38	6	30
 139187	3	0	Rainbow (6 Suits)	2020-04-26 — 07:44:05 UTC	alphabeta, asaelr, Zakisan	40	6	30
-139140	3	0	Pink (6 Suits)	2020-04-26 — 07:03:27 UTC	alphabeta, Tiramisu1th, Zakisan	131	6	30
+139140	3	0	Pink (6 Suits)	2020-04-26 — 07:03:27 UTC	alphabeta, Tiramisu1th, Zakisan	132	6	30
 139104	4	21	Throw It in a Hole (5 Suits)	2020-04-26 — 06:28:36 UTC	alphabeta, sin_faith, Tiramisu1th, Zakisan	40	5	25
 139051	4	0	No Variant	2020-04-26 — 05:50:43 UTC	DoubleDown11, piper, Zakisan, Zamiel	1	5	25
 139020	3	23	No Variant	2020-04-26 — 05:32:24 UTC	piper, Zakisan, Zamiel	5	5	25
 139005	3	0	No Variant	2020-04-26 — 05:22:11 UTC	piper, Zakisan, Zamiel	6	5	25
-137914	3	22	Black (5 Suits)	2020-04-25 — 18:20:25 UTC	asaelr, Kyle, Zakisan	68	5	25
-137884	3	25	No Variant	2020-04-25 — 17:59:21 UTC	Fireheart, Kyle, Zakisan	77	5	25
-137859	3	25	No Variant	2020-04-25 — 17:43:05 UTC	Fireheart, sin_faith, Zakisan	77	5	25
-137836	3	0	No Variant	2020-04-25 — 17:25:52 UTC	Fireheart, sin_faith, Zakisan	201	5	25
-137827	3	24	No Variant	2020-04-25 — 17:13:33 UTC	augusto, Fireheart, Zakisan	411	5	25
+137914	3	22	Black (5 Suits)	2020-04-25 — 18:20:25 UTC	asaelr, Kyle, Zakisan	69	5	25
+137884	3	25	No Variant	2020-04-25 — 17:59:21 UTC	Fireheart, Kyle, Zakisan	79	5	25
+137859	3	25	No Variant	2020-04-25 — 17:43:05 UTC	Fireheart, sin_faith, Zakisan	79	5	25
+137836	3	0	No Variant	2020-04-25 — 17:25:52 UTC	Fireheart, sin_faith, Zakisan	203	5	25
+137827	3	24	No Variant	2020-04-25 — 17:13:33 UTC	augusto, Fireheart, Zakisan	417	5	25
 137482	5	24	Throw It in a Hole (5 Suits)	2020-04-25 — 09:07:25 UTC	letical, piper, sin_faith, XMIL, Zakisan	15	5	25
 137466	6	0	Throw It in a Hole (6 Suits)	2020-04-25 — 08:25:48 UTC	duckmammal, letical, piper, sin_faith, XMIL, Zakisan	3	6	30
-137406	3	29	Black (6 Suits)	2020-04-25 — 07:18:26 UTC	alphabeta, XMIL, Zakisan	80	6	30
-137378	3	0	Black (6 Suits)	2020-04-25 — 06:44:18 UTC	alphabeta, XMIL, Zakisan	119	6	30
-137359	5	0	Black (6 Suits)	2020-04-25 — 06:26:18 UTC	alphabeta, maddogmarv, pianoblook, XMIL, Zakisan	101	6	30
-135939	4	25	Gray (5 Suits)	2020-04-24 — 18:08:23 UTC	Floriman, Kyle, scharkbite, Zakisan	12	5	25
-135926	4	22	Gray (5 Suits)	2020-04-24 — 17:44:53 UTC	Floriman, Kyle, scharkbite, Zakisan	22	5	25
+137406	3	29	Black (6 Suits)	2020-04-25 — 07:18:26 UTC	alphabeta, XMIL, Zakisan	82	6	30
+137378	3	0	Black (6 Suits)	2020-04-25 — 06:44:18 UTC	alphabeta, XMIL, Zakisan	122	6	30
+137359	5	0	Black (6 Suits)	2020-04-25 — 06:26:18 UTC	alphabeta, maddogmarv, pianoblook, XMIL, Zakisan	103	6	30
+135939	4	25	Gray (5 Suits)	2020-04-24 — 18:08:23 UTC	Floriman, Kyle, scharkbite, Zakisan	15	5	25
+135926	4	22	Gray (5 Suits)	2020-04-24 — 17:44:53 UTC	Floriman, Kyle, scharkbite, Zakisan	23	5	25
 135913	4	0	Gray (5 Suits)	2020-04-24 — 17:26:13 UTC	Floriman, Kyle, scharkbite, Zakisan	27	5	25
 135786	6	29	Pink-Ones & White (6 Suits)	2020-04-24 — 15:16:52 UTC	arnino, Dr_Kakashi, Kyle, letical, sin_faith, Zakisan	1	6	30
-131759	5	0	No Variant	2020-04-21 — 14:23:34 UTC	awe, chunksoul, Dr_Kakashi, sheriff, Zakisan	100	5	25
+131759	5	0	No Variant	2020-04-21 — 14:23:34 UTC	awe, chunksoul, Dr_Kakashi, sheriff, Zakisan	102	5	25
 120413	5	0	Pink (5 Suits)	2020-04-13 — 09:33:29 UTC	charmander, Dr_Kakashi, Fey, sin_faith, Zakisan	14	5	25
 115471	6	25	No Variant	2020-04-10 — 06:53:06 UTC	Animex52, MasN, pianoblook, piper, sin_faith, Zakisan	36	5	25
-111387	5	24	No Variant	2020-04-06 — 12:38:10 UTC	alv1nn, eevee, kodomazer, Yeesh, Zakisan	80	5	25
-108483	4	25	No Variant	2020-04-04 — 07:29:18 UTC	Hyakinthus, piper, Yeesh, Zakisan	99	5	25
-107665	4	30	Rainbow (6 Suits)	2020-04-03 — 21:51:11 UTC	Nitrate, padi, sin_faith, Zakisan	493	6	30
-107089	3	22	No Variant	2020-04-03 — 14:33:57 UTC	lotem, sin_faith, Zakisan	1174	5	25
-107059	4	0	No Variant	2020-04-03 — 13:57:44 UTC	lotem, sin_faith, ThwWaisel, Zakisan	442	5	25
+111387	5	24	No Variant	2020-04-06 — 12:38:10 UTC	alv1nn, eevee, kodomazer, Yeesh, Zakisan	81	5	25
+108483	4	25	No Variant	2020-04-04 — 07:29:18 UTC	Hyakinthus, piper, Yeesh, Zakisan	100	5	25
+107665	4	30	Rainbow (6 Suits)	2020-04-03 — 21:51:11 UTC	Nitrate, padi, sin_faith, Zakisan	497	6	30
+107089	3	22	No Variant	2020-04-03 — 14:33:57 UTC	lotem, sin_faith, Zakisan	1180	5	25
+107059	4	0	No Variant	2020-04-03 — 13:57:44 UTC	lotem, sin_faith, ThwWaisel, Zakisan	448	5	25
 106108	4	0	Rainbow (6 Suits)	2020-04-02 — 20:34:07 UTC	micerang, scharkbite, TimeHoodie, Zakisan	8	6	30
 106055	6	28	Rainbow (6 Suits)	2020-04-02 — 19:57:57 UTC	Dr_Kakashi, fow, micerang, scharkbite, TimeHoodie, Zakisan	5	6	30
-106011	3	25	No Variant	2020-04-02 — 19:19:32 UTC	Dr_Kakashi, fow, Zakisan	57	5	25
-105984	4	0	No Variant	2020-04-02 — 18:46:39 UTC	kvothe, lotem2, Waisel, Zakisan	717	5	25
-105851	4	25	No Variant	2020-04-02 — 15:22:05 UTC	awe, mélimélo, superbipbip, Zakisan	198	5	25
-105839	4	25	No Variant	2020-04-02 — 14:42:10 UTC	awe, mélimélo, superbipbip, Zakisan	278	5	25
-104762	5	28	6 Suits	2020-04-01 — 16:25:53 UTC	CompleteTrust, padi, pianoblook, sin_faith, Zakisan	132	6	30
-104670	3	25	No Variant	2020-04-01 — 11:58:46 UTC	robense, Steve Backshall, Zakisan	645	5	25
-104656	3	0	No Variant	2020-04-01 — 11:33:43 UTC	robense, Steve Backshall, Zakisan	680	5	25
-104531	4	23	No Variant	2020-04-01 — 06:18:53 UTC	alphabeta, Othnia, TimeHoodie, Zakisan	501	5	25
+106011	3	25	No Variant	2020-04-02 — 19:19:32 UTC	Dr_Kakashi, fow, Zakisan	58	5	25
+105984	4	0	No Variant	2020-04-02 — 18:46:39 UTC	kvothe, lotem2, Waisel, Zakisan	724	5	25
+105851	4	25	No Variant	2020-04-02 — 15:22:05 UTC	awe, mélimélo, superbipbip, Zakisan	199	5	25
+105839	4	25	No Variant	2020-04-02 — 14:42:10 UTC	awe, mélimélo, superbipbip, Zakisan	280	5	25
+104762	5	28	6 Suits	2020-04-01 — 16:25:53 UTC	CompleteTrust, padi, pianoblook, sin_faith, Zakisan	133	6	30
+104670	3	25	No Variant	2020-04-01 — 11:58:46 UTC	robense, Steve Backshall, Zakisan	655	5	25
+104656	3	0	No Variant	2020-04-01 — 11:33:43 UTC	robense, Steve Backshall, Zakisan	688	5	25
+104531	4	23	No Variant	2020-04-01 — 06:18:53 UTC	alphabeta, Othnia, TimeHoodie, Zakisan	507	5	25
 103527	5	18	Black (5 Suits)	2020-03-31 — 15:24:21 UTC	letical, maxnorris13, padi, sin_faith, Zakisan	27	5	25
 103512	5	0	Black (5 Suits)	2020-03-31 — 14:49:05 UTC	letical, maxnorris13, sin_faith, superbipbip, Zakisan	30	5	25
 103506	5	0	Black (5 Suits)	2020-03-31 — 14:29:49 UTC	letical, maxnorris13, sin_faith, superbipbip, Zakisan	36	5	25
-103492	5	22	No Variant	2020-03-31 — 13:57:08 UTC	letical, Nicolas W, sin_faith, superbipbip, Zakisan	120	5	25
+103492	5	22	No Variant	2020-03-31 — 13:57:08 UTC	letical, Nicolas W, sin_faith, superbipbip, Zakisan	122	5	25
 103485	4	0	No Variant	2020-03-31 — 13:23:57 UTC	letical, sin_faith, superbipbip, Zakisan	204	5	25
 103484	6	25	No Variant	2020-03-31 — 13:14:08 UTC	letical, Nitrate, sin_faith, superbipbip, Turkish, Zakisan	60	5	25
-103480	3	24	No Variant	2020-03-31 — 12:35:33 UTC	superbipbip, Turkish, Zakisan	307	5	25
-103455	3	25	No Variant	2020-03-31 — 11:04:23 UTC	letical, sircomrade, Zakisan	27	5	25
-103429	3	22	No Variant	2020-03-31 — 07:01:58 UTC	claudiob, TimeHoodie, Zakisan	3260	5	25
-103417	3	23	No Variant	2020-03-31 — 05:54:06 UTC	Artificial, Fey, Zakisan	573	5	25
-103397	3	22	No Variant	2020-03-31 — 05:33:13 UTC	Artificial, Fey, Zakisan	750	5	25
-102616	4	0	No Variant	2020-03-30 — 18:29:43 UTC	JDepp, sin_faith, Yuga Suggah, Zakisan	233	5	25
-102599	4	0	No Variant	2020-03-30 — 18:13:53 UTC	JDepp, sin_faith, Yuga Suggah, Zakisan	308	5	25
-102590	4	0	No Variant	2020-03-30 — 17:57:19 UTC	JDepp, sin_faith, Yuga Suggah, Zakisan	326	5	25
-102578	4	0	White (5 Suits)	2020-03-30 — 17:40:05 UTC	FullPunish, sin_faith, Yuga Suggah, Zakisan	46	5	25
+103480	3	24	No Variant	2020-03-31 — 12:35:33 UTC	superbipbip, Turkish, Zakisan	311	5	25
+103455	3	25	No Variant	2020-03-31 — 11:04:23 UTC	letical, sircomrade, Zakisan	28	5	25
+103429	3	22	No Variant	2020-03-31 — 07:01:58 UTC	claudiob, TimeHoodie, Zakisan	3290	5	25
+103417	3	23	No Variant	2020-03-31 — 05:54:06 UTC	Artificial, Fey, Zakisan	582	5	25
+103397	3	22	No Variant	2020-03-31 — 05:33:13 UTC	Artificial, Fey, Zakisan	757	5	25
+102616	4	0	No Variant	2020-03-30 — 18:29:43 UTC	JDepp, sin_faith, Yuga Suggah, Zakisan	236	5	25
+102599	4	0	No Variant	2020-03-30 — 18:13:53 UTC	JDepp, sin_faith, Yuga Suggah, Zakisan	311	5	25
+102590	4	0	No Variant	2020-03-30 — 17:57:19 UTC	JDepp, sin_faith, Yuga Suggah, Zakisan	330	5	25
+102578	4	0	White (5 Suits)	2020-03-30 — 17:40:05 UTC	FullPunish, sin_faith, Yuga Suggah, Zakisan	47	5	25
 102565	6	0	6 Suits	2020-03-30 — 17:17:59 UTC	charmander, Dr_Kakashi, FullPunish, sin_faith, Yuga Suggah, Zakisan	16	6	30
 102548	6	0	6 Suits	2020-03-30 — 16:51:08 UTC	charmander, Dr_Kakashi, FullPunish, sin_faith, Yuga Suggah, Zakisan	50	6	30
 102379	4	25	White (5 Suits)	2020-03-30 — 07:35:23 UTC	bulbasaur, pianoblook, piper, Zakisan	60	5	25
-101511	4	0	No Variant	2020-03-29 — 18:01:27 UTC	alphabeta, kodomazer, Pimak, Zakisan	190	5	25
+101511	4	0	No Variant	2020-03-29 — 18:01:27 UTC	alphabeta, kodomazer, Pimak, Zakisan	192	5	25
 101496	4	0	No Variant	2020-03-29 — 17:37:26 UTC	alphabeta, kodomazer, Pimak, Zakisan	213	5	25
-101481	4	25	No Variant	2020-03-29 — 17:13:13 UTC	kodomazer, padi, Pimak, Zakisan	257	5	25
+101481	4	25	No Variant	2020-03-29 — 17:13:13 UTC	kodomazer, padi, Pimak, Zakisan	260	5	25
 101394	5	0	Rainbow-Ones (5 Suits)	2020-03-29 — 15:46:18 UTC	Dr_Kakashi, Floriman, IAMJEFF, Sucubis, Zakisan	6	5	25
-101356	4	25	No Variant	2020-03-29 — 14:59:26 UTC	Dr_Kakashi, Fey, letical, Zakisan	17	5	25
+101356	4	25	No Variant	2020-03-29 — 14:59:26 UTC	Dr_Kakashi, Fey, letical, Zakisan	18	5	25
 101334	5	0	No Variant	2020-03-29 — 14:14:29 UTC	Dr_Kakashi, Fey, letical, Nitrate, Zakisan	15	5	25
-101322	4	23	No Variant	2020-03-29 — 13:31:01 UTC	Dr_Kakashi, Fey, letical, Zakisan	18	5	25
+101322	4	23	No Variant	2020-03-29 — 13:31:01 UTC	Dr_Kakashi, Fey, letical, Zakisan	19	5	25
 101295	4	0	No Variant	2020-03-29 — 12:44:49 UTC	Dr_Kakashi, letical, robense, Zakisan	21	5	25
 101287	5	30	6 Suits	2020-03-29 — 12:17:30 UTC	Dr_Kakashi, letical, magikarp, sin_faith, Zakisan	54	6	30
 101280	5	0	6 Suits	2020-03-29 — 12:01:55 UTC	Dr_Kakashi, letical, magikarp, sin_faith, Zakisan	69	6	30
 101269	4	0	3 Suits	2020-03-29 — 11:52:45 UTC	letical, magikarp, sin_faith, Zakisan	37	3	15
 101256	4	0	3 Suits	2020-03-29 — 11:42:11 UTC	letical, magikarp, sin_faith, Zakisan	49	3	15
 101253	4	0	3 Suits	2020-03-29 — 11:39:03 UTC	letical, magikarp, sin_faith, Zakisan	62	3	15
-101248	4	0	3 Suits	2020-03-29 — 11:34:12 UTC	letical, magikarp, sin_faith, Zakisan	73	3	15
-101168	5	25	No Variant	2020-03-29 — 08:43:28 UTC	alphabeta, letical, magikarp, pianoblook, Zakisan	837	5	25
-101154	4	25	No Variant	2020-03-29 — 07:55:49 UTC	alphabeta, letical, pianoblook, Zakisan	131	5	25
-101141	5	24	No Variant	2020-03-29 — 06:56:44 UTC	Fey, letical, Othnia, sin_faith, Zakisan	658	5	25
-100254	4	0	No Variant	2020-03-28 — 21:37:12 UTC	anniika, B-Hörnchen, Jana, Zakisan	985	5	25
-100182	4	0	No Variant	2020-03-28 — 21:01:10 UTC	anniika, B-Hörnchen, Jana, Zakisan	1744	5	25
-100122	4	22	No Variant	2020-03-28 — 20:28:23 UTC	anniika, B-Hörnchen, Jana, Zakisan	2763	5	25
-99748	2	0	No Variant	2020-03-28 — 13:58:57 UTC	kow, Zakisan	4109	5	25
-99634	5	24	No Variant	2020-03-28 — 09:41:48 UTC	letical, Nils, NoMercy, piper, Zakisan	126	5	25
-99601	4	25	No Variant	2020-03-28 — 08:06:05 UTC	claudiob, pianoblook, piper, Zakisan	138	5	25
-99596	4	24	No Variant	2020-03-28 — 07:17:40 UTC	bustadimes, chefboy, fakebustadimes, Zakisan	287	5	25
-98594	5	0	No Variant	2020-03-27 — 16:48:13 UTC	awe, Dr_Kakashi, sheriff, sin_faith, Zakisan	50	5	25
-98567	5	25	No Variant	2020-03-27 — 14:52:43 UTC	hanabornoob, letical, sin_faith, superbipbip, Zakisan	1119	5	25
-98566	4	0	No Variant	2020-03-27 — 14:00:49 UTC	hanabornoob, letical, sircomrade, Zakisan	541	5	25
-98553	4	23	No Variant	2020-03-27 — 13:04:42 UTC	claudiob, JDepp, sin_faith, Zakisan	473	5	25
-98546	4	0	No Variant	2020-03-27 — 12:29:49 UTC	claudiob, JDepp, sin_faith, Zakisan	793	5	25
-98533	4	0	No Variant	2020-03-27 — 12:04:26 UTC	mélimélo, sin_faith, superbipbip, Zakisan	1449	5	25
-98478	3	0	No Variant	2020-03-27 — 06:57:11 UTC	NoMercy, squirtle, Zakisan	243	5	25
-98473	3	0	No Variant	2020-03-27 — 06:37:58 UTC	NoMercy, squirtle, Zakisan	250	5	25
+101248	4	0	3 Suits	2020-03-29 — 11:34:12 UTC	letical, magikarp, sin_faith, Zakisan	74	3	15
+101168	5	25	No Variant	2020-03-29 — 08:43:28 UTC	alphabeta, letical, magikarp, pianoblook, Zakisan	845	5	25
+101154	4	25	No Variant	2020-03-29 — 07:55:49 UTC	alphabeta, letical, pianoblook, Zakisan	132	5	25
+101141	5	24	No Variant	2020-03-29 — 06:56:44 UTC	Fey, letical, Othnia, sin_faith, Zakisan	667	5	25
+100254	4	0	No Variant	2020-03-28 — 21:37:12 UTC	anniika, B-Hörnchen, Jana, Zakisan	994	5	25
+100182	4	0	No Variant	2020-03-28 — 21:01:10 UTC	anniika, B-Hörnchen, Jana, Zakisan	1759	5	25
+100122	4	22	No Variant	2020-03-28 — 20:28:23 UTC	anniika, B-Hörnchen, Jana, Zakisan	2788	5	25
+99748	2	0	No Variant	2020-03-28 — 13:58:57 UTC	kow, Zakisan	4149	5	25
+99634	5	24	No Variant	2020-03-28 — 09:41:48 UTC	letical, Nils, NoMercy, piper, Zakisan	127	5	25
+99601	4	25	No Variant	2020-03-28 — 08:06:05 UTC	claudiob, pianoblook, piper, Zakisan	139	5	25
+99596	4	24	No Variant	2020-03-28 — 07:17:40 UTC	bustadimes, chefboy, fakebustadimes, Zakisan	293	5	25
+98594	5	0	No Variant	2020-03-27 — 16:48:13 UTC	awe, Dr_Kakashi, sheriff, sin_faith, Zakisan	52	5	25
+98567	5	25	No Variant	2020-03-27 — 14:52:43 UTC	hanabornoob, letical, sin_faith, superbipbip, Zakisan	1125	5	25
+98566	4	0	No Variant	2020-03-27 — 14:00:49 UTC	hanabornoob, letical, sircomrade, Zakisan	548	5	25
+98553	4	23	No Variant	2020-03-27 — 13:04:42 UTC	claudiob, JDepp, sin_faith, Zakisan	480	5	25
+98546	4	0	No Variant	2020-03-27 — 12:29:49 UTC	claudiob, JDepp, sin_faith, Zakisan	800	5	25
+98533	4	0	No Variant	2020-03-27 — 12:04:26 UTC	mélimélo, sin_faith, superbipbip, Zakisan	1459	5	25
+98478	3	0	No Variant	2020-03-27 — 06:57:11 UTC	NoMercy, squirtle, Zakisan	246	5	25
+98473	3	0	No Variant	2020-03-27 — 06:37:58 UTC	NoMercy, squirtle, Zakisan	252	5	25
 97699	5	25	No Variant	2020-03-26 — 14:08:23 UTC	Dr_Kakashi, magikarp, sin_faith, superbipbip, Zakisan	135	5	25
-97690	5	0	No Variant	2020-03-26 — 13:25:02 UTC	Dr_Kakashi, magikarp, sin_faith, superbipbip, Zakisan	176	5	25
-97678	4	0	No Variant	2020-03-26 — 12:52:32 UTC	Dr_Kakashi, magikarp, sin_faith, Zakisan	28	5	25
-97673	3	25	No Variant	2020-03-26 — 12:23:30 UTC	Dr_Kakashi, padi, Zakisan	57	5	25
-97664	2	0	No Variant	2020-03-26 — 10:27:56 UTC	Dr_Kakashi, Zakisan	163	5	25
-97661	3	25	No Variant	2020-03-26 — 10:00:42 UTC	Dr_Kakashi, Fey, Zakisan	44	5	25
-97659	3	0	No Variant	2020-03-26 — 09:42:33 UTC	Dr_Kakashi, Fey, Zakisan	46	5	25
-97631	4	24	No Variant	2020-03-26 — 06:40:51 UTC	claudiob, logiciain, TimeHoodie, Zakisan	384	5	25
-97204	2	21	No Variant	2020-03-25 — 22:39:15 UTC	Nils, Zakisan	5374	5	25
-96947	4	24	No Variant	2020-03-25 — 17:05:43 UTC	robense, sin_faith, spajoinked, Zakisan	1092	5	25
-96923	4	23	No Variant	2020-03-25 — 16:23:46 UTC	JDepp, sin_faith, superbipbip, Zakisan	1253	5	25
-96885	5	0	No Variant	2020-03-25 — 15:27:21 UTC	JDepp, silviapinko, sin_faith, superbipbip, Zakisan	1510	5	25
-96859	3	0	No Variant	2020-03-25 — 14:44:31 UTC	silviapinko, sin_faith, Zakisan	4221	5	25
-96794	3	24	No Variant	2020-03-25 — 07:59:15 UTC	letical, sin_faith, Zakisan	459	5	25
-96790	4	0	No Variant	2020-03-25 — 07:18:35 UTC	letical, samanabi, sin_faith, Zakisan	899	5	25
-96284	4	20	No Variant	2020-03-24 — 21:23:04 UTC	annaneu, Haeger, Jana, Zakisan	3581	5	25
-96243	5	0	No Variant	2020-03-24 — 20:44:41 UTC	annaneu, Annazwei, Haeger, Jana, Zakisan	1995	5	25
-96077	4	21	No Variant	2020-03-24 — 16:39:59 UTC	Irön_Mabël, JDepp, spajoinked, Zakisan	2076	5	25
-95168	6	0	No Variant	2020-03-23 — 17:33:48 UTC	hda, Nitrate, Shos, sin_faith, Sucubis, Zakisan	478	5	25
+97690	5	0	No Variant	2020-03-26 — 13:25:02 UTC	Dr_Kakashi, magikarp, sin_faith, superbipbip, Zakisan	178	5	25
+97678	4	0	No Variant	2020-03-26 — 12:52:32 UTC	Dr_Kakashi, magikarp, sin_faith, Zakisan	29	5	25
+97673	3	25	No Variant	2020-03-26 — 12:23:30 UTC	Dr_Kakashi, padi, Zakisan	58	5	25
+97664	2	0	No Variant	2020-03-26 — 10:27:56 UTC	Dr_Kakashi, Zakisan	165	5	25
+97661	3	25	No Variant	2020-03-26 — 10:00:42 UTC	Dr_Kakashi, Fey, Zakisan	46	5	25
+97659	3	0	No Variant	2020-03-26 — 09:42:33 UTC	Dr_Kakashi, Fey, Zakisan	48	5	25
+97631	4	24	No Variant	2020-03-26 — 06:40:51 UTC	claudiob, logiciain, TimeHoodie, Zakisan	387	5	25
+97204	2	21	No Variant	2020-03-25 — 22:39:15 UTC	Nils, Zakisan	5421	5	25
+96947	4	24	No Variant	2020-03-25 — 17:05:43 UTC	robense, sin_faith, spajoinked, Zakisan	1103	5	25
+96923	4	23	No Variant	2020-03-25 — 16:23:46 UTC	JDepp, sin_faith, superbipbip, Zakisan	1267	5	25
+96885	5	0	No Variant	2020-03-25 — 15:27:21 UTC	JDepp, silviapinko, sin_faith, superbipbip, Zakisan	1518	5	25
+96859	3	0	No Variant	2020-03-25 — 14:44:31 UTC	silviapinko, sin_faith, Zakisan	4250	5	25
+96794	3	24	No Variant	2020-03-25 — 07:59:15 UTC	letical, sin_faith, Zakisan	467	5	25
+96790	4	0	No Variant	2020-03-25 — 07:18:35 UTC	letical, samanabi, sin_faith, Zakisan	908	5	25
+96284	4	20	No Variant	2020-03-24 — 21:23:04 UTC	annaneu, Haeger, Jana, Zakisan	3609	5	25
+96243	5	0	No Variant	2020-03-24 — 20:44:41 UTC	annaneu, Annazwei, Haeger, Jana, Zakisan	2011	5	25
+96077	4	21	No Variant	2020-03-24 — 16:39:59 UTC	Irön_Mabël, JDepp, spajoinked, Zakisan	2094	5	25
+95168	6	0	No Variant	2020-03-23 — 17:33:48 UTC	hda, Nitrate, Shos, sin_faith, Sucubis, Zakisan	483	5	25
 95146	5	28	6 Suits	2020-03-23 — 16:37:27 UTC	Fey, Libster, sin_faith, Sucubis, Zakisan	1	6	30

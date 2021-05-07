@@ -25,7 +25,7 @@
 421882	5	0	Gray (6 Suits)	2021-02-01 — 05:05:02 UTC	Asddsa76, bjnh, dobi, indego, Lel0uch	3	6	30
 421860	5	0	Gray (6 Suits)	2021-02-01 — 04:43:58 UTC	Asddsa76, bjnh, dobi, indego, Lel0uch	8	6	30
 419265	5	0	Muddy Rainbow & Dark Omni (5 Suits)	2021-01-30 — 02:37:09 UTC	Asddsa76, dobi, HelanaAshryvr, indego, rz	1	5	25
-418482	4	25	Black (6 Suits)	2021-01-29 — 09:46:37 UTC	Asddsa76, Denchulitas, eliclax, gchang02	77	6	30
+418482	4	25	Black (6 Suits)	2021-01-29 — 09:46:37 UTC	Asddsa76, Denchulitas, eliclax, gchang02	81	6	30
 416320	3	23	Muddy Rainbow (5 Suits)	2021-01-27 — 11:11:17 UTC	Asddsa76, indego, Lel0uch	37	5	25
 416314	6	30	Pink & Prism (6 Suits)	2021-01-27 — 10:39:28 UTC	Asddsa76, indego, Lel0uch, rachyrules, robense, Wittvector	1	6	30
 415961	5	23	Muddy-Rainbow-Fives (5 Suits)	2021-01-27 — 02:25:21 UTC	Asddsa76, Fireheart, kimbifille, melwen, Zamiel	1	5	25
@@ -35,7 +35,7 @@
 415908	4	0	Muddy Rainbow & Dark Pink (6 Suits)	2021-01-27 — 01:17:55 UTC	asaelr, Asddsa76, Kyle, melwen	1	6	30
 415890	4	0	Muddy Rainbow & Dark Pink (6 Suits)	2021-01-27 — 00:58:57 UTC	asaelr, Asddsa76, Kyle, melwen	1	6	30
 415881	4	0	Muddy Rainbow & Dark Pink (6 Suits)	2021-01-27 — 00:44:33 UTC	asaelr, Asddsa76, Kyle, melwen	4	6	30
-415867	2	0	No Variant	2021-01-27 — 00:22:45 UTC	Asddsa76, test76	1532	5	25
+415867	2	0	No Variant	2021-01-27 — 00:22:45 UTC	Asddsa76, test76	1547	5	25
 415371	5	0	Rainbow & Gray (6 Suits)	2021-01-26 — 11:22:30 UTC	Asddsa76, Denchulitas, indego, possum, skyblueexo	7	6	30
 415360	4	0	Rainbow & Gray (6 Suits)	2021-01-26 — 10:16:18 UTC	arnino, Asddsa76, Denchulitas, indego	8	6	30
 415333	4	0	Black (5 Suits)	2021-01-26 — 08:23:17 UTC	Asddsa76, dobi, IsabeltheCat, qqqq	24	5	25
@@ -44,13 +44,13 @@
 415317	5	0	Black (5 Suits)	2021-01-26 — 07:24:29 UTC	Asddsa76, dobi, indego, newduke, qqqq	10	5	25
 415307	5	0	Black (5 Suits)	2021-01-26 — 07:06:44 UTC	Asddsa76, dobi, indego, newduke, qqqq	13	5	25
 415295	5	0	Black (5 Suits)	2021-01-26 — 06:45:52 UTC	Asddsa76, dobi, indego, newduke, qqqq	36	5	25
-415290	4	0	Black (5 Suits)	2021-01-26 — 06:34:52 UTC	Asddsa76, dobi, indego, qqqq	41	5	25
+415290	4	0	Black (5 Suits)	2021-01-26 — 06:34:52 UTC	Asddsa76, dobi, indego, qqqq	42	5	25
 415273	4	21	Pink & Muddy Rainbow (5 Suits)	2021-01-26 — 06:06:45 UTC	Asddsa76, indego, newduke, rahsosprout	6	5	25
 415251	4	0	Rainbow & Gray (6 Suits)	2021-01-26 — 05:24:19 UTC	4head, Asddsa76, bjnh, rahsosprout	15	6	30
 415231	4	0	Rainbow & Gray (6 Suits)	2021-01-26 — 04:44:47 UTC	4head, Asddsa76, bjnh, Onen	10	6	30
 415207	4	0	Rainbow & Gray (6 Suits)	2021-01-26 — 04:17:37 UTC	4head, Asddsa76, bjnh, Onen	10	6	30
 415203	4	0	Rainbow & Gray (6 Suits)	2021-01-26 — 04:09:43 UTC	4head, Asddsa76, bjnh, Onen	11	6	30
-414778	4	30	6 Suits	2021-01-25 — 20:07:39 UTC	Asddsa76, duckington, Plum, ricardodd	354	6	30
+414778	4	30	6 Suits	2021-01-25 — 20:07:39 UTC	Asddsa76, duckington, Plum, ricardodd	359	6	30
 414746	4	0	Clue Starved (5 Suits)	2021-01-25 — 19:38:59 UTC	Asddsa76, Plum, ricardodd, sephiroth	3	5	25
 414719	4	0	Clue Starved (5 Suits)	2021-01-25 — 19:09:47 UTC	Asddsa76, Plum, ricardodd, sephiroth	3	5	25
 414464	5	30	Pink & Muddy Rainbow (6 Suits)	2021-01-25 — 08:01:23 UTC	Asddsa76, dobi, indego, katian, Lel0uch	3	6	30
@@ -60,253 +60,253 @@
 414426	4	0	White & Muddy Rainbow (5 Suits)	2021-01-25 — 06:04:02 UTC	Asddsa76, ejwu, indego, Lel0uch	4	5	25
 414418	5	0	Rainbow & White (5 Suits)	2021-01-25 — 05:41:14 UTC	Asddsa76, dobi, ejwu, indego, Lel0uch	5	5	25
 414376	4	24	Prism (5 Suits)	2021-01-25 — 04:58:07 UTC	Asddsa76, eljavi, otterful, torp	20	5	25
-414271	5	0	Black (6 Suits)	2021-01-25 — 03:45:30 UTC	Asddsa76, Doge, indego, nkkarpov, swineherd	15	6	30
-414240	5	0	Black (6 Suits)	2021-01-25 — 03:11:28 UTC	Asddsa76, Doge, indego, nkkarpov, swineherd	16	6	30
+414271	5	0	Black (6 Suits)	2021-01-25 — 03:45:30 UTC	Asddsa76, Doge, indego, nkkarpov, swineherd	16	6	30
+414240	5	0	Black (6 Suits)	2021-01-25 — 03:11:28 UTC	Asddsa76, Doge, indego, nkkarpov, swineherd	17	6	30
 414217	5	0	Black (6 Suits)	2021-01-25 — 02:56:18 UTC	Asddsa76, Doge, indego, nkkarpov, swineherd	24	6	30
-414199	4	0	Black (6 Suits)	2021-01-25 — 02:33:30 UTC	Asddsa76, Doge, indego, nkkarpov	273	6	30
+414199	4	0	Black (6 Suits)	2021-01-25 — 02:33:30 UTC	Asddsa76, Doge, indego, nkkarpov	276	6	30
 414165	5	25	Pink & Brown (5 Suits)	2021-01-25 — 02:01:53 UTC	Asddsa76, indego, otterful, rahsosprout, torp	4	5	25
 414138	4	25	Brown & Prism (5 Suits)	2021-01-25 — 01:33:49 UTC	Asddsa76, otterful, rahsosprout, torp	10	5	25
 414091	5	25	Pink (5 Suits)	2021-01-25 — 00:52:39 UTC	Asddsa76, eljavi, kinkajusrevenge, otterful, torp	14	5	25
 414030	3	0	White & Prism (5 Suits)	2021-01-24 — 23:50:16 UTC	Asddsa76, kinkajusrevenge, ksfortson	17	5	25
 414017	5	0	Black & Brown (5 Suits)	2021-01-24 — 23:13:46 UTC	Asddsa76, indego, Lanvin, Onen, sephiroth	6	5	25
 414013	5	0	Black & Brown (5 Suits)	2021-01-24 — 23:04:05 UTC	Asddsa76, indego, Lanvin, Onen, sephiroth	7	5	25
-414001	4	25	No Variant	2021-01-24 — 22:34:34 UTC	Asddsa76, HariKrishnan, HelanaAshryvr, possum	257	5	25
+414001	4	25	No Variant	2021-01-24 — 22:34:34 UTC	Asddsa76, HariKrishnan, HelanaAshryvr, possum	260	5	25
 413955	5	30	Rainbow (6 Suits)	2021-01-24 — 21:42:30 UTC	Asddsa76, DarthGandalf, Daryl, indego, sephiroth	24	6	30
 413890	6	24	No Variant	2021-01-24 — 20:45:14 UTC	4head, Asddsa76, banjoleb, CaitlinSmith, Daryl, louietyj	23	5	25
 413274	6	28	Pink-Ones & Dark Omni (6 Suits)	2021-01-24 — 05:19:43 UTC	Asddsa76, HelanaAshryvr, katian, Lanvin, ricardodd, vEnhance	1	6	30
 413221	4	23	Dark Prism (5 Suits)	2021-01-24 — 04:28:33 UTC	Asddsa76, indego, Lanvin, vEnhance	13	5	25
-413178	4	22	Dark Prism (5 Suits)	2021-01-24 — 03:48:15 UTC	Asddsa76, indego, Lanvin, vEnhance	17	5	25
+413178	4	22	Dark Prism (5 Suits)	2021-01-24 — 03:48:15 UTC	Asddsa76, indego, Lanvin, vEnhance	18	5	25
 413134	5	22	Cocoa Rainbow (5 Suits)	2021-01-24 — 03:03:39 UTC	aquarelle, Asddsa76, indego, Lanvin, Nitrate	9	5	25
 413083	5	18	Rainbow-Ones (4 Suits)	2021-01-24 — 02:12:53 UTC	Asddsa76, indego, Lanvin, micerang, Zamiel	3	4	20
 413063	5	0	Dark Prism (6 Suits)	2021-01-24 — 01:46:22 UTC	Asddsa76, indego, Lanvin, micerang, Zamiel	5	6	30
 413047	5	0	Dark Prism (6 Suits)	2021-01-24 — 01:29:52 UTC	Asddsa76, indego, Lanvin, micerang, Zamiel	5	6	30
 413039	5	0	Dark Prism (6 Suits)	2021-01-24 — 01:18:01 UTC	Asddsa76, indego, Lanvin, micerang, Zamiel	10	6	30
 412190	4	24	Throw It in a Hole (5 Suits)	2021-01-23 — 08:13:03 UTC	Asddsa76, duckington, indego, katian	40	5	25
-412170	4	0	No Variant	2021-01-23 — 07:26:26 UTC	Asddsa76, duckington, indego, katian	162	5	25
+412170	4	0	No Variant	2021-01-23 — 07:26:26 UTC	Asddsa76, duckington, indego, katian	166	5	25
 412148	6	30	Black (6 Suits)	2021-01-23 — 06:48:20 UTC	Asddsa76, dobi, duckington, indego, katian, skyblueexo	5	6	30
 51214	4	23	No Variant	2019-08-21 — 09:56:52 UTC	Ainz Ooal Gown, Animex52, Asddsa76, Valetta6789	130	5	25
-51213	4	25	No Variant	2019-08-21 — 09:10:22 UTC	Ainz Ooal Gown, Animex52, Asddsa76, Valetta6789	233	5	25
+51213	4	25	No Variant	2019-08-21 — 09:10:22 UTC	Ainz Ooal Gown, Animex52, Asddsa76, Valetta6789	236	5	25
 48312	5	0	Black & Rainbow (6 Suits)	2019-07-29 — 21:53:12 UTC	asaelr, Asddsa76, Maiorskills, scharkbite, Zamiel	3	6	30
 48310	5	0	Black & Rainbow (6 Suits)	2019-07-29 — 21:44:22 UTC	asaelr, Asddsa76, Maiorskills, scharkbite, Zamiel	3	6	30
 48307	5	0	Black & Rainbow (6 Suits)	2019-07-29 — 21:25:03 UTC	asaelr, Asddsa76, Maiorskills, scharkbite, Zamiel	3	6	30
 48306	5	0	Black & Rainbow (6 Suits)	2019-07-29 — 21:03:20 UTC	asaelr, Asddsa76, Maiorskills, scharkbite, Zamiel	3	6	30
 48303	4	0	Black & Pink (5 Suits)	2019-07-29 — 20:47:02 UTC	asaelr, Asddsa76, scharkbite, Zamiel	4	5	25
-48302	6	0	Rainbow (6 Suits)	2019-07-29 — 20:31:54 UTC	asaelr, Asddsa76, Kyle, Livia, micerang, scharkbite	19	6	30
-48128	4	24	No Variant	2019-07-28 — 11:29:15 UTC	asaelr, Asddsa76, Dr_Kakashi, Fireheart	97	5	25
-48127	3	0	No Variant	2019-07-28 — 11:08:36 UTC	Asddsa76, Dr_Kakashi, Fireheart	78	5	25
+48302	6	0	Rainbow (6 Suits)	2019-07-29 — 20:31:54 UTC	asaelr, Asddsa76, Kyle, Livia, micerang, scharkbite	20	6	30
+48128	4	24	No Variant	2019-07-28 — 11:29:15 UTC	asaelr, Asddsa76, Dr_Kakashi, Fireheart	98	5	25
+48127	3	0	No Variant	2019-07-28 — 11:08:36 UTC	Asddsa76, Dr_Kakashi, Fireheart	79	5	25
 47716	5	0	Rainbow (6 Suits)	2019-07-25 — 22:27:06 UTC	asaelr, Asddsa76, awe, Dr_Kakashi, Zamiel	4	6	30
-47715	4	30	Rainbow (6 Suits)	2019-07-25 — 21:50:45 UTC	asaelr, Asddsa76, awe, Livia	238	6	30
+47715	4	30	Rainbow (6 Suits)	2019-07-25 — 21:50:45 UTC	asaelr, Asddsa76, awe, Livia	244	6	30
 47701	5	0	White & Brown (6 Suits)	2019-07-25 — 17:10:39 UTC	asaelr, Asddsa76, Kyle, Livia, scharkbite	10	6	30
 47358	4	27	Black & Rainbow (6 Suits)	2019-07-22 — 17:24:18 UTC	Asddsa76, micerang, scharkbite, Sucubis	11	6	30
 47355	3	27	Black & Rainbow (6 Suits)	2019-07-22 — 16:56:22 UTC	Asddsa76, micerang, scharkbite	11	6	30
-47195	3	25	Rainbow (5 Suits)	2019-07-21 — 08:04:15 UTC	Asddsa76, Livia, wortel	18	5	25
-47193	4	0	No Variant	2019-07-21 — 07:20:14 UTC	Asddsa76, Dr_Kakashi, Fireheart, wortel	131	5	25
-47192	4	0	No Variant	2019-07-21 — 07:02:59 UTC	Asddsa76, Dr_Kakashi, Fireheart, wortel	158	5	25
-46597	4	25	No Variant	2019-07-16 — 20:42:46 UTC	Asddsa76, Darth_Calculus, Dr_Kakashi, Livia	287	5	25
+47195	3	25	Rainbow (5 Suits)	2019-07-21 — 08:04:15 UTC	Asddsa76, Livia, wortel	19	5	25
+47193	4	0	No Variant	2019-07-21 — 07:20:14 UTC	Asddsa76, Dr_Kakashi, Fireheart, wortel	132	5	25
+47192	4	0	No Variant	2019-07-21 — 07:02:59 UTC	Asddsa76, Dr_Kakashi, Fireheart, wortel	161	5	25
+46597	4	25	No Variant	2019-07-16 — 20:42:46 UTC	Asddsa76, Darth_Calculus, Dr_Kakashi, Livia	293	5	25
 46593	5	24	No Variant	2019-07-16 — 20:04:03 UTC	Asddsa76, Darth_Calculus, Dr_Kakashi, Livia, micerang	65	5	25
 46556	4	25	Pink (5 Suits)	2019-07-16 — 12:15:25 UTC	asaelr, Asddsa76, Dr_Kakashi, Sucubis	26	5	25
-46555	4	0	Pink (5 Suits)	2019-07-16 — 11:54:38 UTC	asaelr, Asddsa76, Dr_Kakashi, Sucubis	34	5	25
+46555	4	0	Pink (5 Suits)	2019-07-16 — 11:54:38 UTC	asaelr, Asddsa76, Dr_Kakashi, Sucubis	35	5	25
 46553	4	0	Pink (5 Suits)	2019-07-16 — 11:39:37 UTC	asaelr, Asddsa76, Dr_Kakashi, Sucubis	69	5	25
-46552	4	25	Black (5 Suits)	2019-07-16 — 11:18:10 UTC	asaelr, Asddsa76, Dr_Kakashi, Sucubis	49	5	25
-46551	3	0	Black & Rainbow (6 Suits)	2019-07-16 — 11:05:31 UTC	Asddsa76, Dr_Kakashi, Sucubis	26	6	30
-46413	3	19	No Variant	2019-07-15 — 12:54:17 UTC	Animex52, Asddsa76, Dr_Kakashi	77	5	25
+46552	4	25	Black (5 Suits)	2019-07-16 — 11:18:10 UTC	asaelr, Asddsa76, Dr_Kakashi, Sucubis	51	5	25
+46551	3	0	Black & Rainbow (6 Suits)	2019-07-16 — 11:05:31 UTC	Asddsa76, Dr_Kakashi, Sucubis	27	6	30
+46413	3	19	No Variant	2019-07-15 — 12:54:17 UTC	Animex52, Asddsa76, Dr_Kakashi	78	5	25
 45071	4	27	Black & Rainbow (6 Suits)	2019-07-07 — 22:40:03 UTC	asaelr, Asddsa76, Cory, scharkbite	25	6	30
 44026	4	0	Dark Brown (6 Suits)	2019-07-01 — 19:15:12 UTC	asaelr, Asddsa76, scharkbite, Sucubis	9	6	30
 44023	4	23	Dark Brown (6 Suits)	2019-07-01 — 18:54:35 UTC	asaelr, Asddsa76, scharkbite, Sucubis	17	6	30
 44022	6	29	Rainbow (6 Suits)	2019-07-01 — 18:09:56 UTC	Asddsa76, DMoney, Göttertöter, Kyle, Livia, Sucubis	20	6	30
-43416	4	24	No Variant	2019-06-27 — 22:59:33 UTC	Asddsa76, Livia, micerang, qqqq	138	5	25
-43050	4	21	No Variant	2019-06-24 — 15:28:08 UTC	Asddsa76, Göttertöter, Kyle, Macert	278	5	25
+43416	4	24	No Variant	2019-06-27 — 22:59:33 UTC	Asddsa76, Livia, micerang, qqqq	139	5	25
+43050	4	21	No Variant	2019-06-24 — 15:28:08 UTC	Asddsa76, Göttertöter, Kyle, Macert	280	5	25
 43003	6	24	No Variant	2019-06-23 — 20:41:21 UTC	Ahming, Asddsa76, DMoney, Göttertöter, micerang, zuzwang	25	5	25
 42973	6	0	Black & Rainbow (6 Suits)	2019-06-23 — 14:43:12 UTC	asaelr, Asddsa76, Jake_Stiles, Libster, qqqq, Sucubis	6	6	30
-42971	5	0	Black & Rainbow (6 Suits)	2019-06-23 — 14:12:40 UTC	Asddsa76, Jake_Stiles, Libster, qqqq, Sucubis	20	6	30
-42970	4	0	Black & Rainbow (6 Suits)	2019-06-23 — 13:50:16 UTC	Asddsa76, Jake_Stiles, qqqq, Sucubis	14	6	30
+42971	5	0	Black & Rainbow (6 Suits)	2019-06-23 — 14:12:40 UTC	Asddsa76, Jake_Stiles, Libster, qqqq, Sucubis	21	6	30
+42970	4	0	Black & Rainbow (6 Suits)	2019-06-23 — 13:50:16 UTC	Asddsa76, Jake_Stiles, qqqq, Sucubis	16	6	30
 42770	4	25	Rainbow & Brown (5 Suits)	2019-06-22 — 03:10:00 UTC	Asddsa76, sjdrodge, Sucubis, Zamiel	17	5	25
-42767	4	25	Rainbow (5 Suits)	2019-06-22 — 02:37:54 UTC	Asddsa76, awe, Sucubis, Zamiel	17	5	25
+42767	4	25	Rainbow (5 Suits)	2019-06-22 — 02:37:54 UTC	Asddsa76, awe, Sucubis, Zamiel	18	5	25
 42731	5	17	Brown (4 Suits)	2019-06-21 — 16:53:57 UTC	Asddsa76, HuHu, IAMJEFF, Jake_Stiles, Zamiel	7	4	20
 42730	6	27	Black (6 Suits)	2019-06-21 — 16:31:36 UTC	Asddsa76, HuHu, IAMJEFF, Jake_Stiles, Maiorskills, Zamiel	28	6	30
-42114	3	25	No Variant	2019-06-15 — 10:29:53 UTC	Asddsa76, Joan, wortel	77	5	25
-42111	5	24	No Variant	2019-06-15 — 09:59:44 UTC	Asddsa76, Göttertöter, IAMJEFF, Joan, wortel	176	5	25
+42114	3	25	No Variant	2019-06-15 — 10:29:53 UTC	Asddsa76, Joan, wortel	78	5	25
+42111	5	24	No Variant	2019-06-15 — 09:59:44 UTC	Asddsa76, Göttertöter, IAMJEFF, Joan, wortel	178	5	25
 42011	6	30	6 Suits	2019-06-14 — 22:17:56 UTC	Asddsa76, Cory, Joan, Libster, micerang, NoMercy	8	6	30
 41996	5	22	No Variant	2019-06-14 — 21:45:57 UTC	Asddsa76, Cory, Joan, micerang, NoMercy	29	5	25
-41663	3	25	No Variant	2019-06-11 — 22:43:27 UTC	Asddsa76, Göttertöter, Will	77	5	25
-41661	3	29	Rainbow (6 Suits)	2019-06-11 — 22:17:47 UTC	Asddsa76, Göttertöter, Will	215	6	30
+41663	3	25	No Variant	2019-06-11 — 22:43:27 UTC	Asddsa76, Göttertöter, Will	79	5	25
+41661	3	29	Rainbow (6 Suits)	2019-06-11 — 22:17:47 UTC	Asddsa76, Göttertöter, Will	217	6	30
 41660	6	25	No Variant	2019-06-11 — 21:41:42 UTC	Asddsa76, Göttertöter, Jake_Stiles, Maiorskills, micerang, nakata	29	5	25
-41518	3	24	No Variant	2019-06-10 — 20:04:21 UTC	Asddsa76, Göttertöter, Macert	76	5	25
-41510	3	0	No Variant	2019-06-10 — 19:38:28 UTC	Asddsa76, Göttertöter, Macert	77	5	25
-41506	3	24	No Variant	2019-06-10 — 19:23:27 UTC	Asddsa76, Macert, Maiorskills	79	5	25
+41518	3	24	No Variant	2019-06-10 — 20:04:21 UTC	Asddsa76, Göttertöter, Macert	77	5	25
+41510	3	0	No Variant	2019-06-10 — 19:38:28 UTC	Asddsa76, Göttertöter, Macert	78	5	25
+41506	3	24	No Variant	2019-06-10 — 19:23:27 UTC	Asddsa76, Macert, Maiorskills	82	5	25
 41375	5	23	No Variant	2019-06-09 — 18:45:11 UTC	asaelr, Asddsa76, Libster, Macert, Sucubis	2	5	25
-41368	4	25	No Variant	2019-06-09 — 18:10:13 UTC	Asddsa76, Libster, Macert, Sucubis	16	5	25
-41307	3	0	No Variant	2019-06-09 — 09:29:26 UTC	Asddsa76, IAMJEFF, Livia	82	5	25
-41306	3	20	No Variant	2019-06-09 — 09:10:02 UTC	Asddsa76, IAMJEFF, Livia	83	5	25
+41368	4	25	No Variant	2019-06-09 — 18:10:13 UTC	Asddsa76, Libster, Macert, Sucubis	18	5	25
+41307	3	0	No Variant	2019-06-09 — 09:29:26 UTC	Asddsa76, IAMJEFF, Livia	84	5	25
+41306	3	20	No Variant	2019-06-09 — 09:10:02 UTC	Asddsa76, IAMJEFF, Livia	86	5	25
 41248	5	28	Brown (6 Suits)	2019-06-08 — 22:51:48 UTC	Asddsa76, Feer, kondain, micerang, scharkbite	6	6	30
 41247	4	28	Brown (6 Suits)	2019-06-08 — 22:09:16 UTC	Asddsa76, micerang, Razvogor, scharkbite	21	6	30
 41242	6	25	6 Suits	2019-06-08 — 21:22:38 UTC	Asddsa76, Feer, micerang, Razvogor, Sucubis, Will	50	6	30
 41237	6	20	No Variant	2019-06-08 — 20:45:39 UTC	Asddsa76, Feer, Libster, micerang, Sucubis, Will	19	5	25
-41218	5	29	Rainbow & White (6 Suits)	2019-06-08 — 17:59:46 UTC	Ahming, Asddsa76, IAMJEFF, micerang, scharkbite	11	6	30
-41082	4	25	No Variant	2019-06-07 — 17:39:55 UTC	Asddsa76, Jake_Stiles, kondain, micerang	167	5	25
+41218	5	29	Rainbow & White (6 Suits)	2019-06-08 — 17:59:46 UTC	Ahming, Asddsa76, IAMJEFF, micerang, scharkbite	12	6	30
+41082	4	25	No Variant	2019-06-07 — 17:39:55 UTC	Asddsa76, Jake_Stiles, kondain, micerang	169	5	25
 41075	6	23	No Variant	2019-06-07 — 17:10:02 UTC	Asddsa76, Jake_Stiles, kondain, Livia, Maiorskills, micerang	42	5	25
-41070	4	0	No Variant	2019-06-07 — 16:45:46 UTC	Asddsa76, Jake_Stiles, Livia, Maiorskills	308	5	25
-41069	4	25	No Variant	2019-06-07 — 16:27:07 UTC	Asddsa76, Jake_Stiles, Livia, Maiorskills	336	5	25
-40713	4	27	Rainbow (6 Suits)	2019-06-05 — 02:06:31 UTC	Ahming, Asddsa76, Jake_Stiles, micerang	493	6	30
+41070	4	0	No Variant	2019-06-07 — 16:45:46 UTC	Asddsa76, Jake_Stiles, Livia, Maiorskills	311	5	25
+41069	4	25	No Variant	2019-06-07 — 16:27:07 UTC	Asddsa76, Jake_Stiles, Livia, Maiorskills	340	5	25
+40713	4	27	Rainbow (6 Suits)	2019-06-05 — 02:06:31 UTC	Ahming, Asddsa76, Jake_Stiles, micerang	497	6	30
 40603	5	25	No Variant	2019-06-04 — 02:11:08 UTC	Ahming, Asddsa76, invarse, Jake_Stiles, Zamiel	2	5	25
 40285	4	24	No Variant	2019-06-02 — 05:02:53 UTC	Asddsa76, croc, Jake_Stiles, Zamiel	2	5	25
 40144	5	24	No Variant	2019-06-01 — 02:32:21 UTC	Ahming, Asddsa76, Jake_Stiles, Libster, qqqq	2	5	25
 40142	5	22	No Variant	2019-06-01 — 02:09:58 UTC	Ahming, Asddsa76, Jake_Stiles, Libster, qqqq	3	5	25
-39818	3	0	Gray (6 Suits)	2019-05-29 — 07:34:57 UTC	Asddsa76, efaust, sjdrodge	55	6	30
+39818	3	0	Gray (6 Suits)	2019-05-29 — 07:34:57 UTC	Asddsa76, efaust, sjdrodge	57	6	30
 39817	5	0	Gray (6 Suits)	2019-05-29 — 07:04:13 UTC	Asddsa76, efaust, Feer, sjdrodge, wjomlex	8	6	30
-39815	5	0	Gray (6 Suits)	2019-05-29 — 06:40:51 UTC	Asddsa76, efaust, Feer, sjdrodge, wjomlex	10	6	30
+39815	5	0	Gray (6 Suits)	2019-05-29 — 06:40:51 UTC	Asddsa76, efaust, Feer, sjdrodge, wjomlex	11	6	30
 39813	4	0	Gray (6 Suits)	2019-05-29 — 06:21:17 UTC	Asddsa76, efaust, Feer, wjomlex	10	6	30
 39810	4	0	Gray (6 Suits)	2019-05-29 — 06:00:11 UTC	Asddsa76, efaust, Feer, wjomlex	11	6	30
-39806	5	27	Gray (6 Suits)	2019-05-29 — 05:36:04 UTC	Asddsa76, efaust, Feer, IAMJEFF, wjomlex	14	6	30
-39799	4	19	Gray (5 Suits)	2019-05-29 — 05:05:26 UTC	Asddsa76, Feer, IAMJEFF, wjomlex	33	5	25
+39806	5	27	Gray (6 Suits)	2019-05-29 — 05:36:04 UTC	Asddsa76, efaust, Feer, IAMJEFF, wjomlex	15	6	30
+39799	4	19	Gray (5 Suits)	2019-05-29 — 05:05:26 UTC	Asddsa76, Feer, IAMJEFF, wjomlex	34	5	25
 39781	4	0	No Variant	2019-05-29 — 00:39:29 UTC	Asddsa76, Cory, Jake_Stiles, Zamiel	2	5	25
 39779	5	22	No Variant	2019-05-29 — 00:10:49 UTC	Asddsa76, Cory, Jake_Stiles, micerang, Zamiel	2	5	25
-39678	3	22	No Variant	2019-05-28 — 02:16:44 UTC	Asddsa76, Jake_Stiles, Libster	77	5	25
+39678	3	22	No Variant	2019-05-28 — 02:16:44 UTC	Asddsa76, Jake_Stiles, Libster	79	5	25
 39667	5	21	No Variant	2019-05-28 — 01:28:05 UTC	Asddsa76, bunnycat, Jake_Stiles, Libster, NoMercy	3	5	25
-39662	3	22	No Variant	2019-05-28 — 00:50:17 UTC	Asddsa76, bunnycat, NoMercy	82	5	25
-39645	3	24	No Variant	2019-05-27 — 20:43:02 UTC	asaelr, Asddsa76, micerang	89	5	25
-39643	3	0	No Variant	2019-05-27 — 20:17:18 UTC	asaelr, Asddsa76, micerang	89	5	25
-39642	3	25	No Variant	2019-05-27 — 19:59:50 UTC	asaelr, Asddsa76, micerang	93	5	25
-39639	3	0	No Variant	2019-05-27 — 19:37:11 UTC	asaelr, Asddsa76, micerang	101	5	25
-39416	4	24	No Variant	2019-05-26 — 04:29:00 UTC	Asddsa76, croc, Feer, micerang	326	5	25
-39407	3	25	No Variant	2019-05-26 — 03:52:00 UTC	Asddsa76, croc, snkylittleazn	97	5	25
+39662	3	22	No Variant	2019-05-28 — 00:50:17 UTC	Asddsa76, bunnycat, NoMercy	85	5	25
+39645	3	24	No Variant	2019-05-27 — 20:43:02 UTC	asaelr, Asddsa76, micerang	91	5	25
+39643	3	0	No Variant	2019-05-27 — 20:17:18 UTC	asaelr, Asddsa76, micerang	91	5	25
+39642	3	25	No Variant	2019-05-27 — 19:59:50 UTC	asaelr, Asddsa76, micerang	95	5	25
+39639	3	0	No Variant	2019-05-27 — 19:37:11 UTC	asaelr, Asddsa76, micerang	103	5	25
+39416	4	24	No Variant	2019-05-26 — 04:29:00 UTC	Asddsa76, croc, Feer, micerang	330	5	25
+39407	3	25	No Variant	2019-05-26 — 03:52:00 UTC	Asddsa76, croc, snkylittleazn	99	5	25
 39370	5	25	No Variant	2019-05-25 — 20:26:18 UTC	Ahming, Asddsa76, Libster, NoMercy, zuzwang	2	5	25
 39365	5	23	No Variant	2019-05-25 — 19:44:27 UTC	Ahming, Asddsa76, Libster, NoMercy, zuzwang	2	5	25
 39331	5	0	Black (6 Suits)	2019-05-25 — 06:39:22 UTC	Asddsa76, efaust, IAMJEFF, kemurphy, sjdrodge	39	6	30
 39325	5	25	Black (6 Suits)	2019-05-25 — 06:07:19 UTC	Asddsa76, efaust, IAMJEFF, kemurphy, sjdrodge	48	6	30
 39320	5	24	Black (5 Suits)	2019-05-25 — 05:26:54 UTC	Asddsa76, efaust, IAMJEFF, kemurphy, micerang	12	5	25
-39316	4	25	No Variant	2019-05-25 — 05:01:37 UTC	Asddsa76, efaust, IAMJEFF, kemurphy	1744	5	25
+39316	4	25	No Variant	2019-05-25 — 05:01:37 UTC	Asddsa76, efaust, IAMJEFF, kemurphy	1759	5	25
 39066	6	0	Pink (5 Suits)	2019-05-24 — 03:58:43 UTC	Asddsa76, florrat2, Libster, micerang, NoMercy, Zamiel	9	5	25
 39065	6	30	Pink (6 Suits)	2019-05-24 — 03:33:23 UTC	Asddsa76, florrat2, Libster, NoMercy, sankala, Zamiel	4	6	30
 39064	4	0	Pink (6 Suits)	2019-05-24 — 02:59:30 UTC	Asddsa76, Razvogor, sankala, Zamiel	6	6	30
 39063	6	29	Brown (6 Suits)	2019-05-24 — 02:33:09 UTC	Asddsa76, cak199164, Razvogor, sankala, Yeesh, Zamiel	10	6	30
 39062	6	25	Brown (5 Suits)	2019-05-24 — 02:04:19 UTC	Asddsa76, cak199164, Libster, sankala, Yeesh, Zamiel	8	5	25
 39061	6	24	Brown (5 Suits)	2019-05-24 — 01:36:08 UTC	Asddsa76, Libster, micerang, sankala, Yeesh, Zamiel	8	5	25
-39054	3	23	No Variant	2019-05-23 — 21:33:33 UTC	Asddsa76, Livia, scharkbite	98	5	25
-39052	4	24	No Variant	2019-05-23 — 20:51:38 UTC	asaelr, Asddsa76, Livia, scharkbite	42	5	25
-38880	4	25	No Variant	2019-05-23 — 00:01:17 UTC	Ahming, Asddsa76, micerang, Sucubis	373	5	25
-38879	4	24	No Variant	2019-05-22 — 23:30:43 UTC	Ahming, Asddsa76, scharkbite, Sucubis	48	5	25
-38878	3	0	No Variant	2019-05-22 — 23:01:23 UTC	Ahming, Asddsa76, Livia	100	5	25
-38804	3	17	No Variant	2019-05-22 — 05:34:16 UTC	Asddsa76, beardie1500, NoMercy	106	5	25
+39054	3	23	No Variant	2019-05-23 — 21:33:33 UTC	Asddsa76, Livia, scharkbite	102	5	25
+39052	4	24	No Variant	2019-05-23 — 20:51:38 UTC	asaelr, Asddsa76, Livia, scharkbite	43	5	25
+38880	4	25	No Variant	2019-05-23 — 00:01:17 UTC	Ahming, Asddsa76, micerang, Sucubis	376	5	25
+38879	4	24	No Variant	2019-05-22 — 23:30:43 UTC	Ahming, Asddsa76, scharkbite, Sucubis	49	5	25
+38878	3	0	No Variant	2019-05-22 — 23:01:23 UTC	Ahming, Asddsa76, Livia	103	5	25
+38804	3	17	No Variant	2019-05-22 — 05:34:16 UTC	Asddsa76, beardie1500, NoMercy	110	5	25
 38775	5	25	No Variant	2019-05-22 — 02:06:39 UTC	Asddsa76, florrat2, Libster, qqqq, Sucubis	2	5	25
-38771	4	25	No Variant	2019-05-22 — 00:04:21 UTC	asaelr, Asddsa76, Bubble, Will	384	5	25
-38770	4	0	No Variant	2019-05-21 — 23:31:23 UTC	asaelr, Asddsa76, NoMercy, Will	655	5	25
-38725	3	29	Dark Pink (6 Suits)	2019-05-21 — 05:20:38 UTC	Asddsa76, IAMJEFF, micerang	41	6	30
-38722	3	0	Pink (6 Suits)	2019-05-21 — 04:43:30 UTC	Asddsa76, IAMJEFF, micerang	131	6	30
+38771	4	25	No Variant	2019-05-22 — 00:04:21 UTC	asaelr, Asddsa76, Bubble, Will	387	5	25
+38770	4	0	No Variant	2019-05-21 — 23:31:23 UTC	asaelr, Asddsa76, NoMercy, Will	660	5	25
+38725	3	29	Dark Pink (6 Suits)	2019-05-21 — 05:20:38 UTC	Asddsa76, IAMJEFF, micerang	42	6	30
+38722	3	0	Pink (6 Suits)	2019-05-21 — 04:43:30 UTC	Asddsa76, IAMJEFF, micerang	132	6	30
 38696	5	24	No Variant	2019-05-21 — 04:14:11 UTC	Asddsa76, efaust, kemurphy, sjdrodge, wjomlex	19	5	25
-38435	3	25	Rainbow & White (5 Suits)	2019-05-19 — 18:55:08 UTC	Ahming, Andrew_UK, Asddsa76	14	5	25
-38433	3	0	Rainbow & White (5 Suits)	2019-05-19 — 18:36:12 UTC	Ahming, Andrew_UK, Asddsa76	21	5	25
-38432	5	24	No Variant	2019-05-19 — 18:10:14 UTC	Ahming, Andrew_UK, asaelr, Asddsa76, micerang	143	5	25
-38384	5	20	No Variant	2019-05-18 — 23:04:48 UTC	Asddsa76, Darth_Calculus, Feer, Maiorskills, snkylittleazn	1995	5	25
+38435	3	25	Rainbow & White (5 Suits)	2019-05-19 — 18:55:08 UTC	Ahming, Andrew_UK, Asddsa76	15	5	25
+38433	3	0	Rainbow & White (5 Suits)	2019-05-19 — 18:36:12 UTC	Ahming, Andrew_UK, Asddsa76	22	5	25
+38432	5	24	No Variant	2019-05-19 — 18:10:14 UTC	Ahming, Andrew_UK, asaelr, Asddsa76, micerang	145	5	25
+38384	5	20	No Variant	2019-05-18 — 23:04:48 UTC	Asddsa76, Darth_Calculus, Feer, Maiorskills, snkylittleazn	2011	5	25
 38309	4	29	Pink (6 Suits)	2019-05-17 — 16:49:48 UTC	Asddsa76, Hunter, IAMJEFF, scharkbite	35	6	30
 38308	4	15	Pink (3 Suits)	2019-05-17 — 16:24:00 UTC	Asddsa76, Hunter, IAMJEFF, scharkbite	6	3	15
 38306	4	0	Pink (3 Suits)	2019-05-17 — 16:09:50 UTC	Asddsa76, Hunter, IAMJEFF, scharkbite	7	3	15
 38280	3	26	Black & Rainbow (6 Suits)	2019-05-17 — 08:31:05 UTC	Asddsa76, Feer, micerang	51	6	30
-38271	3	0	Black & Rainbow (6 Suits)	2019-05-17 — 07:46:00 UTC	Asddsa76, Feer, micerang	59	6	30
+38271	3	0	Black & Rainbow (6 Suits)	2019-05-17 — 07:46:00 UTC	Asddsa76, Feer, micerang	60	6	30
 38260	3	14	Rainbow & White (3 Suits)	2019-05-17 — 05:45:45 UTC	Asddsa76, micerang, scharkbite	25	3	15
-38258	5	28	Black (6 Suits)	2019-05-17 — 05:26:16 UTC	Asddsa76, efaust, IAMJEFF, micerang, scharkbite	27	6	30
+38258	5	28	Black (6 Suits)	2019-05-17 — 05:26:16 UTC	Asddsa76, efaust, IAMJEFF, micerang, scharkbite	28	6	30
 38256	5	0	Brown (4 Suits)	2019-05-17 — 04:50:58 UTC	Asddsa76, IAMJEFF, scharkbite, sjdrodge, Zamiel	10	4	20
-38251	4	25	Brown (5 Suits)	2019-05-17 — 04:12:34 UTC	Asddsa76, scharkbite, sjdrodge, Zamiel	36	5	25
-38249	4	0	Brown (5 Suits)	2019-05-17 — 03:48:28 UTC	Asddsa76, scharkbite, sjdrodge, Zamiel	46	5	25
-37995	3	25	No Variant	2019-05-15 — 14:20:03 UTC	Asddsa76, Buds, Hunter	102	5	25
-37217	3	0	No Variant	2019-05-11 — 23:12:24 UTC	Asddsa76, scharkbite, zuzwang	106	5	25
-37211	3	0	No Variant	2019-05-11 — 22:35:17 UTC	Asddsa76, scharkbite, zuzwang	109	5	25
-37167	4	0	Gray (5 Suits)	2019-05-11 — 20:10:25 UTC	Asddsa76, florrat2, Libster, wortel	14	5	25
-37160	4	19	Gray (5 Suits)	2019-05-11 — 19:35:04 UTC	Asddsa76, florrat2, Libster, wortel	14	5	25
+38251	4	25	Brown (5 Suits)	2019-05-17 — 04:12:34 UTC	Asddsa76, scharkbite, sjdrodge, Zamiel	37	5	25
+38249	4	0	Brown (5 Suits)	2019-05-17 — 03:48:28 UTC	Asddsa76, scharkbite, sjdrodge, Zamiel	47	5	25
+37995	3	25	No Variant	2019-05-15 — 14:20:03 UTC	Asddsa76, Buds, Hunter	107	5	25
+37217	3	0	No Variant	2019-05-11 — 23:12:24 UTC	Asddsa76, scharkbite, zuzwang	111	5	25
+37211	3	0	No Variant	2019-05-11 — 22:35:17 UTC	Asddsa76, scharkbite, zuzwang	115	5	25
+37167	4	0	Gray (5 Suits)	2019-05-11 — 20:10:25 UTC	Asddsa76, florrat2, Libster, wortel	15	5	25
+37160	4	19	Gray (5 Suits)	2019-05-11 — 19:35:04 UTC	Asddsa76, florrat2, Libster, wortel	16	5	25
 37154	4	25	Rainbow & White (5 Suits)	2019-05-11 — 19:08:31 UTC	Asddsa76, florrat2, Libster, wortel	4	5	25
 37145	4	20	Rainbow & White (5 Suits)	2019-05-11 — 18:39:51 UTC	Asddsa76, florrat2, Libster, wortel	4	5	25
 36782	5	0	No Variant	2019-05-10 — 21:35:17 UTC	Asddsa76, Maiorskills, scharkbite, sjdrodge, snkylittleazn	13	5	25
 36779	4	27	Black & White (6 Suits)	2019-05-10 — 21:14:04 UTC	Asddsa76, Feer, scharkbite, sjdrodge	29	6	30
-36775	5	29	Rainbow (6 Suits)	2019-05-10 — 20:40:49 UTC	Asddsa76, Feer, Hunter, kondain, scharkbite	27	6	30
+36775	5	29	Rainbow (6 Suits)	2019-05-10 — 20:40:49 UTC	Asddsa76, Feer, Hunter, kondain, scharkbite	28	6	30
 36772	4	0	Black & Rainbow (6 Suits)	2019-05-10 — 20:08:49 UTC	Asddsa76, Feer, Hunter, scharkbite	28	6	30
 36670	5	30	Rainbow-Ones (6 Suits)	2019-05-09 — 21:08:57 UTC	Ahming, Asddsa76, efaust, sjdrodge, Zamiel	5	6	30
 36665	5	0	Rainbow-Ones (6 Suits)	2019-05-09 — 20:29:45 UTC	Ahming, Asddsa76, efaust, Hunter, Zamiel	7	6	30
 36663	4	23	Rainbow-Ones (6 Suits)	2019-05-09 — 20:07:05 UTC	Asddsa76, efaust, Hunter, Zamiel	4	6	30
 36659	4	0	Rainbow-Ones (6 Suits)	2019-05-09 — 19:34:47 UTC	Asddsa76, efaust, Hunter, Zamiel	15	6	30
 36402	6	0	Rainbow (6 Suits)	2019-05-08 — 20:09:19 UTC	Andrew_UK, Asddsa76, kondain, micerang, scharkbite, snkylittleazn	23	6	30
-36399	3	24	Rainbow (5 Suits)	2019-05-08 — 19:41:17 UTC	Asddsa76, micerang, snkylittleazn	22	5	25
-36395	4	24	Rainbow (5 Suits)	2019-05-08 — 19:17:39 UTC	Asddsa76, micerang, NoMercy, snkylittleazn	32	5	25
+36399	3	24	Rainbow (5 Suits)	2019-05-08 — 19:41:17 UTC	Asddsa76, micerang, snkylittleazn	23	5	25
+36395	4	24	Rainbow (5 Suits)	2019-05-08 — 19:17:39 UTC	Asddsa76, micerang, NoMercy, snkylittleazn	34	5	25
 36394	5	0	Rainbow (6 Suits)	2019-05-08 — 18:47:24 UTC	Andrew_UK, Asddsa76, micerang, NoMercy, scharkbite	21	6	30
 36110	6	0	No Variant	2019-05-07 — 22:28:37 UTC	Andrew_UK, asaelr, Asddsa76, sjdrodge, snkylittleazn, Tempo	13	5	25
 35098	4	27	Black & Rainbow (6 Suits)	2019-05-04 — 19:17:24 UTC	Ahming, Andrew_UK, Asddsa76, scharkbite	46	6	30
 35040	3	20	Brown (4 Suits)	2019-05-04 — 10:56:00 UTC	Asddsa76, Dr_Kakashi, wortel	31	4	20
-35037	3	17	Rainbow & Pink (4 Suits)	2019-05-04 — 10:30:09 UTC	Asddsa76, Dr_Kakashi, wortel	14	4	20
-35036	4	0	Black & White (6 Suits)	2019-05-04 — 09:41:19 UTC	Asddsa76, Dr_Kakashi, efaust, wortel	22	6	30
+35037	3	17	Rainbow & Pink (4 Suits)	2019-05-04 — 10:30:09 UTC	Asddsa76, Dr_Kakashi, wortel	16	4	20
+35036	4	0	Black & White (6 Suits)	2019-05-04 — 09:41:19 UTC	Asddsa76, Dr_Kakashi, efaust, wortel	23	6	30
 35034	4	0	Black & White (6 Suits)	2019-05-04 — 09:06:46 UTC	Asddsa76, Dr_Kakashi, efaust, wortel	24	6	30
-35011	4	0	Gray (6 Suits)	2019-05-04 — 06:24:44 UTC	Asddsa76, Dr_Kakashi, Hunter, NoMercy	13	6	30
+35011	4	0	Gray (6 Suits)	2019-05-04 — 06:24:44 UTC	Asddsa76, Dr_Kakashi, Hunter, NoMercy	14	6	30
 35007	3	23	Dark Pink (5 Suits)	2019-05-04 — 05:58:24 UTC	Asddsa76, Dr_Kakashi, NoMercy	19	5	25
 35001	3	30	Rainbow & White (6 Suits)	2019-05-04 — 05:31:35 UTC	Asddsa76, Dr_Kakashi, NoMercy	6	6	30
 34377	3	0	Pink (5 Suits)	2019-05-02 — 05:35:12 UTC	Asddsa76, efaust, sjdrodge	11	5	25
-34374	3	0	Pink (5 Suits)	2019-05-02 — 05:19:16 UTC	Asddsa76, efaust, sjdrodge	18	5	25
+34374	3	0	Pink (5 Suits)	2019-05-02 — 05:19:16 UTC	Asddsa76, efaust, sjdrodge	19	5	25
 34373	3	0	Pink (5 Suits)	2019-05-02 — 05:07:49 UTC	Asddsa76, efaust, sjdrodge	20	5	25
 34372	3	15	3 Suits	2019-05-02 — 05:00:09 UTC	Asddsa76, efaust, sjdrodge	4	3	15
 34369	3	14	3 Suits	2019-05-02 — 04:39:21 UTC	Asddsa76, efaust, sjdrodge	4	3	15
 34363	3	0	3 Suits	2019-05-02 — 04:25:59 UTC	Asddsa76, efaust, sjdrodge	5	3	15
 34361	3	0	3 Suits	2019-05-02 — 04:13:59 UTC	Asddsa76, efaust, sjdrodge	6	3	15
 34358	3	15	3 Suits	2019-05-02 — 04:01:30 UTC	Asddsa76, efaust, sjdrodge	6	3	15
-34134	5	24	No Variant	2019-05-01 — 06:35:10 UTC	Asddsa76, Dr_Kakashi, Hunter, scharkbite, sjdrodge	16	5	25
+34134	5	24	No Variant	2019-05-01 — 06:35:10 UTC	Asddsa76, Dr_Kakashi, Hunter, scharkbite, sjdrodge	17	5	25
 34132	4	0	Gray (6 Suits)	2019-05-01 — 06:10:29 UTC	Asddsa76, Hunter, scharkbite, sjdrodge	15	6	30
-34131	4	29	Gray (6 Suits)	2019-05-01 — 05:51:04 UTC	Asddsa76, Hunter, scharkbite, sjdrodge	18	6	30
-34126	3	29	Pink (6 Suits)	2019-05-01 — 05:09:57 UTC	Asddsa76, Hunter, scharkbite	92	6	30
+34131	4	29	Gray (6 Suits)	2019-05-01 — 05:51:04 UTC	Asddsa76, Hunter, scharkbite, sjdrodge	19	6	30
+34126	3	29	Pink (6 Suits)	2019-05-01 — 05:09:57 UTC	Asddsa76, Hunter, scharkbite	94	6	30
 33966	3	0	Pink (5 Suits)	2019-04-30 — 08:16:19 UTC	Asddsa76, efaust, sjdrodge	23	5	25
-33965	4	28	Black (6 Suits)	2019-04-30 — 07:40:49 UTC	Asddsa76, efaust, Hunter, sjdrodge	45	6	30
-33962	3	23	No Variant	2019-04-30 — 06:38:43 UTC	asaelr, Asddsa76, Hunter	112	5	25
-33960	3	0	No Variant	2019-04-30 — 06:21:43 UTC	asaelr, Asddsa76, Hunter	119	5	25
+33965	4	28	Black (6 Suits)	2019-04-30 — 07:40:49 UTC	Asddsa76, efaust, Hunter, sjdrodge	46	6	30
+33962	3	23	No Variant	2019-04-30 — 06:38:43 UTC	asaelr, Asddsa76, Hunter	116	5	25
+33960	3	0	No Variant	2019-04-30 — 06:21:43 UTC	asaelr, Asddsa76, Hunter	126	5	25
 33359	4	0	Rainbow (6 Suits)	2019-04-28 — 12:18:43 UTC	Andrew_UK, Asddsa76, IAMJEFF, kondain	57	6	30
-33357	4	0	Rainbow (6 Suits)	2019-04-28 — 12:04:08 UTC	Andrew_UK, Asddsa76, IAMJEFF, kondain	65	6	30
+33357	4	0	Rainbow (6 Suits)	2019-04-28 — 12:04:08 UTC	Andrew_UK, Asddsa76, IAMJEFF, kondain	67	6	30
 33356	5	29	Rainbow (6 Suits)	2019-04-28 — 11:44:09 UTC	Andrew_UK, Asddsa76, efaust, IAMJEFF, kondain	42	6	30
-33354	3	25	Black (5 Suits)	2019-04-28 — 11:14:21 UTC	Andrew_UK, Asddsa76, efaust	74	5	25
+33354	3	25	Black (5 Suits)	2019-04-28 — 11:14:21 UTC	Andrew_UK, Asddsa76, efaust	76	5	25
 33336	5	17	4 Suits	2019-04-28 — 07:26:31 UTC	Asddsa76, Dr_Kakashi, Hunter, qqqq, RaKXeR	17	4	20
 33334	4	20	4 Suits	2019-04-28 — 07:00:31 UTC	Asddsa76, Hunter, qqqq, RaKXeR	8	4	20
-33076	4	23	Dark Brown (5 Suits)	2019-04-27 — 10:32:11 UTC	Asddsa76, efaust, NoMercy, sjdrodge	14	5	25
-33075	4	0	Dark Brown (5 Suits)	2019-04-27 — 10:15:19 UTC	Asddsa76, efaust, NoMercy, sjdrodge	17	5	25
+33076	4	23	Dark Brown (5 Suits)	2019-04-27 — 10:32:11 UTC	Asddsa76, efaust, NoMercy, sjdrodge	15	5	25
+33075	4	0	Dark Brown (5 Suits)	2019-04-27 — 10:15:19 UTC	Asddsa76, efaust, NoMercy, sjdrodge	18	5	25
 33074	6	20	4 Suits	2019-04-27 — 09:55:39 UTC	Asddsa76, Dr_Kakashi, efaust, NoMercy, sjdrodge, wortel	1	4	20
 33073	6	0	4 Suits	2019-04-27 — 09:37:10 UTC	Asddsa76, Dr_Kakashi, efaust, NoMercy, sjdrodge, wortel	1	4	20
-33067	3	19	Dark Pink (5 Suits)	2019-04-27 — 08:08:17 UTC	Ape, Asddsa76, NoMercy	22	5	25
-33066	3	0	Dark Pink (5 Suits)	2019-04-27 — 07:57:15 UTC	Ape, Asddsa76, NoMercy	26	5	25
+33067	3	19	Dark Pink (5 Suits)	2019-04-27 — 08:08:17 UTC	Ape, Asddsa76, NoMercy	23	5	25
+33066	3	0	Dark Pink (5 Suits)	2019-04-27 — 07:57:15 UTC	Ape, Asddsa76, NoMercy	27	5	25
 33065	3	0	Dark Pink (5 Suits)	2019-04-27 — 07:54:50 UTC	Ape, Asddsa76, NoMercy	38	5	25
-33062	3	22	Dark Pink (5 Suits)	2019-04-27 — 07:41:00 UTC	Ape, Asddsa76, NoMercy	42	5	25
+33062	3	22	Dark Pink (5 Suits)	2019-04-27 — 07:41:00 UTC	Ape, Asddsa76, NoMercy	44	5	25
 33059	3	20	Rainbow (4 Suits)	2019-04-27 — 07:20:59 UTC	Ape, Asddsa76, NoMercy	16	4	20
 32912	5	0	White (5 Suits)	2019-04-27 — 04:38:57 UTC	Asddsa76, darkenblade986, Dr_Kakashi, Hunter, sjdrodge	6	5	25
 31983	4	20	Rainbow (4 Suits)	2019-04-24 — 07:19:33 UTC	Asddsa76, Dr_Kakashi, Razgovor, sjdrodge	6	4	20
 31982	5	19	4 Suits	2019-04-24 — 06:49:54 UTC	Asddsa76, Dr_Kakashi, Feer, Razgovor, sjdrodge	8	4	20
 31977	6	19	4 Suits	2019-04-24 — 06:25:07 UTC	Asddsa76, basj, Dr_Kakashi, Feer, Razgovor, sjdrodge	3	4	20
 31972	4	20	4 Suits	2019-04-24 — 06:01:24 UTC	Asddsa76, Dr_Kakashi, Razgovor, sjdrodge	2	4	20
-31949	5	30	Rainbow (6 Suits)	2019-04-24 — 05:09:03 UTC	Asddsa76, darkenblade986, Dr_Kakashi, Hunter, sjdrodge	133	6	30
+31949	5	30	Rainbow (6 Suits)	2019-04-24 — 05:09:03 UTC	Asddsa76, darkenblade986, Dr_Kakashi, Hunter, sjdrodge	134	6	30
 31754	5	19	4 Suits	2019-04-23 — 06:29:36 UTC	Asddsa76, Dr_Kakashi, Feer, Razgovor, wjomlex	12	4	20
 31753	5	0	4 Suits	2019-04-23 — 06:16:00 UTC	Asddsa76, Dr_Kakashi, Feer, Razgovor, wjomlex	16	4	20
-31180	4	0	Black (6 Suits)	2019-04-20 — 22:58:24 UTC	Asddsa76, Feer, Magnus, wjomlex	71	6	30
-31179	4	0	Rainbow (6 Suits)	2019-04-20 — 22:27:49 UTC	Asddsa76, Feer, Hunter, Magnus	163	6	30
-31177	4	30	Rainbow (6 Suits)	2019-04-20 — 21:56:42 UTC	Asddsa76, Feer, Hunter, Magnus	185	6	30
-31174	3	0	Rainbow (6 Suits)	2019-04-20 — 21:14:00 UTC	Asddsa76, Feer, Magnus	91	6	30
-31122	5	21	No Variant	2019-04-20 — 09:32:10 UTC	Ape, Asddsa76, Feer, kondain, sjdrodge	51	5	25
-31121	5	21	No Variant	2019-04-20 — 08:51:32 UTC	Asddsa76, Feer, kondain, sjdrodge, wortel	126	5	25
+31180	4	0	Black (6 Suits)	2019-04-20 — 22:58:24 UTC	Asddsa76, Feer, Magnus, wjomlex	73	6	30
+31179	4	0	Rainbow (6 Suits)	2019-04-20 — 22:27:49 UTC	Asddsa76, Feer, Hunter, Magnus	164	6	30
+31177	4	30	Rainbow (6 Suits)	2019-04-20 — 21:56:42 UTC	Asddsa76, Feer, Hunter, Magnus	188	6	30
+31174	3	0	Rainbow (6 Suits)	2019-04-20 — 21:14:00 UTC	Asddsa76, Feer, Magnus	93	6	30
+31122	5	21	No Variant	2019-04-20 — 09:32:10 UTC	Ape, Asddsa76, Feer, kondain, sjdrodge	52	5	25
+31121	5	21	No Variant	2019-04-20 — 08:51:32 UTC	Asddsa76, Feer, kondain, sjdrodge, wortel	127	5	25
 31108	5	25	Rainbow (5 Suits)	2019-04-20 — 06:28:42 UTC	Asddsa76, Hunter, micerang, sjdrodge, wjomlex	12	5	25
 31106	5	0	6 Suits	2019-04-20 — 05:57:22 UTC	Asddsa76, Hunter, micerang, sjdrodge, wjomlex	35	6	30
 31105	5	0	6 Suits	2019-04-20 — 05:26:50 UTC	Asddsa76, Hunter, micerang, sjdrodge, wjomlex	96	6	30
-30862	5	23	No Variant	2019-04-18 — 23:29:09 UTC	Asddsa76, Hunter, NoMercy, sjdrodge, vanina93	50	5	25
-30856	5	29	Rainbow (6 Suits)	2019-04-18 — 22:28:14 UTC	Andrew_UK, Asddsa76, Hunter, NoMercy, sjdrodge	31	6	30
-30852	3	28	Rainbow (6 Suits)	2019-04-18 — 21:48:47 UTC	Andrew_UK, Asddsa76, Hunter	196	6	30
-30849	3	29	Rainbow (6 Suits)	2019-04-18 — 21:09:39 UTC	Andrew_UK, Asddsa76, Hunter	282	6	30
+30862	5	23	No Variant	2019-04-18 — 23:29:09 UTC	Asddsa76, Hunter, NoMercy, sjdrodge, vanina93	52	5	25
+30856	5	29	Rainbow (6 Suits)	2019-04-18 — 22:28:14 UTC	Andrew_UK, Asddsa76, Hunter, NoMercy, sjdrodge	32	6	30
+30852	3	28	Rainbow (6 Suits)	2019-04-18 — 21:48:47 UTC	Andrew_UK, Asddsa76, Hunter	198	6	30
+30849	3	29	Rainbow (6 Suits)	2019-04-18 — 21:09:39 UTC	Andrew_UK, Asddsa76, Hunter	284	6	30
 30741	4	0	Rainbow (6 Suits)	2019-04-17 — 22:17:14 UTC	Andrew_UK, Asddsa76, Maiorskills, scharkbite	47	6	30
-30738	4	25	No Variant	2019-04-17 — 21:42:45 UTC	Andrew_UK, Asddsa76, Maiorskills, scharkbite	53	5	25
-30735	3	0	No Variant	2019-04-17 — 21:15:49 UTC	Andrew_UK, Asddsa76, Maiorskills	121	5	25
-30728	4	25	No Variant	2019-04-17 — 20:24:02 UTC	Andrew_UK, Asddsa76, Hunter, Maiorskills	74	5	25
-30393	4	23	Gray (6 Suits)	2019-04-16 — 07:30:37 UTC	Asddsa76, Mike, scharkbite, sjdrodge	18	6	30
-30386	4	0	Gray (6 Suits)	2019-04-16 — 07:01:28 UTC	Asddsa76, Mike, scharkbite, sjdrodge	22	6	30
+30738	4	25	No Variant	2019-04-17 — 21:42:45 UTC	Andrew_UK, Asddsa76, Maiorskills, scharkbite	55	5	25
+30735	3	0	No Variant	2019-04-17 — 21:15:49 UTC	Andrew_UK, Asddsa76, Maiorskills	127	5	25
+30728	4	25	No Variant	2019-04-17 — 20:24:02 UTC	Andrew_UK, Asddsa76, Hunter, Maiorskills	75	5	25
+30393	4	23	Gray (6 Suits)	2019-04-16 — 07:30:37 UTC	Asddsa76, Mike, scharkbite, sjdrodge	19	6	30
+30386	4	0	Gray (6 Suits)	2019-04-16 — 07:01:28 UTC	Asddsa76, Mike, scharkbite, sjdrodge	23	6	30
 30380	5	0	Brown (6 Suits)	2019-04-16 — 06:37:50 UTC	Asddsa76, Mike, scharkbite, sjdrodge, Zamiel	12	6	30
 30378	5	0	Brown (6 Suits)	2019-04-16 — 06:06:40 UTC	Asddsa76, Mike, scharkbite, sjdrodge, Zamiel	16	6	30
 30376	5	0	Brown (6 Suits)	2019-04-16 — 05:49:01 UTC	Asddsa76, Mike, RaKXeR, scharkbite, Zamiel	21	6	30
 30263	5	25	No Variant	2019-04-16 — 03:51:38 UTC	Asddsa76, Flamey, Hunter, wjomlex, Zamiel	3	5	25
 30219	5	24	No Variant	2019-04-16 — 03:22:05 UTC	Asddsa76, Flamey, Hunter, wjomlex, Zamiel	2	5	25
 30159	6	0	4 Suits	2019-04-16 — 02:09:38 UTC	Asddsa76, florrat2, Hunter, Libster, Razgovor, The Kaito Kid	4	4	20
-30154	5	0	No Variant	2019-04-16 — 01:44:46 UTC	Asddsa76, florrat2, Hunter, Libster, The Kaito Kid	3	5	25
+30154	5	0	No Variant	2019-04-16 — 01:44:46 UTC	Asddsa76, florrat2, Hunter, Libster, The Kaito Kid	4	5	25
 29511	6	18	4 Suits	2019-04-13 — 03:28:08 UTC	Asddsa76, Cory, IAMJEFF, Libster, sjdrodge, Zamiel	4	4	20
 29508	6	18	4 Suits	2019-04-13 — 02:59:22 UTC	Asddsa76, Cory, efaust, IAMJEFF, Libster, sjdrodge	6	4	20
 29506	6	20	No Variant	2019-04-13 — 02:26:05 UTC	Asddsa76, Cory, efaust, Libster, sjdrodge, snkylittleazn	32	5	25
 29483	5	27	6 Suits	2019-04-12 — 22:23:46 UTC	Asddsa76, Libster, NoMercy, sjdrodge, snkylittleazn	20	6	30
 29480	6	25	No Variant	2019-04-12 — 21:38:29 UTC	Asddsa76, Libster, NoMercy, RaKXeR, sjdrodge, snkylittleazn	36	5	25
-29477	4	0	No Variant	2019-04-12 — 21:09:52 UTC	Asddsa76, NoMercy, sjdrodge, snkylittleazn	190	5	25
+29477	4	0	No Variant	2019-04-12 — 21:09:52 UTC	Asddsa76, NoMercy, sjdrodge, snkylittleazn	192	5	25
 29353	4	30	Up or Down & White (6 Suits)	2019-04-12 — 03:49:09 UTC	Asddsa76, Razgovor, scharkbite, Zamiel	6	6	30
 29351	3	25	Dual-Color (5 Suits)	2019-04-12 — 03:22:04 UTC	Asddsa76, Razgovor, Zamiel	9	5	25
 29350	3	0	Dual-Color (5 Suits)	2019-04-12 — 03:07:43 UTC	Asddsa76, Razgovor, Zamiel	10	5	25
@@ -316,81 +316,81 @@
 29345	4	0	Pink-Fives (6 Suits)	2019-04-12 — 02:03:24 UTC	Asddsa76, Libster, Razgovor, Zamiel	2	6	30
 29344	4	0	Pink-Fives (6 Suits)	2019-04-12 — 01:52:57 UTC	Asddsa76, Libster, Razgovor, Zamiel	2	6	30
 29342	3	24	Dual-Color (5 Suits)	2019-04-12 — 01:38:36 UTC	Asddsa76, Libster, Zamiel	18	5	25
-29006	3	23	No Variant	2019-04-10 — 16:52:46 UTC	Asddsa76, Dato, scharkbite	111	5	25
-29003	3	23	No Variant	2019-04-10 — 16:27:42 UTC	Asddsa76, Dato, scharkbite	114	5	25
-29001	3	25	No Variant	2019-04-10 — 15:49:18 UTC	Asddsa76, Dato, scharkbite	137	5	25
-29000	3	25	No Variant	2019-04-10 — 15:22:07 UTC	Asddsa76, Dato, scharkbite	134	5	25
+29006	3	23	No Variant	2019-04-10 — 16:52:46 UTC	Asddsa76, Dato, scharkbite	116	5	25
+29003	3	23	No Variant	2019-04-10 — 16:27:42 UTC	Asddsa76, Dato, scharkbite	120	5	25
+29001	3	25	No Variant	2019-04-10 — 15:49:18 UTC	Asddsa76, Dato, scharkbite	142	5	25
+29000	3	25	No Variant	2019-04-10 — 15:22:07 UTC	Asddsa76, Dato, scharkbite	140	5	25
 28929	4	0	Dual-Color & Rainbow (6 Suits)	2019-04-10 — 02:49:38 UTC	Asddsa76, florrat2, Libster, Zamiel	1	6	30
 28914	4	0	Dual-Color & Rainbow (6 Suits)	2019-04-10 — 02:32:12 UTC	Asddsa76, florrat2, Libster, Zamiel	1	6	30
 28910	4	15	Dual-Color (3 Suits)	2019-04-10 — 02:04:21 UTC	Asddsa76, Libster, sjdrodge, Zamiel	1	3	15
 28907	4	0	Dual-Color (3 Suits)	2019-04-10 — 01:47:24 UTC	Asddsa76, Libster, sjdrodge, Zamiel	1	3	15
 28905	4	15	Color Blind (3 Suits)	2019-04-10 — 01:33:08 UTC	Asddsa76, Libster, sjdrodge, Zamiel	1	3	15
 28903	4	0	Color Blind (3 Suits)	2019-04-10 — 01:22:01 UTC	Asddsa76, Libster, sjdrodge, Zamiel	1	3	15
-28824	4	21	No Variant	2019-04-09 — 23:29:26 UTC	Andrew_UK, Asddsa76, Kakashi, scharkbite	103	5	25
-28749	3	23	No Variant	2019-04-09 — 19:09:21 UTC	Asddsa76, Dato, NoMercy	125	5	25
-28739	3	0	No Variant	2019-04-09 — 18:26:30 UTC	Asddsa76, Dato, NoMercy	141	5	25
+28824	4	21	No Variant	2019-04-09 — 23:29:26 UTC	Andrew_UK, Asddsa76, Kakashi, scharkbite	105	5	25
+28749	3	23	No Variant	2019-04-09 — 19:09:21 UTC	Asddsa76, Dato, NoMercy	129	5	25
+28739	3	0	No Variant	2019-04-09 — 18:26:30 UTC	Asddsa76, Dato, NoMercy	145	5	25
 28108	4	0	Very Ambiguous (6 Suits)	2019-04-07 — 13:46:52 UTC	Asddsa76, NoMercy, sjdrodge, wortel	5	6	30
 28107	4	0	Very Ambiguous (6 Suits)	2019-04-07 — 13:26:09 UTC	Asddsa76, NoMercy, sjdrodge, wortel	6	6	30
 28106	4	0	Very Ambiguous (6 Suits)	2019-04-07 — 13:05:21 UTC	Asddsa76, NoMercy, sjdrodge, wortel	8	6	30
 28059	4	0	Rainbow (5 Suits)	2019-04-06 — 22:21:23 UTC	Asddsa76, darkenblade986, sjdrodge, ThirdStrike	13	5	25
 28057	4	0	Rainbow (5 Suits)	2019-04-06 — 22:10:35 UTC	Asddsa76, darkenblade986, sjdrodge, ThirdStrike	12	5	25
 28056	4	0	Rainbow (5 Suits)	2019-04-06 — 22:02:52 UTC	Asddsa76, darkenblade986, sjdrodge, ThirdStrike	16	5	25
-27830	3	23	No Variant	2019-04-05 — 15:28:29 UTC	Andrew_UK, Asddsa76, vanina93	148	5	25
-27829	3	0	No Variant	2019-04-05 — 15:13:15 UTC	Andrew_UK, Asddsa76, vanina93	154	5	25
-27821	3	0	Rainbow (6 Suits)	2019-04-05 — 14:01:38 UTC	Asddsa76, Knoekie, NoMercy	53	6	30
-27820	3	0	Rainbow (6 Suits)	2019-04-05 — 13:29:08 UTC	Asddsa76, Knoekie, NoMercy	55	6	30
-27819	3	25	No Variant	2019-04-05 — 13:00:03 UTC	Asddsa76, Knoekie, NoMercy	151	5	25
-27818	3	25	No Variant	2019-04-05 — 12:21:00 UTC	Asddsa76, Knoekie, NoMercy	156	5	25
-27817	3	0	No Variant	2019-04-05 — 12:01:48 UTC	Asddsa76, Knoekie, NoMercy	157	5	25
+27830	3	23	No Variant	2019-04-05 — 15:28:29 UTC	Andrew_UK, Asddsa76, vanina93	149	5	25
+27829	3	0	No Variant	2019-04-05 — 15:13:15 UTC	Andrew_UK, Asddsa76, vanina93	157	5	25
+27821	3	0	Rainbow (6 Suits)	2019-04-05 — 14:01:38 UTC	Asddsa76, Knoekie, NoMercy	55	6	30
+27820	3	0	Rainbow (6 Suits)	2019-04-05 — 13:29:08 UTC	Asddsa76, Knoekie, NoMercy	57	6	30
+27819	3	25	No Variant	2019-04-05 — 13:00:03 UTC	Asddsa76, Knoekie, NoMercy	153	5	25
+27818	3	25	No Variant	2019-04-05 — 12:21:00 UTC	Asddsa76, Knoekie, NoMercy	158	5	25
+27817	3	0	No Variant	2019-04-05 — 12:01:48 UTC	Asddsa76, Knoekie, NoMercy	160	5	25
 27754	3	0	Dual-Color (5 Suits)	2019-04-04 — 23:01:49 UTC	Asddsa76, NoMercy, sjdrodge	31	5	25
 27753	3	0	Dual-Color (5 Suits)	2019-04-04 — 22:45:25 UTC	Asddsa76, NoMercy, sjdrodge	44	5	25
-27752	3	15	Dual-Color (3 Suits)	2019-04-04 — 22:29:07 UTC	Asddsa76, NoMercy, sjdrodge	30	3	15
+27752	3	15	Dual-Color (3 Suits)	2019-04-04 — 22:29:07 UTC	Asddsa76, NoMercy, sjdrodge	32	3	15
 27749	5	0	Rainbow (5 Suits)	2019-04-04 — 22:01:30 UTC	Asddsa76, darkenblade986, Kakashi, NoMercy, sjdrodge	34	5	25
 27744	5	20	4 Suits	2019-04-04 — 21:30:45 UTC	Andrew_UK, Asddsa76, darkenblade986, Kakashi, NoMercy	7	4	20
 27624	4	0	Up or Down & Rainbow (5 Suits)	2019-04-03 — 22:44:46 UTC	Asddsa76, color vs rank, Razgovor, sjdrodge	6	5	25
-27622	5	30	Rainbow (6 Suits)	2019-04-03 — 22:12:51 UTC	Andrew_UK, Asddsa76, Kakashi, NoMercy, Razgovor	59	6	30
+27622	5	30	Rainbow (6 Suits)	2019-04-03 — 22:12:51 UTC	Andrew_UK, Asddsa76, Kakashi, NoMercy, Razgovor	60	6	30
 27618	5	0	Rainbow (6 Suits)	2019-04-03 — 20:51:09 UTC	Andrew_UK, Asddsa76, Kakashi, NoMercy, Razgovor	83	6	30
-27355	3	25	No Variant	2019-04-02 — 14:19:45 UTC	Asddsa76, Knoekie, sjdrodge	160	5	25
-27354	3	0	No Variant	2019-04-02 — 13:49:33 UTC	Asddsa76, Knoekie, sjdrodge	167	5	25
-27353	3	0	No Variant	2019-04-02 — 13:28:27 UTC	Asddsa76, Knoekie, sjdrodge	164	5	25
-27351	3	22	No Variant	2019-04-02 — 13:09:54 UTC	Asddsa76, Knoekie, sjdrodge	170	5	25
-27349	3	21	No Variant	2019-04-02 — 12:39:21 UTC	Asddsa76, Knoekie, sjdrodge	175	5	25
-27348	3	25	Rainbow (5 Suits)	2019-04-02 — 11:51:18 UTC	Asddsa76, efaust, sjdrodge	14	5	25
+27355	3	25	No Variant	2019-04-02 — 14:19:45 UTC	Asddsa76, Knoekie, sjdrodge	163	5	25
+27354	3	0	No Variant	2019-04-02 — 13:49:33 UTC	Asddsa76, Knoekie, sjdrodge	170	5	25
+27353	3	0	No Variant	2019-04-02 — 13:28:27 UTC	Asddsa76, Knoekie, sjdrodge	167	5	25
+27351	3	22	No Variant	2019-04-02 — 13:09:54 UTC	Asddsa76, Knoekie, sjdrodge	173	5	25
+27349	3	21	No Variant	2019-04-02 — 12:39:21 UTC	Asddsa76, Knoekie, sjdrodge	176	5	25
+27348	3	25	Rainbow (5 Suits)	2019-04-02 — 11:51:18 UTC	Asddsa76, efaust, sjdrodge	15	5	25
 27154	5	0	No Variant	2019-04-01 — 20:03:22 UTC	Andrew_UK, Asddsa76, Kakashi, scharkbite, sjdrodge	44	5	25
-27141	4	25	No Variant	2019-04-01 — 19:22:13 UTC	Andrew_UK, Asddsa76, Kakashi, wortel	1092	5	25
-27002	4	25	No Variant	2019-03-31 — 21:02:29 UTC	Asddsa76, Doge, Kakashi, sjdrodge	793	5	25
-27000	3	25	No Variant	2019-03-31 — 20:24:28 UTC	Andrew_UK, Asddsa76, Kakashi	178	5	25
-26999	4	0	No Variant	2019-03-31 — 19:49:53 UTC	Andrew_UK, Asddsa76, darkenblade986, Kakashi	419	5	25
-26998	4	24	No Variant	2019-03-31 — 19:17:53 UTC	Andrew_UK, Asddsa76, darkenblade986, Kakashi	473	5	25
-26738	3	0	4 Suits	2019-03-31 — 00:30:41 UTC	Asddsa76, Kakashi, RaKXeR	70	4	20
-26509	5	24	No Variant	2019-03-29 — 20:42:52 UTC	Andrew_UK, Asddsa76, Kakashi, postmans, wortel	195	5	25
-26494	5	25	No Variant	2019-03-29 — 20:04:25 UTC	Andrew_UK, Asddsa76, Kakashi, postmans, wortel	223	5	25
-26485	4	25	No Variant	2019-03-29 — 19:27:20 UTC	Andrew_UK, Asddsa76, Kakashi, wortel	1449	5	25
-26483	4	0	No Variant	2019-03-29 — 19:00:48 UTC	Andrew_UK, Asddsa76, Kakashi, wortel	2076	5	25
+27141	4	25	No Variant	2019-04-01 — 19:22:13 UTC	Andrew_UK, Asddsa76, Kakashi, wortel	1103	5	25
+27002	4	25	No Variant	2019-03-31 — 21:02:29 UTC	Asddsa76, Doge, Kakashi, sjdrodge	800	5	25
+27000	3	25	No Variant	2019-03-31 — 20:24:28 UTC	Andrew_UK, Asddsa76, Kakashi	179	5	25
+26999	4	0	No Variant	2019-03-31 — 19:49:53 UTC	Andrew_UK, Asddsa76, darkenblade986, Kakashi	423	5	25
+26998	4	24	No Variant	2019-03-31 — 19:17:53 UTC	Andrew_UK, Asddsa76, darkenblade986, Kakashi	480	5	25
+26738	3	0	4 Suits	2019-03-31 — 00:30:41 UTC	Asddsa76, Kakashi, RaKXeR	71	4	20
+26509	5	24	No Variant	2019-03-29 — 20:42:52 UTC	Andrew_UK, Asddsa76, Kakashi, postmans, wortel	198	5	25
+26494	5	25	No Variant	2019-03-29 — 20:04:25 UTC	Andrew_UK, Asddsa76, Kakashi, postmans, wortel	226	5	25
+26485	4	25	No Variant	2019-03-29 — 19:27:20 UTC	Andrew_UK, Asddsa76, Kakashi, wortel	1459	5	25
+26483	4	0	No Variant	2019-03-29 — 19:00:48 UTC	Andrew_UK, Asddsa76, Kakashi, wortel	2094	5	25
 26371	3	15	3 Suits	2019-03-28 — 07:02:03 UTC	Asddsa76, efaust, sjdrodge	9	3	15
 26370	3	0	3 Suits	2019-03-28 — 06:49:14 UTC	Asddsa76, efaust, sjdrodge	9	3	15
-26273	4	28	Duck (6 Suits)	2019-03-27 — 21:17:23 UTC	Andrew_UK, Asddsa76, postmans, scharkbite	7	6	30
-26264	4	0	Duck (6 Suits)	2019-03-27 — 20:55:08 UTC	Andrew_UK, Asddsa76, postmans, scharkbite	7	6	30
-26259	4	0	Duck (6 Suits)	2019-03-27 — 20:46:00 UTC	Andrew_UK, Asddsa76, postmans, scharkbite	9	6	30
+26273	4	28	Duck (6 Suits)	2019-03-27 — 21:17:23 UTC	Andrew_UK, Asddsa76, postmans, scharkbite	8	6	30
+26264	4	0	Duck (6 Suits)	2019-03-27 — 20:55:08 UTC	Andrew_UK, Asddsa76, postmans, scharkbite	8	6	30
+26259	4	0	Duck (6 Suits)	2019-03-27 — 20:46:00 UTC	Andrew_UK, Asddsa76, postmans, scharkbite	10	6	30
 26220	3	24	Ambiguous & Rainbow (5 Suits)	2019-03-27 — 18:45:18 UTC	Andrew_UK, Asddsa76, scharkbite	4	5	25
-26182	5	0	No Variant	2019-03-27 — 11:26:47 UTC	Asddsa76, Dr_Kakashi, efaust, IAMJEFF, sjdrodge	207	5	25
-26181	5	0	No Variant	2019-03-27 — 10:40:55 UTC	Asddsa76, Dr_Kakashi, efaust, IAMJEFF, sjdrodge	262	5	25
+26182	5	0	No Variant	2019-03-27 — 11:26:47 UTC	Asddsa76, Dr_Kakashi, efaust, IAMJEFF, sjdrodge	208	5	25
+26181	5	0	No Variant	2019-03-27 — 10:40:55 UTC	Asddsa76, Dr_Kakashi, efaust, IAMJEFF, sjdrodge	265	5	25
 26179	4	20	4 Suits	2019-03-27 — 09:47:06 UTC	Asddsa76, Dr_Kakashi, efaust, sjdrodge	2	4	20
 26178	4	19	4 Suits	2019-03-27 — 09:18:54 UTC	Asddsa76, Dr_Kakashi, efaust, sjdrodge	2	4	20
 26176	5	18	4 Suits	2019-03-27 — 08:46:26 UTC	Asddsa76, Dr_Kakashi, efaust, NoMercy, sjdrodge	16	4	20
-25956	5	25	No Variant	2019-03-26 — 09:02:09 UTC	Asddsa76, Dr_Kakashi, IAMJEFF, NoMercy, sjdrodge	383	5	25
-25954	5	23	No Variant	2019-03-26 — 08:10:14 UTC	Asddsa76, Dr_Kakashi, IAMJEFF, NoMercy, sjdrodge	1510	5	25
-25760	3	23	No Variant	2019-03-25 — 21:07:01 UTC	Asddsa76, Razgovor, scharkbite	130	5	25
-25759	4	22	No Variant	2019-03-25 — 20:15:09 UTC	Asddsa76, hanabornoob, Razgovor, scharkbite	125	5	25
+25956	5	25	No Variant	2019-03-26 — 09:02:09 UTC	Asddsa76, Dr_Kakashi, IAMJEFF, NoMercy, sjdrodge	384	5	25
+25954	5	23	No Variant	2019-03-26 — 08:10:14 UTC	Asddsa76, Dr_Kakashi, IAMJEFF, NoMercy, sjdrodge	1518	5	25
+25760	3	23	No Variant	2019-03-25 — 21:07:01 UTC	Asddsa76, Razgovor, scharkbite	135	5	25
+25759	4	22	No Variant	2019-03-25 — 20:15:09 UTC	Asddsa76, hanabornoob, Razgovor, scharkbite	126	5	25
 25561	3	0	Dark Rainbow (5 Suits)	2019-03-24 — 20:22:25 UTC	Andrew_UK, Asddsa76, wortel	10	5	25
 25560	3	0	Black & Dark Rainbow (6 Suits)	2019-03-24 — 19:53:06 UTC	Andrew_UK, Asddsa76, wortel	5	6	30
 25557	4	24	Black & Dark Rainbow (6 Suits)	2019-03-24 — 19:25:09 UTC	Andrew_UK, Asddsa76, postmans, wortel	4	6	30
 25554	3	0	Black & Dark Rainbow (6 Suits)	2019-03-24 — 18:47:51 UTC	Andrew_UK, Asddsa76, wortel	4	6	30
-24575	3	25	No Variant	2019-03-21 — 02:06:23 UTC	Asddsa76, darkenblade986, scharkbite	187	5	25
-24571	3	23	No Variant	2019-03-21 — 01:45:45 UTC	Asddsa76, darkenblade986, scharkbite	194	5	25
-24526	3	22	No Variant	2019-03-20 — 08:47:27 UTC	Asddsa76, darkenblade986, IAMJEFF	201	5	25
-24523	3	0	No Variant	2019-03-20 — 08:24:34 UTC	Asddsa76, darkenblade986, IAMJEFF	451	5	25
-24520	3	0	No Variant	2019-03-20 — 08:06:13 UTC	Asddsa76, darkenblade986, IAMJEFF	624	5	25
+24575	3	25	No Variant	2019-03-21 — 02:06:23 UTC	Asddsa76, darkenblade986, scharkbite	189	5	25
+24571	3	23	No Variant	2019-03-21 — 01:45:45 UTC	Asddsa76, darkenblade986, scharkbite	198	5	25
+24526	3	22	No Variant	2019-03-20 — 08:47:27 UTC	Asddsa76, darkenblade986, IAMJEFF	203	5	25
+24523	3	0	No Variant	2019-03-20 — 08:24:34 UTC	Asddsa76, darkenblade986, IAMJEFF	456	5	25
+24520	3	0	No Variant	2019-03-20 — 08:06:13 UTC	Asddsa76, darkenblade986, IAMJEFF	632	5	25
 24396	4	18	4 Suits	2019-03-19 — 04:42:25 UTC	Asddsa76, Libster, micerang, sjdrodge	4	4	20
 24394	4	0	4 Suits	2019-03-19 — 04:12:11 UTC	Asddsa76, Libster, micerang, sjdrodge	6	4	20
 24392	3	19	4 Suits	2019-03-19 — 03:48:02 UTC	Asddsa76, micerang, sjdrodge	12	4	20
@@ -398,30 +398,30 @@
 24388	3	0	4 Suits	2019-03-19 — 03:09:45 UTC	Asddsa76, micerang, sjdrodge	13	4	20
 24271	4	25	No Variant	2019-03-18 — 03:20:14 UTC	Asddsa76, efaust, wortel, Zamiel	2	5	25
 24261	5	24	No Variant	2019-03-18 — 02:28:01 UTC	Asddsa76, efaust, mrguari, wjomlex, Zamiel	3	5	25
-24249	3	17	Rainbow (4 Suits)	2019-03-18 — 01:41:33 UTC	Asddsa76, efaust, kemurphy	46	4	20
-23572	4	23	Rainbow (5 Suits)	2019-03-16 — 09:35:11 UTC	Asddsa76, efaust, wortel, Zamiel	38	5	25
-23571	4	20	4 Suits	2019-03-16 — 09:05:31 UTC	Asddsa76, efaust, wortel, Zamiel	7	4	20
+24249	3	17	Rainbow (4 Suits)	2019-03-18 — 01:41:33 UTC	Asddsa76, efaust, kemurphy	48	4	20
+23572	4	23	Rainbow (5 Suits)	2019-03-16 — 09:35:11 UTC	Asddsa76, efaust, wortel, Zamiel	40	5	25
+23571	4	20	4 Suits	2019-03-16 — 09:05:31 UTC	Asddsa76, efaust, wortel, Zamiel	8	4	20
 23569	5	22	No Variant	2019-03-16 — 08:01:11 UTC	Asddsa76, efaust, Len, wortel, Zamiel	2	5	25
-23565	5	28	Black (6 Suits)	2019-03-16 — 06:59:06 UTC	Asddsa76, efaust, scharkbite, sjdrodge, wortel	101	6	30
+23565	5	28	Black (6 Suits)	2019-03-16 — 06:59:06 UTC	Asddsa76, efaust, scharkbite, sjdrodge, wortel	103	6	30
 23556	5	30	White (6 Suits)	2019-03-16 — 06:06:48 UTC	Asddsa76, efaust, scharkbite, sjdrodge, wortel	7	6	30
 23550	5	0	White (6 Suits)	2019-03-16 — 05:34:34 UTC	Asddsa76, efaust, scharkbite, sjdrodge, wortel	8	6	30
 23541	4	20	Ambiguous (4 Suits)	2019-03-16 — 04:56:38 UTC	Asddsa76, efaust, scharkbite, sjdrodge	7	4	20
 23537	4	19	Ambiguous (4 Suits)	2019-03-16 — 04:31:12 UTC	Asddsa76, efaust, scharkbite, sjdrodge	11	4	20
-23529	4	18	4 Suits	2019-03-16 — 04:04:56 UTC	Asddsa76, scharkbite, wjomlex, Zamiel	38	4	20
+23529	4	18	4 Suits	2019-03-16 — 04:04:56 UTC	Asddsa76, scharkbite, wjomlex, Zamiel	39	4	20
 23523	5	20	4 Suits	2019-03-16 — 03:44:22 UTC	Asddsa76, efaust, scharkbite, wjomlex, Zamiel	4	4	20
 23092	5	0	White (6 Suits)	2019-03-14 — 02:14:49 UTC	Asddsa76, Cory, doome_burner, sjdrodge, Yeesh	9	6	30
-23071	4	0	White (6 Suits)	2019-03-14 — 01:56:27 UTC	Asddsa76, Cory, doome_burner, sjdrodge	35	6	30
+23071	4	0	White (6 Suits)	2019-03-14 — 01:56:27 UTC	Asddsa76, Cory, doome_burner, sjdrodge	36	6	30
 23018	5	0	White (6 Suits)	2019-03-14 — 00:53:07 UTC	Andrew_UK, Asddsa76, efaust, Libster, sjdrodge	12	6	30
-23015	4	26	White (6 Suits)	2019-03-14 — 00:25:41 UTC	Andrew_UK, Asddsa76, efaust, sjdrodge	41	6	30
+23015	4	26	White (6 Suits)	2019-03-14 — 00:25:41 UTC	Andrew_UK, Asddsa76, efaust, sjdrodge	43	6	30
 23004	3	0	Very Ambiguous (6 Suits)	2019-03-13 — 23:23:15 UTC	Asddsa76, scharkbite, sjdrodge	18	6	30
 23002	3	0	Very Ambiguous (6 Suits)	2019-03-13 — 22:59:09 UTC	Asddsa76, scharkbite, sjdrodge	37	6	30
 23000	3	20	Ambiguous (4 Suits)	2019-03-13 — 22:39:20 UTC	Asddsa76, scharkbite, sjdrodge	19	4	20
 22596	3	24	Dark Rainbow (5 Suits)	2019-03-10 — 22:36:13 UTC	Andrew_UK, Asddsa76, doome_burner	13	5	25
 22557	3	0	Dark Rainbow (5 Suits)	2019-03-10 — 22:17:44 UTC	Andrew_UK, Asddsa76, doome_burner	21	5	25
 22533	3	22	Dark Rainbow (5 Suits)	2019-03-10 — 22:06:19 UTC	Andrew_UK, Asddsa76, doome_burner	20	5	25
-22258	3	24	Dual-Color (5 Suits)	2019-03-10 — 07:44:16 UTC	Asddsa76, NoMercy, wortel	69	5	25
-22257	4	25	No Variant	2019-03-10 — 07:09:36 UTC	Asddsa76, fivefives, Razgovor, wortel	198	5	25
-22239	3	18	White (4 Suits)	2019-03-10 — 04:22:44 UTC	Asddsa76, Hunter, scharkbite	18	4	20
+22258	3	24	Dual-Color (5 Suits)	2019-03-10 — 07:44:16 UTC	Asddsa76, NoMercy, wortel	70	5	25
+22257	4	25	No Variant	2019-03-10 — 07:09:36 UTC	Asddsa76, fivefives, Razgovor, wortel	199	5	25
+22239	3	18	White (4 Suits)	2019-03-10 — 04:22:44 UTC	Asddsa76, Hunter, scharkbite	19	4	20
 22234	4	0	Color Blind (6 Suits)	2019-03-10 — 03:55:44 UTC	Asddsa76, Hunter, Razgovor, scharkbite	2	6	30
 22232	4	20	Color Blind (4 Suits)	2019-03-10 — 03:27:22 UTC	Asddsa76, Cory, Hunter, scharkbite	4	4	20
 22231	4	25	Color Blind (5 Suits)	2019-03-10 — 03:00:36 UTC	Asddsa76, Cory, Hunter, scharkbite	2	5	25
@@ -430,14 +430,14 @@
 21675	4	0	White (6 Suits)	2019-03-07 — 22:55:51 UTC	Andrew_UK, Asddsa76, scharkbite, sjdrodge	2	6	30
 21672	4	0	Up or Down (6 Suits)	2019-03-07 — 22:29:02 UTC	Andrew_UK, Asddsa76, scharkbite, sjdrodge	15	6	30
 21671	4	0	Up or Down (6 Suits)	2019-03-07 — 22:06:49 UTC	Andrew_UK, Asddsa76, scharkbite, sjdrodge	19	6	30
-21669	3	0	Up or Down (5 Suits)	2019-03-07 — 21:53:35 UTC	Asddsa76, scharkbite, sjdrodge	24	5	25
+21669	3	0	Up or Down (5 Suits)	2019-03-07 — 21:53:35 UTC	Asddsa76, scharkbite, sjdrodge	26	5	25
 21615	6	24	No Variant	2019-03-07 — 04:10:52 UTC	Asddsa76, florrat2, Hunter, Libster, Razgovor, Yeesh	75	5	25
-21611	6	0	No Variant	2019-03-07 — 03:37:34 UTC	Asddsa76, Hunter, Libster, sjdrodge, Yeesh, Zamiel	91	5	25
-21609	6	0	No Variant	2019-03-07 — 03:08:41 UTC	Asddsa76, Hunter, Libster, Razgovor, sjdrodge, Zamiel	115	5	25
+21611	6	0	No Variant	2019-03-07 — 03:37:34 UTC	Asddsa76, Hunter, Libster, sjdrodge, Yeesh, Zamiel	92	5	25
+21609	6	0	No Variant	2019-03-07 — 03:08:41 UTC	Asddsa76, Hunter, Libster, Razgovor, sjdrodge, Zamiel	118	5	25
 21606	6	30	6 Suits	2019-03-07 — 02:43:03 UTC	Asddsa76, Cory, Libster, Razgovor, sjdrodge, Zamiel	7	6	30
 21604	5	29	Very Ambiguous (6 Suits)	2019-03-07 — 02:06:57 UTC	Asddsa76, Cory, NoMercy, sjdrodge, Zamiel	1	6	30
 21602	4	29	Very Ambiguous (6 Suits)	2019-03-07 — 01:32:28 UTC	Asddsa76, Cory, sjdrodge, Zamiel	2	6	30
-21601	4	27	White (6 Suits)	2019-03-07 — 00:57:40 UTC	Asddsa76, Cory, doome_burner, sjdrodge	60	6	30
+21601	4	27	White (6 Suits)	2019-03-07 — 00:57:40 UTC	Asddsa76, Cory, doome_burner, sjdrodge	62	6	30
 21600	5	0	Rainbow (3 Suits)	2019-03-07 — 00:25:50 UTC	Andrew_UK, Asddsa76, doome_burner, scharkbite, sjdrodge	5	3	15
 21599	5	0	3 Suits	2019-03-07 — 00:15:05 UTC	Andrew_UK, Asddsa76, doome_burner, scharkbite, sjdrodge	9	3	15
 21598	5	11	3 Suits	2019-03-07 — 00:06:07 UTC	Andrew_UK, Asddsa76, doome_burner, scharkbite, sjdrodge	8	3	15
@@ -446,24 +446,24 @@
 21585	4	23	Black & Dark Rainbow (6 Suits)	2019-03-06 — 20:34:33 UTC	Andrew_UK, Asddsa76, scharkbite, sjdrodge	2	6	30
 21580	4	0	Black & Dark Rainbow (6 Suits)	2019-03-06 — 19:48:34 UTC	Andrew_UK, Asddsa76, scharkbite, sjdrodge	2	6	30
 21577	4	0	Black & Dark Rainbow (6 Suits)	2019-03-06 — 19:27:50 UTC	Andrew_UK, Asddsa76, scharkbite, sjdrodge	2	6	30
-21536	4	0	No Variant	2019-03-06 — 01:07:31 UTC	Asddsa76, IAMJEFF, Libster, sjdrodge	23	5	25
-21535	5	0	White (6 Suits)	2019-03-06 — 00:35:59 UTC	Asddsa76, IAMJEFF, scharkbite, sjdrodge, Yeesh	20	6	30
+21536	4	0	No Variant	2019-03-06 — 01:07:31 UTC	Asddsa76, IAMJEFF, Libster, sjdrodge	25	5	25
+21535	5	0	White (6 Suits)	2019-03-06 — 00:35:59 UTC	Asddsa76, IAMJEFF, scharkbite, sjdrodge, Yeesh	21	6	30
 21531	6	0	6 Suits	2019-03-05 — 23:39:49 UTC	Andrew_UK, Asddsa76, Libster, scharkbite, sjdrodge, Yeesh	8	6	30
 21525	4	20	White (4 Suits)	2019-03-05 — 23:01:48 UTC	Andrew_UK, Asddsa76, scharkbite, sjdrodge	1	4	20
 21523	4	0	Black & Dark Rainbow (6 Suits)	2019-03-05 — 22:41:44 UTC	Andrew_UK, Asddsa76, scharkbite, sjdrodge	3	6	30
 21515	6	0	6 Suits	2019-03-05 — 21:20:32 UTC	Asddsa76, NoMercy, RaKXeR, Razgovor, scharkbite, sjdrodge	9	6	30
-21512	6	0	No Variant	2019-03-05 — 20:54:45 UTC	Asddsa76, NoMercy, RaKXeR, Razgovor, scharkbite, sjdrodge	179	5	25
+21512	6	0	No Variant	2019-03-05 — 20:54:45 UTC	Asddsa76, NoMercy, RaKXeR, Razgovor, scharkbite, sjdrodge	181	5	25
 21510	5	0	Rainbow (5 Suits)	2019-03-05 — 20:34:20 UTC	Asddsa76, RaKXeR, Razgovor, scharkbite, sjdrodge	4	5	25
-21508	4	24	Rainbow (5 Suits)	2019-03-05 — 20:01:58 UTC	Asddsa76, RaKXeR, Razgovor, sjdrodge	26	5	25
-21507	3	0	Rainbow (5 Suits)	2019-03-05 — 19:38:08 UTC	Asddsa76, Razgovor, sjdrodge	22	5	25
+21508	4	24	Rainbow (5 Suits)	2019-03-05 — 20:01:58 UTC	Asddsa76, RaKXeR, Razgovor, sjdrodge	28	5	25
+21507	3	0	Rainbow (5 Suits)	2019-03-05 — 19:38:08 UTC	Asddsa76, Razgovor, sjdrodge	23	5	25
 21457	3	29	Black & Dark Rainbow (6 Suits)	2019-03-04 — 23:11:20 UTC	Andrew_UK, Asddsa76, scharkbite	4	6	30
 21447	3	0	Black & Dark Rainbow (6 Suits)	2019-03-04 — 22:45:31 UTC	Andrew_UK, Asddsa76, scharkbite	4	6	30
-21442	3	23	Rainbow (5 Suits)	2019-03-04 — 22:31:36 UTC	Andrew_UK, Asddsa76, scharkbite	22	5	25
-21434	5	0	Rainbow (6 Suits)	2019-03-04 — 22:14:54 UTC	Andrew_UK, Asddsa76, RaKXeR, scharkbite, Zy	67	6	30
+21442	3	23	Rainbow (5 Suits)	2019-03-04 — 22:31:36 UTC	Andrew_UK, Asddsa76, scharkbite	24	5	25
+21434	5	0	Rainbow (6 Suits)	2019-03-04 — 22:14:54 UTC	Andrew_UK, Asddsa76, RaKXeR, scharkbite, Zy	68	6	30
 21425	5	0	Rainbow (5 Suits)	2019-03-04 — 21:58:47 UTC	Andrew_UK, Asddsa76, RaKXeR, scharkbite, Zy	12	5	25
-21417	3	0	Rainbow (5 Suits)	2019-03-04 — 21:38:13 UTC	Asddsa76, scharkbite, Zy	21	5	25
-21410	3	25	Rainbow (5 Suits)	2019-03-04 — 21:19:09 UTC	Asddsa76, scharkbite, Zy	27	5	25
-21404	3	25	Rainbow (5 Suits)	2019-03-04 — 21:01:59 UTC	Asddsa76, scharkbite, Zy	31	5	25
+21417	3	0	Rainbow (5 Suits)	2019-03-04 — 21:38:13 UTC	Asddsa76, scharkbite, Zy	23	5	25
+21410	3	25	Rainbow (5 Suits)	2019-03-04 — 21:19:09 UTC	Asddsa76, scharkbite, Zy	29	5	25
+21404	3	25	Rainbow (5 Suits)	2019-03-04 — 21:01:59 UTC	Asddsa76, scharkbite, Zy	33	5	25
 21038	5	0	Ambiguous & Rainbow (5 Suits)	2019-03-01 — 20:42:18 UTC	Andrew_UK, Asddsa76, Razgovor, scharkbite, Zamiel	5	5	25
 21027	3	0	Black & Dark Rainbow (6 Suits)	2019-03-01 — 19:47:26 UTC	Andrew_UK, Asddsa76, scharkbite	4	6	30
 21026	3	0	Black & Dark Rainbow (6 Suits)	2019-03-01 — 19:41:15 UTC	Andrew_UK, Asddsa76, scharkbite	4	6	30
@@ -472,47 +472,47 @@
 20947	4	20	White (4 Suits)	2019-02-28 — 22:35:56 UTC	Andrew_UK, Asddsa76, NoMercy, sjdrodge	6	4	20
 20946	4	0	White (4 Suits)	2019-02-28 — 22:21:43 UTC	Andrew_UK, Asddsa76, NoMercy, sjdrodge	7	4	20
 20945	4	0	White (4 Suits)	2019-02-28 — 22:00:49 UTC	Andrew_UK, Asddsa76, NoMercy, sjdrodge	13	4	20
-20943	4	20	4 Suits	2019-02-28 — 21:37:51 UTC	Andrew_UK, Asddsa76, NoMercy, sjdrodge	51	4	20
-20939	4	19	4 Suits	2019-02-28 — 21:13:58 UTC	Andrew_UK, Asddsa76, NoMercy, sjdrodge	101	4	20
-20886	5	24	No Variant	2019-02-28 — 00:47:53 UTC	Asddsa76, doome_burner, Libster, NoMercy, sjdrodge	2	5	25
+20943	4	20	4 Suits	2019-02-28 — 21:37:51 UTC	Andrew_UK, Asddsa76, NoMercy, sjdrodge	52	4	20
+20939	4	19	4 Suits	2019-02-28 — 21:13:58 UTC	Andrew_UK, Asddsa76, NoMercy, sjdrodge	104	4	20
+20886	5	24	No Variant	2019-02-28 — 00:47:53 UTC	Asddsa76, doome_burner, Libster, NoMercy, sjdrodge	3	5	25
 20885	4	15	Rainbow (3 Suits)	2019-02-28 — 00:21:12 UTC	Asddsa76, doome_burner, Libster, NoMercy	2	3	15
-20884	4	0	Rainbow (3 Suits)	2019-02-28 — 00:08:36 UTC	Asddsa76, doome_burner, Libster, NoMercy	10	3	15
+20884	4	0	Rainbow (3 Suits)	2019-02-28 — 00:08:36 UTC	Asddsa76, doome_burner, Libster, NoMercy	11	3	15
 20883	6	26	Black (6 Suits)	2019-02-27 — 23:40:37 UTC	Andrew_UK, Asddsa76, doome_burner, Libster, NoMercy, sjdrodge	38	6	30
 20881	5	0	Black (6 Suits)	2019-02-27 — 23:11:46 UTC	Andrew_UK, Asddsa76, doome_burner, Libster, sjdrodge	4	6	30
 20877	5	0	Black (6 Suits)	2019-02-27 — 22:39:21 UTC	Andrew_UK, Asddsa76, Hyakinthus, Razgovor, sjdrodge	58	6	30
 20876	5	17	4 Suits	2019-02-27 — 22:08:06 UTC	Asddsa76, Hyakinthus, NoMercy, Razgovor, sjdrodge	47	4	20
 20873	3	18	4 Suits	2019-02-27 — 21:37:34 UTC	Asddsa76, Hyakinthus, sjdrodge	90	4	20
-20714	3	25	Rainbow (5 Suits)	2019-02-25 — 17:41:40 UTC	Asddsa76, wortel, Zamiel	43	5	25
-20711	3	0	Rainbow (5 Suits)	2019-02-25 — 16:43:36 UTC	Asddsa76, wortel, Zamiel	50	5	25
+20714	3	25	Rainbow (5 Suits)	2019-02-25 — 17:41:40 UTC	Asddsa76, wortel, Zamiel	44	5	25
+20711	3	0	Rainbow (5 Suits)	2019-02-25 — 16:43:36 UTC	Asddsa76, wortel, Zamiel	51	5	25
 20710	3	25	No Variant	2019-02-25 — 16:05:44 UTC	Asddsa76, wortel, Zamiel	7	5	25
 20709	3	25	No Variant	2019-02-25 — 15:41:42 UTC	Asddsa76, wortel, Zamiel	7	5	25
 20707	3	0	No Variant	2019-02-25 — 15:22:54 UTC	Asddsa76, wortel, Zamiel	7	5	25
-20681	4	24	Rainbow (5 Suits)	2019-02-25 — 04:07:31 UTC	Asddsa76, Cory, scharkbite, sjdrodge	29	5	25
+20681	4	24	Rainbow (5 Suits)	2019-02-25 — 04:07:31 UTC	Asddsa76, Cory, scharkbite, sjdrodge	30	5	25
 20679	5	0	Rainbow (5 Suits)	2019-02-25 — 03:38:23 UTC	Asddsa76, Cory, doome_burner, scharkbite, sjdrodge	14	5	25
-20678	5	0	Rainbow (5 Suits)	2019-02-25 — 03:29:55 UTC	Asddsa76, Cory, doome_burner, scharkbite, sjdrodge	17	5	25
+20678	5	0	Rainbow (5 Suits)	2019-02-25 — 03:29:55 UTC	Asddsa76, Cory, doome_burner, scharkbite, sjdrodge	18	5	25
 20677	6	0	6 Suits	2019-02-25 — 02:52:43 UTC	Asddsa76, Cory, doome_burner, scharkbite, sjdrodge, Zamiel	84	6	30
-20656	4	0	Black (5 Suits)	2019-02-24 — 23:52:09 UTC	Andrew_UK, Asddsa76, Hunter, scharkbite	79	5	25
-20655	5	0	No Variant	2019-02-24 — 23:30:34 UTC	Andrew_UK, Asddsa76, doome_burner, Hunter, scharkbite	344	5	25
-20652	5	0	No Variant	2019-02-24 — 23:10:38 UTC	Andrew_UK, Asddsa76, doome_burner, Hunter, scharkbite	457	5	25
-20647	6	19	Black (5 Suits)	2019-02-24 — 22:05:33 UTC	Andrew_UK, Asddsa76, doome_burner, Hunter, scharkbite, Yeesh	9	5	25
+20656	4	0	Black (5 Suits)	2019-02-24 — 23:52:09 UTC	Andrew_UK, Asddsa76, Hunter, scharkbite	80	5	25
+20655	5	0	No Variant	2019-02-24 — 23:30:34 UTC	Andrew_UK, Asddsa76, doome_burner, Hunter, scharkbite	348	5	25
+20652	5	0	No Variant	2019-02-24 — 23:10:38 UTC	Andrew_UK, Asddsa76, doome_burner, Hunter, scharkbite	461	5	25
+20647	6	19	Black (5 Suits)	2019-02-24 — 22:05:33 UTC	Andrew_UK, Asddsa76, doome_burner, Hunter, scharkbite, Yeesh	10	5	25
 20642	5	20	Black (5 Suits)	2019-02-24 — 21:32:51 UTC	Andrew_UK, Asddsa76, Hunter, scharkbite, Yeesh	12	5	25
 20614	3	0	Rainbow (6 Suits)	2019-02-24 — 07:24:23 UTC	Asddsa76, sjdrodge, wortel	120	6	30
-20612	4	29	Rainbow (6 Suits)	2019-02-24 — 06:37:48 UTC	Asddsa76, scharkbite, wortel, Yeesh	76	6	30
+20612	4	29	Rainbow (6 Suits)	2019-02-24 — 06:37:48 UTC	Asddsa76, scharkbite, wortel, Yeesh	77	6	30
 20604	4	25	Black (6 Suits)	2019-02-24 — 05:55:32 UTC	Asddsa76, Hunter, scharkbite, Yeesh	49	6	30
 20603	4	30	Black (6 Suits)	2019-02-24 — 05:18:54 UTC	Asddsa76, Hunter, scharkbite, Yeesh	55	6	30
-20600	3	0	Black (5 Suits)	2019-02-24 — 04:51:40 UTC	Asddsa76, Hunter, Yeesh	71	5	25
-20568	5	25	No Variant	2019-02-23 — 18:25:09 UTC	Asddsa76, doome_burner, Hunter, scharkbite, wortel	541	5	25
-20567	5	24	No Variant	2019-02-23 — 17:35:43 UTC	Asddsa76, Hunter, RaKXeR, scharkbite, wortel	296	5	25
-20566	3	0	Rainbow (5 Suits)	2019-02-23 — 16:47:45 UTC	Asddsa76, Hunter, RaKXeR	84	5	25
+20600	3	0	Black (5 Suits)	2019-02-24 — 04:51:40 UTC	Asddsa76, Hunter, Yeesh	73	5	25
+20568	5	25	No Variant	2019-02-23 — 18:25:09 UTC	Asddsa76, doome_burner, Hunter, scharkbite, wortel	546	5	25
+20567	5	24	No Variant	2019-02-23 — 17:35:43 UTC	Asddsa76, Hunter, RaKXeR, scharkbite, wortel	302	5	25
+20566	3	0	Rainbow (5 Suits)	2019-02-23 — 16:47:45 UTC	Asddsa76, Hunter, RaKXeR	87	5	25
 20557	3	23	Dark Rainbow (6 Suits)	2019-02-23 — 06:35:56 UTC	Asddsa76, Hunter, scharkbite	91	6	30
 20553	5	23	Rainbow (5 Suits)	2019-02-23 — 05:06:12 UTC	Asddsa76, doome_burner, Hunter, Razgovor, scharkbite	22	5	25
 20551	5	0	Rainbow (5 Suits)	2019-02-23 — 04:06:20 UTC	Asddsa76, doome_burner, Hunter, Razgovor, Yeesh	23	5	25
 20548	4	25	No Variant	2019-02-23 — 03:26:48 UTC	Asddsa76, Razgovor, The Kaito Kid, Yeesh	204	5	25
-20505	3	29	Black (6 Suits)	2019-02-22 — 04:16:35 UTC	Asddsa76, scharkbite, sjdrodge	97	6	30
-20502	3	25	Black (6 Suits)	2019-02-22 — 03:39:12 UTC	Asddsa76, scharkbite, sjdrodge	193	6	30
-20500	3	25	Rainbow (5 Suits)	2019-02-22 — 02:58:20 UTC	Asddsa76, Razgovor, Yeesh	39	5	25
-20490	3	0	Rainbow (5 Suits)	2019-02-22 — 00:08:09 UTC	Asddsa76, Hyakinthus, Libster	57	5	25
-20488	3	25	Rainbow (5 Suits)	2019-02-21 — 23:50:09 UTC	Asddsa76, Hyakinthus, Libster	56	5	25
+20505	3	29	Black (6 Suits)	2019-02-22 — 04:16:35 UTC	Asddsa76, scharkbite, sjdrodge	100	6	30
+20502	3	25	Black (6 Suits)	2019-02-22 — 03:39:12 UTC	Asddsa76, scharkbite, sjdrodge	196	6	30
+20500	3	25	Rainbow (5 Suits)	2019-02-22 — 02:58:20 UTC	Asddsa76, Razgovor, Yeesh	40	5	25
+20490	3	0	Rainbow (5 Suits)	2019-02-22 — 00:08:09 UTC	Asddsa76, Hyakinthus, Libster	59	5	25
+20488	3	25	Rainbow (5 Suits)	2019-02-21 — 23:50:09 UTC	Asddsa76, Hyakinthus, Libster	57	5	25
 20401	6	0	Rainbow (6 Suits)	2019-02-20 — 01:32:19 UTC	Asddsa76, NoMercy, Razgovor, sjdrodge, Yeesh, Zamiel	33	6	30
 20399	4	22	No Variant	2019-02-20 — 01:03:19 UTC	Asddsa76, Razgovor, sjdrodge, Zamiel	2	5	25
 20397	5	24	No Variant	2019-02-20 — 00:06:08 UTC	Asddsa76, doome_burner, scharkbite, sjdrodge, Zamiel	2	5	25
@@ -522,48 +522,48 @@
 20352	5	24	No Variant	2019-02-18 — 20:49:56 UTC	Andrew_UK, Asddsa76, Libster, Razgovor, Yeesh	3	5	25
 20349	5	0	Color Blind (5 Suits)	2019-02-18 — 20:08:00 UTC	Andrew_UK, Asddsa76, Libster, Razgovor, Yeesh	1	5	25
 20305	4	28	6 Suits	2019-02-17 — 21:30:40 UTC	Asddsa76, doome_burner, Hunter, Libster	10	6	30
-20301	4	29	6 Suits	2019-02-17 — 20:49:06 UTC	Asddsa76, Hunter, Libster, wortel	10	6	30
+20301	4	29	6 Suits	2019-02-17 — 20:49:06 UTC	Asddsa76, Hunter, Libster, wortel	11	6	30
 20292	4	0	Rainbow (5 Suits)	2019-02-17 — 20:10:51 UTC	Asddsa76, doome_burner, Hunter, wortel	42	5	25
-20288	4	0	White (5 Suits)	2019-02-17 — 19:42:40 UTC	Asddsa76, doome_burner, Hunter, wortel	32	5	25
-20285	6	0	No Variant	2019-02-17 — 19:24:35 UTC	Andrew_UK, Asddsa76, doome_burner, Hunter, scharkbite, wortel	282	5	25
+20288	4	0	White (5 Suits)	2019-02-17 — 19:42:40 UTC	Asddsa76, doome_burner, Hunter, wortel	33	5	25
+20285	6	0	No Variant	2019-02-17 — 19:24:35 UTC	Andrew_UK, Asddsa76, doome_burner, Hunter, scharkbite, wortel	284	5	25
 20282	6	27	White (6 Suits)	2019-02-17 — 18:48:42 UTC	Andrew_UK, Asddsa76, doome_burner, Hunter, scharkbite, wortel	12	6	30
 20279	5	0	Rainbow (5 Suits)	2019-02-17 — 18:04:39 UTC	Andrew_UK, Asddsa76, doome_burner, Hunter, scharkbite	26	5	25
 20278	4	0	Up or Down (6 Suits)	2019-02-17 — 17:37:02 UTC	Andrew_UK, Asddsa76, Hunter, scharkbite	40	6	30
-20277	3	0	Up or Down (6 Suits)	2019-02-17 — 17:03:55 UTC	Asddsa76, Hunter, scharkbite	34	6	30
+20277	3	0	Up or Down (6 Suits)	2019-02-17 — 17:03:55 UTC	Asddsa76, Hunter, scharkbite	35	6	30
 20276	3	30	Rainbow (6 Suits)	2019-02-17 — 16:35:20 UTC	Asddsa76, Hunter, scharkbite	11	6	30
 20264	4	0	Up or Down (5 Suits)	2019-02-17 — 00:39:22 UTC	Asddsa76, doome_burner, Hunter, Razgovor	25	5	25
 20263	4	0	Up or Down (5 Suits)	2019-02-17 — 00:22:10 UTC	Asddsa76, doome_burner, Hunter, Razgovor	27	5	25
-20261	3	0	Up or Down (5 Suits)	2019-02-17 — 00:04:15 UTC	Asddsa76, Hunter, Razgovor	25	5	25
-19718	3	25	No Variant	2019-02-13 — 22:39:13 UTC	Asddsa76, scharkbite, sjdrodge	680	5	25
+20261	3	0	Up or Down (5 Suits)	2019-02-17 — 00:04:15 UTC	Asddsa76, Hunter, Razgovor	27	5	25
+19718	3	25	No Variant	2019-02-13 — 22:39:13 UTC	Asddsa76, scharkbite, sjdrodge	688	5	25
 19716	3	30	6 Suits	2019-02-13 — 22:02:06 UTC	Asddsa76, scharkbite, sjdrodge	36	6	30
 19712	3	0	6 Suits	2019-02-13 — 21:33:39 UTC	Asddsa76, scharkbite, sjdrodge	37	6	30
 19707	4	0	6 Suits	2019-02-13 — 21:08:34 UTC	Andrew_UK, Asddsa76, scharkbite, sjdrodge	100	6	30
-19685	4	0	6 Suits	2019-02-13 — 20:29:53 UTC	Andrew_UK, Asddsa76, scharkbite, sjdrodge	120	6	30
+19685	4	0	6 Suits	2019-02-13 — 20:29:53 UTC	Andrew_UK, Asddsa76, scharkbite, sjdrodge	122	6	30
 19672	3	0	Black (5 Suits)	2019-02-13 — 17:48:57 UTC	Asddsa76, postmans, RaKXeR	84	5	25
 19514	3	0	Ambiguous & Rainbow (5 Suits)	2019-02-12 — 19:16:45 UTC	Asddsa76, Libster, Yeesh	5	5	25
 19481	3	24	Rainbow (5 Suits)	2019-02-11 — 22:12:48 UTC	Asddsa76, Razgovor, sjdrodge	74	5	25
-19480	3	25	No Variant	2019-02-11 — 21:34:22 UTC	Asddsa76, Razgovor, sjdrodge	206	5	25
-19477	3	0	No Variant	2019-02-11 — 20:52:43 UTC	Asddsa76, color vs rank, Razgovor	259	5	25
-19475	4	0	No Variant	2019-02-11 — 20:41:38 UTC	Andrew_UK, Asddsa76, color vs rank, Razgovor	601	5	25
+19480	3	25	No Variant	2019-02-11 — 21:34:22 UTC	Asddsa76, Razgovor, sjdrodge	209	5	25
+19477	3	0	No Variant	2019-02-11 — 20:52:43 UTC	Asddsa76, color vs rank, Razgovor	261	5	25
+19475	4	0	No Variant	2019-02-11 — 20:41:38 UTC	Andrew_UK, Asddsa76, color vs rank, Razgovor	606	5	25
 19400	3	0	Ambiguous & Rainbow (5 Suits)	2019-02-10 — 20:24:03 UTC	Asddsa76, color vs rank, Libster	7	5	25
 19398	3	0	Ambiguous & Rainbow (5 Suits)	2019-02-10 — 20:08:22 UTC	Asddsa76, color vs rank, Libster	9	5	25
 19396	3	0	Ambiguous & Rainbow (5 Suits)	2019-02-10 — 19:50:03 UTC	Asddsa76, color vs rank, Libster	13	5	25
 19394	3	25	Ambiguous & White (5 Suits)	2019-02-10 — 19:33:47 UTC	Asddsa76, color vs rank, Libster	10	5	25
 19391	5	19	White (4 Suits)	2019-02-10 — 18:58:33 UTC	Asddsa76, Cory, Libster, postmans, screamkthxbye	4	4	20
-19259	5	23	No Variant	2019-02-08 — 23:45:31 UTC	Asddsa76, Cory, Maco_, NoMercy, Zamiel	5	5	25
+19259	5	23	No Variant	2019-02-08 — 23:45:31 UTC	Asddsa76, Cory, Maco_, NoMercy, Zamiel	6	5	25
 19258	5	25	No Variant	2019-02-08 — 23:17:57 UTC	Asddsa76, Maco_, NoMercy, Razgowut, Zamiel	6	5	25
 19199	4	0	Up or Down & White (5 Suits)	2019-02-07 — 22:52:12 UTC	Asddsa76, Cory, RaKXeR, scharkbite	11	5	25
 19198	5	24	No Variant	2019-02-07 — 22:17:03 UTC	Asddsa76, Darth_Calculus, Razgowut, scharkbite, Zamiel	5	5	25
 19197	4	0	No Variant	2019-02-07 — 21:55:12 UTC	Asddsa76, Darth_Calculus, scharkbite, Zamiel	2	5	25
 19127	3	26	Clue Starved (6 Suits)	2019-02-07 — 01:34:52 UTC	Asddsa76, clue number, NoMercy	11	6	30
 19125	3	0	Clue Starved (6 Suits)	2019-02-07 — 01:12:46 UTC	Asddsa76, clue number, NoMercy	13	6	30
-19124	3	30	Black (6 Suits)	2019-02-07 — 00:57:27 UTC	Asddsa76, clue number, grayfox	325	6	30
-19121	3	22	Black (5 Suits)	2019-02-07 — 00:33:22 UTC	Asddsa76, Cory, grayfox	134	5	25
+19124	3	30	Black (6 Suits)	2019-02-07 — 00:57:27 UTC	Asddsa76, clue number, grayfox	332	6	30
+19121	3	22	Black (5 Suits)	2019-02-07 — 00:33:22 UTC	Asddsa76, Cory, grayfox	135	5	25
 19119	3	12	Color Blind (3 Suits)	2019-02-07 — 00:13:43 UTC	Asddsa76, Cory, grayfox	5	3	15
 19116	4	20	Rainbow (4 Suits)	2019-02-06 — 23:24:36 UTC	Asddsa76, Cory, Razgovor, scharkbite	17	4	20
-18807	3	0	Rainbow (5 Suits)	2019-01-31 — 18:49:36 UTC	Asddsa76, Mike, Razgovor	116	5	25
-18805	4	0	No Variant	2019-01-31 — 18:33:24 UTC	Asddsa76, DrJones, Mike, Razgovor	1253	5	25
-18803	4	0	White (5 Suits)	2019-01-31 — 18:22:24 UTC	Asddsa76, DrJones, Libster, Razgovor	22	5	25
+18807	3	0	Rainbow (5 Suits)	2019-01-31 — 18:49:36 UTC	Asddsa76, Mike, Razgovor	119	5	25
+18805	4	0	No Variant	2019-01-31 — 18:33:24 UTC	Asddsa76, DrJones, Mike, Razgovor	1267	5	25
+18803	4	0	White (5 Suits)	2019-01-31 — 18:22:24 UTC	Asddsa76, DrJones, Libster, Razgovor	23	5	25
 18802	4	0	White (5 Suits)	2019-01-31 — 18:08:24 UTC	Asddsa76, DrJones, Libster, Razgovor	31	5	25
 18799	4	0	White (5 Suits)	2019-01-31 — 17:37:54 UTC	Asddsa76, DrJones, Libster, postmans	60	5	25
 18796	5	0	White (4 Suits)	2019-01-31 — 17:15:05 UTC	Asddsa76, DrJones, Libster, Razgovor, theworstplayer	5	4	20
@@ -575,56 +575,56 @@
 18771	4	0	Dark Rainbow (5 Suits)	2019-01-31 — 01:49:49 UTC	Asddsa76, grayfox, Razgovor, Zamiel	9	5	25
 18770	4	24	Dark Rainbow (5 Suits)	2019-01-31 — 01:29:07 UTC	Asddsa76, grayfox, Razgovor, Zamiel	13	5	25
 18670	3	25	Rainbow (5 Suits)	2019-01-30 — 01:18:00 UTC	Asddsa76, theworstplayer, Yeesh	135	5	25
-18643	3	25	White (5 Suits)	2019-01-29 — 03:43:52 UTC	Asddsa76, Libster, Razgovor	41	5	25
+18643	3	25	White (5 Suits)	2019-01-29 — 03:43:52 UTC	Asddsa76, Libster, Razgovor	44	5	25
 18638	4	0	Pink-Fives (5 Suits)	2019-01-29 — 03:07:29 UTC	Asddsa76, florrat2, Hunter, Razgovor	2	5	25
 18637	4	0	Pink-Fives (5 Suits)	2019-01-29 — 02:48:38 UTC	Asddsa76, florrat2, Hunter, Razgovor	2	5	25
-18635	3	9	Up or Down (6 Suits)	2019-01-29 — 02:35:40 UTC	Asddsa76, florrat2, Hunter	41	6	30
-18634	3	20	4 Suits	2019-01-29 — 02:19:45 UTC	Asddsa76, florrat2, Hunter	118	4	20
-18611	3	0	No Variant	2019-01-28 — 21:56:01 UTC	Andrew_UK, Asddsa76, DrJones	199	5	25
-18610	3	0	No Variant	2019-01-28 — 21:33:50 UTC	Asddsa76, DrJones, postmans	750	5	25
-18609	5	23	No Variant	2019-01-28 — 20:49:21 UTC	Asddsa76, DrJones, Libster, postmans, Razgovor	3	5	25
+18635	3	9	Up or Down (6 Suits)	2019-01-29 — 02:35:40 UTC	Asddsa76, florrat2, Hunter	42	6	30
+18634	3	20	4 Suits	2019-01-29 — 02:19:45 UTC	Asddsa76, florrat2, Hunter	120	4	20
+18611	3	0	No Variant	2019-01-28 — 21:56:01 UTC	Andrew_UK, Asddsa76, DrJones	202	5	25
+18610	3	0	No Variant	2019-01-28 — 21:33:50 UTC	Asddsa76, DrJones, postmans	757	5	25
+18609	5	23	No Variant	2019-01-28 — 20:49:21 UTC	Asddsa76, DrJones, Libster, postmans, Razgovor	4	5	25
 18544	5	0	Pink-Fives & Rainbow (6 Suits)	2019-01-27 — 05:48:42 UTC	Asddsa76, Hunter, Libster, RaKXeR, Zamiel	2	6	30
 18543	5	0	Pink-Fives & Rainbow (6 Suits)	2019-01-27 — 05:31:06 UTC	Asddsa76, Hunter, Libster, RaKXeR, Zamiel	3	6	30
 18494	4	24	Rainbow (5 Suits)	2019-01-26 — 22:48:02 UTC	Andrew_UK, Asddsa76, Hunter, Yeesh	54	5	25
 18491	4	22	Rainbow (5 Suits)	2019-01-26 — 22:01:03 UTC	Andrew_UK, Asddsa76, Hunter, Yeesh	63	5	25
 18411	3	0	Black & Dark Rainbow (6 Suits)	2019-01-26 — 00:03:27 UTC	Asddsa76, DrJones, grayfox	7	6	30
 18409	3	0	Black & Dark Rainbow (6 Suits)	2019-01-25 — 23:38:31 UTC	Asddsa76, DrJones, grayfox	7	6	30
-18408	4	25	No Variant	2019-01-25 — 23:26:20 UTC	Asddsa76, DrJones, grayfox, scharkbite	442	5	25
-18406	4	0	No Variant	2019-01-25 — 22:39:04 UTC	Asddsa76, DrJones, grayfox, scharkbite	501	5	25
+18408	4	25	No Variant	2019-01-25 — 23:26:20 UTC	Asddsa76, DrJones, grayfox, scharkbite	448	5	25
+18406	4	0	No Variant	2019-01-25 — 22:39:04 UTC	Asddsa76, DrJones, grayfox, scharkbite	507	5	25
 18376	3	27	Clue Starved (6 Suits)	2019-01-25 — 04:13:57 UTC	Asddsa76, grayfox, scharkbite	20	6	30
-18365	5	30	6 Suits	2019-01-25 — 03:16:33 UTC	Asddsa76, DrJones, grayfox, Hunter, scharkbite	199	6	30
+18365	5	30	6 Suits	2019-01-25 — 03:16:33 UTC	Asddsa76, DrJones, grayfox, Hunter, scharkbite	203	6	30
 18357	5	12	3 Suits	2019-01-25 — 02:29:20 UTC	Asddsa76, DrJones, grayfox, Hunter, scharkbite	11	3	15
-18350	4	20	No Variant	2019-01-25 — 01:51:55 UTC	Asddsa76, DrJones, Hunter, scharkbite	541	5	25
-18349	5	21	No Variant	2019-01-25 — 01:09:02 UTC	Asddsa76, DrJones, grayfox, kirkir, scharkbite	658	5	25
-18348	3	19	No Variant	2019-01-25 — 00:27:32 UTC	Asddsa76, DrJones, kirkir	1291	5	25
-18347	2	0	No Variant	2019-01-24 — 23:22:15 UTC	Asddsa76, DrJones	1621	5	25
+18350	4	20	No Variant	2019-01-25 — 01:51:55 UTC	Asddsa76, DrJones, Hunter, scharkbite	548	5	25
+18349	5	21	No Variant	2019-01-25 — 01:09:02 UTC	Asddsa76, DrJones, grayfox, kirkir, scharkbite	667	5	25
+18348	3	19	No Variant	2019-01-25 — 00:27:32 UTC	Asddsa76, DrJones, kirkir	1299	5	25
+18347	2	0	No Variant	2019-01-24 — 23:22:15 UTC	Asddsa76, DrJones	1637	5	25
 18318	4	0	Dark Rainbow (5 Suits)	2019-01-24 — 06:16:05 UTC	Asddsa76, Libster, RaKXeR, Zamiel	11	5	25
 18299	3	22	Dark Rainbow (5 Suits)	2019-01-24 — 03:31:49 UTC	Asddsa76, florrat2, Razgovor	22	5	25
 18297	3	22	Dark Rainbow (5 Suits)	2019-01-24 — 02:57:42 UTC	Asddsa76, florrat2, Razgovor	21	5	25
-18289	3	23	No Variant	2019-01-23 — 23:56:43 UTC	Asddsa76, grayfox, Scault	1465	5	25
+18289	3	23	No Variant	2019-01-23 — 23:56:43 UTC	Asddsa76, grayfox, Scault	1474	5	25
 18281	4	25	No Variant	2019-01-23 — 23:04:43 UTC	Asddsa76, grayfox, Libster, Scault	33	5	25
-18144	3	0	6 Suits	2019-01-22 — 02:52:48 UTC	Asddsa76, Cory, grayfox	83	6	30
-18139	3	0	6 Suits	2019-01-22 — 02:27:41 UTC	Asddsa76, Cory, grayfox	99	6	30
+18144	3	0	6 Suits	2019-01-22 — 02:52:48 UTC	Asddsa76, Cory, grayfox	84	6	30
+18139	3	0	6 Suits	2019-01-22 — 02:27:41 UTC	Asddsa76, Cory, grayfox	100	6	30
 18136	4	0	6 Suits	2019-01-22 — 00:12:00 UTC	Asddsa76, Cory, grayfox, Zamiel	7	6	30
 18135	3	0	6 Suits	2019-01-21 — 23:54:43 UTC	Asddsa76, Cory, Zamiel	40	6	30
-18134	3	0	6 Suits	2019-01-21 — 23:36:11 UTC	Asddsa76, Cory, Zamiel	46	6	30
+18134	3	0	6 Suits	2019-01-21 — 23:36:11 UTC	Asddsa76, Cory, Zamiel	47	6	30
 18133	4	0	6 Suits	2019-01-21 — 23:22:04 UTC	Asddsa76, Cory, grayfox, Zamiel	7	6	30
-18125	3	25	Black (5 Suits)	2019-01-21 — 20:07:08 UTC	Asddsa76, florrat2, Libster	31	5	25
-18123	3	0	Black (5 Suits)	2019-01-21 — 19:46:32 UTC	Asddsa76, florrat2, Libster	171	5	25
+18125	3	25	Black (5 Suits)	2019-01-21 — 20:07:08 UTC	Asddsa76, florrat2, Libster	32	5	25
+18123	3	0	Black (5 Suits)	2019-01-21 — 19:46:32 UTC	Asddsa76, florrat2, Libster	174	5	25
 18109	4	24	Black (5 Suits)	2019-01-21 — 05:52:07 UTC	Asddsa76, Cory, florrat2, Zamiel	19	5	25
-18108	5	20	Black (5 Suits)	2019-01-21 — 05:18:50 UTC	Asddsa76, Cory, florrat2, Razgovor, Zamiel	13	5	25
+18108	5	20	Black (5 Suits)	2019-01-21 — 05:18:50 UTC	Asddsa76, Cory, florrat2, Razgovor, Zamiel	14	5	25
 18107	5	0	Up or Down (6 Suits)	2019-01-21 — 04:45:03 UTC	Asddsa76, Cory, florrat2, Razgovor, Zamiel	7	6	30
 18104	5	0	White (5 Suits)	2019-01-21 — 04:07:01 UTC	Asddsa76, Cory, florrat2, Hunter, Razgovor	7	5	25
-18103	3	25	White (5 Suits)	2019-01-21 — 03:42:11 UTC	Asddsa76, Cory, florrat2	61	5	25
+18103	3	25	White (5 Suits)	2019-01-21 — 03:42:11 UTC	Asddsa76, Cory, florrat2	65	5	25
 18102	3	20	White (4 Suits)	2019-01-21 — 03:22:25 UTC	Asddsa76, Cory, florrat2	5	4	20
-18096	3	0	6 Suits	2019-01-21 — 00:18:52 UTC	Asddsa76, RaKXeR, Zamiel	44	6	30
+18096	3	0	6 Suits	2019-01-21 — 00:18:52 UTC	Asddsa76, RaKXeR, Zamiel	45	6	30
 18094	4	0	Pink-Fives & Rainbow (6 Suits)	2019-01-21 — 00:02:08 UTC	Asddsa76, RaKXeR, Razgovor, Zamiel	3	6	30
 18093	4	26	Pink-Fives & Rainbow (6 Suits)	2019-01-20 — 23:35:31 UTC	Asddsa76, RaKXeR, scharkbite, Zamiel	7	6	30
 18092	3	0	Pink-Fives & Rainbow (6 Suits)	2019-01-20 — 22:57:20 UTC	Asddsa76, Hunter, Zamiel	9	6	30
-18065	3	0	No Variant	2019-01-20 — 05:58:20 UTC	Asddsa76, Razgovor, we alive	285	5	25
-17984	4	25	Rainbow (5 Suits)	2019-01-19 — 04:17:57 UTC	Asddsa76, Cory, RaKXeR, scharkbite	68	5	25
-17982	4	21	Rainbow (5 Suits)	2019-01-19 — 04:02:20 UTC	Asddsa76, Cory, RaKXeR, scharkbite	130	5	25
-17981	3	23	Rainbow (5 Suits)	2019-01-19 — 03:46:12 UTC	Asddsa76, Cory, RaKXeR	185	5	25
+18065	3	0	No Variant	2019-01-20 — 05:58:20 UTC	Asddsa76, Razgovor, we alive	287	5	25
+17984	4	25	Rainbow (5 Suits)	2019-01-19 — 04:17:57 UTC	Asddsa76, Cory, RaKXeR, scharkbite	70	5	25
+17982	4	21	Rainbow (5 Suits)	2019-01-19 — 04:02:20 UTC	Asddsa76, Cory, RaKXeR, scharkbite	131	5	25
+17981	3	23	Rainbow (5 Suits)	2019-01-19 — 03:46:12 UTC	Asddsa76, Cory, RaKXeR	186	5	25
 17978	4	14	Dual-Color (3 Suits)	2019-01-19 — 03:14:45 UTC	Asddsa76, Cory, qqqq, RaKXeR	4	3	15
 17975	4	15	Dual-Color (3 Suits)	2019-01-19 — 02:59:12 UTC	Asddsa76, Cory, qqqq, RaKXeR	6	3	15
 17956	5	0	Up or Down (6 Suits)	2019-01-18 — 21:37:16 UTC	Andrey Khesin, Asddsa76, garbo late game, RaKXeR, Zamiel	11	6	30
@@ -634,59 +634,59 @@
 17881	5	25	No Variant	2019-01-18 — 00:24:31 UTC	Asddsa76, Cory, Razgovor, SevenSpirits, Zamiel	6	5	25
 17870	5	24	No Variant	2019-01-17 — 23:35:44 UTC	Asddsa76, Razgovor, SevenSpirits, Yeesh, Zamiel	6	5	25
 17868	5	23	No Variant	2019-01-17 — 22:42:19 UTC	Asddsa76, Razgovor, SevenSpirits, Yeesh, Zamiel	6	5	25
-17865	5	21	No Variant	2019-01-17 — 21:46:22 UTC	Andrew_UK, Asddsa76, Razgovor, SevenSpirits, Zamiel	3	5	25
+17865	5	21	No Variant	2019-01-17 — 21:46:22 UTC	Andrew_UK, Asddsa76, Razgovor, SevenSpirits, Zamiel	4	5	25
 17861	4	25	No Variant	2019-01-17 — 21:07:13 UTC	Asddsa76, Razgovor, SevenSpirits, Zamiel	2	5	25
-17847	3	0	Up or Down (5 Suits)	2019-01-17 — 19:16:01 UTC	Andrey Khesin, Asddsa76, Zamiel	29	5	25
-17844	3	0	Up or Down (5 Suits)	2019-01-17 — 18:49:44 UTC	Andrey Khesin, Asddsa76, Zamiel	36	5	25
+17847	3	0	Up or Down (5 Suits)	2019-01-17 — 19:16:01 UTC	Andrey Khesin, Asddsa76, Zamiel	31	5	25
+17844	3	0	Up or Down (5 Suits)	2019-01-17 — 18:49:44 UTC	Andrey Khesin, Asddsa76, Zamiel	38	5	25
 17800	3	0	Dark Rainbow (5 Suits)	2019-01-17 — 05:03:44 UTC	Andrey Khesin, Asddsa76, Hunter	25	5	25
 17799	3	0	Dark Rainbow (5 Suits)	2019-01-17 — 04:43:16 UTC	Andrey Khesin, Asddsa76, Hunter	24	5	25
-17796	3	24	Dark Rainbow (5 Suits)	2019-01-17 — 04:23:40 UTC	Andrey Khesin, Asddsa76, Hunter	24	5	25
-17795	3	23	Dark Rainbow (5 Suits)	2019-01-17 — 04:00:48 UTC	Andrey Khesin, Asddsa76, Hunter	29	5	25
-17793	3	0	Dark Rainbow (5 Suits)	2019-01-17 — 03:43:54 UTC	Andrey Khesin, Asddsa76, Hunter	31	5	25
-17792	3	0	Dark Rainbow (5 Suits)	2019-01-17 — 03:35:20 UTC	Andrey Khesin, Asddsa76, Hunter	36	5	25
+17796	3	24	Dark Rainbow (5 Suits)	2019-01-17 — 04:23:40 UTC	Andrey Khesin, Asddsa76, Hunter	25	5	25
+17795	3	23	Dark Rainbow (5 Suits)	2019-01-17 — 04:00:48 UTC	Andrey Khesin, Asddsa76, Hunter	30	5	25
+17793	3	0	Dark Rainbow (5 Suits)	2019-01-17 — 03:43:54 UTC	Andrey Khesin, Asddsa76, Hunter	32	5	25
+17792	3	0	Dark Rainbow (5 Suits)	2019-01-17 — 03:35:20 UTC	Andrey Khesin, Asddsa76, Hunter	38	5	25
 17790	5	27	Pink-Fives (6 Suits)	2019-01-17 — 03:08:32 UTC	Andrey Khesin, Asddsa76, Hunter, Razgovor, Zamiel	4	6	30
 17784	4	25	Black (5 Suits)	2019-01-17 — 01:26:45 UTC	Andrey Khesin, Asddsa76, Hunter, Razgovor	21	5	25
 17779	3	25	Black (5 Suits)	2019-01-17 — 00:44:45 UTC	Andrey Khesin, Asddsa76, Hunter	10	5	25
 17777	5	30	6 Suits	2019-01-17 — 00:09:51 UTC	Andrey Khesin, Asddsa76, grayfox, Razgovor, Zamiel	9	6	30
 17776	5	0	Pink-Fives (5 Suits)	2019-01-16 — 23:35:32 UTC	Andrey Khesin, Asddsa76, Libster, Razgovor, Zamiel	4	5	25
-17775	5	0	Black (5 Suits)	2019-01-16 — 23:07:44 UTC	Andrey Khesin, Asddsa76, garbo late game, Razgovor, Zamiel	17	5	25
+17775	5	0	Black (5 Suits)	2019-01-16 — 23:07:44 UTC	Andrey Khesin, Asddsa76, garbo late game, Razgovor, Zamiel	18	5	25
 17774	5	0	Black (5 Suits)	2019-01-16 — 22:58:47 UTC	Andrey Khesin, Asddsa76, garbo late game, Razgovor, Zamiel	18	5	25
 17773	4	0	Black (5 Suits)	2019-01-16 — 22:54:40 UTC	Andrey Khesin, Asddsa76, garbo late game, Razgovor	23	5	25
-17772	3	0	White (5 Suits)	2019-01-16 — 22:38:41 UTC	Asddsa76, doome, garbo late game	81	5	25
-17769	4	0	Rainbow (5 Suits)	2019-01-16 — 21:33:44 UTC	Andrew_UK, Asddsa76, doome, garbo late game	92	5	25
+17772	3	0	White (5 Suits)	2019-01-16 — 22:38:41 UTC	Asddsa76, doome, garbo late game	84	5	25
+17769	4	0	Rainbow (5 Suits)	2019-01-16 — 21:33:44 UTC	Andrew_UK, Asddsa76, doome, garbo late game	93	5	25
 17765	5	26	Up or Down (6 Suits)	2019-01-16 — 20:54:29 UTC	Asddsa76, garbo late game, Libster, RaKXeR, Razgovor	17	6	30
 17763	5	0	Up or Down (5 Suits)	2019-01-16 — 20:26:34 UTC	Asddsa76, Libster, RaKXeR, Razgovor, scharkbite	5	5	25
-17720	3	21	White (5 Suits)	2019-01-16 — 02:22:30 UTC	Asddsa76, doome, Hunter	126	5	25
-17717	3	30	White (6 Suits)	2019-01-16 — 01:52:46 UTC	Asddsa76, doome, Hunter	124	6	30
+17720	3	21	White (5 Suits)	2019-01-16 — 02:22:30 UTC	Asddsa76, doome, Hunter	131	5	25
+17717	3	30	White (6 Suits)	2019-01-16 — 01:52:46 UTC	Asddsa76, doome, Hunter	128	6	30
 17693	3	0	Black (5 Suits)	2019-01-15 — 17:47:30 UTC	Andrey Khesin, Asddsa76, doome	10	5	25
 17692	3	0	Black (5 Suits)	2019-01-15 — 17:32:24 UTC	Andrey Khesin, Asddsa76, doome	10	5	25
-17691	3	0	Black (5 Suits)	2019-01-15 — 17:24:53 UTC	Andrey Khesin, Asddsa76, doome	10	5	25
-17690	3	0	Black (5 Suits)	2019-01-15 — 17:14:05 UTC	Andrey Khesin, Asddsa76, doome	10	5	25
+17691	3	0	Black (5 Suits)	2019-01-15 — 17:24:53 UTC	Andrey Khesin, Asddsa76, doome	11	5	25
+17690	3	0	Black (5 Suits)	2019-01-15 — 17:14:05 UTC	Andrey Khesin, Asddsa76, doome	11	5	25
 17689	3	0	Black (5 Suits)	2019-01-15 — 16:49:51 UTC	Andrey Khesin, Asddsa76, doome	11	5	25
 17688	3	0	Black (5 Suits)	2019-01-15 — 16:22:41 UTC	Andrey Khesin, Asddsa76, doome	12	5	25
-17654	4	22	Black (5 Suits)	2019-01-15 — 01:52:30 UTC	Andrey Khesin, Asddsa76, Cory, Zamiel	44	5	25
+17654	4	22	Black (5 Suits)	2019-01-15 — 01:52:30 UTC	Andrey Khesin, Asddsa76, Cory, Zamiel	47	5	25
 17653	4	25	White (5 Suits)	2019-01-15 — 01:35:06 UTC	Asddsa76, Cory, Razgovor, Zamiel	11	5	25
 17652	4	0	White (5 Suits)	2019-01-15 — 01:20:46 UTC	Asddsa76, Cory, Razgovor, Zamiel	12	5	25
-17650	4	0	White (5 Suits)	2019-01-15 — 01:12:26 UTC	Asddsa76, Cory, Razgovor, Zamiel	13	5	25
-17648	4	0	White (5 Suits)	2019-01-15 — 00:56:05 UTC	Asddsa76, Cory, Razgovor, Zamiel	13	5	25
-17646	4	0	White (5 Suits)	2019-01-15 — 00:34:21 UTC	Asddsa76, Cory, Razgovor, Zamiel	46	5	25
-17502	3	22	No Variant	2019-01-13 — 17:43:17 UTC	Asddsa76, doome, Libster	213	5	25
-17498	5	22	No Variant	2019-01-13 — 16:51:32 UTC	Andrey Khesin, Asddsa76, doome, Libster, Razgovor	3	5	25
+17650	4	0	White (5 Suits)	2019-01-15 — 01:12:26 UTC	Asddsa76, Cory, Razgovor, Zamiel	14	5	25
+17648	4	0	White (5 Suits)	2019-01-15 — 00:56:05 UTC	Asddsa76, Cory, Razgovor, Zamiel	14	5	25
+17646	4	0	White (5 Suits)	2019-01-15 — 00:34:21 UTC	Asddsa76, Cory, Razgovor, Zamiel	47	5	25
+17502	3	22	No Variant	2019-01-13 — 17:43:17 UTC	Asddsa76, doome, Libster	218	5	25
+17498	5	22	No Variant	2019-01-13 — 16:51:32 UTC	Andrey Khesin, Asddsa76, doome, Libster, Razgovor	4	5	25
 17419	5	20	Rainbow (4 Suits)	2019-01-12 — 23:14:34 UTC	910dan, Andrey Khesin, Asddsa76, Libster, Zamiel	3	4	20
 17418	5	0	Rainbow (4 Suits)	2019-01-12 — 22:53:51 UTC	910dan, Andrey Khesin, Asddsa76, Libster, Zamiel	3	4	20
 17417	5	0	Rainbow (4 Suits)	2019-01-12 — 22:38:50 UTC	910dan, Andrey Khesin, Asddsa76, Libster, Zamiel	4	4	20
-17416	5	0	Rainbow (4 Suits)	2019-01-12 — 22:24:53 UTC	910dan, Andrey Khesin, Asddsa76, Libster, Zamiel	6	4	20
-17404	4	25	White (5 Suits)	2019-01-12 — 19:16:24 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Razgovor	13	5	25
-17402	4	0	White (5 Suits)	2019-01-12 — 18:58:26 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Razgovor	18	5	25
+17416	5	0	Rainbow (4 Suits)	2019-01-12 — 22:24:53 UTC	910dan, Andrey Khesin, Asddsa76, Libster, Zamiel	7	4	20
+17404	4	25	White (5 Suits)	2019-01-12 — 19:16:24 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Razgovor	14	5	25
+17402	4	0	White (5 Suits)	2019-01-12 — 18:58:26 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Razgovor	19	5	25
 17385	3	0	Black (5 Suits)	2019-01-12 — 17:09:59 UTC	Andrew_UK, Andrey Khesin, Asddsa76	31	5	25
-17384	3	23	Black (5 Suits)	2019-01-12 — 16:44:06 UTC	Andrew_UK, Andrey Khesin, Asddsa76	36	5	25
-17383	3	0	Black (5 Suits)	2019-01-12 — 16:30:56 UTC	Andrew_UK, Andrey Khesin, Asddsa76	35	5	25
+17384	3	23	Black (5 Suits)	2019-01-12 — 16:44:06 UTC	Andrew_UK, Andrey Khesin, Asddsa76	37	5	25
+17383	3	0	Black (5 Suits)	2019-01-12 — 16:30:56 UTC	Andrew_UK, Andrey Khesin, Asddsa76	36	5	25
 17382	3	23	Black (5 Suits)	2019-01-12 — 16:21:58 UTC	Andrew_UK, Andrey Khesin, Asddsa76	40	5	25
-17381	3	0	Black (5 Suits)	2019-01-12 — 16:03:05 UTC	Andrew_UK, Andrey Khesin, Asddsa76	44	5	25
+17381	3	0	Black (5 Suits)	2019-01-12 — 16:03:05 UTC	Andrew_UK, Andrey Khesin, Asddsa76	45	5	25
 17289	3	19	Rainbow (4 Suits)	2019-01-11 — 19:40:08 UTC	Asddsa76, Razgovor, scharkbite	22	4	20
-17286	3	17	Rainbow (4 Suits)	2019-01-11 — 19:20:24 UTC	Asddsa76, Razgovor, scharkbite	28	4	20
+17286	3	17	Rainbow (4 Suits)	2019-01-11 — 19:20:24 UTC	Asddsa76, Razgovor, scharkbite	29	4	20
 17285	4	0	Rainbow (4 Suits)	2019-01-11 — 19:10:34 UTC	Asddsa76, NoMercy, Razgovor, scharkbite	17	4	20
-17283	3	19	Rainbow (4 Suits)	2019-01-11 — 18:58:53 UTC	Asddsa76, NoMercy, Razgovor	32	4	20
+17283	3	19	Rainbow (4 Suits)	2019-01-11 — 18:58:53 UTC	Asddsa76, NoMercy, Razgovor	34	4	20
 17281	5	11	White (3 Suits)	2019-01-11 — 18:46:15 UTC	Asddsa76, Hunter, NoMercy, Razgovor, Zamiel	2	3	15
 17267	3	22	Black (5 Suits)	2019-01-11 — 06:58:10 UTC	Andrey Khesin, Asddsa76, Hunter	43	5	25
 17265	4	0	Color Blind (5 Suits)	2019-01-11 — 06:27:06 UTC	Andrey Khesin, Asddsa76, Hunter, Zamiel	3	5	25
@@ -696,56 +696,56 @@
 17251	5	0	Rainbow (5 Suits)	2019-01-11 — 04:10:32 UTC	Asddsa76, Cory, Hunter, Libster, Zamiel	5	5	25
 17250	5	0	Black (5 Suits)	2019-01-11 — 04:04:47 UTC	Asddsa76, Cory, Hunter, Libster, Zamiel	17	5	25
 17248	5	13	3 Suits	2019-01-11 — 03:51:29 UTC	Asddsa76, Cory, Hunter, Libster, Zamiel	19	3	15
-17246	5	0	3 Suits	2019-01-11 — 03:37:20 UTC	Asddsa76, Cory, Hunter, Libster, Zamiel	24	3	15
+17246	5	0	3 Suits	2019-01-11 — 03:37:20 UTC	Asddsa76, Cory, Hunter, Libster, Zamiel	25	3	15
 17244	5	0	3 Suits	2019-01-11 — 03:27:49 UTC	Asddsa76, Cory, Hunter, Libster, Zamiel	27	3	15
-17226	4	18	White (4 Suits)	2019-01-10 — 22:40:19 UTC	Andrew_UK, Asddsa76, grayfox, scharkbite	34	4	20
-17223	4	20	4 Suits	2019-01-10 — 22:02:24 UTC	Asddsa76, grayfox, Razgovor, scharkbite	77	4	20
-17222	5	21	No Variant	2019-01-10 — 21:28:37 UTC	Asddsa76, grayfox, pianoman, Razgovor, scharkbite	1119	5	25
+17226	4	18	White (4 Suits)	2019-01-10 — 22:40:19 UTC	Andrew_UK, Asddsa76, grayfox, scharkbite	35	4	20
+17223	4	20	4 Suits	2019-01-10 — 22:02:24 UTC	Asddsa76, grayfox, Razgovor, scharkbite	80	4	20
+17222	5	21	No Variant	2019-01-10 — 21:28:37 UTC	Asddsa76, grayfox, pianoman, Razgovor, scharkbite	1125	5	25
 17220	3	28	Dark Rainbow (6 Suits)	2019-01-10 — 20:41:53 UTC	Andrew_UK, Asddsa76, scharkbite	11	6	30
 17218	3	26	Dark Rainbow (6 Suits)	2019-01-10 — 20:12:45 UTC	Andrew_UK, Asddsa76, scharkbite	11	6	30
-17217	3	28	Dark Rainbow (6 Suits)	2019-01-10 — 19:36:03 UTC	Andrew_UK, Asddsa76, scharkbite	11	6	30
-17180	3	14	3 Suits	2019-01-10 — 03:00:21 UTC	Asddsa76, grayfox, Libster	51	3	15
-17178	3	0	3 Suits	2019-01-10 — 02:35:39 UTC	Asddsa76, grayfox, Libster	74	3	15
-17176	3	30	6 Suits	2019-01-10 — 02:16:08 UTC	Asddsa76, grayfox, Libster	132	6	30
+17217	3	28	Dark Rainbow (6 Suits)	2019-01-10 — 19:36:03 UTC	Andrew_UK, Asddsa76, scharkbite	12	6	30
+17180	3	14	3 Suits	2019-01-10 — 03:00:21 UTC	Asddsa76, grayfox, Libster	52	3	15
+17178	3	0	3 Suits	2019-01-10 — 02:35:39 UTC	Asddsa76, grayfox, Libster	75	3	15
+17176	3	30	6 Suits	2019-01-10 — 02:16:08 UTC	Asddsa76, grayfox, Libster	133	6	30
 17168	4	0	Black & Dark Rainbow (6 Suits)	2019-01-09 — 22:20:32 UTC	Andrew_UK, Asddsa76, Razgovor, scharkbite	4	6	30
-17160	5	28	Rainbow (6 Suits)	2019-01-09 — 21:39:57 UTC	Andrew_UK, Asddsa76, Hunter, Razgovor, scharkbite	209	6	30
-17154	4	0	Rainbow (6 Suits)	2019-01-09 — 21:10:35 UTC	Andrew_UK, Asddsa76, Hunter, Razgovor	200	6	30
+17160	5	28	Rainbow (6 Suits)	2019-01-09 — 21:39:57 UTC	Andrew_UK, Asddsa76, Hunter, Razgovor, scharkbite	211	6	30
+17154	4	0	Rainbow (6 Suits)	2019-01-09 — 21:10:35 UTC	Andrew_UK, Asddsa76, Hunter, Razgovor	205	6	30
 17150	3	15	Rainbow (3 Suits)	2019-01-09 — 20:57:40 UTC	Andrew_UK, Asddsa76, Razgovor	36	3	15
-17149	3	0	Rainbow (3 Suits)	2019-01-09 — 20:44:40 UTC	Andrew_UK, Asddsa76, Razgovor	71	3	15
+17149	3	0	Rainbow (3 Suits)	2019-01-09 — 20:44:40 UTC	Andrew_UK, Asddsa76, Razgovor	72	3	15
 17148	5	25	White (5 Suits)	2019-01-09 — 20:26:06 UTC	Andrew_UK, Asddsa76, garbo late game, Libster, Razgovor	8	5	25
 17147	5	0	White (5 Suits)	2019-01-09 — 19:48:49 UTC	Andrew_UK, Asddsa76, garbo late game, Libster, Razgovor	10	5	25
-17146	4	0	White (6 Suits)	2019-01-09 — 19:31:22 UTC	Andrew_UK, Asddsa76, garbo late game, Libster	75	6	30
-17145	3	14	3 Suits	2019-01-09 — 19:25:39 UTC	Asddsa76, garbo late game, Libster	88	3	15
-17144	3	20	4 Suits	2019-01-09 — 19:11:49 UTC	Asddsa76, Libster, NoMercy	160	4	20
+17146	4	0	White (6 Suits)	2019-01-09 — 19:31:22 UTC	Andrew_UK, Asddsa76, garbo late game, Libster	76	6	30
+17145	3	14	3 Suits	2019-01-09 — 19:25:39 UTC	Asddsa76, garbo late game, Libster	90	3	15
+17144	3	20	4 Suits	2019-01-09 — 19:11:49 UTC	Asddsa76, Libster, NoMercy	162	4	20
 17083	5	24	White (5 Suits)	2019-01-08 — 22:25:33 UTC	910dan, Asddsa76, garbo late game, Hunter, Libster	11	5	25
 17081	5	0	White (5 Suits)	2019-01-08 — 22:05:04 UTC	910dan, Asddsa76, garbo late game, Hunter, Libster	26	5	25
 17080	4	15	3 Suits	2019-01-08 — 21:57:40 UTC	910dan, Asddsa76, garbo late game, Libster	62	3	15
-17077	4	0	3 Suits	2019-01-08 — 21:51:01 UTC	910dan, Asddsa76, garbo late game, Libster	73	3	15
+17077	4	0	3 Suits	2019-01-08 — 21:51:01 UTC	910dan, Asddsa76, garbo late game, Libster	74	3	15
 17075	4	24	No Variant	2019-01-08 — 21:40:37 UTC	910dan, Asddsa76, Libster, MaxInertia	36	5	25
 16995	4	28	White (6 Suits)	2019-01-07 — 23:46:37 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Cory	2	6	30
 16993	4	15	Rainbow (3 Suits)	2019-01-07 — 23:16:13 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Cory	6	3	15
 16991	4	15	White (3 Suits)	2019-01-07 — 23:01:24 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Cory	27	3	15
-16989	3	0	White (3 Suits)	2019-01-07 — 22:52:58 UTC	Andrew_UK, Andrey Khesin, Asddsa76	26	3	15
-16988	3	0	White (3 Suits)	2019-01-07 — 22:50:07 UTC	Andrew_UK, Andrey Khesin, Asddsa76	29	3	15
+16989	3	0	White (3 Suits)	2019-01-07 — 22:52:58 UTC	Andrew_UK, Andrey Khesin, Asddsa76	28	3	15
+16988	3	0	White (3 Suits)	2019-01-07 — 22:50:07 UTC	Andrew_UK, Andrey Khesin, Asddsa76	30	3	15
 16983	5	23	White (5 Suits)	2019-01-07 — 21:35:35 UTC	Andrew_UK, Asddsa76, garbo late game, Libster, Razgovor	14	5	25
-16981	5	0	White (5 Suits)	2019-01-07 — 21:13:22 UTC	Andrew_UK, Asddsa76, garbo late game, Libster, Razgovor	21	5	25
+16981	5	0	White (5 Suits)	2019-01-07 — 21:13:22 UTC	Andrew_UK, Asddsa76, garbo late game, Libster, Razgovor	22	5	25
 16979	5	0	White (5 Suits)	2019-01-07 — 20:58:51 UTC	Andrew_UK, Asddsa76, garbo late game, Libster, Razgovor	37	5	25
-16976	4	0	White (5 Suits)	2019-01-07 — 20:47:08 UTC	Andrew_UK, Asddsa76, garbo late game, Libster	79	5	25
+16976	4	0	White (5 Suits)	2019-01-07 — 20:47:08 UTC	Andrew_UK, Asddsa76, garbo late game, Libster	80	5	25
 16975	5	23	Black (5 Suits)	2019-01-07 — 20:26:27 UTC	Andrew_UK, Asddsa76, garbo late game, Hunter, Libster	20	5	25
 16971	5	0	Black (5 Suits)	2019-01-07 — 19:58:49 UTC	Andrew_UK, Asddsa76, garbo late game, Hunter, Libster	23	5	25
 16968	5	0	Black (5 Suits)	2019-01-07 — 19:33:26 UTC	Andrew_UK, Asddsa76, garbo late game, Hunter, Libster	27	5	25
-16967	4	0	Black (5 Suits)	2019-01-07 — 19:18:38 UTC	Asddsa76, garbo late game, Hunter, Libster	98	5	25
+16967	4	0	Black (5 Suits)	2019-01-07 — 19:18:38 UTC	Asddsa76, garbo late game, Hunter, Libster	101	5	25
 16966	3	0	Black (5 Suits)	2019-01-07 — 19:10:59 UTC	Asddsa76, Hunter, Libster	92	5	25
 16965	3	18	Black (5 Suits)	2019-01-07 — 18:53:02 UTC	Asddsa76, Hunter, Libster	101	5	25
 16964	3	21	Black (5 Suits)	2019-01-07 — 18:21:14 UTC	Asddsa76, Hunter, Libster	119	5	25
-16963	3	15	White (3 Suits)	2019-01-07 — 18:03:20 UTC	Asddsa76, Hunter, Libster	45	3	15
-16902	3	0	Dark Rainbow (5 Suits)	2019-01-07 — 01:35:22 UTC	Asddsa76, Instantiation, scharkbite	48	5	25
-16898	3	0	Dark Rainbow (5 Suits)	2019-01-07 — 01:16:28 UTC	Asddsa76, Instantiation, scharkbite	52	5	25
-16894	3	12	Rainbow (3 Suits)	2019-01-07 — 01:02:47 UTC	Asddsa76, Instantiation, scharkbite	16	3	15
+16963	3	15	White (3 Suits)	2019-01-07 — 18:03:20 UTC	Asddsa76, Hunter, Libster	49	3	15
+16902	3	0	Dark Rainbow (5 Suits)	2019-01-07 — 01:35:22 UTC	Asddsa76, Instantiation, scharkbite	49	5	25
+16898	3	0	Dark Rainbow (5 Suits)	2019-01-07 — 01:16:28 UTC	Asddsa76, Instantiation, scharkbite	53	5	25
+16894	3	12	Rainbow (3 Suits)	2019-01-07 — 01:02:47 UTC	Asddsa76, Instantiation, scharkbite	17	3	15
 16890	5	16	Rainbow (4 Suits)	2019-01-06 — 23:26:28 UTC	Andrew_UK, Asddsa76, Instantiation, Razgovor, scharkbite	10	4	20
 16887	5	18	Rainbow (4 Suits)	2019-01-06 — 22:36:17 UTC	Asddsa76, Instantiation, Libster, Razgovor, scharkbite	11	4	20
-16885	5	0	Rainbow (4 Suits)	2019-01-06 — 22:14:39 UTC	Asddsa76, Instantiation, Libster, Razgovor, scharkbite	16	4	20
-16881	5	0	Rainbow (4 Suits)	2019-01-06 — 21:51:46 UTC	Asddsa76, Instantiation, Libster, Razgovor, scharkbite	20	4	20
+16885	5	0	Rainbow (4 Suits)	2019-01-06 — 22:14:39 UTC	Asddsa76, Instantiation, Libster, Razgovor, scharkbite	17	4	20
+16881	5	0	Rainbow (4 Suits)	2019-01-06 — 21:51:46 UTC	Asddsa76, Instantiation, Libster, Razgovor, scharkbite	21	4	20
 16837	4	24	No Variant	2019-01-06 — 06:39:56 UTC	Asddsa76, jspurim, Libster, Zamiel	2	5	25
 16833	4	0	No Variant	2019-01-06 — 06:18:43 UTC	Asddsa76, jspurim, Libster, Zamiel	2	5	25
 16831	4	0	No Variant	2019-01-06 — 06:08:45 UTC	Asddsa76, jspurim, Libster, Zamiel	2	5	25
@@ -753,9 +753,9 @@
 16818	4	0	No Variant	2019-01-06 — 05:16:36 UTC	Asddsa76, jspurim, Libster, Zamiel	2	5	25
 16812	4	0	No Variant	2019-01-06 — 04:49:10 UTC	Asddsa76, jspurim, Libster, Zamiel	2	5	25
 16677	3	20	Rainbow (4 Suits)	2019-01-04 — 22:25:36 UTC	Andrew_UK, Andrey Khesin, Asddsa76	13	4	20
-16674	3	17	Rainbow (4 Suits)	2019-01-04 — 21:47:27 UTC	Andrew_UK, Andrey Khesin, Asddsa76	43	4	20
-16667	4	0	Black (6 Suits)	2019-01-04 — 20:49:05 UTC	Andrey Khesin, Asddsa76, Hunter, Razgovor	90	6	30
-16662	3	0	Black (6 Suits)	2019-01-04 — 20:24:07 UTC	Asddsa76, Hunter, Razgovor	399	6	30
+16674	3	17	Rainbow (4 Suits)	2019-01-04 — 21:47:27 UTC	Andrew_UK, Andrey Khesin, Asddsa76	45	4	20
+16667	4	0	Black (6 Suits)	2019-01-04 — 20:49:05 UTC	Andrey Khesin, Asddsa76, Hunter, Razgovor	95	6	30
+16662	3	0	Black (6 Suits)	2019-01-04 — 20:24:07 UTC	Asddsa76, Hunter, Razgovor	407	6	30
 16649	5	12	Rainbow (3 Suits)	2019-01-04 — 18:45:29 UTC	Andrey Khesin, Asddsa76, garbo late game, Libster, Razgovor	6	3	15
 16648	5	11	Rainbow (3 Suits)	2019-01-04 — 18:32:25 UTC	Andrey Khesin, Asddsa76, garbo late game, Libster, Razgovor	7	3	15
 16647	5	0	Rainbow (3 Suits)	2019-01-04 — 18:20:42 UTC	Asddsa76, garbo late game, Hunter, Libster, Razgovor	8	3	15
@@ -765,20 +765,20 @@
 16608	4	0	Rainbow (6 Suits)	2019-01-04 — 05:01:20 UTC	Asddsa76, Razgovor, xdragun, Zamiel	3	6	30
 16545	5	29	Black (6 Suits)	2019-01-03 — 22:24:03 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Libster, scharkbite	5	6	30
 16538	5	0	Black (6 Suits)	2019-01-03 — 21:48:26 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Libster, scharkbite	5	6	30
-16537	4	0	Black (6 Suits)	2019-01-03 — 21:39:41 UTC	Andrew_UK, Andrey Khesin, Asddsa76, scharkbite	91	6	30
-16536	4	0	Black (6 Suits)	2019-01-03 — 21:33:51 UTC	Andrew_UK, Andrey Khesin, Asddsa76, scharkbite	102	6	30
-16534	4	0	Black (6 Suits)	2019-01-03 — 21:27:18 UTC	Andrew_UK, Andrey Khesin, Asddsa76, scharkbite	112	6	30
-16533	4	0	Black (6 Suits)	2019-01-03 — 21:19:13 UTC	Andrew_UK, Andrey Khesin, Asddsa76, scharkbite	121	6	30
-16529	4	28	Black (6 Suits)	2019-01-03 — 20:57:14 UTC	Andrew_UK, Andrey Khesin, Asddsa76, scharkbite	128	6	30
-16527	4	0	Black (6 Suits)	2019-01-03 — 20:44:30 UTC	Andrew_UK, Andrey Khesin, Asddsa76, scharkbite	142	6	30
-16523	4	0	Black (6 Suits)	2019-01-03 — 20:39:17 UTC	Andrew_UK, Andrey Khesin, Asddsa76, scharkbite	175	6	30
+16537	4	0	Black (6 Suits)	2019-01-03 — 21:39:41 UTC	Andrew_UK, Andrey Khesin, Asddsa76, scharkbite	95	6	30
+16536	4	0	Black (6 Suits)	2019-01-03 — 21:33:51 UTC	Andrew_UK, Andrey Khesin, Asddsa76, scharkbite	103	6	30
+16534	4	0	Black (6 Suits)	2019-01-03 — 21:27:18 UTC	Andrew_UK, Andrey Khesin, Asddsa76, scharkbite	113	6	30
+16533	4	0	Black (6 Suits)	2019-01-03 — 21:19:13 UTC	Andrew_UK, Andrey Khesin, Asddsa76, scharkbite	123	6	30
+16529	4	28	Black (6 Suits)	2019-01-03 — 20:57:14 UTC	Andrew_UK, Andrey Khesin, Asddsa76, scharkbite	129	6	30
+16527	4	0	Black (6 Suits)	2019-01-03 — 20:44:30 UTC	Andrew_UK, Andrey Khesin, Asddsa76, scharkbite	143	6	30
+16523	4	0	Black (6 Suits)	2019-01-03 — 20:39:17 UTC	Andrew_UK, Andrey Khesin, Asddsa76, scharkbite	176	6	30
 16518	4	15	Up or Down (5 Suits)	2019-01-03 — 19:21:04 UTC	Andrey Khesin, Asddsa76, Libster, scharkbite	27	5	25
-16514	2	0	No Variant	2019-01-03 — 18:46:53 UTC	Asddsa76, test76	1703	5	25
-16468	3	24	Up or Down (5 Suits)	2019-01-03 — 03:32:42 UTC	Asddsa76, Libster, Zamiel	42	5	25
-16465	3	0	Up or Down (5 Suits)	2019-01-03 — 03:09:29 UTC	Asddsa76, Libster, Zamiel	54	5	25
-16464	3	0	Up or Down (5 Suits)	2019-01-03 — 02:58:32 UTC	Asddsa76, Libster, Zamiel	57	5	25
-16462	3	0	Up or Down (5 Suits)	2019-01-03 — 02:53:55 UTC	Asddsa76, Libster, Zamiel	62	5	25
-16461	3	0	Up or Down (5 Suits)	2019-01-03 — 02:48:36 UTC	Asddsa76, Libster, Zamiel	88	5	25
+16514	2	0	No Variant	2019-01-03 — 18:46:53 UTC	Asddsa76, test76	1721	5	25
+16468	3	24	Up or Down (5 Suits)	2019-01-03 — 03:32:42 UTC	Asddsa76, Libster, Zamiel	44	5	25
+16465	3	0	Up or Down (5 Suits)	2019-01-03 — 03:09:29 UTC	Asddsa76, Libster, Zamiel	56	5	25
+16464	3	0	Up or Down (5 Suits)	2019-01-03 — 02:58:32 UTC	Asddsa76, Libster, Zamiel	59	5	25
+16462	3	0	Up or Down (5 Suits)	2019-01-03 — 02:53:55 UTC	Asddsa76, Libster, Zamiel	64	5	25
+16461	3	0	Up or Down (5 Suits)	2019-01-03 — 02:48:36 UTC	Asddsa76, Libster, Zamiel	89	5	25
 16460	5	0	Rainbow (6 Suits)	2019-01-03 — 02:37:18 UTC	Asddsa76, gurev, Libster, Razgovor, Zamiel	2	6	30
 16456	5	23	Dark Rainbow (6 Suits)	2019-01-03 — 01:47:42 UTC	Asddsa76, gurev, Razgovor, xdragun, Zamiel	3	6	30
 16453	5	25	Dark Rainbow (6 Suits)	2019-01-03 — 00:56:02 UTC	Andrey Khesin, Asddsa76, gurev, meghal, Zamiel	3	6	30
@@ -787,28 +787,28 @@
 16418	4	0	Up or Down (5 Suits)	2019-01-02 — 20:25:49 UTC	Andrew_UK, Andrey Khesin, Asddsa76, scharkbite	41	5	25
 16416	4	0	Up or Down (5 Suits)	2019-01-02 — 20:14:58 UTC	Andrew_UK, Andrey Khesin, Asddsa76, scharkbite	52	5	25
 16415	4	0	Up or Down (5 Suits)	2019-01-02 — 20:05:21 UTC	Andrew_UK, Andrey Khesin, Asddsa76, scharkbite	75	5	25
-16411	3	0	Up or Down (5 Suits)	2019-01-02 — 19:45:06 UTC	Andrew_UK, Andrey Khesin, Asddsa76	113	5	25
+16411	3	0	Up or Down (5 Suits)	2019-01-02 — 19:45:06 UTC	Andrew_UK, Andrey Khesin, Asddsa76	114	5	25
 16350	5	17	4 Suits	2019-01-02 — 04:58:25 UTC	Andrey Khesin, Asddsa76, Razgovor, scharkbite, Zamiel	6	4	20
-16349	4	20	Rainbow (4 Suits)	2019-01-02 — 04:29:26 UTC	Asddsa76, Razgovor, scharkbite, Zamiel	32	4	20
-16348	3	15	3 Suits	2019-01-02 — 04:13:59 UTC	Asddsa76, Razgovor, Zamiel	115	3	15
-16346	3	0	3 Suits	2019-01-02 — 03:59:42 UTC	Asddsa76, Razgovor, Zamiel	144	3	15
-16344	4	19	Rainbow (4 Suits)	2019-01-02 — 03:43:38 UTC	Asddsa76, qqqq, Razgovor, Zamiel	45	4	20
-16339	3	0	Rainbow (4 Suits)	2019-01-02 — 03:23:06 UTC	Asddsa76, qqqq, Zamiel	68	4	20
-16338	3	0	Rainbow (4 Suits)	2019-01-02 — 03:11:54 UTC	Asddsa76, qqqq, Zamiel	84	4	20
+16349	4	20	Rainbow (4 Suits)	2019-01-02 — 04:29:26 UTC	Asddsa76, Razgovor, scharkbite, Zamiel	33	4	20
+16348	3	15	3 Suits	2019-01-02 — 04:13:59 UTC	Asddsa76, Razgovor, Zamiel	116	3	15
+16346	3	0	3 Suits	2019-01-02 — 03:59:42 UTC	Asddsa76, Razgovor, Zamiel	146	3	15
+16344	4	19	Rainbow (4 Suits)	2019-01-02 — 03:43:38 UTC	Asddsa76, qqqq, Razgovor, Zamiel	46	4	20
+16339	3	0	Rainbow (4 Suits)	2019-01-02 — 03:23:06 UTC	Asddsa76, qqqq, Zamiel	69	4	20
+16338	3	0	Rainbow (4 Suits)	2019-01-02 — 03:11:54 UTC	Asddsa76, qqqq, Zamiel	85	4	20
 16210	3	0	Pink-Fives & Rainbow (5 Suits)	2019-01-01 — 02:47:14 UTC	Andrey Khesin, Asddsa76, scharkbite	3	5	25
 16208	3	0	Pink-Fives & Rainbow (5 Suits)	2019-01-01 — 02:31:10 UTC	Andrey Khesin, Asddsa76, scharkbite	4	5	25
 16204	2	0	Pink-Fives & Rainbow (5 Suits)	2019-01-01 — 01:54:57 UTC	Asddsa76, test76	9	5	25
 16117	4	28	Black (6 Suits)	2018-12-31 — 17:22:18 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Libster	6	6	30
 16115	4	0	Dark Rainbow (6 Suits)	2018-12-31 — 16:53:25 UTC	Andrew_UK, Asddsa76, Hunter, Libster	6	6	30
 16109	4	0	Dark Rainbow (6 Suits)	2018-12-31 — 16:31:01 UTC	Andrew_UK, Asddsa76, Hunter, Libster	10	6	30
-16055	4	0	White (6 Suits)	2018-12-31 — 00:30:00 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Zamiel	16	6	30
-16053	4	0	White (6 Suits)	2018-12-31 — 00:18:11 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Zamiel	16	6	30
-16051	4	0	White (6 Suits)	2018-12-31 — 00:12:22 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Zamiel	20	6	30
+16055	4	0	White (6 Suits)	2018-12-31 — 00:30:00 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Zamiel	17	6	30
+16053	4	0	White (6 Suits)	2018-12-31 — 00:18:11 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Zamiel	17	6	30
+16051	4	0	White (6 Suits)	2018-12-31 — 00:12:22 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Zamiel	22	6	30
 16050	3	0	White (6 Suits)	2018-12-31 — 00:07:52 UTC	Andrey Khesin, Asddsa76, Zamiel	53	6	30
 16049	3	0	White (6 Suits)	2018-12-31 — 00:04:57 UTC	Andrey Khesin, Asddsa76, Zamiel	70	6	30
 16048	4	29	White (6 Suits)	2018-12-30 — 23:56:59 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Zamiel	27	6	30
-16046	3	30	Dual-Color & Rainbow (6 Suits)	2018-12-30 — 23:23:07 UTC	Andrew_UK, Andrey Khesin, Asddsa76	11	6	30
-16044	3	0	Dual-Color & Rainbow (6 Suits)	2018-12-30 — 22:59:23 UTC	Andrew_UK, Andrey Khesin, Asddsa76	24	6	30
+16046	3	30	Dual-Color & Rainbow (6 Suits)	2018-12-30 — 23:23:07 UTC	Andrew_UK, Andrey Khesin, Asddsa76	12	6	30
+16044	3	0	Dual-Color & Rainbow (6 Suits)	2018-12-30 — 22:59:23 UTC	Andrew_UK, Andrey Khesin, Asddsa76	25	6	30
 15928	3	25	Black & Dark Rainbow (6 Suits)	2018-12-30 — 01:19:11 UTC	Andrew_UK, Asddsa76, Cory	7	6	30
 15926	5	27	Black & Dark Rainbow (6 Suits)	2018-12-30 — 00:44:55 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Cory, scharkbite	2	6	30
 15924	4	29	Black & Dark Rainbow (6 Suits)	2018-12-29 — 23:51:35 UTC	Andrew_UK, Andrey Khesin, Asddsa76, scharkbite	4	6	30
@@ -816,75 +816,75 @@
 15922	4	0	Black & Dark Rainbow (6 Suits)	2018-12-29 — 23:07:43 UTC	Andrew_UK, Andrey Khesin, Asddsa76, scharkbite	10	6	30
 15920	4	0	Black & Dark Rainbow (6 Suits)	2018-12-29 — 22:39:14 UTC	Andrew_UK, Andrey Khesin, Asddsa76, scharkbite	15	6	30
 15918	4	30	Dark Rainbow (6 Suits)	2018-12-29 — 22:06:02 UTC	Andrew_UK, Andrey Khesin, Asddsa76, scharkbite	16	6	30
-15832	3	0	Black (6 Suits)	2018-12-29 — 00:07:34 UTC	Andrew_UK, Asddsa76, RaKXeR	17	6	30
+15832	3	0	Black (6 Suits)	2018-12-29 — 00:07:34 UTC	Andrew_UK, Asddsa76, RaKXeR	18	6	30
 15830	3	0	Black (6 Suits)	2018-12-28 — 23:40:43 UTC	Andrew_UK, Asddsa76, RaKXeR	26	6	30
 15771	4	0	No Variant	2018-12-28 — 00:50:06 UTC	Andrew_UK, Asddsa76, Hunter, Zamiel	5	5	25
-15770	3	24	No Variant	2018-12-28 — 00:22:17 UTC	Asddsa76, Devapm, Hunter	516	5	25
-15769	3	0	No Variant	2018-12-27 — 23:54:52 UTC	Asddsa76, Devapm, Hunter	551	5	25
-15768	3	23	No Variant	2018-12-27 — 23:31:40 UTC	Asddsa76, Devapm, Hunter	573	5	25
-15767	4	25	No Variant	2018-12-27 — 22:29:33 UTC	Asddsa76, Devapm, Hunter, im_not_afraid	985	5	25
-15571	2	0	No Variant	2018-12-25 — 23:32:56 UTC	Andrey Khesin, Asddsa76	1952	5	25
-15570	2	0	No Variant	2018-12-25 — 23:27:15 UTC	Andrey Khesin, Asddsa76	2147	5	25
-15569	2	0	No Variant	2018-12-25 — 23:24:19 UTC	Andrey Khesin, Asddsa76	2288	5	25
-15568	2	0	No Variant	2018-12-25 — 23:22:17 UTC	Andrey Khesin, Asddsa76	3051	5	25
-15566	4	25	No Variant	2018-12-25 — 23:00:47 UTC	Andrey Khesin, Asddsa76, im_not_afraid, xdragun	2763	5	25
-15564	3	0	No Variant	2018-12-25 — 22:39:52 UTC	Asddsa76, im_not_afraid, xdragun	1881	5	25
-15563	3	0	No Variant	2018-12-25 — 22:20:04 UTC	Asddsa76, im_not_afraid, xdragun	2606	5	25
+15770	3	24	No Variant	2018-12-28 — 00:22:17 UTC	Asddsa76, Devapm, Hunter	523	5	25
+15769	3	0	No Variant	2018-12-27 — 23:54:52 UTC	Asddsa76, Devapm, Hunter	558	5	25
+15768	3	23	No Variant	2018-12-27 — 23:31:40 UTC	Asddsa76, Devapm, Hunter	582	5	25
+15767	4	25	No Variant	2018-12-27 — 22:29:33 UTC	Asddsa76, Devapm, Hunter, im_not_afraid	994	5	25
+15571	2	0	No Variant	2018-12-25 — 23:32:56 UTC	Andrey Khesin, Asddsa76	1966	5	25
+15570	2	0	No Variant	2018-12-25 — 23:27:15 UTC	Andrey Khesin, Asddsa76	2166	5	25
+15569	2	0	No Variant	2018-12-25 — 23:24:19 UTC	Andrey Khesin, Asddsa76	2307	5	25
+15568	2	0	No Variant	2018-12-25 — 23:22:17 UTC	Andrey Khesin, Asddsa76	3072	5	25
+15566	4	25	No Variant	2018-12-25 — 23:00:47 UTC	Andrey Khesin, Asddsa76, im_not_afraid, xdragun	2788	5	25
+15564	3	0	No Variant	2018-12-25 — 22:39:52 UTC	Asddsa76, im_not_afraid, xdragun	1896	5	25
+15563	3	0	No Variant	2018-12-25 — 22:20:04 UTC	Asddsa76, im_not_afraid, xdragun	2627	5	25
 15546	3	30	Dark Rainbow (6 Suits)	2018-12-25 — 18:44:59 UTC	Andrew_UK, Andrey Khesin, Asddsa76	19	6	30
 15545	4	29	Black (6 Suits)	2018-12-25 — 18:10:03 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Cory	57	6	30
-15544	4	0	Black (6 Suits)	2018-12-25 — 17:46:27 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Cory	74	6	30
+15544	4	0	Black (6 Suits)	2018-12-25 — 17:46:27 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Cory	76	6	30
 15505	3	26	Black & Dark Rainbow (6 Suits)	2018-12-25 — 00:18:15 UTC	Andrew_UK, Andrey Khesin, Asddsa76	7	6	30
 15504	3	0	Black & Dark Rainbow (6 Suits)	2018-12-24 — 23:51:23 UTC	Andrew_UK, Andrey Khesin, Asddsa76	6	6	30
 15502	3	0	Black & Dark Rainbow (6 Suits)	2018-12-24 — 23:48:08 UTC	Andrew_UK, Andrey Khesin, Asddsa76	6	6	30
 15501	3	25	Black & Dark Rainbow (6 Suits)	2018-12-24 — 23:37:39 UTC	Andrew_UK, Andrey Khesin, Asddsa76	8	6	30
-15500	4	30	6 Suits	2018-12-24 — 22:54:25 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Hunter	250	6	30
+15500	4	30	6 Suits	2018-12-24 — 22:54:25 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Hunter	252	6	30
 15492	5	20	No Variant	2018-12-24 — 18:55:21 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Hunter, Zamiel	10	5	25
 15487	4	24	No Variant	2018-12-24 — 18:13:54 UTC	Andrey Khesin, Asddsa76, Hunter, Zamiel	5	5	25
 15486	4	24	No Variant	2018-12-24 — 17:45:21 UTC	Andrey Khesin, Asddsa76, Hunter, Zamiel	5	5	25
-15485	5	0	No Variant	2018-12-24 — 17:17:15 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Hunter, Zamiel	9	5	25
+15485	5	0	No Variant	2018-12-24 — 17:17:15 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Hunter, Zamiel	10	5	25
 15484	3	22	No Variant	2018-12-24 — 17:03:03 UTC	Asddsa76, Hunter, Zamiel	8	5	25
 15482	3	0	Dark Rainbow (6 Suits)	2018-12-24 — 13:20:58 UTC	Andrew_UK, Asddsa76, qqqq	20	6	30
 15481	3	0	Dark Rainbow (6 Suits)	2018-12-24 — 13:08:54 UTC	Andrew_UK, Asddsa76, qqqq	20	6	30
 15480	3	0	Dark Rainbow (6 Suits)	2018-12-24 — 12:58:02 UTC	Andrew_UK, Asddsa76, qqqq	34	6	30
 15479	3	0	Dark Rainbow (6 Suits)	2018-12-24 — 12:48:01 UTC	Andrew_UK, Asddsa76, qqqq	37	6	30
-15417	3	25	No Variant	2018-12-23 — 18:50:09 UTC	Andrew_UK, Asddsa76, Hunter	269	5	25
-15388	5	21	No Variant	2018-12-23 — 02:25:19 UTC	Andrey Khesin, Asddsa76, Hunter, qqqq, wers	837	5	25
-15355	4	25	No Variant	2018-12-21 — 23:38:49 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Hunter	717	5	25
-15352	4	25	No Variant	2018-12-21 — 22:46:49 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Hunter	899	5	25
-15347	3	0	6 Suits	2018-12-21 — 21:51:26 UTC	Andrey Khesin, Asddsa76, Hunter	305	6	30
-15344	3	25	6 Suits	2018-12-21 — 20:33:47 UTC	Andrey Khesin, Asddsa76, Hunter	365	6	30
-15341	3	0	6 Suits	2018-12-21 — 19:18:21 UTC	Andrey Khesin, Asddsa76, Hunter	503	6	30
-15340	3	27	Black (6 Suits)	2018-12-21 — 17:11:46 UTC	Asddsa76, Hunter, Libster	9	6	30
-15339	3	0	Black (6 Suits)	2018-12-21 — 16:29:09 UTC	Asddsa76, Hunter, Libster	9	6	30
+15417	3	25	No Variant	2018-12-23 — 18:50:09 UTC	Andrew_UK, Asddsa76, Hunter	272	5	25
+15388	5	21	No Variant	2018-12-23 — 02:25:19 UTC	Andrey Khesin, Asddsa76, Hunter, qqqq, wers	845	5	25
+15355	4	25	No Variant	2018-12-21 — 23:38:49 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Hunter	724	5	25
+15352	4	25	No Variant	2018-12-21 — 22:46:49 UTC	Andrew_UK, Andrey Khesin, Asddsa76, Hunter	908	5	25
+15347	3	0	6 Suits	2018-12-21 — 21:51:26 UTC	Andrey Khesin, Asddsa76, Hunter	311	6	30
+15344	3	25	6 Suits	2018-12-21 — 20:33:47 UTC	Andrey Khesin, Asddsa76, Hunter	371	6	30
+15341	3	0	6 Suits	2018-12-21 — 19:18:21 UTC	Andrey Khesin, Asddsa76, Hunter	511	6	30
+15340	3	27	Black (6 Suits)	2018-12-21 — 17:11:46 UTC	Asddsa76, Hunter, Libster	10	6	30
+15339	3	0	Black (6 Suits)	2018-12-21 — 16:29:09 UTC	Asddsa76, Hunter, Libster	10	6	30
 15337	3	26	Black & Dark Rainbow (6 Suits)	2018-12-21 — 09:31:59 UTC	Andrey Khesin, Asddsa76, qqqq	6	6	30
 15336	3	0	Black & Dark Rainbow (6 Suits)	2018-12-21 — 09:03:46 UTC	Andrey Khesin, Asddsa76, qqqq	6	6	30
 15335	3	0	Black & Dark Rainbow (6 Suits)	2018-12-21 — 08:53:00 UTC	Andrey Khesin, Asddsa76, qqqq	5	6	30
 15334	3	0	Black & Dark Rainbow (6 Suits)	2018-12-21 — 08:40:59 UTC	Andrey Khesin, Asddsa76, qqqq	8	6	30
-15333	3	0	Black & Dark Rainbow (6 Suits)	2018-12-21 — 08:18:04 UTC	Andrey Khesin, Asddsa76, qqqq	10	6	30
+15333	3	0	Black & Dark Rainbow (6 Suits)	2018-12-21 — 08:18:04 UTC	Andrey Khesin, Asddsa76, qqqq	11	6	30
 15332	3	0	Black & Dark Rainbow (6 Suits)	2018-12-21 — 08:09:34 UTC	Andrey Khesin, Asddsa76, qqqq	14	6	30
 15331	3	0	Black & Dark Rainbow (6 Suits)	2018-12-21 — 07:59:06 UTC	Andrey Khesin, Asddsa76, qqqq	19	6	30
 15330	3	0	Black & Dark Rainbow (6 Suits)	2018-12-21 — 07:50:40 UTC	Andrey Khesin, Asddsa76, qqqq	20	6	30
 15329	3	0	Black & Dark Rainbow (6 Suits)	2018-12-21 — 07:38:23 UTC	Andrey Khesin, Asddsa76, qqqq	21	6	30
 15328	3	0	Black & Dark Rainbow (6 Suits)	2018-12-21 — 07:14:08 UTC	Andrey Khesin, Asddsa76, qqqq	28	6	30
 15318	4	28	Black (6 Suits)	2018-12-20 — 20:41:26 UTC	Asddsa76, Hunter, Libster, NoMercy	6	6	30
-15317	3	25	No Variant	2018-12-20 — 20:00:18 UTC	Asddsa76, Hunter, Libster	218	5	25
-15316	3	0	Black (6 Suits)	2018-12-20 — 19:44:01 UTC	Asddsa76, Hunter, Libster	9	6	30
+15317	3	25	No Variant	2018-12-20 — 20:00:18 UTC	Asddsa76, Hunter, Libster	223	5	25
+15316	3	0	Black (6 Suits)	2018-12-20 — 19:44:01 UTC	Asddsa76, Hunter, Libster	10	6	30
 15194	4	0	Rainbow (6 Suits)	2018-12-18 — 06:48:48 UTC	Andrey Khesin, Asddsa76, qqqq, Zamiel	3	6	30
 15192	5	0	Rainbow (6 Suits)	2018-12-18 — 06:21:13 UTC	Andrey Khesin, Asddsa76, NoMercy, qqqq, Zamiel	3	6	30
 15191	5	0	Rainbow (6 Suits)	2018-12-18 — 06:17:29 UTC	Andrey Khesin, Asddsa76, NoMercy, qqqq, Zamiel	2	6	30
-15124	4	26	Rainbow (6 Suits)	2018-12-17 — 07:15:33 UTC	Andrey Khesin, Asddsa76, cak199164, Libster	70	6	30
-15123	4	0	Rainbow (6 Suits)	2018-12-17 — 06:40:49 UTC	Andrey Khesin, Asddsa76, cak199164, Libster	73	6	30
+15124	4	26	Rainbow (6 Suits)	2018-12-17 — 07:15:33 UTC	Andrey Khesin, Asddsa76, cak199164, Libster	72	6	30
+15123	4	0	Rainbow (6 Suits)	2018-12-17 — 06:40:49 UTC	Andrey Khesin, Asddsa76, cak199164, Libster	74	6	30
 15117	3	0	Rainbow (6 Suits)	2018-12-17 — 06:16:03 UTC	Andrey Khesin, Asddsa76, Libster	7	6	30
 15109	4	23	No Variant	2018-12-17 — 05:49:04 UTC	Asddsa76, Hunter, Libster, Zamiel	5	5	25
 15092	3	0	Dark Rainbow (6 Suits)	2018-12-17 — 03:50:55 UTC	Asddsa76, Cory, Libster	5	6	30
 15090	3	0	Dark Rainbow (6 Suits)	2018-12-17 — 03:22:18 UTC	Asddsa76, Cory, Libster	5	6	30
 15088	5	22	No Variant	2018-12-17 — 02:56:13 UTC	Asddsa76, Cory, im_not_afraid, Libster, Zamiel	2	5	25
-15056	5	25	No Variant	2018-12-16 — 07:36:00 UTC	Andrey Khesin, Asddsa76, Cory, im_not_afraid, Zamiel	11	5	25
-15054	5	0	No Variant	2018-12-16 — 06:54:15 UTC	Andrey Khesin, Asddsa76, Cory, im_not_afraid, Zamiel	11	5	25
-15052	5	24	No Variant	2018-12-16 — 06:16:46 UTC	Andrey Khesin, Asddsa76, Cory, im_not_afraid, Zamiel	11	5	25
+15056	5	25	No Variant	2018-12-16 — 07:36:00 UTC	Andrey Khesin, Asddsa76, Cory, im_not_afraid, Zamiel	12	5	25
+15054	5	0	No Variant	2018-12-16 — 06:54:15 UTC	Andrey Khesin, Asddsa76, Cory, im_not_afraid, Zamiel	12	5	25
+15052	5	24	No Variant	2018-12-16 — 06:16:46 UTC	Andrey Khesin, Asddsa76, Cory, im_not_afraid, Zamiel	12	5	25
 15050	3	24	No Variant	2018-12-16 — 05:47:15 UTC	Asddsa76, im_not_afraid, Zamiel	9	5	25
-15003	3	25	No Variant	2018-12-15 — 13:50:41 UTC	Andrew_UK, Asddsa76, varung97	375	5	25
-15002	3	0	Rainbow (6 Suits)	2018-12-15 — 13:21:46 UTC	Andrew_UK, Asddsa76, qqqq	68	6	30
+15003	3	25	No Variant	2018-12-15 — 13:50:41 UTC	Andrew_UK, Asddsa76, varung97	380	5	25
+15002	3	0	Rainbow (6 Suits)	2018-12-15 — 13:21:46 UTC	Andrew_UK, Asddsa76, qqqq	69	6	30
 14995	5	0	Dual-Color (6 Suits)	2018-12-15 — 03:56:09 UTC	Andrey Khesin, Asddsa76, cak199164, Cory, Zamiel	6	6	30
 14934	4	30	Rainbow (6 Suits)	2018-12-14 — 04:10:01 UTC	Asddsa76, florrat2, Libster, Zamiel	2	6	30
 14932	5	29	Rainbow (6 Suits)	2018-12-14 — 03:21:39 UTC	Asddsa76, florrat2, Libster, Naive_Riolu, Zamiel	2	6	30
@@ -893,7 +893,7 @@
 14927	3	0	Rainbow (6 Suits)	2018-12-14 — 01:57:51 UTC	Asddsa76, Naive_Riolu, Zamiel	3	6	30
 14882	5	23	No Variant	2018-12-13 — 03:41:50 UTC	Andrey Khesin, Asddsa76, cubegoldberg, scharkbite, Zamiel	11	5	25
 14881	4	0	No Variant	2018-12-13 — 03:10:31 UTC	Andrey Khesin, Asddsa76, cubegoldberg, Zamiel	5	5	25
-14880	5	0	No Variant	2018-12-13 — 02:46:01 UTC	Andrey Khesin, Asddsa76, cubegoldberg, florrat2, Zamiel	11	5	25
+14880	5	0	No Variant	2018-12-13 — 02:46:01 UTC	Andrey Khesin, Asddsa76, cubegoldberg, florrat2, Zamiel	12	5	25
 14862	3	0	Black (6 Suits)	2018-12-12 — 06:10:46 UTC	Asddsa76, Libster, scharkbite	11	6	30
 14861	4	30	Black (6 Suits)	2018-12-12 — 05:47:45 UTC	Asddsa76, florrat2, Libster, scharkbite	2	6	30
 14857	3	27	Rainbow (6 Suits)	2018-12-12 — 04:27:44 UTC	Asddsa76, florrat2, Zamiel	1	6	30
@@ -907,19 +907,19 @@
 14847	4	0	Black & Dark Rainbow (6 Suits)	2018-12-12 — 02:22:45 UTC	Asddsa76, Cory, florrat2, Zamiel	1	6	30
 14846	3	0	Rainbow (6 Suits)	2018-12-12 — 02:09:13 UTC	Asddsa76, florrat2, Zamiel	1	6	30
 14845	3	0	Rainbow (6 Suits)	2018-12-12 — 02:01:54 UTC	Asddsa76, florrat2, Zamiel	1	6	30
-14844	3	0	No Variant	2018-12-11 — 23:33:11 UTC	Asddsa76, scharkbite, TFPhage	801	5	25
-14843	3	0	No Variant	2018-12-11 — 23:14:03 UTC	Asddsa76, scharkbite, TFPhage	840	5	25
-14839	3	25	No Variant	2018-12-11 — 22:46:46 UTC	Asddsa76, scharkbite, TFPhage	940	5	25
-14838	3	0	No Variant	2018-12-11 — 22:16:11 UTC	Asddsa76, scharkbite, TFPhage	1636	5	25
-14837	3	0	No Variant	2018-12-11 — 21:58:22 UTC	Asddsa76, scharkbite, TFPhage	2163	5	25
+14844	3	0	No Variant	2018-12-11 — 23:33:11 UTC	Asddsa76, scharkbite, TFPhage	809	5	25
+14843	3	0	No Variant	2018-12-11 — 23:14:03 UTC	Asddsa76, scharkbite, TFPhage	849	5	25
+14839	3	25	No Variant	2018-12-11 — 22:46:46 UTC	Asddsa76, scharkbite, TFPhage	952	5	25
+14838	3	0	No Variant	2018-12-11 — 22:16:11 UTC	Asddsa76, scharkbite, TFPhage	1651	5	25
+14837	3	0	No Variant	2018-12-11 — 21:58:22 UTC	Asddsa76, scharkbite, TFPhage	2179	5	25
 14797	4	24	No Variant	2018-12-11 — 07:03:50 UTC	Asddsa76, Libster, RaKXeR, TFPhage	33	5	25
-14796	3	0	No Variant	2018-12-11 — 06:18:07 UTC	Asddsa76, RaKXeR, TFPhage	41	5	25
-14795	3	0	No Variant	2018-12-11 — 05:50:04 UTC	Asddsa76, RaKXeR, TFPhage	41	5	25
-14794	2	0	No Variant	2018-12-11 — 05:38:56 UTC	Asddsa76, TFPhage	4109	5	25
-14632	3	25	No Variant	2018-12-10 — 00:11:31 UTC	Asddsa76, RaKXeR, scharkbite	37	5	25
-14630	3	0	No Variant	2018-12-09 — 23:56:57 UTC	Asddsa76, RaKXeR, scharkbite	38	5	25
-14629	3	25	No Variant	2018-12-09 — 23:42:57 UTC	Asddsa76, RaKXeR, scharkbite	39	5	25
-14628	3	22	No Variant	2018-12-09 — 23:30:30 UTC	Asddsa76, RaKXeR, scharkbite	42	5	25
+14796	3	0	No Variant	2018-12-11 — 06:18:07 UTC	Asddsa76, RaKXeR, TFPhage	42	5	25
+14795	3	0	No Variant	2018-12-11 — 05:50:04 UTC	Asddsa76, RaKXeR, TFPhage	43	5	25
+14794	2	0	No Variant	2018-12-11 — 05:38:56 UTC	Asddsa76, TFPhage	4149	5	25
+14632	3	25	No Variant	2018-12-10 — 00:11:31 UTC	Asddsa76, RaKXeR, scharkbite	39	5	25
+14630	3	0	No Variant	2018-12-09 — 23:56:57 UTC	Asddsa76, RaKXeR, scharkbite	40	5	25
+14629	3	25	No Variant	2018-12-09 — 23:42:57 UTC	Asddsa76, RaKXeR, scharkbite	41	5	25
+14628	3	22	No Variant	2018-12-09 — 23:30:30 UTC	Asddsa76, RaKXeR, scharkbite	44	5	25
 14625	4	28	Black (6 Suits)	2018-12-09 — 23:14:55 UTC	Asddsa76, Libster, RaKXeR, scharkbite	4	6	30
 14624	3	30	Black (6 Suits)	2018-12-09 — 22:39:52 UTC	Asddsa76, RaKXeR, scharkbite	24	6	30
 14623	3	0	Black (6 Suits)	2018-12-09 — 22:18:40 UTC	Asddsa76, RaKXeR, scharkbite	28	6	30
@@ -947,16 +947,16 @@
 14258	3	0	Rainbow (6 Suits)	2018-12-03 — 20:18:33 UTC	Asddsa76, Libster, scharkbite	7	6	30
 14256	4	30	Rainbow (6 Suits)	2018-12-03 — 19:39:02 UTC	Asddsa76, Libster, RaKXeR, scharkbite	5	6	30
 14255	3	0	Rainbow (6 Suits)	2018-12-03 — 19:13:26 UTC	Asddsa76, Libster, scharkbite	7	6	30
-14233	4	30	Dark Rainbow (6 Suits)	2018-12-02 — 22:47:12 UTC	Asddsa76, Instantiation, RaKXeR, scharkbite	25	6	30
-14232	3	30	6 Suits	2018-12-02 — 22:02:33 UTC	Asddsa76, RaKXeR, scharkbite	47	6	30
+14233	4	30	Dark Rainbow (6 Suits)	2018-12-02 — 22:47:12 UTC	Asddsa76, Instantiation, RaKXeR, scharkbite	27	6	30
+14232	3	30	6 Suits	2018-12-02 — 22:02:33 UTC	Asddsa76, RaKXeR, scharkbite	48	6	30
 14231	4	0	Rainbow (6 Suits)	2018-12-02 — 21:34:50 UTC	Asddsa76, Libster, RaKXeR, scharkbite	4	6	30
 14230	5	0	Rainbow (6 Suits)	2018-12-02 — 21:14:39 UTC	Asddsa76, Libster, postmans, RaKXeR, scharkbite	3	6	30
 14227	5	0	Rainbow (6 Suits)	2018-12-02 — 20:43:27 UTC	Asddsa76, Libster, postmans, RaKXeR, scharkbite	3	6	30
 14225	3	26	Rainbow (6 Suits)	2018-12-02 — 20:26:06 UTC	Asddsa76, Libster, scharkbite	7	6	30
 14222	4	0	Rainbow (6 Suits)	2018-12-02 — 03:29:02 UTC	Asddsa76, Cory, qqqq, scharkbite	8	6	30
 14220	4	30	Rainbow (6 Suits)	2018-12-02 — 02:03:33 UTC	Asddsa76, Cory, qqqq, scharkbite	10	6	30
-14218	4	0	Rainbow (6 Suits)	2018-12-02 — 01:29:12 UTC	Asddsa76, Cory, qqqq, scharkbite	15	6	30
-14217	4	0	Rainbow (6 Suits)	2018-12-02 — 01:15:08 UTC	Asddsa76, Cory, qqqq, scharkbite	15	6	30
+14218	4	0	Rainbow (6 Suits)	2018-12-02 — 01:29:12 UTC	Asddsa76, Cory, qqqq, scharkbite	16	6	30
+14217	4	0	Rainbow (6 Suits)	2018-12-02 — 01:15:08 UTC	Asddsa76, Cory, qqqq, scharkbite	16	6	30
 14178	3	0	Rainbow (6 Suits)	2018-11-30 — 20:59:41 UTC	Andrew_UK, Asddsa76, Libster	7	6	30
 14177	3	0	Rainbow (6 Suits)	2018-11-30 — 20:44:22 UTC	Andrew_UK, Asddsa76, Libster	7	6	30
 14175	3	0	Rainbow (6 Suits)	2018-11-30 — 20:30:30 UTC	Andrew_UK, Asddsa76, Libster	7	6	30
@@ -964,110 +964,110 @@
 14148	5	30	Rainbow (6 Suits)	2018-11-30 — 00:17:35 UTC	Andrew_UK, Asddsa76, Libster, NoMercy, scharkbite	2	6	30
 14146	4	30	Rainbow (6 Suits)	2018-11-29 — 23:45:25 UTC	Andrew_UK, Asddsa76, Libster, scharkbite	12	6	30
 14145	3	0	Rainbow (6 Suits)	2018-11-29 — 23:13:55 UTC	Andrew_UK, Asddsa76, scharkbite	13	6	30
-14124	4	0	No Variant	2018-11-29 — 20:35:52 UTC	Andrew_UK, Asddsa76, garbo late game, Libster	43	5	25
-14118	4	0	No Variant	2018-11-29 — 20:17:08 UTC	Andrew_UK, Asddsa76, garbo late game, Libster	43	5	25
-14081	3	0	Rainbow (6 Suits)	2018-11-29 — 04:50:39 UTC	910dan, Asddsa76, scharkbite	18	6	30
-14080	3	25	No Variant	2018-11-29 — 04:26:34 UTC	910dan, Asddsa76, scharkbite	1095	5	25
-14079	2	25	No Variant	2018-11-29 — 04:08:06 UTC	Asddsa76, scharkbite	1840	5	25
-14064	4	25	No Variant	2018-11-28 — 23:49:57 UTC	Asddsa76, Cory, Libster, NoMercy	45	5	25
+14124	4	0	No Variant	2018-11-29 — 20:35:52 UTC	Andrew_UK, Asddsa76, garbo late game, Libster	44	5	25
+14118	4	0	No Variant	2018-11-29 — 20:17:08 UTC	Andrew_UK, Asddsa76, garbo late game, Libster	44	5	25
+14081	3	0	Rainbow (6 Suits)	2018-11-29 — 04:50:39 UTC	910dan, Asddsa76, scharkbite	19	6	30
+14080	3	25	No Variant	2018-11-29 — 04:26:34 UTC	910dan, Asddsa76, scharkbite	1102	5	25
+14079	2	25	No Variant	2018-11-29 — 04:08:06 UTC	Asddsa76, scharkbite	1856	5	25
+14064	4	25	No Variant	2018-11-28 — 23:49:57 UTC	Asddsa76, Cory, Libster, NoMercy	46	5	25
 14062	3	0	Black (6 Suits)	2018-11-28 — 22:55:53 UTC	Asddsa76, Libster, RaKXeR	12	6	30
-13953	4	0	No Variant	2018-11-28 — 03:09:05 UTC	Asddsa76, Cory, florrat2, Libster	47	5	25
-13952	3	0	No Variant	2018-11-28 — 02:53:09 UTC	Asddsa76, Cory, florrat2	42	5	25
-13951	3	24	No Variant	2018-11-28 — 02:29:47 UTC	Asddsa76, Cory, florrat2	40	5	25
+13953	4	0	No Variant	2018-11-28 — 03:09:05 UTC	Asddsa76, Cory, florrat2, Libster	48	5	25
+13952	3	0	No Variant	2018-11-28 — 02:53:09 UTC	Asddsa76, Cory, florrat2	44	5	25
+13951	3	24	No Variant	2018-11-28 — 02:29:47 UTC	Asddsa76, Cory, florrat2	42	5	25
 13948	4	0	Black (6 Suits)	2018-11-28 — 01:09:24 UTC	Asddsa76, Cory, Libster, NoMercy	10	6	30
 13945	4	0	Black (6 Suits)	2018-11-28 — 00:55:13 UTC	Asddsa76, Cory, Libster, NoMercy	10	6	30
 13941	4	0	Black (6 Suits)	2018-11-28 — 00:41:19 UTC	Asddsa76, Cory, Libster, NoMercy	10	6	30
 13940	4	0	Black (6 Suits)	2018-11-28 — 00:34:12 UTC	Asddsa76, Cory, Libster, NoMercy	10	6	30
-13939	4	29	Black (6 Suits)	2018-11-28 — 00:08:45 UTC	Andrew_UK, Asddsa76, RaKXeR, SedNegi	213	6	30
+13939	4	29	Black (6 Suits)	2018-11-28 — 00:08:45 UTC	Andrew_UK, Asddsa76, RaKXeR, SedNegi	215	6	30
 13935	3	30	Black (6 Suits)	2018-11-27 — 21:44:15 UTC	Asddsa76, Libster, scharkbite	11	6	30
 13932	3	27	Black (6 Suits)	2018-11-27 — 21:12:34 UTC	Asddsa76, Libster, scharkbite	11	6	30
-13929	2	23	No Variant	2018-11-27 — 20:38:03 UTC	Asddsa76, scharkbite	2532	5	25
+13929	2	23	No Variant	2018-11-27 — 20:38:03 UTC	Asddsa76, scharkbite	2552	5	25
 13895	5	0	Black (6 Suits)	2018-11-27 — 05:21:55 UTC	910dan, Asddsa76, florrat2, Libster, scharkbite	3	6	30
 13882	3	29	Black (6 Suits)	2018-11-27 — 04:43:02 UTC	Asddsa76, florrat2, Libster	2	6	30
-13879	5	25	No Variant	2018-11-27 — 00:25:11 UTC	Andrey Khesin, Asddsa76, Cory, RaKXeR, scharkbite	163	5	25
+13879	5	25	No Variant	2018-11-27 — 00:25:11 UTC	Andrey Khesin, Asddsa76, Cory, RaKXeR, scharkbite	166	5	25
 13878	5	28	Rainbow (6 Suits)	2018-11-26 — 23:53:51 UTC	Andrew_UK, Asddsa76, Cory, Libster, RaKXeR	4	6	30
 13877	4	0	Rainbow (6 Suits)	2018-11-26 — 23:29:22 UTC	Andrew_UK, Asddsa76, Libster, RaKXeR	7	6	30
 13876	4	0	Rainbow (6 Suits)	2018-11-26 — 23:22:07 UTC	Andrew_UK, Asddsa76, Libster, RaKXeR	10	6	30
 13875	4	0	Rainbow (6 Suits)	2018-11-26 — 22:58:21 UTC	Andrew_UK, Asddsa76, Libster, RaKXeR	9	6	30
-13874	4	0	Rainbow (6 Suits)	2018-11-26 — 22:35:08 UTC	Andrew_UK, Asddsa76, Libster, RaKXeR	11	6	30
-13860	3	28	Black (6 Suits)	2018-11-26 — 19:45:52 UTC	Asddsa76, Libster, scharkbite	15	6	30
-13858	3	27	Black (6 Suits)	2018-11-26 — 18:51:18 UTC	Asddsa76, Libster, scharkbite	15	6	30
-13850	3	0	Black (6 Suits)	2018-11-26 — 02:59:48 UTC	Asddsa76, Cory, Libster	16	6	30
-13849	3	0	Black (6 Suits)	2018-11-26 — 02:31:08 UTC	Asddsa76, Cory, Libster	19	6	30
-13848	3	0	Black (6 Suits)	2018-11-26 — 02:18:07 UTC	Asddsa76, Cory, Libster	19	6	30
-13845	4	0	Black (6 Suits)	2018-11-26 — 01:48:19 UTC	Asddsa76, Cory, Libster, scharkbite	10	6	30
-13833	3	0	Black (6 Suits)	2018-11-26 — 00:52:32 UTC	Asddsa76, Cory, Libster	19	6	30
-13827	3	30	Ambiguous (6 Suits)	2018-11-25 — 23:46:06 UTC	Asddsa76, RaKXeR, scharkbite	22	6	30
-13826	3	26	Black (6 Suits)	2018-11-25 — 23:02:57 UTC	Asddsa76, RaKXeR, scharkbite	108	6	30
-13825	2	22	No Variant	2018-11-25 — 22:43:39 UTC	Asddsa76, scharkbite	2750	5	25
+13874	4	0	Rainbow (6 Suits)	2018-11-26 — 22:35:08 UTC	Andrew_UK, Asddsa76, Libster, RaKXeR	12	6	30
+13860	3	28	Black (6 Suits)	2018-11-26 — 19:45:52 UTC	Asddsa76, Libster, scharkbite	16	6	30
+13858	3	27	Black (6 Suits)	2018-11-26 — 18:51:18 UTC	Asddsa76, Libster, scharkbite	16	6	30
+13850	3	0	Black (6 Suits)	2018-11-26 — 02:59:48 UTC	Asddsa76, Cory, Libster	17	6	30
+13849	3	0	Black (6 Suits)	2018-11-26 — 02:31:08 UTC	Asddsa76, Cory, Libster	20	6	30
+13848	3	0	Black (6 Suits)	2018-11-26 — 02:18:07 UTC	Asddsa76, Cory, Libster	20	6	30
+13845	4	0	Black (6 Suits)	2018-11-26 — 01:48:19 UTC	Asddsa76, Cory, Libster, scharkbite	11	6	30
+13833	3	0	Black (6 Suits)	2018-11-26 — 00:52:32 UTC	Asddsa76, Cory, Libster	20	6	30
+13827	3	30	Ambiguous (6 Suits)	2018-11-25 — 23:46:06 UTC	Asddsa76, RaKXeR, scharkbite	23	6	30
+13826	3	26	Black (6 Suits)	2018-11-25 — 23:02:57 UTC	Asddsa76, RaKXeR, scharkbite	111	6	30
+13825	2	22	No Variant	2018-11-25 — 22:43:39 UTC	Asddsa76, scharkbite	2772	5	25
 13766	5	24	No Variant	2018-11-25 — 04:27:45 UTC	Asddsa76, florrat2, jeep, Libster, scharkbite	7	5	25
 13765	4	0	No Variant	2018-11-25 — 03:54:46 UTC	Asddsa76, jeep, Libster, scharkbite	47	5	25
 13764	4	25	No Variant	2018-11-25 — 03:32:36 UTC	Asddsa76, jeep, Libster, scharkbite	60	5	25
 13763	5	0	Rainbow (6 Suits)	2018-11-25 — 03:17:23 UTC	910dan, Asddsa76, jeep, Libster, scharkbite	3	6	30
-13761	3	25	No Variant	2018-11-24 — 22:49:09 UTC	Asddsa76, Cory, Libster	223	5	25
-13750	3	24	No Variant	2018-11-24 — 04:11:04 UTC	Asddsa76, Cory, florrat2	39	5	25
+13761	3	25	No Variant	2018-11-24 — 22:49:09 UTC	Asddsa76, Cory, Libster	228	5	25
+13750	3	24	No Variant	2018-11-24 — 04:11:04 UTC	Asddsa76, Cory, florrat2	41	5	25
 13749	3	0	No Variant	2018-11-24 — 03:34:56 UTC	Asddsa76, florrat2, Libster	22	5	25
-13747	3	0	No Variant	2018-11-24 — 02:58:42 UTC	Asddsa76, florrat2, Libster	24	5	25
-13745	3	24	No Variant	2018-11-24 — 02:02:43 UTC	Asddsa76, florrat2, Libster	25	5	25
+13747	3	0	No Variant	2018-11-24 — 02:58:42 UTC	Asddsa76, florrat2, Libster	25	5	25
+13745	3	24	No Variant	2018-11-24 — 02:02:43 UTC	Asddsa76, florrat2, Libster	26	5	25
 13740	5	0	No Variant	2018-11-23 — 22:13:16 UTC	Asddsa76, florrat2, Libster, RaKXeR, scharkbite	8	5	25
-13739	4	0	No Variant	2018-11-23 — 21:46:59 UTC	Asddsa76, florrat2, Libster, scharkbite	55	5	25
-13738	4	24	No Variant	2018-11-23 — 21:30:26 UTC	Asddsa76, florrat2, Libster, scharkbite	54	5	25
+13739	4	0	No Variant	2018-11-23 — 21:46:59 UTC	Asddsa76, florrat2, Libster, scharkbite	56	5	25
+13738	4	24	No Variant	2018-11-23 — 21:30:26 UTC	Asddsa76, florrat2, Libster, scharkbite	55	5	25
 13737	3	24	No Variant	2018-11-23 — 20:57:42 UTC	Asddsa76, Libster, RaKXeR	25	5	25
 13736	3	0	No Variant	2018-11-23 — 20:26:19 UTC	Asddsa76, Libster, RaKXeR	27	5	25
 13735	4	0	No Variant	2018-11-23 — 20:16:39 UTC	Asddsa76, Libster, RaKXeR, Zamiel	5	5	25
 13734	4	0	No Variant	2018-11-23 — 20:05:24 UTC	Asddsa76, Libster, RaKXeR, Zamiel	6	5	25
 13732	3	0	No Variant	2018-11-23 — 19:44:13 UTC	Asddsa76, Libster, Zamiel	10	5	25
-13725	4	25	No Variant	2018-11-23 — 04:59:08 UTC	Asddsa76, Libster, scharkbite, Yeesh	79	5	25
+13725	4	25	No Variant	2018-11-23 — 04:59:08 UTC	Asddsa76, Libster, scharkbite, Yeesh	81	5	25
 13717	3	24	No Variant	2018-11-23 — 02:52:32 UTC	Asddsa76, qqqq, Zamiel	11	5	25
 13716	3	0	No Variant	2018-11-23 — 02:39:23 UTC	Asddsa76, qqqq, Zamiel	11	5	25
-13715	3	0	No Variant	2018-11-23 — 02:31:18 UTC	Asddsa76, qqqq, Zamiel	11	5	25
-13713	3	24	No Variant	2018-11-23 — 02:11:39 UTC	Asddsa76, qqqq, Zamiel	11	5	25
-13712	3	24	No Variant	2018-11-23 — 01:49:54 UTC	Asddsa76, qqqq, Zamiel	11	5	25
-13660	5	23	No Variant	2018-11-22 — 03:32:58 UTC	Asddsa76, Libster, qqqq, scharkbite, Zamiel	2	5	25
-13654	5	24	No Variant	2018-11-22 — 02:56:21 UTC	Asddsa76, Libster, qqqq, scharkbite, Zamiel	2	5	25
+13715	3	0	No Variant	2018-11-23 — 02:31:18 UTC	Asddsa76, qqqq, Zamiel	12	5	25
+13713	3	24	No Variant	2018-11-23 — 02:11:39 UTC	Asddsa76, qqqq, Zamiel	12	5	25
+13712	3	24	No Variant	2018-11-23 — 01:49:54 UTC	Asddsa76, qqqq, Zamiel	12	5	25
+13660	5	23	No Variant	2018-11-22 — 03:32:58 UTC	Asddsa76, Libster, qqqq, scharkbite, Zamiel	3	5	25
+13654	5	24	No Variant	2018-11-22 — 02:56:21 UTC	Asddsa76, Libster, qqqq, scharkbite, Zamiel	3	5	25
 13652	4	22	No Variant	2018-11-22 — 02:20:33 UTC	Asddsa76, qqqq, scharkbite, Zamiel	6	5	25
 13641	4	0	6 Suits	2018-11-21 — 18:28:03 UTC	Asddsa76, Libster, NoMercy, scharkbite	14	6	30
 13640	4	30	Black (6 Suits)	2018-11-21 — 18:08:21 UTC	Asddsa76, Libster, NoMercy, scharkbite	11	6	30
 13638	4	0	Black (6 Suits)	2018-11-21 — 17:41:22 UTC	Asddsa76, Libster, NoMercy, scharkbite	13	6	30
-13635	2	0	Black (6 Suits)	2018-11-21 — 17:21:45 UTC	Asddsa76, Libster	186	6	30
-13634	2	0	Black (6 Suits)	2018-11-21 — 17:10:59 UTC	Asddsa76, Libster	186	6	30
-13633	2	0	Black (6 Suits)	2018-11-21 — 17:05:59 UTC	Asddsa76, Libster	192	6	30
-13632	2	0	Black (6 Suits)	2018-11-21 — 17:02:46 UTC	Asddsa76, Libster	201	6	30
-13630	2	0	Black (6 Suits)	2018-11-21 — 16:59:02 UTC	Asddsa76, Libster	214	6	30
-13629	2	24	Black (6 Suits)	2018-11-21 — 16:42:58 UTC	Asddsa76, Libster	221	6	30
-13627	2	0	Black (6 Suits)	2018-11-21 — 16:21:31 UTC	Asddsa76, Libster	232	6	30
-13626	2	28	6 Suits	2018-11-21 — 16:11:53 UTC	Asddsa76, Libster	851	6	30
-13623	2	25	No Variant	2018-11-21 — 15:42:14 UTC	Asddsa76, Libster	3507	5	25
-13622	2	0	No Variant	2018-11-21 — 15:28:57 UTC	Asddsa76, Libster	5374	5	25
+13635	2	0	Black (6 Suits)	2018-11-21 — 17:21:45 UTC	Asddsa76, Libster	189	6	30
+13634	2	0	Black (6 Suits)	2018-11-21 — 17:10:59 UTC	Asddsa76, Libster	190	6	30
+13633	2	0	Black (6 Suits)	2018-11-21 — 17:05:59 UTC	Asddsa76, Libster	196	6	30
+13632	2	0	Black (6 Suits)	2018-11-21 — 17:02:46 UTC	Asddsa76, Libster	205	6	30
+13630	2	0	Black (6 Suits)	2018-11-21 — 16:59:02 UTC	Asddsa76, Libster	218	6	30
+13629	2	24	Black (6 Suits)	2018-11-21 — 16:42:58 UTC	Asddsa76, Libster	226	6	30
+13627	2	0	Black (6 Suits)	2018-11-21 — 16:21:31 UTC	Asddsa76, Libster	237	6	30
+13626	2	28	6 Suits	2018-11-21 — 16:11:53 UTC	Asddsa76, Libster	862	6	30
+13623	2	25	No Variant	2018-11-21 — 15:42:14 UTC	Asddsa76, Libster	3537	5	25
+13622	2	0	No Variant	2018-11-21 — 15:28:57 UTC	Asddsa76, Libster	5421	5	25
 13610	4	24	No Variant	2018-11-21 — 03:53:02 UTC	Asddsa76, florrat2, Libster, Zamiel	5	5	25
-13602	3	25	No Variant	2018-11-20 — 23:45:01 UTC	Andrew_UK, Asddsa76, Libster	250	5	25
+13602	3	25	No Variant	2018-11-20 — 23:45:01 UTC	Andrew_UK, Asddsa76, Libster	252	5	25
 13587	3	25	No Variant	2018-11-20 — 19:32:59 UTC	Asddsa76, Libster, Zamiel	10	5	25
-13585	3	0	No Variant	2018-11-20 — 19:07:00 UTC	Asddsa76, Libster, Zamiel	10	5	25
-13582	3	24	No Variant	2018-11-20 — 18:35:44 UTC	Asddsa76, Libster, Zamiel	9	5	25
+13585	3	0	No Variant	2018-11-20 — 19:07:00 UTC	Asddsa76, Libster, Zamiel	11	5	25
+13582	3	24	No Variant	2018-11-20 — 18:35:44 UTC	Asddsa76, Libster, Zamiel	10	5	25
 13581	3	25	No Variant	2018-11-20 — 18:04:59 UTC	Asddsa76, Libster, Zamiel	11	5	25
 13580	3	0	No Variant	2018-11-20 — 17:47:40 UTC	Asddsa76, Libster, Zamiel	11	5	25
 13579	3	0	No Variant	2018-11-20 — 17:43:33 UTC	Asddsa76, Libster, Zamiel	10	5	25
 13575	4	25	No Variant	2018-11-20 — 04:03:49 UTC	Asddsa76, Cory, florrat2, Libster	51	5	25
 13571	4	0	No Variant	2018-11-20 — 03:39:22 UTC	Asddsa76, Cory, florrat2, Libster	52	5	25
-13560	4	30	6 Suits	2018-11-19 — 23:19:44 UTC	Asddsa76, Cory, RaKXeR, scharkbite	68	6	30
+13560	4	30	6 Suits	2018-11-19 — 23:19:44 UTC	Asddsa76, Cory, RaKXeR, scharkbite	69	6	30
 13496	4	25	No Variant	2018-11-19 — 04:07:48 UTC	Asddsa76, florrat2, Libster, qqqq	57	5	25
 13495	4	0	No Variant	2018-11-19 — 03:39:41 UTC	Asddsa76, florrat2, Libster, qqqq	61	5	25
-13489	3	29	Black (6 Suits)	2018-11-18 — 22:31:05 UTC	Andrew_UK, Asddsa76, Libster	22	6	30
+13489	3	29	Black (6 Suits)	2018-11-18 — 22:31:05 UTC	Andrew_UK, Asddsa76, Libster	23	6	30
 13487	3	0	Black (6 Suits)	2018-11-18 — 22:06:01 UTC	Andrew_UK, Asddsa76, Libster	23	6	30
 13486	3	0	Black (6 Suits)	2018-11-18 — 21:51:45 UTC	Andrew_UK, Asddsa76, Libster	23	6	30
 13484	3	0	Black (6 Suits)	2018-11-18 — 21:39:35 UTC	Andrew_UK, Asddsa76, Libster	23	6	30
 13481	4	30	Black (6 Suits)	2018-11-18 — 16:44:39 UTC	Andrew_UK, Asddsa76, Cory, Libster	14	6	30
 13480	3	0	Black (6 Suits)	2018-11-18 — 16:20:05 UTC	Andrew_UK, Asddsa76, Libster	24	6	30
 13479	3	0	Black (6 Suits)	2018-11-18 — 16:10:30 UTC	Andrew_UK, Asddsa76, Libster	24	6	30
-13462	3	25	No Variant	2018-11-18 — 03:27:39 UTC	Asddsa76, Cory, jeep	307	5	25
+13462	3	25	No Variant	2018-11-18 — 03:27:39 UTC	Asddsa76, Cory, jeep	311	5	25
 13422	3	30	Black (6 Suits)	2018-11-17 — 18:12:45 UTC	Asddsa76, florrat2, Libster	2	6	30
 13421	3	28	Black (6 Suits)	2018-11-17 — 17:25:29 UTC	Asddsa76, florrat2, Libster	2	6	30
-13420	3	25	No Variant	2018-11-17 — 16:48:02 UTC	Asddsa76, florrat2, Libster	27	5	25
-13403	3	24	No Variant	2018-11-17 — 04:49:23 UTC	Asddsa76, jeep, Libster	324	5	25
-13401	3	22	No Variant	2018-11-17 — 04:24:41 UTC	Asddsa76, jeep, qqqq	1017	5	25
-13400	3	0	No Variant	2018-11-17 — 04:05:15 UTC	Asddsa76, jeep, RaKXeR	40	5	25
-13399	3	0	No Variant	2018-11-17 — 03:46:07 UTC	Asddsa76, jeep, RaKXeR	46	5	25
-13398	3	0	No Variant	2018-11-17 — 03:34:58 UTC	Asddsa76, jeep, RaKXeR	47	5	25
+13420	3	25	No Variant	2018-11-17 — 16:48:02 UTC	Asddsa76, florrat2, Libster	28	5	25
+13403	3	24	No Variant	2018-11-17 — 04:49:23 UTC	Asddsa76, jeep, Libster	330	5	25
+13401	3	22	No Variant	2018-11-17 — 04:24:41 UTC	Asddsa76, jeep, qqqq	1026	5	25
+13400	3	0	No Variant	2018-11-17 — 04:05:15 UTC	Asddsa76, jeep, RaKXeR	42	5	25
+13399	3	0	No Variant	2018-11-17 — 03:46:07 UTC	Asddsa76, jeep, RaKXeR	48	5	25
+13398	3	0	No Variant	2018-11-17 — 03:34:58 UTC	Asddsa76, jeep, RaKXeR	48	5	25
 13397	4	25	No Variant	2018-11-17 — 03:09:38 UTC	Asddsa76, garbo late game, RaKXeR, Zamiel	7	5	25
 13396	3	0	No Variant	2018-11-17 — 02:38:53 UTC	Asddsa76, garbo late game, Zamiel	10	5	25
 13395	3	0	No Variant	2018-11-17 — 02:06:25 UTC	Asddsa76, garbo late game, Zamiel	10	5	25
@@ -1075,23 +1075,23 @@
 13393	4	21	No Variant	2018-11-17 — 00:49:57 UTC	Asddsa76, Libster, RaKXeR, Zamiel	7	5	25
 13392	3	0	No Variant	2018-11-17 — 00:30:15 UTC	Asddsa76, RaKXeR, Zamiel	9	5	25
 13381	4	0	No Variant	2018-11-16 — 21:36:20 UTC	Asddsa76, Libster, RaKXeR, Zamiel	8	5	25
-13380	3	0	No Variant	2018-11-16 — 21:27:24 UTC	Asddsa76, Libster, RaKXeR	48	5	25
-13358	3	25	No Variant	2018-11-16 — 04:46:36 UTC	Asddsa76, jeep, Libster	344	5	25
-13353	3	24	No Variant	2018-11-16 — 04:23:31 UTC	Asddsa76, jeep, Libster	354	5	25
-13346	3	25	No Variant	2018-11-16 — 02:02:06 UTC	Asddsa76, jeep, Libster	386	5	25
-13345	3	0	No Variant	2018-11-15 — 23:32:08 UTC	Asddsa76, Libster, RaKXeR	50	5	25
-13340	3	24	No Variant	2018-11-15 — 21:48:47 UTC	Asddsa76, Libster, SedNegi	411	5	25
-13332	4	23	No Variant	2018-11-15 — 21:00:38 UTC	Andrew_UK, Asddsa76, Libster, SedNegi	156	5	25
-13331	4	23	No Variant	2018-11-15 — 20:25:57 UTC	Andrew_UK, Asddsa76, Libster, SedNegi	3581	5	25
-13321	3	25	No Variant	2018-11-15 — 07:33:28 UTC	Asddsa76, garbo late game, jeep	3260	5	25
-13320	3	24	No Variant	2018-11-15 — 06:33:28 UTC	Asddsa76, garbo late game, jeep	4221	5	25
-13319	3	0	No Variant	2018-11-15 — 05:58:17 UTC	Asddsa76, garbo late game, Libster	422	5	25
-13318	3	0	No Variant	2018-11-15 — 05:27:36 UTC	Asddsa76, garbo late game, Libster	459	5	25
+13380	3	0	No Variant	2018-11-16 — 21:27:24 UTC	Asddsa76, Libster, RaKXeR	50	5	25
+13358	3	25	No Variant	2018-11-16 — 04:46:36 UTC	Asddsa76, jeep, Libster	353	5	25
+13353	3	24	No Variant	2018-11-16 — 04:23:31 UTC	Asddsa76, jeep, Libster	359	5	25
+13346	3	25	No Variant	2018-11-16 — 02:02:06 UTC	Asddsa76, jeep, Libster	392	5	25
+13345	3	0	No Variant	2018-11-15 — 23:32:08 UTC	Asddsa76, Libster, RaKXeR	51	5	25
+13340	3	24	No Variant	2018-11-15 — 21:48:47 UTC	Asddsa76, Libster, SedNegi	417	5	25
+13332	4	23	No Variant	2018-11-15 — 21:00:38 UTC	Andrew_UK, Asddsa76, Libster, SedNegi	157	5	25
+13331	4	23	No Variant	2018-11-15 — 20:25:57 UTC	Andrew_UK, Asddsa76, Libster, SedNegi	3609	5	25
+13321	3	25	No Variant	2018-11-15 — 07:33:28 UTC	Asddsa76, garbo late game, jeep	3290	5	25
+13320	3	24	No Variant	2018-11-15 — 06:33:28 UTC	Asddsa76, garbo late game, jeep	4250	5	25
+13319	3	0	No Variant	2018-11-15 — 05:58:17 UTC	Asddsa76, garbo late game, Libster	428	5	25
+13318	3	0	No Variant	2018-11-15 — 05:27:36 UTC	Asddsa76, garbo late game, Libster	467	5	25
 13310	4	23	No Variant	2018-11-15 — 02:56:34 UTC	Asddsa76, florrat2, Instantiation, NoMercy	70	5	25
 13309	4	0	No Variant	2018-11-15 — 02:21:44 UTC	Asddsa76, florrat2, Instantiation, NoMercy	213	5	25
-13308	5	23	No Variant	2018-11-15 — 00:29:18 UTC	Andrew_UK, Asddsa76, Cory, Libster, Zamiel	3	5	25
-13307	5	0	No Variant	2018-11-14 — 23:57:19 UTC	Andrew_UK, Asddsa76, Cory, Libster, Zamiel	3	5	25
+13308	5	23	No Variant	2018-11-15 — 00:29:18 UTC	Andrew_UK, Asddsa76, Cory, Libster, Zamiel	4	5	25
+13307	5	0	No Variant	2018-11-14 — 23:57:19 UTC	Andrew_UK, Asddsa76, Cory, Libster, Zamiel	4	5	25
 13305	3	20	No Variant	2018-11-14 — 23:27:34 UTC	Asddsa76, Cory, Zamiel	9	5	25
-13293	4	24	No Variant	2018-11-14 — 19:59:22 UTC	Asddsa76, garbo late game, Libster, RaKXeR	55	5	25
-13291	3	0	No Variant	2018-11-14 — 19:27:14 UTC	Asddsa76, garbo late game, Libster	485	5	25
-13289	3	25	No Variant	2018-11-14 — 18:52:37 UTC	Asddsa76, garbo late game, Libster	645	5	25
+13293	4	24	No Variant	2018-11-14 — 19:59:22 UTC	Asddsa76, garbo late game, Libster, RaKXeR	56	5	25
+13291	3	0	No Variant	2018-11-14 — 19:27:14 UTC	Asddsa76, garbo late game, Libster	491	5	25
+13289	3	25	No Variant	2018-11-14 — 18:52:37 UTC	Asddsa76, garbo late game, Libster	655	5	25

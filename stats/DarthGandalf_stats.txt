@@ -1,101 +1,141 @@
+522957	3	22	Up or Down (5 Suits)	2021-05-07 — 08:55:31 UTC	Aluap, DarthGandalf, possum	18	5	25
+522421	3	0	Black & Gray (6 Suits)	2021-05-06 — 23:06:06 UTC	DarthGandalf, MangoPie, Wittvector	6	6	30
+522413	3	0	Black & Gray (6 Suits)	2021-05-06 — 22:45:18 UTC	DarthGandalf, MangoPie, Wittvector	6	6	30
+522411	3	0	Black & Gray (6 Suits)	2021-05-06 — 22:35:59 UTC	DarthGandalf, MangoPie, Wittvector	7	6	30
+522407	3	0	Black & Pink (6 Suits)	2021-05-06 — 22:18:14 UTC	bjnh, DarthGandalf, Wittvector	5	6	30
+522155	4	23	No Variant	2021-05-06 — 16:08:35 UTC	DarthGandalf, Fafrd, jatloe, possum	548	5	25
+522134	4	0	Rainbow & White (4 Suits)	2021-05-06 — 15:26:07 UTC	DarthGandalf, MathNoob, possum, wolfpack	9	4	20
+521669	5	0	Brown-Ones & Brown (6 Suits)	2021-05-05 — 22:39:59 UTC	DarthGandalf, jack67889, Lanvin, lotem, MarkusKahlsen	1	6	30
+520726	5	18	Rainbow (4 Suits)	2021-05-04 — 22:54:30 UTC	DarthGandalf, ejnyebejnye, Fafrd, rahsosprout, wump	7	4	20
+520698	5	18	Rainbow (4 Suits)	2021-05-04 — 22:29:36 UTC	DarthGandalf, ejnyebejnye, Fafrd, rahsosprout, wump	9	4	20
+520663	3	25	Reversed (5 Suits)	2021-05-04 — 21:40:42 UTC	BraydonM, DarthGandalf, ejnyebejnye	5	5	25
+520657	3	0	Reversed (5 Suits)	2021-05-04 — 21:27:57 UTC	BraydonM, DarthGandalf, ejnyebejnye	4	5	25
+520642	3	0	Reversed (5 Suits)	2021-05-04 — 21:13:30 UTC	BraydonM, DarthGandalf, ejnyebejnye	5	5	25
+520631	4	20	Dual-Color & Rainbow (4 Suits)	2021-05-04 — 20:58:09 UTC	BraydonM, DarthGandalf, macanek, rahsosprout	1	4	20
+520621	4	0	Dual-Color & Rainbow (4 Suits)	2021-05-04 — 20:44:19 UTC	BraydonM, DarthGandalf, macanek, rahsosprout	2	4	20
+520549	2	29	Null-Ones (6 Suits)	2021-05-04 — 18:53:05 UTC	asaelr, DarthGandalf	4	6	30
+520540	2	0	Null-Ones (6 Suits)	2021-05-04 — 18:39:15 UTC	asaelr, DarthGandalf	4	6	30
+520527	2	0	Null-Ones (6 Suits)	2021-05-04 — 18:30:36 UTC	asaelr, DarthGandalf	5	6	30
+520456	4	28	Brown & Prism (6 Suits)	2021-05-04 — 16:55:42 UTC	DarthGandalf, Fafrd, Fey, rz	6	6	30
+520448	4	28	Black & Brown (6 Suits)	2021-05-04 — 16:18:04 UTC	DarthGandalf, dobi, Fey, rz	10	6	30
+519677	4	30	Rainbow & Prism (6 Suits)	2021-05-03 — 20:29:11 UTC	bjnh, BraydonM, ChristopheAF, DarthGandalf	14	6	30
+519619	5	20	Muddy Rainbow (4 Suits)	2021-05-03 — 19:54:35 UTC	bjnh, ChristopheAF, colton, DarthGandalf, rahsosprout	7	4	20
+519335	3	25	No Variant	2021-05-03 — 09:23:14 UTC	DarthGandalf, macanek, possum	40	5	25
+519332	3	0	No Variant	2021-05-03 — 08:56:46 UTC	DarthGandalf, macanek, possum	41	5	25
+518874	3	26	Brown (6 Suits)	2021-05-02 — 20:40:13 UTC	DarthGandalf, Nitrate, Spieler42	26	6	30
+518830	3	29	Brown (6 Suits)	2021-05-02 — 20:03:31 UTC	DarthGandalf, Nitrate, Spieler42	27	6	30
+518061	3	19	White (4 Suits)	2021-05-01 — 22:03:03 UTC	DarthGandalf, kevincaseytdk1, kinkajusrevenge	19	4	20
+518026	3	20	Brown (4 Suits)	2021-05-01 — 21:37:44 UTC	DarthGandalf, Fafrd, kinkajusrevenge	22	4	20
+516890	3	20	Rainbow & Prism (4 Suits)	2021-04-30 — 17:25:40 UTC	bjnh, ChristopheAF, DarthGandalf	15	4	20
+515290	4	30	Gray (6 Suits)	2021-04-28 — 22:50:30 UTC	asaelr, DarthGandalf, griff77, vEnhance	14	6	30
+515117	3	22	No Variant	2021-04-28 — 19:44:19 UTC	CrazyMerlyn, DarthGandalf, StdBoxFromRust	456	5	25
+514004	5	23	No Variant	2021-04-27 — 16:05:50 UTC	asoffer1, DarthGandalf, lier, mbar, shaindel	145	5	25
+513989	5	0	No Variant	2021-04-27 — 15:27:56 UTC	asoffer1, DarthGandalf, lier, mbar, shaindel	166	5	25
+513505	3	26	Rainbow (6 Suits)	2021-04-26 — 23:15:49 UTC	DarthGandalf, socerman, tacobot5000	16	6	30
+513494	3	0	Pink (6 Suits)	2021-04-26 — 22:44:49 UTC	cockdestroyer, DarthGandalf, jeff10	94	6	30
+513483	4	0	Black & Dark Omni (6 Suits)	2021-04-26 — 22:13:51 UTC	cockdestroyer, DarthGandalf, HelanaAshryvr, melwen	2	6	30
+513470	3	25	No Variant	2021-04-26 — 21:49:28 UTC	DarthGandalf, ejnyebejnye, newduke	353	5	25
+513439	3	0	No Variant	2021-04-26 — 21:05:01 UTC	cassiaconti, DarthGandalf, Gabriel_fknewz	467	5	25
+512670	2	24	Prism Reversed (5 Suits)	2021-04-25 — 23:02:13 UTC	DarthGandalf, mystus	7	5	25
+512654	3	0	White & Prism (4 Suits)	2021-04-25 — 22:28:27 UTC	DarthGandalf, Lanvin, mystus	2	4	20
 511715	4	0	Omni (6 Suits)	2021-04-25 — 00:09:46 UTC	DarthGandalf, IsabeltheCat, kinkajusrevenge, mystus	19	6	30
-511688	4	0	Omni (6 Suits)	2021-04-24 — 23:41:25 UTC	DarthGandalf, IsabeltheCat, kinkajusrevenge, mystus	26	6	30
+511688	4	0	Omni (6 Suits)	2021-04-24 — 23:41:25 UTC	DarthGandalf, IsabeltheCat, kinkajusrevenge, mystus	27	6	30
 511583	3	0	Dark Rainbow (5 Suits)	2021-04-24 — 21:29:06 UTC	DarthGandalf, newduke, orucsoraihc	6	5	25
 511570	3	0	Dark Rainbow (5 Suits)	2021-04-24 — 21:11:32 UTC	DarthGandalf, newduke, orucsoraihc	7	5	25
 511556	3	0	Dark Rainbow (5 Suits)	2021-04-24 — 20:58:41 UTC	DarthGandalf, newduke, orucsoraihc	5	5	25
 511551	3	0	Dark Rainbow (5 Suits)	2021-04-24 — 20:54:05 UTC	DarthGandalf, newduke, orucsoraihc	13	5	25
-511541	3	22	Dark Rainbow (5 Suits)	2021-04-24 — 20:45:25 UTC	DarthGandalf, newduke, orucsoraihc	48	5	25
-510733	3	23	No Variant	2021-04-23 — 23:40:06 UTC	a_qq22, DarthGandalf, jason17055a	485	5	25
+511541	3	22	Dark Rainbow (5 Suits)	2021-04-24 — 20:45:25 UTC	DarthGandalf, newduke, orucsoraihc	49	5	25
+510733	3	23	No Variant	2021-04-23 — 23:40:06 UTC	a_qq22, DarthGandalf, jason17055a	491	5	25
 509643	3	30	Gray Reversed (6 Suits)	2021-04-22 — 21:47:46 UTC	DarthGandalf, robense, sephiroth	3	6	30
-508929	2	19	Prism (4 Suits)	2021-04-22 — 00:13:22 UTC	DarthGandalf, VBVBVBVB	66	4	20
+508929	2	19	Prism (4 Suits)	2021-04-22 — 00:13:22 UTC	DarthGandalf, VBVBVBVB	69	4	20
 508897	5	0	Brown-Ones & White (6 Suits)	2021-04-21 — 23:52:35 UTC	bjnh, DarthGandalf, Lanvin, MangoPie, melwen	1	6	30
-508883	5	22	No Variant	2021-04-21 — 23:32:57 UTC	bob65536, DarthGandalf, nkkarpov, Queue, voss	67	5	25
-508523	3	27	Rainbow & Prism (6 Suits)	2021-04-21 — 15:49:54 UTC	DarthGandalf, knaphill, Meowie	22	6	30
-507673	2	15	White (3 Suits)	2021-04-20 — 17:32:53 UTC	DarthGandalf, VBVBVBVB	46	3	15
-507662	2	0	White (3 Suits)	2021-04-20 — 17:24:36 UTC	DarthGandalf, VBVBVBVB	71	3	15
-507650	2	14	White (3 Suits)	2021-04-20 — 17:19:23 UTC	DarthGandalf, VBVBVBVB	95	3	15
-507400	3	30	Dual-Color (6 Suits)	2021-04-20 — 09:23:45 UTC	DarthGandalf, VBVBVBVB, Wittvector	66	6	30
+508883	5	22	No Variant	2021-04-21 — 23:32:57 UTC	bob65536, DarthGandalf, nkkarpov, Queue, voss	68	5	25
+508523	3	27	Rainbow & Prism (6 Suits)	2021-04-21 — 15:49:54 UTC	DarthGandalf, knaphill, Meowie	23	6	30
+507673	2	15	White (3 Suits)	2021-04-20 — 17:32:53 UTC	DarthGandalf, VBVBVBVB	48	3	15
+507662	2	0	White (3 Suits)	2021-04-20 — 17:24:36 UTC	DarthGandalf, VBVBVBVB	73	3	15
+507650	2	14	White (3 Suits)	2021-04-20 — 17:19:23 UTC	DarthGandalf, VBVBVBVB	100	3	15
+507400	3	30	Dual-Color (6 Suits)	2021-04-20 — 09:23:45 UTC	DarthGandalf, VBVBVBVB, Wittvector	67	6	30
 507028	3	0	Muddy Rainbow (6 Suits)	2021-04-19 — 23:59:41 UTC	Bot-Fiora, DarthGandalf, newduke	37	6	30
 507014	3	25	Light Pink (5 Suits)	2021-04-19 — 23:22:58 UTC	Bot-Fiora, DarthGandalf, newduke	40	5	25
 506937	6	25	White-Ones & Brown (5 Suits)	2021-04-19 — 21:18:28 UTC	DarthGandalf, jeff10, kevincaseytdk1, Lanvin, MangoPie, Wittvector	1	5	25
 506923	6	0	White-Ones & Brown (5 Suits)	2021-04-19 — 20:51:10 UTC	DarthGandalf, jeff10, kevincaseytdk1, Lanvin, MangoPie, Wittvector	2	5	25
 506877	6	0	White-Ones & Brown (5 Suits)	2021-04-19 — 20:30:45 UTC	DarthGandalf, jeff10, kevincaseytdk1, Lanvin, MangoPie, Wittvector	2	5	25
-506840	2	20	White (4 Suits)	2021-04-19 — 20:05:42 UTC	DarthGandalf, VBVBVBVB	13	4	20
-506833	2	0	White (4 Suits)	2021-04-19 — 19:56:01 UTC	DarthGandalf, VBVBVBVB	23	4	20
-506830	2	0	White (4 Suits)	2021-04-19 — 19:50:39 UTC	DarthGandalf, VBVBVBVB	27	4	20
+506840	2	20	White (4 Suits)	2021-04-19 — 20:05:42 UTC	DarthGandalf, VBVBVBVB	14	4	20
+506833	2	0	White (4 Suits)	2021-04-19 — 19:56:01 UTC	DarthGandalf, VBVBVBVB	25	4	20
+506830	2	0	White (4 Suits)	2021-04-19 — 19:50:39 UTC	DarthGandalf, VBVBVBVB	29	4	20
 505773	4	30	Brown & Light Pink (6 Suits)	2021-04-18 — 21:34:26 UTC	DarthGandalf, HelanaAshryvr, pianoblook, timotree	4	6	30
 505741	5	0	Brown & Light Pink (6 Suits)	2021-04-18 — 21:06:27 UTC	DarthGandalf, Kyle, melwen, pianoblook, timotree	3	6	30
 504188	5	23	Rainbow (5 Suits)	2021-04-17 — 15:43:41 UTC	DarthGandalf, knaphill, Meowie, possum, Wittvector	22	5	25
-503582	5	20	No Variant	2021-04-17 — 00:09:19 UTC	a_qq22, DarthGandalf, Franklin, interferoman, jason17055a	658	5	25
-503317	5	0	No Variant	2021-04-16 — 20:47:59 UTC	DarthGandalf, kfm, lier, rogeeff, sbenza	176	5	25
-503277	5	0	No Variant	2021-04-16 — 20:27:14 UTC	DarthGandalf, kfm, lier, rogeeff, sbenza	195	5	25
-502887	3	30	White (6 Suits)	2021-04-16 — 13:36:30 UTC	DarthGandalf, VBVBVBVB, wolfpack	124	6	30
+503582	5	20	No Variant	2021-04-17 — 00:09:19 UTC	a_qq22, DarthGandalf, Franklin, interferoman, jason17055a	667	5	25
+503317	5	0	No Variant	2021-04-16 — 20:47:59 UTC	DarthGandalf, kfm, lier, rogeeff, sbenza	178	5	25
+503277	5	0	No Variant	2021-04-16 — 20:27:14 UTC	DarthGandalf, kfm, lier, rogeeff, sbenza	198	5	25
+502887	3	30	White (6 Suits)	2021-04-16 — 13:36:30 UTC	DarthGandalf, VBVBVBVB, wolfpack	128	6	30
 502757	3	30	Dark Prism (6 Suits)	2021-04-16 — 09:26:05 UTC	DarthGandalf, IsabeltheCat, Wittvector	9	6	30
 502294	2	15	White & Prism (3 Suits)	2021-04-15 — 23:18:28 UTC	DarthGandalf, StKildaFan	1	3	15
 502291	2	0	White & Prism (3 Suits)	2021-04-15 — 23:12:25 UTC	DarthGandalf, StKildaFan	3	3	15
 502288	2	14	White & Prism (3 Suits)	2021-04-15 — 23:08:27 UTC	DarthGandalf, StKildaFan	3	3	15
 502286	2	0	White & Prism (3 Suits)	2021-04-15 — 23:04:05 UTC	DarthGandalf, StKildaFan	4	3	15
 502280	2	0	White & Prism (3 Suits)	2021-04-15 — 23:00:56 UTC	DarthGandalf, StKildaFan	4	3	15
-502278	2	0	White & Prism (3 Suits)	2021-04-15 — 22:56:42 UTC	DarthGandalf, StKildaFan	15	3	15
+502278	2	0	White & Prism (3 Suits)	2021-04-15 — 22:56:42 UTC	DarthGandalf, StKildaFan	16	3	15
 502272	2	20	White & Prism (4 Suits)	2021-04-15 — 22:46:24 UTC	DarthGandalf, StKildaFan	4	4	20
 502269	2	0	White & Prism (4 Suits)	2021-04-15 — 22:39:13 UTC	DarthGandalf, StKildaFan	5	4	20
-502267	2	19	White & Prism (4 Suits)	2021-04-15 — 22:35:01 UTC	DarthGandalf, StKildaFan	8	4	20
-502262	2	0	White & Prism (4 Suits)	2021-04-15 — 22:25:22 UTC	DarthGandalf, StKildaFan	13	4	20
+502267	2	19	White & Prism (4 Suits)	2021-04-15 — 22:35:01 UTC	DarthGandalf, StKildaFan	9	4	20
+502262	2	0	White & Prism (4 Suits)	2021-04-15 — 22:25:22 UTC	DarthGandalf, StKildaFan	14	4	20
 501786	2	0	Dual-Color & Omni (4 Suits)	2021-04-15 — 10:43:25 UTC	BraydonM, DarthGandalf	1	4	20
 501782	2	0	Dual-Color & Omni (4 Suits)	2021-04-15 — 10:28:21 UTC	BraydonM, DarthGandalf	1	4	20
 501778	2	0	Dual-Color & Omni (4 Suits)	2021-04-15 — 10:13:22 UTC	BraydonM, DarthGandalf	1	4	20
 501774	2	0	Dual-Color & Omni (4 Suits)	2021-04-15 — 09:59:09 UTC	BraydonM, DarthGandalf	1	4	20
 501772	2	0	Dual-Color & Omni (4 Suits)	2021-04-15 — 09:56:26 UTC	BraydonM, DarthGandalf	1	4	20
 501771	2	0	Dual-Color & Omni (4 Suits)	2021-04-15 — 09:52:40 UTC	BraydonM, DarthGandalf	1	4	20
-501298	2	30	Prism (6 Suits)	2021-04-14 — 22:42:13 UTC	CrazyMerlyn, DarthGandalf	87	6	30
-501285	2	27	Prism (6 Suits)	2021-04-14 — 22:25:58 UTC	CrazyMerlyn, DarthGandalf	112	6	30
+501298	2	30	Prism (6 Suits)	2021-04-14 — 22:42:13 UTC	CrazyMerlyn, DarthGandalf	92	6	30
+501285	2	27	Prism (6 Suits)	2021-04-14 — 22:25:58 UTC	CrazyMerlyn, DarthGandalf	116	6	30
 501274	2	20	Light Pink (4 Suits)	2021-04-14 — 22:07:51 UTC	CrazyMerlyn, DarthGandalf	9	4	20
-501262	2	25	White (5 Suits)	2021-04-14 — 21:54:58 UTC	CrazyMerlyn, DarthGandalf	184	5	25
-500336	5	0	Dark Brown (6 Suits)	2021-04-13 — 23:50:25 UTC	DarthGandalf, IsabeltheCat, kevincaseytdk1, knaphill, nkkarpov	8	6	30
+501262	2	25	White (5 Suits)	2021-04-14 — 21:54:58 UTC	CrazyMerlyn, DarthGandalf	187	5	25
+500336	5	0	Dark Brown (6 Suits)	2021-04-13 — 23:50:25 UTC	DarthGandalf, IsabeltheCat, kevincaseytdk1, knaphill, nkkarpov	9	6	30
 499106	3	25	Muddy Rainbow (5 Suits)	2021-04-12 — 23:22:52 UTC	DarthGandalf, IsabeltheCat, nwajfromoz	46	5	25
 498955	2	30	Brown (6 Suits)	2021-04-12 — 21:56:38 UTC	DarthGandalf, IsabeltheCat	25	6	30
 498948	2	0	Brown (6 Suits)	2021-04-12 — 21:46:57 UTC	DarthGandalf, IsabeltheCat	28	6	30
-498944	2	0	Brown (6 Suits)	2021-04-12 — 21:38:50 UTC	DarthGandalf, IsabeltheCat	33	6	30
-498931	2	0	Brown (6 Suits)	2021-04-12 — 21:27:13 UTC	DarthGandalf, IsabeltheCat	42	6	30
+498944	2	0	Brown (6 Suits)	2021-04-12 — 21:38:50 UTC	DarthGandalf, IsabeltheCat	35	6	30
+498931	2	0	Brown (6 Suits)	2021-04-12 — 21:27:13 UTC	DarthGandalf, IsabeltheCat	43	6	30
 497703	4	0	Rainbow-Fives (5 Suits)	2021-04-11 — 23:44:34 UTC	Damian000, DarthGandalf, NumerateClutter, wump	11	5	25
-497673	2	25	Prism (5 Suits)	2021-04-11 — 22:44:30 UTC	DarthGandalf, nkkarpov	95	5	25
-497638	4	29	White & Prism (6 Suits)	2021-04-11 — 22:16:13 UTC	DarthGandalf, griff77, MathNoob, wolfpack	10	6	30
-497516	2	20	Light Pink (4 Suits)	2021-04-11 — 20:40:35 UTC	CaitlinSmith, DarthGandalf	14	4	20
-497488	2	0	Light Pink (4 Suits)	2021-04-11 — 20:20:06 UTC	CaitlinSmith, DarthGandalf	17	4	20
-497469	2	0	Light Pink (4 Suits)	2021-04-11 — 20:01:41 UTC	CaitlinSmith, DarthGandalf	25	4	20
-497454	2	0	Light Pink (4 Suits)	2021-04-11 — 19:47:59 UTC	CaitlinSmith, DarthGandalf	43	4	20
+497673	2	25	Prism (5 Suits)	2021-04-11 — 22:44:30 UTC	DarthGandalf, nkkarpov	98	5	25
+497638	4	29	White & Prism (6 Suits)	2021-04-11 — 22:16:13 UTC	DarthGandalf, griff77, MathNoob, wolfpack	11	6	30
+497516	2	20	Light Pink (4 Suits)	2021-04-11 — 20:40:35 UTC	CaitlinSmith, DarthGandalf	15	4	20
+497488	2	0	Light Pink (4 Suits)	2021-04-11 — 20:20:06 UTC	CaitlinSmith, DarthGandalf	20	4	20
+497469	2	0	Light Pink (4 Suits)	2021-04-11 — 20:01:41 UTC	CaitlinSmith, DarthGandalf	29	4	20
+497454	2	0	Light Pink (4 Suits)	2021-04-11 — 19:47:59 UTC	CaitlinSmith, DarthGandalf	48	4	20
 496659	4	0	White-Ones & White (5 Suits)	2021-04-10 — 22:25:38 UTC	Bot-Fiora, DarthGandalf, griff77, Meowie	6	5	25
 496594	4	23	Muddy Rainbow (5 Suits)	2021-04-10 — 21:43:58 UTC	Bot-Fiora, DarthGandalf, griff77, Syrah	9	5	25
 496518	3	25	Pink-Fives & Prism (5 Suits)	2021-04-10 — 21:09:13 UTC	CaitlinSmith, DarthGandalf, griff77	2	5	25
 496470	4	20	Pink (4 Suits)	2021-04-10 — 20:39:51 UTC	CaitlinSmith, DarthGandalf, griff77, robense	8	4	20
 496412	4	30	Muddy Rainbow (6 Suits)	2021-04-10 — 20:15:13 UTC	CaitlinSmith, DarthGandalf, griff77, indego	5	6	30
 496377	4	0	Black & Brown (5 Suits)	2021-04-10 — 19:30:03 UTC	Aluap, CaitlinSmith, DarthGandalf, timotree	1	5	25
-495362	3	26	Black & White (6 Suits)	2021-04-09 — 21:43:40 UTC	DarthGandalf, kevincaseytdk1, wump	47	6	30
+495362	3	26	Black & White (6 Suits)	2021-04-09 — 21:43:40 UTC	DarthGandalf, kevincaseytdk1, wump	48	6	30
 494246	6	21	No Variant	2021-04-08 — 21:04:47 UTC	CaitlinSmith, DarthGandalf, kevincaseytdk1, knaphill, newduke, Spieler42	29	5	25
 494218	6	0	No Variant	2021-04-08 — 20:36:18 UTC	CaitlinSmith, DarthGandalf, kevincaseytdk1, knaphill, newduke, Spieler42	32	5	25
 494206	5	0	Black (5 Suits)	2021-04-08 — 20:19:16 UTC	CaitlinSmith, DarthGandalf, knaphill, newduke, Spieler42	6	5	25
 494182	5	21	Black (5 Suits)	2021-04-08 — 19:54:08 UTC	CaitlinSmith, DarthGandalf, knaphill, newduke, Spieler42	6	5	25
 494160	4	0	Black & Rainbow (6 Suits)	2021-04-08 — 19:35:41 UTC	CaitlinSmith, DarthGandalf, knaphill, Spieler42	46	6	30
-494146	2	29	Black & Rainbow (6 Suits)	2021-04-08 — 19:24:08 UTC	CaitlinSmith, DarthGandalf	98	6	30
-493376	3	0	No Variant	2021-04-07 — 20:22:27 UTC	aida.younesi, CrazyMerlyn, DarthGandalf	516	5	25
-493326	3	23	No Variant	2021-04-07 — 20:02:55 UTC	aida.younesi, CrazyMerlyn, DarthGandalf	573	5	25
-493283	3	22	No Variant	2021-04-07 — 19:35:06 UTC	aida.younesi, CrazyMerlyn, DarthGandalf	624	5	25
-493241	2	29	Brown (6 Suits)	2021-04-07 — 19:06:56 UTC	CrazyMerlyn, DarthGandalf	129	6	30
+494146	2	29	Black & Rainbow (6 Suits)	2021-04-08 — 19:24:08 UTC	CaitlinSmith, DarthGandalf	100	6	30
+493376	3	0	No Variant	2021-04-07 — 20:22:27 UTC	aida.younesi, CrazyMerlyn, DarthGandalf	523	5	25
+493326	3	23	No Variant	2021-04-07 — 20:02:55 UTC	aida.younesi, CrazyMerlyn, DarthGandalf	582	5	25
+493283	3	22	No Variant	2021-04-07 — 19:35:06 UTC	aida.younesi, CrazyMerlyn, DarthGandalf	632	5	25
+493241	2	29	Brown (6 Suits)	2021-04-07 — 19:06:56 UTC	CrazyMerlyn, DarthGandalf	131	6	30
 493219	2	25	White & Prism (5 Suits)	2021-04-07 — 18:48:45 UTC	CrazyMerlyn, DarthGandalf	17	5	25
-493197	2	20	White & Prism (5 Suits)	2021-04-07 — 18:35:44 UTC	CrazyMerlyn, DarthGandalf	21	5	25
+493197	2	20	White & Prism (5 Suits)	2021-04-07 — 18:35:44 UTC	CrazyMerlyn, DarthGandalf	23	5	25
 491553	4	25	White & Prism (5 Suits)	2021-04-05 — 21:41:44 UTC	asaelr, DarthGandalf, Kyle, swineherd	11	5	25
 491526	4	23	Black & Light Pink (5 Suits)	2021-04-05 — 21:04:21 UTC	CaitlinSmith, DarthGandalf, MangoPie, newduke	8	5	25
-490720	3	0	Muddy Rainbow (4 Suits)	2021-04-04 — 23:05:40 UTC	DarthGandalf, kinkajusrevenge, MangoPie	22	4	20
-490703	3	19	Muddy Rainbow (4 Suits)	2021-04-04 — 22:38:40 UTC	DarthGandalf, kinkajusrevenge, MangoPie	29	4	20
-487813	3	25	No Variant	2021-04-01 — 22:34:15 UTC	DarthGandalf, knaphill, ReaverSe	269	5	25
-487774	3	24	No Variant	2021-04-01 — 21:50:16 UTC	DarthGandalf, knaphill, ReaverSe	275	5	25
-486692	4	0	No Variant	2021-03-31 — 20:19:26 UTC	CrazyMerlyn, DarthGandalf, StdBoxFromRust, xx	1449	5	25
-486672	4	23	No Variant	2021-03-31 — 20:05:27 UTC	CrazyMerlyn, DarthGandalf, StdBoxFromRust, xx	1744	5	25
+490720	3	0	Muddy Rainbow (4 Suits)	2021-04-04 — 23:05:40 UTC	DarthGandalf, kinkajusrevenge, MangoPie	23	4	20
+490703	3	19	Muddy Rainbow (4 Suits)	2021-04-04 — 22:38:40 UTC	DarthGandalf, kinkajusrevenge, MangoPie	31	4	20
+487813	3	25	No Variant	2021-04-01 — 22:34:15 UTC	DarthGandalf, knaphill, ReaverSe	272	5	25
+487774	3	24	No Variant	2021-04-01 — 21:50:16 UTC	DarthGandalf, knaphill, ReaverSe	277	5	25
+486692	4	0	No Variant	2021-03-31 — 20:19:26 UTC	CrazyMerlyn, DarthGandalf, StdBoxFromRust, xx	1459	5	25
+486672	4	23	No Variant	2021-03-31 — 20:05:27 UTC	CrazyMerlyn, DarthGandalf, StdBoxFromRust, xx	1759	5	25
 486453	4	0	Muddy Rainbow (6 Suits)	2021-03-31 — 16:46:29 UTC	bjnh, DarthGandalf, kinkajusrevenge, knaphill	12	6	30
 486437	4	0	Muddy Rainbow (6 Suits)	2021-03-31 — 16:20:20 UTC	bjnh, DarthGandalf, kinkajusrevenge, knaphill	19	6	30
 486415	5	12	Omni (3 Suits)	2021-03-31 — 15:21:57 UTC	DarthGandalf, knaphill, macanek, sin_faith, Spieler42	2	3	15
 486408	5	0	Omni (3 Suits)	2021-03-31 — 15:01:00 UTC	DarthGandalf, knaphill, macanek, sin_faith, Spieler42	3	3	15
-486386	4	22	No Variant	2021-03-31 — 13:08:06 UTC	Aluap, DarthGandalf, Dragonican, possum	90	5	25
+486386	4	22	No Variant	2021-03-31 — 13:08:06 UTC	Aluap, DarthGandalf, Dragonican, possum	92	5	25
 486320	4	0	Rainbow & Pink (6 Suits)	2021-03-31 — 08:30:02 UTC	DarthGandalf, derekcheah, Lel0uch, Zakisan	6	6	30
 486314	4	0	Rainbow & Pink (6 Suits)	2021-03-31 — 08:10:36 UTC	DarthGandalf, derekcheah, Lel0uch, Zakisan	6	6	30
 486306	4	0	Rainbow & Pink (6 Suits)	2021-03-31 — 07:53:21 UTC	DarthGandalf, derekcheah, Lel0uch, Zakisan	6	6	30
@@ -111,55 +151,55 @@
 484795	5	24	Black (5 Suits)	2021-03-29 — 22:07:41 UTC	ChristopheAF, DarthGandalf, Doge, MangoPie, newduke	30	5	25
 484783	2	0	Rainbow-Fives & Omni (5 Suits)	2021-03-29 — 21:55:51 UTC	DarthGandalf, Doge	2	5	25
 484465	5	0	Rainbow (6 Suits)	2021-03-29 — 16:57:05 UTC	DarkenedOrigins, DarthGandalf, fowill, kinkajusrevenge, sajizzle	49	6	30
-483948	3	0	Brown (6 Suits)	2021-03-28 — 23:15:02 UTC	DarthGandalf, Doge, IsabeltheCat	31	6	30
+483948	3	0	Brown (6 Suits)	2021-03-28 — 23:15:02 UTC	DarthGandalf, Doge, IsabeltheCat	33	6	30
 483940	3	0	Brown (6 Suits)	2021-03-28 — 23:03:26 UTC	DarthGandalf, Doge, IsabeltheCat	61	6	30
 483838	4	0	Up or Down (5 Suits)	2021-03-28 — 21:30:34 UTC	CaitlinSmith, DarthGandalf, knaphill, narabio	75	5	25
 483810	4	0	Black & Brown (5 Suits)	2021-03-28 — 21:11:39 UTC	CaitlinSmith, DarthGandalf, knaphill, narabio	1	5	25
 483797	4	0	Black & Brown (5 Suits)	2021-03-28 — 21:02:33 UTC	CaitlinSmith, DarthGandalf, knaphill, narabio	1	5	25
-483763	3	0	Black & Brown (5 Suits)	2021-03-28 — 20:43:15 UTC	CaitlinSmith, DarthGandalf, narabio	7	5	25
-483742	3	0	Black & Brown (5 Suits)	2021-03-28 — 20:24:01 UTC	CaitlinSmith, DarthGandalf, narabio	9	5	25
-483717	3	0	Black & Brown (5 Suits)	2021-03-28 — 20:10:25 UTC	CaitlinSmith, DarthGandalf, narabio	10	5	25
+483763	3	0	Black & Brown (5 Suits)	2021-03-28 — 20:43:15 UTC	CaitlinSmith, DarthGandalf, narabio	8	5	25
+483742	3	0	Black & Brown (5 Suits)	2021-03-28 — 20:24:01 UTC	CaitlinSmith, DarthGandalf, narabio	10	5	25
+483717	3	0	Black & Brown (5 Suits)	2021-03-28 — 20:10:25 UTC	CaitlinSmith, DarthGandalf, narabio	11	5	25
 483693	4	25	Prism (5 Suits)	2021-03-28 — 20:00:15 UTC	DarkenedOrigins, DarthGandalf, Fey, nkkarpov	2	5	25
 483655	3	25	No Variant	2021-03-28 — 19:36:03 UTC	DarkenedOrigins, DarthGandalf, Fey	21	5	25
-483640	4	0	No Variant	2021-03-28 — 19:24:13 UTC	DarkenedOrigins, DarthGandalf, Fey, robense	39	5	25
-483469	3	25	Pink (5 Suits)	2021-03-28 — 16:15:48 UTC	DarthGandalf, Spieler42, timotree	62	5	25
+483640	4	0	No Variant	2021-03-28 — 19:24:13 UTC	DarkenedOrigins, DarthGandalf, Fey, robense	40	5	25
+483469	3	25	Pink (5 Suits)	2021-03-28 — 16:15:48 UTC	DarthGandalf, Spieler42, timotree	64	5	25
 483423	4	23	Black & Dark Omni (6 Suits)	2021-03-28 — 14:51:44 UTC	DarthGandalf, Denchulitas, MangoPie, wump	3	6	30
 483411	4	0	Black & Dark Omni (6 Suits)	2021-03-28 — 14:28:37 UTC	DarthGandalf, Denchulitas, MangoPie, wump	3	6	30
-482797	3	30	Black (6 Suits)	2021-03-28 — 00:01:39 UTC	Arcee, DarthGandalf, IsabeltheCat	95	6	30
-482786	3	0	Black (6 Suits)	2021-03-27 — 23:45:23 UTC	Arcee, DarthGandalf, IsabeltheCat	97	6	30
-482777	3	0	Black (6 Suits)	2021-03-27 — 23:36:25 UTC	Arcee, DarthGandalf, IsabeltheCat	119	6	30
+482797	3	30	Black (6 Suits)	2021-03-28 — 00:01:39 UTC	Arcee, DarthGandalf, IsabeltheCat	97	6	30
+482786	3	0	Black (6 Suits)	2021-03-27 — 23:45:23 UTC	Arcee, DarthGandalf, IsabeltheCat	100	6	30
+482777	3	0	Black (6 Suits)	2021-03-27 — 23:36:25 UTC	Arcee, DarthGandalf, IsabeltheCat	122	6	30
 482775	3	0	Black (6 Suits)	2021-03-27 — 23:27:54 UTC	Arcee, DarthGandalf, IsabeltheCat	134	6	30
-482762	3	0	Black (6 Suits)	2021-03-27 — 23:05:00 UTC	Arcee, DarthGandalf, IsabeltheCat	159	6	30
+482762	3	0	Black (6 Suits)	2021-03-27 — 23:05:00 UTC	Arcee, DarthGandalf, IsabeltheCat	161	6	30
 482746	4	29	Black (6 Suits)	2021-03-27 — 22:43:41 UTC	Arcee, DarthGandalf, IsabeltheCat, timotree	57	6	30
 482683	4	27	Black (6 Suits)	2021-03-27 — 21:55:56 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat, Zamiel	7	6	30
 482638	4	0	Black (6 Suits)	2021-03-27 — 21:32:44 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat, Zamiel	8	6	30
-482622	4	0	Black (6 Suits)	2021-03-27 — 21:23:48 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat, Spieler42	91	6	30
-482611	4	0	Black (6 Suits)	2021-03-27 — 21:12:31 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat, Spieler42	121	6	30
-482599	4	0	Black (6 Suits)	2021-03-27 — 21:01:31 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat, Spieler42	128	6	30
-482582	4	28	Black (6 Suits)	2021-03-27 — 20:49:34 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat, Spieler42	142	6	30
-482559	3	0	Brown (6 Suits)	2021-03-27 — 20:24:55 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat	40	6	30
+482622	4	0	Black (6 Suits)	2021-03-27 — 21:23:48 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat, Spieler42	95	6	30
+482611	4	0	Black (6 Suits)	2021-03-27 — 21:12:31 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat, Spieler42	123	6	30
+482599	4	0	Black (6 Suits)	2021-03-27 — 21:01:31 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat, Spieler42	129	6	30
+482582	4	28	Black (6 Suits)	2021-03-27 — 20:49:34 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat, Spieler42	143	6	30
+482559	3	0	Brown (6 Suits)	2021-03-27 — 20:24:55 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat	41	6	30
 481718	4	0	Brown (6 Suits)	2021-03-27 — 00:11:36 UTC	CaitlinSmith, DarthGandalf, Doge, IsabeltheCat	8	6	30
-481707	4	0	Brown (6 Suits)	2021-03-26 — 23:57:43 UTC	CaitlinSmith, DarthGandalf, Doge, IsabeltheCat	27	6	30
-481702	4	0	Brown (6 Suits)	2021-03-26 — 23:52:25 UTC	CaitlinSmith, DarthGandalf, Doge, IsabeltheCat	27	6	30
-481687	4	0	Brown (6 Suits)	2021-03-26 — 23:35:36 UTC	CaitlinSmith, DarthGandalf, Doge, IsabeltheCat	41	6	30
+481707	4	0	Brown (6 Suits)	2021-03-26 — 23:57:43 UTC	CaitlinSmith, DarthGandalf, Doge, IsabeltheCat	28	6	30
+481702	4	0	Brown (6 Suits)	2021-03-26 — 23:52:25 UTC	CaitlinSmith, DarthGandalf, Doge, IsabeltheCat	28	6	30
+481687	4	0	Brown (6 Suits)	2021-03-26 — 23:35:36 UTC	CaitlinSmith, DarthGandalf, Doge, IsabeltheCat	42	6	30
 480623	3	15	3 Suits	2021-03-25 — 22:59:17 UTC	Arcee, DarthGandalf, ksfortson	25	3	15
 480589	3	14	3 Suits	2021-03-25 — 22:32:32 UTC	Arcee, DarthGandalf, ksfortson	29	3	15
-480566	3	14	3 Suits	2021-03-25 — 22:15:31 UTC	Arcee, DarthGandalf, ksfortson	39	3	15
-480534	3	14	3 Suits	2021-03-25 — 21:54:18 UTC	Arcee, DarthGandalf, ksfortson	43	3	15
-480509	3	14	3 Suits	2021-03-25 — 21:32:49 UTC	Arcee, DarthGandalf, ksfortson	51	3	15
-480494	3	13	3 Suits	2021-03-25 — 21:19:04 UTC	Arcee, DarthGandalf, ksfortson	74	3	15
-479760	3	24	Dark Rainbow (5 Suits)	2021-03-25 — 01:28:36 UTC	Bonja97, DarthGandalf, newduke	24	5	25
-479718	3	0	Dark Rainbow (5 Suits)	2021-03-25 — 00:59:47 UTC	Bonja97, DarthGandalf, newduke	36	5	25
-479690	3	21	Dark Rainbow (5 Suits)	2021-03-25 — 00:39:34 UTC	Bonja97, DarthGandalf, newduke	52	5	25
-479434	3	0	No Variant	2021-03-24 — 20:58:23 UTC	aida.younesi, CrazyMerlyn, DarthGandalf	645	5	25
-479393	3	23	No Variant	2021-03-24 — 20:31:25 UTC	aida.younesi, CrazyMerlyn, DarthGandalf	1017	5	25
-479331	3	20	No Variant	2021-03-24 — 19:54:37 UTC	aida.younesi, CrazyMerlyn, DarthGandalf	1095	5	25
+480566	3	14	3 Suits	2021-03-25 — 22:15:31 UTC	Arcee, DarthGandalf, ksfortson	40	3	15
+480534	3	14	3 Suits	2021-03-25 — 21:54:18 UTC	Arcee, DarthGandalf, ksfortson	45	3	15
+480509	3	14	3 Suits	2021-03-25 — 21:32:49 UTC	Arcee, DarthGandalf, ksfortson	52	3	15
+480494	3	13	3 Suits	2021-03-25 — 21:19:04 UTC	Arcee, DarthGandalf, ksfortson	75	3	15
+479760	3	24	Dark Rainbow (5 Suits)	2021-03-25 — 01:28:36 UTC	Bonja97, DarthGandalf, newduke	25	5	25
+479718	3	0	Dark Rainbow (5 Suits)	2021-03-25 — 00:59:47 UTC	Bonja97, DarthGandalf, newduke	38	5	25
+479690	3	21	Dark Rainbow (5 Suits)	2021-03-25 — 00:39:34 UTC	Bonja97, DarthGandalf, newduke	53	5	25
+479434	3	0	No Variant	2021-03-24 — 20:58:23 UTC	aida.younesi, CrazyMerlyn, DarthGandalf	655	5	25
+479393	3	23	No Variant	2021-03-24 — 20:31:25 UTC	aida.younesi, CrazyMerlyn, DarthGandalf	1026	5	25
+479331	3	20	No Variant	2021-03-24 — 19:54:37 UTC	aida.younesi, CrazyMerlyn, DarthGandalf	1102	5	25
 478488	4	29	White & Brown (6 Suits)	2021-03-24 — 00:47:16 UTC	Aluap, DarthGandalf, HelanaAshryvr, Lel0uch	20	6	30
-478451	4	23	No Variant	2021-03-23 — 23:48:46 UTC	DarthGandalf, kinkajusrevenge, LookAway, ThomasW	2076	5	25
-478430	3	25	No Variant	2021-03-23 — 23:16:20 UTC	DarthGandalf, kinkajusrevenge, LookAway	551	5	25
-478030	5	0	No Variant	2021-03-23 — 16:03:54 UTC	asoffer1, DarthGandalf, lier, mbar, sbenza	262	5	25
+478451	4	23	No Variant	2021-03-23 — 23:48:46 UTC	DarthGandalf, kinkajusrevenge, LookAway, ThomasW	2094	5	25
+478430	3	25	No Variant	2021-03-23 — 23:16:20 UTC	DarthGandalf, kinkajusrevenge, LookAway	558	5	25
+478030	5	0	No Variant	2021-03-23 — 16:03:54 UTC	asoffer1, DarthGandalf, lier, mbar, sbenza	265	5	25
 477470	5	23	No Variant	2021-03-23 — 00:56:50 UTC	Arcee, DarthGandalf, LookAway, possum, timotree	9	5	25
-477427	3	0	No Variant	2021-03-23 — 00:24:59 UTC	Arcee, DarthGandalf, LookAway	680	5	25
+477427	3	0	No Variant	2021-03-23 — 00:24:59 UTC	Arcee, DarthGandalf, LookAway	688	5	25
 477393	4	0	Rainbow (6 Suits)	2021-03-22 — 23:49:31 UTC	Aluap, Arcee, DarthGandalf, wump	11	6	30
 477355	5	29	Rainbow (6 Suits)	2021-03-22 — 23:13:13 UTC	Aluap, Arcee, DarthGandalf, possum, Yeesh	83	6	30
 476446	3	27	Black & Muddy Rainbow (6 Suits)	2021-03-21 — 23:56:05 UTC	asaelr, DarthGandalf, timotree	9	6	30
@@ -168,29 +208,29 @@
 476396	4	26	Black & Muddy Rainbow (6 Suits)	2021-03-21 — 23:05:35 UTC	asaelr, DarthGandalf, Feer, timotree	3	6	30
 476334	5	23	Prism (5 Suits)	2021-03-21 — 22:15:46 UTC	BlueNovember, DarthGandalf, newduke, Nitrate, Wittvector	9	5	25
 476290	5	0	Prism (5 Suits)	2021-03-21 — 21:33:55 UTC	BlueNovember, DarthGandalf, newduke, Nitrate, Wittvector	10	5	25
-475860	4	23	No Variant	2021-03-21 — 15:10:22 UTC	DarthGandalf, possum, rz, timotree	28	5	25
+475860	4	23	No Variant	2021-03-21 — 15:10:22 UTC	DarthGandalf, possum, rz, timotree	29	5	25
 475830	5	0	Rainbow (5 Suits)	2021-03-21 — 14:30:46 UTC	Aluap, DarthGandalf, possum, rz, timotree	11	5	25
 475270	3	25	Brown-Fives & Pink (5 Suits)	2021-03-21 — 00:46:59 UTC	DarthGandalf, pianoblook, sjdrodge	1	5	25
 475234	4	24	No Variant	2021-03-21 — 00:04:27 UTC	Arcee, dancherp, DarthGandalf, timotree	33	5	25
 475219	4	0	No Variant	2021-03-20 — 23:47:28 UTC	Arcee, dancherp, DarthGandalf, timotree	32	5	25
 475199	4	25	No Variant	2021-03-20 — 23:31:47 UTC	Arcee, dancherp, DarthGandalf, timotree	32	5	25
-475177	3	0	No Variant	2021-03-20 — 23:10:13 UTC	Arcee, dancherp, DarthGandalf	940	5	25
+475177	3	0	No Variant	2021-03-20 — 23:10:13 UTC	Arcee, dancherp, DarthGandalf	952	5	25
 474865	6	29	Rainbow (6 Suits)	2021-03-20 — 17:31:48 UTC	dancherp, DarthGandalf, knaphill, ksfortson, nkkarpov, possum	33	6	30
 474841	6	0	Rainbow (6 Suits)	2021-03-20 — 16:51:11 UTC	dancherp, DarthGandalf, knaphill, ksfortson, nkkarpov, possum	60	6	30
-474827	4	0	White (6 Suits)	2021-03-20 — 16:24:53 UTC	DarthGandalf, nkkarpov, possum, qqqq	20	6	30
+474827	4	0	White (6 Suits)	2021-03-20 — 16:24:53 UTC	DarthGandalf, nkkarpov, possum, qqqq	22	6	30
 474819	5	0	Rainbow & Prism (6 Suits)	2021-03-20 — 15:53:03 UTC	Aluap, DarthGandalf, Denchulitas, possum, qqqq	11	6	30
-472967	4	0	No Variant	2021-03-18 — 23:55:53 UTC	CptAggro, DarthGandalf, efaust, sjdrodge	4	5	25
-472959	4	0	No Variant	2021-03-18 — 23:40:30 UTC	CptAggro, DarthGandalf, efaust, sjdrodge	4	5	25
-472943	2	25	Black (5 Suits)	2021-03-18 — 23:21:21 UTC	DarthGandalf, Spieler42	108	5	25
-472936	2	0	Black (5 Suits)	2021-03-18 — 23:13:16 UTC	DarthGandalf, Spieler42	115	5	25
-472934	2	0	Black (5 Suits)	2021-03-18 — 23:10:35 UTC	DarthGandalf, Spieler42	124	5	25
-472925	2	0	Black (5 Suits)	2021-03-18 — 23:02:35 UTC	DarthGandalf, Spieler42	169	5	25
+472967	4	0	No Variant	2021-03-18 — 23:55:53 UTC	CptAggro, DarthGandalf, efaust, sjdrodge	5	5	25
+472959	4	0	No Variant	2021-03-18 — 23:40:30 UTC	CptAggro, DarthGandalf, efaust, sjdrodge	5	5	25
+472943	2	25	Black (5 Suits)	2021-03-18 — 23:21:21 UTC	DarthGandalf, Spieler42	113	5	25
+472936	2	0	Black (5 Suits)	2021-03-18 — 23:13:16 UTC	DarthGandalf, Spieler42	120	5	25
+472934	2	0	Black (5 Suits)	2021-03-18 — 23:10:35 UTC	DarthGandalf, Spieler42	129	5	25
+472925	2	0	Black (5 Suits)	2021-03-18 — 23:02:35 UTC	DarthGandalf, Spieler42	173	5	25
 472907	3	26	Black (6 Suits)	2021-03-18 — 22:43:29 UTC	DarthGandalf, Daryl, Spieler42	236	6	30
 472854	4	30	Black (6 Suits)	2021-03-18 — 22:11:28 UTC	Damian000, DarthGandalf, Denchulitas, nkkarpov	42	6	30
-472785	4	26	Black (6 Suits)	2021-03-18 — 21:33:59 UTC	Damian000, DarthGandalf, Denchulitas, nkkarpov	45	6	30
+472785	4	26	Black (6 Suits)	2021-03-18 — 21:33:59 UTC	Damian000, DarthGandalf, Denchulitas, nkkarpov	46	6	30
 472736	4	0	Black (6 Suits)	2021-03-18 — 21:05:56 UTC	Damian000, DarthGandalf, Denchulitas, nkkarpov	49	6	30
-470045	3	25	No Variant	2021-03-16 — 08:12:51 UTC	DarthGandalf, Feer, possum	68	5	25
-470041	3	25	No Variant	2021-03-16 — 07:47:30 UTC	DarthGandalf, Feer, possum	71	5	25
+470045	3	25	No Variant	2021-03-16 — 08:12:51 UTC	DarthGandalf, Feer, possum	72	5	25
+470041	3	25	No Variant	2021-03-16 — 07:47:30 UTC	DarthGandalf, Feer, possum	74	5	25
 469491	4	0	Brown (6 Suits)	2021-03-15 — 23:01:30 UTC	DarthGandalf, knaphill, nkkarpov, rahsosprout	12	6	30
 469468	4	0	Brown (6 Suits)	2021-03-15 — 22:41:42 UTC	DarthGandalf, knaphill, nkkarpov, rahsosprout	14	6	30
 469448	4	0	Brown (6 Suits)	2021-03-15 — 22:18:53 UTC	DarthGandalf, knaphill, nkkarpov, rahsosprout	16	6	30
@@ -198,52 +238,52 @@
 469396	5	24	Pink (5 Suits)	2021-03-15 — 21:38:50 UTC	DarthGandalf, Denchulitas, knaphill, nkkarpov, rahsosprout	14	5	25
 469352	4	0	Brown (6 Suits)	2021-03-15 — 21:05:39 UTC	ChristopheAF, DarthGandalf, knaphill, VerySloppyTwo	21	6	30
 469023	5	22	Black (5 Suits)	2021-03-15 — 15:08:54 UTC	DarthGandalf, knaphill, ricardodd, sajizzle, wolfpack	36	5	25
-468991	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 13:19:45 UTC	DarthGandalf, StKildaFan	3	6	30
-468986	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 13:07:58 UTC	DarthGandalf, StKildaFan	4	6	30
-468981	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 13:02:23 UTC	DarthGandalf, StKildaFan	4	6	30
-468977	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 12:59:15 UTC	DarthGandalf, StKildaFan	4	6	30
-468973	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 12:55:30 UTC	DarthGandalf, StKildaFan	5	6	30
-468969	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 12:51:29 UTC	DarthGandalf, StKildaFan	8	6	30
-468962	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 12:47:04 UTC	DarthGandalf, StKildaFan	8	6	30
-468959	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 12:41:55 UTC	DarthGandalf, StKildaFan	9	6	30
-468957	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 12:38:35 UTC	DarthGandalf, StKildaFan	10	6	30
-468955	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 12:33:42 UTC	DarthGandalf, StKildaFan	12	6	30
-468953	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 12:31:04 UTC	DarthGandalf, StKildaFan	15	6	30
-468952	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 12:25:36 UTC	DarthGandalf, StKildaFan	16	6	30
-468949	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 12:23:06 UTC	DarthGandalf, StKildaFan	17	6	30
-468948	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 12:20:06 UTC	DarthGandalf, StKildaFan	18	6	30
-468945	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 12:15:32 UTC	DarthGandalf, StKildaFan	22	6	30
-468944	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 12:13:30 UTC	DarthGandalf, StKildaFan	24	6	30
-468538	3	25	Black (5 Suits)	2021-03-14 — 23:52:44 UTC	DarthGandalf, knaphill, possum	44	5	25
+468991	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 13:19:45 UTC	DarthGandalf, StKildaFan	4	6	30
+468986	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 13:07:58 UTC	DarthGandalf, StKildaFan	5	6	30
+468981	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 13:02:23 UTC	DarthGandalf, StKildaFan	5	6	30
+468977	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 12:59:15 UTC	DarthGandalf, StKildaFan	5	6	30
+468973	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 12:55:30 UTC	DarthGandalf, StKildaFan	6	6	30
+468969	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 12:51:29 UTC	DarthGandalf, StKildaFan	10	6	30
+468962	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 12:47:04 UTC	DarthGandalf, StKildaFan	10	6	30
+468959	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 12:41:55 UTC	DarthGandalf, StKildaFan	11	6	30
+468957	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 12:38:35 UTC	DarthGandalf, StKildaFan	12	6	30
+468955	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 12:33:42 UTC	DarthGandalf, StKildaFan	15	6	30
+468953	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 12:31:04 UTC	DarthGandalf, StKildaFan	17	6	30
+468952	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 12:25:36 UTC	DarthGandalf, StKildaFan	18	6	30
+468949	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 12:23:06 UTC	DarthGandalf, StKildaFan	19	6	30
+468948	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 12:20:06 UTC	DarthGandalf, StKildaFan	20	6	30
+468945	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 12:15:32 UTC	DarthGandalf, StKildaFan	24	6	30
+468944	2	0	Rainbow & Gray (6 Suits)	2021-03-15 — 12:13:30 UTC	DarthGandalf, StKildaFan	26	6	30
+468538	3	25	Black (5 Suits)	2021-03-14 — 23:52:44 UTC	DarthGandalf, knaphill, possum	45	5	25
 468502	3	0	Black (5 Suits)	2021-03-14 — 23:22:43 UTC	DarthGandalf, knaphill, possum	43	5	25
-468499	3	0	Black (5 Suits)	2021-03-14 — 23:18:21 UTC	DarthGandalf, knaphill, possum	44	5	25
+468499	3	0	Black (5 Suits)	2021-03-14 — 23:18:21 UTC	DarthGandalf, knaphill, possum	45	5	25
 468458	4	0	White & Light Pink (5 Suits)	2021-03-14 — 22:34:39 UTC	DarthGandalf, jack67889, knaphill, MarkusKahlsen	5	5	25
 468421	4	0	White & Light Pink (5 Suits)	2021-03-14 — 22:09:38 UTC	DarthGandalf, jack67889, knaphill, MarkusKahlsen	6	5	25
-468178	4	29	Rainbow (6 Suits)	2021-03-14 — 18:58:21 UTC	DarthGandalf, Doge, fowill, MangoPie	200	6	30
-467998	4	0	Pink (6 Suits)	2021-03-14 — 15:30:02 UTC	Aluap, DarthGandalf, Daryl, possum	54	6	30
-467986	4	0	Pink (6 Suits)	2021-03-14 — 14:58:21 UTC	Aluap, DarthGandalf, Daryl, possum	70	6	30
-467974	3	20	Rainbow & White (4 Suits)	2021-03-14 — 14:35:14 UTC	Aluap, DarthGandalf, possum	27	4	20
+468178	4	29	Rainbow (6 Suits)	2021-03-14 — 18:58:21 UTC	DarthGandalf, Doge, fowill, MangoPie	205	6	30
+467998	4	0	Pink (6 Suits)	2021-03-14 — 15:30:02 UTC	Aluap, DarthGandalf, Daryl, possum	55	6	30
+467986	4	0	Pink (6 Suits)	2021-03-14 — 14:58:21 UTC	Aluap, DarthGandalf, Daryl, possum	71	6	30
+467974	3	20	Rainbow & White (4 Suits)	2021-03-14 — 14:35:14 UTC	Aluap, DarthGandalf, possum	29	4	20
 467904	5	30	White (6 Suits)	2021-03-14 — 10:59:28 UTC	DarthGandalf, Daryl, knaphill, possum, Wittvector	12	6	30
-466879	3	22	No Variant	2021-03-13 — 18:50:14 UTC	DarthGandalf, knaphill, robense	17	5	25
-466857	3	0	No Variant	2021-03-13 — 18:20:12 UTC	DarthGandalf, knaphill, robense	18	5	25
+466879	3	22	No Variant	2021-03-13 — 18:50:14 UTC	DarthGandalf, knaphill, robense	18	5	25
+466857	3	0	No Variant	2021-03-13 — 18:20:12 UTC	DarthGandalf, knaphill, robense	19	5	25
 465588	3	30	Prism (6 Suits)	2021-03-12 — 12:30:31 UTC	DarthGandalf, Denchulitas, possum	4	6	30
 465544	4	30	White-Ones & White (6 Suits)	2021-03-12 — 10:11:36 UTC	DarthGandalf, knaphill, possum, Spieler42	1	6	30
 465536	4	0	White-Ones & White (6 Suits)	2021-03-12 — 09:44:57 UTC	DarthGandalf, knaphill, possum, Spieler42	4	6	30
 465529	4	0	White-Ones & White (6 Suits)	2021-03-12 — 09:23:23 UTC	DarthGandalf, knaphill, possum, Spieler42	4	6	30
-465523	5	20	4 Suits	2021-03-12 — 08:56:11 UTC	DarthGandalf, knaphill, possum, rahsosprout, Spieler42	23	4	20
+465523	5	20	4 Suits	2021-03-12 — 08:56:11 UTC	DarthGandalf, knaphill, possum, rahsosprout, Spieler42	24	4	20
 465520	3	28	Brown (6 Suits)	2021-03-12 — 08:28:53 UTC	DarthGandalf, possum, rahsosprout	84	6	30
 465105	4	11	Rainbow & White (3 Suits)	2021-03-12 — 00:14:00 UTC	DarthGandalf, HelanaAshryvr, Lanvin, MangoPie	4	3	15
 465073	4	0	Brown (5 Suits)	2021-03-11 — 23:18:07 UTC	DarthGandalf, Floriman, knaphill, newduke	3	5	25
 465057	4	0	Brown (5 Suits)	2021-03-11 — 22:54:16 UTC	DarthGandalf, Floriman, knaphill, newduke	3	5	25
 465037	4	0	Brown (5 Suits)	2021-03-11 — 22:42:20 UTC	DarthGandalf, Floriman, knaphill, newduke	3	5	25
 465027	4	0	Brown (5 Suits)	2021-03-11 — 22:31:43 UTC	DarthGandalf, Floriman, knaphill, newduke	11	5	25
-465008	2	25	Black (5 Suits)	2021-03-11 — 22:10:58 UTC	DarthGandalf, Daryl	219	5	25
-464997	2	0	Black (5 Suits)	2021-03-11 — 22:02:10 UTC	DarthGandalf, Daryl	244	5	25
+465008	2	25	Black (5 Suits)	2021-03-11 — 22:10:58 UTC	DarthGandalf, Daryl	222	5	25
+464997	2	0	Black (5 Suits)	2021-03-11 — 22:02:10 UTC	DarthGandalf, Daryl	250	5	25
 464985	6	22	Prism (5 Suits)	2021-03-11 — 21:43:07 UTC	DarthGandalf, Daryl, Denchulitas, Lanvin, sephiroth, VerySloppyTwo	1	5	25
 464951	5	0	Rainbow & White (5 Suits)	2021-03-11 — 21:08:24 UTC	DarthGandalf, Daryl, Denchulitas, Lanvin, VerySloppyTwo	4	5	25
 464934	3	0	White & Prism (4 Suits)	2021-03-11 — 20:54:12 UTC	DarthGandalf, Denchulitas, Lanvin	2	4	20
 464915	3	0	Black & White (6 Suits)	2021-03-11 — 20:37:44 UTC	DarthGandalf, Denchulitas, Lanvin	12	6	30
-463805	5	20	No Variant	2021-03-10 — 19:46:28 UTC	chasez, CrazyMerlyn, DarthGandalf, StdBoxFromRust, xx	837	5	25
+463805	5	20	No Variant	2021-03-10 — 19:46:28 UTC	chasez, CrazyMerlyn, DarthGandalf, StdBoxFromRust, xx	845	5	25
 462923	3	27	Dark Rainbow (6 Suits)	2021-03-09 — 22:26:40 UTC	DarthGandalf, rz, StKildaFan	34	6	30
 462893	3	0	Dark Rainbow (6 Suits)	2021-03-09 — 22:08:27 UTC	DarthGandalf, rz, StKildaFan	62	6	30
 462879	3	29	Dark Rainbow (6 Suits)	2021-03-09 — 21:51:18 UTC	DarthGandalf, rz, StKildaFan	91	6	30
@@ -256,91 +296,91 @@
 462261	2	0	Black & Dark Rainbow (6 Suits)	2021-03-09 — 08:48:14 UTC	DarthGandalf, StKildaFan	5	6	30
 462260	2	0	Black & Dark Rainbow (6 Suits)	2021-03-09 — 08:43:52 UTC	DarthGandalf, StKildaFan	5	6	30
 462258	2	27	Black & Dark Rainbow (6 Suits)	2021-03-09 — 08:36:37 UTC	DarthGandalf, StKildaFan	5	6	30
-461919	4	24	No Variant	2021-03-09 — 00:19:18 UTC	Bot-Fiora, dancherp, DarthGandalf, wump	43	5	25
-461893	4	25	No Variant	2021-03-08 — 23:51:05 UTC	Bot-Fiora, dancherp, DarthGandalf, wump	45	5	25
+461919	4	24	No Variant	2021-03-09 — 00:19:18 UTC	Bot-Fiora, dancherp, DarthGandalf, wump	44	5	25
+461893	4	25	No Variant	2021-03-08 — 23:51:05 UTC	Bot-Fiora, dancherp, DarthGandalf, wump	46	5	25
 461777	4	21	Black (5 Suits)	2021-03-08 — 22:10:28 UTC	Bot-Fiora, CaitlinSmith, DarthGandalf, jeff10	13	5	25
-461739	3	0	No Variant	2021-03-08 — 21:54:01 UTC	CaitlinSmith, DarthGandalf, susu123	50	5	25
-461686	4	17	White (4 Suits)	2021-03-08 — 21:20:31 UTC	CaitlinSmith, Damian000, DarthGandalf, MangoPie	34	4	20
+461739	3	0	No Variant	2021-03-08 — 21:54:01 UTC	CaitlinSmith, DarthGandalf, susu123	51	5	25
+461686	4	17	White (4 Suits)	2021-03-08 — 21:20:31 UTC	CaitlinSmith, Damian000, DarthGandalf, MangoPie	35	4	20
 461554	3	0	Black (5 Suits)	2021-03-08 — 19:05:35 UTC	BraydonM, DarthGandalf, MangoPie	84	5	25
 461541	3	0	Black (5 Suits)	2021-03-08 — 18:47:42 UTC	BraydonM, DarthGandalf, MangoPie	101	5	25
-461528	3	25	No Variant	2021-03-08 — 18:23:28 UTC	Bot-Fiora, DarthGandalf, Lel0uch	750	5	25
-461514	3	24	White (5 Suits)	2021-03-08 — 17:58:42 UTC	DarthGandalf, Kernel, knaphill	81	5	25
+461528	3	25	No Variant	2021-03-08 — 18:23:28 UTC	Bot-Fiora, DarthGandalf, Lel0uch	757	5	25
+461514	3	24	White (5 Suits)	2021-03-08 — 17:58:42 UTC	DarthGandalf, Kernel, knaphill	84	5	25
 461504	3	20	Rainbow (4 Suits)	2021-03-08 — 17:27:24 UTC	DarthGandalf, Kernel, knaphill	22	4	20
-461422	3	0	No Variant	2021-03-08 — 15:33:21 UTC	DarthGandalf, orucsoraihc, wolfpack	98	5	25
-461395	3	0	No Variant	2021-03-08 — 15:14:26 UTC	DarthGandalf, orucsoraihc, wolfpack	154	5	25
+461422	3	0	No Variant	2021-03-08 — 15:33:21 UTC	DarthGandalf, orucsoraihc, wolfpack	102	5	25
+461395	3	0	No Variant	2021-03-08 — 15:14:26 UTC	DarthGandalf, orucsoraihc, wolfpack	157	5	25
 461246	3	0	Black & White (6 Suits)	2021-03-08 — 09:52:30 UTC	cockdestroyer, DarthGandalf, Denchulitas	15	6	30
 461241	3	0	Black & White (6 Suits)	2021-03-08 — 09:38:29 UTC	cockdestroyer, DarthGandalf, Denchulitas	15	6	30
 461239	3	27	Black & White (6 Suits)	2021-03-08 — 09:26:52 UTC	cockdestroyer, DarthGandalf, Denchulitas	25	6	30
-460798	3	22	No Variant	2021-03-08 — 00:36:59 UTC	Damian000, dancherp, DarthGandalf	354	5	25
-460753	2	0	No Variant	2021-03-08 — 00:03:38 UTC	dancherp, DarthGandalf	1703	5	25
-460730	2	22	No Variant	2021-03-07 — 23:41:37 UTC	dancherp, DarthGandalf	1840	5	25
+460798	3	22	No Variant	2021-03-08 — 00:36:59 UTC	Damian000, dancherp, DarthGandalf	359	5	25
+460753	2	0	No Variant	2021-03-08 — 00:03:38 UTC	dancherp, DarthGandalf	1721	5	25
+460730	2	22	No Variant	2021-03-07 — 23:41:37 UTC	dancherp, DarthGandalf	1856	5	25
 460685	5	0	Rainbow (4 Suits)	2021-03-07 — 23:02:30 UTC	ChristopheAF, DarthGandalf, melwen, possum, ricardodd	8	4	20
 460669	4	0	White & Brown (5 Suits)	2021-03-07 — 22:48:12 UTC	ChristopheAF, DarthGandalf, melwen, newduke	5	5	25
 460659	4	0	White & Brown (5 Suits)	2021-03-07 — 22:41:54 UTC	ChristopheAF, DarthGandalf, melwen, newduke	6	5	25
-460276	3	0	Rainbow (6 Suits)	2021-03-07 — 18:47:48 UTC	DarthGandalf, eljavi, kinkajusrevenge	55	6	30
-460250	3	0	Rainbow (6 Suits)	2021-03-07 — 18:18:06 UTC	DarthGandalf, eljavi, kinkajusrevenge	68	6	30
-460209	3	0	No Variant	2021-03-07 — 17:27:06 UTC	DarthGandalf, kinkajusrevenge, Meowie	840	5	25
+460276	3	0	Rainbow (6 Suits)	2021-03-07 — 18:47:48 UTC	DarthGandalf, eljavi, kinkajusrevenge	57	6	30
+460250	3	0	Rainbow (6 Suits)	2021-03-07 — 18:18:06 UTC	DarthGandalf, eljavi, kinkajusrevenge	69	6	30
+460209	3	0	No Variant	2021-03-07 — 17:27:06 UTC	DarthGandalf, kinkajusrevenge, Meowie	849	5	25
 460007	3	27	Gray (6 Suits)	2021-03-07 — 10:35:31 UTC	DarthGandalf, Lel0uch, robense	6	6	30
 460000	3	0	Gray (6 Suits)	2021-03-07 — 10:14:23 UTC	DarthGandalf, Lel0uch, robense	6	6	30
-459387	3	17	No Variant	2021-03-06 — 23:39:07 UTC	bicou, DarthGandalf, joey12345	1174	5	25
-459319	3	18	No Variant	2021-03-06 — 23:03:19 UTC	bicou, DarthGandalf, joey12345	1291	5	25
-459267	3	0	No Variant	2021-03-06 — 22:30:07 UTC	bicou, DarthGandalf, joey12345	1465	5	25
+459387	3	17	No Variant	2021-03-06 — 23:39:07 UTC	bicou, DarthGandalf, joey12345	1180	5	25
+459319	3	18	No Variant	2021-03-06 — 23:03:19 UTC	bicou, DarthGandalf, joey12345	1299	5	25
+459267	3	0	No Variant	2021-03-06 — 22:30:07 UTC	bicou, DarthGandalf, joey12345	1474	5	25
 459126	4	25	Rainbow-Fives & Prism (5 Suits)	2021-03-06 — 20:38:01 UTC	DarthGandalf, griff77, kopen, newduke	1	5	25
 459108	4	0	Rainbow-Fives & Prism (5 Suits)	2021-03-06 — 20:12:24 UTC	DarthGandalf, griff77, newduke, wump	2	5	25
-459015	3	28	Gray (6 Suits)	2021-03-06 — 18:52:13 UTC	DarthGandalf, orucsoraihc, Wittvector	16	6	30
-458984	3	0	Gray (6 Suits)	2021-03-06 — 18:28:05 UTC	DarthGandalf, orucsoraihc, Wittvector	16	6	30
-458750	3	0	Dual-Color (5 Suits)	2021-03-06 — 09:37:45 UTC	DarthGandalf, possum, wortel	2	5	25
+459015	3	28	Gray (6 Suits)	2021-03-06 — 18:52:13 UTC	DarthGandalf, orucsoraihc, Wittvector	18	6	30
+458984	3	0	Gray (6 Suits)	2021-03-06 — 18:28:05 UTC	DarthGandalf, orucsoraihc, Wittvector	19	6	30
+458750	3	0	Dual-Color (5 Suits)	2021-03-06 — 09:37:45 UTC	DarthGandalf, possum, wortel	3	5	25
 458739	5	30	Brown (6 Suits)	2021-03-06 — 09:06:15 UTC	DarthGandalf, louietyj, possum, qqqq, wortel	12	6	30
-458258	5	21	No Variant	2021-03-06 — 01:18:50 UTC	a_qq22, coconutchicken, DarthGandalf, Franklin, jason17055a	1119	5	25
+458258	5	21	No Variant	2021-03-06 — 01:18:50 UTC	a_qq22, coconutchicken, DarthGandalf, Franklin, jason17055a	1125	5	25
 457512	4	0	Throw It in a Hole (5 Suits)	2021-03-05 — 11:31:10 UTC	DarthGandalf, eliclax, knaphill, macanek	40	5	25
 457449	3	18	Ambiguous (4 Suits)	2021-03-05 — 08:48:50 UTC	DarthGandalf, eliclax, macanek	39	4	20
 457441	3	26	Black & White (6 Suits)	2021-03-05 — 08:23:37 UTC	DarthGandalf, macanek, robense	39	6	30
 456823	3	22	Black (5 Suits)	2021-03-04 — 23:06:48 UTC	CaitlinSmith, DarthGandalf, Spieler42	24	5	25
 456792	3	0	Black (5 Suits)	2021-03-04 — 22:47:50 UTC	CaitlinSmith, DarthGandalf, Spieler42	22	5	25
-456755	4	0	No Variant	2021-03-04 — 22:27:45 UTC	DarthGandalf, knaphill, Spieler42, Virgil	97	5	25
-456719	4	0	No Variant	2021-03-04 — 21:48:22 UTC	DarthGandalf, knaphill, Spieler42, Virgil	156	5	25
-456703	4	0	6 Suits	2021-03-04 — 21:26:58 UTC	DarthGandalf, orucsoraihc, Spieler42, Virgil	47	6	30
-456683	4	0	6 Suits	2021-03-04 — 21:03:42 UTC	DarthGandalf, orucsoraihc, Spieler42, Virgil	49	6	30
-456662	4	0	6 Suits	2021-03-04 — 20:45:00 UTC	DarthGandalf, orucsoraihc, Spieler42, Virgil	68	6	30
-456615	4	0	No Variant	2021-03-04 — 20:16:28 UTC	DarthGandalf, MangoPie, orucsoraihc, Virgil	167	5	25
-456579	3	22	No Variant	2021-03-04 — 19:42:35 UTC	DarthGandalf, orucsoraihc, rem088	170	5	25
-456540	2	23	No Variant	2021-03-04 — 18:55:19 UTC	DarthGandalf, rem088	1952	5	25
+456755	4	0	No Variant	2021-03-04 — 22:27:45 UTC	DarthGandalf, knaphill, Spieler42, Virgil	98	5	25
+456719	4	0	No Variant	2021-03-04 — 21:48:22 UTC	DarthGandalf, knaphill, Spieler42, Virgil	157	5	25
+456703	4	0	6 Suits	2021-03-04 — 21:26:58 UTC	DarthGandalf, orucsoraihc, Spieler42, Virgil	49	6	30
+456683	4	0	6 Suits	2021-03-04 — 21:03:42 UTC	DarthGandalf, orucsoraihc, Spieler42, Virgil	51	6	30
+456662	4	0	6 Suits	2021-03-04 — 20:45:00 UTC	DarthGandalf, orucsoraihc, Spieler42, Virgil	69	6	30
+456615	4	0	No Variant	2021-03-04 — 20:16:28 UTC	DarthGandalf, MangoPie, orucsoraihc, Virgil	169	5	25
+456579	3	22	No Variant	2021-03-04 — 19:42:35 UTC	DarthGandalf, orucsoraihc, rem088	173	5	25
+456540	2	23	No Variant	2021-03-04 — 18:55:19 UTC	DarthGandalf, rem088	1966	5	25
 455783	2	16	Ambiguous & Light Pink (5 Suits)	2021-03-04 — 00:39:54 UTC	CrazyMerlyn, DarthGandalf	3	5	25
 455757	2	0	Ambiguous & Light Pink (5 Suits)	2021-03-04 — 00:17:45 UTC	CrazyMerlyn, DarthGandalf	4	5	25
 455732	2	0	Ambiguous & Light Pink (5 Suits)	2021-03-04 — 00:00:34 UTC	CrazyMerlyn, DarthGandalf	7	5	25
-455723	2	30	White (6 Suits)	2021-03-03 — 23:47:37 UTC	CrazyMerlyn, DarthGandalf	184	6	30
+455723	2	30	White (6 Suits)	2021-03-03 — 23:47:37 UTC	CrazyMerlyn, DarthGandalf	186	6	30
 455710	2	30	Reversed (6 Suits)	2021-03-03 — 23:33:35 UTC	CrazyMerlyn, DarthGandalf	37	6	30
-455695	2	30	Rainbow (6 Suits)	2021-03-03 — 23:13:22 UTC	CrazyMerlyn, DarthGandalf	395	6	30
+455695	2	30	Rainbow (6 Suits)	2021-03-03 — 23:13:22 UTC	CrazyMerlyn, DarthGandalf	398	6	30
 455684	2	0	Clue Starved & Omni (5 Suits)	2021-03-03 — 22:59:10 UTC	CrazyMerlyn, DarthGandalf	3	5	25
-455675	2	30	Pink (6 Suits)	2021-03-03 — 22:48:12 UTC	CrazyMerlyn, DarthGandalf	143	6	30
-455662	2	0	Pink (6 Suits)	2021-03-03 — 22:33:33 UTC	CrazyMerlyn, DarthGandalf	157	6	30
-455649	2	23	Pink (6 Suits)	2021-03-03 — 22:19:33 UTC	CrazyMerlyn, DarthGandalf	172	6	30
-455623	2	0	Pink (6 Suits)	2021-03-03 — 21:59:20 UTC	CrazyMerlyn, DarthGandalf	219	6	30
-454295	4	0	No Variant	2021-03-02 — 18:47:32 UTC	DarthGandalf, HariKrishnan, Nils, Plum	162	5	25
-453717	3	28	Black (6 Suits)	2021-03-02 — 02:07:54 UTC	DarthGandalf, griff77, wolfpack	213	6	30
-452983	2	25	6 Suits	2021-03-01 — 09:36:23 UTC	DarthGandalf, eliclax	340	6	30
-452971	2	27	6 Suits	2021-03-01 — 09:15:14 UTC	DarthGandalf, eliclax	378	6	30
-452966	2	29	6 Suits	2021-03-01 — 08:52:13 UTC	DarthGandalf, eliclax	401	6	30
-452963	2	0	6 Suits	2021-03-01 — 08:39:23 UTC	DarthGandalf, eliclax	444	6	30
-452961	2	0	6 Suits	2021-03-01 — 08:33:41 UTC	DarthGandalf, eliclax	505	6	30
-452327	4	23	No Variant	2021-02-28 — 21:52:53 UTC	CaitlinSmith, DarthGandalf, robense, wump	47	5	25
-452307	3	25	No Variant	2021-02-28 — 21:22:06 UTC	DarthGandalf, HariKrishnan, robense	19	5	25
+455675	2	30	Pink (6 Suits)	2021-03-03 — 22:48:12 UTC	CrazyMerlyn, DarthGandalf	146	6	30
+455662	2	0	Pink (6 Suits)	2021-03-03 — 22:33:33 UTC	CrazyMerlyn, DarthGandalf	158	6	30
+455649	2	23	Pink (6 Suits)	2021-03-03 — 22:19:33 UTC	CrazyMerlyn, DarthGandalf	173	6	30
+455623	2	0	Pink (6 Suits)	2021-03-03 — 21:59:20 UTC	CrazyMerlyn, DarthGandalf	220	6	30
+454295	4	0	No Variant	2021-03-02 — 18:47:32 UTC	DarthGandalf, HariKrishnan, Nils, Plum	166	5	25
+453717	3	28	Black (6 Suits)	2021-03-02 — 02:07:54 UTC	DarthGandalf, griff77, wolfpack	214	6	30
+452983	2	25	6 Suits	2021-03-01 — 09:36:23 UTC	DarthGandalf, eliclax	352	6	30
+452971	2	27	6 Suits	2021-03-01 — 09:15:14 UTC	DarthGandalf, eliclax	388	6	30
+452966	2	29	6 Suits	2021-03-01 — 08:52:13 UTC	DarthGandalf, eliclax	413	6	30
+452963	2	0	6 Suits	2021-03-01 — 08:39:23 UTC	DarthGandalf, eliclax	453	6	30
+452961	2	0	6 Suits	2021-03-01 — 08:33:41 UTC	DarthGandalf, eliclax	513	6	30
+452327	4	23	No Variant	2021-02-28 — 21:52:53 UTC	CaitlinSmith, DarthGandalf, robense, wump	48	5	25
+452307	3	25	No Variant	2021-02-28 — 21:22:06 UTC	DarthGandalf, HariKrishnan, robense	20	5	25
 452137	4	28	Rainbow (6 Suits)	2021-02-28 — 19:43:24 UTC	DarthGandalf, Floriman, Kyle, Valetta6789	47	6	30
 451911	3	0	Pink-Fives (3 Suits)	2021-02-28 — 13:14:47 UTC	CaitlinSmith, DarthGandalf, MangoPie	5	3	15
 451907	3	0	Pink-Fives (3 Suits)	2021-02-28 — 13:04:39 UTC	CaitlinSmith, DarthGandalf, MangoPie	7	3	15
 451888	2	0	Rainbow & Gray Pink (5 Suits)	2021-02-28 — 12:43:05 UTC	CaitlinSmith, DarthGandalf	7	5	25
 451876	3	22	Black (5 Suits)	2021-02-28 — 12:02:25 UTC	CaitlinSmith, DarthGandalf, Kernel	29	5	25
 451118	4	24	No Variant	2021-02-27 — 20:47:17 UTC	caña, DarthGandalf, HariKrishnan, poofart123	129	5	25
-451059	4	23	No Variant	2021-02-27 — 19:59:33 UTC	caña, DarthGandalf, HariKrishnan, poofart123	190	5	25
-450982	3	19	White (4 Suits)	2021-02-27 — 19:08:28 UTC	DarthGandalf, griff77, narabio	46	4	20
-450965	3	16	White (4 Suits)	2021-02-27 — 18:37:26 UTC	DarthGandalf, griff77, narabio	59	4	20
+451059	4	23	No Variant	2021-02-27 — 19:59:33 UTC	caña, DarthGandalf, HariKrishnan, poofart123	192	5	25
+450982	3	19	White (4 Suits)	2021-02-27 — 19:08:28 UTC	DarthGandalf, griff77, narabio	47	4	20
+450965	3	16	White (4 Suits)	2021-02-27 — 18:37:26 UTC	DarthGandalf, griff77, narabio	62	4	20
 450918	3	25	Light-Pink-Fives & Dark Prism (6 Suits)	2021-02-27 — 17:18:00 UTC	DarthGandalf, griff77, MarcLovesDogs	1	6	30
-450772	3	25	No Variant	2021-02-27 — 11:36:37 UTC	belledujour, DarthGandalf, possum	141	5	25
-450759	4	0	Black (5 Suits)	2021-02-27 — 10:49:18 UTC	DarthGandalf, eliclax, possum, sean1815	36	5	25
-450756	4	0	Black (5 Suits)	2021-02-27 — 10:28:08 UTC	DarthGandalf, eliclax, possum, sean1815	41	5	25
+450772	3	25	No Variant	2021-02-27 — 11:36:37 UTC	belledujour, DarthGandalf, possum	145	5	25
+450759	4	0	Black (5 Suits)	2021-02-27 — 10:49:18 UTC	DarthGandalf, eliclax, possum, sean1815	37	5	25
+450756	4	0	Black (5 Suits)	2021-02-27 — 10:28:08 UTC	DarthGandalf, eliclax, possum, sean1815	42	5	25
 450752	2	24	Muddy-Rainbow-Fives & Gray (5 Suits)	2021-02-27 — 10:12:35 UTC	DarthGandalf, eliclax	3	5	25
-450747	2	20	4 Suits	2021-02-27 — 09:50:25 UTC	DarthGandalf, eliclax	171	4	20
-450744	2	17	4 Suits	2021-02-27 — 09:37:33 UTC	DarthGandalf, eliclax	244	4	20
+450747	2	20	4 Suits	2021-02-27 — 09:50:25 UTC	DarthGandalf, eliclax	177	4	20
+450744	2	17	4 Suits	2021-02-27 — 09:37:33 UTC	DarthGandalf, eliclax	248	4	20
 450741	3	0	Rainbow & Dark Prism (5 Suits)	2021-02-27 — 09:17:52 UTC	DarthGandalf, derekcheah, Lel0uch	1	5	25
 450740	3	0	Rainbow & Dark Prism (5 Suits)	2021-02-27 — 09:12:36 UTC	DarthGandalf, derekcheah, Lel0uch	1	5	25
 450739	3	0	Rainbow & Dark Prism (5 Suits)	2021-02-27 — 09:09:07 UTC	DarthGandalf, derekcheah, Lel0uch	1	5	25
@@ -351,163 +391,163 @@
 449868	4	0	Rainbow-Ones (5 Suits)	2021-02-26 — 15:51:33 UTC	DarthGandalf, eljavi, Lanvin, narabio	7	5	25
 449296	4	23	Rainbow-Ones (5 Suits)	2021-02-25 — 23:29:06 UTC	Damian000, DarthGandalf, eljavi, possum	12	5	25
 448147	2	25	Omni (5 Suits)	2021-02-24 — 23:48:22 UTC	CrazyMerlyn, DarthGandalf	55	5	25
-448133	2	0	Omni (5 Suits)	2021-02-24 — 23:32:29 UTC	CrazyMerlyn, DarthGandalf	78	5	25
-448122	2	0	Omni (5 Suits)	2021-02-24 — 23:15:11 UTC	CrazyMerlyn, DarthGandalf	106	5	25
-448108	2	25	Pink (5 Suits)	2021-02-24 — 23:02:34 UTC	CrazyMerlyn, DarthGandalf	200	5	25
-448101	2	15	Rainbow (3 Suits)	2021-02-24 — 22:51:52 UTC	CrazyMerlyn, DarthGandalf	49	3	15
-448096	2	0	Rainbow (3 Suits)	2021-02-24 — 22:45:54 UTC	CrazyMerlyn, DarthGandalf	76	3	15
-448090	2	13	Rainbow (3 Suits)	2021-02-24 — 22:37:03 UTC	CrazyMerlyn, DarthGandalf	127	3	15
-448080	2	15	3 Suits	2021-02-24 — 22:26:38 UTC	CrazyMerlyn, DarthGandalf	193	3	15
-448075	2	14	3 Suits	2021-02-24 — 22:20:01 UTC	CrazyMerlyn, DarthGandalf	271	3	15
-448069	2	23	6 Suits	2021-02-24 — 22:12:45 UTC	CrazyMerlyn, DarthGandalf	593	6	30
-448055	2	25	6 Suits	2021-02-24 — 21:54:27 UTC	CrazyMerlyn, DarthGandalf	666	6	30
-448038	2	0	6 Suits	2021-02-24 — 21:40:02 UTC	CrazyMerlyn, DarthGandalf	851	6	30
+448133	2	0	Omni (5 Suits)	2021-02-24 — 23:32:29 UTC	CrazyMerlyn, DarthGandalf	81	5	25
+448122	2	0	Omni (5 Suits)	2021-02-24 — 23:15:11 UTC	CrazyMerlyn, DarthGandalf	110	5	25
+448108	2	25	Pink (5 Suits)	2021-02-24 — 23:02:34 UTC	CrazyMerlyn, DarthGandalf	204	5	25
+448101	2	15	Rainbow (3 Suits)	2021-02-24 — 22:51:52 UTC	CrazyMerlyn, DarthGandalf	50	3	15
+448096	2	0	Rainbow (3 Suits)	2021-02-24 — 22:45:54 UTC	CrazyMerlyn, DarthGandalf	78	3	15
+448090	2	13	Rainbow (3 Suits)	2021-02-24 — 22:37:03 UTC	CrazyMerlyn, DarthGandalf	132	3	15
+448080	2	15	3 Suits	2021-02-24 — 22:26:38 UTC	CrazyMerlyn, DarthGandalf	195	3	15
+448075	2	14	3 Suits	2021-02-24 — 22:20:01 UTC	CrazyMerlyn, DarthGandalf	273	3	15
+448069	2	23	6 Suits	2021-02-24 — 22:12:45 UTC	CrazyMerlyn, DarthGandalf	601	6	30
+448055	2	25	6 Suits	2021-02-24 — 21:54:27 UTC	CrazyMerlyn, DarthGandalf	675	6	30
+448038	2	0	6 Suits	2021-02-24 — 21:40:02 UTC	CrazyMerlyn, DarthGandalf	862	6	30
 447007	5	30	6 Suits	2021-02-23 — 21:33:05 UTC	Damian000, DarthGandalf, Daryl, HariKrishnan, knaphill	69	6	30
-446924	4	0	Black (6 Suits)	2021-02-23 — 20:39:55 UTC	Damian000, DarthGandalf, Daryl, HariKrishnan	213	6	30
-446804	4	25	No Variant	2021-02-23 — 19:21:06 UTC	BraydonM, DarthGandalf, narabio, PotatoLatte	899	5	25
-446764	4	24	No Variant	2021-02-23 — 18:53:28 UTC	BraydonM, DarthGandalf, PotatoLatte, torp	138	5	25
-446737	4	0	No Variant	2021-02-23 — 18:26:34 UTC	BraydonM, DarthGandalf, PotatoLatte, torp	601	5	25
+446924	4	0	Black (6 Suits)	2021-02-23 — 20:39:55 UTC	Damian000, DarthGandalf, Daryl, HariKrishnan	215	6	30
+446804	4	25	No Variant	2021-02-23 — 19:21:06 UTC	BraydonM, DarthGandalf, narabio, PotatoLatte	908	5	25
+446764	4	24	No Variant	2021-02-23 — 18:53:28 UTC	BraydonM, DarthGandalf, PotatoLatte, torp	139	5	25
+446737	4	0	No Variant	2021-02-23 — 18:26:34 UTC	BraydonM, DarthGandalf, PotatoLatte, torp	606	5	25
 446067	3	0	Black (6 Suits)	2021-02-23 — 00:57:03 UTC	DarthGandalf, griff77, StKildaFan	43	6	30
-446048	3	27	Black (6 Suits)	2021-02-23 — 00:32:37 UTC	DarthGandalf, griff77, StKildaFan	46	6	30
+446048	3	27	Black (6 Suits)	2021-02-23 — 00:32:37 UTC	DarthGandalf, griff77, StKildaFan	47	6	30
 446037	3	0	Black (6 Suits)	2021-02-23 — 00:16:15 UTC	DarthGandalf, griff77, StKildaFan	48	6	30
 445917	4	24	Black (5 Suits)	2021-02-22 — 22:05:56 UTC	CaitlinSmith, Damian000, DarthGandalf, eljavi	11	5	25
 445903	4	0	Black (5 Suits)	2021-02-22 — 21:47:50 UTC	CaitlinSmith, Damian000, DarthGandalf, eljavi	11	5	25
 445887	4	0	Black (5 Suits)	2021-02-22 — 21:37:23 UTC	CaitlinSmith, Damian000, DarthGandalf, eljavi	14	5	25
 445855	4	0	Black (5 Suits)	2021-02-22 — 21:15:19 UTC	CaitlinSmith, Damian000, DarthGandalf, eljavi	14	5	25
 445825	4	22	Black (5 Suits)	2021-02-22 — 20:53:44 UTC	CaitlinSmith, Damian000, DarthGandalf, eljavi	16	5	25
-445775	3	24	No Variant	2021-02-22 — 20:20:33 UTC	CaitlinSmith, DarthGandalf, PotatoLatte	57	5	25
-445403	4	24	No Variant	2021-02-22 — 09:17:17 UTC	bingchin, BraydonM, DarthGandalf, programjm	985	5	25
+445775	3	24	No Variant	2021-02-22 — 20:20:33 UTC	CaitlinSmith, DarthGandalf, PotatoLatte	58	5	25
+445403	4	24	No Variant	2021-02-22 — 09:17:17 UTC	bingchin, BraydonM, DarthGandalf, programjm	994	5	25
 444472	2	21	Rainbow & Pink (5 Suits)	2021-02-21 — 16:57:37 UTC	BraydonM, DarthGandalf	9	5	25
 444464	2	0	Rainbow & Pink (5 Suits)	2021-02-21 — 16:40:32 UTC	BraydonM, DarthGandalf	11	5	25
 444453	2	0	Rainbow & Pink (5 Suits)	2021-02-21 — 16:29:21 UTC	BraydonM, DarthGandalf	12	5	25
 444441	2	0	Rainbow & Pink (5 Suits)	2021-02-21 — 16:14:01 UTC	BraydonM, DarthGandalf	19	5	25
 444413	2	0	Rainbow & Pink (5 Suits)	2021-02-21 — 15:56:13 UTC	BraydonM, DarthGandalf	41	5	25
-444205	3	25	No Variant	2021-02-21 — 08:22:38 UTC	DarthGandalf, lodizodi, Wittvector	218	5	25
+444205	3	25	No Variant	2021-02-21 — 08:22:38 UTC	DarthGandalf, lodizodi, Wittvector	223	5	25
 443472	5	23	White (5 Suits)	2021-02-20 — 22:00:25 UTC	DarthGandalf, griff77, newduke, otterful, poofart123	14	5	25
-443449	4	23	Black (5 Suits)	2021-02-20 — 21:28:27 UTC	DarthGandalf, ontak, otterful, poofart123	79	5	25
-443412	4	20	Black (5 Suits)	2021-02-20 — 21:03:42 UTC	DarthGandalf, ontak, otterful, poofart123	98	5	25
-443395	3	25	No Variant	2021-02-20 — 20:42:08 UTC	Damian000, DarthGandalf, HariKrishnan	151	5	25
-443374	3	24	No Variant	2021-02-20 — 20:21:04 UTC	Damian000, DarthGandalf, HariKrishnan	156	5	25
-443219	3	0	No Variant	2021-02-20 — 17:01:47 UTC	DarthGandalf, knaphill, Spieler42	160	5	25
-443205	3	24	No Variant	2021-02-20 — 16:40:04 UTC	DarthGandalf, knaphill, Spieler42	164	5	25
+443449	4	23	Black (5 Suits)	2021-02-20 — 21:28:27 UTC	DarthGandalf, ontak, otterful, poofart123	80	5	25
+443412	4	20	Black (5 Suits)	2021-02-20 — 21:03:42 UTC	DarthGandalf, ontak, otterful, poofart123	101	5	25
+443395	3	25	No Variant	2021-02-20 — 20:42:08 UTC	Damian000, DarthGandalf, HariKrishnan	153	5	25
+443374	3	24	No Variant	2021-02-20 — 20:21:04 UTC	Damian000, DarthGandalf, HariKrishnan	158	5	25
+443219	3	0	No Variant	2021-02-20 — 17:01:47 UTC	DarthGandalf, knaphill, Spieler42	163	5	25
+443205	3	24	No Variant	2021-02-20 — 16:40:04 UTC	DarthGandalf, knaphill, Spieler42	167	5	25
 443191	6	21	Rainbow (5 Suits)	2021-02-20 — 16:09:58 UTC	DarthGandalf, eljavi, Espen, knaphill, ontak, Spieler42	11	5	25
 443183	6	0	Rainbow (5 Suits)	2021-02-20 — 15:37:10 UTC	DarthGandalf, eljavi, Espen, knaphill, ontak, Spieler42	14	5	25
 443179	6	0	Rainbow (5 Suits)	2021-02-20 — 15:25:21 UTC	DarthGandalf, eljavi, Espen, knaphill, ontak, Spieler42	15	5	25
-443068	2	20	Rainbow (4 Suits)	2021-02-20 — 09:54:14 UTC	BraydonM, DarthGandalf	132	4	20
-443064	2	25	Prism (5 Suits)	2021-02-20 — 09:38:18 UTC	BraydonM, DarthGandalf	30	5	25
-443059	2	0	Prism (5 Suits)	2021-02-20 — 09:27:45 UTC	BraydonM, DarthGandalf	36	5	25
+443068	2	20	Rainbow (4 Suits)	2021-02-20 — 09:54:14 UTC	BraydonM, DarthGandalf	135	4	20
+443064	2	25	Prism (5 Suits)	2021-02-20 — 09:38:18 UTC	BraydonM, DarthGandalf	31	5	25
+443059	2	0	Prism (5 Suits)	2021-02-20 — 09:27:45 UTC	BraydonM, DarthGandalf	38	5	25
 442728	4	20	Rainbow (4 Suits)	2021-02-20 — 02:40:54 UTC	Bot-Fiora, DarthGandalf, griff77, ksfortson	6	4	20
 442693	4	18	Rainbow (4 Suits)	2021-02-20 — 02:15:59 UTC	Bot-Fiora, DarthGandalf, griff77, ksfortson	11	4	20
-442655	4	0	Rainbow (4 Suits)	2021-02-20 — 01:57:19 UTC	Bot-Fiora, DarthGandalf, griff77, ksfortson	32	4	20
+442655	4	0	Rainbow (4 Suits)	2021-02-20 — 01:57:19 UTC	Bot-Fiora, DarthGandalf, griff77, ksfortson	33	4	20
 442597	3	23	Rainbow (5 Suits)	2021-02-20 — 01:32:54 UTC	Bot-Fiora, DarthGandalf, griff77	135	5	25
-442402	4	25	No Variant	2021-02-19 — 23:07:50 UTC	Damian000, DarthGandalf, HariKrishnan, possum	117	5	25
-442003	5	22	White (5 Suits)	2021-02-19 — 16:02:55 UTC	BraydonM, DarthGandalf, ksfortson, ontak, possum	21	5	25
-440401	2	0	Black (6 Suits)	2021-02-17 — 23:42:44 UTC	CrazyMerlyn, DarthGandalf	350	6	30
-440391	2	22	Black (6 Suits)	2021-02-17 — 23:30:00 UTC	CrazyMerlyn, DarthGandalf	391	6	30
-440383	2	0	Black (6 Suits)	2021-02-17 — 23:20:42 UTC	CrazyMerlyn, DarthGandalf	442	6	30
-440378	2	25	Black (6 Suits)	2021-02-17 — 23:13:42 UTC	CrazyMerlyn, DarthGandalf	546	6	30
-440371	2	0	Black (6 Suits)	2021-02-17 — 23:03:57 UTC	CrazyMerlyn, DarthGandalf	643	6	30
-440361	2	25	No Variant	2021-02-17 — 22:54:56 UTC	CrazyMerlyn, DarthGandalf	2147	5	25
-440346	2	20	No Variant	2021-02-17 — 22:44:21 UTC	CrazyMerlyn, DarthGandalf	2288	5	25
-440330	2	24	No Variant	2021-02-17 — 22:33:21 UTC	CrazyMerlyn, DarthGandalf	2532	5	25
-440315	2	22	No Variant	2021-02-17 — 22:19:05 UTC	CrazyMerlyn, DarthGandalf	2750	5	25
-440305	2	0	No Variant	2021-02-17 — 22:11:31 UTC	CrazyMerlyn, DarthGandalf	3507	5	25
-440295	3	21	No Variant	2021-02-17 — 22:01:01 UTC	aida.younesi, CrazyMerlyn, DarthGandalf	4221	5	25
-440016	4	20	Gray (5 Suits)	2021-02-17 — 17:25:29 UTC	DarthGandalf, ksfortson, Onen, robense	22	5	25
+442402	4	25	No Variant	2021-02-19 — 23:07:50 UTC	Damian000, DarthGandalf, HariKrishnan, possum	119	5	25
+442003	5	22	White (5 Suits)	2021-02-19 — 16:02:55 UTC	BraydonM, DarthGandalf, ksfortson, ontak, possum	22	5	25
+440401	2	0	Black (6 Suits)	2021-02-17 — 23:42:44 UTC	CrazyMerlyn, DarthGandalf	358	6	30
+440391	2	22	Black (6 Suits)	2021-02-17 — 23:30:00 UTC	CrazyMerlyn, DarthGandalf	398	6	30
+440383	2	0	Black (6 Suits)	2021-02-17 — 23:20:42 UTC	CrazyMerlyn, DarthGandalf	450	6	30
+440378	2	25	Black (6 Suits)	2021-02-17 — 23:13:42 UTC	CrazyMerlyn, DarthGandalf	553	6	30
+440371	2	0	Black (6 Suits)	2021-02-17 — 23:03:57 UTC	CrazyMerlyn, DarthGandalf	654	6	30
+440361	2	25	No Variant	2021-02-17 — 22:54:56 UTC	CrazyMerlyn, DarthGandalf	2166	5	25
+440346	2	20	No Variant	2021-02-17 — 22:44:21 UTC	CrazyMerlyn, DarthGandalf	2307	5	25
+440330	2	24	No Variant	2021-02-17 — 22:33:21 UTC	CrazyMerlyn, DarthGandalf	2552	5	25
+440315	2	22	No Variant	2021-02-17 — 22:19:05 UTC	CrazyMerlyn, DarthGandalf	2772	5	25
+440305	2	0	No Variant	2021-02-17 — 22:11:31 UTC	CrazyMerlyn, DarthGandalf	3537	5	25
+440295	3	21	No Variant	2021-02-17 — 22:01:01 UTC	aida.younesi, CrazyMerlyn, DarthGandalf	4250	5	25
+440016	4	20	Gray (5 Suits)	2021-02-17 — 17:25:29 UTC	DarthGandalf, ksfortson, Onen, robense	23	5	25
 439861	4	0	Rainbow (6 Suits)	2021-02-17 — 11:07:30 UTC	BananaBum, DarthGandalf, ontak, possum	132	6	30
-439855	3	0	Rainbow (6 Suits)	2021-02-17 — 10:55:30 UTC	BananaBum, DarthGandalf, possum	689	6	30
-439848	4	0	White & Prism (6 Suits)	2021-02-17 — 10:29:46 UTC	DarthGandalf, pianoblook, qqqq, Valetta6789	8	6	30
-439088	3	25	No Variant	2021-02-16 — 12:25:12 UTC	DarthGandalf, possum, Spieler42	148	5	25
-439082	3	22	No Variant	2021-02-16 — 12:03:30 UTC	DarthGandalf, possum, Spieler42	167	5	25
-439076	3	21	No Variant	2021-02-16 — 11:30:18 UTC	DarthGandalf, possum, skyblueexo	112	5	25
-439034	3	29	Rainbow (6 Suits)	2021-02-16 — 09:51:57 UTC	BraydonM, catula, DarthGandalf	282	6	30
+439855	3	0	Rainbow (6 Suits)	2021-02-17 — 10:55:30 UTC	BananaBum, DarthGandalf, possum	693	6	30
+439848	4	0	White & Prism (6 Suits)	2021-02-17 — 10:29:46 UTC	DarthGandalf, pianoblook, qqqq, Valetta6789	10	6	30
+439088	3	25	No Variant	2021-02-16 — 12:25:12 UTC	DarthGandalf, possum, Spieler42	149	5	25
+439082	3	22	No Variant	2021-02-16 — 12:03:30 UTC	DarthGandalf, possum, Spieler42	170	5	25
+439076	3	21	No Variant	2021-02-16 — 11:30:18 UTC	DarthGandalf, possum, skyblueexo	116	5	25
+439034	3	29	Rainbow (6 Suits)	2021-02-16 — 09:51:57 UTC	BraydonM, catula, DarthGandalf	284	6	30
 438585	5	23	Rainbow (5 Suits)	2021-02-15 — 23:23:55 UTC	Damian000, DarthGandalf, otterful, Pimak, Stormylu	23	5	25
 438538	5	0	Rainbow (5 Suits)	2021-02-15 — 22:52:14 UTC	Damian000, DarthGandalf, otterful, Pimak, Stormylu	26	5	25
-438510	5	0	Rainbow (5 Suits)	2021-02-15 — 22:22:34 UTC	Damian000, DarthGandalf, otterful, Pimak, Stormylu	54	5	25
+438510	5	0	Rainbow (5 Suits)	2021-02-15 — 22:22:34 UTC	Damian000, DarthGandalf, otterful, Pimak, Stormylu	55	5	25
 438405	3	20	4 Suits	2021-02-15 — 21:06:19 UTC	DarthGandalf, griff77, jian01	90	4	20
-438369	3	19	4 Suits	2021-02-15 — 20:41:36 UTC	DarthGandalf, griff77, jian01	118	4	20
-438343	3	17	4 Suits	2021-02-15 — 20:09:08 UTC	DarthGandalf, griff77, newduke	160	4	20
+438369	3	19	4 Suits	2021-02-15 — 20:41:36 UTC	DarthGandalf, griff77, jian01	120	4	20
+438343	3	17	4 Suits	2021-02-15 — 20:09:08 UTC	DarthGandalf, griff77, newduke	162	4	20
 438284	6	28	Brown-Ones & White (6 Suits)	2021-02-15 — 19:21:58 UTC	4head, DarthGandalf, HelanaAshryvr, Lanvin, newduke, squirrel1988	1	6	30
 438231	6	0	Brown-Ones & White (6 Suits)	2021-02-15 — 18:34:24 UTC	4head, DarthGandalf, HelanaAshryvr, Lanvin, newduke, squirrel1988	1	6	30
-438081	5	0	Rainbow & White (6 Suits)	2021-02-15 — 15:08:19 UTC	BananaBum, banjoleb, DarthGandalf, eljavi, skyblueexo	11	6	30
+438081	5	0	Rainbow & White (6 Suits)	2021-02-15 — 15:08:19 UTC	BananaBum, banjoleb, DarthGandalf, eljavi, skyblueexo	12	6	30
 438071	5	0	Rainbow & White (6 Suits)	2021-02-15 — 14:27:28 UTC	BananaBum, banjoleb, DarthGandalf, eljavi, skyblueexo	14	6	30
-438036	4	22	No Variant	2021-02-15 — 12:31:06 UTC	BananaBum, banjoleb, DarthGandalf, Ξδλψ	1092	5	25
-437065	3	23	Black (5 Suits)	2021-02-14 — 17:41:11 UTC	DarthGandalf, ontak, Spieler42	171	5	25
-437028	2	0	No Variant	2021-02-14 — 17:10:06 UTC	DarthGandalf, Spieler42	719	5	25
+438036	4	22	No Variant	2021-02-15 — 12:31:06 UTC	BananaBum, banjoleb, DarthGandalf, Ξδλψ	1103	5	25
+437065	3	23	Black (5 Suits)	2021-02-14 — 17:41:11 UTC	DarthGandalf, ontak, Spieler42	174	5	25
+437028	2	0	No Variant	2021-02-14 — 17:10:06 UTC	DarthGandalf, Spieler42	725	5	25
 436935	2	19	No Variant	2021-02-14 — 15:03:20 UTC	DarthGandalf, rachyrules	21	5	25
 434862	3	22	Black (5 Suits)	2021-02-12 — 23:22:34 UTC	DarthGandalf, kevincaseytdk1, ontak	119	5	25
-434842	3	25	No Variant	2021-02-12 — 22:50:20 UTC	DarthGandalf, LautiManzano, ontak	157	5	25
-434820	3	23	No Variant	2021-02-12 — 22:24:11 UTC	DarthGandalf, LautiManzano, ontak	178	5	25
-433714	3	24	No Variant	2021-02-11 — 23:26:49 UTC	DarthGandalf, JackFrost, wump	59	5	25
-433686	2	23	No Variant	2021-02-11 — 22:58:19 UTC	DarthGandalf, wump	699	5	25
-433487	3	0	Black (6 Suits)	2021-02-11 — 19:58:05 UTC	DarthGandalf, Daryl, HariKrishnan	325	6	30
-433459	3	0	Black (6 Suits)	2021-02-11 — 19:17:20 UTC	DarthGandalf, Daryl, HariKrishnan	399	6	30
-433248	2	25	No Variant	2021-02-11 — 10:35:32 UTC	DarthGandalf, macanek	41	5	25
-432724	2	26	Rainbow (6 Suits)	2021-02-10 — 22:17:08 UTC	CrazyMerlyn, DarthGandalf	441	6	30
-432695	2	27	Rainbow (6 Suits)	2021-02-10 — 21:54:00 UTC	CrazyMerlyn, DarthGandalf	500	6	30
-432665	2	0	Rainbow (6 Suits)	2021-02-10 — 21:36:20 UTC	CrazyMerlyn, DarthGandalf	593	6	30
-432641	2	27	Rainbow (6 Suits)	2021-02-10 — 21:21:06 UTC	CrazyMerlyn, DarthGandalf	717	6	30
-432614	2	0	Rainbow (6 Suits)	2021-02-10 — 20:58:46 UTC	CrazyMerlyn, DarthGandalf	971	6	30
-432581	2	17	No Variant	2021-02-10 — 20:44:24 UTC	CrazyMerlyn, DarthGandalf	4109	5	25
-432540	2	23	No Variant	2021-02-10 — 20:27:51 UTC	CrazyMerlyn, DarthGandalf	5374	5	25
-432053	3	13	3 Suits	2021-02-10 — 09:37:40 UTC	CaitlinSmith, DarthGandalf, macanek	88	3	15
-432038	3	12	3 Suits	2021-02-10 — 09:21:00 UTC	DarthGandalf, eliclax, macanek	115	3	15
-432027	3	13	3 Suits	2021-02-10 — 09:05:26 UTC	DarthGandalf, eliclax, macanek	144	3	15
-430560	2	24	No Variant	2021-02-08 — 23:21:20 UTC	DarthGandalf, macanek	45	5	25
-430462	3	25	No Variant	2021-02-08 — 22:33:38 UTC	DarthGandalf, ksfortson, wump	53	5	25
-430422	3	25	No Variant	2021-02-08 — 22:11:21 UTC	Damian000, DarthGandalf, wump	61	5	25
-430378	2	22	No Variant	2021-02-08 — 21:49:40 UTC	Damian000, DarthGandalf	1299	5	25
-430347	3	0	No Variant	2021-02-08 — 21:33:06 UTC	DarthGandalf, ksfortson, PMP	77	5	25
+434842	3	25	No Variant	2021-02-12 — 22:50:20 UTC	DarthGandalf, LautiManzano, ontak	160	5	25
+434820	3	23	No Variant	2021-02-12 — 22:24:11 UTC	DarthGandalf, LautiManzano, ontak	179	5	25
+433714	3	24	No Variant	2021-02-11 — 23:26:49 UTC	DarthGandalf, JackFrost, wump	60	5	25
+433686	2	23	No Variant	2021-02-11 — 22:58:19 UTC	DarthGandalf, wump	705	5	25
+433487	3	0	Black (6 Suits)	2021-02-11 — 19:58:05 UTC	DarthGandalf, Daryl, HariKrishnan	332	6	30
+433459	3	0	Black (6 Suits)	2021-02-11 — 19:17:20 UTC	DarthGandalf, Daryl, HariKrishnan	407	6	30
+433248	2	25	No Variant	2021-02-11 — 10:35:32 UTC	DarthGandalf, macanek	43	5	25
+432724	2	26	Rainbow (6 Suits)	2021-02-10 — 22:17:08 UTC	CrazyMerlyn, DarthGandalf	446	6	30
+432695	2	27	Rainbow (6 Suits)	2021-02-10 — 21:54:00 UTC	CrazyMerlyn, DarthGandalf	506	6	30
+432665	2	0	Rainbow (6 Suits)	2021-02-10 — 21:36:20 UTC	CrazyMerlyn, DarthGandalf	605	6	30
+432641	2	27	Rainbow (6 Suits)	2021-02-10 — 21:21:06 UTC	CrazyMerlyn, DarthGandalf	728	6	30
+432614	2	0	Rainbow (6 Suits)	2021-02-10 — 20:58:46 UTC	CrazyMerlyn, DarthGandalf	984	6	30
+432581	2	17	No Variant	2021-02-10 — 20:44:24 UTC	CrazyMerlyn, DarthGandalf	4149	5	25
+432540	2	23	No Variant	2021-02-10 — 20:27:51 UTC	CrazyMerlyn, DarthGandalf	5421	5	25
+432053	3	13	3 Suits	2021-02-10 — 09:37:40 UTC	CaitlinSmith, DarthGandalf, macanek	90	3	15
+432038	3	12	3 Suits	2021-02-10 — 09:21:00 UTC	DarthGandalf, eliclax, macanek	116	3	15
+432027	3	13	3 Suits	2021-02-10 — 09:05:26 UTC	DarthGandalf, eliclax, macanek	146	3	15
+430560	2	24	No Variant	2021-02-08 — 23:21:20 UTC	DarthGandalf, macanek	47	5	25
+430462	3	25	No Variant	2021-02-08 — 22:33:38 UTC	DarthGandalf, ksfortson, wump	54	5	25
+430422	3	25	No Variant	2021-02-08 — 22:11:21 UTC	Damian000, DarthGandalf, wump	62	5	25
+430378	2	22	No Variant	2021-02-08 — 21:49:40 UTC	Damian000, DarthGandalf	1311	5	25
+430347	3	0	No Variant	2021-02-08 — 21:33:06 UTC	DarthGandalf, ksfortson, PMP	78	5	25
 430290	5	23	White (5 Suits)	2021-02-08 — 20:59:34 UTC	CaitlinSmith, DarthGandalf, Denchulitas, eljavi, HariKrishnan	26	5	25
-430130	5	23	No Variant	2021-02-08 — 18:49:19 UTC	DarthGandalf, griff77, HariKrishnan, macanek, MathNoob	45	5	25
+430130	5	23	No Variant	2021-02-08 — 18:49:19 UTC	DarthGandalf, griff77, HariKrishnan, macanek, MathNoob	46	5	25
 428029	5	22	Rainbow & Prism (5 Suits)	2021-02-06 — 21:36:40 UTC	4head, DarthGandalf, Daryl, Doge, torp	4	5	25
-427987	5	30	Rainbow (6 Suits)	2021-02-06 — 21:03:32 UTC	4head, caña, DarthGandalf, eljavi, HariKrishnan	50	6	30
-427944	5	0	Rainbow (6 Suits)	2021-02-06 — 20:24:27 UTC	4head, caña, DarthGandalf, eljavi, HariKrishnan	59	6	30
-427139	4	24	No Variant	2021-02-06 — 02:12:11 UTC	DarthGandalf, InflatableKayak, PMP, 火花	287	5	25
-427113	3	24	6 Suits	2021-02-06 — 01:49:58 UTC	CaptainNoob88, DarthGandalf, rem088	503	6	30
-426911	4	19	Black (5 Suits)	2021-02-05 — 22:46:43 UTC	CaitlinSmith, DarthGandalf, Onen, Spieler42	21	5	25
+427987	5	30	Rainbow (6 Suits)	2021-02-06 — 21:03:32 UTC	4head, caña, DarthGandalf, eljavi, HariKrishnan	51	6	30
+427944	5	0	Rainbow (6 Suits)	2021-02-06 — 20:24:27 UTC	4head, caña, DarthGandalf, eljavi, HariKrishnan	60	6	30
+427139	4	24	No Variant	2021-02-06 — 02:12:11 UTC	DarthGandalf, InflatableKayak, PMP, 火花	293	5	25
+427113	3	24	6 Suits	2021-02-06 — 01:49:58 UTC	CaptainNoob88, DarthGandalf, rem088	511	6	30
+426911	4	19	Black (5 Suits)	2021-02-05 — 22:46:43 UTC	CaitlinSmith, DarthGandalf, Onen, Spieler42	22	5	25
 426885	4	22	Black (5 Suits)	2021-02-05 — 22:23:12 UTC	CaitlinSmith, DarthGandalf, Onen, Spieler42	32	5	25
-426854	3	25	No Variant	2021-02-05 — 22:01:27 UTC	CaitlinSmith, DarthGandalf, Onen	78	5	25
-426821	3	24	No Variant	2021-02-05 — 21:40:29 UTC	CaitlinSmith, DarthGandalf, Onen	77	5	25
-425771	3	0	No Variant	2021-02-04 — 22:02:20 UTC	DarthGandalf, socerman, tacobot5000	1636	5	25
-425746	3	22	No Variant	2021-02-04 — 21:32:35 UTC	DarthGandalf, socerman, tacobot5000	2606	5	25
-425698	3	23	No Variant	2021-02-04 — 20:58:18 UTC	DarthGandalf, socerman, tacobot5000	3260	5	25
-425545	3	23	No Variant	2021-02-04 — 19:12:08 UTC	DarthGandalf, HariKrishnan, NumerateClutter	375	5	25
-425482	3	0	No Variant	2021-02-04 — 18:28:00 UTC	DarthGandalf, HariKrishnan, NumerateClutter	801	5	25
+426854	3	25	No Variant	2021-02-05 — 22:01:27 UTC	CaitlinSmith, DarthGandalf, Onen	79	5	25
+426821	3	24	No Variant	2021-02-05 — 21:40:29 UTC	CaitlinSmith, DarthGandalf, Onen	78	5	25
+425771	3	0	No Variant	2021-02-04 — 22:02:20 UTC	DarthGandalf, socerman, tacobot5000	1651	5	25
+425746	3	22	No Variant	2021-02-04 — 21:32:35 UTC	DarthGandalf, socerman, tacobot5000	2627	5	25
+425698	3	23	No Variant	2021-02-04 — 20:58:18 UTC	DarthGandalf, socerman, tacobot5000	3290	5	25
+425545	3	23	No Variant	2021-02-04 — 19:12:08 UTC	DarthGandalf, HariKrishnan, NumerateClutter	380	5	25
+425482	3	0	No Variant	2021-02-04 — 18:28:00 UTC	DarthGandalf, HariKrishnan, NumerateClutter	809	5	25
 425326	4	25	No Variant	2021-02-04 — 14:16:42 UTC	asaelr, DarthGandalf, possum, skyblueexo	12	5	25
 425306	4	23	No Variant	2021-02-04 — 13:46:17 UTC	asaelr, DarthGandalf, possum, skyblueexo	12	5	25
-424479	5	19	No Variant	2021-02-03 — 20:31:16 UTC	aida.younesi, chasez, CrazyMerlyn, DanglingPointer, DarthGandalf	1510	5	25
-423481	2	25	No Variant	2021-02-03 — 00:27:19 UTC	Damian000, DarthGandalf	1532	5	25
-422873	2	25	No Variant	2021-02-02 — 09:21:43 UTC	DarthGandalf, rahsosprout	344	5	25
-422860	2	0	No Variant	2021-02-02 — 08:58:33 UTC	DarthGandalf, rahsosprout	348	5	25
-422476	3	29	Rainbow (6 Suits)	2021-02-01 — 23:19:24 UTC	DarthGandalf, socerman, tacobot5000	54	6	30
-422453	3	0	Rainbow (6 Suits)	2021-02-01 — 22:48:32 UTC	DarthGandalf, socerman, tacobot5000	53	6	30
-422431	3	29	Rainbow (6 Suits)	2021-02-01 — 22:25:41 UTC	DarthGandalf, socerman, tacobot5000	56	6	30
-422125	2	21	No Variant	2021-02-01 — 14:23:17 UTC	DarthGandalf, rem088	3051	5	25
-422102	2	23	No Variant	2021-02-01 — 13:21:56 UTC	DarthGandalf, possum	526	5	25
-422095	2	0	No Variant	2021-02-01 — 13:03:44 UTC	DarthGandalf, possum	741	5	25
-422089	2	25	No Variant	2021-02-01 — 12:49:54 UTC	DarthGandalf, possum	770	5	25
+424479	5	19	No Variant	2021-02-03 — 20:31:16 UTC	aida.younesi, chasez, CrazyMerlyn, DanglingPointer, DarthGandalf	1518	5	25
+423481	2	25	No Variant	2021-02-03 — 00:27:19 UTC	Damian000, DarthGandalf	1547	5	25
+422873	2	25	No Variant	2021-02-02 — 09:21:43 UTC	DarthGandalf, rahsosprout	349	5	25
+422860	2	0	No Variant	2021-02-02 — 08:58:33 UTC	DarthGandalf, rahsosprout	355	5	25
+422476	3	29	Rainbow (6 Suits)	2021-02-01 — 23:19:24 UTC	DarthGandalf, socerman, tacobot5000	55	6	30
+422453	3	0	Rainbow (6 Suits)	2021-02-01 — 22:48:32 UTC	DarthGandalf, socerman, tacobot5000	55	6	30
+422431	3	29	Rainbow (6 Suits)	2021-02-01 — 22:25:41 UTC	DarthGandalf, socerman, tacobot5000	59	6	30
+422125	2	21	No Variant	2021-02-01 — 14:23:17 UTC	DarthGandalf, rem088	3072	5	25
+422102	2	23	No Variant	2021-02-01 — 13:21:56 UTC	DarthGandalf, possum	534	5	25
+422095	2	0	No Variant	2021-02-01 — 13:03:44 UTC	DarthGandalf, possum	749	5	25
+422089	2	25	No Variant	2021-02-01 — 12:49:54 UTC	DarthGandalf, possum	779	5	25
 421099	6	28	6 Suits	2021-01-31 — 14:08:23 UTC	DarthGandalf, eliclax, louietyj, possum, skyblueexo, Spieler42	50	6	30
 421061	6	0	6 Suits	2021-01-31 — 12:58:12 UTC	DarthGandalf, eliclax, louietyj, possum, skyblueexo, Spieler42	84	6	30
-421035	4	25	No Variant	2021-01-31 — 12:09:40 UTC	DarthGandalf, eliclax, louietyj, possum	125	5	25
-420409	3	22	No Variant	2021-01-31 — 01:40:26 UTC	banjoleb, DarthGandalf, InflatableKayak	224	5	25
-420380	5	21	No Variant	2021-01-31 — 01:13:54 UTC	4head, banjoleb, DarthGandalf, InflatableKayak, nkkarpov	457	5	25
-420362	5	0	No Variant	2021-01-31 — 00:49:39 UTC	4head, banjoleb, DarthGandalf, InflatableKayak, nkkarpov	1995	5	25
-419731	3	22	No Variant	2021-01-30 — 12:24:47 UTC	DarthGandalf, louietyj, possum	102	5	25
-419721	3	25	No Variant	2021-01-30 — 11:48:00 UTC	DarthGandalf, louietyj, possum	106	5	25
-419715	3	0	No Variant	2021-01-30 — 11:27:17 UTC	DarthGandalf, louietyj, possum	109	5	25
-419712	3	23	No Variant	2021-01-30 — 11:11:25 UTC	DarthGandalf, louietyj, possum	110	5	25
-419705	3	0	No Variant	2021-01-30 — 10:46:47 UTC	DarthGandalf, louietyj, pianoblook	58	5	25
-419134	4	23	No Variant	2021-01-30 — 01:03:49 UTC	a_qq23, DarthGandalf, interferoman, jason17055	2763	5	25
-418103	4	0	No Variant	2021-01-29 — 01:09:15 UTC	Bot-Fiora, DarthGandalf, nkkarpov, rahsosprout	308	5	25
+421035	4	25	No Variant	2021-01-31 — 12:09:40 UTC	DarthGandalf, eliclax, louietyj, possum	126	5	25
+420409	3	22	No Variant	2021-01-31 — 01:40:26 UTC	banjoleb, DarthGandalf, InflatableKayak	227	5	25
+420380	5	21	No Variant	2021-01-31 — 01:13:54 UTC	4head, banjoleb, DarthGandalf, InflatableKayak, nkkarpov	461	5	25
+420362	5	0	No Variant	2021-01-31 — 00:49:39 UTC	4head, banjoleb, DarthGandalf, InflatableKayak, nkkarpov	2011	5	25
+419731	3	22	No Variant	2021-01-30 — 12:24:47 UTC	DarthGandalf, louietyj, possum	107	5	25
+419721	3	25	No Variant	2021-01-30 — 11:48:00 UTC	DarthGandalf, louietyj, possum	111	5	25
+419715	3	0	No Variant	2021-01-30 — 11:27:17 UTC	DarthGandalf, louietyj, possum	115	5	25
+419712	3	23	No Variant	2021-01-30 — 11:11:25 UTC	DarthGandalf, louietyj, possum	114	5	25
+419705	3	0	No Variant	2021-01-30 — 10:46:47 UTC	DarthGandalf, louietyj, pianoblook	59	5	25
+419134	4	23	No Variant	2021-01-30 — 01:03:49 UTC	a_qq23, DarthGandalf, interferoman, jason17055	2788	5	25
+418103	4	0	No Variant	2021-01-29 — 01:09:15 UTC	Bot-Fiora, DarthGandalf, nkkarpov, rahsosprout	311	5	25
 418093	6	0	No Variant	2021-01-29 — 00:46:25 UTC	4head, Bot-Fiora, caña, DarthGandalf, nkkarpov, rahsosprout	42	5	25
-418084	3	0	No Variant	2021-01-29 — 00:23:41 UTC	Bot-Fiora, DarthGandalf, nkkarpov	1881	5	25
-418065	3	22	No Variant	2021-01-29 — 00:00:17 UTC	Bot-Fiora, DarthGandalf, nkkarpov	2163	5	25
-417901	4	0	Black (6 Suits)	2021-01-28 — 21:34:06 UTC	4head, caña, DarthGandalf, Denchulitas	273	6	30
-417891	5	0	Black (6 Suits)	2021-01-28 — 21:25:06 UTC	4head, caña, DarthGandalf, Denchulitas, Shemetz	101	6	30
-417882	4	21	Black (5 Suits)	2021-01-28 — 21:17:17 UTC	4head, DarthGandalf, lolthisnotderk, macanek	44	5	25
-417849	3	19	No Variant	2021-01-28 — 20:50:51 UTC	4head, DarthGandalf, macanek	57	5	25
-416688	4	20	No Variant	2021-01-27 — 20:31:26 UTC	AlonNotJim, CrazyMerlyn, DarthGandalf, xx	3581	5	25
-414841	3	0	No Variant	2021-01-25 — 20:51:00 UTC	DarthGandalf, HariKrishnan, knaphill	411	5	25
-414784	3	23	No Variant	2021-01-25 — 20:11:54 UTC	DarthGandalf, HariKrishnan, knaphill	422	5	25
+418084	3	0	No Variant	2021-01-29 — 00:23:41 UTC	Bot-Fiora, DarthGandalf, nkkarpov	1896	5	25
+418065	3	22	No Variant	2021-01-29 — 00:00:17 UTC	Bot-Fiora, DarthGandalf, nkkarpov	2179	5	25
+417901	4	0	Black (6 Suits)	2021-01-28 — 21:34:06 UTC	4head, caña, DarthGandalf, Denchulitas	276	6	30
+417891	5	0	Black (6 Suits)	2021-01-28 — 21:25:06 UTC	4head, caña, DarthGandalf, Denchulitas, Shemetz	103	6	30
+417882	4	21	Black (5 Suits)	2021-01-28 — 21:17:17 UTC	4head, DarthGandalf, lolthisnotderk, macanek	47	5	25
+417849	3	19	No Variant	2021-01-28 — 20:50:51 UTC	4head, DarthGandalf, macanek	58	5	25
+416688	4	20	No Variant	2021-01-27 — 20:31:26 UTC	AlonNotJim, CrazyMerlyn, DarthGandalf, xx	3609	5	25
+414841	3	0	No Variant	2021-01-25 — 20:51:00 UTC	DarthGandalf, HariKrishnan, knaphill	417	5	25
+414784	3	23	No Variant	2021-01-25 — 20:11:54 UTC	DarthGandalf, HariKrishnan, knaphill	428	5	25
 413955	5	30	Rainbow (6 Suits)	2021-01-24 — 21:42:30 UTC	Asddsa76, DarthGandalf, Daryl, indego, sephiroth	24	6	30

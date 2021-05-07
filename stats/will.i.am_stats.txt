@@ -1,6 +1,6 @@
 485440	4	0	Up or Down & Prism (6 Suits)	2021-03-30 — 14:31:12 UTC	dobi, robense, sephiroth, will.i.am	4	6	30
 485101	4	21	Muddy Rainbow (5 Suits)	2021-03-30 — 02:45:06 UTC	BraydonM, IsabeltheCat, kinkajusrevenge, will.i.am	5	5	25
-485061	3	24	White (5 Suits)	2021-03-30 — 02:15:33 UTC	BraydonM, IsabeltheCat, will.i.am	81	5	25
+485061	3	24	White (5 Suits)	2021-03-30 — 02:15:33 UTC	BraydonM, IsabeltheCat, will.i.am	84	5	25
 453434	6	22	Black (5 Suits)	2021-03-01 — 21:47:02 UTC	ChristopheAF, Lanvin, MangoPie, scharkbite, will.i.am, Wittvector	9	5	25
 451713	4	30	Pink & Muddy Rainbow (6 Suits)	2021-02-28 — 05:46:16 UTC	derekcheah, dobi, indego, will.i.am	1	6	30
 451690	4	0	Pink & Muddy Rainbow (6 Suits)	2021-02-28 — 05:21:56 UTC	derekcheah, dobi, indego, will.i.am	2	6	30
@@ -12,8 +12,8 @@
 451606	3	29	Muddy-Rainbow-Ones & Dark Prism (6 Suits)	2021-02-28 — 04:24:55 UTC	kimbifille, TimeHoodie, will.i.am	2	6	30
 451566	3	30	White-Ones & Rainbow (6 Suits)	2021-02-28 — 03:56:59 UTC	kimbifille, TimeHoodie, will.i.am	4	6	30
 404368	5	21	Black (5 Suits)	2021-01-15 — 21:39:29 UTC	Kernel, Lanvin, newduke, Pablo-, will.i.am	11	5	25
-400221	3	0	Black & Prism (5 Suits)	2021-01-11 — 17:15:05 UTC	MarkusKahlsen, will.i.am, Wittvector	2	5	25
-398705	3	0	3 Suits	2021-01-10 — 04:15:53 UTC	eljavi, louietyj, will.i.am	51	3	15
+400221	3	0	Black & Prism (5 Suits)	2021-01-11 — 17:15:05 UTC	MarkusKahlsen, will.i.am, Wittvector	3	5	25
+398705	3	0	3 Suits	2021-01-10 — 04:15:53 UTC	eljavi, louietyj, will.i.am	52	3	15
 396759	4	0	Dark Rainbow (5 Suits)	2021-01-08 — 18:07:09 UTC	jack67889, nitawa, will.i.am, XMIL	2	5	25
 396752	4	0	Dark Rainbow (5 Suits)	2021-01-08 — 18:00:17 UTC	jack67889, nitawa, will.i.am, XMIL	2	5	25
 396743	4	0	Dark Rainbow (5 Suits)	2021-01-08 — 17:50:40 UTC	jack67889, nitawa, will.i.am, XMIL	3	5	25
@@ -23,12 +23,12 @@
 396716	3	0	Cocoa Rainbow (6 Suits)	2021-01-08 — 17:06:16 UTC	jack67889, nitawa, will.i.am	21	6	30
 396707	4	0	Dark Rainbow (5 Suits)	2021-01-08 — 16:49:04 UTC	Fey, jack67889, Lel0uch, will.i.am	5	5	25
 395631	6	30	Alternating Clues & Black (6 Suits)	2021-01-07 — 18:07:41 UTC	indego, Lel0uch, Nitrate2, TimeHoodie, will.i.am, Wittvector	1	6	30
-394695	4	30	6 Suits	2021-01-06 — 19:55:57 UTC	CaitlinSmith, MangoPie, rahsosprout, will.i.am	191	6	30
+394695	4	30	6 Suits	2021-01-06 — 19:55:57 UTC	CaitlinSmith, MangoPie, rahsosprout, will.i.am	193	6	30
 394521	5	30	Prism (6 Suits)	2021-01-06 — 16:15:42 UTC	Floriman, MarkusKahlsen, Plum, sin_faith, will.i.am	5	6	30
-393133	4	25	White (5 Suits)	2021-01-05 — 05:00:06 UTC	eljavi, torp, will.i.am, wvh	18	5	25
+393133	4	25	White (5 Suits)	2021-01-05 — 05:00:06 UTC	eljavi, torp, will.i.am, wvh	19	5	25
 376554	4	25	Dark Prism (5 Suits)	2020-12-20 — 07:06:48 UTC	catula, derekcheah, sin_faith, will.i.am	8	5	25
 376540	4	0	Dark Prism (5 Suits)	2020-12-20 — 06:49:26 UTC	catula, derekcheah, sin_faith, will.i.am	10	5	25
-376530	4	0	Dark Prism (5 Suits)	2020-12-20 — 06:39:23 UTC	catula, derekcheah, sin_faith, will.i.am	11	5	25
+376530	4	0	Dark Prism (5 Suits)	2020-12-20 — 06:39:23 UTC	catula, derekcheah, sin_faith, will.i.am	12	5	25
 376517	5	0	Muddy Rainbow & Dark Pink (6 Suits)	2020-12-20 — 06:18:47 UTC	Animex52, catula, derekcheah, sin_faith, will.i.am	1	6	30
 376509	5	0	Muddy Rainbow & Dark Pink (6 Suits)	2020-12-20 — 06:07:48 UTC	Animex52, catula, derekcheah, sin_faith, will.i.am	2	6	30
 376500	5	0	Muddy Rainbow & Dark Pink (6 Suits)	2020-12-20 — 05:59:49 UTC	Animex52, catula, derekcheah, sin_faith, will.i.am	2	6	30
@@ -40,7 +40,7 @@
 373781	5	0	No Variant	2020-12-17 — 16:17:22 UTC	Fey, melwen, sin_faith, TimeHoodie, will.i.am	8	5	25
 373780	5	0	No Variant	2020-12-17 — 16:14:19 UTC	Fey, melwen, sin_faith, TimeHoodie, will.i.am	9	5	25
 373778	5	0	No Variant	2020-12-17 — 16:08:04 UTC	Fey, melwen, sin_faith, TimeHoodie, will.i.am	9	5	25
-373777	5	0	No Variant	2020-12-17 — 16:04:06 UTC	jeff10, melwen, sin_faith, TimeHoodie, will.i.am	9	5	25
+373777	5	0	No Variant	2020-12-17 — 16:04:06 UTC	jeff10, melwen, sin_faith, TimeHoodie, will.i.am	10	5	25
 373154	3	22	Muddy Rainbow & Dark Pink (5 Suits)	2020-12-16 — 22:14:19 UTC	kevincaseytdk1, robense, will.i.am	2	5	25
 373135	3	0	Muddy Rainbow & Dark Pink (5 Suits)	2020-12-16 — 21:51:56 UTC	kevincaseytdk1, sephiroth, will.i.am	2	5	25
 373127	3	0	Muddy Rainbow & Dark Pink (5 Suits)	2020-12-16 — 21:36:29 UTC	kevincaseytdk1, sephiroth, will.i.am	2	5	25
@@ -54,7 +54,7 @@
 360571	4	0	Black & Gray (6 Suits)	2020-12-04 — 17:04:41 UTC	doctorabi, jeff10, Lel0uch, will.i.am	7	6	30
 360324	6	18	Rainbow & Light Pink (4 Suits)	2020-12-04 — 05:33:03 UTC	derekcheah, doctorabi, melwen, micerang, scharkbite, will.i.am	1	4	20
 360137	4	0	Rainbow (6 Suits)	2020-12-04 — 01:52:13 UTC	avanderwalde, kevincaseytdk1, rkass, will.i.am	26	6	30
-359906	4	14	Rainbow & Pink (3 Suits)	2020-12-03 — 19:58:23 UTC	Carunty, Div, Kyle, will.i.am	8	3	15
+359906	4	14	Rainbow & Pink (3 Suits)	2020-12-03 — 19:58:23 UTC	Carunty, Div, Kyle, will.i.am	9	3	15
 359894	4	0	Rainbow & Pink (3 Suits)	2020-12-03 — 19:38:36 UTC	Carunty, Div, Kyle, will.i.am	9	3	15
 359883	4	14	Pink (3 Suits)	2020-12-03 — 19:24:32 UTC	Carunty, Div, ebin_noob, will.i.am	13	3	15
 354789	5	29	Brown (6 Suits)	2020-11-27 — 02:40:13 UTC	jeff10, melwen, sankala, StKildaFan, will.i.am	16	6	30
@@ -64,7 +64,7 @@
 353931	4	24	Omni & Null (5 Suits)	2020-11-26 — 01:04:50 UTC	cockdestroyer, melwen, Nitrate2, will.i.am	3	5	25
 353520	3	30	White & Prism (6 Suits)	2020-11-25 — 16:06:21 UTC	kimbifille, Kyle, will.i.am	7	6	30
 353515	3	0	White & Prism (6 Suits)	2020-11-25 — 15:41:15 UTC	kimbifille, Kyle, will.i.am	13	6	30
-353497	4	30	Dark Rainbow (6 Suits)	2020-11-25 — 14:49:18 UTC	Carunty, Lel0uch, TimeHoodie, will.i.am	41	6	30
+353497	4	30	Dark Rainbow (6 Suits)	2020-11-25 — 14:49:18 UTC	Carunty, Lel0uch, TimeHoodie, will.i.am	42	6	30
 353232	5	22	Black (5 Suits)	2020-11-25 — 03:33:28 UTC	Bubbles11, crixy_osheal, esakach, sblenko, will.i.am	11	5	25
 353115	5	23	Prism (5 Suits)	2020-11-25 — 01:30:22 UTC	derekcheah, Feich59, frosty104, timotree, will.i.am	9	5	25
 352985	5	0	Special Mix (5 Suits)	2020-11-24 — 21:06:55 UTC	anser, ebin_noob, frosty104, jack67889, will.i.am	2	5	25
@@ -77,8 +77,8 @@
 352089	3	0	Clue Starved & Brown (6 Suits)	2020-11-24 — 00:40:33 UTC	plus, TimeHoodie, will.i.am	3	6	30
 352086	3	0	Clue Starved & Brown (6 Suits)	2020-11-24 — 00:35:02 UTC	plus, TimeHoodie, will.i.am	4	6	30
 352030	4	0	Pink & Brown (6 Suits)	2020-11-23 — 22:44:29 UTC	Floriman, nitawa, sephiroth, will.i.am	13	6	30
-352008	3	0	Rainbow & Pink (5 Suits)	2020-11-23 — 22:23:05 UTC	Floriman, sephiroth, will.i.am	29	5	25
-351992	4	25	Rainbow & Muddy Rainbow (5 Suits)	2020-11-23 — 22:07:18 UTC	Floriman, sephiroth, VerySloppyTwo, will.i.am	7	5	25
+352008	3	0	Rainbow & Pink (5 Suits)	2020-11-23 — 22:23:05 UTC	Floriman, sephiroth, will.i.am	30	5	25
+351992	4	25	Rainbow & Muddy Rainbow (5 Suits)	2020-11-23 — 22:07:18 UTC	Floriman, sephiroth, VerySloppyTwo, will.i.am	8	5	25
 351980	3	0	Omni (6 Suits)	2020-11-23 — 21:48:19 UTC	sephiroth, VerySloppyTwo, will.i.am	70	6	30
 351839	5	25	Pink & Brown (5 Suits)	2020-11-23 — 19:38:14 UTC	doctorabi, ebin_noob, frosty104, Lel0uch, will.i.am	7	5	25
 351745	3	29	Rainbow & Pink (6 Suits)	2020-11-23 — 16:57:21 UTC	Kyle, MarkusKahlsen, will.i.am	6	6	30
@@ -99,16 +99,16 @@
 350374	5	24	Rainbow & Brown (5 Suits)	2020-11-22 — 03:32:59 UTC	Bonja97, derekcheah, doctorabi, swineherd, will.i.am	3	5	25
 350341	5	0	Rainbow & Brown (5 Suits)	2020-11-22 — 03:10:07 UTC	Bonja97, derekcheah, doctorabi, jeff10, will.i.am	3	5	25
 350321	3	28	Special Mix (6 Suits)	2020-11-22 — 02:49:47 UTC	derekcheah, Kyle, will.i.am	1	6	30
-350299	4	0	Special Mix (6 Suits)	2020-11-22 — 02:32:34 UTC	derekcheah, doctorabi, Kyle, will.i.am	24	6	30
+350299	4	0	Special Mix (6 Suits)	2020-11-22 — 02:32:34 UTC	derekcheah, doctorabi, Kyle, will.i.am	25	6	30
 350278	6	30	Pink (6 Suits)	2020-11-22 — 02:22:51 UTC	avanderwalde, derekcheah, doctorabi, frosty104, StKildaFan, will.i.am	10	6	30
 350238	5	19	Muddy Rainbow (4 Suits)	2020-11-22 — 01:54:26 UTC	avanderwalde, derekcheah, doctorabi, frosty104, will.i.am	3	4	20
 350222	3	25	Deceptive-Ones (5 Suits)	2020-11-22 — 01:33:41 UTC	avanderwalde, derekcheah, will.i.am	8	5	25
-350206	4	30	Black & Prism (6 Suits)	2020-11-22 — 01:14:35 UTC	avanderwalde, derekcheah, TheDaniMan, will.i.am	14	6	30
+350206	4	30	Black & Prism (6 Suits)	2020-11-22 — 01:14:35 UTC	avanderwalde, derekcheah, TheDaniMan, will.i.am	15	6	30
 349801	3	0	Deceptive-Ones (5 Suits)	2020-11-21 — 18:58:10 UTC	hakha3, jeff10, will.i.am	14	5	25
 349762	5	18	Pink & Brown (4 Suits)	2020-11-21 — 17:38:32 UTC	jeff10, melwen, TheDaniMan, TimeHoodie, will.i.am	1	4	20
 349093	5	0	Pink & White (5 Suits)	2020-11-21 — 01:35:00 UTC	Carunty, catula, doctorabi, Pablo-, will.i.am	3	5	25
 349078	5	0	Rainbow & Pink (5 Suits)	2020-11-21 — 01:11:18 UTC	Carunty, doctorabi, Pablo-, swineherd, will.i.am	6	5	25
-349034	3	24	Rainbow (5 Suits)	2020-11-21 — 00:05:06 UTC	MarcLovesDogs, newduke, will.i.am	185	5	25
+349034	3	24	Rainbow (5 Suits)	2020-11-21 — 00:05:06 UTC	MarcLovesDogs, newduke, will.i.am	186	5	25
 347087	5	0	Special Mix (5 Suits)	2020-11-18 — 16:27:21 UTC	lotem, melwen, sephiroth, swineherd, will.i.am	2	5	25
 347083	5	0	Special Mix (5 Suits)	2020-11-18 — 16:13:03 UTC	lotem, melwen, sephiroth, swineherd, will.i.am	2	5	25
 347080	5	0	Special Mix (5 Suits)	2020-11-18 — 16:07:28 UTC	lotem, melwen, sephiroth, swineherd, will.i.am	2	5	25
@@ -133,17 +133,17 @@
 346083	4	0	Black & White (5 Suits)	2020-11-17 — 05:56:01 UTC	Bonja97, derekcheah, swineherd, will.i.am	9	5	25
 346081	4	0	Black & White (5 Suits)	2020-11-17 — 05:51:05 UTC	Bonja97, derekcheah, swineherd, will.i.am	8	5	25
 346077	4	24	Black & White (5 Suits)	2020-11-17 — 05:39:51 UTC	Bonja97, derekcheah, swineherd, will.i.am	14	5	25
-346062	6	0	Rainbow & Prism (5 Suits)	2020-11-17 — 05:16:44 UTC	avanderwalde, derekcheah, JerryYang, kimbifille, pianoblook, will.i.am	3	5	25
+346062	6	0	Rainbow & Prism (5 Suits)	2020-11-17 — 05:16:44 UTC	avanderwalde, derekcheah, JerryYang, kimbifille, pianoblook, will.i.am	4	5	25
 345815	4	25	Omni & Cocoa Rainbow (5 Suits)	2020-11-17 — 01:01:41 UTC	asaelr, Kyle, scharkbite, will.i.am	1	5	25
 345801	3	0	Omni & Cocoa Rainbow (5 Suits)	2020-11-17 — 00:43:09 UTC	asaelr, scharkbite, will.i.am	1	5	25
 345613	4	0	Omni & Cocoa Rainbow (5 Suits)	2020-11-16 — 22:15:16 UTC	Kyle, lotem, Pablo-, will.i.am	1	5	25
-345606	4	0	Omni & Cocoa Rainbow (5 Suits)	2020-11-16 — 22:05:17 UTC	Kyle, lotem, Pablo-, will.i.am	2	5	25
-345600	4	0	Omni & Cocoa Rainbow (5 Suits)	2020-11-16 — 21:53:03 UTC	Kyle, lotem, Pablo-, will.i.am	2	5	25
+345606	4	0	Omni & Cocoa Rainbow (5 Suits)	2020-11-16 — 22:05:17 UTC	Kyle, lotem, Pablo-, will.i.am	3	5	25
+345600	4	0	Omni & Cocoa Rainbow (5 Suits)	2020-11-16 — 21:53:03 UTC	Kyle, lotem, Pablo-, will.i.am	3	5	25
 345590	3	0	Omni & Cocoa Rainbow (5 Suits)	2020-11-16 — 21:39:19 UTC	Kyle, lotem, will.i.am	1	5	25
 345269	5	19	Black (5 Suits)	2020-11-16 — 19:34:30 UTC	StKildaFan, superbipbip, voss, will.i.am, wump	18	5	25
 344991	5	22	No Variant	2020-11-16 — 17:26:08 UTC	Kyle, Onen, rake, swineherd, will.i.am	21	5	25
 343891	4	30	Light Pink (6 Suits)	2020-11-15 — 04:06:56 UTC	derekcheah, Lel0uch, pianoblook, will.i.am	13	6	30
-343861	4	0	Light Pink (6 Suits)	2020-11-15 — 03:32:09 UTC	derekcheah, Lel0uch, pianoblook, will.i.am	14	6	30
+343861	4	0	Light Pink (6 Suits)	2020-11-15 — 03:32:09 UTC	derekcheah, Lel0uch, pianoblook, will.i.am	15	6	30
 343834	4	0	Light Pink (6 Suits)	2020-11-15 — 03:03:01 UTC	derekcheah, Lel0uch, pianoblook, will.i.am	19	6	30
 343812	3	0	Cocoa Rainbow (6 Suits)	2020-11-15 — 02:39:10 UTC	derekcheah, nukelauncher, will.i.am	20	6	30
 343804	5	0	Omni & Cocoa Rainbow (5 Suits)	2020-11-15 — 02:22:22 UTC	anser, Bonja97, derekcheah, Pablo-, will.i.am	1	5	25
@@ -158,8 +158,8 @@
 342402	3	0	Omni & Cocoa Rainbow (5 Suits)	2020-11-13 — 18:03:21 UTC	ejwu, scharkbite, will.i.am	2	5	25
 342173	3	25	Omni & Muddy Rainbow (5 Suits)	2020-11-13 — 05:36:04 UTC	Bonja97, derekcheah, will.i.am	1	5	25
 341941	4	0	Null (6 Suits)	2020-11-12 — 23:36:09 UTC	Carunty, Pablo-, rachyrules, will.i.am	21	6	30
-341921	3	0	Null (6 Suits)	2020-11-12 — 23:12:51 UTC	Pablo-, rachyrules, will.i.am	36	6	30
-341902	3	0	Null (6 Suits)	2020-11-12 — 22:59:39 UTC	Pablo-, rachyrules, will.i.am	57	6	30
+341921	3	0	Null (6 Suits)	2020-11-12 — 23:12:51 UTC	Pablo-, rachyrules, will.i.am	38	6	30
+341902	3	0	Null (6 Suits)	2020-11-12 — 22:59:39 UTC	Pablo-, rachyrules, will.i.am	60	6	30
 341681	3	0	Omni & Muddy Rainbow (5 Suits)	2020-11-12 — 19:20:36 UTC	emilyzhao, squidgetx, will.i.am	1	5	25
 341639	3	24	Clue Starved & Pink (5 Suits)	2020-11-12 — 17:40:05 UTC	plus, Sucubis, will.i.am	1	5	25
 341630	3	23	Clue Starved & Pink (5 Suits)	2020-11-12 — 17:17:34 UTC	plus, Sucubis, will.i.am	2	5	25
@@ -181,19 +181,19 @@
 340804	4	0	Omni & Muddy Rainbow (5 Suits)	2020-11-11 — 16:03:48 UTC	melwen, Sucubis, swineherd, will.i.am	2	5	25
 340646	4	30	Pink (6 Suits)	2020-11-11 — 06:04:05 UTC	parrotdoxair, StKildaFan, timotree, will.i.am	30	6	30
 340628	4	0	Pink (6 Suits)	2020-11-11 — 05:38:17 UTC	parrotdoxair, StKildaFan, timotree, will.i.am	35	6	30
-340416	4	25	No Variant	2020-11-11 — 01:44:45 UTC	Carunty, Kyle, superbipbip, will.i.am	17	5	25
-340404	4	0	No Variant	2020-11-11 — 01:24:15 UTC	Carunty, Kyle, superbipbip, will.i.am	18	5	25
+340416	4	25	No Variant	2020-11-11 — 01:44:45 UTC	Carunty, Kyle, superbipbip, will.i.am	18	5	25
+340404	4	0	No Variant	2020-11-11 — 01:24:15 UTC	Carunty, Kyle, superbipbip, will.i.am	19	5	25
 340394	6	0	Omni & Muddy Rainbow (5 Suits)	2020-11-11 — 01:04:35 UTC	avanderwalde, Kyle, mattnabi, TimeHoodie, timotree, will.i.am	1	5	25
 340387	6	0	Omni & Muddy Rainbow (5 Suits)	2020-11-11 — 00:52:03 UTC	avanderwalde, Kyle, mattnabi, TimeHoodie, timotree, will.i.am	1	5	25
 340384	5	0	Omni & Muddy Rainbow (5 Suits)	2020-11-11 — 00:44:44 UTC	avanderwalde, Kyle, TimeHoodie, timotree, will.i.am	3	5	25
 340137	3	0	Clue Starved & Pink (5 Suits)	2020-11-10 — 19:22:03 UTC	ebin_noob, plus, will.i.am	2	5	25
 340131	3	0	Clue Starved & Pink (5 Suits)	2020-11-10 — 19:06:23 UTC	ebin_noob, plus, will.i.am	2	5	25
 340124	3	0	Clue Starved & Pink (5 Suits)	2020-11-10 — 18:49:37 UTC	ebin_noob, plus, will.i.am	3	5	25
-340076	5	0	Black (6 Suits)	2020-11-10 — 16:53:42 UTC	anser, jack67889, Lel0uch, will.i.am, wump	16	6	30
-339815	3	25	Gray Pink (5 Suits)	2020-11-10 — 04:27:14 UTC	Bonja97, derekcheah, will.i.am	8	5	25
-339798	3	0	Gray Pink (5 Suits)	2020-11-10 — 04:11:31 UTC	Bonja97, derekcheah, will.i.am	9	5	25
+340076	5	0	Black (6 Suits)	2020-11-10 — 16:53:42 UTC	anser, jack67889, Lel0uch, will.i.am, wump	17	6	30
+339815	3	25	Gray Pink (5 Suits)	2020-11-10 — 04:27:14 UTC	Bonja97, derekcheah, will.i.am	9	5	25
+339798	3	0	Gray Pink (5 Suits)	2020-11-10 — 04:11:31 UTC	Bonja97, derekcheah, will.i.am	10	5	25
 339786	3	0	Gray Pink (5 Suits)	2020-11-10 — 03:58:29 UTC	Bonja97, derekcheah, will.i.am	13	5	25
-339756	3	0	Gray Pink (5 Suits)	2020-11-10 — 03:38:45 UTC	Bonja97, derekcheah, will.i.am	13	5	25
+339756	3	0	Gray Pink (5 Suits)	2020-11-10 — 03:38:45 UTC	Bonja97, derekcheah, will.i.am	14	5	25
 339737	3	0	Gray Pink (5 Suits)	2020-11-10 — 03:26:37 UTC	Bonja97, derekcheah, will.i.am	15	5	25
 339726	3	0	Gray Pink (5 Suits)	2020-11-10 — 03:19:10 UTC	Bonja97, derekcheah, will.i.am	18	5	25
 339347	3	25	Special Mix (5 Suits)	2020-11-09 — 19:42:18 UTC	ebin_noob, MarkusKahlsen, will.i.am	10	5	25
@@ -206,17 +206,17 @@
 337595	4	25	Brown & Dark Prism (5 Suits)	2020-11-07 — 17:12:03 UTC	ebin_noob, emilyzhao, squidgetx, will.i.am	3	5	25
 337068	4	23	Brown & Dark Prism (5 Suits)	2020-11-06 — 23:01:23 UTC	jack67889, MarkusKahlsen, scharkbite, will.i.am	2	5	25
 337053	4	0	Brown & Dark Prism (5 Suits)	2020-11-06 — 22:42:23 UTC	jack67889, MarkusKahlsen, scharkbite, will.i.am	3	5	25
-337050	3	0	Brown & Dark Prism (5 Suits)	2020-11-06 — 22:31:55 UTC	jack67889, MarkusKahlsen, will.i.am	2	5	25
-337037	3	0	Brown & Dark Prism (5 Suits)	2020-11-06 — 22:12:43 UTC	jack67889, MarkusKahlsen, will.i.am	2	5	25
-337026	3	0	Brown & Dark Prism (5 Suits)	2020-11-06 — 21:56:00 UTC	jack67889, MarkusKahlsen, will.i.am	2	5	25
+337050	3	0	Brown & Dark Prism (5 Suits)	2020-11-06 — 22:31:55 UTC	jack67889, MarkusKahlsen, will.i.am	3	5	25
+337037	3	0	Brown & Dark Prism (5 Suits)	2020-11-06 — 22:12:43 UTC	jack67889, MarkusKahlsen, will.i.am	3	5	25
+337026	3	0	Brown & Dark Prism (5 Suits)	2020-11-06 — 21:56:00 UTC	jack67889, MarkusKahlsen, will.i.am	3	5	25
 336964	4	25	Brown & Cocoa Rainbow (5 Suits)	2020-11-06 — 20:44:22 UTC	Div, ebin_noob, lotem, will.i.am	1	5	25
 336940	4	20	Brown & Cocoa Rainbow (5 Suits)	2020-11-06 — 20:19:22 UTC	Div, ebin_noob, lotem, will.i.am	2	5	25
 336916	5	24	Brown-Ones & White (5 Suits)	2020-11-06 — 19:27:44 UTC	Kyle, Pepepe, pianoblook, voss, will.i.am	1	5	25
-336907	5	0	Brown-Ones & White (5 Suits)	2020-11-06 — 19:09:27 UTC	Kyle, Pepepe, pianoblook, voss, will.i.am	1	5	25
+336907	5	0	Brown-Ones & White (5 Suits)	2020-11-06 — 19:09:27 UTC	Kyle, Pepepe, pianoblook, voss, will.i.am	2	5	25
 336887	5	21	Dark Brown (5 Suits)	2020-11-06 — 17:53:34 UTC	Fey, jack67889, plus, TimeHoodie, will.i.am	5	5	25
 336227	4	30	Rainbow & Gray Pink (6 Suits)	2020-11-05 — 20:00:37 UTC	Floriman, kimbifille, will.i.am, Zamiel	4	6	30
-336199	3	0	Rainbow & Gray Pink (6 Suits)	2020-11-05 — 19:40:11 UTC	Floriman, kimbifille, will.i.am	5	6	30
-336189	3	0	Rainbow & Gray Pink (6 Suits)	2020-11-05 — 19:34:46 UTC	Floriman, kimbifille, will.i.am	8	6	30
+336199	3	0	Rainbow & Gray Pink (6 Suits)	2020-11-05 — 19:40:11 UTC	Floriman, kimbifille, will.i.am	6	6	30
+336189	3	0	Rainbow & Gray Pink (6 Suits)	2020-11-05 — 19:34:46 UTC	Floriman, kimbifille, will.i.am	9	6	30
 336094	5	0	Up or Down (5 Suits)	2020-11-05 — 16:40:41 UTC	Carunty, jack67889, jeff10, Kyle, will.i.am	6	5	25
 336089	5	0	Up or Down (5 Suits)	2020-11-05 — 16:26:28 UTC	Carunty, jack67889, jeff10, Kyle, will.i.am	6	5	25
 336077	3	23	Brown & Cocoa Rainbow (5 Suits)	2020-11-05 — 15:36:54 UTC	level_0, robense, will.i.am	1	5	25
@@ -254,17 +254,17 @@
 331223	4	0	Special Mix (5 Suits)	2020-10-30 — 16:26:52 UTC	Hapotata, Kyle, lotem, will.i.am	4	5	25
 331221	3	0	Clue Starved & White (5 Suits)	2020-10-30 — 16:10:29 UTC	lotem, plus, will.i.am	2	5	25
 331214	3	0	Clue Starved & White (5 Suits)	2020-10-30 — 16:00:35 UTC	lotem, plus, will.i.am	2	5	25
-330537	5	26	Dark Prism (6 Suits)	2020-10-29 — 18:46:10 UTC	Bonja97, sephiroth, TheDaniMan, TimeHoodie, will.i.am	2	6	30
+330537	5	26	Dark Prism (6 Suits)	2020-10-29 — 18:46:10 UTC	Bonja97, sephiroth, TheDaniMan, TimeHoodie, will.i.am	3	6	30
 330528	4	0	Cocoa Rainbow & Gray Pink (6 Suits)	2020-10-29 — 18:27:04 UTC	Bonja97, sephiroth, TheDaniMan, will.i.am	3	6	30
 330527	4	0	Cocoa Rainbow & Gray Pink (6 Suits)	2020-10-29 — 18:25:17 UTC	Bonja97, sephiroth, TheDaniMan, will.i.am	3	6	30
 330518	3	0	Cocoa Rainbow & Gray Pink (6 Suits)	2020-10-29 — 18:12:07 UTC	robense, sephiroth, will.i.am	5	6	30
 330169	4	25	White & Cocoa Rainbow (5 Suits)	2020-10-29 — 01:31:08 UTC	derekcheah, emilyzhao, squidgetx, will.i.am	3	5	25
 330161	4	20	White & Cocoa Rainbow (5 Suits)	2020-10-29 — 01:06:57 UTC	ejwu, emilyzhao, squidgetx, will.i.am	4	5	25
-329611	3	30	Black (6 Suits)	2020-10-28 — 02:38:39 UTC	parrotdoxair, savoryoatmeal, will.i.am	213	6	30
+329611	3	30	Black (6 Suits)	2020-10-28 — 02:38:39 UTC	parrotdoxair, savoryoatmeal, will.i.am	214	6	30
 329571	3	0	Black (6 Suits)	2020-10-28 — 02:03:49 UTC	parrotdoxair, savoryoatmeal, will.i.am	236	6	30
 329511	5	0	Prism (5 Suits)	2020-10-28 — 00:32:38 UTC	AshleyBridge, newduke, swineherd, timotree, will.i.am	5	5	25
 329497	5	24	Prism (5 Suits)	2020-10-28 — 00:09:29 UTC	AshleyBridge, newduke, swineherd, timotree, will.i.am	5	5	25
-329479	3	0	No Variant	2020-10-27 — 23:40:11 UTC	Jake_Stiles, Temperance, will.i.am	77	5	25
+329479	3	0	No Variant	2020-10-27 — 23:40:11 UTC	Jake_Stiles, Temperance, will.i.am	78	5	25
 329348	4	25	Null & Prism (5 Suits)	2020-10-27 — 19:43:51 UTC	scharkbite, TheDaniMan, Valetta6789, will.i.am	1	5	25
 329335	4	0	Null & Prism (5 Suits)	2020-10-27 — 19:21:44 UTC	scharkbite, TheDaniMan, Valetta6789, will.i.am	1	5	25
 329331	4	0	Null & Prism (5 Suits)	2020-10-27 — 19:08:46 UTC	scharkbite, TheDaniMan, Valetta6789, will.i.am	2	5	25
@@ -273,7 +273,7 @@
 328795	5	0	Null & Prism (5 Suits)	2020-10-26 — 21:29:44 UTC	Floriman, jack67889, scharkbite, sephiroth, will.i.am	2	5	25
 328789	5	0	Null & Prism (5 Suits)	2020-10-26 — 21:21:21 UTC	Floriman, jack67889, scharkbite, sephiroth, will.i.am	2	5	25
 328783	3	24	Null & Prism (5 Suits)	2020-10-26 — 20:57:17 UTC	Floriman, scharkbite, will.i.am	2	5	25
-326611	3	30	White (6 Suits)	2020-10-23 — 18:12:38 UTC	MarkusKahlsen, Pepepe, will.i.am	101	6	30
+326611	3	30	White (6 Suits)	2020-10-23 — 18:12:38 UTC	MarkusKahlsen, Pepepe, will.i.am	103	6	30
 326574	3	25	Omni & Prism (5 Suits)	2020-10-23 — 17:00:06 UTC	newduke, will.i.am, Wittvector	1	5	25
 326559	4	0	Omni & Prism (5 Suits)	2020-10-23 — 16:36:06 UTC	newduke, plus, will.i.am, Wittvector	2	5	25
 326551	4	0	Omni & Prism (5 Suits)	2020-10-23 — 16:24:42 UTC	newduke, plus, will.i.am, Wittvector	2	5	25
@@ -285,7 +285,7 @@
 325878	5	22	Black (5 Suits)	2020-10-22 — 18:27:16 UTC	ejwu, emilyzhao, MarkusKahlsen, squidgetx, will.i.am	10	5	25
 325782	3	23	Omni & Prism (5 Suits)	2020-10-22 — 15:35:35 UTC	melwen, will.i.am, Zakisan	2	5	25
 325513	3	30	Brown (6 Suits)	2020-10-22 — 03:31:52 UTC	rz, will.i.am, XMIL	18	6	30
-325487	4	20	Rainbow (4 Suits)	2020-10-22 — 03:00:21 UTC	rz, sin_faith, will.i.am, XMIL	25	4	20
+325487	4	20	Rainbow (4 Suits)	2020-10-22 — 03:00:21 UTC	rz, sin_faith, will.i.am, XMIL	26	4	20
 325304	5	0	Special Mix (5 Suits)	2020-10-21 — 22:53:16 UTC	cockdestroyer, derekcheah, sephiroth, will.i.am, Wittvector	3	5	25
 325297	5	0	Special Mix (5 Suits)	2020-10-21 — 22:35:22 UTC	cockdestroyer, derekcheah, sephiroth, will.i.am, Wittvector	2	5	25
 325291	5	0	Special Mix (5 Suits)	2020-10-21 — 22:26:03 UTC	cockdestroyer, derekcheah, sephiroth, will.i.am, Wittvector	2	5	25
@@ -297,9 +297,9 @@
 325143	3	0	White & Dark Prism (5 Suits)	2020-10-21 — 19:15:16 UTC	MarkusKahlsen, plus, will.i.am	3	5	25
 325133	3	0	White & Dark Prism (5 Suits)	2020-10-21 — 19:03:12 UTC	MarkusKahlsen, plus, will.i.am	3	5	25
 325112	5	18	Pink (4 Suits)	2020-10-21 — 18:40:55 UTC	Div, Hapotata, lotem, TheDaniMan, will.i.am	4	4	20
-323837	3	0	Dark Rainbow (5 Suits)	2020-10-19 — 18:55:22 UTC	swineherd, will.i.am, Zakisan	29	5	25
-323829	3	0	Dark Rainbow (5 Suits)	2020-10-19 — 18:47:34 UTC	swineherd, will.i.am, Zakisan	31	5	25
-323822	3	0	Dark Rainbow (5 Suits)	2020-10-19 — 18:37:59 UTC	swineherd, will.i.am, Zakisan	35	5	25
+323837	3	0	Dark Rainbow (5 Suits)	2020-10-19 — 18:55:22 UTC	swineherd, will.i.am, Zakisan	30	5	25
+323829	3	0	Dark Rainbow (5 Suits)	2020-10-19 — 18:47:34 UTC	swineherd, will.i.am, Zakisan	32	5	25
+323822	3	0	Dark Rainbow (5 Suits)	2020-10-19 — 18:37:59 UTC	swineherd, will.i.am, Zakisan	36	5	25
 322589	5	0	White & Dark Prism (5 Suits)	2020-10-18 — 01:56:57 UTC	derekcheah, sephiroth, sin_faith, TimeHoodie, will.i.am	1	5	25
 322579	5	0	White & Dark Prism (5 Suits)	2020-10-18 — 01:38:03 UTC	derekcheah, sephiroth, sin_faith, TimeHoodie, will.i.am	2	5	25
 322562	3	21	White & Dark Prism (5 Suits)	2020-10-18 — 01:16:04 UTC	sephiroth, TimeHoodie, will.i.am	3	5	25
@@ -318,8 +318,8 @@
 321960	5	0	Dark Pink (5 Suits)	2020-10-17 — 03:05:29 UTC	DMoney, Kyle, scharkbite, TheDaniMan, will.i.am	3	5	25
 321945	5	24	Dark Pink (5 Suits)	2020-10-17 — 02:49:29 UTC	DMoney, Kyle, scharkbite, TheDaniMan, will.i.am	3	5	25
 321928	5	24	Dark Pink (5 Suits)	2020-10-17 — 02:26:17 UTC	DMoney, Kyle, scharkbite, TheDaniMan, will.i.am	3	5	25
-321662	4	20	4 Suits	2020-10-16 — 19:48:06 UTC	Carunty, newduke, sin_faith, will.i.am	51	4	20
-321656	5	0	No Variant	2020-10-16 — 19:35:16 UTC	Carunty, Kyle, newduke, sin_faith, will.i.am	11	5	25
+321662	4	20	4 Suits	2020-10-16 — 19:48:06 UTC	Carunty, newduke, sin_faith, will.i.am	52	4	20
+321656	5	0	No Variant	2020-10-16 — 19:35:16 UTC	Carunty, Kyle, newduke, sin_faith, will.i.am	12	5	25
 321650	5	0	No Variant	2020-10-16 — 19:29:02 UTC	Carunty, Kyle, newduke, sin_faith, will.i.am	11	5	25
 321535	3	0	Duck (5 Suits)	2020-10-16 — 14:38:44 UTC	bulbasaur, will.i.am, Zakisan	25	5	25
 321533	3	0	Duck (5 Suits)	2020-10-16 — 14:17:40 UTC	bulbasaur, will.i.am, Zakisan	35	5	25
@@ -328,7 +328,7 @@
 321221	3	0	Black & Pink (6 Suits)	2020-10-15 — 23:58:46 UTC	derekcheah, plus, will.i.am	31	6	30
 321212	5	0	Black & Pink (6 Suits)	2020-10-15 — 23:46:56 UTC	derekcheah, DMoney, newduke, Puzzle, will.i.am	7	6	30
 321205	5	0	Black & Pink (6 Suits)	2020-10-15 — 23:36:06 UTC	derekcheah, DMoney, newduke, Puzzle, will.i.am	8	6	30
-321168	3	30	Brown (6 Suits)	2020-10-15 — 22:42:35 UTC	Bonja97, Puzzle, will.i.am	40	6	30
+321168	3	30	Brown (6 Suits)	2020-10-15 — 22:42:35 UTC	Bonja97, Puzzle, will.i.am	41	6	30
 321154	5	0	Light Pink (4 Suits)	2020-10-15 — 22:13:11 UTC	angel-a, DMoney, IsabeltheCat, Kyle, will.i.am	2	4	20
 321152	5	0	Light Pink (4 Suits)	2020-10-15 — 22:10:54 UTC	angel-a, DMoney, IsabeltheCat, Kyle, will.i.am	2	4	20
 321080	4	0	Rainbow & Dark Omni (5 Suits)	2020-10-15 — 20:09:57 UTC	Dr_Kakashi, Floriman, kimbifille, will.i.am	2	5	25
@@ -337,30 +337,30 @@
 320970	6	30	Pink & Dark Prism (6 Suits)	2020-10-15 — 18:07:56 UTC	angel-a, dj.narayanan, MarkusKahlsen, Puzzle, will.i.am, Zakisan	1	6	30
 320881	5	17	Rainbow (4 Suits)	2020-10-15 — 15:30:25 UTC	Bonja97, Fey, kimbifille, TimeHoodie, will.i.am	9	4	20
 320875	5	29	Gray (6 Suits)	2020-10-15 — 15:12:01 UTC	Fey, Pepepe, TimeHoodie, will.i.am, Zakisan	9	6	30
-320867	5	0	Gray (6 Suits)	2020-10-15 — 14:42:30 UTC	Fey, Pepepe, TimeHoodie, will.i.am, Zakisan	10	6	30
+320867	5	0	Gray (6 Suits)	2020-10-15 — 14:42:30 UTC	Fey, Pepepe, TimeHoodie, will.i.am, Zakisan	11	6	30
 320865	6	0	Black & Light Pink (6 Suits)	2020-10-15 — 14:38:01 UTC	jack67889, TheDaniMan, TimeHoodie, will.i.am, Wittvector, Zakisan	2	6	30
 320864	6	0	Black & Light Pink (6 Suits)	2020-10-15 — 14:34:03 UTC	jack67889, TheDaniMan, TimeHoodie, will.i.am, Wittvector, Zakisan	2	6	30
-320506	4	0	Brown & Dark Prism (6 Suits)	2020-10-15 — 00:52:18 UTC	Kyle, scharkbite, TimeHoodie, will.i.am	1	6	30
+320506	4	0	Brown & Dark Prism (6 Suits)	2020-10-15 — 00:52:18 UTC	Kyle, scharkbite, TimeHoodie, will.i.am	2	6	30
 320493	4	0	Brown & Dark Prism (6 Suits)	2020-10-15 — 00:34:16 UTC	Kyle, scharkbite, TimeHoodie, will.i.am	2	6	30
-320483	3	0	Brown & Dark Prism (6 Suits)	2020-10-15 — 00:13:48 UTC	Kyle, TimeHoodie, will.i.am	2	6	30
+320483	3	0	Brown & Dark Prism (6 Suits)	2020-10-15 — 00:13:48 UTC	Kyle, TimeHoodie, will.i.am	3	6	30
 320476	4	0	Brown & Dark Prism (6 Suits)	2020-10-14 — 23:52:59 UTC	Kyle, melwen, TimeHoodie, will.i.am	2	6	30
 320474	4	0	Brown & Dark Prism (6 Suits)	2020-10-14 — 23:45:31 UTC	Kyle, melwen, TimeHoodie, will.i.am	2	6	30
 320422	5	30	Rainbow & Dark Omni (6 Suits)	2020-10-14 — 21:28:23 UTC	asaelr, sephiroth, TimeHoodie, timotree, will.i.am	2	6	30
 320411	5	0	Rainbow & Dark Omni (6 Suits)	2020-10-14 — 20:56:30 UTC	asaelr, sephiroth, TimeHoodie, timotree, will.i.am	2	6	30
 320401	3	24	Dark Prism (6 Suits)	2020-10-14 — 20:34:21 UTC	sephiroth, TimeHoodie, will.i.am	13	6	30
-320394	3	0	Dark Prism (6 Suits)	2020-10-14 — 20:13:28 UTC	sephiroth, TimeHoodie, will.i.am	20	6	30
+320394	3	0	Dark Prism (6 Suits)	2020-10-14 — 20:13:28 UTC	sephiroth, TimeHoodie, will.i.am	22	6	30
 320376	5	0	Black & Pink (5 Suits)	2020-10-14 — 19:47:34 UTC	DMoney, Floriman, newduke, TimeHoodie, will.i.am	5	5	25
 320355	3	25	Black & Pink (5 Suits)	2020-10-14 — 19:21:15 UTC	DMoney, TimeHoodie, will.i.am	29	5	25
 320273	3	23	Dark Omni (5 Suits)	2020-10-14 — 15:49:59 UTC	anser, Fey, will.i.am	7	5	25
 320265	3	0	Dark Omni (5 Suits)	2020-10-14 — 15:20:19 UTC	anser, Fey, will.i.am	6	5	25
 319701	5	22	Black (5 Suits)	2020-10-13 — 20:09:40 UTC	angel-a, Div, gdog, MarkusKahlsen, will.i.am	13	5	25
 319674	5	0	Black (5 Suits)	2020-10-13 — 19:40:16 UTC	angel-a, Div, gdog, MarkusKahlsen, will.i.am	13	5	25
-319665	5	0	Black (5 Suits)	2020-10-13 — 19:31:24 UTC	angel-a, Div, gdog, MarkusKahlsen, will.i.am	17	5	25
+319665	5	0	Black (5 Suits)	2020-10-13 — 19:31:24 UTC	angel-a, Div, gdog, MarkusKahlsen, will.i.am	18	5	25
 319648	5	0	Black (5 Suits)	2020-10-13 — 19:12:46 UTC	angel-a, Div, gdog, MarkusKahlsen, will.i.am	17	5	25
 318920	3	25	Alternating Clues & Black (5 Suits)	2020-10-12 — 19:21:30 UTC	Kyle, MarkusKahlsen, will.i.am	1	5	25
 318902	3	0	Alternating Clues & Black (5 Suits)	2020-10-12 — 18:59:43 UTC	Kyle, MarkusKahlsen, will.i.am	1	5	25
 318883	3	0	Alternating Clues & Black (5 Suits)	2020-10-12 — 18:41:50 UTC	Kyle, MarkusKahlsen, will.i.am	1	5	25
-317011	4	30	Rainbow & Omni (6 Suits)	2020-10-10 — 03:05:03 UTC	DMoney, melwen, scharkbite, will.i.am	6	6	30
+317011	4	30	Rainbow & Omni (6 Suits)	2020-10-10 — 03:05:03 UTC	DMoney, melwen, scharkbite, will.i.am	7	6	30
 316630	4	0	Black & White (6 Suits)	2020-10-09 — 19:00:48 UTC	DMoney, Kyle, will.i.am, wortel	13	6	30
 316539	3	23	Alternating Clues & Black (5 Suits)	2020-10-09 — 16:09:52 UTC	plus, TimeHoodie, will.i.am	1	5	25
 316532	4	0	Clue Starved & Prism (6 Suits)	2020-10-09 — 15:50:51 UTC	plus, robense, TimeHoodie, will.i.am	4	6	30
@@ -376,7 +376,7 @@
 314620	3	22	Alternating Clues & Black (5 Suits)	2020-10-07 — 01:30:24 UTC	cockdestroyer, pianoblook, will.i.am	1	5	25
 314381	4	25	Rainbow & Pink (5 Suits)	2020-10-06 — 19:06:38 UTC	DMoney, Kyle, Veexliat, will.i.am	4	5	25
 314352	4	23	Dark Pink (5 Suits)	2020-10-06 — 18:28:02 UTC	DMoney, sephiroth, TheDaniMan, will.i.am	2	5	25
-314281	3	30	Gray (6 Suits)	2020-10-06 — 15:13:35 UTC	MarkusKahlsen, plus, will.i.am	23	6	30
+314281	3	30	Gray (6 Suits)	2020-10-06 — 15:13:35 UTC	MarkusKahlsen, plus, will.i.am	25	6	30
 313814	3	0	Alternating Clues & Black (5 Suits)	2020-10-05 — 22:23:26 UTC	honzas, TheDaniMan, will.i.am	1	5	25
 313781	3	23	Alternating Clues & Black (5 Suits)	2020-10-05 — 22:04:41 UTC	honzas, TheDaniMan, will.i.am	1	5	25
 313742	3	0	Alternating Clues & Black (5 Suits)	2020-10-05 — 21:40:42 UTC	honzas, TheDaniMan, will.i.am	1	5	25
@@ -434,17 +434,17 @@
 305001	5	24	Pink & Dark Prism (5 Suits)	2020-09-24 — 01:26:23 UTC	derekcheah, melwen, TheDaniMan, TimeHoodie, will.i.am	1	5	25
 304969	3	0	Pink & Dark Prism (5 Suits)	2020-09-24 — 00:21:47 UTC	jeff10, TimeHoodie, will.i.am	3	5	25
 304703	3	30	Clue Starved (6 Suits)	2020-09-23 — 15:40:49 UTC	MarkusKahlsen, TheDaniMan, will.i.am	6	6	30
-304694	3	27	Clue Starved (6 Suits)	2020-09-23 — 15:16:58 UTC	MarkusKahlsen, TheDaniMan, will.i.am	6	6	30
+304694	3	27	Clue Starved (6 Suits)	2020-09-23 — 15:16:58 UTC	MarkusKahlsen, TheDaniMan, will.i.am	7	6	30
 304688	3	0	Clue Starved (6 Suits)	2020-09-23 — 14:58:56 UTC	MarkusKahlsen, TheDaniMan, will.i.am	7	6	30
 304500	5	30	Light Pink (6 Suits)	2020-09-23 — 03:47:27 UTC	derekcheah, ejwu, pianoblook, Smandon, will.i.am	7	6	30
 304443	4	0	Clue Starved (5 Suits)	2020-09-23 — 03:10:31 UTC	derekcheah, ejwu, pianoblook, will.i.am	1	5	25
 304432	4	0	Clue Starved (5 Suits)	2020-09-23 — 03:00:13 UTC	derekcheah, ejwu, pianoblook, will.i.am	1	5	25
-304418	3	0	Clue Starved (6 Suits)	2020-09-23 — 02:42:13 UTC	derekcheah, pianoblook, will.i.am	6	6	30
+304418	3	0	Clue Starved (6 Suits)	2020-09-23 — 02:42:13 UTC	derekcheah, pianoblook, will.i.am	7	6	30
 304404	3	0	Clue Starved (6 Suits)	2020-09-23 — 02:25:05 UTC	derekcheah, pianoblook, will.i.am	11	6	30
-304338	3	30	6 Suits	2020-09-23 — 00:46:53 UTC	capncook, TimeHoodie, will.i.am	132	6	30
+304338	3	30	6 Suits	2020-09-23 — 00:46:53 UTC	capncook, TimeHoodie, will.i.am	133	6	30
 304160	5	20	4 Suits	2020-09-22 — 20:09:41 UTC	pianoblook, postmans, rachyrules, sephiroth, will.i.am	12	4	20
-304135	5	18	4 Suits	2020-09-22 — 19:41:48 UTC	pianoblook, postmans, rachyrules, sephiroth, will.i.am	23	4	20
-304099	5	20	Rainbow (4 Suits)	2020-09-22 — 19:15:27 UTC	Floriman, Kyle, micerang, postmans, will.i.am	6	4	20
+304135	5	18	4 Suits	2020-09-22 — 19:41:48 UTC	pianoblook, postmans, rachyrules, sephiroth, will.i.am	24	4	20
+304099	5	20	Rainbow (4 Suits)	2020-09-22 — 19:15:27 UTC	Floriman, Kyle, micerang, postmans, will.i.am	7	4	20
 303604	3	30	Special Mix (6 Suits)	2020-09-21 — 23:27:23 UTC	lotem, plus, will.i.am	3	6	30
 303581	3	0	Special Mix (6 Suits)	2020-09-21 — 22:57:51 UTC	lotem, plus, will.i.am	3	6	30
 303567	6	27	Special Mix (6 Suits)	2020-09-21 — 22:35:37 UTC	lotem, plus, postmans, scharkbite, sephiroth, will.i.am	3	6	30
@@ -487,44 +487,44 @@
 300955	3	0	Special Mix (6 Suits)	2020-09-18 — 21:44:42 UTC	lotem, scharkbite, will.i.am	2	6	30
 300945	3	0	Special Mix (6 Suits)	2020-09-18 — 21:31:52 UTC	lotem, scharkbite, will.i.am	2	6	30
 300771	6	27	Black & Omni (6 Suits)	2020-09-18 — 18:33:44 UTC	Kyle, newduke, sephiroth, TheDaniMan, TimeHoodie, will.i.am	2	6	30
-300549	3	29	Gray (6 Suits)	2020-09-18 — 05:25:06 UTC	plus, savoryoatmeal, will.i.am	21	6	30
-300277	4	0	Special Mix (6 Suits)	2020-09-17 — 22:28:35 UTC	melwen, plus, scharkbite, will.i.am	3	6	30
-300249	4	0	Special Mix (6 Suits)	2020-09-17 — 22:03:25 UTC	melwen, plus, scharkbite, will.i.am	3	6	30
-300237	4	0	Special Mix (6 Suits)	2020-09-17 — 21:42:03 UTC	melwen, plus, scharkbite, will.i.am	3	6	30
+300549	3	29	Gray (6 Suits)	2020-09-18 — 05:25:06 UTC	plus, savoryoatmeal, will.i.am	25	6	30
+300277	4	0	Special Mix (6 Suits)	2020-09-17 — 22:28:35 UTC	melwen, plus, scharkbite, will.i.am	4	6	30
+300249	4	0	Special Mix (6 Suits)	2020-09-17 — 22:03:25 UTC	melwen, plus, scharkbite, will.i.am	4	6	30
+300237	4	0	Special Mix (6 Suits)	2020-09-17 — 21:42:03 UTC	melwen, plus, scharkbite, will.i.am	4	6	30
 300232	4	0	Special Mix (6 Suits)	2020-09-17 — 21:26:21 UTC	melwen, plus, scharkbite, will.i.am	14	6	30
-300135	3	0	Special Mix (6 Suits)	2020-09-17 — 19:49:05 UTC	pianoblook, plus, will.i.am	15	6	30
-299838	3	0	Special Mix (6 Suits)	2020-09-17 — 14:54:47 UTC	Nitrate2, pianoblook, will.i.am	23	6	30
-299501	4	0	Special Mix (6 Suits)	2020-09-17 — 05:28:16 UTC	derekcheah, pianoblook, scharkbite, will.i.am	3	6	30
-299496	4	0	Special Mix (6 Suits)	2020-09-17 — 05:07:30 UTC	derekcheah, pianoblook, scharkbite, will.i.am	4	6	30
-299479	4	0	Special Mix (6 Suits)	2020-09-17 — 04:43:04 UTC	derekcheah, pianoblook, scharkbite, will.i.am	7	6	30
-299455	4	0	Special Mix (6 Suits)	2020-09-17 — 04:17:04 UTC	derekcheah, pianoblook, scharkbite, will.i.am	11	6	30
+300135	3	0	Special Mix (6 Suits)	2020-09-17 — 19:49:05 UTC	pianoblook, plus, will.i.am	16	6	30
+299838	3	0	Special Mix (6 Suits)	2020-09-17 — 14:54:47 UTC	Nitrate2, pianoblook, will.i.am	24	6	30
+299501	4	0	Special Mix (6 Suits)	2020-09-17 — 05:28:16 UTC	derekcheah, pianoblook, scharkbite, will.i.am	5	6	30
+299496	4	0	Special Mix (6 Suits)	2020-09-17 — 05:07:30 UTC	derekcheah, pianoblook, scharkbite, will.i.am	5	6	30
+299479	4	0	Special Mix (6 Suits)	2020-09-17 — 04:43:04 UTC	derekcheah, pianoblook, scharkbite, will.i.am	8	6	30
+299455	4	0	Special Mix (6 Suits)	2020-09-17 — 04:17:04 UTC	derekcheah, pianoblook, scharkbite, will.i.am	12	6	30
 299440	3	28	Special Mix (6 Suits)	2020-09-17 — 03:56:05 UTC	derekcheah, scharkbite, will.i.am	4	6	30
 299412	3	0	Special Mix (6 Suits)	2020-09-17 — 03:28:38 UTC	derekcheah, scharkbite, will.i.am	8	6	30
 299374	2	0	Special Mix (5 Suits)	2020-09-17 — 03:03:31 UTC	derekcheah, will.i.am	44	5	25
 299276	3	25	Up or Down & Pink (5 Suits)	2020-09-17 — 01:28:21 UTC	emilyzhao, squidgetx, will.i.am	7	5	25
-299251	3	0	Up or Down & Pink (5 Suits)	2020-09-17 — 01:00:04 UTC	emilyzhao, squidgetx, will.i.am	8	5	25
+299251	3	0	Up or Down & Pink (5 Suits)	2020-09-17 — 01:00:04 UTC	emilyzhao, squidgetx, will.i.am	9	5	25
 299236	3	24	Up or Down & Pink (5 Suits)	2020-09-17 — 00:36:48 UTC	emilyzhao, squidgetx, will.i.am	12	5	25
-299221	3	22	Up or Down & Pink (5 Suits)	2020-09-17 — 00:07:25 UTC	emilyzhao, squidgetx, will.i.am	16	5	25
+299221	3	22	Up or Down & Pink (5 Suits)	2020-09-17 — 00:07:25 UTC	emilyzhao, squidgetx, will.i.am	17	5	25
 298988	5	20	Black (5 Suits)	2020-09-16 — 20:22:38 UTC	Bonja97, postmans, scharkbite, TimeHoodie, will.i.am	4	5	25
-298978	5	0	Black (5 Suits)	2020-09-16 — 20:03:42 UTC	Bonja97, postmans, scharkbite, TimeHoodie, will.i.am	4	5	25
+298978	5	0	Black (5 Suits)	2020-09-16 — 20:03:42 UTC	Bonja97, postmans, scharkbite, TimeHoodie, will.i.am	5	5	25
 298976	5	0	Black (5 Suits)	2020-09-16 — 19:58:31 UTC	Bonja97, postmans, scharkbite, TimeHoodie, will.i.am	5	5	25
 298968	5	0	Black (5 Suits)	2020-09-16 — 19:47:46 UTC	Bonja97, postmans, scharkbite, TimeHoodie, will.i.am	12	5	25
 298957	4	29	Omni (6 Suits)	2020-09-16 — 19:21:16 UTC	Bonja97, postmans, TimeHoodie, will.i.am	33	6	30
-298946	3	15	Pink (3 Suits)	2020-09-16 — 18:52:37 UTC	postmans, TimeHoodie, will.i.am	44	3	15
-298938	3	20	Rainbow (4 Suits)	2020-09-16 — 18:37:39 UTC	postmans, TimeHoodie, will.i.am	68	4	20
-298930	3	0	Rainbow (4 Suits)	2020-09-16 — 18:22:47 UTC	postmans, TimeHoodie, will.i.am	84	4	20
+298946	3	15	Pink (3 Suits)	2020-09-16 — 18:52:37 UTC	postmans, TimeHoodie, will.i.am	46	3	15
+298938	3	20	Rainbow (4 Suits)	2020-09-16 — 18:37:39 UTC	postmans, TimeHoodie, will.i.am	69	4	20
+298930	3	0	Rainbow (4 Suits)	2020-09-16 — 18:22:47 UTC	postmans, TimeHoodie, will.i.am	85	4	20
 298919	5	30	Rainbow & Pink (6 Suits)	2020-09-16 — 17:57:42 UTC	plus, postmans, TheDaniMan, TimeHoodie, will.i.am	10	6	30
 298871	6	25	Prism (5 Suits)	2020-09-16 — 16:45:08 UTC	Pablo-, plus, postmans, scharkbite, TheDaniMan, will.i.am	7	5	25
-298856	4	0	Black & Brown (6 Suits)	2020-09-16 — 16:17:38 UTC	Pablo-, postmans, TheDaniMan, will.i.am	11	6	30
+298856	4	0	Black & Brown (6 Suits)	2020-09-16 — 16:17:38 UTC	Pablo-, postmans, TheDaniMan, will.i.am	13	6	30
 298845	5	0	Pink (4 Suits)	2020-09-16 — 16:01:14 UTC	Nitrate2, Pablo-, postmans, TheDaniMan, will.i.am	4	4	20
 298841	5	19	Pink (4 Suits)	2020-09-16 — 15:54:03 UTC	Nitrate2, Pablo-, postmans, TheDaniMan, will.i.am	4	4	20
-298833	4	29	Black & Brown (6 Suits)	2020-09-16 — 15:37:05 UTC	Nitrate2, Pablo-, TheDaniMan, will.i.am	12	6	30
+298833	4	29	Black & Brown (6 Suits)	2020-09-16 — 15:37:05 UTC	Nitrate2, Pablo-, TheDaniMan, will.i.am	13	6	30
 298824	4	29	Black & Brown (6 Suits)	2020-09-16 — 15:13:06 UTC	asaelr, Pablo-, TheDaniMan, will.i.am	4	6	30
 298820	4	0	Black & Brown (6 Suits)	2020-09-16 — 14:57:53 UTC	asaelr, Pablo-, TheDaniMan, will.i.am	5	6	30
-298815	4	0	Black & Brown (6 Suits)	2020-09-16 — 14:40:31 UTC	asaelr, Pablo-, TheDaniMan, will.i.am	9	6	30
+298815	4	0	Black & Brown (6 Suits)	2020-09-16 — 14:40:31 UTC	asaelr, Pablo-, TheDaniMan, will.i.am	10	6	30
 298685	4	0	Special Mix (6 Suits)	2020-09-16 — 04:53:37 UTC	micerang, plus, will.i.am, XMIL	17	6	30
-298659	3	29	Gray (6 Suits)	2020-09-16 — 04:13:10 UTC	plus, swineherd, will.i.am	42	6	30
-298652	3	0	Gray (6 Suits)	2020-09-16 — 03:52:25 UTC	plus, swineherd, will.i.am	48	6	30
+298659	3	29	Gray (6 Suits)	2020-09-16 — 04:13:10 UTC	plus, swineherd, will.i.am	43	6	30
+298652	3	0	Gray (6 Suits)	2020-09-16 — 03:52:25 UTC	plus, swineherd, will.i.am	52	6	30
 298588	5	0	Special Mix (5 Suits)	2020-09-16 — 01:57:49 UTC	avanderwalde, emilyzhao, melwen, newduke, will.i.am	2	5	25
 298427	3	0	Special Mix (6 Suits)	2020-09-15 — 21:36:54 UTC	plus, scharkbite, will.i.am	4	6	30
 298407	3	0	Special Mix (6 Suits)	2020-09-15 — 21:20:05 UTC	plus, scharkbite, will.i.am	5	6	30
@@ -533,9 +533,9 @@
 298348	5	27	Pink-Fives & Black (6 Suits)	2020-09-15 — 20:07:02 UTC	melwen, TheDaniMan, TimeHoodie, will.i.am, Zakisan	1	6	30
 298332	5	0	Pink-Fives & Black (6 Suits)	2020-09-15 — 19:43:40 UTC	melwen, TheDaniMan, TimeHoodie, will.i.am, Zakisan	1	6	30
 298046	5	0	Up or Down & White (6 Suits)	2020-09-15 — 03:54:30 UTC	melwen, newduke, swineherd, timotree, will.i.am	1	6	30
-298031	4	0	Up or Down & White (6 Suits)	2020-09-15 — 03:30:24 UTC	jeff10, melwen, timotree, will.i.am	10	6	30
+298031	4	0	Up or Down & White (6 Suits)	2020-09-15 — 03:30:24 UTC	jeff10, melwen, timotree, will.i.am	11	6	30
 298006	5	0	Up or Down & White (6 Suits)	2020-09-15 — 03:00:59 UTC	jeff10, melwen, newduke, timotree, will.i.am	3	6	30
-295511	3	0	Brown (6 Suits)	2020-09-12 — 04:53:32 UTC	ejwu, newduke, will.i.am	31	6	30
+295511	3	0	Brown (6 Suits)	2020-09-12 — 04:53:32 UTC	ejwu, newduke, will.i.am	33	6	30
 295474	3	0	Brown (6 Suits)	2020-09-12 — 04:34:33 UTC	ejwu, newduke, will.i.am	84	6	30
 295245	3	25	Black (5 Suits)	2020-09-12 — 01:26:25 UTC	Rubix, scharkbite, will.i.am	10	5	25
 295226	3	0	Clue Starved & Prism (5 Suits)	2020-09-12 — 01:08:56 UTC	Dr_Kakashi, scharkbite, will.i.am	2	5	25
@@ -543,8 +543,8 @@
 295186	3	0	Clue Starved & Prism (5 Suits)	2020-09-12 — 00:31:09 UTC	Dr_Kakashi, scharkbite, will.i.am	2	5	25
 295061	4	30	Rainbow & Prism (6 Suits)	2020-09-11 — 22:15:05 UTC	Lilliana, melwen, scharkbite, will.i.am	5	6	30
 294797	4	0	Black (6 Suits)	2020-09-11 — 14:42:10 UTC	ezahid1662, Pepepe, robense, will.i.am	57	6	30
-294594	5	18	Black (5 Suits)	2020-09-11 — 04:54:48 UTC	derekcheah, newduke, scharkbite, timotree, will.i.am	11	5	25
-294576	5	24	Black (5 Suits)	2020-09-11 — 04:25:48 UTC	derekcheah, newduke, scharkbite, timotree, will.i.am	13	5	25
+294594	5	18	Black (5 Suits)	2020-09-11 — 04:54:48 UTC	derekcheah, newduke, scharkbite, timotree, will.i.am	12	5	25
+294576	5	24	Black (5 Suits)	2020-09-11 — 04:25:48 UTC	derekcheah, newduke, scharkbite, timotree, will.i.am	14	5	25
 294341	5	20	Black (5 Suits)	2020-09-10 — 21:59:36 UTC	melwen, Pepepe, scharkbite, timotree, will.i.am	5	5	25
 294139	4	0	Extremely Ambiguous & Cocoa Rainbow (5 Suits)	2020-09-10 — 17:54:58 UTC	Kyle, sin_faith, TheDaniMan, will.i.am	1	5	25
 294128	4	0	Extremely Ambiguous & Cocoa Rainbow (5 Suits)	2020-09-10 — 17:40:06 UTC	Kyle, sin_faith, TheDaniMan, will.i.am	1	5	25
@@ -552,8 +552,8 @@
 293685	5	20	Special Mix (5 Suits)	2020-09-10 — 01:00:04 UTC	avanderwalde, Bonja97, plus, rkass, will.i.am	3	5	25
 293665	3	24	Clue Starved & Prism (5 Suits)	2020-09-10 — 00:26:20 UTC	avanderwalde, Bonja97, will.i.am	3	5	25
 293547	5	0	Cocoa Rainbow (6 Suits)	2020-09-09 — 21:01:26 UTC	Bonja97, Floriman, pianoblook, will.i.am, Zamiel	5	6	30
-293466	3	0	6 Suits	2020-09-09 — 19:12:32 UTC	jeff10, newduke, will.i.am	305	6	30
-293446	3	0	6 Suits	2020-09-09 — 18:46:00 UTC	jeff10, newduke, will.i.am	365	6	30
+293466	3	0	6 Suits	2020-09-09 — 19:12:32 UTC	jeff10, newduke, will.i.am	311	6	30
+293446	3	0	6 Suits	2020-09-09 — 18:46:00 UTC	jeff10, newduke, will.i.am	371	6	30
 293392	3	0	Clue Starved & Prism (5 Suits)	2020-09-09 — 17:32:01 UTC	Bonja97, scharkbite, will.i.am	3	5	25
 293369	3	0	Clue Starved & Prism (5 Suits)	2020-09-09 — 17:03:25 UTC	scharkbite, will.i.am, Zakisan	3	5	25
 292818	6	0	Clue Starved (6 Suits)	2020-09-08 — 22:23:24 UTC	Dr_Kakashi, Floriman, kimbifille, scharkbite, Valetta6789, will.i.am	1	6	30
@@ -570,7 +570,7 @@
 289233	4	24	Clue Starved & Prism (5 Suits)	2020-09-04 — 22:06:41 UTC	Kyle, MarkusKahlsen, postmans, will.i.am	6	5	25
 289203	3	0	Clue Starved & Prism (5 Suits)	2020-09-04 — 21:27:15 UTC	MarkusKahlsen, postmans, will.i.am	3	5	25
 289189	3	20	Prism Reversed (4 Suits)	2020-09-04 — 21:08:08 UTC	MarkusKahlsen, postmans, will.i.am	4	4	20
-289107	4	30	Prism Reversed (6 Suits)	2020-09-04 — 19:58:29 UTC	plus, postmans, scharkbite, will.i.am	6	6	30
+289107	4	30	Prism Reversed (6 Suits)	2020-09-04 — 19:58:29 UTC	plus, postmans, scharkbite, will.i.am	8	6	30
 289092	5	0	Prism Reversed (6 Suits)	2020-09-04 — 19:30:59 UTC	joelwool, plus, postmans, scharkbite, will.i.am	5	6	30
 289076	6	0	Clue Starved & Prism (5 Suits)	2020-09-04 — 19:06:36 UTC	joelwool, plus, postmans, rkass, scharkbite, will.i.am	1	5	25
 289063	6	0	Clue Starved & Prism (5 Suits)	2020-09-04 — 18:56:56 UTC	joelwool, plus, postmans, rkass, scharkbite, will.i.am	1	5	25
@@ -586,7 +586,7 @@
 288229	3	23	Clue Starved & Prism (5 Suits)	2020-09-03 — 20:45:01 UTC	Kyle, pianoblook, will.i.am	4	5	25
 288108	4	0	Clue Starved & Prism (6 Suits)	2020-09-03 — 19:11:35 UTC	pianoblook, scharkbite, will.i.am, Wittvector	3	6	30
 288025	3	0	Dark Prism (5 Suits)	2020-09-03 — 16:59:11 UTC	frollo9386, TheDaniMan, will.i.am	15	5	25
-288018	3	0	Dark Prism (5 Suits)	2020-09-03 — 16:38:56 UTC	frollo9386, TheDaniMan, will.i.am	18	5	25
+288018	3	0	Dark Prism (5 Suits)	2020-09-03 — 16:38:56 UTC	frollo9386, TheDaniMan, will.i.am	19	5	25
 287976	4	0	Rainbow & Dark Pink (6 Suits)	2020-09-03 — 14:06:04 UTC	asaelr, Dr_Kakashi, sin_faith, will.i.am	1	6	30
 287722	5	25	Prism Reversed (5 Suits)	2020-09-03 — 03:46:39 UTC	melwen, micerang, scharkbite, TheDaniMan, will.i.am	2	5	25
 287702	5	0	Prism Reversed (5 Suits)	2020-09-03 — 03:19:39 UTC	melwen, micerang, scharkbite, TheDaniMan, will.i.am	3	5	25
@@ -595,64 +595,64 @@
 287519	5	0	Pink (4 Suits)	2020-09-02 — 22:40:35 UTC	lotem, padi, plus, will.i.am, XMIL	6	4	20
 287508	5	0	Pink (4 Suits)	2020-09-02 — 22:26:59 UTC	lotem, padi, plus, will.i.am, XMIL	9	4	20
 287493	6	24	Rainbow & Prism (5 Suits)	2020-09-02 — 22:05:47 UTC	lotem, plus, scharkbite, timotree, will.i.am, XMIL	2	5	25
-287355	4	28	White & Prism (6 Suits)	2020-09-02 — 19:13:24 UTC	Floriman, Kyle, Pablo-, will.i.am	10	6	30
+287355	4	28	White & Prism (6 Suits)	2020-09-02 — 19:13:24 UTC	Floriman, Kyle, Pablo-, will.i.am	11	6	30
 287333	4	25	Black & Prism (5 Suits)	2020-09-02 — 18:36:19 UTC	Floriman, Kyle, Pablo-, will.i.am	6	5	25
 287017	3	0	Black & Prism (5 Suits)	2020-09-02 — 04:08:20 UTC	scharkbite, Tiramisu1th, will.i.am	12	5	25
-287003	3	0	Black & Prism (5 Suits)	2020-09-02 — 03:56:29 UTC	scharkbite, Tiramisu1th, will.i.am	14	5	25
+287003	3	0	Black & Prism (5 Suits)	2020-09-02 — 03:56:29 UTC	scharkbite, Tiramisu1th, will.i.am	15	5	25
 286854	5	25	White & Prism (5 Suits)	2020-09-02 — 01:54:53 UTC	antitelharsic, Bonja97, melwen, pianoblook, will.i.am	4	5	25
 286818	3	0	White & Prism (5 Suits)	2020-09-02 — 01:22:13 UTC	Bonja97, pianoblook, will.i.am	10	5	25
 286797	3	0	White & Prism (5 Suits)	2020-09-02 — 01:02:28 UTC	Bonja97, pianoblook, will.i.am	16	5	25
 286789	3	0	White & Prism (5 Suits)	2020-09-02 — 00:49:10 UTC	Bonja97, pianoblook, will.i.am	17	5	25
 286741	6	23	White & Prism (5 Suits)	2020-09-01 — 22:59:08 UTC	CastlesInTheAir, melwen, Nitrate2, vEnhance, will.i.am, XMIL	2	5	25
 286706	5	24	White & Prism (5 Suits)	2020-09-01 — 22:23:37 UTC	avanderwalde, melwen, Nitrate2, vEnhance, will.i.am	7	5	25
-286645	3	25	Prism (5 Suits)	2020-09-01 — 21:50:11 UTC	Nitrate2, vEnhance, will.i.am	38	5	25
+286645	3	25	Prism (5 Suits)	2020-09-01 — 21:50:11 UTC	Nitrate2, vEnhance, will.i.am	39	5	25
 285932	4	0	Pink (3 Suits)	2020-09-01 — 01:30:46 UTC	melwen, plus, scharkbite, will.i.am	4	3	15
 285924	4	0	Pink (3 Suits)	2020-09-01 — 01:14:09 UTC	melwen, plus, scharkbite, will.i.am	3	3	15
-285915	3	0	Pink (3 Suits)	2020-09-01 — 00:56:38 UTC	melwen, plus, will.i.am	23	3	15
-285912	2	0	Pink (3 Suits)	2020-09-01 — 00:44:22 UTC	plus, will.i.am	87	3	15
+285915	3	0	Pink (3 Suits)	2020-09-01 — 00:56:38 UTC	melwen, plus, will.i.am	25	3	15
+285912	2	0	Pink (3 Suits)	2020-09-01 — 00:44:22 UTC	plus, will.i.am	89	3	15
 283154	4	25	Up or Down & Prism (5 Suits)	2020-08-29 — 01:58:33 UTC	joelwool, melwen, scharkbite, will.i.am	6	5	25
 283128	4	21	Up or Down & Prism (5 Suits)	2020-08-29 — 01:35:38 UTC	joelwool, melwen, scharkbite, will.i.am	12	5	25
 283105	4	25	Pink & Prism (5 Suits)	2020-08-29 — 01:06:24 UTC	joelwool, melwen, scharkbite, will.i.am	8	5	25
 283083	3	0	Pink & Prism (5 Suits)	2020-08-29 — 00:44:51 UTC	melwen, scharkbite, will.i.am	11	5	25
 283072	3	0	Pink & Prism (5 Suits)	2020-08-29 — 00:34:51 UTC	melwen, scharkbite, will.i.am	13	5	25
 283063	3	25	Dark Prism (5 Suits)	2020-08-29 — 00:26:30 UTC	plus, scharkbite, will.i.am	23	5	25
-283055	3	0	Dark Prism (5 Suits)	2020-08-29 — 00:14:15 UTC	plus, scharkbite, will.i.am	26	5	25
+283055	3	0	Dark Prism (5 Suits)	2020-08-29 — 00:14:15 UTC	plus, scharkbite, will.i.am	27	5	25
 282952	4	30	Prism (6 Suits)	2020-08-28 — 22:13:41 UTC	MarkusKahlsen, piper, plus, will.i.am	26	6	30
-282927	3	0	Prism (6 Suits)	2020-08-28 — 21:47:12 UTC	MarkusKahlsen, plus, will.i.am	84	6	30
+282927	3	0	Prism (6 Suits)	2020-08-28 — 21:47:12 UTC	MarkusKahlsen, plus, will.i.am	85	6	30
 282369	4	25	Brown & Prism (5 Suits)	2020-08-28 — 03:43:22 UTC	Bonja97, joelwool, piper, will.i.am	6	5	25
 282339	4	24	Brown & Prism (5 Suits)	2020-08-28 — 03:04:45 UTC	Bonja97, piper, Puzzle, will.i.am	10	5	25
 282309	5	0	Brown & Prism (5 Suits)	2020-08-28 — 02:30:54 UTC	Bonja97, joelwool, piper, Puzzle, will.i.am	5	5	25
 282285	4	0	Brown & Prism (5 Suits)	2020-08-28 — 02:08:18 UTC	Bonja97, joelwool, piper, will.i.am	11	5	25
-282264	3	20	Prism (4 Suits)	2020-08-28 — 01:42:34 UTC	joelwool, piper, will.i.am	45	4	20
+282264	3	20	Prism (4 Suits)	2020-08-28 — 01:42:34 UTC	joelwool, piper, will.i.am	47	4	20
 282041	3	0	Dark Prism (6 Suits)	2020-08-27 — 22:07:43 UTC	DMoney, scharkbite, will.i.am	25	6	30
 282020	3	0	Dark Prism (6 Suits)	2020-08-27 — 21:48:30 UTC	DMoney, scharkbite, will.i.am	32	6	30
 282005	4	15	Prism (3 Suits)	2020-08-27 — 21:32:25 UTC	DMoney, joelwool, scharkbite, will.i.am	5	3	15
 282000	4	0	Prism (3 Suits)	2020-08-27 — 21:26:44 UTC	DMoney, joelwool, scharkbite, will.i.am	8	3	15
 281993	4	0	Prism (3 Suits)	2020-08-27 — 21:20:43 UTC	DMoney, joelwool, scharkbite, will.i.am	8	3	15
-281978	4	14	Prism (3 Suits)	2020-08-27 — 21:10:10 UTC	DMoney, joelwool, scharkbite, will.i.am	11	3	15
-281969	4	13	Prism (3 Suits)	2020-08-27 — 20:59:20 UTC	DMoney, joelwool, scharkbite, will.i.am	12	3	15
+281978	4	14	Prism (3 Suits)	2020-08-27 — 21:10:10 UTC	DMoney, joelwool, scharkbite, will.i.am	12	3	15
+281969	4	13	Prism (3 Suits)	2020-08-27 — 20:59:20 UTC	DMoney, joelwool, scharkbite, will.i.am	13	3	15
 281949	4	20	Prism (4 Suits)	2020-08-27 — 20:40:29 UTC	DMoney, scharkbite, TheDaniMan, will.i.am	21	4	20
 280460	5	0	White (6 Suits)	2020-08-25 — 21:11:12 UTC	crossproduct, DMoney, ejwu, pianoblook, will.i.am	8	6	30
 280437	5	0	White (6 Suits)	2020-08-25 — 20:51:12 UTC	crossproduct, DMoney, ejwu, pianoblook, will.i.am	9	6	30
-280411	5	0	White (6 Suits)	2020-08-25 — 20:25:53 UTC	crossproduct, DMoney, ejwu, Pablo-, will.i.am	20	6	30
-280396	5	29	White (6 Suits)	2020-08-25 — 20:03:55 UTC	crossproduct, DMoney, ejwu, Pablo-, will.i.am	27	6	30
+280411	5	0	White (6 Suits)	2020-08-25 — 20:25:53 UTC	crossproduct, DMoney, ejwu, Pablo-, will.i.am	21	6	30
+280396	5	29	White (6 Suits)	2020-08-25 — 20:03:55 UTC	crossproduct, DMoney, ejwu, Pablo-, will.i.am	28	6	30
 279997	3	23	Muddy Rainbow & Gray (5 Suits)	2020-08-25 — 04:36:54 UTC	Dr_Kakashi, scharkbite, will.i.am	3	5	25
 279975	3	0	Muddy Rainbow & Gray (5 Suits)	2020-08-25 — 04:18:03 UTC	Dr_Kakashi, scharkbite, will.i.am	3	5	25
 279969	3	0	Muddy Rainbow & Gray (5 Suits)	2020-08-25 — 04:11:13 UTC	Dr_Kakashi, scharkbite, will.i.am	3	5	25
 279948	3	0	Muddy Rainbow & Gray (5 Suits)	2020-08-25 — 03:58:11 UTC	Dr_Kakashi, scharkbite, will.i.am	3	5	25
-279937	3	30	Pink & Gray Pink (6 Suits)	2020-08-25 — 03:47:43 UTC	Dr_Kakashi, scharkbite, will.i.am	1	6	30
-279920	3	29	Pink & Gray Pink (6 Suits)	2020-08-25 — 03:29:25 UTC	Dr_Kakashi, scharkbite, will.i.am	1	6	30
-279903	3	0	Pink & Gray Pink (6 Suits)	2020-08-25 — 03:07:29 UTC	Dr_Kakashi, scharkbite, will.i.am	1	6	30
-279884	3	0	Pink & Gray Pink (6 Suits)	2020-08-25 — 02:49:44 UTC	Dr_Kakashi, scharkbite, will.i.am	1	6	30
-279851	3	28	Pink & Gray Pink (6 Suits)	2020-08-25 — 02:18:58 UTC	Dr_Kakashi, scharkbite, will.i.am	1	6	30
-279841	3	0	Pink & Gray Pink (6 Suits)	2020-08-25 — 02:03:25 UTC	Dr_Kakashi, scharkbite, will.i.am	1	6	30
-279831	3	0	Pink & Gray Pink (6 Suits)	2020-08-25 — 01:54:06 UTC	Dr_Kakashi, scharkbite, will.i.am	1	6	30
+279937	3	30	Pink & Gray Pink (6 Suits)	2020-08-25 — 03:47:43 UTC	Dr_Kakashi, scharkbite, will.i.am	2	6	30
+279920	3	29	Pink & Gray Pink (6 Suits)	2020-08-25 — 03:29:25 UTC	Dr_Kakashi, scharkbite, will.i.am	2	6	30
+279903	3	0	Pink & Gray Pink (6 Suits)	2020-08-25 — 03:07:29 UTC	Dr_Kakashi, scharkbite, will.i.am	2	6	30
+279884	3	0	Pink & Gray Pink (6 Suits)	2020-08-25 — 02:49:44 UTC	Dr_Kakashi, scharkbite, will.i.am	2	6	30
+279851	3	28	Pink & Gray Pink (6 Suits)	2020-08-25 — 02:18:58 UTC	Dr_Kakashi, scharkbite, will.i.am	2	6	30
+279841	3	0	Pink & Gray Pink (6 Suits)	2020-08-25 — 02:03:25 UTC	Dr_Kakashi, scharkbite, will.i.am	2	6	30
+279831	3	0	Pink & Gray Pink (6 Suits)	2020-08-25 — 01:54:06 UTC	Dr_Kakashi, scharkbite, will.i.am	2	6	30
 278016	4	0	Pink & Gray Pink (6 Suits)	2020-08-23 — 02:56:31 UTC	joelwool, swineherd, TheDaniMan, will.i.am	1	6	30
 278000	4	0	Pink & Gray Pink (6 Suits)	2020-08-23 — 02:40:57 UTC	joelwool, swineherd, TheDaniMan, will.i.am	1	6	30
 277991	4	0	Pink & Gray Pink (6 Suits)	2020-08-23 — 02:31:33 UTC	joelwool, swineherd, TheDaniMan, will.i.am	1	6	30
-277886	3	0	Pink & Gray Pink (6 Suits)	2020-08-23 — 00:35:23 UTC	kevincaseytdk1, TheDaniMan, will.i.am	1	6	30
-277606	4	0	Pink & Gray Pink (6 Suits)	2020-08-22 — 18:34:15 UTC	JerryYang, plus, TheDaniMan, will.i.am	1	6	30
-277583	3	0	Pink & Gray Pink (6 Suits)	2020-08-22 — 17:59:33 UTC	Ahming, TheDaniMan, will.i.am	1	6	30
+277886	3	0	Pink & Gray Pink (6 Suits)	2020-08-23 — 00:35:23 UTC	kevincaseytdk1, TheDaniMan, will.i.am	2	6	30
+277606	4	0	Pink & Gray Pink (6 Suits)	2020-08-22 — 18:34:15 UTC	JerryYang, plus, TheDaniMan, will.i.am	2	6	30
+277583	3	0	Pink & Gray Pink (6 Suits)	2020-08-22 — 17:59:33 UTC	Ahming, TheDaniMan, will.i.am	2	6	30
 277557	6	0	Rainbow-Ones (5 Suits)	2020-08-22 — 16:56:16 UTC	Fey, Pablo-, plus, postmans, Sucubis, will.i.am	3	5	25
 277553	6	0	Rainbow-Ones (5 Suits)	2020-08-22 — 16:40:57 UTC	Fey, Pablo-, plus, postmans, Sucubis, will.i.am	3	5	25
 277200	5	0	Black (6 Suits)	2020-08-22 — 05:50:57 UTC	IsabeltheCat, pianoblook, piper, swineherd, will.i.am	28	6	30
@@ -664,23 +664,23 @@
 276910	4	0	Clue Starved & Rainbow (5 Suits)	2020-08-22 — 00:52:13 UTC	joelwool, Pablo-, scharkbite, will.i.am	5	5	25
 276892	4	0	Clue Starved & Rainbow (5 Suits)	2020-08-22 — 00:37:41 UTC	joelwool, Pablo-, scharkbite, will.i.am	7	5	25
 276880	5	0	Clue Starved & Rainbow (5 Suits)	2020-08-22 — 00:21:16 UTC	joelwool, Pablo-, scharkbite, sephiroth, will.i.am	2	5	25
-276061	3	23	No Variant	2020-08-21 — 00:10:26 UTC	crossproduct, joelwool, will.i.am	77	5	25
+276061	3	23	No Variant	2020-08-21 — 00:10:26 UTC	crossproduct, joelwool, will.i.am	79	5	25
 275851	4	0	No Variant	2020-08-20 — 18:56:23 UTC	joelwool, MarkusKahlsen, sephiroth, will.i.am	70	5	25
-275849	4	0	No Variant	2020-08-20 — 18:50:40 UTC	joelwool, MarkusKahlsen, sephiroth, will.i.am	68	5	25
-275846	4	0	No Variant	2020-08-20 — 18:45:39 UTC	joelwool, MarkusKahlsen, sephiroth, will.i.am	95	5	25
-275844	4	0	No Variant	2020-08-20 — 18:42:54 UTC	joelwool, MarkusKahlsen, sephiroth, will.i.am	95	5	25
+275849	4	0	No Variant	2020-08-20 — 18:50:40 UTC	joelwool, MarkusKahlsen, sephiroth, will.i.am	69	5	25
+275846	4	0	No Variant	2020-08-20 — 18:45:39 UTC	joelwool, MarkusKahlsen, sephiroth, will.i.am	98	5	25
+275844	4	0	No Variant	2020-08-20 — 18:42:54 UTC	joelwool, MarkusKahlsen, sephiroth, will.i.am	98	5	25
 275838	3	25	Clue Starved (5 Suits)	2020-08-20 — 18:31:14 UTC	MarkusKahlsen, sephiroth, will.i.am	2	5	25
 275825	3	24	Clue Starved (5 Suits)	2020-08-20 — 18:11:37 UTC	MarkusKahlsen, sephiroth, will.i.am	2	5	25
-275812	3	0	Pink & Gray Pink (6 Suits)	2020-08-20 — 17:57:10 UTC	MarkusKahlsen, sephiroth, will.i.am	1	6	30
-275637	4	26	Gray Pink (6 Suits)	2020-08-20 — 04:53:45 UTC	Bonja97, scharkbite, will.i.am, XMIL	5	6	30
-275593	4	28	Gray Pink (6 Suits)	2020-08-20 — 04:11:17 UTC	Bonja97, scharkbite, will.i.am, XMIL	6	6	30
+275812	3	0	Pink & Gray Pink (6 Suits)	2020-08-20 — 17:57:10 UTC	MarkusKahlsen, sephiroth, will.i.am	2	6	30
+275637	4	26	Gray Pink (6 Suits)	2020-08-20 — 04:53:45 UTC	Bonja97, scharkbite, will.i.am, XMIL	6	6	30
+275593	4	28	Gray Pink (6 Suits)	2020-08-20 — 04:11:17 UTC	Bonja97, scharkbite, will.i.am, XMIL	7	6	30
 275571	5	0	Pink & Gray Pink (6 Suits)	2020-08-20 — 03:46:45 UTC	Bonja97, scharkbite, timotree, will.i.am, XMIL	1	6	30
 275553	5	0	Pink & Gray Pink (6 Suits)	2020-08-20 — 03:26:22 UTC	Bonja97, scharkbite, timotree, will.i.am, XMIL	1	6	30
 275333	4	0	Up or Down & Rainbow (6 Suits)	2020-08-19 — 22:37:31 UTC	emilyzhao, squidgetx, TheDaniMan, will.i.am	15	6	30
 275307	4	29	Up or Down & Rainbow (6 Suits)	2020-08-19 — 22:12:17 UTC	emilyzhao, squidgetx, TheDaniMan, will.i.am	20	6	30
 273901	5	23	Pink & Gray Pink (6 Suits)	2020-08-18 — 02:32:04 UTC	joelwool, melwen, scharkbite, TheDaniMan, will.i.am	1	6	30
-273857	3	0	Pink & Gray Pink (6 Suits)	2020-08-18 — 02:01:07 UTC	scharkbite, TheDaniMan, will.i.am	1	6	30
-273838	3	0	Pink & Gray Pink (6 Suits)	2020-08-18 — 01:40:01 UTC	scharkbite, TheDaniMan, will.i.am	1	6	30
+273857	3	0	Pink & Gray Pink (6 Suits)	2020-08-18 — 02:01:07 UTC	scharkbite, TheDaniMan, will.i.am	2	6	30
+273838	3	0	Pink & Gray Pink (6 Suits)	2020-08-18 — 01:40:01 UTC	scharkbite, TheDaniMan, will.i.am	2	6	30
 273662	4	25	Rainbow (5 Suits)	2020-08-17 — 21:54:25 UTC	Bonja97, scharkbite, timotree, will.i.am	7	5	25
 273330	5	0	Pink (4 Suits)	2020-08-17 — 06:09:02 UTC	Bonja97, crossproduct, derekcheah, joelwool, will.i.am	6	4	20
 273318	5	19	Pink (4 Suits)	2020-08-17 — 05:49:03 UTC	Bonja97, crossproduct, derekcheah, joelwool, will.i.am	7	4	20
@@ -690,7 +690,7 @@
 273224	4	0	Pink & Gray Pink (6 Suits)	2020-08-17 — 04:40:03 UTC	Bonja97, derekcheah, joelwool, will.i.am	3	6	30
 273208	4	0	Pink & Gray Pink (6 Suits)	2020-08-17 — 04:30:03 UTC	Bonja97, derekcheah, joelwool, will.i.am	3	6	30
 272993	4	30	Muddy-Rainbow-Fives & White (6 Suits)	2020-08-17 — 01:39:42 UTC	CastlesInTheAir, melwen, scharkbite, will.i.am	4	6	30
-272980	3	0	Muddy-Rainbow-Fives & White (6 Suits)	2020-08-17 — 01:24:04 UTC	CastlesInTheAir, melwen, will.i.am	2	6	30
+272980	3	0	Muddy-Rainbow-Fives & White (6 Suits)	2020-08-17 — 01:24:04 UTC	CastlesInTheAir, melwen, will.i.am	3	6	30
 272973	4	25	White-Fives & Pink (5 Suits)	2020-08-17 — 01:14:13 UTC	CastlesInTheAir, melwen, scharkbite, will.i.am	1	5	25
 272922	4	0	White-Fives & Pink (5 Suits)	2020-08-17 — 00:12:51 UTC	CastlesInTheAir, melwen, scharkbite, will.i.am	2	5	25
 272628	5	0	Muddy-Rainbow-Fives & White (6 Suits)	2020-08-16 — 19:01:36 UTC	Dr_Kakashi, kimbifille, plus, Valetta6789, will.i.am	1	6	30
@@ -698,24 +698,24 @@
 272548	4	28	Dark Brown (6 Suits)	2020-08-16 — 16:47:56 UTC	asaelr, Fireheart, plus, will.i.am	6	6	30
 272540	3	30	Dark Brown (6 Suits)	2020-08-16 — 16:21:17 UTC	asaelr, Fireheart, will.i.am	2	6	30
 272364	6	29	Dark Brown (6 Suits)	2020-08-16 — 06:15:01 UTC	derekcheah, joelwool, sin_faith, TheDaniMan, will.i.am, XMIL	6	6	30
-272346	5	29	Dark Brown (6 Suits)	2020-08-16 — 05:31:30 UTC	derekcheah, joelwool, swineherd, TheDaniMan, will.i.am	8	6	30
+272346	5	29	Dark Brown (6 Suits)	2020-08-16 — 05:31:30 UTC	derekcheah, joelwool, swineherd, TheDaniMan, will.i.am	9	6	30
 272303	5	0	Dark Brown (6 Suits)	2020-08-16 — 04:54:04 UTC	derekcheah, joelwool, swineherd, TheDaniMan, will.i.am	8	6	30
 272275	4	25	Gray (5 Suits)	2020-08-16 — 04:23:59 UTC	derekcheah, joelwool, TheDaniMan, will.i.am	27	5	25
-272256	4	0	Gray (5 Suits)	2020-08-16 — 04:11:22 UTC	derekcheah, joelwool, TheDaniMan, will.i.am	33	5	25
+272256	4	0	Gray (5 Suits)	2020-08-16 — 04:11:22 UTC	derekcheah, joelwool, TheDaniMan, will.i.am	34	5	25
 272239	4	20	Muddy-Rainbow-Fives & Rainbow (4 Suits)	2020-08-16 — 03:57:23 UTC	joelwool, melwen, TheDaniMan, will.i.am	1	4	20
 272219	5	0	Muddy-Rainbow-Fives & Rainbow (4 Suits)	2020-08-16 — 03:42:20 UTC	Bonja97, joelwool, melwen, scharkbite, will.i.am	1	4	20
 272195	5	19	Muddy-Rainbow-Fives & Rainbow (4 Suits)	2020-08-16 — 03:28:57 UTC	Bonja97, joelwool, melwen, scharkbite, will.i.am	1	4	20
 272164	4	19	Muddy-Rainbow-Fives & Rainbow (4 Suits)	2020-08-16 — 02:59:13 UTC	joelwool, melwen, scharkbite, will.i.am	2	4	20
 272144	5	16	Muddy-Rainbow-Fives & Rainbow (4 Suits)	2020-08-16 — 02:34:01 UTC	Ahming, joelwool, melwen, scharkbite, will.i.am	1	4	20
-271315	4	30	Brown (6 Suits)	2020-08-15 — 04:16:50 UTC	crossproduct, joelwool, will.i.am, XMIL	14	6	30
+271315	4	30	Brown (6 Suits)	2020-08-15 — 04:16:50 UTC	crossproduct, joelwool, will.i.am, XMIL	15	6	30
 271284	4	0	Brown (6 Suits)	2020-08-15 — 03:45:34 UTC	crossproduct, joelwool, will.i.am, XMIL	12	6	30
 271260	5	0	Brown (6 Suits)	2020-08-15 — 03:16:29 UTC	crossproduct, joelwool, pianoblook, piper, will.i.am	21	6	30
-271236	4	0	Brown (6 Suits)	2020-08-15 — 02:45:05 UTC	crossproduct, joelwool, piper, will.i.am	27	6	30
+271236	4	0	Brown (6 Suits)	2020-08-15 — 02:45:05 UTC	crossproduct, joelwool, piper, will.i.am	28	6	30
 271196	3	0	Dark Omni (6 Suits)	2020-08-15 — 02:05:07 UTC	Dr_Kakashi, kimbifille, will.i.am	4	6	30
 271181	3	0	Dark Omni (6 Suits)	2020-08-15 — 01:42:35 UTC	Dr_Kakashi, kimbifille, will.i.am	4	6	30
 271172	3	0	Dark Omni (6 Suits)	2020-08-15 — 01:34:00 UTC	Dr_Kakashi, kimbifille, will.i.am	4	6	30
 270890	5	0	Gray (5 Suits)	2020-08-14 — 20:00:30 UTC	crossproduct, JerryYang, MarkusKahlsen, timotree, will.i.am	7	5	25
-270590	4	0	Dark Omni (6 Suits)	2020-08-14 — 05:42:35 UTC	kimbifille, plus, will.i.am, Zamiel	12	6	30
+270590	4	0	Dark Omni (6 Suits)	2020-08-14 — 05:42:35 UTC	kimbifille, plus, will.i.am, Zamiel	13	6	30
 270571	3	0	Black & Dark Rainbow (6 Suits)	2020-08-14 — 05:19:00 UTC	kimbifille, will.i.am, Zamiel	1	6	30
 270558	3	27	Black & Dark Rainbow (6 Suits)	2020-08-14 — 05:00:29 UTC	kimbifille, will.i.am, Zamiel	1	6	30
 270542	3	0	Black & Dark Rainbow (6 Suits)	2020-08-14 — 04:44:06 UTC	kimbifille, will.i.am, Zamiel	1	6	30
@@ -723,29 +723,29 @@
 270424	3	0	White (6 Suits)	2020-08-14 — 02:54:49 UTC	Ahming, Bonja97, will.i.am	37	6	30
 270395	3	0	White (6 Suits)	2020-08-14 — 02:30:39 UTC	Ahming, Bonja97, will.i.am	53	6	30
 270371	6	0	Null-Ones (6 Suits)	2020-08-14 — 02:13:16 UTC	Ahming, Fireheart, kimbifille, Kyle, will.i.am, Zamiel	2	6	30
-269909	4	0	Gray (6 Suits)	2020-08-13 — 19:22:42 UTC	CastlesInTheAir, DMoney, Tobythedog, will.i.am	18	6	30
-269907	4	0	Gray (6 Suits)	2020-08-13 — 19:17:25 UTC	CastlesInTheAir, DMoney, Tobythedog, will.i.am	22	6	30
+269909	4	0	Gray (6 Suits)	2020-08-13 — 19:22:42 UTC	CastlesInTheAir, DMoney, Tobythedog, will.i.am	19	6	30
+269907	4	0	Gray (6 Suits)	2020-08-13 — 19:17:25 UTC	CastlesInTheAir, DMoney, Tobythedog, will.i.am	23	6	30
 269901	4	0	Gray (6 Suits)	2020-08-13 — 19:07:16 UTC	CastlesInTheAir, DMoney, Tobythedog, will.i.am	29	6	30
 269385	5	25	White (5 Suits)	2020-08-13 — 01:38:58 UTC	ADrone, crossproduct, Cynas, mokesmoe, will.i.am	37	5	25
-269364	4	0	White (5 Suits)	2020-08-13 — 01:04:49 UTC	ADrone, crossproduct, mokesmoe, will.i.am	46	5	25
-269346	5	11	3 Suits	2020-08-13 — 00:46:09 UTC	ADrone, crossproduct, JerryYang, mokesmoe, will.i.am	24	3	15
+269364	4	0	White (5 Suits)	2020-08-13 — 01:04:49 UTC	ADrone, crossproduct, mokesmoe, will.i.am	47	5	25
+269346	5	11	3 Suits	2020-08-13 — 00:46:09 UTC	ADrone, crossproduct, JerryYang, mokesmoe, will.i.am	25	3	15
 269331	5	0	3 Suits	2020-08-13 — 00:32:09 UTC	ADrone, crossproduct, JerryYang, mokesmoe, will.i.am	27	3	15
 269324	4	14	3 Suits	2020-08-13 — 00:20:14 UTC	crossproduct, JerryYang, kevincaseytdk1, will.i.am	62	3	15
 269243	4	22	Pink (5 Suits)	2020-08-12 — 22:34:37 UTC	crossproduct, JerryYang, sheamol, will.i.am	23	5	25
 269178	3	25	White & Dark Brown (5 Suits)	2020-08-12 — 21:03:57 UTC	pianoblook, scharkbite, will.i.am	3	5	25
-269157	3	22	White & Dark Brown (5 Suits)	2020-08-12 — 20:45:13 UTC	pianoblook, scharkbite, will.i.am	4	5	25
+269157	3	22	White & Dark Brown (5 Suits)	2020-08-12 — 20:45:13 UTC	pianoblook, scharkbite, will.i.am	5	5	25
 268706	4	23	Pink (5 Suits)	2020-08-12 — 04:33:12 UTC	plus, RespectCaviar, schemetrical, will.i.am	26	5	25
-268686	4	0	Pink (5 Suits)	2020-08-12 — 04:06:08 UTC	plus, RespectCaviar, schemetrical, will.i.am	34	5	25
+268686	4	0	Pink (5 Suits)	2020-08-12 — 04:06:08 UTC	plus, RespectCaviar, schemetrical, will.i.am	35	5	25
 268672	5	24	Rainbow & White (5 Suits)	2020-08-12 — 03:42:15 UTC	IsabeltheCat, melwen, Pablo-, scharkbite, will.i.am	2	5	25
 268639	5	24	Rainbow & White (5 Suits)	2020-08-12 — 03:10:29 UTC	IsabeltheCat, melwen, Pablo-, scharkbite, will.i.am	2	5	25
 268608	5	0	Rainbow & White (5 Suits)	2020-08-12 — 02:44:30 UTC	IsabeltheCat, melwen, Pablo-, scharkbite, will.i.am	4	5	25
 268606	5	0	Rainbow & White (5 Suits)	2020-08-12 — 02:44:11 UTC	IsabeltheCat, melwen, Pablo-, scharkbite, will.i.am	5	5	25
 268519	4	0	Black & Pink (5 Suits)	2020-08-12 — 01:23:08 UTC	melwen, plus, TheDaniMan, will.i.am	6	5	25
 268433	5	30	Rainbow & Muddy Rainbow (6 Suits)	2020-08-11 — 23:20:09 UTC	melwen, qbphoenix, swineherd, Tobythedog, will.i.am	5	6	30
-267872	3	25	No Variant	2020-08-11 — 05:19:30 UTC	RespectCaviar, schemetrical, will.i.am	79	5	25
-267863	3	0	No Variant	2020-08-11 — 05:11:21 UTC	RespectCaviar, schemetrical, will.i.am	82	5	25
+267872	3	25	No Variant	2020-08-11 — 05:19:30 UTC	RespectCaviar, schemetrical, will.i.am	82	5	25
+267863	3	0	No Variant	2020-08-11 — 05:11:21 UTC	RespectCaviar, schemetrical, will.i.am	84	5	25
 267842	5	25	Throw It in a Hole (5 Suits)	2020-08-11 — 04:52:00 UTC	antitelharsic, pianoblook, rs1, will.i.am, XMIL	4	5	25
-267808	3	0	Throw It in a Hole (5 Suits)	2020-08-11 — 04:07:00 UTC	antitelharsic, pianoblook, will.i.am	23	5	25
+267808	3	0	Throw It in a Hole (5 Suits)	2020-08-11 — 04:07:00 UTC	antitelharsic, pianoblook, will.i.am	24	5	25
 267739	4	0	Special Mix (5 Suits)	2020-08-11 — 02:27:51 UTC	melwen, Nitrate2, scharkbite, will.i.am	3	5	25
 267700	4	0	Special Mix (5 Suits)	2020-08-11 — 01:58:59 UTC	melwen, Nitrate2, scharkbite, will.i.am	3	5	25
 267680	4	0	Special Mix (5 Suits)	2020-08-11 — 01:34:25 UTC	melwen, Nitrate2, scharkbite, will.i.am	3	5	25
@@ -754,22 +754,22 @@
 267649	5	0	Rainbow & Pink (4 Suits)	2020-08-11 — 00:47:23 UTC	kevincaseytdk1, melwen, plus, scharkbite, will.i.am	1	4	20
 267637	5	0	Rainbow & Pink (4 Suits)	2020-08-11 — 00:25:26 UTC	kevincaseytdk1, melwen, pianoblook, plus, will.i.am	3	4	20
 267626	5	17	Rainbow & Pink (4 Suits)	2020-08-11 — 00:05:11 UTC	kevincaseytdk1, melwen, pianoblook, plus, will.i.am	3	4	20
-267475	3	24	No Variant	2020-08-10 — 20:42:42 UTC	RespectCaviar, schemetrical, will.i.am	83	5	25
-267357	4	27	Black (6 Suits)	2020-08-10 — 18:22:56 UTC	impostor, JerryYang, timotree, will.i.am	128	6	30
-265540	3	0	Black & White (5 Suits)	2020-08-08 — 21:34:01 UTC	Bonja97, IsabeltheCat, will.i.am	40	5	25
+267475	3	24	No Variant	2020-08-10 — 20:42:42 UTC	RespectCaviar, schemetrical, will.i.am	86	5	25
+267357	4	27	Black (6 Suits)	2020-08-10 — 18:22:56 UTC	impostor, JerryYang, timotree, will.i.am	129	6	30
+265540	3	0	Black & White (5 Suits)	2020-08-08 — 21:34:01 UTC	Bonja97, IsabeltheCat, will.i.am	41	5	25
 265530	3	0	Black & White (5 Suits)	2020-08-08 — 21:15:52 UTC	Bonja97, IsabeltheCat, will.i.am	45	5	25
 264794	4	0	Gray Pink (5 Suits)	2020-08-08 — 03:26:27 UTC	Dr_Kakashi, kimbifille, scharkbite, will.i.am	2	5	25
 264776	4	0	Gray Pink (5 Suits)	2020-08-08 — 03:11:25 UTC	Dr_Kakashi, kimbifille, scharkbite, will.i.am	2	5	25
 264747	4	23	Gray Pink (5 Suits)	2020-08-08 — 02:54:37 UTC	Dr_Kakashi, kimbifille, scharkbite, will.i.am	2	5	25
 264718	3	24	Gray Pink (5 Suits)	2020-08-08 — 02:26:22 UTC	Dr_Kakashi, scharkbite, will.i.am	3	5	25
 264705	3	0	Gray Pink (5 Suits)	2020-08-08 — 02:07:55 UTC	Dr_Kakashi, scharkbite, will.i.am	5	5	25
-264654	3	25	No Variant	2020-08-08 — 01:26:54 UTC	Ahming, will.i.am, XMIL	82	5	25
-264643	3	0	No Variant	2020-08-08 — 01:21:22 UTC	Ahming, will.i.am, XMIL	89	5	25
-264639	3	0	No Variant	2020-08-08 — 01:18:33 UTC	Ahming, will.i.am, XMIL	89	5	25
-264636	3	24	No Variant	2020-08-08 — 01:13:07 UTC	Ahming, will.i.am, XMIL	93	5	25
-264631	3	0	No Variant	2020-08-08 — 01:03:47 UTC	Ahming, will.i.am, XMIL	101	5	25
-264629	3	0	No Variant	2020-08-08 — 01:01:55 UTC	Ahming, will.i.am, XMIL	97	5	25
-264621	3	0	No Variant	2020-08-08 — 00:55:37 UTC	Ahming, will.i.am, XMIL	98	5	25
+264654	3	25	No Variant	2020-08-08 — 01:26:54 UTC	Ahming, will.i.am, XMIL	85	5	25
+264643	3	0	No Variant	2020-08-08 — 01:21:22 UTC	Ahming, will.i.am, XMIL	91	5	25
+264639	3	0	No Variant	2020-08-08 — 01:18:33 UTC	Ahming, will.i.am, XMIL	91	5	25
+264636	3	24	No Variant	2020-08-08 — 01:13:07 UTC	Ahming, will.i.am, XMIL	95	5	25
+264631	3	0	No Variant	2020-08-08 — 01:03:47 UTC	Ahming, will.i.am, XMIL	103	5	25
+264629	3	0	No Variant	2020-08-08 — 01:01:55 UTC	Ahming, will.i.am, XMIL	99	5	25
+264621	3	0	No Variant	2020-08-08 — 00:55:37 UTC	Ahming, will.i.am, XMIL	102	5	25
 264575	3	25	Cocoa Rainbow (5 Suits)	2020-08-07 — 23:52:06 UTC	DMoney, Dr_Kakashi, will.i.am	3	5	25
 264562	3	0	Cocoa Rainbow (5 Suits)	2020-08-07 — 23:32:03 UTC	DMoney, Dr_Kakashi, will.i.am	3	5	25
 264552	3	0	Cocoa Rainbow (5 Suits)	2020-08-07 — 23:16:33 UTC	DMoney, Dr_Kakashi, will.i.am	3	5	25
@@ -800,7 +800,7 @@
 263056	3	24	Black & Muddy Rainbow (5 Suits)	2020-08-06 — 02:19:46 UTC	Bonja97, DMoney, will.i.am	7	5	25
 263010	3	0	Black & Muddy Rainbow (5 Suits)	2020-08-06 — 01:39:06 UTC	Bonja97, DMoney, will.i.am	8	5	25
 262996	3	23	Black & Muddy Rainbow (5 Suits)	2020-08-06 — 01:21:26 UTC	Bonja97, DMoney, will.i.am	8	5	25
-262972	2	0	Black & Muddy Rainbow (5 Suits)	2020-08-06 — 00:51:36 UTC	DMoney, will.i.am	20	5	25
+262972	2	0	Black & Muddy Rainbow (5 Suits)	2020-08-06 — 00:51:36 UTC	DMoney, will.i.am	21	5	25
 262946	3	0	Black & Muddy Rainbow (5 Suits)	2020-08-06 — 00:00:47 UTC	DMoney, TheDaniMan, will.i.am	10	5	25
 262827	4	0	Black & Muddy Rainbow (6 Suits)	2020-08-05 — 19:57:01 UTC	DMoney, emilyzhao, squidgetx, will.i.am	11	6	30
 262814	6	29	Black & Muddy Rainbow (6 Suits)	2020-08-05 — 19:26:10 UTC	Bonja97, DMoney, emilyzhao, sephiroth, squidgetx, will.i.am	1	6	30
@@ -811,7 +811,7 @@
 262343	3	24	Cocoa Rainbow (5 Suits)	2020-08-05 — 05:11:52 UTC	joelwool, plus, will.i.am	9	5	25
 262309	3	23	Cocoa Rainbow (5 Suits)	2020-08-05 — 04:44:37 UTC	joelwool, plus, will.i.am	22	5	25
 262283	3	0	Cocoa Rainbow (5 Suits)	2020-08-05 — 04:24:16 UTC	joelwool, plus, will.i.am	23	5	25
-262263	3	22	Cocoa Rainbow (5 Suits)	2020-08-05 — 04:09:51 UTC	joelwool, plus, will.i.am	29	5	25
+262263	3	22	Cocoa Rainbow (5 Suits)	2020-08-05 — 04:09:51 UTC	joelwool, plus, will.i.am	30	5	25
 262207	5	0	Special Mix (5 Suits)	2020-08-05 — 03:22:09 UTC	Kyle, melwen, pianoblook, scharkbite, will.i.am	2	5	25
 262181	5	20	Special Mix (5 Suits)	2020-08-05 — 03:00:20 UTC	Kyle, melwen, pianoblook, scharkbite, will.i.am	3	5	25
 262045	3	0	Cocoa Rainbow (5 Suits)	2020-08-05 — 01:15:14 UTC	Bonja97, Kyle, will.i.am	10	5	25
@@ -821,7 +821,7 @@
 261836	4	0	Cocoa Rainbow (5 Suits)	2020-08-04 — 21:45:49 UTC	joelwool, MarkusKahlsen, plus, will.i.am	14	5	25
 261825	4	0	Cocoa Rainbow (5 Suits)	2020-08-04 — 21:35:43 UTC	joelwool, MarkusKahlsen, plus, will.i.am	15	5	25
 261809	3	27	Cocoa Rainbow (6 Suits)	2020-08-04 — 21:18:54 UTC	MarkusKahlsen, plus, will.i.am	30	6	30
-261791	3	25	Gray (5 Suits)	2020-08-04 — 21:02:38 UTC	MarkusKahlsen, plus, will.i.am	37	5	25
+261791	3	25	Gray (5 Suits)	2020-08-04 — 21:02:38 UTC	MarkusKahlsen, plus, will.i.am	39	5	25
 261429	6	0	Cocoa Rainbow (5 Suits)	2020-08-04 — 06:45:56 UTC	Animex52, Bonja97, derekcheah, IsabeltheCat, joelwool, will.i.am	1	5	25
 261421	6	0	Cocoa Rainbow (5 Suits)	2020-08-04 — 06:35:12 UTC	Animex52, Bonja97, derekcheah, IsabeltheCat, joelwool, will.i.am	1	5	25
 261407	6	0	Cocoa Rainbow (5 Suits)	2020-08-04 — 06:26:21 UTC	Animex52, Bonja97, derekcheah, IsabeltheCat, joelwool, will.i.am	1	5	25
@@ -837,41 +837,41 @@
 260925	5	0	Cocoa Rainbow (6 Suits)	2020-08-04 — 00:32:19 UTC	micerang, qbphoenix, TheDaniMan, will.i.am, Zamiel	4	6	30
 260910	5	0	Cocoa Rainbow (6 Suits)	2020-08-04 — 00:04:19 UTC	micerang, qbphoenix, TheDaniMan, will.i.am, Zamiel	5	6	30
 260764	5	28	Pink & Gray Pink (6 Suits)	2020-08-03 — 21:27:18 UTC	asaelr, DMoney, joelwool, scharkbite, will.i.am	2	6	30
-260577	3	0	Pink & Gray Pink (6 Suits)	2020-08-03 — 18:09:32 UTC	MarkusKahlsen, Nitrate2, will.i.am	1	6	30
+260577	3	0	Pink & Gray Pink (6 Suits)	2020-08-03 — 18:09:32 UTC	MarkusKahlsen, Nitrate2, will.i.am	2	6	30
 259917	4	28	Pink & Gray Pink (6 Suits)	2020-08-03 — 04:20:47 UTC	efaust, joelwool, sjdrodge, will.i.am	3	6	30
 259700	4	0	Pink & Gray Pink (6 Suits)	2020-08-03 — 03:50:31 UTC	efaust, joelwool, sjdrodge, will.i.am	3	6	30
 259678	4	0	Pink & Gray Pink (6 Suits)	2020-08-03 — 03:42:49 UTC	efaust, joelwool, sjdrodge, will.i.am	4	6	30
 259383	3	29	Black (6 Suits)	2020-08-03 — 00:29:07 UTC	avanderwalde, Kyle, will.i.am	41	6	30
 259357	3	26	Black (6 Suits)	2020-08-03 — 00:05:30 UTC	avanderwalde, Kyle, will.i.am	43	6	30
-259293	3	0	Pink & Gray Pink (6 Suits)	2020-08-02 — 22:49:51 UTC	Ahming, plus, will.i.am	2	6	30
+259293	3	0	Pink & Gray Pink (6 Suits)	2020-08-02 — 22:49:51 UTC	Ahming, plus, will.i.am	3	6	30
 259273	3	0	Black & Gray (6 Suits)	2020-08-02 — 22:29:51 UTC	Ahming, plus, will.i.am	14	6	30
 258363	5	0	Light Pink (6 Suits)	2020-08-01 — 21:53:59 UTC	Ahming, IsabeltheCat, Livia, Syrah, will.i.am	11	6	30
 258355	5	0	Brown (4 Suits)	2020-08-01 — 21:36:24 UTC	Ahming, IsabeltheCat, Livia, Syrah, will.i.am	10	4	20
 258349	2	0	Special Mix (5 Suits)	2020-08-01 — 21:28:42 UTC	Livia, will.i.am	36	5	25
 258321	6	23	Rainbow (5 Suits)	2020-08-01 — 20:53:04 UTC	DMoney, eljobe, JerryYang, joelwool, will.i.am, Wittvector	11	5	25
-258278	4	0	Rainbow (5 Suits)	2020-08-01 — 20:18:30 UTC	JerryYang, joelwool, will.i.am, Wittvector	92	5	25
+258278	4	0	Rainbow (5 Suits)	2020-08-01 — 20:18:30 UTC	JerryYang, joelwool, will.i.am, Wittvector	93	5	25
 258246	3	30	Pink (6 Suits)	2020-08-01 — 20:00:31 UTC	JerryYang, robense, will.i.am	70	6	30
 257438	4	25	Dark Brown (5 Suits)	2020-08-01 — 00:56:25 UTC	derekcheah, DMoney, plus, will.i.am	7	5	25
-257406	4	0	Dark Brown (5 Suits)	2020-08-01 — 00:24:46 UTC	derekcheah, DMoney, plus, will.i.am	10	5	25
+257406	4	0	Dark Brown (5 Suits)	2020-08-01 — 00:24:46 UTC	derekcheah, DMoney, plus, will.i.am	11	5	25
 257393	4	0	Dark Brown (5 Suits)	2020-08-01 — 00:07:05 UTC	derekcheah, DMoney, plus, will.i.am	10	5	25
-257379	4	0	Dark Brown (5 Suits)	2020-07-31 — 23:57:22 UTC	derekcheah, DMoney, plus, will.i.am	14	5	25
+257379	4	0	Dark Brown (5 Suits)	2020-07-31 — 23:57:22 UTC	derekcheah, DMoney, plus, will.i.am	15	5	25
 257352	3	29	Black & Dark Brown (6 Suits)	2020-07-31 — 23:01:37 UTC	kevincaseytdk1, plus, will.i.am	5	6	30
-257331	3	15	3 Suits	2020-07-31 — 22:31:30 UTC	kevincaseytdk1, plus, will.i.am	88	3	15
+257331	3	15	3 Suits	2020-07-31 — 22:31:30 UTC	kevincaseytdk1, plus, will.i.am	90	3	15
 257321	4	25	Black Reversed (5 Suits)	2020-07-31 — 22:08:43 UTC	kevincaseytdk1, melwen, plus, will.i.am	2	5	25
 257303	4	25	White Reversed (5 Suits)	2020-07-31 — 21:43:47 UTC	kevincaseytdk1, melwen, plus, will.i.am	7	5	25
-257244	2	25	Black (5 Suits)	2020-07-31 — 20:18:13 UTC	plus, will.i.am	169	5	25
-257238	2	0	Black (5 Suits)	2020-07-31 — 20:04:40 UTC	plus, will.i.am	244	5	25
+257244	2	25	Black (5 Suits)	2020-07-31 — 20:18:13 UTC	plus, will.i.am	173	5	25
+257238	2	0	Black (5 Suits)	2020-07-31 — 20:04:40 UTC	plus, will.i.am	250	5	25
 257159	6	24	White-Ones (5 Suits)	2020-07-31 — 17:10:40 UTC	ADrone, DMoney, Floriman, plus, TheDaniMan, will.i.am	3	5	25
 256614	4	20	White-Ones & Rainbow (4 Suits)	2020-07-31 — 02:07:46 UTC	joelwool, melwen, will.i.am, XMIL	3	4	20
 256451	5	22	Rainbow & Pink (5 Suits)	2020-07-30 — 22:42:23 UTC	frollo9386, kevincaseytdk1, melwen, TheDaniMan, will.i.am	5	5	25
 256422	4	0	Rainbow & Pink (5 Suits)	2020-07-30 — 22:05:20 UTC	frollo9386, kevincaseytdk1, melwen, will.i.am	9	5	25
 256395	3	29	Brown (6 Suits)	2020-07-30 — 21:28:57 UTC	frollo9386, kevincaseytdk1, will.i.am	61	6	30
 256343	6	0	Rainbow & Dark Brown (5 Suits)	2020-07-30 — 19:51:12 UTC	asaelr, Bonja97, joelwool, Kyle, plus, will.i.am	1	5	25
-256037	5	0	Rainbow (5 Suits)	2020-07-30 — 05:13:18 UTC	girl_macaroni, IsabeltheCat, piper, plus, will.i.am	54	5	25
-255992	4	17	Rainbow (4 Suits)	2020-07-30 — 04:34:22 UTC	girl_macaroni, IsabeltheCat, plus, will.i.am	45	4	20
+256037	5	0	Rainbow (5 Suits)	2020-07-30 — 05:13:18 UTC	girl_macaroni, IsabeltheCat, piper, plus, will.i.am	55	5	25
+255992	4	17	Rainbow (4 Suits)	2020-07-30 — 04:34:22 UTC	girl_macaroni, IsabeltheCat, plus, will.i.am	46	4	20
 255959	2	24	Rainbow & Pink (5 Suits)	2020-07-30 — 04:00:46 UTC	plus, will.i.am	41	5	25
 255895	5	0	Cocoa Rainbow (6 Suits)	2020-07-30 — 02:58:18 UTC	Ahming, Kyle, pianoblook, will.i.am, Zamiel	7	6	30
-255787	3	0	Rainbow & Light Pink (5 Suits)	2020-07-30 — 01:39:41 UTC	derekcheah, Nitrate2, will.i.am	9	5	25
+255787	3	0	Rainbow & Light Pink (5 Suits)	2020-07-30 — 01:39:41 UTC	derekcheah, Nitrate2, will.i.am	10	5	25
 255775	4	0	Rainbow & Light Pink (5 Suits)	2020-07-30 — 01:32:44 UTC	derekcheah, Nitrate2, plus, will.i.am	5	5	25
 255762	4	0	Rainbow & Light Pink (5 Suits)	2020-07-30 — 01:26:12 UTC	derekcheah, Nitrate2, plus, will.i.am	7	5	25
 255742	4	0	Rainbow & Pink (5 Suits)	2020-07-30 — 01:02:37 UTC	Bonja97, melwen, plus, will.i.am	10	5	25
@@ -886,13 +886,13 @@
 255514	3	0	Rainbow & White (3 Suits)	2020-07-29 — 21:54:55 UTC	Fey, Pablo-, will.i.am	11	3	15
 255489	3	14	Rainbow & White (3 Suits)	2020-07-29 — 21:38:20 UTC	Fey, Pablo-, will.i.am	25	3	15
 255438	5	18	4 Suits	2020-07-29 — 20:41:56 UTC	Kyle, plus, reuzed, scharkbite, will.i.am	17	4	20
-255335	3	0	No Variant	2020-07-29 — 17:18:29 UTC	plus, will.i.am, Zakisan	109	5	25
-255334	3	0	No Variant	2020-07-29 — 17:17:20 UTC	plus, will.i.am, Zakisan	110	5	25
-255333	3	0	No Variant	2020-07-29 — 17:16:05 UTC	plus, will.i.am, Zakisan	112	5	25
-255332	3	0	No Variant	2020-07-29 — 17:15:01 UTC	plus, will.i.am, Zakisan	111	5	25
-255331	3	0	No Variant	2020-07-29 — 17:14:11 UTC	plus, will.i.am, Zakisan	114	5	25
-255330	3	0	No Variant	2020-07-29 — 17:13:07 UTC	plus, will.i.am, Zakisan	119	5	25
-255328	4	0	No Variant	2020-07-29 — 17:10:24 UTC	plus, sephiroth, will.i.am, Zakisan	97	5	25
+255335	3	0	No Variant	2020-07-29 — 17:18:29 UTC	plus, will.i.am, Zakisan	115	5	25
+255334	3	0	No Variant	2020-07-29 — 17:17:20 UTC	plus, will.i.am, Zakisan	114	5	25
+255333	3	0	No Variant	2020-07-29 — 17:16:05 UTC	plus, will.i.am, Zakisan	116	5	25
+255332	3	0	No Variant	2020-07-29 — 17:15:01 UTC	plus, will.i.am, Zakisan	116	5	25
+255331	3	0	No Variant	2020-07-29 — 17:14:11 UTC	plus, will.i.am, Zakisan	120	5	25
+255330	3	0	No Variant	2020-07-29 — 17:13:07 UTC	plus, will.i.am, Zakisan	126	5	25
+255328	4	0	No Variant	2020-07-29 — 17:10:24 UTC	plus, sephiroth, will.i.am, Zakisan	98	5	25
 255320	5	0	Special Mix (5 Suits)	2020-07-29 — 16:54:42 UTC	Pablo-, pianoblook, plus, sephiroth, will.i.am	3	5	25
 255309	4	0	Special Mix (5 Suits)	2020-07-29 — 16:37:45 UTC	pianoblook, plus, sephiroth, will.i.am	3	5	25
 255303	5	22	Special Mix (5 Suits)	2020-07-29 — 16:13:51 UTC	MarkusKahlsen, melwen, plus, sephiroth, will.i.am	2	5	25
@@ -915,11 +915,11 @@
 254625	5	0	Special Mix (5 Suits)	2020-07-28 — 20:57:19 UTC	Dr_Kakashi, Pablo-, sephiroth, Valetta6789, will.i.am	5	5	25
 254547	3	30	Light Pink (6 Suits)	2020-07-28 — 19:31:28 UTC	MarkusKahlsen, plus, will.i.am	11	6	30
 254527	3	0	Light Pink (6 Suits)	2020-07-28 — 19:01:02 UTC	MarkusKahlsen, plus, will.i.am	14	6	30
-254516	3	0	Light Pink (6 Suits)	2020-07-28 — 18:38:11 UTC	MarkusKahlsen, plus, will.i.am	25	6	30
-254504	3	0	Light Pink (6 Suits)	2020-07-28 — 18:19:49 UTC	MarkusKahlsen, plus, will.i.am	34	6	30
-254489	3	0	Light Pink (6 Suits)	2020-07-28 — 18:01:11 UTC	MarkusKahlsen, plus, will.i.am	38	6	30
+254516	3	0	Light Pink (6 Suits)	2020-07-28 — 18:38:11 UTC	MarkusKahlsen, plus, will.i.am	26	6	30
+254504	3	0	Light Pink (6 Suits)	2020-07-28 — 18:19:49 UTC	MarkusKahlsen, plus, will.i.am	37	6	30
+254489	3	0	Light Pink (6 Suits)	2020-07-28 — 18:01:11 UTC	MarkusKahlsen, plus, will.i.am	40	6	30
 254455	5	20	Special Mix (5 Suits)	2020-07-28 — 16:58:38 UTC	MarkusKahlsen, melwen, Pablo-, plus, will.i.am	4	5	25
-254434	3	25	Pink & Gray Pink (6 Suits)	2020-07-28 — 16:14:24 UTC	MarkusKahlsen, melwen, will.i.am	2	6	30
+254434	3	25	Pink & Gray Pink (6 Suits)	2020-07-28 — 16:14:24 UTC	MarkusKahlsen, melwen, will.i.am	3	6	30
 253757	4	0	Dark Brown (6 Suits)	2020-07-28 — 04:27:07 UTC	Dr_Kakashi, kimbifille, piper, will.i.am	8	6	30
 253541	5	0	Special Mix (5 Suits)	2020-07-28 — 02:37:40 UTC	DMoney, Dr_Kakashi, melwen, scharkbite, will.i.am	3	5	25
 253503	5	0	Special Mix (5 Suits)	2020-07-28 — 02:01:42 UTC	DMoney, Dr_Kakashi, melwen, scharkbite, will.i.am	3	5	25
@@ -930,7 +930,7 @@
 253284	3	23	Brown & Gray Pink (5 Suits)	2020-07-27 — 21:45:06 UTC	DMoney, TheDaniMan, will.i.am	5	5	25
 253237	4	23	Brown & Gray Pink (5 Suits)	2020-07-27 — 20:29:41 UTC	MarkusKahlsen, micerang, robense, will.i.am	4	5	25
 253215	3	25	Rainbow & Gray Pink (5 Suits)	2020-07-27 — 20:01:19 UTC	MarkusKahlsen, micerang, will.i.am	3	5	25
-253161	3	24	No Variant	2020-07-27 — 18:52:28 UTC	Efece, imu_96, will.i.am	125	5	25
+253161	3	24	No Variant	2020-07-27 — 18:52:28 UTC	Efece, imu_96, will.i.am	129	5	25
 253100	6	30	Black (6 Suits)	2020-07-27 — 15:53:03 UTC	Dr_Kakashi, Floriman, joelwool, Kyle, sephiroth, will.i.am	2	6	30
 252910	4	0	Rainbow & Gray Pink (5 Suits)	2020-07-27 — 05:32:45 UTC	Bonja97, Fey, joelwool, will.i.am	3	5	25
 252798	4	21	Rainbow & Gray Pink (5 Suits)	2020-07-27 — 05:00:24 UTC	Bonja97, Fey, joelwool, will.i.am	5	5	25
@@ -950,13 +950,13 @@
 251169	5	0	Rainbow & Gray Pink (5 Suits)	2020-07-26 — 00:08:08 UTC	Dr_Kakashi, kimbifille, melwen, micerang, will.i.am	2	5	25
 250948	4	0	Brown (3 Suits)	2020-07-25 — 19:54:02 UTC	MarkusKahlsen, piper, plus, will.i.am	14	3	15
 250930	4	15	White (3 Suits)	2020-07-25 — 19:39:32 UTC	MarkusKahlsen, piper, plus, will.i.am	27	3	15
-250911	3	20	White (4 Suits)	2020-07-25 — 19:23:24 UTC	piper, plus, will.i.am	46	4	20
+250911	3	20	White (4 Suits)	2020-07-25 — 19:23:24 UTC	piper, plus, will.i.am	47	4	20
 250884	3	25	White & Gray Pink (5 Suits)	2020-07-25 — 18:58:01 UTC	piper, plus, will.i.am	2	5	25
 250592	3	25	Dark Pink (5 Suits)	2020-07-25 — 06:27:36 UTC	derekcheah, piper, will.i.am	19	5	25
-250578	3	22	Dark Pink (5 Suits)	2020-07-25 — 06:08:35 UTC	derekcheah, piper, will.i.am	22	5	25
-250558	3	0	Dark Pink (5 Suits)	2020-07-25 — 05:50:01 UTC	derekcheah, piper, will.i.am	26	5	25
+250578	3	22	Dark Pink (5 Suits)	2020-07-25 — 06:08:35 UTC	derekcheah, piper, will.i.am	23	5	25
+250558	3	0	Dark Pink (5 Suits)	2020-07-25 — 05:50:01 UTC	derekcheah, piper, will.i.am	27	5	25
 250254	6	0	Special Mix (5 Suits)	2020-07-25 — 01:28:57 UTC	ADrone, derekcheah, joelwool, melwen, qbphoenix, will.i.am	2	5	25
-250202	4	0	No Variant	2020-07-25 — 00:45:24 UTC	ADrone, derekcheah, scottma, will.i.am	90	5	25
+250202	4	0	No Variant	2020-07-25 — 00:45:24 UTC	ADrone, derekcheah, scottma, will.i.am	92	5	25
 249993	2	21	Black (5 Suits)	2020-07-24 — 21:00:56 UTC	Kyle, will.i.am	22	5	25
 249984	2	23	Black (5 Suits)	2020-07-24 — 20:46:53 UTC	Kyle, will.i.am	24	5	25
 249960	3	22	Special Mix (5 Suits)	2020-07-24 — 20:28:45 UTC	Kyle, sephiroth, will.i.am	10	5	25
@@ -966,7 +966,7 @@
 249603	4	25	Pink & Gray Pink (5 Suits)	2020-07-24 — 05:54:58 UTC	joelwool, piper, scharkbite, will.i.am	2	5	25
 249577	4	0	Pink & Gray Pink (5 Suits)	2020-07-24 — 05:19:57 UTC	joelwool, piper, scharkbite, will.i.am	3	5	25
 249534	4	24	Pink & Gray Pink (5 Suits)	2020-07-24 — 04:53:55 UTC	joelwool, piper, scharkbite, will.i.am	3	5	25
-249365	3	0	Pink (5 Suits)	2020-07-24 — 02:28:28 UTC	joelwool, Tiramisu1th, will.i.am	18	5	25
+249365	3	0	Pink (5 Suits)	2020-07-24 — 02:28:28 UTC	joelwool, Tiramisu1th, will.i.am	19	5	25
 249337	3	0	Pink (5 Suits)	2020-07-24 — 02:04:16 UTC	joelwool, Tiramisu1th, will.i.am	20	5	25
 249159	3	0	Pink & Gray Pink (5 Suits)	2020-07-23 — 23:54:04 UTC	joelwool, melwen, will.i.am	4	5	25
 249075	5	18	Gray Reversed (5 Suits)	2020-07-23 — 21:52:17 UTC	Bonja97, melwen, Nitrate2, piper, will.i.am	1	5	25
@@ -975,7 +975,7 @@
 248867	4	25	Gray Reversed (5 Suits)	2020-07-23 — 18:14:43 UTC	Kyle, qbphoenix, scharkbite, will.i.am	1	5	25
 248791	6	21	Gray Reversed (5 Suits)	2020-07-23 — 16:04:28 UTC	ADrone, MarkusKahlsen, melwen, Pablo-, piper, will.i.am	1	5	25
 248766	6	18	Gray Reversed (5 Suits)	2020-07-23 — 15:31:32 UTC	ADrone, MarkusKahlsen, melwen, Pablo-, piper, will.i.am	1	5	25
-248738	3	23	Gray (5 Suits)	2020-07-23 — 14:47:17 UTC	ADrone, frollo9386, will.i.am	42	5	25
+248738	3	23	Gray (5 Suits)	2020-07-23 — 14:47:17 UTC	ADrone, frollo9386, will.i.am	44	5	25
 248528	3	0	Gray Reversed (5 Suits)	2020-07-23 — 05:06:31 UTC	piper, plus, will.i.am	2	5	25
 248465	4	21	Gray Reversed (5 Suits)	2020-07-23 — 04:15:34 UTC	melwen, piper, plus, will.i.am	1	5	25
 248419	4	0	Gray Reversed (5 Suits)	2020-07-23 — 03:34:59 UTC	melwen, piper, plus, will.i.am	2	5	25
@@ -1050,10 +1050,10 @@
 245009	5	0	Gray Reversed (5 Suits)	2020-07-19 — 16:42:19 UTC	joelwool, MarkusKahlsen, swineherd, TheDaniMan, will.i.am	2	5	25
 244794	6	0	Rainbow (5 Suits)	2020-07-19 — 05:43:59 UTC	antitelharsic, Bonja97, derekcheah, joelwool, piper, will.i.am	15	5	25
 244628	3	28	Clue Starved (6 Suits)	2020-07-19 — 04:01:48 UTC	scharkbite, Smandon, will.i.am	7	6	30
-244598	3	0	Clue Starved (6 Suits)	2020-07-19 — 03:35:07 UTC	scharkbite, Smandon, will.i.am	7	6	30
+244598	3	0	Clue Starved (6 Suits)	2020-07-19 — 03:35:07 UTC	scharkbite, Smandon, will.i.am	8	6	30
 244559	3	25	Pink & Muddy Rainbow (5 Suits)	2020-07-19 — 03:06:49 UTC	kimbifille, scharkbite, will.i.am	2	5	25
 244540	4	25	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-19 — 02:50:25 UTC	kimbifille, scharkbite, TheDaniMan, will.i.am	1	5	25
-244449	3	0	Reversed (5 Suits)	2020-07-19 — 01:35:32 UTC	scharkbite, sephiroth, will.i.am	35	5	25
+244449	3	0	Reversed (5 Suits)	2020-07-19 — 01:35:32 UTC	scharkbite, sephiroth, will.i.am	36	5	25
 244414	5	0	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-19 — 01:11:39 UTC	DMoney, Kyle, scharkbite, will.i.am, Zamiel	1	5	25
 244387	5	0	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-19 — 00:48:55 UTC	DMoney, Kyle, scharkbite, will.i.am, Zamiel	1	5	25
 244362	5	0	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-19 — 00:29:43 UTC	DMoney, Kyle, scharkbite, will.i.am, Zamiel	1	5	25
@@ -1061,15 +1061,15 @@
 244325	5	0	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-19 — 00:08:11 UTC	DMoney, Kyle, scharkbite, will.i.am, Zamiel	1	5	25
 244303	5	23	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-18 — 23:50:48 UTC	asaelr, DMoney, scharkbite, will.i.am, Zamiel	1	5	25
 244162	4	0	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-18 — 21:31:32 UTC	Bonja97, derekcheah, swineherd, will.i.am	1	5	25
-244094	5	30	Brown-Ones (6 Suits)	2020-07-18 — 20:12:23 UTC	joelwool, Pablo-, scharkbite, swineherd, will.i.am	3	6	30
+244094	5	30	Brown-Ones (6 Suits)	2020-07-18 — 20:12:23 UTC	joelwool, Pablo-, scharkbite, swineherd, will.i.am	4	6	30
 244065	4	0	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-18 — 19:47:43 UTC	Pablo-, scharkbite, swineherd, will.i.am	1	5	25
 244048	4	23	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-18 — 19:26:33 UTC	Kyle, Pablo-, scharkbite, will.i.am	1	5	25
 244029	4	24	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-18 — 19:00:43 UTC	ADrone, Kyle, scharkbite, will.i.am	1	5	25
 244006	4	0	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-18 — 18:34:40 UTC	ADrone, Kyle, scharkbite, will.i.am	1	5	25
 243489	4	24	No Variant	2020-07-18 — 03:54:59 UTC	guava, pianoblook, piper, will.i.am	33	5	25
-243457	5	25	White (5 Suits)	2020-07-18 — 03:24:14 UTC	guava, joelwool, pianoblook, piper, will.i.am	21	5	25
+243457	5	25	White (5 Suits)	2020-07-18 — 03:24:14 UTC	guava, joelwool, pianoblook, piper, will.i.am	22	5	25
 243410	4	0	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-18 — 02:54:17 UTC	joelwool, pianoblook, piper, will.i.am	1	5	25
-243368	3	0	Black (5 Suits)	2020-07-18 — 02:27:33 UTC	joelwool, pianoblook, will.i.am	71	5	25
+243368	3	0	Black (5 Suits)	2020-07-18 — 02:27:33 UTC	joelwool, pianoblook, will.i.am	73	5	25
 243342	4	0	Brown-Ones & Dark Rainbow (6 Suits)	2020-07-18 — 02:11:53 UTC	DMoney, scharkbite, will.i.am, Zamiel	4	6	30
 243314	4	20	Pink-Ones (4 Suits)	2020-07-18 — 01:54:15 UTC	DMoney, scharkbite, will.i.am, Zamiel	2	4	20
 243292	4	19	Pink-Ones (4 Suits)	2020-07-18 — 01:36:04 UTC	DMoney, scharkbite, will.i.am, Zamiel	3	4	20
@@ -1104,8 +1104,8 @@
 241931	5	23	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-16 — 22:12:45 UTC	DMoney, Kyle, plus, Smandon, will.i.am	1	5	25
 241906	4	0	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-16 — 21:44:59 UTC	DMoney, Kyle, Smandon, will.i.am	1	5	25
 241893	4	0	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-16 — 21:31:48 UTC	Bonja97, DMoney, Kyle, will.i.am	1	5	25
-241865	3	20	Brown (4 Suits)	2020-07-16 — 20:56:23 UTC	Bonja97, Kyle, will.i.am	6	4	20
-241844	3	0	Brown (4 Suits)	2020-07-16 — 20:37:05 UTC	Bonja97, Kyle, will.i.am	9	4	20
+241865	3	20	Brown (4 Suits)	2020-07-16 — 20:56:23 UTC	Bonja97, Kyle, will.i.am	7	4	20
+241844	3	0	Brown (4 Suits)	2020-07-16 — 20:37:05 UTC	Bonja97, Kyle, will.i.am	10	4	20
 241817	6	21	Up or Down & White (5 Suits)	2020-07-16 — 20:10:20 UTC	Bonja97, DMoney, Floriman, MarkusKahlsen, padi, will.i.am	2	5	25
 241795	6	24	Up or Down & White (5 Suits)	2020-07-16 — 19:39:07 UTC	MarkusKahlsen, padi, scharkbite, sephiroth, will.i.am, Zakisan	2	5	25
 241727	6	29	Light Pink (6 Suits)	2020-07-16 — 18:09:46 UTC	padi, plus, scharkbite, sephiroth, will.i.am, Zakisan	3	6	30
@@ -1116,11 +1116,11 @@
 241020	5	0	Pink-Ones (5 Suits)	2020-07-16 — 02:09:34 UTC	melwen, Nitrate2, pianoblook, piper, will.i.am	5	5	25
 240962	4	18	Brown (4 Suits)	2020-07-16 — 01:30:31 UTC	melwen, Nitrate2, pianoblook, will.i.am	4	4	20
 240938	5	0	Brown (4 Suits)	2020-07-16 — 01:08:07 UTC	derekcheah, melwen, Nitrate2, plus, will.i.am	7	4	20
-240923	4	0	Brown (4 Suits)	2020-07-16 — 00:51:56 UTC	derekcheah, melwen, plus, will.i.am	7	4	20
+240923	4	0	Brown (4 Suits)	2020-07-16 — 00:51:56 UTC	derekcheah, melwen, plus, will.i.am	8	4	20
 240911	4	0	Brown (4 Suits)	2020-07-16 — 00:38:51 UTC	derekcheah, melwen, plus, will.i.am	7	4	20
 240879	5	18	Pink-Ones (4 Suits)	2020-07-16 — 00:06:01 UTC	DMoney, Kyle, plus, will.i.am, Zamiel	1	4	20
 240850	5	0	Pink-Ones (4 Suits)	2020-07-15 — 23:42:15 UTC	DMoney, Kyle, padi, will.i.am, Zamiel	1	4	20
-240720	4	25	No Variant	2020-07-15 — 21:03:18 UTC	MarkusKahlsen, newduke, sephiroth, will.i.am	103	5	25
+240720	4	25	No Variant	2020-07-15 — 21:03:18 UTC	MarkusKahlsen, newduke, sephiroth, will.i.am	105	5	25
 240681	5	0	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-15 — 20:40:04 UTC	MarkusKahlsen, padi, sephiroth, will.i.am, Zakisan	1	5	25
 240650	4	23	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-15 — 20:09:14 UTC	padi, sephiroth, will.i.am, Zakisan	3	5	25
 240625	3	21	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-15 — 19:46:29 UTC	padi, will.i.am, Zakisan	2	5	25
@@ -1140,15 +1140,15 @@
 238700	4	0	Pink-Ones & Black (5 Suits)	2020-07-14 — 01:08:02 UTC	DMoney, melwen, scharkbite, will.i.am	1	5	25
 238677	5	0	Pink-Ones & Black (5 Suits)	2020-07-14 — 00:41:47 UTC	avanderwalde, DMoney, melwen, scharkbite, will.i.am	1	5	25
 238652	5	0	Pink-Ones & Black (5 Suits)	2020-07-14 — 00:11:35 UTC	avanderwalde, DMoney, melwen, scharkbite, will.i.am	1	5	25
-238584	4	20	Omni (4 Suits)	2020-07-13 — 22:50:25 UTC	pianoblook, plus, TheDaniMan, will.i.am	11	4	20
-238573	4	0	Omni (4 Suits)	2020-07-13 — 22:36:01 UTC	pianoblook, plus, TheDaniMan, will.i.am	15	4	20
+238584	4	20	Omni (4 Suits)	2020-07-13 — 22:50:25 UTC	pianoblook, plus, TheDaniMan, will.i.am	12	4	20
+238573	4	0	Omni (4 Suits)	2020-07-13 — 22:36:01 UTC	pianoblook, plus, TheDaniMan, will.i.am	16	4	20
 238566	5	22	Pink-Ones & Black (5 Suits)	2020-07-13 — 22:26:30 UTC	pianoblook, plus, scharkbite, TheDaniMan, will.i.am	1	5	25
 238545	5	0	Pink-Ones & Black (5 Suits)	2020-07-13 — 22:01:12 UTC	pianoblook, plus, scharkbite, TheDaniMan, will.i.am	1	5	25
 238537	3	0	Pink-Ones & Black (5 Suits)	2020-07-13 — 21:51:26 UTC	robense, scharkbite, will.i.am	3	5	25
-238505	3	0	Up or Down (5 Suits)	2020-07-13 — 21:08:58 UTC	derekcheah, sephiroth, will.i.am	29	5	25
-238503	3	0	Up or Down (5 Suits)	2020-07-13 — 21:01:40 UTC	derekcheah, sephiroth, will.i.am	36	5	25
-238396	5	18	Rainbow (4 Suits)	2020-07-13 — 19:18:07 UTC	DMoney, MarekU, MarkusKahlsen, Smandon, will.i.am	20	4	20
-238343	4	25	No Variant	2020-07-13 — 18:08:01 UTC	cagidasa, Efece, egerdm, will.i.am	111	5	25
+238505	3	0	Up or Down (5 Suits)	2020-07-13 — 21:08:58 UTC	derekcheah, sephiroth, will.i.am	31	5	25
+238503	3	0	Up or Down (5 Suits)	2020-07-13 — 21:01:40 UTC	derekcheah, sephiroth, will.i.am	38	5	25
+238396	5	18	Rainbow (4 Suits)	2020-07-13 — 19:18:07 UTC	DMoney, MarekU, MarkusKahlsen, Smandon, will.i.am	21	4	20
+238343	4	25	No Variant	2020-07-13 — 18:08:01 UTC	cagidasa, Efece, egerdm, will.i.am	112	5	25
 237724	5	25	Clue Starved & Brown (5 Suits)	2020-07-12 — 22:48:01 UTC	Floriman, Kyle, melwen, TheDaniMan, will.i.am	1	5	25
 237700	4	0	Black & Cocoa Rainbow (6 Suits)	2020-07-12 — 22:15:39 UTC	Floriman, melwen, TheDaniMan, will.i.am	2	6	30
 237688	4	0	Black & Cocoa Rainbow (6 Suits)	2020-07-12 — 21:59:15 UTC	Floriman, melwen, TheDaniMan, will.i.am	2	6	30
@@ -1164,8 +1164,8 @@
 237001	5	18	Rainbow-Ones & Light Pink (4 Suits)	2020-07-12 — 03:01:40 UTC	joelwool, melwen, piper, plus, will.i.am	1	4	20
 236964	6	25	No Variant	2020-07-12 — 02:28:37 UTC	joelwool, melwen, piper, qbphoenix, scharkbite, will.i.am	16	5	25
 236791	4	23	Up or Down (5 Suits)	2020-07-12 — 00:39:14 UTC	avanderwalde, bazzy, rkass, will.i.am	13	5	25
-236581	4	25	No Variant	2020-07-11 — 21:41:35 UTC	piper, scharkbite, sephiroth, will.i.am	82	5	25
-236569	4	0	Muddy Rainbow (5 Suits)	2020-07-11 — 21:24:48 UTC	piper, scharkbite, sephiroth, will.i.am	2	5	25
+236581	4	25	No Variant	2020-07-11 — 21:41:35 UTC	piper, scharkbite, sephiroth, will.i.am	84	5	25
+236569	4	0	Muddy Rainbow (5 Suits)	2020-07-11 — 21:24:48 UTC	piper, scharkbite, sephiroth, will.i.am	3	5	25
 236527	5	0	Up or Down (6 Suits)	2020-07-11 — 20:57:28 UTC	pianoblook, piper, scharkbite, sephiroth, will.i.am	4	6	30
 236506	4	0	Clue Starved (6 Suits)	2020-07-11 — 20:34:24 UTC	pianoblook, piper, scharkbite, will.i.am	5	6	30
 236475	4	0	Clue Starved (6 Suits)	2020-07-11 — 19:53:52 UTC	pianoblook, piper, scharkbite, will.i.am	6	6	30
@@ -1180,18 +1180,18 @@
 235878	4	23	Up or Down (5 Suits)	2020-07-11 — 03:11:54 UTC	Kyle, melwen, scharkbite, will.i.am	1	5	25
 235827	4	23	Up or Down (5 Suits)	2020-07-11 — 02:35:00 UTC	Kyle, melwen, scharkbite, will.i.am	1	5	25
 235789	3	0	Up or Down (5 Suits)	2020-07-11 — 02:02:34 UTC	melwen, scharkbite, will.i.am	1	5	25
-235759	3	0	Up or Down (5 Suits)	2020-07-11 — 01:40:12 UTC	melwen, scharkbite, will.i.am	1	5	25
+235759	3	0	Up or Down (5 Suits)	2020-07-11 — 01:40:12 UTC	melwen, scharkbite, will.i.am	2	5	25
 235741	3	22	Up or Down (5 Suits)	2020-07-11 — 01:23:21 UTC	melwen, sephiroth, will.i.am	2	5	25
 235715	3	0	Up or Down (5 Suits)	2020-07-11 — 01:02:59 UTC	melwen, sephiroth, will.i.am	2	5	25
 235693	4	19	Up or Down (5 Suits)	2020-07-11 — 00:43:46 UTC	melwen, Puzzle, sephiroth, will.i.am	1	5	25
 235554	4	28	Clue Starved (6 Suits)	2020-07-10 — 22:48:29 UTC	MarkusKahlsen, melwen, piper, will.i.am	7	6	30
-235494	4	0	Clue Starved (6 Suits)	2020-07-10 — 22:09:46 UTC	MarkusKahlsen, melwen, piper, will.i.am	9	6	30
+235494	4	0	Clue Starved (6 Suits)	2020-07-10 — 22:09:46 UTC	MarkusKahlsen, melwen, piper, will.i.am	10	6	30
 235476	3	0	Clue Starved (6 Suits)	2020-07-10 — 21:52:13 UTC	melwen, piper, will.i.am	13	6	30
 235458	3	27	Clue Starved (6 Suits)	2020-07-10 — 21:37:02 UTC	melwen, piper, will.i.am	20	6	30
 235301	5	23	Omni (5 Suits)	2020-07-10 — 19:09:45 UTC	pianoblook, piper, plus, scharkbite, will.i.am	6	5	25
 235267	4	0	Omni (5 Suits)	2020-07-10 — 18:30:58 UTC	lotem, pianoblook, piper, will.i.am	3	5	25
-234869	3	25	No Variant	2020-07-10 — 04:54:58 UTC	blackswi, theandrewni, will.i.am	130	5	25
-234834	3	24	No Variant	2020-07-10 — 04:27:55 UTC	blackswi, theandrewni, will.i.am	137	5	25
+234869	3	25	No Variant	2020-07-10 — 04:54:58 UTC	blackswi, theandrewni, will.i.am	135	5	25
+234834	3	24	No Variant	2020-07-10 — 04:27:55 UTC	blackswi, theandrewni, will.i.am	142	5	25
 234701	5	0	Special Mix (5 Suits)	2020-07-10 — 02:28:30 UTC	Kyle, melwen, pianoblook, TheDaniMan, will.i.am	3	5	25
 234668	5	23	Special Mix (5 Suits)	2020-07-10 — 01:57:29 UTC	Kyle, melwen, pianoblook, TheDaniMan, will.i.am	3	5	25
 234641	5	0	Special Mix (5 Suits)	2020-07-10 — 01:29:33 UTC	Kyle, melwen, pianoblook, TheDaniMan, will.i.am	4	5	25
@@ -1203,7 +1203,7 @@
 234495	5	0	Special Mix (5 Suits)	2020-07-09 — 22:48:02 UTC	ADrone, melwen, pianoblook, sephiroth, will.i.am	4	5	25
 234488	5	0	Special Mix (5 Suits)	2020-07-09 — 22:36:19 UTC	ADrone, melwen, pianoblook, sephiroth, will.i.am	4	5	25
 234464	5	0	Clue Starved (6 Suits)	2020-07-09 — 22:12:21 UTC	Kyle, pianoblook, scharkbite, sephiroth, will.i.am	4	6	30
-234399	3	24	No Variant	2020-07-09 — 20:57:11 UTC	Bonja97, mugsly, will.i.am	134	5	25
+234399	3	24	No Variant	2020-07-09 — 20:57:11 UTC	Bonja97, mugsly, will.i.am	140	5	25
 234196	5	30	Pink-Ones (6 Suits)	2020-07-09 — 15:14:31 UTC	lotem, sephiroth, TheDaniMan, will.i.am, Zakisan	2	6	30
 234186	5	0	Pink-Ones (6 Suits)	2020-07-09 — 14:53:28 UTC	lotem, sephiroth, TheDaniMan, will.i.am, Zakisan	2	6	30
 234180	4	25	Pink-Ones (5 Suits)	2020-07-09 — 14:36:28 UTC	sephiroth, TheDaniMan, will.i.am, Zakisan	11	5	25
@@ -1223,8 +1223,8 @@
 233441	5	0	Dark Rainbow (5 Suits)	2020-07-08 — 21:29:41 UTC	asaelr, lotem, pianoblook, sephiroth, will.i.am	6	5	25
 233434	5	0	Dark Rainbow (5 Suits)	2020-07-08 — 21:13:05 UTC	asaelr, lotem, pianoblook, sephiroth, will.i.am	9	5	25
 233425	3	0	Black Reversed (6 Suits)	2020-07-08 — 20:58:57 UTC	asaelr, sephiroth, will.i.am	7	6	30
-233248	3	25	No Variant	2020-07-08 — 16:44:25 UTC	Fey, TheDaniMan, will.i.am	106	5	25
-233228	5	23	No Variant	2020-07-08 — 16:10:01 UTC	MarkusKahlsen, Nitrate2, TheDaniMan, will.i.am, Zakisan	51	5	25
+233248	3	25	No Variant	2020-07-08 — 16:44:25 UTC	Fey, TheDaniMan, will.i.am	111	5	25
+233228	5	23	No Variant	2020-07-08 — 16:10:01 UTC	MarkusKahlsen, Nitrate2, TheDaniMan, will.i.am, Zakisan	52	5	25
 233013	5	21	Clue Starved (5 Suits)	2020-07-08 — 06:14:02 UTC	derekcheah, pianoblook, piper, TheDaniMan, will.i.am	3	5	25
 232980	5	0	Clue Starved (5 Suits)	2020-07-08 — 05:34:49 UTC	derekcheah, pianoblook, piper, TheDaniMan, will.i.am	3	5	25
 232962	6	25	Clue Starved (5 Suits)	2020-07-08 — 05:11:56 UTC	derekcheah, pianoblook, piper, scharkbite, TheDaniMan, will.i.am	1	5	25
@@ -1235,21 +1235,21 @@
 232400	5	0	Clue Starved (5 Suits)	2020-07-07 — 20:00:05 UTC	pianoblook, piper, plus, sephiroth, will.i.am	4	5	25
 232368	5	22	Clue Starved (5 Suits)	2020-07-07 — 19:18:14 UTC	pianoblook, piper, plus, sephiroth, will.i.am	8	5	25
 232350	4	21	No Variant	2020-07-07 — 18:37:39 UTC	Bonja97, Emory, MarekU, will.i.am	116	5	25
-232331	4	24	No Variant	2020-07-07 — 18:14:42 UTC	Bonja97, Emory, MarekU, will.i.am	117	5	25
+232331	4	24	No Variant	2020-07-07 — 18:14:42 UTC	Bonja97, Emory, MarekU, will.i.am	119	5	25
 231943	4	25	Pink & White (5 Suits)	2020-07-07 — 02:36:28 UTC	derekcheah, padi, pianoblook, will.i.am	3	5	25
 231904	4	0	Pink & White (5 Suits)	2020-07-07 — 02:10:57 UTC	derekcheah, padi, pianoblook, will.i.am	4	5	25
-231892	4	0	Pink & White (5 Suits)	2020-07-07 — 01:57:04 UTC	derekcheah, padi, pianoblook, will.i.am	3	5	25
+231892	4	0	Pink & White (5 Suits)	2020-07-07 — 01:57:04 UTC	derekcheah, padi, pianoblook, will.i.am	4	5	25
 231852	4	0	Pink & White (5 Suits)	2020-07-07 — 01:34:59 UTC	derekcheah, padi, pianoblook, will.i.am	6	5	25
 231809	5	22	Muddy Rainbow (5 Suits)	2020-07-07 — 01:09:39 UTC	derekcheah, Kyle, pianoblook, scharkbite, will.i.am	8	5	25
 231766	5	0	Muddy Rainbow (5 Suits)	2020-07-07 — 00:42:42 UTC	derekcheah, Kyle, pianoblook, scharkbite, will.i.am	14	5	25
-231689	4	0	Rainbow (6 Suits)	2020-07-07 — 00:11:36 UTC	eliyahu, honzas, pianoblook, will.i.am	122	6	30
+231689	4	0	Rainbow (6 Suits)	2020-07-07 — 00:11:36 UTC	eliyahu, honzas, pianoblook, will.i.am	123	6	30
 231528	5	0	Pink & Cocoa Rainbow (5 Suits)	2020-07-06 — 22:20:53 UTC	DMoney, Floriman, lotem, scharkbite, will.i.am	1	5	25
 231208	4	21	Gray Reversed (5 Suits)	2020-07-06 — 15:56:41 UTC	Kyle, MarkusKahlsen, micerang, will.i.am	5	5	25
 231197	3	23	Gray Reversed (5 Suits)	2020-07-06 — 15:26:52 UTC	Kyle, MarkusKahlsen, will.i.am	4	5	25
 231193	3	20	Gray Reversed (5 Suits)	2020-07-06 — 15:00:46 UTC	Kyle, MarkusKahlsen, will.i.am	4	5	25
 231021	5	29	Up or Down (6 Suits)	2020-07-06 — 05:31:58 UTC	antitelharsic, derekcheah, Pablo-, plus, will.i.am	8	6	30
-230992	3	24	Up or Down (5 Suits)	2020-07-06 — 04:58:43 UTC	derekcheah, plus, will.i.am	42	5	25
-230960	3	15	3 Suits	2020-07-06 — 04:15:18 UTC	kooolant, Smandon, will.i.am	115	3	15
+230992	3	24	Up or Down (5 Suits)	2020-07-06 — 04:58:43 UTC	derekcheah, plus, will.i.am	44	5	25
+230960	3	15	3 Suits	2020-07-06 — 04:15:18 UTC	kooolant, Smandon, will.i.am	116	3	15
 230928	5	20	Gray Reversed (5 Suits)	2020-07-06 — 03:53:50 UTC	kooolant, qbphoenix, scharkbite, Smandon, will.i.am	3	5	25
 230865	3	0	Gray Reversed (5 Suits)	2020-07-06 — 03:17:34 UTC	qbphoenix, scharkbite, will.i.am	6	5	25
 230835	3	0	Gray Reversed (5 Suits)	2020-07-06 — 03:02:56 UTC	qbphoenix, scharkbite, will.i.am	5	5	25
@@ -1274,12 +1274,12 @@
 228409	4	0	Rainbow & Null (5 Suits)	2020-07-03 — 23:31:37 UTC	honzas, melwen, sephiroth, will.i.am	2	5	25
 228391	4	0	Rainbow & Null (5 Suits)	2020-07-03 — 23:17:08 UTC	honzas, melwen, sephiroth, will.i.am	2	5	25
 227958	4	24	Rainbow & White (5 Suits)	2020-07-03 — 16:38:28 UTC	DMoney, pianoblook, piper, will.i.am	6	5	25
-227937	3	25	Rainbow & White (5 Suits)	2020-07-03 — 16:05:22 UTC	pianoblook, piper, will.i.am	9	5	25
+227937	3	25	Rainbow & White (5 Suits)	2020-07-03 — 16:05:22 UTC	pianoblook, piper, will.i.am	10	5	25
 227611	4	0	Pink-Ones & White (5 Suits)	2020-07-03 — 04:02:21 UTC	pianoblook, plus, swineherd, will.i.am	2	5	25
 227589	4	23	Pink-Ones & White (5 Suits)	2020-07-03 — 03:44:54 UTC	pianoblook, plus, swineherd, will.i.am	4	5	25
 227532	4	24	No Variant	2020-07-03 — 02:56:36 UTC	Dr_Kakashi, kimbifille, Smandon, will.i.am	8	5	25
-227494	3	13	3 Suits	2020-07-03 — 02:24:53 UTC	kimbifille, Smandon, will.i.am	144	3	15
-227413	3	28	Cocoa Rainbow (6 Suits)	2020-07-03 — 01:39:08 UTC	Dr_Kakashi, kimbifille, will.i.am	32	6	30
+227494	3	13	3 Suits	2020-07-03 — 02:24:53 UTC	kimbifille, Smandon, will.i.am	146	3	15
+227413	3	28	Cocoa Rainbow (6 Suits)	2020-07-03 — 01:39:08 UTC	Dr_Kakashi, kimbifille, will.i.am	33	6	30
 227229	3	21	Special Mix (5 Suits)	2020-07-02 — 23:47:29 UTC	Cory, melwen, will.i.am	14	5	25
 227136	3	0	Special Mix (5 Suits)	2020-07-02 — 23:17:05 UTC	Cory, melwen, will.i.am	17	5	25
 227016	5	27	Black & White (6 Suits)	2020-07-02 — 21:44:34 UTC	DMoney, MarkusKahlsen, plus, tyrcho, will.i.am	4	6	30
@@ -1289,12 +1289,12 @@
 226935	4	25	Pink & White (5 Suits)	2020-07-02 — 20:31:30 UTC	MarkusKahlsen, melwen, plus, will.i.am	11	5	25
 226894	4	25	White & Brown (5 Suits)	2020-07-02 — 20:07:59 UTC	MarkusKahlsen, plus, will.i.am, Zakisan	12	5	25
 226864	3	0	Pink & Brown (5 Suits)	2020-07-02 — 19:50:52 UTC	MarkusKahlsen, plus, will.i.am	20	5	25
-226758	3	25	Brown (5 Suits)	2020-07-02 — 16:30:43 UTC	honzas, sephiroth, will.i.am	63	5	25
+226758	3	25	Brown (5 Suits)	2020-07-02 — 16:30:43 UTC	honzas, sephiroth, will.i.am	65	5	25
 226729	5	27	Brown (6 Suits)	2020-07-02 — 15:36:47 UTC	DMoney, honzas, pianoblook, piper, will.i.am	6	6	30
 226363	4	0	Black & Brown (5 Suits)	2020-07-02 — 03:14:14 UTC	derekcheah, drew.levitt, swineherd, will.i.am	11	5	25
 226338	4	0	Black & Brown (5 Suits)	2020-07-02 — 02:55:32 UTC	derekcheah, drew.levitt, swineherd, will.i.am	8	5	25
-226214	4	24	No Variant	2020-07-02 — 01:37:33 UTC	melwen, qbphoenix, swineherd, will.i.am	24	5	25
-226162	4	0	No Variant	2020-07-02 — 01:16:55 UTC	melwen, qbphoenix, swineherd, will.i.am	25	5	25
+226214	4	24	No Variant	2020-07-02 — 01:37:33 UTC	melwen, qbphoenix, swineherd, will.i.am	25	5	25
+226162	4	0	No Variant	2020-07-02 — 01:16:55 UTC	melwen, qbphoenix, swineherd, will.i.am	27	5	25
 226123	3	0	Omni-Fives & Pink (5 Suits)	2020-07-02 — 00:58:30 UTC	melwen, qbphoenix, will.i.am	2	5	25
 226089	5	0	Dark Omni (6 Suits)	2020-07-02 — 00:30:17 UTC	honzas, Kyle, melwen, will.i.am, Zamiel	2	6	30
 225899	5	23	Brown (5 Suits)	2020-07-01 — 22:38:16 UTC	derekcheah, Kyle, padi, plus, will.i.am	1	5	25
@@ -1302,7 +1302,7 @@
 225872	5	0	Brown (5 Suits)	2020-07-01 — 22:01:54 UTC	derekcheah, Kyle, padi, plus, will.i.am	1	5	25
 225855	5	0	Brown (5 Suits)	2020-07-01 — 21:47:40 UTC	derekcheah, Kyle, padi, plus, will.i.am	1	5	25
 225839	4	0	Dark Brown (5 Suits)	2020-07-01 — 21:36:13 UTC	derekcheah, Kyle, padi, will.i.am	5	5	25
-225827	4	24	Dark Brown (5 Suits)	2020-07-01 — 21:24:41 UTC	derekcheah, Kyle, padi, will.i.am	8	5	25
+225827	4	24	Dark Brown (5 Suits)	2020-07-01 — 21:24:41 UTC	derekcheah, Kyle, padi, will.i.am	9	5	25
 225718	3	23	Pink & Light Pink (5 Suits)	2020-07-01 — 19:46:29 UTC	pianoblook, scharkbite, will.i.am	11	5	25
 225330	4	25	Up or Down & Pink (5 Suits)	2020-07-01 — 05:19:39 UTC	derekcheah, pianoblook, plus, will.i.am	12	5	25
 225230	6	20	Special Mix (5 Suits)	2020-07-01 — 04:04:47 UTC	derekcheah, kooolant, melwen, scharkbite, swineherd, will.i.am	4	5	25
@@ -1323,7 +1323,7 @@
 224488	6	0	Rainbow & Null (5 Suits)	2020-06-30 — 18:26:21 UTC	DMoney, Floriman, Kyle, melwen, plus, will.i.am	1	5	25
 224477	6	0	Rainbow & Null (5 Suits)	2020-06-30 — 18:08:40 UTC	DMoney, Floriman, Kyle, melwen, plus, will.i.am	1	5	25
 224128	6	0	Rainbow & Null (5 Suits)	2020-06-30 — 04:23:44 UTC	derekcheah, MasN, melwen, pianoblook, scharkbite, will.i.am	1	5	25
-224103	3	19	No Variant	2020-06-30 — 04:06:04 UTC	swineherd, Takumi, will.i.am	154	5	25
+224103	3	19	No Variant	2020-06-30 — 04:06:04 UTC	swineherd, Takumi, will.i.am	157	5	25
 224003	4	0	Rainbow & Null (5 Suits)	2020-06-30 — 03:13:33 UTC	Cory, melwen, scharkbite, will.i.am	1	5	25
 223943	4	0	Rainbow & Null (5 Suits)	2020-06-30 — 02:38:07 UTC	Cory, melwen, scharkbite, will.i.am	1	5	25
 223896	4	0	Rainbow & Null (5 Suits)	2020-06-30 — 02:21:35 UTC	Cory, melwen, scharkbite, will.i.am	1	5	25
@@ -1338,14 +1338,14 @@
 223336	5	0	White & Null (5 Suits)	2020-06-29 — 19:59:42 UTC	DMoney, pianoblook, swineherd, will.i.am, Zakisan	2	5	25
 223324	3	0	White & Null (5 Suits)	2020-06-29 — 19:40:05 UTC	DMoney, will.i.am, Zakisan	4	5	25
 223311	5	24	White & Null (5 Suits)	2020-06-29 — 19:23:21 UTC	DMoney, MarkusKahlsen, Nitrate2, will.i.am, Zakisan	2	5	25
-223196	4	0	Pink (6 Suits)	2020-06-29 — 14:51:17 UTC	metta, sephiroth, Tiramisu1th, will.i.am	70	6	30
+223196	4	0	Pink (6 Suits)	2020-06-29 — 14:51:17 UTC	metta, sephiroth, Tiramisu1th, will.i.am	71	6	30
 223193	5	24	Pink (5 Suits)	2020-06-29 — 13:54:40 UTC	MarkusKahlsen, melwen, metta, sephiroth, will.i.am	9	5	25
 223191	4	0	White & Null (5 Suits)	2020-06-29 — 13:27:53 UTC	MarkusKahlsen, melwen, sephiroth, will.i.am	1	5	25
-222885	3	25	Up or Down & White (5 Suits)	2020-06-29 — 03:34:53 UTC	derekcheah, Smandon, will.i.am	12	5	25
+222885	3	25	Up or Down & White (5 Suits)	2020-06-29 — 03:34:53 UTC	derekcheah, Smandon, will.i.am	13	5	25
 222837	5	27	Up or Down & White (6 Suits)	2020-06-29 — 02:59:23 UTC	derekcheah, melwen, Nitrate2, Smandon, will.i.am	7	6	30
 222519	5	21	No Variant	2020-06-28 — 22:57:13 UTC	derekcheah, melwen, reeleis, swineherd, will.i.am	39	5	25
 222205	3	25	Up or Down & Rainbow (5 Suits)	2020-06-28 — 20:28:39 UTC	honzas, Nitrate2, will.i.am	19	5	25
-222144	3	0	Up or Down & Rainbow (5 Suits)	2020-06-28 — 20:01:38 UTC	honzas, Nitrate2, will.i.am	23	5	25
+222144	3	0	Up or Down & Rainbow (5 Suits)	2020-06-28 — 20:01:38 UTC	honzas, Nitrate2, will.i.am	24	5	25
 221702	3	25	Null (5 Suits)	2020-06-28 — 05:18:45 UTC	derekcheah, melwen, will.i.am	16	5	25
 221681	3	0	Null (5 Suits)	2020-06-28 — 04:58:05 UTC	derekcheah, melwen, will.i.am	17	5	25
 221659	3	0	Null (5 Suits)	2020-06-28 — 04:37:42 UTC	derekcheah, melwen, will.i.am	18	5	25
@@ -1366,7 +1366,7 @@
 220118	4	0	Black & Null (5 Suits)	2020-06-27 — 02:30:43 UTC	melwen, piper, TimeHoodie, will.i.am	3	5	25
 220084	4	0	Black & Null (5 Suits)	2020-06-27 — 02:11:21 UTC	melwen, piper, TimeHoodie, will.i.am	3	5	25
 220045	3	25	Special Mix (5 Suits)	2020-06-27 — 01:45:51 UTC	derekcheah, melwen, will.i.am	14	5	25
-219968	3	0	No Variant	2020-06-27 — 00:40:47 UTC	DMoney, lunaluna, will.i.am	148	5	25
+219968	3	0	No Variant	2020-06-27 — 00:40:47 UTC	DMoney, lunaluna, will.i.am	149	5	25
 219551	3	0	Black & Null (5 Suits)	2020-06-26 — 18:45:01 UTC	derekcheah, Kyle, will.i.am	7	5	25
 219517	3	22	Black & Null (5 Suits)	2020-06-26 — 18:14:09 UTC	derekcheah, micerang, will.i.am	4	5	25
 219459	3	25	Brown (5 Suits)	2020-06-26 — 17:00:03 UTC	DMoney, pianoblook, will.i.am	25	5	25
@@ -1374,7 +1374,7 @@
 218943	4	25	Null (5 Suits)	2020-06-26 — 02:44:09 UTC	antitelharsic, DMoney, swineherd, will.i.am	4	5	25
 218694	4	0	Null (5 Suits)	2020-06-26 — 00:30:56 UTC	ch4daemon, g07h4xf00, melwen, will.i.am	4	5	25
 218497	4	22	Null (5 Suits)	2020-06-25 — 22:12:23 UTC	derekcheah, MarkusKahlsen, robense, will.i.am	6	5	25
-218443	4	0	Null (5 Suits)	2020-06-25 — 21:32:21 UTC	derekcheah, MarkusKahlsen, robense, will.i.am	7	5	25
+218443	4	0	Null (5 Suits)	2020-06-25 — 21:32:21 UTC	derekcheah, MarkusKahlsen, robense, will.i.am	8	5	25
 218375	4	25	Special Mix (5 Suits)	2020-06-25 — 20:23:18 UTC	padi, pianoblook, TheDaniMan, will.i.am	4	5	25
 218301	3	23	Clue Starved (5 Suits)	2020-06-25 — 19:07:48 UTC	pianoblook, sephiroth, will.i.am	2	5	25
 218284	3	0	Clue Starved (5 Suits)	2020-06-25 — 18:45:06 UTC	pianoblook, sephiroth, will.i.am	2	5	25
@@ -1432,21 +1432,21 @@
 214607	4	0	Special Mix (5 Suits)	2020-06-22 — 00:57:34 UTC	melwen, Nitrate2, sephiroth, will.i.am	5	5	25
 214600	4	22	Special Mix (5 Suits)	2020-06-22 — 00:52:27 UTC	melwen, Nitrate2, sephiroth, will.i.am	5	5	25
 214547	4	19	Special Mix (5 Suits)	2020-06-21 — 23:30:19 UTC	melwen, Nitrate2, sephiroth, will.i.am	5	5	25
-214355	5	0	No Variant	2020-06-21 — 20:08:52 UTC	McPhisto2051, mike5599, Smandon, swineherd, will.i.am	80	5	25
+214355	5	0	No Variant	2020-06-21 — 20:08:52 UTC	McPhisto2051, mike5599, Smandon, swineherd, will.i.am	81	5	25
 213841	4	23	Special Mix (5 Suits)	2020-06-21 — 04:45:26 UTC	kooolant, melwen, scharkbite, will.i.am	5	5	25
 213787	4	0	Special Mix (5 Suits)	2020-06-21 — 04:09:42 UTC	kooolant, melwen, scharkbite, will.i.am	5	5	25
 213734	4	0	Special Mix (5 Suits)	2020-06-21 — 03:31:44 UTC	melwen, scharkbite, sephiroth, will.i.am	5	5	25
 213674	4	19	Special Mix (5 Suits)	2020-06-21 — 02:47:58 UTC	melwen, scharkbite, sephiroth, will.i.am	6	5	25
-213601	6	0	Special Mix (5 Suits)	2020-06-21 — 01:53:42 UTC	melwen, Pablo-, scharkbite, sephiroth, TheDaniMan, will.i.am	3	5	25
+213601	6	0	Special Mix (5 Suits)	2020-06-21 — 01:53:42 UTC	melwen, Pablo-, scharkbite, sephiroth, TheDaniMan, will.i.am	4	5	25
 213584	6	0	Special Mix (5 Suits)	2020-06-21 — 01:38:15 UTC	melwen, Pablo-, scharkbite, sephiroth, TheDaniMan, will.i.am	5	5	25
-213547	6	0	Special Mix (5 Suits)	2020-06-21 — 01:11:10 UTC	melwen, Pablo-, scharkbite, sephiroth, TheDaniMan, will.i.am	5	5	25
+213547	6	0	Special Mix (5 Suits)	2020-06-21 — 01:11:10 UTC	melwen, Pablo-, scharkbite, sephiroth, TheDaniMan, will.i.am	6	5	25
 213436	4	0	Special Mix (5 Suits)	2020-06-20 — 23:31:45 UTC	derekcheah, swineherd, TheDaniMan, will.i.am	6	5	25
 213415	4	0	Special Mix (5 Suits)	2020-06-20 — 23:13:32 UTC	derekcheah, swineherd, TheDaniMan, will.i.am	7	5	25
 213407	4	0	Special Mix (5 Suits)	2020-06-20 — 23:07:16 UTC	derekcheah, swineherd, TheDaniMan, will.i.am	9	5	25
 213396	4	0	Special Mix (5 Suits)	2020-06-20 — 22:55:56 UTC	derekcheah, swineherd, TheDaniMan, will.i.am	18	5	25
 213371	4	22	No Variant	2020-06-20 — 22:40:30 UTC	newduke, Pablo-, swineherd, will.i.am	129	5	25
 213130	5	22	Dark Brown (5 Suits)	2020-06-20 — 19:32:20 UTC	asaelr, Floriman, MasN, TimeHoodie, will.i.am	6	5	25
-213110	4	23	Dark Brown (5 Suits)	2020-06-20 — 19:08:56 UTC	MasN, TimeHoodie, Valetta6789, will.i.am	10	5	25
+213110	4	23	Dark Brown (5 Suits)	2020-06-20 — 19:08:56 UTC	MasN, TimeHoodie, Valetta6789, will.i.am	11	5	25
 212562	3	28	Black & Dark Rainbow (6 Suits)	2020-06-20 — 04:36:53 UTC	pianoblook, scharkbite, will.i.am	7	6	30
 212518	5	0	Special Mix (5 Suits)	2020-06-20 — 04:00:33 UTC	melwen, pianoblook, scharkbite, sephiroth, will.i.am	9	5	25
 212473	5	0	Special Mix (5 Suits)	2020-06-20 — 03:35:15 UTC	melwen, pianoblook, scharkbite, sephiroth, will.i.am	11	5	25
@@ -1469,7 +1469,7 @@
 211172	5	24	Pink & White (5 Suits)	2020-06-19 — 02:15:55 UTC	derekcheah, melwen, Nitrate2, TheDaniMan, will.i.am	4	5	25
 211088	5	0	Pink & White (5 Suits)	2020-06-19 — 01:31:02 UTC	derekcheah, melwen, Nitrate2, TheDaniMan, will.i.am	5	5	25
 211063	5	0	Pink & White (5 Suits)	2020-06-19 — 01:11:29 UTC	derekcheah, melwen, Nitrate2, TheDaniMan, will.i.am	7	5	25
-211030	4	23	Dark Brown (5 Suits)	2020-06-19 — 00:40:15 UTC	kimbifille, kooolant, plus, will.i.am	12	5	25
+211030	4	23	Dark Brown (5 Suits)	2020-06-19 — 00:40:15 UTC	kimbifille, kooolant, plus, will.i.am	13	5	25
 210948	4	24	Black Reversed (5 Suits)	2020-06-18 — 22:34:51 UTC	asaelr, plus, TimeHoodie, will.i.am	8	5	25
 210919	4	0	Black Reversed (5 Suits)	2020-06-18 — 22:02:04 UTC	derekcheah, plus, TheDaniMan, will.i.am	3	5	25
 210897	4	0	Black Reversed (5 Suits)	2020-06-18 — 21:40:10 UTC	derekcheah, plus, TheDaniMan, will.i.am	4	5	25
@@ -1478,17 +1478,17 @@
 210833	4	0	Black Reversed (5 Suits)	2020-06-18 — 20:37:01 UTC	melwen, padi, sephiroth, will.i.am	6	5	25
 210705	4	25	Rainbow Reversed (5 Suits)	2020-06-18 — 18:04:41 UTC	LaFayetteX, MarkusKahlsen, TheDaniMan, will.i.am	4	5	25
 210658	6	25	No Variant	2020-06-18 — 16:36:56 UTC	dealiah, LaFayetteX, Lilliana, sephiroth, TheDaniMan, will.i.am	25	5	25
-210632	3	23	No Variant	2020-06-18 — 15:53:26 UTC	dealiah, sephiroth, will.i.am	151	5	25
-210288	4	20	Rainbow Reversed (5 Suits)	2020-06-18 — 04:05:07 UTC	derekcheah, drew.levitt, kooolant, will.i.am	5	5	25
-210229	4	0	Rainbow Reversed (5 Suits)	2020-06-18 — 03:34:32 UTC	derekcheah, drew.levitt, kooolant, will.i.am	11	5	25
+210632	3	23	No Variant	2020-06-18 — 15:53:26 UTC	dealiah, sephiroth, will.i.am	153	5	25
+210288	4	20	Rainbow Reversed (5 Suits)	2020-06-18 — 04:05:07 UTC	derekcheah, drew.levitt, kooolant, will.i.am	6	5	25
+210229	4	0	Rainbow Reversed (5 Suits)	2020-06-18 — 03:34:32 UTC	derekcheah, drew.levitt, kooolant, will.i.am	13	5	25
 210028	5	24	Black Reversed (5 Suits)	2020-06-18 — 01:24:57 UTC	Lilliana, melwen, qbphoenix, scharkbite, will.i.am	2	5	25
 209988	4	20	Black Reversed (5 Suits)	2020-06-18 — 00:58:09 UTC	Lilliana, qbphoenix, scharkbite, will.i.am	3	5	25
 209953	4	23	Black Reversed (5 Suits)	2020-06-18 — 00:31:35 UTC	derekcheah, qbphoenix, scharkbite, will.i.am	3	5	25
 209933	4	0	Black Reversed (5 Suits)	2020-06-18 — 00:14:07 UTC	derekcheah, qbphoenix, scharkbite, will.i.am	4	5	25
-209815	5	0	No Variant	2020-06-17 — 21:40:04 UTC	Lilliana, sephiroth, swineherd, will.i.am, Wittvector	67	5	25
-209799	5	0	No Variant	2020-06-17 — 21:23:04 UTC	Lilliana, sephiroth, swineherd, will.i.am, Wittvector	77	5	25
-209789	5	0	No Variant	2020-06-17 — 21:09:41 UTC	Lilliana, sephiroth, swineherd, will.i.am, Wittvector	100	5	25
-209659	4	25	No Variant	2020-06-17 — 18:39:09 UTC	MarkusKahlsen, sephiroth, will.i.am, Wittvector	149	5	25
+209815	5	0	No Variant	2020-06-17 — 21:40:04 UTC	Lilliana, sephiroth, swineherd, will.i.am, Wittvector	68	5	25
+209799	5	0	No Variant	2020-06-17 — 21:23:04 UTC	Lilliana, sephiroth, swineherd, will.i.am, Wittvector	78	5	25
+209789	5	0	No Variant	2020-06-17 — 21:09:41 UTC	Lilliana, sephiroth, swineherd, will.i.am, Wittvector	102	5	25
+209659	4	25	No Variant	2020-06-17 — 18:39:09 UTC	MarkusKahlsen, sephiroth, will.i.am, Wittvector	150	5	25
 209577	4	25	Ambiguous & White (5 Suits)	2020-06-17 — 15:42:06 UTC	honzas, Livia, Valetta6789, will.i.am	5	5	25
 209566	4	0	Ambiguous & White (5 Suits)	2020-06-17 — 15:20:05 UTC	Floriman, honzas, Livia, will.i.am	9	5	25
 209560	4	0	Ambiguous & Black (5 Suits)	2020-06-17 — 14:58:52 UTC	Floriman, honzas, Livia, will.i.am	2	5	25
@@ -1500,33 +1500,33 @@
 208877	5	30	Black & Brown (6 Suits)	2020-06-16 — 21:08:55 UTC	MarkusKahlsen, scharkbite, sephiroth, TheDaniMan, will.i.am	6	6	30
 208850	5	0	Black & Brown (6 Suits)	2020-06-16 — 20:40:00 UTC	MarkusKahlsen, scharkbite, sephiroth, TheDaniMan, will.i.am	8	6	30
 208830	5	26	Gray Pink (6 Suits)	2020-06-16 — 20:22:20 UTC	scharkbite, sephiroth, swineherd, TheDaniMan, will.i.am	3	6	30
-208799	4	29	Gray Pink (6 Suits)	2020-06-16 — 19:55:16 UTC	sephiroth, swineherd, TheDaniMan, will.i.am	7	6	30
-208780	4	0	Gray Pink (6 Suits)	2020-06-16 — 19:20:58 UTC	sephiroth, swineherd, TheDaniMan, will.i.am	7	6	30
-208768	4	0	Gray Pink (6 Suits)	2020-06-16 — 19:01:15 UTC	sephiroth, swineherd, TheDaniMan, will.i.am	12	6	30
+208799	4	29	Gray Pink (6 Suits)	2020-06-16 — 19:55:16 UTC	sephiroth, swineherd, TheDaniMan, will.i.am	8	6	30
+208780	4	0	Gray Pink (6 Suits)	2020-06-16 — 19:20:58 UTC	sephiroth, swineherd, TheDaniMan, will.i.am	8	6	30
+208768	4	0	Gray Pink (6 Suits)	2020-06-16 — 19:01:15 UTC	sephiroth, swineherd, TheDaniMan, will.i.am	14	6	30
 208398	5	0	Brown (5 Suits)	2020-06-16 — 04:19:28 UTC	micerang, newduke, Nitrate2, scharkbite, will.i.am	2	5	25
 208126	3	25	Pink & White (5 Suits)	2020-06-16 — 01:25:38 UTC	pianoblook, TheDaniMan, will.i.am	7	5	25
 208073	3	0	Pink & White (5 Suits)	2020-06-16 — 00:47:33 UTC	pianoblook, TheDaniMan, will.i.am	14	5	25
-208055	2	0	Pink & White (5 Suits)	2020-06-16 — 00:21:29 UTC	TheDaniMan, will.i.am	31	5	25
-207814	4	24	Alternating Clues (5 Suits)	2020-06-15 — 20:35:43 UTC	LaFayetteX, padi, sephiroth, will.i.am	13	5	25
+208055	2	0	Pink & White (5 Suits)	2020-06-16 — 00:21:29 UTC	TheDaniMan, will.i.am	33	5	25
+207814	4	24	Alternating Clues (5 Suits)	2020-06-15 — 20:35:43 UTC	LaFayetteX, padi, sephiroth, will.i.am	14	5	25
 207776	3	22	Alternating Clues (5 Suits)	2020-06-15 — 20:04:17 UTC	padi, sephiroth, will.i.am	24	5	25
 207624	5	25	Clue Starved (5 Suits)	2020-06-15 — 16:32:55 UTC	melwen, padi, sephiroth, swineherd, will.i.am	7	5	25
 207607	3	24	Clue Starved (5 Suits)	2020-06-15 — 15:43:11 UTC	padi, sephiroth, will.i.am	2	5	25
 207177	3	0	Clue Starved (5 Suits)	2020-06-15 — 03:33:34 UTC	melwen, sephiroth, will.i.am	6	5	25
 207166	3	0	Clue Starved (5 Suits)	2020-06-15 — 03:22:18 UTC	melwen, sephiroth, will.i.am	9	5	25
 207126	3	0	Clue Starved (5 Suits)	2020-06-15 — 02:58:58 UTC	melwen, sephiroth, will.i.am	10	5	25
-207082	3	0	Clue Starved (5 Suits)	2020-06-15 — 02:31:31 UTC	melwen, sephiroth, will.i.am	10	5	25
-207052	3	0	Clue Starved (5 Suits)	2020-06-15 — 02:16:11 UTC	melwen, sephiroth, will.i.am	13	5	25
-207038	3	0	Clue Starved (5 Suits)	2020-06-15 — 02:07:53 UTC	melwen, sephiroth, will.i.am	16	5	25
-206992	3	0	Clue Starved (5 Suits)	2020-06-15 — 01:44:22 UTC	melwen, sephiroth, will.i.am	18	5	25
+207082	3	0	Clue Starved (5 Suits)	2020-06-15 — 02:31:31 UTC	melwen, sephiroth, will.i.am	11	5	25
+207052	3	0	Clue Starved (5 Suits)	2020-06-15 — 02:16:11 UTC	melwen, sephiroth, will.i.am	14	5	25
+207038	3	0	Clue Starved (5 Suits)	2020-06-15 — 02:07:53 UTC	melwen, sephiroth, will.i.am	17	5	25
+206992	3	0	Clue Starved (5 Suits)	2020-06-15 — 01:44:22 UTC	melwen, sephiroth, will.i.am	19	5	25
 206944	3	0	Clue Starved (5 Suits)	2020-06-15 — 01:22:20 UTC	melwen, sephiroth, will.i.am	22	5	25
 206913	3	0	Clue Starved (5 Suits)	2020-06-15 — 01:03:23 UTC	melwen, sephiroth, will.i.am	33	5	25
 206775	4	30	Clue Starved & Pink (6 Suits)	2020-06-14 — 23:24:38 UTC	asaelr, Dr_Kakashi, scharkbite, will.i.am	2	6	30
 206748	4	0	Clue Starved & Pink (6 Suits)	2020-06-14 — 22:58:52 UTC	asaelr, Dr_Kakashi, scharkbite, will.i.am	4	6	30
 206730	4	0	Clue Starved & Pink (6 Suits)	2020-06-14 — 22:40:53 UTC	asaelr, Dr_Kakashi, scharkbite, will.i.am	4	6	30
-206715	2	0	Clue Starved (5 Suits)	2020-06-14 — 22:26:24 UTC	asaelr, will.i.am	21	5	25
-206709	2	0	Clue Starved (5 Suits)	2020-06-14 — 22:20:37 UTC	asaelr, will.i.am	23	5	25
-206698	2	24	Clue Starved (5 Suits)	2020-06-14 — 22:13:58 UTC	asaelr, will.i.am	32	5	25
-206674	2	0	Clue Starved (5 Suits)	2020-06-14 — 21:56:59 UTC	asaelr, will.i.am	46	5	25
+206715	2	0	Clue Starved (5 Suits)	2020-06-14 — 22:26:24 UTC	asaelr, will.i.am	22	5	25
+206709	2	0	Clue Starved (5 Suits)	2020-06-14 — 22:20:37 UTC	asaelr, will.i.am	24	5	25
+206698	2	24	Clue Starved (5 Suits)	2020-06-14 — 22:13:58 UTC	asaelr, will.i.am	33	5	25
+206674	2	0	Clue Starved (5 Suits)	2020-06-14 — 21:56:59 UTC	asaelr, will.i.am	47	5	25
 205307	4	0	Clue Starved (5 Suits)	2020-06-13 — 19:26:34 UTC	MarkusKahlsen, pianoblook, schildknaapje, will.i.am	19	5	25
 204646	6	24	Throw It in a Hole (5 Suits)	2020-06-13 — 04:11:06 UTC	Lilliana, melwen, sephiroth, TheDaniMan, TimeHoodie, will.i.am	1	5	25
 204588	6	0	Throw It in a Hole (5 Suits)	2020-06-13 — 03:35:57 UTC	Lilliana, melwen, sephiroth, TheDaniMan, TimeHoodie, will.i.am	1	5	25
@@ -1535,13 +1535,13 @@
 204104	4	22	Special Mix (5 Suits)	2020-06-12 — 22:18:03 UTC	Lilliana, scharkbite, TheDaniMan, will.i.am	10	5	25
 204078	4	0	Special Mix (5 Suits)	2020-06-12 — 21:52:15 UTC	Lilliana, scharkbite, TheDaniMan, will.i.am	12	5	25
 203947	4	0	Rainbow-Fives & Rainbow (5 Suits)	2020-06-12 — 20:18:21 UTC	scharkbite, sephiroth, swineherd, will.i.am	1	5	25
-203745	3	25	Throw It in a Hole (5 Suits)	2020-06-12 — 16:57:35 UTC	Animex52, TheDaniMan, will.i.am	30	5	25
-203730	3	0	Throw It in a Hole (5 Suits)	2020-06-12 — 16:29:56 UTC	Animex52, TheDaniMan, will.i.am	52	5	25
+203745	3	25	Throw It in a Hole (5 Suits)	2020-06-12 — 16:57:35 UTC	Animex52, TheDaniMan, will.i.am	31	5	25
+203730	3	0	Throw It in a Hole (5 Suits)	2020-06-12 — 16:29:56 UTC	Animex52, TheDaniMan, will.i.am	53	5	25
 203417	4	30	Cocoa Rainbow (6 Suits)	2020-06-12 — 04:59:20 UTC	Dr_Kakashi, scharkbite, TheDaniMan, will.i.am	2	6	30
 203383	4	0	Cocoa Rainbow (6 Suits)	2020-06-12 — 04:37:14 UTC	Dr_Kakashi, scharkbite, TheDaniMan, will.i.am	2	6	30
-203250	4	0	Duck (5 Suits)	2020-06-12 — 03:12:12 UTC	melwen, Nitrate2, sephiroth, will.i.am	27	5	25
-203187	5	0	White Reversed (5 Suits)	2020-06-12 — 02:35:32 UTC	joaep2, melwen, Nitrate2, sephiroth, will.i.am	3	5	25
-203044	3	20	Pink (4 Suits)	2020-06-12 — 01:03:40 UTC	joaep2, Lilliana, will.i.am	59	4	20
+203250	4	0	Duck (5 Suits)	2020-06-12 — 03:12:12 UTC	melwen, Nitrate2, sephiroth, will.i.am	28	5	25
+203187	5	0	White Reversed (5 Suits)	2020-06-12 — 02:35:32 UTC	joaep2, melwen, Nitrate2, sephiroth, will.i.am	4	5	25
+203044	3	20	Pink (4 Suits)	2020-06-12 — 01:03:40 UTC	joaep2, Lilliana, will.i.am	60	4	20
 202948	4	0	Rainbow Reversed (6 Suits)	2020-06-11 — 23:55:31 UTC	Lilliana, melwen, TheDaniMan, will.i.am	4	6	30
 202929	4	0	Rainbow Reversed (6 Suits)	2020-06-11 — 23:34:43 UTC	Lilliana, melwen, TheDaniMan, will.i.am	4	6	30
 202923	4	0	Rainbow Reversed (6 Suits)	2020-06-11 — 23:29:55 UTC	Lilliana, melwen, TheDaniMan, will.i.am	11	6	30
@@ -1557,12 +1557,12 @@
 202110	4	0	Null (5 Suits)	2020-06-11 — 01:41:06 UTC	melwen, sephiroth, TheDaniMan, will.i.am	7	5	25
 202085	4	0	Null (5 Suits)	2020-06-11 — 01:26:34 UTC	melwen, sephiroth, TheDaniMan, will.i.am	8	5	25
 202013	4	0	Null (5 Suits)	2020-06-11 — 00:46:52 UTC	melwen, sephiroth, TheDaniMan, will.i.am	20	5	25
-201974	4	0	Null (5 Suits)	2020-06-11 — 00:18:03 UTC	melwen, sephiroth, TheDaniMan, will.i.am	26	5	25
+201974	4	0	Null (5 Suits)	2020-06-11 — 00:18:03 UTC	melwen, sephiroth, TheDaniMan, will.i.am	27	5	25
 201897	4	0	Null (5 Suits)	2020-06-10 — 23:12:21 UTC	derekcheah, pianoblook, TheDaniMan, will.i.am	12	5	25
 201884	4	0	Null (5 Suits)	2020-06-10 — 22:55:06 UTC	derekcheah, pianoblook, TheDaniMan, will.i.am	14	5	25
 201876	3	0	Null (5 Suits)	2020-06-10 — 22:47:11 UTC	derekcheah, pianoblook, will.i.am	18	5	25
-201746	2	28	Pink (6 Suits)	2020-06-10 — 20:59:02 UTC	pianoblook, will.i.am	104	6	30
-201674	4	19	No Variant	2020-06-10 — 20:04:31 UTC	crossproduct, Pablo-, Patrick9, will.i.am	156	5	25
+201746	2	28	Pink (6 Suits)	2020-06-10 — 20:59:02 UTC	pianoblook, will.i.am	106	6	30
+201674	4	19	No Variant	2020-06-10 — 20:04:31 UTC	crossproduct, Pablo-, Patrick9, will.i.am	157	5	25
 201559	5	25	Brown (5 Suits)	2020-06-10 — 18:25:53 UTC	Lilliana, lotem, TheDaniMan, will.i.am, Zakisan	7	5	25
 201433	5	27	Rainbow (6 Suits)	2020-06-10 — 15:17:56 UTC	Dr_Kakashi, Floriman, melwen, Puzzle, will.i.am	17	6	30
 201416	5	0	Rainbow (6 Suits)	2020-06-10 — 14:46:34 UTC	Dr_Kakashi, Floriman, melwen, Puzzle, will.i.am	22	6	30
@@ -1574,17 +1574,17 @@
 200317	6	0	Reversed (6 Suits)	2020-06-09 — 15:57:20 UTC	Dr_Kakashi, duckmammal, Fey, sin_faith, TheDaniMan, will.i.am	4	6	30
 200287	4	0	No Variant	2020-06-09 — 14:47:08 UTC	schildknaapje, swineherd, TimeHoodie, will.i.am	130	5	25
 200022	5	28	White Reversed (6 Suits)	2020-06-09 — 05:34:18 UTC	Lilliana, Nitrate2, scharkbite, TheDaniMan, will.i.am	3	6	30
-199981	5	28	White Reversed (6 Suits)	2020-06-09 — 05:02:48 UTC	Lilliana, Nitrate2, scharkbite, TheDaniMan, will.i.am	4	6	30
+199981	5	28	White Reversed (6 Suits)	2020-06-09 — 05:02:48 UTC	Lilliana, Nitrate2, scharkbite, TheDaniMan, will.i.am	5	6	30
 199938	3	0	3 Suits	2020-06-09 — 04:25:00 UTC	Aluap, claudiob, will.i.am	25	3	15
 199920	3	14	3 Suits	2020-06-09 — 04:14:01 UTC	Aluap, claudiob, will.i.am	29	3	15
 199736	5	21	Special Mix (5 Suits)	2020-06-09 — 02:29:08 UTC	derekcheah, melwen, rs1, will.i.am, XMIL	16	5	25
 199633	5	22	No Variant	2020-06-09 — 01:35:08 UTC	Kyle, melwen, Scaramouche129, will.i.am, Zamiel	2	5	25
 199466	5	0	Rainbow Reversed (6 Suits)	2020-06-08 — 22:46:06 UTC	Kyle, melwen, scharkbite, will.i.am, Zamiel	1	6	30
 199452	5	0	Rainbow Reversed (6 Suits)	2020-06-08 — 22:12:23 UTC	Kyle, melwen, scharkbite, will.i.am, Zamiel	2	6	30
-199314	4	24	No Variant	2020-06-08 — 20:45:52 UTC	MarekU, MarkusKahlsen, will.i.am, XMIL	125	5	25
-199260	4	25	No Variant	2020-06-08 — 20:15:52 UTC	Fey, MarkusKahlsen, will.i.am, XMIL	138	5	25
-199135	4	29	Dark Rainbow (6 Suits)	2020-06-08 — 18:48:11 UTC	DrJones, Nitrate2, will.i.am, Zakisan	48	6	30
-199102	4	0	Dark Rainbow (6 Suits)	2020-06-08 — 18:09:42 UTC	DrJones, Nitrate2, will.i.am, Zakisan	53	6	30
+199314	4	24	No Variant	2020-06-08 — 20:45:52 UTC	MarekU, MarkusKahlsen, will.i.am, XMIL	126	5	25
+199260	4	25	No Variant	2020-06-08 — 20:15:52 UTC	Fey, MarkusKahlsen, will.i.am, XMIL	139	5	25
+199135	4	29	Dark Rainbow (6 Suits)	2020-06-08 — 18:48:11 UTC	DrJones, Nitrate2, will.i.am, Zakisan	49	6	30
+199102	4	0	Dark Rainbow (6 Suits)	2020-06-08 — 18:09:42 UTC	DrJones, Nitrate2, will.i.am, Zakisan	54	6	30
 199044	3	0	Special Mix (5 Suits)	2020-06-08 — 16:39:53 UTC	melwen, scharkbite, will.i.am	17	5	25
 198629	4	0	Special Mix (5 Suits)	2020-06-08 — 02:41:07 UTC	melwen, pianoblook, TheDaniMan, will.i.am	11	5	25
 198580	4	0	Special Mix (5 Suits)	2020-06-08 — 02:06:39 UTC	melwen, sephiroth, TheDaniMan, will.i.am	14	5	25
@@ -1601,8 +1601,8 @@
 197907	4	25	No Variant	2020-06-07 — 15:22:39 UTC	invarse, melwen, sephiroth, will.i.am	25	5	25
 197070	4	25	No Variant	2020-06-07 — 01:52:28 UTC	invarse, melwen, sephiroth, will.i.am	36	5	25
 197025	4	25	No Variant	2020-06-07 — 01:18:59 UTC	invarse, melwen, sephiroth, will.i.am	33	5	25
-196610	3	25	No Variant	2020-06-06 — 19:54:41 UTC	newduke, QueenVic, will.i.am	160	5	25
-196567	3	25	No Variant	2020-06-06 — 19:27:54 UTC	newduke, QueenVic, will.i.am	167	5	25
+196610	3	25	No Variant	2020-06-06 — 19:54:41 UTC	newduke, QueenVic, will.i.am	163	5	25
+196567	3	25	No Variant	2020-06-06 — 19:27:54 UTC	newduke, QueenVic, will.i.am	170	5	25
 195359	3	23	Special Mix (5 Suits)	2020-06-05 — 22:29:23 UTC	Kyle, postmans, will.i.am	24	5	25
 195260	5	27	Null (6 Suits)	2020-06-05 — 21:19:52 UTC	Lilliana, scharkbite, TheDaniMan, Valetta6789, will.i.am	10	6	30
 195223	5	0	Null (6 Suits)	2020-06-05 — 20:50:47 UTC	Lilliana, scharkbite, TheDaniMan, Valetta6789, will.i.am	10	6	30
@@ -1617,68 +1617,68 @@
 194563	3	0	Special Mix (5 Suits)	2020-06-05 — 03:48:02 UTC	melwen, sephiroth, will.i.am	28	5	25
 194536	3	0	Special Mix (5 Suits)	2020-06-05 — 03:40:19 UTC	melwen, sephiroth, will.i.am	30	5	25
 194413	4	24	No Variant	2020-06-05 — 02:41:02 UTC	invarse, melwen, sephiroth, will.i.am	32	5	25
-194345	4	0	No Variant	2020-06-05 — 02:00:32 UTC	invarse, melwen, sephiroth, will.i.am	34	5	25
-194323	4	0	No Variant	2020-06-05 — 01:38:28 UTC	invarse, melwen, sephiroth, will.i.am	34	5	25
+194345	4	0	No Variant	2020-06-05 — 02:00:32 UTC	invarse, melwen, sephiroth, will.i.am	35	5	25
+194323	4	0	No Variant	2020-06-05 — 01:38:28 UTC	invarse, melwen, sephiroth, will.i.am	35	5	25
 194282	4	0	No Variant	2020-06-05 — 01:08:50 UTC	invarse, melwen, sephiroth, will.i.am	35	5	25
-194234	4	0	No Variant	2020-06-05 — 00:48:27 UTC	invarse, melwen, sephiroth, will.i.am	36	5	25
-194210	3	0	Special Mix (5 Suits)	2020-06-05 — 00:19:24 UTC	melwen, sephiroth, will.i.am	38	5	25
-194201	3	0	Special Mix (5 Suits)	2020-06-05 — 00:10:26 UTC	melwen, sephiroth, will.i.am	48	5	25
+194234	4	0	No Variant	2020-06-05 — 00:48:27 UTC	invarse, melwen, sephiroth, will.i.am	37	5	25
+194210	3	0	Special Mix (5 Suits)	2020-06-05 — 00:19:24 UTC	melwen, sephiroth, will.i.am	39	5	25
+194201	3	0	Special Mix (5 Suits)	2020-06-05 — 00:10:26 UTC	melwen, sephiroth, will.i.am	50	5	25
 194147	4	25	No Variant	2020-06-04 — 22:36:28 UTC	invarse, melwen, sephiroth, will.i.am	36	5	25
-194104	4	25	No Variant	2020-06-04 — 21:54:35 UTC	invarse, melwen, sephiroth, will.i.am	39	5	25
+194104	4	25	No Variant	2020-06-04 — 21:54:35 UTC	invarse, melwen, sephiroth, will.i.am	40	5	25
 194001	4	25	Muddy Rainbow (5 Suits)	2020-06-04 — 20:33:38 UTC	kooolant, Lilliana, TimeHoodie, will.i.am	12	5	25
 193969	4	0	Muddy Rainbow (5 Suits)	2020-06-04 — 20:07:59 UTC	kooolant, Lilliana, TimeHoodie, will.i.am	18	5	25
 193890	5	23	Brown (5 Suits)	2020-06-04 — 18:33:25 UTC	kooolant, Lilliana, padi, TimeHoodie, will.i.am	4	5	25
 193781	3	0	Dark Null (5 Suits)	2020-06-04 — 15:40:21 UTC	pianoblook, piper, will.i.am	15	5	25
 193754	4	25	White (5 Suits)	2020-06-04 — 14:48:17 UTC	hakha3, MarkusKahlsen, sin_faith, will.i.am	60	5	25
-193291	5	25	Black (6 Suits)	2020-06-04 — 02:42:59 UTC	duckmammal, kimbifille, kooolant, will.i.am, XMIL	35	6	30
+193291	5	25	Black (6 Suits)	2020-06-04 — 02:42:59 UTC	duckmammal, kimbifille, kooolant, will.i.am, XMIL	36	6	30
 193267	5	0	Black (5 Suits)	2020-06-04 — 02:21:15 UTC	duckmammal, kimbifille, kooolant, will.i.am, XMIL	23	5	25
 193233	5	0	Alternating Clues (4 Suits)	2020-06-04 — 01:52:06 UTC	duckmammal, kimbifille, kooolant, will.i.am, XMIL	2	4	20
-193067	4	0	No Variant	2020-06-03 — 23:19:40 UTC	invarse, melwen, sephiroth, will.i.am	39	5	25
+193067	4	0	No Variant	2020-06-03 — 23:19:40 UTC	invarse, melwen, sephiroth, will.i.am	40	5	25
 193053	4	24	No Variant	2020-06-03 — 22:54:54 UTC	invarse, melwen, sephiroth, will.i.am	41	5	25
 193026	4	23	No Variant	2020-06-03 — 22:17:41 UTC	invarse, melwen, sephiroth, will.i.am	38	5	25
-193010	3	24	No Variant	2020-06-03 — 21:53:38 UTC	invarse, sephiroth, will.i.am	164	5	25
-192991	3	0	No Variant	2020-06-03 — 21:34:15 UTC	invarse, sephiroth, will.i.am	175	5	25
-192958	4	30	White (6 Suits)	2020-06-03 — 20:48:11 UTC	MarkusKahlsen, will.i.am, XMIL, Zakisan	41	6	30
+193010	3	24	No Variant	2020-06-03 — 21:53:38 UTC	invarse, sephiroth, will.i.am	167	5	25
+192991	3	0	No Variant	2020-06-03 — 21:34:15 UTC	invarse, sephiroth, will.i.am	176	5	25
+192958	4	30	White (6 Suits)	2020-06-03 — 20:48:11 UTC	MarkusKahlsen, will.i.am, XMIL, Zakisan	43	6	30
 192945	4	0	Black & Rainbow (6 Suits)	2020-06-03 — 20:10:53 UTC	Fey, kooolant, will.i.am, XMIL	34	6	30
 192929	4	0	Black & Rainbow (6 Suits)	2020-06-03 — 19:56:32 UTC	Fey, kooolant, will.i.am, XMIL	46	6	30
 192720	5	23	White (5 Suits)	2020-06-03 — 16:19:22 UTC	Animex52, Kyle, padi, will.i.am, Zakisan	1	5	25
 192689	5	0	White (5 Suits)	2020-06-03 — 15:42:04 UTC	Animex52, Kyle, padi, will.i.am, Zakisan	2	5	25
-192337	3	28	Rainbow (6 Suits)	2020-06-03 — 04:19:44 UTC	Lilliana, Marsho, will.i.am	237	6	30
+192337	3	28	Rainbow (6 Suits)	2020-06-03 — 04:19:44 UTC	Lilliana, Marsho, will.i.am	239	6	30
 191954	4	24	No Variant	2020-06-03 — 00:08:09 UTC	ADrone, fishcat, pianoblook, will.i.am	57	5	25
-191868	4	25	No Variant	2020-06-02 — 22:41:03 UTC	invarse, melwen, sephiroth, will.i.am	40	5	25
-191843	4	0	No Variant	2020-06-02 — 22:05:37 UTC	invarse, melwen, sephiroth, will.i.am	39	5	25
-191813	4	22	No Variant	2020-06-02 — 21:29:12 UTC	invarse, melwen, sephiroth, will.i.am	41	5	25
+191868	4	25	No Variant	2020-06-02 — 22:41:03 UTC	invarse, melwen, sephiroth, will.i.am	41	5	25
+191843	4	0	No Variant	2020-06-02 — 22:05:37 UTC	invarse, melwen, sephiroth, will.i.am	40	5	25
+191813	4	22	No Variant	2020-06-02 — 21:29:12 UTC	invarse, melwen, sephiroth, will.i.am	42	5	25
 191638	4	25	No Variant	2020-06-02 — 18:49:45 UTC	asaelr, hakha3, pianoblook, will.i.am	21	5	25
-191628	4	0	No Variant	2020-06-02 — 18:26:39 UTC	asaelr, hakha3, pianoblook, will.i.am	21	5	25
-191536	4	25	No Variant	2020-06-02 — 15:35:09 UTC	LaFayetteX, MarkusKahlsen, NoAnni, will.i.am	99	5	25
-191314	3	25	No Variant	2020-06-02 — 05:34:52 UTC	claudiob, jotatohead, will.i.am	170	5	25
-191274	3	0	No Variant	2020-06-02 — 05:02:57 UTC	claudiob, jotatohead, will.i.am	178	5	25
-191234	3	0	3 Suits	2020-06-02 — 04:37:06 UTC	claudiob, jotatohead, will.i.am	39	3	15
+191628	4	0	No Variant	2020-06-02 — 18:26:39 UTC	asaelr, hakha3, pianoblook, will.i.am	22	5	25
+191536	4	25	No Variant	2020-06-02 — 15:35:09 UTC	LaFayetteX, MarkusKahlsen, NoAnni, will.i.am	100	5	25
+191314	3	25	No Variant	2020-06-02 — 05:34:52 UTC	claudiob, jotatohead, will.i.am	173	5	25
+191274	3	0	No Variant	2020-06-02 — 05:02:57 UTC	claudiob, jotatohead, will.i.am	179	5	25
+191234	3	0	3 Suits	2020-06-02 — 04:37:06 UTC	claudiob, jotatohead, will.i.am	40	3	15
 191164	3	25	Pink (5 Suits)	2020-06-02 — 03:46:39 UTC	kooolant, pianoblook, will.i.am	23	5	25
 191134	3	0	Pink (5 Suits)	2020-06-02 — 03:22:35 UTC	kooolant, pianoblook, will.i.am	33	5	25
 190925	6	22	White (5 Suits)	2020-06-02 — 01:26:56 UTC	Aluap, antitelharsic, kooolant, qbphoenix, TimeHoodie, will.i.am	10	5	25
 190867	5	25	No Variant	2020-06-02 — 00:40:35 UTC	Aluap, antitelharsic, kooolant, TimeHoodie, will.i.am	135	5	25
-190711	4	25	Black (5 Suits)	2020-06-01 — 21:20:53 UTC	MarkusKahlsen, TheDaniMan, will.i.am, Zakisan	63	5	25
-190689	4	23	Black (5 Suits)	2020-06-01 — 21:00:36 UTC	MarkusKahlsen, TheDaniMan, will.i.am, Zakisan	79	5	25
+190711	4	25	Black (5 Suits)	2020-06-01 — 21:20:53 UTC	MarkusKahlsen, TheDaniMan, will.i.am, Zakisan	64	5	25
+190689	4	23	Black (5 Suits)	2020-06-01 — 21:00:36 UTC	MarkusKahlsen, TheDaniMan, will.i.am, Zakisan	80	5	25
 190671	3	0	Black (5 Suits)	2020-06-01 — 20:44:42 UTC	TheDaniMan, will.i.am, Zakisan	92	5	25
 190667	3	0	Black (5 Suits)	2020-06-01 — 20:41:35 UTC	TheDaniMan, will.i.am, Zakisan	101	5	25
 190609	5	0	Pink & Light Pink (6 Suits)	2020-06-01 — 20:03:02 UTC	Floriman, pianoblook, scharkbite, TimeHoodie, will.i.am	4	6	30
 190482	5	24	Brown (5 Suits)	2020-06-01 — 16:02:41 UTC	Nitrate2, padi, pianoblook, TimeHoodie, will.i.am	5	5	25
-190446	3	22	No Variant	2020-06-01 — 15:06:01 UTC	ArikSh, aviran, will.i.am	187	5	25
-190106	2	22	No Variant	2020-06-01 — 04:24:31 UTC	jerryK, will.i.am	770	5	25
-190079	2	0	No Variant	2020-06-01 — 04:05:41 UTC	jerryK, will.i.am	794	5	25
+190446	3	22	No Variant	2020-06-01 — 15:06:01 UTC	ArikSh, aviran, will.i.am	189	5	25
+190106	2	22	No Variant	2020-06-01 — 04:24:31 UTC	jerryK, will.i.am	779	5	25
+190079	2	0	No Variant	2020-06-01 — 04:05:41 UTC	jerryK, will.i.am	803	5	25
 189860	5	0	Brown (5 Suits)	2020-06-01 — 01:36:03 UTC	kooolant, melwen, TheDaniMan, will.i.am, XMIL	10	5	25
-189814	5	0	Brown (5 Suits)	2020-06-01 — 01:09:57 UTC	kooolant, melwen, TheDaniMan, will.i.am, XMIL	17	5	25
-188752	4	0	Brown (6 Suits)	2020-05-31 — 04:48:14 UTC	derekcheah, drew.levitt, swineherd, will.i.am	41	6	30
-188661	4	25	Rainbow (5 Suits)	2020-05-31 — 04:03:22 UTC	derekcheah, drew.levitt, swineherd, will.i.am	130	5	25
-188569	3	30	Black (6 Suits)	2020-05-31 — 03:24:20 UTC	derekcheah, drew.levitt, will.i.am	95	6	30
-187391	5	27	Black (6 Suits)	2020-05-30 — 05:09:59 UTC	derekcheah, mikefrenil, nqztv, rs1, will.i.am	101	6	30
-187329	4	0	Black (6 Suits)	2020-05-30 — 04:31:34 UTC	derekcheah, nqztv, rs1, will.i.am	142	6	30
-187272	3	0	6 Suits	2020-05-30 — 03:54:21 UTC	Solo, The Dean, will.i.am	503	6	30
+189814	5	0	Brown (5 Suits)	2020-06-01 — 01:09:57 UTC	kooolant, melwen, TheDaniMan, will.i.am, XMIL	18	5	25
+188752	4	0	Brown (6 Suits)	2020-05-31 — 04:48:14 UTC	derekcheah, drew.levitt, swineherd, will.i.am	42	6	30
+188661	4	25	Rainbow (5 Suits)	2020-05-31 — 04:03:22 UTC	derekcheah, drew.levitt, swineherd, will.i.am	131	5	25
+188569	3	30	Black (6 Suits)	2020-05-31 — 03:24:20 UTC	derekcheah, drew.levitt, will.i.am	97	6	30
+187391	5	27	Black (6 Suits)	2020-05-30 — 05:09:59 UTC	derekcheah, mikefrenil, nqztv, rs1, will.i.am	103	6	30
+187329	4	0	Black (6 Suits)	2020-05-30 — 04:31:34 UTC	derekcheah, nqztv, rs1, will.i.am	143	6	30
+187272	3	0	6 Suits	2020-05-30 — 03:54:21 UTC	Solo, The Dean, will.i.am	511	6	30
 186971	3	0	Reversed (6 Suits)	2020-05-30 — 00:46:05 UTC	florrat2, will.i.am, Zamiel	5	6	30
 186969	3	30	Reversed (6 Suits)	2020-05-30 — 00:45:04 UTC	florrat2, will.i.am, Zamiel	10	6	30
 186963	3	0	Reversed (6 Suits)	2020-05-30 — 00:41:22 UTC	florrat2, will.i.am, Zamiel	14	6	30
-186961	3	0	Reversed (6 Suits)	2020-05-30 — 00:40:27 UTC	florrat2, will.i.am, Zamiel	20	6	30
+186961	3	0	Reversed (6 Suits)	2020-05-30 — 00:40:27 UTC	florrat2, will.i.am, Zamiel	21	6	30
 186959	4	0	Reversed (6 Suits)	2020-05-30 — 00:39:11 UTC	florrat2, RaKXeR, will.i.am, Zamiel	1	6	30
 186958	4	0	Reversed (6 Suits)	2020-05-30 — 00:38:23 UTC	florrat2, RaKXeR, will.i.am, Zamiel	1	6	30
 186954	5	0	Reversed (6 Suits)	2020-05-30 — 00:36:34 UTC	florrat2, Libster, RaKXeR, will.i.am, Zamiel	2	6	30
@@ -1701,271 +1701,271 @@
 186892	4	0	Reversed (6 Suits)	2020-05-30 — 00:08:31 UTC	florrat2, Libster, RaKXeR, will.i.am	14	6	30
 186588	4	21	Black & Rainbow (5 Suits)	2020-05-29 — 20:39:09 UTC	sephiroth, swineherd, TheDaniMan, will.i.am	6	5	25
 186550	4	0	Black & Rainbow (5 Suits)	2020-05-29 — 20:13:19 UTC	sephiroth, swineherd, TheDaniMan, will.i.am	9	5	25
-186530	4	0	Black & Rainbow (5 Suits)	2020-05-29 — 19:54:50 UTC	sephiroth, swineherd, TheDaniMan, will.i.am	9	5	25
+186530	4	0	Black & Rainbow (5 Suits)	2020-05-29 — 19:54:50 UTC	sephiroth, swineherd, TheDaniMan, will.i.am	10	5	25
 186485	4	0	Black & Rainbow (5 Suits)	2020-05-29 — 19:18:41 UTC	Animex52, Kyle, TheDaniMan, will.i.am	12	5	25
 186466	4	23	Black & Rainbow (5 Suits)	2020-05-29 — 19:01:36 UTC	Kyle, robense, TheDaniMan, will.i.am	16	5	25
 186272	5	27	Black & Rainbow (6 Suits)	2020-05-29 — 15:06:16 UTC	Iullo, LaFayetteX, MarkusKahlsen, sephiroth, will.i.am	10	6	30
-185851	5	0	White-Ones & Brown (5 Suits)	2020-05-29 — 03:55:20 UTC	derekcheah, duckmammal, qbphoenix, will.i.am, XMIL	2	5	25
+185851	5	0	White-Ones & Brown (5 Suits)	2020-05-29 — 03:55:20 UTC	derekcheah, duckmammal, qbphoenix, will.i.am, XMIL	3	5	25
 185758	4	29	Brown (6 Suits)	2020-05-29 — 03:07:26 UTC	derekcheah, duckmammal, will.i.am, XMIL	21	6	30
-185701	4	0	Brown (6 Suits)	2020-05-29 — 02:31:38 UTC	derekcheah, duckmammal, will.i.am, XMIL	27	6	30
+185701	4	0	Brown (6 Suits)	2020-05-29 — 02:31:38 UTC	derekcheah, duckmammal, will.i.am, XMIL	28	6	30
 185671	3	21	White-Ones & Black (5 Suits)	2020-05-29 — 02:15:03 UTC	derekcheah, will.i.am, XMIL	6	5	25
-185616	3	0	Pink (5 Suits)	2020-05-29 — 01:47:21 UTC	derekcheah, will.i.am, XMIL	108	5	25
-185523	2	0	Pink (5 Suits)	2020-05-29 — 00:23:22 UTC	moormann, will.i.am	95	5	25
+185616	3	0	Pink (5 Suits)	2020-05-29 — 01:47:21 UTC	derekcheah, will.i.am, XMIL	112	5	25
+185523	2	0	Pink (5 Suits)	2020-05-29 — 00:23:22 UTC	moormann, will.i.am	100	5	25
 185371	4	0	Black (5 Suits)	2020-05-28 — 21:33:46 UTC	melwen, pianoblook, swineherd, will.i.am	4	5	25
 185353	4	0	Black (5 Suits)	2020-05-28 — 21:19:44 UTC	melwen, pianoblook, swineherd, will.i.am	4	5	25
 185155	4	24	Brown (5 Suits)	2020-05-28 — 18:49:07 UTC	Kyle, sephiroth, TimeHoodie, will.i.am	7	5	25
 185136	4	0	Brown (5 Suits)	2020-05-28 — 18:30:56 UTC	Kyle, sephiroth, TimeHoodie, will.i.am	9	5	25
 184758	3	0	Omni (5 Suits)	2020-05-28 — 06:31:01 UTC	pianoblook, TimeHoodie, will.i.am	21	5	25
-184720	2	25	Omni (5 Suits)	2020-05-28 — 06:02:04 UTC	pianoblook, will.i.am	78	5	25
-184404	4	18	Black (5 Suits)	2020-05-28 — 03:12:32 UTC	claudiob, kalisa, mikefrenil, will.i.am	98	5	25
+184720	2	25	Omni (5 Suits)	2020-05-28 — 06:02:04 UTC	pianoblook, will.i.am	81	5	25
+184404	4	18	Black (5 Suits)	2020-05-28 — 03:12:32 UTC	claudiob, kalisa, mikefrenil, will.i.am	101	5	25
 184339	4	0	Black & Rainbow (5 Suits)	2020-05-28 — 02:30:16 UTC	Animex52, qbphoenix, TimeHoodie, will.i.am	32	5	25
 184245	5	24	Brown (5 Suits)	2020-05-28 — 01:37:47 UTC	kalisa, kimbifille, kooolant, TimeHoodie, will.i.am	8	5	25
-184214	3	0	Black & Rainbow (5 Suits)	2020-05-28 — 01:15:21 UTC	kimbifille, kooolant, will.i.am	46	5	25
+184214	3	0	Black & Rainbow (5 Suits)	2020-05-28 — 01:15:21 UTC	kimbifille, kooolant, will.i.am	47	5	25
 184190	3	21	Black & Rainbow (5 Suits)	2020-05-28 — 01:00:29 UTC	kimbifille, kooolant, will.i.am	58	5	25
-184154	3	0	No Variant	2020-05-28 — 00:34:36 UTC	imarsho, robense, will.i.am	41	5	25
+184154	3	0	No Variant	2020-05-28 — 00:34:36 UTC	imarsho, robense, will.i.am	42	5	25
 183871	3	23	Black & Rainbow (5 Suits)	2020-05-27 — 19:31:51 UTC	Kyle, will.i.am, Zakisan	9	5	25
 183830	6	0	Black & Rainbow (6 Suits)	2020-05-27 — 19:03:14 UTC	Kyle, sephiroth, swineherd, TheDaniMan, will.i.am, Zakisan	2	6	30
 183797	6	0	Black & Rainbow (6 Suits)	2020-05-27 — 18:34:03 UTC	Kyle, sephiroth, swineherd, TheDaniMan, will.i.am, Zakisan	3	6	30
 183344	4	21	Black & Rainbow (5 Suits)	2020-05-27 — 03:58:26 UTC	florrat2, pianoblook, will.i.am, XMIL	17	5	25
 183292	4	0	Black (6 Suits)	2020-05-27 — 03:18:47 UTC	kalisa, qbphoenix, sephiroth, will.i.am	62	6	30
-183077	6	25	Black (5 Suits)	2020-05-27 — 00:57:06 UTC	Animex52, claudiob, honzas, kalisa, sephiroth, will.i.am	9	5	25
+183077	6	25	Black (5 Suits)	2020-05-27 — 00:57:06 UTC	Animex52, claudiob, honzas, kalisa, sephiroth, will.i.am	10	5	25
 183042	5	0	Black (5 Suits)	2020-05-27 — 00:09:34 UTC	Animex52, claudiob, honzas, kalisa, will.i.am	27	5	25
 182955	3	0	Null (5 Suits)	2020-05-26 — 21:51:31 UTC	Floriman, pianoblook, will.i.am	18	5	25
 182927	3	23	Null (5 Suits)	2020-05-26 — 21:20:55 UTC	Floriman, pianoblook, will.i.am	20	5	25
 182811	4	0	Black & Rainbow (5 Suits)	2020-05-26 — 19:48:21 UTC	marina, pianoblook, will.i.am, Wooombi	23	5	25
 182651	4	0	Brown-Fives & Dark Pink (5 Suits)	2020-05-26 — 16:51:05 UTC	sephiroth, swineherd, TheDaniMan, will.i.am	2	5	25
 182641	4	22	Brown-Fives & Dark Pink (5 Suits)	2020-05-26 — 16:36:14 UTC	sephiroth, swineherd, TheDaniMan, will.i.am	3	5	25
-182617	5	0	Black & Rainbow (5 Suits)	2020-05-26 — 15:54:26 UTC	LaFayetteX, pianoblook, sephiroth, TheDaniMan, will.i.am	7	5	25
+182617	5	0	Black & Rainbow (5 Suits)	2020-05-26 — 15:54:26 UTC	LaFayetteX, pianoblook, sephiroth, TheDaniMan, will.i.am	8	5	25
 182011	3	0	Null (5 Suits)	2020-05-26 — 02:07:34 UTC	kalisa, sephiroth, will.i.am	32	5	25
 181964	3	0	Null (5 Suits)	2020-05-26 — 01:49:39 UTC	kalisa, sephiroth, will.i.am	40	5	25
-181933	3	18	Null (4 Suits)	2020-05-26 — 01:33:35 UTC	kalisa, sephiroth, will.i.am	23	4	20
+181933	3	18	Null (4 Suits)	2020-05-26 — 01:33:35 UTC	kalisa, sephiroth, will.i.am	24	4	20
 181874	3	0	Null (5 Suits)	2020-05-26 — 00:53:58 UTC	kalisa, sephiroth, will.i.am	54	5	25
 181820	5	22	Black (5 Suits)	2020-05-26 — 00:09:26 UTC	claudiob, kalisa, mikefrenil, sephiroth, will.i.am	30	5	25
 181792	5	0	Black (5 Suits)	2020-05-25 — 23:39:23 UTC	claudiob, kalisa, mikefrenil, sephiroth, will.i.am	36	5	25
-181783	3	28	Rainbow (6 Suits)	2020-05-25 — 23:27:09 UTC	kalisa, sephiroth, will.i.am	332	6	30
-181727	4	0	Rainbow (6 Suits)	2020-05-25 — 21:52:39 UTC	kalisa, LaFayetteX, sephiroth, will.i.am	200	6	30
+181783	3	28	Rainbow (6 Suits)	2020-05-25 — 23:27:09 UTC	kalisa, sephiroth, will.i.am	335	6	30
+181727	4	0	Rainbow (6 Suits)	2020-05-25 — 21:52:39 UTC	kalisa, LaFayetteX, sephiroth, will.i.am	205	6	30
 181682	6	0	Rainbow (6 Suits)	2020-05-25 — 21:22:06 UTC	frollo9386, kalisa, LaFayetteX, sephiroth, swineherd, will.i.am	23	6	30
 181661	6	0	Rainbow (6 Suits)	2020-05-25 — 21:11:38 UTC	frollo9386, kalisa, LaFayetteX, sephiroth, swineherd, will.i.am	60	6	30
 181624	5	26	Rainbow (6 Suits)	2020-05-25 — 20:46:07 UTC	Almipj, frollo9386, LaFayetteX, tyrcho, will.i.am	39	6	30
-181538	3	25	No Variant	2020-05-25 — 19:44:27 UTC	Mav, pianoblook, will.i.am	141	5	25
+181538	3	25	No Variant	2020-05-25 — 19:44:27 UTC	Mav, pianoblook, will.i.am	145	5	25
 181131	3	0	Null (5 Suits)	2020-05-25 — 07:17:41 UTC	Lilliana, sin_faith, will.i.am	21	5	25
 181086	3	0	Null (5 Suits)	2020-05-25 — 06:42:19 UTC	Lilliana, sin_faith, will.i.am	27	5	25
 181046	3	0	Null (5 Suits)	2020-05-25 — 06:10:50 UTC	Lilliana, sin_faith, will.i.am	36	5	25
 181013	3	20	Null-Ones (4 Suits)	2020-05-25 — 05:49:14 UTC	Lilliana, sin_faith, will.i.am	4	4	20
-180972	3	24	Pink (5 Suits)	2020-05-25 — 05:15:18 UTC	kalisa, will.i.am, Zakisan	36	5	25
-180937	3	0	Pink (5 Suits)	2020-05-25 — 04:52:34 UTC	kalisa, will.i.am, Zakisan	62	5	25
-180898	3	23	Pink (5 Suits)	2020-05-25 — 04:33:24 UTC	kalisa, TimeHoodie, will.i.am	43	5	25
+180972	3	24	Pink (5 Suits)	2020-05-25 — 05:15:18 UTC	kalisa, will.i.am, Zakisan	38	5	25
+180937	3	0	Pink (5 Suits)	2020-05-25 — 04:52:34 UTC	kalisa, will.i.am, Zakisan	64	5	25
+180898	3	23	Pink (5 Suits)	2020-05-25 — 04:33:24 UTC	kalisa, TimeHoodie, will.i.am	44	5	25
 180831	3	0	Omni (5 Suits)	2020-05-25 — 04:01:58 UTC	kalisa, TimeHoodie, will.i.am	50	5	25
-180045	4	0	Pink (6 Suits)	2020-05-24 — 19:04:25 UTC	asaelr, DrJones, swineherd, will.i.am	42	6	30
+180045	4	0	Pink (6 Suits)	2020-05-24 — 19:04:25 UTC	asaelr, DrJones, swineherd, will.i.am	43	6	30
 179158	4	24	Pink (5 Suits)	2020-05-24 — 03:03:29 UTC	Lilliana, mycarpe, sephiroth, will.i.am	51	5	25
-179055	4	25	No Variant	2020-05-24 — 02:16:37 UTC	mycarpe, qbphoenix, sephiroth, will.i.am	162	5	25
-178829	4	30	Black (6 Suits)	2020-05-24 — 00:13:02 UTC	Ch1cken, frollo9386, mikefrenil, will.i.am	273	6	30
-178520	5	24	No Variant	2020-05-23 — 20:32:50 UTC	anna567, kalisa, sephiroth, swineherd, will.i.am	658	5	25
-178459	5	22	Brown (5 Suits)	2020-05-23 — 19:38:26 UTC	ebs, kalisa, sephiroth, swineherd, will.i.am	24	5	25
+179055	4	25	No Variant	2020-05-24 — 02:16:37 UTC	mycarpe, qbphoenix, sephiroth, will.i.am	166	5	25
+178829	4	30	Black (6 Suits)	2020-05-24 — 00:13:02 UTC	Ch1cken, frollo9386, mikefrenil, will.i.am	276	6	30
+178520	5	24	No Variant	2020-05-23 — 20:32:50 UTC	anna567, kalisa, sephiroth, swineherd, will.i.am	667	5	25
+178459	5	22	Brown (5 Suits)	2020-05-23 — 19:38:26 UTC	ebs, kalisa, sephiroth, swineherd, will.i.am	25	5	25
 178416	5	26	Black (6 Suits)	2020-05-23 — 19:02:04 UTC	JDepp, kalisa, sephiroth, swineherd, will.i.am	48	6	30
-178379	4	0	Black (6 Suits)	2020-05-23 — 18:15:56 UTC	kalisa, sephiroth, swineherd, will.i.am	175	6	30
+178379	4	0	Black (6 Suits)	2020-05-23 — 18:15:56 UTC	kalisa, sephiroth, swineherd, will.i.am	176	6	30
 178363	4	0	Black (6 Suits)	2020-05-23 — 17:53:39 UTC	kalisa, sephiroth, swineherd, will.i.am	1	6	30
 177775	4	30	Up or Down (6 Suits)	2020-05-23 — 05:18:55 UTC	derekcheah, Lilliana, TimeHoodie, will.i.am	40	6	30
-176758	4	28	Black (6 Suits)	2020-05-22 — 17:22:34 UTC	DrJones, MarkusKahlsen, robense, will.i.am	71	6	30
-176736	4	0	Black (6 Suits)	2020-05-22 — 16:49:23 UTC	DrJones, MarkusKahlsen, robense, will.i.am	74	6	30
-176724	4	0	Black (6 Suits)	2020-05-22 — 16:33:14 UTC	DrJones, MarkusKahlsen, robense, will.i.am	77	6	30
-176717	4	0	Black (6 Suits)	2020-05-22 — 16:24:28 UTC	DrJones, MarkusKahlsen, robense, will.i.am	90	6	30
-176689	4	24	No Variant	2020-05-22 — 15:41:57 UTC	Ch1cken, frollo9386, robense, will.i.am	158	5	25
+176758	4	28	Black (6 Suits)	2020-05-22 — 17:22:34 UTC	DrJones, MarkusKahlsen, robense, will.i.am	73	6	30
+176736	4	0	Black (6 Suits)	2020-05-22 — 16:49:23 UTC	DrJones, MarkusKahlsen, robense, will.i.am	76	6	30
+176724	4	0	Black (6 Suits)	2020-05-22 — 16:33:14 UTC	DrJones, MarkusKahlsen, robense, will.i.am	81	6	30
+176717	4	0	Black (6 Suits)	2020-05-22 — 16:24:28 UTC	DrJones, MarkusKahlsen, robense, will.i.am	95	6	30
+176689	4	24	No Variant	2020-05-22 — 15:41:57 UTC	Ch1cken, frollo9386, robense, will.i.am	161	5	25
 176350	6	0	Up or Down (6 Suits)	2020-05-22 — 05:08:47 UTC	derekcheah, Lilliana, Nitrate2, Scaramouche129, scharkbite, will.i.am	4	6	30
 176318	6	0	Up or Down (6 Suits)	2020-05-22 — 04:49:55 UTC	derekcheah, Lilliana, Nitrate2, Scaramouche129, scharkbite, will.i.am	6	6	30
 176266	5	0	Up or Down (6 Suits)	2020-05-22 — 04:19:45 UTC	Lilliana, melwen, Nitrate2, scharkbite, will.i.am	3	6	30
 176217	5	0	Up or Down (6 Suits)	2020-05-22 — 03:51:49 UTC	Lilliana, melwen, Nitrate2, scharkbite, will.i.am	5	6	30
 176189	5	0	Up or Down (6 Suits)	2020-05-22 — 03:31:39 UTC	melwen, Nitrate2, scharkbite, will.i.am, XMIL	3	6	30
-176117	4	28	Up or Down (6 Suits)	2020-05-22 — 02:56:01 UTC	melwen, Nitrate2, will.i.am, XMIL	12	6	30
+176117	4	28	Up or Down (6 Suits)	2020-05-22 — 02:56:01 UTC	melwen, Nitrate2, will.i.am, XMIL	13	6	30
 175922	5	0	Pink (5 Suits)	2020-05-22 — 00:49:31 UTC	derekcheah, Lilliana, melwen, sin_faith, will.i.am	11	5	25
-175513	4	0	White (5 Suits)	2020-05-21 — 19:18:49 UTC	Hanabiputo, robense, sephiroth, will.i.am	79	5	25
-175419	6	0	Up or Down (6 Suits)	2020-05-21 — 17:42:12 UTC	alphabeta, Kyle, scharkbite, TheDaniMan, TimeHoodie, will.i.am	1	6	30
-175400	3	24	Dark Rainbow (5 Suits)	2020-05-21 — 16:23:25 UTC	TimeHoodie, tyrcho, will.i.am	36	5	25
+175513	4	0	White (5 Suits)	2020-05-21 — 19:18:49 UTC	Hanabiputo, robense, sephiroth, will.i.am	80	5	25
+175419	6	0	Up or Down (6 Suits)	2020-05-21 — 17:42:12 UTC	alphabeta, Kyle, scharkbite, TheDaniMan, TimeHoodie, will.i.am	2	6	30
+175400	3	24	Dark Rainbow (5 Suits)	2020-05-21 — 16:23:25 UTC	TimeHoodie, tyrcho, will.i.am	38	5	25
 175391	4	0	Dark Rainbow (5 Suits)	2020-05-21 — 15:48:56 UTC	Kyle, TimeHoodie, tyrcho, will.i.am	29	5	25
-175069	3	21	Dark Rainbow (5 Suits)	2020-05-21 — 05:40:57 UTC	Aluap, antitelharsic, will.i.am	48	5	25
-175017	3	17	Dark Rainbow (5 Suits)	2020-05-21 — 05:03:33 UTC	Aluap, antitelharsic, will.i.am	52	5	25
+175069	3	21	Dark Rainbow (5 Suits)	2020-05-21 — 05:40:57 UTC	Aluap, antitelharsic, will.i.am	49	5	25
+175017	3	17	Dark Rainbow (5 Suits)	2020-05-21 — 05:03:33 UTC	Aluap, antitelharsic, will.i.am	53	5	25
 174831	3	0	Pink-Ones & Rainbow (5 Suits)	2020-05-21 — 02:27:12 UTC	kimbifille, kooolant, will.i.am	3	5	25
-174568	2	0	Dark Rainbow (5 Suits)	2020-05-20 — 23:43:57 UTC	melwen, will.i.am	79	5	25
-174421	4	30	Rainbow (6 Suits)	2020-05-20 — 21:07:26 UTC	honzas, Isa, salonka, will.i.am	156	6	30
-174384	4	0	Rainbow (6 Suits)	2020-05-20 — 20:42:54 UTC	honzas, Isa, salonka, will.i.am	163	6	30
+174568	2	0	Dark Rainbow (5 Suits)	2020-05-20 — 23:43:57 UTC	melwen, will.i.am	80	5	25
+174421	4	30	Rainbow (6 Suits)	2020-05-20 — 21:07:26 UTC	honzas, Isa, salonka, will.i.am	157	6	30
+174384	4	0	Rainbow (6 Suits)	2020-05-20 — 20:42:54 UTC	honzas, Isa, salonka, will.i.am	164	6	30
 174354	4	0	No Variant	2020-05-20 — 20:24:41 UTC	AndreyChizhik, InfiniteNature, RabbageCabbage, will.i.am	204	5	25
-174278	3	20	4 Suits	2020-05-20 — 19:38:49 UTC	asaelr, TheDaniMan, will.i.am	118	4	20
+174278	3	20	4 Suits	2020-05-20 — 19:38:49 UTC	asaelr, TheDaniMan, will.i.am	120	4	20
 174109	4	0	Dark Rainbow (5 Suits)	2020-05-20 — 15:42:55 UTC	Animex52, asaelr, Dr_Kakashi, will.i.am	13	5	25
 174104	4	0	Dark Rainbow (5 Suits)	2020-05-20 — 15:34:55 UTC	Animex52, asaelr, Dr_Kakashi, will.i.am	11	5	25
 174103	4	24	Dark Rainbow (5 Suits)	2020-05-20 — 15:22:27 UTC	Animex52, asaelr, Dr_Kakashi, will.i.am	11	5	25
-174099	4	0	Dark Rainbow (5 Suits)	2020-05-20 — 14:56:36 UTC	Animex52, asaelr, Dr_Kakashi, will.i.am	14	5	25
-174093	4	0	Dark Rainbow (5 Suits)	2020-05-20 — 14:43:47 UTC	Animex52, asaelr, Dr_Kakashi, will.i.am	23	5	25
-173711	4	30	6 Suits	2020-05-20 — 04:01:55 UTC	Aluap, antitelharsic, derekcheah, will.i.am	151	6	30
+174099	4	0	Dark Rainbow (5 Suits)	2020-05-20 — 14:56:36 UTC	Animex52, asaelr, Dr_Kakashi, will.i.am	15	5	25
+174093	4	0	Dark Rainbow (5 Suits)	2020-05-20 — 14:43:47 UTC	Animex52, asaelr, Dr_Kakashi, will.i.am	24	5	25
+173711	4	30	6 Suits	2020-05-20 — 04:01:55 UTC	Aluap, antitelharsic, derekcheah, will.i.am	152	6	30
 173619	5	24	Black (6 Suits)	2020-05-20 — 02:48:29 UTC	JDepp, kalisa, mikefrenil, qbphoenix, will.i.am	58	6	30
-173547	5	0	Black (6 Suits)	2020-05-20 — 02:11:29 UTC	JDepp, kalisa, mikefrenil, qbphoenix, will.i.am	72	6	30
-173482	4	25	Black (6 Suits)	2020-05-20 — 01:48:19 UTC	JDepp, kalisa, mikefrenil, will.i.am	213	6	30
-173384	3	22	No Variant	2020-05-20 — 01:06:26 UTC	mikefrenil, vmplays, will.i.am	201	5	25
-173295	4	25	No Variant	2020-05-19 — 23:59:58 UTC	derekcheah, honzas, vmplays, will.i.am	167	5	25
-173175	3	29	Up or Down & Rainbow (6 Suits)	2020-05-19 — 21:42:57 UTC	Ch1cken, frollo9386, will.i.am	28	6	30
+173547	5	0	Black (6 Suits)	2020-05-20 — 02:11:29 UTC	JDepp, kalisa, mikefrenil, qbphoenix, will.i.am	74	6	30
+173482	4	25	Black (6 Suits)	2020-05-20 — 01:48:19 UTC	JDepp, kalisa, mikefrenil, will.i.am	215	6	30
+173384	3	22	No Variant	2020-05-20 — 01:06:26 UTC	mikefrenil, vmplays, will.i.am	203	5	25
+173295	4	25	No Variant	2020-05-19 — 23:59:58 UTC	derekcheah, honzas, vmplays, will.i.am	169	5	25
+173175	3	29	Up or Down & Rainbow (6 Suits)	2020-05-19 — 21:42:57 UTC	Ch1cken, frollo9386, will.i.am	30	6	30
 172966	4	23	Black & Rainbow (5 Suits)	2020-05-19 — 18:45:19 UTC	alphabeta, CastlesInTheAir, Dr_Kakashi, will.i.am	7	5	25
 172864	4	25	Pink (5 Suits)	2020-05-19 — 15:19:17 UTC	Fey, Nitrate2, padi, will.i.am	69	5	25
-172647	3	30	Rainbow (6 Suits)	2020-05-19 — 06:16:33 UTC	derekcheah, eljobe, will.i.am	689	6	30
+172647	3	30	Rainbow (6 Suits)	2020-05-19 — 06:16:33 UTC	derekcheah, eljobe, will.i.am	693	6	30
 172081	5	22	Pink (5 Suits)	2020-05-18 — 23:24:11 UTC	melwen, Nitrate2, qbphoenix, will.i.am, XMIL	20	5	25
-172027	3	0	Pink (5 Suits)	2020-05-18 — 22:21:44 UTC	MarkusKahlsen, Nitrate2, will.i.am	49	5	25
-172012	3	0	Pink (5 Suits)	2020-05-18 — 21:51:45 UTC	MarkusKahlsen, Nitrate2, will.i.am	75	5	25
+172027	3	0	Pink (5 Suits)	2020-05-18 — 22:21:44 UTC	MarkusKahlsen, Nitrate2, will.i.am	51	5	25
+172012	3	0	Pink (5 Suits)	2020-05-18 — 21:51:45 UTC	MarkusKahlsen, Nitrate2, will.i.am	77	5	25
 171851	5	25	No Variant	2020-05-18 — 19:18:37 UTC	asaelr, Ch1cken, frollo9386, swineherd, will.i.am	20	5	25
-171818	3	25	No Variant	2020-05-18 — 18:41:04 UTC	Ch1cken, frollo9386, will.i.am	223	5	25
-171763	3	30	Black (6 Suits)	2020-05-18 — 16:52:36 UTC	JDepp, swineherd, will.i.am	325	6	30
-171745	3	0	No Variant	2020-05-18 — 16:25:45 UTC	JDepp, maertin, will.i.am	156	5	25
-171738	3	24	No Variant	2020-05-18 — 16:06:58 UTC	JDepp, maertin, will.i.am	157	5	25
-171518	2	28	Rainbow (6 Suits)	2020-05-18 — 05:44:29 UTC	smallman, will.i.am	243	6	30
-171403	2	23	Pink (6 Suits)	2020-05-18 — 04:32:40 UTC	smallman, will.i.am	172	6	30
-171276	2	0	Pink (6 Suits)	2020-05-18 — 03:15:07 UTC	claudiob, will.i.am	219	6	30
-171037	4	25	No Variant	2020-05-18 — 00:58:05 UTC	mikefrenil, swineherd, vmplays, will.i.am	198	5	25
-170986	4	22	No Variant	2020-05-18 — 00:20:22 UTC	mikefrenil, swineherd, vmplays, will.i.am	243	5	25
-170903	4	23	No Variant	2020-05-17 — 23:28:15 UTC	mikefrenil, swineherd, vmplays, will.i.am	257	5	25
-169450	3	25	No Variant	2020-05-17 — 01:45:36 UTC	jotatohead, Shadok, will.i.am	243	5	25
-168821	3	25	No Variant	2020-05-16 — 19:37:01 UTC	Aluap, antitelharsic, will.i.am	269	5	25
-167127	6	22	Black (5 Suits)	2020-05-15 — 18:11:03 UTC	CastlesInTheAir, Kyle, Nitrate2, sin_faith, TimeHoodie, will.i.am	9	5	25
-167004	3	0	No Variant	2020-05-15 — 15:39:08 UTC	callistooooo, TheDaniMan, will.i.am	199	5	25
-166994	3	0	No Variant	2020-05-15 — 15:24:32 UTC	callistooooo, TheDaniMan, will.i.am	206	5	25
-166980	3	21	No Variant	2020-05-15 — 15:03:38 UTC	callistooooo, TheDaniMan, will.i.am	218	5	25
-166500	3	21	Up or Down (5 Suits)	2020-05-15 — 03:48:44 UTC	chriswck, mikefrenil, will.i.am	88	5	25
-166458	3	25	No Variant	2020-05-15 — 03:10:42 UTC	chriswck, mikefrenil, will.i.am	285	5	25
-166025	3	0	No Variant	2020-05-14 — 21:57:39 UTC	frollo9386, Sandysandleris, will.i.am	307	5	25
-166018	2	0	No Variant	2020-05-14 — 21:45:10 UTC	frollo9386, will.i.am	244	5	25
-166005	3	30	Rainbow (6 Suits)	2020-05-14 — 21:30:04 UTC	Ch1cken, frollo9386, will.i.am	282	6	30
-165320	3	22	No Variant	2020-05-14 — 05:20:34 UTC	jotatohead, will.i.am, XMIL	220	5	25
-165216	5	0	No Variant	2020-05-14 — 04:09:02 UTC	anna567, jotatohead, swineherd, will.i.am, XMIL	541	5	25
-164828	3	23	Up or Down (5 Suits)	2020-05-14 — 00:31:40 UTC	honzas, kalisa, will.i.am	62	5	25
-164804	3	0	Up or Down (5 Suits)	2020-05-13 — 23:55:41 UTC	honzas, kalisa, will.i.am	113	5	25
+171818	3	25	No Variant	2020-05-18 — 18:41:04 UTC	Ch1cken, frollo9386, will.i.am	228	5	25
+171763	3	30	Black (6 Suits)	2020-05-18 — 16:52:36 UTC	JDepp, swineherd, will.i.am	332	6	30
+171745	3	0	No Variant	2020-05-18 — 16:25:45 UTC	JDepp, maertin, will.i.am	158	5	25
+171738	3	24	No Variant	2020-05-18 — 16:06:58 UTC	JDepp, maertin, will.i.am	160	5	25
+171518	2	28	Rainbow (6 Suits)	2020-05-18 — 05:44:29 UTC	smallman, will.i.am	244	6	30
+171403	2	23	Pink (6 Suits)	2020-05-18 — 04:32:40 UTC	smallman, will.i.am	173	6	30
+171276	2	0	Pink (6 Suits)	2020-05-18 — 03:15:07 UTC	claudiob, will.i.am	220	6	30
+171037	4	25	No Variant	2020-05-18 — 00:58:05 UTC	mikefrenil, swineherd, vmplays, will.i.am	199	5	25
+170986	4	22	No Variant	2020-05-18 — 00:20:22 UTC	mikefrenil, swineherd, vmplays, will.i.am	245	5	25
+170903	4	23	No Variant	2020-05-17 — 23:28:15 UTC	mikefrenil, swineherd, vmplays, will.i.am	260	5	25
+169450	3	25	No Variant	2020-05-17 — 01:45:36 UTC	jotatohead, Shadok, will.i.am	246	5	25
+168821	3	25	No Variant	2020-05-16 — 19:37:01 UTC	Aluap, antitelharsic, will.i.am	272	5	25
+167127	6	22	Black (5 Suits)	2020-05-15 — 18:11:03 UTC	CastlesInTheAir, Kyle, Nitrate2, sin_faith, TimeHoodie, will.i.am	10	5	25
+167004	3	0	No Variant	2020-05-15 — 15:39:08 UTC	callistooooo, TheDaniMan, will.i.am	202	5	25
+166994	3	0	No Variant	2020-05-15 — 15:24:32 UTC	callistooooo, TheDaniMan, will.i.am	209	5	25
+166980	3	21	No Variant	2020-05-15 — 15:03:38 UTC	callistooooo, TheDaniMan, will.i.am	223	5	25
+166500	3	21	Up or Down (5 Suits)	2020-05-15 — 03:48:44 UTC	chriswck, mikefrenil, will.i.am	89	5	25
+166458	3	25	No Variant	2020-05-15 — 03:10:42 UTC	chriswck, mikefrenil, will.i.am	287	5	25
+166025	3	0	No Variant	2020-05-14 — 21:57:39 UTC	frollo9386, Sandysandleris, will.i.am	311	5	25
+166018	2	0	No Variant	2020-05-14 — 21:45:10 UTC	frollo9386, will.i.am	250	5	25
+166005	3	30	Rainbow (6 Suits)	2020-05-14 — 21:30:04 UTC	Ch1cken, frollo9386, will.i.am	284	6	30
+165320	3	22	No Variant	2020-05-14 — 05:20:34 UTC	jotatohead, will.i.am, XMIL	224	5	25
+165216	5	0	No Variant	2020-05-14 — 04:09:02 UTC	anna567, jotatohead, swineherd, will.i.am, XMIL	546	5	25
+164828	3	23	Up or Down (5 Suits)	2020-05-14 — 00:31:40 UTC	honzas, kalisa, will.i.am	64	5	25
+164804	3	0	Up or Down (5 Suits)	2020-05-13 — 23:55:41 UTC	honzas, kalisa, will.i.am	114	5	25
 164692	4	25	No Variant	2020-05-13 — 21:41:52 UTC	Iullo, kalisa, Shadok, will.i.am	213	5	25
-164623	4	29	Rainbow (6 Suits)	2020-05-13 — 20:48:18 UTC	Iullo, kalisa, Smiley532, will.i.am	344	6	30
+164623	4	29	Rainbow (6 Suits)	2020-05-13 — 20:48:18 UTC	Iullo, kalisa, Smiley532, will.i.am	349	6	30
 164324	3	20	Up or Down (5 Suits)	2020-05-13 — 16:10:17 UTC	DrJones, Kyle, will.i.am	9	5	25
 164315	3	0	Up or Down (5 Suits)	2020-05-13 — 15:50:32 UTC	DrJones, Kyle, will.i.am	11	5	25
 163866	4	25	No Variant	2020-05-13 — 02:55:38 UTC	ADrone, pianoblook, swineherd, will.i.am	71	5	25
 163815	3	20	Black (5 Suits)	2020-05-13 — 02:09:15 UTC	ADrone, pianoblook, will.i.am	27	5	25
-163725	4	23	No Variant	2020-05-13 — 01:09:20 UTC	clemonmp, kapowski, kbocks1, will.i.am	287	5	25
-163586	5	23	No Variant	2020-05-12 — 22:52:38 UTC	Abbysue114, Iullo, Nitrate2, will.i.am, XMIL	143	5	25
+163725	4	23	No Variant	2020-05-13 — 01:09:20 UTC	clemonmp, kapowski, kbocks1, will.i.am	293	5	25
+163586	5	23	No Variant	2020-05-12 — 22:52:38 UTC	Abbysue114, Iullo, Nitrate2, will.i.am, XMIL	145	5	25
 162618	4	0	Pink & Muddy Rainbow (5 Suits)	2020-05-12 — 03:07:56 UTC	alphabeta, melwen, sin_faith, will.i.am	6	5	25
 162552	3	0	Pink & Muddy Rainbow (5 Suits)	2020-05-12 — 02:31:22 UTC	kalisa, sin_faith, will.i.am	2	5	25
 162498	3	0	Pink & Muddy Rainbow (5 Suits)	2020-05-12 — 02:03:32 UTC	kalisa, sin_faith, will.i.am	3	5	25
 162488	3	0	Pink & Muddy Rainbow (5 Suits)	2020-05-12 — 01:55:29 UTC	kalisa, sin_faith, will.i.am	2	5	25
-162470	3	20	4 Suits	2020-05-12 — 01:46:25 UTC	claudiob, kalisa, will.i.am	160	4	20
-162299	3	24	No Variant	2020-05-11 — 23:29:08 UTC	asaelr, honzas, will.i.am	28	5	25
-162045	4	24	No Variant	2020-05-11 — 18:57:30 UTC	Ch1cken, frollo9386, swineherd, will.i.am	326	5	25
+162470	3	20	4 Suits	2020-05-12 — 01:46:25 UTC	claudiob, kalisa, will.i.am	162	4	20
+162299	3	24	No Variant	2020-05-11 — 23:29:08 UTC	asaelr, honzas, will.i.am	30	5	25
+162045	4	24	No Variant	2020-05-11 — 18:57:30 UTC	Ch1cken, frollo9386, swineherd, will.i.am	330	5	25
 161887	3	0	Pink & Muddy Rainbow (5 Suits)	2020-05-11 — 15:52:22 UTC	kooolant, robense, will.i.am	3	5	25
-161875	3	0	Pink & Muddy Rainbow (5 Suits)	2020-05-11 — 15:26:35 UTC	kooolant, robense, will.i.am	5	5	25
+161875	3	0	Pink & Muddy Rainbow (5 Suits)	2020-05-11 — 15:26:35 UTC	kooolant, robense, will.i.am	6	5	25
 161871	3	0	Pink & Muddy Rainbow (5 Suits)	2020-05-11 — 15:13:52 UTC	kooolant, robense, will.i.am	6	5	25
-161548	4	24	No Variant	2020-05-11 — 04:27:59 UTC	jotatohead, mikefrenil, swineherd, will.i.am	384	5	25
-161256	4	22	No Variant	2020-05-11 — 01:20:52 UTC	Abbysue114, honzas, magician12, will.i.am	233	5	25
-160874	5	25	No Variant	2020-05-10 — 21:11:18 UTC	Ch1cken, frollo9386, JDepp, swineherd, will.i.am	296	5	25
-160541	3	22	No Variant	2020-05-10 — 18:09:27 UTC	Alicja, Iullo, will.i.am	320	5	25
-160507	3	0	No Variant	2020-05-10 — 17:46:01 UTC	Alicja, Iullo, will.i.am	324	5	25
-160497	3	0	No Variant	2020-05-10 — 17:40:34 UTC	Alicja, Iullo, will.i.am	375	5	25
-160024	4	24	No Variant	2020-05-10 — 05:28:57 UTC	claudiob, HollyMichael, kalisa, will.i.am	336	5	25
-159901	3	0	No Variant	2020-05-10 — 04:29:19 UTC	claudiob, kalisa, will.i.am	344	5	25
-159122	3	0	Rainbow (6 Suits)	2020-05-09 — 21:52:33 UTC	angiegogo1, Iullo, will.i.am	183	6	30
-158892	3	25	No Variant	2020-05-09 — 20:06:58 UTC	asdfasdf, MarkusKahlsen, will.i.am	386	5	25
-158288	3	29	Rainbow (6 Suits)	2020-05-09 — 06:20:04 UTC	callistooooo, newacc, will.i.am	396	6	30
-158178	3	0	Rainbow (6 Suits)	2020-05-09 — 05:25:50 UTC	callistooooo, newacc, will.i.am	508	6	30
-158128	3	0	No Variant	2020-05-09 — 04:55:32 UTC	Abbysue114, DanTheMan, will.i.am	411	5	25
-157452	3	0	No Variant	2020-05-08 — 21:46:40 UTC	gogo_superstar, sofia4596, will.i.am	422	5	25
-157451	3	0	No Variant	2020-05-08 — 21:45:49 UTC	gogo_superstar, sofia4596, will.i.am	551	5	25
-157233	3	23	No Variant	2020-05-08 — 18:31:10 UTC	robense, TimeHoodie, will.i.am	57	5	25
-156654	4	23	No Variant	2020-05-08 — 02:47:24 UTC	just_a_dick, Nenen, smallman, will.i.am	419	5	25
-154963	3	22	No Variant	2020-05-06 — 22:54:30 UTC	Benny, Nitrate2, will.i.am	624	5	25
-154648	4	24	No Variant	2020-05-06 — 19:40:22 UTC	CastlesInTheAir, DrJones, Iullo, will.i.am	373	5	25
+161548	4	24	No Variant	2020-05-11 — 04:27:59 UTC	jotatohead, mikefrenil, swineherd, will.i.am	387	5	25
+161256	4	22	No Variant	2020-05-11 — 01:20:52 UTC	Abbysue114, honzas, magician12, will.i.am	236	5	25
+160874	5	25	No Variant	2020-05-10 — 21:11:18 UTC	Ch1cken, frollo9386, JDepp, swineherd, will.i.am	302	5	25
+160541	3	22	No Variant	2020-05-10 — 18:09:27 UTC	Alicja, Iullo, will.i.am	324	5	25
+160507	3	0	No Variant	2020-05-10 — 17:46:01 UTC	Alicja, Iullo, will.i.am	330	5	25
+160497	3	0	No Variant	2020-05-10 — 17:40:34 UTC	Alicja, Iullo, will.i.am	380	5	25
+160024	4	24	No Variant	2020-05-10 — 05:28:57 UTC	claudiob, HollyMichael, kalisa, will.i.am	340	5	25
+159901	3	0	No Variant	2020-05-10 — 04:29:19 UTC	claudiob, kalisa, will.i.am	353	5	25
+159122	3	0	Rainbow (6 Suits)	2020-05-09 — 21:52:33 UTC	angiegogo1, Iullo, will.i.am	186	6	30
+158892	3	25	No Variant	2020-05-09 — 20:06:58 UTC	asdfasdf, MarkusKahlsen, will.i.am	392	5	25
+158288	3	29	Rainbow (6 Suits)	2020-05-09 — 06:20:04 UTC	callistooooo, newacc, will.i.am	404	6	30
+158178	3	0	Rainbow (6 Suits)	2020-05-09 — 05:25:50 UTC	callistooooo, newacc, will.i.am	514	6	30
+158128	3	0	No Variant	2020-05-09 — 04:55:32 UTC	Abbysue114, DanTheMan, will.i.am	417	5	25
+157452	3	0	No Variant	2020-05-08 — 21:46:40 UTC	gogo_superstar, sofia4596, will.i.am	428	5	25
+157451	3	0	No Variant	2020-05-08 — 21:45:49 UTC	gogo_superstar, sofia4596, will.i.am	558	5	25
+157233	3	23	No Variant	2020-05-08 — 18:31:10 UTC	robense, TimeHoodie, will.i.am	58	5	25
+156654	4	23	No Variant	2020-05-08 — 02:47:24 UTC	just_a_dick, Nenen, smallman, will.i.am	423	5	25
+154963	3	22	No Variant	2020-05-06 — 22:54:30 UTC	Benny, Nitrate2, will.i.am	632	5	25
+154648	4	24	No Variant	2020-05-06 — 19:40:22 UTC	CastlesInTheAir, DrJones, Iullo, will.i.am	376	5	25
 153748	4	0	Special Mix (5 Suits)	2020-05-06 — 01:17:11 UTC	claudiob, lotem, Nitrate2, will.i.am	39	5	25
-153699	3	0	No Variant	2020-05-06 — 00:50:30 UTC	Benny, kalisa, will.i.am	451	5	25
-153659	3	24	No Variant	2020-05-06 — 00:34:22 UTC	Benny, kalisa, will.i.am	459	5	25
-152204	4	0	No Variant	2020-05-04 — 23:25:41 UTC	Benny, SmellyJoe, TheDaniMan, will.i.am	278	5	25
-151872	4	23	No Variant	2020-05-04 — 17:15:07 UTC	chriswck, Doctor Poop, robense, will.i.am	308	5	25
-151798	3	25	No Variant	2020-05-04 — 14:30:36 UTC	Nils, rotem, will.i.am	1465	5	25
-151490	2	0	No Variant	2020-05-04 — 05:48:21 UTC	jotatohead, will.i.am	854	5	25
-151482	2	23	No Variant	2020-05-04 — 05:37:09 UTC	jotatohead, will.i.am	883	5	25
-151462	2	22	No Variant	2020-05-04 — 05:17:03 UTC	jotatohead, will.i.am	921	5	25
-151375	4	25	No Variant	2020-05-04 — 04:28:46 UTC	Amberrose22, JC_from_BC, jotatohead, will.i.am	473	5	25
-151297	2	0	No Variant	2020-05-04 — 03:45:23 UTC	jotatohead, will.i.am	948	5	25
-151153	3	0	No Variant	2020-05-04 — 02:13:09 UTC	Othnia, ThorsKraken, will.i.am	121	5	25
-150924	4	0	No Variant	2020-05-04 — 00:18:06 UTC	ADrone, Doctor Poop, honzas, will.i.am	131	5	25
-150612	3	23	White (5 Suits)	2020-05-03 — 20:56:36 UTC	Div, LaFayetteX, will.i.am	48	5	25
-150333	3	25	No Variant	2020-05-03 — 18:18:21 UTC	arnino, TimeHoodie, will.i.am	516	5	25
-149636	3	0	No Variant	2020-05-03 — 05:15:49 UTC	Nitrate2, will.i.am, XMIL	194	5	25
-149540	3	24	No Variant	2020-05-03 — 04:23:14 UTC	Nitrate2, will.i.am, XMIL	213	5	25
-149472	3	0	No Variant	2020-05-03 — 03:45:05 UTC	Nitrate2, will.i.am, XMIL	259	5	25
-149315	3	23	No Variant	2020-05-03 — 02:27:03 UTC	datschris, qbphoenix, will.i.am	1636	5	25
-149019	3	23	No Variant	2020-05-03 — 00:02:19 UTC	Raitozan, will.i.am, XMIL	354	5	25
+153699	3	0	No Variant	2020-05-06 — 00:50:30 UTC	Benny, kalisa, will.i.am	456	5	25
+153659	3	24	No Variant	2020-05-06 — 00:34:22 UTC	Benny, kalisa, will.i.am	467	5	25
+152204	4	0	No Variant	2020-05-04 — 23:25:41 UTC	Benny, SmellyJoe, TheDaniMan, will.i.am	280	5	25
+151872	4	23	No Variant	2020-05-04 — 17:15:07 UTC	chriswck, Doctor Poop, robense, will.i.am	311	5	25
+151798	3	25	No Variant	2020-05-04 — 14:30:36 UTC	Nils, rotem, will.i.am	1474	5	25
+151490	2	0	No Variant	2020-05-04 — 05:48:21 UTC	jotatohead, will.i.am	863	5	25
+151482	2	23	No Variant	2020-05-04 — 05:37:09 UTC	jotatohead, will.i.am	890	5	25
+151462	2	22	No Variant	2020-05-04 — 05:17:03 UTC	jotatohead, will.i.am	931	5	25
+151375	4	25	No Variant	2020-05-04 — 04:28:46 UTC	Amberrose22, JC_from_BC, jotatohead, will.i.am	480	5	25
+151297	2	0	No Variant	2020-05-04 — 03:45:23 UTC	jotatohead, will.i.am	960	5	25
+151153	3	0	No Variant	2020-05-04 — 02:13:09 UTC	Othnia, ThorsKraken, will.i.am	127	5	25
+150924	4	0	No Variant	2020-05-04 — 00:18:06 UTC	ADrone, Doctor Poop, honzas, will.i.am	132	5	25
+150612	3	23	White (5 Suits)	2020-05-03 — 20:56:36 UTC	Div, LaFayetteX, will.i.am	52	5	25
+150333	3	25	No Variant	2020-05-03 — 18:18:21 UTC	arnino, TimeHoodie, will.i.am	523	5	25
+149636	3	0	No Variant	2020-05-03 — 05:15:49 UTC	Nitrate2, will.i.am, XMIL	198	5	25
+149540	3	24	No Variant	2020-05-03 — 04:23:14 UTC	Nitrate2, will.i.am, XMIL	218	5	25
+149472	3	0	No Variant	2020-05-03 — 03:45:05 UTC	Nitrate2, will.i.am, XMIL	261	5	25
+149315	3	23	No Variant	2020-05-03 — 02:27:03 UTC	datschris, qbphoenix, will.i.am	1651	5	25
+149019	3	23	No Variant	2020-05-03 — 00:02:19 UTC	Raitozan, will.i.am, XMIL	359	5	25
 148666	5	22	Special Mix (5 Suits)	2020-05-02 — 20:16:58 UTC	CastlesInTheAir, plus, robense, sin_faith, will.i.am	11	5	25
-147801	4	19	No Variant	2020-05-02 — 05:02:38 UTC	JDepp, jotatohead, kalisa, will.i.am	180	5	25
-147679	4	20	No Variant	2020-05-02 — 04:12:14 UTC	JDepp, jotatohead, kalisa, will.i.am	190	5	25
-147410	5	0	No Variant	2020-05-02 — 01:55:06 UTC	JimmyJimJim, Linq, omc00, SHanabi, will.i.am	837	5	25
-147263	2	24	No Variant	2020-05-02 — 00:56:15 UTC	RMKasse, will.i.am	976	5	25
-147237	2	0	No Variant	2020-05-02 — 00:41:56 UTC	Parmenion, will.i.am	393	5	25
-147103	3	25	No Variant	2020-05-01 — 22:45:59 UTC	kalisa, Nils, will.i.am	573	5	25
-147066	2	22	No Variant	2020-05-01 — 22:04:15 UTC	kalisa, will.i.am	626	5	25
-147021	2	22	No Variant	2020-05-01 — 21:26:01 UTC	kalisa, will.i.am	654	5	25
-146979	2	0	No Variant	2020-05-01 — 21:04:11 UTC	kalisa, will.i.am	677	5	25
-146035	2	23	No Variant	2020-05-01 — 04:25:57 UTC	will.i.am, zdaren	1031	5	25
-145937	4	23	No Variant	2020-05-01 — 03:23:30 UTC	Animex52, claudiob, dontmacme, will.i.am	442	5	25
-145892	4	0	No Variant	2020-05-01 — 02:55:51 UTC	Animex52, claudiob, dontmacme, will.i.am	501	5	25
-145865	4	0	No Variant	2020-05-01 — 02:40:17 UTC	Animex52, claudiob, dontmacme, will.i.am	541	5	25
-145835	3	21	No Variant	2020-05-01 — 02:24:33 UTC	claudiob, dontmacme, will.i.am	485	5	25
-145520	3	23	No Variant	2020-04-30 — 22:57:02 UTC	JDepp, robense, will.i.am	71	5	25
-145465	3	0	No Variant	2020-04-30 — 22:15:49 UTC	JDepp, LaFayetteX, will.i.am	224	5	25
-144203	3	25	No Variant	2020-04-30 — 02:15:10 UTC	alphabeta, honzas, will.i.am	250	5	25
-130223	2	25	No Variant	2020-04-20 — 05:05:20 UTC	jotatohead, will.i.am	1078	5	25
-130189	2	0	No Variant	2020-04-20 — 04:41:00 UTC	jotatohead, will.i.am	1117	5	25
-130156	2	0	No Variant	2020-04-20 — 04:15:19 UTC	jotatohead, will.i.am	1148	5	25
-126743	3	25	No Variant	2020-04-18 — 06:27:54 UTC	jotatohead, KevTee, will.i.am	645	5	25
-126706	3	0	No Variant	2020-04-18 — 06:02:10 UTC	jotatohead, KevTee, will.i.am	680	5	25
-126083	2	24	No Variant	2020-04-17 — 23:32:27 UTC	jotatohead, will.i.am	1206	5	25
-125988	2	23	No Variant	2020-04-17 — 22:42:41 UTC	jotatohead, will.i.am	1249	5	25
-125192	3	22	No Variant	2020-04-17 — 05:41:16 UTC	Fey, Othnia, will.i.am	275	5	25
-122582	2	22	No Variant	2020-04-15 — 03:46:47 UTC	jotatohead, will.i.am	1299	5	25
-122548	3	25	Black (6 Suits)	2020-04-15 — 03:25:43 UTC	jotatohead, kharthik24, will.i.am	399	6	30
-122499	2	0	6 Suits	2020-04-15 — 02:50:41 UTC	jotatohead, will.i.am	851	6	30
-120265	3	25	No Variant	2020-04-13 — 05:52:37 UTC	jotatohead, KevTee, will.i.am	750	5	25
-120218	3	0	No Variant	2020-04-13 — 05:06:07 UTC	jotatohead, KevTee, will.i.am	801	5	25
-120184	3	0	No Variant	2020-04-13 — 04:42:10 UTC	jotatohead, KevTee, will.i.am	840	5	25
-120157	3	0	No Variant	2020-04-13 — 04:23:00 UTC	jotatohead, KevTee, will.i.am	940	5	25
-120109	4	0	No Variant	2020-04-13 — 02:52:47 UTC	jotatohead, KevTee, varunjasti, will.i.am	601	5	25
-120068	4	24	No Variant	2020-04-13 — 02:27:26 UTC	jotatohead, KevTee, varunjasti, will.i.am	655	5	25
-120018	3	0	No Variant	2020-04-13 — 01:53:04 UTC	KevTee, varunjasti, will.i.am	1017	5	25
-119986	3	0	No Variant	2020-04-13 — 01:36:55 UTC	KevTee, varunjasti, will.i.am	1095	5	25
-119977	3	0	No Variant	2020-04-13 — 01:34:21 UTC	KevTee, varunjasti, will.i.am	1291	5	25
-118829	2	25	No Variant	2020-04-12 — 06:40:04 UTC	jotatohead, will.i.am	1376	5	25
-118807	2	24	No Variant	2020-04-12 — 06:16:39 UTC	jotatohead, will.i.am	1448	5	25
-118771	2	0	No Variant	2020-04-12 — 05:47:28 UTC	jotatohead, will.i.am	1532	5	25
-118765	2	0	No Variant	2020-04-12 — 05:41:25 UTC	jotatohead, will.i.am	1621	5	25
-118759	2	0	No Variant	2020-04-12 — 05:37:36 UTC	jotatohead, will.i.am	1703	5	25
-118336	3	21	No Variant	2020-04-12 — 01:16:03 UTC	kharthik24, QueenVic, will.i.am	1174	5	25
-117202	2	0	No Variant	2020-04-11 — 10:17:14 UTC	jotatohead, will.i.am	1840	5	25
-117186	2	0	No Variant	2020-04-11 — 09:30:30 UTC	jotatohead, will.i.am	1952	5	25
-117178	2	0	No Variant	2020-04-11 — 09:06:19 UTC	jotatohead, will.i.am	2147	5	25
-117161	2	0	No Variant	2020-04-11 — 08:31:15 UTC	jotatohead, will.i.am	2288	5	25
-117148	2	0	No Variant	2020-04-11 — 08:12:43 UTC	jotatohead, will.i.am	2532	5	25
-117129	2	0	No Variant	2020-04-11 — 07:45:51 UTC	jotatohead, will.i.am	2750	5	25
-117128	2	0	No Variant	2020-04-11 — 07:44:03 UTC	jotatohead, will.i.am	3051	5	25
-117116	2	0	No Variant	2020-04-11 — 07:25:27 UTC	jotatohead, will.i.am	3507	5	25
-117102	2	0	No Variant	2020-04-11 — 07:15:40 UTC	jotatohead, will.i.am	4109	5	25
-117089	4	25	No Variant	2020-04-11 — 06:58:25 UTC	KevTee, varunjasti, versacelambo, will.i.am	717	5	25
-117065	4	0	No Variant	2020-04-11 — 06:34:34 UTC	KevTee, varunjasti, versacelambo, will.i.am	793	5	25
-117045	4	23	No Variant	2020-04-11 — 06:18:34 UTC	KevTee, varunjasti, versacelambo, will.i.am	899	5	25
-116990	6	20	No Variant	2020-04-11 — 05:40:51 UTC	Keithchan10, KevTee, og vb sq, varunjasti, versacelambo, will.i.am	91	5	25
-116917	6	21	No Variant	2020-04-11 — 05:07:36 UTC	Keithchan10, KevTee, og vb sq, varunjasti, versacelambo, will.i.am	115	5	25
-116850	6	0	No Variant	2020-04-11 — 04:37:18 UTC	Keithchan10, KevTee, og vb sq, varunjasti, versacelambo, will.i.am	179	5	25
-116818	6	20	No Variant	2020-04-11 — 04:22:07 UTC	Keithchan10, KevTee, og vb sq, varunjasti, versacelambo, will.i.am	282	5	25
-116767	6	0	No Variant	2020-04-11 — 03:53:29 UTC	Keithchan10, KevTee, og vb sq, varunjasti, versacelambo, will.i.am	478	5	25
-116758	5	0	No Variant	2020-04-11 — 03:48:29 UTC	Keithchan10, KevTee, varunjasti, versacelambo, will.i.am	1119	5	25
-116754	5	0	No Variant	2020-04-11 — 03:47:08 UTC	Keithchan10, KevTee, varunjasti, versacelambo, will.i.am	1510	5	25
-116751	5	20	No Variant	2020-04-11 — 03:46:40 UTC	Keithchan10, KevTee, varunjasti, versacelambo, will.i.am	1995	5	25
-116683	4	0	No Variant	2020-04-11 — 03:12:27 UTC	KevTee, varunjasti, versacelambo, will.i.am	3581	5	25
-116197	3	19	No Variant	2020-04-10 — 21:55:31 UTC	Keithchan10, KevTee, will.i.am	1881	5	25
-116151	3	0	No Variant	2020-04-10 — 21:26:27 UTC	Keithchan10, KevTee, will.i.am	2163	5	25
-115536	2	23	No Variant	2020-04-10 — 08:59:47 UTC	jotatohead, will.i.am	5374	5	25
-115480	3	24	No Variant	2020-04-10 — 07:13:23 UTC	KevTee, varunjasti, will.i.am	2606	5	25
-115468	3	22	No Variant	2020-04-10 — 06:45:42 UTC	KevTee, varunjasti, will.i.am	3260	5	25
-115443	3	0	No Variant	2020-04-10 — 06:08:49 UTC	KevTee, varunjasti, will.i.am	4221	5	25
-115431	4	22	No Variant	2020-04-10 — 05:57:05 UTC	KevTee, og vb sq, varunjasti, will.i.am	985	5	25
-115389	4	0	No Variant	2020-04-10 — 05:23:20 UTC	KevTee, og vb sq, varunjasti, will.i.am	1092	5	25
-115344	4	22	No Variant	2020-04-10 — 04:54:57 UTC	KevTee, og vb sq, varunjasti, will.i.am	1253	5	25
-115298	4	21	No Variant	2020-04-10 — 04:19:42 UTC	KevTee, og vb sq, varunjasti, will.i.am	1449	5	25
-115231	4	0	No Variant	2020-04-10 — 03:37:49 UTC	KevTee, og vb sq, varunjasti, will.i.am	1744	5	25
-115175	4	0	No Variant	2020-04-10 — 03:01:04 UTC	KevTee, og vb sq, varunjasti, will.i.am	2076	5	25
-115164	4	22	No Variant	2020-04-10 — 02:55:08 UTC	KevTee, og vb sq, varunjasti, will.i.am	2763	5	25
+147801	4	19	No Variant	2020-05-02 — 05:02:38 UTC	JDepp, jotatohead, kalisa, will.i.am	182	5	25
+147679	4	20	No Variant	2020-05-02 — 04:12:14 UTC	JDepp, jotatohead, kalisa, will.i.am	192	5	25
+147410	5	0	No Variant	2020-05-02 — 01:55:06 UTC	JimmyJimJim, Linq, omc00, SHanabi, will.i.am	845	5	25
+147263	2	24	No Variant	2020-05-02 — 00:56:15 UTC	RMKasse, will.i.am	985	5	25
+147237	2	0	No Variant	2020-05-02 — 00:41:56 UTC	Parmenion, will.i.am	400	5	25
+147103	3	25	No Variant	2020-05-01 — 22:45:59 UTC	kalisa, Nils, will.i.am	582	5	25
+147066	2	22	No Variant	2020-05-01 — 22:04:15 UTC	kalisa, will.i.am	637	5	25
+147021	2	22	No Variant	2020-05-01 — 21:26:01 UTC	kalisa, will.i.am	664	5	25
+146979	2	0	No Variant	2020-05-01 — 21:04:11 UTC	kalisa, will.i.am	683	5	25
+146035	2	23	No Variant	2020-05-01 — 04:25:57 UTC	will.i.am, zdaren	1041	5	25
+145937	4	23	No Variant	2020-05-01 — 03:23:30 UTC	Animex52, claudiob, dontmacme, will.i.am	448	5	25
+145892	4	0	No Variant	2020-05-01 — 02:55:51 UTC	Animex52, claudiob, dontmacme, will.i.am	507	5	25
+145865	4	0	No Variant	2020-05-01 — 02:40:17 UTC	Animex52, claudiob, dontmacme, will.i.am	548	5	25
+145835	3	21	No Variant	2020-05-01 — 02:24:33 UTC	claudiob, dontmacme, will.i.am	491	5	25
+145520	3	23	No Variant	2020-04-30 — 22:57:02 UTC	JDepp, robense, will.i.am	73	5	25
+145465	3	0	No Variant	2020-04-30 — 22:15:49 UTC	JDepp, LaFayetteX, will.i.am	227	5	25
+144203	3	25	No Variant	2020-04-30 — 02:15:10 UTC	alphabeta, honzas, will.i.am	252	5	25
+130223	2	25	No Variant	2020-04-20 — 05:05:20 UTC	jotatohead, will.i.am	1089	5	25
+130189	2	0	No Variant	2020-04-20 — 04:41:00 UTC	jotatohead, will.i.am	1124	5	25
+130156	2	0	No Variant	2020-04-20 — 04:15:19 UTC	jotatohead, will.i.am	1159	5	25
+126743	3	25	No Variant	2020-04-18 — 06:27:54 UTC	jotatohead, KevTee, will.i.am	655	5	25
+126706	3	0	No Variant	2020-04-18 — 06:02:10 UTC	jotatohead, KevTee, will.i.am	688	5	25
+126083	2	24	No Variant	2020-04-17 — 23:32:27 UTC	jotatohead, will.i.am	1219	5	25
+125988	2	23	No Variant	2020-04-17 — 22:42:41 UTC	jotatohead, will.i.am	1263	5	25
+125192	3	22	No Variant	2020-04-17 — 05:41:16 UTC	Fey, Othnia, will.i.am	277	5	25
+122582	2	22	No Variant	2020-04-15 — 03:46:47 UTC	jotatohead, will.i.am	1311	5	25
+122548	3	25	Black (6 Suits)	2020-04-15 — 03:25:43 UTC	jotatohead, kharthik24, will.i.am	407	6	30
+122499	2	0	6 Suits	2020-04-15 — 02:50:41 UTC	jotatohead, will.i.am	862	6	30
+120265	3	25	No Variant	2020-04-13 — 05:52:37 UTC	jotatohead, KevTee, will.i.am	757	5	25
+120218	3	0	No Variant	2020-04-13 — 05:06:07 UTC	jotatohead, KevTee, will.i.am	809	5	25
+120184	3	0	No Variant	2020-04-13 — 04:42:10 UTC	jotatohead, KevTee, will.i.am	849	5	25
+120157	3	0	No Variant	2020-04-13 — 04:23:00 UTC	jotatohead, KevTee, will.i.am	952	5	25
+120109	4	0	No Variant	2020-04-13 — 02:52:47 UTC	jotatohead, KevTee, varunjasti, will.i.am	606	5	25
+120068	4	24	No Variant	2020-04-13 — 02:27:26 UTC	jotatohead, KevTee, varunjasti, will.i.am	660	5	25
+120018	3	0	No Variant	2020-04-13 — 01:53:04 UTC	KevTee, varunjasti, will.i.am	1026	5	25
+119986	3	0	No Variant	2020-04-13 — 01:36:55 UTC	KevTee, varunjasti, will.i.am	1102	5	25
+119977	3	0	No Variant	2020-04-13 — 01:34:21 UTC	KevTee, varunjasti, will.i.am	1299	5	25
+118829	2	25	No Variant	2020-04-12 — 06:40:04 UTC	jotatohead, will.i.am	1392	5	25
+118807	2	24	No Variant	2020-04-12 — 06:16:39 UTC	jotatohead, will.i.am	1460	5	25
+118771	2	0	No Variant	2020-04-12 — 05:47:28 UTC	jotatohead, will.i.am	1547	5	25
+118765	2	0	No Variant	2020-04-12 — 05:41:25 UTC	jotatohead, will.i.am	1637	5	25
+118759	2	0	No Variant	2020-04-12 — 05:37:36 UTC	jotatohead, will.i.am	1721	5	25
+118336	3	21	No Variant	2020-04-12 — 01:16:03 UTC	kharthik24, QueenVic, will.i.am	1180	5	25
+117202	2	0	No Variant	2020-04-11 — 10:17:14 UTC	jotatohead, will.i.am	1856	5	25
+117186	2	0	No Variant	2020-04-11 — 09:30:30 UTC	jotatohead, will.i.am	1966	5	25
+117178	2	0	No Variant	2020-04-11 — 09:06:19 UTC	jotatohead, will.i.am	2166	5	25
+117161	2	0	No Variant	2020-04-11 — 08:31:15 UTC	jotatohead, will.i.am	2307	5	25
+117148	2	0	No Variant	2020-04-11 — 08:12:43 UTC	jotatohead, will.i.am	2552	5	25
+117129	2	0	No Variant	2020-04-11 — 07:45:51 UTC	jotatohead, will.i.am	2772	5	25
+117128	2	0	No Variant	2020-04-11 — 07:44:03 UTC	jotatohead, will.i.am	3072	5	25
+117116	2	0	No Variant	2020-04-11 — 07:25:27 UTC	jotatohead, will.i.am	3537	5	25
+117102	2	0	No Variant	2020-04-11 — 07:15:40 UTC	jotatohead, will.i.am	4149	5	25
+117089	4	25	No Variant	2020-04-11 — 06:58:25 UTC	KevTee, varunjasti, versacelambo, will.i.am	724	5	25
+117065	4	0	No Variant	2020-04-11 — 06:34:34 UTC	KevTee, varunjasti, versacelambo, will.i.am	800	5	25
+117045	4	23	No Variant	2020-04-11 — 06:18:34 UTC	KevTee, varunjasti, versacelambo, will.i.am	908	5	25
+116990	6	20	No Variant	2020-04-11 — 05:40:51 UTC	Keithchan10, KevTee, og vb sq, varunjasti, versacelambo, will.i.am	92	5	25
+116917	6	21	No Variant	2020-04-11 — 05:07:36 UTC	Keithchan10, KevTee, og vb sq, varunjasti, versacelambo, will.i.am	118	5	25
+116850	6	0	No Variant	2020-04-11 — 04:37:18 UTC	Keithchan10, KevTee, og vb sq, varunjasti, versacelambo, will.i.am	181	5	25
+116818	6	20	No Variant	2020-04-11 — 04:22:07 UTC	Keithchan10, KevTee, og vb sq, varunjasti, versacelambo, will.i.am	284	5	25
+116767	6	0	No Variant	2020-04-11 — 03:53:29 UTC	Keithchan10, KevTee, og vb sq, varunjasti, versacelambo, will.i.am	483	5	25
+116758	5	0	No Variant	2020-04-11 — 03:48:29 UTC	Keithchan10, KevTee, varunjasti, versacelambo, will.i.am	1125	5	25
+116754	5	0	No Variant	2020-04-11 — 03:47:08 UTC	Keithchan10, KevTee, varunjasti, versacelambo, will.i.am	1518	5	25
+116751	5	20	No Variant	2020-04-11 — 03:46:40 UTC	Keithchan10, KevTee, varunjasti, versacelambo, will.i.am	2011	5	25
+116683	4	0	No Variant	2020-04-11 — 03:12:27 UTC	KevTee, varunjasti, versacelambo, will.i.am	3609	5	25
+116197	3	19	No Variant	2020-04-10 — 21:55:31 UTC	Keithchan10, KevTee, will.i.am	1896	5	25
+116151	3	0	No Variant	2020-04-10 — 21:26:27 UTC	Keithchan10, KevTee, will.i.am	2179	5	25
+115536	2	23	No Variant	2020-04-10 — 08:59:47 UTC	jotatohead, will.i.am	5421	5	25
+115480	3	24	No Variant	2020-04-10 — 07:13:23 UTC	KevTee, varunjasti, will.i.am	2627	5	25
+115468	3	22	No Variant	2020-04-10 — 06:45:42 UTC	KevTee, varunjasti, will.i.am	3290	5	25
+115443	3	0	No Variant	2020-04-10 — 06:08:49 UTC	KevTee, varunjasti, will.i.am	4250	5	25
+115431	4	22	No Variant	2020-04-10 — 05:57:05 UTC	KevTee, og vb sq, varunjasti, will.i.am	994	5	25
+115389	4	0	No Variant	2020-04-10 — 05:23:20 UTC	KevTee, og vb sq, varunjasti, will.i.am	1103	5	25
+115344	4	22	No Variant	2020-04-10 — 04:54:57 UTC	KevTee, og vb sq, varunjasti, will.i.am	1267	5	25
+115298	4	21	No Variant	2020-04-10 — 04:19:42 UTC	KevTee, og vb sq, varunjasti, will.i.am	1459	5	25
+115231	4	0	No Variant	2020-04-10 — 03:37:49 UTC	KevTee, og vb sq, varunjasti, will.i.am	1759	5	25
+115175	4	0	No Variant	2020-04-10 — 03:01:04 UTC	KevTee, og vb sq, varunjasti, will.i.am	2094	5	25
+115164	4	22	No Variant	2020-04-10 — 02:55:08 UTC	KevTee, og vb sq, varunjasti, will.i.am	2788	5	25

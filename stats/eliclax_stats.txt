@@ -1,9 +1,9 @@
-467871	5	17	No Variant	2021-03-14 — 08:59:49 UTC	eliclax, Kazu, Kranosaurus, leaderal01, Toshiro_Saiba	100	5	25
-467855	5	17	No Variant	2021-03-14 — 08:10:40 UTC	eliclax, Kazu, Kranosaurus, leaderal01, Toshiro_Saiba	109	5	25
-467848	5	0	No Variant	2021-03-14 — 07:44:51 UTC	eliclax, Kazu, Kranosaurus, leaderal01, Toshiro_Saiba	207	5	25
-467843	5	0	No Variant	2021-03-14 — 07:34:06 UTC	eliclax, Kazu, Kranosaurus, leaderal01, Toshiro_Saiba	837	5	25
+467871	5	17	No Variant	2021-03-14 — 08:59:49 UTC	eliclax, Kazu, Kranosaurus, leaderal01, Toshiro_Saiba	102	5	25
+467855	5	17	No Variant	2021-03-14 — 08:10:40 UTC	eliclax, Kazu, Kranosaurus, leaderal01, Toshiro_Saiba	112	5	25
+467848	5	0	No Variant	2021-03-14 — 07:44:51 UTC	eliclax, Kazu, Kranosaurus, leaderal01, Toshiro_Saiba	208	5	25
+467843	5	0	No Variant	2021-03-14 — 07:34:06 UTC	eliclax, Kazu, Kranosaurus, leaderal01, Toshiro_Saiba	845	5	25
 464539	4	0	White-Ones & Pink (5 Suits)	2021-03-11 — 11:08:41 UTC	eliclax, kopen, Lanvin, TimeHoodie	4	5	25
-464482	2	25	Rainbow (5 Suits)	2021-03-11 — 09:15:34 UTC	dobi, eliclax	248	5	25
+464482	2	25	Rainbow (5 Suits)	2021-03-11 — 09:15:34 UTC	dobi, eliclax	257	5	25
 464325	4	30	Dark Null (6 Suits)	2021-03-11 — 04:19:25 UTC	Bonja97, eliclax, melwen, TimeHoodie	5	6	30
 464309	4	0	Dark Null (6 Suits)	2021-03-11 — 03:51:13 UTC	eliclax, Lel0uch, melwen, TimeHoodie	6	6	30
 464293	6	30	6 Suits	2021-03-11 — 03:26:16 UTC	Bonja97, eliclax, Lel0uch, melwen, squirrel1988, TimeHoodie	1	6	30
@@ -11,23 +11,23 @@
 464228	6	25	White & Omni (5 Suits)	2021-03-11 — 02:24:40 UTC	aquarelle, eliclax, HelanaAshryvr, melwen, squirrel1988, TimeHoodie	1	5	25
 464204	4	0	Brown & Prism (5 Suits)	2021-03-11 — 01:54:02 UTC	eliclax, kinkajusrevenge, torp, wolfpack	11	5	25
 463678	5	0	Up or Down (5 Suits)	2021-03-10 — 17:02:39 UTC	eliclax, knaphill, Lanvin, rz, Wittvector	19	5	25
-463663	3	24	Up or Down (5 Suits)	2021-03-10 — 16:38:24 UTC	eliclax, knaphill, orucsoraihc	62	5	25
-463655	3	0	Up or Down (5 Suits)	2021-03-10 — 16:16:09 UTC	eliclax, knaphill, orucsoraihc	88	5	25
-463637	3	23	Up or Down (5 Suits)	2021-03-10 — 15:57:45 UTC	eliclax, knaphill, orucsoraihc	113	5	25
+463663	3	24	Up or Down (5 Suits)	2021-03-10 — 16:38:24 UTC	eliclax, knaphill, orucsoraihc	64	5	25
+463655	3	0	Up or Down (5 Suits)	2021-03-10 — 16:16:09 UTC	eliclax, knaphill, orucsoraihc	89	5	25
+463637	3	23	Up or Down (5 Suits)	2021-03-10 — 15:57:45 UTC	eliclax, knaphill, orucsoraihc	114	5	25
 463527	5	0	Black (5 Suits)	2021-03-10 — 13:17:21 UTC	eliclax, hakha3, jack67889, Lanvin, qqqq	6	5	25
 463522	5	0	Black (5 Suits)	2021-03-10 — 13:04:50 UTC	eliclax, hakha3, jack67889, Lanvin, qqqq	5	5	25
-463504	5	22	Black (5 Suits)	2021-03-10 — 12:36:20 UTC	eliclax, hakha3, jack67889, Lanvin, qqqq	5	5	25
+463504	5	22	Black (5 Suits)	2021-03-10 — 12:36:20 UTC	eliclax, hakha3, jack67889, Lanvin, qqqq	6	5	25
 463496	4	0	Pink & Omni (4 Suits)	2021-03-10 — 12:08:12 UTC	eliclax, hakha3, Lanvin, qqqq	4	4	20
-463490	4	25	Black (5 Suits)	2021-03-10 — 11:49:10 UTC	Denchulitas, eliclax, hakha3, Lanvin	9	5	25
+463490	4	25	Black (5 Suits)	2021-03-10 — 11:49:10 UTC	Denchulitas, eliclax, hakha3, Lanvin	10	5	25
 463482	6	25	Rainbow & Brown (5 Suits)	2021-03-10 — 11:23:25 UTC	Denchulitas, eliclax, hakha3, indego, qqqq, sephiroth	3	5	25
 463475	3	25	Dark Omni (5 Suits)	2021-03-10 — 10:51:02 UTC	eliclax, hakha3, skyblueexo	16	5	25
-463471	5	24	No Variant	2021-03-10 — 10:12:32 UTC	3swag3pro, bingchin, eliclax, grossfudge123, hamood	120	5	25
-463460	3	0	No Variant	2021-03-10 — 09:29:28 UTC	bingchin, eliclax, grossfudge123	573	5	25
-463456	2	0	Dark Rainbow (5 Suits)	2021-03-10 — 09:13:17 UTC	eliclax, robense	39	5	25
-463452	2	0	Dark Rainbow (5 Suits)	2021-03-10 — 09:06:58 UTC	eliclax, robense	47	5	25
-463313	2	21	Gray (5 Suits)	2021-03-10 — 05:08:46 UTC	dobi, eliclax	66	5	25
-463300	2	24	Gray (5 Suits)	2021-03-10 — 04:55:58 UTC	dobi, eliclax	79	5	25
-463276	5	0	No Variant	2021-03-10 — 04:34:20 UTC	eliclax, Lanvin, Lel0uch, melwen, squirrel1988	41	5	25
+463471	5	24	No Variant	2021-03-10 — 10:12:32 UTC	3swag3pro, bingchin, eliclax, grossfudge123, hamood	122	5	25
+463460	3	0	No Variant	2021-03-10 — 09:29:28 UTC	bingchin, eliclax, grossfudge123	582	5	25
+463456	2	0	Dark Rainbow (5 Suits)	2021-03-10 — 09:13:17 UTC	eliclax, robense	41	5	25
+463452	2	0	Dark Rainbow (5 Suits)	2021-03-10 — 09:06:58 UTC	eliclax, robense	49	5	25
+463313	2	21	Gray (5 Suits)	2021-03-10 — 05:08:46 UTC	dobi, eliclax	67	5	25
+463300	2	24	Gray (5 Suits)	2021-03-10 — 04:55:58 UTC	dobi, eliclax	80	5	25
+463276	5	0	No Variant	2021-03-10 — 04:34:20 UTC	eliclax, Lanvin, Lel0uch, melwen, squirrel1988	42	5	25
 463243	6	0	White & Muddy Rainbow (6 Suits)	2021-03-10 — 04:04:07 UTC	altdfsf, eliclax, Lel0uch, melwen, rz, squirrel1988	1	6	30
 462452	4	0	Pink & Gray Pink (5 Suits)	2021-03-09 — 16:49:59 UTC	eliclax, indego, lotem, Nitrate2	1	5	25
 462441	4	0	Pink & Gray Pink (5 Suits)	2021-03-09 — 16:31:36 UTC	eliclax, indego, lotem, Nitrate2	1	5	25
@@ -41,7 +41,7 @@
 462400	5	26	Pink & Dark Omni (6 Suits)	2021-03-09 — 15:08:17 UTC	eliclax, Lanvin, Lel0uch, melwen, VerySloppyTwo	1	6	30
 462377	6	0	Pink & Dark Omni (6 Suits)	2021-03-09 — 14:40:07 UTC	eliclax, indego, Lanvin, Lel0uch, melwen, VerySloppyTwo	1	6	30
 462362	5	0	Pink & Dark Omni (6 Suits)	2021-03-09 — 14:17:19 UTC	eliclax, indego, Lanvin, Lel0uch, melwen	1	6	30
-461992	3	0	No Variant	2021-03-09 — 01:52:54 UTC	eliclax, EthanMcGee, thejazzagent	386	5	25
+461992	3	0	No Variant	2021-03-09 — 01:52:54 UTC	eliclax, EthanMcGee, thejazzagent	392	5	25
 461495	4	25	No Variant	2021-03-08 — 17:11:06 UTC	eliclax, Floriman, Kyle, sjdrodge	4	5	25
 461477	4	25	No Variant	2021-03-08 — 16:51:18 UTC	eliclax, Floriman, Kyle, sjdrodge	5	5	25
 461463	4	23	No Variant	2021-03-08 — 16:34:32 UTC	eliclax, Floriman, Kyle, sjdrodge	6	5	25
@@ -63,10 +63,10 @@
 461237	4	0	Pink & Dark Omni (6 Suits)	2021-03-08 — 09:19:27 UTC	eliclax, indego, Lel0uch, VerySloppyTwo	3	6	30
 461230	5	0	Rainbow & Prism (5 Suits)	2021-03-08 — 09:02:20 UTC	Bot-Fiora, eliclax, indego, pianoblook, possum	3	5	25
 461224	5	0	Rainbow & Prism (5 Suits)	2021-03-08 — 08:46:38 UTC	Bot-Fiora, eliclax, indego, pianoblook, possum	8	5	25
-460122	3	25	No Variant	2021-03-07 — 15:04:05 UTC	eliclax, eljavi, skyblueexo	106	5	25
-460117	3	0	No Variant	2021-03-07 — 14:54:07 UTC	eliclax, eljavi, skyblueexo	110	5	25
+460122	3	25	No Variant	2021-03-07 — 15:04:05 UTC	eliclax, eljavi, skyblueexo	110	5	25
+460117	3	0	No Variant	2021-03-07 — 14:54:07 UTC	eliclax, eljavi, skyblueexo	114	5	25
 460107	5	0	Black & White (6 Suits)	2021-03-07 — 14:37:53 UTC	Denchulitas, eliclax, Lanvin, robense, Spieler42	3	6	30
-460092	3	15	3 Suits	2021-03-07 — 14:03:48 UTC	eliclax, possum, skyblueexo	74	3	15
+460092	3	15	3 Suits	2021-03-07 — 14:03:48 UTC	eliclax, possum, skyblueexo	75	3	15
 460069	4	0	Black (5 Suits)	2021-03-07 — 13:15:25 UTC	eliclax, knaphill, possum, Spieler42	13	5	25
 460055	4	23	Black (5 Suits)	2021-03-07 — 12:37:42 UTC	eliclax, knaphill, possum, Spieler42	14	5	25
 460038	4	0	Black (5 Suits)	2021-03-07 — 12:05:20 UTC	eliclax, knaphill, possum, Spieler42	23	5	25
@@ -77,26 +77,26 @@
 458877	4	0	White-Fives & Dark Omni (5 Suits)	2021-03-06 — 15:16:55 UTC	eliclax, Lanvin, VerySloppyTwo, wump	2	5	25
 458860	6	25	Brown (5 Suits)	2021-03-06 — 14:56:09 UTC	ChristopheAF, eliclax, hakha3, Lel0uch, sin_faith, wortel	4	5	25
 458842	6	0	Brown (5 Suits)	2021-03-06 — 14:26:04 UTC	ChristopheAF, eliclax, hakha3, Lel0uch, sin_faith, wortel	5	5	25
-458831	3	24	Black (5 Suits)	2021-03-06 — 14:02:01 UTC	eliclax, sin_faith, wortel	74	5	25
+458831	3	24	Black (5 Suits)	2021-03-06 — 14:02:01 UTC	eliclax, sin_faith, wortel	76	5	25
 458812	4	24	Rainbow & Prism (5 Suits)	2021-03-06 — 13:27:58 UTC	eliclax, knaphill, Lanvin, Wittvector	5	5	25
 458804	4	0	Rainbow & Prism (5 Suits)	2021-03-06 — 12:54:46 UTC	eliclax, knaphill, Lanvin, Wittvector	16	5	25
-458802	2	0	6 Suits	2021-03-06 — 12:43:41 UTC	eliclax, Lanvin	207	6	30
-458798	2	15	White (3 Suits)	2021-03-06 — 12:29:45 UTC	eliclax, Lanvin	95	3	15
+458802	2	0	6 Suits	2021-03-06 — 12:43:41 UTC	eliclax, Lanvin	211	6	30
+458798	2	15	White (3 Suits)	2021-03-06 — 12:29:45 UTC	eliclax, Lanvin	100	3	15
 458793	3	25	Light-Pink-Ones & Pink (5 Suits)	2021-03-06 — 12:14:21 UTC	eliclax, Lanvin, MarkusKahlsen	2	5	25
 458788	3	20	Throw It in a Hole (4 Suits)	2021-03-06 — 11:46:05 UTC	eliclax, Fey, louietyj	6	4	20
 458777	3	17	Throw It in a Hole (4 Suits)	2021-03-06 — 11:26:54 UTC	eliclax, Fey, louietyj	6	4	20
 458767	4	0	Null (5 Suits)	2021-03-06 — 10:41:08 UTC	eliclax, Lel0uch, louietyj, Wittvector	8	5	25
 458762	4	0	Null (5 Suits)	2021-03-06 — 10:17:43 UTC	eliclax, Lel0uch, louietyj, Wittvector	14	5	25
 458753	4	21	Up or Down (5 Suits)	2021-03-06 — 09:42:42 UTC	eliclax, Kernel, lolthisnotderk, louietyj	52	5	25
-458743	3	30	Rainbow (6 Suits)	2021-03-06 — 09:16:00 UTC	eliclax, Kernel, lolthisnotderk	508	6	30
+458743	3	30	Rainbow (6 Suits)	2021-03-06 — 09:16:00 UTC	eliclax, Kernel, lolthisnotderk	514	6	30
 458627	4	0	Dark Rainbow (5 Suits)	2021-03-06 — 06:09:53 UTC	eliclax, nwajfromoz, Onen, orucsoraihc	17	5	25
-458624	4	0	Dark Rainbow (5 Suits)	2021-03-06 — 06:07:18 UTC	eliclax, nwajfromoz, Onen, orucsoraihc	20	5	25
-458604	4	22	Dark Rainbow (5 Suits)	2021-03-06 — 05:53:27 UTC	eliclax, nwajfromoz, Onen, orucsoraihc	19	5	25
+458624	4	0	Dark Rainbow (5 Suits)	2021-03-06 — 06:07:18 UTC	eliclax, nwajfromoz, Onen, orucsoraihc	21	5	25
+458604	4	22	Dark Rainbow (5 Suits)	2021-03-06 — 05:53:27 UTC	eliclax, nwajfromoz, Onen, orucsoraihc	20	5	25
 458576	4	0	Dark Rainbow (5 Suits)	2021-03-06 — 05:34:37 UTC	eliclax, nwajfromoz, Onen, orucsoraihc	24	5	25
-458569	4	0	Dark Rainbow (5 Suits)	2021-03-06 — 05:26:25 UTC	eliclax, nwajfromoz, Onen, orucsoraihc	23	5	25
+458569	4	0	Dark Rainbow (5 Suits)	2021-03-06 — 05:26:25 UTC	eliclax, nwajfromoz, Onen, orucsoraihc	24	5	25
 458561	4	0	Dark Rainbow (5 Suits)	2021-03-06 — 05:17:03 UTC	eliclax, nwajfromoz, Onen, orucsoraihc	29	5	25
-458547	4	30	Rainbow (6 Suits)	2021-03-06 — 04:58:40 UTC	eliclax, orucsoraihc, otterful, torp	275	6	30
-458510	4	0	Rainbow (6 Suits)	2021-03-06 — 04:30:13 UTC	eliclax, orucsoraihc, otterful, torp	344	6	30
+458547	4	30	Rainbow (6 Suits)	2021-03-06 — 04:58:40 UTC	eliclax, orucsoraihc, otterful, torp	280	6	30
+458510	4	0	Rainbow (6 Suits)	2021-03-06 — 04:30:13 UTC	eliclax, orucsoraihc, otterful, torp	349	6	30
 458475	5	27	Brown (6 Suits)	2021-03-06 — 04:09:30 UTC	eliclax, eljavi, lolthisnotderk, otterful, torp	5	6	30
 458438	5	29	Brown (6 Suits)	2021-03-06 — 03:41:00 UTC	eliclax, eljavi, lolthisnotderk, otterful, torp	5	6	30
 458394	5	27	Brown (6 Suits)	2021-03-06 — 03:09:49 UTC	eliclax, eljavi, lolthisnotderk, otterful, torp	10	6	30
@@ -109,21 +109,21 @@
 457588	5	0	Rainbow (6 Suits)	2021-03-05 — 14:42:59 UTC	Denchulitas, eliclax, Lel0uch, melwen, possum	24	6	30
 457563	5	0	Rainbow (6 Suits)	2021-03-05 — 14:03:33 UTC	eliclax, Lel0uch, melwen, possum, VerySloppyTwo	24	6	30
 457547	3	23	Pink & Gray (6 Suits)	2021-03-05 — 13:29:04 UTC	eliclax, Lel0uch, melwen	10	6	30
-457522	3	25	Throw It in a Hole (5 Suits)	2021-03-05 — 12:01:51 UTC	eliclax, knaphill, macanek	30	5	25
+457522	3	25	Throw It in a Hole (5 Suits)	2021-03-05 — 12:01:51 UTC	eliclax, knaphill, macanek	31	5	25
 457512	4	0	Throw It in a Hole (5 Suits)	2021-03-05 — 11:31:10 UTC	DarthGandalf, eliclax, knaphill, macanek	40	5	25
 457498	2	15	Pink (3 Suits)	2021-03-05 — 10:53:21 UTC	eliclax, grossfudge123	49	3	15
-457493	2	14	Pink (3 Suits)	2021-03-05 — 10:36:49 UTC	eliclax, grossfudge123	53	3	15
-457489	2	13	Pink (3 Suits)	2021-03-05 — 10:24:38 UTC	eliclax, grossfudge123	64	3	15
-457485	2	0	Pink (3 Suits)	2021-03-05 — 10:10:15 UTC	eliclax, grossfudge123	87	3	15
-457473	2	27	6 Suits	2021-03-05 — 09:53:03 UTC	eliclax, grossfudge123	304	6	30
-457464	2	0	6 Suits	2021-03-05 — 09:28:33 UTC	eliclax, grossfudge123	593	6	30
-457463	2	0	6 Suits	2021-03-05 — 09:24:37 UTC	eliclax, grossfudge123	666	6	30
-457460	2	0	6 Suits	2021-03-05 — 09:14:56 UTC	eliclax, grossfudge123	851	6	30
+457493	2	14	Pink (3 Suits)	2021-03-05 — 10:36:49 UTC	eliclax, grossfudge123	54	3	15
+457489	2	13	Pink (3 Suits)	2021-03-05 — 10:24:38 UTC	eliclax, grossfudge123	65	3	15
+457485	2	0	Pink (3 Suits)	2021-03-05 — 10:10:15 UTC	eliclax, grossfudge123	89	3	15
+457473	2	27	6 Suits	2021-03-05 — 09:53:03 UTC	eliclax, grossfudge123	315	6	30
+457464	2	0	6 Suits	2021-03-05 — 09:28:33 UTC	eliclax, grossfudge123	601	6	30
+457463	2	0	6 Suits	2021-03-05 — 09:24:37 UTC	eliclax, grossfudge123	675	6	30
+457460	2	0	6 Suits	2021-03-05 — 09:14:56 UTC	eliclax, grossfudge123	862	6	30
 457449	3	18	Ambiguous (4 Suits)	2021-03-05 — 08:48:50 UTC	DarthGandalf, eliclax, macanek	39	4	20
-457195	3	30	Light Pink (6 Suits)	2021-03-05 — 03:36:44 UTC	eliclax, griff77, TimeHoodie	34	6	30
+457195	3	30	Light Pink (6 Suits)	2021-03-05 — 03:36:44 UTC	eliclax, griff77, TimeHoodie	37	6	30
 456488	5	0	Black & Prism (6 Suits)	2021-03-04 — 17:27:47 UTC	eliclax, knaphill, Lanvin, orucsoraihc, rz	4	6	30
 456477	5	0	Black & Prism (6 Suits)	2021-03-04 — 17:11:23 UTC	eliclax, knaphill, Lanvin, orucsoraihc, rz	4	6	30
-456470	3	24	Gray (5 Suits)	2021-03-04 — 16:49:22 UTC	eliclax, Lanvin, rz	42	5	25
+456470	3	24	Gray (5 Suits)	2021-03-04 — 16:49:22 UTC	eliclax, Lanvin, rz	44	5	25
 456434	5	0	Pink & Dark Omni (6 Suits)	2021-03-04 — 15:39:54 UTC	eliclax, Lel0uch, MangoPie, melwen, TimeHoodie	1	6	30
 456409	5	0	Pink & Dark Omni (6 Suits)	2021-03-04 — 15:08:13 UTC	eliclax, Lel0uch, MangoPie, melwen, TimeHoodie	1	6	30
 456227	4	30	Prism (6 Suits)	2021-03-04 — 09:33:06 UTC	eliclax, kopen, possum, Spieler42	53	6	30
@@ -135,44 +135,44 @@
 456172	4	0	Light Pink (3 Suits)	2021-03-04 — 06:45:59 UTC	eliclax, FerKeth, indego, newduke	5	3	15
 456150	4	0	Light Pink (3 Suits)	2021-03-04 — 06:17:18 UTC	eliclax, FerKeth, indego, newduke	9	3	15
 456136	4	0	Light Pink (3 Suits)	2021-03-04 — 05:52:39 UTC	eliclax, FerKeth, indego, newduke	10	3	15
-456103	3	14	3 Suits	2021-03-04 — 05:34:28 UTC	bjnh, corys, eliclax	51	3	15
+456103	3	14	3 Suits	2021-03-04 — 05:34:28 UTC	bjnh, corys, eliclax	52	3	15
 456062	4	0	Brown-Ones & White (5 Suits)	2021-03-04 — 05:18:32 UTC	corys, eliclax, torp, xor	5	5	25
 456021	4	25	Brown-Ones & White (5 Suits)	2021-03-04 — 05:01:14 UTC	corys, eliclax, torp, xor	7	5	25
-455995	4	0	Rainbow & White (6 Suits)	2021-03-04 — 04:33:39 UTC	corys, eliclax, griff77, xor	12	6	30
-455982	4	0	Rainbow & White (6 Suits)	2021-03-04 — 04:19:42 UTC	corys, eliclax, griff77, xor	16	6	30
+455995	4	0	Rainbow & White (6 Suits)	2021-03-04 — 04:33:39 UTC	corys, eliclax, griff77, xor	13	6	30
+455982	4	0	Rainbow & White (6 Suits)	2021-03-04 — 04:19:42 UTC	corys, eliclax, griff77, xor	17	6	30
 455960	4	0	White & Dark Rainbow (6 Suits)	2021-03-04 — 03:51:05 UTC	eliclax, griff77, jeff10, orucsoraihc	3	6	30
 455942	4	0	White & Dark Rainbow (6 Suits)	2021-03-04 — 03:30:45 UTC	eliclax, griff77, jeff10, orucsoraihc	8	6	30
 455928	3	27	Dark Rainbow (6 Suits)	2021-03-04 — 03:12:07 UTC	eliclax, jeff10, Lel0uch	62	6	30
 455237	4	0	Rainbow & Prism (5 Suits)	2021-03-03 — 13:18:58 UTC	eliclax, Fey, lotem, wortel	9	5	25
 455228	3	0	White & Prism (5 Suits)	2021-03-03 — 13:03:54 UTC	eliclax, Fey, MasN	16	5	25
 455218	3	0	White & Prism (5 Suits)	2021-03-03 — 12:49:03 UTC	eliclax, Fey, MasN	17	5	25
-455208	3	27	Black & White (6 Suits)	2021-03-03 — 12:28:00 UTC	Denchulitas, eliclax, MasN	47	6	30
+455208	3	27	Black & White (6 Suits)	2021-03-03 — 12:28:00 UTC	Denchulitas, eliclax, MasN	48	6	30
 455194	5	0	Black & White (6 Suits)	2021-03-03 — 11:52:58 UTC	asaelr, Denchulitas, eliclax, possum, sephiroth	2	6	30
 455173	5	0	Black & White (6 Suits)	2021-03-03 — 11:24:44 UTC	asaelr, Denchulitas, eliclax, possum, sephiroth	2	6	30
 455164	5	0	Black & White (6 Suits)	2021-03-03 — 10:54:23 UTC	asaelr, Denchulitas, eliclax, possum, sephiroth	3	6	30
 455163	5	0	Black & White (6 Suits)	2021-03-03 — 10:49:16 UTC	asaelr, Denchulitas, eliclax, possum, sephiroth	4	6	30
 455152	5	24	Rainbow & Prism (5 Suits)	2021-03-03 — 10:23:59 UTC	catula, Denchulitas, eliclax, possum, sephiroth	7	5	25
-455142	2	25	Black (5 Suits)	2021-03-03 — 09:37:29 UTC	eliclax, possum	219	5	25
-455139	2	0	Black (5 Suits)	2021-03-03 — 09:19:21 UTC	eliclax, possum	244	5	25
-455085	5	30	6 Suits	2021-03-03 — 05:54:35 UTC	Bot-Fiora, corys, eliclax, griff77, xor	132	6	30
+455142	2	25	Black (5 Suits)	2021-03-03 — 09:37:29 UTC	eliclax, possum	222	5	25
+455139	2	0	Black (5 Suits)	2021-03-03 — 09:19:21 UTC	eliclax, possum	250	5	25
+455085	5	30	6 Suits	2021-03-03 — 05:54:35 UTC	Bot-Fiora, corys, eliclax, griff77, xor	133	6	30
 455035	3	25	Rainbow (5 Suits)	2021-03-03 — 05:13:41 UTC	Bot-Fiora, eliclax, griff77	74	5	25
-454973	4	20	Brown (4 Suits)	2021-03-03 — 04:36:16 UTC	bjnh, Bot-Fiora, eliclax, griff77	13	4	20
+454973	4	20	Brown (4 Suits)	2021-03-03 — 04:36:16 UTC	bjnh, Bot-Fiora, eliclax, griff77	14	4	20
 454942	5	25	Dual-Color (5 Suits)	2021-03-03 — 04:11:42 UTC	bjnh, Bot-Fiora, eliclax, griff77, torp	8	5	25
-454884	3	30	Dual-Color (6 Suits)	2021-03-03 — 03:38:29 UTC	eliclax, griff77, torp	66	6	30
+454884	3	30	Dual-Color (6 Suits)	2021-03-03 — 03:38:29 UTC	eliclax, griff77, torp	67	6	30
 454813	3	0	Dual-Color (6 Suits)	2021-03-03 — 02:39:13 UTC	eliclax, griff77, IsabeltheCat	17	6	30
 454180	5	23	Black (5 Suits)	2021-03-02 — 15:11:49 UTC	eliclax, MarkusKahlsen, orucsoraihc, qqqq, robense	10	5	25
 454175	5	0	Black (5 Suits)	2021-03-02 — 14:49:43 UTC	eliclax, MarkusKahlsen, orucsoraihc, qqqq, robense	9	5	25
 454168	5	0	Black (5 Suits)	2021-03-02 — 14:31:47 UTC	eliclax, MarkusKahlsen, orucsoraihc, qqqq, robense	8	5	25
-454159	2	15	3 Suits	2021-03-02 — 14:10:40 UTC	eliclax, MarkusKahlsen	193	3	15
-454155	2	13	3 Suits	2021-03-02 — 14:00:45 UTC	eliclax, MarkusKahlsen	271	3	15
+454159	2	15	3 Suits	2021-03-02 — 14:10:40 UTC	eliclax, MarkusKahlsen	195	3	15
+454155	2	13	3 Suits	2021-03-02 — 14:00:45 UTC	eliclax, MarkusKahlsen	273	3	15
 454153	3	0	Brown (6 Suits)	2021-03-02 — 13:53:24 UTC	eliclax, kopen, MarkusKahlsen	61	6	30
 454135	3	24	Black (5 Suits)	2021-03-02 — 12:58:27 UTC	eliclax, possum, Spieler42	119	5	25
 454124	4	0	Black (5 Suits)	2021-03-02 — 12:35:21 UTC	Denchulitas, eliclax, possum, Spieler42	14	5	25
-454121	3	0	Black (5 Suits)	2021-03-02 — 12:20:38 UTC	Denchulitas, eliclax, Spieler42	134	5	25
+454121	3	0	Black (5 Suits)	2021-03-02 — 12:20:38 UTC	Denchulitas, eliclax, Spieler42	135	5	25
 454111	4	21	Black (5 Suits)	2021-03-02 — 11:58:41 UTC	Denchulitas, eliclax, possum, Spieler42	21	5	25
 454105	4	21	Black (5 Suits)	2021-03-02 — 11:30:53 UTC	Denchulitas, eliclax, possum, Spieler42	28	5	25
-454094	3	0	Black & White (5 Suits)	2021-03-02 — 11:02:03 UTC	Denchulitas, duckless, eliclax	40	5	25
-454084	3	30	Ambiguous (6 Suits)	2021-03-02 — 10:34:14 UTC	eliclax, indego, Lel0uch	42	6	30
+454094	3	0	Black & White (5 Suits)	2021-03-02 — 11:02:03 UTC	Denchulitas, duckless, eliclax	41	5	25
+454084	3	30	Ambiguous (6 Suits)	2021-03-02 — 10:34:14 UTC	eliclax, indego, Lel0uch	43	6	30
 453111	3	0	Black & Light Pink (5 Suits)	2021-03-01 — 15:40:44 UTC	eliclax, Lel0uch, melwen	6	5	25
 453106	3	0	Black & Light Pink (5 Suits)	2021-03-01 — 15:21:01 UTC	eliclax, Lel0uch, melwen	5	5	25
 453102	4	0	Pink & Gray (6 Suits)	2021-03-01 — 15:11:15 UTC	asaelr, eliclax, Lel0uch, melwen	2	6	30
@@ -181,64 +181,64 @@
 453064	4	0	Omni (5 Suits)	2021-03-01 — 14:10:14 UTC	eliclax, HelanaAshryvr, jeff10, MangoPie	16	5	25
 453046	3	26	Brown (6 Suits)	2021-03-01 — 13:34:59 UTC	Denchulitas, eliclax, MarkusKahlsen	84	6	30
 453034	3	30	Black & White (6 Suits)	2021-03-01 — 12:48:12 UTC	Denchulitas, eliclax, MarkusKahlsen	39	6	30
-453021	3	26	6 Suits	2021-03-01 — 11:54:40 UTC	bingchin, eliclax, grossfudge123	365	6	30
-453008	4	23	No Variant	2021-03-01 — 10:59:14 UTC	bingchin, eliclax, grossfudge123, hamood	473	5	25
-452983	2	25	6 Suits	2021-03-01 — 09:36:23 UTC	DarthGandalf, eliclax	340	6	30
-452971	2	27	6 Suits	2021-03-01 — 09:15:14 UTC	DarthGandalf, eliclax	378	6	30
-452966	2	29	6 Suits	2021-03-01 — 08:52:13 UTC	DarthGandalf, eliclax	401	6	30
-452963	2	0	6 Suits	2021-03-01 — 08:39:23 UTC	DarthGandalf, eliclax	444	6	30
-452961	2	0	6 Suits	2021-03-01 — 08:33:41 UTC	DarthGandalf, eliclax	505	6	30
-452895	3	0	Black & Rainbow (5 Suits)	2021-03-01 — 06:20:55 UTC	eliclax, Onen, orucsoraihc	27	5	25
+453021	3	26	6 Suits	2021-03-01 — 11:54:40 UTC	bingchin, eliclax, grossfudge123	371	6	30
+453008	4	23	No Variant	2021-03-01 — 10:59:14 UTC	bingchin, eliclax, grossfudge123, hamood	480	5	25
+452983	2	25	6 Suits	2021-03-01 — 09:36:23 UTC	DarthGandalf, eliclax	352	6	30
+452971	2	27	6 Suits	2021-03-01 — 09:15:14 UTC	DarthGandalf, eliclax	388	6	30
+452966	2	29	6 Suits	2021-03-01 — 08:52:13 UTC	DarthGandalf, eliclax	413	6	30
+452963	2	0	6 Suits	2021-03-01 — 08:39:23 UTC	DarthGandalf, eliclax	453	6	30
+452961	2	0	6 Suits	2021-03-01 — 08:33:41 UTC	DarthGandalf, eliclax	513	6	30
+452895	3	0	Black & Rainbow (5 Suits)	2021-03-01 — 06:20:55 UTC	eliclax, Onen, orucsoraihc	28	5	25
 452886	4	21	Black & Rainbow (5 Suits)	2021-03-01 — 06:08:40 UTC	eliclax, IsabeltheCat, Onen, orucsoraihc	23	5	25
-450759	4	0	Black (5 Suits)	2021-02-27 — 10:49:18 UTC	DarthGandalf, eliclax, possum, sean1815	36	5	25
-450756	4	0	Black (5 Suits)	2021-02-27 — 10:28:08 UTC	DarthGandalf, eliclax, possum, sean1815	41	5	25
+450759	4	0	Black (5 Suits)	2021-02-27 — 10:49:18 UTC	DarthGandalf, eliclax, possum, sean1815	37	5	25
+450756	4	0	Black (5 Suits)	2021-02-27 — 10:28:08 UTC	DarthGandalf, eliclax, possum, sean1815	42	5	25
 450752	2	24	Muddy-Rainbow-Fives & Gray (5 Suits)	2021-02-27 — 10:12:35 UTC	DarthGandalf, eliclax	3	5	25
-450747	2	20	4 Suits	2021-02-27 — 09:50:25 UTC	DarthGandalf, eliclax	171	4	20
-450744	2	17	4 Suits	2021-02-27 — 09:37:33 UTC	DarthGandalf, eliclax	244	4	20
+450747	2	20	4 Suits	2021-02-27 — 09:50:25 UTC	DarthGandalf, eliclax	177	4	20
+450744	2	17	4 Suits	2021-02-27 — 09:37:33 UTC	DarthGandalf, eliclax	248	4	20
 448687	3	30	Prism (6 Suits)	2021-02-25 — 14:20:59 UTC	Denchulitas, eliclax, robense	8	6	30
 448675	3	0	Prism (6 Suits)	2021-02-25 — 13:56:53 UTC	Denchulitas, eliclax, robense	10	6	30
-447629	4	24	Black (5 Suits)	2021-02-24 — 09:43:14 UTC	4head, CptAggro, eliclax, louietyj	49	5	25
-447623	4	0	Black (5 Suits)	2021-02-24 — 09:19:53 UTC	4head, CptAggro, eliclax, louietyj	63	5	25
+447629	4	24	Black (5 Suits)	2021-02-24 — 09:43:14 UTC	4head, CptAggro, eliclax, louietyj	51	5	25
+447623	4	0	Black (5 Suits)	2021-02-24 — 09:19:53 UTC	4head, CptAggro, eliclax, louietyj	64	5	25
 447619	6	0	4 Suits	2021-02-24 — 09:08:08 UTC	4head, CptAggro, eliclax, griff77, louietyj, rahsosprout	4	4	20
 447615	6	0	4 Suits	2021-02-24 — 08:55:54 UTC	4head, CptAggro, eliclax, griff77, ksfortson, louietyj	6	4	20
 447606	6	18	4 Suits	2021-02-24 — 08:31:30 UTC	4head, CptAggro, eliclax, griff77, ksfortson, louietyj	11	4	20
-447598	5	19	4 Suits	2021-02-24 — 08:03:31 UTC	4head, eliclax, griff77, ksfortson, xor	23	4	20
+447598	5	19	4 Suits	2021-02-24 — 08:03:31 UTC	4head, eliclax, griff77, ksfortson, xor	24	4	20
 447455	3	20	Prism (4 Suits)	2021-02-24 — 04:46:13 UTC	eliclax, indegoo, kopen	21	4	20
 447428	3	0	Prism (4 Suits)	2021-02-24 — 04:27:30 UTC	eliclax, indegoo, kopen	27	4	20
-447406	3	0	Prism (4 Suits)	2021-02-24 — 04:08:48 UTC	eliclax, indegoo, kopen	45	4	20
+447406	3	0	Prism (4 Suits)	2021-02-24 — 04:08:48 UTC	eliclax, indegoo, kopen	47	4	20
 447371	5	0	Omni & Muddy Rainbow (5 Suits)	2021-02-24 — 03:45:33 UTC	eliclax, indego, kopen, rz, TimeHoodie	3	5	25
 446600	5	30	White-Ones & Muddy Rainbow (6 Suits)	2021-02-23 — 14:10:41 UTC	eliclax, MangoPie, possum, rz, swineherd	2	6	30
 446596	5	0	White-Ones & Muddy Rainbow (6 Suits)	2021-02-23 — 13:43:58 UTC	eliclax, MangoPie, possum, rz, swineherd	2	6	30
 446594	4	25	White (5 Suits)	2021-02-23 — 13:29:38 UTC	eliclax, Feich59, MangoPie, possum	31	5	25
-446590	4	0	White (5 Suits)	2021-02-23 — 13:07:19 UTC	eliclax, Feich59, MangoPie, possum	32	5	25
+446590	4	0	White (5 Suits)	2021-02-23 — 13:07:19 UTC	eliclax, Feich59, MangoPie, possum	33	5	25
 446586	2	20	Rainbow & Prism (4 Suits)	2021-02-23 — 12:43:19 UTC	eliclax, Feich59	4	4	20
 446582	2	0	Rainbow & Prism (4 Suits)	2021-02-23 — 12:32:29 UTC	eliclax, Feich59	4	4	20
 446580	2	0	Rainbow & Prism (4 Suits)	2021-02-23 — 12:25:28 UTC	eliclax, Feich59	5	4	20
 446578	2	0	Rainbow & Prism (4 Suits)	2021-02-23 — 12:23:59 UTC	eliclax, Feich59	6	4	20
-446576	2	0	Rainbow & Prism (4 Suits)	2021-02-23 — 12:21:37 UTC	eliclax, Feich59	11	4	20
-446575	2	18	Rainbow & Prism (4 Suits)	2021-02-23 — 12:19:44 UTC	eliclax, Feich59	12	4	20
-446573	2	0	Rainbow & Prism (4 Suits)	2021-02-23 — 12:08:55 UTC	eliclax, Feich59	18	4	20
-446572	2	0	Rainbow & Prism (4 Suits)	2021-02-23 — 12:04:31 UTC	eliclax, Feich59	19	4	20
-446569	2	15	Rainbow (3 Suits)	2021-02-23 — 11:57:02 UTC	eliclax, Feich59	19	3	15
-446567	2	0	Rainbow (3 Suits)	2021-02-23 — 11:50:34 UTC	eliclax, Feich59	23	3	15
+446576	2	0	Rainbow & Prism (4 Suits)	2021-02-23 — 12:21:37 UTC	eliclax, Feich59	12	4	20
+446575	2	18	Rainbow & Prism (4 Suits)	2021-02-23 — 12:19:44 UTC	eliclax, Feich59	13	4	20
+446573	2	0	Rainbow & Prism (4 Suits)	2021-02-23 — 12:08:55 UTC	eliclax, Feich59	20	4	20
+446572	2	0	Rainbow & Prism (4 Suits)	2021-02-23 — 12:04:31 UTC	eliclax, Feich59	21	4	20
+446569	2	15	Rainbow (3 Suits)	2021-02-23 — 11:57:02 UTC	eliclax, Feich59	20	3	15
+446567	2	0	Rainbow (3 Suits)	2021-02-23 — 11:50:34 UTC	eliclax, Feich59	24	3	15
 446563	6	30	Brown (6 Suits)	2021-02-23 — 11:34:38 UTC	asaelr, Dr_Kakashi, eliclax, Lanvin, Lel0uch, Wittvector	2	6	30
 446558	6	0	Brown (6 Suits)	2021-02-23 — 11:05:31 UTC	asaelr, Dr_Kakashi, eliclax, Lanvin, Lel0uch, Wittvector	2	6	30
 446556	6	0	Brown (6 Suits)	2021-02-23 — 10:54:53 UTC	asaelr, Dr_Kakashi, eliclax, Lanvin, Lel0uch, Wittvector	5	6	30
 446555	4	0	Rainbow & Prism (5 Suits)	2021-02-23 — 10:46:42 UTC	asaelr, eliclax, Lanvin, Wittvector	5	5	25
-446533	3	14	3 Suits	2021-02-23 — 08:59:55 UTC	bingchin, eliclax, hamood	88	3	15
-446530	5	20	Rainbow (4 Suits)	2021-02-23 — 08:35:30 UTC	CptAggro, eliclax, griff77, lolthisnotderk, torp	8	4	20
+446533	3	14	3 Suits	2021-02-23 — 08:59:55 UTC	bingchin, eliclax, hamood	90	3	15
+446530	5	20	Rainbow (4 Suits)	2021-02-23 — 08:35:30 UTC	CptAggro, eliclax, griff77, lolthisnotderk, torp	9	4	20
 446526	5	0	Rainbow (4 Suits)	2021-02-23 — 07:59:20 UTC	CptAggro, eliclax, griff77, lolthisnotderk, torp	8	4	20
 446519	5	18	Rainbow (4 Suits)	2021-02-23 — 07:36:27 UTC	CptAggro, eliclax, griff77, lolthisnotderk, torp	10	4	20
 446510	4	0	Rainbow & Brown (5 Suits)	2021-02-23 — 07:10:24 UTC	CptAggro, eliclax, griff77, lolthisnotderk	9	5	25
 446350	5	0	Black (6 Suits)	2021-02-23 — 04:08:03 UTC	eliclax, HelanaAshryvr, indego, squirrel1988, TheDaniMan	4	6	30
 446329	3	24	Rainbow & Light Pink (5 Suits)	2021-02-23 — 03:41:11 UTC	eliclax, indego, TheDaniMan	7	5	25
-445437	4	23	Black (5 Suits)	2021-02-22 — 12:10:08 UTC	CptAggro, eliclax, possum, rinka	98	5	25
-445418	5	28	6 Suits	2021-02-22 — 11:18:43 UTC	bingchin, CptAggro, eliclax, hamood, rinka	199	6	30
+445437	4	23	Black (5 Suits)	2021-02-22 — 12:10:08 UTC	CptAggro, eliclax, possum, rinka	101	5	25
+445418	5	28	6 Suits	2021-02-22 — 11:18:43 UTC	bingchin, CptAggro, eliclax, hamood, rinka	203	6	30
 445406	4	0	Pink & Prism (5 Suits)	2021-02-22 — 09:33:15 UTC	eliclax, sephiroth, swineherd, Wittvector	4	5	25
 445404	4	0	Pink & Prism (5 Suits)	2021-02-22 — 09:20:30 UTC	eliclax, sephiroth, swineherd, Wittvector	5	5	25
 444344	3	0	Black (5 Suits)	2021-02-21 — 14:27:55 UTC	eliclax, possum, qqqq	92	5	25
 444339	3	0	Black (5 Suits)	2021-02-21 — 14:18:44 UTC	eliclax, possum, qqqq	101	5	25
-444329	3	23	Black (5 Suits)	2021-02-21 — 14:01:46 UTC	eliclax, possum, qqqq	171	5	25
+444329	3	23	Black (5 Suits)	2021-02-21 — 14:01:46 UTC	eliclax, possum, qqqq	174	5	25
 444308	5	30	Prism (6 Suits)	2021-02-21 — 13:32:57 UTC	eliclax, MangoPie, possum, qqqq, swineherd	9	6	30
 444293	5	0	Prism (6 Suits)	2021-02-21 — 12:50:21 UTC	eliclax, hakha3, possum, robense, swineherd	12	6	30
 444282	5	25	No Variant	2021-02-21 — 12:02:37 UTC	4head, catula, eliclax, louietyj, possum	49	5	25
@@ -249,38 +249,38 @@
 441944	4	28	Dark Omni (6 Suits)	2021-02-19 — 14:02:25 UTC	eliclax, Fey, jeff10, Lanvin	14	6	30
 441934	3	20	Prism Reversed (4 Suits)	2021-02-19 — 13:34:26 UTC	eliclax, Fey, Lanvin	2	4	20
 441922	2	30	Prism (6 Suits)	2021-02-19 — 13:15:53 UTC	eliclax, Fey	9	6	30
-441900	4	15	4 Suits	2021-02-19 — 12:09:09 UTC	eliclax, grossfudge123, itsandyru, Nchin012	101	4	20
-441654	3	20	Rainbow (4 Suits)	2021-02-19 — 04:38:54 UTC	eliclax, eljavi, griff77	84	4	20
+441900	4	15	4 Suits	2021-02-19 — 12:09:09 UTC	eliclax, grossfudge123, itsandyru, Nchin012	104	4	20
+441654	3	20	Rainbow (4 Suits)	2021-02-19 — 04:38:54 UTC	eliclax, eljavi, griff77	85	4	20
 441609	6	23	No Variant	2021-02-19 — 03:58:05 UTC	eliclax, eljavi, griff77, ksfortson, wolfpack, wump	13	5	25
 440868	4	0	Pink & Gray Pink (6 Suits)	2021-02-18 — 14:05:29 UTC	eliclax, Lanvin, melwen, sephiroth	4	6	30
 440859	6	0	Rainbow & Pink (6 Suits)	2021-02-18 — 13:28:43 UTC	eliclax, indego, MangoPie, melwen, sephiroth, TimeHoodie	1	6	30
 440852	6	0	Rainbow & Pink (6 Suits)	2021-02-18 — 13:00:48 UTC	eliclax, indego, MangoPie, melwen, TimeHoodie, Wittvector	1	6	30
 440847	6	0	Rainbow & Pink (6 Suits)	2021-02-18 — 12:38:18 UTC	eliclax, indego, MangoPie, melwen, TimeHoodie, Wittvector	1	6	30
 440839	5	0	Muddy Rainbow & Dark Brown (5 Suits)	2021-02-18 — 12:15:06 UTC	eliclax, indego, MangoPie, melwen, Wittvector	2	5	25
-439979	5	0	Black (6 Suits)	2021-02-17 — 15:12:15 UTC	eliclax, indego, ontak, possum, skyblueexo	27	6	30
-439954	5	26	Black (6 Suits)	2021-02-17 — 14:26:36 UTC	eliclax, indego, ontak, possum, skyblueexo	35	6	30
+439979	5	0	Black (6 Suits)	2021-02-17 — 15:12:15 UTC	eliclax, indego, ontak, possum, skyblueexo	28	6	30
+439954	5	26	Black (6 Suits)	2021-02-17 — 14:26:36 UTC	eliclax, indego, ontak, possum, skyblueexo	36	6	30
 439940	4	0	Dark Brown (5 Suits)	2021-02-17 — 13:38:21 UTC	eliclax, MarkusKahlsen, sephiroth, VerySloppyTwo	1	5	25
 439935	4	0	Dark Brown (5 Suits)	2021-02-17 — 13:25:02 UTC	eliclax, MarkusKahlsen, sephiroth, VerySloppyTwo	1	5	25
 439930	4	0	Dark Brown (5 Suits)	2021-02-17 — 13:11:53 UTC	eliclax, MarkusKahlsen, sephiroth, VerySloppyTwo	1	5	25
 439926	4	0	Dark Brown (5 Suits)	2021-02-17 — 13:05:56 UTC	eliclax, MarkusKahlsen, sephiroth, VerySloppyTwo	1	5	25
-439894	3	0	Ambiguous (6 Suits)	2021-02-17 — 12:08:49 UTC	eliclax, grossfudge123, Nchin012	69	6	30
-438013	2	25	No Variant	2021-02-15 — 11:28:43 UTC	3swag3pro, eliclax	458	5	25
-438006	2	0	No Variant	2021-02-15 — 11:13:19 UTC	3swag3pro, eliclax	476	5	25
-437997	4	0	Ambiguous Mix	2021-02-15 — 10:50:11 UTC	3swag3pro, eliclax, itsandyru, Nchin012	18	6	30
-436840	4	21	Rainbow (5 Suits)	2021-02-14 — 13:01:04 UTC	eliclax, indego, narabio, skyblueexo	130	5	25
+439894	3	0	Ambiguous (6 Suits)	2021-02-17 — 12:08:49 UTC	eliclax, grossfudge123, Nchin012	71	6	30
+438013	2	25	No Variant	2021-02-15 — 11:28:43 UTC	3swag3pro, eliclax	465	5	25
+438006	2	0	No Variant	2021-02-15 — 11:13:19 UTC	3swag3pro, eliclax	485	5	25
+437997	4	0	Ambiguous Mix	2021-02-15 — 10:50:11 UTC	3swag3pro, eliclax, itsandyru, Nchin012	19	6	30
+436840	4	21	Rainbow (5 Suits)	2021-02-14 — 13:01:04 UTC	eliclax, indego, narabio, skyblueexo	131	5	25
 436803	5	0	White & Brown (6 Suits)	2021-02-14 — 12:29:54 UTC	eliclax, frosty104, indego, rz, TimeHoodie	3	6	30
-436745	3	30	Prism (6 Suits)	2021-02-14 — 10:33:38 UTC	3swag3pro, eliclax, itsandyru	45	6	30
-436736	3	0	Prism (6 Suits)	2021-02-14 — 10:04:47 UTC	3swag3pro, eliclax, itsandyru	60	6	30
-436731	3	28	Prism (6 Suits)	2021-02-14 — 09:51:33 UTC	3swag3pro, eliclax, itsandyru	84	6	30
+436745	3	30	Prism (6 Suits)	2021-02-14 — 10:33:38 UTC	3swag3pro, eliclax, itsandyru	46	6	30
+436736	3	0	Prism (6 Suits)	2021-02-14 — 10:04:47 UTC	3swag3pro, eliclax, itsandyru	61	6	30
+436731	3	28	Prism (6 Suits)	2021-02-14 — 09:51:33 UTC	3swag3pro, eliclax, itsandyru	85	6	30
 435790	5	25	White & Brown (5 Suits)	2021-02-13 — 17:16:29 UTC	dobi, eliclax, indego, MangoPie, wortel	6	5	25
 435773	4	23	White & Brown (5 Suits)	2021-02-13 — 16:43:30 UTC	dobi, eliclax, indego, MangoPie	18	5	25
 435659	4	0	Special Mix (6 Suits)	2021-02-13 — 11:33:54 UTC	3swag3pro, eliclax, itsandyru, Nchin012	17	6	30
-435646	5	21	No Variant	2021-02-13 — 10:58:44 UTC	3swag3pro, eliclax, hamood, itsandyru, Nchin012	1119	5	25
-435626	4	0	Special Mix (6 Suits)	2021-02-13 — 10:30:58 UTC	3swag3pro, eliclax, hamood, itsandyru	24	6	30
+435646	5	21	No Variant	2021-02-13 — 10:58:44 UTC	3swag3pro, eliclax, hamood, itsandyru, Nchin012	1125	5	25
+435626	4	0	Special Mix (6 Suits)	2021-02-13 — 10:30:58 UTC	3swag3pro, eliclax, hamood, itsandyru	25	6	30
 435306	3	21	Dual-Color (5 Suits)	2021-02-13 — 04:52:51 UTC	eliclax, eljavi, IsabeltheCat	24	5	25
-434361	4	24	White (5 Suits)	2021-02-12 — 11:11:05 UTC	3swag3pro, eliclax, itsandyru, Nchin012	46	5	25
+434361	4	24	White (5 Suits)	2021-02-12 — 11:11:05 UTC	3swag3pro, eliclax, itsandyru, Nchin012	47	5	25
 434354	4	0	White (5 Suits)	2021-02-12 — 10:42:06 UTC	3swag3pro, eliclax, itsandyru, Nchin012	60	5	25
-434348	4	0	White (5 Suits)	2021-02-12 — 10:25:18 UTC	3swag3pro, eliclax, itsandyru, Nchin012	79	5	25
+434348	4	0	White (5 Suits)	2021-02-12 — 10:25:18 UTC	3swag3pro, eliclax, itsandyru, Nchin012	80	5	25
 434331	4	0	Prism (6 Suits)	2021-02-12 — 09:34:27 UTC	Denchulitas, eliclax, sephiroth, VerySloppyTwo	15	6	30
 434305	4	0	Light Pink (5 Suits)	2021-02-12 — 09:01:41 UTC	CaitlinSmith, eliclax, indego, Pablo-	10	5	25
 434286	3	0	Light Pink (5 Suits)	2021-02-12 — 08:43:17 UTC	eliclax, indego, Pablo-	23	5	25
@@ -293,196 +293,196 @@
 433294	4	0	Dual-Color (5 Suits)	2021-02-11 — 13:44:18 UTC	eliclax, Kernel, Lanvin, Pimak	8	5	25
 433291	5	0	Dual-Color (5 Suits)	2021-02-11 — 13:28:11 UTC	eliclax, Kernel, Lanvin, Pimak, Plum	2	5	25
 433287	5	0	Dual-Color (5 Suits)	2021-02-11 — 13:02:26 UTC	eliclax, Kernel, Lanvin, Pimak, Plum	2	5	25
-433281	4	23	No Variant	2021-02-11 — 12:21:58 UTC	BraydonM, eliclax, Pimak, Zahard	149	5	25
-433276	3	20	White (4 Suits)	2021-02-11 — 11:44:07 UTC	eliclax, Nchin012, skyblueexo	59	4	20
-432152	3	25	Rainbow & White (5 Suits)	2021-02-10 — 11:46:48 UTC	Denchulitas, eliclax, sephiroth	9	5	25
-432136	3	21	Rainbow & White (5 Suits)	2021-02-10 — 11:17:52 UTC	Denchulitas, eliclax, sephiroth	14	5	25
-432038	3	12	3 Suits	2021-02-10 — 09:21:00 UTC	DarthGandalf, eliclax, macanek	115	3	15
-432027	3	13	3 Suits	2021-02-10 — 09:05:26 UTC	DarthGandalf, eliclax, macanek	144	3	15
-431981	2	21	White-Ones (5 Suits)	2021-02-10 — 06:53:09 UTC	eliclax, Spieler42	18	5	25
-431972	2	0	White-Ones (5 Suits)	2021-02-10 — 06:42:35 UTC	eliclax, Spieler42	23	5	25
-431959	3	29	Black (6 Suits)	2021-02-10 — 06:29:49 UTC	eliclax, skyblueexo, Spieler42	261	6	30
+433281	4	23	No Variant	2021-02-11 — 12:21:58 UTC	BraydonM, eliclax, Pimak, Zahard	150	5	25
+433276	3	20	White (4 Suits)	2021-02-11 — 11:44:07 UTC	eliclax, Nchin012, skyblueexo	62	4	20
+432152	3	25	Rainbow & White (5 Suits)	2021-02-10 — 11:46:48 UTC	Denchulitas, eliclax, sephiroth	10	5	25
+432136	3	21	Rainbow & White (5 Suits)	2021-02-10 — 11:17:52 UTC	Denchulitas, eliclax, sephiroth	15	5	25
+432038	3	12	3 Suits	2021-02-10 — 09:21:00 UTC	DarthGandalf, eliclax, macanek	116	3	15
+432027	3	13	3 Suits	2021-02-10 — 09:05:26 UTC	DarthGandalf, eliclax, macanek	146	3	15
+431981	2	21	White-Ones (5 Suits)	2021-02-10 — 06:53:09 UTC	eliclax, Spieler42	19	5	25
+431972	2	0	White-Ones (5 Suits)	2021-02-10 — 06:42:35 UTC	eliclax, Spieler42	24	5	25
+431959	3	29	Black (6 Suits)	2021-02-10 — 06:29:49 UTC	eliclax, skyblueexo, Spieler42	263	6	30
 431934	4	21	Black (5 Suits)	2021-02-10 — 05:42:42 UTC	eliclax, eljavi, IsabeltheCat, skyblueexo	22	5	25
-431917	4	22	Black (5 Suits)	2021-02-10 — 05:14:14 UTC	eliclax, eljavi, IsabeltheCat, skyblueexo	21	5	25
-431896	4	25	No Variant	2021-02-10 — 04:49:06 UTC	eliclax, eljavi, IsabeltheCat, MarcLovesDogs	99	5	25
+431917	4	22	Black (5 Suits)	2021-02-10 — 05:14:14 UTC	eliclax, eljavi, IsabeltheCat, skyblueexo	22	5	25
+431896	4	25	No Variant	2021-02-10 — 04:49:06 UTC	eliclax, eljavi, IsabeltheCat, MarcLovesDogs	100	5	25
 431872	6	0	6 Suits	2021-02-10 — 04:18:56 UTC	4head, cherryw, cyberanna2, eliclax, katian, lolthisnotderk	34	6	30
 431124	3	24	White & Prism (5 Suits)	2021-02-09 — 16:25:39 UTC	eliclax, eljavi, rahsosprout	2	5	25
 431077	3	24	White & Prism (5 Suits)	2021-02-09 — 15:47:31 UTC	eliclax, eljavi, rahsosprout	3	5	25
-431050	3	0	White & Prism (5 Suits)	2021-02-09 — 15:25:15 UTC	eliclax, eljavi, rahsosprout	7	5	25
+431050	3	0	White & Prism (5 Suits)	2021-02-09 — 15:25:15 UTC	eliclax, eljavi, rahsosprout	8	5	25
 431036	3	0	White & Prism (5 Suits)	2021-02-09 — 15:11:00 UTC	dobi, eliclax, eljavi	6	5	25
 431028	3	0	White & Prism (5 Suits)	2021-02-09 — 15:01:00 UTC	dobi, eliclax, eljavi	10	5	25
-431014	3	25	No Variant	2021-02-09 — 14:41:45 UTC	dobi, eliclax, eljavi	344	5	25
-429840	3	25	No Variant	2021-02-08 — 12:45:24 UTC	eliclax, knaphill, macanek	57	5	25
+431014	3	25	No Variant	2021-02-09 — 14:41:45 UTC	dobi, eliclax, eljavi	353	5	25
+429840	3	25	No Variant	2021-02-08 — 12:45:24 UTC	eliclax, knaphill, macanek	58	5	25
 429825	5	24	White & Prism (5 Suits)	2021-02-08 — 11:52:09 UTC	CaitlinSmith, catula, eliclax, gchang02, Lanvin	4	5	25
-429818	4	23	Null (5 Suits)	2021-02-08 — 10:57:26 UTC	3swag3pro, eliclax, gchang02, itsandyru	26	5	25
+429818	4	23	Null (5 Suits)	2021-02-08 — 10:57:26 UTC	3swag3pro, eliclax, gchang02, itsandyru	27	5	25
 429811	4	0	Special Mix (5 Suits)	2021-02-08 — 10:22:40 UTC	3swag3pro, eliclax, gchang02, itsandyru	39	5	25
 429791	6	23	No Variant	2021-02-08 — 09:32:37 UTC	3swag3pro, eliclax, gchang02, hamood, itsandyru, Nchin012	52	5	25
 429776	6	0	No Variant	2021-02-08 — 08:58:43 UTC	3swag3pro, eliclax, gchang02, hamood, itsandyru, Nchin012	60	5	25
-429764	4	25	No Variant	2021-02-08 — 08:18:47 UTC	3swag3pro, eliclax, hamood, Nchin012	2076	5	25
+429764	4	25	No Variant	2021-02-08 — 08:18:47 UTC	3swag3pro, eliclax, hamood, Nchin012	2094	5	25
 429026	5	0	Black (6 Suits)	2021-02-07 — 16:30:06 UTC	Damian000, Denchulitas, eliclax, eljavi, narabio	18	6	30
 429010	5	0	Black (6 Suits)	2021-02-07 — 16:05:38 UTC	Damian000, Denchulitas, eliclax, eljavi, narabio	21	6	30
 428992	3	29	White (6 Suits)	2021-02-07 — 15:35:49 UTC	Denchulitas, eliclax, narabio	13	6	30
-427603	4	25	No Variant	2021-02-06 — 12:34:57 UTC	3swag3pro, eliclax, itsandyru, Nchin012	2763	5	25
+427603	4	25	No Variant	2021-02-06 — 12:34:57 UTC	3swag3pro, eliclax, itsandyru, Nchin012	2788	5	25
 426529	6	24	Rainbow (5 Suits)	2021-02-05 — 16:57:49 UTC	4head, eliclax, indegoo, rachyrules, rahsosprout, sin_faith	9	5	25
-426454	4	30	White (6 Suits)	2021-02-05 — 14:58:11 UTC	Div, eliclax, rahsosprout, skyblueexo	60	6	30
+426454	4	30	White (6 Suits)	2021-02-05 — 14:58:11 UTC	Div, eliclax, rahsosprout, skyblueexo	62	6	30
 426445	5	0	Rainbow (5 Suits)	2021-02-05 — 14:24:20 UTC	Div, eliclax, qqqq, rahsosprout, skyblueexo	22	5	25
-426434	3	25	Black (6 Suits)	2021-02-05 — 13:49:30 UTC	Denchulitas, eliclax, skyblueexo	159	6	30
-426419	3	0	Black (6 Suits)	2021-02-05 — 13:18:22 UTC	Denchulitas, eliclax, skyblueexo	172	6	30
-426393	5	0	White (6 Suits)	2021-02-05 — 12:22:21 UTC	3swag3pro, Denchulitas, eliclax, Spieler42, Wittvector	20	6	30
-426388	4	23	No Variant	2021-02-05 — 11:53:50 UTC	3swag3pro, eliclax, Lel0uch, Spieler42	257	5	25
+426434	3	25	Black (6 Suits)	2021-02-05 — 13:49:30 UTC	Denchulitas, eliclax, skyblueexo	161	6	30
+426419	3	0	Black (6 Suits)	2021-02-05 — 13:18:22 UTC	Denchulitas, eliclax, skyblueexo	175	6	30
+426393	5	0	White (6 Suits)	2021-02-05 — 12:22:21 UTC	3swag3pro, Denchulitas, eliclax, Spieler42, Wittvector	21	6	30
+426388	4	23	No Variant	2021-02-05 — 11:53:50 UTC	3swag3pro, eliclax, Lel0uch, Spieler42	260	5	25
 426381	3	30	White (6 Suits)	2021-02-05 — 11:19:21 UTC	Denchulitas, eliclax, skyblueexo	18	6	30
-426370	3	0	White (6 Suits)	2021-02-05 — 10:45:22 UTC	Denchulitas, eliclax, skyblueexo	20	6	30
+426370	3	0	White (6 Suits)	2021-02-05 — 10:45:22 UTC	Denchulitas, eliclax, skyblueexo	21	6	30
 426350	3	29	White (6 Suits)	2021-02-05 — 09:50:21 UTC	Denchulitas, eliclax, witcher	27	6	30
 425118	3	25	No Variant	2021-02-04 — 05:31:36 UTC	3swag3pro, eliclax, Zamiel	6	5	25
 425093	3	21	No Variant	2021-02-04 — 05:02:53 UTC	3swag3pro, eliclax, Zamiel	6	5	25
 425062	3	0	No Variant	2021-02-04 — 04:35:54 UTC	3swag3pro, eliclax, Zamiel	6	5	25
-425051	2	0	No Variant	2021-02-04 — 04:27:45 UTC	3swag3pro, eliclax	496	5	25
-425032	5	24	No Variant	2021-02-04 — 04:14:50 UTC	3swag3pro, eliclax, hamood, lolthisnotderk, louietyj	126	5	25
+425051	2	0	No Variant	2021-02-04 — 04:27:45 UTC	3swag3pro, eliclax	502	5	25
+425032	5	24	No Variant	2021-02-04 — 04:14:50 UTC	3swag3pro, eliclax, hamood, lolthisnotderk, louietyj	127	5	25
 423999	4	28	White-Ones (6 Suits)	2021-02-03 — 14:02:13 UTC	eliclax, Pablo-, possum, XMIL	3	6	30
-423035	4	28	Brown-Ones & Rainbow (6 Suits)	2021-02-02 — 17:03:21 UTC	4head, eliclax, frosty104, griff77	2	6	30
-422984	3	0	6 Suits	2021-02-02 — 14:19:07 UTC	eliclax, possum, skyblueexo	168	6	30
-422970	3	29	6 Suits	2021-02-02 — 13:37:20 UTC	eliclax, possum, skyblueexo	252	6	30
-422929	4	29	6 Suits	2021-02-02 — 11:19:13 UTC	Denchulitas, eliclax, MKQ, Spieler42	39	6	30
-422910	3	0	6 Suits	2021-02-02 — 10:46:27 UTC	Denchulitas, eliclax, Spieler42	196	6	30
-422899	4	0	6 Suits	2021-02-02 — 10:27:11 UTC	Denchulitas, eliclax, Spieler42, StKildaFan	120	6	30
+423035	4	28	Brown-Ones & Rainbow (6 Suits)	2021-02-02 — 17:03:21 UTC	4head, eliclax, frosty104, griff77	3	6	30
+422984	3	0	6 Suits	2021-02-02 — 14:19:07 UTC	eliclax, possum, skyblueexo	169	6	30
+422970	3	29	6 Suits	2021-02-02 — 13:37:20 UTC	eliclax, possum, skyblueexo	256	6	30
+422929	4	29	6 Suits	2021-02-02 — 11:19:13 UTC	Denchulitas, eliclax, MKQ, Spieler42	40	6	30
+422910	3	0	6 Suits	2021-02-02 — 10:46:27 UTC	Denchulitas, eliclax, Spieler42	199	6	30
+422899	4	0	6 Suits	2021-02-02 — 10:27:11 UTC	Denchulitas, eliclax, Spieler42, StKildaFan	122	6	30
 422170	5	20	Black (5 Suits)	2021-02-01 — 16:53:03 UTC	eliclax, eljavi, LautiManzano, possum, Spieler42	30	5	25
 422160	5	0	Black (5 Suits)	2021-02-01 — 16:18:10 UTC	eliclax, eljavi, LautiManzano, possum, Spieler42	36	5	25
-422151	4	25	Pink (5 Suits)	2021-02-01 — 15:48:44 UTC	eliclax, nwajfromoz, possum, Spieler42	34	5	25
+422151	4	25	Pink (5 Suits)	2021-02-01 — 15:48:44 UTC	eliclax, nwajfromoz, possum, Spieler42	35	5	25
 422139	4	24	Pink (5 Suits)	2021-02-01 — 15:07:12 UTC	eliclax, nwajfromoz, possum, Spieler42	51	5	25
 422126	3	29	6 Suits	2021-02-01 — 14:25:48 UTC	asaelr, eliclax, possum	7	6	30
 422120	3	0	6 Suits	2021-02-01 — 14:03:34 UTC	asaelr, eliclax, possum	7	6	30
 422104	3	25	Prism (5 Suits)	2021-02-01 — 13:22:56 UTC	eliclax, Lanvin, MangoPie	19	5	25
-421156	5	24	No Variant	2021-01-31 — 16:16:56 UTC	eliclax, eljavi, possum, socerman, tacobot5000	176	5	25
-421143	5	0	No Variant	2021-01-31 — 15:54:58 UTC	eliclax, eljavi, possum, socerman, tacobot5000	195	5	25
-421137	5	23	No Variant	2021-01-31 — 15:36:28 UTC	eliclax, eljavi, possum, socerman, tacobot5000	658	5	25
-421119	3	24	No Variant	2021-01-31 — 14:49:44 UTC	eliclax, louietyj, possum	98	5	25
-421110	3	0	No Variant	2021-01-31 — 14:28:45 UTC	eliclax, louietyj, possum	100	5	25
+421156	5	24	No Variant	2021-01-31 — 16:16:56 UTC	eliclax, eljavi, possum, socerman, tacobot5000	178	5	25
+421143	5	0	No Variant	2021-01-31 — 15:54:58 UTC	eliclax, eljavi, possum, socerman, tacobot5000	198	5	25
+421137	5	23	No Variant	2021-01-31 — 15:36:28 UTC	eliclax, eljavi, possum, socerman, tacobot5000	667	5	25
+421119	3	24	No Variant	2021-01-31 — 14:49:44 UTC	eliclax, louietyj, possum	102	5	25
+421110	3	0	No Variant	2021-01-31 — 14:28:45 UTC	eliclax, louietyj, possum	103	5	25
 421099	6	28	6 Suits	2021-01-31 — 14:08:23 UTC	DarthGandalf, eliclax, louietyj, possum, skyblueexo, Spieler42	50	6	30
 421061	6	0	6 Suits	2021-01-31 — 12:58:12 UTC	DarthGandalf, eliclax, louietyj, possum, skyblueexo, Spieler42	84	6	30
-421035	4	25	No Variant	2021-01-31 — 12:09:40 UTC	DarthGandalf, eliclax, louietyj, possum	125	5	25
-421026	3	25	No Variant	2021-01-31 — 11:37:00 UTC	eliclax, hamood, possum	320	5	25
-419790	2	0	No Variant	2021-01-30 — 14:09:39 UTC	eliclax, gchang02	506	5	25
-419788	2	0	No Variant	2021-01-30 — 14:06:32 UTC	eliclax, gchang02	513	5	25
-419787	2	0	No Variant	2021-01-30 — 14:04:59 UTC	eliclax, gchang02	526	5	25
-419786	2	0	No Variant	2021-01-30 — 14:04:35 UTC	eliclax, gchang02	534	5	25
-419784	2	23	No Variant	2021-01-30 — 14:02:01 UTC	eliclax, gchang02	548	5	25
-419782	2	0	No Variant	2021-01-30 — 13:58:11 UTC	eliclax, gchang02	555	5	25
-419780	2	24	No Variant	2021-01-30 — 13:55:20 UTC	eliclax, gchang02	581	5	25
-419776	2	0	No Variant	2021-01-30 — 13:49:32 UTC	eliclax, gchang02	593	5	25
-419775	2	0	No Variant	2021-01-30 — 13:46:46 UTC	eliclax, gchang02	597	5	25
-419773	2	25	No Variant	2021-01-30 — 13:44:53 UTC	eliclax, gchang02	626	5	25
-419769	2	0	No Variant	2021-01-30 — 13:40:37 UTC	eliclax, gchang02	654	5	25
-419766	2	24	No Variant	2021-01-30 — 13:38:08 UTC	eliclax, gchang02	677	5	25
-419763	2	0	No Variant	2021-01-30 — 13:32:40 UTC	eliclax, gchang02	699	5	25
-419762	2	0	No Variant	2021-01-30 — 13:29:31 UTC	eliclax, gchang02	719	5	25
-419761	2	0	No Variant	2021-01-30 — 13:28:32 UTC	eliclax, gchang02	741	5	25
-419759	2	0	No Variant	2021-01-30 — 13:23:51 UTC	eliclax, gchang02	770	5	25
-419757	2	0	No Variant	2021-01-30 — 13:21:29 UTC	eliclax, gchang02	794	5	25
-419734	2	0	No Variant	2021-01-30 — 12:29:50 UTC	eliclax, gchang02	818	5	25
-419733	2	0	No Variant	2021-01-30 — 12:26:55 UTC	eliclax, gchang02	854	5	25
-419732	2	0	No Variant	2021-01-30 — 12:25:05 UTC	eliclax, gchang02	883	5	25
-419730	2	0	No Variant	2021-01-30 — 12:24:06 UTC	eliclax, gchang02	921	5	25
-419728	2	0	No Variant	2021-01-30 — 12:22:28 UTC	eliclax, gchang02	948	5	25
-419727	2	0	No Variant	2021-01-30 — 12:20:12 UTC	eliclax, gchang02	976	5	25
-419726	2	25	No Variant	2021-01-30 — 12:17:02 UTC	eliclax, gchang02	1031	5	25
-419725	2	0	No Variant	2021-01-30 — 12:10:45 UTC	eliclax, gchang02	1078	5	25
-419724	2	0	No Variant	2021-01-30 — 12:05:56 UTC	eliclax, gchang02	1117	5	25
-419722	3	20	4 Suits	2021-01-30 — 11:48:33 UTC	CaitlinSmith, eliclax, gchang02	70	4	20
+421035	4	25	No Variant	2021-01-31 — 12:09:40 UTC	DarthGandalf, eliclax, louietyj, possum	126	5	25
+421026	3	25	No Variant	2021-01-31 — 11:37:00 UTC	eliclax, hamood, possum	324	5	25
+419790	2	0	No Variant	2021-01-30 — 14:09:39 UTC	eliclax, gchang02	513	5	25
+419788	2	0	No Variant	2021-01-30 — 14:06:32 UTC	eliclax, gchang02	521	5	25
+419787	2	0	No Variant	2021-01-30 — 14:04:59 UTC	eliclax, gchang02	534	5	25
+419786	2	0	No Variant	2021-01-30 — 14:04:35 UTC	eliclax, gchang02	543	5	25
+419784	2	23	No Variant	2021-01-30 — 14:02:01 UTC	eliclax, gchang02	558	5	25
+419782	2	0	No Variant	2021-01-30 — 13:58:11 UTC	eliclax, gchang02	564	5	25
+419780	2	24	No Variant	2021-01-30 — 13:55:20 UTC	eliclax, gchang02	589	5	25
+419776	2	0	No Variant	2021-01-30 — 13:49:32 UTC	eliclax, gchang02	604	5	25
+419775	2	0	No Variant	2021-01-30 — 13:46:46 UTC	eliclax, gchang02	609	5	25
+419773	2	25	No Variant	2021-01-30 — 13:44:53 UTC	eliclax, gchang02	637	5	25
+419769	2	0	No Variant	2021-01-30 — 13:40:37 UTC	eliclax, gchang02	664	5	25
+419766	2	24	No Variant	2021-01-30 — 13:38:08 UTC	eliclax, gchang02	683	5	25
+419763	2	0	No Variant	2021-01-30 — 13:32:40 UTC	eliclax, gchang02	705	5	25
+419762	2	0	No Variant	2021-01-30 — 13:29:31 UTC	eliclax, gchang02	725	5	25
+419761	2	0	No Variant	2021-01-30 — 13:28:32 UTC	eliclax, gchang02	749	5	25
+419759	2	0	No Variant	2021-01-30 — 13:23:51 UTC	eliclax, gchang02	779	5	25
+419757	2	0	No Variant	2021-01-30 — 13:21:29 UTC	eliclax, gchang02	803	5	25
+419734	2	0	No Variant	2021-01-30 — 12:29:50 UTC	eliclax, gchang02	828	5	25
+419733	2	0	No Variant	2021-01-30 — 12:26:55 UTC	eliclax, gchang02	863	5	25
+419732	2	0	No Variant	2021-01-30 — 12:25:05 UTC	eliclax, gchang02	890	5	25
+419730	2	0	No Variant	2021-01-30 — 12:24:06 UTC	eliclax, gchang02	931	5	25
+419728	2	0	No Variant	2021-01-30 — 12:22:28 UTC	eliclax, gchang02	960	5	25
+419727	2	0	No Variant	2021-01-30 — 12:20:12 UTC	eliclax, gchang02	985	5	25
+419726	2	25	No Variant	2021-01-30 — 12:17:02 UTC	eliclax, gchang02	1041	5	25
+419725	2	0	No Variant	2021-01-30 — 12:10:45 UTC	eliclax, gchang02	1089	5	25
+419724	2	0	No Variant	2021-01-30 — 12:05:56 UTC	eliclax, gchang02	1124	5	25
+419722	3	20	4 Suits	2021-01-30 — 11:48:33 UTC	CaitlinSmith, eliclax, gchang02	71	4	20
 419714	3	0	4 Suits	2021-01-30 — 11:21:39 UTC	CaitlinSmith, eliclax, gchang02	90	4	20
 418498	5	20	No Variant	2021-01-29 — 11:18:54 UTC	3swag3pro, Denchulitas, eliclax, gchang02, possum	135	5	25
-418493	3	29	White (6 Suits)	2021-01-29 — 10:31:30 UTC	Denchulitas, eliclax, gchang02	124	6	30
-418482	4	25	Black (6 Suits)	2021-01-29 — 09:46:37 UTC	Asddsa76, Denchulitas, eliclax, gchang02	77	6	30
-417517	3	25	White (5 Suits)	2021-01-28 — 11:15:52 UTC	catula, eliclax, gchang02	61	5	25
-416376	3	24	No Variant	2021-01-27 — 13:47:17 UTC	banjoleb, eliclax, oriun	269	5	25
-416360	3	0	No Variant	2021-01-27 — 13:20:10 UTC	banjoleb, eliclax, oriun	275	5	25
+418493	3	29	White (6 Suits)	2021-01-29 — 10:31:30 UTC	Denchulitas, eliclax, gchang02	128	6	30
+418482	4	25	Black (6 Suits)	2021-01-29 — 09:46:37 UTC	Asddsa76, Denchulitas, eliclax, gchang02	81	6	30
+417517	3	25	White (5 Suits)	2021-01-28 — 11:15:52 UTC	catula, eliclax, gchang02	65	5	25
+416376	3	24	No Variant	2021-01-27 — 13:47:17 UTC	banjoleb, eliclax, oriun	272	5	25
+416360	3	0	No Variant	2021-01-27 — 13:20:10 UTC	banjoleb, eliclax, oriun	277	5	25
 416350	4	0	3 Suits	2021-01-27 — 13:00:54 UTC	banjoleb, eliclax, possum, Spieler42	49	3	15
 416346	4	15	3 Suits	2021-01-27 — 12:46:46 UTC	banjoleb, eliclax, possum, Spieler42	62	3	15
-416333	4	0	3 Suits	2021-01-27 — 12:21:46 UTC	banjoleb, eliclax, possum, Spieler42	73	3	15
-416326	4	0	6 Suits	2021-01-27 — 12:06:18 UTC	banjoleb, Denchulitas, eliclax, possum	354	6	30
-416323	4	25	No Variant	2021-01-27 — 11:38:52 UTC	banjoleb, Denchulitas, eliclax, possum	1449	5	25
+416333	4	0	3 Suits	2021-01-27 — 12:21:46 UTC	banjoleb, eliclax, possum, Spieler42	74	3	15
+416326	4	0	6 Suits	2021-01-27 — 12:06:18 UTC	banjoleb, Denchulitas, eliclax, possum	359	6	30
+416323	4	25	No Variant	2021-01-27 — 11:38:52 UTC	banjoleb, Denchulitas, eliclax, possum	1459	5	25
 416317	4	23	No Variant	2021-01-27 — 10:54:42 UTC	catula, Denchulitas, eliclax, possum	204	5	25
 415440	3	0	White-Ones (5 Suits)	2021-01-26 — 14:36:36 UTC	eliclax, gchang02, Pimak	5	5	25
-415434	3	0	White-Ones (5 Suits)	2021-01-26 — 14:21:58 UTC	eliclax, gchang02, Pimak	9	5	25
+415434	3	0	White-Ones (5 Suits)	2021-01-26 — 14:21:58 UTC	eliclax, gchang02, Pimak	10	5	25
 415422	6	20	No Variant	2021-01-26 — 13:57:44 UTC	eliclax, gchang02, Lanvin, Lel0uch, melwen, Pimak	10	5	25
-415394	3	25	No Variant	2021-01-26 — 12:37:06 UTC	3swag3pro, eliclax, gchang02	411	5	25
-415388	3	0	No Variant	2021-01-26 — 12:17:47 UTC	3swag3pro, eliclax, gchang02	422	5	25
-415384	3	0	No Variant	2021-01-26 — 12:06:16 UTC	3swag3pro, eliclax, gchang02	451	5	25
-415368	4	21	No Variant	2021-01-26 — 11:09:05 UTC	3swag3pro, eliclax, gchang02, hamood	501	5	25
-415365	4	0	No Variant	2021-01-26 — 10:42:34 UTC	3swag3pro, eliclax, gchang02, hamood	541	5	25
-414653	5	23	No Variant	2021-01-25 — 17:51:06 UTC	4head, CaitlinSmith, eliclax, griff77, knaphill	163	5	25
-414635	4	0	No Variant	2021-01-25 — 17:24:12 UTC	4head, CaitlinSmith, eliclax, knaphill	90	5	25
-414630	4	0	No Variant	2021-01-25 — 17:16:20 UTC	4head, CaitlinSmith, eliclax, knaphill	95	5	25
-414623	4	0	No Variant	2021-01-25 — 16:57:43 UTC	4head, CaitlinSmith, eliclax, knaphill	95	5	25
-414610	5	22	No Variant	2021-01-25 — 16:04:37 UTC	CaitlinSmith, eliclax, gchang02, knaphill, PMP	143	5	25
-414578	4	25	No Variant	2021-01-25 — 14:57:58 UTC	eliclax, gchang02, Plum, skyblueexo	601	5	25
-414570	2	25	No Variant	2021-01-25 — 14:32:48 UTC	eliclax, gchang02	1148	5	25
-414561	2	0	No Variant	2021-01-25 — 14:21:25 UTC	eliclax, gchang02	1206	5	25
-414557	2	0	No Variant	2021-01-25 — 14:13:24 UTC	eliclax, gchang02	1249	5	25
-414553	2	0	No Variant	2021-01-25 — 14:07:23 UTC	eliclax, gchang02	1299	5	25
-414543	2	0	No Variant	2021-01-25 — 13:28:15 UTC	eliclax, gchang02	1376	5	25
-414539	3	22	No Variant	2021-01-25 — 13:17:00 UTC	3swag3pro, eliclax, gchang02	459	5	25
-414534	3	0	No Variant	2021-01-25 — 12:54:49 UTC	3swag3pro, eliclax, gchang02	485	5	25
-414530	2	0	No Variant	2021-01-25 — 12:37:26 UTC	eliclax, nshan	1448	5	25
-414526	2	0	No Variant	2021-01-25 — 12:29:16 UTC	eliclax, nshan	1532	5	25
-414518	2	0	No Variant	2021-01-25 — 12:11:27 UTC	eliclax, nshan	1621	5	25
-414516	2	0	No Variant	2021-01-25 — 12:06:42 UTC	eliclax, nshan	1703	5	25
-414515	2	0	No Variant	2021-01-25 — 12:05:39 UTC	eliclax, nshan	1840	5	25
-414514	2	0	No Variant	2021-01-25 — 12:04:39 UTC	eliclax, nshan	1952	5	25
-414509	2	22	No Variant	2021-01-25 — 11:57:53 UTC	eliclax, nshan	2147	5	25
-414503	2	0	No Variant	2021-01-25 — 11:39:36 UTC	eliclax, nshan	2288	5	25
-414502	2	0	No Variant	2021-01-25 — 11:35:33 UTC	eliclax, nshan	2532	5	25
-414500	2	0	No Variant	2021-01-25 — 11:30:38 UTC	eliclax, nshan	2750	5	25
-414499	2	0	No Variant	2021-01-25 — 11:28:16 UTC	eliclax, nshan	3051	5	25
-414497	2	0	No Variant	2021-01-25 — 11:19:03 UTC	eliclax, nshan	3507	5	25
-414494	2	0	No Variant	2021-01-25 — 11:12:53 UTC	eliclax, nshan	4109	5	25
+415394	3	25	No Variant	2021-01-26 — 12:37:06 UTC	3swag3pro, eliclax, gchang02	417	5	25
+415388	3	0	No Variant	2021-01-26 — 12:17:47 UTC	3swag3pro, eliclax, gchang02	428	5	25
+415384	3	0	No Variant	2021-01-26 — 12:06:16 UTC	3swag3pro, eliclax, gchang02	456	5	25
+415368	4	21	No Variant	2021-01-26 — 11:09:05 UTC	3swag3pro, eliclax, gchang02, hamood	507	5	25
+415365	4	0	No Variant	2021-01-26 — 10:42:34 UTC	3swag3pro, eliclax, gchang02, hamood	548	5	25
+414653	5	23	No Variant	2021-01-25 — 17:51:06 UTC	4head, CaitlinSmith, eliclax, griff77, knaphill	166	5	25
+414635	4	0	No Variant	2021-01-25 — 17:24:12 UTC	4head, CaitlinSmith, eliclax, knaphill	92	5	25
+414630	4	0	No Variant	2021-01-25 — 17:16:20 UTC	4head, CaitlinSmith, eliclax, knaphill	98	5	25
+414623	4	0	No Variant	2021-01-25 — 16:57:43 UTC	4head, CaitlinSmith, eliclax, knaphill	98	5	25
+414610	5	22	No Variant	2021-01-25 — 16:04:37 UTC	CaitlinSmith, eliclax, gchang02, knaphill, PMP	145	5	25
+414578	4	25	No Variant	2021-01-25 — 14:57:58 UTC	eliclax, gchang02, Plum, skyblueexo	606	5	25
+414570	2	25	No Variant	2021-01-25 — 14:32:48 UTC	eliclax, gchang02	1159	5	25
+414561	2	0	No Variant	2021-01-25 — 14:21:25 UTC	eliclax, gchang02	1219	5	25
+414557	2	0	No Variant	2021-01-25 — 14:13:24 UTC	eliclax, gchang02	1263	5	25
+414553	2	0	No Variant	2021-01-25 — 14:07:23 UTC	eliclax, gchang02	1311	5	25
+414543	2	0	No Variant	2021-01-25 — 13:28:15 UTC	eliclax, gchang02	1392	5	25
+414539	3	22	No Variant	2021-01-25 — 13:17:00 UTC	3swag3pro, eliclax, gchang02	467	5	25
+414534	3	0	No Variant	2021-01-25 — 12:54:49 UTC	3swag3pro, eliclax, gchang02	491	5	25
+414530	2	0	No Variant	2021-01-25 — 12:37:26 UTC	eliclax, nshan	1460	5	25
+414526	2	0	No Variant	2021-01-25 — 12:29:16 UTC	eliclax, nshan	1547	5	25
+414518	2	0	No Variant	2021-01-25 — 12:11:27 UTC	eliclax, nshan	1637	5	25
+414516	2	0	No Variant	2021-01-25 — 12:06:42 UTC	eliclax, nshan	1721	5	25
+414515	2	0	No Variant	2021-01-25 — 12:05:39 UTC	eliclax, nshan	1856	5	25
+414514	2	0	No Variant	2021-01-25 — 12:04:39 UTC	eliclax, nshan	1966	5	25
+414509	2	22	No Variant	2021-01-25 — 11:57:53 UTC	eliclax, nshan	2166	5	25
+414503	2	0	No Variant	2021-01-25 — 11:39:36 UTC	eliclax, nshan	2307	5	25
+414502	2	0	No Variant	2021-01-25 — 11:35:33 UTC	eliclax, nshan	2552	5	25
+414500	2	0	No Variant	2021-01-25 — 11:30:38 UTC	eliclax, nshan	2772	5	25
+414499	2	0	No Variant	2021-01-25 — 11:28:16 UTC	eliclax, nshan	3072	5	25
+414497	2	0	No Variant	2021-01-25 — 11:19:03 UTC	eliclax, nshan	3537	5	25
+414494	2	0	No Variant	2021-01-25 — 11:12:53 UTC	eliclax, nshan	4149	5	25
 414492	6	24	No Variant	2021-01-25 — 11:02:46 UTC	3swag3pro, eliclax, gchang02, itsandyru, Nchin012, nshan	75	5	25
-413568	3	24	No Variant	2021-01-24 — 15:22:46 UTC	eliclax, skyblueexo, Spieler42	206	5	25
-413520	5	0	No Variant	2021-01-24 — 13:34:39 UTC	3swag3pro, eliclax, gchang02, itsandyru, Nchin012	223	5	25
-413487	3	23	No Variant	2021-01-24 — 11:30:25 UTC	eliclax, hamood, itsandyru	940	5	25
-413472	3	0	No Variant	2021-01-24 — 10:22:01 UTC	eliclax, hamood, itsandyru	1017	5	25
-413461	5	0	No Variant	2021-01-24 — 10:03:35 UTC	3swag3pro, eliclax, gchang02, hamood, itsandyru	262	5	25
-413456	4	0	No Variant	2021-01-24 — 09:43:04 UTC	3swag3pro, eliclax, gchang02, hamood	717	5	25
+413568	3	24	No Variant	2021-01-24 — 15:22:46 UTC	eliclax, skyblueexo, Spieler42	209	5	25
+413520	5	0	No Variant	2021-01-24 — 13:34:39 UTC	3swag3pro, eliclax, gchang02, itsandyru, Nchin012	226	5	25
+413487	3	23	No Variant	2021-01-24 — 11:30:25 UTC	eliclax, hamood, itsandyru	952	5	25
+413472	3	0	No Variant	2021-01-24 — 10:22:01 UTC	eliclax, hamood, itsandyru	1026	5	25
+413461	5	0	No Variant	2021-01-24 — 10:03:35 UTC	3swag3pro, eliclax, gchang02, hamood, itsandyru	265	5	25
+413456	4	0	No Variant	2021-01-24 — 09:43:04 UTC	3swag3pro, eliclax, gchang02, hamood	724	5	25
 412385	3	22	White (5 Suits)	2021-01-23 — 13:19:14 UTC	eliclax, macanek, skyblueexo	17	5	25
-412356	3	22	No Variant	2021-01-23 — 12:33:34 UTC	3swag3pro, eliclax, itsandyru	1095	5	25
-412329	4	22	No Variant	2021-01-23 — 12:06:44 UTC	3swag3pro, eliclax, hamood, itsandyru	3581	5	25
-412251	5	0	No Variant	2021-01-23 — 11:08:01 UTC	3swag3pro, eliclax, hamood, itsandyru, Nchin012	1510	5	25
-412243	5	0	No Variant	2021-01-23 — 10:34:38 UTC	3swag3pro, eliclax, hamood, itsandyru, Nchin012	1995	5	25
-412233	2	0	No Variant	2021-01-23 — 10:11:41 UTC	3swag3pro, eliclax	5374	5	25
-411390	3	0	No Variant	2021-01-22 — 16:11:47 UTC	3swag3pro, eliclax, itsandyru	1174	5	25
-411384	3	0	No Variant	2021-01-22 — 16:00:09 UTC	3swag3pro, eliclax, itsandyru	1291	5	25
-411381	3	0	No Variant	2021-01-22 — 15:53:30 UTC	3swag3pro, eliclax, itsandyru	1465	5	25
-411378	3	0	No Variant	2021-01-22 — 15:46:45 UTC	3swag3pro, eliclax, itsandyru	1636	5	25
-411373	3	22	No Variant	2021-01-22 — 15:34:59 UTC	3swag3pro, eliclax, itsandyru	1881	5	25
-411366	3	0	No Variant	2021-01-22 — 15:17:38 UTC	3swag3pro, eliclax, itsandyru	2163	5	25
-411361	3	24	No Variant	2021-01-22 — 15:04:52 UTC	3swag3pro, eliclax, itsandyru	2606	5	25
-411354	3	22	No Variant	2021-01-22 — 14:45:49 UTC	3swag3pro, eliclax, itsandyru	3260	5	25
-411321	5	23	No Variant	2021-01-22 — 12:38:53 UTC	3swag3pro, eliclax, gchang02, itsandyru, nshan	296	5	25
-411306	6	23	No Variant	2021-01-22 — 11:48:00 UTC	3swag3pro, eliclax, gchang02, itsandyru, nshan, ravenhawk	91	5	25
-411287	6	0	No Variant	2021-01-22 — 10:50:20 UTC	3swag3pro, eliclax, gchang02, HANABIGOD77, Nchin012, nshan	115	5	25
-410567	3	25	No Variant	2021-01-21 — 15:53:42 UTC	eliclax, gchang02, itsandyru	516	5	25
-410541	3	21	No Variant	2021-01-21 — 15:02:32 UTC	eliclax, gchang02, itsandyru	551	5	25
-410519	4	25	No Variant	2021-01-21 — 14:10:49 UTC	3swag3pro, eliclax, gchang02, nshan	793	5	25
+412356	3	22	No Variant	2021-01-23 — 12:33:34 UTC	3swag3pro, eliclax, itsandyru	1102	5	25
+412329	4	22	No Variant	2021-01-23 — 12:06:44 UTC	3swag3pro, eliclax, hamood, itsandyru	3609	5	25
+412251	5	0	No Variant	2021-01-23 — 11:08:01 UTC	3swag3pro, eliclax, hamood, itsandyru, Nchin012	1518	5	25
+412243	5	0	No Variant	2021-01-23 — 10:34:38 UTC	3swag3pro, eliclax, hamood, itsandyru, Nchin012	2011	5	25
+412233	2	0	No Variant	2021-01-23 — 10:11:41 UTC	3swag3pro, eliclax	5421	5	25
+411390	3	0	No Variant	2021-01-22 — 16:11:47 UTC	3swag3pro, eliclax, itsandyru	1180	5	25
+411384	3	0	No Variant	2021-01-22 — 16:00:09 UTC	3swag3pro, eliclax, itsandyru	1299	5	25
+411381	3	0	No Variant	2021-01-22 — 15:53:30 UTC	3swag3pro, eliclax, itsandyru	1474	5	25
+411378	3	0	No Variant	2021-01-22 — 15:46:45 UTC	3swag3pro, eliclax, itsandyru	1651	5	25
+411373	3	22	No Variant	2021-01-22 — 15:34:59 UTC	3swag3pro, eliclax, itsandyru	1896	5	25
+411366	3	0	No Variant	2021-01-22 — 15:17:38 UTC	3swag3pro, eliclax, itsandyru	2179	5	25
+411361	3	24	No Variant	2021-01-22 — 15:04:52 UTC	3swag3pro, eliclax, itsandyru	2627	5	25
+411354	3	22	No Variant	2021-01-22 — 14:45:49 UTC	3swag3pro, eliclax, itsandyru	3290	5	25
+411321	5	23	No Variant	2021-01-22 — 12:38:53 UTC	3swag3pro, eliclax, gchang02, itsandyru, nshan	302	5	25
+411306	6	23	No Variant	2021-01-22 — 11:48:00 UTC	3swag3pro, eliclax, gchang02, itsandyru, nshan, ravenhawk	92	5	25
+411287	6	0	No Variant	2021-01-22 — 10:50:20 UTC	3swag3pro, eliclax, gchang02, HANABIGOD77, Nchin012, nshan	118	5	25
+410567	3	25	No Variant	2021-01-21 — 15:53:42 UTC	eliclax, gchang02, itsandyru	523	5	25
+410541	3	21	No Variant	2021-01-21 — 15:02:32 UTC	eliclax, gchang02, itsandyru	558	5	25
+410519	4	25	No Variant	2021-01-21 — 14:10:49 UTC	3swag3pro, eliclax, gchang02, nshan	800	5	25
 410510	4	16	Brown-Ones & Light Pink (4 Suits)	2021-01-21 — 13:46:21 UTC	3swag3pro, eliclax, gchang02, nshan	1	4	20
-410486	3	24	No Variant	2021-01-21 — 12:53:58 UTC	3swag3pro, eliclax, nshan	4221	5	25
-410474	3	0	6 Suits	2021-01-21 — 12:32:51 UTC	3swag3pro, eliclax, nshan	503	6	30
-410450	4	25	No Variant	2021-01-21 — 11:52:10 UTC	3swag3pro, eliclax, gchang02, nshan	899	5	25
-409624	3	24	No Variant	2021-01-20 — 15:30:54 UTC	eliclax, gchang02, Spieler42	213	5	25
-409606	3	25	No Variant	2021-01-20 — 14:49:28 UTC	eliclax, gchang02, Spieler42	218	5	25
-409594	3	25	No Variant	2021-01-20 — 14:03:58 UTC	eliclax, gchang02, Spieler42	285	5	25
-409571	3	21	No Variant	2021-01-20 — 13:28:36 UTC	3swag3pro, eliclax, gchang02	624	5	25
-409513	3	25	No Variant	2021-01-20 — 11:50:20 UTC	eliclax, gchang02, nshan	645	5	25
-409500	3	0	No Variant	2021-01-20 — 11:17:02 UTC	eliclax, gchang02, nshan	680	5	25
-409490	3	0	No Variant	2021-01-20 — 10:55:26 UTC	eliclax, gchang02, nshan	750	5	25
-409483	5	0	No Variant	2021-01-20 — 10:40:50 UTC	3swag3pro, eliclax, gchang02, Nchin012, nshan	344	5	25
-409482	5	0	No Variant	2021-01-20 — 10:39:02 UTC	3swag3pro, eliclax, gchang02, Nchin012, nshan	383	5	25
-409468	5	0	No Variant	2021-01-20 — 09:52:16 UTC	3swag3pro, eliclax, gchang02, Nchin012, nshan	457	5	25
-409460	4	24	No Variant	2021-01-20 — 09:32:00 UTC	3swag3pro, eliclax, gchang02, Nchin012	985	5	25
-408626	3	22	No Variant	2021-01-19 — 15:32:02 UTC	eliclax, gchang02, Spieler42	307	5	25
-408614	3	22	No Variant	2021-01-19 — 14:50:55 UTC	eliclax, gchang02, Spieler42	354	5	25
-408601	3	0	No Variant	2021-01-19 — 14:01:51 UTC	eliclax, gchang02, Spieler42	375	5	25
-408591	4	25	No Variant	2021-01-19 — 13:07:23 UTC	3swag3pro, eliclax, gchang02, nshan	1092	5	25
-408566	4	0	No Variant	2021-01-19 — 12:06:35 UTC	3swag3pro, eliclax, gchang02, nshan	1253	5	25
-408546	6	18	No Variant	2021-01-19 — 11:18:06 UTC	3swag3pro, eliclax, gchang02, HANABIGOD77, Nchin012, nshan	179	5	25
-408493	6	20	No Variant	2021-01-19 — 09:31:46 UTC	3swag3pro, eliclax, gchang02, grossfudge123, Nchin012, nshan	282	5	25
-407309	5	22	No Variant	2021-01-18 — 10:50:49 UTC	3swag3pro, eliclax, gchang02, HANABIGOD77, Nchin012	541	5	25
-406295	6	20	No Variant	2021-01-17 — 11:52:27 UTC	3swag3pro, eliclax, HANABIGOD77, hanabitest, Nchin012, SUBOPTIMALPLAYZ	478	5	25
+410486	3	24	No Variant	2021-01-21 — 12:53:58 UTC	3swag3pro, eliclax, nshan	4250	5	25
+410474	3	0	6 Suits	2021-01-21 — 12:32:51 UTC	3swag3pro, eliclax, nshan	511	6	30
+410450	4	25	No Variant	2021-01-21 — 11:52:10 UTC	3swag3pro, eliclax, gchang02, nshan	908	5	25
+409624	3	24	No Variant	2021-01-20 — 15:30:54 UTC	eliclax, gchang02, Spieler42	218	5	25
+409606	3	25	No Variant	2021-01-20 — 14:49:28 UTC	eliclax, gchang02, Spieler42	223	5	25
+409594	3	25	No Variant	2021-01-20 — 14:03:58 UTC	eliclax, gchang02, Spieler42	287	5	25
+409571	3	21	No Variant	2021-01-20 — 13:28:36 UTC	3swag3pro, eliclax, gchang02	632	5	25
+409513	3	25	No Variant	2021-01-20 — 11:50:20 UTC	eliclax, gchang02, nshan	655	5	25
+409500	3	0	No Variant	2021-01-20 — 11:17:02 UTC	eliclax, gchang02, nshan	688	5	25
+409490	3	0	No Variant	2021-01-20 — 10:55:26 UTC	eliclax, gchang02, nshan	757	5	25
+409483	5	0	No Variant	2021-01-20 — 10:40:50 UTC	3swag3pro, eliclax, gchang02, Nchin012, nshan	348	5	25
+409482	5	0	No Variant	2021-01-20 — 10:39:02 UTC	3swag3pro, eliclax, gchang02, Nchin012, nshan	384	5	25
+409468	5	0	No Variant	2021-01-20 — 09:52:16 UTC	3swag3pro, eliclax, gchang02, Nchin012, nshan	461	5	25
+409460	4	24	No Variant	2021-01-20 — 09:32:00 UTC	3swag3pro, eliclax, gchang02, Nchin012	994	5	25
+408626	3	22	No Variant	2021-01-19 — 15:32:02 UTC	eliclax, gchang02, Spieler42	311	5	25
+408614	3	22	No Variant	2021-01-19 — 14:50:55 UTC	eliclax, gchang02, Spieler42	359	5	25
+408601	3	0	No Variant	2021-01-19 — 14:01:51 UTC	eliclax, gchang02, Spieler42	380	5	25
+408591	4	25	No Variant	2021-01-19 — 13:07:23 UTC	3swag3pro, eliclax, gchang02, nshan	1103	5	25
+408566	4	0	No Variant	2021-01-19 — 12:06:35 UTC	3swag3pro, eliclax, gchang02, nshan	1267	5	25
+408546	6	18	No Variant	2021-01-19 — 11:18:06 UTC	3swag3pro, eliclax, gchang02, HANABIGOD77, Nchin012, nshan	181	5	25
+408493	6	20	No Variant	2021-01-19 — 09:31:46 UTC	3swag3pro, eliclax, gchang02, grossfudge123, Nchin012, nshan	284	5	25
+407309	5	22	No Variant	2021-01-18 — 10:50:49 UTC	3swag3pro, eliclax, gchang02, HANABIGOD77, Nchin012	546	5	25
+406295	6	20	No Variant	2021-01-17 — 11:52:27 UTC	3swag3pro, eliclax, HANABIGOD77, hanabitest, Nchin012, SUBOPTIMALPLAYZ	483	5	25

@@ -1,6 +1,16 @@
+522027	5	0	Black (6 Suits)	2021-05-06 — 09:34:48 UTC	Aluap, Animex52, antitelharsic, boba, methmatics	22	6	30
+522022	5	0	Black (6 Suits)	2021-05-06 — 09:08:59 UTC	Aluap, Animex52, antitelharsic, boba, methmatics	23	6	30
+522017	5	26	Black (6 Suits)	2021-05-06 — 08:57:04 UTC	Aluap, Animex52, antitelharsic, boba, methmatics	28	6	30
+522008	4	0	Black (5 Suits)	2021-05-06 — 08:14:47 UTC	Aluap, Animex52, antitelharsic, boba	37	5	25
+513838	6	28	White & Dark Rainbow (6 Suits)	2021-04-27 — 09:32:05 UTC	Animex52, antitelharsic, boba, indego, Lel0uch, squirrel1988	2	6	30
+513834	6	0	White & Dark Rainbow (6 Suits)	2021-04-27 — 08:56:30 UTC	Animex52, antitelharsic, boba, indego, Lel0uch, squirrel1988	2	6	30
+513831	5	0	White & Dark Rainbow (6 Suits)	2021-04-27 — 08:47:08 UTC	antitelharsic, boba, indego, Lel0uch, squirrel1988	3	6	30
+513829	2	30	Rainbow & Brown (6 Suits)	2021-04-27 — 08:37:29 UTC	antitelharsic, boba	24	6	30
+513822	2	28	Rainbow & Brown (6 Suits)	2021-04-27 — 08:18:52 UTC	antitelharsic, boba	37	6	30
+513811	4	0	Omni (6 Suits)	2021-04-27 — 07:28:46 UTC	boba, cockdestroyer, nitawa, XMIL	27	6	30
 511859	4	20	Prism (4 Suits)	2021-04-25 — 03:45:52 UTC	boba, derekcheah, HelanaAshryvr, nkkarpov	21	4	20
-511051	5	29	White (6 Suits)	2021-04-24 — 04:35:07 UTC	antitelharsic, boba, Bot-Fiora, dobi, griff77	17	6	30
-511011	5	0	White (6 Suits)	2021-04-24 — 03:49:59 UTC	antitelharsic, boba, Bot-Fiora, dobi, griff77	27	6	30
+511051	5	29	White (6 Suits)	2021-04-24 — 04:35:07 UTC	antitelharsic, boba, Bot-Fiora, dobi, griff77	18	6	30
+511011	5	0	White (6 Suits)	2021-04-24 — 03:49:59 UTC	antitelharsic, boba, Bot-Fiora, dobi, griff77	28	6	30
 510986	5	0	White & Dark Rainbow (5 Suits)	2021-04-24 — 03:33:31 UTC	antitelharsic, boba, Bot-Fiora, griff77, voss	1	5	25
 510962	5	0	White & Dark Rainbow (5 Suits)	2021-04-24 — 03:18:13 UTC	antitelharsic, boba, Bot-Fiora, griff77, voss	2	5	25
 510136	2	0	Duck (6 Suits)	2021-04-23 — 09:42:40 UTC	antitelharsic, boba	4	6	30
@@ -8,23 +18,23 @@
 510123	2	0	Duck (6 Suits)	2021-04-23 — 08:57:29 UTC	antitelharsic, boba	4	6	30
 510121	2	29	Black & Brown (6 Suits)	2021-04-23 — 08:45:51 UTC	antitelharsic, boba	27	6	30
 510114	2	0	Black & Brown (6 Suits)	2021-04-23 — 08:27:08 UTC	antitelharsic, boba	28	6	30
-510090	3	30	Dark Prism (6 Suits)	2021-04-23 — 07:48:24 UTC	antitelharsic, boba, XMIL	20	6	30
+510090	3	30	Dark Prism (6 Suits)	2021-04-23 — 07:48:24 UTC	antitelharsic, boba, XMIL	22	6	30
 510066	3	26	Dark Prism (6 Suits)	2021-04-23 — 07:09:18 UTC	antitelharsic, boba, XMIL	25	6	30
 510053	3	25	Dark Prism (6 Suits)	2021-04-23 — 06:31:25 UTC	antitelharsic, boba, wump	32	6	30
-510045	2	0	No Variant	2021-04-23 — 05:59:21 UTC	antitelharsic, boba	115	5	25
-510043	2	21	No Variant	2021-04-23 — 05:54:56 UTC	antitelharsic, boba	116	5	25
+510045	2	0	No Variant	2021-04-23 — 05:59:21 UTC	antitelharsic, boba	117	5	25
+510043	2	21	No Variant	2021-04-23 — 05:54:56 UTC	antitelharsic, boba	118	5	25
 509815	2	20	Pink & Prism (4 Suits)	2021-04-23 — 01:02:28 UTC	aquarelle, boba	5	4	20
 509805	2	0	Pink & Prism (4 Suits)	2021-04-23 — 00:42:51 UTC	aquarelle, boba	7	4	20
 509789	2	19	Pink & Prism (4 Suits)	2021-04-23 — 00:32:27 UTC	aquarelle, boba	13	4	20
 509783	2	0	Pink & Prism (4 Suits)	2021-04-23 — 00:25:59 UTC	aquarelle, boba	14	4	20
 509780	2	0	Pink & Prism (4 Suits)	2021-04-23 — 00:24:35 UTC	aquarelle, boba	16	4	20
-509776	2	20	Rainbow Reversed (4 Suits)	2021-04-23 — 00:15:44 UTC	aquarelle, boba	5	4	20
-509760	2	19	Rainbow Reversed (4 Suits)	2021-04-23 — 00:07:04 UTC	aquarelle, boba	9	4	20
-509285	2	24	No Variant	2021-04-22 — 10:37:45 UTC	beri, boba	47	5	25
-509280	2	23	No Variant	2021-04-22 — 10:14:48 UTC	beri, boba	47	5	25
-509273	4	25	No Variant	2021-04-22 — 09:53:09 UTC	boba, MarkusKahlsen, mgce, Wittvector	55	5	25
-509266	3	0	Black & Rainbow (6 Suits)	2021-04-22 — 09:17:26 UTC	boba, MarkusKahlsen, mgce	27	6	30
-509055	3	0	No Variant	2021-04-22 — 02:54:06 UTC	boba, Etherealz, missyalyssi	156	5	25
+509776	2	20	Rainbow Reversed (4 Suits)	2021-04-23 — 00:15:44 UTC	aquarelle, boba	6	4	20
+509760	2	19	Rainbow Reversed (4 Suits)	2021-04-23 — 00:07:04 UTC	aquarelle, boba	10	4	20
+509285	2	24	No Variant	2021-04-22 — 10:37:45 UTC	beri, boba	48	5	25
+509280	2	23	No Variant	2021-04-22 — 10:14:48 UTC	beri, boba	49	5	25
+509273	4	25	No Variant	2021-04-22 — 09:53:09 UTC	boba, MarkusKahlsen, mgce, Wittvector	56	5	25
+509266	3	0	Black & Rainbow (6 Suits)	2021-04-22 — 09:17:26 UTC	boba, MarkusKahlsen, mgce	28	6	30
+509055	3	0	No Variant	2021-04-22 — 02:54:06 UTC	boba, Etherealz, missyalyssi	158	5	25
 509051	6	22	Black (5 Suits)	2021-04-22 — 02:49:27 UTC	Animex52, antitelharsic, aquarelle, boba, HelanaAshryvr, squirrel1988	3	5	25
 509029	6	22	Black (5 Suits)	2021-04-22 — 02:06:06 UTC	Animex52, antitelharsic, aquarelle, boba, HelanaAshryvr, squirrel1988	3	5	25
 509001	6	23	Black (5 Suits)	2021-04-22 — 01:35:34 UTC	Animex52, antitelharsic, aquarelle, boba, HelanaAshryvr, squirrel1988	8	5	25
@@ -32,45 +42,45 @@
 508969	2	14	Pink & Omni (3 Suits)	2021-04-22 — 00:49:50 UTC	boba, HelanaAshryvr	3	3	15
 508898	3	26	Black (6 Suits)	2021-04-21 — 23:53:35 UTC	aquarelle, boba, HelanaAshryvr	43	6	30
 508162	6	0	Gray (5 Suits)	2021-04-21 — 03:55:26 UTC	antitelharsic, bjnh, boba, HelanaAshryvr, IsabeltheCat, Lanvin	2	5	25
-508125	4	0	Gray (5 Suits)	2021-04-21 — 03:23:17 UTC	antitelharsic, boba, IsabeltheCat, pianoblook	4	5	25
-508111	4	0	Gray (5 Suits)	2021-04-21 — 03:04:41 UTC	antitelharsic, boba, IsabeltheCat, pianoblook	5	5	25
+508125	4	0	Gray (5 Suits)	2021-04-21 — 03:23:17 UTC	antitelharsic, boba, IsabeltheCat, pianoblook	8	5	25
+508111	4	0	Gray (5 Suits)	2021-04-21 — 03:04:41 UTC	antitelharsic, boba, IsabeltheCat, pianoblook	9	5	25
 507511	5	22	Black (5 Suits)	2021-04-20 — 13:04:18 UTC	Animex52, aquarelle, boba, catula, Sucubis	9	5	25
 507502	5	24	Prism (5 Suits)	2021-04-20 — 12:27:57 UTC	boba, catula, jack67889, mgce, Wittvector	9	5	25
 507480	5	0	Brown-Fives (5 Suits)	2021-04-20 — 11:50:33 UTC	boba, catula, marvolo2, mgce, Wittvector	4	5	25
 507199	4	0	Dark Prism (6 Suits)	2021-04-20 — 03:25:23 UTC	Animex52, aquarelle, boba, HelanaAshryvr	8	6	30
-507194	4	0	Dark Prism (6 Suits)	2021-04-20 — 03:17:44 UTC	Animex52, aquarelle, boba, HelanaAshryvr	10	6	30
+507194	4	0	Dark Prism (6 Suits)	2021-04-20 — 03:17:44 UTC	Animex52, aquarelle, boba, HelanaAshryvr	11	6	30
 507192	4	0	Dark Prism (6 Suits)	2021-04-20 — 03:15:19 UTC	Animex52, aquarelle, boba, HelanaAshryvr	14	6	30
-507180	4	0	Omni (4 Suits)	2021-04-20 — 03:04:57 UTC	Animex52, aquarelle, boba, HelanaAshryvr	15	4	20
+507180	4	0	Omni (4 Suits)	2021-04-20 — 03:04:57 UTC	Animex52, aquarelle, boba, HelanaAshryvr	16	4	20
 506090	2	0	Black & Omni (6 Suits)	2021-04-19 — 02:03:04 UTC	boba, HelanaAshryvr	9	6	30
 506070	2	0	Black & Omni (6 Suits)	2021-04-19 — 01:48:05 UTC	boba, HelanaAshryvr	10	6	30
 506065	2	0	Black & Omni (6 Suits)	2021-04-19 — 01:44:55 UTC	boba, HelanaAshryvr	10	6	30
 506058	2	0	Black & Omni (6 Suits)	2021-04-19 — 01:41:23 UTC	boba, HelanaAshryvr	11	6	30
 506035	5	28	Brown-Ones & White (6 Suits)	2021-04-19 — 01:19:44 UTC	Animex52, boba, kevincaseytdk1, Lanvin, melwen	1	6	30
-504906	2	25	No Variant	2021-04-18 — 02:19:04 UTC	antitelharsic, boba	118	5	25
-502693	2	28	Black & Gray (6 Suits)	2021-04-16 — 06:15:53 UTC	antitelharsic, boba	24	6	30
-501812	2	0	Rainbow & Brown (5 Suits)	2021-04-15 — 12:24:59 UTC	boba, Durandal	24	5	25
+504906	2	25	No Variant	2021-04-18 — 02:19:04 UTC	antitelharsic, boba	120	5	25
+502693	2	28	Black & Gray (6 Suits)	2021-04-16 — 06:15:53 UTC	antitelharsic, boba	25	6	30
+501812	2	0	Rainbow & Brown (5 Suits)	2021-04-15 — 12:24:59 UTC	boba, Durandal	26	5	25
 501807	2	0	Rainbow & Brown (5 Suits)	2021-04-15 — 12:17:49 UTC	boba, Durandal	28	5	25
 501804	2	0	Rainbow & Brown (5 Suits)	2021-04-15 — 12:10:16 UTC	boba, Durandal	33	5	25
-501802	2	25	No Variant	2021-04-15 — 11:59:54 UTC	boba, Durandal	157	5	25
-500813	2	25	No Variant	2021-04-14 — 12:54:34 UTC	boba, Durandal	156	5	25
-500807	2	0	No Variant	2021-04-14 — 12:47:34 UTC	boba, Durandal	160	5	25
-500803	2	24	No Variant	2021-04-14 — 12:44:37 UTC	boba, Durandal	163	5	25
-500798	2	25	No Variant	2021-04-14 — 12:35:16 UTC	boba, Durandal	275	5	25
+501802	2	25	No Variant	2021-04-15 — 11:59:54 UTC	boba, Durandal	159	5	25
+500813	2	25	No Variant	2021-04-14 — 12:54:34 UTC	boba, Durandal	159	5	25
+500807	2	0	No Variant	2021-04-14 — 12:47:34 UTC	boba, Durandal	161	5	25
+500803	2	24	No Variant	2021-04-14 — 12:44:37 UTC	boba, Durandal	164	5	25
+500798	2	25	No Variant	2021-04-14 — 12:35:16 UTC	boba, Durandal	283	5	25
 500752	3	25	Rainbow (5 Suits)	2021-04-14 — 08:51:26 UTC	antitelharsic, boba, whensepoop	8	5	25
 500746	3	0	Rainbow (5 Suits)	2021-04-14 — 08:35:57 UTC	antitelharsic, boba, whensepoop	8	5	25
-500741	6	0	Rainbow (6 Suits)	2021-04-14 — 08:15:54 UTC	antitelharsic, boba, indego, VerySloppyTwo, whensepoop, XMIL	13	6	30
+500741	6	0	Rainbow (6 Suits)	2021-04-14 — 08:15:54 UTC	antitelharsic, boba, indego, VerySloppyTwo, whensepoop, XMIL	14	6	30
 500618	6	0	4 Suits	2021-04-14 — 04:07:46 UTC	Aluap, bjnh, boba, cockdestroyer, HelanaAshryvr, XMIL	17	4	20
-500600	2	24	Pink & Gray (5 Suits)	2021-04-14 — 03:55:06 UTC	boba, HelanaAshryvr	9	5	25
-500579	2	24	Pink & Gray (5 Suits)	2021-04-14 — 03:45:28 UTC	boba, HelanaAshryvr	11	5	25
-500564	2	0	Pink & Gray (5 Suits)	2021-04-14 — 03:38:51 UTC	boba, HelanaAshryvr	11	5	25
+500600	2	24	Pink & Gray (5 Suits)	2021-04-14 — 03:55:06 UTC	boba, HelanaAshryvr	10	5	25
+500579	2	24	Pink & Gray (5 Suits)	2021-04-14 — 03:45:28 UTC	boba, HelanaAshryvr	12	5	25
+500564	2	0	Pink & Gray (5 Suits)	2021-04-14 — 03:38:51 UTC	boba, HelanaAshryvr	12	5	25
 500554	2	25	Pink & Prism (5 Suits)	2021-04-14 — 03:33:44 UTC	boba, HelanaAshryvr	6	5	25
-500293	2	27	Rainbow (6 Suits)	2021-04-13 — 23:11:05 UTC	boba, Durandal	77	6	30
-500288	2	30	Rainbow (6 Suits)	2021-04-13 — 23:03:45 UTC	boba, Durandal	82	6	30
-499691	4	30	Rainbow (6 Suits)	2021-04-13 — 12:59:38 UTC	Animex52, boba, squirrel1988, Viovio87	156	6	30
-499662	5	0	No Variant	2021-04-13 — 11:37:39 UTC	boba, Lanvin, squirrel1988, VerySloppyTwo, Viovio87	207	5	25
+500293	2	27	Rainbow (6 Suits)	2021-04-13 — 23:11:05 UTC	boba, Durandal	78	6	30
+500288	2	30	Rainbow (6 Suits)	2021-04-13 — 23:03:45 UTC	boba, Durandal	83	6	30
+499691	4	30	Rainbow (6 Suits)	2021-04-13 — 12:59:38 UTC	Animex52, boba, squirrel1988, Viovio87	157	6	30
+499662	5	0	No Variant	2021-04-13 — 11:37:39 UTC	boba, Lanvin, squirrel1988, VerySloppyTwo, Viovio87	208	5	25
 499645	2	24	No Variant	2021-04-13 — 10:20:39 UTC	beri, boba	52	5	25
 499633	3	0	Black & Rainbow (6 Suits)	2021-04-13 — 08:23:39 UTC	antitelharsic, boba, squirrel1988	51	6	30
-499627	3	28	Black & Rainbow (6 Suits)	2021-04-13 — 07:59:05 UTC	antitelharsic, boba, Wittvector	59	6	30
+499627	3	28	Black & Rainbow (6 Suits)	2021-04-13 — 07:59:05 UTC	antitelharsic, boba, Wittvector	60	6	30
 499619	5	28	Black & Rainbow (6 Suits)	2021-04-13 — 07:35:09 UTC	antitelharsic, bjnh, boba, squirrel1988, Wittvector	15	6	30
 499600	4	24	Black (5 Suits)	2021-04-13 — 06:28:35 UTC	antitelharsic, boba, indego, squirrel1988	32	5	25
 499588	2	0	Null (5 Suits)	2021-04-13 — 05:59:25 UTC	boba, squirrel1988	4	5	25
@@ -83,30 +93,30 @@
 499566	2	0	Null (5 Suits)	2021-04-13 — 05:28:44 UTC	boba, squirrel1988	4	5	25
 499555	2	0	Null (5 Suits)	2021-04-13 — 05:21:42 UTC	boba, squirrel1988	4	5	25
 499543	2	0	Null (5 Suits)	2021-04-13 — 05:13:51 UTC	boba, squirrel1988	4	5	25
-499535	2	0	Null (5 Suits)	2021-04-13 — 05:09:14 UTC	boba, squirrel1988	47	5	25
-499446	2	28	Dark Null (6 Suits)	2021-04-13 — 04:03:25 UTC	antitelharsic, boba	9	6	30
-499419	2	0	Dark Null (6 Suits)	2021-04-13 — 03:46:59 UTC	antitelharsic, boba	10	6	30
-499405	2	0	Dark Null (6 Suits)	2021-04-13 — 03:38:22 UTC	antitelharsic, boba	12	6	30
-499399	2	0	Dark Null (6 Suits)	2021-04-13 — 03:32:32 UTC	antitelharsic, boba	13	6	30
-499390	2	0	Dark Null (6 Suits)	2021-04-13 — 03:24:54 UTC	antitelharsic, boba	14	6	30
-498284	2	25	Dark Omni (5 Suits)	2021-04-12 — 06:55:32 UTC	boba, squirrel1988	19	5	25
-498283	2	24	Dark Omni (5 Suits)	2021-04-12 — 06:49:56 UTC	boba, squirrel1988	20	5	25
-498282	2	21	Dark Omni (5 Suits)	2021-04-12 — 06:42:49 UTC	boba, squirrel1988	20	5	25
-498277	2	0	Dark Omni (5 Suits)	2021-04-12 — 06:32:12 UTC	boba, squirrel1988	35	5	25
-498275	2	0	Dark Omni (5 Suits)	2021-04-12 — 06:29:26 UTC	boba, squirrel1988	47	5	25
+499535	2	0	Null (5 Suits)	2021-04-13 — 05:09:14 UTC	boba, squirrel1988	50	5	25
+499446	2	28	Dark Null (6 Suits)	2021-04-13 — 04:03:25 UTC	antitelharsic, boba	11	6	30
+499419	2	0	Dark Null (6 Suits)	2021-04-13 — 03:46:59 UTC	antitelharsic, boba	12	6	30
+499405	2	0	Dark Null (6 Suits)	2021-04-13 — 03:38:22 UTC	antitelharsic, boba	14	6	30
+499399	2	0	Dark Null (6 Suits)	2021-04-13 — 03:32:32 UTC	antitelharsic, boba	14	6	30
+499390	2	0	Dark Null (6 Suits)	2021-04-13 — 03:24:54 UTC	antitelharsic, boba	15	6	30
+498284	2	25	Dark Omni (5 Suits)	2021-04-12 — 06:55:32 UTC	boba, squirrel1988	20	5	25
+498283	2	24	Dark Omni (5 Suits)	2021-04-12 — 06:49:56 UTC	boba, squirrel1988	21	5	25
+498282	2	21	Dark Omni (5 Suits)	2021-04-12 — 06:42:49 UTC	boba, squirrel1988	21	5	25
+498277	2	0	Dark Omni (5 Suits)	2021-04-12 — 06:32:12 UTC	boba, squirrel1988	36	5	25
+498275	2	0	Dark Omni (5 Suits)	2021-04-12 — 06:29:26 UTC	boba, squirrel1988	50	5	25
 498272	2	25	Dark Brown (5 Suits)	2021-04-12 — 06:25:22 UTC	boba, squirrel1988	41	5	25
 498270	2	0	Dark Brown (5 Suits)	2021-04-12 — 06:18:18 UTC	boba, squirrel1988	55	5	25
 498267	2	30	Dark Brown (6 Suits)	2021-04-12 — 06:09:07 UTC	boba, squirrel1988	16	6	30
 497756	2	25	No Variant	2021-04-12 — 00:39:17 UTC	beri, boba	52	5	25
 497740	2	0	No Variant	2021-04-12 — 00:30:47 UTC	beri, boba	51	5	25
-497006	4	0	White (6 Suits)	2021-04-11 — 04:30:23 UTC	boba, dobi, HelanaAshryvr, squirrel1988	41	6	30
+497006	4	0	White (6 Suits)	2021-04-11 — 04:30:23 UTC	boba, dobi, HelanaAshryvr, squirrel1988	43	6	30
 496884	5	29	Gray (6 Suits)	2021-04-11 — 02:10:47 UTC	antitelharsic, aquarelle, boba, catula, qqqq	19	6	30
-496823	5	23	No Variant	2021-04-11 — 01:36:27 UTC	antitelharsic, aquarelle, boba, chetbaker, qqqq	31	5	25
-496801	2	24	No Variant	2021-04-11 — 01:06:52 UTC	antitelharsic, boba	114	5	25
-496798	2	24	No Variant	2021-04-11 — 01:03:18 UTC	antitelharsic, boba	117	5	25
-496796	2	0	No Variant	2021-04-11 — 00:59:31 UTC	antitelharsic, boba	117	5	25
-496793	2	0	No Variant	2021-04-11 — 00:57:28 UTC	antitelharsic, boba	117	5	25
-495894	4	0	Dual-Color (6 Suits)	2021-04-10 — 08:19:19 UTC	bjnh, boba, Lel0uch, squirrel1988	7	6	30
+496823	5	23	No Variant	2021-04-11 — 01:36:27 UTC	antitelharsic, aquarelle, boba, chetbaker, qqqq	32	5	25
+496801	2	24	No Variant	2021-04-11 — 01:06:52 UTC	antitelharsic, boba	116	5	25
+496798	2	24	No Variant	2021-04-11 — 01:03:18 UTC	antitelharsic, boba	119	5	25
+496796	2	0	No Variant	2021-04-11 — 00:59:31 UTC	antitelharsic, boba	119	5	25
+496793	2	0	No Variant	2021-04-11 — 00:57:28 UTC	antitelharsic, boba	119	5	25
+495894	4	0	Dual-Color (6 Suits)	2021-04-10 — 08:19:19 UTC	bjnh, boba, Lel0uch, squirrel1988	8	6	30
 495892	4	0	Dual-Color (6 Suits)	2021-04-10 — 08:05:28 UTC	bjnh, boba, Lel0uch, squirrel1988	9	6	30
 495888	4	0	Dual-Color (6 Suits)	2021-04-10 — 07:44:04 UTC	bjnh, boba, Lel0uch, squirrel1988	9	6	30
 495884	5	0	Up or Down (6 Suits)	2021-04-10 — 07:11:44 UTC	bjnh, boba, FerKeth, HelanaAshryvr, squirrel1988	17	6	30
@@ -146,7 +156,7 @@
 495660	2	25	Black & Pink (5 Suits)	2021-04-10 — 03:04:46 UTC	aquarelle, boba	23	5	25
 495623	2	0	Black & Pink (5 Suits)	2021-04-10 — 02:52:21 UTC	aquarelle, boba	24	5	25
 495617	2	23	Black & Pink (5 Suits)	2021-04-10 — 02:50:56 UTC	aquarelle, boba	25	5	25
-495598	3	15	Pink (3 Suits)	2021-04-10 — 02:34:26 UTC	aquarelle, boba, Lanvin	44	3	15
+495598	3	15	Pink (3 Suits)	2021-04-10 — 02:34:26 UTC	aquarelle, boba, Lanvin	46	3	15
 494825	2	0	Black & Muddy Rainbow (5 Suits)	2021-04-09 — 12:24:21 UTC	boba, Durandal	1	5	25
 494823	2	0	Black & Muddy Rainbow (5 Suits)	2021-04-09 — 12:21:53 UTC	boba, Durandal	1	5	25
 494821	2	0	Black & Muddy Rainbow (5 Suits)	2021-04-09 — 12:18:13 UTC	boba, Durandal	1	5	25
@@ -157,15 +167,15 @@
 494791	2	0	Black & Muddy Rainbow (5 Suits)	2021-04-09 — 11:35:32 UTC	boba, Durandal	2	5	25
 494788	2	23	Black & Muddy Rainbow (5 Suits)	2021-04-09 — 11:24:52 UTC	boba, Durandal	2	5	25
 494782	2	0	Black & Muddy Rainbow (5 Suits)	2021-04-09 — 11:12:51 UTC	boba, Durandal	2	5	25
-494780	2	0	Black & Muddy Rainbow (5 Suits)	2021-04-09 — 11:09:54 UTC	boba, Durandal	3	5	25
-494779	2	24	Black & Muddy Rainbow (5 Suits)	2021-04-09 — 10:58:43 UTC	boba, Durandal	3	5	25
-494778	2	0	Black & Muddy Rainbow (5 Suits)	2021-04-09 — 10:51:40 UTC	boba, Durandal	3	5	25
-494776	2	0	Black & Muddy Rainbow (5 Suits)	2021-04-09 — 10:48:12 UTC	boba, Durandal	3	5	25
-494775	2	24	Black & Muddy Rainbow (5 Suits)	2021-04-09 — 10:43:06 UTC	boba, Durandal	3	5	25
-494774	2	0	Black & Muddy Rainbow (5 Suits)	2021-04-09 — 10:34:20 UTC	boba, Durandal	3	5	25
+494780	2	0	Black & Muddy Rainbow (5 Suits)	2021-04-09 — 11:09:54 UTC	boba, Durandal	4	5	25
+494779	2	24	Black & Muddy Rainbow (5 Suits)	2021-04-09 — 10:58:43 UTC	boba, Durandal	4	5	25
+494778	2	0	Black & Muddy Rainbow (5 Suits)	2021-04-09 — 10:51:40 UTC	boba, Durandal	4	5	25
+494776	2	0	Black & Muddy Rainbow (5 Suits)	2021-04-09 — 10:48:12 UTC	boba, Durandal	5	5	25
+494775	2	24	Black & Muddy Rainbow (5 Suits)	2021-04-09 — 10:43:06 UTC	boba, Durandal	5	5	25
+494774	2	0	Black & Muddy Rainbow (5 Suits)	2021-04-09 — 10:34:20 UTC	boba, Durandal	5	5	25
 494767	2	15	Null (3 Suits)	2021-04-09 — 09:46:35 UTC	antitelharsic, boba	20	3	15
 494765	2	0	Null (3 Suits)	2021-04-09 — 09:39:18 UTC	antitelharsic, boba	21	3	15
-494762	2	0	Null (3 Suits)	2021-04-09 — 09:31:03 UTC	antitelharsic, boba	56	3	15
+494762	2	0	Null (3 Suits)	2021-04-09 — 09:31:03 UTC	antitelharsic, boba	57	3	15
 494758	2	20	Null (4 Suits)	2021-04-09 — 09:17:14 UTC	antitelharsic, boba	7	4	20
 494752	2	0	Null (4 Suits)	2021-04-09 — 09:06:39 UTC	antitelharsic, boba	7	4	20
 494742	2	0	Null (5 Suits)	2021-04-09 — 08:53:54 UTC	antitelharsic, boba	14	5	25
@@ -174,65 +184,65 @@
 494713	4	0	Ambiguous & Dual-Color	2021-04-09 — 07:18:18 UTC	boba, Lel0uch, qqqq, robense	2	6	30
 494708	5	0	Ambiguous & Dual-Color	2021-04-09 — 07:02:09 UTC	antitelharsic, boba, cockdestroyer, Lel0uch, sin_faith	3	6	30
 494695	2	25	Null (5 Suits)	2021-04-09 — 06:33:41 UTC	antitelharsic, boba	14	5	25
-494687	2	30	Null (6 Suits)	2021-04-09 — 06:07:47 UTC	antitelharsic, boba	34	6	30
-494673	2	0	Null (6 Suits)	2021-04-09 — 05:46:35 UTC	antitelharsic, boba	37	6	30
-494547	4	21	Black & Omni (5 Suits)	2021-04-09 — 03:44:07 UTC	antitelharsic, boba, HelanaAshryvr, squirrel1988	5	5	25
+494687	2	30	Null (6 Suits)	2021-04-09 — 06:07:47 UTC	antitelharsic, boba	35	6	30
+494673	2	0	Null (6 Suits)	2021-04-09 — 05:46:35 UTC	antitelharsic, boba	38	6	30
+494547	4	21	Black & Omni (5 Suits)	2021-04-09 — 03:44:07 UTC	antitelharsic, boba, HelanaAshryvr, squirrel1988	6	5	25
 494514	4	22	Black & Omni (5 Suits)	2021-04-09 — 03:04:55 UTC	antitelharsic, boba, HelanaAshryvr, squirrel1988	8	5	25
 494500	4	0	Black & Omni (5 Suits)	2021-04-09 — 02:42:23 UTC	antitelharsic, boba, HelanaAshryvr, squirrel1988	8	5	25
 494491	3	0	Black & Omni (5 Suits)	2021-04-09 — 02:29:25 UTC	boba, HelanaAshryvr, squirrel1988	4	5	25
-493963	2	25	No Variant	2021-04-08 — 13:10:23 UTC	beri, boba	52	5	25
-493957	2	25	No Variant	2021-04-08 — 12:32:29 UTC	beri, boba	52	5	25
-493950	3	0	Gray (5 Suits)	2021-04-08 — 12:14:03 UTC	boba, Durandal, Lanvin	16	5	25
+493963	2	25	No Variant	2021-04-08 — 13:10:23 UTC	beri, boba	53	5	25
+493957	2	25	No Variant	2021-04-08 — 12:32:29 UTC	beri, boba	53	5	25
+493950	3	0	Gray (5 Suits)	2021-04-08 — 12:14:03 UTC	boba, Durandal, Lanvin	17	5	25
 493945	3	0	Gray (5 Suits)	2021-04-08 — 12:03:51 UTC	boba, Durandal, Lanvin	20	5	25
-493936	3	0	Gray (5 Suits)	2021-04-08 — 11:50:19 UTC	boba, Durandal, Lanvin	19	5	25
-493931	3	0	Gray (5 Suits)	2021-04-08 — 11:44:31 UTC	boba, Durandal, Lanvin	35	5	25
+493936	3	0	Gray (5 Suits)	2021-04-08 — 11:50:19 UTC	boba, Durandal, Lanvin	20	5	25
+493931	3	0	Gray (5 Suits)	2021-04-08 — 11:44:31 UTC	boba, Durandal, Lanvin	36	5	25
 493896	3	0	Null (5 Suits)	2021-04-08 — 10:05:29 UTC	antitelharsic, boba, sin_faith	15	5	25
-493892	4	25	Null (5 Suits)	2021-04-08 — 09:36:56 UTC	antitelharsic, boba, cockdestroyer, sin_faith	26	5	25
-493862	3	0	Rainbow (6 Suits)	2021-04-08 — 07:41:33 UTC	boba, Etherealz, FerKeth	83	6	30
-493859	3	0	Rainbow (6 Suits)	2021-04-08 — 07:30:56 UTC	boba, Etherealz, FerKeth	91	6	30
-493857	3	0	Rainbow (6 Suits)	2021-04-08 — 07:26:46 UTC	boba, Etherealz, FerKeth	91	6	30
+493892	4	25	Null (5 Suits)	2021-04-08 — 09:36:56 UTC	antitelharsic, boba, cockdestroyer, sin_faith	27	5	25
+493862	3	0	Rainbow (6 Suits)	2021-04-08 — 07:41:33 UTC	boba, Etherealz, FerKeth	84	6	30
+493859	3	0	Rainbow (6 Suits)	2021-04-08 — 07:30:56 UTC	boba, Etherealz, FerKeth	93	6	30
+493857	3	0	Rainbow (6 Suits)	2021-04-08 — 07:26:46 UTC	boba, Etherealz, FerKeth	93	6	30
 493814	2	24	Black & Pink (5 Suits)	2021-04-08 — 05:27:16 UTC	boba, FerKeth	26	5	25
 493808	2	18	Black & Pink (5 Suits)	2021-04-08 — 05:04:00 UTC	boba, FerKeth	29	5	25
 493690	5	0	Black (5 Suits)	2021-04-08 — 02:45:57 UTC	antitelharsic, aquarelle, boba, HelanaAshryvr, Lel0uch	27	5	25
 493675	3	0	No Variant	2021-04-08 — 02:27:41 UTC	antitelharsic, aquarelle, boba	14	5	25
-493655	2	0	No Variant	2021-04-08 — 02:11:09 UTC	antitelharsic, boba	117	5	25
-493654	2	0	No Variant	2021-04-08 — 02:08:39 UTC	antitelharsic, boba	119	5	25
-493653	2	0	No Variant	2021-04-08 — 02:08:08 UTC	antitelharsic, boba	121	5	25
+493655	2	0	No Variant	2021-04-08 — 02:11:09 UTC	antitelharsic, boba	121	5	25
+493654	2	0	No Variant	2021-04-08 — 02:08:39 UTC	antitelharsic, boba	126	5	25
+493653	2	0	No Variant	2021-04-08 — 02:08:08 UTC	antitelharsic, boba	127	5	25
 493630	5	0	White (6 Suits)	2021-04-08 — 01:46:49 UTC	aquarelle, bob65536, boba, Meowie, wump	9	6	30
-492997	2	25	No Variant	2021-04-07 — 10:04:08 UTC	beri, boba	52	5	25
-492994	2	22	No Variant	2021-04-07 — 09:48:22 UTC	beri, boba	52	5	25
-492990	2	25	No Variant	2021-04-07 — 09:34:04 UTC	antitelharsic, boba	124	5	25
-492988	2	0	No Variant	2021-04-07 — 09:32:07 UTC	antitelharsic, boba	124	5	25
-492987	2	0	No Variant	2021-04-07 — 09:31:39 UTC	antitelharsic, boba	125	5	25
-492986	2	0	No Variant	2021-04-07 — 09:30:27 UTC	antitelharsic, boba	125	5	25
-492985	2	0	No Variant	2021-04-07 — 09:29:39 UTC	antitelharsic, boba	128	5	25
-492983	2	0	No Variant	2021-04-07 — 09:27:24 UTC	antitelharsic, boba	132	5	25
-492982	2	0	No Variant	2021-04-07 — 09:25:03 UTC	antitelharsic, boba	133	5	25
-492980	2	0	No Variant	2021-04-07 — 09:23:39 UTC	antitelharsic, boba	135	5	25
-492979	2	0	No Variant	2021-04-07 — 09:23:13 UTC	antitelharsic, boba	138	5	25
-492978	2	0	No Variant	2021-04-07 — 09:21:39 UTC	antitelharsic, boba	139	5	25
-492977	2	0	No Variant	2021-04-07 — 09:19:49 UTC	antitelharsic, boba	139	5	25
-492976	2	23	No Variant	2021-04-07 — 09:18:42 UTC	antitelharsic, boba	139	5	25
-492975	2	24	No Variant	2021-04-07 — 09:15:39 UTC	antitelharsic, boba	142	5	25
-492973	2	25	No Variant	2021-04-07 — 09:12:53 UTC	antitelharsic, boba	145	5	25
-492971	2	24	No Variant	2021-04-07 — 09:10:27 UTC	antitelharsic, boba	163	5	25
-492968	2	25	No Variant	2021-04-07 — 09:07:12 UTC	antitelharsic, boba	165	5	25
-492967	2	0	No Variant	2021-04-07 — 09:05:11 UTC	antitelharsic, boba	169	5	25
-492966	2	0	No Variant	2021-04-07 — 09:03:48 UTC	antitelharsic, boba	170	5	25
+492997	2	25	No Variant	2021-04-07 — 10:04:08 UTC	beri, boba	53	5	25
+492994	2	22	No Variant	2021-04-07 — 09:48:22 UTC	beri, boba	53	5	25
+492990	2	25	No Variant	2021-04-07 — 09:34:04 UTC	antitelharsic, boba	129	5	25
+492988	2	0	No Variant	2021-04-07 — 09:32:07 UTC	antitelharsic, boba	130	5	25
+492987	2	0	No Variant	2021-04-07 — 09:31:39 UTC	antitelharsic, boba	131	5	25
+492986	2	0	No Variant	2021-04-07 — 09:30:27 UTC	antitelharsic, boba	131	5	25
+492985	2	0	No Variant	2021-04-07 — 09:29:39 UTC	antitelharsic, boba	134	5	25
+492983	2	0	No Variant	2021-04-07 — 09:27:24 UTC	antitelharsic, boba	137	5	25
+492982	2	0	No Variant	2021-04-07 — 09:25:03 UTC	antitelharsic, boba	138	5	25
+492980	2	0	No Variant	2021-04-07 — 09:23:39 UTC	antitelharsic, boba	140	5	25
+492979	2	0	No Variant	2021-04-07 — 09:23:13 UTC	antitelharsic, boba	144	5	25
+492978	2	0	No Variant	2021-04-07 — 09:21:39 UTC	antitelharsic, boba	144	5	25
+492977	2	0	No Variant	2021-04-07 — 09:19:49 UTC	antitelharsic, boba	144	5	25
+492976	2	23	No Variant	2021-04-07 — 09:18:42 UTC	antitelharsic, boba	144	5	25
+492975	2	24	No Variant	2021-04-07 — 09:15:39 UTC	antitelharsic, boba	146	5	25
+492973	2	25	No Variant	2021-04-07 — 09:12:53 UTC	antitelharsic, boba	148	5	25
+492971	2	24	No Variant	2021-04-07 — 09:10:27 UTC	antitelharsic, boba	165	5	25
+492968	2	25	No Variant	2021-04-07 — 09:07:12 UTC	antitelharsic, boba	166	5	25
+492967	2	0	No Variant	2021-04-07 — 09:05:11 UTC	antitelharsic, boba	170	5	25
+492966	2	0	No Variant	2021-04-07 — 09:03:48 UTC	antitelharsic, boba	171	5	25
 492952	4	25	No Variant	2021-04-07 — 06:57:56 UTC	antitelharsic, bjnh, boba, Lel0uch	33	5	25
-492942	4	24	No Variant	2021-04-07 — 06:30:00 UTC	antitelharsic, bjnh, boba, cockdestroyer	34	5	25
+492942	4	24	No Variant	2021-04-07 — 06:30:00 UTC	antitelharsic, bjnh, boba, cockdestroyer	35	5	25
 492928	6	29	Black & Omni (6 Suits)	2021-04-07 — 06:01:03 UTC	antitelharsic, bjnh, boba, cockdestroyer, HelanaAshryvr, squirrel1988	1	6	30
 492914	6	0	Black & Omni (6 Suits)	2021-04-07 — 05:32:14 UTC	antitelharsic, boba, cockdestroyer, HelanaAshryvr, Lel0uch, squirrel1988	1	6	30
 492907	6	0	Black & Omni (6 Suits)	2021-04-07 — 05:13:57 UTC	antitelharsic, boba, cockdestroyer, HelanaAshryvr, Lel0uch, squirrel1988	2	6	30
 492889	2	0	Black & Pink (5 Suits)	2021-04-07 — 04:41:03 UTC	boba, squirrel1988	29	5	25
 492885	2	22	Black & Pink (5 Suits)	2021-04-07 — 04:35:26 UTC	boba, squirrel1988	32	5	25
 492871	2	0	Black & Pink (5 Suits)	2021-04-07 — 04:24:59 UTC	boba, squirrel1988	37	5	25
-492849	3	30	Up or Down (6 Suits)	2021-04-07 — 04:05:06 UTC	antitelharsic, boba, Lel0uch	34	6	30
+492849	3	30	Up or Down (6 Suits)	2021-04-07 — 04:05:06 UTC	antitelharsic, boba, Lel0uch	35	6	30
 492816	3	0	No Variant	2021-04-07 — 03:32:34 UTC	antitelharsic, boba, cockdestroyer	15	5	25
 492808	3	23	No Variant	2021-04-07 — 03:27:10 UTC	antitelharsic, boba, cockdestroyer	15	5	25
 492780	3	0	No Variant	2021-04-07 — 03:14:15 UTC	antitelharsic, boba, cockdestroyer	15	5	25
 492771	5	0	Pink-Ones & Prism (5 Suits)	2021-04-07 — 03:08:46 UTC	antitelharsic, boba, cockdestroyer, jeff10, Lel0uch	2	5	25
-492750	3	30	Dual-Color & Rainbow (6 Suits)	2021-04-07 — 02:46:11 UTC	antitelharsic, boba, Lel0uch	11	6	30
+492750	3	30	Dual-Color & Rainbow (6 Suits)	2021-04-07 — 02:46:11 UTC	antitelharsic, boba, Lel0uch	12	6	30
 492010	3	24	Black & Prism (5 Suits)	2021-04-06 — 09:17:26 UTC	antitelharsic, boba, catula	12	5	25
 492005	3	0	Black & Prism (5 Suits)	2021-04-06 — 08:45:44 UTC	antitelharsic, boba, catula	12	5	25
 490813	2	15	Number Mute (3 Suits)	2021-04-05 — 01:53:17 UTC	aquarelle, boba	4	3	15
@@ -240,63 +250,63 @@
 490803	2	0	Number Mute (3 Suits)	2021-04-05 — 01:36:39 UTC	aquarelle, boba	6	3	15
 490271	3	0	Rainbow-Fives & Dark Brown (6 Suits)	2021-04-04 — 10:36:02 UTC	boba, Lanvin, Lel0uch	1	6	30
 490255	4	30	Rainbow (6 Suits)	2021-04-04 — 08:47:28 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	38	6	30
-490251	4	25	No Variant	2021-04-04 — 08:38:13 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	16	5	25
-490249	4	0	No Variant	2021-04-04 — 08:34:11 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	17	5	25
-490248	4	0	No Variant	2021-04-04 — 08:32:17 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	16	5	25
-490245	4	0	No Variant	2021-04-04 — 08:29:55 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	16	5	25
-490242	4	0	No Variant	2021-04-04 — 08:25:38 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	16	5	25
-490241	4	0	No Variant	2021-04-04 — 08:21:14 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	17	5	25
-490240	4	0	No Variant	2021-04-04 — 08:18:59 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	17	5	25
-490237	4	0	No Variant	2021-04-04 — 08:16:50 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	17	5	25
-490235	4	0	No Variant	2021-04-04 — 08:13:04 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	17	5	25
-490232	4	0	No Variant	2021-04-04 — 08:10:43 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	17	5	25
-490229	4	25	No Variant	2021-04-04 — 08:07:29 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	17	5	25
-490227	4	0	No Variant	2021-04-04 — 08:03:47 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	16	5	25
-490226	4	0	No Variant	2021-04-04 — 08:02:32 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	16	5	25
+490251	4	25	No Variant	2021-04-04 — 08:38:13 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	18	5	25
+490249	4	0	No Variant	2021-04-04 — 08:34:11 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	18	5	25
+490248	4	0	No Variant	2021-04-04 — 08:32:17 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	17	5	25
+490245	4	0	No Variant	2021-04-04 — 08:29:55 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	17	5	25
+490242	4	0	No Variant	2021-04-04 — 08:25:38 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	17	5	25
+490241	4	0	No Variant	2021-04-04 — 08:21:14 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	18	5	25
+490240	4	0	No Variant	2021-04-04 — 08:18:59 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	18	5	25
+490237	4	0	No Variant	2021-04-04 — 08:16:50 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	18	5	25
+490235	4	0	No Variant	2021-04-04 — 08:13:04 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	18	5	25
+490232	4	0	No Variant	2021-04-04 — 08:10:43 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	18	5	25
+490229	4	25	No Variant	2021-04-04 — 08:07:29 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	18	5	25
+490227	4	0	No Variant	2021-04-04 — 08:03:47 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	17	5	25
+490226	4	0	No Variant	2021-04-04 — 08:02:32 UTC	antitelharsic, boba, IsabeltheCat, sin_faith	17	5	25
 490224	3	25	No Variant	2021-04-04 — 08:00:50 UTC	antitelharsic, boba, IsabeltheCat	15	5	25
 490221	3	0	No Variant	2021-04-04 — 07:57:37 UTC	antitelharsic, boba, IsabeltheCat	15	5	25
 490219	3	25	No Variant	2021-04-04 — 07:56:21 UTC	antitelharsic, boba, IsabeltheCat	15	5	25
 490216	3	0	No Variant	2021-04-04 — 07:53:05 UTC	antitelharsic, boba, IsabeltheCat	16	5	25
-490213	2	25	No Variant	2021-04-04 — 07:49:44 UTC	antitelharsic, boba	175	5	25
-490212	2	25	No Variant	2021-04-04 — 07:47:38 UTC	antitelharsic, boba	173	5	25
-490210	2	22	No Variant	2021-04-04 — 07:45:06 UTC	antitelharsic, boba	178	5	25
-490205	2	0	No Variant	2021-04-04 — 07:39:31 UTC	antitelharsic, boba	178	5	25
-490204	2	0	No Variant	2021-04-04 — 07:39:08 UTC	antitelharsic, boba	181	5	25
-490201	2	0	No Variant	2021-04-04 — 07:37:14 UTC	antitelharsic, boba	180	5	25
-490200	2	0	No Variant	2021-04-04 — 07:35:50 UTC	antitelharsic, boba	179	5	25
-490199	2	0	No Variant	2021-04-04 — 07:34:30 UTC	antitelharsic, boba	181	5	25
-490198	2	25	No Variant	2021-04-04 — 07:33:29 UTC	antitelharsic, boba	185	5	25
-490197	2	0	No Variant	2021-04-04 — 07:31:35 UTC	antitelharsic, boba	184	5	25
-490192	2	0	No Variant	2021-04-04 — 07:23:18 UTC	antitelharsic, boba	182	5	25
-490190	2	0	No Variant	2021-04-04 — 07:21:28 UTC	antitelharsic, boba	186	5	25
-490189	2	0	No Variant	2021-04-04 — 07:20:29 UTC	antitelharsic, boba	187	5	25
-490186	2	0	No Variant	2021-04-04 — 07:16:59 UTC	antitelharsic, boba	191	5	25
-490185	2	24	No Variant	2021-04-04 — 07:16:26 UTC	antitelharsic, boba	195	5	25
-490183	2	25	No Variant	2021-04-04 — 07:10:16 UTC	antitelharsic, boba	194	5	25
-490181	2	0	No Variant	2021-04-04 — 07:07:40 UTC	antitelharsic, boba	196	5	25
-490179	2	0	No Variant	2021-04-04 — 07:06:20 UTC	antitelharsic, boba	194	5	25
-490178	2	0	No Variant	2021-04-04 — 07:05:31 UTC	antitelharsic, boba	201	5	25
-490177	2	0	No Variant	2021-04-04 — 07:03:10 UTC	antitelharsic, boba	201	5	25
-490176	2	0	No Variant	2021-04-04 — 07:02:47 UTC	antitelharsic, boba	207	5	25
-490175	2	0	No Variant	2021-04-04 — 07:01:01 UTC	antitelharsic, boba	207	5	25
-490173	2	0	No Variant	2021-04-04 — 06:58:05 UTC	antitelharsic, boba	211	5	25
-490172	2	0	No Variant	2021-04-04 — 06:56:49 UTC	antitelharsic, boba	212	5	25
-490171	2	0	No Variant	2021-04-04 — 06:55:18 UTC	antitelharsic, boba	215	5	25
-490168	2	0	No Variant	2021-04-04 — 06:53:55 UTC	antitelharsic, boba	220	5	25
-490166	2	0	No Variant	2021-04-04 — 06:51:57 UTC	antitelharsic, boba	220	5	25
-490165	2	0	No Variant	2021-04-04 — 06:50:01 UTC	antitelharsic, boba	225	5	25
-490163	2	25	No Variant	2021-04-04 — 06:49:34 UTC	antitelharsic, boba	228	5	25
-490160	2	0	No Variant	2021-04-04 — 06:46:26 UTC	antitelharsic, boba	231	5	25
-490159	2	25	No Variant	2021-04-04 — 06:45:55 UTC	antitelharsic, boba	244	5	25
-490156	2	0	No Variant	2021-04-04 — 06:42:37 UTC	antitelharsic, boba	249	5	25
-490154	2	0	No Variant	2021-04-04 — 06:41:08 UTC	antitelharsic, boba	254	5	25
-490153	2	0	No Variant	2021-04-04 — 06:39:52 UTC	antitelharsic, boba	259	5	25
-490151	2	0	No Variant	2021-04-04 — 06:38:10 UTC	antitelharsic, boba	257	5	25
-490150	2	0	No Variant	2021-04-04 — 06:35:28 UTC	antitelharsic, boba	264	5	25
-490149	2	0	No Variant	2021-04-04 — 06:35:05 UTC	antitelharsic, boba	271	5	25
+490213	2	25	No Variant	2021-04-04 — 07:49:44 UTC	antitelharsic, boba	177	5	25
+490212	2	25	No Variant	2021-04-04 — 07:47:38 UTC	antitelharsic, boba	176	5	25
+490210	2	22	No Variant	2021-04-04 — 07:45:06 UTC	antitelharsic, boba	183	5	25
+490205	2	0	No Variant	2021-04-04 — 07:39:31 UTC	antitelharsic, boba	181	5	25
+490204	2	0	No Variant	2021-04-04 — 07:39:08 UTC	antitelharsic, boba	184	5	25
+490201	2	0	No Variant	2021-04-04 — 07:37:14 UTC	antitelharsic, boba	183	5	25
+490200	2	0	No Variant	2021-04-04 — 07:35:50 UTC	antitelharsic, boba	182	5	25
+490199	2	0	No Variant	2021-04-04 — 07:34:30 UTC	antitelharsic, boba	184	5	25
+490198	2	25	No Variant	2021-04-04 — 07:33:29 UTC	antitelharsic, boba	187	5	25
+490197	2	0	No Variant	2021-04-04 — 07:31:35 UTC	antitelharsic, boba	186	5	25
+490192	2	0	No Variant	2021-04-04 — 07:23:18 UTC	antitelharsic, boba	184	5	25
+490190	2	0	No Variant	2021-04-04 — 07:21:28 UTC	antitelharsic, boba	188	5	25
+490189	2	0	No Variant	2021-04-04 — 07:20:29 UTC	antitelharsic, boba	189	5	25
+490186	2	0	No Variant	2021-04-04 — 07:16:59 UTC	antitelharsic, boba	194	5	25
+490185	2	24	No Variant	2021-04-04 — 07:16:26 UTC	antitelharsic, boba	197	5	25
+490183	2	25	No Variant	2021-04-04 — 07:10:16 UTC	antitelharsic, boba	197	5	25
+490181	2	0	No Variant	2021-04-04 — 07:07:40 UTC	antitelharsic, boba	199	5	25
+490179	2	0	No Variant	2021-04-04 — 07:06:20 UTC	antitelharsic, boba	197	5	25
+490178	2	0	No Variant	2021-04-04 — 07:05:31 UTC	antitelharsic, boba	204	5	25
+490177	2	0	No Variant	2021-04-04 — 07:03:10 UTC	antitelharsic, boba	203	5	25
+490176	2	0	No Variant	2021-04-04 — 07:02:47 UTC	antitelharsic, boba	209	5	25
+490175	2	0	No Variant	2021-04-04 — 07:01:01 UTC	antitelharsic, boba	209	5	25
+490173	2	0	No Variant	2021-04-04 — 06:58:05 UTC	antitelharsic, boba	215	5	25
+490172	2	0	No Variant	2021-04-04 — 06:56:49 UTC	antitelharsic, boba	217	5	25
+490171	2	0	No Variant	2021-04-04 — 06:55:18 UTC	antitelharsic, boba	221	5	25
+490168	2	0	No Variant	2021-04-04 — 06:53:55 UTC	antitelharsic, boba	226	5	25
+490166	2	0	No Variant	2021-04-04 — 06:51:57 UTC	antitelharsic, boba	226	5	25
+490165	2	0	No Variant	2021-04-04 — 06:50:01 UTC	antitelharsic, boba	233	5	25
+490163	2	25	No Variant	2021-04-04 — 06:49:34 UTC	antitelharsic, boba	234	5	25
+490160	2	0	No Variant	2021-04-04 — 06:46:26 UTC	antitelharsic, boba	238	5	25
+490159	2	25	No Variant	2021-04-04 — 06:45:55 UTC	antitelharsic, boba	250	5	25
+490156	2	0	No Variant	2021-04-04 — 06:42:37 UTC	antitelharsic, boba	253	5	25
+490154	2	0	No Variant	2021-04-04 — 06:41:08 UTC	antitelharsic, boba	258	5	25
+490153	2	0	No Variant	2021-04-04 — 06:39:52 UTC	antitelharsic, boba	263	5	25
+490151	2	0	No Variant	2021-04-04 — 06:38:10 UTC	antitelharsic, boba	262	5	25
+490150	2	0	No Variant	2021-04-04 — 06:35:28 UTC	antitelharsic, boba	270	5	25
+490149	2	0	No Variant	2021-04-04 — 06:35:05 UTC	antitelharsic, boba	277	5	25
 490142	3	30	Cocoa Rainbow (6 Suits)	2021-04-04 — 06:23:34 UTC	antitelharsic, boba, HelanaAshryvr	30	6	30
 490134	4	20	Rainbow (4 Suits)	2021-04-04 — 05:57:09 UTC	antitelharsic, boba, HelanaAshryvr, squirrel1988	6	4	20
-490121	3	0	Black (6 Suits)	2021-04-04 — 05:37:04 UTC	boba, HelanaAshryvr, squirrel1988	52	6	30
+490121	3	0	Black (6 Suits)	2021-04-04 — 05:37:04 UTC	boba, HelanaAshryvr, squirrel1988	53	6	30
 488255	5	0	Rainbow-Ones & Rainbow (5 Suits)	2021-04-02 — 11:59:30 UTC	Arcee, boba, indego, Lel0uch, melwen	2	5	25
 488247	3	0	Rainbow & Brown (6 Suits)	2021-04-02 — 11:41:47 UTC	boba, Lel0uch, MarkusKahlsen	23	6	30
 488243	2	0	White & Dark Brown (5 Suits)	2021-04-02 — 11:29:33 UTC	boba, Lel0uch	8	5	25
@@ -304,48 +314,48 @@
 488237	2	20	White & Dark Brown (5 Suits)	2021-04-02 — 11:17:49 UTC	boba, Lel0uch	10	5	25
 488235	2	20	White & Dark Brown (5 Suits)	2021-04-02 — 11:12:02 UTC	boba, Lel0uch	12	5	25
 488217	2	25	Rainbow & Prism (5 Suits)	2021-04-02 — 10:09:59 UTC	Animex52, boba	20	5	25
-488215	2	0	Rainbow & Prism (5 Suits)	2021-04-02 — 10:00:38 UTC	Animex52, boba	30	5	25
+488215	2	0	Rainbow & Prism (5 Suits)	2021-04-02 — 10:00:38 UTC	Animex52, boba	31	5	25
 488203	4	0	Black (5 Suits)	2021-04-02 — 09:10:09 UTC	Animex52, antitelharsic, boba, sin_faith	23	5	25
-488197	4	0	Black (5 Suits)	2021-04-02 — 08:53:27 UTC	Animex52, antitelharsic, boba, sin_faith	21	5	25
+488197	4	0	Black (5 Suits)	2021-04-02 — 08:53:27 UTC	Animex52, antitelharsic, boba, sin_faith	22	5	25
 488193	6	22	Black (5 Suits)	2021-04-02 — 08:39:58 UTC	Animex52, antitelharsic, boba, Lanvin, sin_nofaith, stinkygf	5	5	25
-487868	2	27	Dark Null (6 Suits)	2021-04-01 — 23:41:02 UTC	antitelharsic, boba	19	6	30
-487862	2	0	Dark Null (6 Suits)	2021-04-01 — 23:31:26 UTC	antitelharsic, boba	18	6	30
-487858	2	25	Dark Null (6 Suits)	2021-04-01 — 23:25:07 UTC	antitelharsic, boba	18	6	30
+487868	2	27	Dark Null (6 Suits)	2021-04-01 — 23:41:02 UTC	antitelharsic, boba	20	6	30
+487862	2	0	Dark Null (6 Suits)	2021-04-01 — 23:31:26 UTC	antitelharsic, boba	19	6	30
+487858	2	25	Dark Null (6 Suits)	2021-04-01 — 23:25:07 UTC	antitelharsic, boba	19	6	30
 487852	2	0	Dark Null (6 Suits)	2021-04-01 — 23:10:54 UTC	antitelharsic, boba	22	6	30
-487840	2	30	Black & Pink (6 Suits)	2021-04-01 — 22:59:14 UTC	antitelharsic, boba	34	6	30
+487840	2	30	Black & Pink (6 Suits)	2021-04-01 — 22:59:14 UTC	antitelharsic, boba	35	6	30
 487812	4	28	Black & White (6 Suits)	2021-04-01 — 22:33:37 UTC	antitelharsic, boba, Lanvin, MarkusKahlsen	19	6	30
-487777	3	23	Gray (5 Suits)	2021-04-01 — 21:52:50 UTC	boba, indego, Lanvin	21	5	25
-487753	3	0	Gray (5 Suits)	2021-04-01 — 21:36:14 UTC	boba, indego, Lanvin	37	5	25
+487777	3	23	Gray (5 Suits)	2021-04-01 — 21:52:50 UTC	boba, indego, Lanvin	23	5	25
+487753	3	0	Gray (5 Suits)	2021-04-01 — 21:36:14 UTC	boba, indego, Lanvin	39	5	25
 487744	2	0	Dark Brown (6 Suits)	2021-04-01 — 21:27:10 UTC	boba, indego	16	6	30
 487733	2	0	Dark Brown (6 Suits)	2021-04-01 — 21:22:50 UTC	boba, indego	17	6	30
 487713	2	29	Dark Brown (6 Suits)	2021-04-01 — 21:08:20 UTC	boba, indego	23	6	30
 487682	2	27	Dark Brown (6 Suits)	2021-04-01 — 20:50:09 UTC	boba, indego	26	6	30
 487670	2	0	Dark Brown (6 Suits)	2021-04-01 — 20:39:49 UTC	boba, indego	29	6	30
-487660	2	0	Dark Brown (6 Suits)	2021-04-01 — 20:29:11 UTC	boba, indego	35	6	30
-487643	2	28	Dark Brown (6 Suits)	2021-04-01 — 20:11:52 UTC	boba, indego	46	6	30
-486212	3	25	No Variant	2021-03-31 — 03:50:51 UTC	boba, Etherealz, missyalyssi	157	5	25
-486208	3	0	No Variant	2021-03-31 — 03:45:19 UTC	boba, Etherealz, missyalyssi	160	5	25
-486206	3	25	No Variant	2021-03-31 — 03:42:57 UTC	boba, Etherealz, missyalyssi	167	5	25
-486203	3	24	No Variant	2021-03-31 — 03:39:33 UTC	boba, Etherealz, missyalyssi	164	5	25
-486196	3	0	No Variant	2021-03-31 — 03:34:20 UTC	boba, Etherealz, missyalyssi	170	5	25
-486192	3	25	No Variant	2021-03-31 — 03:32:21 UTC	boba, Etherealz, missyalyssi	178	5	25
-486188	3	0	No Variant	2021-03-31 — 03:27:18 UTC	boba, Etherealz, missyalyssi	187	5	25
+487660	2	0	Dark Brown (6 Suits)	2021-04-01 — 20:29:11 UTC	boba, indego	36	6	30
+487643	2	28	Dark Brown (6 Suits)	2021-04-01 — 20:11:52 UTC	boba, indego	47	6	30
+486212	3	25	No Variant	2021-03-31 — 03:50:51 UTC	boba, Etherealz, missyalyssi	160	5	25
+486208	3	0	No Variant	2021-03-31 — 03:45:19 UTC	boba, Etherealz, missyalyssi	163	5	25
+486206	3	25	No Variant	2021-03-31 — 03:42:57 UTC	boba, Etherealz, missyalyssi	170	5	25
+486203	3	24	No Variant	2021-03-31 — 03:39:33 UTC	boba, Etherealz, missyalyssi	167	5	25
+486196	3	0	No Variant	2021-03-31 — 03:34:20 UTC	boba, Etherealz, missyalyssi	173	5	25
+486192	3	25	No Variant	2021-03-31 — 03:32:21 UTC	boba, Etherealz, missyalyssi	179	5	25
+486188	3	0	No Variant	2021-03-31 — 03:27:18 UTC	boba, Etherealz, missyalyssi	189	5	25
 475800	4	0	Cocoa Rainbow (5 Suits)	2021-03-21 — 13:36:07 UTC	Animex52, boba, Lanvin, nitawa	3	5	25
 475793	4	24	Cocoa Rainbow (5 Suits)	2021-03-21 — 13:21:00 UTC	Animex52, boba, Lanvin, nitawa	8	5	25
 475785	4	23	Cocoa Rainbow (5 Suits)	2021-03-21 — 12:58:22 UTC	Animex52, boba, Lanvin, nitawa	5	5	25
-475769	2	30	Dark Pink (6 Suits)	2021-03-21 — 12:29:17 UTC	Animex52, boba	24	6	30
-475762	2	29	Dark Pink (6 Suits)	2021-03-21 — 12:09:23 UTC	Animex52, boba	25	6	30
-475751	2	28	Dark Pink (6 Suits)	2021-03-21 — 11:53:54 UTC	Animex52, boba	26	6	30
-475742	2	0	Dark Pink (6 Suits)	2021-03-21 — 11:41:24 UTC	Animex52, boba	29	6	30
-475740	2	0	Dark Pink (6 Suits)	2021-03-21 — 11:37:03 UTC	Animex52, boba	32	6	30
-475739	2	0	Dark Pink (6 Suits)	2021-03-21 — 11:36:02 UTC	Animex52, boba	43	6	30
+475769	2	30	Dark Pink (6 Suits)	2021-03-21 — 12:29:17 UTC	Animex52, boba	26	6	30
+475762	2	29	Dark Pink (6 Suits)	2021-03-21 — 12:09:23 UTC	Animex52, boba	27	6	30
+475751	2	28	Dark Pink (6 Suits)	2021-03-21 — 11:53:54 UTC	Animex52, boba	28	6	30
+475742	2	0	Dark Pink (6 Suits)	2021-03-21 — 11:41:24 UTC	Animex52, boba	31	6	30
+475740	2	0	Dark Pink (6 Suits)	2021-03-21 — 11:37:03 UTC	Animex52, boba	34	6	30
+475739	2	0	Dark Pink (6 Suits)	2021-03-21 — 11:36:02 UTC	Animex52, boba	45	6	30
 473541	5	30	White & Dark Pink (6 Suits)	2021-03-19 — 12:32:36 UTC	boba, hakha3, Lanvin, Lel0uch, VerySloppyTwo	1	6	30
 473531	5	0	White & Dark Pink (6 Suits)	2021-03-19 — 12:10:51 UTC	boba, hakha3, Lanvin, Lel0uch, VerySloppyTwo	1	6	30
 473504	5	0	Dark Pink (6 Suits)	2021-03-19 — 10:26:04 UTC	boba, Denchulitas, orucsoraihc, sephiroth, Sucubis	2	6	30
 473501	5	0	Dark Pink (6 Suits)	2021-03-19 — 10:03:25 UTC	boba, Denchulitas, orucsoraihc, sephiroth, Sucubis	2	6	30
 473497	5	0	Dark Pink (6 Suits)	2021-03-19 — 09:52:57 UTC	boba, Denchulitas, orucsoraihc, sephiroth, Sucubis	3	6	30
-472365	2	23	No Variant	2021-03-18 — 14:11:50 UTC	beri, boba	53	5	25
-472356	2	25	No Variant	2021-03-18 — 13:49:20 UTC	beri, boba	53	5	25
+472365	2	23	No Variant	2021-03-18 — 14:11:50 UTC	beri, boba	54	5	25
+472356	2	25	No Variant	2021-03-18 — 13:49:20 UTC	beri, boba	54	5	25
 472351	2	21	No Variant	2021-03-18 — 13:31:46 UTC	beri, boba	55	5	25
 472344	2	23	No Variant	2021-03-18 — 13:09:21 UTC	beri, boba	55	5	25
 472315	3	29	Very Ambiguous (6 Suits)	2021-03-18 — 10:24:43 UTC	Animex52, boba, Lel0uch	37	6	30
@@ -356,17 +366,17 @@
 472297	3	0	Ambiguous & Dual-Color	2021-03-18 — 09:08:44 UTC	boba, Lel0uch, VerySloppyTwo	17	6	30
 472296	2	0	Ambiguous & Dual-Color	2021-03-18 — 09:04:47 UTC	boba, Lel0uch	29	6	30
 471250	2	23	Duck (5 Suits)	2021-03-17 — 10:12:10 UTC	boba, Durandal	9	5	25
-471248	2	0	No Variant	2021-03-17 — 10:04:12 UTC	boba, Durandal	277	5	25
+471248	2	0	No Variant	2021-03-17 — 10:04:12 UTC	boba, Durandal	285	5	25
 471246	3	0	Black & Omni (6 Suits)	2021-03-17 — 09:58:44 UTC	boba, Lel0uch, qqqq	2	6	30
-471243	3	12	Rainbow (3 Suits)	2021-03-17 — 09:37:37 UTC	antitelharsic, boba, Lel0uch	53	3	15
+471243	3	12	Rainbow (3 Suits)	2021-03-17 — 09:37:37 UTC	antitelharsic, boba, Lel0uch	54	3	15
 469246	3	0	Pink & Cocoa Rainbow (6 Suits)	2021-03-15 — 19:35:57 UTC	bjnh, boba, Lanvin	1	6	30
 469217	2	22	Duck (5 Suits)	2021-03-15 — 19:14:26 UTC	boba, Durandal	10	5	25
-469208	2	0	Duck (5 Suits)	2021-03-15 — 19:08:23 UTC	boba, Durandal	12	5	25
+469208	2	0	Duck (5 Suits)	2021-03-15 — 19:08:23 UTC	boba, Durandal	13	5	25
 469205	2	0	Duck (5 Suits)	2021-03-15 — 19:05:55 UTC	boba, Durandal	13	5	25
 469200	2	0	Duck (5 Suits)	2021-03-15 — 19:03:56 UTC	boba, Durandal	13	5	25
-469195	2	0	Duck (5 Suits)	2021-03-15 — 19:01:05 UTC	boba, Durandal	16	5	25
-469181	2	20	Duck (5 Suits)	2021-03-15 — 18:45:37 UTC	boba, Durandal	17	5	25
-469148	2	26	Dark Pink (6 Suits)	2021-03-15 — 18:15:51 UTC	boba, Lanvin	43	6	30
+469195	2	0	Duck (5 Suits)	2021-03-15 — 19:01:05 UTC	boba, Durandal	17	5	25
+469181	2	20	Duck (5 Suits)	2021-03-15 — 18:45:37 UTC	boba, Durandal	18	5	25
+469148	2	26	Dark Pink (6 Suits)	2021-03-15 — 18:15:51 UTC	boba, Lanvin	45	6	30
 469067	3	29	Rainbow-Ones & Rainbow (6 Suits)	2021-03-15 — 16:11:22 UTC	boba, Lel0uch, squirrel1988	1	6	30
 469057	3	0	Rainbow-Ones & Rainbow (6 Suits)	2021-03-15 — 15:52:36 UTC	boba, Lel0uch, squirrel1988	2	6	30
 468985	2	25	No Variant	2021-03-15 — 13:07:00 UTC	boba, Etherealz	1	5	25
@@ -385,18 +395,18 @@
 468967	2	25	No Variant	2021-03-15 — 12:50:01 UTC	boba, Etherealz	1	5	25
 468964	2	0	No Variant	2021-03-15 — 12:48:23 UTC	boba, Etherealz	1	5	25
 468963	2	0	No Variant	2021-03-15 — 12:47:44 UTC	boba, Etherealz	1	5	25
-468928	2	25	No Variant	2021-03-15 — 10:57:57 UTC	beri, boba	55	5	25
-468919	2	0	No Variant	2021-03-15 — 10:47:13 UTC	beri, boba	55	5	25
+468928	2	25	No Variant	2021-03-15 — 10:57:57 UTC	beri, boba	56	5	25
+468919	2	0	No Variant	2021-03-15 — 10:47:13 UTC	beri, boba	56	5	25
 468906	4	0	Duck (5 Suits)	2021-03-15 — 10:17:20 UTC	Animex52, boba, knaphill, Lel0uch	1	5	25
 468900	4	0	Duck (5 Suits)	2021-03-15 — 10:00:44 UTC	Animex52, boba, knaphill, Lel0uch	1	5	25
 468897	4	0	Duck (5 Suits)	2021-03-15 — 09:40:21 UTC	Animex52, boba, knaphill, Lel0uch	1	5	25
-468888	4	26	Dark Pink (6 Suits)	2021-03-15 — 08:31:03 UTC	Animex52, boba, Lel0uch, sephiroth	18	6	30
+468888	4	26	Dark Pink (6 Suits)	2021-03-15 — 08:31:03 UTC	Animex52, boba, Lel0uch, sephiroth	19	6	30
 468887	3	0	Pink & Cocoa Rainbow (6 Suits)	2021-03-15 — 08:08:29 UTC	boba, dobi, Lel0uch	2	6	30
 468886	3	0	Pink & Cocoa Rainbow (6 Suits)	2021-03-15 — 08:06:03 UTC	boba, dobi, Lel0uch	2	6	30
 468885	3	0	Pink & Cocoa Rainbow (6 Suits)	2021-03-15 — 07:51:38 UTC	boba, dobi, Lel0uch	5	6	30
 468714	3	25	Null & Dark Rainbow (6 Suits)	2021-03-15 — 02:22:06 UTC	boba, HelanaAshryvr, indego	1	6	30
-468068	2	28	Black & Gray Pink (6 Suits)	2021-03-14 — 17:11:04 UTC	boba, Lel0uch	2	6	30
-468053	2	30	White (6 Suits)	2021-03-14 — 16:49:26 UTC	boba, Etherealz	123	6	30
+468068	2	28	Black & Gray Pink (6 Suits)	2021-03-14 — 17:11:04 UTC	boba, Lel0uch	3	6	30
+468053	2	30	White (6 Suits)	2021-03-14 — 16:49:26 UTC	boba, Etherealz	126	6	30
 468026	2	0	No Variant	2021-03-14 — 16:19:09 UTC	boba, Etherealz	1	5	25
 468025	2	0	No Variant	2021-03-14 — 16:16:59 UTC	boba, Etherealz	1	5	25
 468023	2	0	No Variant	2021-03-14 — 16:16:05 UTC	boba, Etherealz	1	5	25
@@ -415,7 +425,7 @@
 468007	2	0	No Variant	2021-03-14 — 16:01:55 UTC	boba, Etherealz	1	5	25
 468006	2	0	No Variant	2021-03-14 — 16:01:20 UTC	boba, Etherealz	1	5	25
 467954	5	24	No Variant	2021-03-14 — 13:22:13 UTC	Animex52, boba, jack67889, Lanvin, Lel0uch	24	5	25
-467935	2	30	Rainbow (6 Suits)	2021-03-14 — 12:25:45 UTC	boba, mario86	85	6	30
+467935	2	30	Rainbow (6 Suits)	2021-03-14 — 12:25:45 UTC	boba, mario86	86	6	30
 467907	2	24	Pink & Cocoa Rainbow (5 Suits)	2021-03-14 — 11:05:27 UTC	boba, Lel0uch	1	5	25
 467903	2	0	Pink & Cocoa Rainbow (5 Suits)	2021-03-14 — 10:57:50 UTC	boba, Lel0uch	1	5	25
 467897	2	0	Pink & Cocoa Rainbow (5 Suits)	2021-03-14 — 10:47:11 UTC	boba, Lel0uch	1	5	25
@@ -453,16 +463,16 @@
 466268	2	0	Pink & Cocoa Rainbow (5 Suits)	2021-03-13 — 02:16:20 UTC	boba, Lel0uch	1	5	25
 466255	2	22	Pink & Cocoa Rainbow (5 Suits)	2021-03-13 — 02:06:25 UTC	boba, Lel0uch	1	5	25
 465626	3	27	Dark Rainbow (6 Suits)	2021-03-12 — 14:09:47 UTC	Animex52, boba, Lel0uch	41	6	30
-465620	2	0	Dark Pink (6 Suits)	2021-03-12 — 13:48:10 UTC	Animex52, boba	50	6	30
-464676	4	0	White (6 Suits)	2021-03-11 — 16:24:50 UTC	Animex52, boba, HelanaAshryvr, squirrel1988	35	6	30
+465620	2	0	Dark Pink (6 Suits)	2021-03-12 — 13:48:10 UTC	Animex52, boba	53	6	30
+464676	4	0	White (6 Suits)	2021-03-11 — 16:24:50 UTC	Animex52, boba, HelanaAshryvr, squirrel1988	36	6	30
 464672	2	0	Black & Brown (6 Suits)	2021-03-11 — 16:13:24 UTC	Animex52, boba	26	6	30
 464669	4	20	Pink (4 Suits)	2021-03-11 — 16:03:50 UTC	Animex52, boba, HelanaAshryvr, squirrel1988	19	4	20
 463542	2	29	Prism & Dark Pink (6 Suits)	2021-03-10 — 13:51:04 UTC	Animex52, boba	6	6	30
-463535	2	27	Prism & Dark Pink (6 Suits)	2021-03-10 — 13:35:32 UTC	Animex52, boba	6	6	30
-463529	2	22	Prism & Dark Pink (6 Suits)	2021-03-10 — 13:22:10 UTC	Animex52, boba	6	6	30
-463520	2	0	No Variant	2021-03-10 — 13:01:25 UTC	Animex52, boba	1376	5	25
-463473	4	25	No Variant	2021-03-10 — 10:27:26 UTC	boba, hakha3, indego, Lel0uch	899	5	25
-463470	4	0	No Variant	2021-03-10 — 10:10:13 UTC	boba, indego, Lel0uch, sephiroth	25	5	25
+463535	2	27	Prism & Dark Pink (6 Suits)	2021-03-10 — 13:35:32 UTC	Animex52, boba	7	6	30
+463529	2	22	Prism & Dark Pink (6 Suits)	2021-03-10 — 13:22:10 UTC	Animex52, boba	7	6	30
+463520	2	0	No Variant	2021-03-10 — 13:01:25 UTC	Animex52, boba	1392	5	25
+463473	4	25	No Variant	2021-03-10 — 10:27:26 UTC	boba, hakha3, indego, Lel0uch	908	5	25
+463470	4	0	No Variant	2021-03-10 — 10:10:13 UTC	boba, indego, Lel0uch, sephiroth	26	5	25
 463468	4	0	Light Pink (3 Suits)	2021-03-10 — 09:54:22 UTC	boba, indego, Lel0uch, sephiroth	1	3	15
 463465	4	0	Light Pink (3 Suits)	2021-03-10 — 09:40:43 UTC	boba, indego, Lel0uch, sephiroth	1	3	15
 463463	4	0	Muddy Rainbow & Dark Pink (5 Suits)	2021-03-10 — 09:33:21 UTC	boba, derekcheah, indego, Lel0uch	2	5	25
@@ -473,67 +483,67 @@
 463151	2	27	Duck (6 Suits)	2021-03-10 — 02:39:24 UTC	Animex52, boba	6	6	30
 463134	2	0	Duck (6 Suits)	2021-03-10 — 02:23:12 UTC	Animex52, boba	6	6	30
 463121	2	0	Duck (6 Suits)	2021-03-10 — 02:12:15 UTC	Animex52, boba	6	6	30
-462455	3	0	No Variant	2021-03-09 — 16:51:13 UTC	boba, Etherealz, missyalyssi	259	5	25
-462442	3	23	No Variant	2021-03-09 — 16:33:35 UTC	boba, Etherealz, missyalyssi	269	5	25
-462433	3	24	No Variant	2021-03-09 — 16:19:17 UTC	boba, Etherealz, missyalyssi	285	5	25
-462428	3	0	No Variant	2021-03-09 — 16:12:28 UTC	boba, Etherealz, missyalyssi	354	5	25
-462418	3	25	No Variant	2021-03-09 — 15:55:57 UTC	Animex52, aquarelle, boba	68	5	25
-462409	3	0	No Variant	2021-03-09 — 15:27:35 UTC	Animex52, aquarelle, boba	71	5	25
-462407	4	0	No Variant	2021-03-09 — 15:16:48 UTC	Animex52, aquarelle, boba, Lanvin	42	5	25
+462455	3	0	No Variant	2021-03-09 — 16:51:13 UTC	boba, Etherealz, missyalyssi	261	5	25
+462442	3	23	No Variant	2021-03-09 — 16:33:35 UTC	boba, Etherealz, missyalyssi	272	5	25
+462433	3	24	No Variant	2021-03-09 — 16:19:17 UTC	boba, Etherealz, missyalyssi	287	5	25
+462428	3	0	No Variant	2021-03-09 — 16:12:28 UTC	boba, Etherealz, missyalyssi	359	5	25
+462418	3	25	No Variant	2021-03-09 — 15:55:57 UTC	Animex52, aquarelle, boba	72	5	25
+462409	3	0	No Variant	2021-03-09 — 15:27:35 UTC	Animex52, aquarelle, boba	74	5	25
+462407	4	0	No Variant	2021-03-09 — 15:16:48 UTC	Animex52, aquarelle, boba, Lanvin	43	5	25
 461517	5	0	Rainbow (6 Suits)	2021-03-08 — 18:01:57 UTC	boba, Etherealz, indego, Lel0uch, squirrel1988	17	6	30
 461509	5	27	Rainbow (6 Suits)	2021-03-08 — 17:38:55 UTC	boba, Etherealz, indego, Lel0uch, squirrel1988	20	6	30
-461499	4	27	Rainbow (6 Suits)	2021-03-08 — 17:16:58 UTC	boba, Etherealz, missyalyssi, squirrel1988	238	6	30
+461499	4	27	Rainbow (6 Suits)	2021-03-08 — 17:16:58 UTC	boba, Etherealz, missyalyssi, squirrel1988	244	6	30
 461478	3	25	Rainbow (5 Suits)	2021-03-08 — 16:51:35 UTC	boba, dobi, squirrel1988	135	5	25
 460143	6	0	Rainbow (6 Suits)	2021-03-07 — 15:45:16 UTC	Animex52, boba, HelanaAshryvr, mario86, squirrel1988, stardust	23	6	30
 460142	6	0	Rainbow (6 Suits)	2021-03-07 — 15:44:35 UTC	Animex52, boba, HelanaAshryvr, mario86, squirrel1988, stardust	60	6	30
 460136	5	0	Rainbow (6 Suits)	2021-03-07 — 15:30:53 UTC	Animex52, boba, HelanaAshryvr, mario86, stardust	42	6	30
-460124	2	30	Rainbow (6 Suits)	2021-03-07 — 15:05:22 UTC	boba, mario86	87	6	30
+460124	2	30	Rainbow (6 Suits)	2021-03-07 — 15:05:22 UTC	boba, mario86	89	6	30
 460101	2	25	No Variant	2021-03-07 — 14:29:42 UTC	beri, boba	62	5	25
-459983	4	27	Dark Omni (6 Suits)	2021-03-07 — 09:40:44 UTC	boba, indego, Lel0uch, rz	13	6	30
-459978	4	29	Dark Omni (6 Suits)	2021-03-07 — 09:14:19 UTC	boba, indego, Lel0uch, rz	14	6	30
-459729	2	27	Rainbow (6 Suits)	2021-03-07 — 03:19:19 UTC	boba, stardust	88	6	30
-458773	3	21	No Variant	2021-03-06 — 11:04:37 UTC	beri, boba, Lel0uch	243	5	25
+459983	4	27	Dark Omni (6 Suits)	2021-03-07 — 09:40:44 UTC	boba, indego, Lel0uch, rz	14	6	30
+459978	4	29	Dark Omni (6 Suits)	2021-03-07 — 09:14:19 UTC	boba, indego, Lel0uch, rz	15	6	30
+459729	2	27	Rainbow (6 Suits)	2021-03-07 — 03:19:19 UTC	boba, stardust	90	6	30
+458773	3	21	No Variant	2021-03-06 — 11:04:37 UTC	beri, boba, Lel0uch	246	5	25
 458705	5	0	Rainbow (6 Suits)	2021-03-06 — 07:16:28 UTC	bjnh, boba, doctorabi, Lel0uch, squirrel1988	22	6	30
 458539	4	24	Rainbow-Ones & Rainbow (5 Suits)	2021-03-06 — 04:50:50 UTC	aquarelle, boba, indego, Lel0uch	2	5	25
 458515	4	24	Rainbow-Ones & Rainbow (5 Suits)	2021-03-06 — 04:35:01 UTC	aquarelle, boba, indego, Lel0uch	2	5	25
 458497	2	0	Pink-Ones (3 Suits)	2021-03-06 — 04:19:33 UTC	aquarelle, boba	11	3	15
 458486	2	30	Rainbow-Ones (6 Suits)	2021-03-06 — 04:16:54 UTC	aquarelle, boba	13	6	30
 458466	2	28	Rainbow-Ones (6 Suits)	2021-03-06 — 04:05:10 UTC	aquarelle, boba	18	6	30
-458450	2	29	Rainbow-Ones (6 Suits)	2021-03-06 — 03:52:30 UTC	aquarelle, boba	25	6	30
-455192	3	23	No Variant	2021-03-03 — 11:49:56 UTC	beri, boba, indego	175	5	25
-455165	3	0	No Variant	2021-03-03 — 11:01:23 UTC	beri, boba, indego	194	5	25
-455157	3	0	No Variant	2021-03-03 — 10:34:21 UTC	beri, boba, indego	201	5	25
-455146	3	23	No Variant	2021-03-03 — 09:58:32 UTC	beri, boba, indego	250	5	25
+458450	2	29	Rainbow-Ones (6 Suits)	2021-03-06 — 03:52:30 UTC	aquarelle, boba	26	6	30
+455192	3	23	No Variant	2021-03-03 — 11:49:56 UTC	beri, boba, indego	176	5	25
+455165	3	0	No Variant	2021-03-03 — 11:01:23 UTC	beri, boba, indego	198	5	25
+455157	3	0	No Variant	2021-03-03 — 10:34:21 UTC	beri, boba, indego	203	5	25
+455146	3	23	No Variant	2021-03-03 — 09:58:32 UTC	beri, boba, indego	252	5	25
 455141	2	25	No Variant	2021-03-03 — 09:32:25 UTC	beri, boba	63	5	25
-455065	3	20	Rainbow (4 Suits)	2021-03-03 — 05:35:33 UTC	Animex52, aquarelle, boba	32	4	20
-455040	3	0	Rainbow (4 Suits)	2021-03-03 — 05:15:14 UTC	Animex52, aquarelle, boba	43	4	20
-454133	2	25	No Variant	2021-03-02 — 12:53:51 UTC	beri, boba	63	5	25
-454125	2	24	No Variant	2021-03-02 — 12:36:15 UTC	beri, boba	63	5	25
-454120	2	24	No Variant	2021-03-02 — 12:18:14 UTC	beri, boba	63	5	25
-454113	2	22	No Variant	2021-03-02 — 11:59:48 UTC	beri, boba	64	5	25
-454109	2	25	No Variant	2021-03-02 — 11:46:28 UTC	beri, boba	63	5	25
+455065	3	20	Rainbow (4 Suits)	2021-03-03 — 05:35:33 UTC	Animex52, aquarelle, boba	34	4	20
+455040	3	0	Rainbow (4 Suits)	2021-03-03 — 05:15:14 UTC	Animex52, aquarelle, boba	45	4	20
+454133	2	25	No Variant	2021-03-02 — 12:53:51 UTC	beri, boba	64	5	25
+454125	2	24	No Variant	2021-03-02 — 12:36:15 UTC	beri, boba	65	5	25
+454120	2	24	No Variant	2021-03-02 — 12:18:14 UTC	beri, boba	64	5	25
+454113	2	22	No Variant	2021-03-02 — 11:59:48 UTC	beri, boba	65	5	25
+454109	2	25	No Variant	2021-03-02 — 11:46:28 UTC	beri, boba	65	5	25
 454001	5	0	Black & Pink (6 Suits)	2021-03-02 — 07:50:16 UTC	Animex52, boba, Floriman, indego, Lel0uch	1	6	30
-453987	3	0	Black & Omni (5 Suits)	2021-03-02 — 07:16:13 UTC	boba, indego, Lel0uch	8	5	25
-453981	3	23	Black & Omni (5 Suits)	2021-03-02 — 07:02:45 UTC	boba, indego, Lel0uch	12	5	25
-452960	3	25	No Variant	2021-03-01 — 08:31:14 UTC	boba, Etherealz, Lel0uch	275	5	25
-452959	3	0	No Variant	2021-03-01 — 08:28:34 UTC	boba, Etherealz, Lel0uch	307	5	25
-452958	3	0	No Variant	2021-03-01 — 08:27:27 UTC	boba, Etherealz, Lel0uch	320	5	25
-452956	3	25	No Variant	2021-03-01 — 08:24:43 UTC	boba, Etherealz, Lel0uch	324	5	25
-452955	3	25	No Variant	2021-03-01 — 08:21:06 UTC	boba, Etherealz, Lel0uch	344	5	25
-452953	3	0	No Variant	2021-03-01 — 08:18:21 UTC	boba, Etherealz, Lel0uch	375	5	25
-452952	3	0	No Variant	2021-03-01 — 08:16:31 UTC	boba, Etherealz, Lel0uch	386	5	25
-452950	3	0	No Variant	2021-03-01 — 08:14:58 UTC	boba, Etherealz, Lel0uch	411	5	25
+453987	3	0	Black & Omni (5 Suits)	2021-03-02 — 07:16:13 UTC	boba, indego, Lel0uch	10	5	25
+453981	3	23	Black & Omni (5 Suits)	2021-03-02 — 07:02:45 UTC	boba, indego, Lel0uch	13	5	25
+452960	3	25	No Variant	2021-03-01 — 08:31:14 UTC	boba, Etherealz, Lel0uch	277	5	25
+452959	3	0	No Variant	2021-03-01 — 08:28:34 UTC	boba, Etherealz, Lel0uch	311	5	25
+452958	3	0	No Variant	2021-03-01 — 08:27:27 UTC	boba, Etherealz, Lel0uch	324	5	25
+452956	3	25	No Variant	2021-03-01 — 08:24:43 UTC	boba, Etherealz, Lel0uch	330	5	25
+452955	3	25	No Variant	2021-03-01 — 08:21:06 UTC	boba, Etherealz, Lel0uch	353	5	25
+452953	3	0	No Variant	2021-03-01 — 08:18:21 UTC	boba, Etherealz, Lel0uch	380	5	25
+452952	3	0	No Variant	2021-03-01 — 08:16:31 UTC	boba, Etherealz, Lel0uch	392	5	25
+452950	3	0	No Variant	2021-03-01 — 08:14:58 UTC	boba, Etherealz, Lel0uch	417	5	25
 452852	4	28	Dark Prism (6 Suits)	2021-03-01 — 05:11:28 UTC	boba, colton, HelanaAshryvr, squirrel1988	20	6	30
 452793	5	0	Black & Pink (6 Suits)	2021-03-01 — 04:25:27 UTC	Animex52, boba, FerKeth, HelanaAshryvr, Lel0uch	1	6	30
 452772	4	14	Prism (3 Suits)	2021-03-01 — 04:06:33 UTC	Animex52, boba, HelanaAshryvr, Lel0uch	6	3	15
 452755	4	0	Prism (3 Suits)	2021-03-01 — 03:53:56 UTC	Animex52, boba, HelanaAshryvr, Lel0uch	5	3	15
 452747	4	0	Prism (3 Suits)	2021-03-01 — 03:48:30 UTC	Animex52, boba, HelanaAshryvr, Lel0uch	5	3	15
 452732	6	0	Dark Rainbow (6 Suits)	2021-03-01 — 03:36:36 UTC	Animex52, boba, HelanaAshryvr, Lanvin, Lel0uch, squirrel1988	3	6	30
-452721	6	0	Dark Rainbow (6 Suits)	2021-03-01 — 03:24:07 UTC	Animex52, boba, HelanaAshryvr, Lanvin, Lel0uch, squirrel1988	3	6	30
+452721	6	0	Dark Rainbow (6 Suits)	2021-03-01 — 03:24:07 UTC	Animex52, boba, HelanaAshryvr, Lanvin, Lel0uch, squirrel1988	4	6	30
 452703	6	0	Dark Rainbow (6 Suits)	2021-03-01 — 03:07:35 UTC	Animex52, boba, HelanaAshryvr, Lanvin, Lel0uch, squirrel1988	5	6	30
 452670	4	0	Dark Pink (6 Suits)	2021-03-01 — 02:47:25 UTC	aquarelle, boba, Lel0uch, TimeHoodie	2	6	30
 452659	4	27	Dark Pink (6 Suits)	2021-03-01 — 02:35:44 UTC	aquarelle, boba, Lel0uch, TimeHoodie	3	6	30
-452610	2	30	Rainbow & Light Pink (6 Suits)	2021-03-01 — 02:06:51 UTC	boba, Lel0uch	10	6	30
+452610	2	30	Rainbow & Light Pink (6 Suits)	2021-03-01 — 02:06:51 UTC	boba, Lel0uch	11	6	30
 451945	2	29	Rainbow & Light Pink (6 Suits)	2021-02-28 — 14:32:51 UTC	boba, Lel0uch	11	6	30
 451930	2	25	Reversed (5 Suits)	2021-02-28 — 13:56:04 UTC	boba, Durandal	8	5	25
 451927	2	23	Reversed (5 Suits)	2021-02-28 — 13:46:18 UTC	boba, Durandal	9	5	25
@@ -545,88 +555,88 @@
 451892	2	23	Reversed (5 Suits)	2021-02-28 — 12:49:28 UTC	boba, Durandal	23	5	25
 451845	5	0	Black & Pink (6 Suits)	2021-02-28 — 10:06:35 UTC	boba, derekcheah, dobi, indego, Lel0uch	1	6	30
 451843	5	0	Black & Pink (6 Suits)	2021-02-28 — 09:55:58 UTC	boba, derekcheah, dobi, indego, Lel0uch	1	6	30
-451838	2	25	Gray Pink (5 Suits)	2021-02-28 — 09:38:24 UTC	boba, indego	33	5	25
-451833	2	24	Gray Pink (5 Suits)	2021-02-28 — 09:15:53 UTC	boba, indego	45	5	25
+451838	2	25	Gray Pink (5 Suits)	2021-02-28 — 09:38:24 UTC	boba, indego	35	5	25
+451833	2	24	Gray Pink (5 Suits)	2021-02-28 — 09:15:53 UTC	boba, indego	48	5	25
 451746	5	21	Dark Prism (5 Suits)	2021-02-28 — 06:25:09 UTC	Animex52, boba, HelanaAshryvr, Lel0uch, squirrel1988	1	5	25
 451718	3	0	Dark Null (6 Suits)	2021-02-28 — 05:55:05 UTC	Animex52, boba, HelanaAshryvr	14	6	30
 451621	5	30	Pink & Prism (6 Suits)	2021-02-28 — 04:30:18 UTC	bjnh, boba, dobi, Lel0uch, squirrel1988	2	6	30
 451464	4	0	Up or Down & Omni (6 Suits)	2021-02-28 — 02:52:21 UTC	boba, Bonja97, melwen, Nitrate2	6	6	30
 451429	5	29	Null-Ones & Prism (6 Suits)	2021-02-28 — 02:17:42 UTC	boba, Bonja97, nitawa, Nitrate2, Pablo-	2	6	30
-451365	2	25	No Variant	2021-02-28 — 00:56:08 UTC	boba, jack67889	818	5	25
+451365	2	25	No Variant	2021-02-28 — 00:56:08 UTC	boba, jack67889	828	5	25
 450784	2	22	Reversed (5 Suits)	2021-02-27 — 12:02:59 UTC	boba, Durandal	27	5	25
 450777	2	0	Reversed (5 Suits)	2021-02-27 — 11:45:56 UTC	boba, Durandal	32	5	25
 450485	5	0	Pink-Ones & Prism (6 Suits)	2021-02-27 — 04:04:22 UTC	antitelharsic, boba, jack67889, Nitrate2, XMIL	1	6	30
 450448	6	22	No Variant	2021-02-27 — 03:13:39 UTC	antitelharsic, boba, cockdestroyer, jack67889, Nitrate2, XMIL	4	5	25
-450425	3	30	Ambiguous (6 Suits)	2021-02-27 — 02:38:18 UTC	boba, jack67889, Nitrate2	69	6	30
+450425	3	30	Ambiguous (6 Suits)	2021-02-27 — 02:38:18 UTC	boba, jack67889, Nitrate2	71	6	30
 448628	6	21	Black (5 Suits)	2021-02-25 — 10:59:25 UTC	Animex52, boba, jack67889, methmatics, sin_faith, Sucubis	4	5	25
-448622	4	22	No Variant	2021-02-25 — 10:26:55 UTC	Animex52, boba, methmatics, Sucubis	43	5	25
+448622	4	22	No Variant	2021-02-25 — 10:26:55 UTC	Animex52, boba, methmatics, Sucubis	44	5	25
 448609	2	0	Duck (6 Suits)	2021-02-25 — 09:48:20 UTC	Animex52, boba	7	6	30
 448604	2	30	Duck (6 Suits)	2021-02-25 — 09:30:32 UTC	Animex52, boba	8	6	30
-448353	3	27	Duck (6 Suits)	2021-02-25 — 03:31:28 UTC	Animex52, boba, FerKeth	7	6	30
+448353	3	27	Duck (6 Suits)	2021-02-25 — 03:31:28 UTC	Animex52, boba, FerKeth	8	6	30
 448308	4	21	Dark Prism (5 Suits)	2021-02-25 — 02:29:24 UTC	boba, FerKeth, Lanvin, squirrel1988	8	5	25
-448267	4	0	Dark Prism (5 Suits)	2021-02-25 — 02:04:09 UTC	boba, FerKeth, Lanvin, squirrel1988	9	5	25
+448267	4	0	Dark Prism (5 Suits)	2021-02-25 — 02:04:09 UTC	boba, FerKeth, Lanvin, squirrel1988	10	5	25
 447636	5	21	Cocoa Rainbow (5 Suits)	2021-02-24 — 10:29:58 UTC	boba, catula, CptAggro, louietyj, Wittvector	5	5	25
 447633	5	0	Cocoa Rainbow (5 Suits)	2021-02-24 — 10:07:50 UTC	boba, catula, CptAggro, louietyj, Wittvector	6	5	25
-447631	3	23	Dark Rainbow (5 Suits)	2021-02-24 — 09:45:12 UTC	boba, catula, dobi	24	5	25
-447319	3	21	No Variant	2021-02-24 — 03:02:44 UTC	boba, Etherealz, missyalyssi	422	5	25
-447307	3	0	No Variant	2021-02-24 — 02:52:54 UTC	boba, Etherealz, missyalyssi	459	5	25
-447298	3	25	No Variant	2021-02-24 — 02:45:31 UTC	boba, Etherealz, missyalyssi	485	5	25
-447293	3	25	No Variant	2021-02-24 — 02:38:51 UTC	boba, Etherealz, missyalyssi	516	5	25
+447631	3	23	Dark Rainbow (5 Suits)	2021-02-24 — 09:45:12 UTC	boba, catula, dobi	25	5	25
+447319	3	21	No Variant	2021-02-24 — 03:02:44 UTC	boba, Etherealz, missyalyssi	428	5	25
+447307	3	0	No Variant	2021-02-24 — 02:52:54 UTC	boba, Etherealz, missyalyssi	467	5	25
+447298	3	25	No Variant	2021-02-24 — 02:45:31 UTC	boba, Etherealz, missyalyssi	491	5	25
+447293	3	25	No Variant	2021-02-24 — 02:38:51 UTC	boba, Etherealz, missyalyssi	523	5	25
 447278	6	0	Black (6 Suits)	2021-02-24 — 02:09:16 UTC	4head, boba, HelanaAshryvr, Lanvin, PotatoLatte, squirrel1988	3	6	30
 446544	5	28	Dark Prism (6 Suits)	2021-02-23 — 10:05:32 UTC	Animex52, boba, catula, methmatics, Sucubis	9	6	30
 446537	4	23	Dark Prism (5 Suits)	2021-02-23 — 09:30:19 UTC	Animex52, boba, catula, Sucubis	17	5	25
-445116	3	25	No Variant	2021-02-22 — 03:49:07 UTC	boba, Etherealz, missyalyssi	551	5	25
-445111	3	0	No Variant	2021-02-22 — 03:44:37 UTC	boba, Etherealz, missyalyssi	573	5	25
-445109	3	0	No Variant	2021-02-22 — 03:42:25 UTC	boba, Etherealz, missyalyssi	624	5	25
-445104	3	25	No Variant	2021-02-22 — 03:38:22 UTC	boba, Etherealz, missyalyssi	645	5	25
-445100	3	0	No Variant	2021-02-22 — 03:33:52 UTC	boba, Etherealz, missyalyssi	680	5	25
-445096	3	0	No Variant	2021-02-22 — 03:32:10 UTC	boba, Etherealz, missyalyssi	750	5	25
-445094	3	0	No Variant	2021-02-22 — 03:29:40 UTC	boba, Etherealz, missyalyssi	801	5	25
-445089	3	0	No Variant	2021-02-22 — 03:27:29 UTC	boba, Etherealz, missyalyssi	840	5	25
-445086	3	0	No Variant	2021-02-22 — 03:25:54 UTC	boba, Etherealz, missyalyssi	1017	5	25
-445084	3	0	No Variant	2021-02-22 — 03:24:12 UTC	boba, Etherealz, missyalyssi	1174	5	25
-445083	3	0	No Variant	2021-02-22 — 03:22:47 UTC	boba, Etherealz, missyalyssi	1291	5	25
-445077	3	0	No Variant	2021-02-22 — 03:19:42 UTC	boba, Etherealz, missyalyssi	1465	5	25
-445075	3	0	No Variant	2021-02-22 — 03:18:18 UTC	boba, Etherealz, missyalyssi	1636	5	25
-445073	3	25	No Variant	2021-02-22 — 03:15:28 UTC	boba, Etherealz, missyalyssi	2163	5	25
-445068	3	25	No Variant	2021-02-22 — 03:10:38 UTC	boba, Etherealz, missyalyssi	2606	5	25
+445116	3	25	No Variant	2021-02-22 — 03:49:07 UTC	boba, Etherealz, missyalyssi	558	5	25
+445111	3	0	No Variant	2021-02-22 — 03:44:37 UTC	boba, Etherealz, missyalyssi	582	5	25
+445109	3	0	No Variant	2021-02-22 — 03:42:25 UTC	boba, Etherealz, missyalyssi	632	5	25
+445104	3	25	No Variant	2021-02-22 — 03:38:22 UTC	boba, Etherealz, missyalyssi	655	5	25
+445100	3	0	No Variant	2021-02-22 — 03:33:52 UTC	boba, Etherealz, missyalyssi	688	5	25
+445096	3	0	No Variant	2021-02-22 — 03:32:10 UTC	boba, Etherealz, missyalyssi	757	5	25
+445094	3	0	No Variant	2021-02-22 — 03:29:40 UTC	boba, Etherealz, missyalyssi	809	5	25
+445089	3	0	No Variant	2021-02-22 — 03:27:29 UTC	boba, Etherealz, missyalyssi	849	5	25
+445086	3	0	No Variant	2021-02-22 — 03:25:54 UTC	boba, Etherealz, missyalyssi	1026	5	25
+445084	3	0	No Variant	2021-02-22 — 03:24:12 UTC	boba, Etherealz, missyalyssi	1180	5	25
+445083	3	0	No Variant	2021-02-22 — 03:22:47 UTC	boba, Etherealz, missyalyssi	1299	5	25
+445077	3	0	No Variant	2021-02-22 — 03:19:42 UTC	boba, Etherealz, missyalyssi	1474	5	25
+445075	3	0	No Variant	2021-02-22 — 03:18:18 UTC	boba, Etherealz, missyalyssi	1651	5	25
+445073	3	25	No Variant	2021-02-22 — 03:15:28 UTC	boba, Etherealz, missyalyssi	2179	5	25
+445068	3	25	No Variant	2021-02-22 — 03:10:38 UTC	boba, Etherealz, missyalyssi	2627	5	25
 443221	3	0	Brown & Prism (5 Suits)	2021-02-20 — 17:06:45 UTC	boba, indego, Lel0uch	2	5	25
 443210	3	0	Brown & Prism (5 Suits)	2021-02-20 — 16:51:09 UTC	boba, indego, Lel0uch	2	5	25
 443206	3	0	Brown & Prism (5 Suits)	2021-02-20 — 16:41:38 UTC	boba, indego, Lel0uch	10	5	25
 443199	2	28	Rainbow & Light Pink (6 Suits)	2021-02-20 — 16:27:36 UTC	boba, Lel0uch	12	6	30
-443190	2	0	Rainbow & Light Pink (6 Suits)	2021-02-20 — 16:09:51 UTC	boba, Lel0uch	19	6	30
-441943	3	0	3 Suits	2021-02-19 — 13:53:20 UTC	boba, indego, TimeHoodie	43	3	15
-441936	3	0	3 Suits	2021-02-19 — 13:35:42 UTC	boba, indego, TimeHoodie	51	3	15
-441926	3	14	3 Suits	2021-02-19 — 13:22:23 UTC	boba, indego, TimeHoodie	74	3	15
-441920	3	14	3 Suits	2021-02-19 — 13:05:30 UTC	boba, indego, TimeHoodie	88	3	15
-441913	3	14	3 Suits	2021-02-19 — 12:50:13 UTC	boba, indego, TimeHoodie	115	3	15
-441910	3	0	3 Suits	2021-02-19 — 12:35:32 UTC	boba, indego, TimeHoodie	144	3	15
+443190	2	0	Rainbow & Light Pink (6 Suits)	2021-02-20 — 16:09:51 UTC	boba, Lel0uch	20	6	30
+441943	3	0	3 Suits	2021-02-19 — 13:53:20 UTC	boba, indego, TimeHoodie	45	3	15
+441936	3	0	3 Suits	2021-02-19 — 13:35:42 UTC	boba, indego, TimeHoodie	52	3	15
+441926	3	14	3 Suits	2021-02-19 — 13:22:23 UTC	boba, indego, TimeHoodie	75	3	15
+441920	3	14	3 Suits	2021-02-19 — 13:05:30 UTC	boba, indego, TimeHoodie	90	3	15
+441913	3	14	3 Suits	2021-02-19 — 12:50:13 UTC	boba, indego, TimeHoodie	116	3	15
+441910	3	0	3 Suits	2021-02-19 — 12:35:32 UTC	boba, indego, TimeHoodie	146	3	15
 441902	3	30	White & Prism (6 Suits)	2021-02-19 — 12:11:48 UTC	boba, catula, jack67889	7	6	30
 441891	3	25	White-Ones & Rainbow (5 Suits)	2021-02-19 — 11:35:48 UTC	boba, catula, jack67889	9	5	25
 439676	4	19	Rainbow (4 Suits)	2021-02-17 — 04:08:28 UTC	boba, FerKeth, HelanaAshryvr, squirrel1988	11	4	20
 439654	4	0	Rainbow (4 Suits)	2021-02-17 — 03:45:03 UTC	boba, FerKeth, HelanaAshryvr, squirrel1988	14	4	20
-438572	2	25	No Variant	2021-02-15 — 23:13:37 UTC	beri, boba	72	5	25
+438572	2	25	No Variant	2021-02-15 — 23:13:37 UTC	beri, boba	73	5	25
 438041	2	19	Black & Gray (6 Suits)	2021-02-15 — 13:04:27 UTC	boba, Durandal	10	6	30
-437936	3	26	Rainbow (6 Suits)	2021-02-15 — 07:59:42 UTC	boba, HelanaAshryvr, squirrel1988	102	6	30
-437924	3	0	Rainbow (6 Suits)	2021-02-15 — 07:28:17 UTC	boba, HelanaAshryvr, squirrel1988	104	6	30
-437908	3	25	No Variant	2021-02-15 — 07:06:43 UTC	boba, HelanaAshryvr, squirrel1988	199	5	25
-437883	3	24	No Variant	2021-02-15 — 06:15:42 UTC	boba, HelanaAshryvr, squirrel1988	206	5	25
-437854	3	24	No Variant	2021-02-15 — 05:40:21 UTC	boba, HelanaAshryvr, squirrel1988	213	5	25
-437552	2	25	No Variant	2021-02-15 — 00:08:03 UTC	beri, boba	72	5	25
-437505	2	24	No Variant	2021-02-14 — 23:26:54 UTC	beri, boba	72	5	25
-436910	2	30	Prism (6 Suits)	2021-02-14 — 14:31:18 UTC	boba, Sucubis	20	6	30
-436896	2	0	Prism (6 Suits)	2021-02-14 — 14:19:03 UTC	boba, Sucubis	25	6	30
-436892	2	28	Prism (6 Suits)	2021-02-14 — 14:11:22 UTC	boba, Sucubis	32	6	30
-436886	2	29	Prism (6 Suits)	2021-02-14 — 13:57:25 UTC	boba, Sucubis	44	6	30
-436881	2	28	Prism (6 Suits)	2021-02-14 — 13:45:19 UTC	boba, Sucubis	59	6	30
-436875	2	28	Prism (6 Suits)	2021-02-14 — 13:33:25 UTC	boba, Sucubis	64	6	30
+437936	3	26	Rainbow (6 Suits)	2021-02-15 — 07:59:42 UTC	boba, HelanaAshryvr, squirrel1988	104	6	30
+437924	3	0	Rainbow (6 Suits)	2021-02-15 — 07:28:17 UTC	boba, HelanaAshryvr, squirrel1988	106	6	30
+437908	3	25	No Variant	2021-02-15 — 07:06:43 UTC	boba, HelanaAshryvr, squirrel1988	202	5	25
+437883	3	24	No Variant	2021-02-15 — 06:15:42 UTC	boba, HelanaAshryvr, squirrel1988	209	5	25
+437854	3	24	No Variant	2021-02-15 — 05:40:21 UTC	boba, HelanaAshryvr, squirrel1988	218	5	25
+437552	2	25	No Variant	2021-02-15 — 00:08:03 UTC	beri, boba	73	5	25
+437505	2	24	No Variant	2021-02-14 — 23:26:54 UTC	beri, boba	73	5	25
+436910	2	30	Prism (6 Suits)	2021-02-14 — 14:31:18 UTC	boba, Sucubis	21	6	30
+436896	2	0	Prism (6 Suits)	2021-02-14 — 14:19:03 UTC	boba, Sucubis	26	6	30
+436892	2	28	Prism (6 Suits)	2021-02-14 — 14:11:22 UTC	boba, Sucubis	33	6	30
+436886	2	29	Prism (6 Suits)	2021-02-14 — 13:57:25 UTC	boba, Sucubis	46	6	30
+436881	2	28	Prism (6 Suits)	2021-02-14 — 13:45:19 UTC	boba, Sucubis	62	6	30
+436875	2	28	Prism (6 Suits)	2021-02-14 — 13:33:25 UTC	boba, Sucubis	66	6	30
 436787	2	26	Black & Gray (6 Suits)	2021-02-14 — 12:05:10 UTC	boba, Durandal	10	6	30
 436779	2	22	Black & Gray (6 Suits)	2021-02-14 — 11:44:35 UTC	boba, Durandal	12	6	30
 436769	2	0	Black & Gray (6 Suits)	2021-02-14 — 11:29:40 UTC	boba, Durandal	12	6	30
-436750	2	25	Light Pink (5 Suits)	2021-02-14 — 10:45:55 UTC	antitelharsic, boba	65	5	25
-436742	2	30	Light Pink (6 Suits)	2021-02-14 — 10:23:47 UTC	antitelharsic, boba	24	6	30
-436737	2	0	Light Pink (6 Suits)	2021-02-14 — 10:08:03 UTC	antitelharsic, boba	33	6	30
-436440	2	0	No Variant	2021-02-14 — 04:36:46 UTC	boba, HelanaAshryvr	794	5	25
+436750	2	25	Light Pink (5 Suits)	2021-02-14 — 10:45:55 UTC	antitelharsic, boba	70	5	25
+436742	2	30	Light Pink (6 Suits)	2021-02-14 — 10:23:47 UTC	antitelharsic, boba	26	6	30
+436737	2	0	Light Pink (6 Suits)	2021-02-14 — 10:08:03 UTC	antitelharsic, boba	35	6	30
+436440	2	0	No Variant	2021-02-14 — 04:36:46 UTC	boba, HelanaAshryvr	803	5	25
 436368	2	30	Black (6 Suits)	2021-02-14 — 03:41:29 UTC	boba, HelanaAshryvr	20	6	30
 436165	2	27	Black & Gray (6 Suits)	2021-02-14 — 00:24:15 UTC	boba, Durandal	13	6	30
 435676	4	30	Dark Brown (6 Suits)	2021-02-13 — 12:51:06 UTC	boba, nitawa, Nitrate2, Pablo-	8	6	30
@@ -639,11 +649,11 @@
 435067	2	29	Black (6 Suits)	2021-02-13 — 02:24:49 UTC	boba, HelanaAshryvr	82	6	30
 435047	2	30	Black (6 Suits)	2021-02-13 — 02:07:03 UTC	boba, HelanaAshryvr	86	6	30
 435018	2	27	Black (6 Suits)	2021-02-13 — 01:51:25 UTC	boba, HelanaAshryvr	86	6	30
-434981	2	0	No Variant	2021-02-13 — 01:23:41 UTC	boba, Lanvin	1031	5	25
-434349	2	25	No Variant	2021-02-12 — 10:25:24 UTC	beri, boba	72	5	25
-433919	4	25	No Variant	2021-02-12 — 02:33:26 UTC	aquarelle, boba, ejwu, HelanaAshryvr	336	5	25
-433288	2	25	No Variant	2021-02-11 — 13:19:12 UTC	beri, boba	73	5	25
-433286	2	23	No Variant	2021-02-11 — 13:01:41 UTC	beri, boba	75	5	25
+434981	2	0	No Variant	2021-02-13 — 01:23:41 UTC	boba, Lanvin	1041	5	25
+434349	2	25	No Variant	2021-02-12 — 10:25:24 UTC	beri, boba	74	5	25
+433919	4	25	No Variant	2021-02-12 — 02:33:26 UTC	aquarelle, boba, ejwu, HelanaAshryvr	340	5	25
+433288	2	25	No Variant	2021-02-11 — 13:19:12 UTC	beri, boba	75	5	25
+433286	2	23	No Variant	2021-02-11 — 13:01:41 UTC	beri, boba	77	5	25
 432918	2	25	No Variant	2021-02-11 — 01:47:56 UTC	boba, missyalyssi	31	5	25
 432916	2	0	No Variant	2021-02-11 — 01:45:49 UTC	boba, missyalyssi	31	5	25
 432915	2	0	No Variant	2021-02-11 — 01:44:54 UTC	boba, missyalyssi	31	5	25
@@ -663,29 +673,29 @@
 432854	2	25	No Variant	2021-02-11 — 00:53:36 UTC	boba, missyalyssi	30	5	25
 432846	2	0	No Variant	2021-02-11 — 00:44:12 UTC	boba, missyalyssi	30	5	25
 432842	2	25	No Variant	2021-02-11 — 00:41:21 UTC	boba, missyalyssi	30	5	25
-432837	2	25	No Variant	2021-02-11 — 00:38:12 UTC	boba, missyalyssi	30	5	25
-432836	2	0	No Variant	2021-02-11 — 00:35:46 UTC	boba, missyalyssi	30	5	25
-432835	2	0	No Variant	2021-02-11 — 00:34:52 UTC	boba, missyalyssi	30	5	25
-432834	2	0	No Variant	2021-02-11 — 00:32:15 UTC	boba, missyalyssi	30	5	25
-432831	2	0	No Variant	2021-02-11 — 00:29:16 UTC	boba, missyalyssi	30	5	25
-432829	2	0	No Variant	2021-02-11 — 00:27:07 UTC	boba, missyalyssi	31	5	25
-432824	2	25	No Variant	2021-02-11 — 00:22:40 UTC	boba, missyalyssi	31	5	25
-432820	2	25	No Variant	2021-02-11 — 00:18:21 UTC	boba, missyalyssi	31	5	25
-432818	2	0	No Variant	2021-02-11 — 00:15:26 UTC	boba, missyalyssi	31	5	25
-432248	2	26	6 Suits	2021-02-10 — 14:25:33 UTC	Animex52, boba	236	6	30
-432242	2	28	6 Suits	2021-02-10 — 14:18:49 UTC	Animex52, boba	248	6	30
-432237	2	0	6 Suits	2021-02-10 — 14:07:01 UTC	Animex52, boba	274	6	30
-432230	2	29	6 Suits	2021-02-10 — 14:00:38 UTC	Animex52, boba	304	6	30
-431633	2	0	Light Pink (6 Suits)	2021-02-09 — 23:58:14 UTC	aquarelle, boba	35	6	30
-431608	2	27	Light Pink (6 Suits)	2021-02-09 — 23:39:11 UTC	aquarelle, boba	40	6	30
+432837	2	25	No Variant	2021-02-11 — 00:38:12 UTC	boba, missyalyssi	31	5	25
+432836	2	0	No Variant	2021-02-11 — 00:35:46 UTC	boba, missyalyssi	31	5	25
+432835	2	0	No Variant	2021-02-11 — 00:34:52 UTC	boba, missyalyssi	31	5	25
+432834	2	0	No Variant	2021-02-11 — 00:32:15 UTC	boba, missyalyssi	31	5	25
+432831	2	0	No Variant	2021-02-11 — 00:29:16 UTC	boba, missyalyssi	31	5	25
+432829	2	0	No Variant	2021-02-11 — 00:27:07 UTC	boba, missyalyssi	32	5	25
+432824	2	25	No Variant	2021-02-11 — 00:22:40 UTC	boba, missyalyssi	32	5	25
+432820	2	25	No Variant	2021-02-11 — 00:18:21 UTC	boba, missyalyssi	32	5	25
+432818	2	0	No Variant	2021-02-11 — 00:15:26 UTC	boba, missyalyssi	32	5	25
+432248	2	26	6 Suits	2021-02-10 — 14:25:33 UTC	Animex52, boba	240	6	30
+432242	2	28	6 Suits	2021-02-10 — 14:18:49 UTC	Animex52, boba	253	6	30
+432237	2	0	6 Suits	2021-02-10 — 14:07:01 UTC	Animex52, boba	280	6	30
+432230	2	29	6 Suits	2021-02-10 — 14:00:38 UTC	Animex52, boba	315	6	30
+431633	2	0	Light Pink (6 Suits)	2021-02-09 — 23:58:14 UTC	aquarelle, boba	37	6	30
+431608	2	27	Light Pink (6 Suits)	2021-02-09 — 23:39:11 UTC	aquarelle, boba	41	6	30
 431000	2	25	Black (6 Suits)	2021-02-09 — 13:53:22 UTC	boba, Lel0uch	38	6	30
 430998	2	30	White & Prism (6 Suits)	2021-02-09 — 13:40:48 UTC	boba, Lel0uch	7	6	30
 430994	2	0	White & Prism (6 Suits)	2021-02-09 — 13:31:19 UTC	boba, Lel0uch	11	6	30
-429486	2	25	No Variant	2021-02-08 — 00:59:43 UTC	boba, Etherealz	39	5	25
-429485	2	22	No Variant	2021-02-08 — 00:57:43 UTC	boba, Etherealz	39	5	25
-429482	2	0	No Variant	2021-02-08 — 00:54:49 UTC	boba, Etherealz	39	5	25
-429480	2	0	No Variant	2021-02-08 — 00:52:35 UTC	boba, Etherealz	39	5	25
-429479	2	0	No Variant	2021-02-08 — 00:49:48 UTC	boba, Etherealz	40	5	25
+429486	2	25	No Variant	2021-02-08 — 00:59:43 UTC	boba, Etherealz	40	5	25
+429485	2	22	No Variant	2021-02-08 — 00:57:43 UTC	boba, Etherealz	40	5	25
+429482	2	0	No Variant	2021-02-08 — 00:54:49 UTC	boba, Etherealz	40	5	25
+429480	2	0	No Variant	2021-02-08 — 00:52:35 UTC	boba, Etherealz	40	5	25
+429479	2	0	No Variant	2021-02-08 — 00:49:48 UTC	boba, Etherealz	41	5	25
 429467	2	24	Black & Gray (6 Suits)	2021-02-08 — 00:20:17 UTC	boba, Durandal	13	6	30
 429462	2	0	Black & Gray (6 Suits)	2021-02-08 — 00:05:13 UTC	boba, Durandal	14	6	30
 429456	2	0	Black & Gray (6 Suits)	2021-02-07 — 23:54:00 UTC	boba, Durandal	14	6	30
@@ -693,21 +703,21 @@
 429442	2	0	Black & Gray (6 Suits)	2021-02-07 — 23:37:08 UTC	boba, Durandal	14	6	30
 428834	2	24	Black & Gray (6 Suits)	2021-02-07 — 10:11:04 UTC	boba, Durandal	15	6	30
 428822	2	23	Black & Gray (6 Suits)	2021-02-07 — 09:50:16 UTC	boba, Durandal	17	6	30
-427635	2	29	Dark Pink (6 Suits)	2021-02-06 — 14:18:50 UTC	boba, nitawa	56	6	30
+427635	2	29	Dark Pink (6 Suits)	2021-02-06 — 14:18:50 UTC	boba, nitawa	59	6	30
 427612	4	15	3 Suits	2021-02-06 — 12:56:57 UTC	Animex52, boba, nitawa, Sucubis	16	3	15
 427607	4	0	3 Suits	2021-02-06 — 12:48:27 UTC	Animex52, boba, nitawa, Sucubis	20	3	15
 427604	4	14	3 Suits	2021-02-06 — 12:36:59 UTC	Animex52, boba, nitawa, Sucubis	24	3	15
 427599	4	14	3 Suits	2021-02-06 — 12:27:20 UTC	Animex52, boba, nitawa, Sucubis	26	3	15
 427238	2	0	Black (6 Suits)	2021-02-06 — 03:12:56 UTC	boba, HelanaAshryvr	87	6	30
 427209	2	28	Black (6 Suits)	2021-02-06 — 02:59:04 UTC	boba, HelanaAshryvr	88	6	30
-427142	2	26	6 Suits	2021-02-06 — 02:15:36 UTC	boba, FerKeth	340	6	30
-427090	2	29	6 Suits	2021-02-06 — 01:26:35 UTC	beri, boba	378	6	30
-427054	2	0	6 Suits	2021-02-06 — 00:54:00 UTC	beri, boba	401	6	30
-427016	2	27	6 Suits	2021-02-06 — 00:20:57 UTC	beri, boba	444	6	30
-426416	2	25	Black & Gray (6 Suits)	2021-02-05 — 13:10:46 UTC	boba, Durandal	18	6	30
-426371	2	0	6 Suits	2021-02-05 — 10:52:44 UTC	beri, boba	505	6	30
-426363	2	0	6 Suits	2021-02-05 — 10:16:46 UTC	beri, boba	593	6	30
-426351	3	28	6 Suits	2021-02-05 — 09:53:02 UTC	beri, boba, Lel0uch	196	6	30
+427142	2	26	6 Suits	2021-02-06 — 02:15:36 UTC	boba, FerKeth	352	6	30
+427090	2	29	6 Suits	2021-02-06 — 01:26:35 UTC	beri, boba	388	6	30
+427054	2	0	6 Suits	2021-02-06 — 00:54:00 UTC	beri, boba	413	6	30
+427016	2	27	6 Suits	2021-02-06 — 00:20:57 UTC	beri, boba	453	6	30
+426416	2	25	Black & Gray (6 Suits)	2021-02-05 — 13:10:46 UTC	boba, Durandal	19	6	30
+426371	2	0	6 Suits	2021-02-05 — 10:52:44 UTC	beri, boba	513	6	30
+426363	2	0	6 Suits	2021-02-05 — 10:16:46 UTC	beri, boba	601	6	30
+426351	3	28	6 Suits	2021-02-05 — 09:53:02 UTC	beri, boba, Lel0uch	199	6	30
 426336	3	24	Pink & Muddy Rainbow (5 Suits)	2021-02-05 — 09:22:35 UTC	boba, Lel0uch, rachyrules	6	5	25
 426331	2	30	White & Muddy Rainbow (6 Suits)	2021-02-05 — 08:53:32 UTC	boba, Lel0uch	10	6	30
 426330	2	30	Pink & Prism (6 Suits)	2021-02-05 — 08:38:43 UTC	boba, Lel0uch	16	6	30
@@ -715,56 +725,56 @@
 426324	2	25	No Variant	2021-02-05 — 08:06:22 UTC	boba, Etherealz	65	5	25
 426321	2	23	No Variant	2021-02-05 — 08:00:51 UTC	boba, Etherealz	65	5	25
 425854	3	23	Brown-Ones (5 Suits)	2021-02-04 — 23:35:01 UTC	aquarelle, boba, jack67889	10	5	25
-425837	2	0	No Variant	2021-02-04 — 23:09:06 UTC	boba, jack67889	1148	5	25
-425318	2	27	6 Suits	2021-02-04 — 14:03:41 UTC	beri, boba	666	6	30
-425250	3	27	6 Suits	2021-02-04 — 11:58:15 UTC	beri, boba, Durandal	503	6	30
-425234	2	21	Black & Muddy Rainbow (5 Suits)	2021-02-04 — 11:01:41 UTC	boba, Durandal	7	5	25
+425837	2	0	No Variant	2021-02-04 — 23:09:06 UTC	boba, jack67889	1159	5	25
+425318	2	27	6 Suits	2021-02-04 — 14:03:41 UTC	beri, boba	675	6	30
+425250	3	27	6 Suits	2021-02-04 — 11:58:15 UTC	beri, boba, Durandal	511	6	30
+425234	2	21	Black & Muddy Rainbow (5 Suits)	2021-02-04 — 11:01:41 UTC	boba, Durandal	8	5	25
 425216	2	30	Black & Prism (6 Suits)	2021-02-04 — 10:33:51 UTC	boba, Durandal	1	6	30
 425211	2	0	Black & Prism (6 Suits)	2021-02-04 — 10:20:35 UTC	boba, Durandal	1	6	30
 425205	2	0	Black & Prism (6 Suits)	2021-02-04 — 10:03:26 UTC	boba, Durandal	1	6	30
-423887	2	25	No Variant	2021-02-03 — 07:24:50 UTC	boba, Etherealz	279	5	25
-423886	2	0	No Variant	2021-02-03 — 07:22:13 UTC	boba, Etherealz	281	5	25
-423884	2	0	No Variant	2021-02-03 — 07:18:26 UTC	boba, Etherealz	299	5	25
-423883	2	25	No Variant	2021-02-03 — 07:16:17 UTC	boba, Etherealz	292	5	25
-423881	2	0	No Variant	2021-02-03 — 07:13:56 UTC	boba, Etherealz	302	5	25
-423880	2	0	No Variant	2021-02-03 — 07:13:06 UTC	boba, Etherealz	308	5	25
-423879	2	0	No Variant	2021-02-03 — 07:10:15 UTC	boba, Etherealz	303	5	25
-423878	2	25	No Variant	2021-02-03 — 07:08:36 UTC	boba, Etherealz	311	5	25
-423876	2	25	No Variant	2021-02-03 — 07:06:01 UTC	boba, Etherealz	315	5	25
-423872	2	25	No Variant	2021-02-03 — 07:02:57 UTC	boba, Etherealz	321	5	25
-423871	2	25	No Variant	2021-02-03 — 06:59:54 UTC	boba, Etherealz	328	5	25
-423867	2	24	No Variant	2021-02-03 — 06:56:29 UTC	boba, Etherealz	335	5	25
-423864	2	25	No Variant	2021-02-03 — 06:53:06 UTC	boba, Etherealz	344	5	25
-423861	2	25	No Variant	2021-02-03 — 06:49:06 UTC	boba, Etherealz	348	5	25
-423859	2	0	No Variant	2021-02-03 — 06:46:19 UTC	boba, Etherealz	354	5	25
+423887	2	25	No Variant	2021-02-03 — 07:24:50 UTC	boba, Etherealz	288	5	25
+423886	2	0	No Variant	2021-02-03 — 07:22:13 UTC	boba, Etherealz	289	5	25
+423884	2	0	No Variant	2021-02-03 — 07:18:26 UTC	boba, Etherealz	306	5	25
+423883	2	25	No Variant	2021-02-03 — 07:16:17 UTC	boba, Etherealz	303	5	25
+423881	2	0	No Variant	2021-02-03 — 07:13:56 UTC	boba, Etherealz	313	5	25
+423880	2	0	No Variant	2021-02-03 — 07:13:06 UTC	boba, Etherealz	318	5	25
+423879	2	0	No Variant	2021-02-03 — 07:10:15 UTC	boba, Etherealz	313	5	25
+423878	2	25	No Variant	2021-02-03 — 07:08:36 UTC	boba, Etherealz	320	5	25
+423876	2	25	No Variant	2021-02-03 — 07:06:01 UTC	boba, Etherealz	324	5	25
+423872	2	25	No Variant	2021-02-03 — 07:02:57 UTC	boba, Etherealz	329	5	25
+423871	2	25	No Variant	2021-02-03 — 06:59:54 UTC	boba, Etherealz	336	5	25
+423867	2	24	No Variant	2021-02-03 — 06:56:29 UTC	boba, Etherealz	340	5	25
+423864	2	25	No Variant	2021-02-03 — 06:53:06 UTC	boba, Etherealz	349	5	25
+423861	2	25	No Variant	2021-02-03 — 06:49:06 UTC	boba, Etherealz	355	5	25
+423859	2	0	No Variant	2021-02-03 — 06:46:19 UTC	boba, Etherealz	359	5	25
 423501	3	27	Rainbow (6 Suits)	2021-02-03 — 00:44:14 UTC	boba, Etherealz, missyalyssi	118	6	30
 423475	3	29	Rainbow (6 Suits)	2021-02-03 — 00:22:22 UTC	boba, Etherealz, missyalyssi	120	6	30
 422960	2	24	Black & Prism (6 Suits)	2021-02-02 — 12:51:28 UTC	boba, Durandal	1	6	30
 422097	2	26	Black & Prism (6 Suits)	2021-02-01 — 13:15:38 UTC	boba, Durandal	1	6	30
 422092	2	24	Black & Prism (6 Suits)	2021-02-01 — 12:55:15 UTC	boba, Durandal	1	6	30
 422079	2	0	Black & Prism (6 Suits)	2021-02-01 — 12:31:38 UTC	boba, Durandal	1	6	30
-422070	4	30	Black (6 Suits)	2021-02-01 — 12:03:51 UTC	boba, catula, cockdestroyer, Sucubis	67	6	30
-422066	4	0	Black (6 Suits)	2021-02-01 — 11:41:34 UTC	boba, catula, cockdestroyer, Sucubis	71	6	30
-421962	2	26	Black (6 Suits)	2021-02-01 — 07:26:40 UTC	Animex52, boba	232	6	30
-421668	2	29	Black (6 Suits)	2021-02-01 — 01:54:34 UTC	Animex52, boba	255	6	30
-421645	2	0	Black (6 Suits)	2021-02-01 — 01:27:24 UTC	Animex52, boba	275	6	30
-420939	3	24	No Variant	2021-01-31 — 07:41:07 UTC	boba, louietyj, possum	106	5	25
+422070	4	30	Black (6 Suits)	2021-02-01 — 12:03:51 UTC	boba, catula, cockdestroyer, Sucubis	69	6	30
+422066	4	0	Black (6 Suits)	2021-02-01 — 11:41:34 UTC	boba, catula, cockdestroyer, Sucubis	73	6	30
+421962	2	26	Black (6 Suits)	2021-02-01 — 07:26:40 UTC	Animex52, boba	237	6	30
+421668	2	29	Black (6 Suits)	2021-02-01 — 01:54:34 UTC	Animex52, boba	259	6	30
+421645	2	0	Black (6 Suits)	2021-02-01 — 01:27:24 UTC	Animex52, boba	283	6	30
+420939	3	24	No Variant	2021-01-31 — 07:41:07 UTC	boba, louietyj, possum	110	5	25
 420914	2	19	Reversed (5 Suits)	2021-01-31 — 07:12:06 UTC	aquarelle, boba	34	5	25
 420904	2	0	Reversed (5 Suits)	2021-01-31 — 06:56:47 UTC	aquarelle, boba	39	5	25
-420893	2	0	Reversed (5 Suits)	2021-01-31 — 06:46:26 UTC	aquarelle, boba	44	5	25
-420885	2	15	Reversed (3 Suits)	2021-01-31 — 06:39:54 UTC	aquarelle, boba	25	3	15
-420636	2	15	Rainbow & Prism (3 Suits)	2021-01-31 — 04:11:54 UTC	aquarelle, boba	20	3	15
+420893	2	0	Reversed (5 Suits)	2021-01-31 — 06:46:26 UTC	aquarelle, boba	45	5	25
+420885	2	15	Reversed (3 Suits)	2021-01-31 — 06:39:54 UTC	aquarelle, boba	26	3	15
+420636	2	15	Rainbow & Prism (3 Suits)	2021-01-31 — 04:11:54 UTC	aquarelle, boba	22	3	15
 420481	6	14	White (3 Suits)	2021-01-31 — 02:38:03 UTC	antitelharsic, aquarelle, boba, HelanaAshryvr, Lanvin, Sucubis	1	3	15
-420431	2	26	Black (6 Suits)	2021-01-31 — 02:00:18 UTC	boba, HelanaAshryvr	87	6	30
+420431	2	26	Black (6 Suits)	2021-01-31 — 02:00:18 UTC	boba, HelanaAshryvr	88	6	30
 420415	2	29	Black (6 Suits)	2021-01-31 — 01:43:59 UTC	boba, HelanaAshryvr	89	6	30
-420352	2	20	Rainbow & White (4 Suits)	2021-01-31 — 00:36:31 UTC	aquarelle, boba	17	4	20
-420341	2	19	Rainbow & White (4 Suits)	2021-01-31 — 00:27:08 UTC	aquarelle, boba	28	4	20
+420352	2	20	Rainbow & White (4 Suits)	2021-01-31 — 00:36:31 UTC	aquarelle, boba	18	4	20
+420341	2	19	Rainbow & White (4 Suits)	2021-01-31 — 00:27:08 UTC	aquarelle, boba	29	4	20
 419767	2	25	Black & Prism (6 Suits)	2021-01-30 — 13:39:02 UTC	boba, Durandal	6	6	30
-418565	3	25	No Variant	2021-01-29 — 14:22:54 UTC	Animex52, boba, nitawa	77	5	25
+418565	3	25	No Variant	2021-01-29 — 14:22:54 UTC	Animex52, boba, nitawa	78	5	25
 416935	2	26	Black (6 Suits)	2021-01-27 — 23:33:22 UTC	boba, HelanaAshryvr	90	6	30
 416403	2	19	Black & Prism (6 Suits)	2021-01-27 — 14:27:13 UTC	boba, Durandal	6	6	30
-416388	2	25	Black & Prism (5 Suits)	2021-01-27 — 14:02:12 UTC	boba, Durandal	6	5	25
-416384	2	20	Black & Prism (5 Suits)	2021-01-27 — 13:55:25 UTC	boba, Durandal	6	5	25
+416388	2	25	Black & Prism (5 Suits)	2021-01-27 — 14:02:12 UTC	boba, Durandal	7	5	25
+416384	2	20	Black & Prism (5 Suits)	2021-01-27 — 13:55:25 UTC	boba, Durandal	7	5	25
 416273	2	30	Duck (6 Suits)	2021-01-27 — 06:28:59 UTC	Animex52, boba	12	6	30
 416181	2	28	Black (6 Suits)	2021-01-27 — 05:00:37 UTC	boba, HelanaAshryvr	89	6	30
 416139	2	0	Black (6 Suits)	2021-01-27 — 04:38:43 UTC	boba, HelanaAshryvr	91	6	30
@@ -773,26 +783,26 @@
 416028	2	25	Black (6 Suits)	2021-01-27 — 03:27:53 UTC	boba, HelanaAshryvr	95	6	30
 415972	2	25	Black & Rainbow (5 Suits)	2021-01-27 — 02:38:56 UTC	aquarelle, boba	26	5	25
 415884	3	30	Rainbow (6 Suits)	2021-01-27 — 00:49:17 UTC	boba, Etherealz, missyalyssi	126	6	30
-415864	3	30	Rainbow (6 Suits)	2021-01-27 — 00:21:43 UTC	boba, Etherealz, missyalyssi	146	6	30
-415850	3	30	Rainbow (6 Suits)	2021-01-26 — 23:54:26 UTC	boba, Etherealz, missyalyssi	165	6	30
-415837	3	0	Rainbow (6 Suits)	2021-01-26 — 23:36:13 UTC	boba, Etherealz, missyalyssi	183	6	30
+415864	3	30	Rainbow (6 Suits)	2021-01-27 — 00:21:43 UTC	boba, Etherealz, missyalyssi	147	6	30
+415850	3	30	Rainbow (6 Suits)	2021-01-26 — 23:54:26 UTC	boba, Etherealz, missyalyssi	167	6	30
+415837	3	0	Rainbow (6 Suits)	2021-01-26 — 23:36:13 UTC	boba, Etherealz, missyalyssi	186	6	30
 415821	3	0	White & Cocoa Rainbow (6 Suits)	2021-01-26 — 23:19:46 UTC	aquarelle, boba, HelanaAshryvr	4	6	30
-415425	2	25	No Variant	2021-01-26 — 14:00:00 UTC	Animex52, boba	1532	5	25
-415418	2	19	No Variant	2021-01-26 — 13:43:14 UTC	Animex52, boba	1621	5	25
+415425	2	25	No Variant	2021-01-26 — 14:00:00 UTC	Animex52, boba	1547	5	25
+415418	2	19	No Variant	2021-01-26 — 13:43:14 UTC	Animex52, boba	1637	5	25
 415409	2	27	Duck (6 Suits)	2021-01-26 — 13:18:02 UTC	Animex52, boba	22	6	30
 415366	2	28	Reversed (6 Suits)	2021-01-26 — 10:52:18 UTC	boba, Lel0uch	10	6	30
 415364	2	0	Reversed (6 Suits)	2021-01-26 — 10:41:05 UTC	boba, Lel0uch	12	6	30
 415363	2	0	Reversed (6 Suits)	2021-01-26 — 10:37:33 UTC	boba, Lel0uch	14	6	30
 415362	2	0	Reversed (6 Suits)	2021-01-26 — 10:32:47 UTC	boba, Lel0uch	14	6	30
-415361	2	23	Reversed (6 Suits)	2021-01-26 — 10:27:57 UTC	boba, Lel0uch	19	6	30
-415359	2	0	Reversed (6 Suits)	2021-01-26 — 10:12:40 UTC	boba, Lel0uch	22	6	30
+415361	2	23	Reversed (6 Suits)	2021-01-26 — 10:27:57 UTC	boba, Lel0uch	20	6	30
+415359	2	0	Reversed (6 Suits)	2021-01-26 — 10:12:40 UTC	boba, Lel0uch	23	6	30
 415358	2	27	Reversed (6 Suits)	2021-01-26 — 10:03:39 UTC	boba, Lel0uch	37	6	30
 415323	2	0	Black (6 Suits)	2021-01-26 — 07:43:00 UTC	boba, HelanaAshryvr	97	6	30
-415318	2	28	Black (6 Suits)	2021-01-26 — 07:25:58 UTC	boba, HelanaAshryvr	294	6	30
-415306	2	0	Black (6 Suits)	2021-01-26 — 07:06:27 UTC	boba, HelanaAshryvr	300	6	30
-415299	2	0	Black (6 Suits)	2021-01-26 — 06:50:20 UTC	boba, HelanaAshryvr	325	6	30
-415294	2	27	Black (6 Suits)	2021-01-26 — 06:44:42 UTC	boba, HelanaAshryvr	350	6	30
-415286	2	26	Black (6 Suits)	2021-01-26 — 06:31:02 UTC	boba, HelanaAshryvr	391	6	30
+415318	2	28	Black (6 Suits)	2021-01-26 — 07:25:58 UTC	boba, HelanaAshryvr	300	6	30
+415306	2	0	Black (6 Suits)	2021-01-26 — 07:06:27 UTC	boba, HelanaAshryvr	306	6	30
+415299	2	0	Black (6 Suits)	2021-01-26 — 06:50:20 UTC	boba, HelanaAshryvr	332	6	30
+415294	2	27	Black (6 Suits)	2021-01-26 — 06:44:42 UTC	boba, HelanaAshryvr	358	6	30
+415286	2	26	Black (6 Suits)	2021-01-26 — 06:31:02 UTC	boba, HelanaAshryvr	398	6	30
 415184	3	28	Dual-Color Mix	2021-01-26 — 03:51:24 UTC	boba, HelanaAshryvr, newduke	14	6	30
 415136	3	26	Dual-Color Mix	2021-01-26 — 02:54:03 UTC	boba, HelanaAshryvr, newduke	14	6	30
 414555	3	0	Duck (6 Suits)	2021-01-25 — 14:12:12 UTC	Animex52, boba, catula	17	6	30
@@ -800,92 +810,92 @@
 414513	2	0	Black & Prism (6 Suits)	2021-01-25 — 12:04:39 UTC	boba, Durandal	8	6	30
 414511	2	0	Black & Prism (6 Suits)	2021-01-25 — 12:00:52 UTC	boba, Durandal	14	6	30
 414508	2	0	Black & Prism (6 Suits)	2021-01-25 — 11:53:34 UTC	boba, Durandal	17	6	30
-414473	2	30	Rainbow (6 Suits)	2021-01-25 — 09:24:54 UTC	boba, Etherealz	32	6	30
+414473	2	30	Rainbow (6 Suits)	2021-01-25 — 09:24:54 UTC	boba, Etherealz	33	6	30
 414200	2	0	Black & Muddy Rainbow (5 Suits)	2021-01-25 — 02:36:00 UTC	boba, HelanaAshryvr	7	5	25
 414190	2	0	Black & Muddy Rainbow (5 Suits)	2021-01-25 — 02:29:28 UTC	boba, HelanaAshryvr	8	5	25
 414177	2	23	Black & Muddy Rainbow (5 Suits)	2021-01-25 — 02:15:34 UTC	boba, HelanaAshryvr	10	5	25
 414169	2	21	Black & Muddy Rainbow (5 Suits)	2021-01-25 — 02:06:13 UTC	boba, HelanaAshryvr	13	5	25
-414158	2	0	Black & Muddy Rainbow (5 Suits)	2021-01-25 — 01:49:55 UTC	boba, HelanaAshryvr	20	5	25
+414158	2	0	Black & Muddy Rainbow (5 Suits)	2021-01-25 — 01:49:55 UTC	boba, HelanaAshryvr	21	5	25
 414145	2	30	Black & Muddy Rainbow (6 Suits)	2021-01-25 — 01:38:43 UTC	boba, HelanaAshryvr	14	6	30
 414098	2	25	Black & Muddy Rainbow (6 Suits)	2021-01-25 — 00:58:20 UTC	boba, HelanaAshryvr	14	6	30
 414088	2	0	Black & Muddy Rainbow (6 Suits)	2021-01-25 — 00:50:21 UTC	boba, HelanaAshryvr	15	6	30
-414079	2	27	Rainbow (6 Suits)	2021-01-25 — 00:45:31 UTC	boba, HelanaAshryvr	94	6	30
+414079	2	27	Rainbow (6 Suits)	2021-01-25 — 00:45:31 UTC	boba, HelanaAshryvr	95	6	30
 414067	2	30	Rainbow (6 Suits)	2021-01-25 — 00:34:22 UTC	boba, HelanaAshryvr	99	6	30
-414057	2	29	Rainbow (6 Suits)	2021-01-25 — 00:26:37 UTC	boba, HelanaAshryvr	97	6	30
-414048	2	21	Dual-Color Mix	2021-01-25 — 00:17:19 UTC	boba, HelanaAshryvr	22	6	30
-413542	3	18	Rainbow (4 Suits)	2021-01-24 — 14:37:59 UTC	Animex52, aquarelle, boba	46	4	20
-413534	3	0	Rainbow (4 Suits)	2021-01-24 — 14:18:16 UTC	Animex52, aquarelle, boba	68	4	20
+414057	2	29	Rainbow (6 Suits)	2021-01-25 — 00:26:37 UTC	boba, HelanaAshryvr	98	6	30
+414048	2	21	Dual-Color Mix	2021-01-25 — 00:17:19 UTC	boba, HelanaAshryvr	23	6	30
+413542	3	18	Rainbow (4 Suits)	2021-01-24 — 14:37:59 UTC	Animex52, aquarelle, boba	48	4	20
+413534	3	0	Rainbow (4 Suits)	2021-01-24 — 14:18:16 UTC	Animex52, aquarelle, boba	69	4	20
 413518	5	0	No Variant	2021-01-24 — 13:21:53 UTC	Animex52, boba, Denchulitas, katian, nitawa	23	5	25
 413516	5	0	No Variant	2021-01-24 — 13:14:06 UTC	Animex52, boba, catula, Denchulitas, katian	20	5	25
 413508	4	23	Rainbow (5 Suits)	2021-01-24 — 12:55:58 UTC	Animex52, boba, catula, katian	63	5	25
-413457	2	0	Rainbow (6 Suits)	2021-01-24 — 09:48:37 UTC	boba, Etherealz	34	6	30
-413452	2	29	Rainbow (6 Suits)	2021-01-24 — 09:35:25 UTC	boba, Etherealz	34	6	30
-413449	2	30	Rainbow (6 Suits)	2021-01-24 — 09:26:19 UTC	boba, Etherealz	33	6	30
-413441	2	30	Rainbow (6 Suits)	2021-01-24 — 09:12:17 UTC	boba, Etherealz	34	6	30
-413437	2	28	Rainbow (6 Suits)	2021-01-24 — 08:56:55 UTC	boba, Etherealz	34	6	30
+413457	2	0	Rainbow (6 Suits)	2021-01-24 — 09:48:37 UTC	boba, Etherealz	35	6	30
+413452	2	29	Rainbow (6 Suits)	2021-01-24 — 09:35:25 UTC	boba, Etherealz	35	6	30
+413449	2	30	Rainbow (6 Suits)	2021-01-24 — 09:26:19 UTC	boba, Etherealz	35	6	30
+413441	2	30	Rainbow (6 Suits)	2021-01-24 — 09:12:17 UTC	boba, Etherealz	36	6	30
+413437	2	28	Rainbow (6 Suits)	2021-01-24 — 08:56:55 UTC	boba, Etherealz	36	6	30
 413434	4	22	Cocoa Rainbow (5 Suits)	2021-01-24 — 08:41:09 UTC	Animex52, boba, catula, nitawa	8	5	25
 413426	4	0	Cocoa Rainbow (5 Suits)	2021-01-24 — 08:17:21 UTC	Animex52, boba, catula, nitawa	10	5	25
 413423	4	0	Cocoa Rainbow (5 Suits)	2021-01-24 — 08:01:48 UTC	Animex52, boba, catula, Dwu123	14	5	25
-413413	3	0	Cocoa Rainbow (6 Suits)	2021-01-24 — 07:46:02 UTC	Animex52, boba, catula	32	6	30
+413413	3	0	Cocoa Rainbow (6 Suits)	2021-01-24 — 07:46:02 UTC	Animex52, boba, catula	33	6	30
 413271	5	24	Prism (5 Suits)	2021-01-24 — 05:18:47 UTC	Animex52, antitelharsic, aquarelle, boba, ejwu	9	5	25
-413096	4	0	Cocoa Rainbow (6 Suits)	2021-01-24 — 02:29:56 UTC	aquarelle, boba, HelanaAshryvr, Lanvin	14	6	30
+413096	4	0	Cocoa Rainbow (6 Suits)	2021-01-24 — 02:29:56 UTC	aquarelle, boba, HelanaAshryvr, Lanvin	15	6	30
 412408	2	22	Black & Rainbow (5 Suits)	2021-01-23 — 14:30:30 UTC	boba, Durandal	10	5	25
-412404	2	30	Gray Pink (6 Suits)	2021-01-23 — 14:19:08 UTC	boba, Durandal	3	6	30
-411765	4	28	Special Mix (6 Suits)	2021-01-23 — 00:48:24 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	7	6	30
-411744	4	0	Special Mix (6 Suits)	2021-01-23 — 00:13:03 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	11	6	30
+412404	2	30	Gray Pink (6 Suits)	2021-01-23 — 14:19:08 UTC	boba, Durandal	5	6	30
+411765	4	28	Special Mix (6 Suits)	2021-01-23 — 00:48:24 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	8	6	30
+411744	4	0	Special Mix (6 Suits)	2021-01-23 — 00:13:03 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	12	6	30
 411737	4	0	Special Mix (6 Suits)	2021-01-23 — 00:07:41 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	14	6	30
 411699	4	0	Special Mix (6 Suits)	2021-01-22 — 23:31:31 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	17	6	30
-411695	4	0	Special Mix (6 Suits)	2021-01-22 — 23:28:07 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	24	6	30
-411370	2	30	Dark Rainbow (6 Suits)	2021-01-22 — 15:25:17 UTC	aquarelle, boba	75	6	30
-410941	3	30	Rainbow (6 Suits)	2021-01-22 — 01:05:49 UTC	boba, Etherealz, missyalyssi	196	6	30
-410928	2	29	Dark Rainbow (6 Suits)	2021-01-22 — 00:28:10 UTC	aquarelle, boba	88	6	30
-410924	2	0	Dark Rainbow (6 Suits)	2021-01-22 — 00:17:43 UTC	aquarelle, boba	91	6	30
-410920	2	0	Dark Rainbow (6 Suits)	2021-01-22 — 00:13:05 UTC	aquarelle, boba	95	6	30
+411695	4	0	Special Mix (6 Suits)	2021-01-22 — 23:28:07 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	25	6	30
+411370	2	30	Dark Rainbow (6 Suits)	2021-01-22 — 15:25:17 UTC	aquarelle, boba	77	6	30
+410941	3	30	Rainbow (6 Suits)	2021-01-22 — 01:05:49 UTC	boba, Etherealz, missyalyssi	198	6	30
+410928	2	29	Dark Rainbow (6 Suits)	2021-01-22 — 00:28:10 UTC	aquarelle, boba	91	6	30
+410924	2	0	Dark Rainbow (6 Suits)	2021-01-22 — 00:17:43 UTC	aquarelle, boba	94	6	30
+410920	2	0	Dark Rainbow (6 Suits)	2021-01-22 — 00:13:05 UTC	aquarelle, boba	98	6	30
 410416	3	25	Muddy Rainbow (5 Suits)	2021-01-21 — 09:23:14 UTC	Animex52, boba, catula	37	5	25
 410328	3	27	Dual-Color Mix	2021-01-21 — 05:52:00 UTC	boba, HelanaAshryvr, newduke	7	6	30
 410289	3	24	Dual-Color Mix	2021-01-21 — 04:47:26 UTC	boba, HelanaAshryvr, newduke	8	6	30
 410258	3	0	Dual-Color Mix	2021-01-21 — 04:16:32 UTC	boba, HelanaAshryvr, newduke	9	6	30
 410242	3	0	Dual-Color Mix	2021-01-21 — 04:03:54 UTC	boba, HelanaAshryvr, newduke	9	6	30
-410231	5	30	Rainbow (6 Suits)	2021-01-21 — 03:45:16 UTC	aquarelle, boba, Etherealz, HelanaAshryvr, missyalyssi	59	6	30
-410213	3	29	Rainbow (6 Suits)	2021-01-21 — 03:23:49 UTC	boba, Etherealz, missyalyssi	215	6	30
-410178	3	25	Black (5 Suits)	2021-01-21 — 02:32:30 UTC	aquarelle, boba, Lel0uch	171	5	25
-410172	2	20	Muddy Rainbow (4 Suits)	2021-01-21 — 02:21:10 UTC	aquarelle, boba	29	4	20
-410168	2	0	Muddy Rainbow (4 Suits)	2021-01-21 — 02:14:43 UTC	aquarelle, boba	47	4	20
+410231	5	30	Rainbow (6 Suits)	2021-01-21 — 03:45:16 UTC	aquarelle, boba, Etherealz, HelanaAshryvr, missyalyssi	60	6	30
+410213	3	29	Rainbow (6 Suits)	2021-01-21 — 03:23:49 UTC	boba, Etherealz, missyalyssi	217	6	30
+410178	3	25	Black (5 Suits)	2021-01-21 — 02:32:30 UTC	aquarelle, boba, Lel0uch	174	5	25
+410172	2	20	Muddy Rainbow (4 Suits)	2021-01-21 — 02:21:10 UTC	aquarelle, boba	30	4	20
+410168	2	0	Muddy Rainbow (4 Suits)	2021-01-21 — 02:14:43 UTC	aquarelle, boba	49	4	20
 409542	2	30	Dark Prism (6 Suits)	2021-01-20 — 12:25:57 UTC	boba, Lel0uch	22	6	30
 409535	2	0	Dark Prism (6 Suits)	2021-01-20 — 12:14:31 UTC	boba, Lel0uch	24	6	30
 409529	2	0	Dark Prism (6 Suits)	2021-01-20 — 12:10:20 UTC	boba, Lel0uch	25	6	30
 409285	4	23	Prism (5 Suits)	2021-01-20 — 04:25:45 UTC	Animex52, aquarelle, boba, FerKeth	20	5	25
-409193	2	25	Dark Rainbow (5 Suits)	2021-01-20 — 02:49:17 UTC	aquarelle, boba	39	5	25
-409184	2	0	Dark Rainbow (5 Suits)	2021-01-20 — 02:38:54 UTC	aquarelle, boba	47	5	25
-409181	2	0	Dark Rainbow (5 Suits)	2021-01-20 — 02:34:55 UTC	aquarelle, boba	71	5	25
-409130	4	0	Rainbow (6 Suits)	2021-01-20 — 01:24:29 UTC	boba, Etherealz, FerKeth, missyalyssi	163	6	30
-409106	4	30	Rainbow (6 Suits)	2021-01-20 — 00:46:46 UTC	boba, Etherealz, FerKeth, missyalyssi	275	6	30
-409090	3	0	Rainbow (6 Suits)	2021-01-20 — 00:18:52 UTC	boba, Etherealz, missyalyssi	237	6	30
-409086	3	28	Rainbow (6 Suits)	2021-01-20 — 00:16:20 UTC	boba, Etherealz, missyalyssi	332	6	30
-409075	3	0	Rainbow (6 Suits)	2021-01-19 — 23:55:55 UTC	boba, Etherealz, missyalyssi	689	6	30
+409193	2	25	Dark Rainbow (5 Suits)	2021-01-20 — 02:49:17 UTC	aquarelle, boba	41	5	25
+409184	2	0	Dark Rainbow (5 Suits)	2021-01-20 — 02:38:54 UTC	aquarelle, boba	49	5	25
+409181	2	0	Dark Rainbow (5 Suits)	2021-01-20 — 02:34:55 UTC	aquarelle, boba	72	5	25
+409130	4	0	Rainbow (6 Suits)	2021-01-20 — 01:24:29 UTC	boba, Etherealz, FerKeth, missyalyssi	164	6	30
+409106	4	30	Rainbow (6 Suits)	2021-01-20 — 00:46:46 UTC	boba, Etherealz, FerKeth, missyalyssi	280	6	30
+409090	3	0	Rainbow (6 Suits)	2021-01-20 — 00:18:52 UTC	boba, Etherealz, missyalyssi	239	6	30
+409086	3	28	Rainbow (6 Suits)	2021-01-20 — 00:16:20 UTC	boba, Etherealz, missyalyssi	335	6	30
+409075	3	0	Rainbow (6 Suits)	2021-01-19 — 23:55:55 UTC	boba, Etherealz, missyalyssi	693	6	30
 408551	2	23	Black & Rainbow (5 Suits)	2021-01-19 — 11:38:33 UTC	boba, Durandal	11	5	25
 408549	2	0	Black & Rainbow (5 Suits)	2021-01-19 — 11:29:43 UTC	boba, Durandal	11	5	25
 408548	2	0	Black & Rainbow (5 Suits)	2021-01-19 — 11:23:13 UTC	boba, Durandal	11	5	25
 408545	2	22	Black & Rainbow (5 Suits)	2021-01-19 — 11:14:32 UTC	boba, Durandal	11	5	25
-408541	2	22	Black & Rainbow (5 Suits)	2021-01-19 — 11:04:07 UTC	boba, Durandal	11	5	25
-408537	2	23	Black & Rainbow (5 Suits)	2021-01-19 — 10:54:14 UTC	boba, Durandal	12	5	25
+408541	2	22	Black & Rainbow (5 Suits)	2021-01-19 — 11:04:07 UTC	boba, Durandal	12	5	25
+408537	2	23	Black & Rainbow (5 Suits)	2021-01-19 — 10:54:14 UTC	boba, Durandal	13	5	25
 408270	3	27	Dual-Color Mix	2021-01-19 — 04:09:21 UTC	boba, HelanaAshryvr, newduke	9	6	30
 408219	3	0	Dual-Color Mix	2021-01-19 — 03:22:26 UTC	boba, HelanaAshryvr, newduke	11	6	30
 408188	3	0	Dual-Color Mix	2021-01-19 — 02:51:30 UTC	boba, HelanaAshryvr, newduke	10	6	30
-408159	3	0	No Variant	2021-01-19 — 02:31:38 UTC	boba, HelanaAshryvr, newduke	220	5	25
-408019	2	21	Dark Rainbow (5 Suits)	2021-01-18 — 23:52:16 UTC	boba, ChristopheAF	79	5	25
-407401	2	0	Dark Rainbow (6 Suits)	2021-01-18 — 13:28:27 UTC	aquarelle, boba	102	6	30
-407396	2	0	Dark Rainbow (6 Suits)	2021-01-18 — 13:16:46 UTC	aquarelle, boba	110	6	30
-407392	2	25	No Variant	2021-01-18 — 13:13:12 UTC	aquarelle, boba	3507	5	25
-407373	2	22	No Variant	2021-01-18 — 12:32:48 UTC	Animex52, boba	1703	5	25
-407361	2	22	Black & Rainbow (5 Suits)	2021-01-18 — 12:10:58 UTC	boba, Durandal	13	5	25
+408159	3	0	No Variant	2021-01-19 — 02:31:38 UTC	boba, HelanaAshryvr, newduke	224	5	25
+408019	2	21	Dark Rainbow (5 Suits)	2021-01-18 — 23:52:16 UTC	boba, ChristopheAF	80	5	25
+407401	2	0	Dark Rainbow (6 Suits)	2021-01-18 — 13:28:27 UTC	aquarelle, boba	105	6	30
+407396	2	0	Dark Rainbow (6 Suits)	2021-01-18 — 13:16:46 UTC	aquarelle, boba	113	6	30
+407392	2	25	No Variant	2021-01-18 — 13:13:12 UTC	aquarelle, boba	3537	5	25
+407373	2	22	No Variant	2021-01-18 — 12:32:48 UTC	Animex52, boba	1721	5	25
+407361	2	22	Black & Rainbow (5 Suits)	2021-01-18 — 12:10:58 UTC	boba, Durandal	14	5	25
 407160	3	28	Dual-Color Mix	2021-01-18 — 07:32:24 UTC	boba, HelanaAshryvr, newduke	11	6	30
 407153	3	0	Dual-Color Mix	2021-01-18 — 07:01:14 UTC	boba, HelanaAshryvr, newduke	11	6	30
-407132	3	0	Dual-Color Mix	2021-01-18 — 06:34:26 UTC	boba, HelanaAshryvr, newduke	12	6	30
-406238	2	25	Dual-Color (5 Suits)	2021-01-17 — 08:43:19 UTC	Animex52, boba	53	5	25
-406234	2	22	Dual-Color (5 Suits)	2021-01-17 — 08:34:12 UTC	Animex52, boba	63	5	25
-406231	2	0	Dual-Color (5 Suits)	2021-01-17 — 08:22:55 UTC	Animex52, boba	74	5	25
-406228	2	0	Dual-Color (5 Suits)	2021-01-17 — 08:18:56 UTC	Animex52, boba	85	5	25
+407132	3	0	Dual-Color Mix	2021-01-18 — 06:34:26 UTC	boba, HelanaAshryvr, newduke	13	6	30
+406238	2	25	Dual-Color (5 Suits)	2021-01-17 — 08:43:19 UTC	Animex52, boba	54	5	25
+406234	2	22	Dual-Color (5 Suits)	2021-01-17 — 08:34:12 UTC	Animex52, boba	64	5	25
+406231	2	0	Dual-Color (5 Suits)	2021-01-17 — 08:22:55 UTC	Animex52, boba	76	5	25
+406228	2	0	Dual-Color (5 Suits)	2021-01-17 — 08:18:56 UTC	Animex52, boba	87	5	25
 406219	2	19	Duck (4 Suits)	2021-01-17 — 08:09:35 UTC	Animex52, boba	8	4	20
 406204	2	0	Duck (4 Suits)	2021-01-17 — 07:45:40 UTC	Animex52, boba	9	4	20
 406191	2	0	Duck (4 Suits)	2021-01-17 — 07:21:12 UTC	Animex52, boba	11	4	20
@@ -896,7 +906,7 @@
 406023	2	0	Null (4 Suits)	2021-01-17 — 04:24:01 UTC	Animex52, boba	8	4	20
 405215	3	29	Dual-Color Mix	2021-01-16 — 16:20:29 UTC	aquarelle, boba, HelanaAshryvr	16	6	30
 405206	3	0	4 Suits	2021-01-16 — 16:02:18 UTC	aquarelle, boba, HelanaAshryvr	90	4	20
-405204	2	30	Rainbow (6 Suits)	2021-01-16 — 15:59:50 UTC	aquarelle, boba	102	6	30
+405204	2	30	Rainbow (6 Suits)	2021-01-16 — 15:59:50 UTC	aquarelle, boba	103	6	30
 404948	5	0	Brown-Ones & White (6 Suits)	2021-01-16 — 06:09:16 UTC	boba, FerKeth, HelanaAshryvr, indego, Lanvin	2	6	30
 404933	5	0	Brown-Ones & White (6 Suits)	2021-01-16 — 05:55:40 UTC	boba, FerKeth, HelanaAshryvr, indego, Lanvin	2	6	30
 404901	4	27	Dual-Color (6 Suits)	2021-01-16 — 05:33:07 UTC	boba, FerKeth, HelanaAshryvr, Lanvin	39	6	30
@@ -908,12 +918,12 @@
 403932	2	28	Black & Prism (6 Suits)	2021-01-15 — 10:46:53 UTC	boba, Lel0uch	25	6	30
 403930	2	28	Black & Prism (6 Suits)	2021-01-15 — 10:37:30 UTC	boba, Lel0uch	25	6	30
 403929	2	0	Black & Prism (6 Suits)	2021-01-15 — 10:27:44 UTC	boba, Lel0uch	31	6	30
-403926	2	30	Rainbow & Omni (6 Suits)	2021-01-15 — 10:22:25 UTC	boba, Lel0uch	15	6	30
+403926	2	30	Rainbow & Omni (6 Suits)	2021-01-15 — 10:22:25 UTC	boba, Lel0uch	18	6	30
 403923	2	20	Rainbow & Prism (4 Suits)	2021-01-15 — 10:09:28 UTC	boba, Lel0uch	6	4	20
-403920	2	19	Rainbow & Prism (4 Suits)	2021-01-15 — 10:04:28 UTC	boba, Lel0uch	11	4	20
-403048	2	0	Black & Prism (5 Suits)	2021-01-14 — 15:11:15 UTC	boba, Durandal	7	5	25
-403041	2	23	Black & Prism (5 Suits)	2021-01-14 — 15:01:45 UTC	boba, Durandal	9	5	25
-403028	2	0	Black & Prism (5 Suits)	2021-01-14 — 14:50:56 UTC	boba, Durandal	9	5	25
+403920	2	19	Rainbow & Prism (4 Suits)	2021-01-15 — 10:04:28 UTC	boba, Lel0uch	12	4	20
+403048	2	0	Black & Prism (5 Suits)	2021-01-14 — 15:11:15 UTC	boba, Durandal	8	5	25
+403041	2	23	Black & Prism (5 Suits)	2021-01-14 — 15:01:45 UTC	boba, Durandal	10	5	25
+403028	2	0	Black & Prism (5 Suits)	2021-01-14 — 14:50:56 UTC	boba, Durandal	10	5	25
 403026	2	24	Black & Prism (5 Suits)	2021-01-14 — 14:45:50 UTC	boba, Durandal	10	5	25
 403018	2	0	Black & Prism (5 Suits)	2021-01-14 — 14:36:53 UTC	boba, Durandal	11	5	25
 403017	2	24	Black & Prism (5 Suits)	2021-01-14 — 14:33:29 UTC	boba, Durandal	16	5	25
@@ -924,7 +934,7 @@
 402956	4	28	Dual-Color (6 Suits)	2021-01-14 — 10:58:08 UTC	boba, Fey, hakha3, Lel0uch	10	6	30
 402949	3	0	Dual-Color Mix	2021-01-14 — 10:33:34 UTC	boba, Fey, Lel0uch	19	6	30
 402947	3	0	Dual-Color Mix	2021-01-14 — 10:31:02 UTC	boba, Fey, Lel0uch	18	6	30
-402943	3	0	Dual-Color Mix	2021-01-14 — 10:25:15 UTC	boba, Fey, Lel0uch	17	6	30
+402943	3	0	Dual-Color Mix	2021-01-14 — 10:25:15 UTC	boba, Fey, Lel0uch	18	6	30
 402937	3	0	Dual-Color Mix	2021-01-14 — 10:17:26 UTC	boba, Fey, Lel0uch	20	6	30
 402791	3	0	Gray Reversed (5 Suits)	2021-01-14 — 05:29:31 UTC	boba, FerKeth, indego	7	5	25
 402752	3	24	Prism Reversed (5 Suits)	2021-01-14 — 04:48:26 UTC	aquarelle, boba, indego	11	5	25
@@ -936,104 +946,104 @@
 402652	3	14	Duck (3 Suits)	2021-01-14 — 03:00:51 UTC	Animex52, aquarelle, boba	21	3	15
 402592	4	0	Dual-Color Mix	2021-01-14 — 02:06:35 UTC	Animex52, boba, catula, newduke	12	6	30
 402577	4	0	Dual-Color Mix	2021-01-14 — 01:44:42 UTC	Animex52, boba, catula, newduke	18	6	30
-402089	3	0	Gray Pink (6 Suits)	2021-01-13 — 16:54:21 UTC	boba, ChristopheAF, Lel0uch	15	6	30
-402080	3	0	Gray Pink (6 Suits)	2021-01-13 — 16:34:25 UTC	boba, ChristopheAF, Lel0uch	21	6	30
-402072	3	29	Gray Pink (6 Suits)	2021-01-13 — 16:15:26 UTC	boba, ChristopheAF, Lel0uch	24	6	30
-402064	3	0	Gray Pink (6 Suits)	2021-01-13 — 15:54:29 UTC	boba, ChristopheAF, Lel0uch	25	6	30
-402059	2	0	Gray Pink (6 Suits)	2021-01-13 — 15:45:20 UTC	boba, Lel0uch	20	6	30
-402050	2	0	Gray Pink (6 Suits)	2021-01-13 — 15:30:07 UTC	boba, Lel0uch	2	6	30
-402047	2	0	Gray Pink (6 Suits)	2021-01-13 — 15:24:17 UTC	boba, Lel0uch	2	6	30
-402040	2	0	Gray Pink (6 Suits)	2021-01-13 — 15:17:05 UTC	boba, Lel0uch	2	6	30
-402035	2	0	Gray Pink (6 Suits)	2021-01-13 — 15:11:41 UTC	boba, Lel0uch	2	6	30
-402032	2	0	Gray Pink (6 Suits)	2021-01-13 — 15:06:30 UTC	boba, Lel0uch	2	6	30
-402029	2	0	Gray Pink (6 Suits)	2021-01-13 — 14:59:58 UTC	boba, Lel0uch	2	6	30
-402028	2	27	Gray Pink (6 Suits)	2021-01-13 — 14:57:36 UTC	boba, Lel0uch	2	6	30
-402022	2	0	Gray Pink (6 Suits)	2021-01-13 — 14:47:53 UTC	boba, Lel0uch	2	6	30
-402018	2	0	Gray Pink (6 Suits)	2021-01-13 — 14:43:31 UTC	boba, Lel0uch	2	6	30
-402017	2	0	Gray Pink (6 Suits)	2021-01-13 — 14:36:54 UTC	boba, Lel0uch	2	6	30
-402016	2	28	Gray Pink (6 Suits)	2021-01-13 — 14:30:56 UTC	boba, Lel0uch	3	6	30
-402013	2	0	Gray Pink (6 Suits)	2021-01-13 — 14:20:21 UTC	boba, Lel0uch	3	6	30
-402011	2	0	Gray Pink (6 Suits)	2021-01-13 — 14:13:33 UTC	boba, Lel0uch	3	6	30
-402009	2	23	Gray Pink (6 Suits)	2021-01-13 — 14:07:25 UTC	boba, Lel0uch	3	6	30
-402004	2	25	Gray Pink (6 Suits)	2021-01-13 — 13:57:49 UTC	boba, Lel0uch	3	6	30
-402000	2	0	Gray Pink (6 Suits)	2021-01-13 — 13:44:59 UTC	boba, Lel0uch	3	6	30
-401998	2	0	Gray Pink (6 Suits)	2021-01-13 — 13:35:14 UTC	boba, Lel0uch	3	6	30
-401995	2	0	Gray Pink (6 Suits)	2021-01-13 — 13:24:57 UTC	boba, Lel0uch	5	6	30
-401991	2	0	Gray Pink (6 Suits)	2021-01-13 — 13:15:18 UTC	boba, Lel0uch	6	6	30
+402089	3	0	Gray Pink (6 Suits)	2021-01-13 — 16:54:21 UTC	boba, ChristopheAF, Lel0uch	16	6	30
+402080	3	0	Gray Pink (6 Suits)	2021-01-13 — 16:34:25 UTC	boba, ChristopheAF, Lel0uch	22	6	30
+402072	3	29	Gray Pink (6 Suits)	2021-01-13 — 16:15:26 UTC	boba, ChristopheAF, Lel0uch	25	6	30
+402064	3	0	Gray Pink (6 Suits)	2021-01-13 — 15:54:29 UTC	boba, ChristopheAF, Lel0uch	26	6	30
+402059	2	0	Gray Pink (6 Suits)	2021-01-13 — 15:45:20 UTC	boba, Lel0uch	22	6	30
+402050	2	0	Gray Pink (6 Suits)	2021-01-13 — 15:30:07 UTC	boba, Lel0uch	4	6	30
+402047	2	0	Gray Pink (6 Suits)	2021-01-13 — 15:24:17 UTC	boba, Lel0uch	4	6	30
+402040	2	0	Gray Pink (6 Suits)	2021-01-13 — 15:17:05 UTC	boba, Lel0uch	4	6	30
+402035	2	0	Gray Pink (6 Suits)	2021-01-13 — 15:11:41 UTC	boba, Lel0uch	4	6	30
+402032	2	0	Gray Pink (6 Suits)	2021-01-13 — 15:06:30 UTC	boba, Lel0uch	4	6	30
+402029	2	0	Gray Pink (6 Suits)	2021-01-13 — 14:59:58 UTC	boba, Lel0uch	4	6	30
+402028	2	27	Gray Pink (6 Suits)	2021-01-13 — 14:57:36 UTC	boba, Lel0uch	4	6	30
+402022	2	0	Gray Pink (6 Suits)	2021-01-13 — 14:47:53 UTC	boba, Lel0uch	4	6	30
+402018	2	0	Gray Pink (6 Suits)	2021-01-13 — 14:43:31 UTC	boba, Lel0uch	4	6	30
+402017	2	0	Gray Pink (6 Suits)	2021-01-13 — 14:36:54 UTC	boba, Lel0uch	4	6	30
+402016	2	28	Gray Pink (6 Suits)	2021-01-13 — 14:30:56 UTC	boba, Lel0uch	5	6	30
+402013	2	0	Gray Pink (6 Suits)	2021-01-13 — 14:20:21 UTC	boba, Lel0uch	5	6	30
+402011	2	0	Gray Pink (6 Suits)	2021-01-13 — 14:13:33 UTC	boba, Lel0uch	5	6	30
+402009	2	23	Gray Pink (6 Suits)	2021-01-13 — 14:07:25 UTC	boba, Lel0uch	5	6	30
+402004	2	25	Gray Pink (6 Suits)	2021-01-13 — 13:57:49 UTC	boba, Lel0uch	5	6	30
+402000	2	0	Gray Pink (6 Suits)	2021-01-13 — 13:44:59 UTC	boba, Lel0uch	5	6	30
+401998	2	0	Gray Pink (6 Suits)	2021-01-13 — 13:35:14 UTC	boba, Lel0uch	5	6	30
+401995	2	0	Gray Pink (6 Suits)	2021-01-13 — 13:24:57 UTC	boba, Lel0uch	7	6	30
+401991	2	0	Gray Pink (6 Suits)	2021-01-13 — 13:15:18 UTC	boba, Lel0uch	8	6	30
 401985	6	23	Black (5 Suits)	2021-01-13 — 13:02:28 UTC	boba, catula, hakha3, jack67889, Lel0uch, Sucubis	8	5	25
 401984	6	22	Black (5 Suits)	2021-01-13 — 12:42:23 UTC	boba, catula, hakha3, jack67889, Lel0uch, Sucubis	9	5	25
 401975	4	0	Black & Prism (5 Suits)	2021-01-13 — 12:22:17 UTC	boba, catula, Lel0uch, Sucubis	1	5	25
 401973	4	0	Black & Prism (5 Suits)	2021-01-13 — 12:15:22 UTC	boba, catula, Lel0uch, Sucubis	10	5	25
 401968	4	0	Black & Prism (5 Suits)	2021-01-13 — 12:01:21 UTC	boba, catula, Lel0uch, Sucubis	11	5	25
 401966	3	0	Black & White (5 Suits)	2021-01-13 — 11:53:57 UTC	boba, Lel0uch, Sucubis	31	5	25
-401948	3	0	Black & Brown (6 Suits)	2021-01-13 — 10:49:42 UTC	boba, Fey, sephiroth	17	6	30
+401948	3	0	Black & Brown (6 Suits)	2021-01-13 — 10:49:42 UTC	boba, Fey, sephiroth	18	6	30
 401942	4	25	White & Gray Pink (6 Suits)	2021-01-13 — 10:30:22 UTC	boba, Fey, Lel0uch, Wittvector	7	6	30
-401907	2	18	Null (4 Suits)	2021-01-13 — 08:09:22 UTC	Animex52, boba	14	4	20
-401781	3	0	Black (6 Suits)	2021-01-13 — 05:21:38 UTC	boba, FerKeth, HelanaAshryvr	97	6	30
+401907	2	18	Null (4 Suits)	2021-01-13 — 08:09:22 UTC	Animex52, boba	15	4	20
+401781	3	0	Black (6 Suits)	2021-01-13 — 05:21:38 UTC	boba, FerKeth, HelanaAshryvr	100	6	30
 401757	5	30	Brown (6 Suits)	2021-01-13 — 04:50:34 UTC	aquarelle, boba, FerKeth, HelanaAshryvr, Onen	16	6	30
 401054	5	28	Black & Dark Omni (6 Suits)	2021-01-12 — 10:21:42 UTC	boba, Lel0uch, methmatics, sephiroth, Sucubis	2	6	30
 401050	3	0	Dark Omni (5 Suits)	2021-01-12 — 09:53:00 UTC	boba, Lel0uch, methmatics	7	5	25
 401048	3	0	Dark Omni (5 Suits)	2021-01-12 — 09:50:16 UTC	boba, Lel0uch, methmatics	12	5	25
 401043	3	0	Dark Omni (5 Suits)	2021-01-12 — 09:35:41 UTC	boba, Lel0uch, methmatics	13	5	25
-401037	2	18	Null (4 Suits)	2021-01-12 — 09:12:30 UTC	Animex52, boba	16	4	20
-401034	2	18	Null (4 Suits)	2021-01-12 — 08:52:54 UTC	Animex52, boba	16	4	20
-401030	2	0	Null (4 Suits)	2021-01-12 — 08:37:40 UTC	Animex52, boba	19	4	20
+401037	2	18	Null (4 Suits)	2021-01-12 — 09:12:30 UTC	Animex52, boba	17	4	20
+401034	2	18	Null (4 Suits)	2021-01-12 — 08:52:54 UTC	Animex52, boba	17	4	20
+401030	2	0	Null (4 Suits)	2021-01-12 — 08:37:40 UTC	Animex52, boba	21	4	20
 400775	4	30	Rainbow-Ones (6 Suits)	2021-01-12 — 03:59:43 UTC	aquarelle, boba, HelanaAshryvr, Onen	15	6	30
-400717	3	20	Null (4 Suits)	2021-01-12 — 03:16:54 UTC	aquarelle, boba, HelanaAshryvr	23	4	20
+400717	3	20	Null (4 Suits)	2021-01-12 — 03:16:54 UTC	aquarelle, boba, HelanaAshryvr	24	4	20
 400683	2	0	Black & White (6 Suits)	2021-01-12 — 02:43:18 UTC	boba, HelanaAshryvr	12	6	30
-400581	2	15	Muddy Rainbow (3 Suits)	2021-01-12 — 00:25:41 UTC	boba, HelanaAshryvr	23	3	15
-400576	2	12	Muddy Rainbow (3 Suits)	2021-01-12 — 00:16:52 UTC	boba, HelanaAshryvr	36	3	15
-400235	2	27	Gray Pink (6 Suits)	2021-01-11 — 17:32:51 UTC	boba, Lel0uch	6	6	30
-400227	2	29	Gray Pink (6 Suits)	2021-01-11 — 17:18:55 UTC	boba, Lel0uch	7	6	30
-400215	2	0	Gray Pink (6 Suits)	2021-01-11 — 17:07:34 UTC	boba, Lel0uch	7	6	30
-400211	2	0	Gray Pink (6 Suits)	2021-01-11 — 17:02:00 UTC	boba, Lel0uch	7	6	30
-400103	2	29	Gray Pink (6 Suits)	2021-01-11 — 12:16:23 UTC	boba, Durandal	7	6	30
-400102	2	0	Gray Pink (6 Suits)	2021-01-11 — 12:06:34 UTC	boba, Durandal	7	6	30
-400099	2	29	Gray Pink (6 Suits)	2021-01-11 — 11:56:30 UTC	boba, Durandal	7	6	30
-400084	2	24	Gray Pink (6 Suits)	2021-01-11 — 10:07:59 UTC	boba, Lel0uch	7	6	30
-400083	2	0	Gray Pink (6 Suits)	2021-01-11 — 09:56:59 UTC	boba, Lel0uch	10	6	30
-400080	2	29	Gray Pink (6 Suits)	2021-01-11 — 09:44:37 UTC	boba, Lel0uch	20	6	30
-400074	2	0	Gray Pink (6 Suits)	2021-01-11 — 09:28:56 UTC	boba, Lel0uch	19	6	30
-400062	2	0	Gray Pink (6 Suits)	2021-01-11 — 09:04:32 UTC	boba, Lel0uch	21	6	30
-400060	2	0	Gray Pink (6 Suits)	2021-01-11 — 08:53:45 UTC	boba, Lel0uch	22	6	30
-400054	2	0	Gray Pink (6 Suits)	2021-01-11 — 08:48:05 UTC	boba, Lel0uch	22	6	30
-400052	2	0	Gray Pink (6 Suits)	2021-01-11 — 08:46:47 UTC	boba, Lel0uch	26	6	30
-400051	2	0	Gray Pink (6 Suits)	2021-01-11 — 08:42:38 UTC	boba, Lel0uch	29	6	30
-400044	2	25	Gray Pink (6 Suits)	2021-01-11 — 08:33:09 UTC	boba, Lel0uch	30	6	30
-400030	2	28	Gray Pink (6 Suits)	2021-01-11 — 08:11:31 UTC	boba, Lel0uch	34	6	30
-400006	2	26	Gray Pink (6 Suits)	2021-01-11 — 07:35:26 UTC	boba, Lel0uch	38	6	30
-399844	4	30	Rainbow (6 Suits)	2021-01-11 — 04:00:53 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	185	6	30
-399829	4	0	Rainbow (6 Suits)	2021-01-11 — 03:41:23 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	200	6	30
-399806	4	23	Black (5 Suits)	2021-01-11 — 03:18:55 UTC	aquarelle, boba, FerKeth, nkkarpov	44	5	25
+400581	2	15	Muddy Rainbow (3 Suits)	2021-01-12 — 00:25:41 UTC	boba, HelanaAshryvr	25	3	15
+400576	2	12	Muddy Rainbow (3 Suits)	2021-01-12 — 00:16:52 UTC	boba, HelanaAshryvr	38	3	15
+400235	2	27	Gray Pink (6 Suits)	2021-01-11 — 17:32:51 UTC	boba, Lel0uch	8	6	30
+400227	2	29	Gray Pink (6 Suits)	2021-01-11 — 17:18:55 UTC	boba, Lel0uch	9	6	30
+400215	2	0	Gray Pink (6 Suits)	2021-01-11 — 17:07:34 UTC	boba, Lel0uch	9	6	30
+400211	2	0	Gray Pink (6 Suits)	2021-01-11 — 17:02:00 UTC	boba, Lel0uch	9	6	30
+400103	2	29	Gray Pink (6 Suits)	2021-01-11 — 12:16:23 UTC	boba, Durandal	9	6	30
+400102	2	0	Gray Pink (6 Suits)	2021-01-11 — 12:06:34 UTC	boba, Durandal	9	6	30
+400099	2	29	Gray Pink (6 Suits)	2021-01-11 — 11:56:30 UTC	boba, Durandal	9	6	30
+400084	2	24	Gray Pink (6 Suits)	2021-01-11 — 10:07:59 UTC	boba, Lel0uch	9	6	30
+400083	2	0	Gray Pink (6 Suits)	2021-01-11 — 09:56:59 UTC	boba, Lel0uch	12	6	30
+400080	2	29	Gray Pink (6 Suits)	2021-01-11 — 09:44:37 UTC	boba, Lel0uch	22	6	30
+400074	2	0	Gray Pink (6 Suits)	2021-01-11 — 09:28:56 UTC	boba, Lel0uch	21	6	30
+400062	2	0	Gray Pink (6 Suits)	2021-01-11 — 09:04:32 UTC	boba, Lel0uch	22	6	30
+400060	2	0	Gray Pink (6 Suits)	2021-01-11 — 08:53:45 UTC	boba, Lel0uch	23	6	30
+400054	2	0	Gray Pink (6 Suits)	2021-01-11 — 08:48:05 UTC	boba, Lel0uch	23	6	30
+400052	2	0	Gray Pink (6 Suits)	2021-01-11 — 08:46:47 UTC	boba, Lel0uch	27	6	30
+400051	2	0	Gray Pink (6 Suits)	2021-01-11 — 08:42:38 UTC	boba, Lel0uch	30	6	30
+400044	2	25	Gray Pink (6 Suits)	2021-01-11 — 08:33:09 UTC	boba, Lel0uch	31	6	30
+400030	2	28	Gray Pink (6 Suits)	2021-01-11 — 08:11:31 UTC	boba, Lel0uch	36	6	30
+400006	2	26	Gray Pink (6 Suits)	2021-01-11 — 07:35:26 UTC	boba, Lel0uch	40	6	30
+399844	4	30	Rainbow (6 Suits)	2021-01-11 — 04:00:53 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	188	6	30
+399829	4	0	Rainbow (6 Suits)	2021-01-11 — 03:41:23 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	205	6	30
+399806	4	23	Black (5 Suits)	2021-01-11 — 03:18:55 UTC	aquarelle, boba, FerKeth, nkkarpov	47	5	25
 399772	5	0	Rainbow (6 Suits)	2021-01-11 — 02:40:08 UTC	antitelharsic, boba, FerKeth, HelanaAshryvr, nkkarpov	49	6	30
 399745	5	0	Rainbow (6 Suits)	2021-01-11 — 01:51:26 UTC	antitelharsic, boba, FerKeth, HelanaAshryvr, nkkarpov	83	6	30
-399251	2	30	Black & White (6 Suits)	2021-01-10 — 16:33:00 UTC	boba, Lel0uch	12	6	30
-399246	2	0	Black & White (6 Suits)	2021-01-10 — 16:18:57 UTC	boba, Lel0uch	15	6	30
-399239	2	29	Black & White (6 Suits)	2021-01-10 — 16:02:00 UTC	boba, Lel0uch	27	6	30
-399228	2	29	Black & White (6 Suits)	2021-01-10 — 15:43:03 UTC	boba, Lel0uch	35	6	30
-399220	2	27	Black & White (6 Suits)	2021-01-10 — 15:23:36 UTC	boba, Lel0uch	38	6	30
+399251	2	30	Black & White (6 Suits)	2021-01-10 — 16:33:00 UTC	boba, Lel0uch	13	6	30
+399246	2	0	Black & White (6 Suits)	2021-01-10 — 16:18:57 UTC	boba, Lel0uch	16	6	30
+399239	2	29	Black & White (6 Suits)	2021-01-10 — 16:02:00 UTC	boba, Lel0uch	28	6	30
+399228	2	29	Black & White (6 Suits)	2021-01-10 — 15:43:03 UTC	boba, Lel0uch	36	6	30
+399220	2	27	Black & White (6 Suits)	2021-01-10 — 15:23:36 UTC	boba, Lel0uch	40	6	30
 399210	2	25	Cocoa Rainbow (5 Suits)	2021-01-10 — 14:56:32 UTC	boba, Lel0uch	20	5	25
 399203	2	0	Cocoa Rainbow (5 Suits)	2021-01-10 — 14:43:36 UTC	boba, Lel0uch	29	5	25
-399193	5	25	No Variant	2021-01-10 — 14:21:27 UTC	banjoleb, boba, CaitlinSmith, ChristopheAF, Kaznad	176	5	25
-398907	3	30	Dual-Color (6 Suits)	2021-01-10 — 06:53:25 UTC	boba, FerKeth, HelanaAshryvr	43	6	30
-398855	3	0	Rainbow (4 Suits)	2021-01-10 — 06:13:46 UTC	aquarelle, boba, FerKeth	84	4	20
-398624	2	28	Rainbow (6 Suits)	2021-01-10 — 03:18:10 UTC	boba, FerKeth	106	6	30
-398579	2	30	Rainbow (6 Suits)	2021-01-10 — 02:42:36 UTC	boba, FerKeth	106	6	30
-397865	2	30	Dual-Color (6 Suits)	2021-01-09 — 16:54:20 UTC	boba, Lel0uch	71	6	30
-397855	2	0	Dual-Color (6 Suits)	2021-01-09 — 16:37:33 UTC	boba, Lel0uch	87	6	30
-397849	2	25	Rainbow & Gray (5 Suits)	2021-01-09 — 16:30:58 UTC	boba, Lel0uch	19	5	25
+399193	5	25	No Variant	2021-01-10 — 14:21:27 UTC	banjoleb, boba, CaitlinSmith, ChristopheAF, Kaznad	178	5	25
+398907	3	30	Dual-Color (6 Suits)	2021-01-10 — 06:53:25 UTC	boba, FerKeth, HelanaAshryvr	44	6	30
+398855	3	0	Rainbow (4 Suits)	2021-01-10 — 06:13:46 UTC	aquarelle, boba, FerKeth	85	4	20
+398624	2	28	Rainbow (6 Suits)	2021-01-10 — 03:18:10 UTC	boba, FerKeth	107	6	30
+398579	2	30	Rainbow (6 Suits)	2021-01-10 — 02:42:36 UTC	boba, FerKeth	108	6	30
+397865	2	30	Dual-Color (6 Suits)	2021-01-09 — 16:54:20 UTC	boba, Lel0uch	72	6	30
+397855	2	0	Dual-Color (6 Suits)	2021-01-09 — 16:37:33 UTC	boba, Lel0uch	89	6	30
+397849	2	25	Rainbow & Gray (5 Suits)	2021-01-09 — 16:30:58 UTC	boba, Lel0uch	20	5	25
 397811	2	22	Cocoa Rainbow (5 Suits)	2021-01-09 — 15:31:14 UTC	aquarelle, boba	40	5	25
-397806	2	23	Cocoa Rainbow (5 Suits)	2021-01-09 — 15:17:45 UTC	aquarelle, boba	50	5	25
+397806	2	23	Cocoa Rainbow (5 Suits)	2021-01-09 — 15:17:45 UTC	aquarelle, boba	51	5	25
 397785	2	30	Cocoa Rainbow (6 Suits)	2021-01-09 — 14:57:01 UTC	aquarelle, boba	20	6	30
 397775	2	0	Cocoa Rainbow (6 Suits)	2021-01-09 — 14:43:48 UTC	aquarelle, boba	21	6	30
-397764	2	0	Cocoa Rainbow (6 Suits)	2021-01-09 — 14:19:10 UTC	aquarelle, boba	23	6	30
-397731	2	0	Cocoa Rainbow (6 Suits)	2021-01-09 — 11:35:46 UTC	boba, Lel0uch	23	6	30
-397723	2	0	Cocoa Rainbow (6 Suits)	2021-01-09 — 11:23:56 UTC	boba, Lel0uch	34	6	30
+397764	2	0	Cocoa Rainbow (6 Suits)	2021-01-09 — 14:19:10 UTC	aquarelle, boba	24	6	30
+397731	2	0	Cocoa Rainbow (6 Suits)	2021-01-09 — 11:35:46 UTC	boba, Lel0uch	24	6	30
+397723	2	0	Cocoa Rainbow (6 Suits)	2021-01-09 — 11:23:56 UTC	boba, Lel0uch	35	6	30
 397682	4	26	Dual-Color Mix	2021-01-09 — 08:58:03 UTC	boba, derekcheah, dobi, Lel0uch	3	6	30
 397672	4	0	Dual-Color Mix	2021-01-09 — 08:32:00 UTC	boba, derekcheah, dobi, Lel0uch	2	6	30
 397668	4	0	Dual-Color Mix	2021-01-09 — 08:23:58 UTC	boba, derekcheah, dobi, Lel0uch	2	6	30
 397657	4	0	Dual-Color Mix	2021-01-09 — 08:08:28 UTC	boba, derekcheah, dobi, Lel0uch	3	6	30
-397536	5	30	Rainbow (6 Suits)	2021-01-09 — 05:50:40 UTC	boba, Etherealz, FerKeth, Lel0uch, missyalyssi	67	6	30
+397536	5	30	Rainbow (6 Suits)	2021-01-09 — 05:50:40 UTC	boba, Etherealz, FerKeth, Lel0uch, missyalyssi	68	6	30
 397490	4	30	Rainbow (6 Suits)	2021-01-09 — 05:16:18 UTC	boba, Etherealz, Lel0uch, missyalyssi	39	6	30
 397463	4	30	Rainbow (6 Suits)	2021-01-09 — 04:55:14 UTC	boba, Etherealz, Lel0uch, missyalyssi	41	6	30
 397435	5	26	Dark Brown (6 Suits)	2021-01-09 — 04:24:20 UTC	boba, Jake_Stiles, Lel0uch, melwen, Onen	10	6	30
@@ -1042,55 +1052,55 @@
 396730	2	22	Black & Rainbow (5 Suits)	2021-01-08 — 17:32:19 UTC	boba, Durandal	27	5	25
 396721	2	21	Black & Rainbow (5 Suits)	2021-01-08 — 17:17:07 UTC	boba, Durandal	28	5	25
 396718	2	0	Black & Rainbow (5 Suits)	2021-01-08 — 17:07:31 UTC	boba, Durandal	28	5	25
-396711	2	30	Black & Rainbow (6 Suits)	2021-01-08 — 16:55:49 UTC	boba, Durandal	28	6	30
-396659	2	26	Black & Rainbow (6 Suits)	2021-01-08 — 14:39:34 UTC	boba, Durandal	29	6	30
-396649	2	24	Black & Rainbow (6 Suits)	2021-01-08 — 14:24:31 UTC	boba, Durandal	29	6	30
-396642	2	25	Black & Rainbow (6 Suits)	2021-01-08 — 14:05:01 UTC	boba, Durandal	29	6	30
-396635	2	0	Black & Rainbow (6 Suits)	2021-01-08 — 13:49:37 UTC	boba, Durandal	33	6	30
-396628	2	0	Black & Rainbow (6 Suits)	2021-01-08 — 13:33:01 UTC	boba, Durandal	37	6	30
-396619	2	28	Black & Rainbow (6 Suits)	2021-01-08 — 13:09:51 UTC	boba, Durandal	45	6	30
-396610	2	26	Black & Rainbow (6 Suits)	2021-01-08 — 12:55:31 UTC	boba, Durandal	58	6	30
+396711	2	30	Black & Rainbow (6 Suits)	2021-01-08 — 16:55:49 UTC	boba, Durandal	29	6	30
+396659	2	26	Black & Rainbow (6 Suits)	2021-01-08 — 14:39:34 UTC	boba, Durandal	30	6	30
+396649	2	24	Black & Rainbow (6 Suits)	2021-01-08 — 14:24:31 UTC	boba, Durandal	30	6	30
+396642	2	25	Black & Rainbow (6 Suits)	2021-01-08 — 14:05:01 UTC	boba, Durandal	30	6	30
+396635	2	0	Black & Rainbow (6 Suits)	2021-01-08 — 13:49:37 UTC	boba, Durandal	34	6	30
+396628	2	0	Black & Rainbow (6 Suits)	2021-01-08 — 13:33:01 UTC	boba, Durandal	38	6	30
+396619	2	28	Black & Rainbow (6 Suits)	2021-01-08 — 13:09:51 UTC	boba, Durandal	47	6	30
+396610	2	26	Black & Rainbow (6 Suits)	2021-01-08 — 12:55:31 UTC	boba, Durandal	60	6	30
 396564	4	0	Dual-Color Mix	2021-01-08 — 10:58:35 UTC	boba, Fey, indego, Lel0uch	6	6	30
-396561	4	0	Dual-Color Mix	2021-01-08 — 10:42:51 UTC	boba, Fey, indego, Lel0uch	8	6	30
+396561	4	0	Dual-Color Mix	2021-01-08 — 10:42:51 UTC	boba, Fey, indego, Lel0uch	9	6	30
 396556	4	0	Dual-Color Mix	2021-01-08 — 10:27:14 UTC	boba, Fey, indego, Lel0uch	20	6	30
-396548	2	0	Dual-Color Mix	2021-01-08 — 10:02:42 UTC	boba, Lel0uch	26	6	30
-396543	2	26	Dual-Color Mix	2021-01-08 — 09:36:52 UTC	boba, Lel0uch	26	6	30
-396540	2	0	Dual-Color Mix	2021-01-08 — 09:20:37 UTC	boba, Lel0uch	43	6	30
-396538	2	28	Dual-Color Mix	2021-01-08 — 09:09:32 UTC	boba, Lel0uch	43	6	30
+396548	2	0	Dual-Color Mix	2021-01-08 — 10:02:42 UTC	boba, Lel0uch	27	6	30
+396543	2	26	Dual-Color Mix	2021-01-08 — 09:36:52 UTC	boba, Lel0uch	27	6	30
+396540	2	0	Dual-Color Mix	2021-01-08 — 09:20:37 UTC	boba, Lel0uch	44	6	30
+396538	2	28	Dual-Color Mix	2021-01-08 — 09:09:32 UTC	boba, Lel0uch	44	6	30
 395598	4	0	Null (6 Suits)	2021-01-07 — 17:09:33 UTC	boba, ChristopheAF, HelanaAshryvr, Lanvin	10	6	30
 395582	4	0	Null (6 Suits)	2021-01-07 — 16:35:45 UTC	boba, ChristopheAF, HelanaAshryvr, Lanvin	13	6	30
 395569	4	0	Null (6 Suits)	2021-01-07 — 16:10:13 UTC	boba, ChristopheAF, HelanaAshryvr, Lanvin	18	6	30
 395554	4	0	Null (6 Suits)	2021-01-07 — 15:48:14 UTC	boba, ChristopheAF, HelanaAshryvr, Lanvin	21	6	30
 395530	2	20	Black & Rainbow (5 Suits)	2021-01-07 — 15:03:21 UTC	boba, Durandal	29	5	25
 395524	2	0	Black & Rainbow (5 Suits)	2021-01-07 — 14:48:52 UTC	boba, Durandal	32	5	25
-395518	2	22	Black & Rainbow (5 Suits)	2021-01-07 — 14:38:28 UTC	boba, Durandal	39	5	25
-395514	2	23	Black & Rainbow (5 Suits)	2021-01-07 — 14:27:55 UTC	boba, Durandal	45	5	25
-395510	2	20	Black & Rainbow (5 Suits)	2021-01-07 — 14:16:37 UTC	boba, Durandal	47	5	25
-395429	2	19	Black & Rainbow (5 Suits)	2021-01-07 — 10:37:26 UTC	boba, Durandal	55	5	25
-395424	2	0	Black & Rainbow (5 Suits)	2021-01-07 — 10:27:45 UTC	boba, Durandal	61	5	25
+395518	2	22	Black & Rainbow (5 Suits)	2021-01-07 — 14:38:28 UTC	boba, Durandal	40	5	25
+395514	2	23	Black & Rainbow (5 Suits)	2021-01-07 — 14:27:55 UTC	boba, Durandal	46	5	25
+395510	2	20	Black & Rainbow (5 Suits)	2021-01-07 — 14:16:37 UTC	boba, Durandal	48	5	25
+395429	2	19	Black & Rainbow (5 Suits)	2021-01-07 — 10:37:26 UTC	boba, Durandal	56	5	25
+395424	2	0	Black & Rainbow (5 Suits)	2021-01-07 — 10:27:45 UTC	boba, Durandal	62	5	25
 395422	2	0	Black & Rainbow (5 Suits)	2021-01-07 — 10:22:23 UTC	boba, Durandal	73	5	25
 395381	2	30	Rainbow (6 Suits)	2021-01-07 — 08:13:49 UTC	boba, Etherealz	114	6	30
-395375	2	27	Rainbow (6 Suits)	2021-01-07 — 08:05:43 UTC	boba, Etherealz	121	6	30
+395375	2	27	Rainbow (6 Suits)	2021-01-07 — 08:05:43 UTC	boba, Etherealz	122	6	30
 395371	2	27	Rainbow (6 Suits)	2021-01-07 — 07:52:13 UTC	boba, Etherealz	122	6	30
 395351	5	21	Throw It in a Hole (5 Suits)	2021-01-07 — 07:16:29 UTC	aquarelle, boba, FerKeth, HelanaAshryvr, Lel0uch	9	5	25
 395317	4	0	Throw It in a Hole (6 Suits)	2021-01-07 — 06:30:15 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	15	6	30
 395283	6	0	Dual-Color (6 Suits)	2021-01-07 — 05:57:48 UTC	aquarelle, boba, FerKeth, HelanaAshryvr, Lel0uch, methmatics	1	6	30
 395263	6	0	Dual-Color (6 Suits)	2021-01-07 — 05:41:39 UTC	aquarelle, boba, FerKeth, HelanaAshryvr, Lel0uch, methmatics	2	6	30
 395192	5	27	Black (6 Suits)	2021-01-07 — 04:10:45 UTC	aquarelle, boba, Etherealz, methmatics, missyalyssi	2	6	30
-395158	4	28	Black (6 Suits)	2021-01-07 — 03:38:02 UTC	aquarelle, boba, Etherealz, missyalyssi	175	6	30
-395114	4	28	Black (6 Suits)	2021-01-07 — 02:54:38 UTC	aquarelle, boba, Etherealz, missyalyssi	273	6	30
-395092	3	25	Black (6 Suits)	2021-01-07 — 02:34:33 UTC	boba, Etherealz, missyalyssi	172	6	30
-395060	2	28	Black (6 Suits)	2021-01-07 — 02:10:56 UTC	boba, missyalyssi	442	6	30
+395158	4	28	Black (6 Suits)	2021-01-07 — 03:38:02 UTC	aquarelle, boba, Etherealz, missyalyssi	176	6	30
+395114	4	28	Black (6 Suits)	2021-01-07 — 02:54:38 UTC	aquarelle, boba, Etherealz, missyalyssi	276	6	30
+395092	3	25	Black (6 Suits)	2021-01-07 — 02:34:33 UTC	boba, Etherealz, missyalyssi	175	6	30
+395060	2	28	Black (6 Suits)	2021-01-07 — 02:10:56 UTC	boba, missyalyssi	450	6	30
 395032	2	0	Rainbow (6 Suits)	2021-01-07 — 01:46:27 UTC	aquarelle, boba	126	6	30
 394585	2	28	Ambiguous (6 Suits)	2021-01-06 — 17:52:29 UTC	boba, Durandal	29	6	30
-394548	3	30	Dark Pink (6 Suits)	2021-01-06 — 17:28:29 UTC	boba, ChristopheAF, HelanaAshryvr	34	6	30
+394548	3	30	Dark Pink (6 Suits)	2021-01-06 — 17:28:29 UTC	boba, ChristopheAF, HelanaAshryvr	35	6	30
 394522	5	12	3 Suits	2021-01-06 — 16:24:14 UTC	boba, ChristopheAF, colton, HelanaAshryvr, Lel0uch	19	3	15
-394519	5	0	3 Suits	2021-01-06 — 16:09:18 UTC	boba, ChristopheAF, colton, HelanaAshryvr, Lel0uch	24	3	15
+394519	5	0	3 Suits	2021-01-06 — 16:09:18 UTC	boba, ChristopheAF, colton, HelanaAshryvr, Lel0uch	25	3	15
 394471	2	30	Dark Prism (6 Suits)	2021-01-06 — 14:15:10 UTC	boba, Durandal	16	6	30
 394467	2	0	Dark Prism (6 Suits)	2021-01-06 — 14:00:23 UTC	boba, Durandal	15	6	30
 394465	2	24	Dark Prism (6 Suits)	2021-01-06 — 13:57:29 UTC	boba, Durandal	15	6	30
-394300	4	28	White (6 Suits)	2021-01-06 — 06:13:31 UTC	boba, FerKeth, HelanaAshryvr, Lel0uch	60	6	30
-394282	4	29	White (6 Suits)	2021-01-06 — 05:49:11 UTC	boba, FerKeth, HelanaAshryvr, Lel0uch	75	6	30
+394300	4	28	White (6 Suits)	2021-01-06 — 06:13:31 UTC	boba, FerKeth, HelanaAshryvr, Lel0uch	62	6	30
+394282	4	29	White (6 Suits)	2021-01-06 — 05:49:11 UTC	boba, FerKeth, HelanaAshryvr, Lel0uch	76	6	30
 394264	5	0	Ambiguous (6 Suits)	2021-01-06 — 05:24:46 UTC	bjnh, boba, FerKeth, HelanaAshryvr, Lel0uch	12	6	30
 394235	5	29	Ambiguous (6 Suits)	2021-01-06 — 04:56:34 UTC	aquarelle, boba, FerKeth, HelanaAshryvr, Lel0uch	14	6	30
 394208	5	0	Ambiguous (6 Suits)	2021-01-06 — 04:29:37 UTC	aquarelle, boba, FerKeth, HelanaAshryvr, Lel0uch	18	6	30
@@ -1102,32 +1112,32 @@
 394114	4	16	Ambiguous (4 Suits)	2021-01-06 — 02:32:42 UTC	boba, FerKeth, HelanaAshryvr, Nitrate	7	4	20
 394097	4	0	Ambiguous (4 Suits)	2021-01-06 — 02:15:29 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	11	4	20
 394081	4	0	Ambiguous (4 Suits)	2021-01-06 — 02:00:26 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	20	4	20
-394034	3	15	Dual-Color (3 Suits)	2021-01-06 — 01:17:43 UTC	aquarelle, boba, FerKeth	30	3	15
-393666	2	30	6 Suits	2021-01-05 — 17:42:39 UTC	boba, Durandal	132	6	30
+394034	3	15	Dual-Color (3 Suits)	2021-01-06 — 01:17:43 UTC	aquarelle, boba, FerKeth	32	3	15
+393666	2	30	6 Suits	2021-01-05 — 17:42:39 UTC	boba, Durandal	135	6	30
 393231	2	30	Rainbow (6 Suits)	2021-01-05 — 07:35:07 UTC	boba, Etherealz	133	6	30
-393226	2	28	Rainbow (6 Suits)	2021-01-05 — 07:26:28 UTC	boba, Etherealz	139	6	30
-393220	2	28	Rainbow (6 Suits)	2021-01-05 — 07:12:19 UTC	boba, Etherealz	144	6	30
+393226	2	28	Rainbow (6 Suits)	2021-01-05 — 07:26:28 UTC	boba, Etherealz	141	6	30
+393220	2	28	Rainbow (6 Suits)	2021-01-05 — 07:12:19 UTC	boba, Etherealz	145	6	30
 393215	2	27	Rainbow (6 Suits)	2021-01-05 — 07:03:59 UTC	boba, Etherealz	146	6	30
-393208	2	29	Rainbow (6 Suits)	2021-01-05 — 06:55:48 UTC	boba, Etherealz	149	6	30
-393203	2	0	Rainbow (6 Suits)	2021-01-05 — 06:48:09 UTC	boba, Etherealz	150	6	30
-393199	2	0	Rainbow (6 Suits)	2021-01-05 — 06:38:51 UTC	boba, Etherealz	153	6	30
-393196	2	29	Rainbow (6 Suits)	2021-01-05 — 06:34:07 UTC	boba, Etherealz	157	6	30
-393164	2	15	Rainbow & White (3 Suits)	2021-01-05 — 05:37:34 UTC	aquarelle, boba	33	3	15
-393070	2	20	Reversed (4 Suits)	2021-01-05 — 03:42:29 UTC	aquarelle, boba	20	4	20
-393063	2	18	Reversed (4 Suits)	2021-01-05 — 03:35:59 UTC	aquarelle, boba	28	4	20
+393208	2	29	Rainbow (6 Suits)	2021-01-05 — 06:55:48 UTC	boba, Etherealz	150	6	30
+393203	2	0	Rainbow (6 Suits)	2021-01-05 — 06:48:09 UTC	boba, Etherealz	152	6	30
+393199	2	0	Rainbow (6 Suits)	2021-01-05 — 06:38:51 UTC	boba, Etherealz	154	6	30
+393196	2	29	Rainbow (6 Suits)	2021-01-05 — 06:34:07 UTC	boba, Etherealz	159	6	30
+393164	2	15	Rainbow & White (3 Suits)	2021-01-05 — 05:37:34 UTC	aquarelle, boba	35	3	15
+393070	2	20	Reversed (4 Suits)	2021-01-05 — 03:42:29 UTC	aquarelle, boba	22	4	20
+393063	2	18	Reversed (4 Suits)	2021-01-05 — 03:35:59 UTC	aquarelle, boba	30	4	20
 393023	4	22	Rainbow-Ones (5 Suits)	2021-01-05 — 03:14:31 UTC	boba, FerKeth, HelanaAshryvr, Lel0uch	12	5	25
-392980	2	25	No Variant	2021-01-05 — 02:46:56 UTC	boba, FerKeth	1840	5	25
-392940	2	24	No Variant	2021-01-05 — 02:19:02 UTC	boba, FerKeth	2147	5	25
-392915	2	0	Black & Rainbow (6 Suits)	2021-01-05 — 01:55:59 UTC	boba, HelanaAshryvr	71	6	30
-392902	2	28	Black & Rainbow (6 Suits)	2021-01-05 — 01:39:51 UTC	boba, HelanaAshryvr	79	6	30
-392895	2	0	Black & Rainbow (6 Suits)	2021-01-05 — 01:31:28 UTC	boba, HelanaAshryvr	98	6	30
-392523	2	20	4 Suits	2021-01-04 — 16:36:46 UTC	Animex52, boba	110	4	20
-392520	2	18	4 Suits	2021-01-04 — 16:30:17 UTC	Animex52, boba	128	4	20
-392513	2	19	4 Suits	2021-01-04 — 16:25:24 UTC	Animex52, boba	171	4	20
+392980	2	25	No Variant	2021-01-05 — 02:46:56 UTC	boba, FerKeth	1856	5	25
+392940	2	24	No Variant	2021-01-05 — 02:19:02 UTC	boba, FerKeth	2166	5	25
+392915	2	0	Black & Rainbow (6 Suits)	2021-01-05 — 01:55:59 UTC	boba, HelanaAshryvr	73	6	30
+392902	2	28	Black & Rainbow (6 Suits)	2021-01-05 — 01:39:51 UTC	boba, HelanaAshryvr	81	6	30
+392895	2	0	Black & Rainbow (6 Suits)	2021-01-05 — 01:31:28 UTC	boba, HelanaAshryvr	100	6	30
+392523	2	20	4 Suits	2021-01-04 — 16:36:46 UTC	Animex52, boba	113	4	20
+392520	2	18	4 Suits	2021-01-04 — 16:30:17 UTC	Animex52, boba	134	4	20
+392513	2	19	4 Suits	2021-01-04 — 16:25:24 UTC	Animex52, boba	177	4	20
 392440	3	0	Prism Reversed (6 Suits)	2021-01-04 — 12:48:14 UTC	Animex52, boba, Lel0uch	5	6	30
 392435	3	0	Prism Reversed (6 Suits)	2021-01-04 — 12:32:51 UTC	Animex52, boba, Lel0uch	7	6	30
 392430	4	23	Duck (5 Suits)	2021-01-04 — 12:12:12 UTC	Animex52, boba, catula, Lel0uch	5	5	25
-392421	2	25	Duck (5 Suits)	2021-01-04 — 11:35:59 UTC	boba, Lel0uch	30	5	25
+392421	2	25	Duck (5 Suits)	2021-01-04 — 11:35:59 UTC	boba, Lel0uch	31	5	25
 392307	5	0	Dark Rainbow (5 Suits)	2021-01-04 — 06:49:01 UTC	boba, doctorabi, katian, Lel0uch, Onen	9	5	25
 392289	6	29	Black (6 Suits)	2021-01-04 — 06:17:58 UTC	boba, colton, doctorabi, katian, Onen, wump	8	6	30
 392272	6	27	Black (6 Suits)	2021-01-04 — 05:51:03 UTC	boba, colton, doctorabi, Lel0uch, Onen, wump	28	6	30
@@ -1142,17 +1152,17 @@
 391389	6	0	Up or Down & White (5 Suits)	2021-01-03 — 10:21:28 UTC	boba, frosty104, indego, Lel0uch, sephiroth, TimeHoodie	1	5	25
 391378	5	0	Up or Down & White (6 Suits)	2021-01-03 — 09:56:21 UTC	boba, frosty104, indego, Lel0uch, TimeHoodie	3	6	30
 391372	5	0	Up or Down & White (6 Suits)	2021-01-03 — 09:33:49 UTC	boba, frosty104, Lel0uch, swineherd, TimeHoodie	3	6	30
-391344	4	0	No Variant	2021-01-03 — 08:00:45 UTC	boba, FerKeth, HelanaAshryvr, Lel0uch	442	5	25
-391325	4	0	No Variant	2021-01-03 — 07:26:01 UTC	boba, FerKeth, HelanaAshryvr, Lel0uch	601	5	25
-391312	4	19	4 Suits	2021-01-03 — 07:00:39 UTC	boba, FerKeth, HelanaAshryvr, Lel0uch	51	4	20
-391120	3	23	Rainbow (5 Suits)	2021-01-03 — 04:24:30 UTC	aquarelle, boba, methmatics	185	5	25
+391344	4	0	No Variant	2021-01-03 — 08:00:45 UTC	boba, FerKeth, HelanaAshryvr, Lel0uch	448	5	25
+391325	4	0	No Variant	2021-01-03 — 07:26:01 UTC	boba, FerKeth, HelanaAshryvr, Lel0uch	606	5	25
+391312	4	19	4 Suits	2021-01-03 — 07:00:39 UTC	boba, FerKeth, HelanaAshryvr, Lel0uch	52	4	20
+391120	3	23	Rainbow (5 Suits)	2021-01-03 — 04:24:30 UTC	aquarelle, boba, methmatics	186	5	25
 391080	2	0	Rainbow & White (6 Suits)	2021-01-03 — 03:58:33 UTC	aquarelle, boba	24	6	30
 391065	2	0	Rainbow & White (6 Suits)	2021-01-03 — 03:48:49 UTC	aquarelle, boba	29	6	30
 391060	2	29	Rainbow & White (6 Suits)	2021-01-03 — 03:44:48 UTC	aquarelle, boba	33	6	30
 391016	2	29	Rainbow & White (6 Suits)	2021-01-03 — 03:15:52 UTC	aquarelle, boba	44	6	30
-390989	2	25	Gray (5 Suits)	2021-01-03 — 02:57:10 UTC	aquarelle, boba	79	5	25
+390989	2	25	Gray (5 Suits)	2021-01-03 — 02:57:10 UTC	aquarelle, boba	80	5	25
 390966	2	15	Very Ambiguous (3 Suits)	2021-01-03 — 02:42:34 UTC	aquarelle, boba	10	3	15
-390956	2	0	Very Ambiguous (3 Suits)	2021-01-03 — 02:35:13 UTC	aquarelle, boba	20	3	15
+390956	2	0	Very Ambiguous (3 Suits)	2021-01-03 — 02:35:13 UTC	aquarelle, boba	21	3	15
 390922	4	0	Up or Down (6 Suits)	2021-01-03 — 02:08:18 UTC	bob65536, boba, indego, Lanvin	22	6	30
 390902	4	0	Up or Down (6 Suits)	2021-01-03 — 01:49:34 UTC	bob65536, boba, indego, Lanvin	28	6	30
 390863	5	23	Light Pink (5 Suits)	2021-01-03 — 01:21:48 UTC	aquarelle, boba, indego, jack67889, Lanvin	6	5	25
@@ -1160,50 +1170,50 @@
 390401	4	29	Dual-Color (6 Suits)	2021-01-02 — 17:57:36 UTC	aquarelle, boba, ChristopheAF, Lel0uch	15	6	30
 390388	4	0	Dual-Color (6 Suits)	2021-01-02 — 17:33:47 UTC	aquarelle, boba, ChristopheAF, Lel0uch	24	6	30
 390379	4	30	Rainbow (6 Suits)	2021-01-02 — 17:13:23 UTC	boba, ChristopheAF, Etherealz, Lel0uch	44	6	30
-390353	3	30	Rainbow (6 Suits)	2021-01-02 — 16:44:38 UTC	boba, ChristopheAF, Etherealz	396	6	30
-390320	3	20	4 Suits	2021-01-02 — 15:35:57 UTC	aquarelle, boba, Lel0uch	118	4	20
-390314	2	30	Omni & Muddy Rainbow (6 Suits)	2021-01-02 — 15:21:37 UTC	boba, Lel0uch	2	6	30
-390309	2	15	Omni (3 Suits)	2021-01-02 — 15:02:58 UTC	boba, Lel0uch	49	3	15
-390304	2	15	Omni (3 Suits)	2021-01-02 — 14:53:16 UTC	boba, Lel0uch	66	3	15
-390298	2	30	Gray (6 Suits)	2021-01-02 — 14:30:37 UTC	boba, Lel0uch	59	6	30
+390353	3	30	Rainbow (6 Suits)	2021-01-02 — 16:44:38 UTC	boba, ChristopheAF, Etherealz	404	6	30
+390320	3	20	4 Suits	2021-01-02 — 15:35:57 UTC	aquarelle, boba, Lel0uch	120	4	20
+390314	2	30	Omni & Muddy Rainbow (6 Suits)	2021-01-02 — 15:21:37 UTC	boba, Lel0uch	3	6	30
+390309	2	15	Omni (3 Suits)	2021-01-02 — 15:02:58 UTC	boba, Lel0uch	52	3	15
+390304	2	15	Omni (3 Suits)	2021-01-02 — 14:53:16 UTC	boba, Lel0uch	70	3	15
+390298	2	30	Gray (6 Suits)	2021-01-02 — 14:30:37 UTC	boba, Lel0uch	60	6	30
 390290	2	0	Gray (6 Suits)	2021-01-02 — 14:12:30 UTC	boba, Lel0uch	74	6	30
-390287	3	0	No Variant	2021-01-02 — 14:03:48 UTC	boba, Lel0uch, Rapzim	940	5	25
-390283	4	29	Prism Reversed (6 Suits)	2021-01-02 — 13:36:36 UTC	boba, frosty104, indego, Lel0uch	6	6	30
-390217	3	27	Gray Pink (6 Suits)	2021-01-02 — 10:21:00 UTC	boba, Lel0uch, methmatics	29	6	30
+390287	3	0	No Variant	2021-01-02 — 14:03:48 UTC	boba, Lel0uch, Rapzim	952	5	25
+390283	4	29	Prism Reversed (6 Suits)	2021-01-02 — 13:36:36 UTC	boba, frosty104, indego, Lel0uch	8	6	30
+390217	3	27	Gray Pink (6 Suits)	2021-01-02 — 10:21:00 UTC	boba, Lel0uch, methmatics	30	6	30
 390210	2	25	Dark Pink (5 Suits)	2021-01-02 — 09:56:53 UTC	boba, Lel0uch	58	5	25
-390188	4	0	No Variant	2021-01-02 — 08:53:45 UTC	boba, HelanaAshryvr, Lel0uch, xxx	103	5	25
-390178	2	22	No Variant	2021-01-02 — 08:44:07 UTC	boba, Lel0uch	1952	5	25
+390188	4	0	No Variant	2021-01-02 — 08:53:45 UTC	boba, HelanaAshryvr, Lel0uch, xxx	104	5	25
+390178	2	22	No Variant	2021-01-02 — 08:44:07 UTC	boba, Lel0uch	1966	5	25
 390162	5	30	Muddy Rainbow (6 Suits)	2021-01-02 — 08:22:16 UTC	boba, Fey, HelanaAshryvr, Lel0uch, ricardodd	7	6	30
 390148	4	0	Muddy Rainbow (5 Suits)	2021-01-02 — 07:59:47 UTC	boba, Fey, HelanaAshryvr, Lel0uch	5	5	25
-390138	4	0	Muddy Rainbow (5 Suits)	2021-01-02 — 07:44:05 UTC	boba, Fey, HelanaAshryvr, Lel0uch	6	5	25
+390138	4	0	Muddy Rainbow (5 Suits)	2021-01-02 — 07:44:05 UTC	boba, Fey, HelanaAshryvr, Lel0uch	7	5	25
 390118	3	25	Pink (5 Suits)	2021-01-02 — 07:12:17 UTC	boba, Fey, sin_faith	4	5	25
 389983	3	25	White Reversed (5 Suits)	2021-01-02 — 04:20:05 UTC	aquarelle, boba, Lel0uch	14	5	25
 389944	5	0	Muddy Rainbow (6 Suits)	2021-01-02 — 03:43:35 UTC	aquarelle, boba, HelanaAshryvr, Lanvin, Lel0uch	6	6	30
 389917	5	0	Muddy Rainbow (6 Suits)	2021-01-02 — 03:15:25 UTC	aquarelle, boba, HelanaAshryvr, Lanvin, Lel0uch	11	6	30
-389898	2	0	Cocoa Rainbow (6 Suits)	2021-01-02 — 02:56:33 UTC	boba, Lel0uch	36	6	30
-389892	2	0	Cocoa Rainbow (6 Suits)	2021-01-02 — 02:50:25 UTC	boba, Lel0uch	39	6	30
+389898	2	0	Cocoa Rainbow (6 Suits)	2021-01-02 — 02:56:33 UTC	boba, Lel0uch	37	6	30
+389892	2	0	Cocoa Rainbow (6 Suits)	2021-01-02 — 02:50:25 UTC	boba, Lel0uch	40	6	30
 389884	2	0	Cocoa Rainbow (6 Suits)	2021-01-02 — 02:39:26 UTC	boba, Lel0uch	42	6	30
 389878	2	0	Cocoa Rainbow (6 Suits)	2021-01-02 — 02:35:17 UTC	boba, Lel0uch	47	6	30
-389870	2	20	Omni (4 Suits)	2021-01-02 — 02:30:41 UTC	boba, Lel0uch	20	4	20
+389870	2	20	Omni (4 Suits)	2021-01-02 — 02:30:41 UTC	boba, Lel0uch	21	4	20
 388794	5	0	Duck (5 Suits)	2021-01-01 — 03:09:16 UTC	aquarelle, boba, HelanaAshryvr, Lanvin, methmatics	9	5	25
-388741	2	20	Ambiguous (4 Suits)	2021-01-01 — 02:20:55 UTC	aquarelle, boba	84	4	20
+388741	2	20	Ambiguous (4 Suits)	2021-01-01 — 02:20:55 UTC	aquarelle, boba	86	4	20
 388723	5	28	Black (6 Suits)	2021-01-01 — 02:04:58 UTC	boba, Etherealz, ghartmann, missyalyssi, xXxbanana420xXx	2	6	30
 388241	2	15	Brown (3 Suits)	2020-12-31 — 16:24:23 UTC	aquarelle, boba	8	3	15
 388237	2	0	Brown (3 Suits)	2020-12-31 — 16:19:09 UTC	aquarelle, boba	9	3	15
 388235	2	0	Brown (3 Suits)	2020-12-31 — 16:15:44 UTC	aquarelle, boba	9	3	15
 388231	2	0	Brown (3 Suits)	2020-12-31 — 16:09:54 UTC	aquarelle, boba	11	3	15
 388226	2	13	Brown (3 Suits)	2020-12-31 — 16:03:05 UTC	aquarelle, boba	18	3	15
-388220	2	0	Brown (3 Suits)	2020-12-31 — 15:58:10 UTC	aquarelle, boba	23	3	15
-388216	2	13	Brown (3 Suits)	2020-12-31 — 15:53:15 UTC	aquarelle, boba	27	3	15
-388212	2	30	Rainbow (6 Suits)	2020-12-31 — 15:44:27 UTC	aquarelle, boba	167	6	30
+388220	2	0	Brown (3 Suits)	2020-12-31 — 15:58:10 UTC	aquarelle, boba	24	3	15
+388216	2	13	Brown (3 Suits)	2020-12-31 — 15:53:15 UTC	aquarelle, boba	28	3	15
+388212	2	30	Rainbow (6 Suits)	2020-12-31 — 15:44:27 UTC	aquarelle, boba	170	6	30
 388141	4	0	Rainbow (6 Suits)	2020-12-31 — 10:33:32 UTC	boba, Etherealz, Fey, Lel0uch	47	6	30
 388136	4	27	Rainbow (6 Suits)	2020-12-31 — 10:03:51 UTC	boba, Etherealz, Fey, Lel0uch	47	6	30
 388134	4	30	Rainbow (6 Suits)	2020-12-31 — 09:41:51 UTC	boba, Etherealz, Fey, Lel0uch	53	6	30
 388133	4	30	Rainbow (6 Suits)	2020-12-31 — 09:21:30 UTC	boba, Etherealz, Fey, Lel0uch	50	6	30
-388129	2	26	Rainbow (6 Suits)	2020-12-31 — 09:05:10 UTC	boba, Etherealz	171	6	30
-388127	2	29	Rainbow (6 Suits)	2020-12-31 — 08:50:43 UTC	boba, Etherealz	179	6	30
-387848	3	0	Dual-Color (6 Suits)	2020-12-31 — 03:12:23 UTC	boba, colton, HelanaAshryvr	66	6	30
-387789	3	25	Dual-Color (5 Suits)	2020-12-31 — 02:37:10 UTC	boba, colton, HelanaAshryvr	69	5	25
+388129	2	26	Rainbow (6 Suits)	2020-12-31 — 09:05:10 UTC	boba, Etherealz	174	6	30
+388127	2	29	Rainbow (6 Suits)	2020-12-31 — 08:50:43 UTC	boba, Etherealz	181	6	30
+387848	3	0	Dual-Color (6 Suits)	2020-12-31 — 03:12:23 UTC	boba, colton, HelanaAshryvr	67	6	30
+387789	3	25	Dual-Color (5 Suits)	2020-12-31 — 02:37:10 UTC	boba, colton, HelanaAshryvr	70	5	25
 387742	2	30	Dark Omni (6 Suits)	2020-12-31 — 02:05:27 UTC	boba, Durandal	3	6	30
 387722	2	0	Dark Omni (6 Suits)	2020-12-31 — 01:52:57 UTC	boba, Durandal	3	6	30
 387719	2	0	Dark Omni (6 Suits)	2020-12-31 — 01:50:27 UTC	boba, Durandal	3	6	30
@@ -1216,19 +1226,19 @@
 387675	2	28	Dark Omni (6 Suits)	2020-12-31 — 01:04:08 UTC	boba, Durandal	3	6	30
 387670	2	0	Dark Omni (6 Suits)	2020-12-31 — 00:52:19 UTC	boba, Durandal	3	6	30
 387658	5	0	Prism (5 Suits)	2020-12-31 — 00:40:21 UTC	boba, catula, oliana, Pablo-, tezeteta	10	5	25
-387167	2	25	No Variant	2020-12-30 — 09:25:57 UTC	boba, Lel0uch	2288	5	25
+387167	2	25	No Variant	2020-12-30 — 09:25:57 UTC	boba, Lel0uch	2307	5	25
 387156	4	30	White Reversed (6 Suits)	2020-12-30 — 09:10:48 UTC	boba, frosty104, HelanaAshryvr, Lel0uch	10	6	30
 387104	2	0	Dark Prism (6 Suits)	2020-12-30 — 07:44:35 UTC	boba, IsabeltheCat	33	6	30
 387093	2	0	Dark Prism (6 Suits)	2020-12-30 — 07:33:59 UTC	boba, IsabeltheCat	34	6	30
 387086	2	0	Dark Prism (6 Suits)	2020-12-30 — 07:21:23 UTC	boba, IsabeltheCat	38	6	30
-387040	2	14	Brown (3 Suits)	2020-12-30 — 06:08:50 UTC	aquarelle, boba	47	3	15
-387019	2	12	Brown (3 Suits)	2020-12-30 — 05:44:25 UTC	aquarelle, boba	60	3	15
+387040	2	14	Brown (3 Suits)	2020-12-30 — 06:08:50 UTC	aquarelle, boba	48	3	15
+387019	2	12	Brown (3 Suits)	2020-12-30 — 05:44:25 UTC	aquarelle, boba	63	3	15
 386907	4	19	Rainbow (4 Suits)	2020-12-30 — 03:52:48 UTC	aquarelle, bob65536, boba, HelanaAshryvr	17	4	20
 386864	4	0	Rainbow (4 Suits)	2020-12-30 — 03:13:16 UTC	Animex52, aquarelle, boba, HelanaAshryvr	17	4	20
 386846	4	0	Rainbow (4 Suits)	2020-12-30 — 02:56:31 UTC	Animex52, aquarelle, boba, HelanaAshryvr	19	4	20
 386806	2	0	Duck (5 Suits)	2020-12-30 — 02:16:07 UTC	Animex52, boba	41	5	25
-386759	2	24	Duck (5 Suits)	2020-12-30 — 01:40:09 UTC	Animex52, boba	63	5	25
-386230	3	0	Rainbow (6 Suits)	2020-12-29 — 17:19:38 UTC	aquarelle, boba, Lel0uch	508	6	30
+386759	2	24	Duck (5 Suits)	2020-12-30 — 01:40:09 UTC	Animex52, boba	64	5	25
+386230	3	0	Rainbow (6 Suits)	2020-12-29 — 17:19:38 UTC	aquarelle, boba, Lel0uch	514	6	30
 386209	3	20	Duck (4 Suits)	2020-12-29 — 16:33:10 UTC	Animex52, aquarelle, boba	8	4	20
 386191	3	25	Duck (5 Suits)	2020-12-29 — 15:54:29 UTC	Animex52, aquarelle, boba	3	5	25
 386182	2	0	Dark Omni (6 Suits)	2020-12-29 — 15:08:23 UTC	boba, Durandal	3	6	30
@@ -1244,31 +1254,31 @@
 386123	2	23	Dark Omni (6 Suits)	2020-12-29 — 13:54:15 UTC	boba, Durandal	6	6	30
 384998	5	23	Dual-Color (5 Suits)	2020-12-28 — 14:34:30 UTC	boba, ChristopheAF, Lel0uch, Pablo-, sin_faith	2	5	25
 384986	4	0	Black & Dark Rainbow (6 Suits)	2020-12-28 — 14:16:43 UTC	boba, Lel0uch, Pablo-, sin_faith	15	6	30
-384983	3	0	Black & Dark Rainbow (6 Suits)	2020-12-28 — 14:09:42 UTC	boba, frosty104, Lel0uch	10	6	30
+384983	3	0	Black & Dark Rainbow (6 Suits)	2020-12-28 — 14:09:42 UTC	boba, frosty104, Lel0uch	11	6	30
 384976	3	0	Black & Dark Rainbow (6 Suits)	2020-12-28 — 13:58:31 UTC	boba, frosty104, Lel0uch	19	6	30
 384971	3	0	Black & Dark Rainbow (6 Suits)	2020-12-28 — 13:39:53 UTC	boba, frosty104, Lel0uch	20	6	30
 384968	3	0	Black & Dark Rainbow (6 Suits)	2020-12-28 — 13:26:03 UTC	boba, frosty104, Lel0uch	21	6	30
 384963	3	26	Black & Dark Rainbow (6 Suits)	2020-12-28 — 13:15:35 UTC	boba, frosty104, Lel0uch	28	6	30
-384953	2	25	Dark Prism (5 Suits)	2020-12-28 — 12:40:05 UTC	Animex52, boba	40	5	25
+384953	2	25	Dark Prism (5 Suits)	2020-12-28 — 12:40:05 UTC	Animex52, boba	42	5	25
 384918	4	0	Rainbow & Prism (6 Suits)	2020-12-28 — 11:07:35 UTC	boba, catula, indego, sephiroth	16	6	30
 384915	5	22	No Variant	2020-12-28 — 10:43:24 UTC	boba, Fey, indego, sephiroth, TimeHoodie	21	5	25
 384860	4	14	Pink (3 Suits)	2020-12-28 — 07:47:27 UTC	boba, colton, HelanaAshryvr, Lel0uch	13	3	15
-384853	3	15	Prism (3 Suits)	2020-12-28 — 07:31:50 UTC	boba, HelanaAshryvr, Lel0uch	32	3	15
-384849	2	30	Omni (6 Suits)	2020-12-28 — 07:24:50 UTC	boba, HelanaAshryvr	39	6	30
-384838	2	0	Omni (6 Suits)	2020-12-28 — 07:09:44 UTC	boba, HelanaAshryvr	43	6	30
-384835	2	0	Omni (6 Suits)	2020-12-28 — 07:07:29 UTC	boba, HelanaAshryvr	48	6	30
-384833	2	25	Black (5 Suits)	2020-12-28 — 07:03:46 UTC	boba, HelanaAshryvr	108	5	25
-384827	2	21	Black (5 Suits)	2020-12-28 — 06:56:43 UTC	boba, HelanaAshryvr	115	5	25
-384821	2	24	Black (5 Suits)	2020-12-28 — 06:46:05 UTC	boba, HelanaAshryvr	124	5	25
+384853	3	15	Prism (3 Suits)	2020-12-28 — 07:31:50 UTC	boba, HelanaAshryvr, Lel0uch	34	3	15
+384849	2	30	Omni (6 Suits)	2020-12-28 — 07:24:50 UTC	boba, HelanaAshryvr	40	6	30
+384838	2	0	Omni (6 Suits)	2020-12-28 — 07:09:44 UTC	boba, HelanaAshryvr	44	6	30
+384835	2	0	Omni (6 Suits)	2020-12-28 — 07:07:29 UTC	boba, HelanaAshryvr	49	6	30
+384833	2	25	Black (5 Suits)	2020-12-28 — 07:03:46 UTC	boba, HelanaAshryvr	113	5	25
+384827	2	21	Black (5 Suits)	2020-12-28 — 06:56:43 UTC	boba, HelanaAshryvr	120	5	25
+384821	2	24	Black (5 Suits)	2020-12-28 — 06:46:05 UTC	boba, HelanaAshryvr	129	5	25
 384809	3	15	Omni (3 Suits)	2020-12-28 — 06:38:22 UTC	boba, HelanaAshryvr, Lel0uch	6	3	15
 384798	3	0	Omni (3 Suits)	2020-12-28 — 06:30:47 UTC	boba, HelanaAshryvr, Lel0uch	8	3	15
-384792	2	30	Brown (6 Suits)	2020-12-28 — 06:22:31 UTC	boba, HelanaAshryvr	49	6	30
+384792	2	30	Brown (6 Suits)	2020-12-28 — 06:22:31 UTC	boba, HelanaAshryvr	50	6	30
 384776	2	15	Pink (3 Suits)	2020-12-28 — 06:11:00 UTC	boba, HelanaAshryvr	7	3	15
 384768	2	14	Pink (3 Suits)	2020-12-28 — 06:02:15 UTC	boba, HelanaAshryvr	7	3	15
-384545	4	0	Pink (4 Suits)	2020-12-28 — 02:47:10 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	22	4	20
+384545	4	0	Pink (4 Suits)	2020-12-28 — 02:47:10 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	23	4	20
 384503	5	27	Black (6 Suits)	2020-12-28 — 02:08:12 UTC	boba, Etherealz, FerKeth, HelanaAshryvr, missyalyssi	4	6	30
 384468	5	28	Black (6 Suits)	2020-12-28 — 01:27:06 UTC	boba, Etherealz, FerKeth, HelanaAshryvr, missyalyssi	5	6	30
-384443	4	0	Rainbow (6 Suits)	2020-12-28 — 00:57:11 UTC	boba, Etherealz, HelanaAshryvr, missyalyssi	344	6	30
+384443	4	0	Rainbow (6 Suits)	2020-12-28 — 00:57:11 UTC	boba, Etherealz, HelanaAshryvr, missyalyssi	349	6	30
 382790	4	22	Dark Omni (5 Suits)	2020-12-26 — 16:30:05 UTC	boba, ChristopheAF, colton, Lel0uch	15	5	25
 382723	6	0	Dark Brown (6 Suits)	2020-12-26 — 12:48:22 UTC	boba, frosty104, Hoodie, IAMJEFF, Lel0uch, sephiroth	3	6	30
 382718	6	0	Dark Brown (6 Suits)	2020-12-26 — 12:28:45 UTC	boba, frosty104, Hoodie, IAMJEFF, Lel0uch, sephiroth	6	6	30
@@ -1277,67 +1287,67 @@
 382534	6	0	Rainbow Reversed (6 Suits)	2020-12-26 — 06:05:08 UTC	aquarelle, boba, colton, FerKeth, HelanaAshryvr, Lel0uch	2	6	30
 382452	6	11	Rainbow (3 Suits)	2020-12-26 — 05:00:02 UTC	aquarelle, boba, colton, FerKeth, HelanaAshryvr, Lel0uch	3	3	15
 382410	6	13	Rainbow (3 Suits)	2020-12-26 — 04:30:45 UTC	aquarelle, boba, colton, FerKeth, HelanaAshryvr, Lel0uch	5	3	15
-382381	2	0	Pink (3 Suits)	2020-12-26 — 04:13:17 UTC	aquarelle, boba	87	3	15
+382381	2	0	Pink (3 Suits)	2020-12-26 — 04:13:17 UTC	aquarelle, boba	89	3	15
 382353	4	24	Dark Rainbow (5 Suits)	2020-12-26 — 03:51:34 UTC	boba, FerKeth, HelanaAshryvr, Lel0uch	29	5	25
 382313	4	0	Rainbow (6 Suits)	2020-12-26 — 03:24:10 UTC	aquarelle, boba, HelanaAshryvr, Lel0uch	50	6	30
 382305	4	0	Rainbow (6 Suits)	2020-12-26 — 03:13:47 UTC	aquarelle, boba, HelanaAshryvr, Lel0uch	57	6	30
-382273	3	24	Up or Down (5 Suits)	2020-12-26 — 02:50:33 UTC	aquarelle, boba, HelanaAshryvr	57	5	25
-382237	3	23	Up or Down (5 Suits)	2020-12-26 — 02:20:07 UTC	aquarelle, boba, HelanaAshryvr	62	5	25
+382273	3	24	Up or Down (5 Suits)	2020-12-26 — 02:50:33 UTC	aquarelle, boba, HelanaAshryvr	59	5	25
+382237	3	23	Up or Down (5 Suits)	2020-12-26 — 02:20:07 UTC	aquarelle, boba, HelanaAshryvr	64	5	25
 382182	2	15	Light Pink (3 Suits)	2020-12-26 — 01:39:16 UTC	boba, HelanaAshryvr	18	3	15
-382167	2	13	Light Pink (3 Suits)	2020-12-26 — 01:26:15 UTC	boba, HelanaAshryvr	22	3	15
-381690	2	30	Rainbow (6 Suits)	2020-12-25 — 09:35:33 UTC	boba, HelanaAshryvr	194	6	30
-380866	2	24	Black (5 Suits)	2020-12-24 — 13:58:44 UTC	Animex52, boba	169	5	25
-380861	2	22	Black (5 Suits)	2020-12-24 — 13:40:59 UTC	Animex52, boba	219	5	25
-380858	2	18	Black (5 Suits)	2020-12-24 — 13:24:18 UTC	Animex52, boba	244	5	25
+382167	2	13	Light Pink (3 Suits)	2020-12-26 — 01:26:15 UTC	boba, HelanaAshryvr	24	3	15
+381690	2	30	Rainbow (6 Suits)	2020-12-25 — 09:35:33 UTC	boba, HelanaAshryvr	196	6	30
+380866	2	24	Black (5 Suits)	2020-12-24 — 13:58:44 UTC	Animex52, boba	173	5	25
+380861	2	22	Black (5 Suits)	2020-12-24 — 13:40:59 UTC	Animex52, boba	222	5	25
+380858	2	18	Black (5 Suits)	2020-12-24 — 13:24:18 UTC	Animex52, boba	250	5	25
 380764	6	0	Ambiguous (6 Suits)	2020-12-24 — 07:19:06 UTC	Animex52, aquarelle, boba, FerKeth, HelanaAshryvr, methmatics	1	6	30
 380753	6	0	Ambiguous (6 Suits)	2020-12-24 — 06:49:30 UTC	Animex52, aquarelle, boba, FerKeth, HelanaAshryvr, methmatics	8	6	30
-380739	2	0	No Variant	2020-12-24 — 06:34:02 UTC	boba, HelanaAshryvr	1078	5	25
-380738	2	24	No Variant	2020-12-24 — 06:33:29 UTC	boba, HelanaAshryvr	1117	5	25
-380369	3	0	Up or Down (5 Suits)	2020-12-24 — 00:48:03 UTC	boba, HelanaAshryvr, ricardodd	88	5	25
-380351	2	15	White (3 Suits)	2020-12-24 — 00:33:20 UTC	aquarelle, boba	71	3	15
-380347	2	14	White (3 Suits)	2020-12-24 — 00:28:25 UTC	aquarelle, boba	95	3	15
-379996	5	0	Rainbow (6 Suits)	2020-12-23 — 18:53:02 UTC	Animex52, aquarelle, boba, Lel0uch, rz	133	6	30
-379986	2	30	Prism (6 Suits)	2020-12-23 — 18:34:12 UTC	aquarelle, boba	87	6	30
-379974	2	0	Prism (6 Suits)	2020-12-23 — 18:14:24 UTC	aquarelle, boba	112	6	30
-379957	2	20	Rainbow (4 Suits)	2020-12-23 — 17:54:46 UTC	aquarelle, boba	132	4	20
+380739	2	0	No Variant	2020-12-24 — 06:34:02 UTC	boba, HelanaAshryvr	1089	5	25
+380738	2	24	No Variant	2020-12-24 — 06:33:29 UTC	boba, HelanaAshryvr	1124	5	25
+380369	3	0	Up or Down (5 Suits)	2020-12-24 — 00:48:03 UTC	boba, HelanaAshryvr, ricardodd	89	5	25
+380351	2	15	White (3 Suits)	2020-12-24 — 00:33:20 UTC	aquarelle, boba	73	3	15
+380347	2	14	White (3 Suits)	2020-12-24 — 00:28:25 UTC	aquarelle, boba	100	3	15
+379996	5	0	Rainbow (6 Suits)	2020-12-23 — 18:53:02 UTC	Animex52, aquarelle, boba, Lel0uch, rz	134	6	30
+379986	2	30	Prism (6 Suits)	2020-12-23 — 18:34:12 UTC	aquarelle, boba	92	6	30
+379974	2	0	Prism (6 Suits)	2020-12-23 — 18:14:24 UTC	aquarelle, boba	116	6	30
+379957	2	20	Rainbow (4 Suits)	2020-12-23 — 17:54:46 UTC	aquarelle, boba	135	4	20
 379919	2	30	Up or Down (6 Suits)	2020-12-23 — 16:58:13 UTC	boba, HelanaAshryvr	22	6	30
 379917	2	0	Up or Down (6 Suits)	2020-12-23 — 16:48:19 UTC	boba, HelanaAshryvr	24	6	30
 379914	2	28	Up or Down (6 Suits)	2020-12-23 — 16:35:35 UTC	boba, HelanaAshryvr	28	6	30
 379873	5	30	Prism & Dark Rainbow (6 Suits)	2020-12-23 — 15:06:55 UTC	boba, doctorabi, frosty104, jack67889, Lel0uch	3	6	30
-379860	5	0	Prism & Dark Rainbow (6 Suits)	2020-12-23 — 14:34:26 UTC	boba, doctorabi, frosty104, jack67889, Lel0uch	3	6	30
-379832	2	30	Pink (6 Suits)	2020-12-23 — 13:25:36 UTC	boba, Lel0uch	143	6	30
-379822	2	0	Pink (6 Suits)	2020-12-23 — 13:08:34 UTC	boba, Lel0uch	157	6	30
-379816	2	0	Null (4 Suits)	2020-12-23 — 12:50:55 UTC	boba, Lel0uch	20	4	20
-379815	2	0	Null (4 Suits)	2020-12-23 — 12:48:00 UTC	boba, Lel0uch	26	4	20
-379813	2	0	Null (4 Suits)	2020-12-23 — 12:45:02 UTC	boba, Lel0uch	28	4	20
-379808	2	0	Null (4 Suits)	2020-12-23 — 12:35:27 UTC	boba, Lel0uch	29	4	20
-379807	2	0	Null (4 Suits)	2020-12-23 — 12:32:30 UTC	boba, Lel0uch	32	4	20
-379798	2	25	Up or Down (5 Suits)	2020-12-23 — 12:19:32 UTC	boba, Lel0uch	86	5	25
-379796	2	0	Up or Down (5 Suits)	2020-12-23 — 12:07:46 UTC	boba, Lel0uch	105	5	25
-379794	2	0	Up or Down (5 Suits)	2020-12-23 — 12:01:18 UTC	boba, Lel0uch	141	5	25
+379860	5	0	Prism & Dark Rainbow (6 Suits)	2020-12-23 — 14:34:26 UTC	boba, doctorabi, frosty104, jack67889, Lel0uch	4	6	30
+379832	2	30	Pink (6 Suits)	2020-12-23 — 13:25:36 UTC	boba, Lel0uch	146	6	30
+379822	2	0	Pink (6 Suits)	2020-12-23 — 13:08:34 UTC	boba, Lel0uch	158	6	30
+379816	2	0	Null (4 Suits)	2020-12-23 — 12:50:55 UTC	boba, Lel0uch	22	4	20
+379815	2	0	Null (4 Suits)	2020-12-23 — 12:48:00 UTC	boba, Lel0uch	28	4	20
+379813	2	0	Null (4 Suits)	2020-12-23 — 12:45:02 UTC	boba, Lel0uch	30	4	20
+379808	2	0	Null (4 Suits)	2020-12-23 — 12:35:27 UTC	boba, Lel0uch	31	4	20
+379807	2	0	Null (4 Suits)	2020-12-23 — 12:32:30 UTC	boba, Lel0uch	34	4	20
+379798	2	25	Up or Down (5 Suits)	2020-12-23 — 12:19:32 UTC	boba, Lel0uch	89	5	25
+379796	2	0	Up or Down (5 Suits)	2020-12-23 — 12:07:46 UTC	boba, Lel0uch	108	5	25
+379794	2	0	Up or Down (5 Suits)	2020-12-23 — 12:01:18 UTC	boba, Lel0uch	145	5	25
 379769	6	21	Up or Down & White (5 Suits)	2020-12-23 — 10:30:36 UTC	boba, doctorabi, frosty104, katian, Lel0uch, Pablo-	1	5	25
 379761	5	0	Up or Down & White (6 Suits)	2020-12-23 — 09:55:49 UTC	boba, doctorabi, frosty104, katian, Lel0uch	7	6	30
 379759	6	0	Up or Down & White (5 Suits)	2020-12-23 — 09:35:25 UTC	boba, doctorabi, frosty104, katian, Lel0uch, sephiroth	1	5	25
 379756	6	0	Up or Down & White (5 Suits)	2020-12-23 — 09:25:30 UTC	boba, doctorabi, frosty104, katian, Lel0uch, sephiroth	2	5	25
 379755	4	24	Up or Down & White (5 Suits)	2020-12-23 — 09:13:35 UTC	boba, frosty104, katian, Lel0uch	11	5	25
 379690	2	25	Null (5 Suits)	2020-12-23 — 07:31:26 UTC	boba, HelanaAshryvr	15	5	25
-379678	2	0	Null (5 Suits)	2020-12-23 — 07:20:05 UTC	boba, HelanaAshryvr	16	5	25
-379676	2	0	Null (5 Suits)	2020-12-23 — 07:17:54 UTC	boba, HelanaAshryvr	17	5	25
-379672	2	0	Null (5 Suits)	2020-12-23 — 07:13:03 UTC	boba, HelanaAshryvr	21	5	25
-379670	2	0	Null (5 Suits)	2020-12-23 — 07:12:03 UTC	boba, HelanaAshryvr	22	5	25
-379663	2	23	Null (5 Suits)	2020-12-23 — 07:03:15 UTC	boba, HelanaAshryvr	22	5	25
-379658	2	0	Null (5 Suits)	2020-12-23 — 06:50:33 UTC	boba, HelanaAshryvr	25	5	25
-379653	2	0	Null (5 Suits)	2020-12-23 — 06:44:33 UTC	boba, HelanaAshryvr	28	5	25
-379649	2	0	Black & White (6 Suits)	2020-12-23 — 06:40:29 UTC	boba, HelanaAshryvr	16	6	30
-379643	2	0	Null (5 Suits)	2020-12-23 — 06:33:26 UTC	boba, HelanaAshryvr	33	5	25
-379627	2	0	Null (5 Suits)	2020-12-23 — 06:13:48 UTC	boba, HelanaAshryvr	40	5	25
+379678	2	0	Null (5 Suits)	2020-12-23 — 07:20:05 UTC	boba, HelanaAshryvr	17	5	25
+379676	2	0	Null (5 Suits)	2020-12-23 — 07:17:54 UTC	boba, HelanaAshryvr	18	5	25
+379672	2	0	Null (5 Suits)	2020-12-23 — 07:13:03 UTC	boba, HelanaAshryvr	22	5	25
+379670	2	0	Null (5 Suits)	2020-12-23 — 07:12:03 UTC	boba, HelanaAshryvr	23	5	25
+379663	2	23	Null (5 Suits)	2020-12-23 — 07:03:15 UTC	boba, HelanaAshryvr	24	5	25
+379658	2	0	Null (5 Suits)	2020-12-23 — 06:50:33 UTC	boba, HelanaAshryvr	28	5	25
+379653	2	0	Null (5 Suits)	2020-12-23 — 06:44:33 UTC	boba, HelanaAshryvr	31	5	25
+379649	2	0	Black & White (6 Suits)	2020-12-23 — 06:40:29 UTC	boba, HelanaAshryvr	17	6	30
+379643	2	0	Null (5 Suits)	2020-12-23 — 06:33:26 UTC	boba, HelanaAshryvr	36	5	25
+379627	2	0	Null (5 Suits)	2020-12-23 — 06:13:48 UTC	boba, HelanaAshryvr	44	5	25
 379417	5	28	Prism (6 Suits)	2020-12-23 — 03:20:05 UTC	Animex52, aquarelle, boba, doctorabi, HelanaAshryvr	7	6	30
 379331	5	27	Prism (6 Suits)	2020-12-23 — 02:25:30 UTC	Animex52, aquarelle, boba, doctorabi, HelanaAshryvr	7	6	30
 379298	5	0	Prism (6 Suits)	2020-12-23 — 01:55:14 UTC	Animex52, aquarelle, boba, doctorabi, HelanaAshryvr	11	6	30
 379292	3	15	White & Prism (3 Suits)	2020-12-23 — 01:41:21 UTC	aquarelle, boba, HelanaAshryvr	2	3	15
 379285	3	0	White & Prism (3 Suits)	2020-12-23 — 01:31:09 UTC	aquarelle, boba, HelanaAshryvr	5	3	15
 379280	2	0	Null (3 Suits)	2020-12-23 — 01:21:29 UTC	boba, HelanaAshryvr	26	3	15
-379276	2	14	Null (3 Suits)	2020-12-23 — 01:14:16 UTC	boba, HelanaAshryvr	37	3	15
+379276	2	14	Null (3 Suits)	2020-12-23 — 01:14:16 UTC	boba, HelanaAshryvr	38	3	15
 379262	2	25	Omni (5 Suits)	2020-12-23 — 00:51:23 UTC	boba, HelanaAshryvr	8	5	25
 379251	2	23	Omni (5 Suits)	2020-12-23 — 00:36:07 UTC	boba, HelanaAshryvr	9	5	25
 379247	2	0	Omni (5 Suits)	2020-12-23 — 00:25:36 UTC	boba, HelanaAshryvr	11	5	25
@@ -1345,10 +1355,10 @@
 379228	2	0	Omni (5 Suits)	2020-12-22 — 23:49:58 UTC	boba, HelanaAshryvr	13	5	25
 378902	3	0	Omni (6 Suits)	2020-12-22 — 16:57:56 UTC	boba, Lel0uch, sin_faith	22	6	30
 378885	2	25	Black & White (5 Suits)	2020-12-22 — 16:31:04 UTC	boba, Fey	14	5	25
-378880	2	23	Black & White (5 Suits)	2020-12-22 — 16:18:40 UTC	boba, Fey	18	5	25
-378874	2	0	Black & White (5 Suits)	2020-12-22 — 16:08:53 UTC	boba, Fey	25	5	25
-378850	2	25	Rainbow (5 Suits)	2020-12-22 — 15:08:18 UTC	boba, ChristopheAF	129	5	25
-378840	2	0	Rainbow (5 Suits)	2020-12-22 — 14:53:52 UTC	boba, ChristopheAF	154	5	25
+378880	2	23	Black & White (5 Suits)	2020-12-22 — 16:18:40 UTC	boba, Fey	19	5	25
+378874	2	0	Black & White (5 Suits)	2020-12-22 — 16:08:53 UTC	boba, Fey	27	5	25
+378850	2	25	Rainbow (5 Suits)	2020-12-22 — 15:08:18 UTC	boba, ChristopheAF	134	5	25
+378840	2	0	Rainbow (5 Suits)	2020-12-22 — 14:53:52 UTC	boba, ChristopheAF	159	5	25
 378809	4	0	White & Muddy Rainbow (6 Suits)	2020-12-22 — 12:56:27 UTC	boba, Lel0uch, orucsoraihc, StKildaFan	2	6	30
 378807	4	0	White & Muddy Rainbow (6 Suits)	2020-12-22 — 12:41:53 UTC	boba, Lel0uch, orucsoraihc, StKildaFan	3	6	30
 378806	4	0	White & Muddy Rainbow (6 Suits)	2020-12-22 — 12:38:41 UTC	boba, Lel0uch, orucsoraihc, StKildaFan	5	6	30
@@ -1361,14 +1371,14 @@
 378786	2	0	Omni & Muddy Rainbow (5 Suits)	2020-12-22 — 11:15:06 UTC	boba, Lel0uch	3	5	25
 378758	3	0	Omni & Muddy Rainbow (5 Suits)	2020-12-22 — 09:55:28 UTC	boba, katian, Lel0uch	3	5	25
 378731	3	0	Omni & Muddy Rainbow (5 Suits)	2020-12-22 — 09:33:17 UTC	boba, katian, Lel0uch	4	5	25
-378692	2	30	Muddy Rainbow (6 Suits)	2020-12-22 — 09:02:23 UTC	boba, Lel0uch	26	6	30
-378676	2	29	Muddy Rainbow (6 Suits)	2020-12-22 — 08:40:04 UTC	boba, Lel0uch	39	6	30
-378667	2	0	Muddy Rainbow (6 Suits)	2020-12-22 — 08:23:31 UTC	boba, Lel0uch	43	6	30
-378664	2	25	Muddy Rainbow (5 Suits)	2020-12-22 — 08:19:11 UTC	boba, Lel0uch	46	5	25
-378654	2	0	Muddy Rainbow (5 Suits)	2020-12-22 — 08:05:20 UTC	boba, Lel0uch	78	5	25
-378643	4	25	Rainbow (5 Suits)	2020-12-22 — 07:42:27 UTC	boba, Lel0uch, methmatics, ricardodd	23	5	25
-378631	4	0	Rainbow (5 Suits)	2020-12-22 — 07:21:28 UTC	boba, Lel0uch, methmatics, ricardodd	23	5	25
-378625	4	22	Rainbow (5 Suits)	2020-12-22 — 07:12:10 UTC	boba, Lel0uch, methmatics, ricardodd	26	5	25
+378692	2	30	Muddy Rainbow (6 Suits)	2020-12-22 — 09:02:23 UTC	boba, Lel0uch	27	6	30
+378676	2	29	Muddy Rainbow (6 Suits)	2020-12-22 — 08:40:04 UTC	boba, Lel0uch	41	6	30
+378667	2	0	Muddy Rainbow (6 Suits)	2020-12-22 — 08:23:31 UTC	boba, Lel0uch	45	6	30
+378664	2	25	Muddy Rainbow (5 Suits)	2020-12-22 — 08:19:11 UTC	boba, Lel0uch	50	5	25
+378654	2	0	Muddy Rainbow (5 Suits)	2020-12-22 — 08:05:20 UTC	boba, Lel0uch	82	5	25
+378643	4	25	Rainbow (5 Suits)	2020-12-22 — 07:42:27 UTC	boba, Lel0uch, methmatics, ricardodd	24	5	25
+378631	4	0	Rainbow (5 Suits)	2020-12-22 — 07:21:28 UTC	boba, Lel0uch, methmatics, ricardodd	24	5	25
+378625	4	22	Rainbow (5 Suits)	2020-12-22 — 07:12:10 UTC	boba, Lel0uch, methmatics, ricardodd	28	5	25
 378608	4	0	Duck (5 Suits)	2020-12-22 — 06:49:54 UTC	aquarelle, boba, methmatics, ricardodd	10	5	25
 378595	4	0	Duck (5 Suits)	2020-12-22 — 06:37:32 UTC	aquarelle, boba, methmatics, ricardodd	13	5	25
 378591	3	23	Cow & Pig (5 Suits)	2020-12-22 — 06:33:58 UTC	aquarelle, boba, methmatics	1	5	25
@@ -1377,10 +1387,10 @@
 378434	3	30	White & Prism (6 Suits)	2020-12-22 — 04:51:55 UTC	aquarelle, boba, HelanaAshryvr	13	6	30
 378406	2	0	Rainbow (6 Suits)	2020-12-22 — 04:27:18 UTC	aquarelle, boba	227	6	30
 378405	3	0	Duck (4 Suits)	2020-12-22 — 04:24:57 UTC	aquarelle, boba, HelanaAshryvr	15	4	20
-378397	2	0	Pink (6 Suits)	2020-12-22 — 04:18:25 UTC	aquarelle, boba	172	6	30
-378384	2	28	Pink (6 Suits)	2020-12-22 — 04:06:23 UTC	aquarelle, boba	219	6	30
-378332	4	0	Rainbow (4 Suits)	2020-12-22 — 03:18:05 UTC	aquarelle, boba, Feer, ricardodd	32	4	20
-378322	4	0	Rainbow (4 Suits)	2020-12-22 — 03:09:23 UTC	aquarelle, boba, Feer, ricardodd	45	4	20
+378397	2	0	Pink (6 Suits)	2020-12-22 — 04:18:25 UTC	aquarelle, boba	173	6	30
+378384	2	28	Pink (6 Suits)	2020-12-22 — 04:06:23 UTC	aquarelle, boba	220	6	30
+378332	4	0	Rainbow (4 Suits)	2020-12-22 — 03:18:05 UTC	aquarelle, boba, Feer, ricardodd	33	4	20
+378322	4	0	Rainbow (4 Suits)	2020-12-22 — 03:09:23 UTC	aquarelle, boba, Feer, ricardodd	46	4	20
 378298	3	0	Null (4 Suits)	2020-12-22 — 02:50:02 UTC	boba, Feer, ricardodd	2	4	20
 378293	3	0	Null (4 Suits)	2020-12-22 — 02:45:09 UTC	boba, Feer, ricardodd	2	4	20
 378284	3	0	Null (4 Suits)	2020-12-22 — 02:35:42 UTC	boba, colton, ricardodd	4	4	20
@@ -1390,56 +1400,56 @@
 377780	2	0	Dark Rainbow & Dark Prism (6 Suits)	2020-12-21 — 13:52:48 UTC	boba, Lel0uch	2	6	30
 377777	2	29	Dark Rainbow & Dark Prism (6 Suits)	2020-12-21 — 13:43:21 UTC	boba, Lel0uch	4	6	30
 377774	2	0	Dark Rainbow & Dark Prism (6 Suits)	2020-12-21 — 13:31:08 UTC	boba, Lel0uch	4	6	30
-377769	2	30	Black (6 Suits)	2020-12-21 — 13:21:22 UTC	boba, Lel0uch	546	6	30
-377766	2	0	Black (6 Suits)	2020-12-21 — 13:12:23 UTC	boba, Lel0uch	643	6	30
-377764	2	25	White & Omni (5 Suits)	2020-12-21 — 13:00:36 UTC	boba, Lel0uch	10	5	25
-377760	2	0	White & Omni (5 Suits)	2020-12-21 — 12:50:45 UTC	boba, Lel0uch	11	5	25
+377769	2	30	Black (6 Suits)	2020-12-21 — 13:21:22 UTC	boba, Lel0uch	553	6	30
+377766	2	0	Black (6 Suits)	2020-12-21 — 13:12:23 UTC	boba, Lel0uch	654	6	30
+377764	2	25	White & Omni (5 Suits)	2020-12-21 — 13:00:36 UTC	boba, Lel0uch	11	5	25
+377760	2	0	White & Omni (5 Suits)	2020-12-21 — 12:50:45 UTC	boba, Lel0uch	12	5	25
 377752	2	25	White (5 Suits)	2020-12-21 — 12:09:46 UTC	boba, Lel0uch	27	5	25
 377747	2	23	White (5 Suits)	2020-12-21 — 11:48:43 UTC	boba, Lel0uch	32	5	25
 377746	2	0	White (5 Suits)	2020-12-21 — 11:38:31 UTC	boba, Lel0uch	42	5	25
 377727	2	0	Omni (5 Suits)	2020-12-21 — 09:54:27 UTC	boba, HelanaAshryvr	13	5	25
 377718	3	0	Omni (6 Suits)	2020-12-21 — 09:34:08 UTC	boba, HelanaAshryvr, Lel0uch	51	6	30
 377634	2	24	White (5 Suits)	2020-12-21 — 06:56:57 UTC	aquarelle, boba	48	5	25
-377620	2	0	White (5 Suits)	2020-12-21 — 06:42:58 UTC	aquarelle, boba	69	5	25
+377620	2	0	White (5 Suits)	2020-12-21 — 06:42:58 UTC	aquarelle, boba	70	5	25
 377613	6	0	Black (5 Suits)	2020-12-21 — 06:29:27 UTC	Animex52, aquarelle, boba, FerKeth, HelanaAshryvr, Lel0uch	7	5	25
-377607	6	0	Black (5 Suits)	2020-12-21 — 06:17:43 UTC	Animex52, aquarelle, boba, FerKeth, HelanaAshryvr, Lel0uch	9	5	25
+377607	6	0	Black (5 Suits)	2020-12-21 — 06:17:43 UTC	Animex52, aquarelle, boba, FerKeth, HelanaAshryvr, Lel0uch	10	5	25
 377588	6	0	Rainbow (6 Suits)	2020-12-21 — 05:55:26 UTC	antitelharsic, aquarelle, boba, colton, frosty104, HelanaAshryvr	33	6	30
-377566	4	30	Pink (6 Suits)	2020-12-21 — 05:22:49 UTC	antitelharsic, aquarelle, boba, HelanaAshryvr	54	6	30
-377531	2	24	White (5 Suits)	2020-12-21 — 04:36:54 UTC	boba, Lel0uch	78	5	25
-377514	2	0	White (5 Suits)	2020-12-21 — 04:23:50 UTC	boba, Lel0uch	90	5	25
-377306	2	29	Brown (6 Suits)	2020-12-21 — 01:26:10 UTC	aquarelle, boba	81	6	30
-377280	2	0	Brown (6 Suits)	2020-12-21 — 01:03:04 UTC	aquarelle, boba	94	6	30
-377271	2	0	Brown (6 Suits)	2020-12-21 — 00:54:07 UTC	aquarelle, boba	129	6	30
-377255	2	20	Pink (4 Suits)	2020-12-21 — 00:35:01 UTC	aquarelle, boba	105	4	20
-377239	2	25	Pink (5 Suits)	2020-12-21 — 00:25:48 UTC	aquarelle, boba	95	5	25
-377229	2	0	Pink (5 Suits)	2020-12-21 — 00:12:27 UTC	aquarelle, boba	119	5	25
+377566	4	30	Pink (6 Suits)	2020-12-21 — 05:22:49 UTC	antitelharsic, aquarelle, boba, HelanaAshryvr	55	6	30
+377531	2	24	White (5 Suits)	2020-12-21 — 04:36:54 UTC	boba, Lel0uch	80	5	25
+377514	2	0	White (5 Suits)	2020-12-21 — 04:23:50 UTC	boba, Lel0uch	92	5	25
+377306	2	29	Brown (6 Suits)	2020-12-21 — 01:26:10 UTC	aquarelle, boba	82	6	30
+377280	2	0	Brown (6 Suits)	2020-12-21 — 01:03:04 UTC	aquarelle, boba	95	6	30
+377271	2	0	Brown (6 Suits)	2020-12-21 — 00:54:07 UTC	aquarelle, boba	131	6	30
+377255	2	20	Pink (4 Suits)	2020-12-21 — 00:35:01 UTC	aquarelle, boba	106	4	20
+377239	2	25	Pink (5 Suits)	2020-12-21 — 00:25:48 UTC	aquarelle, boba	100	5	25
+377229	2	0	Pink (5 Suits)	2020-12-21 — 00:12:27 UTC	aquarelle, boba	124	5	25
 377184	5	29	Light Pink (6 Suits)	2020-12-20 — 23:04:36 UTC	boba, ChristopheAF, Floriman, Lanvin, Wittvector	11	6	30
-377142	3	29	Black (6 Suits)	2020-12-20 — 22:26:42 UTC	boba, ChristopheAF, Lanvin	399	6	30
+377142	3	29	Black (6 Suits)	2020-12-20 — 22:26:42 UTC	boba, ChristopheAF, Lanvin	407	6	30
 376563	3	24	Omni (5 Suits)	2020-12-20 — 07:19:22 UTC	boba, HelanaAshryvr, Lel0uch	9	5	25
-376531	2	15	Prism (3 Suits)	2020-12-20 — 06:42:02 UTC	aquarelle, boba	52	3	15
-375781	3	18	4 Suits	2020-12-19 — 15:55:20 UTC	boba, kinkajusrevenge, Lel0uch	160	4	20
-375753	2	0	No Variant	2020-12-19 — 14:06:37 UTC	boba, Lel0uch	2532	5	25
-375752	2	15	Rainbow (3 Suits)	2020-12-19 — 14:01:09 UTC	boba, Lel0uch	127	3	15
-375748	2	20	Prism (4 Suits)	2020-12-19 — 13:45:39 UTC	boba, Lel0uch	31	4	20
-375744	2	0	Prism (4 Suits)	2020-12-19 — 13:36:04 UTC	boba, Lel0uch	66	4	20
-375734	4	30	Rainbow & White (6 Suits)	2020-12-19 — 12:17:00 UTC	boba, frosty104, katian, Lel0uch	7	6	30
+376531	2	15	Prism (3 Suits)	2020-12-20 — 06:42:02 UTC	aquarelle, boba	57	3	15
+375781	3	18	4 Suits	2020-12-19 — 15:55:20 UTC	boba, kinkajusrevenge, Lel0uch	162	4	20
+375753	2	0	No Variant	2020-12-19 — 14:06:37 UTC	boba, Lel0uch	2552	5	25
+375752	2	15	Rainbow (3 Suits)	2020-12-19 — 14:01:09 UTC	boba, Lel0uch	132	3	15
+375748	2	20	Prism (4 Suits)	2020-12-19 — 13:45:39 UTC	boba, Lel0uch	33	4	20
+375744	2	0	Prism (4 Suits)	2020-12-19 — 13:36:04 UTC	boba, Lel0uch	69	4	20
+375734	4	30	Rainbow & White (6 Suits)	2020-12-19 — 12:17:00 UTC	boba, frosty104, katian, Lel0uch	8	6	30
 375731	3	20	Rainbow-Ones (4 Suits)	2020-12-19 — 11:48:55 UTC	boba, frosty104, Lel0uch	12	4	20
-375718	2	15	3 Suits	2020-12-19 — 10:31:53 UTC	boba, Lel0uch	193	3	15
-375716	2	11	3 Suits	2020-12-19 — 10:25:41 UTC	boba, Lel0uch	271	3	15
+375718	2	15	3 Suits	2020-12-19 — 10:31:53 UTC	boba, Lel0uch	195	3	15
+375716	2	11	3 Suits	2020-12-19 — 10:25:41 UTC	boba, Lel0uch	273	3	15
 375709	2	23	Brown (5 Suits)	2020-12-19 — 09:50:19 UTC	boba, StKildaFan	13	5	25
 375706	2	0	Brown (5 Suits)	2020-12-19 — 09:43:28 UTC	boba, StKildaFan	13	5	25
 375701	2	25	Brown (5 Suits)	2020-12-19 — 09:34:36 UTC	boba, StKildaFan	18	5	25
 375697	2	0	Brown (5 Suits)	2020-12-19 — 09:28:03 UTC	boba, StKildaFan	18	5	25
 375693	2	20	Brown (4 Suits)	2020-12-19 — 09:20:12 UTC	boba, StKildaFan	24	4	20
-375685	2	30	Rainbow (6 Suits)	2020-12-19 — 09:05:03 UTC	boba, methmatics	200	6	30
-375490	2	20	4 Suits	2020-12-19 — 04:55:51 UTC	boba, Lel0uch	244	4	20
+375685	2	30	Rainbow (6 Suits)	2020-12-19 — 09:05:03 UTC	boba, methmatics	203	6	30
+375490	2	20	4 Suits	2020-12-19 — 04:55:51 UTC	boba, Lel0uch	248	4	20
 374822	3	30	Brown (6 Suits)	2020-12-18 — 17:53:13 UTC	boba, ChristopheAF, Lel0uch	11	6	30
 374805	3	0	Brown (6 Suits)	2020-12-18 — 17:28:43 UTC	boba, ChristopheAF, Lel0uch	11	6	30
 374788	5	0	4 Suits	2020-12-18 — 16:55:34 UTC	aquarelle, boba, ChristopheAF, Lanvin, Lel0uch	16	4	20
 374779	4	0	Rainbow & Prism (5 Suits)	2020-12-18 — 16:46:27 UTC	boba, ChristopheAF, Lanvin, Lel0uch	4	5	25
 374770	3	0	Omni (3 Suits)	2020-12-18 — 16:33:02 UTC	boba, HelanaAshryvr, Lel0uch	11	3	15
 374762	3	13	Omni (3 Suits)	2020-12-18 — 16:20:23 UTC	boba, HelanaAshryvr, Lel0uch	14	3	15
-374757	2	0	Omni (6 Suits)	2020-12-18 — 16:10:49 UTC	boba, HelanaAshryvr	121	6	30
+374757	2	0	Omni (6 Suits)	2020-12-18 — 16:10:49 UTC	boba, HelanaAshryvr	124	6	30
 374672	4	25	Omni (5 Suits)	2020-12-18 — 12:33:10 UTC	boba, doctorabi, Lel0uch, StKildaFan	9	5	25
 374670	4	0	Omni (5 Suits)	2020-12-18 — 12:16:32 UTC	boba, doctorabi, Lel0uch, StKildaFan	9	5	25
 374669	4	0	Omni (5 Suits)	2020-12-18 — 12:04:15 UTC	boba, doctorabi, Lel0uch, StKildaFan	11	5	25
@@ -1449,97 +1459,97 @@
 374658	2	24	Omni (5 Suits)	2020-12-18 — 10:56:37 UTC	boba, Lel0uch	55	5	25
 374592	3	14	Omni (3 Suits)	2020-12-18 — 07:24:35 UTC	boba, HelanaAshryvr, Lel0uch	17	3	15
 374585	3	0	Omni (3 Suits)	2020-12-18 — 07:10:55 UTC	boba, HelanaAshryvr, Lel0uch	26	3	15
-374565	2	0	Omni (5 Suits)	2020-12-18 — 06:41:39 UTC	boba, Lel0uch	78	5	25
-374544	2	30	White (6 Suits)	2020-12-18 — 06:19:55 UTC	boba, Lel0uch	184	6	30
-374505	2	30	6 Suits	2020-12-18 — 05:40:47 UTC	boba, Lel0uch	851	6	30
+374565	2	0	Omni (5 Suits)	2020-12-18 — 06:41:39 UTC	boba, Lel0uch	81	5	25
+374544	2	30	White (6 Suits)	2020-12-18 — 06:19:55 UTC	boba, Lel0uch	186	6	30
+374505	2	30	6 Suits	2020-12-18 — 05:40:47 UTC	boba, Lel0uch	862	6	30
 374418	5	0	Special Mix (6 Suits)	2020-12-18 — 04:10:16 UTC	aquarelle, boba, FerKeth, HelanaAshryvr, ricardodd	7	6	30
 374407	5	0	Special Mix (6 Suits)	2020-12-18 — 03:55:55 UTC	aquarelle, boba, FerKeth, HelanaAshryvr, ricardodd	11	6	30
-374366	2	25	Prism (5 Suits)	2020-12-18 — 03:23:24 UTC	aquarelle, boba	30	5	25
-374316	2	0	Prism (5 Suits)	2020-12-18 — 03:04:43 UTC	aquarelle, boba	36	5	25
-374305	2	0	Prism (5 Suits)	2020-12-18 — 02:58:42 UTC	aquarelle, boba	52	5	25
-374292	2	25	Rainbow (5 Suits)	2020-12-18 — 02:52:59 UTC	aquarelle, boba	64	5	25
+374366	2	25	Prism (5 Suits)	2020-12-18 — 03:23:24 UTC	aquarelle, boba	31	5	25
+374316	2	0	Prism (5 Suits)	2020-12-18 — 03:04:43 UTC	aquarelle, boba	38	5	25
+374305	2	0	Prism (5 Suits)	2020-12-18 — 02:58:42 UTC	aquarelle, boba	54	5	25
+374292	2	25	Rainbow (5 Suits)	2020-12-18 — 02:52:59 UTC	aquarelle, boba	68	5	25
 373826	2	25	Rainbow & White (5 Suits)	2020-12-17 — 17:53:56 UTC	boba, Lel0uch	46	5	25
-373819	4	24	No Variant	2020-12-17 — 17:30:43 UTC	aquarelle, boba, Lel0uch, Onen	2076	5	25
-373806	3	24	No Variant	2020-12-17 — 16:59:32 UTC	aquarelle, boba, Durandal	4221	5	25
-373791	2	21	Dark Prism (5 Suits)	2020-12-17 — 16:32:18 UTC	boba, Durandal	38	5	25
-373783	2	20	Dark Prism (5 Suits)	2020-12-17 — 16:18:16 UTC	boba, Durandal	41	5	25
-373776	2	0	Dark Prism (5 Suits)	2020-12-17 — 16:03:02 UTC	boba, Durandal	42	5	25
-373449	4	19	Rainbow (4 Suits)	2020-12-17 — 03:08:23 UTC	aquarelle, boba, HelanaAshryvr, ricardodd	25	4	20
-373413	4	29	Rainbow (6 Suits)	2020-12-17 — 02:38:05 UTC	aquarelle, boba, HelanaAshryvr, ricardodd	493	6	30
-373357	5	0	Rainbow (6 Suits)	2020-12-17 — 02:03:46 UTC	aquarelle, boba, Durandal, HelanaAshryvr, ricardodd	101	6	30
+373819	4	24	No Variant	2020-12-17 — 17:30:43 UTC	aquarelle, boba, Lel0uch, Onen	2094	5	25
+373806	3	24	No Variant	2020-12-17 — 16:59:32 UTC	aquarelle, boba, Durandal	4250	5	25
+373791	2	21	Dark Prism (5 Suits)	2020-12-17 — 16:32:18 UTC	boba, Durandal	40	5	25
+373783	2	20	Dark Prism (5 Suits)	2020-12-17 — 16:18:16 UTC	boba, Durandal	43	5	25
+373776	2	0	Dark Prism (5 Suits)	2020-12-17 — 16:03:02 UTC	boba, Durandal	45	5	25
+373449	4	19	Rainbow (4 Suits)	2020-12-17 — 03:08:23 UTC	aquarelle, boba, HelanaAshryvr, ricardodd	26	4	20
+373413	4	29	Rainbow (6 Suits)	2020-12-17 — 02:38:05 UTC	aquarelle, boba, HelanaAshryvr, ricardodd	497	6	30
+373357	5	0	Rainbow (6 Suits)	2020-12-17 — 02:03:46 UTC	aquarelle, boba, Durandal, HelanaAshryvr, ricardodd	102	6	30
 372821	6	19	Rainbow & Prism (4 Suits)	2020-12-16 — 16:10:47 UTC	boba, kimbifille, Lel0uch, MarkusKahlsen, TimeHoodie, Wittvector	1	4	20
-372794	4	21	No Variant	2020-12-16 — 14:55:57 UTC	boba, katian, Lel0uch, Spieler42	1253	5	25
-372785	2	0	White (5 Suits)	2020-12-16 — 14:31:27 UTC	boba, Lel0uch	123	5	25
-372783	2	22	White (5 Suits)	2020-12-16 — 14:27:59 UTC	boba, Lel0uch	184	5	25
+372794	4	21	No Variant	2020-12-16 — 14:55:57 UTC	boba, katian, Lel0uch, Spieler42	1267	5	25
+372785	2	0	White (5 Suits)	2020-12-16 — 14:31:27 UTC	boba, Lel0uch	127	5	25
+372783	2	22	White (5 Suits)	2020-12-16 — 14:27:59 UTC	boba, Lel0uch	187	5	25
 372738	5	0	Rainbow & Prism (5 Suits)	2020-12-16 — 12:45:37 UTC	boba, catula, frosty104, Lel0uch, Sucubis	8	5	25
 372735	4	0	Rainbow & Dark Prism (6 Suits)	2020-12-16 — 12:18:10 UTC	boba, catula, frosty104, Lel0uch	5	6	30
 372733	4	0	Rainbow & Dark Prism (6 Suits)	2020-12-16 — 12:04:36 UTC	boba, catula, frosty104, Lel0uch	7	6	30
 372732	4	0	Rainbow & Dark Prism (6 Suits)	2020-12-16 — 11:56:07 UTC	boba, catula, frosty104, Lel0uch	7	6	30
-372692	3	25	Pink (5 Suits)	2020-12-16 — 08:42:24 UTC	boba, Etherealz, HelanaAshryvr	108	5	25
-372648	4	30	Black (6 Suits)	2020-12-16 — 07:37:12 UTC	aquarelle, boba, Etherealz, HelanaAshryvr	213	6	30
-372629	4	0	Black (5 Suits)	2020-12-16 — 06:53:04 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	49	5	25
+372692	3	25	Pink (5 Suits)	2020-12-16 — 08:42:24 UTC	boba, Etherealz, HelanaAshryvr	112	5	25
+372648	4	30	Black (6 Suits)	2020-12-16 — 07:37:12 UTC	aquarelle, boba, Etherealz, HelanaAshryvr	215	6	30
+372629	4	0	Black (5 Suits)	2020-12-16 — 06:53:04 UTC	aquarelle, boba, FerKeth, HelanaAshryvr	51	5	25
 372342	3	18	Rainbow-Ones (4 Suits)	2020-12-16 — 00:57:36 UTC	boba, FerKeth, HelanaAshryvr	4	4	20
-372319	2	27	Rainbow (6 Suits)	2020-12-16 — 00:35:04 UTC	aquarelle, boba	243	6	30
-371927	2	23	Brown (5 Suits)	2020-12-15 — 15:27:36 UTC	boba, Lel0uch	87	5	25
-371926	2	24	Brown (5 Suits)	2020-12-15 — 15:08:58 UTC	boba, Lel0uch	124	5	25
-371921	2	30	Rainbow & Prism (6 Suits)	2020-12-15 — 14:45:30 UTC	boba, Lel0uch	15	6	30
+372319	2	27	Rainbow (6 Suits)	2020-12-16 — 00:35:04 UTC	aquarelle, boba	244	6	30
+371927	2	23	Brown (5 Suits)	2020-12-15 — 15:27:36 UTC	boba, Lel0uch	89	5	25
+371926	2	24	Brown (5 Suits)	2020-12-15 — 15:08:58 UTC	boba, Lel0uch	126	5	25
+371921	2	30	Rainbow & Prism (6 Suits)	2020-12-15 — 14:45:30 UTC	boba, Lel0uch	16	6	30
 371897	2	29	Rainbow & Prism (6 Suits)	2020-12-15 — 14:15:38 UTC	boba, Lel0uch	20	6	30
 371879	2	0	Rainbow & Prism (6 Suits)	2020-12-15 — 13:58:18 UTC	boba, Lel0uch	27	6	30
 371854	2	0	Light Pink (3 Suits)	2020-12-15 — 13:43:18 UTC	boba, Durandal	6	3	15
-371830	2	20	Light Pink (4 Suits)	2020-12-15 — 13:30:17 UTC	boba, Durandal	25	4	20
-371800	2	25	Prism (5 Suits)	2020-12-15 — 13:14:19 UTC	boba, Durandal	95	5	25
+371830	2	20	Light Pink (4 Suits)	2020-12-15 — 13:30:17 UTC	boba, Durandal	29	4	20
+371800	2	25	Prism (5 Suits)	2020-12-15 — 13:14:19 UTC	boba, Durandal	98	5	25
 371618	3	30	Rainbow & Prism (6 Suits)	2020-12-15 — 05:46:00 UTC	boba, HelanaAshryvr, Lel0uch	3	6	30
 371597	3	0	Rainbow & Prism (6 Suits)	2020-12-15 — 05:21:59 UTC	boba, HelanaAshryvr, Lel0uch	2	6	30
-371326	3	0	Rainbow (6 Suits)	2020-12-15 — 02:04:12 UTC	boba, colton, HelanaAshryvr	141	6	30
-371289	2	25	Rainbow (5 Suits)	2020-12-15 — 01:36:43 UTC	boba, HelanaAshryvr	95	5	25
+371326	3	0	Rainbow (6 Suits)	2020-12-15 — 02:04:12 UTC	boba, colton, HelanaAshryvr	144	6	30
+371289	2	25	Rainbow (5 Suits)	2020-12-15 — 01:36:43 UTC	boba, HelanaAshryvr	98	5	25
 370842	5	30	Rainbow & Prism (6 Suits)	2020-12-14 — 14:40:05 UTC	boba, eevee, katian, Lel0uch, methmatics	11	6	30
 370834	4	23	Rainbow & Prism (5 Suits)	2020-12-14 — 14:09:21 UTC	boba, katian, Lel0uch, methmatics	7	5	25
 370830	3	29	Rainbow & Prism (6 Suits)	2020-12-14 — 13:35:21 UTC	boba, katian, Lel0uch	2	6	30
 370822	3	28	Rainbow & Prism (6 Suits)	2020-12-14 — 13:05:28 UTC	boba, Durandal, Lel0uch	3	6	30
 370815	2	16	Omni (4 Suits)	2020-12-14 — 12:37:05 UTC	boba, Durandal	30	4	20
-370812	2	0	Omni (4 Suits)	2020-12-14 — 12:28:27 UTC	boba, Durandal	59	4	20
-370794	4	24	No Variant	2020-12-14 — 09:55:58 UTC	boba, Etherealz, HelanaAshryvr, katian	793	5	25
+370812	2	0	Omni (4 Suits)	2020-12-14 — 12:28:27 UTC	boba, Durandal	61	4	20
+370794	4	24	No Variant	2020-12-14 — 09:55:58 UTC	boba, Etherealz, HelanaAshryvr, katian	800	5	25
 370777	6	24	No Variant	2020-12-14 — 08:58:55 UTC	boba, Etherealz, HelanaAshryvr, katian, Lel0uch, methmatics	6	5	25
 370771	6	0	No Variant	2020-12-14 — 08:32:05 UTC	boba, Etherealz, HelanaAshryvr, katian, Lel0uch, methmatics	7	5	25
 370758	6	0	6 Suits	2020-12-14 — 08:00:42 UTC	boba, Etherealz, HelanaAshryvr, hughjanus, IsabeltheCat, Lel0uch	16	6	30
 370743	6	0	6 Suits	2020-12-14 — 07:19:03 UTC	boba, Etherealz, HelanaAshryvr, hughjanus, IsabeltheCat, Lel0uch	34	6	30
-369891	2	0	Omni (5 Suits)	2020-12-13 — 14:15:27 UTC	boba, Durandal	106	5	25
-368933	3	25	No Variant	2020-12-12 — 15:54:55 UTC	boba, ChristopheAF, Lel0uch	1095	5	25
-368928	2	30	Rainbow & White (6 Suits)	2020-12-12 — 15:34:54 UTC	boba, Lel0uch	58	6	30
-368915	2	25	No Variant	2020-12-12 — 15:00:17 UTC	boba, Durandal	393	5	25
-368908	2	25	No Variant	2020-12-12 — 14:37:59 UTC	boba, Durandal	393	5	25
-368902	2	22	No Variant	2020-12-12 — 14:23:12 UTC	boba, Durandal	406	5	25
-364651	2	30	Rainbow (6 Suits)	2020-12-08 — 17:04:36 UTC	boba, HelanaAshryvr	212	6	30
-364644	2	20	White (4 Suits)	2020-12-08 — 16:46:50 UTC	boba, HelanaAshryvr	94	4	20
+369891	2	0	Omni (5 Suits)	2020-12-13 — 14:15:27 UTC	boba, Durandal	110	5	25
+368933	3	25	No Variant	2020-12-12 — 15:54:55 UTC	boba, ChristopheAF, Lel0uch	1102	5	25
+368928	2	30	Rainbow & White (6 Suits)	2020-12-12 — 15:34:54 UTC	boba, Lel0uch	59	6	30
+368915	2	25	No Variant	2020-12-12 — 15:00:17 UTC	boba, Durandal	400	5	25
+368908	2	25	No Variant	2020-12-12 — 14:37:59 UTC	boba, Durandal	401	5	25
+368902	2	22	No Variant	2020-12-12 — 14:23:12 UTC	boba, Durandal	413	5	25
+364651	2	30	Rainbow (6 Suits)	2020-12-08 — 17:04:36 UTC	boba, HelanaAshryvr	213	6	30
+364644	2	20	White (4 Suits)	2020-12-08 — 16:46:50 UTC	boba, HelanaAshryvr	100	4	20
 364605	5	29	White & Prism (6 Suits)	2020-12-08 — 15:05:02 UTC	boba, GemmyBean, katian, Lel0uch, MarkusKahlsen	4	6	30
-364529	2	28	Rainbow (6 Suits)	2020-12-08 — 09:26:02 UTC	boba, Lel0uch	254	6	30
-364524	2	27	Rainbow (6 Suits)	2020-12-08 — 09:01:12 UTC	boba, Lel0uch	269	6	30
-364521	2	0	Rainbow (6 Suits)	2020-12-08 — 08:43:39 UTC	boba, Lel0uch	288	6	30
-364520	2	0	No Variant	2020-12-08 — 08:37:59 UTC	boba, Lel0uch	2750	5	25
+364529	2	28	Rainbow (6 Suits)	2020-12-08 — 09:26:02 UTC	boba, Lel0uch	255	6	30
+364524	2	27	Rainbow (6 Suits)	2020-12-08 — 09:01:12 UTC	boba, Lel0uch	271	6	30
+364521	2	0	Rainbow (6 Suits)	2020-12-08 — 08:43:39 UTC	boba, Lel0uch	289	6	30
+364520	2	0	No Variant	2020-12-08 — 08:37:59 UTC	boba, Lel0uch	2772	5	25
 364424	5	0	Rainbow (3 Suits)	2020-12-08 — 05:44:41 UTC	boba, eljavi, FerKeth, HelanaAshryvr, Romain672	8	3	15
 364397	6	26	Black (6 Suits)	2020-12-08 — 05:13:28 UTC	aquarelle, boba, eljavi, FerKeth, HelanaAshryvr, Romain672	38	6	30
 364354	4	20	4 Suits	2020-12-08 — 04:30:16 UTC	boba, FerKeth, HelanaAshryvr, Romain672	32	4	20
-363261	2	30	Rainbow (6 Suits)	2020-12-07 — 06:42:16 UTC	boba, Etherealz	306	6	30
-363257	2	30	Rainbow (6 Suits)	2020-12-07 — 06:30:30 UTC	boba, Etherealz	327	6	30
+363261	2	30	Rainbow (6 Suits)	2020-12-07 — 06:42:16 UTC	boba, Etherealz	307	6	30
+363257	2	30	Rainbow (6 Suits)	2020-12-07 — 06:30:30 UTC	boba, Etherealz	329	6	30
 363114	5	9	3 Suits	2020-12-07 — 03:52:24 UTC	aquarelle, boba, FerKeth, HelanaAshryvr, Romain672	27	3	15
-363103	3	0	6 Suits	2020-12-07 — 03:35:16 UTC	boba, FerKeth, HelanaAshryvr	252	6	30
-363092	3	0	6 Suits	2020-12-07 — 03:17:29 UTC	boba, FerKeth, HelanaAshryvr	305	6	30
-362576	3	0	No Variant	2020-12-06 — 17:55:32 UTC	boba, Durandal, HelanaAshryvr	451	5	25
+363103	3	0	6 Suits	2020-12-07 — 03:35:16 UTC	boba, FerKeth, HelanaAshryvr	256	6	30
+363092	3	0	6 Suits	2020-12-07 — 03:17:29 UTC	boba, FerKeth, HelanaAshryvr	311	6	30
+362576	3	0	No Variant	2020-12-06 — 17:55:32 UTC	boba, Durandal, HelanaAshryvr	456	5	25
 362535	5	20	Black (5 Suits)	2020-12-06 — 17:03:40 UTC	boba, ChristopheAF, frosty104, HelanaAshryvr, Lel0uch	20	5	25
-362522	4	22	Black (5 Suits)	2020-12-06 — 16:34:03 UTC	boba, ChristopheAF, HelanaAshryvr, Lel0uch	63	5	25
-362517	2	0	Rainbow (3 Suits)	2020-12-06 — 16:16:46 UTC	boba, HelanaAshryvr	76	3	15
+362522	4	22	Black (5 Suits)	2020-12-06 — 16:34:03 UTC	boba, ChristopheAF, HelanaAshryvr, Lel0uch	64	5	25
+362517	2	0	Rainbow (3 Suits)	2020-12-06 — 16:16:46 UTC	boba, HelanaAshryvr	78	3	15
 362054	5	20	Rainbow (4 Suits)	2020-12-06 — 03:02:28 UTC	aquarelle, boba, doctorabi, HelanaAshryvr, Lel0uch	11	4	20
-362026	3	29	Up or Down (6 Suits)	2020-12-06 — 02:26:55 UTC	aquarelle, boba, HelanaAshryvr	55	6	30
-361960	2	30	Rainbow (6 Suits)	2020-12-06 — 01:25:25 UTC	aquarelle, boba	349	6	30
-361941	2	30	Rainbow (6 Suits)	2020-12-06 — 01:01:11 UTC	aquarelle, boba	395	6	30
-359822	2	28	Rainbow (6 Suits)	2020-12-03 — 16:35:22 UTC	aquarelle, boba	441	6	30
-359818	2	0	Rainbow (6 Suits)	2020-12-03 — 16:17:13 UTC	aquarelle, boba	500	6	30
-359797	2	28	Rainbow (6 Suits)	2020-12-03 — 14:25:43 UTC	aquarelle, boba	593	6	30
+362026	3	29	Up or Down (6 Suits)	2020-12-06 — 02:26:55 UTC	aquarelle, boba, HelanaAshryvr	56	6	30
+361960	2	30	Rainbow (6 Suits)	2020-12-06 — 01:25:25 UTC	aquarelle, boba	351	6	30
+361941	2	30	Rainbow (6 Suits)	2020-12-06 — 01:01:11 UTC	aquarelle, boba	398	6	30
+359822	2	28	Rainbow (6 Suits)	2020-12-03 — 16:35:22 UTC	aquarelle, boba	446	6	30
+359818	2	0	Rainbow (6 Suits)	2020-12-03 — 16:17:13 UTC	aquarelle, boba	506	6	30
+359797	2	28	Rainbow (6 Suits)	2020-12-03 — 14:25:43 UTC	aquarelle, boba	605	6	30
 359380	3	0	Rainbow-Ones & Rainbow (6 Suits)	2020-12-03 — 02:57:27 UTC	boba, HelanaAshryvr, Romain672	3	6	30
-354908	4	0	Rainbow (5 Suits)	2020-11-27 — 04:58:57 UTC	aquarelle-, boba, Etherealz, Lel0uch	130	5	25
-354092	3	0	Rainbow (5 Suits)	2020-11-26 — 04:15:59 UTC	aquarelle-, boba, Lel0uch	57	5	25
-354074	3	0	Rainbow (5 Suits)	2020-11-26 — 03:54:56 UTC	aquarelle-, boba, Lel0uch	116	5	25
-354046	2	25	Rainbow (5 Suits)	2020-11-26 — 03:36:25 UTC	aquarelle-, boba	248	5	25
+354908	4	0	Rainbow (5 Suits)	2020-11-27 — 04:58:57 UTC	aquarelle-, boba, Etherealz, Lel0uch	131	5	25
+354092	3	0	Rainbow (5 Suits)	2020-11-26 — 04:15:59 UTC	aquarelle-, boba, Lel0uch	59	5	25
+354074	3	0	Rainbow (5 Suits)	2020-11-26 — 03:54:56 UTC	aquarelle-, boba, Lel0uch	119	5	25
+354046	2	25	Rainbow (5 Suits)	2020-11-26 — 03:36:25 UTC	aquarelle-, boba	257	5	25
 352262	6	0	Rainbow (5 Suits)	2020-11-24 — 03:59:31 UTC	boba, HelanaAshryvr, Lel0uch, Onen, Romain672, StKildaFan	15	5	25
 352231	5	0	Ambiguous (4 Suits)	2020-11-24 — 03:36:10 UTC	aquarelle-, boba, HelanaAshryvr, Onen, Romain672	8	4	20
 351560	3	28	Rainbow-Ones & Rainbow (6 Suits)	2020-11-23 — 05:02:02 UTC	boba, HelanaAshryvr, Romain672	6	6	30
@@ -1549,31 +1559,31 @@
 348328	4	14	Rainbow & White (3 Suits)	2020-11-20 — 02:41:15 UTC	boba, HelanaAshryvr, Lel0uch, Romain672	4	3	15
 348317	4	0	Rainbow & White (3 Suits)	2020-11-20 — 02:29:03 UTC	boba, HelanaAshryvr, Lel0uch, Romain672	6	3	15
 348308	3	29	White (6 Suits)	2020-11-20 — 02:11:33 UTC	boba, HelanaAshryvr, Romain672	27	6	30
-347765	5	25	No Variant	2020-11-19 — 13:19:16 UTC	boba, Lel0uch, sin_faith, StKildaFan, Sucubis	11	5	25
+347765	5	25	No Variant	2020-11-19 — 13:19:16 UTC	boba, Lel0uch, sin_faith, StKildaFan, Sucubis	12	5	25
 347757	5	0	No Variant	2020-11-19 — 12:47:50 UTC	boba, Lel0uch, sin_faith, StKildaFan, Sucubis	12	5	25
-347752	3	25	Prism (5 Suits)	2020-11-19 — 12:19:02 UTC	boba, Lel0uch, StKildaFan	80	5	25
-347748	2	24	No Variant	2020-11-19 — 11:54:35 UTC	boba, Lel0uch	4109	5	25
-347743	2	22	No Variant	2020-11-19 — 11:41:17 UTC	boba, Lel0uch	5374	5	25
-347730	2	23	No Variant	2020-11-19 — 10:04:25 UTC	boba, StKildaFan	125	5	25
-347725	2	25	No Variant	2020-11-19 — 09:45:39 UTC	boba, StKildaFan	126	5	25
-347723	2	0	No Variant	2020-11-19 — 09:40:12 UTC	boba, StKildaFan	126	5	25
-347718	4	0	Rainbow (6 Suits)	2020-11-19 — 09:05:27 UTC	boba, HelanaAshryvr, Lel0uch, StKildaFan	91	6	30
-347717	3	30	Rainbow (6 Suits)	2020-11-19 — 08:35:02 UTC	boba, HelanaAshryvr, Lel0uch	282	6	30
-347708	4	0	Rainbow (6 Suits)	2020-11-19 — 08:02:35 UTC	boba, catula, HelanaAshryvr, Lel0uch	104	6	30
-347703	3	23	No Variant	2020-11-19 — 07:45:24 UTC	boba, HelanaAshryvr, Lel0uch	1881	5	25
-347672	4	22	No Variant	2020-11-19 — 06:34:50 UTC	aquarelle, boba, colton, Fey	326	5	25
+347752	3	25	Prism (5 Suits)	2020-11-19 — 12:19:02 UTC	boba, Lel0uch, StKildaFan	82	5	25
+347748	2	24	No Variant	2020-11-19 — 11:54:35 UTC	boba, Lel0uch	4149	5	25
+347743	2	22	No Variant	2020-11-19 — 11:41:17 UTC	boba, Lel0uch	5421	5	25
+347730	2	23	No Variant	2020-11-19 — 10:04:25 UTC	boba, StKildaFan	131	5	25
+347725	2	25	No Variant	2020-11-19 — 09:45:39 UTC	boba, StKildaFan	132	5	25
+347723	2	0	No Variant	2020-11-19 — 09:40:12 UTC	boba, StKildaFan	132	5	25
+347718	4	0	Rainbow (6 Suits)	2020-11-19 — 09:05:27 UTC	boba, HelanaAshryvr, Lel0uch, StKildaFan	94	6	30
+347717	3	30	Rainbow (6 Suits)	2020-11-19 — 08:35:02 UTC	boba, HelanaAshryvr, Lel0uch	284	6	30
+347708	4	0	Rainbow (6 Suits)	2020-11-19 — 08:02:35 UTC	boba, catula, HelanaAshryvr, Lel0uch	106	6	30
+347703	3	23	No Variant	2020-11-19 — 07:45:24 UTC	boba, HelanaAshryvr, Lel0uch	1896	5	25
+347672	4	22	No Variant	2020-11-19 — 06:34:50 UTC	aquarelle, boba, colton, Fey	330	5	25
 344827	3	25	Clue Starved (6 Suits)	2020-11-16 — 06:35:59 UTC	boba, HelanaAshryvr, Lel0uch	20	6	30
-344820	2	28	Rainbow (6 Suits)	2020-11-16 — 06:07:13 UTC	boba, HelanaAshryvr	717	6	30
-344815	2	30	Rainbow (6 Suits)	2020-11-16 — 05:44:39 UTC	boba, HelanaAshryvr	971	6	30
-341468	3	21	No Variant	2020-11-12 — 06:33:43 UTC	boba, doctorabi, HelanaAshryvr	3260	5	25
-341463	2	20	Brown (4 Suits)	2020-11-12 — 06:15:03 UTC	boba, HelanaAshryvr	74	4	20
-341454	2	17	Null (4 Suits)	2020-11-12 — 05:58:00 UTC	boba, HelanaAshryvr	40	4	20
-341446	2	0	Null (4 Suits)	2020-11-12 — 05:46:25 UTC	boba, HelanaAshryvr	46	4	20
+344820	2	28	Rainbow (6 Suits)	2020-11-16 — 06:07:13 UTC	boba, HelanaAshryvr	728	6	30
+344815	2	30	Rainbow (6 Suits)	2020-11-16 — 05:44:39 UTC	boba, HelanaAshryvr	984	6	30
+341468	3	21	No Variant	2020-11-12 — 06:33:43 UTC	boba, doctorabi, HelanaAshryvr	3290	5	25
+341463	2	20	Brown (4 Suits)	2020-11-12 — 06:15:03 UTC	boba, HelanaAshryvr	76	4	20
+341454	2	17	Null (4 Suits)	2020-11-12 — 05:58:00 UTC	boba, HelanaAshryvr	42	4	20
+341446	2	0	Null (4 Suits)	2020-11-12 — 05:46:25 UTC	boba, HelanaAshryvr	48	4	20
 325682	2	25	Black & Null (5 Suits)	2020-10-22 — 07:27:24 UTC	boba, Etherealz	16	5	25
-325677	2	27	Light Pink (6 Suits)	2020-10-22 — 07:13:28 UTC	boba, Etherealz	47	6	30
-325671	2	29	Light Pink (6 Suits)	2020-10-22 — 06:56:04 UTC	boba, Etherealz	61	6	30
-325656	2	27	Light Pink (6 Suits)	2020-10-22 — 06:41:13 UTC	boba, Etherealz	79	6	30
+325677	2	27	Light Pink (6 Suits)	2020-10-22 — 07:13:28 UTC	boba, Etherealz	48	6	30
+325671	2	29	Light Pink (6 Suits)	2020-10-22 — 06:56:04 UTC	boba, Etherealz	63	6	30
+325656	2	27	Light Pink (6 Suits)	2020-10-22 — 06:41:13 UTC	boba, Etherealz	81	6	30
 305728	2	0	Cow & Pig (3 Suits)	2020-09-25 — 01:51:26 UTC	boba, HelanaAshryvr	29	3	15
-305719	3	22	Black & Gray (6 Suits)	2020-09-25 — 01:37:58 UTC	boba, Etherealz, HelanaAshryvr	6	6	30
-305710	3	27	Black & Gray (6 Suits)	2020-09-25 — 01:21:19 UTC	boba, Etherealz, HelanaAshryvr	10	6	30
+305719	3	22	Black & Gray (6 Suits)	2020-09-25 — 01:37:58 UTC	boba, Etherealz, HelanaAshryvr	7	6	30
+305710	3	27	Black & Gray (6 Suits)	2020-09-25 — 01:21:19 UTC	boba, Etherealz, HelanaAshryvr	11	6	30
 305698	3	23	Black & Gray (6 Suits)	2020-09-25 — 01:04:44 UTC	boba, Etherealz, HelanaAshryvr	14	6	30

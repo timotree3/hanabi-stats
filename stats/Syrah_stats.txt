@@ -1,50 +1,142 @@
+522967	5	30	Pink (6 Suits)	2021-05-07 — 10:36:18 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	31	6	30
+522410	4	28	Pink (6 Suits)	2021-05-06 — 22:30:39 UTC	Bashtalicious, mugsly, scepheo, Syrah	43	6	30
+522394	4	24	Gray (5 Suits)	2021-05-06 — 21:43:40 UTC	Bashtalicious, mugsly, scepheo, Syrah	1	5	25
+522267	2	0	Prism & Cocoa Rainbow (6 Suits)	2021-05-06 — 19:04:37 UTC	scepheo, Syrah	5	6	30
+522259	2	25	Prism & Cocoa Rainbow (6 Suits)	2021-05-06 — 18:48:29 UTC	scepheo, Syrah	5	6	30
+522251	2	0	Prism & Cocoa Rainbow (6 Suits)	2021-05-06 — 18:33:42 UTC	scepheo, Syrah	5	6	30
+522151	4	0	Black & White (6 Suits)	2021-05-06 — 15:50:14 UTC	aquarelle, HelanaAshryvr, rz, Syrah	10	6	30
+522142	4	0	Black & White (6 Suits)	2021-05-06 — 15:33:43 UTC	aquarelle, HelanaAshryvr, rz, Syrah	18	6	30
+522040	4	28	Pink (6 Suits)	2021-05-06 — 10:37:29 UTC	Bashtalicious, charhanabi, mugsly, Syrah	55	6	30
+521655	4	23	Gray (5 Suits)	2021-05-05 — 22:12:10 UTC	Bashtalicious, mugsly, scepheo, Syrah	2	5	25
+521632	4	21	Gray (5 Suits)	2021-05-05 — 21:31:31 UTC	Bashtalicious, mugsly, scepheo, Syrah	1	5	25
+521178	4	0	Rainbow (6 Suits)	2021-05-05 — 10:54:41 UTC	Bashtalicious, mugsly, scepheo, Syrah	188	6	30
+521168	4	23	Gray (5 Suits)	2021-05-05 — 10:31:47 UTC	Bashtalicious, mugsly, scepheo, Syrah	2	5	25
+520679	4	25	Gray (5 Suits)	2021-05-04 — 22:12:03 UTC	Bashtalicious, mugsly, scepheo, Syrah	4	5	25
+520668	4	25	Gray (5 Suits)	2021-05-04 — 21:45:54 UTC	Bashtalicious, mugsly, scepheo, Syrah	5	5	25
+520658	3	0	Gray (5 Suits)	2021-05-04 — 21:28:25 UTC	mugsly, scepheo, Syrah	12	5	25
+520644	3	23	Special Mix (5 Suits)	2021-05-04 — 21:15:54 UTC	mugsly, scepheo, Syrah	39	5	25
+520626	3	0	Special Mix (5 Suits)	2021-05-04 — 20:52:26 UTC	mugsly, scepheo, Syrah	50	5	25
+520606	4	24	Rainbow Reversed (5 Suits)	2021-05-04 — 20:20:56 UTC	bob65536, BraydonM, macanek, Syrah	13	5	25
+520588	3	20	Rainbow & White (4 Suits)	2021-05-04 — 19:55:17 UTC	BraydonM, macanek, Syrah	29	4	20
+520557	2	20	Rainbow-Ones & Pink (4 Suits)	2021-05-04 — 19:05:09 UTC	scepheo, Syrah	8	4	20
+520546	2	30	Brown-Ones & White (6 Suits)	2021-05-04 — 18:51:18 UTC	scepheo, Syrah	6	6	30
+520539	2	0	Reversed (4 Suits)	2021-05-04 — 18:39:05 UTC	scepheo, Syrah	8	4	20
+520535	2	0	Reversed (4 Suits)	2021-05-04 — 18:36:55 UTC	scepheo, Syrah	22	4	20
+520532	2	0	Reversed (4 Suits)	2021-05-04 — 18:34:24 UTC	scepheo, Syrah	30	4	20
+520335	3	19	Brown (4 Suits)	2021-05-04 — 10:52:01 UTC	Bashtalicious, scepheo, Syrah	22	4	20
+520323	3	25	Brown (5 Suits)	2021-05-04 — 10:24:41 UTC	Bashtalicious, scepheo, Syrah	65	5	25
+519800	4	28	Rainbow & Light Pink (6 Suits)	2021-05-03 — 22:33:32 UTC	dobi, Lanvin, Syrah, timotree	6	6	30
+519454	3	23	Up or Down & Brown (5 Suits)	2021-05-03 — 16:46:07 UTC	ADrone, Fey, Syrah	5	5	25
+519445	3	23	Up or Down & Brown (5 Suits)	2021-05-03 — 16:25:11 UTC	ADrone, Fey, Syrah	6	5	25
+519436	3	24	Up or Down & Brown (5 Suits)	2021-05-03 — 16:00:14 UTC	ADrone, Fey, Syrah	7	5	25
+519351	5	16	4 Suits	2021-05-03 — 10:58:51 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	24	4	20
+519345	5	28	Gray (6 Suits)	2021-05-03 — 10:32:45 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	11	6	30
+518796	3	30	Clue Starved (6 Suits)	2021-05-02 — 19:22:40 UTC	mugsly, scepheo, Syrah	7	6	30
+518762	3	27	Clue Starved (6 Suits)	2021-05-02 — 18:39:09 UTC	mugsly, scepheo, Syrah	7	6	30
+518743	4	25	Gray (5 Suits)	2021-05-02 — 17:57:04 UTC	Bashtalicious, mugsly, scepheo, Syrah	6	5	25
+517842	4	22	Gray (5 Suits)	2021-05-01 — 18:48:13 UTC	Bashtalicious, mugsly, scepheo, Syrah	6	5	25
+517831	4	0	Gray (5 Suits)	2021-05-01 — 18:30:32 UTC	Bashtalicious, mugsly, scepheo, Syrah	6	5	25
+517815	4	0	Gray (5 Suits)	2021-05-01 — 18:04:03 UTC	Bashtalicious, mugsly, scepheo, Syrah	6	5	25
+517795	4	22	Gray (5 Suits)	2021-05-01 — 17:37:09 UTC	Bashtalicious, mugsly, scepheo, Syrah	6	5	25
+517775	4	0	Gray (5 Suits)	2021-05-01 — 17:09:21 UTC	Bashtalicious, mugsly, scepheo, Syrah	6	5	25
+517769	4	24	Gray (5 Suits)	2021-05-01 — 16:44:35 UTC	Bashtalicious, mugsly, scepheo, Syrah	8	5	25
+517759	4	22	Gray (5 Suits)	2021-05-01 — 16:20:28 UTC	Bashtalicious, mugsly, scepheo, Syrah	9	5	25
+517024	2	15	Rainbow & Prism (3 Suits)	2021-04-30 — 19:48:48 UTC	scepheo, Syrah	22	3	15
+517010	2	24	Rainbow & Prism (5 Suits)	2021-04-30 — 19:39:05 UTC	scepheo, Syrah	31	5	25
+516990	2	15	Prism (3 Suits)	2021-04-30 — 19:23:54 UTC	scepheo, Syrah	57	3	15
+516983	2	20	Prism (4 Suits)	2021-04-30 — 19:19:20 UTC	scepheo, Syrah	33	4	20
+516967	2	17	Prism (4 Suits)	2021-04-30 — 19:08:19 UTC	scepheo, Syrah	69	4	20
+516959	2	25	Prism (5 Suits)	2021-04-30 — 19:01:27 UTC	scepheo, Syrah	98	5	25
+516949	2	30	Prism (6 Suits)	2021-04-30 — 18:47:09 UTC	scepheo, Syrah	46	6	30
+516938	2	0	Prism (6 Suits)	2021-04-30 — 18:34:58 UTC	scepheo, Syrah	62	6	30
+516929	2	0	Prism (6 Suits)	2021-04-30 — 18:27:19 UTC	scepheo, Syrah	66	6	30
+516920	2	0	Prism (6 Suits)	2021-04-30 — 18:18:19 UTC	scepheo, Syrah	92	6	30
+516915	2	0	Prism (6 Suits)	2021-04-30 — 18:14:19 UTC	scepheo, Syrah	116	6	30
+516906	2	20	White-Fives & Light Pink (4 Suits)	2021-04-30 — 18:05:07 UTC	scepheo, Syrah	2	4	20
+516896	2	0	White-Fives & Light Pink (4 Suits)	2021-04-30 — 17:43:33 UTC	scepheo, Syrah	2	4	20
+516893	2	0	Dual-Color (6 Suits)	2021-04-30 — 17:34:01 UTC	scepheo, Syrah	35	6	30
+516881	2	30	Dual-Color (6 Suits)	2021-04-30 — 17:02:40 UTC	scepheo, Syrah	40	6	30
+516871	2	28	Dual-Color (6 Suits)	2021-04-30 — 16:45:18 UTC	scepheo, Syrah	60	6	30
+516862	2	0	Dual-Color (6 Suits)	2021-04-30 — 16:25:57 UTC	scepheo, Syrah	72	6	30
+516850	2	0	Dual-Color (6 Suits)	2021-04-30 — 16:15:28 UTC	scepheo, Syrah	89	6	30
+516840	2	15	Dual-Color (3 Suits)	2021-04-30 — 16:08:03 UTC	scepheo, Syrah	54	3	15
+516798	2	25	Dual-Color (5 Suits)	2021-04-30 — 15:20:40 UTC	scepheo, Syrah	22	5	25
+516790	2	0	Dual-Color (5 Suits)	2021-04-30 — 15:04:49 UTC	scepheo, Syrah	25	5	25
+516779	2	24	Dual-Color (5 Suits)	2021-04-30 — 14:45:45 UTC	scepheo, Syrah	26	5	25
+516739	2	0	Dual-Color (5 Suits)	2021-04-30 — 12:27:19 UTC	scepheo, Syrah	33	5	25
+516738	2	0	Dual-Color (5 Suits)	2021-04-30 — 12:26:03 UTC	scepheo, Syrah	34	5	25
+516734	2	23	Dual-Color (5 Suits)	2021-04-30 — 12:20:49 UTC	scepheo, Syrah	54	5	25
+516727	2	0	Dual-Color (5 Suits)	2021-04-30 — 12:05:55 UTC	scepheo, Syrah	64	5	25
+516724	2	0	Dual-Color (5 Suits)	2021-04-30 — 12:02:02 UTC	scepheo, Syrah	76	5	25
+516719	2	0	Dual-Color (5 Suits)	2021-04-30 — 11:58:46 UTC	scepheo, Syrah	87	5	25
+516686	5	10	3 Suits	2021-04-30 — 11:02:30 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	25	3	15
+516676	5	26	Gray (6 Suits)	2021-04-30 — 10:34:37 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	15	6	30
+515642	4	30	Rainbow (6 Suits)	2021-04-29 — 11:03:05 UTC	Bashtalicious, charhanabi, mugsly, Syrah	205	6	30
+515634	4	0	Gray (6 Suits)	2021-04-29 — 10:32:41 UTC	Bashtalicious, charhanabi, mugsly, Syrah	19	6	30
+514773	4	0	Rainbow & White (6 Suits)	2021-04-28 — 10:35:21 UTC	Bashtalicious, charhanabi, scepheo, Syrah	25	6	30
+514205	4	25	Dark Prism (5 Suits)	2021-04-27 — 21:01:44 UTC	Bot-Fiora, ChristopheAF, indego, Syrah	10	5	25
+514178	4	24	Dark Prism (5 Suits)	2021-04-27 — 20:39:45 UTC	Bot-Fiora, ChristopheAF, indego, Syrah	10	5	25
+514155	4	0	Dark Prism (5 Suits)	2021-04-27 — 20:13:48 UTC	Bot-Fiora, ChristopheAF, indego, Syrah	12	5	25
+514094	3	24	Gray (5 Suits)	2021-04-27 — 18:34:53 UTC	Bashtalicious, scepheo, Syrah	13	5	25
+514057	3	24	Black & Rainbow (5 Suits)	2021-04-27 — 17:51:11 UTC	Bashtalicious, scepheo, Syrah	47	5	25
+514023	3	28	Up or Down (6 Suits)	2021-04-27 — 16:53:44 UTC	Bashtalicious, scepheo, Syrah	11	6	30
+514003	3	25	Up or Down (6 Suits)	2021-04-27 — 16:04:49 UTC	Bashtalicious, scepheo, Syrah	11	6	30
+513849	4	30	Rainbow (6 Suits)	2021-04-27 — 10:32:19 UTC	Bashtalicious, mugsly, scepheo, Syrah	244	6	30
+513844	4	22	Gray (5 Suits)	2021-04-27 — 10:03:38 UTC	Bashtalicious, mugsly, scepheo, Syrah	8	5	25
+513248	4	20	Gray (5 Suits)	2021-04-26 — 17:03:09 UTC	Bashtalicious, mugsly, scepheo, Syrah	11	5	25
+513178	4	22	Gray (5 Suits)	2021-04-26 — 16:23:31 UTC	Bashtalicious, mugsly, scepheo, Syrah	9	5	25
+513134	4	21	Gray (5 Suits)	2021-04-26 — 15:38:59 UTC	Bashtalicious, mugsly, scepheo, Syrah	11	5	25
+513118	4	0	Gray (5 Suits)	2021-04-26 — 15:15:16 UTC	Bashtalicious, mugsly, scepheo, Syrah	15	5	25
+513029	3	25	Gray (5 Suits)	2021-04-26 — 11:17:31 UTC	Bashtalicious, scepheo, Syrah	18	5	25
+513021	3	0	Gray (5 Suits)	2021-04-26 — 10:51:54 UTC	Bashtalicious, scepheo, Syrah	17	5	25
+513015	3	28	Gray (6 Suits)	2021-04-26 — 10:24:25 UTC	Bashtalicious, scepheo, Syrah	25	6	30
 512437	3	0	Gray (5 Suits)	2021-04-25 — 19:39:56 UTC	mugsly, scepheo, Syrah	20	5	25
 512385	3	28	Clue Starved (6 Suits)	2021-04-25 — 19:01:51 UTC	mugsly, scepheo, Syrah	7	6	30
 512123	3	29	Clue Starved (6 Suits)	2021-04-25 — 09:50:22 UTC	mugsly, scepheo, Syrah	7	6	30
 511606	4	28	Light Pink (6 Suits)	2021-04-24 — 21:54:53 UTC	MangoPie, mystus, Syrah, timotree	19	6	30
-510655	3	0	Clue Starved (6 Suits)	2021-04-23 — 22:39:40 UTC	mugsly, scepheo, Syrah	7	6	30
+510655	3	0	Clue Starved (6 Suits)	2021-04-23 — 22:39:40 UTC	mugsly, scepheo, Syrah	8	6	30
 510647	3	0	Clue Starved (6 Suits)	2021-04-23 — 22:30:36 UTC	mugsly, scepheo, Syrah	11	6	30
-510620	4	23	Gray (5 Suits)	2021-04-23 — 22:14:40 UTC	Bashtalicious, mugsly, scepheo, Syrah	12	5	25
-510576	4	22	Gray (5 Suits)	2021-04-23 — 21:30:08 UTC	Bashtalicious, mugsly, scepheo, Syrah	13	5	25
-510553	4	0	Gray (5 Suits)	2021-04-23 — 21:01:02 UTC	Bashtalicious, mugsly, scepheo, Syrah	14	5	25
-510507	4	22	Gray (5 Suits)	2021-04-23 — 20:21:57 UTC	Bashtalicious, mugsly, scepheo, Syrah	14	5	25
-510481	4	0	Gray (5 Suits)	2021-04-23 — 20:02:26 UTC	Bashtalicious, mugsly, scepheo, Syrah	22	5	25
+510620	4	23	Gray (5 Suits)	2021-04-23 — 22:14:40 UTC	Bashtalicious, mugsly, scepheo, Syrah	14	5	25
+510576	4	22	Gray (5 Suits)	2021-04-23 — 21:30:08 UTC	Bashtalicious, mugsly, scepheo, Syrah	15	5	25
+510553	4	0	Gray (5 Suits)	2021-04-23 — 21:01:02 UTC	Bashtalicious, mugsly, scepheo, Syrah	15	5	25
+510507	4	22	Gray (5 Suits)	2021-04-23 — 20:21:57 UTC	Bashtalicious, mugsly, scepheo, Syrah	16	5	25
+510481	4	0	Gray (5 Suits)	2021-04-23 — 20:02:26 UTC	Bashtalicious, mugsly, scepheo, Syrah	23	5	25
 510478	4	0	Gray (5 Suits)	2021-04-23 — 19:56:58 UTC	Bashtalicious, mugsly, scepheo, Syrah	27	5	25
 510467	3	0	Clue Starved (6 Suits)	2021-04-23 — 19:40:20 UTC	mugsly, scepheo, Syrah	13	6	30
 510450	3	29	Clue Starved (6 Suits)	2021-04-23 — 19:15:36 UTC	mugsly, scepheo, Syrah	20	6	30
 510321	4	27	Black & Light Pink (6 Suits)	2021-04-23 — 16:28:38 UTC	Kyle, rz, Syrah, wump	10	6	30
 510277	3	25	Pink & Light Pink (5 Suits)	2021-04-23 — 15:55:27 UTC	rz, Syrah, Wittvector	6	5	25
 510259	3	0	Pink & Light Pink (5 Suits)	2021-04-23 — 15:30:14 UTC	rz, Syrah, Wittvector	11	5	25
-510149	4	25	No Variant	2021-04-23 — 10:59:20 UTC	Bashtalicious, charhanabi, mugsly, Syrah	287	5	25
-510144	4	29	Gray (6 Suits)	2021-04-23 — 10:37:46 UTC	Bashtalicious, charhanabi, mugsly, Syrah	22	6	30
+510149	4	25	No Variant	2021-04-23 — 10:59:20 UTC	Bashtalicious, charhanabi, mugsly, Syrah	293	5	25
+510144	4	29	Gray (6 Suits)	2021-04-23 — 10:37:46 UTC	Bashtalicious, charhanabi, mugsly, Syrah	23	6	30
 509621	5	28	White-Ones & Pink (6 Suits)	2021-04-22 — 21:21:11 UTC	Floriman, Lanvin, MarkusKahlsen, rz, Syrah	1	6	30
 509591	5	0	White-Ones & Pink (6 Suits)	2021-04-22 — 20:47:34 UTC	Floriman, Lanvin, MarkusKahlsen, rz, Syrah	2	6	30
 509558	5	0	White-Ones & Pink (6 Suits)	2021-04-22 — 20:23:00 UTC	Floriman, Lanvin, MarkusKahlsen, rz, Syrah	3	6	30
 509393	5	0	Black & Rainbow (6 Suits)	2021-04-22 — 16:32:15 UTC	ChristopheAF, MarkusKahlsen, rz, squirrel1988, Syrah	11	6	30
-509288	5	0	No Variant	2021-04-22 — 11:04:32 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	262	5	25
+509288	5	0	No Variant	2021-04-22 — 11:04:32 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	265	5	25
 509284	5	29	Gray (6 Suits)	2021-04-22 — 10:35:16 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	19	6	30
 508402	4	13	3 Suits	2021-04-21 — 10:56:08 UTC	Bashtalicious, mugsly, scepheo, Syrah	37	3	15
-508374	4	24	Gray (5 Suits)	2021-04-21 — 10:32:07 UTC	Bashtalicious, mugsly, scepheo, Syrah	33	5	25
+508374	4	24	Gray (5 Suits)	2021-04-21 — 10:32:07 UTC	Bashtalicious, mugsly, scepheo, Syrah	34	5	25
 507929	5	30	Dark Omni (6 Suits)	2021-04-20 — 23:03:12 UTC	ChristopheAF, Lanvin, MangoPie, melwen, Syrah	1	6	30
 507902	5	0	Dark Omni (6 Suits)	2021-04-20 — 22:31:44 UTC	ChristopheAF, Lanvin, MangoPie, melwen, Syrah	1	6	30
 507891	5	0	Dark Omni (6 Suits)	2021-04-20 — 22:12:37 UTC	ChristopheAF, Lanvin, MangoPie, melwen, Syrah	1	6	30
 507880	5	25	Rainbow & Omni (5 Suits)	2021-04-20 — 21:53:32 UTC	ChristopheAF, colton, Lanvin, MangoPie, Syrah	2	5	25
 507856	4	28	White-Ones & Pink (6 Suits)	2021-04-20 — 21:21:25 UTC	colton, Lanvin, MangoPie, Syrah	4	6	30
-507808	5	27	Black & Rainbow (6 Suits)	2021-04-20 — 20:27:30 UTC	desymo99, giorgio3110, newduke, Plum, Syrah	20	6	30
+507808	5	27	Black & Rainbow (6 Suits)	2021-04-20 — 20:27:30 UTC	desymo99, giorgio3110, newduke, Plum, Syrah	21	6	30
 507445	4	14	3 Suits	2021-04-20 — 11:01:50 UTC	Bashtalicious, mugsly, scepheo, Syrah	49	3	15
 507438	4	30	Gray (6 Suits)	2021-04-20 — 10:34:41 UTC	Bashtalicious, mugsly, scepheo, Syrah	29	6	30
 506419	5	0	Black & White (6 Suits)	2021-04-19 — 10:53:31 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	15	6	30
-506411	4	0	Black & White (6 Suits)	2021-04-19 — 10:34:11 UTC	Bashtalicious, mugsly, scepheo, Syrah	22	6	30
+506411	4	0	Black & White (6 Suits)	2021-04-19 — 10:34:11 UTC	Bashtalicious, mugsly, scepheo, Syrah	23	6	30
 506410	4	0	Black & White (6 Suits)	2021-04-19 — 10:30:24 UTC	Bashtalicious, mugsly, scepheo, Syrah	24	6	30
 505576	3	25	Null (5 Suits)	2021-04-18 — 19:01:11 UTC	mugsly, scepheo, Syrah	12	5	25
 505508	3	19	Null (5 Suits)	2021-04-18 — 18:08:46 UTC	mugsly, scepheo, Syrah	12	5	25
 505457	3	22	Null (5 Suits)	2021-04-18 — 17:26:48 UTC	mugsly, scepheo, Syrah	13	5	25
-504601	3	25	No Variant	2021-04-17 — 22:15:14 UTC	mugsly, scepheo, Syrah	680	5	25
+504601	3	25	No Variant	2021-04-17 — 22:15:14 UTC	mugsly, scepheo, Syrah	688	5	25
 504566	3	24	Null (5 Suits)	2021-04-17 — 21:38:26 UTC	mugsly, scepheo, Syrah	13	5	25
 504470	3	0	Null (5 Suits)	2021-04-17 — 20:40:07 UTC	mugsly, scepheo, Syrah	12	5	25
 504414	3	25	Null (5 Suits)	2021-04-17 — 20:04:50 UTC	mugsly, scepheo, Syrah	12	5	25
 504375	3	24	Null (5 Suits)	2021-04-17 — 19:19:48 UTC	mugsly, scepheo, Syrah	14	5	25
-502789	5	30	Prism (6 Suits)	2021-04-16 — 10:58:21 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	17	6	30
+502789	5	30	Prism (6 Suits)	2021-04-16 — 10:58:21 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	18	6	30
 502769	5	0	Prism (6 Suits)	2021-04-16 — 10:25:08 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	24	6	30
 502247	3	25	Null (5 Suits)	2021-04-15 — 21:49:17 UTC	knaphill, robense, Syrah	14	5	25
 502161	2	0	Cocoa Rainbow (5 Suits)	2021-04-15 — 20:21:55 UTC	Lanvin, Syrah	6	5	25
@@ -62,15 +154,15 @@
 501790	5	10	3 Suits	2021-04-15 — 11:02:42 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	27	3	15
 501784	4	29	Black & White (6 Suits)	2021-04-15 — 10:38:43 UTC	Bashtalicious, charhanabi, mugsly, Syrah	29	6	30
 500884	4	25	White-Ones & Rainbow (5 Suits)	2021-04-14 — 15:49:39 UTC	IsabeltheCat, jack67889, Syrah, Wittvector	6	5	25
-500869	4	28	Black (6 Suits)	2021-04-14 — 15:19:12 UTC	dobi, Syrah, Wittvector, Zakisan	71	6	30
-500850	3	0	Rainbow & Gray (6 Suits)	2021-04-14 — 14:45:08 UTC	Syrah, Wittvector, Zakisan	10	6	30
-500840	3	29	Rainbow & Gray (6 Suits)	2021-04-14 — 14:16:32 UTC	Syrah, Wittvector, Zakisan	17	6	30
+500869	4	28	Black (6 Suits)	2021-04-14 — 15:19:12 UTC	dobi, Syrah, Wittvector, Zakisan	73	6	30
+500850	3	0	Rainbow & Gray (6 Suits)	2021-04-14 — 14:45:08 UTC	Syrah, Wittvector, Zakisan	11	6	30
+500840	3	29	Rainbow & Gray (6 Suits)	2021-04-14 — 14:16:32 UTC	Syrah, Wittvector, Zakisan	18	6	30
 500174	3	25	Null (5 Suits)	2021-04-13 — 21:32:09 UTC	mugsly, scepheo, Syrah	15	5	25
 500068	3	25	Null (5 Suits)	2021-04-13 — 20:35:32 UTC	mugsly, scepheo, Syrah	16	5	25
 500021	3	0	Null (5 Suits)	2021-04-13 — 20:07:22 UTC	mugsly, scepheo, Syrah	17	5	25
 498503	6	22	Black (5 Suits)	2021-04-12 — 16:46:57 UTC	HelanaAshryvr, indego, knaphill, newduke, sin_faith, Syrah	3	5	25
 498495	6	0	Black (5 Suits)	2021-04-12 — 16:22:28 UTC	HelanaAshryvr, indego, knaphill, newduke, sin_faith, Syrah	5	5	25
-498490	4	0	Pink (6 Suits)	2021-04-12 — 16:07:21 UTC	indego, newduke, sin_faith, Syrah	70	6	30
+498490	4	0	Pink (6 Suits)	2021-04-12 — 16:07:21 UTC	indego, newduke, sin_faith, Syrah	71	6	30
 498418	3	25	Black & Pink (5 Suits)	2021-04-12 — 14:17:53 UTC	HelanaAshryvr, Syrah, Wittvector	22	5	25
 498321	3	28	Black & White (6 Suits)	2021-04-12 — 10:31:17 UTC	charhanabi, scepheo, Syrah	39	6	30
 497430	3	25	Null (5 Suits)	2021-04-11 — 19:34:17 UTC	mugsly, scepheo, Syrah	18	5	25
@@ -81,8 +173,8 @@
 496074	3	0	Null (5 Suits)	2021-04-10 — 12:17:01 UTC	mugsly, scepheo, Syrah	20	5	25
 496037	3	0	Null (5 Suits)	2021-04-10 — 11:23:40 UTC	mugsly, scepheo, Syrah	21	5	25
 495978	3	25	Null (5 Suits)	2021-04-10 — 10:30:22 UTC	mugsly, scepheo, Syrah	27	5	25
-495905	3	27	Black & White (6 Suits)	2021-04-10 — 08:42:52 UTC	possum, qqqq, Syrah	47	6	30
-495485	4	0	Black (6 Suits)	2021-04-09 — 23:49:55 UTC	griff77, kevincaseytdk1, MangoPie, Syrah	90	6	30
+495905	3	27	Black & White (6 Suits)	2021-04-10 — 08:42:52 UTC	possum, qqqq, Syrah	48	6	30
+495485	4	0	Black (6 Suits)	2021-04-09 — 23:49:55 UTC	griff77, kevincaseytdk1, MangoPie, Syrah	95	6	30
 495462	5	24	Gray (5 Suits)	2021-04-09 — 23:18:03 UTC	colton, griff77, kevincaseytdk1, MangoPie, Syrah	6	5	25
 495440	3	0	Black (5 Suits)	2021-04-09 — 22:50:04 UTC	CaitlinSmith, kevincaseytdk1, Syrah	25	5	25
 495399	3	0	Null (5 Suits)	2021-04-09 — 22:07:55 UTC	mugsly, scepheo, Syrah	32	5	25
@@ -92,23 +184,23 @@
 495178	2	0	Ambiguous (6 Suits)	2021-04-09 — 20:00:11 UTC	scepheo, Syrah	38	6	30
 495170	2	0	Ambiguous (6 Suits)	2021-04-09 — 19:53:22 UTC	scepheo, Syrah	45	6	30
 495148	2	0	Ambiguous (6 Suits)	2021-04-09 — 19:34:13 UTC	scepheo, Syrah	51	6	30
-495123	2	0	Ambiguous (6 Suits)	2021-04-09 — 19:12:22 UTC	scepheo, Syrah	82	6	30
-495113	2	0	Ambiguous (6 Suits)	2021-04-09 — 18:59:12 UTC	scepheo, Syrah	105	6	30
-495103	2	15	3 Suits	2021-04-09 — 18:48:30 UTC	scepheo, Syrah	193	3	15
-495021	2	20	4 Suits	2021-04-09 — 17:43:54 UTC	scepheo, Syrah	110	4	20
-494999	2	0	4 Suits	2021-04-09 — 17:30:46 UTC	scepheo, Syrah	128	4	20
+495123	2	0	Ambiguous (6 Suits)	2021-04-09 — 19:12:22 UTC	scepheo, Syrah	84	6	30
+495113	2	0	Ambiguous (6 Suits)	2021-04-09 — 18:59:12 UTC	scepheo, Syrah	107	6	30
+495103	2	15	3 Suits	2021-04-09 — 18:48:30 UTC	scepheo, Syrah	195	3	15
+495021	2	20	4 Suits	2021-04-09 — 17:43:54 UTC	scepheo, Syrah	113	4	20
+494999	2	0	4 Suits	2021-04-09 — 17:30:46 UTC	scepheo, Syrah	134	4	20
 494926	5	30	Reversed (6 Suits)	2021-04-09 — 16:13:36 UTC	duckless, Fey, Lel0uch, sin_faith, Syrah	1	6	30
 494907	4	28	Prism (6 Suits)	2021-04-09 — 15:40:55 UTC	duckless, Fey, Meowie, Syrah	53	6	30
 494897	5	0	Prism (6 Suits)	2021-04-09 — 15:15:26 UTC	BananaBum, Fey, possum, PotatoLatte, Syrah	11	6	30
-494888	4	25	White (5 Suits)	2021-04-09 — 14:59:06 UTC	BananaBum, possum, PotatoLatte, Syrah	46	5	25
+494888	4	25	White (5 Suits)	2021-04-09 — 14:59:06 UTC	BananaBum, possum, PotatoLatte, Syrah	47	5	25
 494799	5	25	No Variant	2021-04-09 — 11:47:23 UTC	asaelr, BananaBum, Fey, possum, Syrah	11	5	25
-494773	4	25	No Variant	2021-04-09 — 10:31:04 UTC	charhanabi, mugsly, scepheo, Syrah	326	5	25
+494773	4	25	No Variant	2021-04-09 — 10:31:04 UTC	charhanabi, mugsly, scepheo, Syrah	330	5	25
 494384	4	0	White-Ones & Prism (6 Suits)	2021-04-08 — 23:51:55 UTC	HelanaAshryvr, Lanvin, melwen, Syrah	1	6	30
 494370	4	0	White-Ones & Prism (6 Suits)	2021-04-08 — 23:36:53 UTC	HelanaAshryvr, Lanvin, melwen, Syrah	1	6	30
 494355	6	0	Pink & White (6 Suits)	2021-04-08 — 23:06:32 UTC	dobi, Lanvin, melwen, Pimak, squirrel1988, Syrah	1	6	30
 494333	5	0	Dark Omni (6 Suits)	2021-04-08 — 22:39:29 UTC	HelanaAshryvr, Lanvin, melwen, Pimak, Syrah	2	6	30
 494291	5	0	Rainbow & Light Pink (6 Suits)	2021-04-08 — 21:48:23 UTC	colton, HelanaAshryvr, Lanvin, squirrel1988, Syrah	4	6	30
-494264	4	30	Up or Down (6 Suits)	2021-04-08 — 21:17:27 UTC	bjnh, HelanaAshryvr, Lanvin, Syrah	12	6	30
+494264	4	30	Up or Down (6 Suits)	2021-04-08 — 21:17:27 UTC	bjnh, HelanaAshryvr, Lanvin, Syrah	13	6	30
 494225	4	0	Up or Down (6 Suits)	2021-04-08 — 20:43:57 UTC	bjnh, HelanaAshryvr, Lanvin, Syrah	15	6	30
 494212	4	0	Up or Down (6 Suits)	2021-04-08 — 20:25:24 UTC	bjnh, HelanaAshryvr, Lanvin, Syrah	19	6	30
 494044	3	0	Rainbow & White (6 Suits)	2021-04-08 — 16:39:43 UTC	Fey, Syrah, TheDaniMan	5	6	30
@@ -116,17 +208,17 @@
 494009	3	24	Black & White (5 Suits)	2021-04-08 — 15:38:48 UTC	Denchulitas, Syrah, wolfpack	26	5	25
 494000	3	0	Black & White (5 Suits)	2021-04-08 — 15:19:10 UTC	Denchulitas, Syrah, wolfpack	25	5	25
 493995	3	21	Black & White (5 Suits)	2021-04-08 — 15:03:54 UTC	Denchulitas, Syrah, wolfpack	31	5	25
-493914	4	25	No Variant	2021-04-08 — 11:11:34 UTC	Bashtastic, charhanabi, mugsly, Syrah	336	5	25
-493904	4	24	No Variant	2021-04-08 — 10:37:47 UTC	Bashtastic, charhanabi, mugsly, Syrah	373	5	25
+493914	4	25	No Variant	2021-04-08 — 11:11:34 UTC	Bashtastic, charhanabi, mugsly, Syrah	340	5	25
+493904	4	24	No Variant	2021-04-08 — 10:37:47 UTC	Bashtastic, charhanabi, mugsly, Syrah	376	5	25
 493539	4	30	Muddy Rainbow (6 Suits)	2021-04-07 — 23:22:21 UTC	bob65536, HelanaAshryvr, Lanvin, Syrah	3	6	30
 493524	4	0	Pink & Prism (5 Suits)	2021-04-07 — 22:54:04 UTC	bob65536, Lanvin, MarkusKahlsen, Syrah	5	5	25
 493513	4	30	Pink & Prism (6 Suits)	2021-04-07 — 22:29:45 UTC	HelanaAshryvr, Lanvin, MarkusKahlsen, Syrah	6	6	30
 493490	4	20	Rainbow & Pink (4 Suits)	2021-04-07 — 21:56:13 UTC	jack67889, Lanvin, rahsosprout, Syrah	6	4	20
 493470	4	0	Rainbow & Pink (4 Suits)	2021-04-07 — 21:34:12 UTC	jack67889, Lanvin, rahsosprout, Syrah	7	4	20
-493062	3	21	Black & Rainbow (5 Suits)	2021-04-07 — 15:32:40 UTC	swineherd, Syrah, Zakisan	15	5	25
-493056	3	0	Black & Rainbow (5 Suits)	2021-04-07 — 15:13:28 UTC	swineherd, Syrah, Zakisan	19	5	25
+493062	3	21	Black & Rainbow (5 Suits)	2021-04-07 — 15:32:40 UTC	swineherd, Syrah, Zakisan	16	5	25
+493056	3	0	Black & Rainbow (5 Suits)	2021-04-07 — 15:13:28 UTC	swineherd, Syrah, Zakisan	20	5	25
 493052	3	0	Black & Rainbow (5 Suits)	2021-04-07 — 15:01:57 UTC	swineherd, Syrah, Zakisan	23	5	25
-493006	4	28	Black (6 Suits)	2021-04-07 — 10:41:34 UTC	charhanabi, mugsly, scepheo, Syrah	175	6	30
+493006	4	28	Black (6 Suits)	2021-04-07 — 10:41:34 UTC	charhanabi, mugsly, scepheo, Syrah	176	6	30
 492566	3	30	Pink-Ones & Gray (6 Suits)	2021-04-06 — 22:16:27 UTC	mugsly, scepheo, Syrah	1	6	30
 492444	3	29	Pink-Ones & Gray (6 Suits)	2021-04-06 — 20:55:49 UTC	mugsly, scepheo, Syrah	1	6	30
 492351	3	0	Pink-Ones & Gray (6 Suits)	2021-04-06 — 19:34:37 UTC	mugsly, scepheo, Syrah	1	6	30
@@ -137,11 +229,11 @@
 492199	3	0	Black & Rainbow (5 Suits)	2021-04-06 — 16:22:18 UTC	kinkajusrevenge, knaphill, Syrah	58	5	25
 492188	5	0	Rainbow & Light Pink (6 Suits)	2021-04-06 — 15:59:20 UTC	dobi, knaphill, Nitrate, Syrah, Wittvector	5	6	30
 492153	3	0	Dual-Color & Pink (6 Suits)	2021-04-06 — 15:27:07 UTC	Lel0uch, Syrah, Wittvector	7	6	30
-492078	2	23	Pink & White (5 Suits)	2021-04-06 — 13:14:02 UTC	Lanvin, Syrah	31	5	25
+492078	2	23	Pink & White (5 Suits)	2021-04-06 — 13:14:02 UTC	Lanvin, Syrah	33	5	25
 492070	2	25	Rainbow & Pink (5 Suits)	2021-04-06 — 12:50:52 UTC	Lanvin, Syrah	41	5	25
-492043	5	29	Black (6 Suits)	2021-04-06 — 11:00:17 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	35	6	30
+492043	5	29	Black (6 Suits)	2021-04-06 — 11:00:17 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	36	6	30
 492033	5	0	Black (6 Suits)	2021-04-06 — 10:19:20 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	36	6	30
-491240	4	25	No Variant	2021-04-05 — 16:16:13 UTC	mgce, Nitrate, Spieler42, Syrah	90	5	25
+491240	4	25	No Variant	2021-04-05 — 16:16:13 UTC	mgce, Nitrate, Spieler42, Syrah	92	5	25
 491223	5	0	Rainbow & Prism (5 Suits)	2021-04-05 — 15:38:59 UTC	IsabeltheCat, kimbifille, MangoPie, Nitrate, Syrah	5	5	25
 491123	3	0	Pink-Ones & Gray (6 Suits)	2021-04-05 — 12:51:05 UTC	mugsly, scepheo, Syrah	1	6	30
 491116	3	0	Pink-Ones & Gray (6 Suits)	2021-04-05 — 12:14:10 UTC	mugsly, scepheo, Syrah	1	6	30
@@ -158,16 +250,16 @@
 490512	3	0	White-Fives & Omni (6 Suits)	2021-04-04 — 19:27:08 UTC	mugsly, scepheo, Syrah	1	6	30
 490495	3	0	White-Fives & Omni (6 Suits)	2021-04-04 — 19:05:44 UTC	mugsly, scepheo, Syrah	1	6	30
 490481	5	25	Pink (5 Suits)	2021-04-04 — 18:36:07 UTC	griff77, MangoPie, Nitrate, rz, Syrah	12	5	25
-489734	3	25	Rainbow & Muddy Rainbow (5 Suits)	2021-04-03 — 22:27:00 UTC	MangoPie, scepheo, Syrah	1	5	25
+489734	3	25	Rainbow & Muddy Rainbow (5 Suits)	2021-04-03 — 22:27:00 UTC	MangoPie, scepheo, Syrah	2	5	25
 489707	3	0	Rainbow & Muddy Rainbow (5 Suits)	2021-04-03 — 21:59:38 UTC	MangoPie, scepheo, Syrah	6	5	25
 489687	3	0	Rainbow & Muddy Rainbow (5 Suits)	2021-04-03 — 21:44:28 UTC	MangoPie, scepheo, Syrah	11	5	25
-489659	2	25	Rainbow & Muddy Rainbow (5 Suits)	2021-04-03 — 21:22:22 UTC	scepheo, Syrah	14	5	25
-489549	5	30	Brown (6 Suits)	2021-04-03 — 19:29:54 UTC	griff77, MangoPie, Syrah, wolfpack, wump	1	6	30
+489659	2	25	Rainbow & Muddy Rainbow (5 Suits)	2021-04-03 — 21:22:22 UTC	scepheo, Syrah	15	5	25
+489549	5	30	Brown (6 Suits)	2021-04-03 — 19:29:54 UTC	griff77, MangoPie, Syrah, wolfpack, wump	2	6	30
 489522	5	0	Brown (6 Suits)	2021-04-03 — 19:05:17 UTC	griff77, MangoPie, Syrah, wolfpack, wump	8	6	30
 489483	6	0	Pink & White (6 Suits)	2021-04-03 — 18:08:59 UTC	jack67889, Lel0uch, melwen, Nitrate, Syrah, VerySloppyTwo	1	6	30
 489468	5	0	White & Dark Prism (5 Suits)	2021-04-03 — 17:39:57 UTC	indego, Lel0uch, melwen, Nitrate, Syrah	2	5	25
 489452	3	0	Rainbow & Brown (6 Suits)	2021-04-03 — 17:16:37 UTC	Lanvin, Nitrate, Syrah	13	6	30
-489445	2	22	Gray (5 Suits)	2021-04-03 — 16:59:41 UTC	Lanvin, Syrah	79	5	25
+489445	2	22	Gray (5 Suits)	2021-04-03 — 16:59:41 UTC	Lanvin, Syrah	80	5	25
 489408	3	0	Dark Prism Reversed (5 Suits)	2021-04-03 — 15:50:57 UTC	Fey, sephiroth, Syrah	1	5	25
 489320	3	13	White Reversed (3 Suits)	2021-04-03 — 12:56:35 UTC	mugsly, scepheo, Syrah	3	3	15
 489314	3	0	White-Fives & Omni (6 Suits)	2021-04-03 — 12:24:18 UTC	mugsly, scepheo, Syrah	1	6	30
@@ -177,8 +269,8 @@
 488621	3	25	Dark Null (5 Suits)	2021-04-02 — 21:23:01 UTC	mugsly, scepheo, Syrah	1	5	25
 488224	5	27	Black (6 Suits)	2021-04-02 — 10:45:16 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	39	6	30
 488204	5	28	Rainbow & Dark Brown (6 Suits)	2021-04-02 — 09:10:16 UTC	asaelr, derekcheah, Lel0uch, melwen, Syrah	2	6	30
-487320	3	30	Black (6 Suits)	2021-04-01 — 10:48:46 UTC	Bashtalicious, mugsly, Syrah	119	6	30
-487310	3	0	Black (6 Suits)	2021-04-01 — 10:21:44 UTC	Bashtalicious, mugsly, Syrah	125	6	30
+487320	3	30	Black (6 Suits)	2021-04-01 — 10:48:46 UTC	Bashtalicious, mugsly, Syrah	122	6	30
+487310	3	0	Black (6 Suits)	2021-04-01 — 10:21:44 UTC	Bashtalicious, mugsly, Syrah	126	6	30
 486768	6	0	Dark Rainbow (6 Suits)	2021-03-31 — 21:32:05 UTC	ChristopheAF, HelanaAshryvr, Lanvin, squirrel1988, Syrah, VerySloppyTwo	8	6	30
 486707	3	0	Up or Down & Omni (6 Suits)	2021-03-31 — 20:31:56 UTC	CaitlinSmith, knaphill, Syrah	5	6	30
 486689	3	0	Up or Down & Omni (6 Suits)	2021-03-31 — 20:18:49 UTC	CaitlinSmith, knaphill, Syrah	7	6	30
@@ -190,11 +282,11 @@
 485408	3	0	Dark Prism Reversed (5 Suits)	2021-03-30 — 13:43:15 UTC	knaphill, sephiroth, Syrah	6	5	25
 485378	4	25	Up or Down & Pink (5 Suits)	2021-03-30 — 12:35:26 UTC	asaelr, sephiroth, Syrah, VerySloppyTwo	3	5	25
 485339	5	22	Black (5 Suits)	2021-03-30 — 10:53:26 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	30	5	25
-485328	4	23	Black (5 Suits)	2021-03-30 — 10:27:48 UTC	Bashtalicious, mugsly, scepheo, Syrah	79	5	25
-485320	4	0	Black (5 Suits)	2021-03-30 — 10:07:10 UTC	Bashtalicious, mugsly, scepheo, Syrah	98	5	25
+485328	4	23	Black (5 Suits)	2021-03-30 — 10:27:48 UTC	Bashtalicious, mugsly, scepheo, Syrah	80	5	25
+485320	4	0	Black (5 Suits)	2021-03-30 — 10:07:10 UTC	Bashtalicious, mugsly, scepheo, Syrah	101	5	25
 484712	4	30	Black & Pink (6 Suits)	2021-03-29 — 21:05:40 UTC	kopen, Lanvin, Onen, Syrah	11	6	30
-484697	3	0	Black & Pink (6 Suits)	2021-03-29 — 20:44:06 UTC	Lanvin, Onen, Syrah	12	6	30
-484689	3	0	Black & Pink (6 Suits)	2021-03-29 — 20:33:10 UTC	Lanvin, Onen, Syrah	12	6	30
+484697	3	0	Black & Pink (6 Suits)	2021-03-29 — 20:44:06 UTC	Lanvin, Onen, Syrah	13	6	30
+484689	3	0	Black & Pink (6 Suits)	2021-03-29 — 20:33:10 UTC	Lanvin, Onen, Syrah	13	6	30
 484447	3	0	Up or Down & Omni (6 Suits)	2021-03-29 — 16:15:16 UTC	knaphill, sephiroth, Syrah	3	6	30
 484410	3	0	Up or Down & Omni (6 Suits)	2021-03-29 — 15:33:24 UTC	knaphill, sephiroth, Syrah	3	6	30
 484349	3	20	Rainbow-Ones & Prism (4 Suits)	2021-03-29 — 12:45:06 UTC	jack67889, Lanvin, Syrah	1	4	20
@@ -205,17 +297,17 @@
 483311	3	0	Dark Null (5 Suits)	2021-03-28 — 10:14:33 UTC	mugsly, scepheo, Syrah	1	5	25
 483308	3	0	Dark Null (5 Suits)	2021-03-28 — 09:58:28 UTC	mugsly, scepheo, Syrah	1	5	25
 482768	4	29	Dark Prism (6 Suits)	2021-03-27 — 23:15:36 UTC	bjnh, Lanvin, MangoPie, Syrah	23	6	30
-482734	2	30	6 Suits	2021-03-27 — 22:34:44 UTC	scepheo, Syrah	340	6	30
-482720	2	0	6 Suits	2021-03-27 — 22:21:43 UTC	scepheo, Syrah	378	6	30
-482710	2	0	6 Suits	2021-03-27 — 22:16:05 UTC	scepheo, Syrah	401	6	30
-482703	2	0	6 Suits	2021-03-27 — 22:11:17 UTC	scepheo, Syrah	444	6	30
-482699	2	26	6 Suits	2021-03-27 — 22:07:02 UTC	scepheo, Syrah	505	6	30
-482682	2	0	6 Suits	2021-03-27 — 21:55:52 UTC	scepheo, Syrah	593	6	30
-482676	2	0	6 Suits	2021-03-27 — 21:51:15 UTC	scepheo, Syrah	666	6	30
-482672	2	0	6 Suits	2021-03-27 — 21:49:23 UTC	scepheo, Syrah	851	6	30
-482636	2	30	Pink (6 Suits)	2021-03-27 — 21:30:12 UTC	scepheo, Syrah	143	6	30
-482603	2	0	Pink (6 Suits)	2021-03-27 — 21:04:20 UTC	scepheo, Syrah	157	6	30
-482577	2	0	Pink (6 Suits)	2021-03-27 — 20:44:05 UTC	scepheo, Syrah	172	6	30
+482734	2	30	6 Suits	2021-03-27 — 22:34:44 UTC	scepheo, Syrah	352	6	30
+482720	2	0	6 Suits	2021-03-27 — 22:21:43 UTC	scepheo, Syrah	388	6	30
+482710	2	0	6 Suits	2021-03-27 — 22:16:05 UTC	scepheo, Syrah	413	6	30
+482703	2	0	6 Suits	2021-03-27 — 22:11:17 UTC	scepheo, Syrah	453	6	30
+482699	2	26	6 Suits	2021-03-27 — 22:07:02 UTC	scepheo, Syrah	513	6	30
+482682	2	0	6 Suits	2021-03-27 — 21:55:52 UTC	scepheo, Syrah	601	6	30
+482676	2	0	6 Suits	2021-03-27 — 21:51:15 UTC	scepheo, Syrah	675	6	30
+482672	2	0	6 Suits	2021-03-27 — 21:49:23 UTC	scepheo, Syrah	862	6	30
+482636	2	30	Pink (6 Suits)	2021-03-27 — 21:30:12 UTC	scepheo, Syrah	146	6	30
+482603	2	0	Pink (6 Suits)	2021-03-27 — 21:04:20 UTC	scepheo, Syrah	158	6	30
+482577	2	0	Pink (6 Suits)	2021-03-27 — 20:44:05 UTC	scepheo, Syrah	173	6	30
 481210	4	0	Dark Rainbow (6 Suits)	2021-03-26 — 14:22:15 UTC	Fey, robense, Syrah, Zakisan	20	6	30
 481202	4	0	Dark Rainbow (6 Suits)	2021-03-26 — 14:00:12 UTC	Fey, robense, Syrah, Zakisan	21	6	30
 481196	4	0	Dark Rainbow (6 Suits)	2021-03-26 — 13:48:08 UTC	Fey, robense, Syrah, Zakisan	26	6	30
@@ -223,7 +315,7 @@
 481173	4	0	Rainbow & Omni (4 Suits)	2021-03-26 — 12:54:23 UTC	hakha3, HelanaAshryvr, robense, Syrah	4	4	20
 480125	5	0	Rainbow & Brown (6 Suits)	2021-03-25 — 15:43:42 UTC	hakha3, kinkajusrevenge, Lel0uch, possum, Syrah	7	6	30
 480113	4	30	Rainbow & Muddy Rainbow (6 Suits)	2021-03-25 — 15:18:36 UTC	asaelr, hakha3, Lel0uch, Syrah	3	6	30
-480105	4	0	Rainbow & Muddy Rainbow (6 Suits)	2021-03-25 — 14:51:47 UTC	asaelr, hakha3, Lel0uch, Syrah	3	6	30
+480105	4	0	Rainbow & Muddy Rainbow (6 Suits)	2021-03-25 — 14:51:47 UTC	asaelr, hakha3, Lel0uch, Syrah	4	6	30
 480032	3	30	Up or Down & Light Pink (6 Suits)	2021-03-25 — 11:46:13 UTC	melwen, sephiroth, Syrah	6	6	30
 478967	5	24	White (5 Suits)	2021-03-24 — 11:33:47 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	26	5	25
 478006	4	23	Black (5 Suits)	2021-03-23 — 15:16:09 UTC	colton, Onen, Syrah, voss	28	5	25
@@ -238,20 +330,20 @@
 477143	4	21	Black & Brown (5 Suits)	2021-03-22 — 20:37:41 UTC	CaitlinSmith, Lanvin, Syrah, VerySloppyTwo	8	5	25
 477113	5	20	Rainbow & Pink (4 Suits)	2021-03-22 — 20:14:16 UTC	CaitlinSmith, Lanvin, MarkusKahlsen, Syrah, VerySloppyTwo	3	4	20
 476796	5	26	Black (6 Suits)	2021-03-22 — 11:45:44 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	58	6	30
-476781	4	0	Black (6 Suits)	2021-03-22 — 11:06:25 UTC	Bashtalicious, mugsly, scepheo, Syrah	213	6	30
+476781	4	0	Black (6 Suits)	2021-03-22 — 11:06:25 UTC	Bashtalicious, mugsly, scepheo, Syrah	215	6	30
 476475	3	0	Brown & Omni (4 Suits)	2021-03-22 — 00:39:47 UTC	mugsly, scepheo, Syrah	4	4	20
 476443	3	0	Dark Null (5 Suits)	2021-03-21 — 23:52:02 UTC	mugsly, scepheo, Syrah	1	5	25
 476425	3	0	Dark Null (5 Suits)	2021-03-21 — 23:31:58 UTC	mugsly, scepheo, Syrah	1	5	25
 476414	3	0	Dark Null (5 Suits)	2021-03-21 — 23:18:35 UTC	mugsly, scepheo, Syrah	1	5	25
-476382	3	0	Dark Null (5 Suits)	2021-03-21 — 22:53:58 UTC	mugsly, scepheo, Syrah	1	5	25
-476354	3	0	Dark Null (5 Suits)	2021-03-21 — 22:29:09 UTC	mugsly, scepheo, Syrah	1	5	25
-476303	3	24	Dark Null (5 Suits)	2021-03-21 — 21:50:35 UTC	mugsly, scepheo, Syrah	1	5	25
+476382	3	0	Dark Null (5 Suits)	2021-03-21 — 22:53:58 UTC	mugsly, scepheo, Syrah	2	5	25
+476354	3	0	Dark Null (5 Suits)	2021-03-21 — 22:29:09 UTC	mugsly, scepheo, Syrah	2	5	25
+476303	3	24	Dark Null (5 Suits)	2021-03-21 — 21:50:35 UTC	mugsly, scepheo, Syrah	2	5	25
 476271	3	0	Dark Null (5 Suits)	2021-03-21 — 21:12:08 UTC	mugsly, scepheo, Syrah	2	5	25
 476242	3	23	Dark Null (5 Suits)	2021-03-21 — 20:41:52 UTC	mugsly, scepheo, Syrah	2	5	25
-476157	2	0	Pink (6 Suits)	2021-03-21 — 20:00:29 UTC	scepheo, Syrah	219	6	30
-476110	2	30	Rainbow (6 Suits)	2021-03-21 — 19:36:01 UTC	scepheo, Syrah	500	6	30
-476062	2	0	Rainbow (6 Suits)	2021-03-21 — 19:14:24 UTC	scepheo, Syrah	593	6	30
-476027	2	25	No Variant	2021-03-21 — 18:57:58 UTC	scepheo, Syrah	5374	5	25
+476157	2	0	Pink (6 Suits)	2021-03-21 — 20:00:29 UTC	scepheo, Syrah	220	6	30
+476110	2	30	Rainbow (6 Suits)	2021-03-21 — 19:36:01 UTC	scepheo, Syrah	506	6	30
+476062	2	0	Rainbow (6 Suits)	2021-03-21 — 19:14:24 UTC	scepheo, Syrah	605	6	30
+476027	2	25	No Variant	2021-03-21 — 18:57:58 UTC	scepheo, Syrah	5421	5	25
 476006	2	0	White-Fives & Omni (6 Suits)	2021-03-21 — 18:42:40 UTC	scepheo, Syrah	1	6	30
 475996	2	0	White-Fives & Omni (6 Suits)	2021-03-21 — 18:38:06 UTC	scepheo, Syrah	1	6	30
 475992	2	0	White-Fives & Omni (6 Suits)	2021-03-21 — 18:34:19 UTC	scepheo, Syrah	1	6	30
@@ -272,16 +364,16 @@
 473856	5	0	Brown (6 Suits)	2021-03-19 — 20:40:38 UTC	Denchulitas, Fey, Lanvin, Nitrate, Syrah	5	6	30
 473843	5	27	Brown (6 Suits)	2021-03-19 — 20:26:04 UTC	Denchulitas, Fey, Lanvin, Nitrate, Syrah	10	6	30
 473535	3	0	Dark Null (5 Suits)	2021-03-19 — 12:23:43 UTC	mugsly, scepheo, Syrah	7	5	25
-473523	4	27	Rainbow (6 Suits)	2021-03-19 — 11:45:00 UTC	Bashtalicious, mugsly, scepheo, Syrah	275	6	30
+473523	4	27	Rainbow (6 Suits)	2021-03-19 — 11:45:00 UTC	Bashtalicious, mugsly, scepheo, Syrah	280	6	30
 471851	4	0	Dark Omni (6 Suits)	2021-03-17 — 22:29:48 UTC	kevincaseytdk1, newduke, Syrah, Zamiel	4	6	30
 471825	4	0	Muddy Rainbow (4 Suits)	2021-03-17 — 22:12:07 UTC	kevincaseytdk1, newduke, Syrah, Zamiel	2	4	20
 471816	5	0	Muddy Rainbow (4 Suits)	2021-03-17 — 22:02:53 UTC	kevincaseytdk1, Kyle, Lanvin, Syrah, Zamiel	1	4	20
 471768	5	0	Muddy Rainbow (4 Suits)	2021-03-17 — 21:42:31 UTC	kevincaseytdk1, Kyle, Lanvin, Syrah, Zamiel	1	4	20
 471732	5	0	Muddy Rainbow (4 Suits)	2021-03-17 — 21:30:04 UTC	kevincaseytdk1, Kyle, Lanvin, Syrah, Zamiel	2	4	20
 471320	5	0	Rainbow & White (4 Suits)	2021-03-17 — 15:00:41 UTC	Aluap, HelanaAshryvr, Lanvin, rz, Syrah	4	4	20
-471262	5	27	Black (6 Suits)	2021-03-17 — 12:11:54 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	101	6	30
+471262	5	27	Black (6 Suits)	2021-03-17 — 12:11:54 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	103	6	30
 471256	5	0	Black (5 Suits)	2021-03-17 — 11:40:41 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	36	5	25
-471255	4	0	Black (6 Suits)	2021-03-17 — 11:32:12 UTC	charhanabi, mugsly, scepheo, Syrah	273	6	30
+471255	4	0	Black (6 Suits)	2021-03-17 — 11:32:12 UTC	charhanabi, mugsly, scepheo, Syrah	276	6	30
 470570	5	0	Special Mix (5 Suits)	2021-03-16 — 22:25:16 UTC	ChristopheAF, Floriman, hakha3, MangoPie, Syrah	2	5	25
 470551	5	0	Special Mix (5 Suits)	2021-03-16 — 22:11:35 UTC	ChristopheAF, Floriman, hakha3, MangoPie, Syrah	2	5	25
 470536	5	0	Special Mix (5 Suits)	2021-03-16 — 22:05:31 UTC	ChristopheAF, Floriman, hakha3, MangoPie, Syrah	2	5	25
@@ -291,9 +383,9 @@
 470258	3	0	Rainbow (6 Suits)	2021-03-16 — 17:55:36 UTC	asaelr, NumerateClutter, Syrah	19	6	30
 470251	3	30	Rainbow (6 Suits)	2021-03-16 — 17:41:13 UTC	asaelr, NumerateClutter, Syrah	19	6	30
 470217	5	0	Rainbow (6 Suits)	2021-03-16 — 16:45:11 UTC	ChristopheAF, kevincaseytdk1, Syrah, Wittvector, wolfpack	42	6	30
-470085	4	25	No Variant	2021-03-16 — 11:58:36 UTC	Bashtalicious, mugsly, scepheo, Syrah	384	5	25
-470079	4	20	White (4 Suits)	2021-03-16 — 11:37:50 UTC	Bashtalicious, mugsly, scepheo, Syrah	34	4	20
-470072	3	0	White (5 Suits)	2021-03-16 — 11:11:02 UTC	Bashtalicious, scepheo, Syrah	81	5	25
+470085	4	25	No Variant	2021-03-16 — 11:58:36 UTC	Bashtalicious, mugsly, scepheo, Syrah	387	5	25
+470079	4	20	White (4 Suits)	2021-03-16 — 11:37:50 UTC	Bashtalicious, mugsly, scepheo, Syrah	35	4	20
+470072	3	0	White (5 Suits)	2021-03-16 — 11:11:02 UTC	Bashtalicious, scepheo, Syrah	84	5	25
 469463	3	24	Dark Null (5 Suits)	2021-03-15 — 22:36:50 UTC	mugsly, scepheo, Syrah	8	5	25
 469426	3	0	Dark Null (5 Suits)	2021-03-15 — 21:54:20 UTC	mugsly, scepheo, Syrah	9	5	25
 469368	3	24	Dark Null (5 Suits)	2021-03-15 — 21:18:51 UTC	mugsly, scepheo, Syrah	9	5	25
@@ -301,10 +393,10 @@
 469277	3	0	Dark Null (5 Suits)	2021-03-15 — 20:03:04 UTC	mugsly, scepheo, Syrah	11	5	25
 469241	3	0	Dark Null (5 Suits)	2021-03-15 — 19:32:24 UTC	mugsly, scepheo, Syrah	11	5	25
 469234	3	0	Dark Null (5 Suits)	2021-03-15 — 19:26:45 UTC	mugsly, scepheo, Syrah	13	5	25
-468938	5	30	White (6 Suits)	2021-03-15 — 11:41:02 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	27	6	30
+468938	5	30	White (6 Suits)	2021-03-15 — 11:41:02 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	28	6	30
 468930	5	0	White (6 Suits)	2021-03-15 — 11:08:22 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	37	6	30
 468274	3	0	Dark Null (5 Suits)	2021-03-14 — 20:12:49 UTC	mugsly, scepheo, Syrah	15	5	25
-468209	3	25	No Variant	2021-03-14 — 19:25:59 UTC	mugsly, scepheo, Syrah	940	5	25
+468209	3	25	No Variant	2021-03-14 — 19:25:59 UTC	mugsly, scepheo, Syrah	952	5	25
 468169	3	25	Alternating Clues & White (5 Suits)	2021-03-14 — 18:51:05 UTC	mugsly, scepheo, Syrah	1	5	25
 468119	3	0	Alternating Clues & White (5 Suits)	2021-03-14 — 18:07:20 UTC	mugsly, scepheo, Syrah	3	5	25
 467044	5	0	Special Mix (5 Suits)	2021-03-13 — 21:46:45 UTC	ChristopheAF, hakha3, Lanvin, Syrah, VerySloppyTwo	1	5	25
@@ -320,11 +412,11 @@
 465576	5	17	White (4 Suits)	2021-03-12 — 11:55:20 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	16	4	20
 465567	5	0	White (5 Suits)	2021-03-12 — 11:25:53 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	37	5	25
 465085	4	23	Black & Rainbow (5 Suits)	2021-03-11 — 23:40:39 UTC	dobi, MarkusKahlsen, Nitrate, Syrah	9	5	25
-465070	5	30	Light-Pink-Ones & Rainbow (6 Suits)	2021-03-11 — 23:13:44 UTC	Lanvin, MangoPie, MarkusKahlsen, rz, Syrah	1	6	30
+465070	5	30	Light-Pink-Ones & Rainbow (6 Suits)	2021-03-11 — 23:13:44 UTC	Lanvin, MangoPie, MarkusKahlsen, rz, Syrah	2	6	30
 465044	4	0	Light-Pink-Ones & Rainbow (6 Suits)	2021-03-11 — 22:45:56 UTC	Lanvin, MangoPie, rz, Syrah	1	6	30
-464546	4	20	Rainbow (4 Suits)	2021-03-11 — 11:39:51 UTC	Bashtalicious, charhanabi, mugsly, Syrah	25	4	20
-463494	5	0	Rainbow (4 Suits)	2021-03-10 — 12:00:24 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	20	4	20
-463489	4	0	Rainbow (4 Suits)	2021-03-10 — 11:46:45 UTC	charhanabi, mugsly, scepheo, Syrah	32	4	20
+464546	4	20	Rainbow (4 Suits)	2021-03-11 — 11:39:51 UTC	Bashtalicious, charhanabi, mugsly, Syrah	26	4	20
+463494	5	0	Rainbow (4 Suits)	2021-03-10 — 12:00:24 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	21	4	20
+463489	4	0	Rainbow (4 Suits)	2021-03-10 — 11:46:45 UTC	charhanabi, mugsly, scepheo, Syrah	33	4	20
 463484	5	22	Rainbow (5 Suits)	2021-03-10 — 11:27:40 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	34	5	25
 462302	3	15	Omni & Muddy Rainbow (3 Suits)	2021-03-09 — 12:14:03 UTC	mugsly, scepheo, Syrah	1	3	15
 462287	3	15	Prism Reversed (3 Suits)	2021-03-09 — 11:35:49 UTC	mugsly, scepheo, Syrah	2	3	15
@@ -332,18 +424,18 @@
 460149	3	0	Prism Reversed (3 Suits)	2021-03-07 — 15:51:03 UTC	mugsly, scepheo, Syrah	3	3	15
 460135	3	10	Prism Reversed (3 Suits)	2021-03-07 — 15:29:55 UTC	mugsly, scepheo, Syrah	3	3	15
 458797	3	20	Rainbow-Ones & Rainbow (4 Suits)	2021-03-06 — 12:26:42 UTC	mugsly, scepheo, Syrah	1	4	20
-458785	3	0	Rainbow-Ones & Rainbow (4 Suits)	2021-03-06 — 11:40:00 UTC	mugsly, scepheo, Syrah	3	4	20
+458785	3	0	Rainbow-Ones & Rainbow (4 Suits)	2021-03-06 — 11:40:00 UTC	mugsly, scepheo, Syrah	4	4	20
 458775	3	0	Omni & Muddy Rainbow (3 Suits)	2021-03-06 — 11:06:12 UTC	mugsly, scepheo, Syrah	1	3	15
 458769	3	0	Omni & Muddy Rainbow (3 Suits)	2021-03-06 — 10:46:11 UTC	mugsly, scepheo, Syrah	1	3	15
-457518	5	25	Rainbow (5 Suits)	2021-03-05 — 11:41:43 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	54	5	25
+457518	5	25	Rainbow (5 Suits)	2021-03-05 — 11:41:43 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	55	5	25
 456320	4	20	Rainbow-Ones (4 Suits)	2021-03-04 — 11:56:23 UTC	Lanvin, Lel0uch, MarkusKahlsen, Syrah	2	4	20
 456316	3	0	Pink & Dark Rainbow (6 Suits)	2021-03-04 — 11:46:04 UTC	Lanvin, Lel0uch, Syrah	7	6	30
 455189	4	14	3 Suits	2021-03-03 — 11:46:06 UTC	Bashtalicious, mugsly, scepheo, Syrah	62	3	15
-455177	4	20	Rainbow (4 Suits)	2021-03-03 — 11:29:59 UTC	Bashtalicious, mugsly, scepheo, Syrah	45	4	20
+455177	4	20	Rainbow (4 Suits)	2021-03-03 — 11:29:59 UTC	Bashtalicious, mugsly, scepheo, Syrah	46	4	20
 454108	4	25	Rainbow (5 Suits)	2021-03-02 — 11:41:51 UTC	charhanabi, mugsly, scepheo, Syrah	54	5	25
 454100	4	0	Rainbow (5 Suits)	2021-03-02 — 11:11:25 UTC	charhanabi, mugsly, scepheo, Syrah	63	5	25
 453027	3	14	Omni & Muddy Rainbow (3 Suits)	2021-03-01 — 12:17:34 UTC	mugsly, scepheo, Syrah	1	3	15
-453020	4	23	Rainbow (5 Suits)	2021-03-01 — 11:43:13 UTC	Bashtalicious, mugsly, scepheo, Syrah	68	5	25
+453020	4	23	Rainbow (5 Suits)	2021-03-01 — 11:43:13 UTC	Bashtalicious, mugsly, scepheo, Syrah	70	5	25
 452204	3	0	Omni & Muddy Rainbow (3 Suits)	2021-02-28 — 20:25:45 UTC	mugsly, scepheo, Syrah	1	3	15
 452194	3	0	Omni & Muddy Rainbow (3 Suits)	2021-02-28 — 20:19:19 UTC	mugsly, scepheo, Syrah	1	3	15
 452170	3	13	Omni & Muddy Rainbow (3 Suits)	2021-02-28 — 20:06:57 UTC	mugsly, scepheo, Syrah	1	3	15
@@ -352,92 +444,92 @@
 451340	3	13	Omni & Muddy Rainbow (3 Suits)	2021-02-28 — 00:26:29 UTC	mugsly, scepheo, Syrah	3	3	15
 451325	3	15	White-Ones & Rainbow (3 Suits)	2021-02-28 — 00:02:28 UTC	mugsly, scepheo, Syrah	1	3	15
 451314	3	14	White-Ones & Rainbow (3 Suits)	2021-02-27 — 23:49:17 UTC	mugsly, scepheo, Syrah	1	3	15
-451253	3	30	Rainbow & Omni (6 Suits)	2021-02-27 — 23:04:04 UTC	mugsly, scepheo, Syrah	10	6	30
-451170	3	0	Rainbow & Omni (6 Suits)	2021-02-27 — 21:41:14 UTC	mugsly, scepheo, Syrah	10	6	30
-451080	3	0	No Variant	2021-02-27 — 20:19:38 UTC	mugsly, scepheo, Syrah	1017	5	25
-449794	3	0	No Variant	2021-02-26 — 12:16:54 UTC	mugsly, scepheo, Syrah	1095	5	25
-449790	3	0	No Variant	2021-02-26 — 12:09:17 UTC	mugsly, scepheo, Syrah	1174	5	25
-449781	5	30	Rainbow (6 Suits)	2021-02-26 — 11:47:11 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	209	6	30
-448636	5	23	No Variant	2021-02-25 — 11:31:21 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	457	5	25
+451253	3	30	Rainbow & Omni (6 Suits)	2021-02-27 — 23:04:04 UTC	mugsly, scepheo, Syrah	11	6	30
+451170	3	0	Rainbow & Omni (6 Suits)	2021-02-27 — 21:41:14 UTC	mugsly, scepheo, Syrah	11	6	30
+451080	3	0	No Variant	2021-02-27 — 20:19:38 UTC	mugsly, scepheo, Syrah	1026	5	25
+449794	3	0	No Variant	2021-02-26 — 12:16:54 UTC	mugsly, scepheo, Syrah	1102	5	25
+449790	3	0	No Variant	2021-02-26 — 12:09:17 UTC	mugsly, scepheo, Syrah	1180	5	25
+449781	5	30	Rainbow (6 Suits)	2021-02-26 — 11:47:11 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	211	6	30
+448636	5	23	No Variant	2021-02-25 — 11:31:21 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	461	5	25
 447132	3	20	Cow & Pig (4 Suits)	2021-02-23 — 23:16:08 UTC	mugsly, scepheo, Syrah	15	4	20
-447075	3	0	No Variant	2021-02-23 — 22:34:55 UTC	mugsly, scepheo, Syrah	1291	5	25
+447075	3	0	No Variant	2021-02-23 — 22:34:55 UTC	mugsly, scepheo, Syrah	1299	5	25
 447056	3	25	Number Blind (5 Suits)	2021-02-23 — 22:09:00 UTC	mugsly, scepheo, Syrah	1	5	25
 447005	3	0	Number Blind (5 Suits)	2021-02-23 — 21:31:28 UTC	mugsly, scepheo, Syrah	1	5	25
 446969	3	24	Number Blind (5 Suits)	2021-02-23 — 21:07:20 UTC	mugsly, scepheo, Syrah	1	5	25
 446908	3	0	Number Blind (5 Suits)	2021-02-23 — 20:26:49 UTC	mugsly, scepheo, Syrah	1	5	25
-446566	4	20	4 Suits	2021-02-23 — 11:44:56 UTC	charhanabi, mugsly, scepheo, Syrah	51	4	20
+446566	4	20	4 Suits	2021-02-23 — 11:44:56 UTC	charhanabi, mugsly, scepheo, Syrah	52	4	20
 446560	5	20	4 Suits	2021-02-23 — 11:22:30 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	47	4	20
 445998	3	24	Number Blind (5 Suits)	2021-02-22 — 23:11:24 UTC	mugsly, scepheo, Syrah	4	5	25
 445941	3	0	Number Blind (5 Suits)	2021-02-22 — 22:24:57 UTC	mugsly, scepheo, Syrah	4	5	25
 445852	3	25	Alternating Clues (5 Suits)	2021-02-22 — 21:11:03 UTC	mugsly, scepheo, Syrah	2	5	25
 445781	3	0	Alternating Clues (5 Suits)	2021-02-22 — 20:25:56 UTC	mugsly, scepheo, Syrah	3	5	25
 445424	3	0	Alternating Clues (5 Suits)	2021-02-22 — 11:33:00 UTC	mugsly, scepheo, Syrah	4	5	25
-444858	3	25	Throw It in a Hole (5 Suits)	2021-02-21 — 23:21:12 UTC	mugsly, scepheo, Syrah	23	5	25
-444803	3	0	Throw It in a Hole (5 Suits)	2021-02-21 — 22:48:03 UTC	mugsly, scepheo, Syrah	30	5	25
-444758	3	0	Throw It in a Hole (5 Suits)	2021-02-21 — 22:24:20 UTC	mugsly, scepheo, Syrah	52	5	25
+444858	3	25	Throw It in a Hole (5 Suits)	2021-02-21 — 23:21:12 UTC	mugsly, scepheo, Syrah	24	5	25
+444803	3	0	Throw It in a Hole (5 Suits)	2021-02-21 — 22:48:03 UTC	mugsly, scepheo, Syrah	31	5	25
+444758	3	0	Throw It in a Hole (5 Suits)	2021-02-21 — 22:24:20 UTC	mugsly, scepheo, Syrah	53	5	25
 444699	3	30	Ambiguous (6 Suits)	2021-02-21 — 21:37:03 UTC	mugsly, scepheo, Syrah	12	6	30
-444646	3	0	Ambiguous (6 Suits)	2021-02-21 — 20:53:19 UTC	mugsly, scepheo, Syrah	13	6	30
-444613	3	0	Ambiguous (6 Suits)	2021-02-21 — 20:30:13 UTC	mugsly, scepheo, Syrah	14	6	30
-444569	3	0	Ambiguous (6 Suits)	2021-02-21 — 19:51:18 UTC	mugsly, scepheo, Syrah	22	6	30
-444552	3	0	Ambiguous (6 Suits)	2021-02-21 — 19:23:15 UTC	mugsly, scepheo, Syrah	28	6	30
-444219	3	0	Ambiguous (6 Suits)	2021-02-21 — 09:14:18 UTC	mugsly, scepheo, Syrah	42	6	30
+444646	3	0	Ambiguous (6 Suits)	2021-02-21 — 20:53:19 UTC	mugsly, scepheo, Syrah	14	6	30
+444613	3	0	Ambiguous (6 Suits)	2021-02-21 — 20:30:13 UTC	mugsly, scepheo, Syrah	16	6	30
+444569	3	0	Ambiguous (6 Suits)	2021-02-21 — 19:51:18 UTC	mugsly, scepheo, Syrah	23	6	30
+444552	3	0	Ambiguous (6 Suits)	2021-02-21 — 19:23:15 UTC	mugsly, scepheo, Syrah	29	6	30
+444219	3	0	Ambiguous (6 Suits)	2021-02-21 — 09:14:18 UTC	mugsly, scepheo, Syrah	43	6	30
 443652	3	20	Ambiguous (4 Suits)	2021-02-21 — 00:19:05 UTC	mugsly, scepheo, Syrah	39	4	20
 443562	3	30	Dark Prism (6 Suits)	2021-02-20 — 23:11:32 UTC	mugsly, scepheo, Syrah	5	6	30
 443491	3	27	Dark Prism (6 Suits)	2021-02-20 — 22:22:53 UTC	mugsly, scepheo, Syrah	6	6	30
-441894	2	17	Brown (4 Suits)	2021-02-19 — 11:47:38 UTC	scepheo, Syrah	54	4	20
-441888	2	19	Brown (4 Suits)	2021-02-19 — 11:29:21 UTC	scepheo, Syrah	74	4	20
-440825	5	29	6 Suits	2021-02-18 — 11:47:52 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	199	6	30
-440816	4	0	6 Suits	2021-02-18 — 11:06:16 UTC	Bashtalicious, mugsly, scepheo, Syrah	354	6	30
-439411	3	20	4 Suits	2021-02-16 — 21:52:00 UTC	mugsly, scepheo, Syrah	59	4	20
+441894	2	17	Brown (4 Suits)	2021-02-19 — 11:47:38 UTC	scepheo, Syrah	55	4	20
+441888	2	19	Brown (4 Suits)	2021-02-19 — 11:29:21 UTC	scepheo, Syrah	76	4	20
+440825	5	29	6 Suits	2021-02-18 — 11:47:52 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	203	6	30
+440816	4	0	6 Suits	2021-02-18 — 11:06:16 UTC	Bashtalicious, mugsly, scepheo, Syrah	359	6	30
+439411	3	20	4 Suits	2021-02-16 — 21:52:00 UTC	mugsly, scepheo, Syrah	60	4	20
 439352	3	0	Dark Prism (6 Suits)	2021-02-16 — 21:04:27 UTC	mugsly, scepheo, Syrah	9	6	30
 439314	3	27	Dark Prism (6 Suits)	2021-02-16 — 20:16:07 UTC	mugsly, scepheo, Syrah	9	6	30
 439270	3	0	Dark Prism (6 Suits)	2021-02-16 — 19:34:54 UTC	mugsly, scepheo, Syrah	10	6	30
-439077	5	0	No Variant	2021-02-16 — 11:32:28 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	541	5	25
-438012	4	25	No Variant	2021-02-15 — 11:28:21 UTC	Bashtalicious, mugsly, scepheo, Syrah	442	5	25
+439077	5	0	No Variant	2021-02-16 — 11:32:28 UTC	Bashtalicious, charhanabi, mugsly, scepheo, Syrah	546	5	25
+438012	4	25	No Variant	2021-02-15 — 11:28:21 UTC	Bashtalicious, mugsly, scepheo, Syrah	448	5	25
 436146	3	0	Dark Prism (6 Suits)	2021-02-13 — 23:47:02 UTC	mugsly, scepheo, Syrah	13	6	30
-436122	3	0	Dark Prism (6 Suits)	2021-02-13 — 23:17:38 UTC	mugsly, scepheo, Syrah	20	6	30
+436122	3	0	Dark Prism (6 Suits)	2021-02-13 — 23:17:38 UTC	mugsly, scepheo, Syrah	22	6	30
 436113	3	0	Dark Prism (6 Suits)	2021-02-13 — 23:01:36 UTC	mugsly, scepheo, Syrah	25	6	30
 436073	3	20	Pink-Ones & Light Pink (4 Suits)	2021-02-13 — 22:22:20 UTC	mugsly, scepheo, Syrah	1	4	20
 435663	3	18	Pink-Ones & Light Pink (4 Suits)	2021-02-13 — 11:55:19 UTC	mugsly, scepheo, Syrah	1	4	20
-434377	4	0	Rainbow (5 Suits)	2021-02-12 — 11:47:44 UTC	charhanabi, mugsly, scepheo, Syrah	92	5	25
-434365	4	0	Rainbow (5 Suits)	2021-02-12 — 11:23:18 UTC	charhanabi, mugsly, scepheo, Syrah	130	5	25
-433275	4	20	4 Suits	2021-02-11 — 11:41:31 UTC	charhanabi, mugsly, scepheo, Syrah	77	4	20
-433268	4	0	4 Suits	2021-02-11 — 11:17:47 UTC	charhanabi, mugsly, scepheo, Syrah	101	4	20
-432146	4	25	No Variant	2021-02-10 — 11:33:44 UTC	charhanabi, mugsly, scepheo, Syrah	473	5	25
-430958	5	23	No Variant	2021-02-09 — 11:34:00 UTC	BoloEblae, charhanabi, mugsly, scepheo, Syrah	658	5	25
+434377	4	0	Rainbow (5 Suits)	2021-02-12 — 11:47:44 UTC	charhanabi, mugsly, scepheo, Syrah	93	5	25
+434365	4	0	Rainbow (5 Suits)	2021-02-12 — 11:23:18 UTC	charhanabi, mugsly, scepheo, Syrah	131	5	25
+433275	4	20	4 Suits	2021-02-11 — 11:41:31 UTC	charhanabi, mugsly, scepheo, Syrah	80	4	20
+433268	4	0	4 Suits	2021-02-11 — 11:17:47 UTC	charhanabi, mugsly, scepheo, Syrah	104	4	20
+432146	4	25	No Variant	2021-02-10 — 11:33:44 UTC	charhanabi, mugsly, scepheo, Syrah	480	5	25
+430958	5	23	No Variant	2021-02-09 — 11:34:00 UTC	BoloEblae, charhanabi, mugsly, scepheo, Syrah	667	5	25
 429826	3	0	Pink-Ones & Light Pink (4 Suits)	2021-02-08 — 11:53:50 UTC	mugsly, scepheo, Syrah	1	4	20
 429822	3	0	Dark Prism (6 Suits)	2021-02-08 — 11:21:13 UTC	mugsly, scepheo, Syrah	32	6	30
 428991	3	18	Pink-Ones & Light Pink (4 Suits)	2021-02-07 — 15:35:07 UTC	mugsly, scepheo, Syrah	1	4	20
-428937	3	25	Dark Prism (5 Suits)	2021-02-07 — 14:09:52 UTC	mugsly, scepheo, Syrah	18	5	25
+428937	3	25	Dark Prism (5 Suits)	2021-02-07 — 14:09:52 UTC	mugsly, scepheo, Syrah	19	5	25
 428907	3	0	Dark Prism (5 Suits)	2021-02-07 — 13:10:42 UTC	mugsly, scepheo, Syrah	23	5	25
-428898	3	22	Dark Prism (5 Suits)	2021-02-07 — 12:44:32 UTC	mugsly, scepheo, Syrah	26	5	25
-428297	3	30	Gray Pink (6 Suits)	2021-02-06 — 23:52:05 UTC	mugsly, scepheo, Syrah	9	6	30
-427616	3	29	Gray Pink (6 Suits)	2021-02-06 — 13:34:46 UTC	mugsly, scepheo, Syrah	11	6	30
-427596	3	28	Gray Pink (6 Suits)	2021-02-06 — 12:21:23 UTC	mugsly, scepheo, Syrah	13	6	30
-426390	4	22	No Variant	2021-02-05 — 12:00:19 UTC	charhanabi, mugsly, scepheo, Syrah	501	5	25
-426384	4	0	No Variant	2021-02-05 — 11:27:00 UTC	charhanabi, mugsly, scepheo, Syrah	541	5	25
-426379	4	0	No Variant	2021-02-05 — 11:13:47 UTC	charhanabi, mugsly, scepheo, Syrah	601	5	25
-425255	2	25	Rainbow (5 Suits)	2021-02-04 — 12:09:23 UTC	scepheo, Syrah	248	5	25
-425243	3	18	4 Suits	2021-02-04 — 11:30:01 UTC	BoloEblae, scepheo, Syrah	70	4	20
-423946	4	25	No Variant	2021-02-03 — 11:34:29 UTC	charhanabi, mugsly, scepheo, Syrah	655	5	25
-422943	4	13	3 Suits	2021-02-02 — 11:55:21 UTC	charhanabi, mugsly, scepheo, Syrah	73	3	15
-422934	4	22	No Variant	2021-02-02 — 11:38:31 UTC	charhanabi, mugsly, scepheo, Syrah	717	5	25
-422927	4	0	No Variant	2021-02-02 — 11:14:12 UTC	charhanabi, mugsly, scepheo, Syrah	899	5	25
-422398	3	28	Gray Pink (6 Suits)	2021-02-01 — 21:52:29 UTC	mugsly, scepheo, Syrah	15	6	30
-422364	3	0	Gray Pink (6 Suits)	2021-02-01 — 21:23:18 UTC	mugsly, scepheo, Syrah	21	6	30
-422328	3	0	Gray Pink (6 Suits)	2021-02-01 — 20:46:13 UTC	mugsly, scepheo, Syrah	24	6	30
-422306	3	0	Gray Pink (6 Suits)	2021-02-01 — 20:23:24 UTC	mugsly, scepheo, Syrah	25	6	30
-418515	4	23	No Variant	2021-01-29 — 11:57:47 UTC	BoloEblae, mugsly, scepheo, Syrah	1744	5	25
-418496	3	0	3 Suits	2021-01-29 — 11:09:31 UTC	mugsly, scepheo, Syrah	115	3	15
-417529	3	0	Gray Pink (6 Suits)	2021-01-28 — 12:17:59 UTC	mugsly, scepheo, Syrah	29	6	30
-416318	3	25	Gray Pink (5 Suits)	2021-01-27 — 11:05:52 UTC	mugsly, scepheo, Syrah	8	5	25
-415657	3	0	Gray Pink (5 Suits)	2021-01-26 — 20:45:43 UTC	mugsly, scepheo, Syrah	9	5	25
+428898	3	22	Dark Prism (5 Suits)	2021-02-07 — 12:44:32 UTC	mugsly, scepheo, Syrah	27	5	25
+428297	3	30	Gray Pink (6 Suits)	2021-02-06 — 23:52:05 UTC	mugsly, scepheo, Syrah	11	6	30
+427616	3	29	Gray Pink (6 Suits)	2021-02-06 — 13:34:46 UTC	mugsly, scepheo, Syrah	14	6	30
+427596	3	28	Gray Pink (6 Suits)	2021-02-06 — 12:21:23 UTC	mugsly, scepheo, Syrah	15	6	30
+426390	4	22	No Variant	2021-02-05 — 12:00:19 UTC	charhanabi, mugsly, scepheo, Syrah	507	5	25
+426384	4	0	No Variant	2021-02-05 — 11:27:00 UTC	charhanabi, mugsly, scepheo, Syrah	548	5	25
+426379	4	0	No Variant	2021-02-05 — 11:13:47 UTC	charhanabi, mugsly, scepheo, Syrah	606	5	25
+425255	2	25	Rainbow (5 Suits)	2021-02-04 — 12:09:23 UTC	scepheo, Syrah	257	5	25
+425243	3	18	4 Suits	2021-02-04 — 11:30:01 UTC	BoloEblae, scepheo, Syrah	71	4	20
+423946	4	25	No Variant	2021-02-03 — 11:34:29 UTC	charhanabi, mugsly, scepheo, Syrah	660	5	25
+422943	4	13	3 Suits	2021-02-02 — 11:55:21 UTC	charhanabi, mugsly, scepheo, Syrah	74	3	15
+422934	4	22	No Variant	2021-02-02 — 11:38:31 UTC	charhanabi, mugsly, scepheo, Syrah	724	5	25
+422927	4	0	No Variant	2021-02-02 — 11:14:12 UTC	charhanabi, mugsly, scepheo, Syrah	908	5	25
+422398	3	28	Gray Pink (6 Suits)	2021-02-01 — 21:52:29 UTC	mugsly, scepheo, Syrah	16	6	30
+422364	3	0	Gray Pink (6 Suits)	2021-02-01 — 21:23:18 UTC	mugsly, scepheo, Syrah	22	6	30
+422328	3	0	Gray Pink (6 Suits)	2021-02-01 — 20:46:13 UTC	mugsly, scepheo, Syrah	25	6	30
+422306	3	0	Gray Pink (6 Suits)	2021-02-01 — 20:23:24 UTC	mugsly, scepheo, Syrah	26	6	30
+418515	4	23	No Variant	2021-01-29 — 11:57:47 UTC	BoloEblae, mugsly, scepheo, Syrah	1759	5	25
+418496	3	0	3 Suits	2021-01-29 — 11:09:31 UTC	mugsly, scepheo, Syrah	116	3	15
+417529	3	0	Gray Pink (6 Suits)	2021-01-28 — 12:17:59 UTC	mugsly, scepheo, Syrah	30	6	30
+416318	3	25	Gray Pink (5 Suits)	2021-01-27 — 11:05:52 UTC	mugsly, scepheo, Syrah	9	5	25
+415657	3	0	Gray Pink (5 Suits)	2021-01-26 — 20:45:43 UTC	mugsly, scepheo, Syrah	10	5	25
 415630	3	0	Gray Pink (5 Suits)	2021-01-26 — 20:25:55 UTC	mugsly, scepheo, Syrah	13	5	25
-415612	3	0	Gray Pink (5 Suits)	2021-01-26 — 20:15:28 UTC	mugsly, scepheo, Syrah	13	5	25
+415612	3	0	Gray Pink (5 Suits)	2021-01-26 — 20:15:28 UTC	mugsly, scepheo, Syrah	14	5	25
 415535	3	0	Gray Pink (5 Suits)	2021-01-26 — 18:43:12 UTC	mugsly, scepheo, Syrah	15	5	25
 415376	3	0	Gray Pink (5 Suits)	2021-01-26 — 11:37:51 UTC	mugsly, scepheo, Syrah	18	5	25
 413755	3	30	Cocoa Rainbow (6 Suits)	2021-01-24 — 19:21:33 UTC	mugsly, scepheo, Syrah	30	6	30
-413713	3	0	Cocoa Rainbow (6 Suits)	2021-01-24 — 18:39:53 UTC	mugsly, scepheo, Syrah	32	6	30
+413713	3	0	Cocoa Rainbow (6 Suits)	2021-01-24 — 18:39:53 UTC	mugsly, scepheo, Syrah	33	6	30
 413485	3	25	Cocoa Rainbow (5 Suits)	2021-01-24 — 11:13:45 UTC	mugsly, scepheo, Syrah	6	5	25
 413468	3	0	Cocoa Rainbow (5 Suits)	2021-01-24 — 10:11:54 UTC	mugsly, scepheo, Syrah	6	5	25
 413455	3	0	Cocoa Rainbow (5 Suits)	2021-01-24 — 09:42:31 UTC	mugsly, scepheo, Syrah	7	5	25
@@ -452,58 +544,58 @@
 405130	3	0	Cocoa Rainbow (5 Suits)	2021-01-16 — 12:07:08 UTC	mugsly, scepheo, Syrah	21	5	25
 404311	3	0	Cocoa Rainbow (5 Suits)	2021-01-15 — 20:50:19 UTC	mugsly, scepheo, Syrah	22	5	25
 404305	3	0	Cocoa Rainbow (5 Suits)	2021-01-15 — 20:46:27 UTC	mugsly, scepheo, Syrah	23	5	25
-404281	3	0	Cocoa Rainbow (5 Suits)	2021-01-15 — 20:30:41 UTC	mugsly, scepheo, Syrah	29	5	25
-404259	3	30	Dark Omni (6 Suits)	2021-01-15 — 20:12:01 UTC	mugsly, scepheo, Syrah	26	6	30
+404281	3	0	Cocoa Rainbow (5 Suits)	2021-01-15 — 20:30:41 UTC	mugsly, scepheo, Syrah	30	5	25
+404259	3	30	Dark Omni (6 Suits)	2021-01-15 — 20:12:01 UTC	mugsly, scepheo, Syrah	27	6	30
 402960	3	25	Dark Omni (5 Suits)	2021-01-14 — 11:36:26 UTC	mugsly, scepheo, Syrah	16	5	25
 401964	3	22	Dark Omni (5 Suits)	2021-01-13 — 11:41:15 UTC	mugsly, scepheo, Syrah	22	5	25
 400100	3	30	Dark Brown (6 Suits)	2021-01-11 — 11:58:00 UTC	mugsly, scepheo, Syrah	28	6	30
 400093	3	0	Dark Brown (6 Suits)	2021-01-11 — 11:19:45 UTC	mugsly, scepheo, Syrah	32	6	30
-397098	3	25	Dark Brown (5 Suits)	2021-01-08 — 23:32:11 UTC	mugsly, scepheo, Syrah	18	5	25
+397098	3	25	Dark Brown (5 Suits)	2021-01-08 — 23:32:11 UTC	mugsly, scepheo, Syrah	19	5	25
 397057	3	23	Dark Brown (5 Suits)	2021-01-08 — 22:48:56 UTC	mugsly, scepheo, Syrah	18	5	25
 397023	3	0	Dark Brown (5 Suits)	2021-01-08 — 22:17:29 UTC	mugsly, scepheo, Syrah	26	5	25
-396592	3	30	Gray (6 Suits)	2021-01-08 — 12:27:15 UTC	mugsly, scepheo, Syrah	30	6	30
-396574	3	0	Gray (6 Suits)	2021-01-08 — 11:43:25 UTC	mugsly, scepheo, Syrah	36	6	30
-394417	3	29	Gray (6 Suits)	2021-01-06 — 11:26:54 UTC	mugsly, scepheo, Syrah	42	6	30
+396592	3	30	Gray (6 Suits)	2021-01-08 — 12:27:15 UTC	mugsly, scepheo, Syrah	32	6	30
+396574	3	0	Gray (6 Suits)	2021-01-08 — 11:43:25 UTC	mugsly, scepheo, Syrah	37	6	30
+394417	3	29	Gray (6 Suits)	2021-01-06 — 11:26:54 UTC	mugsly, scepheo, Syrah	43	6	30
 393383	3	15	Rainbow & White (3 Suits)	2021-01-05 — 11:54:28 UTC	mugsly, scepheo, Syrah	7	3	15
 392416	3	13	Rainbow & White (3 Suits)	2021-01-04 — 11:24:48 UTC	mugsly, scepheo, Syrah	11	3	15
 392412	3	13	Rainbow & White (3 Suits)	2021-01-04 — 11:09:33 UTC	mugsly, scepheo, Syrah	25	3	15
-388189	3	0	Gray (6 Suits)	2020-12-31 — 14:41:52 UTC	mugsly, scepheo, Syrah	45	6	30
-388184	3	0	Gray (6 Suits)	2020-12-31 — 14:10:12 UTC	mugsly, scepheo, Syrah	48	6	30
-388180	3	0	Gray (6 Suits)	2020-12-31 — 13:51:32 UTC	mugsly, scepheo, Syrah	55	6	30
-386151	3	25	Gray (5 Suits)	2020-12-29 — 14:32:23 UTC	mugsly, scepheo, Syrah	19	5	25
-386121	3	0	Gray (5 Suits)	2020-12-29 — 13:52:17 UTC	mugsly, scepheo, Syrah	21	5	25
+388189	3	0	Gray (6 Suits)	2020-12-31 — 14:41:52 UTC	mugsly, scepheo, Syrah	48	6	30
+388184	3	0	Gray (6 Suits)	2020-12-31 — 14:10:12 UTC	mugsly, scepheo, Syrah	52	6	30
+388180	3	0	Gray (6 Suits)	2020-12-31 — 13:51:32 UTC	mugsly, scepheo, Syrah	57	6	30
+386151	3	25	Gray (5 Suits)	2020-12-29 — 14:32:23 UTC	mugsly, scepheo, Syrah	20	5	25
+386121	3	0	Gray (5 Suits)	2020-12-29 — 13:52:17 UTC	mugsly, scepheo, Syrah	23	5	25
 386107	3	0	Gray (5 Suits)	2020-12-29 — 13:26:40 UTC	mugsly, scepheo, Syrah	26	5	25
-386066	3	24	Gray (5 Suits)	2020-12-29 — 12:42:19 UTC	mugsly, scepheo, Syrah	35	5	25
-384974	3	30	Dark Pink (6 Suits)	2020-12-28 — 13:55:34 UTC	mugsly, scepheo, Syrah	18	6	30
-384959	3	28	Dark Pink (6 Suits)	2020-12-28 — 12:57:19 UTC	mugsly, scepheo, Syrah	24	6	30
-381769	3	0	Dark Pink (6 Suits)	2020-12-25 — 14:33:01 UTC	mugsly, scepheo, Syrah	34	6	30
-381760	3	0	Dark Pink (6 Suits)	2020-12-25 — 14:04:38 UTC	mugsly, scepheo, Syrah	41	6	30
+386066	3	24	Gray (5 Suits)	2020-12-29 — 12:42:19 UTC	mugsly, scepheo, Syrah	36	5	25
+384974	3	30	Dark Pink (6 Suits)	2020-12-28 — 13:55:34 UTC	mugsly, scepheo, Syrah	19	6	30
+384959	3	28	Dark Pink (6 Suits)	2020-12-28 — 12:57:19 UTC	mugsly, scepheo, Syrah	25	6	30
+381769	3	0	Dark Pink (6 Suits)	2020-12-25 — 14:33:01 UTC	mugsly, scepheo, Syrah	35	6	30
+381760	3	0	Dark Pink (6 Suits)	2020-12-25 — 14:04:38 UTC	mugsly, scepheo, Syrah	42	6	30
 381752	3	25	Dark Pink (5 Suits)	2020-12-25 — 13:41:17 UTC	mugsly, scepheo, Syrah	5	5	25
 381743	3	0	Dark Pink (5 Suits)	2020-12-25 — 13:06:59 UTC	mugsly, scepheo, Syrah	6	5	25
 381734	3	0	Dark Pink (5 Suits)	2020-12-25 — 12:41:20 UTC	mugsly, scepheo, Syrah	5	5	25
 381728	3	0	Dark Pink (5 Suits)	2020-12-25 — 12:19:13 UTC	mugsly, scepheo, Syrah	7	5	25
 379872	3	22	Dark Pink (5 Suits)	2020-12-23 — 15:06:37 UTC	mugsly, scepheo, Syrah	11	5	25
-379859	3	0	Dark Pink (5 Suits)	2020-12-23 — 14:33:35 UTC	mugsly, scepheo, Syrah	10	5	25
-379855	3	0	Dark Pink (5 Suits)	2020-12-23 — 14:23:13 UTC	mugsly, scepheo, Syrah	11	5	25
+379859	3	0	Dark Pink (5 Suits)	2020-12-23 — 14:33:35 UTC	mugsly, scepheo, Syrah	11	5	25
+379855	3	0	Dark Pink (5 Suits)	2020-12-23 — 14:23:13 UTC	mugsly, scepheo, Syrah	12	5	25
 379844	3	24	Dark Pink (5 Suits)	2020-12-23 — 13:54:13 UTC	mugsly, scepheo, Syrah	12	5	25
 370116	3	0	Dark Pink (5 Suits)	2020-12-13 — 19:23:10 UTC	mugsly, scepheo, Syrah	16	5	25
 370090	3	0	Dark Pink (5 Suits)	2020-12-13 — 18:49:11 UTC	mugsly, scepheo, Syrah	17	5	25
 370073	3	0	Dark Pink (5 Suits)	2020-12-13 — 18:22:02 UTC	mugsly, scepheo, Syrah	19	5	25
-370062	3	0	Dark Pink (5 Suits)	2020-12-13 — 18:12:59 UTC	mugsly, scepheo, Syrah	22	5	25
-370055	3	24	Dark Pink (5 Suits)	2020-12-13 — 17:57:02 UTC	mugsly, scepheo, Syrah	26	5	25
+370062	3	0	Dark Pink (5 Suits)	2020-12-13 — 18:12:59 UTC	mugsly, scepheo, Syrah	23	5	25
+370055	3	24	Dark Pink (5 Suits)	2020-12-13 — 17:57:02 UTC	mugsly, scepheo, Syrah	27	5	25
 370009	3	23	Dark Pink (5 Suits)	2020-12-13 — 16:56:42 UTC	mugsly, scepheo, Syrah	38	5	25
-369984	3	22	Dark Pink (5 Suits)	2020-12-13 — 16:10:45 UTC	mugsly, scepheo, Syrah	42	5	25
+369984	3	22	Dark Pink (5 Suits)	2020-12-13 — 16:10:45 UTC	mugsly, scepheo, Syrah	44	5	25
 369959	3	30	Dark Rainbow (6 Suits)	2020-12-13 — 15:24:28 UTC	mugsly, scepheo, Syrah	26	6	30
 369907	3	28	Dark Rainbow (6 Suits)	2020-12-13 — 14:28:38 UTC	mugsly, scepheo, Syrah	29	6	30
 369853	3	29	Dark Rainbow (6 Suits)	2020-12-13 — 13:35:42 UTC	mugsly, scepheo, Syrah	31	6	30
 369845	3	0	Dark Rainbow (6 Suits)	2020-12-13 — 12:49:34 UTC	mugsly, scepheo, Syrah	34	6	30
-361894	3	25	Dark Rainbow (5 Suits)	2020-12-06 — 00:08:10 UTC	mugsly, scepheo, Syrah	29	5	25
-361870	3	0	Dark Rainbow (5 Suits)	2020-12-05 — 23:34:40 UTC	mugsly, scepheo, Syrah	31	5	25
-361845	3	24	Dark Rainbow (5 Suits)	2020-12-05 — 22:53:59 UTC	mugsly, scepheo, Syrah	35	5	25
-361799	3	0	Dark Rainbow (5 Suits)	2020-12-05 — 22:00:35 UTC	mugsly, scepheo, Syrah	36	5	25
-359973	3	0	Dark Rainbow (5 Suits)	2020-12-03 — 21:31:39 UTC	mugsly, scepheo, Syrah	48	5	25
-359967	3	0	Dark Rainbow (5 Suits)	2020-12-03 — 21:15:58 UTC	mugsly, scepheo, Syrah	52	5	25
-359942	3	20	Prism (4 Suits)	2020-12-03 — 20:48:38 UTC	mugsly, scepheo, Syrah	45	4	20
+361894	3	25	Dark Rainbow (5 Suits)	2020-12-06 — 00:08:10 UTC	mugsly, scepheo, Syrah	30	5	25
+361870	3	0	Dark Rainbow (5 Suits)	2020-12-05 — 23:34:40 UTC	mugsly, scepheo, Syrah	32	5	25
+361845	3	24	Dark Rainbow (5 Suits)	2020-12-05 — 22:53:59 UTC	mugsly, scepheo, Syrah	36	5	25
+361799	3	0	Dark Rainbow (5 Suits)	2020-12-05 — 22:00:35 UTC	mugsly, scepheo, Syrah	38	5	25
+359973	3	0	Dark Rainbow (5 Suits)	2020-12-03 — 21:31:39 UTC	mugsly, scepheo, Syrah	49	5	25
+359967	3	0	Dark Rainbow (5 Suits)	2020-12-03 — 21:15:58 UTC	mugsly, scepheo, Syrah	53	5	25
+359942	3	20	Prism (4 Suits)	2020-12-03 — 20:48:38 UTC	mugsly, scepheo, Syrah	47	4	20
 359912	3	15	Muddy Rainbow (3 Suits)	2020-12-03 — 20:08:02 UTC	mugsly, scepheo, Syrah	3	3	15
 359899	3	0	Muddy Rainbow (3 Suits)	2020-12-03 — 19:45:35 UTC	mugsly, scepheo, Syrah	3	3	15
 358537	3	13	Muddy Rainbow (3 Suits)	2020-12-01 — 21:48:42 UTC	mugsly, scepheo, Syrah	3	3	15
@@ -513,48 +605,48 @@
 357006	3	0	Muddy Rainbow (3 Suits)	2020-11-29 — 23:23:14 UTC	mugsly, scepheo, Syrah	13	3	15
 356974	3	0	Muddy Rainbow (3 Suits)	2020-11-29 — 22:53:29 UTC	mugsly, scepheo, Syrah	22	3	15
 356943	3	20	Muddy Rainbow (4 Suits)	2020-11-29 — 22:20:22 UTC	mugsly, scepheo, Syrah	4	4	20
-356893	3	25	Rainbow (5 Suits)	2020-11-29 — 21:34:30 UTC	mugsly, scepheo, Syrah	84	5	25
+356893	3	25	Rainbow (5 Suits)	2020-11-29 — 21:34:30 UTC	mugsly, scepheo, Syrah	87	5	25
 352011	3	0	Muddy Rainbow (4 Suits)	2020-11-23 — 22:25:15 UTC	mugsly, scepheo, Syrah	4	4	20
 351979	3	0	Muddy Rainbow (4 Suits)	2020-11-23 — 21:47:07 UTC	mugsly, scepheo, Syrah	4	4	20
 344452	3	0	Muddy Rainbow (4 Suits)	2020-11-15 — 23:16:19 UTC	mugsly, scepheo, Syrah	8	4	20
 344378	3	0	Muddy Rainbow (4 Suits)	2020-11-15 — 22:08:52 UTC	mugsly, scepheo, Syrah	11	4	20
 344350	3	0	Muddy Rainbow (4 Suits)	2020-11-15 — 21:30:01 UTC	mugsly, scepheo, Syrah	15	4	20
-344322	3	19	Muddy Rainbow (4 Suits)	2020-11-15 — 20:46:29 UTC	mugsly, scepheo, Syrah	18	4	20
-343561	3	0	Muddy Rainbow (4 Suits)	2020-11-14 — 21:00:51 UTC	mugsly, scepheo, Syrah	22	4	20
-343523	3	0	Muddy Rainbow (4 Suits)	2020-11-14 — 20:30:58 UTC	mugsly, scepheo, Syrah	29	4	20
+344322	3	19	Muddy Rainbow (4 Suits)	2020-11-15 — 20:46:29 UTC	mugsly, scepheo, Syrah	20	4	20
+343561	3	0	Muddy Rainbow (4 Suits)	2020-11-14 — 21:00:51 UTC	mugsly, scepheo, Syrah	23	4	20
+343523	3	0	Muddy Rainbow (4 Suits)	2020-11-14 — 20:30:58 UTC	mugsly, scepheo, Syrah	31	4	20
 343486	3	30	Muddy Rainbow (6 Suits)	2020-11-14 — 20:03:37 UTC	mugsly, scepheo, Syrah	25	6	30
 337698	3	25	Muddy Rainbow (5 Suits)	2020-11-07 — 20:11:42 UTC	mugsly, scepheo, Syrah	46	5	25
 335553	3	15	Omni (3 Suits)	2020-11-04 — 23:06:25 UTC	mugsly, scepheo, Syrah	26	3	15
-335515	3	20	Omni (4 Suits)	2020-11-04 — 22:37:16 UTC	mugsly, scepheo, Syrah	29	4	20
+335515	3	20	Omni (4 Suits)	2020-11-04 — 22:37:16 UTC	mugsly, scepheo, Syrah	30	4	20
 335474	3	25	Omni (5 Suits)	2020-11-04 — 21:58:30 UTC	mugsly, scepheo, Syrah	21	5	25
-334803	3	0	No Variant	2020-11-03 — 23:26:25 UTC	mugsly, scepheo, Syrah	1636	5	25
+334803	3	0	No Variant	2020-11-03 — 23:26:25 UTC	mugsly, scepheo, Syrah	1651	5	25
 334782	3	0	Omni (5 Suits)	2020-11-03 — 22:54:23 UTC	mugsly, scepheo, Syrah	31	5	25
 334759	3	0	Omni (5 Suits)	2020-11-03 — 22:18:54 UTC	mugsly, scepheo, Syrah	50	5	25
 334745	3	15	Brown (3 Suits)	2020-11-03 — 22:06:08 UTC	mugsly, scepheo, Syrah	15	3	15
-334715	3	0	Brown (3 Suits)	2020-11-03 — 21:45:16 UTC	mugsly, scepheo, Syrah	21	3	15
+334715	3	0	Brown (3 Suits)	2020-11-03 — 21:45:16 UTC	mugsly, scepheo, Syrah	22	3	15
 334703	3	0	Brown (3 Suits)	2020-11-03 — 21:37:15 UTC	mugsly, scepheo, Syrah	23	3	15
 334670	3	0	Brown (3 Suits)	2020-11-03 — 21:11:05 UTC	mugsly, scepheo, Syrah	29	3	15
 334638	3	0	Brown (3 Suits)	2020-11-03 — 20:47:36 UTC	mugsly, scepheo, Syrah	37	3	15
-333994	3	25	Brown (5 Suits)	2020-11-02 — 23:10:17 UTC	mugsly, scepheo, Syrah	79	5	25
-333964	3	20	White (4 Suits)	2020-11-02 — 22:22:28 UTC	mugsly, scepheo, Syrah	46	4	20
-333939	3	0	White (4 Suits)	2020-11-02 — 21:44:08 UTC	mugsly, scepheo, Syrah	59	4	20
-333084	3	25	White (5 Suits)	2020-11-01 — 22:36:19 UTC	mugsly, scepheo, Syrah	126	5	25
-323133	3	20	Pink (4 Suits)	2020-10-18 — 21:01:15 UTC	mugsly, scepheo, Syrah	59	4	20
-323105	3	25	Pink (5 Suits)	2020-10-18 — 20:32:33 UTC	mugsly, scepheo, Syrah	75	5	25
-320437	3	23	Pink (5 Suits)	2020-10-14 — 22:29:08 UTC	mugsly, scepheo, Syrah	108	5	25
-320425	3	20	Rainbow (4 Suits)	2020-10-14 — 21:35:41 UTC	mugsly, scepheo, Syrah	84	4	20
+333994	3	25	Brown (5 Suits)	2020-11-02 — 23:10:17 UTC	mugsly, scepheo, Syrah	82	5	25
+333964	3	20	White (4 Suits)	2020-11-02 — 22:22:28 UTC	mugsly, scepheo, Syrah	47	4	20
+333939	3	0	White (4 Suits)	2020-11-02 — 21:44:08 UTC	mugsly, scepheo, Syrah	62	4	20
+333084	3	25	White (5 Suits)	2020-11-01 — 22:36:19 UTC	mugsly, scepheo, Syrah	131	5	25
+323133	3	20	Pink (4 Suits)	2020-10-18 — 21:01:15 UTC	mugsly, scepheo, Syrah	60	4	20
+323105	3	25	Pink (5 Suits)	2020-10-18 — 20:32:33 UTC	mugsly, scepheo, Syrah	77	5	25
+320437	3	23	Pink (5 Suits)	2020-10-14 — 22:29:08 UTC	mugsly, scepheo, Syrah	112	5	25
+320425	3	20	Rainbow (4 Suits)	2020-10-14 — 21:35:41 UTC	mugsly, scepheo, Syrah	85	4	20
 320412	3	20	4 Suits	2020-10-14 — 20:56:58 UTC	mugsly, scepheo, Syrah	90	4	20
 319019	3	0	Alternating Clues (5 Suits)	2020-10-12 — 21:41:15 UTC	mugsly, scepheo, Syrah	9	5	25
 318990	3	0	Alternating Clues (5 Suits)	2020-10-12 — 20:54:30 UTC	mugsly, scepheo, Syrah	13	5	25
 318981	3	0	Alternating Clues (5 Suits)	2020-10-12 — 20:38:28 UTC	mugsly, scepheo, Syrah	24	5	25
-318969	3	30	Ambiguous (6 Suits)	2020-10-12 — 20:22:41 UTC	mugsly, scepheo, Syrah	69	6	30
+318969	3	30	Ambiguous (6 Suits)	2020-10-12 — 20:22:41 UTC	mugsly, scepheo, Syrah	71	6	30
 318324	3	15	Light Pink (3 Suits)	2020-10-11 — 22:06:46 UTC	mugsly, scepheo, Syrah	12	3	15
 318304	3	0	Light Pink (3 Suits)	2020-10-11 — 21:43:38 UTC	mugsly, scepheo, Syrah	13	3	15
 318285	3	0	Light Pink (3 Suits)	2020-10-11 — 21:23:37 UTC	mugsly, scepheo, Syrah	14	3	15
 318262	3	0	Light Pink (3 Suits)	2020-10-11 — 20:56:43 UTC	mugsly, scepheo, Syrah	19	3	15
-318244	3	15	Pink (3 Suits)	2020-10-11 — 20:39:06 UTC	mugsly, scepheo, Syrah	27	3	15
-318228	3	0	Pink (3 Suits)	2020-10-11 — 20:16:08 UTC	mugsly, scepheo, Syrah	33	3	15
-318088	3	14	Pink (3 Suits)	2020-10-11 — 12:10:24 UTC	mugsly, scepheo, Syrah	44	3	15
+318244	3	15	Pink (3 Suits)	2020-10-11 — 20:39:06 UTC	mugsly, scepheo, Syrah	29	3	15
+318228	3	0	Pink (3 Suits)	2020-10-11 — 20:16:08 UTC	mugsly, scepheo, Syrah	34	3	15
+318088	3	14	Pink (3 Suits)	2020-10-11 — 12:10:24 UTC	mugsly, scepheo, Syrah	46	3	15
 318081	3	30	Rainbow-Fives (6 Suits)	2020-10-11 — 11:37:31 UTC	mugsly, scepheo, Syrah	2	6	30
 318075	3	0	Rainbow-Fives (6 Suits)	2020-10-11 — 10:49:38 UTC	mugsly, scepheo, Syrah	2	6	30
 318073	3	0	Rainbow-Fives (6 Suits)	2020-10-11 — 10:45:27 UTC	mugsly, scepheo, Syrah	3	6	30
@@ -564,10 +656,10 @@
 317598	3	25	Light Pink (5 Suits)	2020-10-10 — 22:49:35 UTC	mugsly, scepheo, Syrah	40	5	25
 317584	3	0	Pink-Ones & Light Pink (4 Suits)	2020-10-10 — 22:27:51 UTC	mugsly, scepheo, Syrah	1	4	20
 317565	3	0	Pink-Ones & Light Pink (4 Suits)	2020-10-10 — 22:07:46 UTC	mugsly, scepheo, Syrah	1	4	20
-317555	3	25	Gray (5 Suits)	2020-10-10 — 21:58:01 UTC	mugsly, scepheo, Syrah	37	5	25
-317526	3	25	Prism (5 Suits)	2020-10-10 — 21:28:34 UTC	mugsly, scepheo, Syrah	45	5	25
-317493	3	23	Prism (5 Suits)	2020-10-10 — 20:42:00 UTC	mugsly, scepheo, Syrah	80	5	25
-316070	3	23	Gray (5 Suits)	2020-10-08 — 22:07:27 UTC	mugsly, scepheo, Syrah	42	5	25
+317555	3	25	Gray (5 Suits)	2020-10-10 — 21:58:01 UTC	mugsly, scepheo, Syrah	39	5	25
+317526	3	25	Prism (5 Suits)	2020-10-10 — 21:28:34 UTC	mugsly, scepheo, Syrah	47	5	25
+317493	3	23	Prism (5 Suits)	2020-10-10 — 20:42:00 UTC	mugsly, scepheo, Syrah	82	5	25
+316070	3	23	Gray (5 Suits)	2020-10-08 — 22:07:27 UTC	mugsly, scepheo, Syrah	44	5	25
 316045	3	30	Omni (6 Suits)	2020-10-08 — 21:08:14 UTC	mugsly, scepheo, Syrah	5	6	30
 315981	3	0	Omni (6 Suits)	2020-10-08 — 19:59:51 UTC	mugsly, scepheo, Syrah	6	6	30
 315953	3	0	Omni (6 Suits)	2020-10-08 — 19:36:50 UTC	mugsly, scepheo, Syrah	6	6	30
@@ -579,70 +671,70 @@
 313648	3	0	Omni (6 Suits)	2020-10-05 — 20:34:13 UTC	mugsly, scepheo, Syrah	17	6	30
 313605	3	0	Omni (6 Suits)	2020-10-05 — 19:51:07 UTC	mugsly, scepheo, Syrah	22	6	30
 313491	3	0	Omni (6 Suits)	2020-10-05 — 18:23:05 UTC	mugsly, scepheo, Syrah	24	6	30
-313456	3	0	Omni (6 Suits)	2020-10-05 — 17:34:28 UTC	mugsly, scepheo, Syrah	27	6	30
+313456	3	0	Omni (6 Suits)	2020-10-05 — 17:34:28 UTC	mugsly, scepheo, Syrah	28	6	30
 309908	3	0	Omni (6 Suits)	2020-09-30 — 21:56:36 UTC	mugsly, scepheo, Syrah	36	6	30
 309892	3	0	Omni (6 Suits)	2020-09-30 — 21:40:07 UTC	mugsly, scepheo, Syrah	51	6	30
-309844	3	30	Rainbow & White (6 Suits)	2020-09-30 — 20:51:27 UTC	mugsly, scepheo, Syrah	32	6	30
+309844	3	30	Rainbow & White (6 Suits)	2020-09-30 — 20:51:27 UTC	mugsly, scepheo, Syrah	33	6	30
 309815	3	20	Brown (4 Suits)	2020-09-30 — 20:04:27 UTC	mugsly, scepheo, Syrah	31	4	20
 309778	3	30	Up or Down (6 Suits)	2020-09-30 — 19:24:43 UTC	mugsly, scepheo, Syrah	12	6	30
 309746	3	0	Up or Down (6 Suits)	2020-09-30 — 18:46:01 UTC	mugsly, scepheo, Syrah	12	6	30
 308594	3	19	Brown (4 Suits)	2020-09-28 — 22:28:46 UTC	mugsly, scepheo, Syrah	47	4	20
-308569	3	30	Light Pink (6 Suits)	2020-09-28 — 22:01:31 UTC	mugsly, scepheo, Syrah	34	6	30
-308544	3	0	Light Pink (6 Suits)	2020-09-28 — 21:22:48 UTC	mugsly, scepheo, Syrah	38	6	30
+308569	3	30	Light Pink (6 Suits)	2020-09-28 — 22:01:31 UTC	mugsly, scepheo, Syrah	37	6	30
+308544	3	0	Light Pink (6 Suits)	2020-09-28 — 21:22:48 UTC	mugsly, scepheo, Syrah	40	6	30
 308532	3	15	Reversed (3 Suits)	2020-09-28 — 20:47:13 UTC	mugsly, scepheo, Syrah	8	3	15
 308521	3	29	Up or Down (6 Suits)	2020-09-28 — 20:27:30 UTC	mugsly, scepheo, Syrah	15	6	30
 308492	3	0	Up or Down (6 Suits)	2020-09-28 — 19:44:54 UTC	mugsly, scepheo, Syrah	15	6	30
 307858	3	0	Pink-Ones & Light Pink (4 Suits)	2020-09-27 — 22:30:56 UTC	mugsly, scepheo, Syrah	1	4	20
 307846	3	0	Up or Down (6 Suits)	2020-09-27 — 22:12:31 UTC	mugsly, scepheo, Syrah	17	6	30
-307822	3	0	Up or Down (6 Suits)	2020-09-27 — 21:45:58 UTC	mugsly, scepheo, Syrah	20	6	30
+307822	3	0	Up or Down (6 Suits)	2020-09-27 — 21:45:58 UTC	mugsly, scepheo, Syrah	22	6	30
 307765	3	29	Up or Down (6 Suits)	2020-09-27 — 20:58:44 UTC	mugsly, scepheo, Syrah	24	6	30
-307747	3	15	Rainbow (3 Suits)	2020-09-27 — 20:16:06 UTC	mugsly, scepheo, Syrah	16	3	15
-307739	3	0	Rainbow (3 Suits)	2020-09-27 — 20:02:36 UTC	mugsly, scepheo, Syrah	24	3	15
+307747	3	15	Rainbow (3 Suits)	2020-09-27 — 20:16:06 UTC	mugsly, scepheo, Syrah	17	3	15
+307739	3	0	Rainbow (3 Suits)	2020-09-27 — 20:02:36 UTC	mugsly, scepheo, Syrah	25	3	15
 306842	3	0	Rainbow (3 Suits)	2020-09-26 — 13:02:06 UTC	mugsly, scepheo, Syrah	26	3	15
 306836	3	14	Rainbow (3 Suits)	2020-09-26 — 12:51:38 UTC	mugsly, scepheo, Syrah	36	3	15
 306830	3	20	Reversed (4 Suits)	2020-09-26 — 12:30:48 UTC	mugsly, scepheo, Syrah	18	4	20
-306825	3	25	Rainbow (5 Suits)	2020-09-26 — 12:14:24 UTC	mugsly, scepheo, Syrah	116	5	25
+306825	3	25	Rainbow (5 Suits)	2020-09-26 — 12:14:24 UTC	mugsly, scepheo, Syrah	119	5	25
 306822	3	0	Rainbow (5 Suits)	2020-09-26 — 11:48:26 UTC	mugsly, scepheo, Syrah	135	5	25
-306811	3	0	Rainbow (5 Suits)	2020-09-26 — 11:28:47 UTC	mugsly, scepheo, Syrah	185	5	25
-306753	3	25	Black (5 Suits)	2020-09-26 — 08:10:34 UTC	mugsly, scepheo, Syrah	51	5	25
+306811	3	0	Rainbow (5 Suits)	2020-09-26 — 11:28:47 UTC	mugsly, scepheo, Syrah	186	5	25
+306753	3	25	Black (5 Suits)	2020-09-26 — 08:10:34 UTC	mugsly, scepheo, Syrah	52	5	25
 306740	3	0	Black (5 Suits)	2020-09-26 — 07:33:08 UTC	mugsly, scepheo, Syrah	55	5	25
-305996	3	22	Black (5 Suits)	2020-09-25 — 11:08:20 UTC	mugsly, scepheo, Syrah	66	5	25
-305974	3	0	Black (5 Suits)	2020-09-25 — 10:39:29 UTC	mugsly, scepheo, Syrah	68	5	25
-305634	3	23	Black (5 Suits)	2020-09-24 — 22:48:15 UTC	mugsly, scepheo, Syrah	71	5	25
-305615	3	24	Black (5 Suits)	2020-09-24 — 22:21:17 UTC	mugsly, scepheo, Syrah	74	5	25
+305996	3	22	Black (5 Suits)	2020-09-25 — 11:08:20 UTC	mugsly, scepheo, Syrah	67	5	25
+305974	3	0	Black (5 Suits)	2020-09-25 — 10:39:29 UTC	mugsly, scepheo, Syrah	69	5	25
+305634	3	23	Black (5 Suits)	2020-09-24 — 22:48:15 UTC	mugsly, scepheo, Syrah	73	5	25
+305615	3	24	Black (5 Suits)	2020-09-24 — 22:21:17 UTC	mugsly, scepheo, Syrah	76	5	25
 305597	3	0	Black (5 Suits)	2020-09-24 — 21:59:35 UTC	mugsly, scepheo, Syrah	84	5	25
 305573	3	0	Black (5 Suits)	2020-09-24 — 21:36:52 UTC	mugsly, scepheo, Syrah	92	5	25
 305559	3	0	Black (5 Suits)	2020-09-24 — 21:24:09 UTC	mugsly, scepheo, Syrah	101	5	25
 304945	3	24	Black (5 Suits)	2020-09-23 — 23:06:37 UTC	mugsly, scepheo, Syrah	119	5	25
-304934	3	24	Black (5 Suits)	2020-09-23 — 22:28:44 UTC	mugsly, scepheo, Syrah	134	5	25
-304911	3	0	Black (5 Suits)	2020-09-23 — 21:48:42 UTC	mugsly, scepheo, Syrah	171	5	25
-304891	3	24	No Variant	2020-09-23 — 21:21:32 UTC	mugsly, scepheo, Syrah	1881	5	25
-287489	3	15	Prism (3 Suits)	2020-09-02 — 21:53:51 UTC	mugsly, scepheo, Syrah	32	3	15
-287476	3	30	Prism (6 Suits)	2020-09-02 — 21:32:04 UTC	mugsly, scepheo, Syrah	60	6	30
-287396	3	29	Prism (6 Suits)	2020-09-02 — 20:14:10 UTC	mugsly, scepheo, Syrah	84	6	30
-287366	3	28	Rainbow (6 Suits)	2020-09-02 — 19:26:47 UTC	mugsly, scepheo, Syrah	141	6	30
+304934	3	24	Black (5 Suits)	2020-09-23 — 22:28:44 UTC	mugsly, scepheo, Syrah	135	5	25
+304911	3	0	Black (5 Suits)	2020-09-23 — 21:48:42 UTC	mugsly, scepheo, Syrah	174	5	25
+304891	3	24	No Variant	2020-09-23 — 21:21:32 UTC	mugsly, scepheo, Syrah	1896	5	25
+287489	3	15	Prism (3 Suits)	2020-09-02 — 21:53:51 UTC	mugsly, scepheo, Syrah	34	3	15
+287476	3	30	Prism (6 Suits)	2020-09-02 — 21:32:04 UTC	mugsly, scepheo, Syrah	61	6	30
+287396	3	29	Prism (6 Suits)	2020-09-02 — 20:14:10 UTC	mugsly, scepheo, Syrah	85	6	30
+287366	3	28	Rainbow (6 Suits)	2020-09-02 — 19:26:47 UTC	mugsly, scepheo, Syrah	144	6	30
 279591	3	30	Omni-Ones (6 Suits)	2020-08-24 — 21:42:34 UTC	mugsly, scepheo, Syrah	3	6	30
 279545	3	0	Omni-Ones (6 Suits)	2020-08-24 — 20:51:27 UTC	mugsly, scepheo, Syrah	3	6	30
-279520	3	29	Up or Down (6 Suits)	2020-08-24 — 20:20:32 UTC	mugsly, scepheo, Syrah	34	6	30
-279464	3	29	Up or Down (6 Suits)	2020-08-24 — 19:22:59 UTC	mugsly, scepheo, Syrah	41	6	30
-279438	3	25	No Variant	2020-08-24 — 18:50:26 UTC	mugsly, scepheo, Syrah	2163	5	25
-279423	3	0	Up or Down (6 Suits)	2020-08-24 — 18:25:08 UTC	mugsly, scepheo, Syrah	55	6	30
+279520	3	29	Up or Down (6 Suits)	2020-08-24 — 20:20:32 UTC	mugsly, scepheo, Syrah	35	6	30
+279464	3	29	Up or Down (6 Suits)	2020-08-24 — 19:22:59 UTC	mugsly, scepheo, Syrah	42	6	30
+279438	3	25	No Variant	2020-08-24 — 18:50:26 UTC	mugsly, scepheo, Syrah	2179	5	25
+279423	3	0	Up or Down (6 Suits)	2020-08-24 — 18:25:08 UTC	mugsly, scepheo, Syrah	56	6	30
 276824	3	30	Rainbow-Ones (6 Suits)	2020-08-21 — 23:07:41 UTC	mugsly, scepheo, Syrah	16	6	30
 276785	3	0	Dual-Color (6 Suits)	2020-08-21 — 22:34:20 UTC	mugsly, scepheo, Syrah	34	6	30
-276762	3	30	Dual-Color (6 Suits)	2020-08-21 — 22:08:18 UTC	mugsly, scepheo, Syrah	43	6	30
+276762	3	30	Dual-Color (6 Suits)	2020-08-21 — 22:08:18 UTC	mugsly, scepheo, Syrah	44	6	30
 276716	3	15	White (3 Suits)	2020-08-21 — 21:07:12 UTC	mugsly, scepheo, Syrah	14	3	15
 276699	3	0	White (3 Suits)	2020-08-21 — 20:51:40 UTC	mugsly, scepheo, Syrah	16	3	15
 276692	3	0	White (3 Suits)	2020-08-21 — 20:38:44 UTC	mugsly, scepheo, Syrah	22	3	15
-276675	3	13	White (3 Suits)	2020-08-21 — 20:19:00 UTC	mugsly, scepheo, Syrah	26	3	15
-275363	3	0	White (3 Suits)	2020-08-19 — 23:39:43 UTC	mugsly, scepheo, Syrah	29	3	15
-275357	3	14	White (3 Suits)	2020-08-19 — 23:19:24 UTC	mugsly, scepheo, Syrah	30	3	15
-275351	3	14	White (3 Suits)	2020-08-19 — 23:05:05 UTC	mugsly, scepheo, Syrah	45	3	15
-275325	3	0	Dual-Color (6 Suits)	2020-08-19 — 22:31:22 UTC	mugsly, scepheo, Syrah	66	6	30
+276675	3	13	White (3 Suits)	2020-08-21 — 20:19:00 UTC	mugsly, scepheo, Syrah	28	3	15
+275363	3	0	White (3 Suits)	2020-08-19 — 23:39:43 UTC	mugsly, scepheo, Syrah	30	3	15
+275357	3	14	White (3 Suits)	2020-08-19 — 23:19:24 UTC	mugsly, scepheo, Syrah	31	3	15
+275351	3	14	White (3 Suits)	2020-08-19 — 23:05:05 UTC	mugsly, scepheo, Syrah	49	3	15
+275325	3	0	Dual-Color (6 Suits)	2020-08-19 — 22:31:22 UTC	mugsly, scepheo, Syrah	67	6	30
 275251	3	25	Rainbow-Ones & Brown (5 Suits)	2020-08-19 — 21:16:44 UTC	mugsly, scepheo, Syrah	1	5	25
-274504	3	15	3 Suits	2020-08-18 — 22:57:33 UTC	mugsly, scepheo, Syrah	144	3	15
+274504	3	15	3 Suits	2020-08-18 — 22:57:33 UTC	mugsly, scepheo, Syrah	146	3	15
 274474	3	30	Dark Rainbow (6 Suits)	2020-08-18 — 22:16:42 UTC	mugsly, scepheo, Syrah	37	6	30
 274445	3	0	Dark Rainbow (6 Suits)	2020-08-18 — 21:33:22 UTC	mugsly, scepheo, Syrah	41	6	30
-274427	2	13	3 Suits	2020-08-18 — 21:06:09 UTC	mugsly, Syrah	271	3	15
+274427	2	13	3 Suits	2020-08-18 — 21:06:09 UTC	mugsly, Syrah	273	3	15
 272066	3	27	Dark Rainbow (6 Suits)	2020-08-16 — 00:27:49 UTC	mugsly, scepheo, Syrah	41	6	30
 272023	3	0	Dark Rainbow (6 Suits)	2020-08-15 — 23:42:33 UTC	mugsly, scepheo, Syrah	53	6	30
 272008	3	26	Dark Rainbow (6 Suits)	2020-08-15 — 23:24:40 UTC	mugsly, scepheo, Syrah	62	6	30
@@ -650,75 +742,75 @@
 271906	3	29	Dark Rainbow (6 Suits)	2020-08-15 — 21:22:08 UTC	mugsly, scepheo, Syrah	91	6	30
 271857	3	20	Light Pink (4 Suits)	2020-08-15 — 20:40:37 UTC	mugsly, scepheo, Syrah	17	4	20
 271823	3	19	Light Pink (4 Suits)	2020-08-15 — 20:07:41 UTC	mugsly, scepheo, Syrah	21	4	20
-271797	3	0	Light Pink (4 Suits)	2020-08-15 — 19:25:45 UTC	mugsly, scepheo, Syrah	21	4	20
-271774	2	18	4 Suits	2020-08-15 — 18:50:53 UTC	mugsly, Syrah	171	4	20
-271061	3	20	4 Suits	2020-08-14 — 23:35:08 UTC	mugsly, scepheo, Syrah	118	4	20
-271039	3	18	4 Suits	2020-08-14 — 23:11:54 UTC	mugsly, scepheo, Syrah	160	4	20
-271000	3	25	Brown-Ones & White (5 Suits)	2020-08-14 — 22:30:48 UTC	mugsly, scepheo, Syrah	4	5	25
+271797	3	0	Light Pink (4 Suits)	2020-08-15 — 19:25:45 UTC	mugsly, scepheo, Syrah	22	4	20
+271774	2	18	4 Suits	2020-08-15 — 18:50:53 UTC	mugsly, Syrah	177	4	20
+271061	3	20	4 Suits	2020-08-14 — 23:35:08 UTC	mugsly, scepheo, Syrah	120	4	20
+271039	3	18	4 Suits	2020-08-14 — 23:11:54 UTC	mugsly, scepheo, Syrah	162	4	20
+271000	3	25	Brown-Ones & White (5 Suits)	2020-08-14 — 22:30:48 UTC	mugsly, scepheo, Syrah	5	5	25
 270958	3	15	White-Fives (3 Suits)	2020-08-14 — 21:39:35 UTC	mugsly, scepheo, Syrah	1	3	15
 270945	3	14	White-Fives (3 Suits)	2020-08-14 — 21:16:25 UTC	mugsly, scepheo, Syrah	2	3	15
 270936	3	0	White-Fives (3 Suits)	2020-08-14 — 21:03:39 UTC	mugsly, scepheo, Syrah	2	3	15
 270922	3	14	White-Fives (3 Suits)	2020-08-14 — 20:53:58 UTC	mugsly, scepheo, Syrah	2	3	15
-270057	4	0	No Variant	2020-08-13 — 21:26:46 UTC	Floriman, mugsly, scharkbite, Syrah	39	5	25
+270057	4	0	No Variant	2020-08-13 — 21:26:46 UTC	Floriman, mugsly, scharkbite, Syrah	40	5	25
 270021	4	0	No Variant	2020-08-13 — 21:08:06 UTC	Floriman, mugsly, scharkbite, Syrah	74	5	25
-269981	4	26	Black (6 Suits)	2020-08-13 — 20:45:27 UTC	avanderwalde, impostor, mugsly, Syrah	142	6	30
+269981	4	26	Black (6 Suits)	2020-08-13 — 20:45:27 UTC	avanderwalde, impostor, mugsly, Syrah	143	6	30
 269948	3	0	Pink-Ones & Light Pink (4 Suits)	2020-08-13 — 20:12:56 UTC	mugsly, scepheo, Syrah	1	4	20
 269260	3	30	White-Ones & White (6 Suits)	2020-08-12 — 22:53:33 UTC	mugsly, scepheo, Syrah	2	6	30
 269208	3	27	White-Ones & White (6 Suits)	2020-08-12 — 21:56:47 UTC	mugsly, scepheo, Syrah	2	6	30
 269184	3	29	White-Ones & White (6 Suits)	2020-08-12 — 21:12:59 UTC	mugsly, scepheo, Syrah	4	6	30
 269132	3	28	White-Ones & White (6 Suits)	2020-08-12 — 20:20:07 UTC	mugsly, scepheo, Syrah	6	6	30
 268366	3	29	White-Ones & White (6 Suits)	2020-08-11 — 22:10:44 UTC	mugsly, scepheo, Syrah	5	6	30
-268319	3	0	No Variant	2020-08-11 — 21:23:21 UTC	mugsly, scepheo, Syrah	2606	5	25
-268284	3	30	6 Suits	2020-08-11 — 20:55:10 UTC	mugsly, scepheo, Syrah	252	6	30
-267588	3	30	Rainbow (6 Suits)	2020-08-10 — 22:38:52 UTC	mugsly, scepheo, Syrah	146	6	30
-267527	3	29	Rainbow (6 Suits)	2020-08-10 — 21:26:39 UTC	mugsly, scepheo, Syrah	165	6	30
-267460	3	30	Rainbow (6 Suits)	2020-08-10 — 20:34:12 UTC	mugsly, scepheo, Syrah	183	6	30
-264547	3	29	Rainbow (6 Suits)	2020-08-07 — 23:06:06 UTC	mugsly, scepheo, Syrah	196	6	30
-264488	3	30	Rainbow (6 Suits)	2020-08-07 — 22:03:51 UTC	mugsly, scepheo, Syrah	215	6	30
-264454	3	0	Rainbow (6 Suits)	2020-08-07 — 21:15:39 UTC	mugsly, scepheo, Syrah	237	6	30
-264437	3	30	Rainbow (6 Suits)	2020-08-07 — 20:51:17 UTC	mugsly, scepheo, Syrah	282	6	30
-264405	2	0	Black (6 Suits)	2020-08-07 — 20:18:26 UTC	scepheo, Syrah	546	6	30
-264391	2	0	Black (6 Suits)	2020-08-07 — 20:00:11 UTC	scepheo, Syrah	643	6	30
+268319	3	0	No Variant	2020-08-11 — 21:23:21 UTC	mugsly, scepheo, Syrah	2627	5	25
+268284	3	30	6 Suits	2020-08-11 — 20:55:10 UTC	mugsly, scepheo, Syrah	256	6	30
+267588	3	30	Rainbow (6 Suits)	2020-08-10 — 22:38:52 UTC	mugsly, scepheo, Syrah	147	6	30
+267527	3	29	Rainbow (6 Suits)	2020-08-10 — 21:26:39 UTC	mugsly, scepheo, Syrah	167	6	30
+267460	3	30	Rainbow (6 Suits)	2020-08-10 — 20:34:12 UTC	mugsly, scepheo, Syrah	186	6	30
+264547	3	29	Rainbow (6 Suits)	2020-08-07 — 23:06:06 UTC	mugsly, scepheo, Syrah	198	6	30
+264488	3	30	Rainbow (6 Suits)	2020-08-07 — 22:03:51 UTC	mugsly, scepheo, Syrah	217	6	30
+264454	3	0	Rainbow (6 Suits)	2020-08-07 — 21:15:39 UTC	mugsly, scepheo, Syrah	239	6	30
+264437	3	30	Rainbow (6 Suits)	2020-08-07 — 20:51:17 UTC	mugsly, scepheo, Syrah	284	6	30
+264405	2	0	Black (6 Suits)	2020-08-07 — 20:18:26 UTC	scepheo, Syrah	553	6	30
+264391	2	0	Black (6 Suits)	2020-08-07 — 20:00:11 UTC	scepheo, Syrah	654	6	30
 264302	5	0	Rainbow (5 Suits)	2020-08-07 — 16:53:15 UTC	DMoney, Libster, Nitrate2, Syrah, Zakisan	5	5	25
 264284	4	25	No Variant	2020-08-07 — 16:06:19 UTC	DMoney, Nitrate2, pianoblook, Syrah	33	5	25
 264274	4	0	No Variant	2020-08-07 — 15:41:45 UTC	DMoney, Nitrate2, pianoblook, Syrah	32	5	25
-262895	3	30	6 Suits	2020-08-05 — 22:12:07 UTC	mugsly, scepheo, Syrah	305	6	30
-262875	3	0	6 Suits	2020-08-05 — 21:29:47 UTC	mugsly, scepheo, Syrah	365	6	30
-262868	3	0	6 Suits	2020-08-05 — 21:18:56 UTC	mugsly, scepheo, Syrah	503	6	30
-262841	3	14	Rainbow (3 Suits)	2020-08-05 — 20:28:19 UTC	mugsly, scepheo, Syrah	43	3	15
-262835	3	0	Rainbow (3 Suits)	2020-08-05 — 20:12:22 UTC	mugsly, scepheo, Syrah	53	3	15
-262833	3	0	Rainbow (3 Suits)	2020-08-05 — 20:05:23 UTC	mugsly, scepheo, Syrah	71	3	15
+262895	3	30	6 Suits	2020-08-05 — 22:12:07 UTC	mugsly, scepheo, Syrah	311	6	30
+262875	3	0	6 Suits	2020-08-05 — 21:29:47 UTC	mugsly, scepheo, Syrah	371	6	30
+262868	3	0	6 Suits	2020-08-05 — 21:18:56 UTC	mugsly, scepheo, Syrah	511	6	30
+262841	3	14	Rainbow (3 Suits)	2020-08-05 — 20:28:19 UTC	mugsly, scepheo, Syrah	44	3	15
+262835	3	0	Rainbow (3 Suits)	2020-08-05 — 20:12:22 UTC	mugsly, scepheo, Syrah	54	3	15
+262833	3	0	Rainbow (3 Suits)	2020-08-05 — 20:05:23 UTC	mugsly, scepheo, Syrah	72	3	15
 262822	3	0	Omni (6 Suits)	2020-08-05 — 19:43:46 UTC	mugsly, scepheo, Syrah	70	6	30
-262735	2	0	Up or Down (6 Suits)	2020-08-05 — 14:47:16 UTC	scepheo, Syrah	60	6	30
-262733	2	28	Up or Down (6 Suits)	2020-08-05 — 14:35:20 UTC	scepheo, Syrah	75	6	30
-262727	2	30	Rainbow (6 Suits)	2020-08-05 — 14:13:14 UTC	scepheo, Syrah	717	6	30
-261865	3	30	Black (6 Suits)	2020-08-04 — 22:13:28 UTC	mugsly, scepheo, Syrah	149	6	30
-261832	3	27	Black (6 Suits)	2020-08-04 — 21:42:42 UTC	mugsly, scepheo, Syrah	159	6	30
-261797	3	0	Black (6 Suits)	2020-08-04 — 21:03:51 UTC	mugsly, scepheo, Syrah	172	6	30
-261761	3	0	Black (6 Suits)	2020-08-04 — 20:36:33 UTC	mugsly, scepheo, Syrah	193	6	30
-261736	3	0	Black (6 Suits)	2020-08-04 — 20:07:35 UTC	mugsly, scepheo, Syrah	213	6	30
+262735	2	0	Up or Down (6 Suits)	2020-08-05 — 14:47:16 UTC	scepheo, Syrah	61	6	30
+262733	2	28	Up or Down (6 Suits)	2020-08-05 — 14:35:20 UTC	scepheo, Syrah	76	6	30
+262727	2	30	Rainbow (6 Suits)	2020-08-05 — 14:13:14 UTC	scepheo, Syrah	728	6	30
+261865	3	30	Black (6 Suits)	2020-08-04 — 22:13:28 UTC	mugsly, scepheo, Syrah	151	6	30
+261832	3	27	Black (6 Suits)	2020-08-04 — 21:42:42 UTC	mugsly, scepheo, Syrah	161	6	30
+261797	3	0	Black (6 Suits)	2020-08-04 — 21:03:51 UTC	mugsly, scepheo, Syrah	175	6	30
+261761	3	0	Black (6 Suits)	2020-08-04 — 20:36:33 UTC	mugsly, scepheo, Syrah	196	6	30
+261736	3	0	Black (6 Suits)	2020-08-04 — 20:07:35 UTC	mugsly, scepheo, Syrah	214	6	30
 261726	3	0	Black (6 Suits)	2020-08-04 — 19:53:45 UTC	mugsly, scepheo, Syrah	236	6	30
-261501	2	30	Rainbow (6 Suits)	2020-08-04 — 11:04:35 UTC	scepheo, Syrah	971	6	30
-260854	3	0	Rainbow & White (6 Suits)	2020-08-03 — 22:39:38 UTC	mugsly, scepheo, Syrah	46	6	30
-260768	3	30	Rainbow (6 Suits)	2020-08-03 — 21:29:45 UTC	mugsly, scepheo, Syrah	332	6	30
-258435	3	30	Brown (6 Suits)	2020-08-01 — 23:36:39 UTC	mugsly, scepheo, Syrah	52	6	30
+261501	2	30	Rainbow (6 Suits)	2020-08-04 — 11:04:35 UTC	scepheo, Syrah	984	6	30
+260854	3	0	Rainbow & White (6 Suits)	2020-08-03 — 22:39:38 UTC	mugsly, scepheo, Syrah	48	6	30
+260768	3	30	Rainbow (6 Suits)	2020-08-03 — 21:29:45 UTC	mugsly, scepheo, Syrah	335	6	30
+258435	3	30	Brown (6 Suits)	2020-08-01 — 23:36:39 UTC	mugsly, scepheo, Syrah	53	6	30
 258407	3	27	Brown (6 Suits)	2020-08-01 — 22:59:18 UTC	mugsly, scepheo, Syrah	61	6	30
 258363	5	0	Light Pink (6 Suits)	2020-08-01 — 21:53:59 UTC	Ahming, IsabeltheCat, Livia, Syrah, will.i.am	11	6	30
 258355	5	0	Brown (4 Suits)	2020-08-01 — 21:36:24 UTC	Ahming, IsabeltheCat, Livia, Syrah, will.i.am	10	4	20
-258154	5	25	No Variant	2020-08-01 — 19:16:03 UTC	MarkusKahlsen, pianoblook, qbphoenix, scepheo, Syrah	109	5	25
-258006	4	0	No Variant	2020-08-01 — 14:34:55 UTC	EnchanterTim, mugsly, scepheo, Syrah	2076	5	25
-257996	4	0	Rainbow (6 Suits)	2020-08-01 — 13:28:54 UTC	EnchanterTim, mugsly, scepheo, Syrah	344	6	30
-257986	4	24	No Variant	2020-08-01 — 12:29:01 UTC	EnchanterTim, mugsly, scepheo, Syrah	2763	5	25
-257974	4	23	No Variant	2020-08-01 — 11:54:29 UTC	EnchanterTim, mugsly, scepheo, Syrah	3581	5	25
+258154	5	25	No Variant	2020-08-01 — 19:16:03 UTC	MarkusKahlsen, pianoblook, qbphoenix, scepheo, Syrah	112	5	25
+258006	4	0	No Variant	2020-08-01 — 14:34:55 UTC	EnchanterTim, mugsly, scepheo, Syrah	2094	5	25
+257996	4	0	Rainbow (6 Suits)	2020-08-01 — 13:28:54 UTC	EnchanterTim, mugsly, scepheo, Syrah	349	6	30
+257986	4	24	No Variant	2020-08-01 — 12:29:01 UTC	EnchanterTim, mugsly, scepheo, Syrah	2788	5	25
+257974	4	23	No Variant	2020-08-01 — 11:54:29 UTC	EnchanterTim, mugsly, scepheo, Syrah	3609	5	25
 256465	3	26	Brown (6 Suits)	2020-07-30 — 23:21:56 UTC	mugsly, scepheo, Syrah	84	6	30
-256448	3	30	Rainbow (6 Suits)	2020-07-30 — 22:38:57 UTC	mugsly, scepheo, Syrah	396	6	30
-256417	3	30	White (6 Suits)	2020-07-30 — 21:54:09 UTC	mugsly, scepheo, Syrah	101	6	30
-256388	3	28	White (6 Suits)	2020-07-30 — 21:21:43 UTC	mugsly, scepheo, Syrah	124	6	30
-255657	3	30	Pink (6 Suits)	2020-07-29 — 23:49:35 UTC	mugsly, scepheo, Syrah	131	6	30
-255586	3	27	Black (6 Suits)	2020-07-29 — 23:04:22 UTC	mugsly, scepheo, Syrah	261	6	30
-255562	3	27	Black (6 Suits)	2020-07-29 — 22:28:36 UTC	mugsly, scepheo, Syrah	325	6	30
-255502	3	0	Black (6 Suits)	2020-07-29 — 21:47:38 UTC	mugsly, scepheo, Syrah	399	6	30
-255472	3	23	No Variant	2020-07-29 — 21:20:22 UTC	mugsly, scepheo, Syrah	3260	5	25
-255434	4	0	Rainbow (6 Suits)	2020-07-29 — 20:36:53 UTC	mugsly, scepheo, Syrah, toppie123	493	6	30
-248007	3	30	Rainbow (6 Suits)	2020-07-22 — 20:55:52 UTC	mugsly, Syrah, toppie123	508	6	30
-247962	3	28	Rainbow (6 Suits)	2020-07-22 — 20:14:39 UTC	mugsly, Syrah, toppie123	689	6	30
+256448	3	30	Rainbow (6 Suits)	2020-07-30 — 22:38:57 UTC	mugsly, scepheo, Syrah	404	6	30
+256417	3	30	White (6 Suits)	2020-07-30 — 21:54:09 UTC	mugsly, scepheo, Syrah	103	6	30
+256388	3	28	White (6 Suits)	2020-07-30 — 21:21:43 UTC	mugsly, scepheo, Syrah	128	6	30
+255657	3	30	Pink (6 Suits)	2020-07-29 — 23:49:35 UTC	mugsly, scepheo, Syrah	132	6	30
+255586	3	27	Black (6 Suits)	2020-07-29 — 23:04:22 UTC	mugsly, scepheo, Syrah	263	6	30
+255562	3	27	Black (6 Suits)	2020-07-29 — 22:28:36 UTC	mugsly, scepheo, Syrah	332	6	30
+255502	3	0	Black (6 Suits)	2020-07-29 — 21:47:38 UTC	mugsly, scepheo, Syrah	407	6	30
+255472	3	23	No Variant	2020-07-29 — 21:20:22 UTC	mugsly, scepheo, Syrah	3290	5	25
+255434	4	0	Rainbow (6 Suits)	2020-07-29 — 20:36:53 UTC	mugsly, scepheo, Syrah, toppie123	497	6	30
+248007	3	30	Rainbow (6 Suits)	2020-07-22 — 20:55:52 UTC	mugsly, Syrah, toppie123	514	6	30
+247962	3	28	Rainbow (6 Suits)	2020-07-22 — 20:14:39 UTC	mugsly, Syrah, toppie123	693	6	30

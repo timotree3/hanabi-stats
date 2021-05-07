@@ -1,214 +1,271 @@
-511327	2	25	White (5 Suits)	2021-04-24 — 16:25:43 UTC	MathNoob, PotatoLatte	69	5	25
-511319	2	25	Up or Down (5 Suits)	2021-04-24 — 16:06:12 UTC	MathNoob, PotatoLatte	141	5	25
-510400	3	25	Up or Down (5 Suits)	2021-04-23 — 18:09:38 UTC	MathNoob, PotatoLatte, wolfpack	88	5	25
-510387	3	0	Up or Down (5 Suits)	2021-04-23 — 17:54:25 UTC	MathNoob, PotatoLatte, wolfpack	113	5	25
-510375	2	25	Black (5 Suits)	2021-04-23 — 17:32:10 UTC	MathNoob, PotatoLatte	55	5	25
-510361	2	0	Black (5 Suits)	2021-04-23 — 17:18:56 UTC	MathNoob, PotatoLatte	56	5	25
+522805	2	0	Black (6 Suits)	2021-05-07 — 03:51:40 UTC	MathNoob, mestrepoke	450	6	30
+522772	2	29	Black (6 Suits)	2021-05-07 — 03:13:55 UTC	MathNoob, mestrepoke	553	6	30
+522743	2	0	Black (6 Suits)	2021-05-07 — 02:47:42 UTC	MathNoob, mestrepoke	654	6	30
+522194	4	0	No Variant	2021-05-06 — 17:25:25 UTC	jatloe, MathNoob, sajizzle, wolfpack	1267	5	25
+522180	5	19	No Variant	2021-05-06 — 16:55:19 UTC	Fafrd, jatloe, MathNoob, vEnhance, wolfpack	28	5	25
+522134	4	0	Rainbow & White (4 Suits)	2021-05-06 — 15:26:07 UTC	DarthGandalf, MathNoob, possum, wolfpack	9	4	20
+522117	4	24	No Variant	2021-05-06 — 14:48:52 UTC	jatloe, MathNoob, possum, wolfpack	1103	5	25
+521883	3	0	Prism (6 Suits)	2021-05-06 — 04:15:05 UTC	Fafrd, MathNoob, mestrepoke	85	6	30
+521862	4	28	Gray (6 Suits)	2021-05-06 — 03:42:52 UTC	Fafrd, MathNoob, wolfpack, wump	23	6	30
+521393	5	30	Brown-Ones & White (6 Suits)	2021-05-05 — 16:30:36 UTC	HelanaAshryvr, MathNoob, melwen, squirrel1988, vEnhance	2	6	30
+521325	3	25	No Variant	2021-05-05 — 14:56:07 UTC	macanek, MathNoob, vEnhance	35	5	25
+520496	6	0	Prism (5 Suits)	2021-05-04 — 17:53:29 UTC	ChristopheAF, indego, Kyle, MathNoob, possum, Wittvector	3	5	25
+520476	6	0	Prism (5 Suits)	2021-05-04 — 17:27:28 UTC	ChristopheAF, indego, Kyle, MathNoob, possum, Wittvector	3	5	25
+520426	2	24	Throw It in a Hole (5 Suits)	2021-05-04 — 15:28:58 UTC	MathNoob, wolfpack	31	5	25
+520417	2	0	Throw It in a Hole (5 Suits)	2021-05-04 — 15:05:27 UTC	MathNoob, wolfpack	37	5	25
+520412	2	0	Throw It in a Hole (5 Suits)	2021-05-04 — 14:55:43 UTC	MathNoob, wolfpack	53	5	25
+520404	2	0	Throw It in a Hole (5 Suits)	2021-05-04 — 14:23:12 UTC	MathNoob, wolfpack	81	5	25
+519478	2	20	Prism (4 Suits)	2021-05-03 — 17:28:51 UTC	MathNoob, wolfpack	69	4	20
+519463	2	25	Rainbow (5 Suits)	2021-05-03 — 17:12:14 UTC	MathNoob, wolfpack	134	5	25
+519458	2	0	Rainbow (5 Suits)	2021-05-03 — 16:52:43 UTC	MathNoob, wolfpack	159	5	25
+519453	2	0	Rainbow (5 Suits)	2021-05-03 — 16:38:10 UTC	MathNoob, wolfpack	257	5	25
+519448	2	25	No Variant	2021-05-03 — 16:27:16 UTC	MathNoob, nachoz	313	5	25
+519438	2	0	No Variant	2021-05-03 — 16:03:10 UTC	MathNoob, nachoz	318	5	25
+519433	2	0	No Variant	2021-05-03 — 15:51:30 UTC	MathNoob, nachoz	313	5	25
+519431	2	0	No Variant	2021-05-03 — 15:47:34 UTC	MathNoob, nachoz	320	5	25
+516885	3	0	Up or Down (6 Suits)	2021-04-30 — 17:12:08 UTC	MathNoob, PotatoLatte, wolfpack	35	6	30
+516880	3	0	Up or Down (6 Suits)	2021-04-30 — 16:58:35 UTC	MathNoob, PotatoLatte, wolfpack	42	6	30
+516873	3	0	Up or Down (6 Suits)	2021-04-30 — 16:46:37 UTC	MathNoob, PotatoLatte, wolfpack	56	6	30
+516867	3	23	No Variant	2021-04-30 — 16:33:22 UTC	MathNoob, nachoz, PotatoLatte	78	5	25
+516854	4	25	No Variant	2021-04-30 — 16:19:05 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	105	5	25
+516841	3	24	No Variant	2021-04-30 — 16:09:06 UTC	MathNoob, nachoz, PotatoLatte	102	5	25
+516815	3	20	Rainbow (4 Suits)	2021-04-30 — 15:47:52 UTC	MathNoob, nachoz, PotatoLatte	85	4	20
+516774	3	24	Up or Down & Rainbow (5 Suits)	2021-04-30 — 14:25:54 UTC	MathNoob, PotatoLatte, wolfpack	24	5	25
+516755	5	30	Rainbow-Ones & White (6 Suits)	2021-04-30 — 13:32:19 UTC	indego, Lel0uch, MathNoob, melwen, VerySloppyTwo	5	6	30
+515769	3	15	White (3 Suits)	2021-04-29 — 15:01:23 UTC	MathNoob, PotatoLatte, wolfpack	49	3	15
+515760	3	0	Throw It in a Hole (5 Suits)	2021-04-29 — 14:45:51 UTC	MathNoob, PotatoLatte, wolfpack	24	5	25
+515752	3	0	Throw It in a Hole (5 Suits)	2021-04-29 — 14:31:48 UTC	MathNoob, PotatoLatte, wolfpack	31	5	25
+515747	3	0	Throw It in a Hole (5 Suits)	2021-04-29 — 14:24:25 UTC	MathNoob, PotatoLatte, wolfpack	53	5	25
+515742	3	22	Brown (5 Suits)	2021-04-29 — 14:15:41 UTC	MathNoob, PotatoLatte, wolfpack	82	5	25
+514893	5	25	Rainbow (5 Suits)	2021-04-28 — 15:42:54 UTC	BraydonM, ChristopheAF, MathNoob, PotatoLatte, wolfpack	55	5	25
+514019	3	25	Black (5 Suits)	2021-04-27 — 16:43:27 UTC	MathNoob, nachoz, wolfpack	135	5	25
+514010	3	24	Black (5 Suits)	2021-04-27 — 16:22:21 UTC	MathNoob, nachoz, PotatoLatte	174	5	25
+513998	4	23	Black (5 Suits)	2021-04-27 — 15:51:37 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	80	5	25
+513995	4	0	Black (5 Suits)	2021-04-27 — 15:35:56 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	101	5	25
+513957	3	24	Extremely Ambiguous (5 Suits)	2021-04-27 — 14:11:54 UTC	MathNoob, PotatoLatte, wolfpack	12	5	25
+513283	3	25	No Variant	2021-04-26 — 17:33:27 UTC	MathNoob, nachoz, wolfpack	78	5	25
+513271	3	25	No Variant	2021-04-26 — 17:25:52 UTC	MathNoob, nachoz, wolfpack	79	5	25
+513258	3	0	No Variant	2021-04-26 — 17:17:27 UTC	MathNoob, nachoz, wolfpack	77	5	25
+513254	3	0	No Variant	2021-04-26 — 17:12:21 UTC	MathNoob, nachoz, wolfpack	78	5	25
+513245	3	20	White (4 Suits)	2021-04-26 — 17:01:49 UTC	MathNoob, nachoz, wolfpack	62	4	20
+513227	3	0	No Variant	2021-04-26 — 16:50:45 UTC	MathNoob, nachoz, wolfpack	79	5	25
+513211	2	30	Rainbow (6 Suits)	2021-04-26 — 16:45:30 UTC	MathNoob, nachoz	605	6	30
+513189	2	0	Rainbow (6 Suits)	2021-04-26 — 16:29:39 UTC	MathNoob, nachoz	728	6	30
+513183	2	0	Rainbow (6 Suits)	2021-04-26 — 16:26:57 UTC	MathNoob, nachoz	984	6	30
+513155	3	24	No Variant	2021-04-26 — 16:06:33 UTC	MathNoob, nachoz, wolfpack	82	5	25
+513149	3	0	No Variant	2021-04-26 — 15:58:13 UTC	MathNoob, nachoz, wolfpack	86	5	25
+513140	3	25	No Variant	2021-04-26 — 15:44:21 UTC	MathNoob, nachoz, wolfpack	85	5	25
+511327	2	25	White (5 Suits)	2021-04-24 — 16:25:43 UTC	MathNoob, PotatoLatte	70	5	25
+511319	2	25	Up or Down (5 Suits)	2021-04-24 — 16:06:12 UTC	MathNoob, PotatoLatte	145	5	25
+510400	3	25	Up or Down (5 Suits)	2021-04-23 — 18:09:38 UTC	MathNoob, PotatoLatte, wolfpack	89	5	25
+510387	3	0	Up or Down (5 Suits)	2021-04-23 — 17:54:25 UTC	MathNoob, PotatoLatte, wolfpack	114	5	25
+510375	2	25	Black (5 Suits)	2021-04-23 — 17:32:10 UTC	MathNoob, PotatoLatte	57	5	25
+510361	2	0	Black (5 Suits)	2021-04-23 — 17:18:56 UTC	MathNoob, PotatoLatte	58	5	25
 510353	3	0	Rainbow (3 Suits)	2021-04-23 — 17:06:56 UTC	MathNoob, PotatoLatte, wolfpack	26	3	15
 510339	3	14	Rainbow (3 Suits)	2021-04-23 — 16:50:09 UTC	MathNoob, PotatoLatte, wolfpack	36	3	15
-510324	2	24	Black (5 Suits)	2021-04-23 — 16:29:47 UTC	MathNoob, PotatoLatte	60	5	25
-510288	2	0	Black (5 Suits)	2021-04-23 — 16:06:24 UTC	MathNoob, PotatoLatte	60	5	25
-510276	2	0	Black (5 Suits)	2021-04-23 — 15:55:04 UTC	MathNoob, PotatoLatte	63	5	25
-510271	2	24	Black (5 Suits)	2021-04-23 — 15:46:03 UTC	MathNoob, PotatoLatte	64	5	25
-509753	3	24	No Variant	2021-04-22 — 23:59:53 UTC	MathNoob, nachoz, wolfpack	100	5	25
-509749	3	25	No Variant	2021-04-22 — 23:53:47 UTC	MathNoob, nachoz, wolfpack	106	5	25
-509744	3	25	No Variant	2021-04-22 — 23:46:36 UTC	MathNoob, nachoz, wolfpack	102	5	25
+510324	2	24	Black (5 Suits)	2021-04-23 — 16:29:47 UTC	MathNoob, PotatoLatte	63	5	25
+510288	2	0	Black (5 Suits)	2021-04-23 — 16:06:24 UTC	MathNoob, PotatoLatte	63	5	25
+510276	2	0	Black (5 Suits)	2021-04-23 — 15:55:04 UTC	MathNoob, PotatoLatte	65	5	25
+510271	2	24	Black (5 Suits)	2021-04-23 — 15:46:03 UTC	MathNoob, PotatoLatte	68	5	25
+509753	3	24	No Variant	2021-04-22 — 23:59:53 UTC	MathNoob, nachoz, wolfpack	103	5	25
+509749	3	25	No Variant	2021-04-22 — 23:53:47 UTC	MathNoob, nachoz, wolfpack	110	5	25
+509744	3	25	No Variant	2021-04-22 — 23:46:36 UTC	MathNoob, nachoz, wolfpack	107	5	25
 509407	3	25	Rainbow (5 Suits)	2021-04-22 — 17:22:29 UTC	MathNoob, nachoz, wolfpack	74	5	25
-509401	2	0	4 Suits	2021-04-22 — 17:00:48 UTC	MathNoob, nachoz	244	4	20
-509400	3	20	4 Suits	2021-04-22 — 16:57:18 UTC	MathNoob, nachoz, PotatoLatte	160	4	20
-509398	3	25	No Variant	2021-04-22 — 16:44:53 UTC	MathNoob, nachoz, PotatoLatte	106	5	25
-509386	3	24	No Variant	2021-04-22 — 16:20:20 UTC	MathNoob, nachoz, PotatoLatte	109	5	25
-509374	4	25	No Variant	2021-04-22 — 15:55:59 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	111	5	25
-509368	3	25	No Variant	2021-04-22 — 15:42:48 UTC	MathNoob, nachoz, PotatoLatte	110	5	25
-508612	2	0	White (6 Suits)	2021-04-21 — 18:48:36 UTC	MathNoob, PotatoLatte	184	6	30
-508555	3	29	Black (6 Suits)	2021-04-21 — 17:23:08 UTC	MathNoob, PotatoLatte, wolfpack	399	6	30
-508539	2	15	White (3 Suits)	2021-04-21 — 16:48:41 UTC	MathNoob, wolfpack	95	3	15
-508535	3	25	No Variant	2021-04-21 — 16:37:30 UTC	MathNoob, nachoz, wolfpack	112	5	25
-508526	2	0	No Variant	2021-04-21 — 16:00:56 UTC	MathNoob, nachoz	381	5	25
-508519	2	23	No Variant	2021-04-21 — 15:42:19 UTC	MathNoob, nachoz	387	5	25
+509401	2	0	4 Suits	2021-04-22 — 17:00:48 UTC	MathNoob, nachoz	248	4	20
+509400	3	20	4 Suits	2021-04-22 — 16:57:18 UTC	MathNoob, nachoz, PotatoLatte	162	4	20
+509398	3	25	No Variant	2021-04-22 — 16:44:53 UTC	MathNoob, nachoz, PotatoLatte	111	5	25
+509386	3	24	No Variant	2021-04-22 — 16:20:20 UTC	MathNoob, nachoz, PotatoLatte	115	5	25
+509374	4	25	No Variant	2021-04-22 — 15:55:59 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	112	5	25
+509368	3	25	No Variant	2021-04-22 — 15:42:48 UTC	MathNoob, nachoz, PotatoLatte	114	5	25
+508612	2	0	White (6 Suits)	2021-04-21 — 18:48:36 UTC	MathNoob, PotatoLatte	186	6	30
+508555	3	29	Black (6 Suits)	2021-04-21 — 17:23:08 UTC	MathNoob, PotatoLatte, wolfpack	407	6	30
+508539	2	15	White (3 Suits)	2021-04-21 — 16:48:41 UTC	MathNoob, wolfpack	100	3	15
+508535	3	25	No Variant	2021-04-21 — 16:37:30 UTC	MathNoob, nachoz, wolfpack	116	5	25
+508526	2	0	No Variant	2021-04-21 — 16:00:56 UTC	MathNoob, nachoz	387	5	25
+508519	2	23	No Variant	2021-04-21 — 15:42:19 UTC	MathNoob, nachoz	393	5	25
 507651	4	25	No Variant	2021-04-20 — 17:19:24 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	116	5	25
-507620	4	0	No Variant	2021-04-20 — 16:50:19 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	117	5	25
+507620	4	0	No Variant	2021-04-20 — 16:50:19 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	119	5	25
 507604	4	0	No Variant	2021-04-20 — 16:37:07 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	130	5	25
-507580	3	25	No Variant	2021-04-20 — 16:12:10 UTC	MathNoob, nachoz, PotatoLatte	111	5	25
+507580	3	25	No Variant	2021-04-20 — 16:12:10 UTC	MathNoob, nachoz, PotatoLatte	116	5	25
 507531	5	13	3 Suits	2021-04-20 — 14:37:00 UTC	BananaBum, MathNoob, ricardodd, VBVBVBVB, wolfpack	19	3	15
-507529	5	12	3 Suits	2021-04-20 — 14:22:19 UTC	BananaBum, MathNoob, ricardodd, VBVBVBVB, wolfpack	24	3	15
+507529	5	12	3 Suits	2021-04-20 — 14:22:19 UTC	BananaBum, MathNoob, ricardodd, VBVBVBVB, wolfpack	25	3	15
 507527	5	0	3 Suits	2021-04-20 — 14:07:11 UTC	BananaBum, MathNoob, ricardodd, VBVBVBVB, wolfpack	27	3	15
-507090	3	30	6 Suits	2021-04-20 — 01:27:26 UTC	MathNoob, PotatoLatte, wolfpack	503	6	30
+507090	3	30	6 Suits	2021-04-20 — 01:27:26 UTC	MathNoob, PotatoLatte, wolfpack	511	6	30
 507071	3	0	Totally Blind (6 Suits)	2021-04-20 — 01:06:54 UTC	MathNoob, PotatoLatte, wolfpack	13	6	30
-507062	3	13	Rainbow (3 Suits)	2021-04-20 — 00:56:14 UTC	MathNoob, PotatoLatte, wolfpack	43	3	15
-507049	3	13	Rainbow (3 Suits)	2021-04-20 — 00:39:19 UTC	MathNoob, PotatoLatte, wolfpack	71	3	15
-506613	3	22	No Variant	2021-04-19 — 15:57:20 UTC	MathNoob, nachoz, wolfpack	114	5	25
-504380	3	25	No Variant	2021-04-17 — 19:30:18 UTC	MathNoob, nachoz, PotatoLatte	119	5	25
-504362	4	0	No Variant	2021-04-17 — 19:09:48 UTC	MathNoob, nachoz, pennless, PotatoLatte	125	5	25
-504360	4	25	No Variant	2021-04-17 — 19:08:47 UTC	MathNoob, nachoz, pennless, PotatoLatte	149	5	25
-504329	3	25	No Variant	2021-04-17 — 18:42:58 UTC	MathNoob, nachoz, pennless	137	5	25
-501863	3	0	Rainbow (5 Suits)	2021-04-15 — 15:15:55 UTC	MathNoob, PotatoLatte, wolfpack	84	5	25
-501851	3	0	Rainbow (5 Suits)	2021-04-15 — 14:39:12 UTC	MathNoob, PotatoLatte, wolfpack	116	5	25
+507062	3	13	Rainbow (3 Suits)	2021-04-20 — 00:56:14 UTC	MathNoob, PotatoLatte, wolfpack	44	3	15
+507049	3	13	Rainbow (3 Suits)	2021-04-20 — 00:39:19 UTC	MathNoob, PotatoLatte, wolfpack	72	3	15
+506613	3	22	No Variant	2021-04-19 — 15:57:20 UTC	MathNoob, nachoz, wolfpack	120	5	25
+504380	3	25	No Variant	2021-04-17 — 19:30:18 UTC	MathNoob, nachoz, PotatoLatte	126	5	25
+504362	4	0	No Variant	2021-04-17 — 19:09:48 UTC	MathNoob, nachoz, pennless, PotatoLatte	126	5	25
+504360	4	25	No Variant	2021-04-17 — 19:08:47 UTC	MathNoob, nachoz, pennless, PotatoLatte	150	5	25
+504329	3	25	No Variant	2021-04-17 — 18:42:58 UTC	MathNoob, nachoz, pennless	142	5	25
+501863	3	0	Rainbow (5 Suits)	2021-04-15 — 15:15:55 UTC	MathNoob, PotatoLatte, wolfpack	87	5	25
+501851	3	0	Rainbow (5 Suits)	2021-04-15 — 14:39:12 UTC	MathNoob, PotatoLatte, wolfpack	119	5	25
 501841	3	0	Rainbow (5 Suits)	2021-04-15 — 14:11:06 UTC	MathNoob, PotatoLatte, wolfpack	135	5	25
-501832	3	0	Rainbow (5 Suits)	2021-04-15 — 13:51:25 UTC	MathNoob, PotatoLatte, wolfpack	185	5	25
-501402	3	0	No Variant	2021-04-15 — 00:31:46 UTC	MathNoob, nachoz, PotatoLatte	121	5	25
-501387	2	0	No Variant	2021-04-15 — 00:14:16 UTC	MathNoob, nachoz	411	5	25
-500883	3	25	No Variant	2021-04-14 — 15:47:45 UTC	MathNoob, nachoz, PotatoLatte	154	5	25
-500873	3	24	No Variant	2021-04-14 — 15:26:17 UTC	MathNoob, nachoz, wolfpack	125	5	25
-500859	2	0	No Variant	2021-04-14 — 14:58:59 UTC	MathNoob, nachoz	423	5	25
-500856	2	0	No Variant	2021-04-14 — 14:53:36 UTC	MathNoob, nachoz	432	5	25
-500853	2	0	No Variant	2021-04-14 — 14:50:14 UTC	MathNoob, nachoz	440	5	25
+501832	3	0	Rainbow (5 Suits)	2021-04-15 — 13:51:25 UTC	MathNoob, PotatoLatte, wolfpack	186	5	25
+501402	3	0	No Variant	2021-04-15 — 00:31:46 UTC	MathNoob, nachoz, PotatoLatte	127	5	25
+501387	2	0	No Variant	2021-04-15 — 00:14:16 UTC	MathNoob, nachoz	418	5	25
+500883	3	25	No Variant	2021-04-14 — 15:47:45 UTC	MathNoob, nachoz, PotatoLatte	157	5	25
+500873	3	24	No Variant	2021-04-14 — 15:26:17 UTC	MathNoob, nachoz, wolfpack	129	5	25
+500859	2	0	No Variant	2021-04-14 — 14:58:59 UTC	MathNoob, nachoz	429	5	25
+500856	2	0	No Variant	2021-04-14 — 14:53:36 UTC	MathNoob, nachoz	439	5	25
+500853	2	0	No Variant	2021-04-14 — 14:50:14 UTC	MathNoob, nachoz	446	5	25
 500516	3	30	Rainbow (6 Suits)	2021-04-14 — 03:04:34 UTC	kinkajusrevenge, MathNoob, wump	43	6	30
-498554	3	0	No Variant	2021-04-12 — 17:39:30 UTC	MathNoob, nachoz, wolfpack	134	5	25
-498530	3	0	No Variant	2021-04-12 — 17:27:56 UTC	MathNoob, nachoz, wolfpack	141	5	25
-498525	3	0	No Variant	2021-04-12 — 17:21:46 UTC	MathNoob, nachoz, wolfpack	148	5	25
-498517	3	0	No Variant	2021-04-12 — 17:13:44 UTC	MathNoob, nachoz, wolfpack	151	5	25
-498514	3	25	No Variant	2021-04-12 — 17:08:34 UTC	MathNoob, nachoz, wolfpack	156	5	25
-498504	3	25	No Variant	2021-04-12 — 16:49:06 UTC	MathNoob, nachoz, wolfpack	157	5	25
-498496	3	25	No Variant	2021-04-12 — 16:30:19 UTC	MathNoob, nachoz, wolfpack	160	5	25
-498491	2	0	No Variant	2021-04-12 — 16:07:30 UTC	MathNoob, nachoz	450	5	25
-498487	2	24	No Variant	2021-04-12 — 15:51:36 UTC	MathNoob, nachoz	455	5	25
-497638	4	29	White & Prism (6 Suits)	2021-04-11 — 22:16:13 UTC	DarthGandalf, griff77, MathNoob, wolfpack	10	6	30
-495069	3	15	3 Suits	2021-04-09 — 18:12:51 UTC	MathNoob, PotatoLatte, wolfpack	74	3	15
-495047	3	0	3 Suits	2021-04-09 — 17:58:33 UTC	MathNoob, PotatoLatte, wolfpack	88	3	15
-495036	4	22	No Variant	2021-04-09 — 17:52:30 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	156	5	25
-495020	4	23	No Variant	2021-04-09 — 17:43:49 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	158	5	25
-495006	4	0	No Variant	2021-04-09 — 17:35:00 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	167	5	25
-494974	4	23	Black (6 Suits)	2021-04-09 — 17:08:32 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	273	6	30
-494927	4	25	No Variant	2021-04-09 — 16:14:09 UTC	anoob, MathNoob, nachoz, wolfpack	180	5	25
-494909	3	0	No Variant	2021-04-09 — 15:44:48 UTC	anoob, MathNoob, nachoz	164	5	25
-494031	3	0	No Variant	2021-04-08 — 16:20:06 UTC	anoob, MathNoob, nachoz	170	5	25
-494018	3	24	No Variant	2021-04-08 — 15:57:13 UTC	anoob, MathNoob, nachoz	199	5	25
-493599	2	21	Black (5 Suits)	2021-04-08 — 01:01:00 UTC	MathNoob, wolfpack	219	5	25
-493581	2	0	Black (5 Suits)	2021-04-08 — 00:32:30 UTC	MathNoob, wolfpack	244	5	25
-493168	2	15	Rainbow (3 Suits)	2021-04-07 — 18:16:12 UTC	MathNoob, wolfpack	127	3	15
-493154	2	15	3 Suits	2021-04-07 — 18:03:20 UTC	MathNoob, wolfpack	105	3	15
-493144	2	12	3 Suits	2021-04-07 — 17:50:58 UTC	MathNoob, wolfpack	124	3	15
-493130	3	25	No Variant	2021-04-07 — 17:33:40 UTC	MathNoob, nachoz, wolfpack	167	5	25
-493122	3	25	No Variant	2021-04-07 — 17:23:20 UTC	MathNoob, nachoz, wolfpack	187	5	25
-493099	3	0	No Variant	2021-04-07 — 16:52:41 UTC	MathNoob, nachoz, wolfpack	201	5	25
-493086	3	23	No Variant	2021-04-07 — 16:37:17 UTC	MathNoob, nachoz, wolfpack	213	5	25
-493078	2	25	No Variant	2021-04-07 — 16:16:13 UTC	MathNoob, nachoz	458	5	25
-493067	2	25	No Variant	2021-04-07 — 15:51:45 UTC	MathNoob, nachoz	476	5	25
-491279	3	25	White (5 Suits)	2021-04-05 — 17:20:06 UTC	MathNoob, narabio, Spieler42	126	5	25
+498554	3	0	No Variant	2021-04-12 — 17:39:30 UTC	MathNoob, nachoz, wolfpack	140	5	25
+498530	3	0	No Variant	2021-04-12 — 17:27:56 UTC	MathNoob, nachoz, wolfpack	145	5	25
+498525	3	0	No Variant	2021-04-12 — 17:21:46 UTC	MathNoob, nachoz, wolfpack	149	5	25
+498517	3	0	No Variant	2021-04-12 — 17:13:44 UTC	MathNoob, nachoz, wolfpack	153	5	25
+498514	3	25	No Variant	2021-04-12 — 17:08:34 UTC	MathNoob, nachoz, wolfpack	158	5	25
+498504	3	25	No Variant	2021-04-12 — 16:49:06 UTC	MathNoob, nachoz, wolfpack	160	5	25
+498496	3	25	No Variant	2021-04-12 — 16:30:19 UTC	MathNoob, nachoz, wolfpack	163	5	25
+498491	2	0	No Variant	2021-04-12 — 16:07:30 UTC	MathNoob, nachoz	456	5	25
+498487	2	24	No Variant	2021-04-12 — 15:51:36 UTC	MathNoob, nachoz	461	5	25
+497638	4	29	White & Prism (6 Suits)	2021-04-11 — 22:16:13 UTC	DarthGandalf, griff77, MathNoob, wolfpack	11	6	30
+495069	3	15	3 Suits	2021-04-09 — 18:12:51 UTC	MathNoob, PotatoLatte, wolfpack	75	3	15
+495047	3	0	3 Suits	2021-04-09 — 17:58:33 UTC	MathNoob, PotatoLatte, wolfpack	90	3	15
+495036	4	22	No Variant	2021-04-09 — 17:52:30 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	157	5	25
+495020	4	23	No Variant	2021-04-09 — 17:43:49 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	161	5	25
+495006	4	0	No Variant	2021-04-09 — 17:35:00 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	169	5	25
+494974	4	23	Black (6 Suits)	2021-04-09 — 17:08:32 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	276	6	30
+494927	4	25	No Variant	2021-04-09 — 16:14:09 UTC	anoob, MathNoob, nachoz, wolfpack	182	5	25
+494909	3	0	No Variant	2021-04-09 — 15:44:48 UTC	anoob, MathNoob, nachoz	167	5	25
+494031	3	0	No Variant	2021-04-08 — 16:20:06 UTC	anoob, MathNoob, nachoz	173	5	25
+494018	3	24	No Variant	2021-04-08 — 15:57:13 UTC	anoob, MathNoob, nachoz	202	5	25
+493599	2	21	Black (5 Suits)	2021-04-08 — 01:01:00 UTC	MathNoob, wolfpack	222	5	25
+493581	2	0	Black (5 Suits)	2021-04-08 — 00:32:30 UTC	MathNoob, wolfpack	250	5	25
+493168	2	15	Rainbow (3 Suits)	2021-04-07 — 18:16:12 UTC	MathNoob, wolfpack	132	3	15
+493154	2	15	3 Suits	2021-04-07 — 18:03:20 UTC	MathNoob, wolfpack	106	3	15
+493144	2	12	3 Suits	2021-04-07 — 17:50:58 UTC	MathNoob, wolfpack	125	3	15
+493130	3	25	No Variant	2021-04-07 — 17:33:40 UTC	MathNoob, nachoz, wolfpack	170	5	25
+493122	3	25	No Variant	2021-04-07 — 17:23:20 UTC	MathNoob, nachoz, wolfpack	189	5	25
+493099	3	0	No Variant	2021-04-07 — 16:52:41 UTC	MathNoob, nachoz, wolfpack	203	5	25
+493086	3	23	No Variant	2021-04-07 — 16:37:17 UTC	MathNoob, nachoz, wolfpack	218	5	25
+493078	2	25	No Variant	2021-04-07 — 16:16:13 UTC	MathNoob, nachoz	465	5	25
+493067	2	25	No Variant	2021-04-07 — 15:51:45 UTC	MathNoob, nachoz	485	5	25
+491279	3	25	White (5 Suits)	2021-04-05 — 17:20:06 UTC	MathNoob, narabio, Spieler42	131	5	25
 491254	5	22	White (5 Suits)	2021-04-05 — 16:47:54 UTC	Kyle, MathNoob, narabio, Spieler42, wump	1	5	25
-490878	4	20	4 Suits	2021-04-05 — 03:31:13 UTC	griff77, louietyj, MathNoob, wolfpack	51	4	20
-490853	4	25	Rainbow (5 Suits)	2021-04-05 — 03:00:12 UTC	griff77, louietyj, MathNoob, wolfpack	32	5	25
-488378	3	25	No Variant	2021-04-02 — 16:59:42 UTC	HelanaAshryvr, MathNoob, Onen	130	5	25
-488370	4	28	Rainbow (6 Suits)	2021-04-02 — 16:33:41 UTC	Aluap, kinkajusrevenge, MathNoob, Onen	85	6	30
-482453	3	23	No Variant	2021-03-27 — 19:10:12 UTC	MathNoob, nachoz, PotatoLatte	218	5	25
-482439	3	0	No Variant	2021-03-27 — 18:51:32 UTC	MathNoob, nachoz, PotatoLatte	223	5	25
-482434	3	0	No Variant	2021-03-27 — 18:46:12 UTC	MathNoob, nachoz, PotatoLatte	220	5	25
-482424	2	24	No Variant	2021-03-27 — 18:34:37 UTC	MathNoob, nachoz	496	5	25
-482409	2	25	No Variant	2021-03-27 — 18:10:27 UTC	MathNoob, nachoz	506	5	25
-482402	2	24	No Variant	2021-03-27 — 17:58:01 UTC	MathNoob, nachoz	513	5	25
-481287	4	23	No Variant	2021-03-26 — 16:34:01 UTC	anoob, MathNoob, nachoz, pennless	190	5	25
+490878	4	20	4 Suits	2021-04-05 — 03:31:13 UTC	griff77, louietyj, MathNoob, wolfpack	52	4	20
+490853	4	25	Rainbow (5 Suits)	2021-04-05 — 03:00:12 UTC	griff77, louietyj, MathNoob, wolfpack	34	5	25
+488378	3	25	No Variant	2021-04-02 — 16:59:42 UTC	HelanaAshryvr, MathNoob, Onen	135	5	25
+488370	4	28	Rainbow (6 Suits)	2021-04-02 — 16:33:41 UTC	Aluap, kinkajusrevenge, MathNoob, Onen	86	6	30
+482453	3	23	No Variant	2021-03-27 — 19:10:12 UTC	MathNoob, nachoz, PotatoLatte	223	5	25
+482439	3	0	No Variant	2021-03-27 — 18:51:32 UTC	MathNoob, nachoz, PotatoLatte	228	5	25
+482434	3	0	No Variant	2021-03-27 — 18:46:12 UTC	MathNoob, nachoz, PotatoLatte	224	5	25
+482424	2	24	No Variant	2021-03-27 — 18:34:37 UTC	MathNoob, nachoz	502	5	25
+482409	2	25	No Variant	2021-03-27 — 18:10:27 UTC	MathNoob, nachoz	513	5	25
+482402	2	24	No Variant	2021-03-27 — 17:58:01 UTC	MathNoob, nachoz	521	5	25
+481287	4	23	No Variant	2021-03-26 — 16:34:01 UTC	anoob, MathNoob, nachoz, pennless	192	5	25
 481272	4	0	No Variant	2021-03-26 — 16:11:20 UTC	anoob, MathNoob, nachoz, pennless	204	5	25
 481264	4	0	No Variant	2021-03-26 — 16:00:08 UTC	anoob, MathNoob, nachoz, pennless	213	5	25
-481261	3	24	No Variant	2021-03-26 — 15:58:10 UTC	MathNoob, nachoz, pennless	243	5	25
-481253	4	0	No Variant	2021-03-26 — 15:40:35 UTC	MathNoob, nachoz, pennless, wolfpack	233	5	25
-481250	4	0	No Variant	2021-03-26 — 15:31:54 UTC	MathNoob, nachoz, pennless, wolfpack	243	5	25
-478044	2	0	No Variant	2021-03-23 — 16:21:23 UTC	MathNoob, nachoz	534	5	25
-478041	2	0	No Variant	2021-03-23 — 16:16:22 UTC	MathNoob, nachoz	549	5	25
-478036	4	24	No Variant	2021-03-23 — 16:09:36 UTC	jucijuce, MathNoob, nachoz, pennless	257	5	25
-478024	6	0	No Variant	2021-03-23 — 15:52:39 UTC	anoob, jucijuce, MathNoob, nachoz, pennless, wolfpack	282	5	25
-478021	6	0	No Variant	2021-03-23 — 15:46:48 UTC	anoob, jucijuce, MathNoob, nachoz, pennless, wolfpack	478	5	25
-476899	5	24	No Variant	2021-03-22 — 16:24:39 UTC	anoob, Cylence, MathNoob, nachoz, wolfpack	109	5	25
-476887	5	0	No Variant	2021-03-22 — 16:02:43 UTC	anoob, Cylence, MathNoob, nachoz, wolfpack	120	5	25
+481261	3	24	No Variant	2021-03-26 — 15:58:10 UTC	MathNoob, nachoz, pennless	246	5	25
+481253	4	0	No Variant	2021-03-26 — 15:40:35 UTC	MathNoob, nachoz, pennless, wolfpack	236	5	25
+481250	4	0	No Variant	2021-03-26 — 15:31:54 UTC	MathNoob, nachoz, pennless, wolfpack	245	5	25
+478044	2	0	No Variant	2021-03-23 — 16:21:23 UTC	MathNoob, nachoz	543	5	25
+478041	2	0	No Variant	2021-03-23 — 16:16:22 UTC	MathNoob, nachoz	558	5	25
+478036	4	24	No Variant	2021-03-23 — 16:09:36 UTC	jucijuce, MathNoob, nachoz, pennless	260	5	25
+478024	6	0	No Variant	2021-03-23 — 15:52:39 UTC	anoob, jucijuce, MathNoob, nachoz, pennless, wolfpack	284	5	25
+478021	6	0	No Variant	2021-03-23 — 15:46:48 UTC	anoob, jucijuce, MathNoob, nachoz, pennless, wolfpack	483	5	25
+476899	5	24	No Variant	2021-03-22 — 16:24:39 UTC	anoob, Cylence, MathNoob, nachoz, wolfpack	112	5	25
+476887	5	0	No Variant	2021-03-22 — 16:02:43 UTC	anoob, Cylence, MathNoob, nachoz, wolfpack	122	5	25
 454248	5	0	No Variant	2021-03-02 — 17:23:55 UTC	anoob, Cylence, jucijuce, MathNoob, nachoz	135	5	25
 453161	3	25	Prism (5 Suits)	2021-03-01 — 16:59:31 UTC	dobi, Fey, MathNoob	2	5	25
 453154	4	0	Prism (5 Suits)	2021-03-01 — 16:42:35 UTC	dobi, Fey, MarkusKahlsen, MathNoob	4	5	25
-451198	4	0	No Variant	2021-02-27 — 22:15:05 UTC	ADrone, Daryl, HariKrishnan, MathNoob	138	5	25
-448672	3	23	No Variant	2021-02-25 — 13:51:36 UTC	4head, banjoleb, MathNoob	82	5	25
-448664	3	23	No Variant	2021-02-25 — 13:19:38 UTC	4head, banjoleb, MathNoob	89	5	25
-448656	3	0	No Variant	2021-02-25 — 12:56:13 UTC	4head, banjoleb, MathNoob	89	5	25
-448219	3	0	No Variant	2021-02-25 — 00:55:02 UTC	MathNoob, nachoz, pennless	269	5	25
+451198	4	0	No Variant	2021-02-27 — 22:15:05 UTC	ADrone, Daryl, HariKrishnan, MathNoob	139	5	25
+448672	3	23	No Variant	2021-02-25 — 13:51:36 UTC	4head, banjoleb, MathNoob	84	5	25
+448664	3	23	No Variant	2021-02-25 — 13:19:38 UTC	4head, banjoleb, MathNoob	91	5	25
+448656	3	0	No Variant	2021-02-25 — 12:56:13 UTC	4head, banjoleb, MathNoob	91	5	25
+448219	3	0	No Variant	2021-02-25 — 00:55:02 UTC	MathNoob, nachoz, pennless	272	5	25
 447942	5	0	No Variant	2021-02-24 — 20:10:39 UTC	basking, CaitlinSmith, eljavi, MathNoob, wolfpack	44	5	25
 447929	5	0	No Variant	2021-02-24 — 19:56:23 UTC	basking, CaitlinSmith, eljavi, MathNoob, wolfpack	60	5	25
-447916	5	0	No Variant	2021-02-24 — 19:46:48 UTC	basking, CaitlinSmith, eljavi, MathNoob, wolfpack	67	5	25
-447892	5	0	No Variant	2021-02-24 — 19:20:05 UTC	basking, CaitlinSmith, eljavi, MathNoob, wolfpack	126	5	25
-446701	3	25	No Variant	2021-02-23 — 17:21:27 UTC	MathNoob, nachoz, sp00ky	307	5	25
-446676	3	0	No Variant	2021-02-23 — 16:57:41 UTC	MathNoob, nachoz, wolfpack	320	5	25
+447916	5	0	No Variant	2021-02-24 — 19:46:48 UTC	basking, CaitlinSmith, eljavi, MathNoob, wolfpack	68	5	25
+447892	5	0	No Variant	2021-02-24 — 19:20:05 UTC	basking, CaitlinSmith, eljavi, MathNoob, wolfpack	127	5	25
+446701	3	25	No Variant	2021-02-23 — 17:21:27 UTC	MathNoob, nachoz, sp00ky	311	5	25
+446676	3	0	No Variant	2021-02-23 — 16:57:41 UTC	MathNoob, nachoz, wolfpack	324	5	25
 445907	3	23	No Variant	2021-02-22 — 21:56:47 UTC	Aww__fOCWQGfmj, Ketul, MathNoob	4	5	25
 445872	4	25	No Variant	2021-02-22 — 21:25:19 UTC	Aww__fOCWQGfmj, foundthecat, Ketul, MathNoob	9	5	25
-444581	3	24	No Variant	2021-02-21 — 20:02:01 UTC	HariKrishnan, MathNoob, mestrepoke	175	5	25
+444581	3	24	No Variant	2021-02-21 — 20:02:01 UTC	HariKrishnan, MathNoob, mestrepoke	176	5	25
 444545	3	0	No Variant	2021-02-21 — 19:05:59 UTC	Fey, MathNoob, possum	25	5	25
-443208	3	25	No Variant	2021-02-20 — 16:47:26 UTC	Damian000, MathNoob, possum	178	5	25
-443194	3	25	No Variant	2021-02-20 — 16:16:22 UTC	Damian000, MathNoob, possum	206	5	25
+443208	3	25	No Variant	2021-02-20 — 16:47:26 UTC	Damian000, MathNoob, possum	179	5	25
+443194	3	25	No Variant	2021-02-20 — 16:16:22 UTC	Damian000, MathNoob, possum	209	5	25
 442030	4	28	6 Suits	2021-02-19 — 17:06:09 UTC	Kyle, MathNoob, narabio, Spieler42	81	6	30
-441995	3	24	No Variant	2021-02-19 — 15:55:12 UTC	MathNoob, narabio, wolfpack	1095	5	25
-441972	2	22	No Variant	2021-02-19 — 15:02:05 UTC	MathNoob, wolfpack	3051	5	25
-441027	4	0	No Variant	2021-02-18 — 19:21:07 UTC	Cylence, MathNoob, nachoz, wolfpack	308	5	25
-440988	4	0	No Variant	2021-02-18 — 18:42:32 UTC	Cylence, MathNoob, nachoz, wolfpack	336	5	25
-440975	4	22	No Variant	2021-02-18 — 18:27:56 UTC	Cylence, MathNoob, nachoz, wolfpack	384	5	25
-440950	2	25	No Variant	2021-02-18 — 17:52:30 UTC	MathNoob, nachoz	626	5	25
-440937	2	0	No Variant	2021-02-18 — 17:27:21 UTC	MathNoob, nachoz	654	5	25
-440919	3	25	No Variant	2021-02-18 — 16:43:35 UTC	MathNoob, nachoz, wolfpack	324	5	25
-440068	2	0	Omni (6 Suits)	2021-02-17 — 18:38:25 UTC	bot_31, MathNoob	73	6	30
-440067	2	0	Omni (6 Suits)	2021-02-17 — 18:38:00 UTC	bot_31, MathNoob	95	6	30
-440066	2	0	Omni (6 Suits)	2021-02-17 — 18:37:02 UTC	bot_31, MathNoob	121	6	30
-439978	2	0	No Variant	2021-02-17 — 15:11:35 UTC	bot_31, MathNoob	921	5	25
-439977	2	0	No Variant	2021-02-17 — 15:10:15 UTC	bot_31, MathNoob	948	5	25
-439976	2	0	No Variant	2021-02-17 — 15:09:38 UTC	bot_31, MathNoob	976	5	25
-439975	2	0	No Variant	2021-02-17 — 15:07:42 UTC	bot_31, MathNoob	1031	5	25
-439974	2	0	No Variant	2021-02-17 — 15:06:39 UTC	bot_31, MathNoob	1078	5	25
-439973	3	0	No Variant	2021-02-17 — 15:05:49 UTC	bot_31, bot_32, MathNoob	1636	5	25
-439972	3	0	No Variant	2021-02-17 — 15:05:27 UTC	bot_31, bot_32, MathNoob	1881	5	25
-439971	2	18	No Variant	2021-02-17 — 15:04:14 UTC	bot_31, MathNoob	1117	5	25
-439195	3	0	No Variant	2021-02-16 — 18:00:58 UTC	jucijuce, MathNoob, nachoz	344	5	25
-439172	3	22	No Variant	2021-02-16 — 17:24:06 UTC	jucijuce, MathNoob, nachoz	354	5	25
-439156	3	0	No Variant	2021-02-16 — 16:52:05 UTC	jucijuce, MathNoob, nachoz	375	5	25
-439150	3	0	No Variant	2021-02-16 — 16:37:01 UTC	jucijuce, MathNoob, nachoz	386	5	25
-439146	3	0	No Variant	2021-02-16 — 16:28:43 UTC	jucijuce, MathNoob, nachoz	411	5	25
-439120	5	29	White (6 Suits)	2021-02-16 — 14:11:25 UTC	frosty104, MathNoob, qqqq, sephiroth, VerySloppyTwo	17	6	30
+441995	3	24	No Variant	2021-02-19 — 15:55:12 UTC	MathNoob, narabio, wolfpack	1102	5	25
+441972	2	22	No Variant	2021-02-19 — 15:02:05 UTC	MathNoob, wolfpack	3072	5	25
+441027	4	0	No Variant	2021-02-18 — 19:21:07 UTC	Cylence, MathNoob, nachoz, wolfpack	311	5	25
+440988	4	0	No Variant	2021-02-18 — 18:42:32 UTC	Cylence, MathNoob, nachoz, wolfpack	340	5	25
+440975	4	22	No Variant	2021-02-18 — 18:27:56 UTC	Cylence, MathNoob, nachoz, wolfpack	387	5	25
+440950	2	25	No Variant	2021-02-18 — 17:52:30 UTC	MathNoob, nachoz	637	5	25
+440937	2	0	No Variant	2021-02-18 — 17:27:21 UTC	MathNoob, nachoz	664	5	25
+440919	3	25	No Variant	2021-02-18 — 16:43:35 UTC	MathNoob, nachoz, wolfpack	330	5	25
+440068	2	0	Omni (6 Suits)	2021-02-17 — 18:38:25 UTC	bot_31, MathNoob	75	6	30
+440067	2	0	Omni (6 Suits)	2021-02-17 — 18:38:00 UTC	bot_31, MathNoob	98	6	30
+440066	2	0	Omni (6 Suits)	2021-02-17 — 18:37:02 UTC	bot_31, MathNoob	124	6	30
+439978	2	0	No Variant	2021-02-17 — 15:11:35 UTC	bot_31, MathNoob	931	5	25
+439977	2	0	No Variant	2021-02-17 — 15:10:15 UTC	bot_31, MathNoob	960	5	25
+439976	2	0	No Variant	2021-02-17 — 15:09:38 UTC	bot_31, MathNoob	985	5	25
+439975	2	0	No Variant	2021-02-17 — 15:07:42 UTC	bot_31, MathNoob	1041	5	25
+439974	2	0	No Variant	2021-02-17 — 15:06:39 UTC	bot_31, MathNoob	1089	5	25
+439973	3	0	No Variant	2021-02-17 — 15:05:49 UTC	bot_31, bot_32, MathNoob	1651	5	25
+439972	3	0	No Variant	2021-02-17 — 15:05:27 UTC	bot_31, bot_32, MathNoob	1896	5	25
+439971	2	18	No Variant	2021-02-17 — 15:04:14 UTC	bot_31, MathNoob	1124	5	25
+439195	3	0	No Variant	2021-02-16 — 18:00:58 UTC	jucijuce, MathNoob, nachoz	353	5	25
+439172	3	22	No Variant	2021-02-16 — 17:24:06 UTC	jucijuce, MathNoob, nachoz	359	5	25
+439156	3	0	No Variant	2021-02-16 — 16:52:05 UTC	jucijuce, MathNoob, nachoz	380	5	25
+439150	3	0	No Variant	2021-02-16 — 16:37:01 UTC	jucijuce, MathNoob, nachoz	392	5	25
+439146	3	0	No Variant	2021-02-16 — 16:28:43 UTC	jucijuce, MathNoob, nachoz	417	5	25
+439120	5	29	White (6 Suits)	2021-02-16 — 14:11:25 UTC	frosty104, MathNoob, qqqq, sephiroth, VerySloppyTwo	18	6	30
 438886	4	24	Rainbow (5 Suits)	2021-02-16 — 05:37:56 UTC	FerKeth, HelanaAshryvr, MathNoob, squirrel1988	63	5	25
-438145	4	25	No Variant	2021-02-15 — 16:47:56 UTC	banjoleb, MangoPie, MathNoob, Nitrate	287	5	25
-435351	3	25	No Variant	2021-02-13 — 05:13:32 UTC	louietyj, MathNoob, wolfpack	93	5	25
-435268	4	25	No Variant	2021-02-13 — 04:37:33 UTC	MathNoob, poofart123, rahsosprout, wolfpack	162	5	25
+438145	4	25	No Variant	2021-02-15 — 16:47:56 UTC	banjoleb, MangoPie, MathNoob, Nitrate	293	5	25
+435351	3	25	No Variant	2021-02-13 — 05:13:32 UTC	louietyj, MathNoob, wolfpack	95	5	25
+435268	4	25	No Variant	2021-02-13 — 04:37:33 UTC	MathNoob, poofart123, rahsosprout, wolfpack	166	5	25
 434882	5	24	No Variant	2021-02-12 — 23:46:41 UTC	4head, CaitlinSmith, griff77, MathNoob, Zamiel	1	5	25
-434616	4	0	No Variant	2021-02-12 — 19:33:15 UTC	Damian000, HariKrishnan, MathNoob, ontak	131	5	25
-434563	5	25	6 Suits	2021-02-12 — 18:35:16 UTC	caña, Damian000, HariKrishnan, MathNoob, ontak	132	6	30
-434521	3	25	No Variant	2021-02-12 — 17:29:44 UTC	HariKrishnan, MathNoob, ontak	250	5	25
-433458	5	0	No Variant	2021-02-11 — 19:15:40 UTC	Cylence, KM1317, MathNoob, nachoz, wolfpack	143	5	25
-433407	4	22	No Variant	2021-02-11 — 18:05:51 UTC	knaphill, MathNoob, wump, Zahard	48	5	25
-433352	4	21	No Variant	2021-02-11 — 16:19:26 UTC	macanek, MathNoob, uSERNAME14, wolfpack	278	5	25
-433334	2	20	No Variant	2021-02-11 — 15:22:42 UTC	MathNoob, wolfpack	3507	5	25
-433323	2	0	No Variant	2021-02-11 — 14:57:58 UTC	MathNoob, wolfpack	4109	5	25
+434616	4	0	No Variant	2021-02-12 — 19:33:15 UTC	Damian000, HariKrishnan, MathNoob, ontak	132	5	25
+434563	5	25	6 Suits	2021-02-12 — 18:35:16 UTC	caña, Damian000, HariKrishnan, MathNoob, ontak	133	6	30
+434521	3	25	No Variant	2021-02-12 — 17:29:44 UTC	HariKrishnan, MathNoob, ontak	252	5	25
+433458	5	0	No Variant	2021-02-11 — 19:15:40 UTC	Cylence, KM1317, MathNoob, nachoz, wolfpack	145	5	25
+433407	4	22	No Variant	2021-02-11 — 18:05:51 UTC	knaphill, MathNoob, wump, Zahard	49	5	25
+433352	4	21	No Variant	2021-02-11 — 16:19:26 UTC	macanek, MathNoob, uSERNAME14, wolfpack	280	5	25
+433334	2	20	No Variant	2021-02-11 — 15:22:42 UTC	MathNoob, wolfpack	3537	5	25
+433323	2	0	No Variant	2021-02-11 — 14:57:58 UTC	MathNoob, wolfpack	4149	5	25
 433005	3	30	Prism (6 Suits)	2021-02-11 — 03:09:28 UTC	ksfortson, MathNoob, torp	15	6	30
-432968	3	0	Black (5 Suits)	2021-02-11 — 02:35:25 UTC	ksfortson, MathNoob, torp	51	5	25
+432968	3	0	Black (5 Suits)	2021-02-11 — 02:35:25 UTC	ksfortson, MathNoob, torp	52	5	25
 432499	4	24	Rainbow (5 Suits)	2021-02-10 — 19:59:32 UTC	Espen, griff77, Kyle, MathNoob	2	5	25
-432459	4	24	Rainbow (5 Suits)	2021-02-10 — 19:01:57 UTC	Espen, griff77, lolthisnotderk, MathNoob	68	5	25
-432392	4	23	No Variant	2021-02-10 — 17:50:14 UTC	MathNoob, nachoz, pennless, wolfpack	501	5	25
-432362	3	0	No Variant	2021-02-10 — 17:26:04 UTC	MathNoob, nachoz, pennless	1017	5	25
-432357	5	0	No Variant	2021-02-10 — 17:22:50 UTC	anoob, jucijuce, MathNoob, nachoz, pennless	176	5	25
-432343	5	24	No Variant	2021-02-10 — 17:06:45 UTC	anoob, jucijuce, MathNoob, nachoz, pennless	195	5	25
-432332	4	22	No Variant	2021-02-10 — 16:47:05 UTC	jucijuce, MathNoob, nachoz, pennless	541	5	25
+432459	4	24	Rainbow (5 Suits)	2021-02-10 — 19:01:57 UTC	Espen, griff77, lolthisnotderk, MathNoob	70	5	25
+432392	4	23	No Variant	2021-02-10 — 17:50:14 UTC	MathNoob, nachoz, pennless, wolfpack	507	5	25
+432362	3	0	No Variant	2021-02-10 — 17:26:04 UTC	MathNoob, nachoz, pennless	1026	5	25
+432357	5	0	No Variant	2021-02-10 — 17:22:50 UTC	anoob, jucijuce, MathNoob, nachoz, pennless	178	5	25
+432343	5	24	No Variant	2021-02-10 — 17:06:45 UTC	anoob, jucijuce, MathNoob, nachoz, pennless	198	5	25
+432332	4	22	No Variant	2021-02-10 — 16:47:05 UTC	jucijuce, MathNoob, nachoz, pennless	548	5	25
 431301	4	0	Rainbow (5 Suits)	2021-02-09 — 19:36:30 UTC	dobi, Floriman, MathNoob, swineherd	13	5	25
-431287	4	20	4 Suits	2021-02-09 — 19:22:34 UTC	dobi, Floriman, MathNoob, swineherd	77	4	20
-431211	2	21	No Variant	2021-02-09 — 18:02:07 UTC	macanek, MathNoob	44	5	25
-431198	2	23	No Variant	2021-02-09 — 17:41:57 UTC	macanek, MathNoob	45	5	25
-431188	5	21	No Variant	2021-02-09 — 17:27:33 UTC	anoob, jucijuce, MathNoob, nachoz, pennless	207	5	25
-431176	4	0	No Variant	2021-02-09 — 17:08:52 UTC	Espen, jucijuce, MathNoob, wolfpack	601	5	25
-430313	3	25	No Variant	2021-02-08 — 21:09:03 UTC	Damian000, Daryl, MathNoob	485	5	25
-430239	4	23	No Variant	2021-02-08 — 20:28:08 UTC	Damian000, Daryl, lolthisnotderk, MathNoob	326	5	25
-430130	5	23	No Variant	2021-02-08 — 18:49:19 UTC	DarthGandalf, griff77, HariKrishnan, macanek, MathNoob	45	5	25
-429894	4	25	No Variant	2021-02-08 — 14:01:21 UTC	CaitlinSmith, MangoPie, MathNoob, PMP	198	5	25
-427698	3	0	No Variant	2021-02-06 — 16:22:41 UTC	griff77, MathNoob, Spieler42	194	5	25
-427685	4	0	Prism (5 Suits)	2021-02-06 — 15:53:47 UTC	CaitlinSmith, Daryl, MathNoob, Spieler42	23	5	25
-427670	4	25	Prism (5 Suits)	2021-02-06 — 15:26:27 UTC	CaitlinSmith, Daryl, MathNoob, Spieler42	29	5	25
+431287	4	20	4 Suits	2021-02-09 — 19:22:34 UTC	dobi, Floriman, MathNoob, swineherd	80	4	20
+431211	2	21	No Variant	2021-02-09 — 18:02:07 UTC	macanek, MathNoob	47	5	25
+431198	2	23	No Variant	2021-02-09 — 17:41:57 UTC	macanek, MathNoob	47	5	25
+431188	5	21	No Variant	2021-02-09 — 17:27:33 UTC	anoob, jucijuce, MathNoob, nachoz, pennless	208	5	25
+431176	4	0	No Variant	2021-02-09 — 17:08:52 UTC	Espen, jucijuce, MathNoob, wolfpack	606	5	25
+430313	3	25	No Variant	2021-02-08 — 21:09:03 UTC	Damian000, Daryl, MathNoob	491	5	25
+430239	4	23	No Variant	2021-02-08 — 20:28:08 UTC	Damian000, Daryl, lolthisnotderk, MathNoob	330	5	25
+430130	5	23	No Variant	2021-02-08 — 18:49:19 UTC	DarthGandalf, griff77, HariKrishnan, macanek, MathNoob	46	5	25
+429894	4	25	No Variant	2021-02-08 — 14:01:21 UTC	CaitlinSmith, MangoPie, MathNoob, PMP	199	5	25
+427698	3	0	No Variant	2021-02-06 — 16:22:41 UTC	griff77, MathNoob, Spieler42	198	5	25
+427685	4	0	Prism (5 Suits)	2021-02-06 — 15:53:47 UTC	CaitlinSmith, Daryl, MathNoob, Spieler42	25	5	25
+427670	4	25	Prism (5 Suits)	2021-02-06 — 15:26:27 UTC	CaitlinSmith, Daryl, MathNoob, Spieler42	31	5	25
 427648	2	20	No Variant	2021-02-06 — 14:42:47 UTC	CaitlinSmith, MathNoob	65	5	25
-427011	3	0	No Variant	2021-02-06 — 00:14:25 UTC	InflatableKayak, MathNoob, scarafaggio	2163	5	25
-426624	5	23	No Variant	2021-02-05 — 18:52:07 UTC	Daryl, eljavi, griff77, MathNoob, Plum	81	5	25
-426598	5	0	No Variant	2021-02-05 — 18:26:45 UTC	Daryl, eljavi, griff77, MathNoob, robense	51	5	25
-425419	4	24	No Variant	2021-02-04 — 17:18:51 UTC	jucijuce, MathNoob, nachoz, pennless	655	5	25
-425006	2	0	No Variant	2021-02-04 — 03:40:30 UTC	louietyj, MathNoob	1840	5	25
-425003	2	22	No Variant	2021-02-04 — 03:39:32 UTC	louietyj, MathNoob	1952	5	25
-424970	3	0	No Variant	2021-02-04 — 03:19:39 UTC	louietyj, MathNoob, vim666	101	5	25
-424968	3	0	No Variant	2021-02-04 — 03:18:56 UTC	louietyj, MathNoob, vim666	97	5	25
-424948	2	0	No Variant	2021-02-04 — 03:02:28 UTC	KatherenPushpa, MathNoob	5374	5	25
-424936	4	0	No Variant	2021-02-04 — 02:54:12 UTC	bot_21, MathNoob, ukass666, voss	89	5	25
-424916	2	0	6 Suits	2021-02-04 — 02:39:49 UTC	Danish, MathNoob	851	6	30
+427011	3	0	No Variant	2021-02-06 — 00:14:25 UTC	InflatableKayak, MathNoob, scarafaggio	2179	5	25
+426624	5	23	No Variant	2021-02-05 — 18:52:07 UTC	Daryl, eljavi, griff77, MathNoob, Plum	82	5	25
+426598	5	0	No Variant	2021-02-05 — 18:26:45 UTC	Daryl, eljavi, griff77, MathNoob, robense	52	5	25
+425419	4	24	No Variant	2021-02-04 — 17:18:51 UTC	jucijuce, MathNoob, nachoz, pennless	660	5	25
+425006	2	0	No Variant	2021-02-04 — 03:40:30 UTC	louietyj, MathNoob	1856	5	25
+425003	2	22	No Variant	2021-02-04 — 03:39:32 UTC	louietyj, MathNoob	1966	5	25
+424970	3	0	No Variant	2021-02-04 — 03:19:39 UTC	louietyj, MathNoob, vim666	103	5	25
+424968	3	0	No Variant	2021-02-04 — 03:18:56 UTC	louietyj, MathNoob, vim666	99	5	25
+424948	2	0	No Variant	2021-02-04 — 03:02:28 UTC	KatherenPushpa, MathNoob	5421	5	25
+424936	4	0	No Variant	2021-02-04 — 02:54:12 UTC	bot_21, MathNoob, ukass666, voss	91	5	25
+424916	2	0	6 Suits	2021-02-04 — 02:39:49 UTC	Danish, MathNoob	862	6	30
 424627	3	20	Black (5 Suits)	2021-02-03 — 22:20:09 UTC	Feich59, IsabeltheCat, MathNoob	43	5	25
-424602	3	0	Black (5 Suits)	2021-02-03 — 21:56:37 UTC	Feich59, IsabeltheCat, MathNoob	44	5	25
+424602	3	0	Black (5 Suits)	2021-02-03 — 21:56:37 UTC	Feich59, IsabeltheCat, MathNoob	45	5	25
 424598	3	0	Black (5 Suits)	2021-02-03 — 21:54:06 UTC	Feich59, IsabeltheCat, MathNoob	55	5	25
 424575	3	22	Black (5 Suits)	2021-02-03 — 21:43:06 UTC	Feich59, IsabeltheCat, MathNoob	84	5	25
-424240	3	18	No Variant	2021-02-03 — 18:38:49 UTC	bot_23, MathNoob, quadrocket	2606	5	25
-424191	4	0	No Variant	2021-02-03 — 18:06:58 UTC	Bot-Fiora, bot_23, MathNoob, quadrocket	3581	5	25
+424240	3	18	No Variant	2021-02-03 — 18:38:49 UTC	bot_23, MathNoob, quadrocket	2627	5	25
+424191	4	0	No Variant	2021-02-03 — 18:06:58 UTC	Bot-Fiora, bot_23, MathNoob, quadrocket	3609	5	25
 423856	2	0	No Variant	2021-02-03 — 06:39:04 UTC	MathNoob, StKildaFan	66	5	25
-423850	3	0	No Variant	2021-02-03 — 06:24:21 UTC	donovan_asfsaf, MathNoob, NotAnL	3260	5	25
-423847	3	18	No Variant	2021-02-03 — 06:19:49 UTC	donovan_asfsaf, MathNoob, NotAnL	4221	5	25
+423850	3	0	No Variant	2021-02-03 — 06:24:21 UTC	donovan_asfsaf, MathNoob, NotAnL	3290	5	25
+423847	3	18	No Variant	2021-02-03 — 06:19:49 UTC	donovan_asfsaf, MathNoob, NotAnL	4250	5	25

@@ -1,33 +1,135 @@
+523018	2	25	No Variant	2021-05-07 — 13:21:38 UTC	jatloe, wolfpack	1392	5	25
+523009	2	0	No Variant	2021-05-07 — 12:50:53 UTC	jatloe, wolfpack	1547	5	25
+522994	2	19	No Variant	2021-05-07 — 12:22:38 UTC	jatloe, wolfpack	1637	5	25
+522194	4	0	No Variant	2021-05-06 — 17:25:25 UTC	jatloe, MathNoob, sajizzle, wolfpack	1267	5	25
+522180	5	19	No Variant	2021-05-06 — 16:55:19 UTC	Fafrd, jatloe, MathNoob, vEnhance, wolfpack	28	5	25
+522134	4	0	Rainbow & White (4 Suits)	2021-05-06 — 15:26:07 UTC	DarthGandalf, MathNoob, possum, wolfpack	9	4	20
+522117	4	24	No Variant	2021-05-06 — 14:48:52 UTC	jatloe, MathNoob, possum, wolfpack	1103	5	25
+522106	3	25	No Variant	2021-05-06 — 14:11:38 UTC	jatloe, possum, wolfpack	57	5	25
+522056	2	0	Muddy-Rainbow-Ones & Muddy Rainbow (6 Suits)	2021-05-06 — 12:26:28 UTC	possum, wolfpack	4	6	30
+521862	4	28	Gray (6 Suits)	2021-05-06 — 03:42:52 UTC	Fafrd, MathNoob, wolfpack, wump	23	6	30
+521840	5	28	Dark Brown (6 Suits)	2021-05-06 — 02:51:37 UTC	BraydonM, Fafrd, rz, wolfpack, wump	9	6	30
+521826	3	25	Pink (5 Suits)	2021-05-06 — 02:27:54 UTC	rz, wolfpack, wump	38	5	25
+521636	3	15	Dual-Color (3 Suits)	2021-05-05 — 21:37:24 UTC	rz, VBVBVBVB, wolfpack	18	3	15
+521456	2	30	Brown (6 Suits)	2021-05-05 — 18:02:13 UTC	PotatoLatte, wolfpack	73	6	30
+521449	2	0	Brown (6 Suits)	2021-05-05 — 17:48:31 UTC	PotatoLatte, wolfpack	82	6	30
+521440	2	25	Brown-Ones (5 Suits)	2021-05-05 — 17:38:54 UTC	PotatoLatte, wolfpack	12	5	25
+521432	2	0	Brown-Ones (5 Suits)	2021-05-05 — 17:29:48 UTC	PotatoLatte, wolfpack	18	5	25
+520571	3	25	Pink (5 Suits)	2021-05-04 — 19:28:33 UTC	Kyle, macanek, wolfpack	13	5	25
+520426	2	24	Throw It in a Hole (5 Suits)	2021-05-04 — 15:28:58 UTC	MathNoob, wolfpack	31	5	25
+520417	2	0	Throw It in a Hole (5 Suits)	2021-05-04 — 15:05:27 UTC	MathNoob, wolfpack	37	5	25
+520412	2	0	Throw It in a Hole (5 Suits)	2021-05-04 — 14:55:43 UTC	MathNoob, wolfpack	53	5	25
+520404	2	0	Throw It in a Hole (5 Suits)	2021-05-04 — 14:23:12 UTC	MathNoob, wolfpack	81	5	25
+520394	3	20	Rainbow & White (4 Suits)	2021-05-04 — 14:05:16 UTC	bob65536, Wittvector, wolfpack	29	4	20
+519892	2	20	White (4 Suits)	2021-05-04 — 00:51:44 UTC	Fafrd, wolfpack	100	4	20
+519874	3	0	Dark Rainbow (5 Suits)	2021-05-04 — 00:27:30 UTC	nwajfromoz, rz, wolfpack	38	5	25
+519864	3	0	Dark Rainbow (5 Suits)	2021-05-04 — 00:13:41 UTC	nwajfromoz, rz, wolfpack	49	5	25
+519859	3	0	Dark Rainbow (5 Suits)	2021-05-04 — 00:08:02 UTC	nwajfromoz, rz, wolfpack	53	5	25
+519478	2	20	Prism (4 Suits)	2021-05-03 — 17:28:51 UTC	MathNoob, wolfpack	69	4	20
+519463	2	25	Rainbow (5 Suits)	2021-05-03 — 17:12:14 UTC	MathNoob, wolfpack	134	5	25
+519458	2	0	Rainbow (5 Suits)	2021-05-03 — 16:52:43 UTC	MathNoob, wolfpack	159	5	25
+519453	2	0	Rainbow (5 Suits)	2021-05-03 — 16:38:10 UTC	MathNoob, wolfpack	257	5	25
+519430	2	25	No Variant	2021-05-03 — 15:44:50 UTC	nachoz, wolfpack	324	5	25
+519425	4	20	Brown (4 Suits)	2021-05-03 — 15:26:54 UTC	MangoPie, rahsosprout, rz, wolfpack	8	4	20
+519396	4	0	Up or Down (6 Suits)	2021-05-03 — 13:37:17 UTC	possum, ricardodd, Wittvector, wolfpack	9	6	30
+519392	4	0	Up or Down (6 Suits)	2021-05-03 — 13:26:09 UTC	possum, ricardodd, Wittvector, wolfpack	13	6	30
+518284	4	0	Reversed (3 Suits)	2021-05-02 — 02:55:40 UTC	orucsoraihc, PotatoLatte, qqqq, wolfpack	3	3	15
+518263	4	13	Reversed (3 Suits)	2021-05-02 — 02:28:48 UTC	orucsoraihc, PotatoLatte, qqqq, wolfpack	4	3	15
+518238	3	20	Prism (4 Suits)	2021-05-02 — 02:05:10 UTC	Meowie, PotatoLatte, wolfpack	47	4	20
+518220	2	0	Dual-Color (3 Suits)	2021-05-02 — 01:50:56 UTC	PotatoLatte, wolfpack	36	3	15
+518216	2	13	Dual-Color (3 Suits)	2021-05-02 — 01:46:24 UTC	PotatoLatte, wolfpack	54	3	15
+518153	4	0	White & Prism (6 Suits)	2021-05-02 — 00:08:49 UTC	griff77, nkkarpov, rahsosprout, wolfpack	8	6	30
+518146	4	28	White & Prism (6 Suits)	2021-05-01 — 23:55:50 UTC	griff77, nkkarpov, rahsosprout, wolfpack	10	6	30
+518025	3	30	Rainbow & White (6 Suits)	2021-05-01 — 21:37:11 UTC	nwajfromoz, Wittvector, wolfpack	20	6	30
+517999	3	0	Rainbow & White (6 Suits)	2021-05-01 — 21:11:54 UTC	nwajfromoz, Wittvector, wolfpack	27	6	30
+517768	5	0	No Variant	2021-05-01 — 16:42:36 UTC	bob65536, Fey, tacobot5000, timotree, wolfpack	12	5	25
+517753	5	24	No Variant	2021-05-01 — 15:52:31 UTC	Fey, Nitrate, tacobot5000, timotree, wolfpack	12	5	25
+517420	4	30	Rainbow & White (6 Suits)	2021-05-01 — 02:11:56 UTC	Fafrd, griff77, qqqq, wolfpack	4	6	30
+517388	5	0	Black (6 Suits)	2021-05-01 — 01:52:45 UTC	bjnh, Fafrd, griff77, voss, wolfpack	16	6	30
+517380	5	0	Black (6 Suits)	2021-05-01 — 01:43:54 UTC	bjnh, Fafrd, griff77, voss, wolfpack	17	6	30
+517365	5	0	Rainbow & White (6 Suits)	2021-05-01 — 01:29:30 UTC	bjnh, Fafrd, griff77, voss, wolfpack	4	6	30
+517348	5	0	Rainbow & White (6 Suits)	2021-05-01 — 01:11:39 UTC	bjnh, Fafrd, griff77, voss, wolfpack	6	6	30
+517335	3	0	Rainbow & White (6 Suits)	2021-05-01 — 01:01:10 UTC	bjnh, griff77, wolfpack	14	6	30
+516885	3	0	Up or Down (6 Suits)	2021-04-30 — 17:12:08 UTC	MathNoob, PotatoLatte, wolfpack	35	6	30
+516880	3	0	Up or Down (6 Suits)	2021-04-30 — 16:58:35 UTC	MathNoob, PotatoLatte, wolfpack	42	6	30
+516873	3	0	Up or Down (6 Suits)	2021-04-30 — 16:46:37 UTC	MathNoob, PotatoLatte, wolfpack	56	6	30
+516854	4	25	No Variant	2021-04-30 — 16:19:05 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	105	5	25
+516774	3	24	Up or Down & Rainbow (5 Suits)	2021-04-30 — 14:25:54 UTC	MathNoob, PotatoLatte, wolfpack	24	5	25
+516763	3	0	Rainbow (3 Suits)	2021-04-30 — 13:50:37 UTC	kinkajusrevenge, VBVBVBVB, wolfpack	17	3	15
+516757	3	14	Rainbow (3 Suits)	2021-04-30 — 13:36:41 UTC	kinkajusrevenge, VBVBVBVB, wolfpack	25	3	15
+516472	5	30	Rainbow (6 Suits)	2021-04-30 — 03:56:32 UTC	Bot-Fiora, griff77, mestrepoke, rahsosprout, wolfpack	134	6	30
+516422	4	0	Rainbow & White (6 Suits)	2021-04-30 — 03:19:28 UTC	griff77, mestrepoke, rahsosprout, wolfpack	3	6	30
+516396	4	0	Rainbow & White (6 Suits)	2021-04-30 — 02:54:22 UTC	griff77, mestrepoke, rahsosprout, wolfpack	3	6	30
+516247	3	23	Black & Prism (5 Suits)	2021-04-29 — 23:59:19 UTC	bjnh, wolfpack, wump	15	5	25
+515769	3	15	White (3 Suits)	2021-04-29 — 15:01:23 UTC	MathNoob, PotatoLatte, wolfpack	49	3	15
+515760	3	0	Throw It in a Hole (5 Suits)	2021-04-29 — 14:45:51 UTC	MathNoob, PotatoLatte, wolfpack	24	5	25
+515752	3	0	Throw It in a Hole (5 Suits)	2021-04-29 — 14:31:48 UTC	MathNoob, PotatoLatte, wolfpack	31	5	25
+515747	3	0	Throw It in a Hole (5 Suits)	2021-04-29 — 14:24:25 UTC	MathNoob, PotatoLatte, wolfpack	53	5	25
+515742	3	22	Brown (5 Suits)	2021-04-29 — 14:15:41 UTC	MathNoob, PotatoLatte, wolfpack	82	5	25
+515737	2	0	Brown (6 Suits)	2021-04-29 — 13:53:21 UTC	PotatoLatte, wolfpack	95	6	30
+515713	3	30	Rainbow & Prism (6 Suits)	2021-04-29 — 13:27:29 UTC	ChristopheAF, qqqq, wolfpack	19	6	30
+515668	3	19	White & Prism (4 Suits)	2021-04-29 — 12:28:12 UTC	Lanvin, macanek, wolfpack	1	4	20
+515662	3	17	White & Prism (4 Suits)	2021-04-29 — 12:14:00 UTC	Lanvin, macanek, wolfpack	1	4	20
+515472	5	27	Black (6 Suits)	2021-04-29 — 03:12:48 UTC	Aluap, bjnh, Fafrd, tacobot5000, wolfpack	74	6	30
+515440	4	28	Black (6 Suits)	2021-04-29 — 02:34:20 UTC	Aluap, Jake_Stiles, tacobot5000, wolfpack	69	6	30
+515423	4	0	Black (6 Suits)	2021-04-29 — 02:07:23 UTC	Aluap, Jake_Stiles, tacobot5000, wolfpack	123	6	30
+514893	5	25	Rainbow (5 Suits)	2021-04-28 — 15:42:54 UTC	BraydonM, ChristopheAF, MathNoob, PotatoLatte, wolfpack	55	5	25
+514859	3	23	Rainbow & White (5 Suits)	2021-04-28 — 15:04:11 UTC	BraydonM, ChristopheAF, wolfpack	10	5	25
+514846	3	0	Rainbow & White (5 Suits)	2021-04-28 — 14:44:05 UTC	BraydonM, ChristopheAF, wolfpack	15	5	25
+514841	3	0	Rainbow & White (5 Suits)	2021-04-28 — 14:35:14 UTC	BraydonM, ChristopheAF, wolfpack	22	5	25
+514836	3	23	Rainbow & White (5 Suits)	2021-04-28 — 14:22:08 UTC	BraydonM, ChristopheAF, wolfpack	21	5	25
+514445	5	30	Dark Rainbow (6 Suits)	2021-04-28 — 01:49:27 UTC	Alkaven5, bjnh, voss, wolfpack, wump	24	6	30
+514019	3	25	Black (5 Suits)	2021-04-27 — 16:43:27 UTC	MathNoob, nachoz, wolfpack	135	5	25
+513998	4	23	Black (5 Suits)	2021-04-27 — 15:51:37 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	80	5	25
+513995	4	0	Black (5 Suits)	2021-04-27 — 15:35:56 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	101	5	25
+513957	3	24	Extremely Ambiguous (5 Suits)	2021-04-27 — 14:11:54 UTC	MathNoob, PotatoLatte, wolfpack	12	5	25
+513942	2	0	Brown (6 Suits)	2021-04-27 — 13:42:11 UTC	PotatoLatte, wolfpack	131	6	30
+513892	3	30	Brown (6 Suits)	2021-04-27 — 12:37:49 UTC	BananaBum, macanek, wolfpack	33	6	30
+513571	4	0	Prism (3 Suits)	2021-04-27 — 01:34:33 UTC	Bot-Fiora, newduke, nwajfromoz, wolfpack	13	3	15
+513517	3	0	Rainbow & Prism (6 Suits)	2021-04-27 — 00:12:39 UTC	bjnh, newduke, wolfpack	23	6	30
+513283	3	25	No Variant	2021-04-26 — 17:33:27 UTC	MathNoob, nachoz, wolfpack	78	5	25
+513271	3	25	No Variant	2021-04-26 — 17:25:52 UTC	MathNoob, nachoz, wolfpack	79	5	25
+513258	3	0	No Variant	2021-04-26 — 17:17:27 UTC	MathNoob, nachoz, wolfpack	77	5	25
+513254	3	0	No Variant	2021-04-26 — 17:12:21 UTC	MathNoob, nachoz, wolfpack	78	5	25
+513245	3	20	White (4 Suits)	2021-04-26 — 17:01:49 UTC	MathNoob, nachoz, wolfpack	62	4	20
+513227	3	0	No Variant	2021-04-26 — 16:50:45 UTC	MathNoob, nachoz, wolfpack	79	5	25
+513155	3	24	No Variant	2021-04-26 — 16:06:33 UTC	MathNoob, nachoz, wolfpack	82	5	25
+513149	3	0	No Variant	2021-04-26 — 15:58:13 UTC	MathNoob, nachoz, wolfpack	86	5	25
+513140	3	25	No Variant	2021-04-26 — 15:44:21 UTC	MathNoob, nachoz, wolfpack	85	5	25
+513070	3	30	Black & White (6 Suits)	2021-04-26 — 13:55:41 UTC	macanek, Wittvector, wolfpack	34	6	30
+513062	3	0	Black & White (6 Suits)	2021-04-26 — 13:28:45 UTC	macanek, Wittvector, wolfpack	48	6	30
+513047	4	30	White-Ones & Prism (6 Suits)	2021-04-26 — 12:33:12 UTC	Lanvin, macanek, Wittvector, wolfpack	1	6	30
+512685	2	30	White (6 Suits)	2021-04-25 — 23:29:55 UTC	timotree, wolfpack	49	6	30
 511032	5	30	Muddy Rainbow (6 Suits)	2021-04-24 — 04:05:14 UTC	Aluap, kinkajusrevenge, scharkbite, timotree, wolfpack	5	6	30
-510400	3	25	Up or Down (5 Suits)	2021-04-23 — 18:09:38 UTC	MathNoob, PotatoLatte, wolfpack	88	5	25
-510387	3	0	Up or Down (5 Suits)	2021-04-23 — 17:54:25 UTC	MathNoob, PotatoLatte, wolfpack	113	5	25
+510400	3	25	Up or Down (5 Suits)	2021-04-23 — 18:09:38 UTC	MathNoob, PotatoLatte, wolfpack	89	5	25
+510387	3	0	Up or Down (5 Suits)	2021-04-23 — 17:54:25 UTC	MathNoob, PotatoLatte, wolfpack	114	5	25
 510353	3	0	Rainbow (3 Suits)	2021-04-23 — 17:06:56 UTC	MathNoob, PotatoLatte, wolfpack	26	3	15
 510339	3	14	Rainbow (3 Suits)	2021-04-23 — 16:50:09 UTC	MathNoob, PotatoLatte, wolfpack	36	3	15
-510220	3	0	Black & Rainbow (6 Suits)	2021-04-23 — 14:29:46 UTC	superbipbip, Wittvector, wolfpack	30	6	30
-510204	3	0	Black & Rainbow (6 Suits)	2021-04-23 — 13:59:37 UTC	superbipbip, Wittvector, wolfpack	36	6	30
-509753	3	24	No Variant	2021-04-22 — 23:59:53 UTC	MathNoob, nachoz, wolfpack	100	5	25
-509749	3	25	No Variant	2021-04-22 — 23:53:47 UTC	MathNoob, nachoz, wolfpack	106	5	25
-509744	3	25	No Variant	2021-04-22 — 23:46:36 UTC	MathNoob, nachoz, wolfpack	102	5	25
+510220	3	0	Black & Rainbow (6 Suits)	2021-04-23 — 14:29:46 UTC	superbipbip, Wittvector, wolfpack	31	6	30
+510204	3	0	Black & Rainbow (6 Suits)	2021-04-23 — 13:59:37 UTC	superbipbip, Wittvector, wolfpack	38	6	30
+509753	3	24	No Variant	2021-04-22 — 23:59:53 UTC	MathNoob, nachoz, wolfpack	103	5	25
+509749	3	25	No Variant	2021-04-22 — 23:53:47 UTC	MathNoob, nachoz, wolfpack	110	5	25
+509744	3	25	No Variant	2021-04-22 — 23:46:36 UTC	MathNoob, nachoz, wolfpack	107	5	25
 509407	3	25	Rainbow (5 Suits)	2021-04-22 — 17:22:29 UTC	MathNoob, nachoz, wolfpack	74	5	25
-509374	4	25	No Variant	2021-04-22 — 15:55:59 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	111	5	25
-509327	4	19	White (4 Suits)	2021-04-22 — 13:26:58 UTC	duckless, robense, Wittvector, wolfpack	34	4	20
+509374	4	25	No Variant	2021-04-22 — 15:55:59 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	112	5	25
+509327	4	19	White (4 Suits)	2021-04-22 — 13:26:58 UTC	duckless, robense, Wittvector, wolfpack	35	4	20
 509301	3	19	White & Prism (4 Suits)	2021-04-22 — 12:16:55 UTC	Lanvin, melwen, wolfpack	2	4	20
 509136	5	19	Prism (4 Suits)	2021-04-22 — 04:04:25 UTC	Bot-Fiora, IsabeltheCat, newduke, voss, wolfpack	6	4	20
-509019	3	30	Black (6 Suits)	2021-04-22 — 01:57:16 UTC	Meowie, PotatoLatte, wolfpack	261	6	30
+509019	3	30	Black (6 Suits)	2021-04-22 — 01:57:16 UTC	Meowie, PotatoLatte, wolfpack	263	6	30
 508996	2	0	Reversed (5 Suits)	2021-04-22 — 01:24:47 UTC	PotatoLatte, wolfpack	10	5	25
 508988	2	0	Reversed (5 Suits)	2021-04-22 — 01:14:39 UTC	PotatoLatte, wolfpack	12	5	25
 508987	2	0	Reversed (5 Suits)	2021-04-22 — 01:12:53 UTC	PotatoLatte, wolfpack	15	5	25
-508978	2	30	Prism (6 Suits)	2021-04-22 — 00:59:56 UTC	PotatoLatte, wolfpack	87	6	30
+508978	2	30	Prism (6 Suits)	2021-04-22 — 00:59:56 UTC	PotatoLatte, wolfpack	92	6	30
 508962	2	15	Rainbow & Prism (3 Suits)	2021-04-22 — 00:41:35 UTC	PotatoLatte, wolfpack	1	3	15
-508951	3	25	No Variant	2021-04-22 — 00:31:59 UTC	pennless, PotatoLatte, wolfpack	750	5	25
-508933	3	0	No Variant	2021-04-22 — 00:16:30 UTC	pennless, PotatoLatte, wolfpack	801	5	25
-508555	3	29	Black (6 Suits)	2021-04-21 — 17:23:08 UTC	MathNoob, PotatoLatte, wolfpack	399	6	30
-508539	2	15	White (3 Suits)	2021-04-21 — 16:48:41 UTC	MathNoob, wolfpack	95	3	15
-508535	3	25	No Variant	2021-04-21 — 16:37:30 UTC	MathNoob, nachoz, wolfpack	112	5	25
+508951	3	25	No Variant	2021-04-22 — 00:31:59 UTC	pennless, PotatoLatte, wolfpack	757	5	25
+508933	3	0	No Variant	2021-04-22 — 00:16:30 UTC	pennless, PotatoLatte, wolfpack	809	5	25
+508555	3	29	Black (6 Suits)	2021-04-21 — 17:23:08 UTC	MathNoob, PotatoLatte, wolfpack	407	6	30
+508539	2	15	White (3 Suits)	2021-04-21 — 16:48:41 UTC	MathNoob, wolfpack	100	3	15
+508535	3	25	No Variant	2021-04-21 — 16:37:30 UTC	MathNoob, nachoz, wolfpack	116	5	25
 508492	3	30	White-Ones (6 Suits)	2021-04-21 — 13:55:44 UTC	BananaBum, Wittvector, wolfpack	11	6	30
 508485	4	0	White-Ones (6 Suits)	2021-04-21 — 13:31:24 UTC	BananaBum, qqqq, Wittvector, wolfpack	9	6	30
 508481	4	15	White (3 Suits)	2021-04-21 — 13:22:02 UTC	BananaBum, qqqq, Wittvector, wolfpack	27	3	15
-508470	4	0	Dark Prism (5 Suits)	2021-04-21 — 12:52:51 UTC	rz, Spieler42, Wittvector, wolfpack	11	5	25
+508470	4	0	Dark Prism (5 Suits)	2021-04-21 — 12:52:51 UTC	rz, Spieler42, Wittvector, wolfpack	12	5	25
 508467	4	24	Dark Prism (5 Suits)	2021-04-21 — 12:32:47 UTC	rz, Spieler42, Wittvector, wolfpack	13	5	25
 508003	2	0	Black & Gray (6 Suits)	2021-04-21 — 00:55:53 UTC	StKildaFan, wolfpack	1	6	30
 508001	2	0	Black & Gray (6 Suits)	2021-04-21 — 00:50:52 UTC	StKildaFan, wolfpack	1	6	30
@@ -41,213 +143,213 @@
 507972	2	0	Black & Gray (6 Suits)	2021-04-21 — 00:17:45 UTC	StKildaFan, wolfpack	1	6	30
 507963	2	0	Black & Gray (6 Suits)	2021-04-21 — 00:10:04 UTC	StKildaFan, wolfpack	1	6	30
 507651	4	25	No Variant	2021-04-20 — 17:19:24 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	116	5	25
-507620	4	0	No Variant	2021-04-20 — 16:50:19 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	117	5	25
+507620	4	0	No Variant	2021-04-20 — 16:50:19 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	119	5	25
 507604	4	0	No Variant	2021-04-20 — 16:37:07 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	130	5	25
 507531	5	13	3 Suits	2021-04-20 — 14:37:00 UTC	BananaBum, MathNoob, ricardodd, VBVBVBVB, wolfpack	19	3	15
-507529	5	12	3 Suits	2021-04-20 — 14:22:19 UTC	BananaBum, MathNoob, ricardodd, VBVBVBVB, wolfpack	24	3	15
+507529	5	12	3 Suits	2021-04-20 — 14:22:19 UTC	BananaBum, MathNoob, ricardodd, VBVBVBVB, wolfpack	25	3	15
 507527	5	0	3 Suits	2021-04-20 — 14:07:11 UTC	BananaBum, MathNoob, ricardodd, VBVBVBVB, wolfpack	27	3	15
-507525	4	14	Rainbow (3 Suits)	2021-04-20 — 13:49:06 UTC	BananaBum, ricardodd, VBVBVBVB, wolfpack	24	3	15
+507525	4	14	Rainbow (3 Suits)	2021-04-20 — 13:49:06 UTC	BananaBum, ricardodd, VBVBVBVB, wolfpack	25	3	15
 507518	4	20	Rainbow (4 Suits)	2021-04-20 — 13:20:46 UTC	BananaBum, ricardodd, VBVBVBVB, wolfpack	4	4	20
-507090	3	30	6 Suits	2021-04-20 — 01:27:26 UTC	MathNoob, PotatoLatte, wolfpack	503	6	30
+507090	3	30	6 Suits	2021-04-20 — 01:27:26 UTC	MathNoob, PotatoLatte, wolfpack	511	6	30
 507071	3	0	Totally Blind (6 Suits)	2021-04-20 — 01:06:54 UTC	MathNoob, PotatoLatte, wolfpack	13	6	30
-507062	3	13	Rainbow (3 Suits)	2021-04-20 — 00:56:14 UTC	MathNoob, PotatoLatte, wolfpack	43	3	15
-507049	3	13	Rainbow (3 Suits)	2021-04-20 — 00:39:19 UTC	MathNoob, PotatoLatte, wolfpack	71	3	15
-507039	2	15	Rainbow & White (3 Suits)	2021-04-20 — 00:18:04 UTC	PotatoLatte, wolfpack	33	3	15
-507037	2	0	Prism (5 Suits)	2021-04-20 — 00:11:23 UTC	PotatoLatte, wolfpack	36	5	25
-507033	2	0	Prism (5 Suits)	2021-04-20 — 00:05:33 UTC	PotatoLatte, wolfpack	52	5	25
-506994	2	0	Prism (5 Suits)	2021-04-19 — 22:29:20 UTC	PotatoLatte, wolfpack	95	5	25
-506613	3	22	No Variant	2021-04-19 — 15:57:20 UTC	MathNoob, nachoz, wolfpack	114	5	25
-506499	2	19	No Variant	2021-04-19 — 12:54:50 UTC	mgce, wolfpack	1703	5	25
-506482	2	23	No Variant	2021-04-19 — 12:32:48 UTC	mgce, wolfpack	1840	5	25
-506468	2	18	No Variant	2021-04-19 — 12:15:36 UTC	mgce, wolfpack	2288	5	25
-506451	3	24	No Variant	2021-04-19 — 11:54:43 UTC	BananaBum, mgce, wolfpack	1174	5	25
+507062	3	13	Rainbow (3 Suits)	2021-04-20 — 00:56:14 UTC	MathNoob, PotatoLatte, wolfpack	44	3	15
+507049	3	13	Rainbow (3 Suits)	2021-04-20 — 00:39:19 UTC	MathNoob, PotatoLatte, wolfpack	72	3	15
+507039	2	15	Rainbow & White (3 Suits)	2021-04-20 — 00:18:04 UTC	PotatoLatte, wolfpack	35	3	15
+507037	2	0	Prism (5 Suits)	2021-04-20 — 00:11:23 UTC	PotatoLatte, wolfpack	38	5	25
+507033	2	0	Prism (5 Suits)	2021-04-20 — 00:05:33 UTC	PotatoLatte, wolfpack	54	5	25
+506994	2	0	Prism (5 Suits)	2021-04-19 — 22:29:20 UTC	PotatoLatte, wolfpack	98	5	25
+506613	3	22	No Variant	2021-04-19 — 15:57:20 UTC	MathNoob, nachoz, wolfpack	120	5	25
+506499	2	19	No Variant	2021-04-19 — 12:54:50 UTC	mgce, wolfpack	1721	5	25
+506482	2	23	No Variant	2021-04-19 — 12:32:48 UTC	mgce, wolfpack	1856	5	25
+506468	2	18	No Variant	2021-04-19 — 12:15:36 UTC	mgce, wolfpack	2307	5	25
+506451	3	24	No Variant	2021-04-19 — 11:54:43 UTC	BananaBum, mgce, wolfpack	1180	5	25
 505955	4	18	Rainbow & White (4 Suits)	2021-04-18 — 23:58:37 UTC	bjnh, ChristopheAF, nkkarpov, wolfpack	12	4	20
-505469	4	0	No Variant	2021-04-18 — 17:32:27 UTC	amelie2901, jonas2422w, jujujajajeje, wolfpack	1449	5	25
+505469	4	0	No Variant	2021-04-18 — 17:32:27 UTC	amelie2901, jonas2422w, jujujajajeje, wolfpack	1459	5	25
 504781	4	0	White-Ones & Rainbow (6 Suits)	2021-04-17 — 23:56:37 UTC	asaelr, bjnh, griff77, wolfpack	4	6	30
 504331	3	0	Black & White (6 Suits)	2021-04-17 — 18:43:10 UTC	kevincaseytdk1, voss, wolfpack	19	6	30
 504301	3	25	Black & White (6 Suits)	2021-04-17 — 18:22:50 UTC	kevincaseytdk1, voss, wolfpack	20	6	30
-504159	3	0	Rainbow (6 Suits)	2021-04-17 — 14:35:18 UTC	MalachiteMoa, Meowie, wolfpack	282	6	30
-504153	3	0	Rainbow (6 Suits)	2021-04-17 — 14:22:44 UTC	MalachiteMoa, Meowie, wolfpack	396	6	30
-504147	3	28	Rainbow (6 Suits)	2021-04-17 — 14:10:36 UTC	MalachiteMoa, Meowie, wolfpack	689	6	30
-503786	3	30	Rainbow (6 Suits)	2021-04-17 — 02:55:48 UTC	Fey, ichaelm, wolfpack	16	6	30
+504159	3	0	Rainbow (6 Suits)	2021-04-17 — 14:35:18 UTC	MalachiteMoa, Meowie, wolfpack	284	6	30
+504153	3	0	Rainbow (6 Suits)	2021-04-17 — 14:22:44 UTC	MalachiteMoa, Meowie, wolfpack	404	6	30
+504147	3	28	Rainbow (6 Suits)	2021-04-17 — 14:10:36 UTC	MalachiteMoa, Meowie, wolfpack	693	6	30
+503786	3	30	Rainbow (6 Suits)	2021-04-17 — 02:55:48 UTC	Fey, ichaelm, wolfpack	17	6	30
 503135	4	25	Prism (5 Suits)	2021-04-16 — 18:18:38 UTC	ADrone, duckless, Kyle, wolfpack	14	5	25
 503065	4	22	Prism (5 Suits)	2021-04-16 — 17:42:58 UTC	ADrone, duckless, Kyle, wolfpack	20	5	25
-502887	3	30	White (6 Suits)	2021-04-16 — 13:36:30 UTC	DarthGandalf, VBVBVBVB, wolfpack	124	6	30
-502873	2	25	Black (5 Suits)	2021-04-16 — 13:05:38 UTC	VBVBVBVB, wolfpack	169	5	25
+502887	3	30	White (6 Suits)	2021-04-16 — 13:36:30 UTC	DarthGandalf, VBVBVBVB, wolfpack	128	6	30
+502873	2	25	Black (5 Suits)	2021-04-16 — 13:05:38 UTC	VBVBVBVB, wolfpack	173	5	25
 502850	3	0	White (6 Suits)	2021-04-16 — 12:09:51 UTC	Spieler42, Wittvector, wolfpack	37	6	30
 502494	3	0	Rainbow & White (5 Suits)	2021-04-16 — 03:03:04 UTC	griff77, mestrepoke, wolfpack	37	5	25
-501963	3	0	No Variant	2021-04-15 — 17:25:33 UTC	nachoz, PotatoLatte, wolfpack	178	5	25
-501949	3	0	No Variant	2021-04-15 — 17:12:57 UTC	nachoz, PotatoLatte, wolfpack	194	5	25
-501941	2	23	No Variant	2021-04-15 — 17:05:26 UTC	nachoz, wolfpack	393	5	25
-501905	2	25	No Variant	2021-04-15 — 16:43:10 UTC	nachoz, wolfpack	406	5	25
-501863	3	0	Rainbow (5 Suits)	2021-04-15 — 15:15:55 UTC	MathNoob, PotatoLatte, wolfpack	84	5	25
-501851	3	0	Rainbow (5 Suits)	2021-04-15 — 14:39:12 UTC	MathNoob, PotatoLatte, wolfpack	116	5	25
+501963	3	0	No Variant	2021-04-15 — 17:25:33 UTC	nachoz, PotatoLatte, wolfpack	179	5	25
+501949	3	0	No Variant	2021-04-15 — 17:12:57 UTC	nachoz, PotatoLatte, wolfpack	198	5	25
+501941	2	23	No Variant	2021-04-15 — 17:05:26 UTC	nachoz, wolfpack	401	5	25
+501905	2	25	No Variant	2021-04-15 — 16:43:10 UTC	nachoz, wolfpack	413	5	25
+501863	3	0	Rainbow (5 Suits)	2021-04-15 — 15:15:55 UTC	MathNoob, PotatoLatte, wolfpack	87	5	25
+501851	3	0	Rainbow (5 Suits)	2021-04-15 — 14:39:12 UTC	MathNoob, PotatoLatte, wolfpack	119	5	25
 501841	3	0	Rainbow (5 Suits)	2021-04-15 — 14:11:06 UTC	MathNoob, PotatoLatte, wolfpack	135	5	25
-501832	3	0	Rainbow (5 Suits)	2021-04-15 — 13:51:25 UTC	MathNoob, PotatoLatte, wolfpack	185	5	25
-501828	2	0	Prism (6 Suits)	2021-04-15 — 13:32:35 UTC	PotatoLatte, wolfpack	112	6	30
-501514	2	30	6 Suits	2021-04-15 — 02:23:36 UTC	PotatoLatte, wolfpack	207	6	30
-501490	2	0	6 Suits	2021-04-15 — 02:02:42 UTC	PotatoLatte, wolfpack	211	6	30
-501478	2	0	6 Suits	2021-04-15 — 01:54:25 UTC	PotatoLatte, wolfpack	221	6	30
-501474	2	0	6 Suits	2021-04-15 — 01:49:10 UTC	PotatoLatte, wolfpack	236	6	30
-501470	2	0	6 Suits	2021-04-15 — 01:43:18 UTC	PotatoLatte, wolfpack	248	6	30
-501460	2	0	6 Suits	2021-04-15 — 01:38:14 UTC	PotatoLatte, wolfpack	274	6	30
-501448	2	28	6 Suits	2021-04-15 — 01:28:25 UTC	PotatoLatte, wolfpack	304	6	30
-501435	2	0	6 Suits	2021-04-15 — 01:03:01 UTC	PotatoLatte, wolfpack	340	6	30
-501414	2	0	6 Suits	2021-04-15 — 00:42:23 UTC	PotatoLatte, wolfpack	378	6	30
+501832	3	0	Rainbow (5 Suits)	2021-04-15 — 13:51:25 UTC	MathNoob, PotatoLatte, wolfpack	186	5	25
+501828	2	0	Prism (6 Suits)	2021-04-15 — 13:32:35 UTC	PotatoLatte, wolfpack	116	6	30
+501514	2	30	6 Suits	2021-04-15 — 02:23:36 UTC	PotatoLatte, wolfpack	211	6	30
+501490	2	0	6 Suits	2021-04-15 — 02:02:42 UTC	PotatoLatte, wolfpack	215	6	30
+501478	2	0	6 Suits	2021-04-15 — 01:54:25 UTC	PotatoLatte, wolfpack	225	6	30
+501474	2	0	6 Suits	2021-04-15 — 01:49:10 UTC	PotatoLatte, wolfpack	240	6	30
+501470	2	0	6 Suits	2021-04-15 — 01:43:18 UTC	PotatoLatte, wolfpack	253	6	30
+501460	2	0	6 Suits	2021-04-15 — 01:38:14 UTC	PotatoLatte, wolfpack	280	6	30
+501448	2	28	6 Suits	2021-04-15 — 01:28:25 UTC	PotatoLatte, wolfpack	315	6	30
+501435	2	0	6 Suits	2021-04-15 — 01:03:01 UTC	PotatoLatte, wolfpack	352	6	30
+501414	2	0	6 Suits	2021-04-15 — 00:42:23 UTC	PotatoLatte, wolfpack	388	6	30
 501375	4	0	Pink (5 Suits)	2021-04-15 — 00:01:50 UTC	ADrone, IsabeltheCat, nkkarpov, wolfpack	23	5	25
 501364	4	0	Pink (5 Suits)	2021-04-14 — 23:50:33 UTC	ADrone, IsabeltheCat, nkkarpov, wolfpack	26	5	25
-501354	4	0	Pink (5 Suits)	2021-04-14 — 23:44:59 UTC	ADrone, IsabeltheCat, nkkarpov, wolfpack	34	5	25
-501131	2	30	Black (6 Suits)	2021-04-14 — 20:17:46 UTC	MalachiteMoa, wolfpack	391	6	30
-501093	2	0	Black (6 Suits)	2021-04-14 — 19:59:34 UTC	MalachiteMoa, wolfpack	442	6	30
-501053	2	29	Black (6 Suits)	2021-04-14 — 19:40:20 UTC	MalachiteMoa, wolfpack	546	6	30
-500873	3	24	No Variant	2021-04-14 — 15:26:17 UTC	MathNoob, nachoz, wolfpack	125	5	25
+501354	4	0	Pink (5 Suits)	2021-04-14 — 23:44:59 UTC	ADrone, IsabeltheCat, nkkarpov, wolfpack	35	5	25
+501131	2	30	Black (6 Suits)	2021-04-14 — 20:17:46 UTC	MalachiteMoa, wolfpack	398	6	30
+501093	2	0	Black (6 Suits)	2021-04-14 — 19:59:34 UTC	MalachiteMoa, wolfpack	450	6	30
+501053	2	29	Black (6 Suits)	2021-04-14 — 19:40:20 UTC	MalachiteMoa, wolfpack	553	6	30
+500873	3	24	No Variant	2021-04-14 — 15:26:17 UTC	MathNoob, nachoz, wolfpack	129	5	25
 500858	3	0	Black & White (5 Suits)	2021-04-14 — 14:58:47 UTC	possum, PotatoLatte, wolfpack	45	5	25
 500844	4	0	Black & White (5 Suits)	2021-04-14 — 14:25:31 UTC	Kyle, possum, PotatoLatte, wolfpack	5	5	25
-500841	2	0	Duck (5 Suits)	2021-04-14 — 14:17:32 UTC	PotatoLatte, wolfpack	63	5	25
+500841	2	0	Duck (5 Suits)	2021-04-14 — 14:17:32 UTC	PotatoLatte, wolfpack	64	5	25
 500837	3	0	Black & White (5 Suits)	2021-04-14 — 14:03:47 UTC	PotatoLatte, StKildaFan, wolfpack	16	5	25
-500828	3	23	Black & White (5 Suits)	2021-04-14 — 13:40:47 UTC	PotatoLatte, StKildaFan, wolfpack	40	5	25
+500828	3	23	Black & White (5 Suits)	2021-04-14 — 13:40:47 UTC	PotatoLatte, StKildaFan, wolfpack	41	5	25
 500823	2	0	White & Prism (6 Suits)	2021-04-14 — 13:20:04 UTC	StKildaFan, wolfpack	11	6	30
 500819	2	0	White & Prism (6 Suits)	2021-04-14 — 13:11:12 UTC	StKildaFan, wolfpack	11	6	30
 500560	4	18	Rainbow (4 Suits)	2021-04-14 — 03:36:28 UTC	aquarelle, cockdestroyer, mestrepoke, wolfpack	6	4	20
 500377	2	0	White & Prism (6 Suits)	2021-04-14 — 00:29:14 UTC	StKildaFan, wolfpack	12	6	30
 500375	2	0	White & Prism (6 Suits)	2021-04-14 — 00:24:10 UTC	StKildaFan, wolfpack	14	6	30
 500366	2	0	White & Prism (6 Suits)	2021-04-14 — 00:14:37 UTC	StKildaFan, wolfpack	17	6	30
-500348	2	0	White & Prism (6 Suits)	2021-04-13 — 23:56:25 UTC	StKildaFan, wolfpack	23	6	30
+500348	2	0	White & Prism (6 Suits)	2021-04-13 — 23:56:25 UTC	StKildaFan, wolfpack	24	6	30
 499801	3	15	3 Suits	2021-04-13 — 17:42:38 UTC	MangoPie, Wittvector, wolfpack	15	3	15
 499787	3	0	3 Suits	2021-04-13 — 17:29:59 UTC	MangoPie, Wittvector, wolfpack	15	3	15
-499773	4	14	3 Suits	2021-04-13 — 17:16:37 UTC	MangoPie, MarkusKahlsen, Wittvector, wolfpack	73	3	15
+499773	4	14	3 Suits	2021-04-13 — 17:16:37 UTC	MangoPie, MarkusKahlsen, Wittvector, wolfpack	74	3	15
 499706	4	0	Rainbow-Ones (6 Suits)	2021-04-13 — 13:58:04 UTC	asaelr, PotatoLatte, Wittvector, wolfpack	4	6	30
 499699	4	0	Rainbow-Ones (6 Suits)	2021-04-13 — 13:28:32 UTC	asaelr, PotatoLatte, Wittvector, wolfpack	15	6	30
 499693	3	0	Rainbow-Ones (5 Suits)	2021-04-13 — 13:04:29 UTC	duckless, Wittvector, wolfpack	14	5	25
 499688	3	0	Rainbow-Ones (5 Suits)	2021-04-13 — 12:53:55 UTC	duckless, Wittvector, wolfpack	18	5	25
-498554	3	0	No Variant	2021-04-12 — 17:39:30 UTC	MathNoob, nachoz, wolfpack	134	5	25
-498530	3	0	No Variant	2021-04-12 — 17:27:56 UTC	MathNoob, nachoz, wolfpack	141	5	25
-498525	3	0	No Variant	2021-04-12 — 17:21:46 UTC	MathNoob, nachoz, wolfpack	148	5	25
-498517	3	0	No Variant	2021-04-12 — 17:13:44 UTC	MathNoob, nachoz, wolfpack	151	5	25
-498514	3	25	No Variant	2021-04-12 — 17:08:34 UTC	MathNoob, nachoz, wolfpack	156	5	25
-498504	3	25	No Variant	2021-04-12 — 16:49:06 UTC	MathNoob, nachoz, wolfpack	157	5	25
-498496	3	25	No Variant	2021-04-12 — 16:30:19 UTC	MathNoob, nachoz, wolfpack	160	5	25
-498480	4	30	White (6 Suits)	2021-04-12 — 15:40:49 UTC	possum, PotatoLatte, Spieler42, wolfpack	41	6	30
-498450	4	0	White (6 Suits)	2021-04-12 — 15:04:05 UTC	possum, PotatoLatte, Spieler42, wolfpack	60	6	30
-498439	5	22	No Variant	2021-04-12 — 14:46:30 UTC	mgce, possum, PotatoLatte, Spieler42, wolfpack	223	5	25
-498425	5	0	No Variant	2021-04-12 — 14:25:44 UTC	mgce, possum, PotatoLatte, Spieler42, wolfpack	1510	5	25
-498417	5	0	No Variant	2021-04-12 — 14:15:00 UTC	mgce, possum, PotatoLatte, Spieler42, wolfpack	1995	5	25
-498411	4	28	Dark Rainbow (6 Suits)	2021-04-12 — 13:49:24 UTC	HelanaAshryvr, orucsoraihc, possum, wolfpack	48	6	30
+498554	3	0	No Variant	2021-04-12 — 17:39:30 UTC	MathNoob, nachoz, wolfpack	140	5	25
+498530	3	0	No Variant	2021-04-12 — 17:27:56 UTC	MathNoob, nachoz, wolfpack	145	5	25
+498525	3	0	No Variant	2021-04-12 — 17:21:46 UTC	MathNoob, nachoz, wolfpack	149	5	25
+498517	3	0	No Variant	2021-04-12 — 17:13:44 UTC	MathNoob, nachoz, wolfpack	153	5	25
+498514	3	25	No Variant	2021-04-12 — 17:08:34 UTC	MathNoob, nachoz, wolfpack	158	5	25
+498504	3	25	No Variant	2021-04-12 — 16:49:06 UTC	MathNoob, nachoz, wolfpack	160	5	25
+498496	3	25	No Variant	2021-04-12 — 16:30:19 UTC	MathNoob, nachoz, wolfpack	163	5	25
+498480	4	30	White (6 Suits)	2021-04-12 — 15:40:49 UTC	possum, PotatoLatte, Spieler42, wolfpack	43	6	30
+498450	4	0	White (6 Suits)	2021-04-12 — 15:04:05 UTC	possum, PotatoLatte, Spieler42, wolfpack	62	6	30
+498439	5	22	No Variant	2021-04-12 — 14:46:30 UTC	mgce, possum, PotatoLatte, Spieler42, wolfpack	226	5	25
+498425	5	0	No Variant	2021-04-12 — 14:25:44 UTC	mgce, possum, PotatoLatte, Spieler42, wolfpack	1518	5	25
+498417	5	0	No Variant	2021-04-12 — 14:15:00 UTC	mgce, possum, PotatoLatte, Spieler42, wolfpack	2011	5	25
+498411	4	28	Dark Rainbow (6 Suits)	2021-04-12 — 13:49:24 UTC	HelanaAshryvr, orucsoraihc, possum, wolfpack	49	6	30
 498403	3	0	Dark Rainbow (6 Suits)	2021-04-12 — 13:20:38 UTC	orucsoraihc, possum, wolfpack	34	6	30
 498393	3	0	Dark Rainbow (6 Suits)	2021-04-12 — 12:55:41 UTC	orucsoraihc, possum, wolfpack	37	6	30
 498390	3	0	Dark Rainbow (6 Suits)	2021-04-12 — 12:47:23 UTC	orucsoraihc, possum, wolfpack	41	6	30
-498375	4	30	Rainbow & Prism (6 Suits)	2021-04-12 — 12:22:38 UTC	possum, VBVBVBVB, Wittvector, wolfpack	13	6	30
-497638	4	29	White & Prism (6 Suits)	2021-04-11 — 22:16:13 UTC	DarthGandalf, griff77, MathNoob, wolfpack	10	6	30
+498375	4	30	Rainbow & Prism (6 Suits)	2021-04-12 — 12:22:38 UTC	possum, VBVBVBVB, Wittvector, wolfpack	14	6	30
+497638	4	29	White & Prism (6 Suits)	2021-04-11 — 22:16:13 UTC	DarthGandalf, griff77, MathNoob, wolfpack	11	6	30
 497563	3	24	Rainbow & White (5 Suits)	2021-04-11 — 21:17:23 UTC	CaitlinSmith, griff77, wolfpack	26	5	25
 497322	3	0	Rainbow & Prism (5 Suits)	2021-04-11 — 17:34:56 UTC	Damian000, possum, wolfpack	12	5	25
-497312	3	0	Rainbow & Prism (5 Suits)	2021-04-11 — 17:23:54 UTC	Damian000, possum, wolfpack	16	5	25
+497312	3	0	Rainbow & Prism (5 Suits)	2021-04-11 — 17:23:54 UTC	Damian000, possum, wolfpack	17	5	25
 497304	5	0	Rainbow & Prism (5 Suits)	2021-04-11 — 17:06:05 UTC	asaelr, Damian000, nwajfromoz, possum, wolfpack	5	5	25
 497292	5	0	Rainbow & Prism (5 Suits)	2021-04-11 — 16:47:06 UTC	asaelr, Damian000, nwajfromoz, possum, wolfpack	9	5	25
 497287	4	25	No Variant	2021-04-11 — 16:29:41 UTC	asaelr, ChristopheAF, possum, wolfpack	9	5	25
 497043	3	25	No Variant	2021-04-11 — 05:00:41 UTC	ksfortson, timotree, wolfpack	11	5	25
 497009	4	0	Omni (6 Suits)	2021-04-11 — 04:32:04 UTC	kinkajusrevenge, ksfortson, timotree, wolfpack	13	6	30
-495723	3	23	Pink (5 Suits)	2021-04-10 — 03:46:49 UTC	bob4224, PotatoLatte, wolfpack	75	5	25
-495685	3	0	Pink (5 Suits)	2021-04-10 — 03:15:20 UTC	bob4224, PotatoLatte, wolfpack	108	5	25
-495544	2	15	Prism (3 Suits)	2021-04-10 — 01:26:17 UTC	PotatoLatte, wolfpack	52	3	15
-495539	2	0	No Variant	2021-04-10 — 01:17:35 UTC	PotatoLatte, wolfpack	1448	5	25
-495069	3	15	3 Suits	2021-04-09 — 18:12:51 UTC	MathNoob, PotatoLatte, wolfpack	74	3	15
-495047	3	0	3 Suits	2021-04-09 — 17:58:33 UTC	MathNoob, PotatoLatte, wolfpack	88	3	15
-495036	4	22	No Variant	2021-04-09 — 17:52:30 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	156	5	25
-495020	4	23	No Variant	2021-04-09 — 17:43:49 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	158	5	25
-495006	4	0	No Variant	2021-04-09 — 17:35:00 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	167	5	25
-494974	4	23	Black (6 Suits)	2021-04-09 — 17:08:32 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	273	6	30
-494927	4	25	No Variant	2021-04-09 — 16:14:09 UTC	anoob, MathNoob, nachoz, wolfpack	180	5	25
+495723	3	23	Pink (5 Suits)	2021-04-10 — 03:46:49 UTC	bob4224, PotatoLatte, wolfpack	77	5	25
+495685	3	0	Pink (5 Suits)	2021-04-10 — 03:15:20 UTC	bob4224, PotatoLatte, wolfpack	112	5	25
+495544	2	15	Prism (3 Suits)	2021-04-10 — 01:26:17 UTC	PotatoLatte, wolfpack	57	3	15
+495539	2	0	No Variant	2021-04-10 — 01:17:35 UTC	PotatoLatte, wolfpack	1460	5	25
+495069	3	15	3 Suits	2021-04-09 — 18:12:51 UTC	MathNoob, PotatoLatte, wolfpack	75	3	15
+495047	3	0	3 Suits	2021-04-09 — 17:58:33 UTC	MathNoob, PotatoLatte, wolfpack	90	3	15
+495036	4	22	No Variant	2021-04-09 — 17:52:30 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	157	5	25
+495020	4	23	No Variant	2021-04-09 — 17:43:49 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	161	5	25
+495006	4	0	No Variant	2021-04-09 — 17:35:00 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	169	5	25
+494974	4	23	Black (6 Suits)	2021-04-09 — 17:08:32 UTC	MathNoob, nachoz, PotatoLatte, wolfpack	276	6	30
+494927	4	25	No Variant	2021-04-09 — 16:14:09 UTC	anoob, MathNoob, nachoz, wolfpack	182	5	25
 494846	4	25	White (5 Suits)	2021-04-09 — 13:20:54 UTC	BananaBum, possum, sin_nofaith, wolfpack	60	5	25
-494835	4	0	White (5 Suits)	2021-04-09 — 12:52:57 UTC	BananaBum, possum, sin_nofaith, wolfpack	79	5	25
+494835	4	0	White (5 Suits)	2021-04-09 — 12:52:57 UTC	BananaBum, possum, sin_nofaith, wolfpack	80	5	25
 494440	3	25	Totally Blind (5 Suits)	2021-04-09 — 01:09:25 UTC	PotatoLatte, sean1815, wolfpack	8	5	25
 494425	3	0	Totally Blind (5 Suits)	2021-04-09 — 00:50:56 UTC	PotatoLatte, sean1815, wolfpack	14	5	25
-494420	3	11	Rainbow (3 Suits)	2021-04-09 — 00:43:51 UTC	PotatoLatte, sean1815, wolfpack	53	3	15
-494399	2	20	Rainbow (4 Suits)	2021-04-09 — 00:17:20 UTC	sean1815, wolfpack	132	4	20
-494092	2	20	4 Suits	2021-04-08 — 17:58:12 UTC	PotatoLatte, wolfpack	128	4	20
-494084	2	19	4 Suits	2021-04-08 — 17:44:37 UTC	PotatoLatte, wolfpack	171	4	20
-494078	2	19	4 Suits	2021-04-08 — 17:28:33 UTC	PotatoLatte, wolfpack	244	4	20
-494071	2	29	6 Suits	2021-04-08 — 17:15:27 UTC	PotatoLatte, wolfpack	401	6	30
-494062	2	0	6 Suits	2021-04-08 — 17:03:51 UTC	PotatoLatte, wolfpack	444	6	30
-494058	2	0	6 Suits	2021-04-08 — 16:57:26 UTC	PotatoLatte, wolfpack	505	6	30
-494049	2	0	6 Suits	2021-04-08 — 16:45:38 UTC	PotatoLatte, wolfpack	593	6	30
-494040	2	0	6 Suits	2021-04-08 — 16:35:55 UTC	PotatoLatte, wolfpack	666	6	30
-494037	2	0	6 Suits	2021-04-08 — 16:34:09 UTC	PotatoLatte, wolfpack	851	6	30
+494420	3	11	Rainbow (3 Suits)	2021-04-09 — 00:43:51 UTC	PotatoLatte, sean1815, wolfpack	54	3	15
+494399	2	20	Rainbow (4 Suits)	2021-04-09 — 00:17:20 UTC	sean1815, wolfpack	135	4	20
+494092	2	20	4 Suits	2021-04-08 — 17:58:12 UTC	PotatoLatte, wolfpack	134	4	20
+494084	2	19	4 Suits	2021-04-08 — 17:44:37 UTC	PotatoLatte, wolfpack	177	4	20
+494078	2	19	4 Suits	2021-04-08 — 17:28:33 UTC	PotatoLatte, wolfpack	248	4	20
+494071	2	29	6 Suits	2021-04-08 — 17:15:27 UTC	PotatoLatte, wolfpack	413	6	30
+494062	2	0	6 Suits	2021-04-08 — 17:03:51 UTC	PotatoLatte, wolfpack	453	6	30
+494058	2	0	6 Suits	2021-04-08 — 16:57:26 UTC	PotatoLatte, wolfpack	513	6	30
+494049	2	0	6 Suits	2021-04-08 — 16:45:38 UTC	PotatoLatte, wolfpack	601	6	30
+494040	2	0	6 Suits	2021-04-08 — 16:35:55 UTC	PotatoLatte, wolfpack	675	6	30
+494037	2	0	6 Suits	2021-04-08 — 16:34:09 UTC	PotatoLatte, wolfpack	862	6	30
 494009	3	24	Black & White (5 Suits)	2021-04-08 — 15:38:48 UTC	Denchulitas, Syrah, wolfpack	26	5	25
 494000	3	0	Black & White (5 Suits)	2021-04-08 — 15:19:10 UTC	Denchulitas, Syrah, wolfpack	25	5	25
 493995	3	21	Black & White (5 Suits)	2021-04-08 — 15:03:54 UTC	Denchulitas, Syrah, wolfpack	31	5	25
 493960	4	25	Rainbow-Ones & Rainbow (5 Suits)	2021-04-08 — 12:39:39 UTC	catula, Lel0uch, sin_faith, wolfpack	1	5	25
-493599	2	21	Black (5 Suits)	2021-04-08 — 01:01:00 UTC	MathNoob, wolfpack	219	5	25
-493581	2	0	Black (5 Suits)	2021-04-08 — 00:32:30 UTC	MathNoob, wolfpack	244	5	25
-493168	2	15	Rainbow (3 Suits)	2021-04-07 — 18:16:12 UTC	MathNoob, wolfpack	127	3	15
-493154	2	15	3 Suits	2021-04-07 — 18:03:20 UTC	MathNoob, wolfpack	105	3	15
-493144	2	12	3 Suits	2021-04-07 — 17:50:58 UTC	MathNoob, wolfpack	124	3	15
-493130	3	25	No Variant	2021-04-07 — 17:33:40 UTC	MathNoob, nachoz, wolfpack	167	5	25
-493122	3	25	No Variant	2021-04-07 — 17:23:20 UTC	MathNoob, nachoz, wolfpack	187	5	25
-493099	3	0	No Variant	2021-04-07 — 16:52:41 UTC	MathNoob, nachoz, wolfpack	201	5	25
-493086	3	23	No Variant	2021-04-07 — 16:37:17 UTC	MathNoob, nachoz, wolfpack	213	5	25
+493599	2	21	Black (5 Suits)	2021-04-08 — 01:01:00 UTC	MathNoob, wolfpack	222	5	25
+493581	2	0	Black (5 Suits)	2021-04-08 — 00:32:30 UTC	MathNoob, wolfpack	250	5	25
+493168	2	15	Rainbow (3 Suits)	2021-04-07 — 18:16:12 UTC	MathNoob, wolfpack	132	3	15
+493154	2	15	3 Suits	2021-04-07 — 18:03:20 UTC	MathNoob, wolfpack	106	3	15
+493144	2	12	3 Suits	2021-04-07 — 17:50:58 UTC	MathNoob, wolfpack	125	3	15
+493130	3	25	No Variant	2021-04-07 — 17:33:40 UTC	MathNoob, nachoz, wolfpack	170	5	25
+493122	3	25	No Variant	2021-04-07 — 17:23:20 UTC	MathNoob, nachoz, wolfpack	189	5	25
+493099	3	0	No Variant	2021-04-07 — 16:52:41 UTC	MathNoob, nachoz, wolfpack	203	5	25
+493086	3	23	No Variant	2021-04-07 — 16:37:17 UTC	MathNoob, nachoz, wolfpack	218	5	25
 492818	4	24	Black (5 Suits)	2021-04-07 — 03:33:23 UTC	BraydonM, griff77, kinkajusrevenge, wolfpack	32	5	25
-492756	3	0	Rainbow (6 Suits)	2021-04-07 — 02:55:27 UTC	kinkajusrevenge, PotatoLatte, wolfpack	46	6	30
+492756	3	0	Rainbow (6 Suits)	2021-04-07 — 02:55:27 UTC	kinkajusrevenge, PotatoLatte, wolfpack	47	6	30
 492174	3	0	Black & Rainbow (6 Suits)	2021-04-06 — 15:43:59 UTC	Bonja97, jeff10, wolfpack	51	6	30
-492152	3	0	Black & Rainbow (6 Suits)	2021-04-06 — 15:25:58 UTC	Bonja97, jeff10, wolfpack	59	6	30
-491815	4	0	Black (6 Suits)	2021-04-06 — 03:23:58 UTC	AngryAny, IsabeltheCat, PotatoLatte, wolfpack	77	6	30
-491788	4	0	Black (6 Suits)	2021-04-06 — 03:01:30 UTC	AngryAny, IsabeltheCat, PotatoLatte, wolfpack	90	6	30
-491776	4	0	Black (6 Suits)	2021-04-06 — 02:52:28 UTC	AngryAny, IsabeltheCat, PotatoLatte, wolfpack	112	6	30
-491757	3	27	Black (6 Suits)	2021-04-06 — 02:38:54 UTC	AngryAny, IsabeltheCat, wolfpack	325	6	30
+492152	3	0	Black & Rainbow (6 Suits)	2021-04-06 — 15:25:58 UTC	Bonja97, jeff10, wolfpack	60	6	30
+491815	4	0	Black (6 Suits)	2021-04-06 — 03:23:58 UTC	AngryAny, IsabeltheCat, PotatoLatte, wolfpack	81	6	30
+491788	4	0	Black (6 Suits)	2021-04-06 — 03:01:30 UTC	AngryAny, IsabeltheCat, PotatoLatte, wolfpack	95	6	30
+491776	4	0	Black (6 Suits)	2021-04-06 — 02:52:28 UTC	AngryAny, IsabeltheCat, PotatoLatte, wolfpack	113	6	30
+491757	3	27	Black (6 Suits)	2021-04-06 — 02:38:54 UTC	AngryAny, IsabeltheCat, wolfpack	332	6	30
 491739	2	0	Black (6 Suits)	2021-04-06 — 02:16:59 UTC	IsabeltheCat, wolfpack	135	6	30
 491724	2	23	Black (6 Suits)	2021-04-06 — 02:04:13 UTC	IsabeltheCat, wolfpack	136	6	30
 491713	2	0	Black (6 Suits)	2021-04-06 — 01:52:11 UTC	IsabeltheCat, wolfpack	137	6	30
-491706	2	0	Black (6 Suits)	2021-04-06 — 01:45:04 UTC	IsabeltheCat, wolfpack	144	6	30
-491699	2	0	Black (6 Suits)	2021-04-06 — 01:36:08 UTC	IsabeltheCat, wolfpack	232	6	30
-491689	2	29	Black (6 Suits)	2021-04-06 — 01:26:20 UTC	IsabeltheCat, wolfpack	239	6	30
-491682	2	0	Black (6 Suits)	2021-04-06 — 01:13:03 UTC	IsabeltheCat, wolfpack	643	6	30
+491706	2	0	Black (6 Suits)	2021-04-06 — 01:45:04 UTC	IsabeltheCat, wolfpack	145	6	30
+491699	2	0	Black (6 Suits)	2021-04-06 — 01:36:08 UTC	IsabeltheCat, wolfpack	237	6	30
+491689	2	29	Black (6 Suits)	2021-04-06 — 01:26:20 UTC	IsabeltheCat, wolfpack	244	6	30
+491682	2	0	Black (6 Suits)	2021-04-06 — 01:13:03 UTC	IsabeltheCat, wolfpack	654	6	30
 491212	3	0	Muddy Rainbow (6 Suits)	2021-04-05 — 15:08:34 UTC	MangoPie, Nitrate, wolfpack	18	6	30
 491198	3	0	Muddy Rainbow (6 Suits)	2021-04-05 — 14:48:07 UTC	MangoPie, Nitrate, wolfpack	25	6	30
-490878	4	20	4 Suits	2021-04-05 — 03:31:13 UTC	griff77, louietyj, MathNoob, wolfpack	51	4	20
-490853	4	25	Rainbow (5 Suits)	2021-04-05 — 03:00:12 UTC	griff77, louietyj, MathNoob, wolfpack	32	5	25
+490878	4	20	4 Suits	2021-04-05 — 03:31:13 UTC	griff77, louietyj, MathNoob, wolfpack	52	4	20
+490853	4	25	Rainbow (5 Suits)	2021-04-05 — 03:00:12 UTC	griff77, louietyj, MathNoob, wolfpack	34	5	25
 490826	4	20	Prism (4 Suits)	2021-04-05 — 02:20:11 UTC	Damian000, griff77, louietyj, wolfpack	11	4	20
 490429	5	29	Muddy Rainbow (6 Suits)	2021-04-04 — 17:38:36 UTC	indego, kevincaseytdk1, MarkusKahlsen, narabio, wolfpack	11	6	30
-490067	3	20	4 Suits	2021-04-04 — 04:27:53 UTC	AngryAny, anoob, wolfpack	118	4	20
-490037	3	17	4 Suits	2021-04-04 — 04:05:38 UTC	AngryAny, anoob, wolfpack	160	4	20
-489549	5	30	Brown (6 Suits)	2021-04-03 — 19:29:54 UTC	griff77, MangoPie, Syrah, wolfpack, wump	1	6	30
+490067	3	20	4 Suits	2021-04-04 — 04:27:53 UTC	AngryAny, anoob, wolfpack	120	4	20
+490037	3	17	4 Suits	2021-04-04 — 04:05:38 UTC	AngryAny, anoob, wolfpack	162	4	20
+489549	5	30	Brown (6 Suits)	2021-04-03 — 19:29:54 UTC	griff77, MangoPie, Syrah, wolfpack, wump	2	6	30
 489522	5	0	Brown (6 Suits)	2021-04-03 — 19:05:17 UTC	griff77, MangoPie, Syrah, wolfpack, wump	8	6	30
-489505	4	0	Rainbow & White (6 Suits)	2021-04-03 — 18:38:07 UTC	Bonja97, Fey, voss, wolfpack	7	6	30
+489505	4	0	Rainbow & White (6 Suits)	2021-04-03 — 18:38:07 UTC	Bonja97, Fey, voss, wolfpack	8	6	30
 489495	4	0	Rainbow & White (6 Suits)	2021-04-03 — 18:25:17 UTC	Bonja97, Fey, voss, wolfpack	10	6	30
 489485	3	25	White (5 Suits)	2021-04-03 — 18:11:06 UTC	Bonja97, voss, wolfpack	2	5	25
-489098	3	14	3 Suits	2021-04-03 — 04:19:54 UTC	AngryAny, anoob, wolfpack	115	3	15
-489083	3	14	3 Suits	2021-04-03 — 04:07:31 UTC	AngryAny, anoob, wolfpack	144	3	15
-489064	2	15	3 Suits	2021-04-03 — 03:54:29 UTC	AngryAny, wolfpack	193	3	15
-489054	2	11	3 Suits	2021-04-03 — 03:43:25 UTC	AngryAny, wolfpack	271	3	15
+489098	3	14	3 Suits	2021-04-03 — 04:19:54 UTC	AngryAny, anoob, wolfpack	116	3	15
+489083	3	14	3 Suits	2021-04-03 — 04:07:31 UTC	AngryAny, anoob, wolfpack	146	3	15
+489064	2	15	3 Suits	2021-04-03 — 03:54:29 UTC	AngryAny, wolfpack	195	3	15
+489054	2	11	3 Suits	2021-04-03 — 03:43:25 UTC	AngryAny, wolfpack	273	3	15
 487959	4	18	Rainbow (4 Suits)	2021-04-02 — 02:09:28 UTC	ksfortson, newduke, rz, wolfpack	4	4	20
 487943	4	19	Rainbow (4 Suits)	2021-04-02 — 01:42:35 UTC	ksfortson, newduke, rz, wolfpack	4	4	20
 486405	3	25	Prism Reversed (5 Suits)	2021-03-31 — 14:58:24 UTC	HelanaAshryvr, sephiroth, wolfpack	11	5	25
 486403	3	0	Dark Prism Reversed (5 Suits)	2021-03-31 — 14:34:51 UTC	HelanaAshryvr, sephiroth, wolfpack	1	5	25
-484117	2	30	Rainbow (6 Suits)	2021-03-29 — 02:38:48 UTC	PotatoLatte, wolfpack	349	6	30
-484096	2	0	Rainbow (6 Suits)	2021-03-29 — 02:13:15 UTC	PotatoLatte, wolfpack	395	6	30
-484082	2	0	Rainbow (6 Suits)	2021-03-29 — 01:55:43 UTC	PotatoLatte, wolfpack	441	6	30
-484068	2	29	Rainbow (6 Suits)	2021-03-29 — 01:32:19 UTC	PotatoLatte, wolfpack	500	6	30
-481253	4	0	No Variant	2021-03-26 — 15:40:35 UTC	MathNoob, nachoz, pennless, wolfpack	233	5	25
-481250	4	0	No Variant	2021-03-26 — 15:31:54 UTC	MathNoob, nachoz, pennless, wolfpack	243	5	25
+484117	2	30	Rainbow (6 Suits)	2021-03-29 — 02:38:48 UTC	PotatoLatte, wolfpack	351	6	30
+484096	2	0	Rainbow (6 Suits)	2021-03-29 — 02:13:15 UTC	PotatoLatte, wolfpack	398	6	30
+484082	2	0	Rainbow (6 Suits)	2021-03-29 — 01:55:43 UTC	PotatoLatte, wolfpack	446	6	30
+484068	2	29	Rainbow (6 Suits)	2021-03-29 — 01:32:19 UTC	PotatoLatte, wolfpack	506	6	30
+481253	4	0	No Variant	2021-03-26 — 15:40:35 UTC	MathNoob, nachoz, pennless, wolfpack	236	5	25
+481250	4	0	No Variant	2021-03-26 — 15:31:54 UTC	MathNoob, nachoz, pennless, wolfpack	245	5	25
 481160	5	25	Brown & Prism (5 Suits)	2021-03-26 — 12:27:35 UTC	indego, Lel0uch, MarkusKahlsen, wolfpack, Zakisan	5	5	25
 481156	4	0	Brown (6 Suits)	2021-03-26 — 11:56:18 UTC	ChristopheAF, hakha3, sin_faith, wolfpack	14	6	30
-480093	3	20	Rainbow (4 Suits)	2021-03-25 — 14:14:30 UTC	dobi, possum, wolfpack	43	4	20
-480085	2	0	Rainbow (6 Suits)	2021-03-25 — 13:56:24 UTC	possum, wolfpack	971	6	30
-480071	3	25	White-Ones (5 Suits)	2021-03-25 — 13:32:14 UTC	dobi, sephiroth, wolfpack	20	5	25
-478024	6	0	No Variant	2021-03-23 — 15:52:39 UTC	anoob, jucijuce, MathNoob, nachoz, pennless, wolfpack	282	5	25
-478021	6	0	No Variant	2021-03-23 — 15:46:48 UTC	anoob, jucijuce, MathNoob, nachoz, pennless, wolfpack	478	5	25
-478001	4	30	Rainbow (6 Suits)	2021-03-23 — 15:14:08 UTC	knaphill, possum, sin_faith, wolfpack	185	6	30
-477967	3	29	Dark Prism (6 Suits)	2021-03-23 — 13:56:23 UTC	possum, sin_faith, wolfpack	20	6	30
+480093	3	20	Rainbow (4 Suits)	2021-03-25 — 14:14:30 UTC	dobi, possum, wolfpack	45	4	20
+480085	2	0	Rainbow (6 Suits)	2021-03-25 — 13:56:24 UTC	possum, wolfpack	984	6	30
+480071	3	25	White-Ones (5 Suits)	2021-03-25 — 13:32:14 UTC	dobi, sephiroth, wolfpack	21	5	25
+478024	6	0	No Variant	2021-03-23 — 15:52:39 UTC	anoob, jucijuce, MathNoob, nachoz, pennless, wolfpack	284	5	25
+478021	6	0	No Variant	2021-03-23 — 15:46:48 UTC	anoob, jucijuce, MathNoob, nachoz, pennless, wolfpack	483	5	25
+478001	4	30	Rainbow (6 Suits)	2021-03-23 — 15:14:08 UTC	knaphill, possum, sin_faith, wolfpack	188	6	30
+477967	3	29	Dark Prism (6 Suits)	2021-03-23 — 13:56:23 UTC	possum, sin_faith, wolfpack	22	6	30
 477944	5	0	Dark Prism (6 Suits)	2021-03-23 — 13:17:41 UTC	hakha3, Lanvin, possum, sin_faith, wolfpack	4	6	30
 477485	3	24	Brown-Ones (5 Suits)	2021-03-23 — 01:18:07 UTC	Lel0uch, melwen, wolfpack	2	5	25
 477468	3	23	Brown-Ones (5 Suits)	2021-03-23 — 00:55:29 UTC	Lel0uch, melwen, wolfpack	4	5	25
-476899	5	24	No Variant	2021-03-22 — 16:24:39 UTC	anoob, Cylence, MathNoob, nachoz, wolfpack	109	5	25
-476887	5	0	No Variant	2021-03-22 — 16:02:43 UTC	anoob, Cylence, MathNoob, nachoz, wolfpack	120	5	25
-476876	3	22	No Variant	2021-03-22 — 15:41:34 UTC	Cylence, nachoz, wolfpack	224	5	25
+476899	5	24	No Variant	2021-03-22 — 16:24:39 UTC	anoob, Cylence, MathNoob, nachoz, wolfpack	112	5	25
+476887	5	0	No Variant	2021-03-22 — 16:02:43 UTC	anoob, Cylence, MathNoob, nachoz, wolfpack	122	5	25
+476876	3	22	No Variant	2021-03-22 — 15:41:34 UTC	Cylence, nachoz, wolfpack	227	5	25
 476474	6	22	White & Dark Pink (5 Suits)	2021-03-22 — 00:39:35 UTC	hakha3, Lanvin, MarcLovesDogs, squirrel1988, timotree, wolfpack	1	5	25
-476456	4	25	Brown (5 Suits)	2021-03-22 — 00:14:23 UTC	corys, HelanaAshryvr, wolfpack, xor	46	5	25
+476456	4	25	Brown (5 Suits)	2021-03-22 — 00:14:23 UTC	corys, HelanaAshryvr, wolfpack, xor	47	5	25
 473612	5	25	White-Ones & Rainbow (5 Suits)	2021-03-19 — 15:53:20 UTC	possum, rz, sephiroth, Wittvector, wolfpack	6	5	25
-473603	3	0	Rainbow (6 Suits)	2021-03-19 — 15:13:38 UTC	ChristopheAF, Nitrate, wolfpack	196	6	30
-473588	3	28	Rainbow (6 Suits)	2021-03-19 — 14:37:02 UTC	ChristopheAF, Nitrate, wolfpack	332	6	30
-471975	3	23	No Variant	2021-03-18 — 00:30:05 UTC	Damian000, padi, wolfpack	164	5	25
+473603	3	0	Rainbow (6 Suits)	2021-03-19 — 15:13:38 UTC	ChristopheAF, Nitrate, wolfpack	198	6	30
+473588	3	28	Rainbow (6 Suits)	2021-03-19 — 14:37:02 UTC	ChristopheAF, Nitrate, wolfpack	335	6	30
+471975	3	23	No Variant	2021-03-18 — 00:30:05 UTC	Damian000, padi, wolfpack	167	5	25
 471958	4	0	3 Suits	2021-03-18 — 00:11:58 UTC	Lanvin, squirrel1988, wolfpack, wump	24	3	15
 470217	5	0	Rainbow (6 Suits)	2021-03-16 — 16:45:11 UTC	ChristopheAF, kevincaseytdk1, Syrah, Wittvector, wolfpack	42	6	30
 469050	5	25	Rainbow (5 Suits)	2021-03-15 — 15:43:20 UTC	Aluap, possum, rz, swineherd, wolfpack	6	5	25
@@ -257,13 +359,13 @@
 464636	5	0	Rainbow (3 Suits)	2021-03-11 — 15:03:55 UTC	Aluap, indego, Spieler42, Wittvector, wolfpack	6	3	15
 464629	6	0	Rainbow (3 Suits)	2021-03-11 — 14:52:50 UTC	Aluap, aquarelle, indego, Spieler42, Wittvector, wolfpack	3	3	15
 464615	4	0	Rainbow (5 Suits)	2021-03-11 — 14:32:23 UTC	Aluap, Denchulitas, Spieler42, wolfpack	63	5	25
-464601	4	0	Rainbow (5 Suits)	2021-03-11 — 14:10:50 UTC	Aluap, Denchulitas, Spieler42, wolfpack	92	5	25
+464601	4	0	Rainbow (5 Suits)	2021-03-11 — 14:10:50 UTC	Aluap, Denchulitas, Spieler42, wolfpack	93	5	25
 464588	3	27	Black & White (6 Suits)	2021-03-11 — 13:44:06 UTC	Aluap, Denchulitas, wolfpack	13	6	30
-464271	3	23	No Variant	2021-03-11 — 03:05:22 UTC	AngryAny, asdfew, wolfpack	940	5	25
-464258	3	0	No Variant	2021-03-11 — 02:51:27 UTC	AngryAny, asdfew, wolfpack	1017	5	25
-464247	3	0	No Variant	2021-03-11 — 02:43:51 UTC	AngryAny, asdfew, wolfpack	1291	5	25
-464227	2	25	No Variant	2021-03-11 — 02:20:53 UTC	AngryAny, wolfpack	2532	5	25
-464211	2	0	No Variant	2021-03-11 — 02:05:50 UTC	AngryAny, wolfpack	2750	5	25
+464271	3	23	No Variant	2021-03-11 — 03:05:22 UTC	AngryAny, asdfew, wolfpack	952	5	25
+464258	3	0	No Variant	2021-03-11 — 02:51:27 UTC	AngryAny, asdfew, wolfpack	1026	5	25
+464247	3	0	No Variant	2021-03-11 — 02:43:51 UTC	AngryAny, asdfew, wolfpack	1299	5	25
+464227	2	25	No Variant	2021-03-11 — 02:20:53 UTC	AngryAny, wolfpack	2552	5	25
+464211	2	0	No Variant	2021-03-11 — 02:05:50 UTC	AngryAny, wolfpack	2772	5	25
 464204	4	0	Brown & Prism (5 Suits)	2021-03-11 — 01:54:02 UTC	eliclax, kinkajusrevenge, torp, wolfpack	11	5	25
 463548	3	20	Brown-Ones & Rainbow (4 Suits)	2021-03-10 — 14:03:38 UTC	hakha3, Lanvin, wolfpack	3	4	20
 463543	3	0	Brown-Ones & Rainbow (4 Suits)	2021-03-10 — 13:53:04 UTC	hakha3, Lanvin, wolfpack	4	4	20
@@ -277,94 +379,94 @@
 462345	2	0	Black & Dark Rainbow (6 Suits)	2021-03-09 — 13:38:56 UTC	StKildaFan, wolfpack	5	6	30
 462340	2	0	Black & Dark Rainbow (6 Suits)	2021-03-09 — 13:32:27 UTC	StKildaFan, wolfpack	5	6	30
 462337	2	25	Black & Dark Rainbow (6 Suits)	2021-03-09 — 13:24:29 UTC	StKildaFan, wolfpack	5	6	30
-462018	3	0	Rainbow (6 Suits)	2021-03-09 — 02:40:28 UTC	kinkajusrevenge, PMP, wolfpack	53	6	30
-461422	3	0	No Variant	2021-03-08 — 15:33:21 UTC	DarthGandalf, orucsoraihc, wolfpack	98	5	25
-461395	3	0	No Variant	2021-03-08 — 15:14:26 UTC	DarthGandalf, orucsoraihc, wolfpack	154	5	25
+462018	3	0	Rainbow (6 Suits)	2021-03-09 — 02:40:28 UTC	kinkajusrevenge, PMP, wolfpack	55	6	30
+461422	3	0	No Variant	2021-03-08 — 15:33:21 UTC	DarthGandalf, orucsoraihc, wolfpack	102	5	25
+461395	3	0	No Variant	2021-03-08 — 15:14:26 UTC	DarthGandalf, orucsoraihc, wolfpack	157	5	25
 461311	4	25	Brown-Ones & White (5 Suits)	2021-03-08 — 13:05:43 UTC	Lanvin, possum, qqqq, wolfpack	7	5	25
-459777	3	27	Black (6 Suits)	2021-03-07 — 04:07:40 UTC	HelanaAshryvr, PotatoLatte, wolfpack	55	6	30
-459759	3	0	Black (6 Suits)	2021-03-07 — 03:46:35 UTC	HelanaAshryvr, PotatoLatte, wolfpack	56	6	30
+459777	3	27	Black (6 Suits)	2021-03-07 — 04:07:40 UTC	HelanaAshryvr, PotatoLatte, wolfpack	57	6	30
+459759	3	0	Black (6 Suits)	2021-03-07 — 03:46:35 UTC	HelanaAshryvr, PotatoLatte, wolfpack	58	6	30
 458880	3	29	Prism (6 Suits)	2021-03-06 — 15:33:00 UTC	Denchulitas, eljavi, wolfpack	5	6	30
 458859	6	0	Black & Rainbow (6 Suits)	2021-03-06 — 14:56:08 UTC	CaitlinSmith, Denchulitas, Lanvin, MarkusKahlsen, VerySloppyTwo, wolfpack	2	6	30
 457016	4	28	Rainbow (6 Suits)	2021-03-05 — 01:26:09 UTC	flaaffy, Lel0uch, wolfpack, wump	12	6	30
 456984	4	0	Rainbow (6 Suits)	2021-03-05 — 01:01:47 UTC	flaaffy, Lel0uch, wolfpack, wump	12	6	30
-456406	3	25	No Variant	2021-03-04 — 15:04:56 UTC	colton, HelanaAshryvr, wolfpack	170	5	25
-456396	3	0	No Variant	2021-03-04 — 14:47:35 UTC	colton, HelanaAshryvr, wolfpack	175	5	25
-456008	4	19	4 Suits	2021-03-04 — 04:50:18 UTC	AngryAny, bluewhale1024, vEnhance, wolfpack	8	4	20
+456406	3	25	No Variant	2021-03-04 — 15:04:56 UTC	colton, HelanaAshryvr, wolfpack	173	5	25
+456396	3	0	No Variant	2021-03-04 — 14:47:35 UTC	colton, HelanaAshryvr, wolfpack	176	5	25
+456008	4	19	4 Suits	2021-03-04 — 04:50:18 UTC	AngryAny, bluewhale1024, vEnhance, wolfpack	9	4	20
 455976	5	19	No Variant	2021-03-04 — 04:13:14 UTC	AngryAny, bluewhale1024, vEnhance, willwin4sure, wolfpack	25	5	25
 454762	6	20	White-Ones & Brown (4 Suits)	2021-03-03 — 01:41:07 UTC	aquarelle, dobi, indego, Lanvin, Nitrate, wolfpack	1	4	20
-454393	4	25	No Variant	2021-03-02 — 20:36:49 UTC	Denchulitas, MarkusKahlsen, VerySloppyTwo, wolfpack	55	5	25
+454393	4	25	No Variant	2021-03-02 — 20:36:49 UTC	Denchulitas, MarkusKahlsen, VerySloppyTwo, wolfpack	56	5	25
 454352	4	23	No Variant	2021-03-02 — 20:05:22 UTC	Denchulitas, MarkusKahlsen, VerySloppyTwo, wolfpack	64	5	25
-453717	3	28	Black (6 Suits)	2021-03-02 — 02:07:54 UTC	DarthGandalf, griff77, wolfpack	213	6	30
+453717	3	28	Black (6 Suits)	2021-03-02 — 02:07:54 UTC	DarthGandalf, griff77, wolfpack	214	6	30
 453674	3	0	Black (5 Suits)	2021-03-02 — 01:18:47 UTC	griff77, orucsoraihc, wolfpack	101	5	25
-452679	3	0	No Variant	2021-03-01 — 02:53:15 UTC	Animex52, kinkajusrevenge, wolfpack	78	5	25
+452679	3	0	No Variant	2021-03-01 — 02:53:15 UTC	Animex52, kinkajusrevenge, wolfpack	79	5	25
 449858	3	0	Black (6 Suits)	2021-02-26 — 15:23:06 UTC	sin_faith, Wittvector, wolfpack	236	6	30
 449845	5	0	Rainbow (6 Suits)	2021-02-26 — 14:45:55 UTC	robense, sin_faith, TimeHoodie, Wittvector, wolfpack	16	6	30
 449838	5	0	White (5 Suits)	2021-02-26 — 14:20:32 UTC	indego, TimeHoodie, Wittvector, wolfpack, wump	7	5	25
-449833	3	27	Black (6 Suits)	2021-02-26 — 14:01:21 UTC	Wittvector, wolfpack, wump	108	6	30
-449821	3	26	Black (6 Suits)	2021-02-26 — 13:26:59 UTC	Wittvector, wolfpack, wump	119	6	30
+449833	3	27	Black (6 Suits)	2021-02-26 — 14:01:21 UTC	Wittvector, wolfpack, wump	111	6	30
+449821	3	26	Black (6 Suits)	2021-02-26 — 13:26:59 UTC	Wittvector, wolfpack, wump	122	6	30
 449815	6	0	Black (6 Suits)	2021-02-26 — 13:05:06 UTC	catula, jack67889, Lanvin, MKQ, nitawa, wolfpack	3	6	30
 449812	5	0	Black (6 Suits)	2021-02-26 — 13:01:17 UTC	catula, jack67889, Lanvin, nitawa, wolfpack	13	6	30
-449534	3	25	No Variant	2021-02-26 — 03:57:36 UTC	Directive, wolfpack, Yuchan_Yang	680	5	25
-449506	2	25	No Variant	2021-02-26 — 03:33:52 UTC	wolfpack, Yuchan_Yang	2147	5	25
-448751	3	24	No Variant	2021-02-25 — 16:51:05 UTC	PotatoLatte, thewaxmango, wolfpack	1465	5	25
-448731	3	18	No Variant	2021-02-25 — 16:03:36 UTC	PotatoLatte, thewaxmango, wolfpack	1636	5	25
-448703	3	20	No Variant	2021-02-25 — 15:10:56 UTC	PotatoLatte, thewaxmango, wolfpack	3260	5	25
+449534	3	25	No Variant	2021-02-26 — 03:57:36 UTC	Directive, wolfpack, Yuchan_Yang	688	5	25
+449506	2	25	No Variant	2021-02-26 — 03:33:52 UTC	wolfpack, Yuchan_Yang	2166	5	25
+448751	3	24	No Variant	2021-02-25 — 16:51:05 UTC	PotatoLatte, thewaxmango, wolfpack	1474	5	25
+448731	3	18	No Variant	2021-02-25 — 16:03:36 UTC	PotatoLatte, thewaxmango, wolfpack	1651	5	25
+448703	3	20	No Variant	2021-02-25 — 15:10:56 UTC	PotatoLatte, thewaxmango, wolfpack	3290	5	25
 447942	5	0	No Variant	2021-02-24 — 20:10:39 UTC	basking, CaitlinSmith, eljavi, MathNoob, wolfpack	44	5	25
 447929	5	0	No Variant	2021-02-24 — 19:56:23 UTC	basking, CaitlinSmith, eljavi, MathNoob, wolfpack	60	5	25
-447916	5	0	No Variant	2021-02-24 — 19:46:48 UTC	basking, CaitlinSmith, eljavi, MathNoob, wolfpack	67	5	25
-447892	5	0	No Variant	2021-02-24 — 19:20:05 UTC	basking, CaitlinSmith, eljavi, MathNoob, wolfpack	126	5	25
-447862	3	24	No Variant	2021-02-24 — 18:46:14 UTC	CaitlinSmith, eljavi, wolfpack	58	5	25
+447916	5	0	No Variant	2021-02-24 — 19:46:48 UTC	basking, CaitlinSmith, eljavi, MathNoob, wolfpack	68	5	25
+447892	5	0	No Variant	2021-02-24 — 19:20:05 UTC	basking, CaitlinSmith, eljavi, MathNoob, wolfpack	127	5	25
+447862	3	24	No Variant	2021-02-24 — 18:46:14 UTC	CaitlinSmith, eljavi, wolfpack	59	5	25
 447494	5	28	6 Suits	2021-02-24 — 05:32:08 UTC	corys, griff77, rahsosprout, wolfpack, xor	54	6	30
 447436	4	0	Rainbow-Ones & Rainbow (5 Suits)	2021-02-24 — 04:30:26 UTC	corys, griff77, wolfpack, xor	4	5	25
-446676	3	0	No Variant	2021-02-23 — 16:57:41 UTC	MathNoob, nachoz, wolfpack	320	5	25
-446284	4	20	4 Suits	2021-02-23 — 03:09:06 UTC	blindedot, eljavi, rinka, wolfpack	77	4	20
-446234	4	0	4 Suits	2021-02-23 — 02:45:51 UTC	blindedot, eljavi, rinka, wolfpack	101	4	20
-445606	3	22	No Variant	2021-02-22 — 16:49:04 UTC	PotatoLatte, slartibart, wolfpack	1881	5	25
-445538	3	0	No Variant	2021-02-22 — 15:44:26 UTC	PotatoLatte, slartibart, wolfpack	2163	5	25
-445519	2	0	No Variant	2021-02-22 — 15:18:21 UTC	need4speed, wolfpack	1952	5	25
-444988	4	24	No Variant	2021-02-22 — 01:51:49 UTC	jeff10, mestrepoke, wolfpack, Yuchan_Yang	899	5	25
-441995	3	24	No Variant	2021-02-19 — 15:55:12 UTC	MathNoob, narabio, wolfpack	1095	5	25
-441972	2	22	No Variant	2021-02-19 — 15:02:05 UTC	MathNoob, wolfpack	3051	5	25
+446676	3	0	No Variant	2021-02-23 — 16:57:41 UTC	MathNoob, nachoz, wolfpack	324	5	25
+446284	4	20	4 Suits	2021-02-23 — 03:09:06 UTC	blindedot, eljavi, rinka, wolfpack	80	4	20
+446234	4	0	4 Suits	2021-02-23 — 02:45:51 UTC	blindedot, eljavi, rinka, wolfpack	104	4	20
+445606	3	22	No Variant	2021-02-22 — 16:49:04 UTC	PotatoLatte, slartibart, wolfpack	1896	5	25
+445538	3	0	No Variant	2021-02-22 — 15:44:26 UTC	PotatoLatte, slartibart, wolfpack	2179	5	25
+445519	2	0	No Variant	2021-02-22 — 15:18:21 UTC	need4speed, wolfpack	1966	5	25
+444988	4	24	No Variant	2021-02-22 — 01:51:49 UTC	jeff10, mestrepoke, wolfpack, Yuchan_Yang	908	5	25
+441995	3	24	No Variant	2021-02-19 — 15:55:12 UTC	MathNoob, narabio, wolfpack	1102	5	25
+441972	2	22	No Variant	2021-02-19 — 15:02:05 UTC	MathNoob, wolfpack	3072	5	25
 441609	6	23	No Variant	2021-02-19 — 03:58:05 UTC	eliclax, eljavi, griff77, ksfortson, wolfpack, wump	13	5	25
 441569	2	0	Rainbow & Brown (5 Suits)	2021-02-19 — 03:21:32 UTC	StKildaFan, wolfpack	33	5	25
-441027	4	0	No Variant	2021-02-18 — 19:21:07 UTC	Cylence, MathNoob, nachoz, wolfpack	308	5	25
-440988	4	0	No Variant	2021-02-18 — 18:42:32 UTC	Cylence, MathNoob, nachoz, wolfpack	336	5	25
-440975	4	22	No Variant	2021-02-18 — 18:27:56 UTC	Cylence, MathNoob, nachoz, wolfpack	384	5	25
-440919	3	25	No Variant	2021-02-18 — 16:43:35 UTC	MathNoob, nachoz, wolfpack	324	5	25
-439941	5	25	No Variant	2021-02-17 — 13:38:31 UTC	frosty104, indego, possum, Wittvector, wolfpack	262	5	25
-439929	3	0	No Variant	2021-02-17 — 13:09:53 UTC	bot_41, Redmondson, wolfpack	2606	5	25
+441027	4	0	No Variant	2021-02-18 — 19:21:07 UTC	Cylence, MathNoob, nachoz, wolfpack	311	5	25
+440988	4	0	No Variant	2021-02-18 — 18:42:32 UTC	Cylence, MathNoob, nachoz, wolfpack	340	5	25
+440975	4	22	No Variant	2021-02-18 — 18:27:56 UTC	Cylence, MathNoob, nachoz, wolfpack	387	5	25
+440919	3	25	No Variant	2021-02-18 — 16:43:35 UTC	MathNoob, nachoz, wolfpack	330	5	25
+439941	5	25	No Variant	2021-02-17 — 13:38:31 UTC	frosty104, indego, possum, Wittvector, wolfpack	265	5	25
+439929	3	0	No Variant	2021-02-17 — 13:09:53 UTC	bot_41, Redmondson, wolfpack	2627	5	25
 438834	4	26	Prism (6 Suits)	2021-02-16 — 04:39:14 UTC	eljavi, ksfortson, wolfpack, wump	1	6	30
-438819	3	22	No Variant	2021-02-16 — 04:10:02 UTC	eljavi, ksfortson, wolfpack	137	5	25
+438819	3	22	No Variant	2021-02-16 — 04:10:02 UTC	eljavi, ksfortson, wolfpack	142	5	25
 436518	6	0	6 Suits	2021-02-14 — 05:35:48 UTC	4head, Damian000, otterful, pujanator, torp, wolfpack	20	6	30
-436477	5	21	No Variant	2021-02-14 — 05:10:03 UTC	Damian000, lolthisnotderk, otterful, torp, wolfpack	176	5	25
-436452	5	24	No Variant	2021-02-14 — 04:48:29 UTC	Damian000, lolthisnotderk, otterful, torp, wolfpack	296	5	25
-436429	3	24	No Variant	2021-02-14 — 04:26:36 UTC	otterful, torp, wolfpack	840	5	25
-436315	4	0	No Variant	2021-02-14 — 02:43:20 UTC	juyoung123, sunkyu97, wolfpack, YEYOUNG	1744	5	25
-436263	4	22	No Variant	2021-02-14 — 01:55:24 UTC	juyoung123, sunkyu97, wolfpack, YEYOUNG	2076	5	25
-436158	4	0	No Variant	2021-02-14 — 00:15:55 UTC	juyoung123, sunkyu97, wolfpack, YEYOUNG	2763	5	25
-436128	4	20	No Variant	2021-02-13 — 23:26:20 UTC	juyoung123, sunkyu97, wolfpack, YEYOUNG	3581	5	25
-435351	3	25	No Variant	2021-02-13 — 05:13:32 UTC	louietyj, MathNoob, wolfpack	93	5	25
-435268	4	25	No Variant	2021-02-13 — 04:37:33 UTC	MathNoob, poofart123, rahsosprout, wolfpack	162	5	25
+436477	5	21	No Variant	2021-02-14 — 05:10:03 UTC	Damian000, lolthisnotderk, otterful, torp, wolfpack	178	5	25
+436452	5	24	No Variant	2021-02-14 — 04:48:29 UTC	Damian000, lolthisnotderk, otterful, torp, wolfpack	302	5	25
+436429	3	24	No Variant	2021-02-14 — 04:26:36 UTC	otterful, torp, wolfpack	849	5	25
+436315	4	0	No Variant	2021-02-14 — 02:43:20 UTC	juyoung123, sunkyu97, wolfpack, YEYOUNG	1759	5	25
+436263	4	22	No Variant	2021-02-14 — 01:55:24 UTC	juyoung123, sunkyu97, wolfpack, YEYOUNG	2094	5	25
+436158	4	0	No Variant	2021-02-14 — 00:15:55 UTC	juyoung123, sunkyu97, wolfpack, YEYOUNG	2788	5	25
+436128	4	20	No Variant	2021-02-13 — 23:26:20 UTC	juyoung123, sunkyu97, wolfpack, YEYOUNG	3609	5	25
+435351	3	25	No Variant	2021-02-13 — 05:13:32 UTC	louietyj, MathNoob, wolfpack	95	5	25
+435268	4	25	No Variant	2021-02-13 — 04:37:33 UTC	MathNoob, poofart123, rahsosprout, wolfpack	166	5	25
 435219	3	0	Cow & Pig (4 Suits)	2021-02-13 — 04:12:57 UTC	poofart123, rahsosprout, wolfpack	3	4	20
-434858	3	25	No Variant	2021-02-12 — 23:11:23 UTC	4head, CaitlinSmith, wolfpack	63	5	25
-434409	2	0	No Variant	2021-02-12 — 13:06:42 UTC	macanekspeedrun, wolfpack	5374	5	25
-433458	5	0	No Variant	2021-02-11 — 19:15:40 UTC	Cylence, KM1317, MathNoob, nachoz, wolfpack	143	5	25
-433432	3	21	No Variant	2021-02-11 — 18:40:34 UTC	Cylence, nachoz, wolfpack	451	5	25
-433409	2	0	No Variant	2021-02-11 — 18:08:01 UTC	nachoz, wolfpack	677	5	25
-433398	2	0	No Variant	2021-02-11 — 17:53:11 UTC	nachoz, wolfpack	699	5	25
-433395	2	0	No Variant	2021-02-11 — 17:50:31 UTC	nachoz, wolfpack	719	5	25
-433394	2	0	No Variant	2021-02-11 — 17:47:28 UTC	nachoz, wolfpack	741	5	25
-433361	5	23	No Variant	2021-02-11 — 16:48:34 UTC	anoob, jucijuce, nachoz, pennless, wolfpack	163	5	25
-433352	4	21	No Variant	2021-02-11 — 16:19:26 UTC	macanek, MathNoob, uSERNAME14, wolfpack	278	5	25
-433334	2	20	No Variant	2021-02-11 — 15:22:42 UTC	MathNoob, wolfpack	3507	5	25
-433323	2	0	No Variant	2021-02-11 — 14:57:58 UTC	MathNoob, wolfpack	4109	5	25
-433309	4	24	No Variant	2021-02-11 — 14:36:41 UTC	BananaBum, Denchulitas, sephiroth, wolfpack	63	5	25
-433301	3	0	No Variant	2021-02-11 — 14:17:03 UTC	bot_31, digitalcard, wolfpack	4221	5	25
-432504	3	25	No Variant	2021-02-10 — 20:03:16 UTC	HariKrishnan, VerySloppyTwo, wolfpack	243	5	25
-432472	3	20	No Variant	2021-02-10 — 19:20:46 UTC	HariKrishnan, wolfpack, wump	60	5	25
-432392	4	23	No Variant	2021-02-10 — 17:50:14 UTC	MathNoob, nachoz, pennless, wolfpack	501	5	25
-432311	2	20	No Variant	2021-02-10 — 16:16:45 UTC	macanek, wolfpack	43	5	25
-432289	2	0	No Variant	2021-02-10 — 15:40:15 UTC	macanek, wolfpack	44	5	25
-432281	3	0	No Variant	2021-02-10 — 15:22:23 UTC	banana123, bobi, wolfpack	199	5	25
-431794	5	20	No Variant	2021-02-10 — 03:13:20 UTC	jian01, nkkarpov, PMP, rahsosprout, wolfpack	344	5	25
-431176	4	0	No Variant	2021-02-09 — 17:08:52 UTC	Espen, jucijuce, MathNoob, wolfpack	601	5	25
+434858	3	25	No Variant	2021-02-12 — 23:11:23 UTC	4head, CaitlinSmith, wolfpack	64	5	25
+434409	2	0	No Variant	2021-02-12 — 13:06:42 UTC	macanekspeedrun, wolfpack	5421	5	25
+433458	5	0	No Variant	2021-02-11 — 19:15:40 UTC	Cylence, KM1317, MathNoob, nachoz, wolfpack	145	5	25
+433432	3	21	No Variant	2021-02-11 — 18:40:34 UTC	Cylence, nachoz, wolfpack	456	5	25
+433409	2	0	No Variant	2021-02-11 — 18:08:01 UTC	nachoz, wolfpack	683	5	25
+433398	2	0	No Variant	2021-02-11 — 17:53:11 UTC	nachoz, wolfpack	705	5	25
+433395	2	0	No Variant	2021-02-11 — 17:50:31 UTC	nachoz, wolfpack	725	5	25
+433394	2	0	No Variant	2021-02-11 — 17:47:28 UTC	nachoz, wolfpack	749	5	25
+433361	5	23	No Variant	2021-02-11 — 16:48:34 UTC	anoob, jucijuce, nachoz, pennless, wolfpack	166	5	25
+433352	4	21	No Variant	2021-02-11 — 16:19:26 UTC	macanek, MathNoob, uSERNAME14, wolfpack	280	5	25
+433334	2	20	No Variant	2021-02-11 — 15:22:42 UTC	MathNoob, wolfpack	3537	5	25
+433323	2	0	No Variant	2021-02-11 — 14:57:58 UTC	MathNoob, wolfpack	4149	5	25
+433309	4	24	No Variant	2021-02-11 — 14:36:41 UTC	BananaBum, Denchulitas, sephiroth, wolfpack	64	5	25
+433301	3	0	No Variant	2021-02-11 — 14:17:03 UTC	bot_31, digitalcard, wolfpack	4250	5	25
+432504	3	25	No Variant	2021-02-10 — 20:03:16 UTC	HariKrishnan, VerySloppyTwo, wolfpack	246	5	25
+432472	3	20	No Variant	2021-02-10 — 19:20:46 UTC	HariKrishnan, wolfpack, wump	61	5	25
+432392	4	23	No Variant	2021-02-10 — 17:50:14 UTC	MathNoob, nachoz, pennless, wolfpack	507	5	25
+432311	2	20	No Variant	2021-02-10 — 16:16:45 UTC	macanek, wolfpack	45	5	25
+432289	2	0	No Variant	2021-02-10 — 15:40:15 UTC	macanek, wolfpack	46	5	25
+432281	3	0	No Variant	2021-02-10 — 15:22:23 UTC	banana123, bobi, wolfpack	202	5	25
+431794	5	20	No Variant	2021-02-10 — 03:13:20 UTC	jian01, nkkarpov, PMP, rahsosprout, wolfpack	348	5	25
+431176	4	0	No Variant	2021-02-09 — 17:08:52 UTC	Espen, jucijuce, MathNoob, wolfpack	606	5	25

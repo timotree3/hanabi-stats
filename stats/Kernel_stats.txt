@@ -1,20 +1,30 @@
+522047	3	0	No Variant	2021-05-06 — 11:52:09 UTC	Alix_Eisenhardt, Kaznad, Kernel	11	5	25
+522045	3	0	No Variant	2021-05-06 — 11:31:44 UTC	Alix_Eisenhardt, Kaznad, Kernel	11	5	25
+518614	4	24	Rainbow & Pink (5 Suits)	2021-05-02 — 14:05:13 UTC	Kernel, kinkajusrevenge, MangoPie, rz	15	5	25
+518605	3	15	3 Suits	2021-05-02 — 13:36:17 UTC	Kernel, kinkajusrevenge, rz	40	3	15
+518600	3	14	3 Suits	2021-05-02 — 13:15:31 UTC	Kernel, kinkajusrevenge, rz	45	3	15
+518570	3	0	Black & Pink (6 Suits)	2021-05-02 — 11:20:58 UTC	Kernel, Lanvin, Wittvector	7	6	30
+518560	3	0	Black & Pink (6 Suits)	2021-05-02 — 10:54:08 UTC	Kernel, Lanvin, Wittvector	8	6	30
+514001	6	0	Pink & White (6 Suits)	2021-04-27 — 16:00:40 UTC	ChristopheAF, Kernel, Lel0uch, melwen, rz, squirrel1988	1	6	30
+513991	6	0	Pink & White (6 Suits)	2021-04-27 — 15:30:13 UTC	ChristopheAF, Kernel, Lel0uch, melwen, rz, squirrel1988	1	6	30
+513286	3	24	Prism Reversed (5 Suits)	2021-04-26 — 17:34:49 UTC	Fey, Kernel, mystus	1	5	25
 512211	5	0	Omni & Prism (6 Suits)	2021-04-25 — 13:46:50 UTC	BraydonM, indego, Kernel, Lel0uch, melwen	1	6	30
 512193	5	0	Brown-Ones & White (6 Suits)	2021-04-25 — 13:14:49 UTC	aquarelle, indego, Kernel, Lanvin, melwen	1	6	30
-512094	2	20	4 Suits	2021-04-25 — 08:32:48 UTC	Kaznad, Kernel	171	4	20
+512094	2	20	4 Suits	2021-04-25 — 08:32:48 UTC	Kaznad, Kernel	177	4	20
 511405	5	0	Rainbow & Gray (6 Suits)	2021-04-24 — 18:26:41 UTC	ChristopheAF, Kernel, Lanvin, MangoPie, VerySloppyTwo	7	6	30
 511394	4	0	White-Ones & Pink (3 Suits)	2021-04-24 — 18:15:19 UTC	ChristopheAF, dobi, Kernel, Lanvin	1	3	15
 511383	4	14	White-Ones & Pink (3 Suits)	2021-04-24 — 18:05:20 UTC	ChristopheAF, dobi, Kernel, Lanvin	1	3	15
-511369	3	25	White & Prism (5 Suits)	2021-04-24 — 17:51:10 UTC	Kaznad, Kernel, Sucubis	7	5	25
-511352	2	26	Black (6 Suits)	2021-04-24 — 17:15:09 UTC	Kernel, nwajfromoz	294	6	30
-511349	2	0	Black (6 Suits)	2021-04-24 — 17:06:13 UTC	Kernel, nwajfromoz	300	6	30
-511343	2	0	Black (6 Suits)	2021-04-24 — 17:01:41 UTC	Kernel, nwajfromoz	325	6	30
-511340	2	0	Black (6 Suits)	2021-04-24 — 16:58:09 UTC	Kernel, nwajfromoz	442	6	30
+511369	3	25	White & Prism (5 Suits)	2021-04-24 — 17:51:10 UTC	Kaznad, Kernel, Sucubis	8	5	25
+511352	2	26	Black (6 Suits)	2021-04-24 — 17:15:09 UTC	Kernel, nwajfromoz	300	6	30
+511349	2	0	Black (6 Suits)	2021-04-24 — 17:06:13 UTC	Kernel, nwajfromoz	306	6	30
+511343	2	0	Black (6 Suits)	2021-04-24 — 17:01:41 UTC	Kernel, nwajfromoz	332	6	30
+511340	2	0	Black (6 Suits)	2021-04-24 — 16:58:09 UTC	Kernel, nwajfromoz	450	6	30
 511171	3	25	No Variant	2021-04-24 — 09:20:35 UTC	Kaznad, Kernel, Padouga	12	5	25
 504025	3	0	Black & Brown (5 Suits)	2021-04-17 — 09:12:45 UTC	Fey, Kernel, orucsoraihc	16	5	25
 504023	3	0	Black & Brown (5 Suits)	2021-04-17 — 09:00:54 UTC	Fey, Kernel, orucsoraihc	19	5	25
 504021	3	25	Prism Reversed (5 Suits)	2021-04-17 — 08:44:48 UTC	Fey, Kernel, orucsoraihc	4	5	25
-497386	4	14	Rainbow (3 Suits)	2021-04-11 — 19:01:42 UTC	Kernel, Nitrate, possum, Zakisan	10	3	15
-497363	4	14	Rainbow (3 Suits)	2021-04-11 — 18:42:47 UTC	Kernel, Nitrate, possum, Zakisan	13	3	15
+497386	4	14	Rainbow (3 Suits)	2021-04-11 — 19:01:42 UTC	Kernel, Nitrate, possum, Zakisan	11	3	15
+497363	4	14	Rainbow (3 Suits)	2021-04-11 — 18:42:47 UTC	Kernel, Nitrate, possum, Zakisan	14	3	15
 497337	4	25	No Variant	2021-04-11 — 18:01:50 UTC	Kaznad, Kernel, Padouga, Spruelo	32	5	25
 493014	4	25	Rainbow Reversed (5 Suits)	2021-04-07 — 11:26:26 UTC	Kernel, Lanvin, melwen, ricardodd	2	5	25
 493010	4	0	Rainbow Reversed (5 Suits)	2021-04-07 — 11:00:35 UTC	Kernel, Lanvin, melwen, ricardodd	4	5	25
@@ -23,11 +33,11 @@
 488441	3	23	Black & Brown (5 Suits)	2021-04-02 — 18:38:53 UTC	CaitlinSmith, Doge, Kernel	1	5	25
 473868	4	21	Black & Brown (5 Suits)	2021-03-19 — 20:58:46 UTC	bjnh, CaitlinSmith, Kernel, kevincaseytdk1	7	5	25
 473850	4	0	Black & Brown (5 Suits)	2021-03-19 — 20:34:22 UTC	bjnh, CaitlinSmith, Kernel, kevincaseytdk1	8	5	25
-473671	2	0	No Variant	2021-03-19 — 17:21:43 UTC	Kernel, Onen	432	5	25
-473664	2	0	No Variant	2021-03-19 — 17:15:04 UTC	Kernel, Onen	440	5	25
-473662	2	0	No Variant	2021-03-19 — 17:12:11 UTC	Kernel, Onen	450	5	25
-473655	2	25	No Variant	2021-03-19 — 17:05:52 UTC	Kernel, Onen	455	5	25
-471394	4	29	Rainbow & Omni (6 Suits)	2021-03-17 — 17:30:55 UTC	asaelr, Fey, fowill, Kernel	6	6	30
+473671	2	0	No Variant	2021-03-19 — 17:21:43 UTC	Kernel, Onen	439	5	25
+473664	2	0	No Variant	2021-03-19 — 17:15:04 UTC	Kernel, Onen	446	5	25
+473662	2	0	No Variant	2021-03-19 — 17:12:11 UTC	Kernel, Onen	456	5	25
+473655	2	25	No Variant	2021-03-19 — 17:05:52 UTC	Kernel, Onen	461	5	25
+471394	4	29	Rainbow & Omni (6 Suits)	2021-03-17 — 17:30:55 UTC	asaelr, Fey, fowill, Kernel	7	6	30
 466671	3	0	Dark Rainbow (5 Suits)	2021-03-13 — 12:32:39 UTC	indego, Kernel, Lanvin	13	5	25
 466662	5	29	Pink & Light Pink (6 Suits)	2021-03-13 — 12:02:26 UTC	indego, Kernel, Lanvin, Lel0uch, melwen	4	6	30
 466654	5	0	Dark Pink (5 Suits)	2021-03-13 — 11:27:29 UTC	indego, Kernel, Lel0uch, melwen, Wittvector	1	5	25
@@ -36,23 +46,23 @@
 464590	5	24	Rainbow & Pink (5 Suits)	2021-03-11 — 13:47:19 UTC	indego, Kernel, Lanvin, StKildaFan, swineherd	5	5	25
 464583	2	20	Pink & Brown (4 Suits)	2021-03-11 — 13:27:51 UTC	Kernel, StKildaFan	8	4	20
 464579	2	0	Pink & Brown (4 Suits)	2021-03-11 — 13:18:22 UTC	Kernel, StKildaFan	13	4	20
-461514	3	24	White (5 Suits)	2021-03-08 — 17:58:42 UTC	DarthGandalf, Kernel, knaphill	81	5	25
+461514	3	24	White (5 Suits)	2021-03-08 — 17:58:42 UTC	DarthGandalf, Kernel, knaphill	84	5	25
 461504	3	20	Rainbow (4 Suits)	2021-03-08 — 17:27:24 UTC	DarthGandalf, Kernel, knaphill	22	4	20
 461492	4	25	No Variant	2021-03-08 — 17:03:57 UTC	asaelr, eljavi, Kernel, knaphill	13	5	25
 460249	4	25	Rainbow-Fives & White (5 Suits)	2021-03-07 — 18:17:40 UTC	Kernel, MangoPie, narabio, newduke	4	5	25
-459287	4	20	4 Suits	2021-03-06 — 22:46:57 UTC	Kernel, Olipod, Pimak, XMIL	51	4	20
-459254	3	0	6 Suits	2021-03-06 — 22:17:40 UTC	Kernel, Olipod, Pimak	503	6	30
+459287	4	20	4 Suits	2021-03-06 — 22:46:57 UTC	Kernel, Olipod, Pimak, XMIL	52	4	20
+459254	3	0	6 Suits	2021-03-06 — 22:17:40 UTC	Kernel, Olipod, Pimak	511	6	30
 458753	4	21	Up or Down (5 Suits)	2021-03-06 — 09:42:42 UTC	eliclax, Kernel, lolthisnotderk, louietyj	52	5	25
-458743	3	30	Rainbow (6 Suits)	2021-03-06 — 09:16:00 UTC	eliclax, Kernel, lolthisnotderk	508	6	30
+458743	3	30	Rainbow (6 Suits)	2021-03-06 — 09:16:00 UTC	eliclax, Kernel, lolthisnotderk	514	6	30
 457727	5	0	Dual-Color (6 Suits)	2021-03-05 — 17:52:52 UTC	HelanaAshryvr, indego, Kernel, Lanvin, squirrel1988	5	6	30
 457711	5	0	Dual-Color (6 Suits)	2021-03-05 — 17:35:08 UTC	HelanaAshryvr, indego, Kernel, Lanvin, squirrel1988	5	6	30
-457685	3	25	Pink (5 Suits)	2021-03-05 — 17:17:12 UTC	IsabeltheCat, Kernel, Lanvin	62	5	25
+457685	3	25	Pink (5 Suits)	2021-03-05 — 17:17:12 UTC	IsabeltheCat, Kernel, Lanvin	64	5	25
 457667	3	0	Brown (5 Suits)	2021-03-05 — 16:55:52 UTC	Fey, Kernel, Sucubis	13	5	25
 456704	6	0	Alternating Clues (6 Suits)	2021-03-04 — 21:26:58 UTC	aquarelle, Kernel, knaphill, Lanvin, MangoPie, Pablo-	1	6	30
 456700	6	0	Alternating Clues (6 Suits)	2021-03-04 — 21:19:34 UTC	aquarelle, Kernel, knaphill, Lanvin, MangoPie, Pablo-	1	6	30
 456684	4	25	Reversed (5 Suits)	2021-03-04 — 21:04:00 UTC	ChristopheAF, Kernel, knaphill, Pablo-	6	5	25
-456664	2	15	Rainbow (3 Suits)	2021-03-04 — 20:45:53 UTC	Kernel, qqqq	49	3	15
-456638	2	14	Rainbow (3 Suits)	2021-03-04 — 20:32:15 UTC	Kernel, qqqq	76	3	15
+456664	2	15	Rainbow (3 Suits)	2021-03-04 — 20:45:53 UTC	Kernel, qqqq	50	3	15
+456638	2	14	Rainbow (3 Suits)	2021-03-04 — 20:32:15 UTC	Kernel, qqqq	78	3	15
 451978	4	25	Dual-Color (5 Suits)	2021-02-28 — 16:29:51 UTC	asaelr, BraydonM, Kernel, Spieler42	4	5	25
 451970	4	0	Dual-Color (5 Suits)	2021-02-28 — 16:10:55 UTC	asaelr, BraydonM, Kernel, robense	7	5	25
 451967	4	0	Dual-Color (5 Suits)	2021-02-28 — 16:07:37 UTC	asaelr, BraydonM, Kernel, robense	31	5	25
@@ -67,51 +77,51 @@
 450733	5	23	White & Brown (5 Suits)	2021-02-27 — 08:50:31 UTC	4head, indego, Kernel, kevincaseytdk1, louietyj	1	5	25
 450725	5	0	White & Brown (5 Suits)	2021-02-27 — 08:25:23 UTC	4head, indego, Kernel, kevincaseytdk1, louietyj	1	5	25
 450065	4	30	Brown (6 Suits)	2021-02-26 — 20:36:42 UTC	jeff10, Kernel, MarkusKahlsen, newduke	16	6	30
-450019	3	13	3 Suits	2021-02-26 — 19:30:48 UTC	BraydonM, Kernel, MangoPie	51	3	15
-450011	3	13	3 Suits	2021-02-26 — 19:18:51 UTC	BraydonM, Kernel, MangoPie	74	3	15
-450001	3	14	3 Suits	2021-02-26 — 19:06:03 UTC	BraydonM, Kernel, MangoPie	88	3	15
+450019	3	13	3 Suits	2021-02-26 — 19:30:48 UTC	BraydonM, Kernel, MangoPie	52	3	15
+450011	3	13	3 Suits	2021-02-26 — 19:18:51 UTC	BraydonM, Kernel, MangoPie	75	3	15
+450001	3	14	3 Suits	2021-02-26 — 19:06:03 UTC	BraydonM, Kernel, MangoPie	90	3	15
 449993	4	0	Rainbow-Ones & White (3 Suits)	2021-02-26 — 18:56:28 UTC	Kernel, MangoPie, newduke, padi	2	3	15
 447957	4	30	Dark Rainbow (6 Suits)	2021-02-24 — 20:21:52 UTC	ChristopheAF, indego, Kernel, Lanvin	26	6	30
-447931	4	0	Dark Rainbow (6 Suits)	2021-02-24 — 19:58:32 UTC	ChristopheAF, indego, Kernel, Lanvin	25	6	30
+447931	4	0	Dark Rainbow (6 Suits)	2021-02-24 — 19:58:32 UTC	ChristopheAF, indego, Kernel, Lanvin	27	6	30
 447910	4	0	Dark Rainbow (6 Suits)	2021-02-24 — 19:42:26 UTC	ChristopheAF, indego, Kernel, Lanvin	32	6	30
 447899	5	0	Pink-Fives & Light Pink (4 Suits)	2021-02-24 — 19:27:27 UTC	ChristopheAF, hakha3, Kernel, Lanvin, MangoPie	2	4	20
-444261	3	0	Black (6 Suits)	2021-02-21 — 10:44:44 UTC	indego, Kernel, StKildaFan	52	6	30
-444254	3	0	Black (6 Suits)	2021-02-21 — 10:29:22 UTC	indego, Kernel, StKildaFan	55	6	30
-444244	3	0	Black (6 Suits)	2021-02-21 — 10:10:15 UTC	indego, Kernel, StKildaFan	56	6	30
-444238	3	0	Black (6 Suits)	2021-02-21 — 09:57:45 UTC	indego, Kernel, StKildaFan	66	6	30
+444261	3	0	Black (6 Suits)	2021-02-21 — 10:44:44 UTC	indego, Kernel, StKildaFan	53	6	30
+444254	3	0	Black (6 Suits)	2021-02-21 — 10:29:22 UTC	indego, Kernel, StKildaFan	57	6	30
+444244	3	0	Black (6 Suits)	2021-02-21 — 10:10:15 UTC	indego, Kernel, StKildaFan	58	6	30
+444238	3	0	Black (6 Suits)	2021-02-21 — 09:57:45 UTC	indego, Kernel, StKildaFan	68	6	30
 444232	3	20	White (4 Suits)	2021-02-21 — 09:46:22 UTC	indego, Kernel, StKildaFan	30	4	20
 443455	5	0	Dark Pink (6 Suits)	2021-02-20 — 21:38:16 UTC	ChristopheAF, Kernel, rachyrules, TimeHoodie, VerySloppyTwo	10	6	30
 443443	4	0	Dark Pink (6 Suits)	2021-02-20 — 21:25:43 UTC	Kernel, Lanvin, TimeHoodie, VerySloppyTwo	3	6	30
 443437	4	0	Dark Pink (6 Suits)	2021-02-20 — 21:20:54 UTC	Kernel, Lanvin, TimeHoodie, VerySloppyTwo	3	6	30
 443405	6	0	Light Pink & Prism (6 Suits)	2021-02-20 — 20:55:14 UTC	indego, Kernel, Lanvin, TimeHoodie, VerySloppyTwo, Wittvector	1	6	30
 443388	6	0	Light Pink & Prism (6 Suits)	2021-02-20 — 20:35:32 UTC	indego, Kernel, Lanvin, TimeHoodie, VerySloppyTwo, Wittvector	1	6	30
-442273	3	0	Up or Down & Prism (5 Suits)	2021-02-19 — 21:24:15 UTC	jeff10, Kernel, ricardodd	4	5	25
+442273	3	0	Up or Down & Prism (5 Suits)	2021-02-19 — 21:24:15 UTC	jeff10, Kernel, ricardodd	6	5	25
 442234	5	23	Up or Down & Muddy Rainbow (5 Suits)	2021-02-19 — 20:58:16 UTC	4head, Kernel, newduke, rahsosprout, ricardodd	3	5	25
 441879	5	19	White-Fives & Light Pink (4 Suits)	2021-02-19 — 10:54:20 UTC	Fey, Kernel, MarkusKahlsen, melwen, Wittvector	1	4	20
 441875	5	0	White-Fives & Light Pink (4 Suits)	2021-02-19 — 10:33:54 UTC	Fey, Kernel, MarkusKahlsen, melwen, Wittvector	1	4	20
 441865	5	18	White-Fives & Light Pink (4 Suits)	2021-02-19 — 10:13:58 UTC	Fey, Kernel, MarkusKahlsen, melwen, Wittvector	1	4	20
 441857	2	13	Rainbow & Prism (3 Suits)	2021-02-19 — 09:46:30 UTC	Fey, Kernel	5	3	15
 441856	2	0	Rainbow & Prism (3 Suits)	2021-02-19 — 09:39:08 UTC	Fey, Kernel	7	3	15
-441855	2	13	Rainbow & Prism (3 Suits)	2021-02-19 — 09:37:05 UTC	Fey, Kernel	20	3	15
+441855	2	13	Rainbow & Prism (3 Suits)	2021-02-19 — 09:37:05 UTC	Fey, Kernel	22	3	15
 440071	5	30	Throw It in a Hole (6 Suits)	2021-02-17 — 18:42:12 UTC	CaitlinSmith, Kernel, knaphill, Nitrate2, Wittvector	3	6	30
 440042	5	0	Throw It in a Hole (6 Suits)	2021-02-17 — 18:08:52 UTC	CaitlinSmith, Kernel, knaphill, Nitrate2, Wittvector	8	6	30
 439225	4	0	No Variant	2021-02-16 — 18:45:33 UTC	Kernel, Nitrate, Padouga, Pimak	129	5	25
-439135	3	22	Rainbow (5 Suits)	2021-02-16 — 15:42:03 UTC	BananaBum, ChristopheAF, Kernel	50	5	25
-438202	3	0	Black & Prism (5 Suits)	2021-02-15 — 18:03:58 UTC	Kernel, MarkusKahlsen, sephiroth	1	5	25
-438193	3	0	Black & Prism (5 Suits)	2021-02-15 — 17:54:56 UTC	Kernel, MarkusKahlsen, sephiroth	2	5	25
+439135	3	22	Rainbow (5 Suits)	2021-02-16 — 15:42:03 UTC	BananaBum, ChristopheAF, Kernel	51	5	25
+438202	3	0	Black & Prism (5 Suits)	2021-02-15 — 18:03:58 UTC	Kernel, MarkusKahlsen, sephiroth	2	5	25
+438193	3	0	Black & Prism (5 Suits)	2021-02-15 — 17:54:56 UTC	Kernel, MarkusKahlsen, sephiroth	3	5	25
 438015	3	0	Omni (5 Suits)	2021-02-15 — 11:32:18 UTC	Kernel, Lanvin, rz	31	5	25
 437999	3	24	Omni (5 Suits)	2021-02-15 — 10:56:43 UTC	Kernel, Lanvin, rz	50	5	25
 437475	4	24	Rainbow-Fives (5 Suits)	2021-02-14 — 23:01:20 UTC	Alix_Eisenhardt, Kaznad, Kernel, Padouga	3	5	25
 437421	4	0	Rainbow-Fives (5 Suits)	2021-02-14 — 22:23:29 UTC	Alix_Eisenhardt, Kaznad, Kernel, Padouga	11	5	25
-436775	3	22	Rainbow & Gray (5 Suits)	2021-02-14 — 11:38:18 UTC	4head, Kernel, louietyj	3	5	25
+436775	3	22	Rainbow & Gray (5 Suits)	2021-02-14 — 11:38:18 UTC	4head, Kernel, louietyj	4	5	25
 436764	3	0	Rainbow & Gray (5 Suits)	2021-02-14 — 11:17:16 UTC	4head, Kernel, louietyj	5	5	25
 436760	3	0	Rainbow & Gray (5 Suits)	2021-02-14 — 11:12:31 UTC	4head, Kernel, louietyj	5	5	25
 436755	3	0	Rainbow & Gray (5 Suits)	2021-02-14 — 10:59:33 UTC	4head, Kernel, louietyj	6	5	25
 436752	3	0	Rainbow & Gray (5 Suits)	2021-02-14 — 10:50:34 UTC	4head, Kernel, louietyj	7	5	25
 436746	3	20	Rainbow & Gray (5 Suits)	2021-02-14 — 10:38:18 UTC	4head, Kernel, louietyj	11	5	25
-435753	4	29	Rainbow & Prism (6 Suits)	2021-02-13 — 15:53:47 UTC	ADrone, indego, Kernel, MangoPie	13	6	30
-435727	4	0	Dark Pink (5 Suits)	2021-02-13 — 15:06:03 UTC	ADrone, CaitlinSmith, indego, Kernel	20	5	25
-434340	3	30	Prism (6 Suits)	2021-02-12 — 10:03:19 UTC	Denchulitas, Kernel, MangoPie	60	6	30
+435753	4	29	Rainbow & Prism (6 Suits)	2021-02-13 — 15:53:47 UTC	ADrone, indego, Kernel, MangoPie	14	6	30
+435727	4	0	Dark Pink (5 Suits)	2021-02-13 — 15:06:03 UTC	ADrone, CaitlinSmith, indego, Kernel	21	5	25
+434340	3	30	Prism (6 Suits)	2021-02-12 — 10:03:19 UTC	Denchulitas, Kernel, MangoPie	61	6	30
 433300	5	0	Dual-Color (5 Suits)	2021-02-11 — 14:14:39 UTC	eliclax, Kernel, Lanvin, Pimak, VerySloppyTwo	2	5	25
 433294	4	0	Dual-Color (5 Suits)	2021-02-11 — 13:44:18 UTC	eliclax, Kernel, Lanvin, Pimak	8	5	25
 433291	5	0	Dual-Color (5 Suits)	2021-02-11 — 13:28:11 UTC	eliclax, Kernel, Lanvin, Pimak, Plum	2	5	25
@@ -125,7 +135,7 @@
 432103	3	25	Dark Pink (5 Suits)	2021-02-10 — 10:34:59 UTC	Kernel, robense, Wittvector	16	5	25
 432096	3	0	Dark Pink (5 Suits)	2021-02-10 — 10:19:43 UTC	Kernel, robense, Wittvector	17	5	25
 432089	3	0	Dark Pink (5 Suits)	2021-02-10 — 10:12:28 UTC	Kernel, robense, Wittvector	19	5	25
-431540	4	29	Up or Down (6 Suits)	2021-02-09 — 22:32:47 UTC	4head, Bot-Fiora, Kernel, Pimak	8	6	30
+431540	4	29	Up or Down (6 Suits)	2021-02-09 — 22:32:47 UTC	4head, Bot-Fiora, Kernel, Pimak	9	6	30
 431496	4	0	Up or Down (6 Suits)	2021-02-09 — 22:03:25 UTC	4head, Bot-Fiora, Kernel, Pimak	9	6	30
 431456	4	24	Up or Down (5 Suits)	2021-02-09 — 21:43:51 UTC	4head, jack67889, Kernel, Pimak	75	5	25
 431407	5	0	Up or Down (5 Suits)	2021-02-09 — 21:17:55 UTC	4head, CaitlinSmith, jack67889, Kernel, Pimak	23	5	25
@@ -139,17 +149,17 @@
 429312	4	0	Rainbow (5 Suits)	2021-02-07 — 21:22:33 UTC	CaitlinSmith, Doge, eljavi, Kernel	13	5	25
 429304	4	0	Rainbow (5 Suits)	2021-02-07 — 21:12:46 UTC	CaitlinSmith, Doge, eljavi, Kernel	12	5	25
 429291	4	0	Rainbow (5 Suits)	2021-02-07 — 21:01:12 UTC	CaitlinSmith, Doge, eljavi, Kernel	16	5	25
-429275	4	0	Rainbow (5 Suits)	2021-02-07 — 20:44:17 UTC	CaitlinSmith, Doge, eljavi, Kernel	17	5	25
+429275	4	0	Rainbow (5 Suits)	2021-02-07 — 20:44:17 UTC	CaitlinSmith, Doge, eljavi, Kernel	18	5	25
 429245	5	0	White-Fives (6 Suits)	2021-02-07 — 20:14:11 UTC	jack67889, Kernel, newduke, nitawa, Pablo-	2	6	30
 429187	5	0	White-Fives (6 Suits)	2021-02-07 — 19:30:42 UTC	jack67889, Kernel, newduke, nitawa, Pablo-	2	6	30
-428843	3	0	Rainbow (5 Suits)	2021-02-07 — 10:24:58 UTC	Alix_Eisenhardt, Kaznad, Kernel	57	5	25
+428843	3	0	Rainbow (5 Suits)	2021-02-07 — 10:24:58 UTC	Alix_Eisenhardt, Kaznad, Kernel	59	5	25
 428832	6	0	No Variant	2021-02-07 — 10:09:18 UTC	4head, Kernel, louietyj, narabio, sin_faith, 火花	7	5	25
-428829	6	0	No Variant	2021-02-07 — 10:04:42 UTC	4head, Kernel, louietyj, narabio, sin_faith, 火花	8	5	25
+428829	6	0	No Variant	2021-02-07 — 10:04:42 UTC	4head, Kernel, louietyj, narabio, sin_faith, 火花	9	5	25
 426753	4	0	Rainbow & White (4 Suits)	2021-02-05 — 20:41:57 UTC	avanderwalde, Kernel, Lanvin, sephiroth	3	4	20
-426738	3	0	White (4 Suits)	2021-02-05 — 20:29:21 UTC	CaitlinSmith, HariKrishnan, Kernel	46	4	20
-426690	3	18	White (4 Suits)	2021-02-05 — 20:03:04 UTC	CaitlinSmith, HariKrishnan, Kernel	59	4	20
-426646	4	19	Rainbow (4 Suits)	2021-02-05 — 19:19:41 UTC	CaitlinSmith, HariKrishnan, Kernel, rahsosprout	25	4	20
-426619	4	0	Rainbow (4 Suits)	2021-02-05 — 18:50:22 UTC	CaitlinSmith, HariKrishnan, Kernel, rahsosprout	32	4	20
+426738	3	0	White (4 Suits)	2021-02-05 — 20:29:21 UTC	CaitlinSmith, HariKrishnan, Kernel	47	4	20
+426690	3	18	White (4 Suits)	2021-02-05 — 20:03:04 UTC	CaitlinSmith, HariKrishnan, Kernel	62	4	20
+426646	4	19	Rainbow (4 Suits)	2021-02-05 — 19:19:41 UTC	CaitlinSmith, HariKrishnan, Kernel, rahsosprout	26	4	20
+426619	4	0	Rainbow (4 Suits)	2021-02-05 — 18:50:22 UTC	CaitlinSmith, HariKrishnan, Kernel, rahsosprout	33	4	20
 426540	5	0	Pink-Fives & Rainbow (5 Suits)	2021-02-05 — 17:14:10 UTC	dobi, Kernel, Lanvin, rz, Wittvector	3	5	25
 426532	5	0	Pink-Fives & Rainbow (5 Suits)	2021-02-05 — 17:02:44 UTC	dobi, Kernel, Lanvin, rz, Wittvector	3	5	25
 425716	5	0	Up or Down & Rainbow (6 Suits)	2021-02-04 — 21:09:19 UTC	Kernel, ricardodd, sephiroth, TimeHoodie, VerySloppyTwo	1	6	30
@@ -157,24 +167,24 @@
 425322	4	25	Rainbow & White (5 Suits)	2021-02-04 — 14:12:01 UTC	ChristopheAF, Kernel, Lanvin, rz	2	5	25
 425310	4	0	Rainbow & White (5 Suits)	2021-02-04 — 13:53:42 UTC	ChristopheAF, Kernel, Lanvin, rz	2	5	25
 425302	4	0	Rainbow & White (5 Suits)	2021-02-04 — 13:41:48 UTC	ChristopheAF, Kernel, Lanvin, rz	3	5	25
-425288	4	30	Rainbow & Pink (6 Suits)	2021-02-04 — 13:25:03 UTC	ChristopheAF, Kernel, Lanvin, MangoPie	12	6	30
+425288	4	30	Rainbow & Pink (6 Suits)	2021-02-04 — 13:25:03 UTC	ChristopheAF, Kernel, Lanvin, MangoPie	13	6	30
 425278	4	0	Rainbow & Pink (6 Suits)	2021-02-04 — 13:07:46 UTC	ChristopheAF, Kernel, Lanvin, MangoPie	16	6	30
 424556	6	0	Black (6 Suits)	2021-02-03 — 21:24:48 UTC	bjnh, jack67889, Kernel, Lanvin, rachyrules, Wittvector	4	6	30
 424523	6	0	Dark Brown (5 Suits)	2021-02-03 — 20:52:13 UTC	dobi, jack67889, Kernel, Lanvin, rachyrules, Wittvector	3	5	25
 423207	5	0	Pink (6 Suits)	2021-02-02 — 20:10:13 UTC	Bot-Fiora, ChristopheAF, Kernel, MangoPie, sin_faith	18	6	30
-423190	5	28	Pink (6 Suits)	2021-02-02 — 19:53:41 UTC	Bot-Fiora, ChristopheAF, Kernel, MangoPie, sin_faith	29	6	30
+423190	5	28	Pink (6 Suits)	2021-02-02 — 19:53:41 UTC	Bot-Fiora, ChristopheAF, Kernel, MangoPie, sin_faith	31	6	30
 423146	6	25	Rainbow (5 Suits)	2021-02-02 — 19:24:11 UTC	Bot-Fiora, ChristopheAF, Kernel, MangoPie, PMP, sin_faith	14	5	25
 423121	6	0	Rainbow (5 Suits)	2021-02-02 — 19:08:27 UTC	Bot-Fiora, ChristopheAF, Kernel, MangoPie, PMP, sin_faith	15	5	25
-423110	2	0	No Variant	2021-02-02 — 18:51:18 UTC	Kernel, newduke	626	5	25
-423103	2	22	No Variant	2021-02-02 — 18:40:35 UTC	Kernel, newduke	654	5	25
-423096	2	23	No Variant	2021-02-02 — 18:30:24 UTC	Kernel, newduke	677	5	25
-423088	2	0	No Variant	2021-02-02 — 18:22:14 UTC	Kernel, newduke	699	5	25
+423110	2	0	No Variant	2021-02-02 — 18:51:18 UTC	Kernel, newduke	637	5	25
+423103	2	22	No Variant	2021-02-02 — 18:40:35 UTC	Kernel, newduke	664	5	25
+423096	2	23	No Variant	2021-02-02 — 18:30:24 UTC	Kernel, newduke	683	5	25
+423088	2	0	No Variant	2021-02-02 — 18:22:14 UTC	Kernel, newduke	705	5	25
 422192	4	25	Rainbow-Ones & Pink (5 Suits)	2021-02-01 — 17:54:52 UTC	Bot-Fiora, Kernel, Lanvin, rz	6	5	25
-421342	3	14	Dual-Color (3 Suits)	2021-01-31 — 20:51:04 UTC	Kaznad, Kernel, Padouga	30	3	15
-421319	3	18	Rainbow & Prism (4 Suits)	2021-01-31 — 20:30:24 UTC	Kaznad, Kernel, Padouga	14	4	20
+421342	3	14	Dual-Color (3 Suits)	2021-01-31 — 20:51:04 UTC	Kaznad, Kernel, Padouga	32	3	15
+421319	3	18	Rainbow & Prism (4 Suits)	2021-01-31 — 20:30:24 UTC	Kaznad, Kernel, Padouga	15	4	20
 421295	4	0	White-Ones & Prism (5 Suits)	2021-01-31 — 20:04:58 UTC	Kaznad, Kernel, Padouga, XMIL	5	5	25
 421282	3	20	Prism (4 Suits)	2021-01-31 — 19:48:21 UTC	Kernel, Padouga, XMIL	21	4	20
-421271	3	18	Prism (4 Suits)	2021-01-31 — 19:24:42 UTC	Kernel, Padouga, XMIL	45	4	20
+421271	3	18	Prism (4 Suits)	2021-01-31 — 19:24:42 UTC	Kernel, Padouga, XMIL	47	4	20
 421246	6	29	Black & Brown (6 Suits)	2021-01-31 — 18:42:43 UTC	4head, Bot-Fiora, Kernel, Lanvin, MarcLovesDogs, VerySloppyTwo	3	6	30
 421228	6	0	Black & Brown (6 Suits)	2021-01-31 — 18:21:01 UTC	4head, Bot-Fiora, Kernel, Lanvin, MarcLovesDogs, VerySloppyTwo	4	6	30
 420256	3	30	Omni (6 Suits)	2021-01-30 — 22:46:37 UTC	ChristopheAF, Kernel, rz	9	6	30
@@ -182,58 +192,58 @@
 420222	3	0	Omni (6 Suits)	2021-01-30 — 22:12:12 UTC	ChristopheAF, Kernel, rz	13	6	30
 420189	3	29	Omni (6 Suits)	2021-01-30 — 21:54:21 UTC	ChristopheAF, Kernel, rz	22	6	30
 419935	3	0	Dark Omni (5 Suits)	2021-01-30 — 18:31:13 UTC	Kaznad, Kernel, Padouga	22	5	25
-419873	3	30	White (6 Suits)	2021-01-30 — 16:34:38 UTC	Denchulitas, griff77, Kernel	101	6	30
+419873	3	30	White (6 Suits)	2021-01-30 — 16:34:38 UTC	Denchulitas, griff77, Kernel	103	6	30
 419756	3	21	Dark Rainbow (5 Suits)	2021-01-30 — 13:20:22 UTC	ChristopheAF, Kernel, Lanvin	24	5	25
 417845	5	30	Dual-Color & Muddy Rainbow (6 Suits)	2021-01-28 — 20:47:10 UTC	Fireheart, Floriman, Kernel, Lanvin, Valetta6789	1	6	30
 416663	4	24	Rainbow & Brown (5 Suits)	2021-01-27 — 20:13:35 UTC	aquarelle, jack67889, Kernel, Nitrate	6	5	25
 416642	4	0	Rainbow & Brown (5 Suits)	2021-01-27 — 19:52:50 UTC	aquarelle, jack67889, Kernel, Nitrate	9	5	25
 416636	4	0	Rainbow & Brown (5 Suits)	2021-01-27 — 19:45:19 UTC	aquarelle, jack67889, Kernel, Nitrate	17	5	25
 415385	5	22	White (5 Suits)	2021-01-26 — 12:09:12 UTC	Denchulitas, Kernel, Plum, possum, skyblueexo	37	5	25
-414664	4	25	Prism (5 Suits)	2021-01-25 — 18:09:10 UTC	HariKrishnan, Kernel, MangoPie, Pimak	29	5	25
-414637	4	24	Prism (5 Suits)	2021-01-25 — 17:27:20 UTC	HariKrishnan, Kernel, MangoPie, Pimak	47	5	25
+414664	4	25	Prism (5 Suits)	2021-01-25 — 18:09:10 UTC	HariKrishnan, Kernel, MangoPie, Pimak	31	5	25
+414637	4	24	Prism (5 Suits)	2021-01-25 — 17:27:20 UTC	HariKrishnan, Kernel, MangoPie, Pimak	48	5	25
 414622	5	0	White (6 Suits)	2021-01-25 — 16:54:41 UTC	HariKrishnan, Kernel, MangoPie, Pimak, Spieler42	37	6	30
 413876	4	21	Light-Pink-Ones & Gray (6 Suits)	2021-01-24 — 20:35:39 UTC	Kernel, Lanvin, MangoPie, melwen	1	6	30
-413689	3	29	Dual-Color (6 Suits)	2021-01-24 — 18:17:18 UTC	jack67889, Kernel, MarkusKahlsen	43	6	30
-413665	3	0	Dual-Color (6 Suits)	2021-01-24 — 17:55:45 UTC	jack67889, Kernel, MarkusKahlsen	66	6	30
+413689	3	29	Dual-Color (6 Suits)	2021-01-24 — 18:17:18 UTC	jack67889, Kernel, MarkusKahlsen	44	6	30
+413665	3	0	Dual-Color (6 Suits)	2021-01-24 — 17:55:45 UTC	jack67889, Kernel, MarkusKahlsen	67	6	30
 412530	5	0	Dual-Color (5 Suits)	2021-01-23 — 18:14:04 UTC	Fey, Kaznad, Kernel, Padouga, Pimak	7	5	25
 412504	4	0	Dual-Color (5 Suits)	2021-01-23 — 17:39:20 UTC	Fey, Kaznad, Kernel, Pimak	37	5	25
 412308	4	27	Dark Pink (6 Suits)	2021-01-23 — 11:54:50 UTC	Div, Floriman, Kernel, sephiroth	4	6	30
-412262	4	0	Dark Pink (6 Suits)	2021-01-23 — 11:25:23 UTC	Div, Floriman, Kernel, sephiroth	14	6	30
+412262	4	0	Dark Pink (6 Suits)	2021-01-23 — 11:25:23 UTC	Div, Floriman, Kernel, sephiroth	15	6	30
 411759	4	28	Gray (6 Suits)	2021-01-23 — 00:40:37 UTC	dobi, indego, Kernel, Lanvin	29	6	30
 411746	3	0	Black (5 Suits)	2021-01-23 — 00:14:41 UTC	dobi, Kernel, Lanvin	101	5	25
-411726	2	25	Rainbow (5 Suits)	2021-01-22 — 23:52:33 UTC	Kernel, Lanvin	129	5	25
-411709	2	0	Rainbow (5 Suits)	2021-01-22 — 23:39:32 UTC	Kernel, Lanvin	154	5	25
+411726	2	25	Rainbow (5 Suits)	2021-01-22 — 23:52:33 UTC	Kernel, Lanvin	134	5	25
+411709	2	0	Rainbow (5 Suits)	2021-01-22 — 23:39:32 UTC	Kernel, Lanvin	159	5	25
 411692	5	0	White-Ones & Black (6 Suits)	2021-01-22 — 23:24:57 UTC	dobi, Hoodie, Kernel, Lanvin, sephiroth	1	6	30
-411589	3	0	Dark Pink (5 Suits)	2021-01-22 — 21:12:49 UTC	caña, ChristopheAF, Kernel	26	5	25
+411589	3	0	Dark Pink (5 Suits)	2021-01-22 — 21:12:49 UTC	caña, ChristopheAF, Kernel	27	5	25
 411581	3	0	Dark Pink (5 Suits)	2021-01-22 — 21:03:07 UTC	caña, ChristopheAF, Kernel	38	5	25
-411567	3	24	Dark Pink (5 Suits)	2021-01-22 — 20:52:19 UTC	caña, ChristopheAF, Kernel	42	5	25
-411545	3	0	3 Suits	2021-01-22 — 20:26:27 UTC	4head, eljavi, Kernel	115	3	15
+411567	3	24	Dark Pink (5 Suits)	2021-01-22 — 20:52:19 UTC	caña, ChristopheAF, Kernel	44	5	25
+411545	3	0	3 Suits	2021-01-22 — 20:26:27 UTC	4head, eljavi, Kernel	116	3	15
 411489	5	18	Rainbow-Ones (4 Suits)	2021-01-22 — 19:14:52 UTC	ChristopheAF, Kernel, melwen, Nitrate2, Plum	1	4	20
 411464	5	18	Rainbow-Ones (4 Suits)	2021-01-22 — 18:46:59 UTC	ChristopheAF, Kernel, melwen, Nitrate2, Plum	1	4	20
 411433	6	16	Brown-Ones (4 Suits)	2021-01-22 — 17:29:47 UTC	ChristopheAF, HelanaAshryvr, Kernel, Lanvin, nitawa, Nitrate2	1	4	20
-411312	2	0	Dark Prism (5 Suits)	2021-01-22 — 11:59:23 UTC	Kernel, macanek	29	5	25
-411309	2	0	Dark Prism (5 Suits)	2021-01-22 — 11:51:10 UTC	Kernel, macanek	40	5	25
-411305	2	19	Dark Prism (5 Suits)	2021-01-22 — 11:47:14 UTC	Kernel, macanek	38	5	25
-411299	2	0	Dark Prism (5 Suits)	2021-01-22 — 11:31:38 UTC	Kernel, macanek	41	5	25
-411296	2	21	Dark Prism (5 Suits)	2021-01-22 — 11:20:49 UTC	Kernel, macanek	42	5	25
+411312	2	0	Dark Prism (5 Suits)	2021-01-22 — 11:59:23 UTC	Kernel, macanek	31	5	25
+411309	2	0	Dark Prism (5 Suits)	2021-01-22 — 11:51:10 UTC	Kernel, macanek	42	5	25
+411305	2	19	Dark Prism (5 Suits)	2021-01-22 — 11:47:14 UTC	Kernel, macanek	40	5	25
+411299	2	0	Dark Prism (5 Suits)	2021-01-22 — 11:31:38 UTC	Kernel, macanek	43	5	25
+411296	2	21	Dark Prism (5 Suits)	2021-01-22 — 11:20:49 UTC	Kernel, macanek	45	5	25
 409502	5	29	Dark Prism (6 Suits)	2021-01-20 — 11:18:19 UTC	BananaBum, Kernel, Lel0uch, pianoblook, sephiroth	6	6	30
-408611	3	22	No Variant	2021-01-19 — 14:39:24 UTC	Denchulitas, Kernel, PMP	76	5	25
-407686	3	0	No Variant	2021-01-18 — 19:35:08 UTC	CaitlinSmith, Kernel, macanek	93	5	25
-407674	3	25	No Variant	2021-01-18 — 19:18:06 UTC	CaitlinSmith, Kernel, Plum	89	5	25
-407560	3	30	Rainbow & Prism (6 Suits)	2021-01-18 — 17:14:22 UTC	Kernel, micerang, Wittvector	22	6	30
+408611	3	22	No Variant	2021-01-19 — 14:39:24 UTC	Denchulitas, Kernel, PMP	77	5	25
+407686	3	0	No Variant	2021-01-18 — 19:35:08 UTC	CaitlinSmith, Kernel, macanek	95	5	25
+407674	3	25	No Variant	2021-01-18 — 19:18:06 UTC	CaitlinSmith, Kernel, Plum	91	5	25
+407560	3	30	Rainbow & Prism (6 Suits)	2021-01-18 — 17:14:22 UTC	Kernel, micerang, Wittvector	23	6	30
 406648	3	25	Dark Prism (5 Suits)	2021-01-17 — 21:48:52 UTC	dobi, Fey, Kernel	15	5	25
-406623	3	0	Dark Prism (5 Suits)	2021-01-17 — 21:27:37 UTC	dobi, Fey, Kernel	18	5	25
+406623	3	0	Dark Prism (5 Suits)	2021-01-17 — 21:27:37 UTC	dobi, Fey, Kernel	19	5	25
 406619	3	0	Dark Prism (5 Suits)	2021-01-17 — 21:26:42 UTC	dobi, Fey, Kernel	23	5	25
-406269	4	28	Black (6 Suits)	2021-01-17 — 10:02:26 UTC	CaitlinSmith, Kaznad, Kernel, narabio	213	6	30
-406248	2	26	Dark Rainbow (6 Suits)	2021-01-17 — 09:03:18 UTC	Kernel, macanek	95	6	30
-406242	2	0	Dark Rainbow (6 Suits)	2021-01-17 — 08:48:15 UTC	Kernel, macanek	102	6	30
-406235	2	0	Dark Rainbow (6 Suits)	2021-01-17 — 08:36:19 UTC	Kernel, macanek	110	6	30
+406269	4	28	Black (6 Suits)	2021-01-17 — 10:02:26 UTC	CaitlinSmith, Kaznad, Kernel, narabio	215	6	30
+406248	2	26	Dark Rainbow (6 Suits)	2021-01-17 — 09:03:18 UTC	Kernel, macanek	98	6	30
+406242	2	0	Dark Rainbow (6 Suits)	2021-01-17 — 08:48:15 UTC	Kernel, macanek	105	6	30
+406235	2	0	Dark Rainbow (6 Suits)	2021-01-17 — 08:36:19 UTC	Kernel, macanek	113	6	30
 405580	3	21	Cocoa Rainbow (5 Suits)	2021-01-16 — 21:54:54 UTC	Fey, Kernel, newduke	9	5	25
 405276	6	23	White & Prism (5 Suits)	2021-01-16 — 18:14:58 UTC	ADrone, Daryl, dobi, Kernel, Libster, MangoPie	2	5	25
 405260	5	0	Dark Omni (5 Suits)	2021-01-16 — 17:41:09 UTC	ChristopheAF, Kernel, Lanvin, MangoPie, TimeHoodie	6	5	25
-405174	5	21	No Variant	2021-01-16 — 14:22:54 UTC	banjoleb, Kernel, macanek, Nils, Wittvector	109	5	25
+405174	5	21	No Variant	2021-01-16 — 14:22:54 UTC	banjoleb, Kernel, macanek, Nils, Wittvector	112	5	25
 405167	4	0	Rainbow (6 Suits)	2021-01-16 — 13:52:06 UTC	Floriman, Kernel, knaphill, sephiroth	53	6	30
-405158	4	0	Rainbow (6 Suits)	2021-01-16 — 13:32:26 UTC	Floriman, Kernel, knaphill, sephiroth	63	6	30
+405158	4	0	Rainbow (6 Suits)	2021-01-16 — 13:32:26 UTC	Floriman, Kernel, knaphill, sephiroth	64	6	30
 405154	3	0	Deceptive-Ones (5 Suits)	2021-01-16 — 13:16:58 UTC	Floriman, Kernel, knaphill	14	5	25
 405065	4	25	Up or Down (5 Suits)	2021-01-16 — 08:46:56 UTC	bjnh, Fey, Kernel, newduke	16	5	25
 405047	4	30	Reversed (6 Suits)	2021-01-16 — 08:15:26 UTC	Fey, Kernel, newduke, Wittvector	12	6	30
@@ -243,14 +253,14 @@
 404332	5	22	Rainbow-Ones (5 Suits)	2021-01-15 — 21:11:07 UTC	Kernel, Lanvin, Pablo-, robense, TimeHoodie	7	5	25
 404295	6	23	White-Ones (5 Suits)	2021-01-15 — 20:41:06 UTC	bjnh, ChristopheAF, Daryl, Kernel, Lanvin, Pablo-	1	5	25
 404260	4	0	White (6 Suits)	2021-01-15 — 20:12:03 UTC	bjnh, ChristopheAF, Kernel, Lanvin	5	6	30
-399216	3	25	No Variant	2021-01-10 — 15:16:20 UTC	banjoleb, ChristopheAF, Kernel	307	5	25
-399168	3	25	Prism (5 Suits)	2021-01-10 — 12:48:12 UTC	Kernel, louietyj, Pimak	45	5	25
-399159	3	23	Prism (5 Suits)	2021-01-10 — 12:10:15 UTC	Kernel, louietyj, Pimak	80	5	25
-398181	2	14	Rainbow (3 Suits)	2021-01-09 — 22:12:13 UTC	Kernel, Nitrate	127	3	15
-398165	2	15	3 Suits	2021-01-09 — 22:00:09 UTC	Kernel, Nitrate	193	3	15
-398152	2	0	3 Suits	2021-01-09 — 21:55:38 UTC	Kernel, Nitrate	271	3	15
-398137	5	22	No Variant	2021-01-09 — 21:39:07 UTC	Kernel, Nitrate, nwajfromoz, Padouga, rahsosprout	207	5	25
-398092	5	23	No Variant	2021-01-09 — 21:00:39 UTC	Kernel, Nitrate, nwajfromoz, Padouga, rahsosprout	296	5	25
+399216	3	25	No Variant	2021-01-10 — 15:16:20 UTC	banjoleb, ChristopheAF, Kernel	311	5	25
+399168	3	25	Prism (5 Suits)	2021-01-10 — 12:48:12 UTC	Kernel, louietyj, Pimak	47	5	25
+399159	3	23	Prism (5 Suits)	2021-01-10 — 12:10:15 UTC	Kernel, louietyj, Pimak	82	5	25
+398181	2	14	Rainbow (3 Suits)	2021-01-09 — 22:12:13 UTC	Kernel, Nitrate	132	3	15
+398165	2	15	3 Suits	2021-01-09 — 22:00:09 UTC	Kernel, Nitrate	195	3	15
+398152	2	0	3 Suits	2021-01-09 — 21:55:38 UTC	Kernel, Nitrate	273	3	15
+398137	5	22	No Variant	2021-01-09 — 21:39:07 UTC	Kernel, Nitrate, nwajfromoz, Padouga, rahsosprout	208	5	25
+398092	5	23	No Variant	2021-01-09 — 21:00:39 UTC	Kernel, Nitrate, nwajfromoz, Padouga, rahsosprout	302	5	25
 398050	5	0	White-Ones & Prism (6 Suits)	2021-01-09 — 20:28:11 UTC	colton, indego, Kernel, Lanvin, wortel	2	6	30
 398018	5	0	Dual-Color Mix	2021-01-09 — 20:03:17 UTC	colton, indego, Kernel, Lanvin, wortel	7	6	30
 397993	5	0	Brown-Ones & Brown (4 Suits)	2021-01-09 — 19:48:40 UTC	colton, indego, Kernel, Lanvin, wortel	2	4	20
@@ -260,156 +270,156 @@
 397740	5	13	3 Suits	2021-01-09 — 12:03:25 UTC	indego, katian, Kernel, MangoPie, Wittvector	10	3	15
 397738	5	0	3 Suits	2021-01-09 — 11:53:58 UTC	indego, katian, Kernel, MangoPie, Wittvector	16	3	15
 397736	5	12	3 Suits	2021-01-09 — 11:46:17 UTC	Fey, indego, Kernel, MangoPie, Wittvector	19	3	15
-397018	4	24	No Variant	2021-01-08 — 22:14:47 UTC	Dennisdj, indego, Kernel, kevincaseytdk1	308	5	25
-396966	5	23	No Variant	2021-01-08 — 21:31:16 UTC	Dennisdj, indego, Kernel, kevincaseytdk1, voss	120	5	25
-396917	4	0	Rainbow (4 Suits)	2021-01-08 — 20:55:45 UTC	indego, Kernel, robense, voss	45	4	20
-396885	2	23	No Variant	2021-01-08 — 20:26:03 UTC	Kernel, Nexus	2532	5	25
-396875	2	0	No Variant	2021-01-08 — 20:17:07 UTC	Kernel, Nexus	2750	5	25
-396860	2	21	No Variant	2021-01-08 — 20:01:59 UTC	Kernel, Nexus	3507	5	25
+397018	4	24	No Variant	2021-01-08 — 22:14:47 UTC	Dennisdj, indego, Kernel, kevincaseytdk1	311	5	25
+396966	5	23	No Variant	2021-01-08 — 21:31:16 UTC	Dennisdj, indego, Kernel, kevincaseytdk1, voss	122	5	25
+396917	4	0	Rainbow (4 Suits)	2021-01-08 — 20:55:45 UTC	indego, Kernel, robense, voss	46	4	20
+396885	2	23	No Variant	2021-01-08 — 20:26:03 UTC	Kernel, Nexus	2552	5	25
+396875	2	0	No Variant	2021-01-08 — 20:17:07 UTC	Kernel, Nexus	2772	5	25
+396860	2	21	No Variant	2021-01-08 — 20:01:59 UTC	Kernel, Nexus	3537	5	25
 396733	4	24	Dual-Color (5 Suits)	2021-01-08 — 17:37:39 UTC	Kernel, Lanvin, MangoPie, Pimak	14	5	25
 396717	3	0	White & Prism (5 Suits)	2021-01-08 — 17:07:25 UTC	indego, Kernel, Lanvin	17	5	25
-395629	4	0	4 Suits	2021-01-07 — 18:04:43 UTC	ChristopheAF, Kernel, Pimak, Spruelo	101	4	20
-395616	2	19	4 Suits	2021-01-07 — 17:41:52 UTC	Kernel, Pimak	244	4	20
+395629	4	0	4 Suits	2021-01-07 — 18:04:43 UTC	ChristopheAF, Kernel, Pimak, Spruelo	104	4	20
+395616	2	19	4 Suits	2021-01-07 — 17:41:52 UTC	Kernel, Pimak	248	4	20
 391456	3	17	4 Suits	2021-01-03 — 14:54:35 UTC	Kaznad, Kernel, Spruelo	90	4	20
 390377	4	25	No Variant	2021-01-02 — 17:10:44 UTC	Kaznad, Kernel, Pimak, Spruelo	36	5	25
-390349	4	0	No Variant	2021-01-02 — 16:42:27 UTC	Kaznad, Kernel, Pimak, Spruelo	39	5	25
-390334	4	19	No Variant	2021-01-02 — 16:14:53 UTC	Kaznad, Kernel, Pimak, Spruelo	39	5	25
-390284	3	20	Dark Rainbow (5 Suits)	2021-01-02 — 13:40:57 UTC	catula, Kernel, Lanvin	31	5	25
-390278	3	22	Dark Rainbow (5 Suits)	2021-01-02 — 13:07:57 UTC	catula, Kernel, Lanvin	35	5	25
-390266	2	0	Rainbow (5 Suits)	2021-01-02 — 12:38:39 UTC	catula, Kernel	248	5	25
-390218	3	22	No Variant	2021-01-02 — 10:21:59 UTC	IsabeltheCat, Kernel, knaphill	324	5	25
+390349	4	0	No Variant	2021-01-02 — 16:42:27 UTC	Kaznad, Kernel, Pimak, Spruelo	40	5	25
+390334	4	19	No Variant	2021-01-02 — 16:14:53 UTC	Kaznad, Kernel, Pimak, Spruelo	40	5	25
+390284	3	20	Dark Rainbow (5 Suits)	2021-01-02 — 13:40:57 UTC	catula, Kernel, Lanvin	32	5	25
+390278	3	22	Dark Rainbow (5 Suits)	2021-01-02 — 13:07:57 UTC	catula, Kernel, Lanvin	36	5	25
+390266	2	0	Rainbow (5 Suits)	2021-01-02 — 12:38:39 UTC	catula, Kernel	257	5	25
+390218	3	22	No Variant	2021-01-02 — 10:21:59 UTC	IsabeltheCat, Kernel, knaphill	330	5	25
 389410	4	25	No Variant	2021-01-01 — 17:26:46 UTC	Fey, HariKrishnan, Kernel, Sucubis	70	5	25
 389280	3	30	White-Ones (6 Suits)	2021-01-01 — 12:44:15 UTC	Kernel, Lanvin, narabio	3	6	30
-388518	4	0	No Variant	2020-12-31 — 22:30:38 UTC	ChristopheAF, Kernel, Olipod, XMIL	43	5	25
+388518	4	0	No Variant	2020-12-31 — 22:30:38 UTC	ChristopheAF, Kernel, Olipod, XMIL	44	5	25
 388489	3	0	White (5 Suits)	2020-12-31 — 22:00:39 UTC	Kernel, Olipod, XMIL	7	5	25
-388475	3	0	White (5 Suits)	2020-12-31 — 21:52:58 UTC	Kernel, Olipod, XMIL	9	5	25
-388448	3	13	3 Suits	2020-12-31 — 21:23:45 UTC	Kernel, Nitrate, Olipod	144	3	15
-388310	3	24	White (5 Suits)	2020-12-31 — 18:20:17 UTC	Kernel, Olipod, Padouga	126	5	25
+388475	3	0	White (5 Suits)	2020-12-31 — 21:52:58 UTC	Kernel, Olipod, XMIL	10	5	25
+388448	3	13	3 Suits	2020-12-31 — 21:23:45 UTC	Kernel, Nitrate, Olipod	146	3	15
+388310	3	24	White (5 Suits)	2020-12-31 — 18:20:17 UTC	Kernel, Olipod, Padouga	131	5	25
 387287	5	0	Rainbow-Ones (4 Suits)	2020-12-30 — 16:30:11 UTC	jack67889, Kernel, Lanvin, melwen, sephiroth	1	4	20
 387281	5	18	Rainbow-Ones (4 Suits)	2020-12-30 — 16:07:42 UTC	jack67889, Kernel, Lanvin, melwen, sephiroth	1	4	20
 387273	4	22	Rainbow & Prism (5 Suits)	2020-12-30 — 15:46:54 UTC	Kernel, Kyle, Lanvin, sephiroth	9	5	25
-387256	4	0	Rainbow (4 Suits)	2020-12-30 — 15:14:55 UTC	Doge, Kernel, Lanvin, narabio	20	4	20
-387252	4	0	Prism (4 Suits)	2020-12-30 — 15:02:14 UTC	Kernel, Lanvin, macanek, narabio	13	4	20
+387256	4	0	Rainbow (4 Suits)	2020-12-30 — 15:14:55 UTC	Doge, Kernel, Lanvin, narabio	21	4	20
+387252	4	0	Prism (4 Suits)	2020-12-30 — 15:02:14 UTC	Kernel, Lanvin, macanek, narabio	14	4	20
 386576	4	21	No Variant	2020-12-29 — 22:58:58 UTC	Kaznad, Kernel, Olipod, Padouga	41	5	25
 386516	4	0	No Variant	2020-12-29 — 22:06:14 UTC	Alix_Eisenhardt, Kaznad, Kernel, Padouga	38	5	25
-386465	4	24	No Variant	2020-12-29 — 21:20:17 UTC	Alix_Eisenhardt, Kaznad, Kernel, Padouga	40	5	25
+386465	4	24	No Variant	2020-12-29 — 21:20:17 UTC	Alix_Eisenhardt, Kaznad, Kernel, Padouga	41	5	25
 384046	4	23	Rainbow (5 Suits)	2020-12-27 — 19:04:51 UTC	ChristopheAF, Kernel, moeski, wavychips	63	5	25
-384006	4	22	No Variant	2020-12-27 — 18:20:39 UTC	Kaznad, Kernel, Padouga, Spruelo	41	5	25
-383949	3	20	4 Suits	2020-12-27 — 16:52:38 UTC	Kaznad, Kernel, Spruelo	118	4	20
+384006	4	22	No Variant	2020-12-27 — 18:20:39 UTC	Kaznad, Kernel, Padouga, Spruelo	42	5	25
+383949	3	20	4 Suits	2020-12-27 — 16:52:38 UTC	Kaznad, Kernel, Spruelo	120	4	20
 381747	3	30	Pink (6 Suits)	2020-12-25 — 13:32:32 UTC	Kernel, macanek, Wittvector	70	6	30
-381120	3	29	Black (6 Suits)	2020-12-24 — 21:54:45 UTC	eljavi, Kernel, macanek	399	6	30
-381094	3	24	Rainbow (5 Suits)	2020-12-24 — 21:12:53 UTC	Kernel, macanek, wump	56	5	25
+381120	3	29	Black (6 Suits)	2020-12-24 — 21:54:45 UTC	eljavi, Kernel, macanek	407	6	30
+381094	3	24	Rainbow (5 Suits)	2020-12-24 — 21:12:53 UTC	Kernel, macanek, wump	57	5	25
 380896	3	25	No Variant	2020-12-24 — 16:10:20 UTC	Kaznad, Kernel, Padouga	15	5	25
-380885	4	21	No Variant	2020-12-24 — 15:35:45 UTC	Alix_Eisenhardt, Kaznad, Kernel, Lasior	42	5	25
-380073	4	25	No Variant	2020-12-23 — 20:17:31 UTC	ChristopheAF, Daryl, Kernel, macanek	655	5	25
+380885	4	21	No Variant	2020-12-24 — 15:35:45 UTC	Alix_Eisenhardt, Kaznad, Kernel, Lasior	43	5	25
+380073	4	25	No Variant	2020-12-23 — 20:17:31 UTC	ChristopheAF, Daryl, Kernel, macanek	660	5	25
 379990	3	23	No Variant	2020-12-23 — 18:40:20 UTC	Kaznad, Kernel, Spruelo	16	5	25
-378953	3	0	Rainbow (5 Suits)	2020-12-22 — 18:17:58 UTC	Kaznad, Kernel, Padouga	116	5	25
-378938	4	24	Rainbow (5 Suits)	2020-12-22 — 17:48:02 UTC	Alix_Eisenhardt, ChristopheAF, Kernel, Padouga	68	5	25
+378953	3	0	Rainbow (5 Suits)	2020-12-22 — 18:17:58 UTC	Kaznad, Kernel, Padouga	119	5	25
+378938	4	24	Rainbow (5 Suits)	2020-12-22 — 17:48:02 UTC	Alix_Eisenhardt, ChristopheAF, Kernel, Padouga	70	5	25
 378903	3	21	Rainbow (5 Suits)	2020-12-22 — 16:59:42 UTC	Alix_Eisenhardt, Kernel, Padouga	135	5	25
 378862	3	21	Rainbow (5 Suits)	2020-12-22 — 15:37:00 UTC	Kernel, Lanvin, Spruelo	74	5	25
-377867	3	20	No Variant	2020-12-21 — 17:36:10 UTC	Kernel, Padouga, Spruelo	77	5	25
-377850	3	0	No Variant	2020-12-21 — 17:09:49 UTC	Kernel, Padouga, Spruelo	77	5	25
-377846	3	0	No Variant	2020-12-21 — 17:01:49 UTC	Kernel, Padouga, Spruelo	77	5	25
-377819	2	25	Black (6 Suits)	2020-12-21 — 15:57:49 UTC	Kernel, Lanvin	546	6	30
-377812	2	0	Black (6 Suits)	2020-12-21 — 15:39:09 UTC	Kernel, Lanvin	643	6	30
+377867	3	20	No Variant	2020-12-21 — 17:36:10 UTC	Kernel, Padouga, Spruelo	78	5	25
+377850	3	0	No Variant	2020-12-21 — 17:09:49 UTC	Kernel, Padouga, Spruelo	78	5	25
+377846	3	0	No Variant	2020-12-21 — 17:01:49 UTC	Kernel, Padouga, Spruelo	78	5	25
+377819	2	25	Black (6 Suits)	2020-12-21 — 15:57:49 UTC	Kernel, Lanvin	553	6	30
+377812	2	0	Black (6 Suits)	2020-12-21 — 15:39:09 UTC	Kernel, Lanvin	654	6	30
 376839	4	23	Rainbow-Ones (5 Suits)	2020-12-20 — 16:34:03 UTC	Alix_Eisenhardt, Kernel, Padouga, Pimak	12	5	25
 376821	4	25	Rainbow & Prism (5 Suits)	2020-12-20 — 15:57:31 UTC	Alix_Eisenhardt, Kernel, Padouga, Pimak	16	5	25
-376807	3	23	No Variant	2020-12-20 — 15:10:50 UTC	Alix_Eisenhardt, Kernel, Padouga	57	5	25
-376790	2	25	No Variant	2020-12-20 — 14:42:28 UTC	Kernel, Padouga	1376	5	25
-376785	2	0	No Variant	2020-12-20 — 14:31:10 UTC	Kernel, Padouga	1448	5	25
-376780	2	0	No Variant	2020-12-20 — 14:26:37 UTC	Kernel, Padouga	1621	5	25
-376777	2	0	No Variant	2020-12-20 — 14:20:46 UTC	Kernel, Padouga	3051	5	25
-373720	3	25	No Variant	2020-12-17 — 12:28:40 UTC	Kernel, kinkajusrevenge, Lanvin	940	5	25
-373712	3	0	No Variant	2020-12-17 — 11:54:53 UTC	Kernel, kinkajusrevenge, Lanvin	1095	5	25
-370909	3	0	Rainbow (4 Suits)	2020-12-14 — 18:04:29 UTC	Feich59, Kernel, Lanvin	32	4	20
-370075	4	22	No Variant	2020-12-13 — 18:22:43 UTC	Kaznad, Kernel, Olipod, Padouga	43	5	25
+376807	3	23	No Variant	2020-12-20 — 15:10:50 UTC	Alix_Eisenhardt, Kernel, Padouga	58	5	25
+376790	2	25	No Variant	2020-12-20 — 14:42:28 UTC	Kernel, Padouga	1392	5	25
+376785	2	0	No Variant	2020-12-20 — 14:31:10 UTC	Kernel, Padouga	1460	5	25
+376780	2	0	No Variant	2020-12-20 — 14:26:37 UTC	Kernel, Padouga	1637	5	25
+376777	2	0	No Variant	2020-12-20 — 14:20:46 UTC	Kernel, Padouga	3072	5	25
+373720	3	25	No Variant	2020-12-17 — 12:28:40 UTC	Kernel, kinkajusrevenge, Lanvin	952	5	25
+373712	3	0	No Variant	2020-12-17 — 11:54:53 UTC	Kernel, kinkajusrevenge, Lanvin	1102	5	25
+370909	3	0	Rainbow (4 Suits)	2020-12-14 — 18:04:29 UTC	Feich59, Kernel, Lanvin	34	4	20
+370075	4	22	No Variant	2020-12-13 — 18:22:43 UTC	Kaznad, Kernel, Olipod, Padouga	44	5	25
 370054	3	24	No Variant	2020-12-13 — 17:55:47 UTC	Kaznad, Kernel, Padouga	16	5	25
-370014	3	25	Rainbow & Prism (5 Suits)	2020-12-13 — 17:10:53 UTC	Doge, Kernel, zeinab001	16	5	25
+370014	3	25	Rainbow & Prism (5 Suits)	2020-12-13 — 17:10:53 UTC	Doge, Kernel, zeinab001	17	5	25
 369995	3	20	Prism (4 Suits)	2020-12-13 — 16:27:53 UTC	Kernel, Livia, Plum	6	4	20
 369981	3	0	Prism (4 Suits)	2020-12-13 — 16:01:35 UTC	Kernel, Livia, Plum	11	4	20
-368767	5	0	White (5 Suits)	2020-12-12 — 09:13:33 UTC	Animex52, catula, eljavi, Kernel, methmatics	21	5	25
-368104	5	26	Rainbow (6 Suits)	2020-12-11 — 22:14:36 UTC	crixy, esakach, Kernel, ricardodd, roonsta820	133	6	30
-368061	3	20	4 Suits	2020-12-11 — 21:43:14 UTC	esakach, Kernel, ricardodd	59	4	20
-368031	4	0	6 Suits	2020-12-11 — 21:19:03 UTC	esakach, Kernel, Lanvin, ricardodd	120	6	30
+368767	5	0	White (5 Suits)	2020-12-12 — 09:13:33 UTC	Animex52, catula, eljavi, Kernel, methmatics	22	5	25
+368104	5	26	Rainbow (6 Suits)	2020-12-11 — 22:14:36 UTC	crixy, esakach, Kernel, ricardodd, roonsta820	134	6	30
+368061	3	20	4 Suits	2020-12-11 — 21:43:14 UTC	esakach, Kernel, ricardodd	60	4	20
+368031	4	0	6 Suits	2020-12-11 — 21:19:03 UTC	esakach, Kernel, Lanvin, ricardodd	122	6	30
 368009	4	23	No Variant	2020-12-11 — 20:57:40 UTC	Kernel, Lanvin, ricardodd, sephiroth	74	5	25
-366978	5	21	No Variant	2020-12-10 — 20:23:21 UTC	BillaVGC, ChristopheAF, frosty104, Kernel, Lanvin	658	5	25
-366772	3	0	Rainbow (5 Suits)	2020-12-10 — 13:01:01 UTC	Kernel, Lanvin, sin_faith	84	5	25
+366978	5	21	No Variant	2020-12-10 — 20:23:21 UTC	BillaVGC, ChristopheAF, frosty104, Kernel, Lanvin	667	5	25
+366772	3	0	Rainbow (5 Suits)	2020-12-10 — 13:01:01 UTC	Kernel, Lanvin, sin_faith	87	5	25
 366766	6	0	Rainbow (5 Suits)	2020-12-10 — 12:38:26 UTC	frosty104, GemmyBean, Kernel, Lel0uch, macanek, sin_faith	8	5	25
-364665	4	22	No Variant	2020-12-08 — 17:49:42 UTC	Carunty, ChristopheAF, Kernel, ksfortson	501	5	25
-362503	3	21	Black (5 Suits)	2020-12-06 — 15:49:10 UTC	ChristopheAF, Kaznad, Kernel	51	5	25
-362484	3	0	No Variant	2020-12-06 — 15:18:44 UTC	Kernel, Padouga, Spruelo	106	5	25
-362469	3	0	No Variant	2020-12-06 — 14:53:45 UTC	Kernel, Padouga, Spruelo	111	5	25
-362464	3	0	No Variant	2020-12-06 — 14:41:49 UTC	Kernel, Padouga, Spruelo	134	5	25
-361766	4	24	No Variant	2020-12-05 — 21:14:52 UTC	Alix_Eisenhardt, Kaznad, Kernel, Padouga	43	5	25
-361733	4	25	No Variant	2020-12-05 — 20:46:36 UTC	Alix_Eisenhardt, Kaznad, Kernel, Padouga	45	5	25
-361710	4	0	No Variant	2020-12-05 — 20:30:46 UTC	Alix_Eisenhardt, Kaznad, Kernel, Padouga	44	5	25
-361701	4	0	No Variant	2020-12-05 — 20:25:59 UTC	Alix_Eisenhardt, Kaznad, Kernel, Padouga	47	5	25
+364665	4	22	No Variant	2020-12-08 — 17:49:42 UTC	Carunty, ChristopheAF, Kernel, ksfortson	507	5	25
+362503	3	21	Black (5 Suits)	2020-12-06 — 15:49:10 UTC	ChristopheAF, Kaznad, Kernel	52	5	25
+362484	3	0	No Variant	2020-12-06 — 15:18:44 UTC	Kernel, Padouga, Spruelo	111	5	25
+362469	3	0	No Variant	2020-12-06 — 14:53:45 UTC	Kernel, Padouga, Spruelo	116	5	25
+362464	3	0	No Variant	2020-12-06 — 14:41:49 UTC	Kernel, Padouga, Spruelo	140	5	25
+361766	4	24	No Variant	2020-12-05 — 21:14:52 UTC	Alix_Eisenhardt, Kaznad, Kernel, Padouga	44	5	25
+361733	4	25	No Variant	2020-12-05 — 20:46:36 UTC	Alix_Eisenhardt, Kaznad, Kernel, Padouga	46	5	25
+361710	4	0	No Variant	2020-12-05 — 20:30:46 UTC	Alix_Eisenhardt, Kaznad, Kernel, Padouga	45	5	25
+361701	4	0	No Variant	2020-12-05 — 20:25:59 UTC	Alix_Eisenhardt, Kaznad, Kernel, Padouga	48	5	25
 361685	3	23	No Variant	2020-12-05 — 20:10:18 UTC	Kaznad, Kernel, Padouga	15	5	25
-360769	4	25	No Variant	2020-12-04 — 21:11:47 UTC	Alix_Eisenhardt, Kaznad, Kernel, Olipod	48	5	25
-360562	3	0	No Variant	2020-12-04 — 16:47:17 UTC	GemmyBean, Kernel, Onen	4221	5	25
+360769	4	25	No Variant	2020-12-04 — 21:11:47 UTC	Alix_Eisenhardt, Kaznad, Kernel, Olipod	49	5	25
+360562	3	0	No Variant	2020-12-04 — 16:47:17 UTC	GemmyBean, Kernel, Onen	4250	5	25
 355888	4	24	No Variant	2020-11-28 — 15:16:37 UTC	Alix_Eisenhardt, Kaznad, Kernel, Padouga	47	5	25
 355884	4	0	No Variant	2020-11-28 — 14:49:48 UTC	Alix_Eisenhardt, Kaznad, Kernel, Padouga	51	5	25
 355879	4	25	No Variant	2020-11-28 — 14:17:59 UTC	Alix_Eisenhardt, Kaznad, Kernel, Padouga	52	5	25
-355394	3	22	No Variant	2020-11-27 — 22:36:39 UTC	Alix_Eisenhardt, Kernel, Lasior	194	5	25
-355374	3	0	No Variant	2020-11-27 — 22:16:41 UTC	Alix_Eisenhardt, Kernel, Lasior	199	5	25
-355345	4	24	No Variant	2020-11-27 — 21:35:57 UTC	Alix_Eisenhardt, Kaznad, Kernel, Spruelo	52	5	25
-350913	3	25	No Variant	2020-11-22 — 19:15:26 UTC	Kaznad, Kernel, Olipod	17	5	25
-350886	3	23	No Variant	2020-11-22 — 18:44:02 UTC	Kaznad, Kernel, Olipod	18	5	25
-350722	3	25	No Variant	2020-11-22 — 13:45:30 UTC	Alix_Eisenhardt, Kaznad, Kernel	19	5	25
-350709	3	25	No Variant	2020-11-22 — 13:30:39 UTC	Alix_Eisenhardt, Kaznad, Kernel	19	5	25
-350087	5	0	No Variant	2020-11-21 — 23:10:40 UTC	Kaznad, Kernel, Marrine, Padouga, Spruelo	143	5	25
+355394	3	22	No Variant	2020-11-27 — 22:36:39 UTC	Alix_Eisenhardt, Kernel, Lasior	198	5	25
+355374	3	0	No Variant	2020-11-27 — 22:16:41 UTC	Alix_Eisenhardt, Kernel, Lasior	202	5	25
+355345	4	24	No Variant	2020-11-27 — 21:35:57 UTC	Alix_Eisenhardt, Kaznad, Kernel, Spruelo	54	5	25
+350913	3	25	No Variant	2020-11-22 — 19:15:26 UTC	Kaznad, Kernel, Olipod	18	5	25
+350886	3	23	No Variant	2020-11-22 — 18:44:02 UTC	Kaznad, Kernel, Olipod	19	5	25
+350722	3	25	No Variant	2020-11-22 — 13:45:30 UTC	Alix_Eisenhardt, Kaznad, Kernel	20	5	25
+350709	3	25	No Variant	2020-11-22 — 13:30:39 UTC	Alix_Eisenhardt, Kaznad, Kernel	20	5	25
+350087	5	0	No Variant	2020-11-21 — 23:10:40 UTC	Kaznad, Kernel, Marrine, Padouga, Spruelo	145	5	25
 349676	3	25	No Variant	2020-11-21 — 14:03:47 UTC	Kaznad, Kernel, Padouga	23	5	25
 349670	3	25	No Variant	2020-11-21 — 13:31:28 UTC	Kaznad, Kernel, Padouga	20	5	25
 348993	3	25	No Variant	2020-11-20 — 22:53:39 UTC	Kaznad, Kernel, Padouga	22	5	25
 348971	3	24	No Variant	2020-11-20 — 22:28:04 UTC	Kaznad, Kernel, Padouga	23	5	25
-348812	4	0	No Variant	2020-11-20 — 20:09:10 UTC	Alix_Eisenhardt, Kaznad, Kernel, Lasior	55	5	25
-348780	2	0	No Variant	2020-11-20 — 19:31:32 UTC	ADrone, Kernel	1532	5	25
-348715	3	25	No Variant	2020-11-20 — 17:40:17 UTC	Kernel, Onen, superbipbip	41	5	25
-348708	3	0	No Variant	2020-11-20 — 17:27:34 UTC	Kernel, Onen, superbipbip	42	5	25
-347235	4	30	6 Suits	2020-11-18 — 20:24:42 UTC	colton, hailey, Kernel, wump	354	6	30
-344323	5	25	No Variant	2020-11-15 — 20:47:47 UTC	Alix_Eisenhardt, Kernel, Mog, Olipod, Spruelo	262	5	25
+348812	4	0	No Variant	2020-11-20 — 20:09:10 UTC	Alix_Eisenhardt, Kaznad, Kernel, Lasior	56	5	25
+348780	2	0	No Variant	2020-11-20 — 19:31:32 UTC	ADrone, Kernel	1547	5	25
+348715	3	25	No Variant	2020-11-20 — 17:40:17 UTC	Kernel, Onen, superbipbip	42	5	25
+348708	3	0	No Variant	2020-11-20 — 17:27:34 UTC	Kernel, Onen, superbipbip	45	5	25
+347235	4	30	6 Suits	2020-11-18 — 20:24:42 UTC	colton, hailey, Kernel, wump	359	6	30
+344323	5	25	No Variant	2020-11-15 — 20:47:47 UTC	Alix_Eisenhardt, Kernel, Mog, Olipod, Spruelo	265	5	25
 344182	4	23	No Variant	2020-11-15 — 16:20:28 UTC	Alix_Eisenhardt, Kaznad, Kernel, Spruelo	57	5	25
 344168	4	24	No Variant	2020-11-15 — 15:34:53 UTC	Kaznad, Kernel, Padouga, Spruelo	61	5	25
 342577	3	25	No Variant	2020-11-13 — 22:30:43 UTC	Kaznad, Kernel, Spruelo	26	5	25
 342563	3	24	No Variant	2020-11-13 — 22:10:59 UTC	Kaznad, Kernel, Spruelo	25	5	25
-342527	5	18	No Variant	2020-11-13 — 21:22:28 UTC	Akentys, Clochette, Hopee, Kernel, Padouga	383	5	25
-341077	5	21	No Variant	2020-11-11 — 21:03:50 UTC	Alix_Eisenhardt, Kaznad, Kernel, Mog, Olipod	163	5	25
-340304	5	23	No Variant	2020-11-10 — 22:42:32 UTC	Alix_Eisenhardt, Kernel, Lasior, Padouga, Spruelo	176	5	25
-340287	4	0	No Variant	2020-11-10 — 22:04:50 UTC	Kernel, Lasior, Padouga, Spruelo	156	5	25
-338423	5	24	No Variant	2020-11-08 — 17:25:32 UTC	Alix_Eisenhardt, Kaznad, Kernel, Olipod, Spruelo	195	5	25
-338386	3	23	No Variant	2020-11-08 — 16:41:02 UTC	Kaznad, Kernel, Olipod	28	5	25
-337552	3	25	No Variant	2020-11-07 — 15:20:57 UTC	Kaznad, Kernel, Spruelo	28	5	25
-337540	3	25	No Variant	2020-11-07 — 14:46:28 UTC	Kaznad, Kernel, Spruelo	28	5	25
-337532	3	0	No Variant	2020-11-07 — 14:23:29 UTC	Kaznad, Kernel, Spruelo	26	5	25
-332774	3	0	No Variant	2020-11-01 — 14:48:09 UTC	Alix_Eisenhardt, Kaznad, Kernel	27	5	25
-332772	3	25	No Variant	2020-11-01 — 14:39:01 UTC	Alix_Eisenhardt, Kaznad, Kernel	28	5	25
-332758	3	23	No Variant	2020-11-01 — 14:13:32 UTC	Alix_Eisenhardt, Kaznad, Kernel	28	5	25
-332083	3	25	No Variant	2020-10-31 — 15:20:30 UTC	Alix_Eisenhardt, Kaznad, Kernel	30	5	25
-332071	3	0	No Variant	2020-10-31 — 14:49:57 UTC	Alix_Eisenhardt, Kaznad, Kernel	30	5	25
-329947	4	24	No Variant	2020-10-28 — 19:02:47 UTC	kakugen, Kaznad, Kernel, Padouga	68	5	25
-329920	3	21	No Variant	2020-10-28 — 18:29:27 UTC	Kaznad, Kernel, Padouga	32	5	25
-329897	3	25	No Variant	2020-10-28 — 17:48:45 UTC	Kaznad, Kernel, Padouga	34	5	25
-329186	3	25	No Variant	2020-10-27 — 13:14:17 UTC	kakugen, Kaznad, Kernel	35	5	25
-329181	3	25	No Variant	2020-10-27 — 12:40:48 UTC	kakugen, Kaznad, Kernel	35	5	25
-327345	3	25	No Variant	2020-10-24 — 16:21:04 UTC	Kaznad, Kernel, Spruelo	37	5	25
-327338	3	0	No Variant	2020-10-24 — 15:52:16 UTC	Kaznad, Kernel, Spruelo	40	5	25
-323806	3	25	No Variant	2020-10-19 — 18:25:09 UTC	Kaznad, Kernel, Padouga	40	5	25
-323790	3	0	No Variant	2020-10-19 — 18:09:09 UTC	Kaznad, Kernel, Padouga	40	5	25
-323783	3	22	No Variant	2020-10-19 — 17:59:04 UTC	Kaznad, Kernel, Padouga	40	5	25
+342527	5	18	No Variant	2020-11-13 — 21:22:28 UTC	Akentys, Clochette, Hopee, Kernel, Padouga	384	5	25
+341077	5	21	No Variant	2020-11-11 — 21:03:50 UTC	Alix_Eisenhardt, Kaznad, Kernel, Mog, Olipod	166	5	25
+340304	5	23	No Variant	2020-11-10 — 22:42:32 UTC	Alix_Eisenhardt, Kernel, Lasior, Padouga, Spruelo	178	5	25
+340287	4	0	No Variant	2020-11-10 — 22:04:50 UTC	Kernel, Lasior, Padouga, Spruelo	157	5	25
+338423	5	24	No Variant	2020-11-08 — 17:25:32 UTC	Alix_Eisenhardt, Kaznad, Kernel, Olipod, Spruelo	198	5	25
+338386	3	23	No Variant	2020-11-08 — 16:41:02 UTC	Kaznad, Kernel, Olipod	30	5	25
+337552	3	25	No Variant	2020-11-07 — 15:20:57 UTC	Kaznad, Kernel, Spruelo	30	5	25
+337540	3	25	No Variant	2020-11-07 — 14:46:28 UTC	Kaznad, Kernel, Spruelo	30	5	25
+337532	3	0	No Variant	2020-11-07 — 14:23:29 UTC	Kaznad, Kernel, Spruelo	28	5	25
+332774	3	0	No Variant	2020-11-01 — 14:48:09 UTC	Alix_Eisenhardt, Kaznad, Kernel	29	5	25
+332772	3	25	No Variant	2020-11-01 — 14:39:01 UTC	Alix_Eisenhardt, Kaznad, Kernel	30	5	25
+332758	3	23	No Variant	2020-11-01 — 14:13:32 UTC	Alix_Eisenhardt, Kaznad, Kernel	30	5	25
+332083	3	25	No Variant	2020-10-31 — 15:20:30 UTC	Alix_Eisenhardt, Kaznad, Kernel	32	5	25
+332071	3	0	No Variant	2020-10-31 — 14:49:57 UTC	Alix_Eisenhardt, Kaznad, Kernel	33	5	25
+329947	4	24	No Variant	2020-10-28 — 19:02:47 UTC	kakugen, Kaznad, Kernel, Padouga	69	5	25
+329920	3	21	No Variant	2020-10-28 — 18:29:27 UTC	Kaznad, Kernel, Padouga	33	5	25
+329897	3	25	No Variant	2020-10-28 — 17:48:45 UTC	Kaznad, Kernel, Padouga	35	5	25
+329186	3	25	No Variant	2020-10-27 — 13:14:17 UTC	kakugen, Kaznad, Kernel	36	5	25
+329181	3	25	No Variant	2020-10-27 — 12:40:48 UTC	kakugen, Kaznad, Kernel	36	5	25
+327345	3	25	No Variant	2020-10-24 — 16:21:04 UTC	Kaznad, Kernel, Spruelo	39	5	25
+327338	3	0	No Variant	2020-10-24 — 15:52:16 UTC	Kaznad, Kernel, Spruelo	42	5	25
+323806	3	25	No Variant	2020-10-19 — 18:25:09 UTC	Kaznad, Kernel, Padouga	41	5	25
+323790	3	0	No Variant	2020-10-19 — 18:09:09 UTC	Kaznad, Kernel, Padouga	41	5	25
+323783	3	22	No Variant	2020-10-19 — 17:59:04 UTC	Kaznad, Kernel, Padouga	41	5	25
 311303	4	25	No Variant	2020-10-02 — 21:58:40 UTC	Kaznad, Kernel, Padouga, Spruelo	71	5	25
-311277	3	0	No Variant	2020-10-02 — 21:28:02 UTC	Kaznad, Kernel, Padouga	40	5	25
-311276	3	19	No Variant	2020-10-02 — 21:27:44 UTC	Kaznad, Kernel, Padouga	39	5	25
-285371	4	24	No Variant	2020-08-31 — 14:05:54 UTC	Alix_Eisenhardt, Kaznad, Kernel, Lasior	74	5	25
-284695	4	22	No Variant	2020-08-30 — 15:32:52 UTC	kakugen, Kernel, Padouga, Viky	419	5	25
-283730	4	23	No Variant	2020-08-29 — 13:38:10 UTC	Kaznad, Kernel, Padouga, Spruelo	78	5	25
-282756	3	0	No Variant	2020-08-28 — 18:09:43 UTC	Kaznad, Kernel, Padouga	46	5	25
-282740	3	24	No Variant	2020-08-28 — 17:45:54 UTC	Kaznad, Kernel, Padouga	47	5	25
-281870	4	22	No Variant	2020-08-27 — 18:33:21 UTC	Kaznad, Kernel, Olipod, Spruelo	82	5	25
-281860	4	0	No Variant	2020-08-27 — 18:10:01 UTC	Kaznad, Kernel, Olipod, Spruelo	79	5	25
-279404	3	20	No Variant	2020-08-24 — 17:36:48 UTC	Kaznad, Kernel, Spruelo	48	5	25
-279373	3	25	No Variant	2020-08-24 — 16:28:28 UTC	Kaznad, Kernel, Spruelo	49	5	25
-279348	3	0	No Variant	2020-08-24 — 15:58:39 UTC	Kaznad, Kernel, Spruelo	49	5	25
-269794	6	21	No Variant	2020-08-13 — 16:12:41 UTC	Alix_Eisenhardt, Kaznad, Kernel, Monthaonos, Padouga, Spruelo	478	5	25
-267359	3	24	No Variant	2020-08-10 — 18:27:57 UTC	Kaznad, Kernel, Olipod	56	5	25
-267317	3	19	No Variant	2020-08-10 — 17:34:55 UTC	Kaznad, Kernel, Olipod	57	5	25
-190501	5	24	No Variant	2020-06-01 — 17:10:07 UTC	Alix_Eisenhardt, Kernel, Le_Codex, Monthaonos, Padouga	541	5	25
+311277	3	0	No Variant	2020-10-02 — 21:28:02 UTC	Kaznad, Kernel, Padouga	42	5	25
+311276	3	19	No Variant	2020-10-02 — 21:27:44 UTC	Kaznad, Kernel, Padouga	41	5	25
+285371	4	24	No Variant	2020-08-31 — 14:05:54 UTC	Alix_Eisenhardt, Kaznad, Kernel, Lasior	75	5	25
+284695	4	22	No Variant	2020-08-30 — 15:32:52 UTC	kakugen, Kernel, Padouga, Viky	423	5	25
+283730	4	23	No Variant	2020-08-29 — 13:38:10 UTC	Kaznad, Kernel, Padouga, Spruelo	79	5	25
+282756	3	0	No Variant	2020-08-28 — 18:09:43 UTC	Kaznad, Kernel, Padouga	48	5	25
+282740	3	24	No Variant	2020-08-28 — 17:45:54 UTC	Kaznad, Kernel, Padouga	48	5	25
+281870	4	22	No Variant	2020-08-27 — 18:33:21 UTC	Kaznad, Kernel, Olipod, Spruelo	84	5	25
+281860	4	0	No Variant	2020-08-27 — 18:10:01 UTC	Kaznad, Kernel, Olipod, Spruelo	81	5	25
+279404	3	20	No Variant	2020-08-24 — 17:36:48 UTC	Kaznad, Kernel, Spruelo	49	5	25
+279373	3	25	No Variant	2020-08-24 — 16:28:28 UTC	Kaznad, Kernel, Spruelo	51	5	25
+279348	3	0	No Variant	2020-08-24 — 15:58:39 UTC	Kaznad, Kernel, Spruelo	51	5	25
+269794	6	21	No Variant	2020-08-13 — 16:12:41 UTC	Alix_Eisenhardt, Kaznad, Kernel, Monthaonos, Padouga, Spruelo	483	5	25
+267359	3	24	No Variant	2020-08-10 — 18:27:57 UTC	Kaznad, Kernel, Olipod	57	5	25
+267317	3	19	No Variant	2020-08-10 — 17:34:55 UTC	Kaznad, Kernel, Olipod	58	5	25
+190501	5	24	No Variant	2020-06-01 — 17:10:07 UTC	Alix_Eisenhardt, Kernel, Le_Codex, Monthaonos, Padouga	546	5	25

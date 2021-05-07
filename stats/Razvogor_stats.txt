@@ -3,95 +3,95 @@
 340491	3	0	Dark Prism Reversed (6 Suits)	2020-11-11 — 02:59:59 UTC	honzas, Razvogor, Zamiel	1	6	30
 340471	3	0	Dark Prism Reversed (6 Suits)	2020-11-11 — 02:40:56 UTC	honzas, Razvogor, Zamiel	3	6	30
 340453	5	0	Dark Prism Reversed (6 Suits)	2020-11-11 — 02:25:20 UTC	Dr_Kakashi, honzas, kimbifille, Razvogor, Zamiel	2	6	30
-292952	3	25	No Variant	2020-09-09 — 01:50:53 UTC	Kyle, Razvogor, Rubix	49	5	25
-292923	3	0	No Variant	2020-09-09 — 01:16:40 UTC	Kyle, Razvogor, Rubix	48	5	25
-292900	5	0	No Variant	2020-09-09 — 00:52:57 UTC	Dr_Kakashi, kimbifille, Razvogor, Rubix, sephiroth	11	5	25
+292952	3	25	No Variant	2020-09-09 — 01:50:53 UTC	Kyle, Razvogor, Rubix	51	5	25
+292923	3	0	No Variant	2020-09-09 — 01:16:40 UTC	Kyle, Razvogor, Rubix	49	5	25
+292900	5	0	No Variant	2020-09-09 — 00:52:57 UTC	Dr_Kakashi, kimbifille, Razvogor, Rubix, sephiroth	12	5	25
 292881	4	22	No Variant	2020-09-09 — 00:19:02 UTC	Dr_Kakashi, kimbifille, Razvogor, Rubix	13	5	25
-279836	3	0	No Variant	2020-08-25 — 01:57:56 UTC	plads, Razvogor, urumay	49	5	25
-278173	4	0	No Variant	2020-08-23 — 05:14:08 UTC	plads, Razvogor, urumay, whiteiden97	89	5	25
-278129	4	0	No Variant	2020-08-23 — 04:42:29 UTC	plads, Razvogor, urumay, whiteiden97	95	5	25
-278104	4	0	No Variant	2020-08-23 — 04:23:50 UTC	plads, Razvogor, urumay, whiteiden97	95	5	25
-278061	3	22	No Variant	2020-08-23 — 03:47:57 UTC	Razvogor, urumay, whiteiden97	53	5	25
-278035	3	0	No Variant	2020-08-23 — 03:21:46 UTC	Razvogor, urumay, whiteiden97	51	5	25
-278020	3	0	No Variant	2020-08-23 — 02:58:48 UTC	plads, Razvogor, urumay	53	5	25
-278014	3	0	No Variant	2020-08-23 — 02:52:02 UTC	plads, Razvogor, urumay	50	5	25
-265862	3	0	No Variant	2020-08-09 — 03:16:27 UTC	plads, Razvogor, urumay	53	5	25
-265838	3	21	No Variant	2020-08-09 — 02:41:47 UTC	plads, Razvogor, urumay	56	5	25
-265807	4	0	No Variant	2020-08-09 — 01:54:46 UTC	plads, Razvogor, urumay, whiteiden97	103	5	25
-265787	3	0	No Variant	2020-08-09 — 01:32:43 UTC	plads, Razvogor, urumay	57	5	25
-265747	3	25	No Variant	2020-08-09 — 00:58:50 UTC	plads, Razvogor, urumay	55	5	25
+279836	3	0	No Variant	2020-08-25 — 01:57:56 UTC	plads, Razvogor, urumay	51	5	25
+278173	4	0	No Variant	2020-08-23 — 05:14:08 UTC	plads, Razvogor, urumay, whiteiden97	91	5	25
+278129	4	0	No Variant	2020-08-23 — 04:42:29 UTC	plads, Razvogor, urumay, whiteiden97	98	5	25
+278104	4	0	No Variant	2020-08-23 — 04:23:50 UTC	plads, Razvogor, urumay, whiteiden97	98	5	25
+278061	3	22	No Variant	2020-08-23 — 03:47:57 UTC	Razvogor, urumay, whiteiden97	54	5	25
+278035	3	0	No Variant	2020-08-23 — 03:21:46 UTC	Razvogor, urumay, whiteiden97	53	5	25
+278020	3	0	No Variant	2020-08-23 — 02:58:48 UTC	plads, Razvogor, urumay	54	5	25
+278014	3	0	No Variant	2020-08-23 — 02:52:02 UTC	plads, Razvogor, urumay	51	5	25
+265862	3	0	No Variant	2020-08-09 — 03:16:27 UTC	plads, Razvogor, urumay	54	5	25
+265838	3	21	No Variant	2020-08-09 — 02:41:47 UTC	plads, Razvogor, urumay	57	5	25
+265807	4	0	No Variant	2020-08-09 — 01:54:46 UTC	plads, Razvogor, urumay, whiteiden97	105	5	25
+265787	3	0	No Variant	2020-08-09 — 01:32:43 UTC	plads, Razvogor, urumay	58	5	25
+265747	3	25	No Variant	2020-08-09 — 00:58:50 UTC	plads, Razvogor, urumay	57	5	25
 264572	3	23	Dual-Color (5 Suits)	2020-08-07 — 23:44:59 UTC	axe0y, Razvogor, ZeNertox	9	5	25
 264550	3	0	Dual-Color (5 Suits)	2020-08-07 — 23:09:48 UTC	axe0y, Razvogor, ZeNertox	31	5	25
-264531	3	25	No Variant	2020-08-07 — 22:49:13 UTC	axe0y, Razvogor, ZeNertox	57	5	25
-252454	4	25	No Variant	2020-07-27 — 01:57:59 UTC	plads, Razvogor, urumay, ZeNertox	88	5	25
-252423	4	23	No Variant	2020-07-27 — 01:31:36 UTC	plads, Razvogor, urumay, ZeNertox	90	5	25
-252407	3	25	No Variant	2020-07-27 — 01:04:07 UTC	plads, Razvogor, urumay	58	5	25
-251186	3	0	No Variant	2020-07-26 — 00:15:02 UTC	Pascool, Razvogor, TopLeftBusta	57	5	25
-251182	3	0	No Variant	2020-07-26 — 00:14:09 UTC	Pascool, Razvogor, TopLeftBusta	57	5	25
-251173	3	0	No Variant	2020-07-26 — 00:11:04 UTC	Pascool, Razvogor, TopLeftBusta	59	5	25
-251154	3	0	No Variant	2020-07-25 — 23:50:50 UTC	Pascool, Razvogor, TopLeftBusta	60	5	25
-236989	4	25	No Variant	2020-07-12 — 02:50:22 UTC	Razvogor, urumay, whiteiden97, zijun	111	5	25
+264531	3	25	No Variant	2020-08-07 — 22:49:13 UTC	axe0y, Razvogor, ZeNertox	58	5	25
+252454	4	25	No Variant	2020-07-27 — 01:57:59 UTC	plads, Razvogor, urumay, ZeNertox	90	5	25
+252423	4	23	No Variant	2020-07-27 — 01:31:36 UTC	plads, Razvogor, urumay, ZeNertox	92	5	25
+252407	3	25	No Variant	2020-07-27 — 01:04:07 UTC	plads, Razvogor, urumay	59	5	25
+251186	3	0	No Variant	2020-07-26 — 00:15:02 UTC	Pascool, Razvogor, TopLeftBusta	58	5	25
+251182	3	0	No Variant	2020-07-26 — 00:14:09 UTC	Pascool, Razvogor, TopLeftBusta	58	5	25
+251173	3	0	No Variant	2020-07-26 — 00:11:04 UTC	Pascool, Razvogor, TopLeftBusta	60	5	25
+251154	3	0	No Variant	2020-07-25 — 23:50:50 UTC	Pascool, Razvogor, TopLeftBusta	61	5	25
+236989	4	25	No Variant	2020-07-12 — 02:50:22 UTC	Razvogor, urumay, whiteiden97, zijun	112	5	25
 236940	4	0	No Variant	2020-07-12 — 02:11:22 UTC	Razvogor, urumay, whiteiden97, zijun	130	5	25
-236882	3	25	No Variant	2020-07-12 — 01:34:56 UTC	Razvogor, urumay, zijun	61	5	25
-236860	3	0	No Variant	2020-07-12 — 01:21:40 UTC	Razvogor, urumay, zijun	63	5	25
-236825	3	24	No Variant	2020-07-12 — 01:01:57 UTC	Razvogor, urumay, zijun	65	5	25
-235737	3	0	No Variant	2020-07-11 — 01:21:53 UTC	Razvogor, whiteiden97, zijun	62	5	25
+236882	3	25	No Variant	2020-07-12 — 01:34:56 UTC	Razvogor, urumay, zijun	62	5	25
+236860	3	0	No Variant	2020-07-12 — 01:21:40 UTC	Razvogor, urumay, zijun	64	5	25
+236825	3	24	No Variant	2020-07-12 — 01:01:57 UTC	Razvogor, urumay, zijun	67	5	25
+235737	3	0	No Variant	2020-07-11 — 01:21:53 UTC	Razvogor, whiteiden97, zijun	65	5	25
 235725	4	0	No Variant	2020-07-11 — 01:12:12 UTC	GoodPlAsTAkTime, Razvogor, whiteiden97, zijun	116	5	25
-235702	4	0	No Variant	2020-07-11 — 00:51:54 UTC	GoodPlAsTAkTime, Razvogor, whiteiden97, zijun	117	5	25
-235658	4	0	No Variant	2020-07-11 — 00:15:18 UTC	GoodPlAsTAkTime, Razvogor, whiteiden97, zijun	131	5	25
-235620	4	0	No Variant	2020-07-10 — 23:43:15 UTC	GoodPlAsTAkTime, Razvogor, whiteiden97, zijun	156	5	25
-227570	3	0	No Variant	2020-07-03 — 03:30:55 UTC	GoodPlAsTAkTime, Razvogor, urumay	66	5	25
-227539	4	0	No Variant	2020-07-03 — 02:59:31 UTC	GoodPlAsTAkTime, Razvogor, urumay, zijun	158	5	25
-227515	4	0	No Variant	2020-07-03 — 02:38:17 UTC	GoodPlAsTAkTime, Razvogor, urumay, zijun	162	5	25
-227469	3	0	No Variant	2020-07-03 — 02:11:49 UTC	GoodPlAsTAkTime, Razvogor, urumay	63	5	25
-207118	3	25	No Variant	2020-06-15 — 02:55:12 UTC	GoodPlAsTAkTime, Razvogor, urumay	69	5	25
-207057	3	0	No Variant	2020-06-15 — 02:19:44 UTC	GoodPlAsTAkTime, Razvogor, urumay	68	5	25
-206990	3	24	No Variant	2020-06-15 — 01:43:49 UTC	GoodPlAsTAkTime, Razvogor, urumay	71	5	25
-191154	4	25	No Variant	2020-06-02 — 03:38:41 UTC	GoodPlAsTAkTime, Razvogor, urumay, whiteiden97	257	5	25
-191103	4	22	No Variant	2020-06-02 — 03:06:28 UTC	GoodPlAsTAkTime, Razvogor, urumay, whiteiden97	287	5	25
-191025	4	0	No Variant	2020-06-02 — 02:29:40 UTC	GoodPlAsTAkTime, Razvogor, urumay, whiteiden97	308	5	25
-190961	3	0	No Variant	2020-06-02 — 01:49:37 UTC	GoodPlAsTAkTime, Razvogor, whiteiden97	71	5	25
+235702	4	0	No Variant	2020-07-11 — 00:51:54 UTC	GoodPlAsTAkTime, Razvogor, whiteiden97, zijun	119	5	25
+235658	4	0	No Variant	2020-07-11 — 00:15:18 UTC	GoodPlAsTAkTime, Razvogor, whiteiden97, zijun	132	5	25
+235620	4	0	No Variant	2020-07-10 — 23:43:15 UTC	GoodPlAsTAkTime, Razvogor, whiteiden97, zijun	157	5	25
+227570	3	0	No Variant	2020-07-03 — 03:30:55 UTC	GoodPlAsTAkTime, Razvogor, urumay	69	5	25
+227539	4	0	No Variant	2020-07-03 — 02:59:31 UTC	GoodPlAsTAkTime, Razvogor, urumay, zijun	161	5	25
+227515	4	0	No Variant	2020-07-03 — 02:38:17 UTC	GoodPlAsTAkTime, Razvogor, urumay, zijun	166	5	25
+227469	3	0	No Variant	2020-07-03 — 02:11:49 UTC	GoodPlAsTAkTime, Razvogor, urumay	66	5	25
+207118	3	25	No Variant	2020-06-15 — 02:55:12 UTC	GoodPlAsTAkTime, Razvogor, urumay	73	5	25
+207057	3	0	No Variant	2020-06-15 — 02:19:44 UTC	GoodPlAsTAkTime, Razvogor, urumay	72	5	25
+206990	3	24	No Variant	2020-06-15 — 01:43:49 UTC	GoodPlAsTAkTime, Razvogor, urumay	74	5	25
+191154	4	25	No Variant	2020-06-02 — 03:38:41 UTC	GoodPlAsTAkTime, Razvogor, urumay, whiteiden97	260	5	25
+191103	4	22	No Variant	2020-06-02 — 03:06:28 UTC	GoodPlAsTAkTime, Razvogor, urumay, whiteiden97	293	5	25
+191025	4	0	No Variant	2020-06-02 — 02:29:40 UTC	GoodPlAsTAkTime, Razvogor, urumay, whiteiden97	311	5	25
+190961	3	0	No Variant	2020-06-02 — 01:49:37 UTC	GoodPlAsTAkTime, Razvogor, whiteiden97	73	5	25
 188527	5	24	No Variant	2020-05-31 — 02:57:09 UTC	axe_y, charlesfire, Razvogor, The Kaito Kid, ZeNertox	14	5	25
 185051	4	19	Reversed (4 Suits)	2020-05-28 — 16:32:38 UTC	postmans, Razvogor, scharkbite, Zamiel	5	4	20
 185039	3	20	Reversed (4 Suits)	2020-05-28 — 16:14:00 UTC	Razvogor, scharkbite, Zamiel	5	4	20
 185033	4	0	Reversed (4 Suits)	2020-05-28 — 16:02:56 UTC	Cory, Razvogor, scharkbite, Zamiel	5	4	20
-185032	4	0	Reversed (4 Suits)	2020-05-28 — 16:02:47 UTC	Cory, Razvogor, scharkbite, Zamiel	9	4	20
-183168	3	24	No Variant	2020-05-27 — 01:53:30 UTC	GoodPlAsTAkTime, Razvogor, urumay	69	5	25
-183092	3	24	No Variant	2020-05-27 — 01:10:18 UTC	GoodPlAsTAkTime, Razvogor, urumay	74	5	25
-183071	5	0	No Variant	2020-05-27 — 00:47:17 UTC	GoodPlAsTAkTime, pascalotopia, Razvogor, Top Left Busta, urumay	1510	5	25
+185032	4	0	Reversed (4 Suits)	2020-05-28 — 16:02:47 UTC	Cory, Razvogor, scharkbite, Zamiel	10	4	20
+183168	3	24	No Variant	2020-05-27 — 01:53:30 UTC	GoodPlAsTAkTime, Razvogor, urumay	72	5	25
+183092	3	24	No Variant	2020-05-27 — 01:10:18 UTC	GoodPlAsTAkTime, Razvogor, urumay	75	5	25
+183071	5	0	No Variant	2020-05-27 — 00:47:17 UTC	GoodPlAsTAkTime, pascalotopia, Razvogor, Top Left Busta, urumay	1518	5	25
 180782	3	0	Black (6 Suits)	2020-05-25 — 03:39:30 UTC	RaKXeR, Razvogor, sjdrodge	31	6	30
 180701	3	30	Black (6 Suits)	2020-05-25 — 02:57:27 UTC	RaKXeR, Razvogor, sjdrodge	32	6	30
-180394	3	28	Black (6 Suits)	2020-05-24 — 23:44:35 UTC	RaKXeR, Razvogor, sjdrodge	19	6	30
-180366	3	0	Black (6 Suits)	2020-05-24 — 23:14:17 UTC	RaKXeR, Razvogor, sjdrodge	19	6	30
-180357	3	0	Black (6 Suits)	2020-05-24 — 23:01:11 UTC	RaKXeR, Razvogor, sjdrodge	19	6	30
-180351	3	0	Black (6 Suits)	2020-05-24 — 22:56:11 UTC	RaKXeR, Razvogor, sjdrodge	19	6	30
+180394	3	28	Black (6 Suits)	2020-05-24 — 23:44:35 UTC	RaKXeR, Razvogor, sjdrodge	20	6	30
+180366	3	0	Black (6 Suits)	2020-05-24 — 23:14:17 UTC	RaKXeR, Razvogor, sjdrodge	20	6	30
+180357	3	0	Black (6 Suits)	2020-05-24 — 23:01:11 UTC	RaKXeR, Razvogor, sjdrodge	20	6	30
+180351	3	0	Black (6 Suits)	2020-05-24 — 22:56:11 UTC	RaKXeR, Razvogor, sjdrodge	20	6	30
 180346	3	0	Black (5 Suits)	2020-05-24 — 22:51:49 UTC	RaKXeR, Razvogor, sjdrodge	25	5	25
-176023	4	23	No Variant	2020-05-22 — 02:01:07 UTC	pascalotopia, Razvogor, TheRealBradPitt, Top Left Busta	326	5	25
-175989	4	0	No Variant	2020-05-22 — 01:39:34 UTC	pascalotopia, Razvogor, TheRealBradPitt, Top Left Busta	336	5	25
-145880	4	24	Rainbow (5 Suits)	2020-05-01 — 02:48:28 UTC	alphabeta, duckmammal, melwen, Razvogor	29	5	25
-145828	4	0	Rainbow (5 Suits)	2020-05-01 — 02:20:49 UTC	alphabeta, duckmammal, melwen, Razvogor	32	5	25
+176023	4	23	No Variant	2020-05-22 — 02:01:07 UTC	pascalotopia, Razvogor, TheRealBradPitt, Top Left Busta	330	5	25
+175989	4	0	No Variant	2020-05-22 — 01:39:34 UTC	pascalotopia, Razvogor, TheRealBradPitt, Top Left Busta	340	5	25
+145880	4	24	Rainbow (5 Suits)	2020-05-01 — 02:48:28 UTC	alphabeta, duckmammal, melwen, Razvogor	30	5	25
+145828	4	0	Rainbow (5 Suits)	2020-05-01 — 02:20:49 UTC	alphabeta, duckmammal, melwen, Razvogor	34	5	25
 145795	4	0	Rainbow (5 Suits)	2020-05-01 — 02:01:39 UTC	alphabeta, duckmammal, melwen, Razvogor	54	5	25
 145753	4	0	No Variant	2020-05-01 — 01:35:48 UTC	alphabeta, duckmammal, melwen, Razvogor	57	5	25
 145713	3	0	Up or Down & Omni (5 Suits)	2020-05-01 — 01:14:53 UTC	duckmammal, melwen, Razvogor	3	5	25
-138497	3	25	No Variant	2020-04-26 — 00:30:44 UTC	Pascool, Razvogor, Top Left Busta	78	5	25
-138458	3	0	No Variant	2020-04-26 — 00:07:47 UTC	Pascool, Razvogor, Top Left Busta	77	5	25
-138445	3	24	No Variant	2020-04-25 — 23:57:43 UTC	Pascool, Razvogor, Top Left Busta	77	5	25
-138413	3	0	No Variant	2020-04-25 — 23:34:21 UTC	Pascool, Razvogor, Top Left Busta	77	5	25
-131123	5	21	No Variant	2020-04-21 — 01:02:15 UTC	Pascool, Poscat, Razvogor, thepercman, TL Busta	262	5	25
-131052	5	20	No Variant	2020-04-21 — 00:14:59 UTC	Pascool, Poscat, Razvogor, thepercman, TL Busta	541	5	25
-123417	5	21	No Variant	2020-04-16 — 00:04:51 UTC	AssMasster, Pascool, Razvogor, thepercman, TL Busta	658	5	25
-123399	4	0	No Variant	2020-04-15 — 23:38:10 UTC	Pascool, Razvogor, thepercman, TL Busta	373	5	25
-123396	3	0	No Variant	2020-04-15 — 23:36:41 UTC	Razvogor, thepercman, TL Busta	79	5	25
-119450	4	0	No Variant	2020-04-12 — 20:03:15 UTC	ff, GoodPlAsTAkTime, Razvogor, xxl	541	5	25
-119422	4	0	No Variant	2020-04-12 — 19:43:54 UTC	ff, GoodPlAsTAkTime, Razvogor, xxl	655	5	25
-118282	3	22	No Variant	2020-04-12 — 00:39:34 UTC	AssMasster, Razvogor, TL Busta	82	5	25
-118233	3	24	No Variant	2020-04-12 — 00:09:43 UTC	AssMasster, Razvogor, TL Busta	167	5	25
+138497	3	25	No Variant	2020-04-26 — 00:30:44 UTC	Pascool, Razvogor, Top Left Busta	79	5	25
+138458	3	0	No Variant	2020-04-26 — 00:07:47 UTC	Pascool, Razvogor, Top Left Busta	78	5	25
+138445	3	24	No Variant	2020-04-25 — 23:57:43 UTC	Pascool, Razvogor, Top Left Busta	78	5	25
+138413	3	0	No Variant	2020-04-25 — 23:34:21 UTC	Pascool, Razvogor, Top Left Busta	79	5	25
+131123	5	21	No Variant	2020-04-21 — 01:02:15 UTC	Pascool, Poscat, Razvogor, thepercman, TL Busta	265	5	25
+131052	5	20	No Variant	2020-04-21 — 00:14:59 UTC	Pascool, Poscat, Razvogor, thepercman, TL Busta	546	5	25
+123417	5	21	No Variant	2020-04-16 — 00:04:51 UTC	AssMasster, Pascool, Razvogor, thepercman, TL Busta	667	5	25
+123399	4	0	No Variant	2020-04-15 — 23:38:10 UTC	Pascool, Razvogor, thepercman, TL Busta	376	5	25
+123396	3	0	No Variant	2020-04-15 — 23:36:41 UTC	Razvogor, thepercman, TL Busta	82	5	25
+119450	4	0	No Variant	2020-04-12 — 20:03:15 UTC	ff, GoodPlAsTAkTime, Razvogor, xxl	548	5	25
+119422	4	0	No Variant	2020-04-12 — 19:43:54 UTC	ff, GoodPlAsTAkTime, Razvogor, xxl	660	5	25
+118282	3	22	No Variant	2020-04-12 — 00:39:34 UTC	AssMasster, Razvogor, TL Busta	84	5	25
+118233	3	24	No Variant	2020-04-12 — 00:09:43 UTC	AssMasster, Razvogor, TL Busta	170	5	25
 116465	6	25	No Variant	2020-04-11 — 01:26:41 UTC	bigman, duckmammal, Kyle, lotem, RaKXeR, Razvogor	25	5	25
 116420	5	0	Up or Down & Rainbow (5 Suits)	2020-04-11 — 01:02:02 UTC	bigman, duckmammal, Kyle, RaKXeR, Razvogor	2	5	25
-115051	3	0	No Variant	2020-04-10 — 01:58:00 UTC	Razvogor, thepercman, TheVisitor	516	5	25
-115013	3	0	No Variant	2020-04-10 — 01:40:53 UTC	Razvogor, thepercman, TheVisitor	1636	5	25
-114953	4	24	No Variant	2020-04-10 — 01:13:46 UTC	GoodPlAsTAkTime, Razvogor, thepercman, TheVisitor	899	5	25
-113240	3	23	Throw It in a Hole (5 Suits)	2020-04-08 — 00:00:32 UTC	G4M8, Razvogor, ZeNertox	52	5	25
+115051	3	0	No Variant	2020-04-10 — 01:58:00 UTC	Razvogor, thepercman, TheVisitor	523	5	25
+115013	3	0	No Variant	2020-04-10 — 01:40:53 UTC	Razvogor, thepercman, TheVisitor	1651	5	25
+114953	4	24	No Variant	2020-04-10 — 01:13:46 UTC	GoodPlAsTAkTime, Razvogor, thepercman, TheVisitor	908	5	25
+113240	3	23	Throw It in a Hole (5 Suits)	2020-04-08 — 00:00:32 UTC	G4M8, Razvogor, ZeNertox	53	5	25
 112100	5	0	Rainbow (6 Suits)	2020-04-07 — 00:49:18 UTC	Div, lotem, MasN, micerang, Razvogor	17	6	30
 112074	5	0	Rainbow (6 Suits)	2020-04-07 — 00:23:40 UTC	Div, lotem, MasN, micerang, Razvogor	16	6	30
 112062	5	0	Rainbow (6 Suits)	2020-04-07 — 00:16:51 UTC	Div, lotem, MasN, micerang, Razvogor	24	6	30
@@ -105,21 +105,21 @@
 111788	3	0	Rainbow (5 Suits)	2020-04-06 — 21:17:36 UTC	elperzon, Kyle, Razvogor	4	5	25
 111189	3	25	Up or Down & Pink (5 Suits)	2020-04-06 — 03:57:36 UTC	G4M8, Razvogor, ZeNertox	12	5	25
 111084	3	25	Null (5 Suits)	2020-04-06 — 02:51:11 UTC	G4M8, Razvogor, ZeNertox	36	5	25
-109706	4	0	No Variant	2020-04-05 — 01:03:28 UTC	Pascool, Razvogor, thepercman, TL Busta	985	5	25
-109665	4	25	No Variant	2020-04-05 — 00:42:12 UTC	Pascool, Razvogor, thepercman, TL Busta	1092	5	25
-109639	4	0	No Variant	2020-04-05 — 00:27:26 UTC	Pascool, Razvogor, thepercman, TL Busta	1253	5	25
-109637	4	0	No Variant	2020-04-05 — 00:26:32 UTC	Pascool, Razvogor, thepercman, TL Busta	1449	5	25
+109706	4	0	No Variant	2020-04-05 — 01:03:28 UTC	Pascool, Razvogor, thepercman, TL Busta	994	5	25
+109665	4	25	No Variant	2020-04-05 — 00:42:12 UTC	Pascool, Razvogor, thepercman, TL Busta	1103	5	25
+109639	4	0	No Variant	2020-04-05 — 00:27:26 UTC	Pascool, Razvogor, thepercman, TL Busta	1267	5	25
+109637	4	0	No Variant	2020-04-05 — 00:26:32 UTC	Pascool, Razvogor, thepercman, TL Busta	1459	5	25
 109450	3	25	Brown (5 Suits)	2020-04-04 — 22:38:29 UTC	G4M8, Razvogor, ZeNertox	17	5	25
 109403	3	24	Brown (5 Suits)	2020-04-04 — 22:09:35 UTC	G4M8, Razvogor, ZeNertox	17	5	25
 107869	3	23	Up or Down (5 Suits)	2020-04-04 — 00:27:43 UTC	charlesfire, Razvogor, ZeNertox	3	5	25
 107840	3	0	Up or Down (5 Suits)	2020-04-03 — 23:50:23 UTC	charlesfire, Razvogor, ZeNertox	3	5	25
 107792	3	22	Up or Down (5 Suits)	2020-04-03 — 23:14:12 UTC	charlesfire, Razvogor, ZeNertox	3	5	25
-103074	3	0	No Variant	2020-03-31 — 01:15:56 UTC	Pascool, Razvogor, TL Busta	97	5	25
-103044	3	0	No Variant	2020-03-31 — 00:50:59 UTC	Pascool, Razvogor, TL Busta	106	5	25
-103037	3	0	No Variant	2020-03-31 — 00:40:56 UTC	Pascool, Razvogor, TL Busta	109	5	25
-103032	3	23	No Variant	2020-03-31 — 00:38:05 UTC	Pascool, Razvogor, TL Busta	112	5	25
-103009	3	0	No Variant	2020-03-31 — 00:15:31 UTC	Pascool, Razvogor, TL Busta	148	5	25
-103004	3	0	No Variant	2020-03-31 — 00:14:25 UTC	Pascool, Razvogor, TL Busta	154	5	25
+103074	3	0	No Variant	2020-03-31 — 01:15:56 UTC	Pascool, Razvogor, TL Busta	99	5	25
+103044	3	0	No Variant	2020-03-31 — 00:50:59 UTC	Pascool, Razvogor, TL Busta	110	5	25
+103037	3	0	No Variant	2020-03-31 — 00:40:56 UTC	Pascool, Razvogor, TL Busta	115	5	25
+103032	3	23	No Variant	2020-03-31 — 00:38:05 UTC	Pascool, Razvogor, TL Busta	116	5	25
+103009	3	0	No Variant	2020-03-31 — 00:15:31 UTC	Pascool, Razvogor, TL Busta	149	5	25
+103004	3	0	No Variant	2020-03-31 — 00:14:25 UTC	Pascool, Razvogor, TL Busta	157	5	25
 102928	3	0	Up or Down & Omni (5 Suits)	2020-03-30 — 22:35:47 UTC	CompleteTrust, Razvogor, Sucubis	3	5	25
 102906	4	0	Up or Down & Omni (5 Suits)	2020-03-30 — 22:11:37 UTC	CompleteTrust, Kyle, Razvogor, Sucubis	1	5	25
 102895	4	0	Up or Down & Omni (5 Suits)	2020-03-30 — 22:02:29 UTC	CompleteTrust, Kyle, Razvogor, Sucubis	1	5	25
@@ -128,7 +128,7 @@
 92023	4	0	Pink & Omni (5 Suits)	2020-03-19 — 17:03:32 UTC	bulbasaur, Floriman, Razvogor, Zamiel	1	5	25
 92012	4	0	Pink & Omni (5 Suits)	2020-03-19 — 16:38:47 UTC	bulbasaur, Floriman, Razvogor, Zamiel	2	5	25
 91879	5	29	Rainbow (6 Suits)	2020-03-19 — 07:11:35 UTC	duckmammal, Fireheart, lailie.ahava, RaKXeR, Razvogor	12	6	30
-91873	5	25	No Variant	2020-03-19 — 06:33:56 UTC	duckmammal, Fireheart, lailie.ahava, RaKXeR, Razvogor	30	5	25
+91873	5	25	No Variant	2020-03-19 — 06:33:56 UTC	duckmammal, Fireheart, lailie.ahava, RaKXeR, Razvogor	31	5	25
 91857	4	25	Brown (5 Suits)	2020-03-19 — 05:55:37 UTC	MasN, micerang, Razvogor, sckuzzle	3	5	25
 91842	6	25	White (5 Suits)	2020-03-19 — 05:27:12 UTC	DoubleDown11, duckmammal, lailie.ahava, micerang, Razvogor, sckuzzle	2	5	25
 91825	6	24	White (5 Suits)	2020-03-19 — 04:45:41 UTC	DoubleDown11, duckmammal, lailie.ahava, micerang, pianoblook, Razvogor	4	5	25
@@ -136,18 +136,18 @@
 91769	5	0	Gray Pink (5 Suits)	2020-03-19 — 03:38:21 UTC	DoubleDown11, duckmammal, Kyle, micerang, Razvogor	4	5	25
 91766	5	0	Gray Pink (5 Suits)	2020-03-19 — 03:35:40 UTC	DoubleDown11, duckmammal, Kyle, micerang, Razvogor	3	5	25
 91624	6	0	Black & Rainbow (5 Suits)	2020-03-18 — 23:31:17 UTC	aladdin3, asaelr, Kyle, MasN, micerang, Razvogor	2	5	25
-91167	3	25	No Variant	2020-03-18 — 03:55:02 UTC	charlesfire, Pas-Monproblem, Razvogor	93	5	25
-91154	3	0	No Variant	2020-03-18 — 03:32:46 UTC	charlesfire, Pas-Monproblem, Razvogor	102	5	25
-91151	3	0	No Variant	2020-03-18 — 03:26:34 UTC	charlesfire, Pas-Monproblem, Razvogor	106	5	25
-91143	3	0	No Variant	2020-03-18 — 03:19:27 UTC	charlesfire, Pas-Monproblem, Razvogor	110	5	25
-91125	3	0	No Variant	2020-03-18 — 02:53:30 UTC	charlesfire, Pas-Monproblem, Razvogor	307	5	25
-91103	3	0	No Variant	2020-03-18 — 02:25:31 UTC	charlesfire, Pas-Monproblem, Razvogor	344	5	25
+91167	3	25	No Variant	2020-03-18 — 03:55:02 UTC	charlesfire, Pas-Monproblem, Razvogor	95	5	25
+91154	3	0	No Variant	2020-03-18 — 03:32:46 UTC	charlesfire, Pas-Monproblem, Razvogor	107	5	25
+91151	3	0	No Variant	2020-03-18 — 03:26:34 UTC	charlesfire, Pas-Monproblem, Razvogor	111	5	25
+91143	3	0	No Variant	2020-03-18 — 03:19:27 UTC	charlesfire, Pas-Monproblem, Razvogor	114	5	25
+91125	3	0	No Variant	2020-03-18 — 02:53:30 UTC	charlesfire, Pas-Monproblem, Razvogor	311	5	25
+91103	3	0	No Variant	2020-03-18 — 02:25:31 UTC	charlesfire, Pas-Monproblem, Razvogor	353	5	25
 90642	3	25	Up or Down & Omni (5 Suits)	2020-03-17 — 06:52:09 UTC	IAMJEFF, Razvogor, Valetta6789	4	5	25
-90636	3	29	6 Suits	2020-03-17 — 06:15:25 UTC	kodomazer, Razvogor, sckuzzle	132	6	30
-90618	3	0	6 Suits	2020-03-17 — 05:42:44 UTC	kodomazer, Razvogor, sckuzzle	147	6	30
-90614	3	0	6 Suits	2020-03-17 — 05:17:17 UTC	kodomazer, Razvogor, sckuzzle	168	6	30
-90611	4	25	No Variant	2020-03-17 — 04:45:10 UTC	kodomazer, letical, Razvogor, sckuzzle	501	5	25
-90597	4	0	No Variant	2020-03-17 — 04:12:04 UTC	kodomazer, letical, Razvogor, sckuzzle	793	5	25
+90636	3	29	6 Suits	2020-03-17 — 06:15:25 UTC	kodomazer, Razvogor, sckuzzle	133	6	30
+90618	3	0	6 Suits	2020-03-17 — 05:42:44 UTC	kodomazer, Razvogor, sckuzzle	149	6	30
+90614	3	0	6 Suits	2020-03-17 — 05:17:17 UTC	kodomazer, Razvogor, sckuzzle	169	6	30
+90611	4	25	No Variant	2020-03-17 — 04:45:10 UTC	kodomazer, letical, Razvogor, sckuzzle	507	5	25
+90597	4	0	No Variant	2020-03-17 — 04:12:04 UTC	kodomazer, letical, Razvogor, sckuzzle	800	5	25
 88171	4	30	Black (6 Suits)	2020-03-13 — 05:11:16 UTC	florrat2, IAMJEFF, Libster, Razvogor	1	6	30
 88169	4	0	Black (6 Suits)	2020-03-13 — 05:09:35 UTC	florrat2, IAMJEFF, Libster, Razvogor	1	6	30
 88168	4	0	Black (6 Suits)	2020-03-13 — 05:08:11 UTC	florrat2, IAMJEFF, Libster, Razvogor	1	6	30
@@ -226,7 +226,7 @@
 87997	4	0	Up or Down & Omni (5 Suits)	2020-03-12 — 23:27:27 UTC	duckmammal, Floriman, Libster, Razvogor	5	5	25
 87996	4	0	Up or Down & Omni (5 Suits)	2020-03-12 — 23:07:05 UTC	duckmammal, Floriman, Libster, Razvogor	8	5	25
 87991	3	0	Up or Down & Omni (5 Suits)	2020-03-12 — 22:31:26 UTC	duckmammal, Floriman, Razvogor	5	5	25
-86160	4	30	Rainbow (6 Suits)	2020-03-08 — 06:53:57 UTC	ADrone, DoubleDown11, Feer, Razvogor	156	6	30
+86160	4	30	Rainbow (6 Suits)	2020-03-08 — 06:53:57 UTC	ADrone, DoubleDown11, Feer, Razvogor	157	6	30
 85879	4	0	Black (6 Suits)	2020-03-06 — 05:27:53 UTC	florrat2, Libster, NoMercy, Razvogor	1	6	30
 85877	4	0	Black (6 Suits)	2020-03-06 — 05:27:17 UTC	florrat2, Libster, NoMercy, Razvogor	1	6	30
 85876	4	0	Black (6 Suits)	2020-03-06 — 05:26:50 UTC	florrat2, Libster, NoMercy, Razvogor	1	6	30
@@ -1007,20 +1007,20 @@
 84671	3	0	Black (6 Suits)	2020-03-04 — 02:22:46 UTC	florrat2, Libster, Razvogor	1	6	30
 84670	4	25	No Variant	2020-03-04 — 02:16:19 UTC	asaelr, florrat2, Libster, Razvogor	2	5	25
 84663	3	29	Up or Down & Rainbow (6 Suits)	2020-03-04 — 01:48:58 UTC	asaelr, Libster, Razvogor	7	6	30
-84658	3	0	Up or Down & Rainbow (6 Suits)	2020-03-04 — 01:22:41 UTC	asaelr, Libster, Razvogor	9	6	30
-84555	3	23	No Variant	2020-03-03 — 02:35:07 UTC	charlesfire, Razvogor, ZeNertox	101	5	25
-84551	3	0	No Variant	2020-03-03 — 02:19:23 UTC	charlesfire, Razvogor, ZeNertox	98	5	25
+84658	3	0	Up or Down & Rainbow (6 Suits)	2020-03-04 — 01:22:41 UTC	asaelr, Libster, Razvogor	10	6	30
+84555	3	23	No Variant	2020-03-03 — 02:35:07 UTC	charlesfire, Razvogor, ZeNertox	103	5	25
+84551	3	0	No Variant	2020-03-03 — 02:19:23 UTC	charlesfire, Razvogor, ZeNertox	102	5	25
 84548	3	0	Up or Down (5 Suits)	2020-03-03 — 02:04:44 UTC	charlesfire, Razvogor, ZeNertox	3	5	25
 84545	3	21	Up or Down (5 Suits)	2020-03-03 — 01:43:26 UTC	charlesfire, Razvogor, ZeNertox	3	5	25
 84512	3	0	Rainbow (5 Suits)	2020-03-02 — 06:24:04 UTC	Kyle, mathisje, Razvogor	5	5	25
-84510	3	25	No Variant	2020-03-02 — 05:56:48 UTC	Kyle, mathisje, Razvogor	151	5	25
+84510	3	25	No Variant	2020-03-02 — 05:56:48 UTC	Kyle, mathisje, Razvogor	153	5	25
 84504	4	22	No Variant	2020-03-02 — 05:35:36 UTC	Kyle, Libster, mathisje, Razvogor	2	5	25
 84499	3	0	Rainbow (5 Suits)	2020-03-02 — 05:08:55 UTC	Kyle, mathisje, Razvogor	4	5	25
 84497	3	20	4 Suits	2020-03-02 — 04:46:44 UTC	Kyle, mathisje, Razvogor	5	4	20
 84361	4	22	Up or Down (5 Suits)	2020-02-29 — 20:22:58 UTC	Feer, Floriman, Kyle, Razvogor	16	5	25
 84360	6	30	6 Suits	2020-02-29 — 19:56:54 UTC	Dr_Kakashi, Floriman, Kyle, Livia, Maiorskills, Razvogor	2	6	30
-84311	3	22	No Variant	2020-02-29 — 06:53:59 UTC	Himard, Razvogor, The Kaito Kid	76	5	25
-84298	3	23	No Variant	2020-02-29 — 06:26:46 UTC	Himard, Razvogor, The Kaito Kid	77	5	25
+84311	3	22	No Variant	2020-02-29 — 06:53:59 UTC	Himard, Razvogor, The Kaito Kid	77	5	25
+84298	3	23	No Variant	2020-02-29 — 06:26:46 UTC	Himard, Razvogor, The Kaito Kid	78	5	25
 84287	3	23	Up or Down (5 Suits)	2020-02-29 — 05:48:49 UTC	charlesfire, Razvogor, The Kaito Kid	3	5	25
 84278	3	24	Up or Down (5 Suits)	2020-02-29 — 05:13:43 UTC	charlesfire, Razvogor, The Kaito Kid	3	5	25
 84266	3	0	Up or Down (5 Suits)	2020-02-29 — 04:28:50 UTC	charlesfire, Razvogor, The Kaito Kid	3	5	25
@@ -1213,8 +1213,8 @@
 83520	5	20	Rainbow (5 Suits)	2020-02-26 — 21:52:30 UTC	aladdin3, Kyle, Razvogor, Shos, Zamiel	2	5	25
 83518	3	25	Rainbow (5 Suits)	2020-02-26 — 21:19:45 UTC	Kyle, Razvogor, Shos	6	5	25
 83516	4	0	Rainbow (5 Suits)	2020-02-26 — 20:44:11 UTC	Kyle, padi, Razvogor, Shos	6	5	25
-83515	3	0	Rainbow (5 Suits)	2020-02-26 — 20:18:16 UTC	padi, Razvogor, Shos	57	5	25
-83513	3	0	Rainbow (5 Suits)	2020-02-26 — 20:12:57 UTC	padi, Razvogor, Shos	56	5	25
+83515	3	0	Rainbow (5 Suits)	2020-02-26 — 20:18:16 UTC	padi, Razvogor, Shos	59	5	25
+83513	3	0	Rainbow (5 Suits)	2020-02-26 — 20:12:57 UTC	padi, Razvogor, Shos	57	5	25
 83512	5	0	Dark Brown (6 Suits)	2020-02-26 — 19:55:46 UTC	asaelr, padi, Razvogor, Shos, Zamiel	3	6	30
 83511	4	0	Dark Pink (5 Suits)	2020-02-26 — 19:48:30 UTC	asaelr, Razvogor, Shos, Zamiel	11	5	25
 78616	3	30	6 Suits	2020-02-10 — 03:56:51 UTC	florrat2, Libster, Razvogor	1	6	30
@@ -1312,29 +1312,29 @@
 78524	3	0	No Variant	2020-02-10 — 02:44:20 UTC	florrat2, Libster, Razvogor	3	5	25
 78492	3	0	No Variant	2020-02-10 — 00:10:57 UTC	florrat2, RaKXeR, Razvogor	10	5	25
 78491	3	0	No Variant	2020-02-10 — 00:10:31 UTC	florrat2, RaKXeR, Razvogor	10	5	25
-78490	3	0	No Variant	2020-02-10 — 00:10:03 UTC	florrat2, RaKXeR, Razvogor	10	5	25
-78489	3	0	No Variant	2020-02-10 — 00:09:46 UTC	florrat2, RaKXeR, Razvogor	9	5	25
+78490	3	0	No Variant	2020-02-10 — 00:10:03 UTC	florrat2, RaKXeR, Razvogor	11	5	25
+78489	3	0	No Variant	2020-02-10 — 00:09:46 UTC	florrat2, RaKXeR, Razvogor	10	5	25
 78488	3	0	No Variant	2020-02-10 — 00:09:10 UTC	florrat2, RaKXeR, Razvogor	11	5	25
 78487	3	0	No Variant	2020-02-10 — 00:08:26 UTC	florrat2, RaKXeR, Razvogor	11	5	25
 78486	3	0	No Variant	2020-02-10 — 00:07:37 UTC	florrat2, RaKXeR, Razvogor	10	5	25
-78387	4	0	No Variant	2020-02-09 — 20:53:26 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	97	5	25
-78384	4	0	No Variant	2020-02-09 — 20:31:24 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	99	5	25
-78383	4	0	No Variant	2020-02-09 — 20:15:05 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	103	5	25
+78387	4	0	No Variant	2020-02-09 — 20:53:26 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	98	5	25
+78384	4	0	No Variant	2020-02-09 — 20:31:24 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	100	5	25
+78383	4	0	No Variant	2020-02-09 — 20:15:05 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	104	5	25
 78381	4	0	No Variant	2020-02-09 — 19:58:30 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	129	5	25
-78377	4	25	No Variant	2020-02-09 — 19:16:37 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	125	5	25
-78375	4	0	No Variant	2020-02-09 — 18:52:18 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	138	5	25
-78374	4	0	No Variant	2020-02-09 — 18:46:00 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	149	5	25
-78370	3	0	No Variant	2020-02-09 — 18:19:08 UTC	Razvogor, The Kaito Kid, ZeNertox	77	5	25
+78377	4	25	No Variant	2020-02-09 — 19:16:37 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	126	5	25
+78375	4	0	No Variant	2020-02-09 — 18:52:18 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	139	5	25
+78374	4	0	No Variant	2020-02-09 — 18:46:00 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	150	5	25
+78370	3	0	No Variant	2020-02-09 — 18:19:08 UTC	Razvogor, The Kaito Kid, ZeNertox	79	5	25
 76184	4	30	Dark Rainbow (6 Suits)	2020-01-24 — 03:10:24 UTC	invarse, Kyle, micerang, Razvogor	20	6	30
-76181	3	0	Dark Rainbow (5 Suits)	2020-01-24 — 02:56:24 UTC	invarse, Kyle, Razvogor	35	5	25
-76179	3	0	Dark Rainbow (5 Suits)	2020-01-24 — 02:48:47 UTC	invarse, Kyle, Razvogor	52	5	25
-76097	2	0	Black & Dark Brown (6 Suits)	2020-01-22 — 23:50:31 UTC	Libster, Razvogor	10	6	30
-76096	2	0	Black & Dark Brown (6 Suits)	2020-01-22 — 23:42:43 UTC	Libster, Razvogor	10	6	30
-76095	2	0	Black & Dark Brown (6 Suits)	2020-01-22 — 23:34:24 UTC	Libster, Razvogor	13	6	30
-76093	2	0	Black & Dark Brown (6 Suits)	2020-01-22 — 23:27:06 UTC	Libster, Razvogor	13	6	30
-76092	2	26	Black & Dark Brown (6 Suits)	2020-01-22 — 23:19:51 UTC	Libster, Razvogor	16	6	30
+76181	3	0	Dark Rainbow (5 Suits)	2020-01-24 — 02:56:24 UTC	invarse, Kyle, Razvogor	36	5	25
+76179	3	0	Dark Rainbow (5 Suits)	2020-01-24 — 02:48:47 UTC	invarse, Kyle, Razvogor	53	5	25
+76097	2	0	Black & Dark Brown (6 Suits)	2020-01-22 — 23:50:31 UTC	Libster, Razvogor	11	6	30
+76096	2	0	Black & Dark Brown (6 Suits)	2020-01-22 — 23:42:43 UTC	Libster, Razvogor	11	6	30
+76095	2	0	Black & Dark Brown (6 Suits)	2020-01-22 — 23:34:24 UTC	Libster, Razvogor	14	6	30
+76093	2	0	Black & Dark Brown (6 Suits)	2020-01-22 — 23:27:06 UTC	Libster, Razvogor	14	6	30
+76092	2	26	Black & Dark Brown (6 Suits)	2020-01-22 — 23:19:51 UTC	Libster, Razvogor	17	6	30
 76006	3	0	Black (5 Suits)	2020-01-22 — 04:07:34 UTC	Kyle, MasN, Razvogor	43	5	25
-76004	3	0	Black (5 Suits)	2020-01-22 — 03:58:06 UTC	Kyle, MasN, Razvogor	44	5	25
+76004	3	0	Black (5 Suits)	2020-01-22 — 03:58:06 UTC	Kyle, MasN, Razvogor	45	5	25
 76002	5	0	Black (5 Suits)	2020-01-22 — 03:45:34 UTC	Kyle, Libster, MasN, Nitrate, Razvogor	11	5	25
 76001	5	0	Black (5 Suits)	2020-01-22 — 03:38:00 UTC	Kyle, Libster, MasN, Nitrate, Razvogor	10	5	25
 76000	4	0	Black (5 Suits)	2020-01-22 — 03:31:18 UTC	Libster, MasN, Nitrate, Razvogor	21	5	25
@@ -1351,13 +1351,13 @@
 75832	5	0	Rainbow (6 Suits)	2020-01-20 — 22:26:35 UTC	Andrew_UK, micerang, Razvogor, scharkbite, Shos	10	6	30
 75674	4	0	Black & Pink (5 Suits)	2020-01-19 — 03:02:13 UTC	Kyle, Libster, Livia, Razvogor	4	5	25
 75668	4	0	Black & Pink (5 Suits)	2020-01-19 — 02:45:21 UTC	Kyle, Libster, Livia, Razvogor	4	5	25
-75666	4	0	Black & Pink (5 Suits)	2020-01-19 — 02:33:20 UTC	Kyle, Libster, Livia, Razvogor	8	5	25
-75664	4	24	Black & Pink (5 Suits)	2020-01-19 — 02:10:30 UTC	asaelr, Kyle, Libster, Razvogor	3	5	25
-75662	4	0	Black & Pink (5 Suits)	2020-01-19 — 01:53:12 UTC	asaelr, Kyle, Libster, Razvogor	3	5	25
+75666	4	0	Black & Pink (5 Suits)	2020-01-19 — 02:33:20 UTC	Kyle, Libster, Livia, Razvogor	9	5	25
+75664	4	24	Black & Pink (5 Suits)	2020-01-19 — 02:10:30 UTC	asaelr, Kyle, Libster, Razvogor	4	5	25
+75662	4	0	Black & Pink (5 Suits)	2020-01-19 — 01:53:12 UTC	asaelr, Kyle, Libster, Razvogor	4	5	25
 75448	3	22	Black & Rainbow (5 Suits)	2020-01-16 — 05:40:09 UTC	Feer, Kyle, Razvogor	7	5	25
 75447	3	0	Black & Rainbow (5 Suits)	2020-01-16 — 05:23:00 UTC	Feer, Kyle, Razvogor	7	5	25
 75444	3	0	Black & Rainbow (5 Suits)	2020-01-16 — 05:16:29 UTC	Feer, Kyle, Razvogor	7	5	25
-75443	3	23	Black & Rainbow (5 Suits)	2020-01-16 — 05:07:56 UTC	Feer, Kyle, Razvogor	24	5	25
+75443	3	23	Black & Rainbow (5 Suits)	2020-01-16 — 05:07:56 UTC	Feer, Kyle, Razvogor	25	5	25
 75442	4	0	Dual-Color Mix	2020-01-16 — 04:50:09 UTC	Kyle, Libster, micerang, Razvogor	1	6	30
 75438	4	0	Pink-Fives & Rainbow (6 Suits)	2020-01-16 — 04:30:31 UTC	Kyle, Libster, micerang, Razvogor	3	6	30
 75436	4	0	Pink-Fives & Rainbow (6 Suits)	2020-01-16 — 04:19:25 UTC	Kyle, Libster, micerang, Razvogor	7	6	30
@@ -1367,9 +1367,9 @@
 75431	3	0	Black & Rainbow (5 Suits)	2020-01-16 — 03:40:38 UTC	Kyle, micerang, Razvogor	9	5	25
 75430	3	0	Black & Rainbow (5 Suits)	2020-01-16 — 03:31:59 UTC	Kyle, micerang, Razvogor	26	5	25
 75412	3	23	Black & Rainbow (5 Suits)	2020-01-15 — 21:40:54 UTC	Floriman, RaKXeR, Razvogor	9	5	25
-75410	3	23	Black & Rainbow (5 Suits)	2020-01-15 — 21:15:02 UTC	Floriman, RaKXeR, Razvogor	27	5	25
-75408	3	0	Black & Rainbow (5 Suits)	2020-01-15 — 20:50:50 UTC	Floriman, RaKXeR, Razvogor	33	5	25
-75405	5	0	Black & Rainbow (5 Suits)	2020-01-15 — 20:34:44 UTC	Floriman, Jake_Stiles, Libster, RaKXeR, Razvogor	7	5	25
+75410	3	23	Black & Rainbow (5 Suits)	2020-01-15 — 21:15:02 UTC	Floriman, RaKXeR, Razvogor	28	5	25
+75408	3	0	Black & Rainbow (5 Suits)	2020-01-15 — 20:50:50 UTC	Floriman, RaKXeR, Razvogor	34	5	25
+75405	5	0	Black & Rainbow (5 Suits)	2020-01-15 — 20:34:44 UTC	Floriman, Jake_Stiles, Libster, RaKXeR, Razvogor	8	5	25
 75352	4	20	4 Suits	2020-01-15 — 06:18:06 UTC	Feer, Libster, micerang, Razvogor	2	4	20
 75351	4	0	4 Suits	2020-01-15 — 06:06:21 UTC	Feer, Libster, micerang, Razvogor	2	4	20
 75350	5	0	4 Suits	2020-01-15 — 05:58:04 UTC	Feer, Libster, micerang, Razvogor, sjdrodge	2	4	20
@@ -1382,17 +1382,17 @@
 75218	4	22	Black & Rainbow (5 Suits)	2020-01-14 — 02:37:00 UTC	Kyle, Libster, micerang, Razvogor	2	5	25
 75216	4	0	Black & Rainbow (5 Suits)	2020-01-14 — 02:19:11 UTC	Kyle, Libster, micerang, Razvogor	2	5	25
 75212	4	20	Pink (4 Suits)	2020-01-14 — 02:10:27 UTC	Kyle, Libster, micerang, Razvogor	5	4	20
-75209	4	18	Pink (4 Suits)	2020-01-14 — 01:52:20 UTC	Kyle, Libster, micerang, Razvogor	22	4	20
+75209	4	18	Pink (4 Suits)	2020-01-14 — 01:52:20 UTC	Kyle, Libster, micerang, Razvogor	23	4	20
 75150	3	0	Up or Down (5 Suits)	2020-01-13 — 03:10:56 UTC	charlesfire, Razvogor, ZeNertox	4	5	25
 75149	3	0	Up or Down (5 Suits)	2020-01-13 — 03:00:23 UTC	charlesfire, Razvogor, ZeNertox	4	5	25
 75148	4	23	Up or Down (5 Suits)	2020-01-13 — 02:42:02 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	21	5	25
 75140	3	24	Up or Down (5 Suits)	2020-01-13 — 01:06:38 UTC	Razvogor, The Kaito Kid, ZeNertox	5	5	25
 75057	5	30	6 Suits	2020-01-12 — 01:35:38 UTC	aladdin3, Libster, micerang, Razvogor, TimeHoodie	1	6	30
 75055	6	0	6 Suits	2020-01-12 — 01:03:58 UTC	aladdin3, Kyle, Libster, micerang, Razvogor, TimeHoodie	5	6	30
-75053	4	0	Rainbow (5 Suits)	2020-01-12 — 00:25:46 UTC	aladdin3, Kyle, Razvogor, TimeHoodie	130	5	25
+75053	4	0	Rainbow (5 Suits)	2020-01-12 — 00:25:46 UTC	aladdin3, Kyle, Razvogor, TimeHoodie	131	5	25
 75052	4	0	Pink-Fives (5 Suits)	2020-01-12 — 00:07:20 UTC	aladdin3, Kyle, Razvogor, TimeHoodie	3	5	25
 74863	5	30	Black & Brown (6 Suits)	2020-01-11 — 04:04:12 UTC	Jake_Stiles, kopen, micerang, Razvogor, Sucubis	5	6	30
-74861	4	0	Black & Brown (5 Suits)	2020-01-11 — 03:46:32 UTC	Jake_Stiles, micerang, Razvogor, Sucubis	6	5	25
+74861	4	0	Black & Brown (5 Suits)	2020-01-11 — 03:46:32 UTC	Jake_Stiles, micerang, Razvogor, Sucubis	7	5	25
 74860	4	0	Black & Brown (5 Suits)	2020-01-11 — 03:35:40 UTC	Jake_Stiles, micerang, Razvogor, Sucubis	11	5	25
 74858	5	26	Black & Rainbow (6 Suits)	2020-01-11 — 03:15:17 UTC	Jake_Stiles, Libster, micerang, Razvogor, Sucubis	3	6	30
 74804	3	23	Brown (5 Suits)	2020-01-10 — 03:57:40 UTC	charlesfire, Razvogor, ZeNertox	7	5	25
@@ -1528,14 +1528,14 @@
 70969	4	20	Up or Down (5 Suits)	2019-12-15 — 01:35:20 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	35	5	25
 70848	3	0	Rainbow (5 Suits)	2019-12-13 — 05:57:29 UTC	Razvogor, scharkbite, Valetta6789	9	5	25
 70846	3	0	Rainbow (5 Suits)	2019-12-13 — 05:52:16 UTC	Razvogor, scharkbite, Valetta6789	8	5	25
-70845	3	24	No Variant	2019-12-13 — 05:47:30 UTC	Razvogor, scharkbite, Valetta6789	157	5	25
+70845	3	24	No Variant	2019-12-13 — 05:47:30 UTC	Razvogor, scharkbite, Valetta6789	160	5	25
 70842	4	23	Rainbow & Null (5 Suits)	2019-12-13 — 05:28:24 UTC	micerang, Razvogor, scharkbite, Zamiel	2	5	25
 70839	4	0	Rainbow & Null (5 Suits)	2019-12-13 — 05:05:36 UTC	micerang, Razvogor, scharkbite, Zamiel	2	5	25
 70838	4	0	Rainbow & Null (5 Suits)	2019-12-13 — 04:59:34 UTC	micerang, Razvogor, scharkbite, Zamiel	3	5	25
-70835	4	0	Rainbow & Null (5 Suits)	2019-12-13 — 04:43:04 UTC	micerang, Razvogor, scharkbite, Zamiel	4	5	25
+70835	4	0	Rainbow & Null (5 Suits)	2019-12-13 — 04:43:04 UTC	micerang, Razvogor, scharkbite, Zamiel	5	5	25
 70810	6	30	White (6 Suits)	2019-12-12 — 21:13:52 UTC	asaelr, Fireheart, Kyle, Livia, Razvogor, Valetta6789	4	6	30
-69967	3	25	No Variant	2019-12-08 — 05:17:26 UTC	charlesfire, Razvogor, ZeNertox	100	5	25
-69962	3	0	Throw It in a Hole (4 Suits)	2019-12-08 — 04:56:54 UTC	charlesfire, Razvogor, ZeNertox	27	4	20
+69967	3	25	No Variant	2019-12-08 — 05:17:26 UTC	charlesfire, Razvogor, ZeNertox	103	5	25
+69962	3	0	Throw It in a Hole (4 Suits)	2019-12-08 — 04:56:54 UTC	charlesfire, Razvogor, ZeNertox	28	4	20
 69958	3	0	Omni (5 Suits)	2019-12-08 — 04:39:02 UTC	charlesfire, Razvogor, ZeNertox	12	5	25
 69954	3	0	Omni (5 Suits)	2019-12-08 — 04:28:13 UTC	charlesfire, Razvogor, ZeNertox	11	5	25
 69952	3	0	Omni (5 Suits)	2019-12-08 — 04:20:33 UTC	charlesfire, Razvogor, ZeNertox	21	5	25
@@ -1637,7 +1637,7 @@
 68163	5	0	Black (6 Suits)	2019-12-03 — 03:12:18 UTC	florrat2, Jake_Stiles, Libster, NoMercy, Razvogor	2	6	30
 68162	5	0	Black (6 Suits)	2019-12-03 — 03:09:57 UTC	florrat2, Jake_Stiles, Libster, NoMercy, Razvogor	2	6	30
 68160	6	25	Black & Rainbow (5 Suits)	2019-12-03 — 02:44:05 UTC	florrat2, IAMJEFF, Jake_Stiles, Libster, NoMercy, Razvogor	5	5	25
-68157	5	20	Black & Rainbow (5 Suits)	2019-12-03 — 02:13:04 UTC	florrat2, IAMJEFF, Libster, micerang, Razvogor	6	5	25
+68157	5	20	Black & Rainbow (5 Suits)	2019-12-03 — 02:13:04 UTC	florrat2, IAMJEFF, Libster, micerang, Razvogor	7	5	25
 68154	3	0	Black & Rainbow (5 Suits)	2019-12-03 — 01:50:57 UTC	Libster, micerang, Razvogor	58	5	25
 68000	3	0	4 Suits	2019-12-02 — 02:23:32 UTC	Marco, Razvogor, The Kaito Kid	5	4	20
 67998	3	20	4 Suits	2019-12-02 — 02:06:08 UTC	Marco, Razvogor, The Kaito Kid	5	4	20
@@ -1884,7 +1884,7 @@
 67629	4	12	Pink & Brown (3 Suits)	2019-12-01 — 04:39:55 UTC	Fireheart, IAMJEFF, Razvogor, scharkbite	2	3	15
 67627	4	0	Pink & Brown (3 Suits)	2019-12-01 — 04:29:35 UTC	Fireheart, IAMJEFF, Razvogor, scharkbite	2	3	15
 67626	4	0	Pink & Brown (3 Suits)	2019-12-01 — 04:22:43 UTC	Fireheart, IAMJEFF, Razvogor, scharkbite	2	3	15
-67625	4	14	Pink & Brown (3 Suits)	2019-12-01 — 04:15:10 UTC	Fireheart, IAMJEFF, Razvogor, scharkbite	2	3	15
+67625	4	14	Pink & Brown (3 Suits)	2019-12-01 — 04:15:10 UTC	Fireheart, IAMJEFF, Razvogor, scharkbite	3	3	15
 67621	4	0	Omni & Null (3 Suits)	2019-12-01 — 04:05:12 UTC	Fireheart, IAMJEFF, micerang, Razvogor	1	3	15
 67619	4	0	Omni & Null (3 Suits)	2019-12-01 — 03:57:59 UTC	Fireheart, IAMJEFF, micerang, Razvogor	3	3	15
 67424	5	0	Black & Rainbow (6 Suits)	2019-11-30 — 02:45:24 UTC	florrat2, IAMJEFF, Libster, Razvogor, Zamiel	2	6	30
@@ -1929,10 +1929,10 @@
 67044	5	28	6 Suits	2019-11-28 — 03:07:43 UTC	florrat2, Libster, NoMercy, Razvogor, Zamiel	1	6	30
 67042	4	25	Up or Down (5 Suits)	2019-11-28 — 02:44:00 UTC	florrat2, Libster, Razvogor, Zamiel	20	5	25
 67038	3	0	Black & Pink (5 Suits)	2019-11-28 — 02:25:26 UTC	florrat2, Libster, Razvogor	29	5	25
-66882	3	25	No Variant	2019-11-27 — 02:26:45 UTC	Marco, Razvogor, The Kaito Kid	83	5	25
-66881	3	0	No Variant	2019-11-27 — 01:34:15 UTC	Marco, Razvogor, The Kaito Kid	82	5	25
-66875	3	25	No Variant	2019-11-27 — 01:03:41 UTC	Marco, Razvogor, The Kaito Kid	89	5	25
-66871	3	0	No Variant	2019-11-27 — 00:40:50 UTC	Marco, Razvogor, The Kaito Kid	89	5	25
+66882	3	25	No Variant	2019-11-27 — 02:26:45 UTC	Marco, Razvogor, The Kaito Kid	86	5	25
+66881	3	0	No Variant	2019-11-27 — 01:34:15 UTC	Marco, Razvogor, The Kaito Kid	85	5	25
+66875	3	25	No Variant	2019-11-27 — 01:03:41 UTC	Marco, Razvogor, The Kaito Kid	91	5	25
+66871	3	0	No Variant	2019-11-27 — 00:40:50 UTC	Marco, Razvogor, The Kaito Kid	91	5	25
 66458	4	0	Number Mute (6 Suits)	2019-11-24 — 03:26:15 UTC	IAMJEFF, kopen, Livia, Razvogor	1	6	30
 66457	4	0	Number Mute (6 Suits)	2019-11-24 — 03:15:31 UTC	IAMJEFF, kopen, Livia, Razvogor	1	6	30
 66455	3	0	Number Mute (6 Suits)	2019-11-24 — 02:54:20 UTC	kopen, Livia, Razvogor	2	6	30
@@ -1972,10 +1972,10 @@
 65992	5	0	Black & Rainbow (6 Suits)	2019-11-22 — 04:30:44 UTC	florrat2, Kyle, Razvogor, scharkbite, Zamiel	3	6	30
 65989	4	0	Omni & Dark Rainbow (5 Suits)	2019-11-22 — 04:04:47 UTC	DMoney, florrat2, Razvogor, Zamiel	3	5	25
 65988	5	0	Null (6 Suits)	2019-11-22 — 03:47:03 UTC	DMoney, Fireheart, florrat2, Razvogor, Zamiel	2	6	30
-65984	3	22	No Variant	2019-11-22 — 03:06:17 UTC	Marco, Razvogor, The Kaito Kid	114	5	25
-65973	3	0	No Variant	2019-11-22 — 02:37:35 UTC	Marco, Razvogor, The Kaito Kid	119	5	25
-65966	3	0	No Variant	2019-11-22 — 02:07:21 UTC	Marco, Razvogor, The Kaito Kid	121	5	25
-65961	3	0	No Variant	2019-11-22 — 01:36:01 UTC	Marco, Razvogor, The Kaito Kid	125	5	25
+65984	3	22	No Variant	2019-11-22 — 03:06:17 UTC	Marco, Razvogor, The Kaito Kid	120	5	25
+65973	3	0	No Variant	2019-11-22 — 02:37:35 UTC	Marco, Razvogor, The Kaito Kid	126	5	25
+65966	3	0	No Variant	2019-11-22 — 02:07:21 UTC	Marco, Razvogor, The Kaito Kid	127	5	25
+65961	3	0	No Variant	2019-11-22 — 01:36:01 UTC	Marco, Razvogor, The Kaito Kid	129	5	25
 65948	4	0	Black & Omni (5 Suits)	2019-11-22 — 00:27:26 UTC	Fireheart, Libster, Razvogor, Zamiel	2	5	25
 65947	4	0	Black & Omni (5 Suits)	2019-11-22 — 00:25:13 UTC	Fireheart, Libster, Razvogor, Zamiel	2	5	25
 65943	4	0	Black & Omni (5 Suits)	2019-11-22 — 00:03:55 UTC	Fireheart, Libster, Razvogor, Zamiel	2	5	25
@@ -1986,24 +1986,24 @@
 65929	5	0	Black & Null (6 Suits)	2019-11-21 — 22:55:35 UTC	Fireheart, Kyle, Razvogor, scharkbite, Zamiel	4	6	30
 65795	3	25	White (5 Suits)	2019-11-21 — 03:20:17 UTC	charlesfire, Razvogor, ZeNertox	17	5	25
 65791	3	0	White (5 Suits)	2019-11-21 — 03:00:49 UTC	charlesfire, Razvogor, ZeNertox	23	5	25
-65785	3	0	White (5 Suits)	2019-11-21 — 02:45:54 UTC	charlesfire, Razvogor, ZeNertox	29	5	25
-65781	3	0	White (5 Suits)	2019-11-21 — 02:33:35 UTC	charlesfire, Razvogor, ZeNertox	29	5	25
+65785	3	0	White (5 Suits)	2019-11-21 — 02:45:54 UTC	charlesfire, Razvogor, ZeNertox	30	5	25
+65781	3	0	White (5 Suits)	2019-11-21 — 02:33:35 UTC	charlesfire, Razvogor, ZeNertox	30	5	25
 65776	3	0	Up or Down (5 Suits)	2019-11-21 — 02:25:01 UTC	charlesfire, Razvogor, ZeNertox	12	5	25
 65774	3	0	Up or Down (5 Suits)	2019-11-21 — 02:17:39 UTC	charlesfire, Razvogor, ZeNertox	12	5	25
 65771	3	21	Up or Down (5 Suits)	2019-11-21 — 02:02:17 UTC	charlesfire, Razvogor, ZeNertox	14	5	25
 65767	3	0	Up or Down (5 Suits)	2019-11-21 — 01:41:37 UTC	charlesfire, Razvogor, ZeNertox	14	5	25
 65762	3	0	Up or Down (5 Suits)	2019-11-21 — 01:27:22 UTC	charlesfire, Razvogor, ZeNertox	15	5	25
-65757	3	25	Up or Down (5 Suits)	2019-11-21 — 01:15:05 UTC	charlesfire, Razvogor, ZeNertox	17	5	25
-65750	3	0	Up or Down (5 Suits)	2019-11-21 — 00:52:35 UTC	charlesfire, Razvogor, ZeNertox	19	5	25
+65757	3	25	Up or Down (5 Suits)	2019-11-21 — 01:15:05 UTC	charlesfire, Razvogor, ZeNertox	18	5	25
+65750	3	0	Up or Down (5 Suits)	2019-11-21 — 00:52:35 UTC	charlesfire, Razvogor, ZeNertox	20	5	25
 65426	4	0	Rainbow & Omni (6 Suits)	2019-11-19 — 03:16:14 UTC	Fireheart, Jake_Stiles, Razvogor, Zamiel	4	6	30
-65424	4	0	Rainbow & Omni (6 Suits)	2019-11-19 — 03:07:55 UTC	Fireheart, Jake_Stiles, Razvogor, Zamiel	4	6	30
+65424	4	0	Rainbow & Omni (6 Suits)	2019-11-19 — 03:07:55 UTC	Fireheart, Jake_Stiles, Razvogor, Zamiel	5	6	30
 65420	4	0	Black & Null (5 Suits)	2019-11-19 — 02:52:35 UTC	Fireheart, Jake_Stiles, Razvogor, Zamiel	1	5	25
 65415	4	22	Black & Null (5 Suits)	2019-11-19 — 02:27:27 UTC	Fireheart, IAMJEFF, Razvogor, Zamiel	1	5	25
 65414	4	0	Black & Null (5 Suits)	2019-11-19 — 02:10:27 UTC	Fireheart, IAMJEFF, Razvogor, Zamiel	1	5	25
 65412	3	24	Black & Null (5 Suits)	2019-11-19 — 02:00:55 UTC	Fireheart, Razvogor, Zamiel	1	5	25
-65410	2	0	Pink & White (4 Suits)	2019-11-19 — 01:44:59 UTC	Razvogor, Zamiel	21	4	20
-65409	2	25	Pink & White (5 Suits)	2019-11-19 — 01:35:10 UTC	Razvogor, Zamiel	24	5	25
-65407	2	0	Pink & White (5 Suits)	2019-11-19 — 01:25:02 UTC	Razvogor, Zamiel	31	5	25
+65410	2	0	Pink & White (4 Suits)	2019-11-19 — 01:44:59 UTC	Razvogor, Zamiel	22	4	20
+65409	2	25	Pink & White (5 Suits)	2019-11-19 — 01:35:10 UTC	Razvogor, Zamiel	26	5	25
+65407	2	0	Pink & White (5 Suits)	2019-11-19 — 01:25:02 UTC	Razvogor, Zamiel	33	5	25
 65404	3	0	Black & Null (5 Suits)	2019-11-19 — 01:08:50 UTC	Fireheart, Razvogor, Zamiel	1	5	25
 65401	3	0	Black & Null (5 Suits)	2019-11-19 — 00:56:21 UTC	Fireheart, Razvogor, Zamiel	1	5	25
 65400	3	0	Black & Null (5 Suits)	2019-11-19 — 00:47:24 UTC	Fireheart, Razvogor, Zamiel	1	5	25
@@ -2019,44 +2019,44 @@
 65242	3	0	Duck (5 Suits)	2019-11-18 — 06:47:23 UTC	Dr_Kakashi, kopen, Razvogor	10	5	25
 65237	4	23	Up or Down & White (5 Suits)	2019-11-18 — 06:11:30 UTC	Dr_Kakashi, florrat2, kopen, Razvogor	5	5	25
 65231	4	0	Up or Down & White (5 Suits)	2019-11-18 — 05:45:54 UTC	Dr_Kakashi, florrat2, kopen, Razvogor	11	5	25
-65230	4	0	Rainbow (5 Suits)	2019-11-18 — 05:37:01 UTC	Dr_Kakashi, florrat2, kopen, Razvogor	19	5	25
-65228	4	25	Rainbow (5 Suits)	2019-11-18 — 05:29:13 UTC	Dr_Kakashi, florrat2, kopen, Razvogor	19	5	25
+65230	4	0	Rainbow (5 Suits)	2019-11-18 — 05:37:01 UTC	Dr_Kakashi, florrat2, kopen, Razvogor	20	5	25
+65228	4	25	Rainbow (5 Suits)	2019-11-18 — 05:29:13 UTC	Dr_Kakashi, florrat2, kopen, Razvogor	20	5	25
 65221	3	25	Rainbow (5 Suits)	2019-11-18 — 05:09:01 UTC	Fireheart, Razvogor, scharkbite	8	5	25
 65213	5	0	Dark Pink (5 Suits)	2019-11-18 — 04:51:50 UTC	Dr_Kakashi, Fireheart, IAMJEFF, Libster, Razvogor	7	5	25
 65211	5	0	Dark Pink (5 Suits)	2019-11-18 — 04:46:54 UTC	Dr_Kakashi, Fireheart, IAMJEFF, Libster, Razvogor	7	5	25
-64946	2	0	Cow & Pig (5 Suits)	2019-11-16 — 04:22:57 UTC	Razvogor, ZeNertox	47	5	25
-64943	2	0	Cow & Pig (5 Suits)	2019-11-16 — 04:07:52 UTC	Razvogor, ZeNertox	65	5	25
-64940	2	25	No Variant	2019-11-16 — 03:56:41 UTC	Razvogor, ZeNertox	5374	5	25
-64936	3	0	No Variant	2019-11-16 — 03:45:45 UTC	charlesfire, Razvogor, ZeNertox	130	5	25
-64933	3	0	No Variant	2019-11-16 — 03:36:39 UTC	charlesfire, Razvogor, ZeNertox	137	5	25
-64925	3	0	No Variant	2019-11-16 — 03:20:52 UTC	charlesfire, Razvogor, ZeNertox	134	5	25
-64920	3	0	No Variant	2019-11-16 — 03:08:40 UTC	charlesfire, Razvogor, ZeNertox	141	5	25
+64946	2	0	Cow & Pig (5 Suits)	2019-11-16 — 04:22:57 UTC	Razvogor, ZeNertox	48	5	25
+64943	2	0	Cow & Pig (5 Suits)	2019-11-16 — 04:07:52 UTC	Razvogor, ZeNertox	66	5	25
+64940	2	25	No Variant	2019-11-16 — 03:56:41 UTC	Razvogor, ZeNertox	5421	5	25
+64936	3	0	No Variant	2019-11-16 — 03:45:45 UTC	charlesfire, Razvogor, ZeNertox	135	5	25
+64933	3	0	No Variant	2019-11-16 — 03:36:39 UTC	charlesfire, Razvogor, ZeNertox	142	5	25
+64925	3	0	No Variant	2019-11-16 — 03:20:52 UTC	charlesfire, Razvogor, ZeNertox	140	5	25
+64920	3	0	No Variant	2019-11-16 — 03:08:40 UTC	charlesfire, Razvogor, ZeNertox	145	5	25
 64915	4	0	Up or Down (5 Suits)	2019-11-16 — 02:53:25 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	41	5	25
-64909	3	0	Up or Down (5 Suits)	2019-11-16 — 02:37:08 UTC	charlesfire, Razvogor, ZeNertox	24	5	25
+64909	3	0	Up or Down (5 Suits)	2019-11-16 — 02:37:08 UTC	charlesfire, Razvogor, ZeNertox	26	5	25
 64907	4	0	Up or Down (5 Suits)	2019-11-16 — 02:28:34 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	52	5	25
 64905	4	0	Up or Down (5 Suits)	2019-11-16 — 02:11:44 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	75	5	25
 63992	4	0	Pink (5 Suits)	2019-11-11 — 02:26:21 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	51	5	25
 63990	4	0	Pink (5 Suits)	2019-11-11 — 02:07:24 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	69	5	25
-63989	3	0	Pink (5 Suits)	2019-11-11 — 01:45:17 UTC	axe_y, Razvogor, The Kaito Kid	75	5	25
+63989	3	0	Pink (5 Suits)	2019-11-11 — 01:45:17 UTC	axe_y, Razvogor, The Kaito Kid	77	5	25
 62872	3	0	Dual-Color Mix	2019-11-04 — 22:55:22 UTC	asaelr, micerang, Razvogor	9	6	30
 62871	4	0	Dual-Color Mix	2019-11-04 — 22:40:05 UTC	asaelr, honzas, micerang, Razvogor	12	6	30
 62869	4	0	Dual-Color Mix	2019-11-04 — 22:29:19 UTC	asaelr, honzas, micerang, Razvogor	18	6	30
 62868	4	0	Dual-Color Mix	2019-11-04 — 22:17:12 UTC	asaelr, honzas, micerang, Razvogor	20	6	30
 62866	5	30	6 Suits	2019-11-04 — 21:49:45 UTC	honzas, Libster, Livia, micerang, Razvogor	1	6	30
 62864	5	0	No Variant	2019-11-04 — 21:19:42 UTC	honzas, Libster, Livia, micerang, Razvogor	2	5	25
-62862	4	0	Black & Brown (6 Suits)	2019-11-04 — 21:05:27 UTC	Libster, Livia, micerang, Razvogor	11	6	30
-62861	4	0	Black & Brown (6 Suits)	2019-11-04 — 21:01:20 UTC	Libster, Livia, micerang, Razvogor	12	6	30
+62862	4	0	Black & Brown (6 Suits)	2019-11-04 — 21:05:27 UTC	Libster, Livia, micerang, Razvogor	13	6	30
+62861	4	0	Black & Brown (6 Suits)	2019-11-04 — 21:01:20 UTC	Libster, Livia, micerang, Razvogor	13	6	30
 62858	3	0	Black & Brown (6 Suits)	2019-11-04 — 20:52:09 UTC	Libster, Livia, Razvogor	23	6	30
 62654	5	0	Omni (4 Suits)	2019-11-03 — 23:40:48 UTC	kopen, Kyle, Razvogor, scharkbite, Zamiel	1	4	20
 62651	5	0	Omni (4 Suits)	2019-11-03 — 23:26:13 UTC	kopen, Kyle, Razvogor, scharkbite, Zamiel	1	4	20
 62649	5	0	Omni (4 Suits)	2019-11-03 — 23:04:31 UTC	kopen, Kyle, Razvogor, scharkbite, Zamiel	1	4	20
 61847	3	0	Duck (5 Suits)	2019-10-31 — 04:51:30 UTC	kodomazer, kopen, Razvogor	13	5	25
-61842	3	0	Duck (5 Suits)	2019-10-31 — 04:31:15 UTC	kodomazer, kopen, Razvogor	15	5	25
+61842	3	0	Duck (5 Suits)	2019-10-31 — 04:31:15 UTC	kodomazer, kopen, Razvogor	16	5	25
 61838	4	0	Duck (5 Suits)	2019-10-31 — 04:21:30 UTC	invarse, kodomazer, kopen, Razvogor	5	5	25
-61829	3	0	Duck (5 Suits)	2019-10-31 — 04:04:14 UTC	invarse, kodomazer, Razvogor	14	5	25
-61826	3	0	Duck (5 Suits)	2019-10-31 — 03:54:32 UTC	invarse, kodomazer, Razvogor	14	5	25
-61825	4	0	Duck (5 Suits)	2019-10-31 — 03:46:05 UTC	invarse, Jake_Stiles, kodomazer, Razvogor	6	5	25
-61823	4	0	Duck (5 Suits)	2019-10-31 — 03:30:14 UTC	invarse, Jake_Stiles, kodomazer, Razvogor	8	5	25
+61829	3	0	Duck (5 Suits)	2019-10-31 — 04:04:14 UTC	invarse, kodomazer, Razvogor	15	5	25
+61826	3	0	Duck (5 Suits)	2019-10-31 — 03:54:32 UTC	invarse, kodomazer, Razvogor	15	5	25
+61825	4	0	Duck (5 Suits)	2019-10-31 — 03:46:05 UTC	invarse, Jake_Stiles, kodomazer, Razvogor	7	5	25
+61823	4	0	Duck (5 Suits)	2019-10-31 — 03:30:14 UTC	invarse, Jake_Stiles, kodomazer, Razvogor	9	5	25
 61821	4	0	Duck (5 Suits)	2019-10-31 — 03:15:56 UTC	invarse, Jake_Stiles, kodomazer, Razvogor	10	5	25
 61818	3	0	Special Mix (5 Suits)	2019-10-31 — 02:55:52 UTC	Fireheart, Jake_Stiles, Razvogor	28	5	25
 61817	3	0	Special Mix (5 Suits)	2019-10-31 — 02:48:51 UTC	Fireheart, Jake_Stiles, Razvogor	30	5	25
@@ -2065,47 +2065,47 @@
 61798	5	30	Dark Pink (6 Suits)	2019-10-31 — 01:19:30 UTC	910dan, Fireheart, Livia, Razvogor, Zamiel	1	6	30
 61795	4	12	Very Ambiguous (3 Suits)	2019-10-31 — 00:54:40 UTC	910dan, Livia, Razvogor, Zamiel	2	3	15
 61793	4	14	Very Ambiguous (3 Suits)	2019-10-31 — 00:39:32 UTC	910dan, Livia, Razvogor, Zamiel	2	3	15
-61549	4	17	Cow & Pig (4 Suits)	2019-10-29 — 23:09:34 UTC	micerang, Razvogor, Romain672, scharkbite	4	4	20
+61549	4	17	Cow & Pig (4 Suits)	2019-10-29 — 23:09:34 UTC	micerang, Razvogor, Romain672, scharkbite	5	4	20
 61548	5	0	Cow & Pig (4 Suits)	2019-10-29 — 22:39:09 UTC	invarse, micerang, NoMercy, Razvogor, scharkbite	1	4	20
 61544	3	25	Black & White (5 Suits)	2019-10-29 — 22:16:44 UTC	Floriman, micerang, Razvogor	2	5	25
 61329	3	0	Duck (5 Suits)	2019-10-29 — 05:07:22 UTC	kopen, Razvogor, scharkbite	15	5	25
 61327	3	0	Duck (5 Suits)	2019-10-29 — 05:02:36 UTC	kopen, Razvogor, scharkbite	17	5	25
 61326	4	0	Duck (5 Suits)	2019-10-29 — 04:55:38 UTC	Fireheart, kopen, Razvogor, scharkbite	13	5	25
-61325	4	0	Duck (5 Suits)	2019-10-29 — 04:49:40 UTC	Fireheart, kopen, Razvogor, scharkbite	27	5	25
+61325	4	0	Duck (5 Suits)	2019-10-29 — 04:49:40 UTC	Fireheart, kopen, Razvogor, scharkbite	28	5	25
 61324	5	0	Pink (6 Suits)	2019-10-29 — 04:45:40 UTC	Fireheart, kopen, Libster, Razvogor, scharkbite	8	6	30
 61323	5	0	Pink (6 Suits)	2019-10-29 — 04:41:12 UTC	Fireheart, kopen, Libster, Razvogor, scharkbite	9	6	30
 61319	5	0	Duck (5 Suits)	2019-10-29 — 04:28:52 UTC	Fireheart, kopen, Libster, Razvogor, scharkbite	9	5	25
 61315	3	0	Duck (5 Suits)	2019-10-29 — 04:16:02 UTC	Fireheart, Razvogor, scharkbite	16	5	25
-61313	5	0	Black & Rainbow (6 Suits)	2019-10-29 — 03:56:21 UTC	efaust, Fireheart, kopen, Razvogor, sjdrodge	20	6	30
+61313	5	0	Black & Rainbow (6 Suits)	2019-10-29 — 03:56:21 UTC	efaust, Fireheart, kopen, Razvogor, sjdrodge	21	6	30
 61310	5	30	Black & White (6 Suits)	2019-10-29 — 03:30:22 UTC	efaust, Fireheart, kopen, Razvogor, sjdrodge	10	6	30
 60260	3	0	Dual-Color Mix	2019-10-23 — 03:46:36 UTC	kopen, Kyle, Razvogor	11	6	30
 60259	3	0	Dual-Color Mix	2019-10-23 — 03:30:51 UTC	kopen, Kyle, Razvogor	10	6	30
 60257	3	0	Dual-Color Mix	2019-10-23 — 03:16:15 UTC	kopen, Kyle, Razvogor	11	6	30
 60251	3	0	Dual-Color Mix	2019-10-23 — 03:04:50 UTC	kopen, Kyle, Razvogor	11	6	30
 60249	3	0	Dual-Color Mix	2019-10-23 — 02:45:16 UTC	kopen, micerang, Razvogor	12	6	30
-60248	3	0	Dual-Color Mix	2019-10-23 — 02:27:25 UTC	kopen, micerang, Razvogor	12	6	30
+60248	3	0	Dual-Color Mix	2019-10-23 — 02:27:25 UTC	kopen, micerang, Razvogor	13	6	30
 60247	3	0	Dual-Color Mix	2019-10-23 — 02:07:47 UTC	kopen, micerang, Razvogor	16	6	30
-60245	4	30	White (6 Suits)	2019-10-23 — 01:48:02 UTC	invarse, jeep, NoMercy, Razvogor	60	6	30
-59945	3	25	No Variant	2019-10-21 — 01:40:29 UTC	chenrui327, flebelebele, Razvogor	573	5	25
-59931	4	0	No Variant	2019-10-21 — 00:42:04 UTC	chenrui327, flebelebele, pablo, Razvogor	1744	5	25
-59776	3	0	White (5 Suits)	2019-10-20 — 03:17:07 UTC	2426827648237, flebelebele, Razvogor	35	5	25
-59770	3	0	White (5 Suits)	2019-10-20 — 02:47:29 UTC	2426827648237, flebelebele, Razvogor	41	5	25
-59765	4	21	No Variant	2019-10-20 — 02:00:31 UTC	2426827648237, flebelebele, pablo, Razvogor	2763	5	25
-59762	4	0	No Variant	2019-10-20 — 01:14:58 UTC	2426827648237, flebelebele, pablo, Razvogor	3581	5	25
-59758	3	0	No Variant	2019-10-20 — 00:51:51 UTC	2426827648237, flebelebele, Razvogor	624	5	25
+60245	4	30	White (6 Suits)	2019-10-23 — 01:48:02 UTC	invarse, jeep, NoMercy, Razvogor	62	6	30
+59945	3	25	No Variant	2019-10-21 — 01:40:29 UTC	chenrui327, flebelebele, Razvogor	582	5	25
+59931	4	0	No Variant	2019-10-21 — 00:42:04 UTC	chenrui327, flebelebele, pablo, Razvogor	1759	5	25
+59776	3	0	White (5 Suits)	2019-10-20 — 03:17:07 UTC	2426827648237, flebelebele, Razvogor	37	5	25
+59770	3	0	White (5 Suits)	2019-10-20 — 02:47:29 UTC	2426827648237, flebelebele, Razvogor	44	5	25
+59765	4	21	No Variant	2019-10-20 — 02:00:31 UTC	2426827648237, flebelebele, pablo, Razvogor	2788	5	25
+59762	4	0	No Variant	2019-10-20 — 01:14:58 UTC	2426827648237, flebelebele, pablo, Razvogor	3609	5	25
+59758	3	0	No Variant	2019-10-20 — 00:51:51 UTC	2426827648237, flebelebele, Razvogor	632	5	25
 59667	4	0	Throw It in a Hole (6 Suits)	2019-10-19 — 07:31:55 UTC	NoMercy, Razvogor, Romain672, Zamiel	7	6	30
 59665	4	0	Throw It in a Hole (6 Suits)	2019-10-19 — 06:59:44 UTC	NoMercy, Razvogor, Romain672, Zamiel	15	6	30
 59663	4	20	Throw It in a Hole (4 Suits)	2019-10-19 — 06:41:29 UTC	NoMercy, Razvogor, Romain672, Zamiel	12	4	20
-59661	4	25	Throw It in a Hole (5 Suits)	2019-10-19 — 06:21:27 UTC	NoMercy, Razvogor, Romain672, Zamiel	20	5	25
-59657	3	0	Throw It in a Hole (5 Suits)	2019-10-19 — 06:02:39 UTC	NoMercy, Razvogor, Zamiel	5	5	25
-59654	3	0	Throw It in a Hole (5 Suits)	2019-10-19 — 05:38:32 UTC	NoMercy, Razvogor, Zamiel	6	5	25
+59661	4	25	Throw It in a Hole (5 Suits)	2019-10-19 — 06:21:27 UTC	NoMercy, Razvogor, Romain672, Zamiel	21	5	25
+59657	3	0	Throw It in a Hole (5 Suits)	2019-10-19 — 06:02:39 UTC	NoMercy, Razvogor, Zamiel	6	5	25
+59654	3	0	Throw It in a Hole (5 Suits)	2019-10-19 — 05:38:32 UTC	NoMercy, Razvogor, Zamiel	7	5	25
 59651	3	0	Throw It in a Hole (5 Suits)	2019-10-19 — 05:16:24 UTC	NoMercy, Razvogor, Zamiel	9	5	25
 59650	3	0	Throw It in a Hole (5 Suits)	2019-10-19 — 05:08:02 UTC	NoMercy, Razvogor, Zamiel	12	5	25
 59647	6	0	Black (5 Suits)	2019-10-19 — 05:00:28 UTC	Fireheart, NoMercy, Razvogor, Romain672, scharkbite, Zamiel	4	5	25
 59412	3	0	Cocoa Rainbow (6 Suits)	2019-10-18 — 04:08:50 UTC	Razvogor, scharkbite, Zamiel	21	6	30
 59409	3	29	Cocoa Rainbow (6 Suits)	2019-10-18 — 03:57:37 UTC	Razvogor, scharkbite, Zamiel	20	6	30
 59407	3	0	Cocoa Rainbow (6 Suits)	2019-10-18 — 03:36:17 UTC	Razvogor, scharkbite, Zamiel	30	6	30
-59405	3	0	Cocoa Rainbow (6 Suits)	2019-10-18 — 03:30:41 UTC	Razvogor, scharkbite, Zamiel	32	6	30
+59405	3	0	Cocoa Rainbow (6 Suits)	2019-10-18 — 03:30:41 UTC	Razvogor, scharkbite, Zamiel	33	6	30
 59404	5	0	No Variant	2019-10-18 — 03:21:41 UTC	DMoney, kopen, Razvogor, scharkbite, Zamiel	1	5	25
 59403	5	24	No Variant	2019-10-18 — 03:10:17 UTC	DMoney, kopen, Razvogor, scharkbite, Zamiel	1	5	25
 59401	5	0	No Variant	2019-10-18 — 03:04:25 UTC	DMoney, kopen, Razvogor, scharkbite, Zamiel	1	5	25
@@ -2120,13 +2120,13 @@
 59389	2	0	White & Dark Pink (6 Suits)	2019-10-18 — 01:13:21 UTC	Razvogor, Zamiel	3	6	30
 59388	2	0	White & Dark Pink (6 Suits)	2019-10-18 — 01:06:30 UTC	Razvogor, Zamiel	3	6	30
 59387	2	0	White & Dark Pink (6 Suits)	2019-10-18 — 01:04:21 UTC	Razvogor, Zamiel	3	6	30
-59385	2	0	White & Dark Pink (6 Suits)	2019-10-18 — 01:01:42 UTC	Razvogor, Zamiel	4	6	30
-59384	2	0	White & Dark Pink (6 Suits)	2019-10-18 — 01:00:06 UTC	Razvogor, Zamiel	4	6	30
-59383	2	0	White & Dark Pink (6 Suits)	2019-10-18 — 00:56:44 UTC	Razvogor, Zamiel	4	6	30
-59382	2	0	White & Dark Pink (6 Suits)	2019-10-18 — 00:49:23 UTC	Razvogor, Zamiel	10	6	30
-59381	2	0	White & Dark Pink (6 Suits)	2019-10-18 — 00:40:32 UTC	Razvogor, Zamiel	10	6	30
-59380	2	0	White & Dark Pink (6 Suits)	2019-10-18 — 00:35:23 UTC	Razvogor, Zamiel	11	6	30
-58811	3	0	Up or Down & Pink (5 Suits)	2019-10-14 — 03:15:14 UTC	Fireheart, kopen, Razvogor	16	5	25
+59385	2	0	White & Dark Pink (6 Suits)	2019-10-18 — 01:01:42 UTC	Razvogor, Zamiel	5	6	30
+59384	2	0	White & Dark Pink (6 Suits)	2019-10-18 — 01:00:06 UTC	Razvogor, Zamiel	6	6	30
+59383	2	0	White & Dark Pink (6 Suits)	2019-10-18 — 00:56:44 UTC	Razvogor, Zamiel	6	6	30
+59382	2	0	White & Dark Pink (6 Suits)	2019-10-18 — 00:49:23 UTC	Razvogor, Zamiel	12	6	30
+59381	2	0	White & Dark Pink (6 Suits)	2019-10-18 — 00:40:32 UTC	Razvogor, Zamiel	12	6	30
+59380	2	0	White & Dark Pink (6 Suits)	2019-10-18 — 00:35:23 UTC	Razvogor, Zamiel	13	6	30
+58811	3	0	Up or Down & Pink (5 Suits)	2019-10-14 — 03:15:14 UTC	Fireheart, kopen, Razvogor	17	5	25
 58807	6	27	Pink (6 Suits)	2019-10-14 — 02:46:21 UTC	DMoney, Fireheart, florrat2, kopen, micerang, Razvogor	3	6	30
 58804	6	0	Pink (6 Suits)	2019-10-14 — 02:11:28 UTC	DMoney, Fireheart, florrat2, kopen, micerang, Razvogor	3	6	30
 58803	5	0	Cocoa Rainbow (6 Suits)	2019-10-14 — 01:56:57 UTC	DMoney, Fireheart, kopen, micerang, Razvogor	6	6	30
@@ -2137,12 +2137,12 @@
 57653	4	24	Up or Down & Pink (5 Suits)	2019-10-05 — 04:10:14 UTC	Fireheart, Kyle, Razvogor, scharkbite	6	5	25
 57652	5	0	Black & White (5 Suits)	2019-10-05 — 03:57:00 UTC	Fireheart, Kyle, Libster, Razvogor, scharkbite	7	5	25
 57650	5	0	Up or Down & Pink (5 Suits)	2019-10-05 — 03:45:12 UTC	Fireheart, Kyle, Libster, Razvogor, scharkbite	2	5	25
-57648	5	30	Black (6 Suits)	2019-10-05 — 03:21:11 UTC	Fireheart, Kyle, micerang, Razvogor, scharkbite	16	6	30
-57646	5	26	Black (6 Suits)	2019-10-05 — 02:52:42 UTC	Fireheart, Kyle, micerang, NoMercy, Razvogor	22	6	30
+57648	5	30	Black (6 Suits)	2019-10-05 — 03:21:11 UTC	Fireheart, Kyle, micerang, Razvogor, scharkbite	17	6	30
+57646	5	26	Black (6 Suits)	2019-10-05 — 02:52:42 UTC	Fireheart, Kyle, micerang, NoMercy, Razvogor	23	6	30
 57409	4	25	Up or Down & Pink (5 Suits)	2019-10-03 — 04:33:03 UTC	Fireheart, micerang, Razvogor, scharkbite	5	5	25
 57408	4	0	Up or Down & Pink (5 Suits)	2019-10-03 — 04:21:18 UTC	Fireheart, micerang, Razvogor, scharkbite	8	5	25
 57406	4	0	Up or Down & Pink (5 Suits)	2019-10-03 — 04:14:53 UTC	Fireheart, micerang, Razvogor, scharkbite	12	5	25
-57405	4	25	No Variant	2019-10-03 — 04:02:05 UTC	Fireheart, micerang, Razvogor, scharkbite	36	5	25
+57405	4	25	No Variant	2019-10-03 — 04:02:05 UTC	Fireheart, micerang, Razvogor, scharkbite	37	5	25
 57402	5	0	Omni (4 Suits)	2019-10-03 — 03:49:49 UTC	Fireheart, micerang, Razvogor, scharkbite, Zamiel	1	4	20
 57400	4	0	Black & Omni (5 Suits)	2019-10-03 — 03:39:21 UTC	Fireheart, Razvogor, scharkbite, Zamiel	2	5	25
 57399	4	0	Black & Omni (5 Suits)	2019-10-03 — 03:26:08 UTC	Fireheart, Razvogor, scharkbite, Zamiel	2	5	25
@@ -2155,7 +2155,7 @@
 57362	4	0	Pink & Omni (5 Suits)	2019-10-03 — 02:14:11 UTC	invarse, Razvogor, scharkbite, Zamiel	3	5	25
 57360	4	0	Pink & Omni (5 Suits)	2019-10-03 — 02:06:34 UTC	invarse, Razvogor, scharkbite, Zamiel	4	5	25
 57357	4	0	Pink & Omni (5 Suits)	2019-10-03 — 01:52:30 UTC	invarse, Razvogor, scharkbite, Zamiel	6	5	25
-57247	3	22	No Variant	2019-10-02 — 05:02:34 UTC	Kyle, Razvogor, Valetta6789	354	5	25
+57247	3	22	No Variant	2019-10-02 — 05:02:34 UTC	Kyle, Razvogor, Valetta6789	359	5	25
 56999	5	29	Dual-Color & Rainbow (6 Suits)	2019-09-30 — 02:39:27 UTC	Fireheart, florrat2, Kyle, Razvogor, Zamiel	1	6	30
 56998	5	0	Dual-Color & Rainbow (6 Suits)	2019-09-30 — 02:03:09 UTC	Fireheart, florrat2, Kyle, Razvogor, Zamiel	1	6	30
 56997	4	13	Pink & White (3 Suits)	2019-09-30 — 01:49:00 UTC	Fireheart, Kyle, Razvogor, Zamiel	1	3	15
@@ -2177,75 +2177,75 @@
 56954	3	20	Rainbow & Pink (4 Suits)	2019-09-29 — 20:51:06 UTC	Dr_Kakashi, Razvogor, Romain672	11	4	20
 56948	3	27	Dual-Color Mix	2019-09-29 — 20:22:01 UTC	Dr_Kakashi, invarse, Razvogor	16	6	30
 56943	4	20	Rainbow & White (4 Suits)	2019-09-29 — 19:58:54 UTC	Fireheart, invarse, Razvogor, Valetta6789	12	4	20
-56940	4	25	Rainbow & White (5 Suits)	2019-09-29 — 19:40:26 UTC	Fireheart, invarse, Razvogor, Valetta6789	23	5	25
+56940	4	25	Rainbow & White (5 Suits)	2019-09-29 — 19:40:26 UTC	Fireheart, invarse, Razvogor, Valetta6789	24	5	25
 56625	3	0	Dual-Color Mix	2019-09-27 — 02:33:26 UTC	axe_y, Razvogor, ZeNertox	19	6	30
 56621	3	0	Dual-Color Mix	2019-09-27 — 02:10:25 UTC	axe_y, Razvogor, ZeNertox	18	6	30
-56619	3	0	Dual-Color Mix	2019-09-27 — 02:05:28 UTC	axe_y, Razvogor, ZeNertox	17	6	30
+56619	3	0	Dual-Color Mix	2019-09-27 — 02:05:28 UTC	axe_y, Razvogor, ZeNertox	18	6	30
 56618	3	0	Dual-Color Mix	2019-09-27 — 01:58:13 UTC	axe_y, Razvogor, ZeNertox	20	6	30
-56616	3	0	Dual-Color Mix	2019-09-27 — 01:46:47 UTC	axe_y, Razvogor, ZeNertox	19	6	30
-56615	3	0	Dual-Color Mix	2019-09-27 — 01:42:43 UTC	axe_y, Razvogor, ZeNertox	19	6	30
+56616	3	0	Dual-Color Mix	2019-09-27 — 01:46:47 UTC	axe_y, Razvogor, ZeNertox	20	6	30
+56615	3	0	Dual-Color Mix	2019-09-27 — 01:42:43 UTC	axe_y, Razvogor, ZeNertox	20	6	30
 56614	3	0	Dual-Color Mix	2019-09-27 — 01:34:10 UTC	axe_y, Razvogor, ZeNertox	25	6	30
-56612	3	0	Dual-Color Mix	2019-09-27 — 01:17:15 UTC	axe_y, Razvogor, ZeNertox	29	6	30
+56612	3	0	Dual-Color Mix	2019-09-27 — 01:17:15 UTC	axe_y, Razvogor, ZeNertox	30	6	30
 56609	3	0	Dual-Color Mix	2019-09-27 — 00:56:02 UTC	axe_y, Razvogor, ZeNertox	33	6	30
 56607	3	25	Up or Down & Rainbow (5 Suits)	2019-09-27 — 00:38:34 UTC	axe_y, Razvogor, ZeNertox	10	5	25
 56603	3	0	Up or Down & Rainbow (5 Suits)	2019-09-27 — 00:21:50 UTC	axe_y, Razvogor, ZeNertox	12	5	25
 56433	3	25	Up or Down & Rainbow (5 Suits)	2019-09-26 — 01:21:44 UTC	axe_y, Razvogor, ZeNertox	19	5	25
-56431	3	0	Up or Down & Rainbow (5 Suits)	2019-09-26 — 01:01:46 UTC	axe_y, Razvogor, ZeNertox	23	5	25
+56431	3	0	Up or Down & Rainbow (5 Suits)	2019-09-26 — 01:01:46 UTC	axe_y, Razvogor, ZeNertox	24	5	25
 56429	3	25	Rainbow & White (5 Suits)	2019-09-26 — 00:44:02 UTC	axe_y, Razvogor, ZeNertox	37	5	25
-56426	3	25	White (5 Suits)	2019-09-26 — 00:20:17 UTC	axe_y, Razvogor, ZeNertox	48	5	25
-56425	3	0	Dual-Color Mix	2019-09-26 — 00:07:16 UTC	axe_y, Razvogor, ZeNertox	42	6	30
+56426	3	25	White (5 Suits)	2019-09-26 — 00:20:17 UTC	axe_y, Razvogor, ZeNertox	52	5	25
+56425	3	0	Dual-Color Mix	2019-09-26 — 00:07:16 UTC	axe_y, Razvogor, ZeNertox	43	6	30
 56284	3	22	Rainbow & Gray (5 Suits)	2019-09-25 — 01:14:04 UTC	DMoney, Razvogor, Romain672	2	5	25
 56282	5	24	Black (5 Suits)	2019-09-25 — 00:47:08 UTC	asaelr, Kyle, Libster, Razvogor, Romain672	18	5	25
-56281	4	0	Rainbow (5 Suits)	2019-09-25 — 00:15:29 UTC	asaelr, Kyle, Razvogor, Romain672	17	5	25
-56280	4	0	Black (6 Suits)	2019-09-24 — 23:57:12 UTC	asaelr, kodomazer, Kyle, Razvogor	71	6	30
-56184	3	0	Up or Down (5 Suits)	2019-09-24 — 02:17:54 UTC	axe_y, Razvogor, ZeNertox	25	5	25
-56183	3	0	Up or Down (5 Suits)	2019-09-24 — 02:06:27 UTC	axe_y, Razvogor, ZeNertox	29	5	25
+56281	4	0	Rainbow (5 Suits)	2019-09-25 — 00:15:29 UTC	asaelr, Kyle, Razvogor, Romain672	18	5	25
+56280	4	0	Black (6 Suits)	2019-09-24 — 23:57:12 UTC	asaelr, kodomazer, Kyle, Razvogor	73	6	30
+56184	3	0	Up or Down (5 Suits)	2019-09-24 — 02:17:54 UTC	axe_y, Razvogor, ZeNertox	27	5	25
+56183	3	0	Up or Down (5 Suits)	2019-09-24 — 02:06:27 UTC	axe_y, Razvogor, ZeNertox	31	5	25
 56180	3	0	Omni (5 Suits)	2019-09-24 — 01:55:56 UTC	axe_y, Razvogor, ZeNertox	50	5	25
-56175	4	25	Pink & Brown (5 Suits)	2019-09-24 — 01:32:23 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	10	5	25
+56175	4	25	Pink & Brown (5 Suits)	2019-09-24 — 01:32:23 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	11	5	25
 56168	4	0	Pink & Brown (5 Suits)	2019-09-24 — 01:08:34 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	15	5	25
 56166	4	20	Rainbow & Pink (4 Suits)	2019-09-24 — 00:45:40 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	10	4	20
 55599	3	0	Null (3 Suits)	2019-09-20 — 00:38:36 UTC	NoMercy, Razvogor, Zamiel	7	3	15
 55593	2	0	Clue Starved (6 Suits)	2019-09-19 — 23:44:57 UTC	Libster, Razvogor	4	6	30
 55591	2	0	Clue Starved (6 Suits)	2019-09-19 — 23:35:31 UTC	Libster, Razvogor	4	6	30
 55590	2	0	Clue Starved (6 Suits)	2019-09-19 — 23:26:59 UTC	Libster, Razvogor	4	6	30
-55372	4	20	4 Suits	2019-09-18 — 02:55:11 UTC	DMoney, Fireheart, Ptheven, Razvogor	7	4	20
-55371	4	0	4 Suits	2019-09-18 — 02:42:42 UTC	DMoney, Fireheart, Ptheven, Razvogor	8	4	20
+55372	4	20	4 Suits	2019-09-18 — 02:55:11 UTC	DMoney, Fireheart, Ptheven, Razvogor	8	4	20
+55371	4	0	4 Suits	2019-09-18 — 02:42:42 UTC	DMoney, Fireheart, Ptheven, Razvogor	9	4	20
 55370	4	0	4 Suits	2019-09-18 — 02:35:35 UTC	DMoney, Fireheart, Ptheven, Razvogor	10	4	20
 55368	4	0	4 Suits	2019-09-18 — 02:29:21 UTC	DMoney, Fireheart, Ptheven, Razvogor	10	4	20
 55367	4	0	4 Suits	2019-09-18 — 02:21:30 UTC	DMoney, Fireheart, Ptheven, Razvogor	12	4	20
 55364	5	0	Rainbow (5 Suits)	2019-09-18 — 01:52:18 UTC	DMoney, Libster, micerang, Razvogor, Romain672	1	5	25
 55362	5	0	Rainbow (5 Suits)	2019-09-18 — 01:37:04 UTC	DMoney, Libster, micerang, Razvogor, Romain672	2	5	25
-55315	4	19	4 Suits	2019-09-17 — 20:12:19 UTC	awe, Razvogor, Romain672, Valetta6789	17	4	20
-55312	4	30	6 Suits	2019-09-17 — 19:32:41 UTC	RaKXeR, Razvogor, Romain672, Valetta6789	120	6	30
-55310	4	0	Black (5 Suits)	2019-09-17 — 19:00:24 UTC	RaKXeR, Razvogor, Romain672, Valetta6789	98	5	25
-55300	5	25	Rainbow (5 Suits)	2019-09-17 — 16:58:17 UTC	Fireheart, IAMJEFF, Kyle, Razvogor, Romain672	54	5	25
+55315	4	19	4 Suits	2019-09-17 — 20:12:19 UTC	awe, Razvogor, Romain672, Valetta6789	18	4	20
+55312	4	30	6 Suits	2019-09-17 — 19:32:41 UTC	RaKXeR, Razvogor, Romain672, Valetta6789	122	6	30
+55310	4	0	Black (5 Suits)	2019-09-17 — 19:00:24 UTC	RaKXeR, Razvogor, Romain672, Valetta6789	101	5	25
+55300	5	25	Rainbow (5 Suits)	2019-09-17 — 16:58:17 UTC	Fireheart, IAMJEFF, Kyle, Razvogor, Romain672	55	5	25
 55187	3	0	Duck (5 Suits)	2019-09-17 — 02:55:27 UTC	micerang, Razvogor, Zamiel	22	5	25
 55186	3	0	Duck (5 Suits)	2019-09-17 — 02:44:49 UTC	micerang, Razvogor, Zamiel	25	5	25
 55181	5	29	Very Ambiguous (6 Suits)	2019-09-17 — 02:10:03 UTC	micerang, Ptheven, Razvogor, Romain672, Zamiel	2	6	30
 55180	5	0	Very Ambiguous (6 Suits)	2019-09-17 — 01:37:26 UTC	micerang, Ptheven, Razvogor, Romain672, Zamiel	2	6	30
 55176	4	0	Black & Omni (5 Suits)	2019-09-17 — 01:20:57 UTC	micerang, Razvogor, Romain672, Zamiel	8	5	25
-55173	3	0	Dark Pink (5 Suits)	2019-09-17 — 01:04:28 UTC	Razvogor, Romain672, Zamiel	42	5	25
-55172	3	0	Dark Pink (6 Suits)	2019-09-17 — 00:36:16 UTC	invarse, Razvogor, Zamiel	16	6	30
-55170	3	0	Dark Pink (6 Suits)	2019-09-17 — 00:26:46 UTC	invarse, Razvogor, Zamiel	18	6	30
-55169	3	0	Dark Pink (6 Suits)	2019-09-17 — 00:14:16 UTC	invarse, Razvogor, Zamiel	24	6	30
-55136	4	0	Rainbow (5 Suits)	2019-09-16 — 21:19:38 UTC	asaelr, Floriman, Razvogor, Romain672	30	5	25
-55135	4	24	Rainbow (5 Suits)	2019-09-16 — 21:00:12 UTC	asaelr, Floriman, Razvogor, Romain672	38	5	25
+55173	3	0	Dark Pink (5 Suits)	2019-09-17 — 01:04:28 UTC	Razvogor, Romain672, Zamiel	44	5	25
+55172	3	0	Dark Pink (6 Suits)	2019-09-17 — 00:36:16 UTC	invarse, Razvogor, Zamiel	17	6	30
+55170	3	0	Dark Pink (6 Suits)	2019-09-17 — 00:26:46 UTC	invarse, Razvogor, Zamiel	19	6	30
+55169	3	0	Dark Pink (6 Suits)	2019-09-17 — 00:14:16 UTC	invarse, Razvogor, Zamiel	25	6	30
+55136	4	0	Rainbow (5 Suits)	2019-09-16 — 21:19:38 UTC	asaelr, Floriman, Razvogor, Romain672	31	5	25
+55135	4	24	Rainbow (5 Suits)	2019-09-16 — 21:00:12 UTC	asaelr, Floriman, Razvogor, Romain672	40	5	25
 55130	4	0	Rainbow (5 Suits)	2019-09-16 — 20:34:07 UTC	asaelr, Floriman, Razvogor, Romain672	63	5	25
 55021	5	29	Dual-Color & Rainbow (6 Suits)	2019-09-16 — 01:13:51 UTC	Cory, Kyle, Razvogor, Romain672, Zamiel	1	6	30
 55020	5	0	Dual-Color & Rainbow (6 Suits)	2019-09-16 — 00:31:09 UTC	Cory, Kyle, Razvogor, Romain672, Zamiel	1	6	30
 55019	4	0	Dual-Color Mix	2019-09-16 — 00:05:13 UTC	Kyle, Razvogor, Romain672, Zamiel	1	6	30
 54969	5	30	Gray (6 Suits)	2019-09-15 — 17:07:16 UTC	asaelr, IAMJEFF, Libster, Livia, Razvogor	8	6	30
-54871	3	30	Dual-Color & Rainbow (6 Suits)	2019-09-15 — 01:39:16 UTC	IAMJEFF, invarse, Razvogor	24	6	30
+54871	3	30	Dual-Color & Rainbow (6 Suits)	2019-09-15 — 01:39:16 UTC	IAMJEFF, invarse, Razvogor	25	6	30
 54866	3	25	Dual-Color (5 Suits)	2019-09-15 — 01:18:48 UTC	IAMJEFF, invarse, Razvogor	10	5	25
 54858	4	0	Dual-Color (5 Suits)	2019-09-15 — 01:00:17 UTC	IAMJEFF, invarse, Kyle, Razvogor	20	5	25
-54840	5	28	Gray (6 Suits)	2019-09-14 — 21:11:02 UTC	asaelr, DMoney, Livia, Razvogor, Valetta6789	10	6	30
-54839	5	0	Gray (6 Suits)	2019-09-14 — 20:33:50 UTC	asaelr, DMoney, Livia, Razvogor, Valetta6789	14	6	30
+54840	5	28	Gray (6 Suits)	2019-09-14 — 21:11:02 UTC	asaelr, DMoney, Livia, Razvogor, Valetta6789	11	6	30
+54839	5	0	Gray (6 Suits)	2019-09-14 — 20:33:50 UTC	asaelr, DMoney, Livia, Razvogor, Valetta6789	15	6	30
 54739	5	23	Brown (5 Suits)	2019-09-14 — 04:56:16 UTC	axe_y, lithiumtoast, Razvogor, The Kaito Kid, ZeNertox	10	5	25
 54735	6	0	Brown (5 Suits)	2019-09-14 — 04:23:22 UTC	axe_y, lithiumtoast, Longtin, Razvogor, The Kaito Kid, ZeNertox	8	5	25
 54732	6	25	Brown (5 Suits)	2019-09-14 — 03:51:34 UTC	axe_y, lithiumtoast, Longtin, Razvogor, The Kaito Kid, ZeNertox	8	5	25
 54730	5	0	Brown (5 Suits)	2019-09-14 — 03:25:50 UTC	axe_y, lithiumtoast, Razvogor, The Kaito Kid, ZeNertox	15	5	25
-54728	5	0	Brown (5 Suits)	2019-09-14 — 03:00:50 UTC	axe_y, lithiumtoast, Razvogor, The Kaito Kid, ZeNertox	17	5	25
-54726	5	23	Brown (5 Suits)	2019-09-14 — 02:38:25 UTC	axe_y, lithiumtoast, Razvogor, The Kaito Kid, ZeNertox	24	5	25
+54728	5	0	Brown (5 Suits)	2019-09-14 — 03:00:50 UTC	axe_y, lithiumtoast, Razvogor, The Kaito Kid, ZeNertox	18	5	25
+54726	5	23	Brown (5 Suits)	2019-09-14 — 02:38:25 UTC	axe_y, lithiumtoast, Razvogor, The Kaito Kid, ZeNertox	25	5	25
 54719	3	0	Special Mix (5 Suits)	2019-09-14 — 00:17:53 UTC	NoMercy, Razvogor, Zamiel	15	5	25
 54718	3	0	Special Mix (5 Suits)	2019-09-14 — 00:14:28 UTC	NoMercy, Razvogor, Zamiel	16	5	25
 54717	3	0	Special Mix (5 Suits)	2019-09-14 — 00:08:30 UTC	NoMercy, Razvogor, Zamiel	17	5	25
@@ -2253,83 +2253,83 @@
 54715	3	0	Special Mix (5 Suits)	2019-09-13 — 23:55:18 UTC	NoMercy, Razvogor, Zamiel	17	5	25
 54714	3	0	Special Mix (5 Suits)	2019-09-13 — 23:47:41 UTC	NoMercy, Razvogor, Zamiel	19	5	25
 54713	3	0	Special Mix (5 Suits)	2019-09-13 — 23:42:44 UTC	NoMercy, Razvogor, Zamiel	23	5	25
-54712	3	0	Special Mix (5 Suits)	2019-09-13 — 23:29:53 UTC	NoMercy, Razvogor, Zamiel	38	5	25
-54711	3	0	Special Mix (5 Suits)	2019-09-13 — 23:11:47 UTC	NoMercy, Razvogor, Zamiel	48	5	25
-54539	3	24	Up or Down (5 Suits)	2019-09-13 — 02:19:18 UTC	axe_y, Razvogor, ZeNertox	36	5	25
-54536	3	0	Up or Down (5 Suits)	2019-09-13 — 01:56:15 UTC	axe_y, Razvogor, ZeNertox	42	5	25
-54535	3	0	Up or Down (5 Suits)	2019-09-13 — 01:49:48 UTC	axe_y, Razvogor, ZeNertox	54	5	25
-54534	3	0	Up or Down (5 Suits)	2019-09-13 — 01:39:31 UTC	axe_y, Razvogor, ZeNertox	57	5	25
-54533	3	0	Up or Down (5 Suits)	2019-09-13 — 01:35:45 UTC	axe_y, Razvogor, ZeNertox	62	5	25
-54532	3	0	Up or Down (5 Suits)	2019-09-13 — 01:22:51 UTC	axe_y, Razvogor, ZeNertox	88	5	25
-54531	3	0	Up or Down (5 Suits)	2019-09-13 — 01:12:46 UTC	axe_y, Razvogor, ZeNertox	113	5	25
+54712	3	0	Special Mix (5 Suits)	2019-09-13 — 23:29:53 UTC	NoMercy, Razvogor, Zamiel	39	5	25
+54711	3	0	Special Mix (5 Suits)	2019-09-13 — 23:11:47 UTC	NoMercy, Razvogor, Zamiel	50	5	25
+54539	3	24	Up or Down (5 Suits)	2019-09-13 — 02:19:18 UTC	axe_y, Razvogor, ZeNertox	38	5	25
+54536	3	0	Up or Down (5 Suits)	2019-09-13 — 01:56:15 UTC	axe_y, Razvogor, ZeNertox	44	5	25
+54535	3	0	Up or Down (5 Suits)	2019-09-13 — 01:49:48 UTC	axe_y, Razvogor, ZeNertox	56	5	25
+54534	3	0	Up or Down (5 Suits)	2019-09-13 — 01:39:31 UTC	axe_y, Razvogor, ZeNertox	59	5	25
+54533	3	0	Up or Down (5 Suits)	2019-09-13 — 01:35:45 UTC	axe_y, Razvogor, ZeNertox	64	5	25
+54532	3	0	Up or Down (5 Suits)	2019-09-13 — 01:22:51 UTC	axe_y, Razvogor, ZeNertox	89	5	25
+54531	3	0	Up or Down (5 Suits)	2019-09-13 — 01:12:46 UTC	axe_y, Razvogor, ZeNertox	114	5	25
 54527	3	25	Dual-Color (5 Suits)	2019-09-13 — 00:40:02 UTC	axe_y, Razvogor, ZeNertox	14	5	25
 54517	5	30	6 Suits	2019-09-12 — 21:25:42 UTC	Floriman, Libster, Razvogor, Romain672, Valetta6789	14	6	30
-54516	6	0	6 Suits	2019-09-12 — 21:02:46 UTC	Floriman, hanabornoob, Libster, Razvogor, Romain672, Valetta6789	5	6	30
+54516	6	0	6 Suits	2019-09-12 — 21:02:46 UTC	Floriman, hanabornoob, Libster, Razvogor, Romain672, Valetta6789	6	6	30
 54513	6	0	6 Suits	2019-09-12 — 20:47:11 UTC	Floriman, hanabornoob, Libster, Razvogor, Romain672, Valetta6789	8	6	30
 54511	6	0	6 Suits	2019-09-12 — 20:29:45 UTC	Floriman, hanabornoob, Libster, Razvogor, Romain672, Valetta6789	9	6	30
 54509	5	0	No Variant	2019-09-12 — 20:18:02 UTC	Floriman, Libster, Razvogor, Romain672, Valetta6789	2	5	25
 54507	5	0	No Variant	2019-09-12 — 20:03:26 UTC	Floriman, Libster, Razvogor, Romain672, Valetta6789	2	5	25
 54504	5	0	No Variant	2019-09-12 — 19:45:55 UTC	Floriman, Libster, Razvogor, Romain672, Valetta6789	2	5	25
 54502	6	0	No Variant	2019-09-12 — 19:29:14 UTC	Fireheart, Floriman, Libster, Razvogor, Romain672, Valetta6789	10	5	25
-54500	6	0	No Variant	2019-09-12 — 19:18:32 UTC	Fireheart, Floriman, Libster, Razvogor, Romain672, Valetta6789	179	5	25
+54500	6	0	No Variant	2019-09-12 — 19:18:32 UTC	Fireheart, Floriman, Libster, Razvogor, Romain672, Valetta6789	181	5	25
 54389	3	0	Dual-Color (5 Suits)	2019-09-12 — 02:28:52 UTC	axe_y, Razvogor, ZeNertox	18	5	25
 54387	3	0	Dual-Color (5 Suits)	2019-09-12 — 02:17:23 UTC	axe_y, Razvogor, ZeNertox	24	5	25
 54383	3	0	Dual-Color (5 Suits)	2019-09-12 — 02:05:14 UTC	axe_y, Razvogor, ZeNertox	44	5	25
-54381	3	0	Dual-Color (5 Suits)	2019-09-12 — 02:00:28 UTC	axe_y, Razvogor, ZeNertox	69	5	25
+54381	3	0	Dual-Color (5 Suits)	2019-09-12 — 02:00:28 UTC	axe_y, Razvogor, ZeNertox	70	5	25
 54378	3	20	Pink (4 Suits)	2019-09-12 — 01:47:10 UTC	axe_y, Razvogor, ZeNertox	2	4	20
 54376	3	0	Pink (4 Suits)	2019-09-12 — 01:27:28 UTC	axe_y, Razvogor, ZeNertox	3	4	20
 54375	3	0	Pink (4 Suits)	2019-09-12 — 01:15:18 UTC	axe_y, Razvogor, ZeNertox	5	4	20
 54373	3	19	Pink (4 Suits)	2019-09-12 — 00:58:10 UTC	axe_y, Razvogor, ZeNertox	6	4	20
 54371	3	19	Pink (4 Suits)	2019-09-12 — 00:35:33 UTC	axe_y, Razvogor, ZeNertox	11	4	20
-54369	3	0	Pink (4 Suits)	2019-09-12 — 00:18:53 UTC	axe_y, Razvogor, ZeNertox	59	4	20
+54369	3	0	Pink (4 Suits)	2019-09-12 — 00:18:53 UTC	axe_y, Razvogor, ZeNertox	60	4	20
 54367	3	20	Rainbow (4 Suits)	2019-09-12 — 00:05:46 UTC	axe_y, Razvogor, ZeNertox	9	4	20
 54196	5	24	No Variant	2019-09-11 — 00:15:44 UTC	Animex52, kodomazer, Razvogor, Romain672, Zamiel	2	5	25
 54195	5	24	No Variant	2019-09-10 — 23:43:55 UTC	Animex52, kodomazer, Razvogor, Romain672, Zamiel	2	5	25
-54181	3	0	Black (5 Suits)	2019-09-10 — 21:07:00 UTC	charlesfire, Razvogor, ZeNertox	66	5	25
-54173	4	25	No Variant	2019-09-10 — 20:16:40 UTC	Livia, Razvogor, Romain672, Valetta6789	2076	5	25
+54181	3	0	Black (5 Suits)	2019-09-10 — 21:07:00 UTC	charlesfire, Razvogor, ZeNertox	67	5	25
+54173	4	25	No Variant	2019-09-10 — 20:16:40 UTC	Livia, Razvogor, Romain672, Valetta6789	2094	5	25
 54171	5	0	Pink & Dark Brown (6 Suits)	2019-09-10 — 19:52:46 UTC	Kyle, Livia, micerang, Razvogor, scharkbite	3	6	30
 54095	3	20	Rainbow (4 Suits)	2019-09-10 — 02:56:27 UTC	charlesfire, Razvogor, ZeNertox	11	4	20
-54092	3	0	Brown (4 Suits)	2019-09-10 — 02:42:49 UTC	charlesfire, Razvogor, ZeNertox	19	4	20
+54092	3	0	Brown (4 Suits)	2019-09-10 — 02:42:49 UTC	charlesfire, Razvogor, ZeNertox	22	4	20
 54091	3	0	Brown (4 Suits)	2019-09-10 — 02:37:07 UTC	charlesfire, Razvogor, ZeNertox	31	4	20
 54086	3	18	Brown (4 Suits)	2019-09-10 — 02:14:22 UTC	charlesfire, Razvogor, ZeNertox	47	4	20
 54082	3	20	Rainbow (4 Suits)	2019-09-10 — 01:46:36 UTC	charlesfire, Razvogor, ZeNertox	11	4	20
 54080	3	0	Rainbow (4 Suits)	2019-09-10 — 01:32:35 UTC	charlesfire, Razvogor, ZeNertox	13	4	20
 54074	3	20	Rainbow (4 Suits)	2019-09-10 — 01:13:52 UTC	charlesfire, Razvogor, ZeNertox	22	4	20
-54069	3	19	Rainbow (4 Suits)	2019-09-10 — 00:51:54 UTC	charlesfire, Razvogor, ZeNertox	28	4	20
-53788	3	0	Rainbow (4 Suits)	2019-09-08 — 03:38:43 UTC	charlesfire, Razvogor, ZeNertox	32	4	20
-53783	3	0	Rainbow (4 Suits)	2019-09-08 — 03:25:46 UTC	charlesfire, Razvogor, ZeNertox	43	4	20
-53778	3	0	Rainbow (4 Suits)	2019-09-08 — 03:06:54 UTC	charlesfire, Razvogor, ZeNertox	68	4	20
-53776	3	0	Rainbow (4 Suits)	2019-09-08 — 02:51:51 UTC	charlesfire, Razvogor, ZeNertox	84	4	20
+54069	3	19	Rainbow (4 Suits)	2019-09-10 — 00:51:54 UTC	charlesfire, Razvogor, ZeNertox	29	4	20
+53788	3	0	Rainbow (4 Suits)	2019-09-08 — 03:38:43 UTC	charlesfire, Razvogor, ZeNertox	34	4	20
+53783	3	0	Rainbow (4 Suits)	2019-09-08 — 03:25:46 UTC	charlesfire, Razvogor, ZeNertox	45	4	20
+53778	3	0	Rainbow (4 Suits)	2019-09-08 — 03:06:54 UTC	charlesfire, Razvogor, ZeNertox	69	4	20
+53776	3	0	Rainbow (4 Suits)	2019-09-08 — 02:51:51 UTC	charlesfire, Razvogor, ZeNertox	85	4	20
 53654	4	15	3 Suits	2019-09-07 — 03:24:35 UTC	axe_y, charlesfire, Razvogor, ZeNertox	31	3	15
 53651	4	0	3 Suits	2019-09-07 — 03:10:42 UTC	axe_y, charlesfire, Razvogor, ZeNertox	49	3	15
 53649	4	14	3 Suits	2019-09-07 — 03:01:04 UTC	axe_y, charlesfire, Razvogor, ZeNertox	62	3	15
-53645	4	0	3 Suits	2019-09-07 — 02:49:46 UTC	axe_y, charlesfire, Razvogor, ZeNertox	73	3	15
+53645	4	0	3 Suits	2019-09-07 — 02:49:46 UTC	axe_y, charlesfire, Razvogor, ZeNertox	74	3	15
 53643	4	20	4 Suits	2019-09-07 — 02:39:16 UTC	axe_y, charlesfire, Razvogor, ZeNertox	19	4	20
-53638	4	20	4 Suits	2019-09-07 — 02:19:10 UTC	axe_y, charlesfire, Razvogor, ZeNertox	101	4	20
+53638	4	20	4 Suits	2019-09-07 — 02:19:10 UTC	axe_y, charlesfire, Razvogor, ZeNertox	104	4	20
 53596	5	0	Pink (5 Suits)	2019-09-06 — 19:14:31 UTC	Jake_Stiles, micerang, Razvogor, Romain672, scharkbite	9	5	25
 53593	5	23	Pink (5 Suits)	2019-09-06 — 18:44:36 UTC	Jake_Stiles, micerang, Razvogor, Romain672, scharkbite	9	5	25
 53589	5	16	Pink (4 Suits)	2019-09-06 — 18:13:42 UTC	Jake_Stiles, Kyle, micerang, Razvogor, scharkbite	6	4	20
-53528	3	23	No Variant	2019-09-06 — 06:43:28 UTC	Dr_Kakashi, kodomazer, Razvogor	156	5	25
+53528	3	23	No Variant	2019-09-06 — 06:43:28 UTC	Dr_Kakashi, kodomazer, Razvogor	158	5	25
 53525	3	0	Pink (6 Suits)	2019-09-06 — 06:18:10 UTC	Dr_Kakashi, Kyle, Razvogor	18	6	30
 53521	3	0	Pink (6 Suits)	2019-09-06 — 05:54:34 UTC	Dr_Kakashi, Kyle, Razvogor	24	6	30
 53519	3	0	Pink (6 Suits)	2019-09-06 — 05:32:11 UTC	Dr_Kakashi, Kyle, Razvogor	26	6	30
 53504	3	0	Brown (5 Suits)	2019-09-06 — 03:45:52 UTC	axe_y, charlesfire, Razvogor	23	5	25
 53500	3	23	Brown (5 Suits)	2019-09-06 — 03:23:45 UTC	axe_y, charlesfire, Razvogor	25	5	25
 53498	3	0	Brown (5 Suits)	2019-09-06 — 02:49:34 UTC	axe_y, charlesfire, Razvogor	31	5	25
-53482	3	23	Pink (5 Suits)	2019-09-06 — 00:16:34 UTC	awe, Razvogor, Romain672	108	5	25
+53482	3	23	Pink (5 Suits)	2019-09-06 — 00:16:34 UTC	awe, Razvogor, Romain672	112	5	25
 53353	3	25	Brown (5 Suits)	2019-09-05 — 01:54:18 UTC	axe_y, Razvogor, The Kaito Kid	38	5	25
-53350	3	0	Brown (5 Suits)	2019-09-05 — 01:34:25 UTC	axe_y, Razvogor, The Kaito Kid	39	5	25
-53346	3	0	Brown (5 Suits)	2019-09-05 — 01:13:23 UTC	axe_y, Razvogor, The Kaito Kid	63	5	25
-53343	3	23	Brown (5 Suits)	2019-09-05 — 00:49:46 UTC	axe_y, Razvogor, The Kaito Kid	79	5	25
-53342	3	22	Rainbow (5 Suits)	2019-09-05 — 00:19:41 UTC	axe_y, Razvogor, The Kaito Kid	43	5	25
-53341	3	0	Rainbow (5 Suits)	2019-09-04 — 23:51:02 UTC	axe_y, Razvogor, The Kaito Kid	50	5	25
+53350	3	0	Brown (5 Suits)	2019-09-05 — 01:34:25 UTC	axe_y, Razvogor, The Kaito Kid	41	5	25
+53346	3	0	Brown (5 Suits)	2019-09-05 — 01:13:23 UTC	axe_y, Razvogor, The Kaito Kid	65	5	25
+53343	3	23	Brown (5 Suits)	2019-09-05 — 00:49:46 UTC	axe_y, Razvogor, The Kaito Kid	82	5	25
+53342	3	22	Rainbow (5 Suits)	2019-09-05 — 00:19:41 UTC	axe_y, Razvogor, The Kaito Kid	44	5	25
+53341	3	0	Rainbow (5 Suits)	2019-09-04 — 23:51:02 UTC	axe_y, Razvogor, The Kaito Kid	51	5	25
 50778	4	0	Up or Down & Brown (5 Suits)	2019-08-18 — 01:24:09 UTC	florrat2, Libster, Razvogor, TheWildCard	9	5	25
 50774	4	0	Up or Down & Brown (5 Suits)	2019-08-18 — 01:02:50 UTC	florrat2, Libster, RaKXeR, Razvogor	10	5	25
 50768	3	0	Up or Down & Brown (5 Suits)	2019-08-18 — 00:33:26 UTC	Libster, RaKXeR, Razvogor	1	5	25
 50767	3	0	Up or Down & Brown (5 Suits)	2019-08-18 — 00:12:18 UTC	Libster, RaKXeR, Razvogor	1	5	25
 50732	6	25	Rainbow (5 Suits)	2019-08-17 — 18:11:26 UTC	Fireheart, Libster, Pikachu, Razvogor, Sucubis, wortel	7	5	25
-50559	3	25	Rainbow (5 Suits)	2019-08-16 — 04:57:25 UTC	axe_y, charlesfire, Razvogor	84	5	25
-50557	3	0	Rainbow (5 Suits)	2019-08-16 — 04:40:44 UTC	axe_y, charlesfire, Razvogor	116	5	25
+50559	3	25	Rainbow (5 Suits)	2019-08-16 — 04:57:25 UTC	axe_y, charlesfire, Razvogor	87	5	25
+50557	3	0	Rainbow (5 Suits)	2019-08-16 — 04:40:44 UTC	axe_y, charlesfire, Razvogor	119	5	25
 50556	3	0	Rainbow (5 Suits)	2019-08-16 — 04:26:47 UTC	axe_y, charlesfire, Razvogor	135	5	25
 50210	4	0	Null (5 Suits)	2019-08-13 — 21:19:02 UTC	micerang, Ptheven, Razvogor, Zamiel	7	5	25
 50208	4	0	Null (5 Suits)	2019-08-13 — 21:05:42 UTC	micerang, Ptheven, Razvogor, Zamiel	8	5	25
@@ -2370,7 +2370,7 @@
 50034	2	0	Clue Starved (6 Suits)	2019-08-12 — 00:16:29 UTC	Libster, Razvogor	10	6	30
 50033	2	0	Clue Starved (6 Suits)	2019-08-12 — 00:13:01 UTC	Libster, Razvogor	11	6	30
 50032	4	0	Rainbow (5 Suits)	2019-08-11 — 23:40:33 UTC	Cory, Kyle, Libster, Razvogor	16	5	25
-50031	4	0	Rainbow (5 Suits)	2019-08-11 — 23:33:34 UTC	Cory, Kyle, Libster, Razvogor	26	5	25
+50031	4	0	Rainbow (5 Suits)	2019-08-11 — 23:33:34 UTC	Cory, Kyle, Libster, Razvogor	28	5	25
 50029	5	0	Rainbow (5 Suits)	2019-08-11 — 23:22:34 UTC	Cory, DMoney, Kyle, Libster, Razvogor	3	5	25
 49935	2	0	Clue Starved (6 Suits)	2019-08-10 — 19:13:45 UTC	Libster, Razvogor	11	6	30
 49932	2	0	Clue Starved (6 Suits)	2019-08-10 — 18:58:47 UTC	Libster, Razvogor	12	6	30
@@ -2378,19 +2378,19 @@
 49930	2	0	Clue Starved (6 Suits)	2019-08-10 — 18:49:09 UTC	Libster, Razvogor	13	6	30
 49927	2	0	Clue Starved (6 Suits)	2019-08-10 — 18:44:21 UTC	Libster, Razvogor	14	6	30
 49925	2	0	Clue Starved (6 Suits)	2019-08-10 — 18:31:16 UTC	Libster, Razvogor	14	6	30
-49841	3	0	Rainbow (5 Suits)	2019-08-10 — 03:21:52 UTC	axe_y, charlesfire, Razvogor	185	5	25
-49837	3	25	No Variant	2019-08-10 — 02:50:19 UTC	axe_y, charlesfire, Razvogor	1465	5	25
+49841	3	0	Rainbow (5 Suits)	2019-08-10 — 03:21:52 UTC	axe_y, charlesfire, Razvogor	186	5	25
+49837	3	25	No Variant	2019-08-10 — 02:50:19 UTC	axe_y, charlesfire, Razvogor	1474	5	25
 49836	3	0	Duck (5 Suits)	2019-08-10 — 02:32:44 UTC	axe_y, charlesfire, Razvogor	35	5	25
 49834	3	20	4 Suits	2019-08-10 — 02:20:25 UTC	axe_y, charlesfire, Razvogor	5	4	20
 49831	3	0	4 Suits	2019-08-10 — 02:02:27 UTC	axe_y, charlesfire, Razvogor	6	4	20
 49825	3	0	4 Suits	2019-08-10 — 01:44:05 UTC	axe_y, charlesfire, Razvogor	6	4	20
 49705	5	0	Rainbow (6 Suits)	2019-08-08 — 23:28:44 UTC	asaelr, awe, Libster, Ptheven, Razvogor	3	6	30
 49704	4	0	Rainbow (6 Suits)	2019-08-08 — 23:07:59 UTC	asaelr, Libster, Ptheven, Razvogor	26	6	30
-49612	3	25	No Variant	2019-08-08 — 02:00:42 UTC	charlesfire, Razvogor, The Kaito Kid	160	5	25
-49607	3	0	No Variant	2019-08-08 — 01:33:17 UTC	charlesfire, Razvogor, The Kaito Kid	164	5	25
-49604	3	0	No Variant	2019-08-08 — 01:22:49 UTC	charlesfire, Razvogor, The Kaito Kid	170	5	25
-49601	3	0	No Variant	2019-08-08 — 01:11:36 UTC	charlesfire, Razvogor, The Kaito Kid	175	5	25
-49597	3	0	No Variant	2019-08-08 — 00:37:40 UTC	charlesfire, Razvogor, The Kaito Kid	250	5	25
+49612	3	25	No Variant	2019-08-08 — 02:00:42 UTC	charlesfire, Razvogor, The Kaito Kid	163	5	25
+49607	3	0	No Variant	2019-08-08 — 01:33:17 UTC	charlesfire, Razvogor, The Kaito Kid	167	5	25
+49604	3	0	No Variant	2019-08-08 — 01:22:49 UTC	charlesfire, Razvogor, The Kaito Kid	173	5	25
+49601	3	0	No Variant	2019-08-08 — 01:11:36 UTC	charlesfire, Razvogor, The Kaito Kid	176	5	25
+49597	3	0	No Variant	2019-08-08 — 00:37:40 UTC	charlesfire, Razvogor, The Kaito Kid	252	5	25
 49515	2	0	Clue Starved (6 Suits)	2019-08-07 — 02:58:04 UTC	Libster, Razvogor	14	6	30
 49512	2	0	Clue Starved (6 Suits)	2019-08-07 — 02:51:22 UTC	Libster, Razvogor	14	6	30
 49511	2	0	Clue Starved (6 Suits)	2019-08-07 — 02:48:52 UTC	Libster, Razvogor	14	6	30
@@ -2399,46 +2399,46 @@
 49506	2	0	Clue Starved (6 Suits)	2019-08-07 — 02:38:29 UTC	Libster, Razvogor	18	6	30
 49505	2	0	Clue Starved (6 Suits)	2019-08-07 — 02:32:57 UTC	Libster, Razvogor	21	6	30
 49503	2	0	Clue Starved (6 Suits)	2019-08-07 — 02:27:10 UTC	Libster, Razvogor	27	6	30
-49494	3	30	Null (6 Suits)	2019-08-07 — 01:38:28 UTC	micerang, Razvogor, Zamiel	57	6	30
+49494	3	30	Null (6 Suits)	2019-08-07 — 01:38:28 UTC	micerang, Razvogor, Zamiel	60	6	30
 49490	5	24	No Variant	2019-08-07 — 00:57:08 UTC	asaelr, Jake_Stiles, micerang, Razvogor, Will	44	5	25
-49487	5	0	No Variant	2019-08-07 — 00:34:49 UTC	asaelr, Jake_Stiles, micerang, Razvogor, Will	45	5	25
+49487	5	0	No Variant	2019-08-07 — 00:34:49 UTC	asaelr, Jake_Stiles, micerang, Razvogor, Will	46	5	25
 49485	5	24	No Variant	2019-08-07 — 00:13:52 UTC	invarse, Jake_Stiles, micerang, Razvogor, Will	45	5	25
-49481	3	0	Rainbow (4 Suits)	2019-08-06 — 23:45:34 UTC	Maiorskills, micerang, Razvogor	46	4	20
-49382	3	15	Pink (3 Suits)	2019-08-06 — 02:56:22 UTC	florrat2, Ptheven, Razvogor	27	3	15
-49378	3	13	Pink (3 Suits)	2019-08-06 — 02:38:54 UTC	florrat2, Ptheven, Razvogor	33	3	15
-49376	3	0	Pink (3 Suits)	2019-08-06 — 02:25:10 UTC	florrat2, Ptheven, Razvogor	44	3	15
+49481	3	0	Rainbow (4 Suits)	2019-08-06 — 23:45:34 UTC	Maiorskills, micerang, Razvogor	48	4	20
+49382	3	15	Pink (3 Suits)	2019-08-06 — 02:56:22 UTC	florrat2, Ptheven, Razvogor	29	3	15
+49378	3	13	Pink (3 Suits)	2019-08-06 — 02:38:54 UTC	florrat2, Ptheven, Razvogor	34	3	15
+49376	3	0	Pink (3 Suits)	2019-08-06 — 02:25:10 UTC	florrat2, Ptheven, Razvogor	46	3	15
 49373	6	27	Black (6 Suits)	2019-08-06 — 02:03:36 UTC	Fireheart, florrat2, Jake_Stiles, micerang, Ptheven, Razvogor	3	6	30
-49367	4	20	4 Suits	2019-08-06 — 01:22:21 UTC	Fireheart, florrat2, micerang, Razvogor	77	4	20
-49362	3	0	4 Suits	2019-08-06 — 01:03:09 UTC	Fireheart, Pimak, Razvogor	160	4	20
-49358	5	20	No Variant	2019-08-06 — 00:28:17 UTC	Ahming, Fireheart, Jake_Stiles, Pimak, Razvogor	1995	5	25
+49367	4	20	4 Suits	2019-08-06 — 01:22:21 UTC	Fireheart, florrat2, micerang, Razvogor	80	4	20
+49362	3	0	4 Suits	2019-08-06 — 01:03:09 UTC	Fireheart, Pimak, Razvogor	162	4	20
+49358	5	20	No Variant	2019-08-06 — 00:28:17 UTC	Ahming, Fireheart, Jake_Stiles, Pimak, Razvogor	2011	5	25
 49352	5	0	Black & White (6 Suits)	2019-08-05 — 22:43:04 UTC	Libster, micerang, Razvogor, Will, Zamiel	15	6	30
-49344	3	0	Up or Down & Brown (5 Suits)	2019-08-05 — 21:54:22 UTC	Libster, micerang, Razvogor	4	5	25
+49344	3	0	Up or Down & Brown (5 Suits)	2019-08-05 — 21:54:22 UTC	Libster, micerang, Razvogor	5	5	25
 49343	3	0	Up or Down & Brown (5 Suits)	2019-08-05 — 21:45:14 UTC	Libster, micerang, Razvogor	5	5	25
-49340	3	0	Up or Down & Brown (5 Suits)	2019-08-05 — 21:30:53 UTC	Libster, micerang, Razvogor	5	5	25
-49338	3	0	Up or Down & Brown (5 Suits)	2019-08-05 — 21:14:50 UTC	Libster, micerang, Razvogor	6	5	25
+49340	3	0	Up or Down & Brown (5 Suits)	2019-08-05 — 21:30:53 UTC	Libster, micerang, Razvogor	6	5	25
+49338	3	0	Up or Down & Brown (5 Suits)	2019-08-05 — 21:14:50 UTC	Libster, micerang, Razvogor	7	5	25
 49337	5	17	4 Suits	2019-08-05 — 20:52:00 UTC	Dr_Kakashi, Kyle, Libster, Pimak, Razvogor	3	4	20
 49336	5	0	4 Suits	2019-08-05 — 20:33:17 UTC	Dr_Kakashi, Kyle, Libster, Pimak, Razvogor	3	4	20
-49335	3	20	Muddy Rainbow (4 Suits)	2019-08-05 — 20:20:00 UTC	Kyle, Libster, Razvogor	18	4	20
+49335	3	20	Muddy Rainbow (4 Suits)	2019-08-05 — 20:20:00 UTC	Kyle, Libster, Razvogor	20	4	20
 48973	3	0	Pink (3 Suits)	2019-08-03 — 00:08:39 UTC	Libster, RaKXeR, Razvogor	3	3	15
-48972	3	20	Pink (4 Suits)	2019-08-02 — 23:58:45 UTC	Libster, RaKXeR, Razvogor	12	4	20
-48970	3	0	Pink (4 Suits)	2019-08-02 — 23:39:48 UTC	Libster, RaKXeR, Razvogor	17	4	20
-48969	3	0	Pink (4 Suits)	2019-08-02 — 23:32:14 UTC	Libster, RaKXeR, Razvogor	27	4	20
-48948	4	0	Muddy Rainbow (4 Suits)	2019-08-02 — 21:26:53 UTC	Libster, micerang, Razvogor, Zamiel	16	4	20
+48972	3	20	Pink (4 Suits)	2019-08-02 — 23:58:45 UTC	Libster, RaKXeR, Razvogor	13	4	20
+48970	3	0	Pink (4 Suits)	2019-08-02 — 23:39:48 UTC	Libster, RaKXeR, Razvogor	18	4	20
+48969	3	0	Pink (4 Suits)	2019-08-02 — 23:32:14 UTC	Libster, RaKXeR, Razvogor	28	4	20
+48948	4	0	Muddy Rainbow (4 Suits)	2019-08-02 — 21:26:53 UTC	Libster, micerang, Razvogor, Zamiel	17	4	20
 48942	4	20	Pink & White (4 Suits)	2019-08-02 — 21:01:42 UTC	Libster, micerang, Razvogor, Zamiel	1	4	20
 48939	4	19	Pink & White (4 Suits)	2019-08-02 — 20:36:51 UTC	Libster, micerang, Razvogor, Zamiel	1	4	20
 48936	3	20	4 Suits	2019-08-02 — 19:33:51 UTC	Kyle, micerang, Razvogor	5	4	20
 48935	5	0	Rainbow (6 Suits)	2019-08-02 — 19:18:34 UTC	doktorjake, Kyle, micerang, RaKXeR, Razvogor	24	6	30
-48716	4	30	Omni (6 Suits)	2019-08-01 — 22:13:48 UTC	asaelr, Maiorskills, Razvogor, Zamiel	15	6	30
+48716	4	30	Omni (6 Suits)	2019-08-01 — 22:13:48 UTC	asaelr, Maiorskills, Razvogor, Zamiel	16	6	30
 48714	3	30	Omni (6 Suits)	2019-08-01 — 21:47:39 UTC	asaelr, Razvogor, Zamiel	9	6	30
 48481	3	0	Omni (6 Suits)	2019-07-31 — 01:19:36 UTC	Cory, Razvogor, Zamiel	24	6	30
-48480	3	0	Omni (6 Suits)	2019-07-31 — 01:05:05 UTC	Cory, Razvogor, Zamiel	27	6	30
-48479	2	0	Omni (6 Suits)	2019-07-31 — 00:50:35 UTC	Razvogor, Zamiel	95	6	30
-48478	2	0	Omni (6 Suits)	2019-07-31 — 00:45:54 UTC	Razvogor, Zamiel	121	6	30
+48480	3	0	Omni (6 Suits)	2019-07-31 — 01:05:05 UTC	Cory, Razvogor, Zamiel	28	6	30
+48479	2	0	Omni (6 Suits)	2019-07-31 — 00:50:35 UTC	Razvogor, Zamiel	98	6	30
+48478	2	0	Omni (6 Suits)	2019-07-31 — 00:45:54 UTC	Razvogor, Zamiel	124	6	30
 48476	5	30	Omni (6 Suits)	2019-07-31 — 00:22:11 UTC	asaelr, Ptheven, Razvogor, Will, Zamiel	8	6	30
 48469	5	0	Omni (6 Suits)	2019-07-30 — 22:42:44 UTC	asaelr, Libster, Razvogor, Will, Zamiel	9	6	30
 48386	4	0	Rainbow (4 Suits)	2019-07-30 — 05:26:30 UTC	Feer, Libster, qqqq, Razvogor	17	4	20
 48384	4	0	Rainbow & White (5 Suits)	2019-07-30 — 05:05:13 UTC	efaust, Feer, Razvogor, sjdrodge	17	5	25
-48380	3	22	No Variant	2019-07-30 — 04:39:41 UTC	efaust, Razvogor, sjdrodge	111	5	25
+48380	3	22	No Variant	2019-07-30 — 04:39:41 UTC	efaust, Razvogor, sjdrodge	116	5	25
 48184	5	30	6 Suits	2019-07-28 — 22:34:38 UTC	Ahming, asaelr, Dr_Kakashi, micerang, Razvogor	16	6	30
 47957	4	22	Rainbow & Gray (5 Suits)	2019-07-27 — 15:43:24 UTC	Libster, NoMercy, RaKXeR, Razvogor	9	5	25
 47956	4	15	Brown (3 Suits)	2019-07-27 — 15:17:52 UTC	Libster, NoMercy, RaKXeR, Razvogor	7	3	15
@@ -2449,26 +2449,26 @@
 47557	6	0	No Variant	2019-07-24 — 01:54:46 UTC	DMoney, Fireheart, Libster, Ptheven, Razvogor, Will	17	5	25
 47555	5	0	Rainbow (5 Suits)	2019-07-24 — 01:41:50 UTC	Cory, DMoney, Libster, Ptheven, Razvogor	4	5	25
 47551	5	24	Rainbow (5 Suits)	2019-07-24 — 01:13:53 UTC	Cory, DMoney, Libster, Ptheven, Razvogor	4	5	25
-47189	3	0	No Variant	2019-07-21 — 05:12:21 UTC	axe_y, charlesfire, Razvogor	1881	5	25
-47187	3	0	No Variant	2019-07-21 — 04:59:50 UTC	axe_y, charlesfire, Razvogor	2163	5	25
-47183	3	0	No Variant	2019-07-21 — 04:37:13 UTC	axe_y, charlesfire, Razvogor	2606	5	25
-47179	3	24	No Variant	2019-07-21 — 04:13:50 UTC	axe_y, charlesfire, Razvogor	4221	5	25
-46950	4	25	No Variant	2019-07-19 — 05:45:00 UTC	axe_y, charlesfire, Razvogor, ZeNertox	167	5	25
+47189	3	0	No Variant	2019-07-21 — 05:12:21 UTC	axe_y, charlesfire, Razvogor	1896	5	25
+47187	3	0	No Variant	2019-07-21 — 04:59:50 UTC	axe_y, charlesfire, Razvogor	2179	5	25
+47183	3	0	No Variant	2019-07-21 — 04:37:13 UTC	axe_y, charlesfire, Razvogor	2627	5	25
+47179	3	24	No Variant	2019-07-21 — 04:13:50 UTC	axe_y, charlesfire, Razvogor	4250	5	25
+46950	4	25	No Variant	2019-07-19 — 05:45:00 UTC	axe_y, charlesfire, Razvogor, ZeNertox	169	5	25
 46948	4	20	No Variant	2019-07-19 — 05:16:34 UTC	axe_y, charlesfire, Razvogor, ZeNertox	204	5	25
-46946	3	0	No Variant	2019-07-19 — 04:49:35 UTC	charlesfire, Razvogor, ZeNertox	178	5	25
-46944	3	0	No Variant	2019-07-19 — 04:27:35 UTC	charlesfire, Razvogor, ZeNertox	187	5	25
-46941	3	25	No Variant	2019-07-19 — 04:08:19 UTC	charlesfire, Razvogor, ZeNertox	194	5	25
-46939	3	0	No Variant	2019-07-19 — 03:50:41 UTC	charlesfire, Razvogor, ZeNertox	201	5	25
-46937	3	0	No Variant	2019-07-19 — 03:36:41 UTC	charlesfire, Razvogor, ZeNertox	199	5	25
-46935	3	25	No Variant	2019-07-19 — 03:24:30 UTC	charlesfire, Razvogor, ZeNertox	206	5	25
-46678	3	24	No Variant	2019-07-17 — 02:14:24 UTC	charlesfire, Razvogor, ZeNertox	213	5	25
-46672	4	24	No Variant	2019-07-17 — 01:40:22 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	180	5	25
-46669	4	0	No Variant	2019-07-17 — 01:15:32 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	190	5	25
-46668	4	0	No Variant	2019-07-17 — 00:46:02 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	198	5	25
-46667	3	0	No Variant	2019-07-17 — 00:21:58 UTC	Razvogor, The Kaito Kid, ZeNertox	218	5	25
-46666	3	15	3 Suits	2019-07-17 — 00:05:33 UTC	Razvogor, The Kaito Kid, ZeNertox	88	3	15
-46665	3	0	3 Suits	2019-07-16 — 23:48:47 UTC	Razvogor, The Kaito Kid, ZeNertox	115	3	15
-46664	3	13	3 Suits	2019-07-16 — 23:36:41 UTC	Razvogor, The Kaito Kid, ZeNertox	144	3	15
+46946	3	0	No Variant	2019-07-19 — 04:49:35 UTC	charlesfire, Razvogor, ZeNertox	179	5	25
+46944	3	0	No Variant	2019-07-19 — 04:27:35 UTC	charlesfire, Razvogor, ZeNertox	189	5	25
+46941	3	25	No Variant	2019-07-19 — 04:08:19 UTC	charlesfire, Razvogor, ZeNertox	198	5	25
+46939	3	0	No Variant	2019-07-19 — 03:50:41 UTC	charlesfire, Razvogor, ZeNertox	203	5	25
+46937	3	0	No Variant	2019-07-19 — 03:36:41 UTC	charlesfire, Razvogor, ZeNertox	202	5	25
+46935	3	25	No Variant	2019-07-19 — 03:24:30 UTC	charlesfire, Razvogor, ZeNertox	209	5	25
+46678	3	24	No Variant	2019-07-17 — 02:14:24 UTC	charlesfire, Razvogor, ZeNertox	218	5	25
+46672	4	24	No Variant	2019-07-17 — 01:40:22 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	182	5	25
+46669	4	0	No Variant	2019-07-17 — 01:15:32 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	192	5	25
+46668	4	0	No Variant	2019-07-17 — 00:46:02 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	199	5	25
+46667	3	0	No Variant	2019-07-17 — 00:21:58 UTC	Razvogor, The Kaito Kid, ZeNertox	223	5	25
+46666	3	15	3 Suits	2019-07-17 — 00:05:33 UTC	Razvogor, The Kaito Kid, ZeNertox	90	3	15
+46665	3	0	3 Suits	2019-07-16 — 23:48:47 UTC	Razvogor, The Kaito Kid, ZeNertox	116	3	15
+46664	3	13	3 Suits	2019-07-16 — 23:36:41 UTC	Razvogor, The Kaito Kid, ZeNertox	146	3	15
 46549	3	19	White (4 Suits)	2019-07-16 — 03:47:43 UTC	charlesfire, Razvogor, ZeNertox	4	4	20
 46548	3	19	White (4 Suits)	2019-07-16 — 03:30:07 UTC	charlesfire, Razvogor, ZeNertox	5	4	20
 46546	3	0	White (4 Suits)	2019-07-16 — 03:16:28 UTC	charlesfire, Razvogor, ZeNertox	7	4	20
@@ -2477,14 +2477,14 @@
 46521	3	20	White (4 Suits)	2019-07-16 — 02:37:55 UTC	charlesfire, Razvogor, ZeNertox	10	4	20
 46489	3	0	White (4 Suits)	2019-07-16 — 02:13:09 UTC	charlesfire, Razvogor, ZeNertox	13	4	20
 46486	3	19	White (4 Suits)	2019-07-16 — 01:48:52 UTC	charlesfire, Razvogor, ZeNertox	16	4	20
-46011	3	18	White (4 Suits)	2019-07-12 — 20:08:39 UTC	charlesfire, Razvogor, ZeNertox	18	4	20
+46011	3	18	White (4 Suits)	2019-07-12 — 20:08:39 UTC	charlesfire, Razvogor, ZeNertox	19	4	20
 46009	3	20	White (4 Suits)	2019-07-12 — 19:49:51 UTC	charlesfire, Razvogor, ZeNertox	30	4	20
 45903	5	0	White (5 Suits)	2019-07-12 — 02:32:10 UTC	axe_y, charlesfire, Razvogor, The Kaito Kid, ZeNertox	26	5	25
 45901	5	24	White (5 Suits)	2019-07-12 — 01:53:58 UTC	axe_y, charlesfire, Razvogor, The Kaito Kid, ZeNertox	37	5	25
 45900	4	19	White (4 Suits)	2019-07-12 — 01:17:24 UTC	axe_y, charlesfire, Razvogor, ZeNertox	13	4	20
-45898	4	19	White (4 Suits)	2019-07-12 — 00:49:17 UTC	axe_y, charlesfire, Razvogor, ZeNertox	20	4	20
-45896	4	0	White (4 Suits)	2019-07-12 — 00:29:19 UTC	axe_y, charlesfire, Razvogor, ZeNertox	34	4	20
-45895	3	0	White (4 Suits)	2019-07-12 — 00:22:46 UTC	charlesfire, Razvogor, ZeNertox	46	4	20
+45898	4	19	White (4 Suits)	2019-07-12 — 00:49:17 UTC	axe_y, charlesfire, Razvogor, ZeNertox	21	4	20
+45896	4	0	White (4 Suits)	2019-07-12 — 00:29:19 UTC	axe_y, charlesfire, Razvogor, ZeNertox	35	4	20
+45895	3	0	White (4 Suits)	2019-07-12 — 00:22:46 UTC	charlesfire, Razvogor, ZeNertox	47	4	20
 45722	6	0	No Variant	2019-07-11 — 01:59:45 UTC	csq, Jake_Stiles, Libster, micerang, Razvogor, Will	18	5	25
 45719	3	0	Pink (3 Suits)	2019-07-11 — 01:47:29 UTC	Jake_Stiles, Libster, Razvogor	4	3	15
 45717	3	0	Pink (3 Suits)	2019-07-11 — 01:32:49 UTC	Jake_Stiles, Libster, Razvogor	6	3	15
@@ -2493,22 +2493,22 @@
 45714	3	0	Pink (3 Suits)	2019-07-11 — 01:12:43 UTC	Jake_Stiles, Libster, Razvogor	9	3	15
 45713	3	14	Pink (3 Suits)	2019-07-11 — 01:06:33 UTC	Jake_Stiles, Libster, Razvogor	9	3	15
 45712	3	27	Rainbow-Ones & Pink (6 Suits)	2019-07-11 — 00:47:48 UTC	Jake_Stiles, Razvogor, scharkbite	5	6	30
-44970	5	24	No Variant	2019-07-07 — 05:20:06 UTC	axe_y, charlesfire, Razvogor, The Kaito Kid, ZeNertox	126	5	25
+44970	5	24	No Variant	2019-07-07 — 05:20:06 UTC	axe_y, charlesfire, Razvogor, The Kaito Kid, ZeNertox	127	5	25
 44962	5	0	No Variant	2019-07-07 — 04:40:07 UTC	charlesfire, Razvogor, The Kaito Kid, yest, ZeNertox	135	5	25
-44954	5	23	No Variant	2019-07-07 — 04:02:25 UTC	charlesfire, Razvogor, The Kaito Kid, yest, ZeNertox	143	5	25
-44933	3	20	White (4 Suits)	2019-07-07 — 02:40:36 UTC	charlesfire, Razvogor, ZeNertox	59	4	20
+44954	5	23	No Variant	2019-07-07 — 04:02:25 UTC	charlesfire, Razvogor, The Kaito Kid, yest, ZeNertox	145	5	25
+44933	3	20	White (4 Suits)	2019-07-07 — 02:40:36 UTC	charlesfire, Razvogor, ZeNertox	62	4	20
 44928	3	20	4 Suits	2019-07-07 — 02:21:29 UTC	charlesfire, Razvogor, ZeNertox	4	4	20
-44809	5	0	No Variant	2019-07-06 — 05:42:54 UTC	charlesfire, Razvogor, The Kaito Kid, yest, ZeNertox	163	5	25
-44807	5	0	No Variant	2019-07-06 — 05:25:35 UTC	charlesfire, Razvogor, The Kaito Kid, yest, ZeNertox	195	5	25
-44802	5	0	No Variant	2019-07-06 — 05:04:08 UTC	charlesfire, Razvogor, The Kaito Kid, yest, ZeNertox	207	5	25
-44787	5	0	No Variant	2019-07-06 — 04:32:49 UTC	charlesfire, Razvogor, The Kaito Kid, yest, ZeNertox	223	5	25
-44777	5	0	No Variant	2019-07-06 — 04:03:19 UTC	charlesfire, Razvogor, The Kaito Kid, yest, ZeNertox	296	5	25
+44809	5	0	No Variant	2019-07-06 — 05:42:54 UTC	charlesfire, Razvogor, The Kaito Kid, yest, ZeNertox	166	5	25
+44807	5	0	No Variant	2019-07-06 — 05:25:35 UTC	charlesfire, Razvogor, The Kaito Kid, yest, ZeNertox	198	5	25
+44802	5	0	No Variant	2019-07-06 — 05:04:08 UTC	charlesfire, Razvogor, The Kaito Kid, yest, ZeNertox	208	5	25
+44787	5	0	No Variant	2019-07-06 — 04:32:49 UTC	charlesfire, Razvogor, The Kaito Kid, yest, ZeNertox	226	5	25
+44777	5	0	No Variant	2019-07-06 — 04:03:19 UTC	charlesfire, Razvogor, The Kaito Kid, yest, ZeNertox	302	5	25
 44767	4	0	No Variant	2019-07-06 — 03:26:52 UTC	charlesfire, Razvogor, The Kaito Kid, yest	213	5	25
 44623	4	19	4 Suits	2019-07-05 — 01:56:29 UTC	axe_y, charlesfire, Razvogor, The Kaito Kid	32	4	20
 44622	5	0	Rainbow (6 Suits)	2019-07-05 — 01:25:35 UTC	axe_y, charlesfire, Razvogor, The Kaito Kid, ZeNertox	83	6	30
-44621	5	0	Rainbow (6 Suits)	2019-07-05 — 01:00:47 UTC	axe_y, charlesfire, Razvogor, The Kaito Kid, ZeNertox	133	6	30
-44620	5	0	Rainbow (6 Suits)	2019-07-05 — 00:27:20 UTC	axe_y, charlesfire, Razvogor, The Kaito Kid, ZeNertox	209	6	30
-44619	4	0	Rainbow (6 Suits)	2019-07-04 — 23:53:39 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	344	6	30
+44621	5	0	Rainbow (6 Suits)	2019-07-05 — 01:00:47 UTC	axe_y, charlesfire, Razvogor, The Kaito Kid, ZeNertox	134	6	30
+44620	5	0	Rainbow (6 Suits)	2019-07-05 — 00:27:20 UTC	axe_y, charlesfire, Razvogor, The Kaito Kid, ZeNertox	211	6	30
+44619	4	0	Rainbow (6 Suits)	2019-07-04 — 23:53:39 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	349	6	30
 44400	3	18	4 Suits	2019-07-04 — 02:18:54 UTC	charlesfire, Razvogor, ZeNertox	4	4	20
 44394	3	0	4 Suits	2019-07-04 — 02:03:01 UTC	charlesfire, Razvogor, ZeNertox	6	4	20
 44393	3	0	4 Suits	2019-07-04 — 01:58:05 UTC	charlesfire, Razvogor, ZeNertox	6	4	20
@@ -2531,18 +2531,18 @@
 44073	3	0	4 Suits	2019-07-01 — 21:52:30 UTC	charlesfire, Razvogor, ZeNertox	18	4	20
 44070	3	0	4 Suits	2019-07-01 — 21:45:22 UTC	charlesfire, Razvogor, ZeNertox	20	4	20
 44061	3	0	4 Suits	2019-07-01 — 21:21:23 UTC	charlesfire, Razvogor, ZeNertox	21	4	20
-44056	4	0	4 Suits	2019-07-01 — 20:56:15 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	38	4	20
-44048	4	0	4 Suits	2019-07-01 — 20:37:40 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	51	4	20
-44043	4	0	4 Suits	2019-07-01 — 20:24:17 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	77	4	20
+44056	4	0	4 Suits	2019-07-01 — 20:56:15 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	39	4	20
+44048	4	0	4 Suits	2019-07-01 — 20:37:40 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	52	4	20
+44043	4	0	4 Suits	2019-07-01 — 20:24:17 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	80	4	20
 44035	3	20	4 Suits	2019-07-01 — 20:00:08 UTC	charlesfire, Razvogor, ZeNertox	23	4	20
-43981	3	0	No Variant	2019-07-01 — 05:43:15 UTC	charlesfire, Razvogor, ZeNertox	223	5	25
-43978	3	0	No Variant	2019-07-01 — 05:32:28 UTC	charlesfire, Razvogor, ZeNertox	220	5	25
-43974	3	0	No Variant	2019-07-01 — 05:23:14 UTC	charlesfire, Razvogor, ZeNertox	224	5	25
-43973	3	0	No Variant	2019-07-01 — 05:16:33 UTC	charlesfire, Razvogor, ZeNertox	243	5	25
-43970	3	21	No Variant	2019-07-01 — 05:09:45 UTC	charlesfire, Razvogor, ZeNertox	259	5	25
-43962	3	25	No Variant	2019-07-01 — 04:41:27 UTC	charlesfire, Razvogor, ZeNertox	269	5	25
-43958	3	0	No Variant	2019-07-01 — 04:18:58 UTC	charlesfire, Razvogor, ZeNertox	275	5	25
-43954	3	24	No Variant	2019-07-01 — 04:00:11 UTC	charlesfire, Razvogor, ZeNertox	285	5	25
+43981	3	0	No Variant	2019-07-01 — 05:43:15 UTC	charlesfire, Razvogor, ZeNertox	228	5	25
+43978	3	0	No Variant	2019-07-01 — 05:32:28 UTC	charlesfire, Razvogor, ZeNertox	224	5	25
+43974	3	0	No Variant	2019-07-01 — 05:23:14 UTC	charlesfire, Razvogor, ZeNertox	227	5	25
+43973	3	0	No Variant	2019-07-01 — 05:16:33 UTC	charlesfire, Razvogor, ZeNertox	246	5	25
+43970	3	21	No Variant	2019-07-01 — 05:09:45 UTC	charlesfire, Razvogor, ZeNertox	261	5	25
+43962	3	25	No Variant	2019-07-01 — 04:41:27 UTC	charlesfire, Razvogor, ZeNertox	272	5	25
+43958	3	0	No Variant	2019-07-01 — 04:18:58 UTC	charlesfire, Razvogor, ZeNertox	277	5	25
+43954	3	24	No Variant	2019-07-01 — 04:00:11 UTC	charlesfire, Razvogor, ZeNertox	287	5	25
 43944	6	29	Black (6 Suits)	2019-07-01 — 03:00:30 UTC	Kyle, Libster, micerang, NoMercy, Razvogor, Zamiel	5	6	30
 43936	6	29	Number Mute (6 Suits)	2019-07-01 — 02:28:13 UTC	Ahming, Cory, Libster, NoMercy, Razvogor, Zamiel	1	6	30
 43926	6	0	Number Mute (6 Suits)	2019-07-01 — 02:00:12 UTC	Ahming, Cory, Libster, NoMercy, Razvogor, Zamiel	1	6	30
@@ -2553,118 +2553,118 @@
 43596	4	0	Rainbow & Pink (4 Suits)	2019-06-28 — 23:19:25 UTC	Cory, Razvogor, Sucubis, Zamiel	3	4	20
 43595	4	17	Rainbow & Pink (4 Suits)	2019-06-28 — 23:09:22 UTC	Cory, Razvogor, Sucubis, Zamiel	6	4	20
 43594	3	0	Rainbow & Pink (6 Suits)	2019-06-28 — 22:52:23 UTC	Razvogor, Sucubis, Zamiel	6	6	30
-43593	3	0	Rainbow & Pink (6 Suits)	2019-06-28 — 22:40:31 UTC	Razvogor, Sucubis, Zamiel	7	6	30
+43593	3	0	Rainbow & Pink (6 Suits)	2019-06-28 — 22:40:31 UTC	Razvogor, Sucubis, Zamiel	8	6	30
 43592	3	0	Rainbow & Pink (6 Suits)	2019-06-28 — 22:31:43 UTC	Razvogor, Sucubis, Zamiel	10	6	30
-43452	3	25	White (5 Suits)	2019-06-28 — 03:34:22 UTC	axe_y, Razvogor, ZeNertox	61	5	25
-43447	3	24	White (5 Suits)	2019-06-28 — 03:05:49 UTC	axe_y, Razvogor, ZeNertox	81	5	25
-43444	3	0	White (5 Suits)	2019-06-28 — 02:48:24 UTC	axe_y, Razvogor, ZeNertox	126	5	25
-43443	3	0	White (3 Suits)	2019-06-28 — 02:37:51 UTC	axe_y, Razvogor, ZeNertox	45	3	15
-43440	4	0	White (6 Suits)	2019-06-28 — 02:26:44 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	75	6	30
+43452	3	25	White (5 Suits)	2019-06-28 — 03:34:22 UTC	axe_y, Razvogor, ZeNertox	65	5	25
+43447	3	24	White (5 Suits)	2019-06-28 — 03:05:49 UTC	axe_y, Razvogor, ZeNertox	84	5	25
+43444	3	0	White (5 Suits)	2019-06-28 — 02:48:24 UTC	axe_y, Razvogor, ZeNertox	131	5	25
+43443	3	0	White (3 Suits)	2019-06-28 — 02:37:51 UTC	axe_y, Razvogor, ZeNertox	49	3	15
+43440	4	0	White (6 Suits)	2019-06-28 — 02:26:44 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	76	6	30
 43434	3	0	Pink (6 Suits)	2019-06-28 — 01:57:55 UTC	Razvogor, The Kaito Kid, ZeNertox	47	6	30
 43429	3	0	Pink (6 Suits)	2019-06-28 — 01:36:19 UTC	Razvogor, The Kaito Kid, ZeNertox	53	6	30
 43426	3	0	Pink (6 Suits)	2019-06-28 — 01:22:54 UTC	Razvogor, The Kaito Kid, ZeNertox	70	6	30
-43421	3	0	Pink (6 Suits)	2019-06-28 — 00:52:39 UTC	Razvogor, The Kaito Kid, ZeNertox	92	6	30
-43319	3	25	No Variant	2019-06-27 — 02:57:22 UTC	charlesfire, Razvogor, ZeNertox	320	5	25
-43317	4	0	No Variant	2019-06-27 — 02:30:30 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	243	5	25
-43314	3	23	No Variant	2019-06-27 — 01:58:05 UTC	charlesfire, Razvogor, The Kaito Kid	375	5	25
-43312	3	24	No Variant	2019-06-27 — 01:16:21 UTC	charlesfire, Razvogor, The Kaito Kid	386	5	25
-43215	3	24	No Variant	2019-06-26 — 02:30:18 UTC	charlesfire, Razvogor, ZeNertox	411	5	25
-43214	3	0	No Variant	2019-06-26 — 02:09:26 UTC	charlesfire, Razvogor, ZeNertox	422	5	25
-43213	3	0	No Variant	2019-06-26 — 02:05:08 UTC	charlesfire, Razvogor, ZeNertox	451	5	25
-43211	3	22	No Variant	2019-06-26 — 01:52:45 UTC	charlesfire, Razvogor, ZeNertox	1291	5	25
-43189	3	0	No Variant	2019-06-25 — 21:03:13 UTC	awe, marinafeme, Razvogor	324	5	25
-43140	3	0	Black (6 Suits)	2019-06-25 — 03:40:41 UTC	axe_y, Razvogor, ZeNertox	108	6	30
-43136	3	23	No Variant	2019-06-25 — 03:20:33 UTC	axe_y, Razvogor, ZeNertox	3260	5	25
-43128	4	0	No Variant	2019-06-25 — 02:52:31 UTC	axe_y, charlesfire, Razvogor, ZeNertox	384	5	25
-43123	5	23	No Variant	2019-06-25 — 02:23:43 UTC	axe_y, charlesfire, Razvogor, The Kaito Kid, ZeNertox	344	5	25
-43117	4	0	No Variant	2019-06-25 — 01:52:20 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	278	5	25
-42779	3	0	Black (5 Suits)	2019-06-22 — 04:38:08 UTC	axe_y, Razvogor, The Kaito Kid	68	5	25
-42777	3	22	Black (5 Suits)	2019-06-22 — 04:13:09 UTC	axe_y, Razvogor, The Kaito Kid	71	5	25
-42774	3	25	Black (5 Suits)	2019-06-22 — 03:49:41 UTC	axe_y, Razvogor, The Kaito Kid	74	5	25
+43421	3	0	Pink (6 Suits)	2019-06-28 — 00:52:39 UTC	Razvogor, The Kaito Kid, ZeNertox	94	6	30
+43319	3	25	No Variant	2019-06-27 — 02:57:22 UTC	charlesfire, Razvogor, ZeNertox	324	5	25
+43317	4	0	No Variant	2019-06-27 — 02:30:30 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	245	5	25
+43314	3	23	No Variant	2019-06-27 — 01:58:05 UTC	charlesfire, Razvogor, The Kaito Kid	380	5	25
+43312	3	24	No Variant	2019-06-27 — 01:16:21 UTC	charlesfire, Razvogor, The Kaito Kid	392	5	25
+43215	3	24	No Variant	2019-06-26 — 02:30:18 UTC	charlesfire, Razvogor, ZeNertox	417	5	25
+43214	3	0	No Variant	2019-06-26 — 02:09:26 UTC	charlesfire, Razvogor, ZeNertox	428	5	25
+43213	3	0	No Variant	2019-06-26 — 02:05:08 UTC	charlesfire, Razvogor, ZeNertox	456	5	25
+43211	3	22	No Variant	2019-06-26 — 01:52:45 UTC	charlesfire, Razvogor, ZeNertox	1299	5	25
+43189	3	0	No Variant	2019-06-25 — 21:03:13 UTC	awe, marinafeme, Razvogor	330	5	25
+43140	3	0	Black (6 Suits)	2019-06-25 — 03:40:41 UTC	axe_y, Razvogor, ZeNertox	111	6	30
+43136	3	23	No Variant	2019-06-25 — 03:20:33 UTC	axe_y, Razvogor, ZeNertox	3290	5	25
+43128	4	0	No Variant	2019-06-25 — 02:52:31 UTC	axe_y, charlesfire, Razvogor, ZeNertox	387	5	25
+43123	5	23	No Variant	2019-06-25 — 02:23:43 UTC	axe_y, charlesfire, Razvogor, The Kaito Kid, ZeNertox	348	5	25
+43117	4	0	No Variant	2019-06-25 — 01:52:20 UTC	charlesfire, Razvogor, The Kaito Kid, ZeNertox	280	5	25
+42779	3	0	Black (5 Suits)	2019-06-22 — 04:38:08 UTC	axe_y, Razvogor, The Kaito Kid	69	5	25
+42777	3	22	Black (5 Suits)	2019-06-22 — 04:13:09 UTC	axe_y, Razvogor, The Kaito Kid	73	5	25
+42774	3	25	Black (5 Suits)	2019-06-22 — 03:49:41 UTC	axe_y, Razvogor, The Kaito Kid	76	5	25
 42771	3	20	Black (5 Suits)	2019-06-22 — 03:25:03 UTC	axe_y, Razvogor, The Kaito Kid	84	5	25
 42709	6	15	3 Suits	2019-06-21 — 05:02:10 UTC	efaust, IAMJEFF, Libster, Razvogor, sjdrodge, Zamiel	2	3	15
 42708	6	24	Black & White (5 Suits)	2019-06-21 — 04:44:27 UTC	efaust, IAMJEFF, Libster, Razvogor, sjdrodge, Zamiel	3	5	25
 42707	4	0	Special Mix (5 Suits)	2019-06-21 — 04:24:32 UTC	Libster, Razvogor, sjdrodge, Zamiel	25	5	25
 42706	4	0	Special Mix (5 Suits)	2019-06-21 — 04:14:48 UTC	Libster, Razvogor, sjdrodge, Zamiel	28	5	25
-42692	6	21	No Variant	2019-06-21 — 01:30:19 UTC	axe_y, jeremalice, Razvogor, The Kaito Kid, yest, ZeNertox	478	5	25
-42686	5	23	No Variant	2019-06-21 — 00:48:50 UTC	axe_y, jeremalice, Razvogor, The Kaito Kid, ZeNertox	383	5	25
-42684	5	0	No Variant	2019-06-21 — 00:24:18 UTC	axe_y, jeremalice, Razvogor, The Kaito Kid, ZeNertox	457	5	25
-42682	4	21	No Variant	2019-06-20 — 23:54:58 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	419	5	25
+42692	6	21	No Variant	2019-06-21 — 01:30:19 UTC	axe_y, jeremalice, Razvogor, The Kaito Kid, yest, ZeNertox	483	5	25
+42686	5	23	No Variant	2019-06-21 — 00:48:50 UTC	axe_y, jeremalice, Razvogor, The Kaito Kid, ZeNertox	384	5	25
+42684	5	0	No Variant	2019-06-21 — 00:24:18 UTC	axe_y, jeremalice, Razvogor, The Kaito Kid, ZeNertox	461	5	25
+42682	4	21	No Variant	2019-06-20 — 23:54:58 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	423	5	25
 42681	3	0	Duck (5 Suits)	2019-06-20 — 23:30:38 UTC	axe_y, Razvogor, The Kaito Kid	52	5	25
-42680	3	0	Black & Rainbow (6 Suits)	2019-06-20 — 23:19:57 UTC	axe_y, Razvogor, The Kaito Kid	59	6	30
-42672	4	0	No Variant	2019-06-20 — 20:58:09 UTC	asaelr, Kyle, Razvogor, scharkbite	53	5	25
-42667	4	0	No Variant	2019-06-20 — 20:25:09 UTC	asaelr, Kyle, Razvogor, Yeesh	233	5	25
+42680	3	0	Black & Rainbow (6 Suits)	2019-06-20 — 23:19:57 UTC	axe_y, Razvogor, The Kaito Kid	60	6	30
+42672	4	0	No Variant	2019-06-20 — 20:58:09 UTC	asaelr, Kyle, Razvogor, scharkbite	55	5	25
+42667	4	0	No Variant	2019-06-20 — 20:25:09 UTC	asaelr, Kyle, Razvogor, Yeesh	236	5	25
 42663	5	25	No Variant	2019-06-20 — 19:49:42 UTC	asaelr, Kyle, Razvogor, sjdrodge, Yeesh	12	5	25
-42308	4	27	Black & White (6 Suits)	2019-06-16 — 17:58:16 UTC	asaelr, Razvogor, wjomlex, Zamiel	22	6	30
+42308	4	27	Black & White (6 Suits)	2019-06-16 — 17:58:16 UTC	asaelr, Razvogor, wjomlex, Zamiel	23	6	30
 42306	4	0	Black & White (6 Suits)	2019-06-16 — 17:32:17 UTC	asaelr, Razvogor, wjomlex, Zamiel	24	6	30
 42064	3	0	Black (5 Suits)	2019-06-15 — 02:41:21 UTC	axe_y, Razvogor, ZeNertox	92	5	25
 42060	3	0	Black (5 Suits)	2019-06-15 — 02:31:34 UTC	axe_y, Razvogor, ZeNertox	101	5	25
 42054	3	0	Black (5 Suits)	2019-06-15 — 02:17:55 UTC	axe_y, Razvogor, ZeNertox	119	5	25
-42048	3	0	Black (5 Suits)	2019-06-15 — 02:01:36 UTC	axe_y, Razvogor, ZeNertox	134	5	25
-41567	4	0	No Variant	2019-06-11 — 02:13:11 UTC	Razvogor, The Kaito Kid, yest, ZeNertox	442	5	25
-41562	4	24	No Variant	2019-06-11 — 01:41:06 UTC	Razvogor, The Kaito Kid, yest, ZeNertox	601	5	25
-41558	5	0	No Variant	2019-06-11 — 01:11:48 UTC	Razvogor, The Kaito Kid, TheVisitor, yest, ZeNertox	837	5	25
-41553	5	21	No Variant	2019-06-11 — 00:40:03 UTC	Razvogor, The Kaito Kid, TheVisitor, yest, ZeNertox	1119	5	25
-41420	3	0	Black (5 Suits)	2019-06-10 — 02:24:13 UTC	axe_y, Razvogor, ZeNertox	171	5	25
-41414	4	0	Black (6 Suits)	2019-06-10 — 01:59:27 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	90	6	30
-41411	4	0	Black (6 Suits)	2019-06-10 — 01:34:39 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	91	6	30
-41408	4	0	Black (6 Suits)	2019-06-10 — 01:08:12 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	102	6	30
-41403	4	0	Black (6 Suits)	2019-06-10 — 00:47:32 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	112	6	30
-41401	4	0	Black (6 Suits)	2019-06-10 — 00:22:59 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	128	6	30
-41370	3	27	Black (6 Suits)	2019-06-09 — 18:19:51 UTC	Razvogor, The Kaito Kid, ZeNertox	119	6	30
-41364	3	25	Black (6 Suits)	2019-06-09 — 17:47:31 UTC	Razvogor, The Kaito Kid, ZeNertox	125	6	30
+42048	3	0	Black (5 Suits)	2019-06-15 — 02:01:36 UTC	axe_y, Razvogor, ZeNertox	135	5	25
+41567	4	0	No Variant	2019-06-11 — 02:13:11 UTC	Razvogor, The Kaito Kid, yest, ZeNertox	448	5	25
+41562	4	24	No Variant	2019-06-11 — 01:41:06 UTC	Razvogor, The Kaito Kid, yest, ZeNertox	606	5	25
+41558	5	0	No Variant	2019-06-11 — 01:11:48 UTC	Razvogor, The Kaito Kid, TheVisitor, yest, ZeNertox	845	5	25
+41553	5	21	No Variant	2019-06-11 — 00:40:03 UTC	Razvogor, The Kaito Kid, TheVisitor, yest, ZeNertox	1125	5	25
+41420	3	0	Black (5 Suits)	2019-06-10 — 02:24:13 UTC	axe_y, Razvogor, ZeNertox	174	5	25
+41414	4	0	Black (6 Suits)	2019-06-10 — 01:59:27 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	95	6	30
+41411	4	0	Black (6 Suits)	2019-06-10 — 01:34:39 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	95	6	30
+41408	4	0	Black (6 Suits)	2019-06-10 — 01:08:12 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	103	6	30
+41403	4	0	Black (6 Suits)	2019-06-10 — 00:47:32 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	113	6	30
+41401	4	0	Black (6 Suits)	2019-06-10 — 00:22:59 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	129	6	30
+41370	3	27	Black (6 Suits)	2019-06-09 — 18:19:51 UTC	Razvogor, The Kaito Kid, ZeNertox	122	6	30
+41364	3	25	Black (6 Suits)	2019-06-09 — 17:47:31 UTC	Razvogor, The Kaito Kid, ZeNertox	126	6	30
 41360	3	0	Black (6 Suits)	2019-06-09 — 17:24:50 UTC	Razvogor, The Kaito Kid, ZeNertox	134	6	30
-41356	3	28	Black (6 Suits)	2019-06-09 — 16:27:38 UTC	Razvogor, The Kaito Kid, ZeNertox	149	6	30
-41352	3	0	Black (6 Suits)	2019-06-09 — 16:04:53 UTC	Razvogor, The Kaito Kid, ZeNertox	159	6	30
+41356	3	28	Black (6 Suits)	2019-06-09 — 16:27:38 UTC	Razvogor, The Kaito Kid, ZeNertox	151	6	30
+41352	3	0	Black (6 Suits)	2019-06-09 — 16:04:53 UTC	Razvogor, The Kaito Kid, ZeNertox	161	6	30
 41247	4	28	Brown (6 Suits)	2019-06-08 — 22:09:16 UTC	Asddsa76, micerang, Razvogor, scharkbite	21	6	30
 41242	6	25	6 Suits	2019-06-08 — 21:22:38 UTC	Asddsa76, Feer, micerang, Razvogor, Sucubis, Will	50	6	30
 41055	3	18	Pink (4 Suits)	2019-06-07 — 04:59:40 UTC	Feer, Libster, Razvogor	29	4	20
-41046	3	29	6 Suits	2019-06-07 — 03:38:59 UTC	axe_y, Razvogor, ZeNertox	252	6	30
-41045	3	0	6 Suits	2019-06-07 — 03:24:38 UTC	axe_y, Razvogor, ZeNertox	305	6	30
-41044	3	0	6 Suits	2019-06-07 — 03:23:32 UTC	axe_y, Razvogor, ZeNertox	365	6	30
-41042	3	0	6 Suits	2019-06-07 — 03:10:28 UTC	axe_y, Razvogor, ZeNertox	503	6	30
-41040	4	24	Black (6 Suits)	2019-06-07 — 02:48:15 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	142	6	30
-41035	4	0	Black (6 Suits)	2019-06-07 — 02:21:05 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	175	6	30
-41029	4	0	Black & Rainbow (6 Suits)	2019-06-07 — 00:56:44 UTC	IAMJEFF, Razvogor, sankala, Zamiel	13	6	30
+41046	3	29	6 Suits	2019-06-07 — 03:38:59 UTC	axe_y, Razvogor, ZeNertox	256	6	30
+41045	3	0	6 Suits	2019-06-07 — 03:24:38 UTC	axe_y, Razvogor, ZeNertox	311	6	30
+41044	3	0	6 Suits	2019-06-07 — 03:23:32 UTC	axe_y, Razvogor, ZeNertox	371	6	30
+41042	3	0	6 Suits	2019-06-07 — 03:10:28 UTC	axe_y, Razvogor, ZeNertox	511	6	30
+41040	4	24	Black (6 Suits)	2019-06-07 — 02:48:15 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	143	6	30
+41035	4	0	Black (6 Suits)	2019-06-07 — 02:21:05 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	176	6	30
+41029	4	0	Black & Rainbow (6 Suits)	2019-06-07 — 00:56:44 UTC	IAMJEFF, Razvogor, sankala, Zamiel	14	6	30
 41028	5	24	Pink (5 Suits)	2019-06-07 — 00:30:09 UTC	IAMJEFF, micerang, Razvogor, sankala, Zamiel	12	5	25
-40832	3	24	Black (6 Suits)	2019-06-06 — 02:03:38 UTC	Razvogor, The Kaito Kid, ZeNertox	172	6	30
-40830	3	0	Black (6 Suits)	2019-06-06 — 01:26:34 UTC	Razvogor, The Kaito Kid, ZeNertox	193	6	30
-40829	3	28	Black (6 Suits)	2019-06-06 — 01:01:44 UTC	Razvogor, The Kaito Kid, ZeNertox	213	6	30
-40828	3	0	No Variant	2019-06-06 — 00:27:06 UTC	Jake_Stiles, micerang, Razvogor	551	5	25
+40832	3	24	Black (6 Suits)	2019-06-06 — 02:03:38 UTC	Razvogor, The Kaito Kid, ZeNertox	175	6	30
+40830	3	0	Black (6 Suits)	2019-06-06 — 01:26:34 UTC	Razvogor, The Kaito Kid, ZeNertox	196	6	30
+40829	3	28	Black (6 Suits)	2019-06-06 — 01:01:44 UTC	Razvogor, The Kaito Kid, ZeNertox	214	6	30
+40828	3	0	No Variant	2019-06-06 — 00:27:06 UTC	Jake_Stiles, micerang, Razvogor	558	5	25
 40701	3	30	Black (6 Suits)	2019-06-04 — 23:43:56 UTC	Razvogor, The Kaito Kid, ZeNertox	236	6	30
-40699	3	27	Black (6 Suits)	2019-06-04 — 23:06:05 UTC	Razvogor, The Kaito Kid, ZeNertox	261	6	30
-40600	3	30	Black (6 Suits)	2019-06-04 — 01:41:00 UTC	Razvogor, The Kaito Kid, ZeNertox	325	6	30
-40589	3	28	Black (6 Suits)	2019-06-04 — 01:03:12 UTC	Razvogor, The Kaito Kid, ZeNertox	399	6	30
-40252	4	0	Black (6 Suits)	2019-06-02 — 01:03:33 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	213	6	30
-40249	4	27	Black (6 Suits)	2019-06-02 — 00:36:19 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	273	6	30
-40241	3	0	Rainbow (6 Suits)	2019-06-01 — 23:17:04 UTC	Razvogor, The Kaito Kid, ZeNertox	183	6	30
-40234	3	30	Rainbow (6 Suits)	2019-06-01 — 22:44:34 UTC	Razvogor, The Kaito Kid, ZeNertox	196	6	30
-40223	3	0	Rainbow (6 Suits)	2019-06-01 — 22:08:26 UTC	Razvogor, The Kaito Kid, ZeNertox	215	6	30
-40204	3	30	Rainbow (6 Suits)	2019-06-01 — 19:52:20 UTC	Razvogor, The Kaito Kid, ZeNertox	282	6	30
-39902	3	0	Rainbow (6 Suits)	2019-05-30 — 00:40:18 UTC	Razvogor, The Kaito Kid, ZeNertox	332	6	30
-39901	3	27	Rainbow (6 Suits)	2019-05-30 — 00:13:33 UTC	Razvogor, The Kaito Kid, ZeNertox	508	6	30
-39898	3	0	Rainbow (6 Suits)	2019-05-29 — 23:33:32 UTC	Razvogor, The Kaito Kid, ZeNertox	689	6	30
-39788	3	24	No Variant	2019-05-29 — 01:22:40 UTC	Razvogor, The Kaito Kid, ZeNertox	459	5	25
-39782	3	22	No Variant	2019-05-29 — 00:46:33 UTC	Razvogor, The Kaito Kid, ZeNertox	485	5	25
-39681	4	25	No Variant	2019-05-28 — 02:35:36 UTC	Razvogor, The Kaito Kid, yest, ZeNertox	717	5	25
+40699	3	27	Black (6 Suits)	2019-06-04 — 23:06:05 UTC	Razvogor, The Kaito Kid, ZeNertox	263	6	30
+40600	3	30	Black (6 Suits)	2019-06-04 — 01:41:00 UTC	Razvogor, The Kaito Kid, ZeNertox	332	6	30
+40589	3	28	Black (6 Suits)	2019-06-04 — 01:03:12 UTC	Razvogor, The Kaito Kid, ZeNertox	407	6	30
+40252	4	0	Black (6 Suits)	2019-06-02 — 01:03:33 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	215	6	30
+40249	4	27	Black (6 Suits)	2019-06-02 — 00:36:19 UTC	axe_y, Razvogor, The Kaito Kid, ZeNertox	276	6	30
+40241	3	0	Rainbow (6 Suits)	2019-06-01 — 23:17:04 UTC	Razvogor, The Kaito Kid, ZeNertox	186	6	30
+40234	3	30	Rainbow (6 Suits)	2019-06-01 — 22:44:34 UTC	Razvogor, The Kaito Kid, ZeNertox	198	6	30
+40223	3	0	Rainbow (6 Suits)	2019-06-01 — 22:08:26 UTC	Razvogor, The Kaito Kid, ZeNertox	217	6	30
+40204	3	30	Rainbow (6 Suits)	2019-06-01 — 19:52:20 UTC	Razvogor, The Kaito Kid, ZeNertox	284	6	30
+39902	3	0	Rainbow (6 Suits)	2019-05-30 — 00:40:18 UTC	Razvogor, The Kaito Kid, ZeNertox	335	6	30
+39901	3	27	Rainbow (6 Suits)	2019-05-30 — 00:13:33 UTC	Razvogor, The Kaito Kid, ZeNertox	514	6	30
+39898	3	0	Rainbow (6 Suits)	2019-05-29 — 23:33:32 UTC	Razvogor, The Kaito Kid, ZeNertox	693	6	30
+39788	3	24	No Variant	2019-05-29 — 01:22:40 UTC	Razvogor, The Kaito Kid, ZeNertox	467	5	25
+39782	3	22	No Variant	2019-05-29 — 00:46:33 UTC	Razvogor, The Kaito Kid, ZeNertox	491	5	25
+39681	4	25	No Variant	2019-05-28 — 02:35:36 UTC	Razvogor, The Kaito Kid, yest, ZeNertox	724	5	25
 39562	3	0	4 Suits	2019-05-27 — 07:04:40 UTC	axe_y, Razvogor, ZeNertox	25	4	20
-39560	3	0	4 Suits	2019-05-27 — 06:31:45 UTC	axe_y, Razvogor, ZeNertox	28	4	20
-39559	3	0	4 Suits	2019-05-27 — 06:12:30 UTC	axe_y, Razvogor, ZeNertox	29	4	20
+39560	3	0	4 Suits	2019-05-27 — 06:31:45 UTC	axe_y, Razvogor, ZeNertox	29	4	20
+39559	3	0	4 Suits	2019-05-27 — 06:12:30 UTC	axe_y, Razvogor, ZeNertox	30	4	20
 39558	3	0	4 Suits	2019-05-27 — 05:59:48 UTC	axe_y, Razvogor, ZeNertox	31	4	20
 39557	3	20	4 Suits	2019-05-27 — 05:38:48 UTC	axe_y, Razvogor, ZeNertox	34	4	20
-39556	3	20	4 Suits	2019-05-27 — 05:10:58 UTC	axe_y, Razvogor, ZeNertox	44	4	20
-39555	3	0	4 Suits	2019-05-27 — 04:53:14 UTC	axe_y, Razvogor, ZeNertox	59	4	20
-39554	3	0	4 Suits	2019-05-27 — 04:49:44 UTC	axe_y, Razvogor, ZeNertox	70	4	20
+39556	3	20	4 Suits	2019-05-27 — 05:10:58 UTC	axe_y, Razvogor, ZeNertox	45	4	20
+39555	3	0	4 Suits	2019-05-27 — 04:53:14 UTC	axe_y, Razvogor, ZeNertox	60	4	20
+39554	3	0	4 Suits	2019-05-27 — 04:49:44 UTC	axe_y, Razvogor, ZeNertox	71	4	20
 39553	3	20	4 Suits	2019-05-27 — 04:40:50 UTC	axe_y, Razvogor, ZeNertox	90	4	20
-39552	3	20	4 Suits	2019-05-27 — 04:15:37 UTC	axe_y, Razvogor, ZeNertox	118	4	20
-39551	3	20	4 Suits	2019-05-27 — 03:52:55 UTC	axe_y, Razvogor, ZeNertox	160	4	20
-39510	3	25	No Variant	2019-05-26 — 19:59:31 UTC	Razvogor, The Kaito Kid, ZeNertox	645	5	25
-39504	3	25	No Variant	2019-05-26 — 19:28:38 UTC	Razvogor, The Kaito Kid, ZeNertox	680	5	25
-39498	3	0	No Variant	2019-05-26 — 18:43:00 UTC	Razvogor, The Kaito Kid, ZeNertox	750	5	25
-39495	3	0	No Variant	2019-05-26 — 18:19:28 UTC	Razvogor, The Kaito Kid, ZeNertox	801	5	25
-39493	3	0	No Variant	2019-05-26 — 17:45:24 UTC	Razvogor, The Kaito Kid, ZeNertox	840	5	25
-39294	3	0	No Variant	2019-05-25 — 01:16:50 UTC	Razvogor, The Kaito Kid, ZeNertox	940	5	25
-39291	3	25	No Variant	2019-05-25 — 00:37:09 UTC	Razvogor, The Kaito Kid, ZeNertox	1017	5	25
+39552	3	20	4 Suits	2019-05-27 — 04:15:37 UTC	axe_y, Razvogor, ZeNertox	120	4	20
+39551	3	20	4 Suits	2019-05-27 — 03:52:55 UTC	axe_y, Razvogor, ZeNertox	162	4	20
+39510	3	25	No Variant	2019-05-26 — 19:59:31 UTC	Razvogor, The Kaito Kid, ZeNertox	655	5	25
+39504	3	25	No Variant	2019-05-26 — 19:28:38 UTC	Razvogor, The Kaito Kid, ZeNertox	688	5	25
+39498	3	0	No Variant	2019-05-26 — 18:43:00 UTC	Razvogor, The Kaito Kid, ZeNertox	757	5	25
+39495	3	0	No Variant	2019-05-26 — 18:19:28 UTC	Razvogor, The Kaito Kid, ZeNertox	809	5	25
+39493	3	0	No Variant	2019-05-26 — 17:45:24 UTC	Razvogor, The Kaito Kid, ZeNertox	849	5	25
+39294	3	0	No Variant	2019-05-25 — 01:16:50 UTC	Razvogor, The Kaito Kid, ZeNertox	952	5	25
+39291	3	25	No Variant	2019-05-25 — 00:37:09 UTC	Razvogor, The Kaito Kid, ZeNertox	1026	5	25
 39283	2	0	Duck (4 Suits)	2019-05-25 — 00:13:29 UTC	Razvogor, Zamiel	9	4	20
 39281	2	0	Duck (4 Suits)	2019-05-25 — 00:02:20 UTC	Razvogor, Zamiel	11	4	20
 39279	2	0	Duck (4 Suits)	2019-05-24 — 23:59:56 UTC	Razvogor, Zamiel	14	4	20
@@ -2726,11 +2726,11 @@
 39102	5	0	Rainbow (6 Suits)	2019-05-24 — 04:49:14 UTC	florrat2, Libster, NoMercy, Razvogor, Zamiel	2	6	30
 39101	5	0	Rainbow (6 Suits)	2019-05-24 — 04:48:28 UTC	florrat2, Libster, NoMercy, Razvogor, Zamiel	2	6	30
 39099	5	0	Rainbow (6 Suits)	2019-05-24 — 04:46:21 UTC	florrat2, Libster, NoMercy, Razvogor, Zamiel	2	6	30
-39088	4	25	No Variant	2019-05-24 — 04:30:49 UTC	efaust, micerang, Razvogor, zuzwang	473	5	25
+39088	4	25	No Variant	2019-05-24 — 04:30:49 UTC	efaust, micerang, Razvogor, zuzwang	480	5	25
 39064	4	0	Pink (6 Suits)	2019-05-24 — 02:59:30 UTC	Asddsa76, Razvogor, sankala, Zamiel	6	6	30
 39063	6	29	Brown (6 Suits)	2019-05-24 — 02:33:09 UTC	Asddsa76, cak199164, Razvogor, sankala, Yeesh, Zamiel	10	6	30
-39059	3	0	No Variant	2019-05-24 — 00:14:28 UTC	Razvogor, The Kaito Kid, ZeNertox	1095	5	25
-39057	3	24	No Variant	2019-05-23 — 23:56:04 UTC	Razvogor, The Kaito Kid, ZeNertox	1174	5	25
+39059	3	0	No Variant	2019-05-24 — 00:14:28 UTC	Razvogor, The Kaito Kid, ZeNertox	1102	5	25
+39057	3	24	No Variant	2019-05-23 — 23:56:04 UTC	Razvogor, The Kaito Kid, ZeNertox	1180	5	25
 38944	5	29	Up or Down (6 Suits)	2019-05-23 — 04:43:33 UTC	efaust, florrat2, Libster, NoMercy, Razvogor	11	6	30
 38942	5	0	Up or Down (5 Suits)	2019-05-23 — 04:14:33 UTC	efaust, florrat2, Libster, NoMercy, Razvogor	4	5	25
 38941	5	28	Dark Brown (6 Suits)	2019-05-23 — 03:50:22 UTC	efaust, florrat2, Libster, NoMercy, Razvogor	10	6	30
@@ -2752,18 +2752,18 @@
 38925	4	0	Black (6 Suits)	2019-05-23 — 03:00:52 UTC	florrat2, Libster, NoMercy, Razvogor	1	6	30
 38924	4	0	Black (6 Suits)	2019-05-23 — 02:59:55 UTC	florrat2, Libster, NoMercy, Razvogor	1	6	30
 38886	4	24	No Variant	2019-05-23 — 02:20:44 UTC	florrat2, Libster, NoMercy, Razvogor	5	5	25
-38885	4	23	Dark Brown (5 Suits)	2019-05-23 — 01:49:20 UTC	florrat2, Libster, NoMercy, Razvogor	8	5	25
+38885	4	23	Dark Brown (5 Suits)	2019-05-23 — 01:49:20 UTC	florrat2, Libster, NoMercy, Razvogor	9	5	25
 38884	4	25	Special Mix (5 Suits)	2019-05-23 — 01:15:35 UTC	florrat2, Libster, NoMercy, Razvogor	29	5	25
 38789	3	25	Duck (5 Suits)	2019-05-22 — 03:52:36 UTC	florrat2, Libster, Razvogor	11	5	25
 38787	3	20	Duck (4 Suits)	2019-05-22 — 03:25:48 UTC	florrat2, Libster, Razvogor	2	4	20
 38784	3	15	Duck (3 Suits)	2019-05-22 — 03:05:43 UTC	florrat2, Libster, Razvogor	21	3	15
-38036	4	30	Rainbow (6 Suits)	2019-05-15 — 22:03:32 UTC	Andrew_UK, kondain, micerang, Razvogor	76	6	30
-38032	5	0	Rainbow (6 Suits)	2019-05-15 — 21:32:32 UTC	Ahming, Andrew_UK, kondain, micerang, Razvogor	101	6	30
-4911	4	0	Rainbow (6 Suits)	2018-04-09 — 20:03:06 UTC	GamerSKTrashCan, Hyakinthus, Razvogor, Swifter	104	6	30
-4906	4	30	Rainbow (6 Suits)	2018-04-09 — 17:17:31 UTC	GamerSKTrashCan, Hyakinthus, Razvogor, Swifter	122	6	30
-4905	4	27	Black (6 Suits)	2018-04-09 — 16:24:25 UTC	GamerSKTrashCan, Hyakinthus, Razvogor, Swifter	121	6	30
-4904	3	0	6 Suits	2018-04-09 — 03:15:57 UTC	Cory, Razvogor, Zamiel	126	6	30
-4903	4	0	6 Suits	2018-04-09 — 02:38:46 UTC	Cory, Mike, Razvogor, Zamiel	25	6	30
+38036	4	30	Rainbow (6 Suits)	2019-05-15 — 22:03:32 UTC	Andrew_UK, kondain, micerang, Razvogor	77	6	30
+38032	5	0	Rainbow (6 Suits)	2019-05-15 — 21:32:32 UTC	Ahming, Andrew_UK, kondain, micerang, Razvogor	102	6	30
+4911	4	0	Rainbow (6 Suits)	2018-04-09 — 20:03:06 UTC	GamerSKTrashCan, Hyakinthus, Razvogor, Swifter	106	6	30
+4906	4	30	Rainbow (6 Suits)	2018-04-09 — 17:17:31 UTC	GamerSKTrashCan, Hyakinthus, Razvogor, Swifter	123	6	30
+4905	4	27	Black (6 Suits)	2018-04-09 — 16:24:25 UTC	GamerSKTrashCan, Hyakinthus, Razvogor, Swifter	123	6	30
+4904	3	0	6 Suits	2018-04-09 — 03:15:57 UTC	Cory, Razvogor, Zamiel	128	6	30
+4903	4	0	6 Suits	2018-04-09 — 02:38:46 UTC	Cory, Mike, Razvogor, Zamiel	27	6	30
 4902	5	0	6 Suits	2018-04-09 — 02:09:20 UTC	Cory, Instantiation, Mike, Razvogor, Zamiel	10	6	30
-4901	4	0	6 Suits	2018-04-09 — 01:48:34 UTC	Cory, Mike, Razvogor, Zamiel	26	6	30
-4900	3	30	6 Suits	2018-04-09 — 01:19:30 UTC	Mike, Razvogor, Zamiel	83	6	30
+4901	4	0	6 Suits	2018-04-09 — 01:48:34 UTC	Cory, Mike, Razvogor, Zamiel	29	6	30
+4900	3	30	6 Suits	2018-04-09 — 01:19:30 UTC	Mike, Razvogor, Zamiel	84	6	30

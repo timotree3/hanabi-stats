@@ -1,58 +1,58 @@
-425261	3	28	6 Suits	2021-02-04 — 12:23:30 UTC	Denchulitas, possum, sankala	305	6	30
-425245	3	23	Black & Omni (5 Suits)	2021-02-04 — 11:40:37 UTC	Pablo-, sankala, StKildaFan	8	5	25
-425239	3	0	Black & Omni (5 Suits)	2021-02-04 — 11:16:30 UTC	Pablo-, sankala, StKildaFan	12	5	25
+425261	3	28	6 Suits	2021-02-04 — 12:23:30 UTC	Denchulitas, possum, sankala	311	6	30
+425245	3	23	Black & Omni (5 Suits)	2021-02-04 — 11:40:37 UTC	Pablo-, sankala, StKildaFan	10	5	25
+425239	3	0	Black & Omni (5 Suits)	2021-02-04 — 11:16:30 UTC	Pablo-, sankala, StKildaFan	13	5	25
 413738	3	25	Dual-Color Mix	2021-01-24 — 19:08:17 UTC	Lel0uch, Libster, sankala	13	6	30
 413699	3	30	Dual-Color Mix	2021-01-24 — 18:27:02 UTC	Lel0uch, Libster, sankala	12	6	30
 413641	3	0	Dual-Color Mix	2021-01-24 — 17:28:28 UTC	Lel0uch, Libster, sankala	14	6	30
 413380	3	29	Dual-Color Mix	2021-01-24 — 06:49:11 UTC	Lel0uch, Libster, sankala	14	6	30
 413287	3	30	Dual-Color Mix	2021-01-24 — 05:30:22 UTC	Lel0uch, Libster, sankala	12	6	30
-412687	3	0	Dual-Color Mix	2021-01-23 — 20:09:35 UTC	Lel0uch, Libster, sankala	12	6	30
+412687	3	0	Dual-Color Mix	2021-01-23 — 20:09:35 UTC	Lel0uch, Libster, sankala	13	6	30
 412615	3	28	Dual-Color Mix	2021-01-23 — 19:11:06 UTC	Lel0uch, Libster, sankala	16	6	30
 412553	3	30	Dual-Color Mix	2021-01-23 — 18:30:27 UTC	Lel0uch, Libster, sankala	16	6	30
-406853	3	0	No Variant	2021-01-18 — 01:36:34 UTC	4head, griff77, sankala	750	5	25
-406830	3	25	No Variant	2021-01-18 — 00:59:23 UTC	griff77, sankala, wump	69	5	25
-406811	3	25	No Variant	2021-01-18 — 00:19:29 UTC	griff77, sankala, wump	68	5	25
-405514	3	28	6 Suits	2021-01-16 — 21:18:17 UTC	ChristopheAF, sankala, Spieler42	252	6	30
-405473	6	0	No Variant	2021-01-16 — 20:57:07 UTC	bjnh, ChristopheAF, Daryl, indego, sankala, Spieler42	478	5	25
-374769	4	25	No Variant	2020-12-18 — 16:32:50 UTC	GemmyBean, jack67889, sankala, Spieler42	899	5	25
-374740	3	23	No Variant	2020-12-18 — 15:37:29 UTC	GemmyBean, sankala, Spieler42	801	5	25
-374711	3	25	No Variant	2020-12-18 — 14:48:43 UTC	GemmyBean, sankala, Spieler42	840	5	25
+406853	3	0	No Variant	2021-01-18 — 01:36:34 UTC	4head, griff77, sankala	757	5	25
+406830	3	25	No Variant	2021-01-18 — 00:59:23 UTC	griff77, sankala, wump	73	5	25
+406811	3	25	No Variant	2021-01-18 — 00:19:29 UTC	griff77, sankala, wump	72	5	25
+405514	3	28	6 Suits	2021-01-16 — 21:18:17 UTC	ChristopheAF, sankala, Spieler42	256	6	30
+405473	6	0	No Variant	2021-01-16 — 20:57:07 UTC	bjnh, ChristopheAF, Daryl, indego, sankala, Spieler42	483	5	25
+374769	4	25	No Variant	2020-12-18 — 16:32:50 UTC	GemmyBean, jack67889, sankala, Spieler42	908	5	25
+374740	3	23	No Variant	2020-12-18 — 15:37:29 UTC	GemmyBean, sankala, Spieler42	809	5	25
+374711	3	25	No Variant	2020-12-18 — 14:48:43 UTC	GemmyBean, sankala, Spieler42	849	5	25
 374688	5	29	Rainbow & White (6 Suits)	2020-12-18 — 13:50:50 UTC	GemmyBean, katian, Lel0uch, sankala, Wittvector	11	6	30
 368868	4	30	White & Prism (6 Suits)	2020-12-12 — 12:46:11 UTC	katian, Lel0uch, melwen, sankala	5	6	30
-354840	4	20	Rainbow & Prism (4 Suits)	2020-11-27 — 03:53:46 UTC	Animex52, doctorabi, frosty104, sankala	7	4	20
-354821	4	20	4 Suits	2020-11-27 — 03:31:44 UTC	Animex52, doctorabi, frosty104, sankala	77	4	20
+354840	4	20	Rainbow & Prism (4 Suits)	2020-11-27 — 03:53:46 UTC	Animex52, doctorabi, frosty104, sankala	8	4	20
+354821	4	20	4 Suits	2020-11-27 — 03:31:44 UTC	Animex52, doctorabi, frosty104, sankala	80	4	20
 354793	5	0	4 Suits	2020-11-27 — 02:54:52 UTC	Animex52, doctorabi, frosty104, rmitra5, sankala	16	4	20
 354789	5	29	Brown (6 Suits)	2020-11-27 — 02:40:13 UTC	jeff10, melwen, sankala, StKildaFan, will.i.am	16	6	30
-354135	3	21	Black (5 Suits)	2020-11-26 — 04:52:57 UTC	Carunty, ksfortson, sankala	71	5	25
+354135	3	21	Black (5 Suits)	2020-11-26 — 04:52:57 UTC	Carunty, ksfortson, sankala	73	5	25
 354084	3	21	Black (5 Suits)	2020-11-26 — 04:09:39 UTC	Carunty, ksfortson, sankala	92	5	25
 354063	3	0	Black (5 Suits)	2020-11-26 — 03:45:31 UTC	Carunty, ksfortson, sankala	101	5	25
 349594	4	25	White (5 Suits)	2020-11-21 — 08:22:35 UTC	Fey, HelanaAshryvr, Lel0uch, sankala	60	5	25
 349560	3	25	White (5 Suits)	2020-11-21 — 07:27:29 UTC	Fey, HelanaAshryvr, sankala	10	5	25
-349531	4	25	Rainbow (5 Suits)	2020-11-21 — 06:48:31 UTC	Fey, HelanaAshryvr, Lel0uch, sankala	92	5	25
-345788	5	23	No Variant	2020-11-17 — 00:16:32 UTC	aquarelle, colton, HelanaAshryvr, rz, sankala	541	5	25
-345750	5	0	No Variant	2020-11-16 — 23:24:23 UTC	aquarelle, colton, HelanaAshryvr, rz, sankala	658	5	25
-345655	5	25	No Variant	2020-11-16 — 22:40:10 UTC	aquarelle, colton, doctorabi, hailey, sankala	1119	5	25
-344490	5	25	Rainbow (5 Suits)	2020-11-16 — 00:06:04 UTC	aquarelle, HelanaAshryvr, Lel0uch, sankala, StKildaFan	54	5	25
-344445	3	25	No Variant	2020-11-15 — 23:10:54 UTC	colton, hailey, sankala	1881	5	25
-344422	5	0	No Variant	2020-11-15 — 22:46:26 UTC	colton, HelanaAshryvr, jack67889, Lel0uch, sankala	1510	5	25
-344389	6	23	No Variant	2020-11-15 — 22:19:54 UTC	colton, hailey, HelanaAshryvr, jack67889, Lel0uch, sankala	179	5	25
-344354	6	0	No Variant	2020-11-15 — 21:34:34 UTC	colton, hailey, HelanaAshryvr, jack67889, Lel0uch, sankala	282	5	25
+349531	4	25	Rainbow (5 Suits)	2020-11-21 — 06:48:31 UTC	Fey, HelanaAshryvr, Lel0uch, sankala	93	5	25
+345788	5	23	No Variant	2020-11-17 — 00:16:32 UTC	aquarelle, colton, HelanaAshryvr, rz, sankala	546	5	25
+345750	5	0	No Variant	2020-11-16 — 23:24:23 UTC	aquarelle, colton, HelanaAshryvr, rz, sankala	667	5	25
+345655	5	25	No Variant	2020-11-16 — 22:40:10 UTC	aquarelle, colton, doctorabi, hailey, sankala	1125	5	25
+344490	5	25	Rainbow (5 Suits)	2020-11-16 — 00:06:04 UTC	aquarelle, HelanaAshryvr, Lel0uch, sankala, StKildaFan	55	5	25
+344445	3	25	No Variant	2020-11-15 — 23:10:54 UTC	colton, hailey, sankala	1896	5	25
+344422	5	0	No Variant	2020-11-15 — 22:46:26 UTC	colton, HelanaAshryvr, jack67889, Lel0uch, sankala	1518	5	25
+344389	6	23	No Variant	2020-11-15 — 22:19:54 UTC	colton, hailey, HelanaAshryvr, jack67889, Lel0uch, sankala	181	5	25
+344354	6	0	No Variant	2020-11-15 — 21:34:34 UTC	colton, hailey, HelanaAshryvr, jack67889, Lel0uch, sankala	284	5	25
 344332	6	0	No Variant	2020-11-15 — 20:59:56 UTC	colton, hailey, HelanaAshryvr, Lel0uch, sankala, sin_faith	10	5	25
 339250	4	21	Black (5 Suits)	2020-11-09 — 18:26:25 UTC	Lel0uch, sankala, Sucubis, vEnhance	5	5	25
-339229	3	0	No Variant	2020-11-09 — 18:08:00 UTC	Lel0uch, sankala, vEnhance	141	5	25
+339229	3	0	No Variant	2020-11-09 — 18:08:00 UTC	Lel0uch, sankala, vEnhance	145	5	25
 339219	6	28	Black (6 Suits)	2020-11-09 — 17:51:37 UTC	Carunty, Lel0uch, rz, sankala, superbipbip, wump	38	6	30
 332887	4	25	Black (5 Suits)	2020-11-01 — 18:25:27 UTC	jack67889, sankala, wump, XMIL	32	5	25
-332879	5	20	Black (5 Suits)	2020-11-01 — 17:58:05 UTC	Carunty, jack67889, rachyrules, sankala, XMIL	17	5	25
+332879	5	20	Black (5 Suits)	2020-11-01 — 17:58:05 UTC	Carunty, jack67889, rachyrules, sankala, XMIL	18	5	25
 332848	4	24	Black (5 Suits)	2020-11-01 — 17:21:54 UTC	Carunty, jack67889, rachyrules, sankala	32	5	25
-332832	4	23	Black (5 Suits)	2020-11-01 — 16:58:37 UTC	Carunty, jack67889, rachyrules, sankala	36	5	25
+332832	4	23	Black (5 Suits)	2020-11-01 — 16:58:37 UTC	Carunty, jack67889, rachyrules, sankala	37	5	25
 332815	3	20	Black (5 Suits)	2020-11-01 — 16:27:01 UTC	Carunty, rachyrules, sankala	43	5	25
-332803	3	0	Black (5 Suits)	2020-11-01 — 16:02:34 UTC	Carunty, rachyrules, sankala	44	5	25
-332801	3	25	No Variant	2020-11-01 — 15:54:59 UTC	Carunty, orucsoraihc, sankala	386	5	25
+332803	3	0	Black (5 Suits)	2020-11-01 — 16:02:34 UTC	Carunty, rachyrules, sankala	45	5	25
+332801	3	25	No Variant	2020-11-01 — 15:54:59 UTC	Carunty, orucsoraihc, sankala	392	5	25
 41031	3	30	Black & Rainbow (6 Suits)	2019-06-07 — 01:47:02 UTC	IAMJEFF, sankala, Zamiel	13	6	30
 41030	3	0	Black & Rainbow (6 Suits)	2019-06-07 — 01:26:17 UTC	IAMJEFF, sankala, Zamiel	13	6	30
-41029	4	0	Black & Rainbow (6 Suits)	2019-06-07 — 00:56:44 UTC	IAMJEFF, Razvogor, sankala, Zamiel	13	6	30
+41029	4	0	Black & Rainbow (6 Suits)	2019-06-07 — 00:56:44 UTC	IAMJEFF, Razvogor, sankala, Zamiel	14	6	30
 41028	5	24	Pink (5 Suits)	2019-06-07 — 00:30:09 UTC	IAMJEFF, micerang, Razvogor, sankala, Zamiel	12	5	25
-41027	4	0	Black & Rainbow (6 Suits)	2019-06-07 — 00:09:31 UTC	IAMJEFF, micerang, sankala, Zamiel	14	6	30
+41027	4	0	Black & Rainbow (6 Suits)	2019-06-07 — 00:09:31 UTC	IAMJEFF, micerang, sankala, Zamiel	16	6	30
 41026	4	0	Black & Rainbow (6 Suits)	2019-06-07 — 00:00:45 UTC	IAMJEFF, micerang, sankala, Zamiel	28	6	30
 39065	6	30	Pink (6 Suits)	2019-05-24 — 03:33:23 UTC	Asddsa76, florrat2, Libster, NoMercy, sankala, Zamiel	4	6	30
 39064	4	0	Pink (6 Suits)	2019-05-24 — 02:59:30 UTC	Asddsa76, Razvogor, sankala, Zamiel	6	6	30
@@ -62,15 +62,15 @@
 18420	3	0	Black & Dark Rainbow (6 Suits)	2019-01-26 — 02:12:54 UTC	RaKXeR, Razgovor, sankala	19	6	30
 18418	4	24	No Variant	2019-01-26 — 01:26:34 UTC	DrJones, NoMercy, sankala, Zamiel	2	5	25
 18414	3	0	No Variant	2019-01-26 — 00:33:17 UTC	DrJones, sankala, Zamiel	7	5	25
-18275	3	25	No Variant	2019-01-23 — 21:27:39 UTC	DrJones, Libster, sankala	160	5	25
-18272	3	25	No Variant	2019-01-23 — 20:49:45 UTC	DrJones, Libster, sankala	167	5	25
-18270	3	0	No Variant	2019-01-23 — 20:01:11 UTC	DrJones, Libster, sankala	170	5	25
+18275	3	25	No Variant	2019-01-23 — 21:27:39 UTC	DrJones, Libster, sankala	163	5	25
+18272	3	25	No Variant	2019-01-23 — 20:49:45 UTC	DrJones, Libster, sankala	170	5	25
+18270	3	0	No Variant	2019-01-23 — 20:01:11 UTC	DrJones, Libster, sankala	173	5	25
 18259	3	0	Pink-Fives (5 Suits)	2019-01-23 — 05:29:22 UTC	Libster, sankala, Zamiel	1	5	25
 18258	5	30	Pink-Fives (6 Suits)	2019-01-23 — 05:06:47 UTC	florrat2, Hunter, Libster, sankala, Zamiel	2	6	30
 18257	5	0	Pink-Fives (6 Suits)	2019-01-23 — 04:41:27 UTC	florrat2, Hunter, Libster, sankala, Zamiel	3	6	30
 18256	5	0	Pink-Fives (6 Suits)	2019-01-23 — 04:24:27 UTC	florrat2, Hunter, Libster, sankala, Zamiel	4	6	30
-18254	4	29	White (6 Suits)	2019-01-23 — 03:53:04 UTC	florrat2, Hunter, Libster, sankala	41	6	30
-18252	4	29	White (6 Suits)	2019-01-23 — 03:11:56 UTC	grayfox, Hunter, Libster, sankala	60	6	30
+18254	4	29	White (6 Suits)	2019-01-23 — 03:53:04 UTC	florrat2, Hunter, Libster, sankala	43	6	30
+18252	4	29	White (6 Suits)	2019-01-23 — 03:11:56 UTC	grayfox, Hunter, Libster, sankala	62	6	30
 18242	4	15	White (3 Suits)	2019-01-22 — 23:44:51 UTC	Cory, NoMercy, sankala, Zamiel	5	3	15
 18241	4	13	White (3 Suits)	2019-01-22 — 23:35:56 UTC	Cory, NoMercy, sankala, Zamiel	8	3	15
 18237	3	20	Rainbow (4 Suits)	2019-01-22 — 23:21:57 UTC	Cory, sankala, Zamiel	16	4	20
@@ -113,7 +113,7 @@
 12687	3	0	No Variant	2018-11-04 — 02:26:40 UTC	Instantiation, sankala, Zamiel	13	5	25
 12686	3	0	No Variant	2018-11-04 — 02:22:19 UTC	Instantiation, sankala, Zamiel	13	5	25
 12684	3	0	No Variant	2018-11-04 — 02:18:04 UTC	Instantiation, sankala, Zamiel	13	5	25
-12683	4	0	No Variant	2018-11-04 — 02:14:13 UTC	florrat2, Instantiation, sankala, Zamiel	7	5	25
+12683	4	0	No Variant	2018-11-04 — 02:14:13 UTC	florrat2, Instantiation, sankala, Zamiel	8	5	25
 12682	4	0	No Variant	2018-11-04 — 02:10:26 UTC	florrat2, Instantiation, sankala, Zamiel	8	5	25
 12681	4	0	No Variant	2018-11-04 — 02:08:09 UTC	florrat2, Instantiation, sankala, Zamiel	8	5	25
 12680	4	0	No Variant	2018-11-04 — 02:03:48 UTC	florrat2, Instantiation, sankala, Zamiel	8	5	25
@@ -121,10 +121,10 @@
 12678	4	0	No Variant	2018-11-04 — 01:52:27 UTC	florrat2, Instantiation, sankala, Zamiel	8	5	25
 12677	4	0	No Variant	2018-11-04 — 01:49:11 UTC	florrat2, Instantiation, sankala, Zamiel	8	5	25
 12676	4	0	No Variant	2018-11-04 — 01:47:39 UTC	florrat2, Instantiation, sankala, Zamiel	8	5	25
-12675	4	0	No Variant	2018-11-04 — 01:46:47 UTC	florrat2, Instantiation, sankala, Zamiel	8	5	25
-12674	4	0	No Variant	2018-11-04 — 01:42:07 UTC	florrat2, Instantiation, sankala, Zamiel	9	5	25
-12673	4	0	No Variant	2018-11-04 — 01:37:50 UTC	florrat2, Instantiation, sankala, Zamiel	9	5	25
-12672	4	0	No Variant	2018-11-04 — 01:35:07 UTC	florrat2, Instantiation, sankala, Zamiel	9	5	25
+12675	4	0	No Variant	2018-11-04 — 01:46:47 UTC	florrat2, Instantiation, sankala, Zamiel	9	5	25
+12674	4	0	No Variant	2018-11-04 — 01:42:07 UTC	florrat2, Instantiation, sankala, Zamiel	10	5	25
+12673	4	0	No Variant	2018-11-04 — 01:37:50 UTC	florrat2, Instantiation, sankala, Zamiel	10	5	25
+12672	4	0	No Variant	2018-11-04 — 01:35:07 UTC	florrat2, Instantiation, sankala, Zamiel	10	5	25
 12671	4	0	No Variant	2018-11-04 — 01:33:36 UTC	florrat2, Instantiation, sankala, Zamiel	8	5	25
 12670	4	0	No Variant	2018-11-04 — 01:31:05 UTC	florrat2, Instantiation, sankala, Zamiel	9	5	25
 12669	4	25	No Variant	2018-11-04 — 01:28:49 UTC	florrat2, Instantiation, sankala, Zamiel	9	5	25
@@ -143,8 +143,8 @@
 12651	3	0	Black (6 Suits)	2018-11-03 — 22:25:44 UTC	Instantiation, Libster, sankala	12	6	30
 12644	4	0	Black (6 Suits)	2018-11-03 — 20:43:24 UTC	Instantiation, Libster, sankala, Yeesh	13	6	30
 12643	4	30	Black (6 Suits)	2018-11-03 — 20:30:47 UTC	Libster, RaKXeR, sankala, Yeesh	14	6	30
-12641	3	29	Black (6 Suits)	2018-11-03 — 20:09:14 UTC	Libster, sankala, Yeesh	12	6	30
-12640	3	0	Black (6 Suits)	2018-11-03 — 19:50:17 UTC	Libster, sankala, Yeesh	12	6	30
+12641	3	29	Black (6 Suits)	2018-11-03 — 20:09:14 UTC	Libster, sankala, Yeesh	13	6	30
+12640	3	0	Black (6 Suits)	2018-11-03 — 19:50:17 UTC	Libster, sankala, Yeesh	14	6	30
 12615	3	0	Rainbow (6 Suits)	2018-11-03 — 01:47:32 UTC	Cory, sankala, Zamiel	2	6	30
 12614	4	0	Rainbow (6 Suits)	2018-11-03 — 01:40:32 UTC	Cory, sankala, Yeesh, Zamiel	3	6	30
 12613	4	0	Rainbow (6 Suits)	2018-11-03 — 01:30:11 UTC	Cory, sankala, Yeesh, Zamiel	3	6	30
@@ -157,17 +157,17 @@
 12605	4	0	Rainbow (6 Suits)	2018-11-03 — 00:22:22 UTC	Cory, NoMercy, sankala, Zamiel	3	6	30
 12604	4	0	Rainbow (6 Suits)	2018-11-03 — 00:14:07 UTC	Cory, NoMercy, sankala, Zamiel	3	6	30
 12603	4	0	Rainbow (6 Suits)	2018-11-03 — 00:05:06 UTC	Cory, NoMercy, sankala, Zamiel	3	6	30
-12602	5	0	No Variant	2018-11-02 — 23:49:22 UTC	Andrew_UK, Cory, sankala, scharkbite, Zamiel	2	5	25
-12601	5	0	No Variant	2018-11-02 — 23:33:48 UTC	Andrew_UK, Cory, sankala, scharkbite, Zamiel	2	5	25
-12600	5	23	No Variant	2018-11-02 — 23:18:15 UTC	Andrew_UK, Cory, sankala, scharkbite, Zamiel	2	5	25
-12597	5	25	No Variant	2018-11-02 — 23:05:10 UTC	Andrew_UK, Cory, sankala, scharkbite, Zamiel	3	5	25
-12596	5	0	No Variant	2018-11-02 — 22:56:27 UTC	Andrew_UK, Cory, sankala, scharkbite, Zamiel	3	5	25
-12595	5	0	No Variant	2018-11-02 — 22:38:25 UTC	Andrew_UK, Cory, sankala, scharkbite, Zamiel	2	5	25
-12592	5	24	No Variant	2018-11-02 — 22:19:56 UTC	Andrew_UK, Cory, sankala, scharkbite, Zamiel	2	5	25
-12586	5	0	No Variant	2018-11-02 — 22:07:42 UTC	Andrew_UK, Cory, sankala, scharkbite, Zamiel	2	5	25
-12584	5	0	No Variant	2018-11-02 — 22:00:39 UTC	Andrew_UK, Cory, sankala, scharkbite, Zamiel	3	5	25
-12582	5	0	No Variant	2018-11-02 — 21:51:50 UTC	Andrew_UK, sankala, scharkbite, SedNegi, Zamiel	3	5	25
-12581	5	23	No Variant	2018-11-02 — 21:41:49 UTC	Andrew_UK, sankala, scharkbite, SedNegi, Zamiel	3	5	25
+12602	5	0	No Variant	2018-11-02 — 23:49:22 UTC	Andrew_UK, Cory, sankala, scharkbite, Zamiel	3	5	25
+12601	5	0	No Variant	2018-11-02 — 23:33:48 UTC	Andrew_UK, Cory, sankala, scharkbite, Zamiel	3	5	25
+12600	5	23	No Variant	2018-11-02 — 23:18:15 UTC	Andrew_UK, Cory, sankala, scharkbite, Zamiel	3	5	25
+12597	5	25	No Variant	2018-11-02 — 23:05:10 UTC	Andrew_UK, Cory, sankala, scharkbite, Zamiel	4	5	25
+12596	5	0	No Variant	2018-11-02 — 22:56:27 UTC	Andrew_UK, Cory, sankala, scharkbite, Zamiel	4	5	25
+12595	5	0	No Variant	2018-11-02 — 22:38:25 UTC	Andrew_UK, Cory, sankala, scharkbite, Zamiel	3	5	25
+12592	5	24	No Variant	2018-11-02 — 22:19:56 UTC	Andrew_UK, Cory, sankala, scharkbite, Zamiel	3	5	25
+12586	5	0	No Variant	2018-11-02 — 22:07:42 UTC	Andrew_UK, Cory, sankala, scharkbite, Zamiel	3	5	25
+12584	5	0	No Variant	2018-11-02 — 22:00:39 UTC	Andrew_UK, Cory, sankala, scharkbite, Zamiel	4	5	25
+12582	5	0	No Variant	2018-11-02 — 21:51:50 UTC	Andrew_UK, sankala, scharkbite, SedNegi, Zamiel	4	5	25
+12581	5	23	No Variant	2018-11-02 — 21:41:49 UTC	Andrew_UK, sankala, scharkbite, SedNegi, Zamiel	4	5	25
 12550	4	30	Black & Dark Rainbow (6 Suits)	2018-11-02 — 05:13:19 UTC	jeep, sankala, scharkbite, Zamiel	1	6	30
 12538	4	29	Black & Dark Rainbow (6 Suits)	2018-11-02 — 04:41:53 UTC	jeep, sankala, scharkbite, Zamiel	1	6	30
 12527	4	0	Black & Dark Rainbow (6 Suits)	2018-11-02 — 04:09:55 UTC	jeep, sankala, scharkbite, Zamiel	1	6	30
@@ -178,17 +178,17 @@
 12514	4	0	Black (6 Suits)	2018-11-02 — 02:06:47 UTC	Andrew_UK, Cory, sankala, Yeesh	26	6	30
 12513	4	0	Dark Rainbow (6 Suits)	2018-11-02 — 01:50:43 UTC	Andrew_UK, Cory, sankala, Yeesh	17	6	30
 12512	4	0	Dark Rainbow (6 Suits)	2018-11-02 — 01:35:42 UTC	Andrew_UK, Cory, sankala, Yeesh	21	6	30
-12510	3	30	Dual-Color (6 Suits)	2018-11-02 — 00:55:52 UTC	Andrew_UK, sankala, Yeesh	66	6	30
-12509	3	30	Black (6 Suits)	2018-11-01 — 23:17:35 UTC	Andrew_UK, sankala, Yeesh	15	6	30
-12508	3	29	Rainbow (6 Suits)	2018-11-01 — 22:52:23 UTC	Andrew_UK, sankala, Yeesh	53	6	30
-12501	3	0	Black (6 Suits)	2018-11-01 — 17:12:02 UTC	NoMercy, sankala, Yeesh	15	6	30
+12510	3	30	Dual-Color (6 Suits)	2018-11-02 — 00:55:52 UTC	Andrew_UK, sankala, Yeesh	67	6	30
+12509	3	30	Black (6 Suits)	2018-11-01 — 23:17:35 UTC	Andrew_UK, sankala, Yeesh	16	6	30
+12508	3	29	Rainbow (6 Suits)	2018-11-01 — 22:52:23 UTC	Andrew_UK, sankala, Yeesh	55	6	30
+12501	3	0	Black (6 Suits)	2018-11-01 — 17:12:02 UTC	NoMercy, sankala, Yeesh	16	6	30
 12491	3	30	Dark Rainbow (6 Suits)	2018-11-01 — 00:53:01 UTC	florrat2, Libster, sankala	3	6	30
 12490	3	26	Dark Rainbow (6 Suits)	2018-11-01 — 00:49:16 UTC	florrat2, Libster, sankala	3	6	30
 12488	3	0	Dark Rainbow (6 Suits)	2018-11-01 — 00:44:13 UTC	florrat2, Libster, sankala	3	6	30
 12487	3	30	Dark Rainbow (6 Suits)	2018-11-01 — 00:41:56 UTC	florrat2, Libster, sankala	3	6	30
-12486	3	0	Dark Rainbow (6 Suits)	2018-11-01 — 00:37:56 UTC	florrat2, Libster, sankala	3	6	30
-12485	3	0	Dark Rainbow (6 Suits)	2018-11-01 — 00:36:26 UTC	florrat2, Libster, sankala	3	6	30
-12484	3	30	Dark Rainbow (6 Suits)	2018-11-01 — 00:32:16 UTC	florrat2, Libster, sankala	3	6	30
+12486	3	0	Dark Rainbow (6 Suits)	2018-11-01 — 00:37:56 UTC	florrat2, Libster, sankala	4	6	30
+12485	3	0	Dark Rainbow (6 Suits)	2018-11-01 — 00:36:26 UTC	florrat2, Libster, sankala	4	6	30
+12484	3	30	Dark Rainbow (6 Suits)	2018-11-01 — 00:32:16 UTC	florrat2, Libster, sankala	4	6	30
 12482	3	0	Dark Rainbow (6 Suits)	2018-11-01 — 00:28:21 UTC	florrat2, Libster, sankala	4	6	30
 12481	3	0	Dark Rainbow (6 Suits)	2018-11-01 — 00:27:31 UTC	florrat2, Libster, sankala	4	6	30
 12480	3	0	Dark Rainbow (6 Suits)	2018-11-01 — 00:23:40 UTC	florrat2, Libster, sankala	4	6	30
@@ -222,31 +222,31 @@
 12445	3	0	Dark Rainbow (6 Suits)	2018-10-31 — 21:58:46 UTC	Libster, NotRaKXeR, sankala	19	6	30
 12444	3	0	Dark Rainbow (6 Suits)	2018-10-31 — 21:57:51 UTC	Libster, NotRaKXeR, sankala	23	6	30
 12443	3	0	Dark Rainbow (6 Suits)	2018-10-31 — 21:57:12 UTC	Libster, NotRaKXeR, sankala	31	6	30
-12414	3	27	Black (6 Suits)	2018-10-31 — 00:46:47 UTC	910dan, Andrew_UK, sankala	15	6	30
+12414	3	27	Black (6 Suits)	2018-10-31 — 00:46:47 UTC	910dan, Andrew_UK, sankala	16	6	30
 12216	5	28	Very Ambiguous (6 Suits)	2018-10-26 — 02:51:55 UTC	Andrey Khesin, Cory, florrat2, sankala, scharkbite	2	6	30
 12215	5	0	Dual-Color (6 Suits)	2018-10-26 — 02:14:09 UTC	Andrey Khesin, Cory, florrat2, sankala, scharkbite	4	6	30
 12211	5	0	Rainbow (6 Suits)	2018-10-26 — 01:17:00 UTC	Andrew_UK, Libster, sankala, scharkbite, Yeesh	3	6	30
-12209	5	0	Rainbow (6 Suits)	2018-10-26 — 00:42:02 UTC	Andrew_UK, Libster, sankala, scharkbite, Yeesh	133	6	30
-12086	3	0	Black (6 Suits)	2018-10-22 — 03:28:09 UTC	sankala, scharkbite, SedNegi	15	6	30
-12085	3	29	Black (6 Suits)	2018-10-22 — 03:19:57 UTC	sankala, scharkbite, SedNegi	16	6	30
-12084	3	0	Black (6 Suits)	2018-10-22 — 02:56:14 UTC	sankala, scharkbite, SedNegi	17	6	30
-12083	3	0	Black (6 Suits)	2018-10-22 — 02:47:26 UTC	sankala, scharkbite, SedNegi	83	6	30
-12082	3	0	Black (6 Suits)	2018-10-22 — 02:42:42 UTC	sankala, scharkbite, SedNegi	119	6	30
+12209	5	0	Rainbow (6 Suits)	2018-10-26 — 00:42:02 UTC	Andrew_UK, Libster, sankala, scharkbite, Yeesh	134	6	30
+12086	3	0	Black (6 Suits)	2018-10-22 — 03:28:09 UTC	sankala, scharkbite, SedNegi	16	6	30
+12085	3	29	Black (6 Suits)	2018-10-22 — 03:19:57 UTC	sankala, scharkbite, SedNegi	17	6	30
+12084	3	0	Black (6 Suits)	2018-10-22 — 02:56:14 UTC	sankala, scharkbite, SedNegi	18	6	30
+12083	3	0	Black (6 Suits)	2018-10-22 — 02:47:26 UTC	sankala, scharkbite, SedNegi	85	6	30
+12082	3	0	Black (6 Suits)	2018-10-22 — 02:42:42 UTC	sankala, scharkbite, SedNegi	122	6	30
 12080	4	0	Black & Dark Rainbow (6 Suits)	2018-10-22 — 00:51:23 UTC	Cory, florrat2, qqqq, sankala	3	6	30
-12079	3	30	Black (6 Suits)	2018-10-22 — 00:27:34 UTC	910dan, Cory, sankala	80	6	30
-12072	5	27	Dark Rainbow (6 Suits)	2018-10-21 — 21:17:31 UTC	910dan, Andrew_UK, florrat2, PtitMax, sankala	23	6	30
+12079	3	30	Black (6 Suits)	2018-10-22 — 00:27:34 UTC	910dan, Cory, sankala	82	6	30
+12072	5	27	Dark Rainbow (6 Suits)	2018-10-21 — 21:17:31 UTC	910dan, Andrew_UK, florrat2, PtitMax, sankala	24	6	30
 12071	5	0	Dark Rainbow (6 Suits)	2018-10-21 — 20:55:39 UTC	910dan, florrat2, Libster, PtitMax, sankala	7	6	30
 12070	5	0	Dark Rainbow (6 Suits)	2018-10-21 — 20:49:10 UTC	910dan, florrat2, Libster, PtitMax, sankala	8	6	30
 12069	5	30	Black (6 Suits)	2018-10-21 — 20:27:31 UTC	florrat2, Libster, PtitMax, RaKXeR, sankala	3	6	30
-12067	5	25	No Variant	2018-10-21 — 20:00:36 UTC	florrat2, Libster, PtitMax, RaKXeR, sankala	3	5	25
-12066	5	0	No Variant	2018-10-21 — 19:48:35 UTC	florrat2, Libster, PtitMax, RaKXeR, sankala	3	5	25
+12067	5	25	No Variant	2018-10-21 — 20:00:36 UTC	florrat2, Libster, PtitMax, RaKXeR, sankala	4	5	25
+12066	5	0	No Variant	2018-10-21 — 19:48:35 UTC	florrat2, Libster, PtitMax, RaKXeR, sankala	4	5	25
 12062	4	28	Black (6 Suits)	2018-10-21 — 17:12:24 UTC	Libster, sankala, scharkbite, SedNegi	13	6	30
 12061	3	29	Black (6 Suits)	2018-10-21 — 16:45:11 UTC	sankala, scharkbite, SedNegi	134	6	30
-12052	3	26	Rainbow (6 Suits)	2018-10-21 — 01:31:26 UTC	sankala, scharkbite, SedNegi	165	6	30
+12052	3	26	Rainbow (6 Suits)	2018-10-21 — 01:31:26 UTC	sankala, scharkbite, SedNegi	167	6	30
 12049	4	30	Very Ambiguous (6 Suits)	2018-10-21 — 00:19:25 UTC	910dan, Libster, sankala, scharkbite	5	6	30
-12046	4	25	No Variant	2018-10-20 — 21:58:07 UTC	Andrew_UK, Andrey Khesin, sankala, scharkbite	985	5	25
-12045	4	22	No Variant	2018-10-20 — 21:35:20 UTC	Andrew_UK, Andrey Khesin, RaKXeR, sankala	55	5	25
-12044	4	0	No Variant	2018-10-20 — 21:26:33 UTC	Andrew_UK, Andrey Khesin, RaKXeR, sankala	54	5	25
+12046	4	25	No Variant	2018-10-20 — 21:58:07 UTC	Andrew_UK, Andrey Khesin, sankala, scharkbite	994	5	25
+12045	4	22	No Variant	2018-10-20 — 21:35:20 UTC	Andrew_UK, Andrey Khesin, RaKXeR, sankala	56	5	25
+12044	4	0	No Variant	2018-10-20 — 21:26:33 UTC	Andrew_UK, Andrey Khesin, RaKXeR, sankala	55	5	25
 12043	4	0	No Variant	2018-10-20 — 21:23:25 UTC	Andrew_UK, Andrey Khesin, RaKXeR, sankala	57	5	25
 12042	4	0	No Variant	2018-10-20 — 21:13:40 UTC	Andrew_UK, Andrey Khesin, RaKXeR, sankala	61	5	25
 12041	5	0	Black (6 Suits)	2018-10-20 — 21:02:58 UTC	Andrew_UK, Andrey Khesin, Libster, RaKXeR, sankala	1	6	30
@@ -254,8 +254,8 @@
 12035	5	0	Black & Dark Rainbow (6 Suits)	2018-10-20 — 19:19:08 UTC	florrat2, Libster, postmans, sankala, Zamiel	1	6	30
 12034	5	0	Black & Dark Rainbow (6 Suits)	2018-10-20 — 18:59:07 UTC	florrat2, Libster, postmans, sankala, Zamiel	2	6	30
 12032	4	27	Black & Dark Rainbow (6 Suits)	2018-10-20 — 18:37:47 UTC	florrat2, Libster, sankala, Zamiel	1	6	30
-12010	4	0	Black (6 Suits)	2018-10-20 — 02:44:11 UTC	Cory, qqqq, sankala, scharkbite	22	6	30
-12009	5	25	No Variant	2018-10-20 — 02:26:20 UTC	Cory, Libster, qqqq, sankala, scharkbite	2	5	25
+12010	4	0	Black (6 Suits)	2018-10-20 — 02:44:11 UTC	Cory, qqqq, sankala, scharkbite	23	6	30
+12009	5	25	No Variant	2018-10-20 — 02:26:20 UTC	Cory, Libster, qqqq, sankala, scharkbite	3	5	25
 12008	5	0	Dark Rainbow (6 Suits)	2018-10-20 — 01:55:00 UTC	Cory, Libster, qqqq, sankala, scharkbite	14	6	30
 12007	4	30	Rainbow (6 Suits)	2018-10-20 — 01:22:47 UTC	Cory, qqqq, sankala, scharkbite	9	6	30
 12006	4	0	Rainbow (6 Suits)	2018-10-20 — 00:52:08 UTC	Cory, qqqq, sankala, scharkbite	10	6	30
@@ -275,20 +275,20 @@
 11888	4	0	Dark Rainbow (6 Suits)	2018-10-18 — 04:00:20 UTC	florrat2, Libster, sankala, scharkbite	6	6	30
 11886	4	0	Dark Rainbow (6 Suits)	2018-10-18 — 03:29:07 UTC	florrat2, Libster, sankala, scharkbite	6	6	30
 11885	4	0	Dark Rainbow (6 Suits)	2018-10-18 — 03:26:25 UTC	florrat2, Libster, sankala, scharkbite	6	6	30
-11884	5	25	No Variant	2018-10-18 — 03:16:58 UTC	florrat2, Instantiation, Libster, sankala, scharkbite	3	5	25
+11884	5	25	No Variant	2018-10-18 — 03:16:58 UTC	florrat2, Instantiation, Libster, sankala, scharkbite	4	5	25
 11882	5	0	Black & Dark Rainbow (6 Suits)	2018-10-18 — 02:33:21 UTC	Cory, florrat2, Instantiation, Libster, sankala	3	6	30
 11881	5	0	Black & Dark Rainbow (6 Suits)	2018-10-18 — 01:49:50 UTC	Cory, florrat2, Instantiation, Libster, sankala	3	6	30
 11880	4	0	Black & Dark Rainbow (6 Suits)	2018-10-18 — 01:39:02 UTC	Cory, florrat2, NoMercy, sankala	3	6	30
-11879	5	22	No Variant	2018-10-18 — 01:13:52 UTC	Andrey Khesin, Cory, florrat2, sankala, scharkbite	262	5	25
-11878	5	0	No Variant	2018-10-18 — 00:41:55 UTC	Andrey Khesin, Cory, florrat2, sankala, scharkbite	1995	5	25
+11879	5	22	No Variant	2018-10-18 — 01:13:52 UTC	Andrey Khesin, Cory, florrat2, sankala, scharkbite	265	5	25
+11878	5	0	No Variant	2018-10-18 — 00:41:55 UTC	Andrey Khesin, Cory, florrat2, sankala, scharkbite	2011	5	25
 11875	5	0	Black & Dark Rainbow (6 Suits)	2018-10-17 — 23:36:37 UTC	Andrey Khesin, Cory, Libster, sankala, scharkbite	2	6	30
 11874	5	0	Black & Dark Rainbow (6 Suits)	2018-10-17 — 23:27:20 UTC	Andrey Khesin, Cory, Libster, sankala, scharkbite	2	6	30
-11873	4	0	Black (6 Suits)	2018-10-17 — 23:04:12 UTC	Andrey Khesin, Cory, sankala, scharkbite	67	6	30
-11872	4	0	Black (6 Suits)	2018-10-17 — 22:48:57 UTC	Andrey Khesin, Cory, sankala, scharkbite	64	6	30
-11871	4	0	Black (6 Suits)	2018-10-17 — 22:38:02 UTC	Andrey Khesin, Cory, sankala, scharkbite	71	6	30
+11873	4	0	Black (6 Suits)	2018-10-17 — 23:04:12 UTC	Andrey Khesin, Cory, sankala, scharkbite	69	6	30
+11872	4	0	Black (6 Suits)	2018-10-17 — 22:48:57 UTC	Andrey Khesin, Cory, sankala, scharkbite	66	6	30
+11871	4	0	Black (6 Suits)	2018-10-17 — 22:38:02 UTC	Andrey Khesin, Cory, sankala, scharkbite	73	6	30
 11870	3	27	Dark Rainbow (6 Suits)	2018-10-17 — 22:08:20 UTC	Andrey Khesin, Cory, sankala	41	6	30
 11852	3	29	Dark Rainbow (6 Suits)	2018-10-17 — 12:39:35 UTC	Libster, qqqq, sankala	29	6	30
-11769	4	25	No Variant	2018-10-15 — 23:28:22 UTC	alercah, Andrew_UK, Libster, sankala	373	5	25
+11769	4	25	No Variant	2018-10-15 — 23:28:22 UTC	alercah, Andrew_UK, Libster, sankala	376	5	25
 11768	4	23	Black & Dark Rainbow (6 Suits)	2018-10-15 — 22:36:28 UTC	Andrew_UK, florrat2, NoMercy, sankala	5	6	30
 11767	4	0	Black & Dark Rainbow (6 Suits)	2018-10-15 — 22:11:50 UTC	Andrew_UK, florrat2, NoMercy, sankala	6	6	30
 11766	4	0	Black & Dark Rainbow (6 Suits)	2018-10-15 — 22:02:26 UTC	Andrew_UK, florrat2, NoMercy, sankala	7	6	30
@@ -301,20 +301,20 @@
 11758	5	0	Black & Dark Rainbow (6 Suits)	2018-10-15 — 18:27:37 UTC	Andrew_UK, florrat2, NoMercy, RaKXeR, sankala	2	6	30
 11756	4	29	Black (6 Suits)	2018-10-15 — 17:30:14 UTC	Andrew_UK, florrat2, NoMercy, sankala	3	6	30
 11755	3	0	Black (6 Suits)	2018-10-15 — 17:02:53 UTC	florrat2, NoMercy, sankala	3	6	30
-11735	5	0	No Variant	2018-10-14 — 22:18:56 UTC	Andrew_UK, Andrey Khesin, jeep, Mike, sankala	207	5	25
-11734	5	25	No Variant	2018-10-14 — 21:50:56 UTC	Andrew_UK, Andrey Khesin, Instantiation, Libster, sankala	4	5	25
-11733	5	25	No Variant	2018-10-14 — 21:32:13 UTC	Andrew_UK, Andrey Khesin, Instantiation, Libster, sankala	5	5	25
-11732	5	25	No Variant	2018-10-14 — 21:09:24 UTC	Andrew_UK, Instantiation, Libster, RaKXeR, sankala	4	5	25
-11731	5	25	No Variant	2018-10-14 — 20:45:47 UTC	Andrew_UK, Instantiation, Libster, RaKXeR, sankala	4	5	25
-11730	5	25	No Variant	2018-10-14 — 20:24:47 UTC	Andrew_UK, Instantiation, Libster, RaKXeR, sankala	4	5	25
+11735	5	0	No Variant	2018-10-14 — 22:18:56 UTC	Andrew_UK, Andrey Khesin, jeep, Mike, sankala	208	5	25
+11734	5	25	No Variant	2018-10-14 — 21:50:56 UTC	Andrew_UK, Andrey Khesin, Instantiation, Libster, sankala	5	5	25
+11733	5	25	No Variant	2018-10-14 — 21:32:13 UTC	Andrew_UK, Andrey Khesin, Instantiation, Libster, sankala	6	5	25
+11732	5	25	No Variant	2018-10-14 — 21:09:24 UTC	Andrew_UK, Instantiation, Libster, RaKXeR, sankala	5	5	25
+11731	5	25	No Variant	2018-10-14 — 20:45:47 UTC	Andrew_UK, Instantiation, Libster, RaKXeR, sankala	5	5	25
+11730	5	25	No Variant	2018-10-14 — 20:24:47 UTC	Andrew_UK, Instantiation, Libster, RaKXeR, sankala	5	5	25
 11729	5	28	Rainbow (6 Suits)	2018-10-14 — 19:44:09 UTC	Andrew_UK, Andrey Khesin, Instantiation, Libster, sankala	7	6	30
 11728	3	30	Rainbow (6 Suits)	2018-10-14 — 18:58:10 UTC	Andrey Khesin, Instantiation, sankala	13	6	30
 11712	5	30	Rainbow (6 Suits)	2018-10-14 — 01:41:48 UTC	Andrey Khesin, Cory, jeep, qqqq, sankala	15	6	30
 11708	4	0	Rainbow (6 Suits)	2018-10-14 — 00:52:04 UTC	Andrey Khesin, Cory, qqqq, sankala	39	6	30
-11703	4	0	Rainbow (6 Suits)	2018-10-14 — 00:06:31 UTC	Andrey Khesin, Cory, qqqq, sankala	96	6	30
-11699	3	30	Rainbow (6 Suits)	2018-10-13 — 23:13:54 UTC	Andrey Khesin, qqqq, sankala	183	6	30
+11703	4	0	Rainbow (6 Suits)	2018-10-14 — 00:06:31 UTC	Andrey Khesin, Cory, qqqq, sankala	97	6	30
+11699	3	30	Rainbow (6 Suits)	2018-10-13 — 23:13:54 UTC	Andrey Khesin, qqqq, sankala	186	6	30
 11698	4	29	Black (6 Suits)	2018-10-13 — 21:12:39 UTC	Andrey Khesin, florrat2, Libster, sankala	2	6	30
-11697	4	25	No Variant	2018-10-13 — 20:33:11 UTC	Andrey Khesin, florrat2, Libster, sankala	70	5	25
+11697	4	25	No Variant	2018-10-13 — 20:33:11 UTC	Andrey Khesin, florrat2, Libster, sankala	71	5	25
 11696	3	0	Dark Rainbow (6 Suits)	2018-10-13 — 20:18:59 UTC	florrat2, Libster, sankala	4	6	30
 11695	3	0	Dark Rainbow (6 Suits)	2018-10-13 — 20:15:56 UTC	florrat2, Libster, sankala	4	6	30
 11694	3	0	Dark Rainbow (6 Suits)	2018-10-13 — 20:14:12 UTC	florrat2, Libster, sankala	4	6	30
@@ -322,8 +322,8 @@
 11692	4	0	No Variant	2018-10-13 — 19:13:02 UTC	Andrey Khesin, florrat2, RaKXeR, sankala	60	5	25
 11691	4	28	Dark Rainbow (6 Suits)	2018-10-13 — 18:41:08 UTC	Doge, florrat2, RaKXeR, sankala	10	6	30
 11690	5	29	Black (6 Suits)	2018-10-13 — 14:06:59 UTC	Andrew_UK, Doge, Libster, qqqq, sankala	4	6	30
-11688	4	0	Black (6 Suits)	2018-10-13 — 13:42:07 UTC	Andrew_UK, Doge, Libster, sankala	17	6	30
-11687	5	25	No Variant	2018-10-13 — 13:23:05 UTC	Andrew_UK, Doge, Libster, qqqq, sankala	4	5	25
+11688	4	0	Black (6 Suits)	2018-10-13 — 13:42:07 UTC	Andrew_UK, Doge, Libster, sankala	18	6	30
+11687	5	25	No Variant	2018-10-13 — 13:23:05 UTC	Andrew_UK, Doge, Libster, qqqq, sankala	5	5	25
 11659	3	0	Rainbow (6 Suits)	2018-10-12 — 20:24:13 UTC	NotNotRaKXeR, sankala, Zamiel	7	6	30
 11658	3	0	Rainbow (6 Suits)	2018-10-12 — 20:20:24 UTC	NotNotRaKXeR, sankala, Zamiel	8	6	30
 11656	3	0	Rainbow (6 Suits)	2018-10-12 — 20:16:22 UTC	NotNotRaKXeR, sankala, Zamiel	8	6	30
@@ -368,7 +368,7 @@
 10201	3	0	6 Suits	2018-09-01 — 19:10:29 UTC	florrat2, Libster, sankala	11	6	30
 10200	3	30	6 Suits	2018-09-01 — 19:08:43 UTC	florrat2, Libster, sankala	11	6	30
 10199	3	30	6 Suits	2018-09-01 — 19:05:32 UTC	florrat2, Libster, sankala	12	6	30
-10198	3	0	6 Suits	2018-09-01 — 19:02:20 UTC	florrat2, Libster, sankala	12	6	30
+10198	3	0	6 Suits	2018-09-01 — 19:02:20 UTC	florrat2, Libster, sankala	13	6	30
 10197	2	28	6 Suits	2018-09-01 — 19:00:20 UTC	florrat2, sankala	6	6	30
 10196	2	0	6 Suits	2018-09-01 — 18:56:45 UTC	florrat2, sankala	6	6	30
 10195	2	0	6 Suits	2018-09-01 — 18:54:37 UTC	florrat2, sankala	6	6	30
@@ -379,26 +379,26 @@
 10190	2	0	6 Suits	2018-09-01 — 18:46:39 UTC	florrat2, sankala	6	6	30
 10189	2	30	6 Suits	2018-09-01 — 18:45:46 UTC	florrat2, sankala	6	6	30
 9253	5	0	No Variant	2018-08-05 — 00:31:28 UTC	Andrew_UK, qqqq, sankala, Yeesh, Zamiel	6	5	25
-9252	4	24	No Variant	2018-08-05 — 00:02:45 UTC	Andrew_UK, sankala, Yeesh, Zamiel	17	5	25
+9252	4	24	No Variant	2018-08-05 — 00:02:45 UTC	Andrew_UK, sankala, Yeesh, Zamiel	18	5	25
 9251	5	0	No Variant	2018-08-04 — 23:27:44 UTC	Andrew_UK, NoMercy, sankala, Yeesh, Zamiel	7	5	25
 9250	5	23	No Variant	2018-08-04 — 22:47:07 UTC	Andrew_UK, NoMercy, sankala, Yeesh, Zamiel	8	5	25
 9248	5	0	No Variant	2018-08-04 — 22:07:26 UTC	Andrew_UK, NoMercy, postmans, sankala, Zamiel	6	5	25
 9242	5	0	No Variant	2018-08-04 — 21:22:05 UTC	Andrew_UK, kell, NoMercy, sankala, Zamiel	7	5	25
 9240	5	24	No Variant	2018-08-04 — 20:42:35 UTC	Andrew_UK, kell, NoMercy, sankala, Zamiel	7	5	25
-9238	3	24	No Variant	2018-08-04 — 20:14:06 UTC	Andrew_UK, sankala, Zamiel	17	5	25
-9237	3	0	No Variant	2018-08-04 — 19:48:01 UTC	Andrew_UK, sankala, Zamiel	18	5	25
-9220	3	25	No Variant	2018-08-03 — 19:11:35 UTC	Andrew_UK, RaKXeR, sankala	56	5	25
-9219	4	0	No Variant	2018-08-03 — 18:14:27 UTC	Andrew_UK, Mollerz, RaKXeR, sankala	138	5	25
-9218	2	0	Rainbow (6 Suits)	2018-08-03 — 17:46:26 UTC	NotRaKXeR, sankala	121	6	30
+9238	3	24	No Variant	2018-08-04 — 20:14:06 UTC	Andrew_UK, sankala, Zamiel	18	5	25
+9237	3	0	No Variant	2018-08-04 — 19:48:01 UTC	Andrew_UK, sankala, Zamiel	19	5	25
+9220	3	25	No Variant	2018-08-03 — 19:11:35 UTC	Andrew_UK, RaKXeR, sankala	57	5	25
+9219	4	0	No Variant	2018-08-03 — 18:14:27 UTC	Andrew_UK, Mollerz, RaKXeR, sankala	139	5	25
+9218	2	0	Rainbow (6 Suits)	2018-08-03 — 17:46:26 UTC	NotRaKXeR, sankala	122	6	30
 9217	2	0	Rainbow (6 Suits)	2018-08-03 — 17:45:15 UTC	NotRaKXeR, sankala	122	6	30
 9216	2	0	Rainbow (6 Suits)	2018-08-03 — 17:44:10 UTC	NotRaKXeR, sankala	126	6	30
 9215	2	0	Rainbow (6 Suits)	2018-08-03 — 17:43:51 UTC	NotRaKXeR, sankala	133	6	30
-9214	2	0	Rainbow (6 Suits)	2018-08-03 — 17:42:24 UTC	NotRaKXeR, sankala	139	6	30
-9213	2	0	Rainbow (6 Suits)	2018-08-03 — 17:41:52 UTC	NotRaKXeR, sankala	144	6	30
+9214	2	0	Rainbow (6 Suits)	2018-08-03 — 17:42:24 UTC	NotRaKXeR, sankala	141	6	30
+9213	2	0	Rainbow (6 Suits)	2018-08-03 — 17:41:52 UTC	NotRaKXeR, sankala	145	6	30
 9212	2	0	Rainbow (6 Suits)	2018-08-03 — 17:41:23 UTC	NotRaKXeR, sankala	146	6	30
-9211	2	0	Rainbow (6 Suits)	2018-08-03 — 17:39:43 UTC	NotRaKXeR, sankala	149	6	30
+9211	2	0	Rainbow (6 Suits)	2018-08-03 — 17:39:43 UTC	NotRaKXeR, sankala	150	6	30
 9210	2	0	Rainbow (6 Suits)	2018-08-03 — 17:38:18 UTC	NotRaKXeR, sankala	227	6	30
-9209	2	0	Rainbow (6 Suits)	2018-08-03 — 17:34:57 UTC	NotRaKXeR, sankala	254	6	30
+9209	2	0	Rainbow (6 Suits)	2018-08-03 — 17:34:57 UTC	NotRaKXeR, sankala	255	6	30
 9184	4	0	Black (6 Suits)	2018-08-02 — 00:17:41 UTC	florrat2, NotRaKXeR, sankala, Zamiel	2	6	30
 9183	4	0	Black (6 Suits)	2018-08-02 — 00:16:19 UTC	florrat2, NotRaKXeR, sankala, Zamiel	2	6	30
 9182	4	0	Black (6 Suits)	2018-08-02 — 00:15:51 UTC	florrat2, NotRaKXeR, sankala, Zamiel	2	6	30
@@ -473,17 +473,17 @@
 9104	5	0	6 Suits	2018-08-01 — 20:40:33 UTC	florrat2, Libster, NotRaKXeR, postmans, sankala	2	6	30
 9103	5	0	6 Suits	2018-08-01 — 20:38:24 UTC	florrat2, Libster, NotRaKXeR, postmans, sankala	2	6	30
 9102	5	0	6 Suits	2018-08-01 — 20:35:34 UTC	florrat2, Libster, NotRaKXeR, postmans, sankala	2	6	30
-9101	5	25	No Variant	2018-08-01 — 20:32:08 UTC	florrat2, Libster, NotRaKXeR, postmans, sankala	6	5	25
+9101	5	25	No Variant	2018-08-01 — 20:32:08 UTC	florrat2, Libster, NotRaKXeR, postmans, sankala	7	5	25
 9100	5	0	No Variant	2018-08-01 — 20:29:10 UTC	florrat2, Libster, NotRaKXeR, postmans, sankala	7	5	25
-9099	4	0	No Variant	2018-08-01 — 20:27:47 UTC	florrat2, Libster, NotRaKXeR, sankala	243	5	25
-9098	3	0	No Variant	2018-08-01 — 20:25:43 UTC	florrat2, NotRaKXeR, sankala	26	5	25
-9097	3	0	No Variant	2018-08-01 — 20:23:24 UTC	florrat2, NotRaKXeR, sankala	106	5	25
-9096	2	0	No Variant	2018-08-01 — 20:22:33 UTC	florrat2, sankala	292	5	25
-9095	2	0	No Variant	2018-08-01 — 20:21:16 UTC	florrat2, sankala	302	5	25
-9094	2	0	Rainbow (6 Suits)	2018-08-01 — 20:20:01 UTC	postmans, sankala	243	6	30
-9093	3	0	Rainbow (6 Suits)	2018-08-01 — 20:17:12 UTC	NotRaKXeR, postmans, sankala	196	6	30
-9092	3	0	Rainbow (6 Suits)	2018-08-01 — 20:15:59 UTC	NotRaKXeR, postmans, sankala	215	6	30
-9091	3	0	Rainbow (6 Suits)	2018-08-01 — 20:14:41 UTC	NotRaKXeR, postmans, sankala	237	6	30
+9099	4	0	No Variant	2018-08-01 — 20:27:47 UTC	florrat2, Libster, NotRaKXeR, sankala	245	5	25
+9098	3	0	No Variant	2018-08-01 — 20:25:43 UTC	florrat2, NotRaKXeR, sankala	28	5	25
+9097	3	0	No Variant	2018-08-01 — 20:23:24 UTC	florrat2, NotRaKXeR, sankala	110	5	25
+9096	2	0	No Variant	2018-08-01 — 20:22:33 UTC	florrat2, sankala	303	5	25
+9095	2	0	No Variant	2018-08-01 — 20:21:16 UTC	florrat2, sankala	313	5	25
+9094	2	0	Rainbow (6 Suits)	2018-08-01 — 20:20:01 UTC	postmans, sankala	244	6	30
+9093	3	0	Rainbow (6 Suits)	2018-08-01 — 20:17:12 UTC	NotRaKXeR, postmans, sankala	198	6	30
+9092	3	0	Rainbow (6 Suits)	2018-08-01 — 20:15:59 UTC	NotRaKXeR, postmans, sankala	217	6	30
+9091	3	0	Rainbow (6 Suits)	2018-08-01 — 20:14:41 UTC	NotRaKXeR, postmans, sankala	239	6	30
 9090	4	30	6 Suits	2018-08-01 — 19:47:06 UTC	Libster, NotRaKXeR, postmans, sankala	1	6	30
 9089	4	0	6 Suits	2018-08-01 — 19:44:18 UTC	Libster, NotRaKXeR, postmans, sankala	1	6	30
 9088	5	0	No Variant	2018-08-01 — 19:41:58 UTC	florrat2, Libster, NotRaKXeR, postmans, sankala	7	5	25
@@ -496,8 +496,8 @@
 9081	5	24	No Variant	2018-08-01 — 19:32:50 UTC	florrat2, Libster, NotRaKXeR, postmans, sankala	9	5	25
 9080	5	0	No Variant	2018-08-01 — 19:29:41 UTC	florrat2, Libster, NotRaKXeR, postmans, sankala	9	5	25
 9079	5	0	No Variant	2018-08-01 — 19:28:09 UTC	florrat2, Libster, NotRaKXeR, postmans, sankala	10	5	25
-9078	5	0	No Variant	2018-08-01 — 19:26:28 UTC	florrat2, Libster, NotRaKXeR, postmans, sankala	9	5	25
-9077	4	0	No Variant	2018-08-01 — 19:24:58 UTC	florrat2, NotRaKXeR, postmans, sankala	278	5	25
+9078	5	0	No Variant	2018-08-01 — 19:26:28 UTC	florrat2, Libster, NotRaKXeR, postmans, sankala	10	5	25
+9077	4	0	No Variant	2018-08-01 — 19:24:58 UTC	florrat2, NotRaKXeR, postmans, sankala	280	5	25
 9076	5	0	6 Suits	2018-08-01 — 19:18:41 UTC	florrat2, Libster, NotRaKXeR, postmans, sankala	2	6	30
 9075	5	29	6 Suits	2018-08-01 — 19:16:06 UTC	florrat2, Libster, NotRaKXeR, postmans, sankala	2	6	30
 9074	4	30	6 Suits	2018-08-01 — 19:12:08 UTC	Libster, NotRaKXeR, postmans, sankala	1	6	30
@@ -505,12 +505,12 @@
 9072	4	0	6 Suits	2018-08-01 — 19:07:36 UTC	Libster, NotRaKXeR, postmans, sankala	1	6	30
 9071	4	0	6 Suits	2018-08-01 — 19:05:30 UTC	Libster, NotRaKXeR, postmans, sankala	1	6	30
 9070	4	0	6 Suits	2018-08-01 — 19:04:23 UTC	Libster, NotRaKXeR, postmans, sankala	1	6	30
-9069	5	0	No Variant	2018-08-01 — 19:01:59 UTC	Hyakinthus, Libster, NotRaKXeR, postmans, sankala	9	5	25
-9068	5	0	No Variant	2018-08-01 — 18:59:59 UTC	Hyakinthus, Libster, NotRaKXeR, postmans, sankala	11	5	25
-9067	5	0	No Variant	2018-08-01 — 18:58:04 UTC	Hyakinthus, Libster, NotRaKXeR, postmans, sankala	11	5	25
-9066	5	0	No Variant	2018-08-01 — 18:55:53 UTC	Hyakinthus, Libster, NotRaKXeR, postmans, sankala	11	5	25
+9069	5	0	No Variant	2018-08-01 — 19:01:59 UTC	Hyakinthus, Libster, NotRaKXeR, postmans, sankala	10	5	25
+9068	5	0	No Variant	2018-08-01 — 18:59:59 UTC	Hyakinthus, Libster, NotRaKXeR, postmans, sankala	12	5	25
+9067	5	0	No Variant	2018-08-01 — 18:58:04 UTC	Hyakinthus, Libster, NotRaKXeR, postmans, sankala	12	5	25
+9066	5	0	No Variant	2018-08-01 — 18:55:53 UTC	Hyakinthus, Libster, NotRaKXeR, postmans, sankala	12	5	25
 9065	5	0	No Variant	2018-08-01 — 18:54:18 UTC	Hyakinthus, Libster, postmans, RaKXeR, sankala	11	5	25
-9064	5	0	No Variant	2018-08-01 — 18:51:52 UTC	Hyakinthus, Libster, postmans, RaKXeR, sankala	11	5	25
+9064	5	0	No Variant	2018-08-01 — 18:51:52 UTC	Hyakinthus, Libster, postmans, RaKXeR, sankala	12	5	25
 9062	5	0	No Variant	2018-08-01 — 18:49:30 UTC	Hyakinthus, Libster, postmans, RaKXeR, sankala	12	5	25
 9061	5	0	No Variant	2018-08-01 — 18:46:46 UTC	Hyakinthus, Libster, postmans, RaKXeR, sankala	10	5	25
 9060	5	0	No Variant	2018-08-01 — 18:44:21 UTC	Hyakinthus, Libster, postmans, RaKXeR, sankala	11	5	25
@@ -559,8 +559,8 @@
 9001	5	0	No Variant	2018-07-31 — 23:34:25 UTC	florrat2, Libster, NotCory, NotRaKXeR, sankala	12	5	25
 9000	5	0	No Variant	2018-07-31 — 23:32:47 UTC	florrat2, Libster, NotCory, NotRaKXeR, sankala	14	5	25
 8999	5	0	No Variant	2018-07-31 — 23:31:26 UTC	florrat2, Libster, NotCory, NotRaKXeR, sankala	15	5	25
-8998	5	0	No Variant	2018-07-31 — 23:27:57 UTC	florrat2, Libster, NotCory, NotRaKXeR, sankala	25	5	25
-8997	5	0	No Variant	2018-07-31 — 23:24:49 UTC	florrat2, Libster, NotCory, NotRaKXeR, sankala	27	5	25
+8998	5	0	No Variant	2018-07-31 — 23:27:57 UTC	florrat2, Libster, NotCory, NotRaKXeR, sankala	26	5	25
+8997	5	0	No Variant	2018-07-31 — 23:24:49 UTC	florrat2, Libster, NotCory, NotRaKXeR, sankala	28	5	25
 8985	5	0	No Variant	2018-07-31 — 21:58:56 UTC	Libster, NoMercy, NotRaKXeR, postmans, sankala	14	5	25
 8984	5	0	No Variant	2018-07-31 — 21:55:44 UTC	Libster, NoMercy, NotRaKXeR, postmans, sankala	13	5	25
 8983	5	0	No Variant	2018-07-31 — 21:53:54 UTC	Libster, NoMercy, NotRaKXeR, postmans, sankala	13	5	25
@@ -575,10 +575,10 @@
 8974	5	0	No Variant	2018-07-31 — 21:34:08 UTC	Libster, NoMercy, NotRaKXeR, postmans, sankala	24	5	25
 8973	5	0	No Variant	2018-07-31 — 21:30:49 UTC	Libster, NoMercy, NotRaKXeR, postmans, sankala	23	5	25
 8972	5	0	No Variant	2018-07-31 — 21:29:01 UTC	Libster, NoMercy, NotRaKXeR, postmans, sankala	23	5	25
-8971	5	0	No Variant	2018-07-31 — 21:26:27 UTC	Libster, NoMercy, NotRaKXeR, postmans, sankala	28	5	25
-8970	5	0	No Variant	2018-07-31 — 21:24:42 UTC	Libster, NoMercy, NotRaKXeR, postmans, sankala	344	5	25
-8969	5	0	No Variant	2018-07-31 — 21:21:54 UTC	Libster, NoMercy, NotRaKXeR, postmans, sankala	457	5	25
-8953	3	30	Rainbow (6 Suits)	2018-07-31 — 17:37:27 UTC	NotRaKXeR, sankala, scharkbite	282	6	30
+8971	5	0	No Variant	2018-07-31 — 21:26:27 UTC	Libster, NoMercy, NotRaKXeR, postmans, sankala	30	5	25
+8970	5	0	No Variant	2018-07-31 — 21:24:42 UTC	Libster, NoMercy, NotRaKXeR, postmans, sankala	348	5	25
+8969	5	0	No Variant	2018-07-31 — 21:21:54 UTC	Libster, NoMercy, NotRaKXeR, postmans, sankala	461	5	25
+8953	3	30	Rainbow (6 Suits)	2018-07-31 — 17:37:27 UTC	NotRaKXeR, sankala, scharkbite	284	6	30
 8921	5	0	No Variant	2018-07-31 — 00:22:48 UTC	florrat2, Libster, NotRaKXeR, qqqq, sankala	15	5	25
 8920	5	0	No Variant	2018-07-31 — 00:20:15 UTC	florrat2, Libster, NotRaKXeR, qqqq, sankala	17	5	25
 8919	5	0	No Variant	2018-07-31 — 00:19:12 UTC	florrat2, Libster, NotRaKXeR, qqqq, sankala	19	5	25
@@ -587,13 +587,13 @@
 8916	5	0	No Variant	2018-07-31 — 00:09:56 UTC	florrat2, Libster, NotRaKXeR, qqqq, sankala	25	5	25
 8915	5	0	No Variant	2018-07-31 — 00:09:08 UTC	florrat2, Libster, NotRaKXeR, qqqq, sankala	21	5	25
 8914	5	0	No Variant	2018-07-31 — 00:05:56 UTC	florrat2, Libster, NotRaKXeR, qqqq, sankala	21	5	25
-8913	5	0	No Variant	2018-07-31 — 00:02:19 UTC	florrat2, Libster, NotRaKXeR, qqqq, sankala	27	5	25
+8913	5	0	No Variant	2018-07-31 — 00:02:19 UTC	florrat2, Libster, NotRaKXeR, qqqq, sankala	28	5	25
 8912	5	0	No Variant	2018-07-31 — 00:00:28 UTC	florrat2, Libster, NotRaKXeR, qqqq, sankala	25	5	25
 8911	5	0	No Variant	2018-07-30 — 23:57:50 UTC	florrat2, Libster, NotRaKXeR, qqqq, sankala	25	5	25
 8910	5	0	No Variant	2018-07-30 — 23:55:26 UTC	florrat2, Libster, NotRaKXeR, qqqq, sankala	26	5	25
 8909	5	0	No Variant	2018-07-30 — 23:53:18 UTC	florrat2, Libster, NotRaKXeR, qqqq, sankala	29	5	25
-8908	5	0	No Variant	2018-07-30 — 23:51:11 UTC	florrat2, Libster, NotRaKXeR, qqqq, sankala	28	5	25
-8907	5	0	No Variant	2018-07-30 — 23:47:56 UTC	florrat2, Libster, NotRaKXeR, qqqq, sankala	29	5	25
+8908	5	0	No Variant	2018-07-30 — 23:51:11 UTC	florrat2, Libster, NotRaKXeR, qqqq, sankala	29	5	25
+8907	5	0	No Variant	2018-07-30 — 23:47:56 UTC	florrat2, Libster, NotRaKXeR, qqqq, sankala	30	5	25
 8906	5	0	6 Suits	2018-07-30 — 23:44:04 UTC	florrat2, Libster, NotRaKXeR, qqqq, sankala	9	6	30
 8905	5	0	6 Suits	2018-07-30 — 23:42:56 UTC	florrat2, Libster, NotRaKXeR, qqqq, sankala	10	6	30
 8904	4	0	6 Suits	2018-07-30 — 23:41:40 UTC	florrat2, Libster, NotRaKXeR, sankala	1	6	30
@@ -655,7 +655,7 @@
 7555	3	27	Black & Dark Rainbow (6 Suits)	2018-06-24 — 00:23:29 UTC	Instantiation, sankala, Zamiel	20	6	30
 7554	3	0	Black & Dark Rainbow (6 Suits)	2018-06-24 — 00:13:52 UTC	Instantiation, sankala, Zamiel	21	6	30
 7553	3	0	Black & Dark Rainbow (6 Suits)	2018-06-24 — 00:07:30 UTC	Instantiation, sankala, Zamiel	28	6	30
-7551	4	30	Dark Rainbow (6 Suits)	2018-06-23 — 23:27:39 UTC	Instantiation, Libster, sankala, Zamiel	41	6	30
+7551	4	30	Dark Rainbow (6 Suits)	2018-06-23 — 23:27:39 UTC	Instantiation, Libster, sankala, Zamiel	42	6	30
 7550	3	28	Dark Rainbow (6 Suits)	2018-06-23 — 23:00:07 UTC	Instantiation, sankala, Zamiel	41	6	30
 7549	3	0	Dark Rainbow (6 Suits)	2018-06-23 — 22:42:25 UTC	Instantiation, sankala, Zamiel	53	6	30
 7548	3	0	Dark Rainbow (6 Suits)	2018-06-23 — 22:39:29 UTC	Instantiation, sankala, Zamiel	62	6	30
@@ -664,8 +664,8 @@
 7515	4	0	Rainbow (6 Suits)	2018-06-22 — 21:18:36 UTC	florrat2, NotCory, postmans, sankala	7	6	30
 7514	4	0	Rainbow (6 Suits)	2018-06-22 — 21:13:53 UTC	florrat2, NotCory, postmans, sankala	7	6	30
 7513	4	0	Rainbow (6 Suits)	2018-06-22 — 21:10:47 UTC	florrat2, NotCory, postmans, sankala	7	6	30
-7512	4	0	Rainbow (6 Suits)	2018-06-22 — 21:05:50 UTC	florrat2, NotCory, postmans, sankala	7	6	30
-7511	4	0	Rainbow (6 Suits)	2018-06-22 — 21:04:17 UTC	florrat2, NotCory, postmans, sankala	7	6	30
+7512	4	0	Rainbow (6 Suits)	2018-06-22 — 21:05:50 UTC	florrat2, NotCory, postmans, sankala	8	6	30
+7511	4	0	Rainbow (6 Suits)	2018-06-22 — 21:04:17 UTC	florrat2, NotCory, postmans, sankala	8	6	30
 7510	4	0	Rainbow (6 Suits)	2018-06-22 — 21:02:12 UTC	florrat2, NotCory, postmans, sankala	8	6	30
 7487	4	28	Black (6 Suits)	2018-06-21 — 18:24:40 UTC	florrat2, GamerSKTrashCan, Libster, sankala	6	6	30
 7485	4	0	Black (6 Suits)	2018-06-21 — 18:18:20 UTC	florrat2, GamerSKTrashCan, Libster, sankala	6	6	30
@@ -719,9 +719,9 @@
 7114	3	0	Rainbow (6 Suits)	2018-06-14 — 16:36:45 UTC	florrat2, Libster, sankala	3	6	30
 7113	3	0	Rainbow (6 Suits)	2018-06-14 — 16:34:39 UTC	florrat2, Libster, sankala	3	6	30
 7112	3	0	Rainbow (6 Suits)	2018-06-14 — 16:33:23 UTC	florrat2, Libster, sankala	3	6	30
-7111	3	0	Rainbow (6 Suits)	2018-06-14 — 16:29:37 UTC	florrat2, Libster, sankala	3	6	30
-7110	3	0	Rainbow (6 Suits)	2018-06-14 — 16:28:58 UTC	florrat2, Libster, sankala	3	6	30
-7109	3	0	Rainbow (6 Suits)	2018-06-14 — 16:26:31 UTC	florrat2, Libster, sankala	4	6	30
+7111	3	0	Rainbow (6 Suits)	2018-06-14 — 16:29:37 UTC	florrat2, Libster, sankala	4	6	30
+7110	3	0	Rainbow (6 Suits)	2018-06-14 — 16:28:58 UTC	florrat2, Libster, sankala	4	6	30
+7109	3	0	Rainbow (6 Suits)	2018-06-14 — 16:26:31 UTC	florrat2, Libster, sankala	5	6	30
 7108	5	0	Black (6 Suits)	2018-06-14 — 16:16:07 UTC	910dan, BlameItOnRaz:D, florrat2, Libster, sankala	8	6	30
 7107	5	26	Black (6 Suits)	2018-06-14 — 16:04:24 UTC	910dan, BlameItOnRaz:D, florrat2, Libster, sankala	8	6	30
 7105	5	28	Black (6 Suits)	2018-06-14 — 15:41:17 UTC	910dan, BlameItOnRaz:D, florrat2, Libster, sankala	9	6	30
@@ -729,57 +729,57 @@
 7103	5	0	Black (6 Suits)	2018-06-14 — 15:08:25 UTC	910dan, florrat2, Libster, sankala, Zamiel	9	6	30
 7102	5	27	Black (6 Suits)	2018-06-14 — 14:56:23 UTC	910dan, BlameItOnRaz:D, florrat2, Libster, sankala	23	6	30
 7094	5	25	No Variant	2018-06-14 — 02:49:44 UTC	Cory, Libster, RaKXeR, sankala, Zamiel	60	5	25
-7091	3	0	Black (6 Suits)	2018-06-14 — 02:30:13 UTC	NotCory, NotRaKXeR, sankala	149	6	30
-7090	3	0	Black (6 Suits)	2018-06-14 — 02:28:21 UTC	NotCory, NotRaKXeR, sankala	159	6	30
-7089	3	0	Black (6 Suits)	2018-06-14 — 02:26:13 UTC	NotCory, NotRaKXeR, sankala	172	6	30
-7088	3	0	Black (6 Suits)	2018-06-14 — 02:23:22 UTC	NotCory, NotRaKXeR, sankala	213	6	30
+7091	3	0	Black (6 Suits)	2018-06-14 — 02:30:13 UTC	NotCory, NotRaKXeR, sankala	151	6	30
+7090	3	0	Black (6 Suits)	2018-06-14 — 02:28:21 UTC	NotCory, NotRaKXeR, sankala	161	6	30
+7089	3	0	Black (6 Suits)	2018-06-14 — 02:26:13 UTC	NotCory, NotRaKXeR, sankala	175	6	30
+7088	3	0	Black (6 Suits)	2018-06-14 — 02:23:22 UTC	NotCory, NotRaKXeR, sankala	214	6	30
 7087	3	0	Black (6 Suits)	2018-06-14 — 02:20:35 UTC	NotCory, NotRaKXeR, sankala	236	6	30
-7086	3	0	Black (6 Suits)	2018-06-14 — 02:19:43 UTC	NotCory, NotRaKXeR, sankala	261	6	30
-7085	3	0	Black (6 Suits)	2018-06-14 — 02:14:16 UTC	Cory, NotRaKXeR, sankala	325	6	30
-7084	3	30	Black (6 Suits)	2018-06-14 — 01:51:35 UTC	Cory, RaKXeR, sankala	399	6	30
-7079	3	0	6 Suits	2018-06-13 — 19:57:53 UTC	BlameItOnRaz:D, Libster, sankala	168	6	30
+7086	3	0	Black (6 Suits)	2018-06-14 — 02:19:43 UTC	NotCory, NotRaKXeR, sankala	263	6	30
+7085	3	0	Black (6 Suits)	2018-06-14 — 02:14:16 UTC	Cory, NotRaKXeR, sankala	332	6	30
+7084	3	30	Black (6 Suits)	2018-06-14 — 01:51:35 UTC	Cory, RaKXeR, sankala	407	6	30
+7079	3	0	6 Suits	2018-06-13 — 19:57:53 UTC	BlameItOnRaz:D, Libster, sankala	169	6	30
 7078	5	0	Rainbow (6 Suits)	2018-06-13 — 19:51:13 UTC	BlameItOnRaz:D, florrat2, Libster, NotRaKXeR, sankala	4	6	30
 7077	5	0	Rainbow (6 Suits)	2018-06-13 — 19:47:39 UTC	BlameItOnRaz:D, florrat2, Libster, NotRaKXeR, sankala	4	6	30
 7076	5	0	Rainbow (6 Suits)	2018-06-13 — 19:40:23 UTC	BlameItOnRaz:D, florrat2, Libster, NotRaKXeR, sankala	4	6	30
 7075	5	0	Rainbow (6 Suits)	2018-06-13 — 19:35:15 UTC	BlameItOnRaz:D, florrat2, Libster, NotRaKXeR, sankala	5	6	30
 7074	5	0	Rainbow (6 Suits)	2018-06-13 — 19:32:13 UTC	BlameItOnRaz:D, florrat2, Libster, NotRaKXeR, sankala	6	6	30
 7073	4	30	6 Suits	2018-06-13 — 19:28:27 UTC	florrat2, Libster, NotRaKXeR, sankala	1	6	30
-7071	4	0	6 Suits	2018-06-13 — 19:25:07 UTC	florrat2, Libster, NotRaKXeR, sankala	1	6	30
-7070	4	0	6 Suits	2018-06-13 — 19:23:00 UTC	florrat2, Libster, NotRaKXeR, sankala	1	6	30
-7069	4	0	6 Suits	2018-06-13 — 19:18:20 UTC	florrat2, Libster, NotRaKXeR, sankala	1	6	30
-7068	4	0	6 Suits	2018-06-13 — 19:16:21 UTC	florrat2, Libster, NotRaKXeR, sankala	1	6	30
-7067	3	0	Rainbow (6 Suits)	2018-06-13 — 19:12:18 UTC	florrat2, NotRaKXeR, sankala	4	6	30
-7066	3	0	Rainbow (6 Suits)	2018-06-13 — 19:10:36 UTC	florrat2, NotRaKXeR, sankala	4	6	30
-7065	3	0	Rainbow (6 Suits)	2018-06-13 — 19:09:20 UTC	florrat2, NotRaKXeR, sankala	5	6	30
+7071	4	0	6 Suits	2018-06-13 — 19:25:07 UTC	florrat2, Libster, NotRaKXeR, sankala	2	6	30
+7070	4	0	6 Suits	2018-06-13 — 19:23:00 UTC	florrat2, Libster, NotRaKXeR, sankala	2	6	30
+7069	4	0	6 Suits	2018-06-13 — 19:18:20 UTC	florrat2, Libster, NotRaKXeR, sankala	2	6	30
+7068	4	0	6 Suits	2018-06-13 — 19:16:21 UTC	florrat2, Libster, NotRaKXeR, sankala	2	6	30
+7067	3	0	Rainbow (6 Suits)	2018-06-13 — 19:12:18 UTC	florrat2, NotRaKXeR, sankala	5	6	30
+7066	3	0	Rainbow (6 Suits)	2018-06-13 — 19:10:36 UTC	florrat2, NotRaKXeR, sankala	5	6	30
+7065	3	0	Rainbow (6 Suits)	2018-06-13 — 19:09:20 UTC	florrat2, NotRaKXeR, sankala	6	6	30
 7064	3	0	Rainbow (6 Suits)	2018-06-13 — 19:08:00 UTC	florrat2, NotRaKXeR, sankala	6	6	30
 7063	3	0	Rainbow (6 Suits)	2018-06-13 — 19:05:53 UTC	florrat2, NotRaKXeR, sankala	6	6	30
-7062	3	25	No Variant	2018-06-13 — 19:02:51 UTC	florrat2, NotRaKXeR, sankala	156	5	25
-7061	3	0	No Variant	2018-06-13 — 19:00:00 UTC	florrat2, NotRaKXeR, sankala	164	5	25
-7060	3	0	No Variant	2018-06-13 — 18:58:16 UTC	florrat2, NotRaKXeR, sankala	175	5	25
-7059	3	0	No Variant	2018-06-13 — 18:58:03 UTC	florrat2, NotRaKXeR, sankala	178	5	25
-7058	3	0	No Variant	2018-06-13 — 18:56:46 UTC	florrat2, NotRaKXeR, sankala	187	5	25
-7057	3	0	No Variant	2018-06-13 — 18:55:44 UTC	florrat2, NotRaKXeR, sankala	194	5	25
-7056	3	0	No Variant	2018-06-13 — 18:54:17 UTC	florrat2, NotRaKXeR, sankala	201	5	25
-7055	3	0	No Variant	2018-06-13 — 18:53:06 UTC	florrat2, NotRaKXeR, sankala	199	5	25
-7054	3	0	No Variant	2018-06-13 — 18:50:01 UTC	florrat2, NotRaKXeR, sankala	206	5	25
-7053	3	0	No Variant	2018-06-13 — 18:48:56 UTC	florrat2, NotRaKXeR, sankala	213	5	25
-7052	3	25	No Variant	2018-06-13 — 18:47:57 UTC	florrat2, NotRaKXeR, sankala	218	5	25
-7051	3	0	No Variant	2018-06-13 — 18:44:58 UTC	florrat2, NotRaKXeR, sankala	223	5	25
-7050	3	0	No Variant	2018-06-13 — 18:43:00 UTC	florrat2, NotRaKXeR, sankala	220	5	25
-7049	4	30	6 Suits	2018-06-13 — 18:36:43 UTC	florrat2, Mike, NotRaKXeR, sankala	2	6	30
-7048	4	0	6 Suits	2018-06-13 — 18:33:42 UTC	florrat2, Mike, NotRaKXeR, sankala	2	6	30
+7062	3	25	No Variant	2018-06-13 — 19:02:51 UTC	florrat2, NotRaKXeR, sankala	158	5	25
+7061	3	0	No Variant	2018-06-13 — 19:00:00 UTC	florrat2, NotRaKXeR, sankala	167	5	25
+7060	3	0	No Variant	2018-06-13 — 18:58:16 UTC	florrat2, NotRaKXeR, sankala	176	5	25
+7059	3	0	No Variant	2018-06-13 — 18:58:03 UTC	florrat2, NotRaKXeR, sankala	179	5	25
+7058	3	0	No Variant	2018-06-13 — 18:56:46 UTC	florrat2, NotRaKXeR, sankala	189	5	25
+7057	3	0	No Variant	2018-06-13 — 18:55:44 UTC	florrat2, NotRaKXeR, sankala	198	5	25
+7056	3	0	No Variant	2018-06-13 — 18:54:17 UTC	florrat2, NotRaKXeR, sankala	203	5	25
+7055	3	0	No Variant	2018-06-13 — 18:53:06 UTC	florrat2, NotRaKXeR, sankala	202	5	25
+7054	3	0	No Variant	2018-06-13 — 18:50:01 UTC	florrat2, NotRaKXeR, sankala	209	5	25
+7053	3	0	No Variant	2018-06-13 — 18:48:56 UTC	florrat2, NotRaKXeR, sankala	218	5	25
+7052	3	25	No Variant	2018-06-13 — 18:47:57 UTC	florrat2, NotRaKXeR, sankala	223	5	25
+7051	3	0	No Variant	2018-06-13 — 18:44:58 UTC	florrat2, NotRaKXeR, sankala	228	5	25
+7050	3	0	No Variant	2018-06-13 — 18:43:00 UTC	florrat2, NotRaKXeR, sankala	224	5	25
+7049	4	30	6 Suits	2018-06-13 — 18:36:43 UTC	florrat2, Mike, NotRaKXeR, sankala	3	6	30
+7048	4	0	6 Suits	2018-06-13 — 18:33:42 UTC	florrat2, Mike, NotRaKXeR, sankala	3	6	30
 7047	4	0	6 Suits	2018-06-13 — 18:32:19 UTC	florrat2, Mike, NotRaKXeR, sankala	4	6	30
 7046	4	0	6 Suits	2018-06-13 — 18:30:07 UTC	florrat2, Mike, NotRaKXeR, sankala	4	6	30
-7045	4	0	6 Suits	2018-06-13 — 18:28:10 UTC	florrat2, Mike, NotRaKXeR, sankala	250	6	30
+7045	4	0	6 Suits	2018-06-13 — 18:28:10 UTC	florrat2, Mike, NotRaKXeR, sankala	252	6	30
 7044	4	0	6 Suits	2018-06-13 — 18:25:12 UTC	florrat2, Mike, RaKXeR, sankala	4	6	30
 7041	4	30	Black (6 Suits)	2018-06-13 — 16:52:37 UTC	910dan, Libster, RaKXeR, sankala	49	6	30
 7034	4	30	Rainbow (6 Suits)	2018-06-13 — 02:43:18 UTC	Bob Dole, RaKXeR, sankala, Zamiel	8	6	30
-7026	3	30	Black (6 Suits)	2018-06-12 — 20:20:20 UTC	910dan, RaKXeR, sankala	16	6	30
+7026	3	30	Black (6 Suits)	2018-06-12 — 20:20:20 UTC	910dan, RaKXeR, sankala	17	6	30
 7022	4	28	Dual-Color (6 Suits)	2018-06-12 — 00:05:20 UTC	910dan, Libster, sankala, Zamiel	4	6	30
 7021	4	28	Dual-Color (6 Suits)	2018-06-11 — 23:33:57 UTC	910dan, Libster, sankala, Zamiel	6	6	30
 7020	4	0	Dual-Color (6 Suits)	2018-06-11 — 23:00:35 UTC	910dan, Libster, sankala, Zamiel	6	6	30
 7017	4	30	Black (6 Suits)	2018-06-11 — 21:08:55 UTC	910dan, Libster, sankala, Zy	55	6	30
-7016	3	0	Black (6 Suits)	2018-06-11 — 20:46:19 UTC	910dan, sankala, Zy	95	6	30
+7016	3	0	Black (6 Suits)	2018-06-11 — 20:46:19 UTC	910dan, sankala, Zy	97	6	30
 7015	2	0	6 Suits	2018-06-11 — 17:10:57 UTC	florrat2, sankala	6	6	30
 7014	2	0	6 Suits	2018-06-11 — 17:10:14 UTC	florrat2, sankala	6	6	30
 7013	2	30	6 Suits	2018-06-11 — 17:08:57 UTC	florrat2, sankala	6	6	30
@@ -827,10 +827,10 @@
 6969	5	0	Black (6 Suits)	2018-06-11 — 14:36:53 UTC	florrat2, Libster, Mike, RaKXeR, sankala	14	6	30
 6958	5	0	Rainbow (6 Suits)	2018-06-10 — 22:35:47 UTC	Bob Dole, Cory, Instantiation, Libster, sankala	4	6	30
 6957	5	0	6 Suits	2018-06-10 — 20:22:40 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	2	6	30
-6956	5	0	6 Suits	2018-06-10 — 20:18:42 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	2	6	30
-6954	5	0	6 Suits	2018-06-10 — 20:16:30 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	2	6	30
-6953	5	0	6 Suits	2018-06-10 — 20:14:27 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	3	6	30
-6952	5	0	6 Suits	2018-06-10 — 20:13:53 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	3	6	30
+6956	5	0	6 Suits	2018-06-10 — 20:18:42 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	3	6	30
+6954	5	0	6 Suits	2018-06-10 — 20:16:30 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	3	6	30
+6953	5	0	6 Suits	2018-06-10 — 20:14:27 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	4	6	30
+6952	5	0	6 Suits	2018-06-10 — 20:13:53 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	4	6	30
 6951	5	0	6 Suits	2018-06-10 — 20:12:15 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	4	6	30
 6950	5	0	6 Suits	2018-06-10 — 20:10:17 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	4	6	30
 6949	5	0	6 Suits	2018-06-10 — 20:06:46 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	4	6	30
@@ -857,63 +857,63 @@
 6928	5	0	6 Suits	2018-06-10 — 18:36:39 UTC	Cory, florrat2, Libster, RaKXeR, sankala	8	6	30
 6927	5	0	6 Suits	2018-06-10 — 18:31:57 UTC	Cory, florrat2, Libster, RaKXeR, sankala	7	6	30
 6926	5	0	6 Suits	2018-06-10 — 18:29:23 UTC	Cory, florrat2, Libster, RaKXeR, sankala	9	6	30
-6923	5	0	No Variant	2018-06-10 — 17:35:17 UTC	BlameItOnRaz:D, Cory, Libster, RaKXeR, sankala	120	5	25
-6922	5	0	No Variant	2018-06-10 — 17:19:31 UTC	BlameItOnRaz:D, Cory, Libster, RaKXeR, sankala	126	5	25
+6923	5	0	No Variant	2018-06-10 — 17:35:17 UTC	BlameItOnRaz:D, Cory, Libster, RaKXeR, sankala	122	5	25
+6922	5	0	No Variant	2018-06-10 — 17:19:31 UTC	BlameItOnRaz:D, Cory, Libster, RaKXeR, sankala	127	5	25
 6921	3	28	Black (6 Suits)	2018-06-10 — 16:47:56 UTC	910dan, Cory, sankala	2	6	30
 6919	5	30	Black (6 Suits)	2018-06-10 — 16:11:15 UTC	910dan, Cory, Libster, Mike, sankala	9	6	30
 6916	4	0	Black (6 Suits)	2018-06-10 — 15:38:35 UTC	Cory, Libster, Mike, sankala	32	6	30
-6915	4	0	Black (6 Suits)	2018-06-10 — 15:22:24 UTC	Cory, Libster, Mike, sankala	31	6	30
-6914	4	25	No Variant	2018-06-10 — 15:08:32 UTC	Cory, Libster, Mike, sankala	501	5	25
-6912	3	25	No Variant	2018-06-10 — 03:15:04 UTC	Libster, sankala, Zamiel	40	5	25
-6911	3	25	No Variant	2018-06-10 — 03:10:08 UTC	Libster, sankala, Zamiel	40	5	25
-6910	3	0	No Variant	2018-06-10 — 03:07:03 UTC	Libster, sankala, Zamiel	40	5	25
-6909	3	0	No Variant	2018-06-10 — 03:06:28 UTC	Libster, sankala, Zamiel	40	5	25
-6908	3	0	No Variant	2018-06-10 — 03:04:24 UTC	Libster, sankala, Zamiel	41	5	25
-6907	3	0	No Variant	2018-06-10 — 03:02:52 UTC	Libster, sankala, Zamiel	41	5	25
-6906	3	0	No Variant	2018-06-10 — 02:59:47 UTC	Libster, sankala, Zamiel	42	5	25
-6905	3	0	No Variant	2018-06-10 — 02:59:03 UTC	Libster, sankala, Zamiel	40	5	25
-6904	3	0	No Variant	2018-06-10 — 02:57:19 UTC	Libster, sankala, Zamiel	39	5	25
-6903	3	0	No Variant	2018-06-10 — 02:55:40 UTC	Libster, sankala, Zamiel	37	5	25
-6902	3	0	No Variant	2018-06-10 — 02:54:16 UTC	Libster, sankala, Zamiel	38	5	25
-6901	3	0	No Variant	2018-06-10 — 02:52:03 UTC	Libster, sankala, Zamiel	39	5	25
-6900	3	0	No Variant	2018-06-10 — 02:50:13 UTC	Libster, sankala, Zamiel	42	5	25
-6899	3	0	No Variant	2018-06-10 — 02:47:45 UTC	Libster, sankala, Zamiel	41	5	25
-6898	3	0	No Variant	2018-06-10 — 02:46:27 UTC	Libster, sankala, Zamiel	41	5	25
+6915	4	0	Black (6 Suits)	2018-06-10 — 15:22:24 UTC	Cory, Libster, Mike, sankala	32	6	30
+6914	4	25	No Variant	2018-06-10 — 15:08:32 UTC	Cory, Libster, Mike, sankala	507	5	25
+6912	3	25	No Variant	2018-06-10 — 03:15:04 UTC	Libster, sankala, Zamiel	41	5	25
+6911	3	25	No Variant	2018-06-10 — 03:10:08 UTC	Libster, sankala, Zamiel	41	5	25
+6910	3	0	No Variant	2018-06-10 — 03:07:03 UTC	Libster, sankala, Zamiel	41	5	25
+6909	3	0	No Variant	2018-06-10 — 03:06:28 UTC	Libster, sankala, Zamiel	41	5	25
+6908	3	0	No Variant	2018-06-10 — 03:04:24 UTC	Libster, sankala, Zamiel	42	5	25
+6907	3	0	No Variant	2018-06-10 — 03:02:52 UTC	Libster, sankala, Zamiel	43	5	25
+6906	3	0	No Variant	2018-06-10 — 02:59:47 UTC	Libster, sankala, Zamiel	44	5	25
+6905	3	0	No Variant	2018-06-10 — 02:59:03 UTC	Libster, sankala, Zamiel	42	5	25
+6904	3	0	No Variant	2018-06-10 — 02:57:19 UTC	Libster, sankala, Zamiel	41	5	25
+6903	3	0	No Variant	2018-06-10 — 02:55:40 UTC	Libster, sankala, Zamiel	39	5	25
+6902	3	0	No Variant	2018-06-10 — 02:54:16 UTC	Libster, sankala, Zamiel	40	5	25
+6901	3	0	No Variant	2018-06-10 — 02:52:03 UTC	Libster, sankala, Zamiel	41	5	25
+6900	3	0	No Variant	2018-06-10 — 02:50:13 UTC	Libster, sankala, Zamiel	44	5	25
+6899	3	0	No Variant	2018-06-10 — 02:47:45 UTC	Libster, sankala, Zamiel	42	5	25
+6898	3	0	No Variant	2018-06-10 — 02:46:27 UTC	Libster, sankala, Zamiel	43	5	25
 6895	3	29	Black (6 Suits)	2018-06-10 — 01:53:26 UTC	Instantiation, sankala, Zamiel	2	6	30
-6894	3	0	No Variant	2018-06-10 — 01:34:20 UTC	Instantiation, Libster, sankala	1095	5	25
+6894	3	0	No Variant	2018-06-10 — 01:34:20 UTC	Instantiation, Libster, sankala	1102	5	25
 6893	3	30	Dual-Color & Rainbow (6 Suits)	2018-06-10 — 01:25:53 UTC	Instantiation, Libster, sankala	8	6	30
-6879	4	25	No Variant	2018-06-09 — 17:49:01 UTC	florrat2, Libster, sankala, Zamiel	40	5	25
-6878	4	0	No Variant	2018-06-09 — 17:46:23 UTC	florrat2, Libster, sankala, Zamiel	39	5	25
-6877	4	0	No Variant	2018-06-09 — 17:45:39 UTC	florrat2, Libster, sankala, Zamiel	41	5	25
-6876	4	0	No Variant	2018-06-09 — 17:43:38 UTC	florrat2, Libster, sankala, Zamiel	42	5	25
+6879	4	25	No Variant	2018-06-09 — 17:49:01 UTC	florrat2, Libster, sankala, Zamiel	41	5	25
+6878	4	0	No Variant	2018-06-09 — 17:46:23 UTC	florrat2, Libster, sankala, Zamiel	40	5	25
+6877	4	0	No Variant	2018-06-09 — 17:45:39 UTC	florrat2, Libster, sankala, Zamiel	42	5	25
+6876	4	0	No Variant	2018-06-09 — 17:43:38 UTC	florrat2, Libster, sankala, Zamiel	43	5	25
 6875	4	30	Rainbow (6 Suits)	2018-06-09 — 17:40:18 UTC	florrat2, Libster, sankala, Zamiel	6	6	30
 6874	4	30	6 Suits	2018-06-09 — 17:33:38 UTC	florrat2, Libster, sankala, Zamiel	2	6	30
 6873	4	0	6 Suits	2018-06-09 — 17:29:43 UTC	florrat2, Libster, sankala, Zamiel	2	6	30
 6872	4	0	6 Suits	2018-06-09 — 17:24:35 UTC	florrat2, Libster, sankala, Zamiel	2	6	30
-6871	4	0	6 Suits	2018-06-09 — 17:21:35 UTC	florrat2, Libster, sankala, Zamiel	2	6	30
-6870	4	0	6 Suits	2018-06-09 — 17:20:25 UTC	florrat2, Libster, sankala, Zamiel	2	6	30
-6869	4	0	6 Suits	2018-06-09 — 17:19:46 UTC	florrat2, Libster, sankala, Zamiel	2	6	30
-6868	4	29	6 Suits	2018-06-09 — 17:18:21 UTC	florrat2, Libster, sankala, Zamiel	2	6	30
-6867	4	0	6 Suits	2018-06-09 — 17:14:29 UTC	florrat2, Libster, sankala, Zamiel	2	6	30
-6866	4	0	6 Suits	2018-06-09 — 17:12:59 UTC	florrat2, Libster, sankala, Zamiel	2	6	30
+6871	4	0	6 Suits	2018-06-09 — 17:21:35 UTC	florrat2, Libster, sankala, Zamiel	3	6	30
+6870	4	0	6 Suits	2018-06-09 — 17:20:25 UTC	florrat2, Libster, sankala, Zamiel	3	6	30
+6869	4	0	6 Suits	2018-06-09 — 17:19:46 UTC	florrat2, Libster, sankala, Zamiel	3	6	30
+6868	4	29	6 Suits	2018-06-09 — 17:18:21 UTC	florrat2, Libster, sankala, Zamiel	3	6	30
+6867	4	0	6 Suits	2018-06-09 — 17:14:29 UTC	florrat2, Libster, sankala, Zamiel	3	6	30
+6866	4	0	6 Suits	2018-06-09 — 17:12:59 UTC	florrat2, Libster, sankala, Zamiel	3	6	30
 6865	4	0	6 Suits	2018-06-09 — 17:12:04 UTC	florrat2, Libster, sankala, Zamiel	3	6	30
 6864	4	28	6 Suits	2018-06-09 — 17:10:09 UTC	florrat2, Libster, sankala, Zamiel	3	6	30
 6845	4	0	Dual-Color (6 Suits)	2018-06-08 — 19:26:05 UTC	Libster, Mike, sankala, Zamiel	7	6	30
-6844	3	25	No Variant	2018-06-08 — 18:59:06 UTC	Libster, Mike, sankala	573	5	25
-6843	3	25	No Variant	2018-06-08 — 18:27:44 UTC	Libster, Mike, sankala	940	5	25
-6828	3	30	Rainbow (6 Suits)	2018-06-07 — 20:31:38 UTC	Bob Dole, Hyakinthus, sankala	56	6	30
+6844	3	25	No Variant	2018-06-08 — 18:59:06 UTC	Libster, Mike, sankala	582	5	25
+6843	3	25	No Variant	2018-06-08 — 18:27:44 UTC	Libster, Mike, sankala	952	5	25
+6828	3	30	Rainbow (6 Suits)	2018-06-07 — 20:31:38 UTC	Bob Dole, Hyakinthus, sankala	59	6	30
 6827	4	0	Rainbow (6 Suits)	2018-06-07 — 19:56:44 UTC	Bob Dole, Hyakinthus, Mike, sankala	55	6	30
-6808	5	0	No Variant	2018-06-06 — 19:35:29 UTC	BlameItOnRaz:D, Libster, sankala, Tiberyus, Zy	143	5	25
-6807	5	0	No Variant	2018-06-06 — 18:53:04 UTC	BlameItOnRaz:D, Libster, sankala, Tiberyus, Zy	163	5	25
-6806	5	0	No Variant	2018-06-06 — 18:19:53 UTC	BlameItOnRaz:D, Libster, sankala, Tiberyus, Zy	223	5	25
+6808	5	0	No Variant	2018-06-06 — 19:35:29 UTC	BlameItOnRaz:D, Libster, sankala, Tiberyus, Zy	145	5	25
+6807	5	0	No Variant	2018-06-06 — 18:53:04 UTC	BlameItOnRaz:D, Libster, sankala, Tiberyus, Zy	166	5	25
+6806	5	0	No Variant	2018-06-06 — 18:19:53 UTC	BlameItOnRaz:D, Libster, sankala, Tiberyus, Zy	226	5	25
 6804	3	29	Very Ambiguous (6 Suits)	2018-06-06 — 17:11:41 UTC	Hyakinthus, Libster, sankala	7	6	30
 6803	3	0	Very Ambiguous (6 Suits)	2018-06-06 — 16:41:51 UTC	Hyakinthus, Libster, sankala	6	6	30
-6777	3	23	No Variant	2018-06-05 — 21:56:10 UTC	NotRaKXeR, sankala, ThirdStrike	1174	5	25
-6776	3	25	No Variant	2018-06-05 — 21:52:37 UTC	NotRaKXeR, sankala, ThirdStrike	1291	5	25
-6775	3	0	No Variant	2018-06-05 — 21:49:53 UTC	NotRaKXeR, sankala, ThirdStrike	1636	5	25
-6774	3	0	No Variant	2018-06-05 — 21:47:40 UTC	NotRaKXeR, sankala, ThirdStrike	2163	5	25
-6773	3	25	No Variant	2018-06-05 — 21:44:51 UTC	NotRaKXeR, sankala, ThirdStrike	2606	5	25
-6772	3	0	No Variant	2018-06-05 — 21:41:50 UTC	NotRaKXeR, sankala, ThirdStrike	3260	5	25
+6777	3	23	No Variant	2018-06-05 — 21:56:10 UTC	NotRaKXeR, sankala, ThirdStrike	1180	5	25
+6776	3	25	No Variant	2018-06-05 — 21:52:37 UTC	NotRaKXeR, sankala, ThirdStrike	1299	5	25
+6775	3	0	No Variant	2018-06-05 — 21:49:53 UTC	NotRaKXeR, sankala, ThirdStrike	1651	5	25
+6774	3	0	No Variant	2018-06-05 — 21:47:40 UTC	NotRaKXeR, sankala, ThirdStrike	2179	5	25
+6773	3	25	No Variant	2018-06-05 — 21:44:51 UTC	NotRaKXeR, sankala, ThirdStrike	2627	5	25
+6772	3	0	No Variant	2018-06-05 — 21:41:50 UTC	NotRaKXeR, sankala, ThirdStrike	3290	5	25
 6461	2	0	Rainbow (6 Suits)	2018-05-18 — 06:19:46 UTC	sankala, Zamiel	14	6	30
 6460	2	0	Rainbow (6 Suits)	2018-05-18 — 06:16:13 UTC	sankala, Zamiel	14	6	30
 6459	2	0	Rainbow (6 Suits)	2018-05-18 — 06:15:37 UTC	sankala, Zamiel	14	6	30
@@ -928,7 +928,7 @@
 6450	2	0	Rainbow (6 Suits)	2018-05-18 — 06:09:35 UTC	sankala, Zamiel	15	6	30
 6448	2	0	Rainbow (6 Suits)	2018-05-18 — 06:08:57 UTC	sankala, Zamiel	15	6	30
 6447	2	0	Rainbow (6 Suits)	2018-05-18 — 06:08:46 UTC	sankala, Zamiel	15	6	30
-6446	2	0	Rainbow (6 Suits)	2018-05-18 — 06:07:17 UTC	sankala, Zamiel	16	6	30
+6446	2	0	Rainbow (6 Suits)	2018-05-18 — 06:07:17 UTC	sankala, Zamiel	17	6	30
 6444	2	0	Rainbow (6 Suits)	2018-05-18 — 06:06:50 UTC	sankala, Zamiel	17	6	30
 6443	2	0	Rainbow (6 Suits)	2018-05-18 — 06:05:52 UTC	sankala, Zamiel	17	6	30
 6442	2	0	Rainbow (6 Suits)	2018-05-18 — 06:05:11 UTC	sankala, Zamiel	17	6	30
@@ -937,52 +937,52 @@
 6439	2	0	Rainbow (6 Suits)	2018-05-18 — 06:00:55 UTC	sankala, Zamiel	17	6	30
 6438	2	0	Rainbow (6 Suits)	2018-05-18 — 06:00:02 UTC	sankala, Zamiel	17	6	30
 6437	2	0	Rainbow (6 Suits)	2018-05-18 — 05:59:25 UTC	sankala, Zamiel	17	6	30
-6436	2	0	Rainbow (6 Suits)	2018-05-18 — 05:57:46 UTC	sankala, Zamiel	17	6	30
-6435	2	0	Rainbow (6 Suits)	2018-05-18 — 05:56:18 UTC	sankala, Zamiel	17	6	30
-6434	2	0	Rainbow (6 Suits)	2018-05-18 — 05:55:53 UTC	sankala, Zamiel	17	6	30
-6433	2	0	Rainbow (6 Suits)	2018-05-18 — 05:55:41 UTC	sankala, Zamiel	18	6	30
-6432	2	0	Rainbow (6 Suits)	2018-05-18 — 05:55:03 UTC	sankala, Zamiel	19	6	30
-6431	2	0	Rainbow (6 Suits)	2018-05-18 — 05:54:30 UTC	sankala, Zamiel	19	6	30
-6430	2	0	Rainbow (6 Suits)	2018-05-18 — 05:54:20 UTC	sankala, Zamiel	19	6	30
-6429	2	0	Rainbow (6 Suits)	2018-05-18 — 05:52:46 UTC	sankala, Zamiel	19	6	30
-6428	2	0	Rainbow (6 Suits)	2018-05-18 — 05:52:28 UTC	sankala, Zamiel	19	6	30
-6427	2	0	Rainbow (6 Suits)	2018-05-18 — 05:51:51 UTC	sankala, Zamiel	19	6	30
-6426	2	0	Rainbow (6 Suits)	2018-05-18 — 05:51:34 UTC	sankala, Zamiel	19	6	30
-6424	2	0	Rainbow (6 Suits)	2018-05-18 — 05:50:45 UTC	sankala, Zamiel	19	6	30
-6423	2	0	Rainbow (6 Suits)	2018-05-18 — 05:50:23 UTC	sankala, Zamiel	21	6	30
-6422	2	0	Rainbow (6 Suits)	2018-05-18 — 05:49:38 UTC	sankala, Zamiel	21	6	30
-6421	2	0	Rainbow (6 Suits)	2018-05-18 — 05:49:17 UTC	sankala, Zamiel	21	6	30
-6420	2	0	Rainbow (6 Suits)	2018-05-18 — 05:48:26 UTC	sankala, Zamiel	22	6	30
-6419	2	0	Rainbow (6 Suits)	2018-05-18 — 05:48:13 UTC	sankala, Zamiel	21	6	30
-6418	2	0	Rainbow (6 Suits)	2018-05-18 — 05:47:41 UTC	sankala, Zamiel	21	6	30
-6417	2	0	Rainbow (6 Suits)	2018-05-18 — 05:47:17 UTC	sankala, Zamiel	22	6	30
-6416	2	0	Rainbow (6 Suits)	2018-05-18 — 05:45:50 UTC	sankala, Zamiel	22	6	30
-6415	2	28	Rainbow (6 Suits)	2018-05-18 — 05:44:06 UTC	sankala, Zamiel	22	6	30
-6414	2	0	Rainbow (6 Suits)	2018-05-18 — 05:41:29 UTC	sankala, Zamiel	22	6	30
-6412	2	0	Rainbow (6 Suits)	2018-05-18 — 05:40:30 UTC	sankala, Zamiel	21	6	30
-6411	2	0	Rainbow (6 Suits)	2018-05-18 — 05:39:29 UTC	sankala, Zamiel	21	6	30
-6410	2	0	Rainbow (6 Suits)	2018-05-18 — 05:38:12 UTC	sankala, Zamiel	21	6	30
-6409	2	0	Rainbow (6 Suits)	2018-05-18 — 05:37:35 UTC	sankala, Zamiel	21	6	30
-6408	2	0	Rainbow (6 Suits)	2018-05-18 — 05:35:07 UTC	sankala, Zamiel	22	6	30
-6407	2	0	Rainbow (6 Suits)	2018-05-18 — 05:34:47 UTC	sankala, Zamiel	22	6	30
-6406	2	29	Rainbow (6 Suits)	2018-05-18 — 05:33:31 UTC	sankala, Zamiel	22	6	30
-6405	2	0	Rainbow (6 Suits)	2018-05-18 — 05:30:42 UTC	sankala, Zamiel	23	6	30
-6404	2	0	Rainbow (6 Suits)	2018-05-18 — 05:30:07 UTC	sankala, Zamiel	23	6	30
-6403	2	0	Rainbow (6 Suits)	2018-05-18 — 05:29:44 UTC	sankala, Zamiel	23	6	30
-6402	2	0	Rainbow (6 Suits)	2018-05-18 — 05:29:05 UTC	sankala, Zamiel	23	6	30
-6401	2	27	Rainbow (6 Suits)	2018-05-18 — 05:27:55 UTC	sankala, Zamiel	24	6	30
-6400	2	0	Rainbow (6 Suits)	2018-05-18 — 05:25:02 UTC	sankala, Zamiel	27	6	30
-6399	2	0	Rainbow (6 Suits)	2018-05-18 — 05:23:41 UTC	sankala, Zamiel	27	6	30
-6398	2	0	Rainbow (6 Suits)	2018-05-18 — 05:22:34 UTC	sankala, Zamiel	27	6	30
-6397	2	0	Rainbow (6 Suits)	2018-05-18 — 05:21:53 UTC	sankala, Zamiel	28	6	30
-6396	2	0	Rainbow (6 Suits)	2018-05-18 — 05:21:25 UTC	sankala, Zamiel	28	6	30
-6395	2	0	Rainbow (6 Suits)	2018-05-18 — 05:21:06 UTC	sankala, Zamiel	28	6	30
-6394	2	0	Rainbow (6 Suits)	2018-05-18 — 05:19:57 UTC	sankala, Zamiel	28	6	30
-6393	2	0	Rainbow (6 Suits)	2018-05-18 — 05:19:38 UTC	sankala, Zamiel	28	6	30
-6391	2	0	Rainbow (6 Suits)	2018-05-18 — 05:18:02 UTC	sankala, Zamiel	36	6	30
-6390	2	0	Rainbow (6 Suits)	2018-05-18 — 05:17:32 UTC	sankala, Zamiel	38	6	30
-6388	2	0	Rainbow (6 Suits)	2018-05-18 — 05:16:12 UTC	sankala, Zamiel	40	6	30
-6387	2	0	Rainbow (6 Suits)	2018-05-18 — 05:15:05 UTC	sankala, Zamiel	40	6	30
+6436	2	0	Rainbow (6 Suits)	2018-05-18 — 05:57:46 UTC	sankala, Zamiel	18	6	30
+6435	2	0	Rainbow (6 Suits)	2018-05-18 — 05:56:18 UTC	sankala, Zamiel	19	6	30
+6434	2	0	Rainbow (6 Suits)	2018-05-18 — 05:55:53 UTC	sankala, Zamiel	19	6	30
+6433	2	0	Rainbow (6 Suits)	2018-05-18 — 05:55:41 UTC	sankala, Zamiel	19	6	30
+6432	2	0	Rainbow (6 Suits)	2018-05-18 — 05:55:03 UTC	sankala, Zamiel	20	6	30
+6431	2	0	Rainbow (6 Suits)	2018-05-18 — 05:54:30 UTC	sankala, Zamiel	21	6	30
+6430	2	0	Rainbow (6 Suits)	2018-05-18 — 05:54:20 UTC	sankala, Zamiel	21	6	30
+6429	2	0	Rainbow (6 Suits)	2018-05-18 — 05:52:46 UTC	sankala, Zamiel	21	6	30
+6428	2	0	Rainbow (6 Suits)	2018-05-18 — 05:52:28 UTC	sankala, Zamiel	21	6	30
+6427	2	0	Rainbow (6 Suits)	2018-05-18 — 05:51:51 UTC	sankala, Zamiel	21	6	30
+6426	2	0	Rainbow (6 Suits)	2018-05-18 — 05:51:34 UTC	sankala, Zamiel	21	6	30
+6424	2	0	Rainbow (6 Suits)	2018-05-18 — 05:50:45 UTC	sankala, Zamiel	22	6	30
+6423	2	0	Rainbow (6 Suits)	2018-05-18 — 05:50:23 UTC	sankala, Zamiel	23	6	30
+6422	2	0	Rainbow (6 Suits)	2018-05-18 — 05:49:38 UTC	sankala, Zamiel	23	6	30
+6421	2	0	Rainbow (6 Suits)	2018-05-18 — 05:49:17 UTC	sankala, Zamiel	23	6	30
+6420	2	0	Rainbow (6 Suits)	2018-05-18 — 05:48:26 UTC	sankala, Zamiel	24	6	30
+6419	2	0	Rainbow (6 Suits)	2018-05-18 — 05:48:13 UTC	sankala, Zamiel	23	6	30
+6418	2	0	Rainbow (6 Suits)	2018-05-18 — 05:47:41 UTC	sankala, Zamiel	23	6	30
+6417	2	0	Rainbow (6 Suits)	2018-05-18 — 05:47:17 UTC	sankala, Zamiel	24	6	30
+6416	2	0	Rainbow (6 Suits)	2018-05-18 — 05:45:50 UTC	sankala, Zamiel	24	6	30
+6415	2	28	Rainbow (6 Suits)	2018-05-18 — 05:44:06 UTC	sankala, Zamiel	24	6	30
+6414	2	0	Rainbow (6 Suits)	2018-05-18 — 05:41:29 UTC	sankala, Zamiel	24	6	30
+6412	2	0	Rainbow (6 Suits)	2018-05-18 — 05:40:30 UTC	sankala, Zamiel	23	6	30
+6411	2	0	Rainbow (6 Suits)	2018-05-18 — 05:39:29 UTC	sankala, Zamiel	23	6	30
+6410	2	0	Rainbow (6 Suits)	2018-05-18 — 05:38:12 UTC	sankala, Zamiel	23	6	30
+6409	2	0	Rainbow (6 Suits)	2018-05-18 — 05:37:35 UTC	sankala, Zamiel	23	6	30
+6408	2	0	Rainbow (6 Suits)	2018-05-18 — 05:35:07 UTC	sankala, Zamiel	24	6	30
+6407	2	0	Rainbow (6 Suits)	2018-05-18 — 05:34:47 UTC	sankala, Zamiel	24	6	30
+6406	2	29	Rainbow (6 Suits)	2018-05-18 — 05:33:31 UTC	sankala, Zamiel	24	6	30
+6405	2	0	Rainbow (6 Suits)	2018-05-18 — 05:30:42 UTC	sankala, Zamiel	25	6	30
+6404	2	0	Rainbow (6 Suits)	2018-05-18 — 05:30:07 UTC	sankala, Zamiel	25	6	30
+6403	2	0	Rainbow (6 Suits)	2018-05-18 — 05:29:44 UTC	sankala, Zamiel	25	6	30
+6402	2	0	Rainbow (6 Suits)	2018-05-18 — 05:29:05 UTC	sankala, Zamiel	25	6	30
+6401	2	27	Rainbow (6 Suits)	2018-05-18 — 05:27:55 UTC	sankala, Zamiel	25	6	30
+6400	2	0	Rainbow (6 Suits)	2018-05-18 — 05:25:02 UTC	sankala, Zamiel	28	6	30
+6399	2	0	Rainbow (6 Suits)	2018-05-18 — 05:23:41 UTC	sankala, Zamiel	29	6	30
+6398	2	0	Rainbow (6 Suits)	2018-05-18 — 05:22:34 UTC	sankala, Zamiel	29	6	30
+6397	2	0	Rainbow (6 Suits)	2018-05-18 — 05:21:53 UTC	sankala, Zamiel	29	6	30
+6396	2	0	Rainbow (6 Suits)	2018-05-18 — 05:21:25 UTC	sankala, Zamiel	29	6	30
+6395	2	0	Rainbow (6 Suits)	2018-05-18 — 05:21:06 UTC	sankala, Zamiel	30	6	30
+6394	2	0	Rainbow (6 Suits)	2018-05-18 — 05:19:57 UTC	sankala, Zamiel	30	6	30
+6393	2	0	Rainbow (6 Suits)	2018-05-18 — 05:19:38 UTC	sankala, Zamiel	30	6	30
+6391	2	0	Rainbow (6 Suits)	2018-05-18 — 05:18:02 UTC	sankala, Zamiel	39	6	30
+6390	2	0	Rainbow (6 Suits)	2018-05-18 — 05:17:32 UTC	sankala, Zamiel	40	6	30
+6388	2	0	Rainbow (6 Suits)	2018-05-18 — 05:16:12 UTC	sankala, Zamiel	41	6	30
+6387	2	0	Rainbow (6 Suits)	2018-05-18 — 05:15:05 UTC	sankala, Zamiel	41	6	30
 6386	2	0	Rainbow (6 Suits)	2018-05-18 — 05:14:45 UTC	sankala, Zamiel	42	6	30
 6385	2	0	Rainbow (6 Suits)	2018-05-18 — 05:13:47 UTC	sankala, Zamiel	42	6	30
 5288	2	0	6 Suits	2018-04-17 — 06:33:06 UTC	sankala, Zamiel	7	6	30
@@ -1021,8 +1021,8 @@
 5247	2	0	6 Suits	2018-04-17 — 05:57:53 UTC	sankala, Zamiel	13	6	30
 5246	2	0	6 Suits	2018-04-17 — 05:57:03 UTC	sankala, Zamiel	14	6	30
 5245	2	29	6 Suits	2018-04-17 — 05:56:04 UTC	sankala, Zamiel	14	6	30
-5243	2	0	6 Suits	2018-04-17 — 05:53:03 UTC	sankala, Zamiel	14	6	30
-5241	2	0	6 Suits	2018-04-17 — 05:52:31 UTC	sankala, Zamiel	14	6	30
+5243	2	0	6 Suits	2018-04-17 — 05:53:03 UTC	sankala, Zamiel	15	6	30
+5241	2	0	6 Suits	2018-04-17 — 05:52:31 UTC	sankala, Zamiel	15	6	30
 5240	2	0	6 Suits	2018-04-17 — 05:52:17 UTC	sankala, Zamiel	15	6	30
 5239	2	0	6 Suits	2018-04-17 — 05:51:31 UTC	sankala, Zamiel	14	6	30
 5238	2	0	6 Suits	2018-04-17 — 05:51:00 UTC	sankala, Zamiel	15	6	30
@@ -1033,15 +1033,15 @@
 5232	2	27	6 Suits	2018-04-17 — 05:45:05 UTC	sankala, Zamiel	15	6	30
 5231	2	0	6 Suits	2018-04-17 — 05:41:39 UTC	sankala, Zamiel	15	6	30
 5229	2	0	6 Suits	2018-04-17 — 05:40:50 UTC	sankala, Zamiel	15	6	30
-5228	2	0	6 Suits	2018-04-17 — 05:39:47 UTC	sankala, Zamiel	15	6	30
-5226	2	0	6 Suits	2018-04-17 — 05:38:11 UTC	sankala, Zamiel	15	6	30
-5224	2	0	6 Suits	2018-04-17 — 05:37:29 UTC	sankala, Zamiel	15	6	30
-5223	2	0	6 Suits	2018-04-17 — 05:36:01 UTC	sankala, Zamiel	15	6	30
+5228	2	0	6 Suits	2018-04-17 — 05:39:47 UTC	sankala, Zamiel	16	6	30
+5226	2	0	6 Suits	2018-04-17 — 05:38:11 UTC	sankala, Zamiel	16	6	30
+5224	2	0	6 Suits	2018-04-17 — 05:37:29 UTC	sankala, Zamiel	16	6	30
+5223	2	0	6 Suits	2018-04-17 — 05:36:01 UTC	sankala, Zamiel	16	6	30
 5222	2	0	6 Suits	2018-04-17 — 05:35:11 UTC	sankala, Zamiel	16	6	30
-5220	2	0	6 Suits	2018-04-17 — 05:34:41 UTC	sankala, Zamiel	16	6	30
-5218	2	0	6 Suits	2018-04-17 — 05:33:46 UTC	sankala, Zamiel	17	6	30
-5217	2	0	6 Suits	2018-04-17 — 05:32:38 UTC	sankala, Zamiel	18	6	30
-5216	2	0	6 Suits	2018-04-17 — 05:32:00 UTC	sankala, Zamiel	18	6	30
+5220	2	0	6 Suits	2018-04-17 — 05:34:41 UTC	sankala, Zamiel	17	6	30
+5218	2	0	6 Suits	2018-04-17 — 05:33:46 UTC	sankala, Zamiel	18	6	30
+5217	2	0	6 Suits	2018-04-17 — 05:32:38 UTC	sankala, Zamiel	19	6	30
+5216	2	0	6 Suits	2018-04-17 — 05:32:00 UTC	sankala, Zamiel	19	6	30
 5214	2	0	6 Suits	2018-04-17 — 05:29:41 UTC	sankala, Zamiel	19	6	30
 5213	2	0	6 Suits	2018-04-17 — 05:28:19 UTC	sankala, Zamiel	19	6	30
 5211	2	0	6 Suits	2018-04-17 — 05:27:25 UTC	sankala, Zamiel	22	6	30
@@ -1066,7 +1066,7 @@
 5123	4	0	6 Suits	2018-04-15 — 19:01:16 UTC	florrat2, Libster, NotRaKXeR, sankala	3	6	30
 5122	4	0	6 Suits	2018-04-15 — 18:57:32 UTC	florrat2, Libster, NotRaKXeR, sankala	3	6	30
 5121	4	0	6 Suits	2018-04-15 — 18:56:16 UTC	florrat2, Libster, NotRaKXeR, sankala	3	6	30
-5120	4	0	6 Suits	2018-04-15 — 18:54:30 UTC	florrat2, Libster, NotRaKXeR, sankala	3	6	30
+5120	4	0	6 Suits	2018-04-15 — 18:54:30 UTC	florrat2, Libster, NotRaKXeR, sankala	4	6	30
 5119	4	30	6 Suits	2018-04-15 — 18:50:14 UTC	florrat2, Libster, NotRaKXeR, sankala	4	6	30
 5118	4	0	6 Suits	2018-04-15 — 18:45:49 UTC	florrat2, Libster, NotRaKXeR, sankala	4	6	30
 5117	4	0	6 Suits	2018-04-15 — 18:43:08 UTC	florrat2, Libster, NotRaKXeR, sankala	4	6	30
@@ -1089,17 +1089,17 @@
 5100	4	0	6 Suits	2018-04-15 — 17:57:06 UTC	florrat2, Libster, NotRaKXeR, sankala	6	6	30
 5099	4	0	6 Suits	2018-04-15 — 17:53:29 UTC	florrat2, Libster, NotRaKXeR, sankala	7	6	30
 5098	4	0	6 Suits	2018-04-15 — 17:50:33 UTC	florrat2, Libster, NotRaKXeR, sankala	7	6	30
-5097	4	0	6 Suits	2018-04-15 — 17:47:32 UTC	florrat2, Libster, NotRaKXeR, sankala	7	6	30
+5097	4	0	6 Suits	2018-04-15 — 17:47:32 UTC	florrat2, Libster, NotRaKXeR, sankala	8	6	30
 5096	4	0	6 Suits	2018-04-15 — 17:46:09 UTC	florrat2, Libster, NotRaKXeR, sankala	8	6	30
 5095	4	0	6 Suits	2018-04-15 — 17:45:12 UTC	florrat2, Libster, NotRaKXeR, sankala	8	6	30
-4899	3	0	Black (6 Suits)	2018-04-09 — 00:32:52 UTC	NotRaKXeR, sankala, Zamiel	16	6	30
-4898	3	0	Black (6 Suits)	2018-04-09 — 00:30:11 UTC	NotRaKXeR, sankala, Zamiel	19	6	30
-4897	3	0	Black (6 Suits)	2018-04-09 — 00:29:25 UTC	NotRaKXeR, sankala, Zamiel	19	6	30
-4896	3	0	Black (6 Suits)	2018-04-09 — 00:28:20 UTC	NotRaKXeR, sankala, Zamiel	19	6	30
-4895	3	0	Black (6 Suits)	2018-04-09 — 00:27:40 UTC	NotRaKXeR, sankala, Zamiel	19	6	30
-4894	3	0	Black (6 Suits)	2018-04-09 — 00:26:49 UTC	NotRaKXeR, sankala, Zamiel	19	6	30
-4893	3	0	Black (6 Suits)	2018-04-09 — 00:23:13 UTC	NotRaKXeR, sankala, Zamiel	19	6	30
-4892	3	0	Black (6 Suits)	2018-04-09 — 00:20:45 UTC	NotRaKXeR, sankala, Zamiel	22	6	30
+4899	3	0	Black (6 Suits)	2018-04-09 — 00:32:52 UTC	NotRaKXeR, sankala, Zamiel	17	6	30
+4898	3	0	Black (6 Suits)	2018-04-09 — 00:30:11 UTC	NotRaKXeR, sankala, Zamiel	20	6	30
+4897	3	0	Black (6 Suits)	2018-04-09 — 00:29:25 UTC	NotRaKXeR, sankala, Zamiel	20	6	30
+4896	3	0	Black (6 Suits)	2018-04-09 — 00:28:20 UTC	NotRaKXeR, sankala, Zamiel	20	6	30
+4895	3	0	Black (6 Suits)	2018-04-09 — 00:27:40 UTC	NotRaKXeR, sankala, Zamiel	20	6	30
+4894	3	0	Black (6 Suits)	2018-04-09 — 00:26:49 UTC	NotRaKXeR, sankala, Zamiel	20	6	30
+4893	3	0	Black (6 Suits)	2018-04-09 — 00:23:13 UTC	NotRaKXeR, sankala, Zamiel	20	6	30
+4892	3	0	Black (6 Suits)	2018-04-09 — 00:20:45 UTC	NotRaKXeR, sankala, Zamiel	23	6	30
 4891	3	0	Black (6 Suits)	2018-04-09 — 00:19:18 UTC	NotRaKXeR, sankala, Zamiel	23	6	30
 4890	3	0	Black (6 Suits)	2018-04-09 — 00:17:02 UTC	NotRaKXeR, sankala, Zamiel	23	6	30
 4889	3	0	Black (6 Suits)	2018-04-09 — 00:15:58 UTC	NotRaKXeR, sankala, Zamiel	23	6	30
@@ -1113,97 +1113,97 @@
 4880	3	0	Black (6 Suits)	2018-04-08 — 23:55:28 UTC	Ahming, sankala, Zamiel	31	6	30
 4879	3	0	Black (6 Suits)	2018-04-08 — 23:53:19 UTC	Ahming, sankala, Zamiel	31	6	30
 4878	3	0	Black (6 Suits)	2018-04-08 — 23:52:21 UTC	Ahming, sankala, Zamiel	31	6	30
-4877	2	25	No Variant	2018-04-08 — 23:45:15 UTC	sankala, Zamiel	1031	5	25
-4876	2	0	No Variant	2018-04-08 — 23:43:30 UTC	sankala, Zamiel	1078	5	25
-4875	2	0	No Variant	2018-04-08 — 23:40:59 UTC	sankala, Zamiel	1117	5	25
-4874	2	0	No Variant	2018-04-08 — 23:39:38 UTC	sankala, Zamiel	1148	5	25
-4873	2	0	No Variant	2018-04-08 — 23:37:50 UTC	sankala, Zamiel	1206	5	25
-4871	2	0	No Variant	2018-04-08 — 23:37:26 UTC	sankala, Zamiel	1299	5	25
-4870	2	0	No Variant	2018-04-08 — 23:35:56 UTC	sankala, Zamiel	1376	5	25
-4869	2	0	No Variant	2018-04-08 — 23:35:24 UTC	sankala, Zamiel	1448	5	25
-4868	2	0	No Variant	2018-04-08 — 23:35:07 UTC	sankala, Zamiel	1532	5	25
-4867	2	0	No Variant	2018-04-08 — 23:34:51 UTC	sankala, Zamiel	1621	5	25
-4866	2	0	No Variant	2018-04-08 — 23:34:23 UTC	sankala, Zamiel	1703	5	25
-4865	2	0	No Variant	2018-04-08 — 23:33:50 UTC	sankala, Zamiel	1840	5	25
-4864	2	0	No Variant	2018-04-08 — 23:32:48 UTC	sankala, Zamiel	1952	5	25
-4863	2	25	No Variant	2018-04-08 — 23:31:10 UTC	sankala, Zamiel	2147	5	25
-4862	2	0	No Variant	2018-04-08 — 23:29:03 UTC	sankala, Zamiel	2288	5	25
-4861	2	25	No Variant	2018-04-08 — 23:25:44 UTC	sankala, Zamiel	2532	5	25
-4860	2	0	No Variant	2018-04-08 — 23:23:47 UTC	sankala, Zamiel	2750	5	25
-4859	2	30	Rainbow (6 Suits)	2018-04-08 — 23:20:03 UTC	sankala, Zamiel	269	6	30
-4858	2	0	Rainbow (6 Suits)	2018-04-08 — 23:17:18 UTC	sankala, Zamiel	288	6	30
-4856	2	0	Rainbow (6 Suits)	2018-04-08 — 23:16:22 UTC	sankala, Zamiel	327	6	30
-4855	2	0	Rainbow (6 Suits)	2018-04-08 — 23:15:42 UTC	sankala, Zamiel	349	6	30
-4854	2	0	Rainbow (6 Suits)	2018-04-08 — 23:00:39 UTC	sankala, Zamiel	395	6	30
-4853	2	0	Rainbow (6 Suits)	2018-04-08 — 23:00:18 UTC	sankala, Zamiel	441	6	30
-4852	2	0	Rainbow (6 Suits)	2018-04-08 — 22:58:57 UTC	sankala, Zamiel	500	6	30
-4851	2	0	Rainbow (6 Suits)	2018-04-08 — 22:56:20 UTC	sankala, Zamiel	593	6	30
-4850	2	0	Rainbow (6 Suits)	2018-04-08 — 22:53:47 UTC	sankala, Zamiel	717	6	30
-4849	2	0	Rainbow (6 Suits)	2018-04-08 — 22:52:34 UTC	sankala, Zamiel	971	6	30
-4848	2	30	6 Suits	2018-04-08 — 22:49:18 UTC	sankala, Zamiel	56	6	30
-4847	2	0	6 Suits	2018-04-08 — 22:46:20 UTC	sankala, Zamiel	61	6	30
-4846	2	0	6 Suits	2018-04-08 — 22:42:19 UTC	sankala, Zamiel	61	6	30
-4845	2	0	6 Suits	2018-04-08 — 22:41:59 UTC	sankala, Zamiel	62	6	30
+4877	2	25	No Variant	2018-04-08 — 23:45:15 UTC	sankala, Zamiel	1041	5	25
+4876	2	0	No Variant	2018-04-08 — 23:43:30 UTC	sankala, Zamiel	1089	5	25
+4875	2	0	No Variant	2018-04-08 — 23:40:59 UTC	sankala, Zamiel	1124	5	25
+4874	2	0	No Variant	2018-04-08 — 23:39:38 UTC	sankala, Zamiel	1159	5	25
+4873	2	0	No Variant	2018-04-08 — 23:37:50 UTC	sankala, Zamiel	1219	5	25
+4871	2	0	No Variant	2018-04-08 — 23:37:26 UTC	sankala, Zamiel	1311	5	25
+4870	2	0	No Variant	2018-04-08 — 23:35:56 UTC	sankala, Zamiel	1392	5	25
+4869	2	0	No Variant	2018-04-08 — 23:35:24 UTC	sankala, Zamiel	1460	5	25
+4868	2	0	No Variant	2018-04-08 — 23:35:07 UTC	sankala, Zamiel	1547	5	25
+4867	2	0	No Variant	2018-04-08 — 23:34:51 UTC	sankala, Zamiel	1637	5	25
+4866	2	0	No Variant	2018-04-08 — 23:34:23 UTC	sankala, Zamiel	1721	5	25
+4865	2	0	No Variant	2018-04-08 — 23:33:50 UTC	sankala, Zamiel	1856	5	25
+4864	2	0	No Variant	2018-04-08 — 23:32:48 UTC	sankala, Zamiel	1966	5	25
+4863	2	25	No Variant	2018-04-08 — 23:31:10 UTC	sankala, Zamiel	2166	5	25
+4862	2	0	No Variant	2018-04-08 — 23:29:03 UTC	sankala, Zamiel	2307	5	25
+4861	2	25	No Variant	2018-04-08 — 23:25:44 UTC	sankala, Zamiel	2552	5	25
+4860	2	0	No Variant	2018-04-08 — 23:23:47 UTC	sankala, Zamiel	2772	5	25
+4859	2	30	Rainbow (6 Suits)	2018-04-08 — 23:20:03 UTC	sankala, Zamiel	271	6	30
+4858	2	0	Rainbow (6 Suits)	2018-04-08 — 23:17:18 UTC	sankala, Zamiel	289	6	30
+4856	2	0	Rainbow (6 Suits)	2018-04-08 — 23:16:22 UTC	sankala, Zamiel	329	6	30
+4855	2	0	Rainbow (6 Suits)	2018-04-08 — 23:15:42 UTC	sankala, Zamiel	351	6	30
+4854	2	0	Rainbow (6 Suits)	2018-04-08 — 23:00:39 UTC	sankala, Zamiel	398	6	30
+4853	2	0	Rainbow (6 Suits)	2018-04-08 — 23:00:18 UTC	sankala, Zamiel	446	6	30
+4852	2	0	Rainbow (6 Suits)	2018-04-08 — 22:58:57 UTC	sankala, Zamiel	506	6	30
+4851	2	0	Rainbow (6 Suits)	2018-04-08 — 22:56:20 UTC	sankala, Zamiel	605	6	30
+4850	2	0	Rainbow (6 Suits)	2018-04-08 — 22:53:47 UTC	sankala, Zamiel	728	6	30
+4849	2	0	Rainbow (6 Suits)	2018-04-08 — 22:52:34 UTC	sankala, Zamiel	984	6	30
+4848	2	30	6 Suits	2018-04-08 — 22:49:18 UTC	sankala, Zamiel	58	6	30
+4847	2	0	6 Suits	2018-04-08 — 22:46:20 UTC	sankala, Zamiel	63	6	30
+4846	2	0	6 Suits	2018-04-08 — 22:42:19 UTC	sankala, Zamiel	63	6	30
+4845	2	0	6 Suits	2018-04-08 — 22:41:59 UTC	sankala, Zamiel	63	6	30
 4844	2	0	6 Suits	2018-04-08 — 22:41:30 UTC	sankala, Zamiel	62	6	30
 4843	2	0	6 Suits	2018-04-08 — 22:39:42 UTC	sankala, Zamiel	65	6	30
 4842	2	0	6 Suits	2018-04-08 — 22:39:24 UTC	sankala, Zamiel	65	6	30
 4841	2	0	6 Suits	2018-04-08 — 22:38:53 UTC	sankala, Zamiel	66	6	30
 4840	2	0	6 Suits	2018-04-08 — 22:36:23 UTC	sankala, Zamiel	69	6	30
-4839	2	0	6 Suits	2018-04-08 — 22:35:37 UTC	sankala, Zamiel	73	6	30
-4838	2	0	6 Suits	2018-04-08 — 22:34:09 UTC	sankala, Zamiel	72	6	30
-4837	2	0	6 Suits	2018-04-08 — 22:33:47 UTC	sankala, Zamiel	75	6	30
-4836	2	0	6 Suits	2018-04-08 — 22:32:38 UTC	sankala, Zamiel	76	6	30
-4833	2	0	6 Suits	2018-04-08 — 22:31:58 UTC	sankala, Zamiel	85	6	30
-4832	2	0	6 Suits	2018-04-08 — 22:30:14 UTC	sankala, Zamiel	88	6	30
-4831	2	0	6 Suits	2018-04-08 — 22:29:51 UTC	sankala, Zamiel	89	6	30
-4829	2	0	6 Suits	2018-04-08 — 22:29:15 UTC	sankala, Zamiel	98	6	30
-4828	2	0	6 Suits	2018-04-08 — 22:28:26 UTC	sankala, Zamiel	102	6	30
-4827	2	0	6 Suits	2018-04-08 — 22:27:57 UTC	sankala, Zamiel	106	6	30
-4825	2	30	6 Suits	2018-04-08 — 22:24:52 UTC	sankala, Zamiel	112	6	30
-4820	2	0	6 Suits	2018-04-08 — 22:21:25 UTC	sankala, Zamiel	132	6	30
-4819	2	0	6 Suits	2018-04-08 — 22:20:42 UTC	sankala, Zamiel	137	6	30
-4817	2	0	6 Suits	2018-04-08 — 22:19:47 UTC	sankala, Zamiel	147	6	30
-4816	2	0	6 Suits	2018-04-08 — 22:17:24 UTC	sankala, Zamiel	160	6	30
-4814	2	0	6 Suits	2018-04-08 — 22:14:55 UTC	sankala, Zamiel	169	6	30
-4812	2	0	6 Suits	2018-04-08 — 22:14:08 UTC	sankala, Zamiel	174	6	30
-4810	2	0	6 Suits	2018-04-08 — 22:13:19 UTC	sankala, Zamiel	180	6	30
-4809	2	0	6 Suits	2018-04-08 — 22:13:05 UTC	sankala, Zamiel	189	6	30
-4808	2	0	6 Suits	2018-04-08 — 22:12:12 UTC	sankala, Zamiel	200	6	30
-4805	2	0	6 Suits	2018-04-08 — 22:07:54 UTC	sankala, Zamiel	207	6	30
-4804	2	0	6 Suits	2018-04-08 — 22:07:07 UTC	sankala, Zamiel	211	6	30
-4801	2	0	6 Suits	2018-04-08 — 22:05:20 UTC	sankala, Zamiel	248	6	30
-4800	2	0	6 Suits	2018-04-08 — 22:04:32 UTC	sankala, Zamiel	274	6	30
-4799	2	0	6 Suits	2018-04-08 — 22:02:40 UTC	sankala, Zamiel	304	6	30
-4798	2	0	6 Suits	2018-04-08 — 22:01:17 UTC	sankala, Zamiel	340	6	30
-4797	2	0	6 Suits	2018-04-08 — 21:58:07 UTC	sankala, Zamiel	378	6	30
-4796	2	0	6 Suits	2018-04-08 — 21:56:47 UTC	sankala, Zamiel	401	6	30
-4795	2	0	6 Suits	2018-04-08 — 21:55:43 UTC	sankala, Zamiel	444	6	30
-4794	2	0	6 Suits	2018-04-08 — 21:54:16 UTC	sankala, Zamiel	505	6	30
-4791	2	0	6 Suits	2018-04-08 — 21:53:33 UTC	sankala, Zamiel	851	6	30
-4719	3	0	Rainbow (6 Suits)	2018-04-05 — 21:01:13 UTC	Libster, RaKXeR, sankala	58	6	30
-4718	3	0	Rainbow (6 Suits)	2018-04-05 — 20:57:24 UTC	Libster, RaKXeR, sankala	61	6	30
-4717	3	0	Rainbow (6 Suits)	2018-04-05 — 20:52:52 UTC	Libster, RaKXeR, sankala	68	6	30
-4716	3	0	Rainbow (6 Suits)	2018-04-05 — 20:50:33 UTC	Libster, RaKXeR, sankala	72	6	30
-4715	3	0	Rainbow (6 Suits)	2018-04-05 — 20:47:44 UTC	Libster, RaKXeR, sankala	74	6	30
-4714	3	0	Rainbow (6 Suits)	2018-04-05 — 20:46:21 UTC	Libster, RaKXeR, sankala	75	6	30
-4713	3	0	Rainbow (6 Suits)	2018-04-05 — 20:44:21 UTC	Libster, RaKXeR, sankala	77	6	30
-4712	3	0	Rainbow (6 Suits)	2018-04-05 — 20:40:22 UTC	Libster, RaKXeR, sankala	79	6	30
-4711	3	0	Rainbow (6 Suits)	2018-04-05 — 20:34:11 UTC	Libster, RaKXeR, sankala	83	6	30
+4839	2	0	6 Suits	2018-04-08 — 22:35:37 UTC	sankala, Zamiel	74	6	30
+4838	2	0	6 Suits	2018-04-08 — 22:34:09 UTC	sankala, Zamiel	73	6	30
+4837	2	0	6 Suits	2018-04-08 — 22:33:47 UTC	sankala, Zamiel	76	6	30
+4836	2	0	6 Suits	2018-04-08 — 22:32:38 UTC	sankala, Zamiel	77	6	30
+4833	2	0	6 Suits	2018-04-08 — 22:31:58 UTC	sankala, Zamiel	86	6	30
+4832	2	0	6 Suits	2018-04-08 — 22:30:14 UTC	sankala, Zamiel	89	6	30
+4831	2	0	6 Suits	2018-04-08 — 22:29:51 UTC	sankala, Zamiel	90	6	30
+4829	2	0	6 Suits	2018-04-08 — 22:29:15 UTC	sankala, Zamiel	100	6	30
+4828	2	0	6 Suits	2018-04-08 — 22:28:26 UTC	sankala, Zamiel	103	6	30
+4827	2	0	6 Suits	2018-04-08 — 22:27:57 UTC	sankala, Zamiel	107	6	30
+4825	2	30	6 Suits	2018-04-08 — 22:24:52 UTC	sankala, Zamiel	113	6	30
+4820	2	0	6 Suits	2018-04-08 — 22:21:25 UTC	sankala, Zamiel	135	6	30
+4819	2	0	6 Suits	2018-04-08 — 22:20:42 UTC	sankala, Zamiel	140	6	30
+4817	2	0	6 Suits	2018-04-08 — 22:19:47 UTC	sankala, Zamiel	150	6	30
+4816	2	0	6 Suits	2018-04-08 — 22:17:24 UTC	sankala, Zamiel	163	6	30
+4814	2	0	6 Suits	2018-04-08 — 22:14:55 UTC	sankala, Zamiel	172	6	30
+4812	2	0	6 Suits	2018-04-08 — 22:14:08 UTC	sankala, Zamiel	179	6	30
+4810	2	0	6 Suits	2018-04-08 — 22:13:19 UTC	sankala, Zamiel	185	6	30
+4809	2	0	6 Suits	2018-04-08 — 22:13:05 UTC	sankala, Zamiel	193	6	30
+4808	2	0	6 Suits	2018-04-08 — 22:12:12 UTC	sankala, Zamiel	204	6	30
+4805	2	0	6 Suits	2018-04-08 — 22:07:54 UTC	sankala, Zamiel	211	6	30
+4804	2	0	6 Suits	2018-04-08 — 22:07:07 UTC	sankala, Zamiel	215	6	30
+4801	2	0	6 Suits	2018-04-08 — 22:05:20 UTC	sankala, Zamiel	253	6	30
+4800	2	0	6 Suits	2018-04-08 — 22:04:32 UTC	sankala, Zamiel	280	6	30
+4799	2	0	6 Suits	2018-04-08 — 22:02:40 UTC	sankala, Zamiel	315	6	30
+4798	2	0	6 Suits	2018-04-08 — 22:01:17 UTC	sankala, Zamiel	352	6	30
+4797	2	0	6 Suits	2018-04-08 — 21:58:07 UTC	sankala, Zamiel	388	6	30
+4796	2	0	6 Suits	2018-04-08 — 21:56:47 UTC	sankala, Zamiel	413	6	30
+4795	2	0	6 Suits	2018-04-08 — 21:55:43 UTC	sankala, Zamiel	453	6	30
+4794	2	0	6 Suits	2018-04-08 — 21:54:16 UTC	sankala, Zamiel	513	6	30
+4791	2	0	6 Suits	2018-04-08 — 21:53:33 UTC	sankala, Zamiel	862	6	30
+4719	3	0	Rainbow (6 Suits)	2018-04-05 — 21:01:13 UTC	Libster, RaKXeR, sankala	61	6	30
+4718	3	0	Rainbow (6 Suits)	2018-04-05 — 20:57:24 UTC	Libster, RaKXeR, sankala	64	6	30
+4717	3	0	Rainbow (6 Suits)	2018-04-05 — 20:52:52 UTC	Libster, RaKXeR, sankala	69	6	30
+4716	3	0	Rainbow (6 Suits)	2018-04-05 — 20:50:33 UTC	Libster, RaKXeR, sankala	73	6	30
+4715	3	0	Rainbow (6 Suits)	2018-04-05 — 20:47:44 UTC	Libster, RaKXeR, sankala	75	6	30
+4714	3	0	Rainbow (6 Suits)	2018-04-05 — 20:46:21 UTC	Libster, RaKXeR, sankala	76	6	30
+4713	3	0	Rainbow (6 Suits)	2018-04-05 — 20:44:21 UTC	Libster, RaKXeR, sankala	78	6	30
+4712	3	0	Rainbow (6 Suits)	2018-04-05 — 20:40:22 UTC	Libster, RaKXeR, sankala	81	6	30
+4711	3	0	Rainbow (6 Suits)	2018-04-05 — 20:34:11 UTC	Libster, RaKXeR, sankala	84	6	30
 4710	3	0	Rainbow (6 Suits)	2018-04-05 — 20:31:29 UTC	Libster, RaKXeR, sankala	118	6	30
 4709	3	0	Rainbow (6 Suits)	2018-04-05 — 20:28:57 UTC	Libster, RaKXeR, sankala	120	6	30
-4708	4	0	No Variant	2018-04-05 — 20:23:31 UTC	florrat2, Libster, RaKXeR, sankala	233	5	25
-4707	4	0	No Variant	2018-04-05 — 20:19:58 UTC	florrat2, Libster, RaKXeR, sankala	326	5	25
-4706	4	0	No Variant	2018-04-05 — 20:18:20 UTC	florrat2, Libster, RaKXeR, sankala	336	5	25
-4705	3	0	Rainbow (6 Suits)	2018-04-05 — 20:16:15 UTC	florrat2, Libster, sankala	15	6	30
-4704	3	0	Rainbow (6 Suits)	2018-04-05 — 20:13:42 UTC	florrat2, Libster, sankala	15	6	30
-4703	3	0	Rainbow (6 Suits)	2018-04-05 — 20:11:13 UTC	florrat2, Libster, sankala	16	6	30
-4702	3	0	Rainbow (6 Suits)	2018-04-05 — 20:07:34 UTC	florrat2, Libster, sankala	17	6	30
-4701	3	0	Rainbow (6 Suits)	2018-04-05 — 20:06:13 UTC	florrat2, Libster, sankala	17	6	30
-4700	3	0	Rainbow (6 Suits)	2018-04-05 — 20:04:28 UTC	florrat2, Libster, sankala	18	6	30
+4708	4	0	No Variant	2018-04-05 — 20:23:31 UTC	florrat2, Libster, RaKXeR, sankala	236	5	25
+4707	4	0	No Variant	2018-04-05 — 20:19:58 UTC	florrat2, Libster, RaKXeR, sankala	330	5	25
+4706	4	0	No Variant	2018-04-05 — 20:18:20 UTC	florrat2, Libster, RaKXeR, sankala	340	5	25
+4705	3	0	Rainbow (6 Suits)	2018-04-05 — 20:16:15 UTC	florrat2, Libster, sankala	16	6	30
+4704	3	0	Rainbow (6 Suits)	2018-04-05 — 20:13:42 UTC	florrat2, Libster, sankala	16	6	30
+4703	3	0	Rainbow (6 Suits)	2018-04-05 — 20:11:13 UTC	florrat2, Libster, sankala	17	6	30
+4702	3	0	Rainbow (6 Suits)	2018-04-05 — 20:07:34 UTC	florrat2, Libster, sankala	18	6	30
+4701	3	0	Rainbow (6 Suits)	2018-04-05 — 20:06:13 UTC	florrat2, Libster, sankala	18	6	30
+4700	3	0	Rainbow (6 Suits)	2018-04-05 — 20:04:28 UTC	florrat2, Libster, sankala	19	6	30
 4699	3	0	Rainbow (6 Suits)	2018-04-05 — 20:02:07 UTC	florrat2, Libster, sankala	18	6	30
 4698	3	0	Rainbow (6 Suits)	2018-04-05 — 19:59:35 UTC	florrat2, Libster, sankala	19	6	30
-4697	3	30	6 Suits	2018-04-05 — 19:53:00 UTC	florrat2, Libster, sankala	26	6	30
-4696	3	0	6 Suits	2018-04-05 — 19:48:52 UTC	florrat2, Libster, sankala	28	6	30
+4697	3	30	6 Suits	2018-04-05 — 19:53:00 UTC	florrat2, Libster, sankala	27	6	30
+4696	3	0	6 Suits	2018-04-05 — 19:48:52 UTC	florrat2, Libster, sankala	29	6	30
 4695	3	0	6 Suits	2018-04-05 — 19:47:35 UTC	florrat2, Libster, sankala	32	6	30
 4694	3	0	6 Suits	2018-04-05 — 19:45:40 UTC	florrat2, Libster, sankala	31	6	30
 4693	3	0	6 Suits	2018-04-05 — 19:44:23 UTC	florrat2, Libster, sankala	33	6	30
@@ -1212,8 +1212,8 @@
 4690	3	30	Black (6 Suits)	2018-04-05 — 19:34:51 UTC	florrat2, Libster, sankala	31	6	30
 4688	3	0	Black (6 Suits)	2018-04-05 — 19:30:40 UTC	florrat2, Libster, sankala	31	6	30
 4687	3	29	Black (6 Suits)	2018-04-05 — 19:26:51 UTC	florrat2, Libster, sankala	36	6	30
-4686	3	0	Black (6 Suits)	2018-04-05 — 19:23:35 UTC	florrat2, Libster, sankala	74	6	30
-4685	3	0	Black (6 Suits)	2018-04-05 — 19:20:23 UTC	florrat2, Libster, sankala	125	6	30
+4686	3	0	Black (6 Suits)	2018-04-05 — 19:23:35 UTC	florrat2, Libster, sankala	75	6	30
+4685	3	0	Black (6 Suits)	2018-04-05 — 19:20:23 UTC	florrat2, Libster, sankala	126	6	30
 4683	2	0	Black (6 Suits)	2018-04-05 — 07:14:17 UTC	Libster, sankala	17	6	30
 4682	2	0	Black (6 Suits)	2018-04-05 — 07:12:32 UTC	Libster, sankala	17	6	30
 4681	2	0	Black (6 Suits)	2018-04-05 — 07:10:18 UTC	Libster, sankala	17	6	30
@@ -1267,9 +1267,9 @@
 4629	2	0	Black (6 Suits)	2018-04-05 — 05:45:28 UTC	Libster, sankala	35	6	30
 4628	2	0	Black (6 Suits)	2018-04-05 — 05:43:04 UTC	Libster, sankala	35	6	30
 4627	2	0	Black (6 Suits)	2018-04-05 — 05:42:47 UTC	Libster, sankala	35	6	30
-4625	2	0	Black (6 Suits)	2018-04-05 — 05:41:55 UTC	Libster, sankala	391	6	30
-4624	2	0	Black (6 Suits)	2018-04-05 — 05:39:23 UTC	Libster, sankala	546	6	30
-4623	2	0	Black (6 Suits)	2018-04-05 — 05:37:18 UTC	Libster, sankala	643	6	30
+4625	2	0	Black (6 Suits)	2018-04-05 — 05:41:55 UTC	Libster, sankala	398	6	30
+4624	2	0	Black (6 Suits)	2018-04-05 — 05:39:23 UTC	Libster, sankala	553	6	30
+4623	2	0	Black (6 Suits)	2018-04-05 — 05:37:18 UTC	Libster, sankala	654	6	30
 4622	2	30	Black (6 Suits)	2018-04-05 — 05:32:29 UTC	sankala, Zamiel	36	6	30
 4621	2	0	Black (6 Suits)	2018-04-05 — 05:29:12 UTC	sankala, Zamiel	36	6	30
 4619	2	0	Black (6 Suits)	2018-04-05 — 05:28:04 UTC	sankala, Zamiel	37	6	30
@@ -1302,15 +1302,15 @@
 4587	2	0	Black (6 Suits)	2018-04-05 — 04:59:25 UTC	sankala, Zamiel	44	6	30
 4586	2	0	Black (6 Suits)	2018-04-05 — 04:58:54 UTC	sankala, Zamiel	44	6	30
 4585	2	0	Black (6 Suits)	2018-04-05 — 04:58:21 UTC	sankala, Zamiel	44	6	30
-4583	2	0	Black (6 Suits)	2018-04-05 — 04:57:18 UTC	sankala, Zamiel	48	6	30
-4581	2	0	Black (6 Suits)	2018-04-05 — 04:56:57 UTC	sankala, Zamiel	50	6	30
-4580	2	0	Black (6 Suits)	2018-04-05 — 04:56:46 UTC	sankala, Zamiel	50	6	30
-4579	2	0	Black (6 Suits)	2018-04-05 — 04:56:14 UTC	sankala, Zamiel	51	6	30
-4578	2	0	Black (6 Suits)	2018-04-05 — 04:54:42 UTC	sankala, Zamiel	51	6	30
-4577	2	0	Black (6 Suits)	2018-04-05 — 04:54:10 UTC	sankala, Zamiel	51	6	30
-4576	2	0	Black (6 Suits)	2018-04-05 — 04:53:15 UTC	sankala, Zamiel	56	6	30
-4575	2	0	Black (6 Suits)	2018-04-05 — 04:52:22 UTC	sankala, Zamiel	57	6	30
-4573	2	0	Black (6 Suits)	2018-04-05 — 04:49:41 UTC	sankala, Zamiel	58	6	30
+4583	2	0	Black (6 Suits)	2018-04-05 — 04:57:18 UTC	sankala, Zamiel	49	6	30
+4581	2	0	Black (6 Suits)	2018-04-05 — 04:56:57 UTC	sankala, Zamiel	51	6	30
+4580	2	0	Black (6 Suits)	2018-04-05 — 04:56:46 UTC	sankala, Zamiel	51	6	30
+4579	2	0	Black (6 Suits)	2018-04-05 — 04:56:14 UTC	sankala, Zamiel	52	6	30
+4578	2	0	Black (6 Suits)	2018-04-05 — 04:54:42 UTC	sankala, Zamiel	52	6	30
+4577	2	0	Black (6 Suits)	2018-04-05 — 04:54:10 UTC	sankala, Zamiel	52	6	30
+4576	2	0	Black (6 Suits)	2018-04-05 — 04:53:15 UTC	sankala, Zamiel	57	6	30
+4575	2	0	Black (6 Suits)	2018-04-05 — 04:52:22 UTC	sankala, Zamiel	58	6	30
+4573	2	0	Black (6 Suits)	2018-04-05 — 04:49:41 UTC	sankala, Zamiel	59	6	30
 4572	2	0	Black (6 Suits)	2018-04-05 — 04:49:32 UTC	sankala, Zamiel	59	6	30
 4571	2	0	Black (6 Suits)	2018-04-05 — 04:48:53 UTC	sankala, Zamiel	59	6	30
 4569	2	0	Black (6 Suits)	2018-04-05 — 04:48:27 UTC	sankala, Zamiel	60	6	30
@@ -1337,39 +1337,39 @@
 4544	2	0	Black (6 Suits)	2018-04-05 — 04:26:19 UTC	sankala, Zamiel	95	6	30
 4541	2	0	Black (6 Suits)	2018-04-05 — 04:25:00 UTC	sankala, Zamiel	97	6	30
 4540	2	0	Black (6 Suits)	2018-04-05 — 04:23:12 UTC	sankala, Zamiel	99	6	30
-4539	2	0	Black (6 Suits)	2018-04-05 — 04:21:47 UTC	sankala, Zamiel	101	6	30
-4538	2	0	Black (6 Suits)	2018-04-05 — 04:21:31 UTC	sankala, Zamiel	103	6	30
+4539	2	0	Black (6 Suits)	2018-04-05 — 04:21:47 UTC	sankala, Zamiel	102	6	30
+4538	2	0	Black (6 Suits)	2018-04-05 — 04:21:31 UTC	sankala, Zamiel	104	6	30
 4535	2	0	Black (6 Suits)	2018-04-05 — 04:20:38 UTC	sankala, Zamiel	109	6	30
-4534	2	0	Black (6 Suits)	2018-04-05 — 04:19:36 UTC	sankala, Zamiel	112	6	30
+4534	2	0	Black (6 Suits)	2018-04-05 — 04:19:36 UTC	sankala, Zamiel	113	6	30
 4532	2	0	Black (6 Suits)	2018-04-05 — 04:16:45 UTC	sankala, Zamiel	116	6	30
 4531	2	0	Black (6 Suits)	2018-04-05 — 04:16:14 UTC	sankala, Zamiel	122	6	30
 4529	2	0	Black (6 Suits)	2018-04-05 — 04:15:30 UTC	sankala, Zamiel	133	6	30
 4528	2	0	Black (6 Suits)	2018-04-05 — 04:14:06 UTC	sankala, Zamiel	135	6	30
 4527	2	0	Black (6 Suits)	2018-04-05 — 04:13:51 UTC	sankala, Zamiel	136	6	30
 4526	2	0	Black (6 Suits)	2018-04-05 — 04:13:39 UTC	sankala, Zamiel	137	6	30
-4525	2	0	Black (6 Suits)	2018-04-05 — 04:12:45 UTC	sankala, Zamiel	144	6	30
-4524	2	0	Black (6 Suits)	2018-04-05 — 04:10:50 UTC	sankala, Zamiel	152	6	30
-4523	2	0	Black (6 Suits)	2018-04-05 — 04:10:19 UTC	sankala, Zamiel	153	6	30
-4522	2	0	Black (6 Suits)	2018-04-05 — 04:10:11 UTC	sankala, Zamiel	157	6	30
-4520	2	0	Black (6 Suits)	2018-04-05 — 04:08:22 UTC	sankala, Zamiel	165	6	30
-4519	2	0	Black (6 Suits)	2018-04-05 — 04:06:24 UTC	sankala, Zamiel	167	6	30
-4518	2	0	Black (6 Suits)	2018-04-05 — 04:06:15 UTC	sankala, Zamiel	174	6	30
-4516	2	0	Black (6 Suits)	2018-04-05 — 04:05:57 UTC	sankala, Zamiel	186	6	30
-4515	2	0	Black (6 Suits)	2018-04-05 — 04:05:37 UTC	sankala, Zamiel	186	6	30
-4514	2	0	Black (6 Suits)	2018-04-05 — 04:03:41 UTC	sankala, Zamiel	192	6	30
-4513	2	0	Black (6 Suits)	2018-04-05 — 04:03:16 UTC	sankala, Zamiel	201	6	30
-4512	2	0	Black (6 Suits)	2018-04-05 — 04:01:57 UTC	sankala, Zamiel	214	6	30
-4510	2	0	Black (6 Suits)	2018-04-05 — 04:01:33 UTC	sankala, Zamiel	232	6	30
-4509	2	0	Black (6 Suits)	2018-04-05 — 04:01:12 UTC	sankala, Zamiel	239	6	30
-4508	2	0	Black (6 Suits)	2018-04-05 — 04:00:17 UTC	sankala, Zamiel	255	6	30
-4507	2	0	Black (6 Suits)	2018-04-05 — 03:59:35 UTC	sankala, Zamiel	275	6	30
-4506	2	0	Black (6 Suits)	2018-04-05 — 03:59:10 UTC	sankala, Zamiel	294	6	30
-4504	2	0	Black (6 Suits)	2018-04-05 — 03:58:28 UTC	sankala, Zamiel	325	6	30
-4503	2	0	Black (6 Suits)	2018-04-05 — 03:58:01 UTC	sankala, Zamiel	350	6	30
-4502	2	0	Black (6 Suits)	2018-04-05 — 03:56:59 UTC	sankala, Zamiel	442	6	30
-4463	3	0	No Variant	2018-04-04 — 00:52:19 UTC	Bob Dole, Razgovor, sankala	4221	5	25
-4462	4	0	No Variant	2018-04-04 — 00:25:36 UTC	Ahming, Bob Dole, Razgovor, sankala	2763	5	25
-4461	4	0	No Variant	2018-04-03 — 23:57:37 UTC	Ahming, Bob Dole, Razgovor, sankala	3581	5	25
+4525	2	0	Black (6 Suits)	2018-04-05 — 04:12:45 UTC	sankala, Zamiel	145	6	30
+4524	2	0	Black (6 Suits)	2018-04-05 — 04:10:50 UTC	sankala, Zamiel	153	6	30
+4523	2	0	Black (6 Suits)	2018-04-05 — 04:10:19 UTC	sankala, Zamiel	154	6	30
+4522	2	0	Black (6 Suits)	2018-04-05 — 04:10:11 UTC	sankala, Zamiel	159	6	30
+4520	2	0	Black (6 Suits)	2018-04-05 — 04:08:22 UTC	sankala, Zamiel	168	6	30
+4519	2	0	Black (6 Suits)	2018-04-05 — 04:06:24 UTC	sankala, Zamiel	170	6	30
+4518	2	0	Black (6 Suits)	2018-04-05 — 04:06:15 UTC	sankala, Zamiel	177	6	30
+4516	2	0	Black (6 Suits)	2018-04-05 — 04:05:57 UTC	sankala, Zamiel	189	6	30
+4515	2	0	Black (6 Suits)	2018-04-05 — 04:05:37 UTC	sankala, Zamiel	190	6	30
+4514	2	0	Black (6 Suits)	2018-04-05 — 04:03:41 UTC	sankala, Zamiel	196	6	30
+4513	2	0	Black (6 Suits)	2018-04-05 — 04:03:16 UTC	sankala, Zamiel	205	6	30
+4512	2	0	Black (6 Suits)	2018-04-05 — 04:01:57 UTC	sankala, Zamiel	218	6	30
+4510	2	0	Black (6 Suits)	2018-04-05 — 04:01:33 UTC	sankala, Zamiel	237	6	30
+4509	2	0	Black (6 Suits)	2018-04-05 — 04:01:12 UTC	sankala, Zamiel	244	6	30
+4508	2	0	Black (6 Suits)	2018-04-05 — 04:00:17 UTC	sankala, Zamiel	259	6	30
+4507	2	0	Black (6 Suits)	2018-04-05 — 03:59:35 UTC	sankala, Zamiel	283	6	30
+4506	2	0	Black (6 Suits)	2018-04-05 — 03:59:10 UTC	sankala, Zamiel	300	6	30
+4504	2	0	Black (6 Suits)	2018-04-05 — 03:58:28 UTC	sankala, Zamiel	332	6	30
+4503	2	0	Black (6 Suits)	2018-04-05 — 03:58:01 UTC	sankala, Zamiel	358	6	30
+4502	2	0	Black (6 Suits)	2018-04-05 — 03:56:59 UTC	sankala, Zamiel	450	6	30
+4463	3	0	No Variant	2018-04-04 — 00:52:19 UTC	Bob Dole, Razgovor, sankala	4250	5	25
+4462	4	0	No Variant	2018-04-04 — 00:25:36 UTC	Ahming, Bob Dole, Razgovor, sankala	2788	5	25
+4461	4	0	No Variant	2018-04-03 — 23:57:37 UTC	Ahming, Bob Dole, Razgovor, sankala	3609	5	25
 4460	5	0	Black (6 Suits)	2018-04-03 — 23:34:20 UTC	Ahming, florrat2, RaKXeR, sankala, Zamiel	14	6	30
 4459	5	0	Black (6 Suits)	2018-04-03 — 23:27:39 UTC	Ahming, florrat2, RaKXeR, sankala, Zamiel	14	6	30
 4458	4	0	6 Suits	2018-04-03 — 23:23:14 UTC	florrat2, RaKXeR, sankala, Zamiel	7	6	30
@@ -1377,10 +1377,10 @@
 4456	4	0	Rainbow (6 Suits)	2018-04-03 — 23:14:26 UTC	florrat2, RaKXeR, sankala, Zamiel	12	6	30
 4455	4	0	Rainbow (6 Suits)	2018-04-03 — 23:13:44 UTC	florrat2, RaKXeR, sankala, Zamiel	12	6	30
 4454	4	0	Rainbow (6 Suits)	2018-04-03 — 23:10:42 UTC	florrat2, RaKXeR, sankala, Zamiel	13	6	30
-4453	4	29	Rainbow (6 Suits)	2018-04-03 — 23:08:39 UTC	florrat2, RaKXeR, sankala, Zamiel	15	6	30
-4452	4	0	Rainbow (6 Suits)	2018-04-03 — 23:04:23 UTC	florrat2, RaKXeR, sankala, Zamiel	15	6	30
-4451	4	30	Rainbow (6 Suits)	2018-04-03 — 23:01:28 UTC	florrat2, RaKXeR, sankala, Zamiel	16	6	30
-4450	4	0	Rainbow (6 Suits)	2018-04-03 — 22:55:20 UTC	florrat2, RaKXeR, sankala, Zamiel	16	6	30
+4453	4	29	Rainbow (6 Suits)	2018-04-03 — 23:08:39 UTC	florrat2, RaKXeR, sankala, Zamiel	16	6	30
+4452	4	0	Rainbow (6 Suits)	2018-04-03 — 23:04:23 UTC	florrat2, RaKXeR, sankala, Zamiel	16	6	30
+4451	4	30	Rainbow (6 Suits)	2018-04-03 — 23:01:28 UTC	florrat2, RaKXeR, sankala, Zamiel	17	6	30
+4450	4	0	Rainbow (6 Suits)	2018-04-03 — 22:55:20 UTC	florrat2, RaKXeR, sankala, Zamiel	17	6	30
 4449	4	0	Rainbow (6 Suits)	2018-04-03 — 22:51:44 UTC	florrat2, RaKXeR, sankala, Zamiel	19	6	30
 4448	4	0	Rainbow (6 Suits)	2018-04-03 — 22:49:52 UTC	florrat2, RaKXeR, sankala, Zamiel	17	6	30
 4447	4	0	Rainbow (6 Suits)	2018-04-03 — 22:45:26 UTC	florrat2, RaKXeR, sankala, Zamiel	17	6	30
@@ -1389,10 +1389,10 @@
 4444	4	0	Rainbow (6 Suits)	2018-04-03 — 22:38:18 UTC	florrat2, RaKXeR, sankala, Zamiel	18	6	30
 4443	4	0	Rainbow (6 Suits)	2018-04-03 — 22:33:04 UTC	florrat2, RaKXeR, sankala, Zamiel	19	6	30
 4442	4	0	Rainbow (6 Suits)	2018-04-03 — 22:25:43 UTC	florrat2, RaKXeR, sankala, Zamiel	19	6	30
-4224	3	0	Black (6 Suits)	2018-03-20 — 20:15:06 UTC	Hyakinthus, nmego, sankala	108	6	30
-4223	3	24	Black (6 Suits)	2018-03-20 — 19:19:28 UTC	Hyakinthus, nmego, sankala	193	6	30
-4216	3	28	Rainbow (6 Suits)	2018-03-20 — 01:09:12 UTC	Mike, RaKXeR, sankala	332	6	30
-4215	3	25	No Variant	2018-03-19 — 23:22:02 UTC	EvilZamiel, RaKXeR, sankala	354	5	25
+4224	3	0	Black (6 Suits)	2018-03-20 — 20:15:06 UTC	Hyakinthus, nmego, sankala	111	6	30
+4223	3	24	Black (6 Suits)	2018-03-20 — 19:19:28 UTC	Hyakinthus, nmego, sankala	196	6	30
+4216	3	28	Rainbow (6 Suits)	2018-03-20 — 01:09:12 UTC	Mike, RaKXeR, sankala	335	6	30
+4215	3	25	No Variant	2018-03-19 — 23:22:02 UTC	EvilZamiel, RaKXeR, sankala	359	5	25
 4178	4	30	6 Suits	2018-03-18 — 02:08:17 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	8	6	30
 4177	4	0	6 Suits	2018-03-18 — 02:03:50 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	8	6	30
 4176	4	0	6 Suits	2018-03-18 — 02:01:24 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	8	6	30
@@ -1404,9 +1404,9 @@
 4169	4	0	6 Suits	2018-03-18 — 01:51:53 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	9	6	30
 4168	4	0	6 Suits	2018-03-18 — 01:46:48 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	10	6	30
 4167	4	0	6 Suits	2018-03-18 — 01:44:13 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	10	6	30
-4166	4	0	6 Suits	2018-03-18 — 01:42:51 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	10	6	30
-4165	4	0	6 Suits	2018-03-18 — 01:34:49 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	10	6	30
-4164	4	0	6 Suits	2018-03-18 — 01:29:46 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	12	6	30
+4166	4	0	6 Suits	2018-03-18 — 01:42:51 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	11	6	30
+4165	4	0	6 Suits	2018-03-18 — 01:34:49 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	11	6	30
+4164	4	0	6 Suits	2018-03-18 — 01:29:46 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	13	6	30
 4163	4	0	6 Suits	2018-03-18 — 01:27:11 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	13	6	30
 4162	4	0	6 Suits	2018-03-18 — 01:26:13 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	12	6	30
 4161	4	0	6 Suits	2018-03-18 — 01:25:27 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	13	6	30
@@ -1420,24 +1420,24 @@
 4153	4	0	6 Suits	2018-03-18 — 00:58:40 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	14	6	30
 4152	4	0	6 Suits	2018-03-18 — 00:55:37 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	14	6	30
 4151	4	0	6 Suits	2018-03-18 — 00:51:39 UTC	Instantiation, RaKXeR, sankala, Zamiel	14	6	30
-4150	4	0	6 Suits	2018-03-18 — 00:46:59 UTC	Instantiation, RaKXeR, sankala, Zamiel	15	6	30
-4149	4	0	6 Suits	2018-03-18 — 00:45:26 UTC	Instantiation, RaKXeR, sankala, Zamiel	14	6	30
-4148	4	0	6 Suits	2018-03-18 — 00:43:55 UTC	Instantiation, RaKXeR, sankala, Zamiel	16	6	30
+4150	4	0	6 Suits	2018-03-18 — 00:46:59 UTC	Instantiation, RaKXeR, sankala, Zamiel	16	6	30
+4149	4	0	6 Suits	2018-03-18 — 00:45:26 UTC	Instantiation, RaKXeR, sankala, Zamiel	16	6	30
+4148	4	0	6 Suits	2018-03-18 — 00:43:55 UTC	Instantiation, RaKXeR, sankala, Zamiel	17	6	30
 4147	4	0	6 Suits	2018-03-18 — 00:41:26 UTC	Instantiation, RaKXeR, sankala, Zamiel	18	6	30
 4146	3	28	Black (6 Suits)	2018-03-18 — 00:37:50 UTC	Instantiation, sankala, Zamiel	36	6	30
 4145	3	26	Black (6 Suits)	2018-03-18 — 00:34:16 UTC	Instantiation, sankala, Zamiel	38	6	30
 4144	3	0	Black (6 Suits)	2018-03-18 — 00:29:20 UTC	Instantiation, sankala, Zamiel	41	6	30
 4143	3	0	Black (6 Suits)	2018-03-18 — 00:25:15 UTC	Instantiation, sankala, Zamiel	43	6	30
-4142	3	0	Black (6 Suits)	2018-03-18 — 00:23:36 UTC	Instantiation, sankala, Zamiel	46	6	30
-4140	3	23	Black (6 Suits)	2018-03-18 — 00:22:23 UTC	Instantiation, sankala, Zamiel	52	6	30
-4139	3	0	Black (6 Suits)	2018-03-18 — 00:18:23 UTC	Instantiation, sankala, Zamiel	55	6	30
-4138	3	0	Black (6 Suits)	2018-03-18 — 00:15:43 UTC	Instantiation, sankala, Zamiel	56	6	30
-4137	3	28	Black (6 Suits)	2018-03-18 — 00:11:27 UTC	Instantiation, sankala, Zamiel	60	6	30
-4136	3	0	Black (6 Suits)	2018-03-18 — 00:08:23 UTC	Instantiation, sankala, Zamiel	62	6	30
-4135	3	0	Black (6 Suits)	2018-03-18 — 00:05:57 UTC	Instantiation, sankala, Zamiel	66	6	30
-4134	3	0	Black (6 Suits)	2018-03-18 — 00:05:14 UTC	Instantiation, sankala, Zamiel	69	6	30
-4133	3	0	Black (6 Suits)	2018-03-18 — 00:01:57 UTC	Instantiation, sankala, Zamiel	71	6	30
-4132	3	30	6 Suits	2018-03-17 — 23:58:25 UTC	Instantiation, sankala, Zamiel	147	6	30
+4142	3	0	Black (6 Suits)	2018-03-18 — 00:23:36 UTC	Instantiation, sankala, Zamiel	47	6	30
+4140	3	23	Black (6 Suits)	2018-03-18 — 00:22:23 UTC	Instantiation, sankala, Zamiel	53	6	30
+4139	3	0	Black (6 Suits)	2018-03-18 — 00:18:23 UTC	Instantiation, sankala, Zamiel	57	6	30
+4138	3	0	Black (6 Suits)	2018-03-18 — 00:15:43 UTC	Instantiation, sankala, Zamiel	58	6	30
+4137	3	28	Black (6 Suits)	2018-03-18 — 00:11:27 UTC	Instantiation, sankala, Zamiel	63	6	30
+4136	3	0	Black (6 Suits)	2018-03-18 — 00:08:23 UTC	Instantiation, sankala, Zamiel	64	6	30
+4135	3	0	Black (6 Suits)	2018-03-18 — 00:05:57 UTC	Instantiation, sankala, Zamiel	68	6	30
+4134	3	0	Black (6 Suits)	2018-03-18 — 00:05:14 UTC	Instantiation, sankala, Zamiel	70	6	30
+4133	3	0	Black (6 Suits)	2018-03-18 — 00:01:57 UTC	Instantiation, sankala, Zamiel	72	6	30
+4132	3	30	6 Suits	2018-03-17 — 23:58:25 UTC	Instantiation, sankala, Zamiel	149	6	30
 4044	4	30	6 Suits	2018-03-15 — 23:08:05 UTC	Ahming, Libster, postmans, sankala	18	6	30
 4043	4	0	6 Suits	2018-03-15 — 23:04:27 UTC	Ahming, Libster, postmans, sankala	18	6	30
 4042	4	0	6 Suits	2018-03-15 — 23:02:31 UTC	Ahming, Libster, postmans, sankala	19	6	30
@@ -1449,12 +1449,12 @@
 4036	4	0	6 Suits	2018-03-15 — 22:44:12 UTC	Ahming, Libster, postmans, sankala	24	6	30
 4035	4	0	6 Suits	2018-03-15 — 22:42:26 UTC	Ahming, Libster, postmans, sankala	25	6	30
 4034	4	28	6 Suits	2018-03-15 — 22:39:13 UTC	Ahming, Libster, postmans, sankala	25	6	30
-4033	4	29	6 Suits	2018-03-15 — 22:33:54 UTC	Ahming, Libster, postmans, sankala	25	6	30
-4032	4	0	6 Suits	2018-03-15 — 22:28:14 UTC	Ahming, Libster, postmans, sankala	26	6	30
-4031	4	30	6 Suits	2018-03-15 — 22:20:54 UTC	Ahming, Libster, postmans, sankala	28	6	30
-4030	4	0	6 Suits	2018-03-15 — 22:16:35 UTC	Ahming, Libster, postmans, sankala	49	6	30
-4029	4	0	6 Suits	2018-03-15 — 22:13:59 UTC	Ahming, Libster, postmans, sankala	59	6	30
-4028	4	0	6 Suits	2018-03-15 — 22:12:09 UTC	Ahming, Libster, postmans, sankala	68	6	30
+4033	4	29	6 Suits	2018-03-15 — 22:33:54 UTC	Ahming, Libster, postmans, sankala	27	6	30
+4032	4	0	6 Suits	2018-03-15 — 22:28:14 UTC	Ahming, Libster, postmans, sankala	29	6	30
+4031	4	30	6 Suits	2018-03-15 — 22:20:54 UTC	Ahming, Libster, postmans, sankala	29	6	30
+4030	4	0	6 Suits	2018-03-15 — 22:16:35 UTC	Ahming, Libster, postmans, sankala	51	6	30
+4029	4	0	6 Suits	2018-03-15 — 22:13:59 UTC	Ahming, Libster, postmans, sankala	60	6	30
+4028	4	0	6 Suits	2018-03-15 — 22:12:09 UTC	Ahming, Libster, postmans, sankala	69	6	30
 4027	4	0	6 Suits	2018-03-15 — 22:08:48 UTC	Ahming, Libster, postmans, sankala	81	6	30
 4026	5	0	Rainbow (6 Suits)	2018-03-15 — 22:06:00 UTC	Ahming, Libster, NotRaKXeR, postmans, sankala	20	6	30
 4025	5	0	Rainbow (6 Suits)	2018-03-15 — 22:01:53 UTC	Ahming, Libster, NotRaKXeR, postmans, sankala	20	6	30
@@ -1463,65 +1463,65 @@
 4022	5	0	Rainbow (6 Suits)	2018-03-15 — 21:46:56 UTC	Ahming, Libster, NotRaKXeR, postmans, sankala	21	6	30
 4021	5	0	Rainbow (6 Suits)	2018-03-15 — 21:42:05 UTC	Ahming, Libster, NotRaKXeR, postmans, sankala	22	6	30
 4020	4	0	6 Suits	2018-03-15 — 21:35:36 UTC	Libster, NotRaKXeR, postmans, sankala	100	6	30
-4019	4	0	6 Suits	2018-03-15 — 21:29:54 UTC	Libster, NotRaKXeR, postmans, sankala	120	6	30
-4018	4	0	6 Suits	2018-03-15 — 21:24:20 UTC	Libster, NotRaKXeR, postmans, sankala	151	6	30
+4019	4	0	6 Suits	2018-03-15 — 21:29:54 UTC	Libster, NotRaKXeR, postmans, sankala	122	6	30
+4018	4	0	6 Suits	2018-03-15 — 21:24:20 UTC	Libster, NotRaKXeR, postmans, sankala	152	6	30
 3984	5	30	6 Suits	2018-03-14 — 22:35:52 UTC	florrat2, NotRaKXeR, postmans, sankala, Zamiel	14	6	30
 3982	5	0	6 Suits	2018-03-14 — 22:31:36 UTC	florrat2, NotRaKXeR, postmans, sankala, Zamiel	16	6	30
 3981	5	29	6 Suits	2018-03-14 — 22:29:55 UTC	florrat2, NotRaKXeR, postmans, sankala, Zamiel	20	6	30
 3980	5	0	6 Suits	2018-03-14 — 22:23:29 UTC	florrat2, NotRaKXeR, postmans, sankala, Zamiel	23	6	30
-3979	5	0	6 Suits	2018-03-14 — 22:19:13 UTC	florrat2, NotRaKXeR, postmans, sankala, Zamiel	31	6	30
-3978	4	25	No Variant	2018-03-14 — 22:10:14 UTC	Libster, postmans, sankala, Zamiel	74	5	25
-3977	4	24	No Variant	2018-03-14 — 22:06:14 UTC	Libster, postmans, sankala, Zamiel	78	5	25
-3976	4	30	6 Suits	2018-03-14 — 21:58:35 UTC	Libster, postmans, sankala, Zamiel	31	6	30
+3979	5	0	6 Suits	2018-03-14 — 22:19:13 UTC	florrat2, NotRaKXeR, postmans, sankala, Zamiel	32	6	30
+3978	4	25	No Variant	2018-03-14 — 22:10:14 UTC	Libster, postmans, sankala, Zamiel	75	5	25
+3977	4	24	No Variant	2018-03-14 — 22:06:14 UTC	Libster, postmans, sankala, Zamiel	79	5	25
+3976	4	30	6 Suits	2018-03-14 — 21:58:35 UTC	Libster, postmans, sankala, Zamiel	32	6	30
 3974	5	0	6 Suits	2018-03-14 — 21:52:40 UTC	Libster, NotRaKXeR, postmans, sankala, Zamiel	35	6	30
 3973	5	0	6 Suits	2018-03-14 — 21:49:27 UTC	Libster, NotRaKXeR, postmans, sankala, Zamiel	40	6	30
 3972	5	0	6 Suits	2018-03-14 — 21:46:20 UTC	Libster, NotRaKXeR, postmans, sankala, Zamiel	45	6	30
 3971	5	0	6 Suits	2018-03-14 — 21:38:44 UTC	Libster, NotRaKXeR, postmans, sankala, Zamiel	54	6	30
-3970	4	0	6 Suits	2018-03-14 — 21:34:52 UTC	Libster, postmans, sankala, Zamiel	33	6	30
+3970	4	0	6 Suits	2018-03-14 — 21:34:52 UTC	Libster, postmans, sankala, Zamiel	34	6	30
 3969	5	0	6 Suits	2018-03-14 — 21:32:00 UTC	Libster, NotRaKXeR, postmans, sankala, Zamiel	69	6	30
-3968	5	25	No Variant	2018-03-14 — 21:24:10 UTC	Libster, NotRaKXeR, postmans, sankala, Zamiel	296	5	25
+3968	5	25	No Variant	2018-03-14 — 21:24:10 UTC	Libster, NotRaKXeR, postmans, sankala, Zamiel	302	5	25
 3967	5	30	Rainbow (6 Suits)	2018-03-14 — 21:15:46 UTC	Libster, NotRaKXeR, postmans, sankala, Zamiel	24	6	30
-3966	5	0	Rainbow (6 Suits)	2018-03-14 — 21:07:22 UTC	Libster, NotRaKXeR, postmans, sankala, Zamiel	27	6	30
-3965	5	0	Rainbow (6 Suits)	2018-03-14 — 21:02:21 UTC	Libster, NotRaKXeR, postmans, sankala, Zamiel	31	6	30
+3966	5	0	Rainbow (6 Suits)	2018-03-14 — 21:07:22 UTC	Libster, NotRaKXeR, postmans, sankala, Zamiel	28	6	30
+3965	5	0	Rainbow (6 Suits)	2018-03-14 — 21:02:21 UTC	Libster, NotRaKXeR, postmans, sankala, Zamiel	32	6	30
 3964	5	0	Rainbow (6 Suits)	2018-03-14 — 20:58:17 UTC	Libster, NotRaKXeR, postmans, sankala, Zamiel	39	6	30
 3963	5	0	Rainbow (6 Suits)	2018-03-14 — 20:54:33 UTC	Libster, NotRaKXeR, postmans, sankala, Zamiel	42	6	30
 3962	5	0	Rainbow (6 Suits)	2018-03-14 — 20:50:48 UTC	Libster, NotRaKXeR, postmans, sankala, Zamiel	49	6	30
-3961	5	0	Rainbow (6 Suits)	2018-03-14 — 20:42:32 UTC	Libster, NotRaKXeR, postmans, sankala, Zamiel	50	6	30
-3960	5	0	Rainbow (6 Suits)	2018-03-14 — 20:37:06 UTC	Libster, NotRaKXeR, postmans, sankala, Zamiel	59	6	30
-3959	5	0	Rainbow (6 Suits)	2018-03-14 — 20:34:50 UTC	Libster, NotRaKXeR, postmans, sankala, Zamiel	67	6	30
-3958	5	0	Rainbow (6 Suits)	2018-03-14 — 20:33:34 UTC	Libster, NotRaKXeR, postmans, sankala, Zamiel	101	6	30
+3961	5	0	Rainbow (6 Suits)	2018-03-14 — 20:42:32 UTC	Libster, NotRaKXeR, postmans, sankala, Zamiel	51	6	30
+3960	5	0	Rainbow (6 Suits)	2018-03-14 — 20:37:06 UTC	Libster, NotRaKXeR, postmans, sankala, Zamiel	60	6	30
+3959	5	0	Rainbow (6 Suits)	2018-03-14 — 20:34:50 UTC	Libster, NotRaKXeR, postmans, sankala, Zamiel	68	6	30
+3958	5	0	Rainbow (6 Suits)	2018-03-14 — 20:33:34 UTC	Libster, NotRaKXeR, postmans, sankala, Zamiel	102	6	30
 3957	4	0	Rainbow (6 Suits)	2018-03-14 — 20:27:58 UTC	Libster, NotRaKXeR, sankala, Zamiel	41	6	30
 3956	4	0	Rainbow (6 Suits)	2018-03-14 — 20:25:02 UTC	Libster, NotRaKXeR, sankala, Zamiel	44	6	30
 3955	4	0	Rainbow (6 Suits)	2018-03-14 — 20:21:05 UTC	Libster, NotRaKXeR, sankala, Zamiel	47	6	30
 3954	4	29	Rainbow (6 Suits)	2018-03-14 — 20:19:16 UTC	Libster, NotRaKXeR, sankala, Zamiel	47	6	30
 3953	4	0	Rainbow (6 Suits)	2018-03-14 — 20:13:59 UTC	Libster, NotRaKXeR, sankala, Zamiel	132	6	30
-3952	4	0	Rainbow (6 Suits)	2018-03-14 — 20:09:10 UTC	Libster, NotRaKXeR, sankala, Zamiel	185	6	30
-3951	4	0	Rainbow (6 Suits)	2018-03-14 — 20:07:44 UTC	Libster, NotRaKXeR, sankala, Zamiel	200	6	30
-3950	3	0	Rainbow (6 Suits)	2018-03-14 — 20:02:59 UTC	NotRaKXeR, sankala, Zamiel	689	6	30
-3792	4	29	Rainbow (6 Suits)	2018-03-11 — 20:18:07 UTC	Ahming, florrat2, GamerSKTrashCan, sankala	156	6	30
-3789	4	0	Rainbow (6 Suits)	2018-03-11 — 19:35:42 UTC	Ahming, florrat2, GamerSKTrashCan, sankala	163	6	30
-3788	3	0	Rainbow (6 Suits)	2018-03-11 — 19:12:53 UTC	Ahming, florrat2, sankala	91	6	30
-3787	3	30	6 Suits	2018-03-11 — 18:38:54 UTC	910dan, Mike, sankala	503	6	30
-3786	3	0	6 Suits	2018-03-11 — 17:40:11 UTC	Hyakinthus, Mike, sankala	60	6	30
-3785	3	0	6 Suits	2018-03-11 — 16:47:30 UTC	Hyakinthus, Mike, sankala	66	6	30
+3952	4	0	Rainbow (6 Suits)	2018-03-14 — 20:09:10 UTC	Libster, NotRaKXeR, sankala, Zamiel	188	6	30
+3951	4	0	Rainbow (6 Suits)	2018-03-14 — 20:07:44 UTC	Libster, NotRaKXeR, sankala, Zamiel	205	6	30
+3950	3	0	Rainbow (6 Suits)	2018-03-14 — 20:02:59 UTC	NotRaKXeR, sankala, Zamiel	693	6	30
+3792	4	29	Rainbow (6 Suits)	2018-03-11 — 20:18:07 UTC	Ahming, florrat2, GamerSKTrashCan, sankala	157	6	30
+3789	4	0	Rainbow (6 Suits)	2018-03-11 — 19:35:42 UTC	Ahming, florrat2, GamerSKTrashCan, sankala	164	6	30
+3788	3	0	Rainbow (6 Suits)	2018-03-11 — 19:12:53 UTC	Ahming, florrat2, sankala	93	6	30
+3787	3	30	6 Suits	2018-03-11 — 18:38:54 UTC	910dan, Mike, sankala	511	6	30
+3786	3	0	6 Suits	2018-03-11 — 17:40:11 UTC	Hyakinthus, Mike, sankala	61	6	30
+3785	3	0	6 Suits	2018-03-11 — 16:47:30 UTC	Hyakinthus, Mike, sankala	68	6	30
 3772	4	0	Very Ambiguous (6 Suits)	2018-03-10 — 19:14:01 UTC	Cory, Libster, Mike, sankala	15	6	30
 3771	4	30	Ambiguous (6 Suits)	2018-03-10 — 18:44:26 UTC	Cory, Libster, Mike, sankala	32	6	30
 3770	4	0	Ambiguous (6 Suits)	2018-03-10 — 18:14:14 UTC	Ahming, Cory, sankala, Zamiel	4	6	30
-3769	4	27	6 Suits	2018-03-10 — 17:40:48 UTC	Ahming, Cory, Hyakinthus, sankala	39	6	30
+3769	4	27	6 Suits	2018-03-10 — 17:40:48 UTC	Ahming, Cory, Hyakinthus, sankala	40	6	30
 3768	4	0	6 Suits	2018-03-10 — 16:55:50 UTC	910dan, Ahming, Hyakinthus, sankala	92	6	30
-3767	4	29	6 Suits	2018-03-10 — 16:20:45 UTC	910dan, Hyakinthus, RaKXeR, sankala	191	6	30
+3767	4	29	6 Suits	2018-03-10 — 16:20:45 UTC	910dan, Hyakinthus, RaKXeR, sankala	193	6	30
 3752	3	29	6 Suits	2018-03-09 — 20:27:05 UTC	Hyakinthus, sankala, Yeesh	76	6	30
-3751	3	0	6 Suits	2018-03-09 — 19:32:48 UTC	Hyakinthus, sankala, Yeesh	83	6	30
+3751	3	0	6 Suits	2018-03-09 — 19:32:48 UTC	Hyakinthus, sankala, Yeesh	84	6	30
 3750	3	0	6 Suits	2018-03-09 — 19:12:15 UTC	Hyakinthus, sankala, Yeesh	93	6	30
-3749	3	27	6 Suits	2018-03-09 — 18:23:36 UTC	Hyakinthus, nmego, sankala	99	6	30
-3748	3	0	6 Suits	2018-03-09 — 16:54:05 UTC	Hyakinthus, nmego, sankala	126	6	30
-3744	3	25	No Variant	2018-03-09 — 07:13:42 UTC	Hyakinthus, Mike, sankala	1465	5	25
-3733	4	30	6 Suits	2018-03-08 — 21:00:13 UTC	Chandra, nmego, sankala, Zamiel	47	6	30
-3732	3	25	No Variant	2018-03-08 — 20:21:20 UTC	nmego, sankala, Zamiel	102	5	25
+3749	3	27	6 Suits	2018-03-09 — 18:23:36 UTC	Hyakinthus, nmego, sankala	100	6	30
+3748	3	0	6 Suits	2018-03-09 — 16:54:05 UTC	Hyakinthus, nmego, sankala	128	6	30
+3744	3	25	No Variant	2018-03-09 — 07:13:42 UTC	Hyakinthus, Mike, sankala	1474	5	25
+3733	4	30	6 Suits	2018-03-08 — 21:00:13 UTC	Chandra, nmego, sankala, Zamiel	49	6	30
+3732	3	25	No Variant	2018-03-08 — 20:21:20 UTC	nmego, sankala, Zamiel	107	5	25
 3731	4	0	No Variant	2018-03-08 — 19:43:38 UTC	GamerSKTrashCan, nmego, sankala, Zamiel	129	5	25
-3730	3	0	No Variant	2018-03-08 — 19:25:19 UTC	GamerSKTrashCan, sankala, Zamiel	106	5	25
+3730	3	0	No Variant	2018-03-08 — 19:25:19 UTC	GamerSKTrashCan, sankala, Zamiel	111	5	25
 3729	3	29	Color Blind (6 Suits)	2018-03-08 — 19:07:23 UTC	910dan, sankala, Zamiel	2	6	30
-3706	3	0	Black (6 Suits)	2018-03-07 — 07:06:13 UTC	Mike, sankala, Zamiel	97	6	30
-3704	3	24	No Variant	2018-03-07 — 06:23:51 UTC	Mike, RaKXeR, sankala	459	5	25
-3703	3	0	No Variant	2018-03-07 — 06:08:50 UTC	Mike, RaKXeR, sankala	485	5	25
-3702	3	29	6 Suits	2018-03-07 — 05:49:01 UTC	Mike, RaKXeR, sankala	112	6	30
+3706	3	0	Black (6 Suits)	2018-03-07 — 07:06:13 UTC	Mike, sankala, Zamiel	100	6	30
+3704	3	24	No Variant	2018-03-07 — 06:23:51 UTC	Mike, RaKXeR, sankala	467	5	25
+3703	3	0	No Variant	2018-03-07 — 06:08:50 UTC	Mike, RaKXeR, sankala	491	5	25
+3702	3	29	6 Suits	2018-03-07 — 05:49:01 UTC	Mike, RaKXeR, sankala	113	6	30

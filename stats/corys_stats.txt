@@ -1,16 +1,86 @@
+522931	3	25	Brown (5 Suits)	2021-05-07 — 06:47:43 UTC	corys, qqqq, xor	41	5	25
+522917	4	0	Brown & Muddy Rainbow (6 Suits)	2021-05-07 — 06:24:57 UTC	corys, Lel0uch, qqqq, xor	1	6	30
+522909	4	0	Brown & Muddy Rainbow (6 Suits)	2021-05-07 — 06:11:32 UTC	corys, Lel0uch, qqqq, xor	2	6	30
+522903	2	0	Pink & Light Pink (6 Suits)	2021-05-07 — 06:01:40 UTC	corys, xor	13	6	30
+522892	2	0	Pink & Light Pink (6 Suits)	2021-05-07 — 05:53:53 UTC	corys, xor	14	6	30
+522834	4	30	Rainbow-Ones & Light Pink (6 Suits)	2021-05-07 — 04:25:44 UTC	corys, kevincaseytdk1, melwen, scharkbite	1	6	30
+522802	6	30	White-Ones & Brown (6 Suits)	2021-05-07 — 03:49:57 UTC	corys, indego, kevincaseytdk1, Lel0uch, melwen, scharkbite	3	6	30
+521985	2	20	Muddy Rainbow (4 Suits)	2021-05-06 — 06:24:57 UTC	corys, xor	10	4	20
+521982	2	0	Muddy Rainbow (4 Suits)	2021-05-06 — 06:14:57 UTC	corys, xor	10	4	20
+521981	2	0	Muddy Rainbow (4 Suits)	2021-05-06 — 06:12:50 UTC	corys, xor	10	4	20
+521974	2	19	Muddy Rainbow (4 Suits)	2021-05-06 — 06:02:34 UTC	corys, xor	16	4	20
+521970	2	0	Muddy Rainbow (4 Suits)	2021-05-06 — 05:54:36 UTC	corys, xor	30	4	20
+521968	2	19	Muddy Rainbow (4 Suits)	2021-05-06 — 05:49:52 UTC	corys, xor	49	4	20
+521081	2	0	Light Pink (4 Suits)	2021-05-05 — 06:24:40 UTC	corys, xor	20	4	20
+521074	2	0	Light Pink (4 Suits)	2021-05-05 — 06:12:25 UTC	corys, xor	29	4	20
+521072	2	18	Light Pink (4 Suits)	2021-05-05 — 06:08:03 UTC	corys, xor	48	4	20
+521057	6	19	Special Mix (5 Suits)	2021-05-05 — 05:36:18 UTC	Aluap, antitelharsic, cockdestroyer, corys, wump, xor	4	5	25
+521038	6	0	Special Mix (5 Suits)	2021-05-05 — 05:04:23 UTC	Aluap, antitelharsic, cockdestroyer, corys, wump, xor	6	5	25
+520254	2	15	Pink (3 Suits)	2021-05-04 — 06:17:26 UTC	corys, xor	54	3	15
+520248	2	13	Pink (3 Suits)	2021-05-04 — 06:06:36 UTC	corys, xor	65	3	15
+520241	2	13	Pink (3 Suits)	2021-05-04 — 05:55:43 UTC	corys, xor	89	3	15
+520235	2	15	Rainbow-Ones (3 Suits)	2021-05-04 — 05:46:20 UTC	corys, xor	21	3	15
+520226	2	15	Rainbow & White (3 Suits)	2021-05-04 — 05:36:12 UTC	corys, xor	35	3	15
+520221	2	15	Dual-Color (3 Suits)	2021-05-04 — 05:28:57 UTC	corys, xor	54	3	15
+520214	2	13	Prism (3 Suits)	2021-05-04 — 05:18:38 UTC	corys, xor	57	3	15
+519915	4	0	Brown-Ones & Brown (6 Suits)	2021-05-04 — 01:15:00 UTC	bjnh, corys, dobi, Lanvin	1	6	30
+519895	4	0	Brown-Ones & Brown (6 Suits)	2021-05-04 — 00:55:51 UTC	bjnh, corys, dobi, Lanvin	1	6	30
+519885	4	0	Brown-Ones & Brown (6 Suits)	2021-05-04 — 00:38:21 UTC	bjnh, corys, dobi, Lanvin	2	6	30
+519872	4	0	Brown-Ones & Brown (6 Suits)	2021-05-04 — 00:25:24 UTC	bjnh, corys, dobi, Lanvin	2	6	30
+519860	5	0	White & Prism (6 Suits)	2021-05-04 — 00:08:25 UTC	bjnh, corys, Lanvin, orucsoraihc, scharkbite	1	6	30
+519845	5	0	White & Prism (6 Suits)	2021-05-03 — 23:47:44 UTC	bjnh, corys, Lanvin, orucsoraihc, scharkbite	1	6	30
+519300	4	30	Rainbow-Ones & Prism (6 Suits)	2021-05-03 — 06:27:26 UTC	bjnh, corys, Lel0uch, xor	1	6	30
+519289	4	0	Rainbow-Ones & Prism (6 Suits)	2021-05-03 — 06:00:56 UTC	bjnh, corys, Lel0uch, xor	4	6	30
+519280	4	25	Brown-Ones & Pink (5 Suits)	2021-05-03 — 05:35:37 UTC	bjnh, corys, Lel0uch, xor	3	5	25
+519059	5	0	Brown-Ones & Pink (6 Suits)	2021-05-03 — 01:01:41 UTC	corys, Lanvin, Lel0uch, melwen, rz	1	6	30
+519034	3	24	Up or Down & Prism (5 Suits)	2021-05-03 — 00:16:01 UTC	aquarelle, corys, xor	9	5	25
+519001	3	0	Up or Down & Prism (5 Suits)	2021-05-03 — 00:02:01 UTC	aquarelle, corys, xor	10	5	25
+518944	2	23	Up or Down & Prism (5 Suits)	2021-05-02 — 23:18:24 UTC	corys, xor	19	5	25
+518935	3	0	Dual-Color Mix	2021-05-02 — 22:46:42 UTC	corys, IsabeltheCat, xor	30	6	30
+518932	3	0	Dual-Color Mix	2021-05-02 — 22:28:59 UTC	corys, IsabeltheCat, xor	43	6	30
+518755	3	24	Up or Down & Prism (5 Suits)	2021-05-02 — 18:26:31 UTC	corys, rz, xor	6	5	25
+518742	3	23	Up or Down & Prism (5 Suits)	2021-05-02 — 17:55:42 UTC	colton, corys, xor	11	5	25
+518458	4	19	Dual-Color & Brown (4 Suits)	2021-05-02 — 05:51:04 UTC	colton, corys, Lel0uch, xor	3	4	20
+518445	4	0	Omni (5 Suits)	2021-05-02 — 05:20:10 UTC	corys, Lel0uch, newduke, xor	4	5	25
+518424	5	28	Muddy Rainbow & Light Pink (6 Suits)	2021-05-02 — 04:52:52 UTC	corys, Lel0uch, newduke, sin_faith, xor	1	6	30
+518409	5	0	Muddy Rainbow & Light Pink (6 Suits)	2021-05-02 — 04:28:53 UTC	corys, Lel0uch, newduke, sin_faith, xor	1	6	30
+517988	2	15	White (3 Suits)	2021-05-01 — 21:03:08 UTC	corys, xor	12	3	15
+517980	2	14	White (3 Suits)	2021-05-01 — 20:59:46 UTC	corys, xor	13	3	15
+517973	2	14	White (3 Suits)	2021-05-01 — 20:53:08 UTC	corys, xor	21	3	15
+517970	2	14	White (3 Suits)	2021-05-01 — 20:49:18 UTC	corys, xor	35	3	15
+517960	2	14	White (3 Suits)	2021-05-01 — 20:38:40 UTC	corys, xor	48	3	15
+517954	2	0	White (3 Suits)	2021-05-01 — 20:33:05 UTC	corys, xor	73	3	15
+517951	2	15	White (3 Suits)	2021-05-01 — 20:31:51 UTC	corys, xor	100	3	15
+517932	3	0	Muddy Rainbow (4 Suits)	2021-05-01 — 20:21:56 UTC	corys, Onen, xor	2	4	20
+517909	3	0	Muddy Rainbow (4 Suits)	2021-05-01 — 20:05:46 UTC	corys, Onen, xor	3	4	20
+517603	3	20	Deceptive-Fives (4 Suits)	2021-05-01 — 07:00:34 UTC	Aluap, corys, xor	1	4	20
+517588	3	19	Deceptive-Fives (4 Suits)	2021-05-01 — 06:31:40 UTC	Aluap, corys, xor	4	4	20
+517102	2	0	Deceptive-Fives (4 Suits)	2021-04-30 — 21:11:30 UTC	corys, xor	7	4	20
+517085	2	20	Deceptive-Ones (4 Suits)	2021-04-30 — 20:53:01 UTC	corys, xor	4	4	20
+517076	2	17	Deceptive-Ones (4 Suits)	2021-04-30 — 20:42:37 UTC	corys, xor	6	4	20
+516571	2	30	Ambiguous (6 Suits)	2021-04-30 — 06:30:19 UTC	corys, xor	84	6	30
+516562	2	0	Ambiguous (6 Suits)	2021-04-30 — 06:08:29 UTC	corys, xor	107	6	30
+516551	3	24	Muddy-Rainbow-Ones & Brown (5 Suits)	2021-04-30 — 05:47:56 UTC	corys, dobi, xor	3	5	25
+514689	3	20	Brown (4 Suits)	2021-04-28 — 06:12:27 UTC	corys, newduke, xor	7	4	20
+514669	3	0	Brown (4 Suits)	2021-04-28 — 05:51:00 UTC	corys, newduke, xor	10	4	20
+514653	3	19	Brown (4 Suits)	2021-04-28 — 05:27:12 UTC	corys, newduke, xor	22	4	20
+512921	3	22	Up or Down & White (5 Suits)	2021-04-26 — 05:27:36 UTC	corys, wump, xor	13	5	25
+512899	2	20	Up or Down & White (5 Suits)	2021-04-26 — 04:53:00 UTC	corys, xor	23	5	25
+512883	2	24	Up or Down & White (5 Suits)	2021-04-26 — 04:37:13 UTC	corys, xor	26	5	25
+512868	2	0	Dual-Color (6 Suits)	2021-04-26 — 04:19:22 UTC	corys, xor	89	6	30
 511137	5	25	Rainbow & White (5 Suits)	2021-04-24 — 07:09:14 UTC	corys, derekcheah, dobi, Lel0uch, xor	4	5	25
-511126	3	24	Rainbow & White (5 Suits)	2021-04-24 — 06:38:30 UTC	corys, Lel0uch, xor	21	5	25
-511118	2	23	White (5 Suits)	2021-04-24 — 06:14:46 UTC	corys, xor	184	5	25
+511126	3	24	Rainbow & White (5 Suits)	2021-04-24 — 06:38:30 UTC	corys, Lel0uch, xor	22	5	25
+511118	2	23	White (5 Suits)	2021-04-24 — 06:14:46 UTC	corys, xor	187	5	25
 510034	5	29	Deceptive-Fives (6 Suits)	2021-04-23 — 05:37:31 UTC	corys, Fey, indego, Lel0uch, xor	4	6	30
-509203	3	25	No Variant	2021-04-22 — 06:16:52 UTC	corys, mgce, xor	645	5	25
-509200	2	23	Rainbow (5 Suits)	2021-04-22 — 05:57:23 UTC	corys, xor	154	5	25
-509197	2	0	Rainbow (5 Suits)	2021-04-22 — 05:45:35 UTC	corys, xor	248	5	25
+509203	3	25	No Variant	2021-04-22 — 06:16:52 UTC	corys, mgce, xor	655	5	25
+509200	2	23	Rainbow (5 Suits)	2021-04-22 — 05:57:23 UTC	corys, xor	159	5	25
+509197	2	0	Rainbow (5 Suits)	2021-04-22 — 05:45:35 UTC	corys, xor	257	5	25
 507358	3	23	Rainbow & Muddy Rainbow (5 Suits)	2021-04-20 — 06:24:41 UTC	corys, Lel0uch, xor	11	5	25
 506372	4	26	Rainbow-Ones & Muddy Rainbow (6 Suits)	2021-04-19 — 06:36:54 UTC	corys, dobi, Lel0uch, xor	1	6	30
 505108	5	23	Brown & Muddy Rainbow (5 Suits)	2021-04-18 — 06:16:01 UTC	corys, dobi, Fey, newduke, xor	2	5	25
 505030	3	30	Muddy Rainbow (6 Suits)	2021-04-18 — 04:37:01 UTC	corys, wump, xor	18	6	30
 503892	3	21	Rainbow & Brown (5 Suits)	2021-04-17 — 05:00:33 UTC	corys, Fey, xor	9	5	25
-503870	3	23	Rainbow & White (5 Suits)	2021-04-17 — 04:27:55 UTC	corys, Fey, xor	20	5	25
+503870	3	23	Rainbow & White (5 Suits)	2021-04-17 — 04:27:55 UTC	corys, Fey, xor	21	5	25
 502660	5	0	White & Light Pink (5 Suits)	2021-04-16 — 05:17:05 UTC	corys, indego, Lel0uch, newduke, xor	2	5	25
 502622	4	0	White & Light Pink (5 Suits)	2021-04-16 — 04:42:33 UTC	corys, indego, newduke, xor	6	5	25
 502578	4	0	Omni (4 Suits)	2021-04-16 — 04:08:44 UTC	corys, jeff10, newduke, xor	1	4	20
@@ -18,44 +88,44 @@
 501634	4	25	Pink & Brown (5 Suits)	2021-04-15 — 04:52:36 UTC	corys, Fey, qqqq, xor	15	5	25
 501618	3	25	Brown (5 Suits)	2021-04-15 — 04:26:02 UTC	corys, Fey, xor	11	5	25
 500696	4	25	Brown & Prism (5 Suits)	2021-04-14 — 05:49:56 UTC	bjnh, corys, squirrel1988, xor	10	5	25
-499495	4	23	Dual-Color & White (6 Suits)	2021-04-13 — 04:33:30 UTC	bjnh, corys, nwajfromoz, xor	3	6	30
-499410	4	0	White (6 Suits)	2021-04-13 — 03:41:50 UTC	corys, HelanaAshryvr, squirrel1988, xor	16	6	30
+499495	4	23	Dual-Color & White (6 Suits)	2021-04-13 — 04:33:30 UTC	bjnh, corys, nwajfromoz, xor	4	6	30
+499410	4	0	White (6 Suits)	2021-04-13 — 03:41:50 UTC	corys, HelanaAshryvr, squirrel1988, xor	17	6	30
 498221	4	0	Dual-Color & Prism (6 Suits)	2021-04-12 — 05:04:52 UTC	corys, indego, squirrel1988, xor	4	6	30
 498182	3	0	Dual-Color & Prism (6 Suits)	2021-04-12 — 04:43:18 UTC	corys, indego, xor	7	6	30
 498129	3	0	Rainbow & Light Pink (6 Suits)	2021-04-12 — 04:21:04 UTC	corys, indego, xor	11	6	30
-496768	4	29	White (6 Suits)	2021-04-11 — 00:14:44 UTC	corys, kinkajusrevenge, voss, xor	16	6	30
-496739	3	20	Pink (4 Suits)	2021-04-10 — 23:37:54 UTC	corys, kinkajusrevenge, xor	59	4	20
-496723	2	0	Light Pink (6 Suits)	2021-04-10 — 23:12:58 UTC	corys, xor	79	6	30
-484252	3	20	Dual-Color & Rainbow (4 Suits)	2021-03-29 — 05:58:23 UTC	corys, wump, xor	12	4	20
+496768	4	29	White (6 Suits)	2021-04-11 — 00:14:44 UTC	corys, kinkajusrevenge, voss, xor	17	6	30
+496739	3	20	Pink (4 Suits)	2021-04-10 — 23:37:54 UTC	corys, kinkajusrevenge, xor	60	4	20
+496723	2	0	Light Pink (6 Suits)	2021-04-10 — 23:12:58 UTC	corys, xor	81	6	30
+484252	3	20	Dual-Color & Rainbow (4 Suits)	2021-03-29 — 05:58:23 UTC	corys, wump, xor	13	4	20
 484235	3	24	Pink & Brown (5 Suits)	2021-03-29 — 05:28:18 UTC	corys, wump, xor	20	5	25
 484217	2	23	Pink & Brown (5 Suits)	2021-03-29 — 05:01:41 UTC	corys, xor	27	5	25
-484209	2	0	Pink & Brown (5 Suits)	2021-03-29 — 04:45:46 UTC	corys, xor	27	5	25
+484209	2	0	Pink & Brown (5 Suits)	2021-03-29 — 04:45:46 UTC	corys, xor	28	5	25
 483225	4	30	Up or Down (6 Suits)	2021-03-28 — 06:38:48 UTC	corys, dobi, wortel, xor	40	6	30
 483208	5	0	Up or Down & Prism (6 Suits)	2021-03-28 — 06:10:27 UTC	corys, dobi, Lel0uch, wortel, xor	7	6	30
 483204	4	0	Up or Down & Prism (6 Suits)	2021-03-28 — 05:58:33 UTC	corys, dobi, Lel0uch, xor	13	6	30
 483189	4	30	Muddy Rainbow & Light Pink (6 Suits)	2021-03-28 — 05:36:53 UTC	corys, dobi, Lel0uch, xor	2	6	30
 483137	4	0	Muddy Rainbow & Light Pink (6 Suits)	2021-03-28 — 05:09:22 UTC	corys, dobi, Lel0uch, xor	2	6	30
-482132	3	0	Pink (5 Suits)	2021-03-27 — 06:15:20 UTC	corys, voss, xor	49	5	25
-482116	4	19	Dark Pink (5 Suits)	2021-03-27 — 05:50:18 UTC	corys, dobi, voss, xor	20	5	25
-482074	4	29	6 Suits	2021-03-27 — 05:02:27 UTC	corys, PokyPickle, smeecow, xor	250	6	30
+482132	3	0	Pink (5 Suits)	2021-03-27 — 06:15:20 UTC	corys, voss, xor	51	5	25
+482116	4	19	Dark Pink (5 Suits)	2021-03-27 — 05:50:18 UTC	corys, dobi, voss, xor	21	5	25
+482074	4	29	6 Suits	2021-03-27 — 05:02:27 UTC	corys, PokyPickle, smeecow, xor	252	6	30
 479988	5	29	Rainbow & Brown (6 Suits)	2021-03-25 — 05:56:17 UTC	bjnh, corys, dobi, indego, xor	7	6	30
 479977	5	28	Dual-Color & Prism (6 Suits)	2021-03-25 — 05:25:51 UTC	corys, indego, Lel0uch, Onen, xor	3	6	30
-479970	2	29	Rainbow & Brown (6 Suits)	2021-03-25 — 05:00:48 UTC	corys, xor	35	6	30
+479970	2	29	Rainbow & Brown (6 Suits)	2021-03-25 — 05:00:48 UTC	corys, xor	37	6	30
 478912	4	23	Prism (5 Suits)	2021-03-24 — 06:55:36 UTC	corys, indego, kopen, newduke	4	5	25
 478907	4	0	Prism (5 Suits)	2021-03-24 — 06:34:52 UTC	corys, indego, kopen, newduke	4	5	25
 478900	4	0	Prism (5 Suits)	2021-03-24 — 06:22:33 UTC	corys, indego, kopen, newduke	4	5	25
 478890	5	18	Pink (4 Suits)	2021-03-24 — 05:52:36 UTC	bjnh, corys, indego, kopen, newduke	6	4	20
-478869	4	0	Gray (6 Suits)	2021-03-24 — 05:06:10 UTC	corys, Fey, newduke, Onen	18	6	30
-477821	4	30	Dual-Color & Rainbow (6 Suits)	2021-03-23 — 06:20:27 UTC	corys, pianoblook, possum, xor	12	6	30
+478869	4	0	Gray (6 Suits)	2021-03-24 — 05:06:10 UTC	corys, Fey, newduke, Onen	19	6	30
+477821	4	30	Dual-Color & Rainbow (6 Suits)	2021-03-23 — 06:20:27 UTC	corys, pianoblook, possum, xor	13	6	30
 477807	5	16	Dual-Color & Rainbow (4 Suits)	2021-03-23 — 05:37:56 UTC	bjnh, corys, possum, wump, xor	3	4	20
-476695	4	30	Brown (6 Suits)	2021-03-22 — 04:57:19 UTC	corys, griff77, possum, xor	27	6	30
-476456	4	25	Brown (5 Suits)	2021-03-22 — 00:14:23 UTC	corys, HelanaAshryvr, wolfpack, xor	46	5	25
-476440	3	0	Brown (5 Suits)	2021-03-21 — 23:46:10 UTC	corys, HelanaAshryvr, xor	79	5	25
-476417	2	27	Up or Down (6 Suits)	2021-03-21 — 23:21:13 UTC	corys, xor	49	6	30
-476395	2	0	Up or Down (6 Suits)	2021-03-21 — 23:04:58 UTC	corys, xor	60	6	30
-476386	2	0	Up or Down (6 Suits)	2021-03-21 — 22:56:29 UTC	corys, xor	75	6	30
+476695	4	30	Brown (6 Suits)	2021-03-22 — 04:57:19 UTC	corys, griff77, possum, xor	28	6	30
+476456	4	25	Brown (5 Suits)	2021-03-22 — 00:14:23 UTC	corys, HelanaAshryvr, wolfpack, xor	47	5	25
+476440	3	0	Brown (5 Suits)	2021-03-21 — 23:46:10 UTC	corys, HelanaAshryvr, xor	82	5	25
+476417	2	27	Up or Down (6 Suits)	2021-03-21 — 23:21:13 UTC	corys, xor	50	6	30
+476395	2	0	Up or Down (6 Suits)	2021-03-21 — 23:04:58 UTC	corys, xor	61	6	30
+476386	2	0	Up or Down (6 Suits)	2021-03-21 — 22:56:29 UTC	corys, xor	76	6	30
 475606	3	23	Rainbow & Prism (5 Suits)	2021-03-21 — 05:25:49 UTC	corys, orucsoraihc, xor	26	5	25
-475573	3	30	Rainbow & Prism (6 Suits)	2021-03-21 — 04:55:41 UTC	corys, orucsoraihc, xor	18	6	30
+475573	3	30	Rainbow & Prism (6 Suits)	2021-03-21 — 04:55:41 UTC	corys, orucsoraihc, xor	19	6	30
 475296	3	10	Rainbow & Brown (3 Suits)	2021-03-21 — 01:22:54 UTC	corys, Lanvin, melwen	8	3	15
 475282	4	0	Rainbow & Prism (3 Suits)	2021-03-21 — 01:03:30 UTC	corys, indego, Lanvin, melwen	2	3	15
 475267	5	27	White & Prism (6 Suits)	2021-03-21 — 00:38:47 UTC	corys, Doge, indego, Lanvin, spbsuitmo	4	6	30
@@ -70,13 +140,13 @@
 474235	3	25	Rainbow & Brown (5 Suits)	2021-03-20 — 01:18:09 UTC	corys, voss, xor	24	5	25
 474200	3	0	Rainbow & Brown (5 Suits)	2021-03-20 — 00:48:46 UTC	corys, voss, xor	25	5	25
 473380	3	0	Brown (6 Suits)	2021-03-19 — 05:02:42 UTC	corys, kinkajusrevenge, xor	84	6	30
-473300	4	26	Brown (6 Suits)	2021-03-19 — 04:09:49 UTC	corys, kinkajusrevenge, possum, xor	41	6	30
+473300	4	26	Brown (6 Suits)	2021-03-19 — 04:09:49 UTC	corys, kinkajusrevenge, possum, xor	42	6	30
 473213	3	0	Light-Pink-Fives (4 Suits)	2021-03-19 — 03:25:47 UTC	corys, kinkajusrevenge, xor	1	4	20
 472264	4	0	Dual-Color & White (6 Suits)	2021-03-18 — 06:02:18 UTC	corys, Fey, nkkarpov, xor	6	6	30
 472255	4	0	Dual-Color & White (6 Suits)	2021-03-18 — 05:38:07 UTC	corys, Fey, nkkarpov, xor	6	6	30
 472249	4	0	Dual-Color & White (6 Suits)	2021-03-18 — 05:23:00 UTC	corys, ksfortson, possum, xor	8	6	30
 472239	6	30	Rainbow-Ones & Muddy Rainbow (6 Suits)	2021-03-18 — 05:03:43 UTC	corys, griff77, ksfortson, MarcLovesDogs, possum, xor	1	6	30
-472182	3	30	Brown (6 Suits)	2021-03-18 — 03:56:20 UTC	corys, griff77, xor	52	6	30
+472182	3	30	Brown (6 Suits)	2021-03-18 — 03:56:20 UTC	corys, griff77, xor	53	6	30
 472129	3	29	Brown (6 Suits)	2021-03-18 — 03:13:50 UTC	corys, griff77, xor	61	6	30
 470980	4	0	Pink & Brown (6 Suits)	2021-03-17 — 04:36:13 UTC	Arcee, corys, kinkajusrevenge, xor	13	6	30
 470940	4	30	White-Ones & Prism (6 Suits)	2021-03-17 — 04:01:56 UTC	corys, padi, possum, xor	2	6	30
@@ -86,33 +156,33 @@
 469874	4	30	Rainbow & Prism (6 Suits)	2021-03-16 — 04:46:26 UTC	corys, Lel0uch, lolthisnotderk, xor	6	6	30
 469804	5	28	Rainbow & Prism (6 Suits)	2021-03-16 — 03:56:12 UTC	bjnh, corys, HelanaAshryvr, squirrel1988, xor	7	6	30
 468845	4	26	Rainbow & Prism (6 Suits)	2021-03-15 — 04:31:54 UTC	corys, IsabeltheCat, ksfortson, xor	9	6	30
-468818	4	0	Rainbow & Prism (6 Suits)	2021-03-15 — 03:59:09 UTC	corys, IsabeltheCat, ksfortson, xor	13	6	30
+468818	4	0	Rainbow & Prism (6 Suits)	2021-03-15 — 03:59:09 UTC	corys, IsabeltheCat, ksfortson, xor	14	6	30
 468801	5	0	Rainbow & Prism (6 Suits)	2021-03-15 — 03:40:02 UTC	bjnh, corys, IsabeltheCat, ksfortson, xor	11	6	30
 468773	4	0	Rainbow & Prism (6 Suits)	2021-03-15 — 03:08:01 UTC	bjnh, corys, IsabeltheCat, xor	16	6	30
 468605	4	0	Pink (4 Suits)	2021-03-15 — 00:56:31 UTC	corys, MarcLovesDogs, melwen, rz	6	4	20
-468528	3	25	Prism (5 Suits)	2021-03-14 — 23:44:52 UTC	aquarelle, bjnh, corys	45	5	25
+468528	3	25	Prism (5 Suits)	2021-03-14 — 23:44:52 UTC	aquarelle, bjnh, corys	47	5	25
 468498	6	0	Prism (5 Suits)	2021-03-14 — 23:14:34 UTC	aquarelle, bjnh, ChristopheAF, corys, HelanaAshryvr, Lanvin	2	5	25
 468492	6	0	Prism (5 Suits)	2021-03-14 — 23:06:23 UTC	aquarelle, bjnh, ChristopheAF, corys, HelanaAshryvr, Lanvin	3	5	25
 468477	5	0	Dark Prism (6 Suits)	2021-03-14 — 22:51:44 UTC	bjnh, ChristopheAF, corys, HelanaAshryvr, Lanvin	6	6	30
 467842	4	0	Black (5 Suits)	2021-03-14 — 07:28:05 UTC	corys, IsabeltheCat, mestrepoke, possum	16	5	25
 467834	4	22	Black (5 Suits)	2021-03-14 — 07:04:08 UTC	corys, IsabeltheCat, mestrepoke, possum	32	5	25
-467823	3	0	Black & Rainbow (5 Suits)	2021-03-14 — 06:34:48 UTC	corys, IsabeltheCat, ksfortson	24	5	25
+467823	3	0	Black & Rainbow (5 Suits)	2021-03-14 — 06:34:48 UTC	corys, IsabeltheCat, ksfortson	25	5	25
 467813	3	0	Black & Rainbow (5 Suits)	2021-03-14 — 06:17:42 UTC	corys, IsabeltheCat, ksfortson	26	5	25
 467801	4	0	Prism (6 Suits)	2021-03-14 — 05:54:05 UTC	corys, PokyPickle, smeecow, xor	23	6	30
 467762	4	29	Prism (6 Suits)	2021-03-14 — 05:10:20 UTC	corys, PokyPickle, smeecow, xor	26	6	30
-467724	4	25	No Variant	2021-03-14 — 04:37:11 UTC	corys, PokyPickle, smeecow, xor	899	5	25
+467724	4	25	No Variant	2021-03-14 — 04:37:11 UTC	corys, PokyPickle, smeecow, xor	908	5	25
 467303	4	0	Black & Prism (6 Suits)	2021-03-14 — 00:43:19 UTC	asaelr, corys, hakha3, Lanvin	6	6	30
 466536	5	30	Pink (6 Suits)	2021-03-13 — 06:27:57 UTC	Bot-Fiora, corys, ksfortson, possum, wortel	8	6	30
 466506	5	29	Pink (6 Suits)	2021-03-13 — 05:52:18 UTC	Bot-Fiora, corys, ksfortson, possum, wortel	13	6	30
 466484	4	24	Pink (5 Suits)	2021-03-13 — 05:21:45 UTC	Bot-Fiora, corys, ksfortson, possum	69	5	25
-466436	3	0	Rainbow (4 Suits)	2021-03-13 — 04:35:37 UTC	corys, ksfortson, possum	84	4	20
+466436	3	0	Rainbow (4 Suits)	2021-03-13 — 04:35:37 UTC	corys, ksfortson, possum	85	4	20
 465496	5	0	Light Pink (6 Suits)	2021-03-12 — 06:36:59 UTC	bjnh, corys, ksfortson, rahsosprout, xor	11	6	30
-465472	4	23	Gray (5 Suits)	2021-03-12 — 05:58:28 UTC	bjnh, corys, Lel0uch, xor	22	5	25
-465448	3	30	Rainbow (6 Suits)	2021-03-12 — 05:36:49 UTC	bjnh, corys, xor	689	6	30
-465291	4	24	No Variant	2021-03-12 — 03:54:39 UTC	corys, PokyPickle, smeecow, xor	985	5	25
+465472	4	23	Gray (5 Suits)	2021-03-12 — 05:58:28 UTC	bjnh, corys, Lel0uch, xor	23	5	25
+465448	3	30	Rainbow (6 Suits)	2021-03-12 — 05:36:49 UTC	bjnh, corys, xor	693	6	30
+465291	4	24	No Variant	2021-03-12 — 03:54:39 UTC	corys, PokyPickle, smeecow, xor	994	5	25
 464449	4	23	Rainbow & Prism (5 Suits)	2021-03-11 — 07:38:42 UTC	corys, ksfortson, rahsosprout, xor	9	5	25
-464357	4	24	No Variant	2021-03-11 — 05:01:08 UTC	corys, PokyPickle, smeecow, xor	1092	5	25
-464332	4	30	6 Suits	2021-03-11 — 04:30:57 UTC	corys, PokyPickle, smeecow, xor	354	6	30
+464357	4	24	No Variant	2021-03-11 — 05:01:08 UTC	corys, PokyPickle, smeecow, xor	1103	5	25
+464332	4	30	6 Suits	2021-03-11 — 04:30:57 UTC	corys, PokyPickle, smeecow, xor	359	6	30
 463396	4	0	Dual-Color (5 Suits)	2021-03-10 — 07:04:53 UTC	BraydonM, corys, skyblueexo, xor	20	5	25
 463382	4	23	Dual-Color (5 Suits)	2021-03-10 — 06:31:38 UTC	BraydonM, corys, skyblueexo, xor	37	5	25
 463332	4	29	Brown (6 Suits)	2021-03-10 — 05:28:43 UTC	Bot-Fiora, corys, griff77, TimeHoodie	16	6	30
@@ -121,62 +191,62 @@
 463213	3	0	Muddy Rainbow (5 Suits)	2021-03-10 — 03:34:44 UTC	bjnh, corys, griff77	46	5	25
 462240	3	0	Omni (5 Suits)	2021-03-09 — 07:12:33 UTC	bjnh, corys, xor	31	5	25
 462227	3	0	Omni (5 Suits)	2021-03-09 — 06:49:32 UTC	bjnh, corys, xor	50	5	25
-462215	3	0	Dual-Color (6 Suits)	2021-03-09 — 06:33:14 UTC	bjnh, corys, xor	66	6	30
-462193	3	25	Brown (5 Suits)	2021-03-09 — 06:04:33 UTC	bjnh, corys, xor	63	5	25
-461171	3	21	Dual-Color (5 Suits)	2021-03-08 — 06:00:37 UTC	corys, skyblueexo, xor	69	5	25
+462215	3	0	Dual-Color (6 Suits)	2021-03-09 — 06:33:14 UTC	bjnh, corys, xor	67	6	30
+462193	3	25	Brown (5 Suits)	2021-03-09 — 06:04:33 UTC	bjnh, corys, xor	65	5	25
+461171	3	21	Dual-Color (5 Suits)	2021-03-08 — 06:00:37 UTC	corys, skyblueexo, xor	70	5	25
 460931	4	23	Muddy Rainbow (5 Suits)	2021-03-08 — 02:18:55 UTC	corys, griff77, ksfortson, nkkarpov	23	5	25
-460834	2	0	Dual-Color (5 Suits)	2021-03-08 — 01:07:29 UTC	corys, xor	74	5	25
-460817	2	0	Dual-Color (5 Suits)	2021-03-08 — 00:56:39 UTC	corys, xor	85	5	25
-460810	2	0	Omni (6 Suits)	2021-03-08 — 00:44:02 UTC	corys, xor	121	6	30
-459939	3	25	Dual-Color (5 Suits)	2021-03-07 — 07:56:05 UTC	corys, wortel, xor	2	5	25
+460834	2	0	Dual-Color (5 Suits)	2021-03-08 — 01:07:29 UTC	corys, xor	76	5	25
+460817	2	0	Dual-Color (5 Suits)	2021-03-08 — 00:56:39 UTC	corys, xor	87	5	25
+460810	2	0	Omni (6 Suits)	2021-03-08 — 00:44:02 UTC	corys, xor	124	6	30
+459939	3	25	Dual-Color (5 Suits)	2021-03-07 — 07:56:05 UTC	corys, wortel, xor	3	5	25
 459920	4	25	Pink-Ones (5 Suits)	2021-03-07 — 07:22:37 UTC	corys, lolthisnotderk, wortel, xor	11	5	25
 459902	3	18	Pink-Ones (4 Suits)	2021-03-07 — 06:49:14 UTC	corys, lolthisnotderk, xor	3	4	20
 459884	3	0	Pink-Ones (4 Suits)	2021-03-07 — 06:24:01 UTC	corys, lolthisnotderk, xor	6	4	20
-459790	3	30	Rainbow & White (6 Suits)	2021-03-07 — 04:24:57 UTC	corys, indego, xor	46	6	30
+459790	3	30	Rainbow & White (6 Suits)	2021-03-07 — 04:24:57 UTC	corys, indego, xor	48	6	30
 458702	6	0	Null (5 Suits)	2021-03-06 — 07:14:21 UTC	Bot-Fiora, corys, griff77, ksfortson, possum, xor	2	5	25
 458659	6	0	Null (5 Suits)	2021-03-06 — 06:29:19 UTC	Bot-Fiora, corys, griff77, ksfortson, possum, xor	5	5	25
-458601	4	24	Null (5 Suits)	2021-03-06 — 05:51:01 UTC	Bot-Fiora, corys, griff77, possum	26	5	25
+458601	4	24	Null (5 Suits)	2021-03-06 — 05:51:01 UTC	Bot-Fiora, corys, griff77, possum	27	5	25
 457401	4	25	White & Brown (5 Suits)	2021-03-05 — 06:58:10 UTC	bjnh, corys, HelanaAshryvr, squirrel1988	8	5	25
 457389	4	0	White & Brown (5 Suits)	2021-03-05 — 06:41:06 UTC	bjnh, corys, HelanaAshryvr, squirrel1988	12	5	25
 457371	4	0	White & Brown (5 Suits)	2021-03-05 — 06:24:28 UTC	bjnh, corys, HelanaAshryvr, squirrel1988	18	5	25
 457354	4	25	White & Prism (5 Suits)	2021-03-05 — 06:04:41 UTC	bjnh, corys, torp, xor	5	5	25
 457327	4	21	Dark Prism (5 Suits)	2021-03-05 — 05:36:14 UTC	bjnh, corys, torp, xor	17	5	25
-457297	4	24	Rainbow & White (5 Suits)	2021-03-05 — 05:06:15 UTC	bjnh, corys, Lel0uch, xor	23	5	25
-456103	3	14	3 Suits	2021-03-04 — 05:34:28 UTC	bjnh, corys, eliclax	51	3	15
+457297	4	24	Rainbow & White (5 Suits)	2021-03-05 — 05:06:15 UTC	bjnh, corys, Lel0uch, xor	24	5	25
+456103	3	14	3 Suits	2021-03-04 — 05:34:28 UTC	bjnh, corys, eliclax	52	3	15
 456062	4	0	Brown-Ones & White (5 Suits)	2021-03-04 — 05:18:32 UTC	corys, eliclax, torp, xor	5	5	25
 456021	4	25	Brown-Ones & White (5 Suits)	2021-03-04 — 05:01:14 UTC	corys, eliclax, torp, xor	7	5	25
-455995	4	0	Rainbow & White (6 Suits)	2021-03-04 — 04:33:39 UTC	corys, eliclax, griff77, xor	12	6	30
-455982	4	0	Rainbow & White (6 Suits)	2021-03-04 — 04:19:42 UTC	corys, eliclax, griff77, xor	16	6	30
+455995	4	0	Rainbow & White (6 Suits)	2021-03-04 — 04:33:39 UTC	corys, eliclax, griff77, xor	13	6	30
+455982	4	0	Rainbow & White (6 Suits)	2021-03-04 — 04:19:42 UTC	corys, eliclax, griff77, xor	17	6	30
 455108	5	0	Brown (6 Suits)	2021-03-03 — 06:37:25 UTC	Bot-Fiora, corys, griff77, lolthisnotderk, xor	21	6	30
-455085	5	30	6 Suits	2021-03-03 — 05:54:35 UTC	Bot-Fiora, corys, eliclax, griff77, xor	132	6	30
+455085	5	30	6 Suits	2021-03-03 — 05:54:35 UTC	Bot-Fiora, corys, eliclax, griff77, xor	133	6	30
 454958	5	0	White & Dark Rainbow (6 Suits)	2021-03-03 — 04:24:53 UTC	corys, Lel0uch, pianoblook, TimeHoodie, xor	1	6	30
 454935	5	26	White & Dark Rainbow (6 Suits)	2021-03-03 — 04:08:17 UTC	corys, Lel0uch, pianoblook, TimeHoodie, xor	1	6	30
 454901	5	0	White & Dark Rainbow (6 Suits)	2021-03-03 — 03:49:09 UTC	corys, Lel0uch, pianoblook, TimeHoodie, xor	1	6	30
 453970	4	20	Prism (4 Suits)	2021-03-02 — 06:27:39 UTC	bjnh, corys, nwajfromoz, xor	11	4	20
-453957	4	19	Prism (4 Suits)	2021-03-02 — 06:03:15 UTC	bjnh, corys, nwajfromoz, xor	13	4	20
-453946	4	0	Black & White (6 Suits)	2021-03-02 — 05:47:17 UTC	bjnh, corys, Onen, xor	22	6	30
+453957	4	19	Prism (4 Suits)	2021-03-02 — 06:03:15 UTC	bjnh, corys, nwajfromoz, xor	14	4	20
+453946	4	0	Black & White (6 Suits)	2021-03-02 — 05:47:17 UTC	bjnh, corys, Onen, xor	23	6	30
 453941	4	0	Black & White (6 Suits)	2021-03-02 — 05:42:25 UTC	bjnh, corys, Onen, xor	29	6	30
-453930	3	24	White-Ones (5 Suits)	2021-03-02 — 05:26:43 UTC	bjnh, corys, xor	20	5	25
-453901	4	25	Brown (5 Suits)	2021-03-02 — 04:52:40 UTC	aquarelle, bjnh, corys, xor	19	5	25
-453881	4	0	Brown (5 Suits)	2021-03-02 — 04:35:29 UTC	aquarelle, bjnh, corys, xor	27	5	25
-452901	3	30	Pink (6 Suits)	2021-03-01 — 06:31:00 UTC	corys, pianoblook, xor	131	6	30
+453930	3	24	White-Ones (5 Suits)	2021-03-02 — 05:26:43 UTC	bjnh, corys, xor	21	5	25
+453901	4	25	Brown (5 Suits)	2021-03-02 — 04:52:40 UTC	aquarelle, bjnh, corys, xor	20	5	25
+453881	4	0	Brown (5 Suits)	2021-03-02 — 04:35:29 UTC	aquarelle, bjnh, corys, xor	28	5	25
+452901	3	30	Pink (6 Suits)	2021-03-01 — 06:31:00 UTC	corys, pianoblook, xor	132	6	30
 452873	5	29	Rainbow (6 Suits)	2021-03-01 — 05:44:05 UTC	corys, Lel0uch, nkkarpov, torp, xor	42	6	30
-452847	5	29	Rainbow (6 Suits)	2021-03-01 — 05:04:50 UTC	corys, Lel0uch, nkkarpov, torp, xor	59	6	30
-452799	3	27	Rainbow (6 Suits)	2021-03-01 — 04:28:10 UTC	corys, torp, xor	141	6	30
-452289	4	23	No Variant	2021-02-28 — 21:03:09 UTC	corys, PokyPickle, smeecow, xor	1253	5	25
-452209	4	23	No Variant	2021-02-28 — 20:28:45 UTC	corys, PokyPickle, smeecow, xor	1449	5	25
-451822	3	25	Prism (5 Suits)	2021-02-28 — 08:21:15 UTC	corys, wortel, xor	80	5	25
+452847	5	29	Rainbow (6 Suits)	2021-03-01 — 05:04:50 UTC	corys, Lel0uch, nkkarpov, torp, xor	60	6	30
+452799	3	27	Rainbow (6 Suits)	2021-03-01 — 04:28:10 UTC	corys, torp, xor	144	6	30
+452289	4	23	No Variant	2021-02-28 — 21:03:09 UTC	corys, PokyPickle, smeecow, xor	1267	5	25
+452209	4	23	No Variant	2021-02-28 — 20:28:45 UTC	corys, PokyPickle, smeecow, xor	1459	5	25
+451822	3	25	Prism (5 Suits)	2021-02-28 — 08:21:15 UTC	corys, wortel, xor	82	5	25
 451809	4	30	Prism (6 Suits)	2021-02-28 — 07:49:38 UTC	colton, corys, wortel, xor	53	6	30
-451780	2	0	White & Prism (6 Suits)	2021-02-28 — 07:04:37 UTC	corys, xor	23	6	30
-451723	4	22	No Variant	2021-02-28 — 05:59:14 UTC	corys, PokyPickle, smeecow, xor	1744	5	25
-451701	4	24	No Variant	2021-02-28 — 05:30:02 UTC	corys, PokyPickle, smeecow, xor	2076	5	25
-451663	4	25	No Variant	2021-02-28 — 04:56:56 UTC	corys, PokyPickle, smeecow, xor	2763	5	25
-451600	4	25	No Variant	2021-02-28 — 04:21:16 UTC	corys, PokyPickle, smeecow, xor	3581	5	25
-451375	6	28	White (6 Suits)	2021-02-28 — 01:11:14 UTC	bjnh, corys, griff77, HelanaAshryvr, MangoPie, melwen	9	6	30
-451335	3	25	Rainbow-Ones & White (5 Suits)	2021-02-28 — 00:19:13 UTC	4head, corys, newduke	9	5	25
+451780	2	0	White & Prism (6 Suits)	2021-02-28 — 07:04:37 UTC	corys, xor	24	6	30
+451723	4	22	No Variant	2021-02-28 — 05:59:14 UTC	corys, PokyPickle, smeecow, xor	1759	5	25
+451701	4	24	No Variant	2021-02-28 — 05:30:02 UTC	corys, PokyPickle, smeecow, xor	2094	5	25
+451663	4	25	No Variant	2021-02-28 — 04:56:56 UTC	corys, PokyPickle, smeecow, xor	2788	5	25
+451600	4	25	No Variant	2021-02-28 — 04:21:16 UTC	corys, PokyPickle, smeecow, xor	3609	5	25
+451375	6	28	White (6 Suits)	2021-02-28 — 01:11:14 UTC	bjnh, corys, griff77, HelanaAshryvr, MangoPie, melwen	10	6	30
+451335	3	25	Rainbow-Ones & White (5 Suits)	2021-02-28 — 00:19:13 UTC	4head, corys, newduke	10	5	25
 451103	5	27	Prism (6 Suits)	2021-02-27 — 20:37:43 UTC	asaelr, Bonja97, corys, eljavi, xor	9	6	30
 451067	4	0	White & Prism (6 Suits)	2021-02-27 — 20:04:53 UTC	asaelr, corys, eljavi, xor	7	6	30
-450627	4	20	Black (5 Suits)	2021-02-27 — 05:56:30 UTC	bjnh, corys, HelanaAshryvr, xor	36	5	25
+450627	4	20	Black (5 Suits)	2021-02-27 — 05:56:30 UTC	bjnh, corys, HelanaAshryvr, xor	37	5	25
 450587	6	0	White (6 Suits)	2021-02-27 — 05:22:34 UTC	bjnh, corys, HelanaAshryvr, Lanvin, squirrel1988, xor	12	6	30
 449729	4	29	Prism (6 Suits)	2021-02-26 — 07:34:57 UTC	bjnh, corys, kopen, xor	35	6	30
 449698	4	0	Pink (5 Suits)	2021-02-26 — 06:40:04 UTC	bjnh, corys, Fey, xor	17	5	25
@@ -185,8 +255,8 @@
 447532	4	25	Prism (5 Suits)	2021-02-24 — 06:20:11 UTC	corys, Fey, griff77, xor	20	5	25
 447494	5	28	6 Suits	2021-02-24 — 05:32:08 UTC	corys, griff77, rahsosprout, wolfpack, xor	54	6	30
 447436	4	0	Rainbow-Ones & Rainbow (5 Suits)	2021-02-24 — 04:30:26 UTC	corys, griff77, wolfpack, xor	4	5	25
-446500	5	0	Rainbow (6 Suits)	2021-02-23 — 06:52:02 UTC	catula, corys, kopen, Lel0uch, xor	31	6	30
-446474	4	25	No Variant	2021-02-23 — 06:13:58 UTC	corys, kopen, Lel0uch, xor	717	5	25
+446500	5	0	Rainbow (6 Suits)	2021-02-23 — 06:52:02 UTC	catula, corys, kopen, Lel0uch, xor	32	6	30
+446474	4	25	No Variant	2021-02-23 — 06:13:58 UTC	corys, kopen, Lel0uch, xor	724	5	25
 446445	5	0	No Variant	2021-02-23 — 05:48:44 UTC	corys, indego, Lel0uch, xor, Zamiel	1	5	25
 446415	5	0	No Variant	2021-02-23 — 05:27:05 UTC	corys, indego, Lel0uch, xor, Zamiel	1	5	25
 444964	5	21	Rainbow & White (5 Suits)	2021-02-22 — 01:32:29 UTC	bjnh, corys, Lanvin, squirrel1988, xor	3	5	25
@@ -196,8 +266,8 @@
 443957	4	25	Rainbow (5 Suits)	2021-02-21 — 03:56:32 UTC	corys, Lel0uch, xor, Zamiel	12	5	25
 443855	3	25	No Variant	2021-02-21 — 03:01:52 UTC	corys, xor, Zamiel	5	5	25
 442985	4	20	Prism (5 Suits)	2021-02-20 — 06:58:43 UTC	corys, FerKeth, Onen, xor	14	5	25
-442962	4	0	Prism (5 Suits)	2021-02-20 — 06:33:37 UTC	corys, FerKeth, Onen, xor	29	5	25
+442962	4	0	Prism (5 Suits)	2021-02-20 — 06:33:37 UTC	corys, FerKeth, Onen, xor	31	5	25
 442952	6	0	Prism (6 Suits)	2021-02-20 — 06:13:39 UTC	corys, FerKeth, ksfortson, Lel0uch, Onen, xor	3	6	30
 442923	6	25	No Variant	2021-02-20 — 05:37:40 UTC	corys, FerKeth, HelanaAshryvr, Lel0uch, Onen, xor	36	5	25
-442867	4	25	No Variant	2021-02-20 — 04:55:52 UTC	BlueNovember, corys, eljavi, xor	90	5	25
+442867	4	25	No Variant	2021-02-20 — 04:55:52 UTC	BlueNovember, corys, eljavi, xor	92	5	25
 356557	6	30	Rainbow & White (6 Suits)	2020-11-29 — 05:57:08 UTC	aquarelle-, corys, hanabiboy, HelanaAshryvr, Lel0uch, Romain672	4	6	30

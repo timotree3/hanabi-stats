@@ -1,121 +1,121 @@
-508622	2	21	No Variant	2021-04-21 — 18:59:03 UTC	Damian000, Henryetha	921	5	25
-508604	2	0	No Variant	2021-04-21 — 18:43:17 UTC	Damian000, Henryetha	948	5	25
-508602	2	19	No Variant	2021-04-21 — 18:41:02 UTC	Damian000, Henryetha	976	5	25
-505557	3	19	White (4 Suits)	2021-04-18 — 18:46:49 UTC	Damian000, robense, voss	18	4	20
+508622	2	21	No Variant	2021-04-21 — 18:59:03 UTC	Damian000, Henryetha	931	5	25
+508604	2	0	No Variant	2021-04-21 — 18:43:17 UTC	Damian000, Henryetha	960	5	25
+508602	2	19	No Variant	2021-04-21 — 18:41:02 UTC	Damian000, Henryetha	985	5	25
+505557	3	19	White (4 Suits)	2021-04-18 — 18:46:49 UTC	Damian000, robense, voss	19	4	20
 505536	3	19	White (4 Suits)	2021-04-18 — 18:28:10 UTC	Damian000, robense, voss	30	4	20
 504252	5	30	Rainbow & White (6 Suits)	2021-04-17 — 17:34:51 UTC	Damian000, duckless, Fey, MangoPie, timotree	11	6	30
-504221	5	0	Rainbow & White (6 Suits)	2021-04-17 — 16:53:49 UTC	Damian000, duckless, Fey, MangoPie, timotree	11	6	30
+504221	5	0	Rainbow & White (6 Suits)	2021-04-17 — 16:53:49 UTC	Damian000, duckless, Fey, MangoPie, timotree	12	6	30
 504206	4	30	Prism (6 Suits)	2021-04-17 — 16:28:56 UTC	Damian000, Fey, MangoPie, timotree	6	6	30
-504195	4	0	Prism (6 Suits)	2021-04-17 — 16:05:08 UTC	Damian000, Fey, MangoPie, timotree	7	6	30
-500474	3	22	No Variant	2021-04-14 — 02:11:41 UTC	Art3mis, Damian000, HellosItsMe	1465	5	25
-500457	3	23	No Variant	2021-04-14 — 01:38:54 UTC	Art3mis, Damian000, HellosItsMe	2163	5	25
+504195	4	0	Prism (6 Suits)	2021-04-17 — 16:05:08 UTC	Damian000, Fey, MangoPie, timotree	8	6	30
+500474	3	22	No Variant	2021-04-14 — 02:11:41 UTC	Art3mis, Damian000, HellosItsMe	1474	5	25
+500457	3	23	No Variant	2021-04-14 — 01:38:54 UTC	Art3mis, Damian000, HellosItsMe	2179	5	25
 500183	4	20	Brown (4 Suits)	2021-04-13 — 21:40:33 UTC	Damian000, kevincaseytdk1, Onen, robense	9	4	20
 497703	4	0	Rainbow-Fives (5 Suits)	2021-04-11 — 23:44:34 UTC	Damian000, DarthGandalf, NumerateClutter, wump	11	5	25
-497341	4	25	Rainbow (5 Suits)	2021-04-11 — 18:11:29 UTC	Arcee, Damian000, Nitrate, possum	23	5	25
+497341	4	25	Rainbow (5 Suits)	2021-04-11 — 18:11:29 UTC	Arcee, Damian000, Nitrate, possum	24	5	25
 497322	3	0	Rainbow & Prism (5 Suits)	2021-04-11 — 17:34:56 UTC	Damian000, possum, wolfpack	12	5	25
-497312	3	0	Rainbow & Prism (5 Suits)	2021-04-11 — 17:23:54 UTC	Damian000, possum, wolfpack	16	5	25
+497312	3	0	Rainbow & Prism (5 Suits)	2021-04-11 — 17:23:54 UTC	Damian000, possum, wolfpack	17	5	25
 497304	5	0	Rainbow & Prism (5 Suits)	2021-04-11 — 17:06:05 UTC	asaelr, Damian000, nwajfromoz, possum, wolfpack	5	5	25
 497292	5	0	Rainbow & Prism (5 Suits)	2021-04-11 — 16:47:06 UTC	asaelr, Damian000, nwajfromoz, possum, wolfpack	9	5	25
-496311	2	25	No Variant	2021-04-10 — 17:33:24 UTC	Damian000, pdx	1031	5	25
-496294	2	25	No Variant	2021-04-10 — 17:06:50 UTC	Damian000, pdx	1206	5	25
+496311	2	25	No Variant	2021-04-10 — 17:33:24 UTC	Damian000, pdx	1041	5	25
+496294	2	25	No Variant	2021-04-10 — 17:06:50 UTC	Damian000, pdx	1219	5	25
 493269	5	25	White (5 Suits)	2021-04-07 — 19:24:45 UTC	CaitlinSmith, Damian000, IsabeltheCat, Meowie, Spieler42	37	5	25
 493237	4	0	Black & Brown (5 Suits)	2021-04-07 — 19:04:41 UTC	CaitlinSmith, Damian000, Meowie, Spieler42	1	5	25
 492522	5	22	Rainbow (5 Suits)	2021-04-06 — 21:46:20 UTC	CaitlinSmith, Damian000, PotatoLatte, ReaverSe, Spieler42	13	5	25
 492473	5	0	Rainbow (5 Suits)	2021-04-06 — 21:14:07 UTC	CaitlinSmith, Damian000, PotatoLatte, ReaverSe, Spieler42	12	5	25
 492440	5	0	Rainbow (5 Suits)	2021-04-06 — 20:52:36 UTC	CaitlinSmith, Damian000, PotatoLatte, ReaverSe, Spieler42	14	5	25
 492410	5	0	Rainbow (5 Suits)	2021-04-06 — 20:29:55 UTC	CaitlinSmith, Damian000, PotatoLatte, ReaverSe, Spieler42	14	5	25
-492399	5	0	Rainbow (5 Suits)	2021-04-06 — 20:19:51 UTC	CaitlinSmith, Damian000, PotatoLatte, ReaverSe, Spieler42	17	5	25
+492399	5	0	Rainbow (5 Suits)	2021-04-06 — 20:19:51 UTC	CaitlinSmith, Damian000, PotatoLatte, ReaverSe, Spieler42	18	5	25
 490826	4	20	Prism (4 Suits)	2021-04-05 — 02:20:11 UTC	Damian000, griff77, louietyj, wolfpack	11	4	20
-490812	2	29	Rainbow (6 Suits)	2021-04-05 — 01:53:02 UTC	Damian000, ReaverSe	441	6	30
-490514	4	18	Rainbow (4 Suits)	2021-04-04 — 19:28:23 UTC	Damian000, fowill, ReaverSe, voss	32	4	20
+490812	2	29	Rainbow (6 Suits)	2021-04-05 — 01:53:02 UTC	Damian000, ReaverSe	446	6	30
+490514	4	18	Rainbow (4 Suits)	2021-04-04 — 19:28:23 UTC	Damian000, fowill, ReaverSe, voss	33	4	20
 490492	5	23	Rainbow (5 Suits)	2021-04-04 — 18:57:18 UTC	Damian000, fowill, Meowie, ReaverSe, voss	34	5	25
-490478	3	25	No Variant	2021-04-04 — 18:26:37 UTC	Damian000, ReaverSe, wump	46	5	25
+490478	3	25	No Variant	2021-04-04 — 18:26:37 UTC	Damian000, ReaverSe, wump	48	5	25
 489709	4	21	Light Pink (5 Suits)	2021-04-03 — 22:02:53 UTC	CaitlinSmith, Damian000, newduke, Pimak	9	5	25
 489676	4	0	Light Pink (5 Suits)	2021-04-03 — 21:35:07 UTC	CaitlinSmith, Damian000, newduke, Pimak	20	5	25
-488381	4	29	Rainbow (6 Suits)	2021-04-02 — 17:03:59 UTC	BlueNovember, Damian000, rz, vjk	156	6	30
-488368	4	0	Rainbow (6 Suits)	2021-04-02 — 16:29:12 UTC	BlueNovember, Damian000, rz, vjk	163	6	30
-487501	3	25	No Variant	2021-04-01 — 17:52:39 UTC	Damian000, IsabeltheCat, ReaverSe	250	5	25
-487480	3	25	No Variant	2021-04-01 — 17:31:26 UTC	Damian000, IsabeltheCat, ReaverSe	307	5	25
+488381	4	29	Rainbow (6 Suits)	2021-04-02 — 17:03:59 UTC	BlueNovember, Damian000, rz, vjk	157	6	30
+488368	4	0	Rainbow (6 Suits)	2021-04-02 — 16:29:12 UTC	BlueNovember, Damian000, rz, vjk	164	6	30
+487501	3	25	No Variant	2021-04-01 — 17:52:39 UTC	Damian000, IsabeltheCat, ReaverSe	252	5	25
+487480	3	25	No Variant	2021-04-01 — 17:31:26 UTC	Damian000, IsabeltheCat, ReaverSe	311	5	25
 485627	3	0	Pink & Prism (5 Suits)	2021-03-30 — 19:17:10 UTC	Damian000, IsabeltheCat, knaphill	6	5	25
 485605	3	0	Pink & Prism (5 Suits)	2021-03-30 — 18:43:05 UTC	Damian000, IsabeltheCat, knaphill	7	5	25
 485590	3	0	Pink & Prism (5 Suits)	2021-03-30 — 18:16:23 UTC	Damian000, IsabeltheCat, knaphill	11	5	25
-483577	3	25	No Variant	2021-03-28 — 18:10:05 UTC	Damian000, PotatoLatte, tysathem	344	5	25
+483577	3	25	No Variant	2021-03-28 — 18:10:05 UTC	Damian000, PotatoLatte, tysathem	353	5	25
 480557	5	28	Prism (6 Suits)	2021-03-25 — 22:09:09 UTC	Aluap, Damian000, Denchulitas, Doge, sephiroth	7	6	30
 480519	5	0	Prism (6 Suits)	2021-03-25 — 21:43:02 UTC	Aluap, Damian000, Denchulitas, Doge, sephiroth	9	6	30
-475156	2	20	No Variant	2021-03-20 — 22:44:18 UTC	Damian000, dancherp	1078	5	25
-475137	2	25	No Variant	2021-03-20 — 22:26:57 UTC	Damian000, dancherp	1117	5	25
-475115	2	0	No Variant	2021-03-20 — 22:09:18 UTC	Damian000, dancherp	1148	5	25
+475156	2	20	No Variant	2021-03-20 — 22:44:18 UTC	Damian000, dancherp	1089	5	25
+475137	2	25	No Variant	2021-03-20 — 22:26:57 UTC	Damian000, dancherp	1124	5	25
+475115	2	0	No Variant	2021-03-20 — 22:09:18 UTC	Damian000, dancherp	1159	5	25
 474919	4	24	No Variant	2021-03-20 — 18:51:45 UTC	Damian000, Doge, orucsoraihc, PotatoLatte	129	5	25
-473790	3	23	No Variant	2021-03-19 — 19:23:07 UTC	Aluap, Damian000, Meowie	285	5	25
-473760	3	23	No Variant	2021-03-19 — 18:45:34 UTC	Aluap, Damian000, Meowie	320	5	25
+473790	3	23	No Variant	2021-03-19 — 19:23:07 UTC	Aluap, Damian000, Meowie	287	5	25
+473760	3	23	No Variant	2021-03-19 — 18:45:34 UTC	Aluap, Damian000, Meowie	324	5	25
 472854	4	30	Black (6 Suits)	2021-03-18 — 22:11:28 UTC	Damian000, DarthGandalf, Denchulitas, nkkarpov	42	6	30
-472785	4	26	Black (6 Suits)	2021-03-18 — 21:33:59 UTC	Damian000, DarthGandalf, Denchulitas, nkkarpov	45	6	30
+472785	4	26	Black (6 Suits)	2021-03-18 — 21:33:59 UTC	Damian000, DarthGandalf, Denchulitas, nkkarpov	46	6	30
 472736	4	0	Black (6 Suits)	2021-03-18 — 21:05:56 UTC	Damian000, DarthGandalf, Denchulitas, nkkarpov	49	6	30
-472015	3	0	Black (5 Suits)	2021-03-18 — 01:25:36 UTC	Aluap, Arcee, Damian000	134	5	25
-471992	3	24	Black (5 Suits)	2021-03-18 — 00:59:04 UTC	Aluap, Arcee, Damian000	171	5	25
-471975	3	23	No Variant	2021-03-18 — 00:30:05 UTC	Damian000, padi, wolfpack	164	5	25
-468474	2	0	No Variant	2021-03-14 — 22:50:00 UTC	Damian000, Meowie	1249	5	25
-467791	5	30	Rainbow (6 Suits)	2021-03-14 — 05:41:19 UTC	Bot-Fiora, Damian000, griff77, mestrepoke, possum	209	6	30
-467006	4	25	No Variant	2021-03-13 — 21:22:39 UTC	Arcee, Damian000, HariKrishnan, wump	39	5	25
-466961	4	25	No Variant	2021-03-13 — 20:39:00 UTC	Arcee, Damian000, HariKrishnan, wump	42	5	25
-466930	4	24	No Variant	2021-03-13 — 20:05:31 UTC	Arcee, Damian000, HariKrishnan, wump	43	5	25
+472015	3	0	Black (5 Suits)	2021-03-18 — 01:25:36 UTC	Aluap, Arcee, Damian000	135	5	25
+471992	3	24	Black (5 Suits)	2021-03-18 — 00:59:04 UTC	Aluap, Arcee, Damian000	174	5	25
+471975	3	23	No Variant	2021-03-18 — 00:30:05 UTC	Damian000, padi, wolfpack	167	5	25
+468474	2	0	No Variant	2021-03-14 — 22:50:00 UTC	Damian000, Meowie	1263	5	25
+467791	5	30	Rainbow (6 Suits)	2021-03-14 — 05:41:19 UTC	Bot-Fiora, Damian000, griff77, mestrepoke, possum	211	6	30
+467006	4	25	No Variant	2021-03-13 — 21:22:39 UTC	Arcee, Damian000, HariKrishnan, wump	40	5	25
+466961	4	25	No Variant	2021-03-13 — 20:39:00 UTC	Arcee, Damian000, HariKrishnan, wump	43	5	25
+466930	4	24	No Variant	2021-03-13 — 20:05:31 UTC	Arcee, Damian000, HariKrishnan, wump	44	5	25
 465878	4	25	Rainbow (5 Suits)	2021-03-12 — 21:04:16 UTC	Damian000, Denchulitas, knaphill, MarcLovesDogs	54	5	25
-465851	4	0	Rainbow (5 Suits)	2021-03-12 — 20:36:49 UTC	Damian000, Denchulitas, knaphill, MarcLovesDogs	130	5	25
+465851	4	0	Rainbow (5 Suits)	2021-03-12 — 20:36:49 UTC	Damian000, Denchulitas, knaphill, MarcLovesDogs	131	5	25
 465840	4	25	No Variant	2021-03-12 — 20:22:57 UTC	Damian000, Denchulitas, knaphill, MarcLovesDogs	116	5	25
 463699	4	0	No Variant	2021-03-10 — 17:44:31 UTC	Damian000, Fey, knaphill, sajizzle	51	5	25
-463688	4	0	No Variant	2021-03-10 — 17:22:31 UTC	Damian000, Fey, knaphill, sajizzle	52	5	25
+463688	4	0	No Variant	2021-03-10 — 17:22:31 UTC	Damian000, Fey, knaphill, sajizzle	54	5	25
 463684	5	0	No Variant	2021-03-10 — 17:17:04 UTC	asaelr, ChristopheAF, Damian000, Fey, knaphill	11	5	25
 463210	4	29	Pink & Brown (6 Suits)	2021-03-10 — 03:30:12 UTC	Damian000, louietyj, nkkarpov, rahsosprout	8	6	30
 463176	4	0	Pink & Brown (6 Suits)	2021-03-10 — 02:58:25 UTC	Damian000, louietyj, nkkarpov, rahsosprout	6	6	30
-462048	4	24	No Variant	2021-03-09 — 03:10:48 UTC	Arcee, Bot-Fiora, Damian000, dancherp	125	5	25
-462008	4	22	No Variant	2021-03-09 — 02:27:27 UTC	Arcee, Bot-Fiora, Damian000, dancherp	149	5	25
-461993	4	0	No Variant	2021-03-09 — 01:53:39 UTC	Arcee, Bot-Fiora, Damian000, dancherp	167	5	25
+462048	4	24	No Variant	2021-03-09 — 03:10:48 UTC	Arcee, Bot-Fiora, Damian000, dancherp	126	5	25
+462008	4	22	No Variant	2021-03-09 — 02:27:27 UTC	Arcee, Bot-Fiora, Damian000, dancherp	150	5	25
+461993	4	0	No Variant	2021-03-09 — 01:53:39 UTC	Arcee, Bot-Fiora, Damian000, dancherp	169	5	25
 461979	4	23	No Variant	2021-03-09 — 01:23:14 UTC	Arcee, Bot-Fiora, Damian000, dancherp	204	5	25
-461944	3	0	No Variant	2021-03-09 — 00:51:05 UTC	Bot-Fiora, Damian000, dancherp	1636	5	25
-461686	4	17	White (4 Suits)	2021-03-08 — 21:20:31 UTC	CaitlinSmith, Damian000, DarthGandalf, MangoPie	34	4	20
-461642	4	24	No Variant	2021-03-08 — 20:48:57 UTC	CaitlinSmith, Damian000, Dragonican, MangoPie	180	5	25
-460798	3	22	No Variant	2021-03-08 — 00:36:59 UTC	Damian000, dancherp, DarthGandalf	354	5	25
+461944	3	0	No Variant	2021-03-09 — 00:51:05 UTC	Bot-Fiora, Damian000, dancherp	1651	5	25
+461686	4	17	White (4 Suits)	2021-03-08 — 21:20:31 UTC	CaitlinSmith, Damian000, DarthGandalf, MangoPie	35	4	20
+461642	4	24	No Variant	2021-03-08 — 20:48:57 UTC	CaitlinSmith, Damian000, Dragonican, MangoPie	182	5	25
+460798	3	22	No Variant	2021-03-08 — 00:36:59 UTC	Damian000, dancherp, DarthGandalf	359	5	25
 449296	4	23	Rainbow-Ones (5 Suits)	2021-02-25 — 23:29:06 UTC	Damian000, DarthGandalf, eljavi, possum	12	5	25
 449242	3	24	Rainbow-Ones (5 Suits)	2021-02-25 — 23:03:06 UTC	Damian000, eljavi, possum	14	5	25
 449192	3	0	Rainbow-Ones (5 Suits)	2021-02-25 — 22:37:40 UTC	Damian000, eljavi, possum	18	5	25
 449169	4	0	Prism (6 Suits)	2021-02-25 — 22:17:30 UTC	Damian000, Denchulitas, eljavi, sephiroth	1	6	30
 449128	6	25	No Variant	2021-02-25 — 21:58:05 UTC	Damian000, Denchulitas, eljavi, MangoPie, sephiroth, VerySloppyTwo	2	5	25
 447007	5	30	6 Suits	2021-02-23 — 21:33:05 UTC	Damian000, DarthGandalf, Daryl, HariKrishnan, knaphill	69	6	30
-446924	4	0	Black (6 Suits)	2021-02-23 — 20:39:55 UTC	Damian000, DarthGandalf, Daryl, HariKrishnan	213	6	30
-446855	3	23	No Variant	2021-02-23 — 19:49:25 UTC	Damian000, Daryl, HariKrishnan	157	5	25
-446812	3	0	No Variant	2021-02-23 — 19:24:49 UTC	Damian000, Daryl, HariKrishnan	160	5	25
+446924	4	0	Black (6 Suits)	2021-02-23 — 20:39:55 UTC	Damian000, DarthGandalf, Daryl, HariKrishnan	215	6	30
+446855	3	23	No Variant	2021-02-23 — 19:49:25 UTC	Damian000, Daryl, HariKrishnan	160	5	25
+446812	3	0	No Variant	2021-02-23 — 19:24:49 UTC	Damian000, Daryl, HariKrishnan	163	5	25
 445917	4	24	Black (5 Suits)	2021-02-22 — 22:05:56 UTC	CaitlinSmith, Damian000, DarthGandalf, eljavi	11	5	25
 445903	4	0	Black (5 Suits)	2021-02-22 — 21:47:50 UTC	CaitlinSmith, Damian000, DarthGandalf, eljavi	11	5	25
 445887	4	0	Black (5 Suits)	2021-02-22 — 21:37:23 UTC	CaitlinSmith, Damian000, DarthGandalf, eljavi	14	5	25
 445855	4	0	Black (5 Suits)	2021-02-22 — 21:15:19 UTC	CaitlinSmith, Damian000, DarthGandalf, eljavi	14	5	25
 445825	4	22	Black (5 Suits)	2021-02-22 — 20:53:44 UTC	CaitlinSmith, Damian000, DarthGandalf, eljavi	16	5	25
-445703	3	29	Black (6 Suits)	2021-02-22 — 18:52:49 UTC	4head, CaitlinSmith, Damian000	149	6	30
-445689	5	25	No Variant	2021-02-22 — 18:28:30 UTC	4head, bjnh, CaitlinSmith, Damian000, Onen	344	5	25
-445668	4	23	Gray (5 Suits)	2021-02-22 — 17:59:02 UTC	bjnh, Damian000, indego, Onen	13	5	25
-445659	4	0	Gray (5 Suits)	2021-02-22 — 17:47:33 UTC	bjnh, Damian000, indego, Onen	14	5	25
-445654	4	0	Gray (5 Suits)	2021-02-22 — 17:37:39 UTC	bjnh, Damian000, indego, Onen	33	5	25
-443395	3	25	No Variant	2021-02-20 — 20:42:08 UTC	Damian000, DarthGandalf, HariKrishnan	151	5	25
-443374	3	24	No Variant	2021-02-20 — 20:21:04 UTC	Damian000, DarthGandalf, HariKrishnan	156	5	25
-443333	3	23	No Variant	2021-02-20 — 19:50:00 UTC	Damian000, Feich59, HariKrishnan	187	5	25
-443312	3	0	No Variant	2021-02-20 — 19:23:38 UTC	Damian000, Feich59, HariKrishnan	194	5	25
-443208	3	25	No Variant	2021-02-20 — 16:47:26 UTC	Damian000, MathNoob, possum	178	5	25
-443194	3	25	No Variant	2021-02-20 — 16:16:22 UTC	Damian000, MathNoob, possum	206	5	25
-442402	4	25	No Variant	2021-02-19 — 23:07:50 UTC	Damian000, DarthGandalf, HariKrishnan, possum	117	5	25
-442373	3	22	No Variant	2021-02-19 — 22:39:33 UTC	Damian000, Directive, HariKrishnan	213	5	25
-441205	4	0	White (6 Suits)	2021-02-18 — 21:42:58 UTC	bubko, Damian000, HrvoyeahhH, vjk	41	6	30
-441202	4	0	White (6 Suits)	2021-02-18 — 21:41:47 UTC	bubko, Damian000, HrvoyeahhH, vjk	60	6	30
-441169	4	0	White (6 Suits)	2021-02-18 — 21:22:07 UTC	bubko, Damian000, HrvoyeahhH, vjk	75	6	30
+445703	3	29	Black (6 Suits)	2021-02-22 — 18:52:49 UTC	4head, CaitlinSmith, Damian000	151	6	30
+445689	5	25	No Variant	2021-02-22 — 18:28:30 UTC	4head, bjnh, CaitlinSmith, Damian000, Onen	348	5	25
+445668	4	23	Gray (5 Suits)	2021-02-22 — 17:59:02 UTC	bjnh, Damian000, indego, Onen	15	5	25
+445659	4	0	Gray (5 Suits)	2021-02-22 — 17:47:33 UTC	bjnh, Damian000, indego, Onen	15	5	25
+445654	4	0	Gray (5 Suits)	2021-02-22 — 17:37:39 UTC	bjnh, Damian000, indego, Onen	34	5	25
+443395	3	25	No Variant	2021-02-20 — 20:42:08 UTC	Damian000, DarthGandalf, HariKrishnan	153	5	25
+443374	3	24	No Variant	2021-02-20 — 20:21:04 UTC	Damian000, DarthGandalf, HariKrishnan	158	5	25
+443333	3	23	No Variant	2021-02-20 — 19:50:00 UTC	Damian000, Feich59, HariKrishnan	189	5	25
+443312	3	0	No Variant	2021-02-20 — 19:23:38 UTC	Damian000, Feich59, HariKrishnan	198	5	25
+443208	3	25	No Variant	2021-02-20 — 16:47:26 UTC	Damian000, MathNoob, possum	179	5	25
+443194	3	25	No Variant	2021-02-20 — 16:16:22 UTC	Damian000, MathNoob, possum	209	5	25
+442402	4	25	No Variant	2021-02-19 — 23:07:50 UTC	Damian000, DarthGandalf, HariKrishnan, possum	119	5	25
+442373	3	22	No Variant	2021-02-19 — 22:39:33 UTC	Damian000, Directive, HariKrishnan	218	5	25
+441205	4	0	White (6 Suits)	2021-02-18 — 21:42:58 UTC	bubko, Damian000, HrvoyeahhH, vjk	43	6	30
+441202	4	0	White (6 Suits)	2021-02-18 — 21:41:47 UTC	bubko, Damian000, HrvoyeahhH, vjk	62	6	30
+441169	4	0	White (6 Suits)	2021-02-18 — 21:22:07 UTC	bubko, Damian000, HrvoyeahhH, vjk	76	6	30
 441037	4	30	White (6 Suits)	2021-02-18 — 19:34:17 UTC	CaitlinSmith, Damian000, Denchulitas, knaphill	11	6	30
-441017	3	0	Prism (5 Suits)	2021-02-18 — 19:06:46 UTC	CaitlinSmith, Damian000, Denchulitas	6	5	25
+441017	3	0	Prism (5 Suits)	2021-02-18 — 19:06:46 UTC	CaitlinSmith, Damian000, Denchulitas	7	5	25
 440993	3	25	Prism (5 Suits)	2021-02-18 — 18:43:41 UTC	CaitlinSmith, Damian000, Denchulitas	9	5	25
 440970	3	24	Prism (5 Suits)	2021-02-18 — 18:22:07 UTC	CaitlinSmith, Damian000, Denchulitas	10	5	25
 440947	4	25	Black & White (5 Suits)	2021-02-18 — 17:49:26 UTC	CaitlinSmith, Damian000, Denchulitas, rachyrules	23	5	25
 440509	3	24	Prism (5 Suits)	2021-02-18 — 01:35:36 UTC	4head, BraydonM, Damian000	14	5	25
-438644	3	24	No Variant	2021-02-16 — 01:01:27 UTC	Damian000, mmilaa, Rominytah	375	5	25
+438644	3	24	No Variant	2021-02-16 — 01:01:27 UTC	Damian000, mmilaa, Rominytah	380	5	25
 438585	5	23	Rainbow (5 Suits)	2021-02-15 — 23:23:55 UTC	Damian000, DarthGandalf, otterful, Pimak, Stormylu	23	5	25
 438538	5	0	Rainbow (5 Suits)	2021-02-15 — 22:52:14 UTC	Damian000, DarthGandalf, otterful, Pimak, Stormylu	26	5	25
-438510	5	0	Rainbow (5 Suits)	2021-02-15 — 22:22:34 UTC	Damian000, DarthGandalf, otterful, Pimak, Stormylu	54	5	25
-438280	4	25	No Variant	2021-02-15 — 19:18:18 UTC	banjoleb, Damian000, Denchulitas, Pimak	111	5	25
+438510	5	0	Rainbow (5 Suits)	2021-02-15 — 22:22:34 UTC	Damian000, DarthGandalf, otterful, Pimak, Stormylu	55	5	25
+438280	4	25	No Variant	2021-02-15 — 19:18:18 UTC	banjoleb, Damian000, Denchulitas, Pimak	112	5	25
 438256	4	0	No Variant	2021-02-15 — 18:51:16 UTC	banjoleb, Damian000, Denchulitas, Pimak	130	5	25
 437084	3	30	Prism (6 Suits)	2021-02-14 — 17:59:58 UTC	Damian000, Denchulitas, ksfortson	11	6	30
 437050	3	0	Prism (6 Suits)	2021-02-14 — 17:30:44 UTC	Damian000, Denchulitas, ksfortson	12	6	30
@@ -123,153 +123,153 @@
 436568	6	30	6 Suits	2021-02-14 — 06:13:37 UTC	4head, Damian000, lolthisnotderk, otterful, Spieler42, torp	16	6	30
 436540	6	0	6 Suits	2021-02-14 — 05:54:38 UTC	4head, Damian000, lolthisnotderk, otterful, Spieler42, torp	19	6	30
 436518	6	0	6 Suits	2021-02-14 — 05:35:48 UTC	4head, Damian000, otterful, pujanator, torp, wolfpack	20	6	30
-436477	5	21	No Variant	2021-02-14 — 05:10:03 UTC	Damian000, lolthisnotderk, otterful, torp, wolfpack	176	5	25
-436452	5	24	No Variant	2021-02-14 — 04:48:29 UTC	Damian000, lolthisnotderk, otterful, torp, wolfpack	296	5	25
-435795	4	24	Black (5 Suits)	2021-02-13 — 17:24:47 UTC	banjoleb, Damian000, ontak, voss	44	5	25
-435781	4	0	Black (5 Suits)	2021-02-13 — 16:54:06 UTC	banjoleb, Damian000, ontak, voss	49	5	25
-435770	4	0	Black (5 Suits)	2021-02-13 — 16:36:35 UTC	banjoleb, Damian000, ontak, voss	63	5	25
-435760	3	30	6 Suits	2021-02-13 — 16:13:07 UTC	banjoleb, Damian000, ontak	252	6	30
-434616	4	0	No Variant	2021-02-12 — 19:33:15 UTC	Damian000, HariKrishnan, MathNoob, ontak	131	5	25
-434563	5	25	6 Suits	2021-02-12 — 18:35:16 UTC	caña, Damian000, HariKrishnan, MathNoob, ontak	132	6	30
-433851	3	25	Black (6 Suits)	2021-02-12 — 01:46:29 UTC	BraydonM, Damian000, nwajfromoz	399	6	30
-432671	4	19	No Variant	2021-02-10 — 21:40:20 UTC	Damian000, DankZappa, torp, Zahard	156	5	25
-432422	3	0	Prism (6 Suits)	2021-02-10 — 18:17:26 UTC	Damian000, knaphill, lolthisnotderk	45	6	30
-432393	3	0	Prism (6 Suits)	2021-02-10 — 17:51:27 UTC	Damian000, knaphill, lolthisnotderk	60	6	30
-432369	3	0	Prism (6 Suits)	2021-02-10 — 17:34:51 UTC	Damian000, knaphill, lolthisnotderk	84	6	30
-430422	3	25	No Variant	2021-02-08 — 22:11:21 UTC	Damian000, DarthGandalf, wump	61	5	25
-430378	2	22	No Variant	2021-02-08 — 21:49:40 UTC	Damian000, DarthGandalf	1299	5	25
-430313	3	25	No Variant	2021-02-08 — 21:09:03 UTC	Damian000, Daryl, MathNoob	485	5	25
-430239	4	23	No Variant	2021-02-08 — 20:28:08 UTC	Damian000, Daryl, lolthisnotderk, MathNoob	326	5	25
+436477	5	21	No Variant	2021-02-14 — 05:10:03 UTC	Damian000, lolthisnotderk, otterful, torp, wolfpack	178	5	25
+436452	5	24	No Variant	2021-02-14 — 04:48:29 UTC	Damian000, lolthisnotderk, otterful, torp, wolfpack	302	5	25
+435795	4	24	Black (5 Suits)	2021-02-13 — 17:24:47 UTC	banjoleb, Damian000, ontak, voss	47	5	25
+435781	4	0	Black (5 Suits)	2021-02-13 — 16:54:06 UTC	banjoleb, Damian000, ontak, voss	51	5	25
+435770	4	0	Black (5 Suits)	2021-02-13 — 16:36:35 UTC	banjoleb, Damian000, ontak, voss	64	5	25
+435760	3	30	6 Suits	2021-02-13 — 16:13:07 UTC	banjoleb, Damian000, ontak	256	6	30
+434616	4	0	No Variant	2021-02-12 — 19:33:15 UTC	Damian000, HariKrishnan, MathNoob, ontak	132	5	25
+434563	5	25	6 Suits	2021-02-12 — 18:35:16 UTC	caña, Damian000, HariKrishnan, MathNoob, ontak	133	6	30
+433851	3	25	Black (6 Suits)	2021-02-12 — 01:46:29 UTC	BraydonM, Damian000, nwajfromoz	407	6	30
+432671	4	19	No Variant	2021-02-10 — 21:40:20 UTC	Damian000, DankZappa, torp, Zahard	157	5	25
+432422	3	0	Prism (6 Suits)	2021-02-10 — 18:17:26 UTC	Damian000, knaphill, lolthisnotderk	46	6	30
+432393	3	0	Prism (6 Suits)	2021-02-10 — 17:51:27 UTC	Damian000, knaphill, lolthisnotderk	61	6	30
+432369	3	0	Prism (6 Suits)	2021-02-10 — 17:34:51 UTC	Damian000, knaphill, lolthisnotderk	85	6	30
+430422	3	25	No Variant	2021-02-08 — 22:11:21 UTC	Damian000, DarthGandalf, wump	62	5	25
+430378	2	22	No Variant	2021-02-08 — 21:49:40 UTC	Damian000, DarthGandalf	1311	5	25
+430313	3	25	No Variant	2021-02-08 — 21:09:03 UTC	Damian000, Daryl, MathNoob	491	5	25
+430239	4	23	No Variant	2021-02-08 — 20:28:08 UTC	Damian000, Daryl, lolthisnotderk, MathNoob	330	5	25
 429048	3	0	Dark Prism (6 Suits)	2021-02-07 — 17:05:49 UTC	Damian000, Denchulitas, jeff10	32	6	30
 429026	5	0	Black (6 Suits)	2021-02-07 — 16:30:06 UTC	Damian000, Denchulitas, eliclax, eljavi, narabio	18	6	30
 429010	5	0	Black (6 Suits)	2021-02-07 — 16:05:38 UTC	Damian000, Denchulitas, eliclax, eljavi, narabio	21	6	30
 427841	4	14	3 Suits	2021-02-06 — 18:50:54 UTC	Damian000, griff77, HariKrishnan, narabio	62	3	15
-427814	4	13	3 Suits	2021-02-06 — 18:24:32 UTC	Damian000, griff77, HariKrishnan, narabio	73	3	15
+427814	4	13	3 Suits	2021-02-06 — 18:24:32 UTC	Damian000, griff77, HariKrishnan, narabio	74	3	15
 427784	4	25	No Variant	2021-02-06 — 17:43:37 UTC	banjoleb, Damian000, griff77, HariKrishnan	213	5	25
-427301	4	25	No Variant	2021-02-06 — 03:42:38 UTC	Damian000, dobi, griff77, nkkarpov	190	5	25
-426594	4	28	Black (6 Suits)	2021-02-05 — 18:22:38 UTC	Damian000, HariKrishnan, narabio, rahsosprout	121	6	30
-426002	5	18	No Variant	2021-02-05 — 01:38:33 UTC	BraydonM, Damian000, LetaBot, socerman, Zomdramas	383	5	25
-425785	3	0	Rainbow (5 Suits)	2021-02-04 — 22:15:28 UTC	CaitlinSmith, Damian000, griff77	84	5	25
-425742	3	0	Rainbow (5 Suits)	2021-02-04 — 21:26:01 UTC	CaitlinSmith, Damian000, griff77	116	5	25
+427301	4	25	No Variant	2021-02-06 — 03:42:38 UTC	Damian000, dobi, griff77, nkkarpov	192	5	25
+426594	4	28	Black (6 Suits)	2021-02-05 — 18:22:38 UTC	Damian000, HariKrishnan, narabio, rahsosprout	123	6	30
+426002	5	18	No Variant	2021-02-05 — 01:38:33 UTC	BraydonM, Damian000, LetaBot, socerman, Zomdramas	384	5	25
+425785	3	0	Rainbow (5 Suits)	2021-02-04 — 22:15:28 UTC	CaitlinSmith, Damian000, griff77	87	5	25
+425742	3	0	Rainbow (5 Suits)	2021-02-04 — 21:26:01 UTC	CaitlinSmith, Damian000, griff77	119	5	25
 425467	5	25	No Variant	2021-02-04 — 18:11:47 UTC	4head, caña, Damian000, griff77, narabio	60	5	25
-425444	5	25	No Variant	2021-02-04 — 17:47:38 UTC	4head, caña, Damian000, griff77, narabio	77	5	25
-424666	4	25	White (5 Suits)	2021-02-03 — 22:55:27 UTC	4head, Damian000, IsabeltheCat, nkkarpov	46	5	25
+425444	5	25	No Variant	2021-02-04 — 17:47:38 UTC	4head, caña, Damian000, griff77, narabio	78	5	25
+424666	4	25	White (5 Suits)	2021-02-03 — 22:55:27 UTC	4head, Damian000, IsabeltheCat, nkkarpov	47	5	25
 424632	5	0	White-Ones & White (6 Suits)	2021-02-03 — 22:33:08 UTC	Damian000, frosty104, newduke, nkkarpov, sephiroth	4	6	30
-424615	3	0	No Variant	2021-02-03 — 22:13:41 UTC	anarego, bot_21, Damian000	2606	5	25
-424185	4	22	No Variant	2021-02-03 — 17:59:03 UTC	banjoleb, Damian000, griff77, knaphill	257	5	25
-423496	2	15	3 Suits	2021-02-03 — 00:39:15 UTC	Damian000, srindla	271	3	15
-423481	2	25	No Variant	2021-02-03 — 00:27:19 UTC	Damian000, DarthGandalf	1532	5	25
+424615	3	0	No Variant	2021-02-03 — 22:13:41 UTC	anarego, bot_21, Damian000	2627	5	25
+424185	4	22	No Variant	2021-02-03 — 17:59:03 UTC	banjoleb, Damian000, griff77, knaphill	260	5	25
+423496	2	15	3 Suits	2021-02-03 — 00:39:15 UTC	Damian000, srindla	273	3	15
+423481	2	25	No Variant	2021-02-03 — 00:27:19 UTC	Damian000, DarthGandalf	1547	5	25
 423127	3	0	Black (5 Suits)	2021-02-02 — 19:14:41 UTC	CaitlinSmith, Damian000, eljavi	40	5	25
-423108	3	0	Black (5 Suits)	2021-02-02 — 18:47:47 UTC	CaitlinSmith, Damian000, eljavi	44	5	25
-423084	4	21	No Variant	2021-02-02 — 18:20:57 UTC	CaitlinSmith, Damian000, eljavi, possum	162	5	25
-423071	4	0	No Variant	2021-02-02 — 17:56:28 UTC	CaitlinSmith, Damian000, eljavi, possum	278	5	25
-423059	4	24	No Variant	2021-02-02 — 17:38:11 UTC	CaitlinSmith, Damian000, eljavi, possum	287	5	25
-422213	3	0	Rainbow (6 Suits)	2021-02-01 — 18:41:08 UTC	Damian000, tacobot5000, wump	55	6	30
+423108	3	0	Black (5 Suits)	2021-02-02 — 18:47:47 UTC	CaitlinSmith, Damian000, eljavi	45	5	25
+423084	4	21	No Variant	2021-02-02 — 18:20:57 UTC	CaitlinSmith, Damian000, eljavi, possum	166	5	25
+423071	4	0	No Variant	2021-02-02 — 17:56:28 UTC	CaitlinSmith, Damian000, eljavi, possum	280	5	25
+423059	4	24	No Variant	2021-02-02 — 17:38:11 UTC	CaitlinSmith, Damian000, eljavi, possum	293	5	25
+422213	3	0	Rainbow (6 Suits)	2021-02-01 — 18:41:08 UTC	Damian000, tacobot5000, wump	57	6	30
 422195	4	0	Rainbow (6 Suits)	2021-02-01 — 18:04:17 UTC	Damian000, rahsosprout, tacobot5000, wump	12	6	30
 418317	3	22	White & Prism (5 Suits)	2021-01-29 — 04:32:24 UTC	caña, Damian000, otterful	16	5	25
 418285	3	23	White & Prism (5 Suits)	2021-01-29 — 04:07:14 UTC	caña, Damian000, otterful	17	5	25
 414720	4	25	No Variant	2021-01-25 — 19:12:14 UTC	Damian000, rz, sp00ky, wump	52	5	25
-412617	4	24	No Variant	2021-01-23 — 19:12:42 UTC	4head, Damian000, Denchulitas, griff77	138	5	25
-409714	3	24	No Variant	2021-01-20 — 17:58:47 UTC	Damian000, HariKrishnan, kinkajusrevenge	386	5	25
-409696	3	0	No Variant	2021-01-20 — 17:37:16 UTC	Damian000, HariKrishnan, kinkajusrevenge	451	5	25
-409685	3	22	No Variant	2021-01-20 — 17:24:22 UTC	Damian000, HariKrishnan, kinkajusrevenge	459	5	25
-406921	4	23	No Variant	2021-01-18 — 02:46:16 UTC	Damian000, Nkuko, Rominytah, SweetMeloJuice	336	5	25
-406890	4	25	No Variant	2021-01-18 — 02:24:03 UTC	Damian000, Nkuko, Rominytah, SweetMeloJuice	373	5	25
-406879	2	23	No Variant	2021-01-18 — 02:10:56 UTC	Damian000, Rominytah	1621	5	25
-406868	2	0	No Variant	2021-01-18 — 01:57:58 UTC	Damian000, Rominytah	1703	5	25
-404615	4	20	No Variant	2021-01-16 — 02:47:31 UTC	CaptainNoob88, Damian000, griff77, rem088	384	5	25
-402654	5	24	No Variant	2021-01-14 — 03:01:38 UTC	Damian000, mmilaa, Nkuko, Rominytah, SweetMeloJuice	457	5	25
-402632	5	21	No Variant	2021-01-14 — 02:43:39 UTC	Damian000, mmilaa, Nkuko, Rominytah, SweetMeloJuice	658	5	25
-402589	3	13	3 Suits	2021-01-14 — 02:03:14 UTC	Damian000, mmilaa, Rominytah	74	3	15
-402580	3	12	3 Suits	2021-01-14 — 01:52:07 UTC	Damian000, mmilaa, Rominytah	88	3	15
-402575	3	25	No Variant	2021-01-14 — 01:42:20 UTC	Damian000, mmilaa, Rominytah	516	5	25
-401769	3	25	No Variant	2021-01-13 — 05:11:27 UTC	Damian000, mmilaa, Rominytah	551	5	25
-401747	3	24	No Variant	2021-01-13 — 04:36:32 UTC	Damian000, mmilaa, Rominytah	573	5	25
-401718	3	24	No Variant	2021-01-13 — 04:08:53 UTC	Damian000, mmilaa, Rominytah	750	5	25
-401697	3	0	No Variant	2021-01-13 — 03:45:31 UTC	Damian000, mmilaa, Rominytah	801	5	25
-401665	3	23	No Variant	2021-01-13 — 03:12:53 UTC	Damian000, mmilaa, Rominytah	840	5	25
-401630	3	24	No Variant	2021-01-13 — 02:43:56 UTC	Damian000, mmilaa, Rominytah	1291	5	25
-399369	3	24	No Variant	2021-01-10 — 19:29:07 UTC	Damian000, liquidNitrogen, raramra	269	5	25
-399335	3	0	No Variant	2021-01-10 — 18:51:57 UTC	Damian000, liquidNitrogen, raramra	275	5	25
-398203	3	25	No Variant	2021-01-09 — 22:26:41 UTC	Damian000, ducky, robense	25	5	25
-397943	3	25	No Variant	2021-01-09 — 19:00:01 UTC	Damian000, Donna, lolthisnotderk	940	5	25
-397920	3	0	No Variant	2021-01-09 — 18:38:34 UTC	Damian000, Donna, lolthisnotderk	1017	5	25
-397234	4	22	No Variant	2021-01-09 — 01:38:15 UTC	Damian000, JuliCulon, mmilaa, Nkuko	419	5	25
-396930	3	28	6 Suits	2021-01-08 — 21:04:11 UTC	ArualEIs, Damian000, diael	305	6	30
-396891	5	20	No Variant	2021-01-08 — 20:31:19 UTC	ArualEIs, CaitlinSmith, Damian000, diael, tezeteta	541	5	25
-396856	5	0	No Variant	2021-01-08 — 19:56:51 UTC	ArualEIs, CaitlinSmith, Damian000, diael, tezeteta	837	5	25
-395797	3	22	No Variant	2021-01-07 — 21:36:49 UTC	Damian000, function, Nitrate	624	5	25
-395738	3	23	No Variant	2021-01-07 — 20:44:00 UTC	Damian000, function, Nitrate	680	5	25
-395708	3	0	No Variant	2021-01-07 — 20:11:29 UTC	Damian000, function, Nitrate	1095	5	25
+412617	4	24	No Variant	2021-01-23 — 19:12:42 UTC	4head, Damian000, Denchulitas, griff77	139	5	25
+409714	3	24	No Variant	2021-01-20 — 17:58:47 UTC	Damian000, HariKrishnan, kinkajusrevenge	392	5	25
+409696	3	0	No Variant	2021-01-20 — 17:37:16 UTC	Damian000, HariKrishnan, kinkajusrevenge	456	5	25
+409685	3	22	No Variant	2021-01-20 — 17:24:22 UTC	Damian000, HariKrishnan, kinkajusrevenge	467	5	25
+406921	4	23	No Variant	2021-01-18 — 02:46:16 UTC	Damian000, Nkuko, Rominytah, SweetMeloJuice	340	5	25
+406890	4	25	No Variant	2021-01-18 — 02:24:03 UTC	Damian000, Nkuko, Rominytah, SweetMeloJuice	376	5	25
+406879	2	23	No Variant	2021-01-18 — 02:10:56 UTC	Damian000, Rominytah	1637	5	25
+406868	2	0	No Variant	2021-01-18 — 01:57:58 UTC	Damian000, Rominytah	1721	5	25
+404615	4	20	No Variant	2021-01-16 — 02:47:31 UTC	CaptainNoob88, Damian000, griff77, rem088	387	5	25
+402654	5	24	No Variant	2021-01-14 — 03:01:38 UTC	Damian000, mmilaa, Nkuko, Rominytah, SweetMeloJuice	461	5	25
+402632	5	21	No Variant	2021-01-14 — 02:43:39 UTC	Damian000, mmilaa, Nkuko, Rominytah, SweetMeloJuice	667	5	25
+402589	3	13	3 Suits	2021-01-14 — 02:03:14 UTC	Damian000, mmilaa, Rominytah	75	3	15
+402580	3	12	3 Suits	2021-01-14 — 01:52:07 UTC	Damian000, mmilaa, Rominytah	90	3	15
+402575	3	25	No Variant	2021-01-14 — 01:42:20 UTC	Damian000, mmilaa, Rominytah	523	5	25
+401769	3	25	No Variant	2021-01-13 — 05:11:27 UTC	Damian000, mmilaa, Rominytah	558	5	25
+401747	3	24	No Variant	2021-01-13 — 04:36:32 UTC	Damian000, mmilaa, Rominytah	582	5	25
+401718	3	24	No Variant	2021-01-13 — 04:08:53 UTC	Damian000, mmilaa, Rominytah	757	5	25
+401697	3	0	No Variant	2021-01-13 — 03:45:31 UTC	Damian000, mmilaa, Rominytah	809	5	25
+401665	3	23	No Variant	2021-01-13 — 03:12:53 UTC	Damian000, mmilaa, Rominytah	849	5	25
+401630	3	24	No Variant	2021-01-13 — 02:43:56 UTC	Damian000, mmilaa, Rominytah	1299	5	25
+399369	3	24	No Variant	2021-01-10 — 19:29:07 UTC	Damian000, liquidNitrogen, raramra	272	5	25
+399335	3	0	No Variant	2021-01-10 — 18:51:57 UTC	Damian000, liquidNitrogen, raramra	277	5	25
+398203	3	25	No Variant	2021-01-09 — 22:26:41 UTC	Damian000, ducky, robense	26	5	25
+397943	3	25	No Variant	2021-01-09 — 19:00:01 UTC	Damian000, Donna, lolthisnotderk	952	5	25
+397920	3	0	No Variant	2021-01-09 — 18:38:34 UTC	Damian000, Donna, lolthisnotderk	1026	5	25
+397234	4	22	No Variant	2021-01-09 — 01:38:15 UTC	Damian000, JuliCulon, mmilaa, Nkuko	423	5	25
+396930	3	28	6 Suits	2021-01-08 — 21:04:11 UTC	ArualEIs, Damian000, diael	311	6	30
+396891	5	20	No Variant	2021-01-08 — 20:31:19 UTC	ArualEIs, CaitlinSmith, Damian000, diael, tezeteta	546	5	25
+396856	5	0	No Variant	2021-01-08 — 19:56:51 UTC	ArualEIs, CaitlinSmith, Damian000, diael, tezeteta	845	5	25
+395797	3	22	No Variant	2021-01-07 — 21:36:49 UTC	Damian000, function, Nitrate	632	5	25
+395738	3	23	No Variant	2021-01-07 — 20:44:00 UTC	Damian000, function, Nitrate	688	5	25
+395708	3	0	No Variant	2021-01-07 — 20:11:29 UTC	Damian000, function, Nitrate	1102	5	25
 394844	3	17	4 Suits	2021-01-06 — 22:24:03 UTC	Damian000, nkkarpov, robense	90	4	20
-394773	3	0	No Variant	2021-01-06 — 21:25:39 UTC	Damian000, Donna, mystus	1881	5	25
-393961	5	25	No Variant	2021-01-05 — 23:51:02 UTC	Damian000, diael, oliana, torp, wvh	195	5	25
-393934	5	22	No Variant	2021-01-05 — 23:13:23 UTC	Damian000, diael, oliana, torp, wvh	207	5	25
-392822	3	25	No Variant	2021-01-04 — 23:47:01 UTC	Damian000, tezeteta, XMIL	30	5	25
-392795	5	26	6 Suits	2021-01-04 — 23:09:57 UTC	Damian000, Donna, eljavi, holauqetal, tezeteta	199	6	30
-392776	4	0	No Variant	2021-01-04 — 22:35:28 UTC	Damian000, Donna, eljavi, tezeteta	541	5	25
-392746	5	22	No Variant	2021-01-04 — 22:04:57 UTC	Damian000, Donna, eljavi, holauqetal, XMIL	50	5	25
-392691	3	14	Rainbow (3 Suits)	2021-01-04 — 21:18:58 UTC	ArualEIs, Damian000, Lanvin	43	3	15
-392669	3	14	Rainbow (3 Suits)	2021-01-04 — 20:55:29 UTC	ArualEIs, Damian000, Lanvin	53	3	15
-392632	3	13	Rainbow (3 Suits)	2021-01-04 — 20:31:13 UTC	ArualEIs, Damian000, Lanvin	71	3	15
+394773	3	0	No Variant	2021-01-06 — 21:25:39 UTC	Damian000, Donna, mystus	1896	5	25
+393961	5	25	No Variant	2021-01-05 — 23:51:02 UTC	Damian000, diael, oliana, torp, wvh	198	5	25
+393934	5	22	No Variant	2021-01-05 — 23:13:23 UTC	Damian000, diael, oliana, torp, wvh	208	5	25
+392822	3	25	No Variant	2021-01-04 — 23:47:01 UTC	Damian000, tezeteta, XMIL	32	5	25
+392795	5	26	6 Suits	2021-01-04 — 23:09:57 UTC	Damian000, Donna, eljavi, holauqetal, tezeteta	203	6	30
+392776	4	0	No Variant	2021-01-04 — 22:35:28 UTC	Damian000, Donna, eljavi, tezeteta	548	5	25
+392746	5	22	No Variant	2021-01-04 — 22:04:57 UTC	Damian000, Donna, eljavi, holauqetal, XMIL	52	5	25
+392691	3	14	Rainbow (3 Suits)	2021-01-04 — 21:18:58 UTC	ArualEIs, Damian000, Lanvin	44	3	15
+392669	3	14	Rainbow (3 Suits)	2021-01-04 — 20:55:29 UTC	ArualEIs, Damian000, Lanvin	54	3	15
+392632	3	13	Rainbow (3 Suits)	2021-01-04 — 20:31:13 UTC	ArualEIs, Damian000, Lanvin	72	3	15
 391931	3	28	White (6 Suits)	2021-01-04 — 00:54:59 UTC	banjoleb, Damian000, Lanvin	9	6	30
 391889	3	0	White (6 Suits)	2021-01-03 — 23:52:07 UTC	banjoleb, Damian000, Lanvin	10	6	30
 391866	3	0	White (6 Suits)	2021-01-03 — 23:27:02 UTC	banjoleb, Damian000, Lanvin	13	6	30
-391860	3	0	No Variant	2021-01-03 — 23:21:38 UTC	banjoleb, Damian000, Lanvin	411	5	25
-391858	4	0	No Variant	2021-01-03 — 23:20:47 UTC	Damian000, jarhill0, JoeyExotic, Lanvin	501	5	25
-391809	3	0	No Variant	2021-01-03 — 22:44:49 UTC	banjoleb, Damian000, eidanjacob	422	5	25
-391772	4	20	4 Suits	2021-01-03 — 22:15:38 UTC	Damian000, frosty104, torp, ventinove	51	4	20
-391601	2	0	No Variant	2021-01-03 — 19:15:45 UTC	Damian000, Pepe123	1840	5	25
-390843	3	24	No Variant	2021-01-03 — 01:07:00 UTC	bob65536, Damian000, knaphill	3260	5	25
-390798	6	23	No Variant	2021-01-03 — 00:11:10 UTC	Damian000, eljavi, indego, knaphill, rahsosprout, sean1815	115	5	25
+391860	3	0	No Variant	2021-01-03 — 23:21:38 UTC	banjoleb, Damian000, Lanvin	417	5	25
+391858	4	0	No Variant	2021-01-03 — 23:20:47 UTC	Damian000, jarhill0, JoeyExotic, Lanvin	507	5	25
+391809	3	0	No Variant	2021-01-03 — 22:44:49 UTC	banjoleb, Damian000, eidanjacob	428	5	25
+391772	4	20	4 Suits	2021-01-03 — 22:15:38 UTC	Damian000, frosty104, torp, ventinove	52	4	20
+391601	2	0	No Variant	2021-01-03 — 19:15:45 UTC	Damian000, Pepe123	1856	5	25
+390843	3	24	No Variant	2021-01-03 — 01:07:00 UTC	bob65536, Damian000, knaphill	3290	5	25
+390798	6	23	No Variant	2021-01-03 — 00:11:10 UTC	Damian000, eljavi, indego, knaphill, rahsosprout, sean1815	118	5	25
 390760	3	0	No Variant	2021-01-02 — 23:36:09 UTC	Damian000, eljavi, StKildaFan	25	5	25
 390739	3	25	No Variant	2021-01-02 — 23:23:47 UTC	Damian000, eljavi, StKildaFan	27	5	25
-390444	4	25	No Variant	2021-01-02 — 18:45:55 UTC	Damian000, diael, knaphill, nkkarpov	601	5	25
-390392	3	23	No Variant	2021-01-02 — 17:38:47 UTC	Damian000, knaphill, nkkarpov	4221	5	25
-390339	4	0	No Variant	2021-01-02 — 16:28:58 UTC	Damian000, frosty104, sephiroth, yumi	473	5	25
-390330	2	17	No Variant	2021-01-02 — 16:04:26 UTC	Damian000, yumi	2288	5	25
-390318	2	21	No Variant	2021-01-02 — 15:30:18 UTC	Damian000, yumi	2532	5	25
+390444	4	25	No Variant	2021-01-02 — 18:45:55 UTC	Damian000, diael, knaphill, nkkarpov	606	5	25
+390392	3	23	No Variant	2021-01-02 — 17:38:47 UTC	Damian000, knaphill, nkkarpov	4250	5	25
+390339	4	0	No Variant	2021-01-02 — 16:28:58 UTC	Damian000, frosty104, sephiroth, yumi	480	5	25
+390330	2	17	No Variant	2021-01-02 — 16:04:26 UTC	Damian000, yumi	2307	5	25
+390318	2	21	No Variant	2021-01-02 — 15:30:18 UTC	Damian000, yumi	2552	5	25
 390040	3	19	4 Suits	2021-01-02 — 05:16:09 UTC	Damian000, doctorabi, SevenSpirits	34	4	20
-389837	4	29	White (6 Suits)	2021-01-02 — 01:55:23 UTC	Damian000, Doge, Lanvin, ricardodd	35	6	30
-388588	5	20	4 Suits	2020-12-31 — 23:34:57 UTC	bjnh, Damian000, Lanvin, MarcLovesDogs, torp	23	4	20
-388561	3	20	4 Suits	2020-12-31 — 23:10:29 UTC	Damian000, ducky, Lanvin	44	4	20
-388526	3	19	4 Suits	2020-12-31 — 22:40:25 UTC	Damian000, ducky, Lanvin	59	4	20
-388382	3	25	No Variant	2020-12-31 — 20:25:54 UTC	Damian000, eljavi, narabio	645	5	25
-388346	4	0	No Variant	2020-12-31 — 19:24:13 UTC	ADrone, Damian000, holauqetal, zeinab001	158	5	25
-387601	4	25	No Variant	2020-12-30 — 23:02:24 UTC	3luff, Damian000, oliana, rahsosprout	442	5	25
-387587	6	24	No Variant	2020-12-30 — 22:30:01 UTC	3luff, Damian000, narabio, oliana, raramra, steenbean	179	5	25
-387545	6	22	No Variant	2020-12-30 — 21:45:05 UTC	3luff, Damian000, Jarapiri, narabio, oliana, steenbean	282	5	25
-387496	3	23	No Variant	2020-12-30 — 20:59:38 UTC	Damian000, kodomazer, oliana	30	5	25
-387459	6	21	No Variant	2020-12-30 — 20:21:32 UTC	ArualEIs, Damian000, Daryl, oliana, voss, witcher	91	5	25
+389837	4	29	White (6 Suits)	2021-01-02 — 01:55:23 UTC	Damian000, Doge, Lanvin, ricardodd	36	6	30
+388588	5	20	4 Suits	2020-12-31 — 23:34:57 UTC	bjnh, Damian000, Lanvin, MarcLovesDogs, torp	24	4	20
+388561	3	20	4 Suits	2020-12-31 — 23:10:29 UTC	Damian000, ducky, Lanvin	45	4	20
+388526	3	19	4 Suits	2020-12-31 — 22:40:25 UTC	Damian000, ducky, Lanvin	60	4	20
+388382	3	25	No Variant	2020-12-31 — 20:25:54 UTC	Damian000, eljavi, narabio	655	5	25
+388346	4	0	No Variant	2020-12-31 — 19:24:13 UTC	ADrone, Damian000, holauqetal, zeinab001	161	5	25
+387601	4	25	No Variant	2020-12-30 — 23:02:24 UTC	3luff, Damian000, oliana, rahsosprout	448	5	25
+387587	6	24	No Variant	2020-12-30 — 22:30:01 UTC	3luff, Damian000, narabio, oliana, raramra, steenbean	181	5	25
+387545	6	22	No Variant	2020-12-30 — 21:45:05 UTC	3luff, Damian000, Jarapiri, narabio, oliana, steenbean	284	5	25
+387496	3	23	No Variant	2020-12-30 — 20:59:38 UTC	Damian000, kodomazer, oliana	33	5	25
+387459	6	21	No Variant	2020-12-30 — 20:21:32 UTC	ArualEIs, Damian000, Daryl, oliana, voss, witcher	92	5	25
 386690	4	25	White-Ones (5 Suits)	2020-12-30 — 01:04:03 UTC	Damian000, Lanvin, steenbean, tezeteta	7	5	25
 386655	4	22	White-Ones (5 Suits)	2020-12-30 — 00:30:21 UTC	Damian000, Lanvin, steenbean, tezeteta	10	5	25
 386235	5	21	No Variant	2020-12-29 — 17:29:55 UTC	ArualEIs, bob65536, Damian000, MangoPie, sephiroth	135	5	25
-385569	2	22	No Variant	2020-12-29 — 01:40:22 UTC	Damian000, tezeteta	1376	5	25
-385562	2	19	No Variant	2020-12-29 — 01:30:16 UTC	Damian000, tezeteta	1448	5	25
-385550	2	24	No Variant	2020-12-29 — 01:16:05 UTC	Damian000, tezeteta	1952	5	25
-385540	2	25	No Variant	2020-12-29 — 01:06:21 UTC	Damian000, tezeteta	2147	5	25
-385531	2	22	No Variant	2020-12-29 — 00:54:22 UTC	Damian000, tezeteta	2750	5	25
-385521	2	21	No Variant	2020-12-29 — 00:42:35 UTC	Damian000, tezeteta	3051	5	25
-385510	2	21	No Variant	2020-12-29 — 00:29:21 UTC	Damian000, tezeteta	3507	5	25
-385494	2	0	No Variant	2020-12-29 — 00:15:40 UTC	Damian000, tezeteta	4109	5	25
-385486	2	23	No Variant	2020-12-29 — 00:03:47 UTC	Damian000, tezeteta	5374	5	25
+385569	2	22	No Variant	2020-12-29 — 01:40:22 UTC	Damian000, tezeteta	1392	5	25
+385562	2	19	No Variant	2020-12-29 — 01:30:16 UTC	Damian000, tezeteta	1460	5	25
+385550	2	24	No Variant	2020-12-29 — 01:16:05 UTC	Damian000, tezeteta	1966	5	25
+385540	2	25	No Variant	2020-12-29 — 01:06:21 UTC	Damian000, tezeteta	2166	5	25
+385531	2	22	No Variant	2020-12-29 — 00:54:22 UTC	Damian000, tezeteta	2772	5	25
+385521	2	21	No Variant	2020-12-29 — 00:42:35 UTC	Damian000, tezeteta	3072	5	25
+385510	2	21	No Variant	2020-12-29 — 00:29:21 UTC	Damian000, tezeteta	3537	5	25
+385494	2	0	No Variant	2020-12-29 — 00:15:40 UTC	Damian000, tezeteta	4149	5	25
+385486	2	23	No Variant	2020-12-29 — 00:03:47 UTC	Damian000, tezeteta	5421	5	25
 385106	4	24	No Variant	2020-12-28 — 17:38:56 UTC	Damian000, hanabornoob, macanek, wump	60	5	25
-384658	3	22	No Variant	2020-12-28 — 04:13:38 UTC	Damian000, hailey, padi	175	5	25
-384605	3	20	No Variant	2020-12-28 — 03:36:58 UTC	bob65536, Damian000, hailey	1174	5	25
-384403	3	23	No Variant	2020-12-28 — 00:19:10 UTC	Damian000, HelanaAshryvr, sephiroth	223	5	25
-381029	4	24	No Variant	2020-12-24 — 19:36:30 UTC	Damian000, JuliCulon, mmilaa, Nkuko	655	5	25
-381017	4	22	No Variant	2020-12-24 — 19:18:18 UTC	Damian000, JuliCulon, mmilaa, Nkuko	717	5	25
-379335	4	24	No Variant	2020-12-23 — 02:27:25 UTC	Damian000, JuliCulon, mmilaa, Nkuko	793	5	25
-375453	4	21	No Variant	2020-12-19 — 04:27:39 UTC	Damian000, JuliCulon, mmilaa, Nkuko	899	5	25
-375413	4	23	No Variant	2020-12-19 — 04:03:26 UTC	Damian000, JuliCulon, mmilaa, Nkuko	985	5	25
-373427	6	18	No Variant	2020-12-17 — 02:49:23 UTC	Damian000, JuliCulon, marcopolo, mmilaa, Nkuko, Rominytah	478	5	25
-371525	5	22	No Variant	2020-12-15 — 04:24:53 UTC	Damian000, JuliCulon, mmilaa, Nkuko, Rominytah	1119	5	25
-371456	5	0	No Variant	2020-12-15 — 03:55:41 UTC	Damian000, JuliCulon, mmilaa, Nkuko, Rominytah	1510	5	25
-371401	4	22	No Variant	2020-12-15 — 03:23:38 UTC	Damian000, JuliCulon, mmilaa, Nkuko	1092	5	25
-371267	4	24	No Variant	2020-12-15 — 01:14:45 UTC	Damian000, JuliCulon, mmilaa, Nkuko	1253	5	25
-371244	4	22	No Variant	2020-12-15 — 00:48:52 UTC	Damian000, JuliCulon, mmilaa, Nkuko	1449	5	25
-370656	4	22	No Variant	2020-12-14 — 04:48:01 UTC	Damian000, JuliCulon, mmilaa, Nkuko	1744	5	25
-370636	4	21	No Variant	2020-12-14 — 04:19:20 UTC	Damian000, JuliCulon, mmilaa, Nkuko	2076	5	25
-370608	4	23	No Variant	2020-12-14 — 03:52:53 UTC	Damian000, JuliCulon, mmilaa, Nkuko	2763	5	25
-370576	4	23	No Variant	2020-12-14 — 03:18:35 UTC	Damian000, JuliCulon, mmilaa, Nkuko	3581	5	25
-370549	5	0	No Variant	2020-12-14 — 02:48:41 UTC	Damian000, JuliCulon, mmilaa, Nkuko, Rominytah	1995	5	25
+384658	3	22	No Variant	2020-12-28 — 04:13:38 UTC	Damian000, hailey, padi	176	5	25
+384605	3	20	No Variant	2020-12-28 — 03:36:58 UTC	bob65536, Damian000, hailey	1180	5	25
+384403	3	23	No Variant	2020-12-28 — 00:19:10 UTC	Damian000, HelanaAshryvr, sephiroth	228	5	25
+381029	4	24	No Variant	2020-12-24 — 19:36:30 UTC	Damian000, JuliCulon, mmilaa, Nkuko	660	5	25
+381017	4	22	No Variant	2020-12-24 — 19:18:18 UTC	Damian000, JuliCulon, mmilaa, Nkuko	724	5	25
+379335	4	24	No Variant	2020-12-23 — 02:27:25 UTC	Damian000, JuliCulon, mmilaa, Nkuko	800	5	25
+375453	4	21	No Variant	2020-12-19 — 04:27:39 UTC	Damian000, JuliCulon, mmilaa, Nkuko	908	5	25
+375413	4	23	No Variant	2020-12-19 — 04:03:26 UTC	Damian000, JuliCulon, mmilaa, Nkuko	994	5	25
+373427	6	18	No Variant	2020-12-17 — 02:49:23 UTC	Damian000, JuliCulon, marcopolo, mmilaa, Nkuko, Rominytah	483	5	25
+371525	5	22	No Variant	2020-12-15 — 04:24:53 UTC	Damian000, JuliCulon, mmilaa, Nkuko, Rominytah	1125	5	25
+371456	5	0	No Variant	2020-12-15 — 03:55:41 UTC	Damian000, JuliCulon, mmilaa, Nkuko, Rominytah	1518	5	25
+371401	4	22	No Variant	2020-12-15 — 03:23:38 UTC	Damian000, JuliCulon, mmilaa, Nkuko	1103	5	25
+371267	4	24	No Variant	2020-12-15 — 01:14:45 UTC	Damian000, JuliCulon, mmilaa, Nkuko	1267	5	25
+371244	4	22	No Variant	2020-12-15 — 00:48:52 UTC	Damian000, JuliCulon, mmilaa, Nkuko	1459	5	25
+370656	4	22	No Variant	2020-12-14 — 04:48:01 UTC	Damian000, JuliCulon, mmilaa, Nkuko	1759	5	25
+370636	4	21	No Variant	2020-12-14 — 04:19:20 UTC	Damian000, JuliCulon, mmilaa, Nkuko	2094	5	25
+370608	4	23	No Variant	2020-12-14 — 03:52:53 UTC	Damian000, JuliCulon, mmilaa, Nkuko	2788	5	25
+370576	4	23	No Variant	2020-12-14 — 03:18:35 UTC	Damian000, JuliCulon, mmilaa, Nkuko	3609	5	25
+370549	5	0	No Variant	2020-12-14 — 02:48:41 UTC	Damian000, JuliCulon, mmilaa, Nkuko, Rominytah	2011	5	25

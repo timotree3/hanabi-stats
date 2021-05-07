@@ -12,7 +12,7 @@
 499046	3	0	Rainbow & Light Pink (5 Suits)	2021-04-12 — 22:58:51 UTC	HelanaAshryvr, Lanvin, swineherd	1	5	25
 496495	5	24	White & Muddy Rainbow (5 Suits)	2021-04-10 — 20:54:10 UTC	asaelr, Lanvin, swineherd, Syrah, voss	4	5	25
 493975	5	0	Pink & Prism (5 Suits)	2021-04-08 — 14:27:52 UTC	MarkusKahlsen, possum, rz, sephiroth, swineherd	2	5	25
-493894	4	25	No Variant	2021-04-08 — 09:55:21 UTC	BananaBum, mgce, swineherd, Zakisan	103	5	25
+493894	4	25	No Variant	2021-04-08 — 09:55:21 UTC	BananaBum, mgce, swineherd, Zakisan	104	5	25
 493891	4	0	No Variant	2021-04-08 — 09:36:45 UTC	BananaBum, mgce, swineherd, Zakisan	116	5	25
 493888	4	0	Pink & Omni (5 Suits)	2021-04-08 — 09:12:10 UTC	indego, Lel0uch, swineherd, Zakisan	3	5	25
 493883	3	0	Pink & Brown (5 Suits)	2021-04-08 — 08:43:54 UTC	melwen, swineherd, Zakisan	1	5	25
@@ -27,8 +27,8 @@
 493109	4	0	Pink & Brown (5 Suits)	2021-04-07 — 17:03:29 UTC	MarkusKahlsen, rz, swineherd, wump	1	5	25
 493104	4	0	Pink & Brown (5 Suits)	2021-04-07 — 17:00:11 UTC	MarkusKahlsen, rz, swineherd, wump	1	5	25
 493087	4	25	Pink & Brown (5 Suits)	2021-04-07 — 16:37:47 UTC	MarkusKahlsen, rz, swineherd, wump	1	5	25
-493062	3	21	Black & Rainbow (5 Suits)	2021-04-07 — 15:32:40 UTC	swineherd, Syrah, Zakisan	15	5	25
-493056	3	0	Black & Rainbow (5 Suits)	2021-04-07 — 15:13:28 UTC	swineherd, Syrah, Zakisan	19	5	25
+493062	3	21	Black & Rainbow (5 Suits)	2021-04-07 — 15:32:40 UTC	swineherd, Syrah, Zakisan	16	5	25
+493056	3	0	Black & Rainbow (5 Suits)	2021-04-07 — 15:13:28 UTC	swineherd, Syrah, Zakisan	20	5	25
 493052	3	0	Black & Rainbow (5 Suits)	2021-04-07 — 15:01:57 UTC	swineherd, Syrah, Zakisan	23	5	25
 493026	4	25	Pink & Prism (5 Suits)	2021-04-07 — 12:31:11 UTC	asaelr, jack67889, lotem, swineherd	1	5	25
 493022	4	0	Pink & Prism (5 Suits)	2021-04-07 — 12:15:52 UTC	asaelr, jack67889, lotem, swineherd	1	5	25
@@ -57,7 +57,7 @@
 486360	3	0	Muddy Rainbow (5 Suits)	2021-03-31 — 10:33:31 UTC	robense, swineherd, Wittvector	37	5	25
 486062	3	0	Dark Pink (6 Suits)	2021-03-31 — 02:15:29 UTC	dobi, qqqq, swineherd	13	6	30
 486043	3	0	Dark Pink (6 Suits)	2021-03-31 — 02:03:30 UTC	dobi, qqqq, swineherd	15	6	30
-486010	3	30	Dark Pink (6 Suits)	2021-03-31 — 01:38:49 UTC	dobi, qqqq, swineherd	17	6	30
+486010	3	30	Dark Pink (6 Suits)	2021-03-31 — 01:38:49 UTC	dobi, qqqq, swineherd	18	6	30
 484351	4	0	White & Dark Omni (6 Suits)	2021-03-29 — 12:46:21 UTC	Lel0uch, melwen, swineherd, VerySloppyTwo	1	6	30
 484339	4	29	White & Dark Omni (6 Suits)	2021-03-29 — 12:24:53 UTC	Lel0uch, melwen, swineherd, VerySloppyTwo	1	6	30
 483818	5	20	Up or Down & Light Pink (5 Suits)	2021-03-28 — 21:18:09 UTC	Arcee, griff77, Kyle, MangoPie, swineherd	3	5	25
@@ -77,14 +77,14 @@
 480689	4	25	Brown & Prism (5 Suits)	2021-03-26 — 00:22:05 UTC	dobi, Lanvin, MarkusKahlsen, swineherd	1	5	25
 480673	4	0	Brown & Prism (5 Suits)	2021-03-26 — 00:02:31 UTC	dobi, Lanvin, MarkusKahlsen, swineherd	1	5	25
 480651	4	0	Brown & Prism (5 Suits)	2021-03-25 — 23:36:46 UTC	Kyle, Lanvin, Pimak, swineherd	2	5	25
-480634	3	25	Dark Prism (5 Suits)	2021-03-25 — 23:12:19 UTC	Lanvin, Pimak, swineherd	4	5	25
+480634	3	25	Dark Prism (5 Suits)	2021-03-25 — 23:12:19 UTC	Lanvin, Pimak, swineherd	5	5	25
 480614	3	24	Dark Prism (5 Suits)	2021-03-25 — 22:53:33 UTC	Lanvin, Pimak, swineherd	5	5	25
 479845	5	25	Brown & Prism (5 Suits)	2021-03-25 — 02:44:23 UTC	bjnh, Doge, HelanaAshryvr, Lanvin, swineherd	4	5	25
 479807	5	24	Brown & Prism (5 Suits)	2021-03-25 — 02:18:30 UTC	bjnh, Doge, HelanaAshryvr, Lanvin, swineherd	3	5	25
 479784	5	0	Brown & Prism (5 Suits)	2021-03-25 — 01:56:58 UTC	bjnh, Doge, HelanaAshryvr, Lanvin, swineherd	5	5	25
-479765	3	23	Brown & Dark Prism (5 Suits)	2021-03-25 — 01:35:54 UTC	HelanaAshryvr, Lanvin, swineherd	2	5	25
-479746	3	25	Brown & Dark Prism (5 Suits)	2021-03-25 — 01:18:18 UTC	HelanaAshryvr, Lanvin, swineherd	2	5	25
-479723	3	0	Brown & Dark Prism (5 Suits)	2021-03-25 — 01:03:55 UTC	HelanaAshryvr, Lanvin, swineherd	2	5	25
+479765	3	23	Brown & Dark Prism (5 Suits)	2021-03-25 — 01:35:54 UTC	HelanaAshryvr, Lanvin, swineherd	3	5	25
+479746	3	25	Brown & Dark Prism (5 Suits)	2021-03-25 — 01:18:18 UTC	HelanaAshryvr, Lanvin, swineherd	3	5	25
+479723	3	0	Brown & Dark Prism (5 Suits)	2021-03-25 — 01:03:55 UTC	HelanaAshryvr, Lanvin, swineherd	3	5	25
 478339	3	25	Brown & Prism (5 Suits)	2021-03-23 — 21:45:48 UTC	bjnh, Floriman, swineherd	9	5	25
 478167	4	23	Brown & Prism (5 Suits)	2021-03-23 — 19:10:53 UTC	Lanvin, MarkusKahlsen, sephiroth, swineherd	3	5	25
 478161	4	0	Brown & Prism (5 Suits)	2021-03-23 — 18:56:38 UTC	Lanvin, MarkusKahlsen, sephiroth, swineherd	3	5	25
@@ -99,27 +99,27 @@
 477288	4	30	Pink & Brown (6 Suits)	2021-03-22 — 22:11:59 UTC	fishcat, Floriman, pianoblook, swineherd	13	6	30
 475973	4	0	Dark Brown (6 Suits)	2021-03-21 — 18:14:38 UTC	Onen, rz, swineherd, wump	15	6	30
 475961	4	0	Dark Brown (6 Suits)	2021-03-21 — 17:59:29 UTC	Onen, rz, swineherd, wump	15	6	30
-475955	4	30	Dark Pink (6 Suits)	2021-03-21 — 17:46:26 UTC	Onen, rz, swineherd, wump	29	6	30
-475940	3	24	Dark Pink (5 Suits)	2021-03-21 — 17:24:23 UTC	rz, Spieler42, swineherd	26	5	25
+475955	4	30	Dark Pink (6 Suits)	2021-03-21 — 17:46:26 UTC	Onen, rz, swineherd, wump	30	6	30
+475940	3	24	Dark Pink (5 Suits)	2021-03-21 — 17:24:23 UTC	rz, Spieler42, swineherd	27	5	25
 475924	3	0	Dark Pink (5 Suits)	2021-03-21 — 17:00:53 UTC	rz, Spieler42, swineherd	38	5	25
-475917	3	0	Dark Pink (5 Suits)	2021-03-21 — 16:42:24 UTC	rz, Spieler42, swineherd	42	5	25
-475904	3	0	Rainbow (3 Suits)	2021-03-21 — 16:26:15 UTC	rz, Spieler42, swineherd	24	3	15
+475917	3	0	Dark Pink (5 Suits)	2021-03-21 — 16:42:24 UTC	rz, Spieler42, swineherd	44	5	25
+475904	3	0	Rainbow (3 Suits)	2021-03-21 — 16:26:15 UTC	rz, Spieler42, swineherd	25	3	15
 473759	4	21	Rainbow & Gray Pink (5 Suits)	2021-03-19 — 18:44:13 UTC	indego, kevincaseytdk1, Lanvin, swineherd	6	5	25
 473741	3	27	White & Dark Pink (6 Suits)	2021-03-19 — 18:25:06 UTC	kevincaseytdk1, Lanvin, swineherd	4	6	30
 473719	3	0	White & Dark Pink (6 Suits)	2021-03-19 — 18:05:27 UTC	kevincaseytdk1, Lanvin, swineherd	4	6	30
 473590	4	25	Pink & Brown (5 Suits)	2021-03-19 — 14:38:51 UTC	Fey, possum, rz, swineherd	2	5	25
 473577	5	24	Pink & Brown (5 Suits)	2021-03-19 — 14:02:23 UTC	Fey, possum, robense, rz, swineherd	7	5	25
-472819	4	24	No Variant	2021-03-18 — 21:54:23 UTC	ksfortson, Onen, RaeF, swineherd	31	5	25
-472595	4	24	Gray (5 Suits)	2021-03-18 — 19:37:42 UTC	CaitlinSmith, ChristopheAF, kevincaseytdk1, swineherd	4	5	25
-472558	4	23	Gray (5 Suits)	2021-03-18 — 19:09:08 UTC	CaitlinSmith, ChristopheAF, kevincaseytdk1, swineherd	4	5	25
+472819	4	24	No Variant	2021-03-18 — 21:54:23 UTC	ksfortson, Onen, RaeF, swineherd	32	5	25
+472595	4	24	Gray (5 Suits)	2021-03-18 — 19:37:42 UTC	CaitlinSmith, ChristopheAF, kevincaseytdk1, swineherd	6	5	25
+472558	4	23	Gray (5 Suits)	2021-03-18 — 19:09:08 UTC	CaitlinSmith, ChristopheAF, kevincaseytdk1, swineherd	6	5	25
 472531	4	0	Black & Brown (5 Suits)	2021-03-18 — 18:46:13 UTC	CaitlinSmith, indego, kevincaseytdk1, swineherd	3	5	25
-472496	4	0	Black & Brown (5 Suits)	2021-03-18 — 18:30:16 UTC	CaitlinSmith, indego, kevincaseytdk1, swineherd	5	5	25
-472486	4	0	Black & Brown (5 Suits)	2021-03-18 — 18:12:33 UTC	CaitlinSmith, indego, kevincaseytdk1, swineherd	6	5	25
+472496	4	0	Black & Brown (5 Suits)	2021-03-18 — 18:30:16 UTC	CaitlinSmith, indego, kevincaseytdk1, swineherd	6	5	25
+472486	4	0	Black & Brown (5 Suits)	2021-03-18 — 18:12:33 UTC	CaitlinSmith, indego, kevincaseytdk1, swineherd	7	5	25
 472478	4	0	Black & Brown (5 Suits)	2021-03-18 — 18:01:21 UTC	CaitlinSmith, indego, kevincaseytdk1, swineherd	10	5	25
 472468	4	0	Black & Brown (5 Suits)	2021-03-18 — 17:55:25 UTC	CaitlinSmith, indego, kevincaseytdk1, swineherd	13	5	25
 472453	4	25	Rainbow & Pink (5 Suits)	2021-03-18 — 17:42:25 UTC	CaitlinSmith, indego, kevincaseytdk1, swineherd	4	5	25
 472437	3	25	Cocoa Rainbow (5 Suits)	2021-03-18 — 17:13:39 UTC	indego, swineherd, TimeHoodie	6	5	25
-471545	4	30	Dark Pink (6 Suits)	2021-03-17 — 19:57:36 UTC	Denchulitas, kevincaseytdk1, sephiroth, swineherd	4	6	30
+471545	4	30	Dark Pink (6 Suits)	2021-03-17 — 19:57:36 UTC	Denchulitas, kevincaseytdk1, sephiroth, swineherd	5	6	30
 471406	5	0	Dark Prism (6 Suits)	2021-03-17 — 17:58:06 UTC	asaelr, fowill, jack67889, Lanvin, swineherd	4	6	30
 471377	5	0	Gray (6 Suits)	2021-03-17 — 16:59:31 UTC	bjnh, HelanaAshryvr, indego, melwen, swineherd	3	6	30
 470408	3	25	Rainbow & Prism (5 Suits)	2021-03-16 — 20:44:09 UTC	asaelr, HariKrishnan, swineherd	26	5	25
@@ -130,13 +130,13 @@
 470084	3	27	Black & Omni (6 Suits)	2021-03-16 — 11:57:32 UTC	Lel0uch, sephiroth, swineherd	3	6	30
 470081	3	0	Black & Omni (6 Suits)	2021-03-16 — 11:42:25 UTC	Lel0uch, sephiroth, swineherd	3	6	30
 469255	5	24	Rainbow & Prism (5 Suits)	2021-03-15 — 19:46:22 UTC	Bonja97, ChristopheAF, indego, newduke, swineherd	7	5	25
-469238	4	0	Gray (5 Suits)	2021-03-15 — 19:28:27 UTC	Bonja97, indego, newduke, swineherd	3	5	25
-469230	4	0	Gray (5 Suits)	2021-03-15 — 19:23:50 UTC	Bonja97, indego, newduke, swineherd	3	5	25
-469198	4	0	Gray (5 Suits)	2021-03-15 — 19:01:56 UTC	Bonja97, indego, newduke, swineherd	3	5	25
+469238	4	0	Gray (5 Suits)	2021-03-15 — 19:28:27 UTC	Bonja97, indego, newduke, swineherd	6	5	25
+469230	4	0	Gray (5 Suits)	2021-03-15 — 19:23:50 UTC	Bonja97, indego, newduke, swineherd	6	5	25
+469198	4	0	Gray (5 Suits)	2021-03-15 — 19:01:56 UTC	Bonja97, indego, newduke, swineherd	6	5	25
 469179	4	20	Prism Reversed (4 Suits)	2021-03-15 — 18:43:48 UTC	Bonja97, indego, Kyle, swineherd	1	4	20
 469164	4	0	Prism Reversed (4 Suits)	2021-03-15 — 18:31:54 UTC	Bonja97, indego, Kyle, swineherd	2	4	20
-469153	3	0	Up or Down & Prism (5 Suits)	2021-03-15 — 18:21:10 UTC	indego, Kyle, swineherd	14	5	25
-469079	3	25	Pink (5 Suits)	2021-03-15 — 16:35:47 UTC	Aluap, possum, swineherd	49	5	25
+469153	3	0	Up or Down & Prism (5 Suits)	2021-03-15 — 18:21:10 UTC	indego, Kyle, swineherd	16	5	25
+469079	3	25	Pink (5 Suits)	2021-03-15 — 16:35:47 UTC	Aluap, possum, swineherd	51	5	25
 469050	5	25	Rainbow (5 Suits)	2021-03-15 — 15:43:20 UTC	Aluap, possum, rz, swineherd, wolfpack	6	5	25
 468927	4	25	Special Mix (5 Suits)	2021-03-15 — 10:57:28 UTC	asaelr, ChristopheAF, katian, swineherd	5	5	25
 468917	4	0	Special Mix (5 Suits)	2021-03-15 — 10:40:15 UTC	asaelr, ChristopheAF, katian, swineherd	5	5	25
@@ -148,16 +148,16 @@
 468384	3	0	No Variant	2021-03-14 — 21:40:16 UTC	asaelr, swineherd, username5	9	5	25
 467891	3	0	Dark Null (5 Suits)	2021-03-14 — 10:31:48 UTC	qqqq, sephiroth, swineherd	7	5	25
 467887	3	0	Dark Null (5 Suits)	2021-03-14 — 10:25:20 UTC	qqqq, sephiroth, swineherd	8	5	25
-466444	3	20	Dark Prism (5 Suits)	2021-03-13 — 04:43:09 UTC	qqqq, sephiroth, swineherd	6	5	25
-466428	3	0	Dark Prism (5 Suits)	2021-03-13 — 04:29:15 UTC	qqqq, sephiroth, swineherd	8	5	25
+466444	3	20	Dark Prism (5 Suits)	2021-03-13 — 04:43:09 UTC	qqqq, sephiroth, swineherd	7	5	25
+466428	3	0	Dark Prism (5 Suits)	2021-03-13 — 04:29:15 UTC	qqqq, sephiroth, swineherd	9	5	25
 464590	5	24	Rainbow & Pink (5 Suits)	2021-03-11 — 13:47:19 UTC	indego, Kernel, Lanvin, StKildaFan, swineherd	5	5	25
 464581	5	0	Special Mix (5 Suits)	2021-03-11 — 13:24:50 UTC	ChristopheAF, kopen, Lanvin, sephiroth, swineherd	1	5	25
 464566	5	0	White & Cocoa Rainbow (5 Suits)	2021-03-11 — 12:45:17 UTC	kopen, Lanvin, Lel0uch, MarkusKahlsen, swineherd	1	5	25
 464564	5	30	Pink & Gray (6 Suits)	2021-03-11 — 12:35:25 UTC	kopen, Lanvin, Lel0uch, swineherd, VerySloppyTwo	1	6	30
 464559	5	0	Pink & Gray (6 Suits)	2021-03-11 — 12:15:10 UTC	kopen, Lanvin, Lel0uch, swineherd, VerySloppyTwo	2	6	30
 464553	4	0	Rainbow & Dark Brown (5 Suits)	2021-03-11 — 12:03:09 UTC	kopen, Lanvin, Lel0uch, swineherd	1	5	25
-464499	3	0	Up or Down (5 Suits)	2021-03-11 — 09:40:56 UTC	dobi, knaphill, swineherd	57	5	25
-463776	4	0	Rainbow Reversed (5 Suits)	2021-03-10 — 19:14:39 UTC	indego, Lanvin, rahsosprout, swineherd	11	5	25
+464499	3	0	Up or Down (5 Suits)	2021-03-11 — 09:40:56 UTC	dobi, knaphill, swineherd	59	5	25
+463776	4	0	Rainbow Reversed (5 Suits)	2021-03-10 — 19:14:39 UTC	indego, Lanvin, rahsosprout, swineherd	13	5	25
 463550	4	21	Rainbow & Dark Brown (5 Suits)	2021-03-10 — 14:05:30 UTC	asaelr, Denchulitas, Hoodie, swineherd	3	5	25
 463540	4	0	Rainbow & Dark Brown (5 Suits)	2021-03-10 — 13:44:16 UTC	asaelr, Denchulitas, Hoodie, swineherd	4	5	25
 463532	4	0	Rainbow & Dark Brown (5 Suits)	2021-03-10 — 13:30:48 UTC	asaelr, Denchulitas, Hoodie, swineherd	5	5	25
@@ -169,12 +169,12 @@
 455634	3	0	Black & Pink (6 Suits)	2021-03-03 — 22:06:57 UTC	MarkusKahlsen, swineherd, torp	31	6	30
 454699	5	23	Pink & Brown (5 Suits)	2021-03-02 — 23:59:57 UTC	IsabeltheCat, Lanvin, MarkusKahlsen, robense, swineherd	1	5	25
 454344	5	25	Pink & Brown (5 Suits)	2021-03-02 — 20:00:33 UTC	ChristopheAF, Lanvin, swineherd, TimeHoodie, Wittvector	4	5	25
-454080	3	30	Black & Prism (6 Suits)	2021-03-02 — 10:19:18 UTC	Denchulitas, sephiroth, swineherd	18	6	30
+454080	3	30	Black & Prism (6 Suits)	2021-03-02 — 10:19:18 UTC	Denchulitas, sephiroth, swineherd	19	6	30
 452444	5	24	Rainbow & Prism (5 Suits)	2021-02-28 — 23:16:33 UTC	ChristopheAF, Denchulitas, MangoPie, sephiroth, swineherd	9	5	25
 452371	4	25	Pink & White (5 Suits)	2021-02-28 — 22:26:36 UTC	asaelr, dobi, orucsoraihc, swineherd	11	5	25
-452341	2	25	No Variant	2021-02-28 — 22:03:24 UTC	asaelr, swineherd	92	5	25
+452341	2	25	No Variant	2021-02-28 — 22:03:24 UTC	asaelr, swineherd	93	5	25
 452323	5	24	Rainbow & Prism (5 Suits)	2021-02-28 — 21:49:27 UTC	asaelr, kopen, Kyle, swineherd, Valetta6789	8	5	25
-452298	4	0	Dark Prism (6 Suits)	2021-02-28 — 21:11:54 UTC	eljavi, indego, knaphill, swineherd	10	6	30
+452298	4	0	Dark Prism (6 Suits)	2021-02-28 — 21:11:54 UTC	eljavi, indego, knaphill, swineherd	11	6	30
 452281	4	0	Dark Prism (6 Suits)	2021-02-28 — 20:57:22 UTC	eljavi, indego, knaphill, swineherd	14	6	30
 452246	4	0	Dark Prism (6 Suits)	2021-02-28 — 20:42:48 UTC	eljavi, indego, knaphill, swineherd	23	6	30
 452136	3	22	Dark Prism (5 Suits)	2021-02-28 — 19:41:51 UTC	eljavi, MangoPie, swineherd	12	5	25
@@ -188,10 +188,10 @@
 451414	4	0	Pink & Muddy Rainbow (5 Suits)	2021-02-28 — 01:54:51 UTC	derekcheah, indegoo, kopen, swineherd	6	5	25
 451402	4	0	Pink & Muddy Rainbow (6 Suits)	2021-02-28 — 01:41:05 UTC	derekcheah, indego, newduke, swineherd	2	6	30
 451395	4	0	Pink & Muddy Rainbow (6 Suits)	2021-02-28 — 01:34:12 UTC	derekcheah, indego, newduke, swineherd	7	6	30
-451384	4	0	No Variant	2021-02-28 — 01:23:46 UTC	derekcheah, indego, newduke, swineherd	55	5	25
+451384	4	0	No Variant	2021-02-28 — 01:23:46 UTC	derekcheah, indego, newduke, swineherd	56	5	25
 446878	3	25	White & Null (5 Suits)	2021-02-23 — 20:01:29 UTC	indego, swineherd, TheDaniMan	6	5	25
 446753	4	22	Black & Rainbow (5 Suits)	2021-02-23 — 18:42:41 UTC	CaitlinSmith, griff77, jeff10, swineherd	12	5	25
-446713	4	30	Omni (6 Suits)	2021-02-23 — 17:45:42 UTC	BraydonM, swineherd, TimeHoodie, Wittvector	8	6	30
+446713	4	30	Omni (6 Suits)	2021-02-23 — 17:45:42 UTC	BraydonM, swineherd, TimeHoodie, Wittvector	9	6	30
 446600	5	30	White-Ones & Muddy Rainbow (6 Suits)	2021-02-23 — 14:10:41 UTC	eliclax, MangoPie, possum, rz, swineherd	2	6	30
 446596	5	0	White-Ones & Muddy Rainbow (6 Suits)	2021-02-23 — 13:43:58 UTC	eliclax, MangoPie, possum, rz, swineherd	2	6	30
 445947	4	0	Rainbow & Pink (5 Suits)	2021-02-22 — 22:30:30 UTC	Dr_Kakashi, indego, swineherd, VerySloppyTwo	4	5	25
@@ -208,8 +208,8 @@
 445640	3	0	Pink & Muddy Rainbow (6 Suits)	2021-02-22 — 17:16:08 UTC	rz, swineherd, Wittvector	5	6	30
 445622	3	0	Pink & Muddy Rainbow (6 Suits)	2021-02-22 — 17:00:59 UTC	rz, swineherd, Wittvector	4	6	30
 445597	3	0	Pink & Muddy Rainbow (6 Suits)	2021-02-22 — 16:42:17 UTC	rz, swineherd, Wittvector	7	6	30
-445513	5	23	Pink & Prism (5 Suits)	2021-02-22 — 14:57:35 UTC	indego, MarkusKahlsen, PMP, swineherd, Wittvector	1	5	25
-445487	5	24	Pink & Prism (5 Suits)	2021-02-22 — 14:24:36 UTC	indego, MarkusKahlsen, PMP, swineherd, Wittvector	5	5	25
+445513	5	23	Pink & Prism (5 Suits)	2021-02-22 — 14:57:35 UTC	indego, MarkusKahlsen, PMP, swineherd, Wittvector	2	5	25
+445487	5	24	Pink & Prism (5 Suits)	2021-02-22 — 14:24:36 UTC	indego, MarkusKahlsen, PMP, swineherd, Wittvector	6	5	25
 445473	4	0	Pink & Dark Brown (5 Suits)	2021-02-22 — 13:29:03 UTC	hakha3, Lel0uch, melwen, swineherd	3	5	25
 445467	4	25	Pink & Gray (5 Suits)	2021-02-22 — 13:19:24 UTC	hakha3, Lel0uch, melwen, swineherd	3	5	25
 445454	4	22	Pink & Gray (5 Suits)	2021-02-22 — 12:57:46 UTC	hakha3, Lel0uch, melwen, swineherd	4	5	25
@@ -233,7 +233,7 @@
 440882	5	0	Up or Down & Rainbow (6 Suits)	2021-02-18 — 14:45:42 UTC	Lanvin, sephiroth, swineherd, TimeHoodie, VerySloppyTwo	1	6	30
 440876	5	0	Special Mix (5 Suits)	2021-02-18 — 14:36:27 UTC	Lanvin, sephiroth, swineherd, TimeHoodie, VerySloppyTwo	2	5	25
 440872	4	0	Black & Brown (6 Suits)	2021-02-18 — 14:30:35 UTC	katian, Lanvin, sephiroth, swineherd	1	6	30
-440851	4	22	Black (5 Suits)	2021-02-18 — 12:50:56 UTC	knaphill, possum, Spieler42, swineherd	44	5	25
+440851	4	22	Black (5 Suits)	2021-02-18 — 12:50:56 UTC	knaphill, possum, Spieler42, swineherd	47	5	25
 440832	4	25	No Variant	2021-02-18 — 12:05:19 UTC	asaelr, Fey, swineherd, TimeHoodie	11	5	25
 439835	4	0	Black & Muddy Rainbow (6 Suits)	2021-02-17 — 09:26:35 UTC	4head, pianoblook, sephiroth, swineherd	3	6	30
 439826	4	0	Black & Muddy Rainbow (6 Suits)	2021-02-17 — 08:53:32 UTC	4head, pianoblook, sephiroth, swineherd	3	6	30
@@ -241,13 +241,13 @@
 439818	5	0	Omni-Fives (5 Suits)	2021-02-17 — 08:13:31 UTC	4head, indego, lolthisnotderk, swineherd, VerySloppyTwo	3	5	25
 439016	4	25	Pink & Brown (5 Suits)	2021-02-16 — 08:43:39 UTC	indego, louietyj, sephiroth, swineherd	2	5	25
 438997	3	25	Rainbow & Pink (5 Suits)	2021-02-16 — 07:59:58 UTC	louietyj, sephiroth, swineherd	19	5	25
-438984	3	0	Rainbow & Pink (5 Suits)	2021-02-16 — 07:40:28 UTC	louietyj, sephiroth, swineherd	22	5	25
-437757	3	20	4 Suits	2021-02-15 — 04:05:12 UTC	dobi, mestrepoke, swineherd	70	4	20
-436782	4	0	Black & Muddy Rainbow (6 Suits)	2021-02-14 — 11:48:07 UTC	asaelr, notANewPlayer, sephiroth, swineherd	5	6	30
+438984	3	0	Rainbow & Pink (5 Suits)	2021-02-16 — 07:40:28 UTC	louietyj, sephiroth, swineherd	23	5	25
+437757	3	20	4 Suits	2021-02-15 — 04:05:12 UTC	dobi, mestrepoke, swineherd	71	4	20
+436782	4	0	Black & Muddy Rainbow (6 Suits)	2021-02-14 — 11:48:07 UTC	asaelr, notANewPlayer, sephiroth, swineherd	6	6	30
 436692	5	27	Dark Rainbow (6 Suits)	2021-02-14 — 08:05:59 UTC	cockdestroyer, frosty104, katian, swineherd, TheDaniMan	11	6	30
 431555	5	25	Pink & White (5 Suits)	2021-02-09 — 22:45:24 UTC	Floriman, jeff10, kimbifille, swineherd, Wittvector	1	5	25
 431301	4	0	Rainbow (5 Suits)	2021-02-09 — 19:36:30 UTC	dobi, Floriman, MathNoob, swineherd	13	5	25
-431287	4	20	4 Suits	2021-02-09 — 19:22:34 UTC	dobi, Floriman, MathNoob, swineherd	77	4	20
+431287	4	20	4 Suits	2021-02-09 — 19:22:34 UTC	dobi, Floriman, MathNoob, swineherd	80	4	20
 428093	4	0	Dark Brown (6 Suits)	2021-02-06 — 22:13:13 UTC	Floriman, Lanvin, swineherd, Wittvector	17	6	30
 426857	4	23	Black & White (5 Suits)	2021-02-05 — 22:03:10 UTC	Div, MarkusKahlsen, swineherd, VerySloppyTwo	5	5	25
 426820	4	0	Black & White (5 Suits)	2021-02-05 — 21:38:38 UTC	Div, MarkusKahlsen, swineherd, VerySloppyTwo	5	5	25
@@ -274,8 +274,8 @@
 417433	4	25	Pink & Brown (5 Suits)	2021-01-28 — 09:08:23 UTC	indego, katian, swineherd, VerySloppyTwo	2	5	25
 417430	4	0	Pink & Brown (5 Suits)	2021-01-28 — 08:39:36 UTC	indego, katian, macanek, swineherd	2	5	25
 416312	5	27	Dark Brown (6 Suits)	2021-01-27 — 09:57:35 UTC	katian, Lel0uch, sephiroth, swineherd, Wittvector	9	6	30
-414271	5	0	Black (6 Suits)	2021-01-25 — 03:45:30 UTC	Asddsa76, Doge, indego, nkkarpov, swineherd	15	6	30
-414240	5	0	Black (6 Suits)	2021-01-25 — 03:11:28 UTC	Asddsa76, Doge, indego, nkkarpov, swineherd	16	6	30
+414271	5	0	Black (6 Suits)	2021-01-25 — 03:45:30 UTC	Asddsa76, Doge, indego, nkkarpov, swineherd	16	6	30
+414240	5	0	Black (6 Suits)	2021-01-25 — 03:11:28 UTC	Asddsa76, Doge, indego, nkkarpov, swineherd	17	6	30
 414217	5	0	Black (6 Suits)	2021-01-25 — 02:56:18 UTC	Asddsa76, Doge, indego, nkkarpov, swineherd	24	6	30
 412033	4	0	Pink & Dark Rainbow (5 Suits)	2021-01-23 — 04:50:54 UTC	dobi, Lel0uch, melwen, swineherd	1	5	25
 412002	4	0	Pink & Dark Rainbow (5 Suits)	2021-01-23 — 04:34:28 UTC	dobi, Lel0uch, melwen, swineherd	1	5	25
@@ -289,7 +289,7 @@
 411755	4	24	Pink & Dark Rainbow (5 Suits)	2021-01-23 — 00:35:06 UTC	melwen, sephiroth, swineherd, Zamiel	1	5	25
 410874	3	0	Black & Prism (6 Suits)	2021-01-21 — 22:57:23 UTC	Kyle, sephiroth, swineherd	22	6	30
 409755	4	20	Pink & Gray (5 Suits)	2021-01-20 — 18:38:12 UTC	Fey, Lanvin, rz, swineherd	5	5	25
-407993	4	21	Gray (5 Suits)	2021-01-18 — 23:13:40 UTC	ChristopheAF, ksfortson, robense, swineherd	5	5	25
+407993	4	21	Gray (5 Suits)	2021-01-18 — 23:13:40 UTC	ChristopheAF, ksfortson, robense, swineherd	8	5	25
 404363	3	0	Dark Prism (6 Suits)	2021-01-15 — 21:37:19 UTC	Div, sephiroth, swineherd	2	6	30
 404343	3	0	Dark Prism (6 Suits)	2021-01-15 — 21:16:09 UTC	Div, sephiroth, swineherd	3	6	30
 404319	5	25	Pink & Brown (5 Suits)	2021-01-15 — 20:57:27 UTC	MarkusKahlsen, sephiroth, swineherd, VerySloppyTwo, XMIL	3	5	25
@@ -297,28 +297,28 @@
 404212	4	0	Pink-Ones & Null (5 Suits)	2021-01-15 — 19:26:35 UTC	ChristopheAF, jeff10, Lanvin, swineherd	1	5	25
 404059	4	25	Pink & Brown (5 Suits)	2021-01-15 — 15:28:05 UTC	HelanaAshryvr, Lanvin, sin_nofaith, swineherd	4	5	25
 404050	4	0	Pink & Brown (5 Suits)	2021-01-15 — 15:09:11 UTC	HelanaAshryvr, Lanvin, sin_nofaith, swineherd	15	5	25
-403081	5	0	Dark Pink (6 Suits)	2021-01-14 — 15:53:53 UTC	Floriman, HelanaAshryvr, indego, Pablo-, swineherd	12	6	30
+403081	5	0	Dark Pink (6 Suits)	2021-01-14 — 15:53:53 UTC	Floriman, HelanaAshryvr, indego, Pablo-, swineherd	14	6	30
 400382	3	25	Rainbow Reversed (5 Suits)	2021-01-11 — 20:38:43 UTC	ChristopheAF, Kyle, swineherd	2	5	25
 400367	3	0	Rainbow Reversed (5 Suits)	2021-01-11 — 20:24:30 UTC	ChristopheAF, Kyle, swineherd	2	5	25
 400355	3	0	Rainbow Reversed (5 Suits)	2021-01-11 — 20:16:31 UTC	ChristopheAF, Kyle, swineherd	3	5	25
-400339	4	30	Dual-Color & Rainbow (6 Suits)	2021-01-11 — 19:59:02 UTC	ChristopheAF, Nitrate2, Pablo-, swineherd	12	6	30
-400311	5	0	Dual-Color & Rainbow (6 Suits)	2021-01-11 — 19:30:48 UTC	ChristopheAF, Nitrate2, Pablo-, swineherd, VerySloppyTwo	3	6	30
+400339	4	30	Dual-Color & Rainbow (6 Suits)	2021-01-11 — 19:59:02 UTC	ChristopheAF, Nitrate2, Pablo-, swineherd	13	6	30
+400311	5	0	Dual-Color & Rainbow (6 Suits)	2021-01-11 — 19:30:48 UTC	ChristopheAF, Nitrate2, Pablo-, swineherd, VerySloppyTwo	4	6	30
 400293	5	0	Dual-Color & Rainbow (6 Suits)	2021-01-11 — 19:15:55 UTC	ChristopheAF, Nitrate2, Pablo-, swineherd, VerySloppyTwo	5	6	30
-400092	4	22	No Variant	2021-01-11 — 11:18:37 UTC	Fey, sgfx, skyblueexo, swineherd	54	5	25
+400092	4	22	No Variant	2021-01-11 — 11:18:37 UTC	Fey, sgfx, skyblueexo, swineherd	55	5	25
 395388	3	30	Pink & Dark Brown (6 Suits)	2021-01-07 — 08:27:06 UTC	asaelr, Lel0uch, swineherd	5	6	30
 394538	3	25	Black & Prism (5 Suits)	2021-01-06 — 17:04:59 UTC	Kyle, plus, swineherd	12	5	25
 394531	3	21	Black & Prism (5 Suits)	2021-01-06 — 16:52:13 UTC	Kyle, plus, swineherd	12	5	25
-394301	4	30	Rainbow & Pink (6 Suits)	2021-01-06 — 06:14:22 UTC	doctorabi, Onen, pianoblook, swineherd	12	6	30
-392332	4	25	Rainbow (5 Suits)	2021-01-04 — 07:40:55 UTC	katian, Lel0uch, swineherd, torp	19	5	25
-392328	4	0	Rainbow (5 Suits)	2021-01-04 — 07:29:33 UTC	katian, Lel0uch, swineherd, torp	19	5	25
-392179	4	23	No Variant	2021-01-04 — 04:20:49 UTC	Lel0uch, newduke, swineherd, Vensahn	111	5	25
+394301	4	30	Rainbow & Pink (6 Suits)	2021-01-06 — 06:14:22 UTC	doctorabi, Onen, pianoblook, swineherd	13	6	30
+392332	4	25	Rainbow (5 Suits)	2021-01-04 — 07:40:55 UTC	katian, Lel0uch, swineherd, torp	20	5	25
+392328	4	0	Rainbow (5 Suits)	2021-01-04 — 07:29:33 UTC	katian, Lel0uch, swineherd, torp	20	5	25
+392179	4	23	No Variant	2021-01-04 — 04:20:49 UTC	Lel0uch, newduke, swineherd, Vensahn	112	5	25
 391372	5	0	Up or Down & White (6 Suits)	2021-01-03 — 09:33:49 UTC	boba, frosty104, Lel0uch, swineherd, TimeHoodie	3	6	30
 387603	4	24	Black & White (5 Suits)	2020-12-30 — 23:05:49 UTC	Lanvin, Pimak, sephiroth, swineherd	7	5	25
 385687	4	0	Pink & Brown (6 Suits)	2020-12-29 — 03:06:46 UTC	doctorabi, IAMJEFF, kimbifille, swineherd	7	6	30
 385657	5	0	Prism (6 Suits)	2020-12-29 — 02:43:23 UTC	doctorabi, IAMJEFF, kimbifille, StKildaFan, swineherd	5	6	30
 385629	5	0	Prism (6 Suits)	2020-12-29 — 02:24:40 UTC	doctorabi, IAMJEFF, kimbifille, StKildaFan, swineherd	5	6	30
 385455	4	25	Dark Omni (5 Suits)	2020-12-28 — 23:30:39 UTC	doctorabi, jeff10, Lanvin, swineherd	9	5	25
-384376	4	0	Pink & Brown (5 Suits)	2020-12-27 — 23:58:21 UTC	HelanaAshryvr, sephiroth, StKildaFan, swineherd	6	5	25
+384376	4	0	Pink & Brown (5 Suits)	2020-12-27 — 23:58:21 UTC	HelanaAshryvr, sephiroth, StKildaFan, swineherd	7	5	25
 384362	4	0	White & Dark Brown (5 Suits)	2020-12-27 — 23:46:26 UTC	plus, sephiroth, StKildaFan, swineherd	3	5	25
 384344	4	0	Black & White (6 Suits)	2020-12-27 — 23:33:10 UTC	plus, sephiroth, StKildaFan, swineherd	24	6	30
 384273	6	0	Black & Prism (5 Suits)	2020-12-27 — 22:33:49 UTC	doctorabi, frosty104, Pablo-, scharkbite, swineherd, Wittvector	1	5	25
@@ -332,8 +332,8 @@
 381274	3	0	Dark Null (6 Suits)	2020-12-25 — 02:16:33 UTC	hakha3, plus, swineherd	4	6	30
 381261	4	0	Dark Null (6 Suits)	2020-12-25 — 01:50:06 UTC	hakha3, plus, swineherd, Wittvector	5	6	30
 381257	4	0	Dark Null (6 Suits)	2020-12-25 — 01:43:14 UTC	hakha3, plus, swineherd, Wittvector	5	6	30
-381253	4	0	Dark Null (6 Suits)	2020-12-25 — 01:36:21 UTC	hakha3, plus, swineherd, Wittvector	6	6	30
-381236	4	0	Dark Null (6 Suits)	2020-12-25 — 01:16:48 UTC	hakha3, plus, swineherd, Wittvector	8	6	30
+381253	4	0	Dark Null (6 Suits)	2020-12-25 — 01:36:21 UTC	hakha3, plus, swineherd, Wittvector	7	6	30
+381236	4	0	Dark Null (6 Suits)	2020-12-25 — 01:16:48 UTC	hakha3, plus, swineherd, Wittvector	9	6	30
 380954	3	0	Light Pink (4 Suits)	2020-12-24 — 18:01:41 UTC	doctorabi, macanek, swineherd	21	4	20
 378913	4	29	Cocoa Rainbow (6 Suits)	2020-12-22 — 17:15:21 UTC	doctorabi, Floriman, rz, swineherd	7	6	30
 378231	6	0	Gray (5 Suits)	2020-12-22 — 01:46:42 UTC	aevbook, doctorabi, esakach, jeff10, Lanvin, swineherd	5	5	25
@@ -373,8 +373,8 @@
 369847	5	0	Dark Rainbow (6 Suits)	2020-12-13 — 13:00:08 UTC	jack67889, katian, Lel0uch, sephiroth, swineherd	7	6	30
 369842	4	0	Dark Rainbow (6 Suits)	2020-12-13 — 12:35:05 UTC	katian, Lel0uch, sephiroth, swineherd	16	6	30
 369665	3	0	Black & White (5 Suits)	2020-12-13 — 05:37:28 UTC	jack_0f_hearts, swineherd, voss	45	5	25
-369649	3	0	Rainbow & Pink (6 Suits)	2020-12-13 — 05:13:30 UTC	Fey, Lel0uch, swineherd	23	6	30
-369636	3	0	Rainbow & Pink (6 Suits)	2020-12-13 — 05:00:57 UTC	Fey, Lel0uch, swineherd	39	6	30
+369649	3	0	Rainbow & Pink (6 Suits)	2020-12-13 — 05:13:30 UTC	Fey, Lel0uch, swineherd	24	6	30
+369636	3	0	Rainbow & Pink (6 Suits)	2020-12-13 — 05:00:57 UTC	Fey, Lel0uch, swineherd	40	6	30
 368845	4	0	Rainbow & Prism (5 Suits)	2020-12-12 — 11:40:14 UTC	rachyrules, swineherd, TheDaniMan, zeinab001	4	5	25
 368843	4	0	Rainbow & Prism (5 Suits)	2020-12-12 — 11:36:26 UTC	rachyrules, swineherd, TheDaniMan, zeinab001	5	5	25
 368838	4	0	Rainbow & Prism (5 Suits)	2020-12-12 — 11:22:12 UTC	rachyrules, swineherd, TheDaniMan, zeinab001	5	5	25
@@ -384,11 +384,11 @@
 368675	5	0	Pink & Brown (6 Suits)	2020-12-12 — 06:55:47 UTC	catula, derekcheah, doctorabi, Onen, swineherd	4	6	30
 368662	5	0	Pink & Brown (6 Suits)	2020-12-12 — 06:43:26 UTC	catula, derekcheah, doctorabi, Onen, swineherd	5	6	30
 368660	5	0	Pink & Brown (6 Suits)	2020-12-12 — 06:39:14 UTC	catula, derekcheah, doctorabi, Onen, swineherd	7	6	30
-368516	4	0	Gray (5 Suits)	2020-12-12 — 04:59:10 UTC	aquarelle, Onen, swineherd, voss	9	5	25
+368516	4	0	Gray (5 Suits)	2020-12-12 — 04:59:10 UTC	aquarelle, Onen, swineherd, voss	11	5	25
 368400	5	16	Rainbow & Light Pink (4 Suits)	2020-12-12 — 03:47:12 UTC	doctorabi, Lel0uch, swineherd, TimeHoodie, timotree	1	4	20
 367809	4	0	Dark Rainbow (6 Suits)	2020-12-11 — 14:51:05 UTC	Lanvin, sephiroth, swineherd, VerySloppyTwo	18	6	30
-367800	4	0	Dark Rainbow (6 Suits)	2020-12-11 — 14:10:18 UTC	Lanvin, sephiroth, swineherd, VerySloppyTwo	19	6	30
-366695	4	0	Dark Rainbow (6 Suits)	2020-12-10 — 07:52:19 UTC	doctorabi, Fey, sephiroth, swineherd	25	6	30
+367800	4	0	Dark Rainbow (6 Suits)	2020-12-11 — 14:10:18 UTC	Lanvin, sephiroth, swineherd, VerySloppyTwo	20	6	30
+366695	4	0	Dark Rainbow (6 Suits)	2020-12-10 — 07:52:19 UTC	doctorabi, Fey, sephiroth, swineherd	27	6	30
 366500	3	0	Pink (6 Suits)	2020-12-10 — 03:25:26 UTC	derekcheah, jeff10, swineherd	53	6	30
 366486	4	20	Rainbow & Pink (4 Suits)	2020-12-10 — 03:11:50 UTC	derekcheah, jeff10, swineherd, TheDaniMan	7	4	20
 366471	4	0	Rainbow & Pink (4 Suits)	2020-12-10 — 02:57:56 UTC	derekcheah, jeff10, swineherd, TheDaniMan	10	4	20
@@ -396,7 +396,7 @@
 365147	5	19	Light Pink (4 Suits)	2020-12-09 — 01:56:31 UTC	derekcheah, Doge, Kyle, swineherd, TimeHoodie	9	4	20
 365122	4	0	Gray Pink (6 Suits)	2020-12-09 — 01:43:21 UTC	derekcheah, Doge, Kyle, swineherd	1	6	30
 365114	4	0	Gray Pink (6 Suits)	2020-12-09 — 01:38:42 UTC	derekcheah, Doge, Kyle, swineherd	2	6	30
-365100	4	0	No Variant	2020-12-09 — 01:33:51 UTC	derekcheah, Doge, Kyle, swineherd	16	5	25
+365100	4	0	No Variant	2020-12-09 — 01:33:51 UTC	derekcheah, Doge, Kyle, swineherd	17	5	25
 364460	4	0	Black & Brown (5 Suits)	2020-12-08 — 06:36:57 UTC	doctorabi, melwen, micerang, swineherd	6	5	25
 364443	5	23	Black & Brown (5 Suits)	2020-12-08 — 06:13:27 UTC	doctorabi, melwen, micerang, newduke, swineherd	7	5	25
 364431	4	0	Black & Brown (5 Suits)	2020-12-08 — 05:50:17 UTC	melwen, newduke, swineherd, XMIL	7	5	25
@@ -407,28 +407,28 @@
 364244	4	0	Dual-Color & Prism (6 Suits)	2020-12-08 — 03:02:07 UTC	derekcheah, IsabeltheCat, swineherd, TheDaniMan	4	6	30
 364163	5	0	Prism (6 Suits)	2020-12-08 — 01:51:17 UTC	colton, doctorabi, hailey, orucsoraihc, swineherd	8	6	30
 364061	5	0	Prism (6 Suits)	2020-12-07 — 23:42:56 UTC	Feich59, kimbifille, Pablo-, rz, swineherd	5	6	30
-364038	5	0	Prism (6 Suits)	2020-12-07 — 23:14:36 UTC	Feich59, kimbifille, Pablo-, rz, swineherd	17	6	30
-364026	4	28	White & Prism (6 Suits)	2020-12-07 — 22:47:18 UTC	Feich59, kimbifille, Pablo-, swineherd	8	6	30
-363943	4	25	Black & Omni (5 Suits)	2020-12-07 — 20:59:47 UTC	doctorabi, frosty104, swineherd, TheDaniMan	5	5	25
+364038	5	0	Prism (6 Suits)	2020-12-07 — 23:14:36 UTC	Feich59, kimbifille, Pablo-, rz, swineherd	18	6	30
+364026	4	28	White & Prism (6 Suits)	2020-12-07 — 22:47:18 UTC	Feich59, kimbifille, Pablo-, swineherd	10	6	30
+363943	4	25	Black & Omni (5 Suits)	2020-12-07 — 20:59:47 UTC	doctorabi, frosty104, swineherd, TheDaniMan	6	5	25
 363912	4	0	Black & Omni (5 Suits)	2020-12-07 — 20:39:11 UTC	doctorabi, frosty104, swineherd, TheDaniMan	8	5	25
 363892	4	24	Black & Omni (5 Suits)	2020-12-07 — 20:24:36 UTC	doctorabi, frosty104, swineherd, TheDaniMan	8	5	25
 363861	4	0	Black & Omni (5 Suits)	2020-12-07 — 20:01:47 UTC	doctorabi, frosty104, swineherd, TheDaniMan	8	5	25
-363842	3	23	Gray Pink (5 Suits)	2020-12-07 — 19:46:00 UTC	frosty104, swineherd, TheDaniMan	9	5	25
+363842	3	23	Gray Pink (5 Suits)	2020-12-07 — 19:46:00 UTC	frosty104, swineherd, TheDaniMan	10	5	25
 363833	3	0	Gray Pink (5 Suits)	2020-12-07 — 19:34:01 UTC	frosty104, swineherd, TheDaniMan	13	5	25
 363822	4	0	Black & Omni (6 Suits)	2020-12-07 — 19:20:59 UTC	doctorabi, MarkusKahlsen, swineherd, TheDaniMan	2	6	30
-363807	3	0	Gray Pink (5 Suits)	2020-12-07 — 18:59:46 UTC	MarkusKahlsen, swineherd, TheDaniMan	13	5	25
+363807	3	0	Gray Pink (5 Suits)	2020-12-07 — 18:59:46 UTC	MarkusKahlsen, swineherd, TheDaniMan	14	5	25
 363791	4	0	Dark Null (6 Suits)	2020-12-07 — 18:34:44 UTC	jeff10, MarkusKahlsen, swineherd, TheDaniMan	3	6	30
 363778	4	0	Dark Null (6 Suits)	2020-12-07 — 18:17:52 UTC	jeff10, MarkusKahlsen, swineherd, TheDaniMan	5	6	30
 363772	4	0	Dark Null (6 Suits)	2020-12-07 — 18:11:52 UTC	jeff10, MarkusKahlsen, swineherd, TheDaniMan	6	6	30
 363073	5	22	Dark Rainbow (5 Suits)	2020-12-07 — 02:56:26 UTC	doctorabi, frosty104, jeff10, Lel0uch, swineherd	9	5	25
 363060	5	0	Dark Rainbow (5 Suits)	2020-12-07 — 02:38:10 UTC	doctorabi, frosty104, jeff10, Lel0uch, swineherd	10	5	25
-363046	4	0	Dark Rainbow (5 Suits)	2020-12-07 — 02:25:19 UTC	doctorabi, jeff10, Lel0uch, swineherd	23	5	25
+363046	4	0	Dark Rainbow (5 Suits)	2020-12-07 — 02:25:19 UTC	doctorabi, jeff10, Lel0uch, swineherd	24	5	25
 362696	5	0	Prism (5 Suits)	2020-12-06 — 20:34:33 UTC	Carunty, Fey, Lanvin, rz, swineherd	3	5	25
-362677	4	21	No Variant	2020-12-06 — 20:03:34 UTC	macanek, MarkusKahlsen, swineherd, VeggieExtremist	63	5	25
+362677	4	21	No Variant	2020-12-06 — 20:03:34 UTC	macanek, MarkusKahlsen, swineherd, VeggieExtremist	64	5	25
 362655	4	25	Dark Null (5 Suits)	2020-12-06 — 19:37:20 UTC	MarkusKahlsen, Pablo-, swineherd, TheDaniMan	2	5	25
 362635	4	24	Dark Null (5 Suits)	2020-12-06 — 19:16:03 UTC	Pablo-, plus, swineherd, TheDaniMan	2	5	25
 362627	4	0	Dark Null (5 Suits)	2020-12-06 — 18:57:39 UTC	Pablo-, plus, swineherd, TheDaniMan	3	5	25
-362616	3	0	Dark Pink (5 Suits)	2020-12-06 — 18:44:48 UTC	doctorabi, swineherd, TheDaniMan	10	5	25
+362616	3	0	Dark Pink (5 Suits)	2020-12-06 — 18:44:48 UTC	doctorabi, swineherd, TheDaniMan	11	5	25
 362577	4	0	Dark Rainbow (5 Suits)	2020-12-06 — 17:55:55 UTC	doctorabi, jeff10, Lanvin, swineherd	29	5	25
 362516	5	29	Throw It in a Hole (6 Suits)	2020-12-06 — 16:16:16 UTC	Fey, frosty104, Lanvin, MarkusKahlsen, swineherd	8	6	30
 361902	5	25	Up or Down (5 Suits)	2020-12-06 — 00:21:19 UTC	derekcheah, hakha3, Lanvin, sephiroth, swineherd	5	5	25
@@ -440,45 +440,45 @@
 361807	5	22	Cocoa Rainbow (5 Suits)	2020-12-05 — 22:10:16 UTC	derekcheah, Floriman, jeff10, rachyrules, swineherd	9	5	25
 361707	4	30	Pink & White (6 Suits)	2020-12-05 — 20:29:57 UTC	kimbifille, swineherd, TimeHoodie, Wittvector	9	6	30
 361683	5	0	Rainbow & White (4 Suits)	2020-12-05 — 20:05:48 UTC	andre_smaira, Doge, kimbifille, swineherd, TimeHoodie	4	4	20
-361663	4	0	Dark Rainbow (6 Suits)	2020-12-05 — 19:23:05 UTC	macanek, MarkusKahlsen, rachyrules, swineherd	48	6	30
+361663	4	0	Dark Rainbow (6 Suits)	2020-12-05 — 19:23:05 UTC	macanek, MarkusKahlsen, rachyrules, swineherd	49	6	30
 361621	4	0	Rainbow & Brown (5 Suits)	2020-12-05 — 18:15:10 UTC	hakha3, plus, swineherd, TimeHoodie	3	5	25
 361614	4	24	Rainbow & Brown (5 Suits)	2020-12-05 — 18:01:41 UTC	hakha3, plus, swineherd, TimeHoodie	3	5	25
 361610	4	0	Brown & Prism (5 Suits)	2020-12-05 — 17:41:36 UTC	asaelr, Fey, plus, swineherd	11	5	25
 361595	3	25	Omni & Null (5 Suits)	2020-12-05 — 16:59:59 UTC	MarkusKahlsen, swineherd, Wittvector	1	5	25
 361580	5	25	Omni (5 Suits)	2020-12-05 — 16:18:37 UTC	doctorabi, hakha3, postmans, sephiroth, swineherd	3	5	25
-361565	4	22	Gray (5 Suits)	2020-12-05 — 15:31:47 UTC	frosty104, Lanvin, postmans, swineherd	7	5	25
-361560	4	0	Gray (5 Suits)	2020-12-05 — 15:15:51 UTC	frosty104, Lanvin, postmans, swineherd	9	5	25
-361557	4	0	Gray (5 Suits)	2020-12-05 — 15:02:38 UTC	frosty104, Lanvin, postmans, swineherd	12	5	25
-361555	4	0	Gray (5 Suits)	2020-12-05 — 14:48:16 UTC	frosty104, Lanvin, postmans, swineherd	13	5	25
+361565	4	22	Gray (5 Suits)	2020-12-05 — 15:31:47 UTC	frosty104, Lanvin, postmans, swineherd	9	5	25
+361560	4	0	Gray (5 Suits)	2020-12-05 — 15:15:51 UTC	frosty104, Lanvin, postmans, swineherd	11	5	25
+361557	4	0	Gray (5 Suits)	2020-12-05 — 15:02:38 UTC	frosty104, Lanvin, postmans, swineherd	14	5	25
+361555	4	0	Gray (5 Suits)	2020-12-05 — 14:48:16 UTC	frosty104, Lanvin, postmans, swineherd	15	5	25
 361544	4	0	Omni & Null (5 Suits)	2020-12-05 — 13:39:51 UTC	derekcheah, Pablo-, StKildaFan, swineherd	3	5	25
 360896	5	30	Dual-Color & White (6 Suits)	2020-12-04 — 23:31:55 UTC	derekcheah, doctorabi, Floriman, postmans, swineherd	3	6	30
-360876	4	24	Dark Rainbow (5 Suits)	2020-12-04 — 23:08:46 UTC	doctorabi, Floriman, postmans, swineherd	20	5	25
-360863	4	24	Dark Rainbow (5 Suits)	2020-12-04 — 22:52:06 UTC	doctorabi, Floriman, postmans, swineherd	19	5	25
+360876	4	24	Dark Rainbow (5 Suits)	2020-12-04 — 23:08:46 UTC	doctorabi, Floriman, postmans, swineherd	21	5	25
+360863	4	24	Dark Rainbow (5 Suits)	2020-12-04 — 22:52:06 UTC	doctorabi, Floriman, postmans, swineherd	20	5	25
 360826	3	0	Brown & Omni (6 Suits)	2020-12-04 — 22:18:39 UTC	plus, postmans, swineherd	5	6	30
 360805	3	0	Brown & Omni (6 Suits)	2020-12-04 — 21:54:30 UTC	plus, postmans, swineherd	6	6	30
-360784	4	0	Gray (5 Suits)	2020-12-04 — 21:28:45 UTC	Doge, honzas, Pablo-, swineherd	22	5	25
+360784	4	0	Gray (5 Suits)	2020-12-04 — 21:28:45 UTC	Doge, honzas, Pablo-, swineherd	23	5	25
 360707	3	24	Omni & Null (5 Suits)	2020-12-04 — 20:03:46 UTC	MarkusKahlsen, swineherd, will.i.am	1	5	25
 360688	3	0	Omni & Null (5 Suits)	2020-12-04 — 19:44:34 UTC	MarkusKahlsen, swineherd, will.i.am	4	5	25
 360680	3	0	Omni & Null (5 Suits)	2020-12-04 — 19:38:02 UTC	MarkusKahlsen, swineherd, will.i.am	4	5	25
 360675	3	0	Omni & Null (5 Suits)	2020-12-04 — 19:30:02 UTC	MarkusKahlsen, swineherd, will.i.am	6	5	25
 360654	4	19	Rainbow & Brown (4 Suits)	2020-12-04 — 19:06:45 UTC	Carunty, macanek, orucsoraihc, swineherd	11	4	20
-360616	5	0	Dark Pink (6 Suits)	2020-12-04 — 18:23:13 UTC	doctorabi, hakha3, rz, Sucubis, swineherd	8	6	30
+360616	5	0	Dark Pink (6 Suits)	2020-12-04 — 18:23:13 UTC	doctorabi, hakha3, rz, Sucubis, swineherd	9	6	30
 360104	3	15	Brown (3 Suits)	2020-12-04 — 00:42:33 UTC	doctorabi, sin_faith, swineherd	23	3	15
 360099	3	0	Brown (3 Suits)	2020-12-04 — 00:36:03 UTC	doctorabi, sin_faith, swineherd	29	3	15
 360097	3	14	Brown (3 Suits)	2020-12-04 — 00:31:59 UTC	doctorabi, sin_faith, swineherd	37	3	15
-360024	4	0	Omni (6 Suits)	2020-12-03 — 22:58:00 UTC	newduke, StKildaFan, swineherd, voss	26	6	30
+360024	4	0	Omni (6 Suits)	2020-12-03 — 22:58:00 UTC	newduke, StKildaFan, swineherd, voss	27	6	30
 359989	4	0	Rainbow & White (5 Suits)	2020-12-03 — 22:03:32 UTC	Fireheart, Floriman, Kyle, swineherd	4	5	25
 359981	4	23	Rainbow & White (5 Suits)	2020-12-03 — 21:52:24 UTC	Fireheart, Floriman, Kyle, swineherd	5	5	25
 359972	4	24	Rainbow & White (5 Suits)	2020-12-03 — 21:28:54 UTC	Fireheart, Floriman, Kyle, swineherd	12	5	25
-359956	4	30	Rainbow (6 Suits)	2020-12-03 — 21:05:05 UTC	Fireheart, Floriman, ricardodd, swineherd	85	6	30
-359859	4	24	White (5 Suits)	2020-12-03 — 18:37:10 UTC	Lanvin, macanek, orucsoraihc, swineherd	32	5	25
+359956	4	30	Rainbow (6 Suits)	2020-12-03 — 21:05:05 UTC	Fireheart, Floriman, ricardodd, swineherd	86	6	30
+359859	4	24	White (5 Suits)	2020-12-03 — 18:37:10 UTC	Lanvin, macanek, orucsoraihc, swineherd	33	5	25
 359174	3	0	Dark Brown (5 Suits)	2020-12-02 — 21:18:28 UTC	doctorabi, swineherd, Wittvector	26	5	25
 359154	3	23	Up or Down & Omni (5 Suits)	2020-12-02 — 21:02:32 UTC	Kyle, rz, swineherd	6	5	25
 359036	4	0	Dark Brown (5 Suits)	2020-12-02 — 18:48:33 UTC	doctorabi, nitawa, sephiroth, swineherd	4	5	25
 359023	6	30	Rainbow-Fives (6 Suits)	2020-12-02 — 18:13:13 UTC	Carunty, hakha3, Kyle, rz, swineherd, Veexliat	2	6	30
 358978	3	0	Muddy Rainbow (5 Suits)	2020-12-02 — 16:09:36 UTC	Fey, lotem, swineherd	46	5	25
 358320	4	25	Dark Brown (5 Suits)	2020-12-01 — 15:47:07 UTC	asaelr, Floriman, Pablo-, swineherd	7	5	25
-358311	4	23	Dark Brown (5 Suits)	2020-12-01 — 15:22:29 UTC	asaelr, Carunty, Pablo-, swineherd	10	5	25
+358311	4	23	Dark Brown (5 Suits)	2020-12-01 — 15:22:29 UTC	asaelr, Carunty, Pablo-, swineherd	11	5	25
 357501	4	25	No Variant	2020-11-30 — 12:24:52 UTC	macanek, methmatics, sin_faith, swineherd	31	5	25
 356963	4	22	Cocoa Rainbow (5 Suits)	2020-11-29 — 22:42:23 UTC	asaelr, doctorabi, swineherd, wump	5	5	25
 356946	4	0	Cocoa Rainbow (5 Suits)	2020-11-29 — 22:23:55 UTC	asaelr, doctorabi, swineherd, wump	5	5	25
@@ -488,25 +488,25 @@
 356906	4	0	Cocoa Rainbow (5 Suits)	2020-11-29 — 21:46:56 UTC	asaelr, doctorabi, swineherd, wump	15	5	25
 356896	4	23	Cocoa Rainbow (5 Suits)	2020-11-29 — 21:38:01 UTC	asaelr, doctorabi, swineherd, wump	15	5	25
 356657	5	0	Pink & White (5 Suits)	2020-11-29 — 11:25:41 UTC	Carunty, frosty104, rachyrules, swineherd, Tiramisu1th	7	5	25
-356656	4	0	Dark Brown (5 Suits)	2020-11-29 — 11:11:53 UTC	Carunty, frosty104, swineherd, Tiramisu1th	17	5	25
+356656	4	0	Dark Brown (5 Suits)	2020-11-29 — 11:11:53 UTC	Carunty, frosty104, swineherd, Tiramisu1th	18	5	25
 356117	4	23	Dark Pink (5 Suits)	2020-11-28 — 19:58:13 UTC	Div, rz, sephiroth, swineherd	1	5	25
 356015	5	23	Dark Rainbow (5 Suits)	2020-11-28 — 18:04:18 UTC	asaelr, Lel0uch, rachyrules, sephiroth, swineherd	6	5	25
 355956	5	30	Black & White (6 Suits)	2020-11-28 — 17:28:19 UTC	asaelr, Lel0uch, rachyrules, swineherd, voss	10	6	30
 355891	3	23	Prism & Dark Rainbow (5 Suits)	2020-11-28 — 15:39:24 UTC	robense, swineherd, TimeHoodie	10	5	25
-355876	3	0	White (6 Suits)	2020-11-28 — 13:43:18 UTC	Carunty, rachyrules, swineherd	101	6	30
+355876	3	0	White (6 Suits)	2020-11-28 — 13:43:18 UTC	Carunty, rachyrules, swineherd	103	6	30
 355873	5	25	Rainbow & White (5 Suits)	2020-11-28 — 13:10:02 UTC	Div, MarkusKahlsen, sin_faith, swineherd, TimeHoodie	7	5	25
-355747	4	0	Dark Brown (5 Suits)	2020-11-28 — 04:58:22 UTC	Carunty, StKildaFan, swineherd, XMIL	14	5	25
+355747	4	0	Dark Brown (5 Suits)	2020-11-28 — 04:58:22 UTC	Carunty, StKildaFan, swineherd, XMIL	15	5	25
 355135	5	0	Gray Pink (6 Suits)	2020-11-27 — 17:01:14 UTC	Floriman, kimbifille, Kyle, Lel0uch, swineherd	1	6	30
 355130	5	0	Gray Pink (6 Suits)	2020-11-27 — 16:54:08 UTC	Floriman, kimbifille, Kyle, Lel0uch, swineherd	2	6	30
 355071	5	0	Light Pink (5 Suits)	2020-11-27 — 13:35:49 UTC	Carunty, Pimak, robense, sin_faith, swineherd	7	5	25
 354330	5	24	Rainbow & Pink (5 Suits)	2020-11-26 — 11:48:38 UTC	catula, derekcheah, sin_faith, Sucubis, swineherd	6	5	25
-354326	3	0	Dark Prism (5 Suits)	2020-11-26 — 11:22:24 UTC	catula, derekcheah, swineherd	18	5	25
+354326	3	0	Dark Prism (5 Suits)	2020-11-26 — 11:22:24 UTC	catula, derekcheah, swineherd	19	5	25
 354298	5	0	Prism (4 Suits)	2020-11-26 — 08:43:32 UTC	doctorabi, frosty104, Lel0uch, robense, swineherd	10	4	20
 353083	3	0	Rainbow & Prism (5 Suits)	2020-11-25 — 00:01:36 UTC	doctorabi, frosty104, swineherd	12	5	25
-351444	3	0	Gray (5 Suits)	2020-11-23 — 03:10:02 UTC	Bonja97, derekcheah, swineherd	5	5	25
-351440	3	25	Gray (5 Suits)	2020-11-23 — 03:08:31 UTC	Bonja97, derekcheah, swineherd	7	5	25
-351421	3	0	Gray (5 Suits)	2020-11-23 — 02:54:38 UTC	Bonja97, derekcheah, swineherd	7	5	25
-351342	4	29	Gray (6 Suits)	2020-11-23 — 02:26:38 UTC	Bonja97, derekcheah, swineherd, timotree	6	6	30
+351444	3	0	Gray (5 Suits)	2020-11-23 — 03:10:02 UTC	Bonja97, derekcheah, swineherd	6	5	25
+351440	3	25	Gray (5 Suits)	2020-11-23 — 03:08:31 UTC	Bonja97, derekcheah, swineherd	8	5	25
+351421	3	0	Gray (5 Suits)	2020-11-23 — 02:54:38 UTC	Bonja97, derekcheah, swineherd	8	5	25
+351342	4	29	Gray (6 Suits)	2020-11-23 — 02:26:38 UTC	Bonja97, derekcheah, swineherd, timotree	7	6	30
 351175	5	30	Pink (6 Suits)	2020-11-22 — 23:44:01 UTC	asaelr, jack67889, Kyle, plus, swineherd	2	6	30
 351157	5	0	Pink (6 Suits)	2020-11-22 — 23:26:55 UTC	asaelr, jack67889, Kyle, plus, swineherd	2	6	30
 351144	5	29	Pink (6 Suits)	2020-11-22 — 23:14:23 UTC	asaelr, jack67889, Kyle, plus, swineherd	2	6	30
@@ -533,8 +533,8 @@
 348966	4	0	Light-Pink-Fives & Gray (5 Suits)	2020-11-20 — 22:25:13 UTC	Bonja97, Kyle, Sucubis, swineherd	2	5	25
 348151	4	0	Clue Starved & Rainbow (5 Suits)	2020-11-19 — 22:12:29 UTC	kevincaseytdk1, plus, swineherd, TheDaniMan	5	5	25
 348146	4	0	Clue Starved & Rainbow (5 Suits)	2020-11-19 — 22:07:42 UTC	kevincaseytdk1, plus, swineherd, TheDaniMan	7	5	25
-347856	4	0	Pink & Brown (5 Suits)	2020-11-19 — 18:03:35 UTC	Pablo-, rachyrules, sephiroth, swineherd	6	5	25
-347845	4	24	Pink & Brown (5 Suits)	2020-11-19 — 17:51:35 UTC	Pablo-, rachyrules, sephiroth, swineherd	10	5	25
+347856	4	0	Pink & Brown (5 Suits)	2020-11-19 — 18:03:35 UTC	Pablo-, rachyrules, sephiroth, swineherd	7	5	25
+347845	4	24	Pink & Brown (5 Suits)	2020-11-19 — 17:51:35 UTC	Pablo-, rachyrules, sephiroth, swineherd	11	5	25
 347395	5	0	Pink (6 Suits)	2020-11-19 — 00:46:34 UTC	BarneyRubble, Carunty, doctorabi, Pablo-, swineherd	13	6	30
 347087	5	0	Special Mix (5 Suits)	2020-11-18 — 16:27:21 UTC	lotem, melwen, sephiroth, swineherd, will.i.am	2	5	25
 347083	5	0	Special Mix (5 Suits)	2020-11-18 — 16:13:03 UTC	lotem, melwen, sephiroth, swineherd, will.i.am	2	5	25
@@ -556,7 +556,7 @@
 346521	4	0	Pink-Ones & Brown (5 Suits)	2020-11-17 — 22:07:45 UTC	Bonja97, MarkusKahlsen, swineherd, TheDaniMan	1	5	25
 346263	4	19	Dark Pink (5 Suits)	2020-11-17 — 18:08:44 UTC	doctorabi, frosty104, Lel0uch, swineherd	9	5	25
 346127	5	0	Special Mix (5 Suits)	2020-11-17 — 11:02:36 UTC	catula, jack67889, Lel0uch, swineherd, whalesgomoo	11	5	25
-346110	4	24	Rainbow & White (5 Suits)	2020-11-17 — 07:27:10 UTC	doctorabi, Onen, sin_faith, swineherd	23	5	25
+346110	4	24	Rainbow & White (5 Suits)	2020-11-17 — 07:27:10 UTC	doctorabi, Onen, sin_faith, swineherd	24	5	25
 346090	4	0	Black & White (5 Suits)	2020-11-17 — 06:22:28 UTC	Bonja97, derekcheah, swineherd, will.i.am	7	5	25
 346085	4	0	Black & White (5 Suits)	2020-11-17 — 06:05:06 UTC	Bonja97, derekcheah, swineherd, will.i.am	7	5	25
 346083	4	0	Black & White (5 Suits)	2020-11-17 — 05:56:01 UTC	Bonja97, derekcheah, swineherd, will.i.am	9	5	25
@@ -564,14 +564,14 @@
 346077	4	24	Black & White (5 Suits)	2020-11-17 — 05:39:51 UTC	Bonja97, derekcheah, swineherd, will.i.am	14	5	25
 344991	5	22	No Variant	2020-11-16 — 17:26:08 UTC	Kyle, Onen, rake, swineherd, will.i.am	21	5	25
 344977	3	0	Up or Down (5 Suits)	2020-11-16 — 16:55:45 UTC	doctorabi, Fey, swineherd	15	5	25
-344973	3	0	Up or Down (5 Suits)	2020-11-16 — 16:52:22 UTC	doctorabi, Fey, swineherd	17	5	25
+344973	3	0	Up or Down (5 Suits)	2020-11-16 — 16:52:22 UTC	doctorabi, Fey, swineherd	18	5	25
 344962	5	25	No Variant	2020-11-16 — 16:13:06 UTC	Lel0uch, melwen, orucsoraihc, Plum, swineherd	15	5	25
 344952	5	22	Rainbow & Pink (5 Suits)	2020-11-16 — 15:39:04 UTC	Lel0uch, orucsoraihc, swineherd, TimeHoodie, willwin4sure	6	5	25
 343295	5	0	Rainbow-Ones (6 Suits)	2020-11-14 — 13:21:33 UTC	catula, Pablo-, sephiroth, swineherd, TimeHoodie	2	6	30
 342552	4	25	Rainbow & Prism (5 Suits)	2020-11-13 — 21:49:12 UTC	dmigor3, Feich59, swineherd, TimeHoodie	5	5	25
 342529	4	0	Rainbow & Prism (5 Suits)	2020-11-13 — 21:27:07 UTC	dmigor3, Feich59, swineherd, TimeHoodie	9	5	25
 342315	4	26	Rainbow & Pink (6 Suits)	2020-11-13 — 14:56:02 UTC	eevee, Lel0uch, rz, swineherd	22	6	30
-342311	4	0	No Variant	2020-11-13 — 14:34:26 UTC	eevee, Lel0uch, rz, swineherd	149	5	25
+342311	4	0	No Variant	2020-11-13 — 14:34:26 UTC	eevee, Lel0uch, rz, swineherd	150	5	25
 342307	5	0	Rainbow & Pink (5 Suits)	2020-11-13 — 14:18:42 UTC	Fey, Lel0uch, rz, swineherd, Tiramisu1th	5	5	25
 342211	4	0	Dark Omni (6 Suits)	2020-11-13 — 07:49:09 UTC	Bonja97, derekcheah, melwen, swineherd	4	6	30
 342208	4	0	Dark Omni (6 Suits)	2020-11-13 — 07:39:38 UTC	Bonja97, derekcheah, melwen, swineherd	5	6	30
@@ -592,23 +592,23 @@
 340728	5	0	Light Pink (5 Suits)	2020-11-11 — 11:32:03 UTC	asaelr, Bonja97, Fey, Lel0uch, swineherd	1	5	25
 340727	4	24	Dark Rainbow (5 Suits)	2020-11-11 — 11:16:48 UTC	Bonja97, Fey, Lel0uch, swineherd	24	5	25
 339087	4	25	Muddy Rainbow (5 Suits)	2020-11-09 — 09:39:17 UTC	robense, rz, StKildaFan, swineherd	18	5	25
-339059	3	0	White (4 Suits)	2020-11-09 — 08:15:55 UTC	catula, robense, swineherd	59	4	20
+339059	3	0	White (4 Suits)	2020-11-09 — 08:15:55 UTC	catula, robense, swineherd	62	4	20
 338313	4	20	Rainbow & Prism (4 Suits)	2020-11-08 — 13:55:06 UTC	ADrone, Lel0uch, melwen, swineherd	1	4	20
-338102	3	29	Rainbow (6 Suits)	2020-11-08 — 04:57:56 UTC	Bonja97, ejwu, swineherd	689	6	30
+338102	3	29	Rainbow (6 Suits)	2020-11-08 — 04:57:56 UTC	Bonja97, ejwu, swineherd	693	6	30
 338088	5	0	Omni (6 Suits)	2020-11-08 — 04:19:17 UTC	Bonja97, ejwu, jeff10, rachyrules, swineherd	15	6	30
 336789	5	25	Brown (5 Suits)	2020-11-06 — 10:17:25 UTC	jack67889, MarkusKahlsen, Pablo-, squirtle, swineherd	5	5	25
 336784	4	0	Dark Null (5 Suits)	2020-11-06 — 09:58:38 UTC	MarkusKahlsen, Pablo-, squirtle, swineherd	7	5	25
 336778	4	20	Dark Pink (5 Suits)	2020-11-06 — 08:27:12 UTC	Fey, ksfortson, sin_faith, swineherd	10	5	25
 336384	4	25	Pink (5 Suits)	2020-11-05 — 23:28:02 UTC	ejwu, MarkusKahlsen, rz, swineherd	26	5	25
 335015	6	0	Gray (6 Suits)	2020-11-04 — 03:34:55 UTC	avanderwalde, cockdestroyer, emilyzhao, Puzzle, swineherd, timotree	4	6	30
-334986	4	23	Gray (5 Suits)	2020-11-04 — 02:55:23 UTC	avanderwalde, Bonja97, swineherd, timotree	33	5	25
+334986	4	23	Gray (5 Suits)	2020-11-04 — 02:55:23 UTC	avanderwalde, Bonja97, swineherd, timotree	34	5	25
 334049	5	0	Pink & Prism (6 Suits)	2020-11-03 — 00:39:42 UTC	micerang, newduke, swineherd, TimeHoodie, timotree	3	6	30
 334034	5	0	Pink & Prism (6 Suits)	2020-11-03 — 00:24:20 UTC	micerang, newduke, swineherd, TimeHoodie, timotree	3	6	30
-333887	3	29	Gray Pink (6 Suits)	2020-11-02 — 20:39:24 UTC	jeff10, Kyle, swineherd	29	6	30
-333486	4	30	White (6 Suits)	2020-11-02 — 04:09:53 UTC	jeff10, ksfortson, swineherd, timotree	41	6	30
+333887	3	29	Gray Pink (6 Suits)	2020-11-02 — 20:39:24 UTC	jeff10, Kyle, swineherd	30	6	30
+333486	4	30	White (6 Suits)	2020-11-02 — 04:09:53 UTC	jeff10, ksfortson, swineherd, timotree	43	6	30
 333382	5	0	Brown (6 Suits)	2020-11-02 — 03:34:34 UTC	Bonja97, cockdestroyer, Jake_Stiles, swineherd, XMIL	6	6	30
 332514	5	29	Up or Down & Rainbow (6 Suits)	2020-11-01 — 02:13:50 UTC	Kyle, melwen, Pablo-, scharkbite, swineherd	6	6	30
-332160	5	25	White-Ones & Brown (5 Suits)	2020-10-31 — 18:42:08 UTC	Fey, sephiroth, swineherd, wump, XMIL	2	5	25
+332160	5	25	White-Ones & Brown (5 Suits)	2020-10-31 — 18:42:08 UTC	Fey, sephiroth, swineherd, wump, XMIL	3	5	25
 332129	5	30	Muddy Rainbow (6 Suits)	2020-10-31 — 17:18:16 UTC	asaelr, Div, ebin_noob, orucsoraihc, swineherd	2	6	30
 332113	5	0	Muddy Rainbow (6 Suits)	2020-10-31 — 16:52:27 UTC	asaelr, Div, ebin_noob, orucsoraihc, swineherd	5	6	30
 332105	5	0	Black (6 Suits)	2020-10-31 — 16:37:23 UTC	asaelr, Div, ebin_noob, orucsoraihc, swineherd	24	6	30
@@ -618,7 +618,7 @@
 331606	4	0	Brown & Cocoa Rainbow (5 Suits)	2020-10-31 — 01:39:32 UTC	honzas, swineherd, TheDaniMan, will.i.am	3	5	25
 331597	4	0	Brown & Cocoa Rainbow (5 Suits)	2020-10-31 — 01:32:20 UTC	honzas, swineherd, TheDaniMan, will.i.am	4	5	25
 331585	4	0	Brown & Cocoa Rainbow (5 Suits)	2020-10-31 — 01:15:04 UTC	honzas, swineherd, TheDaniMan, will.i.am	4	5	25
-331523	3	0	Up or Down & Pink (6 Suits)	2020-10-30 — 23:33:42 UTC	robense, sephiroth, swineherd	7	6	30
+331523	3	0	Up or Down & Pink (6 Suits)	2020-10-30 — 23:33:42 UTC	robense, sephiroth, swineherd	8	6	30
 331490	4	0	Dark Prism Reversed (5 Suits)	2020-10-30 — 22:26:54 UTC	ebin_noob, swineherd, TheDaniMan, TimeHoodie	1	5	25
 331480	4	0	Dark Prism Reversed (5 Suits)	2020-10-30 — 22:06:22 UTC	ebin_noob, swineherd, TheDaniMan, TimeHoodie	1	5	25
 331470	4	0	Dark Prism Reversed (5 Suits)	2020-10-30 — 21:53:31 UTC	ebin_noob, swineherd, TheDaniMan, TimeHoodie	1	5	25
@@ -628,8 +628,8 @@
 331446	4	0	Dark Prism Reversed (5 Suits)	2020-10-30 — 21:29:29 UTC	ebin_noob, swineherd, TheDaniMan, TimeHoodie	1	5	25
 331442	4	0	Dark Prism Reversed (5 Suits)	2020-10-30 — 21:26:03 UTC	ebin_noob, swineherd, TheDaniMan, TimeHoodie	2	5	25
 331431	4	0	Dark Prism Reversed (5 Suits)	2020-10-30 — 21:17:59 UTC	ebin_noob, swineherd, TheDaniMan, TimeHoodie	2	5	25
-331419	4	0	Dark Prism Reversed (5 Suits)	2020-10-30 — 21:11:40 UTC	ebin_noob, swineherd, TheDaniMan, TimeHoodie	3	5	25
-331410	4	0	Dark Prism Reversed (5 Suits)	2020-10-30 — 21:02:42 UTC	ebin_noob, swineherd, TheDaniMan, TimeHoodie	4	5	25
+331419	4	0	Dark Prism Reversed (5 Suits)	2020-10-30 — 21:11:40 UTC	ebin_noob, swineherd, TheDaniMan, TimeHoodie	4	5	25
+331410	4	0	Dark Prism Reversed (5 Suits)	2020-10-30 — 21:02:42 UTC	ebin_noob, swineherd, TheDaniMan, TimeHoodie	5	5	25
 331368	6	0	White (4 Suits)	2020-10-30 — 20:25:51 UTC	ebin_noob, jack67889, kiele, sephiroth, swineherd, TheDaniMan	1	4	20
 331361	6	0	White (4 Suits)	2020-10-30 — 20:16:30 UTC	ebin_noob, jack67889, kiele, sephiroth, swineherd, TheDaniMan	5	4	20
 331312	4	0	Dark Prism Reversed (6 Suits)	2020-10-30 — 19:24:21 UTC	nitawa, sephiroth, swineherd, TheDaniMan	3	6	30
@@ -641,13 +641,13 @@
 330592	5	0	Dark Omni (6 Suits)	2020-10-29 — 20:07:24 UTC	cockdestroyer, swineherd, TheDaniMan, vEnhance, Wittvector	2	6	30
 330581	4	25	Dark Omni (6 Suits)	2020-10-29 — 19:48:50 UTC	Bonja97, cockdestroyer, swineherd, TheDaniMan	4	6	30
 330571	4	0	Dark Omni (6 Suits)	2020-10-29 — 19:32:34 UTC	Bonja97, cockdestroyer, swineherd, TheDaniMan	5	6	30
-330560	4	30	Dark Prism (6 Suits)	2020-10-29 — 19:19:52 UTC	anser, Bonja97, swineherd, TheDaniMan	8	6	30
+330560	4	30	Dark Prism (6 Suits)	2020-10-29 — 19:19:52 UTC	anser, Bonja97, swineherd, TheDaniMan	9	6	30
 330461	4	30	Rainbow & Prism (6 Suits)	2020-10-29 — 15:37:35 UTC	asaelr, Carunty, Kyle, swineherd	6	6	30
 330458	6	30	Prism (6 Suits)	2020-10-29 — 15:07:02 UTC	Carunty, jeff10, Kyle, melwen, swineherd, Tiramisu1th	6	6	30
 330151	3	25	Clue Starved & White (6 Suits)	2020-10-29 — 00:51:51 UTC	plus, swineherd, TimeHoodie	5	6	30
-330135	4	25	No Variant	2020-10-29 — 00:01:01 UTC	ADrone, rz, StKildaFan, swineherd	45	5	25
+330135	4	25	No Variant	2020-10-29 — 00:01:01 UTC	ADrone, rz, StKildaFan, swineherd	46	5	25
 330127	5	0	No Variant	2020-10-28 — 23:42:02 UTC	ADrone, joy1706, rz, StKildaFan, swineherd	23	5	25
-330078	5	29	Pink (6 Suits)	2020-10-28 — 21:38:12 UTC	Div, nitawa, sephiroth, swineherd, XMIL	29	6	30
+330078	5	29	Pink (6 Suits)	2020-10-28 — 21:38:12 UTC	Div, nitawa, sephiroth, swineherd, XMIL	31	6	30
 330028	3	29	Black & Light Pink (6 Suits)	2020-10-28 — 20:21:20 UTC	MarkusKahlsen, swineherd, TheDaniMan	7	6	30
 330010	3	0	Black & Light Pink (6 Suits)	2020-10-28 — 19:59:31 UTC	MarkusKahlsen, swineherd, TheDaniMan	9	6	30
 330003	3	0	Black & Light Pink (6 Suits)	2020-10-28 — 19:50:02 UTC	MarkusKahlsen, swineherd, TheDaniMan	10	6	30
@@ -658,22 +658,22 @@
 329887	5	0	Dark Omni (6 Suits)	2020-10-28 — 17:36:41 UTC	AshleyBridge, Bonja97, newduke, swineherd, TheDaniMan	4	6	30
 329877	5	0	Rainbow (6 Suits)	2020-10-28 — 17:09:37 UTC	AshleyBridge, Fireheart, scharkbite, swineherd, XMIL	6	6	30
 329870	5	0	Rainbow (6 Suits)	2020-10-28 — 16:47:50 UTC	AshleyBridge, Fireheart, scharkbite, swineherd, XMIL	6	6	30
-329867	5	0	Rainbow (6 Suits)	2020-10-28 — 16:30:57 UTC	AshleyBridge, Fireheart, scharkbite, swineherd, XMIL	101	6	30
+329867	5	0	Rainbow (6 Suits)	2020-10-28 — 16:30:57 UTC	AshleyBridge, Fireheart, scharkbite, swineherd, XMIL	102	6	30
 329856	4	22	Black & Pink (5 Suits)	2020-10-28 — 16:05:04 UTC	Floriman, IAMJEFF, kimbifille, swineherd	3	5	25
-329852	4	0	Black & Pink (5 Suits)	2020-10-28 — 15:51:59 UTC	Floriman, IAMJEFF, kimbifille, swineherd	3	5	25
+329852	4	0	Black & Pink (5 Suits)	2020-10-28 — 15:51:59 UTC	Floriman, IAMJEFF, kimbifille, swineherd	4	5	25
 329845	6	29	Prism (6 Suits)	2020-10-28 — 15:30:14 UTC	Fireheart, IAMJEFF, jeff10, kimbifille, superbipbip, swineherd	8	6	30
-329824	4	20	Muddy Rainbow (4 Suits)	2020-10-28 — 13:49:42 UTC	ebin_noob, MarkusKahlsen, swineherd, TimeHoodie	16	4	20
+329824	4	20	Muddy Rainbow (4 Suits)	2020-10-28 — 13:49:42 UTC	ebin_noob, MarkusKahlsen, swineherd, TimeHoodie	17	4	20
 329511	5	0	Prism (5 Suits)	2020-10-28 — 00:32:38 UTC	AshleyBridge, newduke, swineherd, timotree, will.i.am	5	5	25
 329497	5	24	Prism (5 Suits)	2020-10-28 — 00:09:29 UTC	AshleyBridge, newduke, swineherd, timotree, will.i.am	5	5	25
 329486	5	30	White & Prism (6 Suits)	2020-10-27 — 23:45:25 UTC	AshleyBridge, newduke, swineherd, TheDaniMan, timotree	4	6	30
 329441	6	24	Pink (5 Suits)	2020-10-27 — 22:43:45 UTC	jack67889, MarkusKahlsen, nitawa, Nitrate2, sephiroth, swineherd	1	5	25
-329419	4	0	Muddy Rainbow (5 Suits)	2020-10-27 — 22:12:22 UTC	jack67889, MarkusKahlsen, nitawa, swineherd	6	5	25
+329419	4	0	Muddy Rainbow (5 Suits)	2020-10-27 — 22:12:22 UTC	jack67889, MarkusKahlsen, nitawa, swineherd	7	5	25
 328757	5	25	No Variant	2020-10-26 — 19:56:21 UTC	egerdm, fero, honzas, swineherd, veigar	21	5	25
 328613	5	0	Brown-Ones & Brown (5 Suits)	2020-10-26 — 15:07:23 UTC	Carunty, Kyle, superbipbip, swineherd, XMIL	1	5	25
 328611	5	0	Brown-Ones & Brown (5 Suits)	2020-10-26 — 14:59:04 UTC	Carunty, Kyle, superbipbip, swineherd, XMIL	1	5	25
 328609	5	0	Brown-Ones & Brown (5 Suits)	2020-10-26 — 14:51:22 UTC	Carunty, Kyle, superbipbip, swineherd, XMIL	1	5	25
-328597	3	23	Rainbow (5 Suits)	2020-10-26 — 14:00:30 UTC	smallman, ssunfly, swineherd	116	5	25
-328555	4	0	No Variant	2020-10-26 — 09:31:31 UTC	catula, Pablo-, Sucubis, swineherd	103	5	25
+328597	3	23	Rainbow (5 Suits)	2020-10-26 — 14:00:30 UTC	smallman, ssunfly, swineherd	119	5	25
+328555	4	0	No Variant	2020-10-26 — 09:31:31 UTC	catula, Pablo-, Sucubis, swineherd	105	5	25
 328363	5	30	Cocoa Rainbow (6 Suits)	2020-10-26 — 01:33:18 UTC	derekcheah, DMoney, swineherd, TheDaniMan, TimeHoodie	2	6	30
 328354	5	0	Cocoa Rainbow (6 Suits)	2020-10-26 — 01:08:53 UTC	derekcheah, DMoney, swineherd, TheDaniMan, TimeHoodie	2	6	30
 328351	4	0	Cocoa Rainbow (6 Suits)	2020-10-26 — 00:57:59 UTC	derekcheah, DMoney, swineherd, TimeHoodie	4	6	30
@@ -683,9 +683,9 @@
 327994	5	24	White (5 Suits)	2020-10-25 — 15:20:12 UTC	asaelr, robense, rz, swineherd, Wittvector	6	5	25
 327475	4	24	Dark Null (5 Suits)	2020-10-24 — 20:33:38 UTC	Kyle, micerang, newduke, swineherd	5	5	25
 323858	6	0	Dark Rainbow (6 Suits)	2020-10-19 — 19:17:29 UTC	honzas, newduke, Pablo-, swineherd, TheDaniMan, Zakisan	3	6	30
-323837	3	0	Dark Rainbow (5 Suits)	2020-10-19 — 18:55:22 UTC	swineherd, will.i.am, Zakisan	29	5	25
-323829	3	0	Dark Rainbow (5 Suits)	2020-10-19 — 18:47:34 UTC	swineherd, will.i.am, Zakisan	31	5	25
-323822	3	0	Dark Rainbow (5 Suits)	2020-10-19 — 18:37:59 UTC	swineherd, will.i.am, Zakisan	35	5	25
+323837	3	0	Dark Rainbow (5 Suits)	2020-10-19 — 18:55:22 UTC	swineherd, will.i.am, Zakisan	30	5	25
+323829	3	0	Dark Rainbow (5 Suits)	2020-10-19 — 18:47:34 UTC	swineherd, will.i.am, Zakisan	32	5	25
+323822	3	0	Dark Rainbow (5 Suits)	2020-10-19 — 18:37:59 UTC	swineherd, will.i.am, Zakisan	36	5	25
 323787	5	0	No Variant	2020-10-19 — 18:03:04 UTC	cockdestroyer, orucsoraihc, Pepepe, swineherd, XMIL	20	5	25
 323768	5	24	No Variant	2020-10-19 — 17:36:49 UTC	cockdestroyer, orucsoraihc, Pepepe, swineherd, XMIL	21	5	25
 323736	4	0	Light Pink (5 Suits)	2020-10-19 — 16:23:03 UTC	Bonja97, Pablo-, swineherd, Wittvector	9	5	25
@@ -694,14 +694,14 @@
 323690	4	21	Light Pink (5 Suits)	2020-10-19 — 14:23:20 UTC	MKQ, Pablo-, swineherd, Zakisan	20	5	25
 323672	6	0	Pink (5 Suits)	2020-10-19 — 12:50:12 UTC	Floriman, jack67889, MarkusKahlsen, swineherd, Wittvector, Zakisan	2	5	25
 323670	6	0	Pink (5 Suits)	2020-10-19 — 12:27:58 UTC	Floriman, jack67889, MarkusKahlsen, swineherd, Wittvector, Zakisan	3	5	25
-323666	3	24	Pink (5 Suits)	2020-10-19 — 12:05:32 UTC	swineherd, Wittvector, Zakisan	75	5	25
-323657	4	0	Rainbow (5 Suits)	2020-10-19 — 10:26:01 UTC	catula, jack67889, StKildaFan, swineherd	68	5	25
-323655	4	0	Rainbow (5 Suits)	2020-10-19 — 10:20:41 UTC	catula, jack67889, StKildaFan, swineherd	92	5	25
+323666	3	24	Pink (5 Suits)	2020-10-19 — 12:05:32 UTC	swineherd, Wittvector, Zakisan	77	5	25
+323657	4	0	Rainbow (5 Suits)	2020-10-19 — 10:26:01 UTC	catula, jack67889, StKildaFan, swineherd	70	5	25
+323655	4	0	Rainbow (5 Suits)	2020-10-19 — 10:20:41 UTC	catula, jack67889, StKildaFan, swineherd	93	5	25
 323649	6	0	No Variant	2020-10-19 — 09:57:33 UTC	Animex52, catula, cockdestroyer, jack67889, StKildaFan, swineherd	4	5	25
 323115	5	0	Null (5 Suits)	2020-10-18 — 20:44:39 UTC	asaelr, cockdestroyer, Floriman, Nitrate2, swineherd	1	5	25
 323101	5	0	Null (5 Suits)	2020-10-18 — 20:25:32 UTC	asaelr, cockdestroyer, Floriman, Nitrate2, swineherd	1	5	25
 323086	5	0	Null (5 Suits)	2020-10-18 — 20:09:04 UTC	asaelr, cockdestroyer, Floriman, Nitrate2, swineherd	1	5	25
-323067	4	25	No Variant	2020-10-18 — 19:47:58 UTC	cockdestroyer, Floriman, Nitrate2, swineherd	117	5	25
+323067	4	25	No Variant	2020-10-18 — 19:47:58 UTC	cockdestroyer, Floriman, Nitrate2, swineherd	119	5	25
 322978	4	30	Black (6 Suits)	2020-10-18 — 17:37:24 UTC	Puzzle, swineherd, wump, XMIL	55	6	30
 322881	4	0	Cocoa Rainbow (6 Suits)	2020-10-18 — 12:38:34 UTC	asaelr, methmatics, swineherd, TimeHoodie	7	6	30
 322879	4	0	Cocoa Rainbow (6 Suits)	2020-10-18 — 12:31:52 UTC	asaelr, methmatics, swineherd, TimeHoodie	8	6	30
@@ -712,29 +712,29 @@
 322245	3	22	Rainbow (5 Suits)	2020-10-17 — 16:42:46 UTC	Carunty, rz, swineherd	135	5	25
 322231	6	0	Pink (5 Suits)	2020-10-17 — 16:06:17 UTC	Carunty, jack67889, rz, sephiroth, swineherd, wump	3	5	25
 322227	6	0	Pink (5 Suits)	2020-10-17 — 15:48:49 UTC	Carunty, jack67889, rz, sephiroth, swineherd, wump	4	5	25
-322213	3	25	No Variant	2020-10-17 — 14:18:27 UTC	Carunty, StKildaFan, swineherd	46	5	25
-322210	3	24	No Variant	2020-10-17 — 13:56:29 UTC	Carunty, StKildaFan, swineherd	47	5	25
-322205	3	0	No Variant	2020-10-17 — 13:42:22 UTC	Carunty, StKildaFan, swineherd	48	5	25
-322155	4	25	No Variant	2020-10-17 — 09:33:00 UTC	ebin_noob, lotem, rotem, swineherd	138	5	25
-322146	3	0	No Variant	2020-10-17 — 09:06:07 UTC	ebin_noob, orucsoraihc, swineherd	451	5	25
-321503	4	0	White (5 Suits)	2020-10-16 — 11:32:14 UTC	ebin_noob, lotem, rotem, swineherd	46	5	25
-320825	3	25	No Variant	2020-10-15 — 11:02:59 UTC	orucsoraihc, swineherd, VerySloppyTwo	750	5	25
+322213	3	25	No Variant	2020-10-17 — 14:18:27 UTC	Carunty, StKildaFan, swineherd	48	5	25
+322210	3	24	No Variant	2020-10-17 — 13:56:29 UTC	Carunty, StKildaFan, swineherd	48	5	25
+322205	3	0	No Variant	2020-10-17 — 13:42:22 UTC	Carunty, StKildaFan, swineherd	49	5	25
+322155	4	25	No Variant	2020-10-17 — 09:33:00 UTC	ebin_noob, lotem, rotem, swineherd	139	5	25
+322146	3	0	No Variant	2020-10-17 — 09:06:07 UTC	ebin_noob, orucsoraihc, swineherd	456	5	25
+321503	4	0	White (5 Suits)	2020-10-16 — 11:32:14 UTC	ebin_noob, lotem, rotem, swineherd	47	5	25
+320825	3	25	No Variant	2020-10-15 — 11:02:59 UTC	orucsoraihc, swineherd, VerySloppyTwo	757	5	25
 320235	5	0	Pink (6 Suits)	2020-10-14 — 12:32:16 UTC	Pepepe, swineherd, TheDaniMan, Tiramisu1th, Zakisan	9	6	30
 319416	3	30	Light Pink (6 Suits)	2020-10-13 — 08:02:09 UTC	asaelr, swineherd, Wittvector	11	6	30
 319402	3	0	Light Pink (6 Suits)	2020-10-13 — 07:35:59 UTC	asaelr, swineherd, Wittvector	11	6	30
-319270	3	0	No Variant	2020-10-13 — 03:50:17 UTC	Carunty, parrotdoxair, swineherd	1174	5	25
+319270	3	0	No Variant	2020-10-13 — 03:50:17 UTC	Carunty, parrotdoxair, swineherd	1180	5	25
 319198	4	25	No Variant	2020-10-13 — 02:24:55 UTC	honzas, parrotdoxair, swineherd, TheDaniMan	12	5	25
-318467	3	0	No Variant	2020-10-12 — 01:02:18 UTC	moeski, swineherd, wavychips	1291	5	25
-318433	4	0	No Variant	2020-10-12 — 00:21:08 UTC	Carunty, orucsoraihc, rkass, swineherd	158	5	25
+318467	3	0	No Variant	2020-10-12 — 01:02:18 UTC	moeski, swineherd, wavychips	1299	5	25
+318433	4	0	No Variant	2020-10-12 — 00:21:08 UTC	Carunty, orucsoraihc, rkass, swineherd	161	5	25
 318039	4	25	White-Ones & White (5 Suits)	2020-10-11 — 09:17:34 UTC	asaelr, derekcheah, Sucubis, swineherd	6	5	25
-317961	6	26	Black (6 Suits)	2020-10-11 — 06:49:08 UTC	angel-a, Animex52, catula, sin_faith, swineherd, wump	15	6	30
+317961	6	26	Black (6 Suits)	2020-10-11 — 06:49:08 UTC	angel-a, Animex52, catula, sin_faith, swineherd, wump	16	6	30
 317920	5	29	Cocoa Rainbow (6 Suits)	2020-10-11 — 04:54:38 UTC	ejwu, scharkbite, swineherd, timotree, vEnhance	4	6	30
 317891	5	0	Cocoa Rainbow (6 Suits)	2020-10-11 — 04:22:19 UTC	ejwu, scharkbite, swineherd, timotree, vEnhance	5	6	30
 317737	3	30	Omni (6 Suits)	2020-10-11 — 01:37:45 UTC	Bonja97, honzas, swineherd	70	6	30
 317708	4	30	Light Pink (6 Suits)	2020-10-11 — 01:02:04 UTC	Bonja97, sephiroth, StKildaFan, swineherd	19	6	30
 317605	4	25	No Variant	2020-10-10 — 23:00:23 UTC	antitelharsic, Carunty, ksfortson, swineherd	61	5	25
 317578	4	0	No Variant	2020-10-10 — 22:24:05 UTC	antitelharsic, Carunty, ksfortson, swineherd	60	5	25
-317546	4	22	No Variant	2020-10-10 — 21:54:17 UTC	antitelharsic, Carunty, ksfortson, swineherd	59	5	25
+317546	4	22	No Variant	2020-10-10 — 21:54:17 UTC	antitelharsic, Carunty, ksfortson, swineherd	60	5	25
 317518	5	20	No Variant	2020-10-10 — 21:21:20 UTC	angel-a, antitelharsic, asaelr, swineherd, wump	12	5	25
 315125	5	28	Pink & White (6 Suits)	2020-10-07 — 19:02:38 UTC	Floriman, scharkbite, swineherd, TheDaniMan, Wittvector	5	6	30
 314990	4	0	Prism (6 Suits)	2020-10-07 — 16:42:24 UTC	Bonja97, pianoblook, swineherd, vEnhance	35	6	30
@@ -762,9 +762,9 @@
 311165	5	0	Rainbow (5 Suits)	2020-10-02 — 19:22:47 UTC	jack67889, newduke, Pepepe, swineherd, TheDaniMan	13	5	25
 311157	6	0	Rainbow (5 Suits)	2020-10-02 — 19:07:32 UTC	jack67889, Kyle, newduke, Pepepe, swineherd, TheDaniMan	5	5	25
 311145	6	24	Rainbow (5 Suits)	2020-10-02 — 18:47:17 UTC	jack67889, Kyle, newduke, Pepepe, swineherd, TheDaniMan	9	5	25
-311125	4	0	Black (6 Suits)	2020-10-02 — 18:08:04 UTC	ejwu, emilyzhao, jack67889, swineherd	71	6	30
-311113	4	0	Black (6 Suits)	2020-10-02 — 17:51:14 UTC	ejwu, emilyzhao, jack67889, swineherd	74	6	30
-311101	4	0	Black (6 Suits)	2020-10-02 — 17:38:42 UTC	ejwu, emilyzhao, jack67889, swineherd	112	6	30
+311125	4	0	Black (6 Suits)	2020-10-02 — 18:08:04 UTC	ejwu, emilyzhao, jack67889, swineherd	73	6	30
+311113	4	0	Black (6 Suits)	2020-10-02 — 17:51:14 UTC	ejwu, emilyzhao, jack67889, swineherd	76	6	30
+311101	4	0	Black (6 Suits)	2020-10-02 — 17:38:42 UTC	ejwu, emilyzhao, jack67889, swineherd	113	6	30
 310680	5	25	Muddy Rainbow (5 Suits)	2020-10-01 — 22:26:29 UTC	Floriman, Kyle, scharkbite, sephiroth, swineherd	5	5	25
 310660	5	0	Light Pink (5 Suits)	2020-10-01 — 21:12:36 UTC	asaelr, Floriman, jeff10, newduke, swineherd	1	5	25
 310649	5	0	Light Pink (5 Suits)	2020-10-01 — 20:52:42 UTC	asaelr, Floriman, jeff10, newduke, swineherd	11	5	25
@@ -774,26 +774,26 @@
 310572	5	19	Prism (4 Suits)	2020-10-01 — 19:09:34 UTC	Kyle, Pepepe, pianoblook, swineherd, TimeHoodie	3	4	20
 310561	5	0	Dark Rainbow (6 Suits)	2020-10-01 — 18:48:06 UTC	Kyle, Pepepe, pianoblook, swineherd, TimeHoodie	14	6	30
 310493	4	0	White (6 Suits)	2020-10-01 — 16:33:13 UTC	nitawa, Pablo-, swineherd, TimeHoodie	29	6	30
-310472	4	25	Dark Prism (5 Suits)	2020-10-01 — 15:58:19 UTC	Pablo-, rachyrules, swineherd, TimeHoodie	11	5	25
-310458	4	23	Dark Prism (5 Suits)	2020-10-01 — 15:34:25 UTC	Pablo-, rachyrules, swineherd, TimeHoodie	17	5	25
+310472	4	25	Dark Prism (5 Suits)	2020-10-01 — 15:58:19 UTC	Pablo-, rachyrules, swineherd, TimeHoodie	12	5	25
+310458	4	23	Dark Prism (5 Suits)	2020-10-01 — 15:34:25 UTC	Pablo-, rachyrules, swineherd, TimeHoodie	18	5	25
 310451	5	0	White & Prism (5 Suits)	2020-10-01 — 15:08:58 UTC	Pablo-, rachyrules, squidgetx, swineherd, TimeHoodie	7	5	25
 309928	4	25	No Variant	2020-09-30 — 22:40:52 UTC	Feich59, rachyrules, swineherd, timotree	64	5	25
 309916	5	23	Dark Pink (5 Suits)	2020-09-30 — 22:17:11 UTC	Kyle, plus, swineherd, TimeHoodie, timotree	7	5	25
 309849	5	25	Prism (6 Suits)	2020-09-30 — 20:57:29 UTC	asaelr, Pepepe, swineherd, timotree, vEnhance	11	6	30
 309824	5	0	Prism (6 Suits)	2020-09-30 — 20:18:23 UTC	asaelr, Pepepe, swineherd, timotree, vEnhance	10	6	30
-309757	3	0	Dark Prism (5 Suits)	2020-09-30 — 19:03:35 UTC	emilyzhao, swineherd, timotree	26	5	25
+309757	3	0	Dark Prism (5 Suits)	2020-09-30 — 19:03:35 UTC	emilyzhao, swineherd, timotree	27	5	25
 309737	4	24	Dark Prism (5 Suits)	2020-09-30 — 18:21:29 UTC	MarkusKahlsen, squidgetx, swineherd, timotree	13	5	25
-309720	4	28	Black (6 Suits)	2020-09-30 — 17:31:16 UTC	nitawa, sephiroth, swineherd, timotree	22	6	30
+309720	4	28	Black (6 Suits)	2020-09-30 — 17:31:16 UTC	nitawa, sephiroth, swineherd, timotree	23	6	30
 309715	4	0	Black (6 Suits)	2020-09-30 — 17:06:23 UTC	nitawa, sephiroth, swineherd, timotree	25	6	30
-309711	5	30	White (6 Suits)	2020-09-30 — 16:41:41 UTC	Bonja97, jeff10, nitawa, swineherd, timotree	27	6	30
+309711	5	30	White (6 Suits)	2020-09-30 — 16:41:41 UTC	Bonja97, jeff10, nitawa, swineherd, timotree	28	6	30
 309696	6	25	No Variant	2020-09-30 — 16:08:26 UTC	Bonja97, cockdestroyer, Hapotata, nitawa, Nitrate2, swineherd	18	5	25
 309686	5	0	No Variant	2020-09-30 — 15:46:28 UTC	Bonja97, cockdestroyer, nitawa, Nitrate2, swineherd	23	5	25
-309653	4	24	Gray (5 Suits)	2020-09-30 — 13:05:11 UTC	asaelr, rachyrules, swineherd, TimeHoodie	12	5	25
+309653	4	24	Gray (5 Suits)	2020-09-30 — 13:05:11 UTC	asaelr, rachyrules, swineherd, TimeHoodie	15	5	25
 309648	4	0	Gray (5 Suits)	2020-09-30 — 12:51:38 UTC	asaelr, rachyrules, swineherd, TimeHoodie	27	5	25
 309636	6	30	White (6 Suits)	2020-09-30 — 12:25:35 UTC	catula, rachyrules, StKildaFan, Sucubis, swineherd, TimeHoodie	5	6	30
-309309	3	0	Dark Rainbow (5 Suits)	2020-09-29 — 23:22:22 UTC	ejwu, rachyrules, swineherd	48	5	25
-309303	3	0	Dark Rainbow (5 Suits)	2020-09-29 — 23:13:01 UTC	ejwu, rachyrules, swineherd	52	5	25
-309245	4	25	No Variant	2020-09-29 — 20:53:42 UTC	nitawa, rachyrules, swineherd, timotree	89	5	25
+309309	3	0	Dark Rainbow (5 Suits)	2020-09-29 — 23:22:22 UTC	ejwu, rachyrules, swineherd	49	5	25
+309303	3	0	Dark Rainbow (5 Suits)	2020-09-29 — 23:13:01 UTC	ejwu, rachyrules, swineherd	53	5	25
+309245	4	25	No Variant	2020-09-29 — 20:53:42 UTC	nitawa, rachyrules, swineherd, timotree	91	5	25
 309187	5	23	Prism (5 Suits)	2020-09-29 — 19:49:23 UTC	Kyle, Pepepe, scharkbite, sephiroth, swineherd	4	5	25
 309084	5	25	Prism (5 Suits)	2020-09-29 — 16:28:56 UTC	nitawa, Nitrate2, rkass, swineherd, TimeHoodie	8	5	25
 309075	5	25	Prism (5 Suits)	2020-09-29 — 16:03:27 UTC	jack67889, MarkusKahlsen, nitawa, Nitrate2, swineherd	9	5	25
@@ -808,34 +808,34 @@
 307665	4	25	Omni (5 Suits)	2020-09-27 — 17:37:21 UTC	MarkusKahlsen, Nitrate2, swineherd, TimeHoodie	24	5	25
 306087	5	0	Black (6 Suits)	2020-09-25 — 13:50:34 UTC	Animex52, catula, MarkusKahlsen, Pablo-, swineherd	13	6	30
 306016	5	0	No Variant	2020-09-25 — 11:29:58 UTC	catula, CoxZuckrMachine, Nitrate2, pettzar, swineherd	25	5	25
-303338	3	0	Rainbow (5 Suits)	2020-09-21 — 13:48:45 UTC	catula, Pablo-, swineherd	56	5	25
+303338	3	0	Rainbow (5 Suits)	2020-09-21 — 13:48:45 UTC	catula, Pablo-, swineherd	57	5	25
 301564	5	23	No Variant	2020-09-19 — 13:17:42 UTC	Animex52, catula, cockdestroyer, MarkusKahlsen, swineherd	21	5	25
 300533	4	25	Dark Pink (5 Suits)	2020-09-18 — 05:04:42 UTC	derekcheah, Fey, newduke, swineherd	2	5	25
 300513	4	0	Dark Pink (5 Suits)	2020-09-18 — 04:27:00 UTC	Fey, newduke, swineherd, TheDaniMan	2	5	25
 300492	4	21	Dark Pink (5 Suits)	2020-09-18 — 03:55:13 UTC	Fey, newduke, swineherd, TheDaniMan	2	5	25
 300477	4	0	Dark Pink (5 Suits)	2020-09-18 — 03:29:24 UTC	Fey, newduke, swineherd, TheDaniMan	2	5	25
-299599	5	24	No Variant	2020-09-17 — 10:24:06 UTC	cockdestroyer, Nitrate2, orucsoraihc, sephiroth, swineherd	27	5	25
-299594	5	0	No Variant	2020-09-17 — 10:04:10 UTC	cockdestroyer, Nitrate2, orucsoraihc, sephiroth, swineherd	25	5	25
-298659	3	29	Gray (6 Suits)	2020-09-16 — 04:13:10 UTC	plus, swineherd, will.i.am	42	6	30
-298652	3	0	Gray (6 Suits)	2020-09-16 — 03:52:25 UTC	plus, swineherd, will.i.am	48	6	30
+299599	5	24	No Variant	2020-09-17 — 10:24:06 UTC	cockdestroyer, Nitrate2, orucsoraihc, sephiroth, swineherd	28	5	25
+299594	5	0	No Variant	2020-09-17 — 10:04:10 UTC	cockdestroyer, Nitrate2, orucsoraihc, sephiroth, swineherd	26	5	25
+298659	3	29	Gray (6 Suits)	2020-09-16 — 04:13:10 UTC	plus, swineherd, will.i.am	43	6	30
+298652	3	0	Gray (6 Suits)	2020-09-16 — 03:52:25 UTC	plus, swineherd, will.i.am	52	6	30
 298073	5	23	No Variant	2020-09-15 — 04:28:33 UTC	melwen, newduke, pianoblook, swineherd, timotree	21	5	25
 298046	5	0	Up or Down & White (6 Suits)	2020-09-15 — 03:54:30 UTC	melwen, newduke, swineherd, timotree, will.i.am	1	6	30
-297962	4	0	Gray (6 Suits)	2020-09-15 — 02:20:27 UTC	Bonja97, IsabeltheCat, pianoblook, swineherd	13	6	30
-297922	4	0	Gray (6 Suits)	2020-09-15 — 01:54:10 UTC	Bonja97, IsabeltheCat, pianoblook, swineherd	22	6	30
+297962	4	0	Gray (6 Suits)	2020-09-15 — 02:20:27 UTC	Bonja97, IsabeltheCat, pianoblook, swineherd	14	6	30
+297922	4	0	Gray (6 Suits)	2020-09-15 — 01:54:10 UTC	Bonja97, IsabeltheCat, pianoblook, swineherd	23	6	30
 297843	3	15	Muddy Rainbow (3 Suits)	2020-09-15 — 00:57:50 UTC	melwen, plus, swineherd	22	3	15
-297829	3	20	Null (4 Suits)	2020-09-15 — 00:41:15 UTC	melwen, plus, swineherd	23	4	20
-297810	3	30	Null (6 Suits)	2020-09-15 — 00:18:25 UTC	melwen, plus, swineherd	57	6	30
+297829	3	20	Null (4 Suits)	2020-09-15 — 00:41:15 UTC	melwen, plus, swineherd	24	4	20
+297810	3	30	Null (6 Suits)	2020-09-15 — 00:18:25 UTC	melwen, plus, swineherd	60	6	30
 297789	4	0	Rainbow & Prism (5 Suits)	2020-09-14 — 23:50:04 UTC	jeff10, melwen, plus, swineherd	4	5	25
 297781	4	0	Rainbow & Prism (5 Suits)	2020-09-14 — 23:34:40 UTC	jeff10, melwen, plus, swineherd	7	5	25
 297772	5	25	Prism (5 Suits)	2020-09-14 — 23:17:54 UTC	asaelr, plus, swineherd, TheDaniMan, Veexliat	8	5	25
 297766	5	0	Prism (5 Suits)	2020-09-14 — 23:01:21 UTC	asaelr, plus, swineherd, TheDaniMan, Veexliat	9	5	25
 297762	5	20	White (4 Suits)	2020-09-14 — 22:46:39 UTC	asaelr, plus, swineherd, TheDaniMan, Veexliat	7	4	20
-297738	3	0	Rainbow (4 Suits)	2020-09-14 — 22:04:38 UTC	avanderwalde, rkass, swineherd	68	4	20
-297659	6	29	White (6 Suits)	2020-09-14 — 20:33:36 UTC	ezahid1662, kondain, Pepepe, swineherd, timotree, Veexliat	9	6	30
+297738	3	0	Rainbow (4 Suits)	2020-09-14 — 22:04:38 UTC	avanderwalde, rkass, swineherd	69	4	20
+297659	6	29	White (6 Suits)	2020-09-14 — 20:33:36 UTC	ezahid1662, kondain, Pepepe, swineherd, timotree, Veexliat	10	6	30
 297626	6	0	White (6 Suits)	2020-09-14 — 19:55:54 UTC	ezahid1662, kondain, Pepepe, swineherd, timotree, Veexliat	12	6	30
 297605	5	0	White (6 Suits)	2020-09-14 — 19:35:07 UTC	ezahid1662, kondain, Pepepe, swineherd, timotree	37	6	30
 297583	6	25	No Variant	2020-09-14 — 19:08:25 UTC	ezahid1662, Pepepe, sephiroth, sin_faith, swineherd, timotree	26	5	25
-297392	4	0	No Variant	2020-09-14 — 06:53:39 UTC	AnnaTheNerd, asaelr, KK47_Natural, swineherd	14	5	25
+297392	4	0	No Variant	2020-09-14 — 06:53:39 UTC	AnnaTheNerd, asaelr, KK47_Natural, swineherd	16	5	25
 297360	6	29	Rainbow (6 Suits)	2020-09-14 — 05:36:41 UTC	Andrew_UK, JerryYang, newduke, swineherd, timotree, vEnhance	20	6	30
 297257	4	0	Black (5 Suits)	2020-09-14 — 03:51:50 UTC	emilyzhao, squidgetx, swineherd, timotree	28	5	25
 297239	4	25	Black (5 Suits)	2020-09-14 — 03:31:39 UTC	emilyzhao, squidgetx, swineherd, timotree	32	5	25
@@ -852,43 +852,43 @@
 296957	5	0	Null (5 Suits)	2020-09-13 — 22:54:34 UTC	asaelr, plus, sephiroth, swineherd, TheDaniMan	2	5	25
 296937	5	0	Null (5 Suits)	2020-09-13 — 22:38:24 UTC	asaelr, plus, sephiroth, swineherd, TheDaniMan	2	5	25
 296925	5	0	Null (5 Suits)	2020-09-13 — 22:24:29 UTC	asaelr, plus, sephiroth, swineherd, TheDaniMan	2	5	25
-296863	4	0	Black (6 Suits)	2020-09-13 — 21:14:27 UTC	Pepepe, Rubix, swineherd, timotree	77	6	30
-296826	4	0	Black (6 Suits)	2020-09-13 — 20:27:05 UTC	Pepepe, Rubix, swineherd, timotree	90	6	30
-296806	5	0	Black (5 Suits)	2020-09-13 — 19:59:19 UTC	Fey, lotem, Pepepe, swineherd, TimeHoodie	17	5	25
+296863	4	0	Black (6 Suits)	2020-09-13 — 21:14:27 UTC	Pepepe, Rubix, swineherd, timotree	81	6	30
+296826	4	0	Black (6 Suits)	2020-09-13 — 20:27:05 UTC	Pepepe, Rubix, swineherd, timotree	95	6	30
+296806	5	0	Black (5 Suits)	2020-09-13 — 19:59:19 UTC	Fey, lotem, Pepepe, swineherd, TimeHoodie	18	5	25
 296788	4	23	Up or Down (5 Suits)	2020-09-13 — 19:42:16 UTC	Fey, sephiroth, swineherd, TimeHoodie	6	5	25
 296775	4	25	Up or Down (5 Suits)	2020-09-13 — 19:15:34 UTC	Fey, sephiroth, swineherd, TimeHoodie	6	5	25
 296763	4	20	Rainbow (4 Suits)	2020-09-13 — 18:31:22 UTC	sephiroth, swineherd, TimeHoodie, Veexliat	19	4	20
-296760	4	0	Rainbow (4 Suits)	2020-09-13 — 18:15:30 UTC	sephiroth, swineherd, TimeHoodie, Veexliat	20	4	20
+296760	4	0	Rainbow (4 Suits)	2020-09-13 — 18:15:30 UTC	sephiroth, swineherd, TimeHoodie, Veexliat	21	4	20
 296754	6	30	White & Brown (6 Suits)	2020-09-13 — 17:42:03 UTC	Bonja97, Pablo-, sin_faith, swineherd, TheDaniMan, Veexliat	1	6	30
 296738	6	0	White & Brown (6 Suits)	2020-09-13 — 17:11:38 UTC	Bonja97, Pablo-, sin_faith, swineherd, TheDaniMan, Veexliat	1	6	30
 296731	4	0	White & Brown (6 Suits)	2020-09-13 — 17:00:03 UTC	Bonja97, Pablo-, swineherd, TheDaniMan	20	6	30
 296484	6	30	Rainbow & Prism (6 Suits)	2020-09-13 — 03:51:57 UTC	jeff10, melwen, newduke, scharkbite, swineherd, TheDaniMan	3	6	30
 296467	5	0	Rainbow & Prism (6 Suits)	2020-09-13 — 03:21:13 UTC	jeff10, melwen, newduke, swineherd, timotree	7	6	30
 296374	5	0	White (6 Suits)	2020-09-13 — 01:28:04 UTC	derekcheah, melwen, swineherd, TheDaniMan, Veexliat	12	6	30
-296353	4	0	No Variant	2020-09-13 — 01:06:55 UTC	derekcheah, swineherd, tenbens1010, TheDaniMan	16	5	25
-296343	4	0	No Variant	2020-09-13 — 00:56:31 UTC	derekcheah, swineherd, tenbens1010, TheDaniMan	17	5	25
+296353	4	0	No Variant	2020-09-13 — 01:06:55 UTC	derekcheah, swineherd, tenbens1010, TheDaniMan	18	5	25
+296343	4	0	No Variant	2020-09-13 — 00:56:31 UTC	derekcheah, swineherd, tenbens1010, TheDaniMan	18	5	25
 296312	5	0	White & Prism (6 Suits)	2020-09-13 — 00:22:54 UTC	asaelr, pianoblook, Romain672, swineherd, Veexliat	3	6	30
 296289	5	0	White & Prism (6 Suits)	2020-09-13 — 00:01:28 UTC	asaelr, pianoblook, Romain672, swineherd, Veexliat	5	6	30
 295982	4	29	Up or Down (6 Suits)	2020-09-12 — 19:16:37 UTC	asaelr, newduke, Pablo-, swineherd	5	6	30
-295958	4	0	Up or Down (6 Suits)	2020-09-12 — 18:52:12 UTC	asaelr, newduke, Pablo-, swineherd	8	6	30
+295958	4	0	Up or Down (6 Suits)	2020-09-12 — 18:52:12 UTC	asaelr, newduke, Pablo-, swineherd	9	6	30
 295944	4	0	Up or Down (6 Suits)	2020-09-12 — 18:35:06 UTC	asaelr, newduke, Pablo-, swineherd	9	6	30
-295930	4	0	Up or Down (6 Suits)	2020-09-12 — 18:20:51 UTC	asaelr, newduke, Pablo-, swineherd	12	6	30
+295930	4	0	Up or Down (6 Suits)	2020-09-12 — 18:20:51 UTC	asaelr, newduke, Pablo-, swineherd	13	6	30
 295912	4	22	Black & White (5 Suits)	2020-09-12 — 17:55:37 UTC	newduke, Pablo-, sin_faith, swineherd	9	5	25
 295905	4	0	Black & White (5 Suits)	2020-09-12 — 17:39:41 UTC	newduke, Pablo-, sin_faith, swineherd	11	5	25
 295903	4	0	Black & White (5 Suits)	2020-09-12 — 17:38:17 UTC	newduke, Pablo-, sin_faith, swineherd	16	5	25
 295895	4	24	Black & White (5 Suits)	2020-09-12 — 17:24:26 UTC	MarkusKahlsen, newduke, Pablo-, swineherd	23	5	25
-295880	4	30	Brown (6 Suits)	2020-09-12 — 16:58:27 UTC	newduke, Pablo-, Puzzle, swineherd	27	6	30
+295880	4	30	Brown (6 Suits)	2020-09-12 — 16:58:27 UTC	newduke, Pablo-, Puzzle, swineherd	28	6	30
 295440	4	0	Brown (5 Suits)	2020-09-12 — 04:06:07 UTC	ejwu, newduke, Rubix, swineherd	9	5	25
 295154	5	20	4 Suits	2020-09-11 — 23:56:05 UTC	avanderwalde, melwen, plus, rkass, swineherd	12	4	20
 295140	5	19	4 Suits	2020-09-11 — 23:34:31 UTC	avanderwalde, melwen, plus, rkass, swineherd	16	4	20
 295056	4	0	Rainbow & Prism (6 Suits)	2020-09-11 — 22:11:52 UTC	kevincaseytdk1, MarkusKahlsen, swineherd, timotree	5	6	30
 295011	4	0	Rainbow & Prism (6 Suits)	2020-09-11 — 21:04:59 UTC	MarkusKahlsen, melwen, scharkbite, swineherd	9	6	30
-294993	4	26	Rainbow & Prism (6 Suits)	2020-09-11 — 20:36:40 UTC	MarkusKahlsen, melwen, scharkbite, swineherd	13	6	30
+294993	4	26	Rainbow & Prism (6 Suits)	2020-09-11 — 20:36:40 UTC	MarkusKahlsen, melwen, scharkbite, swineherd	14	6	30
 294887	3	23	Pink (5 Suits)	2020-09-11 — 17:53:57 UTC	Fey, sin_faith, swineherd	5	5	25
 294853	5	0	White (5 Suits)	2020-09-11 — 16:28:36 UTC	Lilliana, Pablo-, Pepepe, sephiroth, swineherd	14	5	25
 294852	5	25	White (5 Suits)	2020-09-11 — 16:27:04 UTC	Lilliana, Pablo-, Pepepe, sephiroth, swineherd	37	5	25
-294836	5	0	White (5 Suits)	2020-09-11 — 15:53:53 UTC	melwen, Pablo-, Pepepe, sephiroth, swineherd	21	5	25
-293651	6	30	Pink (6 Suits)	2020-09-10 — 00:05:45 UTC	ejwu, melwen, Nitrate2, sephiroth, swineherd, TheDaniMan	5	6	30
+294836	5	0	White (5 Suits)	2020-09-11 — 15:53:53 UTC	melwen, Pablo-, Pepepe, sephiroth, swineherd	22	5	25
+293651	6	30	Pink (6 Suits)	2020-09-10 — 00:05:45 UTC	ejwu, melwen, Nitrate2, sephiroth, swineherd, TheDaniMan	6	6	30
 293634	5	0	Prism (5 Suits)	2020-09-09 — 23:20:39 UTC	ejwu, Nitrate2, plus, swineherd, TheDaniMan	7	5	25
 293171	3	30	Up or Down & Brown (6 Suits)	2020-09-09 — 05:46:34 UTC	pianoblook, sephiroth, swineherd	9	6	30
 292610	6	30	6 Suits	2020-09-08 — 17:57:04 UTC	newduke, plus, scharkbite, swineherd, TheDaniMan, Veexliat	8	6	30
@@ -904,7 +904,7 @@
 292103	6	29	Black (6 Suits)	2020-09-08 — 00:18:06 UTC	Animex52, ejwu, melwen, plus, sephiroth, swineherd	2	6	30
 292086	4	0	Black (6 Suits)	2020-09-07 — 23:46:18 UTC	ejwu, plus, sephiroth, swineherd	32	6	30
 291936	5	0	No Variant	2020-09-07 — 20:44:02 UTC	antitelharsic, jeff10, rachyrules, swineherd, Veexliat	25	5	25
-291912	5	24	No Variant	2020-09-07 — 20:18:03 UTC	antitelharsic, ejwu, jeff10, rachyrules, swineherd	27	5	25
+291912	5	24	No Variant	2020-09-07 — 20:18:03 UTC	antitelharsic, ejwu, jeff10, rachyrules, swineherd	28	5	25
 291886	5	0	No Variant	2020-09-07 — 19:49:37 UTC	antitelharsic, ejwu, jeff10, rachyrules, swineherd	26	5	25
 291284	4	19	Prism (4 Suits)	2020-09-07 — 00:21:30 UTC	asaelr, melwen, plus, swineherd	4	4	20
 291260	4	19	Prism (4 Suits)	2020-09-06 — 23:58:04 UTC	asaelr, melwen, plus, swineherd	11	4	20
@@ -918,11 +918,11 @@
 289866	5	0	Special Mix (5 Suits)	2020-09-05 — 14:13:20 UTC	joelwool, lotem, sephiroth, sin_faith, swineherd	6	5	25
 288252	3	25	Light Pink (5 Suits)	2020-09-03 — 21:23:50 UTC	melwen, plus, swineherd	40	5	25
 287402	4	25	Up or Down & Prism (5 Suits)	2020-09-02 — 20:17:22 UTC	robense, sephiroth, swineherd, Zakisan	12	5	25
-287357	3	25	No Variant	2020-09-02 — 19:13:44 UTC	rachyrules, swineherd, TheDaniMan	89	5	25
+287357	3	25	No Variant	2020-09-02 — 19:13:44 UTC	rachyrules, swineherd, TheDaniMan	91	5	25
 287258	6	28	Black (6 Suits)	2020-09-02 — 16:45:36 UTC	ADrone, Aroma1997, Kyle, Pablo-, sin_faith, swineherd	2	6	30
 286375	3	0	Black (6 Suits)	2020-09-01 — 17:20:33 UTC	Aroma1997, Pablo-, swineherd	236	6	30
-284676	4	25	No Variant	2020-08-30 — 13:38:14 UTC	asaelr, Nitrate2, robense, swineherd	17	5	25
-284643	3	25	Prism (5 Suits)	2020-08-30 — 10:54:11 UTC	Fireheart, sephiroth, swineherd	45	5	25
+284676	4	25	No Variant	2020-08-30 — 13:38:14 UTC	asaelr, Nitrate2, robense, swineherd	18	5	25
+284643	3	25	Prism (5 Suits)	2020-08-30 — 10:54:11 UTC	Fireheart, sephiroth, swineherd	47	5	25
 283698	6	0	Brown (6 Suits)	2020-08-29 — 12:23:39 UTC	joelwool, MarkusKahlsen, postmans, sephiroth, swineherd, Zakisan	7	6	30
 283640	5	29	Brown (6 Suits)	2020-08-29 — 11:49:15 UTC	joelwool, MarkusKahlsen, postmans, sephiroth, swineherd	16	6	30
 283590	5	24	Prism (5 Suits)	2020-08-29 — 11:02:20 UTC	joelwool, postmans, sephiroth, swineherd, Tiramisu1th	10	5	25
@@ -932,7 +932,7 @@
 280079	4	25	Up or Down (5 Suits)	2020-08-25 — 07:40:48 UTC	asaelr, joelwool, sephiroth, swineherd	8	5	25
 280072	3	29	White (6 Suits)	2020-08-25 — 07:02:07 UTC	joelwool, savoryoatmeal, swineherd	18	6	30
 279966	3	22	Rainbow & Gray (5 Suits)	2020-08-25 — 04:09:19 UTC	pianoblook, swineherd, timotree	11	5	25
-278545	3	0	Light Pink (4 Suits)	2020-08-23 — 16:22:24 UTC	joelwool, Kyle, swineherd	21	4	20
+278545	3	0	Light Pink (4 Suits)	2020-08-23 — 16:22:24 UTC	joelwool, Kyle, swineherd	22	4	20
 278504	3	30	Dark Rainbow (6 Suits)	2020-08-23 — 15:11:27 UTC	Pablo-, swineherd, TheDaniMan	37	6	30
 278496	3	0	Dark Rainbow (6 Suits)	2020-08-23 — 14:53:55 UTC	Pablo-, swineherd, TheDaniMan	41	6	30
 278491	3	0	Dark Rainbow (6 Suits)	2020-08-23 — 14:41:09 UTC	Pablo-, swineherd, TheDaniMan	41	6	30
@@ -944,7 +944,7 @@
 277498	5	0	Null (5 Suits)	2020-08-22 — 14:01:56 UTC	DMoney, melwen, postmans, swineherd, Valetta6789	4	5	25
 277454	5	24	No Variant	2020-08-22 — 12:06:48 UTC	kodomazer, lotem, rotem, swineherd, Wittvector	29	5	25
 277448	6	25	No Variant	2020-08-22 — 11:23:30 UTC	Div, kodomazer, lotem, rotem, swineherd, Wittvector	32	5	25
-277446	4	0	No Variant	2020-08-22 — 11:00:36 UTC	Div, rotem, swineherd, Wittvector	190	5	25
+277446	4	0	No Variant	2020-08-22 — 11:00:36 UTC	Div, rotem, swineherd, Wittvector	192	5	25
 277248	4	21	Black & Pink (5 Suits)	2020-08-22 — 06:30:16 UTC	Bonja97, pianoblook, piper, swineherd	6	5	25
 277222	4	0	Black & Pink (5 Suits)	2020-08-22 — 06:04:05 UTC	Bonja97, pianoblook, piper, swineherd	5	5	25
 277200	5	0	Black (6 Suits)	2020-08-22 — 05:50:57 UTC	IsabeltheCat, pianoblook, piper, swineherd, will.i.am	28	6	30
@@ -961,30 +961,30 @@
 275495	4	23	Pink (5 Suits)	2020-08-20 — 02:15:18 UTC	avanderwalde, scharkbite, swineherd, timotree	17	5	25
 275453	5	25	Pink (5 Suits)	2020-08-20 — 01:41:41 UTC	avanderwalde, scharkbite, swineherd, timotree, XMIL	3	5	25
 275427	4	0	Pink (5 Suits)	2020-08-20 — 01:11:03 UTC	avanderwalde, scharkbite, swineherd, timotree	23	5	25
-275405	4	29	Rainbow & White (6 Suits)	2020-08-20 — 00:47:40 UTC	avanderwalde, emilyzhao, squidgetx, swineherd	16	6	30
-275377	4	0	Rainbow & White (6 Suits)	2020-08-20 — 00:09:21 UTC	avanderwalde, emilyzhao, squidgetx, swineherd	23	6	30
-275368	3	0	Rainbow & White (6 Suits)	2020-08-19 — 23:46:43 UTC	avanderwalde, emilyzhao, swineherd	46	6	30
+275405	4	29	Rainbow & White (6 Suits)	2020-08-20 — 00:47:40 UTC	avanderwalde, emilyzhao, squidgetx, swineherd	17	6	30
+275377	4	0	Rainbow & White (6 Suits)	2020-08-20 — 00:09:21 UTC	avanderwalde, emilyzhao, squidgetx, swineherd	25	6	30
+275368	3	0	Rainbow & White (6 Suits)	2020-08-19 — 23:46:43 UTC	avanderwalde, emilyzhao, swineherd	48	6	30
 275026	4	0	Brown-Ones (4 Suits)	2020-08-19 — 11:29:36 UTC	Bonja97, Pablo-, sephiroth, swineherd	4	4	20
 274876	6	23	Dark Rainbow (5 Suits)	2020-08-19 — 03:34:51 UTC	melwen, pianoblook, piper, scharkbite, swineherd, timotree	4	5	25
 274708	3	25	Null (5 Suits)	2020-08-19 — 01:29:08 UTC	melwen, Nitrate2, swineherd	36	5	25
 274676	3	0	Null (5 Suits)	2020-08-19 — 00:58:50 UTC	melwen, Nitrate2, swineherd	40	5	25
-273537	4	24	Rainbow (5 Suits)	2020-08-17 — 18:37:06 UTC	Andrew_UK, MarkusKahlsen, swineherd, timotree	29	5	25
+273537	4	24	Rainbow (5 Suits)	2020-08-17 — 18:37:06 UTC	Andrew_UK, MarkusKahlsen, swineherd, timotree	30	5	25
 273514	4	25	Rainbow (5 Suits)	2020-08-17 — 18:05:23 UTC	Kyle, Pimak, swineherd, timotree	2	5	25
 272827	4	25	Gray Pink (5 Suits)	2020-08-16 — 22:33:54 UTC	derekcheah, melwen, scharkbite, swineherd	2	5	25
 272801	4	0	Gray Pink (5 Suits)	2020-08-16 — 22:09:16 UTC	derekcheah, melwen, scharkbite, swineherd	2	5	25
 272785	4	0	Gray Pink (5 Suits)	2020-08-16 — 21:53:43 UTC	derekcheah, melwen, scharkbite, swineherd	2	5	25
-272346	5	29	Dark Brown (6 Suits)	2020-08-16 — 05:31:30 UTC	derekcheah, joelwool, swineherd, TheDaniMan, will.i.am	8	6	30
+272346	5	29	Dark Brown (6 Suits)	2020-08-16 — 05:31:30 UTC	derekcheah, joelwool, swineherd, TheDaniMan, will.i.am	9	6	30
 272303	5	0	Dark Brown (6 Suits)	2020-08-16 — 04:54:04 UTC	derekcheah, joelwool, swineherd, TheDaniMan, will.i.am	8	6	30
-271950	4	29	Dark Rainbow (6 Suits)	2020-08-15 — 22:05:12 UTC	joelwool, plus, scharkbite, swineherd	17	6	30
-271917	4	0	Dark Rainbow (6 Suits)	2020-08-15 — 21:38:14 UTC	joelwool, plus, scharkbite, swineherd	41	6	30
+271950	4	29	Dark Rainbow (6 Suits)	2020-08-15 — 22:05:12 UTC	joelwool, plus, scharkbite, swineherd	18	6	30
+271917	4	0	Dark Rainbow (6 Suits)	2020-08-15 — 21:38:14 UTC	joelwool, plus, scharkbite, swineherd	42	6	30
 271900	5	0	Dark Rainbow (6 Suits)	2020-08-15 — 21:19:23 UTC	joelwool, plus, rs1, scharkbite, swineherd	8	6	30
-271762	4	28	Black (6 Suits)	2020-08-15 — 18:06:16 UTC	kevincaseytdk1, reuzed, swineherd, Wittvector	121	6	30
+271762	4	28	Black (6 Suits)	2020-08-15 — 18:06:16 UTC	kevincaseytdk1, reuzed, swineherd, Wittvector	123	6	30
 271182	4	25	Null (5 Suits)	2020-08-15 — 01:44:01 UTC	avanderwalde, Nitrate2, rkass, swineherd	20	5	25
-271152	4	0	Null (5 Suits)	2020-08-15 — 01:14:25 UTC	avanderwalde, Nitrate2, rkass, swineherd	26	5	25
+271152	4	0	Null (5 Suits)	2020-08-15 — 01:14:25 UTC	avanderwalde, Nitrate2, rkass, swineherd	27	5	25
 270724	6	25	Pink & Muddy Rainbow (5 Suits)	2020-08-14 — 13:46:37 UTC	Bonja97, MarkusKahlsen, melwen, Nitrate2, sjdrodge, swineherd	1	5	25
 270036	4	24	Muddy Rainbow (5 Suits)	2020-08-13 — 21:16:01 UTC	DMoney, rkass, swineherd, Wittvector	23	5	25
 269963	5	0	Muddy Rainbow (5 Suits)	2020-08-13 — 20:27:34 UTC	CastlesInTheAir, DMoney, robense, swineherd, Wittvector	7	5	25
-269830	4	0	Gray (5 Suits)	2020-08-13 — 17:44:56 UTC	MarkusKahlsen, pianoblook, swineherd, XMIL	14	5	25
+269830	4	0	Gray (5 Suits)	2020-08-13 — 17:44:56 UTC	MarkusKahlsen, pianoblook, swineherd, XMIL	15	5	25
 269329	4	30	Pink-Fives & White (6 Suits)	2020-08-13 — 00:28:45 UTC	impostor, melwen, scharkbite, swineherd	2	6	30
 269308	4	27	Pink-Fives & White (6 Suits)	2020-08-12 — 23:58:43 UTC	impostor, melwen, scharkbite, swineherd	4	6	30
 269282	4	25	White-Fives (5 Suits)	2020-08-12 — 23:22:55 UTC	impostor, joelwool, melwen, swineherd	2	5	25
@@ -999,13 +999,13 @@
 268398	5	0	Rainbow & Pink (5 Suits)	2020-08-11 — 22:29:17 UTC	joelwool, melwen, plus, scharkbite, swineherd	4	5	25
 268204	5	0	White & Light Pink (5 Suits)	2020-08-11 — 19:32:02 UTC	Floriman, IsabeltheCat, kimbifille, melwen, swineherd	1	5	25
 268185	4	0	White & Light Pink (5 Suits)	2020-08-11 — 19:09:56 UTC	IsabeltheCat, kimbifille, melwen, swineherd	1	5	25
-268155	4	25	No Variant	2020-08-11 — 18:30:56 UTC	frollo9386, MarekU, swineherd, timotree	233	5	25
-268134	5	24	No Variant	2020-08-11 — 17:49:02 UTC	frollo9386, MarekU, squidgetx, swineherd, XMIL	30	5	25
-268118	4	0	No Variant	2020-08-11 — 17:11:16 UTC	frollo9386, MarekU, squidgetx, swineherd	442	5	25
-268039	4	23	No Variant	2020-08-11 — 12:49:43 UTC	ayauhcoatl, MASEL, pianoblook, swineherd	31	5	25
+268155	4	25	No Variant	2020-08-11 — 18:30:56 UTC	frollo9386, MarekU, swineherd, timotree	236	5	25
+268134	5	24	No Variant	2020-08-11 — 17:49:02 UTC	frollo9386, MarekU, squidgetx, swineherd, XMIL	31	5	25
+268118	4	0	No Variant	2020-08-11 — 17:11:16 UTC	frollo9386, MarekU, squidgetx, swineherd	448	5	25
+268039	4	23	No Variant	2020-08-11 — 12:49:43 UTC	ayauhcoatl, MASEL, pianoblook, swineherd	32	5	25
 268026	4	30	Black (6 Suits)	2020-08-11 — 12:21:37 UTC	MarkusKahlsen, melwen, Nitrate2, swineherd	5	6	30
 268003	4	0	No Variant	2020-08-11 — 11:38:47 UTC	Animex52, ayauhcoatl, Nitrate2, swineherd	213	5	25
-267488	4	28	White (6 Suits)	2020-08-10 — 20:51:37 UTC	avanderwalde, MarkusKahlsen, swineherd, Zakisan	75	6	30
+267488	4	28	White (6 Suits)	2020-08-10 — 20:51:37 UTC	avanderwalde, MarkusKahlsen, swineherd, Zakisan	76	6	30
 267438	5	0	White-Fives & White (6 Suits)	2020-08-10 — 20:06:54 UTC	avanderwalde, DMoney, joelwool, MarkusKahlsen, swineherd	1	6	30
 267414	5	29	White-Fives & White (6 Suits)	2020-08-10 — 19:43:10 UTC	avanderwalde, DMoney, joelwool, MarkusKahlsen, swineherd	1	6	30
 267379	5	0	White-Fives & White (6 Suits)	2020-08-10 — 19:12:35 UTC	avanderwalde, DMoney, joelwool, MarkusKahlsen, swineherd	2	6	30
@@ -1015,52 +1015,52 @@
 266271	6	0	Up or Down (6 Suits)	2020-08-09 — 15:46:46 UTC	DMoney, MarkusKahlsen, sephiroth, swineherd, tyrcho, Wittvector	6	6	30
 266258	4	24	Up or Down (5 Suits)	2020-08-09 — 15:30:07 UTC	DMoney, Nitrate2, swineherd, tyrcho	16	5	25
 266246	4	0	Up or Down (5 Suits)	2020-08-09 — 15:08:52 UTC	DMoney, Nitrate2, swineherd, tyrcho	41	5	25
-266231	5	0	Up or Down (6 Suits)	2020-08-09 — 14:43:00 UTC	DMoney, Nitrate2, sephiroth, swineherd, tyrcho	1	6	30
+266231	5	0	Up or Down (6 Suits)	2020-08-09 — 14:43:00 UTC	DMoney, Nitrate2, sephiroth, swineherd, tyrcho	2	6	30
 266216	4	0	Up or Down (5 Suits)	2020-08-09 — 14:20:23 UTC	DMoney, Nitrate2, sephiroth, swineherd	25	5	25
 266165	4	0	Rainbow (5 Suits)	2020-08-09 — 11:12:33 UTC	MarkusKahlsen, Pablo-, reuzed, swineherd	54	5	25
 265495	4	28	Black (6 Suits)	2020-08-08 — 20:42:27 UTC	Andrew_UK, joelwool, MarkusKahlsen, swineherd	54	6	30
 265468	5	0	Black (6 Suits)	2020-08-08 — 20:12:15 UTC	Andrew_UK, JerryYang, joelwool, MarkusKahlsen, swineherd	23	6	30
 265454	5	0	Black (6 Suits)	2020-08-08 — 19:50:40 UTC	Andrew_UK, JerryYang, joelwool, MarkusKahlsen, swineherd	39	6	30
-265441	5	21	No Variant	2020-08-08 — 19:26:03 UTC	ayauhcoatl, JerryYang, joelwool, Nitrate2, swineherd	31	5	25
+265441	5	21	No Variant	2020-08-08 — 19:26:03 UTC	ayauhcoatl, JerryYang, joelwool, Nitrate2, swineherd	32	5	25
 265430	5	0	Rainbow (5 Suits)	2020-08-08 — 19:01:15 UTC	asaelr, JerryYang, Nitrate2, swineherd, XMIL	5	5	25
 265422	5	0	Rainbow (5 Suits)	2020-08-08 — 18:55:26 UTC	asaelr, JerryYang, Nitrate2, swineherd, XMIL	5	5	25
 265405	5	0	Rainbow (5 Suits)	2020-08-08 — 18:30:51 UTC	asaelr, JerryYang, Nitrate2, swineherd, XMIL	11	5	25
 265331	3	0	Rainbow (6 Suits)	2020-08-08 — 14:58:00 UTC	Andrew_UK, sjdrodge, swineherd	13	6	30
-265329	4	0	Rainbow (6 Suits)	2020-08-08 — 14:45:53 UTC	Andrew_UK, sephiroth, sjdrodge, swineherd	70	6	30
+265329	4	0	Rainbow (6 Suits)	2020-08-08 — 14:45:53 UTC	Andrew_UK, sephiroth, sjdrodge, swineherd	72	6	30
 265327	4	0	Black & Rainbow (5 Suits)	2020-08-08 — 14:38:17 UTC	Andrew_UK, sephiroth, sjdrodge, swineherd	7	5	25
 265326	4	0	Black & Rainbow (5 Suits)	2020-08-08 — 14:32:51 UTC	Andrew_UK, sephiroth, sjdrodge, swineherd	16	5	25
-264509	4	25	No Variant	2020-08-07 — 22:32:20 UTC	Clarendon, Pimak, swineherd, Wittvector	162	5	25
-264482	4	23	No Variant	2020-08-07 — 21:58:57 UTC	Clarendon, Pimak, swineherd, Wittvector	278	5	25
-264442	5	29	Ambiguous (6 Suits)	2020-08-07 — 20:57:39 UTC	Ahming, DMoney, Floriman, Kyle, swineherd	8	6	30
+264509	4	25	No Variant	2020-08-07 — 22:32:20 UTC	Clarendon, Pimak, swineherd, Wittvector	166	5	25
+264482	4	23	No Variant	2020-08-07 — 21:58:57 UTC	Clarendon, Pimak, swineherd, Wittvector	280	5	25
+264442	5	29	Ambiguous (6 Suits)	2020-08-07 — 20:57:39 UTC	Ahming, DMoney, Floriman, Kyle, swineherd	9	6	30
 264410	5	0	Ambiguous (6 Suits)	2020-08-07 — 20:22:26 UTC	Ahming, DMoney, Floriman, Kyle, swineherd	9	6	30
 264388	5	0	Ambiguous (6 Suits)	2020-08-07 — 19:58:34 UTC	Ahming, DMoney, Floriman, Kyle, swineherd	19	6	30
 264339	4	0	Special Mix (5 Suits)	2020-08-07 — 18:43:59 UTC	Pablo-, swineherd, Wittvector, XMIL	16	5	25
 264331	4	0	Special Mix (5 Suits)	2020-08-07 — 18:21:36 UTC	Pablo-, swineherd, Wittvector, XMIL	16	5	25
 264321	3	0	Rainbow & Brown (5 Suits)	2020-08-07 — 18:02:46 UTC	Pablo-, swineherd, Wittvector	25	5	25
-264154	4	24	No Variant	2020-08-07 — 10:18:45 UTC	Fey, methmatics, ramya09, swineherd	97	5	25
+264154	4	24	No Variant	2020-08-07 — 10:18:45 UTC	Fey, methmatics, ramya09, swineherd	98	5	25
 263495	4	0	Black & Muddy Rainbow (5 Suits)	2020-08-06 — 16:56:32 UTC	DMoney, scharkbite, sephiroth, swineherd	4	5	25
 263419	4	0	Up or Down (5 Suits)	2020-08-06 — 12:09:53 UTC	MarkusKahlsen, sephiroth, swineherd, Wittvector	7	5	25
 263413	4	0	Up or Down (5 Suits)	2020-08-06 — 11:42:38 UTC	MarkusKahlsen, sephiroth, swineherd, Wittvector	8	5	25
-260575	4	0	Dark Rainbow (5 Suits)	2020-08-03 — 18:06:55 UTC	DMoney, pianoblook, plus, swineherd	14	5	25
-258934	4	29	Dark Rainbow (6 Suits)	2020-08-02 — 09:49:05 UTC	Animex52, joelwool, MarkusKahlsen, swineherd	53	6	30
+260575	4	0	Dark Rainbow (5 Suits)	2020-08-03 — 18:06:55 UTC	DMoney, pianoblook, plus, swineherd	15	5	25
+258934	4	29	Dark Rainbow (6 Suits)	2020-08-02 — 09:49:05 UTC	Animex52, joelwool, MarkusKahlsen, swineherd	54	6	30
 258927	4	27	Black (6 Suits)	2020-08-02 — 08:56:54 UTC	Animex52, joelwool, robense, swineherd	62	6	30
 256241	5	23	Black (5 Suits)	2020-07-30 — 14:47:09 UTC	Floriman, MarkusKahlsen, melwen, pianoblook, swineherd	9	5	25
-256237	3	23	Black (5 Suits)	2020-07-30 — 14:15:21 UTC	Floriman, melwen, swineherd	74	5	25
+256237	3	23	Black (5 Suits)	2020-07-30 — 14:15:21 UTC	Floriman, melwen, swineherd	76	5	25
 256209	5	28	Black (6 Suits)	2020-07-30 — 10:07:00 UTC	Bonja97, MarkusKahlsen, sephiroth, swineherd, theandrewni	23	6	30
-256195	5	28	Black (6 Suits)	2020-07-30 — 09:29:16 UTC	Bonja97, MarkusKahlsen, sephiroth, swineherd, theandrewni	21	6	30
+256195	5	28	Black (6 Suits)	2020-07-30 — 09:29:16 UTC	Bonja97, MarkusKahlsen, sephiroth, swineherd, theandrewni	22	6	30
 256182	5	22	Black (5 Suits)	2020-07-30 — 08:50:03 UTC	Bonja97, MarkusKahlsen, sephiroth, swineherd, theandrewni	18	5	25
 256168	5	0	Black (5 Suits)	2020-07-30 — 08:25:40 UTC	Bonja97, Fey, sephiroth, swineherd, theandrewni	27	5	25
 254237	4	0	Light Pink (5 Suits)	2020-07-28 — 10:24:42 UTC	asaelr, joelwool, sephiroth, swineherd	10	5	25
 254226	5	0	Light Pink (5 Suits)	2020-07-28 — 10:13:56 UTC	asaelr, joelwool, sephiroth, swineherd, theandrewni	5	5	25
 254210	5	0	Light Pink (5 Suits)	2020-07-28 — 09:56:28 UTC	asaelr, joelwool, sephiroth, swineherd, theandrewni	6	5	25
 254209	5	0	Light Pink (5 Suits)	2020-07-28 — 09:46:34 UTC	asaelr, joelwool, sephiroth, swineherd, theandrewni	7	5	25
-252280	4	30	Rainbow (6 Suits)	2020-07-26 — 22:27:02 UTC	Aluap, antitelharsic, frollo9386, swineherd	156	6	30
+252280	4	30	Rainbow (6 Suits)	2020-07-26 — 22:27:02 UTC	Aluap, antitelharsic, frollo9386, swineherd	157	6	30
 250474	4	0	Gray Pink (5 Suits)	2020-07-25 — 04:34:18 UTC	derekcheah, piper, scharkbite, swineherd	3	5	25
 250443	4	0	Gray Pink (5 Suits)	2020-07-25 — 04:14:49 UTC	derekcheah, piper, scharkbite, swineherd	3	5	25
 250082	4	22	Special Mix (5 Suits)	2020-07-24 — 22:21:56 UTC	MarkusKahlsen, melwen, sephiroth, swineherd	4	5	25
 250035	3	0	Special Mix (5 Suits)	2020-07-24 — 21:38:23 UTC	melwen, sephiroth, swineherd	8	5	25
-248119	4	25	No Variant	2020-07-22 — 23:03:24 UTC	DMoney, pianoblook, reuzed, swineherd	34	5	25
-248096	5	0	No Variant	2020-07-22 — 22:36:12 UTC	DMoney, pianoblook, plus, reuzed, swineherd	28	5	25
+248119	4	25	No Variant	2020-07-22 — 23:03:24 UTC	DMoney, pianoblook, reuzed, swineherd	35	5	25
+248096	5	0	No Variant	2020-07-22 — 22:36:12 UTC	DMoney, pianoblook, plus, reuzed, swineherd	30	5	25
 247932	3	25	Black (5 Suits)	2020-07-22 — 19:35:43 UTC	MarkusKahlsen, plus, swineherd	119	5	25
 246325	4	24	Gray Reversed (5 Suits)	2020-07-21 — 01:37:30 UTC	melwen, plus, swineherd, will.i.am	3	5	25
 246294	4	24	Gray Reversed (5 Suits)	2020-07-21 — 01:04:24 UTC	melwen, plus, swineherd, will.i.am	4	5	25
@@ -1071,7 +1071,7 @@
 246044	4	0	Brown-Fives & Pink (5 Suits)	2020-07-20 — 18:39:51 UTC	DMoney, Dr_Kakashi, swineherd, will.i.am	1	5	25
 245573	6	0	Black (5 Suits)	2020-07-20 — 02:40:39 UTC	Kyle, micerang, pianoblook, scharkbite, swineherd, will.i.am	5	5	25
 245562	6	0	Black (5 Suits)	2020-07-20 — 02:27:26 UTC	Kyle, micerang, pianoblook, scharkbite, swineherd, will.i.am	5	5	25
-245555	4	19	Gray (5 Suits)	2020-07-20 — 02:14:05 UTC	Kyle, pianoblook, scharkbite, swineherd	14	5	25
+245555	4	19	Gray (5 Suits)	2020-07-20 — 02:14:05 UTC	Kyle, pianoblook, scharkbite, swineherd	16	5	25
 245444	4	20	Omni-Fives (4 Suits)	2020-07-19 — 23:54:46 UTC	DMoney, melwen, padi, swineherd	2	4	20
 245423	4	0	Omni-Fives (4 Suits)	2020-07-19 — 23:36:07 UTC	DMoney, melwen, padi, swineherd	2	4	20
 245405	4	17	Omni-Fives (4 Suits)	2020-07-19 — 23:19:11 UTC	DMoney, melwen, padi, swineherd	2	4	20
@@ -1096,15 +1096,15 @@
 244989	6	0	No Variant	2020-07-19 — 16:09:14 UTC	lotem, MarkusKahlsen, Puzzle, rotem, swineherd, Tiramisu1th	60	5	25
 244949	5	0	Dark Rainbow (6 Suits)	2020-07-19 — 14:19:36 UTC	MarkusKahlsen, padi, piper, sephiroth, swineherd	33	6	30
 244228	4	25	Brown (5 Suits)	2020-07-18 — 22:30:09 UTC	derekcheah, MarkusKahlsen, Puzzle, swineherd	17	5	25
-244200	4	0	Brown (5 Suits)	2020-07-18 — 22:05:15 UTC	Bonja97, derekcheah, MarkusKahlsen, swineherd	19	5	25
+244200	4	0	Brown (5 Suits)	2020-07-18 — 22:05:15 UTC	Bonja97, derekcheah, MarkusKahlsen, swineherd	20	5	25
 244162	4	0	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-18 — 21:31:32 UTC	Bonja97, derekcheah, swineherd, will.i.am	1	5	25
-244094	5	30	Brown-Ones (6 Suits)	2020-07-18 — 20:12:23 UTC	joelwool, Pablo-, scharkbite, swineherd, will.i.am	3	6	30
+244094	5	30	Brown-Ones (6 Suits)	2020-07-18 — 20:12:23 UTC	joelwool, Pablo-, scharkbite, swineherd, will.i.am	4	6	30
 244065	4	0	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-18 — 19:47:43 UTC	Pablo-, scharkbite, swineherd, will.i.am	1	5	25
-244020	5	0	No Variant	2020-07-18 — 18:51:43 UTC	lotem, MarkusKahlsen, Pablo-, rotem, swineherd	28	5	25
-243996	5	0	No Variant	2020-07-18 — 18:14:55 UTC	lotem, MarkusKahlsen, Pablo-, rotem, swineherd	29	5	25
-243975	4	22	Black (5 Suits)	2020-07-18 — 17:38:52 UTC	DMoney, Smandon, swineherd, Tiramisu1th	36	5	25
-243945	4	0	Black (6 Suits)	2020-07-18 — 16:58:12 UTC	Bonja97, Pablo-, swineherd, Tiramisu1th	128	6	30
-243904	4	30	Dark Pink (6 Suits)	2020-07-18 — 14:20:49 UTC	eljobe, Pablo-, swineherd, Tiramisu1th	14	6	30
+244020	5	0	No Variant	2020-07-18 — 18:51:43 UTC	lotem, MarkusKahlsen, Pablo-, rotem, swineherd	29	5	25
+243996	5	0	No Variant	2020-07-18 — 18:14:55 UTC	lotem, MarkusKahlsen, Pablo-, rotem, swineherd	30	5	25
+243975	4	22	Black (5 Suits)	2020-07-18 — 17:38:52 UTC	DMoney, Smandon, swineherd, Tiramisu1th	37	5	25
+243945	4	0	Black (6 Suits)	2020-07-18 — 16:58:12 UTC	Bonja97, Pablo-, swineherd, Tiramisu1th	129	6	30
+243904	4	30	Dark Pink (6 Suits)	2020-07-18 — 14:20:49 UTC	eljobe, Pablo-, swineherd, Tiramisu1th	15	6	30
 243073	5	0	Black (6 Suits)	2020-07-17 — 23:39:42 UTC	DMoney, guava, robense, swineherd, TheDaniMan	21	6	30
 243030	4	30	Reversed (6 Suits)	2020-07-17 — 23:21:31 UTC	DMoney, robense, swineherd, TheDaniMan	12	6	30
 242909	4	24	Special Mix (5 Suits)	2020-07-17 — 22:05:27 UTC	plus, scharkbite, swineherd, will.i.am	4	5	25
@@ -1122,12 +1122,12 @@
 242673	4	0	Up or Down (5 Suits)	2020-07-17 — 14:36:50 UTC	MarkusKahlsen, sephiroth, swineherd, will.i.am	20	5	25
 241790	5	24	No Variant	2020-07-16 — 19:33:47 UTC	blueberry, DMoney, micerang, swineherd, Wittvector	22	5	25
 241758	5	22	No Variant	2020-07-16 — 18:58:17 UTC	blueberry, DMoney, micerang, swineherd, Wittvector	21	5	25
-241747	4	0	No Variant	2020-07-16 — 18:37:53 UTC	blueberry, DMoney, swineherd, Wittvector	287	5	25
+241747	4	0	No Variant	2020-07-16 — 18:37:53 UTC	blueberry, DMoney, swineherd, Wittvector	293	5	25
 239107	4	0	Pink-Ones & Black (5 Suits)	2020-07-14 — 13:55:47 UTC	melwen, Nitrate2, padi, swineherd	1	5	25
 239101	4	22	Pink-Ones & Black (5 Suits)	2020-07-14 — 13:33:01 UTC	melwen, Nitrate2, swineherd, TheDaniMan	2	5	25
 239093	6	0	6 Suits	2020-07-14 — 12:53:00 UTC	joelwool, melwen, metta, sjdrodge, swineherd, TheDaniMan	1	6	30
-238304	4	25	No Variant	2020-07-13 — 16:52:11 UTC	frollo9386, joelwool, NoMercy, swineherd	308	5	25
-238296	4	23	No Variant	2020-07-13 — 16:19:23 UTC	Bonja97, egerdm, joelwool, swineherd	541	5	25
+238304	4	25	No Variant	2020-07-13 — 16:52:11 UTC	frollo9386, joelwool, NoMercy, swineherd	311	5	25
+238296	4	23	No Variant	2020-07-13 — 16:19:23 UTC	Bonja97, egerdm, joelwool, swineherd	548	5	25
 237789	4	0	Brown-Fives & White (6 Suits)	2020-07-13 — 00:21:52 UTC	melwen, Pablo-, sephiroth, swineherd	1	6	30
 237759	4	0	Brown-Fives & White (6 Suits)	2020-07-12 — 23:52:44 UTC	melwen, Pablo-, sephiroth, swineherd	1	6	30
 237748	4	0	Brown-Fives & White (6 Suits)	2020-07-12 — 23:24:44 UTC	Kyle, melwen, Pablo-, swineherd	1	6	30
@@ -1136,7 +1136,7 @@
 237508	5	26	Dark Brown (6 Suits)	2020-07-12 — 17:39:56 UTC	asaelr, plus, robense, swineherd, Zakisan	10	6	30
 237494	5	0	Dark Brown (6 Suits)	2020-07-12 — 17:11:44 UTC	asaelr, plus, robense, swineherd, Zakisan	10	6	30
 237483	5	25	Rainbow & Brown (5 Suits)	2020-07-12 — 16:46:30 UTC	asaelr, MarkusKahlsen, robense, swineherd, Zakisan	6	5	25
-236351	4	22	No Variant	2020-07-11 — 16:30:31 UTC	Bonja97, joelwool, MarekU, swineherd	717	5	25
+236351	4	22	No Variant	2020-07-11 — 16:30:31 UTC	Bonja97, joelwool, MarekU, swineherd	724	5	25
 236265	4	24	Gray Pink (5 Suits)	2020-07-11 — 11:42:42 UTC	MarkusKahlsen, sephiroth, swineherd, TheDaniMan	14	5	25
 236255	4	0	Special Mix (5 Suits)	2020-07-11 — 10:24:28 UTC	MarkusKahlsen, sephiroth, swineherd, TheDaniMan	5	5	25
 236253	4	0	Special Mix (5 Suits)	2020-07-11 — 10:18:36 UTC	MarkusKahlsen, sephiroth, swineherd, TheDaniMan	5	5	25
@@ -1145,37 +1145,37 @@
 235171	4	0	Special Mix (5 Suits)	2020-07-10 — 15:29:59 UTC	melwen, piper, sephiroth, swineherd	9	5	25
 235168	4	0	Special Mix (5 Suits)	2020-07-10 — 15:24:01 UTC	melwen, piper, sephiroth, swineherd	9	5	25
 235164	4	0	Special Mix (5 Suits)	2020-07-10 — 15:10:52 UTC	melwen, piper, sephiroth, swineherd	10	5	25
-235160	4	24	No Variant	2020-07-10 — 14:55:40 UTC	melwen, Puzzle, sephiroth, swineherd	20	5	25
+235160	4	24	No Variant	2020-07-10 — 14:55:40 UTC	melwen, Puzzle, sephiroth, swineherd	21	5	25
 235153	4	0	No Variant	2020-07-10 — 14:30:18 UTC	melwen, Puzzle, sephiroth, swineherd	21	5	25
 233090	4	25	Up or Down (5 Suits)	2020-07-08 — 09:00:41 UTC	derekcheah, sephiroth, swineherd, TheDaniMan	10	5	25
 233088	4	0	Up or Down (5 Suits)	2020-07-08 — 08:37:30 UTC	derekcheah, sephiroth, swineherd, TheDaniMan	13	5	25
 233087	4	0	Up or Down (5 Suits)	2020-07-08 — 08:24:50 UTC	derekcheah, sephiroth, swineherd, TheDaniMan	15	5	25
-232290	4	24	No Variant	2020-07-07 — 17:05:00 UTC	Bonja97, melwen, Puzzle, swineherd	21	5	25
-232279	4	24	No Variant	2020-07-07 — 16:33:23 UTC	Bonja97, melwen, Puzzle, swineherd	19	5	25
+232290	4	24	No Variant	2020-07-07 — 17:05:00 UTC	Bonja97, melwen, Puzzle, swineherd	22	5	25
+232279	4	24	No Variant	2020-07-07 — 16:33:23 UTC	Bonja97, melwen, Puzzle, swineherd	21	5	25
 232253	6	25	No Variant	2020-07-07 — 15:45:19 UTC	asaelr, Floriman, MarkusKahlsen, plus, swineherd, Wittvector	10	5	25
-232239	4	23	No Variant	2020-07-07 — 14:57:34 UTC	Bonja97, metta, sjdrodge, swineherd	16	5	25
-232233	4	0	No Variant	2020-07-07 — 14:24:06 UTC	Bonja97, metta, sjdrodge, swineherd	16	5	25
+232239	4	23	No Variant	2020-07-07 — 14:57:34 UTC	Bonja97, metta, sjdrodge, swineherd	17	5	25
+232233	4	0	No Variant	2020-07-07 — 14:24:06 UTC	Bonja97, metta, sjdrodge, swineherd	17	5	25
 232227	5	0	Rainbow (5 Suits)	2020-07-07 — 13:52:56 UTC	blueberry, metta, Pablo-, sjdrodge, swineherd	12	5	25
 232208	6	23	No Variant	2020-07-07 — 12:08:56 UTC	Bonja97, MarkusKahlsen, metta, sjdrodge, swineherd, Zakisan	10	5	25
-232204	4	25	No Variant	2020-07-07 — 11:33:53 UTC	metta, sjdrodge, swineherd, Zakisan	167	5	25
-230462	4	0	Brown (5 Suits)	2020-07-05 — 22:19:03 UTC	Kingstom, OnceUponAQuine, sheamol, swineherd	27	5	25
-230422	4	0	Brown (5 Suits)	2020-07-05 — 21:45:58 UTC	Kingstom, OnceUponAQuine, sheamol, swineherd	36	5	25
+232204	4	25	No Variant	2020-07-07 — 11:33:53 UTC	metta, sjdrodge, swineherd, Zakisan	169	5	25
+230462	4	0	Brown (5 Suits)	2020-07-05 — 22:19:03 UTC	Kingstom, OnceUponAQuine, sheamol, swineherd	28	5	25
+230422	4	0	Brown (5 Suits)	2020-07-05 — 21:45:58 UTC	Kingstom, OnceUponAQuine, sheamol, swineherd	37	5	25
 230174	5	0	Black (6 Suits)	2020-07-05 — 14:50:29 UTC	blueberry, letical, MarkusKahlsen, swineherd, Tiramisu1th	36	6	30
-230004	4	27	White (6 Suits)	2020-07-05 — 06:41:24 UTC	pianoblook, piper, swineherd, Tiramisu1th	60	6	30
-229962	3	20	Rainbow (4 Suits)	2020-07-05 — 06:02:37 UTC	pianoblook, piper, swineherd	28	4	20
-229925	3	0	Rainbow (4 Suits)	2020-07-05 — 05:38:49 UTC	pianoblook, piper, swineherd	43	4	20
+230004	4	27	White (6 Suits)	2020-07-05 — 06:41:24 UTC	pianoblook, piper, swineherd, Tiramisu1th	62	6	30
+229962	3	20	Rainbow (4 Suits)	2020-07-05 — 06:02:37 UTC	pianoblook, piper, swineherd	29	4	20
+229925	3	0	Rainbow (4 Suits)	2020-07-05 — 05:38:49 UTC	pianoblook, piper, swineherd	45	4	20
 229869	4	24	Rainbow & Brown (5 Suits)	2020-07-05 — 05:00:21 UTC	ADrone, pianoblook, piper, swineherd	2	5	25
 229826	4	20	Pink (4 Suits)	2020-07-05 — 04:21:29 UTC	ADrone, pianoblook, piper, swineherd	13	4	20
 229809	4	0	Pink (4 Suits)	2020-07-05 — 04:05:24 UTC	ADrone, pianoblook, piper, swineherd	19	4	20
-229796	4	18	Pink (4 Suits)	2020-07-05 — 03:58:03 UTC	ADrone, pianoblook, piper, swineherd	22	4	20
+229796	4	18	Pink (4 Suits)	2020-07-05 — 03:58:03 UTC	ADrone, pianoblook, piper, swineherd	23	4	20
 229733	6	0	Rainbow & Brown (5 Suits)	2020-07-05 — 02:57:29 UTC	melwen, Nitrate2, pianoblook, scharkbite, sephiroth, swineherd	1	5	25
 229114	4	23	Up or Down (5 Suits)	2020-07-04 — 13:02:47 UTC	letical, MarkusKahlsen, sephiroth, swineherd	27	5	25
 229105	4	25	Up or Down (5 Suits)	2020-07-04 — 12:06:06 UTC	MarkusKahlsen, sephiroth, swineherd, Zakisan	16	5	25
 229092	5	0	Up or Down (6 Suits)	2020-07-04 — 11:00:10 UTC	derekcheah, Div, MarkusKahlsen, swineherd, Zakisan	7	6	30
 229079	5	0	Up or Down (6 Suits)	2020-07-04 — 10:36:22 UTC	derekcheah, Div, MarkusKahlsen, swineherd, Zakisan	9	6	30
-229059	4	0	Rainbow (6 Suits)	2020-07-04 — 08:45:25 UTC	eljobe, rs1, swineherd, Zakisan	275	6	30
-229044	4	25	No Variant	2020-07-04 — 08:05:44 UTC	eljobe, rs1, swineherd, Zakisan	180	5	25
-229033	3	0	No Variant	2020-07-04 — 07:47:24 UTC	eljobe, swineherd, Zakisan	2606	5	25
+229059	4	0	Rainbow (6 Suits)	2020-07-04 — 08:45:25 UTC	eljobe, rs1, swineherd, Zakisan	280	6	30
+229044	4	25	No Variant	2020-07-04 — 08:05:44 UTC	eljobe, rs1, swineherd, Zakisan	182	5	25
+229033	3	0	No Variant	2020-07-04 — 07:47:24 UTC	eljobe, swineherd, Zakisan	2627	5	25
 228806	4	0	Special Mix (5 Suits)	2020-07-04 — 04:13:40 UTC	DMoney, melwen, scharkbite, swineherd	17	5	25
 228621	6	23	Special Mix (5 Suits)	2020-07-04 — 02:20:50 UTC	DMoney, Kyle, melwen, qbphoenix, swineherd, will.i.am	2	5	25
 228548	6	0	Special Mix (5 Suits)	2020-07-04 — 01:41:52 UTC	derekcheah, DMoney, melwen, qbphoenix, swineherd, will.i.am	3	5	25
@@ -1185,14 +1185,14 @@
 227752	4	0	Reversed (5 Suits)	2020-07-03 — 06:59:10 UTC	asaelr, Fey, swineherd, TheDaniMan	10	5	25
 227740	4	24	Up or Down (5 Suits)	2020-07-03 — 06:43:13 UTC	Fey, swineherd, TheDaniMan, Zakisan	31	5	25
 227693	4	25	White (5 Suits)	2020-07-03 — 05:11:28 UTC	antitelharsic, derekcheah, Smandon, swineherd	60	5	25
-227671	4	0	White (5 Suits)	2020-07-03 — 04:48:17 UTC	antitelharsic, derekcheah, Smandon, swineherd	79	5	25
+227671	4	0	White (5 Suits)	2020-07-03 — 04:48:17 UTC	antitelharsic, derekcheah, Smandon, swineherd	80	5	25
 227647	5	0	White (5 Suits)	2020-07-03 — 04:27:30 UTC	antitelharsic, derekcheah, pianoblook, Smandon, swineherd	26	5	25
 227611	4	0	Pink-Ones & White (5 Suits)	2020-07-03 — 04:02:21 UTC	pianoblook, plus, swineherd, will.i.am	2	5	25
 227589	4	23	Pink-Ones & White (5 Suits)	2020-07-03 — 03:44:54 UTC	pianoblook, plus, swineherd, will.i.am	4	5	25
 227466	5	20	Special Mix (5 Suits)	2020-07-03 — 02:10:29 UTC	Cory, melwen, Nitrate2, swineherd, TheDaniMan	6	5	25
 227424	4	0	Special Mix (5 Suits)	2020-07-03 — 01:46:12 UTC	melwen, Nitrate2, swineherd, TheDaniMan	21	5	25
 227401	4	0	Special Mix (5 Suits)	2020-07-03 — 01:32:42 UTC	melwen, Nitrate2, swineherd, TheDaniMan	20	5	25
-227343	3	0	Up or Down & White (5 Suits)	2020-07-03 — 00:57:15 UTC	melwen, swineherd, TheDaniMan	12	5	25
+227343	3	0	Up or Down & White (5 Suits)	2020-07-03 — 00:57:15 UTC	melwen, swineherd, TheDaniMan	13	5	25
 226625	6	20	Special Mix (5 Suits)	2020-07-02 — 07:14:02 UTC	antitelharsic, asaelr, derekcheah, melwen, plus, swineherd	3	5	25
 226607	6	0	Special Mix (5 Suits)	2020-07-02 — 06:46:16 UTC	antitelharsic, asaelr, derekcheah, melwen, plus, swineherd	4	5	25
 226594	4	20	Brown (5 Suits)	2020-07-02 — 06:28:50 UTC	antitelharsic, melwen, plus, swineherd	14	5	25
@@ -1200,20 +1200,20 @@
 226510	4	0	Black & Pink (5 Suits)	2020-07-02 — 05:02:52 UTC	derekcheah, Nitrate2, swineherd, TheDaniMan	5	5	25
 226486	4	23	Black & Pink (5 Suits)	2020-07-02 — 04:42:11 UTC	derekcheah, Nitrate2, swineherd, TheDaniMan	6	5	25
 226460	4	0	Black & Pink (5 Suits)	2020-07-02 — 04:22:58 UTC	derekcheah, Nitrate2, swineherd, TheDaniMan	9	5	25
-226445	4	0	Black & Pink (5 Suits)	2020-07-02 — 04:08:51 UTC	derekcheah, Nitrate2, swineherd, TheDaniMan	8	5	25
+226445	4	0	Black & Pink (5 Suits)	2020-07-02 — 04:08:51 UTC	derekcheah, Nitrate2, swineherd, TheDaniMan	9	5	25
 226363	4	0	Black & Brown (5 Suits)	2020-07-02 — 03:14:14 UTC	derekcheah, drew.levitt, swineherd, will.i.am	11	5	25
 226338	4	0	Black & Brown (5 Suits)	2020-07-02 — 02:55:32 UTC	derekcheah, drew.levitt, swineherd, will.i.am	8	5	25
-226214	4	24	No Variant	2020-07-02 — 01:37:33 UTC	melwen, qbphoenix, swineherd, will.i.am	24	5	25
-226162	4	0	No Variant	2020-07-02 — 01:16:55 UTC	melwen, qbphoenix, swineherd, will.i.am	25	5	25
+226214	4	24	No Variant	2020-07-02 — 01:37:33 UTC	melwen, qbphoenix, swineherd, will.i.am	25	5	25
+226162	4	0	No Variant	2020-07-02 — 01:16:55 UTC	melwen, qbphoenix, swineherd, will.i.am	27	5	25
 226086	4	0	Rainbow & Brown (5 Suits)	2020-07-02 — 00:28:00 UTC	derekcheah, pianoblook, qbphoenix, swineherd	4	5	25
 226075	4	0	Rainbow & Brown (5 Suits)	2020-07-02 — 00:17:52 UTC	derekcheah, pianoblook, qbphoenix, swineherd	6	5	25
 226068	4	0	Rainbow & Brown (5 Suits)	2020-07-02 — 00:08:37 UTC	derekcheah, pianoblook, qbphoenix, swineherd	9	5	25
 226040	3	0	Rainbow & Brown (5 Suits)	2020-07-01 — 23:59:45 UTC	derekcheah, pianoblook, swineherd	6	5	25
-225958	4	0	Black (5 Suits)	2020-07-01 — 23:32:50 UTC	Fireheart, honzas, Kyle, swineherd	63	5	25
+225958	4	0	Black (5 Suits)	2020-07-01 — 23:32:50 UTC	Fireheart, honzas, Kyle, swineherd	64	5	25
 225891	4	0	Rainbow & Brown (6 Suits)	2020-07-01 — 22:31:33 UTC	DMoney, Pablo-, swineherd, tyrcho	6	6	30
 225880	4	0	Rainbow & Brown (6 Suits)	2020-07-01 — 22:11:45 UTC	DMoney, Pablo-, swineherd, tyrcho	7	6	30
 225476	4	23	Special Mix (5 Suits)	2020-07-01 — 10:39:13 UTC	MarkusKahlsen, sephiroth, swineherd, Zakisan	39	5	25
-225473	5	0	Rainbow (6 Suits)	2020-07-01 — 10:05:59 UTC	eljobe, MarkusKahlsen, sephiroth, swineherd, Zakisan	133	6	30
+225473	5	0	Rainbow (6 Suits)	2020-07-01 — 10:05:59 UTC	eljobe, MarkusKahlsen, sephiroth, swineherd, Zakisan	134	6	30
 225448	4	23	Black & Pink (5 Suits)	2020-07-01 — 07:07:24 UTC	derekcheah, plus, swineherd, Zakisan	13	5	25
 225429	4	23	Black & Pink (5 Suits)	2020-07-01 — 06:41:29 UTC	derekcheah, plus, swineherd, Zakisan	16	5	25
 225404	5	0	Special Mix (5 Suits)	2020-07-01 — 06:14:08 UTC	derekcheah, piper, plus, swineherd, Zakisan	9	5	25
@@ -1224,51 +1224,51 @@
 225033	4	0	Special Mix (5 Suits)	2020-07-01 — 01:51:30 UTC	kooolant, melwen, swineherd, will.i.am	4	5	25
 225000	4	0	Special Mix (5 Suits)	2020-07-01 — 01:18:10 UTC	kooolant, melwen, swineherd, will.i.am	4	5	25
 224820	5	25	Ambiguous & White (5 Suits)	2020-06-30 — 23:59:47 UTC	DMoney, Kyle, melwen, swineherd, will.i.am	2	5	25
-224748	3	16	Rainbow (4 Suits)	2020-06-30 — 22:41:02 UTC	sheamol, swineherd, tyrcho	84	4	20
+224748	3	16	Rainbow (4 Suits)	2020-06-30 — 22:41:02 UTC	sheamol, swineherd, tyrcho	85	4	20
 224268	5	21	Dark Omni (5 Suits)	2020-06-30 — 06:17:57 UTC	MasN, pianoblook, piper, plus, swineherd	3	5	25
 224245	5	0	Dark Omni (5 Suits)	2020-06-30 — 05:52:30 UTC	MasN, pianoblook, piper, plus, swineherd	6	5	25
-224103	3	19	No Variant	2020-06-30 — 04:06:04 UTC	swineherd, Takumi, will.i.am	154	5	25
+224103	3	19	No Variant	2020-06-30 — 04:06:04 UTC	swineherd, Takumi, will.i.am	157	5	25
 223367	5	0	White & Null (5 Suits)	2020-06-29 — 20:28:45 UTC	DMoney, pianoblook, swineherd, will.i.am, Zakisan	2	5	25
 223336	5	0	White & Null (5 Suits)	2020-06-29 — 19:59:42 UTC	DMoney, pianoblook, swineherd, will.i.am, Zakisan	2	5	25
-223287	5	30	6 Suits	2020-06-29 — 18:41:39 UTC	Floriman, MarkusKahlsen, Pablo-, swineherd, Zakisan	31	6	30
+223287	5	30	6 Suits	2020-06-29 — 18:41:39 UTC	Floriman, MarkusKahlsen, Pablo-, swineherd, Zakisan	32	6	30
 222637	4	0	Dark Brown (6 Suits)	2020-06-29 — 00:45:19 UTC	derekcheah, melwen, pianoblook, swineherd	14	6	30
 222590	4	0	Pink (6 Suits)	2020-06-29 — 00:05:38 UTC	derekcheah, melwen, reeleis, swineherd	30	6	30
 222560	4	0	Pink (6 Suits)	2020-06-28 — 23:27:26 UTC	derekcheah, melwen, reeleis, swineherd	35	6	30
 222519	5	21	No Variant	2020-06-28 — 22:57:13 UTC	derekcheah, melwen, reeleis, swineherd, will.i.am	39	5	25
 221749	5	0	Dark Pink (6 Suits)	2020-06-28 — 05:58:03 UTC	derekcheah, Smandon, swineherd, TheDaniMan, Tiramisu1th	10	6	30
-221730	5	0	Dark Pink (6 Suits)	2020-06-28 — 05:39:43 UTC	derekcheah, Smandon, swineherd, TheDaniMan, Tiramisu1th	11	6	30
-221703	4	0	Rainbow (6 Suits)	2020-06-28 — 05:18:49 UTC	metta, newduke, Smandon, swineherd	344	6	30
+221730	5	0	Dark Pink (6 Suits)	2020-06-28 — 05:39:43 UTC	derekcheah, Smandon, swineherd, TheDaniMan, Tiramisu1th	12	6	30
+221703	4	0	Rainbow (6 Suits)	2020-06-28 — 05:18:49 UTC	metta, newduke, Smandon, swineherd	349	6	30
 221657	5	23	No Variant	2020-06-28 — 04:37:00 UTC	metta, newduke, Smandon, swineherd, Zamiel	2	5	25
 221596	4	0	No Variant	2020-06-28 — 03:59:21 UTC	newduke, Smandon, swineherd, Zamiel	2	5	25
 221569	3	0	No Variant	2020-06-28 — 03:33:50 UTC	newduke, swineherd, Zamiel	6	5	25
 221554	4	15	3 Suits	2020-06-28 — 03:19:48 UTC	newduke, padi, swineherd, Zamiel	49	3	15
 221512	6	25	White (5 Suits)	2020-06-28 — 02:51:29 UTC	derekcheah, joaep2, Nitrate2, swineherd, TimeHoodie, will.i.am	8	5	25
-221414	4	0	No Variant	2020-06-28 — 02:04:29 UTC	joaep2, pianoblook, qbphoenix, swineherd	40	5	25
-221368	4	0	No Variant	2020-06-28 — 01:40:18 UTC	joaep2, pianoblook, qbphoenix, swineherd	39	5	25
-221187	5	24	No Variant	2020-06-27 — 23:58:27 UTC	blueberry, derekcheah, sheamol, swineherd, TheDaniMan	31	5	25
-221148	5	24	No Variant	2020-06-27 — 23:19:00 UTC	blueberry, derekcheah, sheamol, swineherd, TheDaniMan	35	5	25
-221117	5	0	No Variant	2020-06-27 — 22:42:37 UTC	blueberry, derekcheah, sheamol, swineherd, TheDaniMan	35	5	25
+221414	4	0	No Variant	2020-06-28 — 02:04:29 UTC	joaep2, pianoblook, qbphoenix, swineherd	41	5	25
+221368	4	0	No Variant	2020-06-28 — 01:40:18 UTC	joaep2, pianoblook, qbphoenix, swineherd	40	5	25
+221187	5	24	No Variant	2020-06-27 — 23:58:27 UTC	blueberry, derekcheah, sheamol, swineherd, TheDaniMan	32	5	25
+221148	5	24	No Variant	2020-06-27 — 23:19:00 UTC	blueberry, derekcheah, sheamol, swineherd, TheDaniMan	36	5	25
+221117	5	0	No Variant	2020-06-27 — 22:42:37 UTC	blueberry, derekcheah, sheamol, swineherd, TheDaniMan	36	5	25
 220737	5	0	Brown (5 Suits)	2020-06-27 — 17:14:45 UTC	MarkusKahlsen, pianoblook, piper, sephiroth, swineherd	10	5	25
-220716	5	24	Brown (5 Suits)	2020-06-27 — 16:41:26 UTC	MarkusKahlsen, pianoblook, piper, sephiroth, swineherd	17	5	25
-220690	4	24	Brown (5 Suits)	2020-06-27 — 16:13:42 UTC	pianoblook, piper, sephiroth, swineherd	46	5	25
-219943	3	14	Pink (3 Suits)	2020-06-27 — 00:11:41 UTC	DMoney, swineherd, tyrcho	23	3	15
-219899	5	24	No Variant	2020-06-26 — 23:30:37 UTC	blueberry, DMoney, sheamol, swineherd, tyrcho	41	5	25
-219865	5	0	No Variant	2020-06-26 — 23:00:01 UTC	blueberry, DMoney, sheamol, swineherd, tyrcho	41	5	25
-219843	5	0	No Variant	2020-06-26 — 22:40:19 UTC	blueberry, DMoney, sheamol, swineherd, tyrcho	143	5	25
+220716	5	24	Brown (5 Suits)	2020-06-27 — 16:41:26 UTC	MarkusKahlsen, pianoblook, piper, sephiroth, swineherd	18	5	25
+220690	4	24	Brown (5 Suits)	2020-06-27 — 16:13:42 UTC	pianoblook, piper, sephiroth, swineherd	47	5	25
+219943	3	14	Pink (3 Suits)	2020-06-27 — 00:11:41 UTC	DMoney, swineherd, tyrcho	25	3	15
+219899	5	24	No Variant	2020-06-26 — 23:30:37 UTC	blueberry, DMoney, sheamol, swineherd, tyrcho	42	5	25
+219865	5	0	No Variant	2020-06-26 — 23:00:01 UTC	blueberry, DMoney, sheamol, swineherd, tyrcho	42	5	25
+219843	5	0	No Variant	2020-06-26 — 22:40:19 UTC	blueberry, DMoney, sheamol, swineherd, tyrcho	145	5	25
 219063	5	23	No Variant	2020-06-26 — 03:27:43 UTC	DMoney, kiwi628, QuantaMech, swineherd, will.i.am	45	5	25
 218943	4	25	Null (5 Suits)	2020-06-26 — 02:44:09 UTC	antitelharsic, DMoney, swineherd, will.i.am	4	5	25
 218741	5	25	White & Light Pink (5 Suits)	2020-06-26 — 01:07:41 UTC	DMoney, melwen, Nitrate2, pianoblook, swineherd	3	5	25
 218612	5	18	White & Light Pink (4 Suits)	2020-06-25 — 23:25:05 UTC	ch4daemon, g07h4xf00, melwen, pianoblook, swineherd	2	4	20
-218576	5	25	No Variant	2020-06-25 — 22:52:57 UTC	ch4daemon, g07h4xf00, melwen, sephiroth, swineherd	51	5	25
+218576	5	25	No Variant	2020-06-25 — 22:52:57 UTC	ch4daemon, g07h4xf00, melwen, sephiroth, swineherd	52	5	25
 218233	3	0	Pink & Brown (5 Suits)	2020-06-25 — 16:55:46 UTC	DMoney, pianoblook, swineherd	1	5	25
 218219	3	0	Pink & Brown (5 Suits)	2020-06-25 — 16:30:19 UTC	DMoney, pianoblook, swineherd	3	5	25
 218209	3	0	Pink & Brown (5 Suits)	2020-06-25 — 16:17:16 UTC	DMoney, pianoblook, swineherd	3	5	25
 218204	3	0	Pink & Brown (5 Suits)	2020-06-25 — 16:08:32 UTC	DMoney, pianoblook, swineherd	3	5	25
 218174	5	25	Dark Pink (6 Suits)	2020-06-25 — 15:13:56 UTC	MarkusKahlsen, padi, swineherd, TimeHoodie, Tiramisu1th	13	6	30
-217934	4	22	No Variant	2020-06-25 — 04:47:38 UTC	DMoney, metta, swineherd, Tiramisu1th	601	5	25
-217841	5	23	No Variant	2020-06-25 — 03:31:07 UTC	DMoney, metta, Smandon, swineherd, Tiramisu1th	1510	5	25
-217779	4	25	No Variant	2020-06-25 — 02:46:34 UTC	metta, Nitrate2, Smandon, swineherd	793	5	25
-217722	3	25	No Variant	2020-06-25 — 02:09:04 UTC	metta, Nitrate2, swineherd	551	5	25
+217934	4	22	No Variant	2020-06-25 — 04:47:38 UTC	DMoney, metta, swineherd, Tiramisu1th	606	5	25
+217841	5	23	No Variant	2020-06-25 — 03:31:07 UTC	DMoney, metta, Smandon, swineherd, Tiramisu1th	1518	5	25
+217779	4	25	No Variant	2020-06-25 — 02:46:34 UTC	metta, Nitrate2, Smandon, swineherd	800	5	25
+217722	3	25	No Variant	2020-06-25 — 02:09:04 UTC	metta, Nitrate2, swineherd	558	5	25
 217661	4	0	Special Mix (5 Suits)	2020-06-25 — 01:33:58 UTC	melwen, Nitrate2, swineherd, will.i.am	4	5	25
 217623	4	0	Special Mix (5 Suits)	2020-06-25 — 01:10:45 UTC	melwen, Nitrate2, swineherd, will.i.am	4	5	25
 217505	4	0	Special Mix (5 Suits)	2020-06-24 — 23:57:13 UTC	melwen, Nitrate2, swineherd, will.i.am	5	5	25
@@ -1296,15 +1296,15 @@
 215499	4	24	Dual-Color (5 Suits)	2020-06-23 — 00:01:04 UTC	derekcheah, Kyle, melwen, swineherd	13	5	25
 215487	4	0	Dual-Color (5 Suits)	2020-06-22 — 23:28:37 UTC	derekcheah, melwen, padi, swineherd	31	5	25
 215474	4	23	Dual-Color (5 Suits)	2020-06-22 — 23:05:21 UTC	derekcheah, padi, sephiroth, swineherd	37	5	25
-215444	4	25	No Variant	2020-06-22 — 22:20:07 UTC	MarekU, Nitrate2, sheamol, swineherd	985	5	25
-215425	5	0	No Variant	2020-06-22 — 21:57:50 UTC	MarekU, Nitrate2, robense, sheamol, swineherd	1995	5	25
-215400	6	0	No Variant	2020-06-22 — 21:27:20 UTC	MarekU, MarkusKahlsen, newduke, sephiroth, sheamol, swineherd	478	5	25
-215374	4	10	3 Suits	2020-06-22 — 20:58:48 UTC	MarekU, newduke, sephiroth, swineherd	73	3	15
-214355	5	0	No Variant	2020-06-21 — 20:08:52 UTC	McPhisto2051, mike5599, Smandon, swineherd, will.i.am	80	5	25
-214331	3	20	4 Suits	2020-06-21 — 19:42:10 UTC	Livia, Smandon, swineherd	118	4	20
+215444	4	25	No Variant	2020-06-22 — 22:20:07 UTC	MarekU, Nitrate2, sheamol, swineherd	994	5	25
+215425	5	0	No Variant	2020-06-22 — 21:57:50 UTC	MarekU, Nitrate2, robense, sheamol, swineherd	2011	5	25
+215400	6	0	No Variant	2020-06-22 — 21:27:20 UTC	MarekU, MarkusKahlsen, newduke, sephiroth, sheamol, swineherd	483	5	25
+215374	4	10	3 Suits	2020-06-22 — 20:58:48 UTC	MarekU, newduke, sephiroth, swineherd	74	3	15
+214355	5	0	No Variant	2020-06-21 — 20:08:52 UTC	McPhisto2051, mike5599, Smandon, swineherd, will.i.am	81	5	25
+214331	3	20	4 Suits	2020-06-21 — 19:42:10 UTC	Livia, Smandon, swineherd	120	4	20
 213963	4	25	Special Mix (5 Suits)	2020-06-21 — 06:43:42 UTC	derekcheah, Nitrate2, swineherd, Zakisan	29	5	25
 213735	5	24	Rainbow (5 Suits)	2020-06-21 — 03:32:06 UTC	metta, Pablo-, Smandon, swineherd, TheDaniMan	23	5	25
-213661	4	0	No Variant	2020-06-21 — 02:37:15 UTC	metta, Pablo-, swineherd, TheDaniMan	41	5	25
+213661	4	0	No Variant	2020-06-21 — 02:37:15 UTC	metta, Pablo-, swineherd, TheDaniMan	42	5	25
 213513	4	23	Omni-Ones & Pink (5 Suits)	2020-06-21 — 00:40:26 UTC	scharkbite, sephiroth, swineherd, TheDaniMan	1	5	25
 213481	4	0	Omni-Ones & Pink (5 Suits)	2020-06-21 — 00:14:13 UTC	scharkbite, sephiroth, swineherd, TheDaniMan	1	5	25
 213436	4	0	Special Mix (5 Suits)	2020-06-20 — 23:31:45 UTC	derekcheah, swineherd, TheDaniMan, will.i.am	6	5	25
@@ -1312,21 +1312,21 @@
 213407	4	0	Special Mix (5 Suits)	2020-06-20 — 23:07:16 UTC	derekcheah, swineherd, TheDaniMan, will.i.am	9	5	25
 213396	4	0	Special Mix (5 Suits)	2020-06-20 — 22:55:56 UTC	derekcheah, swineherd, TheDaniMan, will.i.am	18	5	25
 213371	4	22	No Variant	2020-06-20 — 22:40:30 UTC	newduke, Pablo-, swineherd, will.i.am	129	5	25
-213259	4	0	No Variant	2020-06-20 — 21:24:49 UTC	Aluap, antitelharsic, Smandon, swineherd	473	5	25
+213259	4	0	No Variant	2020-06-20 — 21:24:49 UTC	Aluap, antitelharsic, Smandon, swineherd	480	5	25
 213235	3	0	Rainbow (6 Suits)	2020-06-20 — 21:02:52 UTC	Aluap, antitelharsic, swineherd	52	6	30
-213204	3	0	Rainbow (6 Suits)	2020-06-20 — 20:35:51 UTC	Aluap, antitelharsic, swineherd	54	6	30
+213204	3	0	Rainbow (6 Suits)	2020-06-20 — 20:35:51 UTC	Aluap, antitelharsic, swineherd	55	6	30
 213175	5	25	No Variant	2020-06-20 — 20:05:04 UTC	antitelharsic, MarkusKahlsen, swineherd, Tobythedog, Zakisan	49	5	25
-213114	5	0	Rainbow (6 Suits)	2020-06-20 — 19:14:42 UTC	Aluap, antitelharsic, MarkusKahlsen, swineherd, Tobythedog	67	6	30
-213087	4	25	Rainbow (6 Suits)	2020-06-20 — 18:24:41 UTC	eljobe, swineherd, Tobythedog, Zakisan	73	6	30
-213064	4	0	Rainbow (6 Suits)	2020-06-20 — 17:55:23 UTC	eljobe, swineherd, Tobythedog, Zakisan	76	6	30
-213030	5	25	No Variant	2020-06-20 — 17:12:24 UTC	kiwi628, MarekU, MarkusKahlsen, swineherd, TimeHoodie	38	5	25
+213114	5	0	Rainbow (6 Suits)	2020-06-20 — 19:14:42 UTC	Aluap, antitelharsic, MarkusKahlsen, swineherd, Tobythedog	68	6	30
+213087	4	25	Rainbow (6 Suits)	2020-06-20 — 18:24:41 UTC	eljobe, swineherd, Tobythedog, Zakisan	74	6	30
+213064	4	0	Rainbow (6 Suits)	2020-06-20 — 17:55:23 UTC	eljobe, swineherd, Tobythedog, Zakisan	77	6	30
+213030	5	25	No Variant	2020-06-20 — 17:12:24 UTC	kiwi628, MarekU, MarkusKahlsen, swineherd, TimeHoodie	40	5	25
 213014	5	25	No Variant	2020-06-20 — 16:45:37 UTC	kiwi628, MarekU, MarkusKahlsen, swineherd, TimeHoodie	44	5	25
-212992	4	0	No Variant	2020-06-20 — 16:11:46 UTC	kiwi628, MarekU, MarkusKahlsen, swineherd	336	5	25
+212992	4	0	No Variant	2020-06-20 — 16:11:46 UTC	kiwi628, MarekU, MarkusKahlsen, swineherd	340	5	25
 212976	4	25	Null-Ones & Rainbow (5 Suits)	2020-06-20 — 15:44:01 UTC	Floriman, melwen, sephiroth, swineherd	1	5	25
 212969	4	0	Null-Ones & Rainbow (5 Suits)	2020-06-20 — 15:18:34 UTC	Floriman, melwen, sephiroth, swineherd	1	5	25
 212954	5	24	No Variant	2020-06-20 — 14:22:09 UTC	MarekU, metta, sephiroth, Sucubis, swineherd	60	5	25
-212323	4	22	No Variant	2020-06-20 — 02:22:05 UTC	kiwi628, melwen, swineherd, TimeHoodie	28	5	25
-212262	3	22	No Variant	2020-06-20 — 01:47:01 UTC	melwen, swineherd, TimeHoodie	71	5	25
+212323	4	22	No Variant	2020-06-20 — 02:22:05 UTC	kiwi628, melwen, swineherd, TimeHoodie	29	5	25
+212262	3	22	No Variant	2020-06-20 — 01:47:01 UTC	melwen, swineherd, TimeHoodie	73	5	25
 212192	5	30	Omni-Ones & Rainbow (6 Suits)	2020-06-20 — 00:54:29 UTC	melwen, Nitrate2, swineherd, TimeHoodie, will.i.am	1	6	30
 212106	5	24	Omni-Ones & Rainbow (5 Suits)	2020-06-19 — 23:50:38 UTC	melwen, Nitrate2, swineherd, TheDaniMan, TimeHoodie	1	5	25
 212061	5	0	Omni-Ones & Rainbow (5 Suits)	2020-06-19 — 23:09:24 UTC	melwen, Nitrate2, swineherd, TheDaniMan, TimeHoodie	1	5	25
@@ -1343,20 +1343,20 @@
 211641	6	29	Null-Ones & Rainbow (6 Suits)	2020-06-19 — 15:17:55 UTC	Kyle, LaFayetteX, MarkusKahlsen, melwen, sephiroth, swineherd	1	6	30
 211631	6	0	Null-Ones & Rainbow (6 Suits)	2020-06-19 — 14:51:50 UTC	Kyle, LaFayetteX, MarkusKahlsen, melwen, sephiroth, swineherd	1	6	30
 211626	4	0	Null-Ones & Rainbow (6 Suits)	2020-06-19 — 14:33:55 UTC	melwen, sephiroth, swineherd, Zakisan	1	6	30
-211620	4	30	Pink (6 Suits)	2020-06-19 — 13:59:09 UTC	Libster, melwen, pianoblook, swineherd	54	6	30
-211604	3	0	Pink (6 Suits)	2020-06-19 — 12:38:41 UTC	pianoblook, swineherd, Zakisan	92	6	30
-210349	4	25	Pink (5 Suits)	2020-06-18 — 04:36:42 UTC	Lilliana, Nitrate2, swineherd, TheDaniMan	34	5	25
+211620	4	30	Pink (6 Suits)	2020-06-19 — 13:59:09 UTC	Libster, melwen, pianoblook, swineherd	55	6	30
+211604	3	0	Pink (6 Suits)	2020-06-19 — 12:38:41 UTC	pianoblook, swineherd, Zakisan	94	6	30
+210349	4	25	Pink (5 Suits)	2020-06-18 — 04:36:42 UTC	Lilliana, Nitrate2, swineherd, TheDaniMan	35	5	25
 210195	4	21	Black Reversed (5 Suits)	2020-06-18 — 03:13:54 UTC	Lilliana, melwen, Nitrate2, swineherd	3	5	25
 210149	4	22	Black Reversed (5 Suits)	2020-06-18 — 02:33:25 UTC	Lilliana, melwen, Nitrate2, swineherd	4	5	25
 210091	4	0	Black Reversed (5 Suits)	2020-06-18 — 01:57:26 UTC	Lilliana, melwen, Nitrate2, swineherd	4	5	25
-209986	3	21	No Variant	2020-06-18 — 00:58:01 UTC	kevincaseytdk1, Pablo-, swineherd	3260	5	25
+209986	3	21	No Variant	2020-06-18 — 00:58:01 UTC	kevincaseytdk1, Pablo-, swineherd	3290	5	25
 209863	4	0	Rainbow-Fives & Dark Brown (5 Suits)	2020-06-17 — 22:33:36 UTC	Pablo-, sephiroth, swineherd, TheDaniMan	1	5	25
 209853	4	0	Rainbow-Fives & Dark Brown (5 Suits)	2020-06-17 — 22:20:07 UTC	Pablo-, sephiroth, swineherd, TheDaniMan	1	5	25
 209845	4	0	Rainbow-Fives & Dark Brown (5 Suits)	2020-06-17 — 22:12:40 UTC	Pablo-, sephiroth, swineherd, TheDaniMan	1	5	25
 209835	3	0	Rainbow (6 Suits)	2020-06-17 — 21:58:10 UTC	robense, swineherd, tyrtel	43	6	30
-209815	5	0	No Variant	2020-06-17 — 21:40:04 UTC	Lilliana, sephiroth, swineherd, will.i.am, Wittvector	67	5	25
-209799	5	0	No Variant	2020-06-17 — 21:23:04 UTC	Lilliana, sephiroth, swineherd, will.i.am, Wittvector	77	5	25
-209789	5	0	No Variant	2020-06-17 — 21:09:41 UTC	Lilliana, sephiroth, swineherd, will.i.am, Wittvector	100	5	25
+209815	5	0	No Variant	2020-06-17 — 21:40:04 UTC	Lilliana, sephiroth, swineherd, will.i.am, Wittvector	68	5	25
+209799	5	0	No Variant	2020-06-17 — 21:23:04 UTC	Lilliana, sephiroth, swineherd, will.i.am, Wittvector	78	5	25
+209789	5	0	No Variant	2020-06-17 — 21:09:41 UTC	Lilliana, sephiroth, swineherd, will.i.am, Wittvector	102	5	25
 209745	4	0	Light-Pink-Ones & White (5 Suits)	2020-06-17 — 20:18:39 UTC	Lilliana, swineherd, TheDaniMan, TimeHoodie	2	5	25
 209721	3	25	Brown-Ones & White (5 Suits)	2020-06-17 — 19:53:31 UTC	Lilliana, swineherd, TheDaniMan	1	5	25
 209635	4	20	Brown-Ones & White (4 Suits)	2020-06-17 — 17:32:01 UTC	Lilliana, scharkbite, sephiroth, swineherd	2	4	20
@@ -1364,23 +1364,23 @@
 209624	5	0	Brown-Ones & White (4 Suits)	2020-06-17 — 17:11:08 UTC	Kyle, Lilliana, scharkbite, sephiroth, swineherd	1	4	20
 209621	5	0	Brown-Ones & White (4 Suits)	2020-06-17 — 17:07:41 UTC	Kyle, Lilliana, scharkbite, sephiroth, swineherd	1	4	20
 208872	4	30	6 Suits	2020-06-16 — 21:03:11 UTC	Dr_Kakashi, kimbifille, kooolant, swineherd	6	6	30
-208855	3	25	White (5 Suits)	2020-06-16 — 20:42:38 UTC	Dr_Kakashi, kimbifille, swineherd	9	5	25
+208855	3	25	White (5 Suits)	2020-06-16 — 20:42:38 UTC	Dr_Kakashi, kimbifille, swineherd	10	5	25
 208830	5	26	Gray Pink (6 Suits)	2020-06-16 — 20:22:20 UTC	scharkbite, sephiroth, swineherd, TheDaniMan, will.i.am	3	6	30
-208799	4	29	Gray Pink (6 Suits)	2020-06-16 — 19:55:16 UTC	sephiroth, swineherd, TheDaniMan, will.i.am	7	6	30
-208780	4	0	Gray Pink (6 Suits)	2020-06-16 — 19:20:58 UTC	sephiroth, swineherd, TheDaniMan, will.i.am	7	6	30
-208768	4	0	Gray Pink (6 Suits)	2020-06-16 — 19:01:15 UTC	sephiroth, swineherd, TheDaniMan, will.i.am	12	6	30
+208799	4	29	Gray Pink (6 Suits)	2020-06-16 — 19:55:16 UTC	sephiroth, swineherd, TheDaniMan, will.i.am	8	6	30
+208780	4	0	Gray Pink (6 Suits)	2020-06-16 — 19:20:58 UTC	sephiroth, swineherd, TheDaniMan, will.i.am	8	6	30
+208768	4	0	Gray Pink (6 Suits)	2020-06-16 — 19:01:15 UTC	sephiroth, swineherd, TheDaniMan, will.i.am	14	6	30
 208751	4	24	Dark Pink (5 Suits)	2020-06-16 — 18:39:36 UTC	MarkusKahlsen, sephiroth, swineherd, TheDaniMan	11	5	25
 208742	4	0	Dark Pink (5 Suits)	2020-06-16 — 18:20:59 UTC	MarkusKahlsen, sephiroth, swineherd, TheDaniMan	13	5	25
-208739	4	24	Dark Pink (5 Suits)	2020-06-16 — 18:11:27 UTC	MarkusKahlsen, sephiroth, swineherd, TheDaniMan	15	5	25
-208731	4	0	Dark Pink (5 Suits)	2020-06-16 — 17:46:29 UTC	MarkusKahlsen, sephiroth, swineherd, TheDaniMan	20	5	25
+208739	4	24	Dark Pink (5 Suits)	2020-06-16 — 18:11:27 UTC	MarkusKahlsen, sephiroth, swineherd, TheDaniMan	16	5	25
+208731	4	0	Dark Pink (5 Suits)	2020-06-16 — 17:46:29 UTC	MarkusKahlsen, sephiroth, swineherd, TheDaniMan	21	5	25
 208648	4	0	Black (6 Suits)	2020-06-16 — 14:38:03 UTC	Kyle, piper, swineherd, Zakisan	42	6	30
-208639	3	0	No Variant	2020-06-16 — 14:10:43 UTC	Kyle, swineherd, Zakisan	69	5	25
-208629	6	0	No Variant	2020-06-16 — 13:51:50 UTC	MarkusKahlsen, metta, Pablo-, sephiroth, swineherd, Zakisan	282	5	25
+208639	3	0	No Variant	2020-06-16 — 14:10:43 UTC	Kyle, swineherd, Zakisan	73	5	25
+208629	6	0	No Variant	2020-06-16 — 13:51:50 UTC	MarkusKahlsen, metta, Pablo-, sephiroth, swineherd, Zakisan	284	5	25
 208593	6	22	No Variant	2020-06-16 — 13:10:06 UTC	metta, Pablo-, sephiroth, sin_faith, swineherd, TimeHoodie	52	5	25
-208567	3	0	No Variant	2020-06-16 — 09:45:01 UTC	metta, sin_faith, swineherd	77	5	25
-208563	4	0	No Variant	2020-06-16 — 09:15:33 UTC	metta, pianoblook, robense, swineherd	48	5	25
+208567	3	0	No Variant	2020-06-16 — 09:45:01 UTC	metta, sin_faith, swineherd	78	5	25
+208563	4	0	No Variant	2020-06-16 — 09:15:33 UTC	metta, pianoblook, robense, swineherd	49	5	25
 208560	3	0	Pink (6 Suits)	2020-06-16 — 08:56:32 UTC	pianoblook, robense, swineherd	47	6	30
-208553	5	0	No Variant	2020-06-16 — 08:17:24 UTC	alv1nn, LaFayetteX, metta, pianoblook, swineherd	81	5	25
+208553	5	0	No Variant	2020-06-16 — 08:17:24 UTC	alv1nn, LaFayetteX, metta, pianoblook, swineherd	82	5	25
 207624	5	25	Clue Starved (5 Suits)	2020-06-15 — 16:32:55 UTC	melwen, padi, sephiroth, swineherd, will.i.am	7	5	25
 207560	4	22	Clue Starved (5 Suits)	2020-06-15 — 13:05:08 UTC	MarkusKahlsen, pianoblook, swineherd, TimeHoodie	11	5	25
 206510	4	0	Black (6 Suits)	2020-06-14 — 19:34:28 UTC	asaelr, Smandon, swineherd, TheDaniMan	26	6	30
@@ -1388,29 +1388,29 @@
 206392	6	0	Rainbow (5 Suits)	2020-06-14 — 17:21:06 UTC	asaelr, Kyle, LaFayetteX, plus, sephiroth, swineherd	7	5	25
 206377	6	0	Rainbow (5 Suits)	2020-06-14 — 17:03:48 UTC	asaelr, Kyle, LaFayetteX, plus, sephiroth, swineherd	8	5	25
 206373	6	0	Rainbow (5 Suits)	2020-06-14 — 16:56:16 UTC	asaelr, Kyle, LaFayetteX, plus, sephiroth, swineherd	14	5	25
-206365	3	0	Rainbow (5 Suits)	2020-06-14 — 16:47:14 UTC	asaelr, sephiroth, swineherd	12	5	25
+206365	3	0	Rainbow (5 Suits)	2020-06-14 — 16:47:14 UTC	asaelr, sephiroth, swineherd	13	5	25
 206348	4	25	No Variant	2020-06-14 — 16:22:41 UTC	melwen, sephiroth, swineherd, tyrtel	32	5	25
 205780	5	27	Dark Omni (6 Suits)	2020-06-14 — 01:53:55 UTC	Dr_Kakashi, scharkbite, sephiroth, swineherd, Zamiel	3	6	30
 205750	5	0	Dark Omni (6 Suits)	2020-06-14 — 01:36:19 UTC	Dr_Kakashi, scharkbite, sephiroth, swineherd, Zamiel	7	6	30
-205051	4	25	No Variant	2020-06-13 — 10:25:58 UTC	butterywombat, Cynas, NoMercy, swineherd	373	5	25
+205051	4	25	No Variant	2020-06-13 — 10:25:58 UTC	butterywombat, Cynas, NoMercy, swineherd	376	5	25
 205037	5	25	No Variant	2020-06-13 — 09:40:35 UTC	butterywombat, Cynas, NoMercy, sin_faith, swineherd	21	5	25
-205018	3	25	No Variant	2020-06-13 — 08:51:56 UTC	butterywombat, sin_faith, swineherd	79	5	25
+205018	3	25	No Variant	2020-06-13 — 08:51:56 UTC	butterywombat, sin_faith, swineherd	82	5	25
 203947	4	0	Rainbow-Fives & Rainbow (5 Suits)	2020-06-12 — 20:18:21 UTC	scharkbite, sephiroth, swineherd, will.i.am	1	5	25
 203886	4	23	Omni-Fives & White (5 Suits)	2020-06-12 — 19:42:13 UTC	scharkbite, sephiroth, sin_faith, swineherd	1	5	25
 203711	4	25	Black & Muddy Rainbow (5 Suits)	2020-06-12 — 15:14:27 UTC	MarkusKahlsen, melwen, sephiroth, swineherd	6	5	25
 203698	4	0	Black & Muddy Rainbow (5 Suits)	2020-06-12 — 14:47:29 UTC	MarkusKahlsen, melwen, sephiroth, swineherd	6	5	25
-203668	3	0	No Variant	2020-06-12 — 13:33:51 UTC	Fey, sin_faith, swineherd	97	5	25
-202502	4	25	No Variant	2020-06-11 — 10:37:29 UTC	MarkusKahlsen, sephiroth, swineherd, tyrtel	1092	5	25
+203668	3	0	No Variant	2020-06-12 — 13:33:51 UTC	Fey, sin_faith, swineherd	99	5	25
+202502	4	25	No Variant	2020-06-11 — 10:37:29 UTC	MarkusKahlsen, sephiroth, swineherd, tyrtel	1103	5	25
 201402	4	0	Muddy-Rainbow-Fives & Rainbow (4 Suits)	2020-06-10 — 13:57:16 UTC	Kyle, padi, sephiroth, swineherd	2	4	20
 201393	3	0	Rainbow-Fives & Rainbow (3 Suits)	2020-06-10 — 13:37:12 UTC	MarkusKahlsen, sephiroth, swineherd	1	3	15
 201381	4	14	Rainbow-Fives & Rainbow (3 Suits)	2020-06-10 — 13:09:47 UTC	MarkusKahlsen, melwen, sephiroth, swineherd	1	3	15
 201368	5	26	Dark Rainbow (6 Suits)	2020-06-10 — 12:38:43 UTC	asaelr, MarkusKahlsen, melwen, sephiroth, swineherd	13	6	30
-201348	4	0	Rainbow & Pink (5 Suits)	2020-06-10 — 12:02:50 UTC	asaelr, melwen, pianoblook, swineherd	14	5	25
-201345	4	25	No Variant	2020-06-10 — 11:43:50 UTC	Nitrate2, pianoblook, sephiroth, swineherd	55	5	25
-201209	3	28	Brown (6 Suits)	2020-06-10 — 05:41:16 UTC	derekcheah, swineherd, XMIL	31	6	30
+201348	4	0	Rainbow & Pink (5 Suits)	2020-06-10 — 12:02:50 UTC	asaelr, melwen, pianoblook, swineherd	15	5	25
+201345	4	25	No Variant	2020-06-10 — 11:43:50 UTC	Nitrate2, pianoblook, sephiroth, swineherd	56	5	25
+201209	3	28	Brown (6 Suits)	2020-06-10 — 05:41:16 UTC	derekcheah, swineherd, XMIL	33	6	30
 200619	5	29	Brown (6 Suits)	2020-06-09 — 20:56:55 UTC	asaelr, swineherd, TheDaniMan, will.i.am, XMIL	8	6	30
-200567	4	25	No Variant	2020-06-09 — 20:18:04 UTC	asaelr, MarkusKahlsen, swineherd, XMIL	19	5	25
-200502	3	0	Brown (5 Suits)	2020-06-09 — 19:37:55 UTC	sephiroth, swineherd, TheDaniMan	79	5	25
+200567	4	25	No Variant	2020-06-09 — 20:18:04 UTC	asaelr, MarkusKahlsen, swineherd, XMIL	20	5	25
+200502	3	0	Brown (5 Suits)	2020-06-09 — 19:37:55 UTC	sephiroth, swineherd, TheDaniMan	82	5	25
 200462	5	28	Black Reversed (6 Suits)	2020-06-09 — 19:10:03 UTC	MarkusKahlsen, Pablo-, qbphoenix, swineherd, TheDaniMan	4	6	30
 200425	5	0	Black Reversed (6 Suits)	2020-06-09 — 18:29:04 UTC	MarkusKahlsen, Pablo-, qbphoenix, swineherd, TheDaniMan	5	6	30
 200409	5	0	Black Reversed (6 Suits)	2020-06-09 — 18:11:18 UTC	MarkusKahlsen, Pablo-, qbphoenix, swineherd, TheDaniMan	6	6	30
@@ -1419,17 +1419,17 @@
 200294	5	0	No Variant	2020-06-09 — 15:00:27 UTC	MarkusKahlsen, schildknaapje, swineherd, TheDaniMan, TimeHoodie	65	5	25
 200287	4	0	No Variant	2020-06-09 — 14:47:08 UTC	schildknaapje, swineherd, TimeHoodie, will.i.am	130	5	25
 200266	5	30	Light Pink (6 Suits)	2020-06-09 — 13:45:05 UTC	MarkusKahlsen, Nitrate2, padi, swineherd, Zakisan	11	6	30
-200251	4	30	Pink (6 Suits)	2020-06-09 — 13:12:36 UTC	MarkusKahlsen, Nitrate2, swineherd, Zakisan	70	6	30
+200251	4	30	Pink (6 Suits)	2020-06-09 — 13:12:36 UTC	MarkusKahlsen, Nitrate2, swineherd, Zakisan	71	6	30
 200239	3	0	Pink (6 Suits)	2020-06-09 — 12:47:51 UTC	Nitrate2, swineherd, Zakisan	70	6	30
-198955	4	25	No Variant	2020-06-08 — 12:04:32 UTC	Dr_Kakashi, Floriman, sephiroth, swineherd	9	5	25
+198955	4	25	No Variant	2020-06-08 — 12:04:32 UTC	Dr_Kakashi, Floriman, sephiroth, swineherd	10	5	25
 198949	5	24	No Variant	2020-06-08 — 11:33:37 UTC	asaelr, Dr_Kakashi, swineherd, sylvia, Zakisan	11	5	25
 198941	3	29	Rainbow & Brown (6 Suits)	2020-06-08 — 10:23:08 UTC	melwen, swineherd, Zakisan	23	6	30
-198938	3	25	No Variant	2020-06-08 — 09:48:13 UTC	melwen, swineherd, Zakisan	78	5	25
+198938	3	25	No Variant	2020-06-08 — 09:48:13 UTC	melwen, swineherd, Zakisan	79	5	25
 198932	4	23	Special Mix (5 Suits)	2020-06-08 — 09:09:53 UTC	alv1nn, asaelr, melwen, swineherd	15	5	25
 198930	4	20	No Variant	2020-06-08 — 08:14:49 UTC	Animex52, melwen, swineherd, sylvia	33	5	25
-198914	3	0	No Variant	2020-06-08 — 07:28:26 UTC	rs1, swineherd, sylvia	1465	5	25
-198902	3	0	No Variant	2020-06-08 — 07:08:20 UTC	rs1, swineherd, sylvia	1636	5	25
-198892	3	0	No Variant	2020-06-08 — 06:54:53 UTC	rs1, swineherd, sylvia	2163	5	25
+198914	3	0	No Variant	2020-06-08 — 07:28:26 UTC	rs1, swineherd, sylvia	1474	5	25
+198902	3	0	No Variant	2020-06-08 — 07:08:20 UTC	rs1, swineherd, sylvia	1651	5	25
+198892	3	0	No Variant	2020-06-08 — 06:54:53 UTC	rs1, swineherd, sylvia	2179	5	25
 198003	5	12	3 Suits	2020-06-07 — 17:22:35 UTC	Dr_Kakashi, kimbifille, Livia, sin_faith, swineherd	4	3	15
 197993	5	0	3 Suits	2020-06-07 — 17:12:28 UTC	Dr_Kakashi, kimbifille, Livia, sin_faith, swineherd	5	3	15
 197986	5	12	3 Suits	2020-06-07 — 17:05:12 UTC	Dr_Kakashi, kimbifille, Livia, sin_faith, swineherd	5	3	15
@@ -1447,23 +1447,23 @@
 194788	5	24	Null (5 Suits)	2020-06-05 — 06:13:57 UTC	derekcheah, pianoblook, rs1, swineherd, TheDaniMan	6	5	25
 194753	5	0	Null (5 Suits)	2020-06-05 — 05:44:08 UTC	derekcheah, Lilliana, pianoblook, swineherd, TheDaniMan	9	5	25
 194697	5	0	Null (5 Suits)	2020-06-05 — 05:06:57 UTC	derekcheah, Lilliana, pianoblook, swineherd, TheDaniMan	11	5	25
-193550	4	0	Rainbow (5 Suits)	2020-06-04 — 06:50:51 UTC	derekcheah, duckmammal, Lilliana, swineherd	23	5	25
+193550	4	0	Rainbow (5 Suits)	2020-06-04 — 06:50:51 UTC	derekcheah, duckmammal, Lilliana, swineherd	24	5	25
 193536	3	26	Black (6 Suits)	2020-06-04 — 06:20:44 UTC	duckmammal, florrat2, swineherd	3	6	30
 193524	3	0	Black (6 Suits)	2020-06-04 — 05:58:49 UTC	duckmammal, florrat2, swineherd	6	6	30
 193514	3	19	4 Suits	2020-06-04 — 05:40:37 UTC	duckmammal, florrat2, swineherd	90	4	20
-193498	3	20	4 Suits	2020-06-04 — 05:19:50 UTC	duckmammal, florrat2, swineherd	160	4	20
-193456	4	23	No Variant	2020-06-04 — 04:43:16 UTC	charmander, duckmammal, mycobee, swineherd	899	5	25
+193498	3	20	4 Suits	2020-06-04 — 05:19:50 UTC	duckmammal, florrat2, swineherd	162	4	20
+193456	4	23	No Variant	2020-06-04 — 04:43:16 UTC	charmander, duckmammal, mycobee, swineherd	908	5	25
 193347	4	25	Muddy-Rainbow-Ones (5 Suits)	2020-06-04 — 03:32:27 UTC	melwen, scharkbite, swineherd, TheDaniMan	1	5	25
 193314	4	24	Muddy-Rainbow-Ones (5 Suits)	2020-06-04 — 03:03:30 UTC	melwen, scharkbite, swineherd, TheDaniMan	1	5	25
-193272	4	0	Muddy-Rainbow-Ones (5 Suits)	2020-06-04 — 02:23:56 UTC	melwen, scharkbite, swineherd, TheDaniMan	2	5	25
-193241	4	0	Muddy-Rainbow-Ones (5 Suits)	2020-06-04 — 01:57:09 UTC	melwen, scharkbite, swineherd, TheDaniMan	3	5	25
+193272	4	0	Muddy-Rainbow-Ones (5 Suits)	2020-06-04 — 02:23:56 UTC	melwen, scharkbite, swineherd, TheDaniMan	3	5	25
+193241	4	0	Muddy-Rainbow-Ones (5 Suits)	2020-06-04 — 01:57:09 UTC	melwen, scharkbite, swineherd, TheDaniMan	4	5	25
 193200	6	0	Muddy-Rainbow-Ones (5 Suits)	2020-06-04 — 01:22:52 UTC	kimbifille, kooolant, melwen, scharkbite, swineherd, XMIL	1	5	25
 193153	5	0	Muddy-Rainbow-Ones (5 Suits)	2020-06-04 — 00:48:00 UTC	kooolant, Kyle, melwen, scharkbite, swineherd	2	5	25
-193123	4	29	Black & Rainbow (6 Suits)	2020-06-04 — 00:10:05 UTC	melwen, scharkbite, sephiroth, swineherd	13	6	30
-193068	4	23	No Variant	2020-06-03 — 23:21:53 UTC	asaelr, newduke, padi, swineherd	18	5	25
-192567	5	0	Rainbow & White (6 Suits)	2020-06-03 — 08:50:42 UTC	Aluap, antitelharsic, derekcheah, pianoblook, swineherd	11	6	30
+193123	4	29	Black & Rainbow (6 Suits)	2020-06-04 — 00:10:05 UTC	melwen, scharkbite, sephiroth, swineherd	14	6	30
+193068	4	23	No Variant	2020-06-03 — 23:21:53 UTC	asaelr, newduke, padi, swineherd	19	5	25
+192567	5	0	Rainbow & White (6 Suits)	2020-06-03 — 08:50:42 UTC	Aluap, antitelharsic, derekcheah, pianoblook, swineherd	12	6	30
 192546	5	20	Black (5 Suits)	2020-06-03 — 08:07:23 UTC	Aluap, antitelharsic, derekcheah, pianoblook, swineherd	36	5	25
-192505	5	24	No Variant	2020-06-03 — 07:21:13 UTC	Aluap, antitelharsic, derekcheah, pianoblook, swineherd	126	5	25
+192505	5	24	No Variant	2020-06-03 — 07:21:13 UTC	Aluap, antitelharsic, derekcheah, pianoblook, swineherd	127	5	25
 192380	5	0	Brown & Null (4 Suits)	2020-06-03 — 04:50:30 UTC	derekcheah, melwen, pianoblook, swineherd, XMIL	2	4	20
 192298	5	0	Brown & Null (4 Suits)	2020-06-03 — 03:55:36 UTC	derekcheah, melwen, pianoblook, swineherd, XMIL	2	4	20
 192241	5	0	Brown & Null (4 Suits)	2020-06-03 — 03:28:07 UTC	derekcheah, melwen, pianoblook, swineherd, XMIL	2	4	20
@@ -1473,81 +1473,81 @@
 191592	5	24	Black & Brown (5 Suits)	2020-06-02 — 17:23:56 UTC	hakha3, Kyle, swineherd, TheDaniMan, TimeHoodie	6	5	25
 191222	5	26	White-Ones (6 Suits)	2020-06-02 — 04:32:13 UTC	Aluap, antitelharsic, Littleinvad, swineherd, XMIL	8	6	30
 191179	4	0	White-Ones (6 Suits)	2020-06-02 — 03:58:38 UTC	antitelharsic, Littleinvad, swineherd, XMIL	9	6	30
-191162	5	23	No Variant	2020-06-02 — 03:45:37 UTC	Aluap, antitelharsic, Littleinvad, swineherd, XMIL	92	5	25
-191023	5	25	No Variant	2020-06-02 — 02:28:58 UTC	Cory, jerryK, melwen, sephiroth, swineherd	50	5	25
-190945	4	20	No Variant	2020-06-02 — 01:39:36 UTC	jerryK, melwen, sephiroth, swineherd	42	5	25
-190874	4	0	No Variant	2020-06-02 — 00:45:39 UTC	jerryK, melwen, sephiroth, swineherd	43	5	25
-190828	4	23	No Variant	2020-06-02 — 00:09:56 UTC	melwen, sephiroth, swineherd, Tobythedog	43	5	25
-190806	4	24	No Variant	2020-06-01 — 23:29:11 UTC	melwen, sephiroth, swineherd, Tobythedog	43	5	25
+191162	5	23	No Variant	2020-06-02 — 03:45:37 UTC	Aluap, antitelharsic, Littleinvad, swineherd, XMIL	93	5	25
+191023	5	25	No Variant	2020-06-02 — 02:28:58 UTC	Cory, jerryK, melwen, sephiroth, swineherd	52	5	25
+190945	4	20	No Variant	2020-06-02 — 01:39:36 UTC	jerryK, melwen, sephiroth, swineherd	43	5	25
+190874	4	0	No Variant	2020-06-02 — 00:45:39 UTC	jerryK, melwen, sephiroth, swineherd	44	5	25
+190828	4	23	No Variant	2020-06-02 — 00:09:56 UTC	melwen, sephiroth, swineherd, Tobythedog	44	5	25
+190806	4	24	No Variant	2020-06-01 — 23:29:11 UTC	melwen, sephiroth, swineherd, Tobythedog	44	5	25
 190137	5	24	Brown & Light Pink (5 Suits)	2020-06-01 — 04:54:17 UTC	Nitrate2, pianoblook, swineherd, TheDaniMan, XMIL	2	5	25
 190083	5	0	Brown & Light Pink (5 Suits)	2020-06-01 — 04:08:27 UTC	Nitrate2, pianoblook, swineherd, TheDaniMan, XMIL	3	5	25
 190059	4	24	Brown & Light Pink (5 Suits)	2020-06-01 — 03:39:39 UTC	Nitrate2, pianoblook, swineherd, XMIL	1	5	25
 190031	4	0	Brown & Light Pink (5 Suits)	2020-06-01 — 03:02:58 UTC	Nitrate2, pianoblook, swineherd, XMIL	1	5	25
 190027	4	0	Brown & Light Pink (5 Suits)	2020-06-01 — 03:01:07 UTC	Nitrate2, pianoblook, swineherd, XMIL	1	5	25
 190008	4	0	Brown & Light Pink (5 Suits)	2020-06-01 — 02:51:56 UTC	Nitrate2, pianoblook, swineherd, XMIL	2	5	25
-188752	4	0	Brown (6 Suits)	2020-05-31 — 04:48:14 UTC	derekcheah, drew.levitt, swineherd, will.i.am	41	6	30
-188661	4	25	Rainbow (5 Suits)	2020-05-31 — 04:03:22 UTC	derekcheah, drew.levitt, swineherd, will.i.am	130	5	25
+188752	4	0	Brown (6 Suits)	2020-05-31 — 04:48:14 UTC	derekcheah, drew.levitt, swineherd, will.i.am	42	6	30
+188661	4	25	Rainbow (5 Suits)	2020-05-31 — 04:03:22 UTC	derekcheah, drew.levitt, swineherd, will.i.am	131	5	25
 188378	3	15	3 Suits	2020-05-31 — 01:45:31 UTC	melwen, swineherd, TheDaniMan	7	3	15
 188350	3	13	3 Suits	2020-05-31 — 01:27:20 UTC	melwen, swineherd, TheDaniMan	7	3	15
 188328	5	10	3 Suits	2020-05-31 — 01:04:19 UTC	claudiob, melwen, NOThandsome, swineherd, TheDaniMan	16	3	15
 188311	5	0	Black & Rainbow (6 Suits)	2020-05-31 — 00:43:31 UTC	DrJones, melwen, rs1, swineherd, TheDaniMan	10	6	30
 188274	5	27	Black & Rainbow (6 Suits)	2020-05-31 — 00:08:12 UTC	DrJones, melwen, rs1, swineherd, TheDaniMan	15	6	30
-187047	3	23	Black & Rainbow (5 Suits)	2020-05-30 — 01:48:10 UTC	mikefrenil, sephiroth, swineherd	24	5	25
-187004	3	0	Black & Rainbow (5 Suits)	2020-05-30 — 01:19:35 UTC	mikefrenil, sephiroth, swineherd	27	5	25
-186984	3	0	Black & Rainbow (5 Suits)	2020-05-30 — 01:00:26 UTC	mikefrenil, sephiroth, swineherd	33	5	25
+187047	3	23	Black & Rainbow (5 Suits)	2020-05-30 — 01:48:10 UTC	mikefrenil, sephiroth, swineherd	25	5	25
+187004	3	0	Black & Rainbow (5 Suits)	2020-05-30 — 01:19:35 UTC	mikefrenil, sephiroth, swineherd	28	5	25
+186984	3	0	Black & Rainbow (5 Suits)	2020-05-30 — 01:00:26 UTC	mikefrenil, sephiroth, swineherd	34	5	25
 186933	5	0	Black & Rainbow (6 Suits)	2020-05-30 — 00:29:19 UTC	melwen, mikefrenil, Nitrate2, sephiroth, swineherd	6	6	30
 186884	3	0	Black & Rainbow (5 Suits)	2020-05-30 — 00:06:29 UTC	melwen, sephiroth, swineherd	33	5	25
 186657	4	25	Black & Rainbow (5 Suits)	2020-05-29 — 21:18:03 UTC	MarkusKahlsen, sephiroth, swineherd, TheDaniMan	7	5	25
 186588	4	21	Black & Rainbow (5 Suits)	2020-05-29 — 20:39:09 UTC	sephiroth, swineherd, TheDaniMan, will.i.am	6	5	25
 186550	4	0	Black & Rainbow (5 Suits)	2020-05-29 — 20:13:19 UTC	sephiroth, swineherd, TheDaniMan, will.i.am	9	5	25
-186530	4	0	Black & Rainbow (5 Suits)	2020-05-29 — 19:54:50 UTC	sephiroth, swineherd, TheDaniMan, will.i.am	9	5	25
+186530	4	0	Black & Rainbow (5 Suits)	2020-05-29 — 19:54:50 UTC	sephiroth, swineherd, TheDaniMan, will.i.am	10	5	25
 186422	4	27	Black & Rainbow (6 Suits)	2020-05-29 — 18:13:53 UTC	Kyle, Nitrate2, pianoblook, swineherd	28	6	30
 186391	5	0	Black & Rainbow (5 Suits)	2020-05-29 — 17:38:05 UTC	Kyle, Nitrate2, pianoblook, sephiroth, swineherd	1	5	25
-185567	4	25	Rainbow (5 Suits)	2020-05-29 — 01:18:48 UTC	melwen, Nitrate2, sephiroth, swineherd	23	5	25
+185567	4	25	Rainbow (5 Suits)	2020-05-29 — 01:18:48 UTC	melwen, Nitrate2, sephiroth, swineherd	24	5	25
 185526	5	0	Rainbow (5 Suits)	2020-05-29 — 00:36:13 UTC	melwen, Nitrate2, pianoblook, sephiroth, swineherd	12	5	25
 185500	5	0	Rainbow (5 Suits)	2020-05-28 — 23:34:16 UTC	melwen, Nitrate2, pianoblook, sephiroth, swineherd	14	5	25
 185482	6	0	Rainbow (5 Suits)	2020-05-28 — 23:09:01 UTC	Kyle, melwen, Nitrate2, pianoblook, sephiroth, swineherd	15	5	25
-185456	5	23	Rainbow (5 Suits)	2020-05-28 — 22:35:11 UTC	Floriman, melwen, Nitrate2, sephiroth, swineherd	17	5	25
-185416	4	0	Black (5 Suits)	2020-05-28 — 22:03:40 UTC	Floriman, melwen, Nitrate2, swineherd	36	5	25
+185456	5	23	Rainbow (5 Suits)	2020-05-28 — 22:35:11 UTC	Floriman, melwen, Nitrate2, sephiroth, swineherd	18	5	25
+185416	4	0	Black (5 Suits)	2020-05-28 — 22:03:40 UTC	Floriman, melwen, Nitrate2, swineherd	37	5	25
 185371	4	0	Black (5 Suits)	2020-05-28 — 21:33:46 UTC	melwen, pianoblook, swineherd, will.i.am	4	5	25
 185353	4	0	Black (5 Suits)	2020-05-28 — 21:19:44 UTC	melwen, pianoblook, swineherd, will.i.am	4	5	25
 185036	5	0	Black & Rainbow (6 Suits)	2020-05-28 — 16:08:08 UTC	pianoblook, postmans, sephiroth, swineherd, TimeHoodie	11	6	30
-184978	5	23	Black & Rainbow (5 Suits)	2020-05-28 — 14:51:42 UTC	Fey, LaFayetteX, MarkusKahlsen, pianoblook, swineherd	4	5	25
+184978	5	23	Black & Rainbow (5 Suits)	2020-05-28 — 14:51:42 UTC	Fey, LaFayetteX, MarkusKahlsen, pianoblook, swineherd	5	5	25
 183992	3	0	Black & Rainbow (5 Suits)	2020-05-27 — 21:32:54 UTC	MarkusKahlsen, swineherd, TheDaniMan	58	5	25
 183965	4	0	Black & Rainbow (5 Suits)	2020-05-27 — 20:54:44 UTC	antitelharsic, MarkusKahlsen, swineherd, TheDaniMan	16	5	25
 183936	6	20	Black & Rainbow (5 Suits)	2020-05-27 — 20:21:05 UTC	antitelharsic, Nitrate2, sephiroth, swineherd, TheDaniMan, TimeHoodie	5	5	25
-183886	5	0	Black (6 Suits)	2020-05-27 — 19:39:30 UTC	Nitrate2, sephiroth, swineherd, TheDaniMan, TimeHoodie	22	6	30
-183855	5	0	Black & Rainbow (5 Suits)	2020-05-27 — 19:21:44 UTC	Nitrate2, sephiroth, swineherd, TheDaniMan, TimeHoodie	6	5	25
+183886	5	0	Black (6 Suits)	2020-05-27 — 19:39:30 UTC	Nitrate2, sephiroth, swineherd, TheDaniMan, TimeHoodie	23	6	30
+183855	5	0	Black & Rainbow (5 Suits)	2020-05-27 — 19:21:44 UTC	Nitrate2, sephiroth, swineherd, TheDaniMan, TimeHoodie	7	5	25
 183830	6	0	Black & Rainbow (6 Suits)	2020-05-27 — 19:03:14 UTC	Kyle, sephiroth, swineherd, TheDaniMan, will.i.am, Zakisan	2	6	30
 183797	6	0	Black & Rainbow (6 Suits)	2020-05-27 — 18:34:03 UTC	Kyle, sephiroth, swineherd, TheDaniMan, will.i.am, Zakisan	3	6	30
 183752	3	0	Black (6 Suits)	2020-05-27 — 17:35:35 UTC	qbphoenix, swineherd, TheDaniMan	31	6	30
 183047	3	28	White-Ones & Black (6 Suits)	2020-05-27 — 00:14:38 UTC	swineherd, TheDaniMan, XMIL	1	6	30
-183026	5	26	Black (6 Suits)	2020-05-26 — 23:46:49 UTC	hakha3, honzas, swineherd, TheDaniMan, XMIL	27	6	30
-183004	5	0	Black (6 Suits)	2020-05-26 — 23:10:57 UTC	hakha3, honzas, qbphoenix, swineherd, TheDaniMan	35	6	30
+183026	5	26	Black (6 Suits)	2020-05-26 — 23:46:49 UTC	hakha3, honzas, swineherd, TheDaniMan, XMIL	28	6	30
+183004	5	0	Black (6 Suits)	2020-05-26 — 23:10:57 UTC	hakha3, honzas, qbphoenix, swineherd, TheDaniMan	36	6	30
 182651	4	0	Brown-Fives & Dark Pink (5 Suits)	2020-05-26 — 16:51:05 UTC	sephiroth, swineherd, TheDaniMan, will.i.am	2	5	25
 182641	4	22	Brown-Fives & Dark Pink (5 Suits)	2020-05-26 — 16:36:14 UTC	sephiroth, swineherd, TheDaniMan, will.i.am	3	5	25
 182605	4	0	Black & Rainbow (5 Suits)	2020-05-26 — 15:19:36 UTC	asaelr, Floriman, LaFayetteX, swineherd	17	5	25
 182603	4	0	Black & Rainbow (5 Suits)	2020-05-26 — 15:08:26 UTC	asaelr, Floriman, LaFayetteX, swineherd	23	5	25
-182599	4	0	Black (6 Suits)	2020-05-26 — 14:52:02 UTC	pianoblook, sephiroth, swineherd, Zakisan	102	6	30
-181721	4	30	Rainbow (6 Suits)	2020-05-25 — 21:48:02 UTC	frollo9386, mikefrenil, Nitrate2, swineherd	238	6	30
+182599	4	0	Black (6 Suits)	2020-05-26 — 14:52:02 UTC	pianoblook, sephiroth, swineherd, Zakisan	103	6	30
+181721	4	30	Rainbow (6 Suits)	2020-05-25 — 21:48:02 UTC	frollo9386, mikefrenil, Nitrate2, swineherd	244	6	30
 181682	6	0	Rainbow (6 Suits)	2020-05-25 — 21:22:06 UTC	frollo9386, kalisa, LaFayetteX, sephiroth, swineherd, will.i.am	23	6	30
 181661	6	0	Rainbow (6 Suits)	2020-05-25 — 21:11:38 UTC	frollo9386, kalisa, LaFayetteX, sephiroth, swineherd, will.i.am	60	6	30
 181334	5	30	Rainbow (6 Suits)	2020-05-25 — 15:16:00 UTC	Cory, mycarpe, sephiroth, swineherd, Zakisan	39	6	30
-180684	4	0	Rainbow (5 Suits)	2020-05-25 — 02:47:51 UTC	melwen, Nitrate2, swineherd, XMIL	26	5	25
-180625	4	0	Rainbow (5 Suits)	2020-05-25 — 02:17:47 UTC	melwen, Nitrate2, swineherd, XMIL	30	5	25
+180684	4	0	Rainbow (5 Suits)	2020-05-25 — 02:47:51 UTC	melwen, Nitrate2, swineherd, XMIL	28	5	25
+180625	4	0	Rainbow (5 Suits)	2020-05-25 — 02:17:47 UTC	melwen, Nitrate2, swineherd, XMIL	31	5	25
 180574	5	0	Rainbow (5 Suits)	2020-05-25 — 01:52:31 UTC	melwen, Nitrate2, sephiroth, swineherd, XMIL	26	5	25
 180504	5	0	Rainbow (5 Suits)	2020-05-25 — 01:07:14 UTC	honzas, melwen, Nitrate2, sephiroth, swineherd	22	5	25
-180468	4	0	Rainbow (5 Suits)	2020-05-25 — 00:45:13 UTC	honzas, melwen, Nitrate2, swineherd	38	5	25
+180468	4	0	Rainbow (5 Suits)	2020-05-25 — 00:45:13 UTC	honzas, melwen, Nitrate2, swineherd	40	5	25
 180409	4	0	Rainbow (5 Suits)	2020-05-25 — 00:01:54 UTC	melwen, Nitrate2, Pimak, swineherd	42	5	25
 180370	4	0	Rainbow (5 Suits)	2020-05-24 — 23:20:48 UTC	melwen, Nitrate2, Pimak, swineherd	63	5	25
-180345	3	23	No Variant	2020-05-24 — 22:51:16 UTC	Nils, Nitrate2, swineherd	485	5	25
-180292	4	0	Black (6 Suits)	2020-05-24 — 22:12:50 UTC	Nils, Nitrate2, swineherd, TheDaniMan	142	6	30
-180248	4	20	4 Suits	2020-05-24 — 21:44:33 UTC	Nils, Nitrate2, swineherd, TheDaniMan	51	4	20
-180144	3	0	Pink (5 Suits)	2020-05-24 — 20:10:09 UTC	DrJones, Kyle, swineherd	62	5	25
-180045	4	0	Pink (6 Suits)	2020-05-24 — 19:04:25 UTC	asaelr, DrJones, swineherd, will.i.am	42	6	30
-179973	4	0	Black (6 Suits)	2020-05-24 — 18:21:20 UTC	Aluap, DrJones, sephiroth, swineherd	213	6	30
-179896	4	0	Black (6 Suits)	2020-05-24 — 17:37:16 UTC	Aluap, Elatekur, ewanduck, swineherd	273	6	30
-179807	4	23	No Variant	2020-05-24 — 16:21:39 UTC	Animex52, DrJones, sephiroth, swineherd	2076	5	25
+180345	3	23	No Variant	2020-05-24 — 22:51:16 UTC	Nils, Nitrate2, swineherd	491	5	25
+180292	4	0	Black (6 Suits)	2020-05-24 — 22:12:50 UTC	Nils, Nitrate2, swineherd, TheDaniMan	143	6	30
+180248	4	20	4 Suits	2020-05-24 — 21:44:33 UTC	Nils, Nitrate2, swineherd, TheDaniMan	52	4	20
+180144	3	0	Pink (5 Suits)	2020-05-24 — 20:10:09 UTC	DrJones, Kyle, swineherd	64	5	25
+180045	4	0	Pink (6 Suits)	2020-05-24 — 19:04:25 UTC	asaelr, DrJones, swineherd, will.i.am	43	6	30
+179973	4	0	Black (6 Suits)	2020-05-24 — 18:21:20 UTC	Aluap, DrJones, sephiroth, swineherd	215	6	30
+179896	4	0	Black (6 Suits)	2020-05-24 — 17:37:16 UTC	Aluap, Elatekur, ewanduck, swineherd	276	6	30
+179807	4	23	No Variant	2020-05-24 — 16:21:39 UTC	Animex52, DrJones, sephiroth, swineherd	2094	5	25
 179757	4	27	Rainbow (6 Suits)	2020-05-24 — 15:25:02 UTC	LaFayetteX, smallman, Spip_B, swineherd	132	6	30
 179679	3	0	Pink-Fives (4 Suits)	2020-05-24 — 12:18:20 UTC	asaelr, Floriman, swineherd	2	4	20
 179678	3	0	Pink-Fives (4 Suits)	2020-05-24 — 12:09:49 UTC	asaelr, Floriman, swineherd	3	4	20
@@ -1555,112 +1555,112 @@
 179675	3	0	Pink-Fives (4 Suits)	2020-05-24 — 11:55:35 UTC	asaelr, Floriman, swineherd	4	4	20
 179672	3	0	Pink-Fives (4 Suits)	2020-05-24 — 11:50:46 UTC	asaelr, Floriman, swineherd	4	4	20
 179669	3	19	Pink-Fives (4 Suits)	2020-05-24 — 11:43:49 UTC	asaelr, Floriman, swineherd	7	4	20
-178520	5	24	No Variant	2020-05-23 — 20:32:50 UTC	anna567, kalisa, sephiroth, swineherd, will.i.am	658	5	25
-178459	5	22	Brown (5 Suits)	2020-05-23 — 19:38:26 UTC	ebs, kalisa, sephiroth, swineherd, will.i.am	24	5	25
+178520	5	24	No Variant	2020-05-23 — 20:32:50 UTC	anna567, kalisa, sephiroth, swineherd, will.i.am	667	5	25
+178459	5	22	Brown (5 Suits)	2020-05-23 — 19:38:26 UTC	ebs, kalisa, sephiroth, swineherd, will.i.am	25	5	25
 178416	5	26	Black (6 Suits)	2020-05-23 — 19:02:04 UTC	JDepp, kalisa, sephiroth, swineherd, will.i.am	48	6	30
-178379	4	0	Black (6 Suits)	2020-05-23 — 18:15:56 UTC	kalisa, sephiroth, swineherd, will.i.am	175	6	30
+178379	4	0	Black (6 Suits)	2020-05-23 — 18:15:56 UTC	kalisa, sephiroth, swineherd, will.i.am	176	6	30
 178363	4	0	Black (6 Suits)	2020-05-23 — 17:53:39 UTC	kalisa, sephiroth, swineherd, will.i.am	1	6	30
-178336	3	24	No Variant	2020-05-23 — 17:23:59 UTC	LaFayetteX, Spip_B, swineherd	223	5	25
-178312	3	24	No Variant	2020-05-23 — 16:52:56 UTC	LaFayetteX, Spip_B, swineherd	250	5	25
-177137	4	20	No Variant	2020-05-22 — 22:26:17 UTC	Lilliana, mikefrenil, Pimak, swineherd	501	5	25
-176931	5	24	No Variant	2020-05-22 — 19:56:51 UTC	anna567, Div, eljobe, swineherd, Zakisan	262	5	25
+178336	3	24	No Variant	2020-05-23 — 17:23:59 UTC	LaFayetteX, Spip_B, swineherd	228	5	25
+178312	3	24	No Variant	2020-05-23 — 16:52:56 UTC	LaFayetteX, Spip_B, swineherd	252	5	25
+177137	4	20	No Variant	2020-05-22 — 22:26:17 UTC	Lilliana, mikefrenil, Pimak, swineherd	507	5	25
+176931	5	24	No Variant	2020-05-22 — 19:56:51 UTC	anna567, Div, eljobe, swineherd, Zakisan	265	5	25
 176886	5	0	No Variant	2020-05-22 — 19:26:56 UTC	anna567, eljobe, swineherd, TheDaniMan, Zakisan	75	5	25
-176860	5	23	No Variant	2020-05-22 — 19:06:09 UTC	anna567, eljobe, swineherd, TheDaniMan, Zakisan	344	5	25
-176833	4	0	No Variant	2020-05-22 — 18:38:01 UTC	eljobe, swineherd, TheDaniMan, Zakisan	81	5	25
-176821	4	24	No Variant	2020-05-22 — 18:23:44 UTC	sephiroth, swineherd, TheDaniMan, Zakisan	88	5	25
-176794	4	0	No Variant	2020-05-22 — 17:59:59 UTC	sephiroth, swineherd, TheDaniMan, Zakisan	90	5	25
-176780	3	25	No Variant	2020-05-22 — 17:43:51 UTC	swineherd, TheDaniMan, Zakisan	220	5	25
-176728	5	22	No Variant	2020-05-22 — 16:38:50 UTC	Elatekur, eljobe, sephiroth, swineherd, Zakisan	109	5	25
-176708	5	0	No Variant	2020-05-22 — 16:08:43 UTC	Elatekur, eljobe, mycarpe, swineherd, Zakisan	195	5	25
-176685	4	0	No Variant	2020-05-22 — 15:36:23 UTC	melwen, mycarpe, swineherd, Zakisan	48	5	25
-176667	5	30	Rainbow (6 Suits)	2020-05-22 — 14:50:05 UTC	melwen, mycarpe, sephiroth, swineherd, Zakisan	209	6	30
+176860	5	23	No Variant	2020-05-22 — 19:06:09 UTC	anna567, eljobe, swineherd, TheDaniMan, Zakisan	348	5	25
+176833	4	0	No Variant	2020-05-22 — 18:38:01 UTC	eljobe, swineherd, TheDaniMan, Zakisan	84	5	25
+176821	4	24	No Variant	2020-05-22 — 18:23:44 UTC	sephiroth, swineherd, TheDaniMan, Zakisan	90	5	25
+176794	4	0	No Variant	2020-05-22 — 17:59:59 UTC	sephiroth, swineherd, TheDaniMan, Zakisan	92	5	25
+176780	3	25	No Variant	2020-05-22 — 17:43:51 UTC	swineherd, TheDaniMan, Zakisan	224	5	25
+176728	5	22	No Variant	2020-05-22 — 16:38:50 UTC	Elatekur, eljobe, sephiroth, swineherd, Zakisan	112	5	25
+176708	5	0	No Variant	2020-05-22 — 16:08:43 UTC	Elatekur, eljobe, mycarpe, swineherd, Zakisan	198	5	25
+176685	4	0	No Variant	2020-05-22 — 15:36:23 UTC	melwen, mycarpe, swineherd, Zakisan	49	5	25
+176667	5	30	Rainbow (6 Suits)	2020-05-22 — 14:50:05 UTC	melwen, mycarpe, sephiroth, swineherd, Zakisan	211	6	30
 176649	6	0	Rainbow (6 Suits)	2020-05-22 — 14:00:06 UTC	melwen, mycarpe, sephiroth, swineherd, TimeHoodie, Zakisan	33	6	30
 175636	5	22	Rainbow (5 Suits)	2020-05-21 — 20:43:58 UTC	Dr_Kakashi, kimbifille, Kyle, swineherd, TimeHoodie	7	5	25
-175602	3	0	No Variant	2020-05-21 — 20:16:49 UTC	anna567, DrJones, swineherd	840	5	25
-175571	3	0	No Variant	2020-05-21 — 19:53:55 UTC	anna567, DrJones, swineherd	1881	5	25
-175519	3	0	Black (6 Suits)	2020-05-21 — 19:22:35 UTC	DrJones, honzas, swineherd	149	6	30
-175480	3	0	Black (6 Suits)	2020-05-21 — 18:54:31 UTC	DrJones, honzas, swineherd	159	6	30
-175462	3	0	Black (6 Suits)	2020-05-21 — 18:38:08 UTC	DrJones, honzas, swineherd	213	6	30
-175342	3	23	No Variant	2020-05-21 — 13:30:33 UTC	maertin, robense, swineherd	49	5	25
-175325	3	0	No Variant	2020-05-21 — 13:02:08 UTC	maertin, robense, swineherd	48	5	25
-175317	3	0	No Variant	2020-05-21 — 12:42:42 UTC	maertin, robense, swineherd	50	5	25
-175285	3	0	Rainbow (6 Suits)	2020-05-21 — 10:26:05 UTC	sephiroth, smallman, swineherd	83	6	30
-174439	4	20	No Variant	2020-05-20 — 21:21:33 UTC	kirtay, rajhiv, swineherd, TheDaniMan	3581	5	25
-174374	3	25	No Variant	2020-05-20 — 20:37:15 UTC	Dr_Kakashi, swineherd, TimeHoodie	31	5	25
+175602	3	0	No Variant	2020-05-21 — 20:16:49 UTC	anna567, DrJones, swineherd	849	5	25
+175571	3	0	No Variant	2020-05-21 — 19:53:55 UTC	anna567, DrJones, swineherd	1896	5	25
+175519	3	0	Black (6 Suits)	2020-05-21 — 19:22:35 UTC	DrJones, honzas, swineherd	151	6	30
+175480	3	0	Black (6 Suits)	2020-05-21 — 18:54:31 UTC	DrJones, honzas, swineherd	161	6	30
+175462	3	0	Black (6 Suits)	2020-05-21 — 18:38:08 UTC	DrJones, honzas, swineherd	214	6	30
+175342	3	23	No Variant	2020-05-21 — 13:30:33 UTC	maertin, robense, swineherd	51	5	25
+175325	3	0	No Variant	2020-05-21 — 13:02:08 UTC	maertin, robense, swineherd	50	5	25
+175317	3	0	No Variant	2020-05-21 — 12:42:42 UTC	maertin, robense, swineherd	51	5	25
+175285	3	0	Rainbow (6 Suits)	2020-05-21 — 10:26:05 UTC	sephiroth, smallman, swineherd	84	6	30
+174439	4	20	No Variant	2020-05-20 — 21:21:33 UTC	kirtay, rajhiv, swineherd, TheDaniMan	3609	5	25
+174374	3	25	No Variant	2020-05-20 — 20:37:15 UTC	Dr_Kakashi, swineherd, TimeHoodie	33	5	25
 174328	5	22	No Variant	2020-05-20 — 20:06:16 UTC	Dr_Kakashi, Kyle, swineherd, TimeHoodie, tyrcho	13	5	25
 174263	5	0	No Variant	2020-05-20 — 19:29:14 UTC	Dr_Kakashi, Kyle, swineherd, TimeHoodie, tyrcho	13	5	25
-174186	5	24	No Variant	2020-05-20 — 18:18:04 UTC	anna567, honzas, JDepp, Pimak, swineherd	176	5	25
+174186	5	24	No Variant	2020-05-20 — 18:18:04 UTC	anna567, honzas, JDepp, Pimak, swineherd	178	5	25
 174146	5	0	White-Ones & Rainbow (5 Suits)	2020-05-20 — 17:12:27 UTC	kimbifille, kooolant, MarkusKahlsen, swineherd, TheDaniMan	6	5	25
 172838	4	0	Black (5 Suits)	2020-05-19 — 14:26:47 UTC	asaelr, Dr_Kakashi, swineherd, TimeHoodie	4	5	25
 172833	3	0	Black (5 Suits)	2020-05-19 — 14:18:50 UTC	asaelr, Dr_Kakashi, swineherd	6	5	25
 172831	3	0	Black (5 Suits)	2020-05-19 — 14:12:47 UTC	asaelr, Dr_Kakashi, swineherd	6	5	25
-172731	2	25	Black (5 Suits)	2020-05-19 — 08:52:53 UTC	asaelr, swineherd	43	5	25
-172728	2	0	Black (5 Suits)	2020-05-19 — 08:40:41 UTC	asaelr, swineherd	48	5	25
-172726	2	0	Black (5 Suits)	2020-05-19 — 08:37:29 UTC	asaelr, swineherd	49	5	25
-172723	2	0	Black (5 Suits)	2020-05-19 — 08:31:27 UTC	asaelr, swineherd	51	5	25
-172720	2	0	Black (5 Suits)	2020-05-19 — 08:21:35 UTC	asaelr, swineherd	55	5	25
-172718	2	0	Black (5 Suits)	2020-05-19 — 08:17:09 UTC	asaelr, swineherd	56	5	25
-172715	2	0	Black (5 Suits)	2020-05-19 — 08:13:19 UTC	asaelr, swineherd	60	5	25
-172714	2	0	Black (5 Suits)	2020-05-19 — 08:09:38 UTC	asaelr, swineherd	60	5	25
-172037	4	0	No Variant	2020-05-18 — 22:31:27 UTC	Dr_Kakashi, swineherd, TimeHoodie, tyrcho	13	5	25
+172731	2	25	Black (5 Suits)	2020-05-19 — 08:52:53 UTC	asaelr, swineherd	45	5	25
+172728	2	0	Black (5 Suits)	2020-05-19 — 08:40:41 UTC	asaelr, swineherd	50	5	25
+172726	2	0	Black (5 Suits)	2020-05-19 — 08:37:29 UTC	asaelr, swineherd	51	5	25
+172723	2	0	Black (5 Suits)	2020-05-19 — 08:31:27 UTC	asaelr, swineherd	53	5	25
+172720	2	0	Black (5 Suits)	2020-05-19 — 08:21:35 UTC	asaelr, swineherd	57	5	25
+172718	2	0	Black (5 Suits)	2020-05-19 — 08:17:09 UTC	asaelr, swineherd	58	5	25
+172715	2	0	Black (5 Suits)	2020-05-19 — 08:13:19 UTC	asaelr, swineherd	63	5	25
+172714	2	0	Black (5 Suits)	2020-05-19 — 08:09:38 UTC	asaelr, swineherd	63	5	25
+172037	4	0	No Variant	2020-05-18 — 22:31:27 UTC	Dr_Kakashi, swineherd, TimeHoodie, tyrcho	14	5	25
 171851	5	25	No Variant	2020-05-18 — 19:18:37 UTC	asaelr, Ch1cken, frollo9386, swineherd, will.i.am	20	5	25
-171763	3	30	Black (6 Suits)	2020-05-18 — 16:52:36 UTC	JDepp, swineherd, will.i.am	325	6	30
-171037	4	25	No Variant	2020-05-18 — 00:58:05 UTC	mikefrenil, swineherd, vmplays, will.i.am	198	5	25
-170986	4	22	No Variant	2020-05-18 — 00:20:22 UTC	mikefrenil, swineherd, vmplays, will.i.am	243	5	25
-170903	4	23	No Variant	2020-05-17 — 23:28:15 UTC	mikefrenil, swineherd, vmplays, will.i.am	257	5	25
-170798	5	24	No Variant	2020-05-17 — 22:12:43 UTC	Ch1cken, chloebg, frollo9386, Shadok, swineherd	837	5	25
-170725	4	23	No Variant	2020-05-17 — 21:11:31 UTC	Ch1cken, chloebg, frollo9386, swineherd	655	5	25
-170664	4	0	Rainbow (6 Suits)	2020-05-17 — 20:37:05 UTC	Ch1cken, chloebg, frollo9386, swineherd	493	6	30
-170632	6	22	No Variant	2020-05-17 — 20:14:01 UTC	Ch1cken, Feer, frollo9386, honzas, kooolant, swineherd	115	5	25
-170055	3	25	No Variant	2020-05-17 — 08:30:04 UTC	chriswck, maertin, swineherd	940	5	25
+171763	3	30	Black (6 Suits)	2020-05-18 — 16:52:36 UTC	JDepp, swineherd, will.i.am	332	6	30
+171037	4	25	No Variant	2020-05-18 — 00:58:05 UTC	mikefrenil, swineherd, vmplays, will.i.am	199	5	25
+170986	4	22	No Variant	2020-05-18 — 00:20:22 UTC	mikefrenil, swineherd, vmplays, will.i.am	245	5	25
+170903	4	23	No Variant	2020-05-17 — 23:28:15 UTC	mikefrenil, swineherd, vmplays, will.i.am	260	5	25
+170798	5	24	No Variant	2020-05-17 — 22:12:43 UTC	Ch1cken, chloebg, frollo9386, Shadok, swineherd	845	5	25
+170725	4	23	No Variant	2020-05-17 — 21:11:31 UTC	Ch1cken, chloebg, frollo9386, swineherd	660	5	25
+170664	4	0	Rainbow (6 Suits)	2020-05-17 — 20:37:05 UTC	Ch1cken, chloebg, frollo9386, swineherd	497	6	30
+170632	6	22	No Variant	2020-05-17 — 20:14:01 UTC	Ch1cken, Feer, frollo9386, honzas, kooolant, swineherd	118	5	25
+170055	3	25	No Variant	2020-05-17 — 08:30:04 UTC	chriswck, maertin, swineherd	952	5	25
 169968	5	28	6 Suits	2020-05-17 — 06:30:01 UTC	derekcheah, kalisa, swineherd, XMIL, Zakisan	96	6	30
-168715	5	0	No Variant	2020-05-16 — 17:46:20 UTC	Othnia, robense, sin_faith, swineherd, TimeHoodie	28	5	25
-168705	5	0	No Variant	2020-05-16 — 17:41:09 UTC	Othnia, robense, sin_faith, swineherd, TimeHoodie	31	5	25
-168482	3	25	No Variant	2020-05-16 — 12:48:21 UTC	beccaalaly, derekcheah, swineherd	320	5	25
-168438	4	0	No Variant	2020-05-16 — 11:26:18 UTC	beccaalaly, derekcheah, pianoblook, swineherd	64	5	25
-168394	4	24	No Variant	2020-05-16 — 10:10:40 UTC	beccaalaly, derekcheah, pianoblook, swineherd	70	5	25
+168715	5	0	No Variant	2020-05-16 — 17:46:20 UTC	Othnia, robense, sin_faith, swineherd, TimeHoodie	29	5	25
+168705	5	0	No Variant	2020-05-16 — 17:41:09 UTC	Othnia, robense, sin_faith, swineherd, TimeHoodie	32	5	25
+168482	3	25	No Variant	2020-05-16 — 12:48:21 UTC	beccaalaly, derekcheah, swineherd	324	5	25
+168438	4	0	No Variant	2020-05-16 — 11:26:18 UTC	beccaalaly, derekcheah, pianoblook, swineherd	65	5	25
+168394	4	24	No Variant	2020-05-16 — 10:10:40 UTC	beccaalaly, derekcheah, pianoblook, swineherd	71	5	25
 167117	3	0	Black (5 Suits)	2020-05-15 — 17:46:43 UTC	CastlesInTheAir, sin_faith, swineherd	92	5	25
 167105	3	0	Black (5 Suits)	2020-05-15 — 17:33:31 UTC	CastlesInTheAir, sin_faith, swineherd	101	5	25
-166828	4	0	No Variant	2020-05-15 — 09:50:03 UTC	Animex52, evelyn, hhhhhhhhhhhh, swineherd	2763	5	25
-166723	4	23	No Variant	2020-05-15 — 07:40:34 UTC	mikefrenil, swineherd, vmplays, zumpywumpy	1449	5	25
+166828	4	0	No Variant	2020-05-15 — 09:50:03 UTC	Animex52, evelyn, hhhhhhhhhhhh, swineherd	2788	5	25
+166723	4	23	No Variant	2020-05-15 — 07:40:34 UTC	mikefrenil, swineherd, vmplays, zumpywumpy	1459	5	25
 166502	4	25	No Variant	2020-05-15 — 03:49:15 UTC	Abbysue114, melwen, swineherd, XMIL	52	5	25
 166417	6	23	No Variant	2020-05-15 — 02:48:36 UTC	Hanabiputo, maxnorris13, melwen, qbphoenix, swineherd, XMIL	23	5	25
 165658	5	24	Rainbow (5 Suits)	2020-05-14 — 14:25:59 UTC	honzas, Iullo, Nitrate2, swineherd, TimeHoodie	34	5	25
 165635	6	0	6 Suits	2020-05-14 — 13:50:22 UTC	012984, honzas, Iullo, Nitrate2, swineherd, TimeHoodie	84	6	30
-165623	3	24	Rainbow (5 Suits)	2020-05-14 — 13:10:53 UTC	honzas, Iullo, swineherd	185	5	25
-165528	4	28	Rainbow (6 Suits)	2020-05-14 — 10:09:03 UTC	Iullo, MarkusKahlsen, robense, swineherd	96	6	30
-165216	5	0	No Variant	2020-05-14 — 04:09:02 UTC	anna567, jotatohead, swineherd, will.i.am, XMIL	541	5	25
+165623	3	24	Rainbow (5 Suits)	2020-05-14 — 13:10:53 UTC	honzas, Iullo, swineherd	186	5	25
+165528	4	28	Rainbow (6 Suits)	2020-05-14 — 10:09:03 UTC	Iullo, MarkusKahlsen, robense, swineherd	97	6	30
+165216	5	0	No Variant	2020-05-14 — 04:09:02 UTC	anna567, jotatohead, swineherd, will.i.am, XMIL	546	5	25
 164275	4	25	No Variant	2020-05-13 — 13:45:25 UTC	melwen, sin_faith, swineherd, TimeHoodie	47	5	25
 164264	4	21	No Variant	2020-05-13 — 13:00:23 UTC	melwen, swineherd, TimeHoodie, Zakisan	51	5	25
-164253	4	0	No Variant	2020-05-13 — 12:31:10 UTC	melwen, swineherd, TimeHoodie, Zakisan	52	5	25
-164249	3	0	No Variant	2020-05-13 — 12:17:06 UTC	asaelr, swineherd, TimeHoodie	27	5	25
-164244	4	0	No Variant	2020-05-13 — 12:04:05 UTC	asaelr, JDepp, swineherd, TimeHoodie	23	5	25
-164235	4	0	No Variant	2020-05-13 — 11:37:34 UTC	asaelr, JDepp, swineherd, TimeHoodie	24	5	25
-164215	3	0	6 Suits	2020-05-13 — 10:41:06 UTC	robense, Steve Backshall, swineherd	126	6	30
-164191	5	0	No Variant	2020-05-13 — 08:17:18 UTC	Fey, pianoblook, smallman, ssunfly, swineherd	207	5	25
-164150	5	23	No Variant	2020-05-13 — 07:14:28 UTC	gorlami, loli, smallman, ssunfly, swineherd	457	5	25
-163975	4	0	No Variant	2020-05-13 — 04:31:03 UTC	Aluap, antitelharsic, pianoblook, swineherd	68	5	25
+164253	4	0	No Variant	2020-05-13 — 12:31:10 UTC	melwen, swineherd, TimeHoodie, Zakisan	54	5	25
+164249	3	0	No Variant	2020-05-13 — 12:17:06 UTC	asaelr, swineherd, TimeHoodie	29	5	25
+164244	4	0	No Variant	2020-05-13 — 12:04:05 UTC	asaelr, JDepp, swineherd, TimeHoodie	25	5	25
+164235	4	0	No Variant	2020-05-13 — 11:37:34 UTC	asaelr, JDepp, swineherd, TimeHoodie	26	5	25
+164215	3	0	6 Suits	2020-05-13 — 10:41:06 UTC	robense, Steve Backshall, swineherd	128	6	30
+164191	5	0	No Variant	2020-05-13 — 08:17:18 UTC	Fey, pianoblook, smallman, ssunfly, swineherd	208	5	25
+164150	5	23	No Variant	2020-05-13 — 07:14:28 UTC	gorlami, loli, smallman, ssunfly, swineherd	461	5	25
+163975	4	0	No Variant	2020-05-13 — 04:31:03 UTC	Aluap, antitelharsic, pianoblook, swineherd	69	5	25
 163866	4	25	No Variant	2020-05-13 — 02:55:38 UTC	ADrone, pianoblook, swineherd, will.i.am	71	5	25
-163769	4	22	No Variant	2020-05-13 — 01:41:55 UTC	clemonmp, kapowski, kbocks1, swineherd	1253	5	25
-162534	4	21	No Variant	2020-05-12 — 02:23:06 UTC	Kyle, melwen, mikefrenil, swineherd	25	5	25
-162475	4	0	No Variant	2020-05-12 — 01:48:58 UTC	Abbysue114, melwen, mikefrenil, swineherd	53	5	25
-162452	4	0	No Variant	2020-05-12 — 01:37:27 UTC	maxnorris13, melwen, mikefrenil, swineherd	54	5	25
-162414	4	25	No Variant	2020-05-12 — 01:20:18 UTC	Kyle, melwen, mikefrenil, swineherd	25	5	25
-162278	5	24	No Variant	2020-05-11 — 23:14:25 UTC	aladdin3, Kyle, Shadok, swineherd, XMIL	45	5	25
-162229	2	0	No Variant	2020-05-11 — 22:10:30 UTC	anna567, swineherd	5374	5	25
-162142	4	20	No Variant	2020-05-11 — 20:42:41 UTC	anna567, Fimbrethil, swineherd, Yudicule	1744	5	25
-162045	4	24	No Variant	2020-05-11 — 18:57:30 UTC	Ch1cken, frollo9386, swineherd, will.i.am	326	5	25
-161742	4	29	6 Suits	2020-05-11 — 09:32:24 UTC	Buds, Iullo, robense, swineherd	250	6	30
-161548	4	24	No Variant	2020-05-11 — 04:27:59 UTC	jotatohead, mikefrenil, swineherd, will.i.am	384	5	25
-161452	4	0	No Variant	2020-05-11 — 03:17:09 UTC	claudiob, swineherd, TheDaniMan, XMIL	156	5	25
-161441	5	0	No Variant	2020-05-11 — 03:08:58 UTC	claudiob, maxnorris13, swineherd, TheDaniMan, XMIL	163	5	25
-161425	3	21	No Variant	2020-05-11 — 02:57:30 UTC	FrogOnLog, swineherd, ziggyzach4	4221	5	25
-160874	5	25	No Variant	2020-05-10 — 21:11:18 UTC	Ch1cken, frollo9386, JDepp, swineherd, will.i.am	296	5	25
+163769	4	22	No Variant	2020-05-13 — 01:41:55 UTC	clemonmp, kapowski, kbocks1, swineherd	1267	5	25
+162534	4	21	No Variant	2020-05-12 — 02:23:06 UTC	Kyle, melwen, mikefrenil, swineherd	26	5	25
+162475	4	0	No Variant	2020-05-12 — 01:48:58 UTC	Abbysue114, melwen, mikefrenil, swineherd	55	5	25
+162452	4	0	No Variant	2020-05-12 — 01:37:27 UTC	maxnorris13, melwen, mikefrenil, swineherd	56	5	25
+162414	4	25	No Variant	2020-05-12 — 01:20:18 UTC	Kyle, melwen, mikefrenil, swineherd	26	5	25
+162278	5	24	No Variant	2020-05-11 — 23:14:25 UTC	aladdin3, Kyle, Shadok, swineherd, XMIL	46	5	25
+162229	2	0	No Variant	2020-05-11 — 22:10:30 UTC	anna567, swineherd	5421	5	25
+162142	4	20	No Variant	2020-05-11 — 20:42:41 UTC	anna567, Fimbrethil, swineherd, Yudicule	1759	5	25
+162045	4	24	No Variant	2020-05-11 — 18:57:30 UTC	Ch1cken, frollo9386, swineherd, will.i.am	330	5	25
+161742	4	29	6 Suits	2020-05-11 — 09:32:24 UTC	Buds, Iullo, robense, swineherd	252	6	30
+161548	4	24	No Variant	2020-05-11 — 04:27:59 UTC	jotatohead, mikefrenil, swineherd, will.i.am	387	5	25
+161452	4	0	No Variant	2020-05-11 — 03:17:09 UTC	claudiob, swineherd, TheDaniMan, XMIL	157	5	25
+161441	5	0	No Variant	2020-05-11 — 03:08:58 UTC	claudiob, maxnorris13, swineherd, TheDaniMan, XMIL	166	5	25
+161425	3	21	No Variant	2020-05-11 — 02:57:30 UTC	FrogOnLog, swineherd, ziggyzach4	4250	5	25
+160874	5	25	No Variant	2020-05-10 — 21:11:18 UTC	Ch1cken, frollo9386, JDepp, swineherd, will.i.am	302	5	25
 159940	4	0	No Variant	2020-05-10 — 04:52:16 UTC	login, mikefrenil, swineherd, XMIL	204	5	25
-159044	5	20	No Variant	2020-05-09 — 21:24:03 UTC	Alicja, CastlesInTheAir, JDepp, LaFayetteX, swineherd	120	5	25
+159044	5	20	No Variant	2020-05-09 — 21:24:03 UTC	Alicja, CastlesInTheAir, JDepp, LaFayetteX, swineherd	122	5	25
 157992	4	22	No Variant	2020-05-09 — 03:35:04 UTC	robense, sin_faith, swineherd, XMIL	74	5	25
 157831	5	0	Brown (5 Suits)	2020-05-09 — 02:20:59 UTC	letical, robense, sin_faith, swineherd, XMIL	15	5	25
-157749	5	25	No Variant	2020-05-09 — 01:09:22 UTC	Gueust, honzas, Nitrate2, robense, swineherd	223	5	25
-157657	4	24	No Variant	2020-05-09 — 00:12:27 UTC	honzas, Othnia, robense, swineherd	99	5	25
-157582	5	0	No Variant	2020-05-08 — 22:52:13 UTC	GunPetal, robense, smallman, ssunfly, swineherd	383	5	25
-157499	3	23	No Variant	2020-05-08 — 22:08:54 UTC	gogo_superstar, sofia4596, swineherd	1095	5	25
+157749	5	25	No Variant	2020-05-09 — 01:09:22 UTC	Gueust, honzas, Nitrate2, robense, swineherd	226	5	25
+157657	4	24	No Variant	2020-05-09 — 00:12:27 UTC	honzas, Othnia, robense, swineherd	100	5	25
+157582	5	0	No Variant	2020-05-08 — 22:52:13 UTC	GunPetal, robense, smallman, ssunfly, swineherd	384	5	25
+157499	3	23	No Variant	2020-05-08 — 22:08:54 UTC	gogo_superstar, sofia4596, swineherd	1102	5	25

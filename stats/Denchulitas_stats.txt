@@ -18,26 +18,26 @@
 487311	4	0	Light Pink (5 Suits)	2021-04-01 — 10:22:05 UTC	Denchulitas, possum, qqqq, swineherd	6	5	25
 487288	5	0	Dark Rainbow (6 Suits)	2021-04-01 — 09:33:50 UTC	cockdestroyer, Denchulitas, knaphill, Wittvector, Zakisan	10	6	30
 487279	5	0	Dark Rainbow (6 Suits)	2021-04-01 — 09:04:20 UTC	cockdestroyer, Denchulitas, knaphill, Wittvector, Zakisan	9	6	30
-487273	3	0	Rainbow & White (6 Suits)	2021-04-01 — 08:46:28 UTC	Denchulitas, Wittvector, Zakisan	32	6	30
-487268	3	0	Rainbow & White (6 Suits)	2021-04-01 — 08:37:41 UTC	Denchulitas, Wittvector, Zakisan	46	6	30
+487273	3	0	Rainbow & White (6 Suits)	2021-04-01 — 08:46:28 UTC	Denchulitas, Wittvector, Zakisan	33	6	30
+487268	3	0	Rainbow & White (6 Suits)	2021-04-01 — 08:37:41 UTC	Denchulitas, Wittvector, Zakisan	48	6	30
 487265	2	24	Black & Dark Omni (6 Suits)	2021-04-01 — 08:20:21 UTC	Denchulitas, possum	10	6	30
 486698	4	0	Pink & Brown (5 Suits)	2021-03-31 — 20:23:17 UTC	Denchulitas, Onen, rz, sephiroth	4	5	25
 486678	6	0	Black & Brown (6 Suits)	2021-03-31 — 20:08:48 UTC	CaitlinSmith, Denchulitas, knaphill, Onen, sephiroth, Syrah	3	6	30
 486660	6	0	Black & Brown (6 Suits)	2021-03-31 — 19:54:47 UTC	CaitlinSmith, Denchulitas, knaphill, Onen, sephiroth, Syrah	4	6	30
-486639	3	0	Black & Brown (5 Suits)	2021-03-31 — 19:44:27 UTC	CaitlinSmith, Denchulitas, sephiroth	1	5	25
-486623	2	0	Rainbow (5 Suits)	2021-03-31 — 19:37:43 UTC	Denchulitas, sephiroth	248	5	25
-485844	2	20	Rainbow (4 Suits)	2021-03-30 — 22:12:32 UTC	Denchulitas, sephiroth	76	4	20
-485833	2	19	Rainbow (4 Suits)	2021-03-30 — 22:04:37 UTC	Denchulitas, sephiroth	132	4	20
+486639	3	0	Black & Brown (5 Suits)	2021-03-31 — 19:44:27 UTC	CaitlinSmith, Denchulitas, sephiroth	2	5	25
+486623	2	0	Rainbow (5 Suits)	2021-03-31 — 19:37:43 UTC	Denchulitas, sephiroth	257	5	25
+485844	2	20	Rainbow (4 Suits)	2021-03-30 — 22:12:32 UTC	Denchulitas, sephiroth	77	4	20
+485833	2	19	Rainbow (4 Suits)	2021-03-30 — 22:04:37 UTC	Denchulitas, sephiroth	135	4	20
 485807	3	23	Rainbow & Dark Omni (5 Suits)	2021-03-30 — 21:46:57 UTC	ChristopheAF, Denchulitas, sephiroth	5	5	25
-485780	2	30	Black (6 Suits)	2021-03-30 — 21:26:11 UTC	Denchulitas, sephiroth	255	6	30
-485313	2	0	Black (6 Suits)	2021-03-30 — 09:44:41 UTC	Denchulitas, sephiroth	300	6	30
-485311	2	0	Black (6 Suits)	2021-03-30 — 09:40:19 UTC	Denchulitas, sephiroth	325	6	30
+485780	2	30	Black (6 Suits)	2021-03-30 — 21:26:11 UTC	Denchulitas, sephiroth	259	6	30
+485313	2	0	Black (6 Suits)	2021-03-30 — 09:44:41 UTC	Denchulitas, sephiroth	306	6	30
+485311	2	0	Black (6 Suits)	2021-03-30 — 09:40:19 UTC	Denchulitas, sephiroth	332	6	30
 485296	3	14	Omni (3 Suits)	2021-03-30 — 09:01:19 UTC	BraydonM, Denchulitas, knaphill	26	3	15
-485285	2	14	Omni (3 Suits)	2021-03-30 — 08:41:52 UTC	BraydonM, Denchulitas	49	3	15
-485282	2	11	Omni (3 Suits)	2021-03-30 — 08:29:28 UTC	BraydonM, Denchulitas	66	3	15
-484665	3	0	Black & Brown (5 Suits)	2021-03-29 — 20:03:17 UTC	CaitlinSmith, Denchulitas, knaphill	1	5	25
-484648	3	0	Black & Brown (5 Suits)	2021-03-29 — 19:42:32 UTC	CaitlinSmith, Denchulitas, knaphill	2	5	25
-484644	3	0	Black & Brown (5 Suits)	2021-03-29 — 19:36:08 UTC	CaitlinSmith, Denchulitas, knaphill	3	5	25
+485285	2	14	Omni (3 Suits)	2021-03-30 — 08:41:52 UTC	BraydonM, Denchulitas	52	3	15
+485282	2	11	Omni (3 Suits)	2021-03-30 — 08:29:28 UTC	BraydonM, Denchulitas	70	3	15
+484665	3	0	Black & Brown (5 Suits)	2021-03-29 — 20:03:17 UTC	CaitlinSmith, Denchulitas, knaphill	2	5	25
+484648	3	0	Black & Brown (5 Suits)	2021-03-29 — 19:42:32 UTC	CaitlinSmith, Denchulitas, knaphill	3	5	25
+484644	3	0	Black & Brown (5 Suits)	2021-03-29 — 19:36:08 UTC	CaitlinSmith, Denchulitas, knaphill	5	5	25
 484616	5	27	Gray (6 Suits)	2021-03-29 — 19:07:30 UTC	Denchulitas, Lanvin, MangoPie, melwen, Onen	2	6	30
 483423	4	23	Black & Dark Omni (6 Suits)	2021-03-28 — 14:51:44 UTC	DarthGandalf, Denchulitas, MangoPie, wump	3	6	30
 483411	4	0	Black & Dark Omni (6 Suits)	2021-03-28 — 14:28:37 UTC	DarthGandalf, Denchulitas, MangoPie, wump	3	6	30
@@ -46,8 +46,8 @@
 482269	4	0	Black & Brown (5 Suits)	2021-03-27 — 12:15:31 UTC	CaitlinSmith, Denchulitas, knaphill, sephiroth	2	5	25
 482265	3	0	Black & Brown (5 Suits)	2021-03-27 — 12:01:28 UTC	CaitlinSmith, Denchulitas, knaphill	14	5	25
 481658	4	23	Dark Omni (5 Suits)	2021-03-26 — 22:44:50 UTC	Denchulitas, jeff10, sephiroth, Wittvector	1	5	25
-481418	3	0	No Variant	2021-03-26 — 19:36:25 UTC	Denchulitas, Doge, eljavi	160	5	25
-481412	3	0	No Variant	2021-03-26 — 19:28:11 UTC	Denchulitas, Doge, eljavi	164	5	25
+481418	3	0	No Variant	2021-03-26 — 19:36:25 UTC	Denchulitas, Doge, eljavi	163	5	25
+481412	3	0	No Variant	2021-03-26 — 19:28:11 UTC	Denchulitas, Doge, eljavi	167	5	25
 480557	5	28	Prism (6 Suits)	2021-03-25 — 22:09:09 UTC	Aluap, Damian000, Denchulitas, Doge, sephiroth	7	6	30
 480519	5	0	Prism (6 Suits)	2021-03-25 — 21:43:02 UTC	Aluap, Damian000, Denchulitas, Doge, sephiroth	9	6	30
 480451	3	22	Dark Omni (5 Suits)	2021-03-25 — 20:49:35 UTC	Denchulitas, MangoPie, VerySloppyTwo	5	5	25
@@ -61,45 +61,45 @@
 480047	2	30	Dark Omni (6 Suits)	2021-03-25 — 12:42:35 UTC	Denchulitas, sephiroth	19	6	30
 480044	2	24	Dark Omni (6 Suits)	2021-03-25 — 12:34:30 UTC	Denchulitas, sephiroth	21	6	30
 480042	2	0	Dark Omni (6 Suits)	2021-03-25 — 12:23:41 UTC	Denchulitas, sephiroth	22	6	30
-480041	2	0	Dark Omni (6 Suits)	2021-03-25 — 12:22:59 UTC	Denchulitas, sephiroth	26	6	30
+480041	2	0	Dark Omni (6 Suits)	2021-03-25 — 12:22:59 UTC	Denchulitas, sephiroth	27	6	30
 480022	2	30	Dark Omni (6 Suits)	2021-03-25 — 11:03:06 UTC	Denchulitas, possum	39	6	30
-479442	4	26	Dark Omni (6 Suits)	2021-03-24 — 21:00:26 UTC	Denchulitas, IsabeltheCat, newduke, sephiroth	14	6	30
+479442	4	26	Dark Omni (6 Suits)	2021-03-24 — 21:00:26 UTC	Denchulitas, IsabeltheCat, newduke, sephiroth	15	6	30
 479397	2	29	Dark Omni (6 Suits)	2021-03-24 — 20:33:25 UTC	Denchulitas, IsabeltheCat	42	6	30
 479363	4	0	Rainbow & Brown (3 Suits)	2021-03-24 — 20:11:54 UTC	Denchulitas, HelanaAshryvr, Lanvin, newduke	2	3	15
-479324	4	0	Dark Pink (6 Suits)	2021-03-24 — 19:51:10 UTC	Denchulitas, jeff10, kevincaseytdk1, Wittvector	11	6	30
-477890	2	23	Omni (5 Suits)	2021-03-23 — 10:34:02 UTC	Denchulitas, sephiroth	78	5	25
-477888	2	0	Omni (5 Suits)	2021-03-23 — 10:22:26 UTC	Denchulitas, sephiroth	106	5	25
+479324	4	0	Dark Pink (6 Suits)	2021-03-24 — 19:51:10 UTC	Denchulitas, jeff10, kevincaseytdk1, Wittvector	12	6	30
+477890	2	23	Omni (5 Suits)	2021-03-23 — 10:34:02 UTC	Denchulitas, sephiroth	81	5	25
+477888	2	0	Omni (5 Suits)	2021-03-23 — 10:22:26 UTC	Denchulitas, sephiroth	110	5	25
 477886	2	25	Dark Pink (5 Suits)	2021-03-23 — 10:21:32 UTC	Denchulitas, sephiroth	58	5	25
-477882	2	25	Dark Omni (5 Suits)	2021-03-23 — 10:11:53 UTC	Denchulitas, sephiroth	19	5	25
-477879	2	24	Dark Omni (5 Suits)	2021-03-23 — 10:02:56 UTC	Denchulitas, sephiroth	20	5	25
-477876	2	0	Dark Omni (5 Suits)	2021-03-23 — 09:52:59 UTC	Denchulitas, sephiroth	20	5	25
-477873	2	24	Dark Omni (5 Suits)	2021-03-23 — 09:33:52 UTC	Denchulitas, sephiroth	35	5	25
-477872	2	0	Dark Omni (5 Suits)	2021-03-23 — 09:22:28 UTC	Denchulitas, sephiroth	47	5	25
-476850	3	0	Dark Pink (6 Suits)	2021-03-22 — 14:34:56 UTC	Denchulitas, knaphill, MissFinesse	24	6	30
-476804	4	21	Gray (5 Suits)	2021-03-22 — 12:11:30 UTC	Aluap, Denchulitas, possum, sephiroth	12	5	25
-476793	4	0	Gray (5 Suits)	2021-03-22 — 11:37:29 UTC	Aluap, Denchulitas, possum, sephiroth	13	5	25
-476779	4	0	Dark Pink (6 Suits)	2021-03-22 — 10:54:51 UTC	Aluap, Denchulitas, possum, sephiroth	29	6	30
-476774	2	27	Dark Pink (6 Suits)	2021-03-22 — 10:29:10 UTC	Denchulitas, possum	50	6	30
-476771	2	0	Dark Pink (6 Suits)	2021-03-22 — 10:12:04 UTC	Denchulitas, possum	56	6	30
+477882	2	25	Dark Omni (5 Suits)	2021-03-23 — 10:11:53 UTC	Denchulitas, sephiroth	20	5	25
+477879	2	24	Dark Omni (5 Suits)	2021-03-23 — 10:02:56 UTC	Denchulitas, sephiroth	21	5	25
+477876	2	0	Dark Omni (5 Suits)	2021-03-23 — 09:52:59 UTC	Denchulitas, sephiroth	21	5	25
+477873	2	24	Dark Omni (5 Suits)	2021-03-23 — 09:33:52 UTC	Denchulitas, sephiroth	36	5	25
+477872	2	0	Dark Omni (5 Suits)	2021-03-23 — 09:22:28 UTC	Denchulitas, sephiroth	50	5	25
+476850	3	0	Dark Pink (6 Suits)	2021-03-22 — 14:34:56 UTC	Denchulitas, knaphill, MissFinesse	25	6	30
+476804	4	21	Gray (5 Suits)	2021-03-22 — 12:11:30 UTC	Aluap, Denchulitas, possum, sephiroth	14	5	25
+476793	4	0	Gray (5 Suits)	2021-03-22 — 11:37:29 UTC	Aluap, Denchulitas, possum, sephiroth	15	5	25
+476779	4	0	Dark Pink (6 Suits)	2021-03-22 — 10:54:51 UTC	Aluap, Denchulitas, possum, sephiroth	30	6	30
+476774	2	27	Dark Pink (6 Suits)	2021-03-22 — 10:29:10 UTC	Denchulitas, possum	53	6	30
+476771	2	0	Dark Pink (6 Suits)	2021-03-22 — 10:12:04 UTC	Denchulitas, possum	59	6	30
 476315	3	25	Dark Pink (5 Suits)	2021-03-21 — 22:02:16 UTC	Denchulitas, sephiroth, VerySloppyTwo	11	5	25
 476295	4	0	Pink & Prism (6 Suits)	2021-03-21 — 21:42:26 UTC	Denchulitas, Lanvin, Onen, sephiroth	5	6	30
 476286	4	0	Pink & Prism (6 Suits)	2021-03-21 — 21:27:51 UTC	Denchulitas, Lanvin, Onen, sephiroth	8	6	30
-476064	2	0	Dark Pink (6 Suits)	2021-03-21 — 19:14:59 UTC	Denchulitas, Kyle	29	6	30
-476037	2	27	Dark Pink (6 Suits)	2021-03-21 — 19:00:48 UTC	Denchulitas, Kyle	32	6	30
+476064	2	0	Dark Pink (6 Suits)	2021-03-21 — 19:14:59 UTC	Denchulitas, Kyle	31	6	30
+476037	2	27	Dark Pink (6 Suits)	2021-03-21 — 19:00:48 UTC	Denchulitas, Kyle	34	6	30
 475960	3	0	Pink & Brown (4 Suits)	2021-03-21 — 17:55:44 UTC	Denchulitas, Fey, MarkusKahlsen	6	4	20
 475945	4	22	Prism & Dark Pink (5 Suits)	2021-03-21 — 17:30:24 UTC	Denchulitas, Fey, narabio, sephiroth	2	5	25
 475929	3	0	Dark Pink (6 Suits)	2021-03-21 — 17:05:18 UTC	Denchulitas, MarkusKahlsen, sephiroth	11	6	30
 475918	3	0	Dark Pink (6 Suits)	2021-03-21 — 16:46:06 UTC	Denchulitas, MarkusKahlsen, sephiroth	13	6	30
 475913	3	0	Pink & Brown (4 Suits)	2021-03-21 — 16:34:28 UTC	Denchulitas, MarkusKahlsen, sephiroth	12	4	20
 475242	3	29	Dark Pink (6 Suits)	2021-03-21 — 00:12:39 UTC	Denchulitas, sephiroth, vEnhance	15	6	30
-475169	3	0	Dark Pink (5 Suits)	2021-03-20 — 22:56:42 UTC	Denchulitas, IsabeltheCat, jeff10	11	5	25
+475169	3	0	Dark Pink (5 Suits)	2021-03-20 — 22:56:42 UTC	Denchulitas, IsabeltheCat, jeff10	12	5	25
 475149	3	0	Dark Pink (5 Suits)	2021-03-20 — 22:39:47 UTC	Denchulitas, IsabeltheCat, jeff10	17	5	25
 475130	3	21	Dark Pink (5 Suits)	2021-03-20 — 22:21:40 UTC	Denchulitas, IsabeltheCat, jeff10	19	5	25
 474819	5	0	Rainbow & Prism (6 Suits)	2021-03-20 — 15:53:03 UTC	Aluap, DarthGandalf, Denchulitas, possum, qqqq	11	6	30
 474815	4	0	Dark Pink (5 Suits)	2021-03-20 — 15:31:36 UTC	Aluap, Denchulitas, possum, sephiroth	1	5	25
-474805	3	22	Dark Pink (5 Suits)	2021-03-20 — 15:12:16 UTC	Aluap, Denchulitas, possum	22	5	25
-474799	3	0	Dark Pink (5 Suits)	2021-03-20 — 14:53:18 UTC	Aluap, Denchulitas, possum	26	5	25
-474794	4	29	Dark Pink (6 Suits)	2021-03-20 — 14:34:35 UTC	Denchulitas, Lel0uch, MangoPie, possum	23	6	30
+474805	3	22	Dark Pink (5 Suits)	2021-03-20 — 15:12:16 UTC	Aluap, Denchulitas, possum	23	5	25
+474799	3	0	Dark Pink (5 Suits)	2021-03-20 — 14:53:18 UTC	Aluap, Denchulitas, possum	27	5	25
+474794	4	29	Dark Pink (6 Suits)	2021-03-20 — 14:34:35 UTC	Denchulitas, Lel0uch, MangoPie, possum	24	6	30
 473863	5	0	Dark Pink (6 Suits)	2021-03-19 — 20:53:43 UTC	Denchulitas, Fey, Lanvin, Nitrate, Syrah	7	6	30
 473856	5	0	Brown (6 Suits)	2021-03-19 — 20:40:38 UTC	Denchulitas, Fey, Lanvin, Nitrate, Syrah	5	6	30
 473843	5	27	Brown (6 Suits)	2021-03-19 — 20:26:04 UTC	Denchulitas, Fey, Lanvin, Nitrate, Syrah	10	6	30
@@ -108,23 +108,23 @@
 473501	5	0	Dark Pink (6 Suits)	2021-03-19 — 10:03:25 UTC	boba, Denchulitas, orucsoraihc, sephiroth, Sucubis	2	6	30
 473497	5	0	Dark Pink (6 Suits)	2021-03-19 — 09:52:57 UTC	boba, Denchulitas, orucsoraihc, sephiroth, Sucubis	3	6	30
 472854	4	30	Black (6 Suits)	2021-03-18 — 22:11:28 UTC	Damian000, DarthGandalf, Denchulitas, nkkarpov	42	6	30
-472785	4	26	Black (6 Suits)	2021-03-18 — 21:33:59 UTC	Damian000, DarthGandalf, Denchulitas, nkkarpov	45	6	30
+472785	4	26	Black (6 Suits)	2021-03-18 — 21:33:59 UTC	Damian000, DarthGandalf, Denchulitas, nkkarpov	46	6	30
 472736	4	0	Black (6 Suits)	2021-03-18 — 21:05:56 UTC	Damian000, DarthGandalf, Denchulitas, nkkarpov	49	6	30
 472335	4	0	Dark Pink (5 Suits)	2021-03-18 — 11:55:38 UTC	Aluap, Denchulitas, possum, Spieler42	10	5	25
 472332	4	0	Dark Pink (5 Suits)	2021-03-18 — 11:37:11 UTC	Aluap, Denchulitas, possum, Spieler42	9	5	25
 472331	4	0	Dark Pink (5 Suits)	2021-03-18 — 11:29:46 UTC	Aluap, Denchulitas, possum, Spieler42	11	5	25
-472327	4	20	Dark Pink (5 Suits)	2021-03-18 — 10:58:25 UTC	Aluap, Denchulitas, possum, Spieler42	20	5	25
-472314	3	0	Dark Pink (6 Suits)	2021-03-18 — 10:23:39 UTC	Aluap, Denchulitas, possum	41	6	30
+472327	4	20	Dark Pink (5 Suits)	2021-03-18 — 10:58:25 UTC	Aluap, Denchulitas, possum, Spieler42	21	5	25
+472314	3	0	Dark Pink (6 Suits)	2021-03-18 — 10:23:39 UTC	Aluap, Denchulitas, possum	42	6	30
 472302	3	23	Dark Pink (5 Suits)	2021-03-18 — 09:30:32 UTC	Denchulitas, possum, skyblueexo	38	5	25
-472295	3	0	Dark Pink (5 Suits)	2021-03-18 — 09:04:20 UTC	Denchulitas, possum, skyblueexo	42	5	25
+472295	3	0	Dark Pink (5 Suits)	2021-03-18 — 09:04:20 UTC	Denchulitas, possum, skyblueexo	44	5	25
 471846	3	20	Rainbow & Pink (4 Suits)	2021-03-17 — 22:28:17 UTC	Denchulitas, sephiroth, VerySloppyTwo	3	4	20
 471829	3	0	Rainbow & Pink (4 Suits)	2021-03-17 — 22:14:45 UTC	Denchulitas, sephiroth, VerySloppyTwo	7	4	20
 471803	3	19	Rainbow & Pink (4 Suits)	2021-03-17 — 21:54:13 UTC	Denchulitas, sephiroth, VerySloppyTwo	11	4	20
-471711	3	30	Dark Pink (6 Suits)	2021-03-17 — 21:23:25 UTC	Denchulitas, sephiroth, VerySloppyTwo	17	6	30
-471545	4	30	Dark Pink (6 Suits)	2021-03-17 — 19:57:36 UTC	Denchulitas, kevincaseytdk1, sephiroth, swineherd	4	6	30
-471285	3	0	Dark Pink (6 Suits)	2021-03-17 — 13:27:48 UTC	Denchulitas, jeff10, melwen	34	6	30
-471275	4	0	Black & White (6 Suits)	2021-03-17 — 12:47:26 UTC	Denchulitas, knaphill, Lanvin, qqqq	7	6	30
-471271	4	0	Black & White (6 Suits)	2021-03-17 — 12:31:05 UTC	Denchulitas, knaphill, Lanvin, qqqq	9	6	30
+471711	3	30	Dark Pink (6 Suits)	2021-03-17 — 21:23:25 UTC	Denchulitas, sephiroth, VerySloppyTwo	18	6	30
+471545	4	30	Dark Pink (6 Suits)	2021-03-17 — 19:57:36 UTC	Denchulitas, kevincaseytdk1, sephiroth, swineherd	5	6	30
+471285	3	0	Dark Pink (6 Suits)	2021-03-17 — 13:27:48 UTC	Denchulitas, jeff10, melwen	35	6	30
+471275	4	0	Black & White (6 Suits)	2021-03-17 — 12:47:26 UTC	Denchulitas, knaphill, Lanvin, qqqq	8	6	30
+471271	4	0	Black & White (6 Suits)	2021-03-17 — 12:31:05 UTC	Denchulitas, knaphill, Lanvin, qqqq	10	6	30
 471249	5	0	Black (5 Suits)	2021-03-17 — 10:11:06 UTC	Denchulitas, possum, qqqq, sephiroth, VerySloppyTwo	11	5	25
 471247	3	0	Pink (5 Suits)	2021-03-17 — 09:59:04 UTC	Denchulitas, possum, sephiroth	20	5	25
 471242	3	0	Pink (5 Suits)	2021-03-17 — 09:32:38 UTC	Denchulitas, possum, sephiroth	23	5	25
@@ -135,33 +135,33 @@
 470121	5	0	Pink (5 Suits)	2021-03-16 — 13:16:21 UTC	Denchulitas, Lanvin, possum, sephiroth, swineherd	12	5	25
 470094	3	0	Rainbow-Ones & Rainbow (5 Suits)	2021-03-16 — 12:33:48 UTC	Denchulitas, Lel0uch, sephiroth	1	5	25
 470091	3	0	Rainbow-Ones & Rainbow (5 Suits)	2021-03-16 — 12:23:07 UTC	Denchulitas, Lel0uch, sephiroth	2	5	25
-470083	3	15	3 Suits	2021-03-16 — 11:50:39 UTC	Denchulitas, possum, qqqq	43	3	15
-470080	3	14	3 Suits	2021-03-16 — 11:41:54 UTC	Denchulitas, possum, qqqq	51	3	15
-470078	3	14	3 Suits	2021-03-16 — 11:32:02 UTC	Denchulitas, possum, qqqq	88	3	15
-470074	2	0	Prism (3 Suits)	2021-03-16 — 11:20:15 UTC	Denchulitas, possum	52	3	15
+470083	3	15	3 Suits	2021-03-16 — 11:50:39 UTC	Denchulitas, possum, qqqq	45	3	15
+470080	3	14	3 Suits	2021-03-16 — 11:41:54 UTC	Denchulitas, possum, qqqq	52	3	15
+470078	3	14	3 Suits	2021-03-16 — 11:32:02 UTC	Denchulitas, possum, qqqq	90	3	15
+470074	2	0	Prism (3 Suits)	2021-03-16 — 11:20:15 UTC	Denchulitas, possum	57	3	15
 470071	3	0	Pink (6 Suits)	2021-03-16 — 11:01:25 UTC	Denchulitas, possum, robense	37	6	30
 470065	5	0	Black (6 Suits)	2021-03-16 — 10:31:54 UTC	Denchulitas, possum, qqqq, sephiroth, VerySloppyTwo	14	6	30
 469396	5	24	Pink (5 Suits)	2021-03-15 — 21:38:50 UTC	DarthGandalf, Denchulitas, knaphill, nkkarpov, rahsosprout	14	5	25
 468941	4	30	Pink (6 Suits)	2021-03-15 — 11:52:08 UTC	Denchulitas, knaphill, possum, qqqq	30	6	30
 468905	4	30	Rainbow & Pink (6 Suits)	2021-03-15 — 10:15:31 UTC	Denchulitas, possum, sephiroth, VerySloppyTwo	22	6	30
-468894	3	28	Rainbow & Pink (6 Suits)	2021-03-15 — 09:27:18 UTC	Denchulitas, dobi, sephiroth	39	6	30
+468894	3	28	Rainbow & Pink (6 Suits)	2021-03-15 — 09:27:18 UTC	Denchulitas, dobi, sephiroth	40	6	30
 468287	4	0	Pink (5 Suits)	2021-03-14 — 20:21:54 UTC	Arcee, Denchulitas, rz, wump	51	5	25
-468228	3	24	Pink (5 Suits)	2021-03-14 — 19:41:10 UTC	Arcee, Denchulitas, rz	43	5	25
+468228	3	24	Pink (5 Suits)	2021-03-14 — 19:41:10 UTC	Arcee, Denchulitas, rz	44	5	25
 466974	4	0	White & Prism (6 Suits)	2021-03-13 — 20:53:04 UTC	Denchulitas, Lanvin, squirrel1988, VerySloppyTwo	6	6	30
-466812	3	0	Pink (5 Suits)	2021-03-13 — 17:20:54 UTC	Denchulitas, griff77, sephiroth	49	5	25
+466812	3	0	Pink (5 Suits)	2021-03-13 — 17:20:54 UTC	Denchulitas, griff77, sephiroth	51	5	25
 466778	4	0	Pink (5 Suits)	2021-03-13 — 16:58:58 UTC	Bot-Fiora, Denchulitas, griff77, sephiroth	13	5	25
-466660	3	0	No Variant	2021-03-13 — 11:56:28 UTC	Denchulitas, possum, Spieler42	77	5	25
-466659	3	0	No Variant	2021-03-13 — 11:55:28 UTC	Denchulitas, possum, Spieler42	83	5	25
+466660	3	0	No Variant	2021-03-13 — 11:56:28 UTC	Denchulitas, possum, Spieler42	78	5	25
+466659	3	0	No Variant	2021-03-13 — 11:55:28 UTC	Denchulitas, possum, Spieler42	86	5	25
 466657	5	30	Prism & Gray (6 Suits)	2021-03-13 — 11:33:29 UTC	Denchulitas, narabio, possum, sephiroth, Spieler42	3	6	30
 466650	3	27	Black & White (6 Suits)	2021-03-13 — 11:03:15 UTC	Denchulitas, narabio, Spieler42	13	6	30
-465951	5	18	Rainbow (4 Suits)	2021-03-12 — 21:42:01 UTC	ADrone, Arcee, CaitlinSmith, Denchulitas, knaphill	16	4	20
-465916	5	0	Rainbow (4 Suits)	2021-03-12 — 21:24:09 UTC	ADrone, Arcee, CaitlinSmith, Denchulitas, knaphill	20	4	20
+465951	5	18	Rainbow (4 Suits)	2021-03-12 — 21:42:01 UTC	ADrone, Arcee, CaitlinSmith, Denchulitas, knaphill	17	4	20
+465916	5	0	Rainbow (4 Suits)	2021-03-12 — 21:24:09 UTC	ADrone, Arcee, CaitlinSmith, Denchulitas, knaphill	21	4	20
 465878	4	25	Rainbow (5 Suits)	2021-03-12 — 21:04:16 UTC	Damian000, Denchulitas, knaphill, MarcLovesDogs	54	5	25
-465851	4	0	Rainbow (5 Suits)	2021-03-12 — 20:36:49 UTC	Damian000, Denchulitas, knaphill, MarcLovesDogs	130	5	25
+465851	4	0	Rainbow (5 Suits)	2021-03-12 — 20:36:49 UTC	Damian000, Denchulitas, knaphill, MarcLovesDogs	131	5	25
 465840	4	25	No Variant	2021-03-12 — 20:22:57 UTC	Damian000, Denchulitas, knaphill, MarcLovesDogs	116	5	25
 465824	3	27	Black & White (6 Suits)	2021-03-12 — 19:53:17 UTC	Denchulitas, knaphill, narabio	13	6	30
 465648	3	30	Rainbow & Brown (6 Suits)	2021-03-12 — 14:52:03 UTC	Denchulitas, possum, sephiroth	23	6	30
-465624	3	24	White & Prism (5 Suits)	2021-03-12 — 14:06:04 UTC	Denchulitas, jack67889, possum	7	5	25
+465624	3	24	White & Prism (5 Suits)	2021-03-12 — 14:06:04 UTC	Denchulitas, jack67889, possum	8	5	25
 465613	3	0	White & Prism (5 Suits)	2021-03-12 — 13:32:55 UTC	Denchulitas, jack67889, possum	10	5	25
 465599	3	0	White & Prism (5 Suits)	2021-03-12 — 13:07:52 UTC	Denchulitas, jack67889, possum	16	5	25
 465597	3	20	Rainbow & Prism (4 Suits)	2021-03-12 — 13:01:05 UTC	Denchulitas, jack67889, possum	3	4	20
@@ -174,15 +174,15 @@
 464915	3	0	Black & White (6 Suits)	2021-03-11 — 20:37:44 UTC	DarthGandalf, Denchulitas, Lanvin	12	6	30
 464830	3	0	White & Prism (6 Suits)	2021-03-11 — 19:31:47 UTC	bjnh, Denchulitas, Lanvin	1	6	30
 464615	4	0	Rainbow (5 Suits)	2021-03-11 — 14:32:23 UTC	Aluap, Denchulitas, Spieler42, wolfpack	63	5	25
-464601	4	0	Rainbow (5 Suits)	2021-03-11 — 14:10:50 UTC	Aluap, Denchulitas, Spieler42, wolfpack	92	5	25
+464601	4	0	Rainbow (5 Suits)	2021-03-11 — 14:10:50 UTC	Aluap, Denchulitas, Spieler42, wolfpack	93	5	25
 464588	3	27	Black & White (6 Suits)	2021-03-11 — 13:44:06 UTC	Aluap, Denchulitas, wolfpack	13	6	30
 463815	3	0	White & Prism (6 Suits)	2021-03-10 — 19:57:00 UTC	Denchulitas, dobi, sephiroth	3	6	30
-463786	2	27	Black (6 Suits)	2021-03-10 — 19:24:07 UTC	Denchulitas, newduke	442	6	30
+463786	2	27	Black (6 Suits)	2021-03-10 — 19:24:07 UTC	Denchulitas, newduke	450	6	30
 463550	4	21	Rainbow & Dark Brown (5 Suits)	2021-03-10 — 14:05:30 UTC	asaelr, Denchulitas, Hoodie, swineherd	3	5	25
 463540	4	0	Rainbow & Dark Brown (5 Suits)	2021-03-10 — 13:44:16 UTC	asaelr, Denchulitas, Hoodie, swineherd	4	5	25
 463532	4	0	Rainbow & Dark Brown (5 Suits)	2021-03-10 — 13:30:48 UTC	asaelr, Denchulitas, Hoodie, swineherd	5	5	25
 463528	4	0	Rainbow & Dark Brown (5 Suits)	2021-03-10 — 13:17:33 UTC	asaelr, Denchulitas, Hoodie, swineherd	5	5	25
-463490	4	25	Black (5 Suits)	2021-03-10 — 11:49:10 UTC	Denchulitas, eliclax, hakha3, Lanvin	9	5	25
+463490	4	25	Black (5 Suits)	2021-03-10 — 11:49:10 UTC	Denchulitas, eliclax, hakha3, Lanvin	10	5	25
 463482	6	25	Rainbow & Brown (5 Suits)	2021-03-10 — 11:23:25 UTC	Denchulitas, eliclax, hakha3, indego, qqqq, sephiroth	3	5	25
 463477	3	18	White & Brown (4 Suits)	2021-03-10 — 10:59:11 UTC	Denchulitas, indego, sephiroth	9	4	20
 463474	4	25	White & Brown (5 Suits)	2021-03-10 — 10:37:53 UTC	cockdestroyer, Denchulitas, robense, sephiroth	18	5	25
@@ -193,8 +193,8 @@
 462334	3	30	White & Brown (6 Suits)	2021-03-09 — 13:20:46 UTC	BananaBum, Denchulitas, sephiroth	12	6	30
 462293	6	27	Brown (6 Suits)	2021-03-09 — 11:47:37 UTC	cockdestroyer, Denchulitas, nitawa, Nitrate2, sephiroth, VerySloppyTwo	2	6	30
 462282	5	0	White & Brown (6 Suits)	2021-03-09 — 11:14:31 UTC	cockdestroyer, Denchulitas, nitawa, sephiroth, VerySloppyTwo	3	6	30
-462280	3	0	White & Brown (6 Suits)	2021-03-09 — 10:56:32 UTC	Denchulitas, sephiroth, VerySloppyTwo	16	6	30
-462273	3	0	White & Brown (6 Suits)	2021-03-09 — 10:04:23 UTC	Denchulitas, sephiroth, VerySloppyTwo	20	6	30
+462280	3	0	White & Brown (6 Suits)	2021-03-09 — 10:56:32 UTC	Denchulitas, sephiroth, VerySloppyTwo	17	6	30
+462273	3	0	White & Brown (6 Suits)	2021-03-09 — 10:04:23 UTC	Denchulitas, sephiroth, VerySloppyTwo	21	6	30
 461782	3	15	Rainbow-Ones (3 Suits)	2021-03-08 — 22:14:59 UTC	Denchulitas, sephiroth, VerySloppyTwo	7	3	15
 461750	3	30	Rainbow & Prism (6 Suits)	2021-03-08 — 21:58:20 UTC	Denchulitas, sephiroth, VerySloppyTwo	10	6	30
 461673	4	0	Dark Prism (6 Suits)	2021-03-08 — 21:10:49 UTC	BraydonM, Denchulitas, Nitrate, sephiroth	14	6	30
@@ -208,35 +208,35 @@
 460107	5	0	Black & White (6 Suits)	2021-03-07 — 14:37:53 UTC	Denchulitas, eliclax, Lanvin, robense, Spieler42	3	6	30
 460089	3	0	Dark Prism (6 Suits)	2021-03-07 — 13:58:02 UTC	Denchulitas, Lanvin, sephiroth	1	6	30
 459365	3	25	Dark Prism (5 Suits)	2021-03-06 — 23:28:38 UTC	Denchulitas, ricardodd, sephiroth	23	5	25
-459327	3	26	Black & White (6 Suits)	2021-03-06 — 23:08:18 UTC	Denchulitas, ricardodd, sephiroth	15	6	30
+459327	3	26	Black & White (6 Suits)	2021-03-06 — 23:08:18 UTC	Denchulitas, ricardodd, sephiroth	16	6	30
 458880	3	29	Prism (6 Suits)	2021-03-06 — 15:33:00 UTC	Denchulitas, eljavi, wolfpack	5	6	30
 458859	6	0	Black & Rainbow (6 Suits)	2021-03-06 — 14:56:08 UTC	CaitlinSmith, Denchulitas, Lanvin, MarkusKahlsen, VerySloppyTwo, wolfpack	2	6	30
-458834	3	0	Black & White (6 Suits)	2021-03-06 — 14:09:47 UTC	Denchulitas, Lanvin, wump	18	6	30
+458834	3	0	Black & White (6 Suits)	2021-03-06 — 14:09:47 UTC	Denchulitas, Lanvin, wump	19	6	30
 458825	3	0	Black & White (6 Suits)	2021-03-06 — 13:45:01 UTC	Denchulitas, Lanvin, wump	20	6	30
 458076	3	28	Black & White (6 Suits)	2021-03-05 — 22:51:38 UTC	Denchulitas, MarkusKahlsen, sephiroth	28	6	30
-457936	3	0	Black & White (6 Suits)	2021-03-05 — 21:01:02 UTC	BraydonM, colton, Denchulitas	33	6	30
-457891	2	22	Black & White (6 Suits)	2021-03-05 — 20:36:51 UTC	BraydonM, Denchulitas	56	6	30
-457871	2	0	Black & White (6 Suits)	2021-03-05 — 20:24:16 UTC	BraydonM, Denchulitas	69	6	30
+457936	3	0	Black & White (6 Suits)	2021-03-05 — 21:01:02 UTC	BraydonM, colton, Denchulitas	34	6	30
+457891	2	22	Black & White (6 Suits)	2021-03-05 — 20:36:51 UTC	BraydonM, Denchulitas	58	6	30
+457871	2	0	Black & White (6 Suits)	2021-03-05 — 20:24:16 UTC	BraydonM, Denchulitas	72	6	30
 457588	5	0	Rainbow (6 Suits)	2021-03-05 — 14:42:59 UTC	Denchulitas, eliclax, Lel0uch, melwen, possum	24	6	30
 456600	5	29	Black & White (6 Suits)	2021-03-04 — 20:06:01 UTC	bjnh, Bonja97, Denchulitas, knaphill, sephiroth	2	6	30
 456572	4	27	Black & White (6 Suits)	2021-03-04 — 19:33:21 UTC	Bonja97, Denchulitas, IsabeltheCat, sephiroth	19	6	30
 455594	4	28	Black & White (6 Suits)	2021-03-03 — 21:31:10 UTC	Denchulitas, MarkusKahlsen, sephiroth, torp	17	6	30
-455208	3	27	Black & White (6 Suits)	2021-03-03 — 12:28:00 UTC	Denchulitas, eliclax, MasN	47	6	30
+455208	3	27	Black & White (6 Suits)	2021-03-03 — 12:28:00 UTC	Denchulitas, eliclax, MasN	48	6	30
 455194	5	0	Black & White (6 Suits)	2021-03-03 — 11:52:58 UTC	asaelr, Denchulitas, eliclax, possum, sephiroth	2	6	30
 455173	5	0	Black & White (6 Suits)	2021-03-03 — 11:24:44 UTC	asaelr, Denchulitas, eliclax, possum, sephiroth	2	6	30
 455164	5	0	Black & White (6 Suits)	2021-03-03 — 10:54:23 UTC	asaelr, Denchulitas, eliclax, possum, sephiroth	3	6	30
 455163	5	0	Black & White (6 Suits)	2021-03-03 — 10:49:16 UTC	asaelr, Denchulitas, eliclax, possum, sephiroth	4	6	30
 455152	5	24	Rainbow & Prism (5 Suits)	2021-03-03 — 10:23:59 UTC	catula, Denchulitas, eliclax, possum, sephiroth	7	5	25
-454393	4	25	No Variant	2021-03-02 — 20:36:49 UTC	Denchulitas, MarkusKahlsen, VerySloppyTwo, wolfpack	55	5	25
+454393	4	25	No Variant	2021-03-02 — 20:36:49 UTC	Denchulitas, MarkusKahlsen, VerySloppyTwo, wolfpack	56	5	25
 454352	4	23	No Variant	2021-03-02 — 20:05:22 UTC	Denchulitas, MarkusKahlsen, VerySloppyTwo, wolfpack	64	5	25
-454332	3	0	Black & White (6 Suits)	2021-03-02 — 19:42:04 UTC	Denchulitas, MarkusKahlsen, VerySloppyTwo	34	6	30
+454332	3	0	Black & White (6 Suits)	2021-03-02 — 19:42:04 UTC	Denchulitas, MarkusKahlsen, VerySloppyTwo	35	6	30
 454317	6	0	Black & White (6 Suits)	2021-03-02 — 19:24:05 UTC	Denchulitas, Lanvin, MangoPie, MarkusKahlsen, VerySloppyTwo, Wittvector	1	6	30
 454124	4	0	Black (5 Suits)	2021-03-02 — 12:35:21 UTC	Denchulitas, eliclax, possum, Spieler42	14	5	25
-454121	3	0	Black (5 Suits)	2021-03-02 — 12:20:38 UTC	Denchulitas, eliclax, Spieler42	134	5	25
+454121	3	0	Black (5 Suits)	2021-03-02 — 12:20:38 UTC	Denchulitas, eliclax, Spieler42	135	5	25
 454111	4	21	Black (5 Suits)	2021-03-02 — 11:58:41 UTC	Denchulitas, eliclax, possum, Spieler42	21	5	25
 454105	4	21	Black (5 Suits)	2021-03-02 — 11:30:53 UTC	Denchulitas, eliclax, possum, Spieler42	28	5	25
-454094	3	0	Black & White (5 Suits)	2021-03-02 — 11:02:03 UTC	Denchulitas, duckless, eliclax	40	5	25
-454080	3	30	Black & Prism (6 Suits)	2021-03-02 — 10:19:18 UTC	Denchulitas, sephiroth, swineherd	18	6	30
+454094	3	0	Black & White (5 Suits)	2021-03-02 — 11:02:03 UTC	Denchulitas, duckless, eliclax	41	5	25
+454080	3	30	Black & Prism (6 Suits)	2021-03-02 — 10:19:18 UTC	Denchulitas, sephiroth, swineherd	19	6	30
 454064	3	24	Black & White (6 Suits)	2021-03-02 — 09:43:56 UTC	Denchulitas, Floriman, sephiroth	28	6	30
 453404	4	29	Prism (6 Suits)	2021-03-01 — 21:16:21 UTC	Denchulitas, Kyle, sephiroth, VerySloppyTwo	2	6	30
 453363	4	0	Prism (6 Suits)	2021-03-01 — 20:37:32 UTC	Denchulitas, Kyle, sephiroth, VerySloppyTwo	3	6	30
@@ -253,22 +253,22 @@
 452992	4	30	Black (6 Suits)	2021-03-01 — 10:02:00 UTC	Denchulitas, Lel0uch, sephiroth, VerySloppyTwo	14	6	30
 452989	4	0	Black (6 Suits)	2021-03-01 — 09:49:01 UTC	Denchulitas, Lel0uch, sephiroth, VerySloppyTwo	14	6	30
 452987	4	0	Black (6 Suits)	2021-03-01 — 09:43:06 UTC	Denchulitas, Lel0uch, sephiroth, VerySloppyTwo	13	6	30
-452979	4	0	Black (6 Suits)	2021-03-01 — 09:32:58 UTC	Denchulitas, Lel0uch, sephiroth, VerySloppyTwo	17	6	30
+452979	4	0	Black (6 Suits)	2021-03-01 — 09:32:58 UTC	Denchulitas, Lel0uch, sephiroth, VerySloppyTwo	19	6	30
 452974	3	0	Prism (6 Suits)	2021-03-01 — 09:20:05 UTC	Denchulitas, Lel0uch, sephiroth	5	6	30
 452444	5	24	Rainbow & Prism (5 Suits)	2021-02-28 — 23:16:33 UTC	ChristopheAF, Denchulitas, MangoPie, sephiroth, swineherd	9	5	25
 451267	5	0	Prism (5 Suits)	2021-02-27 — 23:12:24 UTC	Denchulitas, Floriman, melwen, sephiroth, VerySloppyTwo	2	5	25
 451217	5	0	Prism (5 Suits)	2021-02-27 — 22:30:14 UTC	Denchulitas, Floriman, melwen, sephiroth, VerySloppyTwo	3	5	25
 451193	5	0	Prism (5 Suits)	2021-02-27 — 22:10:22 UTC	Denchulitas, eljavi, Floriman, sephiroth, VerySloppyTwo	3	5	25
-451178	3	29	Black (6 Suits)	2021-02-27 — 21:57:18 UTC	Denchulitas, eljavi, sephiroth	97	6	30
-451011	3	28	Black (6 Suits)	2021-02-27 — 19:28:34 UTC	Denchulitas, poofart123, sephiroth	108	6	30
+451178	3	29	Black (6 Suits)	2021-02-27 — 21:57:18 UTC	Denchulitas, eljavi, sephiroth	100	6	30
+451011	3	28	Black (6 Suits)	2021-02-27 — 19:28:34 UTC	Denchulitas, poofart123, sephiroth	111	6	30
 450187	3	0	Prism (6 Suits)	2021-02-26 — 22:17:36 UTC	Denchulitas, rz, sephiroth	6	6	30
 450126	3	27	Prism (6 Suits)	2021-02-26 — 21:36:28 UTC	Denchulitas, MarkusKahlsen, sephiroth	6	6	30
 450093	4	25	Prism (5 Suits)	2021-02-26 — 21:12:03 UTC	Denchulitas, HariKrishnan, sephiroth, VerySloppyTwo	7	5	25
 450056	5	25	Rainbow-Ones (5 Suits)	2021-02-26 — 20:26:30 UTC	4head, ChristopheAF, Denchulitas, eljavi, VerySloppyTwo	6	5	25
 450038	5	0	Rainbow-Ones (5 Suits)	2021-02-26 — 19:59:39 UTC	4head, ChristopheAF, Denchulitas, eljavi, VerySloppyTwo	5	5	25
 450026	5	0	Rainbow-Ones (5 Suits)	2021-02-26 — 19:46:06 UTC	4head, ChristopheAF, Denchulitas, eljavi, VerySloppyTwo	7	5	25
-450021	3	0	Black (5 Suits)	2021-02-26 — 19:31:52 UTC	4head, Denchulitas, VerySloppyTwo	44	5	25
-450015	4	0	Prism (5 Suits)	2021-02-26 — 19:23:53 UTC	Denchulitas, HariKrishnan, Lel0uch, VerySloppyTwo	23	5	25
+450021	3	0	Black (5 Suits)	2021-02-26 — 19:31:52 UTC	4head, Denchulitas, VerySloppyTwo	45	5	25
+450015	4	0	Prism (5 Suits)	2021-02-26 — 19:23:53 UTC	Denchulitas, HariKrishnan, Lel0uch, VerySloppyTwo	25	5	25
 449169	4	0	Prism (6 Suits)	2021-02-25 — 22:17:30 UTC	Damian000, Denchulitas, eljavi, sephiroth	1	6	30
 449128	6	25	No Variant	2021-02-25 — 21:58:05 UTC	Damian000, Denchulitas, eljavi, MangoPie, sephiroth, VerySloppyTwo	2	5	25
 449077	4	0	White-Ones (4 Suits)	2021-02-25 — 21:34:00 UTC	Denchulitas, MangoPie, sephiroth, VerySloppyTwo	2	4	20
@@ -278,7 +278,7 @@
 448687	3	30	Prism (6 Suits)	2021-02-25 — 14:20:59 UTC	Denchulitas, eliclax, robense	8	6	30
 448675	3	0	Prism (6 Suits)	2021-02-25 — 13:56:53 UTC	Denchulitas, eliclax, robense	10	6	30
 448667	4	27	Prism (6 Suits)	2021-02-25 — 13:28:27 UTC	Denchulitas, MarkusKahlsen, Nitrate2, StKildaFan	23	6	30
-448661	2	0	Black & Muddy Rainbow (5 Suits)	2021-02-25 — 13:05:14 UTC	Denchulitas, StKildaFan	20	5	25
+448661	2	0	Black & Muddy Rainbow (5 Suits)	2021-02-25 — 13:05:14 UTC	Denchulitas, StKildaFan	21	5	25
 448660	4	0	Prism (6 Suits)	2021-02-25 — 13:04:30 UTC	Denchulitas, MarkusKahlsen, Nitrate2, sephiroth	6	6	30
 448655	4	28	Prism (6 Suits)	2021-02-25 — 12:55:19 UTC	Denchulitas, MarkusKahlsen, Nitrate2, sephiroth	6	6	30
 448644	5	24	Prism (5 Suits)	2021-02-25 — 12:06:46 UTC	BraydonM, Denchulitas, Nitrate2, sephiroth, Wittvector	3	5	25
@@ -288,14 +288,14 @@
 448631	3	0	Black (5 Suits)	2021-02-25 — 11:05:40 UTC	BraydonM, Denchulitas, Wittvector	25	5	25
 448629	3	0	Black (5 Suits)	2021-02-25 — 11:00:38 UTC	BraydonM, Denchulitas, Wittvector	24	5	25
 448626	3	0	Black (5 Suits)	2021-02-25 — 10:54:37 UTC	BraydonM, Denchulitas, Wittvector	22	5	25
-448625	3	0	Black (5 Suits)	2021-02-25 — 10:53:02 UTC	BraydonM, Denchulitas, Wittvector	25	5	25
+448625	3	0	Black (5 Suits)	2021-02-25 — 10:53:02 UTC	BraydonM, Denchulitas, Wittvector	26	5	25
 448624	3	28	Black (6 Suits)	2021-02-25 — 10:34:51 UTC	BraydonM, Denchulitas, Wittvector	134	6	30
 448620	3	0	Black (5 Suits)	2021-02-25 — 10:17:32 UTC	BraydonM, Denchulitas, Wittvector	27	5	25
 448618	3	0	White (6 Suits)	2021-02-25 — 10:02:35 UTC	Denchulitas, possum, Wittvector	4	6	30
 448613	3	0	White (6 Suits)	2021-02-25 — 09:53:30 UTC	Denchulitas, possum, Wittvector	4	6	30
-448058	4	25	Prism (5 Suits)	2021-02-24 — 21:55:16 UTC	BraydonM, Denchulitas, MangoPie, sephiroth	9	5	25
-448043	4	0	Prism (5 Suits)	2021-02-24 — 21:42:08 UTC	BraydonM, Denchulitas, MangoPie, sephiroth	10	5	25
-447666	2	25	White (6 Suits)	2021-02-24 — 13:16:42 UTC	Denchulitas, Lanvin	100	6	30
+448058	4	25	Prism (5 Suits)	2021-02-24 — 21:55:16 UTC	BraydonM, Denchulitas, MangoPie, sephiroth	10	5	25
+448043	4	0	Prism (5 Suits)	2021-02-24 — 21:42:08 UTC	BraydonM, Denchulitas, MangoPie, sephiroth	12	5	25
+447666	2	25	White (6 Suits)	2021-02-24 — 13:16:42 UTC	Denchulitas, Lanvin	102	6	30
 447663	3	23	White & Prism (5 Suits)	2021-02-24 — 12:59:17 UTC	BraydonM, Denchulitas, sephiroth	17	5	25
 447659	5	18	Rainbow & White (4 Suits)	2021-02-24 — 12:31:00 UTC	asaelr, BraydonM, Denchulitas, rachyrules, sephiroth	4	4	20
 447654	3	27	White (6 Suits)	2021-02-24 — 12:04:24 UTC	asaelr, BraydonM, Denchulitas	5	6	30
@@ -307,16 +307,16 @@
 447643	3	0	Prism (6 Suits)	2021-02-24 — 11:13:08 UTC	BraydonM, Denchulitas, Spieler42	10	6	30
 447640	3	28	Prism (6 Suits)	2021-02-24 — 11:01:20 UTC	BraydonM, Denchulitas, Spieler42	11	6	30
 447637	3	27	Prism (6 Suits)	2021-02-24 — 10:38:29 UTC	BraydonM, Denchulitas, Spieler42	12	6	30
-447630	4	30	Prism (6 Suits)	2021-02-24 — 09:43:27 UTC	Denchulitas, rahsosprout, sephiroth, VerySloppyTwo	10	6	30
+447630	4	30	Prism (6 Suits)	2021-02-24 — 09:43:27 UTC	Denchulitas, rahsosprout, sephiroth, VerySloppyTwo	11	6	30
 446837	4	0	Prism (6 Suits)	2021-02-23 — 19:37:29 UTC	bjnh, Denchulitas, rz, sephiroth	15	6	30
 446548	5	30	Rainbow & Prism (6 Suits)	2021-02-23 — 10:21:04 UTC	CptAggro, Denchulitas, Dr_Kakashi, sephiroth, VerySloppyTwo	1	6	30
 446538	5	0	Rainbow & Prism (6 Suits)	2021-02-23 — 09:45:29 UTC	CptAggro, Denchulitas, Dr_Kakashi, sephiroth, VerySloppyTwo	1	6	30
-445407	3	13	Rainbow (4 Suits)	2021-02-22 — 09:45:40 UTC	4head, Denchulitas, louietyj	32	4	20
+445407	3	13	Rainbow (4 Suits)	2021-02-22 — 09:45:40 UTC	4head, Denchulitas, louietyj	34	4	20
 443418	4	30	White (6 Suits)	2021-02-20 — 21:07:59 UTC	Denchulitas, newduke, PMP, sephiroth	10	6	30
 443367	5	0	White & Prism (6 Suits)	2021-02-20 — 20:17:27 UTC	bjnh, Denchulitas, Lanvin, sephiroth, VerySloppyTwo	2	6	30
 443339	5	0	White & Prism (6 Suits)	2021-02-20 — 19:57:32 UTC	bjnh, Denchulitas, Lanvin, sephiroth, VerySloppyTwo	3	6	30
 443325	4	0	White-Ones & Black (6 Suits)	2021-02-20 — 19:41:46 UTC	Denchulitas, Lanvin, sephiroth, VerySloppyTwo	4	6	30
-443299	4	30	Rainbow (6 Suits)	2021-02-20 — 18:58:33 UTC	Denchulitas, Krepps57, socerman, tacobot5000	344	6	30
+443299	4	30	Rainbow (6 Suits)	2021-02-20 — 18:58:33 UTC	Denchulitas, Krepps57, socerman, tacobot5000	349	6	30
 442223	4	28	White (6 Suits)	2021-02-19 — 20:49:26 UTC	Bot-Fiora, Denchulitas, MangoPie, robense	10	6	30
 442173	5	0	Ambiguous (4 Suits)	2021-02-19 — 20:13:46 UTC	Bot-Fiora, Denchulitas, Lanvin, MangoPie, rz	8	4	20
 442103	5	20	White (4 Suits)	2021-02-19 — 18:43:02 UTC	bjnh, Denchulitas, griff77, Nitrate, rahsosprout	16	4	20
@@ -327,15 +327,15 @@
 441296	5	25	White-Ones & Prism (5 Suits)	2021-02-18 — 22:57:24 UTC	Denchulitas, dobi, jeff10, MangoPie, sephiroth	3	5	25
 441146	5	20	White (5 Suits)	2021-02-18 — 21:03:29 UTC	Denchulitas, knaphill, ontak, sephiroth, VerySloppyTwo	10	5	25
 441037	4	30	White (6 Suits)	2021-02-18 — 19:34:17 UTC	CaitlinSmith, Damian000, Denchulitas, knaphill	11	6	30
-441017	3	0	Prism (5 Suits)	2021-02-18 — 19:06:46 UTC	CaitlinSmith, Damian000, Denchulitas	6	5	25
+441017	3	0	Prism (5 Suits)	2021-02-18 — 19:06:46 UTC	CaitlinSmith, Damian000, Denchulitas	7	5	25
 440993	3	25	Prism (5 Suits)	2021-02-18 — 18:43:41 UTC	CaitlinSmith, Damian000, Denchulitas	9	5	25
 440970	3	24	Prism (5 Suits)	2021-02-18 — 18:22:07 UTC	CaitlinSmith, Damian000, Denchulitas	10	5	25
 440947	4	25	Black & White (5 Suits)	2021-02-18 — 17:49:26 UTC	CaitlinSmith, Damian000, Denchulitas, rachyrules	23	5	25
 440927	3	28	White (6 Suits)	2021-02-18 — 17:07:02 UTC	Denchulitas, kevincaseytdk1, Sucubis	5	6	30
-440276	3	25	No Variant	2021-02-17 — 21:44:44 UTC	Denchulitas, eljavi, sephiroth	119	5	25
+440276	3	25	No Variant	2021-02-17 — 21:44:44 UTC	Denchulitas, eljavi, sephiroth	126	5	25
 440227	3	30	White (6 Suits)	2021-02-17 — 21:05:36 UTC	Denchulitas, dobi, sephiroth	6	6	30
 440100	5	0	Black & White (6 Suits)	2021-02-17 — 19:11:45 UTC	4head, CaitlinSmith, Denchulitas, Lanvin, superbipbip	15	6	30
-440072	4	0	Black & White (6 Suits)	2021-02-17 — 18:42:30 UTC	bjnh, Denchulitas, Lanvin, VerySloppyTwo	17	6	30
+440072	4	0	Black & White (6 Suits)	2021-02-17 — 18:42:30 UTC	bjnh, Denchulitas, Lanvin, VerySloppyTwo	18	6	30
 440052	6	0	Cocoa Rainbow (6 Suits)	2021-02-17 — 18:16:05 UTC	bjnh, Denchulitas, frosty104, indego, Lanvin, Pimak	4	6	30
 439476	5	20	No Variant	2021-02-16 — 22:51:02 UTC	Denchulitas, HumbleDumble, padi, sephiroth, TimeHoodie	14	5	25
 439441	6	23	No Variant	2021-02-16 — 22:15:54 UTC	4head, Denchulitas, HumbleDumble, padi, sephiroth, torp	2	5	25
@@ -351,36 +351,36 @@
 438447	4	0	White-Ones (4 Suits)	2021-02-15 — 21:37:48 UTC	Denchulitas, jack67889, MarkusKahlsen, sephiroth	5	4	20
 438416	5	25	White-Ones (5 Suits)	2021-02-15 — 21:15:56 UTC	Denchulitas, jack67889, MarkusKahlsen, rachyrules, sephiroth	4	5	25
 438388	4	0	White-Ones (6 Suits)	2021-02-15 — 20:52:53 UTC	Denchulitas, jack67889, MarkusKahlsen, sephiroth	3	6	30
-438363	5	29	Rainbow & White (6 Suits)	2021-02-15 — 20:32:10 UTC	bjnh, Denchulitas, MarkusKahlsen, sephiroth, VerySloppyTwo	11	6	30
+438363	5	29	Rainbow & White (6 Suits)	2021-02-15 — 20:32:10 UTC	bjnh, Denchulitas, MarkusKahlsen, sephiroth, VerySloppyTwo	12	6	30
 438336	4	0	Special Mix (5 Suits)	2021-02-15 — 20:05:00 UTC	Denchulitas, MarkusKahlsen, sephiroth, VerySloppyTwo	5	5	25
-438280	4	25	No Variant	2021-02-15 — 19:18:18 UTC	banjoleb, Damian000, Denchulitas, Pimak	111	5	25
+438280	4	25	No Variant	2021-02-15 — 19:18:18 UTC	banjoleb, Damian000, Denchulitas, Pimak	112	5	25
 438256	4	0	No Variant	2021-02-15 — 18:51:16 UTC	banjoleb, Damian000, Denchulitas, Pimak	130	5	25
 437576	4	0	Prism (6 Suits)	2021-02-15 — 00:35:20 UTC	Denchulitas, nkkarpov, padi, sephiroth	22	6	30
-437514	3	24	No Variant	2021-02-14 — 23:34:20 UTC	Denchulitas, dobi, sephiroth	137	5	25
-437453	3	25	No Variant	2021-02-14 — 22:49:09 UTC	Denchulitas, sephiroth, VerySloppyTwo	121	5	25
-437406	3	25	No Variant	2021-02-14 — 22:13:28 UTC	Denchulitas, sephiroth, VerySloppyTwo	130	5	25
+437514	3	24	No Variant	2021-02-14 — 23:34:20 UTC	Denchulitas, dobi, sephiroth	142	5	25
+437453	3	25	No Variant	2021-02-14 — 22:49:09 UTC	Denchulitas, sephiroth, VerySloppyTwo	127	5	25
+437406	3	25	No Variant	2021-02-14 — 22:13:28 UTC	Denchulitas, sephiroth, VerySloppyTwo	135	5	25
 437084	3	30	Prism (6 Suits)	2021-02-14 — 17:59:58 UTC	Damian000, Denchulitas, ksfortson	11	6	30
 437050	3	0	Prism (6 Suits)	2021-02-14 — 17:30:44 UTC	Damian000, Denchulitas, ksfortson	12	6	30
 437025	6	30	Prism (6 Suits)	2021-02-14 — 17:09:11 UTC	ChristopheAF, Damian000, Denchulitas, frosty104, ksfortson, sephiroth	2	6	30
 436985	4	26	Prism (6 Suits)	2021-02-14 — 16:27:01 UTC	Denchulitas, frosty104, narabio, sephiroth	5	6	30
 436970	4	27	Prism (6 Suits)	2021-02-14 — 15:53:37 UTC	Denchulitas, frosty104, narabio, sephiroth	6	6	30
-436957	4	0	Prism (6 Suits)	2021-02-14 — 15:36:58 UTC	Denchulitas, frosty104, narabio, sephiroth	8	6	30
-436231	2	27	Prism (6 Suits)	2021-02-14 — 01:26:30 UTC	Denchulitas, Doge	112	6	30
+436957	4	0	Prism (6 Suits)	2021-02-14 — 15:36:58 UTC	Denchulitas, frosty104, narabio, sephiroth	10	6	30
+436231	2	27	Prism (6 Suits)	2021-02-14 — 01:26:30 UTC	Denchulitas, Doge	116	6	30
 436149	5	24	No Variant	2021-02-13 — 23:54:58 UTC	Denchulitas, griff77, ksfortson, ontak, sephiroth	19	5	25
-436127	4	0	Rainbow & White (6 Suits)	2021-02-13 — 23:26:03 UTC	Denchulitas, griff77, ontak, sephiroth	23	6	30
+436127	4	0	Rainbow & White (6 Suits)	2021-02-13 — 23:26:03 UTC	Denchulitas, griff77, ontak, sephiroth	25	6	30
 436106	3	27	Prism (6 Suits)	2021-02-13 — 22:53:28 UTC	aesophsfables, Denchulitas, sephiroth	13	6	30
 436086	3	0	Prism (6 Suits)	2021-02-13 — 22:31:24 UTC	aesophsfables, Denchulitas, sephiroth	15	6	30
-436046	3	20	Prism (4 Suits)	2021-02-13 — 21:57:26 UTC	Denchulitas, sephiroth, VerySloppyTwo	45	4	20
+436046	3	20	Prism (4 Suits)	2021-02-13 — 21:57:26 UTC	Denchulitas, sephiroth, VerySloppyTwo	47	4	20
 436027	3	27	Prism (6 Suits)	2021-02-13 — 21:33:30 UTC	Denchulitas, sephiroth, VerySloppyTwo	18	6	30
 435998	3	0	Prism (6 Suits)	2021-02-13 — 21:08:16 UTC	Denchulitas, sephiroth, VerySloppyTwo	18	6	30
 435876	5	22	White-Ones & White (5 Suits)	2021-02-13 — 19:22:01 UTC	Bot-Fiora, Denchulitas, griff77, nkkarpov, torp	6	5	25
 435857	3	0	Prism (6 Suits)	2021-02-13 — 18:56:03 UTC	Denchulitas, jian01, nkkarpov	16	6	30
-435785	2	27	Black (6 Suits)	2021-02-13 — 16:57:34 UTC	Denchulitas, Pimak	546	6	30
-435774	2	0	Black (6 Suits)	2021-02-13 — 16:44:41 UTC	Denchulitas, Pimak	643	6	30
+435785	2	27	Black (6 Suits)	2021-02-13 — 16:57:34 UTC	Denchulitas, Pimak	553	6	30
+435774	2	0	Black (6 Suits)	2021-02-13 — 16:44:41 UTC	Denchulitas, Pimak	654	6	30
 435767	3	0	Prism (6 Suits)	2021-02-13 — 16:32:29 UTC	Denchulitas, Pimak, skyblueexo	20	6	30
 435759	3	29	Prism (6 Suits)	2021-02-13 — 16:11:04 UTC	Denchulitas, Pimak, skyblueexo	21	6	30
-435751	3	0	Prism (6 Suits)	2021-02-13 — 15:48:59 UTC	Denchulitas, Pimak, skyblueexo	24	6	30
-434948	5	23	No Variant	2021-02-13 — 00:45:58 UTC	Denchulitas, griff77, Lanvin, sephiroth, torp	28	5	25
+435751	3	0	Prism (6 Suits)	2021-02-13 — 15:48:59 UTC	Denchulitas, Pimak, skyblueexo	26	6	30
+434948	5	23	No Variant	2021-02-13 — 00:45:58 UTC	Denchulitas, griff77, Lanvin, sephiroth, torp	29	5	25
 434915	4	0	White-Ones & White (5 Suits)	2021-02-13 — 00:14:51 UTC	bjnh, Denchulitas, Lanvin, TheDaniMan	3	5	25
 434894	4	0	White-Ones & White (5 Suits)	2021-02-13 — 00:00:57 UTC	bjnh, Denchulitas, Lanvin, TheDaniMan	6	5	25
 434881	4	0	White-Ones & Rainbow (5 Suits)	2021-02-12 — 23:45:58 UTC	Denchulitas, Lanvin, sephiroth, TheDaniMan	3	5	25
@@ -388,48 +388,48 @@
 434856	6	0	Dark Prism (5 Suits)	2021-02-12 — 23:08:08 UTC	Denchulitas, Floriman, indego, sephiroth, Sucubis, VerySloppyTwo	3	5	25
 434844	6	0	Rainbow-Ones (4 Suits)	2021-02-12 — 22:52:43 UTC	4head, CaitlinSmith, Denchulitas, griff77, Onen, Zamiel	1	4	20
 434799	3	0	Prism (6 Suits)	2021-02-12 — 22:01:30 UTC	CaitlinSmith, caña, Denchulitas	36	6	30
-434777	3	0	Prism (6 Suits)	2021-02-12 — 21:43:55 UTC	CaitlinSmith, caña, Denchulitas	45	6	30
+434777	3	0	Prism (6 Suits)	2021-02-12 — 21:43:55 UTC	CaitlinSmith, caña, Denchulitas	46	6	30
 434746	4	0	Reversed (5 Suits)	2021-02-12 — 21:17:40 UTC	Denchulitas, duckless, TimeHoodie, VerySloppyTwo	10	5	25
-434694	4	20	Rainbow & Prism (4 Suits)	2021-02-12 — 20:36:51 UTC	ChristopheAF, Denchulitas, duckless, Lanvin	6	4	20
+434694	4	20	Rainbow & Prism (4 Suits)	2021-02-12 — 20:36:51 UTC	ChristopheAF, Denchulitas, duckless, Lanvin	7	4	20
 434673	4	0	Prism (6 Suits)	2021-02-12 — 20:21:29 UTC	4head, caña, Denchulitas, eljavi	1	6	30
 434655	4	0	Prism (6 Suits)	2021-02-12 — 20:03:53 UTC	4head, caña, Denchulitas, eljavi	1	6	30
 434415	5	0	Prism (6 Suits)	2021-02-12 — 13:33:51 UTC	Denchulitas, frosty104, indego, sephiroth, TimeHoodie	2	6	30
-434378	3	0	No Variant	2021-02-12 — 11:49:05 UTC	Denchulitas, duckington, sephiroth	141	5	25
+434378	3	0	No Variant	2021-02-12 — 11:49:05 UTC	Denchulitas, duckington, sephiroth	145	5	25
 434371	5	11	White (3 Suits)	2021-02-12 — 11:30:52 UTC	BananaBum, Denchulitas, duckington, indegoo, Wittvector	6	3	15
 434357	5	0	Prism (6 Suits)	2021-02-12 — 11:00:35 UTC	BananaBum, Denchulitas, duckington, indego, sephiroth	6	6	30
-434340	3	30	Prism (6 Suits)	2021-02-12 — 10:03:19 UTC	Denchulitas, Kernel, MangoPie	60	6	30
+434340	3	30	Prism (6 Suits)	2021-02-12 — 10:03:19 UTC	Denchulitas, Kernel, MangoPie	61	6	30
 434331	4	0	Prism (6 Suits)	2021-02-12 — 09:34:27 UTC	Denchulitas, eliclax, sephiroth, VerySloppyTwo	15	6	30
 433484	6	0	Throw It in a Hole (5 Suits)	2021-02-11 — 19:52:37 UTC	Denchulitas, Div, Lanvin, rahsosprout, torp, VerySloppyTwo	4	5	25
-433476	3	0	Throw It in a Hole (5 Suits)	2021-02-11 — 19:41:10 UTC	Denchulitas, Lanvin, torp	52	5	25
-433309	4	24	No Variant	2021-02-11 — 14:36:41 UTC	BananaBum, Denchulitas, sephiroth, wolfpack	63	5	25
+433476	3	0	Throw It in a Hole (5 Suits)	2021-02-11 — 19:41:10 UTC	Denchulitas, Lanvin, torp	53	5	25
+433309	4	24	No Variant	2021-02-11 — 14:36:41 UTC	BananaBum, Denchulitas, sephiroth, wolfpack	64	5	25
 433257	4	20	Rainbow-Ones & Black (5 Suits)	2021-02-11 — 11:01:54 UTC	Denchulitas, melwen, Nitrate2, sephiroth	1	5	25
 433246	3	0	Black (6 Suits)	2021-02-11 — 10:27:06 UTC	Denchulitas, melwen, Nitrate2	7	6	30
 433240	5	0	White (6 Suits)	2021-02-11 — 09:57:13 UTC	catula, Denchulitas, frosty104, sephiroth, Wittvector	6	6	30
 433234	5	0	White (6 Suits)	2021-02-11 — 09:30:43 UTC	Denchulitas, frosty104, Kernel, sephiroth, Wittvector	7	6	30
-432171	3	26	Prism (6 Suits)	2021-02-10 — 12:44:32 UTC	Denchulitas, macanek, possum	84	6	30
-432152	3	25	Rainbow & White (5 Suits)	2021-02-10 — 11:46:48 UTC	Denchulitas, eliclax, sephiroth	9	5	25
-432136	3	21	Rainbow & White (5 Suits)	2021-02-10 — 11:17:52 UTC	Denchulitas, eliclax, sephiroth	14	5	25
-432099	4	27	White (6 Suits)	2021-02-10 — 10:23:07 UTC	Denchulitas, IsabeltheCat, MissedFinesse, possum	16	6	30
-431642	5	0	White (6 Suits)	2021-02-10 — 00:08:56 UTC	caña, Denchulitas, IsabeltheCat, jian01, LautiManzano	14	6	30
-431561	3	23	No Variant	2021-02-09 — 22:52:10 UTC	Denchulitas, griff77, knaphill	178	5	25
-431509	3	24	No Variant	2021-02-09 — 22:13:46 UTC	Denchulitas, griff77, knaphill	206	5	25
-431432	3	25	No Variant	2021-02-09 — 21:28:44 UTC	Denchulitas, griff77, knaphill	250	5	25
+432171	3	26	Prism (6 Suits)	2021-02-10 — 12:44:32 UTC	Denchulitas, macanek, possum	85	6	30
+432152	3	25	Rainbow & White (5 Suits)	2021-02-10 — 11:46:48 UTC	Denchulitas, eliclax, sephiroth	10	5	25
+432136	3	21	Rainbow & White (5 Suits)	2021-02-10 — 11:17:52 UTC	Denchulitas, eliclax, sephiroth	15	5	25
+432099	4	27	White (6 Suits)	2021-02-10 — 10:23:07 UTC	Denchulitas, IsabeltheCat, MissedFinesse, possum	17	6	30
+431642	5	0	White (6 Suits)	2021-02-10 — 00:08:56 UTC	caña, Denchulitas, IsabeltheCat, jian01, LautiManzano	16	6	30
+431561	3	23	No Variant	2021-02-09 — 22:52:10 UTC	Denchulitas, griff77, knaphill	179	5	25
+431509	3	24	No Variant	2021-02-09 — 22:13:46 UTC	Denchulitas, griff77, knaphill	209	5	25
+431432	3	25	No Variant	2021-02-09 — 21:28:44 UTC	Denchulitas, griff77, knaphill	252	5	25
 430664	3	15	3 Suits	2021-02-09 — 01:36:55 UTC	Denchulitas, newduke, nwajfromoz	24	3	15
 430646	4	30	White (6 Suits)	2021-02-09 — 01:14:45 UTC	Denchulitas, jian01, kevincaseytdk1, nwajfromoz	14	6	30
-430613	4	0	White (6 Suits)	2021-02-09 — 00:19:33 UTC	Denchulitas, LautiManzano, macanek, voss	20	6	30
+430613	4	0	White (6 Suits)	2021-02-09 — 00:19:33 UTC	Denchulitas, LautiManzano, macanek, voss	22	6	30
 430600	3	28	White (6 Suits)	2021-02-08 — 23:54:55 UTC	Denchulitas, macanek, voss	9	6	30
 430528	3	29	White (6 Suits)	2021-02-08 — 23:02:28 UTC	Denchulitas, ksfortson, Onen	10	6	30
 430425	5	20	Black (5 Suits)	2021-02-08 — 22:14:10 UTC	4head, CaitlinSmith, caña, Denchulitas, griff77	23	5	25
 430359	4	22	Black (5 Suits)	2021-02-08 — 21:41:08 UTC	4head, CaitlinSmith, Denchulitas, griff77	23	5	25
 430290	5	23	White (5 Suits)	2021-02-08 — 20:59:34 UTC	CaitlinSmith, DarthGandalf, Denchulitas, eljavi, HariKrishnan	26	5	25
 430232	6	0	Prism (5 Suits)	2021-02-08 — 20:20:05 UTC	CaitlinSmith, Denchulitas, eljavi, griff77, HariKrishnan, wump	3	5	25
-429395	3	25	No Variant	2021-02-07 — 22:40:32 UTC	Denchulitas, dml, jian01	224	5	25
+429395	3	25	No Variant	2021-02-07 — 22:40:32 UTC	Denchulitas, dml, jian01	227	5	25
 429366	4	25	Brown (5 Suits)	2021-02-07 — 22:09:50 UTC	Denchulitas, newduke, Spieler42, voss	17	5	25
 429333	3	0	Brown (5 Suits)	2021-02-07 — 21:48:10 UTC	Denchulitas, newduke, Spieler42	38	5	25
 429319	4	20	Prism (4 Suits)	2021-02-07 — 21:29:24 UTC	Denchulitas, newduke, robense, Spieler42	21	4	20
-429247	3	21	Black (5 Suits)	2021-02-07 — 20:18:16 UTC	CaitlinSmith, Denchulitas, HariKrishnan	36	5	25
-429221	3	0	Black (5 Suits)	2021-02-07 — 19:55:19 UTC	CaitlinSmith, Denchulitas, HariKrishnan	35	5	25
-429199	4	0	Prism (6 Suits)	2021-02-07 — 19:38:52 UTC	4head, CaitlinSmith, Denchulitas, voss	7	6	30
+429247	3	21	Black (5 Suits)	2021-02-07 — 20:18:16 UTC	CaitlinSmith, Denchulitas, HariKrishnan	37	5	25
+429221	3	0	Black (5 Suits)	2021-02-07 — 19:55:19 UTC	CaitlinSmith, Denchulitas, HariKrishnan	36	5	25
+429199	4	0	Prism (6 Suits)	2021-02-07 — 19:38:52 UTC	4head, CaitlinSmith, Denchulitas, voss	8	6	30
 429185	4	0	Prism (6 Suits)	2021-02-07 — 19:30:22 UTC	4head, CaitlinSmith, Denchulitas, voss	35	6	30
 429167	4	0	Omni (6 Suits)	2021-02-07 — 19:16:53 UTC	4head, CaitlinSmith, Denchulitas, newduke	19	6	30
 429145	4	0	White (6 Suits)	2021-02-07 — 19:01:15 UTC	CaitlinSmith, Denchulitas, nkkarpov, voss	29	6	30
@@ -442,142 +442,142 @@
 428428	5	0	Gray (6 Suits)	2021-02-07 — 01:57:59 UTC	Denchulitas, griff77, joaep2, Lanvin, nwajfromoz	19	6	30
 428392	5	30	White (6 Suits)	2021-02-07 — 01:15:36 UTC	Denchulitas, indego, Lanvin, padi, rz	12	6	30
 428144	3	30	White (6 Suits)	2021-02-06 — 22:44:16 UTC	banjoleb, Denchulitas, knaphill	7	6	30
-428095	3	30	White (6 Suits)	2021-02-06 — 22:14:51 UTC	banjoleb, Denchulitas, knaphill	6	6	30
+428095	3	30	White (6 Suits)	2021-02-06 — 22:14:51 UTC	banjoleb, Denchulitas, knaphill	7	6	30
 427975	4	0	Black (5 Suits)	2021-02-06 — 20:49:38 UTC	Denchulitas, jian01, Lanvin, lauti2	22	5	25
-427959	4	22	Black (5 Suits)	2021-02-06 — 20:33:09 UTC	Denchulitas, jian01, Lanvin, lauti2	36	5	25
-427931	4	0	Black (5 Suits)	2021-02-06 — 20:12:43 UTC	Denchulitas, jian01, Lanvin, lauti2	79	5	25
+427959	4	22	Black (5 Suits)	2021-02-06 — 20:33:09 UTC	Denchulitas, jian01, Lanvin, lauti2	37	5	25
+427931	4	0	Black (5 Suits)	2021-02-06 — 20:12:43 UTC	Denchulitas, jian01, Lanvin, lauti2	80	5	25
 427862	4	19	Rainbow & White (4 Suits)	2021-02-06 — 19:06:28 UTC	4head, Denchulitas, dobi, Lanvin	1	4	20
 427843	4	0	Rainbow & White (4 Suits)	2021-02-06 — 18:51:14 UTC	4head, Denchulitas, dobi, Lanvin	3	4	20
 427818	3	13	Rainbow (3 Suits)	2021-02-06 — 18:29:01 UTC	Denchulitas, Lanvin, nwajfromoz	8	3	15
-427806	3	14	Rainbow (3 Suits)	2021-02-06 — 18:13:31 UTC	Denchulitas, Lanvin, nwajfromoz	16	3	15
-427791	4	0	Black (6 Suits)	2021-02-06 — 17:52:30 UTC	CaitlinSmith, Denchulitas, Lanvin, nwajfromoz	175	6	30
+427806	3	14	Rainbow (3 Suits)	2021-02-06 — 18:13:31 UTC	Denchulitas, Lanvin, nwajfromoz	17	3	15
+427791	4	0	Black (6 Suits)	2021-02-06 — 17:52:30 UTC	CaitlinSmith, Denchulitas, Lanvin, nwajfromoz	176	6	30
 427754	6	0	No Variant	2021-02-06 — 17:04:41 UTC	banjoleb, Daryl, Denchulitas, Doge, griff77, narabio	75	5	25
-427710	5	0	White (6 Suits)	2021-02-06 — 16:34:58 UTC	banjoleb, Daryl, Denchulitas, Doge, narabio	17	6	30
+427710	5	0	White (6 Suits)	2021-02-06 — 16:34:58 UTC	banjoleb, Daryl, Denchulitas, Doge, narabio	18	6	30
 427684	3	0	White (6 Suits)	2021-02-06 — 15:53:41 UTC	banjoleb, Denchulitas, eljavi	7	6	30
 427669	3	29	White (6 Suits)	2021-02-06 — 15:25:26 UTC	banjoleb, Denchulitas, eljavi	8	6	30
 427657	3	0	White (6 Suits)	2021-02-06 — 15:00:16 UTC	banjoleb, Denchulitas, eljavi	9	6	30
 427002	4	30	White (6 Suits)	2021-02-06 — 00:04:13 UTC	4head, Denchulitas, griff77, rahsosprout	27	6	30
-426973	4	0	White (6 Suits)	2021-02-05 — 23:41:03 UTC	4head, Denchulitas, griff77, rahsosprout	35	6	30
+426973	4	0	White (6 Suits)	2021-02-05 — 23:41:03 UTC	4head, Denchulitas, griff77, rahsosprout	36	6	30
 426960	5	0	White (6 Suits)	2021-02-05 — 23:34:47 UTC	4head, Denchulitas, griff77, rahsosprout, voss	37	6	30
 426936	5	0	White (6 Suits)	2021-02-05 — 23:08:22 UTC	Denchulitas, griff77, IsabeltheCat, nkkarpov, ricardodd	8	6	30
 426887	5	0	White (6 Suits)	2021-02-05 — 22:26:07 UTC	Denchulitas, Floriman, griff77, IsabeltheCat, ricardodd	9	6	30
-426839	4	0	No Variant	2021-02-05 — 21:52:41 UTC	Denchulitas, griff77, rahsosprout, Spieler42	117	5	25
-426818	5	0	No Variant	2021-02-05 — 21:37:59 UTC	Denchulitas, griff77, matchalatte, rahsosprout, Spieler42	50	5	25
+426839	4	0	No Variant	2021-02-05 — 21:52:41 UTC	Denchulitas, griff77, rahsosprout, Spieler42	119	5	25
+426818	5	0	No Variant	2021-02-05 — 21:37:59 UTC	Denchulitas, griff77, matchalatte, rahsosprout, Spieler42	52	5	25
 426787	5	22	No Variant	2021-02-05 — 21:18:10 UTC	Denchulitas, eljavi, griff77, rahsosprout, Spieler42	49	5	25
 426755	4	0	Pink (5 Suits)	2021-02-05 — 20:45:20 UTC	Denchulitas, griff77, rahsosprout, Spieler42	23	5	25
-426699	4	0	White (6 Suits)	2021-02-05 — 20:06:56 UTC	Daryl, Denchulitas, griff77, Plum	60	6	30
-426434	3	25	Black (6 Suits)	2021-02-05 — 13:49:30 UTC	Denchulitas, eliclax, skyblueexo	159	6	30
-426419	3	0	Black (6 Suits)	2021-02-05 — 13:18:22 UTC	Denchulitas, eliclax, skyblueexo	172	6	30
-426393	5	0	White (6 Suits)	2021-02-05 — 12:22:21 UTC	3swag3pro, Denchulitas, eliclax, Spieler42, Wittvector	20	6	30
+426699	4	0	White (6 Suits)	2021-02-05 — 20:06:56 UTC	Daryl, Denchulitas, griff77, Plum	62	6	30
+426434	3	25	Black (6 Suits)	2021-02-05 — 13:49:30 UTC	Denchulitas, eliclax, skyblueexo	161	6	30
+426419	3	0	Black (6 Suits)	2021-02-05 — 13:18:22 UTC	Denchulitas, eliclax, skyblueexo	175	6	30
+426393	5	0	White (6 Suits)	2021-02-05 — 12:22:21 UTC	3swag3pro, Denchulitas, eliclax, Spieler42, Wittvector	21	6	30
 426381	3	30	White (6 Suits)	2021-02-05 — 11:19:21 UTC	Denchulitas, eliclax, skyblueexo	18	6	30
-426370	3	0	White (6 Suits)	2021-02-05 — 10:45:22 UTC	Denchulitas, eliclax, skyblueexo	20	6	30
+426370	3	0	White (6 Suits)	2021-02-05 — 10:45:22 UTC	Denchulitas, eliclax, skyblueexo	21	6	30
 426350	3	29	White (6 Suits)	2021-02-05 — 09:50:21 UTC	Denchulitas, eliclax, witcher	27	6	30
 425655	3	0	White (6 Suits)	2021-02-04 — 20:25:15 UTC	ADrone, CaitlinSmith, Denchulitas	33	6	30
-425536	5	0	6 Suits	2021-02-04 — 19:07:24 UTC	CaitlinSmith, Denchulitas, knaphill, MangoPie, ricardodd	31	6	30
+425536	5	0	6 Suits	2021-02-04 — 19:07:24 UTC	CaitlinSmith, Denchulitas, knaphill, MangoPie, ricardodd	32	6	30
 425498	5	0	6 Suits	2021-02-04 — 18:45:29 UTC	CaitlinSmith, Denchulitas, knaphill, MangoPie, ricardodd	35	6	30
-425333	3	30	6 Suits	2021-02-04 — 14:23:46 UTC	banjoleb, Denchulitas, rachyrules	51	6	30
+425333	3	30	6 Suits	2021-02-04 — 14:23:46 UTC	banjoleb, Denchulitas, rachyrules	52	6	30
 425300	4	21	White-Ones & Prism (5 Suits)	2021-02-04 — 13:40:43 UTC	Denchulitas, Floriman, Spieler42, TimeHoodie	5	5	25
 425281	4	25	White & Prism (5 Suits)	2021-02-04 — 13:16:02 UTC	Denchulitas, Floriman, Spieler42, TimeHoodie	11	5	25
-425261	3	28	6 Suits	2021-02-04 — 12:23:30 UTC	Denchulitas, possum, sankala	305	6	30
-425244	3	0	White (6 Suits)	2021-02-04 — 11:33:34 UTC	ChristopheAF, Denchulitas, possum	18	6	30
+425261	3	28	6 Suits	2021-02-04 — 12:23:30 UTC	Denchulitas, possum, sankala	311	6	30
+425244	3	0	White (6 Suits)	2021-02-04 — 11:33:34 UTC	ChristopheAF, Denchulitas, possum	19	6	30
 425242	3	0	White (6 Suits)	2021-02-04 — 11:29:21 UTC	ChristopheAF, Denchulitas, possum	18	6	30
 425241	3	0	White (6 Suits)	2021-02-04 — 11:25:27 UTC	ChristopheAF, Denchulitas, possum	19	6	30
-425221	3	29	6 Suits	2021-02-04 — 10:38:28 UTC	Denchulitas, possum, Spieler42	58	6	30
-425208	3	30	6 Suits	2021-02-04 — 10:10:23 UTC	Denchulitas, possum, Spieler42	60	6	30
-425203	3	0	6 Suits	2021-02-04 — 09:50:49 UTC	Denchulitas, possum, Spieler42	66	6	30
+425221	3	29	6 Suits	2021-02-04 — 10:38:28 UTC	Denchulitas, possum, Spieler42	59	6	30
+425208	3	30	6 Suits	2021-02-04 — 10:10:23 UTC	Denchulitas, possum, Spieler42	61	6	30
+425203	3	0	6 Suits	2021-02-04 — 09:50:49 UTC	Denchulitas, possum, Spieler42	68	6	30
 424705	5	30	Brown-Fives (6 Suits)	2021-02-03 — 23:41:20 UTC	Denchulitas, Lanvin, melwen, Onen, TimeHoodie	1	6	30
 424682	5	29	Brown-Fives (6 Suits)	2021-02-03 — 23:08:53 UTC	Denchulitas, kevincaseytdk1, Lanvin, melwen, TimeHoodie	1	6	30
 424643	5	30	White-Ones & White (6 Suits)	2021-02-03 — 22:39:47 UTC	Denchulitas, kevincaseytdk1, Lanvin, melwen, TimeHoodie	1	6	30
 424614	6	20	Rainbow (4 Suits)	2021-02-03 — 22:13:04 UTC	Bot-Fiora, Denchulitas, dobi, jack67889, Lanvin, newduke	1	4	20
 424596	6	0	Rainbow (4 Suits)	2021-02-03 — 21:52:52 UTC	Bot-Fiora, Denchulitas, dobi, jack67889, Lanvin, newduke	1	4	20
-424543	3	30	6 Suits	2021-02-03 — 21:15:28 UTC	Denchulitas, PMP, robense	70	6	30
+424543	3	30	6 Suits	2021-02-03 — 21:15:28 UTC	Denchulitas, PMP, robense	72	6	30
 424525	3	0	6 Suits	2021-02-03 — 20:54:34 UTC	Denchulitas, PMP, robense	76	6	30
 424412	4	23	No Variant	2021-02-03 — 19:59:33 UTC	4head, Bot-Fiora, Denchulitas, eljavi	52	5	25
-424339	3	0	6 Suits	2021-02-03 — 19:31:22 UTC	Denchulitas, Onen, quadrocket	83	6	30
+424339	3	0	6 Suits	2021-02-03 — 19:31:22 UTC	Denchulitas, Onen, quadrocket	84	6	30
 423361	6	0	Rainbow & Brown (5 Suits)	2021-02-02 — 22:09:08 UTC	4head, Bot-Fiora, ChristopheAF, Denchulitas, PMP, rahsosprout	4	5	25
-423321	3	20	Dark Rainbow (5 Suits)	2021-02-02 — 21:37:52 UTC	Denchulitas, HelanaAshryvr, Onen	52	5	25
+423321	3	20	Dark Rainbow (5 Suits)	2021-02-02 — 21:37:52 UTC	Denchulitas, HelanaAshryvr, Onen	53	5	25
 423284	5	21	Black (5 Suits)	2021-02-02 — 21:15:08 UTC	Daryl, Denchulitas, jian01, LautiManzano, narabio	27	5	25
 423257	4	25	White (5 Suits)	2021-02-02 — 20:55:33 UTC	Denchulitas, jian01, LautiManzano, robense	60	5	25
-423234	3	0	Rainbow (3 Suits)	2021-02-02 — 20:35:17 UTC	Denchulitas, jian01, LautiManzano	53	3	15
-423232	3	13	Rainbow (3 Suits)	2021-02-02 — 20:31:10 UTC	Denchulitas, jian01, LautiManzano	71	3	15
-423195	3	0	6 Suits	2021-02-02 — 19:58:30 UTC	4head, Denchulitas, griff77	132	6	30
+423234	3	0	Rainbow (3 Suits)	2021-02-02 — 20:35:17 UTC	Denchulitas, jian01, LautiManzano	54	3	15
+423232	3	13	Rainbow (3 Suits)	2021-02-02 — 20:31:10 UTC	Denchulitas, jian01, LautiManzano	72	3	15
+423195	3	0	6 Suits	2021-02-02 — 19:58:30 UTC	4head, Denchulitas, griff77	133	6	30
 422979	3	30	6 Suits	2021-02-02 — 13:58:18 UTC	asaelr, Denchulitas, sephiroth	7	6	30
 422972	3	28	6 Suits	2021-02-02 — 13:39:33 UTC	asaelr, Denchulitas, sephiroth	7	6	30
-422929	4	29	6 Suits	2021-02-02 — 11:19:13 UTC	Denchulitas, eliclax, MKQ, Spieler42	39	6	30
-422910	3	0	6 Suits	2021-02-02 — 10:46:27 UTC	Denchulitas, eliclax, Spieler42	196	6	30
-422899	4	0	6 Suits	2021-02-02 — 10:27:11 UTC	Denchulitas, eliclax, Spieler42, StKildaFan	120	6	30
+422929	4	29	6 Suits	2021-02-02 — 11:19:13 UTC	Denchulitas, eliclax, MKQ, Spieler42	40	6	30
+422910	3	0	6 Suits	2021-02-02 — 10:46:27 UTC	Denchulitas, eliclax, Spieler42	199	6	30
+422899	4	0	6 Suits	2021-02-02 — 10:27:11 UTC	Denchulitas, eliclax, Spieler42, StKildaFan	122	6	30
 422881	3	22	Black (5 Suits)	2021-02-02 — 09:47:15 UTC	CaitlinSmith, catula, Denchulitas	55	5	25
 422514	6	0	Rainbow (6 Suits)	2021-02-02 — 00:05:57 UTC	Denchulitas, IsabeltheCat, jian01, Lanvin, micerang, rahsosprout	4	6	30
-422491	3	30	Rainbow (6 Suits)	2021-02-01 — 23:39:47 UTC	Denchulitas, nkkarpov, wump	53	6	30
-422474	3	0	Rainbow (6 Suits)	2021-02-01 — 23:15:28 UTC	Denchulitas, nkkarpov, wump	58	6	30
+422491	3	30	Rainbow (6 Suits)	2021-02-01 — 23:39:47 UTC	Denchulitas, nkkarpov, wump	55	6	30
+422474	3	0	Rainbow (6 Suits)	2021-02-01 — 23:15:28 UTC	Denchulitas, nkkarpov, wump	61	6	30
 422389	4	27	Black (6 Suits)	2021-02-01 — 21:45:51 UTC	asaelr, Denchulitas, newduke, Spieler42	20	6	30
 422350	3	0	Black (5 Suits)	2021-02-01 — 21:12:52 UTC	asaelr, Denchulitas, newduke	8	5	25
 422329	3	24	Black (5 Suits)	2021-02-01 — 20:46:48 UTC	asaelr, Denchulitas, newduke	8	5	25
 422310	3	0	Black (5 Suits)	2021-02-01 — 20:30:03 UTC	asaelr, Denchulitas, newduke	7	5	25
 422291	5	20	4 Suits	2021-02-01 — 20:10:03 UTC	Denchulitas, eljavi, jeff10, newduke, TimeHoodie	8	4	20
-422266	3	19	Rainbow (4 Suits)	2021-02-01 — 19:41:11 UTC	Denchulitas, newduke, Plum	28	4	20
-421896	5	0	No Variant	2021-02-01 — 05:19:51 UTC	Denchulitas, eljavi, nkkarpov, possum, rahsosprout	109	5	25
-421865	5	0	No Variant	2021-02-01 — 04:51:00 UTC	Denchulitas, eljavi, nkkarpov, possum, rahsosprout	837	5	25
+422266	3	19	Rainbow (4 Suits)	2021-02-01 — 19:41:11 UTC	Denchulitas, newduke, Plum	29	4	20
+421896	5	0	No Variant	2021-02-01 — 05:19:51 UTC	Denchulitas, eljavi, nkkarpov, possum, rahsosprout	112	5	25
+421865	5	0	No Variant	2021-02-01 — 04:51:00 UTC	Denchulitas, eljavi, nkkarpov, possum, rahsosprout	845	5	25
 421842	4	29	Black (6 Suits)	2021-02-01 — 04:27:52 UTC	Denchulitas, ksfortson, nkkarpov, rahsosprout	55	6	30
-421815	4	0	Black (6 Suits)	2021-02-01 — 04:03:14 UTC	Denchulitas, ksfortson, nkkarpov, rahsosprout	74	6	30
-421785	4	0	Black (6 Suits)	2021-02-01 — 03:33:26 UTC	Denchulitas, ksfortson, nkkarpov, rahsosprout	90	6	30
-421745	3	0	Black (6 Suits)	2021-02-01 — 02:56:02 UTC	Denchulitas, ksfortson, nkkarpov	125	6	30
+421815	4	0	Black (6 Suits)	2021-02-01 — 04:03:14 UTC	Denchulitas, ksfortson, nkkarpov, rahsosprout	76	6	30
+421785	4	0	Black (6 Suits)	2021-02-01 — 03:33:26 UTC	Denchulitas, ksfortson, nkkarpov, rahsosprout	95	6	30
+421745	3	0	Black (6 Suits)	2021-02-01 — 02:56:02 UTC	Denchulitas, ksfortson, nkkarpov	126	6	30
 421460	6	23	No Variant	2021-01-31 — 22:44:37 UTC	Bot-Fiora, Daryl, Denchulitas, Doge, ksfortson, MarcLovesDogs	17	5	25
 421420	6	0	No Variant	2021-01-31 — 22:09:42 UTC	Bot-Fiora, Daryl, Denchulitas, Doge, ksfortson, MarcLovesDogs	18	5	25
 421396	5	0	Black (6 Suits)	2021-01-31 — 21:44:51 UTC	Denchulitas, eljavi, Spieler42, thejazzagent, voss	23	6	30
 421372	6	0	Black & White (6 Suits)	2021-01-31 — 21:21:51 UTC	Bot-Fiora, Daryl, Denchulitas, frosty104, knaphill, MarcLovesDogs	4	6	30
 421361	4	0	Black & White (6 Suits)	2021-01-31 — 21:11:06 UTC	Daryl, Denchulitas, rahsosprout, robense	29	6	30
-421285	4	25	No Variant	2021-01-31 — 19:50:28 UTC	bjnh, Denchulitas, HariKrishnan, nwajfromoz	149	5	25
-421264	5	20	No Variant	2021-01-31 — 19:12:09 UTC	Denchulitas, HariKrishnan, jian01, LautiManzano, mordred	143	5	25
+421285	4	25	No Variant	2021-01-31 — 19:50:28 UTC	bjnh, Denchulitas, HariKrishnan, nwajfromoz	150	5	25
+421264	5	20	No Variant	2021-01-31 — 19:12:09 UTC	Denchulitas, HariKrishnan, jian01, LautiManzano, mordred	145	5	25
 421232	6	0	No Variant	2021-01-31 — 18:27:07 UTC	Denchulitas, griff77, kondain, narabio, newduke, possum	60	5	25
-421212	5	23	No Variant	2021-01-31 — 17:54:55 UTC	banjoleb, Daryl, Denchulitas, griff77, possum	1119	5	25
-421191	4	25	No Variant	2021-01-31 — 17:17:51 UTC	banjoleb, Denchulitas, Doge, possum	190	5	25
-421180	4	0	No Variant	2021-01-31 — 16:57:31 UTC	banjoleb, Denchulitas, Doge, possum	243	5	25
-421160	3	19	No Variant	2021-01-31 — 16:30:03 UTC	banjoleb, Denchulitas, Doge	218	5	25
-420334	4	0	Black & White (6 Suits)	2021-01-31 — 00:20:49 UTC	Denchulitas, griff77, IsabeltheCat, nkkarpov	22	6	30
+421212	5	23	No Variant	2021-01-31 — 17:54:55 UTC	banjoleb, Daryl, Denchulitas, griff77, possum	1125	5	25
+421191	4	25	No Variant	2021-01-31 — 17:17:51 UTC	banjoleb, Denchulitas, Doge, possum	192	5	25
+421180	4	0	No Variant	2021-01-31 — 16:57:31 UTC	banjoleb, Denchulitas, Doge, possum	245	5	25
+421160	3	19	No Variant	2021-01-31 — 16:30:03 UTC	banjoleb, Denchulitas, Doge	223	5	25
+420334	4	0	Black & White (6 Suits)	2021-01-31 — 00:20:49 UTC	Denchulitas, griff77, IsabeltheCat, nkkarpov	23	6	30
 420321	4	0	Black & White (6 Suits)	2021-01-31 — 00:03:36 UTC	Denchulitas, griff77, IsabeltheCat, nkkarpov	24	6	30
 420309	6	0	Black & White (6 Suits)	2021-01-30 — 23:47:41 UTC	antitelharsic, Denchulitas, griff77, IsabeltheCat, Lanvin, Sucubis	5	6	30
 420295	6	0	Omni-Ones & White (5 Suits)	2021-01-30 — 23:33:12 UTC	antitelharsic, Denchulitas, IsabeltheCat, Lanvin, poofart123, Sucubis	1	5	25
 420278	4	28	Rainbow (6 Suits)	2021-01-30 — 23:16:46 UTC	antitelharsic, Denchulitas, IsabeltheCat, wump	13	6	30
-420253	4	28	6 Suits	2021-01-30 — 22:43:06 UTC	4head, antitelharsic, Denchulitas, wump	59	6	30
-420213	3	28	6 Suits	2021-01-30 — 22:07:06 UTC	Denchulitas, Spieler42, TimeHoodie	99	6	30
-420167	3	29	6 Suits	2021-01-30 — 21:44:40 UTC	Denchulitas, Spieler42, TimeHoodie	112	6	30
-420129	3	30	6 Suits	2021-01-30 — 21:26:16 UTC	Denchulitas, Spieler42, TimeHoodie	126	6	30
-419998	4	28	White (6 Suits)	2021-01-30 — 20:00:52 UTC	Denchulitas, Nitrate, poofart123, TimeHoodie	16	6	30
-419958	4	30	White (6 Suits)	2021-01-30 — 19:04:19 UTC	Denchulitas, MangoPie, Nitrate, robense	41	6	30
-419873	3	30	White (6 Suits)	2021-01-30 — 16:34:38 UTC	Denchulitas, griff77, Kernel	101	6	30
-419065	5	29	White (6 Suits)	2021-01-30 — 00:14:40 UTC	Denchulitas, jian01, LautiManzano, nkkarpov, nwajfromoz	27	6	30
+420253	4	28	6 Suits	2021-01-30 — 22:43:06 UTC	4head, antitelharsic, Denchulitas, wump	60	6	30
+420213	3	28	6 Suits	2021-01-30 — 22:07:06 UTC	Denchulitas, Spieler42, TimeHoodie	100	6	30
+420167	3	29	6 Suits	2021-01-30 — 21:44:40 UTC	Denchulitas, Spieler42, TimeHoodie	113	6	30
+420129	3	30	6 Suits	2021-01-30 — 21:26:16 UTC	Denchulitas, Spieler42, TimeHoodie	128	6	30
+419998	4	28	White (6 Suits)	2021-01-30 — 20:00:52 UTC	Denchulitas, Nitrate, poofart123, TimeHoodie	17	6	30
+419958	4	30	White (6 Suits)	2021-01-30 — 19:04:19 UTC	Denchulitas, MangoPie, Nitrate, robense	43	6	30
+419873	3	30	White (6 Suits)	2021-01-30 — 16:34:38 UTC	Denchulitas, griff77, Kernel	103	6	30
+419065	5	29	White (6 Suits)	2021-01-30 — 00:14:40 UTC	Denchulitas, jian01, LautiManzano, nkkarpov, nwajfromoz	28	6	30
 418783	3	26	White (6 Suits)	2021-01-29 — 20:15:00 UTC	Denchulitas, LautiManzano, newduke	37	6	30
 418758	3	0	White (6 Suits)	2021-01-29 — 19:44:49 UTC	Denchulitas, LautiManzano, newduke	53	6	30
 418551	3	0	Black & White (5 Suits)	2021-01-29 — 13:55:19 UTC	Denchulitas, StKildaFan, Wittvector	45	5	25
 418543	3	30	White (6 Suits)	2021-01-29 — 13:25:45 UTC	Denchulitas, StKildaFan, Wittvector	70	6	30
 418498	5	20	No Variant	2021-01-29 — 11:18:54 UTC	3swag3pro, Denchulitas, eliclax, gchang02, possum	135	5	25
-418493	3	29	White (6 Suits)	2021-01-29 — 10:31:30 UTC	Denchulitas, eliclax, gchang02	124	6	30
-418482	4	25	Black (6 Suits)	2021-01-29 — 09:46:37 UTC	Asddsa76, Denchulitas, eliclax, gchang02	77	6	30
+418493	3	29	White (6 Suits)	2021-01-29 — 10:31:30 UTC	Denchulitas, eliclax, gchang02	128	6	30
+418482	4	25	Black (6 Suits)	2021-01-29 — 09:46:37 UTC	Asddsa76, Denchulitas, eliclax, gchang02	81	6	30
 418019	4	23	No Variant	2021-01-28 — 23:13:09 UTC	4head, bjnh, Denchulitas, Spieler42	70	5	25
-417990	4	22	No Variant	2021-01-28 — 22:46:31 UTC	4head, bjnh, Denchulitas, Spieler42	68	5	25
-417901	4	0	Black (6 Suits)	2021-01-28 — 21:34:06 UTC	4head, caña, DarthGandalf, Denchulitas	273	6	30
-417891	5	0	Black (6 Suits)	2021-01-28 — 21:25:06 UTC	4head, caña, DarthGandalf, Denchulitas, Shemetz	101	6	30
+417990	4	22	No Variant	2021-01-28 — 22:46:31 UTC	4head, bjnh, Denchulitas, Spieler42	69	5	25
+417901	4	0	Black (6 Suits)	2021-01-28 — 21:34:06 UTC	4head, caña, DarthGandalf, Denchulitas	276	6	30
+417891	5	0	Black (6 Suits)	2021-01-28 — 21:25:06 UTC	4head, caña, DarthGandalf, Denchulitas, Shemetz	103	6	30
 417857	4	25	Prism (5 Suits)	2021-01-28 — 20:57:58 UTC	Denchulitas, eljavi, jian01, wump	4	5	25
 417840	4	0	Prism (5 Suits)	2021-01-28 — 20:43:19 UTC	Denchulitas, eljavi, jian01, wump	5	5	25
 417806	3	24	Prism (5 Suits)	2021-01-28 — 20:17:10 UTC	Denchulitas, eljavi, jian01	14	5	25
-417519	3	25	No Variant	2021-01-28 — 11:27:13 UTC	Denchulitas, macanek, Pimak	65	5	25
-417478	3	21	No Variant	2021-01-28 — 10:31:30 UTC	Denchulitas, macanek, Pimak	62	5	25
-417466	4	0	No Variant	2021-01-28 — 09:56:25 UTC	Denchulitas, macanek, Pimak, possum	156	5	25
-417435	3	0	Black & Prism (6 Suits)	2021-01-28 — 09:15:57 UTC	Denchulitas, macanek, Pimak	12	6	30
-417043	4	22	Black (5 Suits)	2021-01-28 — 01:37:50 UTC	caña, Denchulitas, griff77, nkkarpov	36	5	25
-417016	4	0	Black (5 Suits)	2021-01-28 — 01:10:29 UTC	caña, Denchulitas, griff77, nkkarpov	49	5	25
-416994	4	20	Black (5 Suits)	2021-01-28 — 00:46:04 UTC	caña, Denchulitas, griff77, nkkarpov	98	5	25
-416959	3	0	Black (6 Suits)	2021-01-28 — 00:12:18 UTC	Denchulitas, griff77, nkkarpov	193	6	30
+417519	3	25	No Variant	2021-01-28 — 11:27:13 UTC	Denchulitas, macanek, Pimak	67	5	25
+417478	3	21	No Variant	2021-01-28 — 10:31:30 UTC	Denchulitas, macanek, Pimak	65	5	25
+417466	4	0	No Variant	2021-01-28 — 09:56:25 UTC	Denchulitas, macanek, Pimak, possum	157	5	25
+417435	3	0	Black & Prism (6 Suits)	2021-01-28 — 09:15:57 UTC	Denchulitas, macanek, Pimak	13	6	30
+417043	4	22	Black (5 Suits)	2021-01-28 — 01:37:50 UTC	caña, Denchulitas, griff77, nkkarpov	37	5	25
+417016	4	0	Black (5 Suits)	2021-01-28 — 01:10:29 UTC	caña, Denchulitas, griff77, nkkarpov	51	5	25
+416994	4	20	Black (5 Suits)	2021-01-28 — 00:46:04 UTC	caña, Denchulitas, griff77, nkkarpov	101	5	25
+416959	3	0	Black (6 Suits)	2021-01-28 — 00:12:18 UTC	Denchulitas, griff77, nkkarpov	196	6	30
 416937	6	27	Rainbow (6 Suits)	2021-01-27 — 23:38:26 UTC	colton, Denchulitas, Lanvin, melwen, methmatics, sephiroth	14	6	30
 416910	4	30	Brown-Ones & White (6 Suits)	2021-01-27 — 22:53:32 UTC	Denchulitas, jian01, Lanvin, sephiroth	1	6	30
-416878	4	23	No Variant	2021-01-27 — 22:27:29 UTC	Denchulitas, DrJones, jian01, LautiManzano	233	5	25
-416627	3	0	Rainbow (6 Suits)	2021-01-27 — 19:38:58 UTC	Denchulitas, glend, newduke	332	6	30
-416326	4	0	6 Suits	2021-01-27 — 12:06:18 UTC	banjoleb, Denchulitas, eliclax, possum	354	6	30
-416323	4	25	No Variant	2021-01-27 — 11:38:52 UTC	banjoleb, Denchulitas, eliclax, possum	1449	5	25
+416878	4	23	No Variant	2021-01-27 — 22:27:29 UTC	Denchulitas, DrJones, jian01, LautiManzano	236	5	25
+416627	3	0	Rainbow (6 Suits)	2021-01-27 — 19:38:58 UTC	Denchulitas, glend, newduke	335	6	30
+416326	4	0	6 Suits	2021-01-27 — 12:06:18 UTC	banjoleb, Denchulitas, eliclax, possum	359	6	30
+416323	4	25	No Variant	2021-01-27 — 11:38:52 UTC	banjoleb, Denchulitas, eliclax, possum	1459	5	25
 416317	4	23	No Variant	2021-01-27 — 10:54:42 UTC	catula, Denchulitas, eliclax, possum	204	5	25
 416313	3	25	Prism (5 Suits)	2021-01-27 — 10:05:15 UTC	Denchulitas, indego, rahsosprout	22	5	25
-416311	3	0	No Variant	2021-01-27 — 09:32:23 UTC	Denchulitas, indego, VerySloppyTwo	940	5	25
+416311	3	0	No Variant	2021-01-27 — 09:32:23 UTC	Denchulitas, indego, VerySloppyTwo	952	5	25
 415718	4	22	Prism (5 Suits)	2021-01-26 — 21:48:00 UTC	Daryl, Denchulitas, griff77, ksfortson	4	5	25
 415704	4	0	Prism (5 Suits)	2021-01-26 — 21:28:49 UTC	Daryl, Denchulitas, griff77, ksfortson	4	5	25
 415685	6	21	Rainbow (5 Suits)	2021-01-26 — 21:06:28 UTC	Daryl, Denchulitas, griff77, ksfortson, Lanvin, VerySloppyTwo	5	5	25
@@ -587,192 +587,192 @@
 415385	5	22	White (5 Suits)	2021-01-26 — 12:09:12 UTC	Denchulitas, Kernel, Plum, possum, skyblueexo	37	5	25
 415371	5	0	Rainbow & Gray (6 Suits)	2021-01-26 — 11:22:30 UTC	Asddsa76, Denchulitas, indego, possum, skyblueexo	7	6	30
 415360	4	0	Rainbow & Gray (6 Suits)	2021-01-26 — 10:16:18 UTC	arnino, Asddsa76, Denchulitas, indego	8	6	30
-414741	3	24	No Variant	2021-01-25 — 19:36:02 UTC	Denchulitas, sp00ky, witcher	4221	5	25
-414483	3	25	Black (6 Suits)	2021-01-25 — 09:49:51 UTC	CaitlinSmith, Denchulitas, robense	52	6	30
-414474	3	0	Black (6 Suits)	2021-01-25 — 09:26:44 UTC	CaitlinSmith, Denchulitas, robense	55	6	30
-414437	3	30	Black (6 Suits)	2021-01-25 — 06:32:57 UTC	Denchulitas, possum, sp00ky	325	6	30
-414428	3	29	Black (6 Suits)	2021-01-25 — 06:07:18 UTC	Denchulitas, possum, sp00ky	399	6	30
+414741	3	24	No Variant	2021-01-25 — 19:36:02 UTC	Denchulitas, sp00ky, witcher	4250	5	25
+414483	3	25	Black (6 Suits)	2021-01-25 — 09:49:51 UTC	CaitlinSmith, Denchulitas, robense	53	6	30
+414474	3	0	Black (6 Suits)	2021-01-25 — 09:26:44 UTC	CaitlinSmith, Denchulitas, robense	57	6	30
+414437	3	30	Black (6 Suits)	2021-01-25 — 06:32:57 UTC	Denchulitas, possum, sp00ky	332	6	30
+414428	3	29	Black (6 Suits)	2021-01-25 — 06:07:18 UTC	Denchulitas, possum, sp00ky	407	6	30
 414402	3	0	Black (6 Suits)	2021-01-25 — 05:25:45 UTC	4head, Denchulitas, griff77	236	6	30
-414382	3	0	Black (6 Suits)	2021-01-25 — 05:04:31 UTC	4head, Denchulitas, griff77	261	6	30
+414382	3	0	Black (6 Suits)	2021-01-25 — 05:04:31 UTC	4head, Denchulitas, griff77	263	6	30
 414235	3	13	Brown-Ones (3 Suits)	2021-01-25 — 03:06:16 UTC	Denchulitas, Lanvin, possum	3	3	15
 414206	4	14	Brown-Ones (3 Suits)	2021-01-25 — 02:42:54 UTC	bjnh, Denchulitas, Lanvin, possum	1	3	15
 414162	4	0	Rainbow & White (5 Suits)	2021-01-25 — 01:56:53 UTC	bjnh, Denchulitas, jian01, Lanvin	4	5	25
 414146	4	22	Rainbow & White (5 Suits)	2021-01-25 — 01:39:01 UTC	bjnh, Denchulitas, jian01, Lanvin	6	5	25
 414122	4	0	Rainbow & White (5 Suits)	2021-01-25 — 01:19:13 UTC	bjnh, Denchulitas, jian01, Lanvin	9	5	25
 414113	4	0	Extremely Ambiguous & Omni (5 Suits)	2021-01-25 — 01:06:02 UTC	bjnh, Denchulitas, Lanvin, rahsosprout	1	5	25
-414071	3	24	No Variant	2021-01-25 — 00:38:15 UTC	Denchulitas, Lanvin, possum	344	5	25
-414035	3	0	No Variant	2021-01-25 — 00:00:09 UTC	Denchulitas, Lanvin, possum	375	5	25
-414019	3	23	No Variant	2021-01-24 — 23:21:29 UTC	Denchulitas, knaphill, possum	386	5	25
+414071	3	24	No Variant	2021-01-25 — 00:38:15 UTC	Denchulitas, Lanvin, possum	353	5	25
+414035	3	0	No Variant	2021-01-25 — 00:00:09 UTC	Denchulitas, Lanvin, possum	380	5	25
+414019	3	23	No Variant	2021-01-24 — 23:21:29 UTC	Denchulitas, knaphill, possum	392	5	25
 413572	6	23	Brown-Ones (5 Suits)	2021-01-24 — 15:28:08 UTC	Denchulitas, Lanvin, MangoPie, Plum, sephiroth, Wittvector	1	5	25
 413556	6	0	Brown-Ones (5 Suits)	2021-01-24 — 15:12:24 UTC	Denchulitas, Lanvin, MangoPie, Plum, sephiroth, Wittvector	2	5	25
 413547	4	22	Rainbow & White (5 Suits)	2021-01-24 — 14:51:39 UTC	Denchulitas, Lanvin, Plum, Spieler42	12	5	25
 413537	4	0	Rainbow & White (5 Suits)	2021-01-24 — 14:25:11 UTC	Denchulitas, Lanvin, Plum, Spieler42	12	5	25
-413527	3	0	Brown-Ones & White (6 Suits)	2021-01-24 — 13:53:42 UTC	Denchulitas, Lanvin, macanek	1	6	30
-413524	3	0	No Variant	2021-01-24 — 13:44:38 UTC	Denchulitas, Lanvin, macanek	66	5	25
+413527	3	0	Brown-Ones & White (6 Suits)	2021-01-24 — 13:53:42 UTC	Denchulitas, Lanvin, macanek	2	6	30
+413524	3	0	No Variant	2021-01-24 — 13:44:38 UTC	Denchulitas, Lanvin, macanek	69	5	25
 413518	5	0	No Variant	2021-01-24 — 13:21:53 UTC	Animex52, boba, Denchulitas, katian, nitawa	23	5	25
 413516	5	0	No Variant	2021-01-24 — 13:14:06 UTC	Animex52, boba, catula, Denchulitas, katian	20	5	25
-413210	3	0	No Variant	2021-01-24 — 04:18:41 UTC	Denchulitas, jian01, possum	573	5	25
-413192	3	0	No Variant	2021-01-24 — 04:04:46 UTC	Denchulitas, jian01, possum	645	5	25
-413185	3	0	No Variant	2021-01-24 — 03:55:09 UTC	Denchulitas, jian01, possum	680	5	25
-413174	3	25	No Variant	2021-01-24 — 03:43:04 UTC	Denchulitas, jian01, possum	750	5	25
-413137	5	0	No Variant	2021-01-24 — 03:06:43 UTC	Denchulitas, griff77, jian01, rahsosprout, ricardodd	120	5	25
-413102	5	0	No Variant	2021-01-24 — 02:35:16 UTC	Denchulitas, griff77, jian01, rahsosprout, ricardodd	126	5	25
+413210	3	0	No Variant	2021-01-24 — 04:18:41 UTC	Denchulitas, jian01, possum	582	5	25
+413192	3	0	No Variant	2021-01-24 — 04:04:46 UTC	Denchulitas, jian01, possum	655	5	25
+413185	3	0	No Variant	2021-01-24 — 03:55:09 UTC	Denchulitas, jian01, possum	688	5	25
+413174	3	25	No Variant	2021-01-24 — 03:43:04 UTC	Denchulitas, jian01, possum	757	5	25
+413137	5	0	No Variant	2021-01-24 — 03:06:43 UTC	Denchulitas, griff77, jian01, rahsosprout, ricardodd	122	5	25
+413102	5	0	No Variant	2021-01-24 — 02:35:16 UTC	Denchulitas, griff77, jian01, rahsosprout, ricardodd	127	5	25
 413068	6	0	No Variant	2021-01-24 — 01:48:13 UTC	Denchulitas, griff77, jian01, rahsosprout, ricardodd, sephiroth	8	5	25
 413020	3	24	No Variant	2021-01-24 — 00:58:31 UTC	asaelr, Denchulitas, sephiroth	9	5	25
-412960	3	25	White (5 Suits)	2021-01-23 — 23:43:58 UTC	bjnh, Denchulitas, kinkajusrevenge	126	5	25
-412908	6	24	No Variant	2021-01-23 — 23:02:56 UTC	Bot-Fiora, CaitlinSmith, Denchulitas, eljavi, griff77, jian01	478	5	25
-412839	3	25	No Variant	2021-01-23 — 22:13:20 UTC	CaitlinSmith, Denchulitas, jian01	98	5	25
-412695	4	0	No Variant	2021-01-23 — 20:18:30 UTC	Bot-Fiora, Denchulitas, Spieler42, witcher	985	5	25
-412617	4	24	No Variant	2021-01-23 — 19:12:42 UTC	4head, Damian000, Denchulitas, griff77	138	5	25
-412543	3	20	4 Suits	2021-01-23 — 18:22:15 UTC	Denchulitas, HariKrishnan, witcher	118	4	20
+412960	3	25	White (5 Suits)	2021-01-23 — 23:43:58 UTC	bjnh, Denchulitas, kinkajusrevenge	131	5	25
+412908	6	24	No Variant	2021-01-23 — 23:02:56 UTC	Bot-Fiora, CaitlinSmith, Denchulitas, eljavi, griff77, jian01	483	5	25
+412839	3	25	No Variant	2021-01-23 — 22:13:20 UTC	CaitlinSmith, Denchulitas, jian01	102	5	25
+412695	4	0	No Variant	2021-01-23 — 20:18:30 UTC	Bot-Fiora, Denchulitas, Spieler42, witcher	994	5	25
+412617	4	24	No Variant	2021-01-23 — 19:12:42 UTC	4head, Damian000, Denchulitas, griff77	139	5	25
+412543	3	20	4 Suits	2021-01-23 — 18:22:15 UTC	Denchulitas, HariKrishnan, witcher	120	4	20
 412500	4	0	6 Suits	2021-01-23 — 17:31:34 UTC	Denchulitas, jian01, MangoPie, PMP	81	6	30
-411751	4	29	6 Suits	2021-01-23 — 00:30:14 UTC	bjnh, caña, Denchulitas, MarcLovesDogs	191	6	30
-411733	2	0	6 Suits	2021-01-23 — 00:05:23 UTC	Denchulitas, voss	274	6	30
-411702	3	23	No Variant	2021-01-22 — 23:35:39 UTC	Denchulitas, Donitutasu, jian01	801	5	25
-411682	3	20	No Variant	2021-01-22 — 23:15:22 UTC	Denchulitas, Donitutasu, jian01	840	5	25
+411751	4	29	6 Suits	2021-01-23 — 00:30:14 UTC	bjnh, caña, Denchulitas, MarcLovesDogs	193	6	30
+411733	2	0	6 Suits	2021-01-23 — 00:05:23 UTC	Denchulitas, voss	280	6	30
+411702	3	23	No Variant	2021-01-22 — 23:35:39 UTC	Denchulitas, Donitutasu, jian01	809	5	25
+411682	3	20	No Variant	2021-01-22 — 23:15:22 UTC	Denchulitas, Donitutasu, jian01	849	5	25
 411628	6	24	White (5 Suits)	2021-01-22 — 22:05:40 UTC	4head, caña, Daryl, Denchulitas, griff77, jian01	8	5	25
 411605	6	0	White (5 Suits)	2021-01-22 — 21:36:39 UTC	4head, caña, Daryl, Denchulitas, griff77, jian01	10	5	25
 411591	3	28	6 Suits	2021-01-22 — 21:17:01 UTC	4head, Denchulitas, jian01	93	6	30
-411564	4	17	Black (5 Suits)	2021-01-22 — 20:50:36 UTC	ArualEIs, Denchulitas, griff77, jian01	63	5	25
-411541	3	0	6 Suits	2021-01-22 — 20:17:46 UTC	Denchulitas, Nitrate, Spieler42	503	6	30
-411508	4	0	No Variant	2021-01-22 — 19:41:37 UTC	Daryl, Denchulitas, Nitrate, Wittvector	601	5	25
+411564	4	17	Black (5 Suits)	2021-01-22 — 20:50:36 UTC	ArualEIs, Denchulitas, griff77, jian01	64	5	25
+411541	3	0	6 Suits	2021-01-22 — 20:17:46 UTC	Denchulitas, Nitrate, Spieler42	511	6	30
+411508	4	0	No Variant	2021-01-22 — 19:41:37 UTC	Daryl, Denchulitas, Nitrate, Wittvector	606	5	25
 411499	5	0	6 Suits	2021-01-22 — 19:27:57 UTC	ArualEIs, Denchulitas, griff77, jian01, knaphill	96	6	30
-411460	3	0	6 Suits	2021-01-22 — 18:38:51 UTC	bjnh, Denchulitas, knaphill	168	6	30
-411437	5	22	Rainbow (5 Suits)	2021-01-22 — 17:38:34 UTC	4head, caña, Denchulitas, griff77, kinkajusrevenge	54	5	25
-411356	3	24	No Variant	2021-01-22 — 14:51:15 UTC	banjoleb, Denchulitas, raramra	243	5	25
-411344	4	30	Rainbow (6 Suits)	2021-01-22 — 14:16:50 UTC	Denchulitas, griff77, MangoPie, PMP	238	6	30
-411335	4	0	Rainbow (6 Suits)	2021-01-22 — 13:36:33 UTC	Denchulitas, griff77, MangoPie, PMP	493	6	30
+411460	3	0	6 Suits	2021-01-22 — 18:38:51 UTC	bjnh, Denchulitas, knaphill	169	6	30
+411437	5	22	Rainbow (5 Suits)	2021-01-22 — 17:38:34 UTC	4head, caña, Denchulitas, griff77, kinkajusrevenge	55	5	25
+411356	3	24	No Variant	2021-01-22 — 14:51:15 UTC	banjoleb, Denchulitas, raramra	246	5	25
+411344	4	30	Rainbow (6 Suits)	2021-01-22 — 14:16:50 UTC	Denchulitas, griff77, MangoPie, PMP	244	6	30
+411335	4	0	Rainbow (6 Suits)	2021-01-22 — 13:36:33 UTC	Denchulitas, griff77, MangoPie, PMP	497	6	30
 411328	5	22	Black (5 Suits)	2021-01-22 — 13:06:22 UTC	Denchulitas, griff77, Lanvin, Lel0uch, melwen	5	5	25
 411322	6	26	Black (6 Suits)	2021-01-22 — 12:39:36 UTC	ArualEIs, catula, Denchulitas, Lanvin, melwen, Spieler42	1	6	30
-411311	3	26	6 Suits	2021-01-22 — 11:57:54 UTC	catula, Denchulitas, sephiroth	147	6	30
-410764	3	0	No Variant	2021-01-21 — 21:12:25 UTC	Denchulitas, HariKrishnan, Onen	223	5	25
-410755	3	0	No Variant	2021-01-21 — 20:54:42 UTC	Denchulitas, HariKrishnan, Onen	220	5	25
-410745	3	24	No Variant	2021-01-21 — 20:34:53 UTC	Denchulitas, HariKrishnan, Onen	285	5	25
-410731	3	24	No Variant	2021-01-21 — 20:08:22 UTC	Denchulitas, HariKrishnan, Onen	324	5	25
-410713	3	0	No Variant	2021-01-21 — 19:45:17 UTC	Denchulitas, HariKrishnan, Onen	354	5	25
-410705	4	0	Black (5 Suits)	2021-01-21 — 19:25:46 UTC	CaitlinSmith, Denchulitas, HariKrishnan, Onen	41	5	25
-410369	4	25	No Variant	2021-01-21 — 07:14:01 UTC	Denchulitas, eljavi, pianoblook, PMP	25	5	25
+411311	3	26	6 Suits	2021-01-22 — 11:57:54 UTC	catula, Denchulitas, sephiroth	149	6	30
+410764	3	0	No Variant	2021-01-21 — 21:12:25 UTC	Denchulitas, HariKrishnan, Onen	228	5	25
+410755	3	0	No Variant	2021-01-21 — 20:54:42 UTC	Denchulitas, HariKrishnan, Onen	224	5	25
+410745	3	24	No Variant	2021-01-21 — 20:34:53 UTC	Denchulitas, HariKrishnan, Onen	287	5	25
+410731	3	24	No Variant	2021-01-21 — 20:08:22 UTC	Denchulitas, HariKrishnan, Onen	330	5	25
+410713	3	0	No Variant	2021-01-21 — 19:45:17 UTC	Denchulitas, HariKrishnan, Onen	359	5	25
+410705	4	0	Black (5 Suits)	2021-01-21 — 19:25:46 UTC	CaitlinSmith, Denchulitas, HariKrishnan, Onen	42	5	25
+410369	4	25	No Variant	2021-01-21 — 07:14:01 UTC	Denchulitas, eljavi, pianoblook, PMP	26	5	25
 410237	4	28	Black (6 Suits)	2021-01-21 — 03:54:03 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	57	6	30
 410225	4	0	Black (6 Suits)	2021-01-21 — 03:35:48 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	54	6	30
 410217	4	0	Black (6 Suits)	2021-01-21 — 03:27:09 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	62	6	30
-410206	4	27	Black (6 Suits)	2021-01-21 — 03:14:53 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	67	6	30
-410196	4	0	Black (6 Suits)	2021-01-21 — 02:55:04 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	64	6	30
-410189	4	0	Black (6 Suits)	2021-01-21 — 02:48:46 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	71	6	30
-410179	3	23	No Variant	2021-01-21 — 02:33:37 UTC	Denchulitas, eljavi, rahsosprout	411	5	25
-410161	5	23	No Variant	2021-01-21 — 02:10:03 UTC	Denchulitas, eljavi, jujalieta, LautiManzano, rahsosprout	163	5	25
+410206	4	27	Black (6 Suits)	2021-01-21 — 03:14:53 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	69	6	30
+410196	4	0	Black (6 Suits)	2021-01-21 — 02:55:04 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	66	6	30
+410189	4	0	Black (6 Suits)	2021-01-21 — 02:48:46 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	73	6	30
+410179	3	23	No Variant	2021-01-21 — 02:33:37 UTC	Denchulitas, eljavi, rahsosprout	417	5	25
+410161	5	23	No Variant	2021-01-21 — 02:10:03 UTC	Denchulitas, eljavi, jujalieta, LautiManzano, rahsosprout	166	5	25
 410131	3	28	6 Suits	2021-01-21 — 01:19:37 UTC	Denchulitas, kinkajusrevenge, LautiManzano	15	6	30
-410066	3	24	Pink (5 Suits)	2021-01-21 — 00:06:33 UTC	Denchulitas, griff77, torp	18	5	25
+410066	3	24	Pink (5 Suits)	2021-01-21 — 00:06:33 UTC	Denchulitas, griff77, torp	19	5	25
 410024	6	0	No Variant	2021-01-20 — 23:10:07 UTC	4head, Daryl, Denchulitas, griff77, ksfortson, louietyj	19	5	25
 409988	6	21	No Variant	2021-01-20 — 22:24:18 UTC	4head, Daryl, Denchulitas, griff77, ksfortson, louietyj	26	5	25
 409967	6	0	No Variant	2021-01-20 — 21:57:28 UTC	4head, Daryl, Denchulitas, griff77, ksfortson, louietyj	29	5	25
 409948	6	0	No Variant	2021-01-20 — 21:40:28 UTC	4head, Daryl, Denchulitas, griff77, ksfortson, louietyj	52	5	25
-409910	3	29	6 Suits	2021-01-20 — 21:09:31 UTC	4head, Daryl, Denchulitas	252	6	30
-409850	4	30	6 Suits	2021-01-20 — 20:05:13 UTC	bjnh, Denchulitas, griff77, HariKrishnan	250	6	30
+409910	3	29	6 Suits	2021-01-20 — 21:09:31 UTC	4head, Daryl, Denchulitas	256	6	30
+409850	4	30	6 Suits	2021-01-20 — 20:05:13 UTC	bjnh, Denchulitas, griff77, HariKrishnan	252	6	30
 409204	6	0	Prism (5 Suits)	2021-01-20 — 03:03:15 UTC	4head, bjnh, Denchulitas, griff77, louietyj, torp	7	5	25
-409173	3	0	6 Suits	2021-01-20 — 02:25:34 UTC	Denchulitas, ginanahs, rahsosprout	365	6	30
-409123	4	25	No Variant	2021-01-20 — 01:16:55 UTC	Denchulitas, rahsosprout, skyblueexo, torp	180	5	25
-409072	3	0	Prism (5 Suits)	2021-01-19 — 23:45:29 UTC	4head, Denchulitas, griff77	24	5	25
-409043	3	24	Prism (5 Suits)	2021-01-19 — 23:08:31 UTC	4head, Denchulitas, griff77	45	5	25
-409020	3	24	Prism (5 Suits)	2021-01-19 — 22:33:00 UTC	4head, Denchulitas, macanek	38	5	25
-409003	3	24	Prism (5 Suits)	2021-01-19 — 22:11:36 UTC	4head, Denchulitas, macanek	80	5	25
-408981	5	23	No Variant	2021-01-19 — 21:47:44 UTC	4head, Denchulitas, indego, ksfortson, macanek	27	5	25
+409173	3	0	6 Suits	2021-01-20 — 02:25:34 UTC	Denchulitas, ginanahs, rahsosprout	371	6	30
+409123	4	25	No Variant	2021-01-20 — 01:16:55 UTC	Denchulitas, rahsosprout, skyblueexo, torp	182	5	25
+409072	3	0	Prism (5 Suits)	2021-01-19 — 23:45:29 UTC	4head, Denchulitas, griff77	25	5	25
+409043	3	24	Prism (5 Suits)	2021-01-19 — 23:08:31 UTC	4head, Denchulitas, griff77	47	5	25
+409020	3	24	Prism (5 Suits)	2021-01-19 — 22:33:00 UTC	4head, Denchulitas, macanek	39	5	25
+409003	3	24	Prism (5 Suits)	2021-01-19 — 22:11:36 UTC	4head, Denchulitas, macanek	82	5	25
+408981	5	23	No Variant	2021-01-19 — 21:47:44 UTC	4head, Denchulitas, indego, ksfortson, macanek	28	5	25
 408952	5	0	No Variant	2021-01-19 — 21:17:19 UTC	4head, Denchulitas, indego, ksfortson, macanek	26	5	25
-408911	4	25	No Variant	2021-01-19 — 20:48:56 UTC	Denchulitas, indego, macanek, radizomic	287	5	25
+408911	4	25	No Variant	2021-01-19 — 20:48:56 UTC	Denchulitas, indego, macanek, radizomic	293	5	25
 408825	4	22	Prism (5 Suits)	2021-01-19 — 19:37:20 UTC	bjnh, Denchulitas, ejwu, MarkusKahlsen	20	5	25
-408611	3	22	No Variant	2021-01-19 — 14:39:24 UTC	Denchulitas, Kernel, PMP	76	5	25
+408611	3	22	No Variant	2021-01-19 — 14:39:24 UTC	Denchulitas, Kernel, PMP	77	5	25
 408278	3	0	Brown & Prism (6 Suits)	2021-01-19 — 04:17:43 UTC	Denchulitas, ksfortson, torp	8	6	30
-408218	3	25	No Variant	2021-01-19 — 03:20:52 UTC	4head, Denchulitas, griff77	1095	5	25
-408181	3	24	No Variant	2021-01-19 — 02:48:16 UTC	4head, Denchulitas, griff77	2163	5	25
-408145	3	21	No Variant	2021-01-19 — 02:14:47 UTC	4head, Denchulitas, IsabeltheCat	259	5	25
-407937	5	0	No Variant	2021-01-18 — 22:21:57 UTC	Denchulitas, griff77, kinkajusrevenge, LautiManzano, Spieler42	195	5	25
-407918	5	0	No Variant	2021-01-18 — 22:06:34 UTC	Denchulitas, griff77, kinkajusrevenge, LautiManzano, Spieler42	344	5	25
-407885	3	0	Rainbow (6 Suits)	2021-01-18 — 21:39:48 UTC	Denchulitas, griff77, kinkajusrevenge	79	6	30
-407782	4	22	No Variant	2021-01-18 — 20:33:28 UTC	Denchulitas, griff77, HariKrishnan, poofart123	2076	5	25
-407714	3	25	No Variant	2021-01-18 — 19:53:00 UTC	Denchulitas, griff77, HariKrishnan	1465	5	25
-407008	5	0	No Variant	2021-01-18 — 04:28:07 UTC	4head, BlueNovember, Denchulitas, griff77, poofart123	658	5	25
-406974	5	24	No Variant	2021-01-18 — 03:40:48 UTC	4head, BlueNovember, Denchulitas, griff77, LautiManzano	176	5	25
-406937	4	24	No Variant	2021-01-18 — 03:04:10 UTC	4head, Denchulitas, griff77, LautiManzano	308	5	25
-406889	4	23	No Variant	2021-01-18 — 02:24:01 UTC	4head, Denchulitas, griff77, LautiManzano	419	5	25
-406862	4	0	No Variant	2021-01-18 — 01:49:24 UTC	4head, Denchulitas, griff77, LautiManzano	473	5	25
-406831	4	25	No Variant	2021-01-18 — 01:00:03 UTC	4head, Denchulitas, LautiManzano, Spieler42	442	5	25
-406815	4	19	No Variant	2021-01-18 — 00:34:13 UTC	4head, Denchulitas, LautiManzano, Spieler42	501	5	25
-406808	4	0	No Variant	2021-01-18 — 00:17:32 UTC	4head, Denchulitas, LautiManzano, Spieler42	541	5	25
-406804	3	25	No Variant	2021-01-18 — 00:09:34 UTC	Denchulitas, LautiManzano, Spieler42	269	5	25
-406779	3	0	No Variant	2021-01-17 — 23:45:51 UTC	Denchulitas, LautiManzano, Spieler42	275	5	25
-406610	5	0	No Variant	2021-01-17 — 21:18:18 UTC	banjoleb, BlueNovember, Denchulitas, LautiManzano, raramra	207	5	25
-406561	5	0	No Variant	2021-01-17 — 20:41:17 UTC	banjoleb, BlueNovember, Denchulitas, LautiManzano, raramra	223	5	25
+408218	3	25	No Variant	2021-01-19 — 03:20:52 UTC	4head, Denchulitas, griff77	1102	5	25
+408181	3	24	No Variant	2021-01-19 — 02:48:16 UTC	4head, Denchulitas, griff77	2179	5	25
+408145	3	21	No Variant	2021-01-19 — 02:14:47 UTC	4head, Denchulitas, IsabeltheCat	261	5	25
+407937	5	0	No Variant	2021-01-18 — 22:21:57 UTC	Denchulitas, griff77, kinkajusrevenge, LautiManzano, Spieler42	198	5	25
+407918	5	0	No Variant	2021-01-18 — 22:06:34 UTC	Denchulitas, griff77, kinkajusrevenge, LautiManzano, Spieler42	348	5	25
+407885	3	0	Rainbow (6 Suits)	2021-01-18 — 21:39:48 UTC	Denchulitas, griff77, kinkajusrevenge	81	6	30
+407782	4	22	No Variant	2021-01-18 — 20:33:28 UTC	Denchulitas, griff77, HariKrishnan, poofart123	2094	5	25
+407714	3	25	No Variant	2021-01-18 — 19:53:00 UTC	Denchulitas, griff77, HariKrishnan	1474	5	25
+407008	5	0	No Variant	2021-01-18 — 04:28:07 UTC	4head, BlueNovember, Denchulitas, griff77, poofart123	667	5	25
+406974	5	24	No Variant	2021-01-18 — 03:40:48 UTC	4head, BlueNovember, Denchulitas, griff77, LautiManzano	178	5	25
+406937	4	24	No Variant	2021-01-18 — 03:04:10 UTC	4head, Denchulitas, griff77, LautiManzano	311	5	25
+406889	4	23	No Variant	2021-01-18 — 02:24:01 UTC	4head, Denchulitas, griff77, LautiManzano	423	5	25
+406862	4	0	No Variant	2021-01-18 — 01:49:24 UTC	4head, Denchulitas, griff77, LautiManzano	480	5	25
+406831	4	25	No Variant	2021-01-18 — 01:00:03 UTC	4head, Denchulitas, LautiManzano, Spieler42	448	5	25
+406815	4	19	No Variant	2021-01-18 — 00:34:13 UTC	4head, Denchulitas, LautiManzano, Spieler42	507	5	25
+406808	4	0	No Variant	2021-01-18 — 00:17:32 UTC	4head, Denchulitas, LautiManzano, Spieler42	548	5	25
+406804	3	25	No Variant	2021-01-18 — 00:09:34 UTC	Denchulitas, LautiManzano, Spieler42	272	5	25
+406779	3	0	No Variant	2021-01-17 — 23:45:51 UTC	Denchulitas, LautiManzano, Spieler42	277	5	25
+406610	5	0	No Variant	2021-01-17 — 21:18:18 UTC	banjoleb, BlueNovember, Denchulitas, LautiManzano, raramra	208	5	25
+406561	5	0	No Variant	2021-01-17 — 20:41:17 UTC	banjoleb, BlueNovember, Denchulitas, LautiManzano, raramra	226	5	25
 406523	3	27	6 Suits	2021-01-17 — 20:12:43 UTC	BlueNovember, Denchulitas, LautiManzano	21	6	30
-406472	4	0	Rainbow (5 Suits)	2021-01-17 — 19:22:22 UTC	bjnh, Denchulitas, eljavi, Stormylu	68	5	25
-406449	4	24	No Variant	2021-01-17 — 18:42:49 UTC	banjoleb, Denchulitas, Doge, TimeHoodie	899	5	25
-406325	3	22	No Variant	2021-01-17 — 14:23:55 UTC	Daryl, Denchulitas, Plum	134	5	25
-405938	4	25	No Variant	2021-01-17 — 03:19:44 UTC	4head, Denchulitas, louietyj, nkkarpov	162	5	25
-405907	4	25	No Variant	2021-01-17 — 02:51:33 UTC	4head, Denchulitas, louietyj, nkkarpov	167	5	25
-405885	4	25	No Variant	2021-01-17 — 02:29:55 UTC	4head, Denchulitas, louietyj, nkkarpov	198	5	25
+406472	4	0	Rainbow (5 Suits)	2021-01-17 — 19:22:22 UTC	bjnh, Denchulitas, eljavi, Stormylu	70	5	25
+406449	4	24	No Variant	2021-01-17 — 18:42:49 UTC	banjoleb, Denchulitas, Doge, TimeHoodie	908	5	25
+406325	3	22	No Variant	2021-01-17 — 14:23:55 UTC	Daryl, Denchulitas, Plum	140	5	25
+405938	4	25	No Variant	2021-01-17 — 03:19:44 UTC	4head, Denchulitas, louietyj, nkkarpov	166	5	25
+405907	4	25	No Variant	2021-01-17 — 02:51:33 UTC	4head, Denchulitas, louietyj, nkkarpov	169	5	25
+405885	4	25	No Variant	2021-01-17 — 02:29:55 UTC	4head, Denchulitas, louietyj, nkkarpov	199	5	25
 405740	4	0	Brown-Ones (4 Suits)	2021-01-16 — 23:57:15 UTC	Denchulitas, indego, jack67889, Lanvin	4	4	20
-405720	4	23	No Variant	2021-01-16 — 23:37:16 UTC	Denchulitas, L9601710l, LautiManzano, tderoche	655	5	25
-405672	3	20	White (4 Suits)	2021-01-16 — 23:01:01 UTC	ChristopheAF, Denchulitas, newduke	18	4	20
+405720	4	23	No Variant	2021-01-16 — 23:37:16 UTC	Denchulitas, L9601710l, LautiManzano, tderoche	660	5	25
+405672	3	20	White (4 Suits)	2021-01-16 — 23:01:01 UTC	ChristopheAF, Denchulitas, newduke	19	4	20
 405630	3	0	White (4 Suits)	2021-01-16 — 22:29:51 UTC	ChristopheAF, Denchulitas, newduke	30	4	20
 405563	4	25	No Variant	2021-01-16 — 21:45:02 UTC	Denchulitas, nkkarpov, Onen, PMP	213	5	25
-405266	3	22	No Variant	2021-01-16 — 17:51:48 UTC	4head, Denchulitas, HariKrishnan	1017	5	25
-405244	3	0	No Variant	2021-01-16 — 16:56:16 UTC	4head, Denchulitas, HariKrishnan	1174	5	25
-405227	3	0	No Variant	2021-01-16 — 16:36:29 UTC	4head, Denchulitas, HariKrishnan	1636	5	25
-405211	3	25	No Variant	2021-01-16 — 16:13:09 UTC	4head, Denchulitas, PMP	79	5	25
-405202	3	0	No Variant	2021-01-16 — 15:57:54 UTC	4head, Denchulitas, macanek	1291	5	25
+405266	3	22	No Variant	2021-01-16 — 17:51:48 UTC	4head, Denchulitas, HariKrishnan	1026	5	25
+405244	3	0	No Variant	2021-01-16 — 16:56:16 UTC	4head, Denchulitas, HariKrishnan	1180	5	25
+405227	3	0	No Variant	2021-01-16 — 16:36:29 UTC	4head, Denchulitas, HariKrishnan	1651	5	25
+405211	3	25	No Variant	2021-01-16 — 16:13:09 UTC	4head, Denchulitas, PMP	82	5	25
+405202	3	0	No Variant	2021-01-16 — 15:57:54 UTC	4head, Denchulitas, macanek	1299	5	25
 405179	5	0	Brown-Ones (6 Suits)	2021-01-16 — 14:51:54 UTC	Denchulitas, indego, Lanvin, narabio, sin_faith	1	6	30
-405142	4	0	No Variant	2021-01-16 — 12:51:08 UTC	ArualEIs, Denchulitas, sephiroth, tsai_0	278	5	25
-404779	5	30	Rainbow (6 Suits)	2021-01-16 — 04:12:16 UTC	4head, Denchulitas, jian01, LautiManzano, nkkarpov	101	6	30
-404720	5	0	Rainbow (6 Suits)	2021-01-16 — 03:47:23 UTC	4head, Denchulitas, jian01, LautiManzano, nkkarpov	133	6	30
-404701	5	28	Rainbow (6 Suits)	2021-01-16 — 03:36:43 UTC	4head, Denchulitas, jian01, LautiManzano, nkkarpov	209	6	30
-404607	4	21	Prism (5 Suits)	2021-01-16 — 02:43:33 UTC	4head, Denchulitas, nwajfromoz, PMP	47	5	25
+405142	4	0	No Variant	2021-01-16 — 12:51:08 UTC	ArualEIs, Denchulitas, sephiroth, tsai_0	280	5	25
+404779	5	30	Rainbow (6 Suits)	2021-01-16 — 04:12:16 UTC	4head, Denchulitas, jian01, LautiManzano, nkkarpov	102	6	30
+404720	5	0	Rainbow (6 Suits)	2021-01-16 — 03:47:23 UTC	4head, Denchulitas, jian01, LautiManzano, nkkarpov	134	6	30
+404701	5	28	Rainbow (6 Suits)	2021-01-16 — 03:36:43 UTC	4head, Denchulitas, jian01, LautiManzano, nkkarpov	211	6	30
+404607	4	21	Prism (5 Suits)	2021-01-16 — 02:43:33 UTC	4head, Denchulitas, nwajfromoz, PMP	48	5	25
 404514	3	18	4 Suits	2021-01-16 — 00:51:52 UTC	Denchulitas, Onen, poofart123	31	4	20
 404508	3	0	4 Suits	2021-01-16 — 00:41:19 UTC	Denchulitas, Onen, poofart123	34	4	20
-404507	4	0	4 Suits	2021-01-16 — 00:38:03 UTC	Denchulitas, jeff10, Onen, poofart123	51	4	20
-404483	3	23	No Variant	2021-01-16 — 00:02:31 UTC	Denchulitas, macanek, poofart123	2606	5	25
-404467	4	0	No Variant	2021-01-15 — 23:27:19 UTC	Denchulitas, indego, TimeHoodie, torp	158	5	25
-404452	3	23	No Variant	2021-01-15 — 23:03:55 UTC	CaitlinSmith, Denchulitas, torp	110	5	25
-404425	3	24	No Variant	2021-01-15 — 22:29:22 UTC	CaitlinSmith, Denchulitas, torp	112	5	25
-404394	4	24	No Variant	2021-01-15 — 22:02:54 UTC	cooper, Denchulitas, Donna, knaphill	1092	5	25
-404150	3	0	No Variant	2021-01-15 — 18:02:31 UTC	Denchulitas, knaphill, PMP	82	5	25
+404507	4	0	4 Suits	2021-01-16 — 00:38:03 UTC	Denchulitas, jeff10, Onen, poofart123	52	4	20
+404483	3	23	No Variant	2021-01-16 — 00:02:31 UTC	Denchulitas, macanek, poofart123	2627	5	25
+404467	4	0	No Variant	2021-01-15 — 23:27:19 UTC	Denchulitas, indego, TimeHoodie, torp	161	5	25
+404452	3	23	No Variant	2021-01-15 — 23:03:55 UTC	CaitlinSmith, Denchulitas, torp	114	5	25
+404425	3	24	No Variant	2021-01-15 — 22:29:22 UTC	CaitlinSmith, Denchulitas, torp	116	5	25
+404394	4	24	No Variant	2021-01-15 — 22:02:54 UTC	cooper, Denchulitas, Donna, knaphill	1103	5	25
+404150	3	0	No Variant	2021-01-15 — 18:02:31 UTC	Denchulitas, knaphill, PMP	84	5	25
 404025	6	0	Rainbow-Ones (5 Suits)	2021-01-15 — 14:34:13 UTC	Denchulitas, indego, Lanvin, Nils, sephiroth, sin_faith	3	5	25
-404010	4	21	No Variant	2021-01-15 — 14:03:16 UTC	Denchulitas, Lanvin, sephiroth, sin_faith	18	5	25
-403990	4	0	No Variant	2021-01-15 — 13:10:36 UTC	Denchulitas, Lanvin, sephiroth, sin_faith	17	5	25
-403954	4	0	No Variant	2021-01-15 — 11:59:48 UTC	Denchulitas, sin_faith, skyblueexo, Wittvector	16	5	25
-403948	2	0	No Variant	2021-01-15 — 11:28:17 UTC	Denchulitas, Pimak	302	5	25
-403931	2	23	No Variant	2021-01-15 — 10:37:34 UTC	Denchulitas, Pimak	308	5	25
-403016	3	30	Black (6 Suits)	2021-01-14 — 14:27:23 UTC	Denchulitas, knaphill, LautiManzano	213	6	30
-402968	3	24	White (5 Suits)	2021-01-14 — 12:11:20 UTC	catula, Denchulitas, Lel0uch	81	5	25
-402958	4	22	White (5 Suits)	2021-01-14 — 11:16:05 UTC	catula, Denchulitas, macanek, Pimak	46	5	25
-402867	3	20	Black (5 Suits)	2021-01-14 — 07:14:18 UTC	4head, Denchulitas, katian	171	5	25
+404010	4	21	No Variant	2021-01-15 — 14:03:16 UTC	Denchulitas, Lanvin, sephiroth, sin_faith	19	5	25
+403990	4	0	No Variant	2021-01-15 — 13:10:36 UTC	Denchulitas, Lanvin, sephiroth, sin_faith	18	5	25
+403954	4	0	No Variant	2021-01-15 — 11:59:48 UTC	Denchulitas, sin_faith, skyblueexo, Wittvector	17	5	25
+403948	2	0	No Variant	2021-01-15 — 11:28:17 UTC	Denchulitas, Pimak	313	5	25
+403931	2	23	No Variant	2021-01-15 — 10:37:34 UTC	Denchulitas, Pimak	318	5	25
+403016	3	30	Black (6 Suits)	2021-01-14 — 14:27:23 UTC	Denchulitas, knaphill, LautiManzano	214	6	30
+402968	3	24	White (5 Suits)	2021-01-14 — 12:11:20 UTC	catula, Denchulitas, Lel0uch	84	5	25
+402958	4	22	White (5 Suits)	2021-01-14 — 11:16:05 UTC	catula, Denchulitas, macanek, Pimak	47	5	25
+402867	3	20	Black (5 Suits)	2021-01-14 — 07:14:18 UTC	4head, Denchulitas, katian	174	5	25
 402812	5	0	Prism (5 Suits)	2021-01-14 — 06:13:43 UTC	4head, Denchulitas, eljavi, lolthisnotderk, nkkarpov	9	5	25
 402789	5	28	6 Suits	2021-01-14 — 05:27:23 UTC	4head, bjnh, Denchulitas, eljavi, lolthisnotderk	45	6	30
-402716	5	21	No Variant	2021-01-14 — 03:57:58 UTC	4head, bjnh, Denchulitas, FerKeth, poofart123	1510	5	25
-402607	3	24	No Variant	2021-01-14 — 02:22:32 UTC	4head, Denchulitas, LautiManzano	307	5	25
-402581	3	24	No Variant	2021-01-14 — 01:54:17 UTC	4head, Denchulitas, LautiManzano	320	5	25
+402716	5	21	No Variant	2021-01-14 — 03:57:58 UTC	4head, bjnh, Denchulitas, FerKeth, poofart123	1518	5	25
+402607	3	24	No Variant	2021-01-14 — 02:22:32 UTC	4head, Denchulitas, LautiManzano	311	5	25
+402581	3	24	No Variant	2021-01-14 — 01:54:17 UTC	4head, Denchulitas, LautiManzano	324	5	25
 401350	3	0	6 Suits	2021-01-12 — 21:12:13 UTC	Alon, Denchulitas, LautiManzano	24	6	30
 401306	3	30	6 Suits	2021-01-12 — 20:24:43 UTC	Alon, Denchulitas, LautiManzano	25	6	30
 401291	3	30	6 Suits	2021-01-12 — 19:58:02 UTC	Alon, Denchulitas, LautiManzano	25	6	30
-399712	4	30	Brown (6 Suits)	2021-01-11 — 01:12:09 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	41	6	30
-399691	4	30	Black (6 Suits)	2021-01-11 — 00:36:11 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	91	6	30
-399661	4	30	Black (6 Suits)	2021-01-10 — 23:37:54 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	102	6	30
-399618	4	0	Black (6 Suits)	2021-01-10 — 23:10:49 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	112	6	30
-399595	4	0	Black (6 Suits)	2021-01-10 — 22:55:15 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	121	6	30
-399552	4	0	Black (6 Suits)	2021-01-10 — 22:30:05 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	128	6	30
-399517	4	0	Black (6 Suits)	2021-01-10 — 22:12:35 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	142	6	30
+399712	4	30	Brown (6 Suits)	2021-01-11 — 01:12:09 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	42	6	30
+399691	4	30	Black (6 Suits)	2021-01-11 — 00:36:11 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	95	6	30
+399661	4	30	Black (6 Suits)	2021-01-10 — 23:37:54 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	103	6	30
+399618	4	0	Black (6 Suits)	2021-01-10 — 23:10:49 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	113	6	30
+399595	4	0	Black (6 Suits)	2021-01-10 — 22:55:15 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	123	6	30
+399552	4	0	Black (6 Suits)	2021-01-10 — 22:30:05 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	129	6	30
+399517	4	0	Black (6 Suits)	2021-01-10 — 22:12:35 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	143	6	30
 399499	4	30	6 Suits	2021-01-10 — 21:52:21 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	25	6	30
 399475	4	30	6 Suits	2021-01-10 — 21:27:44 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	25	6	30
-399439	4	0	6 Suits	2021-01-10 — 20:57:23 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	25	6	30
-399431	4	30	6 Suits	2021-01-10 — 20:49:50 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	26	6	30
-399400	4	30	6 Suits	2021-01-10 — 20:17:56 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	28	6	30
-399379	4	0	6 Suits	2021-01-10 — 19:45:35 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	27	6	30
-360542	2	0	No Variant	2020-12-04 — 16:15:30 UTC	Denchulitas, LautiManzano	2288	5	25
-359225	3	25	No Variant	2020-12-02 — 22:39:34 UTC	Alondra, Denchulitas, LautiManzano	422	5	25
-359214	3	0	No Variant	2020-12-02 — 22:22:07 UTC	Alondra, Denchulitas, LautiManzano	451	5	25
-359208	3	0	No Variant	2020-12-02 — 22:10:52 UTC	Alondra, Denchulitas, LautiManzano	459	5	25
-359203	3	0	No Variant	2020-12-02 — 21:51:19 UTC	Alondra, Denchulitas, LautiManzano	485	5	25
-359172	3	0	No Variant	2020-12-02 — 21:16:34 UTC	Alondra, Denchulitas, LautiManzano	516	5	25
-359170	3	25	No Variant	2020-12-02 — 21:14:30 UTC	Alondra, Denchulitas, LautiManzano	551	5	25
-357772	2	25	No Variant	2020-11-30 — 20:58:50 UTC	Denchulitas, LautiManzano	2532	5	25
-357759	2	0	No Variant	2020-11-30 — 20:42:35 UTC	Denchulitas, LautiManzano	2750	5	25
-357754	2	0	No Variant	2020-11-30 — 20:38:53 UTC	Denchulitas, LautiManzano	3051	5	25
-357745	2	0	No Variant	2020-11-30 — 20:31:26 UTC	Denchulitas, LautiManzano	3507	5	25
-357743	2	0	No Variant	2020-11-30 — 20:28:52 UTC	Denchulitas, LautiManzano	4109	5	25
+399439	4	0	6 Suits	2021-01-10 — 20:57:23 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	27	6	30
+399431	4	30	6 Suits	2021-01-10 — 20:49:50 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	29	6	30
+399400	4	30	6 Suits	2021-01-10 — 20:17:56 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	29	6	30
+399379	4	0	6 Suits	2021-01-10 — 19:45:35 UTC	DamianPereira, Denchulitas, jujalieta, LautiManzano	28	6	30
+360542	2	0	No Variant	2020-12-04 — 16:15:30 UTC	Denchulitas, LautiManzano	2307	5	25
+359225	3	25	No Variant	2020-12-02 — 22:39:34 UTC	Alondra, Denchulitas, LautiManzano	428	5	25
+359214	3	0	No Variant	2020-12-02 — 22:22:07 UTC	Alondra, Denchulitas, LautiManzano	456	5	25
+359208	3	0	No Variant	2020-12-02 — 22:10:52 UTC	Alondra, Denchulitas, LautiManzano	467	5	25
+359203	3	0	No Variant	2020-12-02 — 21:51:19 UTC	Alondra, Denchulitas, LautiManzano	491	5	25
+359172	3	0	No Variant	2020-12-02 — 21:16:34 UTC	Alondra, Denchulitas, LautiManzano	523	5	25
+359170	3	25	No Variant	2020-12-02 — 21:14:30 UTC	Alondra, Denchulitas, LautiManzano	558	5	25
+357772	2	25	No Variant	2020-11-30 — 20:58:50 UTC	Denchulitas, LautiManzano	2552	5	25
+357759	2	0	No Variant	2020-11-30 — 20:42:35 UTC	Denchulitas, LautiManzano	2772	5	25
+357754	2	0	No Variant	2020-11-30 — 20:38:53 UTC	Denchulitas, LautiManzano	3072	5	25
+357745	2	0	No Variant	2020-11-30 — 20:31:26 UTC	Denchulitas, LautiManzano	3537	5	25
+357743	2	0	No Variant	2020-11-30 — 20:28:52 UTC	Denchulitas, LautiManzano	4149	5	25
