@@ -1,0 +1,1469 @@
+300251	2	0	Light-Pink-Ones & White (5 Suits)	2020-09-17 — 22:05:44 UTC	invarse, Livia	2	5	25
+300244	2	0	Light-Pink-Ones & White (5 Suits)	2020-09-17 — 21:55:02 UTC	invarse, Livia	2	5	25
+258039	2	0	Gray Reversed (6 Suits)	2020-08-01 — 15:46:39 UTC	invarse, Livia	9	6	30
+258036	2	25	Gray Reversed (5 Suits)	2020-08-01 — 15:38:42 UTC	invarse, Livia	4	5	25
+258031	2	0	Gray Reversed (5 Suits)	2020-08-01 — 15:30:28 UTC	invarse, Livia	4	5	25
+258029	2	0	Gray Reversed (5 Suits)	2020-08-01 — 15:25:23 UTC	invarse, Livia	5	5	25
+258025	2	0	Gray Reversed (5 Suits)	2020-08-01 — 15:14:12 UTC	invarse, Livia	6	5	25
+258023	2	0	Gray Reversed (5 Suits)	2020-08-01 — 15:10:52 UTC	invarse, Livia	6	5	25
+258019	2	15	Rainbow Reversed (3 Suits)	2020-08-01 — 15:02:03 UTC	invarse, Livia	3	3	15
+258016	2	0	Rainbow Reversed (3 Suits)	2020-08-01 — 14:56:35 UTC	invarse, Livia	3	3	15
+258013	2	0	Rainbow Reversed (3 Suits)	2020-08-01 — 14:52:20 UTC	invarse, Livia	6	3	15
+258010	2	20	Rainbow Reversed (4 Suits)	2020-08-01 — 14:45:07 UTC	invarse, Livia	9	4	20
+219804	2	22	Reversed (5 Suits)	2020-06-26 — 22:00:28 UTC	invarse, Livia	27	5	25
+219787	2	0	Reversed (5 Suits)	2020-06-26 — 21:54:22 UTC	invarse, Livia	32	5	25
+219784	2	0	Reversed (5 Suits)	2020-06-26 — 21:52:12 UTC	invarse, Livia	34	5	25
+219760	2	0	Reversed (5 Suits)	2020-06-26 — 21:42:13 UTC	invarse, Livia	39	5	25
+219740	2	0	Reversed (5 Suits)	2020-06-26 — 21:32:17 UTC	invarse, Livia	44	5	25
+219713	2	20	Reversed (4 Suits)	2020-06-26 — 21:24:26 UTC	invarse, Livia	28	4	20
+219701	2	15	Reversed (3 Suits)	2020-06-26 — 21:18:24 UTC	invarse, Livia	7	3	15
+219677	2	30	White Reversed (6 Suits)	2020-06-26 — 20:58:52 UTC	invarse, Livia	28	6	30
+219666	2	0	White Reversed (6 Suits)	2020-06-26 — 20:48:55 UTC	invarse, Livia	28	6	30
+203943	2	0	White Reversed (6 Suits)	2020-06-12 — 20:15:11 UTC	invarse, Livia	29	6	30
+203935	2	0	White Reversed (6 Suits)	2020-06-12 — 20:08:09 UTC	invarse, Livia	32	6	30
+203932	2	0	White Reversed (6 Suits)	2020-06-12 — 20:06:16 UTC	invarse, Livia	34	6	30
+203926	2	29	White Reversed (6 Suits)	2020-06-12 — 20:03:47 UTC	invarse, Livia	35	6	30
+203912	2	0	White Reversed (6 Suits)	2020-06-12 — 19:55:20 UTC	invarse, Livia	38	6	30
+203896	2	0	White Reversed (6 Suits)	2020-06-12 — 19:48:18 UTC	invarse, Livia	44	6	30
+203883	2	0	White Reversed (6 Suits)	2020-06-12 — 19:40:37 UTC	invarse, Livia	49	6	30
+203871	2	25	White Reversed (5 Suits)	2020-06-12 — 19:34:44 UTC	invarse, Livia	12	5	25
+203857	2	0	White Reversed (5 Suits)	2020-06-12 — 19:27:14 UTC	invarse, Livia	13	5	25
+203854	2	0	White Reversed (5 Suits)	2020-06-12 — 19:26:15 UTC	invarse, Livia	13	5	25
+203847	2	0	White Reversed (5 Suits)	2020-06-12 — 19:23:02 UTC	invarse, Livia	14	5	25
+203837	2	24	White Reversed (5 Suits)	2020-06-12 — 19:19:30 UTC	invarse, Livia	18	5	25
+202846	2	0	White Reversed (5 Suits)	2020-06-11 — 21:43:43 UTC	invarse, Livia	19	5	25
+202843	2	0	White Reversed (5 Suits)	2020-06-11 — 21:41:13 UTC	invarse, Livia	24	5	25
+202832	2	20	White Reversed (4 Suits)	2020-06-11 — 21:34:40 UTC	invarse, Livia	9	4	20
+202825	2	15	White Reversed (3 Suits)	2020-06-11 — 21:26:40 UTC	invarse, Livia	5	3	15
+202818	2	0	White Reversed (3 Suits)	2020-06-11 — 21:20:50 UTC	invarse, Livia	14	3	15
+198064	4	25	No Variant	2020-06-07 — 18:15:45 UTC	invarse, melwen, sephiroth, will.i.am	18	5	25
+197973	4	25	No Variant	2020-06-07 — 16:56:19 UTC	invarse, melwen, sephiroth, will.i.am	20	5	25
+197933	4	25	No Variant	2020-06-07 — 16:06:21 UTC	invarse, melwen, sephiroth, will.i.am	21	5	25
+197907	4	25	No Variant	2020-06-07 — 15:22:39 UTC	invarse, melwen, sephiroth, will.i.am	25	5	25
+197070	4	25	No Variant	2020-06-07 — 01:52:28 UTC	invarse, melwen, sephiroth, will.i.am	36	5	25
+197025	4	25	No Variant	2020-06-07 — 01:18:59 UTC	invarse, melwen, sephiroth, will.i.am	33	5	25
+194413	4	24	No Variant	2020-06-05 — 02:41:02 UTC	invarse, melwen, sephiroth, will.i.am	32	5	25
+194345	4	0	No Variant	2020-06-05 — 02:00:32 UTC	invarse, melwen, sephiroth, will.i.am	34	5	25
+194323	4	0	No Variant	2020-06-05 — 01:38:28 UTC	invarse, melwen, sephiroth, will.i.am	34	5	25
+194282	4	0	No Variant	2020-06-05 — 01:08:50 UTC	invarse, melwen, sephiroth, will.i.am	35	5	25
+194234	4	0	No Variant	2020-06-05 — 00:48:27 UTC	invarse, melwen, sephiroth, will.i.am	36	5	25
+194147	4	25	No Variant	2020-06-04 — 22:36:28 UTC	invarse, melwen, sephiroth, will.i.am	36	5	25
+194104	4	25	No Variant	2020-06-04 — 21:54:35 UTC	invarse, melwen, sephiroth, will.i.am	39	5	25
+193067	4	0	No Variant	2020-06-03 — 23:19:40 UTC	invarse, melwen, sephiroth, will.i.am	39	5	25
+193053	4	24	No Variant	2020-06-03 — 22:54:54 UTC	invarse, melwen, sephiroth, will.i.am	41	5	25
+193026	4	23	No Variant	2020-06-03 — 22:17:41 UTC	invarse, melwen, sephiroth, will.i.am	38	5	25
+193010	3	24	No Variant	2020-06-03 — 21:53:38 UTC	invarse, sephiroth, will.i.am	164	5	25
+192991	3	0	No Variant	2020-06-03 — 21:34:15 UTC	invarse, sephiroth, will.i.am	175	5	25
+191868	4	25	No Variant	2020-06-02 — 22:41:03 UTC	invarse, melwen, sephiroth, will.i.am	40	5	25
+191843	4	0	No Variant	2020-06-02 — 22:05:37 UTC	invarse, melwen, sephiroth, will.i.am	39	5	25
+191813	4	22	No Variant	2020-06-02 — 21:29:12 UTC	invarse, melwen, sephiroth, will.i.am	41	5	25
+191552	2	27	Gray Pink (6 Suits)	2020-06-02 — 16:03:47 UTC	invarse, Livia	30	6	30
+191545	2	30	Cocoa Rainbow (6 Suits)	2020-06-02 — 15:45:54 UTC	invarse, Livia	10	6	30
+191530	2	0	Cocoa Rainbow (6 Suits)	2020-06-02 — 15:27:46 UTC	invarse, Livia	10	6	30
+191527	2	0	Cocoa Rainbow (6 Suits)	2020-06-02 — 15:22:13 UTC	invarse, Livia	10	6	30
+191525	2	0	Cocoa Rainbow (6 Suits)	2020-06-02 — 15:21:40 UTC	invarse, Livia	10	6	30
+191515	2	0	Cocoa Rainbow (6 Suits)	2020-06-02 — 15:14:18 UTC	invarse, Livia	10	6	30
+189518	3	23	Black & Rainbow (5 Suits)	2020-05-31 — 21:32:09 UTC	invarse, Jake_Stiles, Valetta6789	24	5	25
+189481	3	22	Black & Rainbow (5 Suits)	2020-05-31 — 21:03:14 UTC	invarse, Jake_Stiles, Valetta6789	26	5	25
+189431	3	0	Black & Rainbow (5 Suits)	2020-05-31 — 20:27:43 UTC	invarse, Jake_Stiles, Valetta6789	30	5	25
+189390	3	25	Black & Rainbow (5 Suits)	2020-05-31 — 20:01:09 UTC	invarse, Jake_Stiles, Valetta6789	31	5	25
+189348	3	23	Black & Rainbow (5 Suits)	2020-05-31 — 19:30:27 UTC	invarse, Jake_Stiles, Valetta6789	5	5	25
+189314	3	0	Black & Rainbow (5 Suits)	2020-05-31 — 19:07:18 UTC	invarse, Jake_Stiles, Valetta6789	5	5	25
+189289	3	0	Black & Rainbow (5 Suits)	2020-05-31 — 18:52:22 UTC	invarse, Jake_Stiles, Valetta6789	6	5	25
+189271	3	0	Black & Rainbow (5 Suits)	2020-05-31 — 18:39:37 UTC	invarse, Jake_Stiles, Valetta6789	6	5	25
+189246	3	0	Black & Rainbow (5 Suits)	2020-05-31 — 18:14:58 UTC	invarse, Jake_Stiles, Valetta6789	6	5	25
+185425	3	0	Black & Rainbow (5 Suits)	2020-05-28 — 22:12:07 UTC	invarse, Jake_Stiles, Valetta6789	6	5	25
+185398	3	0	Black & Rainbow (5 Suits)	2020-05-28 — 21:50:56 UTC	invarse, Jake_Stiles, Valetta6789	6	5	25
+185374	3	0	Black & Rainbow (5 Suits)	2020-05-28 — 21:35:18 UTC	invarse, Jake_Stiles, Valetta6789	6	5	25
+185346	3	0	Black & Rainbow (5 Suits)	2020-05-28 — 21:16:21 UTC	invarse, Jake_Stiles, Valetta6789	7	5	25
+185330	3	0	Black & Rainbow (5 Suits)	2020-05-28 — 21:05:29 UTC	invarse, Jake_Stiles, Valetta6789	58	5	25
+173180	2	24	Black & Light Pink (5 Suits)	2020-05-19 — 21:50:38 UTC	invarse, Livia	9	5	25
+173171	2	0	Black & Light Pink (5 Suits)	2020-05-19 — 21:39:05 UTC	invarse, Livia	11	5	25
+173164	2	0	Black & Light Pink (5 Suits)	2020-05-19 — 21:31:37 UTC	invarse, Livia	12	5	25
+173138	2	22	Black & Light Pink (5 Suits)	2020-05-19 — 21:12:58 UTC	invarse, Livia	15	5	25
+173121	2	0	Black & Light Pink (5 Suits)	2020-05-19 — 20:58:06 UTC	invarse, Livia	18	5	25
+173116	2	0	Black & Light Pink (5 Suits)	2020-05-19 — 20:53:04 UTC	invarse, Livia	19	5	25
+173102	2	0	Black & Light Pink (5 Suits)	2020-05-19 — 20:47:20 UTC	invarse, Livia	19	5	25
+173093	2	0	Black & Light Pink (5 Suits)	2020-05-19 — 20:42:21 UTC	invarse, Livia	22	5	25
+155362	4	23	White (5 Suits)	2020-05-07 — 03:26:57 UTC	alphabeta, invarse, Nitrate2, scharkbite	13	5	25
+154826	2	30	Alternating Clues & White (6 Suits)	2020-05-06 — 21:12:34 UTC	invarse, Livia	2	6	30
+154804	2	0	Alternating Clues & White (6 Suits)	2020-05-06 — 21:00:04 UTC	invarse, Livia	2	6	30
+154792	2	0	Alternating Clues & White (6 Suits)	2020-05-06 — 20:56:01 UTC	invarse, Livia	2	6	30
+154780	2	0	Alternating Clues & White (6 Suits)	2020-05-06 — 20:50:13 UTC	invarse, Livia	2	6	30
+154774	2	0	Alternating Clues & White (6 Suits)	2020-05-06 — 20:48:08 UTC	invarse, Livia	2	6	30
+154764	2	0	Alternating Clues & White (6 Suits)	2020-05-06 — 20:43:15 UTC	invarse, Livia	2	6	30
+154754	2	0	Alternating Clues & White (6 Suits)	2020-05-06 — 20:37:17 UTC	invarse, Livia	2	6	30
+154744	2	0	Alternating Clues & White (6 Suits)	2020-05-06 — 20:31:58 UTC	invarse, Livia	2	6	30
+154725	2	0	Alternating Clues & White (6 Suits)	2020-05-06 — 20:25:20 UTC	invarse, Livia	2	6	30
+154720	2	0	Alternating Clues & White (6 Suits)	2020-05-06 — 20:20:30 UTC	invarse, Livia	2	6	30
+154713	2	0	Alternating Clues & White (6 Suits)	2020-05-06 — 20:18:02 UTC	invarse, Livia	2	6	30
+154709	2	0	Alternating Clues & White (6 Suits)	2020-05-06 — 20:16:13 UTC	invarse, Livia	2	6	30
+154701	2	0	Alternating Clues & White (6 Suits)	2020-05-06 — 20:13:50 UTC	invarse, Livia	2	6	30
+154690	2	0	Alternating Clues & White (6 Suits)	2020-05-06 — 20:05:41 UTC	invarse, Livia	2	6	30
+154440	2	0	Alternating Clues & White (6 Suits)	2020-05-06 — 13:44:51 UTC	Dr_Kakashi, invarse	2	6	30
+154434	2	0	Alternating Clues & White (6 Suits)	2020-05-06 — 13:34:05 UTC	Dr_Kakashi, invarse	2	6	30
+154431	2	0	Alternating Clues & White (6 Suits)	2020-05-06 — 13:29:51 UTC	Dr_Kakashi, invarse	2	6	30
+154426	2	0	Alternating Clues & White (6 Suits)	2020-05-06 — 13:21:36 UTC	Dr_Kakashi, invarse	2	6	30
+152170	4	22	No Variant	2020-05-04 — 22:30:44 UTC	duke4eva16, invarse, kalisa, mikefrenil	1253	5	25
+150903	2	25	Alternating Clues & White (5 Suits)	2020-05-04 — 00:04:52 UTC	Dr_Kakashi, invarse	2	5	25
+150898	2	0	Alternating Clues & White (5 Suits)	2020-05-04 — 00:00:03 UTC	Dr_Kakashi, invarse	2	5	25
+150891	2	0	Alternating Clues & White (5 Suits)	2020-05-03 — 23:55:48 UTC	Dr_Kakashi, invarse	2	5	25
+150885	2	0	Alternating Clues & White (5 Suits)	2020-05-03 — 23:49:02 UTC	Dr_Kakashi, invarse	2	5	25
+150878	2	0	Alternating Clues & White (5 Suits)	2020-05-03 — 23:46:16 UTC	Dr_Kakashi, invarse	2	5	25
+150871	2	0	Alternating Clues & White (5 Suits)	2020-05-03 — 23:39:24 UTC	Dr_Kakashi, invarse	2	5	25
+150864	2	0	Alternating Clues & White (5 Suits)	2020-05-03 — 23:34:52 UTC	Dr_Kakashi, invarse	2	5	25
+150858	2	0	Alternating Clues & White (5 Suits)	2020-05-03 — 23:31:12 UTC	Dr_Kakashi, invarse	2	5	25
+150840	2	0	Alternating Clues & White (5 Suits)	2020-05-03 — 23:21:30 UTC	Dr_Kakashi, invarse	3	5	25
+150830	2	20	Alternating Clues & White (4 Suits)	2020-05-03 — 23:07:38 UTC	Dr_Kakashi, invarse	2	4	20
+150801	2	15	Alternating Clues & White (3 Suits)	2020-05-03 — 22:41:16 UTC	Dr_Kakashi, invarse	2	3	15
+150789	2	0	Alternating Clues & White (3 Suits)	2020-05-03 — 22:32:16 UTC	Dr_Kakashi, invarse	5	3	15
+147218	5	0	Special Mix (6 Suits)	2020-05-02 — 00:31:41 UTC	Dr_Kakashi, honzas, invarse, micerang, sin_faith	11	6	30
+147189	4	0	Special Mix (6 Suits)	2020-05-02 — 00:14:50 UTC	Dr_Kakashi, honzas, invarse, sin_faith	24	6	30
+142867	3	25	No Variant	2020-04-29 — 01:55:01 UTC	Dr_Kakashi, invarse, kalisa	40	5	25
+142802	2	30	Null-Fives & White (6 Suits)	2020-04-29 — 01:18:33 UTC	Dr_Kakashi, invarse	3	6	30
+142781	2	0	Null-Fives & White (6 Suits)	2020-04-29 — 01:00:41 UTC	Dr_Kakashi, invarse	3	6	30
+141242	2	0	Null-Fives & White (6 Suits)	2020-04-27 — 20:30:53 UTC	Dr_Kakashi, invarse	3	6	30
+141226	2	0	Null-Fives & White (6 Suits)	2020-04-27 — 20:17:42 UTC	Dr_Kakashi, invarse	3	6	30
+140026	2	25	Null-Fives & White (5 Suits)	2020-04-26 — 21:25:28 UTC	Dr_Kakashi, invarse	3	5	25
+140017	2	0	Null-Fives & White (5 Suits)	2020-04-26 — 21:17:59 UTC	Dr_Kakashi, invarse	3	5	25
+139966	2	0	Null-Fives & White (5 Suits)	2020-04-26 — 20:58:24 UTC	Dr_Kakashi, invarse	3	5	25
+139937	2	0	Null-Fives & White (5 Suits)	2020-04-26 — 20:48:34 UTC	Dr_Kakashi, invarse	3	5	25
+139924	2	0	Null-Fives & White (5 Suits)	2020-04-26 — 20:42:15 UTC	Dr_Kakashi, invarse	3	5	25
+139913	2	0	Null-Fives & White (5 Suits)	2020-04-26 — 20:38:28 UTC	Dr_Kakashi, invarse	3	5	25
+139907	2	0	Null-Fives & White (5 Suits)	2020-04-26 — 20:34:42 UTC	Dr_Kakashi, invarse	3	5	25
+139899	2	0	Null-Fives & White (5 Suits)	2020-04-26 — 20:32:56 UTC	Dr_Kakashi, invarse	4	5	25
+139894	2	0	Null-Fives & White (5 Suits)	2020-04-26 — 20:30:55 UTC	Dr_Kakashi, invarse	4	5	25
+139875	2	20	Null-Fives & White (4 Suits)	2020-04-26 — 20:25:11 UTC	Dr_Kakashi, invarse	3	4	20
+139851	2	15	Null-Fives & White (3 Suits)	2020-04-26 — 20:15:34 UTC	Dr_Kakashi, invarse	2	3	15
+139825	3	15	Rainbow & White (3 Suits)	2020-04-26 — 20:03:39 UTC	Dr_Kakashi, invarse, Livia	1	3	15
+139804	3	13	Rainbow & White (3 Suits)	2020-04-26 — 19:51:27 UTC	Dr_Kakashi, invarse, Livia	1	3	15
+139772	3	0	Rainbow & White (3 Suits)	2020-04-26 — 19:39:02 UTC	Dr_Kakashi, invarse, Livia	2	3	15
+139765	3	14	Rainbow & White (3 Suits)	2020-04-26 — 19:31:11 UTC	Dr_Kakashi, invarse, Livia	2	3	15
+139734	3	14	Rainbow & White (3 Suits)	2020-04-26 — 19:19:31 UTC	Dr_Kakashi, invarse, Livia	2	3	15
+139715	3	14	Rainbow & White (3 Suits)	2020-04-26 — 19:11:20 UTC	Dr_Kakashi, invarse, Livia	25	3	15
+137698	2	25	Null-Fives & Dark Brown (5 Suits)	2020-04-25 — 15:20:37 UTC	Dr_Kakashi, invarse	1	5	25
+137683	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-25 — 15:08:32 UTC	Dr_Kakashi, invarse	1	5	25
+137679	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-25 — 15:04:34 UTC	Dr_Kakashi, invarse	1	5	25
+137676	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-25 — 14:57:15 UTC	Dr_Kakashi, invarse	1	5	25
+137674	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-25 — 14:53:27 UTC	Dr_Kakashi, invarse	1	5	25
+137672	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-25 — 14:48:10 UTC	Dr_Kakashi, invarse	1	5	25
+137662	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-25 — 14:38:52 UTC	Dr_Kakashi, invarse	1	5	25
+137661	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-25 — 14:37:46 UTC	Dr_Kakashi, invarse	1	5	25
+137655	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-25 — 14:33:54 UTC	Dr_Kakashi, invarse	1	5	25
+137651	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-25 — 14:29:15 UTC	Dr_Kakashi, invarse	1	5	25
+135046	2	24	Null-Fives & Dark Brown (5 Suits)	2020-04-24 — 01:28:10 UTC	Dr_Kakashi, invarse	1	5	25
+135035	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-24 — 01:19:26 UTC	Dr_Kakashi, invarse	1	5	25
+135032	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-24 — 01:17:15 UTC	Dr_Kakashi, invarse	1	5	25
+135027	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-24 — 01:12:47 UTC	Dr_Kakashi, invarse	1	5	25
+135012	2	24	Null-Fives & Dark Brown (5 Suits)	2020-04-24 — 01:01:06 UTC	Dr_Kakashi, invarse	1	5	25
+134999	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-24 — 00:50:40 UTC	Dr_Kakashi, invarse	1	5	25
+134994	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-24 — 00:49:46 UTC	Dr_Kakashi, invarse	1	5	25
+134984	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-24 — 00:40:16 UTC	Dr_Kakashi, invarse	1	5	25
+134978	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-24 — 00:35:56 UTC	Dr_Kakashi, invarse	1	5	25
+134975	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-24 — 00:32:34 UTC	Dr_Kakashi, invarse	1	5	25
+134970	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-24 — 00:28:13 UTC	Dr_Kakashi, invarse	1	5	25
+134966	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-24 — 00:23:03 UTC	Dr_Kakashi, invarse	1	5	25
+134956	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-24 — 00:16:15 UTC	Dr_Kakashi, invarse	1	5	25
+134952	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-24 — 00:13:35 UTC	Dr_Kakashi, invarse	1	5	25
+134950	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-24 — 00:11:56 UTC	Dr_Kakashi, invarse	1	5	25
+134948	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-24 — 00:09:27 UTC	Dr_Kakashi, invarse	1	5	25
+134937	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-23 — 23:57:15 UTC	Dr_Kakashi, invarse	1	5	25
+133862	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-23 — 03:08:57 UTC	invarse, Kyle	1	5	25
+133852	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-23 — 03:02:18 UTC	invarse, Kyle	1	5	25
+133851	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-23 — 02:59:58 UTC	invarse, Kyle	2	5	25
+133847	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-23 — 02:57:17 UTC	invarse, Kyle	2	5	25
+133834	2	0	Null-Fives & Dark Brown (5 Suits)	2020-04-23 — 02:49:12 UTC	invarse, Kyle	2	5	25
+133733	4	0	Black (6 Suits)	2020-04-23 — 01:54:24 UTC	invarse, joaep2, melwen, padi	8	6	30
+133389	2	30	Ambiguous & Dual-Color	2020-04-22 — 20:57:04 UTC	Dr_Kakashi, invarse	11	6	30
+133370	2	0	Ambiguous & Dual-Color	2020-04-22 — 20:43:28 UTC	Dr_Kakashi, invarse	11	6	30
+133351	2	0	Ambiguous & Dual-Color	2020-04-22 — 20:36:03 UTC	Dr_Kakashi, invarse	13	6	30
+133339	2	0	Ambiguous & Dual-Color	2020-04-22 — 20:28:00 UTC	Dr_Kakashi, invarse	15	6	30
+133331	2	0	Ambiguous & Dual-Color	2020-04-22 — 20:23:04 UTC	Dr_Kakashi, invarse	16	6	30
+133314	2	0	Ambiguous & Dual-Color	2020-04-22 — 20:17:13 UTC	Dr_Kakashi, invarse	18	6	30
+133305	2	0	Ambiguous & Dual-Color	2020-04-22 — 20:11:33 UTC	Dr_Kakashi, invarse	21	6	30
+133299	2	0	Ambiguous & Dual-Color	2020-04-22 — 20:07:01 UTC	Dr_Kakashi, invarse	29	6	30
+132679	4	0	No Variant	2020-04-22 — 02:36:28 UTC	Dr_Kakashi, invarse, kalisa, micerang	12	5	25
+132642	2	0	6 Suits	2020-04-22 — 02:10:40 UTC	Dr_Kakashi, invarse	36	6	30
+132627	2	0	6 Suits	2020-04-22 — 02:03:03 UTC	Dr_Kakashi, invarse	39	6	30
+132612	2	0	6 Suits	2020-04-22 — 01:55:18 UTC	Dr_Kakashi, invarse	40	6	30
+132474	3	0	6 Suits	2020-04-22 — 00:47:36 UTC	Dr_Kakashi, invarse, Yuga Suggah	22	6	30
+132464	3	0	6 Suits	2020-04-22 — 00:40:21 UTC	Dr_Kakashi, invarse, Yuga Suggah	23	6	30
+132450	3	0	6 Suits	2020-04-22 — 00:32:06 UTC	Dr_Kakashi, invarse, Yuga Suggah	23	6	30
+132432	3	0	6 Suits	2020-04-22 — 00:26:41 UTC	Dr_Kakashi, invarse, Yuga Suggah	24	6	30
+132398	6	0	Up or Down (5 Suits)	2020-04-22 — 00:05:02 UTC	Dr_Kakashi, honzas, invarse, lotem, Yeesh, Yuga Suggah	4	5	25
+132370	6	0	Up or Down (5 Suits)	2020-04-21 — 23:46:23 UTC	Dr_Kakashi, honzas, invarse, lotem, Yeesh, Yuga Suggah	6	5	25
+129056	2	0	Muddy Rainbow (6 Suits)	2020-04-19 — 16:56:44 UTC	invarse, Livia	21	6	30
+129039	2	0	Muddy Rainbow (6 Suits)	2020-04-19 — 16:41:00 UTC	invarse, Livia	26	6	30
+129021	2	0	Muddy Rainbow (6 Suits)	2020-04-19 — 16:27:47 UTC	invarse, Livia	39	6	30
+129014	2	0	Muddy Rainbow (6 Suits)	2020-04-19 — 16:18:35 UTC	invarse, Livia	43	6	30
+129003	2	30	Null-Fives & Brown (6 Suits)	2020-04-19 — 16:06:09 UTC	invarse, Livia	1	6	30
+128991	2	0	Null-Fives & Brown (6 Suits)	2020-04-19 — 15:57:41 UTC	invarse, Livia	1	6	30
+128989	2	0	Null-Fives & Brown (6 Suits)	2020-04-19 — 15:56:28 UTC	invarse, Livia	1	6	30
+128984	2	28	Null-Fives & Brown (6 Suits)	2020-04-19 — 15:52:40 UTC	invarse, Livia	1	6	30
+128966	2	0	Null-Fives & Brown (6 Suits)	2020-04-19 — 15:36:27 UTC	invarse, Livia	2	6	30
+124466	2	0	Null-Fives & Brown (6 Suits)	2020-04-16 — 20:43:16 UTC	Dr_Kakashi, invarse	1	6	30
+124461	2	0	Null-Fives & Brown (6 Suits)	2020-04-16 — 20:40:59 UTC	Dr_Kakashi, invarse	1	6	30
+124455	2	0	Null-Fives & Brown (6 Suits)	2020-04-16 — 20:37:40 UTC	Dr_Kakashi, invarse	1	6	30
+124447	2	0	Null-Fives & Brown (6 Suits)	2020-04-16 — 20:31:59 UTC	Dr_Kakashi, invarse	1	6	30
+124445	2	0	Null-Fives & Brown (6 Suits)	2020-04-16 — 20:30:14 UTC	Dr_Kakashi, invarse	1	6	30
+124442	2	0	Null-Fives & Brown (6 Suits)	2020-04-16 — 20:27:42 UTC	Dr_Kakashi, invarse	1	6	30
+124440	2	0	Null-Fives & Brown (6 Suits)	2020-04-16 — 20:24:56 UTC	Dr_Kakashi, invarse	1	6	30
+124437	2	0	Null-Fives & Brown (6 Suits)	2020-04-16 — 20:23:45 UTC	Dr_Kakashi, invarse	1	6	30
+122911	2	0	Null-Fives & Brown (6 Suits)	2020-04-15 — 13:59:53 UTC	Dr_Kakashi, invarse	1	6	30
+122908	2	0	Null-Fives & Brown (6 Suits)	2020-04-15 — 13:49:43 UTC	Dr_Kakashi, invarse	1	6	30
+122907	2	0	Null-Fives & Brown (6 Suits)	2020-04-15 — 13:41:08 UTC	Dr_Kakashi, invarse	1	6	30
+122901	2	0	Null-Fives & Brown (6 Suits)	2020-04-15 — 13:37:20 UTC	Dr_Kakashi, invarse	1	6	30
+122899	2	0	Null-Fives & Brown (6 Suits)	2020-04-15 — 13:32:02 UTC	Dr_Kakashi, invarse	2	6	30
+122895	2	0	Null-Fives & Brown (6 Suits)	2020-04-15 — 13:26:08 UTC	Dr_Kakashi, invarse	2	6	30
+122891	2	0	Null-Fives & Brown (6 Suits)	2020-04-15 — 13:20:20 UTC	Dr_Kakashi, invarse	2	6	30
+122890	2	0	Null-Fives & Brown (6 Suits)	2020-04-15 — 13:19:44 UTC	Dr_Kakashi, invarse	2	6	30
+122888	2	0	Null-Fives & Brown (6 Suits)	2020-04-15 — 13:12:27 UTC	Dr_Kakashi, invarse	2	6	30
+122883	2	28	Null-Fives & Brown (6 Suits)	2020-04-15 — 13:00:02 UTC	Dr_Kakashi, invarse	3	6	30
+121633	2	25	Null-Fives & Brown (5 Suits)	2020-04-14 — 12:44:30 UTC	Dr_Kakashi, invarse	1	5	25
+121624	2	0	Null-Fives & Brown (5 Suits)	2020-04-14 — 12:34:19 UTC	Dr_Kakashi, invarse	2	5	25
+121621	2	0	Null-Fives & Brown (5 Suits)	2020-04-14 — 12:29:22 UTC	Dr_Kakashi, invarse	3	5	25
+121618	2	20	Null-Fives & Brown (4 Suits)	2020-04-14 — 12:22:35 UTC	Dr_Kakashi, invarse	2	4	20
+121616	2	0	Null-Fives & Brown (4 Suits)	2020-04-14 — 12:16:31 UTC	Dr_Kakashi, invarse	3	4	20
+119130	3	20	Null-Fives & Brown (4 Suits)	2020-04-12 — 16:13:26 UTC	Dr_Kakashi, invarse, Kyle	2	4	20
+119107	4	0	Null-Fives & Brown (4 Suits)	2020-04-12 — 15:54:50 UTC	Dr_Kakashi, invarse, Kyle, Livia	1	4	20
+119087	3	0	Null-Fives & Brown (4 Suits)	2020-04-12 — 15:40:04 UTC	Dr_Kakashi, invarse, Livia	2	4	20
+119083	3	0	Null-Fives & Brown (4 Suits)	2020-04-12 — 15:37:52 UTC	Dr_Kakashi, invarse, Livia	2	4	20
+119072	3	0	Null-Fives & Brown (4 Suits)	2020-04-12 — 15:28:13 UTC	Dr_Kakashi, invarse, Livia	3	4	20
+119066	3	0	Null-Fives & Brown (4 Suits)	2020-04-12 — 15:24:06 UTC	Dr_Kakashi, invarse, Livia	3	4	20
+119054	3	15	Null-Fives & Brown (3 Suits)	2020-04-12 — 15:05:34 UTC	Dr_Kakashi, invarse, Livia	1	3	15
+119045	3	0	Null-Fives & Brown (3 Suits)	2020-04-12 — 14:56:00 UTC	Dr_Kakashi, invarse, Livia	1	3	15
+119040	3	13	Null-Fives & Brown (3 Suits)	2020-04-12 — 14:48:18 UTC	Dr_Kakashi, invarse, Livia	1	3	15
+119030	3	0	Null-Fives & Brown (3 Suits)	2020-04-12 — 14:38:30 UTC	Dr_Kakashi, invarse, Livia	1	3	15
+119015	3	12	Null-Fives & Brown (3 Suits)	2020-04-12 — 14:25:45 UTC	Dr_Kakashi, invarse, Livia	1	3	15
+119008	4	12	Null-Fives & Brown (3 Suits)	2020-04-12 — 14:08:19 UTC	Dr_Kakashi, invarse, Livia, Valetta6789	1	3	15
+119000	4	0	Null-Fives & Brown (3 Suits)	2020-04-12 — 13:53:36 UTC	Dr_Kakashi, invarse, Livia, Valetta6789	1	3	15
+118993	4	0	Null-Fives & Brown (3 Suits)	2020-04-12 — 13:40:26 UTC	Dr_Kakashi, invarse, Livia, Valetta6789	1	3	15
+118989	4	0	Null-Fives & Brown (3 Suits)	2020-04-12 — 13:27:07 UTC	Dr_Kakashi, invarse, Livia, Valetta6789	1	3	15
+118987	4	12	Null-Fives & Brown (3 Suits)	2020-04-12 — 13:12:56 UTC	Dr_Kakashi, invarse, Livia, Valetta6789	1	3	15
+118980	4	30	Pink & Cocoa Rainbow (6 Suits)	2020-04-12 — 12:40:28 UTC	Dr_Kakashi, invarse, Livia, Valetta6789	2	6	30
+114770	3	20	White-Fives & Rainbow (4 Suits)	2020-04-09 — 22:27:17 UTC	Fireheart, invarse, Livia	1	4	20
+114632	2	0	Alternating Clues & Brown (4 Suits)	2020-04-09 — 21:01:51 UTC	invarse, Livia	1	4	20
+114618	2	0	Alternating Clues & Brown (4 Suits)	2020-04-09 — 20:52:00 UTC	invarse, Livia	1	4	20
+113053	2	15	Alternating Clues & Brown (3 Suits)	2020-04-07 — 21:58:37 UTC	invarse, Livia	1	3	15
+113050	2	0	Alternating Clues & Brown (3 Suits)	2020-04-07 — 21:56:15 UTC	invarse, Livia	1	3	15
+113046	2	0	Alternating Clues & Brown (3 Suits)	2020-04-07 — 21:55:36 UTC	invarse, Livia	1	3	15
+113043	2	0	Alternating Clues & Brown (3 Suits)	2020-04-07 — 21:53:48 UTC	invarse, Livia	1	3	15
+113039	2	0	Alternating Clues & Brown (3 Suits)	2020-04-07 — 21:52:12 UTC	invarse, Livia	1	3	15
+113038	2	0	Alternating Clues & Brown (3 Suits)	2020-04-07 — 21:51:36 UTC	invarse, Livia	1	3	15
+113013	2	0	Alternating Clues & Brown (3 Suits)	2020-04-07 — 21:42:50 UTC	invarse, Livia	1	3	15
+112991	2	0	Alternating Clues & Brown (3 Suits)	2020-04-07 — 21:32:59 UTC	invarse, Livia	1	3	15
+112989	2	0	Alternating Clues & Brown (3 Suits)	2020-04-07 — 21:32:10 UTC	invarse, Livia	1	3	15
+112980	2	0	Alternating Clues & Brown (3 Suits)	2020-04-07 — 21:28:31 UTC	invarse, Livia	1	3	15
+112964	2	14	Alternating Clues & Brown (3 Suits)	2020-04-07 — 21:22:06 UTC	invarse, Livia	1	3	15
+112952	2	13	Alternating Clues & Brown (3 Suits)	2020-04-07 — 21:16:19 UTC	invarse, Livia	1	3	15
+112940	2	14	Alternating Clues & Brown (3 Suits)	2020-04-07 — 21:05:26 UTC	invarse, Livia	1	3	15
+106166	2	30	White-Ones & Muddy Rainbow (6 Suits)	2020-04-02 — 21:12:21 UTC	invarse, Livia	1	6	30
+106152	2	0	White-Ones & Muddy Rainbow (6 Suits)	2020-04-02 — 21:02:47 UTC	invarse, Livia	2	6	30
+106144	2	0	White-Ones & Muddy Rainbow (6 Suits)	2020-04-02 — 20:59:23 UTC	invarse, Livia	3	6	30
+106135	2	25	White-Ones & Muddy Rainbow (5 Suits)	2020-04-02 — 20:54:21 UTC	invarse, Livia	2	5	25
+106128	2	0	White-Ones & Muddy Rainbow (5 Suits)	2020-04-02 — 20:48:29 UTC	invarse, Livia	3	5	25
+106120	2	20	White-Ones & Muddy Rainbow (4 Suits)	2020-04-02 — 20:40:49 UTC	invarse, Livia	2	4	20
+106102	2	15	White-Ones & Muddy Rainbow (3 Suits)	2020-04-02 — 20:29:46 UTC	invarse, Livia	1	3	15
+106086	2	14	White-Ones & Muddy Rainbow (3 Suits)	2020-04-02 — 20:16:18 UTC	invarse, Livia	5	3	15
+106075	2	10	White-Ones & Muddy Rainbow (3 Suits)	2020-04-02 — 20:10:02 UTC	invarse, maxnorris13	6	3	15
+105992	2	30	Muddy-Rainbow-Fives (6 Suits)	2020-04-02 — 18:55:19 UTC	Dr_Kakashi, invarse	1	6	30
+105980	2	0	Muddy-Rainbow-Fives (6 Suits)	2020-04-02 — 18:43:41 UTC	Dr_Kakashi, invarse	1	6	30
+105978	2	0	Muddy-Rainbow-Fives (6 Suits)	2020-04-02 — 18:39:01 UTC	Dr_Kakashi, invarse	1	6	30
+105974	2	0	Muddy-Rainbow-Fives (6 Suits)	2020-04-02 — 18:37:37 UTC	Dr_Kakashi, invarse	1	6	30
+105968	2	0	Muddy-Rainbow-Fives (6 Suits)	2020-04-02 — 18:31:06 UTC	Dr_Kakashi, invarse	1	6	30
+105966	2	0	Muddy-Rainbow-Fives (6 Suits)	2020-04-02 — 18:29:02 UTC	Dr_Kakashi, invarse	1	6	30
+105965	2	0	Muddy-Rainbow-Fives (6 Suits)	2020-04-02 — 18:26:10 UTC	Dr_Kakashi, invarse	1	6	30
+105551	2	0	Muddy-Rainbow-Fives (6 Suits)	2020-04-02 — 03:52:35 UTC	Dr_Kakashi, invarse	1	6	30
+105544	2	0	Muddy-Rainbow-Fives (6 Suits)	2020-04-02 — 03:46:45 UTC	Dr_Kakashi, invarse	1	6	30
+105541	2	0	Muddy-Rainbow-Fives (6 Suits)	2020-04-02 — 03:42:11 UTC	Dr_Kakashi, invarse	1	6	30
+105531	2	0	Muddy-Rainbow-Fives (6 Suits)	2020-04-02 — 03:37:18 UTC	Dr_Kakashi, invarse	1	6	30
+105516	2	0	Muddy-Rainbow-Fives (6 Suits)	2020-04-02 — 03:28:19 UTC	Dr_Kakashi, invarse	1	6	30
+105502	2	0	Muddy-Rainbow-Fives (6 Suits)	2020-04-02 — 03:20:15 UTC	Dr_Kakashi, invarse	2	6	30
+105494	2	0	Muddy-Rainbow-Fives (6 Suits)	2020-04-02 — 03:14:55 UTC	Dr_Kakashi, invarse	4	6	30
+105474	2	25	Muddy-Rainbow-Fives (5 Suits)	2020-04-02 — 03:02:57 UTC	Dr_Kakashi, invarse	2	5	25
+105450	2	0	Muddy-Rainbow-Fives (5 Suits)	2020-04-02 — 02:44:18 UTC	Dr_Kakashi, invarse	3	5	25
+105435	2	0	Muddy-Rainbow-Fives (5 Suits)	2020-04-02 — 02:36:26 UTC	Dr_Kakashi, invarse	6	5	25
+105423	2	20	Muddy-Rainbow-Fives (4 Suits)	2020-04-02 — 02:29:49 UTC	Dr_Kakashi, invarse	4	4	20
+105411	2	15	Muddy-Rainbow-Fives (3 Suits)	2020-04-02 — 02:21:39 UTC	Dr_Kakashi, invarse	2	3	15
+105405	2	0	Muddy-Rainbow-Fives (3 Suits)	2020-04-02 — 02:17:21 UTC	Dr_Kakashi, invarse	5	3	15
+104057	2	0	Special Mix (5 Suits)	2020-04-01 — 00:10:40 UTC	invarse, Livia	39	5	25
+104047	2	0	Special Mix (5 Suits)	2020-03-31 — 23:58:26 UTC	invarse, Livia	39	5	25
+104040	2	0	Special Mix (5 Suits)	2020-03-31 — 23:52:07 UTC	invarse, Livia	44	5	25
+104037	2	0	Special Mix (5 Suits)	2020-03-31 — 23:50:07 UTC	invarse, Livia	47	5	25
+104029	2	21	Special Mix (5 Suits)	2020-03-31 — 23:41:59 UTC	invarse, Livia	60	5	25
+104027	2	0	Special Mix (5 Suits)	2020-03-31 — 23:32:15 UTC	invarse, Livia	63	5	25
+104024	2	0	Special Mix (5 Suits)	2020-03-31 — 23:29:58 UTC	invarse, Livia	66	5	25
+104018	2	0	Special Mix (5 Suits)	2020-03-31 — 23:21:39 UTC	invarse, Livia	88	5	25
+104010	2	20	Pink-Ones & Brown (4 Suits)	2020-03-31 — 23:10:21 UTC	invarse, Livia	1	4	20
+101507	2	30	Up or Down & Rainbow (6 Suits)	2020-03-29 — 17:58:58 UTC	invarse, Livia	36	6	30
+101498	2	0	Up or Down & Rainbow (6 Suits)	2020-03-29 — 17:45:58 UTC	invarse, Livia	48	6	30
+101491	2	24	Up or Down & Rainbow (5 Suits)	2020-03-29 — 17:33:34 UTC	invarse, Livia	15	5	25
+101483	2	30	Brown-Fives & Gray (6 Suits)	2020-03-29 — 17:20:17 UTC	invarse, Livia	1	6	30
+101477	2	0	Brown-Fives & Gray (6 Suits)	2020-03-29 — 17:10:06 UTC	invarse, Livia	1	6	30
+101471	2	0	Brown-Fives & Gray (6 Suits)	2020-03-29 — 17:04:58 UTC	invarse, Livia	1	6	30
+101462	2	0	Brown-Fives & Gray (6 Suits)	2020-03-29 — 16:53:58 UTC	invarse, Livia	1	6	30
+101447	2	0	Brown-Fives & Gray (6 Suits)	2020-03-29 — 16:41:33 UTC	invarse, Livia	1	6	30
+101443	2	0	Brown-Fives & Gray (6 Suits)	2020-03-29 — 16:36:34 UTC	invarse, Livia	1	6	30
+101434	2	25	Brown-Fives & Gray (5 Suits)	2020-03-29 — 16:27:10 UTC	invarse, Livia	1	5	25
+101425	2	0	Brown-Fives & Gray (5 Suits)	2020-03-29 — 16:18:46 UTC	invarse, Livia	1	5	25
+99788	4	0	White-Fives (5 Suits)	2020-03-28 — 15:24:30 UTC	Dr_Kakashi, IAMJEFF, invarse, Kyle	8	5	25
+99782	3	25	White-Fives (5 Suits)	2020-03-28 — 15:11:06 UTC	Dr_Kakashi, IAMJEFF, invarse	2	5	25
+99778	3	0	White-Fives (5 Suits)	2020-03-28 — 14:57:07 UTC	Dr_Kakashi, IAMJEFF, invarse	2	5	25
+99773	3	0	White-Fives (5 Suits)	2020-03-28 — 14:53:10 UTC	Dr_Kakashi, IAMJEFF, invarse	2	5	25
+99768	3	15	White-Fives (3 Suits)	2020-03-28 — 14:46:35 UTC	Dr_Kakashi, IAMJEFF, invarse	2	3	15
+99765	3	0	White-Fives (3 Suits)	2020-03-28 — 14:42:03 UTC	Dr_Kakashi, IAMJEFF, invarse	2	3	15
+99764	3	14	White-Fives (3 Suits)	2020-03-28 — 14:38:50 UTC	Dr_Kakashi, IAMJEFF, invarse	2	3	15
+99760	3	20	White-Fives (4 Suits)	2020-03-28 — 14:27:48 UTC	Dr_Kakashi, IAMJEFF, invarse	5	4	20
+98860	3	25	Pink & Gray (5 Suits)	2020-03-27 — 21:25:00 UTC	Dr_Kakashi, invarse, Livia	2	5	25
+98824	3	0	Pink & Gray (5 Suits)	2020-03-27 — 20:59:13 UTC	Dr_Kakashi, invarse, Livia	4	5	25
+98817	3	0	Pink & Gray (5 Suits)	2020-03-27 — 20:51:36 UTC	Dr_Kakashi, invarse, Livia	4	5	25
+98796	3	0	Pink & Gray (5 Suits)	2020-03-27 — 20:31:57 UTC	Dr_Kakashi, invarse, Livia	5	5	25
+98774	3	0	Pink & Gray (5 Suits)	2020-03-27 — 20:15:13 UTC	Dr_Kakashi, invarse, Livia	8	5	25
+96452	2	25	White & Dark Brown (5 Suits)	2020-03-24 — 23:18:43 UTC	invarse, Livia	4	5	25
+96437	2	22	White & Dark Brown (5 Suits)	2020-03-24 — 23:06:42 UTC	invarse, Livia	5	5	25
+96429	2	0	White & Dark Brown (5 Suits)	2020-03-24 — 22:59:50 UTC	invarse, Livia	6	5	25
+96423	2	0	White & Dark Brown (5 Suits)	2020-03-24 — 22:56:44 UTC	invarse, Livia	6	5	25
+96419	2	21	White & Dark Brown (5 Suits)	2020-03-24 — 22:52:32 UTC	invarse, Livia	6	5	25
+96408	2	0	White & Dark Brown (5 Suits)	2020-03-24 — 22:45:42 UTC	invarse, Livia	6	5	25
+96402	2	0	White & Dark Brown (5 Suits)	2020-03-24 — 22:39:51 UTC	invarse, Livia	8	5	25
+96384	2	0	White & Dark Brown (5 Suits)	2020-03-24 — 22:30:26 UTC	invarse, Livia	9	5	25
+96369	2	23	White & Dark Brown (5 Suits)	2020-03-24 — 22:19:34 UTC	invarse, Livia	10	5	25
+96355	2	0	White & Dark Brown (5 Suits)	2020-03-24 — 22:12:24 UTC	invarse, Livia	12	5	25
+92963	2	0	Rainbow & Omni (5 Suits)	2020-03-20 — 23:24:46 UTC	invarse, Livia	4	5	25
+92953	2	0	Rainbow & Omni (5 Suits)	2020-03-20 — 23:16:17 UTC	invarse, Livia	4	5	25
+92948	2	0	Rainbow & Omni (5 Suits)	2020-03-20 — 23:11:16 UTC	invarse, Livia	4	5	25
+92939	2	0	Rainbow & Omni (5 Suits)	2020-03-20 — 23:06:40 UTC	invarse, Livia	4	5	25
+92928	2	0	Rainbow & Omni (5 Suits)	2020-03-20 — 22:55:54 UTC	invarse, Livia	6	5	25
+92925	2	0	Rainbow & Omni (5 Suits)	2020-03-20 — 22:51:28 UTC	invarse, Livia	8	5	25
+92914	2	0	Rainbow & Omni (5 Suits)	2020-03-20 — 22:43:47 UTC	invarse, Livia	13	5	25
+92906	2	30	Rainbow & Omni (6 Suits)	2020-03-20 — 22:36:35 UTC	invarse, Livia	9	6	30
+91971	2	20	Pink & Brown (4 Suits)	2020-03-19 — 15:10:27 UTC	invarse, Livia	3	4	20
+91968	2	0	Pink & Brown (4 Suits)	2020-03-19 — 15:05:01 UTC	invarse, Livia	4	4	20
+91967	2	0	Pink & Brown (4 Suits)	2020-03-19 — 15:00:04 UTC	invarse, Livia	6	4	20
+91964	2	0	Pink & Brown (4 Suits)	2020-03-19 — 14:54:42 UTC	invarse, Livia	8	4	20
+91961	2	0	Pink & Brown (4 Suits)	2020-03-19 — 14:51:46 UTC	invarse, Livia	17	4	20
+91959	2	0	Pink & Brown (4 Suits)	2020-03-19 — 14:50:41 UTC	invarse, Livia	21	4	20
+90798	2	0	White & Brown (4 Suits)	2020-03-17 — 13:39:10 UTC	invarse, Livia	9	4	20
+90792	2	17	White & Brown (4 Suits)	2020-03-17 — 13:09:06 UTC	invarse, Livia	10	4	20
+90791	2	0	White & Brown (4 Suits)	2020-03-17 — 13:04:25 UTC	invarse, Livia	19	4	20
+87990	2	20	White & Null (4 Suits)	2020-03-12 — 22:28:18 UTC	invarse, Livia	3	4	20
+87989	2	0	White & Null (4 Suits)	2020-03-12 — 22:21:38 UTC	invarse, Livia	3	4	20
+87988	2	0	White & Null (4 Suits)	2020-03-12 — 22:17:42 UTC	invarse, Livia	4	4	20
+87987	2	0	White & Null (4 Suits)	2020-03-12 — 22:11:46 UTC	invarse, Livia	4	4	20
+87983	2	0	White & Null (4 Suits)	2020-03-12 — 22:04:02 UTC	invarse, Livia	5	4	20
+87982	2	0	White & Null (4 Suits)	2020-03-12 — 22:00:09 UTC	invarse, Livia	5	4	20
+87981	2	15	White & Null (3 Suits)	2020-03-12 — 21:53:54 UTC	invarse, Livia	1	3	15
+87979	2	0	White & Brown (3 Suits)	2020-03-12 — 21:49:36 UTC	invarse, Livia	11	3	15
+86069	3	23	Black & White (5 Suits)	2020-03-07 — 15:10:03 UTC	Floriman, fow, invarse	13	5	25
+86067	3	30	White & Brown (6 Suits)	2020-03-07 — 14:46:48 UTC	Floriman, invarse, Livia	6	6	30
+86066	3	0	Black & White (5 Suits)	2020-03-07 — 14:27:37 UTC	Floriman, invarse, Livia	16	5	25
+86065	2	0	Up or Down & White (6 Suits)	2020-03-07 — 14:16:44 UTC	invarse, Livia	11	6	30
+86064	2	30	White & Brown (6 Suits)	2020-03-07 — 14:03:40 UTC	invarse, Livia	21	6	30
+86063	2	0	White & Brown (6 Suits)	2020-03-07 — 13:49:10 UTC	invarse, Livia	27	6	30
+85984	4	30	White & Brown (6 Suits)	2020-03-07 — 02:01:07 UTC	Dr_Kakashi, invarse, Livia, padi	20	6	30
+85981	3	25	No Variant	2020-03-07 — 01:30:03 UTC	invarse, Livia, padi	307	5	25
+85970	4	0	Rainbow & Pink (4 Suits)	2020-03-07 — 00:19:13 UTC	Dr_Kakashi, invarse, Livia, SashaIr	7	4	20
+85969	4	0	Rainbow & Pink (4 Suits)	2020-03-07 — 00:11:46 UTC	Dr_Kakashi, invarse, Livia, SashaIr	10	4	20
+83352	2	19	White (4 Suits)	2020-02-25 — 23:49:38 UTC	invarse, Jake_Stiles	1	4	20
+81333	2	15	Rainbow-Ones (3 Suits)	2020-02-20 — 00:14:36 UTC	invarse, Livia	19	3	15
+81331	2	0	White & Null (3 Suits)	2020-02-20 — 00:10:49 UTC	invarse, Livia	1	3	15
+81330	2	0	White & Null (3 Suits)	2020-02-20 — 00:09:15 UTC	invarse, Livia	2	3	15
+81327	2	0	White & Null (3 Suits)	2020-02-20 — 00:03:13 UTC	invarse, Livia	3	3	15
+81325	2	0	White & Null (3 Suits)	2020-02-19 — 23:56:01 UTC	invarse, Livia	5	3	15
+81324	2	0	White & Null (3 Suits)	2020-02-19 — 23:51:05 UTC	invarse, Livia	5	3	15
+81323	2	0	White & Null (3 Suits)	2020-02-19 — 23:49:00 UTC	invarse, Livia	6	3	15
+81322	2	0	White & Null (3 Suits)	2020-02-19 — 23:46:34 UTC	invarse, Livia	7	3	15
+81321	2	0	White & Null (3 Suits)	2020-02-19 — 23:43:27 UTC	invarse, Livia	8	3	15
+81320	2	14	White & Null (3 Suits)	2020-02-19 — 23:40:25 UTC	invarse, Livia	11	3	15
+81319	2	15	White & Brown (3 Suits)	2020-02-19 — 23:32:34 UTC	invarse, Livia	17	3	15
+81318	2	0	White & Brown (3 Suits)	2020-02-19 — 23:28:41 UTC	invarse, Livia	22	3	15
+81317	2	15	Pink & Brown (3 Suits)	2020-02-19 — 23:26:36 UTC	invarse, Livia	2	3	15
+81316	2	0	Pink & Brown (3 Suits)	2020-02-19 — 23:22:01 UTC	invarse, Livia	2	3	15
+81315	2	0	Pink & Brown (3 Suits)	2020-02-19 — 23:19:43 UTC	invarse, Livia	2	3	15
+81313	2	0	Rainbow & Omni (6 Suits)	2020-02-19 — 23:18:39 UTC	invarse, Livia	9	6	30
+81311	2	0	Rainbow & Omni (6 Suits)	2020-02-19 — 23:09:54 UTC	invarse, Livia	10	6	30
+81310	2	0	Rainbow & Omni (6 Suits)	2020-02-19 — 23:07:08 UTC	invarse, Livia	13	6	30
+81308	2	0	Rainbow & Omni (6 Suits)	2020-02-19 — 22:58:24 UTC	invarse, Livia	15	6	30
+81306	2	0	Rainbow & Omni (6 Suits)	2020-02-19 — 22:50:44 UTC	invarse, Livia	19	6	30
+78681	2	14	Rainbow & Brown (3 Suits)	2020-02-10 — 22:57:16 UTC	invarse, Livia	29	3	15
+78680	2	15	Light Pink (3 Suits)	2020-02-10 — 22:51:03 UTC	invarse, Livia	5	3	15
+78679	2	0	Light Pink (3 Suits)	2020-02-10 — 22:43:49 UTC	invarse, Livia	6	3	15
+78057	3	14	Pink (3 Suits)	2020-02-07 — 01:08:54 UTC	Dr_Kakashi, invarse, Livia	4	3	15
+78056	3	0	Pink (3 Suits)	2020-02-07 — 00:56:38 UTC	Dr_Kakashi, invarse, Livia	6	3	15
+78055	3	14	Pink (3 Suits)	2020-02-07 — 00:44:16 UTC	Dr_Kakashi, invarse, Livia	6	3	15
+77941	2	20	Pink & White (4 Suits)	2020-02-05 — 23:37:39 UTC	invarse, Livia	2	4	20
+77940	2	30	Pink & White (6 Suits)	2020-02-05 — 23:24:04 UTC	invarse, Livia	13	6	30
+77939	2	0	Pink & White (6 Suits)	2020-02-05 — 23:12:32 UTC	invarse, Livia	15	6	30
+77938	2	0	Pink & White (6 Suits)	2020-02-05 — 23:05:14 UTC	invarse, Livia	15	6	30
+77937	2	0	Pink & White (6 Suits)	2020-02-05 — 23:03:30 UTC	invarse, Livia	26	6	30
+77936	2	0	Pink & White (6 Suits)	2020-02-05 — 23:01:34 UTC	invarse, Livia	31	6	30
+77935	2	25	Pink & White (5 Suits)	2020-02-05 — 22:57:09 UTC	invarse, Livia	31	5	25
+77855	2	25	Rainbow & Pink (5 Suits)	2020-02-04 — 23:57:16 UTC	invarse, Livia	4	5	25
+77854	2	0	Rainbow & Pink (5 Suits)	2020-02-04 — 23:46:51 UTC	invarse, Livia	4	5	25
+77852	2	0	Rainbow & Pink (5 Suits)	2020-02-04 — 23:41:29 UTC	invarse, Livia	7	5	25
+77850	2	0	Rainbow & Pink (5 Suits)	2020-02-04 — 23:37:03 UTC	invarse, Livia	8	5	25
+77849	2	20	Rainbow & Pink (4 Suits)	2020-02-04 — 23:32:19 UTC	invarse, Livia	5	4	20
+77846	2	0	Rainbow & Pink (4 Suits)	2020-02-04 — 23:22:01 UTC	invarse, Livia	5	4	20
+77845	2	0	Rainbow & Pink (4 Suits)	2020-02-04 — 23:11:44 UTC	invarse, Livia	10	4	20
+77843	2	0	Rainbow & Pink (4 Suits)	2020-02-04 — 23:01:55 UTC	invarse, Livia	21	4	20
+77842	2	15	Rainbow & Pink (3 Suits)	2020-02-04 — 22:57:46 UTC	invarse, Livia	28	3	15
+77275	3	23	No Variant	2020-02-01 — 00:35:20 UTC	DoubleDown11, invarse, Livia	375	5	25
+77272	2	0	Pink & White (4 Suits)	2020-02-01 — 00:09:48 UTC	invarse, Livia	4	4	20
+77267	2	24	Rainbow & Pink (5 Suits)	2020-01-31 — 23:32:45 UTC	invarse, Livia	9	5	25
+77264	2	0	Rainbow & Pink (5 Suits)	2020-01-31 — 23:16:10 UTC	invarse, Livia	11	5	25
+77263	2	0	Rainbow & Pink (5 Suits)	2020-01-31 — 23:07:01 UTC	invarse, Livia	12	5	25
+77262	2	0	Rainbow & Pink (5 Suits)	2020-01-31 — 22:56:53 UTC	invarse, Livia	19	5	25
+77260	2	0	Rainbow & Pink (5 Suits)	2020-01-31 — 22:37:51 UTC	invarse, Livia	41	5	25
+77257	2	30	Rainbow & Pink (6 Suits)	2020-01-31 — 22:26:44 UTC	invarse, Livia	40	6	30
+77255	2	0	Rainbow & Pink (6 Suits)	2020-01-31 — 22:08:21 UTC	invarse, Livia	43	6	30
+77253	2	0	Pink (4 Suits)	2020-01-31 — 21:58:54 UTC	invarse, Livia	23	4	20
+77015	2	0	Pink & White (4 Suits)	2020-01-30 — 01:04:05 UTC	invarse, Livia	7	4	20
+77014	2	0	Pink & White (4 Suits)	2020-01-30 — 00:57:22 UTC	invarse, Livia	9	4	20
+77013	2	0	Pink & White (4 Suits)	2020-01-30 — 00:53:28 UTC	invarse, Livia	10	4	20
+77012	2	0	Pink & White (4 Suits)	2020-01-30 — 00:49:46 UTC	invarse, Livia	21	4	20
+77011	2	15	Pink & White (3 Suits)	2020-01-30 — 00:43:44 UTC	invarse, Livia	22	3	15
+77010	2	0	Black & Omni (6 Suits)	2020-01-30 — 00:35:29 UTC	invarse, Livia	7	6	30
+77008	2	0	Black & Omni (6 Suits)	2020-01-30 — 00:26:44 UTC	invarse, Livia	7	6	30
+77007	2	0	Black & Omni (6 Suits)	2020-01-30 — 00:17:38 UTC	invarse, Livia	8	6	30
+77005	2	0	Black & Omni (6 Suits)	2020-01-30 — 00:14:12 UTC	invarse, Livia	9	6	30
+77004	2	0	Black & Omni (6 Suits)	2020-01-30 — 00:10:51 UTC	invarse, Livia	10	6	30
+77002	2	0	Black & Omni (6 Suits)	2020-01-30 — 00:04:30 UTC	invarse, Livia	10	6	30
+77001	2	0	Black & Omni (6 Suits)	2020-01-30 — 00:03:11 UTC	invarse, Livia	11	6	30
+76999	2	0	Black & Omni (6 Suits)	2020-01-29 — 23:59:03 UTC	invarse, Livia	11	6	30
+76998	2	0	Black & Omni (6 Suits)	2020-01-29 — 23:56:36 UTC	invarse, Livia	13	6	30
+76993	3	29	Rainbow & Dark Brown (6 Suits)	2020-01-29 — 23:47:43 UTC	invarse, Livia, scharkbite	1	6	30
+76990	3	0	Rainbow & Dark Brown (6 Suits)	2020-01-29 — 23:25:06 UTC	invarse, Livia, scharkbite	2	6	30
+76989	3	0	Rainbow & Dark Brown (6 Suits)	2020-01-29 — 23:19:20 UTC	invarse, Livia, scharkbite	3	6	30
+76987	3	0	Rainbow & Dark Brown (6 Suits)	2020-01-29 — 23:11:39 UTC	invarse, Livia, scharkbite	4	6	30
+76985	3	0	Rainbow & Dark Brown (6 Suits)	2020-01-29 — 23:03:30 UTC	invarse, Livia, scharkbite	4	6	30
+76847	2	29	Black & Omni (6 Suits)	2020-01-28 — 23:04:06 UTC	invarse, Livia	12	6	30
+76845	2	0	Black & Omni (6 Suits)	2020-01-28 — 22:54:55 UTC	invarse, Livia	12	6	30
+76842	2	0	Black & Omni (6 Suits)	2020-01-28 — 22:51:00 UTC	invarse, Livia	12	6	30
+76184	4	30	Dark Rainbow (6 Suits)	2020-01-24 — 03:10:24 UTC	invarse, Kyle, micerang, Razvogor	20	6	30
+76181	3	0	Dark Rainbow (5 Suits)	2020-01-24 — 02:56:24 UTC	invarse, Kyle, Razvogor	35	5	25
+76179	3	0	Dark Rainbow (5 Suits)	2020-01-24 — 02:48:47 UTC	invarse, Kyle, Razvogor	52	5	25
+75682	5	25	Brown (5 Suits)	2020-01-19 — 03:44:23 UTC	invarse, Jake_Stiles, kopen, Livia, scharkbite	4	5	25
+75641	2	0	Throw It in a Hole (6 Suits)	2020-01-18 — 23:03:03 UTC	invarse, Livia	8	6	30
+75639	2	0	Black & Omni (6 Suits)	2020-01-18 — 22:50:44 UTC	invarse, Livia	12	6	30
+75638	2	0	Black & Omni (6 Suits)	2020-01-18 — 22:48:51 UTC	invarse, Livia	12	6	30
+75636	2	0	Black & Omni (6 Suits)	2020-01-18 — 22:38:17 UTC	invarse, Livia	13	6	30
+75635	2	0	Black & Omni (6 Suits)	2020-01-18 — 22:30:15 UTC	invarse, Livia	14	6	30
+75633	2	0	Black & Omni (6 Suits)	2020-01-18 — 22:18:46 UTC	invarse, Livia	15	6	30
+75632	2	0	Black & Omni (6 Suits)	2020-01-18 — 22:04:05 UTC	invarse, Livia	24	6	30
+74785	3	25	Rainbow & White (5 Suits)	2020-01-10 — 00:37:23 UTC	invarse, kopen, sjdrodge	4	5	25
+74664	2	30	Dark Omni (6 Suits)	2020-01-09 — 00:22:35 UTC	invarse, Livia	39	6	30
+74661	2	0	Dark Omni (6 Suits)	2020-01-09 — 00:11:50 UTC	invarse, Livia	42	6	30
+74660	2	0	Up or Down & Pink (5 Suits)	2020-01-09 — 00:09:45 UTC	invarse, Livia	7	5	25
+74658	2	0	Up or Down & Pink (5 Suits)	2020-01-09 — 00:04:57 UTC	invarse, Livia	7	5	25
+74657	2	0	Up or Down & Pink (5 Suits)	2020-01-08 — 23:59:05 UTC	invarse, Livia	9	5	25
+74655	2	0	Up or Down & Pink (5 Suits)	2020-01-08 — 23:52:00 UTC	invarse, Livia	12	5	25
+74654	2	0	Up or Down & Pink (5 Suits)	2020-01-08 — 23:44:32 UTC	invarse, Livia	14	5	25
+74652	2	0	Up or Down & Pink (5 Suits)	2020-01-08 — 23:41:03 UTC	invarse, Livia	15	5	25
+74651	2	25	Black & Brown (5 Suits)	2020-01-08 — 23:32:48 UTC	invarse, Livia	2	5	25
+74649	2	0	Black & Brown (5 Suits)	2020-01-08 — 23:17:14 UTC	invarse, Livia	2	5	25
+74378	2	30	Black & Brown (6 Suits)	2020-01-07 — 01:42:56 UTC	invarse, Livia	6	6	30
+74377	2	0	Black & Brown (6 Suits)	2020-01-07 — 01:32:18 UTC	invarse, Livia	6	6	30
+74376	2	0	Black & Brown (6 Suits)	2020-01-07 — 01:26:58 UTC	invarse, Livia	7	6	30
+74374	2	28	Black & Brown (6 Suits)	2020-01-07 — 01:17:25 UTC	invarse, Livia	8	6	30
+74373	2	0	Black & Brown (6 Suits)	2020-01-07 — 01:08:56 UTC	invarse, Livia	8	6	30
+74372	2	0	Black & Brown (6 Suits)	2020-01-07 — 01:04:46 UTC	invarse, Livia	10	6	30
+74371	2	0	Black & Brown (6 Suits)	2020-01-07 — 01:00:47 UTC	invarse, Livia	11	6	30
+74370	2	29	Black & Brown (6 Suits)	2020-01-07 — 00:50:54 UTC	invarse, Livia	11	6	30
+74368	2	0	Black & Brown (6 Suits)	2020-01-07 — 00:39:20 UTC	invarse, Livia	13	6	30
+74367	2	0	Black & Brown (6 Suits)	2020-01-07 — 00:31:07 UTC	invarse, Livia	16	6	30
+74365	2	0	Black & Brown (6 Suits)	2020-01-07 — 00:24:39 UTC	invarse, Livia	17	6	30
+74364	2	0	Black & Brown (6 Suits)	2020-01-07 — 00:21:12 UTC	invarse, Livia	19	6	30
+74248	2	29	Black & Brown (6 Suits)	2020-01-06 — 01:25:18 UTC	invarse, Livia	23	6	30
+74246	2	28	Black & Brown (6 Suits)	2020-01-06 — 01:13:51 UTC	invarse, Livia	27	6	30
+74244	2	0	Black & Brown (6 Suits)	2020-01-06 — 00:56:24 UTC	invarse, Livia	28	6	30
+73491	4	24	Rainbow & Brown (5 Suits)	2019-12-31 — 04:20:48 UTC	Dr_Kakashi, invarse, micerang, RaKXeR	2	5	25
+73475	5	29	Pink (6 Suits)	2019-12-31 — 00:47:25 UTC	asaelr, invarse, Jake_Stiles, micerang, RaKXeR	2	6	30
+73474	4	30	Dual-Color (6 Suits)	2019-12-31 — 00:26:38 UTC	asaelr, invarse, Jake_Stiles, micerang	8	6	30
+70821	2	30	Rainbow & White (6 Suits)	2019-12-13 — 01:26:30 UTC	invarse, Livia	44	6	30
+70820	2	0	Rainbow & White (6 Suits)	2019-12-13 — 01:13:07 UTC	invarse, Livia	58	6	30
+70819	2	25	Rainbow & White (5 Suits)	2019-12-13 — 00:59:22 UTC	invarse, Livia	22	5	25
+70818	2	0	Rainbow & White (5 Suits)	2019-12-13 — 00:45:17 UTC	invarse, Livia	30	5	25
+70817	2	0	Rainbow & White (5 Suits)	2019-12-13 — 00:36:12 UTC	invarse, Livia	46	5	25
+70596	2	25	Dark Omni (5 Suits)	2019-12-10 — 23:59:22 UTC	invarse, Livia	19	5	25
+70593	2	0	Dark Omni (5 Suits)	2019-12-10 — 23:47:07 UTC	invarse, Livia	20	5	25
+70591	2	21	Dark Omni (5 Suits)	2019-12-10 — 23:39:05 UTC	invarse, Livia	20	5	25
+70589	2	0	Dark Omni (5 Suits)	2019-12-10 — 23:33:24 UTC	invarse, Livia	35	5	25
+70587	2	0	Dark Omni (5 Suits)	2019-12-10 — 23:20:04 UTC	invarse, Livia	47	5	25
+70453	2	20	Muddy Rainbow (4 Suits)	2019-12-09 — 23:15:58 UTC	invarse, Livia	29	4	20
+70437	2	18	Muddy Rainbow (4 Suits)	2019-12-09 — 23:08:50 UTC	invarse, Livia	47	4	20
+70094	2	20	Rainbow & White (4 Suits)	2019-12-09 — 04:54:13 UTC	Dr_Kakashi, invarse	28	4	20
+70085	2	15	White (3 Suits)	2019-12-09 — 04:46:56 UTC	Dr_Kakashi, invarse	19	3	15
+69854	2	20	Ambiguous (4 Suits)	2019-12-08 — 00:47:15 UTC	invarse, Livia	20	4	20
+69846	2	0	Ambiguous (4 Suits)	2019-12-08 — 00:40:53 UTC	invarse, Livia	22	4	20
+69838	2	0	Ambiguous (4 Suits)	2019-12-08 — 00:36:43 UTC	invarse, Livia	27	4	20
+69830	2	18	Ambiguous (4 Suits)	2019-12-08 — 00:30:18 UTC	invarse, Livia	42	4	20
+69821	2	0	Ambiguous (4 Suits)	2019-12-08 — 00:22:21 UTC	invarse, Livia	84	4	20
+68945	2	0	Throw It in a Hole (5 Suits)	2019-12-06 — 00:21:37 UTC	invarse, Livia	14	5	25
+68944	2	0	Throw It in a Hole (5 Suits)	2019-12-06 — 00:13:54 UTC	invarse, Livia	17	5	25
+68943	2	0	Throw It in a Hole (5 Suits)	2019-12-06 — 00:12:01 UTC	invarse, Livia	17	5	25
+68942	2	0	Throw It in a Hole (5 Suits)	2019-12-06 — 00:09:36 UTC	invarse, Livia	17	5	25
+68941	2	0	Throw It in a Hole (5 Suits)	2019-12-06 — 00:04:23 UTC	invarse, Livia	19	5	25
+68939	2	15	Muddy Rainbow (3 Suits)	2019-12-05 — 23:53:40 UTC	invarse, Livia	11	3	15
+68937	2	30	Black & White (6 Suits)	2019-12-05 — 23:46:04 UTC	invarse, Livia	27	6	30
+68935	2	0	Black & White (6 Suits)	2019-12-05 — 23:30:29 UTC	invarse, Livia	35	6	30
+68933	2	0	Black & White (6 Suits)	2019-12-05 — 23:22:15 UTC	invarse, Livia	38	6	30
+68931	2	0	Black & White (6 Suits)	2019-12-05 — 23:15:54 UTC	invarse, Livia	41	6	30
+68424	2	30	Light Pink (6 Suits)	2019-12-04 — 00:00:48 UTC	invarse, Livia	61	6	30
+68422	2	27	Light Pink (6 Suits)	2019-12-03 — 23:43:09 UTC	invarse, Livia	79	6	30
+68421	2	0	Black & White (6 Suits)	2019-12-03 — 23:29:19 UTC	invarse, Livia	45	6	30
+68420	2	0	Black & White (6 Suits)	2019-12-03 — 23:23:54 UTC	invarse, Livia	46	6	30
+68418	2	0	Black & White (6 Suits)	2019-12-03 — 23:17:50 UTC	invarse, Livia	46	6	30
+68417	2	0	Black & White (6 Suits)	2019-12-03 — 23:11:59 UTC	invarse, Livia	49	6	30
+68416	2	0	Black & White (6 Suits)	2019-12-03 — 23:07:38 UTC	invarse, Livia	56	6	30
+68414	2	0	Black & White (6 Suits)	2019-12-03 — 23:00:22 UTC	invarse, Livia	69	6	30
+68149	2	24	Dark Brown (5 Suits)	2019-12-03 — 00:00:11 UTC	invarse, Livia	27	5	25
+68148	2	0	Dark Brown (5 Suits)	2019-12-02 — 23:52:16 UTC	invarse, Livia	28	5	25
+68147	2	0	Dark Brown (5 Suits)	2019-12-02 — 23:48:36 UTC	invarse, Livia	33	5	25
+68146	2	0	Dark Brown (5 Suits)	2019-12-02 — 23:44:42 UTC	invarse, Livia	41	5	25
+68145	2	0	Dark Brown (5 Suits)	2019-12-02 — 23:40:07 UTC	invarse, Livia	55	5	25
+68144	2	30	Dark Rainbow (6 Suits)	2019-12-02 — 23:23:03 UTC	invarse, Livia	57	6	30
+67366	3	28	Black & White (6 Suits)	2019-11-29 — 15:09:16 UTC	invarse, Livia, Valetta6789	28	6	30
+67365	3	27	Black & White (6 Suits)	2019-11-29 — 14:54:07 UTC	invarse, Livia, Valetta6789	34	6	30
+67012	2	25	Black (5 Suits)	2019-11-28 — 00:16:37 UTC	honzas, invarse	78	5	25
+67011	2	0	Black (5 Suits)	2019-11-28 — 00:09:40 UTC	honzas, invarse	85	5	25
+67010	2	23	Black (5 Suits)	2019-11-28 — 00:00:56 UTC	honzas, invarse	97	5	25
+67008	2	25	Black & White (5 Suits)	2019-11-27 — 23:30:48 UTC	invarse, Livia	45	5	25
+67005	2	0	Black & White (5 Suits)	2019-11-27 — 23:22:32 UTC	invarse, Livia	51	5	25
+67004	2	0	Muddy Rainbow (3 Suits)	2019-11-27 — 23:16:13 UTC	invarse, Livia	16	3	15
+67002	2	0	Muddy Rainbow (3 Suits)	2019-11-27 — 23:12:18 UTC	invarse, Livia	23	3	15
+67000	2	0	Muddy Rainbow (3 Suits)	2019-11-27 — 22:53:07 UTC	invarse, Livia	36	3	15
+66998	2	11	Muddy Rainbow (3 Suits)	2019-11-27 — 22:46:06 UTC	invarse, Livia	41	3	15
+66995	2	25	Light Pink (5 Suits)	2019-11-27 — 22:31:22 UTC	invarse, Livia	13	5	25
+66991	2	0	Light Pink (5 Suits)	2019-11-27 — 22:20:08 UTC	invarse, Livia	13	5	25
+66988	2	0	Light Pink (5 Suits)	2019-11-27 — 22:16:32 UTC	invarse, Livia	18	5	25
+66987	2	23	Light Pink (5 Suits)	2019-11-27 — 22:08:14 UTC	invarse, Livia	23	5	25
+66985	2	0	Light Pink (5 Suits)	2019-11-27 — 21:55:58 UTC	invarse, Livia	35	5	25
+66982	2	0	Light Pink (5 Suits)	2019-11-27 — 21:42:57 UTC	invarse, Livia	65	5	25
+66730	2	15	Light Pink (3 Suits)	2019-11-26 — 01:22:26 UTC	invarse, Livia	9	3	15
+66729	2	14	Light Pink (3 Suits)	2019-11-26 — 01:13:35 UTC	invarse, Livia	18	3	15
+66728	2	0	Light Pink (3 Suits)	2019-11-26 — 01:07:46 UTC	invarse, Livia	22	3	15
+66726	2	0	Light Pink (3 Suits)	2019-11-26 — 01:00:10 UTC	invarse, Livia	45	3	15
+66723	2	20	Light Pink (4 Suits)	2019-11-26 — 00:50:07 UTC	invarse, Livia	43	4	20
+66720	2	0	Pink & Dark Rainbow (6 Suits)	2019-11-26 — 00:23:29 UTC	Fireheart, invarse	3	6	30
+66718	2	0	Pink & Dark Rainbow (6 Suits)	2019-11-26 — 00:18:18 UTC	Fireheart, invarse	3	6	30
+66716	2	0	Pink & Dark Rainbow (6 Suits)	2019-11-26 — 00:11:57 UTC	Fireheart, invarse	3	6	30
+66714	2	0	Pink & Dark Rainbow (6 Suits)	2019-11-26 — 00:04:45 UTC	Fireheart, invarse	4	6	30
+66712	2	0	Pink & Dark Rainbow (6 Suits)	2019-11-25 — 23:54:15 UTC	Fireheart, invarse	6	6	30
+66711	2	27	Pink & Dark Rainbow (6 Suits)	2019-11-25 — 23:46:05 UTC	Fireheart, invarse	6	6	30
+66596	2	25	Dark Rainbow (5 Suits)	2019-11-25 — 00:07:26 UTC	invarse, Livia	47	5	25
+66595	2	0	Dark Rainbow (5 Suits)	2019-11-24 — 23:59:58 UTC	invarse, Livia	71	5	25
+66594	2	0	Dark Rainbow (5 Suits)	2019-11-24 — 23:57:16 UTC	invarse, Livia	79	5	25
+66592	2	0	Dark Rainbow (6 Suits)	2019-11-24 — 23:47:15 UTC	invarse, Livia	61	6	30
+66591	2	0	Dark Rainbow (6 Suits)	2019-11-24 — 23:32:57 UTC	invarse, Livia	75	6	30
+66589	2	0	Dark Rainbow (6 Suits)	2019-11-24 — 23:26:48 UTC	invarse, Livia	88	6	30
+66588	2	0	Dark Rainbow (6 Suits)	2019-11-24 — 23:22:05 UTC	invarse, Livia	91	6	30
+66587	2	27	Dark Rainbow (6 Suits)	2019-11-24 — 23:15:34 UTC	invarse, Livia	95	6	30
+66584	2	0	Dark Rainbow (6 Suits)	2019-11-24 — 22:58:19 UTC	invarse, Livia	102	6	30
+66583	2	0	Dark Rainbow (6 Suits)	2019-11-24 — 22:48:24 UTC	invarse, Livia	110	6	30
+66581	2	0	Dark Rainbow & Gray (6 Suits)	2019-11-24 — 22:43:08 UTC	invarse, Livia	2	6	30
+66579	2	0	Dark Rainbow & Gray (6 Suits)	2019-11-24 — 22:33:54 UTC	invarse, Livia	2	6	30
+66577	2	0	Dark Rainbow & Gray (6 Suits)	2019-11-24 — 22:28:55 UTC	invarse, Livia	2	6	30
+66348	6	0	Black (6 Suits)	2019-11-23 — 15:54:12 UTC	invarse, Libster, Livia, RaKXeR, Sucubis, Valetta6789	8	6	30
+66347	6	0	Black (6 Suits)	2019-11-23 — 15:27:08 UTC	invarse, Libster, Livia, RaKXeR, Sucubis, Valetta6789	8	6	30
+66346	6	0	Black (6 Suits)	2019-11-23 — 15:14:32 UTC	invarse, Libster, Livia, RaKXeR, Sucubis, Valetta6789	15	6	30
+66156	2	0	Dark Rainbow & Gray (6 Suits)	2019-11-23 — 02:25:36 UTC	invarse, Livia	2	6	30
+66155	2	0	Dark Rainbow & Gray (6 Suits)	2019-11-23 — 02:19:00 UTC	invarse, Livia	2	6	30
+66154	2	0	Dark Rainbow & Gray (6 Suits)	2019-11-23 — 02:16:38 UTC	invarse, Livia	2	6	30
+66152	2	0	Dark Rainbow & Gray (6 Suits)	2019-11-23 — 02:13:58 UTC	invarse, Livia	3	6	30
+66149	2	27	Dark Rainbow & Gray (6 Suits)	2019-11-23 — 02:04:07 UTC	invarse, Livia	3	6	30
+66148	2	0	Dark Rainbow & Gray (6 Suits)	2019-11-23 — 01:55:00 UTC	invarse, Livia	3	6	30
+66147	2	0	Dark Rainbow & Gray (6 Suits)	2019-11-23 — 01:53:40 UTC	invarse, Livia	4	6	30
+66146	2	0	Dark Rainbow & Gray (6 Suits)	2019-11-23 — 01:51:21 UTC	invarse, Livia	5	6	30
+66145	2	0	Dark Rainbow & Gray (6 Suits)	2019-11-23 — 01:46:17 UTC	invarse, Livia	6	6	30
+66144	2	0	Dark Rainbow & Gray (6 Suits)	2019-11-23 — 01:37:45 UTC	invarse, Livia	8	6	30
+66143	2	30	Gray (6 Suits)	2019-11-23 — 01:28:50 UTC	invarse, Livia	9	6	30
+65953	2	25	Black & Pink (5 Suits)	2019-11-22 — 00:56:17 UTC	invarse, Livia	3	5	25
+65952	2	20	Black & Pink (5 Suits)	2019-11-22 — 00:49:46 UTC	invarse, Livia	3	5	25
+65950	2	0	Black & Pink (5 Suits)	2019-11-22 — 00:39:49 UTC	invarse, Livia	3	5	25
+65949	2	0	Black & Pink (5 Suits)	2019-11-22 — 00:28:54 UTC	invarse, Livia	3	5	25
+65946	2	0	Black & Pink (5 Suits)	2019-11-22 — 00:15:41 UTC	invarse, Livia	3	5	25
+65944	2	0	Black & Pink (5 Suits)	2019-11-22 — 00:07:01 UTC	invarse, Livia	3	5	25
+65942	2	24	Black & Pink (5 Suits)	2019-11-21 — 23:57:40 UTC	invarse, Livia	4	5	25
+65939	2	0	Black & Pink (5 Suits)	2019-11-21 — 23:40:12 UTC	invarse, Livia	4	5	25
+65937	2	0	Black & Pink (5 Suits)	2019-11-21 — 23:27:56 UTC	invarse, Livia	4	5	25
+65934	2	22	Black & Pink (5 Suits)	2019-11-21 — 23:17:38 UTC	invarse, Livia	4	5	25
+65747	3	0	Rainbow & Gray (6 Suits)	2019-11-21 — 00:35:14 UTC	Fireheart, honzas, invarse	17	6	30
+65203	3	0	Rainbow & Dark Pink (6 Suits)	2019-11-18 — 03:49:07 UTC	Fireheart, IAMJEFF, invarse	6	6	30
+63997	3	0	Null (5 Suits)	2019-11-11 — 04:02:29 UTC	Fireheart, invarse, micerang	27	5	25
+63996	3	20	Null (4 Suits)	2019-11-11 — 03:50:28 UTC	Fireheart, invarse, micerang	10	4	20
+63995	3	0	Null (4 Suits)	2019-11-11 — 03:37:25 UTC	Fireheart, invarse, micerang	23	4	20
+63994	2	20	Null (4 Suits)	2019-11-11 — 03:29:01 UTC	invarse, micerang	4	4	20
+63415	2	30	Up or Down (6 Suits)	2019-11-08 — 00:33:24 UTC	invarse, Livia	60	6	30
+63414	2	28	Up or Down (6 Suits)	2019-11-08 — 00:18:56 UTC	invarse, Livia	75	6	30
+63413	2	0	Null (6 Suits)	2019-11-08 — 00:08:41 UTC	invarse, Livia	66	6	30
+63411	2	0	Null (6 Suits)	2019-11-08 — 00:02:19 UTC	invarse, Livia	91	6	30
+63410	2	0	Null (4 Suits)	2019-11-07 — 23:51:28 UTC	invarse, Livia	3	4	20
+63409	2	18	Null (4 Suits)	2019-11-07 — 23:43:30 UTC	invarse, Livia	3	4	20
+63408	2	0	Null (4 Suits)	2019-11-07 — 23:35:09 UTC	invarse, Livia	3	4	20
+63407	2	0	Null (4 Suits)	2019-11-07 — 23:31:45 UTC	invarse, Livia	4	4	20
+63406	2	0	Null (4 Suits)	2019-11-07 — 23:22:03 UTC	invarse, Livia	7	4	20
+63405	2	0	Null (4 Suits)	2019-11-07 — 23:09:45 UTC	invarse, Livia	7	4	20
+63248	2	25	No Variant	2019-11-07 — 00:20:19 UTC	invarse, Livia	1840	5	25
+63247	2	0	No Variant	2019-11-07 — 00:13:55 UTC	invarse, Livia	1952	5	25
+63246	2	0	No Variant	2019-11-07 — 00:10:44 UTC	invarse, Livia	2147	5	25
+63245	2	17	Null (4 Suits)	2019-11-07 — 00:02:46 UTC	invarse, Livia	8	4	20
+63244	2	0	Null (4 Suits)	2019-11-06 — 23:51:16 UTC	invarse, Livia	9	4	20
+63242	2	0	Null (4 Suits)	2019-11-06 — 23:41:28 UTC	invarse, Livia	11	4	20
+63241	2	0	Null (4 Suits)	2019-11-06 — 23:34:02 UTC	invarse, Livia	11	4	20
+63240	2	18	Null (4 Suits)	2019-11-06 — 23:23:59 UTC	invarse, Livia	11	4	20
+63239	2	0	Null (4 Suits)	2019-11-06 — 23:17:10 UTC	invarse, Livia	14	4	20
+63216	2	0	Clue Starved (5 Suits)	2019-11-06 — 20:22:36 UTC	invarse, Livia	46	5	25
+63214	2	0	Throw It in a Hole (4 Suits)	2019-11-06 — 20:16:32 UTC	invarse, Livia	12	4	20
+63213	2	0	Pink & Brown (3 Suits)	2019-11-06 — 20:10:41 UTC	invarse, Livia	2	3	15
+63212	2	0	Pink & Brown (3 Suits)	2019-11-06 — 20:05:21 UTC	invarse, Livia	2	3	15
+63210	2	0	Pink & Brown (3 Suits)	2019-11-06 — 20:00:37 UTC	invarse, Livia	2	3	15
+63209	2	0	Pink & Brown (3 Suits)	2019-11-06 — 19:57:16 UTC	invarse, Livia	2	3	15
+63208	2	0	Pink & Brown (3 Suits)	2019-11-06 — 19:53:33 UTC	invarse, Livia	5	3	15
+63207	2	0	Pink & Brown (3 Suits)	2019-11-06 — 19:50:22 UTC	invarse, Livia	5	3	15
+63206	2	14	Pink & Brown (3 Suits)	2019-11-06 — 19:48:03 UTC	invarse, Livia	5	3	15
+63205	2	0	Pink & Brown (3 Suits)	2019-11-06 — 19:42:25 UTC	invarse, Livia	6	3	15
+63203	2	13	Pink & Brown (3 Suits)	2019-11-06 — 19:33:39 UTC	invarse, Livia	6	3	15
+63202	2	0	Pink & Brown (3 Suits)	2019-11-06 — 19:28:03 UTC	invarse, Livia	11	3	15
+63200	2	0	Pink & Brown (3 Suits)	2019-11-06 — 19:20:45 UTC	invarse, Livia	13	3	15
+63198	2	0	Pink & Brown (3 Suits)	2019-11-06 — 19:17:59 UTC	invarse, Livia	17	3	15
+63086	3	29	Rainbow & Pink (6 Suits)	2019-11-06 — 00:35:13 UTC	asaelr, Floriman, invarse	16	6	30
+63081	3	0	Rainbow & Pink (6 Suits)	2019-11-06 — 00:15:25 UTC	asaelr, Floriman, invarse	19	6	30
+63080	3	0	Rainbow & Pink (6 Suits)	2019-11-06 — 00:13:12 UTC	asaelr, Floriman, invarse	23	6	30
+62887	4	25	Black (6 Suits)	2019-11-05 — 01:03:56 UTC	invarse, jeep, Kyle, micerang	45	6	30
+62886	3	0	Black (6 Suits)	2019-11-05 — 00:50:24 UTC	invarse, jeep, Kyle	108	6	30
+62884	3	0	Black (6 Suits)	2019-11-05 — 00:20:44 UTC	honzas, invarse, salonka	172	6	30
+62659	2	0	Up or Down & White (5 Suits)	2019-11-04 — 00:00:08 UTC	invarse, Livia	5	5	25
+62658	2	25	Up or Down & White (5 Suits)	2019-11-03 — 23:58:05 UTC	invarse, Livia	7	5	25
+62657	2	0	Up or Down & White (5 Suits)	2019-11-03 — 23:47:42 UTC	invarse, Livia	9	5	25
+62656	2	0	Up or Down & White (5 Suits)	2019-11-03 — 23:44:05 UTC	invarse, Livia	10	5	25
+62655	2	23	Up or Down & White (5 Suits)	2019-11-03 — 23:40:50 UTC	invarse, Livia	15	5	25
+62653	2	0	Up or Down & White (5 Suits)	2019-11-03 — 23:34:45 UTC	invarse, Livia	20	5	25
+62652	2	0	Up or Down & White (5 Suits)	2019-11-03 — 23:28:13 UTC	invarse, Livia	23	5	25
+62650	2	0	Throw It in a Hole (5 Suits)	2019-11-03 — 23:15:31 UTC	invarse, Livia	24	5	25
+62648	2	25	Muddy Rainbow (5 Suits)	2019-11-03 — 23:00:23 UTC	invarse, Livia	21	5	25
+62646	2	0	Muddy Rainbow (5 Suits)	2019-11-03 — 22:45:50 UTC	invarse, Livia	25	5	25
+62642	2	0	Muddy Rainbow (5 Suits)	2019-11-03 — 22:33:57 UTC	invarse, Livia	31	5	25
+62639	2	0	Muddy Rainbow (5 Suits)	2019-11-03 — 22:28:09 UTC	invarse, Livia	34	5	25
+62638	2	0	Muddy Rainbow (5 Suits)	2019-11-03 — 22:20:24 UTC	invarse, Livia	46	5	25
+62635	2	0	Muddy Rainbow (5 Suits)	2019-11-03 — 22:10:34 UTC	invarse, Livia	78	5	25
+62630	5	0	Omni (4 Suits)	2019-11-03 — 21:54:53 UTC	invarse, kopen, Livia, scharkbite, Zamiel	1	4	20
+62455	2	30	Extremely Ambiguous (6 Suits)	2019-11-03 — 01:54:26 UTC	invarse, micerang	7	6	30
+62454	2	0	Extremely Ambiguous (6 Suits)	2019-11-03 — 01:39:34 UTC	invarse, micerang	8	6	30
+62453	2	0	Extremely Ambiguous (6 Suits)	2019-11-03 — 01:37:22 UTC	invarse, micerang	10	6	30
+62452	2	0	Extremely Ambiguous (6 Suits)	2019-11-03 — 01:34:14 UTC	invarse, micerang	24	6	30
+62451	2	15	Very Ambiguous (3 Suits)	2019-11-03 — 01:26:20 UTC	invarse, micerang	10	3	15
+62450	2	15	Rainbow & Omni (3 Suits)	2019-11-03 — 01:18:35 UTC	invarse, micerang	3	3	15
+62171	2	13	Rainbow & Omni (3 Suits)	2019-11-01 — 23:59:35 UTC	invarse, Livia	3	3	15
+62168	2	14	Rainbow & Omni (3 Suits)	2019-11-01 — 23:48:14 UTC	invarse, Livia	4	3	15
+62165	2	0	Rainbow & Omni (3 Suits)	2019-11-01 — 23:35:00 UTC	invarse, Livia	8	3	15
+62163	2	0	Rainbow & Omni (3 Suits)	2019-11-01 — 23:22:29 UTC	invarse, Livia	12	3	15
+62160	2	0	Rainbow & Omni (3 Suits)	2019-11-01 — 23:13:46 UTC	invarse, Livia	15	3	15
+62157	2	0	Rainbow & Omni (3 Suits)	2019-11-01 — 23:11:34 UTC	invarse, Livia	15	3	15
+62156	2	0	Number Mute (5 Suits)	2019-11-01 — 23:08:28 UTC	invarse, Livia	5	5	25
+62153	2	0	Number Mute (5 Suits)	2019-11-01 — 23:03:52 UTC	invarse, Livia	5	5	25
+62150	2	0	Number Mute (5 Suits)	2019-11-01 — 22:58:57 UTC	invarse, Livia	4	5	25
+62146	2	0	Number Mute (5 Suits)	2019-11-01 — 22:48:41 UTC	invarse, Livia	7	5	25
+62142	2	0	Number Mute (5 Suits)	2019-11-01 — 22:35:53 UTC	invarse, Livia	7	5	25
+62141	2	0	Number Mute (5 Suits)	2019-11-01 — 22:31:02 UTC	invarse, Livia	7	5	25
+62139	2	30	Dark Brown (6 Suits)	2019-11-01 — 22:17:13 UTC	invarse, Livia	23	6	30
+61990	2	20	Alternating Clues (4 Suits)	2019-10-31 — 23:51:12 UTC	invarse, Livia	2	4	20
+61987	2	18	Alternating Clues (4 Suits)	2019-10-31 — 23:41:55 UTC	invarse, Livia	2	4	20
+61985	2	19	Alternating Clues (4 Suits)	2019-10-31 — 23:33:12 UTC	invarse, Livia	2	4	20
+61984	2	0	Alternating Clues (4 Suits)	2019-10-31 — 23:27:31 UTC	invarse, Livia	2	4	20
+61982	2	0	Alternating Clues (4 Suits)	2019-10-31 — 23:23:46 UTC	invarse, Livia	2	4	20
+61981	2	0	Alternating Clues (4 Suits)	2019-10-31 — 23:21:33 UTC	invarse, Livia	4	4	20
+61979	2	0	Alternating Clues (4 Suits)	2019-10-31 — 23:12:48 UTC	invarse, Livia	5	4	20
+61978	2	0	Alternating Clues (4 Suits)	2019-10-31 — 23:12:17 UTC	invarse, Livia	8	4	20
+61976	2	0	Alternating Clues (4 Suits)	2019-10-31 — 23:03:30 UTC	invarse, Livia	10	4	20
+61974	2	0	Alternating Clues (4 Suits)	2019-10-31 — 22:55:37 UTC	invarse, Livia	15	4	20
+61973	2	15	Alternating Clues (3 Suits)	2019-10-31 — 22:47:37 UTC	invarse, Livia	5	3	15
+61972	2	0	Alternating Clues (3 Suits)	2019-10-31 — 22:41:24 UTC	invarse, Livia	7	3	15
+61971	2	14	Alternating Clues (3 Suits)	2019-10-31 — 22:39:00 UTC	invarse, Livia	16	3	15
+61969	2	25	Alternating Clues (5 Suits)	2019-10-31 — 22:26:05 UTC	invarse, Livia	19	5	25
+61968	2	0	Alternating Clues (5 Suits)	2019-10-31 — 22:14:55 UTC	invarse, Livia	21	5	25
+61963	2	0	Dark Brown (6 Suits)	2019-10-31 — 21:59:17 UTC	invarse, Livia	26	6	30
+61962	2	15	Very Ambiguous (3 Suits)	2019-10-31 — 21:52:06 UTC	invarse, Livia	20	3	15
+61838	4	0	Duck (5 Suits)	2019-10-31 — 04:21:30 UTC	invarse, kodomazer, kopen, Razvogor	5	5	25
+61829	3	0	Duck (5 Suits)	2019-10-31 — 04:04:14 UTC	invarse, kodomazer, Razvogor	14	5	25
+61826	3	0	Duck (5 Suits)	2019-10-31 — 03:54:32 UTC	invarse, kodomazer, Razvogor	14	5	25
+61825	4	0	Duck (5 Suits)	2019-10-31 — 03:46:05 UTC	invarse, Jake_Stiles, kodomazer, Razvogor	6	5	25
+61823	4	0	Duck (5 Suits)	2019-10-31 — 03:30:14 UTC	invarse, Jake_Stiles, kodomazer, Razvogor	8	5	25
+61821	4	0	Duck (5 Suits)	2019-10-31 — 03:15:56 UTC	invarse, Jake_Stiles, kodomazer, Razvogor	10	5	25
+61785	2	0	Throw It in a Hole (5 Suits)	2019-10-30 — 23:55:25 UTC	invarse, Livia	49	5	25
+61781	2	0	Dark Brown (6 Suits)	2019-10-30 — 23:35:35 UTC	invarse, Livia	29	6	30
+61780	2	0	Dark Brown (6 Suits)	2019-10-30 — 23:30:23 UTC	invarse, Livia	35	6	30
+61778	2	0	Dark Brown (6 Suits)	2019-10-30 — 23:25:58 UTC	invarse, Livia	46	6	30
+61776	2	0	Black & Pink (5 Suits)	2019-10-30 — 23:19:44 UTC	invarse, Livia	4	5	25
+61774	2	23	Black & Pink (5 Suits)	2019-10-30 — 23:03:45 UTC	invarse, Livia	6	5	25
+61770	2	0	Black & Pink (5 Suits)	2019-10-30 — 22:52:10 UTC	invarse, Livia	7	5	25
+61769	2	0	Black & Pink (5 Suits)	2019-10-30 — 22:46:53 UTC	invarse, Livia	7	5	25
+61766	2	0	Black & Pink (5 Suits)	2019-10-30 — 22:40:51 UTC	invarse, Livia	8	5	25
+61763	2	0	Black & Pink (5 Suits)	2019-10-30 — 22:36:06 UTC	invarse, Livia	8	5	25
+61762	2	0	Black & Pink (5 Suits)	2019-10-30 — 22:35:22 UTC	invarse, Livia	10	5	25
+61761	2	0	Black & Pink (5 Suits)	2019-10-30 — 22:33:33 UTC	invarse, Livia	12	5	25
+61760	2	0	Black & Pink (5 Suits)	2019-10-30 — 22:27:55 UTC	invarse, Livia	13	5	25
+61758	2	21	Black & Pink (5 Suits)	2019-10-30 — 22:23:02 UTC	invarse, Livia	13	5	25
+61756	2	0	Black & Pink (5 Suits)	2019-10-30 — 22:16:25 UTC	invarse, Livia	16	5	25
+61754	2	0	Black & Pink (5 Suits)	2019-10-30 — 22:10:30 UTC	invarse, Livia	16	5	25
+61753	2	0	Black & Pink (5 Suits)	2019-10-30 — 22:02:40 UTC	invarse, Livia	18	5	25
+61548	5	0	Cow & Pig (4 Suits)	2019-10-29 — 22:39:09 UTC	invarse, micerang, NoMercy, Razvogor, scharkbite	1	4	20
+61543	3	25	Black & White (5 Suits)	2019-10-29 — 22:16:41 UTC	invarse, Livia, NoMercy	2	5	25
+61539	3	0	Black & White (5 Suits)	2019-10-29 — 22:03:59 UTC	invarse, Livia, NoMercy	31	5	25
+61283	5	25	White (5 Suits)	2019-10-29 — 01:20:14 UTC	DMoney, Fireheart, invarse, NoMercy, sjdrodge	21	5	25
+61278	4	0	White (5 Suits)	2019-10-29 — 01:03:11 UTC	Fireheart, invarse, NoMercy, sjdrodge	7	5	25
+61275	4	0	White (5 Suits)	2019-10-29 — 00:54:17 UTC	Fireheart, invarse, NoMercy, sjdrodge	12	5	25
+61272	4	0	Up or Down & Omni (6 Suits)	2019-10-29 — 00:38:47 UTC	Fireheart, invarse, NoMercy, sjdrodge	5	6	30
+60896	4	0	Black & White (6 Suits)	2019-10-27 — 01:38:42 UTC	awe, Dr_Kakashi, invarse, micerang	7	6	30
+60895	4	0	Black & White (6 Suits)	2019-10-27 — 01:24:23 UTC	awe, Dr_Kakashi, invarse, micerang	9	6	30
+60892	4	0	Black & White (6 Suits)	2019-10-27 — 01:06:48 UTC	awe, Dr_Kakashi, invarse, micerang	13	6	30
+60888	3	0	Black & Pink (5 Suits)	2019-10-27 — 00:42:44 UTC	awe, Dr_Kakashi, invarse	13	5	25
+60886	3	0	Black & Pink (5 Suits)	2019-10-27 — 00:21:06 UTC	awe, Dr_Kakashi, invarse	15	5	25
+60885	2	0	Black & Pink (5 Suits)	2019-10-27 — 00:04:44 UTC	Dr_Kakashi, invarse	23	5	25
+60884	2	0	Black & Pink (5 Suits)	2019-10-26 — 23:51:51 UTC	Dr_Kakashi, invarse	24	5	25
+60883	2	0	Black & Pink (5 Suits)	2019-10-26 — 23:46:31 UTC	Dr_Kakashi, invarse	25	5	25
+60882	2	24	Black & Pink (5 Suits)	2019-10-26 — 23:34:30 UTC	Dr_Kakashi, invarse	26	5	25
+60881	2	0	Black & Pink (5 Suits)	2019-10-26 — 23:24:26 UTC	Dr_Kakashi, invarse	29	5	25
+60879	2	0	Black & Pink (5 Suits)	2019-10-26 — 23:16:03 UTC	Dr_Kakashi, invarse	29	5	25
+60878	2	24	Black & Pink (5 Suits)	2019-10-26 — 23:08:39 UTC	Dr_Kakashi, invarse	32	5	25
+60877	2	0	Black & Pink (5 Suits)	2019-10-26 — 22:53:59 UTC	Dr_Kakashi, invarse	37	5	25
+60876	2	30	Black & Pink (6 Suits)	2019-10-26 — 22:36:05 UTC	Dr_Kakashi, invarse	34	6	30
+60874	2	0	Black & Pink (6 Suits)	2019-10-26 — 22:23:44 UTC	Dr_Kakashi, invarse	36	6	30
+60872	2	0	Black & Pink (6 Suits)	2019-10-26 — 22:14:59 UTC	Dr_Kakashi, invarse	44	6	30
+60765	3	24	No Variant	2019-10-26 — 02:11:45 UTC	invarse, kodomazer, riking	324	5	25
+60762	3	0	No Variant	2019-10-26 — 01:58:42 UTC	invarse, kodomazer, riking	354	5	25
+60567	2	0	Rainbow & Brown (5 Suits)	2019-10-25 — 03:01:12 UTC	Fireheart, invarse	10	5	25
+60566	2	0	Rainbow & Brown (5 Suits)	2019-10-25 — 02:57:44 UTC	Fireheart, invarse	10	5	25
+60565	2	0	Rainbow & Brown (5 Suits)	2019-10-25 — 02:52:50 UTC	Fireheart, invarse	19	5	25
+60564	2	24	Rainbow & Brown (5 Suits)	2019-10-25 — 02:46:23 UTC	Fireheart, invarse	21	5	25
+60563	2	0	Rainbow & Brown (5 Suits)	2019-10-25 — 02:36:43 UTC	Fireheart, invarse	21	5	25
+60561	2	0	Rainbow & Brown (5 Suits)	2019-10-25 — 02:31:03 UTC	Fireheart, invarse	24	5	25
+60560	2	0	Rainbow & Brown (5 Suits)	2019-10-25 — 02:23:18 UTC	Fireheart, invarse	28	5	25
+60558	2	0	Rainbow & Brown (5 Suits)	2019-10-25 — 02:14:19 UTC	Fireheart, invarse	33	5	25
+60535	2	30	Dual-Color Mix	2019-10-24 — 21:40:38 UTC	Dr_Kakashi, invarse	13	6	30
+60534	2	0	Dual-Color Mix	2019-10-24 — 21:27:35 UTC	Dr_Kakashi, invarse	13	6	30
+60394	2	28	Rainbow (6 Suits)	2019-10-24 — 00:30:19 UTC	honzas, invarse	200	6	30
+60386	3	29	Dual-Color Mix	2019-10-23 — 22:35:50 UTC	asaelr, invarse, scharkbite	7	6	30
+60383	3	28	Dual-Color Mix	2019-10-23 — 22:08:38 UTC	asaelr, invarse, scharkbite	8	6	30
+60245	4	30	White (6 Suits)	2019-10-23 — 01:48:02 UTC	invarse, jeep, NoMercy, Razvogor	60	6	30
+60242	3	0	White (6 Suits)	2019-10-23 — 01:28:21 UTC	invarse, jeep, NoMercy	124	6	30
+60208	2	30	Dual-Color Mix	2019-10-22 — 22:25:26 UTC	asaelr, invarse	16	6	30
+60206	2	0	Dual-Color Mix	2019-10-22 — 22:12:09 UTC	asaelr, invarse	17	6	30
+60204	2	0	Dual-Color Mix	2019-10-22 — 22:07:56 UTC	asaelr, invarse	20	6	30
+60108	2	0	Dual-Color Mix	2019-10-22 — 03:12:24 UTC	Dr_Kakashi, invarse	19	6	30
+60107	2	0	Dual-Color Mix	2019-10-22 — 03:03:19 UTC	Dr_Kakashi, invarse	22	6	30
+60104	2	0	Dual-Color Mix	2019-10-22 — 03:01:26 UTC	Dr_Kakashi, invarse	21	6	30
+60103	2	0	Dual-Color Mix	2019-10-22 — 02:54:18 UTC	Dr_Kakashi, invarse	22	6	30
+60102	2	0	Dual-Color Mix	2019-10-22 — 02:47:03 UTC	Dr_Kakashi, invarse	26	6	30
+59793	3	0	Dual-Color Mix	2019-10-20 — 04:09:53 UTC	Dr_Kakashi, invarse, micerang	33	6	30
+59787	3	0	Dual-Color Mix	2019-10-20 — 03:51:35 UTC	Dr_Kakashi, invarse, micerang	42	6	30
+59784	2	0	Dual-Color Mix	2019-10-20 — 03:38:15 UTC	Dr_Kakashi, invarse	26	6	30
+59782	2	0	Dual-Color Mix	2019-10-20 — 03:32:05 UTC	Dr_Kakashi, invarse	43	6	30
+59779	2	0	Dual-Color Mix	2019-10-20 — 03:24:18 UTC	Dr_Kakashi, invarse	43	6	30
+59777	2	0	Dual-Color Mix	2019-10-20 — 03:18:51 UTC	Dr_Kakashi, invarse	47	6	30
+59772	2	25	Up or Down (5 Suits)	2019-10-20 — 03:04:25 UTC	Dr_Kakashi, invarse	141	5	25
+59768	2	25	Black & Rainbow (5 Suits)	2019-10-20 — 02:41:27 UTC	Dr_Kakashi, invarse	39	5	25
+59767	2	0	Black & Rainbow (5 Suits)	2019-10-20 — 02:29:46 UTC	Dr_Kakashi, invarse	45	5	25
+59721	2	20	Throw It in a Hole (4 Suits)	2019-10-19 — 22:03:34 UTC	invarse, Livia	18	4	20
+59719	2	0	Throw It in a Hole (4 Suits)	2019-10-19 — 21:51:17 UTC	invarse, Livia	22	4	20
+59715	2	15	Dual-Color (3 Suits)	2019-10-19 — 21:38:01 UTC	invarse, Livia	7	3	15
+59714	2	0	Dual-Color (3 Suits)	2019-10-19 — 21:27:25 UTC	invarse, Livia	9	3	15
+59713	2	13	Dual-Color (3 Suits)	2019-10-19 — 21:20:38 UTC	invarse, Livia	13	3	15
+59712	2	14	Dual-Color (3 Suits)	2019-10-19 — 21:10:47 UTC	invarse, Livia	35	3	15
+59711	3	0	Dual-Color (3 Suits)	2019-10-19 — 20:57:46 UTC	invarse, Kyle, Livia	16	3	15
+59710	3	14	Dual-Color (3 Suits)	2019-10-19 — 20:48:20 UTC	invarse, Kyle, Livia	30	3	15
+59708	2	0	Dual-Color (3 Suits)	2019-10-19 — 20:38:09 UTC	invarse, Livia	50	3	15
+59697	3	0	Up or Down & Rainbow (5 Suits)	2019-10-19 — 17:06:13 UTC	invarse, Livia, Sucubis	23	5	25
+59695	2	0	Throw It in a Hole (4 Suits)	2019-10-19 — 16:40:52 UTC	invarse, Livia	31	4	20
+59694	2	0	Throw It in a Hole (4 Suits)	2019-10-19 — 16:23:53 UTC	invarse, Livia	52	4	20
+59693	2	0	Black & Rainbow (5 Suits)	2019-10-19 — 16:09:00 UTC	invarse, Livia	47	5	25
+59691	2	0	Black & Rainbow (5 Suits)	2019-10-19 — 15:56:40 UTC	invarse, Livia	55	5	25
+59690	2	0	Black & Rainbow (5 Suits)	2019-10-19 — 15:46:15 UTC	invarse, Livia	61	5	25
+59688	2	0	Black & Rainbow (5 Suits)	2019-10-19 — 15:40:20 UTC	invarse, Livia	73	5	25
+59687	2	15	Omni (3 Suits)	2019-10-19 — 15:28:16 UTC	invarse, Livia	29	3	15
+59601	3	0	Dark Pink (5 Suits)	2019-10-19 — 00:24:41 UTC	Fireheart, invarse, Livia	1	5	25
+59598	3	0	Dark Pink (5 Suits)	2019-10-19 — 00:17:42 UTC	Fireheart, invarse, Livia	2	5	25
+59595	3	0	Dark Pink (5 Suits)	2019-10-19 — 00:12:29 UTC	Fireheart, invarse, Livia	2	5	25
+59593	3	24	Dark Pink (5 Suits)	2019-10-19 — 00:02:24 UTC	Fireheart, invarse, Livia	5	5	25
+59590	3	24	Dark Pink (5 Suits)	2019-10-18 — 23:43:35 UTC	Fireheart, invarse, Livia	6	5	25
+59586	3	0	Dark Pink (5 Suits)	2019-10-18 — 23:21:43 UTC	Fireheart, invarse, Livia	17	5	25
+59580	2	20	Omni (4 Suits)	2019-10-18 — 23:00:41 UTC	invarse, Livia	10	4	20
+59392	3	25	White & Dark Rainbow (5 Suits)	2019-10-18 — 01:50:26 UTC	invarse, Razvogor, Zamiel	1	5	25
+59212	4	26	Black & Rainbow (6 Suits)	2019-10-17 — 00:56:54 UTC	DMoney, invarse, micerang, NoMercy	25	6	30
+58225	2	0	Gray (6 Suits)	2019-10-09 — 23:53:52 UTC	invarse, Livia	33	6	30
+58222	2	0	Gray (6 Suits)	2019-10-09 — 23:42:18 UTC	invarse, Livia	33	6	30
+58221	2	0	Gray (6 Suits)	2019-10-09 — 23:39:14 UTC	invarse, Livia	37	6	30
+58218	2	0	Gray (6 Suits)	2019-10-09 — 23:29:50 UTC	invarse, Livia	39	6	30
+57970	3	0	Rainbow & Pink (6 Suits)	2019-10-07 — 23:17:11 UTC	Dr_Kakashi, invarse, Kyle	39	6	30
+57969	4	0	Rainbow & Pink (6 Suits)	2019-10-07 — 23:03:57 UTC	Dr_Kakashi, invarse, Kyle, Livia	22	6	30
+57968	3	0	Black (5 Suits)	2019-10-07 — 22:43:29 UTC	awe, invarse, Livia	44	5	25
+57966	4	25	White (5 Suits)	2019-10-07 — 22:15:37 UTC	asaelr, awe, invarse, Livia	18	5	25
+57964	4	0	White (5 Suits)	2019-10-07 — 21:55:30 UTC	asaelr, awe, invarse, Livia	46	5	25
+57867	5	0	White (5 Suits)	2019-10-07 — 03:53:53 UTC	Dr_Kakashi, invarse, kopen2, Kyle, scharkbite	7	5	25
+57865	5	0	White (5 Suits)	2019-10-07 — 03:30:25 UTC	Dr_Kakashi, invarse, kopen2, Kyle, scharkbite	8	5	25
+57862	4	0	Omni (5 Suits)	2019-10-07 — 03:02:45 UTC	Dr_Kakashi, invarse, Kyle, Yeesh	3	5	25
+57861	4	0	Omni (5 Suits)	2019-10-07 — 02:42:57 UTC	Dr_Kakashi, invarse, Kyle, Yeesh	3	5	25
+57859	4	0	Omni (5 Suits)	2019-10-07 — 02:27:07 UTC	Dr_Kakashi, invarse, Kyle, Yeesh	9	5	25
+57752	4	0	White (6 Suits)	2019-10-06 — 04:00:43 UTC	Dr_Kakashi, invarse, jeep, scharkbite	14	6	30
+57750	3	19	Pink (4 Suits)	2019-10-06 — 03:44:33 UTC	Dr_Kakashi, invarse, scharkbite	27	4	20
+57748	3	25	Pink (5 Suits)	2019-10-06 — 03:32:37 UTC	Dr_Kakashi, invarse, scharkbite	36	5	25
+57747	3	30	Pink (6 Suits)	2019-10-06 — 03:13:48 UTC	Dr_Kakashi, invarse, scharkbite	17	6	30
+57745	2	0	Omni (4 Suits)	2019-10-06 — 02:50:05 UTC	Dr_Kakashi, invarse	20	4	20
+57682	3	0	Rainbow (5 Suits)	2019-10-05 — 14:53:30 UTC	DMoney, Floriman, invarse	39	5	25
+57519	4	0	Extremely Ambiguous (4 Suits)	2019-10-04 — 01:48:26 UTC	Dr_Kakashi, Fireheart, invarse, micerang	3	4	20
+57393	5	0	Omni (4 Suits)	2019-10-03 — 02:54:54 UTC	Fireheart, invarse, Razvogor, scharkbite, Zamiel	1	4	20
+57391	5	0	Omni (4 Suits)	2019-10-03 — 02:49:57 UTC	Fireheart, invarse, Razvogor, scharkbite, Zamiel	1	4	20
+57381	5	19	Omni (4 Suits)	2019-10-03 — 02:32:27 UTC	Fireheart, invarse, Razvogor, scharkbite, Zamiel	1	4	20
+57362	4	0	Pink & Omni (5 Suits)	2019-10-03 — 02:14:11 UTC	invarse, Razvogor, scharkbite, Zamiel	3	5	25
+57360	4	0	Pink & Omni (5 Suits)	2019-10-03 — 02:06:34 UTC	invarse, Razvogor, scharkbite, Zamiel	4	5	25
+57357	4	0	Pink & Omni (5 Suits)	2019-10-03 — 01:52:30 UTC	invarse, Razvogor, scharkbite, Zamiel	6	5	25
+57354	3	0	Pink & Omni (5 Suits)	2019-10-03 — 01:38:03 UTC	invarse, scharkbite, Zamiel	2	5	25
+57336	2	25	Omni (5 Suits)	2019-10-02 — 23:38:31 UTC	DMoney, invarse	11	5	25
+57199	3	0	Gray (5 Suits)	2019-10-01 — 23:11:02 UTC	Fireheart, invarse, micerang	5	5	25
+57198	2	0	Omni (5 Suits)	2019-10-01 — 22:57:18 UTC	Fireheart, invarse	19	5	25
+57197	2	0	Omni (5 Suits)	2019-10-01 — 22:44:28 UTC	Fireheart, invarse	22	5	25
+57196	2	30	Null (6 Suits)	2019-10-01 — 22:30:20 UTC	Fireheart, invarse	27	6	30
+57195	2	0	Null (6 Suits)	2019-10-01 — 22:20:48 UTC	Fireheart, invarse	31	6	30
+57194	2	0	Null (6 Suits)	2019-10-01 — 22:13:33 UTC	Fireheart, invarse	34	6	30
+57193	2	0	Null (6 Suits)	2019-10-01 — 22:08:30 UTC	Fireheart, invarse	37	6	30
+57192	2	0	Null (6 Suits)	2019-10-01 — 22:05:35 UTC	Fireheart, invarse	42	6	30
+56948	3	27	Dual-Color Mix	2019-09-29 — 20:22:01 UTC	Dr_Kakashi, invarse, Razvogor	16	6	30
+56943	4	20	Rainbow & White (4 Suits)	2019-09-29 — 19:58:54 UTC	Fireheart, invarse, Razvogor, Valetta6789	12	4	20
+56940	4	25	Rainbow & White (5 Suits)	2019-09-29 — 19:40:26 UTC	Fireheart, invarse, Razvogor, Valetta6789	23	5	25
+56939	3	22	Rainbow & White (5 Suits)	2019-09-29 — 19:15:10 UTC	Fireheart, invarse, Valetta6789	37	5	25
+56893	5	0	Black & Rainbow (6 Suits)	2019-09-29 — 15:15:44 UTC	Fireheart, IAMJEFF, invarse, Libster, Valetta6789	4	6	30
+56892	5	0	Black & Rainbow (6 Suits)	2019-09-29 — 15:13:45 UTC	Fireheart, IAMJEFF, invarse, Libster, Valetta6789	5	6	30
+56891	4	0	Black & Rainbow (5 Suits)	2019-09-29 — 15:07:54 UTC	Fireheart, IAMJEFF, invarse, Libster	23	5	25
+56859	2	25	Null (5 Suits)	2019-09-29 — 01:51:23 UTC	Dr_Kakashi, invarse	14	5	25
+56856	2	0	Null (5 Suits)	2019-09-29 — 01:41:04 UTC	Dr_Kakashi, invarse	15	5	25
+56855	2	0	Null (5 Suits)	2019-09-29 — 01:33:32 UTC	Dr_Kakashi, invarse	16	5	25
+56851	2	0	Null (5 Suits)	2019-09-29 — 01:27:43 UTC	Dr_Kakashi, invarse	17	5	25
+56850	2	0	Null (5 Suits)	2019-09-29 — 01:16:14 UTC	Dr_Kakashi, invarse	21	5	25
+56848	2	0	Null (5 Suits)	2019-09-29 — 01:09:19 UTC	Dr_Kakashi, invarse	22	5	25
+56843	2	0	Null (5 Suits)	2019-09-29 — 00:56:08 UTC	Dr_Kakashi, invarse	22	5	25
+56839	2	0	Null (5 Suits)	2019-09-29 — 00:48:53 UTC	Dr_Kakashi, invarse	25	5	25
+56837	2	0	Null (5 Suits)	2019-09-29 — 00:45:22 UTC	Dr_Kakashi, invarse	28	5	25
+56832	2	0	Null (5 Suits)	2019-09-29 — 00:33:02 UTC	Dr_Kakashi, invarse	33	5	25
+56830	2	20	Null (4 Suits)	2019-09-29 — 00:14:30 UTC	Dr_Kakashi, invarse	16	4	20
+56828	2	0	Null (4 Suits)	2019-09-29 — 00:06:54 UTC	Dr_Kakashi, invarse	16	4	20
+56826	2	0	Null (4 Suits)	2019-09-28 — 23:57:12 UTC	Dr_Kakashi, invarse	19	4	20
+56824	2	0	Null (4 Suits)	2019-09-28 — 23:50:37 UTC	Dr_Kakashi, invarse	20	4	20
+56820	5	0	Black & Rainbow (6 Suits)	2019-09-28 — 23:15:08 UTC	asaelr, Dr_Kakashi, Fireheart, invarse, Sucubis	11	6	30
+56808	2	0	Null (4 Suits)	2019-09-28 — 21:34:00 UTC	Dr_Kakashi, invarse	26	4	20
+56807	2	0	Null (4 Suits)	2019-09-28 — 21:24:23 UTC	Dr_Kakashi, invarse	28	4	20
+56806	2	0	Null (4 Suits)	2019-09-28 — 21:21:21 UTC	Dr_Kakashi, invarse	29	4	20
+56805	2	0	Null (4 Suits)	2019-09-28 — 21:17:01 UTC	Dr_Kakashi, invarse	32	4	20
+56804	2	19	Null (4 Suits)	2019-09-28 — 21:06:25 UTC	Dr_Kakashi, invarse	40	4	20
+56802	2	0	Null (4 Suits)	2019-09-28 — 20:53:18 UTC	Dr_Kakashi, invarse	46	4	20
+56801	2	15	Null (3 Suits)	2019-09-28 — 20:39:23 UTC	Dr_Kakashi, invarse	37	3	15
+56798	2	13	Null (3 Suits)	2019-09-28 — 20:27:16 UTC	Dr_Kakashi, invarse	56	3	15
+56790	5	0	No Variant	2019-09-28 — 19:40:24 UTC	Dr_Kakashi, Fireheart, Floriman, invarse, JeffD	223	5	25
+56788	5	0	No Variant	2019-09-28 — 19:32:43 UTC	Dr_Kakashi, Fireheart, Floriman, invarse, JeffD	344	5	25
+56757	4	0	Black & Omni (6 Suits)	2019-09-28 — 06:18:23 UTC	efaust, invarse, sjdrodge, Zamiel	1	6	30
+56756	4	0	Black & Omni (6 Suits)	2019-09-28 — 05:57:59 UTC	efaust, invarse, sjdrodge, Zamiel	2	6	30
+55958	4	0	Black & Pink (6 Suits)	2019-09-22 — 22:28:36 UTC	asaelr, invarse, Kyle, Livia	18	6	30
+55950	5	29	Muddy Rainbow (6 Suits)	2019-09-22 — 21:12:44 UTC	asaelr, Floriman, invarse, Livia, micerang	7	6	30
+55948	5	0	Muddy Rainbow (6 Suits)	2019-09-22 — 20:36:30 UTC	asaelr, Floriman, invarse, Livia, micerang	6	6	30
+55947	3	26	Omni (6 Suits)	2019-09-22 — 20:01:03 UTC	invarse, Kyle, micerang	36	6	30
+55934	5	25	Rainbow (5 Suits)	2019-09-22 — 16:47:27 UTC	asaelr, awe, invarse, Kyle, Valetta6789	34	5	25
+55930	5	0	Rainbow (5 Suits)	2019-09-22 — 16:21:16 UTC	awe, invarse, Kyle, Libster, Valetta6789	1	5	25
+55928	5	0	Rainbow (5 Suits)	2019-09-22 — 16:11:02 UTC	awe, invarse, Kyle, Libster, Valetta6789	1	5	25
+55926	3	0	Rainbow (4 Suits)	2019-09-22 — 15:53:08 UTC	invarse, Libster, Valetta6789	28	4	20
+55925	3	0	Rainbow (4 Suits)	2019-09-22 — 15:47:20 UTC	invarse, Libster, Valetta6789	32	4	20
+55888	4	25	Pink & White (5 Suits)	2019-09-22 — 02:33:14 UTC	awe, florrat2, invarse, Zamiel	3	5	25
+55887	4	0	Pink & White (5 Suits)	2019-09-22 — 02:06:32 UTC	awe, florrat2, invarse, Zamiel	4	5	25
+55886	3	30	Rainbow & Omni (6 Suits)	2019-09-22 — 01:47:24 UTC	florrat2, invarse, Zamiel	1	6	30
+55882	4	0	Ambiguous & Dual-Color	2019-09-22 — 01:28:34 UTC	DMoney, florrat2, invarse, Zamiel	2	6	30
+55881	3	15	Rainbow (3 Suits)	2019-09-22 — 01:12:56 UTC	DMoney, florrat2, invarse	10	3	15
+55846	3	14	Rainbow (3 Suits)	2019-09-21 — 20:04:53 UTC	asaelr, invarse, Valetta6789	24	3	15
+55845	3	13	Rainbow (3 Suits)	2019-09-21 — 19:52:36 UTC	asaelr, invarse, Valetta6789	26	3	15
+55844	2	30	Black & Rainbow (6 Suits)	2019-09-21 — 19:40:44 UTC	asaelr, invarse	19	6	30
+55843	2	0	Black & Rainbow (6 Suits)	2019-09-21 — 19:29:18 UTC	asaelr, invarse	20	6	30
+55842	2	0	Black & Rainbow (6 Suits)	2019-09-21 — 19:24:20 UTC	asaelr, invarse	20	6	30
+55841	2	0	Black & Rainbow (6 Suits)	2019-09-21 — 19:17:03 UTC	asaelr, invarse	22	6	30
+55840	2	0	Black & Rainbow (6 Suits)	2019-09-21 — 19:09:26 UTC	asaelr, invarse	23	6	30
+55839	2	0	Black & Rainbow (6 Suits)	2019-09-21 — 19:00:58 UTC	asaelr, invarse	24	6	30
+55789	3	20	Gray (5 Suits)	2019-09-21 — 04:12:33 UTC	invarse, Jake_Stiles, Will	7	5	25
+55787	3	0	Gray (5 Suits)	2019-09-21 — 03:56:14 UTC	invarse, Jake_Stiles, Will	19	5	25
+55786	3	0	Gray (5 Suits)	2019-09-21 — 03:45:57 UTC	invarse, Jake_Stiles, Will	21	5	25
+55784	3	0	Gray (5 Suits)	2019-09-21 — 03:34:56 UTC	invarse, Jake_Stiles, Will	26	5	25
+55780	3	23	Gray (5 Suits)	2019-09-21 — 03:02:34 UTC	invarse, Jake_Stiles, Kyle	7	5	25
+55777	3	0	Gray (5 Suits)	2019-09-21 — 02:46:26 UTC	invarse, Jake_Stiles, Kyle	10	5	25
+55775	3	0	Gray (5 Suits)	2019-09-21 — 02:35:44 UTC	invarse, Jake_Stiles, Kyle	11	5	25
+55772	5	0	Very Ambiguous (6 Suits)	2019-09-21 — 02:16:42 UTC	Cory, invarse, Jake_Stiles, Kyle, Zamiel	1	6	30
+55768	4	29	Throw It in a Hole (6 Suits)	2019-09-21 — 01:40:58 UTC	awe, invarse, Kyle, Zamiel	21	6	30
+55767	4	25	Throw It in a Hole (5 Suits)	2019-09-21 — 01:00:33 UTC	awe, invarse, Kyle, micerang	20	5	25
+55614	5	0	Dark Pink (6 Suits)	2019-09-20 — 02:04:01 UTC	alercah, DMoney, invarse, micerang, Zamiel	2	6	30
+55609	4	0	Dark Pink (6 Suits)	2019-09-20 — 01:41:45 UTC	alercah, DMoney, invarse, Zamiel	3	6	30
+55589	2	25	Gray (5 Suits)	2019-09-19 — 23:19:05 UTC	invarse, Livia	10	5	25
+55587	2	0	Gray (5 Suits)	2019-09-19 — 23:11:32 UTC	invarse, Livia	10	5	25
+55585	2	0	Gray (5 Suits)	2019-09-19 — 22:59:27 UTC	invarse, Livia	11	5	25
+55584	4	0	Gray (6 Suits)	2019-09-19 — 22:25:16 UTC	invarse, Kyle, Livia, scharkbite	2	6	30
+55581	4	0	Gray (6 Suits)	2019-09-19 — 22:01:33 UTC	invarse, Kyle, Livia, scharkbite	3	6	30
+55527	3	24	Dark Rainbow (5 Suits)	2019-09-18 — 22:56:12 UTC	invarse, Libster, NoMercy	18	5	25
+55525	3	0	Dark Rainbow (5 Suits)	2019-09-18 — 22:28:06 UTC	DMoney, invarse, Libster	31	5	25
+55357	4	0	Gray (6 Suits)	2019-09-18 — 00:26:05 UTC	Animex52, DMoney, invarse, micerang	11	6	30
+55356	2	26	Gray (6 Suits)	2019-09-18 — 00:09:46 UTC	Animex52, invarse	40	6	30
+55352	2	0	Gray (6 Suits)	2019-09-17 — 23:56:34 UTC	Animex52, invarse	41	6	30
+55351	2	0	Gray (6 Suits)	2019-09-17 — 23:54:09 UTC	Animex52, invarse	45	6	30
+55350	2	0	Gray (6 Suits)	2019-09-17 — 23:51:51 UTC	Animex52, invarse	55	6	30
+55349	2	0	Gray (6 Suits)	2019-09-17 — 23:49:16 UTC	Animex52, invarse	59	6	30
+55197	5	23	Pink-Fives (5 Suits)	2019-09-17 — 03:25:56 UTC	alercah, invarse, Jake_Stiles, micerang, Zamiel	1	5	25
+55172	3	0	Dark Pink (6 Suits)	2019-09-17 — 00:36:16 UTC	invarse, Razvogor, Zamiel	16	6	30
+55170	3	0	Dark Pink (6 Suits)	2019-09-17 — 00:26:46 UTC	invarse, Razvogor, Zamiel	18	6	30
+55169	3	0	Dark Pink (6 Suits)	2019-09-17 — 00:14:16 UTC	invarse, Razvogor, Zamiel	24	6	30
+55166	2	0	Gray (6 Suits)	2019-09-16 — 23:51:37 UTC	invarse, Zamiel	22	6	30
+55156	2	0	Gray (6 Suits)	2019-09-16 — 23:11:25 UTC	invarse, RaKXeR	74	6	30
+55000	4	0	6 Suits	2019-09-15 — 21:55:52 UTC	awe, Floriman, invarse, Romain672	81	6	30
+54871	3	30	Dual-Color & Rainbow (6 Suits)	2019-09-15 — 01:39:16 UTC	IAMJEFF, invarse, Razvogor	24	6	30
+54866	3	25	Dual-Color (5 Suits)	2019-09-15 — 01:18:48 UTC	IAMJEFF, invarse, Razvogor	10	5	25
+54858	4	0	Dual-Color (5 Suits)	2019-09-15 — 01:00:17 UTC	IAMJEFF, invarse, Kyle, Razvogor	20	5	25
+54852	4	21	No Variant	2019-09-15 — 00:39:39 UTC	asaelr, invarse, Livia, zaxecivobuny	129	5	25
+54848	3	0	Gray (5 Suits)	2019-09-14 — 23:46:50 UTC	invarse, Kyle, Livia	11	5	25
+54847	3	0	Gray (5 Suits)	2019-09-14 — 23:34:19 UTC	invarse, Kyle, Livia	35	5	25
+54846	2	24	Gray (5 Suits)	2019-09-14 — 23:26:22 UTC	invarse, Livia	12	5	25
+54845	2	24	Gray (5 Suits)	2019-09-14 — 23:13:52 UTC	invarse, Livia	16	5	25
+54832	3	20	Gray (5 Suits)	2019-09-14 — 17:12:50 UTC	invarse, Kyle, Livia	42	5	25
+54831	2	0	Gray (5 Suits)	2019-09-14 — 16:52:16 UTC	invarse, Livia	18	5	25
+54830	2	0	Gray (5 Suits)	2019-09-14 — 16:41:23 UTC	invarse, Livia	20	5	25
+54829	2	0	Gray (5 Suits)	2019-09-14 — 16:34:19 UTC	invarse, Livia	21	5	25
+54828	2	0	Gray (5 Suits)	2019-09-14 — 16:22:51 UTC	invarse, Livia	25	5	25
+54827	2	0	Gray (5 Suits)	2019-09-14 — 16:18:54 UTC	invarse, Livia	25	5	25
+54826	2	0	Gray (5 Suits)	2019-09-14 — 16:11:35 UTC	invarse, Livia	29	5	25
+54825	2	23	Gray (5 Suits)	2019-09-14 — 16:02:38 UTC	invarse, Livia	34	5	25
+54824	2	0	Gray (5 Suits)	2019-09-14 — 15:57:47 UTC	invarse, Livia	33	5	25
+54823	2	0	Gray (5 Suits)	2019-09-14 — 15:48:55 UTC	invarse, Livia	39	5	25
+54821	2	24	Gray (5 Suits)	2019-09-14 — 15:32:34 UTC	invarse, Livia	51	5	25
+54820	2	0	Gray (5 Suits)	2019-09-14 — 15:22:07 UTC	invarse, Livia	58	5	25
+54819	2	22	Gray (5 Suits)	2019-09-14 — 15:12:38 UTC	invarse, Livia	66	5	25
+54818	2	22	Gray (5 Suits)	2019-09-14 — 14:55:21 UTC	invarse, Livia	79	5	25
+54816	5	25	Rainbow (5 Suits)	2019-09-14 — 14:28:35 UTC	awe, invarse, Livia, micerang, Valetta6789	12	5	25
+54729	5	30	Dual-Color (6 Suits)	2019-09-14 — 03:18:21 UTC	IAMJEFF, invarse, Jake_Stiles, scharkbite, Zamiel	4	6	30
+54727	4	0	White & Omni (6 Suits)	2019-09-14 — 02:43:57 UTC	invarse, Jake_Stiles, scharkbite, Zamiel	2	6	30
+54725	4	0	White & Omni (6 Suits)	2019-09-14 — 02:22:20 UTC	invarse, Jake_Stiles, scharkbite, Zamiel	2	6	30
+54723	4	0	White & Omni (6 Suits)	2019-09-14 — 01:52:21 UTC	invarse, Jake_Stiles, scharkbite, Zamiel	6	6	30
+54709	4	30	Dual-Color & Rainbow (6 Suits)	2019-09-13 — 22:43:11 UTC	invarse, Livia, NoMercy, Zamiel	1	6	30
+54708	5	0	Very Ambiguous (6 Suits)	2019-09-13 — 22:13:22 UTC	invarse, Livia, NoMercy, scharkbite, Zamiel	2	6	30
+54101	3	20	White & Brown (4 Suits)	2019-09-10 — 03:31:34 UTC	invarse, micerang, scharkbite	2	4	20
+54099	3	0	White & Brown (4 Suits)	2019-09-10 — 03:20:31 UTC	invarse, micerang, scharkbite	3	4	20
+54097	3	18	White & Brown (4 Suits)	2019-09-10 — 03:10:25 UTC	invarse, micerang, scharkbite	4	4	20
+53338	4	0	Rainbow (6 Suits)	2019-09-04 — 22:49:20 UTC	Cory, invarse, Kyle, micerang	53	6	30
+52968	4	30	Black (6 Suits)	2019-09-02 — 21:26:19 UTC	Instantiation, invarse, Livia, Valetta6789	55	6	30
+52942	4	0	Black (6 Suits)	2019-09-02 — 20:51:39 UTC	Instantiation, invarse, Livia, Valetta6789	57	6	30
+52938	4	0	Black (6 Suits)	2019-09-02 — 20:36:33 UTC	Instantiation, invarse, Livia, Valetta6789	62	6	30
+52934	5	0	Black (6 Suits)	2019-09-02 — 20:09:55 UTC	Instantiation, invarse, Kyle, Livia, Valetta6789	36	6	30
+52799	4	0	Pink-Fives (5 Suits)	2019-09-01 — 23:45:40 UTC	Dr_Kakashi, invarse, Kyle, micerang	4	5	25
+52796	4	0	Pink-Fives (5 Suits)	2019-09-01 — 23:20:52 UTC	Dr_Kakashi, invarse, Kyle, micerang	4	5	25
+52793	3	0	Dark Rainbow (5 Suits)	2019-09-01 — 22:55:19 UTC	Dr_Kakashi, invarse, micerang	36	5	25
+52790	3	0	Dark Rainbow (5 Suits)	2019-09-01 — 22:38:40 UTC	Dr_Kakashi, invarse, micerang	48	5	25
+52740	5	17	White (4 Suits)	2019-09-01 — 13:02:10 UTC	asaelr, Fireheart, invarse, postmans, Sucubis	16	4	20
+52739	3	0	Omni (5 Suits)	2019-09-01 — 12:43:33 UTC	Fireheart, invarse, Sucubis	6	5	25
+52738	3	0	Omni (5 Suits)	2019-09-01 — 12:36:13 UTC	Fireheart, invarse, Sucubis	8	5	25
+52699	4	0	Brown (3 Suits)	2019-09-01 — 02:41:15 UTC	Dr_Kakashi, IAMJEFF, invarse, Kyle	8	3	15
+52697	4	15	White (3 Suits)	2019-09-01 — 02:33:41 UTC	bulbasaur, Dr_Kakashi, invarse, Kyle	27	3	15
+52695	4	15	3 Suits	2019-09-01 — 02:23:22 UTC	bulbasaur, Dr_Kakashi, invarse, Kyle	5	3	15
+52692	4	15	Pink (3 Suits)	2019-09-01 — 01:59:06 UTC	bulbasaur, Dr_Kakashi, invarse, Kyle	6	3	15
+52690	4	13	Pink (3 Suits)	2019-09-01 — 01:41:59 UTC	bulbasaur, Dr_Kakashi, invarse, Kyle	7	3	15
+52689	4	14	Pink (3 Suits)	2019-09-01 — 01:28:28 UTC	bulbasaur, Dr_Kakashi, invarse, Kyle	18	3	15
+52688	4	20	Pink (4 Suits)	2019-09-01 — 01:12:09 UTC	bulbasaur, Dr_Kakashi, invarse, Kyle	10	4	20
+52687	4	0	Pink (4 Suits)	2019-09-01 — 01:01:41 UTC	bulbasaur, Dr_Kakashi, invarse, Kyle	13	4	20
+52686	3	0	Pink (6 Suits)	2019-09-01 — 00:57:14 UTC	Dr_Kakashi, invarse, Kyle	47	6	30
+52685	4	0	Pink (4 Suits)	2019-09-01 — 00:43:49 UTC	Dr_Kakashi, invarse, Jake_Stiles, Kyle	19	4	20
+52673	3	19	4 Suits	2019-08-31 — 23:07:07 UTC	csq, invarse, Zamiel	28	4	20
+52669	3	19	4 Suits	2019-08-31 — 22:45:41 UTC	csq, invarse, Zamiel	31	4	20
+52629	3	30	Pink & White (6 Suits)	2019-08-31 — 15:44:44 UTC	IAMJEFF, invarse, micerang	15	6	30
+52535	2	0	Omni (4 Suits)	2019-08-31 — 00:10:50 UTC	Dr_Kakashi, invarse	30	4	20
+52531	2	0	Omni (4 Suits)	2019-08-31 — 00:01:58 UTC	Dr_Kakashi, invarse	59	4	20
+52414	4	25	Pink (5 Suits)	2019-08-30 — 03:23:09 UTC	Fireheart, invarse, Kyle, Ptheven	69	5	25
+52377	4	25	Omni (5 Suits)	2019-08-30 — 00:40:37 UTC	Dr_Kakashi, Fireheart, invarse, Kyle	9	5	25
+52376	3	0	Omni (5 Suits)	2019-08-30 — 00:12:32 UTC	Dr_Kakashi, invarse, Kyle	21	5	25
+52373	3	0	Omni (5 Suits)	2019-08-29 — 23:56:56 UTC	Dr_Kakashi, invarse, Kyle	31	5	25
+52372	3	0	Omni (5 Suits)	2019-08-29 — 23:50:21 UTC	Dr_Kakashi, invarse, Kyle	50	5	25
+52371	2	0	Omni (5 Suits)	2019-08-29 — 23:42:39 UTC	invarse, Kyle	29	5	25
+52370	2	0	Omni (5 Suits)	2019-08-29 — 23:40:03 UTC	invarse, Kyle	39	5	25
+52369	2	0	Omni (5 Suits)	2019-08-29 — 23:35:39 UTC	invarse, Kyle	55	5	25
+52368	2	15	Rainbow (3 Suits)	2019-08-29 — 23:31:21 UTC	invarse, Kyle	12	3	15
+52367	2	0	Rainbow (3 Suits)	2019-08-29 — 23:27:35 UTC	invarse, Kyle	13	3	15
+52347	4	14	Rainbow (3 Suits)	2019-08-29 — 20:04:38 UTC	asaelr, invarse, Livia, Sucubis	13	3	15
+52344	3	12	Rainbow (3 Suits)	2019-08-29 — 18:55:21 UTC	invarse, Kyle, Livia	36	3	15
+52343	3	19	4 Suits	2019-08-29 — 18:36:37 UTC	invarse, Kyle, Livia	59	4	20
+52148	4	0	Black (5 Suits)	2019-08-27 — 22:16:21 UTC	asaelr, invarse, Kyle, Maiorskills	14	5	25
+52147	4	0	Black (5 Suits)	2019-08-27 — 21:59:00 UTC	asaelr, invarse, Kyle, Maiorskills	19	5	25
+52146	4	0	Black (5 Suits)	2019-08-27 — 21:39:53 UTC	asaelr, invarse, Kyle, Maiorskills	21	5	25
+52050	4	0	Rainbow (5 Suits)	2019-08-26 — 23:12:41 UTC	invarse, Kyle, Maiorskills, micerang	9	5	25
+52044	4	0	4 Suits	2019-08-26 — 22:34:23 UTC	anser, iks92, invarse, Ptheven	51	4	20
+51845	4	20	Rainbow (4 Suits)	2019-08-25 — 15:35:51 UTC	asaelr, charmander, Fireheart, invarse	25	4	20
+51698	5	23	Black (5 Suits)	2019-08-24 — 20:29:23 UTC	asaelr, DMoney, Dr_Kakashi, Fireheart, invarse	30	5	25
+51697	3	0	Rainbow (3 Suits)	2019-08-24 — 20:08:45 UTC	DMoney, Fireheart, invarse	43	3	15
+51696	3	0	Rainbow (3 Suits)	2019-08-24 — 19:59:15 UTC	DMoney, Fireheart, invarse	53	3	15
+51695	2	0	Omni (5 Suits)	2019-08-24 — 19:49:39 UTC	Fireheart, invarse	78	5	25
+51694	2	23	Omni (5 Suits)	2019-08-24 — 19:32:00 UTC	Fireheart, invarse	106	5	25
+51691	2	30	Omni (6 Suits)	2019-08-24 — 19:13:06 UTC	Fireheart, invarse	95	6	30
+51688	2	0	Omni (6 Suits)	2019-08-24 — 19:00:48 UTC	Fireheart, invarse	121	6	30
+51685	2	25	Brown (5 Suits)	2019-08-24 — 18:49:20 UTC	Fireheart, invarse	33	5	25
+51682	2	0	Brown (5 Suits)	2019-08-24 — 18:41:03 UTC	Fireheart, invarse	38	5	25
+51681	2	0	Brown (5 Suits)	2019-08-24 — 18:39:08 UTC	Fireheart, invarse	39	5	25
+51669	4	24	Brown (5 Suits)	2019-08-24 — 15:07:20 UTC	Fireheart, invarse, Libster, magikarp	36	5	25
+51668	2	23	Brown (5 Suits)	2019-08-24 — 14:40:40 UTC	invarse, Livia	87	5	25
+51667	2	21	Brown (5 Suits)	2019-08-24 — 14:19:07 UTC	invarse, Livia	124	5	25
+51666	2	30	Brown (6 Suits)	2019-08-24 — 13:56:11 UTC	invarse, Ptheven	60	6	30
+51572	3	0	Pink & Dark Rainbow (6 Suits)	2019-08-23 — 23:02:04 UTC	Fireheart, invarse, Zamiel	2	6	30
+51571	3	15	White & Brown (3 Suits)	2019-08-23 — 22:56:30 UTC	Fireheart, invarse, Zamiel	3	3	15
+51568	3	13	White & Brown (3 Suits)	2019-08-23 — 22:46:04 UTC	Fireheart, invarse, Zamiel	3	3	15
+51567	3	0	White & Brown (3 Suits)	2019-08-23 — 22:35:34 UTC	Fireheart, invarse, Zamiel	6	3	15
+51566	4	0	White & Brown (3 Suits)	2019-08-23 — 22:28:15 UTC	DMoney, Fireheart, invarse, Zamiel	2	3	15
+51562	3	30	White & Brown (6 Suits)	2019-08-23 — 22:07:43 UTC	DMoney, invarse, Zamiel	10	6	30
+51556	3	0	White & Brown (6 Suits)	2019-08-23 — 21:45:27 UTC	DMoney, invarse, Zamiel	12	6	30
+51555	3	0	White & Brown (6 Suits)	2019-08-23 — 21:31:03 UTC	DMoney, invarse, Zamiel	16	6	30
+51553	3	0	White & Brown (6 Suits)	2019-08-23 — 21:25:32 UTC	DMoney, invarse, Zamiel	20	6	30
+51456	2	0	Brown (6 Suits)	2019-08-23 — 01:35:30 UTC	Dr_Kakashi, invarse	72	6	30
+51454	2	0	Brown (6 Suits)	2019-08-23 — 01:24:12 UTC	Dr_Kakashi, invarse	81	6	30
+51452	2	29	Brown (6 Suits)	2019-08-23 — 01:11:43 UTC	Dr_Kakashi, invarse	94	6	30
+51448	2	29	Brown (6 Suits)	2019-08-23 — 00:26:05 UTC	Dr_Kakashi, invarse	129	6	30
+51447	4	24	Pink-Fives (5 Suits)	2019-08-22 — 23:44:21 UTC	Dr_Kakashi, invarse, Kyle, micerang	6	5	25
+51443	5	18	4 Suits	2019-08-22 — 22:46:36 UTC	darkenblade986, Dr_Kakashi, invarse, Kyle, micerang	3	4	20
+51438	5	0	4 Suits	2019-08-22 — 22:17:20 UTC	darkenblade986, Dr_Kakashi, invarse, Kyle, micerang	3	4	20
+51152	5	0	Gray (6 Suits)	2019-08-20 — 23:54:20 UTC	Dr_Kakashi, Fireheart, invarse, RaKXeR, Zamiel	7	6	30
+51150	3	20	White (4 Suits)	2019-08-20 — 23:32:21 UTC	Dr_Kakashi, invarse, RaKXeR	5	4	20
+51147	3	0	White (4 Suits)	2019-08-20 — 23:21:02 UTC	Dr_Kakashi, invarse, RaKXeR	7	4	20
+51135	4	0	White (5 Suits)	2019-08-20 — 21:54:58 UTC	asaelr, Dr_Kakashi, Fireheart, invarse	7	5	25
+51134	4	0	White (5 Suits)	2019-08-20 — 21:36:30 UTC	asaelr, Dr_Kakashi, Fireheart, invarse	32	5	25
+51065	4	23	Brown (5 Suits)	2019-08-20 — 04:23:00 UTC	Dr_Kakashi, Fireheart, invarse, Kyle	17	5	25
+51059	4	0	Brown (5 Suits)	2019-08-20 — 03:46:30 UTC	Dr_Kakashi, Fireheart, invarse, Kyle	19	5	25
+51027	4	25	Rainbow (5 Suits)	2019-08-19 — 22:42:36 UTC	asaelr, invarse, Kyle, micerang	23	5	25
+51024	5	0	Rainbow (5 Suits)	2019-08-19 — 22:17:11 UTC	asaelr, Fireheart, invarse, Kyle, micerang	17	5	25
+50924	4	14	Brown (3 Suits)	2019-08-19 — 00:58:34 UTC	invarse, Kyle, sjdrodge, TheWildCard	13	3	15
+50922	2	20	Brown (4 Suits)	2019-08-19 — 00:39:02 UTC	invarse, Kyle	24	4	20
+50920	2	0	Brown (4 Suits)	2019-08-19 — 00:31:35 UTC	invarse, Kyle	25	4	20
+50919	2	15	Brown (3 Suits)	2019-08-19 — 00:22:27 UTC	invarse, Kyle	2	3	15
+50918	2	0	Brown (3 Suits)	2019-08-19 — 00:18:28 UTC	invarse, Kyle	3	3	15
+50917	2	13	Brown (3 Suits)	2019-08-19 — 00:11:28 UTC	invarse, Kyle	3	3	15
+50916	2	14	Brown (3 Suits)	2019-08-19 — 00:02:56 UTC	invarse, Kyle	3	3	15
+50914	2	0	Brown (3 Suits)	2019-08-18 — 23:57:33 UTC	invarse, Kyle	5	3	15
+50913	2	0	Brown (3 Suits)	2019-08-18 — 23:52:16 UTC	invarse, Kyle	6	3	15
+50912	2	13	Brown (3 Suits)	2019-08-18 — 23:48:35 UTC	invarse, Kyle	8	3	15
+50910	2	12	Brown (3 Suits)	2019-08-18 — 23:42:09 UTC	invarse, Kyle	60	3	15
+50908	4	0	White (6 Suits)	2019-08-18 — 23:10:23 UTC	Animex52, Dr_Kakashi, invarse, Kyle	41	6	30
+50904	3	25	White (5 Suits)	2019-08-18 — 22:48:55 UTC	Dr_Kakashi, invarse, Kyle	23	5	25
+50901	3	28	Pink & Dark Brown (6 Suits)	2019-08-18 — 22:28:01 UTC	invarse, Kyle, scharkbite	5	6	30
+50899	4	20	White (4 Suits)	2019-08-18 — 22:01:43 UTC	invarse, Kyle, Livia, scharkbite	7	4	20
+50892	4	0	Omni (5 Suits)	2019-08-18 — 20:50:43 UTC	invarse, Ptheven, scharkbite, sjdrodge	24	5	25
+50890	4	0	Omni (5 Suits)	2019-08-18 — 20:31:33 UTC	invarse, Ptheven, scharkbite, sjdrodge	26	5	25
+50886	4	20	Omni (4 Suits)	2019-08-18 — 20:08:33 UTC	invarse, Ptheven, scharkbite, sjdrodge	15	4	20
+50881	5	16	Rainbow (4 Suits)	2019-08-18 — 19:43:43 UTC	anser, Dr_Kakashi, invarse, Livia, Pimak	20	4	20
+50877	4	0	Black (5 Suits)	2019-08-18 — 19:18:32 UTC	Dr_Kakashi, invarse, Livia, Maiorskills	28	5	25
+50853	2	15	White (3 Suits)	2019-08-18 — 15:11:45 UTC	invarse, magikarp	33	3	15
+50852	2	14	White (3 Suits)	2019-08-18 — 15:01:11 UTC	invarse, magikarp	46	3	15
+50851	2	13	White (3 Suits)	2019-08-18 — 14:41:53 UTC	invarse, magikarp	95	3	15
+50761	4	18	Rainbow (4 Suits)	2019-08-17 — 23:07:56 UTC	Fireheart, invarse, Pikachu, Yeesh	32	4	20
+50759	4	0	Rainbow (4 Suits)	2019-08-17 — 22:43:36 UTC	Fireheart, invarse, Pikachu, Yeesh	45	4	20
+50757	3	11	Rainbow (3 Suits)	2019-08-17 — 22:26:01 UTC	Fireheart, invarse, Pikachu	71	3	15
+50754	4	21	Black (5 Suits)	2019-08-17 — 22:07:26 UTC	Fireheart, invarse, Pikachu, scharkbite	23	5	25
+50693	4	23	Black (5 Suits)	2019-08-17 — 03:41:32 UTC	DMoney, invarse, micerang, scharkbite	11	5	25
+50692	4	0	Black (5 Suits)	2019-08-17 — 03:21:01 UTC	DMoney, invarse, micerang, scharkbite	11	5	25
+50690	3	20	Rainbow (4 Suits)	2019-08-17 — 02:57:20 UTC	DMoney, invarse, scharkbite	3	4	20
+50689	2	13	White (3 Suits)	2019-08-17 — 02:43:54 UTC	invarse, scharkbite	71	3	15
+50687	3	17	Rainbow (4 Suits)	2019-08-17 — 02:31:25 UTC	Animex52, invarse, scharkbite	3	4	20
+50684	3	30	Black (6 Suits)	2019-08-17 — 02:07:20 UTC	Animex52, invarse, scharkbite	36	6	30
+50682	2	20	White (4 Suits)	2019-08-17 — 01:46:54 UTC	invarse, scharkbite	13	4	20
+50669	3	20	White (4 Suits)	2019-08-16 — 23:22:37 UTC	Cory, invarse, Pikachu	4	4	20
+50503	3	20	Pink & Brown (4 Suits)	2019-08-15 — 23:53:06 UTC	asaelr, invarse, Zamiel	2	4	20
+50502	3	0	Pink & Brown (4 Suits)	2019-08-15 — 23:36:49 UTC	asaelr, invarse, Zamiel	2	4	20
+50500	2	0	Black & Pink (6 Suits)	2019-08-15 — 23:19:57 UTC	invarse, Zamiel	3	6	30
+50499	2	0	Black & Pink (6 Suits)	2019-08-15 — 23:11:37 UTC	invarse, Zamiel	3	6	30
+50498	2	0	Black & Pink (6 Suits)	2019-08-15 — 23:08:27 UTC	invarse, Zamiel	3	6	30
+50497	3	0	Gray (5 Suits)	2019-08-15 — 23:03:28 UTC	invarse, Pimak, Zamiel	11	5	25
+50496	3	0	Gray (5 Suits)	2019-08-15 — 22:51:26 UTC	invarse, Pimak, Zamiel	12	5	25
+50494	3	0	Gray (5 Suits)	2019-08-15 — 22:40:42 UTC	invarse, Pimak, Zamiel	17	5	25
+50493	3	0	Gray (5 Suits)	2019-08-15 — 22:27:07 UTC	invarse, Pimak, Zamiel	16	5	25
+50491	3	0	Gray (5 Suits)	2019-08-15 — 21:50:04 UTC	invarse, Pimak, Zamiel	20	5	25
+50373	3	0	White & Dark Rainbow (6 Suits)	2019-08-14 — 22:51:23 UTC	Dr_Kakashi, invarse, Zamiel	4	6	30
+50372	3	0	White & Dark Rainbow (6 Suits)	2019-08-14 — 22:44:10 UTC	Dr_Kakashi, invarse, Zamiel	6	6	30
+50371	3	0	White & Dark Rainbow (6 Suits)	2019-08-14 — 22:39:45 UTC	Dr_Kakashi, invarse, Zamiel	6	6	30
+50233	2	0	White (4 Suits)	2019-08-13 — 22:39:05 UTC	Dr_Kakashi, invarse	23	4	20
+50230	2	0	White (4 Suits)	2019-08-13 — 22:31:06 UTC	Dr_Kakashi, invarse	27	4	20
+50228	2	0	White (4 Suits)	2019-08-13 — 22:29:13 UTC	Dr_Kakashi, invarse	35	4	20
+50223	2	0	White (4 Suits)	2019-08-13 — 22:14:06 UTC	Dr_Kakashi, invarse	41	4	20
+50220	2	0	White (4 Suits)	2019-08-13 — 22:01:28 UTC	Dr_Kakashi, invarse	94	4	20
+50140	2	0	Black (6 Suits)	2019-08-13 — 00:56:15 UTC	Dr_Kakashi, invarse	214	6	30
+50139	2	0	Black (6 Suits)	2019-08-13 — 00:47:47 UTC	Dr_Kakashi, invarse	221	6	30
+50137	2	25	White (5 Suits)	2019-08-13 — 00:31:53 UTC	Dr_Kakashi, invarse	184	5	25
+50135	2	30	White (6 Suits)	2019-08-13 — 00:11:47 UTC	Dr_Kakashi, invarse	77	6	30
+50132	2	15	Pink (3 Suits)	2019-08-12 — 23:56:21 UTC	Dr_Kakashi, invarse	64	3	15
+50129	2	20	Pink (4 Suits)	2019-08-12 — 23:43:13 UTC	Dr_Kakashi, invarse	31	4	20
+50127	2	0	Pink (4 Suits)	2019-08-12 — 23:34:35 UTC	Dr_Kakashi, invarse	34	4	20
+50126	2	25	Pink (5 Suits)	2019-08-12 — 23:25:15 UTC	Dr_Kakashi, invarse	48	5	25
+50050	6	30	Rainbow (6 Suits)	2019-08-12 — 01:37:30 UTC	Animex52, Cory, Darth_Calculus, invarse, micerang, Ptheven	33	6	30
+50046	5	22	Pink (5 Suits)	2019-08-12 — 01:11:57 UTC	Animex52, Cory, invarse, micerang, Ptheven	11	5	25
+50039	3	0	Pink (5 Suits)	2019-08-12 — 00:47:41 UTC	Cory, invarse, micerang	43	5	25
+49976	2	0	No Variant	2019-08-11 — 01:57:36 UTC	invarse, LordBraska	4109	5	25
+49975	2	0	No Variant	2019-08-11 — 01:39:59 UTC	invarse, LordBraska	5374	5	25
+49973	3	0	Rainbow (4 Suits)	2019-08-11 — 01:20:25 UTC	anser, invarse, Jake_Stiles	84	4	20
+49972	2	30	Rainbow (6 Suits)	2019-08-11 — 01:08:44 UTC	anser, invarse	212	6	30
+49969	2	0	Rainbow (6 Suits)	2019-08-10 — 23:28:05 UTC	DMoney, invarse	227	6	30
+49968	2	0	Rainbow (6 Suits)	2019-08-10 — 23:19:30 UTC	DMoney, invarse	243	6	30
+49967	2	0	Rainbow (6 Suits)	2019-08-10 — 23:11:44 UTC	DMoney, invarse	254	6	30
+49948	4	0	Black (5 Suits)	2019-08-10 — 21:13:24 UTC	DMoney, Dr_Kakashi, invarse, Sucubis	13	5	25
+49947	4	0	Black (5 Suits)	2019-08-10 — 21:02:25 UTC	DMoney, Dr_Kakashi, invarse, Sucubis	14	5	25
+49945	4	21	Black (5 Suits)	2019-08-10 — 20:48:06 UTC	DMoney, Dr_Kakashi, invarse, Sucubis	16	5	25
+49941	4	25	Rainbow (5 Suits)	2019-08-10 — 20:19:03 UTC	DMoney, Dr_Kakashi, invarse, Sucubis	38	5	25
+49938	4	24	Rainbow (5 Suits)	2019-08-10 — 19:41:55 UTC	DMoney, invarse, Libster, Sucubis	29	5	25
+49933	2	0	Pink (5 Suits)	2019-08-10 — 19:05:31 UTC	DMoney, invarse	58	5	25
+49929	2	0	Pink (5 Suits)	2019-08-10 — 18:47:18 UTC	DMoney, invarse	77	5	25
+49926	2	0	Pink (5 Suits)	2019-08-10 — 18:34:20 UTC	DMoney, invarse	88	5	25
+49924	2	0	Pink (5 Suits)	2019-08-10 — 18:14:28 UTC	Dr_Kakashi, invarse	95	5	25
+49923	2	0	Pink (5 Suits)	2019-08-10 — 18:04:16 UTC	Dr_Kakashi, invarse	119	5	25
+49922	2	0	Pink (5 Suits)	2019-08-10 — 17:55:40 UTC	Dr_Kakashi, invarse	200	5	25
+49921	2	30	Pink (6 Suits)	2019-08-10 — 17:46:07 UTC	Dr_Kakashi, invarse	143	6	30
+49920	2	0	Pink (6 Suits)	2019-08-10 — 17:38:39 UTC	Dr_Kakashi, invarse	157	6	30
+49919	2	0	Pink (6 Suits)	2019-08-10 — 17:36:26 UTC	Dr_Kakashi, invarse	172	6	30
+49918	2	0	Pink (6 Suits)	2019-08-10 — 17:33:49 UTC	Dr_Kakashi, invarse	219	6	30
+49917	2	15	Rainbow (3 Suits)	2019-08-10 — 17:30:45 UTC	Dr_Kakashi, invarse	127	3	15
+49916	4	22	Rainbow & White (5 Suits)	2019-08-10 — 17:14:01 UTC	DMoney, Fireheart, invarse, scharkbite	17	5	25
+49915	3	28	Rainbow & White (6 Suits)	2019-08-10 — 16:48:12 UTC	Fireheart, invarse, scharkbite	13	6	30
+49914	3	20	4 Suits	2019-08-10 — 16:21:57 UTC	Fireheart, invarse, scharkbite	4	4	20
+49911	3	0	4 Suits	2019-08-10 — 16:08:53 UTC	Fireheart, invarse, scharkbite	4	4	20
+49910	3	19	4 Suits	2019-08-10 — 15:51:24 UTC	Fireheart, invarse, scharkbite	4	4	20
+49902	4	0	Black (6 Suits)	2019-08-10 — 13:27:51 UTC	Dr_Kakashi, Fireheart, invarse, qqqq	67	6	30
+49722	3	12	Pink (3 Suits)	2019-08-09 — 04:19:12 UTC	Fireheart, invarse, micerang	8	3	15
+49721	3	13	Pink (3 Suits)	2019-08-09 — 04:06:59 UTC	Fireheart, invarse, micerang	9	3	15
+49720	3	0	Pink (3 Suits)	2019-08-09 — 03:50:20 UTC	Fireheart, invarse, micerang	9	3	15
+49719	2	15	Pink (3 Suits)	2019-08-09 — 03:37:41 UTC	Fireheart, invarse	87	3	15
+49603	3	21	No Variant	2019-08-08 — 01:22:34 UTC	Crater, invarse, rft50	386	5	25
+49598	4	25	No Variant	2019-08-08 — 00:50:30 UTC	anser, invarse, micerang, rft50	88	5	25
+49596	5	0	No Variant	2019-08-08 — 00:27:40 UTC	anser, invarse, Jake_Stiles, micerang, rft50	38	5	25
+49593	2	0	Black (6 Suits)	2019-08-07 — 23:03:01 UTC	awe, invarse	442	6	30
+49592	2	0	Duck (5 Suits)	2019-08-07 — 22:49:29 UTC	Cory, invarse	63	5	25
+49485	5	24	No Variant	2019-08-07 — 00:13:52 UTC	invarse, Jake_Stiles, micerang, Razvogor, Will	45	5	25
+49383	5	0	Rainbow (5 Suits)	2019-08-06 — 03:16:30 UTC	Dr_Kakashi, invarse, Jake_Stiles, micerang, scharkbite	14	5	25
+49380	5	30	Rainbow (6 Suits)	2019-08-06 — 02:46:45 UTC	anser, invarse, Jake_Stiles, micerang, scharkbite	20	6	30
+49281	4	0	Black (6 Suits)	2019-08-05 — 02:30:51 UTC	Dr_Kakashi, invarse, Ptheven, qqqq	71	6	30
+49278	4	27	Black (6 Suits)	2019-08-05 — 02:05:57 UTC	anser, Dr_Kakashi, invarse, Ptheven	74	6	30
+49275	2	0	Rainbow (6 Suits)	2019-08-05 — 01:45:10 UTC	Dr_Kakashi, invarse	269	6	30
+49274	2	0	Rainbow (6 Suits)	2019-08-05 — 01:42:47 UTC	Dr_Kakashi, invarse	288	6	30
+49271	6	0	No Variant	2019-08-05 — 00:37:29 UTC	Dr_Kakashi, ggwpgg, invarse, Jake_Stiles, micerang, Pimak	75	5	25
+49268	3	30	Rainbow (6 Suits)	2019-08-04 — 23:40:03 UTC	anser, invarse, snakin	126	6	30
+49207	5	28	Black (6 Suits)	2019-08-04 — 15:01:54 UTC	Dr_Kakashi, Fireheart, invarse, qqqq, Sucubis	18	6	30
+49205	4	0	Rainbow (6 Suits)	2019-08-04 — 14:25:39 UTC	Dr_Kakashi, Fireheart, invarse, Sucubis	69	6	30
+49202	4	15	Rainbow (3 Suits)	2019-08-04 — 14:05:59 UTC	Dr_Kakashi, Fireheart, invarse, Sucubis	6	3	15
+49199	5	0	Rainbow (6 Suits)	2019-08-04 — 13:49:58 UTC	Fireheart, invarse, Jake_Stiles, NoMercy, Sucubis	21	6	30
+49198	2	0	Rainbow (6 Suits)	2019-08-04 — 13:39:51 UTC	Fireheart, invarse	306	6	30
+49196	2	20	Rainbow (4 Suits)	2019-08-04 — 13:21:36 UTC	Fireheart, invarse	132	4	20
+49165	3	0	Cow & Pig (5 Suits)	2019-08-04 — 05:26:09 UTC	Dr_Kakashi, invarse, micerang	13	5	25
+49160	3	24	Cow & Pig (5 Suits)	2019-08-04 — 05:07:19 UTC	Dr_Kakashi, invarse, micerang	18	5	25
+49151	4	0	No Variant	2019-08-04 — 04:21:44 UTC	Animex52, Fireheart, invarse, micerang	89	5	25
+49147	4	0	No Variant	2019-08-04 — 03:53:44 UTC	Animex52, Fireheart, invarse, micerang	95	5	25
+49142	4	0	4 Suits	2019-08-04 — 03:31:19 UTC	Dr_Kakashi, invarse, Jake_Stiles, Ptheven	17	4	20
+49139	4	0	Black (6 Suits)	2019-08-04 — 03:05:51 UTC	Dr_Kakashi, invarse, Jake_Stiles, Ptheven	77	6	30
+49135	6	23	Rainbow (5 Suits)	2019-08-04 — 02:41:47 UTC	asaelr, DMoney, Dr_Kakashi, invarse, Jake_Stiles, Ptheven	15	5	25
+49130	4	0	Rainbow (5 Suits)	2019-08-04 — 02:22:12 UTC	asaelr, DMoney, invarse, Ptheven	68	5	25
+49129	4	0	Rainbow (5 Suits)	2019-08-04 — 02:17:44 UTC	asaelr, DMoney, invarse, Ptheven	92	5	25
+49127	4	0	Rainbow (5 Suits)	2019-08-04 — 02:08:27 UTC	asaelr, DMoney, invarse, Ptheven	130	5	25
+49125	3	0	Rainbow (5 Suits)	2019-08-04 — 01:59:05 UTC	asaelr, invarse, Ptheven	22	5	25
+49089	2	25	Rainbow (5 Suits)	2019-08-03 — 21:15:33 UTC	Fireheart, invarse	95	5	25
+49086	2	0	Rainbow (5 Suits)	2019-08-03 — 21:03:51 UTC	Fireheart, invarse	129	5	25
+49083	4	0	Black (5 Suits)	2019-08-03 — 20:51:45 UTC	Ahming, Fireheart, invarse, Sucubis	36	5	25
+49080	2	0	Rainbow (5 Suits)	2019-08-03 — 20:35:49 UTC	Fireheart, invarse	154	5	25
+49079	2	0	Rainbow (5 Suits)	2019-08-03 — 20:30:04 UTC	Fireheart, invarse	248	5	25
+49000	4	0	Omni (6 Suits)	2019-08-03 — 02:24:16 UTC	Ahming, Dr_Kakashi, invarse, qqqq	26	6	30
+48985	3	0	Black (6 Suits)	2019-08-03 — 01:33:35 UTC	Dr_Kakashi, invarse, RaKXeR	23	6	30
+48984	3	0	Black (6 Suits)	2019-08-03 — 01:26:27 UTC	Dr_Kakashi, invarse, RaKXeR	23	6	30
+48983	2	0	Rainbow (6 Suits)	2019-08-03 — 01:24:57 UTC	Dr_Kakashi, invarse	327	6	30
+48979	2	0	Rainbow (6 Suits)	2019-08-03 — 00:53:21 UTC	Dr_Kakashi, invarse	349	6	30
+48971	4	0	White (6 Suits)	2019-08-02 — 23:47:05 UTC	Ahming, Dr_Kakashi, Fireheart, invarse	75	6	30
+48745	4	19	Pink & White (4 Suits)	2019-08-02 — 01:17:17 UTC	DMoney, invarse, Jake_Stiles, Zamiel	3	4	20
+48742	4	0	Pink & White (4 Suits)	2019-08-02 — 00:59:18 UTC	DMoney, invarse, Jake_Stiles, Zamiel	6	4	20
+48741	4	0	Pink & White (4 Suits)	2019-08-02 — 00:51:38 UTC	DMoney, invarse, Jake_Stiles, Zamiel	6	4	20
+48740	4	0	Pink & White (4 Suits)	2019-08-02 — 00:46:21 UTC	DMoney, invarse, Jake_Stiles, Zamiel	9	4	20
+48738	3	0	Pink & White (4 Suits)	2019-08-02 — 00:41:48 UTC	invarse, Jake_Stiles, Zamiel	5	4	20
+48737	3	0	Pink & White (4 Suits)	2019-08-02 — 00:37:33 UTC	invarse, Jake_Stiles, Zamiel	6	4	20
+48736	3	0	Pink & White (4 Suits)	2019-08-02 — 00:28:58 UTC	invarse, Jake_Stiles, Zamiel	9	4	20
+48734	3	0	Pink & White (4 Suits)	2019-08-02 — 00:20:42 UTC	invarse, Jake_Stiles, Zamiel	13	4	20
+48731	3	25	Pink & White (5 Suits)	2019-08-02 — 00:09:18 UTC	invarse, Jake_Stiles, Zamiel	14	5	25
+48717	4	0	Black (6 Suits)	2019-08-01 — 22:24:16 UTC	anser, awe, Dr_Kakashi, invarse	90	6	30
+48715	4	15	3 Suits	2019-08-01 — 22:00:43 UTC	awe, DMoney, Dr_Kakashi, invarse	16	3	15
+48593	5	25	No Variant	2019-08-01 — 00:54:40 UTC	Ahming, anser, asaelr, invarse, Jake_Stiles	176	5	25
+48579	2	28	Rainbow (6 Suits)	2019-08-01 — 00:05:23 UTC	Dr_Kakashi, invarse	395	6	30
+48578	2	29	Rainbow (6 Suits)	2019-07-31 — 23:46:19 UTC	Dr_Kakashi, invarse	441	6	30
+48576	2	0	Rainbow (6 Suits)	2019-07-31 — 23:18:09 UTC	Dr_Kakashi, invarse	500	6	30
+48501	3	0	Rainbow (6 Suits)	2019-07-31 — 03:29:32 UTC	Animex52, Dr_Kakashi, invarse	141	6	30
+48497	3	0	Rainbow (6 Suits)	2019-07-31 — 02:55:18 UTC	Animex52, Dr_Kakashi, invarse	165	6	30
+48472	4	0	Black (6 Suits)	2019-07-30 — 23:26:32 UTC	Cory, Darth_Calculus, Dr_Kakashi, invarse	21	6	30
+48470	4	20	4 Suits	2019-07-30 — 22:53:43 UTC	Ahming, Cory, Darth_Calculus, invarse	32	4	20
+48468	4	0	4 Suits	2019-07-30 — 22:41:41 UTC	Ahming, Cory, Darth_Calculus, invarse	101	4	20
+48467	3	30	6 Suits	2019-07-30 — 22:29:55 UTC	Ahming, Cory, invarse	28	6	30
+48465	3	0	6 Suits	2019-07-30 — 22:09:25 UTC	Ahming, Cory, invarse	76	6	30
+48349	4	12	3 Suits	2019-07-30 — 01:58:20 UTC	DMoney, Dr_Kakashi, invarse, micerang	20	3	15
+48347	4	14	3 Suits	2019-07-30 — 01:40:51 UTC	DMoney, Dr_Kakashi, invarse, micerang	24	3	15
+48345	4	0	3 Suits	2019-07-30 — 01:19:20 UTC	DMoney, Dr_Kakashi, invarse, micerang	26	3	15
+48342	4	0	3 Suits	2019-07-30 — 01:06:54 UTC	DMoney, Dr_Kakashi, invarse, micerang	37	3	15
+48340	3	0	Rainbow (4 Suits)	2019-07-30 — 00:53:04 UTC	DMoney, Dr_Kakashi, invarse	4	4	20
+48336	3	0	Rainbow (4 Suits)	2019-07-30 — 00:36:11 UTC	DMoney, Dr_Kakashi, invarse	9	4	20
+48335	3	0	Rainbow (4 Suits)	2019-07-30 — 00:27:56 UTC	DMoney, Dr_Kakashi, invarse	11	4	20
+48333	3	0	Rainbow (4 Suits)	2019-07-30 — 00:18:25 UTC	DMoney, Dr_Kakashi, invarse	13	4	20
+48322	4	30	Pink (6 Suits)	2019-07-29 — 22:56:54 UTC	Dr_Kakashi, invarse, Kyle, micerang	70	6	30
+48317	3	0	Brown (4 Suits)	2019-07-29 — 22:29:34 UTC	invarse, Kyle, micerang	31	4	20
+48316	4	0	Brown (6 Suits)	2019-07-29 — 22:22:20 UTC	Dr_Kakashi, invarse, Kyle, micerang	14	6	30
+48313	4	0	Brown (6 Suits)	2019-07-29 — 22:11:26 UTC	Dr_Kakashi, invarse, Kyle, micerang	16	6	30
+48191	5	0	Gray (5 Suits)	2019-07-29 — 01:49:36 UTC	Dr_Kakashi, Fireheart, invarse, Ptheven, Will	10	5	25
+48185	3	25	Rainbow (5 Suits)	2019-07-28 — 23:20:57 UTC	Dr_Kakashi, invarse, micerang	84	5	25
+48068	3	0	Black (6 Suits)	2019-07-28 — 03:50:20 UTC	Dr_Kakashi, invarse, Jake_Stiles	125	6	30
+48065	3	0	Black (6 Suits)	2019-07-28 — 03:30:56 UTC	Dr_Kakashi, invarse, Jake_Stiles	134	6	30
+48058	5	27	Dark Brown (6 Suits)	2019-07-28 — 02:59:53 UTC	Dr_Kakashi, IAMJEFF, invarse, micerang, scharkbite	8	6	30
+48051	5	0	Dark Brown (6 Suits)	2019-07-28 — 02:18:38 UTC	Dr_Kakashi, IAMJEFF, invarse, micerang, scharkbite	10	6	30
+48031	5	27	Pink & Gray (6 Suits)	2019-07-27 — 23:03:52 UTC	Ahming, Darth_Calculus, Dr_Kakashi, invarse, scharkbite	3	6	30
+48026	6	28	Black (6 Suits)	2019-07-27 — 22:24:47 UTC	Ahming, asaelr, Dr_Kakashi, invarse, Maiorskills, scharkbite	4	6	30
+47988	4	14	Rainbow (3 Suits)	2019-07-27 — 19:39:41 UTC	asaelr, Dr_Kakashi, invarse, micerang	10	3	15
+47986	4	0	Rainbow (3 Suits)	2019-07-27 — 19:33:34 UTC	asaelr, Dr_Kakashi, invarse, micerang	14	3	15
+47977	4	30	Rainbow (6 Suits)	2019-07-27 — 19:13:49 UTC	asaelr, Dr_Kakashi, invarse, micerang	85	6	30
+47969	3	26	White (6 Suits)	2019-07-27 — 18:42:28 UTC	Dr_Kakashi, invarse, micerang	53	6	30
+47968	2	0	White (6 Suits)	2019-07-27 — 18:26:59 UTC	Dr_Kakashi, invarse	184	6	30
+47875	3	29	Black (6 Suits)	2019-07-27 — 02:05:47 UTC	Dr_Kakashi, invarse, Jake_Stiles	149	6	30
+47873	5	25	Black (6 Suits)	2019-07-27 — 01:22:06 UTC	Darth_Calculus, Dr_Kakashi, invarse, Jake_Stiles, micerang	101	6	30
+47865	4	0	Black (6 Suits)	2019-07-27 — 00:39:47 UTC	Darth_Calculus, Dr_Kakashi, invarse, micerang	91	6	30
+47859	4	30	6 Suits	2019-07-27 — 00:02:48 UTC	Darth_Calculus, Dr_Kakashi, invarse, micerang	31	6	30
+47855	3	0	White (6 Suits)	2019-07-26 — 23:05:38 UTC	DMoney, Dr_Kakashi, invarse	70	6	30
+47726	4	0	Gray (6 Suits)	2019-07-26 — 01:03:45 UTC	Dr_Kakashi, invarse, micerang, Will	15	6	30
+47724	4	0	Gray (6 Suits)	2019-07-26 — 00:51:29 UTC	Dr_Kakashi, invarse, micerang, Will	18	6	30
+47723	4	0	Gray (6 Suits)	2019-07-26 — 00:43:05 UTC	Dr_Kakashi, invarse, micerang, Will	18	6	30
+47722	4	0	Gray (6 Suits)	2019-07-26 — 00:41:35 UTC	Dr_Kakashi, invarse, micerang, Will	22	6	30
+47721	4	0	Gray (5 Suits)	2019-07-26 — 00:25:54 UTC	awe, Dr_Kakashi, invarse, Will	22	5	25
+47720	4	0	Rainbow (6 Suits)	2019-07-26 — 00:11:01 UTC	awe, Dr_Kakashi, invarse, Will	91	6	30
+47719	4	0	Rainbow (6 Suits)	2019-07-25 — 23:57:24 UTC	awe, Dr_Kakashi, invarse, Will	132	6	30
+47718	3	0	Black (6 Suits)	2019-07-25 — 23:20:53 UTC	awe, Dr_Kakashi, invarse	213	6	30
+47638	4	29	White (6 Suits)	2019-07-25 — 01:08:30 UTC	DMoney, Dr_Kakashi, invarse, Jake_Stiles	16	6	30
+47633	4	0	White (6 Suits)	2019-07-25 — 00:43:16 UTC	DMoney, Dr_Kakashi, invarse, Jake_Stiles	20	6	30
+47629	4	0	White (6 Suits)	2019-07-25 — 00:32:07 UTC	DMoney, Dr_Kakashi, invarse, Jake_Stiles	27	6	30
+47627	3	0	White (6 Suits)	2019-07-25 — 00:20:28 UTC	DMoney, Dr_Kakashi, invarse	101	6	30
+47621	3	0	Black & White (5 Suits)	2019-07-24 — 22:54:09 UTC	Dr_Kakashi, invarse, Zamiel	8	5	25
+47406	3	22	No Variant	2019-07-23 — 00:29:22 UTC	Darth_Calculus, Fireheart, invarse	422	5	25
+47398	5	0	6 Suits	2019-07-22 — 23:46:45 UTC	Darth_Calculus, DMoney, Dr_Kakashi, Fireheart, invarse	96	6	30
+47396	5	30	White (6 Suits)	2019-07-22 — 23:13:45 UTC	Darth_Calculus, Dr_Kakashi, invarse, Kyle, micerang	27	6	30
+47394	6	0	White (6 Suits)	2019-07-22 — 22:21:21 UTC	Darth_Calculus, Dr_Kakashi, Fireheart, invarse, Kyle, micerang	12	6	30
+47321	2	0	Rainbow (6 Suits)	2019-07-22 — 01:23:46 UTC	Dr_Kakashi, invarse	593	6	30
+47319	2	0	Rainbow (6 Suits)	2019-07-22 — 01:12:34 UTC	Dr_Kakashi, invarse	717	6	30
+47315	2	0	Rainbow (6 Suits)	2019-07-22 — 00:57:12 UTC	Dr_Kakashi, invarse	971	6	30
+47313	2	25	Black (5 Suits)	2019-07-22 — 00:39:55 UTC	Dr_Kakashi, invarse	108	5	25
+47296	4	0	Rainbow (6 Suits)	2019-07-21 — 23:19:40 UTC	Cory, Dr_Kakashi, invarse, micerang	50	6	30
+47293	4	0	Rainbow (6 Suits)	2019-07-21 — 22:58:51 UTC	Cory, Dr_Kakashi, invarse, micerang	73	6	30
+47290	5	24	Brown (5 Suits)	2019-07-21 — 22:35:15 UTC	asaelr, Cory, Dr_Kakashi, invarse, micerang	7	5	25
+47286	5	0	Brown (5 Suits)	2019-07-21 — 22:09:56 UTC	asaelr, Cory, Dr_Kakashi, invarse, micerang	24	5	25
+47283	2	0	Pink (4 Suits)	2019-07-21 — 21:58:10 UTC	Dr_Kakashi, invarse	42	4	20
+47282	2	0	Pink (4 Suits)	2019-07-21 — 21:57:05 UTC	Dr_Kakashi, invarse	49	4	20
+47281	2	0	Pink (4 Suits)	2019-07-21 — 21:55:39 UTC	Dr_Kakashi, invarse	64	4	20
+47274	3	0	Pink (5 Suits)	2019-07-21 — 20:40:00 UTC	Ahming, DMoney, invarse	108	5	25
+47272	4	24	Pink (5 Suits)	2019-07-21 — 20:26:42 UTC	asaelr, DMoney, invarse, micerang	14	5	25
+47271	4	0	Pink (5 Suits)	2019-07-21 — 20:12:30 UTC	asaelr, DMoney, invarse, micerang	16	5	25
+47269	4	0	Pink (5 Suits)	2019-07-21 — 20:02:43 UTC	asaelr, DMoney, invarse, micerang	17	5	25
+47266	4	24	Pink (5 Suits)	2019-07-21 — 19:38:29 UTC	asaelr, DMoney, invarse, micerang	23	5	25
+47257	3	0	Pink (5 Suits)	2019-07-21 — 19:01:07 UTC	DMoney, invarse, micerang	75	5	25
+47172	5	23	No Variant	2019-07-21 — 02:42:49 UTC	Animex52, Fireheart, invarse, Jake_Stiles, micerang	75	5	25
+47165	3	24	No Variant	2019-07-21 — 02:00:42 UTC	Animex52, Fireheart, invarse	516	5	25
+47161	4	0	6 Suits	2019-07-21 — 01:28:42 UTC	Animex52, asaelr, Fireheart, invarse	32	6	30
+47160	4	0	6 Suits	2019-07-21 — 01:01:23 UTC	Animex52, asaelr, Fireheart, invarse	49	6	30
+47159	3	0	6 Suits	2019-07-21 — 00:53:05 UTC	asaelr, Fireheart, invarse	32	6	30
+47158	3	0	6 Suits	2019-07-21 — 00:40:27 UTC	asaelr, Fireheart, invarse	31	6	30
+47157	3	0	6 Suits	2019-07-21 — 00:28:38 UTC	asaelr, Fireheart, invarse	33	6	30
+47156	3	0	6 Suits	2019-07-21 — 00:22:24 UTC	asaelr, Fireheart, invarse	36	6	30
+47155	5	0	No Variant	2019-07-21 — 00:00:33 UTC	asaelr, Fireheart, invarse, Jake_Stiles, Ptheven	296	5	25
+47154	4	0	No Variant	2019-07-20 — 23:42:30 UTC	Fireheart, invarse, Jake_Stiles, Ptheven	655	5	25
+47139	3	28	6 Suits	2019-07-20 — 21:07:10 UTC	asaelr, invarse, Livia	37	6	30
+47134	3	0	6 Suits	2019-07-20 — 20:44:09 UTC	asaelr, invarse, Livia	46	6	30
+47128	3	0	6 Suits	2019-07-20 — 20:25:09 UTC	asaelr, invarse, Livia	44	6	30
+47126	3	0	6 Suits	2019-07-20 — 20:10:19 UTC	asaelr, invarse, Livia	45	6	30
+47124	3	0	6 Suits	2019-07-20 — 19:58:13 UTC	asaelr, invarse, Livia	47	6	30
+47041	5	0	Black & Rainbow (6 Suits)	2019-07-20 — 02:49:20 UTC	Cory, Dr_Kakashi, invarse, Jake_Stiles, Zamiel	5	6	30
+47038	5	0	Black & Rainbow (6 Suits)	2019-07-20 — 02:36:52 UTC	Cory, Dr_Kakashi, invarse, Jake_Stiles, Zamiel	6	6	30
+47037	4	0	Black & Pink (5 Suits)	2019-07-20 — 02:12:47 UTC	Dr_Kakashi, invarse, Jake_Stiles, Zamiel	8	5	25
+47028	3	27	Black & White (6 Suits)	2019-07-20 — 00:54:05 UTC	Dr_Kakashi, invarse, micerang	28	6	30
+47024	3	0	Black & White (6 Suits)	2019-07-20 — 00:35:24 UTC	Dr_Kakashi, invarse, micerang	33	6	30
+47020	5	30	White (6 Suits)	2019-07-19 — 23:54:55 UTC	Dr_Kakashi, invarse, Livia, micerang, Ptheven	37	6	30
+47015	4	0	4 Suits	2019-07-19 — 23:20:16 UTC	Dr_Kakashi, invarse, Livia, Ptheven	19	4	20
+47013	4	19	4 Suits	2019-07-19 — 22:57:26 UTC	Dr_Kakashi, invarse, Livia, Ptheven	21	4	20
+47010	4	0	4 Suits	2019-07-19 — 22:37:46 UTC	Dr_Kakashi, invarse, Livia, Ptheven	38	4	20
+47009	4	0	Black (6 Suits)	2019-07-19 — 22:27:21 UTC	Dr_Kakashi, invarse, Livia, Ptheven	121	6	30
+47008	4	0	Black (6 Suits)	2019-07-19 — 22:20:08 UTC	Dr_Kakashi, invarse, Livia, Ptheven	213	6	30
+47007	4	0	Black (6 Suits)	2019-07-19 — 22:01:33 UTC	Dr_Kakashi, invarse, Livia, Ptheven	273	6	30
+46908	6	0	Gray (6 Suits)	2019-07-18 — 23:06:06 UTC	Dr_Kakashi, invarse, micerang, Mike, Will, Zamiel	5	6	30
+46907	5	0	Gray (6 Suits)	2019-07-18 — 22:49:19 UTC	Dr_Kakashi, invarse, micerang, Will, Zamiel	10	6	30
+46906	5	0	Gray (6 Suits)	2019-07-18 — 22:39:01 UTC	Dr_Kakashi, invarse, micerang, Will, Zamiel	14	6	30
+46904	3	28	6 Suits	2019-07-18 — 22:05:34 UTC	Dr_Kakashi, invarse, Kyle	70	6	30
+46459	4	0	6 Suits	2019-07-15 — 23:00:15 UTC	Dr_Kakashi, invarse, Kyle, Will	100	6	30
+46458	4	0	6 Suits	2019-07-15 — 22:44:06 UTC	Dr_Kakashi, invarse, Kyle, Will	191	6	30
+46457	3	0	6 Suits	2019-07-15 — 22:25:50 UTC	Dr_Kakashi, invarse, Kyle	83	6	30
+46455	3	0	6 Suits	2019-07-15 — 22:07:13 UTC	Dr_Kakashi, invarse, Kyle	93	6	30
+46354	4	0	Black (5 Suits)	2019-07-15 — 01:20:51 UTC	asaelr, Cory, Dr_Kakashi, invarse	41	5	25
+46350	3	25	Black (5 Suits)	2019-07-15 — 00:58:31 UTC	asaelr, Dr_Kakashi, invarse	171	5	25
+46332	3	0	Black (6 Suits)	2019-07-15 — 00:01:55 UTC	Cory, Dr_Kakashi, invarse	52	6	30
+46329	4	0	Black (5 Suits)	2019-07-14 — 23:50:03 UTC	Cory, Dr_Kakashi, invarse, micerang	22	5	25
+46324	4	0	Black (5 Suits)	2019-07-14 — 23:43:13 UTC	Cory, Dr_Kakashi, invarse, micerang	21	5	25
+46322	4	0	Black (5 Suits)	2019-07-14 — 23:37:34 UTC	Cory, Dr_Kakashi, invarse, micerang	23	5	25
+46320	4	0	Black (5 Suits)	2019-07-14 — 23:27:24 UTC	Cory, Dr_Kakashi, invarse, micerang	98	5	25
+46316	3	23	Black (5 Suits)	2019-07-14 — 23:05:13 UTC	Dr_Kakashi, invarse, micerang	31	5	25
+46306	3	0	Black (5 Suits)	2019-07-14 — 22:41:49 UTC	Dr_Kakashi, invarse, micerang	36	5	25
+46300	3	0	Black (5 Suits)	2019-07-14 — 22:30:44 UTC	Dr_Kakashi, invarse, micerang	35	5	25
+46296	3	0	Black (5 Suits)	2019-07-14 — 22:24:54 UTC	Dr_Kakashi, invarse, micerang	43	5	25
+46289	4	0	No Variant	2019-07-14 — 22:01:02 UTC	Dr_Kakashi, invarse, micerang, MickMasta	130	5	25
+46286	3	0	Black (5 Suits)	2019-07-14 — 21:46:10 UTC	Dr_Kakashi, invarse, micerang	74	5	25
+46247	4	25	No Variant	2019-07-14 — 16:35:23 UTC	Dr_Kakashi, invarse, Jake_Stiles, Will	473	5	25
+46244	4	25	No Variant	2019-07-14 — 16:05:58 UTC	Dr_Kakashi, invarse, Jake_Stiles, Will	501	5	25
+46242	4	0	No Variant	2019-07-14 — 15:48:10 UTC	Dr_Kakashi, invarse, Jake_Stiles, Will	541	5	25
+46239	4	25	No Variant	2019-07-14 — 15:30:10 UTC	Dr_Kakashi, invarse, Jake_Stiles, Will	2076	5	25
+46133	4	0	Black (5 Suits)	2019-07-13 — 16:52:11 UTC	Ahming, invarse, scharkbite, Sucubis	32	5	25
+46130	4	0	Black (5 Suits)	2019-07-13 — 16:34:47 UTC	Ahming, invarse, scharkbite, Sucubis	32	5	25
+46128	4	0	Black (5 Suits)	2019-07-13 — 16:21:03 UTC	Ahming, invarse, scharkbite, Sucubis	36	5	25
+46126	3	0	Black (5 Suits)	2019-07-13 — 16:04:55 UTC	invarse, scharkbite, Sucubis	92	5	25
+40694	6	22	No Variant	2019-06-04 — 22:20:07 UTC	asaelr, Göttertöter, invarse, kondain, Macert, Will	282	5	25
+40609	5	0	Brown (5 Suits)	2019-06-04 — 02:54:43 UTC	Ahming, Cory, invarse, Jake_Stiles, Zamiel	10	5	25
+40605	4	0	Brown (3 Suits)	2019-06-04 — 02:37:59 UTC	Ahming, invarse, Jake_Stiles, Zamiel	14	3	15
+40603	5	25	No Variant	2019-06-04 — 02:11:08 UTC	Ahming, Asddsa76, invarse, Jake_Stiles, Zamiel	2	5	25
+40602	3	20	4 Suits	2019-06-04 — 01:46:34 UTC	Ahming, invarse, Jake_Stiles	90	4	20
+40599	2	0	Black (5 Suits)	2019-06-04 — 01:36:00 UTC	Ahming, invarse	115	5	25
+40598	2	0	Black (5 Suits)	2019-06-04 — 01:33:14 UTC	Ahming, invarse	124	5	25
+40597	2	0	Black (5 Suits)	2019-06-04 — 01:29:03 UTC	Ahming, invarse	169	5	25
+40596	2	0	Black (5 Suits)	2019-06-04 — 01:24:24 UTC	Ahming, invarse	219	5	25
+40595	2	0	Black (5 Suits)	2019-06-04 — 01:21:29 UTC	Ahming, invarse	244	5	25
+40594	2	30	Black (6 Suits)	2019-06-04 — 01:19:02 UTC	Ahming, invarse	546	6	30
+40592	2	15	3 Suits	2019-06-04 — 01:10:47 UTC	Ahming, invarse	271	3	15
+40590	2	20	4 Suits	2019-06-04 — 01:06:42 UTC	Ahming, invarse	244	4	20
+40588	2	25	No Variant	2019-06-04 — 01:00:04 UTC	Ahming, invarse	2532	5	25
+40587	2	0	No Variant	2019-06-04 — 00:52:47 UTC	Ahming, invarse	2750	5	25
+40586	2	0	No Variant	2019-06-04 — 00:49:25 UTC	Ahming, invarse	3051	5	25
+39424	4	25	No Variant	2019-05-26 — 05:15:01 UTC	croc, Feer, invarse, micerang	985	5	25
+39306	5	24	No Variant	2019-05-25 — 04:02:16 UTC	Bubble, efaust, Fenlon, invarse, sjdrodge	15	5	25
+39301	3	0	Black (6 Suits)	2019-05-25 — 03:21:41 UTC	efaust, Feer, invarse	261	6	30
+39299	3	25	No Variant	2019-05-25 — 02:54:44 UTC	efaust, Feer, invarse	680	5	25
+36121	3	0	Rainbow (6 Suits)	2019-05-08 — 01:21:09 UTC	invarse, scharkbite, Sucubis	9	6	30
+36119	4	19	4 Suits	2019-05-08 — 00:43:20 UTC	invarse, scharkbite, sjdrodge, Ten	2	4	20
+35879	3	16	4 Suits	2019-05-07 — 04:00:53 UTC	basj, invarse, sjdrodge	2	4	20
+35836	5	0	No Variant	2019-05-07 — 03:37:12 UTC	efaust, Feer, invarse, sjdrodge, wjomlex	21	5	25
+35560	3	19	Black (5 Suits)	2019-05-06 — 00:58:23 UTC	Feer, invarse, Sucubis	134	5	25
+35557	3	15	3 Suits	2019-05-06 — 00:36:45 UTC	Feer, invarse, Sucubis	144	3	15
+35555	3	20	4 Suits	2019-05-06 — 00:24:07 UTC	Feer, invarse, Sucubis	118	4	20
+35299	4	0	Up or Down (6 Suits)	2019-05-05 — 03:57:33 UTC	Dr_Kakashi, invarse, Mike, scharkbite	12	6	30
+35241	4	0	Rainbow (3 Suits)	2019-05-05 — 03:28:39 UTC	Dr_Kakashi, Hunter, invarse, scharkbite	24	3	15
+35194	4	30	Black (6 Suits)	2019-05-05 — 02:55:45 UTC	Hunter, invarse, qqqq, scharkbite	42	6	30
+35114	3	24	No Variant	2019-05-04 — 23:14:29 UTC	Andrew_UK, asaelr, invarse	157	5	25
+35111	3	24	No Variant	2019-05-04 — 22:47:17 UTC	Andrew_UK, asaelr, invarse	160	5	25
+35097	3	0	Rainbow & White (5 Suits)	2019-05-04 — 19:13:49 UTC	florrat2, invarse, Joan	21	5	25
+35086	5	24	No Variant	2019-05-04 — 18:42:49 UTC	Dr_Kakashi, florrat2, invarse, Joan, scharkbite	15	5	25
+35058	3	25	No Variant	2019-05-04 — 17:53:58 UTC	Dr_Kakashi, invarse, Joan	750	5	25
+35055	3	18	4 Suits	2019-05-04 — 17:16:51 UTC	Dr_Kakashi, invarse, Maiorskills	160	4	20
+34989	3	14	White (3 Suits)	2019-05-04 — 03:56:06 UTC	Hunter, invarse, scharkbite	10	3	15
+34985	3	13	White (3 Suits)	2019-05-04 — 03:44:08 UTC	Hunter, invarse, scharkbite	14	3	15
+34984	3	21	Black (5 Suits)	2019-05-04 — 03:25:52 UTC	Hunter, invarse, scharkbite	44	5	25
+34983	2	30	6 Suits	2019-05-04 — 03:09:22 UTC	Hunter, invarse	340	6	30
+34980	3	25	Black (6 Suits)	2019-05-04 — 02:32:19 UTC	Hunter, invarse, qqqq	193	6	30
+34977	4	0	Rainbow (5 Suits)	2019-05-04 — 01:54:08 UTC	Dr_Kakashi, Hunter, invarse, qqqq	23	5	25
+34976	4	0	Rainbow (5 Suits)	2019-05-04 — 01:28:02 UTC	Dr_Kakashi, Hunter, invarse, qqqq	30	5	25
+33466	3	0	Black (6 Suits)	2019-04-28 — 23:54:25 UTC	Doge, invarse, RaKXeR	24	6	30
+33464	3	26	Black (6 Suits)	2019-04-28 — 23:25:44 UTC	Dr_Kakashi, invarse, RaKXeR	24	6	30
+33460	4	0	Black (6 Suits)	2019-04-28 — 23:03:02 UTC	Dr_Kakashi, invarse, qqqq, RaKXeR	142	6	30
+7669	3	24	No Variant	2018-06-27 — 01:34:58 UTC	bradz, invarse, Zamiel	28	5	25
+5652	3	30	Black (6 Suits)	2018-04-25 — 22:53:31 UTC	Cory, invarse, Mike	119	6	30
+4272	4	26	Rainbow (6 Suits)	2018-03-23 — 23:12:11 UTC	Hyakinthus, invarse, Mike, Swifter	344	6	30
+4048	4	30	6 Suits	2018-03-16 — 01:00:07 UTC	invarse, soxinfox, Zamiel, Zy	28	6	30
+3997	5	0	Ambiguous (6 Suits)	2018-03-15 — 01:54:49 UTC	Ahming, florrat2, invarse, RaKXeR, Zamiel	4	6	30
+3941	3	28	Black (6 Suits)	2018-03-14 — 02:15:04 UTC	Hyakinthus, invarse, Yeesh	236	6	30
+3939	3	0	Black (6 Suits)	2018-03-14 — 01:51:45 UTC	Hyakinthus, invarse, Yeesh	399	6	30
+3696	3	0	6 Suits	2018-03-07 — 03:34:26 UTC	florrat2, invarse, Zamiel	112	6	30
+3690	5	0	Ambiguous (6 Suits)	2018-03-07 — 00:47:06 UTC	Ahming, florrat2, invarse, Yeesh, Zamiel	14	6	30
+3682	3	0	6 Suits	2018-03-06 — 03:41:48 UTC	florrat2, invarse, Mike	126	6	30
+3680	3	0	6 Suits	2018-03-06 — 03:30:57 UTC	florrat2, invarse, Mike	132	6	30
+3679	3	0	6 Suits	2018-03-06 — 03:25:44 UTC	florrat2, invarse, Mike	147	6	30
+3678	3	0	No Variant	2018-03-06 — 03:16:46 UTC	florrat2, invarse, Mike	801	5	25
+3653	3	28	6 Suits	2018-03-05 — 03:39:30 UTC	Ahming, invarse, RaKXeR	168	6	30
+3651	3	0	6 Suits	2018-03-05 — 03:21:47 UTC	Ahming, invarse, RaKXeR	196	6	30
+3650	3	25	No Variant	2018-03-05 — 03:13:34 UTC	Ahming, invarse, RaKXeR	551	5	25
+3592	3	0	No Variant	2018-03-03 — 15:36:07 UTC	invarse, Lobsterosity, nmego	320	5	25
+3535	4	0	No Variant	2018-03-01 — 01:01:17 UTC	Cory, invarse, Mike, Zamiel	156	5	25
+3534	4	0	No Variant	2018-03-01 — 00:34:49 UTC	Cory, invarse, Mike, Zamiel	158	5	25
+3533	3	30	6 Suits	2018-03-01 — 00:02:41 UTC	florrat2, invarse, Mike	252	6	30
+3456	4	25	No Variant	2018-02-24 — 23:05:02 UTC	Instantiation, invarse, Libster, Yeesh	278	5	25
+3454	3	30	Rainbow (6 Suits)	2018-02-24 — 21:39:07 UTC	florrat2, Instantiation, invarse	120	6	30
+3453	3	0	No Variant	2018-02-24 — 21:19:20 UTC	Instantiation, invarse, Zamiel	220	5	25
+3452	4	0	No Variant	2018-02-24 — 21:16:35 UTC	Instantiation, invarse, nmego, Zamiel	287	5	25
+3451	4	0	No Variant	2018-02-24 — 21:11:10 UTC	Instantiation, invarse, nmego, Zamiel	308	5	25
+3450	3	0	No Variant	2018-02-24 — 21:03:57 UTC	Instantiation, invarse, Zamiel	224	5	25
+3449	3	25	No Variant	2018-02-24 — 21:00:55 UTC	Instantiation, invarse, Zamiel	243	5	25
+3448	3	24	No Variant	2018-02-24 — 20:55:28 UTC	Instantiation, invarse, Zamiel	250	5	25
+3440	5	0	No Variant	2018-02-24 — 04:39:20 UTC	Hyakinthus, invarse, Outlaw, Swifter, Zamiel	262	5	25
+3439	3	0	No Variant	2018-02-24 — 03:53:48 UTC	Hyakinthus, invarse, Zamiel	259	5	25
+3436	5	30	Black (6 Suits)	2018-02-24 — 01:20:19 UTC	910dan, Cory, invarse, postmans, Zamiel	16	6	30
+3433	5	27	Black (6 Suits)	2018-02-24 — 00:29:09 UTC	910dan, Bob Dole, invarse, postmans, Zamiel	24	6	30
+3432	3	0	No Variant	2018-02-23 — 23:55:08 UTC	910dan, invarse, Zamiel	275	5	25
+3431	3	0	No Variant	2018-02-23 — 23:51:40 UTC	910dan, invarse, Zamiel	344	5	25
+3388	4	23	No Variant	2018-02-21 — 02:52:50 UTC	florrat2, invarse, Yeesh, Zamiel	442	5	25
+3361	3	23	No Variant	2018-02-20 — 01:48:36 UTC	Hyakinthus, invarse, Yeesh	840	5	25
+3360	4	0	No Variant	2018-02-20 — 00:27:59 UTC	Bob Dole, Hyakinthus, invarse, Yeesh	1744	5	25
+3351	4	30	6 Suits	2018-02-19 — 02:54:17 UTC	florrat2, invarse, nmego, Zamiel	92	6	30
+3345	3	0	Dual-Color (6 Suits)	2018-02-18 — 01:23:57 UTC	invarse, soxinfox, Zamiel	14	6	30
+3344	3	30	Dual-Color (6 Suits)	2018-02-18 — 00:39:51 UTC	invarse, soxinfox, Zamiel	24	6	30
+3343	3	0	No Variant	2018-02-17 — 23:52:38 UTC	invarse, Yeesh, Zamiel	451	5	25
+3342	3	0	No Variant	2018-02-17 — 20:09:30 UTC	invarse, nmego, Yeesh	624	5	25
+3341	3	30	Dual-Color (6 Suits)	2018-02-17 — 19:35:40 UTC	florrat2, invarse, nmego	26	6	30
+3335	3	25	No Variant	2018-02-17 — 04:29:28 UTC	florrat2, invarse, Zamiel	459	5	25
+3334	3	25	No Variant	2018-02-16 — 23:56:59 UTC	Bob Dole, invarse, Zamiel	485	5	25
+3333	3	25	No Variant	2018-02-16 — 23:25:49 UTC	Bob Dole, invarse, Zamiel	573	5	25
+3327	4	30	Rainbow (6 Suits)	2018-02-16 — 03:49:42 UTC	florrat2, Instantiation, invarse, Zamiel	238	6	30
+3326	3	0	Rainbow (6 Suits)	2018-02-16 — 03:06:19 UTC	florrat2, invarse, Zamiel	146	6	30
+3313	3	28	Rainbow (6 Suits)	2018-02-15 — 04:29:41 UTC	Bob Dole, Instantiation, invarse	183	6	30
+3294	4	0	Rainbow (6 Suits)	2018-02-13 — 02:20:28 UTC	Cory, florrat2, invarse, RaKXeR	185	6	30
+3291	4	0	Rainbow (6 Suits)	2018-02-13 — 01:39:50 UTC	Cory, florrat2, invarse, RaKXeR	200	6	30
+3290	4	25	No Variant	2018-02-13 — 01:05:58 UTC	Cory, florrat2, invarse, RaKXeR	1449	5	25
+3230	4	0	Black (6 Suits)	2018-02-10 — 17:08:48 UTC	Ahming, Instantiation, invarse, Libster	102	6	30
+3229	4	0	Black (6 Suits)	2018-02-10 — 16:56:08 UTC	Ahming, Instantiation, invarse, Libster	112	6	30
+3228	3	0	Black (6 Suits)	2018-02-10 — 16:37:35 UTC	Instantiation, invarse, Libster	325	6	30
+3185	3	0	Rainbow (6 Suits)	2018-02-09 — 04:50:53 UTC	florrat2, invarse, Zamiel	196	6	30
+3184	3	25	No Variant	2018-02-09 — 04:42:46 UTC	florrat2, invarse, Zamiel	645	5	25
+3154	5	0	No Variant	2018-02-08 — 01:30:23 UTC	910dan, Cory, invarse, Lobsterosity, Zamiel	541	5	25
+3137	4	0	Dual-Color & Rainbow (6 Suits)	2018-02-07 — 02:30:27 UTC	Ahming, invarse, Libster, RaKXeR	7	6	30
+3136	5	0	Black (6 Suits)	2018-02-07 — 02:09:59 UTC	910dan, Ahming, invarse, Libster, RaKXeR	21	6	30
+3135	5	0	Black (6 Suits)	2018-02-07 — 01:59:41 UTC	910dan, Ahming, invarse, Libster, RaKXeR	23	6	30
+3125	4	0	No Variant	2018-02-06 — 17:27:23 UTC	invarse, Libster, nmego, RaKXeR	899	5	25
+3124	4	0	No Variant	2018-02-06 — 17:17:24 UTC	invarse, Libster, nmego, RaKXeR	1092	5	25
+3121	5	0	Black (6 Suits)	2018-02-06 — 01:31:07 UTC	Ahming, invarse, Libster, RaKXeR, Zamiel	23	6	30
+3120	5	0	Black (6 Suits)	2018-02-06 — 00:57:54 UTC	Ahming, Cory, invarse, RaKXeR, Zamiel	23	6	30
+3117	3	30	6 Suits	2018-02-05 — 00:45:47 UTC	florrat2, invarse, RaKXeR	305	6	30
+3108	4	25	No Variant	2018-02-04 — 17:56:59 UTC	Instantiation, invarse, Libster, RaKXeR	2763	5	25
+3095	3	29	Rainbow (6 Suits)	2018-02-04 — 04:04:03 UTC	florrat2, Instantiation, invarse	215	6	30
+3094	3	0	Rainbow (6 Suits)	2018-02-04 — 03:45:14 UTC	florrat2, Instantiation, invarse	237	6	30
+3093	4	25	No Variant	2018-02-04 — 03:35:02 UTC	Doge, florrat2, Instantiation, invarse	3581	5	25
+3072	3	29	Rainbow (6 Suits)	2018-02-02 — 01:23:17 UTC	Cory, florrat2, invarse	332	6	30
+3071	4	0	Rainbow (6 Suits)	2018-02-02 — 00:44:42 UTC	Cory, florrat2, invarse, Libster	275	6	30
+3070	4	0	Rainbow (6 Suits)	2018-02-02 — 00:25:57 UTC	Cory, florrat2, invarse, Libster	493	6	30
+3052	5	0	Black (6 Suits)	2018-02-01 — 01:50:37 UTC	Cory, invarse, Libster, RaKXeR, Zamiel	24	6	30
+3051	5	0	Black (6 Suits)	2018-02-01 — 01:32:35 UTC	Cory, invarse, Libster, RaKXeR, Zamiel	28	6	30
+3050	5	0	Black (6 Suits)	2018-02-01 — 00:48:39 UTC	Cory, invarse, Libster, RaKXeR, Zamiel	27	6	30
+3049	5	0	Black (6 Suits)	2018-02-01 — 00:10:46 UTC	Cory, invarse, Libster, RaKXeR, Zamiel	35	6	30
+3048	3	0	Rainbow (6 Suits)	2018-01-31 — 23:46:56 UTC	invarse, Libster, RaKXeR	282	6	30
+3030	4	30	Dual-Color (6 Suits)	2018-01-30 — 03:32:24 UTC	Instantiation, invarse, Libster, Zamiel	9	6	30
+3024	3	27	Dual-Color (6 Suits)	2018-01-29 — 01:11:40 UTC	Instantiation, invarse, RaKXeR	34	6	30
+3023	3	0	6 Suits	2018-01-29 — 00:46:40 UTC	Instantiation, invarse, RaKXeR	365	6	30
+3022	3	25	No Variant	2018-01-29 — 00:35:18 UTC	Instantiation, invarse, RaKXeR	940	5	25
+2999	5	27	Black (6 Suits)	2018-01-27 — 03:53:56 UTC	Ahming, Cory, invarse, Libster, Zamiel	58	6	30
+2998	5	30	6 Suits	2018-01-27 — 03:14:13 UTC	910dan, Cory, invarse, Libster, Zamiel	132	6	30
+2991	4	0	Black (6 Suits)	2018-01-26 — 02:37:37 UTC	Chronometrics, Cory, invarse, Libster	128	6	30
+2980	3	24	No Variant	2018-01-25 — 03:04:45 UTC	florrat2, invarse, Karisa	1017	5	25
+2979	3	0	No Variant	2018-01-25 — 02:25:07 UTC	florrat2, invarse, Karisa	1095	5	25
+2972	4	27	Black (6 Suits)	2018-01-24 — 02:47:08 UTC	Ahming, Cory, invarse, Zamiel	175	6	30
+2971	5	0	6 Suits	2018-01-24 — 02:03:39 UTC	Chronometrics, Cory, invarse, Libster, Zamiel	199	6	30
+2970	4	0	6 Suits	2018-01-24 — 01:40:49 UTC	Cory, invarse, Libster, Zamiel	354	6	30
+2969	5	25	No Variant	2018-01-24 — 01:14:22 UTC	910dan, Cory, invarse, Libster, Zamiel	837	5	25
+2968	4	0	Dual-Color (6 Suits)	2018-01-24 — 00:42:16 UTC	910dan, invarse, Libster, Zamiel	15	6	30
+2962	3	24	No Variant	2018-01-22 — 23:42:44 UTC	Cory, invarse, RaKXeR	1174	5	25
+2961	3	0	No Variant	2018-01-22 — 23:29:01 UTC	Bob Dole, invarse, RaKXeR	1291	5	25
+2960	3	0	No Variant	2018-01-22 — 23:10:59 UTC	Bob Dole, invarse, RaKXeR	1465	5	25
+2959	3	25	No Variant	2018-01-22 — 22:43:59 UTC	Bob Dole, invarse, RaKXeR	1636	5	25
+2949	3	23	No Variant	2018-01-22 — 00:43:01 UTC	ariel, Cory, invarse	1881	5	25
+2947	3	0	No Variant	2018-01-22 — 00:01:56 UTC	ariel, Cory, invarse	3260	5	25
+2943	3	29	Dual-Color (6 Suits)	2018-01-21 — 20:48:48 UTC	invarse, Libster, postmans	66	6	30
+2938	3	0	No Variant	2018-01-21 — 00:04:29 UTC	invarse, nmego, postmans	2163	5	25
+2935	5	30	Rainbow (6 Suits)	2018-01-20 — 22:47:48 UTC	florrat2, Instantiation, invarse, Libster, postmans	209	6	30
+2933	3	0	Rainbow (6 Suits)	2018-01-20 — 21:40:08 UTC	Instantiation, invarse, Libster	396	6	30
+2932	5	0	No Variant	2018-01-20 — 21:16:28 UTC	Instantiation, invarse, Libster, nmego, postmans	1510	5	25
+2931	5	0	No Variant	2018-01-20 — 21:02:16 UTC	Instantiation, invarse, Libster, nmego, postmans	1995	5	25
+2930	3	0	Rainbow (6 Suits)	2018-01-20 — 20:49:58 UTC	Instantiation, invarse, Libster	508	6	30
+2929	3	25	No Variant	2018-01-20 — 20:34:50 UTC	Instantiation, invarse, RaKXeR	2606	5	25
+2924	3	28	Rainbow (6 Suits)	2018-01-20 — 00:00:56 UTC	GamerSKTrashCan, invarse, Libster	689	6	30
+2907	3	0	6 Suits	2018-01-18 — 01:53:29 UTC	Cory, invarse, Zamiel	503	6	30
+2906	3	25	No Variant	2018-01-18 — 01:21:52 UTC	Cory, invarse, Zamiel	4221	5	25

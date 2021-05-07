@@ -1,0 +1,704 @@
+473678	4	25	White & Dark Pink (6 Suits)	2021-03-19 — 17:31:14 UTC	Div, knaphill, Lel0uch, melwen	2	6	30
+473649	4	0	White & Dark Pink (6 Suits)	2021-03-19 — 16:56:47 UTC	Div, knaphill, Lel0uch, melwen	3	6	30
+470164	3	0	Light Pink (4 Suits)	2021-03-16 — 15:42:16 UTC	Div, indego, rz	17	4	20
+470157	4	0	Black (5 Suits)	2021-03-16 — 15:24:45 UTC	Div, indego, Onen, rz	15	5	25
+470153	4	21	Black (5 Suits)	2021-03-16 — 15:12:53 UTC	Div, indego, Onen, rz	36	5	25
+470148	3	0	Black (6 Suits)	2021-03-16 — 14:40:51 UTC	Div, qqqq, sajizzle	69	6	30
+459167	4	0	Brown & Dark Prism (6 Suits)	2021-03-06 — 21:16:09 UTC	Div, indego, kopen, newduke	2	6	30
+458799	4	30	Gray (6 Suits)	2021-03-06 — 12:33:38 UTC	ChristopheAF, Div, Lel0uch, possum	10	6	30
+458790	4	0	Gray (6 Suits)	2021-03-06 — 12:03:19 UTC	ChristopheAF, Div, Lel0uch, possum	11	6	30
+458784	3	0	Dark Omni (5 Suits)	2021-03-06 — 11:38:58 UTC	Div, inde, Lel0uch	3	5	25
+458782	3	0	Dark Omni (5 Suits)	2021-03-06 — 11:36:18 UTC	Div, inde, Lel0uch	4	5	25
+458778	3	0	Dark Omni (5 Suits)	2021-03-06 — 11:29:59 UTC	Div, inde, Lel0uch	6	5	25
+457778	4	23	Dark Brown (5 Suits)	2021-03-05 — 18:31:51 UTC	bjnh, Div, Fey, MangoPie	14	5	25
+457745	4	0	Dark Brown (5 Suits)	2021-03-05 — 18:11:17 UTC	bjnh, Div, Fey, MangoPie	17	5	25
+457734	3	0	Dark Rainbow (5 Suits)	2021-03-05 — 18:02:59 UTC	bjnh, Div, Fey	21	5	25
+457725	3	0	Dark Rainbow (5 Suits)	2021-03-05 — 17:50:12 UTC	bjnh, Div, Fey	22	5	25
+457587	3	24	Clue Starved & Muddy Rainbow (5 Suits)	2021-03-05 — 14:42:53 UTC	Div, lotem, rz	1	5	25
+457579	3	0	Clue Starved & Muddy Rainbow (5 Suits)	2021-03-05 — 14:22:19 UTC	Div, lotem, rz	1	5	25
+457575	3	0	Clue Starved & Muddy Rainbow (5 Suits)	2021-03-05 — 14:15:37 UTC	Div, lotem, rz	1	5	25
+457567	3	23	Clue Starved & Muddy Rainbow (5 Suits)	2021-03-05 — 14:07:42 UTC	Div, lotem, rz	1	5	25
+457556	5	0	Clue Starved & Muddy Rainbow (5 Suits)	2021-03-05 — 13:45:38 UTC	Div, indego, jeff10, Lanvin, lotem	1	5	25
+457517	3	20	Rainbow & Brown (4 Suits)	2021-03-05 — 11:38:20 UTC	Div, Lanvin, Sucubis	5	4	20
+457507	3	25	Black & Light Pink (5 Suits)	2021-03-05 — 11:08:29 UTC	Div, Lanvin, Sucubis	6	5	25
+450808	4	0	Special Mix (5 Suits)	2021-02-27 — 13:27:28 UTC	ChristopheAF, Div, indego, MangoPie	4	5	25
+450801	4	0	Special Mix (5 Suits)	2021-02-27 — 12:58:21 UTC	ChristopheAF, Div, indego, MangoPie	28	5	25
+442039	4	15	Light Pink (3 Suits)	2021-02-19 — 17:20:16 UTC	Div, Floriman, rahsosprout, rz	8	3	15
+442028	4	12	Light Pink (3 Suits)	2021-02-19 — 17:00:43 UTC	Div, Floriman, rahsosprout, rz	10	3	15
+441265	3	23	Black & Light Pink (5 Suits)	2021-02-18 — 22:38:44 UTC	Div, Lanvin, Wittvector	5	5	25
+441237	3	0	Black & Light Pink (5 Suits)	2021-02-18 — 22:10:58 UTC	Div, Lanvin, Wittvector	6	5	25
+441219	3	0	Black & Light Pink (5 Suits)	2021-02-18 — 21:57:27 UTC	Div, Lanvin, Wittvector	8	5	25
+441207	3	22	Black & Light Pink (5 Suits)	2021-02-18 — 21:44:51 UTC	Div, Lanvin, Wittvector	9	5	25
+434490	4	0	Black & Rainbow (5 Suits)	2021-02-12 — 16:44:46 UTC	Div, indego, jeff10, TimeHoodie	23	5	25
+434479	4	0	Cocoa Rainbow (5 Suits)	2021-02-12 — 16:20:01 UTC	Div, jeff10, Lanvin, TimeHoodie	5	5	25
+434474	4	0	Cocoa Rainbow (5 Suits)	2021-02-12 — 16:00:45 UTC	Div, jeff10, Lanvin, TimeHoodie	8	5	25
+434458	4	20	Cocoa Rainbow (5 Suits)	2021-02-12 — 15:41:57 UTC	Div, indego, Lanvin, TimeHoodie	5	5	25
+434450	5	19	Light Pink (4 Suits)	2021-02-12 — 15:12:59 UTC	Div, indego, Lanvin, rz, TimeHoodie	4	4	20
+434445	5	0	Light Pink (4 Suits)	2021-02-12 — 14:54:56 UTC	Div, indego, Lanvin, rz, TimeHoodie	4	4	20
+433608	6	20	Pink (4 Suits)	2021-02-11 — 21:46:13 UTC	4head, Div, Lanvin, Onen, rahsosprout, VerySloppyTwo	3	4	20
+433585	6	0	Pink (4 Suits)	2021-02-11 — 21:26:35 UTC	4head, Div, Lanvin, Onen, rahsosprout, VerySloppyTwo	4	4	20
+433548	4	24	Black (5 Suits)	2021-02-11 — 21:01:10 UTC	Div, Lanvin, rahsosprout, VerySloppyTwo	14	5	25
+433518	4	0	Black (5 Suits)	2021-02-11 — 20:35:48 UTC	Div, Lanvin, rahsosprout, VerySloppyTwo	14	5	25
+433495	6	25	Throw It in a Hole (5 Suits)	2021-02-11 — 20:11:08 UTC	Div, Lanvin, MangoPie, rahsosprout, torp, VerySloppyTwo	3	5	25
+433484	6	0	Throw It in a Hole (5 Suits)	2021-02-11 — 19:52:37 UTC	Denchulitas, Div, Lanvin, rahsosprout, torp, VerySloppyTwo	4	5	25
+427683	4	29	Dark Pink (6 Suits)	2021-02-06 — 15:52:49 UTC	Div, Floriman, Lel0uch, sin_nofaith	6	6	30
+427673	5	0	Special Mix (5 Suits)	2021-02-06 — 15:28:58 UTC	ChristopheAF, Div, indego, Lanvin, sin_faith	4	5	25
+427662	5	0	Brown & Omni (6 Suits)	2021-02-06 — 15:10:05 UTC	ChristopheAF, Div, Floriman, indego, Lanvin	3	6	30
+427615	4	30	Rainbow & Light Pink (6 Suits)	2021-02-06 — 13:28:08 UTC	ChristopheAF, Div, Lel0uch, MarkusKahlsen	5	6	30
+427613	5	0	Black & Light Pink (5 Suits)	2021-02-06 — 13:05:23 UTC	ChristopeAF, Div, Lel0uch, MarkusKahlsen, Wittvector	3	5	25
+427610	4	0	Rainbow & Dark Prism (5 Suits)	2021-02-06 — 12:55:13 UTC	CaitlinSmith, Div, Lel0uch, Wittvector	4	5	25
+427605	4	0	Rainbow & Dark Prism (5 Suits)	2021-02-06 — 12:43:51 UTC	CaitlinSmith, Div, Lel0uch, Wittvector	5	5	25
+427595	4	25	Pink (5 Suits)	2021-02-06 — 12:19:01 UTC	CaitlinSmith, Div, Lanvin, qqqq	34	5	25
+426857	4	23	Black & White (5 Suits)	2021-02-05 — 22:03:10 UTC	Div, MarkusKahlsen, swineherd, VerySloppyTwo	5	5	25
+426820	4	0	Black & White (5 Suits)	2021-02-05 — 21:38:38 UTC	Div, MarkusKahlsen, swineherd, VerySloppyTwo	5	5	25
+426801	3	0	Black & Light Pink (5 Suits)	2021-02-05 — 21:27:29 UTC	Div, MarkusKahlsen, VerySloppyTwo	11	5	25
+426454	4	30	White (6 Suits)	2021-02-05 — 14:58:11 UTC	Div, eliclax, rahsosprout, skyblueexo	60	6	30
+426445	5	0	Rainbow (5 Suits)	2021-02-05 — 14:24:20 UTC	Div, eliclax, qqqq, rahsosprout, skyblueexo	22	5	25
+426432	4	20	4 Suits	2021-02-05 — 13:47:30 UTC	Calamity, Div, gdog, MrT1234	51	4	20
+426427	4	0	4 Suits	2021-02-05 — 13:35:51 UTC	Calamity, Div, gdog, MrT1234	77	4	20
+426425	4	18	4 Suits	2021-02-05 — 13:28:32 UTC	Calamity, Div, gdog, MrT1234	101	4	20
+426387	4	30	Black & Pink (6 Suits)	2021-02-05 — 11:46:51 UTC	Div, rachyrules, sephiroth, VerySloppyTwo	6	6	30
+426383	3	0	Clue Starved & Rainbow (5 Suits)	2021-02-05 — 11:26:07 UTC	Div, rachyrules, sephiroth	8	5	25
+426377	5	0	Special Mix (5 Suits)	2021-02-05 — 11:12:49 UTC	Div, indego, katian, Lel0uch, sephiroth	3	5	25
+426369	5	0	Special Mix (5 Suits)	2021-02-05 — 10:44:50 UTC	Div, indego, katian, Lel0uch, sephiroth	3	5	25
+424280	6	0	Dark Pink (6 Suits)	2021-02-03 — 18:59:58 UTC	colton, Div, Lanvin, Pimak, sephiroth, VerySloppyTwo	4	6	30
+422396	4	20	Light Pink (4 Suits)	2021-02-01 — 21:51:29 UTC	ChristopheAF, Div, HelanaAshryvr, rz	11	4	20
+422381	3	0	Muddy Rainbow (4 Suits)	2021-02-01 — 21:35:46 UTC	ChristopheAF, Div, HelanaAshryvr	15	4	20
+422375	3	0	Muddy Rainbow (4 Suits)	2021-02-01 — 21:31:44 UTC	ChristopheAF, Div, HelanaAshryvr	22	4	20
+422353	3	19	Muddy Rainbow (4 Suits)	2021-02-01 — 21:15:04 UTC	ChristopheAF, Div, HelanaAshryvr	29	4	20
+421363	4	25	Black & Light Pink (5 Suits)	2021-01-31 — 21:14:18 UTC	asaelr, Div, jeff10, TimeHoodie	3	5	25
+421339	4	0	Black & Light Pink (5 Suits)	2021-01-31 — 20:49:23 UTC	asaelr, Div, jeff10, TimeHoodie	4	5	25
+421314	3	0	Black & Light Pink (5 Suits)	2021-01-31 — 20:26:26 UTC	asaelr, Div, jeff10	13	5	25
+419944	5	23	Dark Rainbow (5 Suits)	2021-01-30 — 18:43:48 UTC	Div, Fey, sephiroth, Sucubis, VerySloppyTwo	3	5	25
+419872	3	0	Rainbow (6 Suits)	2021-01-30 — 16:30:37 UTC	Div, KillStreak, Shiri	52	6	30
+419852	3	0	Rainbow (6 Suits)	2021-01-30 — 16:06:47 UTC	Div, KillStreak, Shiri	54	6	30
+419849	3	0	Rainbow (6 Suits)	2021-01-30 — 16:02:01 UTC	Div, KillStreak, Shiri	53	6	30
+419845	3	0	Rainbow (6 Suits)	2021-01-30 — 15:53:58 UTC	Div, KillStreak, Shiri	55	6	30
+419826	3	30	Rainbow (6 Suits)	2021-01-30 — 15:24:35 UTC	Div, KillStreak, Shiri	56	6	30
+419751	5	0	White (5 Suits)	2021-01-30 — 12:58:41 UTC	Div, katian, Lel0uch, possum, StKildaFan	10	5	25
+419049	3	25	No Variant	2021-01-29 — 23:58:44 UTC	Div, KillStreak, Shiri	243	5	25
+419023	3	25	No Variant	2021-01-29 — 23:34:08 UTC	Div, KillStreak, Shiri	250	5	25
+418987	3	25	No Variant	2021-01-29 — 23:01:57 UTC	Div, KillStreak, Shiri	259	5	25
+418941	3	0	No Variant	2021-01-29 — 22:24:24 UTC	Div, KillStreak, Shiri	269	5	25
+418910	3	24	No Variant	2021-01-29 — 21:54:20 UTC	Div, KillStreak, Shiri	411	5	25
+418872	3	0	No Variant	2021-01-29 — 21:31:06 UTC	Div, KillStreak, Shiri	485	5	25
+418861	3	0	No Variant	2021-01-29 — 21:24:06 UTC	Div, KillStreak, Shiri	516	5	25
+418827	3	24	No Variant	2021-01-29 — 20:57:47 UTC	Div, KillStreak, Shiri	551	5	25
+418794	3	0	No Variant	2021-01-29 — 20:28:59 UTC	Div, KillStreak, Shiri	624	5	25
+418784	3	25	No Variant	2021-01-29 — 20:16:31 UTC	Div, KillStreak, Shiri	1095	5	25
+418483	3	0	Black & Pink (5 Suits)	2021-01-29 — 09:46:50 UTC	Div, sephiroth, VerySloppyTwo	6	5	25
+418043	4	21	Rainbow & Gray (5 Suits)	2021-01-28 — 23:39:15 UTC	ADrone, Div, MarkusKahlsen, melwen	2	5	25
+416631	3	25	Dark Brown (5 Suits)	2021-01-27 — 19:41:04 UTC	Div, Onen, wump	4	5	25
+416614	3	0	Dark Brown (5 Suits)	2021-01-27 — 19:27:36 UTC	Div, Onen, wump	4	5	25
+416603	3	0	Dark Brown (5 Suits)	2021-01-27 — 19:17:15 UTC	Div, Onen, wump	6	5	25
+416587	3	0	Dark Brown (5 Suits)	2021-01-27 — 19:00:55 UTC	Div, Onen, wump	8	5	25
+412456	2	15	Brown (3 Suits)	2021-01-23 — 15:50:54 UTC	Div, robense	23	3	15
+412454	2	0	Brown (3 Suits)	2021-01-23 — 15:43:53 UTC	Div, robense	27	3	15
+412453	2	0	Brown (3 Suits)	2021-01-23 — 15:42:33 UTC	Div, robense	47	3	15
+412449	2	13	Brown (3 Suits)	2021-01-23 — 15:40:04 UTC	Div, robense	60	3	15
+412447	2	15	Light Pink (3 Suits)	2021-01-23 — 15:33:31 UTC	Div, robense	45	3	15
+412444	2	20	Muddy Rainbow (4 Suits)	2021-01-23 — 15:25:19 UTC	Div, robense	47	4	20
+412438	2	20	Omni (4 Suits)	2021-01-23 — 15:14:41 UTC	Div, robense	59	4	20
+412430	2	20	Brown (4 Suits)	2021-01-23 — 15:04:48 UTC	Div, robense	34	4	20
+412425	2	0	Brown (4 Suits)	2021-01-23 — 14:59:32 UTC	Div, robense	54	4	20
+412423	2	19	Brown (4 Suits)	2021-01-23 — 14:53:33 UTC	Div, robense	74	4	20
+412352	2	25	Dark Prism (5 Suits)	2021-01-23 — 12:20:32 UTC	Div, katian	40	5	25
+412308	4	27	Dark Pink (6 Suits)	2021-01-23 — 11:54:50 UTC	Div, Floriman, Kernel, sephiroth	4	6	30
+412262	4	0	Dark Pink (6 Suits)	2021-01-23 — 11:25:23 UTC	Div, Floriman, Kernel, sephiroth	14	6	30
+411436	4	25	Dark Rainbow (5 Suits)	2021-01-22 — 17:34:13 UTC	Div, ebin_noob, Fey, MangoPie	14	5	25
+411424	4	0	Dark Rainbow (5 Suits)	2021-01-22 — 17:13:47 UTC	Div, ebin_noob, Fey, MangoPie	20	5	25
+411415	3	0	Dark Rainbow (5 Suits)	2021-01-22 — 16:57:55 UTC	Div, ebin_noob, Fey	31	5	25
+411414	3	0	Dark Rainbow (5 Suits)	2021-01-22 — 16:55:10 UTC	Div, ebin_noob, Fey	48	5	25
+411411	4	0	Dark Rainbow (5 Suits)	2021-01-22 — 16:49:34 UTC	Div, ebin_noob, Fey, macanek	19	5	25
+411395	4	27	Black & Prism (6 Suits)	2021-01-22 — 16:23:14 UTC	arnino, Div, Pimak, Wittvector	14	6	30
+411317	4	20	Black & Muddy Rainbow (5 Suits)	2021-01-22 — 12:17:44 UTC	Div, Lel0uch, Pablo-, Wittvector	4	5	25
+411303	4	0	Black & Muddy Rainbow (5 Suits)	2021-01-22 — 11:45:17 UTC	Div, Lel0uch, Pablo-, Wittvector	4	5	25
+411300	4	0	Black & Muddy Rainbow (5 Suits)	2021-01-22 — 11:33:10 UTC	Div, Lel0uch, Pablo-, Wittvector	8	5	25
+411267	3	25	Reversed (5 Suits)	2021-01-22 — 08:52:48 UTC	Div, Fey, skyblueexo	2	5	25
+405124	6	25	No Variant	2021-01-16 — 11:34:17 UTC	CaitlinSmith, catula, derekcheah, Div, sephiroth, TheDaniMan	3	5	25
+405101	2	21	Dark Prism (5 Suits)	2021-01-16 — 10:28:56 UTC	Div, robense	38	5	25
+405097	2	22	Dark Prism (5 Suits)	2021-01-16 — 10:16:51 UTC	Div, robense	41	5	25
+405095	2	20	Dark Prism (5 Suits)	2021-01-16 — 10:07:16 UTC	Div, robense	42	5	25
+404396	3	0	Rainbow (5 Suits)	2021-01-15 — 22:04:52 UTC	Daryl, Div, Spieler42	43	5	25
+404363	3	0	Dark Prism (6 Suits)	2021-01-15 — 21:37:19 UTC	Div, sephiroth, swineherd	2	6	30
+404343	3	0	Dark Prism (6 Suits)	2021-01-15 — 21:16:09 UTC	Div, sephiroth, swineherd	3	6	30
+404168	6	30	Brown & Prism (6 Suits)	2021-01-15 — 18:28:25 UTC	ChristopheAF, Div, Floriman, melwen, Nitrate2, TimeHoodie	2	6	30
+404148	6	0	Brown & Prism (6 Suits)	2021-01-15 — 18:01:54 UTC	ChristopheAF, Div, Floriman, melwen, Nitrate2, TimeHoodie	2	6	30
+404129	6	0	Rainbow & Light Pink (5 Suits)	2021-01-15 — 17:30:35 UTC	ChristopheAF, Div, Kyle, melwen, Nitrate2, plus	1	5	25
+403980	2	20	White (4 Suits)	2021-01-15 — 12:39:38 UTC	Calamity, Div	23	4	20
+403977	2	0	White (4 Suits)	2021-01-15 — 12:34:07 UTC	Calamity, Div	27	4	20
+403976	2	0	White (4 Suits)	2021-01-15 — 12:33:05 UTC	Calamity, Div	35	4	20
+403974	2	0	White (4 Suits)	2021-01-15 — 12:31:30 UTC	Calamity, Div	41	4	20
+403973	2	0	White (4 Suits)	2021-01-15 — 12:30:02 UTC	Calamity, Div	94	4	20
+403968	2	29	6 Suits	2021-01-15 — 12:21:50 UTC	Calamity, Div	444	6	30
+403957	2	0	6 Suits	2021-01-15 — 12:06:57 UTC	Calamity, Div	505	6	30
+402172	5	0	Clue Starved & Rainbow (6 Suits)	2021-01-13 — 18:51:26 UTC	ChristopheAF, Div, Kyle, lotem, TimeHoodie	1	6	30
+402163	6	0	Clue Starved & Muddy Rainbow (6 Suits)	2021-01-13 — 18:38:24 UTC	ChristopheAF, Div, Floriman, Kyle, lotem, TimeHoodie	1	6	30
+402149	6	0	Clue Starved & Muddy Rainbow (6 Suits)	2021-01-13 — 18:18:53 UTC	ChristopheAF, Div, Floriman, Kyle, lotem, TimeHoodie	1	6	30
+397880	4	0	Dark Pink (6 Suits)	2021-01-09 — 17:14:26 UTC	Div, MangoPie, sephiroth, TimeHoodie	7	6	30
+397864	4	0	Dark Pink (6 Suits)	2021-01-09 — 16:53:03 UTC	Div, MangoPie, sephiroth, TimeHoodie	11	6	30
+397854	4	0	Dark Pink (6 Suits)	2021-01-09 — 16:37:23 UTC	Div, MangoPie, sephiroth, TimeHoodie	11	6	30
+397742	3	30	Dark Rainbow (6 Suits)	2021-01-09 — 12:23:08 UTC	Div, Fey, robense	91	6	30
+397698	6	30	Pink (6 Suits)	2021-01-09 — 09:50:54 UTC	Div, eljavi, indego, katian, rahsosprout, torp	10	6	30
+396682	3	19	Rainbow & Pink (4 Suits)	2021-01-08 — 15:21:02 UTC	Div, jack67889, plus	2	4	20
+396666	3	30	Omni (6 Suits)	2021-01-08 — 14:58:31 UTC	Div, jack67889, MarkusKahlsen	22	6	30
+390321	2	25	Dark Pink (5 Suits)	2021-01-02 — 15:37:35 UTC	Div, macanek	58	5	25
+390316	2	25	Pink (5 Suits)	2021-01-02 — 15:27:02 UTC	Div, macanek	200	5	25
+390247	3	25	Omni (5 Suits)	2021-01-02 — 12:05:35 UTC	Div, ebin_noob, TimeHoodie	9	5	25
+390240	3	0	Omni (5 Suits)	2021-01-02 — 11:40:12 UTC	Div, ebin_noob, TimeHoodie	12	5	25
+390236	3	0	Rainbow (5 Suits)	2021-01-02 — 11:21:45 UTC	Div, ebin_noob, witcher	50	5	25
+390225	4	24	No Variant	2021-01-02 — 10:47:21 UTC	Daryl, Div, Lel0uch, methmatics	53	5	25
+384034	4	0	Light Pink (6 Suits)	2020-12-27 — 18:51:34 UTC	Div, Lanvin, Livia, robense	14	6	30
+384015	4	28	Light Pink (6 Suits)	2020-12-27 — 18:30:50 UTC	Div, Lanvin, Livia, robense	19	6	30
+381817	4	0	White (6 Suits)	2020-12-25 — 16:28:35 UTC	ChristopheAF, colton, Div, witcher	75	6	30
+379018	5	30	Omni (6 Suits)	2020-12-22 — 20:21:39 UTC	ChristopheAF, Div, doctorabi, newduke, postmans	9	6	30
+378993	3	20	Prism (4 Suits)	2020-12-22 — 19:48:11 UTC	ChristopheAF, Div, postmans	27	4	20
+376894	4	24	Black (5 Suits)	2020-12-20 — 19:06:56 UTC	Div, doctorabi, frosty104, postmans	32	5	25
+376882	4	25	Gray Pink (5 Suits)	2020-12-20 — 18:40:53 UTC	Div, doctorabi, frosty104, postmans	14	5	25
+376874	6	20	Prism (4 Suits)	2020-12-20 — 18:20:37 UTC	Daryl, Div, frosty104, Kyle, Lanvin, ricardodd	2	4	20
+375858	6	0	White & Light Pink (5 Suits)	2020-12-19 — 18:41:30 UTC	ChristopheAF, colton, Div, esakach, jeff10, Lel0uch	2	5	25
+375832	6	24	White & Light Pink (5 Suits)	2020-12-19 — 18:10:18 UTC	ChristopheAF, colton, Div, jeff10, Lel0uch, sephiroth	2	5	25
+375730	3	30	White (6 Suits)	2020-12-19 — 11:42:11 UTC	Div, jack67889, orucsoraihc	124	6	30
+374732	3	0	Rainbow (5 Suits)	2020-12-18 — 15:21:08 UTC	Div, gdog, MrT1234	57	5	25
+374716	3	0	Rainbow (5 Suits)	2020-12-18 — 14:55:19 UTC	Div, gdog, MrT1234	56	5	25
+374709	3	0	Rainbow (5 Suits)	2020-12-18 — 14:45:00 UTC	Div, gdog, MrT1234	74	5	25
+374704	3	0	Rainbow (5 Suits)	2020-12-18 — 14:36:53 UTC	Div, gdog, MrT1234	84	5	25
+374699	3	0	Rainbow (5 Suits)	2020-12-18 — 14:20:56 UTC	Div, gdog, MrT1234	116	5	25
+374696	2	0	Rainbow (4 Suits)	2020-12-18 — 14:15:23 UTC	Div, MrT1234	132	4	20
+374681	4	20	Omni (4 Suits)	2020-12-18 — 13:08:16 UTC	asaelr, Div, katian, Lel0uch	11	4	20
+374678	4	0	Omni (4 Suits)	2020-12-18 — 12:54:00 UTC	asaelr, Div, katian, Lel0uch	15	4	20
+374675	3	15	Light Pink (3 Suits)	2020-12-18 — 12:46:28 UTC	asaelr, Div, katian	12	3	15
+374673	3	14	Light Pink (3 Suits)	2020-12-18 — 12:35:17 UTC	asaelr, Div, katian	13	3	15
+374654	4	0	Black (6 Suits)	2020-12-18 — 10:25:10 UTC	Div, GemmyBean, Wittvector, zeinab001	142	6	30
+373762	5	17	Rainbow (4 Suits)	2020-12-17 — 15:14:55 UTC	ChristopheAF, Div, GemmyBean, hakha3, Lanvin	10	4	20
+373758	5	19	Rainbow (4 Suits)	2020-12-17 — 14:53:11 UTC	ChristopheAF, Div, GemmyBean, hakha3, Lanvin	11	4	20
+373702	3	20	White (4 Suits)	2020-12-17 — 11:16:38 UTC	Div, GemmyBean, Nitrate2	59	4	20
+373700	4	0	Dark Rainbow (5 Suits)	2020-12-17 — 11:03:13 UTC	Div, Lel0uch, Nitrate2, swineherd	11	5	25
+373698	4	0	Dark Rainbow (5 Suits)	2020-12-17 — 10:57:25 UTC	Div, Lel0uch, Nitrate2, swineherd	17	5	25
+372177	3	24	Black (5 Suits)	2020-12-15 — 21:59:43 UTC	Div, kevincaseytdk1, StKildaFan	29	5	25
+372164	4	0	Black (5 Suits)	2020-12-15 — 21:40:22 UTC	Div, kevincaseytdk1, robense, StKildaFan	36	5	25
+372015	4	23	No Variant	2020-12-15 — 18:58:21 UTC	Div, MarcLovesDogs, MarkusKahlsen, sin_faith	24	5	25
+372004	5	21	Black (5 Suits)	2020-12-15 — 18:40:21 UTC	ChristopheAF, Div, HelanaAshryvr, Lel0uch, sin_faith	10	5	25
+364725	5	23	No Variant	2020-12-08 — 19:33:17 UTC	BillaVGC, Div, frosty104, Lanvin, witcher	143	5	25
+361521	5	30	Pink (6 Suits)	2020-12-05 — 11:58:26 UTC	Carunty, Div, frosty104, Lel0uch, methmatics	8	6	30
+361518	5	0	Pink (6 Suits)	2020-12-05 — 11:23:12 UTC	Carunty, Div, frosty104, Lel0uch, methmatics	9	6	30
+360507	6	0	Rainbow (6 Suits)	2020-12-04 — 14:22:06 UTC	Div, Lanvin, MarkusKahlsen, rachyrules, Veexliat, witcher	23	6	30
+360452	5	30	White (6 Suits)	2020-12-04 — 12:50:03 UTC	Carunty, Div, Lel0uch, macanek, Sucubis	12	6	30
+360446	3	20	Omni (4 Suits)	2020-12-04 — 12:15:46 UTC	Carunty, Div, Sucubis	15	4	20
+360441	3	0	Omni (4 Suits)	2020-12-04 — 11:56:25 UTC	Carunty, Div, Sucubis	29	4	20
+360409	6	30	6 Suits	2020-12-04 — 09:14:16 UTC	Carunty, Div, Lel0uch, macanek, Romain672, zeinab001	19	6	30
+360403	3	22	No Variant	2020-12-04 — 08:35:13 UTC	Div, Romain672, zeinab001	1174	5	25
+359906	4	14	Rainbow & Pink (3 Suits)	2020-12-03 — 19:58:23 UTC	Carunty, Div, Kyle, will.i.am	8	3	15
+359894	4	0	Rainbow & Pink (3 Suits)	2020-12-03 — 19:38:36 UTC	Carunty, Div, Kyle, will.i.am	9	3	15
+359883	4	14	Pink (3 Suits)	2020-12-03 — 19:24:32 UTC	Carunty, Div, ebin_noob, will.i.am	13	3	15
+359875	3	0	Pink (3 Suits)	2020-12-03 — 19:08:31 UTC	Carunty, Div, ebin_noob	27	3	15
+359862	3	0	Pink (3 Suits)	2020-12-03 — 18:49:09 UTC	Carunty, Div, ebin_noob	44	3	15
+358922	5	23	Rainbow & Omni (5 Suits)	2020-12-02 — 13:22:47 UTC	Div, Lel0uch, melwen, sephiroth, sin_faith	1	5	25
+358918	3	0	Rainbow & Omni (5 Suits)	2020-12-02 — 12:43:07 UTC	Div, melwen, sin_faith	4	5	25
+358914	5	0	Rainbow & Omni (5 Suits)	2020-12-02 — 12:32:57 UTC	catula, Div, Lel0uch, melwen, sin_faith	1	5	25
+358913	5	0	Rainbow & Omni (5 Suits)	2020-12-02 — 12:26:18 UTC	catula, Div, Lel0uch, melwen, sin_faith	1	5	25
+358910	4	0	Rainbow & Omni (5 Suits)	2020-12-02 — 12:01:36 UTC	catula, Div, Lel0uch, melwen	2	5	25
+358900	3	25	Pink & White (5 Suits)	2020-12-02 — 11:27:18 UTC	Div, Lel0uch, melwen	7	5	25
+358894	3	24	Pink & White (5 Suits)	2020-12-02 — 10:54:23 UTC	Div, Lel0uch, melwen	14	5	25
+358293	3	15	Brown (3 Suits)	2020-12-01 — 14:37:17 UTC	Div, Lel0uch, Pablo-	21	3	15
+358291	3	0	Brown (3 Suits)	2020-12-01 — 14:27:37 UTC	Div, Lel0uch, Pablo-	23	3	15
+358285	6	0	Rainbow (4 Suits)	2020-12-01 — 14:13:42 UTC	Div, frosty104, Lel0uch, macanek, melwen, TimeHoodie	4	4	20
+358157	3	25	Pink & Cocoa Rainbow (5 Suits)	2020-12-01 — 08:22:48 UTC	Div, doctorabi, orucsoraihc	1	5	25
+358145	3	0	Pink & Cocoa Rainbow (5 Suits)	2020-12-01 — 08:01:24 UTC	Div, doctorabi, orucsoraihc	1	5	25
+358142	3	0	Pink & Cocoa Rainbow (5 Suits)	2020-12-01 — 07:45:04 UTC	Div, doctorabi, orucsoraihc	1	5	25
+357669	4	0	White & Prism (6 Suits)	2020-11-30 — 18:15:39 UTC	Div, doctorabi, frosty104, timotree	10	6	30
+357657	5	0	Muddy Rainbow (4 Suits)	2020-11-30 — 17:49:13 UTC	Div, frosty104, jeff10, Kyle, Nitrate2	6	4	20
+357503	2	0	White & Prism (6 Suits)	2020-11-30 — 12:34:50 UTC	Div, MarkusKahlsen	17	6	30
+357500	2	0	White & Prism (6 Suits)	2020-11-30 — 12:19:05 UTC	Div, MarkusKahlsen	23	6	30
+357484	4	24	Rainbow & Gray (5 Suits)	2020-11-30 — 10:59:50 UTC	Div, Lel0uch, melwen, Pablo-	4	5	25
+357478	4	0	Rainbow & Gray (5 Suits)	2020-11-30 — 10:39:22 UTC	Div, Lel0uch, melwen, Pablo-	7	5	25
+356266	4	0	Up or Down (6 Suits)	2020-11-28 — 23:30:58 UTC	Div, kimbifille, Kyle, Livia	12	6	30
+356117	4	23	Dark Pink (5 Suits)	2020-11-28 — 19:58:13 UTC	Div, rz, sephiroth, swineherd	1	5	25
+355890	5	19	White (4 Suits)	2020-11-28 — 15:31:42 UTC	Carunty, Div, Onen, Pablo-, Pimak	4	4	20
+355887	4	0	White & Brown (6 Suits)	2020-11-28 — 15:15:22 UTC	Carunty, Div, Pablo-, Pimak	6	6	30
+355885	4	30	White & Brown (6 Suits)	2020-11-28 — 14:59:01 UTC	Carunty, Div, Pablo-, Pimak	9	6	30
+355873	5	25	Rainbow & White (5 Suits)	2020-11-28 — 13:10:02 UTC	Div, MarkusKahlsen, sin_faith, swineherd, TimeHoodie	7	5	25
+355867	5	0	Rainbow & Pink (5 Suits)	2020-11-28 — 12:46:29 UTC	Div, Lel0uch, rachyrules, sin_faith, Sucubis	4	5	25
+355864	5	22	Rainbow & Pink (5 Suits)	2020-11-28 — 12:32:09 UTC	Div, Lel0uch, rachyrules, sin_faith, Sucubis	6	5	25
+355082	5	0	Black & White (6 Suits)	2020-11-27 — 14:36:34 UTC	Carunty, Div, katian, sin_faith, StKildaFan	15	6	30
+355076	4	0	White & Prism (6 Suits)	2020-11-27 — 13:55:02 UTC	Div, katian, StKildaFan, TimeHoodie	6	6	30
+355069	4	25	White & Prism (6 Suits)	2020-11-27 — 13:28:18 UTC	Div, katian, StKildaFan, TimeHoodie	8	6	30
+355062	5	0	White & Prism (6 Suits)	2020-11-27 — 12:48:57 UTC	Div, katian, StKildaFan, Sucubis, TimeHoodie	5	6	30
+353823	3	28	Brown & Light Pink (6 Suits)	2020-11-25 — 21:38:38 UTC	Div, doctorabi, wump	3	6	30
+353801	3	0	Brown & Light Pink (6 Suits)	2020-11-25 — 21:13:09 UTC	Div, doctorabi, wump	4	6	30
+353784	6	0	Special Mix (5 Suits)	2020-11-25 — 20:48:34 UTC	Div, ebin_noob, jeff10, lotem, sin_faith, TheDaniMan	4	5	25
+352923	2	0	White & Prism (4 Suits)	2020-11-24 — 20:29:49 UTC	Div, Onen	5	4	20
+352915	2	0	White & Prism (4 Suits)	2020-11-24 — 20:24:43 UTC	Div, Onen	8	4	20
+352902	2	0	White & Prism (4 Suits)	2020-11-24 — 20:16:45 UTC	Div, Onen	13	4	20
+352886	2	0	White & Prism (4 Suits)	2020-11-24 — 20:08:19 UTC	Div, Onen	16	4	20
+351830	2	15	White & Light Pink (3 Suits)	2020-11-23 — 19:28:29 UTC	Div, wump	10	3	15
+351825	2	0	White & Light Pink (3 Suits)	2020-11-23 — 19:15:55 UTC	Div, wump	10	3	15
+350057	3	30	Light Pink & Prism (6 Suits)	2020-11-21 — 22:45:47 UTC	Div, MarkusKahlsen, robense	4	6	30
+349716	3	29	Black (6 Suits)	2020-11-21 — 16:04:31 UTC	Div, ebin_noob, witcher	325	6	30
+349708	3	0	Black (6 Suits)	2020-11-21 — 15:36:50 UTC	Div, ebin_noob, witcher	399	6	30
+349690	5	0	White (6 Suits)	2020-11-21 — 14:43:44 UTC	Div, Lel0uch, rachyrules, sin_faith, Sucubis	20	6	30
+349684	5	0	White (6 Suits)	2020-11-21 — 14:25:55 UTC	Div, Lel0uch, rachyrules, sin_faith, Sucubis	27	6	30
+348716	3	25	Prism (5 Suits)	2020-11-20 — 17:45:48 UTC	Calamity, Div, ebin_noob	80	5	25
+348709	2	0	Prism (4 Suits)	2020-11-20 — 17:29:48 UTC	Calamity, Div	66	4	20
+348702	4	0	Black & Light Pink (5 Suits)	2020-11-20 — 16:57:38 UTC	Div, emilyzhao, jeff10, melwen	1	5	25
+348693	4	0	Black & Light Pink (5 Suits)	2020-11-20 — 16:39:58 UTC	Div, emilyzhao, jeff10, melwen	1	5	25
+348685	4	24	Black & Light Pink (5 Suits)	2020-11-20 — 16:19:12 UTC	Div, emilyzhao, jeff10, melwen	5	5	25
+343290	3	0	Special Mix (5 Suits)	2020-11-14 — 12:55:49 UTC	Div, ebin_noob, Hapotata	9	5	25
+343287	3	0	Special Mix (5 Suits)	2020-11-14 — 12:36:16 UTC	Div, ebin_noob, Hapotata	8	5	25
+343283	3	0	Special Mix (5 Suits)	2020-11-14 — 12:10:13 UTC	Div, ebin_noob, Hapotata	10	5	25
+343282	3	0	Special Mix (5 Suits)	2020-11-14 — 11:52:12 UTC	Div, ebin_noob, Hapotata	14	5	25
+343280	3	0	Special Mix (5 Suits)	2020-11-14 — 11:39:03 UTC	Div, ebin_noob, Hapotata	16	5	25
+342255	3	24	No Variant	2020-11-13 — 11:29:51 UTC	Calamity, Div, MrT1234	1291	5	25
+342253	2	0	6 Suits	2020-11-13 — 11:16:55 UTC	Calamity, Div	593	6	30
+342252	2	0	6 Suits	2020-11-13 — 11:16:37 UTC	Calamity, Div	666	6	30
+342251	2	0	6 Suits	2020-11-13 — 11:16:15 UTC	Calamity, Div	851	6	30
+339368	3	30	White-Fives & Prism (6 Suits)	2020-11-09 — 19:56:07 UTC	Bonja97, Carunty, Div	2	6	30
+339329	3	28	White-Fives & Prism (6 Suits)	2020-11-09 — 19:27:26 UTC	Bonja97, Carunty, Div	2	6	30
+336992	4	0	White Reversed (5 Suits)	2020-11-06 — 21:07:20 UTC	Div, ebin_noob, lotem, TimeHoodie	7	5	25
+336976	4	0	Alternating Clues (5 Suits)	2020-11-06 — 20:54:35 UTC	Div, ebin_noob, lotem, TimeHoodie	13	5	25
+336973	3	0	Alternating Clues (5 Suits)	2020-11-06 — 20:52:16 UTC	Div, ebin_noob, lotem	24	5	25
+336964	4	25	Brown & Cocoa Rainbow (5 Suits)	2020-11-06 — 20:44:22 UTC	Div, ebin_noob, lotem, will.i.am	1	5	25
+336940	4	20	Brown & Cocoa Rainbow (5 Suits)	2020-11-06 — 20:19:22 UTC	Div, ebin_noob, lotem, will.i.am	2	5	25
+336930	3	20	Rainbow (4 Suits)	2020-11-06 — 19:59:00 UTC	Div, Pepepe, voss	68	4	20
+336922	3	0	Rainbow (4 Suits)	2020-11-06 — 19:40:45 UTC	Div, Pepepe, voss	84	4	20
+336801	6	25	Pink (5 Suits)	2020-11-06 — 11:12:34 UTC	Carunty, Div, ebin_noob, Hapotata, robense, TimeHoodie	9	5	25
+336797	3	0	Omni (4 Suits)	2020-11-06 — 10:51:00 UTC	Div, Hapotata, robense	21	4	20
+336794	4	0	Pink (4 Suits)	2020-11-06 — 10:32:21 UTC	Div, ebin_noob, Hapotata, robense	8	4	20
+336793	4	0	Pink (4 Suits)	2020-11-06 — 10:30:55 UTC	Div, ebin_noob, Hapotata, robense	10	4	20
+336792	4	0	Pink (4 Suits)	2020-11-06 — 10:27:55 UTC	Div, ebin_noob, Hapotata, robense	13	4	20
+336788	4	0	Pink (4 Suits)	2020-11-06 — 10:14:10 UTC	Div, ebin_noob, Hapotata, robense	22	4	20
+332129	5	30	Muddy Rainbow (6 Suits)	2020-10-31 — 17:18:16 UTC	asaelr, Div, ebin_noob, orucsoraihc, swineherd	2	6	30
+332113	5	0	Muddy Rainbow (6 Suits)	2020-10-31 — 16:52:27 UTC	asaelr, Div, ebin_noob, orucsoraihc, swineherd	5	6	30
+332105	5	0	Black (6 Suits)	2020-10-31 — 16:37:23 UTC	asaelr, Div, ebin_noob, orucsoraihc, swineherd	24	6	30
+332000	3	25	Throw It in a Hole & Muddy Rainbow (5 Suits)	2020-10-31 — 11:09:12 UTC	Div, rachyrules, sin_faith	1	5	25
+331172	4	26	Rainbow & Brown (6 Suits)	2020-10-30 — 15:16:08 UTC	Div, ebin_noob, Hapotata, Takis	11	6	30
+331160	4	0	Rainbow & Brown (6 Suits)	2020-10-30 — 14:48:26 UTC	Div, ebin_noob, Hapotata, Takis	12	6	30
+331151	4	0	Dark Prism (5 Suits)	2020-10-30 — 14:31:34 UTC	Div, melwen, Takis, Tiramisu1th	4	5	25
+331130	4	21	Dark Prism (5 Suits)	2020-10-30 — 14:00:53 UTC	Div, melwen, Takis, Tiramisu1th	5	5	25
+331102	3	0	Special Mix (5 Suits)	2020-10-30 — 12:28:13 UTC	Div, ebin_noob, lotem	19	5	25
+331100	3	0	Special Mix (5 Suits)	2020-10-30 — 12:19:05 UTC	Div, ebin_noob, lotem	18	5	25
+331097	3	0	Special Mix (5 Suits)	2020-10-30 — 12:11:20 UTC	Div, ebin_noob, lotem	20	5	25
+331094	3	0	Special Mix (5 Suits)	2020-10-30 — 11:59:27 UTC	Div, ebin_noob, lotem	22	5	25
+331090	3	0	Special Mix (5 Suits)	2020-10-30 — 11:45:42 UTC	Div, ebin_noob, lotem	24	5	25
+331089	4	0	Rainbow (5 Suits)	2020-10-30 — 11:37:58 UTC	Div, ebin_noob, lotem, rotem	130	5	25
+331086	5	0	Rainbow (5 Suits)	2020-10-30 — 11:22:32 UTC	Div, ebin_noob, lotem, Pepepe, rotem	14	5	25
+330699	5	0	Dark Rainbow (6 Suits)	2020-10-29 — 22:59:53 UTC	Div, ebin_noob, newduke, sephiroth, TheDaniMan	18	6	30
+330688	5	27	Dark Rainbow (6 Suits)	2020-10-29 — 22:38:21 UTC	Div, ebin_noob, newduke, sephiroth, TheDaniMan	23	6	30
+330668	6	13	Rainbow (3 Suits)	2020-10-29 — 22:10:39 UTC	cockdestroyer, Div, ebin_noob, Jake_Stiles, newduke, TheDaniMan	5	3	15
+330663	3	0	Rainbow (5 Suits)	2020-10-29 — 21:58:48 UTC	Div, gdog, Jesusita	135	5	25
+330660	3	0	Rainbow (5 Suits)	2020-10-29 — 21:54:22 UTC	Div, gdog, Jesusita	185	5	25
+330646	3	30	6 Suits	2020-10-29 — 21:34:04 UTC	Div, gdog, Jesusita	305	6	30
+330628	3	0	6 Suits	2020-10-29 — 21:03:28 UTC	Div, gdog, Jesusita	365	6	30
+330536	2	22	No Variant	2020-10-29 — 18:39:42 UTC	Avishay, Div	1621	5	25
+330526	2	0	No Variant	2020-10-29 — 18:23:46 UTC	Avishay, Div	1703	5	25
+330516	2	0	No Variant	2020-10-29 — 18:08:59 UTC	Avishay, Div	1840	5	25
+330510	2	0	No Variant	2020-10-29 — 17:58:56 UTC	Avishay, Div	1952	5	25
+330501	2	0	No Variant	2020-10-29 — 17:45:46 UTC	Avishay, Div	2147	5	25
+330078	5	29	Pink (6 Suits)	2020-10-28 — 21:38:12 UTC	Div, nitawa, sephiroth, swineherd, XMIL	29	6	30
+329926	4	0	Omni (5 Suits)	2020-10-28 — 18:35:20 UTC	Div, ebin_noob, Hapotata, lotem	1	5	25
+329907	4	0	Omni (5 Suits)	2020-10-28 — 18:06:11 UTC	Div, ebin_noob, Hapotata, lotem	1	5	25
+329903	4	0	Omni (5 Suits)	2020-10-28 — 18:00:53 UTC	Div, ebin_noob, Hapotata, lotem	2	5	25
+329889	4	0	Omni (5 Suits)	2020-10-28 — 17:39:00 UTC	Div, ebin_noob, Hapotata, lotem	2	5	25
+329391	5	17	Rainbow (5 Suits)	2020-10-27 — 21:15:23 UTC	Div, ebin_noob, lotem, rotem, witcher	14	5	25
+329385	5	0	Rainbow (5 Suits)	2020-10-27 — 20:54:19 UTC	Div, ebin_noob, lotem, rotem, witcher	17	5	25
+329377	5	0	Rainbow (5 Suits)	2020-10-27 — 20:39:47 UTC	Div, ebin_noob, lotem, rotem, witcher	23	5	25
+329368	5	0	White (5 Suits)	2020-10-27 — 20:27:22 UTC	Div, ebin_noob, lotem, rotem, witcher	37	5	25
+329367	5	0	Rainbow (5 Suits)	2020-10-27 — 20:25:39 UTC	Div, ebin_noob, lotem, rotem, witcher	26	5	25
+327335	2	15	Rainbow (3 Suits)	2020-10-24 — 15:45:47 UTC	Div, Jesusita	127	3	15
+327333	2	0	No Variant	2020-10-24 — 15:39:22 UTC	Div, Jesusita	2288	5	25
+327331	2	15	3 Suits	2020-10-24 — 15:36:45 UTC	Div, Jesusita	193	3	15
+327326	2	0	3 Suits	2020-10-24 — 15:30:27 UTC	Div, Jesusita	271	3	15
+326700	5	24	Throw It in a Hole (5 Suits)	2020-10-23 — 20:50:05 UTC	Div, ebin_noob, newduke, scharkbite, TimeHoodie	1	5	25
+326687	5	0	Throw It in a Hole (5 Suits)	2020-10-23 — 20:25:31 UTC	Div, ebin_noob, newduke, scharkbite, TimeHoodie	1	5	25
+326681	5	0	Throw It in a Hole (5 Suits)	2020-10-23 — 20:12:54 UTC	Div, ebin_noob, newduke, scharkbite, TimeHoodie	2	5	25
+326677	5	0	Throw It in a Hole (5 Suits)	2020-10-23 — 19:53:56 UTC	Div, ebin_noob, newduke, scharkbite, TimeHoodie	3	5	25
+326669	5	0	Throw It in a Hole (5 Suits)	2020-10-23 — 19:43:06 UTC	Div, ebin_noob, newduke, scharkbite, TimeHoodie	15	5	25
+326502	5	0	Rainbow (5 Suits)	2020-10-23 — 14:15:14 UTC	Div, ebin_noob, Hapotata, lotem, witcher	34	5	25
+326494	5	18	4 Suits	2020-10-23 — 13:57:45 UTC	Div, ebin_noob, Hapotata, lotem, witcher	16	4	20
+326478	5	0	4 Suits	2020-10-23 — 13:33:47 UTC	Div, ebin_noob, Hapotata, lotem, witcher	17	4	20
+326470	5	0	4 Suits	2020-10-23 — 13:18:27 UTC	Div, ebin_noob, Hapotata, lotem, witcher	16	4	20
+326462	5	0	4 Suits	2020-10-23 — 13:03:14 UTC	Div, ebin_noob, Hapotata, lotem, witcher	47	4	20
+326455	4	0	Light Pink (5 Suits)	2020-10-23 — 12:47:25 UTC	Div, ebin_noob, Hapotata, lotem	20	5	25
+325971	3	25	Black & Brown (5 Suits)	2020-10-22 — 20:14:17 UTC	Div, ebin_noob, lotem	11	5	25
+325958	3	0	Black & Brown (5 Suits)	2020-10-22 — 20:01:52 UTC	Div, ebin_noob, lotem	14	5	25
+325947	3	24	Black & Brown (5 Suits)	2020-10-22 — 19:47:50 UTC	Div, ebin_noob, lotem	16	5	25
+325933	3	0	Black & Brown (5 Suits)	2020-10-22 — 19:35:32 UTC	Div, ebin_noob, lotem	19	5	25
+325922	3	0	No Variant	2020-10-22 — 19:20:25 UTC	Div, ebin_noob, witcher	1465	5	25
+325904	5	0	Black (5 Suits)	2020-10-22 — 18:58:31 UTC	Div, ejwu, emilyzhao, MarkusKahlsen, squidgetx	13	5	25
+325798	6	30	Muddy Rainbow (6 Suits)	2020-10-22 — 16:37:49 UTC	cockdestroyer, Div, newduke, rz, Sucubis, TheDaniMan	4	6	30
+325793	5	0	White & Brown (6 Suits)	2020-10-22 — 16:14:53 UTC	cockdestroyer, Div, rz, Sucubis, TheDaniMan	10	6	30
+325305	5	0	Cocoa Rainbow (6 Suits)	2020-10-21 — 22:53:22 UTC	Div, Jake_Stiles, ksfortson, Valetta6789, Zamiel	3	6	30
+325299	5	0	Cocoa Rainbow (6 Suits)	2020-10-21 — 22:39:17 UTC	Div, Jake_Stiles, ksfortson, Valetta6789, Zamiel	4	6	30
+325294	5	25	No Variant	2020-10-21 — 22:30:39 UTC	Div, Jake_Stiles, ksfortson, Valetta6789, Zamiel	1	5	25
+325285	4	0	Prism (5 Suits)	2020-10-21 — 22:08:32 UTC	Div, Jake_Stiles, Valetta6789, Zamiel	47	5	25
+325273	3	0	No Variant	2020-10-21 — 21:46:40 UTC	Div, rz, XMIL	60	5	25
+325265	2	28	White & Dark Omni (6 Suits)	2020-10-21 — 21:27:21 UTC	Div, robense	7	6	30
+325261	2	0	White & Dark Omni (6 Suits)	2020-10-21 — 21:12:27 UTC	Div, robense	8	6	30
+325258	2	20	4 Suits	2020-10-21 — 21:09:07 UTC	Div, robense	244	4	20
+325152	5	25	Brown (5 Suits)	2020-10-21 — 19:28:37 UTC	Div, ebin_noob, lotem, TheDaniMan, Zakisan	8	5	25
+325129	5	0	Brown (5 Suits)	2020-10-21 — 19:00:01 UTC	Div, ebin_noob, lotem, TheDaniMan, Zakisan	24	5	25
+325112	5	18	Pink (4 Suits)	2020-10-21 — 18:40:55 UTC	Div, Hapotata, lotem, TheDaniMan, will.i.am	4	4	20
+325090	5	25	No Variant	2020-10-21 — 18:01:37 UTC	Div, Espen, rz, timotree, VerySloppyTwo	25	5	25
+323847	3	24	Dark Brown (5 Suits)	2020-10-19 — 19:09:21 UTC	Div, DMoney, Sucubis	10	5	25
+323836	3	0	Dark Brown (5 Suits)	2020-10-19 — 18:55:12 UTC	Div, DMoney, Sucubis	11	5	25
+323833	3	0	Dark Brown (5 Suits)	2020-10-19 — 18:50:59 UTC	Div, DMoney, Sucubis	17	5	25
+323828	3	0	Dark Brown (5 Suits)	2020-10-19 — 18:45:49 UTC	Div, DMoney, Sucubis	18	5	25
+321554	5	0	Pink & Omni (6 Suits)	2020-10-16 — 15:43:19 UTC	Bonja97, Div, Kyle, TimeHoodie, Wittvector	3	6	30
+321541	4	0	Pink & Omni (6 Suits)	2020-10-16 — 15:12:46 UTC	Div, Kyle, TimeHoodie, Wittvector	4	6	30
+321537	4	0	Pink & Omni (6 Suits)	2020-10-16 — 14:56:33 UTC	Div, Kyle, TimeHoodie, Wittvector	7	6	30
+321532	6	30	White & Prism (6 Suits)	2020-10-16 — 14:14:09 UTC	Div, Pablo-, Sucubis, TimeHoodie, Veexliat, Wittvector	2	6	30
+319701	5	22	Black (5 Suits)	2020-10-13 — 20:09:40 UTC	angel-a, Div, gdog, MarkusKahlsen, will.i.am	13	5	25
+319674	5	0	Black (5 Suits)	2020-10-13 — 19:40:16 UTC	angel-a, Div, gdog, MarkusKahlsen, will.i.am	13	5	25
+319665	5	0	Black (5 Suits)	2020-10-13 — 19:31:24 UTC	angel-a, Div, gdog, MarkusKahlsen, will.i.am	17	5	25
+319648	5	0	Black (5 Suits)	2020-10-13 — 19:12:46 UTC	angel-a, Div, gdog, MarkusKahlsen, will.i.am	17	5	25
+317297	5	0	Rainbow & Dark Brown (6 Suits)	2020-10-10 — 13:21:51 UTC	Div, kimbifille, robense, Sucubis, TimeHoodie	4	6	30
+317295	4	0	Rainbow & Dark Brown (6 Suits)	2020-10-10 — 12:49:24 UTC	Div, kimbifille, Sucubis, TimeHoodie	4	6	30
+311429	5	23	Omni (5 Suits)	2020-10-03 — 00:38:26 UTC	avanderwalde, Div, Kyle, melwen, newduke	1	5	25
+311405	5	0	Omni (5 Suits)	2020-10-03 — 00:15:14 UTC	avanderwalde, Div, Kyle, melwen, newduke	1	5	25
+311389	5	0	Omni (5 Suits)	2020-10-03 — 00:01:35 UTC	avanderwalde, Div, Kyle, melwen, newduke	1	5	25
+311369	4	0	Omni (4 Suits)	2020-10-02 — 23:41:21 UTC	avanderwalde, Div, melwen, newduke	5	4	20
+311346	5	23	Omni (5 Suits)	2020-10-02 — 23:12:31 UTC	Div, jeff10, melwen, newduke, TimeHoodie	1	5	25
+311334	5	0	Omni (5 Suits)	2020-10-02 — 22:45:32 UTC	Div, jeff10, melwen, newduke, TimeHoodie	1	5	25
+311328	4	0	Omni (5 Suits)	2020-10-02 — 22:34:42 UTC	Div, jeff10, newduke, TimeHoodie	26	5	25
+311319	5	0	Omni (5 Suits)	2020-10-02 — 22:20:45 UTC	Div, jeff10, newduke, scharkbite, swineherd	2	5	25
+311074	4	24	Pink (5 Suits)	2020-10-02 — 16:19:45 UTC	Calamity, Div, gdog, MrT1234	69	5	25
+311059	3	29	Pink (6 Suits)	2020-10-02 — 15:46:14 UTC	Calamity, Div, gdog	131	6	30
+307931	4	0	Brown (4 Suits)	2020-09-28 — 00:19:32 UTC	Div, melwen, newduke, TimeHoodie	11	4	20
+307903	4	0	Brown (4 Suits)	2020-09-27 — 23:50:44 UTC	Div, melwen, newduke, TimeHoodie	13	4	20
+307882	3	0	Black & Light Pink (5 Suits)	2020-09-27 — 23:28:20 UTC	Div, melwen, plus	10	5	25
+307868	4	24	Black & Light Pink (5 Suits)	2020-09-27 — 23:02:45 UTC	Div, melwen, plus, timotree	7	5	25
+307685	3	25	Black (5 Suits)	2020-09-27 — 18:42:36 UTC	Div, DMoney, nitawa	55	5	25
+307674	3	0	Black (5 Suits)	2020-09-27 — 18:16:50 UTC	Div, DMoney, nitawa	66	5	25
+307671	3	0	Black (5 Suits)	2020-09-27 — 18:03:43 UTC	Div, DMoney, nitawa	68	5	25
+307667	3	22	Black (5 Suits)	2020-09-27 — 17:45:23 UTC	Div, DMoney, nitawa	71	5	25
+307661	3	0	Pink-Ones & Dark Brown (6 Suits)	2020-09-27 — 17:07:46 UTC	Div, DMoney, plus	1	6	30
+306857	5	24	No Variant	2020-09-26 — 13:31:14 UTC	Calamity, Div, gdog, Hapotata, MrT1234	163	5	25
+306838	5	23	No Variant	2020-09-26 — 12:54:02 UTC	Calamity, Div, gdog, Hapotata, MrT1234	195	5	25
+306827	5	0	No Variant	2020-09-26 — 12:22:21 UTC	Calamity, Div, gdog, Hapotata, MrT1234	223	5	25
+306803	2	0	Rainbow & White (5 Suits)	2020-09-26 — 11:10:03 UTC	Calamity, Div	30	5	25
+306801	2	0	Rainbow & White (5 Suits)	2020-09-26 — 11:03:28 UTC	Calamity, Div	46	5	25
+306479	2	25	Pink & Omni (5 Suits)	2020-09-26 — 00:55:24 UTC	Div, lotem	3	5	25
+306461	2	0	Pink & Omni (5 Suits)	2020-09-26 — 00:38:31 UTC	Div, lotem	3	5	25
+306455	2	0	Pink & Omni (5 Suits)	2020-09-26 — 00:31:53 UTC	Div, lotem	4	5	25
+306449	2	0	Pink & Omni (5 Suits)	2020-09-26 — 00:19:56 UTC	Div, lotem	4	5	25
+306441	2	0	Pink & Omni (5 Suits)	2020-09-26 — 00:15:57 UTC	Div, lotem	4	5	25
+306440	2	0	Pink & Omni (5 Suits)	2020-09-26 — 00:15:46 UTC	Div, lotem	4	5	25
+306438	2	0	Pink & Omni (5 Suits)	2020-09-26 — 00:14:46 UTC	Div, lotem	5	5	25
+306436	2	0	Pink & Omni (5 Suits)	2020-09-26 — 00:12:03 UTC	Div, lotem	7	5	25
+306430	2	0	Pink & Omni (5 Suits)	2020-09-26 — 00:00:05 UTC	Div, lotem	7	5	25
+306429	2	0	Pink & Omni (5 Suits)	2020-09-25 — 23:59:31 UTC	Div, lotem	8	5	25
+306422	2	22	Pink & Omni (5 Suits)	2020-09-25 — 23:47:21 UTC	Div, lotem	8	5	25
+306401	2	0	Pink & Omni (5 Suits)	2020-09-25 — 23:20:18 UTC	Div, lotem	12	5	25
+306389	2	0	Pink & Omni (5 Suits)	2020-09-25 — 23:08:52 UTC	Div, lotem	12	5	25
+306387	2	0	Pink & Omni (5 Suits)	2020-09-25 — 23:02:58 UTC	Div, lotem	13	5	25
+306375	3	0	Pink & Omni (5 Suits)	2020-09-25 — 22:41:49 UTC	Div, ejwu, lotem	6	5	25
+306365	3	0	Pink & Omni (5 Suits)	2020-09-25 — 22:13:49 UTC	Div, ejwu, lotem	9	5	25
+306292	4	25	Muddy Rainbow (5 Suits)	2020-09-25 — 20:21:37 UTC	Div, Kyle, Pablo-, TimeHoodie	2	5	25
+306279	4	0	Muddy Rainbow (5 Suits)	2020-09-25 — 19:53:50 UTC	Div, Kyle, Pablo-, TimeHoodie	2	5	25
+306254	4	0	Muddy Rainbow (5 Suits)	2020-09-25 — 19:30:18 UTC	Div, Kyle, Pablo-, TimeHoodie	23	5	25
+306157	2	27	Cow & Pig (6 Suits)	2020-09-25 — 16:41:41 UTC	Div, plus	15	6	30
+306146	2	0	Cow & Pig (6 Suits)	2020-09-25 — 16:26:46 UTC	Div, plus	23	6	30
+305979	3	20	4 Suits	2020-09-25 — 10:55:02 UTC	catula, Div, egerdm	21	4	20
+302434	5	0	Null (6 Suits)	2020-09-20 — 16:56:35 UTC	Div, lotem, newduke, sephiroth, TimeHoodie	13	6	30
+302380	6	0	Null (6 Suits)	2020-09-20 — 16:20:51 UTC	Div, lotem, newduke, rachyrules, sephiroth, TimeHoodie	3	6	30
+302366	5	25	White (5 Suits)	2020-09-20 — 16:02:39 UTC	Div, newduke, rachyrules, TheDaniMan, TimeHoodie	11	5	25
+302296	4	21	Brown (5 Suits)	2020-09-20 — 13:18:49 UTC	Calamity, Div, gdog, MrT1234	14	5	25
+302289	4	0	Brown (5 Suits)	2020-09-20 — 12:49:29 UTC	Calamity, Div, gdog, MrT1234	17	5	25
+302285	4	0	Brown (5 Suits)	2020-09-20 — 12:43:15 UTC	Calamity, Div, gdog, MrT1234	19	5	25
+302282	4	23	Brown (5 Suits)	2020-09-20 — 12:29:54 UTC	Calamity, Div, gdog, MrT1234	36	5	25
+302275	2	23	Brown (5 Suits)	2020-09-20 — 12:09:41 UTC	Calamity, Div	124	5	25
+301694	6	28	Rainbow & White (6 Suits)	2020-09-19 — 20:06:15 UTC	Darth_Calculus, Div, newduke, TimeHoodie, Wittvector, wortel	1	6	30
+301665	6	0	Rainbow & White (6 Suits)	2020-09-19 — 19:18:03 UTC	Darth_Calculus, Div, newduke, TimeHoodie, Wittvector, wortel	4	6	30
+301643	4	0	Rainbow & White (6 Suits)	2020-09-19 — 18:47:17 UTC	Darth_Calculus, Div, newduke, TimeHoodie	12	6	30
+301627	2	30	Rainbow & White (6 Suits)	2020-09-19 — 18:15:31 UTC	Div, TimeHoodie	44	6	30
+301622	2	28	Rainbow & White (6 Suits)	2020-09-19 — 17:59:57 UTC	Div, TimeHoodie	58	6	30
+301575	3	28	Rainbow & White (6 Suits)	2020-09-19 — 14:36:59 UTC	Calamity, Div, gdog	32	6	30
+301571	3	0	Rainbow & White (6 Suits)	2020-09-19 — 14:14:40 UTC	Calamity, Div, gdog	46	6	30
+301569	4	0	Rainbow & White (6 Suits)	2020-09-19 — 14:11:35 UTC	Calamity, Div, gdog, Jesusita	16	6	30
+301567	4	0	Rainbow & White (6 Suits)	2020-09-19 — 14:02:41 UTC	Calamity, Div, gdog, Jesusita	23	6	30
+301556	6	24	No Variant	2020-09-19 — 11:43:31 UTC	catula, cockdestroyer, Div, jack67889, orucsoraihc, sephiroth	60	5	25
+301549	4	23	No Variant	2020-09-19 — 11:08:47 UTC	catula, Div, jack67889, orucsoraihc	717	5	25
+301538	3	0	No Variant	2020-09-19 — 10:42:08 UTC	catula, Div, jack67889	1881	5	25
+301535	3	0	No Variant	2020-09-19 — 10:23:10 UTC	catula, Div, jack67889	2163	5	25
+301531	3	27	6 Suits	2020-09-19 — 09:39:21 UTC	Darth_Calculus, derekcheah, Div	503	6	30
+300995	6	0	Black & White (6 Suits)	2020-09-18 — 22:37:44 UTC	Div, emilyzhao, newduke, Pablo-, savoryoatmeal, squidgetx	5	6	30
+300984	4	0	Black & White (6 Suits)	2020-09-18 — 22:26:13 UTC	Div, ejwu, newduke, Pablo-	22	6	30
+300981	4	0	Black & White (6 Suits)	2020-09-18 — 22:20:28 UTC	Div, ejwu, newduke, Pablo-	24	6	30
+300950	4	0	Black & White (6 Suits)	2020-09-18 — 21:40:34 UTC	Div, ejwu, newduke, Pablo-	29	6	30
+300921	5	0	Omni (5 Suits)	2020-09-18 — 21:02:40 UTC	Div, ejwu, lotem, newduke, Pablo-	1	5	25
+300896	5	0	Omni (5 Suits)	2020-09-18 — 20:41:24 UTC	Div, ejwu, lotem, newduke, Pablo-	3	5	25
+300892	5	0	Omni (5 Suits)	2020-09-18 — 20:36:45 UTC	Div, ejwu, lotem, newduke, Pablo-	3	5	25
+300876	5	24	Omni (5 Suits)	2020-09-18 — 20:21:09 UTC	Div, ejwu, lotem, newduke, Pablo-	3	5	25
+300851	4	0	Omni (5 Suits)	2020-09-18 — 20:06:12 UTC	Div, ejwu, newduke, Pablo-	11	5	25
+300844	4	0	Omni (5 Suits)	2020-09-18 — 19:59:14 UTC	Div, ejwu, newduke, Pablo-	13	5	25
+300832	3	0	Omni (5 Suits)	2020-09-18 — 19:49:29 UTC	Div, ejwu, newduke	50	5	25
+300809	4	25	Omni (5 Suits)	2020-09-18 — 19:30:24 UTC	Div, emilyzhao, kevincaseytdk1, squidgetx	24	5	25
+300692	4	25	No Variant	2020-09-18 — 16:00:49 UTC	Div, ejwu, Hapotata, lotem	149	5	25
+300679	3	0	Special Mix (5 Suits)	2020-09-18 — 15:25:05 UTC	Div, lotem, TimeHoodie	23	5	25
+300670	3	0	Special Mix (5 Suits)	2020-09-18 — 14:52:14 UTC	Div, lotem, TimeHoodie	48	5	25
+300668	2	0	Special Mix (5 Suits)	2020-09-18 — 14:27:51 UTC	Div, lotem	29	5	25
+300664	2	0	Special Mix (5 Suits)	2020-09-18 — 14:16:58 UTC	Div, lotem	31	5	25
+300663	2	0	Special Mix (5 Suits)	2020-09-18 — 14:09:07 UTC	Div, lotem	31	5	25
+300662	2	24	Special Mix (5 Suits)	2020-09-18 — 14:03:13 UTC	Div, lotem	32	5	25
+300660	2	0	Special Mix (5 Suits)	2020-09-18 — 13:51:40 UTC	Div, lotem	33	5	25
+300659	2	0	Special Mix (5 Suits)	2020-09-18 — 13:49:07 UTC	Div, lotem	63	5	25
+300658	2	0	Special Mix (5 Suits)	2020-09-18 — 13:47:23 UTC	Div, lotem	66	5	25
+300190	4	0	Special Mix (5 Suits)	2020-09-17 — 20:44:11 UTC	Div, kevincaseytdk1, lotem, pianoblook	16	5	25
+300150	4	0	Special Mix (5 Suits)	2020-09-17 — 20:08:31 UTC	Div, kevincaseytdk1, lotem, pianoblook	18	5	25
+295852	3	25	Rainbow & White (5 Suits)	2020-09-12 — 14:47:37 UTC	Calamity, Div, gdog	21	5	25
+295847	3	0	Rainbow & White (5 Suits)	2020-09-12 — 14:23:59 UTC	Calamity, Div, gdog	20	5	25
+295846	3	0	Rainbow & White (5 Suits)	2020-09-12 — 14:13:13 UTC	Calamity, Div, gdog	26	5	25
+295845	3	0	Rainbow & White (5 Suits)	2020-09-12 — 14:04:19 UTC	Calamity, Div, gdog	37	5	25
+295839	2	25	No Variant	2020-09-12 — 13:51:12 UTC	Calamity, Div	2532	5	25
+295836	2	0	No Variant	2020-09-12 — 13:44:52 UTC	Calamity, Div	2750	5	25
+294796	4	23	Rainbow & White (5 Suits)	2020-09-11 — 14:40:37 UTC	Div, gdog, lotem, MrT1234	17	5	25
+294764	4	22	Rainbow & White (5 Suits)	2020-09-11 — 13:57:31 UTC	Div, gdog, lotem, MrT1234	23	5	25
+294742	5	25	No Variant	2020-09-11 — 13:22:08 UTC	Div, gdog, Hapotata, lotem, MrT1234	176	5	25
+294726	2	29	Rainbow (6 Suits)	2020-09-11 — 13:00:47 UTC	Div, gdog	441	6	30
+294262	6	0	Omni (5 Suits)	2020-09-10 — 20:46:50 UTC	Div, ejwu, kevincaseytdk1, lotem, newduke, squidgetx	4	5	25
+283656	3	0	No Variant	2020-08-29 — 12:00:40 UTC	Div, lotem, rotem	213	5	25
+283616	3	0	Rainbow (6 Suits)	2020-08-29 — 11:31:53 UTC	Div, gdog, Random	58	6	30
+283599	4	0	Rainbow (6 Suits)	2020-08-29 — 11:16:04 UTC	Div, gdog, Jesusita, Random	34	6	30
+283589	4	0	Rainbow (6 Suits)	2020-08-29 — 11:00:35 UTC	Div, gdog, Jesusita, Random	35	6	30
+283585	3	0	Rainbow (6 Suits)	2020-08-29 — 10:45:16 UTC	Div, Jesusita, Random	61	6	30
+277448	6	25	No Variant	2020-08-22 — 11:23:30 UTC	Div, kodomazer, lotem, rotem, swineherd, Wittvector	32	5	25
+277446	4	0	No Variant	2020-08-22 — 11:00:36 UTC	Div, rotem, swineherd, Wittvector	190	5	25
+264285	4	0	Rainbow (6 Suits)	2020-08-07 — 16:10:02 UTC	Div, gdog, Jesusita, MrT1234	38	6	30
+264273	5	27	Rainbow (6 Suits)	2020-08-07 — 15:41:28 UTC	Div, gdog, Jesusita, MrT1234, Random	83	6	30
+264262	5	0	Rainbow (6 Suits)	2020-08-07 — 15:11:31 UTC	Div, gdog, Jesusita, MrT1234, Random	133	6	30
+264255	5	0	Rainbow (6 Suits)	2020-08-07 — 15:00:57 UTC	Div, gdog, Jesusita, MrT1234, Random	209	6	30
+250723	6	0	Dark Pink (6 Suits)	2020-07-25 — 13:33:33 UTC	Div, Dr_Kakashi, melwen, sephiroth, Sucubis, Zakisan	4	6	30
+245970	5	23	Special Mix (5 Suits)	2020-07-20 — 16:04:54 UTC	Div, Dr_Kakashi, Kyle, sephiroth, will.i.am	4	5	25
+245951	5	24	Special Mix (5 Suits)	2020-07-20 — 15:33:05 UTC	Div, Dr_Kakashi, MarkusKahlsen, sephiroth, will.i.am	5	5	25
+243921	6	25	Black (5 Suits)	2020-07-18 — 15:32:26 UTC	Div, Dr_Kakashi, lotem, Nitrate2, padi, sephiroth	8	5	25
+243914	5	0	Rainbow (4 Suits)	2020-07-18 — 15:05:08 UTC	Div, Dr_Kakashi, lotem, Nitrate2, padi	6	4	20
+243910	5	19	Rainbow (4 Suits)	2020-07-18 — 14:47:27 UTC	Div, Dr_Kakashi, lotem, Nitrate2, padi	8	4	20
+243902	5	19	Rainbow (4 Suits)	2020-07-18 — 14:14:57 UTC	Div, Dr_Kakashi, Fey, Nitrate2, sephiroth	16	4	20
+242659	4	0	Rainbow (6 Suits)	2020-07-17 — 13:49:19 UTC	Div, gdog, MrT123, RoyIsland	37	6	30
+242653	4	0	Rainbow (6 Suits)	2020-07-17 — 13:37:40 UTC	Div, gdog, MrT123, RoyIsland	38	6	30
+242647	4	0	Rainbow (6 Suits)	2020-07-17 — 13:23:05 UTC	Div, gdog, MrT123, RoyIsland	39	6	30
+242643	4	0	Rainbow (6 Suits)	2020-07-17 — 13:10:14 UTC	Div, gdog, MrT123, RoyIsland	41	6	30
+242634	4	0	Rainbow (6 Suits)	2020-07-17 — 12:50:07 UTC	Div, gdog, MrT123, RoyIsland	44	6	30
+242630	4	0	Rainbow (6 Suits)	2020-07-17 — 12:46:51 UTC	Div, gdog, MrT123, RoyIsland	47	6	30
+242626	4	0	Rainbow (6 Suits)	2020-07-17 — 12:38:40 UTC	Div, gdog, MrT123, RoyIsland	47	6	30
+242020	3	25	Pink (5 Suits)	2020-07-16 — 23:24:02 UTC	asaelr, Div, lotem	62	5	25
+241960	4	24	No Variant	2020-07-16 — 22:39:03 UTC	Div, Efece, lotem, rotem	156	5	25
+241911	4	25	No Variant	2020-07-16 — 21:54:11 UTC	Div, Efece, lotem, rotem	162	5	25
+239603	4	0	Brown-Ones & White (5 Suits)	2020-07-15 — 00:03:14 UTC	Div, DMoney, melwen, Nitrate2	3	5	25
+239559	4	0	Brown-Ones & White (5 Suits)	2020-07-14 — 23:48:45 UTC	Div, DMoney, melwen, Nitrate2	5	5	25
+239525	4	0	Brown-Ones & White (5 Suits)	2020-07-14 — 23:29:41 UTC	Div, DMoney, melwen, Nitrate2	7	5	25
+239483	4	30	Brown (6 Suits)	2020-07-14 — 23:08:01 UTC	Div, DMoney, melwen, Nitrate2	41	6	30
+235335	3	0	Rainbow (6 Suits)	2020-07-10 — 19:41:02 UTC	Div, Jesusita, RoyIsland	68	6	30
+235326	3	0	Rainbow (6 Suits)	2020-07-10 — 19:33:56 UTC	Div, Jesusita, RoyIsland	72	6	30
+235315	3	0	Rainbow (6 Suits)	2020-07-10 — 19:23:49 UTC	Div, Jesusita, RoyIsland	74	6	30
+235313	3	0	Up or Down (5 Suits)	2020-07-10 — 19:19:26 UTC	Div, Jesusita, RoyIsland	42	5	25
+235309	3	0	Up or Down (5 Suits)	2020-07-10 — 19:17:31 UTC	Div, Jesusita, RoyIsland	54	5	25
+235304	3	0	Up or Down (5 Suits)	2020-07-10 — 19:13:01 UTC	Div, Jesusita, RoyIsland	57	5	25
+235297	3	0	Up or Down (5 Suits)	2020-07-10 — 19:05:59 UTC	Div, Jesusita, RoyIsland	88	5	25
+229129	4	23	Up or Down (5 Suits)	2020-07-04 — 13:52:17 UTC	Div, gdog, Jesusita, RoyIsland	21	5	25
+229123	4	23	Up or Down (5 Suits)	2020-07-04 — 13:27:43 UTC	Div, gdog, Jesusita, RoyIsland	25	5	25
+229118	4	0	Up or Down (5 Suits)	2020-07-04 — 13:09:49 UTC	Div, gdog, Jesusita, RoyIsland	31	5	25
+229117	4	0	Up or Down (5 Suits)	2020-07-04 — 13:08:30 UTC	Div, gdog, Jesusita, RoyIsland	41	5	25
+229092	5	0	Up or Down (6 Suits)	2020-07-04 — 11:00:10 UTC	derekcheah, Div, MarkusKahlsen, swineherd, Zakisan	7	6	30
+229079	5	0	Up or Down (6 Suits)	2020-07-04 — 10:36:22 UTC	derekcheah, Div, MarkusKahlsen, swineherd, Zakisan	9	6	30
+229063	3	29	Rainbow (6 Suits)	2020-07-04 — 08:59:40 UTC	Div, Jesusita, OnceUponAQuine	75	6	30
+226963	2	0	Rainbow (6 Suits)	2020-07-02 — 21:00:46 UTC	Div, Jesusita	500	6	30
+226962	2	30	Rainbow (6 Suits)	2020-07-02 — 20:59:32 UTC	Div, Jesusita	593	6	30
+226938	2	30	Rainbow (6 Suits)	2020-07-02 — 20:34:42 UTC	Div, Jesusita	717	6	30
+224654	3	30	Rainbow (6 Suits)	2020-06-30 — 21:11:39 UTC	Div, gdog, RoyIsland	77	6	30
+224636	3	0	Rainbow (6 Suits)	2020-06-30 — 21:00:48 UTC	Div, gdog, RoyIsland	79	6	30
+224631	4	0	Rainbow (6 Suits)	2020-06-30 — 20:58:58 UTC	Div, gdog, Jesusita, RoyIsland	53	6	30
+224617	4	0	Rainbow (6 Suits)	2020-06-30 — 20:49:06 UTC	Div, gdog, Jesusita, RoyIsland	50	6	30
+224616	4	0	Rainbow (6 Suits)	2020-06-30 — 20:48:20 UTC	Div, gdog, Jesusita, RoyIsland	50	6	30
+224614	4	0	Rainbow (6 Suits)	2020-06-30 — 20:47:32 UTC	Div, gdog, Jesusita, RoyIsland	55	6	30
+224607	4	0	Rainbow (6 Suits)	2020-06-30 — 20:41:27 UTC	Div, gdog, Jesusita, RoyIsland	57	6	30
+224602	4	0	Rainbow (6 Suits)	2020-06-30 — 20:37:41 UTC	Div, gdog, Jesusita, RoyIsland	63	6	30
+224589	3	0	Rainbow (6 Suits)	2020-06-30 — 20:29:10 UTC	Div, gdog, Jesusita	83	6	30
+224583	3	0	Rainbow (6 Suits)	2020-06-30 — 20:17:40 UTC	Div, gdog, Jesusita	91	6	30
+224580	3	0	Rainbow (6 Suits)	2020-06-30 — 20:15:13 UTC	Div, gdog, Jesusita	91	6	30
+224577	3	0	Rainbow (6 Suits)	2020-06-30 — 20:10:56 UTC	Div, gdog, Jesusita	102	6	30
+224572	3	0	Rainbow (6 Suits)	2020-06-30 — 20:09:13 UTC	Div, gdog, Jesusita	104	6	30
+224559	3	0	No Variant	2020-06-30 — 19:59:38 UTC	Div, gdog, Jesusita	285	5	25
+224557	3	0	No Variant	2020-06-30 — 19:59:05 UTC	Div, gdog, Jesusita	307	5	25
+224556	3	0	No Variant	2020-06-30 — 19:58:23 UTC	Div, gdog, Jesusita	320	5	25
+224549	3	0	No Variant	2020-06-30 — 19:52:57 UTC	Div, gdog, Jesusita	354	5	25
+220646	4	0	Rainbow (6 Suits)	2020-06-27 — 13:52:11 UTC	Calamity, Div, gdog, Jesusita	65	6	30
+220642	4	0	Rainbow (6 Suits)	2020-06-27 — 13:42:35 UTC	Calamity, Div, gdog, Jesusita	70	6	30
+220640	4	0	Rainbow (6 Suits)	2020-06-27 — 13:32:46 UTC	Calamity, Div, gdog, Jesusita	73	6	30
+220635	4	0	Rainbow (6 Suits)	2020-06-27 — 13:27:18 UTC	Calamity, Div, gdog, Jesusita	69	6	30
+220630	5	24	No Variant	2020-06-27 — 13:10:33 UTC	Calamity, Div, Jesusita, MarkusKahlsen, Wittvector	207	5	25
+220624	3	0	No Variant	2020-06-27 — 12:43:44 UTC	Div, MarkusKahlsen, Wittvector	223	5	25
+220612	4	24	No Variant	2020-06-27 — 11:04:34 UTC	Div, MarkusKahlsen, robense, Wittvector	130	5	25
+220608	3	0	No Variant	2020-06-27 — 10:38:29 UTC	Div, robense, Wittvector	41	5	25
+219463	4	0	Rainbow (6 Suits)	2020-06-26 — 17:04:18 UTC	Calamity, Div, gdog, Jesusita	76	6	30
+219454	4	0	Rainbow (6 Suits)	2020-06-26 — 16:51:01 UTC	Calamity, Div, gdog, Jesusita	85	6	30
+219448	3	0	Rainbow (6 Suits)	2020-06-26 — 16:30:34 UTC	Calamity, Div, Jesusita	118	6	30
+216301	3	28	Rainbow (6 Suits)	2020-06-23 — 20:50:53 UTC	Div, gdog, Jesusita	120	6	30
+216271	3	0	Rainbow (6 Suits)	2020-06-23 — 20:16:19 UTC	Div, gdog, Jesusita	126	6	30
+216249	3	0	Rainbow (6 Suits)	2020-06-23 — 19:53:17 UTC	Div, gdog, Jesusita	196	6	30
+177066	5	25	Black (6 Suits)	2020-05-22 — 21:31:18 UTC	Div, kalisa, MarkusKahlsen, melwen, mikefrenil	10	6	30
+176931	5	24	No Variant	2020-05-22 — 19:56:51 UTC	anna567, Div, eljobe, swineherd, Zakisan	262	5	25
+168547	3	0	No Variant	2020-05-16 — 14:35:22 UTC	Div, gdog, lotem	324	5	25
+168546	3	0	No Variant	2020-05-16 — 14:34:28 UTC	Div, gdog, lotem	344	5	25
+168545	3	0	No Variant	2020-05-16 — 14:32:04 UTC	Div, gdog, lotem	375	5	25
+168544	3	0	No Variant	2020-05-16 — 14:31:04 UTC	Div, gdog, lotem	386	5	25
+168540	3	0	No Variant	2020-05-16 — 14:27:13 UTC	Div, gdog, lotem	422	5	25
+168538	3	0	No Variant	2020-05-16 — 14:25:33 UTC	Div, gdog, lotem	451	5	25
+168537	3	24	No Variant	2020-05-16 — 14:24:46 UTC	Div, gdog, lotem	459	5	25
+168535	3	0	No Variant	2020-05-16 — 14:20:39 UTC	Div, gdog, lotem	573	5	25
+168534	3	0	No Variant	2020-05-16 — 14:18:57 UTC	Div, gdog, lotem	645	5	25
+168533	3	0	No Variant	2020-05-16 — 14:17:11 UTC	Div, gdog, lotem	680	5	25
+168530	3	23	No Variant	2020-05-16 — 14:14:14 UTC	Div, gdog, lotem	750	5	25
+168527	3	0	No Variant	2020-05-16 — 14:09:43 UTC	Div, gdog, lotem	801	5	25
+168526	3	0	No Variant	2020-05-16 — 14:09:10 UTC	Div, gdog, lotem	840	5	25
+168525	3	0	No Variant	2020-05-16 — 14:08:56 UTC	Div, gdog, lotem	940	5	25
+168517	4	0	No Variant	2020-05-16 — 13:48:37 UTC	Div, Faggotini, gdog, lotem	180	5	25
+168497	6	0	No Variant	2020-05-16 — 13:14:44 UTC	Div, Faggotini, gdog, Jesusita, lotem, rotem	478	5	25
+168412	4	25	No Variant	2020-05-16 — 10:36:48 UTC	Div, Faggotini, gdog, Jesusita	198	5	25
+168402	4	0	No Variant	2020-05-16 — 10:18:01 UTC	Div, Faggotini, gdog, Jesusita	204	5	25
+168396	3	0	No Variant	2020-05-16 — 10:13:10 UTC	Div, Faggotini, gdog	1017	5	25
+168391	2	30	Rainbow (6 Suits)	2020-05-16 — 10:05:54 UTC	Div, gdog	971	6	30
+167057	4	24	No Variant	2020-05-15 — 16:41:27 UTC	Div, gdog, Jesusita, lotem	213	5	25
+167029	5	0	No Variant	2020-05-15 — 16:15:21 UTC	Div, Faggotini, gdog, Jesusita, lotem	296	5	25
+167016	4	0	No Variant	2020-05-15 — 15:52:59 UTC	Div, Faggotini, gdog, Jesusita	233	5	25
+166993	3	0	Rainbow (6 Suits)	2020-05-15 — 15:24:30 UTC	Div, gdog, Jesusita	282	6	30
+158455	5	24	Omni (5 Suits)	2020-05-09 — 10:54:25 UTC	Div, Nitrate2, plus, TimeHoodie, Valetta6789	13	5	25
+157142	6	30	Up or Down (6 Suits)	2020-05-08 — 15:31:17 UTC	Div, lotem, sin_faith, Sucubis, TimeHoodie, Zakisan	6	6	30
+157095	5	0	Up or Down (5 Suits)	2020-05-08 — 14:35:33 UTC	arnino, Div, lotem, sin_faith, Zakisan	8	5	25
+157072	5	0	Omni (5 Suits)	2020-05-08 — 13:54:37 UTC	arnino, Div, lotem, robense, sin_faith	8	5	25
+157052	5	0	Omni (5 Suits)	2020-05-08 — 13:28:32 UTC	arnino, Div, lotem, robense, sin_faith	11	5	25
+157046	5	27	Rainbow (6 Suits)	2020-05-08 — 13:13:58 UTC	arnino, Div, robense, sin_faith, Zakisan	21	6	30
+156986	5	0	Rainbow (6 Suits)	2020-05-08 — 09:53:11 UTC	arnino, Div, LaFayetteX, Spip_B, Zakisan	101	6	30
+156983	4	0	Rainbow (6 Suits)	2020-05-08 — 09:30:39 UTC	arnino, Div, LaFayetteX, Zakisan	91	6	30
+156981	4	0	Rainbow (6 Suits)	2020-05-08 — 09:14:27 UTC	arnino, Div, LaFayetteX, Zakisan	96	6	30
+156970	3	0	Rainbow (6 Suits)	2020-05-08 — 08:48:54 UTC	arnino, Div, LaFayetteX	332	6	30
+156961	5	0	6 Suits	2020-05-08 — 08:36:31 UTC	arnino, Div, Fey, LaFayetteX, plus	132	6	30
+156949	4	0	6 Suits	2020-05-08 — 08:15:00 UTC	Div, Fey, LaFayetteX, plus	68	6	30
+156948	4	0	6 Suits	2020-05-08 — 08:13:18 UTC	Div, Fey, LaFayetteX, plus	81	6	30
+156163	4	0	Special Mix (5 Suits)	2020-05-07 — 20:19:31 UTC	Div, lotem, sin_faith, TimeHoodie	17	5	25
+153391	4	24	Rainbow (5 Suits)	2020-05-05 — 21:13:12 UTC	Div, LaFayetteX, lotem, rotem	38	5	25
+153161	5	0	6 Suits	2020-05-05 — 17:18:33 UTC	Div, ilmrak, lotem, Ricca29, rotem	96	6	30
+150612	3	23	White (5 Suits)	2020-05-03 — 20:56:36 UTC	Div, LaFayetteX, will.i.am	48	5	25
+148146	2	30	Rainbow (6 Suits)	2020-05-02 — 13:02:45 UTC	Div, robense	94	6	30
+148131	2	0	Rainbow (6 Suits)	2020-05-02 — 12:48:37 UTC	Div, robense	99	6	30
+148127	2	0	Rainbow (6 Suits)	2020-05-02 — 12:44:59 UTC	Div, robense	97	6	30
+148124	2	0	Rainbow (6 Suits)	2020-05-02 — 12:41:15 UTC	Div, robense	102	6	30
+148121	2	0	Rainbow (6 Suits)	2020-05-02 — 12:39:58 UTC	Div, robense	106	6	30
+148117	2	29	Rainbow (6 Suits)	2020-05-02 — 12:36:53 UTC	Div, robense	106	6	30
+148113	2	30	Rainbow (6 Suits)	2020-05-02 — 12:27:53 UTC	Div, robense	114	6	30
+148109	2	0	Rainbow (6 Suits)	2020-05-02 — 12:17:40 UTC	Div, robense	121	6	30
+148108	2	25	No Variant	2020-05-02 — 12:10:58 UTC	Div, robense	85	5	25
+147084	4	0	Omni (5 Suits)	2020-05-01 — 22:28:33 UTC	ADrone, Div, lotem, scharkbite	3	5	25
+147044	4	0	Omni (5 Suits)	2020-05-01 — 21:45:03 UTC	ADrone, Div, lotem, scharkbite	3	5	25
+146993	4	0	Omni (5 Suits)	2020-05-01 — 21:11:21 UTC	ADrone, Div, lotem, scharkbite	9	5	25
+146943	2	0	Omni (5 Suits)	2020-05-01 — 20:45:08 UTC	Div, lotem	106	5	25
+146659	4	25	Omni (5 Suits)	2020-05-01 — 17:03:40 UTC	alphabeta, Div, lotem, scharkbite	16	5	25
+146620	3	0	Omni (5 Suits)	2020-05-01 — 16:25:09 UTC	Div, lotem, scharkbite	4	5	25
+145002	4	0	Rainbow (6 Suits)	2020-04-30 — 17:37:56 UTC	Div, gdog, Jesusita, RoyIsland	104	6	30
+144991	4	0	Rainbow (6 Suits)	2020-04-30 — 17:18:01 UTC	Div, gdog, Jesusita, RoyIsland	122	6	30
+144980	4	0	Rainbow (6 Suits)	2020-04-30 — 16:58:04 UTC	Div, gdog, Jesusita, RoyIsland	132	6	30
+144970	4	0	Rainbow (6 Suits)	2020-04-30 — 16:43:20 UTC	Div, gdog, Jesusita, RoyIsland	163	6	30
+144937	5	26	Rainbow (6 Suits)	2020-04-30 — 15:56:50 UTC	Buds, Div, lotem, Nitrate2, sin_faith	39	6	30
+136411	3	0	Up or Down (5 Suits)	2020-04-24 — 22:55:08 UTC	arnino, Div, lotem	62	5	25
+136366	4	0	Up or Down (5 Suits)	2020-04-24 — 22:37:01 UTC	arnino, Div, lotem, robense	27	5	25
+136289	4	25	Up or Down (5 Suits)	2020-04-24 — 22:05:18 UTC	Div, Floriman, lotem, sin_faith	15	5	25
+135811	5	23	No Variant	2020-04-24 — 15:30:25 UTC	Div, gdog, Jesusita, RoyIsland, shohamh	344	5	25
+135779	4	0	No Variant	2020-04-24 — 15:09:41 UTC	Div, gdog, RoyIsland, shohamh	243	5	25
+135774	4	0	No Variant	2020-04-24 — 15:05:43 UTC	Div, gdog, RoyIsland, shohamh	257	5	25
+135749	4	0	No Variant	2020-04-24 — 14:46:47 UTC	Div, gdog, RoyIsland, shohamh	326	5	25
+135721	4	22	No Variant	2020-04-24 — 14:15:27 UTC	Div, gdog, RoyIsland, shohamh	442	5	25
+135691	3	0	No Variant	2020-04-24 — 13:37:24 UTC	bennyF, Div, shanos	2606	5	25
+135683	3	0	Rainbow (6 Suits)	2020-04-24 — 13:29:55 UTC	bennyF, Div, shanos	508	6	30
+135682	3	0	Rainbow (6 Suits)	2020-04-24 — 13:29:12 UTC	bennyF, Div, shanos	689	6	30
+134729	4	0	Rainbow (6 Suits)	2020-04-23 — 21:09:08 UTC	Div, maxnorris13, piper, robense	156	6	30
+134438	2	0	No Variant	2020-04-23 — 17:33:55 UTC	Div, robense	90	5	25
+134357	4	23	No Variant	2020-04-23 — 15:28:23 UTC	Div, gdog, Jesusita, lotem	336	5	25
+134345	4	0	No Variant	2020-04-23 — 14:49:25 UTC	Div, gdog, Jesusita, lotem	384	5	25
+134323	4	0	No Variant	2020-04-23 — 14:21:27 UTC	Div, gdog, Jesusita, lotem	419	5	25
+134312	5	0	No Variant	2020-04-23 — 14:01:36 UTC	Div, DrJones, gdog, Jesusita, lotem	457	5	25
+134297	2	23	No Variant	2020-04-23 — 13:32:17 UTC	Div, lotem	3051	5	25
+134286	2	23	No Variant	2020-04-23 — 13:15:42 UTC	Div, lotem	3507	5	25
+134272	2	0	No Variant	2020-04-23 — 13:03:40 UTC	Div, lotem	4109	5	25
+134248	3	0	No Variant	2020-04-23 — 12:21:23 UTC	Div, JDepp, lotem	275	5	25
+130904	4	0	Up or Down (5 Suits)	2020-04-20 — 21:51:48 UTC	Div, kimbifille, lotem, Yuga Suggah	27	5	25
+130875	4	0	Up or Down (5 Suits)	2020-04-20 — 21:32:06 UTC	Div, kimbifille, lotem, Yuga Suggah	35	5	25
+130858	4	0	Up or Down (5 Suits)	2020-04-20 — 21:14:12 UTC	Div, kimbifille, lotem, Yuga Suggah	52	5	25
+130834	4	0	Up or Down (5 Suits)	2020-04-20 — 20:56:18 UTC	Div, kimbifille, lotem, Yuga Suggah	75	5	25
+130815	4	15	3 Suits	2020-04-20 — 20:37:56 UTC	Div, kimbifille, lotem, Yuga Suggah	73	3	15
+130782	3	20	Pink (4 Suits)	2020-04-20 — 20:11:50 UTC	Div, lotem, robense	59	4	20
+127374	4	0	Pink (5 Suits)	2020-04-18 — 19:25:26 UTC	Div, lotem, lrovner, maxnorris13	51	5	25
+127301	5	22	Pink (5 Suits)	2020-04-18 — 18:46:53 UTC	asaelr, Div, lotem, scharkbite, Yuga Suggah	5	5	25
+127056	4	30	Rainbow (6 Suits)	2020-04-18 — 14:18:42 UTC	Div, gdog, Jesusita, RoyIsland	185	6	30
+127033	4	0	Rainbow (6 Suits)	2020-04-18 — 13:53:51 UTC	Div, gdog, Jesusita, RoyIsland	200	6	30
+127014	4	27	Rainbow (6 Suits)	2020-04-18 — 13:35:58 UTC	Div, gdog, Jesusita, RoyIsland	238	6	30
+126984	4	0	Rainbow (6 Suits)	2020-04-18 — 12:52:07 UTC	Div, gdog, Jesusita, RoyIsland	275	6	30
+126112	4	23	White (5 Suits)	2020-04-17 — 23:51:02 UTC	Div, lotem, soxinfox, Yuga Suggah	60	5	25
+126022	5	25	Pink (5 Suits)	2020-04-17 — 22:55:29 UTC	Div, Dr_Kakashi, Floriman, Kyle, lotem	7	5	25
+125983	5	0	Pink (5 Suits)	2020-04-17 — 22:41:10 UTC	Div, Dr_Kakashi, Floriman, Kyle, lotem	11	5	25
+125980	5	0	Pink (5 Suits)	2020-04-17 — 22:38:00 UTC	Div, Dr_Kakashi, Floriman, Kyle, lotem	20	5	25
+125525	3	24	No Variant	2020-04-17 — 16:37:46 UTC	Div, Kyle, sin_faith	119	5	25
+125513	3	0	No Variant	2020-04-17 — 16:21:34 UTC	Div, Kyle, sin_faith	125	5	25
+123327	4	0	Brown (5 Suits)	2020-04-15 — 22:20:04 UTC	Div, Floriman, keatnisher, lotem	14	5	25
+123302	3	28	Up or Down (6 Suits)	2020-04-15 — 21:58:31 UTC	Div, Floriman, lotem	55	6	30
+123256	2	28	Rainbow (6 Suits)	2020-04-15 — 21:29:50 UTC	Div, robense	349	6	30
+117443	5	0	Up or Down (6 Suits)	2020-04-11 — 17:54:56 UTC	Div, duckmammal, Kyle, lotem, scharkbite	11	6	30
+117424	5	0	Up or Down (6 Suits)	2020-04-11 — 17:43:12 UTC	Div, duckmammal, Kyle, lotem, scharkbite	12	6	30
+117391	3	0	Up or Down (5 Suits)	2020-04-11 — 17:13:12 UTC	Div, JDepp, lotem	113	5	25
+117359	3	0	Rainbow (6 Suits)	2020-04-11 — 16:26:23 UTC	Div, MarkusKahlsen, Nerd79797	141	6	30
+117326	3	0	Rainbow (6 Suits)	2020-04-11 — 15:33:42 UTC	Div, MarkusKahlsen, Nerd79797	146	6	30
+116286	3	9	Duck (3 Suits)	2020-04-10 — 22:59:15 UTC	Div, MrT, RoyIsland	10	3	15
+116270	3	0	Duck (3 Suits)	2020-04-10 — 22:49:54 UTC	Div, MrT, RoyIsland	13	3	15
+116269	3	0	Duck (3 Suits)	2020-04-10 — 22:48:21 UTC	Div, MrT, RoyIsland	21	3	15
+116266	4	0	Duck (3 Suits)	2020-04-10 — 22:46:37 UTC	Div, gdog, MrT, RoyIsland	5	3	15
+116257	4	12	Duck (3 Suits)	2020-04-10 — 22:40:12 UTC	Div, gdog, MrT, RoyIsland	7	3	15
+116224	4	25	No Variant	2020-04-10 — 22:16:44 UTC	Div, gdog, MrT, RoyIsland	473	5	25
+116198	4	0	No Variant	2020-04-10 — 21:57:31 UTC	Div, gdog, MrT, RoyIsland	501	5	25
+116169	5	23	No Variant	2020-04-10 — 21:31:33 UTC	Div, gdog, Jesusita, MrT, RoyIsland	658	5	25
+116076	5	21	No Variant	2020-04-10 — 20:46:22 UTC	Div, gdog, Jesusita, MrT, RoyIsland	837	5	25
+116025	4	0	No Variant	2020-04-10 — 20:11:55 UTC	Div, Jesusita, MrT, RoyIsland	541	5	25
+115072	4	25	No Variant	2020-04-10 — 02:07:14 UTC	Div, Kyle, lotem, sin_faith	373	5	25
+114979	4	22	Brown (5 Suits)	2020-04-10 — 01:24:44 UTC	Ahming, Div, lotem, Zamiel	27	5	25
+114899	4	0	Brown (5 Suits)	2020-04-10 — 00:42:17 UTC	Div, dontmacme, lotem, Yuga Suggah	46	5	25
+114853	4	27	Black (6 Suits)	2020-04-09 — 23:58:06 UTC	Div, dontmacme, lotem, robense	175	6	30
+114824	4	0	Black (6 Suits)	2020-04-09 — 23:25:09 UTC	Div, dontmacme, lotem, robense	213	6	30
+114804	4	0	Black (6 Suits)	2020-04-09 — 23:08:22 UTC	Div, dontmacme, lotem, robense	273	6	30
+114772	3	0	Black (6 Suits)	2020-04-09 — 22:30:36 UTC	Div, lotem, robense	261	6	30
+114530	5	18	No Variant	2020-04-09 — 20:01:10 UTC	Div, electon, gdog, MrT, RoyIsland	1510	5	25
+114494	5	0	No Variant	2020-04-09 — 19:40:31 UTC	Div, electon, gdog, MrT, RoyIsland	1995	5	25
+114469	3	20	No Variant	2020-04-09 — 19:16:44 UTC	Div, Jesusita, RoyIsland	3260	5	25
+114429	3	0	Rainbow (6 Suits)	2020-04-08 — 23:38:05 UTC	aladdin3, Div, lotem	165	6	30
+114361	4	25	No Variant	2020-04-08 — 22:32:07 UTC	Div, gdog, MrT, RoyIsland	985	5	25
+114309	4	23	No Variant	2020-04-08 — 21:38:24 UTC	Div, gdog, MrT, RoyIsland	1092	5	25
+114241	4	0	No Variant	2020-04-08 — 21:00:09 UTC	Div, gdog, MrT, RoyIsland	1253	5	25
+113901	4	0	No Variant	2020-04-08 — 15:52:14 UTC	Div, gdog, lotem2, RoyIsland	1744	5	25
+113891	4	0	No Variant	2020-04-08 — 15:34:56 UTC	Div, gdog, lotem2, RoyIsland	2076	5	25
+113876	4	22	No Variant	2020-04-08 — 15:02:24 UTC	Div, gdog, Jesusita, RoyIsland	2763	5	25
+113858	4	23	No Variant	2020-04-08 — 14:16:52 UTC	Div, gdog, Jesusita, RoyIsland	3581	5	25
+113844	2	20	No Variant	2020-04-08 — 13:44:32 UTC	Div, Jesusita	5374	5	25
+113830	3	21	No Variant	2020-04-08 — 12:44:50 UTC	Div, gdog, RoyIsland	4221	5	25
+113464	3	30	Rainbow (6 Suits)	2020-04-08 — 02:25:54 UTC	aladdin3, Div, lotem	183	6	30
+113390	3	0	Rainbow (6 Suits)	2020-04-08 — 01:40:59 UTC	aladdin3, Div, lotem	215	6	30
+113326	4	27	Rainbow (6 Suits)	2020-04-08 — 00:54:05 UTC	Div, Libster, lotem, TheWaisel	38	6	30
+113225	3	29	Rainbow (6 Suits)	2020-04-07 — 23:47:34 UTC	Div, lotem, TheWaisel	237	6	30
+113182	3	0	Rainbow (6 Suits)	2020-04-07 — 23:07:08 UTC	Div, lotem, TheWaisel	396	6	30
+113130	4	22	No Variant	2020-04-07 — 22:26:41 UTC	ADrone, Div, lotem, TheWaisel	167	5	25
+113006	4	23	No Variant	2020-04-07 — 21:40:16 UTC	Ahming, Div, lotem, TheWaisel	1449	5	25
+112928	4	0	No Variant	2020-04-07 — 20:52:13 UTC	Div, JDepp, lotem, TheWaisel	278	5	25
+112897	4	0	No Variant	2020-04-07 — 20:31:27 UTC	Div, JDepp, lotem, TheWaisel	287	5	25
+112805	3	25	No Variant	2020-04-07 — 19:34:05 UTC	Div, kodomazer, Othnia	89	5	25
+112147	4	23	No Variant	2020-04-07 — 01:33:50 UTC	Div, FullPunish, lotem, Maverick	655	5	25
+112100	5	0	Rainbow (6 Suits)	2020-04-07 — 00:49:18 UTC	Div, lotem, MasN, micerang, Razvogor	17	6	30
+112074	5	0	Rainbow (6 Suits)	2020-04-07 — 00:23:40 UTC	Div, lotem, MasN, micerang, Razvogor	16	6	30
+112062	5	0	Rainbow (6 Suits)	2020-04-07 — 00:16:51 UTC	Div, lotem, MasN, micerang, Razvogor	24	6	30
+112050	6	0	Rainbow (6 Suits)	2020-04-07 — 00:04:24 UTC	Div, lotem, MasN, micerang, RaKXeR, Razvogor	4	6	30
+112011	6	0	Black (6 Suits)	2020-04-06 — 23:33:19 UTC	Div, Libster, lotem, micerang, RaKXeR, Razvogor	28	6	30
+111973	5	0	No Variant	2020-04-06 — 22:57:53 UTC	Div, Kyle, Libster, lotem, Yuga Suggah	3	5	25
+111850	4	25	No Variant	2020-04-06 — 21:47:34 UTC	Div, JDepp, kondain, lotem	601	5	25
+111787	4	0	No Variant	2020-04-06 — 21:16:43 UTC	Div, kondain, letical, lotem	308	5	25
+111764	5	0	No Variant	2020-04-06 — 21:03:45 UTC	Div, kondain, letical, lotem, SanPaloma	541	5	25
+110860	3	0	No Variant	2020-04-06 — 00:02:02 UTC	Div, lotem, TheWaisel	1636	5	25
+110802	5	23	No Variant	2020-04-05 — 23:05:55 UTC	Div, lotem, Maverick, Othnia, TheWaisel	383	5	25
+110711	6	20	No Variant	2020-04-05 — 22:12:53 UTC	Div, lotem, Maverick, Othnia, TheWaisel, Yuga Suggah	115	5	25
+110619	5	19	No Variant	2020-04-05 — 21:24:16 UTC	Div, lotem, Maverick, Othnia, TheWaisel	1119	5	25
+110384	4	0	Rainbow (6 Suits)	2020-04-05 — 19:18:14 UTC	2139, Div, sefiak, shanos	344	6	30
+110343	4	0	Rainbow (6 Suits)	2020-04-05 — 18:56:05 UTC	2139, Div, sefiak, shanos	493	6	30

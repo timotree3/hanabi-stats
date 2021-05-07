@@ -1,0 +1,464 @@
+472845	3	30	Brown (6 Suits)	2021-03-18 — 22:07:33 UTC	dmigor3, Feich59, Kowalski1337	11	6	30
+472807	3	30	Brown (6 Suits)	2021-03-18 — 21:47:29 UTC	dmigor3, Feich59, Kowalski1337	11	6	30
+472765	3	30	Brown (6 Suits)	2021-03-18 — 21:21:48 UTC	dmigor3, Feich59, Kowalski1337	7	6	30
+472739	3	0	No Variant	2021-03-18 — 21:06:46 UTC	dmigor3, Feich59, Kowalski1337	223	5	25
+472731	2	25	No Variant	2021-03-18 — 21:03:06 UTC	dmigor3, Kowalski	854	5	25
+470282	3	28	Brown (6 Suits)	2021-03-16 — 18:45:14 UTC	dmigor3, Feich59, Kowalski1337	11	6	30
+470265	3	30	Brown (6 Suits)	2021-03-16 — 18:17:18 UTC	dmigor3, Feich59, Kowalski1337	11	6	30
+470259	3	29	Brown (6 Suits)	2021-03-16 — 17:56:36 UTC	dmigor3, Feich59, Kowalski1337	9	6	30
+469374	3	29	Brown (6 Suits)	2021-03-15 — 21:20:28 UTC	dmigor3, Feich59, Kowalski1337	9	6	30
+469346	3	30	Brown (6 Suits)	2021-03-15 — 21:00:48 UTC	dmigor3, Feich59, Kowalski1337	9	6	30
+469308	3	0	Brown (6 Suits)	2021-03-15 — 20:34:30 UTC	dmigor3, Feich59, Kowalski1337	8	6	30
+469291	3	29	Brown (6 Suits)	2021-03-15 — 20:14:59 UTC	dmigor3, Feich59, Kowalski1337	12	6	30
+467082	3	30	Brown (6 Suits)	2021-03-13 — 22:11:48 UTC	dmigor3, Feich59, Kowalski1337	11	6	30
+467049	3	30	Brown (6 Suits)	2021-03-13 — 21:49:40 UTC	dmigor3, Feich59, Kowalski1337	11	6	30
+467016	3	30	Brown (6 Suits)	2021-03-13 — 21:28:13 UTC	dmigor3, Feich59, Kowalski1337	18	6	30
+467002	3	0	No Variant	2021-03-13 — 21:16:12 UTC	dmigor3, Feich59, Kowalski1337	220	5	25
+466989	2	0	No Variant	2021-03-13 — 21:08:04 UTC	dmigor3, Kowalski1337	5	5	25
+466986	2	0	No Variant	2021-03-13 — 21:05:49 UTC	dmigor3, Kowalski1337	5	5	25
+466985	2	24	No Variant	2021-03-13 — 21:04:16 UTC	dmigor3, Kowalski1337	5	5	25
+466859	3	0	Brown (6 Suits)	2021-03-13 — 18:20:20 UTC	dmigor3, Kowalski1337, nkkarpov	31	6	30
+466853	3	0	Brown (6 Suits)	2021-03-13 — 18:07:50 UTC	dmigor3, Feich59, Kowalski1337	17	6	30
+466834	3	0	Brown (6 Suits)	2021-03-13 — 17:46:37 UTC	dmigor3, Feich59, Kowalski1337	21	6	30
+465972	3	28	Brown (6 Suits)	2021-03-12 — 21:57:25 UTC	dmigor3, Feich59, Kowalski1337	22	6	30
+465937	3	0	Brown (6 Suits)	2021-03-12 — 21:35:53 UTC	dmigor3, Feich59, Kowalski1337	25	6	30
+465906	3	27	Brown (6 Suits)	2021-03-12 — 21:19:47 UTC	dmigor3, Feich59, Kowalski1337	61	6	30
+465862	3	0	Brown (6 Suits)	2021-03-12 — 20:50:11 UTC	dmigor3, Feich59, Kowalski1337	84	6	30
+465845	3	23	Dark Rainbow (5 Suits)	2021-03-12 — 20:27:55 UTC	dmigor3, Feich59, Kowalski1337	36	5	25
+461480	2	25	Null (5 Suits)	2021-03-08 — 16:51:44 UTC	dmigor3, Kowalski1337	40	5	25
+461466	2	0	Null (5 Suits)	2021-03-08 — 16:40:05 UTC	dmigor3, Kowalski1337	47	5	25
+461459	2	0	Null (5 Suits)	2021-03-08 — 16:25:56 UTC	dmigor3, Kowalski1337	60	5	25
+461453	2	24	No Variant	2021-03-08 — 16:15:01 UTC	dmigor3, Kowalski1337	5	5	25
+461451	2	0	No Variant	2021-03-08 — 16:11:38 UTC	dmigor3, Kowalski1337	5	5	25
+461449	2	0	No Variant	2021-03-08 — 16:09:03 UTC	dmigor3, Kowalski1337	5	5	25
+461446	2	0	No Variant	2021-03-08 — 16:06:10 UTC	dmigor3, Kowalski1337	5	5	25
+461444	2	0	No Variant	2021-03-08 — 16:03:57 UTC	dmigor3, Kowalski1337	5	5	25
+461443	2	0	No Variant	2021-03-08 — 16:02:55 UTC	dmigor3, Kowalski1337	5	5	25
+461442	2	0	No Variant	2021-03-08 — 16:01:59 UTC	dmigor3, Kowalski1337	5	5	25
+461440	2	0	No Variant	2021-03-08 — 16:00:09 UTC	dmigor3, Kowalski1337	5	5	25
+461437	2	25	No Variant	2021-03-08 — 15:57:52 UTC	dmigor3, Kowalski1337	5	5	25
+461436	2	0	No Variant	2021-03-08 — 15:54:43 UTC	dmigor3, Kowalski1337	5	5	25
+461434	2	22	No Variant	2021-03-08 — 15:52:59 UTC	dmigor3, Kowalski1337	6	5	25
+461433	2	0	No Variant	2021-03-08 — 15:49:52 UTC	dmigor3, Kowalski1337	6	5	25
+461432	2	25	No Variant	2021-03-08 — 15:48:38 UTC	dmigor3, Kowalski1337	6	5	25
+461430	2	25	No Variant	2021-03-08 — 15:45:56 UTC	dmigor3, Kowalski1337	6	5	25
+461427	2	0	No Variant	2021-03-08 — 15:42:14 UTC	dmigor3, Kowalski1337	6	5	25
+461425	2	0	No Variant	2021-03-08 — 15:39:54 UTC	dmigor3, Kowalski1337	6	5	25
+452313	3	20	Null (4 Suits)	2021-02-28 — 21:36:13 UTC	dmigor3, Feich59, Kowalski1337	7	4	20
+452301	3	0	Null (4 Suits)	2021-02-28 — 21:15:30 UTC	dmigor3, Feich59, Kowalski1337	9	4	20
+452295	3	0	Null (4 Suits)	2021-02-28 — 21:08:21 UTC	dmigor3, Feich59, Kowalski1337	8	4	20
+452264	3	0	Null (4 Suits)	2021-02-28 — 20:49:44 UTC	dmigor3, Feich59, Kowalski1337	6	4	20
+452253	3	0	Null (4 Suits)	2021-02-28 — 20:45:44 UTC	dmigor3, Feich59, Kowalski1337	10	4	20
+452228	3	0	Null (4 Suits)	2021-02-28 — 20:35:34 UTC	dmigor3, Feich59, Kowalski1337	23	4	20
+452189	3	25	Null (5 Suits)	2021-02-28 — 20:16:28 UTC	dmigor3, Feich59, Kowalski1337	36	5	25
+452144	3	0	Null (5 Suits)	2021-02-28 — 19:52:26 UTC	dmigor3, Feich59, Kowalski1337	40	5	25
+452140	3	0	Null (5 Suits)	2021-02-28 — 19:46:55 UTC	dmigor3, Feich59, Kowalski1337	54	5	25
+451088	3	25	White & Prism (5 Suits)	2021-02-27 — 20:27:55 UTC	dmigor3, Feich59, Kowalski1337	10	5	25
+451075	3	0	White & Prism (5 Suits)	2021-02-27 — 20:13:54 UTC	dmigor3, Feich59, Kowalski1337	16	5	25
+451056	3	0	White & Prism (5 Suits)	2021-02-27 — 19:57:55 UTC	dmigor3, Feich59, Kowalski1337	17	5	25
+451048	3	25	Prism (5 Suits)	2021-02-27 — 19:51:24 UTC	dmigor3, Feich59, Kowalski1337	3	5	25
+451027	3	0	Null (3 Suits)	2021-02-27 — 19:39:08 UTC	dmigor3, Feich59, Kowalski1337	10	3	15
+451001	3	13	Null (3 Suits)	2021-02-27 — 19:22:49 UTC	dmigor3, Feich59, Kowalski1337	10	3	15
+450981	3	0	Null (3 Suits)	2021-02-27 — 19:02:05 UTC	dmigor3, Feich59, Kowalski1337	11	3	15
+450974	3	0	Null (3 Suits)	2021-02-27 — 18:50:34 UTC	dmigor3, Feich59, Kowalski1337	11	3	15
+450966	3	14	Null (3 Suits)	2021-02-27 — 18:39:11 UTC	dmigor3, Feich59, Kowalski1337	17	3	15
+450953	3	14	Null (3 Suits)	2021-02-27 — 18:23:45 UTC	dmigor3, Feich59, Kowalski1337	23	3	15
+450222	3	30	Ambiguous (6 Suits)	2021-02-26 — 22:40:06 UTC	dmigor3, Feich59, Kowalski1337	69	6	30
+450174	3	30	Dual-Color (6 Suits)	2021-02-26 — 22:06:13 UTC	dmigor3, Feich59, Kowalski1337	66	6	30
+450077	3	30	Null (6 Suits)	2021-02-26 — 20:53:59 UTC	dmigor3, Feich59, Kowalski1337	36	6	30
+450045	3	0	Null (6 Suits)	2021-02-26 — 20:15:17 UTC	dmigor3, Feich59, Kowalski1337	57	6	30
+450037	2	30	Null (6 Suits)	2021-02-26 — 19:59:30 UTC	dmigor3, Kowalski1337	20	6	30
+450023	2	0	Omni (6 Suits)	2021-02-26 — 19:36:38 UTC	dmigor3, Kowalski1337	95	6	30
+450018	2	25	Black & Rainbow (5 Suits)	2021-02-26 — 19:29:41 UTC	dmigor3, Kowalski1337	28	5	25
+450012	2	23	Black & Rainbow (5 Suits)	2021-02-26 — 19:19:01 UTC	dmigor3, Kowalski1337	28	5	25
+450003	2	0	Black & Rainbow (5 Suits)	2021-02-26 — 19:07:06 UTC	dmigor3, Kowalski1337	29	5	25
+449996	2	0	Black & Rainbow (5 Suits)	2021-02-26 — 19:00:35 UTC	dmigor3, Kowalski1337	32	5	25
+449982	2	0	Black & Rainbow (5 Suits)	2021-02-26 — 18:39:52 UTC	dmigor3, Kowalski1337	39	5	25
+449978	2	0	Black & Rainbow (5 Suits)	2021-02-26 — 18:34:55 UTC	dmigor3, Kowalski1337	45	5	25
+449971	2	0	Black & Rainbow (5 Suits)	2021-02-26 — 18:27:30 UTC	dmigor3, Kowalski1337	47	5	25
+449961	2	0	Black & Rainbow (5 Suits)	2021-02-26 — 18:19:52 UTC	dmigor3, Kowalski1337	55	5	25
+441247	3	30	Rainbow & White (6 Suits)	2021-02-18 — 22:18:31 UTC	dmigor3, Feich59, Kowalski1337	13	6	30
+441209	3	0	Rainbow & White (6 Suits)	2021-02-18 — 21:46:24 UTC	dmigor3, Feich59, Kowalski1337	19	6	30
+441187	3	25	Black (5 Suits)	2021-02-18 — 21:34:30 UTC	dmigor3, Feich59, Kowalski1337	44	5	25
+441160	3	22	Black (5 Suits)	2021-02-18 — 21:13:07 UTC	dmigor3, Feich59, Kowalski1337	51	5	25
+441139	3	0	Black (5 Suits)	2021-02-18 — 20:56:32 UTC	dmigor3, Feich59, Kowalski1337	66	5	25
+441121	3	0	Black (5 Suits)	2021-02-18 — 20:43:02 UTC	dmigor3, Feich59, Kowalski1337	68	5	25
+437060	2	25	No Variant	2021-02-14 — 17:38:01 UTC	dmigor3, Kowalski1337	11	5	25
+437057	2	0	No Variant	2021-02-14 — 17:35:37 UTC	dmigor3, Kowalski1337	11	5	25
+437056	2	0	No Variant	2021-02-14 — 17:33:43 UTC	dmigor3, Kowalski1337	11	5	25
+437051	2	25	No Variant	2021-02-14 — 17:30:55 UTC	dmigor3, Kowalski1337	11	5	25
+437047	2	23	No Variant	2021-02-14 — 17:28:32 UTC	dmigor3, Kowalski1337	11	5	25
+437044	2	0	No Variant	2021-02-14 — 17:24:16 UTC	dmigor3, Kowalski1337	11	5	25
+437039	2	0	No Variant	2021-02-14 — 17:20:15 UTC	dmigor3, Kowalski1337	11	5	25
+437034	2	0	No Variant	2021-02-14 — 17:16:51 UTC	dmigor3, Kowalski1337	11	5	25
+437031	2	24	No Variant	2021-02-14 — 17:13:39 UTC	dmigor3, Kowalski1337	12	5	25
+437026	2	0	No Variant	2021-02-14 — 17:09:18 UTC	dmigor3, Kowalski1337	12	5	25
+437024	2	0	No Variant	2021-02-14 — 17:07:43 UTC	dmigor3, Kowalski1337	12	5	25
+437022	2	0	No Variant	2021-02-14 — 17:06:48 UTC	dmigor3, Kowalski1337	12	5	25
+437020	2	24	No Variant	2021-02-14 — 17:03:43 UTC	dmigor3, Kowalski1337	12	5	25
+437017	2	23	No Variant	2021-02-14 — 16:59:04 UTC	dmigor3, Kowalski1337	12	5	25
+437015	2	0	No Variant	2021-02-14 — 16:55:02 UTC	dmigor3, Kowalski1337	12	5	25
+437012	2	24	No Variant	2021-02-14 — 16:53:18 UTC	dmigor3, Kowalski1337	12	5	25
+437010	2	25	No Variant	2021-02-14 — 16:51:08 UTC	dmigor3, Kowalski1337	12	5	25
+437006	2	0	No Variant	2021-02-14 — 16:48:50 UTC	dmigor3, Kowalski1337	12	5	25
+437004	2	25	No Variant	2021-02-14 — 16:47:24 UTC	dmigor3, Kowalski1337	12	5	25
+437002	2	24	No Variant	2021-02-14 — 16:44:39 UTC	dmigor3, Kowalski1337	12	5	25
+436999	2	0	No Variant	2021-02-14 — 16:41:28 UTC	dmigor3, Kowalski1337	12	5	25
+436996	2	0	No Variant	2021-02-14 — 16:39:16 UTC	dmigor3, Kowalski1337	12	5	25
+436994	2	24	No Variant	2021-02-14 — 16:37:15 UTC	dmigor3, Kowalski1337	12	5	25
+436992	2	23	No Variant	2021-02-14 — 16:33:52 UTC	dmigor3, Kowalski1337	12	5	25
+436987	2	0	No Variant	2021-02-14 — 16:29:53 UTC	dmigor3, Kowalski1337	12	5	25
+436986	2	0	No Variant	2021-02-14 — 16:29:11 UTC	dmigor3, Kowalski1337	12	5	25
+432410	2	25	No Variant	2021-02-10 — 18:03:59 UTC	dmigor3, Kowalski1337	13	5	25
+432406	2	0	No Variant	2021-02-10 — 18:01:05 UTC	dmigor3, Kowalski1337	13	5	25
+432403	2	0	No Variant	2021-02-10 — 17:57:48 UTC	dmigor3, Kowalski1337	13	5	25
+432400	2	0	No Variant	2021-02-10 — 17:55:18 UTC	dmigor3, Kowalski1337	13	5	25
+432396	2	23	No Variant	2021-02-10 — 17:53:22 UTC	dmigor3, Kowalski1337	13	5	25
+432391	2	0	No Variant	2021-02-10 — 17:49:47 UTC	dmigor3, Kowalski1337	13	5	25
+432388	2	0	No Variant	2021-02-10 — 17:48:49 UTC	dmigor3, Kowalski1337	13	5	25
+432386	2	0	No Variant	2021-02-10 — 17:47:40 UTC	dmigor3, Kowalski1337	13	5	25
+432384	2	0	No Variant	2021-02-10 — 17:46:40 UTC	dmigor3, Kowalski1337	13	5	25
+432381	2	0	No Variant	2021-02-10 — 17:41:33 UTC	dmigor3, Kowalski1337	13	5	25
+432378	2	0	No Variant	2021-02-10 — 17:39:23 UTC	dmigor3, Kowalski1337	13	5	25
+432376	2	0	No Variant	2021-02-10 — 17:38:24 UTC	dmigor3, Kowalski1337	13	5	25
+432370	2	0	No Variant	2021-02-10 — 17:35:32 UTC	dmigor3, Kowalski1337	13	5	25
+432367	2	22	No Variant	2021-02-10 — 17:32:06 UTC	dmigor3, Kowalski1337	13	5	25
+432360	2	0	No Variant	2021-02-10 — 17:24:25 UTC	dmigor3, Kowalski1337	14	5	25
+432356	2	0	No Variant	2021-02-10 — 17:22:13 UTC	dmigor3, Kowalski1337	14	5	25
+417971	2	24	No Variant	2021-01-28 — 22:24:51 UTC	dmigor3, Kowalski1337	23	5	25
+417967	2	0	No Variant	2021-01-28 — 22:20:03 UTC	dmigor3, Kowalski1337	24	5	25
+417964	2	0	No Variant	2021-01-28 — 22:18:15 UTC	dmigor3, Kowalski1337	24	5	25
+417961	2	0	No Variant	2021-01-28 — 22:15:38 UTC	dmigor3, Kowalski1337	24	5	25
+417960	2	0	No Variant	2021-01-28 — 22:13:39 UTC	dmigor3, Kowalski1337	24	5	25
+417952	2	0	No Variant	2021-01-28 — 22:08:52 UTC	dmigor3, Kowalski1337	24	5	25
+417946	2	25	No Variant	2021-01-28 — 22:04:19 UTC	dmigor3, Kowalski1337	24	5	25
+417941	2	0	No Variant	2021-01-28 — 22:00:02 UTC	dmigor3, Kowalski1337	24	5	25
+417935	2	25	No Variant	2021-01-28 — 21:57:52 UTC	dmigor3, Kowalski1337	24	5	25
+417930	2	25	No Variant	2021-01-28 — 21:53:21 UTC	dmigor3, Kowalski1337	24	5	25
+417916	2	24	No Variant	2021-01-28 — 21:44:47 UTC	dmigor3, Kowalski1337	24	5	25
+417910	2	25	No Variant	2021-01-28 — 21:39:32 UTC	dmigor3, Kowalski1337	24	5	25
+417904	2	0	No Variant	2021-01-28 — 21:35:32 UTC	dmigor3, Kowalski1337	24	5	25
+417897	2	0	No Variant	2021-01-28 — 21:28:50 UTC	dmigor3, Kowalski1337	24	5	25
+417889	2	25	No Variant	2021-01-28 — 21:23:54 UTC	dmigor3, Kowalski1337	24	5	25
+417884	2	25	No Variant	2021-01-28 — 21:19:14 UTC	dmigor3, Kowalski1337	24	5	25
+417880	2	0	No Variant	2021-01-28 — 21:15:01 UTC	dmigor3, Kowalski1337	24	5	25
+417877	2	22	No Variant	2021-01-28 — 21:12:44 UTC	dmigor3, Kowalski1337	24	5	25
+417874	2	21	No Variant	2021-01-28 — 21:08:45 UTC	dmigor3, Kowalski1337	24	5	25
+417870	2	23	No Variant	2021-01-28 — 21:05:04 UTC	dmigor3, Kowalski1337	23	5	25
+417861	2	0	No Variant	2021-01-28 — 21:00:09 UTC	dmigor3, Kowalski1337	23	5	25
+417858	2	0	No Variant	2021-01-28 — 20:57:58 UTC	dmigor3, Kowalski1337	23	5	25
+417856	2	0	No Variant	2021-01-28 — 20:55:42 UTC	dmigor3, Kowalski1337	23	5	25
+417854	2	0	No Variant	2021-01-28 — 20:55:19 UTC	dmigor3, Kowalski1337	24	5	25
+417852	2	0	No Variant	2021-01-28 — 20:53:10 UTC	dmigor3, Kowalski1337	23	5	25
+417850	2	0	No Variant	2021-01-28 — 20:51:08 UTC	dmigor3, Kowalski1337	23	5	25
+417841	2	25	No Variant	2021-01-28 — 20:45:39 UTC	dmigor3, Kowalski1337	24	5	25
+417835	2	25	No Variant	2021-01-28 — 20:39:54 UTC	dmigor3, Kowalski1337	23	5	25
+402394	2	0	No Variant	2021-01-13 — 21:57:39 UTC	dmigor3, Kowalski1337	55	5	25
+402386	2	0	No Variant	2021-01-13 — 21:52:52 UTC	dmigor3, Kowalski1337	55	5	25
+402380	2	0	No Variant	2021-01-13 — 21:48:37 UTC	dmigor3, Kowalski1337	55	5	25
+402376	2	25	No Variant	2021-01-13 — 21:44:53 UTC	dmigor3, Kowalski1337	55	5	25
+402368	2	25	No Variant	2021-01-13 — 21:40:19 UTC	dmigor3, Kowalski1337	56	5	25
+402364	2	0	No Variant	2021-01-13 — 21:36:10 UTC	dmigor3, Kowalski1337	55	5	25
+402353	2	0	No Variant	2021-01-13 — 21:31:21 UTC	dmigor3, Kowalski1337	56	5	25
+402349	2	25	No Variant	2021-01-13 — 21:27:26 UTC	dmigor3, Kowalski1337	56	5	25
+402345	2	25	No Variant	2021-01-13 — 21:23:04 UTC	dmigor3, Kowalski1337	55	5	25
+402340	2	25	No Variant	2021-01-13 — 21:19:24 UTC	dmigor3, Kowalski1337	58	5	25
+402331	2	0	No Variant	2021-01-13 — 21:15:13 UTC	dmigor3, Kowalski1337	60	5	25
+402330	2	0	No Variant	2021-01-13 — 21:15:04 UTC	dmigor3, Kowalski1337	61	5	25
+402326	2	0	No Variant	2021-01-13 — 21:13:23 UTC	dmigor3, Kowalski1337	62	5	25
+402323	2	0	No Variant	2021-01-13 — 21:12:17 UTC	dmigor3, Kowalski1337	62	5	25
+402322	2	0	No Variant	2021-01-13 — 21:10:55 UTC	dmigor3, Kowalski1337	62	5	25
+402316	2	0	No Variant	2021-01-13 — 21:07:45 UTC	dmigor3, Kowalski1337	63	5	25
+402312	2	25	No Variant	2021-01-13 — 21:07:03 UTC	dmigor3, Kowalski1337	62	5	25
+402309	2	0	No Variant	2021-01-13 — 21:04:10 UTC	dmigor3, Kowalski1337	63	5	25
+402306	2	0	No Variant	2021-01-13 — 21:01:06 UTC	dmigor3, Kowalski1337	63	5	25
+402305	2	0	No Variant	2021-01-13 — 20:59:59 UTC	dmigor3, Kowalski1337	64	5	25
+390485	2	0	No Variant	2021-01-02 — 19:28:33 UTC	dmigor3, Kowalski1337	74	5	25
+390483	2	0	No Variant	2021-01-02 — 19:24:40 UTC	dmigor3, Kowalski1337	75	5	25
+390479	2	25	No Variant	2021-01-02 — 19:19:04 UTC	dmigor3, Kowalski1337	75	5	25
+390476	2	25	No Variant	2021-01-02 — 19:14:48 UTC	dmigor3, Kowalski1337	77	5	25
+390472	2	25	No Variant	2021-01-02 — 19:10:10 UTC	dmigor3, Kowalski1337	78	5	25
+390468	2	0	No Variant	2021-01-02 — 19:07:09 UTC	dmigor3, Kowalski1337	78	5	25
+390466	2	0	No Variant	2021-01-02 — 19:02:14 UTC	dmigor3, Kowalski1337	77	5	25
+390465	2	0	No Variant	2021-01-02 — 19:01:16 UTC	dmigor3, Kowalski1337	78	5	25
+390460	2	0	No Variant	2021-01-02 — 19:00:03 UTC	dmigor3, Kowalski1337	77	5	25
+390459	2	0	No Variant	2021-01-02 — 18:58:46 UTC	dmigor3, Kowalski1337	77	5	25
+390458	2	0	No Variant	2021-01-02 — 18:57:47 UTC	dmigor3, Kowalski1337	78	5	25
+390450	2	0	No Variant	2021-01-02 — 18:52:53 UTC	dmigor3, Kowalski1337	77	5	25
+390446	2	25	No Variant	2021-01-02 — 18:48:23 UTC	dmigor3, Kowalski1337	77	5	25
+390441	2	0	No Variant	2021-01-02 — 18:43:51 UTC	dmigor3, Kowalski1337	80	5	25
+390432	2	0	No Variant	2021-01-02 — 18:38:05 UTC	dmigor3, Kowalski1337	81	5	25
+390427	2	25	No Variant	2021-01-02 — 18:31:48 UTC	dmigor3, Kowalski1337	79	5	25
+390424	2	25	No Variant	2021-01-02 — 18:26:32 UTC	dmigor3, Kowalski1337	79	5	25
+390417	2	25	No Variant	2021-01-02 — 18:19:13 UTC	dmigor3, Kowalski1337	81	5	25
+390411	2	25	No Variant	2021-01-02 — 18:13:40 UTC	dmigor3, Kowalski1337	80	5	25
+390409	2	0	No Variant	2021-01-02 — 18:10:34 UTC	dmigor3, Kowalski1337	84	5	25
+390407	2	0	No Variant	2021-01-02 — 18:08:21 UTC	dmigor3, Kowalski1337	84	5	25
+390404	2	25	No Variant	2021-01-02 — 18:06:19 UTC	dmigor3, Kowalski1337	85	5	25
+390402	2	25	No Variant	2021-01-02 — 17:59:56 UTC	dmigor3, Kowalski1337	85	5	25
+390397	2	0	No Variant	2021-01-02 — 17:55:41 UTC	dmigor3, Kowalski1337	85	5	25
+389711	2	24	No Variant	2021-01-01 — 23:45:00 UTC	dmigor3, Kowalski1337	86	5	25
+389699	2	25	No Variant	2021-01-01 — 23:37:36 UTC	dmigor3, Kowalski1337	86	5	25
+389693	2	0	No Variant	2021-01-01 — 23:32:46 UTC	dmigor3, Kowalski1337	86	5	25
+389690	2	24	No Variant	2021-01-01 — 23:28:37 UTC	dmigor3, Kowalski1337	86	5	25
+389684	2	25	No Variant	2021-01-01 — 23:21:45 UTC	dmigor3, Kowalski1337	87	5	25
+389681	2	0	No Variant	2021-01-01 — 23:17:25 UTC	dmigor3, Kowalski1337	88	5	25
+389679	2	0	No Variant	2021-01-01 — 23:16:57 UTC	dmigor3, Kowalski1337	90	5	25
+389675	2	0	No Variant	2021-01-01 — 23:14:40 UTC	dmigor3, Kowalski1337	90	5	25
+389673	2	24	No Variant	2021-01-01 — 23:12:03 UTC	dmigor3, Kowalski1337	90	5	25
+389669	2	25	No Variant	2021-01-01 — 23:07:53 UTC	dmigor3, Kowalski1337	90	5	25
+389665	2	0	No Variant	2021-01-01 — 23:02:57 UTC	dmigor3, Kowalski1337	91	5	25
+389662	2	0	No Variant	2021-01-01 — 23:00:42 UTC	dmigor3, Kowalski1337	92	5	25
+389657	2	25	No Variant	2021-01-01 — 22:57:36 UTC	dmigor3, Kowalski1337	93	5	25
+389653	2	25	No Variant	2021-01-01 — 22:52:18 UTC	dmigor3, Kowalski1337	92	5	25
+389649	2	0	No Variant	2021-01-01 — 22:48:51 UTC	dmigor3, Kowalski1337	92	5	25
+389647	2	24	No Variant	2021-01-01 — 22:47:50 UTC	dmigor3, Kowalski1337	93	5	25
+389645	2	25	No Variant	2021-01-01 — 22:41:33 UTC	dmigor3, Kowalski1337	93	5	25
+389640	2	25	No Variant	2021-01-01 — 22:36:08 UTC	dmigor3, Kowalski1337	96	5	25
+389635	2	25	No Variant	2021-01-01 — 22:32:36 UTC	dmigor3, Kowalski1337	96	5	25
+389632	2	0	No Variant	2021-01-01 — 22:28:00 UTC	dmigor3, Kowalski1337	96	5	25
+389630	2	0	No Variant	2021-01-01 — 22:26:28 UTC	dmigor3, Kowalski1337	97	5	25
+389624	2	24	No Variant	2021-01-01 — 22:18:24 UTC	dmigor3, Kowalski1337	97	5	25
+389620	2	25	No Variant	2021-01-01 — 22:13:30 UTC	dmigor3, Kowalski1337	98	5	25
+389616	2	0	No Variant	2021-01-01 — 22:09:19 UTC	dmigor3, Kowalski1337	99	5	25
+389612	2	0	No Variant	2021-01-01 — 22:07:01 UTC	dmigor3, Kowalski1337	100	5	25
+389607	2	25	No Variant	2021-01-01 — 22:04:34 UTC	dmigor3, Kowalski1337	101	5	25
+389604	2	25	No Variant	2021-01-01 — 22:01:09 UTC	dmigor3, Kowalski1337	102	5	25
+389603	2	25	No Variant	2021-01-01 — 21:57:49 UTC	dmigor3, Kowalski1337	101	5	25
+389412	2	0	No Variant	2021-01-01 — 17:29:40 UTC	dmigor3, Kowalski1337	101	5	25
+389411	2	0	No Variant	2021-01-01 — 17:28:28 UTC	dmigor3, Kowalski1337	104	5	25
+389408	2	25	No Variant	2021-01-01 — 17:25:27 UTC	dmigor3, Kowalski1337	106	5	25
+389403	2	25	No Variant	2021-01-01 — 17:14:19 UTC	dmigor3, Kowalski1337	108	5	25
+389401	2	25	No Variant	2021-01-01 — 17:09:26 UTC	dmigor3, Kowalski1337	109	5	25
+389397	2	23	No Variant	2021-01-01 — 17:04:39 UTC	dmigor3, Kowalski1337	109	5	25
+389392	2	25	No Variant	2021-01-01 — 17:00:47 UTC	dmigor3, Kowalski1337	108	5	25
+389389	2	0	No Variant	2021-01-01 — 16:56:02 UTC	dmigor3, Kowalski1337	108	5	25
+389387	2	25	No Variant	2021-01-01 — 16:51:52 UTC	dmigor3, Kowalski1337	109	5	25
+387265	2	25	No Variant	2020-12-30 — 15:30:58 UTC	dmigor3, Kowalski1337	117	5	25
+387263	2	25	No Variant	2020-12-30 — 15:25:23 UTC	dmigor3, Kowalski1337	119	5	25
+387258	2	23	No Variant	2020-12-30 — 15:18:47 UTC	dmigor3, Kowalski1337	121	5	25
+387254	2	25	No Variant	2020-12-30 — 15:10:02 UTC	dmigor3, Kowalski1337	124	5	25
+387253	2	25	No Variant	2020-12-30 — 15:03:37 UTC	dmigor3, Kowalski1337	124	5	25
+387251	2	25	No Variant	2020-12-30 — 14:59:08 UTC	dmigor3, Kowalski1337	125	5	25
+387249	2	0	No Variant	2020-12-30 — 14:55:32 UTC	dmigor3, Kowalski1337	125	5	25
+387248	2	23	No Variant	2020-12-30 — 14:51:23 UTC	dmigor3, Kowalski1337	125	5	25
+387246	2	0	No Variant	2020-12-30 — 14:44:36 UTC	dmigor3, Kowalski1337	126	5	25
+387245	2	0	No Variant	2020-12-30 — 14:41:29 UTC	dmigor3, Kowalski1337	126	5	25
+387244	2	0	No Variant	2020-12-30 — 14:38:50 UTC	dmigor3, Kowalski1337	128	5	25
+387242	2	25	No Variant	2020-12-30 — 14:35:03 UTC	dmigor3, Kowalski1337	132	5	25
+387241	2	0	No Variant	2020-12-30 — 14:31:24 UTC	dmigor3, Kowalski1337	133	5	25
+387240	2	0	No Variant	2020-12-30 — 14:30:01 UTC	dmigor3, Kowalski1337	135	5	25
+387239	2	25	No Variant	2020-12-30 — 14:27:32 UTC	dmigor3, Kowalski1337	138	5	25
+387237	2	0	No Variant	2020-12-30 — 14:21:07 UTC	dmigor3, Kowalski1337	139	5	25
+387236	2	25	No Variant	2020-12-30 — 14:18:18 UTC	dmigor3, Kowalski1337	139	5	25
+387233	2	23	No Variant	2020-12-30 — 14:13:00 UTC	dmigor3, Kowalski1337	139	5	25
+387231	2	25	No Variant	2020-12-30 — 14:07:27 UTC	dmigor3, Kowalski1337	142	5	25
+387230	2	0	No Variant	2020-12-30 — 14:03:05 UTC	dmigor3, Kowalski1337	145	5	25
+387229	2	25	No Variant	2020-12-30 — 14:00:17 UTC	dmigor3, Kowalski1337	149	5	25
+387226	2	0	No Variant	2020-12-30 — 13:56:24 UTC	dmigor3, Kowalski1337	152	5	25
+387225	2	0	No Variant	2020-12-30 — 13:53:20 UTC	dmigor3, Kowalski1337	152	5	25
+387224	2	24	No Variant	2020-12-30 — 13:52:33 UTC	dmigor3, Kowalski1337	151	5	25
+387221	2	25	No Variant	2020-12-30 — 13:47:27 UTC	dmigor3, Kowalski1337	151	5	25
+387219	2	0	No Variant	2020-12-30 — 13:41:36 UTC	dmigor3, Kowalski1337	152	5	25
+385185	3	25	No Variant	2020-12-28 — 19:08:28 UTC	dmigor3, Feich59, Kowalski1337	243	5	25
+385179	3	0	No Variant	2020-12-28 — 18:59:35 UTC	dmigor3, Feich59, Kowalski1337	250	5	25
+385168	3	0	No Variant	2020-12-28 — 18:52:31 UTC	dmigor3, Feich59, Kowalski1337	259	5	25
+385163	3	0	No Variant	2020-12-28 — 18:44:56 UTC	dmigor3, Feich59, Kowalski1337	269	5	25
+385160	2	0	No Variant	2020-12-28 — 18:40:08 UTC	dmigor3, Kowalski1337	181	5	25
+385159	2	0	No Variant	2020-12-28 — 18:37:16 UTC	dmigor3, Kowalski1337	180	5	25
+385154	3	0	No Variant	2020-12-28 — 18:28:21 UTC	dmigor3, Feich59, Kowalski1337	275	5	25
+385150	3	0	No Variant	2020-12-28 — 18:25:00 UTC	dmigor3, Feich59, Kowalski1337	285	5	25
+385144	3	25	No Variant	2020-12-28 — 18:18:25 UTC	dmigor3, Feich59, Kowalski1337	307	5	25
+385137	3	0	No Variant	2020-12-28 — 18:08:32 UTC	dmigor3, Feich59, Kowalski1337	320	5	25
+385130	3	0	No Variant	2020-12-28 — 18:02:10 UTC	dmigor3, Feich59, Kowalski1337	324	5	25
+385127	3	0	No Variant	2020-12-28 — 17:58:59 UTC	dmigor3, Feich59, Kowalski1337	344	5	25
+385125	2	0	No Variant	2020-12-28 — 17:58:04 UTC	dmigor3, Kowalski1337	179	5	25
+385124	2	0	No Variant	2020-12-28 — 17:56:44 UTC	dmigor3, Kowalski1337	181	5	25
+385120	2	25	No Variant	2020-12-28 — 17:55:08 UTC	dmigor3, Kowalski1337	185	5	25
+385115	2	0	No Variant	2020-12-28 — 17:46:37 UTC	dmigor3, Kowalski1337	184	5	25
+385112	2	0	No Variant	2020-12-28 — 17:42:44 UTC	dmigor3, Kowalski1337	182	5	25
+385105	2	0	No Variant	2020-12-28 — 17:37:31 UTC	dmigor3, Kowalski1337	186	5	25
+385047	2	0	No Variant	2020-12-28 — 15:49:32 UTC	dmigor3, Kowalski1337	187	5	25
+385043	2	25	No Variant	2020-12-28 — 15:43:07 UTC	dmigor3, Kowalski1337	191	5	25
+385039	2	25	No Variant	2020-12-28 — 15:36:00 UTC	dmigor3, Kowalski1337	195	5	25
+385036	2	0	No Variant	2020-12-28 — 15:30:34 UTC	dmigor3, Kowalski1337	194	5	25
+385034	2	0	No Variant	2020-12-28 — 15:26:44 UTC	dmigor3, Kowalski1337	196	5	25
+385029	2	25	No Variant	2020-12-28 — 15:20:32 UTC	dmigor3, Kowalski1337	194	5	25
+385026	2	25	No Variant	2020-12-28 — 15:15:07 UTC	dmigor3, Kowalski1337	201	5	25
+385018	2	25	No Variant	2020-12-28 — 15:06:20 UTC	dmigor3, Kowalski1337	201	5	25
+385014	2	0	No Variant	2020-12-28 — 15:00:42 UTC	dmigor3, Kowalski1337	207	5	25
+385009	2	0	No Variant	2020-12-28 — 14:54:14 UTC	dmigor3, Kowalski1337	207	5	25
+385008	2	25	No Variant	2020-12-28 — 14:51:04 UTC	dmigor3, Kowalski1337	211	5	25
+385004	2	25	No Variant	2020-12-28 — 14:46:06 UTC	dmigor3, Kowalski1337	212	5	25
+385000	2	25	No Variant	2020-12-28 — 14:37:51 UTC	dmigor3, Kowalski1337	215	5	25
+384996	2	0	No Variant	2020-12-28 — 14:31:17 UTC	dmigor3, Kowalski1337	220	5	25
+384993	2	25	No Variant	2020-12-28 — 14:26:45 UTC	dmigor3, Kowalski1337	220	5	25
+384987	2	22	No Variant	2020-12-28 — 14:19:47 UTC	dmigor3, Kowalski1337	225	5	25
+384984	2	23	No Variant	2020-12-28 — 14:09:59 UTC	dmigor3, Kowalski1337	228	5	25
+384979	2	0	No Variant	2020-12-28 — 14:02:46 UTC	dmigor3, Kowalski1337	231	5	25
+384978	2	0	No Variant	2020-12-28 — 14:01:34 UTC	dmigor3, Kowalski1337	244	5	25
+384975	2	25	No Variant	2020-12-28 — 13:56:49 UTC	dmigor3, Kowalski1337	249	5	25
+381027	2	0	No Variant	2020-12-24 — 19:34:04 UTC	dmigor3, Kowalski1337	303	5	25
+381022	2	0	No Variant	2020-12-24 — 19:27:52 UTC	dmigor3, Kowalski1337	496	5	25
+381021	2	0	No Variant	2020-12-24 — 19:23:26 UTC	dmigor3, Kowalski1337	506	5	25
+381018	2	0	No Variant	2020-12-24 — 19:20:04 UTC	dmigor3, Kowalski1337	513	5	25
+381014	2	0	No Variant	2020-12-24 — 19:12:01 UTC	dmigor3, Kowalski1337	526	5	25
+381010	2	0	No Variant	2020-12-24 — 19:04:14 UTC	dmigor3, Kowalski1337	534	5	25
+381005	2	0	No Variant	2020-12-24 — 18:58:16 UTC	dmigor3, Kowalski1337	548	5	25
+381000	2	0	No Variant	2020-12-24 — 18:53:15 UTC	dmigor3, Kowalski1337	581	5	25
+380998	2	0	No Variant	2020-12-24 — 18:48:51 UTC	dmigor3, Kowalski1337	593	5	25
+380997	2	0	No Variant	2020-12-24 — 18:48:36 UTC	dmigor3, Kowalski1337	597	5	25
+380994	2	24	No Variant	2020-12-24 — 18:47:47 UTC	dmigor3, Kowalski1337	626	5	25
+380990	2	24	No Variant	2020-12-24 — 18:41:03 UTC	dmigor3, Kowalski1337	654	5	25
+380987	2	0	No Variant	2020-12-24 — 18:37:13 UTC	dmigor3, Kowalski1337	677	5	25
+380983	2	23	No Variant	2020-12-24 — 18:34:17 UTC	dmigor3, Kowalski1337	699	5	25
+380977	2	0	No Variant	2020-12-24 — 18:29:34 UTC	dmigor3, Kowalski1337	1117	5	25
+380975	2	25	No Variant	2020-12-24 — 18:26:51 UTC	dmigor3, Kowalski1337	1148	5	25
+380971	2	25	No Variant	2020-12-24 — 18:22:43 UTC	dmigor3, Kowalski1337	1532	5	25
+380968	2	0	No Variant	2020-12-24 — 18:17:48 UTC	dmigor3, Kowalski1337	1621	5	25
+380966	2	0	No Variant	2020-12-24 — 18:14:42 UTC	dmigor3, Kowalski1337	1703	5	25
+380964	2	25	No Variant	2020-12-24 — 18:13:24 UTC	dmigor3, Kowalski1337	1840	5	25
+380957	2	0	No Variant	2020-12-24 — 18:06:17 UTC	dmigor3, Kowalski1337	1952	5	25
+351050	5	18	Brown (4 Suits)	2020-11-22 — 21:28:46 UTC	avanderwalde, dmigor3, Feich59, rkass, swineherd	4	4	20
+351025	5	18	Brown (4 Suits)	2020-11-22 — 21:08:27 UTC	avanderwalde, dmigor3, Feich59, rkass, swineherd	5	4	20
+350998	5	19	Brown (4 Suits)	2020-11-22 — 20:45:44 UTC	avanderwalde, dmigor3, Feich59, rkass, swineherd	7	4	20
+350973	5	0	Brown (4 Suits)	2020-11-22 — 20:23:38 UTC	avanderwalde, dmigor3, Feich59, rkass, swineherd	7	4	20
+343558	3	25	Up or Down (5 Suits)	2020-11-14 — 20:58:36 UTC	dmigor3, Feich59, Kowalski1337	42	5	25
+343524	3	0	Up or Down (5 Suits)	2020-11-14 — 20:31:05 UTC	dmigor3, Feich59, Kowalski1337	54	5	25
+343505	3	23	Up or Down (5 Suits)	2020-11-14 — 20:17:01 UTC	dmigor3, Feich59, Kowalski1337	57	5	25
+343466	3	0	Up or Down (5 Suits)	2020-11-14 — 19:50:12 UTC	dmigor3, Feich59, Kowalski1337	62	5	25
+343431	3	25	Rainbow & White (5 Suits)	2020-11-14 — 19:10:09 UTC	dmigor3, Feich59, Kowalski1337	37	5	25
+342659	4	24	Brown (5 Suits)	2020-11-13 — 23:03:49 UTC	dmigor3, Feich59, jack67889, rachyrules	27	5	25
+342576	5	0	Rainbow & Prism (5 Suits)	2020-11-13 — 22:30:26 UTC	dmigor3, ebin_noob, Feich59, jack67889, TimeHoodie	4	5	25
+342561	5	24	Rainbow & Prism (5 Suits)	2020-11-13 — 22:08:23 UTC	dmigor3, ebin_noob, Feich59, jack67889, TimeHoodie	5	5	25
+342552	4	25	Rainbow & Prism (5 Suits)	2020-11-13 — 21:49:12 UTC	dmigor3, Feich59, swineherd, TimeHoodie	5	5	25
+342529	4	0	Rainbow & Prism (5 Suits)	2020-11-13 — 21:27:07 UTC	dmigor3, Feich59, swineherd, TimeHoodie	9	5	25
+331423	3	0	Rainbow & White (3 Suits)	2020-10-30 — 21:13:20 UTC	dmigor3, Feich59, Kowalski1337	11	3	15
+331403	3	14	Rainbow & White (3 Suits)	2020-10-30 — 20:58:01 UTC	dmigor3, Feich59, Kowalski1337	25	3	15
+331379	3	15	White (3 Suits)	2020-10-30 — 20:37:04 UTC	dmigor3, Feich59, Kowalski1337	3	3	15
+331370	3	0	White (3 Suits)	2020-10-30 — 20:28:29 UTC	dmigor3, Feich59, Kowalski1337	4	3	15
+331367	3	0	Duck (5 Suits)	2020-10-30 — 20:24:53 UTC	dmigor3, Feich59, Kowalski1337	22	5	25
+331353	3	0	Duck (5 Suits)	2020-10-30 — 20:08:16 UTC	dmigor3, Feich59, Kowalski1337	25	5	25
+331318	3	0	Duck (5 Suits)	2020-10-30 — 19:32:48 UTC	dmigor3, Feich59, Kowalski1337	35	5	25
+331309	3	0	Duck (5 Suits)	2020-10-30 — 19:20:24 UTC	dmigor3, Feich59, Kowalski1337	52	5	25
+331308	2	25	No Variant	2020-10-30 — 19:17:59 UTC	dmigor3, Feich59	1376	5	25
+331296	2	0	No Variant	2020-10-30 — 19:05:23 UTC	dmigor3, Feich59	1448	5	25
+331293	2	0	Duck (5 Suits)	2020-10-30 — 18:59:50 UTC	dmigor3, Feich59	41	5	25
+331292	2	0	Duck (5 Suits)	2020-10-30 — 18:55:24 UTC	dmigor3, Feich59	63	5	25
+322338	3	15	Prism (3 Suits)	2020-10-17 — 19:12:08 UTC	dmigor3, Kowalski1337, wump	32	3	15
+322317	3	15	Rainbow (3 Suits)	2020-10-17 — 18:47:28 UTC	dmigor3, Kowalski1337, wump	71	3	15
+322290	4	0	Prism (3 Suits)	2020-10-17 — 18:18:10 UTC	CStryker, dmigor3, Kowalski1337, will.i.am	5	3	15
+321803	3	0	White (3 Suits)	2020-10-16 — 23:26:56 UTC	dmigor3, Feich59, Kowalski1337	6	3	15
+321796	3	14	White (3 Suits)	2020-10-16 — 23:10:33 UTC	dmigor3, Feich59, Kowalski1337	10	3	15
+321789	3	14	White (3 Suits)	2020-10-16 — 22:55:30 UTC	dmigor3, Feich59, Kowalski1337	14	3	15
+321783	3	0	White (3 Suits)	2020-10-16 — 22:35:46 UTC	dmigor3, Feich59, Kowalski1337	16	3	15
+321751	3	0	Brown (5 Suits)	2020-10-16 — 21:25:56 UTC	dmigor3, DMoney, Kowalski1337	16	5	25
+321730	3	0	Brown (5 Suits)	2020-10-16 — 20:56:07 UTC	dmigor3, DMoney, Kowalski1337	17	5	25
+321713	3	0	Brown (5 Suits)	2020-10-16 — 20:39:47 UTC	dmigor3, DMoney, Kowalski1337	17	5	25
+321682	3	24	Brown (5 Suits)	2020-10-16 — 20:07:55 UTC	dmigor3, DMoney, Kowalski1337	20	5	25
+321647	3	15	White (3 Suits)	2020-10-16 — 19:21:47 UTC	dmigor3, DMoney, Kowalski1337	22	3	15
+311952	3	14	White (3 Suits)	2020-10-03 — 17:29:38 UTC	dmigor3, Feich59, Kowalski1337	26	3	15
+311941	3	14	White (3 Suits)	2020-10-03 — 17:12:35 UTC	dmigor3, Feich59, Kowalski1337	29	3	15
+311933	3	0	White (3 Suits)	2020-10-03 — 16:59:20 UTC	dmigor3, Feich59, Kowalski1337	30	3	15
+311926	3	0	White (3 Suits)	2020-10-03 — 16:51:35 UTC	dmigor3, Feich59, Kowalski1337	45	3	15
+311916	3	15	3 Suits	2020-10-03 — 16:36:19 UTC	dmigor3, Feich59, Kowalski1337	74	3	15
+311911	3	14	3 Suits	2020-10-03 — 16:23:10 UTC	dmigor3, Feich59, Kowalski1337	88	3	15
+311904	3	0	3 Suits	2020-10-03 — 16:08:36 UTC	dmigor3, Feich59, Kowalski1337	115	3	15
+311898	3	0	3 Suits	2020-10-03 — 15:54:55 UTC	dmigor3, Feich59, Kowalski1337	144	3	15
+311882	3	0	Black (5 Suits)	2020-10-03 — 15:20:48 UTC	dmigor3, Feich59, Kowalski1337	92	5	25
+311868	3	0	Black (5 Suits)	2020-10-03 — 15:00:44 UTC	dmigor3, Feich59, Kowalski1337	101	5	25
+311864	3	0	Black (5 Suits)	2020-10-03 — 14:48:47 UTC	dmigor3, Feich59, Kowalski1337	119	5	25
+311860	3	0	Black (5 Suits)	2020-10-03 — 14:36:56 UTC	dmigor3, Feich59, Kowalski1337	134	5	25
+307774	3	21	Dark Rainbow (5 Suits)	2020-09-27 — 21:08:07 UTC	dmigor3, Feich59, Kowalski1337	48	5	25
+307751	3	0	Dark Rainbow (5 Suits)	2020-09-27 — 20:31:51 UTC	dmigor3, Feich59, Kowalski1337	52	5	25
+307740	3	25	Brown (5 Suits)	2020-09-27 — 20:04:24 UTC	dmigor3, Feich59, Kowalski1337	23	5	25
+306374	4	24	Rainbow (5 Suits)	2020-09-25 — 22:40:58 UTC	arnino, dmigor3, kevincaseytdk1, Kowalski1337	63	5	25
+306332	4	27	Brown (6 Suits)	2020-09-25 — 21:38:19 UTC	dmigor3, kevincaseytdk1, Kowalski1337, rachyrules	27	6	30
+306305	3	23	Rainbow (5 Suits)	2020-09-25 — 20:49:10 UTC	dmigor3, Feich59, Kowalski1337	50	5	25
+304914	3	25	6 Suits	2020-09-23 — 21:51:20 UTC	dmigor3, Kowalski1337, tilacyn	99	6	30
+304871	3	28	6 Suits	2020-09-23 — 20:49:46 UTC	dmigor3, Kowalski1337, tilacyn	112	6	30
+303456	3	25	Brown (5 Suits)	2020-09-21 — 19:19:06 UTC	dmigor3, Feich59, Kowalski1337	25	5	25
+303441	3	0	Brown (5 Suits)	2020-09-21 — 18:53:47 UTC	dmigor3, Feich59, Kowalski1337	31	5	25
+303424	3	0	Brown (5 Suits)	2020-09-21 — 18:31:11 UTC	dmigor3, Feich59, Kowalski1337	38	5	25
+300902	5	25	White (5 Suits)	2020-09-18 — 20:45:23 UTC	darnley, dmigor3, Eugene, Kowalski1337, kunyavskiy	37	5	25
+300873	4	0	Rainbow (5 Suits)	2020-09-18 — 20:19:23 UTC	darnley, dmigor3, Eugene, Kowalski1337	92	5	25
+298460	3	0	Brown (5 Suits)	2020-09-15 — 22:27:02 UTC	dmigor3, Feich59, Kowalski1337	39	5	25
+298440	3	24	Brown (5 Suits)	2020-09-15 — 21:50:18 UTC	dmigor3, Feich59, Kowalski1337	63	5	25
+297674	3	23	Brown (5 Suits)	2020-09-14 — 20:45:26 UTC	dmigor3, Feich59, Kowalski1337	79	5	25
+297638	3	0	Prism (5 Suits)	2020-09-14 — 20:10:09 UTC	dmigor3, Feich59, Kowalski1337	22	5	25
+297631	3	0	Prism (5 Suits)	2020-09-14 — 20:03:34 UTC	dmigor3, Feich59, Kowalski1337	38	5	25
+297606	3	23	Prism (5 Suits)	2020-09-14 — 19:36:38 UTC	dmigor3, Feich59, Kowalski1337	45	5	25
+297578	3	0	Prism (5 Suits)	2020-09-14 — 18:58:20 UTC	dmigor3, Feich59, Kowalski1337	80	5	25
+296777	3	25	Rainbow (5 Suits)	2020-09-13 — 19:21:03 UTC	dmigor3, Kowalski1337, rcaseyatbat	74	5	25
+295963	3	24	Rainbow (5 Suits)	2020-09-12 — 18:57:12 UTC	dmigor3, Feich59, Kowalski1337	84	5	25
+295935	2	0	White (6 Suits)	2020-09-12 — 18:23:46 UTC	dmigor3, Kowalski1337	184	6	30
+293559	3	25	No Variant	2020-09-09 — 21:17:05 UTC	dmigor3, Feich59, Kowalski1337	15	5	25
+293526	3	24	No Variant	2020-09-09 — 20:31:44 UTC	dmigor3, Feich59, Kowalski1337	16	5	25
+293490	3	25	No Variant	2020-09-09 — 19:44:35 UTC	dmigor3, Feich59, Kowalski1337	18	5	25
+293421	3	23	No Variant	2020-09-09 — 18:19:42 UTC	dmigor3, Feich59, Kowalski1337	19	5	25
+291917	3	24	Rainbow (5 Suits)	2020-09-07 — 20:23:22 UTC	dmigor3, Feich59, Kowalski1337	185	5	25
+291872	3	30	Rainbow (6 Suits)	2020-09-07 — 19:30:49 UTC	dmigor3, Feich59, Kowalski1337	689	6	30
+291125	4	26	Prism (6 Suits)	2020-09-06 — 21:11:44 UTC	dmigor3, Feich59, newduke, rachyrules	35	6	30
+291098	3	30	Black (6 Suits)	2020-09-06 — 20:23:44 UTC	dmigor3, Feich59, rachyrules	149	6	30
+291010	4	25	Rainbow (5 Suits)	2020-09-06 — 19:44:49 UTC	Andrew_UK, dmigor3, Feich59, shootinglucky	68	5	25
+290924	4	30	White (6 Suits)	2020-09-06 — 19:11:25 UTC	Andrew_UK, dmigor3, Feich59, shootinglucky	60	6	30
+289938	3	0	White (6 Suits)	2020-09-05 — 17:18:26 UTC	dmigor3, Tiramisu1th, Veexliat	70	6	30
+289924	4	26	Black (6 Suits)	2020-09-05 — 16:55:03 UTC	dmigor3, Kowalski1337, Tiramisu1th, Veexliat	112	6	30
+289902	3	29	Black (6 Suits)	2020-09-05 — 16:04:38 UTC	dmigor3, Kowalski1337, Tiramisu1th	325	6	30
+289000	3	28	Black (6 Suits)	2020-09-04 — 16:54:20 UTC	dmigor3, Feich59, Kowalski1337	159	6	30
+288981	3	0	Black (6 Suits)	2020-09-04 — 16:29:03 UTC	dmigor3, Feich59, Kowalski1337	172	6	30
+288977	3	25	Black (6 Suits)	2020-09-04 — 16:24:19 UTC	dmigor3, Feich59, Kowalski1337	193	6	30
+284824	3	29	Black (6 Suits)	2020-08-30 — 20:39:16 UTC	dmigor3, Feich59, Kowalski1337	213	6	30
+284803	2	27	Prism (6 Suits)	2020-08-30 — 20:12:33 UTC	dmigor3, Feich59	87	6	30
+284790	2	25	Prism (6 Suits)	2020-08-30 — 19:58:46 UTC	dmigor3, Feich59	112	6	30
+284775	3	0	Prism (6 Suits)	2020-08-30 — 19:41:48 UTC	dmigor3, Feich59, Kowalski1337	45	6	30
+284761	3	0	Prism (6 Suits)	2020-08-30 — 19:23:08 UTC	dmigor3, Feich59, Kowalski1337	60	6	30
+284747	3	0	Prism (6 Suits)	2020-08-30 — 18:56:38 UTC	dmigor3, Feich59, Kowalski1337	84	6	30
+284656	2	30	Black (6 Suits)	2020-08-30 — 12:36:22 UTC	dmigor3, Kowalski1337	391	6	30
+284652	2	0	Black (6 Suits)	2020-08-30 — 12:16:20 UTC	dmigor3, Kowalski1337	442	6	30
+284647	3	0	Black (6 Suits)	2020-08-30 — 11:45:17 UTC	dmigor3, Feich59, Kowalski1337	236	6	30
+284646	3	0	Black (6 Suits)	2020-08-30 — 11:17:29 UTC	dmigor3, Feich59, Kowalski	46	6	30
+283758	3	30	White (6 Suits)	2020-08-29 — 15:32:14 UTC	dmigor3, Feich59, sin_faith	27	6	30
+283749	3	0	White (6 Suits)	2020-08-29 — 14:52:21 UTC	dmigor3, Feich59, sin_faith	33	6	30
+283740	3	29	White (6 Suits)	2020-08-29 — 14:15:53 UTC	dmigor3, Feich59, sin_faith	37	6	30
+283731	2	30	Black (6 Suits)	2020-08-29 — 13:41:12 UTC	dmigor3, Feich59	546	6	30
+283726	2	0	Black (6 Suits)	2020-08-29 — 13:29:02 UTC	dmigor3, Feich59	643	6	30
+283708	2	22	No Variant	2020-08-29 — 12:33:17 UTC	dmigor3, Feich59	2288	5	25
+283691	3	0	Black (6 Suits)	2020-08-29 — 12:21:06 UTC	dmigor3, Feich59, Thittom	261	6	30
+282968	3	24	Black (6 Suits)	2020-08-28 — 22:36:58 UTC	dmigor3, Feich59, Kowalski	48	6	30
+282947	3	0	Black (6 Suits)	2020-08-28 — 22:07:28 UTC	dmigor3, Feich59, Kowalski	52	6	30
+282925	3	0	Black (6 Suits)	2020-08-28 — 21:43:22 UTC	dmigor3, Feich59, Kowalski	74	6	30
+282900	3	30	White (6 Suits)	2020-08-28 — 21:14:18 UTC	dmigor3, Feich59, Kowalski	101	6	30
+282876	3	0	White (6 Suits)	2020-08-28 — 20:43:24 UTC	dmigor3, Feich59, Kowalski	124	6	30
+282851	3	25	No Variant	2020-08-28 — 20:20:28 UTC	dmigor3, Feich59, Kowalski	375	5	25
+282831	5	0	Black (6 Suits)	2020-08-28 — 19:51:37 UTC	dmigor3, Feich59, Kowalski, newduke, willwin4sure	101	6	30
+282794	4	30	6 Suits	2020-08-28 — 19:10:54 UTC	dmigor3, Kowalski, newduke, willwin4sure	151	6	30
+278616	3	28	Black (6 Suits)	2020-08-23 — 18:12:17 UTC	dmigor3, Feich59, Kowalski1337	399	6	30
+277710	3	29	6 Suits	2020-08-22 — 21:04:34 UTC	darnley, dmigor3, Kowalski1337	147	6	30
+277670	3	30	6 Suits	2020-08-22 — 20:03:15 UTC	darnley, dmigor3, Kowalski1337	252	6	30
+277617	2	25	No Variant	2020-08-22 — 18:50:20 UTC	dmigor3, Kowalski1337	2532	5	25
+277602	2	0	No Variant	2020-08-22 — 18:28:26 UTC	dmigor3, Kowalski1337	2750	5	25
+277588	2	24	No Variant	2020-08-22 — 18:10:19 UTC	dmigor3, Kowalski1337	3051	5	25
+275887	3	30	6 Suits	2020-08-20 — 19:59:14 UTC	dmigor3, Feich59, IsabeltheCat	168	6	30
+275861	3	0	6 Suits	2020-08-20 — 19:15:45 UTC	dmigor3, Feich59, IsabeltheCat	196	6	30
+275836	3	27	6 Suits	2020-08-20 — 18:27:56 UTC	dmigor3, Feich59, timotree	305	6	30
+275809	3	0	6 Suits	2020-08-20 — 17:50:12 UTC	dmigor3, Feich59, timotree	365	6	30
+265625	2	23	No Variant	2020-08-08 — 23:22:11 UTC	dmigor3, Kowalski1337	3507	5	25
+261838	5	0	No Variant	2020-08-04 — 21:46:59 UTC	AnalSex, andymiller73, dmigor3, ivan0vmp, silvery_moon	1119	5	25
+255473	3	23	No Variant	2020-07-29 — 21:22:40 UTC	dmigor3, Feich59, Kowalski1337	1465	5	25
+255411	5	24	No Variant	2020-07-29 — 20:07:30 UTC	bartosh, dmigor3, Feich59, Gey_Boris_, Kowalski1337	1510	5	25
+255384	5	22	No Variant	2020-07-29 — 19:25:10 UTC	bartosh, dmigor3, Feich59, Gey_Boris_, Kowalski1337	1995	5	25
+255375	4	0	No Variant	2020-07-29 — 18:47:09 UTC	bartosh, dmigor3, gey_boris, Kowalski1337	3581	5	25
+251082	3	25	No Variant	2020-07-25 — 22:01:07 UTC	dmigor3, Feich59, Kowalski1337	1636	5	25
+251063	3	0	No Variant	2020-07-25 — 21:41:49 UTC	dmigor3, Feich59, Kowalski1337	1881	5	25
+251046	3	24	No Variant	2020-07-25 — 21:29:02 UTC	dmigor3, Feich59, Kowalski1337	2163	5	25
+251007	3	24	No Variant	2020-07-25 — 20:40:32 UTC	dmigor3, Feich59, Kowalski1337	2606	5	25
+250940	2	0	No Variant	2020-07-25 — 19:48:27 UTC	dmigor3, Feich59	4109	5	25
+250834	3	24	No Variant	2020-07-25 — 17:34:01 UTC	dmigor3, Feich59, Kowalski1337	3260	5	25
+250795	3	24	No Variant	2020-07-25 — 16:48:06 UTC	dmigor3, Feich59, Kowalski1337	4221	5	25
+225939	3	0	No Variant	2020-07-01 — 23:23:57 UTC	dmigor3, Feich, Kowalski	386	5	25
+225881	3	23	No Variant	2020-07-01 — 22:15:21 UTC	dmigor3, Feich, Kowalski	411	5	25
+208868	3	25	No Variant	2020-06-16 — 20:58:25 UTC	dmigor3, Feich, Kowalski	451	5	25
+208812	3	25	No Variant	2020-06-16 — 20:06:26 UTC	dmigor3, Feich, Kowalski	459	5	25
+208781	3	24	No Variant	2020-06-16 — 19:21:18 UTC	dmigor3, Feich, Kowalski	485	5	25
+204069	3	24	No Variant	2020-06-12 — 21:38:51 UTC	dmigor3, Feich, Kowalski	516	5	25

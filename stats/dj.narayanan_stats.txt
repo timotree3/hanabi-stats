@@ -1,0 +1,2000 @@
+511605	3	25	Alternating Clues (5 Suits)	2021-04-24 — 21:54:08 UTC	ATrueZen, dj.narayanan, InfernoSnowman	9	5	25
+511585	3	0	Alternating Clues (5 Suits)	2021-04-24 — 21:31:14 UTC	ATrueZen, dj.narayanan, InfernoSnowman	13	5	25
+511574	3	0	Alternating Clues (5 Suits)	2021-04-24 — 21:16:28 UTC	ATrueZen, dj.narayanan, InfernoSnowman	24	5	25
+510371	2	0	Prism Reversed (6 Suits)	2021-04-23 — 17:26:36 UTC	ATrueZen, dj.narayanan	2	6	30
+510369	2	0	Prism Reversed (6 Suits)	2021-04-23 — 17:26:02 UTC	ATrueZen, dj.narayanan	2	6	30
+510367	2	0	Prism Reversed (6 Suits)	2021-04-23 — 17:24:23 UTC	ATrueZen, dj.narayanan	2	6	30
+510366	2	0	Prism Reversed (6 Suits)	2021-04-23 — 17:24:13 UTC	ATrueZen, dj.narayanan	2	6	30
+510365	2	0	Prism Reversed (6 Suits)	2021-04-23 — 17:20:55 UTC	ATrueZen, dj.narayanan	3	6	30
+510364	2	0	Prism Reversed (6 Suits)	2021-04-23 — 17:20:51 UTC	ATrueZen, dj.narayanan	4	6	30
+510362	2	0	Prism Reversed (6 Suits)	2021-04-23 — 17:19:01 UTC	ATrueZen, dj.narayanan	5	6	30
+510360	2	0	Prism Reversed (6 Suits)	2021-04-23 — 17:17:40 UTC	ATrueZen, dj.narayanan	5	6	30
+510359	2	0	Prism Reversed (6 Suits)	2021-04-23 — 17:16:29 UTC	ATrueZen, dj.narayanan	7	6	30
+510357	2	25	Rainbow & Dark Omni (5 Suits)	2021-04-23 — 17:11:19 UTC	ATrueZen, dj.narayanan	9	5	25
+510348	2	0	Rainbow & Dark Omni (5 Suits)	2021-04-23 — 17:04:09 UTC	ATrueZen, dj.narayanan	10	5	25
+510346	2	0	Rainbow & Dark Omni (5 Suits)	2021-04-23 — 17:00:42 UTC	ATrueZen, dj.narayanan	10	5	25
+509616	2	28	Alternating Clues (6 Suits)	2021-04-22 — 21:16:55 UTC	ATrueZen, dj.narayanan	8	6	30
+509610	2	0	Alternating Clues (6 Suits)	2021-04-22 — 21:09:24 UTC	ATrueZen, dj.narayanan	9	6	30
+509608	2	0	Alternating Clues (6 Suits)	2021-04-22 — 21:07:10 UTC	ATrueZen, dj.narayanan	8	6	30
+509607	2	0	Alternating Clues (6 Suits)	2021-04-22 — 21:03:55 UTC	ATrueZen, dj.narayanan	11	6	30
+509604	2	0	Alternating Clues (6 Suits)	2021-04-22 — 21:02:15 UTC	ATrueZen, dj.narayanan	13	6	30
+509601	2	0	Alternating Clues (6 Suits)	2021-04-22 — 20:58:36 UTC	ATrueZen, dj.narayanan	19	6	30
+509597	2	25	Pink & Dark Omni (5 Suits)	2021-04-22 — 20:53:30 UTC	ATrueZen, dj.narayanan	5	5	25
+509594	2	0	Pink & Dark Omni (5 Suits)	2021-04-22 — 20:48:41 UTC	ATrueZen, dj.narayanan	5	5	25
+509593	2	0	Pink & Dark Omni (5 Suits)	2021-04-22 — 20:48:11 UTC	ATrueZen, dj.narayanan	5	5	25
+509589	2	0	Pink & Dark Omni (5 Suits)	2021-04-22 — 20:44:33 UTC	ATrueZen, dj.narayanan	5	5	25
+508194	4	0	No Variant	2021-04-21 — 04:29:51 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	111	5	25
+508116	4	0	No Variant	2021-04-21 — 03:07:17 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	116	5	25
+508100	4	0	No Variant	2021-04-21 — 02:55:39 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	117	5	25
+508092	4	0	No Variant	2021-04-21 — 02:45:39 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	129	5	25
+508069	3	0	No Variant	2021-04-21 — 02:23:55 UTC	a_small_emu, dj.narayanan, InfernoSnowman	451	5	25
+508060	3	0	No Variant	2021-04-21 — 02:16:54 UTC	a_small_emu, dj.narayanan, InfernoSnowman	645	5	25
+507721	3	25	No Variant	2021-04-20 — 18:42:26 UTC	ATrueZen, dj.narayanan, InfernoSnowman	187	5	25
+507696	3	0	No Variant	2021-04-20 — 17:59:40 UTC	ATrueZen, dj.narayanan, InfernoSnowman	194	5	25
+507692	4	0	No Variant	2021-04-20 — 17:53:09 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	130	5	25
+507685	4	0	No Variant	2021-04-20 — 17:42:09 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	125	5	25
+507654	4	0	No Variant	2021-04-20 — 17:20:18 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	131	5	25
+505625	4	27	Brown-Fives & Dark Brown (6 Suits)	2021-04-18 — 19:42:37 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	1	6	30
+505586	4	0	Brown-Fives & Dark Brown (6 Suits)	2021-04-18 — 19:06:01 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	1	6	30
+505583	4	0	Brown-Fives & Dark Brown (6 Suits)	2021-04-18 — 19:04:43 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	1	6	30
+505561	4	30	Rainbow-Ones (6 Suits)	2021-04-18 — 18:49:32 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	15	6	30
+504347	3	27	Rainbow-Ones (6 Suits)	2021-04-17 — 18:56:41 UTC	ATrueZen, dj.narayanan, InfernoSnowman	1	6	30
+504319	3	0	Rainbow-Ones (6 Suits)	2021-04-17 — 18:35:49 UTC	ATrueZen, dj.narayanan, InfernoSnowman	1	6	30
+504302	3	0	Rainbow-Ones (6 Suits)	2021-04-17 — 18:22:52 UTC	ATrueZen, dj.narayanan, InfernoSnowman	3	6	30
+504287	2	0	Light-Pink-Ones & Rainbow (6 Suits)	2021-04-17 — 18:07:55 UTC	ATrueZen, dj.narayanan	2	6	30
+504286	2	0	Light-Pink-Ones & Rainbow (6 Suits)	2021-04-17 — 18:07:40 UTC	ATrueZen, dj.narayanan	2	6	30
+504281	2	0	Light-Pink-Ones & Rainbow (6 Suits)	2021-04-17 — 18:05:06 UTC	ATrueZen, dj.narayanan	2	6	30
+503524	4	24	Totally Blind (5 Suits)	2021-04-16 — 23:12:17 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	1	5	25
+503511	4	0	Totally Blind (5 Suits)	2021-04-16 — 22:46:19 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	1	5	25
+503509	4	0	Totally Blind (5 Suits)	2021-04-16 — 22:45:09 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	1	5	25
+503505	4	0	Totally Blind (5 Suits)	2021-04-16 — 22:42:33 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	2	5	25
+503501	4	0	Totally Blind (5 Suits)	2021-04-16 — 22:35:34 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	3	5	25
+503464	4	0	Totally Blind (5 Suits)	2021-04-16 — 22:18:15 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	7	5	25
+503228	4	28	Black & Muddy Rainbow (6 Suits)	2021-04-16 — 19:43:51 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	8	6	30
+503207	4	0	Black & Muddy Rainbow (6 Suits)	2021-04-16 — 19:25:05 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	11	6	30
+503202	3	26	Gray Pink (6 Suits)	2021-04-16 — 19:21:14 UTC	ATrueZen, dj.narayanan, InfernoSnowman	3	6	30
+503186	3	0	Gray Pink (6 Suits)	2021-04-16 — 19:03:10 UTC	ATrueZen, dj.narayanan, InfernoSnowman	3	6	30
+501987	4	25	Up or Down & Brown (5 Suits)	2021-04-15 — 17:51:36 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	9	5	25
+501966	4	22	Up or Down & Brown (5 Suits)	2021-04-15 — 17:29:19 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	10	5	25
+501946	3	0	Clue Starved (6 Suits)	2021-04-15 — 17:09:50 UTC	a_small_emu, ATrueZen, dj.narayanan	13	6	30
+501936	3	0	Clue Starved (6 Suits)	2021-04-15 — 16:59:00 UTC	a_small_emu, ATrueZen, dj.narayanan	20	6	30
+501932	2	0	Rainbow (6 Suits)	2021-04-15 — 16:51:40 UTC	ATrueZen, dj.narayanan	73	6	30
+501931	2	0	Rainbow (6 Suits)	2021-04-15 — 16:51:26 UTC	ATrueZen, dj.narayanan	75	6	30
+501930	2	0	Rainbow (6 Suits)	2021-04-15 — 16:50:56 UTC	ATrueZen, dj.narayanan	77	6	30
+501928	2	0	Rainbow (6 Suits)	2021-04-15 — 16:50:25 UTC	ATrueZen, dj.narayanan	82	6	30
+501926	2	0	Rainbow (6 Suits)	2021-04-15 — 16:49:55 UTC	ATrueZen, dj.narayanan	85	6	30
+501925	2	0	Rainbow (6 Suits)	2021-04-15 — 16:49:43 UTC	ATrueZen, dj.narayanan	87	6	30
+501924	2	0	Rainbow (6 Suits)	2021-04-15 — 16:49:30 UTC	ATrueZen, dj.narayanan	88	6	30
+501923	2	0	Rainbow (6 Suits)	2021-04-15 — 16:49:16 UTC	ATrueZen, dj.narayanan	94	6	30
+501922	2	0	Rainbow (6 Suits)	2021-04-15 — 16:48:49 UTC	ATrueZen, dj.narayanan	99	6	30
+501921	2	0	Rainbow (6 Suits)	2021-04-15 — 16:48:40 UTC	ATrueZen, dj.narayanan	97	6	30
+501920	2	0	Rainbow (6 Suits)	2021-04-15 — 16:47:48 UTC	ATrueZen, dj.narayanan	102	6	30
+501919	2	0	Rainbow (6 Suits)	2021-04-15 — 16:47:25 UTC	ATrueZen, dj.narayanan	106	6	30
+501917	2	0	Rainbow (6 Suits)	2021-04-15 — 16:47:13 UTC	ATrueZen, dj.narayanan	106	6	30
+501916	2	0	Rainbow (6 Suits)	2021-04-15 — 16:46:26 UTC	ATrueZen, dj.narayanan	114	6	30
+501915	2	0	Rainbow (6 Suits)	2021-04-15 — 16:46:02 UTC	ATrueZen, dj.narayanan	121	6	30
+501914	2	0	Rainbow (6 Suits)	2021-04-15 — 16:45:52 UTC	ATrueZen, dj.narayanan	122	6	30
+501913	2	0	Rainbow (6 Suits)	2021-04-15 — 16:45:47 UTC	ATrueZen, dj.narayanan	126	6	30
+501912	2	0	Rainbow (6 Suits)	2021-04-15 — 16:45:41 UTC	ATrueZen, dj.narayanan	133	6	30
+501911	2	0	Rainbow (6 Suits)	2021-04-15 — 16:44:51 UTC	ATrueZen, dj.narayanan	139	6	30
+501910	2	0	Rainbow (6 Suits)	2021-04-15 — 16:44:36 UTC	ATrueZen, dj.narayanan	144	6	30
+501909	2	0	Rainbow (6 Suits)	2021-04-15 — 16:44:25 UTC	ATrueZen, dj.narayanan	146	6	30
+501908	2	0	Rainbow (6 Suits)	2021-04-15 — 16:43:41 UTC	ATrueZen, dj.narayanan	149	6	30
+501907	2	0	Rainbow (6 Suits)	2021-04-15 — 16:43:31 UTC	ATrueZen, dj.narayanan	150	6	30
+501906	2	0	Rainbow (6 Suits)	2021-04-15 — 16:43:13 UTC	ATrueZen, dj.narayanan	153	6	30
+501904	2	0	Rainbow (6 Suits)	2021-04-15 — 16:42:57 UTC	ATrueZen, dj.narayanan	157	6	30
+501903	2	0	Rainbow (6 Suits)	2021-04-15 — 16:42:49 UTC	ATrueZen, dj.narayanan	167	6	30
+501902	2	0	Rainbow (6 Suits)	2021-04-15 — 16:42:35 UTC	ATrueZen, dj.narayanan	171	6	30
+501900	2	0	Rainbow (6 Suits)	2021-04-15 — 16:42:18 UTC	ATrueZen, dj.narayanan	179	6	30
+501899	2	27	Rainbow (6 Suits)	2021-04-15 — 16:41:51 UTC	ATrueZen, dj.narayanan	194	6	30
+501897	2	0	Rainbow (6 Suits)	2021-04-15 — 16:40:26 UTC	ATrueZen, dj.narayanan	200	6	30
+501896	2	0	Rainbow (6 Suits)	2021-04-15 — 16:39:55 UTC	ATrueZen, dj.narayanan	212	6	30
+501894	2	0	Rainbow (6 Suits)	2021-04-15 — 16:39:12 UTC	ATrueZen, dj.narayanan	227	6	30
+501893	2	0	Rainbow (6 Suits)	2021-04-15 — 16:38:50 UTC	ATrueZen, dj.narayanan	243	6	30
+501892	2	0	Rainbow (6 Suits)	2021-04-15 — 16:38:27 UTC	ATrueZen, dj.narayanan	254	6	30
+501891	2	0	Rainbow (6 Suits)	2021-04-15 — 16:37:39 UTC	ATrueZen, dj.narayanan	269	6	30
+501890	2	0	Rainbow (6 Suits)	2021-04-15 — 16:37:33 UTC	ATrueZen, dj.narayanan	288	6	30
+501889	2	0	Rainbow (6 Suits)	2021-04-15 — 16:37:21 UTC	ATrueZen, dj.narayanan	306	6	30
+501888	2	0	Rainbow (6 Suits)	2021-04-15 — 16:36:53 UTC	ATrueZen, dj.narayanan	327	6	30
+501887	2	0	Rainbow (6 Suits)	2021-04-15 — 16:36:40 UTC	ATrueZen, dj.narayanan	349	6	30
+501886	2	0	Rainbow (6 Suits)	2021-04-15 — 16:35:38 UTC	ATrueZen, dj.narayanan	395	6	30
+501885	2	0	Rainbow (6 Suits)	2021-04-15 — 16:35:05 UTC	ATrueZen, dj.narayanan	441	6	30
+501884	2	0	Rainbow (6 Suits)	2021-04-15 — 16:34:29 UTC	ATrueZen, dj.narayanan	500	6	30
+501883	2	0	Rainbow (6 Suits)	2021-04-15 — 16:32:57 UTC	ATrueZen, dj.narayanan	593	6	30
+501039	4	25	Brown & Muddy Rainbow (5 Suits)	2021-04-14 — 19:27:20 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	4	5	25
+501011	4	0	Black & Dark Pink (6 Suits)	2021-04-14 — 18:56:43 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	9	6	30
+501009	4	0	Black & Dark Pink (6 Suits)	2021-04-14 — 18:55:21 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	9	6	30
+500992	4	0	Black & Dark Pink (6 Suits)	2021-04-14 — 18:33:17 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	9	6	30
+500959	3	19	White-Fives & Brown (4 Suits)	2021-04-14 — 18:03:41 UTC	ATrueZen, dj.narayanan, InfernoSnowman	1	4	20
+499157	2	30	Black (6 Suits)	2021-04-12 — 23:42:02 UTC	ATrueZen, dj.narayanan	25	6	30
+499155	2	0	Black (6 Suits)	2021-04-12 — 23:40:12 UTC	ATrueZen, dj.narayanan	26	6	30
+499154	2	0	Black (6 Suits)	2021-04-12 — 23:39:44 UTC	ATrueZen, dj.narayanan	26	6	30
+499153	2	0	Black (6 Suits)	2021-04-12 — 23:39:04 UTC	ATrueZen, dj.narayanan	26	6	30
+499151	2	0	Black (6 Suits)	2021-04-12 — 23:38:45 UTC	ATrueZen, dj.narayanan	28	6	30
+499150	2	0	Black (6 Suits)	2021-04-12 — 23:37:54 UTC	ATrueZen, dj.narayanan	28	6	30
+499148	2	0	Black (6 Suits)	2021-04-12 — 23:37:35 UTC	ATrueZen, dj.narayanan	27	6	30
+499147	2	0	Black (6 Suits)	2021-04-12 — 23:37:08 UTC	ATrueZen, dj.narayanan	28	6	30
+499146	2	0	Black (6 Suits)	2021-04-12 — 23:36:36 UTC	ATrueZen, dj.narayanan	30	6	30
+499145	2	0	Black (6 Suits)	2021-04-12 — 23:35:21 UTC	ATrueZen, dj.narayanan	31	6	30
+499144	2	0	Black (6 Suits)	2021-04-12 — 23:35:02 UTC	ATrueZen, dj.narayanan	32	6	30
+499143	2	0	Black (6 Suits)	2021-04-12 — 23:34:39 UTC	ATrueZen, dj.narayanan	32	6	30
+499141	2	0	Black (6 Suits)	2021-04-12 — 23:34:15 UTC	ATrueZen, dj.narayanan	33	6	30
+499140	2	0	Black (6 Suits)	2021-04-12 — 23:33:37 UTC	ATrueZen, dj.narayanan	33	6	30
+499138	2	0	Black (6 Suits)	2021-04-12 — 23:32:44 UTC	ATrueZen, dj.narayanan	34	6	30
+499137	2	0	Black (6 Suits)	2021-04-12 — 23:32:15 UTC	ATrueZen, dj.narayanan	34	6	30
+499135	2	0	Black (6 Suits)	2021-04-12 — 23:31:35 UTC	ATrueZen, dj.narayanan	34	6	30
+499134	2	0	Black (6 Suits)	2021-04-12 — 23:30:51 UTC	ATrueZen, dj.narayanan	34	6	30
+499133	2	0	Black (6 Suits)	2021-04-12 — 23:30:35 UTC	ATrueZen, dj.narayanan	35	6	30
+499131	2	0	Black (6 Suits)	2021-04-12 — 23:29:37 UTC	ATrueZen, dj.narayanan	35	6	30
+499130	2	0	Black (6 Suits)	2021-04-12 — 23:29:26 UTC	ATrueZen, dj.narayanan	35	6	30
+499129	2	0	Black (6 Suits)	2021-04-12 — 23:28:52 UTC	ATrueZen, dj.narayanan	35	6	30
+499128	2	0	Black (6 Suits)	2021-04-12 — 23:28:23 UTC	ATrueZen, dj.narayanan	36	6	30
+499127	2	0	Black (6 Suits)	2021-04-12 — 23:27:42 UTC	ATrueZen, dj.narayanan	36	6	30
+499125	2	0	Black (6 Suits)	2021-04-12 — 23:27:26 UTC	ATrueZen, dj.narayanan	34	6	30
+499124	2	0	Black (6 Suits)	2021-04-12 — 23:27:13 UTC	ATrueZen, dj.narayanan	37	6	30
+499123	2	0	Black (6 Suits)	2021-04-12 — 23:26:45 UTC	ATrueZen, dj.narayanan	36	6	30
+499122	2	0	Black (6 Suits)	2021-04-12 — 23:26:11 UTC	ATrueZen, dj.narayanan	37	6	30
+499120	2	0	Black (6 Suits)	2021-04-12 — 23:25:51 UTC	ATrueZen, dj.narayanan	36	6	30
+499119	2	0	Black (6 Suits)	2021-04-12 — 23:25:46 UTC	ATrueZen, dj.narayanan	37	6	30
+499118	2	0	Black (6 Suits)	2021-04-12 — 23:25:33 UTC	ATrueZen, dj.narayanan	37	6	30
+499117	2	0	Black (6 Suits)	2021-04-12 — 23:25:01 UTC	ATrueZen, dj.narayanan	37	6	30
+499116	2	0	Black (6 Suits)	2021-04-12 — 23:24:43 UTC	ATrueZen, dj.narayanan	37	6	30
+499115	2	0	Black (6 Suits)	2021-04-12 — 23:24:28 UTC	ATrueZen, dj.narayanan	36	6	30
+499113	2	0	Black (6 Suits)	2021-04-12 — 23:24:19 UTC	ATrueZen, dj.narayanan	35	6	30
+499112	2	0	Black (6 Suits)	2021-04-12 — 23:24:13 UTC	ATrueZen, dj.narayanan	38	6	30
+499111	2	0	Black (6 Suits)	2021-04-12 — 23:24:00 UTC	ATrueZen, dj.narayanan	38	6	30
+499110	2	0	Black (6 Suits)	2021-04-12 — 23:23:44 UTC	ATrueZen, dj.narayanan	40	6	30
+499109	2	0	Black (6 Suits)	2021-04-12 — 23:23:36 UTC	ATrueZen, dj.narayanan	40	6	30
+499108	2	0	Black (6 Suits)	2021-04-12 — 23:23:19 UTC	ATrueZen, dj.narayanan	41	6	30
+499107	2	0	Black (6 Suits)	2021-04-12 — 23:23:03 UTC	ATrueZen, dj.narayanan	41	6	30
+499105	2	0	Black (6 Suits)	2021-04-12 — 23:22:30 UTC	ATrueZen, dj.narayanan	42	6	30
+499104	2	0	Black (6 Suits)	2021-04-12 — 23:22:19 UTC	ATrueZen, dj.narayanan	42	6	30
+499103	2	0	Black (6 Suits)	2021-04-12 — 23:21:55 UTC	ATrueZen, dj.narayanan	42	6	30
+499102	2	0	Black (6 Suits)	2021-04-12 — 23:21:12 UTC	ATrueZen, dj.narayanan	42	6	30
+499099	2	0	Black (6 Suits)	2021-04-12 — 23:20:47 UTC	ATrueZen, dj.narayanan	41	6	30
+499098	2	0	Black (6 Suits)	2021-04-12 — 23:20:17 UTC	ATrueZen, dj.narayanan	42	6	30
+499097	2	0	Black (6 Suits)	2021-04-12 — 23:19:53 UTC	ATrueZen, dj.narayanan	42	6	30
+499096	2	0	Black (6 Suits)	2021-04-12 — 23:19:29 UTC	ATrueZen, dj.narayanan	42	6	30
+499095	2	0	Black (6 Suits)	2021-04-12 — 23:18:56 UTC	ATrueZen, dj.narayanan	42	6	30
+499094	2	0	Black (6 Suits)	2021-04-12 — 23:18:47 UTC	ATrueZen, dj.narayanan	42	6	30
+499093	2	0	Black (6 Suits)	2021-04-12 — 23:18:09 UTC	ATrueZen, dj.narayanan	43	6	30
+499092	2	0	Black (6 Suits)	2021-04-12 — 23:17:36 UTC	ATrueZen, dj.narayanan	43	6	30
+499090	2	0	Black (6 Suits)	2021-04-12 — 23:17:06 UTC	ATrueZen, dj.narayanan	43	6	30
+499089	2	0	Black (6 Suits)	2021-04-12 — 23:16:34 UTC	ATrueZen, dj.narayanan	43	6	30
+499088	2	0	Black (6 Suits)	2021-04-12 — 23:16:04 UTC	ATrueZen, dj.narayanan	44	6	30
+499086	2	0	Black (6 Suits)	2021-04-12 — 23:15:46 UTC	ATrueZen, dj.narayanan	43	6	30
+499085	2	0	Black (6 Suits)	2021-04-12 — 23:15:27 UTC	ATrueZen, dj.narayanan	44	6	30
+499084	2	0	Black (6 Suits)	2021-04-12 — 23:15:14 UTC	ATrueZen, dj.narayanan	44	6	30
+499083	2	0	Black (6 Suits)	2021-04-12 — 23:14:39 UTC	ATrueZen, dj.narayanan	44	6	30
+499082	2	0	Black (6 Suits)	2021-04-12 — 23:14:13 UTC	ATrueZen, dj.narayanan	46	6	30
+499081	2	0	Black (6 Suits)	2021-04-12 — 23:14:09 UTC	ATrueZen, dj.narayanan	48	6	30
+499080	2	0	Black (6 Suits)	2021-04-12 — 23:13:49 UTC	ATrueZen, dj.narayanan	48	6	30
+499078	2	29	Black (6 Suits)	2021-04-12 — 23:13:08 UTC	ATrueZen, dj.narayanan	50	6	30
+499077	2	0	Black (6 Suits)	2021-04-12 — 23:11:45 UTC	ATrueZen, dj.narayanan	50	6	30
+499076	2	0	Black (6 Suits)	2021-04-12 — 23:11:29 UTC	ATrueZen, dj.narayanan	51	6	30
+499075	2	0	Black (6 Suits)	2021-04-12 — 23:11:14 UTC	ATrueZen, dj.narayanan	51	6	30
+499074	2	0	Black (6 Suits)	2021-04-12 — 23:11:02 UTC	ATrueZen, dj.narayanan	51	6	30
+499073	2	0	Black (6 Suits)	2021-04-12 — 23:10:54 UTC	ATrueZen, dj.narayanan	56	6	30
+499072	2	0	Black (6 Suits)	2021-04-12 — 23:10:42 UTC	ATrueZen, dj.narayanan	57	6	30
+499070	2	28	Black (6 Suits)	2021-04-12 — 23:08:58 UTC	ATrueZen, dj.narayanan	57	6	30
+499067	2	0	Black (6 Suits)	2021-04-12 — 23:07:36 UTC	ATrueZen, dj.narayanan	58	6	30
+499066	2	0	Black (6 Suits)	2021-04-12 — 23:06:07 UTC	ATrueZen, dj.narayanan	59	6	30
+499065	2	0	Black (6 Suits)	2021-04-12 — 23:05:21 UTC	ATrueZen, dj.narayanan	59	6	30
+499064	2	0	Black (6 Suits)	2021-04-12 — 23:05:09 UTC	ATrueZen, dj.narayanan	58	6	30
+499063	2	0	Black (6 Suits)	2021-04-12 — 23:04:56 UTC	ATrueZen, dj.narayanan	60	6	30
+499062	2	0	Black (6 Suits)	2021-04-12 — 23:04:18 UTC	ATrueZen, dj.narayanan	60	6	30
+499061	2	0	Black (6 Suits)	2021-04-12 — 23:03:55 UTC	ATrueZen, dj.narayanan	62	6	30
+499060	2	0	Black (6 Suits)	2021-04-12 — 23:03:42 UTC	ATrueZen, dj.narayanan	62	6	30
+499059	2	0	Black (6 Suits)	2021-04-12 — 23:03:14 UTC	ATrueZen, dj.narayanan	62	6	30
+499058	2	0	Black (6 Suits)	2021-04-12 — 23:02:37 UTC	ATrueZen, dj.narayanan	62	6	30
+499056	2	0	Black (6 Suits)	2021-04-12 — 23:01:33 UTC	ATrueZen, dj.narayanan	68	6	30
+499055	2	0	Black (6 Suits)	2021-04-12 — 23:01:18 UTC	ATrueZen, dj.narayanan	70	6	30
+499054	2	0	Black (6 Suits)	2021-04-12 — 23:01:02 UTC	ATrueZen, dj.narayanan	72	6	30
+499053	2	0	Black (6 Suits)	2021-04-12 — 23:00:24 UTC	ATrueZen, dj.narayanan	75	6	30
+499052	2	0	Black (6 Suits)	2021-04-12 — 22:59:50 UTC	ATrueZen, dj.narayanan	76	6	30
+499051	2	0	Black (6 Suits)	2021-04-12 — 22:59:35 UTC	ATrueZen, dj.narayanan	77	6	30
+499050	2	0	Black (6 Suits)	2021-04-12 — 22:59:29 UTC	ATrueZen, dj.narayanan	79	6	30
+499048	2	0	Black (6 Suits)	2021-04-12 — 22:59:21 UTC	ATrueZen, dj.narayanan	82	6	30
+499047	2	0	Black (6 Suits)	2021-04-12 — 22:59:05 UTC	ATrueZen, dj.narayanan	82	6	30
+499045	2	0	Black (6 Suits)	2021-04-12 — 22:58:22 UTC	ATrueZen, dj.narayanan	86	6	30
+499044	2	0	Black (6 Suits)	2021-04-12 — 22:57:49 UTC	ATrueZen, dj.narayanan	86	6	30
+499043	2	0	Black (6 Suits)	2021-04-12 — 22:57:16 UTC	ATrueZen, dj.narayanan	87	6	30
+499040	2	0	Black (6 Suits)	2021-04-12 — 22:56:25 UTC	ATrueZen, dj.narayanan	88	6	30
+499039	2	0	Black (6 Suits)	2021-04-12 — 22:55:58 UTC	ATrueZen, dj.narayanan	87	6	30
+499038	2	0	Black (6 Suits)	2021-04-12 — 22:54:50 UTC	ATrueZen, dj.narayanan	89	6	30
+499037	2	0	Black (6 Suits)	2021-04-12 — 22:54:26 UTC	ATrueZen, dj.narayanan	90	6	30
+499036	2	0	Black (6 Suits)	2021-04-12 — 22:53:53 UTC	ATrueZen, dj.narayanan	89	6	30
+499035	2	0	Black (6 Suits)	2021-04-12 — 22:53:21 UTC	ATrueZen, dj.narayanan	91	6	30
+499033	2	0	Black (6 Suits)	2021-04-12 — 22:52:22 UTC	ATrueZen, dj.narayanan	92	6	30
+499032	2	0	Black (6 Suits)	2021-04-12 — 22:51:38 UTC	ATrueZen, dj.narayanan	95	6	30
+499031	2	0	Black (6 Suits)	2021-04-12 — 22:51:32 UTC	ATrueZen, dj.narayanan	95	6	30
+499030	2	0	Black (6 Suits)	2021-04-12 — 22:51:03 UTC	ATrueZen, dj.narayanan	97	6	30
+499029	2	0	Black (6 Suits)	2021-04-12 — 22:49:51 UTC	ATrueZen, dj.narayanan	97	6	30
+499028	2	0	Black (6 Suits)	2021-04-12 — 22:49:44 UTC	ATrueZen, dj.narayanan	99	6	30
+499027	2	0	Black (6 Suits)	2021-04-12 — 22:49:35 UTC	ATrueZen, dj.narayanan	101	6	30
+499026	2	0	Black (6 Suits)	2021-04-12 — 22:49:07 UTC	ATrueZen, dj.narayanan	103	6	30
+499025	2	0	Black (6 Suits)	2021-04-12 — 22:48:48 UTC	ATrueZen, dj.narayanan	102	6	30
+499024	2	0	Black (6 Suits)	2021-04-12 — 22:48:15 UTC	ATrueZen, dj.narayanan	105	6	30
+499023	2	0	Black (6 Suits)	2021-04-12 — 22:47:51 UTC	ATrueZen, dj.narayanan	109	6	30
+499022	2	0	Black (6 Suits)	2021-04-12 — 22:47:38 UTC	ATrueZen, dj.narayanan	112	6	30
+499021	2	0	Black (6 Suits)	2021-04-12 — 22:47:15 UTC	ATrueZen, dj.narayanan	115	6	30
+499020	2	0	Black (6 Suits)	2021-04-12 — 22:46:57 UTC	ATrueZen, dj.narayanan	116	6	30
+499019	2	0	Black (6 Suits)	2021-04-12 — 22:46:30 UTC	ATrueZen, dj.narayanan	122	6	30
+499018	2	0	Black (6 Suits)	2021-04-12 — 22:45:41 UTC	ATrueZen, dj.narayanan	123	6	30
+499012	2	0	Black (6 Suits)	2021-04-12 — 22:40:09 UTC	ATrueZen, dj.narayanan	133	6	30
+499010	2	0	Black (6 Suits)	2021-04-12 — 22:39:25 UTC	ATrueZen, dj.narayanan	135	6	30
+499009	2	0	Black (6 Suits)	2021-04-12 — 22:38:54 UTC	ATrueZen, dj.narayanan	136	6	30
+499008	2	0	Black (6 Suits)	2021-04-12 — 22:38:21 UTC	ATrueZen, dj.narayanan	137	6	30
+499006	2	0	Black (6 Suits)	2021-04-12 — 22:38:06 UTC	ATrueZen, dj.narayanan	144	6	30
+499004	2	0	Black (6 Suits)	2021-04-12 — 22:36:28 UTC	ATrueZen, dj.narayanan	152	6	30
+499000	2	25	No Variant	2021-04-12 — 22:32:18 UTC	ATrueZen, dj.narayanan	60	5	25
+498998	2	0	No Variant	2021-04-12 — 22:30:43 UTC	ATrueZen, dj.narayanan	61	5	25
+498997	2	0	No Variant	2021-04-12 — 22:30:03 UTC	ATrueZen, dj.narayanan	62	5	25
+498996	2	0	No Variant	2021-04-12 — 22:29:52 UTC	ATrueZen, dj.narayanan	62	5	25
+498994	2	0	No Variant	2021-04-12 — 22:28:40 UTC	ATrueZen, dj.narayanan	62	5	25
+498991	2	0	No Variant	2021-04-12 — 22:26:25 UTC	ATrueZen, dj.narayanan	63	5	25
+498989	2	0	No Variant	2021-04-12 — 22:25:09 UTC	ATrueZen, dj.narayanan	62	5	25
+498988	2	0	No Variant	2021-04-12 — 22:24:19 UTC	ATrueZen, dj.narayanan	63	5	25
+498987	2	0	No Variant	2021-04-12 — 22:23:08 UTC	ATrueZen, dj.narayanan	63	5	25
+498986	2	0	No Variant	2021-04-12 — 22:22:55 UTC	ATrueZen, dj.narayanan	64	5	25
+498985	2	0	No Variant	2021-04-12 — 22:22:37 UTC	ATrueZen, dj.narayanan	63	5	25
+498984	2	0	No Variant	2021-04-12 — 22:21:42 UTC	ATrueZen, dj.narayanan	62	5	25
+498983	2	0	No Variant	2021-04-12 — 22:21:26 UTC	ATrueZen, dj.narayanan	63	5	25
+498982	2	0	No Variant	2021-04-12 — 22:21:13 UTC	ATrueZen, dj.narayanan	63	5	25
+498980	2	0	No Variant	2021-04-12 — 22:20:50 UTC	ATrueZen, dj.narayanan	63	5	25
+498978	2	0	No Variant	2021-04-12 — 22:19:55 UTC	ATrueZen, dj.narayanan	64	5	25
+498977	2	0	No Variant	2021-04-12 — 22:19:24 UTC	ATrueZen, dj.narayanan	63	5	25
+498975	2	0	No Variant	2021-04-12 — 22:18:50 UTC	ATrueZen, dj.narayanan	63	5	25
+498850	4	0	Omni (6 Suits)	2021-04-12 — 20:20:43 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	18	6	30
+498844	4	0	Omni (6 Suits)	2021-04-12 — 20:18:38 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	19	6	30
+498807	4	0	Omni (6 Suits)	2021-04-12 — 19:56:44 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	26	6	30
+498778	4	0	Omni (6 Suits)	2021-04-12 — 19:39:19 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	33	6	30
+498759	2	30	6 Suits	2021-04-12 — 19:28:16 UTC	ATrueZen, dj.narayanan	66	6	30
+498756	2	0	6 Suits	2021-04-12 — 19:26:47 UTC	ATrueZen, dj.narayanan	69	6	30
+498755	2	0	6 Suits	2021-04-12 — 19:26:32 UTC	ATrueZen, dj.narayanan	73	6	30
+498753	2	0	6 Suits	2021-04-12 — 19:25:24 UTC	ATrueZen, dj.narayanan	72	6	30
+498751	2	0	6 Suits	2021-04-12 — 19:23:32 UTC	ATrueZen, dj.narayanan	75	6	30
+498750	2	0	6 Suits	2021-04-12 — 19:22:41 UTC	ATrueZen, dj.narayanan	76	6	30
+498749	2	0	6 Suits	2021-04-12 — 19:21:30 UTC	ATrueZen, dj.narayanan	78	6	30
+498748	2	0	6 Suits	2021-04-12 — 19:21:04 UTC	ATrueZen, dj.narayanan	80	6	30
+498746	2	0	6 Suits	2021-04-12 — 19:20:49 UTC	ATrueZen, dj.narayanan	85	6	30
+498744	2	0	6 Suits	2021-04-12 — 19:19:48 UTC	ATrueZen, dj.narayanan	88	6	30
+498743	2	0	6 Suits	2021-04-12 — 19:18:49 UTC	ATrueZen, dj.narayanan	89	6	30
+498741	2	0	6 Suits	2021-04-12 — 19:18:11 UTC	ATrueZen, dj.narayanan	89	6	30
+498740	2	0	6 Suits	2021-04-12 — 19:18:04 UTC	ATrueZen, dj.narayanan	98	6	30
+498738	2	0	6 Suits	2021-04-12 — 19:17:43 UTC	ATrueZen, dj.narayanan	102	6	30
+498737	2	0	6 Suits	2021-04-12 — 19:17:16 UTC	ATrueZen, dj.narayanan	106	6	30
+498734	2	0	6 Suits	2021-04-12 — 19:16:12 UTC	ATrueZen, dj.narayanan	112	6	30
+498733	2	0	6 Suits	2021-04-12 — 19:15:23 UTC	ATrueZen, dj.narayanan	117	6	30
+498729	2	0	6 Suits	2021-04-12 — 19:14:30 UTC	ATrueZen, dj.narayanan	120	6	30
+498728	2	0	6 Suits	2021-04-12 — 19:13:58 UTC	ATrueZen, dj.narayanan	132	6	30
+498726	2	0	6 Suits	2021-04-12 — 19:13:07 UTC	ATrueZen, dj.narayanan	137	6	30
+498725	2	0	6 Suits	2021-04-12 — 19:11:51 UTC	ATrueZen, dj.narayanan	147	6	30
+498722	2	0	6 Suits	2021-04-12 — 19:10:52 UTC	ATrueZen, dj.narayanan	160	6	30
+498721	2	0	6 Suits	2021-04-12 — 19:10:06 UTC	ATrueZen, dj.narayanan	169	6	30
+498719	2	0	6 Suits	2021-04-12 — 19:09:39 UTC	ATrueZen, dj.narayanan	174	6	30
+498717	2	0	6 Suits	2021-04-12 — 19:09:08 UTC	ATrueZen, dj.narayanan	180	6	30
+498716	2	0	6 Suits	2021-04-12 — 19:08:56 UTC	ATrueZen, dj.narayanan	189	6	30
+498714	2	0	6 Suits	2021-04-12 — 19:08:32 UTC	ATrueZen, dj.narayanan	200	6	30
+498713	2	0	6 Suits	2021-04-12 — 19:08:24 UTC	ATrueZen, dj.narayanan	207	6	30
+498712	2	0	6 Suits	2021-04-12 — 19:07:52 UTC	ATrueZen, dj.narayanan	211	6	30
+498711	2	0	6 Suits	2021-04-12 — 19:06:57 UTC	ATrueZen, dj.narayanan	221	6	30
+498710	2	0	6 Suits	2021-04-12 — 19:06:19 UTC	ATrueZen, dj.narayanan	236	6	30
+498709	2	0	6 Suits	2021-04-12 — 19:05:50 UTC	ATrueZen, dj.narayanan	248	6	30
+498707	2	0	6 Suits	2021-04-12 — 19:05:17 UTC	ATrueZen, dj.narayanan	274	6	30
+498702	2	25	No Variant	2021-04-12 — 19:02:06 UTC	ATrueZen, dj.narayanan	63	5	25
+498699	2	0	No Variant	2021-04-12 — 19:00:57 UTC	ATrueZen, dj.narayanan	63	5	25
+498698	2	0	No Variant	2021-04-12 — 19:00:33 UTC	ATrueZen, dj.narayanan	64	5	25
+498696	2	0	No Variant	2021-04-12 — 19:00:11 UTC	ATrueZen, dj.narayanan	64	5	25
+498695	2	0	No Variant	2021-04-12 — 18:59:42 UTC	ATrueZen, dj.narayanan	65	5	25
+498693	2	0	No Variant	2021-04-12 — 18:59:01 UTC	ATrueZen, dj.narayanan	65	5	25
+498691	2	0	No Variant	2021-04-12 — 18:57:50 UTC	ATrueZen, dj.narayanan	66	5	25
+498689	2	0	No Variant	2021-04-12 — 18:57:24 UTC	ATrueZen, dj.narayanan	66	5	25
+498688	2	0	No Variant	2021-04-12 — 18:56:49 UTC	ATrueZen, dj.narayanan	66	5	25
+498686	2	0	No Variant	2021-04-12 — 18:56:07 UTC	ATrueZen, dj.narayanan	65	5	25
+498684	2	0	No Variant	2021-04-12 — 18:55:57 UTC	ATrueZen, dj.narayanan	65	5	25
+498683	2	0	No Variant	2021-04-12 — 18:55:40 UTC	ATrueZen, dj.narayanan	65	5	25
+498681	2	0	No Variant	2021-04-12 — 18:54:56 UTC	ATrueZen, dj.narayanan	65	5	25
+498680	2	0	No Variant	2021-04-12 — 18:54:45 UTC	ATrueZen, dj.narayanan	66	5	25
+498678	2	0	No Variant	2021-04-12 — 18:54:12 UTC	ATrueZen, dj.narayanan	67	5	25
+498677	2	0	No Variant	2021-04-12 — 18:53:43 UTC	ATrueZen, dj.narayanan	67	5	25
+498676	2	0	No Variant	2021-04-12 — 18:53:19 UTC	ATrueZen, dj.narayanan	68	5	25
+498675	2	0	No Variant	2021-04-12 — 18:52:47 UTC	ATrueZen, dj.narayanan	68	5	25
+498673	2	0	No Variant	2021-04-12 — 18:52:11 UTC	ATrueZen, dj.narayanan	69	5	25
+498672	2	0	No Variant	2021-04-12 — 18:51:26 UTC	ATrueZen, dj.narayanan	71	5	25
+498668	2	0	No Variant	2021-04-12 — 18:49:43 UTC	ATrueZen, dj.narayanan	73	5	25
+498666	2	0	No Variant	2021-04-12 — 18:48:39 UTC	ATrueZen, dj.narayanan	73	5	25
+498663	2	0	No Variant	2021-04-12 — 18:48:13 UTC	ATrueZen, dj.narayanan	72	5	25
+498659	2	25	No Variant	2021-04-12 — 18:46:33 UTC	ATrueZen, dj.narayanan	72	5	25
+498655	2	0	No Variant	2021-04-12 — 18:44:03 UTC	ATrueZen, dj.narayanan	72	5	25
+497604	4	0	Clue Starved (5 Suits)	2021-04-11 — 21:47:40 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	6	5	25
+497577	4	23	Clue Starved (5 Suits)	2021-04-11 — 21:27:56 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	9	5	25
+497537	4	0	Clue Starved (5 Suits)	2021-04-11 — 20:52:31 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	11	5	25
+497525	4	0	Clue Starved (5 Suits)	2021-04-11 — 20:45:29 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	19	5	25
+497505	3	23	Omni & Gray (6 Suits)	2021-04-11 — 20:33:04 UTC	ATrueZen, dj.narayanan, InfernoSnowman	6	6	30
+494284	3	25	Deceptive-Ones & Dark Brown (6 Suits)	2021-04-08 — 21:41:12 UTC	a_small_emu, dj.narayanan, InfernoSnowman	1	6	30
+494269	3	25	Omni-Fives (5 Suits)	2021-04-08 — 21:21:18 UTC	a_small_emu, dj.narayanan, InfernoSnowman	4	5	25
+494248	3	0	Omni-Fives (5 Suits)	2021-04-08 — 21:06:08 UTC	a_small_emu, dj.narayanan, InfernoSnowman	6	5	25
+494237	3	25	White-Ones & Pink (5 Suits)	2021-04-08 — 20:55:01 UTC	a_small_emu, dj.narayanan, InfernoSnowman	3	5	25
+494123	3	0	White-Ones & Pink (5 Suits)	2021-04-08 — 18:55:32 UTC	a_small_emu, dj.narayanan, InfernoSnowman	6	5	25
+493650	4	25	Brown-Fives & Light Pink (5 Suits)	2021-04-08 — 02:06:56 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	1	5	25
+493635	4	0	Brown-Fives & Light Pink (5 Suits)	2021-04-08 — 01:53:50 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	1	5	25
+493633	4	0	Brown-Fives & Light Pink (5 Suits)	2021-04-08 — 01:49:39 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	2	5	25
+493629	4	0	Brown-Fives & Light Pink (5 Suits)	2021-04-08 — 01:46:05 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	3	5	25
+493625	4	0	Brown-Fives & Light Pink (5 Suits)	2021-04-08 — 01:40:55 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	4	5	25
+493549	3	24	Rainbow-Ones & Prism (5 Suits)	2021-04-07 — 23:38:43 UTC	a_small_emu, dj.narayanan, InfernoSnowman	2	5	25
+493529	4	30	Omni-Ones (6 Suits)	2021-04-07 — 23:02:46 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	4	6	30
+493508	3	0	Omni-Ones (6 Suits)	2021-04-07 — 22:24:44 UTC	ATrueZen, dj.narayanan, InfernoSnowman	3	6	30
+492268	4	30	Brown & Gray Pink (6 Suits)	2021-04-06 — 17:55:02 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	3	6	30
+492234	4	0	Brown & Gray Pink (5 Suits)	2021-04-06 — 17:20:59 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	1	5	25
+492218	4	0	Brown & Gray Pink (5 Suits)	2021-04-06 — 17:00:51 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	4	5	25
+492209	3	0	Brown & Gray Pink (5 Suits)	2021-04-06 — 16:46:05 UTC	a_small_emu, dj.narayanan, InfernoSnowman	5	5	25
+491505	4	30	Brown & Gray (6 Suits)	2021-04-05 — 20:41:05 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	7	6	30
+491436	3	24	Deceptive-Ones (5 Suits)	2021-04-05 — 19:52:06 UTC	a_small_emu, dj.narayanan, InfernoSnowman	14	5	25
+490841	4	22	Deceptive-Fives (5 Suits)	2021-04-05 — 02:45:13 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	3	5	25
+490833	4	0	Deceptive-Fives (5 Suits)	2021-04-05 — 02:29:52 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	4	5	25
+490828	4	0	Deceptive-Fives (5 Suits)	2021-04-05 — 02:23:22 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	5	5	25
+490820	3	0	Deceptive-Fives (6 Suits)	2021-04-05 — 02:09:28 UTC	a_small_emu, ATrueZen, dj.narayanan	4	6	30
+490463	3	0	Rainbow-Ones & Gray (6 Suits)	2021-04-04 — 18:06:29 UTC	a_small_emu, ATrueZen, dj.narayanan	2	6	30
+490445	3	0	Rainbow-Ones & Gray (6 Suits)	2021-04-04 — 17:48:47 UTC	a_small_emu, ATrueZen, dj.narayanan	2	6	30
+490439	3	0	Rainbow-Ones & Gray (6 Suits)	2021-04-04 — 17:44:13 UTC	a_small_emu, ATrueZen, dj.narayanan	3	6	30
+490424	3	26	Rainbow-Ones & Gray (6 Suits)	2021-04-04 — 17:34:26 UTC	a_small_emu, ATrueZen, dj.narayanan	4	6	30
+490418	2	0	Rainbow-Ones & Gray (6 Suits)	2021-04-04 — 17:18:44 UTC	ATrueZen, dj.narayanan	3	6	30
+488768	3	0	Black & Light Pink (5 Suits)	2021-04-02 — 22:57:50 UTC	a_small_emu, ATrueZen, dj.narayanan	11	5	25
+488764	3	21	Black & Light Pink (5 Suits)	2021-04-02 — 22:49:28 UTC	a_small_emu, ATrueZen, dj.narayanan	13	5	25
+486795	4	0	White-Fives & Muddy Rainbow (6 Suits)	2021-03-31 — 21:59:25 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	1	6	30
+486778	4	0	White-Fives & Muddy Rainbow (6 Suits)	2021-03-31 — 21:41:55 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	2	6	30
+486760	3	0	Muddy-Rainbow-Ones & Dark Rainbow (5 Suits)	2021-03-31 — 21:25:12 UTC	a_small_emu, ATrueZen, dj.narayanan	2	5	25
+485893	3	29	Rainbow-Fives & Pink (6 Suits)	2021-03-30 — 23:05:53 UTC	ATrueZen, dj.narayanan, InfernoSnowman	1	6	30
+485864	4	22	Gray (5 Suits)	2021-03-30 — 22:33:13 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	33	5	25
+484904	4	0	Muddy Rainbow & Prism (6 Suits)	2021-03-29 — 23:40:54 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	1	6	30
+484842	4	29	Muddy Rainbow & Prism (6 Suits)	2021-03-29 — 22:55:30 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	2	6	30
+484802	4	0	Muddy Rainbow & Prism (6 Suits)	2021-03-29 — 22:14:46 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	2	6	30
+484789	4	0	Muddy Rainbow & Prism (6 Suits)	2021-03-29 — 22:01:47 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	3	6	30
+484774	4	0	Muddy Rainbow & Prism (6 Suits)	2021-03-29 — 21:50:26 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	3	6	30
+481538	4	0	Special Mix (5 Suits)	2021-03-26 — 21:34:39 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	18	5	25
+481504	4	24	Special Mix (5 Suits)	2021-03-26 — 21:09:19 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	21	5	25
+481478	4	0	Special Mix (5 Suits)	2021-03-26 — 20:43:50 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	20	5	25
+481471	4	0	Special Mix (5 Suits)	2021-03-26 — 20:36:34 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	25	5	25
+481465	4	0	Special Mix (5 Suits)	2021-03-26 — 20:31:56 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	28	5	25
+481456	4	30	White-Ones & Gray Pink (6 Suits)	2021-03-26 — 20:21:28 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	2	6	30
+480450	3	0	Rainbow-Fives & Pink (6 Suits)	2021-03-25 — 20:47:50 UTC	ATrueZen, dj.narayanan, InfernoSnowman	1	6	30
+480431	3	0	Rainbow-Fives & Pink (6 Suits)	2021-03-25 — 20:32:27 UTC	ATrueZen, dj.narayanan, InfernoSnowman	1	6	30
+480426	3	0	Rainbow-Fives & Pink (6 Suits)	2021-03-25 — 20:28:20 UTC	ATrueZen, dj.narayanan, InfernoSnowman	1	6	30
+480416	3	27	Rainbow-Fives & Pink (6 Suits)	2021-03-25 — 20:21:37 UTC	ATrueZen, dj.narayanan, InfernoSnowman	1	6	30
+480379	3	0	Rainbow-Fives & Pink (6 Suits)	2021-03-25 — 19:59:39 UTC	ATrueZen, dj.narayanan, InfernoSnowman	1	6	30
+479219	3	0	Rainbow-Fives & Pink (6 Suits)	2021-03-24 — 17:59:09 UTC	a_small_emu, ATrueZen, dj.narayanan	1	6	30
+478129	4	25	Rainbow-Fives & White (5 Suits)	2021-03-23 — 17:58:42 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	2	5	25
+478104	4	23	Rainbow-Fives & White (5 Suits)	2021-03-23 — 17:31:17 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	2	5	25
+478081	4	0	Rainbow-Fives & White (5 Suits)	2021-03-23 — 17:10:03 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	2	5	25
+478067	4	0	Rainbow-Fives & White (5 Suits)	2021-03-23 — 17:00:58 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	3	5	25
+478056	4	24	Rainbow-Fives & White (5 Suits)	2021-03-23 — 16:50:46 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	4	5	25
+477218	4	21	Omni-Ones (5 Suits)	2021-03-22 — 21:26:18 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	5	5	25
+477161	4	22	Omni-Ones (5 Suits)	2021-03-22 — 20:51:05 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	6	5	25
+477105	4	0	Omni-Ones (5 Suits)	2021-03-22 — 20:08:29 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	9	5	25
+477076	3	0	Omni-Ones (6 Suits)	2021-03-22 — 19:46:30 UTC	a_small_emu, dj.narayanan, InfernoSnowman	3	6	30
+474427	4	23	Light-Pink-Fives & Brown (5 Suits)	2021-03-20 — 03:55:15 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	1	5	25
+474406	4	0	Light-Pink-Fives & Brown (5 Suits)	2021-03-20 — 03:37:07 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	1	5	25
+474393	4	24	Light-Pink-Fives & Brown (5 Suits)	2021-03-20 — 03:27:09 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	2	5	25
+474357	4	0	Light-Pink-Fives & Brown (5 Suits)	2021-03-20 — 03:02:12 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	2	5	25
+474354	4	0	Pink-Fives (6 Suits)	2021-03-20 — 02:59:21 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	6	6	30
+474346	4	30	Pink-Fives (6 Suits)	2021-03-20 — 02:50:54 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	9	6	30
+474300	3	30	Pink-Fives (6 Suits)	2021-03-20 — 02:13:00 UTC	ATrueZen, dj.narayanan, InfernoSnowman	5	6	30
+474267	3	0	Pink-Fives (6 Suits)	2021-03-20 — 01:47:14 UTC	ATrueZen, dj.narayanan, InfernoSnowman	7	6	30
+472530	3	28	Gray Pink (6 Suits)	2021-03-18 — 18:46:06 UTC	a_small_emu, ATrueZen, dj.narayanan	4	6	30
+472489	3	0	Gray Pink (6 Suits)	2021-03-18 — 18:18:17 UTC	a_small_emu, ATrueZen, dj.narayanan	4	6	30
+472466	3	0	Gray Pink (6 Suits)	2021-03-18 — 17:53:39 UTC	a_small_emu, ATrueZen, dj.narayanan	3	6	30
+472454	3	0	Gray Pink (6 Suits)	2021-03-18 — 17:43:12 UTC	a_small_emu, ATrueZen, dj.narayanan	5	6	30
+472452	3	0	Gray Pink (6 Suits)	2021-03-18 — 17:41:09 UTC	a_small_emu, ATrueZen, dj.narayanan	7	6	30
+472160	4	0	Brown-Fives (6 Suits)	2021-03-18 — 03:30:00 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	3	6	30
+472117	4	0	Brown-Fives (6 Suits)	2021-03-18 — 03:08:59 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	4	6	30
+472092	4	0	Brown-Fives (6 Suits)	2021-03-18 — 02:56:07 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	4	6	30
+472080	4	0	Brown-Fives (6 Suits)	2021-03-18 — 02:45:05 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	4	6	30
+472054	3	30	White-Ones (6 Suits)	2021-03-18 — 02:16:28 UTC	a_small_emu, ATrueZen, dj.narayanan	11	6	30
+469223	3	0	Dark Omni (6 Suits)	2021-03-15 — 19:20:36 UTC	a_small_emu, ATrueZen, dj.narayanan	5	6	30
+469213	3	0	Dark Omni (6 Suits)	2021-03-15 — 19:10:59 UTC	a_small_emu, ATrueZen, dj.narayanan	5	6	30
+469203	3	0	Dark Omni (6 Suits)	2021-03-15 — 19:04:17 UTC	a_small_emu, ATrueZen, dj.narayanan	5	6	30
+469192	3	29	Dark Omni (6 Suits)	2021-03-15 — 18:56:15 UTC	a_small_emu, ATrueZen, dj.narayanan	6	6	30
+469171	3	0	Dark Omni (6 Suits)	2021-03-15 — 18:37:51 UTC	a_small_emu, ATrueZen, dj.narayanan	8	6	30
+469159	3	26	Dark Omni (6 Suits)	2021-03-15 — 18:27:48 UTC	a_small_emu, ATrueZen, dj.narayanan	9	6	30
+469140	2	30	Pink & White (6 Suits)	2021-03-15 — 18:08:41 UTC	ATrueZen, dj.narayanan	7	6	30
+469135	2	0	Pink & White (6 Suits)	2021-03-15 — 18:00:38 UTC	ATrueZen, dj.narayanan	7	6	30
+468741	3	0	Dark Omni (6 Suits)	2021-03-15 — 02:50:03 UTC	a_small_emu, ATrueZen, dj.narayanan	10	6	30
+468693	4	0	Dark Omni (6 Suits)	2021-03-15 — 02:05:33 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	11	6	30
+468679	4	0	Dark Omni (6 Suits)	2021-03-15 — 01:52:17 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	12	6	30
+465799	3	0	Dark Omni (6 Suits)	2021-03-12 — 19:06:59 UTC	a_small_emu, ATrueZen, dj.narayanan	13	6	30
+465790	3	0	Dark Omni (6 Suits)	2021-03-12 — 18:46:11 UTC	a_small_emu, ATrueZen, dj.narayanan	20	6	30
+465772	3	27	Dark Omni (6 Suits)	2021-03-12 — 18:31:40 UTC	a_small_emu, ATrueZen, dj.narayanan	26	6	30
+465035	4	0	Dark Omni (6 Suits)	2021-03-11 — 22:38:44 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	14	6	30
+465028	4	0	Dark Omni (6 Suits)	2021-03-11 — 22:32:24 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	13	6	30
+465012	4	0	Dark Omni (6 Suits)	2021-03-11 — 22:14:11 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	14	6	30
+464996	4	0	Dark Omni (6 Suits)	2021-03-11 — 22:00:31 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	16	6	30
+464971	4	0	Dark Omni (6 Suits)	2021-03-11 — 21:25:53 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	17	6	30
+462557	4	29	Rainbow & Dark Omni (6 Suits)	2021-03-09 — 18:47:43 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	3	6	30
+462521	4	0	Rainbow & Dark Omni (6 Suits)	2021-03-09 — 18:08:55 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	4	6	30
+462516	4	0	Rainbow & Dark Omni (6 Suits)	2021-03-09 — 17:59:12 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	4	6	30
+462506	4	0	Rainbow & Dark Omni (6 Suits)	2021-03-09 — 17:45:15 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	4	6	30
+461580	4	29	Brown-Ones & Gray (6 Suits)	2021-03-08 — 19:35:55 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	1	6	30
+461543	4	0	Omni-Fives & Omni (3 Suits)	2021-03-08 — 18:52:31 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	1	3	15
+461534	4	30	Rainbow-Fives & White (6 Suits)	2021-03-08 — 18:35:19 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	4	6	30
+461518	3	0	Black & Light Pink (6 Suits)	2021-03-08 — 18:11:26 UTC	ATrueZen, dj.narayanan, InfernoSnowman	4	6	30
+455671	3	27	Rainbow-Ones (6 Suits)	2021-03-03 — 22:43:37 UTC	ATrueZen, dj.narayanan, InfernoSnowman	5	6	30
+455633	3	0	Rainbow-Ones (6 Suits)	2021-03-03 — 22:05:50 UTC	ATrueZen, dj.narayanan, InfernoSnowman	7	6	30
+455614	3	0	Rainbow-Ones (6 Suits)	2021-03-03 — 21:51:30 UTC	ATrueZen, dj.narayanan, InfernoSnowman	9	6	30
+455593	3	0	Rainbow-Ones (6 Suits)	2021-03-03 — 21:30:17 UTC	ATrueZen, dj.narayanan, InfernoSnowman	16	6	30
+448824	3	30	Pink-Ones (6 Suits)	2021-02-25 — 18:22:49 UTC	a_small_emu, ATrueZen, dj.narayanan	5	6	30
+448793	3	0	Pink-Ones (6 Suits)	2021-02-25 — 17:45:29 UTC	a_small_emu, ATrueZen, dj.narayanan	9	6	30
+448777	2	30	Pink-Ones (6 Suits)	2021-02-25 — 17:29:18 UTC	ATrueZen, dj.narayanan	9	6	30
+446744	4	0	Light-Pink-Ones (3 Suits)	2021-02-23 — 18:34:13 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	1	3	15
+446741	4	14	Light-Pink-Ones (3 Suits)	2021-02-23 — 18:31:26 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	1	3	15
+446719	3	30	Prism & Dark Pink (6 Suits)	2021-02-23 — 18:01:40 UTC	ATrueZen, dj.narayanan, InfernoSnowman	3	6	30
+442298	3	30	Pink-Fives & Rainbow (6 Suits)	2021-02-19 — 21:46:08 UTC	a_small_emu, ATrueZen, dj.narayanan	2	6	30
+442264	3	0	Pink-Fives & Rainbow (6 Suits)	2021-02-19 — 21:18:07 UTC	a_small_emu, ATrueZen, dj.narayanan	7	6	30
+442254	3	27	Pink-Fives & Rainbow (6 Suits)	2021-02-19 — 21:11:00 UTC	a_small_emu, ATrueZen, dj.narayanan	9	6	30
+441056	3	0	Omni (6 Suits)	2021-02-18 — 19:57:25 UTC	a_small_emu, ATrueZen, dj.narayanan	24	6	30
+441030	4	22	Black (5 Suits)	2021-02-18 — 19:22:55 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	49	5	25
+441003	4	0	Black (5 Suits)	2021-02-18 — 18:52:09 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	63	5	25
+440384	4	30	Black (6 Suits)	2021-02-17 — 23:22:15 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	36	6	30
+440336	4	0	Black (6 Suits)	2021-02-17 — 22:38:57 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	38	6	30
+438482	3	0	Black & Light Pink (6 Suits)	2021-02-15 — 22:02:43 UTC	a_small_emu, ATrueZen, dj.narayanan	5	6	30
+438476	3	0	Black & Light Pink (6 Suits)	2021-02-15 — 21:59:55 UTC	a_small_emu, ATrueZen, dj.narayanan	5	6	30
+438458	3	0	Black & Light Pink (6 Suits)	2021-02-15 — 21:45:19 UTC	a_small_emu, ATrueZen, dj.narayanan	6	6	30
+438436	3	27	Black & Light Pink (6 Suits)	2021-02-15 — 21:29:06 UTC	a_small_emu, ATrueZen, dj.narayanan	6	6	30
+438394	3	25	Black & Light Pink (6 Suits)	2021-02-15 — 20:55:48 UTC	a_small_emu, ATrueZen, dj.narayanan	9	6	30
+438362	3	0	Black & Light Pink (6 Suits)	2021-02-15 — 20:32:08 UTC	a_small_emu, ATrueZen, dj.narayanan	10	6	30
+438354	2	0	Pink & White (6 Suits)	2021-02-15 — 20:24:51 UTC	ATrueZen, dj.narayanan	8	6	30
+436108	3	0	Black & Rainbow (6 Suits)	2021-02-13 — 22:55:27 UTC	a_small_emu, ATrueZen, dj.narayanan	36	6	30
+436096	3	0	Black & Rainbow (6 Suits)	2021-02-13 — 22:41:42 UTC	a_small_emu, ATrueZen, dj.narayanan	42	6	30
+436083	3	0	Black & Rainbow (6 Suits)	2021-02-13 — 22:27:51 UTC	a_small_emu, ATrueZen, dj.narayanan	51	6	30
+436025	2	0	Black & Dark Rainbow (6 Suits)	2021-02-13 — 21:30:28 UTC	ATrueZen, dj.narayanan	17	6	30
+436018	2	0	Black & Dark Rainbow (6 Suits)	2021-02-13 — 21:26:37 UTC	ATrueZen, dj.narayanan	18	6	30
+436014	2	0	Black & Dark Rainbow (6 Suits)	2021-02-13 — 21:24:24 UTC	ATrueZen, dj.narayanan	18	6	30
+436007	2	0	Black & Dark Rainbow (6 Suits)	2021-02-13 — 21:17:31 UTC	ATrueZen, dj.narayanan	18	6	30
+436001	2	0	Black & Dark Rainbow (6 Suits)	2021-02-13 — 21:10:48 UTC	ATrueZen, dj.narayanan	16	6	30
+435999	2	0	Black & Dark Rainbow (6 Suits)	2021-02-13 — 21:08:54 UTC	ATrueZen, dj.narayanan	17	6	30
+435996	2	0	Black & Dark Rainbow (6 Suits)	2021-02-13 — 21:04:39 UTC	ATrueZen, dj.narayanan	17	6	30
+435989	2	0	Black & Dark Rainbow (6 Suits)	2021-02-13 — 20:56:45 UTC	ATrueZen, dj.narayanan	20	6	30
+432679	4	28	Black (6 Suits)	2021-02-10 — 21:46:33 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	42	6	30
+432630	3	0	Black & Rainbow (6 Suits)	2021-02-10 — 21:11:36 UTC	ATrueZen, dj.narayanan, InfernoSnowman	59	6	30
+432263	3	0	Black & Light Pink (6 Suits)	2021-02-10 — 14:43:34 UTC	asaelr, dj.narayanan, macanek	6	6	30
+432244	3	0	Black & Light Pink (6 Suits)	2021-02-10 — 14:20:10 UTC	asaelr, dj.narayanan, macanek	7	6	30
+431373	4	23	Black (5 Suits)	2021-02-09 — 20:45:19 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	79	5	25
+431341	4	22	Black (5 Suits)	2021-02-09 — 20:15:17 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	98	5	25
+431311	4	25	White (5 Suits)	2021-02-09 — 19:43:58 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	60	5	25
+431284	4	23	White (5 Suits)	2021-02-09 — 19:20:58 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	79	5	25
+430317	3	0	Black & Brown (6 Suits)	2021-02-08 — 21:11:31 UTC	a_small_emu, ATrueZen, dj.narayanan	2	6	30
+430278	3	0	Black & Brown (6 Suits)	2021-02-08 — 20:54:08 UTC	a_small_emu, ATrueZen, dj.narayanan	2	6	30
+430148	3	0	Black & Brown (6 Suits)	2021-02-08 — 19:06:41 UTC	a_small_emu, ATrueZen, dj.narayanan	3	6	30
+430143	3	29	Black & Brown (6 Suits)	2021-02-08 — 19:01:08 UTC	a_small_emu, ATrueZen, dj.narayanan	4	6	30
+430126	3	0	Black & Brown (6 Suits)	2021-02-08 — 18:41:23 UTC	a_small_emu, ATrueZen, dj.narayanan	4	6	30
+422397	3	0	Black & Brown (6 Suits)	2021-02-01 — 21:52:04 UTC	a_small_emu, ATrueZen, dj.narayanan	5	6	30
+422361	3	0	Black & Brown (6 Suits)	2021-02-01 — 21:17:48 UTC	a_small_emu, ATrueZen, dj.narayanan	5	6	30
+422346	3	0	Black & Brown (6 Suits)	2021-02-01 — 21:06:07 UTC	a_small_emu, ATrueZen, dj.narayanan	7	6	30
+422331	3	0	Black & Brown (6 Suits)	2021-02-01 — 20:48:57 UTC	a_small_emu, ATrueZen, dj.narayanan	7	6	30
+422330	3	0	Black & Brown (6 Suits)	2021-02-01 — 20:47:13 UTC	a_small_emu, ATrueZen, dj.narayanan	8	6	30
+422318	3	0	Black & Brown (6 Suits)	2021-02-01 — 20:39:33 UTC	a_small_emu, ATrueZen, dj.narayanan	10	6	30
+417765	4	25	Rainbow (5 Suits)	2021-01-28 — 19:19:29 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	54	5	25
+417710	3	29	Black & Brown (6 Suits)	2021-01-28 — 18:30:18 UTC	a_small_emu, ATrueZen, dj.narayanan	13	6	30
+415529	3	29	Black & Brown (6 Suits)	2021-01-26 — 18:38:22 UTC	a_small_emu, ATrueZen, dj.narayanan	13	6	30
+415502	3	26	Black & Brown (6 Suits)	2021-01-26 — 17:59:15 UTC	a_small_emu, ATrueZen, dj.narayanan	16	6	30
+415086	3	0	Black & Brown (6 Suits)	2021-01-26 — 01:38:54 UTC	a_small_emu, dj.narayanan, InfernoSnowman	17	6	30
+415078	3	26	Black & Brown (6 Suits)	2021-01-26 — 01:25:38 UTC	a_small_emu, dj.narayanan, InfernoSnowman	23	6	30
+409851	3	30	Rainbow & Light Pink (6 Suits)	2021-01-20 — 20:06:19 UTC	a_small_emu, ATrueZen, dj.narayanan	2	6	30
+409804	3	0	Rainbow & Light Pink (6 Suits)	2021-01-20 — 19:26:57 UTC	a_small_emu, ATrueZen, dj.narayanan	4	6	30
+409784	3	0	Rainbow & Light Pink (6 Suits)	2021-01-20 — 19:08:14 UTC	a_small_emu, ATrueZen, dj.narayanan	6	6	30
+409778	3	0	Rainbow & Light Pink (6 Suits)	2021-01-20 — 18:58:09 UTC	a_small_emu, ATrueZen, dj.narayanan	11	6	30
+406744	3	27	White & Muddy Rainbow (6 Suits)	2021-01-17 — 23:09:19 UTC	ATrueZen, dj.narayanan, InfernoSnowman	2	6	30
+406714	3	0	White & Muddy Rainbow (6 Suits)	2021-01-17 — 22:40:33 UTC	ATrueZen, dj.narayanan, InfernoSnowman	2	6	30
+406692	3	0	White & Muddy Rainbow (6 Suits)	2021-01-17 — 22:22:13 UTC	ATrueZen, dj.narayanan, InfernoSnowman	2	6	30
+406657	3	14	White & Muddy Rainbow (3 Suits)	2021-01-17 — 21:55:14 UTC	ATrueZen, dj.narayanan, InfernoSnowman	2	3	15
+406636	2	28	Reversed (6 Suits)	2021-01-17 — 21:36:51 UTC	ATrueZen, dj.narayanan	12	6	30
+406625	2	0	Reversed (6 Suits)	2021-01-17 — 21:29:57 UTC	ATrueZen, dj.narayanan	14	6	30
+404463	3	28	Reversed (6 Suits)	2021-01-15 — 23:21:50 UTC	ATrueZen, dj.narayanan, InfernoSnowman	10	6	30
+404445	3	0	Reversed (6 Suits)	2021-01-15 — 22:55:08 UTC	ATrueZen, dj.narayanan, InfernoSnowman	14	6	30
+404441	3	0	Reversed (6 Suits)	2021-01-15 — 22:49:52 UTC	ATrueZen, dj.narayanan, InfernoSnowman	20	6	30
+404430	3	25	Reversed (5 Suits)	2021-01-15 — 22:32:09 UTC	ATrueZen, dj.narayanan, InfernoSnowman	35	5	25
+404402	3	0	Rainbow & White (6 Suits)	2021-01-15 — 22:08:41 UTC	ATrueZen, dj.narayanan, InfernoSnowman	19	6	30
+403388	4	25	No Variant	2021-01-14 — 22:32:28 UTC	a_small_emu, dj.narayanan, InfernoSnowman, Samonlyfamcam	138	5	25
+402462	4	0	Rainbow & White (6 Suits)	2021-01-13 — 23:00:02 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	3	6	30
+402433	4	26	Rainbow & White (6 Suits)	2021-01-13 — 22:27:28 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	5	6	30
+401234	3	0	White & Muddy Rainbow (6 Suits)	2021-01-12 — 18:49:43 UTC	a_small_emu, ATrueZen, dj.narayanan	2	6	30
+401201	3	0	White & Muddy Rainbow (6 Suits)	2021-01-12 — 18:21:30 UTC	a_small_emu, ATrueZen, dj.narayanan	4	6	30
+394821	3	0	Black & Light Pink (6 Suits)	2021-01-06 — 22:08:30 UTC	a_small_emu, ATrueZen, dj.narayanan	16	6	30
+394802	4	0	Rainbow & White (6 Suits)	2021-01-06 — 21:55:25 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	7	6	30
+394792	4	30	Rainbow & White (6 Suits)	2021-01-06 — 21:50:14 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	8	6	30
+394757	3	25	Rainbow & White (5 Suits)	2021-01-06 — 21:05:03 UTC	a_small_emu, dj.narayanan, InfernoSnowman	26	5	25
+389594	3	23	Dark Pink (5 Suits)	2021-01-01 — 21:49:26 UTC	a_small_emu, ATrueZen, dj.narayanan	42	5	25
+389562	4	29	Black (6 Suits)	2021-01-01 — 21:21:36 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	45	6	30
+389522	4	0	Black (6 Suits)	2021-01-01 — 20:43:15 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	49	6	30
+389501	4	0	Black (6 Suits)	2021-01-01 — 20:20:43 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	55	6	30
+389495	4	0	Black (6 Suits)	2021-01-01 — 20:08:54 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	57	6	30
+389481	3	0	Rainbow & White (5 Suits)	2021-01-01 — 19:52:28 UTC	ATrueZen, dj.narayanan, InfernoSnowman	37	5	25
+387790	3	0	Rainbow & Pink (5 Suits)	2020-12-31 — 02:37:37 UTC	ATrueZen, dj.narayanan, InfernoSnowman	29	5	25
+379390	4	0	Pink (5 Suits)	2020-12-23 — 03:02:08 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	34	5	25
+379330	3	29	Muddy Rainbow & Dark Prism (6 Suits)	2020-12-23 — 02:25:01 UTC	ATrueZen, dj.narayanan, InfernoSnowman	2	6	30
+379155	3	30	Rainbow & Pink (6 Suits)	2020-12-22 — 22:18:10 UTC	a_small_emu, ATrueZen, dj.narayanan	16	6	30
+379088	3	0	Rainbow & Pink (6 Suits)	2020-12-22 — 21:16:49 UTC	a_small_emu, ATrueZen, dj.narayanan	19	6	30
+379062	3	0	Rainbow & Pink (6 Suits)	2020-12-22 — 20:56:15 UTC	a_small_emu, ATrueZen, dj.narayanan	23	6	30
+378072	3	19	Muddy Rainbow (4 Suits)	2020-12-21 — 21:52:21 UTC	a_small_emu, dj.narayanan, InfernoSnowman	15	4	20
+378055	3	0	Muddy Rainbow (4 Suits)	2020-12-21 — 21:32:20 UTC	a_small_emu, dj.narayanan, InfernoSnowman	18	4	20
+378046	3	0	Muddy Rainbow (4 Suits)	2020-12-21 — 21:22:28 UTC	a_small_emu, dj.narayanan, InfernoSnowman	22	4	20
+378038	3	0	Muddy Rainbow (4 Suits)	2020-12-21 — 21:10:32 UTC	a_small_emu, dj.narayanan, InfernoSnowman	29	4	20
+378021	3	15	Prism (3 Suits)	2020-12-21 — 20:46:27 UTC	a_small_emu, dj.narayanan, InfernoSnowman	9	3	15
+373088	2	0	Dark Null (6 Suits)	2020-12-16 — 20:53:02 UTC	ATrueZen, dj.narayanan	2	6	30
+373083	2	0	Dark Null (6 Suits)	2020-12-16 — 20:51:03 UTC	ATrueZen, dj.narayanan	2	6	30
+373078	2	0	Dark Null (6 Suits)	2020-12-16 — 20:49:51 UTC	ATrueZen, dj.narayanan	2	6	30
+373076	2	26	Dark Null (6 Suits)	2020-12-16 — 20:47:19 UTC	ATrueZen, dj.narayanan	3	6	30
+373067	2	0	Dark Null (6 Suits)	2020-12-16 — 20:42:22 UTC	ATrueZen, dj.narayanan	4	6	30
+373066	2	0	Dark Null (6 Suits)	2020-12-16 — 20:41:21 UTC	ATrueZen, dj.narayanan	5	6	30
+373062	2	0	Dark Null (6 Suits)	2020-12-16 — 20:39:26 UTC	ATrueZen, dj.narayanan	5	6	30
+373060	2	0	Dark Null (6 Suits)	2020-12-16 — 20:37:14 UTC	ATrueZen, dj.narayanan	5	6	30
+373056	2	0	Dark Null (6 Suits)	2020-12-16 — 20:35:11 UTC	ATrueZen, dj.narayanan	5	6	30
+373041	2	25	Dark Null (5 Suits)	2020-12-16 — 20:31:33 UTC	ATrueZen, dj.narayanan	4	5	25
+373027	2	0	Dark Null (5 Suits)	2020-12-16 — 20:25:16 UTC	ATrueZen, dj.narayanan	4	5	25
+373011	2	0	Dark Null (5 Suits)	2020-12-16 — 20:20:09 UTC	ATrueZen, dj.narayanan	4	5	25
+373006	2	0	Dark Null (5 Suits)	2020-12-16 — 20:15:22 UTC	ATrueZen, dj.narayanan	4	5	25
+373000	2	22	Dark Null (5 Suits)	2020-12-16 — 20:12:27 UTC	ATrueZen, dj.narayanan	5	5	25
+372992	2	0	Dark Null (5 Suits)	2020-12-16 — 20:07:20 UTC	ATrueZen, dj.narayanan	6	5	25
+372988	2	0	Dark Null (5 Suits)	2020-12-16 — 20:03:34 UTC	ATrueZen, dj.narayanan	7	5	25
+372987	2	0	Dark Null (5 Suits)	2020-12-16 — 20:02:16 UTC	ATrueZen, dj.narayanan	7	5	25
+372985	2	0	Dark Null (5 Suits)	2020-12-16 — 20:00:21 UTC	ATrueZen, dj.narayanan	7	5	25
+372982	2	0	Dark Null (5 Suits)	2020-12-16 — 19:57:40 UTC	ATrueZen, dj.narayanan	7	5	25
+372981	2	0	Dark Null (5 Suits)	2020-12-16 — 19:55:50 UTC	ATrueZen, dj.narayanan	7	5	25
+372980	2	0	Dark Null (5 Suits)	2020-12-16 — 19:54:28 UTC	ATrueZen, dj.narayanan	7	5	25
+372976	2	0	Dark Null (5 Suits)	2020-12-16 — 19:47:51 UTC	ATrueZen, dj.narayanan	7	5	25
+372973	2	0	Dark Null (5 Suits)	2020-12-16 — 19:43:46 UTC	ATrueZen, dj.narayanan	7	5	25
+369568	3	25	Muddy Rainbow (5 Suits)	2020-12-13 — 03:54:25 UTC	a_small_emu, dj.narayanan, InfernoSnowman	46	5	25
+368288	4	0	Pink (5 Suits)	2020-12-12 — 01:50:15 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	51	5	25
+368253	4	30	Pink (6 Suits)	2020-12-12 — 01:06:32 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	30	6	30
+367376	2	30	White & Brown (6 Suits)	2020-12-11 — 02:49:38 UTC	ATrueZen, dj.narayanan	21	6	30
+367360	2	0	White & Brown (6 Suits)	2020-12-11 — 02:36:53 UTC	ATrueZen, dj.narayanan	27	6	30
+366395	2	15	Pink & Muddy Rainbow (3 Suits)	2020-12-10 — 00:42:37 UTC	ATrueZen, dj.narayanan	4	3	15
+366393	2	0	Pink & Muddy Rainbow (3 Suits)	2020-12-10 — 00:37:43 UTC	ATrueZen, dj.narayanan	5	3	15
+366392	2	0	Pink & Muddy Rainbow (3 Suits)	2020-12-10 — 00:35:47 UTC	ATrueZen, dj.narayanan	6	3	15
+366389	2	14	Pink & Muddy Rainbow (3 Suits)	2020-12-10 — 00:32:45 UTC	ATrueZen, dj.narayanan	8	3	15
+366384	2	20	Pink & Muddy Rainbow (4 Suits)	2020-12-10 — 00:25:48 UTC	ATrueZen, dj.narayanan	7	4	20
+366379	2	0	Pink & Muddy Rainbow (4 Suits)	2020-12-10 — 00:21:30 UTC	ATrueZen, dj.narayanan	8	4	20
+366372	2	25	Pink & Muddy Rainbow (5 Suits)	2020-12-10 — 00:12:15 UTC	ATrueZen, dj.narayanan	11	5	25
+366366	2	30	Pink & Muddy Rainbow (6 Suits)	2020-12-10 — 00:01:14 UTC	ATrueZen, dj.narayanan	7	6	30
+366363	2	0	Pink & Muddy Rainbow (6 Suits)	2020-12-09 — 23:50:33 UTC	ATrueZen, dj.narayanan	8	6	30
+365227	3	0	Pink & Muddy Rainbow (6 Suits)	2020-12-09 — 02:36:55 UTC	a_small_emu, ATrueZen, dj.narayanan	5	6	30
+365201	3	0	Pink & Muddy Rainbow (6 Suits)	2020-12-09 — 02:21:41 UTC	a_small_emu, ATrueZen, dj.narayanan	4	6	30
+365173	3	27	Pink & Muddy Rainbow (6 Suits)	2020-12-09 — 02:07:19 UTC	a_small_emu, ATrueZen, dj.narayanan	7	6	30
+365118	2	0	Pink & Gray (5 Suits)	2020-12-09 — 01:40:37 UTC	ATrueZen, dj.narayanan	2	5	25
+365116	2	0	Pink & Gray (5 Suits)	2020-12-09 — 01:38:54 UTC	ATrueZen, dj.narayanan	4	5	25
+365108	2	0	Pink & Gray (5 Suits)	2020-12-09 — 01:36:37 UTC	ATrueZen, dj.narayanan	4	5	25
+365097	2	0	Pink & Gray (5 Suits)	2020-12-09 — 01:32:10 UTC	ATrueZen, dj.narayanan	4	5	25
+365088	2	0	Pink & Gray (5 Suits)	2020-12-09 — 01:26:18 UTC	ATrueZen, dj.narayanan	6	5	25
+365087	2	0	Pink & Gray (5 Suits)	2020-12-09 — 01:24:20 UTC	ATrueZen, dj.narayanan	7	5	25
+365084	2	0	Pink & Gray (5 Suits)	2020-12-09 — 01:22:39 UTC	ATrueZen, dj.narayanan	9	5	25
+365077	2	0	Pink & Gray (5 Suits)	2020-12-09 — 01:14:27 UTC	ATrueZen, dj.narayanan	11	5	25
+365072	2	0	Pink & Gray (5 Suits)	2020-12-09 — 01:10:12 UTC	ATrueZen, dj.narayanan	11	5	25
+363838	3	22	Pink & Gray (5 Suits)	2020-12-07 — 19:44:21 UTC	a_small_emu, ATrueZen, dj.narayanan	4	5	25
+363815	3	0	Pink & Gray (5 Suits)	2020-12-07 — 19:15:02 UTC	a_small_emu, ATrueZen, dj.narayanan	4	5	25
+363813	3	0	Pink & Gray (5 Suits)	2020-12-07 — 19:08:01 UTC	a_small_emu, ATrueZen, dj.narayanan	5	5	25
+363795	3	0	Pink & Gray (5 Suits)	2020-12-07 — 18:47:48 UTC	a_small_emu, ATrueZen, dj.narayanan	8	5	25
+363789	3	30	Pink & Gray (6 Suits)	2020-12-07 — 18:33:48 UTC	a_small_emu, ATrueZen, dj.narayanan	9	6	30
+363768	3	0	Pink & Gray (6 Suits)	2020-12-07 — 18:05:12 UTC	a_small_emu, ATrueZen, dj.narayanan	10	6	30
+363764	2	0	Pink & Gray (6 Suits)	2020-12-07 — 17:55:10 UTC	ATrueZen, dj.narayanan	12	6	30
+361635	3	0	Rainbow & Pink (6 Suits)	2020-12-05 — 18:34:42 UTC	a_small_emu, ATrueZen, dj.narayanan	39	6	30
+361616	3	30	Pink & White (6 Suits)	2020-12-05 — 18:08:31 UTC	a_small_emu, ATrueZen, dj.narayanan	8	6	30
+360738	3	0	Pink & White (6 Suits)	2020-12-04 — 20:43:58 UTC	a_small_emu, ATrueZen, dj.narayanan	11	6	30
+360733	3	0	Gray (5 Suits)	2020-12-04 — 20:33:43 UTC	a_small_emu, ATrueZen, dj.narayanan	17	5	25
+360731	3	0	Gray (5 Suits)	2020-12-04 — 20:29:43 UTC	a_small_emu, ATrueZen, dj.narayanan	16	5	25
+360715	3	0	Gray (5 Suits)	2020-12-04 — 20:13:49 UTC	a_small_emu, ATrueZen, dj.narayanan	20	5	25
+360699	3	0	Gray (5 Suits)	2020-12-04 — 19:54:19 UTC	a_small_emu, ATrueZen, dj.narayanan	19	5	25
+360683	3	24	Gray (5 Suits)	2020-12-04 — 19:40:38 UTC	a_small_emu, ATrueZen, dj.narayanan	21	5	25
+360674	3	0	Gray (5 Suits)	2020-12-04 — 19:26:58 UTC	a_small_emu, ATrueZen, dj.narayanan	26	5	25
+360665	3	0	Gray (5 Suits)	2020-12-04 — 19:19:20 UTC	a_small_emu, ATrueZen, dj.narayanan	35	5	25
+360659	2	25	Rainbow & Gray (5 Suits)	2020-12-04 — 19:12:43 UTC	ATrueZen, dj.narayanan	8	5	25
+360652	2	0	Rainbow & Gray (5 Suits)	2020-12-04 — 19:04:41 UTC	ATrueZen, dj.narayanan	8	5	25
+360648	2	0	Rainbow & Gray (5 Suits)	2020-12-04 — 18:58:52 UTC	ATrueZen, dj.narayanan	12	5	25
+360640	2	0	Rainbow & Gray (5 Suits)	2020-12-04 — 18:54:09 UTC	ATrueZen, dj.narayanan	13	5	25
+360634	2	0	Rainbow & Gray (5 Suits)	2020-12-04 — 18:49:17 UTC	ATrueZen, dj.narayanan	15	5	25
+360627	2	0	Rainbow & Gray (5 Suits)	2020-12-04 — 18:41:00 UTC	ATrueZen, dj.narayanan	19	5	25
+360224	3	0	Gray (5 Suits)	2020-12-04 — 03:55:47 UTC	a_small_emu, ATrueZen, dj.narayanan	37	5	25
+360211	3	0	Gray (5 Suits)	2020-12-04 — 03:38:10 UTC	a_small_emu, ATrueZen, dj.narayanan	42	5	25
+360196	3	30	Gray (6 Suits)	2020-12-04 — 03:10:59 UTC	a_small_emu, ATrueZen, dj.narayanan	36	6	30
+360164	3	0	Gray (6 Suits)	2020-12-04 — 02:39:08 UTC	a_small_emu, ATrueZen, dj.narayanan	42	6	30
+360156	3	0	Gray (6 Suits)	2020-12-04 — 02:28:05 UTC	a_small_emu, ATrueZen, dj.narayanan	45	6	30
+360152	3	0	Gray (6 Suits)	2020-12-04 — 02:18:50 UTC	a_small_emu, ATrueZen, dj.narayanan	48	6	30
+360138	3	0	Gray (6 Suits)	2020-12-04 — 01:52:16 UTC	a_small_emu, ATrueZen, dj.narayanan	55	6	30
+359948	3	27	Gray Pink (6 Suits)	2020-12-03 — 20:56:38 UTC	a_small_emu, ATrueZen, dj.narayanan	7	6	30
+359934	3	0	Gray Pink (6 Suits)	2020-12-03 — 20:36:35 UTC	a_small_emu, ATrueZen, dj.narayanan	9	6	30
+359922	3	0	Gray Pink (6 Suits)	2020-12-03 — 20:22:38 UTC	a_small_emu, ATrueZen, dj.narayanan	9	6	30
+359916	3	0	Gray Pink (6 Suits)	2020-12-03 — 20:14:20 UTC	a_small_emu, ATrueZen, dj.narayanan	11	6	30
+359905	3	0	Gray Pink (6 Suits)	2020-12-03 — 19:57:36 UTC	a_small_emu, ATrueZen, dj.narayanan	13	6	30
+359896	3	29	Gray Pink (6 Suits)	2020-12-03 — 19:41:45 UTC	a_small_emu, ATrueZen, dj.narayanan	15	6	30
+359506	3	20	Prism (4 Suits)	2020-12-03 — 04:53:28 UTC	a_small_emu, ATrueZen, dj.narayanan	21	4	20
+359463	3	30	Dark Pink (6 Suits)	2020-12-03 — 04:28:30 UTC	a_small_emu, ATrueZen, dj.narayanan	6	6	30
+359448	3	0	Dark Pink (6 Suits)	2020-12-03 — 04:07:08 UTC	a_small_emu, ATrueZen, dj.narayanan	8	6	30
+359440	2	30	Rainbow & Gray (6 Suits)	2020-12-03 — 03:56:37 UTC	ATrueZen, dj.narayanan	9	6	30
+359430	2	25	Rainbow & Dark Pink (5 Suits)	2020-12-03 — 03:47:46 UTC	ATrueZen, dj.narayanan	6	5	25
+359423	2	0	Rainbow & Dark Pink (5 Suits)	2020-12-03 — 03:36:48 UTC	ATrueZen, dj.narayanan	6	5	25
+359179	3	0	Prism (4 Suits)	2020-12-02 — 21:21:38 UTC	a_small_emu, ATrueZen, dj.narayanan	27	4	20
+359160	3	0	Prism (4 Suits)	2020-12-02 — 21:04:29 UTC	a_small_emu, ATrueZen, dj.narayanan	45	4	20
+359147	3	0	Dark Pink (6 Suits)	2020-12-02 — 20:58:52 UTC	a_small_emu, ATrueZen, dj.narayanan	8	6	30
+359141	3	0	Dark Pink (6 Suits)	2020-12-02 — 20:50:40 UTC	a_small_emu, ATrueZen, dj.narayanan	8	6	30
+359108	3	0	Dark Pink (6 Suits)	2020-12-02 — 20:22:45 UTC	a_small_emu, ATrueZen, dj.narayanan	8	6	30
+359094	3	0	Dark Pink (6 Suits)	2020-12-02 — 20:08:48 UTC	a_small_emu, ATrueZen, dj.narayanan	8	6	30
+359089	3	0	Dark Pink (6 Suits)	2020-12-02 — 20:01:55 UTC	a_small_emu, ATrueZen, dj.narayanan	9	6	30
+359066	3	0	Dark Pink (6 Suits)	2020-12-02 — 19:36:11 UTC	a_small_emu, ATrueZen, dj.narayanan	10	6	30
+358522	3	28	Dark Pink (6 Suits)	2020-12-01 — 21:13:46 UTC	ATrueZen, dj.narayanan, InfernoSnowman	11	6	30
+358485	3	0	Dark Pink (6 Suits)	2020-12-01 — 20:43:50 UTC	ATrueZen, dj.narayanan, InfernoSnowman	13	6	30
+358474	3	0	Dark Pink (6 Suits)	2020-12-01 — 20:24:46 UTC	ATrueZen, dj.narayanan, InfernoSnowman	15	6	30
+358459	3	0	Dark Pink (6 Suits)	2020-12-01 — 20:08:22 UTC	ATrueZen, dj.narayanan, InfernoSnowman	17	6	30
+358340	3	15	3 Suits	2020-12-01 — 16:42:49 UTC	bob65536, dj.narayanan, Onen	39	3	15
+358336	3	14	3 Suits	2020-12-01 — 16:30:55 UTC	bob65536, dj.narayanan, Onen	88	3	15
+357872	3	30	Dark Rainbow (6 Suits)	2020-11-30 — 23:37:09 UTC	a_small_emu, ATrueZen, dj.narayanan	20	6	30
+357860	2	0	Rainbow & Dark Pink (5 Suits)	2020-11-30 — 23:11:54 UTC	ATrueZen, dj.narayanan	8	5	25
+357854	2	0	Rainbow & Dark Pink (5 Suits)	2020-11-30 — 23:09:42 UTC	ATrueZen, dj.narayanan	9	5	25
+357851	2	0	Rainbow & Dark Pink (5 Suits)	2020-11-30 — 23:07:31 UTC	ATrueZen, dj.narayanan	13	5	25
+357775	3	26	Dark Rainbow (6 Suits)	2020-11-30 — 21:00:05 UTC	a_small_emu, ATrueZen, dj.narayanan	20	6	30
+357758	3	0	Dark Rainbow (6 Suits)	2020-11-30 — 20:41:39 UTC	a_small_emu, ATrueZen, dj.narayanan	19	6	30
+357747	3	0	Dark Rainbow (6 Suits)	2020-11-30 — 20:33:49 UTC	a_small_emu, ATrueZen, dj.narayanan	19	6	30
+357734	3	29	Dark Rainbow (6 Suits)	2020-11-30 — 20:10:20 UTC	a_small_emu, ATrueZen, dj.narayanan	23	6	30
+355670	4	0	No Variant	2020-11-28 — 03:44:16 UTC	a_small_emu, ATrueZen, beebeeb123, dj.narayanan	149	5	25
+355635	4	0	No Variant	2020-11-28 — 03:25:34 UTC	a_small_emu, ATrueZen, beebeeb123, dj.narayanan	156	5	25
+355284	2	0	Rainbow & Gray (6 Suits)	2020-11-27 — 20:31:24 UTC	ATrueZen, dj.narayanan	10	6	30
+355276	2	0	Rainbow & Gray (6 Suits)	2020-11-27 — 20:27:01 UTC	ATrueZen, dj.narayanan	12	6	30
+355273	2	0	Rainbow & Gray (6 Suits)	2020-11-27 — 20:26:08 UTC	ATrueZen, dj.narayanan	15	6	30
+355271	2	0	Rainbow & Gray (6 Suits)	2020-11-27 — 20:25:25 UTC	ATrueZen, dj.narayanan	16	6	30
+355269	2	0	Rainbow & Gray (6 Suits)	2020-11-27 — 20:23:04 UTC	ATrueZen, dj.narayanan	17	6	30
+355267	2	0	Rainbow & Gray (6 Suits)	2020-11-27 — 20:19:50 UTC	ATrueZen, dj.narayanan	18	6	30
+355264	2	0	Rainbow & Gray (6 Suits)	2020-11-27 — 20:18:21 UTC	ATrueZen, dj.narayanan	22	6	30
+355253	2	0	Rainbow & Gray (6 Suits)	2020-11-27 — 20:07:47 UTC	ATrueZen, dj.narayanan	24	6	30
+354024	3	0	Dark Rainbow (6 Suits)	2020-11-26 — 03:26:10 UTC	a_small_emu, ATrueZen, dj.narayanan	26	6	30
+354004	3	12	Light Pink (3 Suits)	2020-11-26 — 03:06:55 UTC	a_small_emu, ATrueZen, dj.narayanan	3	3	15
+353994	3	0	Light Pink (3 Suits)	2020-11-26 — 02:57:44 UTC	a_small_emu, ATrueZen, dj.narayanan	4	3	15
+353984	3	14	Light Pink (3 Suits)	2020-11-26 — 02:50:11 UTC	a_small_emu, ATrueZen, dj.narayanan	4	3	15
+353977	3	0	Light Pink (3 Suits)	2020-11-26 — 02:41:31 UTC	a_small_emu, ATrueZen, dj.narayanan	6	3	15
+353970	3	14	Light Pink (3 Suits)	2020-11-26 — 02:32:50 UTC	a_small_emu, ATrueZen, dj.narayanan	7	3	15
+353956	3	25	Prism (5 Suits)	2020-11-26 — 02:15:32 UTC	a_small_emu, ATrueZen, dj.narayanan	14	5	25
+352816	3	0	Prism (6 Suits)	2020-11-24 — 18:59:11 UTC	a_small_emu, ATrueZen, dj.narayanan	20	6	30
+352806	3	30	Prism (6 Suits)	2020-11-24 — 18:49:11 UTC	a_small_emu, ATrueZen, dj.narayanan	21	6	30
+352790	4	0	Pink (5 Suits)	2020-11-24 — 18:23:58 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	69	5	25
+352787	4	0	Ambiguous & Dual-Color	2020-11-24 — 18:15:59 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	5	6	30
+352780	4	0	Ambiguous & Dual-Color	2020-11-24 — 18:07:32 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	11	6	30
+351887	3	28	Dark Pink (6 Suits)	2020-11-23 — 20:33:02 UTC	a_small_emu, dj.narayanan, InfernoSnowman	16	6	30
+351868	3	28	Dark Pink (6 Suits)	2020-11-23 — 20:12:18 UTC	a_small_emu, ATrueZen, dj.narayanan	18	6	30
+351847	3	0	Dark Pink (6 Suits)	2020-11-23 — 19:49:52 UTC	a_small_emu, ATrueZen, dj.narayanan	24	6	30
+351834	3	27	Dark Pink (6 Suits)	2020-11-23 — 19:33:29 UTC	a_small_emu, ATrueZen, dj.narayanan	34	6	30
+351824	3	0	Dark Pink (6 Suits)	2020-11-23 — 19:13:14 UTC	a_small_emu, ATrueZen, dj.narayanan	41	6	30
+350887	2	30	Rainbow & Dark Pink (6 Suits)	2020-11-22 — 18:46:14 UTC	ATrueZen, dj.narayanan	6	6	30
+350879	2	0	Rainbow & Dark Pink (6 Suits)	2020-11-22 — 18:39:18 UTC	ATrueZen, dj.narayanan	6	6	30
+350872	2	0	Rainbow & Dark Pink (6 Suits)	2020-11-22 — 18:31:39 UTC	ATrueZen, dj.narayanan	7	6	30
+350866	2	0	Rainbow & Dark Pink (6 Suits)	2020-11-22 — 18:22:26 UTC	ATrueZen, dj.narayanan	8	6	30
+350864	2	0	Rainbow & Dark Pink (6 Suits)	2020-11-22 — 18:19:48 UTC	ATrueZen, dj.narayanan	13	6	30
+350857	2	0	Black & Dark Rainbow (6 Suits)	2020-11-22 — 18:10:58 UTC	ATrueZen, dj.narayanan	19	6	30
+350853	2	0	Black & Dark Rainbow (6 Suits)	2020-11-22 — 18:06:51 UTC	ATrueZen, dj.narayanan	19	6	30
+350852	2	0	Black & Dark Rainbow (6 Suits)	2020-11-22 — 18:05:40 UTC	ATrueZen, dj.narayanan	20	6	30
+350848	2	0	Black & Dark Rainbow (6 Suits)	2020-11-22 — 18:03:21 UTC	ATrueZen, dj.narayanan	21	6	30
+350845	2	0	Black & Dark Rainbow (6 Suits)	2020-11-22 — 17:58:26 UTC	ATrueZen, dj.narayanan	21	6	30
+350842	2	0	Black & Dark Rainbow (6 Suits)	2020-11-22 — 17:55:51 UTC	ATrueZen, dj.narayanan	21	6	30
+350840	2	27	Black & Dark Rainbow (6 Suits)	2020-11-22 — 17:51:12 UTC	ATrueZen, dj.narayanan	22	6	30
+349027	2	29	Black & Dark Rainbow (6 Suits)	2020-11-20 — 23:46:44 UTC	ATrueZen, dj.narayanan	29	6	30
+349024	2	0	Black & Dark Rainbow (6 Suits)	2020-11-20 — 23:39:55 UTC	ATrueZen, dj.narayanan	32	6	30
+349023	2	0	Black & Dark Rainbow (6 Suits)	2020-11-20 — 23:39:14 UTC	ATrueZen, dj.narayanan	32	6	30
+349020	2	0	Black & Dark Rainbow (6 Suits)	2020-11-20 — 23:36:13 UTC	ATrueZen, dj.narayanan	37	6	30
+347337	3	30	Light Pink (6 Suits)	2020-11-18 — 22:53:18 UTC	a_small_emu, ATrueZen, dj.narayanan	25	6	30
+347317	3	26	Light Pink (6 Suits)	2020-11-18 — 22:24:45 UTC	a_small_emu, ATrueZen, dj.narayanan	34	6	30
+347295	3	25	No Variant	2020-11-18 — 21:51:54 UTC	a_small_emu, ATrueZen, dj.narayanan	199	5	25
+339545	3	22	No Variant	2020-11-09 — 22:50:44 UTC	ATrueZen, beebeeb123, dj.narayanan	206	5	25
+339529	3	21	No Variant	2020-11-09 — 22:30:47 UTC	ATrueZen, beebeeb123, dj.narayanan	320	5	25
+339516	2	0	Black & Dark Rainbow (6 Suits)	2020-11-09 — 22:11:57 UTC	ATrueZen, dj.narayanan	42	6	30
+336381	2	25	Black & Muddy Rainbow (5 Suits)	2020-11-05 — 23:21:50 UTC	ATrueZen, dj.narayanan	20	5	25
+336371	2	30	Black & Muddy Rainbow (6 Suits)	2020-11-05 — 23:13:37 UTC	ATrueZen, dj.narayanan	14	6	30
+336367	2	0	Black & Muddy Rainbow (6 Suits)	2020-11-05 — 23:07:52 UTC	ATrueZen, dj.narayanan	14	6	30
+336365	2	0	Black & Muddy Rainbow (6 Suits)	2020-11-05 — 23:06:09 UTC	ATrueZen, dj.narayanan	15	6	30
+336363	2	0	Black & Muddy Rainbow (6 Suits)	2020-11-05 — 23:01:37 UTC	ATrueZen, dj.narayanan	16	6	30
+336361	2	0	Black & Muddy Rainbow (6 Suits)	2020-11-05 — 22:57:44 UTC	ATrueZen, dj.narayanan	18	6	30
+336359	2	25	Black & Prism (5 Suits)	2020-11-05 — 22:51:47 UTC	ATrueZen, dj.narayanan	16	5	25
+336358	2	24	Black & Prism (5 Suits)	2020-11-05 — 22:45:21 UTC	ATrueZen, dj.narayanan	23	5	25
+336355	2	0	Black & Prism (5 Suits)	2020-11-05 — 22:39:38 UTC	ATrueZen, dj.narayanan	25	5	25
+336353	2	0	Black & Prism (5 Suits)	2020-11-05 — 22:36:58 UTC	ATrueZen, dj.narayanan	25	5	25
+336351	2	0	Black & Prism (5 Suits)	2020-11-05 — 22:34:31 UTC	ATrueZen, dj.narayanan	26	5	25
+336350	2	30	Black & Prism (6 Suits)	2020-11-05 — 22:27:40 UTC	ATrueZen, dj.narayanan	31	6	30
+336333	2	25	Black & Omni (5 Suits)	2020-11-05 — 22:10:43 UTC	ATrueZen, dj.narayanan	22	5	25
+336323	2	0	Black & Omni (5 Suits)	2020-11-05 — 21:59:18 UTC	ATrueZen, dj.narayanan	25	5	25
+336317	2	30	Black & Omni (6 Suits)	2020-11-05 — 21:50:52 UTC	ATrueZen, dj.narayanan	24	6	30
+335361	3	25	No Variant	2020-11-04 — 19:53:30 UTC	a_small_emu, beebeeb123, dj.narayanan	680	5	25
+334856	3	0	No Variant	2020-11-04 — 00:27:58 UTC	ATrueZen, beebeeb123, dj.narayanan	324	5	25
+334854	3	24	No Variant	2020-11-04 — 00:22:14 UTC	ATrueZen, beebeeb123, dj.narayanan	344	5	25
+333941	5	24	No Variant	2020-11-02 — 21:46:01 UTC	a_small_emu, ATrueZen, beebeeb123, dj.narayanan, InfernoSnowman	837	5	25
+333904	3	25	No Variant	2020-11-02 — 21:01:19 UTC	a_small_emu, beebeeb123, dj.narayanan	750	5	25
+333878	3	25	No Variant	2020-11-02 — 20:28:19 UTC	a_small_emu, beebeeb123, dj.narayanan	1095	5	25
+332368	4	25	No Variant	2020-10-31 — 23:17:41 UTC	ATrueZen, beebeeb123, dj.narayanan, InfernoSnowman	158	5	25
+332331	4	0	No Variant	2020-10-31 — 22:34:57 UTC	ATrueZen, beebeeb123, dj.narayanan, InfernoSnowman	162	5	25
+332316	2	0	Pink & White (6 Suits)	2020-10-31 — 22:18:01 UTC	ATrueZen, dj.narayanan	12	6	30
+331506	6	26	Totally Blind (6 Suits)	2020-10-30 — 22:55:05 UTC	a_small_emu, ATrueZen, beebeeb123, dj.narayanan, InfernoSnowman, noodle	3	6	30
+331456	4	0	Totally Blind (6 Suits)	2020-10-30 — 21:37:11 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	2	6	30
+331425	4	0	Totally Blind (6 Suits)	2020-10-30 — 21:14:21 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	3	6	30
+331418	4	0	Totally Blind (6 Suits)	2020-10-30 — 21:11:23 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	5	6	30
+331405	3	23	Totally Blind (5 Suits)	2020-10-30 — 20:59:00 UTC	a_small_emu, ATrueZen, dj.narayanan	4	5	25
+330878	4	0	No Variant	2020-10-30 — 03:15:54 UTC	dj.narayanan, ksfortson, wump, XMIL	57	5	25
+330871	4	0	Rainbow (4 Suits)	2020-10-30 — 02:59:33 UTC	dj.narayanan, ksfortson, wump, XMIL	20	4	20
+330629	3	0	Pink & Brown (6 Suits)	2020-10-29 — 21:03:48 UTC	a_small_emu, ATrueZen, dj.narayanan	18	6	30
+330614	3	25	Black & Pink (5 Suits)	2020-10-29 — 20:45:28 UTC	a_small_emu, ATrueZen, dj.narayanan	9	5	25
+330017	4	26	Black & Pink (6 Suits)	2020-10-28 — 20:08:09 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	11	6	30
+330002	4	0	Black & Pink (6 Suits)	2020-10-28 — 19:49:28 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	13	6	30
+329992	4	0	Black & Pink (6 Suits)	2020-10-28 — 19:40:40 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	18	6	30
+329975	3	0	Black & Pink (5 Suits)	2020-10-28 — 19:25:38 UTC	a_small_emu, ATrueZen, dj.narayanan	10	5	25
+329973	3	0	Black & Pink (5 Suits)	2020-10-28 — 19:23:52 UTC	a_small_emu, ATrueZen, dj.narayanan	13	5	25
+329951	3	30	Black & Pink (6 Suits)	2020-10-28 — 19:05:26 UTC	a_small_emu, ATrueZen, dj.narayanan	3	6	30
+329930	3	0	Black & Pink (6 Suits)	2020-10-28 — 18:37:59 UTC	a_small_emu, dj.narayanan, InfernoSnowman	4	6	30
+329502	3	13	Pink & White (3 Suits)	2020-10-28 — 00:19:18 UTC	ATrueZen, dj.narayanan, InfernoSnowman	11	3	15
+329495	4	20	Pink & White (4 Suits)	2020-10-28 — 00:01:02 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	9	4	20
+329481	3	0	Pink & White (4 Suits)	2020-10-27 — 23:41:47 UTC	a_small_emu, dj.narayanan, InfernoSnowman	9	4	20
+329341	6	28	Black (6 Suits)	2020-10-27 — 19:34:24 UTC	cockdestroyer, dj.narayanan, jack67889, jeff10, Pablo-, sephiroth	8	6	30
+329330	6	0	Black (6 Suits)	2020-10-27 — 19:07:56 UTC	cockdestroyer, dj.narayanan, jack67889, jeff10, Pablo-, sephiroth	15	6	30
+329325	4	27	Black (6 Suits)	2020-10-27 — 18:48:49 UTC	dj.narayanan, jeff10, Pablo-, superbipbip	102	6	30
+328720	3	0	Black (5 Suits)	2020-10-26 — 19:12:07 UTC	ADrone, dj.narayanan, egerdm	20	5	25
+327591	3	0	Pink & White (4 Suits)	2020-10-24 — 23:22:56 UTC	ATrueZen, dj.narayanan, InfernoSnowman	13	4	20
+327580	3	25	Pink & White (5 Suits)	2020-10-24 — 23:07:32 UTC	ATrueZen, dj.narayanan, InfernoSnowman	7	5	25
+327561	3	0	Pink & White (5 Suits)	2020-10-24 — 22:43:53 UTC	ATrueZen, dj.narayanan, InfernoSnowman	14	5	25
+327543	3	0	Pink & White (5 Suits)	2020-10-24 — 22:21:46 UTC	ATrueZen, dj.narayanan, InfernoSnowman	17	5	25
+325896	3	0	Special Mix (6 Suits)	2020-10-22 — 18:46:56 UTC	a_small_emu, ATrueZen, dj.narayanan	12	6	30
+325879	3	0	Special Mix (6 Suits)	2020-10-22 — 18:27:49 UTC	a_small_emu, ATrueZen, dj.narayanan	15	6	30
+325870	3	0	Special Mix (6 Suits)	2020-10-22 — 18:20:27 UTC	a_small_emu, ATrueZen, dj.narayanan	23	6	30
+325854	3	30	Pink & White (6 Suits)	2020-10-22 — 18:09:37 UTC	a_small_emu, ATrueZen, dj.narayanan	15	6	30
+325838	2	0	Pink & White (6 Suits)	2020-10-22 — 17:53:55 UTC	ATrueZen, dj.narayanan	13	6	30
+325830	2	0	Pink & White (6 Suits)	2020-10-22 — 17:48:38 UTC	ATrueZen, dj.narayanan	15	6	30
+325828	2	29	Pink & White (6 Suits)	2020-10-22 — 17:45:05 UTC	ATrueZen, dj.narayanan	15	6	30
+325821	2	0	Pink & White (6 Suits)	2020-10-22 — 17:34:26 UTC	ATrueZen, dj.narayanan	20	6	30
+325818	2	0	Pink & White (6 Suits)	2020-10-22 — 17:32:02 UTC	ATrueZen, dj.narayanan	23	6	30
+325813	2	0	Pink & White (6 Suits)	2020-10-22 — 17:27:42 UTC	ATrueZen, dj.narayanan	26	6	30
+325810	2	15	Rainbow & Prism (3 Suits)	2020-10-22 — 17:19:18 UTC	ATrueZen, dj.narayanan	5	3	15
+325808	2	0	Rainbow & Prism (3 Suits)	2020-10-22 — 17:15:16 UTC	ATrueZen, dj.narayanan	7	3	15
+325807	2	0	Rainbow & Prism (3 Suits)	2020-10-22 — 17:10:14 UTC	ATrueZen, dj.narayanan	20	3	15
+325675	2	25	Black & Brown (5 Suits)	2020-10-22 — 07:03:37 UTC	ATrueZen, dj.narayanan	1	5	25
+325673	2	0	Black & Brown (5 Suits)	2020-10-22 — 07:00:03 UTC	ATrueZen, dj.narayanan	1	5	25
+325672	2	0	Black & Brown (5 Suits)	2020-10-22 — 06:58:14 UTC	ATrueZen, dj.narayanan	1	5	25
+325669	2	0	Black & Brown (5 Suits)	2020-10-22 — 06:54:47 UTC	ATrueZen, dj.narayanan	1	5	25
+325668	2	0	Black & Brown (5 Suits)	2020-10-22 — 06:53:27 UTC	ATrueZen, dj.narayanan	1	5	25
+325664	2	0	Black & Brown (5 Suits)	2020-10-22 — 06:50:00 UTC	ATrueZen, dj.narayanan	1	5	25
+325661	2	0	Black & Brown (5 Suits)	2020-10-22 — 06:47:29 UTC	ATrueZen, dj.narayanan	1	5	25
+325658	2	0	Black & Brown (5 Suits)	2020-10-22 — 06:42:30 UTC	ATrueZen, dj.narayanan	1	5	25
+325653	2	0	Black & Brown (5 Suits)	2020-10-22 — 06:39:16 UTC	ATrueZen, dj.narayanan	1	5	25
+325650	2	24	Black & Brown (5 Suits)	2020-10-22 — 06:35:42 UTC	ATrueZen, dj.narayanan	1	5	25
+325644	2	0	Black & Brown (5 Suits)	2020-10-22 — 06:29:27 UTC	ATrueZen, dj.narayanan	1	5	25
+325643	2	0	Black & Brown (5 Suits)	2020-10-22 — 06:29:07 UTC	ATrueZen, dj.narayanan	1	5	25
+325366	3	22	Black & Pink (5 Suits)	2020-10-22 — 00:41:39 UTC	a_small_emu, dj.narayanan, orucsoraihc	15	5	25
+325343	4	22	Up or Down (5 Suits)	2020-10-22 — 00:07:13 UTC	a_small_emu, dj.narayanan, newduke, orucsoraihc	35	5	25
+325199	3	0	Black & Pink (6 Suits)	2020-10-21 — 19:59:27 UTC	a_small_emu, ATrueZen, dj.narayanan	4	6	30
+325182	3	0	Black & Pink (6 Suits)	2020-10-21 — 19:50:53 UTC	a_small_emu, ATrueZen, dj.narayanan	4	6	30
+325176	3	0	Black & Pink (6 Suits)	2020-10-21 — 19:47:19 UTC	a_small_emu, ATrueZen, dj.narayanan	6	6	30
+325163	3	0	Black & Pink (6 Suits)	2020-10-21 — 19:37:00 UTC	a_small_emu, ATrueZen, dj.narayanan	7	6	30
+325140	3	0	Black & Pink (6 Suits)	2020-10-21 — 19:12:54 UTC	a_small_emu, ATrueZen, dj.narayanan	9	6	30
+325120	3	0	Black & Pink (6 Suits)	2020-10-21 — 18:51:04 UTC	a_small_emu, ATrueZen, dj.narayanan	12	6	30
+325114	3	0	Black & Pink (6 Suits)	2020-10-21 — 18:41:35 UTC	a_small_emu, ATrueZen, dj.narayanan	12	6	30
+325108	3	0	Black & Pink (6 Suits)	2020-10-21 — 18:36:59 UTC	a_small_emu, ATrueZen, dj.narayanan	20	6	30
+325097	3	27	Black & Pink (6 Suits)	2020-10-21 — 18:23:00 UTC	a_small_emu, ATrueZen, dj.narayanan	25	6	30
+325088	3	0	Black & Pink (6 Suits)	2020-10-21 — 17:59:11 UTC	a_small_emu, ATrueZen, dj.narayanan	31	6	30
+324618	3	28	Gray Pink (6 Suits)	2020-10-20 — 21:13:30 UTC	a_small_emu, ATrueZen, dj.narayanan	21	6	30
+324596	3	29	Gray Pink (6 Suits)	2020-10-20 — 20:44:01 UTC	a_small_emu, ATrueZen, dj.narayanan	24	6	30
+324518	4	28	6 Suits	2020-10-20 — 19:02:43 UTC	dj.narayanan, Pepepe, Rubix, XMIL	250	6	30
+323929	3	0	Omni (6 Suits)	2020-10-19 — 20:31:56 UTC	a_small_emu, ATrueZen, dj.narayanan	36	6	30
+323920	3	0	Omni (6 Suits)	2020-10-19 — 20:20:46 UTC	a_small_emu, ATrueZen, dj.narayanan	51	6	30
+323899	3	25	Black & White (5 Suits)	2020-10-19 — 20:00:17 UTC	a_small_emu, ATrueZen, dj.narayanan	26	5	25
+323875	3	0	Black & White (5 Suits)	2020-10-19 — 19:40:02 UTC	a_small_emu, ATrueZen, dj.narayanan	25	5	25
+321728	3	0	Black & White (6 Suits)	2020-10-16 — 20:54:53 UTC	ATrueZen, dj.narayanan, InfernoSnowman	4	6	30
+321721	3	0	Black & White (6 Suits)	2020-10-16 — 20:46:28 UTC	ATrueZen, dj.narayanan, InfernoSnowman	4	6	30
+321710	2	0	Black & Gray Pink (6 Suits)	2020-10-16 — 20:37:09 UTC	ATrueZen, dj.narayanan	6	6	30
+321705	2	0	Black & Gray Pink (6 Suits)	2020-10-16 — 20:34:42 UTC	ATrueZen, dj.narayanan	6	6	30
+321700	2	0	Black & Gray Pink (6 Suits)	2020-10-16 — 20:32:05 UTC	ATrueZen, dj.narayanan	6	6	30
+321698	2	0	Black & Gray Pink (6 Suits)	2020-10-16 — 20:30:16 UTC	ATrueZen, dj.narayanan	7	6	30
+321697	2	0	Black & Gray Pink (6 Suits)	2020-10-16 — 20:28:59 UTC	ATrueZen, dj.narayanan	7	6	30
+321695	2	0	Black & Gray Pink (6 Suits)	2020-10-16 — 20:27:02 UTC	ATrueZen, dj.narayanan	8	6	30
+321694	2	0	Black & Gray Pink (6 Suits)	2020-10-16 — 20:24:46 UTC	ATrueZen, dj.narayanan	9	6	30
+321692	2	0	Black & Gray Pink (6 Suits)	2020-10-16 — 20:21:50 UTC	ATrueZen, dj.narayanan	9	6	30
+321689	2	0	Black & Gray Pink (6 Suits)	2020-10-16 — 20:16:01 UTC	ATrueZen, dj.narayanan	10	6	30
+321679	2	25	Black & Light Pink (5 Suits)	2020-10-16 — 20:03:17 UTC	ATrueZen, dj.narayanan	6	5	25
+321598	3	0	Black & White (5 Suits)	2020-10-16 — 18:22:05 UTC	a_small_emu, ATrueZen, dj.narayanan	31	5	25
+321585	3	0	Black & White (5 Suits)	2020-10-16 — 17:53:59 UTC	a_small_emu, ATrueZen, dj.narayanan	40	5	25
+321575	3	0	Black & White (5 Suits)	2020-10-16 — 17:32:17 UTC	a_small_emu, ATrueZen, dj.narayanan	45	5	25
+321043	3	0	Light Pink (3 Suits)	2020-10-15 — 19:28:52 UTC	ATrueZen, dj.narayanan, InfernoSnowman	12	3	15
+321039	3	13	Light Pink (3 Suits)	2020-10-15 — 19:23:34 UTC	ATrueZen, dj.narayanan, InfernoSnowman	13	3	15
+321026	3	15	Brown (3 Suits)	2020-10-15 — 19:04:41 UTC	ATrueZen, dj.narayanan, InfernoSnowman	29	3	15
+320970	6	30	Pink & Dark Prism (6 Suits)	2020-10-15 — 18:07:56 UTC	angel-a, dj.narayanan, MarkusKahlsen, Puzzle, will.i.am, Zakisan	1	6	30
+320305	3	0	Null (6 Suits)	2020-10-14 — 17:25:29 UTC	a_small_emu, ATrueZen, dj.narayanan	36	6	30
+320301	3	0	Null (6 Suits)	2020-10-14 — 17:05:02 UTC	a_small_emu, ATrueZen, dj.narayanan	57	6	30
+320298	2	24	Black & Light Pink (5 Suits)	2020-10-14 — 16:45:44 UTC	ATrueZen, dj.narayanan	7	5	25
+320296	2	0	Black & Light Pink (5 Suits)	2020-10-14 — 16:36:12 UTC	ATrueZen, dj.narayanan	7	5	25
+320294	2	24	Black & Light Pink (5 Suits)	2020-10-14 — 16:30:59 UTC	ATrueZen, dj.narayanan	9	5	25
+320292	2	0	Black & Light Pink (5 Suits)	2020-10-14 — 16:25:21 UTC	ATrueZen, dj.narayanan	11	5	25
+320290	2	0	Black & Light Pink (5 Suits)	2020-10-14 — 16:22:59 UTC	ATrueZen, dj.narayanan	12	5	25
+320286	2	0	Black & Light Pink (5 Suits)	2020-10-14 — 16:21:15 UTC	ATrueZen, dj.narayanan	15	5	25
+320285	2	0	Black & Light Pink (5 Suits)	2020-10-14 — 16:19:50 UTC	ATrueZen, dj.narayanan	18	5	25
+320283	2	22	Black & Light Pink (5 Suits)	2020-10-14 — 16:12:30 UTC	ATrueZen, dj.narayanan	19	5	25
+319756	3	0	Omni (6 Suits)	2020-10-13 — 21:20:10 UTC	a_small_emu, ATrueZen, dj.narayanan	70	6	30
+319734	3	0	Dark Rainbow & Dark Pink (6 Suits)	2020-10-13 — 20:59:38 UTC	a_small_emu, ATrueZen, dj.narayanan	2	6	30
+319721	3	0	Dark Rainbow & Dark Pink (6 Suits)	2020-10-13 — 20:43:29 UTC	a_small_emu, ATrueZen, dj.narayanan	2	6	30
+319712	3	27	Dark Rainbow & Dark Pink (6 Suits)	2020-10-13 — 20:32:24 UTC	a_small_emu, ATrueZen, dj.narayanan	3	6	30
+319699	3	0	No Variant	2020-10-13 — 20:07:55 UTC	a_small_emu, ATrueZen, dj.narayanan	213	5	25
+319695	3	0	No Variant	2020-10-13 — 20:05:42 UTC	a_small_emu, ATrueZen, dj.narayanan	218	5	25
+319683	2	0	Black & Light Pink (5 Suits)	2020-10-13 — 19:52:14 UTC	ATrueZen, dj.narayanan	19	5	25
+319682	2	0	Black & Light Pink (5 Suits)	2020-10-13 — 19:50:28 UTC	ATrueZen, dj.narayanan	22	5	25
+319676	2	30	Black & Light Pink (6 Suits)	2020-10-13 — 19:46:35 UTC	ATrueZen, dj.narayanan	9	6	30
+319668	2	0	Black & Light Pink (6 Suits)	2020-10-13 — 19:36:15 UTC	ATrueZen, dj.narayanan	9	6	30
+319661	2	0	Black & Light Pink (6 Suits)	2020-10-13 — 19:28:33 UTC	ATrueZen, dj.narayanan	10	6	30
+319659	2	0	Black & Light Pink (6 Suits)	2020-10-13 — 19:23:25 UTC	ATrueZen, dj.narayanan	12	6	30
+319564	3	23	Black & Pink (5 Suits)	2020-10-13 — 17:10:27 UTC	a_small_emu, ATrueZen, dj.narayanan	22	5	25
+319541	3	24	Black & Pink (5 Suits)	2020-10-13 — 16:36:26 UTC	a_small_emu, ATrueZen, dj.narayanan	29	5	25
+319536	2	0	Black & Light Pink (6 Suits)	2020-10-13 — 16:22:45 UTC	ATrueZen, dj.narayanan	12	6	30
+319531	2	0	Black & Light Pink (6 Suits)	2020-10-13 — 16:17:11 UTC	ATrueZen, dj.narayanan	14	6	30
+319529	2	29	Black & Light Pink (6 Suits)	2020-10-13 — 16:14:10 UTC	ATrueZen, dj.narayanan	17	6	30
+319523	2	0	Black & Light Pink (6 Suits)	2020-10-13 — 16:04:38 UTC	ATrueZen, dj.narayanan	20	6	30
+319521	2	0	Black & Light Pink (6 Suits)	2020-10-13 — 16:02:52 UTC	ATrueZen, dj.narayanan	22	6	30
+318931	4	0	Black (6 Suits)	2020-10-12 — 19:36:44 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	54	6	30
+318908	3	0	Black & White (6 Suits)	2020-10-12 — 19:09:50 UTC	ATrueZen, dj.narayanan, InfernoSnowman	4	6	30
+318556	3	30	Muddy Rainbow (6 Suits)	2020-10-12 — 02:58:23 UTC	a_small_emu, ATrueZen, dj.narayanan	37	6	30
+318521	3	0	Muddy Rainbow (6 Suits)	2020-10-12 — 02:24:45 UTC	a_small_emu, ATrueZen, dj.narayanan	49	6	30
+318357	4	0	Muddy Rainbow & Light Pink (5 Suits)	2020-10-11 — 22:49:16 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	3	5	25
+318345	4	0	Muddy Rainbow & Light Pink (5 Suits)	2020-10-11 — 22:31:50 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	2	5	25
+318327	4	0	Muddy Rainbow & Light Pink (5 Suits)	2020-10-11 — 22:09:50 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	4	5	25
+318300	3	0	Gray Pink (6 Suits)	2020-10-11 — 21:41:14 UTC	a_small_emu, dj.narayanan, InfernoSnowman	25	6	30
+318291	3	0	Gray Pink (6 Suits)	2020-10-11 — 21:29:50 UTC	a_small_emu, dj.narayanan, InfernoSnowman	29	6	30
+317697	3	0	Muddy Rainbow & Light Pink (5 Suits)	2020-10-11 — 00:51:03 UTC	a_small_emu, ATrueZen, dj.narayanan	3	5	25
+317680	3	0	Muddy Rainbow & Light Pink (5 Suits)	2020-10-11 — 00:33:56 UTC	a_small_emu, ATrueZen, dj.narayanan	6	5	25
+317674	3	0	Muddy Rainbow & Light Pink (5 Suits)	2020-10-11 — 00:31:40 UTC	a_small_emu, ATrueZen, dj.narayanan	7	5	25
+316030	3	0	Prism (6 Suits)	2020-10-08 — 20:54:26 UTC	a_small_emu, dj.narayanan, InfernoSnowman	24	6	30
+316017	3	0	Prism (6 Suits)	2020-10-08 — 20:40:02 UTC	a_small_emu, dj.narayanan, InfernoSnowman	25	6	30
+316006	3	0	Light Pink (3 Suits)	2020-10-08 — 20:29:57 UTC	a_small_emu, dj.narayanan, InfernoSnowman	14	3	15
+315995	3	0	Light Pink (3 Suits)	2020-10-08 — 20:16:29 UTC	a_small_emu, dj.narayanan, InfernoSnowman	19	3	15
+314442	3	20	Light Pink (4 Suits)	2020-10-06 — 20:34:17 UTC	ATrueZen, dj.narayanan, InfernoSnowman	17	4	20
+314428	3	18	Light Pink (4 Suits)	2020-10-06 — 20:16:41 UTC	ATrueZen, dj.narayanan, InfernoSnowman	21	4	20
+314413	3	19	Light Pink (4 Suits)	2020-10-06 — 19:58:50 UTC	ATrueZen, dj.narayanan, InfernoSnowman	21	4	20
+314394	2	0	Pink & White (6 Suits)	2020-10-06 — 19:37:07 UTC	ATrueZen, dj.narayanan	31	6	30
+314387	3	25	Light Pink (5 Suits)	2020-10-06 — 19:28:54 UTC	a_small_emu, ATrueZen, dj.narayanan	40	5	25
+313065	3	28	Light Pink (6 Suits)	2020-10-04 — 23:16:15 UTC	ATrueZen, dj.narayanan, InfernoSnowman	38	6	30
+312275	3	0	Brown (3 Suits)	2020-10-03 — 22:57:52 UTC	a_small_emu, ATrueZen, dj.narayanan	37	3	15
+312255	2	0	Rainbow & Dark Pink (6 Suits)	2020-10-03 — 22:45:04 UTC	ATrueZen, dj.narayanan	13	6	30
+312251	2	0	Rainbow & Dark Pink (6 Suits)	2020-10-03 — 22:42:05 UTC	ATrueZen, dj.narayanan	13	6	30
+312247	2	0	Rainbow & Dark Pink (6 Suits)	2020-10-03 — 22:38:34 UTC	ATrueZen, dj.narayanan	13	6	30
+312240	2	0	Rainbow & Dark Pink (6 Suits)	2020-10-03 — 22:33:16 UTC	ATrueZen, dj.narayanan	13	6	30
+312232	2	0	Rainbow & Dark Pink (6 Suits)	2020-10-03 — 22:25:35 UTC	ATrueZen, dj.narayanan	15	6	30
+312226	2	0	Rainbow & Omni (6 Suits)	2020-10-03 — 22:22:10 UTC	ATrueZen, dj.narayanan	13	6	30
+312223	2	0	Rainbow & Omni (6 Suits)	2020-10-03 — 22:19:43 UTC	ATrueZen, dj.narayanan	15	6	30
+312219	2	0	Rainbow & Omni (6 Suits)	2020-10-03 — 22:12:17 UTC	ATrueZen, dj.narayanan	19	6	30
+312205	3	20	Brown (4 Suits)	2020-10-03 — 21:52:54 UTC	a_small_emu, ATrueZen, dj.narayanan	47	4	20
+312197	2	20	Rainbow & Prism (4 Suits)	2020-10-03 — 21:42:01 UTC	ATrueZen, dj.narayanan	11	4	20
+311536	3	25	Brown (5 Suits)	2020-10-03 — 02:08:29 UTC	a_small_emu, ATrueZen, dj.narayanan	79	5	25
+311495	3	15	White (3 Suits)	2020-10-03 — 01:35:44 UTC	a_small_emu, ATrueZen, dj.narayanan	22	3	15
+311480	3	0	White (3 Suits)	2020-10-03 — 01:23:52 UTC	a_small_emu, ATrueZen, dj.narayanan	26	3	15
+311470	3	0	Rainbow (5 Suits)	2020-10-03 — 01:15:36 UTC	a_small_emu, ATrueZen, dj.narayanan	31	5	25
+309393	4	0	Rainbow (5 Suits)	2020-09-30 — 01:22:56 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	63	5	25
+309383	4	0	Rainbow (5 Suits)	2020-09-30 — 01:05:14 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	68	5	25
+309352	3	0	White (3 Suits)	2020-09-30 — 00:28:41 UTC	ATrueZen, dj.narayanan, InfernoSnowman	29	3	15
+309351	3	0	White (3 Suits)	2020-09-30 — 00:26:23 UTC	ATrueZen, dj.narayanan, InfernoSnowman	30	3	15
+309342	3	0	White (3 Suits)	2020-09-30 — 00:15:19 UTC	ATrueZen, dj.narayanan, InfernoSnowman	45	3	15
+309336	3	20	White (4 Suits)	2020-09-30 — 00:01:43 UTC	ATrueZen, dj.narayanan, InfernoSnowman	46	4	20
+308485	2	0	Rainbow & Prism (4 Suits)	2020-09-28 — 19:33:20 UTC	ATrueZen, dj.narayanan	12	4	20
+308483	2	0	Rainbow & Prism (4 Suits)	2020-09-28 — 19:31:32 UTC	ATrueZen, dj.narayanan	18	4	20
+308481	2	0	Rainbow & Prism (4 Suits)	2020-09-28 — 19:29:19 UTC	ATrueZen, dj.narayanan	19	4	20
+308478	2	25	Rainbow & Prism (5 Suits)	2020-09-28 — 19:24:33 UTC	ATrueZen, dj.narayanan	30	5	25
+308473	2	30	Rainbow & Prism (6 Suits)	2020-09-28 — 19:16:11 UTC	ATrueZen, dj.narayanan	15	6	30
+308471	2	0	Rainbow & Prism (6 Suits)	2020-09-28 — 19:09:40 UTC	ATrueZen, dj.narayanan	20	6	30
+308466	2	0	Rainbow & Prism (6 Suits)	2020-09-28 — 19:03:50 UTC	ATrueZen, dj.narayanan	27	6	30
+308457	2	15	Rainbow & Brown (3 Suits)	2020-09-28 — 18:54:39 UTC	ATrueZen, dj.narayanan	21	3	15
+308451	2	0	Rainbow & Brown (3 Suits)	2020-09-28 — 18:47:56 UTC	ATrueZen, dj.narayanan	29	3	15
+308442	2	20	Rainbow & Brown (4 Suits)	2020-09-28 — 18:40:23 UTC	ATrueZen, dj.narayanan	19	4	20
+308437	2	0	Rainbow & Brown (4 Suits)	2020-09-28 — 18:33:06 UTC	ATrueZen, dj.narayanan	22	4	20
+308430	2	23	Black & Brown (5 Suits)	2020-09-28 — 18:27:55 UTC	ATrueZen, dj.narayanan	1	5	25
+308426	2	0	Black & Brown (5 Suits)	2020-09-28 — 18:21:45 UTC	ATrueZen, dj.narayanan	1	5	25
+308422	2	0	Black & Brown (5 Suits)	2020-09-28 — 18:18:04 UTC	ATrueZen, dj.narayanan	1	5	25
+308420	2	0	Black & Brown (5 Suits)	2020-09-28 — 18:15:42 UTC	ATrueZen, dj.narayanan	1	5	25
+306253	2	25	Rainbow & Brown (5 Suits)	2020-09-25 — 19:28:47 UTC	ATrueZen, dj.narayanan	19	5	25
+306249	2	0	Rainbow & Brown (5 Suits)	2020-09-25 — 19:22:32 UTC	ATrueZen, dj.narayanan	21	5	25
+306247	2	0	Rainbow & Brown (5 Suits)	2020-09-25 — 19:20:27 UTC	ATrueZen, dj.narayanan	21	5	25
+306246	2	0	Rainbow & Brown (5 Suits)	2020-09-25 — 19:20:17 UTC	ATrueZen, dj.narayanan	24	5	25
+306242	2	0	Rainbow & Brown (5 Suits)	2020-09-25 — 19:16:16 UTC	ATrueZen, dj.narayanan	28	5	25
+306237	2	0	Rainbow & Brown (5 Suits)	2020-09-25 — 19:10:36 UTC	ATrueZen, dj.narayanan	33	5	25
+306231	2	30	Rainbow & Brown (6 Suits)	2020-09-25 — 19:03:15 UTC	ATrueZen, dj.narayanan	23	6	30
+306226	2	0	Rainbow & Brown (6 Suits)	2020-09-25 — 18:57:35 UTC	ATrueZen, dj.narayanan	35	6	30
+304903	2	15	Rainbow & Light Pink (3 Suits)	2020-09-23 — 21:39:54 UTC	ATrueZen, dj.narayanan	5	3	15
+304901	2	0	Rainbow & Light Pink (3 Suits)	2020-09-23 — 21:36:17 UTC	ATrueZen, dj.narayanan	7	3	15
+304898	2	0	Rainbow & Light Pink (3 Suits)	2020-09-23 — 21:32:31 UTC	ATrueZen, dj.narayanan	10	3	15
+304896	2	20	Rainbow & Light Pink (4 Suits)	2020-09-23 — 21:30:13 UTC	ATrueZen, dj.narayanan	17	4	20
+304893	2	25	Rainbow & Light Pink (5 Suits)	2020-09-23 — 21:23:52 UTC	ATrueZen, dj.narayanan	6	5	25
+304887	2	0	Rainbow & Light Pink (5 Suits)	2020-09-23 — 21:17:15 UTC	ATrueZen, dj.narayanan	9	5	25
+304883	2	0	Rainbow & Light Pink (5 Suits)	2020-09-23 — 21:09:13 UTC	ATrueZen, dj.narayanan	16	5	25
+304875	2	30	Rainbow & Light Pink (6 Suits)	2020-09-23 — 20:59:26 UTC	ATrueZen, dj.narayanan	19	6	30
+304868	2	15	Rainbow & White (3 Suits)	2020-09-23 — 20:41:11 UTC	ATrueZen, dj.narayanan	33	3	15
+304862	2	20	Rainbow & White (4 Suits)	2020-09-23 — 20:34:31 UTC	ATrueZen, dj.narayanan	17	4	20
+304858	2	0	Rainbow & White (4 Suits)	2020-09-23 — 20:29:08 UTC	ATrueZen, dj.narayanan	28	4	20
+304856	2	25	Rainbow & White (5 Suits)	2020-09-23 — 20:23:20 UTC	ATrueZen, dj.narayanan	22	5	25
+304848	2	0	Rainbow & White (5 Suits)	2020-09-23 — 20:13:18 UTC	ATrueZen, dj.narayanan	30	5	25
+304845	2	0	Rainbow & White (5 Suits)	2020-09-23 — 20:11:19 UTC	ATrueZen, dj.narayanan	46	5	25
+304840	2	0	Black & Brown (5 Suits)	2020-09-23 — 20:06:45 UTC	ATrueZen, dj.narayanan	1	5	25
+304835	2	0	Black & Brown (5 Suits)	2020-09-23 — 20:02:33 UTC	ATrueZen, dj.narayanan	1	5	25
+304824	2	0	Black & Brown (5 Suits)	2020-09-23 — 19:54:55 UTC	ATrueZen, dj.narayanan	1	5	25
+304820	2	0	Black & Brown (5 Suits)	2020-09-23 — 19:51:38 UTC	ATrueZen, dj.narayanan	1	5	25
+304811	2	0	Black & Brown (5 Suits)	2020-09-23 — 19:44:40 UTC	ATrueZen, dj.narayanan	1	5	25
+303468	2	24	Black & Brown (5 Suits)	2020-09-21 — 19:38:23 UTC	ATrueZen, dj.narayanan	1	5	25
+303466	2	0	Black & Brown (5 Suits)	2020-09-21 — 19:31:51 UTC	ATrueZen, dj.narayanan	2	5	25
+303463	2	23	Black & Brown (5 Suits)	2020-09-21 — 19:28:53 UTC	ATrueZen, dj.narayanan	2	5	25
+303461	2	0	Black & Brown (5 Suits)	2020-09-21 — 19:24:11 UTC	ATrueZen, dj.narayanan	2	5	25
+303459	2	0	Black & Brown (5 Suits)	2020-09-21 — 19:22:22 UTC	ATrueZen, dj.narayanan	2	5	25
+303453	2	23	Black & Brown (5 Suits)	2020-09-21 — 19:15:10 UTC	ATrueZen, dj.narayanan	2	5	25
+303447	2	0	Black & Brown (5 Suits)	2020-09-21 — 19:05:37 UTC	ATrueZen, dj.narayanan	4	5	25
+302940	2	24	Black & Brown (5 Suits)	2020-09-21 — 02:51:57 UTC	ATrueZen, dj.narayanan	7	5	25
+302934	2	0	Black & Brown (5 Suits)	2020-09-21 — 02:46:19 UTC	ATrueZen, dj.narayanan	7	5	25
+302930	2	0	Black & Brown (5 Suits)	2020-09-21 — 02:44:24 UTC	ATrueZen, dj.narayanan	7	5	25
+302928	2	0	Black & Brown (5 Suits)	2020-09-21 — 02:41:32 UTC	ATrueZen, dj.narayanan	7	5	25
+302924	2	23	Black & Brown (5 Suits)	2020-09-21 — 02:36:31 UTC	ATrueZen, dj.narayanan	7	5	25
+302916	2	0	Black & Brown (5 Suits)	2020-09-21 — 02:30:13 UTC	ATrueZen, dj.narayanan	10	5	25
+302911	2	0	Black & Brown (5 Suits)	2020-09-21 — 02:26:10 UTC	ATrueZen, dj.narayanan	10	5	25
+302908	2	0	Black & Brown (5 Suits)	2020-09-21 — 02:23:01 UTC	ATrueZen, dj.narayanan	10	5	25
+302129	4	0	Rainbow (5 Suits)	2020-09-20 — 04:21:01 UTC	a_small_emu, ATrueZen, dj.narayanan, TwentyLightbulb	92	5	25
+302086	4	0	Rainbow (5 Suits)	2020-09-20 — 03:41:01 UTC	a_small_emu, ATrueZen, dj.narayanan, TwentyLightbulb	130	5	25
+302071	3	25	No Variant	2020-09-20 — 03:30:58 UTC	a_small_emu, dj.narayanan, TwentyLightbulb	2163	5	25
+300220	2	0	Black & Brown (5 Suits)	2020-09-17 — 21:05:57 UTC	ATrueZen, dj.narayanan	12	5	25
+300219	2	0	Black & Brown (5 Suits)	2020-09-17 — 21:05:51 UTC	ATrueZen, dj.narayanan	12	5	25
+300216	2	0	Black & Brown (5 Suits)	2020-09-17 — 21:03:54 UTC	ATrueZen, dj.narayanan	17	5	25
+300213	2	24	Black & Brown (5 Suits)	2020-09-17 — 21:01:12 UTC	ATrueZen, dj.narayanan	18	5	25
+300193	2	0	Black & Brown (5 Suits)	2020-09-17 — 20:47:31 UTC	ATrueZen, dj.narayanan	17	5	25
+300188	2	0	Black & Brown (5 Suits)	2020-09-17 — 20:43:23 UTC	ATrueZen, dj.narayanan	18	5	25
+300185	2	0	Black & Brown (5 Suits)	2020-09-17 — 20:40:28 UTC	ATrueZen, dj.narayanan	22	5	25
+300182	2	0	Black & Brown (5 Suits)	2020-09-17 — 20:38:26 UTC	ATrueZen, dj.narayanan	27	5	25
+300178	2	30	Black & Brown (6 Suits)	2020-09-17 — 20:31:51 UTC	ATrueZen, dj.narayanan	5	6	30
+300173	2	0	Black & Brown (6 Suits)	2020-09-17 — 20:25:15 UTC	ATrueZen, dj.narayanan	5	6	30
+300170	2	0	Black & Brown (6 Suits)	2020-09-17 — 20:21:55 UTC	ATrueZen, dj.narayanan	6	6	30
+300162	2	0	Black & Brown (6 Suits)	2020-09-17 — 20:17:31 UTC	ATrueZen, dj.narayanan	6	6	30
+300158	2	0	Black & Brown (6 Suits)	2020-09-17 — 20:13:40 UTC	ATrueZen, dj.narayanan	7	6	30
+300148	2	0	Black & Brown (6 Suits)	2020-09-17 — 20:08:01 UTC	ATrueZen, dj.narayanan	8	6	30
+300140	2	0	Black & Brown (6 Suits)	2020-09-17 — 19:58:21 UTC	ATrueZen, dj.narayanan	8	6	30
+299369	2	0	Black & Brown (6 Suits)	2020-09-17 — 03:00:53 UTC	ATrueZen, dj.narayanan	10	6	30
+299077	2	0	Black & Brown (6 Suits)	2020-09-16 — 21:48:18 UTC	ATrueZen, dj.narayanan	11	6	30
+299068	2	0	Black & Brown (6 Suits)	2020-09-16 — 21:42:46 UTC	ATrueZen, dj.narayanan	11	6	30
+299063	2	0	Black & Brown (6 Suits)	2020-09-16 — 21:38:47 UTC	ATrueZen, dj.narayanan	13	6	30
+299058	2	0	Black & Brown (6 Suits)	2020-09-16 — 21:33:22 UTC	ATrueZen, dj.narayanan	16	6	30
+299048	2	0	Black & Brown (6 Suits)	2020-09-16 — 21:29:22 UTC	ATrueZen, dj.narayanan	17	6	30
+299047	2	0	Black & Brown (6 Suits)	2020-09-16 — 21:27:44 UTC	ATrueZen, dj.narayanan	19	6	30
+299042	2	0	Rainbow & Pink (3 Suits)	2020-09-16 — 21:25:09 UTC	ATrueZen, dj.narayanan	18	3	15
+299037	2	15	Rainbow & Pink (3 Suits)	2020-09-16 — 21:22:52 UTC	ATrueZen, dj.narayanan	28	3	15
+299033	2	20	Rainbow & Pink (4 Suits)	2020-09-16 — 21:18:21 UTC	ATrueZen, dj.narayanan	10	4	20
+299019	2	0	Rainbow & Pink (4 Suits)	2020-09-16 — 21:12:44 UTC	ATrueZen, dj.narayanan	21	4	20
+299011	2	25	Rainbow & Pink (5 Suits)	2020-09-16 — 21:04:48 UTC	ATrueZen, dj.narayanan	41	5	25
+299002	2	30	Rainbow & Pink (6 Suits)	2020-09-16 — 20:52:15 UTC	ATrueZen, dj.narayanan	40	6	30
+298997	2	0	Rainbow & Pink (6 Suits)	2020-09-16 — 20:40:45 UTC	ATrueZen, dj.narayanan	43	6	30
+298500	2	29	Black & Brown (6 Suits)	2020-09-16 — 00:11:45 UTC	ATrueZen, dj.narayanan	23	6	30
+298494	2	0	Black & Brown (6 Suits)	2020-09-16 — 00:01:59 UTC	ATrueZen, dj.narayanan	27	6	30
+298492	2	0	Black & Brown (6 Suits)	2020-09-15 — 23:55:40 UTC	ATrueZen, dj.narayanan	28	6	30
+298491	2	0	Black & Brown (6 Suits)	2020-09-15 — 23:54:43 UTC	ATrueZen, dj.narayanan	26	6	30
+298490	2	25	Black & Pink (5 Suits)	2020-09-15 — 23:49:53 UTC	ATrueZen, dj.narayanan	23	5	25
+298487	2	0	Black & Pink (5 Suits)	2020-09-15 — 23:42:59 UTC	ATrueZen, dj.narayanan	24	5	25
+298486	2	0	Black & Pink (5 Suits)	2020-09-15 — 23:41:32 UTC	ATrueZen, dj.narayanan	25	5	25
+298483	2	0	Black & Pink (5 Suits)	2020-09-15 — 23:35:57 UTC	ATrueZen, dj.narayanan	26	5	25
+295305	2	22	Black & Pink (5 Suits)	2020-09-12 — 02:24:40 UTC	ATrueZen, dj.narayanan	29	5	25
+295299	2	0	Black & Pink (5 Suits)	2020-09-12 — 02:19:21 UTC	ATrueZen, dj.narayanan	29	5	25
+295292	2	22	Black & Pink (5 Suits)	2020-09-12 — 02:14:41 UTC	ATrueZen, dj.narayanan	32	5	25
+295288	2	0	Black & Pink (5 Suits)	2020-09-12 — 02:10:22 UTC	ATrueZen, dj.narayanan	37	5	25
+295280	2	30	Black & Pink (6 Suits)	2020-09-12 — 02:00:27 UTC	ATrueZen, dj.narayanan	34	6	30
+295274	2	0	Black & Pink (6 Suits)	2020-09-12 — 01:54:21 UTC	ATrueZen, dj.narayanan	36	6	30
+295272	2	0	Black & Pink (6 Suits)	2020-09-12 — 01:51:31 UTC	ATrueZen, dj.narayanan	44	6	30
+295260	2	25	Black & White (5 Suits)	2020-09-12 — 01:41:13 UTC	ATrueZen, dj.narayanan	18	5	25
+295253	2	0	Black & White (5 Suits)	2020-09-12 — 01:31:59 UTC	ATrueZen, dj.narayanan	25	5	25
+294159	3	0	Prism (5 Suits)	2020-09-10 — 18:38:52 UTC	a_small_emu, ATrueZen, dj.narayanan	19	5	25
+294154	3	0	Prism (5 Suits)	2020-09-10 — 18:26:00 UTC	a_small_emu, ATrueZen, dj.narayanan	22	5	25
+294150	3	0	Prism (5 Suits)	2020-09-10 — 18:20:39 UTC	a_small_emu, ATrueZen, dj.narayanan	24	5	25
+294143	3	0	Prism (5 Suits)	2020-09-10 — 18:05:36 UTC	a_small_emu, ATrueZen, dj.narayanan	38	5	25
+294138	3	24	Prism (5 Suits)	2020-09-10 — 17:54:00 UTC	a_small_emu, ATrueZen, dj.narayanan	45	5	25
+294119	2	25	Black & Rainbow (5 Suits)	2020-09-10 — 17:15:34 UTC	ATrueZen, dj.narayanan	10	5	25
+294114	2	0	Prism (6 Suits)	2020-09-10 — 17:00:25 UTC	ATrueZen, dj.narayanan	44	6	30
+293733	3	29	Prism (6 Suits)	2020-09-10 — 02:01:31 UTC	a_small_emu, ATrueZen, dj.narayanan	36	6	30
+293701	3	0	Prism (6 Suits)	2020-09-10 — 01:23:37 UTC	a_small_emu, ATrueZen, dj.narayanan	45	6	30
+293688	2	0	Black & Rainbow (5 Suits)	2020-09-10 — 01:06:33 UTC	ATrueZen, dj.narayanan	10	5	25
+293479	2	22	Black & Rainbow (5 Suits)	2020-09-09 — 19:27:49 UTC	ATrueZen, dj.narayanan	10	5	25
+293474	2	0	Black & Rainbow (5 Suits)	2020-09-09 — 19:21:23 UTC	ATrueZen, dj.narayanan	10	5	25
+293473	2	0	Black & Rainbow (5 Suits)	2020-09-09 — 19:18:09 UTC	ATrueZen, dj.narayanan	10	5	25
+293472	2	0	Black & Rainbow (5 Suits)	2020-09-09 — 19:17:43 UTC	ATrueZen, dj.narayanan	11	5	25
+293469	2	0	Black & Rainbow (5 Suits)	2020-09-09 — 19:15:21 UTC	ATrueZen, dj.narayanan	11	5	25
+293464	2	23	Black & Rainbow (5 Suits)	2020-09-09 — 19:10:01 UTC	ATrueZen, dj.narayanan	11	5	25
+293461	2	0	Black & Rainbow (5 Suits)	2020-09-09 — 19:05:44 UTC	ATrueZen, dj.narayanan	11	5	25
+293456	2	0	Black & Rainbow (5 Suits)	2020-09-09 — 18:59:28 UTC	ATrueZen, dj.narayanan	11	5	25
+293451	2	0	Black & Rainbow (5 Suits)	2020-09-09 — 18:51:18 UTC	ATrueZen, dj.narayanan	12	5	25
+293439	2	0	Black & Rainbow (5 Suits)	2020-09-09 — 18:39:46 UTC	ATrueZen, dj.narayanan	13	5	25
+293431	2	0	Black & Rainbow (5 Suits)	2020-09-09 — 18:30:38 UTC	ATrueZen, dj.narayanan	14	5	25
+293425	2	24	Black & Rainbow (5 Suits)	2020-09-09 — 18:23:45 UTC	ATrueZen, dj.narayanan	15	5	25
+293418	2	21	Black & Rainbow (5 Suits)	2020-09-09 — 18:12:55 UTC	ATrueZen, dj.narayanan	15	5	25
+293413	2	0	Black & Rainbow (5 Suits)	2020-09-09 — 18:03:46 UTC	ATrueZen, dj.narayanan	15	5	25
+293410	2	0	Black & Rainbow (5 Suits)	2020-09-09 — 17:57:22 UTC	ATrueZen, dj.narayanan	15	5	25
+293408	2	0	Black & Rainbow (5 Suits)	2020-09-09 — 17:53:19 UTC	ATrueZen, dj.narayanan	16	5	25
+293404	2	0	Black & Rainbow (5 Suits)	2020-09-09 — 17:47:43 UTC	ATrueZen, dj.narayanan	16	5	25
+293402	2	0	Black & Rainbow (5 Suits)	2020-09-09 — 17:46:57 UTC	ATrueZen, dj.narayanan	20	5	25
+293398	2	0	Black & Rainbow (5 Suits)	2020-09-09 — 17:39:42 UTC	ATrueZen, dj.narayanan	26	5	25
+293395	2	0	Black & Rainbow (5 Suits)	2020-09-09 — 17:32:37 UTC	ATrueZen, dj.narayanan	25	5	25
+293389	2	0	Black & Rainbow (5 Suits)	2020-09-09 — 17:28:09 UTC	ATrueZen, dj.narayanan	26	5	25
+292658	2	0	Black & Rainbow (5 Suits)	2020-09-08 — 19:00:02 UTC	ATrueZen, dj.narayanan	27	5	25
+292656	2	0	Black & Rainbow (5 Suits)	2020-09-08 — 18:57:44 UTC	ATrueZen, dj.narayanan	28	5	25
+292650	2	0	Black & Rainbow (5 Suits)	2020-09-08 — 18:51:19 UTC	ATrueZen, dj.narayanan	28	5	25
+292643	2	0	Black & Rainbow (5 Suits)	2020-09-08 — 18:47:41 UTC	ATrueZen, dj.narayanan	29	5	25
+292640	2	0	Black & Rainbow (5 Suits)	2020-09-08 — 18:44:22 UTC	ATrueZen, dj.narayanan	32	5	25
+292638	2	0	Black & Rainbow (5 Suits)	2020-09-08 — 18:39:13 UTC	ATrueZen, dj.narayanan	39	5	25
+292636	2	0	Black & Rainbow (5 Suits)	2020-09-08 — 18:36:22 UTC	ATrueZen, dj.narayanan	45	5	25
+292634	2	0	Black & Rainbow (5 Suits)	2020-09-08 — 18:32:18 UTC	ATrueZen, dj.narayanan	47	5	25
+292632	2	0	Black & Rainbow (5 Suits)	2020-09-08 — 18:28:23 UTC	ATrueZen, dj.narayanan	55	5	25
+292627	2	0	Black & Rainbow (5 Suits)	2020-09-08 — 18:23:56 UTC	ATrueZen, dj.narayanan	61	5	25
+292625	2	0	Black & Rainbow (5 Suits)	2020-09-08 — 18:21:07 UTC	ATrueZen, dj.narayanan	73	5	25
+292620	2	30	Black & Rainbow (6 Suits)	2020-09-08 — 18:12:23 UTC	ATrueZen, dj.narayanan	28	6	30
+292615	2	0	Black & Rainbow (6 Suits)	2020-09-08 — 18:03:59 UTC	ATrueZen, dj.narayanan	29	6	30
+292612	2	0	Black & Rainbow (6 Suits)	2020-09-08 — 17:59:09 UTC	ATrueZen, dj.narayanan	29	6	30
+292611	2	0	Black & Rainbow (6 Suits)	2020-09-08 — 17:57:57 UTC	ATrueZen, dj.narayanan	29	6	30
+292605	2	0	Black & Rainbow (6 Suits)	2020-09-08 — 17:52:14 UTC	ATrueZen, dj.narayanan	33	6	30
+292603	2	0	Black & Rainbow (6 Suits)	2020-09-08 — 17:46:53 UTC	ATrueZen, dj.narayanan	37	6	30
+292602	2	0	Black & Rainbow (6 Suits)	2020-09-08 — 17:45:12 UTC	ATrueZen, dj.narayanan	45	6	30
+292133	3	0	White (4 Suits)	2020-09-08 — 01:06:13 UTC	a_small_emu, ATrueZen, dj.narayanan	59	4	20
+292127	2	0	Black & Rainbow (6 Suits)	2020-09-08 — 01:00:31 UTC	ATrueZen, dj.narayanan	58	6	30
+292125	2	0	Black & Rainbow (6 Suits)	2020-09-08 — 00:53:34 UTC	ATrueZen, dj.narayanan	71	6	30
+292120	2	0	Black & Rainbow (6 Suits)	2020-09-08 — 00:48:10 UTC	ATrueZen, dj.narayanan	79	6	30
+292119	2	0	Black & Rainbow (6 Suits)	2020-09-08 — 00:47:41 UTC	ATrueZen, dj.narayanan	98	6	30
+291815	3	25	White (5 Suits)	2020-09-07 — 18:12:47 UTC	a_small_emu, ATrueZen, dj.narayanan	126	5	25
+291798	3	15	Pink (3 Suits)	2020-09-07 — 17:45:49 UTC	a_small_emu, ATrueZen, dj.narayanan	11	3	15
+290591	2	24	No Variant	2020-09-06 — 06:34:02 UTC	ATrueZen, dj.narayanan	72	5	25
+290590	2	0	No Variant	2020-09-06 — 06:32:47 UTC	ATrueZen, dj.narayanan	72	5	25
+290589	2	0	No Variant	2020-09-06 — 06:32:40 UTC	ATrueZen, dj.narayanan	72	5	25
+290588	2	0	No Variant	2020-09-06 — 06:32:16 UTC	ATrueZen, dj.narayanan	73	5	25
+290587	2	0	No Variant	2020-09-06 — 06:32:01 UTC	ATrueZen, dj.narayanan	73	5	25
+290586	2	0	No Variant	2020-09-06 — 06:31:49 UTC	ATrueZen, dj.narayanan	73	5	25
+290585	2	0	No Variant	2020-09-06 — 06:31:42 UTC	ATrueZen, dj.narayanan	74	5	25
+290584	2	0	No Variant	2020-09-06 — 06:30:57 UTC	ATrueZen, dj.narayanan	75	5	25
+290583	2	0	No Variant	2020-09-06 — 06:30:36 UTC	ATrueZen, dj.narayanan	75	5	25
+290581	2	0	No Variant	2020-09-06 — 06:30:26 UTC	ATrueZen, dj.narayanan	77	5	25
+290580	2	0	No Variant	2020-09-06 — 06:30:03 UTC	ATrueZen, dj.narayanan	78	5	25
+290579	2	0	No Variant	2020-09-06 — 06:29:33 UTC	ATrueZen, dj.narayanan	78	5	25
+290578	2	0	No Variant	2020-09-06 — 06:29:26 UTC	ATrueZen, dj.narayanan	77	5	25
+290577	2	0	No Variant	2020-09-06 — 06:28:57 UTC	ATrueZen, dj.narayanan	78	5	25
+290575	2	0	No Variant	2020-09-06 — 06:27:31 UTC	ATrueZen, dj.narayanan	77	5	25
+290574	2	0	No Variant	2020-09-06 — 06:27:11 UTC	ATrueZen, dj.narayanan	77	5	25
+290573	2	0	No Variant	2020-09-06 — 06:26:57 UTC	ATrueZen, dj.narayanan	78	5	25
+290572	2	0	No Variant	2020-09-06 — 06:26:26 UTC	ATrueZen, dj.narayanan	77	5	25
+290571	2	0	No Variant	2020-09-06 — 06:26:07 UTC	ATrueZen, dj.narayanan	77	5	25
+290570	2	0	No Variant	2020-09-06 — 06:25:42 UTC	ATrueZen, dj.narayanan	80	5	25
+290569	2	0	No Variant	2020-09-06 — 06:25:20 UTC	ATrueZen, dj.narayanan	81	5	25
+290567	2	25	No Variant	2020-09-06 — 06:24:08 UTC	ATrueZen, dj.narayanan	79	5	25
+290566	2	0	No Variant	2020-09-06 — 06:23:03 UTC	ATrueZen, dj.narayanan	79	5	25
+290565	2	0	No Variant	2020-09-06 — 06:22:28 UTC	ATrueZen, dj.narayanan	81	5	25
+290564	2	0	No Variant	2020-09-06 — 06:21:48 UTC	ATrueZen, dj.narayanan	80	5	25
+290563	2	0	No Variant	2020-09-06 — 06:21:29 UTC	ATrueZen, dj.narayanan	84	5	25
+290562	2	0	No Variant	2020-09-06 — 06:19:41 UTC	ATrueZen, dj.narayanan	84	5	25
+290561	2	0	No Variant	2020-09-06 — 06:18:44 UTC	ATrueZen, dj.narayanan	85	5	25
+290560	2	0	No Variant	2020-09-06 — 06:18:29 UTC	ATrueZen, dj.narayanan	85	5	25
+290559	2	0	No Variant	2020-09-06 — 06:17:54 UTC	ATrueZen, dj.narayanan	85	5	25
+290558	2	0	No Variant	2020-09-06 — 06:17:36 UTC	ATrueZen, dj.narayanan	86	5	25
+290557	2	0	No Variant	2020-09-06 — 06:16:59 UTC	ATrueZen, dj.narayanan	86	5	25
+290556	2	0	No Variant	2020-09-06 — 06:16:45 UTC	ATrueZen, dj.narayanan	86	5	25
+290555	2	0	No Variant	2020-09-06 — 06:16:18 UTC	ATrueZen, dj.narayanan	86	5	25
+290554	2	0	No Variant	2020-09-06 — 06:16:08 UTC	ATrueZen, dj.narayanan	87	5	25
+290552	2	0	No Variant	2020-09-06 — 06:15:45 UTC	ATrueZen, dj.narayanan	88	5	25
+290550	2	0	No Variant	2020-09-06 — 06:14:51 UTC	ATrueZen, dj.narayanan	90	5	25
+290549	2	0	No Variant	2020-09-06 — 06:14:31 UTC	ATrueZen, dj.narayanan	90	5	25
+290547	2	0	No Variant	2020-09-06 — 06:14:13 UTC	ATrueZen, dj.narayanan	90	5	25
+290545	2	0	No Variant	2020-09-06 — 06:13:32 UTC	ATrueZen, dj.narayanan	90	5	25
+290544	2	0	No Variant	2020-09-06 — 06:13:26 UTC	ATrueZen, dj.narayanan	91	5	25
+290542	2	0	No Variant	2020-09-06 — 06:13:17 UTC	ATrueZen, dj.narayanan	92	5	25
+290541	2	0	No Variant	2020-09-06 — 06:12:44 UTC	ATrueZen, dj.narayanan	93	5	25
+290539	2	0	No Variant	2020-09-06 — 06:12:15 UTC	ATrueZen, dj.narayanan	92	5	25
+290538	2	0	No Variant	2020-09-06 — 06:12:06 UTC	ATrueZen, dj.narayanan	92	5	25
+290537	2	0	No Variant	2020-09-06 — 06:11:53 UTC	ATrueZen, dj.narayanan	93	5	25
+290536	2	0	No Variant	2020-09-06 — 06:11:28 UTC	ATrueZen, dj.narayanan	93	5	25
+290534	2	0	No Variant	2020-09-06 — 06:11:03 UTC	ATrueZen, dj.narayanan	96	5	25
+290533	2	0	No Variant	2020-09-06 — 06:10:37 UTC	ATrueZen, dj.narayanan	96	5	25
+290532	2	0	No Variant	2020-09-06 — 06:10:01 UTC	ATrueZen, dj.narayanan	96	5	25
+290310	2	0	White & Light Pink (6 Suits)	2020-09-06 — 01:42:55 UTC	ATrueZen, dj.narayanan	8	6	30
+290304	2	0	White & Light Pink (6 Suits)	2020-09-06 — 01:39:08 UTC	ATrueZen, dj.narayanan	9	6	30
+290303	2	0	White & Light Pink (6 Suits)	2020-09-06 — 01:35:46 UTC	ATrueZen, dj.narayanan	11	6	30
+290298	2	0	White & Light Pink (6 Suits)	2020-09-06 — 01:32:56 UTC	ATrueZen, dj.narayanan	12	6	30
+290296	2	0	Dark Null (6 Suits)	2020-09-06 — 01:29:53 UTC	ATrueZen, dj.narayanan	6	6	30
+290291	2	0	Dark Null (6 Suits)	2020-09-06 — 01:24:48 UTC	ATrueZen, dj.narayanan	6	6	30
+290285	2	0	Dark Null (6 Suits)	2020-09-06 — 01:17:22 UTC	ATrueZen, dj.narayanan	6	6	30
+290280	2	0	Dark Null (6 Suits)	2020-09-06 — 01:13:20 UTC	ATrueZen, dj.narayanan	6	6	30
+290276	2	0	Dark Null (6 Suits)	2020-09-06 — 01:06:15 UTC	ATrueZen, dj.narayanan	6	6	30
+290274	2	0	Dark Null (6 Suits)	2020-09-06 — 01:04:33 UTC	ATrueZen, dj.narayanan	6	6	30
+290272	2	0	Dark Null (6 Suits)	2020-09-06 — 01:02:37 UTC	ATrueZen, dj.narayanan	6	6	30
+290271	2	0	Dark Null (6 Suits)	2020-09-06 — 01:00:49 UTC	ATrueZen, dj.narayanan	7	6	30
+290267	2	0	Dark Null (6 Suits)	2020-09-06 — 00:57:09 UTC	ATrueZen, dj.narayanan	7	6	30
+290265	2	0	Dark Null (6 Suits)	2020-09-06 — 00:55:21 UTC	ATrueZen, dj.narayanan	9	6	30
+290263	2	0	Dark Null (6 Suits)	2020-09-06 — 00:51:25 UTC	ATrueZen, dj.narayanan	10	6	30
+288491	2	0	Dark Null (6 Suits)	2020-09-04 — 02:16:21 UTC	ATrueZen, dj.narayanan	12	6	30
+288483	2	0	Dark Null (6 Suits)	2020-09-04 — 02:11:23 UTC	ATrueZen, dj.narayanan	13	6	30
+288480	2	0	Dark Null (6 Suits)	2020-09-04 — 02:09:03 UTC	ATrueZen, dj.narayanan	14	6	30
+288478	2	0	Dark Null (6 Suits)	2020-09-04 — 02:05:39 UTC	ATrueZen, dj.narayanan	19	6	30
+288477	2	0	Dark Null (6 Suits)	2020-09-04 — 02:05:03 UTC	ATrueZen, dj.narayanan	18	6	30
+288476	2	0	Dark Null (6 Suits)	2020-09-04 — 02:04:49 UTC	ATrueZen, dj.narayanan	18	6	30
+288475	2	25	Dark Null (6 Suits)	2020-09-04 — 02:03:42 UTC	ATrueZen, dj.narayanan	22	6	30
+288469	2	25	Gray Pink (5 Suits)	2020-09-04 — 01:57:36 UTC	ATrueZen, dj.narayanan	2	5	25
+288465	2	0	Gray Pink (5 Suits)	2020-09-04 — 01:53:44 UTC	ATrueZen, dj.narayanan	2	5	25
+288463	2	0	Gray Pink (5 Suits)	2020-09-04 — 01:53:28 UTC	ATrueZen, dj.narayanan	2	5	25
+288461	2	0	Gray Pink (5 Suits)	2020-09-04 — 01:51:04 UTC	ATrueZen, dj.narayanan	2	5	25
+288460	2	0	Gray Pink (5 Suits)	2020-09-04 — 01:49:59 UTC	ATrueZen, dj.narayanan	2	5	25
+288456	2	0	Gray Pink (5 Suits)	2020-09-04 — 01:45:31 UTC	ATrueZen, dj.narayanan	2	5	25
+288455	2	0	Gray Pink (5 Suits)	2020-09-04 — 01:44:54 UTC	ATrueZen, dj.narayanan	2	5	25
+288451	2	0	Gray Pink (5 Suits)	2020-09-04 — 01:39:45 UTC	ATrueZen, dj.narayanan	2	5	25
+288444	2	24	Gray Pink (5 Suits)	2020-09-04 — 01:34:34 UTC	ATrueZen, dj.narayanan	2	5	25
+288442	2	0	Gray Pink (5 Suits)	2020-09-04 — 01:30:27 UTC	ATrueZen, dj.narayanan	2	5	25
+288438	2	24	Gray Pink (5 Suits)	2020-09-04 — 01:27:49 UTC	ATrueZen, dj.narayanan	2	5	25
+288431	2	24	Gray Pink (5 Suits)	2020-09-04 — 01:20:56 UTC	ATrueZen, dj.narayanan	2	5	25
+288426	2	0	Gray Pink (5 Suits)	2020-09-04 — 01:15:04 UTC	ATrueZen, dj.narayanan	2	5	25
+288422	2	30	Gray Pink (6 Suits)	2020-09-04 — 01:09:02 UTC	ATrueZen, dj.narayanan	34	6	30
+288417	2	0	Gray Pink (6 Suits)	2020-09-04 — 00:59:38 UTC	ATrueZen, dj.narayanan	38	6	30
+288336	4	0	Black (6 Suits)	2020-09-03 — 23:19:18 UTC	a_small_emu, ATrueZen, dj.narayanan, TwentyLightbulb	62	6	30
+288328	4	0	Black (6 Suits)	2020-09-03 — 23:09:27 UTC	a_small_emu, ATrueZen, dj.narayanan, TwentyLightbulb	67	6	30
+288305	4	0	Black (6 Suits)	2020-09-03 — 22:37:13 UTC	a_small_emu, ATrueZen, dj.narayanan, TwentyLightbulb	64	6	30
+288292	4	20	4 Suits	2020-09-03 — 22:19:33 UTC	a_small_emu, ATrueZen, dj.narayanan, TwentyLightbulb	77	4	20
+288281	4	0	4 Suits	2020-09-03 — 22:03:24 UTC	a_small_emu, ATrueZen, dj.narayanan, TwentyLightbulb	101	4	20
+288270	3	0	Pink (3 Suits)	2020-09-03 — 21:47:51 UTC	a_small_emu, ATrueZen, dj.narayanan	10	3	15
+288268	3	0	Pink (3 Suits)	2020-09-03 — 21:46:45 UTC	a_small_emu, ATrueZen, dj.narayanan	12	3	15
+288216	2	25	No Variant	2020-09-03 — 20:27:29 UTC	ATrueZen, dj.narayanan	97	5	25
+288215	2	23	No Variant	2020-09-03 — 20:26:23 UTC	ATrueZen, dj.narayanan	97	5	25
+288214	2	0	No Variant	2020-09-03 — 20:25:15 UTC	ATrueZen, dj.narayanan	98	5	25
+288212	2	0	No Variant	2020-09-03 — 20:24:41 UTC	ATrueZen, dj.narayanan	99	5	25
+288211	2	0	No Variant	2020-09-03 — 20:23:27 UTC	ATrueZen, dj.narayanan	100	5	25
+288210	2	0	No Variant	2020-09-03 — 20:23:09 UTC	ATrueZen, dj.narayanan	101	5	25
+288209	2	0	No Variant	2020-09-03 — 20:22:12 UTC	ATrueZen, dj.narayanan	102	5	25
+288208	2	0	No Variant	2020-09-03 — 20:21:55 UTC	ATrueZen, dj.narayanan	101	5	25
+288207	2	0	No Variant	2020-09-03 — 20:21:37 UTC	ATrueZen, dj.narayanan	101	5	25
+288206	2	0	No Variant	2020-09-03 — 20:21:30 UTC	ATrueZen, dj.narayanan	104	5	25
+288205	2	0	No Variant	2020-09-03 — 20:21:12 UTC	ATrueZen, dj.narayanan	106	5	25
+288204	2	0	No Variant	2020-09-03 — 20:19:41 UTC	ATrueZen, dj.narayanan	108	5	25
+288203	2	22	No Variant	2020-09-03 — 20:18:57 UTC	ATrueZen, dj.narayanan	109	5	25
+288202	2	0	No Variant	2020-09-03 — 20:17:51 UTC	ATrueZen, dj.narayanan	109	5	25
+288201	2	0	No Variant	2020-09-03 — 20:17:22 UTC	ATrueZen, dj.narayanan	108	5	25
+288200	2	0	No Variant	2020-09-03 — 20:16:11 UTC	ATrueZen, dj.narayanan	108	5	25
+288199	2	0	No Variant	2020-09-03 — 20:15:38 UTC	ATrueZen, dj.narayanan	109	5	25
+288198	2	0	No Variant	2020-09-03 — 20:15:24 UTC	ATrueZen, dj.narayanan	109	5	25
+288197	2	0	No Variant	2020-09-03 — 20:14:42 UTC	ATrueZen, dj.narayanan	109	5	25
+288196	2	0	No Variant	2020-09-03 — 20:14:02 UTC	ATrueZen, dj.narayanan	109	5	25
+288194	2	0	No Variant	2020-09-03 — 20:13:24 UTC	ATrueZen, dj.narayanan	110	5	25
+288192	2	0	No Variant	2020-09-03 — 20:13:02 UTC	ATrueZen, dj.narayanan	115	5	25
+288191	2	0	No Variant	2020-09-03 — 20:12:30 UTC	ATrueZen, dj.narayanan	116	5	25
+288190	2	0	No Variant	2020-09-03 — 20:12:10 UTC	ATrueZen, dj.narayanan	118	5	25
+288189	2	0	No Variant	2020-09-03 — 20:11:28 UTC	ATrueZen, dj.narayanan	114	5	25
+288186	2	25	No Variant	2020-09-03 — 20:09:54 UTC	ATrueZen, dj.narayanan	117	5	25
+288183	2	0	No Variant	2020-09-03 — 20:08:37 UTC	ATrueZen, dj.narayanan	117	5	25
+288182	2	23	No Variant	2020-09-03 — 20:08:02 UTC	ATrueZen, dj.narayanan	117	5	25
+288181	2	0	No Variant	2020-09-03 — 20:06:22 UTC	ATrueZen, dj.narayanan	117	5	25
+288180	2	0	No Variant	2020-09-03 — 20:05:32 UTC	ATrueZen, dj.narayanan	117	5	25
+288179	2	0	No Variant	2020-09-03 — 20:04:58 UTC	ATrueZen, dj.narayanan	119	5	25
+288178	2	0	No Variant	2020-09-03 — 20:04:02 UTC	ATrueZen, dj.narayanan	121	5	25
+288177	2	0	No Variant	2020-09-03 — 20:03:09 UTC	ATrueZen, dj.narayanan	124	5	25
+288176	2	25	No Variant	2020-09-03 — 20:01:18 UTC	ATrueZen, dj.narayanan	124	5	25
+288175	2	0	No Variant	2020-09-03 — 19:59:59 UTC	ATrueZen, dj.narayanan	125	5	25
+288173	2	0	No Variant	2020-09-03 — 19:59:45 UTC	ATrueZen, dj.narayanan	125	5	25
+288171	2	0	No Variant	2020-09-03 — 19:59:34 UTC	ATrueZen, dj.narayanan	125	5	25
+288170	2	0	No Variant	2020-09-03 — 19:58:56 UTC	ATrueZen, dj.narayanan	126	5	25
+288169	2	0	No Variant	2020-09-03 — 19:58:18 UTC	ATrueZen, dj.narayanan	126	5	25
+288168	2	0	No Variant	2020-09-03 — 19:57:29 UTC	ATrueZen, dj.narayanan	128	5	25
+288166	2	0	No Variant	2020-09-03 — 19:55:41 UTC	ATrueZen, dj.narayanan	132	5	25
+288164	2	0	No Variant	2020-09-03 — 19:54:47 UTC	ATrueZen, dj.narayanan	133	5	25
+288162	2	0	No Variant	2020-09-03 — 19:54:13 UTC	ATrueZen, dj.narayanan	135	5	25
+288160	2	23	No Variant	2020-09-03 — 19:52:55 UTC	ATrueZen, dj.narayanan	138	5	25
+288157	2	0	No Variant	2020-09-03 — 19:51:34 UTC	ATrueZen, dj.narayanan	139	5	25
+288154	2	25	No Variant	2020-09-03 — 19:47:15 UTC	ATrueZen, dj.narayanan	139	5	25
+288151	2	0	No Variant	2020-09-03 — 19:45:56 UTC	ATrueZen, dj.narayanan	139	5	25
+288150	2	0	No Variant	2020-09-03 — 19:45:40 UTC	ATrueZen, dj.narayanan	142	5	25
+288146	2	0	Dark Null (5 Suits)	2020-09-03 — 19:43:24 UTC	ATrueZen, dj.narayanan	7	5	25
+288144	2	0	Dark Null (5 Suits)	2020-09-03 — 19:42:09 UTC	ATrueZen, dj.narayanan	7	5	25
+288133	2	0	Dark Null (5 Suits)	2020-09-03 — 19:32:06 UTC	ATrueZen, dj.narayanan	7	5	25
+288128	2	0	Dark Null (5 Suits)	2020-09-03 — 19:28:58 UTC	ATrueZen, dj.narayanan	7	5	25
+288125	2	0	Dark Null (5 Suits)	2020-09-03 — 19:25:08 UTC	ATrueZen, dj.narayanan	7	5	25
+288124	2	0	Dark Null (5 Suits)	2020-09-03 — 19:24:48 UTC	ATrueZen, dj.narayanan	7	5	25
+288122	2	0	Dark Null (5 Suits)	2020-09-03 — 19:23:28 UTC	ATrueZen, dj.narayanan	7	5	25
+288119	2	0	Dark Null (5 Suits)	2020-09-03 — 19:20:58 UTC	ATrueZen, dj.narayanan	8	5	25
+288116	2	0	Dark Null (5 Suits)	2020-09-03 — 19:18:40 UTC	ATrueZen, dj.narayanan	11	5	25
+288109	2	23	Dark Null (5 Suits)	2020-09-03 — 19:12:16 UTC	ATrueZen, dj.narayanan	10	5	25
+288102	2	0	Dark Null (5 Suits)	2020-09-03 — 19:06:30 UTC	ATrueZen, dj.narayanan	10	5	25
+288100	2	0	Dark Null (5 Suits)	2020-09-03 — 19:06:14 UTC	ATrueZen, dj.narayanan	10	5	25
+288099	2	0	Dark Null (5 Suits)	2020-09-03 — 19:05:03 UTC	ATrueZen, dj.narayanan	10	5	25
+288094	2	0	Dark Null (5 Suits)	2020-09-03 — 18:59:44 UTC	ATrueZen, dj.narayanan	10	5	25
+288093	2	21	Dark Null (5 Suits)	2020-09-03 — 18:57:45 UTC	ATrueZen, dj.narayanan	10	5	25
+288091	2	0	Dark Null (5 Suits)	2020-09-03 — 18:53:42 UTC	ATrueZen, dj.narayanan	10	5	25
+288089	2	0	Dark Null (5 Suits)	2020-09-03 — 18:52:53 UTC	ATrueZen, dj.narayanan	10	5	25
+288080	2	0	Dark Null (5 Suits)	2020-09-03 — 18:46:45 UTC	ATrueZen, dj.narayanan	10	5	25
+288079	2	0	Dark Null (5 Suits)	2020-09-03 — 18:44:06 UTC	ATrueZen, dj.narayanan	10	5	25
+288077	2	0	Dark Null (5 Suits)	2020-09-03 — 18:43:35 UTC	ATrueZen, dj.narayanan	10	5	25
+288076	2	0	Dark Null (5 Suits)	2020-09-03 — 18:42:24 UTC	ATrueZen, dj.narayanan	11	5	25
+287563	3	0	Pink (3 Suits)	2020-09-02 — 23:42:31 UTC	a_small_emu, ATrueZen, dj.narayanan	13	3	15
+287558	3	14	Pink (3 Suits)	2020-09-02 — 23:33:58 UTC	a_small_emu, ATrueZen, dj.narayanan	19	3	15
+287550	3	14	Pink (3 Suits)	2020-09-02 — 23:21:35 UTC	a_small_emu, ATrueZen, dj.narayanan	23	3	15
+287541	3	0	Pink (3 Suits)	2020-09-02 — 23:11:27 UTC	a_small_emu, ATrueZen, dj.narayanan	27	3	15
+287537	3	0	Pink (3 Suits)	2020-09-02 — 23:06:26 UTC	a_small_emu, ATrueZen, dj.narayanan	33	3	15
+287528	3	14	Pink (3 Suits)	2020-09-02 — 22:53:51 UTC	a_small_emu, ATrueZen, dj.narayanan	44	3	15
+287521	3	20	4 Suits	2020-09-02 — 22:44:41 UTC	a_small_emu, ATrueZen, dj.narayanan	118	4	20
+287517	2	0	Dark Null (5 Suits)	2020-09-02 — 22:37:20 UTC	ATrueZen, dj.narayanan	12	5	25
+287515	2	0	Dark Null (5 Suits)	2020-09-02 — 22:35:32 UTC	ATrueZen, dj.narayanan	12	5	25
+287506	2	0	Dark Null (5 Suits)	2020-09-02 — 22:26:13 UTC	ATrueZen, dj.narayanan	13	5	25
+287503	2	0	Dark Null (5 Suits)	2020-09-02 — 22:21:24 UTC	ATrueZen, dj.narayanan	15	5	25
+287501	2	0	Dark Null (5 Suits)	2020-09-02 — 22:18:07 UTC	ATrueZen, dj.narayanan	16	5	25
+287500	2	0	Dark Null (5 Suits)	2020-09-02 — 22:15:05 UTC	ATrueZen, dj.narayanan	18	5	25
+287499	2	0	Dark Null (5 Suits)	2020-09-02 — 22:11:29 UTC	ATrueZen, dj.narayanan	19	5	25
+287498	2	0	Dark Null (5 Suits)	2020-09-02 — 22:10:11 UTC	ATrueZen, dj.narayanan	21	5	25
+287496	2	0	Dark Null (5 Suits)	2020-09-02 — 22:06:57 UTC	ATrueZen, dj.narayanan	22	5	25
+287495	2	0	Dark Null (5 Suits)	2020-09-02 — 22:06:25 UTC	ATrueZen, dj.narayanan	28	5	25
+287488	3	30	Pink (6 Suits)	2020-09-02 — 21:53:37 UTC	a_small_emu, ATrueZen, dj.narayanan	31	6	30
+287475	3	29	Pink (6 Suits)	2020-09-02 — 21:30:55 UTC	a_small_emu, ATrueZen, dj.narayanan	37	6	30
+287457	4	15	3 Suits	2020-09-02 — 21:04:03 UTC	a_small_emu, ATrueZen, dj.narayanan, TwentyLightbulb	62	3	15
+287423	3	25	Rainbow (5 Suits)	2020-09-02 — 20:32:24 UTC	a_small_emu, ATrueZen, dj.narayanan	39	5	25
+287388	3	0	Rainbow (5 Suits)	2020-09-02 — 20:06:59 UTC	a_small_emu, ATrueZen, dj.narayanan	43	5	25
+287381	2	0	Dark Null (5 Suits)	2020-09-02 — 19:54:58 UTC	ATrueZen, dj.narayanan	25	5	25
+287367	3	24	Rainbow (5 Suits)	2020-09-02 — 19:29:40 UTC	a_small_emu, ATrueZen, dj.narayanan	50	5	25
+287351	3	0	Rainbow (5 Suits)	2020-09-02 — 19:05:23 UTC	a_small_emu, ATrueZen, dj.narayanan	57	5	25
+287339	3	0	Rainbow (5 Suits)	2020-09-02 — 18:49:32 UTC	a_small_emu, ATrueZen, dj.narayanan	56	5	25
+287336	2	0	Dark Null (5 Suits)	2020-09-02 — 18:41:13 UTC	ATrueZen, dj.narayanan	31	5	25
+286957	2	22	Gray Pink (5 Suits)	2020-09-02 — 03:20:45 UTC	ATrueZen, dj.narayanan	2	5	25
+286953	2	0	Gray Pink (5 Suits)	2020-09-02 — 03:17:33 UTC	ATrueZen, dj.narayanan	2	5	25
+286950	2	0	Gray Pink (5 Suits)	2020-09-02 — 03:16:18 UTC	ATrueZen, dj.narayanan	2	5	25
+286947	2	0	Gray Pink (5 Suits)	2020-09-02 — 03:14:14 UTC	ATrueZen, dj.narayanan	3	5	25
+286945	2	0	Gray Pink (5 Suits)	2020-09-02 — 03:10:38 UTC	ATrueZen, dj.narayanan	5	5	25
+286942	2	23	Gray Pink (5 Suits)	2020-09-02 — 03:09:26 UTC	ATrueZen, dj.narayanan	7	5	25
+286940	2	24	Gray Pink (5 Suits)	2020-09-02 — 03:06:02 UTC	ATrueZen, dj.narayanan	7	5	25
+286934	2	0	Gray Pink (5 Suits)	2020-09-02 — 03:01:54 UTC	ATrueZen, dj.narayanan	7	5	25
+286929	2	23	Gray Pink (5 Suits)	2020-09-02 — 02:57:51 UTC	ATrueZen, dj.narayanan	7	5	25
+286925	2	0	Gray Pink (5 Suits)	2020-09-02 — 02:53:24 UTC	ATrueZen, dj.narayanan	7	5	25
+286924	2	0	Gray Pink (5 Suits)	2020-09-02 — 02:53:07 UTC	ATrueZen, dj.narayanan	7	5	25
+286920	2	0	Gray Pink (5 Suits)	2020-09-02 — 02:51:04 UTC	ATrueZen, dj.narayanan	7	5	25
+286916	2	0	Gray Pink (5 Suits)	2020-09-02 — 02:46:56 UTC	ATrueZen, dj.narayanan	12	5	25
+286910	2	0	Gray Pink (5 Suits)	2020-09-02 — 02:43:01 UTC	ATrueZen, dj.narayanan	12	5	25
+286907	2	0	Gray Pink (5 Suits)	2020-09-02 — 02:41:44 UTC	ATrueZen, dj.narayanan	12	5	25
+286904	2	0	Gray Pink (5 Suits)	2020-09-02 — 02:37:16 UTC	ATrueZen, dj.narayanan	12	5	25
+286902	2	23	Gray Pink (5 Suits)	2020-09-02 — 02:36:00 UTC	ATrueZen, dj.narayanan	13	5	25
+286896	2	0	Gray Pink (5 Suits)	2020-09-02 — 02:31:53 UTC	ATrueZen, dj.narayanan	17	5	25
+286890	2	0	Gray Pink (5 Suits)	2020-09-02 — 02:27:46 UTC	ATrueZen, dj.narayanan	20	5	25
+286888	2	20	Gray Pink (5 Suits)	2020-09-02 — 02:25:54 UTC	ATrueZen, dj.narayanan	24	5	25
+286882	2	0	Gray Pink (5 Suits)	2020-09-02 — 02:21:43 UTC	ATrueZen, dj.narayanan	27	5	25
+286880	2	24	Gray Pink (5 Suits)	2020-09-02 — 02:19:14 UTC	ATrueZen, dj.narayanan	33	5	25
+286873	2	0	Gray Pink (5 Suits)	2020-09-02 — 02:14:00 UTC	ATrueZen, dj.narayanan	45	5	25
+286865	2	30	Cocoa Rainbow (6 Suits)	2020-09-02 — 02:07:25 UTC	ATrueZen, dj.narayanan	20	6	30
+286860	2	0	Cocoa Rainbow (6 Suits)	2020-09-02 — 02:01:36 UTC	ATrueZen, dj.narayanan	21	6	30
+286859	2	0	Cocoa Rainbow (6 Suits)	2020-09-02 — 02:00:17 UTC	ATrueZen, dj.narayanan	23	6	30
+286858	2	0	Cocoa Rainbow (6 Suits)	2020-09-02 — 01:58:32 UTC	ATrueZen, dj.narayanan	23	6	30
+286855	2	0	Cocoa Rainbow (6 Suits)	2020-09-02 — 01:54:55 UTC	ATrueZen, dj.narayanan	34	6	30
+286849	2	26	Cocoa Rainbow (6 Suits)	2020-09-02 — 01:51:30 UTC	ATrueZen, dj.narayanan	36	6	30
+286844	2	0	Cocoa Rainbow (6 Suits)	2020-09-02 — 01:47:25 UTC	ATrueZen, dj.narayanan	39	6	30
+286843	2	0	Cocoa Rainbow (6 Suits)	2020-09-02 — 01:46:51 UTC	ATrueZen, dj.narayanan	42	6	30
+286841	2	0	Cocoa Rainbow (6 Suits)	2020-09-02 — 01:45:44 UTC	ATrueZen, dj.narayanan	47	6	30
+286837	2	25	Cocoa Rainbow (5 Suits)	2020-09-02 — 01:39:27 UTC	ATrueZen, dj.narayanan	14	5	25
+286835	2	0	Cocoa Rainbow (5 Suits)	2020-09-02 — 01:36:08 UTC	ATrueZen, dj.narayanan	14	5	25
+286832	2	0	Cocoa Rainbow (5 Suits)	2020-09-02 — 01:34:15 UTC	ATrueZen, dj.narayanan	16	5	25
+286830	2	0	Cocoa Rainbow (5 Suits)	2020-09-02 — 01:31:10 UTC	ATrueZen, dj.narayanan	17	5	25
+286824	2	0	Cocoa Rainbow (5 Suits)	2020-09-02 — 01:28:45 UTC	ATrueZen, dj.narayanan	17	5	25
+286823	2	0	Cocoa Rainbow (5 Suits)	2020-09-02 — 01:27:39 UTC	ATrueZen, dj.narayanan	20	5	25
+286816	2	0	Cocoa Rainbow (5 Suits)	2020-09-02 — 01:20:44 UTC	ATrueZen, dj.narayanan	29	5	25
+286811	2	0	Cocoa Rainbow (5 Suits)	2020-09-02 — 01:18:38 UTC	ATrueZen, dj.narayanan	40	5	25
+286807	2	0	Cocoa Rainbow (5 Suits)	2020-09-02 — 01:13:52 UTC	ATrueZen, dj.narayanan	50	5	25
+286733	2	30	Dark Omni (6 Suits)	2020-09-01 — 22:45:46 UTC	ATrueZen, dj.narayanan	9	6	30
+286729	2	0	Dark Omni (6 Suits)	2020-09-01 — 22:41:23 UTC	ATrueZen, dj.narayanan	10	6	30
+286728	2	0	Dark Omni (6 Suits)	2020-09-01 — 22:40:01 UTC	ATrueZen, dj.narayanan	10	6	30
+286726	2	0	Dark Omni (6 Suits)	2020-09-01 — 22:37:17 UTC	ATrueZen, dj.narayanan	16	6	30
+286723	2	0	Dark Omni (6 Suits)	2020-09-01 — 22:34:45 UTC	ATrueZen, dj.narayanan	19	6	30
+286721	2	0	Dark Omni (6 Suits)	2020-09-01 — 22:32:14 UTC	ATrueZen, dj.narayanan	21	6	30
+286719	2	0	Dark Omni (6 Suits)	2020-09-01 — 22:31:35 UTC	ATrueZen, dj.narayanan	22	6	30
+286718	2	0	Dark Omni (6 Suits)	2020-09-01 — 22:31:18 UTC	ATrueZen, dj.narayanan	26	6	30
+286716	2	0	Dark Omni (6 Suits)	2020-09-01 — 22:29:06 UTC	ATrueZen, dj.narayanan	39	6	30
+286713	2	0	Dark Omni (6 Suits)	2020-09-01 — 22:27:38 UTC	ATrueZen, dj.narayanan	42	6	30
+286710	2	25	Dark Omni (5 Suits)	2020-09-01 — 22:25:31 UTC	ATrueZen, dj.narayanan	35	5	25
+286704	2	0	Dark Omni (5 Suits)	2020-09-01 — 22:21:15 UTC	ATrueZen, dj.narayanan	47	5	25
+286699	2	25	Dark Brown (5 Suits)	2020-09-01 — 22:16:31 UTC	ATrueZen, dj.narayanan	27	5	25
+286694	2	0	Dark Brown (5 Suits)	2020-09-01 — 22:13:19 UTC	ATrueZen, dj.narayanan	28	5	25
+286692	2	0	Dark Brown (5 Suits)	2020-09-01 — 22:12:33 UTC	ATrueZen, dj.narayanan	33	5	25
+286690	2	0	Dark Brown (5 Suits)	2020-09-01 — 22:09:57 UTC	ATrueZen, dj.narayanan	41	5	25
+286689	2	0	Dark Brown (5 Suits)	2020-09-01 — 22:09:35 UTC	ATrueZen, dj.narayanan	55	5	25
+286677	2	30	Dark Brown (6 Suits)	2020-09-01 — 22:03:41 UTC	ATrueZen, dj.narayanan	17	6	30
+286668	2	0	Dark Brown (6 Suits)	2020-09-01 — 21:59:00 UTC	ATrueZen, dj.narayanan	23	6	30
+286659	2	0	Dark Brown (6 Suits)	2020-09-01 — 21:55:02 UTC	ATrueZen, dj.narayanan	26	6	30
+286655	2	0	Dark Brown (6 Suits)	2020-09-01 — 21:54:27 UTC	ATrueZen, dj.narayanan	29	6	30
+286648	2	0	Dark Brown (6 Suits)	2020-09-01 — 21:51:14 UTC	ATrueZen, dj.narayanan	35	6	30
+286643	2	0	Dark Brown (6 Suits)	2020-09-01 — 21:48:57 UTC	ATrueZen, dj.narayanan	46	6	30
+286632	2	25	Gray (5 Suits)	2020-09-01 — 21:44:00 UTC	ATrueZen, dj.narayanan	11	5	25
+286621	2	30	Gray (6 Suits)	2020-09-01 — 21:38:09 UTC	ATrueZen, dj.narayanan	14	6	30
+286610	2	0	Gray (6 Suits)	2020-09-01 — 21:34:30 UTC	ATrueZen, dj.narayanan	14	6	30
+286602	2	0	Gray (6 Suits)	2020-09-01 — 21:30:18 UTC	ATrueZen, dj.narayanan	15	6	30
+286600	2	0	Gray (6 Suits)	2020-09-01 — 21:28:53 UTC	ATrueZen, dj.narayanan	14	6	30
+286596	2	0	Gray (6 Suits)	2020-09-01 — 21:27:45 UTC	ATrueZen, dj.narayanan	14	6	30
+286589	2	0	Gray (6 Suits)	2020-09-01 — 21:23:54 UTC	ATrueZen, dj.narayanan	17	6	30
+286583	2	0	Gray (6 Suits)	2020-09-01 — 21:21:56 UTC	ATrueZen, dj.narayanan	22	6	30
+286580	2	0	Gray (6 Suits)	2020-09-01 — 21:21:05 UTC	ATrueZen, dj.narayanan	24	6	30
+286572	2	0	Gray (6 Suits)	2020-09-01 — 21:17:36 UTC	ATrueZen, dj.narayanan	27	6	30
+286569	2	0	Gray (6 Suits)	2020-09-01 — 21:16:08 UTC	ATrueZen, dj.narayanan	27	6	30
+286561	2	0	Gray (6 Suits)	2020-09-01 — 21:12:37 UTC	ATrueZen, dj.narayanan	29	6	30
+286547	2	0	Gray (6 Suits)	2020-09-01 — 21:07:32 UTC	ATrueZen, dj.narayanan	29	6	30
+286538	2	30	Dark Prism (6 Suits)	2020-09-01 — 21:02:14 UTC	ATrueZen, dj.narayanan	22	6	30
+286531	2	0	Dark Prism (6 Suits)	2020-09-01 — 20:56:10 UTC	ATrueZen, dj.narayanan	24	6	30
+286528	2	0	Dark Prism (6 Suits)	2020-09-01 — 20:54:55 UTC	ATrueZen, dj.narayanan	25	6	30
+286523	2	0	Dark Prism (6 Suits)	2020-09-01 — 20:51:24 UTC	ATrueZen, dj.narayanan	33	6	30
+286517	2	0	Dark Prism (6 Suits)	2020-09-01 — 20:48:21 UTC	ATrueZen, dj.narayanan	34	6	30
+286509	2	0	Dark Prism (6 Suits)	2020-09-01 — 20:45:26 UTC	ATrueZen, dj.narayanan	38	6	30
+286506	2	25	Dark Prism (5 Suits)	2020-09-01 — 20:39:35 UTC	ATrueZen, dj.narayanan	20	5	25
+286501	2	0	Dark Prism (5 Suits)	2020-09-01 — 20:35:05 UTC	ATrueZen, dj.narayanan	20	5	25
+286496	2	0	Dark Prism (5 Suits)	2020-09-01 — 20:31:57 UTC	ATrueZen, dj.narayanan	27	5	25
+286495	2	0	Dark Prism (5 Suits)	2020-09-01 — 20:31:30 UTC	ATrueZen, dj.narayanan	29	5	25
+286491	2	0	Dark Prism (5 Suits)	2020-09-01 — 20:28:48 UTC	ATrueZen, dj.narayanan	40	5	25
+286490	2	0	Dark Prism (5 Suits)	2020-09-01 — 20:28:12 UTC	ATrueZen, dj.narayanan	38	5	25
+286488	2	0	Dark Prism (5 Suits)	2020-09-01 — 20:26:16 UTC	ATrueZen, dj.narayanan	41	5	25
+286482	2	0	Dark Prism (5 Suits)	2020-09-01 — 20:21:33 UTC	ATrueZen, dj.narayanan	42	5	25
+286427	3	24	Rainbow (5 Suits)	2020-09-01 — 19:04:18 UTC	a_small_emu, ATrueZen, dj.narayanan	74	5	25
+286420	3	0	Rainbow (5 Suits)	2020-09-01 — 18:48:57 UTC	a_small_emu, ATrueZen, dj.narayanan	84	5	25
+286412	3	0	Rainbow (5 Suits)	2020-09-01 — 18:39:28 UTC	a_small_emu, ATrueZen, dj.narayanan	116	5	25
+286408	3	0	Rainbow (5 Suits)	2020-09-01 — 18:27:32 UTC	a_small_emu, ATrueZen, dj.narayanan	135	5	25
+286402	3	0	Rainbow (5 Suits)	2020-09-01 — 18:15:10 UTC	a_small_emu, ATrueZen, dj.narayanan	185	5	25
+286173	2	25	Dark Pink (5 Suits)	2020-09-01 — 05:04:34 UTC	ATrueZen, dj.narayanan	4	5	25
+286168	2	0	Dark Pink (5 Suits)	2020-09-01 — 05:00:18 UTC	ATrueZen, dj.narayanan	4	5	25
+286164	2	0	Dark Pink (5 Suits)	2020-09-01 — 04:57:47 UTC	ATrueZen, dj.narayanan	4	5	25
+286161	2	0	Dark Pink (5 Suits)	2020-09-01 — 04:53:47 UTC	ATrueZen, dj.narayanan	6	5	25
+286157	2	0	Dark Pink (5 Suits)	2020-09-01 — 04:52:20 UTC	ATrueZen, dj.narayanan	9	5	25
+286155	2	0	Dark Pink (5 Suits)	2020-09-01 — 04:51:29 UTC	ATrueZen, dj.narayanan	9	5	25
+286153	2	0	Dark Pink (5 Suits)	2020-09-01 — 04:50:15 UTC	ATrueZen, dj.narayanan	10	5	25
+286148	2	0	Dark Pink (5 Suits)	2020-09-01 — 04:46:55 UTC	ATrueZen, dj.narayanan	13	5	25
+286139	2	0	Dark Pink (5 Suits)	2020-09-01 — 04:41:54 UTC	ATrueZen, dj.narayanan	14	5	25
+286134	2	0	Dark Pink (5 Suits)	2020-09-01 — 04:39:36 UTC	ATrueZen, dj.narayanan	18	5	25
+286126	2	0	Dark Pink (5 Suits)	2020-09-01 — 04:34:57 UTC	ATrueZen, dj.narayanan	19	5	25
+286120	2	0	Dark Pink (5 Suits)	2020-09-01 — 04:32:25 UTC	ATrueZen, dj.narayanan	22	5	25
+286116	2	24	Dark Pink (5 Suits)	2020-09-01 — 04:29:25 UTC	ATrueZen, dj.narayanan	27	5	25
+286105	2	0	Dark Pink (5 Suits)	2020-09-01 — 04:25:41 UTC	ATrueZen, dj.narayanan	33	5	25
+286100	2	23	Dark Pink (5 Suits)	2020-09-01 — 04:22:40 UTC	ATrueZen, dj.narayanan	33	5	25
+286087	2	24	Dark Pink (5 Suits)	2020-09-01 — 04:16:35 UTC	ATrueZen, dj.narayanan	58	5	25
+286077	2	30	Dark Pink (6 Suits)	2020-09-01 — 04:09:47 UTC	ATrueZen, dj.narayanan	15	6	30
+286069	2	0	Dark Pink (6 Suits)	2020-09-01 — 04:04:53 UTC	ATrueZen, dj.narayanan	18	6	30
+286064	2	0	Dark Pink (6 Suits)	2020-09-01 — 04:02:14 UTC	ATrueZen, dj.narayanan	24	6	30
+286062	2	0	Dark Pink (6 Suits)	2020-09-01 — 04:01:24 UTC	ATrueZen, dj.narayanan	25	6	30
+286059	2	0	Dark Pink (6 Suits)	2020-09-01 — 03:58:44 UTC	ATrueZen, dj.narayanan	26	6	30
+286056	2	0	Dark Pink (6 Suits)	2020-09-01 — 03:56:53 UTC	ATrueZen, dj.narayanan	29	6	30
+286051	2	0	Dark Pink (6 Suits)	2020-09-01 — 03:53:52 UTC	ATrueZen, dj.narayanan	32	6	30
+286045	2	0	Dark Pink (6 Suits)	2020-09-01 — 03:50:12 UTC	ATrueZen, dj.narayanan	43	6	30
+286039	2	0	Dark Pink (6 Suits)	2020-09-01 — 03:46:48 UTC	ATrueZen, dj.narayanan	43	6	30
+286033	2	27	Dark Pink (6 Suits)	2020-09-01 — 03:43:10 UTC	ATrueZen, dj.narayanan	50	6	30
+286026	2	0	Dark Pink (6 Suits)	2020-09-01 — 03:38:51 UTC	ATrueZen, dj.narayanan	56	6	30
+285897	2	25	No Variant	2020-08-31 — 23:46:41 UTC	ATrueZen, dj.narayanan	145	5	25
+285895	2	0	No Variant	2020-08-31 — 23:45:07 UTC	ATrueZen, dj.narayanan	149	5	25
+285894	2	0	No Variant	2020-08-31 — 23:44:16 UTC	ATrueZen, dj.narayanan	152	5	25
+285893	2	0	No Variant	2020-08-31 — 23:43:31 UTC	ATrueZen, dj.narayanan	152	5	25
+285892	2	22	No Variant	2020-08-31 — 23:43:17 UTC	ATrueZen, dj.narayanan	151	5	25
+285890	2	0	No Variant	2020-08-31 — 23:41:42 UTC	ATrueZen, dj.narayanan	151	5	25
+285889	2	0	No Variant	2020-08-31 — 23:41:22 UTC	ATrueZen, dj.narayanan	152	5	25
+285888	2	0	No Variant	2020-08-31 — 23:40:44 UTC	ATrueZen, dj.narayanan	154	5	25
+285887	2	0	No Variant	2020-08-31 — 23:40:28 UTC	ATrueZen, dj.narayanan	154	5	25
+285886	2	0	No Variant	2020-08-31 — 23:40:19 UTC	ATrueZen, dj.narayanan	157	5	25
+285884	2	25	No Variant	2020-08-31 — 23:38:23 UTC	ATrueZen, dj.narayanan	156	5	25
+285882	2	0	No Variant	2020-08-31 — 23:35:55 UTC	ATrueZen, dj.narayanan	159	5	25
+285881	2	0	No Variant	2020-08-31 — 23:33:37 UTC	ATrueZen, dj.narayanan	160	5	25
+285879	2	0	No Variant	2020-08-31 — 23:32:11 UTC	ATrueZen, dj.narayanan	163	5	25
+285878	2	0	No Variant	2020-08-31 — 23:31:12 UTC	ATrueZen, dj.narayanan	163	5	25
+285877	2	0	No Variant	2020-08-31 — 23:30:53 UTC	ATrueZen, dj.narayanan	165	5	25
+285876	2	0	No Variant	2020-08-31 — 23:29:36 UTC	ATrueZen, dj.narayanan	169	5	25
+285875	2	0	No Variant	2020-08-31 — 23:29:10 UTC	ATrueZen, dj.narayanan	170	5	25
+285874	2	0	No Variant	2020-08-31 — 23:28:18 UTC	ATrueZen, dj.narayanan	175	5	25
+285873	2	0	No Variant	2020-08-31 — 23:27:41 UTC	ATrueZen, dj.narayanan	173	5	25
+285872	2	0	No Variant	2020-08-31 — 23:26:11 UTC	ATrueZen, dj.narayanan	178	5	25
+285871	2	0	No Variant	2020-08-31 — 23:25:54 UTC	ATrueZen, dj.narayanan	178	5	25
+285870	2	0	No Variant	2020-08-31 — 23:24:44 UTC	ATrueZen, dj.narayanan	181	5	25
+285869	2	0	No Variant	2020-08-31 — 23:24:07 UTC	ATrueZen, dj.narayanan	180	5	25
+285868	2	0	No Variant	2020-08-31 — 23:23:54 UTC	ATrueZen, dj.narayanan	179	5	25
+285867	2	0	No Variant	2020-08-31 — 23:22:27 UTC	ATrueZen, dj.narayanan	181	5	25
+285865	2	0	No Variant	2020-08-31 — 23:21:39 UTC	ATrueZen, dj.narayanan	185	5	25
+285864	2	0	No Variant	2020-08-31 — 23:21:17 UTC	ATrueZen, dj.narayanan	184	5	25
+285863	2	0	No Variant	2020-08-31 — 23:21:05 UTC	ATrueZen, dj.narayanan	182	5	25
+285860	2	0	No Variant	2020-08-31 — 23:19:35 UTC	ATrueZen, dj.narayanan	186	5	25
+285859	2	0	No Variant	2020-08-31 — 23:18:39 UTC	ATrueZen, dj.narayanan	187	5	25
+285857	2	0	No Variant	2020-08-31 — 23:17:32 UTC	ATrueZen, dj.narayanan	191	5	25
+285856	2	0	No Variant	2020-08-31 — 23:17:07 UTC	ATrueZen, dj.narayanan	195	5	25
+285855	2	0	No Variant	2020-08-31 — 23:16:12 UTC	ATrueZen, dj.narayanan	194	5	25
+285854	2	0	No Variant	2020-08-31 — 23:15:51 UTC	ATrueZen, dj.narayanan	196	5	25
+285853	2	0	No Variant	2020-08-31 — 23:15:09 UTC	ATrueZen, dj.narayanan	194	5	25
+285852	2	24	No Variant	2020-08-31 — 23:14:09 UTC	ATrueZen, dj.narayanan	201	5	25
+285851	2	0	No Variant	2020-08-31 — 23:12:23 UTC	ATrueZen, dj.narayanan	201	5	25
+285850	2	0	No Variant	2020-08-31 — 23:12:11 UTC	ATrueZen, dj.narayanan	207	5	25
+285849	2	0	No Variant	2020-08-31 — 23:11:39 UTC	ATrueZen, dj.narayanan	207	5	25
+285848	2	0	No Variant	2020-08-31 — 23:11:16 UTC	ATrueZen, dj.narayanan	211	5	25
+285847	2	0	No Variant	2020-08-31 — 23:11:10 UTC	ATrueZen, dj.narayanan	212	5	25
+285846	2	0	No Variant	2020-08-31 — 23:10:39 UTC	ATrueZen, dj.narayanan	215	5	25
+285845	2	0	No Variant	2020-08-31 — 23:09:51 UTC	ATrueZen, dj.narayanan	220	5	25
+285844	2	0	No Variant	2020-08-31 — 23:09:29 UTC	ATrueZen, dj.narayanan	220	5	25
+285843	2	0	No Variant	2020-08-31 — 23:08:25 UTC	ATrueZen, dj.narayanan	225	5	25
+285841	2	0	No Variant	2020-08-31 — 23:07:38 UTC	ATrueZen, dj.narayanan	228	5	25
+285839	2	0	No Variant	2020-08-31 — 23:06:46 UTC	ATrueZen, dj.narayanan	231	5	25
+285838	2	0	No Variant	2020-08-31 — 23:06:38 UTC	ATrueZen, dj.narayanan	244	5	25
+285836	2	0	No Variant	2020-08-31 — 23:06:11 UTC	ATrueZen, dj.narayanan	249	5	25
+285835	2	0	No Variant	2020-08-31 — 23:05:37 UTC	ATrueZen, dj.narayanan	254	5	25
+285834	2	0	No Variant	2020-08-31 — 23:04:56 UTC	ATrueZen, dj.narayanan	259	5	25
+285833	2	0	No Variant	2020-08-31 — 23:04:18 UTC	ATrueZen, dj.narayanan	257	5	25
+285832	2	0	No Variant	2020-08-31 — 23:03:39 UTC	ATrueZen, dj.narayanan	264	5	25
+285831	2	0	No Variant	2020-08-31 — 23:03:20 UTC	ATrueZen, dj.narayanan	271	5	25
+285830	2	0	No Variant	2020-08-31 — 23:02:28 UTC	ATrueZen, dj.narayanan	275	5	25
+285829	2	0	No Variant	2020-08-31 — 23:01:16 UTC	ATrueZen, dj.narayanan	277	5	25
+285828	2	0	No Variant	2020-08-31 — 23:00:56 UTC	ATrueZen, dj.narayanan	279	5	25
+285827	2	0	No Variant	2020-08-31 — 22:59:49 UTC	ATrueZen, dj.narayanan	281	5	25
+285826	2	0	No Variant	2020-08-31 — 22:59:35 UTC	ATrueZen, dj.narayanan	299	5	25
+285824	2	0	No Variant	2020-08-31 — 22:58:20 UTC	ATrueZen, dj.narayanan	292	5	25
+285822	2	0	No Variant	2020-08-31 — 22:57:05 UTC	ATrueZen, dj.narayanan	302	5	25
+285821	2	0	No Variant	2020-08-31 — 22:56:37 UTC	ATrueZen, dj.narayanan	308	5	25
+285819	2	0	No Variant	2020-08-31 — 22:56:01 UTC	ATrueZen, dj.narayanan	303	5	25
+285818	2	0	No Variant	2020-08-31 — 22:55:24 UTC	ATrueZen, dj.narayanan	311	5	25
+285817	2	0	No Variant	2020-08-31 — 22:53:49 UTC	ATrueZen, dj.narayanan	315	5	25
+285814	2	0	No Variant	2020-08-31 — 22:52:36 UTC	ATrueZen, dj.narayanan	321	5	25
+285812	2	0	No Variant	2020-08-31 — 22:50:25 UTC	ATrueZen, dj.narayanan	328	5	25
+285811	2	0	No Variant	2020-08-31 — 22:49:11 UTC	ATrueZen, dj.narayanan	335	5	25
+285810	2	0	No Variant	2020-08-31 — 22:48:09 UTC	ATrueZen, dj.narayanan	344	5	25
+285808	2	0	No Variant	2020-08-31 — 22:46:40 UTC	ATrueZen, dj.narayanan	348	5	25
+285807	2	0	No Variant	2020-08-31 — 22:46:03 UTC	ATrueZen, dj.narayanan	354	5	25
+285806	2	0	No Variant	2020-08-31 — 22:45:51 UTC	ATrueZen, dj.narayanan	357	5	25
+285804	2	0	No Variant	2020-08-31 — 22:45:39 UTC	ATrueZen, dj.narayanan	362	5	25
+285803	2	0	No Variant	2020-08-31 — 22:45:17 UTC	ATrueZen, dj.narayanan	369	5	25
+285800	2	25	No Variant	2020-08-31 — 22:41:58 UTC	ATrueZen, dj.narayanan	381	5	25
+285799	2	0	No Variant	2020-08-31 — 22:40:24 UTC	ATrueZen, dj.narayanan	387	5	25
+285798	2	0	No Variant	2020-08-31 — 22:39:25 UTC	ATrueZen, dj.narayanan	393	5	25
+285797	2	0	No Variant	2020-08-31 — 22:38:42 UTC	ATrueZen, dj.narayanan	393	5	25
+285794	2	25	No Variant	2020-08-31 — 22:37:30 UTC	ATrueZen, dj.narayanan	406	5	25
+285793	2	0	No Variant	2020-08-31 — 22:35:52 UTC	ATrueZen, dj.narayanan	411	5	25
+285792	2	0	No Variant	2020-08-31 — 22:35:33 UTC	ATrueZen, dj.narayanan	423	5	25
+285791	2	0	No Variant	2020-08-31 — 22:35:17 UTC	ATrueZen, dj.narayanan	432	5	25
+285790	2	0	No Variant	2020-08-31 — 22:34:00 UTC	ATrueZen, dj.narayanan	440	5	25
+285789	2	0	No Variant	2020-08-31 — 22:32:42 UTC	ATrueZen, dj.narayanan	450	5	25
+285788	2	0	No Variant	2020-08-31 — 22:31:34 UTC	ATrueZen, dj.narayanan	455	5	25
+285787	2	0	No Variant	2020-08-31 — 22:30:48 UTC	ATrueZen, dj.narayanan	458	5	25
+285773	2	25	No Variant	2020-08-31 — 22:22:00 UTC	ATrueZen, dj.narayanan	476	5	25
+285764	2	22	No Variant	2020-08-31 — 22:19:04 UTC	ATrueZen, dj.narayanan	496	5	25
+285759	2	0	No Variant	2020-08-31 — 22:17:09 UTC	ATrueZen, dj.narayanan	506	5	25
+285750	2	0	No Variant	2020-08-31 — 22:13:12 UTC	ATrueZen, dj.narayanan	513	5	25
+285744	2	0	No Variant	2020-08-31 — 22:10:56 UTC	ATrueZen, dj.narayanan	526	5	25
+285741	2	0	No Variant	2020-08-31 — 22:10:10 UTC	ATrueZen, dj.narayanan	534	5	25
+285738	2	0	No Variant	2020-08-31 — 22:09:49 UTC	ATrueZen, dj.narayanan	548	5	25
+285733	2	0	No Variant	2020-08-31 — 22:09:33 UTC	ATrueZen, dj.narayanan	555	5	25
+285732	2	0	No Variant	2020-08-31 — 22:09:28 UTC	ATrueZen, dj.narayanan	581	5	25
+285728	2	0	No Variant	2020-08-31 — 22:08:42 UTC	ATrueZen, dj.narayanan	593	5	25
+285722	2	0	No Variant	2020-08-31 — 22:05:24 UTC	ATrueZen, dj.narayanan	597	5	25
+285719	2	0	No Variant	2020-08-31 — 22:04:00 UTC	ATrueZen, dj.narayanan	626	5	25
+285716	2	0	No Variant	2020-08-31 — 22:03:25 UTC	ATrueZen, dj.narayanan	654	5	25
+285682	2	30	Null (6 Suits)	2020-08-31 — 21:50:15 UTC	ATrueZen, dj.narayanan	48	6	30
+285652	2	0	Null (6 Suits)	2020-08-31 — 21:34:05 UTC	ATrueZen, dj.narayanan	56	6	30
+285516	4	22	Cocoa Rainbow (5 Suits)	2020-08-31 — 19:14:28 UTC	a_small_emu, ATrueZen, dj.narayanan, TwentyLightbulb	20	5	25
+285490	3	25	No Variant	2020-08-31 — 18:32:55 UTC	a_small_emu, dj.narayanan, TwentyLightbulb	2606	5	25
+285482	3	0	Totally Blind (6 Suits)	2020-08-31 — 18:11:09 UTC	a_small_emu, dj.narayanan, TwentyLightbulb	4	6	30
+285474	4	30	Totally Blind (6 Suits)	2020-08-31 — 17:58:27 UTC	a_small_emu, ATrueZen, dj.narayanan, TwentyLightbulb	8	6	30
+285446	3	0	Totally Blind (5 Suits)	2020-08-31 — 17:12:02 UTC	a_small_emu, dj.narayanan, TwentyLightbulb	8	5	25
+285443	3	0	Totally Blind (5 Suits)	2020-08-31 — 16:59:48 UTC	a_small_emu, dj.narayanan, TwentyLightbulb	14	5	25
+285041	2	25	Null (5 Suits)	2020-08-31 — 01:50:18 UTC	ATrueZen, dj.narayanan	101	5	25
+285030	2	20	Null (4 Suits)	2020-08-31 — 01:35:22 UTC	ATrueZen, dj.narayanan	1	4	20
+285027	2	0	Null (4 Suits)	2020-08-31 — 01:30:34 UTC	ATrueZen, dj.narayanan	1	4	20
+285024	2	0	Null (4 Suits)	2020-08-31 — 01:28:31 UTC	ATrueZen, dj.narayanan	1	4	20
+285023	2	18	Null (4 Suits)	2020-08-31 — 01:28:00 UTC	ATrueZen, dj.narayanan	2	4	20
+285020	2	0	Null (4 Suits)	2020-08-31 — 01:23:12 UTC	ATrueZen, dj.narayanan	2	4	20
+285017	2	19	Null (4 Suits)	2020-08-31 — 01:19:41 UTC	ATrueZen, dj.narayanan	2	4	20
+285011	2	0	Null (4 Suits)	2020-08-31 — 01:12:05 UTC	ATrueZen, dj.narayanan	2	4	20
+285006	2	17	Null (4 Suits)	2020-08-31 — 01:07:14 UTC	ATrueZen, dj.narayanan	2	4	20
+284999	2	0	Null (4 Suits)	2020-08-31 — 00:59:49 UTC	ATrueZen, dj.narayanan	2	4	20
+284927	2	30	Prism (6 Suits)	2020-08-30 — 22:16:00 UTC	ATrueZen, dj.narayanan	59	6	30
+284919	2	25	Prism (5 Suits)	2020-08-30 — 22:06:08 UTC	ATrueZen, dj.narayanan	3	5	25
+284915	2	0	Prism (5 Suits)	2020-08-30 — 21:59:53 UTC	ATrueZen, dj.narayanan	5	5	25
+284911	2	0	Prism (5 Suits)	2020-08-30 — 21:58:01 UTC	ATrueZen, dj.narayanan	7	5	25
+284905	2	0	Prism (5 Suits)	2020-08-30 — 21:54:46 UTC	ATrueZen, dj.narayanan	7	5	25
+284900	2	23	Prism (5 Suits)	2020-08-30 — 21:52:13 UTC	ATrueZen, dj.narayanan	7	5	25
+284894	2	0	Prism (5 Suits)	2020-08-30 — 21:46:02 UTC	ATrueZen, dj.narayanan	9	5	25
+284888	2	0	Prism (5 Suits)	2020-08-30 — 21:43:06 UTC	ATrueZen, dj.narayanan	13	5	25
+284882	2	0	Prism (5 Suits)	2020-08-30 — 21:37:34 UTC	ATrueZen, dj.narayanan	18	5	25
+284875	2	0	Prism (5 Suits)	2020-08-30 — 21:33:32 UTC	ATrueZen, dj.narayanan	30	5	25
+284869	2	0	Prism (5 Suits)	2020-08-30 — 21:30:20 UTC	ATrueZen, dj.narayanan	36	5	25
+284865	2	0	Prism (5 Suits)	2020-08-30 — 21:27:48 UTC	ATrueZen, dj.narayanan	52	5	25
+284862	2	0	Prism (5 Suits)	2020-08-30 — 21:24:21 UTC	ATrueZen, dj.narayanan	95	5	25
+284859	2	20	Prism (4 Suits)	2020-08-30 — 21:22:08 UTC	ATrueZen, dj.narayanan	31	4	20
+284857	2	0	Prism (4 Suits)	2020-08-30 — 21:18:23 UTC	ATrueZen, dj.narayanan	66	4	20
+284842	3	25	Black (5 Suits)	2020-08-30 — 21:06:07 UTC	a_small_emu, dj.narayanan, InfernoSnowman	171	5	25
+284817	3	20	4 Suits	2020-08-30 — 20:32:21 UTC	a_small_emu, dj.narayanan, InfernoSnowman	160	4	20
+284805	2	0	Prism (6 Suits)	2020-08-30 — 20:18:14 UTC	ATrueZen, dj.narayanan	64	6	30
+284796	2	0	Prism (6 Suits)	2020-08-30 — 20:08:34 UTC	ATrueZen, dj.narayanan	87	6	30
+283937	3	20	Totally Blind (4 Suits)	2020-08-29 — 20:47:35 UTC	a_small_emu, ATrueZen, dj.narayanan	2	4	20
+283922	3	19	Totally Blind (4 Suits)	2020-08-29 — 20:29:21 UTC	a_small_emu, ATrueZen, dj.narayanan	2	4	20
+283905	3	0	Totally Blind (4 Suits)	2020-08-29 — 20:12:03 UTC	a_small_emu, ATrueZen, dj.narayanan	6	4	20
+283889	2	28	Prism (6 Suits)	2020-08-29 — 19:53:37 UTC	ATrueZen, dj.narayanan	112	6	30
+283884	2	15	Totally Blind (3 Suits)	2020-08-29 — 19:40:48 UTC	ATrueZen, dj.narayanan	21	3	15
+283879	2	20	Totally Blind (4 Suits)	2020-08-29 — 19:31:33 UTC	ATrueZen, dj.narayanan	12	4	20
+283248	3	12	Totally Blind (3 Suits)	2020-08-29 — 03:22:38 UTC	a_small_emu, ATrueZen, dj.narayanan	4	3	15
+283233	3	0	Totally Blind (3 Suits)	2020-08-29 — 03:09:11 UTC	a_small_emu, ATrueZen, dj.narayanan	6	3	15
+283214	3	30	Totally Blind (6 Suits)	2020-08-29 — 02:52:40 UTC	a_small_emu, ATrueZen, dj.narayanan	9	6	30
+283186	3	26	Totally Blind (6 Suits)	2020-08-29 — 02:30:20 UTC	a_small_emu, ATrueZen, dj.narayanan	10	6	30
+283158	3	0	Totally Blind (6 Suits)	2020-08-29 — 02:06:04 UTC	a_small_emu, ATrueZen, dj.narayanan	13	6	30
+283145	2	30	Totally Blind (6 Suits)	2020-08-29 — 01:50:52 UTC	ATrueZen, dj.narayanan	23	6	30
+282924	3	29	Black & White (6 Suits)	2020-08-28 — 21:42:41 UTC	a_small_emu, ATrueZen, dj.narayanan	4	6	30
+282902	3	0	Black & White (6 Suits)	2020-08-28 — 21:16:48 UTC	a_small_emu, ATrueZen, dj.narayanan	4	6	30
+282881	3	0	Black & White (6 Suits)	2020-08-28 — 20:50:34 UTC	a_small_emu, ATrueZen, dj.narayanan	4	6	30
+282862	3	0	Black & White (6 Suits)	2020-08-28 — 20:30:06 UTC	a_small_emu, ATrueZen, dj.narayanan	4	6	30
+282842	3	0	Black & White (6 Suits)	2020-08-28 — 20:08:21 UTC	a_small_emu, ATrueZen, dj.narayanan	4	6	30
+282824	3	28	Black & White (6 Suits)	2020-08-28 — 19:45:15 UTC	a_small_emu, ATrueZen, dj.narayanan	4	6	30
+282801	3	0	Black & White (6 Suits)	2020-08-28 — 19:16:14 UTC	a_small_emu, ATrueZen, dj.narayanan	4	6	30
+282780	2	30	Reversed (6 Suits)	2020-08-28 — 18:51:12 UTC	a_small_emu, dj.narayanan	14	6	30
+282777	2	0	Reversed (6 Suits)	2020-08-28 — 18:43:52 UTC	a_small_emu, dj.narayanan	17	6	30
+282775	2	0	Reversed (6 Suits)	2020-08-28 — 18:42:04 UTC	a_small_emu, dj.narayanan	19	6	30
+282771	2	0	Reversed (6 Suits)	2020-08-28 — 18:39:43 UTC	a_small_emu, dj.narayanan	22	6	30
+282767	2	28	Reversed (6 Suits)	2020-08-28 — 18:31:48 UTC	a_small_emu, dj.narayanan	37	6	30
+282760	2	25	Up or Down & Prism (5 Suits)	2020-08-28 — 18:17:44 UTC	a_small_emu, dj.narayanan	11	5	25
+282752	2	0	Up or Down & Prism (5 Suits)	2020-08-28 — 18:06:11 UTC	a_small_emu, dj.narayanan	15	5	25
+281972	3	0	Prism (3 Suits)	2020-08-27 — 21:00:58 UTC	a_small_emu, ATrueZen, dj.narayanan	10	3	15
+281967	3	0	Prism (3 Suits)	2020-08-27 — 20:58:48 UTC	a_small_emu, ATrueZen, dj.narayanan	20	3	15
+281960	3	0	Prism (3 Suits)	2020-08-27 — 20:51:54 UTC	a_small_emu, ATrueZen, dj.narayanan	32	3	15
+281955	2	15	Prism (3 Suits)	2020-08-27 — 20:46:20 UTC	ATrueZen, dj.narayanan	52	3	15
+281911	3	29	Prism (6 Suits)	2020-08-27 — 19:57:27 UTC	a_small_emu, ATrueZen, dj.narayanan	60	6	30
+281900	3	0	Prism (6 Suits)	2020-08-27 — 19:33:44 UTC	a_small_emu, ATrueZen, dj.narayanan	84	6	30
+281895	4	25	Prism (5 Suits)	2020-08-27 — 19:16:02 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	29	5	25
+281882	4	0	Prism (5 Suits)	2020-08-27 — 18:55:21 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	47	5	25
+281880	3	24	Prism (5 Suits)	2020-08-27 — 18:50:04 UTC	a_small_emu, ATrueZen, dj.narayanan	80	5	25
+281866	3	25	No Variant	2020-08-27 — 18:26:31 UTC	a_small_emu, ATrueZen, dj.narayanan	223	5	25
+280888	2	0	Null (4 Suits)	2020-08-26 — 04:58:23 UTC	ATrueZen, dj.narayanan	2	4	20
+280887	2	0	Null (4 Suits)	2020-08-26 — 04:58:06 UTC	ATrueZen, dj.narayanan	2	4	20
+280883	2	0	Null (4 Suits)	2020-08-26 — 04:57:36 UTC	ATrueZen, dj.narayanan	4	4	20
+280880	2	0	Null (4 Suits)	2020-08-26 — 04:54:49 UTC	ATrueZen, dj.narayanan	3	4	20
+280877	2	0	Null (4 Suits)	2020-08-26 — 04:52:27 UTC	ATrueZen, dj.narayanan	3	4	20
+280874	2	0	Null (4 Suits)	2020-08-26 — 04:50:06 UTC	ATrueZen, dj.narayanan	3	4	20
+280867	2	0	Null (4 Suits)	2020-08-26 — 04:48:35 UTC	ATrueZen, dj.narayanan	4	4	20
+280863	2	0	Null (4 Suits)	2020-08-26 — 04:45:36 UTC	ATrueZen, dj.narayanan	7	4	20
+280860	2	0	Null (4 Suits)	2020-08-26 — 04:45:03 UTC	ATrueZen, dj.narayanan	7	4	20
+280857	2	0	Null (4 Suits)	2020-08-26 — 04:43:07 UTC	ATrueZen, dj.narayanan	8	4	20
+280850	2	0	Null (4 Suits)	2020-08-26 — 04:38:48 UTC	ATrueZen, dj.narayanan	9	4	20
+280847	2	0	Null (4 Suits)	2020-08-26 — 04:37:06 UTC	ATrueZen, dj.narayanan	11	4	20
+280846	2	0	Null (4 Suits)	2020-08-26 — 04:36:28 UTC	ATrueZen, dj.narayanan	11	4	20
+280845	2	0	Null (4 Suits)	2020-08-26 — 04:35:02 UTC	ATrueZen, dj.narayanan	11	4	20
+280842	2	0	Null (4 Suits)	2020-08-26 — 04:33:33 UTC	ATrueZen, dj.narayanan	14	4	20
+280840	2	15	Null (3 Suits)	2020-08-26 — 04:29:39 UTC	ATrueZen, dj.narayanan	11	3	15
+280833	2	0	Null (3 Suits)	2020-08-26 — 04:25:07 UTC	ATrueZen, dj.narayanan	12	3	15
+280829	2	0	Null (3 Suits)	2020-08-26 — 04:24:24 UTC	ATrueZen, dj.narayanan	13	3	15
+280827	2	0	Null (3 Suits)	2020-08-26 — 04:22:59 UTC	ATrueZen, dj.narayanan	17	3	15
+280826	2	0	Null (3 Suits)	2020-08-26 — 04:22:22 UTC	ATrueZen, dj.narayanan	20	3	15
+280825	2	0	Null (3 Suits)	2020-08-26 — 04:21:53 UTC	ATrueZen, dj.narayanan	21	3	15
+280823	2	0	Null (3 Suits)	2020-08-26 — 04:21:11 UTC	ATrueZen, dj.narayanan	26	3	15
+280819	2	0	Null (3 Suits)	2020-08-26 — 04:20:26 UTC	ATrueZen, dj.narayanan	37	3	15
+280811	2	0	Null (3 Suits)	2020-08-26 — 04:16:28 UTC	ATrueZen, dj.narayanan	56	3	15
+280809	3	0	Ambiguous Mix	2020-08-26 — 04:13:56 UTC	a_small_emu, ATrueZen, dj.narayanan	17	6	30
+280803	2	0	Gray (5 Suits)	2020-08-26 — 04:07:48 UTC	ATrueZen, dj.narayanan	11	5	25
+280797	2	0	Gray (5 Suits)	2020-08-26 — 04:04:37 UTC	ATrueZen, dj.narayanan	12	5	25
+280790	2	24	Gray (5 Suits)	2020-08-26 — 03:57:11 UTC	ATrueZen, dj.narayanan	16	5	25
+280780	2	0	Gray (5 Suits)	2020-08-26 — 03:50:38 UTC	ATrueZen, dj.narayanan	16	5	25
+280774	2	0	Gray (5 Suits)	2020-08-26 — 03:47:54 UTC	ATrueZen, dj.narayanan	18	5	25
+280770	2	0	Gray (5 Suits)	2020-08-26 — 03:45:53 UTC	ATrueZen, dj.narayanan	20	5	25
+280768	2	24	Gray (5 Suits)	2020-08-26 — 03:41:06 UTC	ATrueZen, dj.narayanan	21	5	25
+280762	2	0	Gray (5 Suits)	2020-08-26 — 03:36:37 UTC	ATrueZen, dj.narayanan	25	5	25
+280756	2	0	Gray (5 Suits)	2020-08-26 — 03:33:26 UTC	ATrueZen, dj.narayanan	25	5	25
+280752	2	0	Gray (5 Suits)	2020-08-26 — 03:29:52 UTC	ATrueZen, dj.narayanan	29	5	25
+280748	2	24	Gray (5 Suits)	2020-08-26 — 03:25:02 UTC	ATrueZen, dj.narayanan	34	5	25
+280739	2	0	Gray (5 Suits)	2020-08-26 — 03:18:16 UTC	ATrueZen, dj.narayanan	33	5	25
+280737	2	0	Gray (5 Suits)	2020-08-26 — 03:16:39 UTC	ATrueZen, dj.narayanan	39	5	25
+280733	2	23	Gray (5 Suits)	2020-08-26 — 03:13:35 UTC	ATrueZen, dj.narayanan	51	5	25
+280731	2	23	Gray (5 Suits)	2020-08-26 — 03:10:07 UTC	ATrueZen, dj.narayanan	58	5	25
+280727	2	0	Gray (5 Suits)	2020-08-26 — 03:05:37 UTC	ATrueZen, dj.narayanan	66	5	25
+280722	2	0	Gray (5 Suits)	2020-08-26 — 03:03:41 UTC	ATrueZen, dj.narayanan	79	5	25
+280588	3	0	Black & White (6 Suits)	2020-08-26 — 00:33:32 UTC	a_small_emu, ATrueZen, dj.narayanan	4	6	30
+280582	3	0	Black & White (6 Suits)	2020-08-26 — 00:17:09 UTC	a_small_emu, ATrueZen, dj.narayanan	6	6	30
+280578	3	0	Black & White (6 Suits)	2020-08-26 — 00:03:16 UTC	a_small_emu, ATrueZen, dj.narayanan	6	6	30
+280568	3	0	Rainbow-Ones & Null (4 Suits)	2020-08-25 — 23:44:39 UTC	a_small_emu, ATrueZen, dj.narayanan	1	4	20
+280566	3	0	Rainbow-Ones & Null (4 Suits)	2020-08-25 — 23:36:18 UTC	a_small_emu, ATrueZen, dj.narayanan	1	4	20
+280562	2	28	Gray (6 Suits)	2020-08-25 — 23:25:17 UTC	ATrueZen, dj.narayanan	32	6	30
+280561	2	28	Gray (6 Suits)	2020-08-25 — 23:15:21 UTC	ATrueZen, dj.narayanan	33	6	30
+280557	2	0	Gray (6 Suits)	2020-08-25 — 23:09:10 UTC	ATrueZen, dj.narayanan	33	6	30
+280556	2	0	Gray (6 Suits)	2020-08-25 — 23:05:56 UTC	ATrueZen, dj.narayanan	37	6	30
+280555	2	0	Gray (6 Suits)	2020-08-25 — 23:01:40 UTC	ATrueZen, dj.narayanan	39	6	30
+280551	2	0	Gray (6 Suits)	2020-08-25 — 22:57:34 UTC	ATrueZen, dj.narayanan	40	6	30
+280550	2	0	Gray (6 Suits)	2020-08-25 — 22:56:54 UTC	ATrueZen, dj.narayanan	41	6	30
+280549	2	0	Gray (6 Suits)	2020-08-25 — 22:55:35 UTC	ATrueZen, dj.narayanan	45	6	30
+280548	2	0	Gray (6 Suits)	2020-08-25 — 22:53:15 UTC	ATrueZen, dj.narayanan	55	6	30
+280546	2	0	Gray (6 Suits)	2020-08-25 — 22:46:50 UTC	ATrueZen, dj.narayanan	59	6	30
+280544	2	28	Gray (6 Suits)	2020-08-25 — 22:44:31 UTC	ATrueZen, dj.narayanan	74	6	30
+280535	2	25	Light Pink (5 Suits)	2020-08-25 — 22:32:42 UTC	ATrueZen, dj.narayanan	65	5	25
+280529	2	30	Light Pink (6 Suits)	2020-08-25 — 22:24:02 UTC	ATrueZen, dj.narayanan	79	6	30
+279497	3	25	No Variant	2020-08-24 — 20:00:42 UTC	a_small_emu, ATrueZen, dj.narayanan	220	5	25
+279473	3	0	No Variant	2020-08-24 — 19:36:18 UTC	a_small_emu, ATrueZen, dj.narayanan	224	5	25
+279453	3	25	Special Mix (5 Suits)	2020-08-24 — 19:11:47 UTC	a_small_emu, ATrueZen, dj.narayanan	16	5	25
+279432	3	0	Special Mix (5 Suits)	2020-08-24 — 18:43:13 UTC	a_small_emu, ATrueZen, dj.narayanan	15	5	25
+279426	3	0	Special Mix (5 Suits)	2020-08-24 — 18:33:22 UTC	a_small_emu, ATrueZen, dj.narayanan	16	5	25
+279416	2	20	Light Pink (4 Suits)	2020-08-24 — 18:16:41 UTC	ATrueZen, dj.narayanan	43	4	20
+279037	3	0	Special Mix (5 Suits)	2020-08-24 — 02:13:17 UTC	a_small_emu, ATrueZen, dj.narayanan	17	5	25
+279021	3	0	Special Mix (5 Suits)	2020-08-24 — 01:51:21 UTC	a_small_emu, ATrueZen, dj.narayanan	17	5	25
+279017	3	0	Special Mix (5 Suits)	2020-08-24 — 01:47:52 UTC	a_small_emu, ATrueZen, dj.narayanan	17	5	25
+279007	3	0	Special Mix (5 Suits)	2020-08-24 — 01:39:10 UTC	a_small_emu, ATrueZen, dj.narayanan	19	5	25
+278992	3	0	Special Mix (5 Suits)	2020-08-24 — 01:22:10 UTC	a_small_emu, ATrueZen, dj.narayanan	18	5	25
+278978	3	0	Omni (3 Suits)	2020-08-24 — 01:05:55 UTC	a_small_emu, ATrueZen, dj.narayanan	14	3	15
+278968	3	0	Omni (3 Suits)	2020-08-24 — 00:59:16 UTC	a_small_emu, ATrueZen, dj.narayanan	17	3	15
+278963	3	14	Omni (3 Suits)	2020-08-24 — 00:52:50 UTC	a_small_emu, ATrueZen, dj.narayanan	26	3	15
+278947	2	15	Light Pink (3 Suits)	2020-08-24 — 00:34:19 UTC	ATrueZen, dj.narayanan	9	3	15
+278941	2	14	Light Pink (3 Suits)	2020-08-24 — 00:28:19 UTC	ATrueZen, dj.narayanan	18	3	15
+278934	2	0	Light Pink (3 Suits)	2020-08-24 — 00:21:12 UTC	ATrueZen, dj.narayanan	22	3	15
+278930	2	14	Light Pink (3 Suits)	2020-08-24 — 00:16:35 UTC	ATrueZen, dj.narayanan	45	3	15
+278920	2	15	Muddy Rainbow (3 Suits)	2020-08-24 — 00:10:15 UTC	ATrueZen, dj.narayanan	36	3	15
+278916	2	0	Muddy Rainbow (3 Suits)	2020-08-24 — 00:05:07 UTC	ATrueZen, dj.narayanan	41	3	15
+278915	2	20	Muddy Rainbow (4 Suits)	2020-08-24 — 00:00:46 UTC	ATrueZen, dj.narayanan	47	4	20
+278909	2	25	Muddy Rainbow (5 Suits)	2020-08-23 — 23:53:00 UTC	ATrueZen, dj.narayanan	21	5	25
+278899	2	22	Muddy Rainbow (5 Suits)	2020-08-23 — 23:43:18 UTC	ATrueZen, dj.narayanan	25	5	25
+278889	2	0	Muddy Rainbow (5 Suits)	2020-08-23 — 23:35:39 UTC	ATrueZen, dj.narayanan	31	5	25
+278886	2	0	Muddy Rainbow (5 Suits)	2020-08-23 — 23:34:23 UTC	ATrueZen, dj.narayanan	34	5	25
+278884	2	0	Muddy Rainbow (5 Suits)	2020-08-23 — 23:33:21 UTC	ATrueZen, dj.narayanan	46	5	25
+278881	2	0	Muddy Rainbow (5 Suits)	2020-08-23 — 23:27:16 UTC	ATrueZen, dj.narayanan	78	5	25
+278871	2	30	Muddy Rainbow (6 Suits)	2020-08-23 — 23:19:14 UTC	ATrueZen, dj.narayanan	60	6	30
+278859	2	0	Muddy Rainbow (6 Suits)	2020-08-23 — 23:12:01 UTC	ATrueZen, dj.narayanan	88	6	30
+278827	3	0	Special Mix (5 Suits)	2020-08-23 — 22:19:12 UTC	a_small_emu, ATrueZen, dj.narayanan	20	5	25
+278826	3	0	Special Mix (5 Suits)	2020-08-23 — 22:17:22 UTC	a_small_emu, ATrueZen, dj.narayanan	22	5	25
+278789	3	25	Null (5 Suits)	2020-08-23 — 21:18:41 UTC	a_small_emu, ATrueZen, dj.narayanan	27	5	25
+278760	3	0	Null (5 Suits)	2020-08-23 — 20:33:12 UTC	a_small_emu, ATrueZen, dj.narayanan	32	5	25
+278740	3	0	Null (5 Suits)	2020-08-23 — 20:09:43 UTC	a_small_emu, ATrueZen, dj.narayanan	36	5	25
+278731	3	0	Null (5 Suits)	2020-08-23 — 19:59:16 UTC	a_small_emu, ATrueZen, dj.narayanan	40	5	25
+278719	3	0	Null (5 Suits)	2020-08-23 — 19:35:42 UTC	a_small_emu, ATrueZen, dj.narayanan	54	5	25
+277807	4	0	Null (5 Suits)	2020-08-22 — 22:56:14 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	20	5	25
+277776	4	0	Null (5 Suits)	2020-08-22 — 22:26:49 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	26	5	25
+277757	3	19	Null (4 Suits)	2020-08-22 — 22:06:13 UTC	ATrueZen, dj.narayanan, InfernoSnowman	23	4	20
+277752	2	0	Null (4 Suits)	2020-08-22 — 21:53:46 UTC	ATrueZen, dj.narayanan	16	4	20
+277748	2	0	Null (4 Suits)	2020-08-22 — 21:46:51 UTC	ATrueZen, dj.narayanan	16	4	20
+277745	2	19	Null (4 Suits)	2020-08-22 — 21:43:34 UTC	ATrueZen, dj.narayanan	19	4	20
+277740	2	0	Null (4 Suits)	2020-08-22 — 21:37:39 UTC	ATrueZen, dj.narayanan	20	4	20
+277738	2	0	Null (4 Suits)	2020-08-22 — 21:35:01 UTC	ATrueZen, dj.narayanan	26	4	20
+277733	2	0	Null (4 Suits)	2020-08-22 — 21:29:20 UTC	ATrueZen, dj.narayanan	28	4	20
+277731	2	0	Null (4 Suits)	2020-08-22 — 21:26:29 UTC	ATrueZen, dj.narayanan	29	4	20
+277729	2	0	Null (4 Suits)	2020-08-22 — 21:24:41 UTC	ATrueZen, dj.narayanan	32	4	20
+277722	2	0	Null (4 Suits)	2020-08-22 — 21:20:02 UTC	ATrueZen, dj.narayanan	40	4	20
+277714	2	0	Null (4 Suits)	2020-08-22 — 21:14:47 UTC	ATrueZen, dj.narayanan	46	4	20
+277711	2	0	Null (6 Suits)	2020-08-22 — 21:08:28 UTC	ATrueZen, dj.narayanan	66	6	30
+277704	2	0	Null (6 Suits)	2020-08-22 — 20:55:24 UTC	ATrueZen, dj.narayanan	91	6	30
+277052	2	30	Omni (6 Suits)	2020-08-22 — 03:23:19 UTC	ATrueZen, dj.narayanan	26	6	30
+277042	2	28	Omni (6 Suits)	2020-08-22 — 03:13:28 UTC	ATrueZen, dj.narayanan	31	6	30
+277031	2	0	Omni (6 Suits)	2020-08-22 — 03:07:41 UTC	ATrueZen, dj.narayanan	33	6	30
+277025	2	29	Omni (6 Suits)	2020-08-22 — 03:03:30 UTC	ATrueZen, dj.narayanan	33	6	30
+277010	2	0	Omni (6 Suits)	2020-08-22 — 02:54:06 UTC	ATrueZen, dj.narayanan	35	6	30
+277004	2	0	Omni (6 Suits)	2020-08-22 — 02:49:23 UTC	ATrueZen, dj.narayanan	39	6	30
+276993	2	0	Omni (6 Suits)	2020-08-22 — 02:41:12 UTC	ATrueZen, dj.narayanan	43	6	30
+276988	2	29	Omni (6 Suits)	2020-08-22 — 02:34:27 UTC	ATrueZen, dj.narayanan	48	6	30
+276841	2	0	Omni (6 Suits)	2020-08-21 — 23:22:24 UTC	ATrueZen, dj.narayanan	62	6	30
+276831	2	0	Omni (6 Suits)	2020-08-21 — 23:12:40 UTC	ATrueZen, dj.narayanan	64	6	30
+276823	2	0	Omni (6 Suits)	2020-08-21 — 23:06:24 UTC	ATrueZen, dj.narayanan	73	6	30
+276817	2	28	Omni (6 Suits)	2020-08-21 — 23:02:10 UTC	ATrueZen, dj.narayanan	95	6	30
+276810	2	0	Omni (6 Suits)	2020-08-21 — 22:57:09 UTC	ATrueZen, dj.narayanan	121	6	30
+276805	2	15	Omni (3 Suits)	2020-08-21 — 22:51:48 UTC	ATrueZen, dj.narayanan	29	3	15
+276799	2	0	Omni (3 Suits)	2020-08-21 — 22:47:56 UTC	ATrueZen, dj.narayanan	36	3	15
+276798	2	0	Omni (3 Suits)	2020-08-21 — 22:46:44 UTC	ATrueZen, dj.narayanan	49	3	15
+276797	2	0	Omni (3 Suits)	2020-08-21 — 22:46:30 UTC	ATrueZen, dj.narayanan	66	3	15
+276793	2	15	Brown (3 Suits)	2020-08-21 — 22:42:32 UTC	ATrueZen, dj.narayanan	47	3	15
+276790	2	0	Brown (3 Suits)	2020-08-21 — 22:39:30 UTC	ATrueZen, dj.narayanan	60	3	15
+276784	2	20	Brown (4 Suits)	2020-08-21 — 22:33:52 UTC	ATrueZen, dj.narayanan	54	4	20
+276774	2	0	Brown (4 Suits)	2020-08-21 — 22:28:33 UTC	ATrueZen, dj.narayanan	74	4	20
+276773	2	25	Brown (5 Suits)	2020-08-21 — 22:25:36 UTC	ATrueZen, dj.narayanan	50	5	25
+276769	2	0	Brown (5 Suits)	2020-08-21 — 22:20:21 UTC	ATrueZen, dj.narayanan	56	5	25
+276768	2	0	Brown (5 Suits)	2020-08-21 — 22:18:39 UTC	ATrueZen, dj.narayanan	59	5	25
+276765	2	0	Brown (5 Suits)	2020-08-21 — 22:16:57 UTC	ATrueZen, dj.narayanan	76	5	25
+276764	2	0	Brown (5 Suits)	2020-08-21 — 22:13:25 UTC	ATrueZen, dj.narayanan	87	5	25
+276763	2	0	Brown (5 Suits)	2020-08-21 — 22:09:55 UTC	ATrueZen, dj.narayanan	124	5	25
+276758	2	15	White (3 Suits)	2020-08-21 — 22:05:52 UTC	ATrueZen, dj.narayanan	71	3	15
+276757	2	14	White (3 Suits)	2020-08-21 — 22:02:44 UTC	ATrueZen, dj.narayanan	95	3	15
+276688	2	20	White (4 Suits)	2020-08-21 — 20:33:24 UTC	ATrueZen, dj.narayanan	23	4	20
+276685	2	0	White (4 Suits)	2020-08-21 — 20:30:35 UTC	ATrueZen, dj.narayanan	27	4	20
+276682	2	0	White (4 Suits)	2020-08-21 — 20:28:24 UTC	ATrueZen, dj.narayanan	35	4	20
+276681	2	0	White (4 Suits)	2020-08-21 — 20:27:47 UTC	ATrueZen, dj.narayanan	41	4	20
+276678	2	25	White (5 Suits)	2020-08-21 — 20:23:10 UTC	ATrueZen, dj.narayanan	123	5	25
+276673	2	15	Pink (3 Suits)	2020-08-21 — 20:18:40 UTC	ATrueZen, dj.narayanan	87	3	15
+276668	2	20	Pink (4 Suits)	2020-08-21 — 20:12:00 UTC	ATrueZen, dj.narayanan	42	4	20
+276662	2	25	Rainbow (5 Suits)	2020-08-21 — 20:04:16 UTC	ATrueZen, dj.narayanan	95	5	25
+276656	2	0	Rainbow (5 Suits)	2020-08-21 — 19:57:56 UTC	ATrueZen, dj.narayanan	129	5	25
+276651	2	0	Rainbow (5 Suits)	2020-08-21 — 19:52:57 UTC	ATrueZen, dj.narayanan	154	5	25
+276649	2	23	Rainbow (5 Suits)	2020-08-21 — 19:50:00 UTC	ATrueZen, dj.narayanan	248	5	25
+276640	2	20	4 Suits	2020-08-21 — 19:43:07 UTC	ATrueZen, dj.narayanan	61	4	20
+276638	2	19	4 Suits	2020-08-21 — 19:39:52 UTC	ATrueZen, dj.narayanan	76	4	20
+276636	2	0	4 Suits	2020-08-21 — 19:36:57 UTC	ATrueZen, dj.narayanan	110	4	20
+276635	2	18	4 Suits	2020-08-21 — 19:35:08 UTC	ATrueZen, dj.narayanan	128	4	20
+276628	2	0	4 Suits	2020-08-21 — 19:31:55 UTC	ATrueZen, dj.narayanan	171	4	20
+276627	2	0	4 Suits	2020-08-21 — 19:31:33 UTC	ATrueZen, dj.narayanan	244	4	20
+276019	2	25	No Variant	2020-08-20 — 22:59:50 UTC	ATrueZen, dj.narayanan	677	5	25
+275925	2	0	No Variant	2020-08-20 — 20:37:43 UTC	a_small_emu, dj.narayanan	699	5	25
+275917	2	0	No Variant	2020-08-20 — 20:29:24 UTC	a_small_emu, dj.narayanan	719	5	25
+275911	2	0	No Variant	2020-08-20 — 20:23:49 UTC	a_small_emu, dj.narayanan	741	5	25
+275908	2	25	No Variant	2020-08-20 — 20:20:42 UTC	a_small_emu, dj.narayanan	770	5	25
+275901	2	25	No Variant	2020-08-20 — 20:11:21 UTC	a_small_emu, dj.narayanan	794	5	25
+275893	2	23	No Variant	2020-08-20 — 20:03:27 UTC	a_small_emu, dj.narayanan	818	5	25
+275884	2	0	No Variant	2020-08-20 — 19:56:21 UTC	a_small_emu, dj.narayanan	854	5	25
+275878	2	0	No Variant	2020-08-20 — 19:51:37 UTC	a_small_emu, dj.narayanan	883	5	25
+275819	3	0	Special Mix (5 Suits)	2020-08-20 — 18:08:16 UTC	a_small_emu, ATrueZen, dj.narayanan	24	5	25
+275808	3	0	Special Mix (5 Suits)	2020-08-20 — 17:48:46 UTC	a_small_emu, ATrueZen, dj.narayanan	23	5	25
+275802	3	0	Special Mix (5 Suits)	2020-08-20 — 17:25:35 UTC	a_small_emu, ATrueZen, dj.narayanan	28	5	25
+275793	3	0	Special Mix (5 Suits)	2020-08-20 — 16:57:35 UTC	a_small_emu, ATrueZen, dj.narayanan	30	5	25
+275568	2	0	Special Mix (5 Suits)	2020-08-20 — 03:43:16 UTC	ATrueZen, dj.narayanan	37	5	25
+274758	2	22	Special Mix (5 Suits)	2020-08-19 — 02:02:06 UTC	ATrueZen, dj.narayanan	39	5	25
+274744	2	0	Special Mix (5 Suits)	2020-08-19 — 01:52:57 UTC	ATrueZen, dj.narayanan	39	5	25
+274743	2	0	Special Mix (5 Suits)	2020-08-19 — 01:52:46 UTC	ATrueZen, dj.narayanan	44	5	25
+274739	2	0	Special Mix (5 Suits)	2020-08-19 — 01:47:58 UTC	ATrueZen, dj.narayanan	47	5	25
+274731	2	0	Special Mix (5 Suits)	2020-08-19 — 01:42:57 UTC	ATrueZen, dj.narayanan	60	5	25
+274714	2	0	Special Mix (5 Suits)	2020-08-19 — 01:32:19 UTC	ATrueZen, dj.narayanan	63	5	25
+274712	2	0	Special Mix (5 Suits)	2020-08-19 — 01:31:51 UTC	ATrueZen, dj.narayanan	66	5	25
+274710	2	0	Special Mix (5 Suits)	2020-08-19 — 01:31:24 UTC	ATrueZen, dj.narayanan	88	5	25
+274428	4	0	Special Mix (5 Suits)	2020-08-18 — 21:10:32 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	29	5	25
+274417	4	0	Special Mix (5 Suits)	2020-08-18 — 20:54:38 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	39	5	25
+274397	3	0	Special Mix (5 Suits)	2020-08-18 — 20:35:53 UTC	a_small_emu, ATrueZen, dj.narayanan	38	5	25
+274368	3	0	Special Mix (5 Suits)	2020-08-18 — 20:07:49 UTC	a_small_emu, ATrueZen, dj.narayanan	48	5	25
+274365	3	0	Pink (6 Suits)	2020-08-18 — 20:03:39 UTC	a_small_emu, ATrueZen, dj.narayanan	47	6	30
+274358	3	0	Pink (6 Suits)	2020-08-18 — 19:56:27 UTC	a_small_emu, ATrueZen, dj.narayanan	53	6	30
+274345	3	0	Pink (6 Suits)	2020-08-18 — 19:39:29 UTC	a_small_emu, ATrueZen, dj.narayanan	70	6	30
+274333	3	20	Pink (4 Suits)	2020-08-18 — 19:21:08 UTC	a_small_emu, ATrueZen, dj.narayanan	59	4	20
+274325	2	0	Pink (4 Suits)	2020-08-18 — 19:03:16 UTC	a_small_emu, dj.narayanan	49	4	20
+274324	2	0	Pink (4 Suits)	2020-08-18 — 19:01:29 UTC	a_small_emu, dj.narayanan	64	4	20
+274264	2	17	Pink (4 Suits)	2020-08-18 — 16:59:57 UTC	ATrueZen, dj.narayanan	105	4	20
+274259	2	25	Pink (5 Suits)	2020-08-18 — 16:50:36 UTC	ATrueZen, dj.narayanan	119	5	25
+274257	2	0	Pink (5 Suits)	2020-08-18 — 16:45:36 UTC	ATrueZen, dj.narayanan	200	5	25
+274254	2	30	Pink (6 Suits)	2020-08-18 — 16:38:26 UTC	ATrueZen, dj.narayanan	44	6	30
+274252	2	0	Pink (6 Suits)	2020-08-18 — 16:30:05 UTC	ATrueZen, dj.narayanan	49	6	30
+274248	2	0	Pink (6 Suits)	2020-08-18 — 16:22:16 UTC	ATrueZen, dj.narayanan	52	6	30
+274244	2	0	Pink (6 Suits)	2020-08-18 — 16:09:58 UTC	ATrueZen, dj.narayanan	54	6	30
+274243	2	0	Pink (6 Suits)	2020-08-18 — 16:05:16 UTC	ATrueZen, dj.narayanan	60	6	30
+274242	2	0	Pink (6 Suits)	2020-08-18 — 15:56:08 UTC	a_small_emu, dj.narayanan	64	6	30
+274019	2	0	Pink (6 Suits)	2020-08-18 — 04:19:02 UTC	ATrueZen, dj.narayanan	79	6	30
+274016	2	0	Pink (6 Suits)	2020-08-18 — 04:15:13 UTC	ATrueZen, dj.narayanan	85	6	30
+274014	2	0	Pink (6 Suits)	2020-08-18 — 04:11:35 UTC	ATrueZen, dj.narayanan	93	6	30
+274007	2	0	Pink (6 Suits)	2020-08-18 — 04:07:18 UTC	ATrueZen, dj.narayanan	93	6	30
+273803	4	29	Pink (6 Suits)	2020-08-18 — 01:01:06 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	35	6	30
+273772	4	0	Pink (6 Suits)	2020-08-18 — 00:27:15 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	42	6	30
+273754	4	0	Pink (6 Suits)	2020-08-17 — 23:59:53 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	54	6	30
+273734	4	0	Pink (6 Suits)	2020-08-17 — 23:34:51 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	70	6	30
+273727	3	0	Pink (6 Suits)	2020-08-17 — 23:25:20 UTC	ATrueZen, dj.narayanan, InfernoSnowman	92	6	30
+273726	3	0	Pink (6 Suits)	2020-08-17 — 23:24:52 UTC	ATrueZen, dj.narayanan, InfernoSnowman	131	6	30
+273600	2	0	Pink (6 Suits)	2020-08-17 — 20:16:14 UTC	ATrueZen, dj.narayanan	104	6	30
+273597	2	0	Pink (6 Suits)	2020-08-17 — 20:09:41 UTC	ATrueZen, dj.narayanan	115	6	30
+273589	2	0	Pink (6 Suits)	2020-08-17 — 19:57:04 UTC	ATrueZen, dj.narayanan	143	6	30
+273577	2	0	Pink (6 Suits)	2020-08-17 — 19:45:52 UTC	ATrueZen, dj.narayanan	157	6	30
+273575	2	0	Pink (6 Suits)	2020-08-17 — 19:43:09 UTC	ATrueZen, dj.narayanan	172	6	30
+273573	2	0	Pink (6 Suits)	2020-08-17 — 19:40:50 UTC	ATrueZen, dj.narayanan	219	6	30
+273566	3	25	Pink (5 Suits)	2020-08-17 — 19:24:33 UTC	a_small_emu, ATrueZen, dj.narayanan	62	5	25
+273552	3	0	Pink (5 Suits)	2020-08-17 — 19:01:32 UTC	a_small_emu, ATrueZen, dj.narayanan	75	5	25
+273539	3	0	Pink (5 Suits)	2020-08-17 — 18:39:39 UTC	a_small_emu, ATrueZen, dj.narayanan	108	5	25
+273525	3	25	No Variant	2020-08-17 — 18:20:42 UTC	a_small_emu, ATrueZen, dj.narayanan	243	5	25
+273512	3	0	No Variant	2020-08-17 — 18:02:26 UTC	a_small_emu, ATrueZen, dj.narayanan	250	5	25
+273505	3	0	No Variant	2020-08-17 — 17:38:27 UTC	a_small_emu, ATrueZen, dj.narayanan	259	5	25
+273030	2	25	Dark Rainbow (5 Suits)	2020-08-17 — 02:06:33 UTC	ATrueZen, dj.narayanan	13	5	25
+273023	2	0	Dark Rainbow (5 Suits)	2020-08-17 — 01:59:50 UTC	ATrueZen, dj.narayanan	16	5	25
+273017	2	0	Dark Rainbow (5 Suits)	2020-08-17 — 01:56:18 UTC	ATrueZen, dj.narayanan	21	5	25
+273014	2	0	Dark Rainbow (5 Suits)	2020-08-17 — 01:55:15 UTC	ATrueZen, dj.narayanan	21	5	25
+273010	2	23	Dark Rainbow (5 Suits)	2020-08-17 — 01:54:02 UTC	ATrueZen, dj.narayanan	25	5	25
+272903	4	0	Dark Rainbow (6 Suits)	2020-08-16 — 23:55:58 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	41	6	30
+272895	4	29	Dark Rainbow (6 Suits)	2020-08-16 — 23:49:18 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	48	6	30
+272863	4	28	Dark Rainbow (6 Suits)	2020-08-16 — 23:21:31 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	53	6	30
+272569	3	25	Dark Rainbow (5 Suits)	2020-08-16 — 17:31:24 UTC	a_small_emu, ATrueZen, dj.narayanan	29	5	25
+272559	3	0	Dark Rainbow (5 Suits)	2020-08-16 — 17:14:05 UTC	a_small_emu, ATrueZen, dj.narayanan	31	5	25
+270886	4	0	Dark Rainbow (5 Suits)	2020-08-14 — 19:56:26 UTC	a_small_emu, ATrueZen, dj.narayanan, TwentyLightbulb	8	5	25
+270868	4	0	Dark Rainbow (5 Suits)	2020-08-14 — 19:23:07 UTC	a_small_emu, ATrueZen, dj.narayanan, TwentyLightbulb	9	5	25
+270863	4	24	Dark Rainbow (5 Suits)	2020-08-14 — 19:09:58 UTC	a_small_emu, ATrueZen, dj.narayanan, TwentyLightbulb	13	5	25
+270852	4	0	Dark Rainbow (5 Suits)	2020-08-14 — 18:43:51 UTC	a_small_emu, ATrueZen, dj.narayanan, TwentyLightbulb	11	5	25
+270846	4	0	Dark Rainbow (5 Suits)	2020-08-14 — 18:35:06 UTC	a_small_emu, ATrueZen, dj.narayanan, TwentyLightbulb	11	5	25
+270834	4	0	Dark Rainbow (5 Suits)	2020-08-14 — 18:07:04 UTC	a_small_emu, ATrueZen, dj.narayanan, TwentyLightbulb	14	5	25
+270824	3	0	Dark Rainbow (5 Suits)	2020-08-14 — 17:51:55 UTC	a_small_emu, ATrueZen, dj.narayanan	35	5	25
+270819	3	24	Dark Rainbow (5 Suits)	2020-08-14 — 17:42:58 UTC	a_small_emu, ATrueZen, dj.narayanan	36	5	25
+270809	3	0	Dark Rainbow (5 Suits)	2020-08-14 — 17:25:10 UTC	a_small_emu, ATrueZen, dj.narayanan	48	5	25
+270804	3	0	Dark Rainbow (5 Suits)	2020-08-14 — 17:19:56 UTC	a_small_emu, ATrueZen, dj.narayanan	52	5	25
+270417	4	0	Dark Rainbow (5 Suits)	2020-08-14 — 02:48:11 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	17	5	25
+270393	4	0	Dark Rainbow (5 Suits)	2020-08-14 — 02:29:41 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	20	5	25
+270373	4	0	Dark Rainbow (5 Suits)	2020-08-14 — 02:13:46 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	19	5	25
+270360	4	0	Dark Rainbow (5 Suits)	2020-08-14 — 02:04:34 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	24	5	25
+270347	4	0	Dark Rainbow (5 Suits)	2020-08-14 — 01:55:33 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	23	5	25
+270333	4	0	Dark Rainbow (5 Suits)	2020-08-14 — 01:42:14 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	29	5	25
+270137	5	0	Dark Rainbow (6 Suits)	2020-08-13 — 22:28:44 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman, TwentyLightbulb	23	6	30
+270122	5	0	Dark Rainbow (6 Suits)	2020-08-13 — 22:13:13 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman, TwentyLightbulb	33	6	30
+270098	5	25	No Variant	2020-08-13 — 21:57:43 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman, TwentyLightbulb	541	5	25
+270032	3	0	Cow & Pig (5 Suits)	2020-08-13 — 21:14:08 UTC	a_small_emu, ATrueZen, dj.narayanan	5	5	25
+270005	3	0	Cow & Pig (5 Suits)	2020-08-13 — 20:57:22 UTC	a_small_emu, ATrueZen, dj.narayanan	6	5	25
+269998	3	0	Cow & Pig (5 Suits)	2020-08-13 — 20:55:08 UTC	a_small_emu, ATrueZen, dj.narayanan	6	5	25
+269900	2	15	Cow & Pig (3 Suits)	2020-08-13 — 19:06:07 UTC	ATrueZen, dj.narayanan	1	3	15
+269890	2	0	Cow & Pig (3 Suits)	2020-08-13 — 18:58:29 UTC	ATrueZen, dj.narayanan	1	3	15
+269886	2	0	Cow & Pig (3 Suits)	2020-08-13 — 18:56:11 UTC	ATrueZen, dj.narayanan	1	3	15
+269884	2	14	Cow & Pig (3 Suits)	2020-08-13 — 18:54:25 UTC	ATrueZen, dj.narayanan	1	3	15
+269876	2	13	Cow & Pig (3 Suits)	2020-08-13 — 18:49:10 UTC	ATrueZen, dj.narayanan	2	3	15
+269871	2	0	Cow & Pig (3 Suits)	2020-08-13 — 18:45:22 UTC	ATrueZen, dj.narayanan	2	3	15
+269870	2	0	Cow & Pig (3 Suits)	2020-08-13 — 18:45:11 UTC	ATrueZen, dj.narayanan	3	3	15
+269868	2	0	Cow & Pig (3 Suits)	2020-08-13 — 18:44:39 UTC	ATrueZen, dj.narayanan	3	3	15
+269866	2	0	Cow & Pig (3 Suits)	2020-08-13 — 18:43:14 UTC	ATrueZen, dj.narayanan	4	3	15
+269860	2	0	Cow & Pig (3 Suits)	2020-08-13 — 18:37:06 UTC	ATrueZen, dj.narayanan	6	3	15
+269859	2	0	Cow & Pig (3 Suits)	2020-08-13 — 18:31:10 UTC	ATrueZen, dj.narayanan	9	3	15
+269856	2	0	Cow & Pig (3 Suits)	2020-08-13 — 18:29:34 UTC	ATrueZen, dj.narayanan	13	3	15
+269855	2	0	Cow & Pig (3 Suits)	2020-08-13 — 18:28:35 UTC	ATrueZen, dj.narayanan	29	3	15
+269849	2	30	Very Ambiguous (6 Suits)	2020-08-13 — 18:22:21 UTC	ATrueZen, dj.narayanan	14	6	30
+269846	2	0	Very Ambiguous (6 Suits)	2020-08-13 — 18:12:34 UTC	ATrueZen, dj.narayanan	14	6	30
+269843	2	25	Cow & Pig (5 Suits)	2020-08-13 — 18:06:19 UTC	ATrueZen, dj.narayanan	34	5	25
+269837	2	0	Cow & Pig (5 Suits)	2020-08-13 — 17:54:40 UTC	ATrueZen, dj.narayanan	47	5	25
+269833	2	0	Cow & Pig (5 Suits)	2020-08-13 — 17:50:33 UTC	ATrueZen, dj.narayanan	65	5	25
+269831	3	0	Cow & Pig (5 Suits)	2020-08-13 — 17:46:09 UTC	a_small_emu, ATrueZen, dj.narayanan	7	5	25
+269827	3	0	Cow & Pig (5 Suits)	2020-08-13 — 17:40:12 UTC	a_small_emu, ATrueZen, dj.narayanan	13	5	25
+269825	3	0	Cow & Pig (4 Suits)	2020-08-13 — 17:36:16 UTC	a_small_emu, ATrueZen, dj.narayanan	9	4	20
+269822	3	20	Cow & Pig (4 Suits)	2020-08-13 — 17:30:13 UTC	a_small_emu, ATrueZen, dj.narayanan	15	4	20
+269390	2	20	Cow & Pig (4 Suits)	2020-08-13 — 01:47:39 UTC	ATrueZen, dj.narayanan	8	4	20
+269321	4	0	No Variant	2020-08-13 — 00:16:34 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	167	5	25
+269316	4	0	No Variant	2020-08-13 — 00:08:03 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	180	5	25
+269302	4	0	No Variant	2020-08-12 — 23:46:00 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	190	5	25
+269289	3	28	Dark Rainbow (6 Suits)	2020-08-12 — 23:31:47 UTC	a_small_emu, ATrueZen, dj.narayanan	41	6	30
+269239	2	0	Very Ambiguous (6 Suits)	2020-08-12 — 22:31:55 UTC	ATrueZen, dj.narayanan	15	6	30
+269238	2	0	Very Ambiguous (6 Suits)	2020-08-12 — 22:31:45 UTC	ATrueZen, dj.narayanan	17	6	30
+269237	2	0	Very Ambiguous (6 Suits)	2020-08-12 — 22:31:14 UTC	ATrueZen, dj.narayanan	18	6	30
+269235	2	0	Very Ambiguous (6 Suits)	2020-08-12 — 22:30:28 UTC	ATrueZen, dj.narayanan	18	6	30
+269233	2	0	Very Ambiguous (6 Suits)	2020-08-12 — 22:27:57 UTC	ATrueZen, dj.narayanan	18	6	30
+269229	2	0	Very Ambiguous (6 Suits)	2020-08-12 — 22:25:57 UTC	ATrueZen, dj.narayanan	18	6	30
+269222	2	28	Very Ambiguous (6 Suits)	2020-08-12 — 22:17:32 UTC	ATrueZen, dj.narayanan	20	6	30
+269214	2	27	Very Ambiguous (6 Suits)	2020-08-12 — 22:04:06 UTC	ATrueZen, dj.narayanan	20	6	30
+269204	2	0	Very Ambiguous (6 Suits)	2020-08-12 — 21:49:26 UTC	ATrueZen, dj.narayanan	23	6	30
+269040	3	25	No Variant	2020-08-12 — 18:11:48 UTC	a_small_emu, ATrueZen, dj.narayanan	269	5	25
+269026	3	22	No Variant	2020-08-12 — 17:44:39 UTC	a_small_emu, ATrueZen, dj.narayanan	275	5	25
+269008	3	25	No Variant	2020-08-12 — 17:15:01 UTC	a_small_emu, ATrueZen, dj.narayanan	285	5	25
+269002	2	25	No Variant	2020-08-12 — 16:56:19 UTC	a_small_emu, dj.narayanan	921	5	25
+268996	2	0	No Variant	2020-08-12 — 16:42:50 UTC	a_small_emu, dj.narayanan	976	5	25
+268994	2	23	No Variant	2020-08-12 — 16:36:36 UTC	a_small_emu, dj.narayanan	1148	5	25
+268984	2	0	No Variant	2020-08-12 — 16:19:25 UTC	a_small_emu, dj.narayanan	1206	5	25
+268968	2	0	No Variant	2020-08-12 — 15:47:32 UTC	a_small_emu, dj.narayanan	1249	5	25
+268964	2	0	No Variant	2020-08-12 — 15:37:32 UTC	a_small_emu, dj.narayanan	1299	5	25
+268564	2	30	Dark Rainbow (6 Suits)	2020-08-12 — 02:03:11 UTC	ATrueZen, dj.narayanan	75	6	30
+268556	2	0	Dark Rainbow (6 Suits)	2020-08-12 — 01:52:28 UTC	ATrueZen, dj.narayanan	88	6	30
+268547	2	0	Dark Rainbow (6 Suits)	2020-08-12 — 01:45:56 UTC	ATrueZen, dj.narayanan	91	6	30
+268544	2	0	Dark Rainbow (6 Suits)	2020-08-12 — 01:44:43 UTC	ATrueZen, dj.narayanan	95	6	30
+268532	2	0	Dark Rainbow (6 Suits)	2020-08-12 — 01:33:37 UTC	ATrueZen, dj.narayanan	102	6	30
+268529	2	0	Dark Rainbow (6 Suits)	2020-08-12 — 01:30:59 UTC	ATrueZen, dj.narayanan	110	6	30
+268523	2	30	Dual-Color (6 Suits)	2020-08-12 — 01:26:00 UTC	ATrueZen, dj.narayanan	71	6	30
+268493	2	25	Dual-Color (5 Suits)	2020-08-12 — 01:03:14 UTC	ATrueZen, dj.narayanan	24	5	25
+268485	2	23	Dual-Color (5 Suits)	2020-08-12 — 00:50:48 UTC	ATrueZen, dj.narayanan	32	5	25
+268478	2	0	Dual-Color (5 Suits)	2020-08-12 — 00:41:06 UTC	ATrueZen, dj.narayanan	33	5	25
+268477	2	0	Dual-Color (5 Suits)	2020-08-12 — 00:39:25 UTC	ATrueZen, dj.narayanan	53	5	25
+268422	2	0	No Variant	2020-08-11 — 23:03:59 UTC	a_small_emu, dj.narayanan	1376	5	25
+268390	2	0	No Variant	2020-08-11 — 22:25:19 UTC	a_small_emu, dj.narayanan	1448	5	25
+268367	2	0	No Variant	2020-08-11 — 22:10:44 UTC	a_small_emu, dj.narayanan	1532	5	25
+268347	2	25	No Variant	2020-08-11 — 21:57:52 UTC	a_small_emu, dj.narayanan	1621	5	25
+268338	2	0	No Variant	2020-08-11 — 21:48:30 UTC	a_small_emu, dj.narayanan	1703	5	25
+268173	4	0	Black & White (6 Suits)	2020-08-11 — 18:59:26 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	13	6	30
+268157	4	0	Black & White (6 Suits)	2020-08-11 — 18:34:08 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	16	6	30
+268151	4	28	Black & White (6 Suits)	2020-08-11 — 18:25:07 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	19	6	30
+268139	4	0	Black & White (6 Suits)	2020-08-11 — 17:56:37 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	17	6	30
+268129	4	28	Black & White (6 Suits)	2020-08-11 — 17:38:18 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	17	6	30
+268115	4	0	Black & White (6 Suits)	2020-08-11 — 17:08:04 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	22	6	30
+268111	4	0	Black & White (6 Suits)	2020-08-11 — 17:00:21 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	24	6	30
+268103	3	0	Black & White (6 Suits)	2020-08-11 — 16:48:20 UTC	ATrueZen, dj.narayanan, InfernoSnowman	7	6	30
+268097	3	0	Black & White (6 Suits)	2020-08-11 — 16:37:46 UTC	ATrueZen, dj.narayanan, InfernoSnowman	7	6	30
+268086	2	30	Black & White (6 Suits)	2020-08-11 — 16:13:56 UTC	ATrueZen, dj.narayanan	8	6	30
+268081	2	25	Ambiguous & White (5 Suits)	2020-08-11 — 16:01:09 UTC	ATrueZen, dj.narayanan	10	5	25
+268077	2	0	Ambiguous & White (5 Suits)	2020-08-11 — 15:52:14 UTC	ATrueZen, dj.narayanan	15	5	25
+268076	2	0	Ambiguous & White (5 Suits)	2020-08-11 — 15:48:59 UTC	ATrueZen, dj.narayanan	15	5	25
+268074	2	0	Ambiguous & White (5 Suits)	2020-08-11 — 15:44:21 UTC	ATrueZen, dj.narayanan	14	5	25
+268072	2	0	Ambiguous & White (5 Suits)	2020-08-11 — 15:35:48 UTC	ATrueZen, dj.narayanan	14	5	25
+267514	3	0	Black & White (6 Suits)	2020-08-10 — 21:13:56 UTC	a_small_emu, ATrueZen, dj.narayanan	9	6	30
+267506	3	29	Black & White (6 Suits)	2020-08-10 — 21:05:45 UTC	a_small_emu, ATrueZen, dj.narayanan	13	6	30
+267453	3	29	Black & White (6 Suits)	2020-08-10 — 20:23:01 UTC	a_small_emu, ATrueZen, dj.narayanan	13	6	30
+267430	3	0	Black & White (6 Suits)	2020-08-10 — 20:00:04 UTC	a_small_emu, ATrueZen, dj.narayanan	12	6	30
+267416	2	0	Ambiguous & White (5 Suits)	2020-08-10 — 19:44:11 UTC	ATrueZen, dj.narayanan	17	5	25
+267410	2	0	Ambiguous & White (5 Suits)	2020-08-10 — 19:39:40 UTC	ATrueZen, dj.narayanan	17	5	25
+267396	3	23	Dark Rainbow (6 Suits)	2020-08-10 — 19:27:06 UTC	a_small_emu, ATrueZen, dj.narayanan	53	6	30
+267374	3	0	Dark Rainbow (6 Suits)	2020-08-10 — 19:09:38 UTC	a_small_emu, ATrueZen, dj.narayanan	62	6	30
+267369	3	29	Dark Rainbow (6 Suits)	2020-08-10 — 18:55:46 UTC	a_small_emu, ATrueZen, dj.narayanan	77	6	30
+267352	3	0	Dark Rainbow (6 Suits)	2020-08-10 — 18:19:39 UTC	a_small_emu, ATrueZen, dj.narayanan	91	6	30
+267295	2	0	Black & White (6 Suits)	2020-08-10 — 17:04:20 UTC	a_small_emu, dj.narayanan	8	6	30
+267278	2	0	Black & White (6 Suits)	2020-08-10 — 16:33:35 UTC	a_small_emu, dj.narayanan	12	6	30
+267267	2	0	Black & White (6 Suits)	2020-08-10 — 16:21:20 UTC	a_small_emu, dj.narayanan	12	6	30
+267265	2	0	Black & White (6 Suits)	2020-08-10 — 16:16:11 UTC	a_small_emu, dj.narayanan	15	6	30
+267263	2	0	Black & White (6 Suits)	2020-08-10 — 16:06:00 UTC	a_small_emu, dj.narayanan	45	6	30
+267262	2	0	Black & White (6 Suits)	2020-08-10 — 16:01:15 UTC	a_small_emu, dj.narayanan	46	6	30
+266798	3	28	Black & White (6 Suits)	2020-08-10 — 02:42:47 UTC	ATrueZen, dj.narayanan, InfernoSnowman	13	6	30
+266761	3	30	Brown (6 Suits)	2020-08-10 — 02:14:39 UTC	ATrueZen, dj.narayanan, InfernoSnowman	31	6	30
+266721	4	30	Brown (6 Suits)	2020-08-10 — 01:44:54 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	14	6	30
+266682	4	25	Ambiguous & White (5 Suits)	2020-08-10 — 01:11:09 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	9	5	25
+266659	3	25	Ambiguous & White (5 Suits)	2020-08-10 — 00:43:09 UTC	ATrueZen, dj.narayanan, InfernoSnowman	6	5	25
+266645	3	24	Ambiguous & White (5 Suits)	2020-08-10 — 00:27:23 UTC	ATrueZen, dj.narayanan, InfernoSnowman	7	5	25
+266627	3	24	Ambiguous & White (5 Suits)	2020-08-10 — 00:01:17 UTC	ATrueZen, dj.narayanan, InfernoSnowman	10	5	25
+265740	4	0	Brown (6 Suits)	2020-08-09 — 00:53:34 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	12	6	30
+265730	4	0	Brown (6 Suits)	2020-08-09 — 00:46:13 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	14	6	30
+265706	4	29	Brown (6 Suits)	2020-08-09 — 00:28:46 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	16	6	30
+265638	2	30	Brown (6 Suits)	2020-08-08 — 23:31:26 UTC	ATrueZen, dj.narayanan	25	6	30
+265629	2	27	Brown (6 Suits)	2020-08-08 — 23:23:29 UTC	ATrueZen, dj.narayanan	28	6	30
+265614	2	29	Brown (6 Suits)	2020-08-08 — 23:13:21 UTC	ATrueZen, dj.narayanan	33	6	30
+265602	2	0	Brown (6 Suits)	2020-08-08 — 23:01:18 UTC	ATrueZen, dj.narayanan	42	6	30
+265562	3	28	Brown (6 Suits)	2020-08-08 — 22:15:13 UTC	a_small_emu, ATrueZen, dj.narayanan	40	6	30
+265356	2	0	6 Suits	2020-08-08 — 16:34:26 UTC	a_small_emu, dj.narayanan	593	6	30
+265352	2	0	6 Suits	2020-08-08 — 16:18:24 UTC	a_small_emu, dj.narayanan	666	6	30
+265349	2	0	6 Suits	2020-08-08 — 16:14:26 UTC	a_small_emu, dj.narayanan	851	6	30
+265348	2	0	Dual-Color (6 Suits)	2020-08-08 — 16:12:47 UTC	a_small_emu, dj.narayanan	87	6	30
+264379	3	0	Dual-Color (6 Suits)	2020-08-07 — 19:48:18 UTC	a_small_emu, ATrueZen, dj.narayanan	43	6	30
+264362	3	0	Dual-Color (6 Suits)	2020-08-07 — 19:17:02 UTC	a_small_emu, ATrueZen, dj.narayanan	66	6	30
+264352	3	25	Dual-Color (5 Suits)	2020-08-07 — 18:57:14 UTC	a_small_emu, ATrueZen, dj.narayanan	69	5	25
+264297	2	25	No Variant	2020-08-07 — 16:35:29 UTC	a_small_emu, dj.narayanan	1840	5	25
+264292	2	23	No Variant	2020-08-07 — 16:23:04 UTC	a_small_emu, dj.narayanan	1952	5	25
+264288	2	0	No Variant	2020-08-07 — 16:11:53 UTC	a_small_emu, dj.narayanan	4109	5	25
+264287	2	0	No Variant	2020-08-07 — 16:11:04 UTC	a_small_emu, dj.narayanan	5374	5	25
+264283	2	0	Dual-Color (5 Suits)	2020-08-07 — 16:05:40 UTC	a_small_emu, dj.narayanan	63	5	25
+264282	2	0	Dual-Color (5 Suits)	2020-08-07 — 16:03:21 UTC	a_small_emu, dj.narayanan	74	5	25
+264280	2	0	Dual-Color (5 Suits)	2020-08-07 — 16:01:54 UTC	a_small_emu, dj.narayanan	85	5	25
+264277	2	0	Brown (6 Suits)	2020-08-07 — 15:48:29 UTC	a_small_emu, dj.narayanan	49	6	30
+264271	2	26	Brown (6 Suits)	2020-08-07 — 15:35:06 UTC	a_small_emu, dj.narayanan	60	6	30
+264269	2	0	Brown (6 Suits)	2020-08-07 — 15:23:52 UTC	a_small_emu, dj.narayanan	72	6	30
+264265	2	0	Brown (6 Suits)	2020-08-07 — 15:17:39 UTC	a_small_emu, dj.narayanan	81	6	30
+264259	2	0	Brown (6 Suits)	2020-08-07 — 15:05:21 UTC	a_small_emu, dj.narayanan	94	6	30
+263798	4	0	Ambiguous (6 Suits)	2020-08-07 — 01:04:10 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	32	6	30
+263772	4	29	Ambiguous (6 Suits)	2020-08-07 — 00:37:59 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	40	6	30
+263742	3	28	Brown (6 Suits)	2020-08-06 — 23:58:36 UTC	a_small_emu, ATrueZen, dj.narayanan	52	6	30
+263725	3	0	Brown (6 Suits)	2020-08-06 — 23:32:26 UTC	a_small_emu, ATrueZen, dj.narayanan	61	6	30
+263716	2	0	Ambiguous (6 Suits)	2020-08-06 — 23:18:00 UTC	ATrueZen, dj.narayanan	82	6	30
+263713	2	0	Ambiguous (6 Suits)	2020-08-06 — 23:08:17 UTC	ATrueZen, dj.narayanan	105	6	30
+262837	4	0	Brown (6 Suits)	2020-08-05 — 20:20:19 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	17	6	30
+262829	4	25	No Variant	2020-08-05 — 19:58:28 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	198	5	25
+262815	4	0	Brown (6 Suits)	2020-08-05 — 19:28:27 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	21	6	30
+262798	4	0	Brown (6 Suits)	2020-08-05 — 18:57:07 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	27	6	30
+262775	4	0	Brown (6 Suits)	2020-08-05 — 18:11:16 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	27	6	30
+262772	4	0	Brown (6 Suits)	2020-08-05 — 18:03:25 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	41	6	30
+262767	3	0	Brown (6 Suits)	2020-08-05 — 17:38:03 UTC	a_small_emu, ATrueZen, dj.narayanan	84	6	30
+262750	3	0	Black & White (6 Suits)	2020-08-05 — 16:21:48 UTC	a_small_emu, dj.narayanan, XMIL	15	6	30
+262745	3	21	Black & White (6 Suits)	2020-08-05 — 15:53:50 UTC	a_small_emu, dj.narayanan, XMIL	15	6	30
+262741	2	0	Black & White (6 Suits)	2020-08-05 — 15:25:34 UTC	a_small_emu, dj.narayanan	46	6	30
+262739	2	0	Black & White (6 Suits)	2020-08-05 — 15:16:30 UTC	a_small_emu, dj.narayanan	49	6	30
+262738	2	0	Black & White (6 Suits)	2020-08-05 — 15:04:26 UTC	a_small_emu, dj.narayanan	56	6	30
+262157	3	0	Black & White (6 Suits)	2020-08-05 — 02:44:10 UTC	a_small_emu, ATrueZen, dj.narayanan	15	6	30
+262031	3	29	Black & White (6 Suits)	2020-08-05 — 01:00:43 UTC	a_small_emu, ATrueZen, dj.narayanan	18	6	30
+262001	4	0	Rainbow & White (6 Suits)	2020-08-05 — 00:32:26 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	10	6	30
+261974	4	0	Rainbow & White (6 Suits)	2020-08-05 — 00:11:31 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	12	6	30
+261959	3	0	Black & White (6 Suits)	2020-08-05 — 00:01:21 UTC	ATrueZen, dj.narayanan, InfernoSnowman	19	6	30
+261932	3	30	White (6 Suits)	2020-08-04 — 23:34:54 UTC	a_small_emu, ATrueZen, dj.narayanan	53	6	30
+261074	2	0	Rainbow & White (6 Suits)	2020-08-04 — 03:08:23 UTC	ATrueZen, dj.narayanan	58	6	30
+260842	3	30	Rainbow & White (6 Suits)	2020-08-03 — 22:30:14 UTC	ATrueZen, dj.narayanan, InfernoSnowman	24	6	30
+260808	3	0	Rainbow & White (6 Suits)	2020-08-03 — 21:57:33 UTC	ATrueZen, dj.narayanan, InfernoSnowman	32	6	30
+260799	3	0	Rainbow & White (6 Suits)	2020-08-03 — 21:48:53 UTC	ATrueZen, dj.narayanan, InfernoSnowman	46	6	30
+260747	4	28	Rainbow & White (6 Suits)	2020-08-03 — 21:16:48 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	16	6	30
+260698	4	0	Rainbow & White (6 Suits)	2020-08-03 — 20:28:46 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	23	6	30
+260627	3	27	Black & White (6 Suits)	2020-08-03 — 19:11:42 UTC	a_small_emu, ATrueZen, dj.narayanan	28	6	30
+260592	3	0	Black & White (6 Suits)	2020-08-03 — 18:39:19 UTC	a_small_emu, ATrueZen, dj.narayanan	28	6	30
+260589	3	0	Black & White (6 Suits)	2020-08-03 — 18:29:51 UTC	a_small_emu, ATrueZen, dj.narayanan	33	6	30
+260582	3	27	Black & White (6 Suits)	2020-08-03 — 18:18:16 UTC	a_small_emu, ATrueZen, dj.narayanan	34	6	30
+260571	2	0	Black (6 Suits)	2020-08-03 — 17:58:29 UTC	a_small_emu, dj.narayanan	546	6	30
+260567	2	0	Black (6 Suits)	2020-08-03 — 17:51:42 UTC	a_small_emu, dj.narayanan	643	6	30
+259571	2	0	Black & White (6 Suits)	2020-08-03 — 02:43:07 UTC	ATrueZen, dj.narayanan	27	6	30
+259561	2	29	Black & White (6 Suits)	2020-08-03 — 02:35:15 UTC	ATrueZen, dj.narayanan	35	6	30
+259535	2	0	Black & White (6 Suits)	2020-08-03 — 02:19:42 UTC	ATrueZen, dj.narayanan	38	6	30
+259515	2	26	Black & White (6 Suits)	2020-08-03 — 02:10:04 UTC	ATrueZen, dj.narayanan	41	6	30
+259065	4	28	Black & White (6 Suits)	2020-08-02 — 18:04:50 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	29	6	30
+258456	3	27	Black & White (6 Suits)	2020-08-01 — 23:52:46 UTC	a_small_emu, ATrueZen, dj.narayanan	47	6	30
+258323	2	27	White (6 Suits)	2020-08-01 — 20:54:59 UTC	a_small_emu, dj.narayanan	48	6	30
+258309	2	29	White (6 Suits)	2020-08-01 — 20:43:37 UTC	a_small_emu, dj.narayanan	55	6	30
+258298	2	0	White (6 Suits)	2020-08-01 — 20:32:12 UTC	a_small_emu, dj.narayanan	77	6	30
+258295	2	0	White (6 Suits)	2020-08-01 — 20:31:10 UTC	a_small_emu, dj.narayanan	100	6	30
+258290	2	0	White (6 Suits)	2020-08-01 — 20:28:10 UTC	a_small_emu, dj.narayanan	123	6	30
+258282	2	25	White (5 Suits)	2020-08-01 — 20:22:45 UTC	a_small_emu, dj.narayanan	184	5	25
+258262	2	0	Black & White (5 Suits)	2020-08-01 — 20:08:42 UTC	a_small_emu, dj.narayanan	24	5	25
+258228	2	24	Black & White (5 Suits)	2020-08-01 — 19:51:07 UTC	a_small_emu, dj.narayanan	30	5	25
+258208	2	0	Black & White (5 Suits)	2020-08-01 — 19:42:15 UTC	a_small_emu, dj.narayanan	31	5	25
+258207	2	0	Black & White (5 Suits)	2020-08-01 — 19:42:03 UTC	a_small_emu, dj.narayanan	45	5	25
+258205	2	0	Black & White (5 Suits)	2020-08-01 — 19:40:55 UTC	a_small_emu, dj.narayanan	51	5	25
+258189	2	20	White (4 Suits)	2020-08-01 — 19:33:41 UTC	a_small_emu, dj.narayanan	94	4	20
+258172	2	0	Cow & Pig (4 Suits)	2020-08-01 — 19:27:20 UTC	a_small_emu, dj.narayanan	9	4	20
+258160	2	0	Cow & Pig (4 Suits)	2020-08-01 — 19:19:17 UTC	a_small_emu, dj.narayanan	12	4	20
+258146	2	0	Cow & Pig (4 Suits)	2020-08-01 — 19:12:40 UTC	a_small_emu, dj.narayanan	13	4	20
+258140	2	0	Cow & Pig (4 Suits)	2020-08-01 — 19:08:57 UTC	a_small_emu, dj.narayanan	15	4	20
+257463	2	30	White (6 Suits)	2020-08-01 — 01:24:27 UTC	ATrueZen, dj.narayanan	184	6	30
+257286	4	30	White (6 Suits)	2020-07-31 — 21:19:01 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	60	6	30
+257268	4	0	White (6 Suits)	2020-07-31 — 20:47:06 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	75	6	30
+257253	3	0	White (6 Suits)	2020-07-31 — 20:25:02 UTC	ATrueZen, dj.narayanan, InfernoSnowman	70	6	30
+257230	3	0	White (6 Suits)	2020-07-31 — 19:58:16 UTC	ATrueZen, dj.narayanan, InfernoSnowman	101	6	30
+257218	3	0	White (6 Suits)	2020-07-31 — 19:47:50 UTC	ATrueZen, dj.narayanan, InfernoSnowman	124	6	30
+257213	2	0	Cow & Pig (4 Suits)	2020-07-31 — 19:39:28 UTC	ATrueZen, dj.narayanan	28	4	20
+257203	2	0	No Variant	2020-07-31 — 19:25:01 UTC	ATrueZen, dj.narayanan	948	5	25
+256531	3	0	Cow & Pig (5 Suits)	2020-07-31 — 00:52:33 UTC	a_small_emu, ATrueZen, dj.narayanan	18	5	25
+256518	3	24	Cow & Pig (5 Suits)	2020-07-31 — 00:38:44 UTC	a_small_emu, ATrueZen, dj.narayanan	33	5	25
+256473	2	25	Up or Down (5 Suits)	2020-07-30 — 23:55:01 UTC	ATrueZen, dj.narayanan	16	5	25
+256340	3	25	Up or Down (5 Suits)	2020-07-30 — 19:32:24 UTC	a_small_emu, ATrueZen, dj.narayanan	25	5	25
+256330	3	22	Up or Down (5 Suits)	2020-07-30 — 19:13:34 UTC	a_small_emu, ATrueZen, dj.narayanan	29	5	25
+256317	4	20	Rainbow (4 Suits)	2020-07-30 — 18:44:42 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	25	4	20
+256301	4	17	Rainbow (4 Suits)	2020-07-30 — 18:13:45 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman	32	4	20
+256296	3	0	Up or Down (5 Suits)	2020-07-30 — 17:53:03 UTC	ATrueZen, dj.narayanan, InfernoSnowman	36	5	25
+256294	2	0	Up or Down (5 Suits)	2020-07-30 — 17:49:37 UTC	ATrueZen, dj.narayanan	17	5	25
+255782	2	30	Throw It in a Hole (6 Suits)	2020-07-30 — 01:37:53 UTC	ATrueZen, dj.narayanan	16	6	30
+255760	2	0	Throw It in a Hole (6 Suits)	2020-07-30 — 01:23:04 UTC	ATrueZen, dj.narayanan	29	6	30
+255758	3	0	Up or Down (5 Suits)	2020-07-30 — 01:19:31 UTC	ATrueZen, dj.narayanan, TwentyLightbulb	42	5	25
+255753	3	24	Up or Down (5 Suits)	2020-07-30 — 01:14:10 UTC	ATrueZen, dj.narayanan, TwentyLightbulb	54	5	25
+255373	2	25	Throw It in a Hole (5 Suits)	2020-07-29 — 18:41:32 UTC	ATrueZen, dj.narayanan	11	5	25
+255366	2	0	Throw It in a Hole (5 Suits)	2020-07-29 — 18:29:20 UTC	ATrueZen, dj.narayanan	12	5	25
+255360	2	0	Throw It in a Hole (5 Suits)	2020-07-29 — 18:20:05 UTC	ATrueZen, dj.narayanan	13	5	25
+255355	2	0	Throw It in a Hole (5 Suits)	2020-07-29 — 18:09:10 UTC	ATrueZen, dj.narayanan	14	5	25
+255354	2	0	Throw It in a Hole (5 Suits)	2020-07-29 — 18:08:39 UTC	ATrueZen, dj.narayanan	17	5	25
+255349	3	24	Up or Down (5 Suits)	2020-07-29 — 18:03:16 UTC	a_small_emu, ATrueZen, dj.narayanan	57	5	25
+255344	2	0	Black (6 Suits)	2020-07-29 — 17:44:24 UTC	ATrueZen, dj.narayanan	153	6	30
+254957	3	20	Up or Down (5 Suits)	2020-07-29 — 02:26:00 UTC	ATrueZen, dj.narayanan, TwentyLightbulb	62	5	25
+254885	3	0	Dual-Color (3 Suits)	2020-07-29 — 01:53:42 UTC	ATrueZen, dj.narayanan, TwentyLightbulb	1	3	15
+254874	3	0	Dual-Color (3 Suits)	2020-07-29 — 01:40:05 UTC	ATrueZen, dj.narayanan, TwentyLightbulb	1	3	15
+254858	5	0	Black (6 Suits)	2020-07-29 — 01:29:29 UTC	a_small_emu, ATrueZen, dj.narayanan, InfernoSnowman, TwentyLightbulb	48	6	30
+254762	4	0	Black (6 Suits)	2020-07-29 — 00:37:21 UTC	a_small_emu, ATrueZen, dj.narayanan, TwentyLightbulb	71	6	30
+254737	3	20	Rainbow (4 Suits)	2020-07-28 — 23:57:41 UTC	a_small_emu, ATrueZen, dj.narayanan	84	4	20
+254712	3	20	Up or Down (5 Suits)	2020-07-28 — 22:54:37 UTC	a_small_emu, ATrueZen, dj.narayanan	88	5	25
+254490	2	24	Up or Down (5 Suits)	2020-07-28 — 18:01:28 UTC	ATrueZen, dj.narayanan	17	5	25
+254485	2	22	Up or Down (5 Suits)	2020-07-28 — 17:52:32 UTC	ATrueZen, dj.narayanan	18	5	25
+254480	2	21	Up or Down (5 Suits)	2020-07-28 — 17:41:19 UTC	ATrueZen, dj.narayanan	19	5	25
+251302	3	17	Throw It in a Hole (4 Suits)	2020-07-26 — 02:02:18 UTC	a_small_emu, ATrueZen, dj.narayanan	27	4	20
+251269	2	0	Throw It in a Hole (5 Suits)	2020-07-26 — 01:40:30 UTC	ATrueZen, dj.narayanan	17	5	25
+251060	2	21	Throw It in a Hole (5 Suits)	2020-07-25 — 21:40:17 UTC	ATrueZen, dj.narayanan	76	5	25
+251043	2	15	Dual-Color (3 Suits)	2020-07-25 — 21:22:04 UTC	ATrueZen, dj.narayanan	35	3	15
+251036	2	20	Rainbow (4 Suits)	2020-07-25 — 21:12:55 UTC	ATrueZen, dj.narayanan	40	4	20
+251028	2	0	Rainbow (4 Suits)	2020-07-25 — 21:06:32 UTC	ATrueZen, dj.narayanan	55	4	20
+251022	2	19	Rainbow (4 Suits)	2020-07-25 — 21:00:29 UTC	ATrueZen, dj.narayanan	76	4	20
+251013	2	0	Rainbow (4 Suits)	2020-07-25 — 20:48:45 UTC	ATrueZen, dj.narayanan	132	4	20

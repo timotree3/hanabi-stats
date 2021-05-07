@@ -1,0 +1,570 @@
+497681	6	22	Black (5 Suits)	2021-04-11 — 23:01:23 UTC	dobi, Lanvin, melwen, Pimak, squirrel1988, timotree	1	5	25
+497651	4	20	White & Omni (4 Suits)	2021-04-11 — 22:26:21 UTC	dobi, Lanvin, melwen, Pimak	5	4	20
+494355	6	0	Pink & White (6 Suits)	2021-04-08 — 23:06:32 UTC	dobi, Lanvin, melwen, Pimak, squirrel1988, Syrah	1	6	30
+494333	5	0	Dark Omni (6 Suits)	2021-04-08 — 22:39:29 UTC	HelanaAshryvr, Lanvin, melwen, Pimak, Syrah	2	6	30
+489756	3	25	Black (5 Suits)	2021-04-03 — 22:50:21 UTC	newduke, Pimak, Spieler42	10	5	25
+489737	3	0	Black (5 Suits)	2021-04-03 — 22:28:11 UTC	newduke, Pimak, Spieler42	10	5	25
+489709	4	21	Light Pink (5 Suits)	2021-04-03 — 22:02:53 UTC	CaitlinSmith, Damian000, newduke, Pimak	9	5	25
+489676	4	0	Light Pink (5 Suits)	2021-04-03 — 21:35:07 UTC	CaitlinSmith, Damian000, newduke, Pimak	20	5	25
+480651	4	0	Brown & Prism (5 Suits)	2021-03-25 — 23:36:46 UTC	Kyle, Lanvin, Pimak, swineherd	2	5	25
+480634	3	25	Dark Prism (5 Suits)	2021-03-25 — 23:12:19 UTC	Lanvin, Pimak, swineherd	4	5	25
+480614	3	24	Dark Prism (5 Suits)	2021-03-25 — 22:53:33 UTC	Lanvin, Pimak, swineherd	5	5	25
+480598	2	0	Dark Prism (5 Suits)	2021-03-25 — 22:39:26 UTC	Lanvin, Pimak	40	5	25
+480590	2	21	Dark Prism (5 Suits)	2021-03-25 — 22:32:44 UTC	Lanvin, Pimak	38	5	25
+480580	2	0	Dark Prism (5 Suits)	2021-03-25 — 22:23:50 UTC	Lanvin, Pimak	41	5	25
+480568	2	23	Dark Prism (5 Suits)	2021-03-25 — 22:16:00 UTC	Lanvin, Pimak	42	5	25
+480547	3	0	Brown-Ones & White (6 Suits)	2021-03-25 — 22:03:08 UTC	Gortok, Lanvin, Pimak	1	6	30
+459426	3	30	Dark Prism (6 Suits)	2021-03-07 — 00:01:59 UTC	Bot-Fiora, MangoPie, Pimak	25	6	30
+459379	3	0	Dark Prism (6 Suits)	2021-03-06 — 23:35:25 UTC	Bot-Fiora, MangoPie, Pimak	32	6	30
+459332	3	25	White (5 Suits)	2021-03-06 — 23:10:20 UTC	Bot-Fiora, MangoPie, Pimak	126	5	25
+459314	5	0	White & Prism (6 Suits)	2021-03-06 — 23:00:21 UTC	bjnh, Bot-Fiora, HelanaAshryvr, Pimak, squirrel1988	4	6	30
+459287	4	20	4 Suits	2021-03-06 — 22:46:57 UTC	Kernel, Olipod, Pimak, XMIL	51	4	20
+459254	3	0	6 Suits	2021-03-06 — 22:17:40 UTC	Kernel, Olipod, Pimak	503	6	30
+444473	3	25	Rainbow (5 Suits)	2021-02-21 — 17:02:01 UTC	Espen, narabio, Pimak	116	5	25
+444445	3	22	Rainbow (5 Suits)	2021-02-21 — 16:18:45 UTC	Espen, narabio, Pimak	135	5	25
+444387	3	24	Black (6 Suits)	2021-02-21 — 15:33:43 UTC	Espen, Pimak, rachyrules	193	6	30
+440052	6	0	Cocoa Rainbow (6 Suits)	2021-02-17 — 18:16:05 UTC	bjnh, Denchulitas, frosty104, indego, Lanvin, Pimak	4	6	30
+439350	3	29	Gray (6 Suits)	2021-02-16 — 20:59:05 UTC	Onen, Pimak, robense	42	6	30
+439338	3	0	Gray (6 Suits)	2021-02-16 — 20:44:10 UTC	Onen, Pimak, robense	55	6	30
+439320	4	0	Rainbow & Prism (6 Suits)	2021-02-16 — 20:21:45 UTC	ChristopheAF, colton, Pimak, robense	16	6	30
+439281	3	25	White (5 Suits)	2021-02-16 — 19:48:49 UTC	Nitrate, Pimak, XMIL	5	5	25
+439261	3	22	White (5 Suits)	2021-02-16 — 19:25:24 UTC	Nitrate, Pimak, XMIL	5	5	25
+439250	4	0	No Variant	2021-02-16 — 19:08:21 UTC	Nitrate, Padouga, Pimak, XMIL	42	5	25
+439225	4	0	No Variant	2021-02-16 — 18:45:33 UTC	Kernel, Nitrate, Padouga, Pimak	129	5	25
+439205	4	22	Rainbow (5 Suits)	2021-02-16 — 18:13:57 UTC	Alix_Eisenhardt, Kaznad, Padouga, Pimak	54	5	25
+439177	4	25	Rainbow (5 Suits)	2021-02-16 — 17:37:06 UTC	Alix_Eisenhardt, Kaznad, Padouga, Pimak	92	5	25
+439167	4	0	Rainbow (5 Suits)	2021-02-16 — 17:17:26 UTC	Alix_Eisenhardt, Kaznad, Padouga, Pimak	130	5	25
+438676	5	23	White-Ones & Rainbow (5 Suits)	2021-02-16 — 01:33:58 UTC	ontak, otterful, Pimak, stormageddon, Stormylu	1	5	25
+438654	5	0	White-Ones & Rainbow (5 Suits)	2021-02-16 — 01:09:40 UTC	ontak, otterful, Pimak, stormageddon, Stormylu	2	5	25
+438640	5	0	White-Ones & Rainbow (5 Suits)	2021-02-16 — 00:56:11 UTC	ontak, otterful, Pimak, stormageddon, Stormylu	3	5	25
+438624	5	24	White-Ones & Rainbow (5 Suits)	2021-02-16 — 00:33:02 UTC	ontak, otterful, Pimak, stormageddon, Stormylu	6	5	25
+438611	4	30	White-Ones (6 Suits)	2021-02-15 — 23:59:38 UTC	ontak, otterful, Pimak, Stormylu	9	6	30
+438585	5	23	Rainbow (5 Suits)	2021-02-15 — 23:23:55 UTC	Damian000, DarthGandalf, otterful, Pimak, Stormylu	23	5	25
+438538	5	0	Rainbow (5 Suits)	2021-02-15 — 22:52:14 UTC	Damian000, DarthGandalf, otterful, Pimak, Stormylu	26	5	25
+438510	5	0	Rainbow (5 Suits)	2021-02-15 — 22:22:34 UTC	Damian000, DarthGandalf, otterful, Pimak, Stormylu	54	5	25
+438280	4	25	No Variant	2021-02-15 — 19:18:18 UTC	banjoleb, Damian000, Denchulitas, Pimak	111	5	25
+438256	4	0	No Variant	2021-02-15 — 18:51:16 UTC	banjoleb, Damian000, Denchulitas, Pimak	130	5	25
+436244	4	29	Ambiguous (6 Suits)	2021-02-14 — 01:43:28 UTC	Bot-Fiora, Lanvin, melwen, Pimak	40	6	30
+436211	5	0	Ambiguous (6 Suits)	2021-02-14 — 01:06:42 UTC	4head, Bot-Fiora, Lanvin, melwen, Pimak	14	6	30
+436185	5	0	Ambiguous (6 Suits)	2021-02-14 — 00:41:04 UTC	4head, Bot-Fiora, Lanvin, melwen, Pimak	18	6	30
+436162	5	28	Ambiguous (6 Suits)	2021-02-14 — 00:18:51 UTC	4head, Bot-Fiora, Lanvin, melwen, Pimak	19	6	30
+436137	3	0	White-Fives & Light Pink (5 Suits)	2021-02-13 — 23:38:18 UTC	Bot-Fiora, Lanvin, Pimak	1	5	25
+436120	4	24	Omni (5 Suits)	2021-02-13 — 23:10:55 UTC	4head, ChristopheAF, Lanvin, Pimak	9	5	25
+436097	4	0	Omni (5 Suits)	2021-02-13 — 22:44:53 UTC	4head, ChristopheAF, Lanvin, Pimak	11	5	25
+436080	4	0	Omni (5 Suits)	2021-02-13 — 22:27:25 UTC	4head, ChristopheAF, Lanvin, Pimak	16	5	25
+436026	5	29	Omni-Fives (6 Suits)	2021-02-13 — 21:32:31 UTC	duckless, Pimak, RaKXeR, rz, wump	3	6	30
+435986	4	0	Omni-Fives (6 Suits)	2021-02-13 — 20:55:05 UTC	duckless, Pimak, rz, wump	2	6	30
+435945	4	0	Omni-Fives (6 Suits)	2021-02-13 — 20:18:15 UTC	duckless, Pimak, rz, wump	4	6	30
+435922	3	0	Omni-Fives (6 Suits)	2021-02-13 — 20:02:14 UTC	duckless, Pimak, rz	3	6	30
+435904	3	0	Omni-Fives (6 Suits)	2021-02-13 — 19:46:30 UTC	duckless, Pimak, rz	4	6	30
+435863	5	30	Black (6 Suits)	2021-02-13 — 19:06:04 UTC	ChristopheAF, Lanvin, Nitrate, Pimak, TimeHoodie	39	6	30
+435818	4	23	Gray (5 Suits)	2021-02-13 — 18:13:58 UTC	aquarelle, ChristopheAF, Nitrate, Pimak	9	5	25
+435798	4	0	Gray (5 Suits)	2021-02-13 — 17:33:45 UTC	aquarelle, ChristopheAF, Nitrate, Pimak	12	5	25
+435785	2	27	Black (6 Suits)	2021-02-13 — 16:57:34 UTC	Denchulitas, Pimak	546	6	30
+435774	2	0	Black (6 Suits)	2021-02-13 — 16:44:41 UTC	Denchulitas, Pimak	643	6	30
+435767	3	0	Prism (6 Suits)	2021-02-13 — 16:32:29 UTC	Denchulitas, Pimak, skyblueexo	20	6	30
+435759	3	29	Prism (6 Suits)	2021-02-13 — 16:11:04 UTC	Denchulitas, Pimak, skyblueexo	21	6	30
+435751	3	0	Prism (6 Suits)	2021-02-13 — 15:48:59 UTC	Denchulitas, Pimak, skyblueexo	24	6	30
+434629	4	24	Dual-Color (5 Suits)	2021-02-12 — 19:45:01 UTC	Daryl, narabio, Pimak, Spieler42	5	5	25
+434594	4	0	Dual-Color (5 Suits)	2021-02-12 — 19:09:17 UTC	Daryl, narabio, Pimak, Spieler42	7	5	25
+434577	4	0	Dual-Color (5 Suits)	2021-02-12 — 18:50:37 UTC	Daryl, duckless, Pimak, Spieler42	13	5	25
+433716	6	30	Light Pink (6 Suits)	2021-02-11 — 23:29:58 UTC	Bot-Fiora, indego, Lanvin, Nitrate2, Pimak, sephiroth	1	6	30
+433658	4	0	Dual-Color (5 Suits)	2021-02-11 — 22:27:10 UTC	Alix_Eisenhardt, Kaznad, Padouga, Pimak	20	5	25
+433649	4	0	Dual-Color (5 Suits)	2021-02-11 — 22:12:12 UTC	Alix_Eisenhardt, Kaznad, Padouga, Pimak	31	5	25
+433633	4	24	No Variant	2021-02-11 — 21:59:45 UTC	Alix_Eisenhardt, Kaznad, Padouga, Pimak	34	5	25
+433583	4	21	No Variant	2021-02-11 — 21:25:23 UTC	Alix_Eisenhardt, Kaznad, Padouga, Pimak	34	5	25
+433541	4	25	No Variant	2021-02-11 — 20:56:24 UTC	Alix_Eisenhardt, Kaznad, Padouga, Pimak	35	5	25
+433523	3	0	No Variant	2021-02-11 — 20:42:38 UTC	Kaznad, Padouga, Pimak	13	5	25
+433514	4	23	Dark Rainbow (5 Suits)	2021-02-11 — 20:32:52 UTC	4head, eljavi, ksfortson, Pimak	11	5	25
+433497	4	23	Dark Rainbow (5 Suits)	2021-02-11 — 20:13:19 UTC	4head, eljavi, ksfortson, Pimak	14	5	25
+433469	5	23	Rainbow & White (5 Suits)	2021-02-11 — 19:35:06 UTC	4head, CaitlinSmith, eljavi, MangoPie, Pimak	5	5	25
+433457	5	0	Rainbow & White (5 Suits)	2021-02-11 — 19:12:56 UTC	4head, CaitlinSmith, eljavi, MangoPie, Pimak	4	5	25
+433445	5	0	Rainbow & White (5 Suits)	2021-02-11 — 19:03:26 UTC	4head, CaitlinSmith, eljavi, MangoPie, Pimak	3	5	25
+433435	5	0	Rainbow & White (5 Suits)	2021-02-11 — 18:43:35 UTC	4head, CaitlinSmith, eljavi, MangoPie, Pimak	10	5	25
+433415	3	0	Rainbow & White (5 Suits)	2021-02-11 — 18:21:21 UTC	CaitlinSmith, eljavi, Pimak	37	5	25
+433300	5	0	Dual-Color (5 Suits)	2021-02-11 — 14:14:39 UTC	eliclax, Kernel, Lanvin, Pimak, VerySloppyTwo	2	5	25
+433294	4	0	Dual-Color (5 Suits)	2021-02-11 — 13:44:18 UTC	eliclax, Kernel, Lanvin, Pimak	8	5	25
+433291	5	0	Dual-Color (5 Suits)	2021-02-11 — 13:28:11 UTC	eliclax, Kernel, Lanvin, Pimak, Plum	2	5	25
+433287	5	0	Dual-Color (5 Suits)	2021-02-11 — 13:02:26 UTC	eliclax, Kernel, Lanvin, Pimak, Plum	2	5	25
+433281	4	23	No Variant	2021-02-11 — 12:21:58 UTC	BraydonM, eliclax, Pimak, Zahard	149	5	25
+431649	6	27	Black (6 Suits)	2021-02-10 — 00:21:46 UTC	4head, griff77, Lanvin, nkkarpov, Pimak, rahsosprout	7	6	30
+431626	6	27	Black (6 Suits)	2021-02-09 — 23:48:27 UTC	4head, griff77, Lanvin, nkkarpov, Pimak, rahsosprout	8	6	30
+431579	6	0	Rainbow & Prism (6 Suits)	2021-02-09 — 23:10:54 UTC	4head, colton, duckington, Lanvin, Pimak, rahsosprout	4	6	30
+431540	4	29	Up or Down (6 Suits)	2021-02-09 — 22:32:47 UTC	4head, Bot-Fiora, Kernel, Pimak	8	6	30
+431496	4	0	Up or Down (6 Suits)	2021-02-09 — 22:03:25 UTC	4head, Bot-Fiora, Kernel, Pimak	9	6	30
+431456	4	24	Up or Down (5 Suits)	2021-02-09 — 21:43:51 UTC	4head, jack67889, Kernel, Pimak	75	5	25
+431407	5	0	Up or Down (5 Suits)	2021-02-09 — 21:17:55 UTC	4head, CaitlinSmith, jack67889, Kernel, Pimak	23	5	25
+431382	4	0	Up or Down (6 Suits)	2021-02-09 — 20:58:31 UTC	4head, CaitlinSmith, jack67889, Pimak	12	6	30
+431356	4	27	Up or Down (6 Suits)	2021-02-09 — 20:32:46 UTC	4head, CaitlinSmith, jack67889, Pimak	15	6	30
+429030	5	0	Pink (4 Suits)	2021-02-07 — 16:35:32 UTC	Lanvin, MangoPie, Pimak, sephiroth, Wittvector	4	4	20
+429013	4	0	Rainbow & Omni (6 Suits)	2021-02-07 — 16:06:40 UTC	Lanvin, MangoPie, Pimak, skyblueexo	6	6	30
+428997	4	0	Rainbow & Omni (6 Suits)	2021-02-07 — 15:41:48 UTC	Lanvin, MangoPie, Pimak, skyblueexo	8	6	30
+428966	5	25	Rainbow & Light Pink (5 Suits)	2021-02-07 — 15:10:09 UTC	aquarelle, ChristopheAF, Lanvin, Pimak, rz	6	5	25
+428947	5	0	Rainbow & Light Pink (5 Suits)	2021-02-07 — 14:44:28 UTC	aquarelle, ChristopheAF, Lanvin, Pimak, rz	4	5	25
+428945	5	0	Rainbow & Light Pink (5 Suits)	2021-02-07 — 14:36:50 UTC	aquarelle, ChristopheAF, Lanvin, Pimak, rz	5	5	25
+428940	3	0	Rainbow (3 Suits)	2021-02-07 — 14:19:16 UTC	aquarelle, Lanvin, Pimak	7	3	15
+428932	5	0	Rainbow & Pink (5 Suits)	2021-02-07 — 13:57:17 UTC	aquarelle, ChristopheAF, indego, Lanvin, Pimak	6	5	25
+428915	5	0	Rainbow & Pink (5 Suits)	2021-02-07 — 13:27:38 UTC	aquarelle, ChristopheAF, indego, Lanvin, Pimak	5	5	25
+428910	4	0	Black (5 Suits)	2021-02-07 — 13:14:32 UTC	aquarelle, indego, Lanvin, Pimak	23	5	25
+428903	2	15	3 Suits	2021-02-07 — 13:02:37 UTC	Lanvin, Pimak	193	3	15
+425213	3	25	Brown (5 Suits)	2021-02-04 — 10:25:30 UTC	4head, louietyj, Pimak	63	5	25
+425204	3	0	Brown (5 Suits)	2021-02-04 — 10:02:50 UTC	4head, louietyj, Pimak	79	5	25
+425202	5	27	Rainbow & Gray (6 Suits)	2021-02-04 — 09:30:32 UTC	4head, Asddsa76, catula, louietyj, Pimak	5	6	30
+425196	5	29	Gray (6 Suits)	2021-02-04 — 08:47:20 UTC	4head, indego, katian, Pimak, Wittvector	14	6	30
+424280	6	0	Dark Pink (6 Suits)	2021-02-03 — 18:59:58 UTC	colton, Div, Lanvin, Pimak, sephiroth, VerySloppyTwo	4	6	30
+424188	4	25	Rainbow & Pink (5 Suits)	2021-02-03 — 18:00:45 UTC	ChristopheAF, Lanvin, Pimak, sephiroth	4	5	25
+424177	4	0	Rainbow & Pink (5 Suits)	2021-02-03 — 17:43:37 UTC	ChristopheAF, Lanvin, Pimak, sephiroth	4	5	25
+424170	4	0	Rainbow & Pink (5 Suits)	2021-02-03 — 17:27:28 UTC	ChristopheAF, Lanvin, Pimak, sephiroth	5	5	25
+424165	4	0	Rainbow & Pink (5 Suits)	2021-02-03 — 17:20:14 UTC	ChristopheAF, Lanvin, Pimak, sephiroth	6	5	25
+424159	4	0	Rainbow & Pink (5 Suits)	2021-02-03 — 17:13:57 UTC	ChristopheAF, Lanvin, Pimak, sephiroth	8	5	25
+424145	5	30	Muddy Rainbow (6 Suits)	2021-02-03 — 16:56:21 UTC	ChristopheAF, Lanvin, MangoPie, Pimak, sin_faith	7	6	30
+424068	6	25	Pink & Prism (5 Suits)	2021-02-03 — 15:48:00 UTC	ChristopheAF, Lanvin, MangoPie, Pimak, sephiroth, sin_faith	1	5	25
+424048	4	0	Pink & Prism (5 Suits)	2021-02-03 — 15:22:43 UTC	Lanvin, Pimak, sephiroth, sin_faith	5	5	25
+424030	4	29	Pink & Dark Omni (6 Suits)	2021-02-03 — 15:00:09 UTC	Floriman, melwen, Pimak, Wittvector	4	6	30
+421459	3	25	No Variant	2021-01-31 — 22:44:25 UTC	InflatableKayak, Padouga, Pimak	56	5	25
+421443	3	0	No Variant	2021-01-31 — 22:23:51 UTC	InflatableKayak, Padouga, Pimak	57	5	25
+421423	3	0	No Variant	2021-01-31 — 22:09:54 UTC	InflatableKayak, Padouga, Pimak	55	5	25
+421413	3	25	No Variant	2021-01-31 — 22:05:15 UTC	InflatableKayak, Padouga, Pimak	63	5	25
+421405	3	22	No Variant	2021-01-31 — 21:53:03 UTC	Kaznad, Padouga, Pimak	14	5	25
+421387	3	0	No Variant	2021-01-31 — 21:36:28 UTC	Kaznad, Padouga, Pimak	15	5	25
+421358	3	0	No Variant	2021-01-31 — 21:08:17 UTC	Kaznad, Padouga, Pimak	15	5	25
+421243	3	0	Rainbow (6 Suits)	2021-01-31 — 18:42:24 UTC	Pimak, socerman, tacobot5000	58	6	30
+421235	3	0	Rainbow (6 Suits)	2021-01-31 — 18:29:33 UTC	Pimak, socerman, tacobot5000	61	6	30
+421218	3	30	Rainbow (6 Suits)	2021-01-31 — 18:05:13 UTC	Pimak, socerman, tacobot5000	68	6	30
+421187	3	30	Rainbow (6 Suits)	2021-01-31 — 17:08:58 UTC	Pimak, socerman, tacobot5000	72	6	30
+417519	3	25	No Variant	2021-01-28 — 11:27:13 UTC	Denchulitas, macanek, Pimak	65	5	25
+417478	3	21	No Variant	2021-01-28 — 10:31:30 UTC	Denchulitas, macanek, Pimak	62	5	25
+417466	4	0	No Variant	2021-01-28 — 09:56:25 UTC	Denchulitas, macanek, Pimak, possum	156	5	25
+417435	3	0	Black & Prism (6 Suits)	2021-01-28 — 09:15:57 UTC	Denchulitas, macanek, Pimak	12	6	30
+416525	5	24	Rainbow & White (5 Suits)	2021-01-27 — 18:16:17 UTC	4head, caña, Pimak, Plum, rz	5	5	25
+416500	4	24	Rainbow & White (5 Suits)	2021-01-27 — 17:38:52 UTC	4head, Pimak, Plum, rz	17	5	25
+416475	4	0	Rainbow & White (5 Suits)	2021-01-27 — 17:04:03 UTC	duckington, Lanvin, Pimak, Plum	4	5	25
+416467	4	0	Rainbow & White (5 Suits)	2021-01-27 — 16:39:36 UTC	duckington, Lanvin, Pimak, Plum	5	5	25
+416450	3	30	Rainbow & Prism (6 Suits)	2021-01-27 — 16:09:04 UTC	Pimak, Plum, sin_nofaith	22	6	30
+416440	5	0	Omni-Ones & Dark Pink (6 Suits)	2021-01-27 — 15:33:35 UTC	Lel0uch, Pimak, sephiroth, sin_faith, TimeHoodie	2	6	30
+416427	5	0	Omni-Ones & Dark Pink (6 Suits)	2021-01-27 — 15:15:41 UTC	Lel0uch, Pimak, sephiroth, sin_faith, TimeHoodie	2	6	30
+416417	6	25	White & Prism (5 Suits)	2021-01-27 — 15:03:53 UTC	Lel0uch, MangoPie, Pimak, sephiroth, sin_faith, TimeHoodie	1	5	25
+416410	6	0	White & Prism (5 Suits)	2021-01-27 — 14:48:09 UTC	Lel0uch, MangoPie, Pimak, sephiroth, sin_faith, TimeHoodie	1	5	25
+416401	4	26	Rainbow (6 Suits)	2021-01-27 — 14:25:51 UTC	asaelr, joel92, Pimak, sin_faith	20	6	30
+416380	3	0	Pink (5 Suits)	2021-01-27 — 13:52:26 UTC	indego, Pimak, PMP	62	5	25
+415440	3	0	White-Ones (5 Suits)	2021-01-26 — 14:36:36 UTC	eliclax, gchang02, Pimak	5	5	25
+415434	3	0	White-Ones (5 Suits)	2021-01-26 — 14:21:58 UTC	eliclax, gchang02, Pimak	9	5	25
+415430	5	0	No Variant	2021-01-26 — 14:15:58 UTC	gchang02, Lanvin, Lel0uch, melwen, Pimak	75	5	25
+415422	6	20	No Variant	2021-01-26 — 13:57:44 UTC	eliclax, gchang02, Lanvin, Lel0uch, melwen, Pimak	10	5	25
+415411	3	0	Dual-Color & Prism (4 Suits)	2021-01-26 — 13:22:35 UTC	Lanvin, melwen, Pimak	1	4	20
+415399	3	19	Dual-Color & Prism (4 Suits)	2021-01-26 — 12:54:07 UTC	Lanvin, melwen, Pimak	2	4	20
+415390	3	18	Dual-Color & Prism (4 Suits)	2021-01-26 — 12:29:18 UTC	Lanvin, melwen, Pimak	5	4	20
+414664	4	25	Prism (5 Suits)	2021-01-25 — 18:09:10 UTC	HariKrishnan, Kernel, MangoPie, Pimak	29	5	25
+414637	4	24	Prism (5 Suits)	2021-01-25 — 17:27:20 UTC	HariKrishnan, Kernel, MangoPie, Pimak	47	5	25
+414622	5	0	White (6 Suits)	2021-01-25 — 16:54:41 UTC	HariKrishnan, Kernel, MangoPie, Pimak, Spieler42	37	6	30
+414614	4	27	Black & Prism (6 Suits)	2021-01-25 — 16:20:11 UTC	banjoleb, ChristopheAF, Lanvin, Pimak	8	6	30
+414600	4	0	Black & Prism (6 Suits)	2021-01-25 — 15:45:07 UTC	banjoleb, ChristopheAF, Lanvin, Pimak	10	6	30
+414585	4	0	Black & Prism (6 Suits)	2021-01-25 — 15:13:05 UTC	banjoleb, ChristopheAF, Lanvin, Pimak	14	6	30
+414574	3	29	Black & Prism (6 Suits)	2021-01-25 — 14:40:14 UTC	banjoleb, ChristopheAF, Pimak	18	6	30
+414560	3	0	Black & Prism (6 Suits)	2021-01-25 — 14:20:15 UTC	banjoleb, ChristopheAF, Pimak	22	6	30
+414547	3	0	Special Mix (5 Suits)	2021-01-25 — 13:47:04 UTC	Pimak, rz, Wittvector	28	5	25
+414538	3	30	Black & Light Pink (6 Suits)	2021-01-25 — 13:15:55 UTC	Pimak, rz, Wittvector	16	6	30
+412909	3	22	White (5 Suits)	2021-01-23 — 23:03:34 UTC	Kaznad, Padouga, Pimak	81	5	25
+412632	4	25	Brown & Prism (5 Suits)	2021-01-23 — 19:24:49 UTC	Fey, Kaznad, Padouga, Pimak	6	5	25
+412600	4	0	Brown & Prism (5 Suits)	2021-01-23 — 19:01:34 UTC	Fey, Kaznad, Padouga, Pimak	10	5	25
+412562	4	18	4 Suits	2021-01-23 — 18:38:47 UTC	Fey, Kaznad, Padouga, Pimak	32	4	20
+412530	5	0	Dual-Color (5 Suits)	2021-01-23 — 18:14:04 UTC	Fey, Kaznad, Kernel, Padouga, Pimak	7	5	25
+412504	4	0	Dual-Color (5 Suits)	2021-01-23 — 17:39:20 UTC	Fey, Kaznad, Kernel, Pimak	37	5	25
+412491	3	25	White & Prism (5 Suits)	2021-01-23 — 16:57:14 UTC	Daryl, Pimak, rahsosprout	16	5	25
+412464	4	25	White-Ones (5 Suits)	2021-01-23 — 16:08:30 UTC	ChristopheAF, Daryl, Lel0uch, Pimak	10	5	25
+411395	4	27	Black & Prism (6 Suits)	2021-01-22 — 16:23:14 UTC	arnino, Div, Pimak, Wittvector	14	6	30
+411280	3	0	Dark Pink (5 Suits)	2021-01-22 — 10:13:49 UTC	macanek, Pimak, Wittvector	42	5	25
+410670	3	0	Pink (5 Suits)	2021-01-21 — 18:34:01 UTC	4head, MangoPie, Pimak	75	5	25
+410662	3	0	Pink (5 Suits)	2021-01-21 — 18:20:58 UTC	4head, MangoPie, Pimak	108	5	25
+410654	5	23	Muddy Rainbow (5 Suits)	2021-01-21 — 17:59:17 UTC	4head, Lanvin, MangoPie, Pimak, rz	8	5	25
+410629	5	24	Muddy Rainbow (5 Suits)	2021-01-21 — 17:27:11 UTC	4head, Lanvin, MangoPie, Pimak, rz	14	5	25
+410606	4	22	White & Dark Prism (5 Suits)	2021-01-21 — 16:58:10 UTC	4head, Lanvin, MangoPie, Pimak	4	5	25
+410590	4	20	White & Dark Prism (5 Suits)	2021-01-21 — 16:33:40 UTC	4head, Lanvin, MangoPie, Pimak	5	5	25
+409630	4	28	Rainbow & Brown (6 Suits)	2021-01-20 — 15:44:20 UTC	arnino, Lanvin, Pimak, Plum	12	6	30
+409613	5	0	Rainbow & Brown (5 Suits)	2021-01-20 — 15:09:40 UTC	arnino, Lanvin, Pimak, Plum, sephiroth	6	5	25
+409605	4	30	White (6 Suits)	2021-01-20 — 14:43:02 UTC	arnino, katian, Lanvin, Pimak	6	6	30
+408746	4	24	Pink (5 Suits)	2021-01-19 — 18:15:55 UTC	4head, Kyle, MangoPie, Pimak	3	5	25
+408714	3	22	Black (5 Suits)	2021-01-19 — 17:46:15 UTC	4head, MangoPie, Pimak	55	5	25
+408688	3	24	Black (5 Suits)	2021-01-19 — 17:22:28 UTC	4head, MangoPie, Pimak	134	5	25
+408677	4	0	Black (6 Suits)	2021-01-19 — 17:10:52 UTC	4head, MangoPie, Pimak, PMP	213	6	30
+408553	5	0	Black (5 Suits)	2021-01-19 — 11:42:17 UTC	MarkusKahlsen, Pimak, rachyrules, sephiroth, Spieler42	12	5	25
+408547	4	23	Black & Prism (5 Suits)	2021-01-19 — 11:20:15 UTC	Pimak, rachyrules, sephiroth, Spieler42	5	5	25
+408529	3	0	Pink-Fives (5 Suits)	2021-01-19 — 10:40:13 UTC	catula, Pimak, skyblueexo	9	5	25
+408517	3	0	Pink-Ones (5 Suits)	2021-01-19 — 10:09:19 UTC	catula, Pimak, skyblueexo	6	5	25
+407551	3	21	Black (5 Suits)	2021-01-18 — 17:05:29 UTC	ArualEIs, MangoPie, Pimak	66	5	25
+407517	3	24	Black (5 Suits)	2021-01-18 — 16:29:21 UTC	ArualEIs, MangoPie, Pimak	74	5	25
+407481	3	27	Brown & Prism (6 Suits)	2021-01-18 — 16:02:34 UTC	asaelr, MangoPie, Pimak	8	6	30
+406474	5	22	Black (5 Suits)	2021-01-17 — 19:27:57 UTC	4head, ArualEIs, CaitlinSmith, Nitrate, Pimak	36	5	25
+406450	5	22	No Variant	2021-01-17 — 18:45:03 UTC	4head, ArualEIs, CaitlinSmith, Nitrate, Pimak	262	5	25
+406427	3	0	Black (5 Suits)	2021-01-17 — 18:14:50 UTC	ArualEIs, CaitlinSmith, Pimak	68	5	25
+405252	6	0	Rainbow (6 Suits)	2021-01-16 — 17:15:30 UTC	Lanvin, MangoPie, Nils, Pimak, rz, zeinab001	20	6	30
+405233	5	30	6 Suits	2021-01-16 — 16:43:23 UTC	banjoleb, LautiManzano, Nils, Pimak, zeinab001	96	6	30
+405203	3	28	Black & White (6 Suits)	2021-01-16 — 15:58:39 UTC	ADrone, melwen, Pimak	34	6	30
+405110	3	25	Black & Rainbow (6 Suits)	2021-01-16 — 10:55:06 UTC	Pimak, qqqq, Wittvector	42	6	30
+405091	3	25	Prism (5 Suits)	2021-01-16 — 09:56:28 UTC	Fey, Pimak, witcher	2	5	25
+404114	4	20	White-Ones (4 Suits)	2021-01-15 — 16:56:52 UTC	ChristopheAF, eljavi, Pimak, Wittvector	5	4	20
+404095	3	20	Prism (4 Suits)	2021-01-15 — 16:37:32 UTC	CaitlinSmith, MangoPie, Pimak	13	4	20
+404075	3	0	Prism (4 Suits)	2021-01-15 — 16:07:56 UTC	CaitlinSmith, MangoPie, Pimak	21	4	20
+403948	2	0	No Variant	2021-01-15 — 11:28:17 UTC	Denchulitas, Pimak	302	5	25
+403931	2	23	No Variant	2021-01-15 — 10:37:34 UTC	Denchulitas, Pimak	308	5	25
+403003	6	20	White-Ones (4 Suits)	2021-01-14 — 13:57:30 UTC	Lanvin, Pimak, sephiroth, skyblueexo, Wittvector, zeinab001	2	4	20
+402994	6	0	White-Ones (4 Suits)	2021-01-14 — 13:32:15 UTC	Lanvin, Pimak, sephiroth, skyblueexo, Wittvector, zeinab001	2	4	20
+402988	2	24	No Variant	2021-01-14 — 13:11:12 UTC	Pimak, zeinab001	303	5	25
+402984	2	24	No Variant	2021-01-14 — 12:54:30 UTC	Pimak, zeinab001	311	5	25
+402958	4	22	White (5 Suits)	2021-01-14 — 11:16:05 UTC	catula, Denchulitas, macanek, Pimak	46	5	25
+402955	3	0	No Variant	2021-01-14 — 10:50:35 UTC	macanek, pianoblook, Pimak	61	5	25
+402935	3	21	No Variant	2021-01-14 — 10:16:01 UTC	arnino, macanek, Pimak	275	5	25
+402921	5	0	Rainbow (6 Suits)	2021-01-14 — 09:49:07 UTC	arnino, katian, Krepps57, Pimak, skyblueexo	209	6	30
+402077	5	29	Black (6 Suits)	2021-01-13 — 16:18:49 UTC	jack67889, Lanvin, MangoPie, Pimak, zeinab001	27	6	30
+402063	5	28	Black (6 Suits)	2021-01-13 — 15:51:45 UTC	jack67889, Lanvin, MangoPie, Pimak, zeinab001	101	6	30
+402042	4	30	Rainbow & White (6 Suits)	2021-01-13 — 15:17:45 UTC	jack67889, Lanvin, MangoPie, Pimak	16	6	30
+402019	6	0	Black (6 Suits)	2021-01-13 — 14:44:33 UTC	HelanaAshryvr, jack67889, Lanvin, MangoPie, Pimak, Wittvector	4	6	30
+402015	6	0	Black (6 Suits)	2021-01-13 — 14:27:39 UTC	HelanaAshryvr, jack67889, Lanvin, MangoPie, Pimak, Wittvector	5	6	30
+402005	3	0	Black (5 Suits)	2021-01-13 — 13:59:49 UTC	Lanvin, Pimak, Wittvector	36	5	25
+401996	3	23	Black (5 Suits)	2021-01-13 — 13:30:45 UTC	Lanvin, Pimak, Wittvector	35	5	25
+401967	3	0	Black (5 Suits)	2021-01-13 — 11:58:36 UTC	banjoleb, CaitlinSmith, Pimak	119	5	25
+401960	4	23	Black (5 Suits)	2021-01-13 — 11:32:35 UTC	ArualEIs, banjoleb, CaitlinSmith, Pimak	79	5	25
+401952	4	0	Black (5 Suits)	2021-01-13 — 11:00:39 UTC	ArualEIs, banjoleb, CaitlinSmith, Pimak	98	5	25
+401944	4	0	Black (5 Suits)	2021-01-13 — 10:36:47 UTC	catula, frosty104, Pimak, Sucubis	5	5	25
+401061	3	0	Prism (4 Suits)	2021-01-12 — 11:00:26 UTC	katian, Pimak, skyblueexo	27	4	20
+401053	3	19	Prism (4 Suits)	2021-01-12 — 10:21:21 UTC	katian, Pimak, skyblueexo	45	4	20
+400525	5	29	Black (6 Suits)	2021-01-11 — 23:10:18 UTC	ChristopheAF, Feich59, jack67889, Pimak, rahsosprout	28	6	30
+400503	4	25	Rainbow & Prism (5 Suits)	2021-01-11 — 22:43:57 UTC	ChristopheAF, jack67889, Kyle, Pimak	7	5	25
+400471	5	18	4 Suits	2021-01-11 — 22:11:22 UTC	CaitlinSmith, ChristopheAF, Doge, Kyle, Pimak	4	4	20
+400451	4	0	White (6 Suits)	2021-01-11 — 21:46:19 UTC	CaitlinSmith, ChristopheAF, Pimak, sean1815	35	6	30
+400434	4	0	White (6 Suits)	2021-01-11 — 21:25:22 UTC	CaitlinSmith, ChristopheAF, Pimak, sean1815	41	6	30
+400418	3	25	No Variant	2021-01-11 — 21:13:44 UTC	CaitlinSmith, Pimak, sean1815	160	5	25
+400094	4	30	6 Suits	2021-01-11 — 11:26:38 UTC	LamboXD, louietyj, macanek, Pimak	120	6	30
+400090	4	29	6 Suits	2021-01-11 — 10:54:28 UTC	LamboXD, louietyj, macanek, Pimak	151	6	30
+400086	4	28	6 Suits	2021-01-11 — 10:23:41 UTC	LamboXD, louietyj, macanek, Pimak	191	6	30
+400041	3	25	Rainbow & Prism (5 Suits)	2021-01-11 — 08:26:33 UTC	katian, Pimak, skyblueexo	2	5	25
+400019	3	0	Rainbow & Prism (5 Suits)	2021-01-11 — 08:01:35 UTC	katian, Pimak, skyblueexo	2	5	25
+400014	3	24	Rainbow & Prism (5 Suits)	2021-01-11 — 07:47:13 UTC	katian, Pimak, skyblueexo	4	5	25
+399996	3	30	Prism (6 Suits)	2021-01-11 — 07:15:49 UTC	katian, Pimak, skyblueexo	60	6	30
+399168	3	25	Prism (5 Suits)	2021-01-10 — 12:48:12 UTC	Kernel, louietyj, Pimak	45	5	25
+399159	3	23	Prism (5 Suits)	2021-01-10 — 12:10:15 UTC	Kernel, louietyj, Pimak	80	5	25
+399154	3	18	Black (5 Suits)	2021-01-10 — 11:22:46 UTC	MangoPie, Nexus, Pimak	171	5	25
+397970	3	25	Rainbow (5 Suits)	2021-01-09 — 19:30:19 UTC	CaitlinSmith, Pimak, zeinab001	185	5	25
+397933	3	25	No Variant	2021-01-09 — 18:51:34 UTC	CaitlinSmith, hakha3, Pimak	178	5	25
+397898	3	30	6 Suits	2021-01-09 — 17:56:15 UTC	diael, knaphill, Pimak	196	6	30
+397877	3	27	6 Suits	2021-01-09 — 17:10:02 UTC	diael, knaphill, Pimak	252	6	30
+397850	3	0	No Variant	2021-01-09 — 16:32:06 UTC	knaphill, Pimak, zeinab001	624	5	25
+396787	5	21	No Variant	2021-01-08 — 18:53:18 UTC	Donna, function, lolthisnotderk, Nitrate, Pimak	344	5	25
+396761	5	0	4 Suits	2021-01-08 — 18:09:57 UTC	indego, Lanvin, MangoPie, Pimak, QP	16	4	20
+396753	5	0	4 Suits	2021-01-08 — 18:00:32 UTC	indego, Lanvin, MangoPie, Pimak, QP	17	4	20
+396733	4	24	Dual-Color (5 Suits)	2021-01-08 — 17:37:39 UTC	Kernel, Lanvin, MangoPie, Pimak	14	5	25
+396706	5	25	Prism (5 Suits)	2021-01-08 — 16:43:16 UTC	ArualEIs, katian, MangoPie, Pimak, skyblueexo	10	5	25
+396693	3	30	White-Ones (6 Suits)	2021-01-08 — 15:55:46 UTC	MangoPie, Pimak, skyblueexo	11	6	30
+396674	6	0	White-Fives & Gray Pink (5 Suits)	2021-01-08 — 15:10:09 UTC	indego, Lanvin, Pimak, qqqq, sin_faith, Sucubis	1	5	25
+396670	6	0	White-Fives & Gray Pink (5 Suits)	2021-01-08 — 15:04:07 UTC	indego, Lanvin, Pimak, qqqq, sin_faith, Sucubis	1	5	25
+396658	6	0	White-Fives & Gray Pink (5 Suits)	2021-01-08 — 14:39:09 UTC	indego, Lanvin, Pimak, qqqq, sin_faith, Sucubis	1	5	25
+396646	5	20	White & Dark Pink (5 Suits)	2021-01-08 — 14:11:38 UTC	indego, Lanvin, Pimak, qqqq, sin_faith	1	5	25
+396629	5	0	White & Dark Pink (5 Suits)	2021-01-08 — 13:33:21 UTC	indego, Lanvin, Pimak, qqqq, sin_faith	1	5	25
+396608	4	0	Black (5 Suits)	2021-01-08 — 12:52:18 UTC	indego, Lanvin, Pimak, qqqq	49	5	25
+396589	3	0	Brown (6 Suits)	2021-01-08 — 12:24:21 UTC	indego, Lanvin, Pimak	84	6	30
+395662	5	28	Dark Rainbow (6 Suits)	2021-01-07 — 19:08:14 UTC	ChristopheAF, Floriman, Lel0uch, MarkusKahlsen, Pimak	12	6	30
+395653	5	0	Dark Rainbow (6 Suits)	2021-01-07 — 18:45:37 UTC	ChristopheAF, Floriman, Lel0uch, MarkusKahlsen, Pimak	14	6	30
+395643	4	0	Dark Rainbow (5 Suits)	2021-01-07 — 18:28:26 UTC	ChristopheAF, Lel0uch, MarkusKahlsen, Pimak	7	5	25
+395629	4	0	4 Suits	2021-01-07 — 18:04:43 UTC	ChristopheAF, Kernel, Pimak, Spruelo	101	4	20
+395616	2	19	4 Suits	2021-01-07 — 17:41:52 UTC	Kernel, Pimak	244	4	20
+395596	3	30	Rainbow (6 Suits)	2021-01-07 — 17:04:33 UTC	knaphill, Pimak, rz	396	6	30
+394897	3	24	White-Ones (5 Suits)	2021-01-06 — 23:02:17 UTC	ArualEIs, nkkarpov, Pimak	20	5	25
+394855	3	20	Rainbow (4 Suits)	2021-01-06 — 22:32:54 UTC	bob65536, ChristopheAF, Pimak	43	4	20
+394838	3	0	Rainbow (4 Suits)	2021-01-06 — 22:19:53 UTC	bob65536, ChristopheAF, Pimak	46	4	20
+394826	3	0	Rainbow (4 Suits)	2021-01-06 — 22:11:31 UTC	bob65536, ChristopheAF, Pimak	68	4	20
+394810	3	0	Rainbow (4 Suits)	2021-01-06 — 22:00:25 UTC	bob65536, ChristopheAF, Pimak	84	4	20
+394550	4	27	6 Suits	2021-01-06 — 17:31:04 UTC	ArualEIs, diael, lanxeny, Pimak	250	6	30
+394530	4	27	6 Suits	2021-01-06 — 16:49:45 UTC	ArualEIs, diael, lanxeny, Pimak	354	6	30
+394520	5	29	6 Suits	2021-01-06 — 16:12:14 UTC	ArualEIs, diael, lanxeny, MangoPie, Pimak	199	6	30
+394502	5	0	No Variant	2021-01-06 — 15:36:16 UTC	diael, indego, Kyle, MangoPie, Pimak	7	5	25
+394495	5	22	No Variant	2021-01-06 — 15:11:44 UTC	diael, indego, Lanvin, Pimak, Sucubis	77	5	25
+394482	5	24	Black & Rainbow (5 Suits)	2021-01-06 — 14:40:56 UTC	Kyle, Lanvin, Pimak, sephiroth, Sucubis	1	5	25
+394473	5	0	Black & Rainbow (5 Suits)	2021-01-06 — 14:19:16 UTC	Kyle, Lanvin, Pimak, sephiroth, Sucubis	1	5	25
+394459	4	25	No Variant	2021-01-06 — 13:41:04 UTC	Lanvin, Pimak, Spieler42, StKildaFan	31	5	25
+393645	4	25	No Variant	2021-01-05 — 17:04:46 UTC	knaphill, Pimak, Spieler42, XMIL	47	5	25
+393634	3	25	White-Ones & Rainbow (5 Suits)	2021-01-05 — 16:33:16 UTC	Lanvin, Pimak, Spieler42	9	5	25
+393624	3	30	White (6 Suits)	2021-01-05 — 16:07:52 UTC	Lanvin, Pimak, Spieler42	8	6	30
+393618	3	0	White (6 Suits)	2021-01-05 — 15:34:54 UTC	knaphill, Lanvin, Pimak	9	6	30
+393612	4	20	Rainbow (4 Suits)	2021-01-05 — 14:57:05 UTC	ArualEIs, Lanvin, Pimak, skyblueexo	11	4	20
+393601	4	0	Rainbow (4 Suits)	2021-01-05 — 14:30:06 UTC	ArualEIs, Lanvin, Pimak, skyblueexo	17	4	20
+393573	3	0	Rainbow (3 Suits)	2021-01-05 — 14:09:56 UTC	ArualEIs, Lanvin, Pimak	26	3	15
+393548	3	0	Rainbow (3 Suits)	2021-01-05 — 13:55:52 UTC	ArualEIs, Lanvin, Pimak	36	3	15
+393517	5	17	Rainbow (4 Suits)	2021-01-05 — 13:37:08 UTC	ArualEIs, Lanvin, Pimak, PMP, voss	16	4	20
+393473	3	24	Prism (5 Suits)	2021-01-05 — 13:11:03 UTC	Lanvin, Pimak, PMP	22	5	25
+392576	5	30	White-Ones (6 Suits)	2021-01-04 — 19:08:03 UTC	IsabeltheCat, knaphill, Lanvin, nkkarpov, Pimak	3	6	30
+392561	3	22	No Variant	2021-01-04 — 18:32:12 UTC	knaphill, macanek, Pimak	285	5	25
+392542	4	24	No Variant	2021-01-04 — 17:18:08 UTC	banjoleb, ChristopheAF, Pimak, tezeteta	167	5	25
+392527	5	24	No Variant	2021-01-04 — 16:45:37 UTC	ChristopheAF, HelanaAshryvr, Lanvin, Pimak, tezeteta	135	5	25
+392512	4	0	No Variant	2021-01-04 — 16:24:25 UTC	ChristopheAF, Lanvin, Pimak, tezeteta	180	5	25
+392501	3	25	Light Pink (5 Suits)	2021-01-04 — 16:01:09 UTC	ChristopheAF, Lanvin, Pimak	40	5	25
+392489	5	20	Black & White (5 Suits)	2021-01-04 — 15:31:37 UTC	hakha3, Lanvin, Lel0uch, Pimak, Wittvector	4	5	25
+392470	5	0	Black & White (5 Suits)	2021-01-04 — 15:08:26 UTC	hakha3, Lanvin, Lel0uch, Pimak, Wittvector	5	5	25
+392462	5	21	Black & White (5 Suits)	2021-01-04 — 14:49:47 UTC	hakha3, Lanvin, Lel0uch, Pimak, Wittvector	7	5	25
+392456	4	25	No Variant	2021-01-04 — 14:22:53 UTC	Lel0uch, Pimak, Plum, Wittvector	198	5	25
+391605	4	25	No Variant	2021-01-03 — 19:19:08 UTC	Nitrate, Pimak, tezeteta, XMIL	48	5	25
+391568	4	0	No Variant	2021-01-03 — 18:42:28 UTC	macanek, Nitrate, Pimak, tezeteta	233	5	25
+390621	4	25	No Variant	2021-01-02 — 21:38:36 UTC	HariKrishnan, Pimak, rahsosprout, Spieler42	287	5	25
+390580	4	0	No Variant	2021-01-02 — 21:03:27 UTC	HariKrishnan, Pimak, rahsosprout, Spieler42	384	5	25
+390551	4	24	No Variant	2021-01-02 — 20:40:58 UTC	CaitlinSmith, HariKrishnan, Pimak, Spieler42	373	5	25
+390464	3	0	Brown (5 Suits)	2021-01-02 — 19:00:44 UTC	Padouga, Pimak, XMIL	11	5	25
+390435	3	0	Brown (5 Suits)	2021-01-02 — 18:40:53 UTC	Padouga, Pimak, XMIL	13	5	25
+390416	4	23	Black (5 Suits)	2021-01-02 — 18:19:06 UTC	Kaznad, Padouga, Pimak, XMIL	32	5	25
+390377	4	25	No Variant	2021-01-02 — 17:10:44 UTC	Kaznad, Kernel, Pimak, Spruelo	36	5	25
+390349	4	0	No Variant	2021-01-02 — 16:42:27 UTC	Kaznad, Kernel, Pimak, Spruelo	39	5	25
+390334	4	19	No Variant	2021-01-02 — 16:14:53 UTC	Kaznad, Kernel, Pimak, Spruelo	39	5	25
+387983	4	25	White (5 Suits)	2020-12-31 — 04:52:56 UTC	Olipod, Padouga, Pimak, XMIL	12	5	25
+387943	4	0	White (5 Suits)	2020-12-31 — 04:19:50 UTC	Olipod, Padouga, Pimak, XMIL	13	5	25
+387891	5	24	Prism (5 Suits)	2020-12-31 — 03:47:52 UTC	bob65536, doctorabi, Padouga, Pimak, XMIL	13	5	25
+387860	5	0	Prism (5 Suits)	2020-12-31 — 03:22:06 UTC	bob65536, doctorabi, Padouga, Pimak, XMIL	20	5	25
+387641	4	0	White (6 Suits)	2020-12-31 — 00:11:01 UTC	eljavi, Lanvin, oliana, Pimak	27	6	30
+387611	4	0	White (6 Suits)	2020-12-30 — 23:29:52 UTC	eljavi, Lanvin, oliana, Pimak	29	6	30
+387603	4	24	Black & White (5 Suits)	2020-12-30 — 23:05:49 UTC	Lanvin, Pimak, sephiroth, swineherd	7	5	25
+387591	4	0	Totally Blind (6 Suits)	2020-12-30 — 22:36:29 UTC	Daryl, Lanvin, macanek, Pimak	8	6	30
+383171	4	0	Black (5 Suits)	2020-12-26 — 22:50:58 UTC	Alix_Eisenhardt, Kaznad, Padouga, Pimak	41	5	25
+383136	4	23	Black (5 Suits)	2020-12-26 — 22:23:50 UTC	Alix_Eisenhardt, Kaznad, Padouga, Pimak	44	5	25
+377309	3	0	No Variant	2020-12-21 — 01:28:29 UTC	Kaznad, Padouga, Pimak	16	5	25
+377278	3	0	No Variant	2020-12-21 — 01:01:36 UTC	Kaznad, Padouga, Pimak	16	5	25
+377270	3	0	No Variant	2020-12-21 — 00:53:24 UTC	Kaznad, Padouga, Pimak	16	5	25
+377248	4	23	No Variant	2020-12-21 — 00:31:28 UTC	Alix_Eisenhardt, Kaznad, Padouga, Pimak	43	5	25
+377173	3	25	No Variant	2020-12-20 — 22:55:44 UTC	HariKrishnan, kinkajusrevenge, Pimak	645	5	25
+377135	3	0	No Variant	2020-12-20 — 22:23:08 UTC	HariKrishnan, kinkajusrevenge, Pimak	680	5	25
+377080	5	24	No Variant	2020-12-20 — 21:50:44 UTC	Daryl, HariKrishnan, kinkajusrevenge, Lanvin, Pimak	541	5	25
+376853	3	23	Rainbow-Ones (5 Suits)	2020-12-20 — 17:21:28 UTC	Alix_Eisenhardt, Padouga, Pimak	14	5	25
+376844	3	0	Rainbow-Ones (5 Suits)	2020-12-20 — 16:53:17 UTC	Alix_Eisenhardt, Padouga, Pimak	18	5	25
+376839	4	23	Rainbow-Ones (5 Suits)	2020-12-20 — 16:34:03 UTC	Alix_Eisenhardt, Kernel, Padouga, Pimak	12	5	25
+376821	4	25	Rainbow & Prism (5 Suits)	2020-12-20 — 15:57:31 UTC	Alix_Eisenhardt, Kernel, Padouga, Pimak	16	5	25
+362976	4	29	Rainbow (6 Suits)	2020-12-07 — 00:56:46 UTC	florrat2, Libster, NoMercy, Pimak	1	6	30
+362842	4	29	Dark Prism (6 Suits)	2020-12-06 — 22:54:20 UTC	derekcheah, Kyle, Pimak, willwin4sure	8	6	30
+355890	5	19	White (4 Suits)	2020-11-28 — 15:31:42 UTC	Carunty, Div, Onen, Pablo-, Pimak	4	4	20
+355887	4	0	White & Brown (6 Suits)	2020-11-28 — 15:15:22 UTC	Carunty, Div, Pablo-, Pimak	6	6	30
+355885	4	30	White & Brown (6 Suits)	2020-11-28 — 14:59:01 UTC	Carunty, Div, Pablo-, Pimak	9	6	30
+355882	3	0	Rainbow & White (6 Suits)	2020-11-28 — 14:39:49 UTC	Carunty, Pablo-, Pimak	19	6	30
+355881	3	0	Rainbow & White (6 Suits)	2020-11-28 — 14:37:09 UTC	Carunty, Pablo-, Pimak	24	6	30
+355880	3	0	Rainbow & White (6 Suits)	2020-11-28 — 14:31:09 UTC	Carunty, Pablo-, Pimak	32	6	30
+355878	3	0	Rainbow & White (6 Suits)	2020-11-28 — 14:15:50 UTC	Carunty, Pablo-, Pimak	46	6	30
+355858	5	0	Dark Prism (6 Suits)	2020-11-28 — 12:06:17 UTC	Lel0uch, Pimak, rachyrules, sin_faith, Sucubis	10	6	30
+355854	5	0	Dark Prism (6 Suits)	2020-11-28 — 11:49:10 UTC	Lel0uch, Pimak, rachyrules, sin_faith, Sucubis	14	6	30
+355071	5	0	Light Pink (5 Suits)	2020-11-27 — 13:35:49 UTC	Carunty, Pimak, robense, sin_faith, swineherd	7	5	25
+354642	5	24	Muddy Rainbow (5 Suits)	2020-11-26 — 23:56:48 UTC	antitelharsic, Kyle, melwen, Pablo-, Pimak	3	5	25
+354634	4	0	No Variant	2020-11-26 — 23:17:53 UTC	bob65536, ejwu, Kyle, Pimak	17	5	25
+354621	6	0	No Variant	2020-11-26 — 22:49:55 UTC	bob65536, doctorabi, ejwu, frosty104, Kyle, Pimak	19	5	25
+354365	3	0	White & Prism (5 Suits)	2020-11-26 — 14:54:07 UTC	kimbifille, Pimak, Tiramisu1th	17	5	25
+354328	3	30	Black (6 Suits)	2020-11-26 — 11:28:46 UTC	Carunty, Lel0uch, Pimak	261	6	30
+354324	3	29	Black (6 Suits)	2020-11-26 — 11:07:55 UTC	Carunty, Lel0uch, Pimak	325	6	30
+354320	4	0	Dual-Color (6 Suits)	2020-11-26 — 10:37:40 UTC	Carunty, Lel0uch, melwen, Pimak	39	6	30
+354314	6	0	Rainbow (4 Suits)	2020-11-26 — 10:15:20 UTC	Carunty, catula, derekcheah, melwen, Pimak, sin_faith	6	4	20
+353062	2	21	No Variant	2020-11-24 — 23:05:33 UTC	Eiifos, Pimak	315	5	25
+353050	2	20	No Variant	2020-11-24 — 22:34:29 UTC	Eiifos, Pimak	321	5	25
+351641	3	24	Brown (5 Suits)	2020-11-23 — 11:15:04 UTC	catula, Pimak, sephiroth	23	5	25
+351638	5	30	Pink (6 Suits)	2020-11-23 — 10:41:31 UTC	catula, jack67889, Pimak, sephiroth, Sucubis	5	6	30
+341184	4	30	Prism (6 Suits)	2020-11-11 — 23:57:47 UTC	Carunty, doctorabi, Pimak, superbipbip	22	6	30
+341179	4	0	Prism (6 Suits)	2020-11-11 — 23:34:17 UTC	Carunty, doctorabi, Pimak, superbipbip	26	6	30
+341176	4	0	Prism (6 Suits)	2020-11-11 — 23:20:52 UTC	Carunty, doctorabi, Pimak, superbipbip	35	6	30
+341164	4	25	No Variant	2020-11-11 — 22:58:38 UTC	Carunty, doctorabi, Pimak, superbipbip	74	5	25
+273514	4	25	Rainbow (5 Suits)	2020-08-17 — 18:05:23 UTC	Kyle, Pimak, swineherd, timotree	2	5	25
+264509	4	25	No Variant	2020-08-07 — 22:32:20 UTC	Clarendon, Pimak, swineherd, Wittvector	162	5	25
+264482	4	23	No Variant	2020-08-07 — 21:58:57 UTC	Clarendon, Pimak, swineherd, Wittvector	278	5	25
+240786	5	24	No Variant	2020-07-15 — 21:46:49 UTC	guava, ligal45, marie1337a, Pimak, Smandon	658	5	25
+240750	4	0	No Variant	2020-07-15 — 21:14:12 UTC	guava, ligal45, Pimak, Smandon	2076	5	25
+240713	5	23	No Variant	2020-07-15 — 20:59:41 UTC	guava, imu_96, ligal45, Pimak, Smandon	383	5	25
+215185	2	0	Black & White (6 Suits)	2020-06-22 — 17:23:53 UTC	DrJones, Pimak	69	6	30
+215179	2	25	No Variant	2020-06-22 — 17:01:37 UTC	DrJones, Pimak	328	5	25
+191745	4	23	No Variant	2020-06-02 — 20:25:56 UTC	ligal, MarekU, Pimak, tyrcho	2763	5	25
+191705	3	24	No Variant	2020-06-02 — 19:46:58 UTC	ligal, MarekU, Pimak	1465	5	25
+191664	3	25	No Variant	2020-06-02 — 19:15:31 UTC	ligal, MarekU, Pimak	1636	5	25
+191630	3	23	No Variant	2020-06-02 — 18:34:22 UTC	ligal, MarekU, Pimak	1881	5	25
+191619	4	0	No Variant	2020-06-02 — 18:04:41 UTC	darmonte, ligal, MarekU, Pimak	3581	5	25
+191602	3	24	No Variant	2020-06-02 — 17:40:33 UTC	ligal, Pimak, tyrcho	750	5	25
+190586	4	25	No Variant	2020-06-01 — 19:43:36 UTC	Alix_Eisenhardt, Le_Codex, ligal, Pimak	419	5	25
+190564	5	22	No Variant	2020-06-01 — 19:09:31 UTC	Alix_Eisenhardt, Le_Codex, ligal, Padouga, Pimak	457	5	25
+190548	4	23	No Variant	2020-06-01 — 18:32:10 UTC	Le_Codex, Monthaonos, Padouga, Pimak	442	5	25
+190524	4	0	No Variant	2020-06-01 — 17:49:20 UTC	Alix_Eisenhardt, Le_Codex, Padouga, Pimak	473	5	25
+190479	2	23	No Variant	2020-06-01 — 15:58:39 UTC	Nils, Pimak	335	5	25
+190460	4	0	No Variant	2020-06-01 — 15:27:33 UTC	asaelr, pianoblook, Pimak, sephiroth	19	5	25
+189714	2	24	No Variant	2020-05-31 — 23:57:48 UTC	ligal, Pimak	344	5	25
+189696	2	23	No Variant	2020-05-31 — 23:44:14 UTC	ligal, Pimak	348	5	25
+189687	2	0	No Variant	2020-05-31 — 23:33:42 UTC	ligal, Pimak	354	5	25
+189674	2	21	No Variant	2020-05-31 — 23:26:46 UTC	ligal, Pimak	357	5	25
+189660	2	0	No Variant	2020-05-31 — 23:12:04 UTC	ligal, Pimak	362	5	25
+189640	2	23	No Variant	2020-05-31 — 23:00:29 UTC	ligal, Pimak	369	5	25
+189618	2	24	No Variant	2020-05-31 — 22:45:36 UTC	ligal, Pimak	381	5	25
+189597	2	24	No Variant	2020-05-31 — 22:30:45 UTC	ligal, Pimak	387	5	25
+189580	2	23	No Variant	2020-05-31 — 22:17:39 UTC	ligal, Pimak	393	5	25
+189569	2	23	No Variant	2020-05-31 — 22:08:14 UTC	ligal, Pimak	393	5	25
+189539	2	23	No Variant	2020-05-31 — 21:51:58 UTC	ligal, Pimak	406	5	25
+189528	2	19	No Variant	2020-05-31 — 21:40:20 UTC	ligal, Pimak	411	5	25
+189515	2	0	No Variant	2020-05-31 — 21:29:25 UTC	ligal, Pimak	423	5	25
+189502	2	24	No Variant	2020-05-31 — 21:21:27 UTC	ligal, Pimak	432	5	25
+189486	2	23	No Variant	2020-05-31 — 21:08:27 UTC	ligal, Pimak	440	5	25
+185499	2	24	No Variant	2020-05-28 — 23:33:37 UTC	ligal, Pimak	450	5	25
+182744	6	28	White (6 Suits)	2020-05-26 — 18:55:59 UTC	Floriman, Lilliana, pianoblook, Pimak, sephiroth, TimeHoodie	6	6	30
+182462	2	25	No Variant	2020-05-26 — 07:57:12 UTC	ligal, Pimak	455	5	25
+182458	2	19	No Variant	2020-05-26 — 07:41:58 UTC	ligal, Pimak	458	5	25
+182453	2	0	No Variant	2020-05-26 — 07:29:53 UTC	ligal, Pimak	476	5	25
+182441	2	0	No Variant	2020-05-26 — 07:17:29 UTC	ligal, Pimak	496	5	25
+182434	2	24	No Variant	2020-05-26 — 07:04:50 UTC	ligal, Pimak	506	5	25
+182432	2	23	No Variant	2020-05-26 — 06:55:58 UTC	ligal, Pimak	513	5	25
+182424	2	0	No Variant	2020-05-26 — 06:46:31 UTC	ligal, Pimak	526	5	25
+182421	2	21	No Variant	2020-05-26 — 06:39:39 UTC	ligal, Pimak	534	5	25
+182413	2	23	No Variant	2020-05-26 — 06:26:22 UTC	ligal, Pimak	549	5	25
+182408	2	22	No Variant	2020-05-26 — 06:17:37 UTC	ligal, Pimak	555	5	25
+182397	2	25	No Variant	2020-05-26 — 06:01:07 UTC	ligal, Pimak	581	5	25
+182383	2	24	No Variant	2020-05-26 — 05:46:46 UTC	ligal, Pimak	593	5	25
+182363	2	23	No Variant	2020-05-26 — 05:31:46 UTC	ligal, Pimak	597	5	25
+182349	2	0	No Variant	2020-05-26 — 05:23:11 UTC	ligal, Pimak	626	5	25
+182336	2	0	No Variant	2020-05-26 — 05:11:32 UTC	ligal, Pimak	654	5	25
+182323	2	19	No Variant	2020-05-26 — 05:02:23 UTC	ligal, Pimak	677	5	25
+182311	2	0	No Variant	2020-05-26 — 04:51:54 UTC	ligal, Pimak	699	5	25
+182306	2	0	No Variant	2020-05-26 — 04:49:02 UTC	ligal, Pimak	719	5	25
+182296	2	23	No Variant	2020-05-26 — 04:42:08 UTC	ligal, Pimak	741	5	25
+182271	2	0	No Variant	2020-05-26 — 04:25:33 UTC	ligal, Pimak	794	5	25
+182260	2	0	No Variant	2020-05-26 — 04:17:49 UTC	ligal, Pimak	818	5	25
+182239	2	0	No Variant	2020-05-26 — 04:10:29 UTC	ligal, Pimak	854	5	25
+182225	2	21	No Variant	2020-05-26 — 04:03:29 UTC	ligal, Pimak	883	5	25
+182203	2	0	No Variant	2020-05-26 — 03:50:14 UTC	ligal, Pimak	921	5	25
+182172	2	24	No Variant	2020-05-26 — 03:35:35 UTC	ligal, Pimak	948	5	25
+182157	2	25	No Variant	2020-05-26 — 03:22:39 UTC	ligal, Pimak	976	5	25
+182144	2	0	No Variant	2020-05-26 — 03:14:36 UTC	ligal, Pimak	1031	5	25
+182143	2	0	No Variant	2020-05-26 — 03:13:20 UTC	ligal, Pimak	1078	5	25
+182139	2	24	No Variant	2020-05-26 — 03:10:10 UTC	ligal, Pimak	1117	5	25
+182121	2	23	No Variant	2020-05-26 — 02:56:46 UTC	ligal, Pimak	1148	5	25
+182096	2	23	No Variant	2020-05-26 — 02:40:42 UTC	ligal, Pimak	1206	5	25
+182073	2	0	No Variant	2020-05-26 — 02:28:30 UTC	ligal, Pimak	1249	5	25
+182039	2	23	No Variant	2020-05-26 — 02:15:29 UTC	ligal, Pimak	1299	5	25
+181974	2	22	No Variant	2020-05-26 — 01:54:11 UTC	ligal, Pimak	1376	5	25
+181944	2	0	No Variant	2020-05-26 — 01:40:13 UTC	ligal, Pimak	1448	5	25
+181920	2	21	No Variant	2020-05-26 — 01:27:09 UTC	ligal, Pimak	1532	5	25
+181883	2	22	No Variant	2020-05-26 — 01:04:27 UTC	ligal, Pimak	1621	5	25
+181857	2	0	No Variant	2020-05-26 — 00:40:46 UTC	ligal, Pimak	1703	5	25
+181849	2	0	No Variant	2020-05-26 — 00:35:56 UTC	ligal, Pimak	1840	5	25
+181838	2	0	No Variant	2020-05-26 — 00:24:35 UTC	ligal, Pimak	1952	5	25
+181811	2	24	No Variant	2020-05-26 — 00:03:24 UTC	ligal, Pimak	2147	5	25
+181794	2	21	No Variant	2020-05-25 — 23:41:30 UTC	ligal, Pimak	4109	5	25
+181779	2	0	No Variant	2020-05-25 — 23:25:33 UTC	ligal, Pimak	5374	5	25
+180409	4	0	Rainbow (5 Suits)	2020-05-25 — 00:01:54 UTC	melwen, Nitrate2, Pimak, swineherd	42	5	25
+180370	4	0	Rainbow (5 Suits)	2020-05-24 — 23:20:48 UTC	melwen, Nitrate2, Pimak, swineherd	63	5	25
+180304	4	24	No Variant	2020-05-24 — 22:18:49 UTC	asaelr, gomesdos2u, JDepp, Pimak	23	5	25
+180250	4	0	No Variant	2020-05-24 — 21:46:32 UTC	asaelr, gomesdos2u, JDepp, Pimak	23	5	25
+177358	5	21	No Variant	2020-05-23 — 01:18:58 UTC	Alix_Eisenhardt, gomesdos2u, Lasior, Padouga, Pimak	837	5	25
+177276	5	22	No Variant	2020-05-23 — 00:20:51 UTC	Alix_Eisenhardt, gomesdos2u, Kaznad, Padouga, Pimak	1119	5	25
+177203	5	0	No Variant	2020-05-22 — 23:25:21 UTC	Alix_Eisenhardt, gomesdos2u, Kaznad, Padouga, Pimak	1510	5	25
+177137	4	20	No Variant	2020-05-22 — 22:26:17 UTC	Lilliana, mikefrenil, Pimak, swineherd	501	5	25
+174591	3	0	No Variant	2020-05-21 — 00:07:20 UTC	Dr_Kakashi, melwen, Pimak	30	5	25
+174575	3	0	No Variant	2020-05-20 — 23:54:04 UTC	Dr_Kakashi, MasN, Pimak	30	5	25
+174560	4	0	No Variant	2020-05-20 — 23:36:09 UTC	MasN, Pimak, sephiroth, TheDaniMan	243	5	25
+174538	4	0	No Variant	2020-05-20 — 23:13:20 UTC	MasN, Pimak, sephiroth, TheDaniMan	326	5	25
+174519	4	24	No Variant	2020-05-20 — 22:47:36 UTC	MasN, Pimak, sephiroth, TheDaniMan	336	5	25
+174186	5	24	No Variant	2020-05-20 — 18:18:04 UTC	anna567, honzas, JDepp, Pimak, swineherd	176	5	25
+170074	4	29	Rainbow (6 Suits)	2020-05-17 — 09:13:39 UTC	Aluap, antitelharsic, derekcheah, Pimak	238	6	30
+159372	4	25	No Variant	2020-05-10 — 00:10:27 UTC	Kyle, Pimak, TimeHoodie, XMIL	26	5	25
+159342	3	0	No Variant	2020-05-09 — 23:53:44 UTC	Kyle, Pimak, TimeHoodie	89	5	25
+159329	3	24	No Variant	2020-05-09 — 23:45:46 UTC	Kyle, Pimak, TimeHoodie	101	5	25
+129037	4	27	Rainbow (6 Suits)	2020-04-19 — 16:40:07 UTC	arnino, joaep2, LaFayetteX, Pimak	344	6	30
+126885	4	0	Null (5 Suits)	2020-04-18 — 10:21:38 UTC	bulbasaur, Dr_Kakashi, Pimak, sin_faith	4	5	25
+126874	4	0	Null (5 Suits)	2020-04-18 — 10:01:06 UTC	bulbasaur, Dr_Kakashi, Pimak, sin_faith	4	5	25
+126863	2	20	No Variant	2020-04-18 — 09:32:18 UTC	Dr_Kakashi, Pimak	142	5	25
+126857	2	24	No Variant	2020-04-18 — 09:13:54 UTC	Pimak, ratakiina	770	5	25
+111477	3	25	No Variant	2020-04-06 — 16:07:55 UTC	LaFayetteX, Maverick, Pimak	940	5	25
+111466	3	22	No Variant	2020-04-06 — 15:38:04 UTC	LaFayetteX, Maverick, Pimak	1017	5	25
+111454	2	0	No Variant	2020-04-06 — 15:12:31 UTC	Pimak, rosa-lilie-2008	2532	5	25
+101602	5	22	White (5 Suits)	2020-03-29 — 19:39:52 UTC	CompleteTrust, Dr_Kakashi, FullPunish, Pimak, YacineH	10	5	25
+101556	6	30	Rainbow (6 Suits)	2020-03-29 — 19:03:14 UTC	aladdin3, Dr_Kakashi, FullPunish, Kyle, Pimak, YacineH	33	6	30
+101537	4	0	Rainbow (6 Suits)	2020-03-29 — 18:39:06 UTC	aladdin3, FullPunish, Pimak, Sindhuja	493	6	30
+101511	4	0	No Variant	2020-03-29 — 18:01:27 UTC	alphabeta, kodomazer, Pimak, Zakisan	190	5	25
+101496	4	0	No Variant	2020-03-29 — 17:37:26 UTC	alphabeta, kodomazer, Pimak, Zakisan	213	5	25
+101481	4	25	No Variant	2020-03-29 — 17:13:13 UTC	kodomazer, padi, Pimak, Zakisan	257	5	25
+94512	5	25	No Variant	2020-03-22 — 21:07:34 UTC	asaelr, Jake_Stiles, Pimak, Sucubis, Valetta6789	17	5	25
+94492	5	0	No Variant	2020-03-22 — 20:48:00 UTC	asaelr, Jake_Stiles, Pimak, Sucubis, Valetta6789	15	5	25
+94476	5	0	No Variant	2020-03-22 — 20:36:14 UTC	asaelr, Jake_Stiles, Pimak, Sucubis, Valetta6789	16	5	25
+94463	5	0	No Variant	2020-03-22 — 20:25:41 UTC	asaelr, Jake_Stiles, Pimak, Sucubis, Valetta6789	25	5	25
+94344	6	0	No Variant	2020-03-22 — 15:49:05 UTC	charmander, fow, Nils, padi, Pimak, sin_faith	179	5	25
+94327	4	0	No Variant	2020-03-22 — 14:52:02 UTC	padi, Pimak, sin_faith, YacineH	601	5	25
+94323	4	24	No Variant	2020-03-22 — 14:04:16 UTC	charmander, Pimak, sin_faith, YacineH	655	5	25
+94317	4	0	No Variant	2020-03-22 — 13:28:11 UTC	charmander, Pimak, sin_faith, YacineH	1744	5	25
+93396	3	25	No Variant	2020-03-21 — 16:24:58 UTC	Alix_Eisenhardt, Padouga, Pimak	2606	5	25
+93368	3	0	No Variant	2020-03-21 — 15:23:18 UTC	Alix_Eisenhardt, Padouga, Pimak	4221	5	25
+92056	4	30	Rainbow (6 Suits)	2020-03-19 — 18:19:50 UTC	bulbasaur, pikachuuu, Pimak, Zamiel	3	6	30
+74941	4	0	Rainbow (5 Suits)	2020-01-11 — 14:11:50 UTC	Dr_Kakashi, Fireheart, Pimak, Valetta6789	7	5	25
+74940	4	0	Rainbow (5 Suits)	2020-01-11 — 13:52:24 UTC	Dr_Kakashi, Fireheart, Pimak, Valetta6789	7	5	25
+74934	4	22	No Variant	2020-01-11 — 13:19:19 UTC	arnd, Pimak, Shos, wortel	541	5	25
+74927	4	0	No Variant	2020-01-11 — 12:53:00 UTC	arnd, Pimak, Shos, wortel	717	5	25
+74922	4	23	No Variant	2020-01-11 — 12:22:38 UTC	arnd, Pimak, Shos, wortel	899	5	25
+57468	4	0	No Variant	2019-10-03 — 20:03:05 UTC	Pimak, scharkbite, Valetta6789, Zamiel	1	5	25
+56279	5	28	Rainbow (6 Suits)	2019-09-24 — 23:38:41 UTC	kodomazer, Kyle, micerang, NoMercy, Pimak	22	6	30
+56278	4	25	No Variant	2019-09-24 — 23:05:03 UTC	kodomazer, micerang, NoMercy, Pimak	61	5	25
+56276	4	21	No Variant	2019-09-24 — 22:39:44 UTC	asaelr, kodomazer, micerang, Pimak	64	5	25
+56273	4	0	No Variant	2019-09-24 — 22:18:54 UTC	asaelr, kodomazer, micerang, Pimak	64	5	25
+56272	4	25	No Variant	2019-09-24 — 21:58:49 UTC	cequoy, Pimak, Romain672, Valetta6789	793	5	25
+56262	6	0	No Variant	2019-09-24 — 20:33:20 UTC	asaelr, cequoy, JeffD, Pimak, Romain672, Valetta6789	42	5	25
+55124	3	0	6 Suits	2019-09-16 — 19:14:41 UTC	asaelr, Pimak, Valetta6789	22	6	30
+55121	6	0	6 Suits	2019-09-16 — 18:41:53 UTC	Floriman, Kyle, Livia, Pimak, Romain672, wortel	50	6	30
+55099	2	28	White (6 Suits)	2019-09-16 — 13:20:02 UTC	Fireheart, Pimak	77	6	30
+55098	2	0	White (6 Suits)	2019-09-16 — 13:06:00 UTC	Fireheart, Pimak	100	6	30
+55075	3	0	No Variant	2019-09-16 — 09:37:20 UTC	Pimak, riking, Valetta6789	3260	5	25
+52228	2	0	Black (5 Suits)	2019-08-28 — 16:56:03 UTC	Kyle, Pimak	27	5	25
+50881	5	16	Rainbow (4 Suits)	2019-08-18 — 19:43:43 UTC	anser, Dr_Kakashi, invarse, Livia, Pimak	20	4	20
+50872	6	0	Rainbow (5 Suits)	2019-08-18 — 18:46:42 UTC	Dr_Kakashi, Livia, Maiorskills, micerang, Pimak, Ptheven	8	5	25
+50866	5	0	Pink-Fives (6 Suits)	2019-08-18 — 18:11:12 UTC	Dr_Kakashi, Livia, micerang, Pimak, Ptheven	4	6	30
+50497	3	0	Gray (5 Suits)	2019-08-15 — 23:03:28 UTC	invarse, Pimak, Zamiel	11	5	25
+50496	3	0	Gray (5 Suits)	2019-08-15 — 22:51:26 UTC	invarse, Pimak, Zamiel	12	5	25
+50494	3	0	Gray (5 Suits)	2019-08-15 — 22:40:42 UTC	invarse, Pimak, Zamiel	17	5	25
+50493	3	0	Gray (5 Suits)	2019-08-15 — 22:27:07 UTC	invarse, Pimak, Zamiel	16	5	25
+50491	3	0	Gray (5 Suits)	2019-08-15 — 21:50:04 UTC	invarse, Pimak, Zamiel	20	5	25
+50490	2	0	Rainbow & Pink (6 Suits)	2019-08-15 — 21:37:04 UTC	Pimak, Zamiel	15	6	30
+50489	3	23	Gray (5 Suits)	2019-08-15 — 21:29:52 UTC	Kyle, Pimak, Zamiel	19	5	25
+50487	3	0	Gray (5 Suits)	2019-08-15 — 21:12:00 UTC	Kyle, Pimak, Zamiel	21	5	25
+50485	3	0	Gray (5 Suits)	2019-08-15 — 21:04:15 UTC	Kyle, Pimak, Zamiel	26	5	25
+50484	5	0	Black & White (6 Suits)	2019-08-15 — 20:40:33 UTC	Kyle, Livia, Pimak, Sucubis, Zamiel	10	6	30
+50481	6	25	Rainbow (5 Suits)	2019-08-15 — 20:17:08 UTC	Kyle, Libster, Livia, Pimak, Sucubis, Zamiel	7	5	25
+50479	4	24	Rainbow (5 Suits)	2019-08-15 — 19:32:02 UTC	Kyle, Libster, Livia, Pimak	68	5	25
+50478	5	24	Rainbow (5 Suits)	2019-08-15 — 18:59:01 UTC	Dr_Kakashi, Kyle, Livia, Pimak, scharkbite	12	5	25
+49818	4	21	No Variant	2019-08-10 — 00:35:38 UTC	Cory, Kyle, micerang, Pimak	71	5	25
+49814	6	21	Dual-Color (5 Suits)	2019-08-09 — 23:50:36 UTC	Cory, Kyle, Maiorskills, micerang, Pimak, Sucubis	2	5	25
+49812	5	0	Dual-Color (5 Suits)	2019-08-09 — 23:20:17 UTC	Kyle, Maiorskills, micerang, Pimak, Sucubis	15	5	25
+49694	4	14	3 Suits	2019-08-08 — 20:41:40 UTC	anser, moocow, Pimak, snakin	62	3	15
+49635	2	21	No Variant	2019-08-08 — 04:23:02 UTC	Pimak, rft50	2288	5	25
+49632	2	0	No Variant	2019-08-08 — 04:12:22 UTC	Pimak, rft50	2750	5	25
+49630	2	22	No Variant	2019-08-08 — 04:02:48 UTC	Pimak, rft50	3051	5	25
+49628	2	22	No Variant	2019-08-08 — 03:44:18 UTC	Pimak, rft50	3507	5	25
+49620	4	22	No Variant	2019-08-08 — 03:11:11 UTC	Dr_Kakashi, Jake_Stiles, Pimak, rft50	1253	5	25
+49618	3	0	No Variant	2019-08-08 — 02:43:51 UTC	Fireheart, Jake_Stiles, Pimak	840	5	25
+49614	4	25	No Variant	2019-08-08 — 02:21:04 UTC	Fireheart, Jake_Stiles, Pimak, Ptheven	1092	5	25
+49432	4	28	6 Suits	2019-08-06 — 14:49:20 UTC	asaelr, Dr_Kakashi, Kyle, Pimak	19	6	30
+49429	4	0	6 Suits	2019-08-06 — 14:17:48 UTC	asaelr, Dr_Kakashi, Kyle, Pimak	20	6	30
+49428	3	25	No Variant	2019-08-06 — 13:55:46 UTC	Dr_Kakashi, Kyle, Pimak	422	5	25
+49366	4	18	4 Suits	2019-08-06 — 01:21:39 UTC	Jake_Stiles, Libster, Pimak, Ptheven	77	4	20
+49362	3	0	4 Suits	2019-08-06 — 01:03:09 UTC	Fireheart, Pimak, Razvogor	160	4	20
+49358	5	20	No Variant	2019-08-06 — 00:28:17 UTC	Ahming, Fireheart, Jake_Stiles, Pimak, Razvogor	1995	5	25
+49356	4	25	No Variant	2019-08-05 — 23:59:08 UTC	Cory, Jake_Stiles, Pimak, Ptheven	68	5	25
+49355	3	0	No Variant	2019-08-05 — 23:34:07 UTC	Cory, Pimak, Ptheven	187	5	25
+49353	4	25	No Variant	2019-08-05 — 23:13:33 UTC	Cory, Libster, Pimak, Will	12	5	25
+49351	4	24	No Variant	2019-08-05 — 22:35:28 UTC	anser, asaelr, Kyle, Pimak	125	5	25
+49348	4	25	No Variant	2019-08-05 — 22:11:34 UTC	anser, asaelr, Kyle, Pimak	138	5	25
+49341	3	0	No Variant	2019-08-05 — 21:42:17 UTC	DMoney, Kyle, Pimak	1095	5	25
+49339	3	0	No Variant	2019-08-05 — 21:16:00 UTC	DMoney, Kyle, Pimak	1174	5	25
+49337	5	17	4 Suits	2019-08-05 — 20:52:00 UTC	Dr_Kakashi, Kyle, Libster, Pimak, Razvogor	3	4	20
+49336	5	0	4 Suits	2019-08-05 — 20:33:17 UTC	Dr_Kakashi, Kyle, Libster, Pimak, Razvogor	3	4	20
+49325	3	0	No Variant	2019-08-05 — 18:12:32 UTC	Dr_Kakashi, Kyle, Pimak	516	5	25
+49324	4	23	No Variant	2019-08-05 — 17:55:50 UTC	Dr_Kakashi, Kyle, micerang, Pimak	81	5	25
+49323	3	26	6 Suits	2019-08-05 — 17:11:25 UTC	Dr_Kakashi, Kyle, Pimak	66	6	30
+49287	4	24	No Variant	2019-08-05 — 02:56:35 UTC	Dr_Kakashi, Pimak, Ptheven, qqqq	308	5	25
+49279	4	24	No Variant	2019-08-05 — 02:19:55 UTC	Cory, ggwpgg, Jake_Stiles, Pimak	74	5	25
+49277	4	22	No Variant	2019-08-05 — 01:54:10 UTC	Cory, ggwpgg, Jake_Stiles, Pimak	985	5	25
+49272	4	24	No Variant	2019-08-05 — 01:21:08 UTC	Dr_Kakashi, ggwpgg, Jake_Stiles, Pimak	1449	5	25
+49271	6	0	No Variant	2019-08-05 — 00:37:29 UTC	Dr_Kakashi, ggwpgg, invarse, Jake_Stiles, micerang, Pimak	75	5	25
+49266	3	25	No Variant	2019-08-04 — 23:12:42 UTC	awe, micerang, Pimak	119	5	25
+49263	6	0	No Variant	2019-08-04 — 22:41:30 UTC	anser, awe, ggwpgg, Libster, micerang, Pimak	11	5	25
+49262	6	0	No Variant	2019-08-04 — 22:04:39 UTC	anser, asaelr, awe, ggwpgg, Libster, Pimak	10	5	25
+49261	6	0	No Variant	2019-08-04 — 21:42:26 UTC	anser, asaelr, awe, Cory, ggwpgg, Pimak	115	5	25
+49259	3	21	No Variant	2019-08-04 — 21:11:04 UTC	Ahming, Cory, Pimak	194	5	25
+49255	3	0	No Variant	2019-08-04 — 20:50:16 UTC	Ahming, Cory, Pimak	199	5	25
+49252	3	23	No Variant	2019-08-04 — 20:29:47 UTC	Cory, Pimak, Ptheven	259	5	25
+49239	4	0	No Variant	2019-08-04 — 19:48:29 UTC	asaelr, ggwpgg, Pimak, Ptheven	158	5	25
+49232	2	30	6 Suits	2019-08-04 — 19:22:02 UTC	asaelr, Pimak	274	6	30
+49216	4	21	No Variant	2019-08-04 — 18:41:32 UTC	ggwpgg, hanabornoob, micerang, Pimak	90	5	25
+49212	3	20	4 Suits	2019-08-04 — 16:30:32 UTC	Ahming, awe, Pimak	118	4	20
+49211	3	0	No Variant	2019-08-04 — 16:10:41 UTC	Ahming, awe, Pimak	201	5	25
+49210	4	0	White (5 Suits)	2019-08-04 — 15:54:26 UTC	asaelr, awe, Dr_Kakashi, Pimak	79	5	25
+49208	4	30	Rainbow (6 Suits)	2019-08-04 — 15:06:57 UTC	Ahming, awe, NoMercy, Pimak	19	6	30
+49206	4	25	No Variant	2019-08-04 — 14:33:17 UTC	Ahming, awe, NoMercy, Pimak	204	5	25
+49203	5	0	No Variant	2019-08-04 — 14:09:52 UTC	Ahming, awe, Jake_Stiles, NoMercy, Pimak	223	5	25

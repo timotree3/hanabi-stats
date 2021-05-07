@@ -1,0 +1,1840 @@
+511435	2	20	Reversed (4 Suits)	2021-04-24 — 18:54:35 UTC	Lanvin, VerySloppyTwo	20	4	20
+511432	2	0	Reversed (4 Suits)	2021-04-24 — 18:48:58 UTC	Lanvin, VerySloppyTwo	28	4	20
+511427	2	0	Rainbow & Light Pink (3 Suits)	2021-04-24 — 18:42:39 UTC	Lanvin, VerySloppyTwo	5	3	15
+511421	2	0	Rainbow & Light Pink (3 Suits)	2021-04-24 — 18:41:25 UTC	Lanvin, VerySloppyTwo	7	3	15
+511416	2	0	Rainbow & Light Pink (3 Suits)	2021-04-24 — 18:35:59 UTC	Lanvin, VerySloppyTwo	10	3	15
+511405	5	0	Rainbow & Gray (6 Suits)	2021-04-24 — 18:26:41 UTC	ChristopheAF, Kernel, Lanvin, MangoPie, VerySloppyTwo	7	6	30
+510423	4	25	Pink & Null (5 Suits)	2021-04-23 — 18:32:35 UTC	Lanvin, MangoPie, melwen, VerySloppyTwo	2	5	25
+510405	4	0	Pink & Null (5 Suits)	2021-04-23 — 18:14:21 UTC	Lanvin, MangoPie, melwen, VerySloppyTwo	2	5	25
+510398	2	0	Up or Down (5 Suits)	2021-04-23 — 18:07:08 UTC	Lanvin, VerySloppyTwo	141	5	25
+509540	5	0	Up or Down (6 Suits)	2021-04-22 — 19:59:26 UTC	derekcheah, Lanvin, MangoPie, robense, VerySloppyTwo	3	6	30
+509480	4	0	Up or Down & Rainbow (6 Suits)	2021-04-22 — 19:00:52 UTC	ChristopheAF, jack67889, nkkarpov, VerySloppyTwo	12	6	30
+509448	4	23	White & Cocoa Rainbow (5 Suits)	2021-04-22 — 18:28:50 UTC	ChristopheAF, indego, jack67889, VerySloppyTwo	4	5	25
+509293	3	30	Rainbow & Muddy Rainbow (6 Suits)	2021-04-22 — 11:44:13 UTC	Lanvin, melwen, VerySloppyTwo	4	6	30
+509291	2	0	Null (4 Suits)	2021-04-22 — 11:31:06 UTC	Lanvin, VerySloppyTwo	26	4	20
+509257	3	24	Gray Pink (5 Suits)	2021-04-22 — 08:46:38 UTC	cockdestroyer, VerySloppyTwo, Wittvector	1	5	25
+509249	3	0	Gray Pink (5 Suits)	2021-04-22 — 08:18:14 UTC	cockdestroyer, VerySloppyTwo, Wittvector	1	5	25
+509240	3	0	Gray Pink (5 Suits)	2021-04-22 — 07:59:02 UTC	cockdestroyer, VerySloppyTwo, Wittvector	1	5	25
+508627	2	20	Dark Null (5 Suits)	2021-04-21 — 19:09:44 UTC	Lanvin, VerySloppyTwo	21	5	25
+508623	2	0	Dark Null (5 Suits)	2021-04-21 — 19:00:19 UTC	Lanvin, VerySloppyTwo	22	5	25
+508620	2	0	Dark Null (5 Suits)	2021-04-21 — 18:56:52 UTC	Lanvin, VerySloppyTwo	28	5	25
+508616	2	0	Dark Null (5 Suits)	2021-04-21 — 18:53:59 UTC	Lanvin, VerySloppyTwo	25	5	25
+508614	2	0	Dark Null (5 Suits)	2021-04-21 — 18:52:37 UTC	Lanvin, VerySloppyTwo	31	5	25
+508607	2	25	Dark Prism (5 Suits)	2021-04-21 — 18:45:39 UTC	Lanvin, VerySloppyTwo	20	5	25
+508601	2	0	Dark Brown (6 Suits)	2021-04-21 — 18:39:14 UTC	Lanvin, VerySloppyTwo	29	6	30
+508595	2	0	Dark Brown (6 Suits)	2021-04-21 — 18:28:46 UTC	Lanvin, VerySloppyTwo	35	6	30
+508503	4	30	Up or Down & Muddy Rainbow (6 Suits)	2021-04-21 — 14:32:33 UTC	rz, sephiroth, VerySloppyTwo, Wittvector	5	6	30
+508469	5	0	Dual-Color (6 Suits)	2021-04-21 — 12:45:55 UTC	indego, Lanvin, Lel0uch, Pablo-, VerySloppyTwo	4	6	30
+508465	6	22	Black (5 Suits)	2021-04-21 — 12:20:45 UTC	Animex52, indego, Lanvin, Lel0uch, squirrel1988, VerySloppyTwo	1	5	25
+508349	4	30	Dual-Color (6 Suits)	2021-04-21 — 09:08:04 UTC	indego, Lel0uch, squirrel1988, VerySloppyTwo	5	6	30
+508344	4	0	Dual-Color (6 Suits)	2021-04-21 — 08:44:36 UTC	indego, Lel0uch, squirrel1988, VerySloppyTwo	5	6	30
+508342	4	0	Dual-Color (6 Suits)	2021-04-21 — 08:25:53 UTC	indego, Lel0uch, squirrel1988, VerySloppyTwo	5	6	30
+508341	4	0	Dual-Color (6 Suits)	2021-04-21 — 08:20:37 UTC	indego, Lel0uch, squirrel1988, VerySloppyTwo	6	6	30
+508340	4	0	Dual-Color (6 Suits)	2021-04-21 — 08:14:37 UTC	indego, Lel0uch, squirrel1988, VerySloppyTwo	6	6	30
+508339	4	0	Dual-Color (6 Suits)	2021-04-21 — 08:05:24 UTC	indego, Lel0uch, squirrel1988, VerySloppyTwo	7	6	30
+507800	3	29	Rainbow & Brown (6 Suits)	2021-04-20 — 20:22:40 UTC	Lanvin, MarkusKahlsen, VerySloppyTwo	4	6	30
+507770	2	25	Dark Brown (5 Suits)	2021-04-20 — 19:53:35 UTC	Lanvin, VerySloppyTwo	23	5	25
+507724	2	24	Black & Light Pink (5 Suits)	2021-04-20 — 18:47:56 UTC	Lanvin, VerySloppyTwo	22	5	25
+507718	5	0	Dark Omni (6 Suits)	2021-04-20 — 18:36:32 UTC	ChristopheAF, indego, Lanvin, ricardodd, VerySloppyTwo	7	6	30
+507710	5	0	Dark Omni (6 Suits)	2021-04-20 — 18:25:04 UTC	ChristopheAF, indego, Lanvin, ricardodd, VerySloppyTwo	10	6	30
+507699	2	25	Black & Prism (5 Suits)	2021-04-20 — 18:04:20 UTC	Lanvin, VerySloppyTwo	26	5	25
+507526	6	0	Muddy Rainbow (5 Suits)	2021-04-20 — 14:00:27 UTC	indego, Lanvin, Lel0uch, melwen, squirrel1988, VerySloppyTwo	2	5	25
+507522	5	29	Dual-Color (6 Suits)	2021-04-20 — 13:38:02 UTC	indego, Lanvin, Lel0uch, squirrel1988, VerySloppyTwo	3	6	30
+507510	5	30	Rainbow & Omni (6 Suits)	2021-04-20 — 13:02:30 UTC	indego, Lanvin, Lel0uch, MarkusKahlsen, VerySloppyTwo	1	6	30
+507504	5	0	Rainbow & Omni (6 Suits)	2021-04-20 — 12:32:26 UTC	indego, Lanvin, Lel0uch, MarkusKahlsen, VerySloppyTwo	1	6	30
+507499	5	0	Rainbow & Omni (6 Suits)	2021-04-20 — 12:14:10 UTC	indego, Lanvin, Lel0uch, MarkusKahlsen, VerySloppyTwo	1	6	30
+507398	6	0	Prism (6 Suits)	2021-04-20 — 09:21:41 UTC	Aluap, antitelharsic, cockdestroyer, Lel0uch, squirrel1988, VerySloppyTwo	8	6	30
+507396	5	0	Black (5 Suits)	2021-04-20 — 09:03:14 UTC	Animex52, antitelharsic, Lel0uch, squirrel1988, VerySloppyTwo	6	5	25
+507394	5	0	Black (5 Suits)	2021-04-20 — 08:43:59 UTC	Animex52, antitelharsic, Lel0uch, squirrel1988, VerySloppyTwo	9	5	25
+507391	5	0	Black (5 Suits)	2021-04-20 — 08:23:24 UTC	Animex52, antitelharsic, Lel0uch, squirrel1988, VerySloppyTwo	11	5	25
+506512	5	30	Light-Pink-Ones (6 Suits)	2021-04-19 — 13:38:19 UTC	Lanvin, Lel0uch, MarkusKahlsen, VerySloppyTwo, Wittvector	1	6	30
+506509	5	0	Light-Pink-Ones (6 Suits)	2021-04-19 — 13:22:03 UTC	Lanvin, Lel0uch, MarkusKahlsen, VerySloppyTwo, Wittvector	1	6	30
+506507	5	0	Light-Pink-Ones (6 Suits)	2021-04-19 — 13:15:52 UTC	Lanvin, Lel0uch, MarkusKahlsen, VerySloppyTwo, Wittvector	1	6	30
+506501	3	24	Dark Rainbow Reversed (5 Suits)	2021-04-19 — 12:57:54 UTC	Lanvin, MarkusKahlsen, VerySloppyTwo	1	5	25
+506486	4	0	Dark Prism (5 Suits)	2021-04-19 — 12:37:21 UTC	Lanvin, qqqq, VerySloppyTwo, Wittvector	3	5	25
+504427	3	0	Rainbow & Brown (6 Suits)	2021-04-17 — 20:15:36 UTC	Lanvin, MarkusKahlsen, VerySloppyTwo	6	6	30
+504411	3	0	Rainbow & Brown (6 Suits)	2021-04-17 — 20:03:01 UTC	Lanvin, MarkusKahlsen, VerySloppyTwo	6	6	30
+504403	2	0	Cocoa Rainbow (6 Suits)	2021-04-17 — 19:52:13 UTC	Lanvin, VerySloppyTwo	42	6	30
+504400	2	0	Cocoa Rainbow (6 Suits)	2021-04-17 — 19:48:44 UTC	Lanvin, VerySloppyTwo	47	6	30
+504395	2	25	Cocoa Rainbow (5 Suits)	2021-04-17 — 19:42:02 UTC	Lanvin, VerySloppyTwo	6	5	25
+504376	4	27	Dual-Color & White (6 Suits)	2021-04-17 — 19:22:03 UTC	Lanvin, Lel0uch, melwen, VerySloppyTwo	6	6	30
+504348	4	25	No Variant	2021-04-17 — 18:56:52 UTC	Lanvin, Lel0uch, melwen, VerySloppyTwo	16	5	25
+504325	5	0	Muddy Rainbow & Light Pink (6 Suits)	2021-04-17 — 18:39:34 UTC	indego, Lanvin, Lel0uch, melwen, VerySloppyTwo	1	6	30
+504278	5	0	Muddy Rainbow & Light Pink (6 Suits)	2021-04-17 — 18:02:59 UTC	indego, Lanvin, Lel0uch, melwen, VerySloppyTwo	1	6	30
+504248	3	0	Gray Reversed (6 Suits)	2021-04-17 — 17:31:46 UTC	dobi, sephiroth, VerySloppyTwo	3	6	30
+503174	2	15	Null (3 Suits)	2021-04-16 — 18:54:31 UTC	Lanvin, VerySloppyTwo	56	3	15
+503158	6	21	Black (5 Suits)	2021-04-16 — 18:40:34 UTC	bjnh, Lanvin, MangoPie, possum, ricardodd, VerySloppyTwo	3	5	25
+502907	3	0	Gray Reversed (5 Suits)	2021-04-16 — 14:44:00 UTC	Kyle, sephiroth, VerySloppyTwo	2	5	25
+502070	5	0	Dark Brown (6 Suits)	2021-04-15 — 19:10:23 UTC	ChristopheAF, kevincaseytdk1, MangoPie, Syrah, VerySloppyTwo	6	6	30
+502035	5	0	Dark Brown (6 Suits)	2021-04-15 — 18:41:31 UTC	ChristopheAF, kevincaseytdk1, MangoPie, Syrah, VerySloppyTwo	10	6	30
+502008	4	23	Rainbow-Fives & Prism (5 Suits)	2021-04-15 — 18:18:17 UTC	kevincaseytdk1, Lanvin, MangoPie, VerySloppyTwo	2	5	25
+501868	4	25	Up or Down & Light Pink (5 Suits)	2021-04-15 — 15:35:29 UTC	jeff10, robense, sephiroth, VerySloppyTwo	1	5	25
+501756	5	28	Up or Down & Prism (6 Suits)	2021-04-15 — 08:40:56 UTC	indego, Lel0uch, sephiroth, VerySloppyTwo, Wittvector	2	6	30
+501753	5	0	Up or Down & Prism (6 Suits)	2021-04-15 — 08:16:27 UTC	indego, Lel0uch, sephiroth, VerySloppyTwo, Wittvector	2	6	30
+501169	3	0	Cocoa Rainbow (5 Suits)	2021-04-14 — 20:42:28 UTC	Lanvin, MangoPie, VerySloppyTwo	3	5	25
+501147	3	0	Cocoa Rainbow (5 Suits)	2021-04-14 — 20:29:01 UTC	Lanvin, MangoPie, VerySloppyTwo	9	5	25
+501141	3	0	Cocoa Rainbow (5 Suits)	2021-04-14 — 20:21:47 UTC	Lanvin, MangoPie, VerySloppyTwo	8	5	25
+501130	3	0	Cocoa Rainbow (5 Suits)	2021-04-14 — 20:17:45 UTC	Lanvin, MangoPie, VerySloppyTwo	9	5	25
+501123	3	21	Cocoa Rainbow (5 Suits)	2021-04-14 — 20:13:31 UTC	Lanvin, MangoPie, VerySloppyTwo	10	5	25
+501106	3	0	Cocoa Rainbow (5 Suits)	2021-04-14 — 20:06:09 UTC	Lanvin, MangoPie, VerySloppyTwo	10	5	25
+501076	4	20	Special Mix (5 Suits)	2021-04-14 — 19:53:13 UTC	dobi, Lanvin, MangoPie, VerySloppyTwo	13	5	25
+501054	4	0	Special Mix (5 Suits)	2021-04-14 — 19:40:30 UTC	dobi, Lanvin, MangoPie, VerySloppyTwo	14	5	25
+501046	4	0	Special Mix (5 Suits)	2021-04-14 — 19:34:22 UTC	dobi, Lanvin, MangoPie, VerySloppyTwo	16	5	25
+501035	2	0	Black & Omni (5 Suits)	2021-04-14 — 19:23:53 UTC	Lanvin, VerySloppyTwo	22	5	25
+501027	2	0	Black & Omni (5 Suits)	2021-04-14 — 19:18:56 UTC	Lanvin, VerySloppyTwo	25	5	25
+501007	3	0	Dark Brown (5 Suits)	2021-04-14 — 18:52:33 UTC	ChristopheAF, VerySloppyTwo, Wittvector	18	5	25
+500993	3	23	Dark Brown (5 Suits)	2021-04-14 — 18:33:33 UTC	ChristopheAF, VerySloppyTwo, Wittvector	18	5	25
+500969	4	0	Brown & Cocoa Rainbow (6 Suits)	2021-04-14 — 18:12:49 UTC	ChristopheAF, indego, Lel0uch, VerySloppyTwo	3	6	30
+500809	4	0	Rainbow (5 Suits)	2021-04-14 — 12:50:33 UTC	catula, Lel0uch, sin_faith, VerySloppyTwo	11	5	25
+500808	4	0	Rainbow (5 Suits)	2021-04-14 — 12:48:18 UTC	catula, Lel0uch, sin_faith, VerySloppyTwo	10	5	25
+500806	4	0	Rainbow (5 Suits)	2021-04-14 — 12:45:49 UTC	catula, Lel0uch, sin_faith, VerySloppyTwo	12	5	25
+500801	4	0	Rainbow (5 Suits)	2021-04-14 — 12:42:57 UTC	catula, Lel0uch, sin_faith, VerySloppyTwo	13	5	25
+500741	6	0	Rainbow (6 Suits)	2021-04-14 — 08:15:54 UTC	antitelharsic, boba, indego, VerySloppyTwo, whensepoop, XMIL	13	6	30
+500732	6	0	Rainbow (6 Suits)	2021-04-14 — 07:42:30 UTC	antitelharsic, indego, IsabeltheCat, VerySloppyTwo, whensepoop, XMIL	14	6	30
+500718	6	0	Rainbow (6 Suits)	2021-04-14 — 07:08:03 UTC	antitelharsic, indego, IsabeltheCat, VerySloppyTwo, whensepoop, XMIL	19	6	30
+500164	5	0	White-Ones & Prism (6 Suits)	2021-04-13 — 21:23:58 UTC	HelanaAshryvr, indego, Lanvin, Onen, VerySloppyTwo	1	6	30
+500136	2	25	Brown & Dark Prism (5 Suits)	2021-04-13 — 21:06:02 UTC	Lanvin, VerySloppyTwo	2	5	25
+500119	2	0	Brown & Dark Prism (5 Suits)	2021-04-13 — 20:57:01 UTC	Lanvin, VerySloppyTwo	2	5	25
+500102	2	0	Brown & Dark Prism (5 Suits)	2021-04-13 — 20:51:00 UTC	Lanvin, VerySloppyTwo	2	5	25
+500092	2	0	Brown & Dark Prism (5 Suits)	2021-04-13 — 20:46:12 UTC	Lanvin, VerySloppyTwo	2	5	25
+500080	2	0	Brown & Dark Prism (5 Suits)	2021-04-13 — 20:41:51 UTC	Lanvin, VerySloppyTwo	2	5	25
+500074	2	0	Brown & Dark Prism (5 Suits)	2021-04-13 — 20:37:38 UTC	Lanvin, VerySloppyTwo	2	5	25
+500053	2	25	Black & White (5 Suits)	2021-04-13 — 20:27:25 UTC	Lanvin, VerySloppyTwo	25	5	25
+500046	2	0	Black & White (5 Suits)	2021-04-13 — 20:23:18 UTC	Lanvin, VerySloppyTwo	24	5	25
+500044	2	0	Black & White (5 Suits)	2021-04-13 — 20:20:51 UTC	Lanvin, VerySloppyTwo	30	5	25
+500036	2	0	Black & White (5 Suits)	2021-04-13 — 20:15:54 UTC	Lanvin, VerySloppyTwo	31	5	25
+499865	3	0	Cocoa Rainbow (5 Suits)	2021-04-13 — 18:47:54 UTC	HelanaAshryvr, Lanvin, VerySloppyTwo	12	5	25
+499848	2	25	Dark Omni (5 Suits)	2021-04-13 — 18:36:00 UTC	Lanvin, VerySloppyTwo	10	5	25
+499836	4	0	Rainbow Reversed (4 Suits)	2021-04-13 — 18:20:22 UTC	Kyle, Lanvin, VerySloppyTwo, vjk	1	4	20
+499828	2	20	Rainbow & Light Pink (4 Suits)	2021-04-13 — 18:11:50 UTC	Lanvin, VerySloppyTwo	17	4	20
+499703	3	25	Brown-Ones (5 Suits)	2021-04-13 — 13:49:11 UTC	catula, sin_faith, VerySloppyTwo	10	5	25
+499700	3	25	Gray (5 Suits)	2021-04-13 — 13:31:11 UTC	catula, Lanvin, VerySloppyTwo	17	5	25
+499671	5	24	No Variant	2021-04-13 — 12:11:11 UTC	Animex52, Lanvin, squirrel1988, VerySloppyTwo, Viovio87	23	5	25
+499662	5	0	No Variant	2021-04-13 — 11:37:39 UTC	boba, Lanvin, squirrel1988, VerySloppyTwo, Viovio87	207	5	25
+499640	3	0	Dual-Color & Black (6 Suits)	2021-04-13 — 09:09:50 UTC	Lel0uch, squirrel1988, VerySloppyTwo	8	6	30
+499639	4	0	Dual-Color (6 Suits)	2021-04-13 — 09:03:21 UTC	cockdestroyer, Lel0uch, squirrel1988, VerySloppyTwo	8	6	30
+498631	4	23	Pink & Prism (5 Suits)	2021-04-12 — 18:25:48 UTC	Lanvin, nitawa, Pablo-, VerySloppyTwo	2	5	25
+498465	4	0	Up or Down & Null (6 Suits)	2021-04-12 — 15:25:27 UTC	ChristopheAF, HelanaAshryvr, indego, VerySloppyTwo	1	6	30
+498442	4	0	Up or Down & Null (6 Suits)	2021-04-12 — 14:52:20 UTC	ChristopheAF, HelanaAshryvr, indego, VerySloppyTwo	1	6	30
+498408	6	0	Brown-Fives & Black (5 Suits)	2021-04-12 — 13:37:19 UTC	catula, jack67889, Lanvin, sin_faith, VerySloppyTwo, Wittvector	1	5	25
+498397	5	29	Light Pink & Prism (6 Suits)	2021-04-12 — 13:05:45 UTC	Lel0uch, melwen, squirrel1988, VerySloppyTwo, Wittvector	1	6	30
+498385	6	0	Brown & Light Pink (6 Suits)	2021-04-12 — 12:39:53 UTC	catula, Lanvin, Lel0uch, melwen, VerySloppyTwo, Wittvector	1	6	30
+498371	5	27	Brown & Light Pink (6 Suits)	2021-04-12 — 12:14:43 UTC	Lanvin, Lel0uch, orucsoraihc, squirrel1988, VerySloppyTwo	1	6	30
+498356	5	0	Brown & Light Pink (6 Suits)	2021-04-12 — 11:55:35 UTC	Lanvin, Lel0uch, orucsoraihc, squirrel1988, VerySloppyTwo	3	6	30
+498351	4	0	Brown & Light Pink (6 Suits)	2021-04-12 — 11:48:43 UTC	Lanvin, Lel0uch, squirrel1988, VerySloppyTwo	1	6	30
+498344	4	28	Brown & Light Pink (6 Suits)	2021-04-12 — 11:41:34 UTC	Lanvin, Lel0uch, squirrel1988, VerySloppyTwo	4	6	30
+498312	5	0	Dual-Color & Dark Rainbow (6 Suits)	2021-04-12 — 09:25:24 UTC	antitelharsic, Lel0uch, melwen, squirrel1988, VerySloppyTwo	1	6	30
+498309	5	0	Dual-Color & Dark Rainbow (6 Suits)	2021-04-12 — 09:13:48 UTC	antitelharsic, Lel0uch, melwen, squirrel1988, VerySloppyTwo	1	6	30
+498307	5	0	Dual-Color & Dark Rainbow (6 Suits)	2021-04-12 — 09:08:44 UTC	antitelharsic, Lel0uch, melwen, squirrel1988, VerySloppyTwo	1	6	30
+498305	5	26	Dual-Color & Dark Rainbow (6 Suits)	2021-04-12 — 08:56:56 UTC	antitelharsic, Lel0uch, melwen, squirrel1988, VerySloppyTwo	1	6	30
+498302	6	30	Rainbow & Light Pink (6 Suits)	2021-04-12 — 08:24:39 UTC	antitelharsic, asaelr, Lel0uch, melwen, squirrel1988, VerySloppyTwo	1	6	30
+497526	4	0	Up or Down & Null (6 Suits)	2021-04-11 — 20:45:57 UTC	ChristopheAF, Lanvin, MarkusKahlsen, VerySloppyTwo	1	6	30
+497479	4	0	Up or Down & Null (6 Suits)	2021-04-11 — 20:13:17 UTC	ChristopheAF, Lanvin, MarkusKahlsen, VerySloppyTwo	3	6	30
+497461	3	0	Up or Down & Null (6 Suits)	2021-04-11 — 19:56:51 UTC	ChristopheAF, Lanvin, VerySloppyTwo	2	6	30
+497123	5	0	Dual-Color (6 Suits)	2021-04-11 — 09:10:02 UTC	bjnh, Lel0uch, ricardodd, squirrel1988, VerySloppyTwo	4	6	30
+497119	5	0	Dual-Color (6 Suits)	2021-04-11 — 08:43:00 UTC	bjnh, Lel0uch, ricardodd, squirrel1988, VerySloppyTwo	18	6	30
+496371	3	24	Rainbow & Light Pink (5 Suits)	2021-04-10 — 19:20:21 UTC	HelanaAshryvr, Lanvin, VerySloppyTwo	9	5	25
+496355	4	20	Dark Prism (5 Suits)	2021-04-10 — 18:58:33 UTC	dobi, indego, Lanvin, VerySloppyTwo	4	5	25
+496341	4	0	Rainbow-Ones & White (6 Suits)	2021-04-10 — 18:39:50 UTC	Durandal, Lanvin, Valetta6789, VerySloppyTwo	4	6	30
+496337	4	0	Rainbow-Ones & White (6 Suits)	2021-04-10 — 18:31:12 UTC	Durandal, Lanvin, Valetta6789, VerySloppyTwo	4	6	30
+496325	3	30	Black & Prism (6 Suits)	2021-04-10 — 18:08:49 UTC	Lanvin, Valetta6789, VerySloppyTwo	18	6	30
+496320	3	0	Black & Prism (6 Suits)	2021-04-10 — 17:54:21 UTC	Lanvin, Valetta6789, VerySloppyTwo	22	6	30
+494880	3	15	Light Pink (3 Suits)	2021-04-09 — 14:38:28 UTC	HelanaAshryvr, Lanvin, VerySloppyTwo	4	3	15
+494872	3	14	Light Pink (3 Suits)	2021-04-09 — 14:25:53 UTC	HelanaAshryvr, Lanvin, VerySloppyTwo	4	3	15
+494868	3	14	Light Pink (3 Suits)	2021-04-09 — 14:18:44 UTC	HelanaAshryvr, Lanvin, VerySloppyTwo	6	3	15
+494864	2	0	Black & Rainbow (5 Suits)	2021-04-09 — 14:12:22 UTC	Lanvin, VerySloppyTwo	45	5	25
+494860	2	0	Black & Rainbow (5 Suits)	2021-04-09 — 14:07:21 UTC	Lanvin, VerySloppyTwo	47	5	25
+494857	2	22	Black & Rainbow (5 Suits)	2021-04-09 — 14:01:07 UTC	Lanvin, VerySloppyTwo	55	5	25
+494843	4	0	Throw It in a Hole (5 Suits)	2021-04-09 — 13:11:38 UTC	MarkusKahlsen, sin_faith, VerySloppyTwo, Zakisan	2	5	25
+494832	4	24	Throw It in a Hole (5 Suits)	2021-04-09 — 12:45:24 UTC	MarkusKahlsen, sin_faith, VerySloppyTwo, Zakisan	8	5	25
+494822	4	0	Throw It in a Hole (5 Suits)	2021-04-09 — 12:18:50 UTC	MarkusKahlsen, sin_faith, VerySloppyTwo, Zakisan	13	5	25
+494807	3	25	Pink (5 Suits)	2021-04-09 — 11:55:59 UTC	sin_faith, VerySloppyTwo, Zakisan	4	5	25
+494801	3	0	Pink (5 Suits)	2021-04-09 — 11:50:40 UTC	sin_faith, VerySloppyTwo, Zakisan	6	5	25
+494800	3	0	Pink (5 Suits)	2021-04-09 — 11:47:53 UTC	sin_faith, VerySloppyTwo, Zakisan	7	5	25
+494794	3	0	Pink (5 Suits)	2021-04-09 — 11:42:49 UTC	sin_faith, VerySloppyTwo, Zakisan	12	5	25
+494215	4	30	Null (6 Suits)	2021-04-08 — 20:30:53 UTC	ChristopheAF, MangoPie, squirrel1988, VerySloppyTwo	10	6	30
+494190	5	0	Null (5 Suits)	2021-04-08 — 20:03:32 UTC	acorns, ChristopheAF, Lanvin, MangoPie, VerySloppyTwo	11	5	25
+494176	4	15	White-Ones & Prism (3 Suits)	2021-04-08 — 19:47:00 UTC	ChristopheAF, Lanvin, MangoPie, VerySloppyTwo	1	3	15
+494151	5	0	Omni-Fives & Dark Prism (6 Suits)	2021-04-08 — 19:27:28 UTC	jeff10, kevincaseytdk1, Lanvin, MangoPie, VerySloppyTwo	1	6	30
+494133	5	26	Omni-Fives & Dark Prism (6 Suits)	2021-04-08 — 19:04:10 UTC	jeff10, kevincaseytdk1, Lanvin, MangoPie, VerySloppyTwo	1	6	30
+494109	3	30	Pink-Ones & Brown (6 Suits)	2021-04-08 — 18:39:13 UTC	Lanvin, MangoPie, VerySloppyTwo	4	6	30
+494098	2	0	Dark Omni (5 Suits)	2021-04-08 — 18:20:04 UTC	Lanvin, VerySloppyTwo	19	5	25
+493999	4	21	Dark Prism Reversed (5 Suits)	2021-04-08 — 15:15:25 UTC	possum, sephiroth, VerySloppyTwo, Zakisan	2	5	25
+493887	4	0	Dark Null (6 Suits)	2021-04-08 — 09:04:25 UTC	cockdestroyer, Lanvin, sin_faith, VerySloppyTwo	3	6	30
+493884	4	0	Dark Null (6 Suits)	2021-04-08 — 08:50:11 UTC	cockdestroyer, Lanvin, sin_faith, VerySloppyTwo	5	6	30
+493880	4	0	Dark Null (6 Suits)	2021-04-08 — 08:36:07 UTC	cockdestroyer, Lanvin, sin_faith, VerySloppyTwo	6	6	30
+493875	3	25	Black (5 Suits)	2021-04-08 — 08:14:12 UTC	cockdestroyer, sin_faith, VerySloppyTwo	27	5	25
+493868	3	0	Black (5 Suits)	2021-04-08 — 07:48:37 UTC	cockdestroyer, sin_faith, VerySloppyTwo	71	5	25
+493256	2	25	Black & Pink (5 Suits)	2021-04-07 — 19:17:05 UTC	Lanvin, VerySloppyTwo	23	5	25
+493249	2	0	Black & Pink (5 Suits)	2021-04-07 — 19:10:15 UTC	Lanvin, VerySloppyTwo	24	5	25
+493239	2	0	Black & Pink (5 Suits)	2021-04-07 — 19:05:47 UTC	Lanvin, VerySloppyTwo	25	5	25
+493227	2	24	Black & Pink (5 Suits)	2021-04-07 — 18:56:38 UTC	Lanvin, VerySloppyTwo	26	5	25
+493216	2	0	Black & Pink (5 Suits)	2021-04-07 — 18:45:20 UTC	Lanvin, VerySloppyTwo	29	5	25
+493195	2	24	Black & Pink (5 Suits)	2021-04-07 — 18:35:08 UTC	Lanvin, VerySloppyTwo	29	5	25
+493178	2	0	Black & Pink (5 Suits)	2021-04-07 — 18:26:59 UTC	Lanvin, VerySloppyTwo	32	5	25
+493173	2	20	Black & Pink (5 Suits)	2021-04-07 — 18:22:36 UTC	Lanvin, VerySloppyTwo	37	5	25
+493019	5	30	Dual-Color & White (6 Suits)	2021-04-07 — 11:55:52 UTC	Lanvin, Lel0uch, melwen, ricardodd, VerySloppyTwo	3	6	30
+493007	3	0	White & Brown (5 Suits)	2021-04-07 — 10:50:15 UTC	Kernel, Lanvin, VerySloppyTwo	10	5	25
+492319	6	0	Prism (5 Suits)	2021-04-06 — 18:56:51 UTC	Lanvin, micerang, Plum, possum, VerySloppyTwo, Wittvector	1	5	25
+492310	6	0	Prism (5 Suits)	2021-04-06 — 18:48:53 UTC	Lanvin, micerang, Plum, possum, VerySloppyTwo, Wittvector	6	5	25
+492302	3	0	Pink & White (5 Suits)	2021-04-06 — 18:38:02 UTC	Durandal, Lanvin, VerySloppyTwo	7	5	25
+492282	5	0	Dual-Color (6 Suits)	2021-04-06 — 18:06:56 UTC	indego, Lel0uch, level_23, MarkusKahlsen, VerySloppyTwo	8	6	30
+492132	3	0	Dark Prism Reversed (5 Suits)	2021-04-06 — 14:58:39 UTC	sephiroth, VerySloppyTwo, Zakisan	1	5	25
+492064	2	0	Dark Omni (5 Suits)	2021-04-06 — 12:22:18 UTC	Lanvin, VerySloppyTwo	20	5	25
+492060	2	21	Dark Omni (5 Suits)	2021-04-06 — 12:12:56 UTC	Lanvin, VerySloppyTwo	20	5	25
+492055	6	0	Special Mix (5 Suits)	2021-04-06 — 11:50:09 UTC	indego, jack67889, Lanvin, melwen, Pablo-, VerySloppyTwo	1	5	25
+492050	4	25	Muddy Rainbow & Gray (5 Suits)	2021-04-06 — 11:25:21 UTC	Lanvin, melwen, Pablo-, VerySloppyTwo	1	5	25
+492046	2	0	Light Pink & Prism (5 Suits)	2021-04-06 — 11:07:41 UTC	Lanvin, VerySloppyTwo	9	5	25
+492039	4	30	Dual-Color & Pink (6 Suits)	2021-04-06 — 10:49:56 UTC	indego, Lel0uch, sin_faith, VerySloppyTwo	4	6	30
+492008	4	29	Dual-Color & Pink (6 Suits)	2021-04-06 — 09:13:52 UTC	Lel0uch, sin_faith, squirrel1988, VerySloppyTwo	6	6	30
+492003	5	0	Dual-Color & Light Pink (6 Suits)	2021-04-06 — 08:38:56 UTC	indego, Lel0uch, sin_faith, squirrel1988, VerySloppyTwo	2	6	30
+491999	3	0	Dual-Color & Pink (6 Suits)	2021-04-06 — 08:07:56 UTC	Lel0uch, squirrel1988, VerySloppyTwo	12	6	30
+491407	5	0	Cow & Pig (6 Suits)	2021-04-05 — 19:25:59 UTC	indego, Lanvin, MangoPie, Valetta6789, VerySloppyTwo	3	6	30
+491391	4	30	Brown-Ones & Dark Rainbow (6 Suits)	2021-04-05 — 19:07:52 UTC	Lanvin, MangoPie, Valetta6789, VerySloppyTwo	3	6	30
+491375	4	0	Brown-Ones & Dark Rainbow (6 Suits)	2021-04-05 — 18:45:20 UTC	Lanvin, MangoPie, Valetta6789, VerySloppyTwo	4	6	30
+491364	3	25	Pink & Prism (5 Suits)	2021-04-05 — 18:26:58 UTC	Lanvin, Valetta6789, VerySloppyTwo	11	5	25
+491343	2	25	Gray (5 Suits)	2021-04-05 — 18:03:52 UTC	Lanvin, VerySloppyTwo	51	5	25
+491173	2	30	Light Pink (6 Suits)	2021-04-05 — 14:06:21 UTC	Lanvin, VerySloppyTwo	14	6	30
+491161	2	0	Light Pink (6 Suits)	2021-04-05 — 13:54:15 UTC	Lanvin, VerySloppyTwo	24	6	30
+491156	2	0	Light Pink (6 Suits)	2021-04-05 — 13:43:40 UTC	Lanvin, VerySloppyTwo	33	6	30
+491149	2	0	Light Pink (6 Suits)	2021-04-05 — 13:34:50 UTC	Lanvin, VerySloppyTwo	35	6	30
+491147	2	0	Light Pink (6 Suits)	2021-04-05 — 13:27:41 UTC	Lanvin, VerySloppyTwo	40	6	30
+491138	2	15	Rainbow & Muddy Rainbow (3 Suits)	2021-04-05 — 13:18:19 UTC	Lanvin, VerySloppyTwo	8	3	15
+491132	2	0	Rainbow & Muddy Rainbow (3 Suits)	2021-04-05 — 13:14:14 UTC	Lanvin, VerySloppyTwo	10	3	15
+491129	2	25	Pink & Prism (5 Suits)	2021-04-05 — 13:06:38 UTC	Lanvin, VerySloppyTwo	9	5	25
+491125	2	0	Pink & Prism (5 Suits)	2021-04-05 — 12:54:36 UTC	Lanvin, VerySloppyTwo	14	5	25
+490318	2	23	Cocoa Rainbow (5 Suits)	2021-04-04 — 13:33:46 UTC	Lanvin, VerySloppyTwo	20	5	25
+490316	2	0	Cocoa Rainbow (5 Suits)	2021-04-04 — 13:26:13 UTC	Lanvin, VerySloppyTwo	29	5	25
+490315	2	0	Cocoa Rainbow (5 Suits)	2021-04-04 — 13:23:52 UTC	Lanvin, VerySloppyTwo	40	5	25
+490314	2	0	Cocoa Rainbow (5 Suits)	2021-04-04 — 13:21:30 UTC	Lanvin, VerySloppyTwo	50	5	25
+489483	6	0	Pink & White (6 Suits)	2021-04-03 — 18:08:59 UTC	jack67889, Lel0uch, melwen, Nitrate, Syrah, VerySloppyTwo	1	6	30
+488423	5	0	Omni (6 Suits)	2021-04-02 — 18:09:35 UTC	Aluap, cockdestroyer, kevincaseytdk1, Lanvin, VerySloppyTwo	15	6	30
+487675	3	0	Duck (5 Suits)	2021-04-01 — 20:42:47 UTC	duckless, Lanvin, VerySloppyTwo	25	5	25
+487664	3	0	Duck (5 Suits)	2021-04-01 — 20:32:49 UTC	duckless, Lanvin, VerySloppyTwo	35	5	25
+487651	2	20	Rainbow & Prism (4 Suits)	2021-04-01 — 20:21:05 UTC	Lanvin, VerySloppyTwo	18	4	20
+487644	2	0	Rainbow & Prism (4 Suits)	2021-04-01 — 20:13:29 UTC	Lanvin, VerySloppyTwo	19	4	20
+487629	6	0	Prism (5 Suits)	2021-04-01 — 20:00:55 UTC	bjnh, Durandal, HelanaAshryvr, Lanvin, squirrel1988, VerySloppyTwo	1	5	25
+487610	6	0	Prism (5 Suits)	2021-04-01 — 19:47:34 UTC	bjnh, Durandal, HelanaAshryvr, Lanvin, squirrel1988, VerySloppyTwo	1	5	25
+487593	4	0	Muddy Rainbow (6 Suits)	2021-04-01 — 19:31:56 UTC	Durandal, Lanvin, squirrel1988, VerySloppyTwo	4	6	30
+487576	4	29	Muddy Rainbow (6 Suits)	2021-04-01 — 19:20:15 UTC	Durandal, Lanvin, squirrel1988, VerySloppyTwo	5	6	30
+487543	4	0	Black & Dark Omni (6 Suits)	2021-04-01 — 18:41:13 UTC	cockdestroyer, Denchulitas, sephiroth, VerySloppyTwo	2	6	30
+487525	3	0	Black & Dark Omni (6 Suits)	2021-04-01 — 18:26:30 UTC	Denchulitas, sephiroth, VerySloppyTwo	5	6	30
+487515	4	0	Dark Brown (5 Suits)	2021-04-01 — 18:15:37 UTC	Denchulitas, knaphill, sephiroth, VerySloppyTwo	1	5	25
+486817	6	0	Black (5 Suits)	2021-03-31 — 22:30:23 UTC	bjnh, ChristopheAF, HelanaAshryvr, Lanvin, squirrel1988, VerySloppyTwo	2	5	25
+486809	6	22	Black (5 Suits)	2021-03-31 — 22:20:33 UTC	bjnh, ChristopheAF, HelanaAshryvr, Lanvin, squirrel1988, VerySloppyTwo	2	5	25
+486798	6	0	Black (5 Suits)	2021-03-31 — 22:02:06 UTC	bjnh, ChristopheAF, HelanaAshryvr, Lanvin, squirrel1988, VerySloppyTwo	2	5	25
+486787	6	0	Black (5 Suits)	2021-03-31 — 21:52:05 UTC	bjnh, ChristopheAF, HelanaAshryvr, Lanvin, squirrel1988, VerySloppyTwo	2	5	25
+486768	6	0	Dark Rainbow (6 Suits)	2021-03-31 — 21:32:05 UTC	ChristopheAF, HelanaAshryvr, Lanvin, squirrel1988, Syrah, VerySloppyTwo	8	6	30
+486745	3	25	Omni & Light Pink (5 Suits)	2021-03-31 — 21:07:51 UTC	jack67889, Lanvin, VerySloppyTwo	1	5	25
+486716	5	0	Brown-Ones & Pink (4 Suits)	2021-03-31 — 20:41:35 UTC	colton, jack67889, Lanvin, robense, VerySloppyTwo	2	4	20
+486699	4	18	Brown-Ones & Pink (4 Suits)	2021-03-31 — 20:23:30 UTC	colton, HelanaAshryvr, Lanvin, VerySloppyTwo	1	4	20
+486581	6	24	Prism (5 Suits)	2021-03-31 — 19:10:08 UTC	antitelharsic, CaitlinSmith, HelanaAshryvr, jeff10, Lanvin, VerySloppyTwo	7	5	25
+486425	4	0	Up or Down & Omni (6 Suits)	2021-03-31 — 15:53:43 UTC	ChristopheAF, sephiroth, sin_faith, VerySloppyTwo	2	6	30
+486421	4	0	Up or Down & Omni (6 Suits)	2021-03-31 — 15:45:08 UTC	ChristopheAF, sephiroth, sin_faith, VerySloppyTwo	2	6	30
+486411	4	15	Light Pink (3 Suits)	2021-03-31 — 15:05:47 UTC	HelanaAshryvr, nkkarpov, Sucubis, VerySloppyTwo	4	3	15
+485725	3	0	Dark Prism (6 Suits)	2021-03-30 — 20:43:39 UTC	Lanvin, Pablo-, VerySloppyTwo	9	6	30
+485703	3	0	Dark Prism (6 Suits)	2021-03-30 — 20:17:06 UTC	Lanvin, Pablo-, VerySloppyTwo	10	6	30
+485696	3	0	Dark Prism (6 Suits)	2021-03-30 — 20:06:23 UTC	Lanvin, Pablo-, VerySloppyTwo	13	6	30
+485679	3	0	Dark Prism (6 Suits)	2021-03-30 — 19:53:32 UTC	Lanvin, Pablo-, VerySloppyTwo	20	6	30
+485657	2	20	Light Pink (4 Suits)	2021-03-30 — 19:39:22 UTC	Lanvin, VerySloppyTwo	9	4	20
+485644	2	0	Light Pink (4 Suits)	2021-03-30 — 19:28:59 UTC	Lanvin, VerySloppyTwo	14	4	20
+485637	2	0	Light Pink (4 Suits)	2021-03-30 — 19:24:17 UTC	Lanvin, VerySloppyTwo	17	4	20
+485634	2	0	Light Pink (4 Suits)	2021-03-30 — 19:21:08 UTC	Lanvin, VerySloppyTwo	25	4	20
+485595	4	0	Pink & Omni (4 Suits)	2021-03-30 — 18:22:45 UTC	ChristopheAF, Lanvin, MangoPie, VerySloppyTwo	3	4	20
+485587	4	0	Black & Omni (5 Suits)	2021-03-30 — 18:13:32 UTC	Lanvin, MangoPie, sephiroth, VerySloppyTwo	8	5	25
+485577	4	0	Clue Starved & Omni (6 Suits)	2021-03-30 — 17:57:19 UTC	Lanvin, MangoPie, sephiroth, VerySloppyTwo	2	6	30
+485567	3	25	Dark Rainbow (5 Suits)	2021-03-30 — 17:43:45 UTC	Lanvin, MangoPie, VerySloppyTwo	4	5	25
+485560	3	0	Dark Rainbow (5 Suits)	2021-03-30 — 17:30:45 UTC	Lanvin, MangoPie, VerySloppyTwo	6	5	25
+485551	2	0	Light Pink (4 Suits)	2021-03-30 — 17:20:14 UTC	Lanvin, VerySloppyTwo	43	4	20
+485547	2	15	Light Pink (3 Suits)	2021-03-30 — 17:10:20 UTC	Lanvin, VerySloppyTwo	45	3	15
+485516	5	23	Special Mix (5 Suits)	2021-03-30 — 15:54:16 UTC	ChristopheAF, melwen, sephiroth, VerySloppyTwo, Zakisan	1	5	25
+485487	6	0	Special Mix (5 Suits)	2021-03-30 — 15:23:20 UTC	ChristopheAF, dobi, melwen, sephiroth, VerySloppyTwo, Zakisan	1	5	25
+485412	2	20	Muddy Rainbow (4 Suits)	2021-03-30 — 13:51:04 UTC	Lanvin, VerySloppyTwo	8	4	20
+485407	2	17	Muddy Rainbow (4 Suits)	2021-03-30 — 13:42:57 UTC	Lanvin, VerySloppyTwo	8	4	20
+485403	2	0	Muddy Rainbow (4 Suits)	2021-03-30 — 13:34:26 UTC	Lanvin, VerySloppyTwo	8	4	20
+485401	4	20	Omni (4 Suits)	2021-03-30 — 13:26:36 UTC	Lanvin, qqqq, skyblueexo, VerySloppyTwo	11	4	20
+485395	4	0	Omni (4 Suits)	2021-03-30 — 13:16:19 UTC	Lanvin, qqqq, skyblueexo, VerySloppyTwo	15	4	20
+485392	3	0	Black & Omni (6 Suits)	2021-03-30 — 13:10:31 UTC	Lanvin, qqqq, VerySloppyTwo	5	6	30
+485378	4	25	Up or Down & Pink (5 Suits)	2021-03-30 — 12:35:26 UTC	asaelr, sephiroth, Syrah, VerySloppyTwo	3	5	25
+485367	3	0	Dark Prism Reversed (5 Suits)	2021-03-30 — 12:14:13 UTC	asaelr, sephiroth, VerySloppyTwo	7	5	25
+485288	4	0	Up or Down & Omni (6 Suits)	2021-03-30 — 08:48:16 UTC	cockdestroyer, sephiroth, Sucubis, VerySloppyTwo	3	6	30
+485286	4	0	Up or Down & Omni (6 Suits)	2021-03-30 — 08:43:08 UTC	cockdestroyer, sephiroth, Sucubis, VerySloppyTwo	4	6	30
+484770	3	0	Clue Starved & White (6 Suits)	2021-03-29 — 21:45:10 UTC	Lanvin, MarkusKahlsen, VerySloppyTwo	4	6	30
+484738	3	0	Clue Starved & White (6 Suits)	2021-03-29 — 21:26:31 UTC	Lanvin, MarkusKahlsen, VerySloppyTwo	5	6	30
+484567	4	25	White-Ones & Brown (5 Suits)	2021-03-29 — 18:34:21 UTC	Lanvin, MangoPie, rahsosprout, VerySloppyTwo	3	5	25
+484351	4	0	White & Dark Omni (6 Suits)	2021-03-29 — 12:46:21 UTC	Lel0uch, melwen, swineherd, VerySloppyTwo	1	6	30
+484339	4	29	White & Dark Omni (6 Suits)	2021-03-29 — 12:24:53 UTC	Lel0uch, melwen, swineherd, VerySloppyTwo	1	6	30
+484329	3	0	Rainbow-Ones & Prism (4 Suits)	2021-03-29 — 11:37:57 UTC	HelanaAshryvr, Lanvin, VerySloppyTwo	2	4	20
+484325	3	0	Rainbow-Ones & Prism (4 Suits)	2021-03-29 — 11:31:15 UTC	HelanaAshryvr, Lanvin, VerySloppyTwo	3	4	20
+484321	4	29	Brown & Dark Prism (6 Suits)	2021-03-29 — 11:18:42 UTC	indego, Lanvin, qqqq, VerySloppyTwo	2	6	30
+484294	5	0	Up or Down & Prism (6 Suits)	2021-03-29 — 08:51:16 UTC	Aluap, indego, Lel0uch, sephiroth, VerySloppyTwo	2	6	30
+484286	5	0	Up or Down & Prism (6 Suits)	2021-03-29 — 08:36:25 UTC	Aluap, indego, Lel0uch, sephiroth, VerySloppyTwo	2	6	30
+484276	5	0	Up or Down & Prism (6 Suits)	2021-03-29 — 08:25:56 UTC	Aluap, indego, Lel0uch, sephiroth, VerySloppyTwo	2	6	30
+484270	5	0	Up or Down & Prism (6 Suits)	2021-03-29 — 08:19:38 UTC	Aluap, indego, Lel0uch, sephiroth, VerySloppyTwo	2	6	30
+484268	4	0	Up or Down & Prism (6 Suits)	2021-03-29 — 08:09:10 UTC	Aluap, Lel0uch, sephiroth, VerySloppyTwo	5	6	30
+484266	3	0	Up or Down & Omni (5 Suits)	2021-03-29 — 07:53:59 UTC	Aluap, sephiroth, VerySloppyTwo	3	5	25
+483811	3	0	Up or Down & Omni (5 Suits)	2021-03-28 — 21:12:15 UTC	jack67889, sephiroth, VerySloppyTwo	5	5	25
+483665	5	0	Rainbow & White (4 Suits)	2021-03-28 — 19:44:01 UTC	HelanaAshryvr, Lanvin, melwen, Valetta6789, VerySloppyTwo	4	4	20
+483641	4	0	Light Pink & Gray (5 Suits)	2021-03-28 — 19:24:53 UTC	Lanvin, melwen, Valetta6789, VerySloppyTwo	1	5	25
+483628	3	0	Light Pink & Gray (5 Suits)	2021-03-28 — 19:04:32 UTC	Lanvin, Valetta6789, VerySloppyTwo	2	5	25
+483612	3	25	Omni (5 Suits)	2021-03-28 — 18:49:34 UTC	Lanvin, Valetta6789, VerySloppyTwo	21	5	25
+483346	5	0	Special Mix (5 Suits)	2021-03-28 — 12:35:48 UTC	ChristopheAF, qqqq, sephiroth, VerySloppyTwo, Wittvector	1	5	25
+483344	5	0	Special Mix (5 Suits)	2021-03-28 — 12:28:31 UTC	ChristopheAF, qqqq, sephiroth, VerySloppyTwo, Wittvector	1	5	25
+482724	4	0	3 Suits	2021-03-27 — 22:26:17 UTC	Durandal, HelanaAshryvr, Lanvin, VerySloppyTwo	13	3	15
+482716	5	0	No Variant	2021-03-27 — 22:17:25 UTC	Durandal, HelanaAshryvr, Lanvin, squirrel1988, VerySloppyTwo	100	5	25
+482709	5	0	No Variant	2021-03-27 — 22:14:30 UTC	Durandal, HelanaAshryvr, Lanvin, squirrel1988, VerySloppyTwo	120	5	25
+482694	5	0	Gray Pink (6 Suits)	2021-03-27 — 22:04:50 UTC	Aluap, Lanvin, sephiroth, squirrel1988, VerySloppyTwo	3	6	30
+482627	3	30	Brown (6 Suits)	2021-03-27 — 21:25:27 UTC	MarkusKahlsen, rachyrules, VerySloppyTwo	11	6	30
+482569	3	0	Brown (6 Suits)	2021-03-27 — 20:37:06 UTC	MarkusKahlsen, rachyrules, VerySloppyTwo	6	6	30
+482550	3	0	Brown (6 Suits)	2021-03-27 — 20:13:01 UTC	MarkusKahlsen, rachyrules, VerySloppyTwo	6	6	30
+482529	3	0	Brown (6 Suits)	2021-03-27 — 19:57:18 UTC	MarkusKahlsen, rachyrules, VerySloppyTwo	6	6	30
+482456	5	0	Brown & Dark Omni (6 Suits)	2021-03-27 — 19:12:41 UTC	indego, Lanvin, MarkusKahlsen, melwen, VerySloppyTwo	1	6	30
+482440	4	0	Dark Prism (5 Suits)	2021-03-27 — 18:51:54 UTC	Lanvin, newduke, VerySloppyTwo, wump	4	5	25
+482428	3	0	Dark Rainbow (5 Suits)	2021-03-27 — 18:38:38 UTC	indego, Lanvin, VerySloppyTwo	7	5	25
+482341	4	30	White & Muddy Rainbow (6 Suits)	2021-03-27 — 15:53:37 UTC	indego, Lel0uch, MangoPie, VerySloppyTwo	1	6	30
+482330	4	0	White & Muddy Rainbow (6 Suits)	2021-03-27 — 15:28:56 UTC	indego, Lel0uch, MangoPie, VerySloppyTwo	1	6	30
+482325	4	0	White & Muddy Rainbow (6 Suits)	2021-03-27 — 15:18:32 UTC	indego, Lel0uch, MangoPie, VerySloppyTwo	1	6	30
+482321	3	0	Rainbow & Brown (6 Suits)	2021-03-27 — 15:11:55 UTC	Lel0uch, MangoPie, VerySloppyTwo	2	6	30
+482319	3	0	Rainbow & Brown (6 Suits)	2021-03-27 — 15:05:11 UTC	Lel0uch, MangoPie, VerySloppyTwo	2	6	30
+482313	3	0	Rainbow & Brown (6 Suits)	2021-03-27 — 14:43:39 UTC	Lel0uch, MangoPie, VerySloppyTwo	3	6	30
+482306	3	0	Rainbow & Brown (6 Suits)	2021-03-27 — 14:28:16 UTC	Lel0uch, MangoPie, VerySloppyTwo	3	6	30
+482305	3	0	Rainbow & Brown (6 Suits)	2021-03-27 — 14:24:03 UTC	Lel0uch, MangoPie, VerySloppyTwo	7	6	30
+482304	4	0	White & Muddy Rainbow (6 Suits)	2021-03-27 — 14:15:50 UTC	hakha3, Lel0uch, Pablo-, VerySloppyTwo	1	6	30
+482299	5	0	Rainbow & Brown (6 Suits)	2021-03-27 — 14:03:25 UTC	hakha3, HelanaAshryvr, indego, Lel0uch, VerySloppyTwo	5	6	30
+482291	5	30	Null-Ones & Pink (6 Suits)	2021-03-27 — 13:29:19 UTC	HelanaAshryvr, indego, Lel0uch, MangoPie, VerySloppyTwo	1	6	30
+482255	4	0	Up or Down & Pink (6 Suits)	2021-03-27 — 11:01:15 UTC	cockdestroyer, jack67889, sephiroth, VerySloppyTwo	4	6	30
+482249	4	0	Up or Down & Pink (6 Suits)	2021-03-27 — 10:42:39 UTC	cockdestroyer, jack67889, sephiroth, VerySloppyTwo	4	6	30
+482232	5	0	Special Mix (5 Suits)	2021-03-27 — 09:54:21 UTC	robense, sephiroth, VerySloppyTwo, Wittvector, Zakisan	2	5	25
+481525	5	0	3 Suits	2021-03-26 — 21:23:07 UTC	cockdestroyer, Lanvin, Pablo-, tysathem, VerySloppyTwo	5	3	15
+481506	5	12	3 Suits	2021-03-26 — 21:10:14 UTC	cockdestroyer, Lanvin, Pablo-, tysathem, VerySloppyTwo	5	3	15
+481499	5	0	3 Suits	2021-03-26 — 21:01:42 UTC	bjnh, cockdestroyer, Lanvin, Pablo-, VerySloppyTwo	10	3	15
+481492	6	0	3 Suits	2021-03-26 — 20:56:37 UTC	aquarelle, bjnh, cockdestroyer, Lanvin, melwen, VerySloppyTwo	4	3	15
+481479	4	0	Pink & Prism (5 Suits)	2021-03-26 — 20:44:03 UTC	bjnh, Lanvin, robense, VerySloppyTwo	5	5	25
+481461	5	0	Brown (6 Suits)	2021-03-26 — 20:29:04 UTC	Bonja97, cockdestroyer, jeff10, Lanvin, VerySloppyTwo	3	6	30
+481453	5	0	Brown (6 Suits)	2021-03-26 — 20:19:48 UTC	Bonja97, cockdestroyer, jeff10, Lanvin, VerySloppyTwo	5	6	30
+481444	5	0	Brown (6 Suits)	2021-03-26 — 20:11:17 UTC	Bonja97, cockdestroyer, jeff10, Lanvin, VerySloppyTwo	5	6	30
+481440	6	0	Pink (6 Suits)	2021-03-26 — 20:07:09 UTC	aquarelle, Bonja97, cockdestroyer, jeff10, Lanvin, VerySloppyTwo	10	6	30
+481433	6	20	Black (5 Suits)	2021-03-26 — 19:59:35 UTC	bjnh, Bonja97, cockdestroyer, jeff10, Lanvin, VerySloppyTwo	3	5	25
+481417	4	0	Pink & Prism (5 Suits)	2021-03-26 — 19:34:21 UTC	Bonja97, jeff10, Lanvin, VerySloppyTwo	8	5	25
+481400	4	30	Omni (6 Suits)	2021-03-26 — 19:07:39 UTC	Bonja97, jack67889, Lanvin, VerySloppyTwo	13	6	30
+480451	3	22	Dark Omni (5 Suits)	2021-03-25 — 20:49:35 UTC	Denchulitas, MangoPie, VerySloppyTwo	5	5	25
+480435	3	0	Brown & Prism (5 Suits)	2021-03-25 — 20:35:29 UTC	Denchulitas, MangoPie, VerySloppyTwo	10	5	25
+480432	3	0	Dark Omni (5 Suits)	2021-03-25 — 20:32:41 UTC	Denchulitas, MangoPie, VerySloppyTwo	5	5	25
+480422	5	0	Pink & White (5 Suits)	2021-03-25 — 20:25:57 UTC	Arcee, Denchulitas, MangoPie, sephiroth, VerySloppyTwo	5	5	25
+480395	5	0	Pink & White (5 Suits)	2021-03-25 — 20:06:55 UTC	Arcee, Denchulitas, MangoPie, sephiroth, VerySloppyTwo	7	5	25
+480376	5	0	Dark Omni (5 Suits)	2021-03-25 — 19:58:20 UTC	Arcee, Denchulitas, MangoPie, sephiroth, VerySloppyTwo	3	5	25
+480332	5	23	Gray Reversed (5 Suits)	2021-03-25 — 19:22:49 UTC	Lanvin, MarkusKahlsen, melwen, newduke, VerySloppyTwo	3	5	25
+480324	3	0	Clue Starved & Rainbow (6 Suits)	2021-03-25 — 19:06:13 UTC	Lanvin, melwen, VerySloppyTwo	4	6	30
+480039	3	25	White & Light Pink (5 Suits)	2021-03-25 — 12:08:23 UTC	Lel0uch, melwen, VerySloppyTwo	9	5	25
+479311	4	29	Up or Down & Brown (6 Suits)	2021-03-24 — 19:40:25 UTC	indego, MarkusKahlsen, sephiroth, VerySloppyTwo	2	6	30
+479292	4	0	Clue Starved & Pink (6 Suits)	2021-03-24 — 19:12:23 UTC	HelanaAshryvr, indego, Lanvin, VerySloppyTwo	2	6	30
+478220	2	25	Light Pink (5 Suits)	2021-03-23 — 20:13:37 UTC	Lanvin, VerySloppyTwo	13	5	25
+478208	2	0	Light Pink (5 Suits)	2021-03-23 — 20:02:30 UTC	Lanvin, VerySloppyTwo	13	5	25
+478201	2	0	Light Pink (5 Suits)	2021-03-23 — 19:53:09 UTC	Lanvin, VerySloppyTwo	18	5	25
+478192	2	0	Light Pink (5 Suits)	2021-03-23 — 19:45:31 UTC	Lanvin, VerySloppyTwo	23	5	25
+478182	2	22	Light Pink (5 Suits)	2021-03-23 — 19:37:03 UTC	Lanvin, VerySloppyTwo	65	5	25
+477990	5	0	Special Mix (5 Suits)	2021-03-23 — 14:47:16 UTC	hakha3, jeff10, sephiroth, VerySloppyTwo, Wittvector	2	5	25
+477974	2	0	Up or Down (6 Suits)	2021-03-23 — 14:02:47 UTC	sephiroth, VerySloppyTwo	60	6	30
+477968	2	0	Up or Down (6 Suits)	2021-03-23 — 13:56:42 UTC	sephiroth, VerySloppyTwo	75	6	30
+477932	4	0	Special Mix (5 Suits)	2021-03-23 — 12:39:49 UTC	Lanvin, sephiroth, sin_faith, VerySloppyTwo	3	5	25
+477926	4	0	Special Mix (5 Suits)	2021-03-23 — 12:22:09 UTC	Lanvin, sephiroth, sin_faith, VerySloppyTwo	3	5	25
+477923	4	0	Special Mix (5 Suits)	2021-03-23 — 12:14:41 UTC	Lanvin, sephiroth, sin_faith, VerySloppyTwo	3	5	25
+477869	5	0	Gray (5 Suits)	2021-03-23 — 08:51:28 UTC	BraydonM, cockdestroyer, knaphill, sephiroth, VerySloppyTwo	10	5	25
+477265	4	20	Brown-Ones & Brown (4 Suits)	2021-03-22 — 21:54:39 UTC	ChristopheAF, Lanvin, Syrah, VerySloppyTwo	1	4	20
+477235	4	18	Brown-Ones & Brown (4 Suits)	2021-03-22 — 21:37:53 UTC	ChristopheAF, Lanvin, Syrah, VerySloppyTwo	1	4	20
+477206	5	0	Prism & Dark Pink (6 Suits)	2021-03-22 — 21:19:54 UTC	CaitlinSmith, ChristopheAF, Lanvin, Syrah, VerySloppyTwo	2	6	30
+477196	5	0	Prism & Dark Pink (6 Suits)	2021-03-22 — 21:13:39 UTC	CaitlinSmith, ChristopheAF, Lanvin, Syrah, VerySloppyTwo	2	6	30
+477181	5	0	Prism & Dark Pink (6 Suits)	2021-03-22 — 21:03:16 UTC	CaitlinSmith, ChristopheAF, Lanvin, Syrah, VerySloppyTwo	2	6	30
+477143	4	21	Black & Brown (5 Suits)	2021-03-22 — 20:37:41 UTC	CaitlinSmith, Lanvin, Syrah, VerySloppyTwo	8	5	25
+477113	5	20	Rainbow & Pink (4 Suits)	2021-03-22 — 20:14:16 UTC	CaitlinSmith, Lanvin, MarkusKahlsen, Syrah, VerySloppyTwo	3	4	20
+477023	5	0	Special Mix (5 Suits)	2021-03-22 — 18:52:27 UTC	ChristopheAF, indego, sephiroth, Valetta6789, VerySloppyTwo	1	5	25
+476915	5	24	Special Mix (5 Suits)	2021-03-22 — 17:01:33 UTC	MarkusKahlsen, Nitrate2, sephiroth, VerySloppyTwo, Wittvector	2	5	25
+476892	5	0	Special Mix (5 Suits)	2021-03-22 — 16:08:57 UTC	ChristopheAF, MarkusKahlsen, sephiroth, VerySloppyTwo, Wittvector	1	5	25
+476879	5	0	Special Mix (5 Suits)	2021-03-22 — 15:43:52 UTC	ChristopheAF, MarkusKahlsen, sephiroth, VerySloppyTwo, Wittvector	1	5	25
+476869	5	0	Special Mix (5 Suits)	2021-03-22 — 15:23:29 UTC	Floriman, MarkusKahlsen, sephiroth, VerySloppyTwo, Wittvector	2	5	25
+476857	5	0	Special Mix (5 Suits)	2021-03-22 — 15:05:30 UTC	Floriman, MarkusKahlsen, sephiroth, VerySloppyTwo, Wittvector	2	5	25
+476845	5	0	Special Mix (5 Suits)	2021-03-22 — 14:31:45 UTC	ChristopheAF, jack67889, Lanvin, sephiroth, VerySloppyTwo	1	5	25
+476834	5	0	Special Mix (5 Suits)	2021-03-22 — 14:10:50 UTC	ChristopheAF, jack67889, Lanvin, sephiroth, VerySloppyTwo	1	5	25
+476830	5	0	Special Mix (5 Suits)	2021-03-22 — 13:59:04 UTC	ChristopheAF, jack67889, Lanvin, sephiroth, VerySloppyTwo	1	5	25
+476828	5	0	Special Mix (5 Suits)	2021-03-22 — 13:53:11 UTC	ChristopheAF, jack67889, Lanvin, sephiroth, VerySloppyTwo	1	5	25
+476824	5	0	Special Mix (5 Suits)	2021-03-22 — 13:41:16 UTC	ChristopheAF, jack67889, Lanvin, sephiroth, VerySloppyTwo	1	5	25
+476816	5	0	Special Mix (5 Suits)	2021-03-22 — 13:22:01 UTC	ChristopheAF, jack67889, Lanvin, sephiroth, VerySloppyTwo	1	5	25
+476772	4	28	White & Dark Omni (6 Suits)	2021-03-22 — 10:15:00 UTC	indego, Lel0uch, sephiroth, VerySloppyTwo	3	6	30
+476768	4	0	White & Dark Omni (6 Suits)	2021-03-22 — 09:48:14 UTC	indego, Lel0uch, sephiroth, VerySloppyTwo	5	6	30
+476766	5	0	White & Omni (6 Suits)	2021-03-22 — 09:19:46 UTC	indego, Lel0uch, possum, sephiroth, VerySloppyTwo	1	6	30
+476761	5	0	White & Omni (6 Suits)	2021-03-22 — 09:02:29 UTC	indego, Lel0uch, possum, sephiroth, VerySloppyTwo	3	6	30
+476757	4	30	White & Omni (6 Suits)	2021-03-22 — 08:44:48 UTC	indego, possum, sephiroth, VerySloppyTwo	6	6	30
+476315	3	25	Dark Pink (5 Suits)	2021-03-21 — 22:02:16 UTC	Denchulitas, sephiroth, VerySloppyTwo	11	5	25
+476292	3	30	Brown (6 Suits)	2021-03-21 — 21:34:40 UTC	MarkusKahlsen, rachyrules, VerySloppyTwo	11	6	30
+476225	3	28	Brown (6 Suits)	2021-03-21 — 20:34:09 UTC	MarkusKahlsen, rachyrules, VerySloppyTwo	6	6	30
+476155	3	0	Brown (6 Suits)	2021-03-21 — 20:00:03 UTC	MarkusKahlsen, rachyrules, VerySloppyTwo	6	6	30
+475814	5	0	Special Mix (5 Suits)	2021-03-21 — 14:08:48 UTC	ChristopheAF, MarkusKahlsen, sephiroth, VerySloppyTwo, Wittvector	1	5	25
+475812	5	0	Special Mix (5 Suits)	2021-03-21 — 14:03:49 UTC	ChristopheAF, MarkusKahlsen, sephiroth, VerySloppyTwo, Wittvector	1	5	25
+475806	5	0	Special Mix (5 Suits)	2021-03-21 — 13:46:21 UTC	ChristopheAF, MarkusKahlsen, sephiroth, VerySloppyTwo, Wittvector	1	5	25
+475178	5	0	Special Mix (5 Suits)	2021-03-20 — 23:11:11 UTC	derekcheah, Lanvin, MarkusKahlsen, sephiroth, VerySloppyTwo	2	5	25
+475161	5	0	Special Mix (5 Suits)	2021-03-20 — 22:48:28 UTC	derekcheah, Lanvin, MarkusKahlsen, sephiroth, VerySloppyTwo	2	5	25
+475152	5	0	Special Mix (5 Suits)	2021-03-20 — 22:40:59 UTC	derekcheah, Lanvin, MarkusKahlsen, sephiroth, VerySloppyTwo	2	5	25
+475138	5	0	Special Mix (5 Suits)	2021-03-20 — 22:27:31 UTC	Lanvin, melwen, newduke, sephiroth, VerySloppyTwo	2	5	25
+475125	5	0	Special Mix (5 Suits)	2021-03-20 — 22:17:07 UTC	Lanvin, melwen, newduke, sephiroth, VerySloppyTwo	2	5	25
+475120	5	0	Special Mix (5 Suits)	2021-03-20 — 22:14:10 UTC	Lanvin, melwen, newduke, sephiroth, VerySloppyTwo	2	5	25
+475107	5	0	Special Mix (5 Suits)	2021-03-20 — 21:59:39 UTC	derekcheah, Lanvin, newduke, sephiroth, VerySloppyTwo	2	5	25
+475103	5	0	Special Mix (5 Suits)	2021-03-20 — 21:55:02 UTC	derekcheah, Lanvin, newduke, sephiroth, VerySloppyTwo	2	5	25
+475100	5	0	Special Mix (5 Suits)	2021-03-20 — 21:53:17 UTC	derekcheah, Lanvin, newduke, sephiroth, VerySloppyTwo	2	5	25
+475005	5	24	Rainbow & White (5 Suits)	2021-03-20 — 20:31:37 UTC	corys, Lanvin, MangoPie, VerySloppyTwo, xor	1	5	25
+474986	5	0	Rainbow & White (5 Suits)	2021-03-20 — 20:11:59 UTC	corys, Lanvin, MangoPie, VerySloppyTwo, xor	1	5	25
+474961	5	0	Rainbow & White (5 Suits)	2021-03-20 — 19:49:06 UTC	corys, Lanvin, MangoPie, VerySloppyTwo, xor	1	5	25
+474942	5	0	Rainbow & White (5 Suits)	2021-03-20 — 19:25:33 UTC	corys, Lanvin, MangoPie, VerySloppyTwo, xor	1	5	25
+473784	4	25	Rainbow & Gray Pink (5 Suits)	2021-03-19 — 19:16:51 UTC	Lanvin, MangoPie, VerySloppyTwo, Wittvector	5	5	25
+473769	6	0	Rainbow & Gray Pink (5 Suits)	2021-03-19 — 18:57:34 UTC	indego, kevincaseytdk1, Lanvin, MangoPie, VerySloppyTwo, Wittvector	1	5	25
+473575	3	25	Special Mix (5 Suits)	2021-03-19 — 13:59:36 UTC	Lanvin, sephiroth, VerySloppyTwo	2	5	25
+473541	5	30	White & Dark Pink (6 Suits)	2021-03-19 — 12:32:36 UTC	boba, hakha3, Lanvin, Lel0uch, VerySloppyTwo	1	6	30
+473531	5	0	White & Dark Pink (6 Suits)	2021-03-19 — 12:10:51 UTC	boba, hakha3, Lanvin, Lel0uch, VerySloppyTwo	1	6	30
+473528	4	30	Dark Pink (6 Suits)	2021-03-19 — 11:56:26 UTC	hakha3, Lanvin, Lel0uch, VerySloppyTwo	11	6	30
+473524	3	0	White & Dark Pink (6 Suits)	2021-03-19 — 11:46:28 UTC	Lanvin, Lel0uch, VerySloppyTwo	5	6	30
+472780	5	0	Special Mix (5 Suits)	2021-03-18 — 21:32:05 UTC	ChristopheAF, kevincaseytdk1, orucsoraihc, sephiroth, VerySloppyTwo	1	5	25
+472761	5	0	Special Mix (5 Suits)	2021-03-18 — 21:19:15 UTC	ChristopheAF, kevincaseytdk1, orucsoraihc, sephiroth, VerySloppyTwo	1	5	25
+472738	5	0	Special Mix (5 Suits)	2021-03-18 — 21:06:41 UTC	ChristopheAF, kevincaseytdk1, orucsoraihc, sephiroth, VerySloppyTwo	1	5	25
+472688	5	24	Special Mix (5 Suits)	2021-03-18 — 20:34:30 UTC	ChristopheAF, kevincaseytdk1, orucsoraihc, sephiroth, VerySloppyTwo	1	5	25
+472655	3	23	Up or Down & White (5 Suits)	2021-03-18 — 20:03:36 UTC	padi, sephiroth, VerySloppyTwo	6	5	25
+472580	4	24	White-Ones & White (5 Suits)	2021-03-18 — 19:29:35 UTC	indego, Lanvin, padi, VerySloppyTwo	1	5	25
+472556	3	25	No Variant	2021-03-18 — 19:06:52 UTC	Aluap, HariKrishnan, VerySloppyTwo	110	5	25
+472501	5	22	Special Mix (5 Suits)	2021-03-18 — 18:32:31 UTC	ChristopheAF, Lanvin, MangoPie, newduke, VerySloppyTwo	1	5	25
+472394	4	0	Special Mix (5 Suits)	2021-03-18 — 15:40:46 UTC	dobi, sephiroth, VerySloppyTwo, Wittvector	4	5	25
+472386	4	0	Special Mix (5 Suits)	2021-03-18 — 15:17:36 UTC	dobi, sephiroth, VerySloppyTwo, Wittvector	4	5	25
+472357	3	0	Dark Rainbow (6 Suits)	2021-03-18 — 13:51:47 UTC	Lel0uch, squirrel1988, VerySloppyTwo	26	6	30
+472342	3	20	Pink (4 Suits)	2021-03-18 — 12:56:55 UTC	Lanvin, possum, VerySloppyTwo	12	4	20
+472312	2	0	Up or Down & White (5 Suits)	2021-03-18 — 10:14:56 UTC	sephiroth, VerySloppyTwo	9	5	25
+472311	2	22	Up or Down & White (5 Suits)	2021-03-18 — 10:05:54 UTC	sephiroth, VerySloppyTwo	10	5	25
+472307	2	23	Up or Down & White (5 Suits)	2021-03-18 — 09:53:51 UTC	sephiroth, VerySloppyTwo	15	5	25
+472306	2	0	Up or Down & White (5 Suits)	2021-03-18 — 09:47:46 UTC	sephiroth, VerySloppyTwo	20	5	25
+472304	2	22	Up or Down & White (5 Suits)	2021-03-18 — 09:42:10 UTC	sephiroth, VerySloppyTwo	23	5	25
+472301	4	0	Ambiguous & Dual-Color	2021-03-18 — 09:23:53 UTC	Animex52, boba, Lel0uch, VerySloppyTwo	5	6	30
+472299	4	0	Ambiguous & Dual-Color	2021-03-18 — 09:13:04 UTC	Animex52, boba, Lel0uch, VerySloppyTwo	11	6	30
+472298	3	0	Ambiguous & Dual-Color	2021-03-18 — 09:10:25 UTC	boba, Lel0uch, VerySloppyTwo	9	6	30
+472297	3	0	Ambiguous & Dual-Color	2021-03-18 — 09:08:44 UTC	boba, Lel0uch, VerySloppyTwo	17	6	30
+471846	3	20	Rainbow & Pink (4 Suits)	2021-03-17 — 22:28:17 UTC	Denchulitas, sephiroth, VerySloppyTwo	3	4	20
+471829	3	0	Rainbow & Pink (4 Suits)	2021-03-17 — 22:14:45 UTC	Denchulitas, sephiroth, VerySloppyTwo	7	4	20
+471803	3	19	Rainbow & Pink (4 Suits)	2021-03-17 — 21:54:13 UTC	Denchulitas, sephiroth, VerySloppyTwo	11	4	20
+471711	3	30	Dark Pink (6 Suits)	2021-03-17 — 21:23:25 UTC	Denchulitas, sephiroth, VerySloppyTwo	17	6	30
+471338	5	23	Special Mix (5 Suits)	2021-03-17 — 15:43:22 UTC	ChristopheAF, Lel0uch, melwen, sephiroth, VerySloppyTwo	1	5	25
+471326	5	0	Special Mix (5 Suits)	2021-03-17 — 15:14:10 UTC	ChristopheAF, Lel0uch, melwen, sephiroth, VerySloppyTwo	1	5	25
+471315	5	0	Special Mix (5 Suits)	2021-03-17 — 14:50:21 UTC	ChristopheAF, Lel0uch, melwen, sephiroth, VerySloppyTwo	1	5	25
+471311	4	0	White & Gray Pink (6 Suits)	2021-03-17 — 14:29:49 UTC	Lel0uch, melwen, sephiroth, VerySloppyTwo	4	6	30
+471249	5	0	Black (5 Suits)	2021-03-17 — 10:11:06 UTC	Denchulitas, possum, qqqq, sephiroth, VerySloppyTwo	11	5	25
+470621	6	23	Special Mix (5 Suits)	2021-03-16 — 23:27:44 UTC	ChristopheAF, Lanvin, MangoPie, melwen, squirrel1988, VerySloppyTwo	1	5	25
+470596	6	0	Special Mix (5 Suits)	2021-03-16 — 22:56:08 UTC	ChristopheAF, Lanvin, MangoPie, melwen, squirrel1988, VerySloppyTwo	1	5	25
+470585	4	20	Light Pink & Prism (4 Suits)	2021-03-16 — 22:40:12 UTC	Lanvin, melwen, squirrel1988, VerySloppyTwo	1	4	20
+470574	4	0	Light Pink & Prism (4 Suits)	2021-03-16 — 22:27:35 UTC	Lanvin, melwen, squirrel1988, VerySloppyTwo	1	4	20
+470567	4	0	Light Pink & Prism (4 Suits)	2021-03-16 — 22:24:39 UTC	Lanvin, melwen, squirrel1988, VerySloppyTwo	1	4	20
+470513	3	28	Brown (6 Suits)	2021-03-16 — 21:54:59 UTC	MarkusKahlsen, rachyrules, VerySloppyTwo	11	6	30
+470411	3	30	Brown (6 Suits)	2021-03-16 — 20:46:33 UTC	MarkusKahlsen, rachyrules, VerySloppyTwo	9	6	30
+470381	3	0	Special Mix (5 Suits)	2021-03-16 — 20:17:56 UTC	ChristopheAF, hakha3, VerySloppyTwo	1	5	25
+470359	3	0	Special Mix (5 Suits)	2021-03-16 — 19:59:06 UTC	ChristopheAF, hakha3, VerySloppyTwo	1	5	25
+470338	5	0	Special Mix (5 Suits)	2021-03-16 — 19:47:29 UTC	ChristopheAF, hakha3, HelanaAshryvr, newduke, VerySloppyTwo	1	5	25
+470325	5	0	Special Mix (5 Suits)	2021-03-16 — 19:35:11 UTC	ChristopheAF, hakha3, HelanaAshryvr, newduke, VerySloppyTwo	2	5	25
+470309	5	0	Special Mix (5 Suits)	2021-03-16 — 19:19:03 UTC	ChristopheAF, hakha3, HelanaAshryvr, newduke, VerySloppyTwo	2	5	25
+470292	5	0	Special Mix (5 Suits)	2021-03-16 — 18:58:32 UTC	4head, ChristopheAF, hakha3, newduke, VerySloppyTwo	2	5	25
+470286	5	0	Special Mix (5 Suits)	2021-03-16 — 18:50:58 UTC	4head, ChristopheAF, hakha3, newduke, VerySloppyTwo	4	5	25
+470162	5	0	Special Mix (5 Suits)	2021-03-16 — 15:39:43 UTC	ChristopheAF, sephiroth, vEnhance, VerySloppyTwo, Wittvector	1	5	25
+470150	5	0	Special Mix (5 Suits)	2021-03-16 — 14:51:27 UTC	ChristopheAF, hakha3, sephiroth, vEnhance, VerySloppyTwo	1	5	25
+470145	3	0	Special Mix (5 Suits)	2021-03-16 — 14:29:54 UTC	ChristopheAF, sephiroth, VerySloppyTwo	1	5	25
+470144	3	0	Special Mix (5 Suits)	2021-03-16 — 14:29:28 UTC	ChristopheAF, sephiroth, VerySloppyTwo	1	5	25
+470139	5	0	Special Mix (5 Suits)	2021-03-16 — 13:58:42 UTC	ChristopheAF, HelanaAshryvr, Lanvin, melwen, VerySloppyTwo	1	5	25
+470128	3	28	Rainbow & Brown (6 Suits)	2021-03-16 — 13:31:54 UTC	melwen, squirrel1988, VerySloppyTwo	4	6	30
+470116	3	0	Pink (4 Suits)	2021-03-16 — 13:09:13 UTC	Lanvin, possum, VerySloppyTwo	17	4	20
+470112	4	0	Omni & Gray Pink (5 Suits)	2021-03-16 — 13:00:15 UTC	asaelr, Lanvin, possum, VerySloppyTwo	1	5	25
+470104	4	0	Omni & Gray Pink (5 Suits)	2021-03-16 — 12:51:52 UTC	asaelr, Lanvin, possum, VerySloppyTwo	1	5	25
+470065	5	0	Black (6 Suits)	2021-03-16 — 10:31:54 UTC	Denchulitas, possum, qqqq, sephiroth, VerySloppyTwo	14	6	30
+470056	5	26	White & Dark Omni (6 Suits)	2021-03-16 — 09:47:06 UTC	Lel0uch, possum, qqqq, sephiroth, VerySloppyTwo	3	6	30
+470052	4	22	White & Dark Omni (5 Suits)	2021-03-16 — 09:05:42 UTC	Lel0uch, possum, sephiroth, VerySloppyTwo	5	5	25
+469430	5	23	Special Mix (5 Suits)	2021-03-15 — 21:57:01 UTC	ChristopheAF, kevincaseytdk1, Lanvin, newduke, VerySloppyTwo	1	5	25
+469381	5	0	Special Mix (5 Suits)	2021-03-15 — 21:27:40 UTC	bjnh, ChristopheAF, indego, newduke, VerySloppyTwo	2	5	25
+469352	4	0	Brown (6 Suits)	2021-03-15 — 21:05:39 UTC	ChristopheAF, DarthGandalf, knaphill, VerySloppyTwo	21	6	30
+469301	3	30	Brown (6 Suits)	2021-03-15 — 20:27:33 UTC	MarkusKahlsen, rachyrules, VerySloppyTwo	11	6	30
+469254	3	30	Brown (6 Suits)	2021-03-15 — 19:45:08 UTC	MarkusKahlsen, rachyrules, VerySloppyTwo	9	6	30
+469218	4	25	Rainbow & Gray (6 Suits)	2021-03-15 — 19:15:35 UTC	HelanaAshryvr, Lanvin, Lel0uch, VerySloppyTwo	3	6	30
+468958	5	0	Pink & Cocoa Rainbow (6 Suits)	2021-03-15 — 12:39:54 UTC	indego, Lanvin, Lel0uch, melwen, VerySloppyTwo	1	6	30
+468905	4	30	Rainbow & Pink (6 Suits)	2021-03-15 — 10:15:31 UTC	Denchulitas, possum, sephiroth, VerySloppyTwo	22	6	30
+468893	4	0	Pink & Cocoa Rainbow (5 Suits)	2021-03-15 — 09:07:02 UTC	dobi, Lel0uch, sephiroth, VerySloppyTwo	1	5	25
+468892	4	0	Pink & Cocoa Rainbow (5 Suits)	2021-03-15 — 09:03:51 UTC	dobi, Lel0uch, sephiroth, VerySloppyTwo	1	5	25
+468891	4	0	Pink & Cocoa Rainbow (5 Suits)	2021-03-15 — 08:56:25 UTC	dobi, Lel0uch, sephiroth, VerySloppyTwo	2	5	25
+468890	4	0	Light Pink (3 Suits)	2021-03-15 — 08:55:20 UTC	dobi, Lel0uch, sephiroth, VerySloppyTwo	1	3	15
+468334	4	0	White-Ones & Gray (5 Suits)	2021-03-14 — 21:02:49 UTC	aquarelle, HelanaAshryvr, Lanvin, VerySloppyTwo	2	5	25
+468294	3	30	Brown (6 Suits)	2021-03-14 — 20:27:06 UTC	MarkusKahlsen, rachyrules, VerySloppyTwo	9	6	30
+468249	3	0	Brown (6 Suits)	2021-03-14 — 19:57:41 UTC	MarkusKahlsen, rachyrules, VerySloppyTwo	8	6	30
+468206	3	24	White-Ones & Gray (5 Suits)	2021-03-14 — 19:24:53 UTC	dobi, Lanvin, VerySloppyTwo	2	5	25
+468186	3	0	White-Ones & Gray (5 Suits)	2021-03-14 — 19:05:55 UTC	dobi, Lanvin, VerySloppyTwo	2	5	25
+467981	6	27	Black & Omni (6 Suits)	2021-03-14 — 14:55:15 UTC	indego, Lel0uch, melwen, squirrel1988, TimeHoodie, VerySloppyTwo	1	6	30
+467160	5	0	Special Mix (5 Suits)	2021-03-13 — 22:55:50 UTC	hakha3, MangoPie, MarkusKahlsen, sephiroth, VerySloppyTwo	2	5	25
+467124	5	0	Special Mix (5 Suits)	2021-03-13 — 22:36:45 UTC	hakha3, MangoPie, MarkusKahlsen, sephiroth, VerySloppyTwo	2	5	25
+467107	5	0	Special Mix (5 Suits)	2021-03-13 — 22:27:28 UTC	ChristopheAF, hakha3, Lanvin, sephiroth, VerySloppyTwo	1	5	25
+467095	5	0	Special Mix (5 Suits)	2021-03-13 — 22:21:52 UTC	ChristopheAF, hakha3, Lanvin, sephiroth, VerySloppyTwo	1	5	25
+467079	5	0	Special Mix (5 Suits)	2021-03-13 — 22:08:19 UTC	ChristopheAF, hakha3, Lanvin, sephiroth, VerySloppyTwo	1	5	25
+467044	5	0	Special Mix (5 Suits)	2021-03-13 — 21:46:45 UTC	ChristopheAF, hakha3, Lanvin, Syrah, VerySloppyTwo	1	5	25
+467021	5	0	Special Mix (5 Suits)	2021-03-13 — 21:32:47 UTC	ChristopheAF, hakha3, Lanvin, Syrah, VerySloppyTwo	1	5	25
+467005	6	0	Special Mix (5 Suits)	2021-03-13 — 21:20:55 UTC	asaelr, ChristopheAF, hakha3, Lanvin, sephiroth, VerySloppyTwo	2	5	25
+466998	6	0	Special Mix (5 Suits)	2021-03-13 — 21:12:31 UTC	asaelr, ChristopheAF, hakha3, Lanvin, sephiroth, VerySloppyTwo	2	5	25
+466974	4	0	White & Prism (6 Suits)	2021-03-13 — 20:53:04 UTC	Denchulitas, Lanvin, squirrel1988, VerySloppyTwo	6	6	30
+466943	4	14	White & Prism (3 Suits)	2021-03-13 — 20:22:18 UTC	Durandal, Lanvin, squirrel1988, VerySloppyTwo	1	3	15
+466933	4	13	White & Prism (3 Suits)	2021-03-13 — 20:06:02 UTC	Durandal, Lanvin, squirrel1988, VerySloppyTwo	1	3	15
+466921	4	0	White & Prism (3 Suits)	2021-03-13 — 19:52:07 UTC	Durandal, Lanvin, squirrel1988, VerySloppyTwo	1	3	15
+466911	4	0	White & Prism (6 Suits)	2021-03-13 — 19:35:31 UTC	Durandal, Lanvin, squirrel1988, VerySloppyTwo	8	6	30
+466890	5	22	Special Mix (5 Suits)	2021-03-13 — 19:00:21 UTC	asaelr, ChristopheAF, dobi, newduke, VerySloppyTwo	3	5	25
+466750	5	0	White & Dark Prism (5 Suits)	2021-03-13 — 16:13:27 UTC	duckless, hakha3, indego, sephiroth, VerySloppyTwo	1	5	25
+466740	5	0	White & Dark Prism (5 Suits)	2021-03-13 — 16:01:38 UTC	duckless, hakha3, indego, sephiroth, VerySloppyTwo	2	5	25
+466737	4	23	White & Dark Prism (5 Suits)	2021-03-13 — 15:51:01 UTC	duckless, hakha3, indego, VerySloppyTwo	5	5	25
+466728	2	23	Brown (5 Suits)	2021-03-13 — 15:30:48 UTC	Lanvin, VerySloppyTwo	87	5	25
+466725	2	0	Brown (5 Suits)	2021-03-13 — 15:24:37 UTC	Lanvin, VerySloppyTwo	124	5	25
+466717	6	23	Rainbow (5 Suits)	2021-03-13 — 15:03:56 UTC	Aluap, CaitlinSmith, Lanvin, possum, Spieler42, VerySloppyTwo	2	5	25
+466709	5	0	Special Mix (5 Suits)	2021-03-13 — 14:34:56 UTC	Floriman, Lel0uch, robense, sephiroth, VerySloppyTwo	2	5	25
+466706	5	0	Special Mix (5 Suits)	2021-03-13 — 14:25:04 UTC	Floriman, Lel0uch, robense, sephiroth, VerySloppyTwo	2	5	25
+466703	5	0	Special Mix (5 Suits)	2021-03-13 — 14:22:22 UTC	Floriman, Lel0uch, robense, sephiroth, VerySloppyTwo	2	5	25
+465843	5	0	Special Mix (5 Suits)	2021-03-12 — 20:26:35 UTC	ChristopheAF, indego, Lanvin, MangoPie, VerySloppyTwo	1	5	25
+465832	5	0	Special Mix (5 Suits)	2021-03-12 — 20:08:45 UTC	ChristopheAF, indego, Lanvin, MangoPie, VerySloppyTwo	1	5	25
+465825	5	0	Special Mix (5 Suits)	2021-03-12 — 19:54:39 UTC	ChristopheAF, indego, Lanvin, MangoPie, VerySloppyTwo	1	5	25
+465816	5	22	Special Mix (5 Suits)	2021-03-12 — 19:39:46 UTC	ChristopheAF, indego, Lanvin, MangoPie, VerySloppyTwo	1	5	25
+465801	4	0	Special Mix (5 Suits)	2021-03-12 — 19:13:57 UTC	ChristopheAF, indego, Lanvin, VerySloppyTwo	4	5	25
+465795	5	22	Special Mix (5 Suits)	2021-03-12 — 19:00:17 UTC	ChristopheAF, indego, Lanvin, Lel0uch, VerySloppyTwo	1	5	25
+465022	2	20	Brown (4 Suits)	2021-03-11 — 22:24:09 UTC	Lanvin, VerySloppyTwo	24	4	20
+465015	2	0	Brown (4 Suits)	2021-03-11 — 22:15:22 UTC	Lanvin, VerySloppyTwo	25	4	20
+465011	2	0	Brown (4 Suits)	2021-03-11 — 22:13:59 UTC	Lanvin, VerySloppyTwo	34	4	20
+465004	2	19	Brown (4 Suits)	2021-03-11 — 22:05:30 UTC	Lanvin, VerySloppyTwo	54	4	20
+464985	6	22	Prism (5 Suits)	2021-03-11 — 21:43:07 UTC	DarthGandalf, Daryl, Denchulitas, Lanvin, sephiroth, VerySloppyTwo	1	5	25
+464951	5	0	Rainbow & White (5 Suits)	2021-03-11 — 21:08:24 UTC	DarthGandalf, Daryl, Denchulitas, Lanvin, VerySloppyTwo	4	5	25
+464928	3	27	Brown (6 Suits)	2021-03-11 — 20:48:12 UTC	MarkusKahlsen, rachyrules, VerySloppyTwo	12	6	30
+464884	3	29	Brown (6 Suits)	2021-03-11 — 20:17:07 UTC	MarkusKahlsen, rachyrules, VerySloppyTwo	11	6	30
+464842	3	0	Brown (6 Suits)	2021-03-11 — 19:44:44 UTC	MarkusKahlsen, rachyrules, VerySloppyTwo	11	6	30
+464654	4	30	Rainbow-Ones & Prism (6 Suits)	2021-03-11 — 15:34:55 UTC	HelanaAshryvr, Lanvin, qqqq, VerySloppyTwo	2	6	30
+464641	4	0	Rainbow-Ones & Prism (6 Suits)	2021-03-11 — 15:16:03 UTC	HelanaAshryvr, Lanvin, qqqq, VerySloppyTwo	2	6	30
+464620	5	0	Special Mix (5 Suits)	2021-03-11 — 14:39:59 UTC	ChristopheAF, indego, Lel0uch, sephiroth, VerySloppyTwo	1	5	25
+464619	5	0	Special Mix (5 Suits)	2021-03-11 — 14:39:19 UTC	ChristopheAF, indego, Lel0uch, sephiroth, VerySloppyTwo	1	5	25
+464612	5	0	Special Mix (5 Suits)	2021-03-11 — 14:29:35 UTC	ChristopheAF, indego, Lel0uch, sephiroth, VerySloppyTwo	1	5	25
+464610	5	0	Special Mix (5 Suits)	2021-03-11 — 14:23:57 UTC	ChristopheAF, indego, Lel0uch, sephiroth, VerySloppyTwo	1	5	25
+464609	5	0	Special Mix (5 Suits)	2021-03-11 — 14:22:20 UTC	ChristopheAF, indego, Lel0uch, sephiroth, VerySloppyTwo	1	5	25
+464602	5	0	Special Mix (5 Suits)	2021-03-11 — 14:12:06 UTC	ChristopheAF, indego, Lel0uch, sephiroth, VerySloppyTwo	1	5	25
+464596	5	0	Special Mix (5 Suits)	2021-03-11 — 13:59:16 UTC	ChristopheAF, indego, Lel0uch, sephiroth, VerySloppyTwo	1	5	25
+464591	3	0	Special Mix (5 Suits)	2021-03-11 — 13:47:27 UTC	ChristopheAF, kopen, VerySloppyTwo	1	5	25
+464585	3	0	Special Mix (5 Suits)	2021-03-11 — 13:36:58 UTC	ChristopheAF, kopen, VerySloppyTwo	1	5	25
+464564	5	30	Pink & Gray (6 Suits)	2021-03-11 — 12:35:25 UTC	kopen, Lanvin, Lel0uch, swineherd, VerySloppyTwo	1	6	30
+464559	5	0	Pink & Gray (6 Suits)	2021-03-11 — 12:15:10 UTC	kopen, Lanvin, Lel0uch, swineherd, VerySloppyTwo	2	6	30
+464496	4	21	Alternating Clues & Dark Brown (5 Suits)	2021-03-11 — 09:35:35 UTC	Lanvin, sephiroth, TimeHoodie, VerySloppyTwo	1	5	25
+464470	2	25	Special Mix (5 Suits)	2021-03-11 — 08:52:13 UTC	sephiroth, VerySloppyTwo	9	5	25
+463849	3	0	Brown (6 Suits)	2021-03-10 — 20:34:53 UTC	MarkusKahlsen, rachyrules, VerySloppyTwo	18	6	30
+463817	3	30	Brown (6 Suits)	2021-03-10 — 19:58:51 UTC	MarkusKahlsen, rachyrules, VerySloppyTwo	22	6	30
+463783	3	30	Brown (6 Suits)	2021-03-10 — 19:21:18 UTC	MarkusKahlsen, rachyrules, VerySloppyTwo	25	6	30
+463765	3	0	Brown (6 Suits)	2021-03-10 — 18:57:13 UTC	MarkusKahlsen, rachyrules, VerySloppyTwo	31	6	30
+463568	5	0	Special Mix (5 Suits)	2021-03-10 — 14:40:12 UTC	ChristopheAF, robense, rz, sephiroth, VerySloppyTwo	3	5	25
+463558	5	0	Special Mix (5 Suits)	2021-03-10 — 14:20:02 UTC	ChristopheAF, hakha3, Lanvin, sephiroth, VerySloppyTwo	1	5	25
+462794	5	0	Special Mix (5 Suits)	2021-03-09 — 20:49:02 UTC	ChristopheAF, Floriman, Lanvin, rz, VerySloppyTwo	3	5	25
+462757	5	0	Special Mix (5 Suits)	2021-03-09 — 20:30:37 UTC	ChristopheAF, Floriman, Lanvin, rz, VerySloppyTwo	3	5	25
+462719	3	30	White & Prism (6 Suits)	2021-03-09 — 20:15:38 UTC	Denchulitas, rachyrules, VerySloppyTwo	3	6	30
+462667	3	0	White & Prism (6 Suits)	2021-03-09 — 19:54:12 UTC	Denchulitas, rachyrules, VerySloppyTwo	3	6	30
+462645	3	0	White & Prism (6 Suits)	2021-03-09 — 19:44:07 UTC	Denchulitas, rachyrules, VerySloppyTwo	4	6	30
+462609	2	0	Special Mix (5 Suits)	2021-03-09 — 19:25:54 UTC	sephiroth, VerySloppyTwo	9	5	25
+462598	2	0	Special Mix (5 Suits)	2021-03-09 — 19:15:54 UTC	sephiroth, VerySloppyTwo	9	5	25
+462583	2	0	Special Mix (5 Suits)	2021-03-09 — 19:04:07 UTC	sephiroth, VerySloppyTwo	9	5	25
+462578	2	0	Special Mix (5 Suits)	2021-03-09 — 18:59:30 UTC	sephiroth, VerySloppyTwo	10	5	25
+462567	2	0	Special Mix (5 Suits)	2021-03-09 — 18:52:52 UTC	sephiroth, VerySloppyTwo	10	5	25
+462549	2	23	Special Mix (5 Suits)	2021-03-09 — 18:41:08 UTC	sephiroth, VerySloppyTwo	10	5	25
+462400	5	26	Pink & Dark Omni (6 Suits)	2021-03-09 — 15:08:17 UTC	eliclax, Lanvin, Lel0uch, melwen, VerySloppyTwo	1	6	30
+462377	6	0	Pink & Dark Omni (6 Suits)	2021-03-09 — 14:40:07 UTC	eliclax, indego, Lanvin, Lel0uch, melwen, VerySloppyTwo	1	6	30
+462293	6	27	Brown (6 Suits)	2021-03-09 — 11:47:37 UTC	cockdestroyer, Denchulitas, nitawa, Nitrate2, sephiroth, VerySloppyTwo	2	6	30
+462282	5	0	White & Brown (6 Suits)	2021-03-09 — 11:14:31 UTC	cockdestroyer, Denchulitas, nitawa, sephiroth, VerySloppyTwo	3	6	30
+462280	3	0	White & Brown (6 Suits)	2021-03-09 — 10:56:32 UTC	Denchulitas, sephiroth, VerySloppyTwo	16	6	30
+462273	3	0	White & Brown (6 Suits)	2021-03-09 — 10:04:23 UTC	Denchulitas, sephiroth, VerySloppyTwo	20	6	30
+462270	4	25	Rainbow & Dark Prism (5 Suits)	2021-03-09 — 09:31:57 UTC	indego, kopen, Lel0uch, VerySloppyTwo	2	5	25
+462266	4	0	Rainbow & Dark Prism (5 Suits)	2021-03-09 — 09:12:27 UTC	indego, kopen, Lel0uch, VerySloppyTwo	4	5	25
+462263	4	24	Rainbow & Dark Prism (5 Suits)	2021-03-09 — 08:54:24 UTC	indego, kopen, Lel0uch, VerySloppyTwo	3	5	25
+462257	4	20	Rainbow & Dark Prism (5 Suits)	2021-03-09 — 08:32:18 UTC	indego, kopen, robense, VerySloppyTwo	5	5	25
+461782	3	15	Rainbow-Ones (3 Suits)	2021-03-08 — 22:14:59 UTC	Denchulitas, sephiroth, VerySloppyTwo	7	3	15
+461750	3	30	Rainbow & Prism (6 Suits)	2021-03-08 — 21:58:20 UTC	Denchulitas, sephiroth, VerySloppyTwo	10	6	30
+461696	2	0	Special Mix (5 Suits)	2021-03-08 — 21:27:26 UTC	sephiroth, VerySloppyTwo	10	5	25
+461684	2	15	Omni (3 Suits)	2021-03-08 — 21:19:43 UTC	Lanvin, VerySloppyTwo	17	3	15
+461668	2	14	Omni (3 Suits)	2021-03-08 — 21:07:33 UTC	Lanvin, VerySloppyTwo	22	3	15
+461650	2	14	Omni (3 Suits)	2021-03-08 — 20:54:35 UTC	Lanvin, VerySloppyTwo	29	3	15
+461640	2	0	Omni (3 Suits)	2021-03-08 — 20:45:40 UTC	Lanvin, VerySloppyTwo	36	3	15
+461631	2	0	Omni (3 Suits)	2021-03-08 — 20:39:08 UTC	Lanvin, VerySloppyTwo	66	3	15
+461623	5	0	White-Ones & White (4 Suits)	2021-03-08 — 20:28:51 UTC	bjnh, knaphill, Lanvin, newduke, VerySloppyTwo	1	4	20
+461609	4	25	Pink-Fives & Dark Prism (6 Suits)	2021-03-08 — 20:11:22 UTC	dobi, Lanvin, TimeHoodie, VerySloppyTwo	1	6	30
+461462	5	28	Pink & Dark Omni (6 Suits)	2021-03-08 — 16:33:28 UTC	indego, Lel0uch, melwen, Nitrate2, VerySloppyTwo	1	6	30
+461441	5	0	Pink & Dark Omni (6 Suits)	2021-03-08 — 16:01:57 UTC	indego, Lel0uch, melwen, Nitrate2, VerySloppyTwo	1	6	30
+461426	5	0	Pink & Dark Omni (6 Suits)	2021-03-08 — 15:40:54 UTC	indego, Lel0uch, melwen, Nitrate2, VerySloppyTwo	1	6	30
+461407	5	28	Pink & Dark Omni (6 Suits)	2021-03-08 — 15:20:52 UTC	indego, Lel0uch, melwen, Nitrate2, VerySloppyTwo	1	6	30
+461360	5	27	Pink & Dark Omni (6 Suits)	2021-03-08 — 14:45:42 UTC	indego, Lel0uch, melwen, Nitrate2, VerySloppyTwo	1	6	30
+461350	3	0	Brown & Gray Pink (5 Suits)	2021-03-08 — 14:24:36 UTC	indego, Nitrate2, VerySloppyTwo	5	5	25
+461278	5	30	Rainbow-Fives (6 Suits)	2021-03-08 — 11:59:03 UTC	asaelr, Lanvin, sin_faith, TimeHoodie, VerySloppyTwo	4	6	30
+461254	3	0	White & Dark Omni (6 Suits)	2021-03-08 — 10:20:06 UTC	eliclax, Lel0uch, VerySloppyTwo	3	6	30
+461249	3	0	White & Dark Omni (6 Suits)	2021-03-08 — 10:01:31 UTC	eliclax, Lel0uch, VerySloppyTwo	3	6	30
+461247	3	0	White & Dark Omni (6 Suits)	2021-03-08 — 09:53:26 UTC	eliclax, Lel0uch, VerySloppyTwo	3	6	30
+461242	3	0	White & Dark Omni (6 Suits)	2021-03-08 — 09:41:05 UTC	eliclax, Lel0uch, VerySloppyTwo	4	6	30
+461240	4	0	Pink & Dark Omni (6 Suits)	2021-03-08 — 09:28:05 UTC	eliclax, indego, Lel0uch, VerySloppyTwo	2	6	30
+461237	4	0	Pink & Dark Omni (6 Suits)	2021-03-08 — 09:19:27 UTC	eliclax, indego, Lel0uch, VerySloppyTwo	3	6	30
+460428	5	0	Pink-Ones & White (3 Suits)	2021-03-07 — 20:46:48 UTC	hakha3, HelanaAshryvr, Lanvin, VerySloppyTwo, Wittvector	1	3	15
+460416	5	0	Pink-Ones & White (3 Suits)	2021-03-07 — 20:42:37 UTC	hakha3, HelanaAshryvr, Lanvin, VerySloppyTwo, Wittvector	1	3	15
+460395	5	0	White-Ones & Pink (4 Suits)	2021-03-07 — 20:26:53 UTC	hakha3, HelanaAshryvr, Lanvin, VerySloppyTwo, Wittvector	2	4	20
+460379	3	30	Brown & Gray (6 Suits)	2021-03-07 — 20:14:54 UTC	Lel0uch, MarkusKahlsen, VerySloppyTwo	7	6	30
+460319	5	20	Light Pink & Prism (4 Suits)	2021-03-07 — 19:31:12 UTC	HelanaAshryvr, Lanvin, MangoPie, squirrel1988, VerySloppyTwo	1	4	20
+460298	5	0	Light Pink & Prism (4 Suits)	2021-03-07 — 19:12:56 UTC	HelanaAshryvr, Lanvin, MangoPie, squirrel1988, VerySloppyTwo	1	4	20
+460286	4	19	Light Pink & Prism (4 Suits)	2021-03-07 — 18:57:29 UTC	HelanaAshryvr, Lanvin, MangoPie, VerySloppyTwo	1	4	20
+459188	4	0	Throw It in a Hole (4 Suits)	2021-03-06 — 21:36:07 UTC	HelanaAshryvr, Lanvin, squirrel1988, VerySloppyTwo	12	4	20
+459099	3	30	Dark Omni (6 Suits)	2021-03-06 — 20:03:42 UTC	aquarelle, ChristopheAF, VerySloppyTwo	26	6	30
+459050	5	27	Dark Brown (6 Suits)	2021-03-06 — 19:28:57 UTC	aquarelle, ChristopheAF, indego, Sucubis, VerySloppyTwo	9	6	30
+459016	5	0	Dark Brown (6 Suits)	2021-03-06 — 18:54:49 UTC	aquarelle, ChristopheAF, indego, Sucubis, VerySloppyTwo	10	6	30
+458908	6	0	Black & Brown (6 Suits)	2021-03-06 — 16:25:41 UTC	jeff10, Lanvin, Lel0uch, MangoPie, melwen, VerySloppyTwo	2	6	30
+458903	6	0	Rainbow (6 Suits)	2021-03-06 — 16:13:36 UTC	jeff10, Lanvin, Lel0uch, MangoPie, melwen, VerySloppyTwo	9	6	30
+458879	4	0	White-Fives & Dark Omni (5 Suits)	2021-03-06 — 15:30:24 UTC	eliclax, Lanvin, VerySloppyTwo, wump	1	5	25
+458877	4	0	White-Fives & Dark Omni (5 Suits)	2021-03-06 — 15:16:55 UTC	eliclax, Lanvin, VerySloppyTwo, wump	2	5	25
+458859	6	0	Black & Rainbow (6 Suits)	2021-03-06 — 14:56:08 UTC	CaitlinSmith, Denchulitas, Lanvin, MarkusKahlsen, VerySloppyTwo, wolfpack	2	6	30
+458003	4	15	Omni-Ones & Brown (3 Suits)	2021-03-05 — 21:40:50 UTC	Lanvin, MarkusKahlsen, rz, VerySloppyTwo	1	3	15
+457981	4	20	White-Ones & Rainbow (4 Suits)	2021-03-05 — 21:25:09 UTC	Lanvin, MarkusKahlsen, rz, VerySloppyTwo	2	4	20
+457952	5	0	Muddy Rainbow (4 Suits)	2021-03-05 — 21:09:18 UTC	bjnh, ChristopheAF, Lanvin, squirrel1988, VerySloppyTwo	5	4	20
+457898	5	30	White-Ones & Omni (6 Suits)	2021-03-05 — 20:40:20 UTC	bjnh, ChristopheAF, Lanvin, squirrel1988, VerySloppyTwo	1	6	30
+457869	5	0	White-Ones & Omni (6 Suits)	2021-03-05 — 20:23:54 UTC	bjnh, ChristopheAF, Lanvin, squirrel1988, VerySloppyTwo	1	6	30
+457867	5	0	White-Ones & Omni (6 Suits)	2021-03-05 — 20:21:43 UTC	bjnh, ChristopheAF, Lanvin, squirrel1988, VerySloppyTwo	1	6	30
+457853	4	26	Brown-Ones & Black (6 Suits)	2021-03-05 — 20:07:32 UTC	bjnh, BraydonM, Lanvin, VerySloppyTwo	2	6	30
+457835	4	0	Rainbow & Gray (5 Suits)	2021-03-05 — 19:44:44 UTC	dobi, Lanvin, lolthisnotderk, VerySloppyTwo	4	5	25
+457632	2	0	Special Mix (5 Suits)	2021-03-05 — 15:58:41 UTC	sephiroth, VerySloppyTwo	10	5	25
+457625	2	0	Special Mix (5 Suits)	2021-03-05 — 15:50:57 UTC	sephiroth, VerySloppyTwo	11	5	25
+457621	2	0	Special Mix (5 Suits)	2021-03-05 — 15:48:22 UTC	sephiroth, VerySloppyTwo	11	5	25
+457620	2	0	Special Mix (5 Suits)	2021-03-05 — 15:46:23 UTC	sephiroth, VerySloppyTwo	11	5	25
+457616	2	0	Special Mix (5 Suits)	2021-03-05 — 15:43:13 UTC	sephiroth, VerySloppyTwo	11	5	25
+457614	2	23	Special Mix (5 Suits)	2021-03-05 — 15:39:16 UTC	sephiroth, VerySloppyTwo	10	5	25
+457608	2	0	Special Mix (5 Suits)	2021-03-05 — 15:29:04 UTC	sephiroth, VerySloppyTwo	11	5	25
+457563	5	0	Rainbow (6 Suits)	2021-03-05 — 14:03:33 UTC	eliclax, Lel0uch, melwen, possum, VerySloppyTwo	24	6	30
+457525	4	25	Ambiguous & White (5 Suits)	2021-03-05 — 12:27:31 UTC	indego, Lanvin, sin_faith, VerySloppyTwo	3	5	25
+457521	5	0	Light-Pink-Ones & Omni (6 Suits)	2021-03-05 — 11:59:49 UTC	indego, Lanvin, Lel0uch, sin_faith, VerySloppyTwo	1	6	30
+457488	2	19	Rainbow (4 Suits)	2021-03-05 — 10:16:11 UTC	indego, VerySloppyTwo	76	4	20
+457479	2	19	Rainbow (4 Suits)	2021-03-05 — 10:02:17 UTC	indego, VerySloppyTwo	132	4	20
+456692	6	0	Dark Rainbow (5 Suits)	2021-03-04 — 21:06:43 UTC	colton, Lanvin, MangoPie, VerySloppyTwo, Wittvector, wump	2	5	25
+456655	4	24	Omni-Fives & Dark Rainbow (5 Suits)	2021-03-04 — 20:41:58 UTC	Floriman, Lanvin, Lel0uch, VerySloppyTwo	1	5	25
+456614	4	0	Omni-Fives & Dark Rainbow (5 Suits)	2021-03-04 — 20:15:58 UTC	Floriman, Lanvin, Lel0uch, VerySloppyTwo	1	5	25
+456598	4	0	Omni-Fives & Dark Rainbow (5 Suits)	2021-03-04 — 20:01:55 UTC	Floriman, Lanvin, Lel0uch, VerySloppyTwo	1	5	25
+456581	5	0	Light-Pink-Ones (6 Suits)	2021-03-04 — 19:44:34 UTC	Floriman, Lanvin, Lel0uch, squirrel1988, VerySloppyTwo	1	6	30
+456576	5	0	Light-Pink-Ones (6 Suits)	2021-03-04 — 19:41:21 UTC	Floriman, Lanvin, Lel0uch, squirrel1988, VerySloppyTwo	1	6	30
+456566	4	0	Light-Pink-Ones (6 Suits)	2021-03-04 — 19:28:10 UTC	Lanvin, Lel0uch, squirrel1988, VerySloppyTwo	1	6	30
+456554	4	0	Light-Pink-Ones (6 Suits)	2021-03-04 — 19:14:14 UTC	Lanvin, Lel0uch, squirrel1988, VerySloppyTwo	2	6	30
+456435	2	0	Special Mix (5 Suits)	2021-03-04 — 15:40:24 UTC	sephiroth, VerySloppyTwo	11	5	25
+456432	2	0	Special Mix (5 Suits)	2021-03-04 — 15:36:38 UTC	sephiroth, VerySloppyTwo	12	5	25
+456430	2	0	Special Mix (5 Suits)	2021-03-04 — 15:34:54 UTC	sephiroth, VerySloppyTwo	12	5	25
+456428	2	0	Special Mix (5 Suits)	2021-03-04 — 15:32:50 UTC	sephiroth, VerySloppyTwo	12	5	25
+456425	2	0	Special Mix (5 Suits)	2021-03-04 — 15:28:43 UTC	sephiroth, VerySloppyTwo	12	5	25
+456421	2	0	Special Mix (5 Suits)	2021-03-04 — 15:25:09 UTC	sephiroth, VerySloppyTwo	12	5	25
+456389	3	30	Null (6 Suits)	2021-03-04 — 14:36:16 UTC	indego, Lel0uch, VerySloppyTwo	20	6	30
+456381	3	0	Pink-Ones (4 Suits)	2021-03-04 — 14:24:24 UTC	indego, Lel0uch, VerySloppyTwo	6	4	20
+456377	3	30	Black & Gray (6 Suits)	2021-03-04 — 14:17:14 UTC	indego, Lel0uch, VerySloppyTwo	10	6	30
+456368	3	0	Black & Gray (6 Suits)	2021-03-04 — 14:04:44 UTC	indego, Lel0uch, VerySloppyTwo	14	6	30
+456341	5	0	Light-Pink-Ones (6 Suits)	2021-03-04 — 12:52:46 UTC	Lanvin, Lel0uch, MarkusKahlsen, melwen, VerySloppyTwo	1	6	30
+456331	4	0	Brown-Fives & Omni (6 Suits)	2021-03-04 — 12:28:12 UTC	Lanvin, MarkusKahlsen, melwen, VerySloppyTwo	1	6	30
+455589	4	20	Alternating Clues & White (4 Suits)	2021-03-03 — 21:26:11 UTC	jack67889, Lanvin, Nitrate2, VerySloppyTwo	1	4	20
+455580	4	0	Light-Pink-Ones & Pink (3 Suits)	2021-03-03 — 21:10:51 UTC	jack67889, Lanvin, Nitrate2, VerySloppyTwo	1	3	15
+455566	6	0	Clue Starved (6 Suits)	2021-03-03 — 20:53:23 UTC	indego, jack67889, Lanvin, Nitrate2, robense, VerySloppyTwo	2	6	30
+455542	4	21	Pink-Fives & Gray (5 Suits)	2021-03-03 — 20:21:06 UTC	indego, Lanvin, Nitrate2, VerySloppyTwo	1	5	25
+455532	4	0	Pink-Fives & Gray (5 Suits)	2021-03-03 — 20:05:44 UTC	indego, Lanvin, Nitrate2, VerySloppyTwo	1	5	25
+455510	6	0	White-Ones & Black (6 Suits)	2021-03-03 — 19:42:07 UTC	indego, Lanvin, MangoPie, melwen, VerySloppyTwo, Wittvector	1	6	30
+455463	5	27	White-Ones & Black (6 Suits)	2021-03-03 — 19:17:01 UTC	Lanvin, MangoPie, melwen, squirrel1988, VerySloppyTwo	1	6	30
+455429	5	0	White-Ones & Black (6 Suits)	2021-03-03 — 18:53:02 UTC	hakha3, Lanvin, melwen, squirrel1988, VerySloppyTwo	1	6	30
+455420	4	0	Pink & Omni (4 Suits)	2021-03-03 — 18:45:00 UTC	hakha3, Lanvin, squirrel1988, VerySloppyTwo	6	4	20
+455410	4	0	Pink & Omni (4 Suits)	2021-03-03 — 18:39:24 UTC	hakha3, Lanvin, squirrel1988, VerySloppyTwo	7	4	20
+455335	2	0	Special Mix (5 Suits)	2021-03-03 — 16:48:22 UTC	sephiroth, VerySloppyTwo	12	5	25
+455332	2	0	Special Mix (5 Suits)	2021-03-03 — 16:42:29 UTC	sephiroth, VerySloppyTwo	12	5	25
+455317	3	23	Special Mix (5 Suits)	2021-03-03 — 16:13:54 UTC	ChristopheAF, TimeHoodie, VerySloppyTwo	1	5	25
+455309	3	23	Special Mix (5 Suits)	2021-03-03 — 15:55:25 UTC	ChristopheAF, TimeHoodie, VerySloppyTwo	1	5	25
+455281	5	24	Dark Brown (5 Suits)	2021-03-03 — 14:31:39 UTC	Lanvin, Nitrate2, sephiroth, Spieler42, VerySloppyTwo	2	5	25
+455277	4	0	Light Pink (3 Suits)	2021-03-03 — 14:15:29 UTC	Lanvin, Nitrate2, sephiroth, VerySloppyTwo	1	3	15
+455140	5	0	Dark Brown (6 Suits)	2021-03-03 — 09:28:39 UTC	derekcheah, kopen, Lel0uch, melwen, VerySloppyTwo	5	6	30
+455137	5	0	Dark Brown (6 Suits)	2021-03-03 — 09:10:05 UTC	derekcheah, indego, kopen, Lel0uch, VerySloppyTwo	6	6	30
+455136	5	0	Dark Brown (6 Suits)	2021-03-03 — 09:06:02 UTC	derekcheah, indego, kopen, Lel0uch, VerySloppyTwo	7	6	30
+455135	4	0	Omni & Cocoa Rainbow (6 Suits)	2021-03-03 — 08:40:54 UTC	indego, kopen, Lel0uch, VerySloppyTwo	1	6	30
+455130	4	0	Omni & Cocoa Rainbow (6 Suits)	2021-03-03 — 08:21:53 UTC	indego, kopen, Lel0uch, VerySloppyTwo	2	6	30
+454506	3	0	Special Mix (5 Suits)	2021-03-02 — 21:40:37 UTC	ChristopheAF, Lanvin, VerySloppyTwo	1	5	25
+454492	3	0	Special Mix (5 Suits)	2021-03-02 — 21:32:14 UTC	ChristopheAF, Lanvin, VerySloppyTwo	1	5	25
+454458	5	0	Special Mix (5 Suits)	2021-03-02 — 21:14:42 UTC	ChristopheAF, jack67889, jeff10, Lanvin, VerySloppyTwo	2	5	25
+454441	5	0	Special Mix (5 Suits)	2021-03-02 — 21:07:00 UTC	ChristopheAF, jack67889, jeff10, Lanvin, VerySloppyTwo	2	5	25
+454433	5	0	Special Mix (5 Suits)	2021-03-02 — 21:02:13 UTC	ChristopheAF, jack67889, jeff10, Lanvin, VerySloppyTwo	2	5	25
+454393	4	25	No Variant	2021-03-02 — 20:36:49 UTC	Denchulitas, MarkusKahlsen, VerySloppyTwo, wolfpack	55	5	25
+454352	4	23	No Variant	2021-03-02 — 20:05:22 UTC	Denchulitas, MarkusKahlsen, VerySloppyTwo, wolfpack	64	5	25
+454332	3	0	Black & White (6 Suits)	2021-03-02 — 19:42:04 UTC	Denchulitas, MarkusKahlsen, VerySloppyTwo	34	6	30
+454317	6	0	Black & White (6 Suits)	2021-03-02 — 19:24:05 UTC	Denchulitas, Lanvin, MangoPie, MarkusKahlsen, VerySloppyTwo, Wittvector	1	6	30
+454224	5	21	Black & Null (5 Suits)	2021-03-02 — 17:01:43 UTC	Fey, indego, Lanvin, TimeHoodie, VerySloppyTwo	3	5	25
+454177	6	0	Pink & White (6 Suits)	2021-03-02 — 14:58:02 UTC	indego, Lel0uch, MangoPie, melwen, TimeHoodie, VerySloppyTwo	1	6	30
+454173	5	0	Black & Pink (6 Suits)	2021-03-02 — 14:42:39 UTC	Lel0uch, MangoPie, melwen, TimeHoodie, VerySloppyTwo	1	6	30
+454118	4	30	Rainbow & Omni (6 Suits)	2021-03-02 — 12:14:43 UTC	kopen, Lanvin, MarkusKahlsen, VerySloppyTwo	6	6	30
+454076	3	26	Ambiguous Mix	2021-03-02 — 10:10:04 UTC	indego, Lel0uch, VerySloppyTwo	7	6	30
+454069	3	0	Ambiguous Mix	2021-03-02 — 09:52:33 UTC	indego, Lel0uch, VerySloppyTwo	9	6	30
+454067	3	0	Ambiguous Mix	2021-03-02 — 09:48:46 UTC	indego, Lel0uch, VerySloppyTwo	9	6	30
+454061	3	0	Ambiguous Mix	2021-03-02 — 09:41:32 UTC	indego, Lel0uch, VerySloppyTwo	11	6	30
+454055	3	0	Ambiguous Mix	2021-03-02 — 09:28:28 UTC	indego, Lel0uch, VerySloppyTwo	17	6	30
+454047	4	22	White & Dark Rainbow (5 Suits)	2021-03-02 — 09:11:01 UTC	indego, Lel0uch, sephiroth, VerySloppyTwo	5	5	25
+454039	3	0	Omni & Dark Brown (5 Suits)	2021-03-02 — 08:54:16 UTC	indego, Lel0uch, VerySloppyTwo	1	5	25
+454035	3	0	Omni & Dark Brown (5 Suits)	2021-03-02 — 08:45:07 UTC	indego, Lel0uch, VerySloppyTwo	1	5	25
+453404	4	29	Prism (6 Suits)	2021-03-01 — 21:16:21 UTC	Denchulitas, Kyle, sephiroth, VerySloppyTwo	2	6	30
+453363	4	0	Prism (6 Suits)	2021-03-01 — 20:37:32 UTC	Denchulitas, Kyle, sephiroth, VerySloppyTwo	3	6	30
+453330	5	30	White & Prism (6 Suits)	2021-03-01 — 20:16:56 UTC	Denchulitas, griff77, sephiroth, VerySloppyTwo, Wittvector	2	6	30
+453068	4	0	Muddy Rainbow & Dark Prism (5 Suits)	2021-03-01 — 14:13:31 UTC	indego, MarkusKahlsen, Nitrate2, VerySloppyTwo	1	5	25
+453033	6	30	Pink & Gray (6 Suits)	2021-03-01 — 12:47:18 UTC	ChristopheAF, cockdestroyer, jack67889, Lanvin, Lel0uch, VerySloppyTwo	1	6	30
+453031	6	0	Pink & Gray (6 Suits)	2021-03-01 — 12:31:39 UTC	ChristopheAF, cockdestroyer, jack67889, Lanvin, Lel0uch, VerySloppyTwo	1	6	30
+453026	3	25	Black & Prism (5 Suits)	2021-03-01 — 12:14:39 UTC	Lanvin, MangoPie, VerySloppyTwo	5	5	25
+453023	3	0	Black & Prism (5 Suits)	2021-03-01 — 12:04:01 UTC	Lanvin, MangoPie, VerySloppyTwo	9	5	25
+453002	2	0	Rainbow-Ones (5 Suits)	2021-03-01 — 10:33:28 UTC	Lel0uch, VerySloppyTwo	10	5	25
+453001	2	0	Rainbow-Ones (5 Suits)	2021-03-01 — 10:30:57 UTC	Lel0uch, VerySloppyTwo	22	5	25
+452998	2	23	Rainbow-Ones (5 Suits)	2021-03-01 — 10:28:13 UTC	Lel0uch, VerySloppyTwo	29	5	25
+452992	4	30	Black (6 Suits)	2021-03-01 — 10:02:00 UTC	Denchulitas, Lel0uch, sephiroth, VerySloppyTwo	14	6	30
+452989	4	0	Black (6 Suits)	2021-03-01 — 09:49:01 UTC	Denchulitas, Lel0uch, sephiroth, VerySloppyTwo	14	6	30
+452987	4	0	Black (6 Suits)	2021-03-01 — 09:43:06 UTC	Denchulitas, Lel0uch, sephiroth, VerySloppyTwo	13	6	30
+452979	4	0	Black (6 Suits)	2021-03-01 — 09:32:58 UTC	Denchulitas, Lel0uch, sephiroth, VerySloppyTwo	17	6	30
+452344	3	0	Special Mix (5 Suits)	2021-02-28 — 22:05:10 UTC	ChristopheAF, HelanaAshryvr, VerySloppyTwo	2	5	25
+452334	3	0	Special Mix (5 Suits)	2021-02-28 — 22:00:19 UTC	ChristopheAF, HelanaAshryvr, VerySloppyTwo	5	5	25
+452319	5	0	Null-Ones & Dark Rainbow (6 Suits)	2021-02-28 — 21:43:20 UTC	hakha3, Lanvin, MarkusKahlsen, TimeHoodie, VerySloppyTwo	1	6	30
+452304	5	0	Null-Ones & Dark Rainbow (6 Suits)	2021-02-28 — 21:19:12 UTC	hakha3, Lanvin, MarkusKahlsen, TimeHoodie, VerySloppyTwo	1	6	30
+452285	5	0	Null-Ones & Dark Rainbow (6 Suits)	2021-02-28 — 20:58:16 UTC	hakha3, Lanvin, MarkusKahlsen, TimeHoodie, VerySloppyTwo	1	6	30
+452157	4	30	Dark Brown (6 Suits)	2021-02-28 — 20:00:51 UTC	ChristopheAF, Lanvin, Lel0uch, VerySloppyTwo	13	6	30
+452129	5	29	Black & Pink (6 Suits)	2021-02-28 — 19:29:20 UTC	ChristopheAF, hakha3, Lanvin, Lel0uch, VerySloppyTwo	1	6	30
+452112	5	0	Black & Pink (6 Suits)	2021-02-28 — 19:07:09 UTC	ChristopheAF, hakha3, Lanvin, Lel0uch, VerySloppyTwo	1	6	30
+452088	5	0	Black & Pink (6 Suits)	2021-02-28 — 18:55:07 UTC	ChristopheAF, hakha3, Lanvin, Lel0uch, VerySloppyTwo	1	6	30
+452076	5	0	Black & Pink (6 Suits)	2021-02-28 — 18:43:43 UTC	ChristopheAF, hakha3, Lanvin, Lel0uch, VerySloppyTwo	1	6	30
+452070	5	0	Black & Pink (6 Suits)	2021-02-28 — 18:36:52 UTC	ChristopheAF, hakha3, Lanvin, Lel0uch, VerySloppyTwo	2	6	30
+452065	4	0	Null-Ones & Dark Rainbow (6 Suits)	2021-02-28 — 18:31:57 UTC	hakha3, Lanvin, Lel0uch, VerySloppyTwo	2	6	30
+451960	6	22	Prism (5 Suits)	2021-02-28 — 15:50:35 UTC	BraydonM, Floriman, Kernel, MangoPie, melwen, VerySloppyTwo	2	5	25
+451953	4	0	Special Mix (5 Suits)	2021-02-28 — 15:23:07 UTC	ChristopheAF, Floriman, MangoPie, VerySloppyTwo	4	5	25
+451267	5	0	Prism (5 Suits)	2021-02-27 — 23:12:24 UTC	Denchulitas, Floriman, melwen, sephiroth, VerySloppyTwo	2	5	25
+451217	5	0	Prism (5 Suits)	2021-02-27 — 22:30:14 UTC	Denchulitas, Floriman, melwen, sephiroth, VerySloppyTwo	3	5	25
+451193	5	0	Prism (5 Suits)	2021-02-27 — 22:10:22 UTC	Denchulitas, eljavi, Floriman, sephiroth, VerySloppyTwo	3	5	25
+451063	2	15	White & Omni (3 Suits)	2021-02-27 — 20:00:33 UTC	Lanvin, VerySloppyTwo	3	3	15
+451052	2	14	White & Omni (3 Suits)	2021-02-27 — 19:52:39 UTC	Lanvin, VerySloppyTwo	4	3	15
+451031	2	14	White & Omni (3 Suits)	2021-02-27 — 19:41:58 UTC	Lanvin, VerySloppyTwo	5	3	15
+451008	2	14	White & Omni (3 Suits)	2021-02-27 — 19:25:39 UTC	Lanvin, VerySloppyTwo	10	3	15
+450983	4	24	White & Brown (5 Suits)	2021-02-27 — 19:09:01 UTC	ChristopheAF, Lanvin, nwajfromoz, VerySloppyTwo	8	5	25
+450093	4	25	Prism (5 Suits)	2021-02-26 — 21:12:03 UTC	Denchulitas, HariKrishnan, sephiroth, VerySloppyTwo	7	5	25
+450056	5	25	Rainbow-Ones (5 Suits)	2021-02-26 — 20:26:30 UTC	4head, ChristopheAF, Denchulitas, eljavi, VerySloppyTwo	6	5	25
+450038	5	0	Rainbow-Ones (5 Suits)	2021-02-26 — 19:59:39 UTC	4head, ChristopheAF, Denchulitas, eljavi, VerySloppyTwo	5	5	25
+450026	5	0	Rainbow-Ones (5 Suits)	2021-02-26 — 19:46:06 UTC	4head, ChristopheAF, Denchulitas, eljavi, VerySloppyTwo	7	5	25
+450021	3	0	Black (5 Suits)	2021-02-26 — 19:31:52 UTC	4head, Denchulitas, VerySloppyTwo	44	5	25
+450015	4	0	Prism (5 Suits)	2021-02-26 — 19:23:53 UTC	Denchulitas, HariKrishnan, Lel0uch, VerySloppyTwo	23	5	25
+449808	4	0	Muddy Rainbow & Prism (6 Suits)	2021-02-26 — 12:46:33 UTC	Lel0uch, Nitrate2, VerySloppyTwo, Wittvector	3	6	30
+449797	4	0	Muddy Rainbow & Prism (6 Suits)	2021-02-26 — 12:24:26 UTC	Lel0uch, Nitrate2, VerySloppyTwo, Wittvector	3	6	30
+449787	4	30	Pink & Muddy Rainbow (6 Suits)	2021-02-26 — 12:06:51 UTC	Lel0uch, Nitrate2, VerySloppyTwo, Wittvector	2	6	30
+449128	6	25	No Variant	2021-02-25 — 21:58:05 UTC	Damian000, Denchulitas, eljavi, MangoPie, sephiroth, VerySloppyTwo	2	5	25
+449077	4	0	White-Ones (4 Suits)	2021-02-25 — 21:34:00 UTC	Denchulitas, MangoPie, sephiroth, VerySloppyTwo	2	4	20
+448864	5	0	Pink-Fives & Dark Rainbow (6 Suits)	2021-02-25 — 19:09:36 UTC	4head, Lanvin, Lel0uch, TheDaniMan, VerySloppyTwo	1	6	30
+448708	4	30	Brown & Muddy Rainbow (6 Suits)	2021-02-25 — 15:20:37 UTC	Lanvin, Lel0uch, melwen, VerySloppyTwo	3	6	30
+448700	4	0	Brown & Muddy Rainbow (6 Suits)	2021-02-25 — 15:02:19 UTC	Lanvin, Lel0uch, melwen, VerySloppyTwo	4	6	30
+448696	4	0	Pink & Muddy Rainbow (6 Suits)	2021-02-25 — 14:52:33 UTC	Lanvin, Lel0uch, orucsoraihc, VerySloppyTwo	2	6	30
+448695	4	0	Pink & Muddy Rainbow (6 Suits)	2021-02-25 — 14:44:49 UTC	Lanvin, Lel0uch, orucsoraihc, VerySloppyTwo	7	6	30
+448612	4	25	Dark Omni (5 Suits)	2021-02-25 — 09:49:39 UTC	Nitrate2, sephiroth, Sucubis, VerySloppyTwo	6	5	25
+448601	4	25	Brown-Ones & Light Pink (5 Suits)	2021-02-25 — 09:23:17 UTC	catula, Nitrate2, VerySloppyTwo, Wittvector	2	5	25
+448073	4	24	Special Mix (5 Suits)	2021-02-24 — 22:17:24 UTC	ChristopheAF, indego, Lanvin, VerySloppyTwo	4	5	25
+448057	4	0	Special Mix (5 Suits)	2021-02-24 — 21:54:56 UTC	ChristopheAF, indego, Lanvin, VerySloppyTwo	4	5	25
+448037	4	0	Special Mix (5 Suits)	2021-02-24 — 21:39:46 UTC	ChristopheAF, indego, Lanvin, VerySloppyTwo	4	5	25
+448013	4	24	Special Mix (5 Suits)	2021-02-24 — 21:19:05 UTC	ChristopheAF, indego, Lanvin, VerySloppyTwo	4	5	25
+447991	4	0	Special Mix (5 Suits)	2021-02-24 — 20:54:43 UTC	ChristopheAF, indego, Lanvin, VerySloppyTwo	4	5	25
+447664	3	29	Muddy Rainbow & Dark Pink (6 Suits)	2021-02-24 — 13:04:41 UTC	rachyrules, TimeHoodie, VerySloppyTwo	2	6	30
+447630	4	30	Prism (6 Suits)	2021-02-24 — 09:43:27 UTC	Denchulitas, rahsosprout, sephiroth, VerySloppyTwo	10	6	30
+447611	4	0	No Variant	2021-02-24 — 08:48:13 UTC	dobi, iceblaeze, sephiroth, VerySloppyTwo	54	5	25
+447603	4	0	Dark Omni (5 Suits)	2021-02-24 — 08:18:43 UTC	indego, newduke, sephiroth, VerySloppyTwo	4	5	25
+446945	4	0	Muddy Rainbow & Dark Prism (5 Suits)	2021-02-23 — 20:51:39 UTC	indego, Lanvin, VerySloppyTwo, Wittvector	1	5	25
+446842	4	0	Special Mix (5 Suits)	2021-02-23 — 19:41:03 UTC	ChristopheAF, Lanvin, PMP, VerySloppyTwo	4	5	25
+446806	4	0	Special Mix (5 Suits)	2021-02-23 — 19:22:32 UTC	ChristopheAF, Lanvin, PMP, VerySloppyTwo	4	5	25
+446789	4	0	Special Mix (5 Suits)	2021-02-23 — 19:12:53 UTC	ChristopheAF, Lanvin, PMP, VerySloppyTwo	4	5	25
+446777	4	0	Special Mix (5 Suits)	2021-02-23 — 19:06:35 UTC	ChristopheAF, Lanvin, PMP, VerySloppyTwo	6	5	25
+446765	5	29	Gray (6 Suits)	2021-02-23 — 18:55:05 UTC	Lel0uch, MangoPie, newduke, Onen, VerySloppyTwo	19	6	30
+446749	3	0	Gray (6 Suits)	2021-02-23 — 18:38:16 UTC	Lel0uch, MangoPie, VerySloppyTwo	20	6	30
+446746	3	0	Gray (6 Suits)	2021-02-23 — 18:35:59 UTC	Lel0uch, MangoPie, VerySloppyTwo	23	6	30
+446736	3	0	Gray (6 Suits)	2021-02-23 — 18:25:56 UTC	Lel0uch, MangoPie, VerySloppyTwo	21	6	30
+446726	3	0	Gray (6 Suits)	2021-02-23 — 18:16:11 UTC	Lel0uch, MangoPie, VerySloppyTwo	30	6	30
+446721	3	28	Gray (6 Suits)	2021-02-23 — 18:06:24 UTC	Lel0uch, MangoPie, VerySloppyTwo	36	6	30
+446614	5	24	Brown & Null (5 Suits)	2021-02-23 — 15:07:52 UTC	indego, Lanvin, Lel0uch, TimeHoodie, VerySloppyTwo	1	5	25
+446606	5	0	Brown-Fives & Rainbow (5 Suits)	2021-02-23 — 14:41:27 UTC	indego, Lanvin, Lel0uch, rz, VerySloppyTwo	1	5	25
+446603	5	0	Brown-Fives & Rainbow (5 Suits)	2021-02-23 — 14:29:24 UTC	indego, Lanvin, Lel0uch, rz, VerySloppyTwo	1	5	25
+446548	5	30	Rainbow & Prism (6 Suits)	2021-02-23 — 10:21:04 UTC	CptAggro, Denchulitas, Dr_Kakashi, sephiroth, VerySloppyTwo	1	6	30
+446538	5	0	Rainbow & Prism (6 Suits)	2021-02-23 — 09:45:29 UTC	CptAggro, Denchulitas, Dr_Kakashi, sephiroth, VerySloppyTwo	1	6	30
+446535	4	28	Rainbow & Prism (6 Suits)	2021-02-23 — 09:20:57 UTC	CptAggro, Dr_Kakashi, sephiroth, VerySloppyTwo	13	6	30
+446532	2	0	Special Mix (5 Suits)	2021-02-23 — 08:46:05 UTC	sephiroth, VerySloppyTwo	12	5	25
+445947	4	0	Rainbow & Pink (5 Suits)	2021-02-22 — 22:30:30 UTC	Dr_Kakashi, indego, swineherd, VerySloppyTwo	4	5	25
+445931	4	0	Rainbow & Pink (5 Suits)	2021-02-22 — 22:16:30 UTC	Dr_Kakashi, indego, swineherd, VerySloppyTwo	5	5	25
+445888	4	24	Light Pink (5 Suits)	2021-02-22 — 21:37:45 UTC	hakha3, rachyrules, robense, VerySloppyTwo	20	5	25
+445841	4	24	Light Pink (5 Suits)	2021-02-22 — 21:06:02 UTC	hakha3, rachyrules, robense, VerySloppyTwo	20	5	25
+445806	4	0	White (5 Suits)	2021-02-22 — 20:40:03 UTC	hakha3, margmarg, rachyrules, VerySloppyTwo	46	5	25
+445738	5	24	Brown-Ones & Rainbow (5 Suits)	2021-02-22 — 19:27:03 UTC	Lanvin, MangoPie, Nitrate, squirrel1988, VerySloppyTwo	1	5	25
+445716	5	0	Brown-Ones & Rainbow (5 Suits)	2021-02-22 — 19:09:22 UTC	Lanvin, MangoPie, Nitrate, squirrel1988, VerySloppyTwo	1	5	25
+445708	5	0	Brown-Ones & Rainbow (5 Suits)	2021-02-22 — 18:57:40 UTC	Lanvin, MangoPie, Nitrate, squirrel1988, VerySloppyTwo	1	5	25
+445632	3	0	Special Mix (5 Suits)	2021-02-22 — 17:08:43 UTC	ChristopheAF, VerySloppyTwo, wump	8	5	25
+445617	3	0	Special Mix (5 Suits)	2021-02-22 — 16:57:51 UTC	ChristopheAF, VerySloppyTwo, wump	9	5	25
+445613	3	0	Special Mix (5 Suits)	2021-02-22 — 16:54:51 UTC	ChristopheAF, VerySloppyTwo, wump	8	5	25
+445508	4	0	Rainbow & Pink (6 Suits)	2021-02-22 — 14:46:30 UTC	Lanvin, sephiroth, Spieler42, VerySloppyTwo	3	6	30
+445506	4	0	Rainbow & Pink (6 Suits)	2021-02-22 — 14:46:12 UTC	Lanvin, sephiroth, Spieler42, VerySloppyTwo	3	6	30
+445401	3	0	Rainbow & Brown (6 Suits)	2021-02-22 — 09:05:44 UTC	sephiroth, swineherd, VerySloppyTwo	13	6	30
+445397	3	0	Rainbow & Brown (6 Suits)	2021-02-22 — 08:48:15 UTC	sephiroth, swineherd, VerySloppyTwo	17	6	30
+445395	2	0	Special Mix (5 Suits)	2021-02-22 — 08:41:49 UTC	sephiroth, VerySloppyTwo	12	5	25
+444667	4	0	Clue Starved & Prism (5 Suits)	2021-02-21 — 21:07:14 UTC	indego, kopen, newduke, VerySloppyTwo	4	5	25
+444651	4	0	Clue Starved & Prism (5 Suits)	2021-02-21 — 20:56:30 UTC	indego, kopen, newduke, VerySloppyTwo	6	5	25
+444614	4	24	Clue Starved & Prism (5 Suits)	2021-02-21 — 20:30:33 UTC	indego, kopen, newduke, VerySloppyTwo	6	5	25
+444564	4	0	Black & Omni (5 Suits)	2021-02-21 — 19:42:14 UTC	indego, Lanvin, robense, VerySloppyTwo	8	5	25
+444556	4	0	Black & Omni (5 Suits)	2021-02-21 — 19:27:36 UTC	indego, Lanvin, robense, VerySloppyTwo	8	5	25
+444540	6	0	Brown (6 Suits)	2021-02-21 — 18:55:43 UTC	CaitlinSmith, hakha3, indego, Lanvin, newduke, VerySloppyTwo	7	6	30
+443469	5	0	Black & Pink (6 Suits)	2021-02-20 — 21:59:29 UTC	ChristopheAF, Lanvin, rachyrules, TimeHoodie, VerySloppyTwo	4	6	30
+443455	5	0	Dark Pink (6 Suits)	2021-02-20 — 21:38:16 UTC	ChristopheAF, Kernel, rachyrules, TimeHoodie, VerySloppyTwo	10	6	30
+443443	4	0	Dark Pink (6 Suits)	2021-02-20 — 21:25:43 UTC	Kernel, Lanvin, TimeHoodie, VerySloppyTwo	3	6	30
+443437	4	0	Dark Pink (6 Suits)	2021-02-20 — 21:20:54 UTC	Kernel, Lanvin, TimeHoodie, VerySloppyTwo	3	6	30
+443405	6	0	Light Pink & Prism (6 Suits)	2021-02-20 — 20:55:14 UTC	indego, Kernel, Lanvin, TimeHoodie, VerySloppyTwo, Wittvector	1	6	30
+443388	6	0	Light Pink & Prism (6 Suits)	2021-02-20 — 20:35:32 UTC	indego, Kernel, Lanvin, TimeHoodie, VerySloppyTwo, Wittvector	1	6	30
+443367	5	0	White & Prism (6 Suits)	2021-02-20 — 20:17:27 UTC	bjnh, Denchulitas, Lanvin, sephiroth, VerySloppyTwo	2	6	30
+443339	5	0	White & Prism (6 Suits)	2021-02-20 — 19:57:32 UTC	bjnh, Denchulitas, Lanvin, sephiroth, VerySloppyTwo	3	6	30
+443325	4	0	White-Ones & Black (6 Suits)	2021-02-20 — 19:41:46 UTC	Denchulitas, Lanvin, sephiroth, VerySloppyTwo	4	6	30
+443311	4	0	Brown-Ones & Prism (6 Suits)	2021-02-20 — 19:22:56 UTC	duckless, Lanvin, nkkarpov, VerySloppyTwo	1	6	30
+443308	4	0	Brown-Ones & Prism (6 Suits)	2021-02-20 — 19:12:38 UTC	duckless, Lanvin, nkkarpov, VerySloppyTwo	1	6	30
+443304	4	0	Brown-Ones & Prism (6 Suits)	2021-02-20 — 19:03:15 UTC	duckless, Lanvin, nkkarpov, VerySloppyTwo	1	6	30
+443289	4	0	Brown-Ones & Prism (6 Suits)	2021-02-20 — 18:49:43 UTC	duckless, Lanvin, nkkarpov, VerySloppyTwo	1	6	30
+443185	4	28	Up or Down & Brown (6 Suits)	2021-02-20 — 15:43:37 UTC	MangoPie, melwen, sephiroth, VerySloppyTwo	1	6	30
+443176	5	0	Up or Down & Brown (6 Suits)	2021-02-20 — 15:11:37 UTC	MangoPie, melwen, sephiroth, VerySloppyTwo, wortel	2	6	30
+443168	5	0	Up or Down & Brown (6 Suits)	2021-02-20 — 14:47:44 UTC	MangoPie, melwen, sephiroth, VerySloppyTwo, wortel	2	6	30
+443163	4	0	Up or Down & Brown (6 Suits)	2021-02-20 — 14:29:09 UTC	MangoPie, melwen, sephiroth, VerySloppyTwo	2	6	30
+443156	2	0	Special Mix (5 Suits)	2021-02-20 — 14:13:33 UTC	sephiroth, VerySloppyTwo	13	5	25
+443153	2	0	Special Mix (5 Suits)	2021-02-20 — 14:10:17 UTC	sephiroth, VerySloppyTwo	15	5	25
+443151	2	0	Special Mix (5 Suits)	2021-02-20 — 14:06:39 UTC	sephiroth, VerySloppyTwo	17	5	25
+442283	4	0	Special Mix (5 Suits)	2021-02-19 — 21:35:21 UTC	ChristopheAF, indego, jack67889, VerySloppyTwo	6	5	25
+442255	4	0	Special Mix (5 Suits)	2021-02-19 — 21:11:05 UTC	ChristopheAF, indego, jack67889, VerySloppyTwo	5	5	25
+442219	4	0	Special Mix (5 Suits)	2021-02-19 — 20:48:01 UTC	ChristopheAF, indego, jack67889, VerySloppyTwo	5	5	25
+442200	4	0	Special Mix (5 Suits)	2021-02-19 — 20:33:54 UTC	ChristopheAF, indego, jack67889, VerySloppyTwo	5	5	25
+442177	4	0	Special Mix (5 Suits)	2021-02-19 — 20:16:19 UTC	ChristopheAF, indego, jack67889, VerySloppyTwo	5	5	25
+442168	4	0	Special Mix (5 Suits)	2021-02-19 — 20:06:38 UTC	ChristopheAF, indego, jack67889, VerySloppyTwo	5	5	25
+442157	3	0	Special Mix (5 Suits)	2021-02-19 — 19:55:27 UTC	ChristopheAF, jack67889, VerySloppyTwo	10	5	25
+442153	4	0	Special Mix (5 Suits)	2021-02-19 — 19:44:07 UTC	ChristopheAF, indego, Onen, VerySloppyTwo	5	5	25
+442145	4	24	Special Mix (5 Suits)	2021-02-19 — 19:34:52 UTC	ChristopheAF, indego, Onen, VerySloppyTwo	6	5	25
+442121	4	0	Special Mix (5 Suits)	2021-02-19 — 19:09:38 UTC	ChristopheAF, indego, Onen, VerySloppyTwo	11	5	25
+441990	4	0	Special Mix (5 Suits)	2021-02-19 — 15:41:51 UTC	indego, Lanvin, sephiroth, VerySloppyTwo	4	5	25
+441947	4	28	Pink-Fives & Dark Omni (6 Suits)	2021-02-19 — 14:11:20 UTC	melwen, sephiroth, VerySloppyTwo, Wittvector	1	6	30
+441940	4	0	Pink-Fives & Dark Omni (6 Suits)	2021-02-19 — 13:43:03 UTC	melwen, sephiroth, VerySloppyTwo, Wittvector	1	6	30
+441923	4	0	Pink-Fives & Dark Omni (6 Suits)	2021-02-19 — 13:16:53 UTC	melwen, sephiroth, VerySloppyTwo, Wittvector	1	6	30
+441915	2	0	Special Mix (5 Suits)	2021-02-19 — 12:53:32 UTC	sephiroth, VerySloppyTwo	17	5	25
+441860	4	25	Black & Prism (5 Suits)	2021-02-19 — 10:02:06 UTC	catula, sephiroth, swineherd, VerySloppyTwo	2	5	25
+441853	3	23	Special Mix (5 Suits)	2021-02-19 — 09:32:28 UTC	robense, sephiroth, VerySloppyTwo	5	5	25
+441848	3	0	Special Mix (5 Suits)	2021-02-19 — 09:13:43 UTC	robense, sephiroth, VerySloppyTwo	5	5	25
+441146	5	20	White (5 Suits)	2021-02-18 — 21:03:29 UTC	Denchulitas, knaphill, ontak, sephiroth, VerySloppyTwo	10	5	25
+441069	3	23	White (5 Suits)	2021-02-18 — 20:13:28 UTC	knaphill, ontak, VerySloppyTwo	126	5	25
+440917	3	0	Special Mix (5 Suits)	2021-02-18 — 16:28:49 UTC	ChristopheAF, MangoPie, VerySloppyTwo	10	5	25
+440911	3	24	Special Mix (5 Suits)	2021-02-18 — 16:02:54 UTC	ChristopheAF, MangoPie, VerySloppyTwo	17	5	25
+440903	3	0	Special Mix (5 Suits)	2021-02-18 — 15:42:08 UTC	ChristopheAF, MangoPie, VerySloppyTwo	17	5	25
+440896	5	0	Brown & Prism (5 Suits)	2021-02-18 — 15:22:53 UTC	Lanvin, possum, sephiroth, swineherd, VerySloppyTwo	4	5	25
+440887	5	0	Up or Down & Rainbow (6 Suits)	2021-02-18 — 15:01:30 UTC	Lanvin, sephiroth, swineherd, TimeHoodie, VerySloppyTwo	1	6	30
+440882	5	0	Up or Down & Rainbow (6 Suits)	2021-02-18 — 14:45:42 UTC	Lanvin, sephiroth, swineherd, TimeHoodie, VerySloppyTwo	1	6	30
+440876	5	0	Special Mix (5 Suits)	2021-02-18 — 14:36:27 UTC	Lanvin, sephiroth, swineherd, TimeHoodie, VerySloppyTwo	2	5	25
+440857	3	25	No Variant	2021-02-18 — 13:24:15 UTC	knaphill, possum, VerySloppyTwo	201	5	25
+440812	4	0	Black & Brown (5 Suits)	2021-02-18 — 10:50:52 UTC	catula, cockdestroyer, sephiroth, VerySloppyTwo	6	5	25
+440804	4	0	Dark Pink & Dark Prism (6 Suits)	2021-02-18 — 10:22:53 UTC	indego, Nitrate2, VerySloppyTwo, Wittvector	1	6	30
+440801	6	0	Dark Rainbow & Dark Prism (6 Suits)	2021-02-18 — 10:12:41 UTC	catula, cockdestroyer, indego, sephiroth, VerySloppyTwo, Wittvector	1	6	30
+440794	4	0	Pink & Null (5 Suits)	2021-02-18 — 09:44:27 UTC	4head, indego, TheDaniMan, VerySloppyTwo	3	5	25
+440789	4	0	Pink & Null (5 Suits)	2021-02-18 — 09:23:54 UTC	4head, indego, TheDaniMan, VerySloppyTwo	4	5	25
+440281	4	24	Special Mix (5 Suits)	2021-02-17 — 21:46:26 UTC	ChristopheAF, Lanvin, MarkusKahlsen, VerySloppyTwo	6	5	25
+440250	4	0	Special Mix (5 Suits)	2021-02-17 — 21:20:28 UTC	ChristopheAF, Lanvin, MarkusKahlsen, VerySloppyTwo	6	5	25
+440231	4	0	Special Mix (5 Suits)	2021-02-17 — 21:07:31 UTC	ChristopheAF, Lanvin, MarkusKahlsen, VerySloppyTwo	6	5	25
+440215	4	0	Special Mix (5 Suits)	2021-02-17 — 20:56:00 UTC	ChristopheAF, Lanvin, MarkusKahlsen, VerySloppyTwo	5	5	25
+440195	4	24	Special Mix (5 Suits)	2021-02-17 — 20:37:16 UTC	ChristopheAF, Lanvin, MarkusKahlsen, VerySloppyTwo	5	5	25
+440163	4	0	Black & Brown (5 Suits)	2021-02-17 — 20:09:44 UTC	Lanvin, newduke, sephiroth, VerySloppyTwo	10	5	25
+440139	4	0	Black & Brown (5 Suits)	2021-02-17 — 19:46:55 UTC	Lanvin, newduke, sephiroth, VerySloppyTwo	13	5	25
+440134	3	0	Light Pink & Dark Prism (5 Suits)	2021-02-17 — 19:41:33 UTC	indego, newduke, VerySloppyTwo	1	5	25
+440112	3	0	Light Pink & Dark Prism (5 Suits)	2021-02-17 — 19:24:26 UTC	indego, newduke, VerySloppyTwo	3	5	25
+440095	5	0	Light Pink & Dark Prism (6 Suits)	2021-02-17 — 19:06:13 UTC	indego, newduke, PMP, sephiroth, VerySloppyTwo	2	6	30
+440072	4	0	Black & White (6 Suits)	2021-02-17 — 18:42:30 UTC	bjnh, Denchulitas, Lanvin, VerySloppyTwo	17	6	30
+439940	4	0	Dark Brown (5 Suits)	2021-02-17 — 13:38:21 UTC	eliclax, MarkusKahlsen, sephiroth, VerySloppyTwo	1	5	25
+439935	4	0	Dark Brown (5 Suits)	2021-02-17 — 13:25:02 UTC	eliclax, MarkusKahlsen, sephiroth, VerySloppyTwo	1	5	25
+439930	4	0	Dark Brown (5 Suits)	2021-02-17 — 13:11:53 UTC	eliclax, MarkusKahlsen, sephiroth, VerySloppyTwo	1	5	25
+439926	4	0	Dark Brown (5 Suits)	2021-02-17 — 13:05:56 UTC	eliclax, MarkusKahlsen, sephiroth, VerySloppyTwo	1	5	25
+439840	4	0	Pink-Fives (5 Suits)	2021-02-17 — 09:54:38 UTC	pianoblook, sephiroth, Sucubis, VerySloppyTwo	6	5	25
+439818	5	0	Omni-Fives (5 Suits)	2021-02-17 — 08:13:31 UTC	4head, indego, lolthisnotderk, swineherd, VerySloppyTwo	3	5	25
+439364	6	23	No Variant	2021-02-16 — 21:13:13 UTC	4head, Denchulitas, HumbleDumble, padi, sephiroth, VerySloppyTwo	5	5	25
+439337	6	0	Prism (6 Suits)	2021-02-16 — 20:42:28 UTC	4head, bjnh, Denchulitas, Lanvin, sephiroth, VerySloppyTwo	1	6	30
+439316	6	0	Prism (6 Suits)	2021-02-16 — 20:17:38 UTC	4head, bjnh, Denchulitas, Lanvin, sephiroth, VerySloppyTwo	3	6	30
+439295	3	22	Black (5 Suits)	2021-02-16 — 20:02:58 UTC	ksfortson, Onen, VerySloppyTwo	36	5	25
+439279	3	22	Black (5 Suits)	2021-02-16 — 19:47:25 UTC	ksfortson, Onen, VerySloppyTwo	55	5	25
+439236	5	24	Pink-Fives (5 Suits)	2021-02-16 — 18:53:56 UTC	colton, frosty104, sephiroth, VerySloppyTwo, Wittvector	4	5	25
+439202	4	0	Omni & Gray Pink (6 Suits)	2021-02-16 — 18:10:38 UTC	dobi, frosty104, indego, VerySloppyTwo	2	6	30
+439190	3	0	Omni & Gray Pink (6 Suits)	2021-02-16 — 17:56:53 UTC	dobi, indego, VerySloppyTwo	2	6	30
+439120	5	29	White (6 Suits)	2021-02-16 — 14:11:25 UTC	frosty104, MathNoob, qqqq, sephiroth, VerySloppyTwo	17	6	30
+439112	2	0	Special Mix (5 Suits)	2021-02-16 — 13:36:53 UTC	sephiroth, VerySloppyTwo	17	5	25
+439108	2	0	Special Mix (5 Suits)	2021-02-16 — 13:31:18 UTC	sephiroth, VerySloppyTwo	18	5	25
+439105	2	0	Special Mix (5 Suits)	2021-02-16 — 13:23:07 UTC	sephiroth, VerySloppyTwo	19	5	25
+439104	2	0	Special Mix (5 Suits)	2021-02-16 — 13:17:42 UTC	sephiroth, VerySloppyTwo	19	5	25
+439078	6	23	Special Mix (5 Suits)	2021-02-16 — 11:44:34 UTC	asaelr, ChristopheAF, frosty104, Pablo-, sephiroth, VerySloppyTwo	2	5	25
+439074	3	0	Black & Rainbow (6 Suits)	2021-02-16 — 11:20:00 UTC	Pablo-, sephiroth, VerySloppyTwo	30	6	30
+439065	3	30	Black & Brown (6 Suits)	2021-02-16 — 10:55:07 UTC	Pablo-, sephiroth, VerySloppyTwo	5	6	30
+439057	4	0	Special Mix (5 Suits)	2021-02-16 — 10:39:12 UTC	indego, Pablo-, sephiroth, VerySloppyTwo	5	5	25
+439052	2	0	Special Mix (5 Suits)	2021-02-16 — 10:31:34 UTC	indego, VerySloppyTwo	88	5	25
+438363	5	29	Rainbow & White (6 Suits)	2021-02-15 — 20:32:10 UTC	bjnh, Denchulitas, MarkusKahlsen, sephiroth, VerySloppyTwo	11	6	30
+438336	4	0	Special Mix (5 Suits)	2021-02-15 — 20:05:00 UTC	Denchulitas, MarkusKahlsen, sephiroth, VerySloppyTwo	5	5	25
+438325	4	0	Omni & Cocoa Rainbow (6 Suits)	2021-02-15 — 19:57:00 UTC	frosty104, indego, Lanvin, VerySloppyTwo	1	6	30
+438281	5	25	Muddy-Rainbow-Fives (5 Suits)	2021-02-15 — 19:19:09 UTC	frosty104, indego, sephiroth, VerySloppyTwo, wortel	3	5	25
+438259	3	0	Muddy-Rainbow-Fives (6 Suits)	2021-02-15 — 18:54:16 UTC	asaelr, sephiroth, VerySloppyTwo	2	6	30
+438237	4	0	Black & Brown (5 Suits)	2021-02-15 — 18:39:58 UTC	asaelr, MarkusKahlsen, sephiroth, VerySloppyTwo	7	5	25
+438230	4	24	Black & Brown (5 Suits)	2021-02-15 — 18:34:14 UTC	asaelr, MarkusKahlsen, sephiroth, VerySloppyTwo	11	5	25
+438212	3	0	Black & Prism (5 Suits)	2021-02-15 — 18:14:58 UTC	MarkusKahlsen, sephiroth, VerySloppyTwo	1	5	25
+438155	3	0	Dark Rainbow Reversed (5 Suits)	2021-02-15 — 16:58:15 UTC	Lanvin, sephiroth, VerySloppyTwo	1	5	25
+438138	2	0	Special Mix (5 Suits)	2021-02-15 — 16:37:26 UTC	sephiroth, VerySloppyTwo	20	5	25
+438130	2	22	Special Mix (5 Suits)	2021-02-15 — 16:22:48 UTC	sephiroth, VerySloppyTwo	19	5	25
+438127	2	0	Special Mix (5 Suits)	2021-02-15 — 16:14:43 UTC	sephiroth, VerySloppyTwo	20	5	25
+438121	2	0	Special Mix (5 Suits)	2021-02-15 — 16:11:34 UTC	sephiroth, VerySloppyTwo	20	5	25
+438117	2	0	Special Mix (5 Suits)	2021-02-15 — 16:08:10 UTC	sephiroth, VerySloppyTwo	21	5	25
+438115	2	0	Special Mix (5 Suits)	2021-02-15 — 16:06:28 UTC	sephiroth, VerySloppyTwo	20	5	25
+438112	2	0	Special Mix (5 Suits)	2021-02-15 — 16:03:39 UTC	sephiroth, VerySloppyTwo	21	5	25
+438107	2	0	Special Mix (5 Suits)	2021-02-15 — 15:58:33 UTC	sephiroth, VerySloppyTwo	21	5	25
+438103	2	0	Special Mix (5 Suits)	2021-02-15 — 15:55:28 UTC	sephiroth, VerySloppyTwo	19	5	25
+438099	2	0	Special Mix (5 Suits)	2021-02-15 — 15:53:11 UTC	sephiroth, VerySloppyTwo	22	5	25
+438086	6	24	Muddy-Rainbow-Ones & White (5 Suits)	2021-02-15 — 15:26:26 UTC	Bot-Fiora, indego, Pablo-, robense, sephiroth, VerySloppyTwo	1	5	25
+438080	3	0	Muddy-Rainbow-Ones & White (5 Suits)	2021-02-15 — 15:04:23 UTC	indego, Pablo-, VerySloppyTwo	4	5	25
+438073	2	0	Special Mix (5 Suits)	2021-02-15 — 14:30:43 UTC	sephiroth, VerySloppyTwo	22	5	25
+438065	3	24	Black & Prism (5 Suits)	2021-02-15 — 14:07:11 UTC	jeff10, sephiroth, VerySloppyTwo	12	5	25
+437978	3	0	Pink & Prism (5 Suits)	2021-02-15 — 09:59:44 UTC	cockdestroyer, sephiroth, VerySloppyTwo	6	5	25
+437975	3	0	Pink & Prism (5 Suits)	2021-02-15 — 09:50:02 UTC	cockdestroyer, sephiroth, VerySloppyTwo	7	5	25
+437973	5	0	Prism (4 Suits)	2021-02-15 — 09:41:53 UTC	cockdestroyer, frosty104, Pablo-, sephiroth, VerySloppyTwo	6	4	20
+437970	3	20	Reversed (4 Suits)	2021-02-15 — 09:31:59 UTC	frosty104, sephiroth, VerySloppyTwo	1	4	20
+437453	3	25	No Variant	2021-02-14 — 22:49:09 UTC	Denchulitas, sephiroth, VerySloppyTwo	121	5	25
+437406	3	25	No Variant	2021-02-14 — 22:13:28 UTC	Denchulitas, sephiroth, VerySloppyTwo	130	5	25
+437384	2	0	Special Mix (5 Suits)	2021-02-14 — 21:56:19 UTC	sephiroth, VerySloppyTwo	22	5	25
+437374	2	0	Special Mix (5 Suits)	2021-02-14 — 21:52:31 UTC	sephiroth, VerySloppyTwo	24	5	25
+437373	2	0	Special Mix (5 Suits)	2021-02-14 — 21:50:58 UTC	sephiroth, VerySloppyTwo	24	5	25
+437364	2	0	Special Mix (5 Suits)	2021-02-14 — 21:43:51 UTC	sephiroth, VerySloppyTwo	24	5	25
+437353	2	22	Special Mix (5 Suits)	2021-02-14 — 21:28:59 UTC	sephiroth, VerySloppyTwo	24	5	25
+437341	2	0	Special Mix (5 Suits)	2021-02-14 — 21:19:45 UTC	sephiroth, VerySloppyTwo	24	5	25
+437337	2	0	Special Mix (5 Suits)	2021-02-14 — 21:17:24 UTC	sephiroth, VerySloppyTwo	24	5	25
+437330	2	0	Special Mix (5 Suits)	2021-02-14 — 21:10:42 UTC	sephiroth, VerySloppyTwo	24	5	25
+436762	3	0	Rainbow & Brown (4 Suits)	2021-02-14 — 11:16:55 UTC	notANewPlayer, sephiroth, VerySloppyTwo	13	4	20
+436759	3	0	Rainbow (5 Suits)	2021-02-14 — 11:11:26 UTC	notANewPlayer, sephiroth, VerySloppyTwo	185	5	25
+436046	3	20	Prism (4 Suits)	2021-02-13 — 21:57:26 UTC	Denchulitas, sephiroth, VerySloppyTwo	45	4	20
+436027	3	27	Prism (6 Suits)	2021-02-13 — 21:33:30 UTC	Denchulitas, sephiroth, VerySloppyTwo	18	6	30
+435998	3	0	Prism (6 Suits)	2021-02-13 — 21:08:16 UTC	Denchulitas, sephiroth, VerySloppyTwo	18	6	30
+435815	4	0	Up or Down & Muddy Rainbow (5 Suits)	2021-02-13 — 18:07:08 UTC	duckless, Lanvin, TimeHoodie, VerySloppyTwo	3	5	25
+435802	4	0	Up or Down & Muddy Rainbow (5 Suits)	2021-02-13 — 17:40:54 UTC	duckless, Lanvin, TimeHoodie, VerySloppyTwo	3	5	25
+435763	5	13	Reversed (3 Suits)	2021-02-13 — 16:18:24 UTC	duckless, Lanvin, sephiroth, TimeHoodie, VerySloppyTwo	1	3	15
+434856	6	0	Dark Prism (5 Suits)	2021-02-12 — 23:08:08 UTC	Denchulitas, Floriman, indego, sephiroth, Sucubis, VerySloppyTwo	3	5	25
+434839	5	0	Rainbow & Omni (6 Suits)	2021-02-12 — 22:46:56 UTC	colton, indego, Sucubis, TimeHoodie, VerySloppyTwo	2	6	30
+434823	5	0	Rainbow & Omni (6 Suits)	2021-02-12 — 22:26:22 UTC	colton, indego, Sucubis, TimeHoodie, VerySloppyTwo	2	6	30
+434813	5	0	Rainbow & Omni (6 Suits)	2021-02-12 — 22:17:13 UTC	colton, indego, Sucubis, TimeHoodie, VerySloppyTwo	2	6	30
+434788	5	0	Cocoa Rainbow (5 Suits)	2021-02-12 — 21:52:24 UTC	colton, duckless, Lanvin, Sucubis, VerySloppyTwo	5	5	25
+434746	4	0	Reversed (5 Suits)	2021-02-12 — 21:17:40 UTC	Denchulitas, duckless, TimeHoodie, VerySloppyTwo	10	5	25
+434719	4	0	Brown-Ones & Pink (5 Suits)	2021-02-12 — 20:59:37 UTC	duckless, Lanvin, rz, VerySloppyTwo	1	5	25
+434689	2	0	Special Mix (5 Suits)	2021-02-12 — 20:36:05 UTC	sephiroth, VerySloppyTwo	25	5	25
+434682	2	0	Special Mix (5 Suits)	2021-02-12 — 20:30:00 UTC	sephiroth, VerySloppyTwo	27	5	25
+434676	2	0	Special Mix (5 Suits)	2021-02-12 — 20:23:22 UTC	sephiroth, VerySloppyTwo	27	5	25
+434665	2	0	Special Mix (5 Suits)	2021-02-12 — 20:15:09 UTC	sephiroth, VerySloppyTwo	29	5	25
+434659	2	0	Special Mix (5 Suits)	2021-02-12 — 20:09:09 UTC	sephiroth, VerySloppyTwo	31	5	25
+434653	2	0	Special Mix (5 Suits)	2021-02-12 — 20:02:17 UTC	sephiroth, VerySloppyTwo	31	5	25
+434648	2	0	Special Mix (5 Suits)	2021-02-12 — 19:58:45 UTC	sephiroth, VerySloppyTwo	32	5	25
+434644	2	0	Special Mix (5 Suits)	2021-02-12 — 19:55:13 UTC	sephiroth, VerySloppyTwo	33	5	25
+434640	2	0	Special Mix (5 Suits)	2021-02-12 — 19:53:55 UTC	sephiroth, VerySloppyTwo	33	5	25
+434636	2	0	Special Mix (5 Suits)	2021-02-12 — 19:51:11 UTC	sephiroth, VerySloppyTwo	36	5	25
+434630	2	0	Special Mix (5 Suits)	2021-02-12 — 19:47:18 UTC	sephiroth, VerySloppyTwo	37	5	25
+434628	2	0	Special Mix (5 Suits)	2021-02-12 — 19:44:54 UTC	sephiroth, VerySloppyTwo	37	5	25
+434626	2	0	Special Mix (5 Suits)	2021-02-12 — 19:42:32 UTC	sephiroth, VerySloppyTwo	37	5	25
+434574	5	20	Rainbow (4 Suits)	2021-02-12 — 18:48:59 UTC	4head, bjnh, dobi, sephiroth, VerySloppyTwo	8	4	20
+434475	3	24	Special Mix (5 Suits)	2021-02-12 — 16:10:49 UTC	frosty104, sephiroth, VerySloppyTwo	5	5	25
+434466	3	0	Special Mix (5 Suits)	2021-02-12 — 15:49:37 UTC	frosty104, sephiroth, VerySloppyTwo	5	5	25
+434456	2	0	Special Mix (5 Suits)	2021-02-12 — 15:36:50 UTC	sephiroth, VerySloppyTwo	39	5	25
+434452	2	20	Special Mix (5 Suits)	2021-02-12 — 15:26:32 UTC	sephiroth, VerySloppyTwo	39	5	25
+434451	2	0	Special Mix (5 Suits)	2021-02-12 — 15:14:37 UTC	sephiroth, VerySloppyTwo	44	5	25
+434432	4	19	White Reversed (4 Suits)	2021-02-12 — 14:09:15 UTC	indego, Lanvin, TimeHoodie, VerySloppyTwo	5	4	20
+434410	4	0	Muddy-Rainbow-Fives (6 Suits)	2021-02-12 — 13:10:04 UTC	asaelr, frosty104, indego, VerySloppyTwo	1	6	30
+434403	4	0	Muddy-Rainbow-Fives (6 Suits)	2021-02-12 — 12:58:22 UTC	asaelr, frosty104, indego, VerySloppyTwo	1	6	30
+434395	4	0	Muddy-Rainbow-Fives (6 Suits)	2021-02-12 — 12:44:13 UTC	asaelr, frosty104, indego, VerySloppyTwo	1	6	30
+434383	4	0	Rainbow & Cocoa Rainbow (6 Suits)	2021-02-12 — 12:17:20 UTC	frosty104, indego, VerySloppyTwo, Wittvector	6	6	30
+434331	4	0	Prism (6 Suits)	2021-02-12 — 09:34:27 UTC	Denchulitas, eliclax, sephiroth, VerySloppyTwo	15	6	30
+433608	6	20	Pink (4 Suits)	2021-02-11 — 21:46:13 UTC	4head, Div, Lanvin, Onen, rahsosprout, VerySloppyTwo	3	4	20
+433585	6	0	Pink (4 Suits)	2021-02-11 — 21:26:35 UTC	4head, Div, Lanvin, Onen, rahsosprout, VerySloppyTwo	4	4	20
+433548	4	24	Black (5 Suits)	2021-02-11 — 21:01:10 UTC	Div, Lanvin, rahsosprout, VerySloppyTwo	14	5	25
+433518	4	0	Black (5 Suits)	2021-02-11 — 20:35:48 UTC	Div, Lanvin, rahsosprout, VerySloppyTwo	14	5	25
+433495	6	25	Throw It in a Hole (5 Suits)	2021-02-11 — 20:11:08 UTC	Div, Lanvin, MangoPie, rahsosprout, torp, VerySloppyTwo	3	5	25
+433484	6	0	Throw It in a Hole (5 Suits)	2021-02-11 — 19:52:37 UTC	Denchulitas, Div, Lanvin, rahsosprout, torp, VerySloppyTwo	4	5	25
+433462	4	22	Special Mix (5 Suits)	2021-02-11 — 19:27:24 UTC	bjnh, colton, rachyrules, VerySloppyTwo	28	5	25
+433448	5	0	Special Mix (5 Suits)	2021-02-11 — 19:05:01 UTC	bjnh, colton, rachyrules, TimeHoodie, VerySloppyTwo	11	5	25
+433300	5	0	Dual-Color (5 Suits)	2021-02-11 — 14:14:39 UTC	eliclax, Kernel, Lanvin, Pimak, VerySloppyTwo	2	5	25
+433227	5	0	Special Mix (5 Suits)	2021-02-11 — 08:52:36 UTC	frosty104, indego, sephiroth, VerySloppyTwo, Wittvector	3	5	25
+432684	5	25	Rainbow & Prism (5 Suits)	2021-02-10 — 21:49:47 UTC	griff77, Kernel, Lanvin, rahsosprout, VerySloppyTwo	3	5	25
+432633	4	17	White-Ones & Prism (4 Suits)	2021-02-10 — 21:14:38 UTC	HariKrishnan, Lanvin, macanek, VerySloppyTwo	1	4	20
+432597	4	0	White-Ones & Prism (4 Suits)	2021-02-10 — 20:51:25 UTC	HariKrishnan, Lanvin, robense, VerySloppyTwo	2	4	20
+432504	3	25	No Variant	2021-02-10 — 20:03:16 UTC	HariKrishnan, VerySloppyTwo, wolfpack	243	5	25
+432468	4	24	Cocoa Rainbow (5 Suits)	2021-02-10 — 19:10:55 UTC	indego, Lanvin, MangoPie, VerySloppyTwo	7	5	25
+432439	4	23	Cocoa Rainbow (5 Suits)	2021-02-10 — 18:41:30 UTC	indego, Lanvin, MangoPie, VerySloppyTwo	8	5	25
+432424	4	0	Cocoa Rainbow (5 Suits)	2021-02-10 — 18:22:00 UTC	indego, Lanvin, MangoPie, VerySloppyTwo	10	5	25
+432170	5	0	Black & Rainbow (6 Suits)	2021-02-10 — 12:43:58 UTC	frosty104, indego, katian, melwen, VerySloppyTwo	11	6	30
+432160	5	0	Black & Rainbow (6 Suits)	2021-02-10 — 12:07:28 UTC	frosty104, indego, katian, melwen, VerySloppyTwo	12	6	30
+432034	3	30	Black & White (6 Suits)	2021-02-10 — 09:17:59 UTC	frosty104, sephiroth, VerySloppyTwo	18	6	30
+432025	3	0	Black & White (6 Suits)	2021-02-10 — 08:58:20 UTC	frosty104, sephiroth, VerySloppyTwo	25	6	30
+431490	5	0	Special Mix (5 Suits)	2021-02-09 — 21:58:11 UTC	bjnh, ChristopheAF, Lanvin, VerySloppyTwo, wump	5	5	25
+431474	5	0	Special Mix (5 Suits)	2021-02-09 — 21:51:27 UTC	bjnh, ChristopheAF, Lanvin, VerySloppyTwo, wump	4	5	25
+431370	4	0	Pink & Omni (6 Suits)	2021-02-09 — 20:42:06 UTC	colton, dobi, Lanvin, VerySloppyTwo	7	6	30
+431336	5	0	Special Mix (5 Suits)	2021-02-09 — 20:08:20 UTC	ChristopheAF, indego, MarkusKahlsen, TimeHoodie, VerySloppyTwo	12	5	25
+431271	4	25	Brown-Ones & Muddy Rainbow (5 Suits)	2021-02-09 — 19:06:09 UTC	Lanvin, rz, Sucubis, VerySloppyTwo	1	5	25
+431240	4	0	Brown-Ones & Muddy Rainbow (5 Suits)	2021-02-09 — 18:34:50 UTC	Lanvin, rz, Sucubis, VerySloppyTwo	1	5	25
+431226	5	0	Brown-Ones & Muddy Rainbow (5 Suits)	2021-02-09 — 18:18:45 UTC	bjnh, Lanvin, rz, Sucubis, VerySloppyTwo	1	5	25
+431220	5	0	Brown-Ones & Muddy Rainbow (5 Suits)	2021-02-09 — 18:07:08 UTC	bjnh, Lanvin, rz, Sucubis, VerySloppyTwo	1	5	25
+431002	6	0	Brown (6 Suits)	2021-02-09 — 13:59:24 UTC	ChristopheAF, frosty104, indego, MangoPie, sephiroth, VerySloppyTwo	2	6	30
+430996	5	0	Special Mix (5 Suits)	2021-02-09 — 13:35:02 UTC	ChristopheAF, frosty104, indego, sephiroth, VerySloppyTwo	2	5	25
+430983	5	23	Extremely Ambiguous (5 Suits)	2021-02-09 — 13:06:53 UTC	frosty104, indego, Lel0uch, melwen, VerySloppyTwo	2	5	25
+430974	5	0	Extremely Ambiguous (5 Suits)	2021-02-09 — 12:36:30 UTC	frosty104, indego, Lel0uch, melwen, VerySloppyTwo	2	5	25
+430972	5	30	Null (6 Suits)	2021-02-09 — 12:21:09 UTC	frosty104, indego, katian, Lel0uch, VerySloppyTwo	3	6	30
+430968	5	0	Null (6 Suits)	2021-02-09 — 11:59:03 UTC	frosty104, indego, katian, Lel0uch, VerySloppyTwo	7	6	30
+430966	5	0	Null (6 Suits)	2021-02-09 — 11:50:33 UTC	frosty104, indego, katian, Lel0uch, VerySloppyTwo	8	6	30
+430933	5	0	Black & Brown (6 Suits)	2021-02-09 — 09:33:50 UTC	4head, indego, louietyj, sephiroth, VerySloppyTwo	5	6	30
+430339	4	23	Black & Rainbow (5 Suits)	2021-02-08 — 21:28:44 UTC	nitawa, Pablo-, VerySloppyTwo, wump	16	5	25
+430306	4	0	Black & Rainbow (5 Suits)	2021-02-08 — 21:07:15 UTC	nitawa, Pablo-, VerySloppyTwo, wump	16	5	25
+430189	6	0	Rainbow & Gray (6 Suits)	2021-02-08 — 19:41:44 UTC	4head, ChristopheAF, Lanvin, VerySloppyTwo, voss, Wittvector	3	6	30
+430163	6	0	Light Pink & Cocoa Rainbow (5 Suits)	2021-02-08 — 19:18:53 UTC	4head, ChristopheAF, Lanvin, sephiroth, VerySloppyTwo, voss	1	5	25
+430137	4	21	Dark Prism (5 Suits)	2021-02-08 — 18:58:09 UTC	4head, dobi, Lanvin, VerySloppyTwo	11	5	25
+430090	3	24	Dark Omni (5 Suits)	2021-02-08 — 17:42:42 UTC	Pablo-, rachyrules, VerySloppyTwo	3	5	25
+430054	3	0	Dark Omni (5 Suits)	2021-02-08 — 17:23:09 UTC	Pablo-, rachyrules, VerySloppyTwo	4	5	25
+430049	3	0	Dark Omni (5 Suits)	2021-02-08 — 17:21:00 UTC	Pablo-, rachyrules, VerySloppyTwo	6	5	25
+430041	3	0	Dark Omni (5 Suits)	2021-02-08 — 17:18:01 UTC	Pablo-, rachyrules, VerySloppyTwo	7	5	25
+430017	3	0	Dark Omni (5 Suits)	2021-02-08 — 17:06:33 UTC	Pablo-, rachyrules, VerySloppyTwo	6	5	25
+429952	4	22	Dark Pink (5 Suits)	2021-02-08 — 15:30:27 UTC	ChristopheAF, MangoPie, VerySloppyTwo, Wittvector	20	5	25
+429882	4	0	Black & White (5 Suits)	2021-02-08 — 13:42:32 UTC	jack67889, Lanvin, sephiroth, VerySloppyTwo	3	5	25
+429876	4	0	Black & White (5 Suits)	2021-02-08 — 13:35:22 UTC	jack67889, Lanvin, sephiroth, VerySloppyTwo	5	5	25
+429870	4	19	Black & White (5 Suits)	2021-02-08 — 13:23:26 UTC	jack67889, Lanvin, sephiroth, VerySloppyTwo	8	5	25
+429778	3	25	Rainbow & Brown (5 Suits)	2021-02-08 — 09:02:52 UTC	indego, sephiroth, VerySloppyTwo	13	5	25
+429774	3	0	Rainbow & Brown (5 Suits)	2021-02-08 — 08:51:14 UTC	indego, sephiroth, VerySloppyTwo	14	5	25
+429316	5	0	Special Mix (5 Suits)	2021-02-07 — 21:25:28 UTC	ChristopheAF, Lanvin, TimeHoodie, VerySloppyTwo, Wittvector	3	5	25
+429306	5	0	Special Mix (5 Suits)	2021-02-07 — 21:16:12 UTC	ChristopheAF, Lanvin, TimeHoodie, VerySloppyTwo, Wittvector	3	5	25
+429288	5	0	Special Mix (5 Suits)	2021-02-07 — 20:58:41 UTC	indego, Lanvin, TimeHoodie, VerySloppyTwo, Wittvector	4	5	25
+429271	6	14	White-Ones & Brown (3 Suits)	2021-02-07 — 20:39:16 UTC	4head, bjnh, indego, Lanvin, VerySloppyTwo, 火花	1	3	15
+427895	4	0	Rainbow-Ones & Rainbow (5 Suits)	2021-02-06 — 19:37:46 UTC	Lanvin, MarkusKahlsen, VerySloppyTwo, Wittvector	4	5	25
+427813	6	25	Deceptive-Fives (5 Suits)	2021-02-06 — 18:23:35 UTC	Floriman, indego, MangoPie, rz, TimeHoodie, VerySloppyTwo	1	5	25
+427795	6	0	Deceptive-Fives (5 Suits)	2021-02-06 — 17:59:43 UTC	Floriman, indego, MangoPie, rz, TimeHoodie, VerySloppyTwo	1	5	25
+427762	4	26	Black & Rainbow (6 Suits)	2021-02-06 — 17:15:14 UTC	CaitlinSmith, Lanvin, nwajfromoz, VerySloppyTwo	14	6	30
+427733	4	0	Black & Rainbow (6 Suits)	2021-02-06 — 16:50:25 UTC	CaitlinSmith, Lanvin, nwajfromoz, VerySloppyTwo	16	6	30
+427723	3	0	Rainbow & Prism (6 Suits)	2021-02-06 — 16:44:22 UTC	Lanvin, nwajfromoz, VerySloppyTwo	12	6	30
+427720	3	0	Rainbow & Prism (6 Suits)	2021-02-06 — 16:41:12 UTC	Lanvin, nwajfromoz, VerySloppyTwo	18	6	30
+426857	4	23	Black & White (5 Suits)	2021-02-05 — 22:03:10 UTC	Div, MarkusKahlsen, swineherd, VerySloppyTwo	5	5	25
+426820	4	0	Black & White (5 Suits)	2021-02-05 — 21:38:38 UTC	Div, MarkusKahlsen, swineherd, VerySloppyTwo	5	5	25
+426801	3	0	Black & Light Pink (5 Suits)	2021-02-05 — 21:27:29 UTC	Div, MarkusKahlsen, VerySloppyTwo	11	5	25
+426455	5	25	Brown & Light Pink (5 Suits)	2021-02-05 — 14:58:51 UTC	indego, Lanvin, MangoPie, Sucubis, VerySloppyTwo	2	5	25
+426448	5	0	Brown & Light Pink (5 Suits)	2021-02-05 — 14:34:50 UTC	indego, Lanvin, MangoPie, Sucubis, VerySloppyTwo	3	5	25
+426443	4	0	Black & Light Pink (5 Suits)	2021-02-05 — 14:13:54 UTC	indego, Lanvin, Sucubis, VerySloppyTwo	7	5	25
+426437	5	0	Special Mix (5 Suits)	2021-02-05 — 13:56:35 UTC	indego, katian, Lanvin, sephiroth, VerySloppyTwo	3	5	25
+426431	5	0	Special Mix (5 Suits)	2021-02-05 — 13:44:52 UTC	indego, katian, Lanvin, sephiroth, VerySloppyTwo	3	5	25
+426430	5	0	Special Mix (5 Suits)	2021-02-05 — 13:42:00 UTC	indego, katian, Lanvin, sephiroth, VerySloppyTwo	4	5	25
+426423	5	0	Special Mix (5 Suits)	2021-02-05 — 13:22:34 UTC	indego, katian, Lanvin, sephiroth, VerySloppyTwo	6	5	25
+426387	4	30	Black & Pink (6 Suits)	2021-02-05 — 11:46:51 UTC	Div, rachyrules, sephiroth, VerySloppyTwo	6	6	30
+426344	4	23	White & Omni (5 Suits)	2021-02-05 — 09:42:57 UTC	derekcheah, Floriman, indego, VerySloppyTwo	4	5	25
+425768	4	24	Special Mix (5 Suits)	2021-02-04 — 22:00:50 UTC	hailey, rachyrules, VerySloppyTwo, Wittvector	29	5	25
+425716	5	0	Up or Down & Rainbow (6 Suits)	2021-02-04 — 21:09:19 UTC	Kernel, ricardodd, sephiroth, TimeHoodie, VerySloppyTwo	1	6	30
+425692	5	0	Up or Down & Rainbow (6 Suits)	2021-02-04 — 20:55:26 UTC	Kernel, ricardodd, sephiroth, TimeHoodie, VerySloppyTwo	6	6	30
+425254	5	21	Special Mix (5 Suits)	2021-02-04 — 12:05:51 UTC	ChristopheAF, Lel0uch, rachyrules, TimeHoodie, VerySloppyTwo	5	5	25
+425248	5	0	Special Mix (5 Suits)	2021-02-04 — 11:48:37 UTC	ChristopheAF, Lel0uch, rachyrules, TimeHoodie, VerySloppyTwo	5	5	25
+424370	5	26	Black & Light Pink (6 Suits)	2021-02-03 — 19:44:21 UTC	colton, jack67889, Kyle, Lanvin, VerySloppyTwo	3	6	30
+424280	6	0	Dark Pink (6 Suits)	2021-02-03 — 18:59:58 UTC	colton, Div, Lanvin, Pimak, sephiroth, VerySloppyTwo	4	6	30
+424223	5	20	Reversed (4 Suits)	2021-02-03 — 18:30:01 UTC	Kyle, Lanvin, Lel0uch, sephiroth, VerySloppyTwo	1	4	20
+424206	5	0	Reversed (4 Suits)	2021-02-03 — 18:16:18 UTC	Kyle, Lanvin, Lel0uch, sephiroth, VerySloppyTwo	1	4	20
+423978	4	25	Muddy-Rainbow-Ones & Omni (5 Suits)	2021-02-03 — 13:19:07 UTC	Lanvin, sephiroth, TimeHoodie, VerySloppyTwo	1	5	25
+423970	5	0	Muddy-Rainbow-Ones & Omni (5 Suits)	2021-02-03 — 12:46:46 UTC	Asddsa76, Lanvin, Lel0uch, TimeHoodie, VerySloppyTwo	1	5	25
+423938	5	30	Rainbow & Light Pink (6 Suits)	2021-02-03 — 10:04:00 UTC	indego, Lel0uch, sephiroth, Sucubis, VerySloppyTwo	5	6	30
+423936	5	0	Dark Brown (6 Suits)	2021-02-03 — 09:33:27 UTC	indego, Lel0uch, sephiroth, Sucubis, VerySloppyTwo	4	6	30
+423934	4	24	Dark Brown (5 Suits)	2021-02-03 — 09:17:14 UTC	indego, Lel0uch, sephiroth, VerySloppyTwo	1	5	25
+423920	5	0	Pink & Dark Rainbow (5 Suits)	2021-02-03 — 08:44:26 UTC	dobi, frosty104, indego, sephiroth, VerySloppyTwo	1	5	25
+423324	4	25	Muddy-Rainbow-Ones & Brown (5 Suits)	2021-02-02 — 21:38:51 UTC	Lanvin, rz, TimeHoodie, VerySloppyTwo	1	5	25
+423287	5	0	Muddy-Rainbow-Ones & Brown (5 Suits)	2021-02-02 — 21:16:05 UTC	frosty104, Lanvin, rz, TimeHoodie, VerySloppyTwo	1	5	25
+423147	4	0	Alternating Clues & White (6 Suits)	2021-02-02 — 19:24:18 UTC	colton, frosty104, Lanvin, VerySloppyTwo	1	6	30
+423119	5	0	Brown-Ones & Black (5 Suits)	2021-02-02 — 19:04:49 UTC	colton, frosty104, Lanvin, Onen, VerySloppyTwo	1	5	25
+423106	4	0	Brown-Ones & Black (5 Suits)	2021-02-02 — 18:47:08 UTC	frosty104, Lanvin, Onen, VerySloppyTwo	2	5	25
+423093	5	0	Dark Brown (6 Suits)	2021-02-02 — 18:27:39 UTC	frosty104, indego, Lanvin, sephiroth, VerySloppyTwo	6	6	30
+423006	5	23	Pink & Omni (5 Suits)	2021-02-02 — 15:36:19 UTC	ChristopheAF, MarkusKahlsen, Pablo-, rz, VerySloppyTwo	2	5	25
+422986	3	0	Black & Pink (5 Suits)	2021-02-02 — 14:26:21 UTC	frosty104, sephiroth, VerySloppyTwo	5	5	25
+422978	4	25	Black & Brown (6 Suits)	2021-02-02 — 13:57:59 UTC	indego, Lanvin, sin_faith, VerySloppyTwo	9	6	30
+422973	6	0	Pink & Omni (5 Suits)	2021-02-02 — 13:39:37 UTC	ChristopheAF, indego, Lanvin, sin_faith, StKildaFan, VerySloppyTwo	1	5	25
+422968	5	0	Pink & Omni (5 Suits)	2021-02-02 — 13:23:29 UTC	ChristopheAF, indego, Lanvin, TimeHoodie, VerySloppyTwo	1	5	25
+422961	5	0	Pink & Omni (5 Suits)	2021-02-02 — 12:56:24 UTC	ChristopheAF, indego, Lanvin, VerySloppyTwo, Wittvector	1	5	25
+422384	5	0	Pink-Ones & Light Pink (6 Suits)	2021-02-01 — 21:39:15 UTC	Lanvin, MarkusKahlsen, swineherd, TimeHoodie, VerySloppyTwo	1	6	30
+422363	5	0	Pink-Ones & Light Pink (6 Suits)	2021-02-01 — 21:20:42 UTC	Lanvin, MarkusKahlsen, swineherd, TimeHoodie, VerySloppyTwo	1	6	30
+422241	3	25	White-Fives & Dark Brown (5 Suits)	2021-02-01 — 19:16:09 UTC	Lanvin, MarkusKahlsen, VerySloppyTwo	1	5	25
+422226	4	0	Light-Pink-Ones & Cocoa Rainbow (5 Suits)	2021-02-01 — 19:00:51 UTC	Lanvin, MarkusKahlsen, rachyrules, VerySloppyTwo	1	5	25
+422162	5	26	Black (6 Suits)	2021-02-01 — 16:24:27 UTC	indego, MangoPie, Pablo-, sin_faith, VerySloppyTwo	23	6	30
+422124	4	25	Pink & Dark Rainbow (5 Suits)	2021-02-01 — 14:20:58 UTC	Lanvin, sephiroth, VerySloppyTwo, Wittvector	4	5	25
+422112	6	22	Dark Omni (5 Suits)	2021-02-01 — 13:44:00 UTC	asaelr, indego, Lanvin, sephiroth, TimeHoodie, VerySloppyTwo	2	5	25
+421437	4	25	Black & Pink (5 Suits)	2021-01-31 — 22:20:00 UTC	Floriman, indego, Kyle, VerySloppyTwo	1	5	25
+421409	4	0	Muddy-Rainbow-Fives (6 Suits)	2021-01-31 — 21:59:24 UTC	asaelr, Floriman, indego, VerySloppyTwo	1	6	30
+421400	4	0	Muddy-Rainbow-Fives (6 Suits)	2021-01-31 — 21:47:27 UTC	asaelr, Floriman, indego, VerySloppyTwo	1	6	30
+421394	4	0	Muddy-Rainbow-Fives (6 Suits)	2021-01-31 — 21:43:17 UTC	asaelr, Floriman, indego, VerySloppyTwo	1	6	30
+421360	5	0	Brown-Ones & Brown (6 Suits)	2021-01-31 — 21:09:05 UTC	Bot-Fiora, frosty104, indego, Lanvin, VerySloppyTwo	1	6	30
+421343	5	0	Brown-Ones & Brown (6 Suits)	2021-01-31 — 20:51:11 UTC	Bot-Fiora, frosty104, indego, Lanvin, VerySloppyTwo	2	6	30
+421330	5	0	Brown-Ones & Brown (6 Suits)	2021-01-31 — 20:38:29 UTC	Bot-Fiora, frosty104, indego, Lanvin, VerySloppyTwo	2	6	30
+421304	5	27	Black & Rainbow (6 Suits)	2021-01-31 — 20:16:09 UTC	CaitlinSmith, MarkusKahlsen, rachyrules, TimeHoodie, VerySloppyTwo	20	6	30
+421276	3	0	Pink (5 Suits)	2021-01-31 — 19:33:50 UTC	CaitlinSmith, rachyrules, VerySloppyTwo	23	5	25
+421246	6	29	Black & Brown (6 Suits)	2021-01-31 — 18:42:43 UTC	4head, Bot-Fiora, Kernel, Lanvin, MarcLovesDogs, VerySloppyTwo	3	6	30
+421228	6	0	Black & Brown (6 Suits)	2021-01-31 — 18:21:01 UTC	4head, Bot-Fiora, Kernel, Lanvin, MarcLovesDogs, VerySloppyTwo	4	6	30
+421007	4	28	Prism (6 Suits)	2021-01-31 — 10:01:38 UTC	CaitlinSmith, indego, katian, VerySloppyTwo	22	6	30
+420989	4	0	Prism (6 Suits)	2021-01-31 — 09:12:48 UTC	CaitlinSmith, indego, katian, VerySloppyTwo	23	6	30
+420127	5	20	Brown-Ones (4 Suits)	2021-01-30 — 21:25:50 UTC	4head, Bot-Fiora, Lanvin, rahsosprout, VerySloppyTwo	1	4	20
+420082	5	0	Brown-Ones (4 Suits)	2021-01-30 — 21:02:15 UTC	4head, Bot-Fiora, Lanvin, rahsosprout, VerySloppyTwo	1	4	20
+420044	5	29	Dark Prism (6 Suits)	2021-01-30 — 20:41:51 UTC	Lanvin, lolthisnotderk, MarkusKahlsen, rachyrules, VerySloppyTwo	9	6	30
+419944	5	23	Dark Rainbow (5 Suits)	2021-01-30 — 18:43:48 UTC	Div, Fey, sephiroth, Sucubis, VerySloppyTwo	3	5	25
+419844	4	24	Up or Down & Pink (5 Suits)	2021-01-30 — 15:51:08 UTC	duckington, MangoPie, sephiroth, VerySloppyTwo	6	5	25
+419832	4	0	Up or Down & Pink (5 Suits)	2021-01-30 — 15:28:54 UTC	duckington, MangoPie, sephiroth, VerySloppyTwo	5	5	25
+419682	5	0	Pink & Light Pink (5 Suits)	2021-01-30 — 10:01:10 UTC	indego, newduke, qqqq, VerySloppyTwo, wortel	2	5	25
+419678	5	0	Pink & Light Pink (5 Suits)	2021-01-30 — 09:53:20 UTC	indego, newduke, qqqq, VerySloppyTwo, wortel	3	5	25
+418847	3	0	Muddy Rainbow (3 Suits)	2021-01-29 — 21:14:59 UTC	frosty104, Lanvin, VerySloppyTwo	22	3	15
+418833	4	25	Pink-Ones & White (5 Suits)	2021-01-29 — 21:01:50 UTC	frosty104, Lanvin, TimeHoodie, VerySloppyTwo	4	5	25
+418743	5	0	Light-Pink-Fives & Rainbow (5 Suits)	2021-01-29 — 19:30:11 UTC	frosty104, hakha3, Lanvin, TimeHoodie, VerySloppyTwo	1	5	25
+418718	5	0	Light-Pink-Fives & Rainbow (5 Suits)	2021-01-29 — 19:05:21 UTC	frosty104, hakha3, Lanvin, TimeHoodie, VerySloppyTwo	1	5	25
+418548	4	0	Special Mix (5 Suits)	2021-01-29 — 13:46:42 UTC	indego, sephiroth, sin_faith, VerySloppyTwo	5	5	25
+418542	4	0	Special Mix (5 Suits)	2021-01-29 — 13:24:00 UTC	indego, sephiroth, sin_faith, VerySloppyTwo	5	5	25
+418538	4	25	Rainbow & Prism (5 Suits)	2021-01-29 — 12:57:11 UTC	indego, Lel0uch, sean1815, VerySloppyTwo	5	5	25
+418531	3	0	Pink & White (6 Suits)	2021-01-29 — 12:32:24 UTC	indego, Lel0uch, VerySloppyTwo	11	6	30
+418513	3	23	Black & Pink (5 Suits)	2021-01-29 — 11:52:05 UTC	indego, sephiroth, VerySloppyTwo	7	5	25
+418483	3	0	Black & Pink (5 Suits)	2021-01-29 — 09:46:50 UTC	Div, sephiroth, VerySloppyTwo	6	5	25
+417922	3	24	Black & Pink (5 Suits)	2021-01-28 — 21:46:46 UTC	robense, sephiroth, VerySloppyTwo	6	5	25
+417898	3	0	Black & Pink (5 Suits)	2021-01-28 — 21:31:53 UTC	robense, sephiroth, VerySloppyTwo	9	5	25
+417887	3	0	Black & Pink (5 Suits)	2021-01-28 — 21:21:14 UTC	robense, sephiroth, VerySloppyTwo	13	5	25
+417878	3	0	Black & Pink (5 Suits)	2021-01-28 — 21:12:51 UTC	robense, sephiroth, VerySloppyTwo	15	5	25
+417730	4	0	Black & Light Pink (5 Suits)	2021-01-28 — 18:48:30 UTC	dobi, sephiroth, TimeHoodie, VerySloppyTwo	4	5	25
+417721	3	0	Black & White (6 Suits)	2021-01-28 — 18:39:33 UTC	sephiroth, TimeHoodie, VerySloppyTwo	20	6	30
+417715	3	0	Black & White (6 Suits)	2021-01-28 — 18:34:57 UTC	sephiroth, TimeHoodie, VerySloppyTwo	39	6	30
+417557	4	30	White & Dark Rainbow (6 Suits)	2021-01-28 — 13:29:28 UTC	hakha3, MarkusKahlsen, sephiroth, VerySloppyTwo	8	6	30
+417528	5	0	Cocoa Rainbow (6 Suits)	2021-01-28 — 12:13:49 UTC	asaelr, indego, Lel0uch, Sucubis, VerySloppyTwo	4	6	30
+417526	5	0	Cocoa Rainbow (6 Suits)	2021-01-28 — 11:58:24 UTC	asaelr, indego, Lel0uch, Sucubis, VerySloppyTwo	4	6	30
+417525	5	0	Cocoa Rainbow (6 Suits)	2021-01-28 — 11:51:56 UTC	asaelr, indego, Lel0uch, Sucubis, VerySloppyTwo	5	6	30
+417472	3	29	Dark Rainbow Reversed (6 Suits)	2021-01-28 — 10:00:45 UTC	indego, sephiroth, VerySloppyTwo	3	6	30
+417448	3	0	Dark Rainbow Reversed (6 Suits)	2021-01-28 — 09:34:52 UTC	indego, sephiroth, VerySloppyTwo	3	6	30
+417433	4	25	Pink & Brown (5 Suits)	2021-01-28 — 09:08:23 UTC	indego, katian, swineherd, VerySloppyTwo	2	5	25
+416644	6	0	Pink & Brown (6 Suits)	2021-01-27 — 19:54:30 UTC	duckington, Floriman, Lanvin, MangoPie, sephiroth, VerySloppyTwo	1	6	30
+416402	4	24	Pink & Dark Rainbow (5 Suits)	2021-01-27 — 14:26:40 UTC	HelanaAshryvr, indego, sephiroth, VerySloppyTwo	3	5	25
+416341	5	0	Black & Pink (6 Suits)	2021-01-27 — 12:33:14 UTC	indego, katian, Lel0uch, sephiroth, VerySloppyTwo	8	6	30
+416328	5	0	Pink & Prism (6 Suits)	2021-01-27 — 12:09:32 UTC	BananaBum, indego, Lel0uch, sephiroth, VerySloppyTwo	3	6	30
+416325	5	0	Pink & Prism (6 Suits)	2021-01-27 — 11:55:29 UTC	BananaBum, indego, Lel0uch, sephiroth, VerySloppyTwo	3	6	30
+416322	5	0	Pink & Prism (6 Suits)	2021-01-27 — 11:36:00 UTC	BananaBum, indego, Lel0uch, sephiroth, VerySloppyTwo	3	6	30
+416311	3	0	No Variant	2021-01-27 — 09:32:23 UTC	Denchulitas, indego, VerySloppyTwo	940	5	25
+416309	6	0	Muddy Rainbow & Gray (6 Suits)	2021-01-27 — 09:06:52 UTC	indego, katian, MangoPie, sephiroth, VerySloppyTwo, Wittvector	1	6	30
+416308	6	0	Muddy Rainbow & Gray (6 Suits)	2021-01-27 — 08:50:55 UTC	indego, katian, MangoPie, sephiroth, VerySloppyTwo, Wittvector	1	6	30
+416306	4	22	Dark Brown (5 Suits)	2021-01-27 — 08:36:16 UTC	Lel0uch, sephiroth, VerySloppyTwo, Wittvector	1	5	25
+415685	6	21	Rainbow (5 Suits)	2021-01-26 — 21:06:28 UTC	Daryl, Denchulitas, griff77, ksfortson, Lanvin, VerySloppyTwo	5	5	25
+415641	6	23	Rainbow (5 Suits)	2021-01-26 — 20:32:30 UTC	Daryl, Denchulitas, griff77, ksfortson, Lanvin, VerySloppyTwo	8	5	25
+415587	6	0	Rainbow (5 Suits)	2021-01-26 — 19:58:50 UTC	Denchulitas, griff77, Lanvin, Plum, VerySloppyTwo, wump	9	5	25
+415552	3	30	Brown-Ones & Pink (6 Suits)	2021-01-26 — 19:03:23 UTC	Lanvin, MangoPie, VerySloppyTwo	2	6	30
+415542	3	0	Brown-Ones & Pink (6 Suits)	2021-01-26 — 18:49:03 UTC	Lanvin, MangoPie, VerySloppyTwo	2	6	30
+415423	5	0	Pink & Dark Rainbow (5 Suits)	2021-01-26 — 13:59:00 UTC	indego, katian, sephiroth, VerySloppyTwo, Wittvector	1	5	25
+415416	5	0	Pink & Dark Rainbow (5 Suits)	2021-01-26 — 13:33:24 UTC	indego, katian, sephiroth, VerySloppyTwo, Wittvector	1	5	25
+415406	4	0	Pink & Dark Rainbow (5 Suits)	2021-01-26 — 13:11:41 UTC	arnino, sephiroth, VerySloppyTwo, Wittvector	3	5	25
+415354	5	25	Black (5 Suits)	2021-01-26 — 09:43:39 UTC	antitelharsic, indego, Lel0uch, sephiroth, VerySloppyTwo	9	5	25
+415348	5	24	White-Fives & Muddy Rainbow (5 Suits)	2021-01-26 — 09:14:23 UTC	antitelharsic, catula, dobi, sephiroth, VerySloppyTwo	1	5	25
+414573	6	0	No Variant	2021-01-25 — 14:35:12 UTC	hue, indego, Lanvin, rz, sephiroth, VerySloppyTwo	7	5	25
+414552	4	29	Dark Pink (6 Suits)	2021-01-25 — 14:04:24 UTC	Floriman, Lanvin, sephiroth, VerySloppyTwo	5	6	30
+414512	4	0	Brown-Ones & Dark Omni (5 Suits)	2021-01-25 — 12:03:22 UTC	indego, katian, Lel0uch, VerySloppyTwo	1	5	25
+414510	4	0	Brown-Ones & Dark Omni (5 Suits)	2021-01-25 — 11:59:56 UTC	indego, katian, Lel0uch, VerySloppyTwo	1	5	25
+414507	5	0	White & Muddy Rainbow (5 Suits)	2021-01-25 — 11:51:35 UTC	indego, katian, Lel0uch, sephiroth, VerySloppyTwo	1	5	25
+414506	5	0	White & Muddy Rainbow (5 Suits)	2021-01-25 — 11:46:22 UTC	indego, katian, Lel0uch, sephiroth, VerySloppyTwo	2	5	25
+414501	5	0	White & Muddy Rainbow (5 Suits)	2021-01-25 — 11:31:53 UTC	indego, katian, Lel0uch, sephiroth, VerySloppyTwo	2	5	25
+414498	5	0	White & Muddy Rainbow (5 Suits)	2021-01-25 — 11:25:50 UTC	indego, katian, Lel0uch, sephiroth, VerySloppyTwo	4	5	25
+410526	4	22	Pink & Dark Rainbow (5 Suits)	2021-01-21 — 14:32:08 UTC	frosty104, MarkusKahlsen, sephiroth, VerySloppyTwo	4	5	25
+410517	4	0	Pink & Dark Rainbow (5 Suits)	2021-01-21 — 14:04:38 UTC	frosty104, MarkusKahlsen, sephiroth, VerySloppyTwo	5	5	25
+409847	4	0	Black & Rainbow (6 Suits)	2021-01-20 — 20:00:51 UTC	indego, kevincaseytdk1, Lanvin, VerySloppyTwo	25	6	30
+409808	3	0	Black (6 Suits)	2021-01-20 — 19:29:08 UTC	indego, Lanvin, VerySloppyTwo	261	6	30
+408492	5	0	Reversed (6 Suits)	2021-01-19 — 09:29:45 UTC	Fey, indego, sephiroth, VerySloppyTwo, Wittvector	2	6	30
+407415	5	0	Muddy Rainbow (4 Suits)	2021-01-18 — 13:53:50 UTC	arnino, Lanvin, sephiroth, VerySloppyTwo, Wittvector	6	4	20
+405305	4	25	White-Fives & White (5 Suits)	2021-01-16 — 19:00:17 UTC	nitawa, Sucubis, VerySloppyTwo, XMIL	1	5	25
+405286	4	0	White-Fives & White (5 Suits)	2021-01-16 — 18:32:48 UTC	nitawa, Sucubis, VerySloppyTwo, XMIL	1	5	25
+404319	5	25	Pink & Brown (5 Suits)	2021-01-15 — 20:57:27 UTC	MarkusKahlsen, sephiroth, swineherd, VerySloppyTwo, XMIL	3	5	25
+403362	5	0	Null (6 Suits)	2021-01-14 — 22:09:48 UTC	jack67889, nitawa, Nitrate2, Pablo-, VerySloppyTwo	5	6	30
+403354	5	0	Null (6 Suits)	2021-01-14 — 21:59:07 UTC	jack67889, nitawa, Nitrate2, Pablo-, VerySloppyTwo	10	6	30
+402056	5	29	Rainbow (6 Suits)	2021-01-13 — 15:40:53 UTC	indego, melwen, Pablo-, PMP, VerySloppyTwo	83	6	30
+401992	3	24	Up or Down (5 Suits)	2021-01-13 — 13:20:31 UTC	Fey, sephiroth, VerySloppyTwo	6	5	25
+401264	3	30	Black & Pink (6 Suits)	2021-01-12 — 19:19:35 UTC	macanek, sephiroth, VerySloppyTwo	20	6	30
+400311	5	0	Dual-Color & Rainbow (6 Suits)	2021-01-11 — 19:30:48 UTC	ChristopheAF, Nitrate2, Pablo-, swineherd, VerySloppyTwo	3	6	30
+400293	5	0	Dual-Color & Rainbow (6 Suits)	2021-01-11 — 19:15:55 UTC	ChristopheAF, Nitrate2, Pablo-, swineherd, VerySloppyTwo	5	6	30
+400276	4	12	Pink & Null (3 Suits)	2021-01-11 — 18:55:42 UTC	rahsosprout, sephiroth, VerySloppyTwo, Wittvector	3	3	15
+400256	4	14	Pink & Null (3 Suits)	2021-01-11 — 18:29:22 UTC	rahsosprout, sephiroth, VerySloppyTwo, Wittvector	4	3	15
+400169	4	0	Muddy-Rainbow-Ones & Prism (5 Suits)	2021-01-11 — 15:49:26 UTC	Nitrate2, Pablo-, VerySloppyTwo, wump	1	5	25
+400141	3	0	Dark Pink (5 Suits)	2021-01-11 — 14:16:10 UTC	Lanvin, Pablo-, VerySloppyTwo	10	5	25
+400138	3	0	Dark Pink (5 Suits)	2021-01-11 — 14:08:52 UTC	Lanvin, Pablo-, VerySloppyTwo	17	5	25
+400133	5	0	Black (5 Suits)	2021-01-11 — 13:57:38 UTC	Animex52, Lanvin, nitawa, Pablo-, VerySloppyTwo	13	5	25
+399479	3	30	Brown (6 Suits)	2021-01-10 — 21:32:34 UTC	Pablo-, VerySloppyTwo, wump	52	6	30
+399248	4	28	Rainbow (6 Suits)	2021-01-10 — 16:27:30 UTC	MangoPie, Pablo-, ricardodd, VerySloppyTwo	344	6	30
+398044	3	0	3 Suits	2021-01-09 — 20:23:39 UTC	antitelharsic, VerySloppyTwo, XMIL	115	3	15
+398037	4	0	Brown (3 Suits)	2021-01-09 — 20:17:03 UTC	antitelharsic, nitawa, VerySloppyTwo, XMIL	7	3	15
+398030	4	14	Brown (3 Suits)	2021-01-09 — 20:10:41 UTC	antitelharsic, nitawa, VerySloppyTwo, XMIL	8	3	15
+398011	4	0	Brown (3 Suits)	2021-01-09 — 19:59:00 UTC	antitelharsic, nitawa, VerySloppyTwo, XMIL	8	3	15
+397987	4	13	Brown (3 Suits)	2021-01-09 — 19:47:10 UTC	antitelharsic, nitawa, VerySloppyTwo, XMIL	13	3	15
+397966	4	15	White (3 Suits)	2021-01-09 — 19:27:27 UTC	antitelharsic, nitawa, VerySloppyTwo, XMIL	27	3	15
+396546	4	0	Up or Down & Prism (6 Suits)	2021-01-08 — 09:50:26 UTC	Fey, robense, sephiroth, VerySloppyTwo	7	6	30
+395815	5	0	Dark Rainbow (5 Suits)	2021-01-07 — 21:57:02 UTC	jack67889, nitawa, Nitrate2, Pablo-, VerySloppyTwo	3	5	25
+393813	5	0	White-Ones & Gray (5 Suits)	2021-01-05 — 21:14:10 UTC	indego, jack67889, Pablo-, VerySloppyTwo, XMIL	1	5	25
+393768	5	23	White-Ones & Brown (5 Suits)	2021-01-05 — 20:37:19 UTC	indego, jack67889, nitawa, VerySloppyTwo, XMIL	1	5	25
+393726	3	20	Deceptive-Ones & Pink (4 Suits)	2021-01-05 — 19:37:27 UTC	colton, Lanvin, VerySloppyTwo	1	4	20
+393714	3	0	Deceptive-Ones & Pink (4 Suits)	2021-01-05 — 19:14:29 UTC	colton, Lanvin, VerySloppyTwo	2	4	20
+393701	4	20	Prism (4 Suits)	2021-01-05 — 18:54:58 UTC	ChristopheAF, MangoPie, Onen, VerySloppyTwo	11	4	20
+393689	4	18	Prism (4 Suits)	2021-01-05 — 18:33:02 UTC	ChristopheAF, MangoPie, Onen, VerySloppyTwo	13	4	20
+392463	4	22	White-Ones & Gray (5 Suits)	2021-01-04 — 14:53:43 UTC	nitawa, Pablo-, sin_faith, VerySloppyTwo	1	5	25
+392458	4	0	White-Ones & Gray (5 Suits)	2021-01-04 — 14:33:04 UTC	nitawa, Pablo-, sin_faith, VerySloppyTwo	2	5	25
+392454	6	0	No Variant	2021-01-04 — 14:08:56 UTC	Cration, Lanvin, Nitrate2, Pablo-, sin_faith, VerySloppyTwo	8	5	25
+391754	5	30	6 Suits	2021-01-03 — 22:02:23 UTC	bob65536, colton, jack67889, sephiroth, VerySloppyTwo	35	6	30
+391734	5	0	6 Suits	2021-01-03 — 21:34:45 UTC	bob65536, colton, jack67889, sephiroth, VerySloppyTwo	40	6	30
+391710	6	0	Dark Pink (5 Suits)	2021-01-03 — 21:11:30 UTC	bob65536, colton, doctorabi, jack67889, sephiroth, VerySloppyTwo	4	5	25
+391692	6	25	Pink & Prism (5 Suits)	2021-01-03 — 20:56:06 UTC	bob65536, colton, doctorabi, jack67889, sephiroth, VerySloppyTwo	1	5	25
+390637	5	24	White (5 Suits)	2021-01-02 — 21:54:41 UTC	indego, rz, sean1815, VerySloppyTwo, XMIL	14	5	25
+390613	5	0	White (4 Suits)	2021-01-02 — 21:31:52 UTC	indego, rz, sean1815, VerySloppyTwo, XMIL	7	4	20
+390588	5	0	Rainbow & Prism (6 Suits)	2021-01-02 — 21:14:26 UTC	colton, hailey, indego, VerySloppyTwo, Wittvector	1	6	30
+390556	5	0	Rainbow & Prism (6 Suits)	2021-01-02 — 20:43:50 UTC	colton, hailey, indego, VerySloppyTwo, Wittvector	3	6	30
+390175	3	0	Dark Rainbow (5 Suits)	2021-01-02 — 08:39:34 UTC	catula, sephiroth, VerySloppyTwo	29	5	25
+390158	3	0	Dark Rainbow (5 Suits)	2021-01-02 — 08:15:05 UTC	catula, sephiroth, VerySloppyTwo	48	5	25
+388334	3	0	Reversed (5 Suits)	2020-12-31 — 18:56:39 UTC	nitawa, Sucubis, VerySloppyTwo	10	5	25
+388322	3	0	Reversed (5 Suits)	2020-12-31 — 18:38:28 UTC	nitawa, Sucubis, VerySloppyTwo	17	5	25
+388315	3	0	Reversed (5 Suits)	2020-12-31 — 18:29:04 UTC	nitawa, Sucubis, VerySloppyTwo	35	5	25
+388186	5	0	Up or Down & Pink (6 Suits)	2020-12-31 — 14:20:43 UTC	Lel0uch, Nitrate2, Pablo-, sephiroth, VerySloppyTwo	1	6	30
+388181	5	28	Up or Down & Pink (6 Suits)	2020-12-31 — 13:53:22 UTC	Lel0uch, Nitrate2, Pablo-, sephiroth, VerySloppyTwo	1	6	30
+387469	3	25	Muddy Rainbow (5 Suits)	2020-12-30 — 20:30:38 UTC	colton, Lanvin, VerySloppyTwo	46	5	25
+387437	4	25	Light-Pink-Ones & Pink (5 Suits)	2020-12-30 — 20:05:13 UTC	colton, Lanvin, sin_faith, VerySloppyTwo	2	5	25
+387426	4	0	Brown (5 Suits)	2020-12-30 — 19:47:30 UTC	colton, Lanvin, sin_faith, VerySloppyTwo	14	5	25
+387425	4	0	Brown (5 Suits)	2020-12-30 — 19:45:12 UTC	colton, Lanvin, sin_faith, VerySloppyTwo	17	5	25
+387418	4	0	Brown (5 Suits)	2020-12-30 — 19:41:55 UTC	colton, Lanvin, sin_faith, VerySloppyTwo	19	5	25
+387415	4	0	Rainbow (5 Suits)	2020-12-30 — 19:38:32 UTC	bob65536, colton, sin_faith, VerySloppyTwo	23	5	25
+387412	4	0	Rainbow (5 Suits)	2020-12-30 — 19:34:42 UTC	bob65536, colton, sin_faith, VerySloppyTwo	30	5	25
+387410	4	0	Rainbow (5 Suits)	2020-12-30 — 19:32:58 UTC	bob65536, colton, sin_faith, VerySloppyTwo	29	5	25
+387209	5	26	Black & Rainbow (6 Suits)	2020-12-30 — 12:35:02 UTC	catula, macanek, Pablo-, sephiroth, VerySloppyTwo	5	6	30
+386187	3	21	Dark Null (5 Suits)	2020-12-29 — 15:22:40 UTC	Pablo-, sephiroth, VerySloppyTwo	8	5	25
+386180	3	0	Dark Null (5 Suits)	2020-12-29 — 15:01:49 UTC	Pablo-, sephiroth, VerySloppyTwo	7	5	25
+386164	3	0	Dark Null (5 Suits)	2020-12-29 — 14:45:49 UTC	Pablo-, sephiroth, VerySloppyTwo	7	5	25
+386161	3	0	Dark Null (5 Suits)	2020-12-29 — 14:40:43 UTC	Pablo-, sephiroth, VerySloppyTwo	8	5	25
+386153	3	0	Dark Null (5 Suits)	2020-12-29 — 14:34:13 UTC	Pablo-, sephiroth, VerySloppyTwo	9	5	25
+386143	4	0	White & Muddy Rainbow (6 Suits)	2020-12-29 — 14:18:10 UTC	kimbifille, Lanvin, sephiroth, VerySloppyTwo	4	6	30
+385341	6	25	No Variant	2020-12-28 — 21:27:36 UTC	ChristopheAF, frosty104, MangoPie, robense, sephiroth, VerySloppyTwo	36	5	25
+385307	3	0	Dark Null (6 Suits)	2020-12-28 — 20:56:39 UTC	plus, sephiroth, VerySloppyTwo	3	6	30
+385271	3	28	Dark Null (6 Suits)	2020-12-28 — 20:28:25 UTC	plus, sephiroth, VerySloppyTwo	4	6	30
+385236	3	0	Dark Null (6 Suits)	2020-12-28 — 19:59:50 UTC	plus, sephiroth, VerySloppyTwo	4	6	30
+384219	3	25	No Variant	2020-12-27 — 21:42:35 UTC	indego, sin_faith, VerySloppyTwo	27	5	25
+384190	3	0	No Variant	2020-12-27 — 21:15:31 UTC	indego, sin_faith, VerySloppyTwo	28	5	25
+384183	3	0	No Variant	2020-12-27 — 21:07:08 UTC	indego, sin_faith, VerySloppyTwo	28	5	25
+384180	3	0	No Variant	2020-12-27 — 21:04:10 UTC	indego, sin_faith, VerySloppyTwo	30	5	25
+384000	6	22	No Variant	2020-12-27 — 18:15:38 UTC	Daryl, macanek, narabio, Pepe123, sephiroth, VerySloppyTwo	115	5	25
+383981	3	23	Dark Omni (5 Suits)	2020-12-27 — 17:42:15 UTC	Livia, Sucubis, VerySloppyTwo	8	5	25
+383971	3	0	Dark Omni (5 Suits)	2020-12-27 — 17:27:26 UTC	Livia, Sucubis, VerySloppyTwo	13	5	25
+382892	5	30	Rainbow Reversed (6 Suits)	2020-12-26 — 18:49:52 UTC	Lel0uch, Livia, sephiroth, TheDaniMan, VerySloppyTwo	7	6	30
+382755	4	24	White (5 Suits)	2020-12-26 — 14:50:07 UTC	indego, macanek, sephiroth, VerySloppyTwo	31	5	25
+382747	5	25	Rainbow (5 Suits)	2020-12-26 — 14:21:25 UTC	indego, katian, macanek, sephiroth, VerySloppyTwo	54	5	25
+381889	4	19	Dark Rainbow Reversed (5 Suits)	2020-12-25 — 18:46:33 UTC	doctorabi, jeff10, sephiroth, VerySloppyTwo	3	5	25
+381878	4	0	Dark Rainbow Reversed (5 Suits)	2020-12-25 — 18:19:15 UTC	doctorabi, jeff10, sephiroth, VerySloppyTwo	3	5	25
+381785	4	29	Brown (6 Suits)	2020-12-25 — 15:09:20 UTC	jeff10, macanek, sephiroth, VerySloppyTwo	6	6	30
+381779	4	0	Brown (6 Suits)	2020-12-25 — 14:55:55 UTC	jeff10, macanek, sephiroth, VerySloppyTwo	8	6	30
+381767	6	19	White (4 Suits)	2020-12-25 — 14:29:12 UTC	indego, Lanvin, macanek, sean1815, sephiroth, VerySloppyTwo	1	4	20
+381758	4	25	Rainbow (5 Suits)	2020-12-25 — 14:01:47 UTC	indego, sean1815, Sucubis, VerySloppyTwo	92	5	25
+381118	3	24	Cocoa Rainbow (5 Suits)	2020-12-24 — 21:47:25 UTC	jack67889, sephiroth, VerySloppyTwo	14	5	25
+381108	3	0	Cocoa Rainbow (5 Suits)	2020-12-24 — 21:31:48 UTC	jack67889, sephiroth, VerySloppyTwo	21	5	25
+381085	3	29	Dark Prism (6 Suits)	2020-12-24 — 21:00:49 UTC	hanabornoob, sephiroth, VerySloppyTwo	25	6	30
+380857	3	0	Dark Prism Reversed (5 Suits)	2020-12-24 — 13:23:47 UTC	jack67889, Pablo-, VerySloppyTwo	2	5	25
+380852	4	26	Cocoa Rainbow & Gray Pink (6 Suits)	2020-12-24 — 13:10:58 UTC	jack67889, Pablo-, sin_faith, VerySloppyTwo	2	6	30
+380846	3	0	Cocoa Rainbow & Gray Pink (6 Suits)	2020-12-24 — 12:56:32 UTC	Pablo-, sin_faith, VerySloppyTwo	2	6	30
+380844	3	0	Cocoa Rainbow & Gray Pink (6 Suits)	2020-12-24 — 12:52:35 UTC	Pablo-, sin_faith, VerySloppyTwo	5	6	30
+380085	5	21	Throw It in a Hole (5 Suits)	2020-12-23 — 20:26:15 UTC	doctorabi, Kyle, Pablo-, timotree, VerySloppyTwo	9	5	25
+380060	5	0	Throw It in a Hole (5 Suits)	2020-12-23 — 19:55:17 UTC	doctorabi, Kyle, Pablo-, timotree, VerySloppyTwo	15	5	25
+380035	4	0	Throw It in a Hole & White (5 Suits)	2020-12-23 — 19:36:23 UTC	Kyle, Pablo-, timotree, VerySloppyTwo	1	5	25
+380001	5	27	Black (6 Suits)	2020-12-23 — 18:57:48 UTC	colton, Lanvin, Onen, Plum, VerySloppyTwo	36	6	30
+379989	3	0	Prism (5 Suits)	2020-12-23 — 18:39:42 UTC	Lanvin, Onen, VerySloppyTwo	45	5	25
+379984	3	0	Prism (5 Suits)	2020-12-23 — 18:32:17 UTC	Lanvin, Onen, VerySloppyTwo	80	5	25
+378031	5	27	Black & Pink (6 Suits)	2020-12-21 — 21:02:02 UTC	hakha3, Pablo-, sephiroth, TimeHoodie, VerySloppyTwo	5	6	30
+377891	2	28	Dark Rainbow (6 Suits)	2020-12-21 — 18:13:44 UTC	sephiroth, VerySloppyTwo	75	6	30
+377815	4	0	Rainbow & Pink (6 Suits)	2020-12-21 — 15:45:29 UTC	hakha3, Pablo-, PMP, VerySloppyTwo	6	6	30
+377805	4	0	Rainbow & Pink (6 Suits)	2020-12-21 — 15:22:14 UTC	hakha3, Pablo-, PMP, VerySloppyTwo	6	6	30
+377799	3	0	Dark Rainbow (5 Suits)	2020-12-21 — 15:02:37 UTC	PMP, sephiroth, VerySloppyTwo	31	5	25
+375749	5	20	Rainbow-Fives (4 Suits)	2020-12-19 — 13:47:37 UTC	jack67889, Nitrate2, Pablo-, sephiroth, VerySloppyTwo	1	4	20
+374015	6	29	Brown (6 Suits)	2020-12-17 — 21:56:21 UTC	ChristopheAF, doctorabi, Floriman, HelanaAshryvr, sephiroth, VerySloppyTwo	5	6	30
+371777	3	25	Rainbow-Fives (5 Suits)	2020-12-15 — 13:02:19 UTC	Nitrate2, Pablo-, VerySloppyTwo	1	5	25
+371759	3	24	Rainbow-Fives (5 Suits)	2020-12-15 — 12:43:58 UTC	Nitrate2, Pablo-, VerySloppyTwo	1	5	25
+371758	3	0	Rainbow-Fives (5 Suits)	2020-12-15 — 12:26:44 UTC	Nitrate2, Pablo-, VerySloppyTwo	4	5	25
+371753	4	0	Rainbow-Fives (5 Suits)	2020-12-15 — 12:16:55 UTC	nitawa, Nitrate2, Pablo-, VerySloppyTwo	11	5	25
+370030	4	23	Dark Brown (5 Suits)	2020-12-13 — 17:32:16 UTC	Carunty, jeff10, sephiroth, VerySloppyTwo	3	5	25
+369318	4	30	Dark Rainbow (6 Suits)	2020-12-12 — 23:47:59 UTC	jack67889, Pablo-, sephiroth, VerySloppyTwo	17	6	30
+369292	4	0	Dark Rainbow (6 Suits)	2020-12-12 — 23:19:57 UTC	jack67889, Pablo-, sephiroth, VerySloppyTwo	16	6	30
+369281	3	0	Dark Pink (5 Suits)	2020-12-12 — 23:07:19 UTC	Pablo-, sephiroth, VerySloppyTwo	11	5	25
+369276	3	0	Dark Pink (5 Suits)	2020-12-12 — 23:02:46 UTC	Pablo-, sephiroth, VerySloppyTwo	12	5	25
+369266	3	0	Dark Pink (5 Suits)	2020-12-12 — 22:57:34 UTC	Pablo-, sephiroth, VerySloppyTwo	16	5	25
+369255	3	24	Dark Pink (5 Suits)	2020-12-12 — 22:44:26 UTC	Pablo-, sephiroth, VerySloppyTwo	19	5	25
+369245	3	0	Dark Pink (5 Suits)	2020-12-12 — 22:27:38 UTC	Pablo-, sephiroth, VerySloppyTwo	22	5	25
+369229	3	21	Cocoa Rainbow (5 Suits)	2020-12-12 — 22:04:09 UTC	Pablo-, VerySloppyTwo, XMIL	23	5	25
+369208	4	0	Cocoa Rainbow (5 Suits)	2020-12-12 — 21:29:42 UTC	nitawa, Pablo-, VerySloppyTwo, XMIL	15	5	25
+369055	4	20	Brown-Ones & Prism (4 Suits)	2020-12-12 — 19:27:22 UTC	Lanvin, ricardodd, sephiroth, VerySloppyTwo	2	4	20
+368949	5	23	Dark Rainbow (5 Suits)	2020-12-12 — 16:57:12 UTC	Doge, frosty104, jack67889, sephiroth, VerySloppyTwo	7	5	25
+368931	4	25	Dark Rainbow (6 Suits)	2020-12-12 — 15:50:33 UTC	frosty104, jack67889, sephiroth, VerySloppyTwo	18	6	30
+368926	2	0	Dark Rainbow (6 Suits)	2020-12-12 — 15:29:31 UTC	sephiroth, VerySloppyTwo	88	6	30
+368924	2	0	Dark Rainbow (6 Suits)	2020-12-12 — 15:24:10 UTC	sephiroth, VerySloppyTwo	91	6	30
+367809	4	0	Dark Rainbow (6 Suits)	2020-12-11 — 14:51:05 UTC	Lanvin, sephiroth, swineherd, VerySloppyTwo	18	6	30
+367800	4	0	Dark Rainbow (6 Suits)	2020-12-11 — 14:10:18 UTC	Lanvin, sephiroth, swineherd, VerySloppyTwo	19	6	30
+366793	3	28	Dark Rainbow (6 Suits)	2020-12-10 — 14:33:46 UTC	Nitrate2, sephiroth, VerySloppyTwo	29	6	30
+366789	5	0	Black (5 Suits)	2020-12-10 — 14:06:50 UTC	Carunty, Nitrate2, sephiroth, VerySloppyTwo, zeinab001	13	5	25
+365575	3	30	Dark Brown (6 Suits)	2020-12-09 — 09:24:58 UTC	Nitrate2, sephiroth, VerySloppyTwo	18	6	30
+362767	4	0	Dark Brown (6 Suits)	2020-12-06 — 21:39:27 UTC	frosty104, Lanvin, sephiroth, VerySloppyTwo	15	6	30
+360764	4	0	Black & Dark Pink (6 Suits)	2020-12-04 — 21:08:01 UTC	doctorabi, Pablo-, sephiroth, VerySloppyTwo	9	6	30
+358993	4	23	Duck (5 Suits)	2020-12-02 — 16:47:43 UTC	Animex52, nitawa, Nitrate2, VerySloppyTwo	5	5	25
+358964	4	0	Duck (5 Suits)	2020-12-02 — 15:35:19 UTC	Animex52, nitawa, penisman, VerySloppyTwo	6	5	25
+358920	3	0	Duck (5 Suits)	2020-12-02 — 13:06:48 UTC	nitawa, Sucubis, VerySloppyTwo	52	5	25
+358535	3	20	Dark Omni (5 Suits)	2020-12-01 — 21:41:45 UTC	sephiroth, Sucubis, VerySloppyTwo	16	5	25
+358528	3	0	Dark Omni (5 Suits)	2020-12-01 — 21:26:03 UTC	sephiroth, Sucubis, VerySloppyTwo	22	5	25
+358387	2	0	Dark Brown (6 Suits)	2020-12-01 — 18:34:31 UTC	sephiroth, VerySloppyTwo	46	6	30
+358203	4	0	Dark Prism (6 Suits)	2020-12-01 — 11:53:55 UTC	Animex52, catula, sephiroth, VerySloppyTwo	20	6	30
+358198	4	0	Dark Prism (6 Suits)	2020-12-01 — 11:37:13 UTC	Animex52, catula, sephiroth, VerySloppyTwo	23	6	30
+358174	4	30	Dark Omni (6 Suits)	2020-12-01 — 09:27:51 UTC	melwen, Pablo-, sephiroth, VerySloppyTwo	7	6	30
+357838	4	0	Clue Starved (5 Suits)	2020-11-30 — 22:44:56 UTC	nitawa, sephiroth, Sucubis, VerySloppyTwo	6	5	25
+357832	4	0	Clue Starved (5 Suits)	2020-11-30 — 22:26:09 UTC	nitawa, sephiroth, Sucubis, VerySloppyTwo	9	5	25
+357820	4	0	Clue Starved (5 Suits)	2020-11-30 — 22:04:58 UTC	nitawa, sephiroth, Sucubis, VerySloppyTwo	11	5	25
+357612	4	25	White-Ones & Brown (5 Suits)	2020-11-30 — 16:44:03 UTC	nitawa, sephiroth, VerySloppyTwo, XMIL	1	5	25
+357498	4	25	No Variant	2020-11-30 — 12:00:49 UTC	Animex52, methmatics, sephiroth, VerySloppyTwo	27	5	25
+357497	4	0	No Variant	2020-11-30 — 11:50:47 UTC	Animex52, methmatics, sephiroth, VerySloppyTwo	47	5	25
+357473	5	0	No Variant	2020-11-30 — 10:18:18 UTC	Animex52, catula, sephiroth, Sucubis, VerySloppyTwo	21	5	25
+357469	5	0	No Variant	2020-11-30 — 10:05:24 UTC	Animex52, catula, sephiroth, Sucubis, VerySloppyTwo	23	5	25
+356997	5	0	Dark Rainbow (6 Suits)	2020-11-29 — 23:14:28 UTC	nitawa, penisman, sephiroth, Sucubis, VerySloppyTwo	7	6	30
+356978	5	0	Dark Rainbow (6 Suits)	2020-11-29 — 22:57:53 UTC	nitawa, penisman, sephiroth, Sucubis, VerySloppyTwo	8	6	30
+356960	5	0	Dark Rainbow (6 Suits)	2020-11-29 — 22:40:34 UTC	nitawa, penisman, sephiroth, Sucubis, VerySloppyTwo	9	6	30
+356955	5	0	Dark Rainbow (6 Suits)	2020-11-29 — 22:32:32 UTC	nitawa, penisman, sephiroth, Sucubis, VerySloppyTwo	11	6	30
+356935	4	0	Brown (6 Suits)	2020-11-29 — 22:13:32 UTC	penisman, sephiroth, TimeHoodie, VerySloppyTwo	12	6	30
+356677	4	25	Gray Pink (5 Suits)	2020-11-29 — 14:05:29 UTC	nitawa, sephiroth, Sucubis, VerySloppyTwo	6	5	25
+356674	4	24	Gray Pink (5 Suits)	2020-11-29 — 13:38:46 UTC	nitawa, sephiroth, Sucubis, VerySloppyTwo	7	5	25
+356668	4	22	Gray Pink (5 Suits)	2020-11-29 — 13:08:58 UTC	nitawa, sephiroth, Sucubis, VerySloppyTwo	12	5	25
+356653	2	0	Dark Rainbow (6 Suits)	2020-11-29 — 10:47:12 UTC	sephiroth, VerySloppyTwo	95	6	30
+356652	2	0	Dark Rainbow (6 Suits)	2020-11-29 — 10:42:06 UTC	sephiroth, VerySloppyTwo	102	6	30
+356250	3	29	Dark Rainbow (6 Suits)	2020-11-28 — 23:11:39 UTC	Nitrate2, sephiroth, VerySloppyTwo	31	6	30
+356225	3	0	Dark Rainbow (6 Suits)	2020-11-28 — 22:21:50 UTC	Nitrate2, sephiroth, VerySloppyTwo	34	6	30
+356212	3	0	Dark Rainbow (6 Suits)	2020-11-28 — 22:05:33 UTC	Nitrate2, sephiroth, VerySloppyTwo	37	6	30
+356196	3	0	Dark Rainbow (6 Suits)	2020-11-28 — 21:47:53 UTC	Nitrate2, sephiroth, VerySloppyTwo	41	6	30
+356179	3	28	Dark Rainbow (6 Suits)	2020-11-28 — 21:18:34 UTC	Nitrate2, sephiroth, VerySloppyTwo	62	6	30
+356153	3	27	Dark Rainbow (6 Suits)	2020-11-28 — 20:45:39 UTC	Nitrate2, sephiroth, VerySloppyTwo	77	6	30
+354367	2	23	Gray (5 Suits)	2020-11-26 — 15:08:58 UTC	sephiroth, VerySloppyTwo	58	5	25
+354363	2	0	Gray (5 Suits)	2020-11-26 — 14:52:01 UTC	sephiroth, VerySloppyTwo	66	5	25
+354302	5	0	White-Ones (6 Suits)	2020-11-26 — 09:28:24 UTC	derekcheah, doctorabi, methmatics, Pablo-, VerySloppyTwo	8	6	30
+354299	4	0	White-Ones & Black (5 Suits)	2020-11-26 — 08:57:28 UTC	derekcheah, methmatics, Pablo-, VerySloppyTwo	4	5	25
+353474	2	0	Black (6 Suits)	2020-11-25 — 13:22:42 UTC	sephiroth, VerySloppyTwo	275	6	30
+353469	2	0	Black (6 Suits)	2020-11-25 — 13:11:09 UTC	sephiroth, VerySloppyTwo	294	6	30
+353417	4	20	Gray Pink (5 Suits)	2020-11-25 — 09:13:08 UTC	Lel0uch, melwen, sephiroth, VerySloppyTwo	4	5	25
+353414	3	21	Gray Pink (5 Suits)	2020-11-25 — 08:45:54 UTC	melwen, sephiroth, VerySloppyTwo	13	5	25
+352479	3	20	Omni (4 Suits)	2020-11-24 — 14:37:55 UTC	Nitrate2, sephiroth, VerySloppyTwo	21	4	20
+352469	3	0	Omni (4 Suits)	2020-11-24 — 14:15:01 UTC	Nitrate2, sephiroth, VerySloppyTwo	29	4	20
+352413	4	0	Brown (5 Suits)	2020-11-24 — 10:25:48 UTC	Animex52, catula, sephiroth, VerySloppyTwo	27	5	25
+352409	4	0	Dark Omni (5 Suits)	2020-11-24 — 09:59:37 UTC	Carunty, catula, StKildaFan, VerySloppyTwo	15	5	25
+352406	3	0	Rainbow (6 Suits)	2020-11-24 — 09:12:12 UTC	Carunty, sephiroth, VerySloppyTwo	237	6	30
+351992	4	25	Rainbow & Muddy Rainbow (5 Suits)	2020-11-23 — 22:07:18 UTC	Floriman, sephiroth, VerySloppyTwo, will.i.am	7	5	25
+351980	3	0	Omni (6 Suits)	2020-11-23 — 21:48:19 UTC	sephiroth, VerySloppyTwo, will.i.am	70	6	30
+351692	3	0	Dark Omni (5 Suits)	2020-11-23 — 15:17:39 UTC	Pablo-, sephiroth, VerySloppyTwo	12	5	25
+351681	2	0	Black (5 Suits)	2020-11-23 — 14:50:49 UTC	sephiroth, VerySloppyTwo	85	5	25
+351658	5	0	Dark Omni (5 Suits)	2020-11-23 — 13:02:55 UTC	Lel0uch, sephiroth, sin_faith, TimeHoodie, VerySloppyTwo	3	5	25
+351655	5	0	Dark Omni (5 Suits)	2020-11-23 — 12:49:33 UTC	Lel0uch, sephiroth, sin_faith, TimeHoodie, VerySloppyTwo	3	5	25
+351652	4	0	Dark Omni (5 Suits)	2020-11-23 — 12:41:52 UTC	Lel0uch, sephiroth, sin_faith, VerySloppyTwo	6	5	25
+351649	4	0	Dark Omni (5 Suits)	2020-11-23 — 12:32:57 UTC	Lel0uch, sephiroth, sin_faith, VerySloppyTwo	9	5	25
+351648	5	0	Dark Omni (6 Suits)	2020-11-23 — 12:19:09 UTC	catula, Lel0uch, Nitrate2, Sucubis, VerySloppyTwo	5	6	30
+351646	5	0	Dark Omni (6 Suits)	2020-11-23 — 12:00:31 UTC	catula, Lel0uch, Nitrate2, Sucubis, VerySloppyTwo	5	6	30
+351644	5	0	Special Mix (5 Suits)	2020-11-23 — 11:42:10 UTC	catula, Nitrate2, sephiroth, Sucubis, VerySloppyTwo	6	5	25
+351086	5	0	Pink (6 Suits)	2020-11-22 — 22:08:16 UTC	avanderwalde, jeff10, MarkusKahlsen, sephiroth, VerySloppyTwo	18	6	30
+350907	4	22	Up or Down (5 Suits)	2020-11-22 — 19:06:09 UTC	nitawa, Stinkydude63, VerySloppyTwo, XMIL	75	5	25
+350134	4	24	Deceptive-Ones (5 Suits)	2020-11-22 — 00:10:09 UTC	Nitrate2, Pablo-, sephiroth, VerySloppyTwo	7	5	25
+350016	4	0	Deceptive-Ones (5 Suits)	2020-11-21 — 22:20:54 UTC	bob65536, doctorabi, sephiroth, VerySloppyTwo	16	5	25
+349954	3	20	Brown (4 Suits)	2020-11-21 — 21:54:14 UTC	doctorabi, sephiroth, VerySloppyTwo	19	4	20
+349922	5	25	Brown (5 Suits)	2020-11-21 — 21:20:14 UTC	antitelharsic, catula, cockdestroyer, sephiroth, VerySloppyTwo	5	5	25
+348759	4	24	Brown (5 Suits)	2020-11-20 — 18:56:04 UTC	methmatics, sephiroth, Stinkydude63, VerySloppyTwo	36	5	25
+348743	3	0	Special Mix (5 Suits)	2020-11-20 — 18:34:56 UTC	methmatics, sephiroth, VerySloppyTwo	7	5	25
+348182	4	0	Special Mix (5 Suits)	2020-11-19 — 22:51:12 UTC	cockdestroyer, sephiroth, Sucubis, VerySloppyTwo	4	5	25
+348169	4	0	Special Mix (5 Suits)	2020-11-19 — 22:28:37 UTC	cockdestroyer, sephiroth, Sucubis, VerySloppyTwo	4	5	25
+348153	2	23	Dark Rainbow (5 Suits)	2020-11-19 — 22:12:57 UTC	sephiroth, VerySloppyTwo	71	5	25
+348141	2	0	Dark Rainbow (5 Suits)	2020-11-19 — 22:04:25 UTC	sephiroth, VerySloppyTwo	79	5	25
+347931	3	18	Black (5 Suits)	2020-11-19 — 19:39:26 UTC	penisman, sephiroth, VerySloppyTwo	101	5	25
+347910	3	0	Black (5 Suits)	2020-11-19 — 19:05:49 UTC	penisman, sephiroth, VerySloppyTwo	119	5	25
+347766	4	0	Pink & Brown (5 Suits)	2020-11-19 — 13:25:34 UTC	jack67889, Pablo-, sephiroth, VerySloppyTwo	15	5	25
+347762	3	0	Special Mix (6 Suits)	2020-11-19 — 13:11:24 UTC	Pablo-, sephiroth, VerySloppyTwo	23	6	30
+347721	4	0	Pink (5 Suits)	2020-11-19 — 09:32:37 UTC	catula, sephiroth, Sucubis, VerySloppyTwo	11	5	25
+347719	4	0	Pink (5 Suits)	2020-11-19 — 09:07:09 UTC	Animex52, catula, sephiroth, VerySloppyTwo	26	5	25
+347292	4	25	Null-Ones & White (5 Suits)	2020-11-18 — 21:47:05 UTC	nitawa, Pablo-, sephiroth, VerySloppyTwo	2	5	25
+347275	5	0	Rainbow & Brown (5 Suits)	2020-11-18 — 21:08:29 UTC	doctorabi, nitawa, Pablo-, sephiroth, VerySloppyTwo	6	5	25
+345282	4	24	Null-Ones (5 Suits)	2020-11-16 — 19:36:58 UTC	Carunty, nitawa, sephiroth, VerySloppyTwo	7	5	25
+344923	4	30	Black (6 Suits)	2020-11-16 — 13:40:13 UTC	cockdestroyer, Pablo-, sephiroth, VerySloppyTwo	14	6	30
+344919	4	0	Black (6 Suits)	2020-11-16 — 13:24:33 UTC	cockdestroyer, Pablo-, sephiroth, VerySloppyTwo	17	6	30
+344910	5	29	Black (6 Suits)	2020-11-16 — 13:02:10 UTC	catula, cockdestroyer, Nitrate2, sephiroth, VerySloppyTwo	23	6	30
+344886	4	24	Dual-Color (5 Suits)	2020-11-16 — 10:31:46 UTC	catula, Lel0uch, sephiroth, VerySloppyTwo	31	5	25
+344884	5	0	No Variant	2020-11-16 — 09:59:13 UTC	Animex52, catula, sephiroth, VerySloppyTwo, wina	21	5	25
+344448	3	24	White & Dark Prism (5 Suits)	2020-11-15 — 23:13:18 UTC	Pablo-, sephiroth, VerySloppyTwo	3	5	25
+344430	3	0	White & Dark Prism (5 Suits)	2020-11-15 — 22:52:01 UTC	Pablo-, sephiroth, VerySloppyTwo	3	5	25
+344402	2	25	Pink (5 Suits)	2020-11-15 — 22:29:50 UTC	sephiroth, VerySloppyTwo	77	5	25
+344391	2	0	Pink (5 Suits)	2020-11-15 — 22:21:29 UTC	sephiroth, VerySloppyTwo	88	5	25
+344386	2	0	Pink (5 Suits)	2020-11-15 — 22:18:24 UTC	sephiroth, VerySloppyTwo	95	5	25
+344382	2	0	Pink (5 Suits)	2020-11-15 — 22:16:21 UTC	sephiroth, VerySloppyTwo	200	5	25
+344375	2	25	Black (5 Suits)	2020-11-15 — 22:02:00 UTC	sephiroth, VerySloppyTwo	97	5	25
+344368	2	0	Black (5 Suits)	2020-11-15 — 21:51:18 UTC	sephiroth, VerySloppyTwo	108	5	25
+344345	3	0	Prism (5 Suits)	2020-11-15 — 21:20:17 UTC	Carunty, ksfortson, VerySloppyTwo	24	5	25
+344331	3	0	Prism (5 Suits)	2020-11-15 — 20:56:15 UTC	Carunty, ksfortson, VerySloppyTwo	38	5	25
+344309	3	26	Black (6 Suits)	2020-11-15 — 20:28:55 UTC	Carunty, robense, VerySloppyTwo	71	6	30
+344293	3	26	Black (6 Suits)	2020-11-15 — 20:05:10 UTC	Carunty, robense, VerySloppyTwo	74	6	30
+344277	3	0	Black (6 Suits)	2020-11-15 — 19:43:22 UTC	Carunty, robense, VerySloppyTwo	83	6	30
+344249	5	0	No Variant	2020-11-15 — 19:11:48 UTC	HelanaAshryvr, Lel0uch, sephiroth, sin_faith, VerySloppyTwo	11	5	25
+343638	2	19	4 Suits	2020-11-14 — 22:00:05 UTC	newduke, VerySloppyTwo	244	4	20
+343615	2	0	6 Suits	2020-11-14 — 21:39:29 UTC	newduke, VerySloppyTwo	851	6	30
+343583	4	15	Null-Ones (3 Suits)	2020-11-14 — 21:12:25 UTC	nitawa, sephiroth, Sucubis, VerySloppyTwo	1	3	15
+343566	4	0	Null-Ones (3 Suits)	2020-11-14 — 21:03:34 UTC	nitawa, sephiroth, Sucubis, VerySloppyTwo	1	3	15
+343563	4	0	Null-Ones (3 Suits)	2020-11-14 — 21:01:42 UTC	nitawa, sephiroth, Sucubis, VerySloppyTwo	1	3	15
+343553	4	0	Null-Ones (3 Suits)	2020-11-14 — 20:54:04 UTC	nitawa, sephiroth, Sucubis, VerySloppyTwo	1	3	15
+343548	4	0	Null-Ones (3 Suits)	2020-11-14 — 20:52:48 UTC	nitawa, sephiroth, Sucubis, VerySloppyTwo	1	3	15
+342434	3	24	White (5 Suits)	2020-11-13 — 19:02:48 UTC	Sucubis, TimeHoodie, VerySloppyTwo	11	5	25
+342419	3	0	White (5 Suits)	2020-11-13 — 18:43:11 UTC	Sucubis, TimeHoodie, VerySloppyTwo	23	5	25
+342410	3	24	White (5 Suits)	2020-11-13 — 18:31:35 UTC	Sucubis, TimeHoodie, VerySloppyTwo	29	5	25
+342250	5	28	Rainbow (6 Suits)	2020-11-13 — 10:44:59 UTC	hughjanus, Pablo-, VerySloppyTwo, whalesgomoo, Wittvector	101	6	30
+340725	3	25	No Variant	2020-11-11 — 10:53:48 UTC	catula, sephiroth, VerySloppyTwo	250	5	25
+338507	3	29	Black (6 Suits)	2020-11-08 — 19:08:32 UTC	Pepepe, rachyrules, VerySloppyTwo	325	6	30
+336805	2	15	3 Suits	2020-11-06 — 12:04:27 UTC	ihavenoidea, VerySloppyTwo	193	3	15
+336804	2	0	6 Suits	2020-11-06 — 12:01:13 UTC	ihavenoidea, VerySloppyTwo	666	6	30
+336327	4	29	Prism (6 Suits)	2020-11-05 — 22:03:49 UTC	Bonja97, newduke, StKildaFan, VerySloppyTwo	14	6	30
+336301	4	0	Prism (6 Suits)	2020-11-05 — 21:17:44 UTC	Bonja97, newduke, StKildaFan, VerySloppyTwo	15	6	30
+335193	4	0	Black (6 Suits)	2020-11-04 — 09:44:47 UTC	cockdestroyer, robense, Sucubis, VerySloppyTwo	32	6	30
+335192	4	0	Black (6 Suits)	2020-11-04 — 09:41:23 UTC	cockdestroyer, robense, Sucubis, VerySloppyTwo	31	6	30
+335189	4	28	Black (6 Suits)	2020-11-04 — 09:22:29 UTC	cockdestroyer, robense, Sucubis, VerySloppyTwo	33	6	30
+334456	2	0	White-Ones & Muddy Rainbow (5 Suits)	2020-11-03 — 16:48:13 UTC	Pablo-, VerySloppyTwo	3	5	25
+333033	5	30	6 Suits	2020-11-01 — 21:38:08 UTC	avanderwalde, ebin_noob, kimbifille, TimeHoodie, VerySloppyTwo	54	6	30
+333016	5	0	6 Suits	2020-11-01 — 21:14:14 UTC	avanderwalde, ebin_noob, kimbifille, TimeHoodie, VerySloppyTwo	96	6	30
+333009	5	0	6 Suits	2020-11-01 — 21:06:38 UTC	avanderwalde, ebin_noob, kimbifille, TimeHoodie, VerySloppyTwo	132	6	30
+332998	3	0	Brown (5 Suits)	2020-11-01 — 20:59:57 UTC	ebin_noob, TimeHoodie, VerySloppyTwo	20	5	25
+332989	3	23	Brown (5 Suits)	2020-11-01 — 20:52:31 UTC	ebin_noob, TimeHoodie, VerySloppyTwo	23	5	25
+332896	4	0	Prism (6 Suits)	2020-11-01 — 18:45:07 UTC	Bonja97, ebin_noob, rachyrules, VerySloppyTwo	26	6	30
+332694	4	25	No Variant	2020-11-01 — 10:08:59 UTC	catula, sephiroth, sin_faith, VerySloppyTwo	23	5	25
+332691	4	0	No Variant	2020-11-01 — 10:02:42 UTC	catula, sephiroth, sin_faith, VerySloppyTwo	23	5	25
+332689	4	25	No Variant	2020-11-01 — 09:54:54 UTC	catula, sephiroth, sin_faith, VerySloppyTwo	25	5	25
+332686	3	0	No Variant	2020-11-01 — 09:43:23 UTC	sephiroth, sin_faith, VerySloppyTwo	49	5	25
+332685	3	0	No Variant	2020-11-01 — 09:37:25 UTC	sephiroth, sin_faith, VerySloppyTwo	48	5	25
+332683	3	0	No Variant	2020-11-01 — 09:34:53 UTC	sephiroth, sin_faith, VerySloppyTwo	50	5	25
+332358	4	0	Black (6 Suits)	2020-10-31 — 23:06:43 UTC	ejwu, MarkusKahlsen, Pablo-, VerySloppyTwo	57	6	30
+332350	4	0	Black (6 Suits)	2020-10-31 — 22:55:23 UTC	ejwu, MarkusKahlsen, Pablo-, VerySloppyTwo	62	6	30
+332337	4	0	Black (6 Suits)	2020-10-31 — 22:40:41 UTC	ejwu, MarkusKahlsen, Pablo-, VerySloppyTwo	67	6	30
+332250	4	25	No Variant	2020-10-31 — 20:55:36 UTC	harrisonk, Pablo-, rachyrules, VerySloppyTwo	373	5	25
+332222	2	0	Black (6 Suits)	2020-10-31 — 19:57:47 UTC	ihavenoidea, VerySloppyTwo	59	6	30
+332215	2	0	Black (6 Suits)	2020-10-31 — 19:52:48 UTC	ihavenoidea, VerySloppyTwo	59	6	30
+332210	2	0	Black (6 Suits)	2020-10-31 — 19:47:14 UTC	ihavenoidea, VerySloppyTwo	58	6	30
+332200	2	0	Black (6 Suits)	2020-10-31 — 19:38:59 UTC	ihavenoidea, VerySloppyTwo	60	6	30
+332196	2	0	Black (6 Suits)	2020-10-31 — 19:35:06 UTC	ihavenoidea, VerySloppyTwo	60	6	30
+331415	2	25	No Variant	2020-10-30 — 21:09:02 UTC	ihavenoidea, VerySloppyTwo	75	5	25
+331412	2	25	No Variant	2020-10-30 — 21:04:52 UTC	ihavenoidea, VerySloppyTwo	77	5	25
+331399	2	25	No Variant	2020-10-30 — 20:57:30 UTC	ihavenoidea, VerySloppyTwo	78	5	25
+331394	2	0	No Variant	2020-10-30 — 20:50:36 UTC	ihavenoidea, VerySloppyTwo	78	5	25
+331133	4	27	Gray (6 Suits)	2020-10-30 — 14:07:58 UTC	MarkusKahlsen, Pablo-, Pepepe, VerySloppyTwo	10	6	30
+330645	5	27	Black (6 Suits)	2020-10-29 — 21:31:51 UTC	anser, Carunty, MarkusKahlsen, rachyrules, VerySloppyTwo	14	6	30
+330615	2	0	Black (6 Suits)	2020-10-29 — 20:47:25 UTC	ihavenoidea, VerySloppyTwo	62	6	30
+330611	2	24	Black (6 Suits)	2020-10-29 — 20:41:33 UTC	ihavenoidea, VerySloppyTwo	62	6	30
+330604	2	0	Black (6 Suits)	2020-10-29 — 20:31:51 UTC	ihavenoidea, VerySloppyTwo	62	6	30
+330568	2	0	Black (6 Suits)	2020-10-29 — 19:29:18 UTC	ihavenoidea, VerySloppyTwo	62	6	30
+330565	2	0	Black (6 Suits)	2020-10-29 — 19:24:52 UTC	ihavenoidea, VerySloppyTwo	68	6	30
+330561	2	0	Black (6 Suits)	2020-10-29 — 19:22:10 UTC	ihavenoidea, VerySloppyTwo	70	6	30
+329956	5	24	No Variant	2020-10-28 — 19:10:41 UTC	amyy, Kyle, sephiroth, VerySloppyTwo, XMIL	24	5	25
+329938	4	0	Brown (5 Suits)	2020-10-28 — 18:47:47 UTC	amyy, sephiroth, VerySloppyTwo, XMIL	8	5	25
+329935	4	0	Brown (5 Suits)	2020-10-28 — 18:46:39 UTC	amyy, sephiroth, VerySloppyTwo, XMIL	11	5	25
+329778	3	25	No Variant	2020-10-28 — 08:31:44 UTC	Carunty, catula, VerySloppyTwo	459	5	25
+329252	2	15	White (3 Suits)	2020-10-27 — 15:19:14 UTC	Pablo-, VerySloppyTwo	71	3	15
+329248	2	0	White (3 Suits)	2020-10-27 — 15:12:41 UTC	Pablo-, VerySloppyTwo	95	3	15
+329246	2	15	Rainbow (3 Suits)	2020-10-27 — 15:07:52 UTC	Pablo-, VerySloppyTwo	49	3	15
+329240	2	0	Rainbow (3 Suits)	2020-10-27 — 15:03:21 UTC	Pablo-, VerySloppyTwo	76	3	15
+329234	2	14	Rainbow (3 Suits)	2020-10-27 — 14:57:45 UTC	Pablo-, VerySloppyTwo	127	3	15
+329165	2	0	Black (6 Suits)	2020-10-27 — 11:55:59 UTC	ihavenoidea, VerySloppyTwo	72	6	30
+329162	2	0	Black (6 Suits)	2020-10-27 — 11:50:39 UTC	ihavenoidea, VerySloppyTwo	75	6	30
+329160	2	0	Black (6 Suits)	2020-10-27 — 11:47:54 UTC	ihavenoidea, VerySloppyTwo	76	6	30
+329159	2	0	Black (6 Suits)	2020-10-27 — 11:45:09 UTC	ihavenoidea, VerySloppyTwo	77	6	30
+329157	2	0	Black (6 Suits)	2020-10-27 — 11:40:27 UTC	ihavenoidea, VerySloppyTwo	79	6	30
+329142	5	25	No Variant	2020-10-27 — 09:50:47 UTC	catula, jack67889, Pablo-, sephiroth, VerySloppyTwo	26	5	25
+329140	4	0	No Variant	2020-10-27 — 09:20:03 UTC	catula, jack67889, Pablo-, VerySloppyTwo	233	5	25
+329139	4	0	White & Prism (5 Suits)	2020-10-27 — 09:11:04 UTC	catula, jack67889, Pablo-, VerySloppyTwo	5	5	25
+329138	4	0	White & Prism (5 Suits)	2020-10-27 — 09:04:29 UTC	catula, jack67889, Pablo-, VerySloppyTwo	11	5	25
+328763	2	0	Black (6 Suits)	2020-10-26 — 20:02:37 UTC	ihavenoidea, VerySloppyTwo	82	6	30
+328761	2	0	Black (6 Suits)	2020-10-26 — 20:00:18 UTC	ihavenoidea, VerySloppyTwo	82	6	30
+328759	2	0	Black (6 Suits)	2020-10-26 — 19:58:18 UTC	ihavenoidea, VerySloppyTwo	86	6	30
+328756	2	0	Black (6 Suits)	2020-10-26 — 19:54:27 UTC	ihavenoidea, VerySloppyTwo	86	6	30
+328094	2	0	Black (6 Suits)	2020-10-25 — 19:24:59 UTC	ihavenoidea, VerySloppyTwo	87	6	30
+328092	2	0	Black (6 Suits)	2020-10-25 — 19:21:58 UTC	ihavenoidea, VerySloppyTwo	88	6	30
+328087	2	0	Black (6 Suits)	2020-10-25 — 19:17:33 UTC	ihavenoidea, VerySloppyTwo	87	6	30
+328085	2	29	Black (6 Suits)	2020-10-25 — 19:12:37 UTC	ihavenoidea, VerySloppyTwo	89	6	30
+328077	2	0	Black (6 Suits)	2020-10-25 — 19:06:32 UTC	ihavenoidea, VerySloppyTwo	90	6	30
+328075	2	0	Black (6 Suits)	2020-10-25 — 19:02:02 UTC	ihavenoidea, VerySloppyTwo	89	6	30
+326666	2	0	Black (6 Suits)	2020-10-23 — 19:40:56 UTC	ihavenoidea, VerySloppyTwo	91	6	30
+326665	2	0	Black (6 Suits)	2020-10-23 — 19:39:52 UTC	ihavenoidea, VerySloppyTwo	92	6	30
+326663	2	0	Black (6 Suits)	2020-10-23 — 19:33:24 UTC	ihavenoidea, VerySloppyTwo	95	6	30
+326661	2	0	Black (6 Suits)	2020-10-23 — 19:31:27 UTC	ihavenoidea, VerySloppyTwo	95	6	30
+326657	2	0	Black (6 Suits)	2020-10-23 — 19:25:58 UTC	ihavenoidea, VerySloppyTwo	97	6	30
+326656	2	0	Black (6 Suits)	2020-10-23 — 19:22:25 UTC	ihavenoidea, VerySloppyTwo	97	6	30
+326649	2	0	Black (6 Suits)	2020-10-23 — 19:15:06 UTC	ihavenoidea, VerySloppyTwo	99	6	30
+326645	2	0	Black (6 Suits)	2020-10-23 — 19:05:47 UTC	ihavenoidea, VerySloppyTwo	101	6	30
+326644	2	0	Black (6 Suits)	2020-10-23 — 19:03:47 UTC	ihavenoidea, VerySloppyTwo	103	6	30
+326642	2	0	Black (6 Suits)	2020-10-23 — 19:01:17 UTC	ihavenoidea, VerySloppyTwo	102	6	30
+326539	5	22	No Variant	2020-10-23 — 16:04:57 UTC	bracz, Ivan1234567, mmm7, r7ar7a, VerySloppyTwo	383	5	25
+326527	5	20	No Variant	2020-10-23 — 15:31:36 UTC	bracz, Ivan1234567, mmm7, r7ar7a, VerySloppyTwo	457	5	25
+325963	4	0	Prism (5 Suits)	2020-10-22 — 20:04:43 UTC	angel-a, jack67889, VerySloppyTwo, wump	5	5	25
+325953	4	23	Prism (5 Suits)	2020-10-22 — 19:55:24 UTC	angel-a, jack67889, VerySloppyTwo, wump	9	5	25
+325934	4	0	Prism (5 Suits)	2020-10-22 — 19:36:12 UTC	angel-a, jack67889, VerySloppyTwo, wump	10	5	25
+325759	3	0	Black (5 Suits)	2020-10-22 — 14:36:52 UTC	cockdestroyer, Pablo-, VerySloppyTwo	35	5	25
+325755	3	24	Black (5 Suits)	2020-10-22 — 14:13:34 UTC	cockdestroyer, Pablo-, VerySloppyTwo	40	5	25
+325148	2	0	Black (6 Suits)	2020-10-21 — 19:23:05 UTC	ihavenoidea, VerySloppyTwo	105	6	30
+325146	2	28	Black (6 Suits)	2020-10-21 — 19:18:50 UTC	ihavenoidea, VerySloppyTwo	109	6	30
+325138	2	0	Black (6 Suits)	2020-10-21 — 19:10:51 UTC	ihavenoidea, VerySloppyTwo	112	6	30
+325136	2	0	Black (6 Suits)	2020-10-21 — 19:05:19 UTC	ihavenoidea, VerySloppyTwo	115	6	30
+325130	2	0	Black (6 Suits)	2020-10-21 — 19:00:21 UTC	ihavenoidea, VerySloppyTwo	116	6	30
+325125	2	0	Black (6 Suits)	2020-10-21 — 18:57:33 UTC	ihavenoidea, VerySloppyTwo	122	6	30
+325090	5	25	No Variant	2020-10-21 — 18:01:37 UTC	Div, Espen, rz, timotree, VerySloppyTwo	25	5	25
+324994	4	25	Prism (5 Suits)	2020-10-21 — 08:11:46 UTC	Carunty, Jtjg, timotree, VerySloppyTwo	14	5	25
+324991	5	0	Prism (5 Suits)	2020-10-21 — 07:39:03 UTC	Carunty, Jtjg, ksfortson, timotree, VerySloppyTwo	13	5	25
+324609	5	0	Black (6 Suits)	2020-10-20 — 21:07:03 UTC	jack67889, Pablo-, Pepepe, rz, VerySloppyTwo	48	6	30
+324591	5	24	No Variant	2020-10-20 — 20:35:04 UTC	jack67889, ksfortson, Pablo-, pianoblook, VerySloppyTwo	92	5	25
+324578	4	24	No Variant	2020-10-20 — 20:08:54 UTC	jack67889, ksfortson, VerySloppyTwo, Zakisan	156	5	25
+324558	6	0	Brown (6 Suits)	2020-10-20 — 19:43:45 UTC	ebin_noob, honobu, jack67889, sephiroth, VerySloppyTwo, Zakisan	3	6	30
+324539	6	0	Brown (6 Suits)	2020-10-20 — 19:24:19 UTC	ebin_noob, honobu, jack67889, sephiroth, VerySloppyTwo, Zakisan	8	6	30
+324531	2	0	Black (6 Suits)	2020-10-20 — 19:16:48 UTC	ihavenoidea, VerySloppyTwo	123	6	30
+324529	2	30	Black (6 Suits)	2020-10-20 — 19:15:45 UTC	ihavenoidea, VerySloppyTwo	133	6	30
+324520	2	0	Black (6 Suits)	2020-10-20 — 19:07:07 UTC	ihavenoidea, VerySloppyTwo	135	6	30
+324517	2	0	Black (6 Suits)	2020-10-20 — 19:02:08 UTC	ihavenoidea, VerySloppyTwo	136	6	30
+324511	2	0	Black (6 Suits)	2020-10-20 — 18:56:30 UTC	ihavenoidea, VerySloppyTwo	137	6	30
+324509	2	0	Black (6 Suits)	2020-10-20 — 18:55:35 UTC	ihavenoidea, VerySloppyTwo	144	6	30
+324505	2	0	Black (6 Suits)	2020-10-20 — 18:53:00 UTC	ihavenoidea, VerySloppyTwo	152	6	30
+324362	4	29	Black (6 Suits)	2020-10-20 — 11:48:00 UTC	Pablo-, VerySloppyTwo, Wittvector, Zakisan	213	6	30
+323931	5	0	Black (6 Suits)	2020-10-19 — 20:33:12 UTC	Carunty, ebin_noob, Pepepe, rachyrules, VerySloppyTwo	101	6	30
+323200	5	23	Rainbow & Light Pink (5 Suits)	2020-10-18 — 21:54:28 UTC	Kyle, Pablo-, sephiroth, TheDaniMan, VerySloppyTwo	5	5	25
+323161	6	0	Light Pink (6 Suits)	2020-10-18 — 21:29:04 UTC	Kyle, Pablo-, rachyrules, sephiroth, timotree, VerySloppyTwo	1	6	30
+323138	6	0	Light Pink (6 Suits)	2020-10-18 — 21:07:06 UTC	Kyle, Pablo-, rachyrules, sephiroth, timotree, VerySloppyTwo	2	6	30
+322462	3	25	Light Pink (6 Suits)	2020-10-17 — 22:20:14 UTC	sephiroth, TimeHoodie, VerySloppyTwo	38	6	30
+321757	5	0	Black (6 Suits)	2020-10-16 — 21:42:44 UTC	Carunty, Pablo-, rz, sin_faith, VerySloppyTwo	58	6	30
+321673	2	25	No Variant	2020-10-16 — 20:00:12 UTC	rachyrules, VerySloppyTwo	25	5	25
+321661	2	0	Black (6 Suits)	2020-10-16 — 19:47:59 UTC	rachyrules, VerySloppyTwo	300	6	30
+321658	2	0	Black (6 Suits)	2020-10-16 — 19:39:58 UTC	rachyrules, VerySloppyTwo	325	6	30
+321593	3	30	Pink (6 Suits)	2020-10-16 — 18:09:42 UTC	rz, VerySloppyTwo, XMIL	18	6	30
+321576	3	0	Pink (6 Suits)	2020-10-16 — 17:33:25 UTC	rz, VerySloppyTwo, XMIL	24	6	30
+321534	5	25	No Variant	2020-10-16 — 14:19:56 UTC	jack67889, level_0, level_ofConcern, orucsoraihc, VerySloppyTwo	223	5	25
+321092	4	26	6 Suits	2020-10-15 — 20:22:07 UTC	angel-a, Pepepe, sephiroth, VerySloppyTwo	151	6	30
+320945	5	0	6 Suits	2020-10-15 — 17:39:01 UTC	Carunty, ebin_noob, Pepepe, VerySloppyTwo, wump	199	6	30
+320825	3	25	No Variant	2020-10-15 — 11:02:59 UTC	orucsoraihc, swineherd, VerySloppyTwo	750	5	25
+320389	3	25	No Variant	2020-10-14 — 20:05:58 UTC	Carunty, timotree, VerySloppyTwo	102	5	25
+320357	4	0	White (5 Suits)	2020-10-14 — 19:23:09 UTC	angel-a, Carunty, timotree, VerySloppyTwo	79	5	25
+320195	3	25	No Variant	2020-10-14 — 07:51:44 UTC	asaelr, timotree, VerySloppyTwo	11	5	25
+320189	3	0	No Variant	2020-10-14 — 07:34:36 UTC	asaelr, timotree, VerySloppyTwo	10	5	25
+319569	5	0	Gray (6 Suits)	2020-10-13 — 17:26:51 UTC	angel-a, Carunty, DMoney, timotree, VerySloppyTwo	8	6	30
+318955	4	21	Black (5 Suits)	2020-10-12 — 20:05:44 UTC	letical, parrotdoxair, rachyrules, VerySloppyTwo	24	5	25
+318918	4	22	Black (5 Suits)	2020-10-12 — 19:21:14 UTC	letical, parrotdoxair, rachyrules, VerySloppyTwo	32	5	25
+318186	5	0	No Variant	2020-10-11 — 18:44:14 UTC	angel-a, Carunty, orucsoraihc, rachyrules, VerySloppyTwo	1995	5	25
+318133	3	28	6 Suits	2020-10-11 — 15:39:30 UTC	angel-a, Carunty, VerySloppyTwo	503	6	30
+318103	3	24	Black (5 Suits)	2020-10-11 — 13:41:32 UTC	Bonja97, cockdestroyer, VerySloppyTwo	171	5	25
+318096	3	22	Black (5 Suits)	2020-10-11 — 13:14:23 UTC	cockdestroyer, rachyrules, VerySloppyTwo	134	5	25
+317489	4	25	No Variant	2020-10-10 — 20:32:55 UTC	angel-a, Carunty, VerySloppyTwo, wump	793	5	25
+317478	4	0	No Variant	2020-10-10 — 19:59:22 UTC	angel-a, IsabeltheCat, VerySloppyTwo, wump	473	5	25
+317470	4	0	No Variant	2020-10-10 — 19:40:37 UTC	angel-a, IsabeltheCat, VerySloppyTwo, wump	501	5	25
+317451	4	25	No Variant	2020-10-10 — 19:09:20 UTC	angel-a, Fey, VerySloppyTwo, wump	213	5	25
+317432	4	0	No Variant	2020-10-10 — 18:51:33 UTC	angel-a, Fey, VerySloppyTwo, wump	384	5	25
+315815	3	0	Reversed (5 Suits)	2020-10-08 — 15:51:35 UTC	Fey, Pablo-, VerySloppyTwo	2	5	25
+312865	2	0	Black (5 Suits)	2020-10-04 — 19:12:16 UTC	ihavenoidea, VerySloppyTwo	63	5	25
+312860	2	0	Black (5 Suits)	2020-10-04 — 19:07:23 UTC	ihavenoidea, VerySloppyTwo	64	5	25
+312858	2	25	Black (5 Suits)	2020-10-04 — 19:02:43 UTC	ihavenoidea, VerySloppyTwo	69	5	25
+312851	2	0	Black (5 Suits)	2020-10-04 — 18:56:35 UTC	ihavenoidea, VerySloppyTwo	78	5	25
+311248	5	0	Rainbow (6 Suits)	2020-10-02 — 20:56:24 UTC	nitawa, Pablo-, Pepepe, Veexliat, VerySloppyTwo	133	6	30
+309029	2	25	No Variant	2020-09-29 — 11:10:44 UTC	ihavenoidea, VerySloppyTwo	93	5	25
+309028	2	25	No Variant	2020-09-29 — 11:05:41 UTC	ihavenoidea, VerySloppyTwo	92	5	25
+309027	2	0	Black (6 Suits)	2020-09-29 — 11:00:16 UTC	ihavenoidea, VerySloppyTwo	643	6	30
+308448	2	0	Black (5 Suits)	2020-09-28 — 18:45:20 UTC	ihavenoidea, VerySloppyTwo	115	5	25
+308447	2	0	Black (5 Suits)	2020-09-28 — 18:42:50 UTC	ihavenoidea, VerySloppyTwo	124	5	25
+308439	2	0	Black (5 Suits)	2020-09-28 — 18:36:06 UTC	ihavenoidea, VerySloppyTwo	169	5	25
+308435	2	0	Black (5 Suits)	2020-09-28 — 18:31:27 UTC	ihavenoidea, VerySloppyTwo	219	5	25
+308428	2	21	Black (5 Suits)	2020-09-28 — 18:25:31 UTC	ihavenoidea, VerySloppyTwo	244	5	25
+308407	2	25	No Variant	2020-09-28 — 18:09:58 UTC	ihavenoidea, VerySloppyTwo	92	5	25
+308402	2	25	No Variant	2020-09-28 — 18:05:09 UTC	ihavenoidea, VerySloppyTwo	93	5	25
+306239	3	22	No Variant	2020-09-25 — 19:11:58 UTC	nitawa, TheDaniMan, VerySloppyTwo	60	5	25
+305990	2	0	No Variant	2020-09-25 — 11:05:08 UTC	ihavenoidea, VerySloppyTwo	97	5	25
+305987	2	24	No Variant	2020-09-25 — 11:02:13 UTC	ihavenoidea, VerySloppyTwo	97	5	25
+305980	2	0	No Variant	2020-09-25 — 10:55:03 UTC	ihavenoidea, VerySloppyTwo	98	5	25
+305594	3	0	Ambiguous (6 Suits)	2020-09-24 — 21:56:09 UTC	newduke, Pablo-, VerySloppyTwo	13	6	30
+305567	3	0	Ambiguous (6 Suits)	2020-09-24 — 21:34:31 UTC	newduke, Pablo-, VerySloppyTwo	14	6	30
+305546	3	0	Ambiguous (6 Suits)	2020-09-24 — 21:08:04 UTC	newduke, Pablo-, VerySloppyTwo	22	6	30
+305314	2	0	No Variant	2020-09-24 — 11:35:54 UTC	ihavenoidea, VerySloppyTwo	99	5	25
+305311	2	0	No Variant	2020-09-24 — 11:31:57 UTC	ihavenoidea, VerySloppyTwo	100	5	25
+305309	2	25	No Variant	2020-09-24 — 11:26:21 UTC	ihavenoidea, VerySloppyTwo	101	5	25
+305307	2	0	Rainbow (6 Suits)	2020-09-24 — 11:09:02 UTC	ihavenoidea, VerySloppyTwo	31	6	30
+305306	2	30	Rainbow (6 Suits)	2020-09-24 — 11:04:03 UTC	ihavenoidea, VerySloppyTwo	32	6	30
+304819	4	23	No Variant	2020-09-23 — 19:51:06 UTC	pettzar, rachyrules, sephiroth, VerySloppyTwo	190	5	25
+304621	2	30	Rainbow (6 Suits)	2020-09-23 — 11:16:26 UTC	ihavenoidea, VerySloppyTwo	32	6	30
+304619	2	0	Rainbow (6 Suits)	2020-09-23 — 11:09:10 UTC	ihavenoidea, VerySloppyTwo	32	6	30
+304617	2	0	Rainbow (6 Suits)	2020-09-23 — 11:05:18 UTC	ihavenoidea, VerySloppyTwo	32	6	30
+303452	2	25	No Variant	2020-09-21 — 19:15:10 UTC	ihavenoidea, VerySloppyTwo	102	5	25
+303448	2	25	No Variant	2020-09-21 — 19:09:06 UTC	ihavenoidea, VerySloppyTwo	101	5	25
+303446	2	25	No Variant	2020-09-21 — 19:03:21 UTC	ihavenoidea, VerySloppyTwo	101	5	25
+303442	2	0	No Variant	2020-09-21 — 18:57:16 UTC	ihavenoidea, VerySloppyTwo	104	5	25
+303439	2	25	No Variant	2020-09-21 — 18:52:54 UTC	ihavenoidea, VerySloppyTwo	106	5	25
+303434	2	25	No Variant	2020-09-21 — 18:46:16 UTC	ihavenoidea, VerySloppyTwo	108	5	25
+302572	2	24	No Variant	2020-09-20 — 20:14:18 UTC	ihavenoidea, VerySloppyTwo	109	5	25
+302559	2	22	No Variant	2020-09-20 — 20:08:00 UTC	ihavenoidea, VerySloppyTwo	109	5	25
+302546	2	0	No Variant	2020-09-20 — 20:01:00 UTC	ihavenoidea, VerySloppyTwo	108	5	25
+302541	2	0	No Variant	2020-09-20 — 19:57:09 UTC	ihavenoidea, VerySloppyTwo	108	5	25
+302286	2	0	No Variant	2020-09-20 — 12:43:49 UTC	ihavenoidea, VerySloppyTwo	109	5	25
+302272	2	25	No Variant	2020-09-20 — 11:32:23 UTC	ihavenoidea, VerySloppyTwo	109	5	25
+302269	2	22	No Variant	2020-09-20 — 11:27:50 UTC	ihavenoidea, VerySloppyTwo	109	5	25
+302268	2	25	No Variant	2020-09-20 — 11:21:04 UTC	ihavenoidea, VerySloppyTwo	109	5	25
+302267	2	0	No Variant	2020-09-20 — 11:14:05 UTC	ihavenoidea, VerySloppyTwo	110	5	25
+302266	2	0	No Variant	2020-09-20 — 11:11:19 UTC	ihavenoidea, VerySloppyTwo	115	5	25
+300098	2	23	No Variant	2020-09-17 — 18:51:14 UTC	ihavenoidea, VerySloppyTwo	116	5	25
+300094	2	22	No Variant	2020-09-17 — 18:46:33 UTC	ihavenoidea, VerySloppyTwo	118	5	25
+300089	2	0	No Variant	2020-09-17 — 18:39:16 UTC	ihavenoidea, VerySloppyTwo	114	5	25
+300083	2	0	No Variant	2020-09-17 — 18:33:26 UTC	ihavenoidea, VerySloppyTwo	117	5	25
+300081	2	23	No Variant	2020-09-17 — 18:30:11 UTC	ihavenoidea, VerySloppyTwo	117	5	25
+300078	2	0	No Variant	2020-09-17 — 18:23:45 UTC	ihavenoidea, VerySloppyTwo	117	5	25
+300077	2	25	No Variant	2020-09-17 — 18:22:34 UTC	ihavenoidea, VerySloppyTwo	117	5	25
+298965	2	25	No Variant	2020-09-16 — 19:39:03 UTC	ihavenoidea, VerySloppyTwo	117	5	25
+298962	2	24	No Variant	2020-09-16 — 19:32:11 UTC	ihavenoidea, VerySloppyTwo	119	5	25
+298959	2	24	No Variant	2020-09-16 — 19:26:58 UTC	ihavenoidea, VerySloppyTwo	121	5	25
+298956	2	0	No Variant	2020-09-16 — 19:20:03 UTC	ihavenoidea, VerySloppyTwo	124	5	25
+298954	2	24	No Variant	2020-09-16 — 19:16:11 UTC	ihavenoidea, VerySloppyTwo	124	5	25
+298783	2	0	Rainbow (6 Suits)	2020-09-16 — 10:51:29 UTC	ihavenoidea, VerySloppyTwo	33	6	30
+298782	2	0	Rainbow (6 Suits)	2020-09-16 — 10:48:16 UTC	ihavenoidea, VerySloppyTwo	33	6	30
+298779	2	0	Rainbow (6 Suits)	2020-09-16 — 10:36:27 UTC	ihavenoidea, VerySloppyTwo	34	6	30
+298776	2	0	Rainbow (6 Suits)	2020-09-16 — 10:28:33 UTC	ihavenoidea, VerySloppyTwo	34	6	30
+298774	2	0	Rainbow (6 Suits)	2020-09-16 — 10:24:47 UTC	ihavenoidea, VerySloppyTwo	34	6	30
+297433	3	0	Rainbow (6 Suits)	2020-09-14 — 11:26:03 UTC	ihavenoidea, Pablo-, VerySloppyTwo	282	6	30
+297430	3	0	Rainbow (6 Suits)	2020-09-14 — 11:13:08 UTC	ihavenoidea, Pablo-, VerySloppyTwo	508	6	30
+297429	2	0	Rainbow (6 Suits)	2020-09-14 — 11:07:47 UTC	ihavenoidea, VerySloppyTwo	34	6	30
+297427	2	30	Rainbow (6 Suits)	2020-09-14 — 11:05:05 UTC	ihavenoidea, VerySloppyTwo	33	6	30
+296666	2	0	Rainbow (6 Suits)	2020-09-13 — 13:15:28 UTC	ihavenoidea, VerySloppyTwo	34	6	30
+296663	2	30	Rainbow (6 Suits)	2020-09-13 — 12:41:09 UTC	ihavenoidea, VerySloppyTwo	34	6	30
+296662	2	0	Rainbow (6 Suits)	2020-09-13 — 12:33:40 UTC	ihavenoidea, VerySloppyTwo	36	6	30
+296659	2	0	Rainbow (6 Suits)	2020-09-13 — 12:29:01 UTC	ihavenoidea, VerySloppyTwo	38	6	30
+296031	2	0	Rainbow (6 Suits)	2020-09-12 — 20:02:54 UTC	ihavenoidea, VerySloppyTwo	38	6	30
+296025	2	0	Rainbow (6 Suits)	2020-09-12 — 19:57:58 UTC	ihavenoidea, VerySloppyTwo	40	6	30
+296020	2	0	Rainbow (6 Suits)	2020-09-12 — 19:55:37 UTC	ihavenoidea, VerySloppyTwo	40	6	30
+296012	2	0	Rainbow (6 Suits)	2020-09-12 — 19:48:36 UTC	ihavenoidea, VerySloppyTwo	42	6	30
+296004	2	0	Rainbow (6 Suits)	2020-09-12 — 19:42:12 UTC	ihavenoidea, VerySloppyTwo	42	6	30
+295998	2	0	Rainbow (6 Suits)	2020-09-12 — 19:35:50 UTC	ihavenoidea, VerySloppyTwo	41	6	30
+294942	2	30	Rainbow (6 Suits)	2020-09-11 — 19:16:57 UTC	ihavenoidea, VerySloppyTwo	42	6	30
+294682	2	0	Rainbow (6 Suits)	2020-09-11 — 11:51:39 UTC	ihavenoidea, VerySloppyTwo	42	6	30
+294673	2	0	Rainbow (6 Suits)	2020-09-11 — 11:44:15 UTC	ihavenoidea, VerySloppyTwo	41	6	30
+294672	2	0	Rainbow (6 Suits)	2020-09-11 — 11:42:20 UTC	ihavenoidea, VerySloppyTwo	42	6	30
+294671	2	0	Rainbow (6 Suits)	2020-09-11 — 11:40:19 UTC	ihavenoidea, VerySloppyTwo	44	6	30
+294260	2	0	Rainbow (6 Suits)	2020-09-10 — 20:42:32 UTC	ihavenoidea, VerySloppyTwo	46	6	30
+294259	2	30	Rainbow (6 Suits)	2020-09-10 — 20:40:23 UTC	ihavenoidea, VerySloppyTwo	47	6	30
+294247	2	0	Rainbow (6 Suits)	2020-09-10 — 20:32:37 UTC	ihavenoidea, VerySloppyTwo	48	6	30
+294244	2	0	Rainbow (6 Suits)	2020-09-10 — 20:30:27 UTC	ihavenoidea, VerySloppyTwo	48	6	30
+294241	2	0	Rainbow (6 Suits)	2020-09-10 — 20:27:53 UTC	ihavenoidea, VerySloppyTwo	49	6	30
+293514	2	0	Rainbow (6 Suits)	2020-09-09 — 20:18:46 UTC	ihavenoidea, VerySloppyTwo	49	6	30
+293509	2	0	Rainbow (6 Suits)	2020-09-09 — 20:12:29 UTC	ihavenoidea, VerySloppyTwo	49	6	30
+293507	2	0	Rainbow (6 Suits)	2020-09-09 — 20:08:54 UTC	ihavenoidea, VerySloppyTwo	50	6	30
+293255	2	0	Rainbow (6 Suits)	2020-09-09 — 11:52:56 UTC	ihavenoidea, VerySloppyTwo	52	6	30
+293253	2	30	Rainbow (6 Suits)	2020-09-09 — 11:42:19 UTC	ihavenoidea, VerySloppyTwo	54	6	30
+293251	2	0	Rainbow (6 Suits)	2020-09-09 — 11:35:26 UTC	ihavenoidea, VerySloppyTwo	54	6	30
+292691	2	0	Rainbow (6 Suits)	2020-09-08 — 19:34:28 UTC	ihavenoidea, VerySloppyTwo	54	6	30
+292689	2	0	Rainbow (6 Suits)	2020-09-08 — 19:32:48 UTC	ihavenoidea, VerySloppyTwo	57	6	30
+292684	2	29	Rainbow (6 Suits)	2020-09-08 — 19:24:53 UTC	ihavenoidea, VerySloppyTwo	58	6	30
+292672	2	0	Rainbow (6 Suits)	2020-09-08 — 19:14:54 UTC	ihavenoidea, VerySloppyTwo	59	6	30
+292667	2	25	No Variant	2020-09-08 — 19:08:06 UTC	ihavenoidea, VerySloppyTwo	125	5	25
+292662	2	0	No Variant	2020-09-08 — 19:03:59 UTC	ihavenoidea, VerySloppyTwo	125	5	25
+292661	2	15	3 Suits	2020-09-08 — 19:02:03 UTC	ihavenoidea, VerySloppyTwo	271	3	15
+291856	2	25	No Variant	2020-09-07 — 19:06:31 UTC	ihavenoidea, VerySloppyTwo	125	5	25
+291852	2	25	No Variant	2020-09-07 — 18:57:52 UTC	ihavenoidea, VerySloppyTwo	126	5	25
+291845	2	0	No Variant	2020-09-07 — 18:49:40 UTC	ihavenoidea, VerySloppyTwo	126	5	25
+291843	2	0	No Variant	2020-09-07 — 18:47:14 UTC	ihavenoidea, VerySloppyTwo	128	5	25
+291840	2	25	No Variant	2020-09-07 — 18:43:36 UTC	ihavenoidea, VerySloppyTwo	132	5	25
+291835	2	25	No Variant	2020-09-07 — 18:38:54 UTC	ihavenoidea, VerySloppyTwo	133	5	25
+291012	2	0	Dark Rainbow (6 Suits)	2020-09-06 — 19:45:32 UTC	ihavenoidea, VerySloppyTwo	110	6	30
+290975	2	0	No Variant	2020-09-06 — 19:31:44 UTC	ihavenoidea, VerySloppyTwo	135	5	25
+290963	2	25	No Variant	2020-09-06 — 19:27:50 UTC	ihavenoidea, VerySloppyTwo	138	5	25
+290945	2	0	No Variant	2020-09-06 — 19:20:35 UTC	ihavenoidea, VerySloppyTwo	139	5	25
+290928	2	0	No Variant	2020-09-06 — 19:12:34 UTC	ihavenoidea, VerySloppyTwo	139	5	25
+290915	2	24	No Variant	2020-09-06 — 19:05:47 UTC	ihavenoidea, VerySloppyTwo	139	5	25
+290892	2	25	No Variant	2020-09-06 — 18:53:56 UTC	ihavenoidea, VerySloppyTwo	142	5	25
+290877	2	25	No Variant	2020-09-06 — 18:44:09 UTC	ihavenoidea, VerySloppyTwo	145	5	25
+290869	2	25	No Variant	2020-09-06 — 18:38:02 UTC	ihavenoidea, VerySloppyTwo	149	5	25
+290864	2	24	No Variant	2020-09-06 — 18:31:24 UTC	ihavenoidea, VerySloppyTwo	152	5	25
+289124	2	0	No Variant	2020-09-04 — 20:25:18 UTC	ihavenoidea, VerySloppyTwo	152	5	25
+289121	2	0	No Variant	2020-09-04 — 20:20:03 UTC	ihavenoidea, VerySloppyTwo	151	5	25
+289118	2	25	No Variant	2020-09-04 — 20:13:22 UTC	ihavenoidea, VerySloppyTwo	151	5	25
+289115	2	23	No Variant	2020-09-04 — 20:08:03 UTC	ihavenoidea, VerySloppyTwo	152	5	25
+289109	2	0	No Variant	2020-09-04 — 20:00:58 UTC	ihavenoidea, VerySloppyTwo	154	5	25
+288135	2	0	No Variant	2020-09-03 — 19:35:12 UTC	ihavenoidea, VerySloppyTwo	154	5	25
+288130	2	0	No Variant	2020-09-03 — 19:29:44 UTC	ihavenoidea, VerySloppyTwo	157	5	25
+288120	2	25	No Variant	2020-09-03 — 19:21:14 UTC	ihavenoidea, VerySloppyTwo	156	5	25
+288111	2	25	No Variant	2020-09-03 — 19:13:26 UTC	ihavenoidea, VerySloppyTwo	159	5	25
+288105	2	0	No Variant	2020-09-03 — 19:07:14 UTC	ihavenoidea, VerySloppyTwo	160	5	25
+288097	2	0	No Variant	2020-09-03 — 19:02:59 UTC	ihavenoidea, VerySloppyTwo	163	5	25
+288092	2	0	No Variant	2020-09-03 — 18:56:27 UTC	ihavenoidea, VerySloppyTwo	163	5	25
+288087	2	25	No Variant	2020-09-03 — 18:52:11 UTC	ihavenoidea, VerySloppyTwo	165	5	25
+288081	2	23	No Variant	2020-09-03 — 18:46:54 UTC	ihavenoidea, VerySloppyTwo	169	5	25
+287342	2	0	Rainbow (6 Suits)	2020-09-02 — 18:56:47 UTC	ihavenoidea, VerySloppyTwo	58	6	30
+287340	2	28	Rainbow (6 Suits)	2020-09-02 — 18:53:50 UTC	ihavenoidea, VerySloppyTwo	59	6	30
+287201	2	30	Rainbow (6 Suits)	2020-09-02 — 11:59:24 UTC	ihavenoidea, VerySloppyTwo	59	6	30
+287196	2	0	Rainbow (6 Suits)	2020-09-02 — 11:48:45 UTC	ihavenoidea, VerySloppyTwo	62	6	30
+287195	2	0	Rainbow (6 Suits)	2020-09-02 — 11:45:11 UTC	ihavenoidea, VerySloppyTwo	64	6	30
+287192	2	0	Rainbow (6 Suits)	2020-09-02 — 11:37:58 UTC	ihavenoidea, VerySloppyTwo	64	6	30
+286443	2	0	Rainbow (6 Suits)	2020-09-01 — 19:22:48 UTC	ihavenoidea, VerySloppyTwo	67	6	30
+286441	2	0	Rainbow (6 Suits)	2020-09-01 — 19:19:27 UTC	ihavenoidea, VerySloppyTwo	68	6	30
+286440	2	0	Rainbow (6 Suits)	2020-09-01 — 19:17:21 UTC	ihavenoidea, VerySloppyTwo	71	6	30
+286437	2	0	Rainbow (6 Suits)	2020-09-01 — 19:11:02 UTC	ihavenoidea, VerySloppyTwo	73	6	30
+286343	3	15	Prism (3 Suits)	2020-09-01 — 15:29:27 UTC	Fey, TheDaniMan, VerySloppyTwo	32	3	15
+285503	2	0	Rainbow (6 Suits)	2020-08-31 — 18:56:02 UTC	ihavenoidea, VerySloppyTwo	75	6	30
+285498	2	0	Rainbow (6 Suits)	2020-08-31 — 18:49:53 UTC	ihavenoidea, VerySloppyTwo	77	6	30
+285496	2	0	Rainbow (6 Suits)	2020-08-31 — 18:48:04 UTC	ihavenoidea, VerySloppyTwo	82	6	30
+285492	2	27	Rainbow (6 Suits)	2020-08-31 — 18:40:04 UTC	ihavenoidea, VerySloppyTwo	85	6	30
+285343	2	30	Rainbow (6 Suits)	2020-08-31 — 10:57:32 UTC	ihavenoidea, VerySloppyTwo	87	6	30
+285330	2	0	Rainbow (6 Suits)	2020-08-31 — 10:45:53 UTC	ihavenoidea, VerySloppyTwo	88	6	30
+285325	2	0	Rainbow (6 Suits)	2020-08-31 — 10:41:30 UTC	ihavenoidea, VerySloppyTwo	94	6	30
+284767	2	30	Rainbow (6 Suits)	2020-08-30 — 19:31:32 UTC	ihavenoidea, VerySloppyTwo	99	6	30
+284760	2	0	Rainbow (6 Suits)	2020-08-30 — 19:22:02 UTC	ihavenoidea, VerySloppyTwo	97	6	30
+284755	2	30	Rainbow (6 Suits)	2020-08-30 — 19:12:49 UTC	ihavenoidea, VerySloppyTwo	102	6	30
+284749	2	0	Rainbow (6 Suits)	2020-08-30 — 19:02:37 UTC	ihavenoidea, VerySloppyTwo	106	6	30
+283857	2	29	Rainbow (6 Suits)	2020-08-29 — 19:07:20 UTC	ihavenoidea, VerySloppyTwo	106	6	30
+283851	2	30	Rainbow (6 Suits)	2020-08-29 — 18:57:04 UTC	ihavenoidea, VerySloppyTwo	114	6	30
+283845	2	0	Rainbow (6 Suits)	2020-08-29 — 18:45:10 UTC	ihavenoidea, VerySloppyTwo	121	6	30
+283842	2	0	Rainbow (6 Suits)	2020-08-29 — 18:41:12 UTC	ihavenoidea, VerySloppyTwo	122	6	30
+283639	2	0	Rainbow (6 Suits)	2020-08-29 — 11:48:44 UTC	ihavenoidea, VerySloppyTwo	126	6	30
+283637	2	0	Rainbow (6 Suits)	2020-08-29 — 11:47:43 UTC	ihavenoidea, VerySloppyTwo	133	6	30
+283631	2	28	Rainbow (6 Suits)	2020-08-29 — 11:42:10 UTC	ihavenoidea, VerySloppyTwo	139	6	30
+283618	2	30	Rainbow (6 Suits)	2020-08-29 — 11:32:31 UTC	ihavenoidea, VerySloppyTwo	144	6	30
+283608	2	0	Rainbow (6 Suits)	2020-08-29 — 11:22:25 UTC	ihavenoidea, VerySloppyTwo	146	6	30
+282832	2	0	Rainbow (6 Suits)	2020-08-28 — 19:52:34 UTC	ihavenoidea, VerySloppyTwo	149	6	30
+282827	2	0	Rainbow (6 Suits)	2020-08-28 — 19:47:13 UTC	ihavenoidea, VerySloppyTwo	150	6	30
+282821	2	27	Rainbow (6 Suits)	2020-08-28 — 19:39:53 UTC	ihavenoidea, VerySloppyTwo	153	6	30
+282812	2	0	Rainbow (6 Suits)	2020-08-28 — 19:28:11 UTC	ihavenoidea, VerySloppyTwo	157	6	30
+282808	2	0	Rainbow (6 Suits)	2020-08-28 — 19:24:04 UTC	ihavenoidea, VerySloppyTwo	200	6	30
+282795	2	29	Rainbow (6 Suits)	2020-08-28 — 19:11:59 UTC	ihavenoidea, VerySloppyTwo	593	6	30
+282605	2	0	Rainbow (6 Suits)	2020-08-28 — 12:26:33 UTC	ihavenoidea, VerySloppyTwo	717	6	30
+282591	2	25	No Variant	2020-08-28 — 11:37:27 UTC	ihavenoidea, VerySloppyTwo	170	5	25
+282588	2	25	No Variant	2020-08-28 — 11:29:43 UTC	ihavenoidea, VerySloppyTwo	175	5	25
+282584	2	25	No Variant	2020-08-28 — 11:22:53 UTC	ihavenoidea, VerySloppyTwo	173	5	25
+281915	2	25	No Variant	2020-08-27 — 19:59:07 UTC	ihavenoidea, VerySloppyTwo	178	5	25
+281905	2	22	No Variant	2020-08-27 — 19:49:34 UTC	ihavenoidea, VerySloppyTwo	178	5	25
+281156	2	0	No Variant	2020-08-26 — 19:11:06 UTC	ihavenoidea, VerySloppyTwo	181	5	25
+281150	2	22	No Variant	2020-08-26 — 19:03:08 UTC	ihavenoidea, VerySloppyTwo	180	5	25
+281146	2	25	No Variant	2020-08-26 — 18:50:10 UTC	ihavenoidea, VerySloppyTwo	179	5	25
+281142	2	0	No Variant	2020-08-26 — 18:44:19 UTC	ihavenoidea, VerySloppyTwo	181	5	25
+281139	2	25	No Variant	2020-08-26 — 18:36:23 UTC	ihavenoidea, VerySloppyTwo	185	5	25
+281131	2	0	No Variant	2020-08-26 — 18:26:34 UTC	ihavenoidea, VerySloppyTwo	184	5	25
+281030	2	24	No Variant	2020-08-26 — 11:49:45 UTC	ihavenoidea, VerySloppyTwo	182	5	25
+281027	2	25	No Variant	2020-08-26 — 11:42:52 UTC	ihavenoidea, VerySloppyTwo	186	5	25
+280336	2	0	No Variant	2020-08-25 — 18:30:12 UTC	ihavenoidea, VerySloppyTwo	187	5	25
+280332	2	0	No Variant	2020-08-25 — 18:23:04 UTC	ihavenoidea, VerySloppyTwo	195	5	25
+280327	2	24	No Variant	2020-08-25 — 18:13:43 UTC	ihavenoidea, VerySloppyTwo	194	5	25
+280320	2	25	No Variant	2020-08-25 — 18:03:56 UTC	ihavenoidea, VerySloppyTwo	196	5	25
+280316	2	25	No Variant	2020-08-25 — 17:56:24 UTC	ihavenoidea, VerySloppyTwo	194	5	25
+280314	2	21	No Variant	2020-08-25 — 17:50:20 UTC	ihavenoidea, VerySloppyTwo	201	5	25
+280312	2	0	Rainbow (6 Suits)	2020-08-25 — 17:41:31 UTC	ihavenoidea, VerySloppyTwo	971	6	30
+280311	2	24	No Variant	2020-08-25 — 17:40:15 UTC	ihavenoidea, VerySloppyTwo	201	5	25
+280101	2	0	No Variant	2020-08-25 — 10:05:30 UTC	ihavenoidea, VerySloppyTwo	207	5	25
+280098	2	24	No Variant	2020-08-25 — 09:43:32 UTC	ihavenoidea, VerySloppyTwo	207	5	25
+280094	2	25	No Variant	2020-08-25 — 09:30:11 UTC	ihavenoidea, VerySloppyTwo	211	5	25
+280089	2	0	No Variant	2020-08-25 — 09:23:22 UTC	ihavenoidea, VerySloppyTwo	212	5	25
+280087	2	0	No Variant	2020-08-25 — 09:17:42 UTC	ihavenoidea, VerySloppyTwo	215	5	25
+279470	2	0	No Variant	2020-08-24 — 19:30:42 UTC	ihavenoidea, VerySloppyTwo	220	5	25
+279450	2	0	No Variant	2020-08-24 — 19:05:21 UTC	ihavenoidea, VerySloppyTwo	220	5	25
+279447	2	25	No Variant	2020-08-24 — 19:00:46 UTC	ihavenoidea, VerySloppyTwo	225	5	25
+279439	2	23	No Variant	2020-08-24 — 18:52:50 UTC	ihavenoidea, VerySloppyTwo	228	5	25
+279431	2	24	No Variant	2020-08-24 — 18:42:32 UTC	ihavenoidea, VerySloppyTwo	231	5	25
+279425	2	0	No Variant	2020-08-24 — 18:32:03 UTC	ihavenoidea, VerySloppyTwo	244	5	25
+279424	2	25	No Variant	2020-08-24 — 18:26:48 UTC	ihavenoidea, VerySloppyTwo	249	5	25
+279417	2	0	No Variant	2020-08-24 — 18:17:56 UTC	ihavenoidea, VerySloppyTwo	254	5	25
+279415	2	25	No Variant	2020-08-24 — 18:12:45 UTC	ihavenoidea, VerySloppyTwo	259	5	25
+279278	2	25	No Variant	2020-08-24 — 11:24:22 UTC	ihavenoidea, VerySloppyTwo	257	5	25
+279274	2	0	No Variant	2020-08-24 — 11:13:58 UTC	ihavenoidea, VerySloppyTwo	264	5	25
+279271	2	24	No Variant	2020-08-24 — 11:07:55 UTC	ihavenoidea, VerySloppyTwo	271	5	25
+279268	2	23	No Variant	2020-08-24 — 10:57:59 UTC	ihavenoidea, VerySloppyTwo	275	5	25
+278686	2	0	No Variant	2020-08-23 — 18:51:51 UTC	ihavenoidea, VerySloppyTwo	277	5	25
+278632	2	0	No Variant	2020-08-23 — 18:21:46 UTC	ihavenoidea, VerySloppyTwo	279	5	25
+278626	2	0	No Variant	2020-08-23 — 18:17:25 UTC	ihavenoidea, VerySloppyTwo	281	5	25
+278614	2	24	No Variant	2020-08-23 — 18:09:54 UTC	ihavenoidea, VerySloppyTwo	299	5	25
+278607	2	25	No Variant	2020-08-23 — 17:57:29 UTC	ihavenoidea, VerySloppyTwo	292	5	25
+278602	2	24	No Variant	2020-08-23 — 17:41:12 UTC	ihavenoidea, VerySloppyTwo	302	5	25
+278595	2	24	No Variant	2020-08-23 — 17:31:02 UTC	ihavenoidea, VerySloppyTwo	308	5	25
+278590	2	24	No Variant	2020-08-23 — 17:20:54 UTC	ihavenoidea, VerySloppyTwo	303	5	25
+277690	3	25	No Variant	2020-08-22 — 20:28:14 UTC	Fey, Pablo-, VerySloppyTwo	119	5	25
+277673	3	0	No Variant	2020-08-22 — 20:08:22 UTC	Fey, Pablo-, VerySloppyTwo	125	5	25
+277665	2	25	No Variant	2020-08-22 — 19:51:38 UTC	Pablo-, VerySloppyTwo	311	5	25
+277605	3	0	No Variant	2020-08-22 — 18:33:45 UTC	asaelr, timotree, VerySloppyTwo	8	5	25
+277596	3	0	Brown (6 Suits)	2020-08-22 — 18:21:21 UTC	asaelr, timotree, VerySloppyTwo	84	6	30
+277556	3	24	No Variant	2020-08-22 — 16:48:10 UTC	Puzzle, timotree, VerySloppyTwo	269	5	25
+277540	3	23	No Variant	2020-08-22 — 16:16:52 UTC	Puzzle, timotree, VerySloppyTwo	275	5	25
+277528	2	25	No Variant	2020-08-22 — 15:47:30 UTC	timotree, VerySloppyTwo	191	5	25
+276397	2	25	No Variant	2020-08-21 — 10:48:14 UTC	ihavenoidea, VerySloppyTwo	315	5	25
+275848	2	29	Rainbow (6 Suits)	2020-08-20 — 18:46:51 UTC	eljobe, VerySloppyTwo	167	6	30
+275833	2	25	Rainbow (6 Suits)	2020-08-20 — 18:21:32 UTC	eljobe, VerySloppyTwo	171	6	30
+275733	2	0	No Variant	2020-08-20 — 11:08:27 UTC	ihavenoidea, VerySloppyTwo	321	5	25
+275729	2	24	No Variant	2020-08-20 — 10:49:42 UTC	ihavenoidea, VerySloppyTwo	328	5	25
+273415	2	25	No Variant	2020-08-17 — 11:44:32 UTC	ihavenoidea, VerySloppyTwo	335	5	25
+273412	2	0	No Variant	2020-08-17 — 11:30:10 UTC	ihavenoidea, VerySloppyTwo	344	5	25
+273405	2	0	No Variant	2020-08-17 — 11:03:07 UTC	ihavenoidea, VerySloppyTwo	348	5	25
+272478	2	0	No Variant	2020-08-16 — 11:22:59 UTC	ihavenoidea, VerySloppyTwo	354	5	25
+272477	2	0	No Variant	2020-08-16 — 11:16:53 UTC	ihavenoidea, VerySloppyTwo	357	5	25
+272476	2	0	No Variant	2020-08-16 — 11:09:09 UTC	ihavenoidea, VerySloppyTwo	362	5	25
+272474	2	25	No Variant	2020-08-16 — 11:03:21 UTC	ihavenoidea, VerySloppyTwo	369	5	25
+272472	2	24	No Variant	2020-08-16 — 10:54:42 UTC	ihavenoidea, VerySloppyTwo	381	5	25
+272469	2	0	No Variant	2020-08-16 — 10:44:09 UTC	ihavenoidea, VerySloppyTwo	387	5	25
+270854	2	0	No Variant	2020-08-14 — 18:45:52 UTC	ihavenoidea, VerySloppyTwo	393	5	25
+270843	2	0	No Variant	2020-08-14 — 18:24:12 UTC	ihavenoidea, VerySloppyTwo	393	5	25
+270838	2	0	No Variant	2020-08-14 — 18:17:03 UTC	ihavenoidea, VerySloppyTwo	406	5	25
+270832	2	0	No Variant	2020-08-14 — 18:06:58 UTC	ihavenoidea, VerySloppyTwo	411	5	25
+270829	2	25	No Variant	2020-08-14 — 18:01:06 UTC	ihavenoidea, VerySloppyTwo	423	5	25
+270821	2	25	No Variant	2020-08-14 — 17:45:55 UTC	ihavenoidea, VerySloppyTwo	432	5	25
+270762	3	24	No Variant	2020-08-14 — 16:05:32 UTC	bracz, r7ar7a, VerySloppyTwo	2606	5	25
+270752	4	25	No Variant	2020-08-14 — 15:34:27 UTC	bracz, mmm7, r7ar7a, VerySloppyTwo	899	5	25
+269938	2	0	No Variant	2020-08-13 — 20:04:07 UTC	ihavenoidea, VerySloppyTwo	440	5	25
+269935	2	25	No Variant	2020-08-13 — 19:59:22 UTC	ihavenoidea, VerySloppyTwo	450	5	25
+269930	2	0	No Variant	2020-08-13 — 19:52:07 UTC	ihavenoidea, VerySloppyTwo	455	5	25
+269924	2	0	No Variant	2020-08-13 — 19:43:44 UTC	ihavenoidea, VerySloppyTwo	458	5	25
+269734	2	25	No Variant	2020-08-13 — 13:15:32 UTC	ihavenoidea, VerySloppyTwo	476	5	25
+269707	2	25	No Variant	2020-08-13 — 12:36:12 UTC	ihavenoidea, VerySloppyTwo	496	5	25
+269704	2	0	No Variant	2020-08-13 — 12:29:24 UTC	ihavenoidea, VerySloppyTwo	506	5	25
+269701	2	0	No Variant	2020-08-13 — 12:11:40 UTC	ihavenoidea, VerySloppyTwo	513	5	25
+269699	2	0	No Variant	2020-08-13 — 12:08:43 UTC	ihavenoidea, VerySloppyTwo	526	5	25
+269691	2	0	No Variant	2020-08-13 — 11:07:50 UTC	ihavenoidea, VerySloppyTwo	534	5	25
+269689	2	0	No Variant	2020-08-13 — 11:03:53 UTC	ihavenoidea, VerySloppyTwo	549	5	25
+269688	2	0	No Variant	2020-08-13 — 11:02:34 UTC	ihavenoidea, VerySloppyTwo	555	5	25
+268910	2	25	No Variant	2020-08-12 — 11:15:39 UTC	ihavenoidea, VerySloppyTwo	581	5	25
+268908	2	0	No Variant	2020-08-12 — 11:06:47 UTC	ihavenoidea, VerySloppyTwo	593	5	25
+268905	2	0	No Variant	2020-08-12 — 10:59:19 UTC	ihavenoidea, VerySloppyTwo	597	5	25
+268903	2	0	No Variant	2020-08-12 — 10:55:28 UTC	ihavenoidea, VerySloppyTwo	626	5	25
+268894	3	0	No Variant	2020-08-12 — 09:25:57 UTC	Fey, joelwool, VerySloppyTwo	137	5	25
+268893	3	0	No Variant	2020-08-12 — 09:13:21 UTC	Fey, joelwool, VerySloppyTwo	148	5	25
+268247	2	0	No Variant	2020-08-11 — 20:10:12 UTC	ihavenoidea, VerySloppyTwo	654	5	25
+268237	2	0	No Variant	2020-08-11 — 20:04:00 UTC	ihavenoidea, VerySloppyTwo	677	5	25
+268234	2	23	No Variant	2020-08-11 — 19:59:52 UTC	ihavenoidea, VerySloppyTwo	699	5	25
+268223	2	22	No Variant	2020-08-11 — 19:50:32 UTC	ihavenoidea, VerySloppyTwo	719	5	25
+268209	2	25	No Variant	2020-08-11 — 19:35:57 UTC	ihavenoidea, VerySloppyTwo	741	5	25
+267451	2	25	No Variant	2020-08-10 — 20:19:38 UTC	ihavenoidea, VerySloppyTwo	770	5	25
+267439	2	24	No Variant	2020-08-10 — 20:10:20 UTC	ihavenoidea, VerySloppyTwo	794	5	25
+267428	2	23	No Variant	2020-08-10 — 19:59:22 UTC	ihavenoidea, VerySloppyTwo	818	5	25
+267417	2	23	No Variant	2020-08-10 — 19:44:46 UTC	ihavenoidea, VerySloppyTwo	854	5	25
+267098	2	0	No Variant	2020-08-10 — 10:56:22 UTC	ihavenoidea, VerySloppyTwo	883	5	25
+267094	2	22	No Variant	2020-08-10 — 10:52:18 UTC	ihavenoidea, VerySloppyTwo	921	5	25
+267087	2	0	No Variant	2020-08-10 — 10:42:04 UTC	ihavenoidea, VerySloppyTwo	948	5	25
+267085	2	23	No Variant	2020-08-10 — 10:38:07 UTC	ihavenoidea, VerySloppyTwo	976	5	25
+266249	2	30	Rainbow (6 Suits)	2020-08-09 — 15:12:04 UTC	eljobe, VerySloppyTwo	179	6	30
+266234	2	29	Rainbow (6 Suits)	2020-08-09 — 14:46:18 UTC	eljobe, VerySloppyTwo	194	6	30
+266217	2	0	Rainbow (6 Suits)	2020-08-09 — 14:20:34 UTC	eljobe, VerySloppyTwo	212	6	30
+266209	2	29	Rainbow (6 Suits)	2020-08-09 — 14:04:19 UTC	eljobe, VerySloppyTwo	227	6	30
+266183	2	25	Rainbow (6 Suits)	2020-08-09 — 12:22:10 UTC	eljobe, VerySloppyTwo	243	6	30
+266177	2	29	Rainbow (6 Suits)	2020-08-09 — 11:58:46 UTC	eljobe, VerySloppyTwo	254	6	30
+266168	2	0	Rainbow (6 Suits)	2020-08-09 — 11:28:03 UTC	eljobe, VerySloppyTwo	269	6	30
+266167	2	0	Rainbow (6 Suits)	2020-08-09 — 11:19:35 UTC	eljobe, VerySloppyTwo	288	6	30
+266150	2	0	Rainbow (5 Suits)	2020-08-09 — 09:48:55 UTC	Pablo-, VerySloppyTwo	95	5	25
+265457	2	0	No Variant	2020-08-08 — 19:52:52 UTC	ihavenoidea, VerySloppyTwo	1031	5	25
+265452	2	22	No Variant	2020-08-08 — 19:48:31 UTC	ihavenoidea, VerySloppyTwo	1078	5	25
+265446	2	25	No Variant	2020-08-08 — 19:35:34 UTC	ihavenoidea, VerySloppyTwo	1117	5	25
+264396	2	25	No Variant	2020-08-07 — 20:08:39 UTC	ihavenoidea, VerySloppyTwo	1148	5	25
+264382	2	22	No Variant	2020-08-07 — 19:50:56 UTC	ihavenoidea, VerySloppyTwo	1206	5	25
+264375	2	0	No Variant	2020-08-07 — 19:40:23 UTC	ihavenoidea, VerySloppyTwo	1249	5	25
+264227	4	23	No Variant	2020-08-07 — 14:09:41 UTC	Ivan12, mmm7, r7ar7a, VerySloppyTwo	2763	5	25
+264212	3	25	No Variant	2020-08-07 — 13:36:31 UTC	Ivan12, mmm7, VerySloppyTwo	1291	5	25
+264174	2	0	No Variant	2020-08-07 — 12:08:46 UTC	ihavenoidea, VerySloppyTwo	1299	5	25
+264168	2	0	No Variant	2020-08-07 — 11:37:46 UTC	ihavenoidea, VerySloppyTwo	1376	5	25
+264166	2	0	No Variant	2020-08-07 — 11:31:09 UTC	ihavenoidea, VerySloppyTwo	1448	5	25
+264164	2	0	No Variant	2020-08-07 — 11:23:46 UTC	ihavenoidea, VerySloppyTwo	1532	5	25
+263601	2	20	No Variant	2020-08-06 — 20:50:58 UTC	dicelover, VerySloppyTwo	1621	5	25
+263594	2	21	No Variant	2020-08-06 — 20:39:35 UTC	dicelover, VerySloppyTwo	1703	5	25
+263557	2	25	No Variant	2020-08-06 — 19:31:33 UTC	ihavenoidea, VerySloppyTwo	1840	5	25
+263550	2	22	No Variant	2020-08-06 — 19:19:41 UTC	ihavenoidea, VerySloppyTwo	1952	5	25
+263466	2	27	Rainbow (6 Suits)	2020-08-06 — 15:39:34 UTC	eljobe, VerySloppyTwo	306	6	30
+263451	2	29	Rainbow (6 Suits)	2020-08-06 — 15:15:44 UTC	eljobe, VerySloppyTwo	327	6	30
+263445	2	0	Rainbow (6 Suits)	2020-08-06 — 14:46:15 UTC	eljobe, VerySloppyTwo	349	6	30
+260690	2	24	No Variant	2020-08-03 — 20:19:22 UTC	ihavenoidea, VerySloppyTwo	2147	5	25
+260679	2	0	No Variant	2020-08-03 — 20:03:05 UTC	ihavenoidea, VerySloppyTwo	2288	5	25
+260673	2	25	No Variant	2020-08-03 — 19:55:25 UTC	ihavenoidea, VerySloppyTwo	2532	5	25
+260602	2	0	No Variant	2020-08-03 — 18:52:17 UTC	ihavenoidea, VerySloppyTwo	2750	5	25
+260596	2	0	No Variant	2020-08-03 — 18:40:57 UTC	ihavenoidea, VerySloppyTwo	3051	5	25
+259142	2	0	No Variant	2020-08-02 — 20:02:19 UTC	focusssss, VerySloppyTwo	3507	5	25
+259141	2	0	No Variant	2020-08-02 — 20:01:35 UTC	focusssss, VerySloppyTwo	4109	5	25
+259134	3	25	No Variant	2020-08-02 — 19:56:26 UTC	eljobe, focusssss, VerySloppyTwo	1465	5	25
+259119	3	23	No Variant	2020-08-02 — 19:37:31 UTC	eljobe, focusssss, VerySloppyTwo	1881	5	25
+259107	2	0	No Variant	2020-08-02 — 19:19:30 UTC	createnew, VerySloppyTwo	5374	5	25
+257140	3	0	No Variant	2020-07-31 — 15:35:56 UTC	eljobe, r7ar7a, VerySloppyTwo	2163	5	25
+256358	5	24	No Variant	2020-07-30 — 20:27:32 UTC	kakugen, Kaznad, Padouga, VerySloppyTwo, Viky	262	5	25
+253097	2	30	Rainbow (6 Suits)	2020-07-27 — 15:20:09 UTC	eljobe, VerySloppyTwo	395	6	30
+253093	2	0	Rainbow (6 Suits)	2020-07-27 — 15:02:11 UTC	eljobe, VerySloppyTwo	441	6	30
+253086	2	30	Rainbow (6 Suits)	2020-07-27 — 14:37:58 UTC	eljobe, VerySloppyTwo	500	6	30
+249798	4	24	No Variant	2020-07-24 — 15:28:23 UTC	alberth, bracz, mmm7, VerySloppyTwo	985	5	25
+247810	3	29	Rainbow (6 Suits)	2020-07-22 — 15:00:32 UTC	Bonja97, eljobe, VerySloppyTwo	91	6	30
+247111	4	23	No Variant	2020-07-21 — 20:35:45 UTC	anythingbutname, eljobe, jellybeaning, VerySloppyTwo	1092	5	25
+242712	3	25	No Variant	2020-07-17 — 16:20:08 UTC	bracz, mmm7, VerySloppyTwo	1636	5	25
+242697	4	22	No Variant	2020-07-17 — 15:54:10 UTC	alberth, bracz, mmm7, VerySloppyTwo	1253	5	25
+242689	4	22	No Variant	2020-07-17 — 15:26:26 UTC	alberth, bracz, mmm7, VerySloppyTwo	1449	5	25
+235196	5	22	No Variant	2020-07-10 — 16:12:43 UTC	bracz, Ivan123456, mmm7, rara, VerySloppyTwo	837	5	25
+235172	5	0	No Variant	2020-07-10 — 15:35:53 UTC	bracz, Ivan123456, mmm7, rara, VerySloppyTwo	1119	5	25
+198252	3	23	No Variant	2020-06-07 — 20:56:47 UTC	pk456, teaman, VerySloppyTwo	3260	5	25
+198201	3	24	No Variant	2020-06-07 — 20:17:18 UTC	pk456, teaman, VerySloppyTwo	4221	5	25
+167044	4	21	No Variant	2020-05-15 — 16:30:56 UTC	alberth, bracz, ostaphello, VerySloppyTwo	1744	5	25
+167013	4	22	No Variant	2020-05-15 — 15:52:10 UTC	alberth, bracz, ostaphello, VerySloppyTwo	2076	5	25

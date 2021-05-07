@@ -1,0 +1,1538 @@
+512407	4	30	Pink-Fives & Dark Pink (6 Suits)	2021-04-25 — 19:21:21 UTC	dobi, griff77, robense, voss	1	6	30
+512372	6	23	Black (5 Suits)	2021-04-25 — 18:43:17 UTC	asaelr, dobi, Lanvin, MangoPie, MarkusKahlsen, melwen	1	5	25
+512357	4	0	Black & Pink (5 Suits)	2021-04-25 — 18:25:20 UTC	dobi, Lanvin, MangoPie, MarkusKahlsen	4	5	25
+512347	4	24	Black & Pink (5 Suits)	2021-04-25 — 18:10:28 UTC	dobi, Lanvin, MangoPie, MarkusKahlsen	4	5	25
+512335	4	21	Black & Pink (5 Suits)	2021-04-25 — 17:47:32 UTC	dobi, Lanvin, MangoPie, MarkusKahlsen	6	5	25
+512322	4	24	Up or Down & Pink (5 Suits)	2021-04-25 — 17:27:30 UTC	dobi, rz, Wittvector, wump	12	5	25
+512294	3	23	Up or Down & Pink (5 Suits)	2021-04-25 — 16:48:44 UTC	dobi, rz, Wittvector	12	5	25
+512282	3	0	Up or Down & Pink (5 Suits)	2021-04-25 — 16:24:41 UTC	dobi, rz, Wittvector	16	5	25
+512056	4	0	Up or Down & Null (5 Suits)	2021-04-25 — 06:51:28 UTC	dobi, indego, newduke, sin_faith	1	5	25
+512050	4	0	Up or Down & Null (5 Suits)	2021-04-25 — 06:26:17 UTC	dobi, indego, newduke, sin_faith	1	5	25
+512036	4	18	Up or Down & Null (5 Suits)	2021-04-25 — 06:02:29 UTC	dobi, indego, newduke, sin_faith	1	5	25
+512003	4	0	Up or Down & Null (5 Suits)	2021-04-25 — 05:31:26 UTC	dobi, indego, newduke, sin_faith	1	5	25
+511979	4	0	Up or Down & Null (5 Suits)	2021-04-25 — 05:11:58 UTC	dobi, indego, newduke, sin_faith	1	5	25
+511938	3	30	Black & Light Pink (6 Suits)	2021-04-25 — 04:53:04 UTC	dobi, newduke, sin_faith	16	6	30
+511801	3	28	Gray Pink (6 Suits)	2021-04-25 — 02:14:12 UTC	dobi, Pablo-, timotree	7	6	30
+511783	3	0	Gray Pink (6 Suits)	2021-04-25 — 01:43:04 UTC	dobi, Pablo-, timotree	7	6	30
+511768	3	29	Gray Pink (6 Suits)	2021-04-25 — 01:13:16 UTC	dobi, Pablo-, timotree	9	6	30
+511754	3	0	Gray Pink (6 Suits)	2021-04-25 — 00:46:59 UTC	dobi, Pablo-, timotree	9	6	30
+511739	3	28	Gray Pink (6 Suits)	2021-04-25 — 00:29:53 UTC	dobi, Pablo-, timotree	24	6	30
+511708	6	25	No Variant	2021-04-25 — 00:08:06 UTC	dobi, HelanaAshryvr, Lanvin, MangoPie, melwen, Pablo-	8	5	25
+511691	6	0	No Variant	2021-04-24 — 23:46:28 UTC	dobi, HelanaAshryvr, Lanvin, MangoPie, melwen, Pablo-	10	5	25
+511678	6	0	Black (5 Suits)	2021-04-24 — 23:21:24 UTC	dobi, HelanaAshryvr, Lanvin, MangoPie, melwen, Pablo-	1	5	25
+511394	4	0	White-Ones & Pink (3 Suits)	2021-04-24 — 18:15:19 UTC	ChristopheAF, dobi, Kernel, Lanvin	1	3	15
+511383	4	14	White-Ones & Pink (3 Suits)	2021-04-24 — 18:05:20 UTC	ChristopheAF, dobi, Kernel, Lanvin	1	3	15
+511371	3	0	Dark Prism Reversed (5 Suits)	2021-04-24 — 17:54:40 UTC	dobi, Lanvin, wump	6	5	25
+511368	3	0	Dark Prism Reversed (5 Suits)	2021-04-24 — 17:50:46 UTC	dobi, Lanvin, wump	7	5	25
+511333	4	30	Rainbow & Cocoa Rainbow (6 Suits)	2021-04-24 — 16:38:04 UTC	ChristopheAF, desymo99, dobi, rz	2	6	30
+511321	4	0	Rainbow & Cocoa Rainbow (6 Suits)	2021-04-24 — 16:16:19 UTC	ChristopheAF, desymo99, dobi, rz	2	6	30
+511315	4	0	Rainbow & Cocoa Rainbow (6 Suits)	2021-04-24 — 15:59:17 UTC	ChristopheAF, desymo99, dobi, rz	3	6	30
+511305	4	0	Rainbow & Cocoa Rainbow (6 Suits)	2021-04-24 — 15:30:02 UTC	ChristopheAF, desymo99, dobi, rz	3	6	30
+511137	5	25	Rainbow & White (5 Suits)	2021-04-24 — 07:09:14 UTC	corys, derekcheah, dobi, Lel0uch, xor	4	5	25
+511121	4	30	Rainbow Reversed (6 Suits)	2021-04-24 — 06:28:28 UTC	derekcheah, dobi, Fey, micerang	11	6	30
+511107	4	25	Pink & Brown (5 Suits)	2021-04-24 — 06:01:43 UTC	dobi, Fey, micerang, qqqq	5	5	25
+511051	5	29	White (6 Suits)	2021-04-24 — 04:35:07 UTC	antitelharsic, boba, Bot-Fiora, dobi, griff77	17	6	30
+511011	5	0	White (6 Suits)	2021-04-24 — 03:49:59 UTC	antitelharsic, boba, Bot-Fiora, dobi, griff77	27	6	30
+510739	3	0	Rainbow & Pink (6 Suits)	2021-04-23 — 23:46:41 UTC	bob65536, derekcheah, dobi	23	6	30
+510223	2	0	Rainbow & Gray (6 Suits)	2021-04-23 — 14:31:57 UTC	dobi, duckless	18	6	30
+510221	2	0	Rainbow & Gray (6 Suits)	2021-04-23 — 14:30:34 UTC	dobi, duckless	22	6	30
+510217	2	0	Rainbow & Gray (6 Suits)	2021-04-23 — 14:25:39 UTC	dobi, duckless	24	6	30
+509389	5	0	Rainbow & White (6 Suits)	2021-04-22 — 16:22:43 UTC	dobi, duckless, Fey, Kyle, micerang	3	6	30
+509384	5	0	Rainbow & White (6 Suits)	2021-04-22 — 16:16:14 UTC	dobi, duckless, Fey, Kyle, micerang	3	6	30
+509379	5	0	Rainbow & White (6 Suits)	2021-04-22 — 16:03:16 UTC	dobi, duckless, Fey, micerang, rz	6	6	30
+509167	2	30	Pink & Muddy Rainbow (6 Suits)	2021-04-22 — 04:50:22 UTC	dobi, kimbifille	7	6	30
+509153	2	0	Pink & Muddy Rainbow (6 Suits)	2021-04-22 — 04:30:36 UTC	dobi, kimbifille	8	6	30
+509141	2	25	White-Ones (5 Suits)	2021-04-22 — 04:13:55 UTC	dobi, kimbifille	23	5	25
+508848	3	25	Null (5 Suits)	2021-04-21 — 22:36:32 UTC	dobi, duckless, scharkbite	27	5	25
+508600	4	24	Pink & Gray (5 Suits)	2021-04-21 — 18:38:56 UTC	dobi, indego, MarkusKahlsen, Wittvector	2	5	25
+508520	5	26	Pink & Dark Brown (6 Suits)	2021-04-21 — 15:44:37 UTC	dobi, duckless, indego, Lel0uch, melwen	1	6	30
+508312	2	30	Rainbow (6 Suits)	2021-04-21 — 07:04:54 UTC	dobi, Wittvector	500	6	30
+508304	2	0	Rainbow (6 Suits)	2021-04-21 — 06:50:44 UTC	dobi, Wittvector	593	6	30
+508300	2	0	Rainbow (6 Suits)	2021-04-21 — 06:45:32 UTC	dobi, Wittvector	717	6	30
+508257	4	30	Brown & Muddy Rainbow (6 Suits)	2021-04-21 — 05:16:12 UTC	bjnh, dobi, Fey, newduke	3	6	30
+508225	4	0	Brown & Muddy Rainbow (6 Suits)	2021-04-21 — 04:50:02 UTC	bjnh, dobi, Fey, newduke	4	6	30
+508075	5	24	Rainbow-Ones (5 Suits)	2021-04-21 — 02:28:34 UTC	dobi, HelanaAshryvr, Lanvin, rz, timotree	2	5	25
+507555	2	0	Black & Prism (5 Suits)	2021-04-20 — 15:37:22 UTC	dobi, robense	2	5	25
+507554	2	0	Black & Prism (5 Suits)	2021-04-20 — 15:28:43 UTC	dobi, robense	2	5	25
+507551	2	0	Black & Prism (5 Suits)	2021-04-20 — 15:23:31 UTC	dobi, robense	2	5	25
+507549	2	24	Black & Prism (5 Suits)	2021-04-20 — 15:20:35 UTC	dobi, robense	2	5	25
+507547	2	0	Black & Prism (5 Suits)	2021-04-20 — 15:11:50 UTC	dobi, robense	3	5	25
+507544	2	24	Black & Prism (5 Suits)	2021-04-20 — 15:08:19 UTC	dobi, robense	3	5	25
+507534	2	0	Black & Prism (5 Suits)	2021-04-20 — 14:54:18 UTC	dobi, robense	3	5	25
+507366	4	25	Rainbow & Muddy Rainbow (5 Suits)	2021-04-20 — 06:48:23 UTC	dobi, squirrel1988, Wittvector, xor	7	5	25
+507184	6	21	Black (5 Suits)	2021-04-20 — 03:07:19 UTC	bjnh, dobi, Lanvin, Lel0uch, melwen, timotree	1	5	25
+507162	6	0	Black (5 Suits)	2021-04-20 — 02:48:32 UTC	bjnh, dobi, Lanvin, Lel0uch, melwen, timotree	1	5	25
+507139	6	20	Black (5 Suits)	2021-04-20 — 02:21:44 UTC	dobi, Lanvin, Lel0uch, melwen, squirrel1988, timotree	1	5	25
+506843	5	0	Up or Down & Rainbow (6 Suits)	2021-04-19 — 20:08:45 UTC	ChristopheAF, dobi, Lanvin, melwen, Wittvector	3	6	30
+506827	4	30	Muddy Rainbow & Dark Prism (6 Suits)	2021-04-19 — 19:46:40 UTC	dobi, Lanvin, scharkbite, Valetta6789	2	6	30
+506576	3	24	Black & Rainbow (5 Suits)	2021-04-19 — 15:41:45 UTC	bjnh, dobi, rz	26	5	25
+506372	4	26	Rainbow-Ones & Muddy Rainbow (6 Suits)	2021-04-19 — 06:36:54 UTC	corys, dobi, Lel0uch, xor	1	6	30
+506365	3	0	Muddy Rainbow (5 Suits)	2021-04-19 — 06:01:53 UTC	dobi, Lel0uch, xor	10	5	25
+506252	4	26	Dark Rainbow (6 Suits)	2021-04-19 — 03:23:30 UTC	aquarelle, dobi, IsabeltheCat, StKildaFan	18	6	30
+506011	4	23	Gray Pink (5 Suits)	2021-04-19 — 01:02:25 UTC	dobi, HelanaAshryvr, Kyle, timotree	1	5	25
+505990	4	0	Gray Pink (5 Suits)	2021-04-19 — 00:47:23 UTC	dobi, HelanaAshryvr, Kyle, timotree	1	5	25
+505972	4	20	Gray Pink (5 Suits)	2021-04-19 — 00:26:32 UTC	dobi, HelanaAshryvr, Kyle, timotree	1	5	25
+505951	4	23	Gray Pink (5 Suits)	2021-04-18 — 23:52:48 UTC	dobi, HelanaAshryvr, Kyle, timotree	1	5	25
+505913	3	29	Pink & Brown (6 Suits)	2021-04-18 — 23:11:51 UTC	dobi, HelanaAshryvr, timotree	13	6	30
+505868	4	30	Pink & Brown (6 Suits)	2021-04-18 — 22:33:47 UTC	dobi, HelanaAshryvr, Kyle, timotree	13	6	30
+505840	4	0	Pink & Brown (6 Suits)	2021-04-18 — 22:12:11 UTC	dobi, HelanaAshryvr, Kyle, timotree	13	6	30
+505812	3	0	Pink & Brown (6 Suits)	2021-04-18 — 21:56:20 UTC	dobi, HelanaAshryvr, timotree	18	6	30
+505759	4	21	Dark Prism Reversed (5 Suits)	2021-04-18 — 21:20:56 UTC	dobi, duckless, kevincaseytdk1, Lanvin	4	5	25
+505680	5	30	White & Muddy Rainbow (6 Suits)	2021-04-18 — 20:19:07 UTC	ChristopheAF, dobi, indego, knaphill, micerang	2	6	30
+505642	4	0	Rainbow & Dark Brown (5 Suits)	2021-04-18 — 19:54:51 UTC	ChristopheAF, dobi, Kyle, micerang	5	5	25
+505567	5	0	Dark Pink (6 Suits)	2021-04-18 — 18:54:11 UTC	bjnh, dobi, indego, kinkajusrevenge, ricardodd	13	6	30
+505527	4	24	Dark Pink (5 Suits)	2021-04-18 — 18:24:49 UTC	bjnh, dobi, indego, ricardodd	13	5	25
+505502	5	0	Black & Brown (6 Suits)	2021-04-18 — 18:01:33 UTC	bjnh, ChristopheAF, dobi, MangoPie, rz	5	6	30
+505420	3	25	Null (5 Suits)	2021-04-18 — 16:50:35 UTC	dobi, HelanaAshryvr, timotree	12	5	25
+505355	4	29	Rainbow & White (6 Suits)	2021-04-18 — 15:52:28 UTC	dobi, Fey, narabio, timotree	3	6	30
+505347	4	0	Rainbow & White (6 Suits)	2021-04-18 — 15:39:26 UTC	dobi, Fey, narabio, timotree	2	6	30
+505327	3	25	Null (5 Suits)	2021-04-18 — 15:00:10 UTC	dobi, HelanaAshryvr, timotree	12	5	25
+505108	5	23	Brown & Muddy Rainbow (5 Suits)	2021-04-18 — 06:16:01 UTC	corys, dobi, Fey, newduke, xor	2	5	25
+505098	4	0	Brown & Muddy Rainbow (5 Suits)	2021-04-18 — 05:51:50 UTC	dobi, Fey, newduke, xor	1	5	25
+505092	4	0	Brown & Muddy Rainbow (5 Suits)	2021-04-18 — 05:43:55 UTC	dobi, Fey, newduke, xor	1	5	25
+505074	4	0	Brown & Muddy Rainbow (5 Suits)	2021-04-18 — 05:23:34 UTC	dobi, Fey, newduke, xor	1	5	25
+505055	4	25	Muddy Rainbow (5 Suits)	2021-04-18 — 05:00:33 UTC	dobi, Fey, newduke, xor	12	5	25
+505036	2	0	Black & Pink (5 Suits)	2021-04-18 — 04:43:30 UTC	dobi, Fey	24	5	25
+504849	3	0	Null (5 Suits)	2021-04-18 — 01:34:45 UTC	dobi, HelanaAshryvr, timotree	12	5	25
+504248	3	0	Gray Reversed (6 Suits)	2021-04-17 — 17:31:46 UTC	dobi, sephiroth, VerySloppyTwo	3	6	30
+504178	3	25	Null (5 Suits)	2021-04-17 — 15:14:43 UTC	dobi, HelanaAshryvr, timotree	12	5	25
+503956	4	0	Rainbow & White (6 Suits)	2021-04-17 — 06:16:12 UTC	bjnh, catula, dobi, Fey	2	6	30
+503950	4	28	Rainbow & White (6 Suits)	2021-04-17 — 06:06:54 UTC	bjnh, catula, dobi, Fey	2	6	30
+503938	4	0	Rainbow & White (6 Suits)	2021-04-17 — 05:47:20 UTC	bjnh, catula, dobi, Fey	5	6	30
+503928	3	23	Pink & Dark Rainbow (5 Suits)	2021-04-17 — 05:34:28 UTC	cockdestroyer, dobi, Fey	4	5	25
+503811	3	0	Null (5 Suits)	2021-04-17 — 03:18:39 UTC	dobi, HelanaAshryvr, timotree	3	5	25
+503759	3	24	Null (5 Suits)	2021-04-17 — 02:37:09 UTC	dobi, HelanaAshryvr, timotree	3	5	25
+503718	3	0	Null (5 Suits)	2021-04-17 — 01:59:24 UTC	dobi, HelanaAshryvr, timotree	3	5	25
+503686	3	25	Null (5 Suits)	2021-04-17 — 01:24:13 UTC	dobi, HelanaAshryvr, timotree	3	5	25
+503575	3	0	Null (5 Suits)	2021-04-17 — 00:06:34 UTC	dobi, HelanaAshryvr, timotree	3	5	25
+503070	3	25	Ambiguous & Rainbow (5 Suits)	2021-04-16 — 17:45:31 UTC	dobi, kevincaseytdk1, Wittvector	7	5	25
+502924	4	25	Dark Rainbow Reversed (5 Suits)	2021-04-16 — 15:47:47 UTC	dobi, jeff10, Kyle, sephiroth	2	5	25
+502468	3	20	Rainbow & Brown (4 Suits)	2021-04-16 — 02:33:51 UTC	cockdestroyer, dobi, griff77	20	4	20
+502445	2	20	Brown (4 Suits)	2021-04-16 — 02:09:43 UTC	dobi, IsabeltheCat	74	4	20
+502372	4	30	White-Ones & Dark Prism (6 Suits)	2021-04-16 — 00:52:28 UTC	dobi, kevincaseytdk1, Lanvin, melwen	2	6	30
+501877	4	0	Omni & Dark Rainbow (6 Suits)	2021-04-15 — 16:02:01 UTC	dobi, Kyle, Lel0uch, sin_faith	1	6	30
+501874	4	0	Omni & Dark Rainbow (6 Suits)	2021-04-15 — 15:52:05 UTC	dobi, Kyle, Lel0uch, sin_faith	1	6	30
+501870	4	0	Omni & Dark Rainbow (6 Suits)	2021-04-15 — 15:38:53 UTC	dobi, Kyle, Lel0uch, sin_faith	2	6	30
+501686	4	28	Pink & Gray Pink (6 Suits)	2021-04-15 — 05:51:13 UTC	dobi, indego, Lel0uch, qqqq	2	6	30
+501665	3	0	Black & Null (6 Suits)	2021-04-15 — 05:30:32 UTC	dobi, indego, Lel0uch	6	6	30
+501659	3	0	Black & Null (6 Suits)	2021-04-15 — 05:24:18 UTC	dobi, indego, Lel0uch	6	6	30
+501651	2	30	Dark Pink (6 Suits)	2021-04-15 — 05:12:43 UTC	dobi, indego	24	6	30
+501637	2	0	Dark Pink (6 Suits)	2021-04-15 — 04:55:45 UTC	dobi, indego	25	6	30
+501611	3	24	Null (5 Suits)	2021-04-15 — 04:10:36 UTC	dobi, HelanaAshryvr, timotree	4	5	25
+501541	3	0	Null (5 Suits)	2021-04-15 — 02:49:13 UTC	dobi, HelanaAshryvr, timotree	5	5	25
+501424	3	0	Null (5 Suits)	2021-04-15 — 00:52:47 UTC	dobi, HelanaAshryvr, timotree	5	5	25
+501366	3	24	Null (5 Suits)	2021-04-14 — 23:54:12 UTC	dobi, rz, wump	40	5	25
+501076	4	20	Special Mix (5 Suits)	2021-04-14 — 19:53:13 UTC	dobi, Lanvin, MangoPie, VerySloppyTwo	13	5	25
+501054	4	0	Special Mix (5 Suits)	2021-04-14 — 19:40:30 UTC	dobi, Lanvin, MangoPie, VerySloppyTwo	14	5	25
+501046	4	0	Special Mix (5 Suits)	2021-04-14 — 19:34:22 UTC	dobi, Lanvin, MangoPie, VerySloppyTwo	16	5	25
+500913	5	0	Up or Down & Prism (5 Suits)	2021-04-14 — 16:41:22 UTC	ChristopheAF, dobi, duckless, rz, wump	3	5	25
+500869	4	28	Black (6 Suits)	2021-04-14 — 15:19:12 UTC	dobi, Syrah, Wittvector, Zakisan	71	6	30
+500724	3	0	Gray Pink (6 Suits)	2021-04-14 — 07:19:33 UTC	dobi, newduke, Wittvector	11	6	30
+500720	3	0	Gray Pink (6 Suits)	2021-04-14 — 07:11:17 UTC	dobi, newduke, Wittvector	13	6	30
+500713	3	0	Gray Pink (6 Suits)	2021-04-14 — 06:55:02 UTC	dobi, newduke, Wittvector	15	6	30
+500711	3	0	Gray Pink (6 Suits)	2021-04-14 — 06:47:57 UTC	dobi, newduke, Wittvector	21	6	30
+500511	3	23	Null (5 Suits)	2021-04-14 — 03:00:49 UTC	dobi, HelanaAshryvr, timotree	5	5	25
+500427	4	23	Brown & Dark Prism (5 Suits)	2021-04-14 — 01:10:31 UTC	dobi, griff77, Lel0uch, melwen	3	5	25
+499731	5	0	White & Light Pink (6 Suits)	2021-04-13 — 15:42:39 UTC	dobi, Lel0uch, melwen, squirrel1988, Zakisan	2	6	30
+499719	6	0	Pink & White (6 Suits)	2021-04-13 — 14:59:37 UTC	dobi, indego, Lel0uch, melwen, squirrel1988, Zakisan	3	6	30
+499715	4	0	Brown & Cocoa Rainbow (6 Suits)	2021-04-13 — 14:32:49 UTC	dobi, indego, Lel0uch, squirrel1988	1	6	30
+499534	4	0	Gray (6 Suits)	2021-04-13 — 05:08:46 UTC	bjnh, dobi, newduke, nwajfromoz	10	6	30
+499240	3	20	Black (5 Suits)	2021-04-13 — 01:41:15 UTC	dobi, indego, kevincaseytdk1	43	5	25
+499229	3	0	Black (5 Suits)	2021-04-13 — 01:29:00 UTC	dobi, indego, kevincaseytdk1	51	5	25
+499217	3	22	Black (5 Suits)	2021-04-13 — 01:19:29 UTC	dobi, indego, kevincaseytdk1	71	5	25
+499205	6	0	Special Mix (5 Suits)	2021-04-13 — 01:00:04 UTC	dobi, HelanaAshryvr, indego, kevincaseytdk1, Lanvin, timotree	2	5	25
+499199	6	25	Pink (5 Suits)	2021-04-13 — 00:46:14 UTC	dobi, HelanaAshryvr, kevincaseytdk1, Lanvin, nwajfromoz, wump	3	5	25
+499185	6	0	Pink (5 Suits)	2021-04-13 — 00:23:18 UTC	dobi, HelanaAshryvr, kevincaseytdk1, Lanvin, nwajfromoz, wump	9	5	25
+498276	3	22	Black & Rainbow (5 Suits)	2021-04-12 — 06:31:00 UTC	cockdestroyer, dobi, Pablo-	27	5	25
+497982	3	0	Null (5 Suits)	2021-04-12 — 02:46:35 UTC	dobi, HelanaAshryvr, timotree	6	5	25
+497867	3	0	Null (5 Suits)	2021-04-12 — 02:00:09 UTC	dobi, HelanaAshryvr, timotree	6	5	25
+497793	3	25	Null (5 Suits)	2021-04-12 — 01:20:20 UTC	dobi, HelanaAshryvr, timotree	5	5	25
+497720	3	24	Null (5 Suits)	2021-04-12 — 00:15:30 UTC	dobi, HelanaAshryvr, timotree	5	5	25
+497681	6	22	Black (5 Suits)	2021-04-11 — 23:01:23 UTC	dobi, Lanvin, melwen, Pimak, squirrel1988, timotree	1	5	25
+497651	4	20	White & Omni (4 Suits)	2021-04-11 — 22:26:21 UTC	dobi, Lanvin, melwen, Pimak	5	4	20
+497415	3	28	Gray (6 Suits)	2021-04-11 — 19:22:40 UTC	dobi, timotree, Wittvector	45	6	30
+497274	3	30	Black & Pink (6 Suits)	2021-04-11 — 15:54:31 UTC	dobi, MangoPie, MarkusKahlsen	25	6	30
+497114	3	24	Black (5 Suits)	2021-04-11 — 08:13:43 UTC	dobi, IsabeltheCat, Zakisan	8	5	25
+497110	3	0	Black (5 Suits)	2021-04-11 — 07:58:57 UTC	dobi, IsabeltheCat, Zakisan	10	5	25
+497108	3	0	Black (5 Suits)	2021-04-11 — 07:49:47 UTC	dobi, IsabeltheCat, Zakisan	10	5	25
+497106	3	0	Black (5 Suits)	2021-04-11 — 07:38:07 UTC	dobi, IsabeltheCat, Zakisan	22	5	25
+497100	3	24	Black (5 Suits)	2021-04-11 — 07:22:49 UTC	dobi, IsabeltheCat, Zakisan	25	5	25
+497096	3	0	Black (5 Suits)	2021-04-11 — 07:06:09 UTC	dobi, IsabeltheCat, Zakisan	24	5	25
+497093	5	0	Rainbow & Omni (6 Suits)	2021-04-11 — 07:02:13 UTC	bjnh, derekcheah, dobi, Lel0uch, Zakisan	1	6	30
+497091	5	0	Rainbow & Omni (6 Suits)	2021-04-11 — 06:56:54 UTC	bjnh, derekcheah, dobi, Lel0uch, Zakisan	2	6	30
+497088	5	0	Rainbow & Omni (6 Suits)	2021-04-11 — 06:42:40 UTC	bjnh, derekcheah, dobi, Lel0uch, Zakisan	2	6	30
+497080	5	0	Rainbow & Omni (6 Suits)	2021-04-11 — 06:16:28 UTC	bjnh, derekcheah, dobi, Lel0uch, Zakisan	2	6	30
+497075	4	0	Rainbow & Omni (6 Suits)	2021-04-11 — 05:59:55 UTC	bjnh, derekcheah, dobi, Lel0uch	3	6	30
+497070	4	0	Rainbow & Omni (6 Suits)	2021-04-11 — 05:53:45 UTC	bjnh, derekcheah, dobi, Lel0uch	5	6	30
+497066	3	30	Omni-Fives & Dark Omni (6 Suits)	2021-04-11 — 05:35:10 UTC	derekcheah, dobi, Lel0uch	1	6	30
+497060	3	0	Omni-Fives & Dark Omni (6 Suits)	2021-04-11 — 05:23:07 UTC	derekcheah, dobi, Lel0uch	1	6	30
+497055	2	21	White & Dark Brown (5 Suits)	2021-04-11 — 05:15:46 UTC	dobi, Lel0uch	6	5	25
+497046	2	22	White & Dark Brown (5 Suits)	2021-04-11 — 05:06:28 UTC	dobi, Lel0uch	6	5	25
+497041	2	23	White & Dark Brown (5 Suits)	2021-04-11 — 04:56:01 UTC	dobi, Lel0uch	6	5	25
+497006	4	0	White (6 Suits)	2021-04-11 — 04:30:23 UTC	boba, dobi, HelanaAshryvr, squirrel1988	41	6	30
+496993	3	20	Prism (4 Suits)	2021-04-11 — 04:15:49 UTC	dobi, HelanaAshryvr, squirrel1988	3	4	20
+496734	5	25	Dark Omni (6 Suits)	2021-04-10 — 23:29:08 UTC	dobi, HelanaAshryvr, Lanvin, melwen, squirrel1988	1	6	30
+496717	5	0	Dark Omni (6 Suits)	2021-04-10 — 23:07:35 UTC	dobi, HelanaAshryvr, Lanvin, melwen, squirrel1988	1	6	30
+496703	5	0	Dark Omni (6 Suits)	2021-04-10 — 22:56:36 UTC	dobi, HelanaAshryvr, Lanvin, melwen, squirrel1988	1	6	30
+496669	3	23	Black & Pink (5 Suits)	2021-04-10 — 22:33:09 UTC	dobi, HelanaAshryvr, squirrel1988	29	5	25
+496583	3	24	Null (5 Suits)	2021-04-10 — 21:40:15 UTC	dobi, HelanaAshryvr, timotree	5	5	25
+496487	3	0	Null (5 Suits)	2021-04-10 — 20:48:38 UTC	dobi, HelanaAshryvr, timotree	5	5	25
+496479	3	0	Null (5 Suits)	2021-04-10 — 20:44:07 UTC	dobi, HelanaAshryvr, timotree	5	5	25
+496466	3	0	Null (5 Suits)	2021-04-10 — 20:39:16 UTC	dobi, HelanaAshryvr, timotree	5	5	25
+496373	3	25	Light Pink (5 Suits)	2021-04-10 — 19:24:09 UTC	dobi, griff77, indego	2	5	25
+496355	4	20	Dark Prism (5 Suits)	2021-04-10 — 18:58:33 UTC	dobi, indego, Lanvin, VerySloppyTwo	4	5	25
+496318	2	28	Gray (6 Suits)	2021-04-10 — 17:50:45 UTC	dobi, indego	24	6	30
+496309	2	0	Gray (6 Suits)	2021-04-10 — 17:31:03 UTC	dobi, indego	27	6	30
+496276	4	23	Dark Brown (5 Suits)	2021-04-10 — 16:44:23 UTC	dobi, Fey, indego, nwajfromoz	12	5	25
+495811	4	0	Gray (6 Suits)	2021-04-10 — 05:48:53 UTC	dobi, Fey, nwajfromoz, sin_faith	11	6	30
+495742	5	29	Dual-Color & Dark Omni (6 Suits)	2021-04-10 — 04:23:53 UTC	derekcheah, dobi, HelanaAshryvr, Lel0uch, timotree	1	6	30
+495609	3	0	Null (5 Suits)	2021-04-10 — 02:48:36 UTC	dobi, HelanaAshryvr, timotree	8	5	25
+495569	3	0	Null (5 Suits)	2021-04-10 — 02:00:09 UTC	dobi, HelanaAshryvr, timotree	8	5	25
+495533	3	0	Null (5 Suits)	2021-04-10 — 00:59:52 UTC	dobi, HelanaAshryvr, timotree	8	5	25
+494916	4	0	Rainbow (6 Suits)	2021-04-09 — 15:57:02 UTC	bjnh, bob65536, dobi, Spieler42	493	6	30
+494517	4	0	Brown & Dark Omni (6 Suits)	2021-04-09 — 03:07:55 UTC	dobi, kinkajusrevenge, Lel0uch, timotree	3	6	30
+494447	3	22	Null (5 Suits)	2021-04-09 — 01:18:12 UTC	dobi, HelanaAshryvr, timotree	8	5	25
+494355	6	0	Pink & White (6 Suits)	2021-04-08 — 23:06:32 UTC	dobi, Lanvin, melwen, Pimak, squirrel1988, Syrah	1	6	30
+494027	3	26	Black & Rainbow (6 Suits)	2021-04-08 — 16:09:23 UTC	dobi, MarkusKahlsen, timotree	30	6	30
+493813	5	30	Black (6 Suits)	2021-04-08 — 05:26:16 UTC	derekcheah, dobi, kevincaseytdk1, Lel0uch, newduke	21	6	30
+493806	5	29	Black (6 Suits)	2021-04-08 — 04:59:38 UTC	derekcheah, dobi, kevincaseytdk1, Lel0uch, newduke	23	6	30
+493766	5	0	Black (6 Suits)	2021-04-08 — 04:26:16 UTC	derekcheah, dobi, kevincaseytdk1, Lel0uch, possum	28	6	30
+493628	3	25	Null (5 Suits)	2021-04-08 — 01:44:27 UTC	dobi, HelanaAshryvr, timotree	9	5	25
+493118	5	0	Pink & Brown (5 Suits)	2021-04-07 — 17:17:46 UTC	dobi, MarkusKahlsen, rz, swineherd, voss	1	5	25
+492706	3	30	Black & White (6 Suits)	2021-04-07 — 01:51:45 UTC	dobi, indego, Nitrate	33	6	30
+492654	4	25	Brown & Cocoa Rainbow (6 Suits)	2021-04-07 — 00:37:40 UTC	dobi, HelanaAshryvr, melwen, squirrel1988	1	6	30
+492637	4	0	Brown & Cocoa Rainbow (6 Suits)	2021-04-07 — 00:12:45 UTC	dobi, HelanaAshryvr, melwen, squirrel1988	3	6	30
+492230	4	0	Up or Down & Prism (6 Suits)	2021-04-06 — 17:18:31 UTC	dobi, rz, scharkbite, sephiroth	2	6	30
+492227	4	0	Up or Down & Prism (6 Suits)	2021-04-06 — 17:17:22 UTC	dobi, rz, scharkbite, sephiroth	2	6	30
+492188	5	0	Rainbow & Light Pink (6 Suits)	2021-04-06 — 15:59:20 UTC	dobi, knaphill, Nitrate, Syrah, Wittvector	5	6	30
+491991	3	23	Dark Null (5 Suits)	2021-04-06 — 07:01:55 UTC	dobi, indego, Lel0uch	13	5	25
+491987	2	0	Dark Pink (6 Suits)	2021-04-06 — 06:44:02 UTC	dobi, indego	26	6	30
+491984	2	24	Dark Pink (6 Suits)	2021-04-06 — 06:32:52 UTC	dobi, indego	29	6	30
+491969	4	0	Dark Rainbow (6 Suits)	2021-04-06 — 06:00:53 UTC	bjnh, dobi, IsabeltheCat, possum	18	6	30
+491965	4	0	Dark Rainbow (6 Suits)	2021-04-06 — 05:54:29 UTC	bjnh, dobi, IsabeltheCat, possum	19	6	30
+491614	3	0	Omni (6 Suits)	2021-04-05 — 23:18:55 UTC	dobi, IsabeltheCat, kinkajusrevenge	51	6	30
+491545	3	0	Pink & White (5 Suits)	2021-04-05 — 21:29:43 UTC	dobi, IsabeltheCat, robense	1	5	25
+491233	5	0	Light-Pink-Ones & Brown (5 Suits)	2021-04-05 — 16:01:21 UTC	dobi, indego, jack67889, MarkusKahlsen, rz	2	5	25
+491016	3	30	Dual-Color & Gray (6 Suits)	2021-04-05 — 06:44:39 UTC	derekcheah, dobi, Lel0uch	2	6	30
+490924	3	0	Null (5 Suits)	2021-04-05 — 04:24:00 UTC	dobi, HelanaAshryvr, timotree	18	5	25
+490882	3	0	Null (5 Suits)	2021-04-05 — 03:36:32 UTC	dobi, HelanaAshryvr, timotree	18	5	25
+490871	3	0	Null (5 Suits)	2021-04-05 — 03:23:15 UTC	dobi, HelanaAshryvr, timotree	36	5	25
+490709	5	30	Gray (6 Suits)	2021-04-04 — 22:48:41 UTC	bjnh, derekcheah, dobi, Lanvin, Wittvector	2	6	30
+490693	5	0	Gray (6 Suits)	2021-04-04 — 22:24:10 UTC	bjnh, derekcheah, dobi, Lanvin, Wittvector	3	6	30
+490670	3	30	Light Pink (6 Suits)	2021-04-04 — 22:05:05 UTC	derekcheah, dobi, ricardodd	25	6	30
+490607	3	19	Gray Pink (5 Suits)	2021-04-04 — 21:11:57 UTC	dobi, Lanvin, robense	15	5	25
+490380	3	0	Light Pink (6 Suits)	2021-04-04 — 15:48:11 UTC	dobi, indego, jeff10	38	6	30
+490371	3	0	Rainbow & Dark Omni (5 Suits)	2021-04-04 — 15:35:52 UTC	dobi, indego, Lel0uch	5	5	25
+490196	4	0	Rainbow & Dark Pink (5 Suits)	2021-04-04 — 07:30:19 UTC	derekcheah, dobi, Fey, Lel0uch	3	5	25
+490195	4	0	Rainbow & Dark Pink (5 Suits)	2021-04-04 — 07:29:19 UTC	derekcheah, dobi, Fey, Lel0uch	3	5	25
+490191	4	0	Rainbow & Dark Pink (5 Suits)	2021-04-04 — 07:22:19 UTC	derekcheah, dobi, Fey, Lel0uch	3	5	25
+490184	4	23	Rainbow & Dark Pink (5 Suits)	2021-04-04 — 07:12:23 UTC	derekcheah, dobi, Fey, Lel0uch	2	5	25
+490170	3	0	Rainbow & Gray Pink (5 Suits)	2021-04-04 — 06:54:37 UTC	derekcheah, dobi, Lel0uch	2	5	25
+490161	2	0	Black & Prism (5 Suits)	2021-04-04 — 06:47:25 UTC	derekcheah, dobi	25	5	25
+490157	2	0	Black & Prism (5 Suits)	2021-04-04 — 06:45:10 UTC	derekcheah, dobi	25	5	25
+490152	2	24	Black & Prism (5 Suits)	2021-04-04 — 06:39:17 UTC	derekcheah, dobi	26	5	25
+490136	3	22	Rainbow & Gray Pink (5 Suits)	2021-04-04 — 06:01:26 UTC	derekcheah, dobi, newduke	6	5	25
+490124	3	0	Rainbow & Gray Pink (5 Suits)	2021-04-04 — 05:43:29 UTC	derekcheah, dobi, newduke	7	5	25
+490122	3	0	Rainbow & Dark Pink (5 Suits)	2021-04-04 — 05:42:12 UTC	derekcheah, dobi, newduke	4	5	25
+490120	3	25	Rainbow & Dark Pink (5 Suits)	2021-04-04 — 05:36:10 UTC	derekcheah, dobi, newduke	4	5	25
+490107	3	22	Rainbow & Dark Pink (5 Suits)	2021-04-04 — 05:15:16 UTC	derekcheah, dobi, Lel0uch	3	5	25
+489753	6	0	Black (5 Suits)	2021-04-03 — 22:44:33 UTC	asaelr, dobi, HelanaAshryvr, Lanvin, melwen, ricardodd	3	5	25
+489736	4	0	Rainbow-Ones & Cocoa Rainbow (6 Suits)	2021-04-03 — 22:28:07 UTC	dobi, Lanvin, MarkusKahlsen, melwen	1	6	30
+489715	4	0	Rainbow-Ones & Cocoa Rainbow (6 Suits)	2021-04-03 — 22:06:50 UTC	dobi, Lanvin, MarkusKahlsen, melwen	1	6	30
+489696	4	0	Rainbow-Ones & Cocoa Rainbow (6 Suits)	2021-04-03 — 21:51:22 UTC	dobi, Lanvin, MarkusKahlsen, melwen	1	6	30
+489685	4	0	Rainbow-Ones & Cocoa Rainbow (6 Suits)	2021-04-03 — 21:42:13 UTC	dobi, Lanvin, MarkusKahlsen, melwen	1	6	30
+489571	3	22	Prism & Dark Rainbow (5 Suits)	2021-04-03 — 19:52:09 UTC	dobi, Meowie, Valetta6789	10	5	25
+489497	3	30	Rainbow & Brown (6 Suits)	2021-04-03 — 18:28:49 UTC	dobi, newduke, timotree	17	6	30
+489477	4	0	White-Fives & Dark Omni (5 Suits)	2021-04-03 — 17:55:41 UTC	dobi, Lanvin, newduke, timotree	1	5	25
+489442	3	30	Rainbow & White (6 Suits)	2021-04-03 — 16:57:40 UTC	dobi, Fey, MangoPie	19	6	30
+489434	3	0	Rainbow & White (6 Suits)	2021-04-03 — 16:34:41 UTC	dobi, Fey, MangoPie	24	6	30
+489422	3	0	Rainbow & White (6 Suits)	2021-04-03 — 16:16:25 UTC	dobi, Fey, MangoPie	32	6	30
+489390	3	0	Black & Muddy Rainbow (5 Suits)	2021-04-03 — 15:00:08 UTC	dobi, HelanaAshryvr, sephiroth	3	5	25
+489379	3	0	Black & Muddy Rainbow (5 Suits)	2021-04-03 — 14:45:18 UTC	dobi, HelanaAshryvr, sephiroth	3	5	25
+489369	3	0	Black & Muddy Rainbow (5 Suits)	2021-04-03 — 14:33:03 UTC	dobi, HelanaAshryvr, sephiroth	8	5	25
+489157	5	0	Dual-Color (6 Suits)	2021-04-03 — 05:17:37 UTC	dobi, HelanaAshryvr, Lel0uch, nwajfromoz, squirrel1988	6	6	30
+489078	5	29	Rainbow (6 Suits)	2021-04-03 — 04:05:43 UTC	dobi, kimbifille, newduke, piper, ReaverSe	209	6	30
+489023	6	30	White (6 Suits)	2021-04-03 — 03:23:01 UTC	dobi, kimbifille, Lel0uch, pianoblook, piper, ReaverSe	2	6	30
+489000	6	0	White (6 Suits)	2021-04-03 — 03:02:58 UTC	dobi, kimbifille, Lel0uch, pianoblook, piper, ReaverSe	4	6	30
+488813	4	22	White & Dark Prism (5 Suits)	2021-04-03 — 00:10:17 UTC	dobi, melwen, pianoblook, timotree	1	5	25
+488791	5	0	Rainbow & Dark Brown (6 Suits)	2021-04-02 — 23:30:52 UTC	dobi, melwen, squirrel1988, timotree, Wittvector	1	6	30
+488779	5	0	Rainbow & Dark Brown (6 Suits)	2021-04-02 — 23:13:04 UTC	dobi, melwen, squirrel1988, timotree, Wittvector	1	6	30
+488684	5	30	Cocoa Rainbow (6 Suits)	2021-04-02 — 21:57:20 UTC	antitelharsic, dobi, jack67889, kevincaseytdk1, Lanvin	5	6	30
+488382	2	15	3 Suits	2021-04-02 — 17:05:42 UTC	dobi, knaphill	271	3	15
+488329	5	30	Pink & Muddy Rainbow (6 Suits)	2021-04-02 — 15:35:28 UTC	dobi, Floriman, jeff10, kinkajusrevenge, MangoPie	4	6	30
+488177	5	22	Black (5 Suits)	2021-04-02 — 07:13:13 UTC	dobi, Lanvin, newduke, qqqq, sin_faith	4	5	25
+488173	5	0	Black (5 Suits)	2021-04-02 — 06:52:02 UTC	dobi, Lanvin, newduke, qqqq, sin_faith	4	5	25
+487956	6	0	Black (5 Suits)	2021-04-02 — 02:02:58 UTC	dobi, HelanaAshryvr, Lel0uch, melwen, ricardodd, squirrel1988	2	5	25
+487403	4	0	Pink & Omni (6 Suits)	2021-04-01 — 15:56:13 UTC	ChristopheAF, dobi, knaphill, Zakisan	2	6	30
+487396	4	0	Pink & Omni (6 Suits)	2021-04-01 — 15:49:36 UTC	ChristopheAF, dobi, knaphill, Zakisan	3	6	30
+487389	4	0	Pink & Omni (6 Suits)	2021-04-01 — 15:26:36 UTC	ChristopheAF, dobi, knaphill, Zakisan	3	6	30
+487381	5	29	Black & Muddy Rainbow (6 Suits)	2021-04-01 — 14:44:41 UTC	asaelr, dobi, jack67889, Lel0uch, sin_faith	1	6	30
+487378	5	0	Black & Muddy Rainbow (6 Suits)	2021-04-01 — 14:25:41 UTC	asaelr, dobi, jack67889, Lel0uch, sin_faith	1	6	30
+487374	5	0	Black & Muddy Rainbow (6 Suits)	2021-04-01 — 14:18:31 UTC	asaelr, dobi, jack67889, Lel0uch, sin_faith	1	6	30
+487371	5	0	Black & Muddy Rainbow (6 Suits)	2021-04-01 — 14:05:58 UTC	asaelr, dobi, jack67889, Lel0uch, sin_faith	1	6	30
+487362	5	20	Black & Rainbow (5 Suits)	2021-04-01 — 13:22:41 UTC	dobi, jack67889, Lel0uch, MarkusKahlsen, melwen	7	5	25
+487356	5	0	Black & Muddy Rainbow (6 Suits)	2021-04-01 — 13:00:08 UTC	dobi, HelanaAshryvr, Lel0uch, MarkusKahlsen, melwen	1	6	30
+487353	3	30	White & Light Pink (6 Suits)	2021-04-01 — 12:37:32 UTC	dobi, MarkusKahlsen, melwen	5	6	30
+487345	6	0	Cocoa Rainbow (6 Suits)	2021-04-01 — 12:11:43 UTC	Aluap, Animex52, catula, dobi, Lanvin, sephiroth	3	6	30
+487228	5	23	Rainbow & Light Pink (5 Suits)	2021-04-01 — 06:07:49 UTC	dobi, indego, louietyj, micerang, newduke	5	5	25
+487220	3	25	Pink & Brown (5 Suits)	2021-04-01 — 05:33:44 UTC	dobi, indego, newduke	22	5	25
+487215	3	0	Pink & Brown (5 Suits)	2021-04-01 — 05:12:48 UTC	dobi, indego, newduke	20	5	25
+486788	3	29	Black & Rainbow (6 Suits)	2021-03-31 — 21:53:12 UTC	dobi, indego, MarkusKahlsen	36	6	30
+486767	3	29	Black & Rainbow (6 Suits)	2021-03-31 — 21:31:59 UTC	dobi, indego, MarkusKahlsen	51	6	30
+486742	2	0	Black & White (6 Suits)	2021-03-31 — 21:05:43 UTC	dobi, indego	49	6	30
+486731	3	15	3 Suits	2021-03-31 — 20:52:06 UTC	dobi, indego, knaphill	39	3	15
+486461	4	26	Black & Light Pink (6 Suits)	2021-03-31 — 17:01:03 UTC	dobi, indego, Lel0uch, MarkusKahlsen	6	6	30
+486273	3	0	Dark Brown (6 Suits)	2021-03-31 — 05:50:44 UTC	bjnh, dobi, newduke	22	6	30
+486267	3	0	Dark Brown (6 Suits)	2021-03-31 — 05:40:43 UTC	bjnh, dobi, newduke	28	6	30
+486265	3	0	Dark Brown (6 Suits)	2021-03-31 — 05:21:39 UTC	bjnh, dobi, newduke	32	6	30
+486257	3	15	Muddy Rainbow (3 Suits)	2021-03-31 — 05:11:00 UTC	bjnh, dobi, newduke	22	3	15
+486232	3	25	White & Omni (5 Suits)	2021-03-31 — 04:17:40 UTC	dobi, HelanaAshryvr, melwen	7	5	25
+486217	4	30	Dual-Color & Prism (6 Suits)	2021-03-31 — 03:56:22 UTC	dobi, HelanaAshryvr, Lel0uch, melwen	2	6	30
+486185	3	25	No Variant	2021-03-31 — 03:25:17 UTC	dobi, ksfortson, PotatoLatte	1291	5	25
+486062	3	0	Dark Pink (6 Suits)	2021-03-31 — 02:15:29 UTC	dobi, qqqq, swineherd	13	6	30
+486043	3	0	Dark Pink (6 Suits)	2021-03-31 — 02:03:30 UTC	dobi, qqqq, swineherd	15	6	30
+486010	3	30	Dark Pink (6 Suits)	2021-03-31 — 01:38:49 UTC	dobi, qqqq, swineherd	17	6	30
+485618	4	23	Brown (5 Suits)	2021-03-30 — 19:02:06 UTC	ADrone, CaitlinSmith, dobi, Kyle	1	5	25
+485604	4	0	Brown (5 Suits)	2021-03-30 — 18:40:45 UTC	ADrone, CaitlinSmith, dobi, Kyle	1	5	25
+485487	6	0	Special Mix (5 Suits)	2021-03-30 — 15:23:20 UTC	ChristopheAF, dobi, melwen, sephiroth, VerySloppyTwo, Zakisan	1	5	25
+485458	3	0	Dark Prism Reversed (5 Suits)	2021-03-30 — 14:48:57 UTC	dobi, sephiroth, Zakisan	2	5	25
+485440	4	0	Up or Down & Prism (6 Suits)	2021-03-30 — 14:31:12 UTC	dobi, robense, sephiroth, will.i.am	4	6	30
+485251	2	27	Gray (6 Suits)	2021-03-30 — 06:21:34 UTC	dobi, Fey	27	6	30
+485247	2	0	Gray (6 Suits)	2021-03-30 — 06:09:58 UTC	dobi, Fey	29	6	30
+485246	2	0	Gray (6 Suits)	2021-03-30 — 06:04:57 UTC	dobi, Fey	29	6	30
+485241	4	0	Up or Down & Light Pink (5 Suits)	2021-03-30 — 05:37:44 UTC	DarkenedOrigins, dobi, newduke, scharkbite	9	5	25
+485235	4	0	Up or Down & Light Pink (5 Suits)	2021-03-30 — 05:16:48 UTC	derekcheah, dobi, newduke, scharkbite	2	5	25
+485233	4	0	Up or Down & Light Pink (5 Suits)	2021-03-30 — 05:14:26 UTC	derekcheah, dobi, newduke, scharkbite	3	5	25
+484862	3	0	Black & Omni (6 Suits)	2021-03-29 — 23:17:39 UTC	dobi, indego, Lanvin	5	6	30
+484634	2	25	Gray Reversed (5 Suits)	2021-03-29 — 19:22:16 UTC	dobi, Kyle	1	5	25
+484629	2	0	Gray Reversed (5 Suits)	2021-03-29 — 19:15:02 UTC	dobi, Kyle	2	5	25
+484628	2	0	Gray Reversed (5 Suits)	2021-03-29 — 19:13:59 UTC	dobi, Kyle	2	5	25
+484627	2	0	Gray Reversed (5 Suits)	2021-03-29 — 19:13:47 UTC	dobi, Kyle	2	5	25
+484621	2	0	Gray Reversed (5 Suits)	2021-03-29 — 19:11:02 UTC	dobi, Kyle	2	5	25
+484402	3	25	Rainbow & White (5 Suits)	2021-03-29 — 15:16:52 UTC	dobi, HelanaAshryvr, Sucubis	14	5	25
+484396	3	0	Rainbow & White (5 Suits)	2021-03-29 — 15:03:13 UTC	dobi, HelanaAshryvr, Sucubis	20	5	25
+484142	5	30	White & Dark Omni (6 Suits)	2021-03-29 — 03:15:35 UTC	derekcheah, dobi, HelanaAshryvr, melwen, wump	1	6	30
+484114	5	29	White & Dark Omni (6 Suits)	2021-03-29 — 02:35:32 UTC	derekcheah, dobi, HelanaAshryvr, melwen, squirrel1988	1	6	30
+484001	3	24	Black (5 Suits)	2021-03-29 — 00:42:26 UTC	dobi, IsabeltheCat, timotree	40	5	25
+483985	3	24	Black (5 Suits)	2021-03-29 — 00:24:39 UTC	dobi, IsabeltheCat, timotree	44	5	25
+483964	5	0	White & Dark Omni (6 Suits)	2021-03-28 — 23:51:02 UTC	dobi, IsabeltheCat, Kyle, melwen, timotree	1	6	30
+483953	4	0	White & Dark Omni (6 Suits)	2021-03-28 — 23:30:11 UTC	dobi, Kyle, melwen, timotree	5	6	30
+483951	5	0	White & Dark Omni (6 Suits)	2021-03-28 — 23:20:02 UTC	dobi, HelanaAshryvr, Lanvin, melwen, timotree	2	6	30
+483941	5	27	White & Dark Omni (6 Suits)	2021-03-28 — 23:04:26 UTC	dobi, HelanaAshryvr, Lanvin, melwen, timotree	3	6	30
+483917	5	0	Dual-Color & Null (6 Suits)	2021-03-28 — 22:40:02 UTC	dobi, HelanaAshryvr, indego, Lanvin, melwen	1	6	30
+483903	3	30	Brown (6 Suits)	2021-03-28 — 22:19:37 UTC	dobi, newduke, Wittvector	11	6	30
+483866	3	0	Brown (6 Suits)	2021-03-28 — 21:48:34 UTC	dobi, newduke, Wittvector	11	6	30
+483819	3	30	Brown (6 Suits)	2021-03-28 — 21:18:09 UTC	dobi, newduke, Wittvector	11	6	30
+483776	3	29	Brown (6 Suits)	2021-03-28 — 20:48:16 UTC	dobi, newduke, Wittvector	11	6	30
+483728	3	30	Brown (6 Suits)	2021-03-28 — 20:16:44 UTC	dobi, newduke, Wittvector	21	6	30
+483673	3	28	Brown (6 Suits)	2021-03-28 — 19:49:50 UTC	dobi, newduke, Wittvector	22	6	30
+483615	3	25	Brown (5 Suits)	2021-03-28 — 18:50:15 UTC	dobi, MarcLovesDogs, newduke	20	5	25
+483583	4	30	White & Brown (6 Suits)	2021-03-28 — 18:21:33 UTC	CaitlinSmith, dobi, Lanvin, rz	6	6	30
+483503	3	29	Brown (6 Suits)	2021-03-28 — 17:06:28 UTC	dobi, Fey, Wittvector	17	6	30
+483493	3	0	Special Mix (5 Suits)	2021-03-28 — 16:50:53 UTC	dobi, Fey, Wittvector	14	5	25
+483484	3	30	Brown (6 Suits)	2021-03-28 — 16:39:44 UTC	dobi, sephiroth, Wittvector	31	6	30
+483458	4	25	Rainbow & Gray (5 Suits)	2021-03-28 — 15:58:39 UTC	dobi, MangoPie, sephiroth, Wittvector	4	5	25
+483444	4	0	Rainbow & Gray (5 Suits)	2021-03-28 — 15:29:21 UTC	dobi, MangoPie, sephiroth, Wittvector	6	5	25
+483280	4	25	White & Muddy Rainbow (5 Suits)	2021-03-28 — 08:28:30 UTC	derekcheah, dobi, newduke, swineherd	3	5	25
+483273	4	0	White & Muddy Rainbow (5 Suits)	2021-03-28 — 08:09:11 UTC	derekcheah, dobi, newduke, swineherd	4	5	25
+483268	4	0	White & Muddy Rainbow (5 Suits)	2021-03-28 — 07:59:47 UTC	derekcheah, dobi, newduke, swineherd	4	5	25
+483266	4	0	White & Muddy Rainbow (5 Suits)	2021-03-28 — 07:56:03 UTC	derekcheah, dobi, newduke, swineherd	3	5	25
+483263	4	0	White & Muddy Rainbow (5 Suits)	2021-03-28 — 07:50:08 UTC	derekcheah, dobi, newduke, swineherd	5	5	25
+483259	4	25	Pink & Prism (5 Suits)	2021-03-28 — 07:39:30 UTC	dobi, newduke, swineherd, Zakisan	5	5	25
+483225	4	30	Up or Down (6 Suits)	2021-03-28 — 06:38:48 UTC	corys, dobi, wortel, xor	40	6	30
+483208	5	0	Up or Down & Prism (6 Suits)	2021-03-28 — 06:10:27 UTC	corys, dobi, Lel0uch, wortel, xor	7	6	30
+483204	4	0	Up or Down & Prism (6 Suits)	2021-03-28 — 05:58:33 UTC	corys, dobi, Lel0uch, xor	13	6	30
+483189	4	30	Muddy Rainbow & Light Pink (6 Suits)	2021-03-28 — 05:36:53 UTC	corys, dobi, Lel0uch, xor	2	6	30
+483137	4	0	Muddy Rainbow & Light Pink (6 Suits)	2021-03-28 — 05:09:22 UTC	corys, dobi, Lel0uch, xor	2	6	30
+482634	6	0	Brown (6 Suits)	2021-03-27 — 21:29:42 UTC	bjnh, Bonja97, ChristopheAF, dobi, fowill, sephiroth	2	6	30
+482324	3	30	Up or Down & Prism (6 Suits)	2021-03-27 — 15:15:47 UTC	ChristopheAF, dobi, ricardodd	13	6	30
+482116	4	19	Dark Pink (5 Suits)	2021-03-27 — 05:50:18 UTC	corys, dobi, voss, xor	20	5	25
+482043	3	0	Clue Starved & Pink (5 Suits)	2021-03-27 — 04:33:14 UTC	dobi, Lel0uch, scharkbite	6	5	25
+482026	4	30	Gray & Cocoa Rainbow (6 Suits)	2021-03-27 — 04:19:15 UTC	dobi, Lanvin, melwen, scharkbite	2	6	30
+482004	4	28	Gray & Cocoa Rainbow (6 Suits)	2021-03-27 — 03:51:15 UTC	dobi, Lanvin, melwen, scharkbite	2	6	30
+481967	4	30	Rainbow-Fives & Prism (6 Suits)	2021-03-27 — 03:28:41 UTC	dobi, Lanvin, melwen, scharkbite	3	6	30
+481939	3	25	Rainbow & Omni (5 Suits)	2021-03-27 — 03:10:53 UTC	dobi, Lanvin, scharkbite	4	5	25
+481852	4	28	Rainbow & Omni (6 Suits)	2021-03-27 — 01:59:07 UTC	aquarelle, dobi, kimbifille, MangoPie	5	6	30
+481812	4	0	Rainbow & Omni (6 Suits)	2021-03-27 — 01:23:15 UTC	aquarelle, dobi, kimbifille, MangoPie	5	6	30
+481787	4	0	Rainbow & Omni (6 Suits)	2021-03-27 — 00:56:35 UTC	aquarelle, dobi, kimbifille, MangoPie	5	6	30
+481736	5	30	Omni (6 Suits)	2021-03-27 — 00:26:38 UTC	aquarelle, dobi, kimbifille, MangoPie, MarcLovesDogs	2	6	30
+481693	4	30	Dark Brown (6 Suits)	2021-03-26 — 23:43:29 UTC	dobi, MangoPie, MarcLovesDogs, Onen	13	6	30
+481673	4	25	Dark Omni (5 Suits)	2021-03-26 — 23:12:08 UTC	ChristopheAF, dobi, MangoPie, wump	4	5	25
+481655	5	30	Pink (6 Suits)	2021-03-26 — 22:43:03 UTC	ChristopheAF, dobi, knaphill, MangoPie, MarkusKahlsen	13	6	30
+481294	5	0	Special Mix (5 Suits)	2021-03-26 — 16:44:33 UTC	dobi, newduke, sephiroth, Wittvector, Zakisan	2	5	25
+481292	5	0	Special Mix (5 Suits)	2021-03-26 — 16:42:13 UTC	dobi, newduke, sephiroth, Wittvector, Zakisan	3	5	25
+481288	2	30	Gray Pink (6 Suits)	2021-03-26 — 16:36:16 UTC	dobi, Kyle	20	6	30
+481282	2	0	Gray Pink (6 Suits)	2021-03-26 — 16:26:39 UTC	dobi, Kyle	19	6	30
+481281	2	0	Gray Pink (6 Suits)	2021-03-26 — 16:25:24 UTC	dobi, Kyle	21	6	30
+481280	2	0	Gray Pink (6 Suits)	2021-03-26 — 16:23:49 UTC	dobi, Kyle	22	6	30
+481276	2	0	Gray Pink (6 Suits)	2021-03-26 — 16:16:22 UTC	dobi, Kyle	22	6	30
+481275	2	28	Gray Pink (6 Suits)	2021-03-26 — 16:16:17 UTC	dobi, Kyle	26	6	30
+481267	2	0	Gray Pink (6 Suits)	2021-03-26 — 16:04:51 UTC	dobi, Kyle	29	6	30
+481265	2	0	Gray Pink (6 Suits)	2021-03-26 — 16:02:45 UTC	dobi, Kyle	30	6	30
+481263	2	0	Gray Pink (6 Suits)	2021-03-26 — 15:59:50 UTC	dobi, Kyle	34	6	30
+481262	2	0	Gray Pink (6 Suits)	2021-03-26 — 15:58:49 UTC	dobi, Kyle	38	6	30
+481254	2	25	Gray (5 Suits)	2021-03-26 — 15:40:41 UTC	Aluap, dobi	58	5	25
+481021	2	0	Dark Pink (6 Suits)	2021-03-26 — 05:33:05 UTC	bjnh, dobi	50	6	30
+481014	2	0	Dark Pink (6 Suits)	2021-03-26 — 05:20:38 UTC	bjnh, dobi	56	6	30
+480974	5	26	Brown & Muddy Rainbow (6 Suits)	2021-03-26 — 04:50:35 UTC	dobi, HelanaAshryvr, kinkajusrevenge, melwen, newduke	3	6	30
+480918	5	0	Rainbow-Fives & Rainbow (5 Suits)	2021-03-26 — 04:10:58 UTC	dobi, FerKeth, HelanaAshryvr, kinkajusrevenge, newduke	1	5	25
+480896	4	0	Brown-Ones & Omni (3 Suits)	2021-03-26 — 03:48:43 UTC	dobi, HelanaAshryvr, kinkajusrevenge, newduke	1	3	15
+480794	4	0	Pink & Prism (5 Suits)	2021-03-26 — 02:15:08 UTC	bjnh, dobi, HelanaAshryvr, swineherd	5	5	25
+480774	4	0	Pink & Prism (5 Suits)	2021-03-26 — 01:51:50 UTC	bjnh, dobi, HelanaAshryvr, swineherd	8	5	25
+480689	4	25	Brown & Prism (5 Suits)	2021-03-26 — 00:22:05 UTC	dobi, Lanvin, MarkusKahlsen, swineherd	1	5	25
+480673	4	0	Brown & Prism (5 Suits)	2021-03-26 — 00:02:31 UTC	dobi, Lanvin, MarkusKahlsen, swineherd	1	5	25
+480121	5	0	White & Dark Prism (6 Suits)	2021-03-25 — 15:29:55 UTC	dobi, HelanaAshryvr, jeff10, robense, Wittvector	1	6	30
+480103	4	0	Prism & Gray Pink (6 Suits)	2021-03-25 — 14:45:52 UTC	dobi, jack67889, Lanvin, Valetta6789	1	6	30
+480098	4	0	Prism & Gray Pink (6 Suits)	2021-03-25 — 14:30:55 UTC	dobi, jack67889, Lanvin, Valetta6789	1	6	30
+480093	3	20	Rainbow (4 Suits)	2021-03-25 — 14:14:30 UTC	dobi, possum, wolfpack	43	4	20
+480071	3	25	White-Ones (5 Suits)	2021-03-25 — 13:32:14 UTC	dobi, sephiroth, wolfpack	20	5	25
+479988	5	29	Rainbow & Brown (6 Suits)	2021-03-25 — 05:56:17 UTC	bjnh, corys, dobi, indego, xor	7	6	30
+479942	2	25	Pink (5 Suits)	2021-03-25 — 04:24:31 UTC	bjnh, dobi	77	5	25
+479739	4	30	Light Pink & Dark Brown (6 Suits)	2021-03-25 — 01:13:41 UTC	dobi, Lel0uch, MangoPie, melwen	1	6	30
+479692	4	0	Muddy Rainbow & Gray Pink (6 Suits)	2021-03-25 — 00:41:30 UTC	dobi, Lanvin, MangoPie, melwen	1	6	30
+479672	4	0	Muddy Rainbow & Gray Pink (6 Suits)	2021-03-25 — 00:21:19 UTC	dobi, Lanvin, MangoPie, melwen	2	6	30
+479372	5	0	Omni (5 Suits)	2021-03-24 — 20:16:28 UTC	CaitlinSmith, dobi, kevincaseytdk1, lotem, Wittvector	2	5	25
+479106	5	0	Special Mix (5 Suits)	2021-03-24 — 15:16:13 UTC	Bonja97, dobi, jeff10, robense, Wittvector	6	5	25
+479090	5	0	Special Mix (5 Suits)	2021-03-24 — 15:01:07 UTC	Bonja97, dobi, jeff10, robense, Wittvector	6	5	25
+478933	4	0	Brown & Dark Omni (5 Suits)	2021-03-24 — 08:36:18 UTC	derekcheah, dobi, kopen, Zakisan	1	5	25
+478928	4	24	Brown & Dark Omni (5 Suits)	2021-03-24 — 08:19:09 UTC	derekcheah, dobi, kopen, Zakisan	1	5	25
+478923	5	0	White & Muddy Rainbow (6 Suits)	2021-03-24 — 07:56:24 UTC	Aluap, derekcheah, dobi, kopen, sephiroth	2	6	30
+478919	5	0	White & Muddy Rainbow (6 Suits)	2021-03-24 — 07:42:04 UTC	Aluap, derekcheah, dobi, kopen, sephiroth	3	6	30
+478845	3	0	Dark Pink (6 Suits)	2021-03-24 — 04:40:38 UTC	dobi, newduke, Onen	8	6	30
+478780	3	0	Rainbow-Ones (5 Suits)	2021-03-24 — 04:02:38 UTC	dobi, kinkajusrevenge, lolthisnotderk	14	5	25
+478480	4	25	Up or Down & Omni (5 Suits)	2021-03-24 — 00:33:57 UTC	dobi, kopen, Lanvin, MangoPie	8	5	25
+478462	3	30	Gray (6 Suits)	2021-03-24 — 00:04:40 UTC	dobi, Lanvin, MangoPie	8	6	30
+478445	6	0	Black (5 Suits)	2021-03-23 — 23:40:23 UTC	dobi, IsabeltheCat, Lanvin, MangoPie, ricardodd, Wittvector	4	5	25
+478434	6	24	Black (5 Suits)	2021-03-23 — 23:23:08 UTC	dobi, IsabeltheCat, Lanvin, MangoPie, ricardodd, Wittvector	9	5	25
+477867	4	22	Rainbow & Dark Pink (5 Suits)	2021-03-23 — 08:45:23 UTC	dobi, indego, Lel0uch, robense	4	5	25
+477862	4	0	Rainbow & Dark Pink (5 Suits)	2021-03-23 — 08:25:33 UTC	dobi, indego, Lel0uch, robense	5	5	25
+477856	5	0	Black & Prism (6 Suits)	2021-03-23 — 08:05:08 UTC	dobi, indego, Lel0uch, newduke, pianoblook	2	6	30
+477851	5	0	Black & Prism (6 Suits)	2021-03-23 — 07:43:39 UTC	dobi, indego, Lel0uch, newduke, pianoblook	2	6	30
+477847	5	0	Black & Prism (6 Suits)	2021-03-23 — 07:30:57 UTC	dobi, indego, Lel0uch, newduke, pianoblook	3	6	30
+477839	5	0	Black & Prism (6 Suits)	2021-03-23 — 07:08:56 UTC	dobi, indego, Lel0uch, newduke, pianoblook	6	6	30
+477761	4	0	Rainbow & Pink (6 Suits)	2021-03-23 — 04:47:38 UTC	dobi, indego, Lel0uch, newduke	5	6	30
+477742	4	25	No Variant	2021-03-23 — 04:38:36 UTC	dobi, indego, NedwardCullen, newduke	55	5	25
+477671	4	22	Dark Prism (5 Suits)	2021-03-23 — 04:04:19 UTC	dobi, indego, kevincaseytdk1, Lanvin	5	5	25
+477662	4	24	Dark Prism (5 Suits)	2021-03-23 — 03:50:50 UTC	dobi, indego, kevincaseytdk1, Lanvin	5	5	25
+477645	2	28	Dark Pink (6 Suits)	2021-03-23 — 03:38:05 UTC	dobi, Lanvin	43	6	30
+477591	4	19	Rainbow-Fives (4 Suits)	2021-03-23 — 02:47:13 UTC	dobi, HelanaAshryvr, Lanvin, timotree	1	4	20
+477383	3	29	Prism (6 Suits)	2021-03-22 — 23:40:09 UTC	dobi, IsabeltheCat, Onen	36	6	30
+477359	3	0	Prism (6 Suits)	2021-03-22 — 23:19:34 UTC	dobi, IsabeltheCat, Onen	45	6	30
+476745	6	25	Light Pink (5 Suits)	2021-03-22 — 07:29:17 UTC	dobi, Floriman, indego, Lel0uch, newduke, sephiroth	6	5	25
+476743	3	22	Black (5 Suits)	2021-03-22 — 07:01:12 UTC	dobi, indego, newduke	10	5	25
+476740	3	23	Black (5 Suits)	2021-03-22 — 06:41:51 UTC	dobi, indego, newduke	10	5	25
+476736	3	0	Black (5 Suits)	2021-03-22 — 06:24:44 UTC	dobi, indego, newduke	10	5	25
+476731	3	0	Black (5 Suits)	2021-03-22 — 06:11:14 UTC	dobi, indego, newduke	11	5	25
+476678	5	29	Brown & Dark Omni (6 Suits)	2021-03-22 — 04:35:24 UTC	derekcheah, dobi, indego, Lel0uch, melwen	1	6	30
+476655	5	30	Prism Reversed (6 Suits)	2021-03-22 — 04:01:39 UTC	derekcheah, dobi, indego, Lel0uch, melwen	3	6	30
+476637	4	0	Dark Omni (6 Suits)	2021-03-22 — 03:36:07 UTC	derekcheah, dobi, indego, Lel0uch	9	6	30
+476602	4	29	Dark Omni (6 Suits)	2021-03-22 — 03:13:58 UTC	derekcheah, dobi, indego, Lel0uch	9	6	30
+475932	3	0	White-Ones & Pink (6 Suits)	2021-03-21 — 17:14:49 UTC	dobi, Lanvin, Valetta6789	2	6	30
+475906	3	22	No Variant	2021-03-21 — 16:30:39 UTC	dancherp, dobi, wump	50	5	25
+475667	5	0	Rainbow & White (5 Suits)	2021-03-21 — 07:54:00 UTC	derekcheah, dobi, Fey, Lel0uch, pianoblook	4	5	25
+475662	5	0	Rainbow & White (5 Suits)	2021-03-21 — 07:44:14 UTC	derekcheah, dobi, Fey, Lel0uch, pianoblook	5	5	25
+475651	5	24	Rainbow & White (5 Suits)	2021-03-21 — 07:24:17 UTC	derekcheah, dobi, Fey, Lel0uch, pianoblook	3	5	25
+475645	5	0	Rainbow & White (5 Suits)	2021-03-21 — 07:03:47 UTC	derekcheah, dobi, Fey, Lel0uch, pianoblook	3	5	25
+475642	4	0	Rainbow & White (6 Suits)	2021-03-21 — 06:46:23 UTC	derekcheah, dobi, Fey, pianoblook	12	6	30
+475639	4	29	Rainbow & White (6 Suits)	2021-03-21 — 06:25:28 UTC	derekcheah, dobi, Fey, pianoblook	23	6	30
+475486	2	0	Dark Pink (5 Suits)	2021-03-21 — 03:57:13 UTC	dobi, Onen	22	5	25
+475473	2	0	Dark Pink (5 Suits)	2021-03-21 — 03:49:57 UTC	dobi, Onen	27	5	25
+475462	2	25	Dark Rainbow (5 Suits)	2021-03-21 — 03:42:01 UTC	dobi, Onen	21	5	25
+475358	4	0	Null (4 Suits)	2021-03-21 — 02:30:20 UTC	dobi, griff77, Lanvin, nkkarpov	7	4	20
+475329	4	0	Null (4 Suits)	2021-03-21 — 02:11:41 UTC	dobi, griff77, Lanvin, nkkarpov	9	4	20
+475310	4	0	Rainbow-Ones & Black (5 Suits)	2021-03-21 — 01:43:16 UTC	dobi, Lanvin, Lel0uch, melwen	1	5	25
+474858	3	28	Brown & Dark Omni (6 Suits)	2021-03-20 — 17:21:52 UTC	dobi, Lel0uch, vEnhance	2	6	30
+474844	3	0	Brown & Dark Omni (6 Suits)	2021-03-20 — 16:55:53 UTC	dobi, Lel0uch, vEnhance	2	6	30
+474822	4	0	Special Mix (5 Suits)	2021-03-20 — 16:01:59 UTC	ChristopheAF, dobi, Lel0uch, sephiroth	3	5	25
+474556	3	0	Black (5 Suits)	2021-03-20 — 05:41:14 UTC	dobi, inde, nwajfromoz	171	5	25
+474542	4	20	Rainbow & White (4 Suits)	2021-03-20 — 05:29:25 UTC	dobi, Fey, inde, nwajfromoz	12	4	20
+474522	4	25	Light Pink (5 Suits)	2021-03-20 — 05:12:30 UTC	dobi, Fey, inde, nwajfromoz	20	5	25
+474015	3	29	Black & White (6 Suits)	2021-03-19 — 22:43:36 UTC	dobi, hakha3, Wittvector	34	6	30
+473975	3	0	Black & White (6 Suits)	2021-03-19 — 22:24:32 UTC	dobi, hakha3, Wittvector	39	6	30
+473428	4	25	Clue Starved & Pink (5 Suits)	2021-03-19 — 06:32:32 UTC	dobi, kevincaseytdk1, Lel0uch, rz	2	5	25
+473420	4	0	Clue Starved & Pink (5 Suits)	2021-03-19 — 06:03:07 UTC	dobi, kevincaseytdk1, Lel0uch, rz	2	5	25
+473405	4	25	Clue Starved (5 Suits)	2021-03-19 — 05:36:19 UTC	dobi, kevincaseytdk1, Lel0uch, rz	19	5	25
+473038	5	0	Black (5 Suits)	2021-03-19 — 01:13:07 UTC	dobi, Doge, griff77, HelanaAshryvr, Lanvin	5	5	25
+473009	5	24	Rainbow & White (5 Suits)	2021-03-19 — 00:47:45 UTC	dobi, HelanaAshryvr, IsabeltheCat, Lanvin, robense	1	5	25
+472499	3	0	Brown (5 Suits)	2021-03-18 — 18:30:55 UTC	Aluap, dobi, hakha3	63	5	25
+472394	4	0	Special Mix (5 Suits)	2021-03-18 — 15:40:46 UTC	dobi, sephiroth, VerySloppyTwo, Wittvector	4	5	25
+472386	4	0	Special Mix (5 Suits)	2021-03-18 — 15:17:36 UTC	dobi, sephiroth, VerySloppyTwo, Wittvector	4	5	25
+472382	3	0	Special Mix (5 Suits)	2021-03-18 — 14:59:22 UTC	dobi, rz, Wittvector	17	5	25
+472263	3	0	Black (5 Suits)	2021-03-18 — 05:56:52 UTC	dobi, newduke, nwajfromoz	12	5	25
+472253	3	0	Black (5 Suits)	2021-03-18 — 05:35:56 UTC	dobi, newduke, nwajfromoz	13	5	25
+472252	3	0	Black (5 Suits)	2021-03-18 — 05:26:14 UTC	dobi, newduke, nwajfromoz	14	5	25
+472241	3	0	Black (5 Suits)	2021-03-18 — 05:08:17 UTC	dobi, newduke, nwajfromoz	17	5	25
+471941	4	15	Pink (3 Suits)	2021-03-17 — 23:55:44 UTC	dobi, Lanvin, rahsosprout, wump	13	3	15
+471924	3	25	Rainbow & Pink (5 Suits)	2021-03-17 — 23:35:35 UTC	dobi, Lanvin, rahsosprout	12	5	25
+471850	2	25	Black (5 Suits)	2021-03-17 — 22:29:32 UTC	dobi, voss	108	5	25
+471834	2	0	Black (5 Suits)	2021-03-17 — 22:20:38 UTC	dobi, voss	115	5	25
+471830	2	0	Black (5 Suits)	2021-03-17 — 22:17:25 UTC	dobi, voss	124	5	25
+471822	2	0	Black (5 Suits)	2021-03-17 — 22:11:25 UTC	dobi, voss	169	5	25
+471782	3	30	Brown (6 Suits)	2021-03-17 — 21:48:21 UTC	dobi, MarkusKahlsen, newduke	7	6	30
+471649	2	0	Gray (6 Suits)	2021-03-17 — 20:55:10 UTC	dobi, jeff10	32	6	30
+471641	2	0	Gray (6 Suits)	2021-03-17 — 20:48:15 UTC	dobi, jeff10	40	6	30
+471638	2	0	Gray (6 Suits)	2021-03-17 — 20:46:27 UTC	dobi, jeff10	41	6	30
+471319	2	0	Up or Down & Prism (6 Suits)	2021-03-17 — 14:58:29 UTC	dobi, Kyle	8	6	30
+471318	2	0	Up or Down & Prism (6 Suits)	2021-03-17 — 14:57:21 UTC	dobi, Kyle	9	6	30
+471317	2	0	Up or Down & Prism (6 Suits)	2021-03-17 — 14:51:34 UTC	dobi, Kyle	11	6	30
+471232	4	25	Omni-Ones (5 Suits)	2021-03-17 — 07:34:56 UTC	bjnh, dobi, newduke, orucsoraihc	9	5	25
+471206	4	0	Pink & Gray (6 Suits)	2021-03-17 — 06:08:53 UTC	dobi, kimbifille, pianoblook, piper	5	6	30
+471135	4	0	Pink & Gray (6 Suits)	2021-03-17 — 05:35:33 UTC	dobi, kimbifille, pianoblook, piper	5	6	30
+471045	5	0	Omni (6 Suits)	2021-03-17 — 05:04:01 UTC	dobi, kimbifille, pianoblook, piper, sjdrodge	2	6	30
+470974	5	0	Omni (6 Suits)	2021-03-17 — 04:32:35 UTC	dobi, kimbifille, pianoblook, piper, sjdrodge	15	6	30
+470953	4	29	Pink & Gray (6 Suits)	2021-03-17 — 04:18:13 UTC	dobi, kimbifille, pianoblook, sjdrodge	5	6	30
+470921	4	25	Rainbow (5 Suits)	2021-03-17 — 03:39:30 UTC	dobi, kimbifille, pianoblook, sjdrodge	3	5	25
+470749	4	26	White & Dark Pink (6 Suits)	2021-03-17 — 01:23:20 UTC	dobi, kevincaseytdk1, kimbifille, pianoblook	5	6	30
+470695	3	0	White & Dark Pink (6 Suits)	2021-03-17 — 00:51:21 UTC	dobi, kevincaseytdk1, pianoblook	5	6	30
+470676	4	0	White & Dark Pink (6 Suits)	2021-03-17 — 00:23:52 UTC	Bot-Fiora, dobi, kevincaseytdk1, robense	5	6	30
+470657	2	20	Dark Rainbow (5 Suits)	2021-03-17 — 00:04:34 UTC	dobi, robense	25	5	25
+470634	2	25	Dark Rainbow (5 Suits)	2021-03-16 — 23:54:15 UTC	dobi, robense	30	5	25
+470221	3	29	Gray (6 Suits)	2021-03-16 — 16:52:07 UTC	dobi, HelanaAshryvr, squirrel1988	36	6	30
+470213	3	0	Gray (6 Suits)	2021-03-16 — 16:39:38 UTC	dobi, HelanaAshryvr, squirrel1988	42	6	30
+470209	3	28	Gray (6 Suits)	2021-03-16 — 16:28:57 UTC	dobi, HelanaAshryvr, squirrel1988	55	6	30
+469730	3	0	No Variant	2021-03-16 — 02:31:07 UTC	dobi, mestrepoke, possum	77	5	25
+469701	3	23	Black (5 Suits)	2021-03-16 — 01:57:48 UTC	dobi, IsabeltheCat, newduke	19	5	25
+469110	4	24	Brown-Ones (5 Suits)	2021-03-15 — 17:20:29 UTC	dobi, flaaffy, Lel0uch, squirrel1988	4	5	25
+469096	4	0	Brown-Ones (5 Suits)	2021-03-15 — 16:59:39 UTC	dobi, flaaffy, Lel0uch, squirrel1988	6	5	25
+468894	3	28	Rainbow & Pink (6 Suits)	2021-03-15 — 09:27:18 UTC	Denchulitas, dobi, sephiroth	39	6	30
+468893	4	0	Pink & Cocoa Rainbow (5 Suits)	2021-03-15 — 09:07:02 UTC	dobi, Lel0uch, sephiroth, VerySloppyTwo	1	5	25
+468892	4	0	Pink & Cocoa Rainbow (5 Suits)	2021-03-15 — 09:03:51 UTC	dobi, Lel0uch, sephiroth, VerySloppyTwo	1	5	25
+468891	4	0	Pink & Cocoa Rainbow (5 Suits)	2021-03-15 — 08:56:25 UTC	dobi, Lel0uch, sephiroth, VerySloppyTwo	2	5	25
+468890	4	0	Light Pink (3 Suits)	2021-03-15 — 08:55:20 UTC	dobi, Lel0uch, sephiroth, VerySloppyTwo	1	3	15
+468889	3	0	White & Dark Omni (5 Suits)	2021-03-15 — 08:53:59 UTC	dobi, possum, sephiroth	3	5	25
+468887	3	0	Pink & Cocoa Rainbow (6 Suits)	2021-03-15 — 08:08:29 UTC	boba, dobi, Lel0uch	2	6	30
+468886	3	0	Pink & Cocoa Rainbow (6 Suits)	2021-03-15 — 08:06:03 UTC	boba, dobi, Lel0uch	2	6	30
+468885	3	0	Pink & Cocoa Rainbow (6 Suits)	2021-03-15 — 07:51:38 UTC	boba, dobi, Lel0uch	5	6	30
+468884	2	0	Pink & Cocoa Rainbow (5 Suits)	2021-03-15 — 07:33:38 UTC	dobi, Lel0uch	1	5	25
+468882	2	0	Pink & Cocoa Rainbow (5 Suits)	2021-03-15 — 07:28:30 UTC	dobi, Lel0uch	1	5	25
+468870	5	30	Black & Omni (6 Suits)	2021-03-15 — 05:58:24 UTC	bjnh, dobi, kevincaseytdk1, Lel0uch, melwen	1	6	30
+468863	5	0	Black & Omni (6 Suits)	2021-03-15 — 05:18:51 UTC	bjnh, dobi, indego, Lel0uch, melwen	1	6	30
+468848	4	23	Black (5 Suits)	2021-03-15 — 04:38:05 UTC	Arcee, Bot-Fiora, dobi, griff77	79	5	25
+468776	2	0	Pink & Omni (6 Suits)	2021-03-15 — 03:10:34 UTC	dobi, StKildaFan	11	6	30
+468753	2	0	Pink & Omni (6 Suits)	2021-03-15 — 02:57:29 UTC	dobi, StKildaFan	12	6	30
+468744	2	0	Pink & Omni (6 Suits)	2021-03-15 — 02:52:58 UTC	dobi, StKildaFan	14	6	30
+468732	6	0	Rainbow & Omni (6 Suits)	2021-03-15 — 02:38:58 UTC	dobi, Lanvin, Lel0uch, melwen, Nitrate2, squirrel1988	1	6	30
+468708	6	0	Rainbow & Omni (6 Suits)	2021-03-15 — 02:17:48 UTC	dobi, Lanvin, Lel0uch, melwen, Nitrate2, squirrel1988	1	6	30
+468680	6	0	Pink & Dark Omni (6 Suits)	2021-03-15 — 01:54:38 UTC	dobi, HelanaAshryvr, indego, Lanvin, melwen, squirrel1988	1	6	30
+468425	2	0	Rainbow & Gray (5 Suits)	2021-03-14 — 22:12:32 UTC	dobi, robense	19	5	25
+468271	5	0	White & Omni (6 Suits)	2021-03-14 — 20:10:31 UTC	dobi, griff77, jeff10, Lanvin, TimeHoodie	3	6	30
+468206	3	24	White-Ones & Gray (5 Suits)	2021-03-14 — 19:24:53 UTC	dobi, Lanvin, VerySloppyTwo	2	5	25
+468186	3	0	White-Ones & Gray (5 Suits)	2021-03-14 — 19:05:55 UTC	dobi, Lanvin, VerySloppyTwo	2	5	25
+468165	4	0	White & Omni (4 Suits)	2021-03-14 — 18:48:55 UTC	Aluap, dobi, Fey, Lanvin	2	4	20
+468153	4	0	White & Omni (4 Suits)	2021-03-14 — 18:34:18 UTC	Aluap, dobi, Fey, Lanvin	2	4	20
+468135	4	0	Rainbow & Prism (5 Suits)	2021-03-14 — 18:16:43 UTC	dobi, Fey, Lanvin, MarcLovesDogs	2	5	25
+468113	3	25	Deceptive-Ones & Brown (5 Suits)	2021-03-14 — 18:01:12 UTC	dobi, Fey, Lanvin	2	5	25
+468029	4	22	White & Brown (5 Suits)	2021-03-14 — 16:21:07 UTC	dobi, MangoPie, narabio, rz	12	5	25
+467844	3	30	Cocoa Rainbow (6 Suits)	2021-03-14 — 07:36:47 UTC	bjnh, dobi, kevincaseytdk1	30	6	30
+466907	2	0	Light Pink (6 Suits)	2021-03-13 — 19:33:17 UTC	dobi, hakha3	40	6	30
+466902	2	0	Light Pink (6 Suits)	2021-03-13 — 19:23:02 UTC	dobi, hakha3	79	6	30
+466890	5	22	Special Mix (5 Suits)	2021-03-13 — 19:00:21 UTC	asaelr, ChristopheAF, dobi, newduke, VerySloppyTwo	3	5	25
+466846	5	24	Black (5 Suits)	2021-03-13 — 18:01:22 UTC	dobi, griff77, Lanvin, orucsoraihc, rz	4	5	25
+466620	5	25	Ambiguous & Rainbow (5 Suits)	2021-03-13 — 08:36:53 UTC	derekcheah, dobi, Lel0uch, qqqq, sin_faith	4	5	25
+466596	5	22	Ambiguous & Rainbow (5 Suits)	2021-03-13 — 07:58:33 UTC	derekcheah, dobi, Lel0uch, newduke, sin_faith	5	5	25
+466581	5	0	Ambiguous & Rainbow (5 Suits)	2021-03-13 — 07:29:08 UTC	derekcheah, dobi, Lel0uch, newduke, sin_faith	5	5	25
+466573	4	0	Ambiguous & Rainbow (5 Suits)	2021-03-13 — 07:18:07 UTC	derekcheah, dobi, Lel0uch, newduke	5	5	25
+466572	3	0	Ambiguous & Rainbow (5 Suits)	2021-03-13 — 07:17:48 UTC	derekcheah, dobi, Lel0uch	13	5	25
+466569	5	0	Black & Omni (6 Suits)	2021-03-13 — 07:11:09 UTC	boba, derekcheah, dobi, Fey, Lel0uch	2	6	30
+466562	5	0	Black & Omni (6 Suits)	2021-03-13 — 07:02:22 UTC	boba, derekcheah, dobi, Fey, Lel0uch	3	6	30
+466560	5	0	Ambiguous & Pink (5 Suits)	2021-03-13 — 06:59:05 UTC	boba, derekcheah, dobi, Fey, Lel0uch	2	5	25
+466250	4	30	Rainbow & Dark Pink (6 Suits)	2021-03-13 — 02:03:39 UTC	dobi, qqqq, rz, wump	4	6	30
+466209	4	0	Rainbow & Dark Pink (6 Suits)	2021-03-13 — 01:41:40 UTC	dobi, qqqq, rz, wump	8	6	30
+465441	4	30	6 Suits	2021-03-12 — 05:32:04 UTC	dobi, HelanaAshryvr, squirrel1988, tonic	151	6	30
+465241	5	25	Rainbow & Muddy Rainbow (5 Suits)	2021-03-12 — 03:22:12 UTC	derekcheah, dobi, Lel0uch, melwen, TimeHoodie	2	5	25
+465230	5	0	Rainbow & Muddy Rainbow (5 Suits)	2021-03-12 — 02:57:04 UTC	derekcheah, dobi, Lel0uch, melwen, TimeHoodie	2	5	25
+465220	5	28	Pink & Cocoa Rainbow (6 Suits)	2021-03-12 — 02:39:25 UTC	dobi, Lel0uch, melwen, squirrel1988, TimeHoodie	1	6	30
+465178	5	0	Pink & Cocoa Rainbow (6 Suits)	2021-03-12 — 02:05:37 UTC	dobi, Lel0uch, melwen, squirrel1988, TimeHoodie	1	6	30
+465148	2	0	Brown & Dark Rainbow (5 Suits)	2021-03-12 — 01:37:19 UTC	dobi, Lel0uch	6	5	25
+465139	2	0	Brown & Dark Rainbow (5 Suits)	2021-03-12 — 01:25:22 UTC	dobi, Lel0uch	7	5	25
+465085	4	23	Black & Rainbow (5 Suits)	2021-03-11 — 23:40:39 UTC	dobi, MarkusKahlsen, Nitrate, Syrah	9	5	25
+464667	5	0	Special Mix (5 Suits)	2021-03-11 — 15:56:16 UTC	Aluap, dobi, MarkusKahlsen, sephiroth, Wittvector	3	5	25
+464534	4	20	Omni & Light Pink (4 Suits)	2021-03-11 — 10:51:42 UTC	dobi, kopen, Lanvin, TimeHoodie	1	4	20
+464522	5	30	White-Ones & Brown (6 Suits)	2021-03-11 — 10:26:33 UTC	dobi, knaphill, kopen, Lanvin, TimeHoodie	2	6	30
+464515	5	0	White-Ones & Brown (6 Suits)	2021-03-11 — 10:04:06 UTC	dobi, knaphill, kopen, Lanvin, TimeHoodie	2	6	30
+464499	3	0	Up or Down (5 Suits)	2021-03-11 — 09:40:56 UTC	dobi, knaphill, swineherd	57	5	25
+464482	2	25	Rainbow (5 Suits)	2021-03-11 — 09:15:34 UTC	dobi, eliclax	248	5	25
+464468	5	30	Pink & Dark Omni (6 Suits)	2021-03-11 — 08:42:18 UTC	derekcheah, dobi, indego, Lel0uch, sin_faith	2	6	30
+464462	5	0	Pink & Dark Omni (6 Suits)	2021-03-11 — 08:22:00 UTC	derekcheah, dobi, indego, Lel0uch, sin_faith	2	6	30
+464459	5	0	Pink & Dark Omni (6 Suits)	2021-03-11 — 08:07:10 UTC	derekcheah, dobi, indego, Lel0uch, sin_faith	2	6	30
+464455	5	0	Pink & Dark Omni (6 Suits)	2021-03-11 — 07:48:02 UTC	derekcheah, dobi, indego, Lel0uch, sin_faith	2	6	30
+464444	5	30	Black & Brown (6 Suits)	2021-03-11 — 07:22:26 UTC	dobi, indego, Lel0uch, newduke, sin_faith	6	6	30
+464436	4	0	Brown & Dark Rainbow (5 Suits)	2021-03-11 — 06:58:08 UTC	derekcheah, dobi, Lel0uch, newduke	4	5	25
+464435	3	0	Brown & Dark Rainbow (5 Suits)	2021-03-11 — 06:51:12 UTC	derekcheah, dobi, Lel0uch	4	5	25
+464431	4	0	Black (6 Suits)	2021-03-11 — 06:41:24 UTC	derekcheah, dobi, indego, newduke	90	6	30
+464425	4	0	Black (6 Suits)	2021-03-11 — 06:24:20 UTC	derekcheah, dobi, indego, newduke	91	6	30
+464421	5	0	Black & Pink (6 Suits)	2021-03-11 — 06:08:19 UTC	derekcheah, dobi, Fey, MarcLovesDogs, newduke	4	6	30
+464415	5	0	Black & White (6 Suits)	2021-03-11 — 05:57:49 UTC	derekcheah, dobi, Fey, MarcLovesDogs, newduke	10	6	30
+464408	4	23	Prism & Cocoa Rainbow (5 Suits)	2021-03-11 — 05:41:10 UTC	bjnh, dobi, newduke, wump	1	5	25
+464375	4	18	Light-Pink-Fives & Omni (4 Suits)	2021-03-11 — 05:11:56 UTC	bjnh, dobi, newduke, wump	1	4	20
+464352	2	23	Black (5 Suits)	2021-03-11 — 04:53:43 UTC	bjnh, dobi	244	5	25
+464170	3	24	Dark Rainbow (6 Suits)	2021-03-11 — 01:21:02 UTC	dobi, duckless, kevincaseytdk1	53	6	30
+464153	3	0	Dark Rainbow (6 Suits)	2021-03-11 — 01:00:28 UTC	dobi, duckless, kevincaseytdk1	91	6	30
+464141	2	18	Pink (5 Suits)	2021-03-11 — 00:45:18 UTC	dobi, kevincaseytdk1	88	5	25
+463815	3	0	White & Prism (6 Suits)	2021-03-10 — 19:57:00 UTC	Denchulitas, dobi, sephiroth	3	6	30
+463656	2	30	White & Brown (6 Suits)	2021-03-10 — 16:24:33 UTC	dobi, rachyrules	21	6	30
+463651	2	0	White & Brown (6 Suits)	2021-03-10 — 16:09:27 UTC	dobi, rachyrules	27	6	30
+463634	2	15	Brown (3 Suits)	2021-03-10 — 15:56:39 UTC	dobi, rachyrules	47	3	15
+463450	2	30	Dark Brown (6 Suits)	2021-03-10 — 09:02:34 UTC	dobi, Lel0uch	35	6	30
+463448	2	0	Dark Brown (6 Suits)	2021-03-10 — 08:52:53 UTC	dobi, Lel0uch	46	6	30
+463444	2	0	Black & White (6 Suits)	2021-03-10 — 08:45:32 UTC	dobi, Lel0uch	12	6	30
+463443	2	29	Black & White (6 Suits)	2021-03-10 — 08:41:19 UTC	dobi, Lel0uch	16	6	30
+463409	3	0	Muddy-Rainbow-Ones & Dark Omni (5 Suits)	2021-03-10 — 07:18:05 UTC	dobi, newduke, possum	1	5	25
+463313	2	21	Gray (5 Suits)	2021-03-10 — 05:08:46 UTC	dobi, eliclax	66	5	25
+463300	2	24	Gray (5 Suits)	2021-03-10 — 04:55:58 UTC	dobi, eliclax	79	5	25
+463161	3	29	Brown (6 Suits)	2021-03-10 — 02:45:01 UTC	dobi, HelanaAshryvr, Lanvin	52	6	30
+463135	2	22	White & Dark Rainbow (5 Suits)	2021-03-10 — 02:23:43 UTC	dobi, HelanaAshryvr	6	5	25
+463126	2	0	White & Dark Rainbow (5 Suits)	2021-03-10 — 02:15:38 UTC	dobi, HelanaAshryvr	6	5	25
+463111	2	22	White & Dark Rainbow (5 Suits)	2021-03-10 — 02:03:41 UTC	dobi, HelanaAshryvr	9	5	25
+463076	4	0	Cocoa Rainbow (5 Suits)	2021-03-10 — 01:31:35 UTC	dobi, HelanaAshryvr, nkkarpov, rahsosprout	15	5	25
+462819	4	0	Alternating Clues & Omni (3 Suits)	2021-03-09 — 21:02:47 UTC	dobi, indego, knaphill, newduke	1	3	15
+462781	4	13	Alternating Clues & Omni (3 Suits)	2021-03-09 — 20:41:52 UTC	dobi, indego, knaphill, newduke	1	3	15
+462491	4	0	Null (4 Suits)	2021-03-09 — 17:22:02 UTC	dobi, robense, TimeHoodie, Wittvector	7	4	20
+462425	5	28	Pink & Dark Omni (6 Suits)	2021-03-09 — 16:09:49 UTC	ChristopheAF, dobi, Lel0uch, robense, squirrel1988	2	6	30
+462413	5	0	Pink & Dark Omni (6 Suits)	2021-03-09 — 15:42:59 UTC	dobi, eliclax, Lel0uch, melwen, Nitrate2	1	6	30
+462224	2	25	White (5 Suits)	2021-03-09 — 06:45:28 UTC	dobi, indego	123	5	25
+462203	5	0	Rainbow (6 Suits)	2021-03-09 — 06:16:57 UTC	BraydonM, dobi, Fireheart, kimbifille, micerang	6	6	30
+462176	5	0	Rainbow (5 Suits)	2021-03-09 — 05:46:36 UTC	BraydonM, dobi, Fireheart, indego, kimbifille	11	5	25
+462101	5	0	Alternating Clues & Omni (5 Suits)	2021-03-09 — 04:16:43 UTC	Bot-Fiora, dobi, griff77, newduke, possum	1	5	25
+462093	2	0	Dark Brown (5 Suits)	2021-03-09 — 03:58:22 UTC	bjnh, dobi	55	5	25
+461986	6	0	Pink & Dark Omni (6 Suits)	2021-03-09 — 01:43:10 UTC	Bonja97, dobi, HelanaAshryvr, Lanvin, melwen, squirrel1988	1	6	30
+461977	5	0	Pink & Dark Omni (6 Suits)	2021-03-09 — 01:17:03 UTC	dobi, HelanaAshryvr, Lanvin, melwen, squirrel1988	1	6	30
+461974	5	0	Pink & Dark Omni (6 Suits)	2021-03-09 — 01:12:38 UTC	dobi, HelanaAshryvr, Lanvin, melwen, squirrel1988	1	6	30
+461955	5	0	Pink & Dark Omni (6 Suits)	2021-03-09 — 01:00:05 UTC	dobi, HelanaAshryvr, Lanvin, melwen, squirrel1988	1	6	30
+461609	4	25	Pink-Fives & Dark Prism (6 Suits)	2021-03-08 — 20:11:22 UTC	dobi, Lanvin, TimeHoodie, VerySloppyTwo	1	6	30
+461478	3	25	Rainbow (5 Suits)	2021-03-08 — 16:51:35 UTC	boba, dobi, squirrel1988	135	5	25
+461214	4	28	Pink & Dark Omni (6 Suits)	2021-03-08 — 08:05:29 UTC	bjnh, dobi, indego, pianoblook	4	6	30
+461205	5	0	Pink & Dark Omni (6 Suits)	2021-03-08 — 07:27:22 UTC	bjnh, dobi, indego, Lel0uch, pianoblook	2	6	30
+461202	5	0	Pink & Dark Omni (6 Suits)	2021-03-08 — 07:09:04 UTC	bjnh, dobi, indego, Lel0uch, pianoblook	2	6	30
+461193	5	0	Pink & Gray (6 Suits)	2021-03-08 — 06:38:43 UTC	bjnh, colton, dobi, indego, Lel0uch	3	6	30
+461175	2	27	Gray (6 Suits)	2021-03-08 — 06:07:29 UTC	dobi, indego	45	6	30
+461164	2	0	Gray (6 Suits)	2021-03-08 — 05:53:29 UTC	dobi, indego	55	6	30
+461158	2	0	Gray (6 Suits)	2021-03-08 — 05:48:08 UTC	dobi, indego	59	6	30
+461149	2	0	Gray (6 Suits)	2021-03-08 — 05:36:20 UTC	dobi, indego	74	6	30
+461140	2	30	6 Suits	2021-03-08 — 05:25:02 UTC	dobi, indego	444	6	30
+461132	2	0	6 Suits	2021-03-08 — 05:08:24 UTC	dobi, indego	593	6	30
+461117	2	25	No Variant	2021-03-08 — 04:52:02 UTC	dobi, skyblueexo	1532	5	25
+460169	3	26	Black & White (6 Suits)	2021-03-07 — 16:33:02 UTC	Denchulitas, dobi, wump	19	6	30
+459896	4	30	Dark Prism (6 Suits)	2021-03-07 — 06:44:40 UTC	colton, dobi, Fey, micerang	14	6	30
+459840	6	0	Pink & Dark Omni (6 Suits)	2021-03-07 — 05:29:13 UTC	Bonja97, dobi, HelanaAshryvr, Lel0uch, melwen, squirrel1988	1	6	30
+459824	6	0	Pink & Dark Omni (6 Suits)	2021-03-07 — 05:06:01 UTC	Bonja97, dobi, HelanaAshryvr, Lel0uch, melwen, squirrel1988	1	6	30
+458665	4	23	Rainbow & White (5 Suits)	2021-03-06 — 06:37:37 UTC	dobi, nwajfromoz, Onen, orucsoraihc	12	5	25
+458640	4	0	Rainbow & White (5 Suits)	2021-03-06 — 06:16:24 UTC	dobi, nwajfromoz, Onen, orucsoraihc	17	5	25
+458253	3	25	Dark Rainbow (6 Suits)	2021-03-06 — 01:14:27 UTC	avanderwalde, dobi, nkkarpov	41	6	30
+458033	3	30	Brown-Ones & Dark Prism (6 Suits)	2021-03-05 — 22:11:17 UTC	dobi, Lanvin, rz	2	6	30
+458001	3	0	Gray Reversed (6 Suits)	2021-03-05 — 21:37:15 UTC	dobi, duckless, Kyle	4	6	30
+457986	3	0	Gray Reversed (6 Suits)	2021-03-05 — 21:29:52 UTC	dobi, duckless, Kyle	6	6	30
+457977	2	0	Null (6 Suits)	2021-03-05 — 21:20:58 UTC	dobi, Kyle	7	6	30
+457835	4	0	Rainbow & Gray (5 Suits)	2021-03-05 — 19:44:44 UTC	dobi, Lanvin, lolthisnotderk, VerySloppyTwo	4	5	25
+457452	2	0	Gray (5 Suits)	2021-03-05 — 08:59:29 UTC	dobi, robense	25	5	25
+457451	2	23	Gray (5 Suits)	2021-03-05 — 08:58:36 UTC	dobi, robense	29	5	25
+457440	4	27	Rainbow & Gray Pink (6 Suits)	2021-03-05 — 08:19:44 UTC	dobi, Lel0uch, qqqq, sephiroth	3	6	30
+457428	4	0	Rainbow & Gray Pink (6 Suits)	2021-03-05 — 07:48:01 UTC	dobi, Lel0uch, qqqq, sephiroth	4	6	30
+457422	4	0	Rainbow & Gray Pink (6 Suits)	2021-03-05 — 07:31:46 UTC	dobi, Lel0uch, qqqq, sephiroth	5	6	30
+457415	4	0	Rainbow & Gray Pink (6 Suits)	2021-03-05 — 07:17:21 UTC	dobi, Fey, Lel0uch, sephiroth	5	6	30
+457414	3	0	Rainbow & Gray Pink (5 Suits)	2021-03-05 — 07:14:04 UTC	dobi, Fey, Lel0uch	2	5	25
+457412	3	0	Rainbow & Gray Pink (5 Suits)	2021-03-05 — 07:12:30 UTC	dobi, Fey, Lel0uch	2	5	25
+457408	3	0	Rainbow & Gray Pink (5 Suits)	2021-03-05 — 07:06:20 UTC	dobi, Fey, Lel0uch	2	5	25
+457404	3	21	Rainbow & Gray Pink (5 Suits)	2021-03-05 — 07:00:01 UTC	dobi, Fey, Lel0uch	2	5	25
+457082	3	25	Cocoa Rainbow (5 Suits)	2021-03-05 — 02:02:27 UTC	dobi, newduke, rz	22	5	25
+456989	4	18	Rainbow-Fives & Dark Rainbow (5 Suits)	2021-03-05 — 01:05:29 UTC	dobi, Lanvin, newduke, rz	1	5	25
+456844	6	27	Pink & Dark Omni (6 Suits)	2021-03-04 — 23:28:28 UTC	ChristopheAF, dobi, lolthisnotderk, MarkusKahlsen, melwen, scharkbite	1	6	30
+456717	5	0	6 Suits	2021-03-04 — 21:43:36 UTC	ChristopheAF, dobi, flaaffy, MangoPie, melwen	9	6	30
+456659	3	15	Null (3 Suits)	2021-03-04 — 20:43:52 UTC	dobi, MangoPie, Wittvector	11	3	15
+456643	3	0	Null (3 Suits)	2021-03-04 — 20:36:09 UTC	dobi, MangoPie, Wittvector	11	3	15
+456216	4	0	Rainbow & Omni (5 Suits)	2021-03-04 — 09:03:35 UTC	dobi, indego, macanek, robense	9	5	25
+455648	4	0	Rainbow-Ones & Black (6 Suits)	2021-03-03 — 22:19:21 UTC	dobi, kevincaseytdk1, Lanvin, MangoPie	2	6	30
+455630	5	0	Light-Pink-Ones & Light Pink (4 Suits)	2021-03-03 — 22:05:40 UTC	dobi, kevincaseytdk1, Lanvin, MangoPie, robense	1	4	20
+455621	5	0	Light-Pink-Ones & Light Pink (4 Suits)	2021-03-03 — 21:58:00 UTC	dobi, kevincaseytdk1, Lanvin, MangoPie, robense	1	4	20
+455570	5	0	Muddy-Rainbow-Ones & Black (5 Suits)	2021-03-03 — 20:58:17 UTC	dobi, jeff10, MangoPie, newduke, scharkbite	2	5	25
+455538	3	22	Pink & Dark Rainbow (5 Suits)	2021-03-03 — 20:13:35 UTC	bjnh, dobi, robense	6	5	25
+455399	3	0	Light Pink (6 Suits)	2021-03-03 — 18:33:29 UTC	Bonja97, dobi, MangoPie	14	6	30
+455380	4	0	Gray (6 Suits)	2021-03-03 — 18:22:07 UTC	Bonja97, dobi, Lel0uch, MangoPie	5	6	30
+455354	4	30	Rainbow & Prism (6 Suits)	2021-03-03 — 17:29:58 UTC	dobi, Fey, kinkajusrevenge, Wittvector	16	6	30
+455123	4	28	Black & White (6 Suits)	2021-03-03 — 07:51:35 UTC	dobi, kevincaseytdk1, ksfortson, MarcLovesDogs	22	6	30
+455087	3	0	Cocoa Rainbow (5 Suits)	2021-03-03 — 05:57:02 UTC	dobi, indego, methmatics	23	5	25
+455020	5	30	Black & Pink (6 Suits)	2021-03-03 — 05:05:03 UTC	bjnh, dobi, HelanaAshryvr, Lel0uch, squirrel1988	1	6	30
+454967	3	28	Black & White (6 Suits)	2021-03-03 — 04:32:31 UTC	dobi, HelanaAshryvr, squirrel1988	25	6	30
+454940	3	0	Black & White (6 Suits)	2021-03-03 — 04:11:18 UTC	dobi, HelanaAshryvr, squirrel1988	28	6	30
+454855	3	0	Rainbow & Dark Omni (5 Suits)	2021-03-03 — 03:17:48 UTC	aquarelle, dobi, jeff10	2	5	25
+454833	3	0	Rainbow & Dark Omni (5 Suits)	2021-03-03 — 02:58:40 UTC	aquarelle, dobi, jeff10	3	5	25
+454772	6	0	Dual-Color (6 Suits)	2021-03-03 — 01:57:56 UTC	dobi, griff77, indego, IsabeltheCat, Lanvin, Nitrate	2	6	30
+454762	6	20	White-Ones & Brown (4 Suits)	2021-03-03 — 01:41:07 UTC	aquarelle, dobi, indego, Lanvin, Nitrate, wolfpack	1	4	20
+454424	3	0	Brown & Dark Rainbow (5 Suits)	2021-03-02 — 20:55:11 UTC	dobi, duckless, robense	5	5	25
+454378	4	23	Special Mix (5 Suits)	2021-03-02 — 20:26:35 UTC	ChristopheAF, dobi, Lanvin, Wittvector	5	5	25
+454184	3	27	Black & Pink (6 Suits)	2021-03-02 — 15:25:11 UTC	dobi, MangoPie, TimeHoodie	31	6	30
+453965	2	24	Black & Brown (5 Suits)	2021-03-02 — 06:16:58 UTC	dobi, indego	27	5	25
+453918	4	0	Pink & Gray (5 Suits)	2021-03-02 — 05:09:24 UTC	dobi, indego, kimbifille, TimeHoodie	3	5	25
+453889	4	24	Pink & Gray (5 Suits)	2021-03-02 — 04:44:43 UTC	dobi, indego, kimbifille, TimeHoodie	4	5	25
+453861	4	0	Pink & Gray (5 Suits)	2021-03-02 — 04:15:58 UTC	dobi, indego, kimbifille, TimeHoodie	5	5	25
+453846	4	0	Pink & Gray (5 Suits)	2021-03-02 — 04:03:17 UTC	dobi, indego, kimbifille, TimeHoodie	5	5	25
+453750	6	22	Black & Pink (5 Suits)	2021-03-02 — 02:39:53 UTC	dobi, HelanaAshryvr, Lanvin, melwen, orucsoraihc, rahsosprout	1	5	25
+453726	6	22	Black & Pink (5 Suits)	2021-03-02 — 02:15:26 UTC	dobi, HelanaAshryvr, Lanvin, melwen, orucsoraihc, rahsosprout	1	5	25
+453709	6	0	Black & Pink (5 Suits)	2021-03-02 — 01:59:06 UTC	dobi, HelanaAshryvr, Lanvin, melwen, orucsoraihc, rahsosprout	1	5	25
+453651	4	0	Dark Brown (6 Suits)	2021-03-02 — 00:51:32 UTC	dobi, griff77, IsabeltheCat, MarkusKahlsen	15	6	30
+453641	4	0	Dark Brown (6 Suits)	2021-03-02 — 00:35:47 UTC	dobi, griff77, IsabeltheCat, MarkusKahlsen	14	6	30
+453623	3	28	Black & Brown (6 Suits)	2021-03-02 — 00:14:17 UTC	dobi, IsabeltheCat, MarkusKahlsen	23	6	30
+453523	5	0	Special Mix (5 Suits)	2021-03-01 — 23:02:44 UTC	ChristopheAF, dobi, Floriman, Lanvin, scharkbite	3	5	25
+453510	5	0	Special Mix (5 Suits)	2021-03-01 — 22:52:34 UTC	ChristopheAF, dobi, Floriman, Lanvin, scharkbite	3	5	25
+453425	4	28	Dark Pink (6 Suits)	2021-03-01 — 21:38:04 UTC	ADrone, dobi, jeff10, TimeHoodie	3	6	30
+453393	3	25	Null-Ones & Dark Pink (5 Suits)	2021-03-01 — 21:05:32 UTC	ADrone, dobi, TimeHoodie	1	5	25
+453312	4	0	Muddy-Rainbow-Fives & Omni (5 Suits)	2021-03-01 — 20:00:28 UTC	dobi, HelanaAshryvr, Lanvin, squirrel1988	1	5	25
+453190	3	0	Light Pink (5 Suits)	2021-03-01 — 17:32:29 UTC	asaelr, dobi, duckless	5	5	25
+453186	3	0	Light Pink (5 Suits)	2021-03-01 — 17:30:08 UTC	asaelr, dobi, duckless	6	5	25
+453172	3	0	Light Pink (5 Suits)	2021-03-01 — 17:19:37 UTC	asaelr, dobi, duckless	13	5	25
+453165	3	0	Light Pink (5 Suits)	2021-03-01 — 17:11:10 UTC	asaelr, dobi, duckless	23	5	25
+453161	3	25	Prism (5 Suits)	2021-03-01 — 16:59:31 UTC	dobi, Fey, MathNoob	2	5	25
+453154	4	0	Prism (5 Suits)	2021-03-01 — 16:42:35 UTC	dobi, Fey, MarkusKahlsen, MathNoob	4	5	25
+453110	4	0	White (6 Suits)	2021-03-01 — 15:36:41 UTC	ChristopheAF, dobi, HelanaAshryvr, squirrel1988	16	6	30
+453109	4	0	White (6 Suits)	2021-03-01 — 15:26:02 UTC	ChristopheAF, dobi, HelanaAshryvr, squirrel1988	20	6	30
+452931	4	26	White & Brown (6 Suits)	2021-03-01 — 07:25:38 UTC	dobi, Lel0uch, louietyj, TimeHoodie	9	6	30
+452920	3	0	Black & Brown (6 Suits)	2021-03-01 — 06:57:30 UTC	dobi, Onen, TimeHoodie	10	6	30
+452909	3	0	Black & Brown (6 Suits)	2021-03-01 — 06:38:56 UTC	dobi, Onen, TimeHoodie	13	6	30
+452904	3	0	Black & Brown (6 Suits)	2021-03-01 — 06:33:03 UTC	dobi, Onen, TimeHoodie	13	6	30
+452743	3	24	Black (5 Suits)	2021-03-01 — 03:43:44 UTC	dobi, IsabeltheCat, orucsoraihc	134	5	25
+452662	4	24	Up or Down (5 Suits)	2021-03-01 — 02:38:23 UTC	bjnh, dobi, Nitrate, rz	13	5	25
+452607	3	0	White-Ones & Null (6 Suits)	2021-03-01 — 02:04:30 UTC	dobi, Dr_Kakashi, indego	2	6	30
+452590	3	0	White-Ones & Null (6 Suits)	2021-03-01 — 01:46:10 UTC	dobi, Dr_Kakashi, indego	2	6	30
+452578	3	0	White-Ones & Null (6 Suits)	2021-03-01 — 01:33:57 UTC	dobi, Dr_Kakashi, indego	3	6	30
+452570	3	0	White-Ones & Null (6 Suits)	2021-03-01 — 01:20:32 UTC	dobi, Dr_Kakashi, indego	4	6	30
+452545	3	20	Muddy Rainbow & Prism (4 Suits)	2021-03-01 — 01:02:13 UTC	dobi, Dr_Kakashi, indego	2	4	20
+452371	4	25	Pink & White (5 Suits)	2021-02-28 — 22:26:36 UTC	asaelr, dobi, orucsoraihc, swineherd	11	5	25
+451881	5	0	Gray Pink (6 Suits)	2021-02-28 — 12:30:47 UTC	4head, dobi, indego, Lanvin, sin_faith	3	6	30
+451850	5	0	Black & Pink (6 Suits)	2021-02-28 — 10:37:02 UTC	derekcheah, dobi, indego, Lel0uch, louietyj	1	6	30
+451845	5	0	Black & Pink (6 Suits)	2021-02-28 — 10:06:35 UTC	boba, derekcheah, dobi, indego, Lel0uch	1	6	30
+451843	5	0	Black & Pink (6 Suits)	2021-02-28 — 09:55:58 UTC	boba, derekcheah, dobi, indego, Lel0uch	1	6	30
+451836	3	25	Rainbow & Dark Brown (5 Suits)	2021-02-28 — 09:28:26 UTC	derekcheah, dobi, Lel0uch	1	5	25
+451832	3	0	Rainbow & Dark Brown (5 Suits)	2021-02-28 — 09:12:19 UTC	derekcheah, dobi, Lel0uch	1	5	25
+451830	3	0	Rainbow & Dark Brown (5 Suits)	2021-02-28 — 08:55:12 UTC	derekcheah, dobi, Lel0uch	1	5	25
+451825	3	0	Rainbow & Dark Brown (5 Suits)	2021-02-28 — 08:39:11 UTC	derekcheah, dobi, Lel0uch	1	5	25
+451823	3	0	Rainbow & Dark Brown (5 Suits)	2021-02-28 — 08:30:39 UTC	derekcheah, dobi, Lel0uch	1	5	25
+451820	3	0	Rainbow & Dark Brown (5 Suits)	2021-02-28 — 08:19:36 UTC	derekcheah, dobi, Lel0uch	1	5	25
+451815	3	0	Rainbow & Dark Brown (5 Suits)	2021-02-28 — 08:05:06 UTC	derekcheah, dobi, Lel0uch	1	5	25
+451733	4	0	Rainbow & Dark Prism (5 Suits)	2021-02-28 — 06:09:06 UTC	derekcheah, dobi, indego, micerang	5	5	25
+451713	4	30	Pink & Muddy Rainbow (6 Suits)	2021-02-28 — 05:46:16 UTC	derekcheah, dobi, indego, will.i.am	1	6	30
+451690	4	0	Pink & Muddy Rainbow (6 Suits)	2021-02-28 — 05:21:56 UTC	derekcheah, dobi, indego, will.i.am	2	6	30
+451683	4	0	Pink & Muddy Rainbow (6 Suits)	2021-02-28 — 05:16:29 UTC	derekcheah, dobi, indego, will.i.am	2	6	30
+451670	4	0	Pink & Muddy Rainbow (6 Suits)	2021-02-28 — 05:04:44 UTC	derekcheah, dobi, indego, will.i.am	3	6	30
+451661	4	0	Pink & Muddy Rainbow (5 Suits)	2021-02-28 — 04:54:10 UTC	derekcheah, dobi, indego, will.i.am	1	5	25
+451653	3	0	Pink & Muddy Rainbow (6 Suits)	2021-02-28 — 04:51:27 UTC	derekcheah, dobi, will.i.am	7	6	30
+451621	5	30	Pink & Prism (6 Suits)	2021-02-28 — 04:30:18 UTC	bjnh, boba, dobi, Lel0uch, squirrel1988	2	6	30
+451572	4	25	Pink & Muddy Rainbow (5 Suits)	2021-02-28 — 04:00:04 UTC	derekcheah, dobi, orucsoraihc, swineherd	1	5	25
+451542	3	0	Pink & Muddy Rainbow (6 Suits)	2021-02-28 — 03:42:41 UTC	derekcheah, dobi, orucsoraihc	5	6	30
+451510	5	21	Rainbow & Dark Prism (5 Suits)	2021-02-28 — 03:22:56 UTC	ADrone, dobi, kimbifille, orucsoraihc, TimeHoodie	3	5	25
+451468	5	0	Rainbow & Dark Prism (5 Suits)	2021-02-28 — 02:54:51 UTC	ADrone, dobi, kimbifille, orucsoraihc, TimeHoodie	3	5	25
+451443	3	0	Rainbow & Dark Prism (5 Suits)	2021-02-28 — 02:30:36 UTC	ADrone, dobi, TimeHoodie	3	5	25
+451278	4	25	Black & White (5 Suits)	2021-02-27 — 23:16:56 UTC	bjnh, derekcheah, dobi, MarkusKahlsen	7	5	25
+451244	5	25	Pink & Muddy Rainbow (5 Suits)	2021-02-27 — 22:57:54 UTC	Bonja97, derekcheah, dobi, hakha3, MarkusKahlsen	4	5	25
+451228	4	21	Black & White (5 Suits)	2021-02-27 — 22:36:51 UTC	Bonja97, dobi, hakha3, MarkusKahlsen	16	5	25
+451132	3	0	Special Mix (5 Suits)	2021-02-27 — 21:03:45 UTC	ChristopheAF, dobi, newduke	2	5	25
+450941	4	20	Rainbow-Ones & Pink (4 Suits)	2021-02-27 — 18:01:59 UTC	dobi, griff77, hakha3, jeff10	4	4	20
+450919	3	25	Black & Brown (5 Suits)	2021-02-27 — 17:19:30 UTC	dobi, hakha3, Lel0uch	16	5	25
+450569	4	27	Brown & Prism (6 Suits)	2021-02-27 — 05:13:55 UTC	dobi, Lel0uch, melwen, scharkbite	5	6	30
+450526	5	0	Pink & Prism (6 Suits)	2021-02-27 — 04:40:15 UTC	dobi, Lel0uch, melwen, rz, scharkbite	3	6	30
+450340	4	20	Brown (4 Suits)	2021-02-27 — 01:13:47 UTC	dobi, kopen, otterful, torp	9	4	20
+450328	4	18	Brown (4 Suits)	2021-02-27 — 00:57:30 UTC	dobi, kopen, otterful, torp	11	4	20
+450025	4	0	Black & Pink (5 Suits)	2021-02-26 — 19:45:00 UTC	dobi, Lanvin, MangoPie, rahsosprout	16	5	25
+450016	5	28	Black & Pink (6 Suits)	2021-02-26 — 19:26:54 UTC	dobi, Lanvin, MarkusKahlsen, rahsosprout, squirrel1988	6	6	30
+449933	2	25	Brown (5 Suits)	2021-02-26 — 17:58:28 UTC	dobi, Fey	38	5	25
+449878	3	25	No Variant	2021-02-26 — 16:32:06 UTC	dobi, robense, Spieler42	19	5	25
+449872	3	23	No Variant	2021-02-26 — 16:14:56 UTC	dobi, robense, Spieler42	19	5	25
+449740	3	0	Rainbow & Gray (5 Suits)	2021-02-26 — 08:06:48 UTC	derekcheah, dobi, sephiroth	2	5	25
+449736	3	0	Rainbow & Gray (5 Suits)	2021-02-26 — 07:52:26 UTC	derekcheah, dobi, sephiroth	3	5	25
+449732	3	0	Rainbow & Gray (5 Suits)	2021-02-26 — 07:45:27 UTC	derekcheah, dobi, sephiroth	6	5	25
+449679	5	28	Black & Pink (6 Suits)	2021-02-26 — 06:09:39 UTC	4head, bjnh, dobi, Lel0uch, newduke	5	6	30
+449651	5	0	Dark Omni (6 Suits)	2021-02-26 — 05:41:47 UTC	4head, bjnh, dobi, newduke, orucsoraihc	10	6	30
+449472	3	0	Omni & Muddy Rainbow (4 Suits)	2021-02-26 — 03:00:10 UTC	dobi, indego, Lanvin	1	4	20
+449417	3	25	Dark Rainbow (5 Suits)	2021-02-26 — 02:01:11 UTC	dobi, griff77, Nitrate2	21	5	25
+449390	6	0	Dark Rainbow (5 Suits)	2021-02-26 — 01:41:34 UTC	dobi, griff77, HelanaAshryvr, indego, Lanvin, Nitrate2	2	5	25
+449365	4	0	No Variant	2021-02-26 — 01:21:16 UTC	dobi, HelanaAshryvr, indego, Lanvin	130	5	25
+449351	4	0	No Variant	2021-02-26 — 00:58:56 UTC	dobi, indego, Lanvin, Wittvector	419	5	25
+449274	4	24	Rainbow-Ones & Brown (5 Suits)	2021-02-25 — 23:18:14 UTC	dobi, hakha3, lolthisnotderk, newduke	3	5	25
+448940	4	0	Omni & Gray Pink (6 Suits)	2021-02-25 — 20:23:31 UTC	4head, dobi, Lanvin, rz	2	6	30
+448779	5	30	Gray Pink (6 Suits)	2021-02-25 — 17:29:23 UTC	dobi, HelanaAshryvr, jack67889, Lel0uch, Pablo-	4	6	30
+448760	4	0	Gray Pink (6 Suits)	2021-02-25 — 17:06:41 UTC	dobi, HelanaAshryvr, Lel0uch, squirrel1988	6	6	30
+448717	3	0	Rainbow-Ones & White (5 Suits)	2021-02-25 — 15:36:25 UTC	dobi, eljavi, jeff10	3	5	25
+448712	3	0	Rainbow-Ones & White (5 Suits)	2021-02-25 — 15:25:01 UTC	dobi, eljavi, jeff10	9	5	25
+448526	4	24	Up or Down & Null (5 Suits)	2021-02-25 — 06:06:01 UTC	dobi, indego, kopen, newduke	1	5	25
+448498	4	0	Up or Down & Null (5 Suits)	2021-02-25 — 05:31:03 UTC	dobi, indego, kopen, newduke	2	5	25
+448473	4	0	No Variant	2021-02-25 — 05:01:33 UTC	dobi, HelanaAshryvr, Lanvin, squirrel1988	156	5	25
+448413	4	0	No Variant	2021-02-25 — 04:20:57 UTC	dobi, HelanaAshryvr, Lanvin, squirrel1988	158	5	25
+448364	4	0	No Variant	2021-02-25 — 03:40:17 UTC	dobi, HelanaAshryvr, Lanvin, squirrel1988	162	5	25
+448333	4	0	No Variant	2021-02-25 — 02:58:52 UTC	dobi, HelanaAshryvr, Lanvin, squirrel1988	167	5	25
+448325	4	0	No Variant	2021-02-25 — 02:54:46 UTC	dobi, HelanaAshryvr, Lanvin, squirrel1988	233	5	25
+448178	4	0	Light-Pink-Ones & Gray Pink (5 Suits)	2021-02-25 — 00:22:35 UTC	4head, dobi, Lanvin, MangoPie	1	5	25
+448161	4	0	Light-Pink-Ones & Gray Pink (5 Suits)	2021-02-25 — 00:07:52 UTC	4head, dobi, Lanvin, MangoPie	1	5	25
+448158	4	0	Light-Pink-Ones & Gray Pink (5 Suits)	2021-02-25 — 00:00:22 UTC	4head, dobi, Lanvin, MangoPie	1	5	25
+448151	4	0	Light-Pink-Ones & Gray Pink (5 Suits)	2021-02-24 — 23:55:15 UTC	4head, dobi, Lanvin, MangoPie	1	5	25
+448148	4	0	Light-Pink-Ones & Gray Pink (5 Suits)	2021-02-24 — 23:49:37 UTC	4head, dobi, Lanvin, MangoPie	1	5	25
+448109	3	25	White & Brown (5 Suits)	2021-02-24 — 23:03:23 UTC	dobi, indego, torp	10	5	25
+447860	4	20	Deceptive-Fives & Pink (4 Suits)	2021-02-24 — 18:44:55 UTC	dobi, Lanvin, MarkusKahlsen, Wittvector	1	4	20
+447832	3	0	Dark Rainbow (5 Suits)	2021-02-24 — 18:18:41 UTC	basking, dobi, MarkusKahlsen	10	5	25
+447769	4	0	Brown & Dark Rainbow (5 Suits)	2021-02-24 — 16:57:11 UTC	dobi, Fey, indego, Wittvector	3	5	25
+447756	4	0	Black & Gray (6 Suits)	2021-02-24 — 16:33:33 UTC	dobi, Fey, jeff10, TimeHoodie	3	6	30
+447631	3	23	Dark Rainbow (5 Suits)	2021-02-24 — 09:45:12 UTC	boba, catula, dobi	24	5	25
+447621	2	23	Dark Rainbow (5 Suits)	2021-02-24 — 09:14:24 UTC	catula, dobi	71	5	25
+447611	4	0	No Variant	2021-02-24 — 08:48:13 UTC	dobi, iceblaeze, sephiroth, VerySloppyTwo	54	5	25
+447563	4	0	Omni (5 Suits)	2021-02-24 — 07:01:04 UTC	4head, binhp, dobi, newduke	4	5	25
+447554	5	0	Omni (5 Suits)	2021-02-24 — 06:49:17 UTC	4head, bjnh, dobi, louietyj, newduke	13	5	25
+447547	5	23	Rainbow-Ones (5 Suits)	2021-02-24 — 06:34:55 UTC	BraydonM, dobi, indego, Lel0uch, nkkarpov	1	5	25
+447518	5	0	Rainbow-Ones (5 Suits)	2021-02-24 — 06:05:17 UTC	BraydonM, dobi, indego, Lel0uch, nkkarpov	2	5	25
+447505	5	0	Rainbow-Ones (5 Suits)	2021-02-24 — 05:46:55 UTC	BraydonM, dobi, indego, Lel0uch, nkkarpov	6	5	25
+447495	5	0	Rainbow-Ones (5 Suits)	2021-02-24 — 05:32:12 UTC	BraydonM, dobi, indego, Lel0uch, nkkarpov	5	5	25
+447490	5	0	Rainbow-Ones (5 Suits)	2021-02-24 — 05:22:55 UTC	BraydonM, dobi, indego, Lel0uch, nkkarpov	7	5	25
+447478	3	22	Rainbow & Gray (5 Suits)	2021-02-24 — 05:09:13 UTC	dobi, Lel0uch, nkkarpov	3	5	25
+447454	3	0	Rainbow & Gray (5 Suits)	2021-02-24 — 04:45:56 UTC	dobi, Lel0uch, nkkarpov	5	5	25
+446734	4	0	Muddy Rainbow (6 Suits)	2021-02-23 — 18:21:16 UTC	4head, CaitlinSmith, dobi, Lanvin	9	6	30
+446725	4	0	Muddy Rainbow (6 Suits)	2021-02-23 — 18:13:03 UTC	4head, CaitlinSmith, dobi, Lanvin	12	6	30
+446717	4	0	Muddy Rainbow (6 Suits)	2021-02-23 — 17:54:44 UTC	4head, CaitlinSmith, dobi, Lanvin	19	6	30
+446497	3	0	6 Suits	2021-02-23 — 06:45:24 UTC	dobi, griff77, lolthisnotderk	503	6	30
+446472	4	25	Rainbow & Brown (5 Suits)	2021-02-23 — 06:13:23 UTC	dobi, griff77, lolthisnotderk, StKildaFan	17	5	25
+445683	5	30	Pink & Muddy Rainbow (6 Suits)	2021-02-22 — 18:14:35 UTC	dobi, Pablo-, rz, swineherd, TimeHoodie	1	6	30
+445553	3	28	Cocoa Rainbow (6 Suits)	2021-02-22 — 15:58:34 UTC	dobi, TimeHoodie, Wittvector	32	6	30
+445525	5	0	Black (5 Suits)	2021-02-22 — 15:28:21 UTC	dobi, PotatoLatte, rz, Spieler42, Wittvector	18	5	25
+445197	6	0	Rainbow & Brown (5 Suits)	2021-02-22 — 04:51:50 UTC	bjnh, dobi, griff77, Onen, possum, torp	4	5	25
+444738	4	0	White & Dark Rainbow (5 Suits)	2021-02-21 — 22:14:39 UTC	dobi, IsabeltheCat, Nitrate, wump	5	5	25
+444620	2	24	Dark Prism (5 Suits)	2021-02-21 — 20:33:57 UTC	dobi, IsabeltheCat	42	5	25
+444591	5	24	Brown (5 Suits)	2021-02-21 — 20:08:55 UTC	4head, BraydonM, dobi, MangoPie, torp	8	5	25
+444494	3	18	Rainbow-Ones & Muddy Rainbow (4 Suits)	2021-02-21 — 17:51:00 UTC	dobi, MangoPie, Wittvector	1	4	20
+444484	3	0	Rainbow-Ones & Muddy Rainbow (4 Suits)	2021-02-21 — 17:27:14 UTC	dobi, MangoPie, Wittvector	1	4	20
+444393	3	24	Special Mix (5 Suits)	2021-02-21 — 15:38:55 UTC	ChristopheAF, dobi, MangoPie	10	5	25
+444369	3	0	Special Mix (5 Suits)	2021-02-21 — 15:15:54 UTC	ChristopheAF, dobi, MangoPie	8	5	25
+444364	4	0	Special Mix (5 Suits)	2021-02-21 — 15:11:04 UTC	ChristopheAF, dobi, indego, MangoPie	29	5	25
+444064	3	20	White (4 Suits)	2021-02-21 — 05:11:46 UTC	4head, dobi, poofart123	59	4	20
+443611	2	30	Black & Prism (6 Suits)	2021-02-20 — 23:48:36 UTC	dobi, StKildaFan	14	6	30
+443591	2	0	Black & Prism (6 Suits)	2021-02-20 — 23:33:58 UTC	dobi, StKildaFan	17	6	30
+443578	2	29	Black & Prism (6 Suits)	2021-02-20 — 23:20:22 UTC	dobi, StKildaFan	17	6	30
+443326	3	30	Pink & Prism (6 Suits)	2021-02-20 — 19:42:07 UTC	dobi, MarkusKahlsen, rachyrules	11	6	30
+443015	5	30	Prism (6 Suits)	2021-02-20 — 07:47:43 UTC	derekcheah, dobi, duckless, Fey, sin_faith	12	6	30
+443003	5	0	Black & Dark Prism (6 Suits)	2021-02-20 — 07:27:55 UTC	derekcheah, dobi, duckless, Fey, sin_faith	2	6	30
+442999	4	0	Black & Dark Prism (6 Suits)	2021-02-20 — 07:19:14 UTC	derekcheah, dobi, duckless, Fey	7	6	30
+442356	3	0	Gray Pink (5 Suits)	2021-02-19 — 22:23:17 UTC	dobi, Lanvin, Zamiel	18	5	25
+441777	3	0	Black (6 Suits)	2021-02-19 — 06:44:09 UTC	dobi, newduke, Onen	119	6	30
+441718	5	30	6 Suits	2021-02-19 — 05:44:12 UTC	bjnh, dobi, HelanaAshryvr, squirrel1988, StKildaFan	31	6	30
+441696	5	0	6 Suits	2021-02-19 — 05:18:14 UTC	bjnh, dobi, HelanaAshryvr, squirrel1988, StKildaFan	35	6	30
+441682	2	0	Rainbow & Brown (5 Suits)	2021-02-19 — 05:03:17 UTC	dobi, StKildaFan	28	5	25
+441672	5	30	White (6 Suits)	2021-02-19 — 04:54:58 UTC	Bot-Fiora, dobi, HelanaAshryvr, newduke, squirrel1988	37	6	30
+441639	4	0	White (6 Suits)	2021-02-19 — 04:17:34 UTC	dobi, HelanaAshryvr, newduke, squirrel1988	27	6	30
+441558	4	24	Gray (6 Suits)	2021-02-19 — 03:12:21 UTC	cockdestroyer, dobi, newduke, Nitrate	18	6	30
+441527	4	0	Gray (6 Suits)	2021-02-19 — 02:43:49 UTC	cockdestroyer, dobi, newduke, Nitrate	22	6	30
+441381	5	0	Dark Rainbow (6 Suits)	2021-02-19 — 00:30:24 UTC	BlueNovember, ChristopheAF, dobi, kevincaseytdk1, rz	14	6	30
+441296	5	25	White-Ones & Prism (5 Suits)	2021-02-18 — 22:57:24 UTC	Denchulitas, dobi, jeff10, MangoPie, sephiroth	3	5	25
+441217	4	25	Rainbow-Fives (5 Suits)	2021-02-18 — 21:52:16 UTC	caña, dobi, newduke, rahsosprout	11	5	25
+440748	4	24	Black & Null (5 Suits)	2021-02-18 — 07:16:39 UTC	4head, dobi, newduke, TheDaniMan	3	5	25
+440734	4	0	Black & Null (5 Suits)	2021-02-18 — 06:54:13 UTC	4head, dobi, newduke, TheDaniMan	3	5	25
+440728	4	0	Black & Null (5 Suits)	2021-02-18 — 06:44:40 UTC	4head, dobi, newduke, TheDaniMan	5	5	25
+440705	3	0	Light Pink & Dark Prism (5 Suits)	2021-02-18 — 06:12:34 UTC	4head, dobi, frosty104	3	5	25
+440699	3	0	Light Pink & Dark Prism (5 Suits)	2021-02-18 — 06:00:52 UTC	4head, dobi, frosty104	3	5	25
+440696	3	0	Light Pink & Dark Prism (5 Suits)	2021-02-18 — 05:51:05 UTC	4head, dobi, frosty104	3	5	25
+440693	3	0	Light Pink & Dark Prism (5 Suits)	2021-02-18 — 05:46:47 UTC	4head, dobi, frosty104	3	5	25
+440690	3	0	Light Pink & Dark Prism (5 Suits)	2021-02-18 — 05:41:01 UTC	4head, dobi, frosty104	3	5	25
+440677	3	0	Light Pink & Dark Prism (5 Suits)	2021-02-18 — 05:28:36 UTC	dobi, frosty104, TheDaniMan	4	5	25
+440615	3	23	Light Pink & Dark Prism (5 Suits)	2021-02-18 — 04:10:05 UTC	dobi, melwen, TheDaniMan	4	5	25
+440590	6	0	Rainbow & Pink (6 Suits)	2021-02-18 — 03:41:33 UTC	aquarelle, BlueNovember, dobi, jeff10, Lanvin, melwen	5	6	30
+440576	4	0	Up or Down & Prism (5 Suits)	2021-02-18 — 03:18:17 UTC	dobi, duckless, indego, ricardodd	4	5	25
+440552	4	0	Up or Down & Prism (5 Suits)	2021-02-18 — 02:45:59 UTC	dobi, duckless, indego, ricardodd	12	5	25
+440409	3	24	Light Pink (5 Suits)	2021-02-17 — 23:57:51 UTC	dobi, indego, kevincaseytdk1	12	5	25
+440227	3	30	White (6 Suits)	2021-02-17 — 21:05:36 UTC	Denchulitas, dobi, sephiroth	6	6	30
+439807	2	23	No Variant	2021-02-17 — 07:26:11 UTC	dobi, poofart123	1249	5	25
+439458	3	22	Rainbow & Dark Pink (5 Suits)	2021-02-16 — 22:27:20 UTC	dobi, Floriman, rachyrules	4	5	25
+439346	5	0	Black & Pink (5 Suits)	2021-02-16 — 20:55:09 UTC	asaelr, dobi, indego, newduke, Wittvector	2	5	25
+439342	5	0	Black & Pink (5 Suits)	2021-02-16 — 20:48:34 UTC	asaelr, dobi, indego, newduke, Wittvector	2	5	25
+439334	5	0	Black & Pink (5 Suits)	2021-02-16 — 20:38:28 UTC	asaelr, dobi, indego, newduke, Wittvector	2	5	25
+439313	5	0	Black & Pink (5 Suits)	2021-02-16 — 20:15:15 UTC	asaelr, dobi, indego, newduke, Wittvector	4	5	25
+439258	6	0	Pink-Ones (5 Suits)	2021-02-16 — 19:21:05 UTC	bjnh, CaitlinSmith, dobi, Lanvin, squirrel1988, Wittvector	2	5	25
+439202	4	0	Omni & Gray Pink (6 Suits)	2021-02-16 — 18:10:38 UTC	dobi, frosty104, indego, VerySloppyTwo	2	6	30
+439190	3	0	Omni & Gray Pink (6 Suits)	2021-02-16 — 17:56:53 UTC	dobi, indego, VerySloppyTwo	2	6	30
+438938	5	30	White & Brown (6 Suits)	2021-02-16 — 06:21:23 UTC	dobi, frosty104, indego, lolthisnotderk, poofart123	1	6	30
+438907	5	0	White & Brown (6 Suits)	2021-02-16 — 05:55:47 UTC	dobi, frosty104, indego, lolthisnotderk, poofart123	3	6	30
+438881	5	0	Brown (6 Suits)	2021-02-16 — 05:34:48 UTC	bjnh, cockdestroyer, dobi, frosty104, lolthisnotderk	16	6	30
+438856	5	25	Light Pink (5 Suits)	2021-02-16 — 05:05:03 UTC	bjnh, cockdestroyer, dobi, frosty104, lolthisnotderk	7	5	25
+438830	3	25	Brown-Ones & Cocoa Rainbow (5 Suits)	2021-02-16 — 04:30:22 UTC	dobi, newduke, TheDaniMan	1	5	25
+438815	3	0	Brown-Ones & Cocoa Rainbow (5 Suits)	2021-02-16 — 04:04:44 UTC	dobi, newduke, TheDaniMan	1	5	25
+438793	3	29	Rainbow-Fives & Dark Prism (6 Suits)	2021-02-16 — 03:47:38 UTC	dobi, newduke, TheDaniMan	4	6	30
+438770	4	0	Special Mix (6 Suits)	2021-02-16 — 03:23:50 UTC	cockdestroyer, dobi, newduke, TheDaniMan	17	6	30
+438757	4	0	Special Mix (6 Suits)	2021-02-16 — 03:06:02 UTC	cockdestroyer, dobi, newduke, TheDaniMan	24	6	30
+438561	3	23	Brown-Ones (5 Suits)	2021-02-15 — 23:08:28 UTC	Denchulitas, dobi, sephiroth	4	5	25
+438491	4	28	Black & Muddy Rainbow (6 Suits)	2021-02-15 — 22:06:26 UTC	asaelr, ChristopheAF, dobi, Lanvin	8	6	30
+438429	4	29	Black & Muddy Rainbow (6 Suits)	2021-02-15 — 21:27:47 UTC	asaelr, ChristopheAF, dobi, Lanvin	11	6	30
+438162	3	0	Muddy Rainbow (3 Suits)	2021-02-15 — 17:04:44 UTC	dobi, frosty104, indego	13	3	15
+438150	3	0	Pink & Light Pink (3 Suits)	2021-02-15 — 16:51:08 UTC	dobi, frosty104, indego	2	3	15
+437950	4	25	Rainbow (5 Suits)	2021-02-15 — 08:39:28 UTC	dobi, frosty104, indego, poofart123	7	5	25
+437937	4	23	Rainbow (5 Suits)	2021-02-15 — 08:02:09 UTC	dobi, indego, poofart123, sephiroth	7	5	25
+437920	2	0	Black (6 Suits)	2021-02-15 — 07:26:14 UTC	dobi, indego	20	6	30
+437906	2	28	Black (6 Suits)	2021-02-15 — 07:02:03 UTC	dobi, indego	21	6	30
+437893	4	0	Rainbow (4 Suits)	2021-02-15 — 06:33:52 UTC	dobi, frosty104, poofart123, sephiroth	45	4	20
+437880	2	26	Black (6 Suits)	2021-02-15 — 06:09:56 UTC	dobi, indego	21	6	30
+437859	2	0	Black (6 Suits)	2021-02-15 — 05:46:05 UTC	dobi, indego	25	6	30
+437839	2	28	Black (6 Suits)	2021-02-15 — 05:26:56 UTC	dobi, indego	122	6	30
+437814	2	26	Black (6 Suits)	2021-02-15 — 04:58:56 UTC	dobi, indego	123	6	30
+437789	2	28	Black (6 Suits)	2021-02-15 — 04:36:10 UTC	dobi, jeff10	133	6	30
+437757	3	20	4 Suits	2021-02-15 — 04:05:12 UTC	dobi, mestrepoke, swineherd	70	4	20
+437514	3	24	No Variant	2021-02-14 — 23:34:20 UTC	Denchulitas, dobi, sephiroth	137	5	25
+437487	3	0	Special Mix (5 Suits)	2021-02-14 — 23:10:20 UTC	dobi, melwen, Onen	5	5	25
+436680	3	22	No Variant	2021-02-14 — 07:38:53 UTC	CaitlinSmith, dobi, rahsosprout	60	5	25
+436140	3	29	Black & Dark Prism (6 Suits)	2021-02-13 — 23:40:34 UTC	dobi, MarkusKahlsen, Wittvector	3	6	30
+436118	3	0	Black & Dark Prism (6 Suits)	2021-02-13 — 23:08:14 UTC	dobi, MarkusKahlsen, Wittvector	4	6	30
+436103	3	0	Black & Dark Prism (6 Suits)	2021-02-13 — 22:48:13 UTC	dobi, MarkusKahlsen, Wittvector	7	6	30
+436045	2	0	Black (6 Suits)	2021-02-13 — 21:55:18 UTC	dobi, MarkusKahlsen	38	6	30
+436033	2	26	Black (6 Suits)	2021-02-13 — 21:40:15 UTC	dobi, MarkusKahlsen	38	6	30
+436013	2	24	Black (6 Suits)	2021-02-13 — 21:22:28 UTC	dobi, MarkusKahlsen	40	6	30
+435835	4	23	Black & Pink (5 Suits)	2021-02-13 — 18:31:56 UTC	dobi, frosty104, MarkusKahlsen, Wittvector	5	5	25
+435810	4	20	Light-Pink-Fives & Brown (4 Suits)	2021-02-13 — 18:00:28 UTC	dobi, frosty104, MarkusKahlsen, Wittvector	1	4	20
+435790	5	25	White & Brown (5 Suits)	2021-02-13 — 17:16:29 UTC	dobi, eliclax, indego, MangoPie, wortel	6	5	25
+435773	4	23	White & Brown (5 Suits)	2021-02-13 — 16:43:30 UTC	dobi, eliclax, indego, MangoPie	18	5	25
+435444	2	24	Black (6 Suits)	2021-02-13 — 06:04:17 UTC	catula, dobi	116	6	30
+435227	6	30	Black (6 Suits)	2021-02-13 — 04:16:46 UTC	dobi, eljavi, ksfortson, nkkarpov, rz, wump	8	6	30
+435180	3	0	Dark Rainbow (5 Suits)	2021-02-13 — 03:48:09 UTC	dobi, lolthisnotderk, nkkarpov	29	5	25
+435043	5	27	Black & Omni (6 Suits)	2021-02-13 — 02:03:56 UTC	dobi, Dr_Kakashi, indego, TimeHoodie, Zamiel	2	6	30
+434966	4	0	Dark Rainbow (5 Suits)	2021-02-13 — 01:05:15 UTC	dobi, hailey, Lanvin, newduke	24	5	25
+434955	3	0	Dark Rainbow (5 Suits)	2021-02-13 — 00:52:32 UTC	dobi, hailey, Lanvin	22	5	25
+434805	4	23	Dark Prism (5 Suits)	2021-02-12 — 22:08:25 UTC	4head, dobi, ksfortson, wump	10	5	25
+434671	3	20	Dark Pink (5 Suits)	2021-02-12 — 20:20:45 UTC	dobi, joaep2, kevincaseytdk1	22	5	25
+434637	3	25	Black & White (5 Suits)	2021-02-12 — 19:51:15 UTC	dobi, joaep2, kevincaseytdk1	45	5	25
+434574	5	20	Rainbow (4 Suits)	2021-02-12 — 18:48:59 UTC	4head, bjnh, dobi, sephiroth, VerySloppyTwo	8	4	20
+434561	5	0	Rainbow (4 Suits)	2021-02-12 — 18:33:03 UTC	4head, bjnh, dobi, sephiroth, Spieler42	10	4	20
+434556	5	0	Rainbow (4 Suits)	2021-02-12 — 18:18:47 UTC	4head, bjnh, dobi, sephiroth, Spieler42	20	4	20
+434221	3	0	Black (5 Suits)	2021-02-12 — 06:30:39 UTC	3Head, dobi, rahsosprout	68	5	25
+434056	4	0	Omni & Light Pink (6 Suits)	2021-02-12 — 03:53:47 UTC	dobi, indego, katian, newduke	1	6	30
+434014	4	0	Omni & Light Pink (6 Suits)	2021-02-12 — 03:23:12 UTC	dobi, indego, katian, newduke	2	6	30
+433980	6	21	Black & White (5 Suits)	2021-02-12 — 03:02:38 UTC	avanderwalde, Bot-Fiora, dobi, indego, newduke, rkass	2	5	25
+433921	6	0	Black & White (5 Suits)	2021-02-12 — 02:34:08 UTC	avanderwalde, Bot-Fiora, dobi, indego, newduke, rkass	2	5	25
+433441	4	0	Dual-Color & White (6 Suits)	2021-02-11 — 18:51:03 UTC	colton, dobi, Floriman, sephiroth	6	6	30
+433346	5	0	Black & Omni (6 Suits)	2021-02-11 — 15:52:46 UTC	dobi, jeff10, Kyle, melwen, TimeHoodie	2	6	30
+433220	2	0	Black (6 Suits)	2021-02-11 — 08:05:02 UTC	dobi, macanek	135	6	30
+433191	2	26	Black (6 Suits)	2021-02-11 — 06:28:27 UTC	dobi, indego	136	6	30
+433178	2	30	Black (6 Suits)	2021-02-11 — 06:06:13 UTC	dobi, indego	137	6	30
+433165	2	0	Black (6 Suits)	2021-02-11 — 05:48:02 UTC	dobi, indego	144	6	30
+433158	2	0	Black (6 Suits)	2021-02-11 — 05:26:22 UTC	dobi, indego	152	6	30
+432962	2	26	Black (6 Suits)	2021-02-11 — 02:30:05 UTC	dobi, indego	153	6	30
+432937	2	30	Black (6 Suits)	2021-02-11 — 02:08:17 UTC	dobi, indego	157	6	30
+432914	2	25	Black (6 Suits)	2021-02-11 — 01:43:57 UTC	dobi, indego	157	6	30
+432890	5	0	Dual-Color (6 Suits)	2021-02-11 — 01:25:54 UTC	dobi, IsabeltheCat, Lanvin, nwajfromoz, TimeHoodie	8	6	30
+432853	3	0	Dark Rainbow (5 Suits)	2021-02-11 — 00:53:10 UTC	dobi, griff77, vergoodhanabi	52	5	25
+432819	3	0	Rainbow-Fives & Light Pink (5 Suits)	2021-02-11 — 00:17:46 UTC	dobi, Lanvin, voss	1	5	25
+432807	3	0	Rainbow-Fives & Light Pink (5 Suits)	2021-02-11 — 00:01:16 UTC	dobi, Lanvin, voss	1	5	25
+432796	3	0	Rainbow-Fives & Light Pink (5 Suits)	2021-02-10 — 23:46:51 UTC	dobi, Lanvin, voss	3	5	25
+432738	6	27	Black (6 Suits)	2021-02-10 — 22:39:26 UTC	dobi, griff77, HelanaAshryvr, Kernel, Lanvin, Onen	4	6	30
+432720	6	0	Black (6 Suits)	2021-02-10 — 22:12:41 UTC	dobi, griff77, HelanaAshryvr, Kernel, Lanvin, Onen	5	6	30
+432454	5	24	Omni-Ones & Prism (5 Suits)	2021-02-10 — 18:56:59 UTC	bjnh, dobi, HelanaAshryvr, rz, sephiroth	1	5	25
+432321	2	22	Dark Rainbow (5 Suits)	2021-02-10 — 16:33:15 UTC	dobi, Floriman	79	5	25
+431992	4	25	Up or Down & Prism (5 Suits)	2021-02-10 — 07:12:09 UTC	dobi, frosty104, newduke, sephiroth	6	5	25
+431968	3	24	Rainbow & Gray (5 Suits)	2021-02-10 — 06:38:41 UTC	dobi, frosty104, sephiroth	7	5	25
+431936	5	28	Rainbow & Gray (6 Suits)	2021-02-10 — 05:48:08 UTC	dobi, frosty104, kimbifille, melwen, scharkbite	1	6	30
+431907	5	30	Pink & Dark Prism (6 Suits)	2021-02-10 — 04:57:40 UTC	dobi, frosty104, kimbifille, Lel0uch, TimeHoodie	1	6	30
+431871	5	0	Pink & Dark Prism (6 Suits)	2021-02-10 — 04:18:51 UTC	dobi, frosty104, kimbifille, Lel0uch, TimeHoodie	2	6	30
+431749	3	29	Rainbow & Brown (6 Suits)	2021-02-10 — 02:34:17 UTC	avanderwalde, dobi, rkass	13	6	30
+431703	4	25	Dark Rainbow (5 Suits)	2021-02-10 — 01:48:10 UTC	avanderwalde, colton, dobi, rkass	14	5	25
+431636	3	0	Dark Rainbow (5 Suits)	2021-02-10 — 00:01:43 UTC	dobi, duckington, indego	31	5	25
+431605	3	0	Pink & Brown (4 Suits)	2021-02-09 — 23:37:02 UTC	dobi, Floriman, kimbifille	6	4	20
+431592	3	0	Pink & Brown (4 Suits)	2021-02-09 — 23:22:48 UTC	dobi, Floriman, kimbifille	12	4	20
+431370	4	0	Pink & Omni (6 Suits)	2021-02-09 — 20:42:06 UTC	colton, dobi, Lanvin, VerySloppyTwo	7	6	30
+431342	3	24	Up or Down & White (5 Suits)	2021-02-09 — 20:15:41 UTC	dobi, Lanvin, newduke	12	5	25
+431301	4	0	Rainbow (5 Suits)	2021-02-09 — 19:36:30 UTC	dobi, Floriman, MathNoob, swineherd	13	5	25
+431287	4	20	4 Suits	2021-02-09 — 19:22:34 UTC	dobi, Floriman, MathNoob, swineherd	77	4	20
+431174	3	24	Dark Brown (5 Suits)	2021-02-09 — 17:07:19 UTC	dobi, indego, jack67889	11	5	25
+431153	3	0	Rainbow & Dark Brown (5 Suits)	2021-02-09 — 16:47:22 UTC	dobi, jack67889, sephiroth	6	5	25
+431036	3	0	White & Prism (5 Suits)	2021-02-09 — 15:11:00 UTC	dobi, eliclax, eljavi	6	5	25
+431028	3	0	White & Prism (5 Suits)	2021-02-09 — 15:01:00 UTC	dobi, eliclax, eljavi	10	5	25
+431014	3	25	No Variant	2021-02-09 — 14:41:45 UTC	dobi, eliclax, eljavi	344	5	25
+430919	3	0	Black & Rainbow (5 Suits)	2021-02-09 — 07:25:48 UTC	dobi, katian, newduke	46	5	25
+430907	3	0	Black (5 Suits)	2021-02-09 — 06:53:03 UTC	dobi, newduke, wump	20	5	25
+430888	3	22	Black (5 Suits)	2021-02-09 — 05:56:37 UTC	dobi, hailey, lolthisnotderk	84	5	25
+430871	3	0	Black (5 Suits)	2021-02-09 — 05:32:26 UTC	dobi, hailey, lolthisnotderk	92	5	25
+430854	3	25	Gray (5 Suits)	2021-02-09 — 05:14:58 UTC	dobi, hailey, Lel0uch	35	5	25
+430832	4	30	White-Fives & Light Pink (6 Suits)	2021-02-09 — 04:42:17 UTC	4head, dobi, Lanvin, melwen	2	6	30
+430806	5	0	Black & White (5 Suits)	2021-02-09 — 04:10:40 UTC	4head, dobi, Lanvin, Lel0uch, melwen	4	5	25
+430775	5	21	Special Mix (5 Suits)	2021-02-09 — 03:38:48 UTC	4head, dobi, Lanvin, Lel0uch, melwen	2	5	25
+430734	3	0	Black (5 Suits)	2021-02-09 — 02:47:34 UTC	dobi, newduke, rahsosprout	22	5	25
+430713	3	0	Black (5 Suits)	2021-02-09 — 02:24:49 UTC	dobi, newduke, rahsosprout	25	5	25
+430703	3	0	Black (5 Suits)	2021-02-09 — 02:07:42 UTC	dobi, newduke, rahsosprout	27	5	25
+430382	3	24	Black (5 Suits)	2021-02-08 — 21:50:59 UTC	dobi, ksfortson, wump	35	5	25
+430137	4	21	Dark Prism (5 Suits)	2021-02-08 — 18:58:09 UTC	4head, dobi, Lanvin, VerySloppyTwo	11	5	25
+429746	3	22	Black (5 Suits)	2021-02-08 — 07:01:22 UTC	bjnh, dobi, rahsosprout	66	5	25
+429724	4	25	White & Prism (5 Suits)	2021-02-08 — 06:15:48 UTC	Bot-Fiora, dobi, eljavi, TimeHoodie	1	5	25
+429715	4	0	White & Prism (6 Suits)	2021-02-08 — 05:58:31 UTC	Bot-Fiora, dobi, indego, pianoblook	10	6	30
+429693	5	29	Gray (6 Suits)	2021-02-08 — 05:25:50 UTC	dobi, indego, kimbifille, pianoblook, TimeHoodie	1	6	30
+429656	5	0	Gray (6 Suits)	2021-02-08 — 04:38:28 UTC	dobi, indego, kimbifille, pianoblook, TimeHoodie	1	6	30
+429529	5	0	Black & Light Pink (5 Suits)	2021-02-08 — 02:03:43 UTC	Bot-Fiora, dobi, Lanvin, melwen, TimeHoodie	1	5	25
+429493	4	21	Gray Pink (5 Suits)	2021-02-08 — 01:11:01 UTC	dobi, Kyle, newduke, rahsosprout	1	5	25
+429478	4	0	Gray Pink (5 Suits)	2021-02-08 — 00:49:02 UTC	dobi, Kyle, newduke, rahsosprout	1	5	25
+429470	5	0	Black (5 Suits)	2021-02-08 — 00:31:14 UTC	dobi, Kyle, newduke, pianoblook, rahsosprout	2	5	25
+429465	3	22	Black (5 Suits)	2021-02-08 — 00:16:41 UTC	dobi, newduke, rahsosprout	31	5	25
+429078	6	23	Special Mix (5 Suits)	2021-02-07 — 17:53:10 UTC	dobi, Lanvin, MangoPie, Pablo-, Plum, Wittvector	2	5	25
+429060	6	0	Special Mix (5 Suits)	2021-02-07 — 17:24:53 UTC	dobi, Lanvin, MangoPie, Pablo-, Plum, Wittvector	2	5	25
+428819	6	20	Dark Pink (5 Suits)	2021-02-07 — 09:30:41 UTC	4head, dobi, indego, newduke, sin_faith, 火花	4	5	25
+428809	4	0	Prism (6 Suits)	2021-02-07 — 08:54:32 UTC	CaitlinSmith, dobi, indego, Lel0uch	15	6	30
+428797	4	0	Prism (6 Suits)	2021-02-07 — 08:35:20 UTC	CaitlinSmith, dobi, indego, Lel0uch	15	6	30
+428788	4	25	Rainbow (5 Suits)	2021-02-07 — 08:12:13 UTC	dobi, Lel0uch, MarcLovesDogs, TimeHoodie	17	5	25
+428776	4	0	Rainbow & Dark Prism (6 Suits)	2021-02-07 — 07:39:46 UTC	dobi, MarcLovesDogs, sin_faith, TimeHoodie	7	6	30
+428773	4	0	Rainbow & Dark Prism (6 Suits)	2021-02-07 — 07:28:22 UTC	dobi, MarcLovesDogs, sin_faith, TimeHoodie	7	6	30
+428771	3	0	Rainbow & Dark Prism (6 Suits)	2021-02-07 — 07:17:44 UTC	dobi, sin_faith, TimeHoodie	1	6	30
+428767	3	0	Rainbow & Dark Prism (6 Suits)	2021-02-07 — 07:08:57 UTC	dobi, sin_faith, TimeHoodie	1	6	30
+428753	3	0	Rainbow & Dark Prism (6 Suits)	2021-02-07 — 06:51:11 UTC	dobi, sin_faith, TimeHoodie	1	6	30
+428742	3	0	Rainbow & Dark Prism (6 Suits)	2021-02-07 — 06:30:14 UTC	dobi, duckington, TimeHoodie	1	6	30
+428731	3	0	Rainbow & Dark Prism (6 Suits)	2021-02-07 — 06:11:40 UTC	dobi, duckington, TimeHoodie	2	6	30
+428724	3	0	Rainbow & Dark Prism (6 Suits)	2021-02-07 — 06:00:46 UTC	dobi, duckington, TimeHoodie	4	6	30
+428707	5	24	Rainbow & Dark Prism (5 Suits)	2021-02-07 — 05:34:52 UTC	dobi, Lel0uch, melwen, scharkbite, TimeHoodie	2	5	25
+428641	4	28	Brown-Ones & Brown (6 Suits)	2021-02-07 — 04:42:34 UTC	dobi, Lanvin, nkkarpov, 火花	2	6	30
+428062	3	30	Black & Prism (6 Suits)	2021-02-06 — 21:56:17 UTC	avanderwalde, dobi, indego	6	6	30
+428007	2	30	Black (6 Suits)	2021-02-06 — 21:22:04 UTC	dobi, indego	165	6	30
+427979	2	26	Black (6 Suits)	2021-02-06 — 20:56:48 UTC	dobi, indego	167	6	30
+427963	2	28	Black (6 Suits)	2021-02-06 — 20:37:26 UTC	dobi, indego	174	6	30
+427935	2	26	Black (6 Suits)	2021-02-06 — 20:15:47 UTC	dobi, indego	179	6	30
+427913	5	0	Dark Rainbow (6 Suits)	2021-02-06 — 19:55:16 UTC	dobi, Feich59, Kyle, nkkarpov, rahsosprout	11	6	30
+427862	4	19	Rainbow & White (4 Suits)	2021-02-06 — 19:06:28 UTC	4head, Denchulitas, dobi, Lanvin	1	4	20
+427843	4	0	Rainbow & White (4 Suits)	2021-02-06 — 18:51:14 UTC	4head, Denchulitas, dobi, Lanvin	3	4	20
+427559	5	30	Pink & White (6 Suits)	2021-02-06 — 09:58:19 UTC	derekcheah, dobi, Lel0uch, pianoblook, piper	5	6	30
+427543	3	29	Rainbow & Brown (6 Suits)	2021-02-06 — 09:10:57 UTC	dobi, pianoblook, piper	3	6	30
+427535	3	0	Rainbow & Brown (6 Suits)	2021-02-06 — 08:26:20 UTC	dobi, pianoblook, piper	6	6	30
+427301	4	25	No Variant	2021-02-06 — 03:42:38 UTC	Damian000, dobi, griff77, nkkarpov	190	5	25
+427044	3	0	Black (6 Suits)	2021-02-06 — 00:42:20 UTC	caña, dobi, otterful	399	6	30
+426759	3	24	Up or Down & White (5 Suits)	2021-02-05 — 20:48:17 UTC	ChristopheAF, dobi, Kyle	2	5	25
+426745	3	0	Up or Down & White (5 Suits)	2021-02-05 — 20:33:22 UTC	ChristopheAF, dobi, Kyle	3	5	25
+426736	3	0	Up or Down & White (5 Suits)	2021-02-05 — 20:27:22 UTC	ChristopheAF, dobi, Kyle	3	5	25
+426703	4	0	Special Mix (5 Suits)	2021-02-05 — 20:11:37 UTC	ChristopheAF, dobi, duckington, Kyle	13	5	25
+426695	4	0	Special Mix (5 Suits)	2021-02-05 — 20:05:55 UTC	ChristopheAF, dobi, duckington, Kyle	21	5	25
+426678	4	0	Special Mix (5 Suits)	2021-02-05 — 19:52:02 UTC	ChristopheAF, dobi, duckington, Kyle	20	5	25
+426663	4	0	Special Mix (5 Suits)	2021-02-05 — 19:39:06 UTC	ChristopheAF, dobi, duckington, Kyle	25	5	25
+426653	4	30	Rainbow-Ones & Prism (6 Suits)	2021-02-05 — 19:29:55 UTC	ChristopheAF, dobi, duckington, TimeHoodie	2	6	30
+426635	5	0	Rainbow-Ones & Prism (6 Suits)	2021-02-05 — 19:00:43 UTC	ChristopheAF, dobi, duckington, Kyle, TimeHoodie	3	6	30
+426606	4	0	Rainbow-Ones & Prism (6 Suits)	2021-02-05 — 18:42:16 UTC	ChristopheAF, dobi, duckington, TimeHoodie	2	6	30
+426596	5	30	White-Ones & Pink (6 Suits)	2021-02-05 — 18:23:47 UTC	bjnh, dobi, melwen, Onen, TimeHoodie	2	6	30
+426587	5	0	White-Ones & Pink (6 Suits)	2021-02-05 — 18:09:36 UTC	bjnh, dobi, melwen, Onen, TimeHoodie	3	6	30
+426540	5	0	Pink-Fives & Rainbow (5 Suits)	2021-02-05 — 17:14:10 UTC	dobi, Kernel, Lanvin, rz, Wittvector	3	5	25
+426532	5	0	Pink-Fives & Rainbow (5 Suits)	2021-02-05 — 17:02:44 UTC	dobi, Kernel, Lanvin, rz, Wittvector	3	5	25
+426311	2	26	Black (6 Suits)	2021-02-05 — 07:17:20 UTC	dobi, indego	186	6	30
+426302	2	29	Black (6 Suits)	2021-02-05 — 06:52:26 UTC	dobi, indego	186	6	30
+426286	4	22	Black Reversed (5 Suits)	2021-02-05 — 06:13:59 UTC	dobi, Fey, indego, voss	6	5	25
+426273	4	0	Black Reversed (5 Suits)	2021-02-05 — 05:54:46 UTC	dobi, Fey, indego, voss	8	5	25
+426270	4	0	Black Reversed (5 Suits)	2021-02-05 — 05:52:15 UTC	dobi, Fey, indego, voss	9	5	25
+426253	5	0	Omni & Muddy Rainbow (5 Suits)	2021-02-05 — 05:33:18 UTC	dobi, duckington, kimbifille, pianoblook, Zamiel	3	5	25
+426235	5	0	Omni & Muddy Rainbow (5 Suits)	2021-02-05 — 05:07:26 UTC	dobi, duckington, kimbifille, pianoblook, Zamiel	3	5	25
+426013	3	24	Rainbow & Dark Pink (5 Suits)	2021-02-05 — 01:46:21 UTC	4head, dobi, vEnhance	8	5	25
+425981	3	23	Rainbow & Dark Pink (5 Suits)	2021-02-05 — 01:24:13 UTC	4head, dobi, vEnhance	9	5	25
+425834	3	23	Special Mix (5 Suits)	2021-02-04 — 23:08:30 UTC	dobi, melwen, newduke	5	5	25
+425820	2	0	White & Omni (4 Suits)	2021-02-04 — 22:47:17 UTC	dobi, jeff10	12	4	20
+425395	4	0	Cocoa Rainbow (5 Suits)	2021-02-04 — 16:52:11 UTC	4head, dobi, griff77, MangoPie	20	5	25
+425143	3	0	Pink (6 Suits)	2021-02-04 — 06:03:38 UTC	dobi, indego, newduke	37	6	30
+425135	3	0	Pink (6 Suits)	2021-02-04 — 05:49:04 UTC	dobi, indego, newduke	47	6	30
+425133	2	0	Black (6 Suits)	2021-02-04 — 05:43:24 UTC	dobi, indego	192	6	30
+425128	2	0	Black (6 Suits)	2021-02-04 — 05:38:10 UTC	dobi, indego	201	6	30
+425115	2	0	Black (6 Suits)	2021-02-04 — 05:30:01 UTC	dobi, indego	214	6	30
+425103	4	25	Black & Prism (5 Suits)	2021-02-04 — 05:15:40 UTC	dobi, duckington, indego, Onen	10	5	25
+425089	4	0	Black & Prism (5 Suits)	2021-02-04 — 05:00:08 UTC	dobi, duckington, indego, Onen	11	5	25
+425073	3	0	Dark Rainbow (6 Suits)	2021-02-04 — 04:44:06 UTC	dobi, indego, Onen	62	6	30
+425049	6	0	Dark Pink (6 Suits)	2021-02-04 — 04:25:31 UTC	dobi, duckington, HelanaAshryvr, indego, Lanvin, Onen	3	6	30
+425038	6	0	Dark Pink (6 Suits)	2021-02-04 — 04:17:34 UTC	dobi, duckington, HelanaAshryvr, indego, Lanvin, Onen	2	6	30
+424882	5	17	Pink & Light Pink (4 Suits)	2021-02-04 — 02:17:35 UTC	asaelr, dobi, Lanvin, melwen, TimeHoodie	1	4	20
+424856	5	0	Pink & Light Pink (4 Suits)	2021-02-04 — 01:57:31 UTC	asaelr, dobi, Lanvin, melwen, TimeHoodie	1	4	20
+424837	5	0	Pink & Light Pink (4 Suits)	2021-02-04 — 01:45:37 UTC	asaelr, dobi, Lanvin, melwen, TimeHoodie	1	4	20
+424735	6	22	Black (5 Suits)	2021-02-04 — 00:06:46 UTC	4head, colton, dobi, HelanaAshryvr, IsabeltheCat, nkkarpov	5	5	25
+424706	6	22	Black (5 Suits)	2021-02-03 — 23:42:21 UTC	4head, colton, dobi, HelanaAshryvr, IsabeltheCat, nkkarpov	8	5	25
+424692	6	23	Black (5 Suits)	2021-02-03 — 23:19:32 UTC	4head, colton, dobi, HelanaAshryvr, IsabeltheCat, nkkarpov	9	5	25
+424654	4	0	Muddy Rainbow (4 Suits)	2021-02-03 — 22:47:14 UTC	dobi, Doge, indego, Onen	9	4	20
+424614	6	20	Rainbow (4 Suits)	2021-02-03 — 22:13:04 UTC	Bot-Fiora, Denchulitas, dobi, jack67889, Lanvin, newduke	1	4	20
+424596	6	0	Rainbow (4 Suits)	2021-02-03 — 21:52:52 UTC	Bot-Fiora, Denchulitas, dobi, jack67889, Lanvin, newduke	1	4	20
+424523	6	0	Dark Brown (5 Suits)	2021-02-03 — 20:52:13 UTC	dobi, jack67889, Kernel, Lanvin, rachyrules, Wittvector	3	5	25
+424179	4	24	Brown & Light Pink (5 Suits)	2021-02-03 — 17:45:23 UTC	bjnh, dobi, MarkusKahlsen, rachyrules	6	5	25
+424133	4	0	Rainbow & Dark Prism (5 Suits)	2021-02-03 — 16:43:01 UTC	dobi, MarkusKahlsen, rachyrules, rahsosprout	5	5	25
+423937	5	0	Cocoa Rainbow (6 Suits)	2021-02-03 — 09:52:49 UTC	dobi, frosty104, katian, MangoPie, Wittvector	9	6	30
+423933	4	25	Black (5 Suits)	2021-02-03 — 09:16:13 UTC	dobi, frosty104, qqqq, robense	23	5	25
+423920	5	0	Pink & Dark Rainbow (5 Suits)	2021-02-03 — 08:44:26 UTC	dobi, frosty104, indego, sephiroth, VerySloppyTwo	1	5	25
+423912	5	0	Rainbow & Pink (6 Suits)	2021-02-03 — 08:22:07 UTC	derekcheah, dobi, frosty105, indego, katian	4	6	30
+423898	5	0	Rainbow & Pink (6 Suits)	2021-02-03 — 07:53:47 UTC	derekcheah, dobi, frosty105, indego, katian	8	6	30
+423893	5	0	Rainbow & Pink (6 Suits)	2021-02-03 — 07:34:20 UTC	derekcheah, dobi, frosty105, indego, katian	10	6	30
+423885	3	23	Black (5 Suits)	2021-02-03 — 07:18:28 UTC	4head, dobi, IsabeltheCat	119	5	25
+423842	4	30	Black & Prism (6 Suits)	2021-02-03 — 06:13:54 UTC	dobi, Fey, MangoPie, micerang	8	6	30
+423832	4	0	Black & Prism (6 Suits)	2021-02-03 — 05:51:41 UTC	dobi, Fey, MangoPie, micerang	10	6	30
+423821	4	28	Black & Prism (6 Suits)	2021-02-03 — 05:35:45 UTC	dobi, Fey, MangoPie, micerang	14	6	30
+423652	5	29	Gray (6 Suits)	2021-02-03 — 02:57:57 UTC	dobi, frosty104, HelanaAshryvr, Lanvin, melwen	8	6	30
+423623	5	0	Gray (6 Suits)	2021-02-03 — 02:35:53 UTC	dobi, frosty104, HelanaAshryvr, Lanvin, melwen	10	6	30
+423598	5	0	Gray (6 Suits)	2021-02-03 — 02:13:10 UTC	dobi, frosty104, HelanaAshryvr, Lanvin, melwen	14	6	30
+423556	4	30	Prism & Dark Pink (6 Suits)	2021-02-03 — 01:42:53 UTC	dobi, frosty104, HelanaAshryvr, Lanvin	2	6	30
+423520	3	0	Pink & Muddy Rainbow (5 Suits)	2021-02-03 — 01:10:01 UTC	dobi, HelanaAshryvr, Lanvin	6	5	25
+423499	5	30	Dark Brown (6 Suits)	2021-02-03 — 00:43:39 UTC	dobi, frosty104, Lanvin, Onen, TimeHoodie	6	6	30
+423477	4	0	Pink-Ones & Prism (6 Suits)	2021-02-03 — 00:22:32 UTC	dobi, Lanvin, sephiroth, TimeHoodie	1	6	30
+423427	4	0	Black Reversed (6 Suits)	2021-02-02 — 23:21:09 UTC	dobi, Kyle, melwen, rz	5	6	30
+423418	4	26	Black Reversed (6 Suits)	2021-02-02 — 23:03:41 UTC	dobi, Kyle, melwen, rz	9	6	30
+423392	4	24	Rainbow & Gray (5 Suits)	2021-02-02 — 22:33:34 UTC	dobi, Nitrate, rz, TimeHoodie	4	5	25
+423359	4	30	White & Prism (6 Suits)	2021-02-02 — 22:07:31 UTC	dobi, Nitrate, rz, TimeHoodie	7	6	30
+423199	4	25	Gray (5 Suits)	2021-02-02 — 20:01:15 UTC	colton, dobi, frosty104, Lanvin	12	5	25
+423169	4	25	Muddy Rainbow (5 Suits)	2021-02-02 — 19:41:37 UTC	colton, dobi, frosty104, Lanvin	18	5	25
+422854	3	25	Rainbow & Prism (5 Suits)	2021-02-02 — 08:11:54 UTC	derekcheah, dobi, TheDaniMan	16	5	25
+422847	4	0	Gray Pink (5 Suits)	2021-02-02 — 07:57:40 UTC	dobi, ksfortson, TheDaniMan, wump	12	5	25
+422842	4	0	Pink & Cocoa Rainbow (5 Suits)	2021-02-02 — 07:46:58 UTC	dobi, indego, katian, TheDaniMan	1	5	25
+422831	2	0	Black (6 Suits)	2021-02-02 — 07:12:57 UTC	dobi, indego	221	6	30
+422822	2	21	Black (6 Suits)	2021-02-02 — 06:51:51 UTC	dobi, indego	232	6	30
+422813	2	0	Black (6 Suits)	2021-02-02 — 06:28:29 UTC	dobi, indego	325	6	30
+422805	2	0	Black (6 Suits)	2021-02-02 — 06:14:43 UTC	dobi, indego	350	6	30
+422793	2	28	Black (6 Suits)	2021-02-02 — 05:55:00 UTC	dobi, indego	391	6	30
+422774	5	0	Black & Brown (6 Suits)	2021-02-02 — 05:03:50 UTC	dobi, indego, kimbifille, Kyle, Zamiel	3	6	30
+422758	5	30	Light Pink & Prism (6 Suits)	2021-02-02 — 04:36:18 UTC	dobi, indego, kimbifille, Kyle, Zamiel	2	6	30
+422730	5	0	Light Pink & Prism (6 Suits)	2021-02-02 — 04:03:23 UTC	dobi, kimbifille, Kyle, Lel0uch, Zamiel	2	6	30
+422689	3	20	Brown (4 Suits)	2021-02-02 — 03:10:53 UTC	Bot-Fiora, dobi, jeff10	47	4	20
+422661	4	19	Brown (4 Suits)	2021-02-02 — 02:42:09 UTC	ADrone, dobi, indego, kimbifille	13	4	20
+422641	4	0	Brown (4 Suits)	2021-02-02 — 02:21:04 UTC	ADrone, dobi, indego, kimbifille	22	4	20
+422616	4	27	Light Pink & Prism (6 Suits)	2021-02-02 — 01:53:50 UTC	dobi, Kyle, melwen, Zamiel	4	6	30
+422587	5	0	Rainbow & Muddy Rainbow (5 Suits)	2021-02-02 — 01:21:44 UTC	dobi, kimbifille, melwen, padi, Zamiel	1	5	25
+422566	4	0	Pink & Cocoa Rainbow (5 Suits)	2021-02-02 — 01:01:02 UTC	dobi, kimbifille, padi, Zamiel	3	5	25
+422560	4	0	Pink & Cocoa Rainbow (5 Suits)	2021-02-02 — 00:53:37 UTC	dobi, kimbifille, padi, Zamiel	4	5	25
+422186	5	30	Rainbow & Gray Pink (6 Suits)	2021-02-01 — 17:38:10 UTC	dobi, frosty104, Lel0uch, MangoPie, melwen	1	6	30
+422016	5	30	Ambiguous (6 Suits)	2021-02-01 — 09:14:11 UTC	dobi, indego, Lel0uch, MangoPie, TimeHoodie	4	6	30
+422009	5	0	Ambiguous (6 Suits)	2021-02-01 — 08:45:50 UTC	dobi, indego, Lel0uch, MangoPie, TimeHoodie	8	6	30
+421998	5	26	Ambiguous (6 Suits)	2021-02-01 — 08:28:21 UTC	dobi, indego, Lel0uch, MangoPie, TimeHoodie	9	6	30
+421973	4	24	No Variant	2021-02-01 — 07:46:07 UTC	dobi, louietyj, pianoblook, TimeHoodie	25	5	25
+421944	3	22	Gray (5 Suits)	2021-02-01 — 06:57:42 UTC	dobi, ksfortson, MarcLovesDogs	37	5	25
+421926	4	23	Gray (5 Suits)	2021-02-01 — 06:26:21 UTC	dobi, ksfortson, MangoPie, rahsosprout	27	5	25
+421891	5	0	Gray (6 Suits)	2021-02-01 — 05:13:16 UTC	Asddsa76, bjnh, dobi, indego, Lel0uch	3	6	30
+421882	5	0	Gray (6 Suits)	2021-02-01 — 05:05:02 UTC	Asddsa76, bjnh, dobi, indego, Lel0uch	3	6	30
+421860	5	0	Gray (6 Suits)	2021-02-01 — 04:43:58 UTC	Asddsa76, bjnh, dobi, indego, Lel0uch	8	6	30
+421838	5	25	Rainbow & Brown (5 Suits)	2021-02-01 — 04:22:37 UTC	bjnh, dobi, indego, Lel0uch, TimeHoodie	3	5	25
+421811	5	24	Rainbow & Brown (5 Suits)	2021-02-01 — 03:56:13 UTC	dobi, katian, Kyle, Lel0uch, TimeHoodie	6	5	25
+421791	5	0	Rainbow & Brown (5 Suits)	2021-02-01 — 03:36:13 UTC	dobi, katian, Kyle, Lel0uch, TimeHoodie	7	5	25
+421778	4	23	Pink & Dark Prism (5 Suits)	2021-02-01 — 03:22:32 UTC	dobi, katian, Kyle, TimeHoodie	4	5	25
+421749	5	27	Prism & Gray (6 Suits)	2021-02-01 — 02:58:21 UTC	antitelharsic, dobi, griff77, Lanvin, TimeHoodie	3	6	30
+421714	4	20	Pink & White (4 Suits)	2021-02-01 — 02:29:21 UTC	dobi, griff77, Lanvin, TimeHoodie	6	4	20
+421687	6	0	Rainbow & Light Pink (6 Suits)	2021-02-01 — 02:10:14 UTC	dobi, frosty104, griff77, Lanvin, Lel0uch, TimeHoodie	1	6	30
+421673	5	0	Rainbow & Pink (6 Suits)	2021-02-01 — 01:59:25 UTC	dobi, griff77, Lanvin, Lel0uch, TimeHoodie	7	6	30
+421642	4	22	Dark Rainbow (5 Suits)	2021-02-01 — 01:25:23 UTC	BlueNovember, dobi, Doge, nkkarpov	23	5	25
+421623	4	0	Dark Rainbow (5 Suits)	2021-02-01 — 00:59:15 UTC	BlueNovember, dobi, Doge, nkkarpov	29	5	25
+421582	3	0	Black (6 Suits)	2021-02-01 — 00:14:28 UTC	dobi, Doge, nkkarpov	134	6	30
+421463	2	30	Black (6 Suits)	2021-01-31 — 22:47:01 UTC	dobi, MarkusKahlsen	275	6	30
+421447	2	0	Black (6 Suits)	2021-01-31 — 22:29:13 UTC	dobi, MarkusKahlsen	294	6	30
+421198	5	22	Pink & Dark Prism (5 Suits)	2021-01-31 — 17:29:30 UTC	dobi, indego, MangoPie, rz, TimeHoodie	2	5	25
+421182	5	22	Pink & Dark Prism (5 Suits)	2021-01-31 — 17:00:13 UTC	dobi, jack67889, MangoPie, rz, TimeHoodie	3	5	25
+421169	5	0	Pink & Dark Prism (5 Suits)	2021-01-31 — 16:42:38 UTC	dobi, jack67889, socerman, tacobot5000, TimeHoodie	2	5	25
+420978	3	25	White (5 Suits)	2021-01-31 — 08:52:55 UTC	dobi, louietyj, torp	41	5	25
+420960	5	30	White-Ones (6 Suits)	2021-01-31 — 08:18:28 UTC	derekcheah, dobi, kimbifille, Lel0uch, Zamiel	1	6	30
+420947	5	0	White-Ones (6 Suits)	2021-01-31 — 07:55:24 UTC	derekcheah, dobi, kimbifille, Lel0uch, Zamiel	3	6	30
+420932	5	0	White-Ones (6 Suits)	2021-01-31 — 07:34:34 UTC	derekcheah, dobi, kimbifille, Kyle, Zamiel	3	6	30
+420917	5	0	White-Ones (6 Suits)	2021-01-31 — 07:14:57 UTC	derekcheah, dobi, kimbifille, Kyle, Zamiel	3	6	30
+420905	3	0	Black (6 Suits)	2021-01-31 — 06:57:30 UTC	dobi, newduke, StKildaFan	69	6	30
+420889	3	0	Black (6 Suits)	2021-01-31 — 06:41:40 UTC	dobi, indego, newduke	159	6	30
+420879	3	0	Black (6 Suits)	2021-01-31 — 06:36:13 UTC	dobi, indego, newduke	172	6	30
+420861	5	25	Pink & Light Pink (5 Suits)	2021-01-31 — 06:20:34 UTC	colton, derekcheah, dobi, Lel0uch, TimeHoodie	1	5	25
+420846	5	0	Pink & Light Pink (5 Suits)	2021-01-31 — 06:07:21 UTC	colton, derekcheah, dobi, Lel0uch, TimeHoodie	2	5	25
+420835	5	0	Pink & Light Pink (5 Suits)	2021-01-31 — 06:00:43 UTC	colton, derekcheah, dobi, Lel0uch, TimeHoodie	2	5	25
+420809	5	0	Pink & Light Pink (5 Suits)	2021-01-31 — 05:44:12 UTC	colton, derekcheah, dobi, Lel0uch, TimeHoodie	3	5	25
+420775	5	0	Pink & Light Pink (5 Suits)	2021-01-31 — 05:28:33 UTC	colton, derekcheah, dobi, Lel0uch, TimeHoodie	5	5	25
+420752	2	25	Dark Pink (5 Suits)	2021-01-31 — 05:17:21 UTC	derekcheah, dobi	18	5	25
+420733	2	0	Dark Pink (5 Suits)	2021-01-31 — 05:07:04 UTC	derekcheah, dobi	19	5	25
+420714	4	30	Rainbow & Dark Pink (6 Suits)	2021-01-31 — 04:54:33 UTC	derekcheah, dobi, Lel0uch, TimeHoodie	6	6	30
+420592	6	0	Pink & Light Pink (6 Suits)	2021-01-31 — 03:44:30 UTC	dobi, Lel0uch, melwen, newduke, qqqq, TimeHoodie	2	6	30
+420546	5	0	Pink & Light Pink (6 Suits)	2021-01-31 — 03:16:37 UTC	dobi, Kyle, melwen, newduke, TimeHoodie	2	6	30
+420373	5	24	Brown-Ones & Rainbow (5 Suits)	2021-01-31 — 01:05:06 UTC	catula, dobi, Lanvin, poofart123, Sucubis	1	5	25
+420357	4	0	Black & Prism (5 Suits)	2021-01-31 — 00:44:24 UTC	catula, dobi, Lanvin, Sucubis	1	5	25
+420288	3	0	Brown-Ones & Pink (5 Suits)	2021-01-30 — 23:26:10 UTC	4head, dobi, jeff10	3	5	25
+420149	3	23	Black & Muddy Rainbow (5 Suits)	2021-01-30 — 21:35:33 UTC	dobi, MarkusKahlsen, rachyrules	5	5	25
+420083	3	0	Black & Muddy Rainbow (5 Suits)	2021-01-30 — 21:03:04 UTC	dobi, MarkusKahlsen, rachyrules	6	5	25
+420067	3	0	Black & Muddy Rainbow (5 Suits)	2021-01-30 — 20:52:51 UTC	dobi, MarkusKahlsen, rachyrules	7	5	25
+420006	3	25	Dark Pink (5 Suits)	2021-01-30 — 20:07:33 UTC	dobi, Lanvin, MarkusKahlsen	19	5	25
+419981	3	0	Dark Pink (5 Suits)	2021-01-30 — 19:38:48 UTC	dobi, Lanvin, MarkusKahlsen	42	5	25
+419931	4	29	Black & Brown (6 Suits)	2021-01-30 — 18:21:52 UTC	dobi, Fey, sephiroth, Sucubis	2	6	30
+419898	4	30	Black & White (6 Suits)	2021-01-30 — 17:09:34 UTC	dobi, Lel0uch, MangoPie, sephiroth	17	6	30
+419677	5	25	Rainbow & Pink (5 Suits)	2021-01-30 — 09:52:12 UTC	derekcheah, dobi, Lel0uch, robense, swineherd	2	5	25
+419673	3	25	White & Dark Prism (5 Suits)	2021-01-30 — 09:32:47 UTC	derekcheah, dobi, Lel0uch	3	5	25
+419668	3	0	White & Dark Prism (5 Suits)	2021-01-30 — 09:21:52 UTC	derekcheah, dobi, Lel0uch	3	5	25
+419667	3	22	White & Dark Prism (5 Suits)	2021-01-30 — 09:09:53 UTC	derekcheah, dobi, Lel0uch	3	5	25
+419662	3	25	Prism (5 Suits)	2021-01-30 — 08:45:07 UTC	dobi, Lel0uch, MarcLovesDogs	38	5	25
+419657	3	0	No Variant	2021-01-30 — 08:19:18 UTC	dobi, pianoblook, possum	57	5	25
+419648	4	19	Black & White (5 Suits)	2021-01-30 — 07:44:02 UTC	BraydonM, dobi, witcher, wump	23	5	25
+419639	2	24	Dark Pink (5 Suits)	2021-01-30 — 07:14:41 UTC	dobi, Onen	33	5	25
+419628	2	0	Dark Pink (5 Suits)	2021-01-30 — 06:58:54 UTC	dobi, Onen	33	5	25
+419624	2	23	Dark Pink (5 Suits)	2021-01-30 — 06:50:19 UTC	dobi, Onen	58	5	25
+419534	6	30	Black & Pink (6 Suits)	2021-01-30 — 04:46:33 UTC	dobi, indego, Lel0uch, melwen, padi, scharkbite	2	6	30
+419484	3	0	Rainbow & Gray (5 Suits)	2021-01-30 — 04:21:56 UTC	dobi, melwen, padi	11	5	25
+419413	5	28	Rainbow & Gray (6 Suits)	2021-01-30 — 03:43:59 UTC	ADrone, dobi, kipipi, melwen, Zamiel	1	6	30
+419328	5	0	Rainbow & Gray (6 Suits)	2021-01-30 — 03:12:45 UTC	ADrone, dobi, kipipi, melwen, Zamiel	1	6	30
+419265	5	0	Muddy Rainbow & Dark Omni (5 Suits)	2021-01-30 — 02:37:09 UTC	Asddsa76, dobi, HelanaAshryvr, indego, rz	1	5	25
+419190	4	0	Muddy Rainbow & Dark Omni (5 Suits)	2021-01-30 — 01:55:10 UTC	dobi, HelanaAshryvr, indego, rz	1	5	25
+419160	4	21	Rainbow & Gray (5 Suits)	2021-01-30 — 01:24:12 UTC	dobi, indego, qqqq, sephiroth	7	5	25
+419124	4	0	Rainbow & Gray (5 Suits)	2021-01-30 — 00:53:19 UTC	dobi, indego, qqqq, sephiroth	9	5	25
+419088	4	21	Dark Prism (5 Suits)	2021-01-30 — 00:29:12 UTC	dobi, MarcLovesDogs, qqqq, sephiroth	3	5	25
+419052	5	26	Dual-Color & Dark Pink (6 Suits)	2021-01-30 — 00:00:25 UTC	dobi, Floriman, Kyle, micerang, sephiroth	2	6	30
+419022	5	30	Dual-Color & Pink (6 Suits)	2021-01-29 — 23:33:43 UTC	dobi, Floriman, Kyle, micerang, sephiroth	2	6	30
+418819	3	24	White & Prism (5 Suits)	2021-01-29 — 20:48:15 UTC	bjnh, dobi, ksfortson	7	5	25
+418699	6	0	Brown-Ones & Rainbow (4 Suits)	2021-01-29 — 18:33:23 UTC	4head, bjnh, ChristopheAF, dobi, Lanvin, Lel0uch	1	4	20
+418696	3	0	Black & Pink (6 Suits)	2021-01-29 — 18:24:56 UTC	4head, dobi, Lel0uch	20	6	30
+418618	4	30	Pink-Ones & Rainbow (6 Suits)	2021-01-29 — 16:53:16 UTC	dobi, Lanvin, Lel0uch, TimeHoodie	2	6	30
+418447	4	24	Rainbow (5 Suits)	2021-01-29 — 07:19:53 UTC	caña, dobi, MangoPie, otterful	92	5	25
+418436	4	0	Rainbow (5 Suits)	2021-01-29 — 06:53:19 UTC	caña, dobi, MangoPie, otterful	130	5	25
+418418	5	0	Black & Prism (6 Suits)	2021-01-29 — 06:32:03 UTC	caña, dobi, indego, MangoPie, otterful	4	6	30
+418416	5	0	Light Pink (5 Suits)	2021-01-29 — 06:25:10 UTC	caña, dobi, indego, MangoPie, otterful	12	5	25
+418335	5	0	3 Suits	2021-01-29 — 04:46:57 UTC	4head, dobi, indego, newduke, RaKXeR	24	3	15
+418178	6	29	White-Ones & Rainbow (6 Suits)	2021-01-29 — 02:38:13 UTC	Bot-Fiora, dobi, HelanaAshryvr, Lanvin, MangoPie, TimeHoodie	1	6	30
+418141	6	0	White-Ones & Rainbow (6 Suits)	2021-01-29 — 02:08:03 UTC	Bot-Fiora, dobi, HelanaAshryvr, Lanvin, MangoPie, TimeHoodie	1	6	30
+418101	4	27	White (6 Suits)	2021-01-29 — 01:03:48 UTC	BlueNovember, dobi, hailey, Nitrate	60	6	30
+418045	3	0	Muddy-Rainbow-Ones & Rainbow (6 Suits)	2021-01-28 — 23:41:59 UTC	antitelharsic, dobi, Lanvin	2	6	30
+418029	3	22	Black (5 Suits)	2021-01-28 — 23:20:55 UTC	dobi, nkkarpov, Wittvector	31	5	25
+417965	4	14	Omni (3 Suits)	2021-01-28 — 22:19:37 UTC	dobi, newduke, Pablo-, rz	8	3	15
+417937	4	13	Omni (3 Suits)	2021-01-28 — 21:58:30 UTC	dobi, newduke, Pablo-, rz	11	3	15
+417908	4	0	Omni (3 Suits)	2021-01-28 — 21:38:30 UTC	dobi, newduke, Pablo-, rz	11	3	15
+417730	4	0	Black & Light Pink (5 Suits)	2021-01-28 — 18:48:30 UTC	dobi, sephiroth, TimeHoodie, VerySloppyTwo	4	5	25
+417719	4	0	No Variant	2021-01-28 — 18:38:12 UTC	dobi, jian01, ksfortson, Onen	39	5	25
+417705	4	22	Black & Light Pink (5 Suits)	2021-01-28 — 18:28:59 UTC	dobi, jeff10, macanek, robense	7	5	25
+417439	4	0	Black (6 Suits)	2021-01-28 — 09:25:16 UTC	derekcheah, dobi, hakha3, Lel0uch	121	6	30
+417434	4	0	Black (6 Suits)	2021-01-28 — 09:09:49 UTC	catula, derekcheah, dobi, Lel0uch	112	6	30
+417432	4	0	Black (6 Suits)	2021-01-28 — 08:47:03 UTC	catula, derekcheah, dobi, Lel0uch	175	6	30
+417424	4	0	Pink-Fives & Dark Prism (5 Suits)	2021-01-28 — 08:24:43 UTC	catula, derekcheah, dobi, Lel0uch	1	5	25
+417421	4	0	Pink-Fives & Dark Prism (5 Suits)	2021-01-28 — 08:19:02 UTC	catula, derekcheah, dobi, Lel0uch	2	5	25
+417416	3	25	Pink & Prism (5 Suits)	2021-01-28 — 08:10:25 UTC	4head, dobi, Lel0uch	6	5	25
+417411	3	0	Pink & Prism (5 Suits)	2021-01-28 — 07:57:11 UTC	4head, dobi, Lel0uch	7	5	25
+417407	3	0	Pink & Prism (5 Suits)	2021-01-28 — 07:45:44 UTC	4head, dobi, Lel0uch	13	5	25
+417382	6	0	Rainbow (5 Suits)	2021-01-28 — 06:26:23 UTC	dobi, indego, IsabeltheCat, kimbifille, newduke, TimeHoodie	5	5	25
+417360	6	0	Rainbow & Pink (4 Suits)	2021-01-28 — 05:55:15 UTC	dobi, indego, IsabeltheCat, kimbifille, newduke, TimeHoodie	3	4	20
+417203	3	27	Black & Rainbow (6 Suits)	2021-01-28 — 03:26:02 UTC	dobi, Lanvin, newduke	59	6	30
+417164	5	30	Pink & Dark Rainbow (6 Suits)	2021-01-28 — 03:01:22 UTC	derekcheah, dobi, Lanvin, melwen, TimeHoodie	1	6	30
+417120	5	0	Pink & Dark Rainbow (6 Suits)	2021-01-28 — 02:36:44 UTC	derekcheah, dobi, Lanvin, melwen, TimeHoodie	2	6	30
+417074	5	30	Omni & Muddy Rainbow (6 Suits)	2021-01-28 — 01:59:59 UTC	derekcheah, dobi, indego, melwen, TimeHoodie	1	6	30
+417028	5	0	Omni & Muddy Rainbow (6 Suits)	2021-01-28 — 01:25:22 UTC	derekcheah, dobi, indego, melwen, TimeHoodie	1	6	30
+416992	5	0	Pink & Brown (6 Suits)	2021-01-28 — 00:44:27 UTC	colton, dobi, indego, Lanvin, melwen	1	6	30
+416984	5	0	Pink & Brown (6 Suits)	2021-01-28 — 00:36:15 UTC	colton, dobi, indego, Lanvin, melwen	1	6	30
+416974	5	0	Pink & Brown (6 Suits)	2021-01-28 — 00:27:42 UTC	colton, dobi, indego, Lanvin, melwen	5	6	30
+416921	5	0	White-Ones & White (5 Suits)	2021-01-27 — 23:06:00 UTC	bjnh, dobi, Floriman, indego, jeff10	5	5	25
+416888	5	23	White-Ones & White (5 Suits)	2021-01-27 — 22:32:45 UTC	bjnh, dobi, Floriman, indego, jeff10	6	5	25
+416772	5	0	Black (6 Suits)	2021-01-27 — 21:25:53 UTC	dobi, hakha3, HelanaAshryvr, Lanvin, newduke	24	6	30
+416740	5	27	Black (6 Suits)	2021-01-27 — 21:04:04 UTC	dobi, hakha3, HelanaAshryvr, Lanvin, newduke	22	6	30
+416689	3	23	Up or Down & Brown (5 Suits)	2021-01-27 — 20:31:47 UTC	dobi, Lanvin, newduke	6	5	25
+416601	4	23	Black & Rainbow (5 Suits)	2021-01-27 — 19:14:17 UTC	bjnh, caña, dobi, Plum	16	5	25
+416586	4	0	Black & Rainbow (5 Suits)	2021-01-27 — 19:00:54 UTC	bjnh, caña, dobi, Plum	32	5	25
+416519	5	0	Omni-Ones & Dark Pink (6 Suits)	2021-01-27 — 18:08:47 UTC	asaelr, dobi, duckington, Lanvin, melwen	2	6	30
+416504	5	0	Omni-Ones & Dark Pink (6 Suits)	2021-01-27 — 17:43:56 UTC	asaelr, dobi, duckington, Lanvin, melwen	2	6	30
+416471	4	25	Reversed (5 Suits)	2021-01-27 — 16:49:59 UTC	dobi, jian01, MangoPie, possum	17	5	25
+416277	3	25	Dark Omni (5 Suits)	2021-01-27 — 06:32:42 UTC	dobi, indego, pianoblook	12	5	25
+416260	3	24	Dark Omni (5 Suits)	2021-01-27 — 06:09:30 UTC	dobi, indego, pianoblook	16	5	25
+416241	3	0	Dark Omni (5 Suits)	2021-01-27 — 05:44:33 UTC	dobi, indego, pianoblook	22	5	25
+416234	3	0	Muddy Rainbow & Dark Omni (6 Suits)	2021-01-27 — 05:35:05 UTC	dobi, indego, pianoblook	2	6	30
+416222	3	0	Muddy Rainbow & Dark Omni (6 Suits)	2021-01-27 — 05:27:01 UTC	dobi, indego, pianoblook	2	6	30
+416200	3	0	Muddy Rainbow & Dark Omni (6 Suits)	2021-01-27 — 05:13:24 UTC	dobi, indego, pianoblook	4	6	30
+416103	2	0	Dark Prism (5 Suits)	2021-01-27 — 04:17:41 UTC	dobi, StKildaFan	29	5	25
+416093	2	25	Dark Prism (5 Suits)	2021-01-27 — 04:12:06 UTC	dobi, StKildaFan	40	5	25
+416079	2	0	Dark Prism (5 Suits)	2021-01-27 — 04:04:43 UTC	dobi, StKildaFan	38	5	25
+416069	2	0	Dark Prism (5 Suits)	2021-01-27 — 03:53:49 UTC	dobi, StKildaFan	41	5	25
+415948	3	30	Muddy Rainbow & Dark Pink (6 Suits)	2021-01-27 — 02:09:36 UTC	dobi, indego, jeff10	2	6	30
+415928	3	0	Muddy Rainbow & Dark Pink (6 Suits)	2021-01-27 — 01:44:47 UTC	dobi, indego, jeff10	2	6	30
+415912	3	0	Muddy Rainbow & Dark Pink (6 Suits)	2021-01-27 — 01:25:16 UTC	dobi, indego, jeff10	2	6	30
+415868	5	0	Dark Brown (6 Suits)	2021-01-27 — 00:25:21 UTC	bjnh, Bot-Fiora, dobi, HelanaAshryvr, Lanvin	9	6	30
+415790	5	29	Dark Omni (6 Suits)	2021-01-26 — 22:50:02 UTC	ChristopheAF, dobi, HelanaAshryvr, Lanvin, newduke	10	6	30
+415766	5	0	Special Mix (5 Suits)	2021-01-26 — 22:34:25 UTC	ChristopheAF, dobi, HelanaAshryvr, Lanvin, newduke	7	5	25
+415760	5	0	Special Mix (5 Suits)	2021-01-26 — 22:29:03 UTC	ChristopheAF, dobi, HelanaAshryvr, Lanvin, newduke	11	5	25
+415741	4	0	Special Mix (5 Suits)	2021-01-26 — 22:08:51 UTC	ChristopheAF, dobi, HelanaAshryvr, Lanvin	39	5	25
+415717	4	21	White & Dark Pink (5 Suits)	2021-01-26 — 21:47:42 UTC	dobi, jack67889, Lanvin, MarkusKahlsen	3	5	25
+415703	3	0	Dark Pink (5 Suits)	2021-01-26 — 21:27:40 UTC	dobi, jack67889, Lanvin	26	5	25
+415663	5	29	Muddy Rainbow (6 Suits)	2021-01-26 — 20:48:45 UTC	dobi, Floriman, jeff10, lolthisnotderk, Onen	10	6	30
+415604	5	0	Omni-Ones & Dark Pink (6 Suits)	2021-01-26 — 20:10:02 UTC	dobi, duckington, MarkusKahlsen, sin_faith, TimeHoodie	1	6	30
+415581	5	0	Omni-Ones & Dark Pink (6 Suits)	2021-01-26 — 19:46:50 UTC	dobi, duckington, MarkusKahlsen, sin_faith, TimeHoodie	1	6	30
+415348	5	24	White-Fives & Muddy Rainbow (5 Suits)	2021-01-26 — 09:14:23 UTC	antitelharsic, catula, dobi, sephiroth, VerySloppyTwo	1	5	25
+415340	4	0	White-Fives & Muddy Rainbow (5 Suits)	2021-01-26 — 08:45:15 UTC	antitelharsic, catula, dobi, sephiroth	1	5	25
+415333	4	0	Black (5 Suits)	2021-01-26 — 08:23:17 UTC	Asddsa76, dobi, IsabeltheCat, qqqq	24	5	25
+415328	4	0	Black (5 Suits)	2021-01-26 — 08:00:56 UTC	Asddsa76, dobi, IsabeltheCat, qqqq	28	5	25
+415325	5	0	Black (5 Suits)	2021-01-26 — 07:54:11 UTC	dobi, indego, IsabeltheCat, Lel0uch, qqqq	12	5	25
+415324	5	0	Black (5 Suits)	2021-01-26 — 07:44:39 UTC	dobi, indego, IsabeltheCat, Lel0uch, qqqq	17	5	25
+415320	5	0	Black (5 Suits)	2021-01-26 — 07:29:28 UTC	Asddsa76, dobi, indego, newduke, qqqq	11	5	25
+415317	5	0	Black (5 Suits)	2021-01-26 — 07:24:29 UTC	Asddsa76, dobi, indego, newduke, qqqq	10	5	25
+415307	5	0	Black (5 Suits)	2021-01-26 — 07:06:44 UTC	Asddsa76, dobi, indego, newduke, qqqq	13	5	25
+415295	5	0	Black (5 Suits)	2021-01-26 — 06:45:52 UTC	Asddsa76, dobi, indego, newduke, qqqq	36	5	25
+415290	4	0	Black (5 Suits)	2021-01-26 — 06:34:52 UTC	Asddsa76, dobi, indego, qqqq	41	5	25
+415248	3	25	Gray Reversed (5 Suits)	2021-01-26 — 05:14:28 UTC	dobi, Fey, Lel0uch	7	5	25
+415234	2	30	Black (6 Suits)	2021-01-26 — 04:48:25 UTC	dobi, Lel0uch	239	6	30
+415221	2	0	Black (6 Suits)	2021-01-26 — 04:36:40 UTC	dobi, Lel0uch	255	6	30
+415135	4	0	White & Dark Pink (5 Suits)	2021-01-26 — 02:51:18 UTC	dobi, indego, melwen, TimeHoodie	4	5	25
+415104	5	0	Rainbow & Gray (6 Suits)	2021-01-26 — 02:11:35 UTC	dobi, duckington, indego, melwen, TimeHoodie	1	6	30
+415090	5	0	Rainbow & Gray (6 Suits)	2021-01-26 — 01:48:24 UTC	dobi, duckington, indego, melwen, TimeHoodie	2	6	30
+415085	5	0	Rainbow & Gray (6 Suits)	2021-01-26 — 01:37:10 UTC	dobi, duckington, indego, melwen, TimeHoodie	4	6	30
+415081	5	0	Rainbow & Gray (6 Suits)	2021-01-26 — 01:30:14 UTC	dobi, duckington, indego, melwen, TimeHoodie	5	6	30
+414965	6	0	Prism (5 Suits)	2021-01-25 — 23:02:49 UTC	dobi, MarkusKahlsen, melwen, rachyrules, sephiroth, Wittvector	2	5	25
+414938	4	23	Rainbow & Gray (5 Suits)	2021-01-25 — 22:33:32 UTC	dobi, MarkusKahlsen, melwen, rachyrules	2	5	25
+414915	2	0	Black (6 Suits)	2021-01-25 — 22:04:52 UTC	dobi, MarkusKahlsen	300	6	30
+414828	2	30	Black (6 Suits)	2021-01-25 — 20:44:16 UTC	bjnh, dobi	546	6	30
+414819	2	0	Black (6 Suits)	2021-01-25 — 20:36:40 UTC	bjnh, dobi	643	6	30
+414722	3	25	Dark Brown (5 Suits)	2021-01-25 — 19:12:38 UTC	dobi, hakha3, MarkusKahlsen	26	5	25
+414625	5	0	Omni (6 Suits)	2021-01-25 — 17:02:20 UTC	dobi, frosty104, Lanvin, Pablo-, Wittvector	9	6	30
+414464	5	30	Pink & Muddy Rainbow (6 Suits)	2021-01-25 — 08:01:23 UTC	Asddsa76, dobi, indego, katian, Lel0uch	3	6	30
+414455	3	20	Reversed (4 Suits)	2021-01-25 — 07:16:22 UTC	dobi, lolthisnotderk, rahsosprout	18	4	20
+414418	5	0	Rainbow & White (5 Suits)	2021-01-25 — 05:41:14 UTC	Asddsa76, dobi, ejwu, indego, Lel0uch	5	5	25
+413997	3	25	No Variant	2021-01-24 — 22:27:31 UTC	dobi, nkkarpov, Onen	573	5	25
+413961	3	29	Dual-Color Mix	2021-01-24 — 21:48:23 UTC	dobi, rz, wump	13	6	30
+413859	3	29	Dual-Color Mix	2021-01-24 — 20:25:29 UTC	dobi, rz, wump	4	6	30
+413779	3	0	Dual-Color Mix	2021-01-24 — 19:40:21 UTC	dobi, rz, wump	5	6	30
+413730	4	29	Pink & White (6 Suits)	2021-01-24 — 19:01:11 UTC	ChristopheAF, dobi, HelanaAshryvr, MarkusKahlsen	7	6	30
+413670	3	0	No Variant	2021-01-24 — 17:59:57 UTC	dobi, Doge, Donna	451	5	25
+413483	5	22	Black (5 Suits)	2021-01-24 — 10:52:17 UTC	dobi, indego, Lel0uch, qqqq, sephiroth	13	5	25
+413474	5	0	Black (5 Suits)	2021-01-24 — 10:24:30 UTC	dobi, indego, Lel0uch, qqqq, sephiroth	12	5	25
+413464	5	0	Black (5 Suits)	2021-01-24 — 10:07:17 UTC	dobi, indego, Lel0uch, qqqq, sephiroth	23	5	25
+413458	4	30	Rainbow & Brown (6 Suits)	2021-01-24 — 09:49:01 UTC	dobi, indego, katian, sephiroth	11	6	30
+413444	4	0	Rainbow & Brown (6 Suits)	2021-01-24 — 09:17:20 UTC	dobi, indego, katian, sephiroth	12	6	30
+413439	4	0	Omni (6 Suits)	2021-01-24 — 09:02:41 UTC	dobi, indego, katian, sephiroth	19	6	30
+413432	4	30	Cocoa Rainbow (6 Suits)	2021-01-24 — 08:37:16 UTC	derekcheah, dobi, katian, Lel0uch	7	6	30
+413411	5	25	No Variant	2021-01-24 — 07:44:46 UTC	4head, dobi, Fey, Lel0uch, louietyj	81	5	25
+413345	3	29	Dual-Color Mix	2021-01-24 — 06:11:21 UTC	dobi, rz, wump	12	6	30
+413240	3	29	Dual-Color Mix	2021-01-24 — 04:44:37 UTC	dobi, rz, wump	7	6	30
+413199	3	30	Muddy Rainbow (6 Suits)	2021-01-24 — 04:08:54 UTC	dobi, Onen, ricardodd	49	6	30
+412769	3	0	Dual-Color Mix	2021-01-23 — 21:18:19 UTC	dobi, rz, wump	5	6	30
+412716	3	0	Dual-Color Mix	2021-01-23 — 20:43:01 UTC	dobi, rz, wump	6	6	30
+412684	3	29	Dual-Color Mix	2021-01-23 — 20:05:47 UTC	dobi, rz, wump	7	6	30
+412621	5	0	Pink-Fives & Dark Prism (6 Suits)	2021-01-23 — 19:15:50 UTC	dobi, indego, Lanvin, MangoPie, rz	1	6	30
+412517	4	0	Muddy Rainbow & Light Pink (6 Suits)	2021-01-23 — 17:59:58 UTC	dobi, Lanvin, MangoPie, rz	4	6	30
+412507	4	22	Deceptive-Ones & Gray Pink (5 Suits)	2021-01-23 — 17:44:26 UTC	dobi, Lanvin, Lel0uch, rz	1	5	25
+412498	2	0	Black (6 Suits)	2021-01-23 — 17:23:03 UTC	dobi, Lanvin	442	6	30
+412223	2	0	No Variant	2021-01-23 — 09:52:34 UTC	dobi, skyblueexo	1621	5	25
+412220	2	0	No Variant	2021-01-23 — 09:46:11 UTC	dobi, skyblueexo	1703	5	25
+412209	2	0	No Variant	2021-01-23 — 09:26:43 UTC	dobi, skyblueexo	1840	5	25
+412201	5	30	Dark Prism (6 Suits)	2021-01-23 — 08:50:53 UTC	derekcheah, dobi, Fey, Lel0uch, Wittvector	5	6	30
+412192	5	0	Dark Prism (6 Suits)	2021-01-23 — 08:22:11 UTC	derekcheah, dobi, Fey, Lel0uch, Wittvector	6	6	30
+412187	4	0	Up or Down (5 Suits)	2021-01-23 — 07:59:12 UTC	dobi, Fey, Lel0uch, Wittvector	18	5	25
+412183	4	0	Rainbow & Dark Brown (5 Suits)	2021-01-23 — 07:53:12 UTC	bjnh, derekcheah, dobi, Lel0uch	3	5	25
+412179	4	0	Rainbow & Dark Brown (5 Suits)	2021-01-23 — 07:42:18 UTC	bjnh, derekcheah, dobi, Lel0uch	3	5	25
+412148	6	30	Black (6 Suits)	2021-01-23 — 06:48:20 UTC	Asddsa76, dobi, duckington, indego, katian, skyblueexo	5	6	30
+412117	3	0	Dark Rainbow (5 Suits)	2021-01-23 — 06:08:28 UTC	dobi, indego, katian	48	5	25
+412105	3	0	Gray (5 Suits)	2021-01-23 — 05:51:44 UTC	dobi, indego, katian	42	5	25
+412083	2	0	No Variant	2021-01-23 — 05:29:54 UTC	dobi, indego	5374	5	25
+412065	4	25	Pink & Dark Rainbow (5 Suits)	2021-01-23 — 05:11:40 UTC	derekcheah, dobi, Lel0uch, melwen	1	5	25
+412033	4	0	Pink & Dark Rainbow (5 Suits)	2021-01-23 — 04:50:54 UTC	dobi, Lel0uch, melwen, swineherd	1	5	25
+412002	4	0	Pink & Dark Rainbow (5 Suits)	2021-01-23 — 04:34:28 UTC	dobi, Lel0uch, melwen, swineherd	1	5	25
+411977	4	0	Pink & Dark Rainbow (5 Suits)	2021-01-23 — 04:18:28 UTC	dobi, Lel0uch, melwen, swineherd	1	5	25
+411904	4	23	Pink & Dark Rainbow (5 Suits)	2021-01-23 — 03:17:19 UTC	dobi, indego, Lanvin, melwen	1	5	25
+411890	4	0	Pink & Dark Rainbow (5 Suits)	2021-01-23 — 02:55:43 UTC	dobi, indego, Lanvin, melwen	1	5	25
+411847	3	0	Dual-Color Mix	2021-01-23 — 02:17:17 UTC	dobi, rz, wump	8	6	30
+411831	3	0	Dual-Color Mix	2021-01-23 — 02:05:18 UTC	dobi, rz, wump	7	6	30
+411815	3	0	Dual-Color Mix	2021-01-23 — 01:50:39 UTC	dobi, rz, wump	8	6	30
+411806	5	0	White-Ones & Brown (6 Suits)	2021-01-23 — 01:37:00 UTC	dobi, Doge, indego, Lanvin, newduke	3	6	30
+411802	5	0	White-Ones & Brown (6 Suits)	2021-01-23 — 01:33:52 UTC	dobi, Doge, indego, Lanvin, newduke	3	6	30
+411788	5	0	Rainbow & Cocoa Rainbow (6 Suits)	2021-01-23 — 01:18:39 UTC	dobi, Doge, indego, Lanvin, newduke	1	6	30
+411759	4	28	Gray (6 Suits)	2021-01-23 — 00:40:37 UTC	dobi, indego, Kernel, Lanvin	29	6	30
+411746	3	0	Black (5 Suits)	2021-01-23 — 00:14:41 UTC	dobi, Kernel, Lanvin	101	5	25
+411692	5	0	White-Ones & Black (6 Suits)	2021-01-22 — 23:24:57 UTC	dobi, Hoodie, Kernel, Lanvin, sephiroth	1	6	30
+411676	6	24	Dark Pink (5 Suits)	2021-01-22 — 23:00:57 UTC	ChristopheAF, dobi, Hoodie, Lanvin, Onen, sephiroth	3	5	25
+411630	5	0	Gray (6 Suits)	2021-01-22 — 22:07:31 UTC	arnino, dobi, jeff10, macanek, rz	7	6	30
+411408	5	28	Black & Rainbow (6 Suits)	2021-01-22 — 16:46:47 UTC	dobi, Lel0uch, MangoPie, MarkusKahlsen, micerang	12	6	30
+411258	5	0	Prism (5 Suits)	2021-01-22 — 08:07:52 UTC	bjnh, dobi, Fey, katian, lolthisnotderk	3	5	25
+411253	4	0	Omni (5 Suits)	2021-01-22 — 07:43:11 UTC	bjnh, dobi, indego, newduke	9	5	25
+411240	3	0	Omni (5 Suits)	2021-01-22 — 07:11:10 UTC	bjnh, dobi, newduke	11	5	25
+411162	5	0	Black (5 Suits)	2021-01-22 — 05:37:14 UTC	dobi, indego, Lel0uch, MangoPie, melwen	8	5	25
+411143	6	21	Black (5 Suits)	2021-01-22 — 05:12:30 UTC	dobi, HelanaAshryvr, indego, Lel0uch, louietyj, melwen	5	5	25
+411123	4	19	White (4 Suits)	2021-01-22 — 04:40:18 UTC	bjnh, caña, dobi, Onen	34	4	20
+411035	3	0	Up or Down & White (5 Suits)	2021-01-22 — 02:38:04 UTC	dobi, Kyle, Lanvin	3	5	25
+411022	3	0	Up or Down & White (5 Suits)	2021-01-22 — 02:24:04 UTC	dobi, Kyle, Lanvin	3	5	25
+411003	3	0	Up or Down & White (5 Suits)	2021-01-22 — 02:10:47 UTC	dobi, Kyle, Lanvin	3	5	25
+410986	2	24	Muddy-Rainbow-Ones & Black (5 Suits)	2021-01-22 — 01:59:59 UTC	dobi, Lanvin	3	5	25
+410965	4	20	Pink & Brown (4 Suits)	2021-01-22 — 01:36:25 UTC	caña, dobi, Lanvin, sephiroth	4	4	20
+410932	5	0	Up or Down & Pink (6 Suits)	2021-01-22 — 00:35:51 UTC	dobi, indego, Lanvin, sephiroth, skyblueexo	6	6	30
+410718	4	25	Pink (5 Suits)	2021-01-21 — 19:54:05 UTC	4head, dobi, MangoPie, wump	69	5	25
+410586	5	0	Light-Pink-Fives & Dark Rainbow (5 Suits)	2021-01-21 — 16:30:41 UTC	ADrone, dobi, Floriman, Kyle, micerang	1	5	25
+410566	4	24	Clue Starved & Rainbow (5 Suits)	2021-01-21 — 15:52:18 UTC	ADrone, dobi, Floriman, micerang	3	5	25
+410413	5	0	Dark Brown (6 Suits)	2021-01-21 — 09:09:47 UTC	dobi, indego, pianoblook, sephiroth, Wittvector	6	6	30
+410410	6	0	Light-Pink-Fives & Muddy Rainbow (5 Suits)	2021-01-21 — 08:57:13 UTC	derekcheah, dobi, indego, pianoblook, sephiroth, Wittvector	1	5	25
+410402	4	0	Light-Pink-Fives & Muddy Rainbow (5 Suits)	2021-01-21 — 08:38:42 UTC	dobi, pianoblook, sephiroth, Wittvector	1	5	25
+410391	3	0	Light-Pink-Fives & Muddy Rainbow (5 Suits)	2021-01-21 — 08:16:47 UTC	dobi, pianoblook, Wittvector	1	5	25
+410382	3	20	Light-Pink-Fives & Brown (4 Suits)	2021-01-21 — 07:52:06 UTC	dobi, pianoblook, Wittvector	3	4	20
+410367	3	0	Pink & White (5 Suits)	2021-01-21 — 07:08:56 UTC	derekcheah, dobi, frosty104	2	5	25
+410362	3	0	Pink & White (5 Suits)	2021-01-21 — 06:59:33 UTC	derekcheah, dobi, frosty104	2	5	25
+410361	3	0	Pink & White (5 Suits)	2021-01-21 — 06:57:48 UTC	derekcheah, dobi, frosty104	2	5	25
+410358	3	0	Pink & White (5 Suits)	2021-01-21 — 06:53:42 UTC	derekcheah, dobi, frosty104	4	5	25
+410349	3	0	Pink & White (5 Suits)	2021-01-21 — 06:39:15 UTC	derekcheah, dobi, frosty104	7	5	25
+410344	3	0	Pink & White (5 Suits)	2021-01-21 — 06:27:55 UTC	derekcheah, dobi, frosty104	14	5	25
+410338	3	25	Black & Prism (5 Suits)	2021-01-21 — 06:09:39 UTC	dobi, frosty104, Lel0uch	9	5	25
+410315	3	25	Up or Down (5 Suits)	2021-01-21 — 05:38:06 UTC	colton, dobi, eljavi	113	5	25
+410298	5	0	Brown & Muddy Rainbow (5 Suits)	2021-01-21 — 05:02:23 UTC	dobi, frosty104, indego, Lel0uch, melwen	1	5	25
+410228	6	0	Brown & Muddy Rainbow (5 Suits)	2021-01-21 — 03:40:23 UTC	dobi, indego, Lel0uch, melwen, newduke, rz	1	5	25
+410194	5	24	Rainbow & White (5 Suits)	2021-01-21 — 02:52:23 UTC	dobi, Doge, Hoodie, indego, Lanvin	5	5	25
+410173	5	0	Rainbow & White (5 Suits)	2021-01-21 — 02:25:26 UTC	dobi, Doge, Hoodie, indego, Lanvin	7	5	25
+410153	4	28	Brown & Cocoa Rainbow (6 Suits)	2021-01-21 — 01:58:38 UTC	dobi, Hoodie, indego, Lanvin	2	6	30
+409934	3	0	Muddy-Rainbow-Ones & Dark Prism (6 Suits)	2021-01-20 — 21:29:38 UTC	dobi, Floriman, Hoodie	2	6	30
+409915	3	0	Muddy-Rainbow-Ones & Dark Prism (6 Suits)	2021-01-20 — 21:14:26 UTC	dobi, Floriman, Hoodie	2	6	30
+409859	3	23	Dark Pink (5 Suits)	2021-01-20 — 20:19:26 UTC	dobi, jeff10, Onen	38	5	25
+409680	5	18	Pink (4 Suits)	2021-01-20 — 17:16:47 UTC	dobi, HelanaAshryvr, indego, MangoPie, Wittvector	4	4	20
+409662	3	0	Omni (3 Suits)	2021-01-20 — 16:29:04 UTC	dobi, indego, MangoPie	26	3	15
+409283	6	24	Dark Rainbow (5 Suits)	2021-01-20 — 04:25:39 UTC	antitelharsic, dobi, ejwu, HelanaAshryvr, indego, JerryYang	4	5	25
+409219	4	0	Dark Rainbow (5 Suits)	2021-01-20 — 03:31:06 UTC	antitelharsic, dobi, indego, JerryYang	17	5	25
+409194	4	0	Rainbow (5 Suits)	2021-01-20 — 02:50:27 UTC	dobi, eljavi, ksfortson, orucsoraihc	23	5	25
+409174	4	0	Rainbow (5 Suits)	2021-01-20 — 02:26:04 UTC	dobi, eljavi, ksfortson, orucsoraihc	26	5	25
+409160	4	0	Rainbow (5 Suits)	2021-01-20 — 02:07:05 UTC	dobi, eljavi, ksfortson, orucsoraihc	30	5	25
+409112	3	20	No Variant	2021-01-20 — 01:01:17 UTC	4head, dobi, yummya	840	5	25
+409071	5	0	Special Mix (5 Suits)	2021-01-19 — 23:45:12 UTC	ChristopheAF, dobi, Kyle, Lanvin, melwen	2	5	25
+409013	6	0	Special Mix (5 Suits)	2021-01-19 — 22:25:30 UTC	ChristopheAF, dobi, HelanaAshryvr, Lanvin, melwen, newduke	1	5	25
+408673	3	0	Dark Rainbow (5 Suits)	2021-01-19 — 17:06:40 UTC	dobi, Fey, robense	35	5	25
+408661	3	0	Dark Rainbow (5 Suits)	2021-01-19 — 16:50:54 UTC	dobi, Fey, robense	36	5	25
+408654	2	28	Light Pink (6 Suits)	2021-01-19 — 16:34:21 UTC	dobi, Fey	47	6	30
+408649	2	0	Light Pink (6 Suits)	2021-01-19 — 16:23:26 UTC	dobi, Fey	61	6	30
+408450	2	0	Omni (5 Suits)	2021-01-19 — 08:05:14 UTC	dobi, newduke	55	5	25
+408445	2	0	Omni (5 Suits)	2021-01-19 — 07:49:48 UTC	dobi, newduke	78	5	25
+408442	2	0	Omni (5 Suits)	2021-01-19 — 07:38:46 UTC	dobi, newduke	106	5	25
+408440	2	24	Pink (5 Suits)	2021-01-19 — 07:28:05 UTC	dobi, newduke	95	5	25
+408435	2	0	Pink (5 Suits)	2021-01-19 — 07:17:36 UTC	dobi, newduke	119	5	25
+408433	2	0	Pink (5 Suits)	2021-01-19 — 07:08:26 UTC	dobi, newduke	200	5	25
+408426	4	0	Omni (4 Suits)	2021-01-19 — 06:46:32 UTC	dobi, Fey, newduke, StKildaFan	1	4	20
+408410	4	0	Omni (4 Suits)	2021-01-19 — 06:25:18 UTC	dobi, Fey, newduke, StKildaFan	1	4	20
+408394	6	25	No Variant	2021-01-19 — 06:01:38 UTC	dobi, frosty104, ksfortson, MarcLovesDogs, otterful, torp	32	5	25
+408284	4	25	No Variant	2021-01-19 — 04:29:20 UTC	colton, dobi, eljavi, nkkarpov	655	5	25
+408258	5	0	No Variant	2021-01-19 — 03:59:00 UTC	dobi, eljavi, pianoblook, rz, wump	29	5	25
+408233	3	30	Dual-Color Mix	2021-01-19 — 03:32:25 UTC	dobi, rz, wump	14	6	30
+408166	3	0	Dual-Color Mix	2021-01-19 — 02:38:11 UTC	dobi, rz, wump	14	6	30
+408104	3	30	Dual-Color Mix	2021-01-19 — 01:29:27 UTC	dobi, rz, wump	8	6	30
+408063	3	27	Dual-Color Mix	2021-01-19 — 00:40:44 UTC	dobi, rz, wump	8	6	30
+408035	5	0	Black & Pink (5 Suits)	2021-01-19 — 00:13:54 UTC	dobi, Nitrate, rachyrules, sephiroth, wump	5	5	25
+408031	3	24	Black & Pink (5 Suits)	2021-01-19 — 00:03:58 UTC	dobi, Nitrate, sephiroth	22	5	25
+408006	5	24	Pink-Ones & Black (6 Suits)	2021-01-18 — 23:33:52 UTC	dobi, indego, IsabeltheCat, Lanvin, Onen	2	6	30
+407769	3	0	No Variant	2021-01-18 — 20:26:35 UTC	dobi, hakha3, macanek	77	5	25
+407765	3	0	No Variant	2021-01-18 — 20:23:16 UTC	dobi, hakha3, macanek	79	5	25
+407760	3	0	No Variant	2021-01-18 — 20:18:40 UTC	dobi, hakha3, macanek	89	5	25
+407758	3	0	No Variant	2021-01-18 — 20:16:30 UTC	dobi, hakha3, macanek	101	5	25
+407754	4	0	No Variant	2021-01-18 — 20:13:45 UTC	Daryl, dobi, hakha3, macanek	243	5	25
+407741	5	24	No Variant	2021-01-18 — 20:08:00 UTC	dobi, Floriman, hakha3, macanek, orucsoraihc	67	5	25
+407737	5	0	No Variant	2021-01-18 — 20:05:05 UTC	dobi, Floriman, hakha3, macanek, orucsoraihc	100	5	25
+407651	5	21	Black (5 Suits)	2021-01-18 — 18:51:43 UTC	dobi, newduke, PMP, Wittvector, zeinab001	27	5	25
+407639	4	0	Black (6 Suits)	2021-01-18 — 18:33:21 UTC	dobi, PMP, Wittvector, zeinab001	128	6	30
+407593	5	24	Up or Down (5 Suits)	2021-01-18 — 17:45:27 UTC	4head, dobi, eljavi, Fey, MarkusKahlsen	5	5	25
+407570	5	0	Up or Down (5 Suits)	2021-01-18 — 17:25:47 UTC	4head, dobi, eljavi, Fey, MarkusKahlsen	8	5	25
+407564	4	0	Up or Down (5 Suits)	2021-01-18 — 17:18:46 UTC	4head, dobi, Fey, MarkusKahlsen	15	5	25
+407334	6	24	Rainbow-Ones (5 Suits)	2021-01-18 — 11:39:40 UTC	dobi, katian, Lel0uch, MarkusKahlsen, Pablo-, Sucubis	1	5	25
+407317	6	0	Rainbow-Ones (5 Suits)	2021-01-18 — 11:06:45 UTC	dobi, katian, Lel0uch, MarkusKahlsen, Pablo-, Sucubis	1	5	25
+407305	6	29	Light Pink & Gray (6 Suits)	2021-01-18 — 10:44:42 UTC	dobi, katian, Lel0uch, MarkusKahlsen, Pablo-, Sucubis	2	6	30
+407219	3	0	Pink & Prism (5 Suits)	2021-01-18 — 09:51:22 UTC	dobi, macanek, sephiroth	11	5	25
+407209	4	0	Pink-Ones & White (6 Suits)	2021-01-18 — 09:31:42 UTC	asaelr, dobi, Fireheart, Valetta6789	2	6	30
+407195	3	25	White & Brown (5 Suits)	2021-01-18 — 08:47:01 UTC	dobi, macanek, StKildaFan	15	5	25
+407189	3	0	White & Brown (5 Suits)	2021-01-18 — 08:35:47 UTC	dobi, macanek, StKildaFan	23	5	25
+407165	3	23	No Variant	2021-01-18 — 07:45:02 UTC	dobi, louietyj, macanek	178	5	25
+407143	3	30	Dual-Color Mix	2021-01-18 — 06:42:01 UTC	dobi, rz, wump	7	6	30
+407096	3	30	Dual-Color Mix	2021-01-18 — 06:01:10 UTC	dobi, rz, wump	7	6	30
+407045	5	25	Pink (5 Suits)	2021-01-18 — 05:09:22 UTC	aquarelle, dobi, HelanaAshryvr, indego, newduke	14	5	25
+406958	4	24	Up or Down (5 Suits)	2021-01-18 — 03:25:58 UTC	bjnh, dobi, ejwu, indego	27	5	25
+406911	4	0	Up or Down (5 Suits)	2021-01-18 — 02:39:57 UTC	bjnh, dobi, ejwu, indego	31	5	25
+406892	4	0	Up or Down (5 Suits)	2021-01-18 — 02:25:27 UTC	bjnh, dobi, ejwu, indego	35	5	25
+406865	4	0	Up or Down (5 Suits)	2021-01-18 — 01:51:00 UTC	bjnh, dobi, ejwu, indego	41	5	25
+406837	4	19	Rainbow (4 Suits)	2021-01-18 — 01:05:31 UTC	aquarelle, dobi, eljavi, indego	14	4	20
+406813	3	20	4 Suits	2021-01-18 — 00:32:13 UTC	dobi, eljavi, indego	118	4	20
+406778	5	0	Brown-Fives & Light Pink (6 Suits)	2021-01-17 — 23:44:52 UTC	dobi, HelanaAshryvr, indego, Lanvin, newduke	2	6	30
+406747	4	21	Dark Pink (5 Suits)	2021-01-17 — 23:10:31 UTC	dobi, indego, MarkusKahlsen, sephiroth	1	5	25
+406710	4	18	Dark Pink (5 Suits)	2021-01-17 — 22:37:44 UTC	dobi, indego, MarkusKahlsen, sephiroth	1	5	25
+406684	4	0	Dark Pink (5 Suits)	2021-01-17 — 22:15:58 UTC	dobi, indego, MarkusKahlsen, sephiroth	1	5	25
+406648	3	25	Dark Prism (5 Suits)	2021-01-17 — 21:48:52 UTC	dobi, Fey, Kernel	15	5	25
+406623	3	0	Dark Prism (5 Suits)	2021-01-17 — 21:27:37 UTC	dobi, Fey, Kernel	18	5	25
+406619	3	0	Dark Prism (5 Suits)	2021-01-17 — 21:26:42 UTC	dobi, Fey, Kernel	23	5	25
+406215	3	24	No Variant	2021-01-17 — 08:04:34 UTC	4head, dobi, torp	940	5	25
+405969	4	30	Light Pink (6 Suits)	2021-01-17 — 03:38:25 UTC	aquarelle, dobi, HelanaAshryvr, rz	7	6	30
+405930	4	0	Light Pink (6 Suits)	2021-01-17 — 03:13:47 UTC	aquarelle, dobi, HelanaAshryvr, rz	8	6	30
+405912	4	0	Light Pink (6 Suits)	2021-01-17 — 02:55:31 UTC	aquarelle, dobi, HelanaAshryvr, rz	19	6	30
+405812	3	30	Brown (6 Suits)	2021-01-17 — 01:25:26 UTC	bjnh, dobi, Lanvin	61	6	30
+405784	3	24	Up or Down (5 Suits)	2021-01-17 — 00:55:03 UTC	dobi, jack67889, Lanvin	88	5	25
+405764	5	0	Up or Down (6 Suits)	2021-01-17 — 00:29:00 UTC	bjnh, dobi, HelanaAshryvr, jack67889, Lanvin	8	6	30
+405750	4	0	Light-Pink-Ones (5 Suits)	2021-01-17 — 00:10:15 UTC	bjnh, dobi, jack67889, Lanvin	3	5	25
+405300	5	0	Light Pink (4 Suits)	2021-01-16 — 18:50:41 UTC	asaelr, dobi, Kyle, plus, zeinab001	4	4	20
+405290	4	0	Rainbow (3 Suits)	2021-01-16 — 18:39:09 UTC	asaelr, dobi, plus, zeinab001	4	3	15
+405284	4	0	Rainbow (3 Suits)	2021-01-16 — 18:29:22 UTC	asaelr, dobi, plus, zeinab001	24	3	15
+405276	6	23	White & Prism (5 Suits)	2021-01-16 — 18:14:58 UTC	ADrone, Daryl, dobi, Kernel, Libster, MangoPie	2	5	25
+405259	5	19	White (4 Suits)	2021-01-16 — 17:36:24 UTC	ADrone, Daryl, dobi, pianoblook, sjdrodge	5	4	20
+405243	3	23	White-Ones & Prism (5 Suits)	2021-01-16 — 16:54:05 UTC	dobi, Nitrate, TimeHoodie	3	5	25
+405214	3	0	White-Ones & Prism (5 Suits)	2021-01-16 — 16:19:41 UTC	dobi, Nitrate, TimeHoodie	4	5	25
+405084	5	0	Dark Pink (5 Suits)	2021-01-16 — 09:27:01 UTC	derekcheah, dobi, Floriman, sephiroth, TheDaniMan	7	5	25
+405080	4	24	Rainbow & Dark Pink (5 Suits)	2021-01-16 — 09:11:51 UTC	derekcheah, dobi, Floriman, TheDaniMan	4	5	25
+405068	5	0	Prism (6 Suits)	2021-01-16 — 08:49:59 UTC	derekcheah, dobi, Fireheart, frosty104, indego	8	6	30
+405059	5	0	Prism (6 Suits)	2021-01-16 — 08:30:11 UTC	derekcheah, dobi, Fireheart, frosty104, indego	10	6	30
+404645	4	15	Prism (3 Suits)	2021-01-16 — 03:05:57 UTC	dobi, Lanvin, qqqq, Zamiel	11	3	15
+404618	3	0	Cocoa Rainbow (6 Suits)	2021-01-16 — 02:48:40 UTC	dobi, Lanvin, Zamiel	2	6	30
+404587	5	25	White-Ones (5 Suits)	2021-01-16 — 02:27:37 UTC	dobi, HelanaAshryvr, jack_0f_hearts, Lanvin, Zamiel	1	5	25
+404567	4	0	Black (5 Suits)	2021-01-16 — 02:05:24 UTC	dobi, HelanaAshryvr, jack_0f_hearts, Zamiel	21	5	25
+404552	3	25	White-Ones & Rainbow (5 Suits)	2021-01-16 — 01:44:10 UTC	aquarelle, dobi, HelanaAshryvr	9	5	25
+404492	3	27	Dual-Color Mix	2021-01-16 — 00:18:27 UTC	dobi, rz, wump	8	6	30
+404473	3	25	Omni (5 Suits)	2021-01-15 — 23:41:52 UTC	dobi, Onen, wump	50	5	25
+404392	5	0	Dual-Color (5 Suits)	2021-01-15 — 22:01:46 UTC	dobi, Kernel, Lanvin, MarcLovesDogs, newduke	8	5	25
+404115	6	25	White & Null (5 Suits)	2021-01-15 — 16:57:30 UTC	dobi, Kyle, melwen, Nitrate2, plus, sephiroth	1	5	25
+404087	3	30	Dual-Color Mix	2021-01-15 — 16:24:36 UTC	dobi, Kyle, melwen	9	6	30
+403881	4	24	White-Ones & White (5 Suits)	2021-01-15 — 08:44:38 UTC	arnino, dobi, indego, XMIL	6	5	25
+403785	5	24	Up or Down (5 Suits)	2021-01-15 — 06:45:42 UTC	bjnh, dobi, Fey, Lel0uch, TimeHoodie	6	5	25
+403774	5	0	Up or Down (5 Suits)	2021-01-15 — 06:32:09 UTC	bjnh, dobi, Fey, Lel0uch, TimeHoodie	5	5	25
+403753	6	21	Up or Down (5 Suits)	2021-01-15 — 06:05:52 UTC	dobi, Lel0uch, MangoPie, newduke, rahsosprout, torp	2	5	25
+403734	3	22	Up or Down (5 Suits)	2021-01-15 — 05:37:26 UTC	bjnh, dobi, Fey	9	5	25
+403398	3	30	Dual-Color Mix	2021-01-14 — 22:44:45 UTC	dobi, rz, wump	9	6	30
+403304	5	29	Rainbow-Ones & Dark Rainbow (6 Suits)	2021-01-14 — 21:07:42 UTC	ChristopheAF, dobi, HelanaAshryvr, Lanvin, MarkusKahlsen	2	6	30
+403254	4	25	No Variant	2021-01-14 — 20:32:06 UTC	dobi, Floriman, Kyle, Spieler42	13	5	25
+403237	4	24	White-Fives (5 Suits)	2021-01-14 — 20:12:49 UTC	dobi, Floriman, Spieler42, XMIL	8	5	25
+403120	3	30	Rainbow & Dark Brown (6 Suits)	2021-01-14 — 17:04:59 UTC	colton, dobi, hakha3	5	6	30
+403102	3	0	Rainbow & Dark Brown (6 Suits)	2021-01-14 — 16:36:23 UTC	colton, dobi, hakha3	9	6	30
+402767	3	29	Dual-Color Mix	2021-01-14 — 05:01:08 UTC	dobi, HelanaAshryvr, newduke	8	6	30
+402725	3	27	Dual-Color Mix	2021-01-14 — 04:15:28 UTC	dobi, HelanaAshryvr, newduke	8	6	30
+402704	3	0	Dual-Color Mix	2021-01-14 — 03:41:11 UTC	dobi, HelanaAshryvr, newduke	9	6	30
+402641	3	20	4 Suits	2021-01-14 — 02:48:25 UTC	dobi, FerKeth, poofart123	160	4	20
+402489	3	30	Brown-Ones & Cocoa Rainbow (6 Suits)	2021-01-13 — 23:36:44 UTC	ChristopheAF, dobi, Lanvin	1	6	30
+402477	3	30	Up or Down & Pink (6 Suits)	2021-01-13 — 23:14:44 UTC	dobi, newduke, Onen	7	6	30
+402384	4	0	Muddy-Rainbow-Ones & Gray Pink (6 Suits)	2021-01-13 — 21:51:47 UTC	dobi, kevincaseytdk1, Lanvin, robense	1	6	30
+402188	3	0	Up or Down & Light Pink (5 Suits)	2021-01-13 — 19:01:25 UTC	dobi, hakha3, Lanvin	7	5	25
+402152	4	25	Black & Rainbow (5 Suits)	2021-01-13 — 18:26:41 UTC	dobi, Lanvin, Lel0uch, Wittvector	12	5	25
+402131	4	0	Black & Rainbow (5 Suits)	2021-01-13 — 17:49:05 UTC	dobi, Lanvin, Lel0uch, Wittvector	16	5	25
+402118	4	0	Black & Rainbow (5 Suits)	2021-01-13 — 17:33:02 UTC	dobi, Lanvin, Lel0uch, Wittvector	17	5	25
+402112	4	0	Black & Rainbow (5 Suits)	2021-01-13 — 17:25:26 UTC	dobi, Lanvin, Lel0uch, Wittvector	23	5	25
+402092	6	0	Black (5 Suits)	2021-01-13 — 17:00:14 UTC	dobi, indego, Kyle, melwen, Pablo-, XMIL	3	5	25
+401926	5	30	Reversed (6 Suits)	2021-01-13 — 09:34:21 UTC	dobi, Fey, indego, Pablo-, sephiroth	2	6	30
+401923	5	0	3 Suits	2021-01-13 — 09:05:51 UTC	dobi, Fey, indego, Pablo-, sephiroth	11	3	15
+401920	5	29	Prism & Dark Omni (6 Suits)	2021-01-13 — 08:56:17 UTC	dobi, Fey, Lel0uch, Pablo-, sephiroth	1	6	30
+401912	3	21	Gray (5 Suits)	2021-01-13 — 08:27:09 UTC	dobi, Fey, Pablo-	16	5	25
+401909	2	0	Black & Rainbow (5 Suits)	2021-01-13 — 08:11:31 UTC	derekcheah, dobi	45	5	25
+401908	2	0	Black & Rainbow (5 Suits)	2021-01-13 — 08:11:02 UTC	derekcheah, dobi	47	5	25
+401903	2	0	Black & Rainbow (5 Suits)	2021-01-13 — 08:04:29 UTC	derekcheah, dobi	55	5	25
+401899	2	0	Black & Rainbow (5 Suits)	2021-01-13 — 07:59:37 UTC	derekcheah, dobi	61	5	25
+401898	2	0	Black & Rainbow (5 Suits)	2021-01-13 — 07:57:07 UTC	derekcheah, dobi	73	5	25
+401863	3	0	White (6 Suits)	2021-01-13 — 06:41:40 UTC	dobi, eljavi, nkkarpov	70	6	30
+401817	2	22	White (5 Suits)	2021-01-13 — 05:55:02 UTC	dobi, FerKeth	184	5	25
+401793	2	20	Pink (4 Suits)	2021-01-13 — 05:34:37 UTC	dobi, Onen	105	4	20
+401631	3	30	Dual-Color Mix	2021-01-13 — 02:45:29 UTC	dobi, rz, wump	9	6	30
+401589	3	0	Dual-Color Mix	2021-01-13 — 02:15:12 UTC	dobi, rz, wump	11	6	30
+401565	3	0	Dual-Color Mix	2021-01-13 — 01:50:37 UTC	dobi, rz, wump	10	6	30
+401556	3	0	Dual-Color Mix	2021-01-13 — 01:38:50 UTC	dobi, rz, wump	11	6	30
+401546	3	0	Dual-Color Mix	2021-01-13 — 01:19:20 UTC	dobi, rz, wump	11	6	30
+401517	4	0	Rainbow & Null (6 Suits)	2021-01-13 — 00:42:23 UTC	dobi, Fireheart, Jake_Stiles, Zamiel	1	6	30
+401487	2	29	Gray (6 Suits)	2021-01-12 — 23:51:18 UTC	dobi, rachyrules	33	6	30
+401480	2	0	Gray (6 Suits)	2021-01-12 — 23:38:37 UTC	dobi, rachyrules	33	6	30
+401473	2	0	Gray (6 Suits)	2021-01-12 — 23:26:11 UTC	dobi, rachyrules	37	6	30
+401457	2	29	Gray (6 Suits)	2021-01-12 — 23:08:30 UTC	dobi, rachyrules	39	6	30
+401410	4	0	Dual-Color Mix	2021-01-12 — 22:23:31 UTC	asaelr, dobi, MarkusKahlsen, TimeHoodie	5	6	30
+401316	5	22	Dark Pink (5 Suits)	2021-01-12 — 20:34:44 UTC	ChristopheAF, dobi, Floriman, hakha3, Kyle	5	5	25
+401284	5	28	Black & Pink (6 Suits)	2021-01-12 — 19:50:10 UTC	ChristopheAF, dobi, hakha3, MangoPie, Wittvector	7	6	30
+401267	5	0	Black & Pink (6 Suits)	2021-01-12 — 19:23:57 UTC	ChristopheAF, dobi, hakha3, MangoPie, Wittvector	8	6	30
+401260	4	0	Gray (5 Suits)	2021-01-12 — 19:16:24 UTC	dobi, hakha3, MangoPie, Wittvector	33	5	25
+401239	4	25	Black & Brown (5 Suits)	2021-01-12 — 18:53:22 UTC	dobi, hakha3, MangoPie, Wittvector	11	5	25
+401160	6	24	Special Mix (5 Suits)	2021-01-12 — 17:26:32 UTC	ChristopheAF, dobi, hakha3, indegoo, Lel0uch, sephiroth	3	5	25
+401144	6	0	Special Mix (5 Suits)	2021-01-12 — 16:54:38 UTC	ChristopheAF, dobi, hakha3, indegoo, Lel0uch, sephiroth	3	5	25
+401138	6	22	Special Mix (5 Suits)	2021-01-12 — 16:37:21 UTC	ChristopheAF, dobi, hakha3, indegoo, Lel0uch, sephiroth	4	5	25
+400905	4	30	Black & Rainbow (6 Suits)	2021-01-12 — 05:56:16 UTC	dobi, newduke, orucsoraihc, StKildaFan	46	6	30
+400793	3	0	Dual-Color (5 Suits)	2021-01-12 — 04:14:41 UTC	dobi, IsabeltheCat, nkkarpov	44	5	25
+400769	2	0	Dual-Color Mix	2021-01-12 — 03:53:34 UTC	dobi, doctorabi	43	6	30
+400200	5	30	White-Ones & Rainbow (6 Suits)	2021-01-11 — 16:38:39 UTC	dobi, hakha3, Lanvin, orucsoraihc, sephiroth	1	6	30
+400043	3	0	White (3 Suits)	2021-01-11 — 08:29:17 UTC	dobi, Fey, zeinab001	26	3	15
+400039	3	0	White (3 Suits)	2021-01-11 — 08:21:18 UTC	dobi, Fey, zeinab001	29	3	15
+400034	4	15	3 Suits	2021-01-11 — 08:13:34 UTC	dobi, Fey, sin_faith, zeinab001	9	3	15
+400026	4	0	3 Suits	2021-01-11 — 08:07:16 UTC	dobi, Fey, sin_faith, zeinab001	12	3	15
+400017	4	15	3 Suits	2021-01-11 — 07:56:51 UTC	dobi, Fey, qqqq, sin_faith	13	3	15
+399998	3	22	Dual-Color (5 Suits)	2021-01-11 — 07:16:47 UTC	dobi, Onen, sin_faith	24	5	25
+399990	3	0	Dual-Color (5 Suits)	2021-01-11 — 07:01:05 UTC	dobi, Onen, sin_faith	31	5	25
+399938	3	30	Dual-Color Mix	2021-01-11 — 05:33:49 UTC	dobi, HelanaAshryvr, wump	12	6	30
+399889	3	0	Dual-Color Mix	2021-01-11 — 04:40:06 UTC	dobi, rz, wump	12	6	30
+399838	3	27	Dual-Color Mix	2021-01-11 — 03:51:20 UTC	dobi, rz, wump	16	6	30
+399292	3	0	Special Mix (6 Suits)	2021-01-10 — 17:41:01 UTC	ChristopheAF, dobi, HelanaAshryvr	23	6	30
+399282	4	30	6 Suits	2021-01-10 — 17:19:48 UTC	ChristopheAF, dobi, HelanaAshryvr, knaphill	250	6	30
+399021	4	25	Reversed (5 Suits)	2021-01-10 — 08:26:00 UTC	asaelr, dobi, Fey, indego	5	5	25
+398986	4	0	Reversed (5 Suits)	2021-01-10 — 08:00:44 UTC	asaelr, dobi, Fey, indego	4	5	25
+398683	3	0	Dual-Color Mix	2021-01-10 — 04:01:04 UTC	dobi, rz, wump	16	6	30
+398610	3	0	Dual-Color Mix	2021-01-10 — 03:07:13 UTC	dobi, rz, wump	19	6	30
+398556	3	0	Dual-Color Mix	2021-01-10 — 02:27:10 UTC	dobi, orucsoraihc, TimeHoodie	18	6	30
+398541	3	0	Dual-Color Mix	2021-01-10 — 02:14:58 UTC	dobi, orucsoraihc, TimeHoodie	17	6	30
+397938	3	0	Dual-Color Mix	2021-01-09 — 18:55:47 UTC	dobi, rz, wump	20	6	30
+397704	4	30	Dual-Color Mix	2021-01-09 — 10:20:39 UTC	derekcheah, dobi, Lel0uch, sephiroth	1	6	30
+397699	4	0	Dual-Color Mix	2021-01-09 — 09:57:19 UTC	derekcheah, dobi, Lel0uch, sephiroth	1	6	30
+397696	4	0	Dual-Color Mix	2021-01-09 — 09:37:37 UTC	derekcheah, dobi, Lel0uch, sephiroth	1	6	30
+397690	4	0	Dual-Color Mix	2021-01-09 — 09:18:07 UTC	derekcheah, dobi, Lel0uch, sephiroth	1	6	30
+397686	4	0	Dual-Color Mix	2021-01-09 — 09:10:24 UTC	derekcheah, dobi, Lel0uch, sephiroth	2	6	30
+397682	4	26	Dual-Color Mix	2021-01-09 — 08:58:03 UTC	boba, derekcheah, dobi, Lel0uch	3	6	30
+397672	4	0	Dual-Color Mix	2021-01-09 — 08:32:00 UTC	boba, derekcheah, dobi, Lel0uch	2	6	30
+397668	4	0	Dual-Color Mix	2021-01-09 — 08:23:58 UTC	boba, derekcheah, dobi, Lel0uch	2	6	30
+397657	4	0	Dual-Color Mix	2021-01-09 — 08:08:28 UTC	boba, derekcheah, dobi, Lel0uch	3	6	30
+397634	4	0	Dual-Color Mix	2021-01-09 — 07:41:42 UTC	derekcheah, dobi, Fey, Lel0uch	3	6	30
+397624	4	0	Dual-Color Mix	2021-01-09 — 07:27:10 UTC	derekcheah, dobi, Fey, Lel0uch	4	6	30
+397619	4	0	Dual-Color Mix	2021-01-09 — 07:19:59 UTC	derekcheah, dobi, Fey, Lel0uch	4	6	30
+397614	2	0	Dual-Color Mix	2021-01-09 — 07:11:31 UTC	dobi, Fey	43	6	30
+397584	3	0	Dual-Color Mix	2021-01-09 — 06:38:37 UTC	dobi, HelanaAshryvr, Onen	19	6	30
+397573	3	0	Dual-Color Mix	2021-01-09 — 06:26:46 UTC	dobi, HelanaAshryvr, Onen	19	6	30
+397565	3	0	Dual-Color Mix	2021-01-09 — 06:17:33 UTC	dobi, HelanaAshryvr, Onen	25	6	30
+397542	3	28	Dual-Color Mix	2021-01-09 — 05:58:32 UTC	dobi, HelanaAshryvr, Onen	29	6	30
+397513	3	29	Dual-Color Mix	2021-01-09 — 05:33:18 UTC	dobi, HelanaAshryvr, Onen	33	6	30
+397484	3	0	Dual-Color Mix	2021-01-09 — 05:14:17 UTC	dobi, HelanaAshryvr, Onen	42	6	30
+397468	2	26	Dual-Color Mix	2021-01-09 — 04:59:51 UTC	dobi, Onen	47	6	30

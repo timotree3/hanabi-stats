@@ -1,0 +1,831 @@
+496401	4	23	Rainbow & White (5 Suits)	2021-04-10 — 20:01:21 UTC	Hanpeters, JCH2014, meikewortel, wortel	9	5	25
+496369	4	22	Rainbow & White (5 Suits)	2021-04-10 — 19:17:45 UTC	Hanpeters, JCH2014, meikewortel, wortel	12	5	25
+496335	3	20	White (4 Suits)	2021-04-10 — 18:30:26 UTC	Hanpeters, meikewortel, wortel	2	4	20
+495807	4	20	Pink & Prism (4 Suits)	2021-04-10 — 05:47:40 UTC	bob65536, Bot-Fiora, griff77, wortel	5	4	20
+495789	4	20	White & Brown (4 Suits)	2021-04-10 — 05:19:23 UTC	bob65536, Bot-Fiora, griff77, wortel	11	4	20
+483649	3	25	Dual-Color (5 Suits)	2021-03-28 — 19:32:24 UTC	Hanpeters, meikewortel, wortel	2	5	25
+483619	3	20	4 Suits	2021-03-28 — 18:58:04 UTC	Hanpeters, meikewortel, wortel	7	4	20
+483225	4	30	Up or Down (6 Suits)	2021-03-28 — 06:38:48 UTC	corys, dobi, wortel, xor	40	6	30
+483208	5	0	Up or Down & Prism (6 Suits)	2021-03-28 — 06:10:27 UTC	corys, dobi, Lel0uch, wortel, xor	7	6	30
+482131	4	30	Null-Ones (6 Suits)	2021-03-27 — 06:14:28 UTC	Bot-Fiora, griff77, ksfortson, wortel	2	6	30
+482112	5	0	Null-Ones (6 Suits)	2021-03-27 — 05:43:36 UTC	Bot-Fiora, griff77, ksfortson, louietyj, wortel	2	6	30
+475884	5	24	No Variant	2021-03-21 — 15:58:48 UTC	possum, rz, Spieler42, timotree, wortel	10	5	25
+475640	5	0	Dual-Color (5 Suits)	2021-03-21 — 06:37:15 UTC	IsabeltheCat, nwajfromoz, possum, qqqq, wortel	3	5	25
+475633	5	0	Dual-Color (5 Suits)	2021-03-21 — 06:17:50 UTC	IsabeltheCat, nwajfromoz, possum, qqqq, wortel	8	5	25
+474657	5	23	No Variant	2021-03-20 — 08:37:23 UTC	kevincaseytdk1, possum, RaeF, Wittvector, wortel	50	5	25
+466945	3	19	4 Suits	2021-03-13 — 20:23:43 UTC	meikewortel, Tineke, wortel	11	4	20
+466917	4	25	No Variant	2021-03-13 — 19:41:23 UTC	meikewortel, Palomar11, Tineke, wortel	74	5	25
+466888	3	24	Dual-Color (5 Suits)	2021-03-13 — 18:59:21 UTC	meikewortel, Palomar11, wortel	2	5	25
+466536	5	30	Pink (6 Suits)	2021-03-13 — 06:27:57 UTC	Bot-Fiora, corys, ksfortson, possum, wortel	8	6	30
+466506	5	29	Pink (6 Suits)	2021-03-13 — 05:52:18 UTC	Bot-Fiora, corys, ksfortson, possum, wortel	13	6	30
+459939	3	25	Dual-Color (5 Suits)	2021-03-07 — 07:56:05 UTC	corys, wortel, xor	2	5	25
+459920	4	25	Pink-Ones (5 Suits)	2021-03-07 — 07:22:37 UTC	corys, lolthisnotderk, wortel, xor	11	5	25
+458860	6	25	Brown (5 Suits)	2021-03-06 — 14:56:09 UTC	ChristopheAF, eliclax, hakha3, Lel0uch, sin_faith, wortel	4	5	25
+458842	6	0	Brown (5 Suits)	2021-03-06 — 14:26:04 UTC	ChristopheAF, eliclax, hakha3, Lel0uch, sin_faith, wortel	5	5	25
+458831	3	24	Black (5 Suits)	2021-03-06 — 14:02:01 UTC	eliclax, sin_faith, wortel	74	5	25
+458750	3	0	Dual-Color (5 Suits)	2021-03-06 — 09:37:45 UTC	DarthGandalf, possum, wortel	2	5	25
+458739	5	30	Brown (6 Suits)	2021-03-06 — 09:06:15 UTC	DarthGandalf, louietyj, possum, qqqq, wortel	12	6	30
+455237	4	0	Rainbow & Prism (5 Suits)	2021-03-03 — 13:18:58 UTC	eliclax, Fey, lotem, wortel	9	5	25
+455133	4	25	Black & White (6 Suits)	2021-03-03 — 08:30:57 UTC	kevincaseytdk1, ksfortson, possum, wortel	9	6	30
+452068	5	0	Black Reversed (6 Suits)	2021-02-28 — 18:35:28 UTC	Bot-Fiora, Fey, MangoPie, MarkusKahlsen, wortel	4	6	30
+451822	3	25	Prism (5 Suits)	2021-02-28 — 08:21:15 UTC	corys, wortel, xor	80	5	25
+451809	4	30	Prism (6 Suits)	2021-02-28 — 07:49:38 UTC	colton, corys, wortel, xor	53	6	30
+451783	6	30	Rainbow & Brown (6 Suits)	2021-02-28 — 07:06:10 UTC	Bot-Fiora, colton, griff77, ksfortson, possum, wortel	4	6	30
+451756	6	0	Rainbow & Brown (6 Suits)	2021-02-28 — 06:35:03 UTC	Bot-Fiora, colton, griff77, ksfortson, possum, wortel	4	6	30
+451104	4	24	No Variant	2021-02-27 — 20:37:45 UTC	Hanpeters, meikewortel, WillemW, wortel	82	5	25
+451049	4	22	No Variant	2021-02-27 — 19:51:41 UTC	Hanpeters, meikewortel, WillemW, wortel	89	5	25
+449724	4	0	Muddy Rainbow & Light Pink (6 Suits)	2021-02-26 — 07:30:48 UTC	derekcheah, indego, Lel0uch, wortel	4	6	30
+446658	4	28	Gray (6 Suits)	2021-02-23 — 16:34:57 UTC	eljavi, orucsoraihc, possum, wortel	10	6	30
+446636	4	27	Gray (6 Suits)	2021-02-23 — 15:55:11 UTC	eljavi, orucsoraihc, possum, wortel	13	6	30
+446621	4	0	Gray (6 Suits)	2021-02-23 — 15:22:24 UTC	eljavi, orucsoraihc, possum, wortel	15	6	30
+446525	4	18	Dual-Color & Rainbow (4 Suits)	2021-02-23 — 07:54:11 UTC	BraydonM, newduke, qqqq, wortel	3	4	20
+446514	4	0	Dual-Color & Rainbow (4 Suits)	2021-02-23 — 07:25:07 UTC	BraydonM, newduke, qqqq, wortel	5	4	20
+445372	4	30	Pink (6 Suits)	2021-02-22 — 07:59:05 UTC	ksfortson, MarcLovesDogs, torp, wortel	54	6	30
+445332	4	25	Brown (5 Suits)	2021-02-22 — 07:31:09 UTC	ksfortson, MarcLovesDogs, torp, wortel	11	5	25
+444284	2	23	No Variant	2021-02-21 — 12:11:55 UTC	lodizodi, wortel	3051	5	25
+444281	2	0	No Variant	2021-02-21 — 11:53:23 UTC	lodizodi, wortel	3507	5	25
+444279	2	23	No Variant	2021-02-21 — 11:41:03 UTC	lodizodi, wortel	4109	5	25
+443176	5	0	Up or Down & Brown (6 Suits)	2021-02-20 — 15:11:37 UTC	MangoPie, melwen, sephiroth, VerySloppyTwo, wortel	2	6	30
+443168	5	0	Up or Down & Brown (6 Suits)	2021-02-20 — 14:47:44 UTC	MangoPie, melwen, sephiroth, VerySloppyTwo, wortel	2	6	30
+442288	3	24	No Variant	2021-02-19 — 21:39:31 UTC	JCH2014, meikewortel, wortel	680	5	25
+442229	3	25	No Variant	2021-02-19 — 20:55:40 UTC	JCH2014, meikewortel, wortel	750	5	25
+442183	3	0	No Variant	2021-02-19 — 20:22:40 UTC	JCH2014, meikewortel, wortel	801	5	25
+442163	3	24	No Variant	2021-02-19 — 20:00:48 UTC	JCH2014, meikewortel, wortel	840	5	25
+441846	4	0	Dual-Color & Brown (6 Suits)	2021-02-19 — 09:03:32 UTC	Fey, indego, robense, wortel	3	6	30
+441838	4	0	Dual-Color & Brown (6 Suits)	2021-02-19 — 08:48:28 UTC	Fey, indego, robense, wortel	4	6	30
+438281	5	25	Muddy-Rainbow-Fives (5 Suits)	2021-02-15 — 19:19:09 UTC	frosty104, indego, sephiroth, VerySloppyTwo, wortel	3	5	25
+436947	4	20	Rainbow & White (4 Suits)	2021-02-14 — 15:17:28 UTC	frosty104, rz, sephiroth, wortel	3	4	20
+436942	4	0	Rainbow & White (4 Suits)	2021-02-14 — 15:11:33 UTC	frosty104, rz, sephiroth, wortel	3	4	20
+436940	4	0	Rainbow & White (4 Suits)	2021-02-14 — 15:10:33 UTC	frosty104, rz, sephiroth, wortel	8	4	20
+436933	4	21	Omni & Dark Prism (5 Suits)	2021-02-14 — 14:59:12 UTC	frosty104, rz, sephiroth, wortel	1	5	25
+436915	4	0	Omni & Dark Prism (6 Suits)	2021-02-14 — 14:34:57 UTC	frosty104, indego, sephiroth, wortel	2	6	30
+435790	5	25	White & Brown (5 Suits)	2021-02-13 — 17:16:29 UTC	dobi, eliclax, indego, MangoPie, wortel	6	5	25
+435652	4	0	Pink & Gray Pink (6 Suits)	2021-02-13 — 11:05:17 UTC	Dr_Kakashi, Floriman, indego, wortel	3	6	30
+435632	4	0	Pink & Gray Pink (6 Suits)	2021-02-13 — 10:37:30 UTC	Dr_Kakashi, Floriman, indego, wortel	3	6	30
+435619	4	0	Pink & Gray Pink (6 Suits)	2021-02-13 — 10:17:49 UTC	Dr_Kakashi, Floriman, indego, wortel	3	6	30
+435608	4	0	Pink & Gray Pink (6 Suits)	2021-02-13 — 09:53:47 UTC	Dr_Kakashi, Floriman, indego, wortel	3	6	30
+435602	4	0	Pink & Gray Pink (6 Suits)	2021-02-13 — 09:37:07 UTC	Dr_Kakashi, Floriman, indego, wortel	4	6	30
+435550	4	0	Light Pink & Dark Prism (6 Suits)	2021-02-13 — 07:31:19 UTC	duckless, frosty104, indego, wortel	1	6	30
+435540	4	0	Light Pink & Dark Prism (6 Suits)	2021-02-13 — 07:19:22 UTC	duckless, frosty104, indego, wortel	2	6	30
+435517	5	0	Brown-Fives & Rainbow (5 Suits)	2021-02-13 — 06:57:35 UTC	catula, duckless, frosty104, indego, wortel	1	5	25
+435496	5	0	Brown-Fives & Rainbow (5 Suits)	2021-02-13 — 06:38:57 UTC	catula, duckless, frosty104, indego, wortel	1	5	25
+435481	5	0	Brown-Fives & Rainbow (5 Suits)	2021-02-13 — 06:29:01 UTC	catula, duckless, frosty104, indego, wortel	1	5	25
+435455	4	0	Omni & Cocoa Rainbow (6 Suits)	2021-02-13 — 06:12:57 UTC	duckless, frosty104, indego, wortel	1	6	30
+434559	4	29	Cocoa Rainbow (6 Suits)	2021-02-12 — 18:28:47 UTC	MangoPie, Onen, rz, wortel	4	6	30
+434550	4	0	Cocoa Rainbow (6 Suits)	2021-02-12 — 18:08:17 UTC	MangoPie, Onen, rz, wortel	7	6	30
+434543	4	0	Cocoa Rainbow (6 Suits)	2021-02-12 — 18:02:13 UTC	MangoPie, Onen, rz, wortel	7	6	30
+434529	4	28	Cocoa Rainbow (6 Suits)	2021-02-12 — 17:44:00 UTC	MangoPie, Onen, rz, wortel	14	6	30
+432293	5	0	Gray Pink (6 Suits)	2021-02-10 — 15:51:18 UTC	Asddsa76, frosty104, indego, Lanvin, wortel	3	6	30
+432277	5	0	Gray Pink (6 Suits)	2021-02-10 — 15:11:35 UTC	Asddsa76, frosty104, indego, Lanvin, wortel	4	6	30
+432267	5	0	Pink & Dark Omni (5 Suits)	2021-02-10 — 14:52:49 UTC	Asddsa76, frosty104, indego, Lanvin, wortel	1	5	25
+432253	5	0	Pink & Dark Omni (5 Suits)	2021-02-10 — 14:34:30 UTC	Asddsa76, frosty104, indego, Lanvin, wortel	2	5	25
+432026	3	0	Dual-Color & Black (6 Suits)	2021-02-10 — 09:02:30 UTC	IsabeltheCat, Spieler42, wortel	4	6	30
+432017	3	0	Dual-Color & Black (6 Suits)	2021-02-10 — 08:42:59 UTC	IsabeltheCat, Spieler42, wortel	5	6	30
+432011	3	0	Dual-Color & Black (6 Suits)	2021-02-10 — 08:30:06 UTC	IsabeltheCat, Spieler42, wortel	8	6	30
+432006	5	30	Black (6 Suits)	2021-02-10 — 07:59:06 UTC	IsabeltheCat, lolthisnotderk, louietyj, qqqq, wortel	23	6	30
+431998	5	0	Black (6 Suits)	2021-02-10 — 07:34:21 UTC	IsabeltheCat, lolthisnotderk, louietyj, qqqq, wortel	23	6	30
+431993	5	27	Black (6 Suits)	2021-02-10 — 07:15:55 UTC	IsabeltheCat, lolthisnotderk, louietyj, qqqq, wortel	35	6	30
+431294	5	0	Dark Omni (6 Suits)	2021-02-09 — 19:28:21 UTC	indego, Nitrate2, TheDaniMan, Wittvector, wortel	3	6	30
+431276	5	0	Dark Omni (6 Suits)	2021-02-09 — 19:10:07 UTC	indego, Nitrate2, TheDaniMan, Wittvector, wortel	2	6	30
+431264	5	0	Dark Omni (6 Suits)	2021-02-09 — 19:01:40 UTC	indego, Nitrate2, TheDaniMan, Wittvector, wortel	2	6	30
+431249	5	0	Dark Omni (6 Suits)	2021-02-09 — 18:48:39 UTC	indego, Nitrate2, TheDaniMan, Wittvector, wortel	3	6	30
+431239	5	0	Dark Omni (6 Suits)	2021-02-09 — 18:32:50 UTC	ChristopheAF, indego, Nitrate2, TheDaniMan, wortel	4	6	30
+431225	5	0	Dark Omni (6 Suits)	2021-02-09 — 18:16:27 UTC	ChristopheAF, indego, Nitrate2, TheDaniMan, wortel	6	6	30
+419682	5	0	Pink & Light Pink (5 Suits)	2021-01-30 — 10:01:10 UTC	indego, newduke, qqqq, VerySloppyTwo, wortel	2	5	25
+419678	5	0	Pink & Light Pink (5 Suits)	2021-01-30 — 09:53:20 UTC	indego, newduke, qqqq, VerySloppyTwo, wortel	3	5	25
+419675	3	0	Pink & Light Pink (5 Suits)	2021-01-30 — 09:45:03 UTC	indego, newduke, wortel	4	5	25
+419670	3	24	Pink & Light Pink (5 Suits)	2021-01-30 — 09:28:24 UTC	indego, newduke, wortel	6	5	25
+419666	3	0	Pink & Light Pink (5 Suits)	2021-01-30 — 09:04:58 UTC	indego, newduke, wortel	11	5	25
+419660	5	0	Pink & Light Pink (5 Suits)	2021-01-30 — 08:37:58 UTC	indego, newduke, qqqq, swineherd, wortel	5	5	25
+419652	4	0	Pink (4 Suits)	2021-01-30 — 07:55:23 UTC	indego, newduke, qqqq, wortel	19	4	20
+403064	5	0	No Variant	2021-01-14 — 15:29:52 UTC	katian, Krepps57, skyblueexo, Sorenjoren, wortel	100	5	25
+399331	4	29	Rainbow & Brown (6 Suits)	2021-01-10 — 18:44:39 UTC	hakha3, indego, Lanvin, wortel	14	6	30
+399314	4	0	Light Pink & Dark Rainbow (5 Suits)	2021-01-10 — 18:13:29 UTC	hakha3, Kyle, Lanvin, wortel	2	5	25
+399305	4	0	Brown-Ones & Muddy Rainbow (5 Suits)	2021-01-10 — 17:58:33 UTC	Lanvin, Lel0uch, rz, wortel	1	5	25
+399077	4	27	Clue Starved & White (6 Suits)	2021-01-10 — 09:16:39 UTC	Floriman, qqqq, wortel, Zamiel	2	6	30
+399034	4	0	Clue Starved & White (6 Suits)	2021-01-10 — 08:41:03 UTC	Floriman, qqqq, wortel, Zamiel	2	6	30
+399010	4	0	Clue Starved & White (6 Suits)	2021-01-10 — 08:19:56 UTC	Floriman, qqqq, wortel, Zamiel	2	6	30
+399005	4	0	Clue Starved & White (6 Suits)	2021-01-10 — 08:15:47 UTC	Floriman, qqqq, wortel, Zamiel	2	6	30
+399001	4	0	Clue Starved & White (6 Suits)	2021-01-10 — 08:10:52 UTC	Floriman, qqqq, wortel, Zamiel	4	6	30
+398995	4	0	Clue Starved & White (6 Suits)	2021-01-10 — 08:05:14 UTC	Floriman, qqqq, wortel, Zamiel	4	6	30
+398960	3	29	Cocoa Rainbow (6 Suits)	2021-01-10 — 07:39:30 UTC	qqqq, wortel, Zamiel	2	6	30
+398050	5	0	White-Ones & Prism (6 Suits)	2021-01-09 — 20:28:11 UTC	colton, indego, Kernel, Lanvin, wortel	2	6	30
+398018	5	0	Dual-Color Mix	2021-01-09 — 20:03:17 UTC	colton, indego, Kernel, Lanvin, wortel	7	6	30
+397993	5	0	Brown-Ones & Brown (4 Suits)	2021-01-09 — 19:48:40 UTC	colton, indego, Kernel, Lanvin, wortel	2	4	20
+397976	4	0	Dual-Color Mix	2021-01-09 — 19:36:14 UTC	indego, Kernel, Lanvin, wortel	4	6	30
+396774	5	25	Dark Rainbow (5 Suits)	2021-01-08 — 18:33:39 UTC	jack67889, Lanvin, melwen, wortel, XMIL	3	5	25
+396766	5	0	Dark Rainbow (5 Suits)	2021-01-08 — 18:17:41 UTC	jack67889, Lanvin, melwen, wortel, XMIL	6	5	25
+362446	5	22	No Variant	2020-12-06 — 13:21:17 UTC	BillaVGC, ChristopheAF, MarkusKahlsen, StKildaFan, wortel	41	5	25
+362433	4	23	No Variant	2020-12-06 — 12:21:14 UTC	BillaVGC, ChristopheAF, orucsoraihc, wortel	81	5	25
+332253	3	26	Dual-Color Mix	2020-10-31 — 20:59:12 UTC	Palo, Thomas1234, wortel	33	6	30
+332238	3	27	Dual-Color Mix	2020-10-31 — 20:27:18 UTC	Palo, Thomas1234, wortel	42	6	30
+332218	3	25	Dual-Color (5 Suits)	2020-10-31 — 19:53:20 UTC	Palo, Thomas1234, wortel	3	5	25
+328755	3	19	Reversed (4 Suits)	2020-10-26 — 19:54:11 UTC	Palo, Shos71, wortel	5	4	20
+328745	3	0	Dual-Color (5 Suits)	2020-10-26 — 19:38:57 UTC	Palo, Shos71, wortel	4	5	25
+328735	3	25	Dual-Color (5 Suits)	2020-10-26 — 19:26:56 UTC	Palo, Shos71, wortel	6	5	25
+328706	3	0	Dual-Color (5 Suits)	2020-10-26 — 18:54:22 UTC	Palo, Shos71, wortel	6	5	25
+322858	4	0	Special Mix (5 Suits)	2020-10-18 — 09:40:16 UTC	asaelr, Sucubis, Wittvector, wortel	17	5	25
+322209	5	23	Extremely Ambiguous & Muddy Rainbow (5 Suits)	2020-10-17 — 13:53:50 UTC	ebin_noob, robense, sin_faith, Wittvector, wortel	1	5	25
+322203	4	24	Throw It in a Hole (5 Suits)	2020-10-17 — 13:09:27 UTC	ebin_noob, sephiroth, sin_faith, wortel	2	5	25
+322197	4	0	Throw It in a Hole (5 Suits)	2020-10-17 — 12:34:15 UTC	ebin_noob, sephiroth, sin_faith, wortel	10	5	25
+322192	5	25	No Variant	2020-10-17 — 12:04:12 UTC	Animex52, catula, ebin_noob, Sucubis, wortel	81	5	25
+322152	3	25	Black Reversed (5 Suits)	2020-10-17 — 09:24:46 UTC	derekcheah, TimeHoodie, wortel	6	5	25
+322147	3	24	Black Reversed (5 Suits)	2020-10-17 — 09:10:22 UTC	derekcheah, TimeHoodie, wortel	10	5	25
+318925	3	0	Clue Starved (6 Suits)	2020-10-12 — 19:29:41 UTC	scharkbite, timotree, wortel	4	6	30
+318903	3	25	Clue Starved (6 Suits)	2020-10-12 — 19:00:14 UTC	scharkbite, timotree, wortel	4	6	30
+318054	3	25	No Variant	2020-10-11 — 09:37:26 UTC	Carunty, Cold, wortel	269	5	25
+318034	3	0	No Variant	2020-10-11 — 09:13:50 UTC	Carunty, Cold, wortel	307	5	25
+318024	6	0	No Variant	2020-10-11 — 08:59:29 UTC	Carunty, catula, cockdestroyer, Cold, Sucubis, wortel	52	5	25
+318021	6	24	No Variant	2020-10-11 — 08:51:49 UTC	Carunty, catula, cockdestroyer, Cold, Sucubis, wortel	75	5	25
+317328	5	26	Black (6 Suits)	2020-10-10 — 14:54:44 UTC	catula, rachyrules, StKildaFan, Wittvector, wortel	58	6	30
+317308	4	29	Brown (6 Suits)	2020-10-10 — 14:06:44 UTC	catula, melwen, sephiroth, wortel	27	6	30
+317296	4	0	Dark Pink (5 Suits)	2020-10-10 — 13:04:22 UTC	melwen, rachyrules, sephiroth, wortel	2	5	25
+316694	3	24	Rainbow & Light Pink (5 Suits)	2020-10-09 — 20:40:52 UTC	jack67889, scharkbite, wortel	6	5	25
+316672	6	0	Dark Rainbow (5 Suits)	2020-10-09 — 20:00:20 UTC	jack67889, Kyle, scharkbite, sephiroth, TimeHoodie, wortel	2	5	25
+316645	5	22	Dark Rainbow (5 Suits)	2020-10-09 — 19:26:06 UTC	DMoney, Kyle, scharkbite, TimeHoodie, wortel	1	5	25
+316630	4	0	Black & White (6 Suits)	2020-10-09 — 19:00:48 UTC	DMoney, Kyle, will.i.am, wortel	13	6	30
+316616	5	0	Cocoa Rainbow (6 Suits)	2020-10-09 — 18:46:01 UTC	cockdestroyer, DMoney, Kyle, TimeHoodie, wortel	6	6	30
+312804	4	0	Black & Rainbow (6 Suits)	2020-10-04 — 17:36:45 UTC	asaelr, DMoney, Veexliat, wortel	34	6	30
+312800	4	25	Gray (5 Suits)	2020-10-04 — 17:10:43 UTC	asaelr, DMoney, Puzzle, wortel	9	5	25
+309829	4	25	Prism (5 Suits)	2020-09-30 — 20:22:57 UTC	AstridKolen, Palo, Thomas1234, wortel	29	5	25
+309805	4	0	Prism (5 Suits)	2020-09-30 — 19:57:38 UTC	AstridKolen, Palo, Thomas1234, wortel	47	5	25
+303430	3	18	Prism (4 Suits)	2020-09-21 — 18:37:10 UTC	jeff10, postmans, wortel	45	4	20
+303421	5	0	Prism (6 Suits)	2020-09-21 — 18:23:43 UTC	jeff10, MarkusKahlsen, postmans, scharkbite, wortel	12	6	30
+303419	5	0	Prism (6 Suits)	2020-09-21 — 18:18:12 UTC	jeff10, MarkusKahlsen, postmans, scharkbite, wortel	17	6	30
+303417	3	30	Prism (6 Suits)	2020-09-21 — 18:02:53 UTC	MarkusKahlsen, postmans, wortel	60	6	30
+302489	5	30	Dark Brown (6 Suits)	2020-09-20 — 18:24:31 UTC	asaelr, Floriman, plus, TimeHoodie, wortel	6	6	30
+302485	5	0	Dark Brown (6 Suits)	2020-09-20 — 17:59:39 UTC	asaelr, Floriman, plus, TimeHoodie, wortel	8	6	30
+302482	4	25	Dark Omni (5 Suits)	2020-09-20 — 17:40:35 UTC	Floriman, plus, TimeHoodie, wortel	9	5	25
+301694	6	28	Rainbow & White (6 Suits)	2020-09-19 — 20:06:15 UTC	Darth_Calculus, Div, newduke, TimeHoodie, Wittvector, wortel	1	6	30
+301665	6	0	Rainbow & White (6 Suits)	2020-09-19 — 19:18:03 UTC	Darth_Calculus, Div, newduke, TimeHoodie, Wittvector, wortel	4	6	30
+298810	5	0	Rainbow (4 Suits)	2020-09-16 — 14:29:11 UTC	Feich59, MarkusKahlsen, sephiroth, TimeHoodie, wortel	8	4	20
+298808	5	19	Rainbow (4 Suits)	2020-09-16 — 14:03:50 UTC	Feich59, MarkusKahlsen, sephiroth, TimeHoodie, wortel	11	4	20
+284751	3	20	White Reversed (4 Suits)	2020-08-30 — 19:05:46 UTC	Palo, Puun, wortel	7	4	20
+284741	3	20	Reversed (4 Suits)	2020-08-30 — 18:42:03 UTC	Palo, Puun, wortel	18	4	20
+284736	3	25	Dual-Color (5 Suits)	2020-08-30 — 18:15:50 UTC	Palo, Puun, wortel	9	5	25
+275174	3	20	Rainbow & White (4 Suits)	2020-08-19 — 19:30:00 UTC	meikewortel, Puun, wortel	2	4	20
+275157	3	20	White (4 Suits)	2020-08-19 — 19:01:55 UTC	meikewortel, Puun, wortel	2	4	20
+268945	4	25	No Variant	2020-08-12 — 13:32:21 UTC	meikewortel, monkeysuncle, Nudaro, wortel	99	5	25
+268927	3	24	No Variant	2020-08-12 — 13:00:11 UTC	meikewortel, monkeysuncle, wortel	940	5	25
+257184	5	30	White Reversed (6 Suits)	2020-07-31 — 18:34:10 UTC	ADrone, DMoney, Floriman, sephiroth, wortel	3	6	30
+257177	5	0	White Reversed (6 Suits)	2020-07-31 — 18:07:38 UTC	ADrone, DMoney, Floriman, sephiroth, wortel	4	6	30
+257171	4	25	White-Ones (5 Suits)	2020-07-31 — 17:47:11 UTC	ADrone, DMoney, Floriman, wortel	10	5	25
+257157	5	28	Gray (6 Suits)	2020-07-31 — 16:56:16 UTC	Bonja97, joelwool, MarkusKahlsen, pianoblook, wortel	14	6	30
+252019	4	19	White (4 Suits)	2020-07-26 — 19:43:15 UTC	JCH2014, Palo, Shos71, wortel	20	4	20
+251996	4	25	No Variant	2020-07-26 — 19:19:51 UTC	JCH2014, Palo, Shos71, wortel	88	5	25
+251975	4	0	Rainbow & White (5 Suits)	2020-07-26 — 18:52:00 UTC	JCH2014, Palo, Shos71, wortel	12	5	25
+251964	4	21	Rainbow & White (5 Suits)	2020-07-26 — 18:23:21 UTC	JCH2014, Palo, Shos71, wortel	17	5	25
+251953	3	0	No Variant	2020-07-26 — 17:57:19 UTC	Palo, Shos71, wortel	1291	5	25
+247907	4	25	Black (5 Suits)	2020-07-22 — 19:05:54 UTC	Palo, Puun, Thomas1234, wortel	49	5	25
+247888	4	24	Black (5 Suits)	2020-07-22 — 18:32:59 UTC	Palo, Puun, Thomas1234, wortel	79	5	25
+247874	4	18	Black (5 Suits)	2020-07-22 — 18:07:29 UTC	Palo, Puun, Thomas1234, wortel	98	5	25
+240590	3	25	Rainbow & White (5 Suits)	2020-07-15 — 18:51:40 UTC	Palo, Thomas1234, wortel	9	5	25
+240572	4	21	Rainbow & White (5 Suits)	2020-07-15 — 18:15:07 UTC	Hoppert, Palo, Thomas1234, wortel	23	5	25
+234367	3	24	Rainbow & White (5 Suits)	2020-07-09 — 20:14:28 UTC	Palo, Puun, wortel	14	5	25
+234342	3	23	Rainbow & White (5 Suits)	2020-07-09 — 19:46:47 UTC	Palo, Puun, wortel	21	5	25
+234321	3	19	Rainbow & White (5 Suits)	2020-07-09 — 19:17:49 UTC	Palo, Puun, wortel	20	5	25
+234309	3	0	Rainbow & White (5 Suits)	2020-07-09 — 19:00:01 UTC	Palo, Puun, wortel	26	5	25
+226837	4	25	White (5 Suits)	2020-07-02 — 19:21:34 UTC	Anne, Hoppert, Palo, wortel	5	5	25
+225722	3	25	Dual-Color (5 Suits)	2020-07-01 — 19:50:33 UTC	Palo, Puun, wortel	10	5	25
+225692	3	0	Dual-Color (5 Suits)	2020-07-01 — 19:24:22 UTC	Palo, Puun, wortel	14	5	25
+225682	3	0	Dual-Color (5 Suits)	2020-07-01 — 19:12:15 UTC	Palo, Puun, wortel	18	5	25
+225669	3	20	Ambiguous (4 Suits)	2020-07-01 — 18:59:40 UTC	Palo, Puun, wortel	3	4	20
+225658	3	20	Rainbow (4 Suits)	2020-07-01 — 18:37:59 UTC	Palo, Puun, wortel	84	4	20
+225649	3	20	White (4 Suits)	2020-07-01 — 18:18:52 UTC	Palo, Puun, wortel	2	4	20
+217358	4	28	White (6 Suits)	2020-06-24 — 20:28:39 UTC	Palomarias, Puun, Thomas1234, wortel	60	6	30
+217337	4	0	White (6 Suits)	2020-06-24 — 20:01:47 UTC	Palomarias, Puun, Thomas1234, wortel	75	6	30
+213254	4	0	Cow & Pig (5 Suits)	2020-06-20 — 21:20:25 UTC	Palomarias, Puun, Shos, wortel	28	5	25
+213222	4	25	White (5 Suits)	2020-06-20 — 20:50:54 UTC	Palomarias, Puun, Shos, wortel	6	5	25
+213201	3	0	White (4 Suits)	2020-06-20 — 20:34:04 UTC	Palomarias, Puun, wortel	2	4	20
+210688	3	18	White (4 Suits)	2020-06-18 — 17:38:47 UTC	Palomarias, Puun, wortel	2	4	20
+209712	4	24	White (5 Suits)	2020-06-17 — 19:47:09 UTC	Hoppert, Palomarias, Puun, wortel	5	5	25
+209682	4	24	White (5 Suits)	2020-06-17 — 19:11:40 UTC	Hoppert, Palomarias, Puun, wortel	31	5	25
+209649	5	30	6 Suits	2020-06-17 — 18:18:56 UTC	Astrid, Hoppert, Palomarias, Puun, wortel	199	6	30
+205413	4	22	No Variant	2020-06-13 — 20:44:24 UTC	Hoppert, Puun, Shos, wortel	90	5	25
+205346	4	20	No Variant	2020-06-13 — 20:05:38 UTC	Hoppert, Puun, Shos, wortel	95	5	25
+205304	3	17	4 Suits	2020-06-13 — 19:24:38 UTC	Hoppert, Puun, wortel	12	4	20
+205278	3	0	4 Suits	2020-06-13 — 18:50:03 UTC	Hoppert, Puun, wortel	11	4	20
+205259	3	0	4 Suits	2020-06-13 — 18:26:57 UTC	Hoppert, Puun, wortel	13	4	20
+202731	3	15	White (4 Suits)	2020-06-11 — 20:05:16 UTC	Palomarias, Puun, wortel	2	4	20
+202693	3	18	White (4 Suits)	2020-06-11 — 19:36:49 UTC	Palomarias, Puun, wortel	2	4	20
+202670	3	17	White (4 Suits)	2020-06-11 — 19:12:51 UTC	Palomarias, Puun, wortel	2	4	20
+198105	5	18	White Reversed (4 Suits)	2020-06-07 — 19:00:30 UTC	Dr_Kakashi, kimbifille, Kyle, postmans, wortel	1	4	20
+198085	5	0	White Reversed (4 Suits)	2020-06-07 — 18:37:34 UTC	Dr_Kakashi, kimbifille, Livia, postmans, wortel	2	4	20
+198074	5	17	White Reversed (4 Suits)	2020-06-07 — 18:27:37 UTC	Dr_Kakashi, kimbifille, Livia, postmans, wortel	2	4	20
+198061	4	25	White Reversed (5 Suits)	2020-06-07 — 18:13:12 UTC	Dr_Kakashi, kimbifille, Livia, wortel	7	5	25
+195242	5	25	White (5 Suits)	2020-06-05 — 21:06:12 UTC	meikever, Palomarias, Puun, Shos, wortel	21	5	25
+195209	5	21	White (5 Suits)	2020-06-05 — 20:34:22 UTC	meikever, Palomarias, Puun, Shos, wortel	26	5	25
+195184	4	25	No Variant	2020-06-05 — 20:08:38 UTC	Palomarias, Puun, Shos, wortel	103	5	25
+195167	4	0	No Variant	2020-06-05 — 19:47:56 UTC	Palomarias, Puun, Shos, wortel	103	5	25
+170526	3	23	No Variant	2020-05-17 — 18:58:49 UTC	Palomarias, Shos, wortel	275	5	25
+170476	3	24	No Variant	2020-05-17 — 18:25:13 UTC	Palomarias, Shos, wortel	285	5	25
+170432	3	22	No Variant	2020-05-17 — 17:51:43 UTC	Palomarias, Shos, wortel	320	5	25
+168478	3	23	No Variant	2020-05-16 — 12:43:55 UTC	meikever, Palomarias, wortel	1017	5	25
+168461	3	0	No Variant	2020-05-16 — 12:12:51 UTC	meikever, Palomarias, wortel	4221	5	25
+164450	3	23	No Variant	2020-05-13 — 18:56:25 UTC	Hoppert, Shos, wortel	411	5	25
+164421	4	0	No Variant	2020-05-13 — 18:24:42 UTC	Astrid, Hoppert, Shos, wortel	97	5	25
+160788	4	22	No Variant	2020-05-10 — 20:34:30 UTC	Astrid, Palomarias, Shos, wortel	111	5	25
+158546	3	24	Dual-Color (5 Suits)	2020-05-09 — 13:26:16 UTC	Meike, Palomarias, wortel	24	5	25
+158533	2	0	Dual-Color (5 Suits)	2020-05-09 — 13:00:22 UTC	Palomarias, wortel	74	5	25
+158531	3	19	White (4 Suits)	2020-05-09 — 12:55:43 UTC	Hoppert, Meike, wortel	2	4	20
+158512	3	20	4 Suits	2020-05-09 — 12:29:35 UTC	Hoppert, Meike, wortel	14	4	20
+158495	3	0	4 Suits	2020-05-09 — 12:08:59 UTC	Hoppert, Meike, wortel	16	4	20
+157240	3	19	4 Suits	2020-05-08 — 18:44:58 UTC	Palomaris, Thomas1234, wortel	19	4	20
+148057	4	20	White (4 Suits)	2020-05-02 — 08:58:08 UTC	Meike, Palomaris, Skullbriar, wortel	34	4	20
+133325	4	24	No Variant	2020-04-22 — 20:21:24 UTC	Palomaris, ThePlapie, Thomas1234, wortel	278	5	25
+127527	4	25	No Variant	2020-04-18 — 20:40:34 UTC	Astrid, Palomaris, Skullbriar, wortel	287	5	25
+127476	4	0	No Variant	2020-04-18 — 20:17:55 UTC	Astrid, Palomaris, Skullbriar, wortel	384	5	25
+127364	4	26	6 Suits	2020-04-18 — 19:20:41 UTC	Astrid, Shos, Skullbriar, wortel	250	6	30
+127299	5	0	No Variant	2020-04-18 — 18:45:42 UTC	Astrid, Palomaris, Shos, Skullbriar, wortel	109	5	25
+125547	3	24	Dual-Color (5 Suits)	2020-04-17 — 17:18:59 UTC	Palomaris, Shos, wortel	31	5	25
+125527	3	23	Dual-Color (5 Suits)	2020-04-17 — 16:43:19 UTC	Palomaris, Shos, wortel	44	5	25
+124430	5	0	Ambiguous (6 Suits)	2020-04-16 — 20:16:54 UTC	Gazilli, Palomaris, Shos, Thomas1234, wortel	12	6	30
+124375	5	0	Ambiguous (6 Suits)	2020-04-16 — 19:30:19 UTC	Gazilli, Palomaris, Shos, Thomas1234, wortel	14	6	30
+124334	5	0	Ambiguous (6 Suits)	2020-04-16 — 19:00:15 UTC	Gazilli, Palomaris, Shos, Thomas1234, wortel	18	6	30
+121811	3	19	White (4 Suits)	2020-04-14 — 17:32:13 UTC	Astrid, Shos, wortel	4	4	20
+121803	3	0	White (4 Suits)	2020-04-14 — 17:16:02 UTC	Astrid, Shos, wortel	5	4	20
+121799	3	0	White (4 Suits)	2020-04-14 — 17:10:42 UTC	Astrid, Shos, wortel	7	4	20
+121798	3	0	White (4 Suits)	2020-04-14 — 17:03:54 UTC	Astrid, Shos, wortel	8	4	20
+121773	4	21	Black & White (5 Suits)	2020-04-14 — 16:44:06 UTC	Astrid, Palomaris, Shos, wortel	14	5	25
+120508	3	18	Ambiguous (4 Suits)	2020-04-13 — 17:46:34 UTC	Palomaris, Shos, wortel	3	4	20
+120484	3	18	Ambiguous (4 Suits)	2020-04-13 — 17:24:40 UTC	Palomaris, Shos, wortel	3	4	20
+120463	3	0	Ambiguous (4 Suits)	2020-04-13 — 17:05:09 UTC	Palomaris, Shos, wortel	5	4	20
+120451	3	0	Ambiguous (4 Suits)	2020-04-13 — 16:52:41 UTC	Palomaris, Shos, wortel	8	4	20
+120442	3	19	Ambiguous (4 Suits)	2020-04-13 — 16:43:21 UTC	Palomaris, Shos, wortel	9	4	20
+120426	3	18	Ambiguous (4 Suits)	2020-04-13 — 16:22:05 UTC	Palomaris, Shos, wortel	14	4	20
+117646	4	29	Ambiguous (6 Suits)	2020-04-11 — 19:41:07 UTC	Gazilli, Palomar, Shos, wortel	20	6	30
+117588	4	0	Ambiguous (6 Suits)	2020-04-11 — 19:10:48 UTC	Gazilli, Palomar, Shos, wortel	32	6	30
+117531	4	22	Ambiguous (6 Suits)	2020-04-11 — 18:46:04 UTC	Gazilli, Palomar, Shos, wortel	40	6	30
+117473	3	19	Ambiguous (4 Suits)	2020-04-11 — 18:13:34 UTC	Palomar, Shos, wortel	19	4	20
+117428	3	18	Ambiguous (4 Suits)	2020-04-11 — 17:45:11 UTC	Palomar, Shos, wortel	39	4	20
+117408	4	0	White (5 Suits)	2020-04-11 — 17:30:43 UTC	Astrid, Palomar, Shos, wortel	5	5	25
+117399	4	24	White (5 Suits)	2020-04-11 — 17:24:15 UTC	Astrid, Palomar, Shos, wortel	7	5	25
+117373	4	22	White (5 Suits)	2020-04-11 — 16:53:30 UTC	Astrid, Palomar, Shos, wortel	7	5	25
+114622	3	20	Rainbow & White (4 Suits)	2020-04-09 — 20:53:17 UTC	Gazilli, Shos, wortel	3	4	20
+114568	3	19	Rainbow & White (4 Suits)	2020-04-09 — 20:22:49 UTC	Gazilli, Shos, wortel	8	4	20
+114515	3	18	Rainbow & White (4 Suits)	2020-04-09 — 19:53:10 UTC	Gazilli, Shos, wortel	13	4	20
+114479	3	17	Rainbow & White (4 Suits)	2020-04-09 — 19:25:05 UTC	Gazilli, Shos, wortel	27	4	20
+114455	3	20	White (4 Suits)	2020-04-09 — 19:03:00 UTC	Gazilli, Shos, wortel	8	4	20
+114449	3	0	White (4 Suits)	2020-04-09 — 18:46:18 UTC	Gazilli, Shos, wortel	10	4	20
+114259	3	20	4 Suits	2020-04-08 — 21:06:53 UTC	Palomar, Shos, wortel	18	4	20
+114205	3	16	4 Suits	2020-04-08 — 20:46:29 UTC	Palomar, Shos, wortel	20	4	20
+114153	4	0	No Variant	2020-04-08 — 20:25:09 UTC	Icebear, Palomar, Shos, wortel	116	5	25
+111396	5	20	No Variant	2020-04-06 — 13:09:39 UTC	Animex52, GunPetal, MarkusKahlsen, smallman, wortel	1510	5	25
+111383	4	21	No Variant	2020-04-06 — 12:24:55 UTC	GunPetal, mickroc, smallman, wortel	1253	5	25
+110031	4	20	White (5 Suits)	2020-04-05 — 13:32:54 UTC	Gazilli, Palomar, Shos, wortel	6	5	25
+110001	4	0	White (5 Suits)	2020-04-05 — 13:01:39 UTC	Gazilli, Palomar, Shos, wortel	12	5	25
+109987	4	0	White (5 Suits)	2020-04-05 — 12:33:42 UTC	Gazilli, Palomar, Shos, wortel	46	5	25
+109978	4	25	No Variant	2020-04-05 — 12:15:00 UTC	Gazilli, Palomar, Shos, wortel	162	5	25
+109964	5	23	No Variant	2020-04-05 — 11:31:07 UTC	Gazilli, Palomar, Ruud, Shos, wortel	135	5	25
+109957	5	0	No Variant	2020-04-05 — 10:59:26 UTC	Gazilli, Palomar, Ruud, Shos, wortel	262	5	25
+109925	5	22	No Variant	2020-04-05 — 10:17:17 UTC	Gazilli, Palomar, Ruud, Shos, wortel	658	5	25
+109278	4	23	No Variant	2020-04-04 — 21:09:44 UTC	Gazilli, Palomar, Shos, wortel	129	5	25
+109191	4	0	No Variant	2020-04-04 — 20:30:46 UTC	Gazilli, Palomar, Shos, wortel	156	5	25
+109104	4	23	No Variant	2020-04-04 — 19:52:23 UTC	Gazilli, Palomar, Shos, wortel	257	5	25
+109055	4	0	No Variant	2020-04-04 — 19:24:42 UTC	Gazilli, Palomar, Shos, wortel	336	5	25
+108624	4	0	No Variant	2020-04-04 — 11:44:29 UTC	Palomar, Ruud, Shos, wortel	419	5	25
+108609	4	24	No Variant	2020-04-04 — 11:18:13 UTC	Palomar, Shos, Thomas1234, wortel	442	5	25
+108595	4	0	No Variant	2020-04-04 — 10:53:10 UTC	Palomar, Shos, Thomas1234, wortel	501	5	25
+94232	3	30	White & Dark Rainbow (6 Suits)	2020-03-22 — 09:35:52 UTC	Dr_Kakashi, IAMJEFF, wortel	2	6	30
+94225	3	25	Pink & Dark Rainbow (5 Suits)	2020-03-22 — 09:14:47 UTC	Dr_Kakashi, IAMJEFF, wortel	3	5	25
+94223	4	28	Black & Pink (6 Suits)	2020-03-22 — 08:37:07 UTC	Dr_Kakashi, IAMJEFF, NoMercy, wortel	4	6	30
+94220	4	0	Black & Pink (6 Suits)	2020-03-22 — 08:03:05 UTC	Dr_Kakashi, IAMJEFF, NoMercy, wortel	5	6	30
+94218	4	0	Black & Pink (6 Suits)	2020-03-22 — 07:52:37 UTC	Dr_Kakashi, IAMJEFF, NoMercy, wortel	7	6	30
+86167	3	23	Gray (5 Suits)	2020-03-08 — 08:15:56 UTC	duckmammal, Fey, wortel	42	5	25
+84395	6	23	No Variant	2020-03-01 — 07:07:00 UTC	DoubleDown11, Manco, mathisje, micerang, wallerun, wortel	91	5	25
+82731	4	0	Black & Dark Rainbow (6 Suits)	2020-02-23 — 13:30:17 UTC	Dr_Kakashi, Floriman, Jake_Stiles, wortel	16	6	30
+82726	4	25	Brown (5 Suits)	2020-02-23 — 12:30:19 UTC	Dr_Kakashi, Floriman, IAMJEFF, wortel	12	5	25
+82725	4	0	Brown (5 Suits)	2020-02-23 — 12:14:37 UTC	Dr_Kakashi, Floriman, IAMJEFF, wortel	14	5	25
+82575	4	23	White (5 Suits)	2020-02-22 — 19:52:13 UTC	asaelr, kealariser, Shos, wortel	12	5	25
+82512	3	0	White (5 Suits)	2020-02-22 — 19:25:46 UTC	DoubleDown11, Shos, wortel	61	5	25
+80226	4	25	No Variant	2020-02-16 — 16:11:07 UTC	asaelr, Fey, honzas, wortel	48	5	25
+80225	4	25	No Variant	2020-02-16 — 15:53:08 UTC	asaelr, Fey, honzas, wortel	48	5	25
+80194	4	28	Up or Down (6 Suits)	2020-02-16 — 06:26:18 UTC	Feer, MasN, micerang, wortel	22	6	30
+80192	3	0	Up or Down (6 Suits)	2020-02-16 — 06:04:05 UTC	MasN, micerang, wortel	8	6	30
+80191	3	26	Up or Down (6 Suits)	2020-02-16 — 05:49:27 UTC	MasN, micerang, wortel	15	6	30
+80185	5	27	Ambiguous (6 Suits)	2020-02-16 — 05:12:12 UTC	DoubleDown11, MasN, micerang, scharkbite, wortel	19	6	30
+80183	4	0	Pink (6 Suits)	2020-02-16 — 04:42:24 UTC	DoubleDown11, MasN, scharkbite, wortel	6	6	30
+78217	4	23	White (5 Suits)	2020-02-08 — 20:35:20 UTC	DoubleDown11, Nitrate, Shos, wortel	13	5	25
+78216	5	0	White (6 Suits)	2020-02-08 — 20:02:32 UTC	DoubleDown11, Kyle, Nitrate, Shos, wortel	37	6	30
+78165	3	0	Rainbow & White (5 Suits)	2020-02-08 — 06:57:21 UTC	duckmammal, MasN, wortel	37	5	25
+78164	4	25	White (5 Suits)	2020-02-08 — 06:27:11 UTC	duckmammal, MasN, padi, wortel	60	5	25
+77436	4	23	White (5 Suits)	2020-02-02 — 08:23:59 UTC	DoubleDown11, Feer, hanabornoob, wortel	79	5	25
+77435	3	18	White (4 Suits)	2020-02-02 — 07:41:16 UTC	DoubleDown11, hanabornoob, wortel	13	4	20
+77434	3	25	No Variant	2020-02-02 — 07:14:41 UTC	DoubleDown11, hanabornoob, wortel	422	5	25
+77433	3	25	No Variant	2020-02-02 — 06:51:36 UTC	DoubleDown11, hanabornoob, wortel	516	5	25
+77358	6	24	Rainbow (6 Suits)	2020-02-01 — 21:20:42 UTC	duckmammal, micerang, Nitrate, scharkbite, Shos, wortel	8	6	30
+77357	6	0	Rainbow (6 Suits)	2020-02-01 — 20:44:59 UTC	duckmammal, micerang, Nitrate, scharkbite, Shos, wortel	20	6	30
+77354	5	0	Rainbow (6 Suits)	2020-02-01 — 20:15:09 UTC	asaelr, duckmammal, Nitrate, scharkbite, wortel	10	6	30
+77353	4	25	No Variant	2020-02-01 — 19:48:06 UTC	asaelr, duckmammal, scharkbite, wortel	36	5	25
+77338	3	25	No Variant	2020-02-01 — 16:33:51 UTC	aladdin3, Shos, wortel	1095	5	25
+77333	4	22	No Variant	2020-02-01 — 15:55:06 UTC	aladdin3, Nitrate, Shos, wortel	985	5	25
+77230	3	30	Dual-Color (6 Suits)	2020-01-31 — 18:45:36 UTC	duckmammal, scharkbite, wortel	10	6	30
+77227	3	0	Dual-Color (6 Suits)	2020-01-31 — 18:19:35 UTC	duckmammal, scharkbite, wortel	12	6	30
+77102	4	25	White (5 Suits)	2020-01-30 — 20:24:57 UTC	duckmammal, Floriman, Livia, wortel	11	5	25
+77095	4	22	White (5 Suits)	2020-01-30 — 19:51:27 UTC	duckmammal, Floriman, Livia, wortel	13	5	25
+77086	4	25	No Variant	2020-01-30 — 19:06:33 UTC	duckmammal, Floriman, Livia, wortel	326	5	25
+76679	3	14	3 Suits	2020-01-27 — 18:37:19 UTC	asaelr, Floriman, wortel	74	3	15
+76678	2	0	No Variant	2020-01-27 — 18:23:27 UTC	asaelr, wortel	187	5	25
+76485	5	0	No Variant	2020-01-26 — 16:00:26 UTC	Fireheart, Floriman, Libster, Shos, wortel	2	5	25
+76483	4	25	No Variant	2020-01-26 — 15:30:13 UTC	Fireheart, Floriman, Shos, wortel	180	5	25
+76481	4	28	Rainbow (6 Suits)	2020-01-26 — 14:20:02 UTC	Floriman, Shos, TimeHoodie, wortel	275	6	30
+76232	5	28	Pink (6 Suits)	2020-01-24 — 21:12:13 UTC	Floriman, Kyle, scharkbite, Shos, wortel	15	6	30
+76231	5	0	Pink & White (5 Suits)	2020-01-24 — 20:48:02 UTC	Floriman, scharkbite, Shos, Valetta6789, wortel	5	5	25
+76230	5	0	Pink & White (5 Suits)	2020-01-24 — 20:33:55 UTC	Floriman, scharkbite, Shos, Valetta6789, wortel	7	5	25
+76227	3	30	Pink & Brown (6 Suits)	2020-01-24 — 20:08:24 UTC	Floriman, scharkbite, wortel	2	6	30
+75962	4	25	Light Pink (5 Suits)	2020-01-21 — 18:37:44 UTC	asaelr, Floriman, Libster, wortel	20	5	25
+75960	4	0	Light Pink (6 Suits)	2020-01-21 — 18:19:29 UTC	asaelr, Floriman, scharkbite, wortel	14	6	30
+75959	3	29	Light Pink (6 Suits)	2020-01-21 — 18:05:59 UTC	Floriman, scharkbite, wortel	11	6	30
+75727	4	25	Ambiguous & White (5 Suits)	2020-01-19 — 19:13:52 UTC	Kyle, micerang, Shos, wortel	3	5	25
+75726	3	0	Ambiguous (4 Suits)	2020-01-19 — 18:50:21 UTC	micerang, Shos, wortel	4	4	20
+75725	3	0	Ambiguous (4 Suits)	2020-01-19 — 18:47:00 UTC	micerang, Shos, wortel	4	4	20
+75724	4	0	Ambiguous & White (5 Suits)	2020-01-19 — 18:33:02 UTC	Kyle, micerang, Shos, wortel	5	5	25
+75723	4	0	Ambiguous & White (5 Suits)	2020-01-19 — 18:14:41 UTC	Kyle, micerang, Shos, wortel	9	5	25
+75722	4	0	Dual-Color (6 Suits)	2020-01-19 — 17:54:58 UTC	asaelr, Kyle, Shos, wortel	4	6	30
+75721	4	25	Black (5 Suits)	2020-01-19 — 17:26:05 UTC	asaelr, Kyle, Shos, wortel	5	5	25
+75611	5	30	Rainbow (6 Suits)	2020-01-18 — 09:55:38 UTC	Fireheart, Hyakinthus, Livia, Shos, wortel	17	6	30
+75607	4	27	Dual-Color Mix	2020-01-18 — 09:02:46 UTC	Fireheart, Floriman, Hyakinthus, wortel	12	6	30
+75605	4	0	Dual-Color Mix	2020-01-18 — 08:27:11 UTC	Fireheart, Floriman, Hyakinthus, wortel	18	6	30
+75603	4	0	Dual-Color Mix	2020-01-18 — 08:14:56 UTC	Fireheart, Floriman, Hyakinthus, wortel	20	6	30
+75535	3	19	White (4 Suits)	2020-01-17 — 20:32:16 UTC	kodomazer, Shos, wortel	16	4	20
+75531	3	17	White (4 Suits)	2020-01-17 — 20:07:35 UTC	kodomazer, Shos, wortel	18	4	20
+75528	3	17	White (4 Suits)	2020-01-17 — 19:43:17 UTC	kodomazer, Shos, wortel	59	4	20
+75524	5	25	White (5 Suits)	2020-01-17 — 19:11:05 UTC	Floriman, Kyle, Shos, Sucubis, wortel	6	5	25
+75522	4	0	White (5 Suits)	2020-01-17 — 18:45:26 UTC	Kyle, Shos, Sucubis, wortel	13	5	25
+75521	3	0	Up or Down (5 Suits)	2020-01-17 — 18:28:39 UTC	Kyle, Sucubis, wortel	88	5	25
+75401	4	30	Ambiguous Mix	2020-01-15 — 20:10:02 UTC	Fireheart, scharkbite, Valetta6789, wortel	5	6	30
+75398	4	26	Ambiguous Mix	2020-01-15 — 19:37:10 UTC	Fireheart, scharkbite, Valetta6789, wortel	5	6	30
+75320	4	30	Rainbow (6 Suits)	2020-01-14 — 19:32:34 UTC	Andrew_UK, Floriman, scharkbite, wortel	9	6	30
+75309	3	0	Rainbow (6 Suits)	2020-01-14 — 16:26:27 UTC	asaelr, Dr_Kakashi, wortel	75	6	30
+75308	3	0	Rainbow (6 Suits)	2020-01-14 — 16:14:48 UTC	asaelr, Dr_Kakashi, wortel	77	6	30
+75112	3	24	Brown (5 Suits)	2020-01-12 — 18:03:22 UTC	asaelr, Feer, wortel	17	5	25
+75110	3	0	Brown (5 Suits)	2020-01-12 — 17:45:17 UTC	asaelr, Feer, wortel	23	5	25
+75109	4	0	Brown (5 Suits)	2020-01-12 — 17:38:53 UTC	asaelr, Feer, micerang, wortel	3	5	25
+75108	4	0	Brown (5 Suits)	2020-01-12 — 17:36:23 UTC	asaelr, Feer, micerang, wortel	3	5	25
+75094	3	20	4 Suits	2020-01-12 — 13:12:27 UTC	Dr_Kakashi, Shos, wortel	7	4	20
+75093	3	0	4 Suits	2020-01-12 — 12:58:18 UTC	Dr_Kakashi, Shos, wortel	9	4	20
+75092	3	20	4 Suits	2020-01-12 — 12:44:41 UTC	Dr_Kakashi, Shos, wortel	11	4	20
+75091	4	29	Dual-Color (6 Suits)	2020-01-12 — 12:22:57 UTC	asaelr, Dr_Kakashi, kopen, wortel	4	6	30
+75090	4	0	Dual-Color (6 Suits)	2020-01-12 — 11:53:23 UTC	asaelr, Dr_Kakashi, kopen, wortel	3	6	30
+75089	4	0	Dual-Color (6 Suits)	2020-01-12 — 11:29:38 UTC	asaelr, Dr_Kakashi, kopen, wortel	3	6	30
+75081	3	22	Clue Starved (5 Suits)	2020-01-12 — 06:56:42 UTC	Fireheart, kopen, wortel	6	5	25
+75079	3	24	Clue Starved (5 Suits)	2020-01-12 — 06:40:44 UTC	Fireheart, kopen, wortel	9	5	25
+75078	3	0	Black & Dark Omni (6 Suits)	2020-01-12 — 06:24:29 UTC	Fireheart, kopen, wortel	2	6	30
+75037	3	25	No Variant	2020-01-11 — 21:42:56 UTC	hanabornoob, TimeHoodie, wortel	551	5	25
+75036	6	0	6 Suits	2020-01-11 — 21:14:59 UTC	aladdin3, asaelr, hanabornoob, Meike, TimeHoodie, wortel	16	6	30
+75035	5	0	Rainbow (6 Suits)	2020-01-11 — 20:30:08 UTC	aladdin3, asaelr, Meike, TimeHoodie, wortel	101	6	30
+75034	4	0	Rainbow (6 Suits)	2020-01-11 — 20:17:22 UTC	aladdin3, asaelr, TimeHoodie, wortel	132	6	30
+75033	3	0	Rainbow (6 Suits)	2020-01-11 — 20:12:40 UTC	aladdin3, asaelr, wortel	118	6	30
+74972	3	20	4 Suits	2020-01-11 — 17:34:54 UTC	micerang, Shos, wortel	21	4	20
+74965	3	20	4 Suits	2020-01-11 — 17:18:02 UTC	micerang, Shos, wortel	23	4	20
+74956	4	23	No Variant	2020-01-11 — 16:51:54 UTC	Floriman, Shos, Sucubis, wortel	308	5	25
+74946	4	25	No Variant	2020-01-11 — 16:20:16 UTC	Dr_Kakashi, Floriman, Shos, wortel	190	5	25
+74934	4	22	No Variant	2020-01-11 — 13:19:19 UTC	arnd, Pimak, Shos, wortel	541	5	25
+74927	4	0	No Variant	2020-01-11 — 12:53:00 UTC	arnd, Pimak, Shos, wortel	717	5	25
+74922	4	23	No Variant	2020-01-11 — 12:22:38 UTC	arnd, Pimak, Shos, wortel	899	5	25
+74917	4	0	No Variant	2020-01-11 — 11:38:16 UTC	arnd, Fireheart, Shos, wortel	1744	5	25
+74913	3	21	No Variant	2020-01-11 — 10:52:08 UTC	Fireheart, Shos, wortel	89	5	25
+74839	4	25	No Variant	2020-01-10 — 18:35:38 UTC	aladdin3, Fey, Kyle, wortel	117	5	25
+74763	5	0	Black & Rainbow (6 Suits)	2020-01-09 — 19:30:36 UTC	awe, Dr_Kakashi, Kyle, sjdrodge, wortel	2	6	30
+74762	5	27	Black & Rainbow (6 Suits)	2020-01-09 — 19:04:18 UTC	Dr_Kakashi, florrat2, sjdrodge, Valetta6789, wortel	3	6	30
+74209	5	24	No Variant	2020-01-05 — 20:54:18 UTC	Fireheart, Kyle, Meike, Valetta6789, wortel	120	5	25
+74207	5	0	No Variant	2020-01-05 — 20:32:03 UTC	Fireheart, Kyle, Meike, Valetta6789, wortel	143	5	25
+74206	5	25	No Variant	2020-01-05 — 20:23:50 UTC	Fireheart, Kyle, Meike, Valetta6789, wortel	207	5	25
+74205	4	0	No Variant	2020-01-05 — 19:59:11 UTC	Fireheart, Kyle, Valetta6789, wortel	74	5	25
+72527	4	0	Dual-Color (6 Suits)	2019-12-24 — 10:44:37 UTC	asaelr, Fireheart, kodomazer, wortel	6	6	30
+72526	3	25	No Variant	2019-12-24 — 10:19:09 UTC	Fireheart, kodomazer, wortel	106	5	25
+71078	5	30	Dual-Color (6 Suits)	2019-12-15 — 10:47:30 UTC	asaelr, Fireheart, Floriman, Valetta6789, wortel	8	6	30
+66967	5	0	Rainbow (6 Suits)	2019-11-27 — 19:43:51 UTC	awe, honzas, Jake_Stiles, Kyle, wortel	21	6	30
+66966	5	0	Rainbow (6 Suits)	2019-11-27 — 19:10:30 UTC	awe, honzas, Jake_Stiles, Kyle, wortel	24	6	30
+66507	5	28	Dual-Color Mix	2019-11-24 — 08:09:18 UTC	Fireheart, Kyle, micerang, Valetta6789, wortel	4	6	30
+66505	5	0	Dual-Color Mix	2019-11-24 — 07:42:05 UTC	Fireheart, Kyle, micerang, Valetta6789, wortel	5	6	30
+66504	5	0	Dual-Color Mix	2019-11-24 — 07:20:51 UTC	Fireheart, Kyle, micerang, Valetta6789, wortel	5	6	30
+66501	5	0	Ambiguous Mix	2019-11-24 — 06:59:07 UTC	Fireheart, Kyle, micerang, Valetta6789, wortel	7	6	30
+66498	4	30	Brown & Dark Rainbow (6 Suits)	2019-11-24 — 06:47:00 UTC	Fireheart, micerang, Valetta6789, wortel	4	6	30
+66492	4	30	White & Dark Rainbow (6 Suits)	2019-11-24 — 06:26:08 UTC	Fireheart, micerang, Valetta6789, wortel	8	6	30
+66367	5	28	Black & Rainbow (6 Suits)	2019-11-23 — 19:41:51 UTC	IAMJEFF, Livia, Valetta6789, wortel, Zamiel	2	6	30
+66366	5	0	Black & Rainbow (6 Suits)	2019-11-23 — 19:20:07 UTC	IAMJEFF, Livia, Valetta6789, wortel, Zamiel	2	6	30
+66364	5	0	Black & Rainbow (6 Suits)	2019-11-23 — 19:11:54 UTC	awe, Livia, Valetta6789, wortel, Zamiel	2	6	30
+66362	5	0	Black & Rainbow (6 Suits)	2019-11-23 — 18:42:41 UTC	awe, Livia, Valetta6789, wortel, Zamiel	3	6	30
+66361	5	0	Black & Rainbow (6 Suits)	2019-11-23 — 18:22:05 UTC	awe, Livia, Valetta6789, wortel, Zamiel	3	6	30
+66359	5	0	Pink (3 Suits)	2019-11-23 — 18:15:42 UTC	awe, DMoney, Floriman, Livia, wortel	2	3	15
+66358	5	0	Pink (3 Suits)	2019-11-23 — 18:11:02 UTC	awe, DMoney, Floriman, Livia, wortel	2	3	15
+66357	5	0	Pink (3 Suits)	2019-11-23 — 18:05:37 UTC	awe, DMoney, Floriman, Livia, wortel	4	3	15
+66356	4	0	Pink (3 Suits)	2019-11-23 — 18:03:30 UTC	awe, DMoney, Floriman, wortel	6	3	15
+66355	4	0	Pink (3 Suits)	2019-11-23 — 17:58:50 UTC	awe, DMoney, Floriman, wortel	7	3	15
+66237	5	25	Rainbow (5 Suits)	2019-11-23 — 10:08:21 UTC	Dr_Kakashi, Floriman, Livia, RaKXeR, wortel	34	5	25
+66236	4	0	Black (5 Suits)	2019-11-23 — 09:54:46 UTC	Dr_Kakashi, Floriman, RaKXeR, wortel	32	5	25
+66235	5	20	White (4 Suits)	2019-11-23 — 09:42:50 UTC	Dr_Kakashi, Livia, micerang, RaKXeR, wortel	16	4	20
+66234	5	0	White (3 Suits)	2019-11-23 — 09:26:07 UTC	Dr_Kakashi, Livia, micerang, RaKXeR, wortel	6	3	15
+66187	4	30	Up or Down & Rainbow (6 Suits)	2019-11-23 — 05:51:23 UTC	DMoney, scharkbite, wortel, Zamiel	4	6	30
+66185	3	0	Up or Down & Rainbow (6 Suits)	2019-11-23 — 05:14:13 UTC	scharkbite, wortel, Zamiel	20	6	30
+64951	3	24	Alternating Clues (5 Suits)	2019-11-16 — 05:37:54 UTC	scharkbite, wortel, Zamiel	9	5	25
+64847	4	28	Up or Down & Omni (6 Suits)	2019-11-15 — 18:55:48 UTC	Jake_Stiles, Kyle, scharkbite, wortel	5	6	30
+64844	4	0	Up or Down & Omni (6 Suits)	2019-11-15 — 18:36:12 UTC	Jake_Stiles, Kyle, scharkbite, wortel	6	6	30
+64843	5	0	Clue Starved (6 Suits)	2019-11-15 — 18:25:33 UTC	Floriman, Jake_Stiles, Kyle, scharkbite, wortel	5	6	30
+64842	4	19	Ambiguous (4 Suits)	2019-11-15 — 17:58:10 UTC	Floriman, Jake_Stiles, Kyle, wortel	20	4	20
+62486	3	20	Light Pink (4 Suits)	2019-11-03 — 05:34:11 UTC	IAMJEFF, scharkbite, wortel	7	4	20
+62485	3	0	Light Pink (4 Suits)	2019-11-03 — 05:24:34 UTC	IAMJEFF, scharkbite, wortel	8	4	20
+62483	3	0	Light Pink (4 Suits)	2019-11-03 — 05:09:32 UTC	IAMJEFF, scharkbite, wortel	12	4	20
+59815	4	30	Up or Down & Rainbow (6 Suits)	2019-10-20 — 08:13:13 UTC	Fireheart, IAMJEFF, Romain672, wortel	6	6	30
+59812	4	0	Up or Down & Rainbow (6 Suits)	2019-10-20 — 07:53:50 UTC	Fireheart, IAMJEFF, Romain672, wortel	7	6	30
+59811	4	26	Up or Down & Rainbow (6 Suits)	2019-10-20 — 07:40:35 UTC	Fireheart, IAMJEFF, Romain672, wortel	12	6	30
+59810	4	0	Up or Down & Rainbow (6 Suits)	2019-10-20 — 07:17:14 UTC	Fireheart, IAMJEFF, Romain672, wortel	11	6	30
+59808	4	25	Up or Down (5 Suits)	2019-10-20 — 07:07:52 UTC	Fireheart, IAMJEFF, Romain672, wortel	20	5	25
+59804	5	27	Up or Down (6 Suits)	2019-10-20 — 06:38:07 UTC	Fireheart, IAMJEFF, scharkbite, wortel, Zamiel	5	6	30
+59656	4	23	Up or Down & Rainbow (5 Suits)	2019-10-19 — 05:48:59 UTC	Fireheart, Romain672, scharkbite, wortel	15	5	25
+59652	4	23	Up or Down & Rainbow (5 Suits)	2019-10-19 — 05:21:02 UTC	Fireheart, Romain672, scharkbite, wortel	18	5	25
+58524	4	0	Gray (5 Suits)	2019-10-12 — 08:46:07 UTC	Bob Dole, Fireheart, IAMJEFF, wortel	12	5	25
+58522	4	0	Gray (5 Suits)	2019-10-12 — 08:30:06 UTC	Bob Dole, Fireheart, IAMJEFF, wortel	22	5	25
+58521	4	0	Gray (5 Suits)	2019-10-12 — 08:23:02 UTC	Bob Dole, Fireheart, IAMJEFF, wortel	27	5	25
+58517	3	25	Rainbow-Ones (5 Suits)	2019-10-12 — 07:43:20 UTC	Dr_Kakashi, micerang, wortel	3	5	25
+58515	3	0	Rainbow-Ones (5 Suits)	2019-10-12 — 07:24:07 UTC	Dr_Kakashi, micerang, wortel	3	5	25
+58430	5	0	Dark Pink (6 Suits)	2019-10-11 — 20:16:23 UTC	Kyle, micerang, Valetta6789, wortel, Zamiel	1	6	30
+58426	5	0	Dark Pink (6 Suits)	2019-10-11 — 19:49:19 UTC	Kyle, micerang, Valetta6789, wortel, Zamiel	2	6	30
+57790	4	29	Black & White (6 Suits)	2019-10-06 — 10:13:51 UTC	Dr_Kakashi, Floriman, kopen, wortel	17	6	30
+57785	4	0	Up or Down (5 Suits)	2019-10-06 — 09:49:13 UTC	Dr_Kakashi, Floriman, Valetta6789, wortel	25	5	25
+57784	4	22	Up or Down (5 Suits)	2019-10-06 — 09:31:26 UTC	Dr_Kakashi, Floriman, Valetta6789, wortel	27	5	25
+57783	4	0	Up or Down (5 Suits)	2019-10-06 — 09:07:00 UTC	Dr_Kakashi, Floriman, Valetta6789, wortel	27	5	25
+57781	4	0	Up or Down (5 Suits)	2019-10-06 — 08:52:42 UTC	Dr_Kakashi, Floriman, Valetta6789, wortel	31	5	25
+57780	4	0	Up or Down (5 Suits)	2019-10-06 — 08:30:08 UTC	Dr_Kakashi, Floriman, Valetta6789, wortel	35	5	25
+57778	4	0	Up or Down (5 Suits)	2019-10-06 — 08:06:40 UTC	Dr_Kakashi, Floriman, Valetta6789, wortel	41	5	25
+57777	4	22	Up or Down (5 Suits)	2019-10-06 — 07:44:19 UTC	Dr_Kakashi, Floriman, Valetta6789, wortel	52	5	25
+57775	4	0	Up or Down (5 Suits)	2019-10-06 — 07:26:58 UTC	Dr_Kakashi, Floriman, Valetta6789, wortel	75	5	25
+57774	4	0	No Variant	2019-10-06 — 07:17:12 UTC	Dr_Kakashi, Floriman, Valetta6789, wortel	149	5	25
+57771	4	0	Black & White (6 Suits)	2019-10-06 — 06:47:09 UTC	Dr_Kakashi, Fireheart, Valetta6789, wortel	16	6	30
+57770	4	0	Black & White (6 Suits)	2019-10-06 — 06:31:23 UTC	Dr_Kakashi, Fireheart, Valetta6789, wortel	19	6	30
+57768	4	28	Black & White (6 Suits)	2019-10-06 — 06:11:33 UTC	Dr_Kakashi, Fireheart, Valetta6789, wortel	17	6	30
+57713	6	30	Black (6 Suits)	2019-10-05 — 20:02:56 UTC	asaelr, DMoney, Floriman, kondain, Valetta6789, wortel	3	6	30
+57711	6	0	Black (6 Suits)	2019-10-05 — 19:39:52 UTC	asaelr, DMoney, Floriman, kondain, Valetta6789, wortel	3	6	30
+57706	6	28	Black (6 Suits)	2019-10-05 — 19:19:37 UTC	asaelr, DMoney, Floriman, kondain, Valetta6789, wortel	3	6	30
+57703	6	0	Black (6 Suits)	2019-10-05 — 18:49:56 UTC	asaelr, DMoney, Floriman, kondain, Valetta6789, wortel	4	6	30
+57699	4	0	Black (6 Suits)	2019-10-05 — 18:19:40 UTC	asaelr, DMoney, Razvogor, wortel	55	6	30
+57695	6	0	Black & White (5 Suits)	2019-10-05 — 17:54:15 UTC	asaelr, DMoney, Kyle, Libster, Razvogor, wortel	3	5	25
+55819	3	0	Black & Rainbow (5 Suits)	2019-09-21 — 07:09:19 UTC	Fireheart, Kyle, wortel	46	5	25
+55818	3	0	Black & Rainbow (5 Suits)	2019-09-21 — 07:04:37 UTC	Fireheart, Kyle, wortel	58	5	25
+55814	4	0	Null (4 Suits)	2019-09-21 — 06:50:11 UTC	Fireheart, IAMJEFF, Kyle, wortel	11	4	20
+55811	4	15	Null (3 Suits)	2019-09-21 — 06:39:28 UTC	Fireheart, IAMJEFF, Kyle, wortel	4	3	15
+55808	3	0	Black & Rainbow (5 Suits)	2019-09-21 — 06:23:39 UTC	Fireheart, IAMJEFF, wortel	33	5	25
+55806	3	0	Clue Starved (6 Suits)	2019-09-21 — 06:09:19 UTC	Fireheart, IAMJEFF, wortel	6	6	30
+55805	3	0	Clue Starved (6 Suits)	2019-09-21 — 06:00:22 UTC	Fireheart, IAMJEFF, wortel	6	6	30
+55803	3	0	Clue Starved (6 Suits)	2019-09-21 — 05:53:56 UTC	Fireheart, IAMJEFF, wortel	6	6	30
+55802	3	0	Clue Starved (6 Suits)	2019-09-21 — 05:50:23 UTC	Fireheart, IAMJEFF, wortel	7	6	30
+55801	3	0	Clue Starved (6 Suits)	2019-09-21 — 05:46:36 UTC	Fireheart, IAMJEFF, wortel	7	6	30
+55800	3	0	Clue Starved (6 Suits)	2019-09-21 — 05:43:17 UTC	Fireheart, IAMJEFF, wortel	7	6	30
+55799	3	0	Clue Starved (6 Suits)	2019-09-21 — 05:40:07 UTC	Fireheart, IAMJEFF, wortel	11	6	30
+55798	3	0	Clue Starved (6 Suits)	2019-09-21 — 05:35:39 UTC	Fireheart, IAMJEFF, wortel	13	6	30
+55797	3	0	Clue Starved (6 Suits)	2019-09-21 — 05:32:35 UTC	Fireheart, IAMJEFF, wortel	20	6	30
+55690	4	0	4 Suits	2019-09-20 — 15:56:46 UTC	Floriman, Jake_Stiles, Kyle, wortel	32	4	20
+55689	4	16	4 Suits	2019-09-20 — 15:39:52 UTC	Floriman, Jake_Stiles, Kyle, wortel	101	4	20
+55121	6	0	6 Suits	2019-09-16 — 18:41:53 UTC	Floriman, Kyle, Livia, Pimak, Romain672, wortel	50	6	30
+55118	4	0	6 Suits	2019-09-16 — 18:13:41 UTC	Floriman, Livia, Romain672, wortel	354	6	30
+54906	3	25	Omni (5 Suits)	2019-09-15 — 08:29:28 UTC	Fireheart, IAMJEFF, wortel	21	5	25
+54904	3	0	Omni (5 Suits)	2019-09-15 — 08:07:14 UTC	Fireheart, IAMJEFF, wortel	31	5	25
+54902	3	0	Omni (5 Suits)	2019-09-15 — 07:45:25 UTC	Fireheart, IAMJEFF, wortel	50	5	25
+54901	3	30	Omni (6 Suits)	2019-09-15 — 07:22:54 UTC	Fireheart, IAMJEFF, wortel	22	6	30
+54900	3	0	Omni (6 Suits)	2019-09-15 — 06:58:59 UTC	Fireheart, IAMJEFF, wortel	24	6	30
+54899	3	0	Omni (6 Suits)	2019-09-15 — 06:47:50 UTC	Fireheart, IAMJEFF, wortel	27	6	30
+54898	3	0	Omni (6 Suits)	2019-09-15 — 06:39:21 UTC	Fireheart, IAMJEFF, wortel	51	6	30
+54892	3	0	Omni (6 Suits)	2019-09-15 — 06:27:26 UTC	Fireheart, IAMJEFF, wortel	70	6	30
+52727	5	21	Rainbow (5 Suits)	2019-09-01 — 08:14:32 UTC	Animex52, darkenblade986, Dr_Kakashi, Fireheart, wortel	26	5	25
+52726	4	0	Clue Starved (5 Suits)	2019-09-01 — 07:39:47 UTC	darkenblade986, Dr_Kakashi, Fireheart, wortel	6	5	25
+52724	4	0	Clue Starved (5 Suits)	2019-09-01 — 07:16:58 UTC	darkenblade986, Dr_Kakashi, Fireheart, wortel	9	5	25
+52610	5	23	No Variant	2019-08-31 — 10:11:35 UTC	darkenblade986, Dr_Kakashi, Fireheart, kondain, wortel	163	5	25
+52609	4	0	Clue Starved (5 Suits)	2019-08-31 — 09:32:44 UTC	darkenblade986, Dr_Kakashi, Fireheart, wortel	11	5	25
+52599	3	24	Clue Starved (5 Suits)	2019-08-31 — 07:40:06 UTC	darkenblade986, Dr_Kakashi, wortel	18	5	25
+52596	3	0	Clue Starved (5 Suits)	2019-08-31 — 07:13:27 UTC	Dr_Kakashi, Fireheart, wortel	22	5	25
+52594	4	0	Clue Starved (5 Suits)	2019-08-31 — 06:50:24 UTC	Dr_Kakashi, Fireheart, IAMJEFF, wortel	19	5	25
+52591	3	0	Clue Starved (5 Suits)	2019-08-31 — 06:29:36 UTC	Dr_Kakashi, IAMJEFF, wortel	33	5	25
+52588	4	20	Rainbow (4 Suits)	2019-08-31 — 06:14:29 UTC	darkenblade986, Dr_Kakashi, eevee, wortel	4	4	20
+52585	4	0	Rainbow (4 Suits)	2019-08-31 — 05:56:57 UTC	darkenblade986, Dr_Kakashi, eevee, wortel	4	4	20
+52582	5	0	Dark Pink (6 Suits)	2019-08-31 — 05:29:29 UTC	darkenblade986, Dr_Kakashi, IAMJEFF, wortel, Zamiel	13	6	30
+52581	4	0	Dark Pink (6 Suits)	2019-08-31 — 05:22:29 UTC	darkenblade986, Dr_Kakashi, wortel, Zamiel	16	6	30
+51799	3	0	Clue Starved (6 Suits)	2019-08-25 — 06:07:01 UTC	florrat2, wortel, Zamiel	1	6	30
+51797	3	0	Clue Starved (6 Suits)	2019-08-25 — 05:34:49 UTC	florrat2, wortel, Zamiel	3	6	30
+51647	4	30	Black & Brown (6 Suits)	2019-08-24 — 07:34:03 UTC	Dr_Kakashi, IAMJEFF, Kyle, wortel	4	6	30
+51646	4	0	Black & Brown (6 Suits)	2019-08-24 — 07:19:18 UTC	Dr_Kakashi, IAMJEFF, Kyle, wortel	4	6	30
+51643	4	0	Black & Brown (6 Suits)	2019-08-24 — 07:04:42 UTC	Dr_Kakashi, IAMJEFF, Kyle, wortel	4	6	30
+51642	3	0	Black & Brown (6 Suits)	2019-08-24 — 06:36:44 UTC	Dr_Kakashi, IAMJEFF, wortel	13	6	30
+51639	5	16	Omni (4 Suits)	2019-08-24 — 06:18:27 UTC	Dr_Kakashi, Fireheart, IAMJEFF, wortel, Zamiel	2	4	20
+51638	5	0	Omni (4 Suits)	2019-08-24 — 06:05:08 UTC	Dr_Kakashi, Fireheart, IAMJEFF, wortel, Zamiel	3	4	20
+50848	3	19	Omni (4 Suits)	2019-08-18 — 07:46:22 UTC	sjdrodge, TheWildCard, wortel	29	4	20
+50847	4	25	No Variant	2019-08-18 — 07:18:13 UTC	efaust, sjdrodge, TheWildCard, wortel	38	5	25
+50732	6	25	Rainbow (5 Suits)	2019-08-17 — 18:11:26 UTC	Fireheart, Libster, Pikachu, Razvogor, Sucubis, wortel	7	5	25
+50729	5	23	Rainbow (5 Suits)	2019-08-17 — 17:37:40 UTC	Fireheart, Libster, Pikachu, Sucubis, wortel	4	5	25
+50725	4	24	Rainbow (5 Suits)	2019-08-17 — 17:08:44 UTC	Fireheart, Libster, Sucubis, wortel	9	5	25
+49982	5	21	No Variant	2019-08-11 — 09:51:12 UTC	Animex52, Dr_Kakashi, Fireheart, Metylene, wortel	457	5	25
+49889	5	0	Null (6 Suits)	2019-08-10 — 10:39:01 UTC	Dr_Kakashi, Fireheart, Maiorskills, wortel, Yeesh	8	6	30
+49885	4	0	Null (6 Suits)	2019-08-10 — 10:03:09 UTC	Dr_Kakashi, Fireheart, wortel, Yeesh	4	6	30
+49881	4	30	Null (6 Suits)	2019-08-10 — 09:30:37 UTC	Dr_Kakashi, Fireheart, wortel, Yeesh	4	6	30
+49878	4	0	Null (6 Suits)	2019-08-10 — 09:08:29 UTC	Dr_Kakashi, Fireheart, wortel, Yeesh	6	6	30
+49876	4	0	Null (6 Suits)	2019-08-10 — 09:00:39 UTC	Dr_Kakashi, Fireheart, wortel, Yeesh	6	6	30
+49867	5	30	Null (6 Suits)	2019-08-10 — 08:00:08 UTC	Dr_Kakashi, Fireheart, qqqq, wortel, Yeesh	10	6	30
+49866	5	0	Null (6 Suits)	2019-08-10 — 07:22:02 UTC	Dr_Kakashi, Fireheart, qqqq, wortel, Yeesh	10	6	30
+49175	5	0	Black (6 Suits)	2019-08-04 — 09:40:09 UTC	Dr_Kakashi, Fireheart, Maiorskills, qqqq, wortel	27	6	30
+49174	5	0	Black (6 Suits)	2019-08-04 — 09:19:19 UTC	Dr_Kakashi, Fireheart, Maiorskills, qqqq, wortel	36	6	30
+49173	3	23	No Variant	2019-08-04 — 08:48:51 UTC	Dr_Kakashi, Fireheart, wortel	324	5	25
+49172	4	0	Dual-Color (6 Suits)	2019-08-04 — 08:23:08 UTC	Dr_Kakashi, Fireheart, qqqq, wortel	8	6	30
+49171	4	0	Dual-Color (6 Suits)	2019-08-04 — 07:35:18 UTC	Dr_Kakashi, Fireheart, qqqq, wortel	10	6	30
+49169	3	28	Dual-Color (6 Suits)	2019-08-04 — 06:54:00 UTC	Dr_Kakashi, qqqq, wortel	13	6	30
+49168	3	0	Up or Down (6 Suits)	2019-08-04 — 06:07:25 UTC	Dr_Kakashi, micerang, wortel	10	6	30
+49043	3	0	No Variant	2019-08-03 — 09:56:40 UTC	Dr_Kakashi, Fireheart, wortel	344	5	25
+49042	3	0	No Variant	2019-08-03 — 09:47:04 UTC	Dr_Kakashi, Fireheart, wortel	354	5	25
+49041	3	0	No Variant	2019-08-03 — 09:41:52 UTC	Dr_Kakashi, Fireheart, wortel	375	5	25
+49040	3	24	No Variant	2019-08-03 — 09:34:26 UTC	Dr_Kakashi, Fireheart, wortel	386	5	25
+49039	3	23	No Variant	2019-08-03 — 09:19:40 UTC	Dr_Kakashi, Fireheart, wortel	451	5	25
+49038	3	0	No Variant	2019-08-03 — 09:11:09 UTC	Dr_Kakashi, Fireheart, wortel	459	5	25
+49037	3	0	No Variant	2019-08-03 — 09:04:17 UTC	Dr_Kakashi, Fireheart, wortel	573	5	25
+49035	4	0	Dual-Color (6 Suits)	2019-08-03 — 08:47:17 UTC	Dr_Kakashi, Fireheart, qqqq, wortel	15	6	30
+49033	4	0	Dual-Color (6 Suits)	2019-08-03 — 08:19:00 UTC	Dr_Kakashi, Fireheart, qqqq, wortel	24	6	30
+49032	3	0	Rainbow (5 Suits)	2019-08-03 — 07:48:51 UTC	Dr_Kakashi, Fireheart, wortel	74	5	25
+49029	4	30	Rainbow (6 Suits)	2019-08-03 — 07:27:16 UTC	Dr_Kakashi, Fireheart, micerang, wortel	70	6	30
+48108	5	23	No Variant	2019-07-28 — 07:53:29 UTC	Animex52, Dr_Kakashi, Fireheart, Livia, wortel	1119	5	25
+48104	4	24	Rainbow & Dark Brown (5 Suits)	2019-07-28 — 07:16:57 UTC	IAMJEFF, qqqq, wortel, Zamiel	5	5	25
+48102	4	30	Rainbow & Dark Brown (6 Suits)	2019-07-28 — 06:41:42 UTC	IAMJEFF, qqqq, wortel, Zamiel	4	6	30
+48101	4	0	Rainbow & Dark Brown (6 Suits)	2019-07-28 — 06:21:11 UTC	IAMJEFF, qqqq, wortel, Zamiel	5	6	30
+48099	4	0	Rainbow & Dark Brown (6 Suits)	2019-07-28 — 06:17:19 UTC	IAMJEFF, qqqq, wortel, Zamiel	6	6	30
+47928	3	25	Pink (5 Suits)	2019-07-27 — 07:14:21 UTC	Dr_Kakashi, micerang, wortel	62	5	25
+47195	3	25	Rainbow (5 Suits)	2019-07-21 — 08:04:15 UTC	Asddsa76, Livia, wortel	18	5	25
+47193	4	0	No Variant	2019-07-21 — 07:20:14 UTC	Asddsa76, Dr_Kakashi, Fireheart, wortel	131	5	25
+47192	4	0	No Variant	2019-07-21 — 07:02:59 UTC	Asddsa76, Dr_Kakashi, Fireheart, wortel	158	5	25
+47191	3	25	No Variant	2019-07-21 — 06:41:11 UTC	Dr_Kakashi, Fireheart, wortel	1174	5	25
+46094	4	25	No Variant	2019-07-13 — 08:00:39 UTC	efaust, Livia, sjdrodge, wortel	47	5	25
+46093	3	0	No Variant	2019-07-13 — 07:41:22 UTC	efaust, sjdrodge, wortel	119	5	25
+43639	4	15	Rainbow & Pink (3 Suits)	2019-06-29 — 06:32:08 UTC	IAMJEFF, NoMercy, wortel, Zamiel	2	3	15
+43636	4	13	Rainbow & Pink (3 Suits)	2019-06-29 — 06:21:31 UTC	IAMJEFF, NoMercy, wortel, Zamiel	3	3	15
+43634	4	0	Rainbow & Pink (3 Suits)	2019-06-29 — 06:14:06 UTC	IAMJEFF, NoMercy, wortel, Zamiel	4	3	15
+43633	4	0	Rainbow & Pink (3 Suits)	2019-06-29 — 06:06:58 UTC	IAMJEFF, NoMercy, wortel, Zamiel	4	3	15
+42980	3	0	Black (6 Suits)	2019-06-23 — 15:33:01 UTC	asaelr, qqqq, wortel	134	6	30
+42301	6	30	Rainbow (6 Suits)	2019-06-16 — 15:35:40 UTC	IAMJEFF, Jake_Stiles, Joan, Libster, Sucubis, wortel	33	6	30
+42300	5	0	Rainbow (5 Suits)	2019-06-16 — 14:56:09 UTC	eevee, Jake_Stiles, Libster, Sucubis, wortel	7	5	25
+42299	5	24	Rainbow (5 Suits)	2019-06-16 — 14:33:05 UTC	eevee, Jake_Stiles, Libster, Sucubis, wortel	12	5	25
+42296	3	25	Black & Pink (5 Suits)	2019-06-16 — 06:48:40 UTC	Cory, wortel, Zamiel	13	5	25
+42295	3	0	Black & Pink (5 Suits)	2019-06-16 — 06:23:00 UTC	Cory, wortel, Zamiel	15	5	25
+42294	3	23	Black & Pink (5 Suits)	2019-06-16 — 06:10:12 UTC	Cory, wortel, Zamiel	22	5	25
+42293	3	0	Black & Pink (5 Suits)	2019-06-16 — 05:51:40 UTC	Cory, wortel, Zamiel	29	5	25
+42292	3	30	Black & Pink (6 Suits)	2019-06-16 — 05:40:50 UTC	Cory, wortel, Zamiel	20	6	30
+42291	4	0	Black & White (6 Suits)	2019-06-16 — 05:10:16 UTC	Cory, Jake_Stiles, wortel, Zamiel	29	6	30
+42114	3	25	No Variant	2019-06-15 — 10:29:53 UTC	Asddsa76, Joan, wortel	77	5	25
+42111	5	24	No Variant	2019-06-15 — 09:59:44 UTC	Asddsa76, Göttertöter, IAMJEFF, Joan, wortel	176	5	25
+42109	5	28	Dark Brown (6 Suits)	2019-06-15 — 09:25:13 UTC	efaust, IAMJEFF, sjdrodge, Sucubis, wortel	8	6	30
+42108	5	0	Dark Brown (6 Suits)	2019-06-15 — 08:57:20 UTC	efaust, IAMJEFF, sjdrodge, Sucubis, wortel	10	6	30
+42107	4	23	Dark Brown (5 Suits)	2019-06-15 — 08:40:59 UTC	efaust, sjdrodge, Sucubis, wortel	12	5	25
+42106	5	0	Rainbow (5 Suits)	2019-06-15 — 08:10:58 UTC	efaust, sjdrodge, Sucubis, wjomlex, wortel	22	5	25
+42100	3	0	No Variant	2019-06-15 — 07:09:44 UTC	Livia, wortel, Zamiel	6	5	25
+42098	5	25	Brown (5 Suits)	2019-06-15 — 06:45:44 UTC	efaust, sjdrodge, wjomlex, wortel, Zamiel	17	5	25
+42097	5	24	Black (6 Suits)	2019-06-15 — 06:13:47 UTC	efaust, sjdrodge, wjomlex, wortel, Zamiel	9	6	30
+41191	4	28	Rainbow (6 Suits)	2019-06-08 — 07:47:02 UTC	Feer, IAMJEFF, NoMercy, wortel	34	6	30
+41187	5	0	Gray (6 Suits)	2019-06-08 — 06:59:37 UTC	efaust, Feer, kemurphy, wjomlex, wortel	3	6	30
+41181	5	0	Gray (6 Suits)	2019-06-08 — 06:41:44 UTC	efaust, Feer, kemurphy, wjomlex, wortel	8	6	30
+38863	3	22	No Variant	2019-05-22 — 19:33:31 UTC	Livia, micerang, wortel	624	5	25
+38861	3	25	No Variant	2019-05-22 — 18:58:26 UTC	asaelr, micerang, wortel	645	5	25
+38750	3	20	4 Suits	2019-05-21 — 16:33:29 UTC	MikeIsMufasa, osseworst, wortel	25	4	20
+38748	3	20	4 Suits	2019-05-21 — 16:14:37 UTC	MikeIsMufasa, osseworst, wortel	34	4	20
+38339	5	0	Pink (5 Suits)	2019-05-18 — 05:43:19 UTC	Feer, Libster, NoMercy, Smurf account, wortel	14	5	25
+38338	5	0	Pink (5 Suits)	2019-05-18 — 05:26:13 UTC	Feer, Libster, NoMercy, Smurf account, wortel	20	5	25
+37167	4	0	Gray (5 Suits)	2019-05-11 — 20:10:25 UTC	Asddsa76, florrat2, Libster, wortel	14	5	25
+37160	4	19	Gray (5 Suits)	2019-05-11 — 19:35:04 UTC	Asddsa76, florrat2, Libster, wortel	14	5	25
+37154	4	25	Rainbow & White (5 Suits)	2019-05-11 — 19:08:31 UTC	Asddsa76, florrat2, Libster, wortel	4	5	25
+37145	4	20	Rainbow & White (5 Suits)	2019-05-11 — 18:39:51 UTC	Asddsa76, florrat2, Libster, wortel	4	5	25
+37072	4	18	Rainbow (4 Suits)	2019-05-11 — 08:22:47 UTC	efaust, hanabornoob, NoMercy, wortel	14	4	20
+37071	5	28	Rainbow (6 Suits)	2019-05-11 — 07:39:15 UTC	efaust, Feer, micerang, NoMercy, wortel	22	6	30
+37069	4	24	No Variant	2019-05-11 — 06:54:55 UTC	efaust, Feer, micerang, wortel	601	5	25
+37068	4	25	No Variant	2019-05-11 — 06:24:05 UTC	efaust, Feer, micerang, wortel	793	5	25
+36398	4	0	Black & Rainbow (6 Suits)	2019-05-08 — 19:38:51 UTC	Andrew_UK, kondain, scharkbite, wortel	14	6	30
+36396	4	0	Black & Rainbow (6 Suits)	2019-05-08 — 19:18:26 UTC	Andrew_UK, kondain, scharkbite, wortel	16	6	30
+35469	4	0	Rainbow (5 Suits)	2019-05-05 — 06:05:11 UTC	Dr_Kakashi, qqqq, scharkbite, wortel	16	5	25
+35468	4	21	Black (5 Suits)	2019-05-05 — 05:42:10 UTC	Dr_Kakashi, qqqq, scharkbite, wortel	36	5	25
+35465	4	0	Black (5 Suits)	2019-05-05 — 05:21:32 UTC	Dr_Kakashi, qqqq, scharkbite, wortel	63	5	25
+35040	3	20	Brown (4 Suits)	2019-05-04 — 10:56:00 UTC	Asddsa76, Dr_Kakashi, wortel	31	4	20
+35037	3	17	Rainbow & Pink (4 Suits)	2019-05-04 — 10:30:09 UTC	Asddsa76, Dr_Kakashi, wortel	14	4	20
+35036	4	0	Black & White (6 Suits)	2019-05-04 — 09:41:19 UTC	Asddsa76, Dr_Kakashi, efaust, wortel	22	6	30
+35034	4	0	Black & White (6 Suits)	2019-05-04 — 09:06:46 UTC	Asddsa76, Dr_Kakashi, efaust, wortel	24	6	30
+34183	5	0	Black & Rainbow (6 Suits)	2019-05-01 — 19:24:59 UTC	Andrew_UK, Doge, Hunter, scharkbite, wortel	20	6	30
+34143	3	15	3 Suits	2019-05-01 — 09:13:57 UTC	Dr_Kakashi, RaKXeR, wortel	29	3	15
+34139	4	0	Pink (6 Suits)	2019-05-01 — 08:20:50 UTC	Dr_Kakashi, RaKXeR, sjdrodge, wortel	30	6	30
+34137	4	0	Pink (6 Suits)	2019-05-01 — 07:23:57 UTC	Dr_Kakashi, RaKXeR, sjdrodge, wortel	35	6	30
+33338	5	23	No Variant	2019-04-28 — 08:07:36 UTC	Dr_Kakashi, efaust, NoMercy, sjdrodge, wortel	28	5	25
+33337	3	0	Clue Starved (5 Suits)	2019-04-28 — 07:41:17 UTC	efaust, sjdrodge, wortel	10	5	25
+33335	3	20	4 Suits	2019-04-28 — 07:20:25 UTC	efaust, sjdrodge, wortel	2	4	20
+33333	3	19	4 Suits	2019-04-28 — 06:58:30 UTC	efaust, sjdrodge, wortel	2	4	20
+33331	3	0	Rainbow (6 Suits)	2019-04-28 — 06:27:09 UTC	Hunter, RaKXeR, wortel	18	6	30
+33330	3	0	Rainbow (6 Suits)	2019-04-28 — 06:14:37 UTC	Hunter, RaKXeR, wortel	23	6	30
+33074	6	20	4 Suits	2019-04-27 — 09:55:39 UTC	Asddsa76, Dr_Kakashi, efaust, NoMercy, sjdrodge, wortel	1	4	20
+33073	6	0	4 Suits	2019-04-27 — 09:37:10 UTC	Asddsa76, Dr_Kakashi, efaust, NoMercy, sjdrodge, wortel	1	4	20
+33071	5	0	No Variant	2019-04-27 — 09:16:02 UTC	Dr_Kakashi, efaust, NoMercy, sjdrodge, wortel	29	5	25
+33070	5	25	No Variant	2019-04-27 — 08:44:52 UTC	Dr_Kakashi, efaust, Maiorskills, sjdrodge, wortel	30	5	25
+33068	4	19	4 Suits	2019-04-27 — 08:19:19 UTC	Dr_Kakashi, efaust, sjdrodge, wortel	1	4	20
+33064	4	0	4 Suits	2019-04-27 — 07:52:41 UTC	Dr_Kakashi, efaust, sjdrodge, wortel	1	4	20
+33063	4	0	4 Suits	2019-04-27 — 07:46:02 UTC	Dr_Kakashi, efaust, sjdrodge, wortel	1	4	20
+33060	4	0	4 Suits	2019-04-27 — 07:22:59 UTC	Dr_Kakashi, efaust, sjdrodge, wortel	1	4	20
+33058	5	26	Gray (6 Suits)	2019-04-27 — 06:53:59 UTC	Dr_Kakashi, efaust, Hunter, NoMercy, wortel	19	6	30
+32568	4	25	White (5 Suits)	2019-04-26 — 20:05:54 UTC	Dr_Kakashi, Hunter, Maiorskills, wortel	18	5	25
+32565	4	0	White (5 Suits)	2019-04-26 — 19:31:26 UTC	Dr_Kakashi, Hunter, Maiorskills, wortel	22	5	25
+32563	3	30	Rainbow (6 Suits)	2019-04-26 — 18:57:47 UTC	Andrew_UK, Hunter, wortel	13	6	30
+32559	5	0	Rainbow (6 Suits)	2019-04-26 — 18:06:44 UTC	Andrew_UK, Hunter, kondain, Maiorskills, wortel	50	6	30
+32557	4	0	Rainbow (6 Suits)	2019-04-26 — 17:34:54 UTC	Andrew_UK, Hunter, Maiorskills, wortel	344	6	30
+31657	6	25	No Variant	2019-04-22 — 17:49:37 UTC	Andrew_UK, Hunter, IAMJEFF, kondain, micerang, wortel	179	5	25
+31584	3	0	Clue Starved (5 Suits)	2019-04-22 — 07:25:42 UTC	Hunter, Razgovor, wortel	13	5	25
+31583	5	0	No Variant	2019-04-22 — 06:52:02 UTC	Hunter, Razgovor, sjdrodge, wjomlex, wortel	31	5	25
+31582	4	0	Black (6 Suits)	2019-04-22 — 06:17:55 UTC	Hunter, sjdrodge, wjomlex, wortel	175	6	30
+31580	4	20	Rainbow (4 Suits)	2019-04-22 — 05:41:41 UTC	darkenblade986, Hunter, micerang, wortel	17	4	20
+31343	3	29	Brown (6 Suits)	2019-04-21 — 19:08:28 UTC	Hunter, Libster, wortel	61	6	30
+31336	3	0	Brown (6 Suits)	2019-04-21 — 18:43:59 UTC	Hunter, Libster, wortel	84	6	30
+31331	3	25	Brown (5 Suits)	2019-04-21 — 18:29:41 UTC	Hunter, Libster, wortel	63	5	25
+31309	4	19	Brown (4 Suits)	2019-04-21 — 17:49:51 UTC	Doge, Dr_Kakashi, Libster, wortel	22	4	20
+31306	3	0	Brown (5 Suits)	2019-04-21 — 17:30:44 UTC	Dr_Kakashi, Libster, wortel	79	5	25
+31304	3	15	Brown (3 Suits)	2019-04-21 — 17:11:14 UTC	Dr_Kakashi, Libster, wortel	15	3	15
+31298	3	20	Brown (4 Suits)	2019-04-21 — 16:50:48 UTC	Dr_Kakashi, Libster, wortel	47	4	20
+31233	5	19	No Variant	2019-04-21 — 08:15:30 UTC	Feer, kondain, sjdrodge, wortel, Yeesh	39	5	25
+31222	5	25	No Variant	2019-04-21 — 07:32:11 UTC	Feer, kondain, sjdrodge, wortel, Yeesh	38	5	25
+31219	4	14	Pink (3 Suits)	2019-04-21 — 06:21:35 UTC	Hunter, micerang, wortel, Zamiel	6	3	15
+31217	4	12	Pink (3 Suits)	2019-04-21 — 05:53:02 UTC	Hunter, micerang, wortel, Zamiel	13	3	15
+31215	4	0	Pink (3 Suits)	2019-04-21 — 05:33:09 UTC	Hunter, micerang, wortel, Zamiel	18	3	15
+31170	2	19	Brown (4 Suits)	2019-04-20 — 20:35:45 UTC	osseworst, wortel	54	4	20
+31121	5	21	No Variant	2019-04-20 — 08:51:32 UTC	Asddsa76, Feer, kondain, sjdrodge, wortel	126	5	25
+31117	4	25	No Variant	2019-04-20 — 08:11:59 UTC	darkenblade986, Feer, sjdrodge, wortel	233	5	25
+31114	3	0	Pink (4 Suits)	2019-04-20 — 07:48:15 UTC	darkenblade986, Hunter, wortel	27	4	20
+31112	3	20	White (4 Suits)	2019-04-20 — 07:23:21 UTC	darkenblade986, Hunter, wortel	46	4	20
+31033	5	0	Brown (6 Suits)	2019-04-19 — 20:46:13 UTC	Andrew_UK, Dr_Kakashi, Libster, RaKXeR, wortel	16	6	30
+31027	6	28	Brown (6 Suits)	2019-04-19 — 20:07:18 UTC	Andrew_UK, Ape, Dr_Kakashi, Libster, NotRaKXeR, wortel	7	6	30
+31020	4	30	White & Brown (6 Suits)	2019-04-19 — 19:21:55 UTC	Andrew_UK, Libster, NoMercy, wortel	20	6	30
+31006	5	29	Brown (6 Suits)	2019-04-19 — 18:30:32 UTC	kondain, Libster, micerang, NoMercy, wortel	21	6	30
+30915	3	20	Pink (4 Suits)	2019-04-19 — 06:37:44 UTC	efaust, sjdrodge, wortel	29	4	20
+30909	3	19	Pink (4 Suits)	2019-04-19 — 06:15:16 UTC	efaust, sjdrodge, wortel	59	4	20
+30904	3	20	Rainbow (4 Suits)	2019-04-19 — 05:52:18 UTC	efaust, sjdrodge, wortel	13	4	20
+30846	4	25	No Variant	2019-04-18 — 19:52:03 UTC	Ape, kondain, scharkbite, wortel	138	5	25
+30724	4	25	No Variant	2019-04-17 — 19:47:41 UTC	Andrew_UK, Hunter, Maiorskills, wortel	78	5	25
+30722	4	24	No Variant	2019-04-17 — 19:11:55 UTC	Andrew_UK, Hunter, Maiorskills, wortel	79	5	25
+30717	4	23	No Variant	2019-04-17 — 18:38:07 UTC	Andrew_UK, Hunter, Maiorskills, wortel	95	5	25
+30509	3	20	4 Suits	2019-04-16 — 18:28:21 UTC	Ape, kondain, wortel	28	4	20
+30502	3	0	4 Suits	2019-04-16 — 18:11:26 UTC	Ape, kondain, wortel	29	4	20
+30489	3	18	4 Suits	2019-04-16 — 17:55:28 UTC	Ape, kondain, wortel	31	4	20
+30477	4	24	No Variant	2019-04-16 — 17:31:31 UTC	Ape, Hunter, kondain, wortel	473	5	25
+30117	3	19	4 Suits	2019-04-15 — 19:51:01 UTC	MikeIsMufasa, osseworst, wortel	44	4	20
+30111	3	20	4 Suits	2019-04-15 — 19:23:37 UTC	MikeIsMufasa, osseworst, wortel	59	4	20
+30107	3	16	4 Suits	2019-04-15 — 19:00:47 UTC	MikeIsMufasa, osseworst, wortel	70	4	20
+29942	5	22	No Variant	2019-04-14 — 20:04:59 UTC	Andrew_UK, kondain, scharkbite, sjdrodge, wortel	24	5	25
+29910	5	22	No Variant	2019-04-14 — 19:41:52 UTC	Andrew_UK, kondain, Maiorskills, scharkbite, wortel	22	5	25
+29876	5	25	No Variant	2019-04-14 — 19:14:04 UTC	Andrew_UK, darkenblade986, Maiorskills, scharkbite, wortel	25	5	25
+29854	5	0	No Variant	2019-04-14 — 18:59:14 UTC	Andrew_UK, darkenblade986, Maiorskills, scharkbite, wortel	21	5	25
+29829	4	0	Rainbow (6 Suits)	2019-04-14 — 18:40:15 UTC	Andrew_UK, darkenblade986, scharkbite, wortel	55	6	30
+29663	4	21	No Variant	2019-04-14 — 12:48:27 UTC	Andrew_UK, Ape, kondain, wortel	130	5	25
+29661	4	0	No Variant	2019-04-14 — 12:30:30 UTC	Andrew_UK, Ape, kondain, wortel	125	5	25
+29660	4	24	No Variant	2019-04-14 — 12:15:59 UTC	Andrew_UK, Ape, kondain, wortel	213	5	25
+29659	4	0	No Variant	2019-04-14 — 11:54:00 UTC	Andrew_UK, Ape, kondain, wortel	243	5	25
+29524	3	25	Up or Down & Rainbow (6 Suits)	2019-04-13 — 07:04:48 UTC	sjdrodge, wortel, Zamiel	5	6	30
+29523	3	0	Up or Down & Rainbow (6 Suits)	2019-04-13 — 06:31:26 UTC	sjdrodge, wortel, Zamiel	7	6	30
+29522	3	0	Up or Down & Rainbow (6 Suits)	2019-04-13 — 06:07:57 UTC	sjdrodge, wortel, Zamiel	9	6	30
+29521	2	0	Up or Down & Rainbow (6 Suits)	2019-04-13 — 05:50:55 UTC	wortel, Zamiel	4	6	30
+29520	2	0	Up or Down & Rainbow (6 Suits)	2019-04-13 — 05:45:41 UTC	wortel, Zamiel	4	6	30
+29519	3	0	Up or Down & White (5 Suits)	2019-04-13 — 05:34:52 UTC	Libster, wortel, Zamiel	9	5	25
+29024	4	24	No Variant	2019-04-10 — 20:00:20 UTC	Andrew_UK, Libster, MikeIsMufasa, wortel	20	5	25
+29020	4	24	No Variant	2019-04-10 — 19:24:55 UTC	Andrew_UK, Libster, MikeIsMufasa, wortel	18	5	25
+28771	3	13	3 Suits	2019-04-09 — 19:35:08 UTC	MikeIsMufasa, osseworst, wortel	88	3	15
+28748	3	13	3 Suits	2019-04-09 — 19:06:47 UTC	MikeIsMufasa, osseworst, wortel	115	3	15
+28742	3	20	4 Suits	2019-04-09 — 18:39:00 UTC	MikeIsMufasa, osseworst, wortel	118	4	20
+28735	4	25	No Variant	2019-04-09 — 17:55:01 UTC	Andrew_UK, MikeIsMufasa, NoMercy, wortel	167	5	25
+28732	3	25	No Variant	2019-04-09 — 16:50:44 UTC	MikeIsMufasa, osseworst, wortel	1465	5	25
+28731	3	0	No Variant	2019-04-09 — 16:01:39 UTC	MikeIsMufasa, osseworst, wortel	1636	5	25
+28409	3	25	No Variant	2019-04-08 — 20:44:12 UTC	MikeIsMufasa, osseworst, wortel	1881	5	25
+28407	3	0	No Variant	2019-04-08 — 20:20:24 UTC	MikeIsMufasa, osseworst, wortel	2163	5	25
+28405	4	25	No Variant	2019-04-08 — 20:11:54 UTC	ekikianty, MikeIsMufasa, osseworst, wortel	2763	5	25
+28399	4	21	No Variant	2019-04-08 — 19:31:12 UTC	ekikianty, MikeIsMufasa, osseworst, wortel	3581	5	25
+28108	4	0	Very Ambiguous (6 Suits)	2019-04-07 — 13:46:52 UTC	Asddsa76, NoMercy, sjdrodge, wortel	5	6	30
+28107	4	0	Very Ambiguous (6 Suits)	2019-04-07 — 13:26:09 UTC	Asddsa76, NoMercy, sjdrodge, wortel	6	6	30
+28106	4	0	Very Ambiguous (6 Suits)	2019-04-07 — 13:05:21 UTC	Asddsa76, NoMercy, sjdrodge, wortel	8	6	30
+28100	4	22	No Variant	2019-04-07 — 09:14:02 UTC	Kakashi, micerang, sjdrodge, wortel	655	5	25
+28096	5	23	No Variant	2019-04-07 — 08:25:05 UTC	darkenblade986, Kakashi, micerang, sjdrodge, wortel	837	5	25
+28095	5	0	No Variant	2019-04-07 — 07:59:11 UTC	darkenblade986, Kakashi, micerang, sjdrodge, wortel	1995	5	25
+27934	3	16	4 Suits	2019-04-06 — 08:06:02 UTC	micerang, sjdrodge, wortel	2	4	20
+27933	3	0	4 Suits	2019-04-06 — 07:50:17 UTC	micerang, sjdrodge, wortel	3	4	20
+27932	3	0	Rainbow (5 Suits)	2019-04-06 — 07:43:47 UTC	micerang, sjdrodge, wortel	12	5	25
+27930	3	0	Rainbow (5 Suits)	2019-04-06 — 07:31:13 UTC	micerang, sjdrodge, wortel	12	5	25
+27928	3	0	Rainbow (5 Suits)	2019-04-06 — 07:15:23 UTC	micerang, sjdrodge, wortel	14	5	25
+27925	4	0	Rainbow (5 Suits)	2019-04-06 — 06:57:50 UTC	efaust, micerang, sjdrodge, wortel	17	5	25
+27923	4	23	Rainbow (5 Suits)	2019-04-06 — 06:28:55 UTC	efaust, micerang, sjdrodge, wortel	54	5	25
+27919	4	19	4 Suits	2019-04-06 — 05:48:40 UTC	efaust, micerang, sjdrodge, wortel	1	4	20
+27606	3	0	Rainbow (4 Suits)	2019-04-03 — 19:02:11 UTC	Andrew_UK, Doge, wortel	68	4	20
+27598	3	20	4 Suits	2019-04-03 — 18:42:00 UTC	darkenblade986, Kakashi, wortel	90	4	20
+27376	5	19	4 Suits	2019-04-02 — 19:45:49 UTC	Kakashi, postmans, RaKXeR, scharkbite, wortel	3	4	20
+27141	4	25	No Variant	2019-04-01 — 19:22:13 UTC	Andrew_UK, Asddsa76, Kakashi, wortel	1092	5	25
+27110	4	25	No Variant	2019-04-01 — 18:39:43 UTC	Andrew_UK, Kakashi, scharkbite, wortel	204	5	25
+26600	4	20	4 Suits	2019-03-30 — 10:05:46 UTC	efaust, Kakashi, sjdrodge, wortel	1	4	20
+26599	4	16	4 Suits	2019-03-30 — 09:40:47 UTC	efaust, Kakashi, sjdrodge, wortel	1	4	20
+26597	4	20	4 Suits	2019-03-30 — 09:07:53 UTC	efaust, Kakashi, sjdrodge, wortel	1	4	20
+26593	4	18	4 Suits	2019-03-30 — 08:35:56 UTC	efaust, Kakashi, sjdrodge, wortel	2	4	20
+26575	2	0	3 Suits	2019-03-30 — 06:24:13 UTC	sjdrodge, wortel	193	3	15
+26509	5	24	No Variant	2019-03-29 — 20:42:52 UTC	Andrew_UK, Asddsa76, Kakashi, postmans, wortel	195	5	25
+26494	5	25	No Variant	2019-03-29 — 20:04:25 UTC	Andrew_UK, Asddsa76, Kakashi, postmans, wortel	223	5	25
+26485	4	25	No Variant	2019-03-29 — 19:27:20 UTC	Andrew_UK, Asddsa76, Kakashi, wortel	1449	5	25
+26483	4	0	No Variant	2019-03-29 — 19:00:48 UTC	Andrew_UK, Asddsa76, Kakashi, wortel	2076	5	25
+25755	2	20	Ambiguous (4 Suits)	2019-03-25 — 18:48:26 UTC	osseworst, wortel	42	4	20
+25561	3	0	Dark Rainbow (5 Suits)	2019-03-24 — 20:22:25 UTC	Andrew_UK, Asddsa76, wortel	10	5	25
+25560	3	0	Black & Dark Rainbow (6 Suits)	2019-03-24 — 19:53:06 UTC	Andrew_UK, Asddsa76, wortel	5	6	30
+25557	4	24	Black & Dark Rainbow (6 Suits)	2019-03-24 — 19:25:09 UTC	Andrew_UK, Asddsa76, postmans, wortel	4	6	30
+25554	3	0	Black & Dark Rainbow (6 Suits)	2019-03-24 — 18:47:51 UTC	Andrew_UK, Asddsa76, wortel	4	6	30
+25028	5	23	Black (5 Suits)	2019-03-23 — 16:20:16 UTC	Andrew_UK, IAMJEFF, scharkbite, sjdrodge, wortel	36	5	25
+25007	4	13	Rainbow (3 Suits)	2019-03-23 — 15:49:48 UTC	Andrew_UK, IAMJEFF, sjdrodge, wortel	14	3	15
+25005	4	11	Rainbow (3 Suits)	2019-03-23 — 15:31:30 UTC	Andrew_UK, IAMJEFF, sjdrodge, wortel	24	3	15
+24988	3	20	4 Suits	2019-03-23 — 08:56:21 UTC	efaust, kemurphy, wortel	11	4	20
+24987	3	20	4 Suits	2019-03-23 — 08:38:40 UTC	efaust, kemurphy, wortel	11	4	20
+24986	4	24	No Variant	2019-03-23 — 08:18:37 UTC	efaust, kemurphy, wortel, Zamiel	3	5	25
+24985	4	20	No Variant	2019-03-23 — 07:45:17 UTC	efaust, kemurphy, wortel, Zamiel	2	5	25
+24984	3	20	Rainbow (4 Suits)	2019-03-23 — 07:08:06 UTC	Libster, Razgovor, wortel	6	4	20
+24982	3	15	3 Suits	2019-03-23 — 06:50:21 UTC	Libster, Razgovor, wortel	39	3	15
+24978	5	25	No Variant	2019-03-23 — 06:17:39 UTC	dcu4life, efaust, kemurphy, Razgovor, wortel	344	5	25
+24976	5	0	No Variant	2019-03-23 — 05:45:21 UTC	dcu4life, efaust, kemurphy, Razgovor, wortel	383	5	25
+24947	5	0	Color Blind (6 Suits)	2019-03-22 — 21:03:03 UTC	Andrew_UK, NoMercy, Razgovor, wortel, Zamiel	1	6	30
+24946	5	25	Color Blind (6 Suits)	2019-03-22 — 20:19:03 UTC	Andrew_UK, NoMercy, sjdrodge, wortel, Zamiel	1	6	30
+24942	5	0	Color Blind (6 Suits)	2019-03-22 — 19:43:57 UTC	Andrew_UK, NoMercy, sjdrodge, wortel, Zamiel	1	6	30
+24940	4	25	Color Blind (5 Suits)	2019-03-22 — 19:18:37 UTC	Razgovor, sjdrodge, wortel, Zamiel	2	5	25
+24939	4	24	No Variant	2019-03-22 — 18:39:21 UTC	micerang, sjdrodge, wortel, Zamiel	2	5	25
+24938	3	25	No Variant	2019-03-22 — 18:10:13 UTC	micerang, wortel, Zamiel	7	5	25
+24415	3	25	No Variant	2019-03-19 — 20:04:24 UTC	micerang, mrguy888, wortel	2606	5	25
+24328	4	13	3 Suits	2019-03-18 — 21:03:38 UTC	Andrew_UK, NoMercy, sjdrodge, wortel	16	3	15
+24327	4	13	3 Suits	2019-03-18 — 20:44:06 UTC	Andrew_UK, NoMercy, sjdrodge, wortel	20	3	15
+24322	3	25	No Variant	2019-03-18 — 20:12:27 UTC	micerang, sjdrodge, wortel	485	5	25
+24271	4	25	No Variant	2019-03-18 — 03:20:14 UTC	Asddsa76, efaust, wortel, Zamiel	2	5	25
+24066	6	22	Rainbow (5 Suits)	2019-03-17 — 19:59:40 UTC	florrat2, Libster, Razgovor, sjdrodge, wortel, Zamiel	15	5	25
+24061	6	25	No Variant	2019-03-17 — 19:26:42 UTC	florrat2, Libster, Razgovor, sjdrodge, wortel, Zamiel	42	5	25
+24060	5	19	Color Blind (4 Suits)	2019-03-17 — 18:46:09 UTC	florrat2, Libster, Razgovor, wortel, Zamiel	1	4	20
+24055	5	17	Color Blind (4 Suits)	2019-03-17 — 18:06:21 UTC	florrat2, Libster, Razgovor, wortel, Zamiel	1	4	20
+24052	5	24	Color Blind (5 Suits)	2019-03-17 — 17:37:52 UTC	florrat2, Libster, Razgovor, wortel, Zamiel	1	5	25
+24050	4	0	Color Blind (5 Suits)	2019-03-17 — 17:11:09 UTC	florrat2, Libster, wortel, Zamiel	2	5	25
+24031	4	20	Rainbow (4 Suits)	2019-03-17 — 10:16:40 UTC	efaust, kemurphy, sjdrodge, wortel	19	4	20
+24030	4	19	Rainbow (4 Suits)	2019-03-17 — 09:27:11 UTC	efaust, kemurphy, sjdrodge, wortel	20	4	20
+24029	4	0	Rainbow (4 Suits)	2019-03-17 — 09:09:42 UTC	efaust, kemurphy, sjdrodge, wortel	25	4	20
+24027	4	0	Rainbow (4 Suits)	2019-03-17 — 08:57:19 UTC	efaust, kemurphy, sjdrodge, wortel	32	4	20
+24026	4	0	Rainbow (4 Suits)	2019-03-17 — 08:46:07 UTC	efaust, kemurphy, sjdrodge, wortel	45	4	20
+24022	5	24	White (5 Suits)	2019-03-17 — 08:16:04 UTC	efaust, kemurphy, sjdrodge, wjomlex, wortel	37	5	25
+23698	3	30	6 Suits	2019-03-16 — 18:44:50 UTC	ekikianty, osseworst, wortel	252	6	30
+23696	3	0	6 Suits	2019-03-16 — 18:12:11 UTC	ekikianty, osseworst, wortel	305	6	30
+23694	3	0	No Variant	2019-03-16 — 17:51:54 UTC	ekikianty, osseworst, wortel	3260	5	25
+23572	4	23	Rainbow (5 Suits)	2019-03-16 — 09:35:11 UTC	Asddsa76, efaust, wortel, Zamiel	38	5	25
+23571	4	20	4 Suits	2019-03-16 — 09:05:31 UTC	Asddsa76, efaust, wortel, Zamiel	7	4	20
+23569	5	22	No Variant	2019-03-16 — 08:01:11 UTC	Asddsa76, efaust, Len, wortel, Zamiel	2	5	25
+23565	5	28	Black (6 Suits)	2019-03-16 — 06:59:06 UTC	Asddsa76, efaust, scharkbite, sjdrodge, wortel	101	6	30
+23556	5	30	White (6 Suits)	2019-03-16 — 06:06:48 UTC	Asddsa76, efaust, scharkbite, sjdrodge, wortel	7	6	30
+23550	5	0	White (6 Suits)	2019-03-16 — 05:34:34 UTC	Asddsa76, efaust, scharkbite, sjdrodge, wortel	8	6	30
+22992	4	23	No Variant	2019-03-13 — 21:22:17 UTC	osseworst, scharkbite, sjdrodge, wortel	373	5	25
+22988	2	15	Color Blind (3 Suits)	2019-03-13 — 20:27:09 UTC	osseworst, wortel	19	3	15
+22987	2	15	Dual-Color (3 Suits)	2019-03-13 — 20:13:02 UTC	osseworst, wortel	50	3	15
+22986	2	23	Dual-Color (5 Suits)	2019-03-13 — 19:56:52 UTC	osseworst, wortel	85	5	25
+22286	4	0	Rainbow (5 Suits)	2019-03-10 — 17:26:07 UTC	Andrew_UK, ekikianty, osseworst, wortel	130	5	25
+22285	3	0	Rainbow (5 Suits)	2019-03-10 — 17:12:57 UTC	ekikianty, osseworst, wortel	185	5	25
+22282	3	0	3 Suits	2019-03-10 — 16:58:47 UTC	ekikianty, osseworst, wortel	144	3	15
+22280	3	0	3 Suits	2019-03-10 — 16:57:03 UTC	ekikianty, osseworst, wortel	144	3	15
+22279	3	20	4 Suits	2019-03-10 — 16:54:54 UTC	ekikianty, osseworst, wortel	160	4	20
+22276	3	28	6 Suits	2019-03-10 — 16:20:53 UTC	ekikianty, osseworst, wortel	365	6	30
+22274	3	24	6 Suits	2019-03-10 — 15:22:52 UTC	ekikianty, osseworst, wortel	503	6	30
+22272	2	0	6 Suits	2019-03-10 — 15:04:58 UTC	ekikianty, wortel	851	6	30
+22258	3	24	Dual-Color (5 Suits)	2019-03-10 — 07:44:16 UTC	Asddsa76, NoMercy, wortel	69	5	25
+22257	4	25	No Variant	2019-03-10 — 07:09:36 UTC	Asddsa76, fivefives, Razgovor, wortel	198	5	25
+21976	3	0	Up or Down & Rainbow (5 Suits)	2019-03-09 — 15:58:29 UTC	Andrew_UK, Libster, wortel	19	5	25
+21974	4	0	Rainbow (3 Suits)	2019-03-09 — 15:40:17 UTC	Andrew_UK, Libster, RaKXeR, wortel	5	3	15
+21973	4	20	White (4 Suits)	2019-03-09 — 15:26:27 UTC	Andrew_UK, Libster, RaKXeR, wortel	2	4	20
+21970	3	24	No Variant	2019-03-09 — 14:52:29 UTC	Andrew_UK, RaKXeR, wortel	42	5	25
+21969	3	0	Dark Rainbow (6 Suits)	2019-03-09 — 14:30:05 UTC	Andrew_UK, RaKXeR, wortel	12	6	30
+21967	3	0	Dark Rainbow (6 Suits)	2019-03-09 — 14:16:50 UTC	Andrew_UK, RaKXeR, wortel	12	6	30
+21966	3	27	Dark Rainbow (6 Suits)	2019-03-09 — 14:00:43 UTC	Andrew_UK, RaKXeR, wortel	17	6	30
+21948	4	25	Rainbow (5 Suits)	2019-03-09 — 07:37:17 UTC	Razgovor, sjdrodge, wortel, Zamiel	23	5	25
+21947	4	0	Rainbow (5 Suits)	2019-03-09 — 07:14:27 UTC	Razgovor, sjdrodge, wortel, Zamiel	30	5	25
+21944	4	0	Rainbow (5 Suits)	2019-03-09 — 06:56:41 UTC	Razgovor, sjdrodge, wortel, Zamiel	68	5	25
+21943	3	0	Rainbow (5 Suits)	2019-03-09 — 06:39:53 UTC	Razgovor, wortel, Zamiel	31	5	25
+21747	5	25	Rainbow (5 Suits)	2019-03-08 — 21:48:20 UTC	Andrew_UK, NoMercy, RaKXeR, sjdrodge, wortel	54	5	25
+21745	5	30	6 Suits	2019-03-08 — 20:48:12 UTC	Andrew_UK, NoMercy, scharkbite, sjdrodge, wortel	45	6	30
+21743	5	0	6 Suits	2019-03-08 — 20:07:14 UTC	Andrew_UK, NoMercy, scharkbite, sjdrodge, wortel	132	6	30
+21736	3	28	White (6 Suits)	2019-03-08 — 19:39:08 UTC	Andrew_UK, scharkbite, wortel	6	6	30
+21505	3	14	Rainbow (3 Suits)	2019-03-05 — 19:11:49 UTC	Hunter, scharkbite, wortel	7	3	15
+21504	3	12	Rainbow (3 Suits)	2019-03-05 — 18:55:38 UTC	Hunter, scharkbite, wortel	8	3	15
+21503	3	12	Rainbow (3 Suits)	2019-03-05 — 18:33:19 UTC	Hunter, scharkbite, wortel	10	3	15
+21502	3	18	White (4 Suits)	2019-03-05 — 18:12:23 UTC	Hunter, scharkbite, wortel	30	4	20
+21299	5	0	No Variant	2019-03-03 — 19:51:34 UTC	Cory, scharkbite, wortel, Zamiel, Zy	2	5	25
+21295	4	24	No Variant	2019-03-03 — 19:28:50 UTC	scharkbite, wjomlex, wortel, Zamiel	2	5	25
+21283	3	25	No Variant	2019-03-03 — 17:15:28 UTC	Hunter, RaKXeR, wortel	40	5	25
+21271	3	0	Ambiguous & White (5 Suits)	2019-03-03 — 07:25:26 UTC	scharkbite, wortel, Zamiel	7	5	25
+21262	4	30	Dark Rainbow (6 Suits)	2019-03-03 — 06:13:04 UTC	Hunter, scharkbite, wortel, Zamiel	14	6	30
+21260	4	0	Dark Rainbow (6 Suits)	2019-03-03 — 05:41:35 UTC	Hunter, scharkbite, wortel, Zamiel	17	6	30
+21256	3	23	No Variant	2019-03-03 — 05:18:08 UTC	Hunter, wortel, Zamiel	7	5	25
+20714	3	25	Rainbow (5 Suits)	2019-02-25 — 17:41:40 UTC	Asddsa76, wortel, Zamiel	43	5	25
+20711	3	0	Rainbow (5 Suits)	2019-02-25 — 16:43:36 UTC	Asddsa76, wortel, Zamiel	50	5	25
+20710	3	25	No Variant	2019-02-25 — 16:05:44 UTC	Asddsa76, wortel, Zamiel	7	5	25
+20709	3	25	No Variant	2019-02-25 — 15:41:42 UTC	Asddsa76, wortel, Zamiel	7	5	25
+20707	3	0	No Variant	2019-02-25 — 15:22:54 UTC	Asddsa76, wortel, Zamiel	7	5	25
+20614	3	0	Rainbow (6 Suits)	2019-02-24 — 07:24:23 UTC	Asddsa76, sjdrodge, wortel	120	6	30
+20612	4	29	Rainbow (6 Suits)	2019-02-24 — 06:37:48 UTC	Asddsa76, scharkbite, wortel, Yeesh	76	6	30
+20569	3	28	White (6 Suits)	2019-02-23 — 19:03:54 UTC	Hunter, scharkbite, wortel	37	6	30
+20568	5	25	No Variant	2019-02-23 — 18:25:09 UTC	Asddsa76, doome_burner, Hunter, scharkbite, wortel	541	5	25
+20567	5	24	No Variant	2019-02-23 — 17:35:43 UTC	Asddsa76, Hunter, RaKXeR, scharkbite, wortel	296	5	25
+20564	2	20	White (4 Suits)	2019-02-23 — 13:54:59 UTC	bozembla, wortel	94	4	20
+20563	2	27	Rainbow (6 Suits)	2019-02-23 — 13:22:33 UTC	bozembla, wortel	971	6	30
+20301	4	29	6 Suits	2019-02-17 — 20:49:06 UTC	Asddsa76, Hunter, Libster, wortel	10	6	30
+20292	4	0	Rainbow (5 Suits)	2019-02-17 — 20:10:51 UTC	Asddsa76, doome_burner, Hunter, wortel	42	5	25
+20288	4	0	White (5 Suits)	2019-02-17 — 19:42:40 UTC	Asddsa76, doome_burner, Hunter, wortel	32	5	25
+20285	6	0	No Variant	2019-02-17 — 19:24:35 UTC	Andrew_UK, Asddsa76, doome_burner, Hunter, scharkbite, wortel	282	5	25
+20282	6	27	White (6 Suits)	2019-02-17 — 18:48:42 UTC	Andrew_UK, Asddsa76, doome_burner, Hunter, scharkbite, wortel	12	6	30
+19399	3	30	Rainbow (6 Suits)	2019-02-10 — 20:20:03 UTC	postmans, Razgowut, wortel	165	6	30
+19395	3	29	Rainbow (6 Suits)	2019-02-10 — 19:38:54 UTC	postmans, Razgowut, wortel	183	6	30
+19393	3	0	Rainbow (6 Suits)	2019-02-10 — 19:22:09 UTC	postmans, Razgowut, wortel	282	6	30
+19381	4	0	Rainbow (6 Suits)	2019-02-10 — 17:05:17 UTC	Hunter, Libster, Razgowut, wortel	38	6	30
+19380	5	25	No Variant	2019-02-10 — 16:30:46 UTC	Hunter, Libster, postmans, Razgowut, wortel	3	5	25

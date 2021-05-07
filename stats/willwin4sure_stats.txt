@@ -1,0 +1,1392 @@
+506256	3	25	Black & White (5 Suits)	2021-04-19 — 03:28:36 UTC	anser, vEnhance, willwin4sure	45	5	25
+506215	3	20	Brown (4 Suits)	2021-04-19 — 03:05:19 UTC	anser, vEnhance, willwin4sure	31	4	20
+506166	3	15	Null (3 Suits)	2021-04-19 — 02:47:17 UTC	anser, vEnhance, willwin4sure	23	3	15
+506120	3	24	Null (5 Suits)	2021-04-19 — 02:20:20 UTC	anser, vEnhance, willwin4sure	12	5	25
+505757	3	24	Null (5 Suits)	2021-04-18 — 21:18:57 UTC	anser, vEnhance, willwin4sure	12	5	25
+505685	3	25	Null (5 Suits)	2021-04-18 — 20:23:45 UTC	anser, vEnhance, willwin4sure	12	5	25
+505606	3	25	Null (5 Suits)	2021-04-18 — 19:29:42 UTC	anser, vEnhance, willwin4sure	12	5	25
+505529	3	20	Null (4 Suits)	2021-04-18 — 18:25:12 UTC	anser, vEnhance, willwin4sure	23	4	20
+504401	3	25	Null (5 Suits)	2021-04-17 — 19:50:13 UTC	anser, vEnhance, willwin4sure	18	5	25
+494369	3	25	Null (5 Suits)	2021-04-08 — 23:35:54 UTC	anser, vEnhance, willwin4sure	20	5	25
+494348	3	23	Null (5 Suits)	2021-04-08 — 22:57:28 UTC	anser, vEnhance, willwin4sure	21	5	25
+484087	3	30	Brown (6 Suits)	2021-03-29 — 02:00:06 UTC	anser, vEnhance, willwin4sure	11	6	30
+484051	3	30	Brown (6 Suits)	2021-03-29 — 01:22:34 UTC	anser, vEnhance, willwin4sure	11	6	30
+483995	3	30	Brown (6 Suits)	2021-03-29 — 00:36:21 UTC	anser, vEnhance, willwin4sure	11	6	30
+483965	3	30	Brown (6 Suits)	2021-03-28 — 23:53:36 UTC	anser, vEnhance, willwin4sure	11	6	30
+483950	3	19	Brown (4 Suits)	2021-03-28 — 23:20:01 UTC	anser, vEnhance, willwin4sure	47	4	20
+468668	3	0	Brown (6 Suits)	2021-03-15 — 01:45:21 UTC	anser, vEnhance, willwin4sure	40	6	30
+468643	3	0	Brown (6 Suits)	2021-03-15 — 01:25:58 UTC	anser, vEnhance, willwin4sure	52	6	30
+468625	3	0	Brown (6 Suits)	2021-03-15 — 01:12:24 UTC	anser, vEnhance, willwin4sure	61	6	30
+468585	3	30	Brown (6 Suits)	2021-03-15 — 00:40:14 UTC	anser, vEnhance, willwin4sure	84	6	30
+460678	4	30	Throw It in a Hole (6 Suits)	2021-03-07 — 22:56:19 UTC	anser, nukelauncher, vEnhance, willwin4sure	6	6	30
+460525	4	30	Throw It in a Hole (6 Suits)	2021-03-07 — 21:43:29 UTC	anser, nukelauncher, vEnhance, willwin4sure	7	6	30
+459847	4	30	Throw It in a Hole (6 Suits)	2021-03-07 — 05:39:07 UTC	anser, nukelauncher, vEnhance, willwin4sure	7	6	30
+459801	4	30	Throw It in a Hole (6 Suits)	2021-03-07 — 04:35:23 UTC	anser, nukelauncher, vEnhance, willwin4sure	12	6	30
+459742	4	0	Throw It in a Hole (4 Suits)	2021-03-07 — 03:29:48 UTC	anser, nukelauncher, vEnhance, willwin4sure	12	4	20
+456003	3	19	4 Suits	2021-03-04 — 04:44:30 UTC	Matir, sun_prime, willwin4sure	118	4	20
+455976	5	19	No Variant	2021-03-04 — 04:13:14 UTC	AngryAny, bluewhale1024, vEnhance, willwin4sure, wolfpack	25	5	25
+452581	4	29	Throw It in a Hole (6 Suits)	2021-03-01 — 01:38:12 UTC	anser, nukelauncher, vEnhance, willwin4sure	15	6	30
+452521	4	30	Throw It in a Hole (6 Suits)	2021-03-01 — 00:40:57 UTC	anser, nukelauncher, vEnhance, willwin4sure	21	6	30
+437357	2	27	Black (6 Suits)	2021-02-14 — 21:34:04 UTC	anser, willwin4sure	20	6	30
+437322	2	28	Black (6 Suits)	2021-02-14 — 21:06:57 UTC	anser, willwin4sure	21	6	30
+437293	2	30	Black (6 Suits)	2021-02-14 — 20:45:28 UTC	anser, willwin4sure	21	6	30
+437268	2	30	Black (6 Suits)	2021-02-14 — 20:30:48 UTC	anser, willwin4sure	25	6	30
+437246	2	26	Black (6 Suits)	2021-02-14 — 20:15:39 UTC	anser, willwin4sure	186	6	30
+437225	2	0	Black (6 Suits)	2021-02-14 — 20:00:54 UTC	anser, willwin4sure	192	6	30
+437218	2	0	Black (6 Suits)	2021-02-14 — 19:57:20 UTC	anser, willwin4sure	201	6	30
+413617	3	0	Dual-Color Mix	2021-01-24 — 17:07:23 UTC	anser, vEnhance, willwin4sure	14	6	30
+413615	3	0	Dual-Color Mix	2021-01-24 — 17:03:32 UTC	anser, vEnhance, willwin4sure	13	6	30
+413605	3	29	Dual-Color Mix	2021-01-24 — 16:50:50 UTC	anser, vEnhance, willwin4sure	13	6	30
+413578	3	30	Dual-Color Mix	2021-01-24 — 15:41:16 UTC	anser, vEnhance, willwin4sure	12	6	30
+413543	3	29	Dual-Color Mix	2021-01-24 — 14:38:21 UTC	anser, vEnhance, willwin4sure	14	6	30
+412471	3	0	Dual-Color Mix	2021-01-23 — 16:21:48 UTC	anser, vEnhance, willwin4sure	14	6	30
+412414	3	30	Dual-Color Mix	2021-01-23 — 14:37:59 UTC	anser, vEnhance, willwin4sure	29	6	30
+409963	3	15	Pink (3 Suits)	2021-01-20 — 21:56:24 UTC	anser, vEnhance, willwin4sure	33	3	15
+409926	3	29	Dual-Color Mix	2021-01-20 — 21:21:17 UTC	anser, vEnhance, willwin4sure	33	6	30
+409865	3	0	Dual-Color Mix	2021-01-20 — 20:26:29 UTC	anser, vEnhance, willwin4sure	42	6	30
+404481	5	21	No Variant	2021-01-16 — 00:00:27 UTC	4head, HariKrishnan, socerman, tacobot5000, willwin4sure	296	5	25
+404461	5	24	No Variant	2021-01-15 — 23:15:36 UTC	4head, HariKrishnan, socerman, tacobot5000, willwin4sure	837	5	25
+404429	5	24	No Variant	2021-01-15 — 22:31:32 UTC	4head, HariKrishnan, socerman, tacobot5000, willwin4sure	1119	5	25
+404375	4	30	Rainbow (6 Suits)	2021-01-15 — 21:43:08 UTC	4head, socerman, tacobot5000, willwin4sure	44	6	30
+387839	5	21	Special Mix (5 Suits)	2020-12-31 — 03:07:02 UTC	bob65536, doctorabi, rz, vEnhance, willwin4sure	11	5	25
+387799	5	0	Special Mix (5 Suits)	2020-12-31 — 02:41:50 UTC	bob65536, doctorabi, rz, vEnhance, willwin4sure	11	5	25
+387754	4	22	Special Mix (5 Suits)	2020-12-31 — 02:11:50 UTC	anser, nukelauncher, vEnhance, willwin4sure	21	5	25
+387681	4	0	Special Mix (5 Suits)	2020-12-31 — 01:13:26 UTC	anser, nukelauncher, vEnhance, willwin4sure	20	5	25
+387669	4	0	Special Mix (5 Suits)	2020-12-31 — 00:51:17 UTC	anser, nukelauncher, vEnhance, willwin4sure	25	5	25
+386127	2	0	No Variant	2020-12-29 — 13:57:48 UTC	knightofmines, willwin4sure	1952	5	25
+385896	3	21	Special Mix (5 Suits)	2020-12-29 — 06:38:29 UTC	nukelauncher, vEnhance, willwin4sure	30	5	25
+385847	3	0	Special Mix (5 Suits)	2020-12-29 — 05:44:39 UTC	nukelauncher, vEnhance, willwin4sure	38	5	25
+385835	3	0	Special Mix (5 Suits)	2020-12-29 — 05:27:18 UTC	nukelauncher, vEnhance, willwin4sure	48	5	25
+382350	4	0	Special Mix (5 Suits)	2020-12-26 — 03:48:45 UTC	anser, nukelauncher, vEnhance, willwin4sure	28	5	25
+382332	4	0	Special Mix (5 Suits)	2020-12-26 — 03:34:31 UTC	anser, nukelauncher, vEnhance, willwin4sure	29	5	25
+382315	4	0	Special Mix (5 Suits)	2020-12-26 — 03:25:50 UTC	anser, nukelauncher, vEnhance, willwin4sure	39	5	25
+382302	4	24	Pink & Brown (5 Suits)	2020-12-26 — 03:13:08 UTC	anser, nukelauncher, vEnhance, willwin4sure	15	5	25
+382254	4	0	White & Prism (5 Suits)	2020-12-26 — 02:35:59 UTC	anser, nukelauncher, vEnhance, willwin4sure	14	5	25
+382210	4	22	Dark Rainbow (5 Suits)	2020-12-26 — 01:56:21 UTC	anser, nukelauncher, vEnhance, willwin4sure	24	5	25
+381981	4	25	Prism (5 Suits)	2020-12-25 — 21:34:03 UTC	anser, bluewhale1024, shootinglucky, willwin4sure	29	5	25
+380336	4	0	Black (6 Suits)	2020-12-24 — 00:21:28 UTC	ejwu, jeff10, spartacle, willwin4sure	121	6	30
+375878	4	25	Dual-Color (5 Suits)	2020-12-19 — 19:02:48 UTC	Feich59, MarkusKahlsen, postmans, willwin4sure	20	5	25
+375089	5	30	6 Suits	2020-12-18 — 23:13:09 UTC	anser, bluewhale1024, nukelauncher, willwin4sure, Yuchan_Yang	54	6	30
+375063	5	0	6 Suits	2020-12-18 — 22:49:13 UTC	anser, bluewhale1024, nukelauncher, willwin4sure, Yuchan_Yang	69	6	30
+374006	3	0	Black (5 Suits)	2020-12-17 — 21:52:57 UTC	bjnh, vEnhance, willwin4sure	101	5	25
+372433	3	0	Rainbow (5 Suits)	2020-12-16 — 02:46:29 UTC	shootinglucky, willwin4sure, Yuchan_Yang	135	5	25
+372414	3	22	Rainbow (5 Suits)	2020-12-16 — 02:25:21 UTC	shootinglucky, willwin4sure, Yuchan_Yang	185	5	25
+370360	4	25	Throw It in a Hole (5 Suits)	2020-12-13 — 23:43:11 UTC	anser, nukelauncher, vEnhance, willwin4sure	20	5	25
+370330	4	27	Rainbow (6 Suits)	2020-12-13 — 23:10:02 UTC	anser, nukelauncher, vEnhance, willwin4sure	7	6	30
+370277	4	0	Rainbow (6 Suits)	2020-12-13 — 22:01:06 UTC	anser, nukelauncher, vEnhance, willwin4sure	7	6	30
+369313	4	29	Rainbow (6 Suits)	2020-12-12 — 23:42:21 UTC	anser, nukelauncher, vEnhance, willwin4sure	8	6	30
+369263	4	30	Rainbow (6 Suits)	2020-12-12 — 22:54:57 UTC	anser, nukelauncher, vEnhance, willwin4sure	7	6	30
+367512	4	24	Dual-Color (5 Suits)	2020-12-11 — 04:58:07 UTC	anser, bluewhale1024, willwin4sure, Yuchan_Yang	14	5	25
+367171	4	19	Rainbow & Prism (4 Suits)	2020-12-11 — 00:00:07 UTC	anser, ejwu, nukelauncher, willwin4sure	7	4	20
+367143	2	0	Special Mix (6 Suits)	2020-12-10 — 23:32:05 UTC	nukelauncher, willwin4sure	4	6	30
+367131	3	30	Dark Prism (6 Suits)	2020-12-10 — 23:22:33 UTC	anser, nukelauncher, willwin4sure	25	6	30
+364876	3	25	Black & Prism (5 Suits)	2020-12-08 — 21:46:00 UTC	anser, nukelauncher, willwin4sure	14	5	25
+363238	6	20	4 Suits	2020-12-07 — 05:57:35 UTC	anser, bluewhale1024, IsabeltheCat, nukelauncher, willwin4sure, Yuchan_Yang	11	4	20
+363033	4	0	Dark Rainbow (5 Suits)	2020-12-07 — 01:58:37 UTC	anser, IsabeltheCat, nukelauncher, willwin4sure	23	5	25
+363021	4	0	Dark Rainbow (5 Suits)	2020-12-07 — 01:43:05 UTC	anser, IsabeltheCat, nukelauncher, willwin4sure	29	5	25
+363014	5	0	3 Suits	2020-12-07 — 01:34:36 UTC	anser, IsabeltheCat, nukelauncher, william65537, willwin4sure	16	3	15
+362842	4	29	Dark Prism (6 Suits)	2020-12-06 — 22:54:20 UTC	derekcheah, Kyle, Pimak, willwin4sure	8	6	30
+362730	2	20	No Variant	2020-12-06 — 21:03:16 UTC	nastley3, willwin4sure	3051	5	25
+362700	2	23	No Variant	2020-12-06 — 20:37:10 UTC	nastley3, willwin4sure	3507	5	25
+361919	3	25	No Variant	2020-12-06 — 00:36:18 UTC	carpdiem, eljavi, willwin4sure	269	5	25
+361892	3	23	No Variant	2020-12-06 — 00:05:46 UTC	carpdiem, eljavi, willwin4sure	275	5	25
+360570	4	23	No Variant	2020-12-04 — 17:03:25 UTC	carpdiem, Carunty, macanek, willwin4sure	2763	5	25
+360082	4	23	Dark Brown (5 Suits)	2020-12-04 — 00:09:39 UTC	doctorabi, jeff10, sin_faith, willwin4sure	14	5	25
+360070	4	21	Dark Brown (5 Suits)	2020-12-03 — 23:53:03 UTC	doctorabi, jeff10, sin_faith, willwin4sure	17	5	25
+359994	3	15	3 Suits	2020-12-03 — 22:15:09 UTC	bob65536, doctorabi, willwin4sure	115	3	15
+359983	5	0	3 Suits	2020-12-03 — 21:55:48 UTC	bob65536, doctorabi, ejwu, jeff10, willwin4sure	19	3	15
+359977	2	0	Special Mix (6 Suits)	2020-12-03 — 21:40:06 UTC	jeff10, willwin4sure	8	6	30
+359974	2	0	Special Mix (6 Suits)	2020-12-03 — 21:31:49 UTC	jeff10, willwin4sure	8	6	30
+359971	2	0	Special Mix (6 Suits)	2020-12-03 — 21:24:25 UTC	jeff10, willwin4sure	8	6	30
+359970	2	0	Special Mix (6 Suits)	2020-12-03 — 21:22:31 UTC	jeff10, willwin4sure	9	6	30
+359969	2	0	Special Mix (6 Suits)	2020-12-03 — 21:18:29 UTC	jeff10, willwin4sure	9	6	30
+359965	2	0	Special Mix (6 Suits)	2020-12-03 — 21:12:25 UTC	jeff10, willwin4sure	9	6	30
+359964	2	0	Special Mix (6 Suits)	2020-12-03 — 21:11:00 UTC	jeff10, willwin4sure	9	6	30
+359958	2	0	Special Mix (6 Suits)	2020-12-03 — 21:05:47 UTC	jeff10, willwin4sure	9	6	30
+359950	2	0	Special Mix (6 Suits)	2020-12-03 — 21:00:46 UTC	jeff10, willwin4sure	9	6	30
+359949	2	0	Special Mix (6 Suits)	2020-12-03 — 20:56:52 UTC	jeff10, willwin4sure	9	6	30
+359943	2	0	Special Mix (6 Suits)	2020-12-03 — 20:49:31 UTC	jeff10, willwin4sure	9	6	30
+359928	2	25	Rainbow (5 Suits)	2020-12-03 — 20:29:39 UTC	jeff10, willwin4sure	248	5	25
+359920	2	25	Black (5 Suits)	2020-12-03 — 20:22:13 UTC	jeff10, willwin4sure	219	5	25
+359238	4	24	Rainbow (6 Suits)	2020-12-02 — 23:07:15 UTC	anser, nukelauncher, vEnhance, willwin4sure	47	6	30
+359206	4	30	Rainbow (6 Suits)	2020-12-02 — 22:08:33 UTC	anser, nukelauncher, vEnhance, willwin4sure	47	6	30
+358709	5	23	White (5 Suits)	2020-12-02 — 03:54:16 UTC	ml1234567, shootinglucky, vEnhance, willwin4sure, Yuchan_Yang	21	5	25
+358692	4	0	White (5 Suits)	2020-12-02 — 03:21:19 UTC	ml1234567, vEnhance, willwin4sure, Yuchan_Yang	12	5	25
+358513	5	19	Pink (4 Suits)	2020-12-01 — 21:06:47 UTC	hakha3, kimbifille, Kyle, postmans, willwin4sure	2	4	20
+358496	5	0	Pink (4 Suits)	2020-12-01 — 20:50:41 UTC	hakha3, kimbifille, Kyle, postmans, willwin4sure	4	4	20
+358469	4	25	Pink (5 Suits)	2020-12-01 — 20:20:34 UTC	hakha3, Kyle, postmans, willwin4sure	5	5	25
+358436	5	25	White (5 Suits)	2020-12-01 — 19:51:01 UTC	bjnh, bob65536, Kyle, postmans, willwin4sure	1	5	25
+358414	5	21	Black (5 Suits)	2020-12-01 — 19:25:50 UTC	bob65536, doctorabi, Kyle, postmans, willwin4sure	11	5	25
+358401	6	0	Black (5 Suits)	2020-12-01 — 19:07:32 UTC	bob65536, doctorabi, Kyle, orucsoraihc, postmans, willwin4sure	3	5	25
+357877	2	27	Special Mix (6 Suits)	2020-11-30 — 23:45:39 UTC	ejwu, willwin4sure	10	6	30
+357863	2	0	Special Mix (6 Suits)	2020-11-30 — 23:17:14 UTC	ejwu, willwin4sure	10	6	30
+357852	2	0	Special Mix (6 Suits)	2020-11-30 — 23:07:48 UTC	ejwu, willwin4sure	10	6	30
+357835	2	0	Special Mix (6 Suits)	2020-11-30 — 22:37:56 UTC	ejwu, willwin4sure	10	6	30
+357821	2	0	Special Mix (6 Suits)	2020-11-30 — 22:07:17 UTC	william65537, willwin4sure	3	6	30
+357817	2	0	Special Mix (6 Suits)	2020-11-30 — 22:03:17 UTC	william65537, willwin4sure	3	6	30
+357815	2	0	Special Mix (6 Suits)	2020-11-30 — 22:00:18 UTC	william65537, willwin4sure	3	6	30
+357811	2	0	Special Mix (6 Suits)	2020-11-30 — 21:54:52 UTC	william65537, willwin4sure	3	6	30
+357810	2	0	Special Mix (6 Suits)	2020-11-30 — 21:53:54 UTC	william65537, willwin4sure	3	6	30
+357809	2	0	Special Mix (6 Suits)	2020-11-30 — 21:52:21 UTC	william65537, willwin4sure	3	6	30
+357806	2	0	Special Mix (6 Suits)	2020-11-30 — 21:48:55 UTC	william65537, willwin4sure	3	6	30
+357801	2	0	Special Mix (6 Suits)	2020-11-30 — 21:40:55 UTC	william65537, willwin4sure	3	6	30
+357796	2	0	Special Mix (6 Suits)	2020-11-30 — 21:34:05 UTC	william65537, willwin4sure	3	6	30
+357784	2	0	Special Mix (6 Suits)	2020-11-30 — 21:13:01 UTC	william65537, willwin4sure	3	6	30
+357780	2	0	Special Mix (6 Suits)	2020-11-30 — 21:03:08 UTC	william65537, willwin4sure	3	6	30
+357773	2	0	Special Mix (6 Suits)	2020-11-30 — 20:59:36 UTC	william65537, willwin4sure	3	6	30
+357771	2	0	Special Mix (6 Suits)	2020-11-30 — 20:58:30 UTC	william65537, willwin4sure	3	6	30
+357769	2	0	Special Mix (6 Suits)	2020-11-30 — 20:55:48 UTC	william65537, willwin4sure	3	6	30
+357767	2	0	Special Mix (6 Suits)	2020-11-30 — 20:53:07 UTC	william65537, willwin4sure	3	6	30
+357620	2	0	Dark Null & Dark Prism (6 Suits)	2020-11-30 — 16:49:48 UTC	william65537, willwin4sure	2	6	30
+357617	2	0	Dark Null & Dark Prism (6 Suits)	2020-11-30 — 16:48:25 UTC	william65537, willwin4sure	2	6	30
+357615	2	0	Dark Null & Dark Prism (6 Suits)	2020-11-30 — 16:47:51 UTC	william65537, willwin4sure	2	6	30
+357614	2	0	Dark Null & Dark Prism (6 Suits)	2020-11-30 — 16:45:39 UTC	william65537, willwin4sure	2	6	30
+357610	2	0	Dark Null & Dark Prism (6 Suits)	2020-11-30 — 16:41:44 UTC	william65537, willwin4sure	2	6	30
+357608	2	0	Dark Null & Dark Prism (6 Suits)	2020-11-30 — 16:38:22 UTC	william65537, willwin4sure	2	6	30
+357605	2	0	Dark Null & Dark Prism (6 Suits)	2020-11-30 — 16:34:10 UTC	william65537, willwin4sure	2	6	30
+357604	2	0	Dark Null & Dark Prism (6 Suits)	2020-11-30 — 16:32:38 UTC	william65537, willwin4sure	2	6	30
+357601	2	0	Dark Null & Dark Prism (6 Suits)	2020-11-30 — 16:27:11 UTC	william65537, willwin4sure	2	6	30
+357599	2	0	Dark Null & Dark Prism (6 Suits)	2020-11-30 — 16:25:03 UTC	william65537, willwin4sure	2	6	30
+357596	2	0	Dark Null & Dark Prism (6 Suits)	2020-11-30 — 16:20:44 UTC	william65537, willwin4sure	2	6	30
+357592	2	0	Dark Null & Dark Prism (6 Suits)	2020-11-30 — 16:17:40 UTC	william65537, willwin4sure	2	6	30
+357589	2	26	Dark Null & Dark Prism (6 Suits)	2020-11-30 — 16:13:24 UTC	william65537, willwin4sure	2	6	30
+357584	2	0	Dark Null & Dark Prism (6 Suits)	2020-11-30 — 16:02:30 UTC	william65537, willwin4sure	2	6	30
+357583	2	0	Dark Null & Dark Prism (6 Suits)	2020-11-30 — 16:00:04 UTC	william65537, willwin4sure	2	6	30
+357580	2	0	Dark Null & Dark Prism (6 Suits)	2020-11-30 — 15:53:46 UTC	william65537, willwin4sure	2	6	30
+357578	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-30 — 15:51:20 UTC	william65537, willwin4sure	1	6	30
+357575	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-30 — 15:49:25 UTC	william65537, willwin4sure	1	6	30
+357574	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-30 — 15:48:07 UTC	william65537, willwin4sure	1	6	30
+357573	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-30 — 15:47:17 UTC	william65537, willwin4sure	1	6	30
+357571	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-30 — 15:43:23 UTC	william65537, willwin4sure	1	6	30
+357568	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-30 — 15:39:52 UTC	william65537, willwin4sure	1	6	30
+357564	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-30 — 15:28:11 UTC	william65537, willwin4sure	1	6	30
+357561	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-30 — 15:22:42 UTC	william65537, willwin4sure	1	6	30
+357560	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-30 — 15:20:55 UTC	william65537, willwin4sure	1	6	30
+357559	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-30 — 15:17:40 UTC	william65537, willwin4sure	1	6	30
+357556	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-30 — 15:16:02 UTC	william65537, willwin4sure	1	6	30
+357554	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-30 — 15:13:21 UTC	william65537, willwin4sure	1	6	30
+357552	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-30 — 15:08:27 UTC	william65537, willwin4sure	1	6	30
+357550	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-30 — 15:03:37 UTC	william65537, willwin4sure	1	6	30
+357547	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-30 — 15:01:47 UTC	william65537, willwin4sure	1	6	30
+357367	3	21	Black (5 Suits)	2020-11-30 — 05:13:24 UTC	ejwu, jeff10, willwin4sure	27	5	25
+357356	3	0	Black (5 Suits)	2020-11-30 — 05:06:01 UTC	ejwu, jeff10, willwin4sure	36	5	25
+357345	3	0	Black (5 Suits)	2020-11-30 — 05:01:02 UTC	ejwu, jeff10, willwin4sure	40	5	25
+357341	3	0	Black (5 Suits)	2020-11-30 — 04:56:28 UTC	ejwu, jeff10, willwin4sure	43	5	25
+357337	3	20	Black (5 Suits)	2020-11-30 — 04:53:23 UTC	ejwu, jeff10, willwin4sure	44	5	25
+357329	3	22	Black (5 Suits)	2020-11-30 — 04:42:59 UTC	ejwu, jeff10, willwin4sure	51	5	25
+357314	3	22	Black (5 Suits)	2020-11-30 — 04:37:00 UTC	ejwu, jeff10, willwin4sure	55	5	25
+357305	3	0	Black (5 Suits)	2020-11-30 — 04:28:44 UTC	ejwu, jeff10, willwin4sure	68	5	25
+357292	3	22	Black (5 Suits)	2020-11-30 — 04:21:49 UTC	ejwu, jeff10, willwin4sure	84	5	25
+357289	3	0	Black (5 Suits)	2020-11-30 — 04:18:19 UTC	ejwu, jeff10, willwin4sure	119	5	25
+357282	4	0	Black (5 Suits)	2020-11-30 — 04:15:49 UTC	ejwu, jeff10, william65537, willwin4sure	23	5	25
+357277	4	0	Black (5 Suits)	2020-11-30 — 04:12:57 UTC	ejwu, jeff10, william65537, willwin4sure	22	5	25
+357274	4	0	Black (5 Suits)	2020-11-30 — 04:10:38 UTC	ejwu, jeff10, william65537, willwin4sure	21	5	25
+357253	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-30 — 03:57:38 UTC	william65537, willwin4sure	1	6	30
+357239	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-30 — 03:49:59 UTC	william65537, willwin4sure	1	6	30
+357237	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-30 — 03:48:41 UTC	william65537, willwin4sure	1	6	30
+357234	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-30 — 03:46:34 UTC	william65537, willwin4sure	1	6	30
+357232	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-30 — 03:44:57 UTC	william65537, willwin4sure	1	6	30
+357098	4	25	Black (5 Suits)	2020-11-30 — 01:41:00 UTC	anser, nukelauncher, william65537, willwin4sure	63	5	25
+357073	3	30	Dark Brown (6 Suits)	2020-11-30 — 01:12:22 UTC	anser, nukelauncher, willwin4sure	32	6	30
+355794	3	25	Dark Prism (5 Suits)	2020-11-28 — 06:21:38 UTC	anser, nukelauncher, willwin4sure	23	5	25
+355780	3	22	Dark Prism (5 Suits)	2020-11-28 — 05:57:33 UTC	anser, nukelauncher, willwin4sure	26	5	25
+355707	4	25	Black & White (6 Suits)	2020-11-28 — 04:15:55 UTC	Carunty, pianoblook, voss, willwin4sure	19	6	30
+355589	5	27	Black (6 Suits)	2020-11-28 — 02:56:31 UTC	ejwu, spartacle, voss, willwin4sure, wump	58	6	30
+355536	4	23	Black (5 Suits)	2020-11-28 — 02:03:59 UTC	ejwu, jeff10, spartacle, willwin4sure	32	5	25
+355510	3	24	Black (5 Suits)	2020-11-28 — 01:33:36 UTC	ejwu, spartacle, willwin4sure	134	5	25
+355493	2	0	No Variant	2020-11-28 — 01:12:48 UTC	spartacle, willwin4sure	4109	5	25
+355438	4	20	Prism (4 Suits)	2020-11-27 — 23:44:19 UTC	anser, bluewhale1024, willwin4sure, Yuchan_Yang	21	4	20
+355416	4	20	White (4 Suits)	2020-11-27 — 22:59:34 UTC	anser, bluewhale1024, willwin4sure, Yuchan_Yang	20	4	20
+355402	4	19	White (4 Suits)	2020-11-27 — 22:44:01 UTC	anser, bluewhale1024, willwin4sure, Yuchan_Yang	34	4	20
+355295	5	23	No Variant	2020-11-27 — 20:41:42 UTC	bob65536, Lel0uch, MarcLovesDogs, TimeHoodie, willwin4sure	31	5	25
+355248	5	0	Prism (6 Suits)	2020-11-27 — 20:03:24 UTC	doctorabi, MarcLovesDogs, rz, TimeHoodie, willwin4sure	24	6	30
+355214	3	28	White (6 Suits)	2020-11-27 — 19:24:21 UTC	Carunty, voss, willwin4sure	124	6	30
+355189	4	22	No Variant	2020-11-27 — 18:52:06 UTC	Carunty, olli0311lol, voss, willwin4sure	257	5	25
+354879	2	0	Null & Muddy Rainbow (6 Suits)	2020-11-27 — 04:30:13 UTC	william65537, willwin4sure	1	6	30
+354876	2	0	Null & Muddy Rainbow (6 Suits)	2020-11-27 — 04:27:11 UTC	william65537, willwin4sure	1	6	30
+354872	2	0	Null & Muddy Rainbow (6 Suits)	2020-11-27 — 04:25:53 UTC	william65537, willwin4sure	1	6	30
+354870	2	0	Null & Muddy Rainbow (6 Suits)	2020-11-27 — 04:24:25 UTC	william65537, willwin4sure	1	6	30
+354866	2	0	Null & Muddy Rainbow (6 Suits)	2020-11-27 — 04:20:45 UTC	william65537, willwin4sure	1	6	30
+354864	2	0	Null & Muddy Rainbow (6 Suits)	2020-11-27 — 04:17:07 UTC	william65537, willwin4sure	1	6	30
+354860	2	0	Null & Muddy Rainbow (6 Suits)	2020-11-27 — 04:15:11 UTC	william65537, willwin4sure	1	6	30
+354857	2	0	Null & Muddy Rainbow (6 Suits)	2020-11-27 — 04:12:43 UTC	william65537, willwin4sure	1	6	30
+354852	2	0	Null & Muddy Rainbow (6 Suits)	2020-11-27 — 04:08:42 UTC	william65537, willwin4sure	1	6	30
+354760	2	30	Light Pink (6 Suits)	2020-11-27 — 01:55:12 UTC	anser, willwin4sure	61	6	30
+354753	2	0	Light Pink (6 Suits)	2020-11-27 — 01:47:59 UTC	anser, willwin4sure	79	6	30
+354744	2	25	Light Pink (5 Suits)	2020-11-27 — 01:39:34 UTC	anser, willwin4sure	65	5	25
+354615	3	29	Gray (6 Suits)	2020-11-26 — 22:43:19 UTC	anser, nukelauncher, willwin4sure	36	6	30
+354605	3	0	Gray (6 Suits)	2020-11-26 — 22:21:15 UTC	anser, nukelauncher, willwin4sure	42	6	30
+354601	4	0	Rainbow (6 Suits)	2020-11-26 — 22:05:45 UTC	anser, nukelauncher, vEnhance, willwin4sure	53	6	30
+354585	3	20	Prism (4 Suits)	2020-11-26 — 21:34:50 UTC	anser, vEnhance, willwin4sure	27	4	20
+354577	3	0	Prism (4 Suits)	2020-11-26 — 21:15:32 UTC	anser, vEnhance, willwin4sure	45	4	20
+354572	3	25	Dark Pink (5 Suits)	2020-11-26 — 21:07:46 UTC	anser, vEnhance, willwin4sure	38	5	25
+354447	2	29	Null & Muddy Rainbow (6 Suits)	2020-11-26 — 18:02:11 UTC	william65537, willwin4sure	2	6	30
+354444	2	0	Null & Muddy Rainbow (6 Suits)	2020-11-26 — 17:54:59 UTC	william65537, willwin4sure	2	6	30
+354441	2	0	Null & Muddy Rainbow (6 Suits)	2020-11-26 — 17:51:13 UTC	william65537, willwin4sure	2	6	30
+354439	2	0	Null & Muddy Rainbow (6 Suits)	2020-11-26 — 17:49:11 UTC	william65537, willwin4sure	3	6	30
+354437	2	0	Null & Muddy Rainbow (6 Suits)	2020-11-26 — 17:46:08 UTC	william65537, willwin4sure	3	6	30
+354436	2	0	Null & Muddy Rainbow (6 Suits)	2020-11-26 — 17:45:01 UTC	william65537, willwin4sure	3	6	30
+354429	2	25	Null & Muddy Rainbow (5 Suits)	2020-11-26 — 17:36:49 UTC	william65537, willwin4sure	3	5	25
+354424	2	0	Null & Muddy Rainbow (5 Suits)	2020-11-26 — 17:28:12 UTC	william65537, willwin4sure	3	5	25
+354420	2	0	Null & Muddy Rainbow (5 Suits)	2020-11-26 — 17:23:43 UTC	william65537, willwin4sure	3	5	25
+354416	2	20	Null & Muddy Rainbow (4 Suits)	2020-11-26 — 17:15:51 UTC	william65537, willwin4sure	3	4	20
+354412	2	0	Null & Muddy Rainbow (4 Suits)	2020-11-26 — 17:06:58 UTC	william65537, willwin4sure	3	4	20
+354409	2	15	Null & Muddy Rainbow (3 Suits)	2020-11-26 — 17:04:06 UTC	william65537, willwin4sure	1	3	15
+354138	3	0	Throw It in a Hole (5 Suits)	2020-11-26 — 04:54:20 UTC	chdenmathcountz, vEnhance, willwin4sure	23	5	25
+354121	3	0	Throw It in a Hole (5 Suits)	2020-11-26 — 04:39:36 UTC	chdenmathcountz, vEnhance, willwin4sure	30	5	25
+354116	3	0	Throw It in a Hole (5 Suits)	2020-11-26 — 04:34:20 UTC	chdenmathcountz, vEnhance, willwin4sure	52	5	25
+354107	4	24	White (5 Suits)	2020-11-26 — 04:25:59 UTC	chdenmathcountz, vEnhance, willwin4sure, Yuchan_Yang	13	5	25
+353605	2	0	Null & Muddy Rainbow (3 Suits)	2020-11-25 — 18:29:47 UTC	william65537, willwin4sure	1	3	15
+353602	2	0	Null & Muddy Rainbow (3 Suits)	2020-11-25 — 18:27:04 UTC	william65537, willwin4sure	1	3	15
+353600	2	0	Null & Muddy Rainbow (3 Suits)	2020-11-25 — 18:24:35 UTC	william65537, willwin4sure	1	3	15
+353599	2	0	Null & Muddy Rainbow (3 Suits)	2020-11-25 — 18:22:47 UTC	william65537, willwin4sure	1	3	15
+353595	2	0	Null & Muddy Rainbow (3 Suits)	2020-11-25 — 18:18:03 UTC	william65537, willwin4sure	1	3	15
+353588	2	0	Null & Muddy Rainbow (3 Suits)	2020-11-25 — 18:13:02 UTC	william65537, willwin4sure	1	3	15
+353585	2	14	Null & Muddy Rainbow (3 Suits)	2020-11-25 — 18:08:52 UTC	william65537, willwin4sure	1	3	15
+353583	2	0	Null & Muddy Rainbow (3 Suits)	2020-11-25 — 18:04:10 UTC	william65537, willwin4sure	1	3	15
+353580	2	0	Null & Muddy Rainbow (3 Suits)	2020-11-25 — 17:58:34 UTC	william65537, willwin4sure	1	3	15
+353579	2	0	Null & Muddy Rainbow (3 Suits)	2020-11-25 — 17:56:44 UTC	william65537, willwin4sure	1	3	15
+353577	2	0	Null & Muddy Rainbow (3 Suits)	2020-11-25 — 17:56:05 UTC	william65537, willwin4sure	1	3	15
+353576	2	0	Null & Muddy Rainbow (3 Suits)	2020-11-25 — 17:54:43 UTC	william65537, willwin4sure	1	3	15
+353574	2	0	Null & Muddy Rainbow (3 Suits)	2020-11-25 — 17:53:54 UTC	william65537, willwin4sure	2	3	15
+353573	2	0	Null & Muddy Rainbow (3 Suits)	2020-11-25 — 17:53:12 UTC	william65537, willwin4sure	2	3	15
+353572	2	0	Null & Muddy Rainbow (3 Suits)	2020-11-25 — 17:51:35 UTC	william65537, willwin4sure	2	3	15
+353571	2	0	Null & Muddy Rainbow (3 Suits)	2020-11-25 — 17:48:53 UTC	william65537, willwin4sure	2	3	15
+353568	2	0	Null & Muddy Rainbow (3 Suits)	2020-11-25 — 17:45:46 UTC	william65537, willwin4sure	2	3	15
+353565	2	0	Null & Muddy Rainbow (3 Suits)	2020-11-25 — 17:43:01 UTC	william65537, willwin4sure	2	3	15
+353564	2	0	Null & Muddy Rainbow (3 Suits)	2020-11-25 — 17:40:48 UTC	william65537, willwin4sure	2	3	15
+353562	2	0	Null & Muddy Rainbow (3 Suits)	2020-11-25 — 17:38:48 UTC	william65537, willwin4sure	3	3	15
+353560	2	0	Null & Muddy Rainbow (3 Suits)	2020-11-25 — 17:37:17 UTC	william65537, willwin4sure	3	3	15
+353558	2	0	Null & Muddy Rainbow (3 Suits)	2020-11-25 — 17:32:59 UTC	william65537, willwin4sure	4	3	15
+353557	2	0	Null & Muddy Rainbow (3 Suits)	2020-11-25 — 17:32:12 UTC	william65537, willwin4sure	5	3	15
+353555	2	0	Null & Muddy Rainbow (3 Suits)	2020-11-25 — 17:27:39 UTC	william65537, willwin4sure	6	3	15
+353554	2	0	No Variant	2020-11-25 — 17:21:46 UTC	william65537, willwin4sure	201	5	25
+353553	2	0	No Variant	2020-11-25 — 17:17:56 UTC	william65537, willwin4sure	201	5	25
+353549	2	0	No Variant	2020-11-25 — 17:14:03 UTC	william65537, willwin4sure	207	5	25
+353546	2	0	No Variant	2020-11-25 — 17:07:19 UTC	william65537, willwin4sure	207	5	25
+353235	4	23	No Variant	2020-11-25 — 03:37:58 UTC	emhu02, willnotwin4sure, willwin4sure, zxr	278	5	25
+353188	3	25	White (5 Suits)	2020-11-25 — 02:41:38 UTC	vEnhance, willwin4sure, Yuchan_Yang	3	5	25
+353184	3	0	White (5 Suits)	2020-11-25 — 02:37:53 UTC	vEnhance, willwin4sure, Yuchan_Yang	4	5	25
+353178	3	0	White (5 Suits)	2020-11-25 — 02:34:45 UTC	vEnhance, willwin4sure, Yuchan_Yang	4	5	25
+353176	3	0	White (5 Suits)	2020-11-25 — 02:33:30 UTC	vEnhance, willwin4sure, Yuchan_Yang	5	5	25
+353174	3	0	White (5 Suits)	2020-11-25 — 02:32:14 UTC	vEnhance, willwin4sure, Yuchan_Yang	5	5	25
+353173	3	0	White (5 Suits)	2020-11-25 — 02:31:54 UTC	vEnhance, willwin4sure, Yuchan_Yang	5	5	25
+353144	3	30	6 Suits	2020-11-25 — 02:15:01 UTC	vEnhance, willwin4sure, Yuchan_Yang	252	6	30
+353128	3	0	6 Suits	2020-11-25 — 01:51:41 UTC	vEnhance, willwin4sure, Yuchan_Yang	305	6	30
+353117	6	0	White (5 Suits)	2020-11-25 — 01:32:58 UTC	anser, bluewhale1024, spartacle, vEnhance, willwin4sure, Yuchan_Yang	8	5	25
+353108	3	24	Dark Pink (5 Suits)	2020-11-25 — 01:16:10 UTC	anser, vEnhance, willwin4sure	42	5	25
+353043	2	30	Null & Prism (6 Suits)	2020-11-24 — 22:21:06 UTC	william65537, willwin4sure	2	6	30
+353041	2	0	Null & Prism (6 Suits)	2020-11-24 — 22:13:54 UTC	william65537, willwin4sure	3	6	30
+353037	2	0	Null & Prism (6 Suits)	2020-11-24 — 22:07:46 UTC	william65537, willwin4sure	6	6	30
+353033	2	25	Null & Prism (5 Suits)	2020-11-24 — 22:02:20 UTC	william65537, willwin4sure	1	5	25
+353026	2	0	Null & Prism (5 Suits)	2020-11-24 — 21:54:48 UTC	william65537, willwin4sure	1	5	25
+353020	2	0	Null & Prism (5 Suits)	2020-11-24 — 21:51:07 UTC	william65537, willwin4sure	2	5	25
+353017	2	0	Null & Prism (5 Suits)	2020-11-24 — 21:44:28 UTC	william65537, willwin4sure	2	5	25
+352970	3	30	Up or Down (6 Suits)	2020-11-24 — 20:56:20 UTC	jeff10, Kyle, willwin4sure	20	6	30
+352928	3	0	Up or Down (6 Suits)	2020-11-24 — 20:31:05 UTC	jeff10, Kyle, willwin4sure	34	6	30
+352891	3	0	Up or Down (6 Suits)	2020-11-24 — 20:10:15 UTC	jeff10, Kyle, willwin4sure	41	6	30
+352850	4	28	Dark Prism (6 Suits)	2020-11-24 — 19:49:06 UTC	doctorabi, Kyle, Lel0uch, willwin4sure	8	6	30
+352622	2	30	Dark Rainbow (6 Suits)	2020-11-24 — 17:17:34 UTC	anser, willwin4sure	75	6	30
+352604	2	0	Dark Rainbow (6 Suits)	2020-11-24 — 17:08:04 UTC	anser, willwin4sure	88	6	30
+352588	2	0	Dark Rainbow (6 Suits)	2020-11-24 — 17:03:27 UTC	anser, willwin4sure	91	6	30
+352564	2	0	Dark Rainbow (6 Suits)	2020-11-24 — 16:56:13 UTC	anser, willwin4sure	95	6	30
+352551	2	27	Dark Rainbow (6 Suits)	2020-11-24 — 16:51:15 UTC	anser, willwin4sure	102	6	30
+352544	2	0	Dark Rainbow (6 Suits)	2020-11-24 — 16:42:49 UTC	anser, willwin4sure	110	6	30
+352541	2	20	Brown (4 Suits)	2020-11-24 — 16:36:13 UTC	anser, willwin4sure	24	4	20
+352534	2	0	Brown (4 Suits)	2020-11-24 — 16:29:11 UTC	anser, willwin4sure	25	4	20
+352525	2	20	Null & Prism (4 Suits)	2020-11-24 — 16:10:55 UTC	william65537, willwin4sure	1	4	20
+352521	2	0	Null & Prism (4 Suits)	2020-11-24 — 16:02:25 UTC	william65537, willwin4sure	1	4	20
+352520	2	15	Null & Prism (3 Suits)	2020-11-24 — 15:53:35 UTC	william65537, willwin4sure	2	3	15
+352518	2	30	Prism & Dark Brown (6 Suits)	2020-11-24 — 15:47:41 UTC	william65537, willwin4sure	5	6	30
+352378	6	23	White (5 Suits)	2020-11-24 — 06:16:07 UTC	anser, bluewhale1024, nukelauncher, sun_prime, vEnhance, willwin4sure	10	5	25
+351743	2	25	Prism & Dark Brown (5 Suits)	2020-11-23 — 16:55:58 UTC	william65537, willwin4sure	3	5	25
+351738	2	30	White & Light Pink (6 Suits)	2020-11-23 — 16:43:10 UTC	william65537, willwin4sure	11	6	30
+351734	2	0	White & Light Pink (6 Suits)	2020-11-23 — 16:35:36 UTC	william65537, willwin4sure	12	6	30
+351728	2	20	White-Ones (4 Suits)	2020-11-23 — 16:31:32 UTC	william65537, willwin4sure	6	4	20
+351725	2	0	White-Ones (4 Suits)	2020-11-23 — 16:27:13 UTC	william65537, willwin4sure	11	4	20
+351724	2	25	Black & Prism (5 Suits)	2020-11-23 — 16:25:00 UTC	william65537, willwin4sure	23	5	25
+351719	2	0	Black & Prism (5 Suits)	2020-11-23 — 16:17:54 UTC	william65537, willwin4sure	25	5	25
+351717	2	0	Black & Prism (5 Suits)	2020-11-23 — 16:15:24 UTC	william65537, willwin4sure	25	5	25
+351716	2	24	Black & Prism (5 Suits)	2020-11-23 — 16:13:28 UTC	william65537, willwin4sure	26	5	25
+350792	2	25	Deceptive-Ones (5 Suits)	2020-11-22 — 16:42:00 UTC	william65537, willwin4sure	4	5	25
+350790	2	23	Deceptive-Ones (5 Suits)	2020-11-22 — 16:36:42 UTC	william65537, willwin4sure	4	5	25
+350786	2	0	Deceptive-Ones (5 Suits)	2020-11-22 — 16:28:45 UTC	william65537, willwin4sure	5	5	25
+350781	2	0	Deceptive-Ones (5 Suits)	2020-11-22 — 16:23:08 UTC	william65537, willwin4sure	5	5	25
+350777	2	0	Deceptive-Ones (5 Suits)	2020-11-22 — 16:17:50 UTC	william65537, willwin4sure	9	5	25
+350774	2	0	Deceptive-Ones (5 Suits)	2020-11-22 — 16:11:28 UTC	william65537, willwin4sure	10	5	25
+350772	2	0	Deceptive-Ones (5 Suits)	2020-11-22 — 16:04:16 UTC	william65537, willwin4sure	21	5	25
+350771	2	0	Deceptive-Ones (5 Suits)	2020-11-22 — 16:02:43 UTC	william65537, willwin4sure	27	5	25
+349790	2	0	Clue Starved (6 Suits)	2020-11-21 — 18:34:49 UTC	william65537, willwin4sure	11	6	30
+349784	2	26	Clue Starved (6 Suits)	2020-11-21 — 18:20:42 UTC	william65537, willwin4sure	11	6	30
+348938	3	0	No Variant	2020-11-20 — 21:53:06 UTC	emhu02, willnotwin4sure, willwin4sure	285	5	25
+348898	3	0	No Variant	2020-11-20 — 21:12:22 UTC	emhu02, willnotwin4sure, willwin4sure	307	5	25
+348871	3	0	No Variant	2020-11-20 — 20:51:42 UTC	emhu02, willnotwin4sure, willwin4sure	485	5	25
+348850	2	25	Clue Starved (6 Suits)	2020-11-20 — 20:36:58 UTC	william65537, willwin4sure	11	6	30
+348834	2	0	Clue Starved (6 Suits)	2020-11-20 — 20:25:34 UTC	william65537, willwin4sure	11	6	30
+348829	2	28	Clue Starved (6 Suits)	2020-11-20 — 20:21:32 UTC	william65537, willwin4sure	4	6	30
+348805	2	0	Clue Starved (6 Suits)	2020-11-20 — 20:04:52 UTC	william65537, willwin4sure	4	6	30
+348793	2	26	Clue Starved (6 Suits)	2020-11-20 — 19:53:46 UTC	william65537, willwin4sure	4	6	30
+348784	2	0	Clue Starved (6 Suits)	2020-11-20 — 19:41:53 UTC	william65537, willwin4sure	4	6	30
+348782	2	0	Clue Starved (6 Suits)	2020-11-20 — 19:36:08 UTC	william65537, willwin4sure	4	6	30
+348781	2	0	Clue Starved (6 Suits)	2020-11-20 — 19:32:16 UTC	william65537, willwin4sure	4	6	30
+348779	2	0	Clue Starved (6 Suits)	2020-11-20 — 19:30:28 UTC	william65537, willwin4sure	4	6	30
+348775	2	0	Clue Starved (6 Suits)	2020-11-20 — 19:22:59 UTC	william65537, willwin4sure	4	6	30
+348774	2	0	Clue Starved (6 Suits)	2020-11-20 — 19:19:38 UTC	william65537, willwin4sure	5	6	30
+348772	2	0	Clue Starved (6 Suits)	2020-11-20 — 19:15:28 UTC	william65537, willwin4sure	5	6	30
+348676	5	18	Prism (4 Suits)	2020-11-20 — 16:06:52 UTC	jack67889, kimbifille, rachyrules, TimeHoodie, willwin4sure	6	4	20
+348662	5	19	Prism (4 Suits)	2020-11-20 — 15:36:41 UTC	jack67889, kimbifille, rachyrules, TimeHoodie, willwin4sure	7	4	20
+348655	3	15	White (3 Suits)	2020-11-20 — 15:11:44 UTC	kimbifille, rachyrules, willwin4sure	26	3	15
+348650	3	0	White (3 Suits)	2020-11-20 — 15:03:49 UTC	kimbifille, rachyrules, willwin4sure	45	3	15
+348648	2	0	Gray Pink (6 Suits)	2020-11-20 — 15:01:26 UTC	william65537, willwin4sure	38	6	30
+347486	2	0	Clue Starved (6 Suits)	2020-11-19 — 02:50:38 UTC	william65537, willwin4sure	5	6	30
+347481	2	28	Clue Starved (6 Suits)	2020-11-19 — 02:42:01 UTC	william65537, willwin4sure	5	6	30
+347474	2	0	Clue Starved (6 Suits)	2020-11-19 — 02:33:09 UTC	william65537, willwin4sure	5	6	30
+347472	2	0	Clue Starved (6 Suits)	2020-11-19 — 02:29:41 UTC	william65537, willwin4sure	4	6	30
+347466	2	0	Clue Starved (6 Suits)	2020-11-19 — 02:24:58 UTC	william65537, willwin4sure	6	6	30
+347433	2	0	Clue Starved (6 Suits)	2020-11-19 — 01:49:12 UTC	knightofmines, willwin4sure	7	6	30
+347343	2	0	Special Mix (6 Suits)	2020-11-18 — 22:57:55 UTC	william65537, willwin4sure	5	6	30
+347341	2	0	Special Mix (6 Suits)	2020-11-18 — 22:55:58 UTC	william65537, willwin4sure	5	6	30
+347338	2	0	Special Mix (6 Suits)	2020-11-18 — 22:54:19 UTC	william65537, willwin4sure	5	6	30
+347334	2	0	Special Mix (6 Suits)	2020-11-18 — 22:49:48 UTC	william65537, willwin4sure	5	6	30
+347328	2	0	Special Mix (6 Suits)	2020-11-18 — 22:42:27 UTC	william65537, willwin4sure	5	6	30
+347325	2	0	Special Mix (6 Suits)	2020-11-18 — 22:38:31 UTC	william65537, willwin4sure	5	6	30
+347321	2	0	Special Mix (6 Suits)	2020-11-18 — 22:32:23 UTC	william65537, willwin4sure	5	6	30
+347312	2	0	Special Mix (6 Suits)	2020-11-18 — 22:18:45 UTC	william65537, willwin4sure	5	6	30
+347307	2	0	Special Mix (6 Suits)	2020-11-18 — 22:13:45 UTC	william65537, willwin4sure	5	6	30
+347301	2	0	Special Mix (6 Suits)	2020-11-18 — 22:02:22 UTC	william65537, willwin4sure	5	6	30
+347299	2	0	Special Mix (6 Suits)	2020-11-18 — 22:01:17 UTC	william65537, willwin4sure	5	6	30
+346603	2	0	Clue Starved (6 Suits)	2020-11-18 — 00:21:58 UTC	knightofmines, willwin4sure	8	6	30
+346541	2	0	Clue Starved (6 Suits)	2020-11-17 — 22:34:12 UTC	william65537, willwin4sure	9	6	30
+346529	2	30	Clue Starved (6 Suits)	2020-11-17 — 22:21:51 UTC	william65537, willwin4sure	9	6	30
+346519	2	0	Clue Starved (6 Suits)	2020-11-17 — 22:03:08 UTC	william65537, willwin4sure	9	6	30
+346510	2	0	Clue Starved (6 Suits)	2020-11-17 — 21:49:51 UTC	william65537, willwin4sure	9	6	30
+346505	2	0	Clue Starved (6 Suits)	2020-11-17 — 21:42:25 UTC	william65537, willwin4sure	9	6	30
+346503	2	0	Clue Starved (6 Suits)	2020-11-17 — 21:39:33 UTC	william65537, willwin4sure	9	6	30
+346499	2	0	Clue Starved (6 Suits)	2020-11-17 — 21:35:40 UTC	william65537, willwin4sure	9	6	30
+346497	2	0	Clue Starved (6 Suits)	2020-11-17 — 21:31:51 UTC	william65537, willwin4sure	10	6	30
+346491	2	0	Clue Starved (6 Suits)	2020-11-17 — 21:26:21 UTC	william65537, willwin4sure	11	6	30
+346344	2	0	Clue Starved (6 Suits)	2020-11-17 — 20:09:25 UTC	knightofmines, willwin4sure	11	6	30
+346330	2	23	Dark Null (5 Suits)	2020-11-17 — 19:53:32 UTC	william65537, willwin4sure	21	5	25
+346326	2	0	Dark Null (5 Suits)	2020-11-17 — 19:47:13 UTC	william65537, willwin4sure	22	5	25
+346316	2	0	Dark Null (5 Suits)	2020-11-17 — 19:34:25 UTC	william65537, willwin4sure	28	5	25
+346314	2	0	Dark Null (5 Suits)	2020-11-17 — 19:32:40 UTC	william65537, willwin4sure	25	5	25
+346311	2	0	Dark Null (5 Suits)	2020-11-17 — 19:31:46 UTC	william65537, willwin4sure	31	5	25
+346308	2	25	Dark Pink (5 Suits)	2020-11-17 — 19:28:16 UTC	william65537, willwin4sure	9	5	25
+346301	2	0	Dark Pink (5 Suits)	2020-11-17 — 19:20:55 UTC	william65537, willwin4sure	9	5	25
+346255	2	23	Dark Pink (5 Suits)	2020-11-17 — 17:52:52 UTC	william65537, willwin4sure	10	5	25
+346250	2	0	Dark Pink (5 Suits)	2020-11-17 — 17:49:03 UTC	william65537, willwin4sure	13	5	25
+346247	2	0	Dark Pink (5 Suits)	2020-11-17 — 17:45:49 UTC	william65537, willwin4sure	14	5	25
+346244	2	0	Dark Pink (5 Suits)	2020-11-17 — 17:41:02 UTC	william65537, willwin4sure	18	5	25
+346241	2	0	Dark Pink (5 Suits)	2020-11-17 — 17:36:56 UTC	william65537, willwin4sure	19	5	25
+346240	2	0	Dark Pink (5 Suits)	2020-11-17 — 17:35:23 UTC	william65537, willwin4sure	22	5	25
+346238	2	0	Dark Pink (5 Suits)	2020-11-17 — 17:32:41 UTC	william65537, willwin4sure	27	5	25
+346237	2	0	Dark Pink (5 Suits)	2020-11-17 — 17:31:22 UTC	william65537, willwin4sure	33	5	25
+346235	2	0	Dark Pink (5 Suits)	2020-11-17 — 17:29:36 UTC	william65537, willwin4sure	33	5	25
+346233	2	0	Dark Pink (5 Suits)	2020-11-17 — 17:26:32 UTC	william65537, willwin4sure	58	5	25
+346228	2	30	Dark Pink (6 Suits)	2020-11-17 — 17:22:31 UTC	william65537, willwin4sure	7	6	30
+346223	2	0	Dark Pink (6 Suits)	2020-11-17 — 17:15:55 UTC	william65537, willwin4sure	7	6	30
+346221	2	0	Dark Pink (6 Suits)	2020-11-17 — 17:11:30 UTC	william65537, willwin4sure	10	6	30
+346219	2	0	Dark Pink (6 Suits)	2020-11-17 — 17:07:40 UTC	william65537, willwin4sure	11	6	30
+346215	2	0	Dark Pink (6 Suits)	2020-11-17 — 17:03:41 UTC	william65537, willwin4sure	12	6	30
+346213	2	0	Dark Pink (6 Suits)	2020-11-17 — 17:02:28 UTC	william65537, willwin4sure	13	6	30
+346212	2	0	Dark Pink (6 Suits)	2020-11-17 — 17:00:57 UTC	william65537, willwin4sure	12	6	30
+345906	4	0	Black & Dark Prism (6 Suits)	2020-11-17 — 02:32:19 UTC	anser, nukelauncher, william65537, willwin4sure	7	6	30
+345813	2	27	Dark Pink (6 Suits)	2020-11-17 — 00:58:20 UTC	william65537, willwin4sure	13	6	30
+345810	2	0	Dark Pink (6 Suits)	2020-11-17 — 00:54:11 UTC	william65537, willwin4sure	15	6	30
+345808	2	0	Dark Pink (6 Suits)	2020-11-17 — 00:50:59 UTC	william65537, willwin4sure	18	6	30
+345807	2	0	Dark Pink (6 Suits)	2020-11-17 — 00:49:03 UTC	william65537, willwin4sure	24	6	30
+345804	2	0	Dark Pink (6 Suits)	2020-11-17 — 00:45:40 UTC	william65537, willwin4sure	25	6	30
+345800	2	0	Dark Pink (6 Suits)	2020-11-17 — 00:41:48 UTC	william65537, willwin4sure	26	6	30
+345798	2	0	Dark Pink (6 Suits)	2020-11-17 — 00:41:05 UTC	william65537, willwin4sure	29	6	30
+345794	2	0	Dark Pink (6 Suits)	2020-11-17 — 00:37:59 UTC	william65537, willwin4sure	56	6	30
+344952	5	22	Rainbow & Pink (5 Suits)	2020-11-16 — 15:39:04 UTC	Lel0uch, orucsoraihc, swineherd, TimeHoodie, willwin4sure	6	5	25
+344949	2	30	White & Muddy Rainbow (6 Suits)	2020-11-16 — 15:09:46 UTC	william65537, willwin4sure	4	6	30
+344945	2	0	White & Muddy Rainbow (6 Suits)	2020-11-16 — 14:59:54 UTC	william65537, willwin4sure	6	6	30
+344941	2	0	White & Muddy Rainbow (6 Suits)	2020-11-16 — 14:54:22 UTC	william65537, willwin4sure	10	6	30
+344940	2	25	White & Muddy Rainbow (5 Suits)	2020-11-16 — 14:51:39 UTC	william65537, willwin4sure	3	5	25
+344938	2	0	White & Muddy Rainbow (5 Suits)	2020-11-16 — 14:43:47 UTC	william65537, willwin4sure	3	5	25
+344936	2	0	White & Muddy Rainbow (5 Suits)	2020-11-16 — 14:39:18 UTC	william65537, willwin4sure	3	5	25
+344935	2	0	White & Muddy Rainbow (5 Suits)	2020-11-16 — 14:35:43 UTC	william65537, willwin4sure	3	5	25
+344933	2	0	White & Muddy Rainbow (5 Suits)	2020-11-16 — 14:30:48 UTC	william65537, willwin4sure	3	5	25
+344772	2	0	White & Muddy Rainbow (5 Suits)	2020-11-16 — 04:44:43 UTC	william65537, willwin4sure	3	5	25
+344769	2	0	White & Muddy Rainbow (5 Suits)	2020-11-16 — 04:43:17 UTC	william65537, willwin4sure	3	5	25
+344768	2	0	White & Muddy Rainbow (5 Suits)	2020-11-16 — 04:42:08 UTC	william65537, willwin4sure	9	5	25
+344764	2	20	White & Muddy Rainbow (4 Suits)	2020-11-16 — 04:36:55 UTC	william65537, willwin4sure	3	4	20
+344759	2	0	White & Muddy Rainbow (4 Suits)	2020-11-16 — 04:31:34 UTC	william65537, willwin4sure	10	4	20
+344757	2	15	White & Muddy Rainbow (3 Suits)	2020-11-16 — 04:30:10 UTC	william65537, willwin4sure	2	3	15
+344748	2	0	White & Muddy Rainbow (3 Suits)	2020-11-16 — 04:22:43 UTC	william65537, willwin4sure	2	3	15
+344747	2	0	White & Muddy Rainbow (3 Suits)	2020-11-16 — 04:20:34 UTC	william65537, willwin4sure	2	3	15
+344740	2	0	White & Muddy Rainbow (3 Suits)	2020-11-16 — 04:16:10 UTC	william65537, willwin4sure	2	3	15
+344736	2	0	White & Muddy Rainbow (3 Suits)	2020-11-16 — 04:13:02 UTC	william65537, willwin4sure	3	3	15
+344733	2	14	White & Muddy Rainbow (3 Suits)	2020-11-16 — 04:09:26 UTC	william65537, willwin4sure	4	3	15
+344732	2	0	White & Muddy Rainbow (3 Suits)	2020-11-16 — 04:06:31 UTC	william65537, willwin4sure	8	3	15
+344716	2	28	Clue Starved (6 Suits)	2020-11-16 — 03:39:19 UTC	knightofmines, willwin4sure	10	6	30
+344619	2	0	Clue Starved (6 Suits)	2020-11-16 — 02:37:47 UTC	knightofmines, willwin4sure	11	6	30
+344617	2	0	Clue Starved (6 Suits)	2020-11-16 — 02:36:37 UTC	knightofmines, willwin4sure	11	6	30
+344541	3	30	Rainbow-Fives & Dark Prism (6 Suits)	2020-11-16 — 01:28:11 UTC	doctorabi, TimeHoodie, willwin4sure	4	6	30
+344524	4	27	White & Dark Prism (6 Suits)	2020-11-16 — 00:59:32 UTC	doctorabi, Pablo-, TimeHoodie, willwin4sure	2	6	30
+344505	4	0	White & Dark Prism (6 Suits)	2020-11-16 — 00:31:55 UTC	doctorabi, Pablo-, TimeHoodie, willwin4sure	2	6	30
+344500	3	0	Black (5 Suits)	2020-11-16 — 00:17:23 UTC	doctorabi, Pablo-, willwin4sure	29	5	25
+344499	3	0	Black (5 Suits)	2020-11-16 — 00:14:45 UTC	doctorabi, Pablo-, willwin4sure	31	5	25
+344491	3	24	Black (5 Suits)	2020-11-16 — 00:06:20 UTC	doctorabi, Pablo-, willwin4sure	31	5	25
+344216	5	21	Light Pink & Dark Brown (5 Suits)	2020-11-15 — 17:56:59 UTC	anser, Lel0uch, sin_faith, vEnhance, willwin4sure	1	5	25
+344199	4	0	Clue Starved & Brown (5 Suits)	2020-11-15 — 17:32:57 UTC	anser, vEnhance, william65537, willwin4sure	3	5	25
+344196	4	24	Clue Starved & Brown (5 Suits)	2020-11-15 — 17:17:45 UTC	anser, vEnhance, william65537, willwin4sure	4	5	25
+343916	2	30	Muddy Rainbow (6 Suits)	2020-11-15 — 04:33:45 UTC	william65537, willwin4sure	88	6	30
+343913	2	25	Muddy Rainbow (5 Suits)	2020-11-15 — 04:25:10 UTC	william65537, willwin4sure	31	5	25
+343903	2	0	Muddy Rainbow (5 Suits)	2020-11-15 — 04:17:54 UTC	william65537, willwin4sure	34	5	25
+343901	2	0	Muddy Rainbow (5 Suits)	2020-11-15 — 04:16:00 UTC	william65537, willwin4sure	46	5	25
+343897	2	0	Muddy Rainbow (5 Suits)	2020-11-15 — 04:14:40 UTC	william65537, willwin4sure	78	5	25
+343896	2	20	Muddy Rainbow (4 Suits)	2020-11-15 — 04:12:12 UTC	william65537, willwin4sure	47	4	20
+343822	2	15	Muddy Rainbow (3 Suits)	2020-11-15 — 02:46:05 UTC	william65537, willwin4sure	11	3	15
+343813	2	0	Muddy Rainbow (3 Suits)	2020-11-15 — 02:41:01 UTC	william65537, willwin4sure	16	3	15
+343810	2	14	Muddy Rainbow (3 Suits)	2020-11-15 — 02:35:31 UTC	william65537, willwin4sure	23	3	15
+343808	2	0	Muddy Rainbow (3 Suits)	2020-11-15 — 02:30:09 UTC	william65537, willwin4sure	36	3	15
+343805	2	0	Muddy Rainbow (3 Suits)	2020-11-15 — 02:22:40 UTC	william65537, willwin4sure	41	3	15
+343356	2	0	Alternating Clues (6 Suits)	2020-11-14 — 16:59:51 UTC	william65537, willwin4sure	8	6	30
+343352	2	0	Alternating Clues (6 Suits)	2020-11-14 — 16:51:01 UTC	william65537, willwin4sure	9	6	30
+343351	2	0	Alternating Clues (6 Suits)	2020-11-14 — 16:50:02 UTC	william65537, willwin4sure	8	6	30
+343349	2	0	Alternating Clues (6 Suits)	2020-11-14 — 16:44:48 UTC	william65537, willwin4sure	11	6	30
+343348	2	0	Alternating Clues (6 Suits)	2020-11-14 — 16:43:50 UTC	william65537, willwin4sure	13	6	30
+343347	2	0	Alternating Clues (6 Suits)	2020-11-14 — 16:40:20 UTC	william65537, willwin4sure	19	6	30
+343346	2	20	Alternating Clues (4 Suits)	2020-11-14 — 16:39:01 UTC	william65537, willwin4sure	15	4	20
+343344	2	15	Alternating Clues (3 Suits)	2020-11-14 — 16:34:57 UTC	william65537, willwin4sure	5	3	15
+343342	2	0	Alternating Clues (3 Suits)	2020-11-14 — 16:32:12 UTC	william65537, willwin4sure	7	3	15
+343341	2	0	Alternating Clues (3 Suits)	2020-11-14 — 16:29:12 UTC	william65537, willwin4sure	16	3	15
+343339	2	25	Alternating Clues (5 Suits)	2020-11-14 — 16:26:08 UTC	william65537, willwin4sure	39	5	25
+343317	2	0	Clue Starved (6 Suits)	2020-11-14 — 15:11:46 UTC	knightofmines, willwin4sure	12	6	30
+343081	2	0	Null-Ones & Rainbow (5 Suits)	2020-11-14 — 04:41:57 UTC	william65537, willwin4sure	3	5	25
+343080	2	0	Null-Ones & Rainbow (5 Suits)	2020-11-14 — 04:39:34 UTC	william65537, willwin4sure	3	5	25
+343075	2	24	Null-Ones & Rainbow (5 Suits)	2020-11-14 — 04:36:12 UTC	william65537, willwin4sure	3	5	25
+343063	2	15	Rainbow-Fives & Null (3 Suits)	2020-11-14 — 04:25:59 UTC	william65537, willwin4sure	2	3	15
+343056	2	25	Brown-Ones & Gray (5 Suits)	2020-11-14 — 04:20:29 UTC	william65537, willwin4sure	2	5	25
+343050	2	0	Brown-Ones & Gray (5 Suits)	2020-11-14 — 04:14:19 UTC	william65537, willwin4sure	3	5	25
+343047	2	0	Brown-Ones & Gray (5 Suits)	2020-11-14 — 04:10:57 UTC	william65537, willwin4sure	3	5	25
+342811	2	0	Clue Starved (6 Suits)	2020-11-14 — 00:07:16 UTC	william65537, willwin4sure	13	6	30
+342807	2	0	Clue Starved (6 Suits)	2020-11-14 — 00:04:42 UTC	william65537, willwin4sure	13	6	30
+342787	2	0	Clue Starved (6 Suits)	2020-11-13 — 23:58:09 UTC	william65537, willwin4sure	14	6	30
+342770	2	0	Clue Starved (6 Suits)	2020-11-13 — 23:49:15 UTC	william65537, willwin4sure	14	6	30
+342761	2	0	Clue Starved (6 Suits)	2020-11-13 — 23:46:40 UTC	william65537, willwin4sure	14	6	30
+342749	2	0	Clue Starved (6 Suits)	2020-11-13 — 23:42:19 UTC	william65537, willwin4sure	14	6	30
+342545	2	25	Omni & Light Pink (5 Suits)	2020-11-13 — 21:40:35 UTC	william65537, willwin4sure	2	5	25
+342530	2	23	Omni & Light Pink (5 Suits)	2020-11-13 — 21:27:24 UTC	william65537, willwin4sure	2	5	25
+342521	2	0	Omni & Light Pink (5 Suits)	2020-11-13 — 21:15:59 UTC	william65537, willwin4sure	2	5	25
+342515	2	0	Omni & Light Pink (5 Suits)	2020-11-13 — 21:13:05 UTC	william65537, willwin4sure	3	5	25
+342512	2	0	Omni & Light Pink (5 Suits)	2020-11-13 — 21:09:15 UTC	william65537, willwin4sure	3	5	25
+342510	2	0	Omni & Light Pink (5 Suits)	2020-11-13 — 21:06:33 UTC	william65537, willwin4sure	4	5	25
+342500	3	30	White-Fives (6 Suits)	2020-11-13 — 20:54:57 UTC	anser, william65537, willwin4sure	2	6	30
+342483	3	29	White-Fives (6 Suits)	2020-11-13 — 20:28:39 UTC	anser, william65537, willwin4sure	3	6	30
+342462	3	0	White-Fives (6 Suits)	2020-11-13 — 20:00:40 UTC	anser, william65537, willwin4sure	5	6	30
+342397	2	25	Clue Starved (5 Suits)	2020-11-13 — 17:47:58 UTC	william65537, willwin4sure	32	5	25
+342392	2	0	Clue Starved (5 Suits)	2020-11-13 — 17:42:09 UTC	william65537, willwin4sure	46	5	25
+342345	2	30	Clue Starved (6 Suits)	2020-11-13 — 16:04:44 UTC	william65537, willwin4sure	14	6	30
+342337	2	0	Clue Starved (6 Suits)	2020-11-13 — 15:46:30 UTC	william65537, willwin4sure	14	6	30
+342336	2	0	Clue Starved (6 Suits)	2020-11-13 — 15:44:24 UTC	william65537, willwin4sure	17	6	30
+342333	2	0	Clue Starved (6 Suits)	2020-11-13 — 15:41:10 UTC	william65537, willwin4sure	17	6	30
+342328	2	0	Clue Starved (6 Suits)	2020-11-13 — 15:29:50 UTC	william65537, willwin4sure	18	6	30
+342320	2	0	Clue Starved (6 Suits)	2020-11-13 — 15:18:04 UTC	william65537, willwin4sure	21	6	30
+342319	2	0	Clue Starved (6 Suits)	2020-11-13 — 15:15:23 UTC	william65537, willwin4sure	27	6	30
+342317	2	0	Clue Starved (6 Suits)	2020-11-13 — 15:12:48 UTC	william65537, willwin4sure	33	6	30
+342109	2	0	Special Mix (6 Suits)	2020-11-13 — 03:42:59 UTC	nukelauncher, willwin4sure	9	6	30
+342104	2	0	Special Mix (6 Suits)	2020-11-13 — 03:35:00 UTC	nukelauncher, willwin4sure	9	6	30
+342102	2	0	Special Mix (6 Suits)	2020-11-13 — 03:32:32 UTC	nukelauncher, willwin4sure	9	6	30
+342100	2	0	Special Mix (6 Suits)	2020-11-13 — 03:30:46 UTC	nukelauncher, willwin4sure	9	6	30
+341355	5	24	White (5 Suits)	2020-11-12 — 04:09:05 UTC	anser, nukelauncher, spartacle, willwin4sure, Yuchan_Yang	26	5	25
+341189	3	0	White (3 Suits)	2020-11-12 — 00:18:16 UTC	anser, willwin4sure, Yuchan_Yang	29	3	15
+341187	3	0	White (3 Suits)	2020-11-12 — 00:07:30 UTC	anser, willwin4sure, Yuchan_Yang	30	3	15
+341183	3	20	White (4 Suits)	2020-11-11 — 23:51:46 UTC	anser, willwin4sure, Yuchan_Yang	46	4	20
+341121	3	30	Prism (6 Suits)	2020-11-11 — 21:59:15 UTC	doctorabi, ejwu, willwin4sure	20	6	30
+341099	3	0	Prism (6 Suits)	2020-11-11 — 21:32:01 UTC	Bonja97, doctorabi, willwin4sure	11	6	30
+341010	2	30	Pink & Omni (6 Suits)	2020-11-11 — 20:14:48 UTC	william65537, willwin4sure	11	6	30
+341002	2	0	Pink & Omni (6 Suits)	2020-11-11 — 20:04:21 UTC	william65537, willwin4sure	12	6	30
+340999	2	0	Pink & Omni (6 Suits)	2020-11-11 — 20:02:53 UTC	william65537, willwin4sure	14	6	30
+340995	2	25	Pink & Omni (5 Suits)	2020-11-11 — 19:58:52 UTC	william65537, willwin4sure	7	5	25
+340989	2	0	Pink & Omni (5 Suits)	2020-11-11 — 19:49:25 UTC	william65537, willwin4sure	7	5	25
+340977	2	24	Pink & Omni (5 Suits)	2020-11-11 — 19:39:24 UTC	william65537, willwin4sure	8	5	25
+340969	2	0	Pink & Omni (5 Suits)	2020-11-11 — 19:30:50 UTC	william65537, willwin4sure	8	5	25
+340966	2	0	Pink & Omni (5 Suits)	2020-11-11 — 19:29:15 UTC	william65537, willwin4sure	12	5	25
+340963	2	0	Pink & Omni (5 Suits)	2020-11-11 — 19:26:37 UTC	william65537, willwin4sure	12	5	25
+340960	2	0	Pink & Omni (5 Suits)	2020-11-11 — 19:24:09 UTC	william65537, willwin4sure	13	5	25
+340951	2	20	Pink & Omni (4 Suits)	2020-11-11 — 19:16:47 UTC	william65537, willwin4sure	10	4	20
+340942	2	0	Pink & Omni (4 Suits)	2020-11-11 — 19:09:29 UTC	william65537, willwin4sure	13	4	20
+340911	2	15	Pink & Omni (3 Suits)	2020-11-11 — 18:48:57 UTC	william65537, willwin4sure	3	3	15
+340905	2	0	Pink & Omni (3 Suits)	2020-11-11 — 18:45:13 UTC	william65537, willwin4sure	5	3	15
+340903	2	0	Pink & Omni (3 Suits)	2020-11-11 — 18:43:47 UTC	william65537, willwin4sure	6	3	15
+340902	2	0	Pink & Omni (3 Suits)	2020-11-11 — 18:42:48 UTC	william65537, willwin4sure	8	3	15
+340900	2	0	Pink & Omni (3 Suits)	2020-11-11 — 18:42:06 UTC	william65537, willwin4sure	8	3	15
+340896	2	0	Pink & Omni (3 Suits)	2020-11-11 — 18:39:24 UTC	william65537, willwin4sure	10	3	15
+340892	2	0	Pink & Omni (3 Suits)	2020-11-11 — 18:33:37 UTC	william65537, willwin4sure	11	3	15
+340890	2	0	Pink & Omni (3 Suits)	2020-11-11 — 18:31:26 UTC	william65537, willwin4sure	15	3	15
+340590	4	0	3 Suits	2020-11-11 — 04:54:51 UTC	doctorabi, justinh9, vEnhance, willwin4sure	20	3	15
+340577	3	25	White (5 Suits)	2020-11-11 — 04:33:36 UTC	spartacle, vEnhance, willwin4sure	5	5	25
+340551	4	25	White & Brown (5 Suits)	2020-11-11 — 04:02:04 UTC	anser, nukelauncher, vEnhance, willwin4sure	12	5	25
+340532	4	0	White & Brown (5 Suits)	2020-11-11 — 03:42:42 UTC	anser, nukelauncher, vEnhance, willwin4sure	18	5	25
+340513	5	0	White & Brown (5 Suits)	2020-11-11 — 03:25:25 UTC	anser, nukelauncher, vEnhance, william65537, willwin4sure	8	5	25
+340498	4	25	Dark Omni (5 Suits)	2020-11-11 — 03:06:52 UTC	anser, vEnhance, william65537, willwin4sure	6	5	25
+340469	3	28	Pink (6 Suits)	2020-11-11 — 02:40:28 UTC	anser, nukelauncher, willwin4sure	131	6	30
+340382	2	0	Dual-Color & Black (6 Suits)	2020-11-11 — 00:39:58 UTC	william65537, willwin4sure	4	6	30
+340380	2	0	Dual-Color & Black (6 Suits)	2020-11-11 — 00:37:57 UTC	william65537, willwin4sure	4	6	30
+340377	2	0	Dual-Color & Black (6 Suits)	2020-11-11 — 00:34:24 UTC	william65537, willwin4sure	5	6	30
+340369	2	0	Dual-Color & Black (6 Suits)	2020-11-11 — 00:28:06 UTC	william65537, willwin4sure	7	6	30
+340367	2	0	Dual-Color & Black (6 Suits)	2020-11-11 — 00:26:29 UTC	william65537, willwin4sure	8	6	30
+340363	2	0	Dual-Color & Black (6 Suits)	2020-11-11 — 00:23:20 UTC	william65537, willwin4sure	13	6	30
+340362	2	0	Dual-Color & Black (6 Suits)	2020-11-11 — 00:18:17 UTC	william65537, willwin4sure	14	6	30
+340016	2	30	Brown-Ones & Prism (6 Suits)	2020-11-10 — 14:05:54 UTC	william65537, willwin4sure	6	6	30
+340012	2	0	Brown-Ones & Prism (6 Suits)	2020-11-10 — 13:58:06 UTC	william65537, willwin4sure	6	6	30
+340011	2	0	Brown-Ones & Prism (6 Suits)	2020-11-10 — 13:56:06 UTC	william65537, willwin4sure	6	6	30
+339406	2	22	Null-Ones (5 Suits)	2020-11-09 — 20:20:27 UTC	william65537, willwin4sure	2	5	25
+339398	2	0	Null-Ones (5 Suits)	2020-11-09 — 20:17:16 UTC	william65537, willwin4sure	3	5	25
+339395	2	0	Omni-Ones (5 Suits)	2020-11-09 — 20:15:58 UTC	william65537, willwin4sure	2	5	25
+339313	2	0	Omni-Ones (5 Suits)	2020-11-09 — 19:13:35 UTC	william65537, willwin4sure	3	5	25
+339311	2	0	Omni-Ones (5 Suits)	2020-11-09 — 19:13:06 UTC	william65537, willwin4sure	3	5	25
+339308	2	0	Omni-Ones (5 Suits)	2020-11-09 — 19:11:31 UTC	william65537, willwin4sure	3	5	25
+339305	2	0	Omni-Ones (5 Suits)	2020-11-09 — 19:10:42 UTC	william65537, willwin4sure	4	5	25
+339303	2	0	Omni-Ones (5 Suits)	2020-11-09 — 19:08:05 UTC	william65537, willwin4sure	4	5	25
+339302	2	0	Omni-Ones (5 Suits)	2020-11-09 — 19:07:49 UTC	william65537, willwin4sure	4	5	25
+339299	2	0	Omni-Ones (5 Suits)	2020-11-09 — 19:06:41 UTC	william65537, willwin4sure	4	5	25
+339294	2	0	Omni-Ones (5 Suits)	2020-11-09 — 19:04:24 UTC	william65537, willwin4sure	5	5	25
+339289	2	0	Omni-Ones (5 Suits)	2020-11-09 — 19:01:47 UTC	william65537, willwin4sure	8	5	25
+339288	2	0	Omni-Ones (5 Suits)	2020-11-09 — 18:59:56 UTC	william65537, willwin4sure	10	5	25
+339287	2	0	Omni-Ones (5 Suits)	2020-11-09 — 18:58:17 UTC	william65537, willwin4sure	12	5	25
+339284	2	25	Null-Ones (5 Suits)	2020-11-09 — 18:55:58 UTC	william65537, willwin4sure	3	5	25
+339280	2	0	Null-Ones (5 Suits)	2020-11-09 — 18:53:02 UTC	william65537, willwin4sure	4	5	25
+339279	2	0	Null-Ones (5 Suits)	2020-11-09 — 18:50:55 UTC	william65537, willwin4sure	10	5	25
+339276	2	0	Null-Ones (5 Suits)	2020-11-09 — 18:48:52 UTC	william65537, willwin4sure	11	5	25
+339273	2	0	Null-Ones (5 Suits)	2020-11-09 — 18:45:51 UTC	william65537, willwin4sure	14	5	25
+338913	3	0	Rainbow (6 Suits)	2020-11-09 — 04:20:05 UTC	doctorabi, Fey, willwin4sure	61	6	30
+338729	3	0	Prism (6 Suits)	2020-11-08 — 23:28:06 UTC	anser, vEnhance, willwin4sure	11	6	30
+338694	3	30	Prism (6 Suits)	2020-11-08 — 22:47:35 UTC	anser, vEnhance, willwin4sure	11	6	30
+338572	2	0	Black & Dark Prism (6 Suits)	2020-11-08 — 20:15:29 UTC	william65537, willwin4sure	1	6	30
+338569	2	0	Black & Dark Prism (6 Suits)	2020-11-08 — 20:14:49 UTC	william65537, willwin4sure	1	6	30
+338564	2	0	Black & Dark Prism (6 Suits)	2020-11-08 — 20:11:30 UTC	william65537, willwin4sure	1	6	30
+338560	2	0	Black & Dark Prism (6 Suits)	2020-11-08 — 20:06:32 UTC	william65537, willwin4sure	1	6	30
+338557	2	0	Black & Dark Prism (6 Suits)	2020-11-08 — 20:06:20 UTC	william65537, willwin4sure	1	6	30
+338554	2	0	Black & Dark Prism (6 Suits)	2020-11-08 — 20:04:04 UTC	william65537, willwin4sure	1	6	30
+338553	2	0	Black & Dark Prism (6 Suits)	2020-11-08 — 20:00:13 UTC	william65537, willwin4sure	2	6	30
+338548	2	0	Black & Dark Prism (6 Suits)	2020-11-08 — 19:53:14 UTC	william65537, willwin4sure	2	6	30
+338546	2	0	Black & Dark Prism (6 Suits)	2020-11-08 — 19:52:20 UTC	william65537, willwin4sure	2	6	30
+338539	2	0	Black & Dark Prism (6 Suits)	2020-11-08 — 19:44:44 UTC	william65537, willwin4sure	3	6	30
+338535	2	0	Black & Dark Prism (6 Suits)	2020-11-08 — 19:41:08 UTC	william65537, willwin4sure	4	6	30
+338534	2	0	Black & Dark Prism (6 Suits)	2020-11-08 — 19:40:46 UTC	william65537, willwin4sure	4	6	30
+338533	2	0	Black & Dark Prism (6 Suits)	2020-11-08 — 19:40:16 UTC	william65537, willwin4sure	4	6	30
+338530	2	0	Black & Dark Prism (6 Suits)	2020-11-08 — 19:36:57 UTC	william65537, willwin4sure	4	6	30
+338528	2	0	Black & Dark Prism (6 Suits)	2020-11-08 — 19:35:33 UTC	william65537, willwin4sure	4	6	30
+338526	2	0	Black & Dark Prism (6 Suits)	2020-11-08 — 19:32:03 UTC	william65537, willwin4sure	6	6	30
+338524	2	0	Black & Dark Prism (6 Suits)	2020-11-08 — 19:30:08 UTC	william65537, willwin4sure	7	6	30
+338518	2	0	Black & Dark Prism (6 Suits)	2020-11-08 — 19:24:04 UTC	william65537, willwin4sure	7	6	30
+338515	2	0	Black & Dark Prism (6 Suits)	2020-11-08 — 19:21:13 UTC	william65537, willwin4sure	8	6	30
+337993	4	23	No Variant	2020-11-08 — 02:08:57 UTC	peakpoint, shootinglucky, willwin4sure, Yuchan_Yang	308	5	25
+337976	4	24	No Variant	2020-11-08 — 01:43:44 UTC	peakpoint, shootinglucky, willwin4sure, Yuchan_Yang	419	5	25
+337953	3	21	No Variant	2020-11-08 — 01:18:40 UTC	peakpoint, willwin4sure, Yuchan_Yang	1465	5	25
+337873	3	30	Prism (6 Suits)	2020-11-07 — 23:19:40 UTC	anser, vEnhance, willwin4sure	13	6	30
+337800	3	30	Prism (6 Suits)	2020-11-07 — 22:25:09 UTC	anser, vEnhance, willwin4sure	14	6	30
+337747	3	30	Prism (6 Suits)	2020-11-07 — 21:23:57 UTC	anser, vEnhance, willwin4sure	25	6	30
+337726	3	15	Rainbow (3 Suits)	2020-11-07 — 20:55:33 UTC	anser, william65537, willwin4sure	71	3	15
+337721	3	20	Rainbow (4 Suits)	2020-11-07 — 20:41:50 UTC	anser, william65537, willwin4sure	46	4	20
+337246	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-07 — 03:38:55 UTC	william65537, willwin4sure	1	6	30
+337239	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-07 — 03:34:18 UTC	william65537, willwin4sure	1	6	30
+337238	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-07 — 03:33:46 UTC	william65537, willwin4sure	1	6	30
+337235	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-07 — 03:31:48 UTC	william65537, willwin4sure	1	6	30
+337232	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-07 — 03:28:40 UTC	william65537, willwin4sure	1	6	30
+337231	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-07 — 03:28:14 UTC	william65537, willwin4sure	1	6	30
+337225	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-07 — 03:24:35 UTC	william65537, willwin4sure	1	6	30
+337223	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-07 — 03:23:02 UTC	william65537, willwin4sure	1	6	30
+337220	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-07 — 03:20:10 UTC	william65537, willwin4sure	1	6	30
+337217	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-07 — 03:18:09 UTC	william65537, willwin4sure	1	6	30
+337210	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-07 — 03:10:25 UTC	william65537, willwin4sure	1	6	30
+337207	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-07 — 03:06:16 UTC	william65537, willwin4sure	1	6	30
+337203	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-07 — 02:57:34 UTC	william65537, willwin4sure	1	6	30
+337201	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-07 — 02:56:04 UTC	william65537, willwin4sure	1	6	30
+337199	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-07 — 02:52:23 UTC	william65537, willwin4sure	1	6	30
+337196	2	0	Dark Omni & Dark Null (6 Suits)	2020-11-07 — 02:48:55 UTC	william65537, willwin4sure	1	6	30
+337109	2	30	Rainbow & Muddy Rainbow (6 Suits)	2020-11-07 — 00:10:26 UTC	william65537, willwin4sure	10	6	30
+337104	2	25	Rainbow & Muddy Rainbow (5 Suits)	2020-11-07 — 00:01:07 UTC	william65537, willwin4sure	5	5	25
+337096	2	0	Rainbow & Muddy Rainbow (5 Suits)	2020-11-06 — 23:52:00 UTC	william65537, willwin4sure	14	5	25
+337094	2	20	Rainbow & Muddy Rainbow (4 Suits)	2020-11-06 — 23:47:29 UTC	william65537, willwin4sure	7	4	20
+336888	3	0	Rainbow & Muddy Rainbow (4 Suits)	2020-11-06 — 17:56:41 UTC	superbipbip, william65537, willwin4sure	4	4	20
+336878	3	0	Rainbow & Muddy Rainbow (4 Suits)	2020-11-06 — 17:12:58 UTC	superbipbip, william65537, willwin4sure	6	4	20
+336871	2	15	Rainbow & Muddy Rainbow (3 Suits)	2020-11-06 — 16:47:35 UTC	william65537, willwin4sure	8	3	15
+336866	2	0	Rainbow & Muddy Rainbow (3 Suits)	2020-11-06 — 16:37:56 UTC	william65537, willwin4sure	10	3	15
+336394	3	0	Cocoa Rainbow (5 Suits)	2020-11-05 — 23:44:10 UTC	anser, william65537, willwin4sure	29	5	25
+335491	3	30	Prism (6 Suits)	2020-11-04 — 22:13:28 UTC	anser, vEnhance, willwin4sure	36	6	30
+335456	3	0	Prism (6 Suits)	2020-11-04 — 21:44:43 UTC	anser, vEnhance, willwin4sure	45	6	30
+335454	2	25	Omni-Ones & Prism (5 Suits)	2020-11-04 — 21:41:46 UTC	anser, willwin4sure	1	5	25
+335439	2	30	Prism (6 Suits)	2020-11-04 — 21:27:22 UTC	anser, willwin4sure	32	6	30
+335430	2	29	Prism (6 Suits)	2020-11-04 — 21:18:26 UTC	anser, willwin4sure	44	6	30
+335418	2	29	Prism (6 Suits)	2020-11-04 — 21:10:43 UTC	anser, willwin4sure	59	6	30
+335414	2	0	Prism (6 Suits)	2020-11-04 — 21:04:03 UTC	anser, willwin4sure	64	6	30
+335406	2	0	Prism (6 Suits)	2020-11-04 — 20:59:28 UTC	anser, willwin4sure	87	6	30
+335399	2	0	Prism (6 Suits)	2020-11-04 — 20:52:20 UTC	anser, willwin4sure	112	6	30
+335303	4	25	Rainbow (5 Suits)	2020-11-04 — 18:00:27 UTC	anser, nukelauncher, william65537, willwin4sure	68	5	25
+335288	4	15	3 Suits	2020-11-04 — 17:26:33 UTC	anser, nukelauncher, william65537, willwin4sure	24	3	15
+335286	4	13	3 Suits	2020-11-04 — 17:17:07 UTC	anser, nukelauncher, william65537, willwin4sure	26	3	15
+335054	3	30	Null (6 Suits)	2020-11-04 — 04:20:21 UTC	nukelauncher, william65537, willwin4sure	36	6	30
+335031	2	0	Null (5 Suits)	2020-11-04 — 03:50:33 UTC	william65537, willwin4sure	12	5	25
+335029	2	0	Null (5 Suits)	2020-11-04 — 03:48:36 UTC	william65537, willwin4sure	13	5	25
+335023	2	0	Null (5 Suits)	2020-11-04 — 03:43:59 UTC	william65537, willwin4sure	13	5	25
+335019	2	0	Null (5 Suits)	2020-11-04 — 03:39:24 UTC	william65537, willwin4sure	13	5	25
+335017	2	0	Null (5 Suits)	2020-11-04 — 03:36:10 UTC	william65537, willwin4sure	14	5	25
+335013	2	0	Null (5 Suits)	2020-11-04 — 03:32:15 UTC	william65537, willwin4sure	14	5	25
+335010	2	0	Null (5 Suits)	2020-11-04 — 03:29:03 UTC	william65537, willwin4sure	14	5	25
+335008	2	0	Null (5 Suits)	2020-11-04 — 03:26:15 UTC	william65537, willwin4sure	15	5	25
+335005	2	0	Null (5 Suits)	2020-11-04 — 03:21:01 UTC	william65537, willwin4sure	16	5	25
+334988	2	30	Pink (6 Suits)	2020-11-04 — 02:57:47 UTC	anser, willwin4sure	115	6	30
+334982	2	0	Pink (6 Suits)	2020-11-04 — 02:50:58 UTC	anser, willwin4sure	143	6	30
+334932	2	0	Null (5 Suits)	2020-11-04 — 02:00:10 UTC	william65537, willwin4sure	17	5	25
+334930	2	0	Null (5 Suits)	2020-11-04 — 01:56:14 UTC	william65537, willwin4sure	21	5	25
+334924	2	0	Null (5 Suits)	2020-11-04 — 01:45:41 UTC	william65537, willwin4sure	22	5	25
+334921	2	24	Null (5 Suits)	2020-11-04 — 01:38:34 UTC	william65537, willwin4sure	22	5	25
+334913	2	0	Null (5 Suits)	2020-11-04 — 01:31:52 UTC	william65537, willwin4sure	25	5	25
+334912	2	0	Null (5 Suits)	2020-11-04 — 01:30:06 UTC	william65537, willwin4sure	28	5	25
+334909	2	0	Null (5 Suits)	2020-11-04 — 01:27:34 UTC	william65537, willwin4sure	33	5	25
+334907	2	0	Null (5 Suits)	2020-11-04 — 01:26:27 UTC	william65537, willwin4sure	40	5	25
+334901	2	0	Null (5 Suits)	2020-11-04 — 01:22:27 UTC	william65537, willwin4sure	47	5	25
+334896	2	0	Null (5 Suits)	2020-11-04 — 01:18:34 UTC	william65537, willwin4sure	60	5	25
+334892	2	20	Omni (4 Suits)	2020-11-04 — 01:09:19 UTC	william65537, willwin4sure	9	4	20
+334889	2	0	Omni (4 Suits)	2020-11-04 — 01:06:03 UTC	william65537, willwin4sure	10	4	20
+334885	2	0	Omni (4 Suits)	2020-11-04 — 01:03:36 UTC	william65537, willwin4sure	20	4	20
+334882	2	0	Omni (4 Suits)	2020-11-04 — 00:59:53 UTC	william65537, willwin4sure	30	4	20
+334879	2	0	Omni (4 Suits)	2020-11-04 — 00:56:49 UTC	william65537, willwin4sure	59	4	20
+334849	2	25	Omni (5 Suits)	2020-11-04 — 00:11:59 UTC	william65537, willwin4sure	78	5	25
+334845	2	0	Omni (5 Suits)	2020-11-04 — 00:05:42 UTC	william65537, willwin4sure	106	5	25
+334839	2	15	White (3 Suits)	2020-11-03 — 23:59:22 UTC	william65537, willwin4sure	71	3	15
+334837	2	13	White (3 Suits)	2020-11-03 — 23:56:18 UTC	william65537, willwin4sure	95	3	15
+334834	2	20	White (4 Suits)	2020-11-03 — 23:53:27 UTC	william65537, willwin4sure	94	4	20
+334831	2	15	Pink (3 Suits)	2020-11-03 — 23:50:25 UTC	william65537, willwin4sure	87	3	15
+334828	2	30	Black (6 Suits)	2020-11-03 — 23:45:01 UTC	william65537, willwin4sure	275	6	30
+334825	2	0	Black (6 Suits)	2020-11-03 — 23:39:18 UTC	william65537, willwin4sure	294	6	30
+334820	2	0	Black (6 Suits)	2020-11-03 — 23:36:45 UTC	william65537, willwin4sure	300	6	30
+334815	2	0	Black (6 Suits)	2020-11-03 — 23:34:05 UTC	william65537, willwin4sure	325	6	30
+334807	2	0	Black (6 Suits)	2020-11-03 — 23:30:12 UTC	william65537, willwin4sure	350	6	30
+334801	2	0	Black (6 Suits)	2020-11-03 — 23:24:43 UTC	william65537, willwin4sure	391	6	30
+334799	2	0	Black (6 Suits)	2020-11-03 — 23:22:33 UTC	william65537, willwin4sure	442	6	30
+334795	2	0	Black (6 Suits)	2020-11-03 — 23:16:28 UTC	william65537, willwin4sure	546	6	30
+334792	2	0	Black (6 Suits)	2020-11-03 — 23:13:36 UTC	william65537, willwin4sure	643	6	30
+334461	2	15	White & Prism (3 Suits)	2020-11-03 — 16:50:47 UTC	william65537, willwin4sure	15	3	15
+334450	2	20	White & Prism (4 Suits)	2020-11-03 — 16:41:41 UTC	william65537, willwin4sure	13	4	20
+334445	2	0	White & Prism (4 Suits)	2020-11-03 — 16:35:12 UTC	william65537, willwin4sure	16	4	20
+334440	2	30	White & Prism (6 Suits)	2020-11-03 — 16:28:57 UTC	william65537, willwin4sure	23	6	30
+334436	2	25	White & Prism (5 Suits)	2020-11-03 — 16:15:53 UTC	william65537, willwin4sure	3	5	25
+334435	2	0	White & Prism (5 Suits)	2020-11-03 — 16:06:54 UTC	william65537, willwin4sure	10	5	25
+334434	2	0	White & Prism (5 Suits)	2020-11-03 — 16:06:17 UTC	william65537, willwin4sure	12	5	25
+333959	2	0	Up or Down & Pink (6 Suits)	2020-11-02 — 22:12:39 UTC	william65537, willwin4sure	4	6	30
+333956	2	0	Up or Down & Pink (6 Suits)	2020-11-02 — 22:10:35 UTC	william65537, willwin4sure	4	6	30
+333955	2	0	Up or Down & Pink (6 Suits)	2020-11-02 — 22:10:04 UTC	william65537, willwin4sure	5	6	30
+333953	2	0	Up or Down & Pink (6 Suits)	2020-11-02 — 22:05:50 UTC	william65537, willwin4sure	5	6	30
+333949	2	0	Up or Down & Pink (6 Suits)	2020-11-02 — 21:59:17 UTC	william65537, willwin4sure	7	6	30
+333937	2	29	Up or Down & Pink (6 Suits)	2020-11-02 — 21:44:03 UTC	william65537, willwin4sure	9	6	30
+333928	2	28	Up or Down & Pink (6 Suits)	2020-11-02 — 21:33:09 UTC	william65537, willwin4sure	9	6	30
+333714	3	0	White & Prism (5 Suits)	2020-11-02 — 14:45:38 UTC	melwen, plus, willwin4sure	17	5	25
+333703	4	25	Pink (5 Suits)	2020-11-02 — 14:14:39 UTC	Carunty, ebin_noob, melwen, willwin4sure	3	5	25
+333227	2	0	Ambiguous & Null (5 Suits)	2020-11-02 — 02:10:54 UTC	william65537, willwin4sure	2	5	25
+333222	2	0	Ambiguous & Null (5 Suits)	2020-11-02 — 02:07:03 UTC	william65537, willwin4sure	2	5	25
+332835	2	0	Very Ambiguous (6 Suits)	2020-11-01 — 17:04:56 UTC	william65537, willwin4sure	30	6	30
+332833	2	0	Very Ambiguous (6 Suits)	2020-11-01 — 17:00:56 UTC	william65537, willwin4sure	38	6	30
+332831	2	0	Very Ambiguous (6 Suits)	2020-11-01 — 16:58:17 UTC	william65537, willwin4sure	53	6	30
+332826	2	30	Ambiguous (6 Suits)	2020-11-01 — 16:52:57 UTC	william65537, willwin4sure	26	6	30
+332821	2	0	Ambiguous (6 Suits)	2020-11-01 — 16:39:25 UTC	william65537, willwin4sure	29	6	30
+332817	2	0	Ambiguous (6 Suits)	2020-11-01 — 16:32:30 UTC	william65537, willwin4sure	38	6	30
+332814	2	0	Ambiguous (6 Suits)	2020-11-01 — 16:22:13 UTC	william65537, willwin4sure	45	6	30
+332812	2	0	Ambiguous (6 Suits)	2020-11-01 — 16:19:10 UTC	william65537, willwin4sure	51	6	30
+332809	2	0	Ambiguous (6 Suits)	2020-11-01 — 16:11:51 UTC	william65537, willwin4sure	82	6	30
+332804	2	0	Ambiguous (6 Suits)	2020-11-01 — 16:04:01 UTC	william65537, willwin4sure	105	6	30
+332802	2	20	Ambiguous (4 Suits)	2020-11-01 — 15:58:16 UTC	william65537, willwin4sure	84	4	20
+332458	3	21	Black (5 Suits)	2020-11-01 — 01:07:03 UTC	honzas, ksfortson, willwin4sure	31	5	25
+332446	3	22	Black (5 Suits)	2020-11-01 — 00:41:30 UTC	honzas, ksfortson, willwin4sure	44	5	25
+332426	3	22	No Variant	2020-11-01 — 00:14:32 UTC	ksfortson, moeski, willwin4sure	320	5	25
+332395	6	24	Rainbow (5 Suits)	2020-10-31 — 23:47:22 UTC	Jake_Stiles, ksfortson, Kyle, micerang, moeski, willwin4sure	5	5	25
+332372	5	0	Rainbow (5 Suits)	2020-10-31 — 23:21:25 UTC	Jake_Stiles, ksfortson, micerang, moeski, willwin4sure	14	5	25
+332227	3	30	Black (6 Suits)	2020-10-31 — 20:02:57 UTC	nukelauncher, william65537, willwin4sure	325	6	30
+332207	3	15	3 Suits	2020-10-31 — 19:44:38 UTC	nukelauncher, william65537, willwin4sure	144	3	15
+332142	2	20	Light Pink (4 Suits)	2020-10-31 — 17:37:02 UTC	william65537, willwin4sure	17	4	20
+332137	2	0	Light Pink (4 Suits)	2020-10-31 — 17:28:21 UTC	william65537, willwin4sure	25	4	20
+332133	2	0	Light Pink (4 Suits)	2020-10-31 — 17:25:20 UTC	william65537, willwin4sure	43	4	20
+332131	2	15	Light Pink (3 Suits)	2020-10-31 — 17:20:08 UTC	william65537, willwin4sure	45	3	15
+331673	4	30	Light Pink (6 Suits)	2020-10-31 — 02:44:42 UTC	frosty104, IAMJEFF, newduke, willwin4sure	14	6	30
+331643	4	25	No Variant	2020-10-31 — 02:15:13 UTC	frosty104, newduke, willwin4sure, xor_rax_rax	2076	5	25
+331522	2	0	Null & Gray (5 Suits)	2020-10-30 — 23:32:38 UTC	william65537, willwin4sure	1	5	25
+331517	2	0	Null & Gray (5 Suits)	2020-10-30 — 23:21:20 UTC	william65537, willwin4sure	1	5	25
+331516	2	0	Null & Gray (5 Suits)	2020-10-30 — 23:15:07 UTC	william65537, willwin4sure	1	5	25
+331514	2	0	Null & Gray (5 Suits)	2020-10-30 — 23:12:53 UTC	william65537, willwin4sure	1	5	25
+331512	2	0	Null & Gray (5 Suits)	2020-10-30 — 23:10:10 UTC	william65537, willwin4sure	1	5	25
+331511	2	0	Null & Gray (5 Suits)	2020-10-30 — 23:06:53 UTC	william65537, willwin4sure	1	5	25
+331509	2	0	Null & Gray (5 Suits)	2020-10-30 — 23:03:58 UTC	william65537, willwin4sure	1	5	25
+331507	2	0	Null & Gray (5 Suits)	2020-10-30 — 22:58:08 UTC	william65537, willwin4sure	1	5	25
+331502	2	0	Null & Gray (5 Suits)	2020-10-30 — 22:49:55 UTC	william65537, willwin4sure	1	5	25
+331500	2	0	Null & Gray (5 Suits)	2020-10-30 — 22:47:02 UTC	william65537, willwin4sure	1	5	25
+331498	2	0	Null & Gray (5 Suits)	2020-10-30 — 22:42:37 UTC	william65537, willwin4sure	1	5	25
+331494	2	0	Null & Gray (5 Suits)	2020-10-30 — 22:34:07 UTC	william65537, willwin4sure	1	5	25
+331492	2	0	Null & Gray (5 Suits)	2020-10-30 — 22:28:53 UTC	william65537, willwin4sure	1	5	25
+331488	2	0	Null & Gray (5 Suits)	2020-10-30 — 22:24:13 UTC	william65537, willwin4sure	1	5	25
+331220	2	0	Null & Gray (5 Suits)	2020-10-30 — 16:09:26 UTC	william65537, willwin4sure	1	5	25
+331217	2	0	Null & Gray (5 Suits)	2020-10-30 — 16:03:27 UTC	william65537, willwin4sure	1	5	25
+331211	2	0	Null & Gray (5 Suits)	2020-10-30 — 15:53:45 UTC	william65537, willwin4sure	1	5	25
+331209	2	0	Null & Gray (5 Suits)	2020-10-30 — 15:49:14 UTC	william65537, willwin4sure	1	5	25
+331208	2	0	Null & Gray (5 Suits)	2020-10-30 — 15:47:35 UTC	william65537, willwin4sure	1	5	25
+331205	2	0	Null & Gray (5 Suits)	2020-10-30 — 15:45:05 UTC	william65537, willwin4sure	2	5	25
+331201	2	0	Null & Gray (5 Suits)	2020-10-30 — 15:41:36 UTC	william65537, willwin4sure	3	5	25
+331195	2	0	Null & Gray (5 Suits)	2020-10-30 — 15:36:10 UTC	william65537, willwin4sure	3	5	25
+331190	2	24	Null & Gray (5 Suits)	2020-10-30 — 15:31:32 UTC	william65537, willwin4sure	3	5	25
+331180	2	0	Null & Gray (5 Suits)	2020-10-30 — 15:22:08 UTC	william65537, willwin4sure	4	5	25
+331173	2	0	Null & Gray (5 Suits)	2020-10-30 — 15:16:15 UTC	william65537, willwin4sure	4	5	25
+331168	2	0	Null & Gray (5 Suits)	2020-10-30 — 15:10:57 UTC	william65537, willwin4sure	4	5	25
+330876	4	28	Prism (6 Suits)	2020-10-30 — 03:10:08 UTC	anser, newduke, vEnhance, willwin4sure	26	6	30
+330854	3	0	Prism (6 Suits)	2020-10-30 — 02:36:31 UTC	anser, vEnhance, willwin4sure	60	6	30
+330829	3	0	Prism (6 Suits)	2020-10-30 — 02:15:29 UTC	anser, vEnhance, willwin4sure	84	6	30
+330689	2	15	Rainbow (3 Suits)	2020-10-29 — 22:41:14 UTC	william65537, willwin4sure	127	3	15
+330134	2	0	Omni-Ones & Gray (6 Suits)	2020-10-28 — 23:57:41 UTC	william65537, willwin4sure	1	6	30
+330132	2	0	Omni-Ones & Gray (6 Suits)	2020-10-28 — 23:50:22 UTC	william65537, willwin4sure	1	6	30
+330130	2	0	Omni-Ones & Gray (6 Suits)	2020-10-28 — 23:45:28 UTC	william65537, willwin4sure	1	6	30
+330128	2	0	Omni-Ones & Gray (6 Suits)	2020-10-28 — 23:44:22 UTC	william65537, willwin4sure	1	6	30
+329851	2	15	Null (3 Suits)	2020-10-28 — 15:42:57 UTC	william65537, willwin4sure	26	3	15
+329850	2	0	Null (3 Suits)	2020-10-28 — 15:37:17 UTC	william65537, willwin4sure	37	3	15
+329846	2	0	Null (3 Suits)	2020-10-28 — 15:31:39 UTC	william65537, willwin4sure	56	3	15
+329459	2	30	Dual-Color (6 Suits)	2020-10-27 — 23:00:19 UTC	william65537, willwin4sure	71	6	30
+329446	2	0	Dual-Color (6 Suits)	2020-10-27 — 22:47:30 UTC	william65537, willwin4sure	87	6	30
+329437	2	25	Black & White (5 Suits)	2020-10-27 — 22:39:00 UTC	william65537, willwin4sure	30	5	25
+329431	2	0	Black & White (5 Suits)	2020-10-27 — 22:31:21 UTC	william65537, willwin4sure	31	5	25
+329426	2	0	Black & White (5 Suits)	2020-10-27 — 22:25:39 UTC	william65537, willwin4sure	45	5	25
+329423	2	0	Black & White (5 Suits)	2020-10-27 — 22:22:42 UTC	william65537, willwin4sure	51	5	25
+329049	3	24	No Variant	2020-10-27 — 04:01:09 UTC	brendonitis, dogui, willwin4sure	2606	5	25
+328828	2	0	Black & Dark Pink (6 Suits)	2020-10-26 — 22:09:50 UTC	william65537, willwin4sure	11	6	30
+328818	2	0	Black & Dark Pink (6 Suits)	2020-10-26 — 22:01:44 UTC	william65537, willwin4sure	11	6	30
+328817	2	0	Black & Dark Pink (6 Suits)	2020-10-26 — 22:00:03 UTC	william65537, willwin4sure	11	6	30
+328814	2	27	Black & Dark Pink (6 Suits)	2020-10-26 — 21:59:15 UTC	william65537, willwin4sure	11	6	30
+328415	3	25	Duck (5 Suits)	2020-10-26 — 03:14:14 UTC	anser, vEnhance, willwin4sure	9	5	25
+328391	3	25	Duck (5 Suits)	2020-10-26 — 02:44:05 UTC	anser, vEnhance, willwin4sure	10	5	25
+328360	3	0	Duck (6 Suits)	2020-10-26 — 01:26:59 UTC	anser, vEnhance, willwin4sure	8	6	30
+328346	3	0	Duck (6 Suits)	2020-10-26 — 00:51:21 UTC	anser, vEnhance, willwin4sure	9	6	30
+328274	2	0	Null-Ones & Omni (6 Suits)	2020-10-25 — 23:02:38 UTC	william65537, willwin4sure	1	6	30
+328268	2	0	Null-Ones & Omni (6 Suits)	2020-10-25 — 22:59:39 UTC	william65537, willwin4sure	1	6	30
+328257	2	0	Null-Ones & Omni (6 Suits)	2020-10-25 — 22:54:47 UTC	william65537, willwin4sure	1	6	30
+328256	2	0	Null-Ones & Omni (6 Suits)	2020-10-25 — 22:54:18 UTC	william65537, willwin4sure	1	6	30
+328254	2	0	Null-Ones & Omni (6 Suits)	2020-10-25 — 22:49:53 UTC	william65537, willwin4sure	1	6	30
+328248	2	0	Null-Ones & Omni (6 Suits)	2020-10-25 — 22:42:04 UTC	william65537, willwin4sure	1	6	30
+328242	2	0	Null-Ones & Omni (6 Suits)	2020-10-25 — 22:35:40 UTC	william65537, willwin4sure	1	6	30
+328234	2	0	Null-Ones & Omni (6 Suits)	2020-10-25 — 22:22:05 UTC	william65537, willwin4sure	1	6	30
+328231	2	0	Null-Ones & Omni (6 Suits)	2020-10-25 — 22:19:44 UTC	william65537, willwin4sure	1	6	30
+328229	2	0	Null-Ones & Omni (6 Suits)	2020-10-25 — 22:18:19 UTC	william65537, willwin4sure	1	6	30
+328003	2	30	Totally Blind (6 Suits)	2020-10-25 — 15:42:26 UTC	william65537, willwin4sure	6	6	30
+328000	2	0	Totally Blind (6 Suits)	2020-10-25 — 15:37:24 UTC	william65537, willwin4sure	10	6	30
+327997	2	29	Totally Blind (6 Suits)	2020-10-25 — 15:34:16 UTC	william65537, willwin4sure	13	6	30
+327996	2	0	Totally Blind (6 Suits)	2020-10-25 — 15:28:13 UTC	william65537, willwin4sure	23	6	30
+327981	2	30	Null-Ones & Black (6 Suits)	2020-10-25 — 14:31:36 UTC	william65537, willwin4sure	2	6	30
+327977	2	0	Null-Ones & Black (6 Suits)	2020-10-25 — 14:16:19 UTC	william65537, willwin4sure	2	6	30
+327726	3	24	Duck (5 Suits)	2020-10-25 — 02:43:18 UTC	anser, vEnhance, willwin4sure	10	5	25
+327692	3	25	Duck (5 Suits)	2020-10-25 — 01:56:22 UTC	anser, vEnhance, willwin4sure	10	5	25
+327636	3	29	Duck (6 Suits)	2020-10-25 — 01:06:05 UTC	anser, vEnhance, willwin4sure	12	6	30
+327617	3	25	Duck (5 Suits)	2020-10-25 — 00:31:07 UTC	anser, vEnhance, willwin4sure	15	5	25
+327587	3	0	Black & Gray (6 Suits)	2020-10-24 — 23:17:31 UTC	anser, nukelauncher, willwin4sure	5	6	30
+327570	3	0	Black & Gray (6 Suits)	2020-10-24 — 22:54:08 UTC	anser, nukelauncher, willwin4sure	5	6	30
+327315	2	0	Duck (6 Suits)	2020-10-24 — 14:15:36 UTC	william65537, willwin4sure	12	6	30
+327310	2	0	Duck (6 Suits)	2020-10-24 — 14:05:06 UTC	william65537, willwin4sure	22	6	30
+327060	2	25	No Variant	2020-10-24 — 04:11:17 UTC	anser, willwin4sure	43	5	25
+327058	2	0	No Variant	2020-10-24 — 04:10:02 UTC	anser, willwin4sure	44	5	25
+327057	2	0	No Variant	2020-10-24 — 04:09:40 UTC	anser, willwin4sure	44	5	25
+327055	2	0	No Variant	2020-10-24 — 04:09:12 UTC	anser, willwin4sure	44	5	25
+327054	2	0	No Variant	2020-10-24 — 04:08:49 UTC	anser, willwin4sure	45	5	25
+327052	2	0	No Variant	2020-10-24 — 04:08:26 UTC	anser, willwin4sure	45	5	25
+327050	2	22	No Variant	2020-10-24 — 04:07:29 UTC	anser, willwin4sure	45	5	25
+327048	2	0	No Variant	2020-10-24 — 04:06:09 UTC	anser, willwin4sure	44	5	25
+327046	2	0	No Variant	2020-10-24 — 04:05:40 UTC	anser, willwin4sure	45	5	25
+327045	2	0	No Variant	2020-10-24 — 04:05:18 UTC	anser, willwin4sure	44	5	25
+327042	2	0	No Variant	2020-10-24 — 04:04:12 UTC	anser, willwin4sure	44	5	25
+327041	2	0	No Variant	2020-10-24 — 04:03:54 UTC	anser, willwin4sure	44	5	25
+327040	2	0	No Variant	2020-10-24 — 04:02:14 UTC	anser, willwin4sure	43	5	25
+327039	2	0	No Variant	2020-10-24 — 04:01:49 UTC	anser, willwin4sure	45	5	25
+327038	2	0	No Variant	2020-10-24 — 04:01:38 UTC	anser, willwin4sure	45	5	25
+327037	2	0	No Variant	2020-10-24 — 04:01:10 UTC	anser, willwin4sure	46	5	25
+327036	2	0	No Variant	2020-10-24 — 04:00:48 UTC	anser, willwin4sure	47	5	25
+327034	2	0	No Variant	2020-10-24 — 04:00:20 UTC	anser, willwin4sure	47	5	25
+327033	2	0	No Variant	2020-10-24 — 03:59:55 UTC	anser, willwin4sure	47	5	25
+327032	2	0	No Variant	2020-10-24 — 03:59:38 UTC	anser, willwin4sure	47	5	25
+327031	2	0	No Variant	2020-10-24 — 03:59:04 UTC	anser, willwin4sure	47	5	25
+327030	2	0	No Variant	2020-10-24 — 03:58:26 UTC	anser, willwin4sure	47	5	25
+327029	2	0	No Variant	2020-10-24 — 03:57:58 UTC	anser, willwin4sure	47	5	25
+327027	2	0	No Variant	2020-10-24 — 03:57:18 UTC	anser, willwin4sure	47	5	25
+327024	2	0	No Variant	2020-10-24 — 03:56:50 UTC	anser, willwin4sure	47	5	25
+327023	2	0	No Variant	2020-10-24 — 03:56:31 UTC	anser, willwin4sure	47	5	25
+327022	2	0	No Variant	2020-10-24 — 03:56:07 UTC	anser, willwin4sure	47	5	25
+327020	2	0	No Variant	2020-10-24 — 03:54:42 UTC	anser, willwin4sure	48	5	25
+327019	2	0	No Variant	2020-10-24 — 03:54:19 UTC	anser, willwin4sure	48	5	25
+327018	2	0	No Variant	2020-10-24 — 03:54:04 UTC	anser, willwin4sure	50	5	25
+327017	2	0	No Variant	2020-10-24 — 03:53:52 UTC	anser, willwin4sure	50	5	25
+327016	2	0	No Variant	2020-10-24 — 03:53:42 UTC	anser, willwin4sure	51	5	25
+327015	2	0	No Variant	2020-10-24 — 03:53:21 UTC	anser, willwin4sure	51	5	25
+327014	2	0	No Variant	2020-10-24 — 03:53:13 UTC	anser, willwin4sure	51	5	25
+327012	2	0	No Variant	2020-10-24 — 03:52:33 UTC	anser, willwin4sure	51	5	25
+327011	2	0	No Variant	2020-10-24 — 03:52:23 UTC	anser, willwin4sure	51	5	25
+327010	2	0	No Variant	2020-10-24 — 03:52:04 UTC	anser, willwin4sure	52	5	25
+327009	2	0	No Variant	2020-10-24 — 03:51:48 UTC	anser, willwin4sure	52	5	25
+327007	2	0	No Variant	2020-10-24 — 03:51:24 UTC	anser, willwin4sure	51	5	25
+327006	2	0	No Variant	2020-10-24 — 03:51:00 UTC	anser, willwin4sure	52	5	25
+327005	2	0	No Variant	2020-10-24 — 03:50:32 UTC	anser, willwin4sure	52	5	25
+327004	2	0	No Variant	2020-10-24 — 03:49:45 UTC	anser, willwin4sure	52	5	25
+327003	2	0	No Variant	2020-10-24 — 03:48:40 UTC	anser, willwin4sure	52	5	25
+327000	2	0	No Variant	2020-10-24 — 03:47:47 UTC	anser, willwin4sure	52	5	25
+326996	2	25	No Variant	2020-10-24 — 03:44:56 UTC	anser, willwin4sure	52	5	25
+326995	2	0	No Variant	2020-10-24 — 03:43:42 UTC	anser, willwin4sure	52	5	25
+326994	2	0	No Variant	2020-10-24 — 03:43:36 UTC	anser, willwin4sure	52	5	25
+326992	2	0	No Variant	2020-10-24 — 03:43:02 UTC	anser, willwin4sure	52	5	25
+326990	2	0	No Variant	2020-10-24 — 03:41:56 UTC	anser, willwin4sure	53	5	25
+326989	2	0	No Variant	2020-10-24 — 03:41:27 UTC	anser, willwin4sure	53	5	25
+326988	2	0	No Variant	2020-10-24 — 03:40:47 UTC	anser, willwin4sure	53	5	25
+326987	2	0	No Variant	2020-10-24 — 03:39:57 UTC	anser, willwin4sure	53	5	25
+326984	2	0	No Variant	2020-10-24 — 03:39:00 UTC	anser, willwin4sure	53	5	25
+326983	2	0	No Variant	2020-10-24 — 03:38:20 UTC	anser, willwin4sure	53	5	25
+326982	2	0	No Variant	2020-10-24 — 03:37:47 UTC	anser, willwin4sure	53	5	25
+326981	2	0	No Variant	2020-10-24 — 03:37:22 UTC	anser, willwin4sure	53	5	25
+326980	2	0	No Variant	2020-10-24 — 03:36:51 UTC	anser, willwin4sure	53	5	25
+326979	2	0	No Variant	2020-10-24 — 03:36:28 UTC	anser, willwin4sure	53	5	25
+326977	2	0	No Variant	2020-10-24 — 03:35:45 UTC	anser, willwin4sure	53	5	25
+326976	2	0	No Variant	2020-10-24 — 03:35:22 UTC	anser, willwin4sure	53	5	25
+326975	2	0	No Variant	2020-10-24 — 03:35:12 UTC	anser, willwin4sure	53	5	25
+326974	2	0	No Variant	2020-10-24 — 03:35:03 UTC	anser, willwin4sure	55	5	25
+326973	2	0	No Variant	2020-10-24 — 03:34:30 UTC	anser, willwin4sure	55	5	25
+326971	2	0	No Variant	2020-10-24 — 03:33:47 UTC	anser, willwin4sure	55	5	25
+326969	2	0	No Variant	2020-10-24 — 03:33:37 UTC	anser, willwin4sure	55	5	25
+326968	2	0	No Variant	2020-10-24 — 03:33:31 UTC	anser, willwin4sure	63	5	25
+326967	2	0	No Variant	2020-10-24 — 03:33:06 UTC	anser, willwin4sure	212	5	25
+326965	2	0	No Variant	2020-10-24 — 03:32:43 UTC	anser, willwin4sure	215	5	25
+326964	2	0	No Variant	2020-10-24 — 03:32:22 UTC	anser, willwin4sure	220	5	25
+326963	2	0	No Variant	2020-10-24 — 03:31:23 UTC	anser, willwin4sure	220	5	25
+326960	2	0	No Variant	2020-10-24 — 03:30:46 UTC	anser, willwin4sure	225	5	25
+326957	2	0	No Variant	2020-10-24 — 03:30:18 UTC	anser, willwin4sure	228	5	25
+326956	2	0	No Variant	2020-10-24 — 03:29:43 UTC	anser, willwin4sure	231	5	25
+326955	2	0	No Variant	2020-10-24 — 03:29:36 UTC	anser, willwin4sure	244	5	25
+326953	2	0	No Variant	2020-10-24 — 03:28:53 UTC	anser, willwin4sure	249	5	25
+326952	2	0	No Variant	2020-10-24 — 03:28:22 UTC	anser, willwin4sure	254	5	25
+326950	2	0	No Variant	2020-10-24 — 03:27:35 UTC	anser, willwin4sure	259	5	25
+326886	2	25	Brown (5 Suits)	2020-10-24 — 01:52:41 UTC	william65537, willwin4sure	50	5	25
+326882	2	0	Brown (5 Suits)	2020-10-24 — 01:41:43 UTC	william65537, willwin4sure	56	5	25
+326881	2	0	Brown (5 Suits)	2020-10-24 — 01:39:37 UTC	william65537, willwin4sure	124	5	25
+326841	3	0	Black & Gray (6 Suits)	2020-10-24 — 00:27:20 UTC	ejwu, william65537, willwin4sure	6	6	30
+326840	2	0	Black & Gray (6 Suits)	2020-10-24 — 00:21:17 UTC	william65537, willwin4sure	14	6	30
+326839	2	0	Black & Gray (6 Suits)	2020-10-24 — 00:20:41 UTC	william65537, willwin4sure	14	6	30
+326836	2	0	Black & Gray (6 Suits)	2020-10-24 — 00:19:15 UTC	william65537, willwin4sure	15	6	30
+326832	2	0	Black & Gray (6 Suits)	2020-10-24 — 00:13:46 UTC	william65537, willwin4sure	17	6	30
+326829	2	0	Black & Gray (6 Suits)	2020-10-24 — 00:07:14 UTC	william65537, willwin4sure	18	6	30
+326824	2	0	Black & Gray (6 Suits)	2020-10-24 — 00:01:30 UTC	william65537, willwin4sure	19	6	30
+326822	2	0	Black & Gray (6 Suits)	2020-10-23 — 23:59:50 UTC	william65537, willwin4sure	19	6	30
+326820	2	0	Black & Gray (6 Suits)	2020-10-23 — 23:56:33 UTC	william65537, willwin4sure	24	6	30
+326745	2	30	Ambiguous Mix	2020-10-23 — 22:03:39 UTC	william65537, willwin4sure	24	6	30
+326737	2	0	Ambiguous Mix	2020-10-23 — 21:54:03 UTC	william65537, willwin4sure	26	6	30
+326735	2	0	Ambiguous Mix	2020-10-23 — 21:51:54 UTC	william65537, willwin4sure	25	6	30
+326732	2	0	Ambiguous Mix	2020-10-23 — 21:47:24 UTC	william65537, willwin4sure	26	6	30
+326729	2	0	Ambiguous Mix	2020-10-23 — 21:41:13 UTC	william65537, willwin4sure	31	6	30
+326658	3	0	Duck (5 Suits)	2020-10-23 — 19:26:32 UTC	anser, vEnhance, willwin4sure	14	5	25
+326651	3	0	Duck (5 Suits)	2020-10-23 — 19:17:50 UTC	anser, vEnhance, willwin4sure	14	5	25
+326648	3	0	Duck (5 Suits)	2020-10-23 — 19:13:20 UTC	anser, vEnhance, willwin4sure	15	5	25
+326643	3	15	Duck (3 Suits)	2020-10-23 — 19:01:44 UTC	anser, vEnhance, willwin4sure	21	3	15
+326628	3	20	Duck (4 Suits)	2020-10-23 — 18:35:05 UTC	anser, vEnhance, willwin4sure	2	4	20
+326562	2	0	Muddy Rainbow & Dark Rainbow (6 Suits)	2020-10-23 — 16:39:58 UTC	william65537, willwin4sure	2	6	30
+326561	2	0	Muddy Rainbow & Dark Rainbow (6 Suits)	2020-10-23 — 16:38:45 UTC	william65537, willwin4sure	2	6	30
+326555	2	0	Muddy Rainbow & Dark Rainbow (6 Suits)	2020-10-23 — 16:32:14 UTC	william65537, willwin4sure	3	6	30
+326552	2	0	Muddy Rainbow & Dark Rainbow (6 Suits)	2020-10-23 — 16:28:17 UTC	william65537, willwin4sure	3	6	30
+326550	2	30	Black & Dark Rainbow (6 Suits)	2020-10-23 — 16:22:07 UTC	william65537, willwin4sure	13	6	30
+326542	2	0	Black & Dark Rainbow (6 Suits)	2020-10-23 — 16:10:25 UTC	william65537, willwin4sure	13	6	30
+325242	2	0	Special Mix (6 Suits)	2020-10-21 — 20:41:28 UTC	nukelauncher, willwin4sure	9	6	30
+325233	2	0	Special Mix (6 Suits)	2020-10-21 — 20:28:45 UTC	nukelauncher, willwin4sure	9	6	30
+325213	2	0	No Variant	2020-10-21 — 20:04:52 UTC	rachyrules, willwin4sure	23	5	25
+325210	2	0	No Variant	2020-10-21 — 20:03:39 UTC	rachyrules, willwin4sure	23	5	25
+325209	2	0	No Variant	2020-10-21 — 20:02:50 UTC	rachyrules, willwin4sure	23	5	25
+325205	2	23	No Variant	2020-10-21 — 20:01:14 UTC	rachyrules, willwin4sure	23	5	25
+325201	2	0	No Variant	2020-10-21 — 19:59:49 UTC	rachyrules, willwin4sure	23	5	25
+325200	2	0	No Variant	2020-10-21 — 19:59:33 UTC	rachyrules, willwin4sure	23	5	25
+325197	2	24	No Variant	2020-10-21 — 19:58:43 UTC	rachyrules, willwin4sure	24	5	25
+325194	2	25	No Variant	2020-10-21 — 19:56:49 UTC	rachyrules, willwin4sure	24	5	25
+325192	2	25	No Variant	2020-10-21 — 19:54:51 UTC	rachyrules, willwin4sure	24	5	25
+325190	2	0	No Variant	2020-10-21 — 19:53:04 UTC	rachyrules, willwin4sure	24	5	25
+325187	2	0	No Variant	2020-10-21 — 19:52:01 UTC	rachyrules, willwin4sure	24	5	25
+325184	2	0	No Variant	2020-10-21 — 19:50:57 UTC	rachyrules, willwin4sure	24	5	25
+325181	2	25	No Variant	2020-10-21 — 19:50:48 UTC	rachyrules, willwin4sure	24	5	25
+325178	4	0	No Variant	2020-10-21 — 19:47:57 UTC	ebin_noob, rachyrules, Valetta6789, willwin4sure	158	5	25
+325175	4	0	No Variant	2020-10-21 — 19:46:49 UTC	ebin_noob, rachyrules, Valetta6789, willwin4sure	162	5	25
+325174	4	0	No Variant	2020-10-21 — 19:45:52 UTC	ebin_noob, rachyrules, Valetta6789, willwin4sure	204	5	25
+325170	2	25	No Variant	2020-10-21 — 19:43:05 UTC	rachyrules, willwin4sure	24	5	25
+325169	2	25	No Variant	2020-10-21 — 19:41:09 UTC	rachyrules, willwin4sure	24	5	25
+325165	2	24	No Variant	2020-10-21 — 19:38:55 UTC	rachyrules, willwin4sure	24	5	25
+325162	2	0	No Variant	2020-10-21 — 19:36:40 UTC	rachyrules, willwin4sure	24	5	25
+325161	2	0	No Variant	2020-10-21 — 19:35:15 UTC	rachyrules, willwin4sure	24	5	25
+325159	2	0	No Variant	2020-10-21 — 19:33:59 UTC	rachyrules, willwin4sure	24	5	25
+324067	2	0	Black & Dark Omni (6 Suits)	2020-10-20 — 00:08:26 UTC	william65537, willwin4sure	4	6	30
+324062	2	0	Black & Dark Omni (6 Suits)	2020-10-20 — 00:06:33 UTC	william65537, willwin4sure	4	6	30
+324059	2	27	Black & Dark Omni (6 Suits)	2020-10-20 — 00:00:54 UTC	william65537, willwin4sure	5	6	30
+324054	2	0	Black & Dark Omni (6 Suits)	2020-10-19 — 23:52:11 UTC	william65537, willwin4sure	5	6	30
+324053	2	0	Black & Dark Omni (6 Suits)	2020-10-19 — 23:48:47 UTC	william65537, willwin4sure	6	6	30
+323879	2	24	No Variant	2020-10-19 — 19:44:09 UTC	william65537, willwin4sure	211	5	25
+323877	2	0	No Variant	2020-10-19 — 19:42:14 UTC	william65537, willwin4sure	257	5	25
+323876	2	0	No Variant	2020-10-19 — 19:40:42 UTC	william65537, willwin4sure	264	5	25
+323874	2	0	No Variant	2020-10-19 — 19:39:09 UTC	william65537, willwin4sure	271	5	25
+323731	2	0	Special Mix (6 Suits)	2020-10-19 — 16:09:13 UTC	william65537, willwin4sure	9	6	30
+323728	2	0	Special Mix (6 Suits)	2020-10-19 — 16:03:41 UTC	william65537, willwin4sure	9	6	30
+323727	2	0	Special Mix (6 Suits)	2020-10-19 — 16:02:07 UTC	william65537, willwin4sure	10	6	30
+323723	2	0	Special Mix (6 Suits)	2020-10-19 — 15:55:57 UTC	william65537, willwin4sure	11	6	30
+323719	2	0	Special Mix (6 Suits)	2020-10-19 — 15:45:40 UTC	william65537, willwin4sure	11	6	30
+323715	2	0	Special Mix (6 Suits)	2020-10-19 — 15:40:47 UTC	william65537, willwin4sure	11	6	30
+323710	2	0	Special Mix (6 Suits)	2020-10-19 — 15:30:29 UTC	william65537, willwin4sure	12	6	30
+323709	2	0	Special Mix (6 Suits)	2020-10-19 — 15:25:22 UTC	william65537, willwin4sure	11	6	30
+323708	2	0	Special Mix (6 Suits)	2020-10-19 — 15:23:42 UTC	william65537, willwin4sure	12	6	30
+323707	2	0	Special Mix (6 Suits)	2020-10-19 — 15:18:37 UTC	william65537, willwin4sure	12	6	30
+323705	2	0	Special Mix (6 Suits)	2020-10-19 — 15:10:21 UTC	william65537, willwin4sure	12	6	30
+323701	2	0	Special Mix (6 Suits)	2020-10-19 — 14:54:38 UTC	william65537, willwin4sure	13	6	30
+323698	2	0	Special Mix (6 Suits)	2020-10-19 — 14:41:00 UTC	william65537, willwin4sure	13	6	30
+323697	2	0	Special Mix (6 Suits)	2020-10-19 — 14:36:52 UTC	william65537, willwin4sure	12	6	30
+323696	2	0	Special Mix (6 Suits)	2020-10-19 — 14:35:26 UTC	william65537, willwin4sure	13	6	30
+323695	2	0	Special Mix (6 Suits)	2020-10-19 — 14:33:53 UTC	william65537, willwin4sure	13	6	30
+323691	2	0	Special Mix (6 Suits)	2020-10-19 — 14:24:16 UTC	william65537, willwin4sure	12	6	30
+323687	2	0	Special Mix (6 Suits)	2020-10-19 — 14:19:19 UTC	william65537, willwin4sure	12	6	30
+323554	3	0	Duck (4 Suits)	2020-10-19 — 04:48:34 UTC	anser, vEnhance, willwin4sure	2	4	20
+323531	3	19	Duck (4 Suits)	2020-10-19 — 04:19:14 UTC	anser, vEnhance, willwin4sure	2	4	20
+323505	3	19	Duck (4 Suits)	2020-10-19 — 03:43:22 UTC	anser, vEnhance, willwin4sure	2	4	20
+323485	3	18	Duck (4 Suits)	2020-10-19 — 03:15:51 UTC	anser, vEnhance, willwin4sure	5	4	20
+323464	3	0	Duck (4 Suits)	2020-10-19 — 02:50:16 UTC	anser, vEnhance, willwin4sure	4	4	20
+323448	2	0	Special Mix (6 Suits)	2020-10-19 — 02:33:23 UTC	william65537, willwin4sure	15	6	30
+323446	2	0	Special Mix (6 Suits)	2020-10-19 — 02:31:58 UTC	william65537, willwin4sure	15	6	30
+323438	2	0	Special Mix (6 Suits)	2020-10-19 — 02:20:37 UTC	william65537, willwin4sure	17	6	30
+323432	2	0	Special Mix (6 Suits)	2020-10-19 — 02:15:29 UTC	william65537, willwin4sure	17	6	30
+323429	2	0	Special Mix (6 Suits)	2020-10-19 — 02:11:52 UTC	william65537, willwin4sure	20	6	30
+323422	2	0	Special Mix (6 Suits)	2020-10-19 — 02:05:36 UTC	william65537, willwin4sure	24	6	30
+323419	2	0	Special Mix (6 Suits)	2020-10-19 — 01:59:59 UTC	william65537, willwin4sure	28	6	30
+323413	2	0	Special Mix (6 Suits)	2020-10-19 — 01:56:22 UTC	william65537, willwin4sure	32	6	30
+323404	2	0	Special Mix (6 Suits)	2020-10-19 — 01:45:54 UTC	william65537, willwin4sure	46	6	30
+323399	2	25	Special Mix (5 Suits)	2020-10-19 — 01:41:39 UTC	william65537, willwin4sure	44	5	25
+323389	2	0	Special Mix (5 Suits)	2020-10-19 — 01:29:20 UTC	william65537, willwin4sure	47	5	25
+323296	2	28	Pink & White (6 Suits)	2020-10-18 — 23:44:45 UTC	william65537, willwin4sure	12	6	30
+323283	2	0	Pink & White (6 Suits)	2020-10-18 — 23:33:19 UTC	william65537, willwin4sure	13	6	30
+323280	2	0	Pink & White (6 Suits)	2020-10-18 — 23:24:34 UTC	william65537, willwin4sure	15	6	30
+323277	2	29	Pink & White (6 Suits)	2020-10-18 — 23:20:15 UTC	william65537, willwin4sure	15	6	30
+323272	2	0	Pink & White (6 Suits)	2020-10-18 — 23:10:41 UTC	william65537, willwin4sure	20	6	30
+323269	2	0	Pink & White (6 Suits)	2020-10-18 — 23:07:04 UTC	william65537, willwin4sure	23	6	30
+323268	2	0	Pink & White (6 Suits)	2020-10-18 — 23:03:55 UTC	william65537, willwin4sure	26	6	30
+323266	2	0	Pink & White (6 Suits)	2020-10-18 — 23:00:41 UTC	william65537, willwin4sure	31	6	30
+323263	2	25	Pink & White (5 Suits)	2020-10-18 — 22:52:04 UTC	william65537, willwin4sure	11	5	25
+323258	2	0	Pink & White (5 Suits)	2020-10-18 — 22:44:21 UTC	william65537, willwin4sure	11	5	25
+323256	2	0	Pink & White (5 Suits)	2020-10-18 — 22:41:40 UTC	william65537, willwin4sure	16	5	25
+323254	2	0	Pink & White (5 Suits)	2020-10-18 — 22:35:53 UTC	william65537, willwin4sure	24	5	25
+323251	2	24	Pink & White (5 Suits)	2020-10-18 — 22:34:42 UTC	william65537, willwin4sure	31	5	25
+323111	2	20	Pink & White (4 Suits)	2020-10-18 — 20:39:19 UTC	william65537, willwin4sure	4	4	20
+323108	2	19	Pink & White (4 Suits)	2020-10-18 — 20:35:02 UTC	william65537, willwin4sure	7	4	20
+323102	2	0	Pink & White (4 Suits)	2020-10-18 — 20:26:51 UTC	william65537, willwin4sure	9	4	20
+323098	2	19	Pink & White (4 Suits)	2020-10-18 — 20:23:50 UTC	william65537, willwin4sure	10	4	20
+323090	2	17	Pink & White (4 Suits)	2020-10-18 — 20:14:43 UTC	william65537, willwin4sure	21	4	20
+322624	2	25	No Variant	2020-10-18 — 02:31:54 UTC	william65537, willwin4sure	275	5	25
+322615	2	0	No Variant	2020-10-18 — 02:22:38 UTC	william65537, willwin4sure	277	5	25
+322604	2	15	Pink & White (3 Suits)	2020-10-18 — 02:12:12 UTC	william65537, willwin4sure	1	3	15
+322593	2	0	Pink & White (3 Suits)	2020-10-18 — 01:59:52 UTC	william65537, willwin4sure	1	3	15
+322588	2	0	Pink & White (3 Suits)	2020-10-18 — 01:52:03 UTC	william65537, willwin4sure	3	3	15
+322587	2	0	Pink & White (3 Suits)	2020-10-18 — 01:50:23 UTC	william65537, willwin4sure	4	3	15
+322585	2	14	Pink & White (3 Suits)	2020-10-18 — 01:48:54 UTC	william65537, willwin4sure	6	3	15
+322251	2	30	White & Brown (6 Suits)	2020-10-17 — 16:57:52 UTC	william65537, willwin4sure	10	6	30
+322247	2	0	White & Brown (6 Suits)	2020-10-17 — 16:47:58 UTC	william65537, willwin4sure	13	6	30
+322244	2	0	White & Brown (6 Suits)	2020-10-17 — 16:41:35 UTC	william65537, willwin4sure	21	6	30
+322242	2	0	White & Brown (6 Suits)	2020-10-17 — 16:38:49 UTC	william65537, willwin4sure	27	6	30
+322240	2	25	White & Brown (5 Suits)	2020-10-17 — 16:32:28 UTC	william65537, willwin4sure	21	5	25
+321778	2	0	Throw It in a Hole & Omni (6 Suits)	2020-10-16 — 22:24:58 UTC	william65537, willwin4sure	1	6	30
+321660	3	19	Duck (4 Suits)	2020-10-16 — 19:46:21 UTC	anser, vEnhance, willwin4sure	5	4	20
+321645	3	0	Duck (4 Suits)	2020-10-16 — 19:18:36 UTC	anser, vEnhance, willwin4sure	5	4	20
+321628	3	0	Duck (4 Suits)	2020-10-16 — 18:53:14 UTC	anser, vEnhance, willwin4sure	5	4	20
+321624	3	0	Duck (4 Suits)	2020-10-16 — 18:50:28 UTC	anser, vEnhance, willwin4sure	5	4	20
+321620	3	0	Duck (4 Suits)	2020-10-16 — 18:48:33 UTC	anser, vEnhance, willwin4sure	8	4	20
+321613	3	0	Duck (4 Suits)	2020-10-16 — 18:37:59 UTC	anser, vEnhance, willwin4sure	15	4	20
+321603	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-16 — 18:26:29 UTC	william65537, willwin4sure	1	6	30
+321602	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-16 — 18:24:13 UTC	william65537, willwin4sure	1	6	30
+321383	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-16 — 03:18:29 UTC	william65537, willwin4sure	1	6	30
+321377	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-16 — 03:13:11 UTC	william65537, willwin4sure	1	6	30
+321375	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-16 — 03:10:19 UTC	william65537, willwin4sure	1	6	30
+321373	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-16 — 03:07:24 UTC	william65537, willwin4sure	1	6	30
+321370	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-16 — 03:05:43 UTC	william65537, willwin4sure	1	6	30
+321086	3	25	Duck (5 Suits)	2020-10-15 — 20:15:52 UTC	anser, vEnhance, willwin4sure	17	5	25
+321040	3	22	Duck (5 Suits)	2020-10-15 — 19:27:29 UTC	anser, vEnhance, willwin4sure	16	5	25
+321016	3	22	Duck (5 Suits)	2020-10-15 — 18:55:11 UTC	anser, vEnhance, willwin4sure	22	5	25
+320966	3	22	Duck (5 Suits)	2020-10-15 — 18:04:08 UTC	anser, vEnhance, willwin4sure	25	5	25
+320344	3	25	Duck (5 Suits)	2020-10-14 — 19:07:41 UTC	anser, vEnhance, willwin4sure	35	5	25
+320318	3	0	Duck (5 Suits)	2020-10-14 — 18:15:56 UTC	anser, vEnhance, willwin4sure	52	5	25
+319787	2	0	Throw It in a Hole (5 Suits)	2020-10-13 — 21:42:14 UTC	william65537, willwin4sure	17	5	25
+319782	2	0	Throw It in a Hole (5 Suits)	2020-10-13 — 21:40:18 UTC	william65537, willwin4sure	17	5	25
+319778	2	0	Throw It in a Hole (5 Suits)	2020-10-13 — 21:37:56 UTC	william65537, willwin4sure	17	5	25
+319775	2	0	Throw It in a Hole (5 Suits)	2020-10-13 — 21:35:44 UTC	william65537, willwin4sure	19	5	25
+319768	2	0	Throw It in a Hole (5 Suits)	2020-10-13 — 21:29:33 UTC	william65537, willwin4sure	24	5	25
+319761	2	0	Throw It in a Hole (5 Suits)	2020-10-13 — 21:24:24 UTC	william65537, willwin4sure	29	5	25
+319754	2	0	Throw It in a Hole (5 Suits)	2020-10-13 — 21:19:05 UTC	william65537, willwin4sure	34	5	25
+319256	2	24	Throw It in a Hole (5 Suits)	2020-10-13 — 03:36:38 UTC	william65537, willwin4sure	76	5	25
+318416	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-12 — 00:04:49 UTC	william65537, willwin4sure	1	6	30
+318402	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-11 — 23:51:21 UTC	william65537, willwin4sure	1	6	30
+318396	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-11 — 23:47:05 UTC	william65537, willwin4sure	1	6	30
+318142	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-11 — 16:03:40 UTC	william65537, willwin4sure	1	6	30
+318140	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-11 — 16:00:10 UTC	william65537, willwin4sure	1	6	30
+318136	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-11 — 15:46:05 UTC	william65537, willwin4sure	1	6	30
+318135	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-11 — 15:43:22 UTC	william65537, willwin4sure	1	6	30
+318131	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-11 — 15:38:40 UTC	william65537, willwin4sure	1	6	30
+318128	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-11 — 15:34:34 UTC	william65537, willwin4sure	1	6	30
+318127	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-11 — 15:26:29 UTC	william65537, willwin4sure	1	6	30
+318124	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-11 — 15:21:40 UTC	william65537, willwin4sure	1	6	30
+316844	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-09 — 23:27:49 UTC	william65537, willwin4sure	1	6	30
+316842	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-09 — 23:26:08 UTC	william65537, willwin4sure	1	6	30
+316833	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-09 — 23:18:03 UTC	william65537, willwin4sure	1	6	30
+316826	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-09 — 23:12:31 UTC	william65537, willwin4sure	1	6	30
+316816	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-09 — 23:04:22 UTC	william65537, willwin4sure	1	6	30
+316810	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-09 — 23:01:41 UTC	william65537, willwin4sure	1	6	30
+316808	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-09 — 22:58:54 UTC	william65537, willwin4sure	1	6	30
+316805	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-09 — 22:54:57 UTC	william65537, willwin4sure	1	6	30
+316802	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-09 — 22:53:50 UTC	william65537, willwin4sure	1	6	30
+316799	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-09 — 22:49:06 UTC	william65537, willwin4sure	1	6	30
+316794	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-09 — 22:46:57 UTC	william65537, willwin4sure	1	6	30
+316793	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-09 — 22:45:06 UTC	william65537, willwin4sure	1	6	30
+316792	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-09 — 22:40:15 UTC	william65537, willwin4sure	1	6	30
+316780	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-09 — 22:24:41 UTC	william65537, willwin4sure	1	6	30
+316606	2	27	Dark Omni & Dark Null (6 Suits)	2020-10-09 — 18:22:30 UTC	william65537, willwin4sure	2	6	30
+316599	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-09 — 18:11:05 UTC	william65537, willwin4sure	2	6	30
+316596	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-09 — 18:07:17 UTC	william65537, willwin4sure	2	6	30
+316594	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-09 — 18:05:40 UTC	william65537, willwin4sure	2	6	30
+316593	2	29	Dark Omni & Dark Null (6 Suits)	2020-10-09 — 18:01:33 UTC	william65537, willwin4sure	2	6	30
+316585	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-09 — 17:46:07 UTC	william65537, willwin4sure	2	6	30
+316224	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-09 — 02:26:18 UTC	william65537, willwin4sure	2	6	30
+316218	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-09 — 02:21:33 UTC	william65537, willwin4sure	2	6	30
+316209	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-09 — 02:16:05 UTC	william65537, willwin4sure	2	6	30
+316207	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-09 — 02:15:08 UTC	william65537, willwin4sure	2	6	30
+314919	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-07 — 13:56:06 UTC	william65537, willwin4sure	3	6	30
+314916	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-07 — 13:50:12 UTC	william65537, willwin4sure	3	6	30
+314914	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-07 — 13:46:19 UTC	william65537, willwin4sure	3	6	30
+314911	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-07 — 13:43:23 UTC	william65537, willwin4sure	3	6	30
+314910	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-07 — 13:40:41 UTC	william65537, willwin4sure	3	6	30
+314907	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-07 — 13:33:30 UTC	william65537, willwin4sure	3	6	30
+314901	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-07 — 13:28:21 UTC	william65537, willwin4sure	3	6	30
+314895	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-07 — 13:18:34 UTC	william65537, willwin4sure	3	6	30
+314889	2	28	Dark Omni & Dark Null (6 Suits)	2020-10-07 — 13:09:19 UTC	william65537, willwin4sure	3	6	30
+314884	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-07 — 12:56:27 UTC	william65537, willwin4sure	3	6	30
+314651	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-07 — 02:19:15 UTC	william65537, willwin4sure	3	6	30
+314649	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-07 — 02:15:53 UTC	william65537, willwin4sure	3	6	30
+314648	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-07 — 02:14:20 UTC	william65537, willwin4sure	3	6	30
+314645	2	28	Dark Omni & Dark Null (6 Suits)	2020-10-07 — 02:08:21 UTC	william65537, willwin4sure	3	6	30
+314634	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-07 — 01:54:02 UTC	william65537, willwin4sure	3	6	30
+314540	2	26	Dark Omni & Dark Null (6 Suits)	2020-10-06 — 23:57:32 UTC	william65537, willwin4sure	3	6	30
+314532	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-06 — 23:45:07 UTC	william65537, willwin4sure	3	6	30
+314528	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-06 — 23:42:10 UTC	william65537, willwin4sure	3	6	30
+314525	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-06 — 23:36:55 UTC	william65537, willwin4sure	3	6	30
+314360	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-06 — 18:45:47 UTC	william65537, willwin4sure	3	6	30
+314357	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-06 — 18:38:35 UTC	william65537, willwin4sure	3	6	30
+314350	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-06 — 18:24:39 UTC	william65537, willwin4sure	3	6	30
+314348	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-06 — 18:21:40 UTC	william65537, willwin4sure	3	6	30
+314346	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-06 — 18:19:39 UTC	william65537, willwin4sure	3	6	30
+314343	2	0	Dark Omni & Dark Null (6 Suits)	2020-10-06 — 18:15:50 UTC	william65537, willwin4sure	6	6	30
+314330	2	28	Dark Omni & Dark Null (6 Suits)	2020-10-06 — 17:31:16 UTC	william65537, willwin4sure	6	6	30
+314289	2	30	Omni & Null (6 Suits)	2020-10-06 — 15:53:41 UTC	william65537, willwin4sure	3	6	30
+314288	2	0	Omni & Null (6 Suits)	2020-10-06 — 15:41:57 UTC	william65537, willwin4sure	3	6	30
+314286	2	0	Omni & Null (6 Suits)	2020-10-06 — 15:39:39 UTC	william65537, willwin4sure	3	6	30
+313706	2	0	Omni & Null (6 Suits)	2020-10-05 — 21:20:42 UTC	william65537, willwin4sure	5	6	30
+313682	2	0	Omni & Null (6 Suits)	2020-10-05 — 21:07:34 UTC	william65537, willwin4sure	5	6	30
+313679	2	0	Omni & Null (6 Suits)	2020-10-05 — 21:06:43 UTC	william65537, willwin4sure	6	6	30
+313663	2	0	Omni & Null (6 Suits)	2020-10-05 — 20:55:56 UTC	william65537, willwin4sure	8	6	30
+313438	2	30	Omni (6 Suits)	2020-10-05 — 17:14:20 UTC	william65537, willwin4sure	43	6	30
+313433	2	0	Omni (6 Suits)	2020-10-05 — 17:05:59 UTC	william65537, willwin4sure	48	6	30
+313427	2	0	Omni (6 Suits)	2020-10-05 — 16:56:58 UTC	william65537, willwin4sure	62	6	30
+313424	2	0	Omni (6 Suits)	2020-10-05 — 16:50:58 UTC	william65537, willwin4sure	64	6	30
+313423	2	0	Omni (6 Suits)	2020-10-05 — 16:49:55 UTC	william65537, willwin4sure	73	6	30
+313417	2	0	Omni (6 Suits)	2020-10-05 — 16:42:49 UTC	william65537, willwin4sure	95	6	30
+313414	2	0	Omni (6 Suits)	2020-10-05 — 16:42:07 UTC	william65537, willwin4sure	121	6	30
+313381	2	30	Dark Omni (6 Suits)	2020-10-05 — 14:41:33 UTC	william65537, willwin4sure	19	6	30
+313380	2	0	Dark Omni (6 Suits)	2020-10-05 — 14:33:38 UTC	william65537, willwin4sure	21	6	30
+313378	2	0	Dark Omni (6 Suits)	2020-10-05 — 14:27:35 UTC	william65537, willwin4sure	22	6	30
+313377	2	0	Dark Omni (6 Suits)	2020-10-05 — 14:15:34 UTC	william65537, willwin4sure	26	6	30
+313375	2	29	Dark Omni (6 Suits)	2020-10-05 — 14:13:17 UTC	william65537, willwin4sure	39	6	30
+313370	2	0	Dark Omni (6 Suits)	2020-10-05 — 14:03:12 UTC	william65537, willwin4sure	42	6	30
+313206	2	30	Dark Prism (6 Suits)	2020-10-05 — 02:32:14 UTC	william65537, willwin4sure	5	6	30
+313201	2	0	Dark Prism (6 Suits)	2020-10-05 — 02:26:16 UTC	william65537, willwin4sure	5	6	30
+312826	2	0	Dark Prism (6 Suits)	2020-10-04 — 18:11:55 UTC	william65537, willwin4sure	8	6	30
+312825	2	0	Dark Prism (6 Suits)	2020-10-04 — 18:08:12 UTC	william65537, willwin4sure	8	6	30
+312823	2	0	Dark Prism (6 Suits)	2020-10-04 — 18:05:00 UTC	william65537, willwin4sure	8	6	30
+312821	2	0	Dark Prism (6 Suits)	2020-10-04 — 18:03:45 UTC	william65537, willwin4sure	8	6	30
+312820	2	0	Dark Prism (6 Suits)	2020-10-04 — 18:02:22 UTC	william65537, willwin4sure	10	6	30
+312819	2	0	Dark Prism (6 Suits)	2020-10-04 — 17:58:22 UTC	william65537, willwin4sure	11	6	30
+312818	2	0	Dark Prism (6 Suits)	2020-10-04 — 17:54:40 UTC	william65537, willwin4sure	11	6	30
+312817	2	0	Dark Prism (6 Suits)	2020-10-04 — 17:52:40 UTC	william65537, willwin4sure	11	6	30
+312816	2	0	Dark Prism (6 Suits)	2020-10-04 — 17:51:55 UTC	william65537, willwin4sure	12	6	30
+312814	2	0	Dark Prism (6 Suits)	2020-10-04 — 17:50:39 UTC	william65537, willwin4sure	13	6	30
+312812	2	0	Dark Prism (6 Suits)	2020-10-04 — 17:48:55 UTC	william65537, willwin4sure	16	6	30
+312810	2	0	Dark Prism (6 Suits)	2020-10-04 — 17:45:27 UTC	william65537, willwin4sure	15	6	30
+312808	2	0	Dark Prism (6 Suits)	2020-10-04 — 17:42:54 UTC	william65537, willwin4sure	15	6	30
+312807	2	0	Dark Prism (6 Suits)	2020-10-04 — 17:41:44 UTC	william65537, willwin4sure	17	6	30
+312806	2	0	Dark Prism (6 Suits)	2020-10-04 — 17:40:21 UTC	william65537, willwin4sure	17	6	30
+312805	2	0	Dark Prism (6 Suits)	2020-10-04 — 17:38:34 UTC	william65537, willwin4sure	17	6	30
+312803	2	0	Dark Prism (6 Suits)	2020-10-04 — 17:31:53 UTC	william65537, willwin4sure	17	6	30
+312766	2	29	Dark Prism (6 Suits)	2020-10-04 — 14:49:28 UTC	william65537, willwin4sure	22	6	30
+312763	2	0	Dark Prism (6 Suits)	2020-10-04 — 14:40:53 UTC	william65537, willwin4sure	24	6	30
+312762	2	0	Dark Prism (6 Suits)	2020-10-04 — 14:37:09 UTC	william65537, willwin4sure	25	6	30
+312761	2	28	Dark Prism (6 Suits)	2020-10-04 — 14:33:42 UTC	william65537, willwin4sure	33	6	30
+312759	2	0	Dark Prism (6 Suits)	2020-10-04 — 14:26:07 UTC	william65537, willwin4sure	34	6	30
+311906	2	0	Dark Null (6 Suits)	2020-10-03 — 16:18:15 UTC	william65537, willwin4sure	1	6	30
+311903	2	0	Dark Null (6 Suits)	2020-10-03 — 16:03:05 UTC	william65537, willwin4sure	1	6	30
+311902	2	0	Dark Null (6 Suits)	2020-10-03 — 15:59:50 UTC	william65537, willwin4sure	1	6	30
+311899	2	0	Dark Null (6 Suits)	2020-10-03 — 15:57:26 UTC	william65537, willwin4sure	1	6	30
+311897	2	0	Dark Null (6 Suits)	2020-10-03 — 15:53:21 UTC	william65537, willwin4sure	1	6	30
+311896	2	0	Dark Null (6 Suits)	2020-10-03 — 15:50:44 UTC	william65537, willwin4sure	1	6	30
+311892	2	0	Dark Null (6 Suits)	2020-10-03 — 15:45:45 UTC	william65537, willwin4sure	1	6	30
+311890	2	0	Dark Null (6 Suits)	2020-10-03 — 15:42:58 UTC	william65537, willwin4sure	1	6	30
+311889	2	0	Dark Null (6 Suits)	2020-10-03 — 15:42:26 UTC	william65537, willwin4sure	1	6	30
+311888	2	0	Dark Null (6 Suits)	2020-10-03 — 15:41:18 UTC	william65537, willwin4sure	1	6	30
+311887	2	0	Dark Null (6 Suits)	2020-10-03 — 15:33:53 UTC	william65537, willwin4sure	1	6	30
+311885	2	0	Dark Null (6 Suits)	2020-10-03 — 15:31:42 UTC	william65537, willwin4sure	1	6	30
+311879	2	0	Dark Null (6 Suits)	2020-10-03 — 15:12:58 UTC	william65537, willwin4sure	1	6	30
+311875	2	0	Dark Null (6 Suits)	2020-10-03 — 15:08:18 UTC	william65537, willwin4sure	1	6	30
+310519	2	0	Null (5 Suits)	2020-10-01 — 17:36:41 UTC	ejwu, willwin4sure	101	5	25
+310509	2	0	Dark Null (6 Suits)	2020-10-01 — 17:04:28 UTC	william65537, willwin4sure	2	6	30
+310502	2	0	Dark Null (6 Suits)	2020-10-01 — 16:48:34 UTC	william65537, willwin4sure	3	6	30
+310499	2	0	Dark Null (6 Suits)	2020-10-01 — 16:41:50 UTC	william65537, willwin4sure	4	6	30
+310495	2	0	Dark Null (6 Suits)	2020-10-01 — 16:34:45 UTC	william65537, willwin4sure	5	6	30
+310491	2	0	Dark Null (6 Suits)	2020-10-01 — 16:29:49 UTC	william65537, willwin4sure	5	6	30
+310485	2	0	Dark Null (6 Suits)	2020-10-01 — 16:19:03 UTC	william65537, willwin4sure	5	6	30
+310484	2	0	Dark Null (6 Suits)	2020-10-01 — 16:17:47 UTC	william65537, willwin4sure	5	6	30
+310482	2	0	Dark Null (6 Suits)	2020-10-01 — 16:13:50 UTC	william65537, willwin4sure	6	6	30
+310481	2	0	Dark Null (6 Suits)	2020-10-01 — 16:12:18 UTC	william65537, willwin4sure	6	6	30
+310478	2	0	Dark Null (6 Suits)	2020-10-01 — 16:10:17 UTC	william65537, willwin4sure	6	6	30
+310476	2	26	Dark Null (6 Suits)	2020-10-01 — 16:07:05 UTC	william65537, willwin4sure	6	6	30
+310473	2	0	Dark Null (6 Suits)	2020-10-01 — 15:58:57 UTC	william65537, willwin4sure	6	6	30
+310471	2	0	Dark Null (6 Suits)	2020-10-01 — 15:56:58 UTC	william65537, willwin4sure	6	6	30
+310468	2	0	Dark Null (6 Suits)	2020-10-01 — 15:52:42 UTC	william65537, willwin4sure	6	6	30
+310466	2	0	Dark Null (6 Suits)	2020-10-01 — 15:51:09 UTC	william65537, willwin4sure	7	6	30
+310442	2	0	Dark Null (6 Suits)	2020-10-01 — 14:11:30 UTC	william65537, willwin4sure	7	6	30
+310441	2	0	Dark Null (6 Suits)	2020-10-01 — 14:10:22 UTC	william65537, willwin4sure	9	6	30
+310438	2	27	Dark Null (6 Suits)	2020-10-01 — 13:58:28 UTC	william65537, willwin4sure	10	6	30
+310436	2	30	Gray (6 Suits)	2020-10-01 — 13:36:05 UTC	william65537, willwin4sure	5	6	30
+310433	2	0	Gray (6 Suits)	2020-10-01 — 13:31:16 UTC	william65537, willwin4sure	6	6	30
+310093	2	0	Gray (6 Suits)	2020-10-01 — 01:55:19 UTC	william65537, willwin4sure	6	6	30
+310085	2	0	Gray (6 Suits)	2020-10-01 — 01:44:48 UTC	william65537, willwin4sure	17	6	30
+310079	2	0	Gray (6 Suits)	2020-10-01 — 01:38:02 UTC	william65537, willwin4sure	22	6	30
+310071	2	0	Gray (6 Suits)	2020-10-01 — 01:31:47 UTC	william65537, willwin4sure	24	6	30
+310064	2	0	Gray (6 Suits)	2020-10-01 — 01:24:59 UTC	william65537, willwin4sure	27	6	30
+310056	2	0	Gray (6 Suits)	2020-10-01 — 01:16:45 UTC	william65537, willwin4sure	27	6	30
+310050	2	0	Gray (6 Suits)	2020-10-01 — 01:11:03 UTC	william65537, willwin4sure	29	6	30
+310048	2	0	Gray (6 Suits)	2020-10-01 — 01:07:00 UTC	william65537, willwin4sure	29	6	30
+310042	2	27	Gray (6 Suits)	2020-10-01 — 01:01:57 UTC	william65537, willwin4sure	32	6	30
+309207	2	25	No Variant	2020-09-29 — 20:15:10 UTC	anser, willwin4sure	279	5	25
+309204	2	0	No Variant	2020-09-29 — 20:11:48 UTC	anser, willwin4sure	281	5	25
+309202	2	0	No Variant	2020-09-29 — 20:09:29 UTC	anser, willwin4sure	299	5	25
+309201	2	0	No Variant	2020-09-29 — 20:07:16 UTC	anser, willwin4sure	292	5	25
+309198	2	0	No Variant	2020-09-29 — 20:05:55 UTC	anser, willwin4sure	302	5	25
+309196	2	0	No Variant	2020-09-29 — 20:04:42 UTC	anser, willwin4sure	308	5	25
+309195	2	0	No Variant	2020-09-29 — 20:03:25 UTC	anser, willwin4sure	303	5	25
+309194	2	0	No Variant	2020-09-29 — 20:02:30 UTC	anser, willwin4sure	311	5	25
+309193	2	0	No Variant	2020-09-29 — 20:02:01 UTC	anser, willwin4sure	315	5	25
+308312	2	21	No Variant	2020-09-28 — 14:14:45 UTC	william65537, willwin4sure	321	5	25
+308311	2	0	No Variant	2020-09-28 — 14:12:28 UTC	william65537, willwin4sure	328	5	25
+308310	2	0	No Variant	2020-09-28 — 14:11:58 UTC	william65537, willwin4sure	335	5	25
+308309	2	0	No Variant	2020-09-28 — 14:10:42 UTC	william65537, willwin4sure	344	5	25
+308308	2	24	No Variant	2020-09-28 — 14:08:43 UTC	william65537, willwin4sure	348	5	25
+308307	2	21	No Variant	2020-09-28 — 14:06:20 UTC	william65537, willwin4sure	354	5	25
+308304	2	0	No Variant	2020-09-28 — 14:03:58 UTC	william65537, willwin4sure	357	5	25
+308302	2	0	No Variant	2020-09-28 — 14:02:33 UTC	william65537, willwin4sure	362	5	25
+308301	2	0	No Variant	2020-09-28 — 13:59:48 UTC	william65537, willwin4sure	369	5	25
+308300	2	0	No Variant	2020-09-28 — 13:57:41 UTC	william65537, willwin4sure	381	5	25
+308299	2	25	No Variant	2020-09-28 — 13:54:56 UTC	william65537, willwin4sure	387	5	25
+308298	2	0	No Variant	2020-09-28 — 13:52:27 UTC	william65537, willwin4sure	393	5	25
+308297	2	0	No Variant	2020-09-28 — 13:51:49 UTC	william65537, willwin4sure	393	5	25
+308296	2	0	No Variant	2020-09-28 — 13:51:11 UTC	william65537, willwin4sure	406	5	25
+308295	2	0	No Variant	2020-09-28 — 13:49:58 UTC	william65537, willwin4sure	411	5	25
+308294	2	0	No Variant	2020-09-28 — 13:48:27 UTC	william65537, willwin4sure	423	5	25
+308293	2	0	No Variant	2020-09-28 — 13:47:36 UTC	william65537, willwin4sure	432	5	25
+308292	2	0	No Variant	2020-09-28 — 13:46:07 UTC	william65537, willwin4sure	440	5	25
+307876	4	25	Rainbow (6 Suits)	2020-09-27 — 23:12:27 UTC	anser, nukelauncher, vEnhance, willwin4sure	5	6	30
+307843	3	21	Extremely Ambiguous (5 Suits)	2020-09-27 — 22:10:42 UTC	anser, vEnhance, willwin4sure	4	5	25
+307830	3	0	Extremely Ambiguous (5 Suits)	2020-09-27 — 21:56:10 UTC	anser, vEnhance, willwin4sure	5	5	25
+307828	3	0	Extremely Ambiguous (5 Suits)	2020-09-27 — 21:53:09 UTC	anser, vEnhance, willwin4sure	5	5	25
+307824	3	0	Extremely Ambiguous (5 Suits)	2020-09-27 — 21:49:50 UTC	anser, vEnhance, willwin4sure	10	5	25
+307823	3	0	Extremely Ambiguous (5 Suits)	2020-09-27 — 21:46:49 UTC	anser, vEnhance, willwin4sure	11	5	25
+307817	3	20	4 Suits	2020-09-27 — 21:40:52 UTC	anser, vEnhance, willwin4sure	23	4	20
+307814	3	0	4 Suits	2020-09-27 — 21:38:39 UTC	anser, vEnhance, willwin4sure	70	4	20
+307809	4	0	4 Suits	2020-09-27 — 21:33:35 UTC	anser, vEnhance, william65537, willwin4sure	10	4	20
+307806	4	0	4 Suits	2020-09-27 — 21:31:57 UTC	anser, vEnhance, william65537, willwin4sure	10	4	20
+307804	4	0	4 Suits	2020-09-27 — 21:29:32 UTC	anser, vEnhance, william65537, willwin4sure	12	4	20
+307802	4	16	4 Suits	2020-09-27 — 21:27:47 UTC	anser, vEnhance, william65537, willwin4sure	13	4	20
+307797	3	0	White (5 Suits)	2020-09-27 — 21:23:00 UTC	anser, vEnhance, willwin4sure	7	5	25
+307796	3	0	White (5 Suits)	2020-09-27 — 21:21:28 UTC	anser, vEnhance, willwin4sure	7	5	25
+307791	3	0	White (5 Suits)	2020-09-27 — 21:19:08 UTC	anser, vEnhance, willwin4sure	9	5	25
+307786	3	0	White (5 Suits)	2020-09-27 — 21:15:44 UTC	anser, vEnhance, willwin4sure	10	5	25
+307782	3	0	White (5 Suits)	2020-09-27 — 21:12:14 UTC	anser, vEnhance, willwin4sure	10	5	25
+307756	4	0	Rainbow (6 Suits)	2020-09-27 — 20:44:31 UTC	anser, nukelauncher, vEnhance, willwin4sure	5	6	30
+307709	2	24	No Variant	2020-09-27 — 19:20:00 UTC	nukelauncher, willwin4sure	450	5	25
+307708	2	0	No Variant	2020-09-27 — 19:17:33 UTC	nukelauncher, willwin4sure	455	5	25
+307707	2	0	No Variant	2020-09-27 — 19:15:56 UTC	nukelauncher, willwin4sure	458	5	25
+307704	2	0	No Variant	2020-09-27 — 19:14:17 UTC	nukelauncher, willwin4sure	476	5	25
+307702	2	0	No Variant	2020-09-27 — 19:12:16 UTC	nukelauncher, willwin4sure	581	5	25
+307699	2	0	No Variant	2020-09-27 — 19:10:30 UTC	nukelauncher, willwin4sure	883	5	25
+307698	2	0	No Variant	2020-09-27 — 19:09:10 UTC	nukelauncher, willwin4sure	1299	5	25
+307696	2	0	No Variant	2020-09-27 — 19:07:04 UTC	nukelauncher, willwin4sure	1376	5	25
+307693	2	0	No Variant	2020-09-27 — 19:05:50 UTC	nukelauncher, willwin4sure	1448	5	25
+307500	4	24	Throw It in a Hole (5 Suits)	2020-09-27 — 06:07:53 UTC	ejwu, nukelauncher, vEnhance, willwin4sure	40	5	25
+307489	5	0	No Variant	2020-09-27 — 05:34:10 UTC	anser, ejwu, nukelauncher, vEnhance, willwin4sure	25	5	25
+307486	5	0	No Variant	2020-09-27 — 05:30:54 UTC	anser, ejwu, nukelauncher, vEnhance, willwin4sure	29	5	25
+307484	5	0	No Variant	2020-09-27 — 05:29:23 UTC	anser, ejwu, nukelauncher, vEnhance, willwin4sure	28	5	25
+307482	5	0	No Variant	2020-09-27 — 05:27:22 UTC	anser, ejwu, nukelauncher, vEnhance, willwin4sure	30	5	25
+307481	5	0	No Variant	2020-09-27 — 05:25:36 UTC	anser, ejwu, nukelauncher, vEnhance, willwin4sure	31	5	25
+307479	5	0	No Variant	2020-09-27 — 05:20:48 UTC	anser, ejwu, nukelauncher, vEnhance, willwin4sure	35	5	25
+307460	4	29	Rainbow (6 Suits)	2020-09-27 — 04:56:11 UTC	anser, nukelauncher, vEnhance, willwin4sure	6	6	30
+307136	4	0	Rainbow (6 Suits)	2020-09-26 — 23:08:57 UTC	anser, nukelauncher, vEnhance, willwin4sure	9	6	30
+307072	4	29	Rainbow (6 Suits)	2020-09-26 — 21:44:26 UTC	anser, nukelauncher, vEnhance, willwin4sure	50	6	30
+306398	3	0	No Variant	2020-09-25 — 23:16:39 UTC	anser, nukelauncher, willwin4sure	324	5	25
+306394	3	0	No Variant	2020-09-25 — 23:13:11 UTC	anser, nukelauncher, willwin4sure	344	5	25
+306393	3	0	No Variant	2020-09-25 — 23:11:14 UTC	anser, nukelauncher, willwin4sure	354	5	25
+306390	3	23	No Variant	2020-09-25 — 23:09:03 UTC	anser, nukelauncher, willwin4sure	375	5	25
+306388	3	0	No Variant	2020-09-25 — 23:04:38 UTC	anser, nukelauncher, willwin4sure	386	5	25
+306384	3	0	No Variant	2020-09-25 — 23:01:46 UTC	anser, nukelauncher, willwin4sure	411	5	25
+306381	3	0	No Variant	2020-09-25 — 22:57:55 UTC	anser, nukelauncher, willwin4sure	459	5	25
+306284	3	25	No Variant	2020-09-25 — 19:59:57 UTC	anser, vEnhance, willwin4sure	157	5	25
+306283	3	0	No Variant	2020-09-25 — 19:56:55 UTC	anser, vEnhance, willwin4sure	160	5	25
+306281	3	0	No Variant	2020-09-25 — 19:54:34 UTC	anser, vEnhance, willwin4sure	167	5	25
+306275	2	0	No Variant	2020-09-25 — 19:52:17 UTC	anser, willwin4sure	496	5	25
+306274	2	0	No Variant	2020-09-25 — 19:49:56 UTC	anser, willwin4sure	506	5	25
+306273	2	0	No Variant	2020-09-25 — 19:48:41 UTC	anser, willwin4sure	513	5	25
+306272	2	23	No Variant	2020-09-25 — 19:47:29 UTC	anser, willwin4sure	526	5	25
+306267	2	0	No Variant	2020-09-25 — 19:44:25 UTC	anser, willwin4sure	534	5	25
+306265	2	24	No Variant	2020-09-25 — 19:42:19 UTC	anser, willwin4sure	549	5	25
+306262	2	0	No Variant	2020-09-25 — 19:39:12 UTC	anser, willwin4sure	555	5	25
+306260	2	0	No Variant	2020-09-25 — 19:37:17 UTC	anser, willwin4sure	593	5	25
+306259	2	0	No Variant	2020-09-25 — 19:35:52 UTC	anser, willwin4sure	597	5	25
+306257	2	0	No Variant	2020-09-25 — 19:34:11 UTC	anser, willwin4sure	626	5	25
+305735	2	24	No Variant	2020-09-25 — 01:59:41 UTC	anser, willwin4sure	1117	5	25
+305733	2	0	No Variant	2020-09-25 — 01:57:14 UTC	anser, willwin4sure	1148	5	25
+305731	2	0	No Variant	2020-09-25 — 01:56:15 UTC	anser, willwin4sure	1206	5	25
+305729	2	0	No Variant	2020-09-25 — 01:54:23 UTC	anser, willwin4sure	1249	5	25
+305612	4	30	Rainbow (6 Suits)	2020-09-24 — 22:13:14 UTC	anser, nukelauncher, vEnhance, willwin4sure	50	6	30
+305568	4	0	Rainbow (6 Suits)	2020-09-24 — 21:34:46 UTC	anser, nukelauncher, vEnhance, willwin4sure	55	6	30
+304807	4	28	Rainbow (6 Suits)	2020-09-23 — 19:40:06 UTC	anser, nukelauncher, vEnhance, willwin4sure	57	6	30
+304779	4	0	Rainbow (6 Suits)	2020-09-23 — 19:03:04 UTC	anser, nukelauncher, vEnhance, willwin4sure	63	6	30
+304762	4	30	Rainbow (6 Suits)	2020-09-23 — 18:26:11 UTC	anser, nukelauncher, vEnhance, willwin4sure	65	6	30
+304373	4	28	Rainbow (6 Suits)	2020-09-23 — 01:32:40 UTC	anser, nukelauncher, vEnhance, willwin4sure	70	6	30
+304341	4	0	Rainbow (6 Suits)	2020-09-23 — 00:52:36 UTC	anser, nukelauncher, vEnhance, willwin4sure	73	6	30
+302833	4	29	Rainbow (6 Suits)	2020-09-21 — 01:22:00 UTC	anser, nukelauncher, vEnhance, willwin4sure	69	6	30
+302785	4	0	Rainbow (6 Suits)	2020-09-21 — 00:43:07 UTC	anser, nukelauncher, vEnhance, willwin4sure	76	6	30
+302775	4	0	Rainbow (6 Suits)	2020-09-21 — 00:30:28 UTC	anser, nukelauncher, vEnhance, willwin4sure	85	6	30
+302707	4	0	Rainbow (6 Suits)	2020-09-20 — 22:14:28 UTC	anser, nukelauncher, vEnhance, willwin4sure	91	6	30
+302697	4	0	Rainbow (6 Suits)	2020-09-20 — 21:56:19 UTC	anser, nukelauncher, vEnhance, willwin4sure	96	6	30
+302689	4	0	Rainbow (6 Suits)	2020-09-20 — 21:44:24 UTC	anser, nukelauncher, vEnhance, willwin4sure	104	6	30
+302168	4	0	Rainbow (6 Suits)	2020-09-20 — 05:18:08 UTC	anser, nukelauncher, vEnhance, willwin4sure	122	6	30
+302159	4	0	Rainbow (6 Suits)	2020-09-20 — 04:55:32 UTC	anser, nukelauncher, vEnhance, willwin4sure	132	6	30
+302154	4	0	Rainbow (6 Suits)	2020-09-20 — 04:49:41 UTC	anser, nukelauncher, vEnhance, willwin4sure	156	6	30
+302147	4	0	Rainbow (6 Suits)	2020-09-20 — 04:41:50 UTC	anser, nukelauncher, vEnhance, willwin4sure	163	6	30
+302143	4	0	Rainbow (6 Suits)	2020-09-20 — 04:36:23 UTC	anser, nukelauncher, vEnhance, willwin4sure	185	6	30
+302098	4	29	Rainbow (6 Suits)	2020-09-20 — 03:50:03 UTC	anser, nukelauncher, vEnhance, willwin4sure	200	6	30
+301951	4	30	Rainbow (6 Suits)	2020-09-20 — 01:26:46 UTC	knightofmines, vEnhance, wEnhance, willwin4sure	238	6	30
+301850	4	28	Rainbow (6 Suits)	2020-09-19 — 23:43:55 UTC	anser, nukelauncher, vEnhance, willwin4sure	275	6	30
+301234	2	0	Number Mute (5 Suits)	2020-09-19 — 03:26:31 UTC	nukelauncher, willwin4sure	7	5	25
+301231	2	0	Number Mute (5 Suits)	2020-09-19 — 03:24:40 UTC	nukelauncher, willwin4sure	7	5	25
+301227	2	25	Special Mix (5 Suits)	2020-09-19 — 03:19:08 UTC	nukelauncher, willwin4sure	60	5	25
+301212	2	0	Special Mix (5 Suits)	2020-09-19 — 03:09:33 UTC	nukelauncher, willwin4sure	63	5	25
+301205	2	0	Special Mix (5 Suits)	2020-09-19 — 03:03:10 UTC	nukelauncher, willwin4sure	66	5	25
+301193	2	0	Special Mix (5 Suits)	2020-09-19 — 02:53:55 UTC	nukelauncher, willwin4sure	88	5	25
+301185	2	20	Rainbow Reversed (4 Suits)	2020-09-19 — 02:49:33 UTC	nukelauncher, willwin4sure	9	4	20
+301180	2	25	Ambiguous & Cocoa Rainbow (5 Suits)	2020-09-19 — 02:42:45 UTC	nukelauncher, willwin4sure	2	5	25
+301167	2	23	Ambiguous & Cocoa Rainbow (5 Suits)	2020-09-19 — 02:30:33 UTC	nukelauncher, willwin4sure	2	5	25
+301145	3	29	Rainbow (6 Suits)	2020-09-19 — 02:03:51 UTC	anser, nukelauncher, willwin4sure	237	6	30
+300708	2	30	Rainbow (6 Suits)	2020-09-18 — 16:49:39 UTC	anser, willwin4sure	971	6	30
+300132	4	23	Black (5 Suits)	2020-09-17 — 19:44:15 UTC	anser, jeff10, vEnhance, willwin4sure	79	5	25
+300115	4	0	Rainbow (6 Suits)	2020-09-17 — 19:16:34 UTC	anser, nukelauncher, vEnhance, willwin4sure	344	6	30
+300090	4	0	Rainbow (6 Suits)	2020-09-17 — 18:40:03 UTC	anser, nukelauncher, vEnhance, willwin4sure	493	6	30
+299275	2	15	Omni (3 Suits)	2020-09-17 — 01:27:21 UTC	nukelauncher, willwin4sure	36	3	15
+299268	2	0	Omni (3 Suits)	2020-09-17 — 01:20:42 UTC	nukelauncher, willwin4sure	49	3	15
+299261	2	0	Omni (3 Suits)	2020-09-17 — 01:13:56 UTC	nukelauncher, willwin4sure	66	3	15
+299259	2	15	3 Suits	2020-09-17 — 01:09:15 UTC	nukelauncher, willwin4sure	71	3	15
+299212	2	0	3 Suits	2020-09-16 — 23:54:23 UTC	nukelauncher, willwin4sure	105	3	15
+299208	2	0	3 Suits	2020-09-16 — 23:49:38 UTC	nukelauncher, willwin4sure	124	3	15
+299029	2	20	4 Suits	2020-09-16 — 21:17:28 UTC	nukelauncher, willwin4sure	110	4	20
+299016	2	18	4 Suits	2020-09-16 — 21:11:01 UTC	nukelauncher, willwin4sure	128	4	20
+299008	2	30	6 Suits	2020-09-16 — 20:59:48 UTC	nukelauncher, willwin4sure	340	6	30
+298323	4	0	No Variant	2020-09-15 — 19:36:16 UTC	jeff10, newduke, vEnhance, willwin4sure	180	5	25
+298301	4	0	Up or Down (5 Suits)	2020-09-15 — 18:54:08 UTC	jeff10, newduke, vEnhance, willwin4sure	75	5	25
+296814	4	12	3 Suits	2020-09-13 — 20:12:50 UTC	jeff10, NodeajMOP, william65537, willwin4sure	31	3	15
+296802	4	0	3 Suits	2020-09-13 — 19:56:13 UTC	jeff10, NodeajMOP, william65537, willwin4sure	37	3	15
+296796	4	0	3 Suits	2020-09-13 — 19:50:56 UTC	jeff10, NodeajMOP, william65537, willwin4sure	49	3	15
+296789	4	13	3 Suits	2020-09-13 — 19:46:26 UTC	jeff10, NodeajMOP, william65537, willwin4sure	62	3	15
+296784	4	14	3 Suits	2020-09-13 — 19:32:32 UTC	jeff10, NodeajMOP, william65537, willwin4sure	73	3	15
+296778	5	10	3 Suits	2020-09-13 — 19:21:35 UTC	derk540, jeff10, NodeajMOP, william65537, willwin4sure	24	3	15
+296773	5	0	3 Suits	2020-09-13 — 19:11:44 UTC	derk540, jeff10, NodeajMOP, william65537, willwin4sure	27	3	15
+296706	3	23	No Variant	2020-09-13 — 15:38:29 UTC	anser, vEnhance, willwin4sure	15	5	25
+296694	3	25	No Variant	2020-09-13 — 15:13:05 UTC	anser, vEnhance, willwin4sure	16	5	25
+296684	3	25	No Variant	2020-09-13 — 14:37:06 UTC	anser, vEnhance, willwin4sure	18	5	25
+296673	3	23	No Variant	2020-09-13 — 14:00:12 UTC	anser, vEnhance, willwin4sure	19	5	25
+296667	3	25	No Variant	2020-09-13 — 13:21:10 UTC	anser, vEnhance, willwin4sure	223	5	25
+296403	3	0	No Variant	2020-09-13 — 02:01:07 UTC	jeff10, NodeajMOP, willwin4sure	422	5	25
+296383	3	0	No Variant	2020-09-13 — 01:34:13 UTC	jeff10, NodeajMOP, willwin4sure	451	5	25
+296349	3	29	Rainbow (6 Suits)	2020-09-13 — 01:03:08 UTC	jeff10, NodeajMOP, willwin4sure	282	6	30
+296315	3	0	Rainbow (6 Suits)	2020-09-13 — 00:25:27 UTC	jeff10, NodeajMOP, willwin4sure	332	6	30
+296233	3	23	No Variant	2020-09-12 — 23:13:24 UTC	anser, vEnhance, willwin4sure	224	5	25
+296196	3	0	No Variant	2020-09-12 — 22:38:09 UTC	anser, vEnhance, willwin4sure	243	5	25
+290322	3	20	4 Suits	2020-09-06 — 02:01:44 UTC	ml1234567, william65537, willwin4sure	160	4	20
+290312	3	25	6 Suits	2020-09-06 — 01:45:48 UTC	nukelauncher, william65537, willwin4sure	365	6	30
+290281	2	29	6 Suits	2020-09-06 — 01:14:08 UTC	william65537, willwin4sure	401	6	30
+290269	2	28	6 Suits	2020-09-06 — 00:59:52 UTC	william65537, willwin4sure	444	6	30
+287453	5	25	No Variant	2020-09-02 — 20:52:49 UTC	jeff10, nukelauncher, shootinglucky, william65537, willwin4sure	344	5	25
+287406	3	25	No Variant	2020-09-02 — 20:20:50 UTC	nukelauncher, shootinglucky, willwin4sure	516	5	25
+284877	4	24	No Variant	2020-08-30 — 21:34:50 UTC	NodeajMOP, nukelauncher, william65537, willwin4sure	287	5	25
+283333	4	23	Dual-Color (5 Suits)	2020-08-29 — 04:25:42 UTC	anser, nukelauncher, spartacle, willwin4sure	31	5	25
+283249	4	0	Dual-Color (5 Suits)	2020-08-29 — 03:24:12 UTC	anser, nukelauncher, spartacle, willwin4sure	37	5	25
+283225	4	23	Black (5 Suits)	2020-08-29 — 03:04:02 UTC	anser, jeff10, vEnhance, willwin4sure	98	5	25
+282865	3	24	No Variant	2020-08-28 — 20:34:05 UTC	anser, newduke, willwin4sure	551	5	25
+282831	5	0	Black (6 Suits)	2020-08-28 — 19:51:37 UTC	dmigor3, Feich59, Kowalski, newduke, willwin4sure	101	6	30
+282794	4	30	6 Suits	2020-08-28 — 19:10:54 UTC	dmigor3, Kowalski, newduke, willwin4sure	151	6	30
+282123	3	23	No Variant	2020-08-27 — 23:40:47 UTC	nukelauncher, shootinglucky, willwin4sure	1636	5	25
+282080	5	18	Black (5 Suits)	2020-08-27 — 22:43:29 UTC	avanderwalde, Feich59, timotree, vEnhance, willwin4sure	23	5	25
+282037	6	30	White (6 Suits)	2020-08-27 — 22:04:11 UTC	avanderwalde, ejwu, Feich59, tyrcho, vEnhance, willwin4sure	12	6	30
+281909	4	23	No Variant	2020-08-27 — 19:53:22 UTC	jeff10, shootinglucky, william65537, willwin4sure	3581	5	25
+281899	2	25	No Variant	2020-08-27 — 19:31:06 UTC	william65537, willwin4sure	5374	5	25
+281551	4	24	Omni (6 Suits)	2020-08-27 — 02:45:34 UTC	derk540, NodeajMOP, william65537, willwin4sure	33	6	30
+281216	3	25	No Variant	2020-08-26 — 20:54:17 UTC	anser, william65537, willwin4sure	1095	5	25
+280690	3	25	No Variant	2020-08-26 — 02:28:22 UTC	dennischen, peakpoint, willwin4sure	1881	5	25
+280612	3	19	Black (5 Suits)	2020-08-26 — 01:09:32 UTC	nukelauncher, william65537, willwin4sure	171	5	25
+280589	3	23	Up or Down (5 Suits)	2020-08-26 — 00:35:14 UTC	anser, nukelauncher, willwin4sure	88	5	25
+280576	3	23	Up or Down (5 Suits)	2020-08-26 — 00:02:07 UTC	anser, nukelauncher, willwin4sure	113	5	25
+280027	2	25	6 Suits	2020-08-25 — 05:13:10 UTC	nukelauncher, willwin4sure	666	6	30
+280019	2	27	6 Suits	2020-08-25 — 04:59:10 UTC	nukelauncher, willwin4sure	851	6	30
+280000	2	24	Cocoa Rainbow (6 Suits)	2020-08-25 — 04:41:01 UTC	nukelauncher, willwin4sure	47	6	30
+279974	3	23	White (5 Suits)	2020-08-25 — 04:17:51 UTC	meql, nukelauncher, willwin4sure	48	5	25
+279536	5	23	Black (5 Suits)	2020-08-24 — 20:39:37 UTC	anser, NodeajMOP, spartacle, vEnhance, willwin4sure	30	5	25
+279493	3	23	White (5 Suits)	2020-08-24 — 19:56:29 UTC	NodeajMOP, vEnhance, willwin4sure	61	5	25
+279449	3	24	White (5 Suits)	2020-08-24 — 19:04:47 UTC	nukelauncher, vEnhance, willwin4sure	41	5	25
+277994	4	21	White (5 Suits)	2020-08-23 — 02:33:17 UTC	jeff10, NodeajMOP, vEnhance, willwin4sure	79	5	25
+277947	5	19	Black (5 Suits)	2020-08-23 — 01:38:23 UTC	jeff10, NodeajMOP, nukelauncher, vEnhance, willwin4sure	36	5	25
+277917	4	24	Rainbow (5 Suits)	2020-08-23 — 00:59:14 UTC	anser, nukelauncher, vEnhance, willwin4sure	92	5	25
+277093	4	25	White (5 Suits)	2020-08-22 — 03:54:30 UTC	anser, nukelauncher, vEnhance, willwin4sure	46	5	25
+277058	3	24	White (5 Suits)	2020-08-22 — 03:25:55 UTC	anser, vEnhance, willwin4sure	81	5	25
+276999	3	25	White (5 Suits)	2020-08-22 — 02:48:11 UTC	anser, vEnhance, willwin4sure	126	5	25
+275975	3	24	No Variant	2020-08-20 — 21:43:06 UTC	derk540, ml1234567, willwin4sure	573	5	25
+275964	3	22	No Variant	2020-08-20 — 21:21:29 UTC	derk540, ml1234567, willwin4sure	2163	5	25
+270318	3	20	No Variant	2020-08-14 — 01:20:29 UTC	anser, NodeajMOP, willwin4sure	624	5	25
+268248	2	0	3 Suits	2020-08-11 — 20:10:16 UTC	knightofmines, willwin4sure	271	3	15
+267718	4	25	No Variant	2020-08-11 — 02:10:32 UTC	meql, mikeren, NodeajMOP, willwin4sure	326	5	25
+267681	4	24	No Variant	2020-08-11 — 01:34:25 UTC	meql, mikeren, NodeajMOP, willwin4sure	336	5	25
+267665	4	22	No Variant	2020-08-11 — 01:10:47 UTC	meql, NodeajMOP, nukelauncher, willwin4sure	717	5	25
+267566	5	0	No Variant	2020-08-10 — 22:07:36 UTC	ml1234567, NodeajMOP, nukelauncher, william65537, willwin4sure	383	5	25
+267541	3	21	No Variant	2020-08-10 — 21:42:52 UTC	NodeajMOP, william65537, willwin4sure	1174	5	25
+265575	4	25	No Variant	2020-08-08 — 22:30:40 UTC	meql, ml1234567, william65537, willwin4sure	442	5	25
+264822	3	22	No Variant	2020-08-08 — 03:46:46 UTC	DottedCaculator, vEnhance, willwin4sure	645	5	25
+264789	3	25	No Variant	2020-08-08 — 03:22:13 UTC	vEnhance, william65537, willwin4sure	680	5	25
+264750	4	25	No Variant	2020-08-08 — 02:56:32 UTC	anser, vEnhance, william65537, willwin4sure	373	5	25
+263150	3	25	No Variant	2020-08-06 — 03:52:24 UTC	ml1234567, vEnhance, willwin4sure	750	5	25
+263124	5	23	No Variant	2020-08-06 — 03:24:47 UTC	derk540, mikeren, ml1234567, vEnhance, willwin4sure	135	5	25
+263090	5	0	No Variant	2020-08-06 — 02:50:23 UTC	meql, mikeren, NodeajMOP, vEnhance, willwin4sure	143	5	25
+263072	4	0	No Variant	2020-08-06 — 02:33:35 UTC	meql, mikeren, NodeajMOP, willwin4sure	793	5	25
+263055	4	0	No Variant	2020-08-06 — 02:16:33 UTC	meql, mikeren, NodeajMOP, willwin4sure	985	5	25
+263011	4	20	No Variant	2020-08-06 — 01:41:24 UTC	colin_tang_9, NodeajMOP, pravi, willwin4sure	1744	5	25
+262990	5	0	No Variant	2020-08-06 — 01:16:59 UTC	colin_tang_9, gzhang, NodeajMOP, pravi, willwin4sure	658	5	25
+262982	4	21	No Variant	2020-08-06 — 01:08:16 UTC	colin_tang_9, NodeajMOP, vEnhance, willwin4sure	384	5	25
+262970	4	0	No Variant	2020-08-06 — 00:50:28 UTC	colin_tang_9, NodeajMOP, vEnhance, willwin4sure	473	5	25
+262962	3	0	No Variant	2020-08-06 — 00:38:52 UTC	colin_tang_9, NodeajMOP, willwin4sure	1291	5	25
+260031	4	23	No Variant	2020-08-03 — 05:31:02 UTC	colin_tang_9, spartacle, vEnhance, willwin4sure	501	5	25
+259968	5	0	No Variant	2020-08-03 — 05:02:58 UTC	colin_tang_9, derk540, spartacle, vEnhance, willwin4sure	176	5	25
+259936	5	23	No Variant	2020-08-03 — 04:39:17 UTC	colin_tang_9, derk540, spartacle, vEnhance, willwin4sure	457	5	25
+259916	4	0	No Variant	2020-08-03 — 04:19:05 UTC	colin_tang_9, derk540, vEnhance, willwin4sure	541	5	25
+256535	3	23	No Variant	2020-07-31 — 00:56:53 UTC	spartacle, Twistya2, willwin4sure	3260	5	25
+255378	3	23	No Variant	2020-07-29 — 18:58:18 UTC	jj8128, Ozymandias314, willwin4sure	801	5	25
+255374	3	23	No Variant	2020-07-29 — 18:43:13 UTC	jj8128, Ozymandias314, willwin4sure	840	5	25
+255361	3	22	No Variant	2020-07-29 — 18:21:46 UTC	jj8128, Ozymandias314, willwin4sure	940	5	25
+255353	3	0	No Variant	2020-07-29 — 18:06:40 UTC	jj8128, Ozymandias314, willwin4sure	1017	5	25
+254714	4	22	No Variant	2020-07-28 — 23:00:19 UTC	ml1234567, nukelauncher, vEnhance, willwin4sure	601	5	25
+254706	3	29	Rainbow (6 Suits)	2020-07-28 — 22:38:46 UTC	ml1234567, nukelauncher, willwin4sure	689	6	30
+254691	3	23	Black (6 Suits)	2020-07-28 — 22:12:59 UTC	ml1234567, nukelauncher, willwin4sure	399	6	30
+254684	3	25	6 Suits	2020-07-28 — 21:55:18 UTC	ml1234567, nukelauncher, willwin4sure	503	6	30
+254667	3	24	No Variant	2020-07-28 — 21:36:07 UTC	ml1234567, nukelauncher, willwin4sure	4221	5	25
+252154	4	25	No Variant	2020-07-26 — 20:51:14 UTC	ml1234567, NodeajMOP, nukelauncher, willwin4sure	899	5	25
+252113	4	22	No Variant	2020-07-26 — 20:28:57 UTC	ml1234567, NodeajMOP, Twistya2, willwin4sure	1092	5	25
+252061	4	23	No Variant	2020-07-26 — 20:02:28 UTC	ml1234567, NodeajMOP, nukelauncher, willwin4sure	1449	5	25
+249514	4	24	No Variant	2020-07-24 — 04:44:12 UTC	ml1234567, nukelauncher, vEnhance, willwin4sure	1253	5	25
+249481	4	25	No Variant	2020-07-24 — 04:17:47 UTC	ml1234567, spartacle, vEnhance, willwin4sure	655	5	25

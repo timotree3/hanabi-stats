@@ -1,0 +1,660 @@
+222629	3	19	Dual-Color & Rainbow (4 Suits)	2020-06-29 — 00:41:39 UTC	DMoney, duckmammal, kimbifille	4	4	20
+222601	3	0	Dual-Color & Rainbow (4 Suits)	2020-06-29 — 00:15:52 UTC	DMoney, duckmammal, kimbifille	12	4	20
+222572	4	0	Dual-Color & Rainbow (4 Suits)	2020-06-28 — 23:44:43 UTC	DMoney, duckmammal, kimbifille, Livia	1	4	20
+222556	4	0	Dual-Color & Rainbow (4 Suits)	2020-06-28 — 23:23:20 UTC	DMoney, duckmammal, kimbifille, Livia	3	4	20
+222529	4	0	Dual-Color & Rainbow (4 Suits)	2020-06-28 — 23:05:12 UTC	DMoney, duckmammal, kimbifille, Livia	5	4	20
+219648	4	23	Muddy-Rainbow-Fives & Black (5 Suits)	2020-06-26 — 20:19:23 UTC	duckmammal, kimbifille, kooolant, TimeHoodie	1	5	25
+219625	4	22	Muddy-Rainbow-Fives & Black (5 Suits)	2020-06-26 — 19:47:06 UTC	duckmammal, kimbifille, kooolant, TimeHoodie	1	5	25
+219599	4	0	Muddy-Rainbow-Fives & Black (5 Suits)	2020-06-26 — 19:24:09 UTC	duckmammal, kimbifille, kooolant, TimeHoodie	1	5	25
+219587	4	0	Muddy-Rainbow-Fives & Black (5 Suits)	2020-06-26 — 19:14:36 UTC	duckmammal, kimbifille, kooolant, TimeHoodie	1	5	25
+219577	4	0	Muddy-Rainbow-Fives & Black (5 Suits)	2020-06-26 — 19:07:32 UTC	duckmammal, kimbifille, kooolant, TimeHoodie	1	5	25
+219559	4	23	Muddy-Rainbow-Fives & Black (5 Suits)	2020-06-26 — 18:52:50 UTC	duckmammal, kimbifille, kooolant, TimeHoodie	1	5	25
+219535	4	23	Muddy-Rainbow-Fives & Black (5 Suits)	2020-06-26 — 18:30:51 UTC	duckmammal, kimbifille, kooolant, TimeHoodie	2	5	25
+218348	3	0	Clue Starved & Rainbow (5 Suits)	2020-06-25 — 20:03:58 UTC	Dr_Kakashi, duckmammal, kimbifille	4	5	25
+218346	3	0	Clue Starved & Rainbow (5 Suits)	2020-06-25 — 20:00:30 UTC	Dr_Kakashi, duckmammal, kimbifille	8	5	25
+218324	3	30	Clue Starved (6 Suits)	2020-06-25 — 19:43:19 UTC	Dr_Kakashi, duckmammal, kimbifille	6	6	30
+218303	4	0	Clue Starved (5 Suits)	2020-06-25 — 19:10:29 UTC	Dr_Kakashi, duckmammal, Fey, kimbifille	3	5	25
+217304	3	22	Null (5 Suits)	2020-06-24 — 19:16:09 UTC	duckmammal, Fey, kooolant	54	5	25
+217291	2	20	Null (5 Suits)	2020-06-24 — 18:46:09 UTC	duckmammal, Fey	101	5	25
+216294	2	26	Black & Dark Rainbow (6 Suits)	2020-06-23 — 20:42:12 UTC	duckmammal, Fey	32	6	30
+216284	2	0	Black & Dark Rainbow (6 Suits)	2020-06-23 — 20:28:54 UTC	duckmammal, Fey	32	6	30
+216275	2	0	Black & Dark Rainbow (6 Suits)	2020-06-23 — 20:19:35 UTC	duckmammal, Fey	37	6	30
+216260	2	0	Black & Dark Rainbow (6 Suits)	2020-06-23 — 20:04:27 UTC	duckmammal, Fey	42	6	30
+216229	3	27	Muddy-Rainbow-Ones & Dark Brown (6 Suits)	2020-06-23 — 19:30:25 UTC	duckmammal, kimbifille, TimeHoodie	1	6	30
+216209	3	0	Muddy-Rainbow-Ones & Dark Brown (6 Suits)	2020-06-23 — 19:00:13 UTC	duckmammal, kimbifille, TimeHoodie	3	6	30
+214578	3	0	Light-Pink-Fives & Rainbow (6 Suits)	2020-06-22 — 00:14:38 UTC	duckmammal, kimbifille, piper	1	6	30
+214558	3	0	Light-Pink-Fives & Rainbow (6 Suits)	2020-06-21 — 23:41:50 UTC	duckmammal, kimbifille, piper	1	6	30
+214009	3	26	Black & Dark Rainbow (6 Suits)	2020-06-21 — 07:59:25 UTC	duckmammal, Fey, kooolant	19	6	30
+213991	3	0	Black & Dark Rainbow (6 Suits)	2020-06-21 — 07:40:54 UTC	duckmammal, Fey, kooolant	20	6	30
+213984	3	0	Black & Dark Rainbow (6 Suits)	2020-06-21 — 07:28:36 UTC	duckmammal, Fey, kooolant	21	6	30
+213979	3	24	Black & Dark Rainbow (6 Suits)	2020-06-21 — 07:13:54 UTC	duckmammal, Fey, kooolant	28	6	30
+213964	2	24	Black & Dark Brown (6 Suits)	2020-06-21 — 06:44:52 UTC	duckmammal, Fey	13	6	30
+213948	2	0	Black & Dark Brown (6 Suits)	2020-06-21 — 06:28:36 UTC	duckmammal, Fey	16	6	30
+210999	4	21	Dark Brown (5 Suits)	2020-06-18 — 23:50:38 UTC	duckmammal, kimbifille, kooolant, TimeHoodie	14	5	25
+210988	4	22	Dark Brown (5 Suits)	2020-06-18 — 23:24:41 UTC	duckmammal, kimbifille, kooolant, TimeHoodie	14	5	25
+210977	4	0	Dark Brown (5 Suits)	2020-06-18 — 23:03:15 UTC	duckmammal, kimbifille, kooolant, TimeHoodie	17	5	25
+210968	3	0	Black & Dark Brown (6 Suits)	2020-06-18 — 22:50:16 UTC	duckmammal, kimbifille, kooolant	3	6	30
+210949	3	0	Black & Dark Brown (6 Suits)	2020-06-18 — 22:36:43 UTC	duckmammal, kimbifille, kooolant	5	6	30
+210944	2	0	Black & Dark Brown (6 Suits)	2020-06-18 — 22:27:07 UTC	duckmammal, kimbifille	13	6	30
+208817	4	0	Pink & Brown (6 Suits)	2020-06-16 — 20:08:23 UTC	duckmammal, kimbifille, padi, Valetta6789	6	6	30
+208790	4	0	Pink & Brown (6 Suits)	2020-06-16 — 19:45:27 UTC	duckmammal, kimbifille, padi, Valetta6789	13	6	30
+208785	4	0	Pink & Brown (6 Suits)	2020-06-16 — 19:37:33 UTC	duckmammal, kimbifille, padi, Valetta6789	13	6	30
+208773	5	0	Muddy Rainbow (5 Suits)	2020-06-16 — 19:10:30 UTC	duckmammal, kimbifille, Livia, padi, scharkbite	7	5	25
+208757	4	0	Pink & Dark Brown (6 Suits)	2020-06-16 — 18:45:25 UTC	duckmammal, kimbifille, padi, scharkbite	5	6	30
+208743	3	0	Pink & Dark Brown (6 Suits)	2020-06-16 — 18:22:05 UTC	duckmammal, kimbifille, padi	5	6	30
+200401	4	24	Clue Starved (5 Suits)	2020-06-09 — 18:01:16 UTC	Dr_Kakashi, duckmammal, Fey, kimbifille	3	5	25
+200382	5	0	Clue Starved & White (6 Suits)	2020-06-09 — 17:33:11 UTC	Dr_Kakashi, duckmammal, Fey, Floriman, kimbifille	1	6	30
+200380	5	0	Clue Starved & White (6 Suits)	2020-06-09 — 17:27:10 UTC	Dr_Kakashi, duckmammal, Fey, Floriman, kimbifille	1	6	30
+200364	5	0	Clue Starved & White (6 Suits)	2020-06-09 — 17:04:43 UTC	Dr_Kakashi, duckmammal, Fey, Floriman, kimbifille	1	6	30
+200334	6	0	Reversed (6 Suits)	2020-06-09 — 16:30:58 UTC	Dr_Kakashi, duckmammal, Fey, sephiroth, TheDaniMan, will.i.am	2	6	30
+200317	6	0	Reversed (6 Suits)	2020-06-09 — 15:57:20 UTC	Dr_Kakashi, duckmammal, Fey, sin_faith, TheDaniMan, will.i.am	4	6	30
+199619	4	0	Null (5 Suits)	2020-06-09 — 01:26:36 UTC	Dr_Kakashi, duckmammal, kimbifille, TimeHoodie	1	5	25
+199593	4	0	Null (5 Suits)	2020-06-09 — 01:08:26 UTC	Dr_Kakashi, duckmammal, kimbifille, TimeHoodie	1	5	25
+199580	4	0	Null (5 Suits)	2020-06-09 — 00:57:08 UTC	Dr_Kakashi, duckmammal, kimbifille, TimeHoodie	1	5	25
+199560	4	0	Null (5 Suits)	2020-06-09 — 00:42:24 UTC	Dr_Kakashi, duckmammal, kimbifille, TimeHoodie	2	5	25
+199554	4	0	Null (5 Suits)	2020-06-09 — 00:36:21 UTC	Dr_Kakashi, duckmammal, kimbifille, TimeHoodie	2	5	25
+199501	5	25	Null (5 Suits)	2020-06-09 — 00:04:39 UTC	Dr_Kakashi, duckmammal, kimbifille, kooolant, TimeHoodie	6	5	25
+199479	5	0	Null (5 Suits)	2020-06-08 — 23:34:15 UTC	Dr_Kakashi, duckmammal, kimbifille, kooolant, TimeHoodie	9	5	25
+198430	6	21	Gray (5 Suits)	2020-06-07 — 23:48:53 UTC	Dr_Kakashi, duckmammal, kimbifille, Kyle, micerang, padi	5	5	25
+198402	3	25	Cocoa Rainbow (5 Suits)	2020-06-07 — 23:10:20 UTC	Dr_Kakashi, duckmammal, kimbifille	29	5	25
+198375	4	25	Reversed (5 Suits)	2020-06-07 — 22:42:04 UTC	Dr_Kakashi, duckmammal, kimbifille, kooolant	5	5	25
+196182	3	0	Reversed (5 Suits)	2020-06-06 — 08:35:11 UTC	duckmammal, Fey, postmans	35	5	25
+196176	2	0	Reversed (5 Suits)	2020-06-06 — 08:28:00 UTC	duckmammal, Fey	39	5	25
+196167	2	23	Reversed (5 Suits)	2020-06-06 — 08:18:05 UTC	duckmammal, Fey	44	5	25
+193550	4	0	Rainbow (5 Suits)	2020-06-04 — 06:50:51 UTC	derekcheah, duckmammal, Lilliana, swineherd	23	5	25
+193536	3	26	Black (6 Suits)	2020-06-04 — 06:20:44 UTC	duckmammal, florrat2, swineherd	3	6	30
+193524	3	0	Black (6 Suits)	2020-06-04 — 05:58:49 UTC	duckmammal, florrat2, swineherd	6	6	30
+193514	3	19	4 Suits	2020-06-04 — 05:40:37 UTC	duckmammal, florrat2, swineherd	90	4	20
+193498	3	20	4 Suits	2020-06-04 — 05:19:50 UTC	duckmammal, florrat2, swineherd	160	4	20
+193456	4	23	No Variant	2020-06-04 — 04:43:16 UTC	charmander, duckmammal, mycobee, swineherd	899	5	25
+193418	3	25	Brown-Fives (5 Suits)	2020-06-04 — 04:15:41 UTC	charmander, duckmammal, kooolant	4	5	25
+193401	3	0	Brown-Fives (5 Suits)	2020-06-04 — 04:01:52 UTC	charmander, duckmammal, kooolant	5	5	25
+193291	5	25	Black (6 Suits)	2020-06-04 — 02:42:59 UTC	duckmammal, kimbifille, kooolant, will.i.am, XMIL	35	6	30
+193267	5	0	Black (5 Suits)	2020-06-04 — 02:21:15 UTC	duckmammal, kimbifille, kooolant, will.i.am, XMIL	23	5	25
+193233	5	0	Alternating Clues (4 Suits)	2020-06-04 — 01:52:06 UTC	duckmammal, kimbifille, kooolant, will.i.am, XMIL	2	4	20
+192446	2	20	Alternating Clues (4 Suits)	2020-06-03 — 06:04:38 UTC	duckmammal, Fey	10	4	20
+192438	2	0	Alternating Clues (4 Suits)	2020-06-03 — 05:58:01 UTC	duckmammal, Fey	15	4	20
+192425	2	20	Muddy Rainbow (4 Suits)	2020-06-03 — 05:45:28 UTC	duckmammal, Fey	47	4	20
+192416	2	20	Pink & Brown (4 Suits)	2020-06-03 — 05:29:17 UTC	duckmammal, Fey	17	4	20
+192401	2	16	Pink & Brown (4 Suits)	2020-06-03 — 05:12:33 UTC	duckmammal, Fey	21	4	20
+192389	2	19	Pink & Brown (4 Suits)	2020-06-03 — 04:58:14 UTC	duckmammal, Fey	22	4	20
+191419	5	29	Pink-Ones (6 Suits)	2020-06-02 — 09:03:09 UTC	asaelr, Dr_Kakashi, duckmammal, Floriman, Zakisan	1	6	30
+191412	5	0	Pink-Ones (6 Suits)	2020-06-02 — 08:37:16 UTC	asaelr, Dr_Kakashi, duckmammal, Floriman, Zakisan	2	6	30
+191403	4	22	Cocoa Rainbow (5 Suits)	2020-06-02 — 08:04:11 UTC	asaelr, duckmammal, Fey, Zakisan	20	5	25
+191397	3	25	Dark Pink (5 Suits)	2020-06-02 — 07:37:31 UTC	asaelr, duckmammal, Fey	16	5	25
+191391	3	0	Dark Pink (5 Suits)	2020-06-02 — 07:22:30 UTC	asaelr, duckmammal, Fey	17	5	25
+191384	3	24	Dark Pink (5 Suits)	2020-06-02 — 07:08:10 UTC	asaelr, duckmammal, Fey	19	5	25
+191371	3	22	Dark Pink (5 Suits)	2020-06-02 — 06:43:23 UTC	asaelr, duckmammal, Fey	22	5	25
+191360	3	0	Dark Pink (5 Suits)	2020-06-02 — 06:20:36 UTC	asaelr, duckmammal, Fey	26	5	25
+191341	2	25	Pink (5 Suits)	2020-06-02 — 06:02:50 UTC	duckmammal, Fey	77	5	25
+190550	5	0	Up or Down (5 Suits)	2020-06-01 — 18:32:36 UTC	duckmammal, Floriman, kooolant, TimeHoodie, XMIL	9	5	25
+190530	5	0	Up or Down (5 Suits)	2020-06-01 — 18:05:15 UTC	duckmammal, kooolant, Kyle, TimeHoodie, XMIL	8	5	25
+189059	4	23	Rainbow-Fives & Black (5 Suits)	2020-05-31 — 12:36:35 UTC	Dr_Kakashi, duckmammal, kimbifille, postmans	1	5	25
+189054	4	0	Rainbow-Fives & Black (5 Suits)	2020-05-31 — 12:11:24 UTC	Dr_Kakashi, duckmammal, kimbifille, postmans	1	5	25
+189039	4	0	Rainbow-Fives & Black (5 Suits)	2020-05-31 — 11:19:52 UTC	Dr_Kakashi, duckmammal, hakha3, postmans	1	5	25
+189034	3	14	3 Suits	2020-05-31 — 10:56:37 UTC	duckmammal, hakha3, postmans	115	3	15
+189029	3	14	3 Suits	2020-05-31 — 10:41:28 UTC	duckmammal, hakha3, postmans	144	3	15
+189028	2	21	Black (5 Suits)	2020-05-31 — 10:26:57 UTC	duckmammal, hakha3	124	5	25
+189022	2	25	Black (5 Suits)	2020-05-31 — 10:07:46 UTC	duckmammal, hakha3	169	5	25
+189020	2	24	Black (5 Suits)	2020-05-31 — 09:53:39 UTC	duckmammal, hakha3	219	5	25
+186350	3	0	Brown & Dark Pink (6 Suits)	2020-05-29 — 16:53:46 UTC	duckmammal, Floriman, Kyle	1	6	30
+186343	3	0	Brown & Dark Pink (6 Suits)	2020-05-29 — 16:42:43 UTC	duckmammal, Floriman, Kyle	1	6	30
+186334	3	0	Brown & Dark Pink (6 Suits)	2020-05-29 — 16:30:35 UTC	duckmammal, Floriman, Kyle	3	6	30
+186326	3	29	Brown & Dark Pink (6 Suits)	2020-05-29 — 16:17:53 UTC	duckmammal, Floriman, Kyle	7	6	30
+186304	4	25	Dual-Color (5 Suits)	2020-05-29 — 15:55:45 UTC	duckmammal, Floriman, Kyle, XMIL	14	5	25
+186293	3	0	Dual-Color (5 Suits)	2020-05-29 — 15:36:35 UTC	duckmammal, Kyle, XMIL	44	5	25
+186281	3	0	Rainbow (5 Suits)	2020-05-29 — 15:21:15 UTC	duckmammal, XMIL, Zakisan	50	5	25
+186268	3	0	Rainbow (5 Suits)	2020-05-29 — 14:57:45 UTC	duckmammal, XMIL, Zakisan	57	5	25
+186255	3	25	Up or Down (5 Suits)	2020-05-29 — 14:42:11 UTC	duckmammal, kimbifille, Zakisan	17	5	25
+185851	5	0	White-Ones & Brown (5 Suits)	2020-05-29 — 03:55:20 UTC	derekcheah, duckmammal, qbphoenix, will.i.am, XMIL	2	5	25
+185758	4	29	Brown (6 Suits)	2020-05-29 — 03:07:26 UTC	derekcheah, duckmammal, will.i.am, XMIL	21	6	30
+185701	4	0	Brown (6 Suits)	2020-05-29 — 02:31:38 UTC	derekcheah, duckmammal, will.i.am, XMIL	27	6	30
+183595	3	0	Light-Pink-Fives & Gray Pink (5 Suits)	2020-05-27 — 09:09:38 UTC	Dr_Kakashi, duckmammal, sin_faith	1	5	25
+183592	3	24	Light-Pink-Fives & Gray Pink (5 Suits)	2020-05-27 — 09:05:00 UTC	Dr_Kakashi, duckmammal, sin_faith	1	5	25
+183588	3	0	Light-Pink-Fives & Gray Pink (5 Suits)	2020-05-27 — 08:41:35 UTC	Dr_Kakashi, duckmammal, sin_faith	1	5	25
+183576	4	0	Light-Pink-Fives & Gray Pink (5 Suits)	2020-05-27 — 08:28:43 UTC	Dr_Kakashi, duckmammal, Fey, sin_faith	1	5	25
+183567	4	0	Light-Pink-Fives & Gray Pink (5 Suits)	2020-05-27 — 08:20:57 UTC	Dr_Kakashi, duckmammal, Fey, sin_faith	1	5	25
+183540	5	30	White-Fives (6 Suits)	2020-05-27 — 07:51:14 UTC	asaelr, Dr_Kakashi, duckmammal, Fey, sin_faith	1	6	30
+183518	5	0	White-Fives (6 Suits)	2020-05-27 — 07:16:42 UTC	asaelr, Dr_Kakashi, duckmammal, Fey, sin_faith	1	6	30
+183496	5	28	White-Fives (6 Suits)	2020-05-27 — 06:47:22 UTC	asaelr, Dr_Kakashi, duckmammal, Fey, sin_faith	1	6	30
+182898	5	0	Gray Pink (6 Suits)	2020-05-26 — 20:57:25 UTC	duckmammal, Fey, kimbifille, Lilliana, TimeHoodie	3	6	30
+182861	5	0	Gray Pink (6 Suits)	2020-05-26 — 20:11:36 UTC	duckmammal, Fey, kimbifille, Lilliana, TimeHoodie	3	6	30
+182782	5	0	Gray Pink (6 Suits)	2020-05-26 — 19:35:03 UTC	duckmammal, Fey, Floriman, Lilliana, TimeHoodie	4	6	30
+176578	6	20	Pink (4 Suits)	2020-05-22 — 09:14:25 UTC	alphabeta, asaelr, Dr_Kakashi, duckmammal, Fey, Floriman	1	4	20
+176570	6	19	Pink (4 Suits)	2020-05-22 — 08:40:34 UTC	alphabeta, asaelr, Dr_Kakashi, duckmammal, Fey, Floriman	1	4	20
+176558	6	0	Pink (4 Suits)	2020-05-22 — 08:16:39 UTC	alphabeta, asaelr, Dr_Kakashi, duckmammal, Fey, Floriman	3	4	20
+176549	3	25	Up or Down (5 Suits)	2020-05-22 — 07:50:13 UTC	alphabeta, Dr_Kakashi, duckmammal	25	5	25
+176537	3	0	Up or Down (5 Suits)	2020-05-22 — 07:25:19 UTC	alphabeta, Dr_Kakashi, duckmammal	113	5	25
+176522	3	25	Omni (5 Suits)	2020-05-22 — 07:01:03 UTC	alphabeta, Dr_Kakashi, duckmammal	1	5	25
+175584	4	0	Pink (5 Suits)	2020-05-21 — 20:03:21 UTC	duckmammal, kooolant, Kyle, TheDaniMan	6	5	25
+175560	4	0	Pink (5 Suits)	2020-05-21 — 19:47:07 UTC	duckmammal, kooolant, Kyle, TheDaniMan	7	5	25
+175535	4	0	Pink (5 Suits)	2020-05-21 — 19:33:09 UTC	duckmammal, kooolant, Kyle, TheDaniMan	6	5	25
+175520	4	0	Pink (5 Suits)	2020-05-21 — 19:22:35 UTC	duckmammal, kooolant, Kyle, TheDaniMan	10	5	25
+175492	4	0	Pink (5 Suits)	2020-05-21 — 19:06:02 UTC	duckmammal, kooolant, Kyle, TheDaniMan	11	5	25
+175266	4	24	White (5 Suits)	2020-05-21 — 08:28:48 UTC	alphabeta, duckmammal, Lilliana, sin_faith	13	5	25
+175238	4	25	Rainbow & White (5 Suits)	2020-05-21 — 07:47:45 UTC	duckmammal, Fey, kimbifille, kooolant	12	5	25
+175190	3	25	Pink & Brown (5 Suits)	2020-05-21 — 07:08:13 UTC	duckmammal, kimbifille, kooolant	22	5	25
+167475	4	0	No Variant	2020-05-16 — 00:09:56 UTC	duckmammal, lotem, padi, sin_faith	43	5	25
+167472	4	0	No Variant	2020-05-16 — 00:06:15 UTC	duckmammal, lotem, padi, sin_faith	45	5	25
+167467	4	0	No Variant	2020-05-16 — 00:02:59 UTC	duckmammal, lotem, padi, sin_faith	48	5	25
+167466	4	0	No Variant	2020-05-16 — 00:01:11 UTC	duckmammal, lotem, padi, sin_faith	51	5	25
+167461	4	0	No Variant	2020-05-15 — 23:55:58 UTC	duckmammal, lotem, padi, sin_faith	52	5	25
+167458	4	0	No Variant	2020-05-15 — 23:52:46 UTC	duckmammal, lotem, padi, sin_faith	52	5	25
+167455	4	0	No Variant	2020-05-15 — 23:51:25 UTC	duckmammal, lotem, padi, sin_faith	53	5	25
+167450	4	0	No Variant	2020-05-15 — 23:47:20 UTC	duckmammal, lotem, padi, sin_faith	61	5	25
+167445	4	0	No Variant	2020-05-15 — 23:44:38 UTC	duckmammal, lotem, padi, sin_faith	60	5	25
+167438	4	0	No Variant	2020-05-15 — 23:41:40 UTC	duckmammal, lotem, padi, sin_faith	63	5	25
+167433	4	0	No Variant	2020-05-15 — 23:38:08 UTC	duckmammal, lotem, padi, sin_faith	68	5	25
+167423	4	0	No Variant	2020-05-15 — 23:33:34 UTC	duckmammal, lotem, padi, sin_faith	71	5	25
+167414	3	0	No Variant	2020-05-15 — 23:28:10 UTC	duckmammal, lotem, padi	250	5	25
+167407	3	0	No Variant	2020-05-15 — 23:24:53 UTC	duckmammal, lotem, padi	285	5	25
+167399	5	24	No Variant	2020-05-15 — 23:20:24 UTC	duckmammal, Floriman, lotem, padi, sin_faith	20	5	25
+167394	5	0	No Variant	2020-05-15 — 23:16:13 UTC	duckmammal, Floriman, lotem, padi, sin_faith	23	5	25
+167389	5	0	No Variant	2020-05-15 — 23:13:20 UTC	duckmammal, Floriman, lotem, padi, sin_faith	21	5	25
+167384	5	0	No Variant	2020-05-15 — 23:12:14 UTC	duckmammal, Floriman, lotem, padi, sin_faith	25	5	25
+167379	6	0	No Variant	2020-05-15 — 23:09:20 UTC	duckmammal, Floriman, lotem, micerang, padi, sin_faith	12	5	25
+167375	6	0	No Variant	2020-05-15 — 23:06:40 UTC	duckmammal, Floriman, lotem, micerang, padi, sin_faith	13	5	25
+167109	4	22	Up or Down (5 Suits)	2020-05-15 — 17:36:28 UTC	duckmammal, Kyle, micerang, Nitrate2	27	5	25
+158404	4	0	White (5 Suits)	2020-05-09 — 08:38:36 UTC	duckmammal, Fey, Nitrate2, plus	13	5	25
+158391	4	25	White (5 Suits)	2020-05-09 — 08:20:04 UTC	duckmammal, Fey, Nitrate2, plus	18	5	25
+156588	4	25	No Variant	2020-05-08 — 02:14:20 UTC	duckmammal, elskabette, lailie.ahava, sophiepie	2763	5	25
+154533	5	0	White & Null (5 Suits)	2020-05-06 — 16:55:19 UTC	duckmammal, Kyle, lotem, sin_faith, TimeHoodie	2	5	25
+154522	5	0	White & Null (5 Suits)	2020-05-06 — 16:44:41 UTC	duckmammal, Kyle, lotem, sin_faith, TimeHoodie	2	5	25
+154516	5	0	White & Null (5 Suits)	2020-05-06 — 16:36:45 UTC	duckmammal, Kyle, lotem, sin_faith, TimeHoodie	2	5	25
+154501	5	0	Special Mix (6 Suits)	2020-05-06 — 16:23:10 UTC	duckmammal, Kyle, lotem, sin_faith, TimeHoodie	5	6	30
+154490	5	0	Special Mix (6 Suits)	2020-05-06 — 16:11:04 UTC	duckmammal, Kyle, lotem, sin_faith, TimeHoodie	7	6	30
+154309	4	23	Omni (5 Suits)	2020-05-06 — 09:05:09 UTC	duckmammal, Fey, piper, plus	13	5	25
+154288	3	0	Omni (5 Suits)	2020-05-06 — 08:24:27 UTC	duckmammal, Fey, piper	50	5	25
+152804	4	0	Brown-Fives (6 Suits)	2020-05-05 — 05:56:19 UTC	Dr_Kakashi, duckmammal, IAMJEFF, scharkbite	1	6	30
+152782	4	0	Brown-Fives (6 Suits)	2020-05-05 — 05:36:00 UTC	Dr_Kakashi, duckmammal, IAMJEFF, scharkbite	1	6	30
+152767	4	0	Brown-Fives (6 Suits)	2020-05-05 — 05:25:15 UTC	Dr_Kakashi, duckmammal, IAMJEFF, scharkbite	2	6	30
+152747	4	0	Brown-Fives (6 Suits)	2020-05-05 — 05:11:08 UTC	Dr_Kakashi, duckmammal, IAMJEFF, scharkbite	2	6	30
+152718	4	0	Brown-Fives (6 Suits)	2020-05-05 — 04:53:42 UTC	Dr_Kakashi, duckmammal, IAMJEFF, scharkbite	3	6	30
+152695	4	0	Brown-Fives (6 Suits)	2020-05-05 — 04:37:48 UTC	Dr_Kakashi, duckmammal, IAMJEFF, scharkbite	4	6	30
+152684	4	0	Brown-Fives (6 Suits)	2020-05-05 — 04:31:12 UTC	Dr_Kakashi, duckmammal, IAMJEFF, scharkbite	4	6	30
+152667	4	0	Brown-Fives (6 Suits)	2020-05-05 — 04:20:37 UTC	Dr_Kakashi, duckmammal, IAMJEFF, scharkbite	4	6	30
+152651	4	25	Brown-Fives (5 Suits)	2020-05-05 — 04:10:16 UTC	Dr_Kakashi, duckmammal, IAMJEFF, scharkbite	3	5	25
+152629	4	20	Brown-Fives (4 Suits)	2020-05-05 — 03:54:13 UTC	Dr_Kakashi, duckmammal, IAMJEFF, scharkbite	2	4	20
+152612	4	0	Brown-Fives (4 Suits)	2020-05-05 — 03:42:08 UTC	Dr_Kakashi, duckmammal, IAMJEFF, scharkbite	2	4	20
+152602	4	15	Brown-Fives (3 Suits)	2020-05-05 — 03:36:20 UTC	Dr_Kakashi, duckmammal, IAMJEFF, scharkbite	1	3	15
+148520	4	25	No Variant	2020-05-02 — 18:48:59 UTC	asaelr, duckmammal, plus, Zakisan	25	5	25
+148483	5	0	No Variant	2020-05-02 — 18:08:25 UTC	asaelr, duckmammal, piper, plus, Zakisan	21	5	25
+148458	3	23	Black (5 Suits)	2020-05-02 — 17:33:23 UTC	duckmammal, piper, Sucubis	51	5	25
+148436	5	0	Black (6 Suits)	2020-05-02 — 17:07:21 UTC	duckmammal, Fey, piper, Sucubis, Zakisan	36	6	30
+145959	5	0	Pink (5 Suits)	2020-05-01 — 03:37:32 UTC	alphabeta, duckmammal, melwen, scharkbite, TimeHoodie	14	5	25
+145880	4	24	Rainbow (5 Suits)	2020-05-01 — 02:48:28 UTC	alphabeta, duckmammal, melwen, Razvogor	29	5	25
+145828	4	0	Rainbow (5 Suits)	2020-05-01 — 02:20:49 UTC	alphabeta, duckmammal, melwen, Razvogor	32	5	25
+145795	4	0	Rainbow (5 Suits)	2020-05-01 — 02:01:39 UTC	alphabeta, duckmammal, melwen, Razvogor	54	5	25
+145753	4	0	No Variant	2020-05-01 — 01:35:48 UTC	alphabeta, duckmammal, melwen, Razvogor	57	5	25
+145713	3	0	Up or Down & Omni (5 Suits)	2020-05-01 — 01:14:53 UTC	duckmammal, melwen, Razvogor	3	5	25
+142315	4	0	No Variant	2020-04-28 — 18:37:27 UTC	duckmammal, frollo9386, Nils, Spieler42	1744	5	25
+137466	6	0	Throw It in a Hole (6 Suits)	2020-04-25 — 08:25:48 UTC	duckmammal, letical, piper, sin_faith, XMIL, Zakisan	3	6	30
+137439	4	0	Throw It in a Hole (5 Suits)	2020-04-25 — 07:58:23 UTC	DoubleDown11, duckmammal, piper, XMIL	8	5	25
+137414	3	0	Throw It in a Hole (5 Suits)	2020-04-25 — 07:33:00 UTC	DoubleDown11, duckmammal, piper	30	5	25
+137399	4	0	Brown & Gray (6 Suits)	2020-04-25 — 07:12:06 UTC	DoubleDown11, duckmammal, piper, Zamiel	7	6	30
+137388	4	14	Light Pink (3 Suits)	2020-04-25 — 06:58:20 UTC	DoubleDown11, duckmammal, piper, Zamiel	10	3	15
+135538	4	25	No Variant	2020-04-24 — 08:32:50 UTC	Animex52, Artificial, asaelr, duckmammal	308	5	25
+134348	4	0	6 Suits	2020-04-23 — 14:58:29 UTC	Animex52, Dr_Kakashi, duckmammal, LaFayetteX	6	6	30
+134342	4	0	6 Suits	2020-04-23 — 14:47:33 UTC	Animex52, Dr_Kakashi, duckmammal, LaFayetteX	6	6	30
+134325	4	0	Dual-Color (5 Suits)	2020-04-23 — 14:22:00 UTC	Dr_Kakashi, duckmammal, LaFayetteX, sjdrodge	37	5	25
+134308	5	25	Rainbow & Light Pink (5 Suits)	2020-04-23 — 13:54:59 UTC	Dr_Kakashi, duckmammal, LaFayetteX, sin_faith, sjdrodge	2	5	25
+134296	4	29	Rainbow (6 Suits)	2020-04-23 — 13:30:18 UTC	Dr_Kakashi, duckmammal, sin_faith, sjdrodge	55	6	30
+134282	2	0	No Variant	2020-04-23 — 13:10:20 UTC	Dr_Kakashi, duckmammal	132	5	25
+134275	2	0	No Variant	2020-04-23 — 13:05:28 UTC	Dr_Kakashi, duckmammal	133	5	25
+134271	2	0	No Variant	2020-04-23 — 13:02:14 UTC	Dr_Kakashi, duckmammal	135	5	25
+134261	3	0	Pink (5 Suits)	2020-04-23 — 12:45:27 UTC	Dr_Kakashi, duckmammal, Fey	75	5	25
+134244	3	0	Pink (5 Suits)	2020-04-23 — 12:15:11 UTC	duckmammal, Fey, sin_faith	43	5	25
+134232	3	0	No Variant	2020-04-23 — 11:48:03 UTC	Dr_Kakashi, duckmammal, sin_faith	41	5	25
+134229	3	0	No Variant	2020-04-23 — 11:38:45 UTC	Dr_Kakashi, duckmammal, sin_faith	41	5	25
+133646	5	0	Black & White (6 Suits)	2020-04-23 — 00:58:17 UTC	aladdin3, Dr_Kakashi, duckmammal, Kyle, padi	2	6	30
+133640	5	0	Black & White (6 Suits)	2020-04-23 — 00:50:38 UTC	aladdin3, Dr_Kakashi, duckmammal, Kyle, padi	3	6	30
+133636	3	0	Black & White (6 Suits)	2020-04-23 — 00:47:26 UTC	Dr_Kakashi, duckmammal, Kyle	20	6	30
+132972	6	18	White-Ones (4 Suits)	2020-04-22 — 10:16:43 UTC	Dr_Kakashi, duckmammal, eevee, letical, piper, sin_faith	2	4	20
+132965	6	0	White-Ones (4 Suits)	2020-04-22 — 09:57:32 UTC	Dr_Kakashi, duckmammal, eevee, letical, piper, sin_faith	2	4	20
+132960	4	0	White-Ones (4 Suits)	2020-04-22 — 09:40:00 UTC	duckmammal, eevee, letical, piper	1	4	20
+132956	4	0	White-Ones (4 Suits)	2020-04-22 — 09:23:53 UTC	duckmammal, eevee, letical, piper	2	4	20
+132954	4	18	White-Ones (4 Suits)	2020-04-22 — 09:11:49 UTC	duckmammal, eevee, letical, piper	2	4	20
+132952	4	19	White-Ones (4 Suits)	2020-04-22 — 08:48:43 UTC	duckmammal, eevee, letical, piper	5	4	20
+132946	4	25	Pink (5 Suits)	2020-04-22 — 08:17:17 UTC	asaelr, duckmammal, letical, piper	51	5	25
+131050	4	0	Up or Down & Omni (5 Suits)	2020-04-21 — 00:10:50 UTC	Dr_Kakashi, duckmammal, Kyle, lotem	1	5	25
+131044	4	0	Up or Down & Omni (5 Suits)	2020-04-20 — 23:57:50 UTC	Dr_Kakashi, duckmammal, Kyle, lotem	8	5	25
+131021	3	0	Up or Down & Omni (5 Suits)	2020-04-20 — 23:29:46 UTC	Dr_Kakashi, duckmammal, lotem	4	5	25
+131008	3	0	Up or Down & Omni (5 Suits)	2020-04-20 — 23:09:06 UTC	Dr_Kakashi, duckmammal, lotem	6	5	25
+130989	4	24	Up or Down (5 Suits)	2020-04-20 — 22:47:50 UTC	Dr_Kakashi, duckmammal, kodomazer, lotem	16	5	25
+130971	4	0	Up or Down (5 Suits)	2020-04-20 — 22:27:39 UTC	Dr_Kakashi, duckmammal, kodomazer, lotem	20	5	25
+130931	3	30	6 Suits	2020-04-20 — 22:04:15 UTC	Dr_Kakashi, duckmammal, kodomazer	33	6	30
+130899	3	0	6 Suits	2020-04-20 — 21:45:30 UTC	Dr_Kakashi, duckmammal, kodomazer	36	6	30
+130658	5	0	6 Suits	2020-04-20 — 18:18:06 UTC	Dr_Kakashi, duckmammal, Sucubis, Yeesh, Yuga Suggah	199	6	30
+130639	4	0	6 Suits	2020-04-20 — 18:00:37 UTC	Dr_Kakashi, duckmammal, Sucubis, Yuga Suggah	7	6	30
+130635	4	0	6 Suits	2020-04-20 — 17:52:57 UTC	Dr_Kakashi, duckmammal, Sucubis, Yuga Suggah	7	6	30
+130630	4	0	6 Suits	2020-04-20 — 17:48:06 UTC	Dr_Kakashi, duckmammal, Sucubis, Yuga Suggah	8	6	30
+130621	4	0	6 Suits	2020-04-20 — 17:34:12 UTC	Dr_Kakashi, duckmammal, Sucubis, Yuga Suggah	8	6	30
+130602	4	0	6 Suits	2020-04-20 — 17:07:54 UTC	Dr_Kakashi, duckmammal, Kyle, Yuga Suggah	7	6	30
+130588	4	0	6 Suits	2020-04-20 — 16:56:08 UTC	Dr_Kakashi, duckmammal, Kyle, Yuga Suggah	8	6	30
+130584	4	0	6 Suits	2020-04-20 — 16:48:53 UTC	Dr_Kakashi, duckmammal, Kyle, Yuga Suggah	8	6	30
+130576	4	0	6 Suits	2020-04-20 — 16:30:43 UTC	Dr_Kakashi, duckmammal, maxnorris13, sin_faith	354	6	30
+130344	4	24	No Variant	2020-04-20 — 08:16:55 UTC	Artificial, duckmammal, Fey, Nils	419	5	25
+130323	4	23	No Variant	2020-04-20 — 07:31:14 UTC	Artificial, duckmammal, Fey, Tiramisu1th	655	5	25
+127309	4	0	Throw It in a Hole (5 Suits)	2020-04-18 — 18:52:33 UTC	duckmammal, LaFayetteX, MarkusKahlsen, robense	20	5	25
+127247	6	25	Pink (5 Suits)	2020-04-18 — 18:04:45 UTC	asaelr, duckmammal, Kyle, lotem, scharkbite, sin_faith	9	5	25
+125400	5	20	4 Suits	2020-04-17 — 12:55:17 UTC	Dr_Kakashi, duckmammal, IAMGUESSING, kodomazer, MarkusKahlsen	2	4	20
+125389	5	0	4 Suits	2020-04-17 — 12:18:58 UTC	Dr_Kakashi, duckmammal, IAMGUESSING, kodomazer, MarkusKahlsen	2	4	20
+125385	5	0	4 Suits	2020-04-17 — 12:09:04 UTC	Dr_Kakashi, duckmammal, IAMGUESSING, kodomazer, MarkusKahlsen	2	4	20
+125383	5	0	4 Suits	2020-04-17 — 12:05:22 UTC	Dr_Kakashi, duckmammal, IAMGUESSING, kodomazer, MarkusKahlsen	2	4	20
+125377	5	0	4 Suits	2020-04-17 — 11:32:46 UTC	Dr_Kakashi, duckmammal, IAMGUESSING, kodomazer, MarkusKahlsen	4	4	20
+125376	5	0	4 Suits	2020-04-17 — 10:58:53 UTC	Dr_Kakashi, duckmammal, IAMGUESSING, kodomazer, MarkusKahlsen	3	4	20
+125373	5	0	4 Suits	2020-04-17 — 10:31:30 UTC	Dr_Kakashi, duckmammal, IAMGUESSING, kodomazer, MarkusKahlsen	5	4	20
+125372	5	0	4 Suits	2020-04-17 — 10:23:10 UTC	Dr_Kakashi, duckmammal, IAMGUESSING, kodomazer, MarkusKahlsen	7	4	20
+125371	4	0	3 Suits	2020-04-17 — 10:15:24 UTC	Dr_Kakashi, duckmammal, IAMGUESSING, kodomazer	2	3	15
+125369	4	0	3 Suits	2020-04-17 — 10:10:03 UTC	Dr_Kakashi, duckmammal, IAMGUESSING, kodomazer	2	3	15
+122972	4	15	3 Suits	2020-04-15 — 15:57:17 UTC	bunny_in_a_hat, charmander, duckmammal, padi	16	3	15
+122955	4	0	3 Suits	2020-04-15 — 15:34:05 UTC	bunny_in_a_hat, charmander, duckmammal, padi	20	3	15
+122948	4	0	3 Suits	2020-04-15 — 15:23:28 UTC	bunny_in_a_hat, charmander, duckmammal, padi	24	3	15
+122941	4	0	3 Suits	2020-04-15 — 15:16:05 UTC	bunny_in_a_hat, charmander, duckmammal, padi	37	3	15
+122339	4	24	No Variant	2020-04-15 — 01:24:05 UTC	duckmammal, elskabette, lailie.ahava, sophiepie	3581	5	25
+122170	5	26	Dark Brown (6 Suits)	2020-04-14 — 22:48:47 UTC	duckmammal, Floriman, scharkbite, Yuga Suggah, Zamiel	2	6	30
+122158	5	0	Dark Brown (6 Suits)	2020-04-14 — 22:26:50 UTC	duckmammal, Floriman, scharkbite, Yuga Suggah, Zamiel	2	6	30
+122143	4	0	Muddy Rainbow (4 Suits)	2020-04-14 — 22:09:56 UTC	duckmammal, Floriman, scharkbite, Zamiel	5	4	20
+122128	4	0	Muddy Rainbow (4 Suits)	2020-04-14 — 21:57:57 UTC	duckmammal, Floriman, scharkbite, Zamiel	9	4	20
+122110	3	20	Muddy Rainbow (4 Suits)	2020-04-14 — 21:42:30 UTC	duckmammal, scharkbite, Zamiel	18	4	20
+122092	3	0	Muddy Rainbow (4 Suits)	2020-04-14 — 21:27:17 UTC	duckmammal, scharkbite, Zamiel	22	4	20
+122063	5	0	Up or Down (6 Suits)	2020-04-14 — 21:04:02 UTC	duckmammal, lotem, SashaIr, scharkbite, Valetta6789	6	6	30
+122023	5	0	Up or Down (6 Suits)	2020-04-14 — 20:34:23 UTC	duckmammal, lotem, SashaIr, scharkbite, Valetta6789	5	6	30
+121995	4	0	Up or Down (6 Suits)	2020-04-14 — 20:17:38 UTC	duckmammal, lotem, TheWaisel, Valetta6789	28	6	30
+121944	3	23	Up or Down (5 Suits)	2020-04-14 — 19:44:33 UTC	duckmammal, lotem, TheWaisel	29	5	25
+121551	4	25	No Variant	2020-04-14 — 08:38:27 UTC	Artificial, duckmammal, Fey, welk2871	717	5	25
+121542	4	0	No Variant	2020-04-14 — 07:57:16 UTC	Artificial, duckmammal, Fey, welk2871	793	5	25
+121537	4	0	No Variant	2020-04-14 — 07:30:43 UTC	Artificial, duckmammal, Fey, welk2871	1092	5	25
+121525	3	24	No Variant	2020-04-14 — 06:49:08 UTC	Artificial, duckmammal, welk2871	386	5	25
+121276	3	25	No Variant	2020-04-14 — 02:30:29 UTC	duckmammal, elskabette, lailie.ahava	422	5	25
+121176	3	24	No Variant	2020-04-14 — 01:41:35 UTC	duckmammal, elskabette, lailie.ahava	485	5	25
+117526	5	0	Rainbow (6 Suits)	2020-04-11 — 18:40:26 UTC	duckmammal, JDepp, lotem, sin_faith, superbipbip	133	6	30
+117485	5	0	Up or Down (6 Suits)	2020-04-11 — 18:19:37 UTC	duckmammal, Kyle, lotem, sin_faith, superbipbip	7	6	30
+117443	5	0	Up or Down (6 Suits)	2020-04-11 — 17:54:56 UTC	Div, duckmammal, Kyle, lotem, scharkbite	11	6	30
+117424	5	0	Up or Down (6 Suits)	2020-04-11 — 17:43:12 UTC	Div, duckmammal, Kyle, lotem, scharkbite	12	6	30
+117403	4	26	Ambiguous Mix	2020-04-11 — 17:25:24 UTC	duckmammal, Floriman, Kyle, scharkbite	2	6	30
+117374	4	29	Ambiguous Mix	2020-04-11 — 16:53:40 UTC	duckmammal, Floriman, Kyle, scharkbite	2	6	30
+117358	4	27	Ambiguous Mix	2020-04-11 — 16:24:59 UTC	duckmammal, Floriman, Kyle, scharkbite	2	6	30
+116526	6	0	Black (6 Suits)	2020-04-11 — 02:05:10 UTC	duckmammal, FullTrust, Kyle, Libster, lotem, RaKXeR	2	6	30
+116487	6	0	Black (6 Suits)	2020-04-11 — 01:41:26 UTC	duckmammal, FullTrust, Kyle, Libster, lotem, RaKXeR	2	6	30
+116465	6	25	No Variant	2020-04-11 — 01:26:41 UTC	bigman, duckmammal, Kyle, lotem, RaKXeR, Razvogor	25	5	25
+116420	5	0	Up or Down & Rainbow (5 Suits)	2020-04-11 — 01:02:02 UTC	bigman, duckmammal, Kyle, RaKXeR, Razvogor	2	5	25
+116393	4	0	Up or Down & Rainbow (5 Suits)	2020-04-11 — 00:44:01 UTC	bigman, duckmammal, Kyle, RaKXeR	6	5	25
+116374	2	24	Up or Down & Rainbow (5 Suits)	2020-04-11 — 00:30:28 UTC	duckmammal, Kyle	29	5	25
+115026	3	24	No Variant	2020-04-10 — 01:45:48 UTC	duckmammal, elskabette, lailie.ahava	645	5	25
+113497	4	25	White-Ones & Rainbow (5 Suits)	2020-04-08 — 02:44:40 UTC	Ahming, duckmammal, IAMJEFF, Zamiel	6	5	25
+113462	3	0	Muddy-Rainbow-Ones & Cocoa Rainbow (6 Suits)	2020-04-08 — 02:24:08 UTC	duckmammal, IAMJEFF, Zamiel	1	6	30
+113448	3	0	Muddy-Rainbow-Ones & Cocoa Rainbow (6 Suits)	2020-04-08 — 02:12:44 UTC	duckmammal, IAMJEFF, Zamiel	1	6	30
+113422	3	0	Muddy-Rainbow-Ones & Cocoa Rainbow (6 Suits)	2020-04-08 — 01:57:13 UTC	duckmammal, IAMJEFF, Zamiel	1	6	30
+113389	3	30	Pink-Fives & Omni (6 Suits)	2020-04-08 — 01:39:32 UTC	duckmammal, IAMJEFF, Zamiel	1	6	30
+112704	4	0	Rainbow (5 Suits)	2020-04-07 — 18:02:07 UTC	duckmammal, LaFayetteX, Nils, sin_faith	68	5	25
+111594	4	0	Rainbow (5 Suits)	2020-04-06 — 19:27:01 UTC	duckmammal, JDepp, letical, RaKXeR	42	5	25
+111571	4	0	Rainbow (5 Suits)	2020-04-06 — 19:04:48 UTC	Ahming, duckmammal, letical, RaKXeR	63	5	25
+111539	5	0	Throw It in a Hole (4 Suits)	2020-04-06 — 18:22:36 UTC	duckmammal, Kyle, padi, YacineH, Yuga Suggah	2	4	20
+111535	4	0	Throw It in a Hole (4 Suits)	2020-04-06 — 18:13:11 UTC	duckmammal, Kyle, padi, YacineH	12	4	20
+108490	2	25	Rainbow (5 Suits)	2020-04-04 — 07:42:37 UTC	duckmammal, Fey	129	5	25
+108482	2	22	Rainbow (5 Suits)	2020-04-04 — 07:29:05 UTC	duckmammal, Fey	154	5	25
+108466	2	30	Rainbow (6 Suits)	2020-04-04 — 07:11:10 UTC	duckmammal, Fey	971	6	30
+106623	4	25	No Variant	2020-04-03 — 02:58:40 UTC	duckmammal, Kyle, lailie.ahava, TimeHoodie	53	5	25
+106572	4	25	No Variant	2020-04-03 — 02:31:21 UTC	duckmammal, Kyle, lailie.ahava, TimeHoodie	54	5	25
+106513	3	0	No Variant	2020-04-03 — 01:54:07 UTC	duckmammal, elskabette, lailie.ahava	680	5	25
+104894	4	0	Omni (5 Suits)	2020-04-01 — 19:07:23 UTC	duckmammal, Kyle, sankala fan, sin_faith	16	5	25
+104860	4	0	Omni (5 Suits)	2020-04-01 — 18:46:31 UTC	Dr_Kakashi, duckmammal, sankala fan, sin_faith	4	5	25
+104840	4	0	Omni (5 Suits)	2020-04-01 — 18:32:00 UTC	Dr_Kakashi, duckmammal, sankala fan, sin_faith	24	5	25
+104826	5	0	Omni (5 Suits)	2020-04-01 — 18:18:22 UTC	asaelr, Dr_Kakashi, duckmammal, Kyle, sankala fan	6	5	25
+104811	5	0	Omni (5 Suits)	2020-04-01 — 17:58:01 UTC	asaelr, Dr_Kakashi, duckmammal, Kyle, sankala fan	11	5	25
+104798	4	0	Omni (5 Suits)	2020-04-01 — 17:25:56 UTC	Dr_Kakashi, duckmammal, sankala fan, sin_faith	26	5	25
+104778	5	25	Pink (5 Suits)	2020-04-01 — 17:00:31 UTC	duckmammal, padi, pianoblook, sankala fan, sin_faith	20	5	25
+102741	4	21	Black (5 Suits)	2020-03-30 — 20:14:16 UTC	duckmammal, Floriman, Nils, sin_faith	41	5	25
+102691	4	0	Black (5 Suits)	2020-03-30 — 19:45:28 UTC	duckmammal, Floriman, Nils, sin_faith	44	5	25
+102665	4	30	Rainbow-Ones (6 Suits)	2020-03-30 — 19:20:31 UTC	duckmammal, Floriman, padi, sin_faith	15	6	30
+102628	4	0	Throw It in a Hole (5 Suits)	2020-03-30 — 18:42:08 UTC	Dr_Kakashi, duckmammal, FullPunish, padi	40	5	25
+102597	3	22	Throw It in a Hole (5 Suits)	2020-03-30 — 18:12:47 UTC	duckmammal, FullPunish, padi	52	5	25
+99033	3	24	No Variant	2020-03-27 — 23:50:37 UTC	duckmammal, elskabette, lailie.ahava	750	5	25
+98502	4	0	Rainbow-Fives (6 Suits)	2020-03-27 — 09:10:56 UTC	duckmammal, Fireheart, IAMJEFF, Yeesh	5	6	30
+98501	4	0	Brown & Cocoa Rainbow (5 Suits)	2020-03-27 — 08:56:07 UTC	duckmammal, Fireheart, IAMJEFF, Valetta6789	2	5	25
+98499	4	22	Brown & Cocoa Rainbow (5 Suits)	2020-03-27 — 08:51:10 UTC	duckmammal, Fireheart, IAMJEFF, Valetta6789	2	5	25
+98498	4	0	Brown & Cocoa Rainbow (5 Suits)	2020-03-27 — 08:37:01 UTC	duckmammal, Fireheart, IAMJEFF, Valetta6789	2	5	25
+98497	3	0	Brown & Cocoa Rainbow (5 Suits)	2020-03-27 — 08:35:06 UTC	duckmammal, Fireheart, IAMJEFF	2	5	25
+98496	3	0	Brown & Cocoa Rainbow (5 Suits)	2020-03-27 — 08:33:05 UTC	duckmammal, Fireheart, IAMJEFF	2	5	25
+98495	4	0	Brown & Cocoa Rainbow (5 Suits)	2020-03-27 — 08:29:20 UTC	duckmammal, Fireheart, IAMJEFF, Valetta6789	3	5	25
+98494	4	0	Brown & Cocoa Rainbow (5 Suits)	2020-03-27 — 08:22:48 UTC	duckmammal, Fireheart, IAMJEFF, Valetta6789	4	5	25
+98492	4	0	Brown & Cocoa Rainbow (5 Suits)	2020-03-27 — 08:11:43 UTC	duckmammal, Fireheart, IAMJEFF, Valetta6789	4	5	25
+98491	3	0	Brown & Cocoa Rainbow (5 Suits)	2020-03-27 — 08:06:21 UTC	duckmammal, IAMJEFF, Valetta6789	2	5	25
+98488	3	0	Brown & Cocoa Rainbow (5 Suits)	2020-03-27 — 07:50:28 UTC	duckmammal, IAMJEFF, Valetta6789	2	5	25
+98482	3	0	Brown & Cocoa Rainbow (5 Suits)	2020-03-27 — 07:28:58 UTC	duckmammal, IAMJEFF, Valetta6789	3	5	25
+98427	4	0	Brown & Gray (6 Suits)	2020-03-27 — 05:03:33 UTC	CompleteTrust, duckmammal, FullTrust, micerang	1	6	30
+98405	4	0	Brown & Gray (6 Suits)	2020-03-27 — 04:48:04 UTC	duckmammal, FullTrust, Libster, micerang	2	6	30
+98368	4	0	Brown & Gray (6 Suits)	2020-03-27 — 04:24:08 UTC	BlameItOnRaz, duckmammal, Libster, micerang	3	6	30
+98331	4	30	Rainbow (6 Suits)	2020-03-27 — 03:52:52 UTC	DoubleDown11, duckmammal, Libster, micerang	19	6	30
+98310	5	0	6 Suits	2020-03-27 — 03:31:29 UTC	claudiob, DoubleDown11, duckmammal, Libster, micerang	1	6	30
+98285	3	0	Rainbow (6 Suits)	2020-03-27 — 03:03:41 UTC	DoubleDown11, duckmammal, Libster	7	6	30
+97340	3	22	No Variant	2020-03-26 — 01:00:47 UTC	duckmammal, MasN, Nils	516	5	25
+97296	3	0	No Variant	2020-03-26 — 00:23:02 UTC	duckmammal, MasN, Nils	801	5	25
+97269	3	23	No Variant	2020-03-25 — 23:57:14 UTC	duckmammal, MasN, Nils	1017	5	25
+97243	2	25	No Variant	2020-03-25 — 23:31:41 UTC	duckmammal, Nils	3051	5	25
+97229	2	21	No Variant	2020-03-25 — 23:09:40 UTC	duckmammal, Nils	3507	5	25
+97195	3	22	No Variant	2020-03-25 — 22:32:49 UTC	duckmammal, elskabette, lailie.ahava	1095	5	25
+96806	4	0	No Variant	2020-03-25 — 10:00:51 UTC	Dr_Kakashi, duckmammal, Fey, robense	31	5	25
+96712	3	0	No Variant	2020-03-25 — 04:14:06 UTC	duckmammal, elskabette, lailie.ahava	1291	5	25
+96673	3	25	No Variant	2020-03-25 — 03:28:10 UTC	duckmammal, elskabette, lailie.ahava	1465	5	25
+96649	3	0	No Variant	2020-03-25 — 03:01:25 UTC	duckmammal, elskabette, lailie.ahava	1881	5	25
+96607	3	0	No Variant	2020-03-25 — 02:30:13 UTC	duckmammal, elskabette, lailie.ahava	4221	5	25
+96586	3	0	Dark Rainbow (5 Suits)	2020-03-25 — 02:06:22 UTC	ADrone, DoubleDown11, duckmammal	52	5	25
+95568	4	0	Dark Pink (5 Suits)	2020-03-24 — 00:50:19 UTC	duckmammal, Livia, Nitrate, Zamiel	15	5	25
+95534	4	0	White & Omni (6 Suits)	2020-03-24 — 00:07:31 UTC	duckmammal, Livia, padi, Zamiel	3	6	30
+95512	5	18	White & Brown (4 Suits)	2020-03-23 — 23:30:53 UTC	duckmammal, Libster, Livia, padi, Zamiel	3	4	20
+92455	4	0	Rainbow (5 Suits)	2020-03-20 — 03:04:15 UTC	duckmammal, Feer, lailie.ahava, MasN	92	5	25
+92443	3	0	Rainbow (5 Suits)	2020-03-20 — 02:53:42 UTC	duckmammal, lailie.ahava, MasN	74	5	25
+92421	3	25	Rainbow (5 Suits)	2020-03-20 — 02:34:44 UTC	duckmammal, lailie.ahava, MasN	84	5	25
+91884	3	0	Rainbow (6 Suits)	2020-03-19 — 07:47:03 UTC	duckmammal, letical, RaKXeR	11	6	30
+91882	3	0	Rainbow (6 Suits)	2020-03-19 — 07:34:30 UTC	duckmammal, letical, RaKXeR	13	6	30
+91881	3	0	Rainbow (6 Suits)	2020-03-19 — 07:33:39 UTC	duckmammal, letical, RaKXeR	12	6	30
+91879	5	29	Rainbow (6 Suits)	2020-03-19 — 07:11:35 UTC	duckmammal, Fireheart, lailie.ahava, RaKXeR, Razvogor	12	6	30
+91873	5	25	No Variant	2020-03-19 — 06:33:56 UTC	duckmammal, Fireheart, lailie.ahava, RaKXeR, Razvogor	30	5	25
+91858	3	24	No Variant	2020-03-19 — 05:58:33 UTC	duckmammal, lailie.ahava, NoMercy	1636	5	25
+91842	6	25	White (5 Suits)	2020-03-19 — 05:27:12 UTC	DoubleDown11, duckmammal, lailie.ahava, micerang, Razvogor, sckuzzle	2	5	25
+91825	6	24	White (5 Suits)	2020-03-19 — 04:45:41 UTC	DoubleDown11, duckmammal, lailie.ahava, micerang, pianoblook, Razvogor	4	5	25
+91788	5	0	Gray Pink (5 Suits)	2020-03-19 — 04:00:14 UTC	DoubleDown11, duckmammal, Kyle, micerang, Razvogor	2	5	25
+91769	5	0	Gray Pink (5 Suits)	2020-03-19 — 03:38:21 UTC	DoubleDown11, duckmammal, Kyle, micerang, Razvogor	4	5	25
+91766	5	0	Gray Pink (5 Suits)	2020-03-19 — 03:35:40 UTC	DoubleDown11, duckmammal, Kyle, micerang, Razvogor	3	5	25
+91757	5	0	White (5 Suits)	2020-03-19 — 03:20:07 UTC	DoubleDown11, duckmammal, Kyle, lailie.ahava, micerang	7	5	25
+91744	2	24	White (5 Suits)	2020-03-19 — 02:59:04 UTC	duckmammal, lailie.ahava	90	5	25
+91348	3	29	White (6 Suits)	2020-03-18 — 15:51:28 UTC	duckmammal, Libster, Yuga Suggah	53	6	30
+91264	4	22	Color Mute (5 Suits)	2020-03-18 — 07:35:26 UTC	duckmammal, IAMJEFF, Kyle, letical	2	5	25
+91261	3	25	Color Mute (5 Suits)	2020-03-18 — 07:09:26 UTC	duckmammal, IAMJEFF, Kyle	1	5	25
+91259	3	24	Color Mute (5 Suits)	2020-03-18 — 06:52:31 UTC	duckmammal, IAMJEFF, Kyle	1	5	25
+90362	2	24	Ambiguous & Rainbow (5 Suits)	2020-03-16 — 20:15:52 UTC	duckmammal, Floriman	6	5	25
+90356	2	0	Ambiguous & Rainbow (5 Suits)	2020-03-16 — 20:01:26 UTC	duckmammal, Floriman	9	5	25
+90352	6	25	No Variant	2020-03-16 — 19:51:02 UTC	duckmammal, Kyle, padi, sckuzzle, Teferi , yaiir	75	5	25
+90347	2	22	Ambiguous & Rainbow (5 Suits)	2020-03-16 — 19:23:56 UTC	duckmammal, Kyle	11	5	25
+90343	2	0	Ambiguous & Rainbow (5 Suits)	2020-03-16 — 19:09:27 UTC	duckmammal, Kyle	18	5	25
+90342	2	0	Ambiguous & Rainbow (5 Suits)	2020-03-16 — 19:04:03 UTC	duckmammal, Kyle	24	5	25
+90340	3	0	Dual-Color (3 Suits)	2020-03-16 — 18:52:41 UTC	duckmammal, fow, MasN	30	3	15
+90337	3	23	Dual-Color (5 Suits)	2020-03-16 — 18:35:31 UTC	duckmammal, fow, MasN	69	5	25
+90234	4	0	Dual-Color (5 Suits)	2020-03-16 — 07:50:10 UTC	duckmammal, eevee, letical, pianoblook	5	5	25
+90224	6	0	Ambiguous (6 Suits)	2020-03-16 — 07:07:58 UTC	duckmammal, eevee, Kyle, letical, micerang, pianoblook	5	6	30
+90207	3	25	White (5 Suits)	2020-03-16 — 06:26:27 UTC	duckmammal, lailie.ahava, letical	81	5	25
+90200	2	25	White (5 Suits)	2020-03-16 — 05:59:30 UTC	duckmammal, lailie.ahava	123	5	25
+90195	2	25	White (5 Suits)	2020-03-16 — 05:40:59 UTC	duckmammal, lailie.ahava	184	5	25
+90193	4	0	No Variant	2020-03-16 — 05:25:43 UTC	duckmammal, Fey, letical, pianoblook	162	5	25
+89852	4	0	Ambiguous (4 Suits)	2020-03-15 — 23:15:11 UTC	aladdin3, duckmammal, letical, padi	20	4	20
+89842	4	24	Black (5 Suits)	2020-03-15 — 22:46:46 UTC	aladdin3, duckmammal, letical, padi	49	5	25
+89824	2	21	Black (5 Suits)	2020-03-15 — 22:08:37 UTC	aladdin3, duckmammal	244	5	25
+88666	4	25	No Variant	2020-03-14 — 05:17:36 UTC	DoubleDown11, duckmammal, lailie.ahava, pianoblook	180	5	25
+88638	4	25	No Variant	2020-03-14 — 04:42:27 UTC	DoubleDown11, duckmammal, lailie.ahava, pianoblook	190	5	25
+88634	4	0	No Variant	2020-03-14 — 04:22:04 UTC	DoubleDown11, duckmammal, lailie.ahava, pianoblook	198	5	25
+88630	6	23	No Variant	2020-03-14 — 04:03:04 UTC	DoubleDown11, duckmammal, kealariser, lailie.ahava, padi, pianoblook	478	5	25
+88624	6	0	No Variant	2020-03-14 — 03:38:25 UTC	duckmammal, kealariser, kodomazer, lailie.ahava, padi, pianoblook	282	5	25
+88619	5	23	No Variant	2020-03-14 — 03:21:01 UTC	duckmammal, kealariser, Kyle, lailie.ahava, padi	383	5	25
+88614	2	25	No Variant	2020-03-14 — 02:35:11 UTC	duckmammal, lailie.ahava	5374	5	25
+88464	3	30	White & Brown (6 Suits)	2020-03-13 — 11:29:23 UTC	Dr_Kakashi, duckmammal, Floriman	5	6	30
+88463	3	0	White & Brown (6 Suits)	2020-03-13 — 11:12:21 UTC	Dr_Kakashi, duckmammal, Floriman	10	6	30
+88462	3	0	White & Brown (6 Suits)	2020-03-13 — 11:09:20 UTC	Dr_Kakashi, duckmammal, Floriman	12	6	30
+88461	5	0	Rainbow (6 Suits)	2020-03-13 — 11:01:32 UTC	Dr_Kakashi, duckmammal, Floriman, Hyphen-ated, kodomazer	17	6	30
+88460	5	0	Rainbow (6 Suits)	2020-03-13 — 10:45:18 UTC	Dr_Kakashi, duckmammal, Floriman, Hyphen-ated, kodomazer	20	6	30
+88459	5	0	Rainbow (6 Suits)	2020-03-13 — 10:02:50 UTC	Dr_Kakashi, duckmammal, Floriman, Hyphen-ated, kodomazer	31	6	30
+88458	5	0	Rainbow (6 Suits)	2020-03-13 — 09:40:42 UTC	Dr_Kakashi, duckmammal, Floriman, Hyphen-ated, kodomazer	50	6	30
+88457	5	0	Rainbow (6 Suits)	2020-03-13 — 09:35:39 UTC	Dr_Kakashi, duckmammal, Fey, Hyphen-ated, kodomazer	83	6	30
+88007	4	0	Up or Down & Omni (5 Suits)	2020-03-13 — 00:31:57 UTC	duckmammal, Floriman, Libster, Razvogor	2	5	25
+88006	4	0	Up or Down & Omni (5 Suits)	2020-03-13 — 00:20:43 UTC	duckmammal, Floriman, Libster, Razvogor	3	5	25
+88004	4	0	Up or Down & Omni (5 Suits)	2020-03-13 — 00:16:57 UTC	duckmammal, Floriman, Libster, Razvogor	4	5	25
+88002	4	24	Up or Down & Omni (5 Suits)	2020-03-12 — 23:58:58 UTC	duckmammal, Floriman, Libster, Razvogor	3	5	25
+88000	4	0	Up or Down & Omni (5 Suits)	2020-03-12 — 23:39:59 UTC	duckmammal, Floriman, Libster, Razvogor	5	5	25
+87997	4	0	Up or Down & Omni (5 Suits)	2020-03-12 — 23:27:27 UTC	duckmammal, Floriman, Libster, Razvogor	5	5	25
+87996	4	0	Up or Down & Omni (5 Suits)	2020-03-12 — 23:07:05 UTC	duckmammal, Floriman, Libster, Razvogor	8	5	25
+87991	3	0	Up or Down & Omni (5 Suits)	2020-03-12 — 22:31:26 UTC	duckmammal, Floriman, Razvogor	5	5	25
+87980	5	27	Black & White (6 Suits)	2020-03-12 — 21:50:15 UTC	aladdin3, DoubleDown11, duckmammal, Floriman, padi	15	6	30
+87793	4	29	Black & White (6 Suits)	2020-03-12 — 04:15:47 UTC	DoubleDown11, duckmammal, kodomazer, pianoblook	29	6	30
+86426	4	25	Rainbow & Dark Brown (5 Suits)	2020-03-09 — 23:52:55 UTC	duckmammal, Fireheart, Floriman, micerang	5	5	25
+86410	4	0	Black & Rainbow (5 Suits)	2020-03-09 — 23:25:42 UTC	duckmammal, Fireheart, Floriman, Libster	1	5	25
+86408	5	30	Rainbow (6 Suits)	2020-03-09 — 22:25:58 UTC	aladdin3, duckmammal, Floriman, padi, RaKXeR	21	6	30
+86352	4	21	Gray (5 Suits)	2020-03-09 — 10:57:29 UTC	duckmammal, Fireheart, magikarp, pianoblook	1	5	25
+86351	4	0	Gray (5 Suits)	2020-03-09 — 10:38:36 UTC	duckmammal, Fireheart, magikarp, pianoblook	1	5	25
+86350	3	0	Gray (5 Suits)	2020-03-09 — 10:35:31 UTC	duckmammal, magikarp, pianoblook	12	5	25
+86349	3	0	Gray (5 Suits)	2020-03-09 — 10:16:38 UTC	duckmammal, magikarp, pianoblook	17	5	25
+86348	3	0	Gray (5 Suits)	2020-03-09 — 10:02:44 UTC	duckmammal, magikarp, pianoblook	16	5	25
+86347	3	0	Gray (5 Suits)	2020-03-09 — 09:22:22 UTC	duckmammal, magikarp, pianoblook	20	5	25
+86346	3	0	Gray (5 Suits)	2020-03-09 — 08:59:36 UTC	duckmammal, magikarp, pianoblook	19	5	25
+86344	3	0	Gray (5 Suits)	2020-03-09 — 08:42:18 UTC	duckmammal, magikarp, pianoblook	21	5	25
+86167	3	23	Gray (5 Suits)	2020-03-08 — 08:15:56 UTC	duckmammal, Fey, wortel	42	5	25
+86165	2	24	Gray (5 Suits)	2020-03-08 — 07:52:47 UTC	duckmammal, Fey	66	5	25
+86163	2	23	Gray (5 Suits)	2020-03-08 — 07:32:00 UTC	duckmammal, Fey	79	5	25
+83467	4	20	Light Pink (4 Suits)	2020-02-26 — 09:15:11 UTC	Dr_Kakashi, duckmammal, Fireheart, kopen	2	4	20
+83466	4	0	Light Pink (4 Suits)	2020-02-26 — 08:57:11 UTC	Dr_Kakashi, duckmammal, Fireheart, kopen	2	4	20
+83212	4	0	Cow & Pig (5 Suits)	2020-02-24 — 20:08:40 UTC	Dr_Kakashi, duckmammal, Floriman, Kyle	3	5	25
+83211	4	24	Cow & Pig (5 Suits)	2020-02-24 — 19:47:13 UTC	Dr_Kakashi, duckmammal, Floriman, Kyle	3	5	25
+83210	4	0	Cow & Pig (5 Suits)	2020-02-24 — 19:28:00 UTC	Dr_Kakashi, duckmammal, Floriman, Kyle	4	5	25
+83209	4	0	Pink & Brown (5 Suits)	2020-02-24 — 19:17:08 UTC	Dr_Kakashi, duckmammal, Floriman, Kyle	5	5	25
+83208	4	25	Pink & Brown (5 Suits)	2020-02-24 — 19:01:43 UTC	Dr_Kakashi, duckmammal, Floriman, Kyle	6	5	25
+83207	4	0	Pink & Brown (6 Suits)	2020-02-24 — 18:22:05 UTC	Dr_Kakashi, duckmammal, Floriman, Kyle	4	6	30
+83206	3	0	Pink & Brown (6 Suits)	2020-02-24 — 18:13:31 UTC	Dr_Kakashi, duckmammal, Kyle	2	6	30
+83205	3	0	Pink & Brown (6 Suits)	2020-02-24 — 18:05:52 UTC	Dr_Kakashi, duckmammal, Kyle	2	6	30
+83204	3	0	Pink & Brown (6 Suits)	2020-02-24 — 18:00:20 UTC	Dr_Kakashi, duckmammal, Kyle	2	6	30
+83203	3	0	Pink & Brown (6 Suits)	2020-02-24 — 17:49:05 UTC	Dr_Kakashi, duckmammal, Kyle	7	6	30
+83202	3	0	Up or Down (5 Suits)	2020-02-24 — 17:20:45 UTC	Dr_Kakashi, duckmammal, Kyle	14	5	25
+83201	3	0	Up or Down (5 Suits)	2020-02-24 — 17:04:17 UTC	Dr_Kakashi, duckmammal, Kyle	15	5	25
+83200	3	0	Up or Down (5 Suits)	2020-02-24 — 16:52:58 UTC	Dr_Kakashi, duckmammal, Kyle	24	5	25
+83197	3	0	Up or Down (5 Suits)	2020-02-24 — 16:43:11 UTC	Dr_Kakashi, duckmammal, Kyle	36	5	25
+83196	3	0	Up or Down (5 Suits)	2020-02-24 — 16:34:18 UTC	Dr_Kakashi, duckmammal, Kyle	42	5	25
+83194	4	0	Pink (3 Suits)	2020-02-24 — 16:23:32 UTC	Dr_Kakashi, duckmammal, Kyle, Livia	3	3	15
+83193	4	14	Pink (3 Suits)	2020-02-24 — 16:14:03 UTC	Dr_Kakashi, duckmammal, Kyle, Livia	4	3	15
+83192	4	0	Pink (3 Suits)	2020-02-24 — 16:04:58 UTC	Dr_Kakashi, duckmammal, Kyle, Livia	3	3	15
+83190	4	13	Pink (3 Suits)	2020-02-24 — 15:53:06 UTC	Dr_Kakashi, duckmammal, Kyle, Livia	4	3	15
+83189	3	20	4 Suits	2020-02-24 — 15:36:53 UTC	Dr_Kakashi, duckmammal, Kyle	11	4	20
+83120	3	25	No Variant	2020-02-24 — 10:16:46 UTC	Dr_Kakashi, duckmammal, Wolfiee	69	5	25
+83106	3	0	No Variant	2020-02-24 — 09:41:45 UTC	Dr_Kakashi, duckmammal, Wolfiee	2163	5	25
+83105	3	15	3 Suits	2020-02-24 — 09:30:37 UTC	Dr_Kakashi, duckmammal, RaKXeR	4	3	15
+83104	3	0	3 Suits	2020-02-24 — 09:21:38 UTC	Dr_Kakashi, duckmammal, RaKXeR	5	3	15
+83103	4	0	Rainbow & White (6 Suits)	2020-02-24 — 09:18:27 UTC	Dr_Kakashi, duckmammal, Fireheart, RaKXeR	1	6	30
+83102	4	0	Rainbow & White (6 Suits)	2020-02-24 — 09:01:03 UTC	Dr_Kakashi, duckmammal, Fireheart, RaKXeR	1	6	30
+83100	4	0	Dark Rainbow (6 Suits)	2020-02-24 — 08:36:15 UTC	Dr_Kakashi, duckmammal, Fireheart, RaKXeR	11	6	30
+82470	4	0	Black (5 Suits)	2020-02-22 — 19:06:03 UTC	DoubleDown11, duckmammal, Feer, Shos	63	5	25
+82403	4	0	Black (5 Suits)	2020-02-22 — 18:42:59 UTC	DoubleDown11, duckmammal, Feer, Shos	79	5	25
+82395	4	0	Black (5 Suits)	2020-02-22 — 18:25:45 UTC	DoubleDown11, duckmammal, Feer, Shos	98	5	25
+82394	3	0	Black (5 Suits)	2020-02-22 — 18:22:27 UTC	DoubleDown11, duckmammal, Feer	71	5	25
+82391	3	0	Black (5 Suits)	2020-02-22 — 18:13:41 UTC	DoubleDown11, duckmammal, Feer	74	5	25
+82389	3	0	Black (5 Suits)	2020-02-22 — 17:53:34 UTC	DoubleDown11, duckmammal, Feer	84	5	25
+82286	3	30	Black (6 Suits)	2020-02-22 — 03:47:54 UTC	duckmammal, Kyle, TheWildCard	60	6	30
+82280	3	0	Black (6 Suits)	2020-02-22 — 03:21:57 UTC	duckmammal, Kyle, TheWildCard	62	6	30
+82278	3	0	Black (6 Suits)	2020-02-22 — 03:12:58 UTC	duckmammal, Kyle, TheWildCard	83	6	30
+82275	3	0	Black (6 Suits)	2020-02-22 — 02:42:35 UTC	Dr_Kakashi, duckmammal, RaKXeR	19	6	30
+82242	5	25	Rainbow & Pink (5 Suits)	2020-02-21 — 21:32:17 UTC	duckmammal, Floriman, honzas, Kyle, Libster	5	5	25
+82239	5	24	Rainbow & Pink (5 Suits)	2020-02-21 — 21:09:02 UTC	duckmammal, Floriman, honzas, Kyle, Nitrate	4	5	25
+82233	5	23	Rainbow & Pink (5 Suits)	2020-02-21 — 20:33:41 UTC	duckmammal, Floriman, honzas, Kyle, Nitrate	6	5	25
+82228	4	0	Rainbow & Pink (5 Suits)	2020-02-21 — 20:16:02 UTC	duckmammal, Floriman, honzas, Kyle	6	5	25
+82225	4	0	Rainbow & Pink (5 Suits)	2020-02-21 — 20:07:27 UTC	duckmammal, Floriman, honzas, Kyle	8	5	25
+82222	3	0	Rainbow & Pink (5 Suits)	2020-02-21 — 19:41:58 UTC	duckmammal, Floriman, honzas	12	5	25
+82220	3	0	Rainbow & Pink (5 Suits)	2020-02-21 — 19:26:43 UTC	duckmammal, Floriman, honzas	19	5	25
+82219	3	0	Rainbow & Pink (5 Suits)	2020-02-21 — 19:22:18 UTC	duckmammal, Floriman, honzas	22	5	25
+81712	3	0	Gray Pink (6 Suits)	2020-02-20 — 20:51:54 UTC	duckmammal, Floriman, Kyle	7	6	30
+81711	3	0	Gray Pink (6 Suits)	2020-02-20 — 20:46:25 UTC	duckmammal, Floriman, Kyle	7	6	30
+81707	3	29	Gray Pink (6 Suits)	2020-02-20 — 20:26:32 UTC	duckmammal, Floriman, Kyle	9	6	30
+81698	3	27	Gray Pink (6 Suits)	2020-02-20 — 19:54:11 UTC	duckmammal, Floriman, Kyle	21	6	30
+81695	3	21	Gray Pink (5 Suits)	2020-02-20 — 19:25:33 UTC	duckmammal, Floriman, Kyle	3	5	25
+81693	3	0	Black & Rainbow (6 Suits)	2020-02-20 — 19:04:03 UTC	duckmammal, Floriman, Libster	30	6	30
+81692	5	30	6 Suits	2020-02-20 — 18:37:08 UTC	duckmammal, Fey, Kyle, Libster, Shos	16	6	30
+81686	4	0	No Variant	2020-02-20 — 18:04:05 UTC	duckmammal, Fey, Libster, padi	8	5	25
+81652	3	25	Rainbow-Ones & Pink (5 Suits)	2020-02-20 — 10:59:37 UTC	duckmammal, IAMJEFF, kodomazer	2	5	25
+81651	3	0	Rainbow-Ones & Pink (5 Suits)	2020-02-20 — 10:43:19 UTC	duckmammal, IAMJEFF, kodomazer	2	5	25
+81650	3	0	Rainbow-Ones & Pink (5 Suits)	2020-02-20 — 10:38:38 UTC	duckmammal, IAMJEFF, kodomazer	2	5	25
+81649	3	0	Rainbow-Ones & Pink (5 Suits)	2020-02-20 — 10:33:24 UTC	duckmammal, IAMJEFF, kodomazer	2	5	25
+81648	3	0	Rainbow-Ones & Pink (5 Suits)	2020-02-20 — 10:25:52 UTC	duckmammal, IAMJEFF, kodomazer	3	5	25
+81647	3	0	Rainbow-Ones & Pink (5 Suits)	2020-02-20 — 10:04:03 UTC	duckmammal, IAMJEFF, kodomazer	3	5	25
+81646	3	25	Rainbow-Ones (5 Suits)	2020-02-20 — 09:41:36 UTC	duckmammal, IAMJEFF, kodomazer	4	5	25
+81560	3	0	Pink & White (5 Suits)	2020-02-20 — 05:33:54 UTC	duckmammal, efaust, Feer	2	5	25
+81522	3	0	Pink & White (5 Suits)	2020-02-20 — 05:14:27 UTC	duckmammal, efaust, Feer	2	5	25
+81490	3	0	Pink & White (5 Suits)	2020-02-20 — 04:55:24 UTC	duckmammal, efaust, Feer	2	5	25
+81473	3	0	Pink & White (5 Suits)	2020-02-20 — 04:43:20 UTC	duckmammal, efaust, Feer	4	5	25
+81429	4	0	Dark Omni (6 Suits)	2020-02-20 — 03:41:51 UTC	duckmammal, Fireheart, Kyle, Zamiel	7	6	30
+81412	4	0	Dark Omni (6 Suits)	2020-02-20 — 03:26:55 UTC	duckmammal, Fireheart, Kyle, Zamiel	8	6	30
+81396	4	0	Dark Omni (6 Suits)	2020-02-20 — 03:15:04 UTC	duckmammal, Fireheart, Kyle, Zamiel	8	6	30
+81357	5	29	Rainbow (6 Suits)	2020-02-20 — 02:48:51 UTC	asaelr, duckmammal, Kyle, sankala fan, Zamiel	4	6	30
+81350	4	28	Rainbow (6 Suits)	2020-02-20 — 02:11:25 UTC	asaelr, duckmammal, sankala fan, Zamiel	3	6	30
+81299	3	24	No Variant	2020-02-19 — 19:33:12 UTC	asaelr, duckmammal, Kyle	50	5	25
+81298	4	0	No Variant	2020-02-19 — 19:16:39 UTC	asaelr, duckmammal, Fey, Kyle	41	5	25
+81297	4	0	No Variant	2020-02-19 — 19:03:25 UTC	asaelr, duckmammal, Fey, Kyle	43	5	25
+81296	4	24	No Variant	2020-02-19 — 18:49:24 UTC	asaelr, duckmammal, Fey, Kyle	43	5	25
+81295	3	25	No Variant	2020-02-19 — 18:26:23 UTC	asaelr, duckmammal, Fey	53	5	25
+81294	3	0	No Variant	2020-02-19 — 18:09:38 UTC	asaelr, duckmammal, Fey	56	5	25
+81293	3	0	No Variant	2020-02-19 — 17:54:03 UTC	asaelr, duckmammal, Fey	57	5	25
+81292	3	0	No Variant	2020-02-19 — 17:42:04 UTC	asaelr, duckmammal, Fey	55	5	25
+80903	3	0	Up or Down (5 Suits)	2020-02-19 — 01:50:12 UTC	duckmammal, RaKXeR, sankala fan	54	5	25
+80901	3	24	Up or Down (5 Suits)	2020-02-19 — 01:26:41 UTC	duckmammal, Kyle, MasN	57	5	25
+80899	3	22	Up or Down (5 Suits)	2020-02-19 — 01:06:27 UTC	duckmammal, Kyle, MasN	62	5	25
+80897	5	0	No Variant	2020-02-19 — 00:27:58 UTC	aladdin3, bill42, duckmammal, Kyle, MasN	1995	5	25
+80894	3	0	No Variant	2020-02-18 — 23:46:34 UTC	bill42, duckmammal, MasN	1174	5	25
+80892	2	19	4 Suits	2020-02-18 — 23:27:22 UTC	duckmammal, MasN	128	4	20
+80890	3	0	Gray (5 Suits)	2020-02-18 — 23:14:31 UTC	duckmammal, hanabornoob, MasN	26	5	25
+80889	3	0	Gray (5 Suits)	2020-02-18 — 23:08:12 UTC	duckmammal, hanabornoob, MasN	35	5	25
+80888	3	23	Gray (5 Suits)	2020-02-18 — 22:56:51 UTC	duckmammal, hanabornoob, MasN	37	5	25
+80884	5	0	Rainbow (5 Suits)	2020-02-18 — 22:09:16 UTC	duckmammal, Floriman, Kyle, padi, Shos	11	5	25
+80883	5	0	Rainbow (5 Suits)	2020-02-18 — 21:50:52 UTC	duckmammal, Floriman, Kyle, padi, Shos	12	5	25
+80882	4	22	Rainbow (5 Suits)	2020-02-18 — 21:31:42 UTC	duckmammal, Fey, Floriman, padi	130	5	25
+80881	3	23	Rainbow (5 Suits)	2020-02-18 — 21:02:25 UTC	duckmammal, Fey, Floriman	116	5	25
+80879	2	23	Rainbow (5 Suits)	2020-02-18 — 20:43:02 UTC	duckmammal, Fey	248	5	25
+80850	3	25	No Variant	2020-02-18 — 11:48:51 UTC	duckmammal, hanabornoob, magikarp	411	5	25
+80848	3	0	No Variant	2020-02-18 — 11:16:25 UTC	duckmammal, hanabornoob, magikarp	451	5	25
+80847	3	0	No Variant	2020-02-18 — 11:09:22 UTC	duckmammal, hanabornoob, magikarp	459	5	25
+80842	3	25	Pink & White (5 Suits)	2020-02-18 — 09:22:34 UTC	duckmammal, efaust, sjdrodge	14	5	25
+80840	3	24	Pink & White (5 Suits)	2020-02-18 — 08:55:26 UTC	duckmammal, efaust, sjdrodge	17	5	25
+80839	4	0	No Variant	2020-02-18 — 08:32:24 UTC	duckmammal, efaust, intjester, sjdrodge	16	5	25
+80838	3	24	Up or Down (5 Suits)	2020-02-18 — 08:14:44 UTC	duckmammal, efaust, sjdrodge	19	5	25
+80836	3	24	No Variant	2020-02-18 — 06:57:08 UTC	DoubleDown11, duckmammal, magikarp	551	5	25
+80835	3	0	No Variant	2020-02-18 — 06:39:42 UTC	DoubleDown11, duckmammal, magikarp	573	5	25
+80834	3	0	No Variant	2020-02-18 — 06:32:33 UTC	DoubleDown11, duckmammal, magikarp	624	5	25
+79840	4	24	Rainbow & Pink (5 Suits)	2020-02-13 — 22:33:22 UTC	duckmammal, honzas, MasN, scharkbite	9	5	25
+79830	4	0	Rainbow & Pink (5 Suits)	2020-02-13 — 22:05:12 UTC	duckmammal, honzas, MasN, scharkbite	10	5	25
+79829	5	0	Rainbow & Pink (5 Suits)	2020-02-13 — 21:46:48 UTC	duckmammal, honzas, Kyle, MasN, scharkbite	6	5	25
+79826	5	0	Rainbow & Pink (5 Suits)	2020-02-13 — 21:36:12 UTC	duckmammal, honzas, Kyle, MasN, scharkbite	6	5	25
+79825	4	0	Rainbow & Pink (5 Suits)	2020-02-13 — 21:25:23 UTC	duckmammal, honzas, Kyle, scharkbite	14	5	25
+79824	2	0	Rainbow & Pink (5 Suits)	2020-02-13 — 21:13:19 UTC	duckmammal, honzas	41	5	25
+79822	2	25	Rainbow & White (5 Suits)	2020-02-13 — 21:03:22 UTC	duckmammal, honzas	46	5	25
+79821	2	25	No Variant	2020-02-13 — 20:50:18 UTC	duckmammal, honzas	1031	5	25
+79081	3	22	Rainbow & White (5 Suits)	2020-02-12 — 00:51:46 UTC	duckmammal, Fireheart, padi	4	5	25
+79078	4	0	Rainbow & White (5 Suits)	2020-02-12 — 00:21:30 UTC	asaelr, duckmammal, Fireheart, padi	12	5	25
+79077	4	23	Brown (5 Suits)	2020-02-11 — 23:51:59 UTC	asaelr, duckmammal, padi, scharkbite	14	5	25
+79076	3	21	Brown (5 Suits)	2020-02-11 — 23:23:23 UTC	duckmammal, padi, scharkbite	31	5	25
+79075	3	24	Brown (5 Suits)	2020-02-11 — 22:53:51 UTC	duckmammal, hanabornoob, padi	39	5	25
+79074	5	0	Brown (5 Suits)	2020-02-11 — 22:33:30 UTC	duckmammal, Floriman, hanabornoob, MasN, padi	15	5	25
+79073	4	0	Brown (5 Suits)	2020-02-11 — 22:25:56 UTC	duckmammal, Floriman, hanabornoob, padi	27	5	25
+79072	4	0	Brown (5 Suits)	2020-02-11 — 22:17:37 UTC	duckmammal, Floriman, hanabornoob, padi	46	5	25
+78241	3	25	No Variant	2020-02-09 — 00:01:57 UTC	asaelr, duckmammal, padi	57	5	25
+78238	3	0	No Variant	2020-02-08 — 23:30:36 UTC	asaelr, duckmammal, padi	59	5	25
+78235	2	24	No Variant	2020-02-08 — 23:16:29 UTC	asaelr, duckmammal	182	5	25
+78170	3	0	Rainbow & White (5 Suits)	2020-02-08 — 07:31:00 UTC	duckmammal, MasN, RaKXeR	21	5	25
+78168	3	0	Rainbow & White (5 Suits)	2020-02-08 — 07:16:21 UTC	duckmammal, MasN, RaKXeR	20	5	25
+78167	3	0	Rainbow & White (5 Suits)	2020-02-08 — 07:11:54 UTC	duckmammal, MasN, RaKXeR	26	5	25
+78165	3	0	Rainbow & White (5 Suits)	2020-02-08 — 06:57:21 UTC	duckmammal, MasN, wortel	37	5	25
+78164	4	25	White (5 Suits)	2020-02-08 — 06:27:11 UTC	duckmammal, MasN, padi, wortel	60	5	25
+78163	6	25	No Variant	2020-02-08 — 05:43:03 UTC	DoubleDown11, duckmammal, Kyle, MasN, Nitrate, NoMercy	115	5	25
+78099	3	26	Rainbow (6 Suits)	2020-02-07 — 12:34:35 UTC	duckmammal, Fey, RaKXeR	13	6	30
+78098	3	0	Rainbow (6 Suits)	2020-02-07 — 11:55:36 UTC	duckmammal, Fey, RaKXeR	13	6	30
+78097	3	0	No Variant	2020-02-07 — 11:36:34 UTC	duckmammal, Fey, RaKXeR	16	5	25
+78096	4	25	No Variant	2020-02-07 — 11:10:50 UTC	duckmammal, Fey, MasN, RaKXeR	11	5	25
+78094	4	0	No Variant	2020-02-07 — 10:48:34 UTC	duckmammal, Fey, MasN, RaKXeR	12	5	25
+78093	4	0	No Variant	2020-02-07 — 10:34:04 UTC	duckmammal, Fey, MasN, RaKXeR	12	5	25
+78092	3	25	No Variant	2020-02-07 — 10:03:55 UTC	duckmammal, Fey, MasN	840	5	25
+78091	3	25	No Variant	2020-02-07 — 09:37:50 UTC	duckmammal, Fey, MasN	940	5	25
+78005	5	0	Rainbow (6 Suits)	2020-02-06 — 11:40:26 UTC	duckmammal, honzas, MasN, RaKXeR, Valetta6789	42	6	30
+78004	5	0	No Variant	2020-02-06 — 11:22:56 UTC	duckmammal, honzas, MasN, RaKXeR, Valetta6789	28	5	25
+78003	5	0	No Variant	2020-02-06 — 11:13:21 UTC	duckmammal, honzas, MasN, RaKXeR, Valetta6789	38	5	25
+78001	4	23	Black & Rainbow (5 Suits)	2020-02-06 — 10:55:06 UTC	duckmammal, MasN, RaKXeR, Valetta6789	4	5	25
+78000	4	0	Black & Rainbow (5 Suits)	2020-02-06 — 10:36:24 UTC	duckmammal, MasN, RaKXeR, Valetta6789	3	5	25
+77999	4	0	Black & Rainbow (5 Suits)	2020-02-06 — 10:28:07 UTC	duckmammal, MasN, RaKXeR, Valetta6789	23	5	25
+77998	3	25	Black (5 Suits)	2020-02-06 — 10:06:39 UTC	duckmammal, MasN, RaKXeR	171	5	25
+77997	2	24	No Variant	2020-02-06 — 09:43:34 UTC	duckmammal, MasN	4109	5	25
+77728	4	24	Brown (5 Suits)	2020-02-04 — 01:20:52 UTC	duckmammal, honzas, Kyle, micerang	2	5	25
+77726	4	0	Brown (5 Suits)	2020-02-04 — 00:56:44 UTC	duckmammal, honzas, Kyle, micerang	2	5	25
+77725	3	24	White & Brown (6 Suits)	2020-02-04 — 00:32:17 UTC	duckmammal, hanabornoob, honzas	16	6	30
+77724	3	0	White & Brown (6 Suits)	2020-02-04 — 00:04:32 UTC	duckmammal, hanabornoob, honzas	20	6	30
+77721	5	26	Black & Rainbow (6 Suits)	2020-02-03 — 23:36:48 UTC	duckmammal, Floriman, honzas, SashaIr, scharkbite	12	6	30
+77716	5	0	Black & Rainbow (6 Suits)	2020-02-03 — 23:05:26 UTC	duckmammal, Floriman, honzas, SashaIr, scharkbite	15	6	30
+77712	4	28	Black & Rainbow (6 Suits)	2020-02-03 — 22:39:26 UTC	duckmammal, Floriman, SashaIr, scharkbite	6	6	30
+77709	6	0	Rainbow (5 Suits)	2020-02-03 — 22:05:42 UTC	duckmammal, Floriman, honzas, SashaIr, scharkbite, Shos	15	5	25
+77609	3	26	Up or Down (6 Suits)	2020-02-03 — 09:09:19 UTC	duckmammal, MasN, micerang	8	6	30
+77594	3	22	No Variant	2020-02-03 — 08:36:28 UTC	duckmammal, MasN, micerang	65	5	25
+77591	4	25	No Variant	2020-02-03 — 08:10:08 UTC	DoubleDown11, duckmammal, MasN, micerang	44	5	25
+77590	3	0	No Variant	2020-02-03 — 07:46:22 UTC	DoubleDown11, duckmammal, MasN	2606	5	25
+77589	3	0	No Variant	2020-02-03 — 07:40:41 UTC	DoubleDown11, duckmammal, MasN	3260	5	25
+77588	4	0	No Variant	2020-02-03 — 07:36:15 UTC	DoubleDown11, duckmammal, MasN, RaKXeR	14	5	25
+77587	3	0	No Variant	2020-02-03 — 07:19:32 UTC	DoubleDown11, duckmammal, RaKXeR	16	5	25
+77586	3	25	No Variant	2020-02-03 — 06:31:26 UTC	DoubleDown11, duckmammal, RaKXeR	16	5	25
+77575	3	0	Black (5 Suits)	2020-02-03 — 03:15:45 UTC	duckmammal, Hyakinthus, Libster	24	5	25
+77525	4	0	Rainbow & Dark Brown (6 Suits)	2020-02-02 — 22:33:53 UTC	duckmammal, Floriman, Livia, Shos	1	6	30
+77522	4	0	Rainbow & Dark Brown (6 Suits)	2020-02-02 — 22:22:54 UTC	duckmammal, Floriman, Livia, Shos	3	6	30
+77520	4	0	Rainbow & Dark Brown (6 Suits)	2020-02-02 — 22:06:54 UTC	duckmammal, Floriman, Livia, Shos	4	6	30
+77475	4	30	Rainbow (6 Suits)	2020-02-02 — 13:29:50 UTC	duckmammal, Fireheart, MasN, Shos	238	6	30
+77472	5	0	Rainbow (6 Suits)	2020-02-02 — 12:56:14 UTC	duckmammal, Fireheart, IAMJEFF, MasN, Valetta6789	209	6	30
+77471	3	0	Up or Down (6 Suits)	2020-02-02 — 12:41:32 UTC	duckmammal, Fireheart, IAMJEFF	15	6	30
+77470	3	0	Up or Down (5 Suits)	2020-02-02 — 12:31:34 UTC	duckmammal, Fireheart, IAMJEFF	88	5	25
+77469	5	0	Ambiguous & Rainbow (5 Suits)	2020-02-02 — 12:05:48 UTC	asaelr, duckmammal, Fireheart, IAMJEFF, RaKXeR	5	5	25
+77467	5	0	Up or Down (6 Suits)	2020-02-02 — 11:43:21 UTC	asaelr, duckmammal, Fireheart, IAMJEFF, RaKXeR	8	6	30
+77466	5	18	4 Suits	2020-02-02 — 11:31:49 UTC	asaelr, duckmammal, Fireheart, IAMJEFF, RaKXeR	3	4	20
+77465	5	0	Dual-Color Mix	2020-02-02 — 11:10:25 UTC	asaelr, duckmammal, Fireheart, IAMJEFF, RaKXeR	3	6	30
+77464	4	25	Dual-Color (5 Suits)	2020-02-02 — 10:57:29 UTC	duckmammal, Fireheart, IAMJEFF, RaKXeR	7	5	25
+77463	4	0	Dual-Color (5 Suits)	2020-02-02 — 10:44:34 UTC	duckmammal, Fireheart, IAMJEFF, RaKXeR	8	5	25
+77462	4	0	Dual-Color (5 Suits)	2020-02-02 — 10:37:08 UTC	duckmammal, Fireheart, IAMJEFF, RaKXeR	13	5	25
+77461	5	25	White (5 Suits)	2020-02-02 — 10:19:28 UTC	duckmammal, Fireheart, IAMJEFF, Livia, RaKXeR	3	5	25
+77460	5	0	White (5 Suits)	2020-02-02 — 09:54:18 UTC	duckmammal, Fireheart, IAMJEFF, Livia, RaKXeR	8	5	25
+77451	4	25	White (5 Suits)	2020-02-02 — 09:19:19 UTC	DoubleDown11, duckmammal, Feer, RaKXeR	46	5	25
+77442	3	0	White (5 Suits)	2020-02-02 — 08:56:13 UTC	DoubleDown11, duckmammal, Feer	126	5	25
+77429	4	0	Black & Rainbow (5 Suits)	2020-02-02 — 05:13:11 UTC	duckmammal, Gazrovor, Libster, RaKXeR	2	5	25
+77425	4	24	Black & Rainbow (5 Suits)	2020-02-02 — 04:44:00 UTC	duckmammal, Gazrovor, Libster, RaKXeR	2	5	25
+77417	4	0	Black & Rainbow (5 Suits)	2020-02-02 — 04:11:51 UTC	duckmammal, Gazrovor, Libster, RaKXeR	2	5	25
+77413	3	0	Black & Rainbow (6 Suits)	2020-02-02 — 02:52:44 UTC	Andrew_UK, duckmammal, scharkbite	19	6	30
+77410	3	0	Black & Rainbow (6 Suits)	2020-02-02 — 02:41:32 UTC	Andrew_UK, duckmammal, scharkbite	19	6	30
+77407	3	0	Black & Rainbow (6 Suits)	2020-02-02 — 02:34:33 UTC	Andrew_UK, duckmammal, scharkbite	20	6	30
+77406	4	0	Black & Rainbow (6 Suits)	2020-02-02 — 02:19:58 UTC	Andrew_UK, duckmammal, MasN, scharkbite	6	6	30
+77402	4	0	Black & Rainbow (6 Suits)	2020-02-02 — 01:58:36 UTC	Andrew_UK, duckmammal, MasN, scharkbite	7	6	30
+77401	4	0	Black & Rainbow (6 Suits)	2020-02-02 — 01:52:44 UTC	Andrew_UK, duckmammal, MasN, scharkbite	8	6	30
+77396	4	29	6 Suits	2020-02-02 — 01:44:24 UTC	Andrew_UK, duckmammal, MasN, scharkbite	20	6	30
+77394	4	0	6 Suits	2020-02-02 — 01:23:41 UTC	Andrew_UK, duckmammal, MasN, scharkbite	24	6	30
+77389	3	30	6 Suits	2020-02-02 — 01:03:59 UTC	duckmammal, MasN, Sucubis	503	6	30
+77384	5	0	6 Suits	2020-02-02 — 00:37:39 UTC	duckmammal, Fireheart, MasN, SashaIr, Sucubis	54	6	30
+77382	6	0	Pink (6 Suits)	2020-02-02 — 00:24:31 UTC	duckmammal, Fireheart, Livia, MasN, SashaIr, Sucubis	5	6	30
+77380	6	0	Pink (6 Suits)	2020-02-02 — 00:17:15 UTC	duckmammal, Fireheart, Livia, MasN, SashaIr, Sucubis	5	6	30
+77377	6	0	Pink (6 Suits)	2020-02-02 — 00:08:59 UTC	duckmammal, Fireheart, Livia, MasN, SashaIr, Sucubis	10	6	30
+77376	5	0	Throw It in a Hole (6 Suits)	2020-02-01 — 23:57:55 UTC	duckmammal, Livia, MasN, SashaIr, Sucubis	8	6	30
+77371	5	0	Throw It in a Hole (5 Suits)	2020-02-01 — 23:42:15 UTC	duckmammal, Livia, MasN, SashaIr, Sucubis	15	5	25
+77368	5	25	Rainbow & White (5 Suits)	2020-02-01 — 23:25:48 UTC	duckmammal, MasN, Nitrate, SashaIr, Sucubis	10	5	25
+77363	5	25	Rainbow (5 Suits)	2020-02-01 — 22:56:34 UTC	duckmammal, kondain, Nitrate, SashaIr, Sucubis	17	5	25
+77362	4	24	Rainbow & White (5 Suits)	2020-02-01 — 22:24:48 UTC	duckmammal, Feer, kondain, Sucubis	23	5	25
+77361	3	25	Rainbow (5 Suits)	2020-02-01 — 21:57:57 UTC	duckmammal, Feer, kondain	135	5	25
+77359	3	0	Rainbow (5 Suits)	2020-02-01 — 21:43:43 UTC	duckmammal, Feer, kondain	185	5	25
+77358	6	24	Rainbow (6 Suits)	2020-02-01 — 21:20:42 UTC	duckmammal, micerang, Nitrate, scharkbite, Shos, wortel	8	6	30
+77357	6	0	Rainbow (6 Suits)	2020-02-01 — 20:44:59 UTC	duckmammal, micerang, Nitrate, scharkbite, Shos, wortel	20	6	30
+77354	5	0	Rainbow (6 Suits)	2020-02-01 — 20:15:09 UTC	asaelr, duckmammal, Nitrate, scharkbite, wortel	10	6	30
+77353	4	25	No Variant	2020-02-01 — 19:48:06 UTC	asaelr, duckmammal, scharkbite, wortel	36	5	25
+77352	2	23	No Variant	2020-02-01 — 19:28:32 UTC	asaelr, duckmammal	186	5	25
+77256	4	0	Dual-Color (6 Suits)	2020-01-31 — 22:15:54 UTC	duckmammal, Kyle, scharkbite, Sucubis	8	6	30
+77252	4	0	Throw It in a Hole (6 Suits)	2020-01-31 — 21:45:55 UTC	duckmammal, kondain, Livia, Sucubis	21	6	30
+77250	4	0	Pink (6 Suits)	2020-01-31 — 21:14:10 UTC	duckmammal, kondain, Livia, Sucubis	54	6	30
+77247	4	0	Pink (6 Suits)	2020-01-31 — 20:54:46 UTC	duckmammal, kondain, Livia, Sucubis	70	6	30
+77245	4	28	Omni (6 Suits)	2020-01-31 — 20:30:20 UTC	duckmammal, Kyle, Livia, Sucubis	26	6	30
+77230	3	30	Dual-Color (6 Suits)	2020-01-31 — 18:45:36 UTC	duckmammal, scharkbite, wortel	10	6	30
+77227	3	0	Dual-Color (6 Suits)	2020-01-31 — 18:19:35 UTC	duckmammal, scharkbite, wortel	12	6	30
+77226	4	28	Ambiguous (6 Suits)	2020-01-31 — 17:56:39 UTC	duckmammal, Floriman, scharkbite, Yeesh	40	6	30
+77225	4	29	Dark Rainbow (6 Suits)	2020-01-31 — 17:26:35 UTC	duckmammal, Floriman, scharkbite, Yeesh	4	6	30
+77183	3	28	Black (6 Suits)	2020-01-31 — 06:25:29 UTC	duckmammal, kopen, RaKXeR	23	6	30
+77174	4	0	Black (6 Suits)	2020-01-31 — 05:55:39 UTC	duckmammal, Hm, kopen, RaKXeR	91	6	30
+77166	4	0	Black (6 Suits)	2020-01-31 — 05:44:17 UTC	duckmammal, Hm, kopen, RaKXeR	112	6	30
+77162	4	0	Black (6 Suits)	2020-01-31 — 05:40:04 UTC	duckmammal, Hm, kopen, RaKXeR	128	6	30
+77158	2	0	Black (6 Suits)	2020-01-31 — 05:28:53 UTC	duckmammal, RaKXeR	546	6	30
+77153	5	19	No Variant	2020-01-31 — 05:14:22 UTC	duckmammal, Hyakinthus, Libster, MasN, RaKXeR	2	5	25
+77150	4	0	No Variant	2020-01-31 — 04:56:05 UTC	duckmammal, Hyakinthus, MasN, RaKXeR	13	5	25
+77149	4	0	No Variant	2020-01-31 — 04:53:07 UTC	duckmammal, Hyakinthus, MasN, RaKXeR	14	5	25
+77148	4	0	No Variant	2020-01-31 — 04:43:59 UTC	duckmammal, Hyakinthus, MasN, RaKXeR	14	5	25
+77137	3	25	Rainbow (5 Suits)	2020-01-31 — 02:39:57 UTC	duckmammal, Fireheart, MasN	6	5	25
+77136	3	0	Rainbow (5 Suits)	2020-01-31 — 02:20:49 UTC	duckmammal, Fireheart, MasN	6	5	25
+77135	3	0	Rainbow (5 Suits)	2020-01-31 — 02:05:35 UTC	duckmammal, Fireheart, MasN	6	5	25
+77131	5	29	Rainbow (6 Suits)	2020-01-31 — 00:14:15 UTC	aladdin3, duckmammal, Fireheart, kondain, RaKXeR	22	6	30
+77126	4	24	No Variant	2020-01-30 — 23:39:25 UTC	aladdin3, duckmammal, Fireheart, Shos	233	5	25
+77121	4	0	No Variant	2020-01-30 — 23:11:27 UTC	aladdin3, duckmammal, Fireheart, Shos	1253	5	25
+77119	5	0	Rainbow (5 Suits)	2020-01-30 — 22:35:29 UTC	duckmammal, Fireheart, Floriman, Livia, Shos	23	5	25
+77118	3	0	Black (6 Suits)	2020-01-30 — 22:11:29 UTC	duckmammal, Floriman, Livia	325	6	30
+77117	3	29	Black (6 Suits)	2020-01-30 — 21:56:34 UTC	duckmammal, Floriman, Livia	399	6	30
+77116	3	0	Black (5 Suits)	2020-01-30 — 21:39:13 UTC	duckmammal, Floriman, Livia	36	5	25
+77102	4	25	White (5 Suits)	2020-01-30 — 20:24:57 UTC	duckmammal, Floriman, Livia, wortel	11	5	25
+77095	4	22	White (5 Suits)	2020-01-30 — 19:51:27 UTC	duckmammal, Floriman, Livia, wortel	13	5	25
+77086	4	25	No Variant	2020-01-30 — 19:06:33 UTC	duckmammal, Floriman, Livia, wortel	326	5	25

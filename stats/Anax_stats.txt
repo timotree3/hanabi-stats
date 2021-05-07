@@ -1,0 +1,374 @@
+141319	4	30	6 Suits	2020-04-27 — 21:44:40 UTC	Anax, melwen, Ntalakas, ntinta	18	6	30
+141308	4	0	6 Suits	2020-04-27 — 21:30:52 UTC	Anax, melwen, Ntalakas, ntinta	18	6	30
+141296	4	29	6 Suits	2020-04-27 — 21:18:31 UTC	Anax, melwen, Ntalakas, ntinta	19	6	30
+141270	4	30	6 Suits	2020-04-27 — 20:55:19 UTC	Anax, melwen, Ntalakas, ntinta	18	6	30
+141249	4	26	6 Suits	2020-04-27 — 20:34:26 UTC	Anax, melwen, Ntalakas, ntinta	19	6	30
+140150	6	29	6 Suits	2020-04-26 — 22:47:49 UTC	3nvy, Anax, Fedorov, geor1983, melwen, Ntalakas	20	6	30
+140119	5	28	Black (6 Suits)	2020-04-26 — 22:24:20 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas	14	6	30
+140091	5	0	Black (6 Suits)	2020-04-26 — 22:02:48 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas	15	6	30
+140076	5	30	Black (6 Suits)	2020-04-26 — 21:56:17 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas	16	6	30
+140040	5	24	Black (6 Suits)	2020-04-26 — 21:33:10 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas	18	6	30
+139999	5	27	Black (6 Suits)	2020-04-26 — 21:12:41 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas	21	6	30
+139951	5	28	Black (6 Suits)	2020-04-26 — 20:53:55 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas	23	6	30
+139462	4	30	Rainbow (6 Suits)	2020-04-26 — 15:42:35 UTC	Anax, melwen, Ntalakas, ntinta	156	6	30
+139423	4	0	Rainbow (6 Suits)	2020-04-26 — 15:15:30 UTC	Anax, melwen, Ntalakas, ntinta	163	6	30
+139413	4	30	Rainbow (6 Suits)	2020-04-26 — 15:03:38 UTC	Anax, melwen, Ntalakas, ntinta	185	6	30
+139385	4	30	6 Suits	2020-04-26 — 14:28:32 UTC	Anax, melwen, Ntalakas, ntinta	20	6	30
+139375	4	0	6 Suits	2020-04-26 — 14:07:12 UTC	Anax, melwen, Ntalakas, ntinta	24	6	30
+139365	4	0	6 Suits	2020-04-26 — 13:54:47 UTC	Anax, melwen, Ntalakas, ntinta	24	6	30
+139356	6	25	Black (6 Suits)	2020-04-26 — 13:37:27 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, ntinta	2	6	30
+139346	4	27	6 Suits	2020-04-26 — 13:11:12 UTC	Anax, Fedorov, geor1983, melwen	25	6	30
+139334	4	28	6 Suits	2020-04-26 — 12:50:57 UTC	Anax, Fedorov, geor1983, melwen	25	6	30
+139328	4	0	6 Suits	2020-04-26 — 12:34:28 UTC	Anax, Fedorov, geor1983, melwen	25	6	30
+138191	6	0	Black (6 Suits)	2020-04-25 — 21:13:01 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, ntinta	2	6	30
+138129	6	0	Black (6 Suits)	2020-04-25 — 20:45:17 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, ntinta	3	6	30
+138123	5	28	Black (6 Suits)	2020-04-25 — 20:39:22 UTC	Anax, Fedorov, geor1983, Ntalakas, ntinta	21	6	30
+138084	6	30	6 Suits	2020-04-25 — 20:19:59 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, ntinta	34	6	30
+138035	6	0	6 Suits	2020-04-25 — 19:52:15 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, ntinta	50	6	30
+138005	6	0	6 Suits	2020-04-25 — 19:36:39 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, ntinta	84	6	30
+137980	4	0	Rainbow (6 Suits)	2020-04-25 — 19:20:35 UTC	Anax, melwen, Ntalakas, ntinta	200	6	30
+137829	4	0	White (6 Suits)	2020-04-25 — 17:16:38 UTC	Anax, Fedorov, melwen, Ntalakas	35	6	30
+137601	2	0	6 Suits	2020-04-25 — 13:22:39 UTC	Anax, melwen	61	6	30
+137589	2	30	6 Suits	2020-04-25 — 13:13:12 UTC	Anax, melwen	62	6	30
+137582	2	30	6 Suits	2020-04-25 — 13:05:33 UTC	Anax, melwen	62	6	30
+137578	2	0	6 Suits	2020-04-25 — 12:56:20 UTC	Anax, melwen	65	6	30
+136985	2	0	6 Suits	2020-04-25 — 03:19:29 UTC	Anax, melwen	65	6	30
+136979	2	29	6 Suits	2020-04-25 — 03:17:28 UTC	Anax, melwen	66	6	30
+136950	2	0	6 Suits	2020-04-25 — 03:08:37 UTC	Anax, melwen	69	6	30
+136918	2	0	6 Suits	2020-04-25 — 02:58:30 UTC	Anax, melwen	73	6	30
+136893	2	30	6 Suits	2020-04-25 — 02:49:02 UTC	Anax, melwen	72	6	30
+136870	2	0	6 Suits	2020-04-25 — 02:39:49 UTC	Anax, melwen	75	6	30
+136851	2	28	6 Suits	2020-04-25 — 02:34:32 UTC	Anax, melwen	76	6	30
+136816	2	0	6 Suits	2020-04-25 — 02:24:16 UTC	Anax, melwen	78	6	30
+135936	4	30	Rainbow (6 Suits)	2020-04-24 — 18:03:59 UTC	Anax, melwen, Ntalakas, ntinta	238	6	30
+135922	4	26	Rainbow (6 Suits)	2020-04-24 — 17:41:41 UTC	Anax, melwen, Ntalakas, ntinta	275	6	30
+135905	4	0	Rainbow (6 Suits)	2020-04-24 — 17:15:11 UTC	Anax, melwen, Ntalakas, ntinta	344	6	30
+135836	4	25	Black (6 Suits)	2020-04-24 — 15:58:43 UTC	Anax, Fedorov, geor1983, melwen	6	6	30
+135822	4	27	Black (6 Suits)	2020-04-24 — 15:41:05 UTC	Anax, Fedorov, geor1983, melwen	6	6	30
+135643	2	30	6 Suits	2020-04-24 — 12:29:14 UTC	Anax, melwen	80	6	30
+135635	2	0	6 Suits	2020-04-24 — 12:18:47 UTC	Anax, melwen	85	6	30
+135631	2	30	6 Suits	2020-04-24 — 12:11:30 UTC	Anax, melwen	88	6	30
+135627	2	25	6 Suits	2020-04-24 — 12:03:20 UTC	Anax, melwen	89	6	30
+135621	2	0	6 Suits	2020-04-24 — 11:50:58 UTC	Anax, melwen	89	6	30
+135618	2	28	6 Suits	2020-04-24 — 11:41:46 UTC	Anax, melwen	98	6	30
+134703	6	24	Black (6 Suits)	2020-04-23 — 20:49:20 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, ntinta	3	6	30
+134660	6	28	Black (6 Suits)	2020-04-23 — 20:26:45 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, ntinta	3	6	30
+134614	6	26	Black (6 Suits)	2020-04-23 — 20:04:11 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, ntinta	3	6	30
+134579	6	29	Black (6 Suits)	2020-04-23 — 19:40:56 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, ntinta	3	6	30
+134548	6	29	Black (6 Suits)	2020-04-23 — 19:16:43 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, ntinta	3	6	30
+134509	4	28	Black (6 Suits)	2020-04-23 — 18:50:37 UTC	Anax, melwen, Ntalakas, ntinta	6	6	30
+134488	4	0	Black (6 Suits)	2020-04-23 — 18:27:24 UTC	Anax, melwen, Ntalakas, ntinta	6	6	30
+134458	4	0	Black (6 Suits)	2020-04-23 — 18:01:57 UTC	Anax, melwen, Ntalakas, ntinta	6	6	30
+134302	3	0	6 Suits	2020-04-23 — 13:41:04 UTC	Anax, Fedorov, melwen	126	6	30
+134301	3	30	6 Suits	2020-04-23 — 13:38:57 UTC	Anax, Fedorov, melwen	132	6	30
+134295	4	0	6 Suits	2020-04-23 — 13:27:23 UTC	Anax, Fedorov, geor1983, melwen	27	6	30
+134293	4	30	6 Suits	2020-04-23 — 13:26:23 UTC	Anax, Fedorov, geor1983, melwen	31	6	30
+134281	4	0	6 Suits	2020-04-23 — 13:09:45 UTC	Anax, Fedorov, geor1983, melwen	32	6	30
+134267	4	28	6 Suits	2020-04-23 — 12:54:37 UTC	Anax, Fedorov, geor1983, melwen	33	6	30
+133220	3	0	Black (6 Suits)	2020-04-22 — 19:01:06 UTC	Anax, Ntalakas, ntinta	69	6	30
+133217	3	0	Black (6 Suits)	2020-04-22 — 19:00:32 UTC	Anax, Ntalakas, ntinta	71	6	30
+133201	3	0	Black (6 Suits)	2020-04-22 — 18:43:19 UTC	Anax, Ntalakas, ntinta	74	6	30
+133174	4	26	Black (6 Suits)	2020-04-22 — 18:14:53 UTC	Anax, melwen, Ntalakas, ntinta	7	6	30
+133152	4	0	Black (6 Suits)	2020-04-22 — 17:41:58 UTC	Anax, melwen, Ntalakas, ntinta	7	6	30
+133030	3	28	Black (6 Suits)	2020-04-22 — 13:22:14 UTC	Anax, Fedorov, melwen	17	6	30
+133022	4	24	Black (6 Suits)	2020-04-22 — 13:09:47 UTC	Anax, Fedorov, melwen, soulampoula	7	6	30
+133015	4	26	Black (6 Suits)	2020-04-22 — 12:54:14 UTC	Anax, Fedorov, melwen, soulampoula	7	6	30
+132422	3	29	Black (6 Suits)	2020-04-22 — 00:17:20 UTC	Anax, Fedorov, melwen	16	6	30
+132400	3	0	Black (6 Suits)	2020-04-22 — 00:06:41 UTC	Anax, Fedorov, melwen	16	6	30
+132387	3	25	Black (6 Suits)	2020-04-21 — 23:58:46 UTC	Anax, Fedorov, melwen	19	6	30
+132365	3	0	Black (6 Suits)	2020-04-21 — 23:41:30 UTC	Anax, Fedorov, melwen	19	6	30
+132353	3	27	Black (6 Suits)	2020-04-21 — 23:28:38 UTC	Anax, Fedorov, melwen	19	6	30
+132338	3	0	Black (6 Suits)	2020-04-21 — 23:16:39 UTC	Anax, Fedorov, melwen	19	6	30
+132332	3	0	Black (6 Suits)	2020-04-21 — 23:08:50 UTC	Anax, Fedorov, melwen	19	6	30
+132329	3	0	Black (6 Suits)	2020-04-21 — 23:06:38 UTC	Anax, Fedorov, melwen	19	6	30
+132326	3	0	Black (6 Suits)	2020-04-21 — 23:02:34 UTC	Anax, Fedorov, melwen	22	6	30
+132313	3	27	Black (6 Suits)	2020-04-21 — 22:48:02 UTC	Anax, Fedorov, melwen	23	6	30
+132299	3	24	Black (6 Suits)	2020-04-21 — 22:35:03 UTC	Anax, Fedorov, melwen	23	6	30
+132274	5	28	Black (6 Suits)	2020-04-21 — 22:12:56 UTC	Anax, Fedorov, melwen, Ntalakas, ntinta	23	6	30
+132250	6	28	Black (6 Suits)	2020-04-21 — 21:50:31 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, ntinta	3	6	30
+132213	4	30	Black (6 Suits)	2020-04-21 — 21:24:34 UTC	Anax, melwen, Ntalakas, ntinta	7	6	30
+132182	4	27	Black (6 Suits)	2020-04-21 — 21:05:31 UTC	Anax, melwen, Ntalakas, ntinta	7	6	30
+132147	4	0	Black (6 Suits)	2020-04-21 — 20:40:10 UTC	Anax, melwen, Ntalakas, ntinta	7	6	30
+132075	4	0	Black (6 Suits)	2020-04-21 — 20:10:16 UTC	Anax, melwen, Ntalakas, ntinta	7	6	30
+132030	4	27	Black (6 Suits)	2020-04-21 — 19:47:45 UTC	Anax, melwen, Ntalakas, ntinta	7	6	30
+131994	4	0	Black (6 Suits)	2020-04-21 — 19:26:10 UTC	Anax, melwen, Ntalakas, ntinta	7	6	30
+131983	4	26	Black (6 Suits)	2020-04-21 — 19:16:33 UTC	Anax, melwen, Ntalakas, ntinta	7	6	30
+131701	4	0	Black (6 Suits)	2020-04-21 — 12:18:25 UTC	Anax, Fedorov, geor1983, melwen	8	6	30
+131699	4	27	Black (6 Suits)	2020-04-21 — 12:17:42 UTC	Anax, Fedorov, geor1983, melwen	8	6	30
+131687	4	0	Black (6 Suits)	2020-04-21 — 11:55:27 UTC	Anax, Fedorov, geor1983, melwen	8	6	30
+131686	5	0	Black (6 Suits)	2020-04-21 — 11:48:04 UTC	Anax, Fedorov, geor1983, melwen, soulampoula	21	6	30
+131685	5	25	Black (6 Suits)	2020-04-21 — 11:47:19 UTC	Anax, Fedorov, geor1983, melwen, soulampoula	24	6	30
+131673	3	0	Pink (5 Suits)	2020-04-21 — 11:26:13 UTC	Anax, melwen, soulampoula	43	5	25
+131666	3	24	Pink (5 Suits)	2020-04-21 — 11:12:59 UTC	Anax, melwen, soulampoula	49	5	25
+131656	3	0	Pink (5 Suits)	2020-04-21 — 10:50:30 UTC	Anax, melwen, soulampoula	62	5	25
+131652	3	0	Pink (5 Suits)	2020-04-21 — 10:41:35 UTC	Anax, melwen, soulampoula	75	5	25
+131651	3	0	Pink (5 Suits)	2020-04-21 — 10:39:49 UTC	Anax, melwen, soulampoula	108	5	25
+130998	4	30	Black (6 Suits)	2020-04-20 — 22:57:13 UTC	Anax, Fedorov, geor1983, melwen	8	6	30
+130982	4	26	Black (6 Suits)	2020-04-20 — 22:39:32 UTC	Anax, Fedorov, geor1983, melwen	9	6	30
+130959	6	25	Black (6 Suits)	2020-04-20 — 22:17:05 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, ntinta	3	6	30
+130908	6	24	No Variant	2020-04-20 — 21:53:36 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, ntinta	91	5	25
+130865	4	27	Black (6 Suits)	2020-04-20 — 21:22:28 UTC	Anax, melwen, Ntalakas, ntinta	9	6	30
+130844	4	24	Black (6 Suits)	2020-04-20 — 21:01:50 UTC	Anax, melwen, Ntalakas, ntinta	9	6	30
+130814	4	26	Black (6 Suits)	2020-04-20 — 20:37:51 UTC	Anax, melwen, Ntalakas, ntinta	9	6	30
+130784	3	0	Black (6 Suits)	2020-04-20 — 20:13:32 UTC	Anax, melwen, Ntalakas	23	6	30
+129325	5	0	6 Suits	2020-04-19 — 19:51:27 UTC	Anax, geor1983, melwen, Ntalakas, ntinta	132	6	30
+129278	5	29	6 Suits	2020-04-19 — 19:26:03 UTC	Anax, melwen, Ntalakas, ntinta, soulampoula	199	6	30
+128983	6	27	Black (6 Suits)	2020-04-19 — 15:52:19 UTC	Anax, Fedorov, melwen, Ntalakas, ntinta, soulampoula	3	6	30
+128941	6	26	Black (6 Suits)	2020-04-19 — 15:15:52 UTC	Anax, geor1983, melwen, Ntalakas, ntinta, soulampoula	2	6	30
+127927	6	28	Black (6 Suits)	2020-04-19 — 00:19:58 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, soulampoula	3	6	30
+127879	6	24	Black (6 Suits)	2020-04-18 — 23:46:13 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, soulampoula	3	6	30
+127843	6	0	Black (6 Suits)	2020-04-18 — 23:19:22 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, soulampoula	3	6	30
+127835	6	0	Black (6 Suits)	2020-04-18 — 23:14:57 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, soulampoula	3	6	30
+127791	6	28	Black (6 Suits)	2020-04-18 — 22:52:51 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, soulampoula	3	6	30
+127749	6	26	Black (6 Suits)	2020-04-18 — 22:28:46 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, soulampoula	3	6	30
+127387	5	0	Black (6 Suits)	2020-04-18 — 19:35:19 UTC	Anax, melwen, Ntalakas, ntinta, soulampoula	22	6	30
+127370	5	22	Black (5 Suits)	2020-04-18 — 19:22:55 UTC	Anax, melwen, Ntalakas, ntinta, soulampoula	36	5	25
+127328	4	22	Black (5 Suits)	2020-04-18 — 19:02:24 UTC	Anax, melwen, Ntalakas, soulampoula	98	5	25
+127296	3	18	Pink (4 Suits)	2020-04-18 — 18:43:42 UTC	Anax, melwen, soulampoula	59	4	20
+127008	5	26	Black (6 Suits)	2020-04-18 — 13:26:52 UTC	Anax, melwen, Ntalakas, ntinta, soulampoula	24	6	30
+126986	5	26	Black (6 Suits)	2020-04-18 — 12:53:01 UTC	Anax, melwen, Ntalakas, ntinta, soulampoula	28	6	30
+126960	4	24	Black (6 Suits)	2020-04-18 — 12:17:39 UTC	Anax, melwen, Ntalakas, ntinta	10	6	30
+125768	6	27	Black (6 Suits)	2020-04-17 — 20:38:51 UTC	Anax, Dadinio, melwen, Ntalakas, ntinta, soulampoula	3	6	30
+125721	6	27	Black (6 Suits)	2020-04-17 — 20:07:46 UTC	Anax, Dadinio, melwen, Ntalakas, ntinta, soulampoula	4	6	30
+125670	6	0	Black (6 Suits)	2020-04-17 — 19:31:53 UTC	Anax, Dadinio, melwen, Ntalakas, ntinta, soulampoula	5	6	30
+125636	6	29	Black (6 Suits)	2020-04-17 — 19:05:25 UTC	Anax, Dadinio, melwen, Ntalakas, ntinta, soulampoula	4	6	30
+125611	6	29	Black (6 Suits)	2020-04-17 — 18:39:22 UTC	Anax, Dadinio, melwen, Ntalakas, ntinta, soulampoula	4	6	30
+125508	5	25	Black (6 Suits)	2020-04-17 — 16:04:57 UTC	Anax, Fedorov, melwen, Ntalakas, ntinta	35	6	30
+125496	5	0	Black (6 Suits)	2020-04-17 — 15:38:38 UTC	Anax, Fedorov, melwen, Ntalakas, ntinta	36	6	30
+125481	5	0	Black (6 Suits)	2020-04-17 — 15:11:42 UTC	Anax, Fedorov, melwen, Ntalakas, ntinta	39	6	30
+124216	4	26	Black (6 Suits)	2020-04-16 — 17:01:35 UTC	Anax, melwen, Ntalakas, ntinta	13	6	30
+124199	4	29	Black (6 Suits)	2020-04-16 — 16:40:54 UTC	Anax, melwen, Ntalakas, ntinta	14	6	30
+124187	4	27	Black (6 Suits)	2020-04-16 — 16:26:05 UTC	Anax, melwen, Ntalakas, ntinta	17	6	30
+124168	4	0	Black (6 Suits)	2020-04-16 — 16:06:21 UTC	Anax, melwen, Ntalakas, ntinta	17	6	30
+124161	4	30	6 Suits	2020-04-16 — 15:53:25 UTC	Anax, melwen, Ntalakas, ntinta	100	6	30
+122983	2	0	Pink (3 Suits)	2020-04-15 — 16:17:45 UTC	Anax, melwen	2	3	15
+122982	2	0	Pink (3 Suits)	2020-04-15 — 16:13:19 UTC	Anax, melwen	2	3	15
+122978	2	15	Pink (3 Suits)	2020-04-15 — 16:03:50 UTC	Anax, melwen	2	3	15
+122971	2	0	Pink (3 Suits)	2020-04-15 — 15:56:20 UTC	Anax, melwen	2	3	15
+122969	2	0	Pink (3 Suits)	2020-04-15 — 15:55:20 UTC	Anax, melwen	2	3	15
+122965	2	0	Pink (3 Suits)	2020-04-15 — 15:49:48 UTC	Anax, melwen	2	3	15
+122960	2	0	Pink (3 Suits)	2020-04-15 — 15:42:05 UTC	Anax, melwen	2	3	15
+122958	2	15	Pink (3 Suits)	2020-04-15 — 15:39:40 UTC	Anax, melwen	4	3	15
+122954	2	0	Pink (3 Suits)	2020-04-15 — 15:33:18 UTC	Anax, melwen	5	3	15
+122946	2	0	Pink (3 Suits)	2020-04-15 — 15:23:11 UTC	Anax, melwen	6	3	15
+122944	2	13	Pink (3 Suits)	2020-04-15 — 15:19:24 UTC	Anax, melwen	7	3	15
+122939	2	0	Pink (3 Suits)	2020-04-15 — 15:10:38 UTC	Anax, melwen	7	3	15
+122937	2	12	Pink (3 Suits)	2020-04-15 — 15:08:33 UTC	Anax, melwen	8	3	15
+122936	2	13	Pink (3 Suits)	2020-04-15 — 15:02:03 UTC	Anax, melwen	12	3	15
+122930	2	0	Pink (3 Suits)	2020-04-15 — 14:53:26 UTC	Anax, melwen	14	3	15
+119229	6	0	Black (6 Suits)	2020-04-12 — 17:29:55 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, ntinta	5	6	30
+119201	6	0	Black (6 Suits)	2020-04-12 — 17:12:09 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, ntinta	7	6	30
+119199	6	27	Black (6 Suits)	2020-04-12 — 17:10:13 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, ntinta	8	6	30
+119172	6	0	Black (6 Suits)	2020-04-12 — 16:45:12 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, ntinta	8	6	30
+119157	6	0	Black (6 Suits)	2020-04-12 — 16:34:55 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, ntinta	15	6	30
+119143	6	26	Black (6 Suits)	2020-04-12 — 16:25:17 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, ntinta	28	6	30
+119115	6	26	Black (6 Suits)	2020-04-12 — 16:00:21 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, ntinta	38	6	30
+119074	4	0	Black (6 Suits)	2020-04-12 — 15:30:00 UTC	Anax, melwen, Ntalakas, ntinta	25	6	30
+119059	4	0	Black (6 Suits)	2020-04-12 — 15:11:35 UTC	Anax, melwen, Ntalakas, ntinta	32	6	30
+119043	4	25	Black (6 Suits)	2020-04-12 — 14:55:33 UTC	Anax, melwen, Ntalakas, ntinta	31	6	30
+119017	4	25	No Variant	2020-04-12 — 14:27:37 UTC	Anax, melwen, Ntalakas, ntinta	70	5	25
+119010	4	25	No Variant	2020-04-12 — 14:15:22 UTC	Anax, melwen, Ntalakas, ntinta	70	5	25
+117397	5	22	No Variant	2020-04-11 — 17:23:33 UTC	Anax, Fedorov, melwen, Ntalakas, ntinta	541	5	25
+117376	6	0	No Variant	2020-04-11 — 16:56:06 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, ntinta	115	5	25
+117375	6	23	No Variant	2020-04-11 — 16:54:51 UTC	Anax, Fedorov, geor1983, melwen, Ntalakas, ntinta	179	5	25
+117364	4	29	Rainbow (6 Suits)	2020-04-11 — 16:35:17 UTC	Anax, melwen, Ntalakas, ntinta	493	6	30
+117221	4	25	No Variant	2020-04-11 — 11:38:22 UTC	Anax, melwen, Ntalakas, ntinta	79	5	25
+117219	4	23	No Variant	2020-04-11 — 11:25:37 UTC	Anax, melwen, Ntalakas, ntinta	81	5	25
+116068	6	0	No Variant	2020-04-10 — 20:35:49 UTC	Anax, Fedorov, melwen, Ntalakas, ntinta, soulampoula	282	5	25
+116067	6	24	No Variant	2020-04-10 — 20:35:12 UTC	Anax, Fedorov, melwen, Ntalakas, ntinta, soulampoula	478	5	25
+116035	5	0	No Variant	2020-04-10 — 20:16:20 UTC	Anax, Fedorov, melwen, Ntalakas, soulampoula	837	5	25
+116031	5	25	No Variant	2020-04-10 — 20:15:21 UTC	Anax, melwen, Ntalakas, ntinta, soulampoula	1119	5	25
+115990	5	0	No Variant	2020-04-10 — 19:52:18 UTC	Anax, melwen, Ntalakas, ntinta, soulampoula	1510	5	25
+115977	5	20	No Variant	2020-04-10 — 19:41:30 UTC	Anax, melwen, Ntalakas, ntinta, soulampoula	1995	5	25
+115932	3	25	No Variant	2020-04-10 — 19:13:36 UTC	Anax, melwen, soulampoula	101	5	25
+114227	4	25	No Variant	2020-04-08 — 20:55:12 UTC	Anax, melwen, Ntalakas, ntinta	117	5	25
+114183	4	0	No Variant	2020-04-08 — 20:35:57 UTC	Anax, melwen, Ntalakas, ntinta	129	5	25
+113974	3	25	No Variant	2020-04-08 — 17:51:27 UTC	Anax, melwen, Ntalakas	170	5	25
+113968	3	24	No Variant	2020-04-08 — 17:37:21 UTC	Anax, melwen, Ntalakas	224	5	25
+112925	3	30	Black (6 Suits)	2020-04-07 — 20:50:59 UTC	Anax, melwen, Ntalakas	108	6	30
+112887	3	0	Black (6 Suits)	2020-04-07 — 20:27:09 UTC	Anax, melwen, Ntalakas	119	6	30
+112860	3	0	Black (6 Suits)	2020-04-07 — 20:09:07 UTC	Anax, melwen, Ntalakas	125	6	30
+112834	3	25	Black (6 Suits)	2020-04-07 — 19:52:06 UTC	Anax, melwen, Ntalakas	134	6	30
+112807	3	28	Black (6 Suits)	2020-04-07 — 19:34:10 UTC	Anax, melwen, Ntalakas	149	6	30
+112774	3	28	Black (6 Suits)	2020-04-07 — 19:17:42 UTC	Anax, melwen, Ntalakas	159	6	30
+112745	3	24	Black (6 Suits)	2020-04-07 — 19:00:18 UTC	Anax, melwen, Ntalakas	172	6	30
+111736	4	22	No Variant	2020-04-06 — 20:47:58 UTC	Anax, melwen, Ntalakas, ntinta	130	5	25
+111700	4	23	No Variant	2020-04-06 — 20:24:23 UTC	Anax, melwen, Ntalakas, ntinta	125	5	25
+110864	3	25	No Variant	2020-04-06 — 00:04:48 UTC	Anax, melwen, soulampoula	324	5	25
+110840	3	24	No Variant	2020-04-05 — 23:41:29 UTC	Anax, melwen, soulampoula	344	5	25
+110804	3	0	No Variant	2020-04-05 — 23:08:46 UTC	Anax, melwen, soulampoula	354	5	25
+110781	3	22	No Variant	2020-04-05 — 22:55:12 UTC	Anax, melwen, soulampoula	375	5	25
+110013	3	0	No Variant	2020-04-05 — 13:13:07 UTC	Anax, melwen, soulampoula	411	5	25
+110010	3	25	No Variant	2020-04-05 — 13:10:52 UTC	Anax, melwen, soulampoula	422	5	25
+109999	3	23	No Variant	2020-04-05 — 12:57:14 UTC	Anax, melwen, soulampoula	451	5	25
+108738	4	28	Black (6 Suits)	2020-04-04 — 14:48:56 UTC	Anax, melwen, Ntalakas, ntinta	36	6	30
+108721	4	29	Black (6 Suits)	2020-04-04 — 14:26:32 UTC	Anax, melwen, Ntalakas, ntinta	38	6	30
+108706	4	0	No Variant	2020-04-04 — 14:04:22 UTC	Anax, melwen, Ntalakas, ntinta	158	5	25
+108705	4	24	No Variant	2020-04-04 — 14:02:05 UTC	Anax, melwen, Ntalakas, ntinta	162	5	25
+108697	4	25	No Variant	2020-04-04 — 13:49:07 UTC	Anax, melwen, Ntalakas, ntinta	167	5	25
+108683	4	0	No Variant	2020-04-04 — 13:33:07 UTC	Anax, melwen, Ntalakas, ntinta	180	5	25
+108672	4	23	No Variant	2020-04-04 — 13:11:27 UTC	Anax, melwen, Ntalakas, ntinta	190	5	25
+107582	4	30	Black (6 Suits)	2020-04-03 — 21:07:46 UTC	Anax, melwen, Ntalakas, ntinta	42	6	30
+107550	4	0	Black (6 Suits)	2020-04-03 — 20:48:41 UTC	Anax, melwen, Ntalakas, ntinta	45	6	30
+107494	4	0	Black (6 Suits)	2020-04-03 — 20:28:07 UTC	Anax, melwen, Ntalakas, ntinta	49	6	30
+107446	4	0	6 Suits	2020-04-03 — 20:08:22 UTC	Anax, melwen, Ntalakas, ntinta	354	6	30
+107440	4	25	No Variant	2020-04-03 — 20:06:20 UTC	Anax, melwen, Ntalakas, ntinta	198	5	25
+107406	4	25	No Variant	2020-04-03 — 19:53:21 UTC	Anax, melwen, Ntalakas, ntinta	204	5	25
+107025	2	25	No Variant	2020-04-03 — 12:56:32 UTC	Anax, melwen	159	5	25
+107011	2	0	No Variant	2020-04-03 — 12:45:36 UTC	Anax, melwen	160	5	25
+107007	2	24	No Variant	2020-04-03 — 12:43:39 UTC	Anax, melwen	163	5	25
+106997	2	0	No Variant	2020-04-03 — 12:33:00 UTC	Anax, melwen	163	5	25
+106983	2	25	No Variant	2020-04-03 — 12:22:31 UTC	Anax, melwen	165	5	25
+106975	2	0	No Variant	2020-04-03 — 12:13:42 UTC	Anax, melwen	169	5	25
+105993	3	23	No Variant	2020-04-02 — 18:56:52 UTC	Anax, Ntalakas, ntinta	516	5	25
+105982	3	23	No Variant	2020-04-02 — 18:44:22 UTC	Anax, Ntalakas, ntinta	551	5	25
+105967	3	24	No Variant	2020-04-02 — 18:30:10 UTC	Anax, Ntalakas, ntinta	573	5	25
+105960	4	25	No Variant	2020-04-02 — 18:16:29 UTC	Anax, melwen, Ntalakas, ntinta	213	5	25
+105951	4	24	No Variant	2020-04-02 — 18:02:07 UTC	Anax, melwen, Ntalakas, ntinta	233	5	25
+105943	4	0	No Variant	2020-04-02 — 17:45:22 UTC	Anax, melwen, Ntalakas, ntinta	243	5	25
+105935	4	0	No Variant	2020-04-02 — 17:35:34 UTC	Anax, melwen, Ntalakas, ntinta	257	5	25
+105833	2	0	No Variant	2020-04-02 — 14:30:16 UTC	Anax, melwen	175	5	25
+105826	2	0	No Variant	2020-04-02 — 14:18:53 UTC	Anax, melwen	173	5	25
+105821	2	0	No Variant	2020-04-02 — 14:11:58 UTC	Anax, melwen	178	5	25
+105818	2	25	No Variant	2020-04-02 — 14:09:22 UTC	Anax, melwen	178	5	25
+105812	2	0	No Variant	2020-04-02 — 13:59:50 UTC	Anax, melwen	181	5	25
+105808	2	0	No Variant	2020-04-02 — 13:52:35 UTC	Anax, melwen	180	5	25
+104810	4	0	No Variant	2020-04-01 — 17:56:53 UTC	Anax, melwen, Ntalakas, ntinta	278	5	25
+104805	4	25	No Variant	2020-04-01 — 17:38:51 UTC	Anax, melwen, Ntalakas, ntinta	287	5	25
+104797	4	24	No Variant	2020-04-01 — 17:22:26 UTC	Anax, melwen, Ntalakas, ntinta	308	5	25
+104781	3	0	No Variant	2020-04-01 — 17:04:22 UTC	Anax, Ntalakas, ntinta	624	5	25
+104770	3	0	No Variant	2020-04-01 — 16:55:04 UTC	Anax, Ntalakas, ntinta	645	5	25
+104672	2	24	No Variant	2020-04-01 — 12:07:58 UTC	Anax, melwen	215	5	25
+104671	2	0	No Variant	2020-04-01 — 11:59:43 UTC	Anax, melwen	220	5	25
+104668	2	25	No Variant	2020-04-01 — 11:54:42 UTC	Anax, melwen	220	5	25
+104667	2	0	No Variant	2020-04-01 — 11:43:16 UTC	Anax, melwen	225	5	25
+104664	2	24	No Variant	2020-04-01 — 11:39:30 UTC	Anax, melwen	228	5	25
+104653	2	0	No Variant	2020-04-01 — 11:33:05 UTC	Anax, melwen	231	5	25
+104652	2	23	No Variant	2020-04-01 — 11:30:51 UTC	Anax, melwen	244	5	25
+104638	2	0	No Variant	2020-04-01 — 11:21:18 UTC	Anax, melwen	249	5	25
+104634	2	0	No Variant	2020-04-01 — 11:17:35 UTC	Anax, melwen	254	5	25
+104632	2	25	No Variant	2020-04-01 — 11:11:26 UTC	Anax, melwen	259	5	25
+103769	3	25	No Variant	2020-03-31 — 19:57:04 UTC	Anax, melwen, Ntalakas	680	5	25
+103748	3	24	No Variant	2020-03-31 — 19:33:22 UTC	Anax, melwen, Ntalakas	750	5	25
+103729	3	22	No Variant	2020-03-31 — 19:20:00 UTC	Anax, melwen, Ntalakas	801	5	25
+103709	3	24	No Variant	2020-03-31 — 19:03:35 UTC	Anax, melwen, Ntalakas	840	5	25
+103006	3	25	No Variant	2020-03-31 — 00:14:26 UTC	Anax, Fedorov, melwen	940	5	25
+102989	3	0	No Variant	2020-03-31 — 00:01:39 UTC	Anax, Fedorov, melwen	1017	5	25
+102979	3	0	No Variant	2020-03-30 — 23:52:02 UTC	Anax, Fedorov, melwen	1095	5	25
+102970	3	23	No Variant	2020-03-30 — 23:37:30 UTC	Anax, Fedorov, melwen	1174	5	25
+102960	3	23	No Variant	2020-03-30 — 23:24:36 UTC	Anax, Fedorov, melwen	1291	5	25
+102951	3	21	No Variant	2020-03-30 — 23:12:08 UTC	Anax, Fedorov, melwen	1465	5	25
+102443	2	0	No Variant	2020-03-30 — 13:25:04 UTC	Anax, melwen	362	5	25
+102439	2	0	No Variant	2020-03-30 — 13:13:33 UTC	Anax, melwen	369	5	25
+102435	2	0	No Variant	2020-03-30 — 13:02:51 UTC	Anax, melwen	381	5	25
+102432	2	0	No Variant	2020-03-30 — 12:53:30 UTC	Anax, melwen	387	5	25
+102429	2	0	No Variant	2020-03-30 — 12:47:10 UTC	Anax, melwen	393	5	25
+102428	2	0	No Variant	2020-03-30 — 12:44:57 UTC	Anax, melwen	393	5	25
+101978	2	24	No Variant	2020-03-29 — 23:33:52 UTC	Anax, melwen	406	5	25
+101965	2	0	No Variant	2020-03-29 — 23:24:20 UTC	Anax, melwen	411	5	25
+101955	2	20	No Variant	2020-03-29 — 23:11:58 UTC	Anax, melwen	423	5	25
+101945	2	0	No Variant	2020-03-29 — 23:02:43 UTC	Anax, melwen	432	5	25
+101940	2	23	No Variant	2020-03-29 — 22:59:07 UTC	Anax, melwen	440	5	25
+101927	2	25	No Variant	2020-03-29 — 22:45:17 UTC	Anax, melwen	450	5	25
+101909	2	0	No Variant	2020-03-29 — 22:37:34 UTC	Anax, melwen	455	5	25
+101899	2	25	No Variant	2020-03-29 — 22:32:34 UTC	Anax, melwen	458	5	25
+101889	2	23	No Variant	2020-03-29 — 22:21:29 UTC	Anax, melwen	476	5	25
+101871	2	25	No Variant	2020-03-29 — 22:12:32 UTC	Anax, melwen	496	5	25
+101847	2	25	No Variant	2020-03-29 — 21:59:04 UTC	Anax, melwen	506	5	25
+101828	2	25	No Variant	2020-03-29 — 21:50:30 UTC	Anax, melwen	513	5	25
+101807	2	0	No Variant	2020-03-29 — 21:37:30 UTC	Anax, melwen	526	5	25
+101800	2	0	No Variant	2020-03-29 — 21:35:15 UTC	Anax, melwen	534	5	25
+101797	2	0	No Variant	2020-03-29 — 21:32:16 UTC	Anax, melwen	548	5	25
+101786	2	0	No Variant	2020-03-29 — 21:24:45 UTC	Anax, melwen	555	5	25
+101765	2	0	No Variant	2020-03-29 — 21:13:18 UTC	Anax, melwen	581	5	25
+101752	2	0	No Variant	2020-03-29 — 21:06:35 UTC	Anax, melwen	593	5	25
+101742	2	0	No Variant	2020-03-29 — 21:00:16 UTC	Anax, melwen	597	5	25
+101732	2	0	No Variant	2020-03-29 — 20:55:48 UTC	Anax, melwen	626	5	25
+101705	4	23	No Variant	2020-03-29 — 20:38:15 UTC	Anax, melwen, Ntalakas, ntinta	326	5	25
+101670	4	23	No Variant	2020-03-29 — 20:18:45 UTC	Anax, melwen, Ntalakas, ntinta	336	5	25
+101646	4	25	No Variant	2020-03-29 — 20:05:13 UTC	Anax, melwen, Ntalakas, ntinta	373	5	25
+101620	4	0	No Variant	2020-03-29 — 19:48:29 UTC	Anax, melwen, Ntalakas, ntinta	384	5	25
+101551	2	0	No Variant	2020-03-29 — 19:02:07 UTC	Anax, melwen	654	5	25
+101550	2	0	No Variant	2020-03-29 — 19:01:59 UTC	Anax, melwen	677	5	25
+101549	2	0	No Variant	2020-03-29 — 18:58:53 UTC	Anax, melwen	699	5	25
+101548	2	0	No Variant	2020-03-29 — 18:57:50 UTC	Anax, melwen	719	5	25
+101514	2	0	No Variant	2020-03-29 — 18:08:43 UTC	Anax, melwen	741	5	25
+101369	2	0	No Variant	2020-03-29 — 15:12:52 UTC	Anax, melwen	770	5	25
+101350	2	0	No Variant	2020-03-29 — 14:45:34 UTC	Anax, melwen	794	5	25
+100943	2	25	No Variant	2020-03-29 — 03:59:24 UTC	Anax, melwen	818	5	25
+100926	2	0	No Variant	2020-03-29 — 03:46:49 UTC	Anax, melwen	854	5	25
+100917	2	0	No Variant	2020-03-29 — 03:40:24 UTC	Anax, melwen	883	5	25
+100905	2	22	No Variant	2020-03-29 — 03:34:52 UTC	Anax, melwen	921	5	25
+100890	2	0	No Variant	2020-03-29 — 03:26:27 UTC	Anax, melwen	948	5	25
+100876	2	25	No Variant	2020-03-29 — 03:19:26 UTC	Anax, melwen	976	5	25
+100849	2	25	No Variant	2020-03-29 — 03:07:34 UTC	Anax, melwen	1031	5	25
+100826	2	0	No Variant	2020-03-29 — 02:56:51 UTC	Anax, melwen	1078	5	25
+100823	2	0	No Variant	2020-03-29 — 02:54:59 UTC	Anax, melwen	1117	5	25
+100815	2	25	No Variant	2020-03-29 — 02:48:59 UTC	Anax, melwen	1148	5	25
+100788	2	24	No Variant	2020-03-29 — 02:36:20 UTC	Anax, melwen	1206	5	25
+100774	2	24	No Variant	2020-03-29 — 02:23:55 UTC	Anax, melwen	1249	5	25
+100754	2	0	No Variant	2020-03-29 — 02:11:20 UTC	Anax, melwen	1299	5	25
+100741	2	0	No Variant	2020-03-29 — 02:05:04 UTC	Anax, melwen	1376	5	25
+100733	2	25	No Variant	2020-03-29 — 01:59:40 UTC	Anax, melwen	1448	5	25
+100231	4	26	Black (6 Suits)	2020-03-28 — 21:21:39 UTC	Anax, melwen, Ntalakas, ntinta	55	6	30
+100167	4	0	Black (6 Suits)	2020-03-28 — 20:54:24 UTC	Anax, melwen, Ntalakas, ntinta	57	6	30
+100072	4	0	Black (6 Suits)	2020-03-28 — 20:03:12 UTC	Anax, melwen, Ntalakas, ntinta	54	6	30
+100056	4	0	No Variant	2020-03-28 — 19:47:03 UTC	Anax, melwen, Ntalakas, ntinta	419	5	25
+100054	4	25	No Variant	2020-03-28 — 19:46:38 UTC	Anax, melwen, Ntalakas, ntinta	442	5	25
+100030	4	0	No Variant	2020-03-28 — 19:27:58 UTC	Anax, melwen, Ntalakas, ntinta	473	5	25
+100011	4	0	No Variant	2020-03-28 — 19:14:07 UTC	Anax, melwen, Ntalakas, ntinta	501	5	25
+100007	4	0	No Variant	2020-03-28 — 19:07:30 UTC	Anax, melwen, Ntalakas, ntinta	541	5	25
+99986	3	0	No Variant	2020-03-28 — 18:52:28 UTC	Anax, Ntalakas, ntinta	1881	5	25
+99965	3	0	No Variant	2020-03-28 — 18:36:15 UTC	Anax, Ntalakas, ntinta	2163	5	25
+99957	3	0	No Variant	2020-03-28 — 18:28:31 UTC	Anax, Ntalakas, ntinta	2606	5	25
+99956	3	22	No Variant	2020-03-28 — 18:27:46 UTC	Anax, Ntalakas, ntinta	3260	5	25
+99935	3	0	No Variant	2020-03-28 — 18:11:51 UTC	Anax, Ntalakas, ntinta	4221	5	25
+98772	4	25	Black (6 Suits)	2020-03-27 — 20:12:27 UTC	Anax, melwen, Ntalakas, ntinta	62	6	30
+98738	4	30	Black (6 Suits)	2020-03-27 — 19:42:04 UTC	Anax, melwen, Ntalakas, ntinta	67	6	30
+98708	4	24	Black (6 Suits)	2020-03-27 — 19:13:51 UTC	Anax, melwen, Ntalakas, ntinta	64	6	30
+98677	4	0	Black (6 Suits)	2020-03-27 — 18:43:47 UTC	Anax, melwen, Ntalakas, ntinta	71	6	30
+98659	4	23	Black (6 Suits)	2020-03-27 — 18:21:25 UTC	Anax, melwen, Ntalakas, ntinta	74	6	30
+97833	4	27	Black (6 Suits)	2020-03-26 — 18:56:40 UTC	Anax, melwen, Ntalakas, ntinta	77	6	30
+97814	4	0	Black (6 Suits)	2020-03-26 — 18:28:26 UTC	Anax, melwen, Ntalakas, ntinta	90	6	30
+97796	4	29	Black (6 Suits)	2020-03-26 — 18:06:55 UTC	Anax, melwen, Ntalakas, ntinta	91	6	30
+97493	2	25	No Variant	2020-03-26 — 03:48:20 UTC	Anax, melwen	1840	5	25
+97485	2	0	No Variant	2020-03-26 — 03:37:46 UTC	Anax, melwen	1952	5	25
+97480	2	0	No Variant	2020-03-26 — 03:33:56 UTC	Anax, melwen	2147	5	25
+97472	2	0	No Variant	2020-03-26 — 03:26:49 UTC	Anax, melwen	2288	5	25
+97465	2	0	No Variant	2020-03-26 — 03:23:04 UTC	Anax, melwen	2532	5	25
+97451	2	15	3 Suits	2020-03-26 — 03:11:45 UTC	Anax, melwen	105	3	15
+97434	2	0	3 Suits	2020-03-26 — 03:01:36 UTC	Anax, melwen	124	3	15
+97422	2	0	3 Suits	2020-03-26 — 02:49:51 UTC	Anax, melwen	193	3	15
+97412	2	0	3 Suits	2020-03-26 — 02:40:43 UTC	Anax, melwen	271	3	15
+96895	4	25	No Variant	2020-03-25 — 15:47:17 UTC	Anax, melwen, Ntalakas, ntinta	601	5	25
+96886	4	0	No Variant	2020-03-25 — 15:28:43 UTC	Anax, melwen, Ntalakas, ntinta	655	5	25
+96877	4	0	No Variant	2020-03-25 — 15:14:38 UTC	Anax, melwen, Ntalakas, ntinta	717	5	25
+96871	4	25	No Variant	2020-03-25 — 15:06:32 UTC	Anax, melwen, Ntalakas, ntinta	793	5	25
+96860	4	25	No Variant	2020-03-25 — 14:46:54 UTC	Anax, melwen, Ntalakas, ntinta	899	5	25
+96850	4	14	3 Suits	2020-03-25 — 14:25:38 UTC	Anax, melwen, Ntalakas, ntinta	73	3	15
+96846	4	0	No Variant	2020-03-25 — 14:15:46 UTC	Anax, melwen, Ntalakas, ntinta	985	5	25
+96843	4	25	No Variant	2020-03-25 — 13:55:48 UTC	Anax, melwen, Ntalakas, ntinta	1092	5	25
+96839	4	0	No Variant	2020-03-25 — 13:39:36 UTC	Anax, melwen, Ntalakas, ntinta	1253	5	25
+96838	4	25	No Variant	2020-03-25 — 13:33:46 UTC	Anax, melwen, Ntalakas, ntinta	1449	5	25
+96835	4	22	No Variant	2020-03-25 — 13:09:53 UTC	Anax, melwen, Ntalakas, ntinta	1744	5	25
+95423	2	0	No Variant	2020-03-23 — 22:05:16 UTC	Anax, melwen	2750	5	25
+95416	4	25	No Variant	2020-03-23 — 22:02:01 UTC	Anax, melwen, Ntalakas, ntinta	2076	5	25
+95395	4	0	No Variant	2020-03-23 — 21:40:34 UTC	Anax, melwen, Ntalakas, ntinta	2763	5	25
+95378	4	0	No Variant	2020-03-23 — 21:27:30 UTC	Anax, melwen, Ntalakas, ntinta	3581	5	25
+95373	4	0	Black (6 Suits)	2020-03-23 — 21:25:48 UTC	Anax, melwen, Ntalakas, ntinta	102	6	30
+95342	4	0	Black (6 Suits)	2020-03-23 — 21:01:23 UTC	Anax, melwen, Ntalakas, ntinta	112	6	30
+95325	4	0	Black (6 Suits)	2020-03-23 — 20:49:03 UTC	Anax, melwen, Ntalakas, ntinta	121	6	30
+95309	3	0	Black (6 Suits)	2020-03-23 — 20:38:04 UTC	Anax, Ntalakas, ntinta	213	6	30
+95296	3	0	Black (6 Suits)	2020-03-23 — 20:26:51 UTC	Anax, Ntalakas, ntinta	236	6	30
+93482	4	27	Black (6 Suits)	2020-03-21 — 19:24:09 UTC	Anax, melwen, Ntalakas, ntinta	128	6	30
+93471	4	0	Black (6 Suits)	2020-03-21 — 19:04:18 UTC	Anax, melwen, Ntalakas, ntinta	142	6	30
+93438	4	27	Black (6 Suits)	2020-03-21 — 18:11:58 UTC	Anax, melwen, Ntalakas, ntinta	175	6	30
+93427	4	0	Black (6 Suits)	2020-03-21 — 17:43:58 UTC	Anax, melwen, Ntalakas, ntinta	213	6	30
+92736	4	25	Black (6 Suits)	2020-03-20 — 18:13:57 UTC	Anax, melwen, Ntalakas, ntinta	273	6	30
+91444	3	29	Black (6 Suits)	2020-03-18 — 19:26:34 UTC	Anax, melwen, Ntalakas	261	6	30
+91437	3	0	Black (6 Suits)	2020-03-18 — 19:11:16 UTC	Anax, melwen, Ntalakas	325	6	30
+91435	3	0	Black (6 Suits)	2020-03-18 — 19:03:34 UTC	Anax, melwen, Ntalakas	399	6	30
+90925	2	0	No Variant	2020-03-17 — 21:10:41 UTC	Anax, melwen	3051	5	25
+90919	2	24	No Variant	2020-03-17 — 21:04:28 UTC	Anax, melwen	3507	5	25
+90911	2	0	No Variant	2020-03-17 — 20:48:31 UTC	Anax, melwen	4109	5	25
+90909	2	0	No Variant	2020-03-17 — 20:43:30 UTC	Anax, melwen	5374	5	25

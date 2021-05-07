@@ -16,7 +16,7 @@ with open("input/list_of_players.txt") as players:
     for player in current_strength_per_player:
         num_games = 0
         games_per_player[player] = []
-        with open("temp/{}_stats.txt".format(player)) as player_history_file:
+        with open("stats/{}_stats.txt".format(player)) as player_history_file:
             for game in player_history_file:
                 game = game.strip().split("\t")
                 [

@@ -1,0 +1,1898 @@
+512515	2	30	Prism (6 Suits)	2021-04-25 — 20:33:08 UTC	rz, wump	44	6	30
+512490	2	0	Prism (6 Suits)	2021-04-25 — 20:16:53 UTC	rz, wump	59	6	30
+512474	2	0	Prism (6 Suits)	2021-04-25 — 20:04:15 UTC	rz, wump	64	6	30
+512458	2	25	Muddy Rainbow (5 Suits)	2021-04-25 — 19:52:51 UTC	rz, wump	78	5	25
+512433	2	30	Brown (6 Suits)	2021-04-25 — 19:37:15 UTC	rz, wump	129	6	30
+512411	2	20	4 Suits	2021-04-25 — 19:25:01 UTC	rz, wump	76	4	20
+512322	4	24	Up or Down & Pink (5 Suits)	2021-04-25 — 17:27:30 UTC	dobi, rz, Wittvector, wump	12	5	25
+512048	4	13	Omni (3 Suits)	2021-04-25 — 06:24:48 UTC	cockdestroyer, ksfortson, louietyj, wump	11	3	15
+512037	4	0	Dark Rainbow (5 Suits)	2021-04-25 — 06:03:57 UTC	bjnh, cockdestroyer, ksfortson, wump	29	5	25
+512021	2	20	Brown (4 Suits)	2021-04-25 — 05:44:32 UTC	cockdestroyer, wump	24	4	20
+512011	2	0	Brown (4 Suits)	2021-04-25 — 05:34:49 UTC	cockdestroyer, wump	25	4	20
+511998	2	19	Brown (4 Suits)	2021-04-25 — 05:24:55 UTC	cockdestroyer, wump	34	4	20
+511989	2	15	3 Suits	2021-04-25 — 05:16:59 UTC	cockdestroyer, wump	193	3	15
+511974	2	14	3 Suits	2021-04-25 — 05:09:47 UTC	cockdestroyer, wump	271	3	15
+511644	2	27	Pink (6 Suits)	2021-04-24 — 22:31:03 UTC	aquarelle, wump	157	6	30
+511371	3	0	Dark Prism Reversed (5 Suits)	2021-04-24 — 17:54:40 UTC	dobi, Lanvin, wump	6	5	25
+511368	3	0	Dark Prism Reversed (5 Suits)	2021-04-24 — 17:50:46 UTC	dobi, Lanvin, wump	7	5	25
+511361	2	20	Dark Prism Reversed (5 Suits)	2021-04-24 — 17:38:20 UTC	Lanvin, wump	6	5	25
+511357	2	0	Dark Prism Reversed (5 Suits)	2021-04-24 — 17:26:18 UTC	Lanvin, wump	6	5	25
+511355	2	0	Dark Prism Reversed (5 Suits)	2021-04-24 — 17:18:14 UTC	Lanvin, wump	7	5	25
+511344	4	24	Black & Brown (5 Suits)	2021-04-24 — 17:01:43 UTC	kevincaseytdk1, MalachiteMoa, nkkarpov, wump	8	5	25
+511330	3	24	Black & Brown (5 Suits)	2021-04-24 — 16:33:57 UTC	MalachiteMoa, nkkarpov, wump	7	5	25
+511304	2	30	Rainbow (6 Suits)	2021-04-24 — 15:29:44 UTC	tacobot5000, wump	14	6	30
+510935	3	30	Black & Brown (6 Suits)	2021-04-24 — 02:50:20 UTC	ksfortson, rz, wump	13	6	30
+510907	3	28	Black & Brown (6 Suits)	2021-04-24 — 02:25:03 UTC	ksfortson, rz, wump	16	6	30
+510878	3	22	Black & Brown (6 Suits)	2021-04-24 — 01:53:18 UTC	ksfortson, rz, wump	17	6	30
+510858	3	29	Pink & Muddy Rainbow (6 Suits)	2021-04-24 — 01:22:47 UTC	griff77, rz, wump	2	6	30
+510819	3	25	Dark Pink (5 Suits)	2021-04-24 — 00:49:26 UTC	griff77, hakha3, wump	11	5	25
+510761	3	21	Dark Pink (5 Suits)	2021-04-24 — 00:23:16 UTC	griff77, hakha3, wump	10	5	25
+510735	3	0	Black & Rainbow (6 Suits)	2021-04-23 — 23:42:42 UTC	duckless, Wittvector, wump	26	6	30
+510731	3	0	Black & Rainbow (6 Suits)	2021-04-23 — 23:39:40 UTC	duckless, Wittvector, wump	27	6	30
+510721	3	0	Black & Rainbow (6 Suits)	2021-04-23 — 23:20:13 UTC	duckless, Wittvector, wump	51	6	30
+510657	3	0	Up or Down & Rainbow (5 Suits)	2021-04-23 — 22:41:08 UTC	IsabeltheCat, ricardodd, wump	5	5	25
+510623	3	24	Up or Down & Rainbow (5 Suits)	2021-04-23 — 22:15:09 UTC	IsabeltheCat, ricardodd, wump	6	5	25
+510354	3	24	Black & Brown (5 Suits)	2021-04-23 — 17:09:08 UTC	MangoPie, Wittvector, wump	19	5	25
+510321	4	27	Black & Light Pink (6 Suits)	2021-04-23 — 16:28:38 UTC	Kyle, rz, Syrah, wump	10	6	30
+510053	3	25	Dark Prism (6 Suits)	2021-04-23 — 06:31:25 UTC	antitelharsic, boba, wump	32	6	30
+509943	3	0	Up or Down & Prism (6 Suits)	2021-04-23 — 03:32:09 UTC	IsabeltheCat, newduke, wump	13	6	30
+509893	2	25	Brown (5 Suits)	2021-04-23 — 02:38:00 UTC	rz, wump	56	5	25
+509884	2	0	Brown (5 Suits)	2021-04-23 — 02:24:43 UTC	rz, wump	59	5	25
+509875	2	23	Brown (5 Suits)	2021-04-23 — 02:14:12 UTC	rz, wump	76	5	25
+509844	3	30	Gray (6 Suits)	2021-04-23 — 01:40:13 UTC	Nitrate, rz, wump	42	6	30
+509820	3	0	Gray (6 Suits)	2021-04-23 — 01:06:37 UTC	Nitrate, rz, wump	45	6	30
+509796	3	13	Muddy Rainbow (3 Suits)	2021-04-23 — 00:34:48 UTC	Nitrate, rz, wump	22	3	15
+509763	2	0	Brown (5 Suits)	2021-04-23 — 00:09:05 UTC	rz, wump	87	5	25
+509755	2	0	Brown (5 Suits)	2021-04-23 — 00:01:06 UTC	rz, wump	124	5	25
+509747	4	0	White & Omni (5 Suits)	2021-04-22 — 23:52:23 UTC	aquarelle, kevincaseytdk1, Lanvin, wump	2	5	25
+509742	4	0	White & Omni (5 Suits)	2021-04-22 — 23:46:18 UTC	aquarelle, kevincaseytdk1, Lanvin, wump	2	5	25
+509740	4	0	White & Omni (5 Suits)	2021-04-22 — 23:36:35 UTC	aquarelle, kevincaseytdk1, Lanvin, wump	3	5	25
+509725	4	0	Rainbow & Light Pink (5 Suits)	2021-04-22 — 23:16:03 UTC	HelanaAshryvr, kevincaseytdk1, Lanvin, wump	7	5	25
+509222	3	22	No Variant	2021-04-22 — 07:15:09 UTC	mgce, Quantumplation, wump	44	5	25
+509213	2	24	No Variant	2021-04-22 — 06:53:21 UTC	Quantumplation, wump	677	5	25
+509208	4	0	No Variant	2021-04-22 — 06:35:51 UTC	ksfortson, mgce, Quantumplation, wump	26	5	25
+509202	3	0	Black & Rainbow (5 Suits)	2021-04-22 — 06:14:40 UTC	indego, ksfortson, wump	46	5	25
+508824	5	25	Pink & Omni (5 Suits)	2021-04-21 — 21:58:56 UTC	kevincaseytdk1, Lanvin, MangoPie, Wittvector, wump	2	5	25
+507918	4	30	Pink & Light Pink (6 Suits)	2021-04-20 — 22:43:41 UTC	aquarelle, HelanaAshryvr, jack67889, wump	5	6	30
+507635	3	30	Dark Brown (6 Suits)	2021-04-20 — 17:05:11 UTC	bjnh, rz, wump	18	6	30
+507031	3	25	Rainbow (5 Suits)	2021-04-20 — 00:05:01 UTC	hanablebee, ReaverSe, wump	31	5	25
+505723	3	25	Null (5 Suits)	2021-04-18 — 20:49:30 UTC	MangoPie, rz, wump	12	5	25
+505673	3	0	Null (5 Suits)	2021-04-18 — 20:16:04 UTC	MangoPie, rz, wump	12	5	25
+505610	3	0	Null (5 Suits)	2021-04-18 — 19:34:14 UTC	MangoPie, rz, wump	12	5	25
+505570	3	25	Null (5 Suits)	2021-04-18 — 18:56:49 UTC	MangoPie, rz, wump	12	5	25
+505537	3	25	Null (5 Suits)	2021-04-18 — 18:28:46 UTC	MangoPie, rz, wump	32	5	25
+505511	3	0	Null (5 Suits)	2021-04-18 — 18:11:27 UTC	MangoPie, rz, wump	36	5	25
+505030	3	30	Muddy Rainbow (6 Suits)	2021-04-18 — 04:37:01 UTC	corys, wump, xor	18	6	30
+504587	5	0	Black & Brown (6 Suits)	2021-04-17 — 22:03:57 UTC	kopen, rz, timotree, voss, wump	3	6	30
+504551	5	25	Black & Brown (6 Suits)	2021-04-17 — 21:26:18 UTC	kopen, rz, timotree, voss, wump	5	6	30
+504530	4	0	Black & Brown (6 Suits)	2021-04-17 — 21:06:51 UTC	kopen, rz, voss, wump	9	6	30
+504525	4	0	Black & Brown (6 Suits)	2021-04-17 — 21:02:11 UTC	kopen, rz, voss, wump	11	6	30
+504513	4	0	Black & Brown (6 Suits)	2021-04-17 — 20:56:13 UTC	kopen, rz, voss, wump	12	6	30
+504479	5	30	Dual-Color (6 Suits)	2021-04-17 — 20:44:06 UTC	bjnh, griff77, kopen, rz, wump	6	6	30
+504407	5	0	Black (5 Suits)	2021-04-17 — 19:56:39 UTC	bjnh, griff77, kopen, rz, wump	3	5	25
+504384	5	23	Black (5 Suits)	2021-04-17 — 19:30:42 UTC	bjnh, griff77, kopen, rz, wump	4	5	25
+504297	4	0	Dark Rainbow (5 Suits)	2021-04-17 — 18:21:00 UTC	griff77, kopen, Spieler42, wump	11	5	25
+504271	3	22	Black (5 Suits)	2021-04-17 — 17:52:59 UTC	griff77, tacobot5000, wump	31	5	25
+504237	3	30	Prism (6 Suits)	2021-04-17 — 17:19:16 UTC	possum, tacobot5000, wump	21	6	30
+504210	3	30	Rainbow (6 Suits)	2021-04-17 — 16:37:07 UTC	possum, tacobot5000, wump	35	6	30
+503857	3	0	Rainbow & White (6 Suits)	2021-04-17 — 04:15:20 UTC	griff77, voss, wump	24	6	30
+503836	3	0	Rainbow & White (6 Suits)	2021-04-17 — 03:50:01 UTC	griff77, voss, wump	32	6	30
+502997	4	20	Black Reversed (5 Suits)	2021-04-16 — 16:59:47 UTC	duckless, possum, rz, wump	6	5	25
+502960	4	0	Black Reversed (5 Suits)	2021-04-16 — 16:39:08 UTC	duckless, possum, rz, wump	8	5	25
+502952	4	0	Black Reversed (5 Suits)	2021-04-16 — 16:27:24 UTC	duckless, possum, rz, wump	9	5	25
+502275	5	21	Black (5 Suits)	2021-04-15 — 22:49:36 UTC	ChristopheAF, kevincaseytdk1, Lanvin, melwen, wump	2	5	25
+502261	5	21	Black (5 Suits)	2021-04-15 — 22:24:53 UTC	ChristopheAF, kevincaseytdk1, Lanvin, melwen, wump	4	5	25
+502241	5	23	Black (5 Suits)	2021-04-15 — 21:44:36 UTC	ChristopheAF, kevincaseytdk1, Lanvin, melwen, wump	5	5	25
+501943	3	25	Muddy Rainbow (5 Suits)	2021-04-15 — 17:08:55 UTC	knaphill, possum, wump	37	5	25
+501702	5	28	Rainbow & Prism (6 Suits)	2021-04-15 — 06:16:11 UTC	bjnh, kimbifille, ksfortson, micerang, wump	4	6	30
+501616	3	0	Rainbow-Fives & Prism (6 Suits)	2021-04-15 — 04:22:42 UTC	cockdestroyer, ksfortson, wump	1	6	30
+501599	3	29	Rainbow-Fives & Prism (6 Suits)	2021-04-15 — 03:54:05 UTC	cockdestroyer, ksfortson, wump	1	6	30
+501575	5	25	Brown & Prism (5 Suits)	2021-04-15 — 03:21:00 UTC	ksfortson, louietyj, otterful, torp, wump	3	5	25
+501555	5	22	Brown & Prism (5 Suits)	2021-04-15 — 03:02:43 UTC	ksfortson, louietyj, otterful, torp, wump	4	5	25
+501492	3	25	Null (5 Suits)	2021-04-15 — 02:04:27 UTC	newduke, rz, wump	13	5	25
+501450	3	25	Null (5 Suits)	2021-04-15 — 01:30:36 UTC	newduke, rz, wump	13	5	25
+501429	3	0	Null (5 Suits)	2021-04-15 — 00:55:53 UTC	newduke, rz, wump	14	5	25
+501394	3	0	Null (5 Suits)	2021-04-15 — 00:22:22 UTC	newduke, rz, wump	14	5	25
+501366	3	24	Null (5 Suits)	2021-04-14 — 23:54:12 UTC	dobi, rz, wump	40	5	25
+501328	3	25	Null (5 Suits)	2021-04-14 — 23:26:28 UTC	melwen, rz, wump	27	5	25
+501291	5	23	Ambiguous & Rainbow (5 Suits)	2021-04-14 — 22:31:12 UTC	cockdestroyer, colton, jack67889, nkkarpov, wump	2	5	25
+500913	5	0	Up or Down & Prism (5 Suits)	2021-04-14 — 16:41:22 UTC	ChristopheAF, dobi, duckless, rz, wump	3	5	25
+500902	3	20	Up or Down & Prism (5 Suits)	2021-04-14 — 16:24:26 UTC	duckless, rz, wump	6	5	25
+500516	3	30	Rainbow (6 Suits)	2021-04-14 — 03:04:34 UTC	kinkajusrevenge, MathNoob, wump	43	6	30
+500473	3	0	Rainbow (6 Suits)	2021-04-14 — 02:09:44 UTC	kinkajusrevenge, ReaverSe, wump	42	6	30
+500370	4	0	Brown & Gray Pink (5 Suits)	2021-04-14 — 00:16:12 UTC	indego, Lanvin, melwen, wump	4	5	25
+500301	3	27	Dark Brown (6 Suits)	2021-04-13 — 23:16:51 UTC	IsabeltheCat, knaphill, wump	22	6	30
+500257	4	20	Prism (4 Suits)	2021-04-13 — 22:38:10 UTC	knaphill, torp, VBVBVBVB, wump	11	4	20
+499751	5	0	Brown (6 Suits)	2021-04-13 — 16:40:47 UTC	Fey, indego, Pablo-, rz, wump	1	6	30
+499742	5	25	Pink (5 Suits)	2021-04-13 — 16:20:50 UTC	Fey, indego, Pablo-, rz, wump	1	5	25
+499491	3	29	Rainbow (6 Suits)	2021-04-13 — 04:30:10 UTC	socerman, tacobot5000, wump	28	6	30
+499449	3	0	Rainbow (6 Suits)	2021-04-13 — 04:05:10 UTC	socerman, tacobot5000, wump	29	6	30
+499418	3	25	Rainbow (6 Suits)	2021-04-13 — 03:46:41 UTC	socerman, tacobot5000, wump	30	6	30
+499235	2	20	Pink (4 Suits)	2021-04-13 — 01:38:29 UTC	nwajfromoz, wump	105	4	20
+499199	6	25	Pink (5 Suits)	2021-04-13 — 00:46:14 UTC	dobi, HelanaAshryvr, kevincaseytdk1, Lanvin, nwajfromoz, wump	3	5	25
+499185	6	0	Pink (5 Suits)	2021-04-13 — 00:23:18 UTC	dobi, HelanaAshryvr, kevincaseytdk1, Lanvin, nwajfromoz, wump	9	5	25
+499168	3	19	Pink (4 Suits)	2021-04-12 — 23:56:02 UTC	Arcee, IsabeltheCat, wump	27	4	20
+499149	3	19	Pink (4 Suits)	2021-04-12 — 23:37:40 UTC	IsabeltheCat, nwajfromoz, wump	29	4	20
+498261	4	24	No Variant	2021-04-12 — 05:47:11 UTC	CptAggro, mgce, possum, wump	35	5	25
+497788	4	0	Rainbow & Prism (5 Suits)	2021-04-12 — 01:09:34 UTC	bjnh, jeff10, kinkajusrevenge, wump	5	5	25
+497703	4	0	Rainbow-Fives (5 Suits)	2021-04-11 — 23:44:34 UTC	Damian000, DarthGandalf, NumerateClutter, wump	11	5	25
+497621	4	30	Dual-Color Mix	2021-04-11 — 22:01:10 UTC	antitelharsic, jack67889, Lanvin, wump	11	6	30
+497590	4	0	Dual-Color Mix	2021-04-11 — 21:37:46 UTC	antitelharsic, jack67889, Lanvin, wump	20	6	30
+497071	3	0	Dark Pink (5 Suits)	2021-04-11 — 05:55:37 UTC	HelanaAshryvr, squirrel1988, wump	11	5	25
+497067	3	0	Dark Pink (5 Suits)	2021-04-11 — 05:37:01 UTC	HelanaAshryvr, squirrel1988, wump	12	5	25
+497064	3	0	Dark Pink (5 Suits)	2021-04-11 — 05:26:04 UTC	HelanaAshryvr, squirrel1988, wump	16	5	25
+496340	3	0	Omni-Ones & Muddy Rainbow (5 Suits)	2021-04-10 — 18:38:54 UTC	griff77, possum, wump	2	5	25
+496321	3	0	Omni-Ones & Muddy Rainbow (5 Suits)	2021-04-10 — 17:55:31 UTC	griff77, possum, wump	3	5	25
+496314	3	20	Brown-Ones & White (4 Suits)	2021-04-10 — 17:43:46 UTC	griff77, possum, wump	3	4	20
+496301	4	20	Light Pink (4 Suits)	2021-04-10 — 17:18:54 UTC	griff77, MangoPie, sean1815, wump	11	4	20
+495917	3	25	Pink & Brown (5 Suits)	2021-04-10 — 09:02:13 UTC	bob65536, derekcheah, wump	11	5	25
+495907	3	0	Pink & Brown (5 Suits)	2021-04-10 — 08:44:18 UTC	bob65536, derekcheah, wump	12	5	25
+495903	3	0	Pink & Brown (5 Suits)	2021-04-10 — 08:37:56 UTC	bob65536, derekcheah, wump	22	5	25
+495792	3	29	Dark Pink (6 Suits)	2021-04-10 — 05:21:09 UTC	Fey, nwajfromoz, wump	34	6	30
+495603	3	0	Muddy-Rainbow-Ones & Prism (4 Suits)	2021-04-10 — 02:38:20 UTC	Doge, kinkajusrevenge, wump	1	4	20
+495576	3	26	Rainbow & Pink (6 Suits)	2021-04-10 — 02:10:13 UTC	IsabeltheCat, kinkajusrevenge, wump	16	6	30
+495362	3	26	Black & White (6 Suits)	2021-04-09 — 21:43:40 UTC	DarthGandalf, kevincaseytdk1, wump	47	6	30
+494784	3	24	No Variant	2021-04-09 — 11:18:17 UTC	possum, wump, Zakisan	47	5	25
+494482	3	25	Null (5 Suits)	2021-04-09 — 02:15:08 UTC	newduke, rz, wump	16	5	25
+494464	3	0	Null (5 Suits)	2021-04-09 — 01:44:03 UTC	newduke, rz, wump	17	5	25
+494449	3	0	Null (5 Suits)	2021-04-09 — 01:20:09 UTC	newduke, rz, wump	18	5	25
+494435	3	0	Null (5 Suits)	2021-04-09 — 01:03:48 UTC	newduke, rz, wump	18	5	25
+494426	3	0	Null (5 Suits)	2021-04-09 — 00:50:58 UTC	newduke, rz, wump	18	5	25
+494401	3	0	Null (5 Suits)	2021-04-09 — 00:18:51 UTC	newduke, rz, wump	20	5	25
+494379	3	0	Null (5 Suits)	2021-04-08 — 23:50:15 UTC	newduke, rz, wump	21	5	25
+493850	4	21	Gray (5 Suits)	2021-04-08 — 06:48:17 UTC	griff77, MangoPie, qqqq, wump	12	5	25
+493834	4	23	Gray (5 Suits)	2021-04-08 — 06:14:33 UTC	griff77, MangoPie, qqqq, wump	13	5	25
+493821	3	0	Gray (5 Suits)	2021-04-08 — 05:43:12 UTC	griff77, MangoPie, wump	16	5	25
+493810	3	0	Gray (5 Suits)	2021-04-08 — 05:14:40 UTC	griff77, MangoPie, wump	20	5	25
+493799	3	23	Gray (5 Suits)	2021-04-08 — 04:50:02 UTC	griff77, MangoPie, wump	21	5	25
+493768	3	0	Gray (5 Suits)	2021-04-08 — 04:26:57 UTC	griff77, MangoPie, wump	35	5	25
+493741	4	23	Muddy Rainbow (5 Suits)	2021-04-08 — 04:12:08 UTC	FerKeth, griff77, MangoPie, wump	12	5	25
+493657	3	30	Dual-Color & Dark Omni (6 Suits)	2021-04-08 — 02:11:50 UTC	derekcheah, Lel0uch, wump	2	6	30
+493630	5	0	White (6 Suits)	2021-04-08 — 01:46:49 UTC	aquarelle, bob65536, boba, Meowie, wump	9	6	30
+493567	3	25	Brown-Fives & Dark Brown (5 Suits)	2021-04-08 — 00:22:47 UTC	bob65536, kevincaseytdk1, wump	3	5	25
+493109	4	0	Pink & Brown (5 Suits)	2021-04-07 — 17:03:29 UTC	MarkusKahlsen, rz, swineherd, wump	1	5	25
+493104	4	0	Pink & Brown (5 Suits)	2021-04-07 — 17:00:11 UTC	MarkusKahlsen, rz, swineherd, wump	1	5	25
+493087	4	25	Pink & Brown (5 Suits)	2021-04-07 — 16:37:47 UTC	MarkusKahlsen, rz, swineherd, wump	1	5	25
+492920	3	25	Brown (5 Suits)	2021-04-07 — 05:43:26 UTC	nwajfromoz, pianoblook, wump	13	5	25
+492910	3	0	Brown (5 Suits)	2021-04-07 — 05:17:43 UTC	nwajfromoz, pianoblook, wump	17	5	25
+492899	2	25	Pink (5 Suits)	2021-04-07 — 05:00:26 UTC	nwajfromoz, wump	200	5	25
+492733	3	27	Rainbow (6 Suits)	2021-04-07 — 02:21:36 UTC	kinkajusrevenge, PotatoLatte, wump	47	6	30
+492691	3	22	Black (5 Suits)	2021-04-07 — 01:35:17 UTC	nwajfromoz, PotatoLatte, wump	31	5	25
+492552	4	24	Clue Starved (5 Suits)	2021-04-06 — 22:06:40 UTC	bob65536, indego, MangoPie, wump	19	5	25
+491632	3	25	Pink & White (5 Suits)	2021-04-05 — 23:43:22 UTC	IsabeltheCat, kinkajusrevenge, wump	17	5	25
+491607	2	25	Pink & Muddy Rainbow (5 Suits)	2021-04-05 — 23:07:36 UTC	kinkajusrevenge, wump	11	5	25
+491254	5	22	White (5 Suits)	2021-04-05 — 16:47:54 UTC	Kyle, MathNoob, narabio, Spieler42, wump	1	5	25
+490478	3	25	No Variant	2021-04-04 — 18:26:37 UTC	Damian000, ReaverSe, wump	46	5	25
+489787	3	0	Rainbow (5 Suits)	2021-04-03 — 23:35:37 UTC	MangoPie, vjk, wump	39	5	25
+489768	3	23	Rainbow (5 Suits)	2021-04-03 — 23:09:29 UTC	MangoPie, vjk, wump	43	5	25
+489597	3	24	Dark Pink (5 Suits)	2021-04-03 — 20:23:20 UTC	griff77, MangoPie, wump	17	5	25
+489573	3	24	Dark Pink (5 Suits)	2021-04-03 — 19:53:49 UTC	griff77, MangoPie, wump	26	5	25
+489549	5	30	Brown (6 Suits)	2021-04-03 — 19:29:54 UTC	griff77, MangoPie, Syrah, wolfpack, wump	1	6	30
+489522	5	0	Brown (6 Suits)	2021-04-03 — 19:05:17 UTC	griff77, MangoPie, Syrah, wolfpack, wump	8	6	30
+489499	3	24	Dark Pink (5 Suits)	2021-04-03 — 18:31:19 UTC	griff77, nwajfromoz, wump	38	5	25
+489478	3	22	Dark Pink (5 Suits)	2021-04-03 — 17:57:46 UTC	griff77, nwajfromoz, wump	42	5	25
+489464	3	20	White-Fives (4 Suits)	2021-04-03 — 17:32:45 UTC	griff77, nwajfromoz, wump	1	4	20
+489451	3	0	White-Fives (4 Suits)	2021-04-03 — 17:11:08 UTC	griff77, nwajfromoz, wump	1	4	20
+489174	2	30	Rainbow (6 Suits)	2021-04-03 — 05:35:13 UTC	indego, wump	243	6	30
+488913	3	0	Omni (6 Suits)	2021-04-03 — 01:35:49 UTC	griff77, orucsoraihc, wump	36	6	30
+488802	3	25	Cocoa Rainbow (6 Suits)	2021-04-02 — 23:54:02 UTC	HelanaAshryvr, Lanvin, wump	11	6	30
+488788	4	30	Cocoa Rainbow (6 Suits)	2021-04-02 — 23:23:19 UTC	bjnh, HelanaAshryvr, Lanvin, wump	11	6	30
+488767	5	25	Rainbow (5 Suits)	2021-04-02 — 22:54:58 UTC	bjnh, IsabeltheCat, vjk, Wittvector, wump	17	5	25
+488724	4	0	Rainbow (5 Suits)	2021-04-02 — 22:18:45 UTC	bjnh, IsabeltheCat, vjk, wump	23	5	25
+488380	3	30	Rainbow & Dark Brown (6 Suits)	2021-04-02 — 17:02:51 UTC	kevincaseytdk1, Lel0uch, wump	9	6	30
+488171	3	20	Dark Prism (5 Suits)	2021-04-02 — 06:49:46 UTC	catula, Dwu123, wump	6	5	25
+488165	3	23	Dark Prism (5 Suits)	2021-04-02 — 06:21:02 UTC	catula, Dwu123, wump	8	5	25
+488053	5	0	Black (5 Suits)	2021-04-02 — 04:09:05 UTC	Bot-Fiora, griff77, kinkajusrevenge, newduke, wump	8	5	25
+488029	4	0	Null-Ones & Null (5 Suits)	2021-04-02 — 03:41:04 UTC	Bot-Fiora, griff77, ksfortson, wump	3	5	25
+487997	4	20	Null-Fives & Black (5 Suits)	2021-04-02 — 03:06:20 UTC	Bot-Fiora, griff77, ksfortson, wump	1	5	25
+487968	3	20	Null-Fives & Black (5 Suits)	2021-04-02 — 02:33:21 UTC	Bot-Fiora, griff77, wump	2	5	25
+487853	3	24	No Variant	2021-04-01 — 23:14:28 UTC	bjnh, ReaverSe, wump	49	5	25
+487438	3	20	Throw It in a Hole (4 Suits)	2021-04-01 — 16:51:00 UTC	Fey, rz, wump	6	4	20
+487429	3	30	Gray Pink (6 Suits)	2021-04-01 — 16:32:12 UTC	Fey, jeff10, wump	15	6	30
+487413	3	28	Gray Pink (6 Suits)	2021-04-01 — 16:11:46 UTC	Fey, jeff10, wump	21	6	30
+487399	3	0	Gray Pink (6 Suits)	2021-04-01 — 15:53:35 UTC	Fey, jeff10, wump	24	6	30
+487042	4	0	Rainbow & Gray (5 Suits)	2021-04-01 — 02:48:13 UTC	griff77, ksfortson, rz, wump	7	5	25
+487029	4	0	Rainbow & Gray (5 Suits)	2021-04-01 — 02:38:13 UTC	griff77, ksfortson, rz, wump	9	5	25
+486992	4	20	Dark Prism (5 Suits)	2021-04-01 — 02:13:23 UTC	Arcee, griff77, rz, wump	8	5	25
+486935	4	23	Dark Prism (5 Suits)	2021-04-01 — 01:40:53 UTC	Arcee, griff77, rz, wump	9	5	25
+486918	4	22	Dark Prism (5 Suits)	2021-04-01 — 01:12:10 UTC	Arcee, griff77, rz, wump	8	5	25
+486897	4	0	Muddy Rainbow (5 Suits)	2021-04-01 — 00:32:50 UTC	Arcee, griff77, nwajfromoz, wump	18	5	25
+486459	4	0	Up or Down & Omni (5 Suits)	2021-03-31 — 16:57:11 UTC	duckless, melwen, rz, wump	8	5	25
+486292	2	30	White (6 Suits)	2021-03-31 — 06:52:49 UTC	ksfortson, wump	184	6	30
+486271	3	24	Brown & Null (5 Suits)	2021-03-31 — 05:49:45 UTC	ADrone, griff77, wump	4	5	25
+486088	3	22	Rainbow (5 Suits)	2021-03-31 — 02:32:23 UTC	NumerateClutter, PotatoLatte, wump	50	5	25
+485968	4	25	Rainbow & Pink (5 Suits)	2021-03-31 — 01:13:56 UTC	Doge, Krepps57, voss, wump	14	5	25
+485535	6	0	Special Mix (6 Suits)	2021-03-30 — 16:32:49 UTC	asaelr, ChristopheAF, indego, Onen, rz, wump	4	6	30
+485525	4	0	Clue Starved & Omni (6 Suits)	2021-03-30 — 16:11:21 UTC	indego, Kyle, Onen, wump	2	6	30
+484941	5	29	White & Prism (6 Suits)	2021-03-30 — 00:01:36 UTC	Lanvin, melwen, Nitrate, orucsoraihc, wump	4	6	30
+484884	3	0	Black & Omni (6 Suits)	2021-03-29 — 23:29:33 UTC	Lanvin, orucsoraihc, wump	5	6	30
+484467	4	25	Pink & White (5 Suits)	2021-03-29 — 17:04:58 UTC	ADrone, Pablo-, ricardodd, wump	11	5	25
+484261	4	30	White & Brown (6 Suits)	2021-03-29 — 06:57:26 UTC	cockdestroyer, jack67889, MarcLovesDogs, wump	9	6	30
+484259	4	29	White & Brown (6 Suits)	2021-03-29 — 06:27:18 UTC	cockdestroyer, jack67889, MarcLovesDogs, wump	20	6	30
+484252	3	20	Dual-Color & Rainbow (4 Suits)	2021-03-29 — 05:58:23 UTC	corys, wump, xor	12	4	20
+484235	3	24	Pink & Brown (5 Suits)	2021-03-29 — 05:28:18 UTC	corys, wump, xor	20	5	25
+484142	5	30	White & Dark Omni (6 Suits)	2021-03-29 — 03:15:35 UTC	derekcheah, dobi, HelanaAshryvr, melwen, wump	1	6	30
+483876	3	27	Brown & Dark Prism (6 Suits)	2021-03-28 — 21:56:23 UTC	indego, Lanvin, wump	2	6	30
+483738	3	21	Clue Starved & Pink (5 Suits)	2021-03-28 — 20:21:37 UTC	cockdestroyer, jack67889, wump	6	5	25
+483678	3	29	Muddy Rainbow (6 Suits)	2021-03-28 — 19:52:44 UTC	Bonja97, cockdestroyer, wump	25	6	30
+483637	5	23	Black & Brown (5 Suits)	2021-03-28 — 19:22:46 UTC	Bonja97, indego, MarkusKahlsen, timotree, wump	5	5	25
+483460	3	18	Rainbow-Fives & Rainbow (4 Suits)	2021-03-28 — 16:03:22 UTC	kinkajusrevenge, possum, wump	2	4	20
+483423	4	23	Black & Dark Omni (6 Suits)	2021-03-28 — 14:51:44 UTC	DarthGandalf, Denchulitas, MangoPie, wump	3	6	30
+483411	4	0	Black & Dark Omni (6 Suits)	2021-03-28 — 14:28:37 UTC	DarthGandalf, Denchulitas, MangoPie, wump	3	6	30
+483235	6	23	Prism (5 Suits)	2021-03-28 — 07:08:59 UTC	Bot-Fiora, ksfortson, louietyj, newduke, qqqq, wump	4	5	25
+482459	2	29	Dual-Color Mix	2021-03-27 — 19:15:40 UTC	newduke, wump	43	6	30
+482450	2	0	Dual-Color Mix	2021-03-27 — 19:04:05 UTC	newduke, wump	43	6	30
+482440	4	0	Dark Prism (5 Suits)	2021-03-27 — 18:51:54 UTC	Lanvin, newduke, VerySloppyTwo, wump	4	5	25
+482417	4	0	Rainbow-Ones & Omni (5 Suits)	2021-03-27 — 18:23:17 UTC	fowill, newduke, timotree, wump	1	5	25
+481998	3	0	Brown (6 Suits)	2021-03-27 — 03:47:08 UTC	Jake_Stiles, rz, wump	11	6	30
+481915	3	30	Brown (6 Suits)	2021-03-27 — 02:55:30 UTC	Jake_Stiles, rz, wump	11	6	30
+481847	3	30	Brown (6 Suits)	2021-03-27 — 01:57:11 UTC	Jake_Stiles, rz, wump	2	6	30
+481817	3	0	Brown (6 Suits)	2021-03-27 — 01:25:18 UTC	Jake_Stiles, rz, wump	2	6	30
+481673	4	25	Dark Omni (5 Suits)	2021-03-26 — 23:12:08 UTC	ChristopheAF, dobi, MangoPie, wump	4	5	25
+481059	5	24	Null-Ones (5 Suits)	2021-03-26 — 07:08:52 UTC	bjnh, Bot-Fiora, ksfortson, louietyj, wump	3	5	25
+481054	5	0	Null-Ones (5 Suits)	2021-03-26 — 06:38:06 UTC	bjnh, Bot-Fiora, ksfortson, louietyj, wump	3	5	25
+481046	5	26	Dark Brown (6 Suits)	2021-03-26 — 06:16:38 UTC	bjnh, Bot-Fiora, IsabeltheCat, ksfortson, wump	10	6	30
+481028	4	0	Dark Rainbow (6 Suits)	2021-03-26 — 05:40:19 UTC	Bot-Fiora, IsabeltheCat, ksfortson, wump	25	6	30
+481005	3	0	Dark Brown (6 Suits)	2021-03-26 — 05:12:42 UTC	IsabeltheCat, ksfortson, wump	28	6	30
+480967	3	0	Dark Brown (6 Suits)	2021-03-26 — 04:47:13 UTC	IsabeltheCat, ksfortson, wump	32	6	30
+480933	3	25	No Variant	2021-03-26 — 04:27:36 UTC	LookAway, Onen, wump	48	5	25
+480916	3	23	No Variant	2021-03-26 — 04:08:52 UTC	LookAway, Onen, wump	57	5	25
+480876	5	19	Dark Pink (5 Suits)	2021-03-26 — 03:31:31 UTC	FerKeth, HelanaAshryvr, newduke, squirrel1988, wump	7	5	25
+480847	5	0	Dark Pink (5 Suits)	2021-03-26 — 03:06:45 UTC	FerKeth, HelanaAshryvr, newduke, squirrel1988, wump	7	5	25
+480823	4	23	Dark Rainbow (5 Suits)	2021-03-26 — 02:45:28 UTC	bjnh, HelanaAshryvr, nwajfromoz, wump	14	5	25
+480796	2	25	Rainbow (5 Suits)	2021-03-26 — 02:16:01 UTC	nwajfromoz, wump	129	5	25
+480510	4	0	No Variant	2021-03-25 — 21:34:55 UTC	eljavi, Onen, voss, wump	39	5	25
+480225	5	25	White & Light Pink (5 Suits)	2021-03-25 — 17:24:59 UTC	ADrone, bjnh, ChristopheAF, Lel0uch, wump	3	5	25
+479812	3	30	Brown (6 Suits)	2021-03-25 — 02:19:50 UTC	Jake_Stiles, rz, wump	11	6	30
+479710	3	0	Brown (6 Suits)	2021-03-25 — 00:53:13 UTC	Jake_Stiles, rz, wump	11	6	30
+479645	3	30	Brown (6 Suits)	2021-03-24 — 23:58:07 UTC	Jake_Stiles, rz, wump	2	6	30
+479597	3	30	Brown (6 Suits)	2021-03-24 — 22:54:26 UTC	Jake_Stiles, rz, wump	2	6	30
+478916	5	30	Rainbow (6 Suits)	2021-03-24 — 07:24:44 UTC	cockdestroyer, duckmedic, methmatics, possum, wump	39	6	30
+478910	4	29	Rainbow (6 Suits)	2021-03-24 — 06:45:13 UTC	cockdestroyer, methmatics, possum, wump	12	6	30
+478892	6	30	Rainbow & White (6 Suits)	2021-03-24 — 05:57:04 UTC	cockdestroyer, IsabeltheCat, kinkajusrevenge, pianoblook, possum, wump	4	6	30
+478550	3	0	White-Ones & Cocoa Rainbow (6 Suits)	2021-03-24 — 01:28:02 UTC	Lanvin, qqqq, wump	1	6	30
+478500	3	0	Dark Rainbow (5 Suits)	2021-03-24 — 01:00:56 UTC	ksfortson, qqqq, wump	48	5	25
+478479	3	25	White-Ones & Dark Prism (5 Suits)	2021-03-24 — 00:31:08 UTC	Doge, ksfortson, wump	1	5	25
+478450	3	0	Brown (6 Suits)	2021-03-23 — 23:48:32 UTC	Jake_Stiles, rz, wump	2	6	30
+478431	3	0	Brown (6 Suits)	2021-03-23 — 23:19:34 UTC	Jake_Stiles, rz, wump	2	6	30
+478383	3	29	Brown (6 Suits)	2021-03-23 — 22:27:24 UTC	Jake_Stiles, rz, wump	2	6	30
+478343	3	0	Brown (6 Suits)	2021-03-23 — 21:48:44 UTC	Jake_Stiles, rz, wump	2	6	30
+478066	2	25	Dark Brown (5 Suits)	2021-03-23 — 17:00:35 UTC	Kyle, wump	12	5	25
+478058	2	0	Dark Brown (5 Suits)	2021-03-23 — 16:52:27 UTC	Kyle, wump	13	5	25
+477831	3	21	White-Ones & Dark Prism (5 Suits)	2021-03-23 — 06:40:42 UTC	bjnh, ksfortson, wump	1	5	25
+477817	3	22	White-Ones & Dark Prism (5 Suits)	2021-03-23 — 06:07:21 UTC	bjnh, ksfortson, wump	2	5	25
+477807	5	16	Dual-Color & Rainbow (4 Suits)	2021-03-23 — 05:37:56 UTC	bjnh, corys, possum, wump, xor	3	4	20
+477780	5	0	Brown & Gray Pink (6 Suits)	2021-03-23 — 05:04:27 UTC	indego, Lel0uch, newduke, possum, wump	2	6	30
+477747	3	0	Rainbow (6 Suits)	2021-03-23 — 04:40:17 UTC	Lel0uch, possum, wump	36	6	30
+477602	3	0	Brown (6 Suits)	2021-03-23 — 02:59:16 UTC	Jake_Stiles, rz, wump	3	6	30
+477551	3	29	Brown (6 Suits)	2021-03-23 — 02:16:11 UTC	Jake_Stiles, rz, wump	3	6	30
+477393	4	0	Rainbow (6 Suits)	2021-03-22 — 23:49:31 UTC	Aluap, Arcee, DarthGandalf, wump	11	6	30
+477357	3	30	Brown (6 Suits)	2021-03-22 — 23:16:02 UTC	Jake_Stiles, rz, wump	3	6	30
+477335	3	0	Brown (6 Suits)	2021-03-22 — 22:51:45 UTC	Jake_Stiles, rz, wump	3	6	30
+476747	4	23	White-Ones & Dark Prism (5 Suits)	2021-03-22 — 07:51:11 UTC	ksfortson, louietyj, possum, wump	1	5	25
+476744	4	21	White-Ones & Dark Prism (5 Suits)	2021-03-22 — 07:16:27 UTC	ksfortson, louietyj, possum, wump	1	5	25
+476738	4	19	Pink (4 Suits)	2021-03-22 — 06:39:33 UTC	ksfortson, MarcLovesDogs, possum, wump	5	4	20
+476733	4	0	Pink (4 Suits)	2021-03-22 — 06:14:36 UTC	ksfortson, MarcLovesDogs, possum, wump	19	4	20
+476728	3	0	Rainbow & Pink (6 Suits)	2021-03-22 — 05:54:28 UTC	ksfortson, possum, wump	39	6	30
+476715	3	29	White & Brown (6 Suits)	2021-03-22 — 05:18:01 UTC	IsabeltheCat, ksfortson, wump	5	6	30
+476694	3	0	White & Brown (6 Suits)	2021-03-22 — 04:54:37 UTC	IsabeltheCat, ksfortson, wump	6	6	30
+476686	3	0	White & Brown (6 Suits)	2021-03-22 — 04:45:03 UTC	IsabeltheCat, ksfortson, wump	10	6	30
+476677	5	0	White & Brown (6 Suits)	2021-03-22 — 04:35:20 UTC	IsabeltheCat, ksfortson, nwajfromoz, qqqq, wump	4	6	30
+476662	5	29	White & Brown (6 Suits)	2021-03-22 — 04:18:23 UTC	IsabeltheCat, ksfortson, nwajfromoz, qqqq, wump	7	6	30
+476641	5	24	Pink (5 Suits)	2021-03-22 — 03:41:24 UTC	IsabeltheCat, ksfortson, MarcLovesDogs, qqqq, wump	10	5	25
+476597	3	23	Black (5 Suits)	2021-03-22 — 03:09:44 UTC	IsabeltheCat, timotree, wump	36	5	25
+476593	3	0	Pink (6 Suits)	2021-03-22 — 02:57:40 UTC	IsabeltheCat, timotree, wump	47	6	30
+476176	3	0	Brown (6 Suits)	2021-03-21 — 20:12:00 UTC	Jake_Stiles, rz, wump	3	6	30
+476114	3	0	Brown (6 Suits)	2021-03-21 — 19:36:34 UTC	Jake_Stiles, rz, wump	3	6	30
+476068	3	30	Brown (6 Suits)	2021-03-21 — 19:15:39 UTC	Jake_Stiles, rz, wump	3	6	30
+475973	4	0	Dark Brown (6 Suits)	2021-03-21 — 18:14:38 UTC	Onen, rz, swineherd, wump	15	6	30
+475961	4	0	Dark Brown (6 Suits)	2021-03-21 — 17:59:29 UTC	Onen, rz, swineherd, wump	15	6	30
+475955	4	30	Dark Pink (6 Suits)	2021-03-21 — 17:46:26 UTC	Onen, rz, swineherd, wump	29	6	30
+475941	3	0	Dark Pink (6 Suits)	2021-03-21 — 17:25:24 UTC	ChristopheAF, Onen, wump	9	6	30
+475935	3	0	Dark Pink (6 Suits)	2021-03-21 — 17:18:00 UTC	ChristopheAF, Onen, wump	10	6	30
+475906	3	22	No Variant	2021-03-21 — 16:30:39 UTC	dancherp, dobi, wump	50	5	25
+475865	2	0	Black & Dark Omni (6 Suits)	2021-03-21 — 15:21:23 UTC	Onen, wump	10	6	30
+475856	2	0	Black & Dark Omni (6 Suits)	2021-03-21 — 15:08:21 UTC	Onen, wump	10	6	30
+475843	2	25	Gray (5 Suits)	2021-03-21 — 14:55:19 UTC	Onen, wump	34	5	25
+475625	5	29	Black (6 Suits)	2021-03-21 — 05:51:41 UTC	IsabeltheCat, nwajfromoz, possum, qqqq, wump	12	6	30
+475599	2	30	Dark Pink (6 Suits)	2021-03-21 — 05:20:10 UTC	IsabeltheCat, wump	10	6	30
+475589	2	0	Dark Pink (6 Suits)	2021-03-21 — 05:08:22 UTC	IsabeltheCat, wump	11	6	30
+475583	2	0	Dark Pink (6 Suits)	2021-03-21 — 05:03:54 UTC	IsabeltheCat, wump	12	6	30
+475577	2	0	Dark Pink (6 Suits)	2021-03-21 — 04:58:26 UTC	IsabeltheCat, wump	13	6	30
+475562	3	0	Dark Pink (6 Suits)	2021-03-21 — 04:47:31 UTC	IsabeltheCat, Onen, wump	15	6	30
+475525	3	28	Dark Pink (6 Suits)	2021-03-21 — 04:25:18 UTC	IsabeltheCat, Onen, wump	16	6	30
+475472	3	30	Brown (6 Suits)	2021-03-21 — 03:48:22 UTC	Jake_Stiles, rz, wump	4	6	30
+475430	3	30	Brown (6 Suits)	2021-03-21 — 03:23:51 UTC	Jake_Stiles, rz, wump	4	6	30
+475406	3	0	Brown (6 Suits)	2021-03-21 — 03:02:54 UTC	Jake_Stiles, rz, wump	4	6	30
+475390	3	0	Brown (6 Suits)	2021-03-21 — 02:47:57 UTC	Jake_Stiles, rz, wump	4	6	30
+475290	3	30	Brown (6 Suits)	2021-03-21 — 01:15:39 UTC	Jake_Stiles, rz, wump	4	6	30
+475158	2	25	Special Mix (5 Suits)	2021-03-20 — 22:46:25 UTC	rz, wump	47	5	25
+475141	2	0	Special Mix (5 Suits)	2021-03-20 — 22:31:54 UTC	rz, wump	88	5	25
+475047	4	20	Muddy Rainbow (4 Suits)	2021-03-20 — 21:10:43 UTC	Arcee, griff77, rz, wump	2	4	20
+475009	4	0	Muddy Rainbow (4 Suits)	2021-03-20 — 20:38:43 UTC	Arcee, griff77, rz, wump	3	4	20
+474983	3	20	White (4 Suits)	2021-03-20 — 20:09:58 UTC	Arcee, griff77, wump	18	4	20
+474952	5	25	Rainbow-Ones & Pink (5 Suits)	2021-03-20 — 19:40:44 UTC	asaelr, griff77, kopen, Wittvector, wump	1	5	25
+474914	4	0	Up or Down & Rainbow (6 Suits)	2021-03-20 — 18:45:36 UTC	Fey, jack67889, Lanvin, wump	6	6	30
+474903	4	0	Up or Down & Rainbow (6 Suits)	2021-03-20 — 18:27:46 UTC	Fey, jack67889, Lanvin, wump	6	6	30
+474896	4	0	Up or Down & Rainbow (6 Suits)	2021-03-20 — 18:15:56 UTC	Fey, jack67889, Lanvin, wump	7	6	30
+474894	4	0	Up or Down & Rainbow (6 Suits)	2021-03-20 — 18:12:52 UTC	Fey, jack67889, Lanvin, wump	11	6	30
+474887	4	0	Up or Down & Rainbow (6 Suits)	2021-03-20 — 18:00:16 UTC	Fey, jack67889, Lanvin, wump	15	6	30
+474871	4	27	Up or Down & Rainbow (6 Suits)	2021-03-20 — 17:40:31 UTC	Fey, jack67889, Lanvin, wump	20	6	30
+474725	5	23	Rainbow (5 Suits)	2021-03-20 — 11:22:26 UTC	Animex52, catula, jack67889, Lel0uch, wump	11	5	25
+474383	3	30	Brown (6 Suits)	2021-03-20 — 03:19:28 UTC	Jake_Stiles, rz, wump	4	6	30
+474330	3	0	Brown (6 Suits)	2021-03-20 — 02:41:30 UTC	Jake_Stiles, rz, wump	6	6	30
+474304	3	30	Brown (6 Suits)	2021-03-20 — 02:15:21 UTC	Jake_Stiles, rz, wump	6	6	30
+474242	3	0	Brown (6 Suits)	2021-03-20 — 01:25:37 UTC	Jake_Stiles, rz, wump	6	6	30
+473626	3	25	Special Mix (5 Suits)	2021-03-19 — 16:38:02 UTC	rz, Wittvector, wump	17	5	25
+473423	3	0	Cocoa Rainbow (5 Suits)	2021-03-19 — 06:20:51 UTC	cockdestroyer, possum, wump	29	5	25
+472962	5	0	Special Mix (5 Suits)	2021-03-18 — 23:43:05 UTC	ChristopheAF, colton, indego, rz, wump	2	5	25
+472946	4	0	Special Mix (5 Suits)	2021-03-18 — 23:25:20 UTC	ChristopheAF, colton, rz, wump	5	5	25
+472941	4	0	Special Mix (5 Suits)	2021-03-18 — 23:21:00 UTC	ChristopheAF, indego, rz, wump	4	5	25
+472927	4	0	Special Mix (5 Suits)	2021-03-18 — 23:05:19 UTC	ChristopheAF, indego, rz, wump	4	5	25
+472914	3	0	Clue Starved & Muddy Rainbow (6 Suits)	2021-03-18 — 22:49:33 UTC	bjnh, rz, wump	2	6	30
+472872	5	23	White-Ones & Black (5 Suits)	2021-03-18 — 22:25:31 UTC	jack67889, Kyle, Lanvin, rz, wump	1	5	25
+472434	2	22	Rainbow (5 Suits)	2021-03-18 — 17:07:50 UTC	bjnh, wump	154	5	25
+472432	2	0	Rainbow (5 Suits)	2021-03-18 — 16:57:59 UTC	bjnh, wump	248	5	25
+472281	4	0	White & Prism (6 Suits)	2021-03-18 — 07:02:27 UTC	kevincaseytdk1, ksfortson, possum, wump	10	6	30
+472268	4	0	Dark Pink (5 Suits)	2021-03-18 — 06:19:17 UTC	bjnh, indego, possum, wump	15	5	25
+472256	3	23	Black & Rainbow (5 Suits)	2021-03-18 — 05:40:17 UTC	bjnh, indego, wump	33	5	25
+472190	3	25	No Variant	2021-03-18 — 04:00:09 UTC	ksfortson, mestrepoke, wump	49	5	25
+472165	3	25	No Variant	2021-03-18 — 03:34:22 UTC	ksfortson, mestrepoke, wump	49	5	25
+472086	3	29	Brown (6 Suits)	2021-03-18 — 02:51:53 UTC	Jake_Stiles, rz, wump	6	6	30
+472048	3	0	Brown (6 Suits)	2021-03-18 — 02:10:33 UTC	Jake_Stiles, rz, wump	6	6	30
+472018	3	0	Brown (6 Suits)	2021-03-18 — 01:28:49 UTC	Jake_Stiles, rz, wump	7	6	30
+472003	3	0	Brown (6 Suits)	2021-03-18 — 01:11:01 UTC	Jake_Stiles, rz, wump	9	6	30
+471974	4	27	Black & Pink (6 Suits)	2021-03-18 — 00:29:23 UTC	bjnh, Lanvin, squirrel1988, wump	13	6	30
+471958	4	0	3 Suits	2021-03-18 — 00:11:58 UTC	Lanvin, squirrel1988, wolfpack, wump	24	3	15
+471941	4	15	Pink (3 Suits)	2021-03-17 — 23:55:44 UTC	dobi, Lanvin, rahsosprout, wump	13	3	15
+471882	3	0	Black & Brown (5 Suits)	2021-03-17 — 22:53:53 UTC	ChristopheAF, knaphill, wump	9	5	25
+471860	3	0	Black & Brown (5 Suits)	2021-03-17 — 22:37:40 UTC	ChristopheAF, knaphill, wump	10	5	25
+471843	3	23	Black & Brown (5 Suits)	2021-03-17 — 22:26:30 UTC	ChristopheAF, knaphill, wump	11	5	25
+471378	3	0	White (6 Suits)	2021-03-17 — 16:59:41 UTC	Fey, fowill, wump	19	6	30
+471364	3	24	White (6 Suits)	2021-03-17 — 16:31:32 UTC	Fey, fowill, wump	20	6	30
+471069	3	0	Dark Brown (6 Suits)	2021-03-17 — 05:09:27 UTC	cockdestroyer, wump, XMIL	20	6	30
+471009	3	0	Null (5 Suits)	2021-03-17 — 04:51:05 UTC	cockdestroyer, wump, XMIL	54	5	25
+470812	4	29	Pink & Gray Pink (6 Suits)	2021-03-17 — 02:22:19 UTC	melwen, rz, scharkbite, wump	3	6	30
+470790	5	21	Omni-Ones & Dark Null (5 Suits)	2021-03-17 — 01:47:10 UTC	melwen, newduke, rz, scharkbite, wump	1	5	25
+470731	4	0	Omni-Ones & Dark Null (5 Suits)	2021-03-17 — 01:14:31 UTC	newduke, rz, scharkbite, wump	1	5	25
+470648	3	30	Brown (6 Suits)	2021-03-17 — 00:00:35 UTC	Jake_Stiles, rz, wump	9	6	30
+470622	3	30	Brown (6 Suits)	2021-03-16 — 23:28:41 UTC	Jake_Stiles, rz, wump	12	6	30
+470595	3	30	Brown (6 Suits)	2021-03-16 — 22:54:59 UTC	Jake_Stiles, rz, wump	11	6	30
+470564	3	27	Brown (6 Suits)	2021-03-16 — 22:22:20 UTC	Jake_Stiles, rz, wump	17	6	30
+470514	4	20	Pink & White (4 Suits)	2021-03-16 — 21:55:07 UTC	colton, indego, Lanvin, wump	9	4	20
+470481	3	0	Null-Ones & Dark Brown (6 Suits)	2021-03-16 — 21:40:09 UTC	colton, Lanvin, wump	2	6	30
+470262	3	22	Special Mix (5 Suits)	2021-03-16 — 18:00:27 UTC	hakha3, jack67889, wump	16	5	25
+470253	3	0	Special Mix (5 Suits)	2021-03-16 — 17:43:29 UTC	hakha3, jack67889, wump	19	5	25
+470249	3	20	Special Mix (5 Suits)	2021-03-16 — 17:38:10 UTC	hakha3, jack67889, wump	20	5	25
+470036	4	25	Brown-Ones & Prism (5 Suits)	2021-03-16 — 07:04:12 UTC	ksfortson, Lel0uch, orucsoraihc, wump	1	5	25
+469986	4	0	White (6 Suits)	2021-03-16 — 06:33:30 UTC	ksfortson, Lel0uch, MarcLovesDogs, wump	20	6	30
+469933	4	0	Brown & Dark Rainbow (6 Suits)	2021-03-16 — 05:56:33 UTC	Bot-Fiora, griff77, ksfortson, wump	5	6	30
+469796	3	24	Dark Rainbow (5 Suits)	2021-03-16 — 03:43:42 UTC	aquarelle, indego, wump	35	5	25
+469627	3	27	Brown (6 Suits)	2021-03-16 — 00:14:39 UTC	Jake_Stiles, rz, wump	21	6	30
+469486	3	28	Brown (6 Suits)	2021-03-15 — 22:57:55 UTC	Jake_Stiles, rz, wump	22	6	30
+469462	3	0	Brown (6 Suits)	2021-03-15 — 22:35:43 UTC	Jake_Stiles, rz, wump	25	6	30
+469450	3	29	Brown (6 Suits)	2021-03-15 — 22:22:42 UTC	Jake_Stiles, rz, wump	26	6	30
+469421	3	0	Brown (6 Suits)	2021-03-15 — 21:53:17 UTC	Jake_Stiles, rz, wump	40	6	30
+469095	3	25	Pink-Ones & Pink (5 Suits)	2021-03-15 — 16:58:32 UTC	Fey, rz, wump	3	5	25
+469074	3	24	Pink-Ones & Pink (5 Suits)	2021-03-15 — 16:31:00 UTC	Fey, rz, wump	3	5	25
+468461	4	29	Dark Prism (6 Suits)	2021-03-14 — 22:34:51 UTC	Bot-Fiora, griff77, IsabeltheCat, wump	14	6	30
+468411	4	0	Dark Prism (6 Suits)	2021-03-14 — 22:01:59 UTC	Bot-Fiora, griff77, IsabeltheCat, wump	14	6	30
+468377	4	0	Dark Prism (6 Suits)	2021-03-14 — 21:37:52 UTC	CaitlinSmith, griff77, IsabeltheCat, wump	20	6	30
+468340	5	27	Dark Prism (6 Suits)	2021-03-14 — 21:11:04 UTC	griff77, IsabeltheCat, knaphill, MarcLovesDogs, wump	9	6	30
+468287	4	0	Pink (5 Suits)	2021-03-14 — 20:21:54 UTC	Arcee, Denchulitas, rz, wump	51	5	25
+468075	5	0	Special Mix (5 Suits)	2021-03-14 — 17:20:45 UTC	Lanvin, newduke, voss, Wittvector, wump	6	5	25
+468069	4	0	Special Mix (5 Suits)	2021-03-14 — 17:13:50 UTC	Lanvin, voss, Wittvector, wump	6	5	25
+468065	4	0	Dark Omni (6 Suits)	2021-03-14 — 17:07:25 UTC	knaphill, newduke, orucsoraihc, wump	16	6	30
+468059	4	0	Dark Omni (6 Suits)	2021-03-14 — 16:58:56 UTC	knaphill, newduke, orucsoraihc, wump	17	6	30
+468040	4	0	Rainbow & Omni (6 Suits)	2021-03-14 — 16:37:12 UTC	Lel0uch, sin_faith, TimeHoodie, wump	5	6	30
+468028	4	0	Rainbow & Omni (6 Suits)	2021-03-14 — 16:20:29 UTC	Lel0uch, sin_faith, TimeHoodie, wump	5	6	30
+468009	4	29	Rainbow & Omni (6 Suits)	2021-03-14 — 16:02:46 UTC	Lel0uch, sin_faith, TimeHoodie, wump	6	6	30
+467999	5	0	Omni & Muddy Rainbow (6 Suits)	2021-03-14 — 15:35:21 UTC	indego, Lel0uch, Nitrate2, TimeHoodie, wump	1	6	30
+467992	4	0	Omni & Muddy Rainbow (6 Suits)	2021-03-14 — 15:17:14 UTC	indego, Nitrate2, TimeHoodie, wump	1	6	30
+467790	4	21	Black & Rainbow (5 Suits)	2021-03-14 — 05:41:18 UTC	IsabeltheCat, ksfortson, voss, wump	9	5	25
+467761	4	0	Black & Rainbow (5 Suits)	2021-03-14 — 05:10:06 UTC	IsabeltheCat, ksfortson, voss, wump	9	5	25
+467739	4	23	Black & Rainbow (5 Suits)	2021-03-14 — 04:51:33 UTC	IsabeltheCat, ksfortson, voss, wump	17	5	25
+467716	2	29	Ambiguous (6 Suits)	2021-03-14 — 04:27:26 UTC	ksfortson, wump	105	6	30
+467674	4	0	Omni (3 Suits)	2021-03-14 — 04:02:39 UTC	kinkajusrevenge, ksfortson, lolthisnotderk, wump	11	3	15
+467602	3	0	Rainbow & Pink (5 Suits)	2021-03-14 — 03:39:18 UTC	kinkajusrevenge, lolthisnotderk, wump	19	5	25
+467006	4	25	No Variant	2021-03-13 — 21:22:39 UTC	Arcee, Damian000, HariKrishnan, wump	39	5	25
+466961	4	25	No Variant	2021-03-13 — 20:39:00 UTC	Arcee, Damian000, HariKrishnan, wump	42	5	25
+466930	4	24	No Variant	2021-03-13 — 20:05:31 UTC	Arcee, Damian000, HariKrishnan, wump	43	5	25
+466906	4	0	Light-Pink-Fives (6 Suits)	2021-03-13 — 19:32:52 UTC	Bonja97, cockdestroyer, TimeHoodie, wump	1	6	30
+466900	4	0	Light-Pink-Fives (6 Suits)	2021-03-13 — 19:20:40 UTC	Bonja97, cockdestroyer, TimeHoodie, wump	1	6	30
+466895	4	0	Light-Pink-Fives (6 Suits)	2021-03-13 — 19:11:28 UTC	Bonja97, cockdestroyer, TimeHoodie, wump	2	6	30
+466878	4	29	Light-Pink-Fives (6 Suits)	2021-03-13 — 18:48:55 UTC	Bonja97, cockdestroyer, TimeHoodie, wump	2	6	30
+466860	4	0	Light-Pink-Fives (6 Suits)	2021-03-13 — 18:23:29 UTC	Bonja97, cockdestroyer, TimeHoodie, wump	2	6	30
+466769	3	24	Muddy-Rainbow-Fives & Prism (5 Suits)	2021-03-13 — 16:46:54 UTC	griff77, MangoPie, wump	1	5	25
+466745	3	24	Muddy-Rainbow-Fives & Prism (5 Suits)	2021-03-13 — 16:09:09 UTC	griff77, MangoPie, wump	1	5	25
+466729	3	0	Muddy-Rainbow-Fives & Prism (5 Suits)	2021-03-13 — 15:31:13 UTC	griff77, MangoPie, wump	1	5	25
+466297	3	25	Muddy Rainbow & Dark Rainbow (5 Suits)	2021-03-13 — 02:37:29 UTC	qqqq, rz, wump	2	5	25
+466250	4	30	Rainbow & Dark Pink (6 Suits)	2021-03-13 — 02:03:39 UTC	dobi, qqqq, rz, wump	4	6	30
+466209	4	0	Rainbow & Dark Pink (6 Suits)	2021-03-13 — 01:41:40 UTC	dobi, qqqq, rz, wump	8	6	30
+466171	4	25	No Variant	2021-03-13 — 01:08:08 UTC	Aluap, antitelharsic, indego, wump	41	5	25
+466019	3	0	Prism & Dark Rainbow (5 Suits)	2021-03-12 — 22:34:08 UTC	nitawa, Pablo-, wump	10	5	25
+465294	4	0	Rainbow & Pink (6 Suits)	2021-03-12 — 03:55:46 UTC	griff77, possum, rz, wump	7	6	30
+465240	4	29	Rainbow & Pink (6 Suits)	2021-03-12 — 03:20:50 UTC	griff77, possum, rz, wump	12	6	30
+465229	4	0	Rainbow & Pink (6 Suits)	2021-03-12 — 02:55:37 UTC	griff77, possum, rz, wump	16	6	30
+465117	5	0	Muddy-Rainbow-Fives & Cocoa Rainbow (6 Suits)	2021-03-12 — 00:44:42 UTC	HelanaAshryvr, Lanvin, MangoPie, rz, wump	1	6	30
+464408	4	23	Prism & Cocoa Rainbow (5 Suits)	2021-03-11 — 05:41:10 UTC	bjnh, dobi, newduke, wump	1	5	25
+464375	4	18	Light-Pink-Fives & Omni (4 Suits)	2021-03-11 — 05:11:56 UTC	bjnh, dobi, newduke, wump	1	4	20
+463574	3	25	Rainbow-Ones (5 Suits)	2021-03-10 — 14:56:42 UTC	eljavi, skyblueexo, wump	3	5	25
+463359	4	23	Black & Rainbow (5 Suits)	2021-03-10 — 05:58:01 UTC	antitelharsic, cockdestroyer, wump, XMIL	12	5	25
+463333	4	0	Black & Rainbow (5 Suits)	2021-03-10 — 05:29:14 UTC	antitelharsic, cockdestroyer, wump, XMIL	32	5	25
+463322	3	0	Omni (6 Suits)	2021-03-10 — 05:16:47 UTC	cockdestroyer, wump, XMIL	51	6	30
+463281	3	20	Rainbow & Brown (5 Suits)	2021-03-10 — 04:36:11 UTC	kinkajusrevenge, nkkarpov, wump	25	5	25
+463234	3	28	Brown (6 Suits)	2021-03-10 — 03:58:03 UTC	antitelharsic, kinkajusrevenge, wump	31	6	30
+463034	2	22	No Variant	2021-03-10 — 00:04:53 UTC	Onen, wump	458	5	25
+463030	2	0	No Variant	2021-03-09 — 23:55:39 UTC	Onen, wump	534	5	25
+463026	2	0	No Variant	2021-03-09 — 23:49:44 UTC	Onen, wump	549	5	25
+462461	3	25	Cocoa Rainbow (5 Suits)	2021-03-09 — 16:59:01 UTC	jack67889, Sucubis, wump	6	5	25
+462450	3	0	Cocoa Rainbow (5 Suits)	2021-03-09 — 16:44:43 UTC	jack67889, Sucubis, wump	6	5	25
+462414	5	28	Dark Brown (6 Suits)	2021-03-09 — 15:43:12 UTC	indego, MarkusKahlsen, rachyrules, rz, wump	8	6	30
+462398	4	0	Dark Brown (6 Suits)	2021-03-09 — 15:06:39 UTC	indego, MarkusKahlsen, rachyrules, wump	9	6	30
+461919	4	24	No Variant	2021-03-09 — 00:19:18 UTC	Bot-Fiora, dancherp, DarthGandalf, wump	43	5	25
+461893	4	25	No Variant	2021-03-08 — 23:51:05 UTC	Bot-Fiora, dancherp, DarthGandalf, wump	45	5	25
+461744	4	0	Gray (5 Suits)	2021-03-08 — 21:56:11 UTC	BraydonM, newduke, Nitrate, wump	22	5	25
+461704	4	0	Gray (5 Suits)	2021-03-08 — 21:32:16 UTC	BraydonM, newduke, Nitrate, wump	33	5	25
+461659	4	25	Special Mix (5 Suits)	2021-03-08 — 21:01:50 UTC	bjnh, newduke, robense, wump	18	5	25
+461112	3	25	No Variant	2021-03-08 — 04:49:47 UTC	dancherp, possum, wump	53	5	25
+461085	3	23	No Variant	2021-03-08 — 04:22:18 UTC	dancherp, possum, wump	51	5	25
+461062	4	0	No Variant	2021-03-08 — 04:06:30 UTC	dancherp, pjmingola, possum, wump	44	5	25
+460235	4	30	Up or Down (6 Suits)	2021-03-07 — 17:58:15 UTC	Fey, orucsoraihc, rz, wump	22	6	30
+460208	4	30	Pink (6 Suits)	2021-03-07 — 17:26:33 UTC	Fey, orucsoraihc, rz, wump	30	6	30
+460184	4	25	Brown (5 Suits)	2021-03-07 — 17:00:21 UTC	Fey, orucsoraihc, rz, wump	14	5	25
+460169	3	26	Black & White (6 Suits)	2021-03-07 — 16:33:02 UTC	Denchulitas, dobi, wump	19	6	30
+459864	4	24	Muddy Rainbow & Gray Pink (5 Suits)	2021-03-07 — 05:57:16 UTC	antitelharsic, indego, wump, XMIL	2	5	25
+459839	4	25	Pink (5 Suits)	2021-03-07 — 05:25:56 UTC	cockdestroyer, indego, wump, XMIL	13	5	25
+459813	3	25	No Variant	2021-03-07 — 04:46:53 UTC	cockdestroyer, wump, XMIL	23	5	25
+459489	3	0	Rainbow (6 Suits)	2021-03-07 — 00:35:10 UTC	BraydonM, flaaffy, wump	54	6	30
+459108	4	0	Rainbow-Fives & Prism (5 Suits)	2021-03-06 — 20:12:24 UTC	DarthGandalf, griff77, newduke, wump	2	5	25
+458973	5	30	Brown & Muddy Rainbow (6 Suits)	2021-03-06 — 18:18:06 UTC	indego, kopen, nkkarpov, rz, wump	2	6	30
+458951	5	0	Brown & Muddy Rainbow (6 Suits)	2021-03-06 — 17:49:16 UTC	indego, kopen, nkkarpov, rz, wump	3	6	30
+458879	4	0	White-Fives & Dark Omni (5 Suits)	2021-03-06 — 15:30:24 UTC	eliclax, Lanvin, VerySloppyTwo, wump	1	5	25
+458877	4	0	White-Fives & Dark Omni (5 Suits)	2021-03-06 — 15:16:55 UTC	eliclax, Lanvin, VerySloppyTwo, wump	2	5	25
+458869	3	24	Cocoa Rainbow (5 Suits)	2021-03-06 — 15:04:05 UTC	nitawa, Pablo-, wump	2	5	25
+458856	3	0	Cocoa Rainbow (5 Suits)	2021-03-06 — 14:49:14 UTC	nitawa, Pablo-, wump	3	5	25
+458852	3	23	Cocoa Rainbow (5 Suits)	2021-03-06 — 14:39:47 UTC	nitawa, Pablo-, wump	7	5	25
+458834	3	0	Black & White (6 Suits)	2021-03-06 — 14:09:47 UTC	Denchulitas, Lanvin, wump	18	6	30
+458825	3	0	Black & White (6 Suits)	2021-03-06 — 13:45:01 UTC	Denchulitas, Lanvin, wump	20	6	30
+458442	4	25	Brown (5 Suits)	2021-03-06 — 03:46:54 UTC	antitelharsic, spbsuitmo, wump, XMIL	4	5	25
+458390	4	23	Brown (5 Suits)	2021-03-06 — 03:05:47 UTC	antitelharsic, spbsuitmo, wump, XMIL	6	5	25
+458357	4	0	Muddy Rainbow (5 Suits)	2021-03-06 — 02:39:51 UTC	antitelharsic, spbsuitmo, wump, XMIL	4	5	25
+458356	4	0	Muddy Rainbow (5 Suits)	2021-03-06 — 02:39:28 UTC	antitelharsic, spbsuitmo, wump, XMIL	5	5	25
+458164	3	30	Dark Rainbow (6 Suits)	2021-03-05 — 23:46:15 UTC	nwajfromoz, Onen, wump	53	6	30
+457663	3	0	Special Mix (5 Suits)	2021-03-05 — 16:50:21 UTC	ChristopheAF, rz, wump	1	5	25
+457657	3	0	Special Mix (5 Suits)	2021-03-05 — 16:38:37 UTC	ChristopheAF, rz, wump	1	5	25
+457642	3	0	Special Mix (5 Suits)	2021-03-05 — 16:12:12 UTC	ChristopheAF, rz, wump	1	5	25
+457622	3	24	Special Mix (5 Suits)	2021-03-05 — 15:50:07 UTC	ChristopheAF, rz, wump	1	5	25
+457606	3	0	Special Mix (5 Suits)	2021-03-05 — 15:19:51 UTC	ChristopheAF, rz, wump	1	5	25
+457016	4	28	Rainbow (6 Suits)	2021-03-05 — 01:26:09 UTC	flaaffy, Lel0uch, wolfpack, wump	12	6	30
+456984	4	0	Rainbow (6 Suits)	2021-03-05 — 01:01:47 UTC	flaaffy, Lel0uch, wolfpack, wump	12	6	30
+456932	4	23	Rainbow-Ones & White (5 Suits)	2021-03-05 — 00:25:06 UTC	bjnh, flaaffy, newduke, wump	3	5	25
+456692	6	0	Dark Rainbow (5 Suits)	2021-03-04 — 21:06:43 UTC	colton, Lanvin, MangoPie, VerySloppyTwo, Wittvector, wump	2	5	25
+456455	3	0	Special Mix (5 Suits)	2021-03-04 — 16:14:20 UTC	ChristopheAF, robense, wump	1	5	25
+456447	3	0	Special Mix (5 Suits)	2021-03-04 — 16:00:18 UTC	ChristopheAF, robense, wump	1	5	25
+456117	4	20	Brown (4 Suits)	2021-03-04 — 05:39:09 UTC	IsabeltheCat, possum, torp, wump	13	4	20
+455334	4	30	Rainbow & Brown (6 Suits)	2021-03-03 — 16:46:35 UTC	Fey, kinkajusrevenge, Wittvector, wump	9	6	30
+455313	4	29	Dark Rainbow (6 Suits)	2021-03-03 — 16:04:40 UTC	colton, kinkajusrevenge, robense, wump	48	6	30
+455266	2	25	Pink & Brown (5 Suits)	2021-03-03 — 13:53:46 UTC	StKildaFan, wump	6	5	25
+455260	2	0	Pink & Brown (5 Suits)	2021-03-03 — 13:45:24 UTC	StKildaFan, wump	6	5	25
+455116	4	0	Rainbow & Omni (6 Suits)	2021-03-03 — 07:01:18 UTC	bjnh, ksfortson, MarcLovesDogs, wump	8	6	30
+454842	4	20	Omni (4 Suits)	2021-03-03 — 03:07:38 UTC	antitelharsic, cockdestroyer, wump, XMIL	11	4	20
+454819	4	0	Omni (4 Suits)	2021-03-03 — 02:43:56 UTC	antitelharsic, cockdestroyer, wump, XMIL	15	4	20
+454666	4	23	Black & Light Pink (5 Suits)	2021-03-02 — 23:33:39 UTC	aquarelle, Lanvin, MarkusKahlsen, wump	5	5	25
+454633	4	19	White-Ones & Brown (4 Suits)	2021-03-02 — 23:06:58 UTC	aquarelle, kimbifille, Lanvin, wump	1	4	20
+454615	2	0	Dark Prism (6 Suits)	2021-03-02 — 22:46:35 UTC	aquarelle, wump	38	6	30
+454303	5	30	Rainbow & Brown (6 Suits)	2021-03-02 — 19:00:23 UTC	IsabeltheCat, Lanvin, MangoPie, Wittvector, wump	6	6	30
+454280	3	30	Pink & White (6 Suits)	2021-03-02 — 18:26:59 UTC	bjnh, IsabeltheCat, wump	11	6	30
+454014	5	0	Black (6 Suits)	2021-03-02 — 08:14:46 UTC	ksfortson, lolthisnotderk, possum, robense, wump	23	6	30
+452327	4	23	No Variant	2021-02-28 — 21:52:53 UTC	CaitlinSmith, DarthGandalf, robense, wump	47	5	25
+452083	3	22	Black (5 Suits)	2021-02-28 — 18:51:19 UTC	CaitlinSmith, knaphill, wump	25	5	25
+452057	3	0	Black (5 Suits)	2021-02-28 — 18:23:45 UTC	CaitlinSmith, knaphill, wump	27	5	25
+452024	4	25	Black (6 Suits)	2021-02-28 — 17:52:55 UTC	griff77, narabio, rz, wump	74	6	30
+450878	3	27	Special Mix (6 Suits)	2021-02-27 — 15:55:37 UTC	Lanvin, Wittvector, wump	5	6	30
+450854	3	0	Special Mix (6 Suits)	2021-02-27 — 15:27:32 UTC	Lanvin, Wittvector, wump	8	6	30
+450845	3	30	Null (6 Suits)	2021-02-27 — 15:02:00 UTC	Lanvin, Wittvector, wump	26	6	30
+450837	3	0	Null (6 Suits)	2021-02-27 — 14:39:09 UTC	Lanvin, Wittvector, wump	36	6	30
+450487	5	0	Brown-Ones & Gray (6 Suits)	2021-02-27 — 04:07:07 UTC	HelanaAshryvr, Lanvin, poofart123, squirrel1988, wump	1	6	30
+450081	4	20	White-Fives & Pink (4 Suits)	2021-02-26 — 20:56:18 UTC	colton, Lanvin, MangoPie, wump	1	4	20
+450062	4	0	White-Fives & Pink (4 Suits)	2021-02-26 — 20:36:03 UTC	colton, Lanvin, MangoPie, wump	1	4	20
+450040	3	25	White-Ones & Dark Omni (5 Suits)	2021-02-26 — 20:08:58 UTC	Lanvin, MangoPie, wump	1	5	25
+450033	3	0	White-Ones & Dark Omni (5 Suits)	2021-02-26 — 19:53:39 UTC	Lanvin, MangoPie, wump	1	5	25
+449838	5	0	White (5 Suits)	2021-02-26 — 14:20:32 UTC	indego, TimeHoodie, Wittvector, wolfpack, wump	7	5	25
+449833	3	27	Black (6 Suits)	2021-02-26 — 14:01:21 UTC	Wittvector, wolfpack, wump	108	6	30
+449821	3	26	Black (6 Suits)	2021-02-26 — 13:26:59 UTC	Wittvector, wolfpack, wump	119	6	30
+449480	5	17	Rainbow-Ones & Rainbow (4 Suits)	2021-02-26 — 03:06:05 UTC	eljavi, griff77, ksfortson, possum, wump	1	4	20
+449449	3	17	Rainbow-Ones & Rainbow (4 Suits)	2021-02-26 — 02:32:22 UTC	eljavi, griff77, wump	3	4	20
+448505	4	25	Rainbow-Ones & Black (5 Suits)	2021-02-25 — 05:40:01 UTC	eljavi, ksfortson, possum, wump	2	5	25
+448479	4	0	Rainbow-Ones & Black (5 Suits)	2021-02-25 — 05:07:55 UTC	eljavi, ksfortson, possum, wump	2	5	25
+448461	4	21	Rainbow-Ones & Black (5 Suits)	2021-02-25 — 04:44:17 UTC	eljavi, ksfortson, possum, wump	3	5	25
+445632	3	0	Special Mix (5 Suits)	2021-02-22 — 17:08:43 UTC	ChristopheAF, VerySloppyTwo, wump	8	5	25
+445617	3	0	Special Mix (5 Suits)	2021-02-22 — 16:57:51 UTC	ChristopheAF, VerySloppyTwo, wump	9	5	25
+445613	3	0	Special Mix (5 Suits)	2021-02-22 — 16:54:51 UTC	ChristopheAF, VerySloppyTwo, wump	8	5	25
+445187	5	25	Light Pink (6 Suits)	2021-02-22 — 04:45:15 UTC	aquarelle, FerKeth, Lanvin, squirrel1988, wump	1	6	30
+444738	4	0	White & Dark Rainbow (5 Suits)	2021-02-21 — 22:14:39 UTC	dobi, IsabeltheCat, Nitrate, wump	5	5	25
+444704	4	28	Black & White (6 Suits)	2021-02-21 — 21:43:51 UTC	IsabeltheCat, Nitrate, rachyrules, wump	17	6	30
+443147	3	26	Clue Starved & White (6 Suits)	2021-02-20 — 13:57:13 UTC	Animex52, catula, wump	4	6	30
+443132	3	0	Clue Starved & White (6 Suits)	2021-02-20 — 13:09:19 UTC	Animex52, catula, wump	4	6	30
+443115	3	0	Clue Starved & White (6 Suits)	2021-02-20 — 12:44:03 UTC	Animex52, catula, wump	5	6	30
+442778	3	24	Muddy Rainbow & Light Pink (5 Suits)	2021-02-20 — 03:25:48 UTC	RaKXeR, rz, wump	6	5	25
+442726	3	0	Muddy Rainbow & Light Pink (5 Suits)	2021-02-20 — 02:39:02 UTC	RaKXeR, rz, wump	7	5	25
+441916	3	24	No Variant	2021-02-19 — 12:54:05 UTC	BraydonM, possum, wump	53	5	25
+441909	3	0	No Variant	2021-02-19 — 12:34:29 UTC	BraydonM, possum, wump	50	5	25
+441609	6	23	No Variant	2021-02-19 — 03:58:05 UTC	eliclax, eljavi, griff77, ksfortson, wolfpack, wump	13	5	25
+441554	4	18	Rainbow (4 Suits)	2021-02-19 — 03:08:58 UTC	griff77, ksfortson, nkkarpov, wump	14	4	20
+441525	4	19	Rainbow (4 Suits)	2021-02-19 — 02:37:51 UTC	griff77, ksfortson, nkkarpov, wump	17	4	20
+441461	5	29	Brown (6 Suits)	2021-02-19 — 01:37:17 UTC	Nitrate, nwajfromoz, rahsosprout, rz, wump	3	6	30
+441388	4	24	White (5 Suits)	2021-02-19 — 00:35:06 UTC	griff77, ontak, pine_tree, wump	79	5	25
+440537	3	21	Up or Down & Prism (5 Suits)	2021-02-18 — 02:14:52 UTC	4head, ricardodd, wump	9	5	25
+439882	4	25	White-Ones & Rainbow (5 Suits)	2021-02-17 — 11:47:25 UTC	catula, nitawa, Sucubis, wump	2	5	25
+439874	4	0	White-Ones & Rainbow (5 Suits)	2021-02-17 — 11:21:25 UTC	catula, nitawa, Sucubis, wump	3	5	25
+439864	4	0	White-Ones & Rainbow (5 Suits)	2021-02-17 — 11:09:00 UTC	catula, nitawa, Sucubis, wump	5	5	25
+439858	4	0	White-Ones & Rainbow (5 Suits)	2021-02-17 — 11:01:11 UTC	catula, nitawa, Sucubis, wump	6	5	25
+439493	5	23	Black (5 Suits)	2021-02-16 — 23:22:56 UTC	4head, indego, LautiManzano, torp, wump	5	5	25
+439486	5	0	Black (5 Suits)	2021-02-16 — 23:06:58 UTC	4head, indego, LautiManzano, torp, wump	5	5	25
+439478	5	24	Black (5 Suits)	2021-02-16 — 22:54:37 UTC	4head, indego, LautiManzano, torp, wump	10	5	25
+438903	4	24	White-Ones & Black (5 Suits)	2021-02-16 — 05:53:23 UTC	eljavi, nkkarpov, torp, wump	4	5	25
+438877	5	0	White-Ones & Black (5 Suits)	2021-02-16 — 05:30:19 UTC	eljavi, ksfortson, nkkarpov, torp, wump	1	5	25
+438858	5	20	White-Ones & Black (5 Suits)	2021-02-16 — 05:09:21 UTC	eljavi, ksfortson, nkkarpov, torp, wump	2	5	25
+438834	4	26	Prism (6 Suits)	2021-02-16 — 04:39:14 UTC	eljavi, ksfortson, wolfpack, wump	1	6	30
+438667	4	30	Black & Muddy Rainbow (6 Suits)	2021-02-16 — 01:24:38 UTC	cockdestroyer, rz, TheDaniMan, wump	4	6	30
+438646	2	0	Brown (4 Suits)	2021-02-16 — 01:01:59 UTC	cockdestroyer, wump	74	4	20
+438636	3	0	Brown (4 Suits)	2021-02-16 — 00:51:52 UTC	cockdestroyer, Lanvin, wump	6	4	20
+438620	4	0	Pink (5 Suits)	2021-02-16 — 00:27:01 UTC	newduke, rz, voss, wump	34	5	25
+438604	3	23	No Variant	2021-02-15 — 23:49:33 UTC	newduke, nkkarpov, wump	58	5	25
+437139	3	22	White-Ones & Black (5 Suits)	2021-02-14 — 18:55:55 UTC	ksfortson, newduke, wump	6	5	25
+437091	3	20	Rainbow-Fives & Prism (4 Suits)	2021-02-14 — 18:06:38 UTC	robense, rz, wump	1	4	20
+437063	3	25	Muddy-Rainbow-Ones & Brown (5 Suits)	2021-02-14 — 17:40:41 UTC	robense, rz, wump	2	5	25
+437040	6	0	Special Mix (5 Suits)	2021-02-14 — 17:20:56 UTC	ChristopheAF, Lanvin, rachyrules, rz, Wittvector, wump	4	5	25
+436724	3	29	White Reversed (6 Suits)	2021-02-14 — 09:22:24 UTC	ksfortson, rz, wump	21	6	30
+436718	2	28	Rainbow (6 Suits)	2021-02-14 — 08:57:32 UTC	ksfortson, wump	254	6	30
+436705	2	30	6 Suits	2021-02-14 — 08:28:10 UTC	ksfortson, wump	851	6	30
+436224	4	23	Black (5 Suits)	2021-02-14 — 01:17:34 UTC	griff77, nkkarpov, rz, wump	19	5	25
+436187	3	0	Black (5 Suits)	2021-02-14 — 00:43:28 UTC	griff77, rz, wump	44	5	25
+436153	2	25	Black (6 Suits)	2021-02-14 — 00:08:02 UTC	rz, wump	20	6	30
+436129	2	25	Black (6 Suits)	2021-02-13 — 23:28:50 UTC	rz, wump	21	6	30
+436104	2	30	Black (6 Suits)	2021-02-13 — 22:51:10 UTC	rz, wump	95	6	30
+436071	2	30	Black (6 Suits)	2021-02-13 — 22:21:48 UTC	rz, wump	95	6	30
+436026	5	29	Omni-Fives (6 Suits)	2021-02-13 — 21:32:31 UTC	duckless, Pimak, RaKXeR, rz, wump	3	6	30
+435986	4	0	Omni-Fives (6 Suits)	2021-02-13 — 20:55:05 UTC	duckless, Pimak, rz, wump	2	6	30
+435945	4	0	Omni-Fives (6 Suits)	2021-02-13 — 20:18:15 UTC	duckless, Pimak, rz, wump	4	6	30
+435630	3	30	Black (6 Suits)	2021-02-13 — 10:36:35 UTC	antitelharsic, catula, wump	74	6	30
+435227	6	30	Black (6 Suits)	2021-02-13 — 04:16:46 UTC	dobi, eljavi, ksfortson, nkkarpov, rz, wump	8	6	30
+435143	5	0	Brown (6 Suits)	2021-02-13 — 03:25:55 UTC	eljavi, ksfortson, Lanvin, rz, wump	6	6	30
+435098	4	20	Pink & Prism (4 Suits)	2021-02-13 — 02:51:34 UTC	ksfortson, Lanvin, ricardodd, wump	5	4	20
+435046	2	23	Black (6 Suits)	2021-02-13 — 02:06:48 UTC	rz, wump	21	6	30
+434996	2	30	Black (6 Suits)	2021-02-13 — 01:37:02 UTC	rz, wump	25	6	30
+434965	2	30	Black (6 Suits)	2021-02-13 — 01:03:54 UTC	rz, wump	97	6	30
+434947	2	0	Black (6 Suits)	2021-02-13 — 00:44:36 UTC	rz, wump	97	6	30
+434917	3	30	Pink & White (6 Suits)	2021-02-13 — 00:16:59 UTC	ksfortson, rz, wump	15	6	30
+434887	2	22	White-Ones & Black (5 Suits)	2021-02-12 — 23:53:12 UTC	ksfortson, wump	8	5	25
+434805	4	23	Dark Prism (5 Suits)	2021-02-12 — 22:08:25 UTC	4head, dobi, ksfortson, wump	10	5	25
+434783	2	25	Black & Brown (5 Suits)	2021-02-12 — 21:48:01 UTC	robense, wump	27	5	25
+434771	2	25	Gray Pink (5 Suits)	2021-02-12 — 21:38:55 UTC	robense, wump	33	5	25
+434758	2	0	Gray Pink (5 Suits)	2021-02-12 — 21:26:01 UTC	robense, wump	45	5	25
+434093	4	23	Black (6 Suits)	2021-02-12 — 04:15:20 UTC	BraydonM, P_BJ5, poofart123, wump	273	6	30
+433955	2	30	Black (6 Suits)	2021-02-12 — 02:50:18 UTC	rz, wump	99	6	30
+433906	2	25	Black (6 Suits)	2021-02-12 — 02:23:29 UTC	rz, wump	101	6	30
+433865	2	28	Black (6 Suits)	2021-02-12 — 01:59:49 UTC	rz, wump	103	6	30
+433832	2	27	Black (6 Suits)	2021-02-12 — 01:31:14 UTC	rz, wump	102	6	30
+433819	2	0	Black (6 Suits)	2021-02-12 — 01:12:47 UTC	rz, wump	105	6	30
+433714	3	24	No Variant	2021-02-11 — 23:26:49 UTC	DarthGandalf, JackFrost, wump	59	5	25
+433686	2	23	No Variant	2021-02-11 — 22:58:19 UTC	DarthGandalf, wump	699	5	25
+433407	4	22	No Variant	2021-02-11 — 18:05:51 UTC	knaphill, MathNoob, wump, Zahard	48	5	25
+433379	5	0	Black & Brown (6 Suits)	2021-02-11 — 17:23:34 UTC	knaphill, MangoPie, Onen, rachyrules, wump	8	6	30
+432963	2	27	Black (6 Suits)	2021-02-11 — 02:30:16 UTC	rz, wump	109	6	30
+432935	2	29	Black (6 Suits)	2021-02-11 — 02:06:20 UTC	rz, wump	112	6	30
+432786	3	29	6 Suits	2021-02-10 — 23:30:39 UTC	socerman, tacobot5000, wump	168	6	30
+432764	3	30	6 Suits	2021-02-10 — 23:01:30 UTC	socerman, tacobot5000, wump	252	6	30
+432472	3	20	No Variant	2021-02-10 — 19:20:46 UTC	HariKrishnan, wolfpack, wump	60	5	25
+431757	2	28	Black (6 Suits)	2021-02-10 — 02:41:08 UTC	rz, wump	115	6	30
+431737	2	25	Black (6 Suits)	2021-02-10 — 02:14:58 UTC	rz, wump	116	6	30
+431709	2	0	Black (6 Suits)	2021-02-10 — 01:52:59 UTC	rz, wump	122	6	30
+431688	2	22	Black (6 Suits)	2021-02-10 — 01:34:06 UTC	rz, wump	123	6	30
+431680	2	28	Black (6 Suits)	2021-02-10 — 01:09:11 UTC	rz, wump	133	6	30
+431668	2	27	Black (6 Suits)	2021-02-10 — 00:49:44 UTC	rz, wump	135	6	30
+431653	5	0	Black (5 Suits)	2021-02-10 — 00:26:31 UTC	nwajfromoz, Onen, thejazzagent, voss, wump	17	5	25
+431634	5	23	Black & White (5 Suits)	2021-02-09 — 23:59:02 UTC	bjnh, nwajfromoz, Onen, voss, wump	7	5	25
+431490	5	0	Special Mix (5 Suits)	2021-02-09 — 21:58:11 UTC	bjnh, ChristopheAF, Lanvin, VerySloppyTwo, wump	5	5	25
+431474	5	0	Special Mix (5 Suits)	2021-02-09 — 21:51:27 UTC	bjnh, ChristopheAF, Lanvin, VerySloppyTwo, wump	4	5	25
+431430	5	0	Special Mix (5 Suits)	2021-02-09 — 21:28:03 UTC	bjnh, ChristopheAF, indego, Lanvin, wump	4	5	25
+431395	5	0	Special Mix (5 Suits)	2021-02-09 — 21:10:44 UTC	bjnh, ChristopheAF, indego, Lanvin, wump	5	5	25
+430907	3	0	Black (5 Suits)	2021-02-09 — 06:53:03 UTC	dobi, newduke, wump	20	5	25
+430462	3	25	No Variant	2021-02-08 — 22:33:38 UTC	DarthGandalf, ksfortson, wump	53	5	25
+430422	3	25	No Variant	2021-02-08 — 22:11:21 UTC	Damian000, DarthGandalf, wump	61	5	25
+430382	3	24	Black (5 Suits)	2021-02-08 — 21:50:59 UTC	dobi, ksfortson, wump	35	5	25
+430339	4	23	Black & Rainbow (5 Suits)	2021-02-08 — 21:28:44 UTC	nitawa, Pablo-, VerySloppyTwo, wump	16	5	25
+430306	4	0	Black & Rainbow (5 Suits)	2021-02-08 — 21:07:15 UTC	nitawa, Pablo-, VerySloppyTwo, wump	16	5	25
+430232	6	0	Prism (5 Suits)	2021-02-08 — 20:20:05 UTC	CaitlinSmith, Denchulitas, eljavi, griff77, HariKrishnan, wump	3	5	25
+430133	3	0	Special Mix (5 Suits)	2021-02-08 — 18:52:59 UTC	bjnh, ChristopheAF, wump	18	5	25
+430125	3	0	Special Mix (5 Suits)	2021-02-08 — 18:39:44 UTC	bjnh, ChristopheAF, wump	24	5	25
+430113	3	0	Special Mix (5 Suits)	2021-02-08 — 18:23:00 UTC	bjnh, ChristopheAF, wump	30	5	25
+427152	5	28	Brown (6 Suits)	2021-02-06 — 02:25:17 UTC	griff77, louietyj, rahsosprout, rz, wump	7	6	30
+427097	5	25	Rainbow (5 Suits)	2021-02-06 — 01:30:59 UTC	griff77, Kyle, rahsosprout, rz, wump	6	5	25
+427039	2	24	Black (6 Suits)	2021-02-06 — 00:40:56 UTC	rz, wump	136	6	30
+427021	2	28	Black (6 Suits)	2021-02-06 — 00:23:27 UTC	rz, wump	137	6	30
+426998	2	27	Black (6 Suits)	2021-02-06 — 00:03:05 UTC	rz, wump	144	6	30
+426964	2	30	Black (6 Suits)	2021-02-05 — 23:37:47 UTC	rz, wump	152	6	30
+426955	2	0	Black (6 Suits)	2021-02-05 — 23:24:08 UTC	rz, wump	153	6	30
+426932	2	30	Black (6 Suits)	2021-02-05 — 23:06:37 UTC	rz, wump	157	6	30
+426910	2	0	Black (6 Suits)	2021-02-05 — 22:46:40 UTC	rz, wump	157	6	30
+426848	2	25	Black (5 Suits)	2021-02-05 — 21:59:31 UTC	IsabeltheCat, wump	219	5	25
+426317	4	29	Light Pink & Prism (6 Suits)	2021-02-05 — 07:40:17 UTC	4head, ksfortson, rahsosprout, wump	4	6	30
+426304	2	23	Special Mix (5 Suits)	2021-02-05 — 06:54:55 UTC	newduke, wump	60	5	25
+426296	2	0	Special Mix (5 Suits)	2021-02-05 — 06:37:12 UTC	newduke, wump	63	5	25
+426294	2	0	Special Mix (5 Suits)	2021-02-05 — 06:30:22 UTC	newduke, wump	66	5	25
+426131	3	0	Pink-Fives & Rainbow (6 Suits)	2021-02-05 — 03:39:17 UTC	ksfortson, rz, wump	7	6	30
+426110	3	0	Pink-Fives & Rainbow (6 Suits)	2021-02-05 — 03:14:04 UTC	ksfortson, rz, wump	9	6	30
+426088	2	28	Black (6 Suits)	2021-02-05 — 02:50:48 UTC	rz, wump	165	6	30
+426062	2	28	Black (6 Suits)	2021-02-05 — 02:23:00 UTC	rz, wump	167	6	30
+426029	3	20	4 Suits	2021-02-05 — 01:56:13 UTC	Kyle, rz, wump	23	4	20
+426009	3	0	4 Suits	2021-02-05 — 01:43:29 UTC	Kyle, rz, wump	25	4	20
+425998	2	25	Up or Down & Omni (5 Suits)	2021-02-05 — 01:36:20 UTC	Kyle, wump	6	5	25
+425974	2	30	Up or Down & White (6 Suits)	2021-02-05 — 01:21:55 UTC	Kyle, wump	8	6	30
+425960	2	0	Up or Down & White (6 Suits)	2021-02-05 — 01:13:36 UTC	Kyle, wump	10	6	30
+424928	2	26	Black (6 Suits)	2021-02-04 — 02:48:06 UTC	rz, wump	174	6	30
+424892	2	26	Black (6 Suits)	2021-02-04 — 02:24:41 UTC	rz, wump	179	6	30
+424866	2	0	Black (6 Suits)	2021-02-04 — 02:04:33 UTC	rz, wump	186	6	30
+424832	2	0	Black (6 Suits)	2021-02-04 — 01:41:31 UTC	rz, wump	186	6	30
+424815	2	0	Black (6 Suits)	2021-02-04 — 01:28:25 UTC	rz, wump	192	6	30
+424327	5	23	White & Brown (5 Suits)	2021-02-03 — 19:22:23 UTC	ChristopheAF, frosty104, Spieler42, Wittvector, wump	6	5	25
+423671	3	24	No Variant	2021-02-03 — 03:11:34 UTC	possum, rz, wump	63	5	25
+423606	2	27	Black (6 Suits)	2021-02-03 — 02:23:06 UTC	rz, wump	201	6	30
+423594	2	0	Black (6 Suits)	2021-02-03 — 02:09:19 UTC	rz, wump	214	6	30
+423553	2	27	Black (6 Suits)	2021-02-03 — 01:40:15 UTC	rz, wump	221	6	30
+423531	2	0	Black (6 Suits)	2021-02-03 — 01:23:04 UTC	rz, wump	232	6	30
+423521	2	28	Black (6 Suits)	2021-02-03 — 01:10:02 UTC	rz, wump	239	6	30
+423508	2	0	Black (6 Suits)	2021-02-03 — 00:53:19 UTC	rz, wump	255	6	30
+423498	2	0	Black (6 Suits)	2021-02-03 — 00:42:46 UTC	rz, wump	275	6	30
+423380	3	0	Brown & Gray (6 Suits)	2021-02-02 — 22:23:20 UTC	Lanvin, Onen, wump	4	6	30
+423369	3	25	Brown & Gray (6 Suits)	2021-02-02 — 22:17:06 UTC	Lanvin, Onen, wump	5	6	30
+423350	3	26	Brown & Gray (6 Suits)	2021-02-02 — 22:00:10 UTC	Lanvin, Onen, wump	7	6	30
+422847	4	0	Gray Pink (5 Suits)	2021-02-02 — 07:57:40 UTC	dobi, ksfortson, TheDaniMan, wump	12	5	25
+422564	2	25	Black (6 Suits)	2021-02-02 — 00:56:32 UTC	rz, wump	294	6	30
+422553	2	0	Black (6 Suits)	2021-02-02 — 00:44:18 UTC	rz, wump	300	6	30
+422541	2	24	Black (6 Suits)	2021-02-02 — 00:31:43 UTC	rz, wump	325	6	30
+422525	2	0	Black (6 Suits)	2021-02-02 — 00:14:39 UTC	rz, wump	350	6	30
+422504	2	0	Black (6 Suits)	2021-02-01 — 23:52:46 UTC	rz, wump	391	6	30
+422491	3	30	Rainbow (6 Suits)	2021-02-01 — 23:39:47 UTC	Denchulitas, nkkarpov, wump	53	6	30
+422474	3	0	Rainbow (6 Suits)	2021-02-01 — 23:15:28 UTC	Denchulitas, nkkarpov, wump	58	6	30
+422460	5	21	Dark Prism (5 Suits)	2021-02-01 — 22:54:08 UTC	jack67889, Lanvin, newduke, Wittvector, wump	3	5	25
+422434	5	0	Dark Prism (5 Suits)	2021-02-01 — 22:28:46 UTC	jack67889, Lanvin, newduke, Wittvector, wump	5	5	25
+422213	3	0	Rainbow (6 Suits)	2021-02-01 — 18:41:08 UTC	Damian000, tacobot5000, wump	55	6	30
+422195	4	0	Rainbow (6 Suits)	2021-02-01 — 18:04:17 UTC	Damian000, rahsosprout, tacobot5000, wump	12	6	30
+421967	4	25	No Variant	2021-02-01 — 07:36:42 UTC	ksfortson, possum, skyblueexo, wump	36	5	25
+421950	4	25	No Variant	2021-02-01 — 07:04:36 UTC	eljavi, FerKeth, skyblueexo, wump	48	5	25
+421933	4	24	No Variant	2021-02-01 — 06:34:25 UTC	eljavi, FerKeth, skyblueexo, wump	52	5	25
+421920	4	24	No Variant	2021-02-01 — 06:06:31 UTC	eljavi, FerKeth, skyblueexo, wump	53	5	25
+421566	3	0	Black (5 Suits)	2021-02-01 — 00:02:17 UTC	ksfortson, nkkarpov, wump	40	5	25
+421540	3	0	Black (5 Suits)	2021-01-31 — 23:45:20 UTC	ksfortson, nkkarpov, wump	66	5	25
+421529	4	20	Brown-Ones & Rainbow (4 Suits)	2021-01-31 — 23:39:28 UTC	ksfortson, Lanvin, nkkarpov, wump	3	4	20
+421494	4	0	Dark Rainbow (6 Suits)	2021-01-31 — 23:20:38 UTC	Bot-Fiora, Lanvin, nkkarpov, wump	53	6	30
+421476	5	30	Rainbow-Ones & Rainbow (6 Suits)	2021-01-31 — 22:57:46 UTC	frosty104, indego, knaphill, Lanvin, wump	4	6	30
+421267	5	23	Number Mute (5 Suits)	2021-01-31 — 19:21:22 UTC	frosty104, Lanvin, newduke, nkkarpov, wump	1	5	25
+420278	4	28	Rainbow (6 Suits)	2021-01-30 — 23:16:46 UTC	antitelharsic, Denchulitas, IsabeltheCat, wump	13	6	30
+420253	4	28	6 Suits	2021-01-30 — 22:43:06 UTC	4head, antitelharsic, Denchulitas, wump	59	6	30
+419888	3	25	Black & White (5 Suits)	2021-01-30 — 16:57:28 UTC	Lanvin, Spieler42, wump	45	5	25
+419648	4	19	Black & White (5 Suits)	2021-01-30 — 07:44:02 UTC	BraydonM, dobi, witcher, wump	23	5	25
+419634	5	22	Rainbow (5 Suits)	2021-01-30 — 07:06:23 UTC	4head, eljavi, ksfortson, otterful, wump	12	5	25
+419609	5	23	Rainbow (5 Suits)	2021-01-30 — 06:31:45 UTC	4head, eljavi, ksfortson, otterful, wump	12	5	25
+418955	4	24	Gray (5 Suits)	2021-01-29 — 22:32:35 UTC	cockdestroyer, Dwu123, nitawa, wump	27	5	25
+418471	3	30	Light Pink (6 Suits)	2021-01-29 — 08:07:12 UTC	duckmedic, ksfortson, wump	16	6	30
+418070	3	20	Omni (4 Suits)	2021-01-29 — 00:04:34 UTC	colton, robense, wump	15	4	20
+418022	2	27	Black (6 Suits)	2021-01-28 — 23:16:17 UTC	rz, wump	442	6	30
+418002	2	30	Black (6 Suits)	2021-01-28 — 22:58:21 UTC	rz, wump	546	6	30
+417857	4	25	Prism (5 Suits)	2021-01-28 — 20:57:58 UTC	Denchulitas, eljavi, jian01, wump	4	5	25
+417840	4	0	Prism (5 Suits)	2021-01-28 — 20:43:19 UTC	Denchulitas, eljavi, jian01, wump	5	5	25
+417284	4	0	White & Prism (5 Suits)	2021-01-28 — 04:20:28 UTC	eljavi, nkkarpov, Onen, wump	6	5	25
+416631	3	25	Dark Brown (5 Suits)	2021-01-27 — 19:41:04 UTC	Div, Onen, wump	4	5	25
+416614	3	0	Dark Brown (5 Suits)	2021-01-27 — 19:27:36 UTC	Div, Onen, wump	4	5	25
+416603	3	0	Dark Brown (5 Suits)	2021-01-27 — 19:17:15 UTC	Div, Onen, wump	6	5	25
+416587	3	0	Dark Brown (5 Suits)	2021-01-27 — 19:00:55 UTC	Div, Onen, wump	8	5	25
+415942	4	22	Rainbow & Brown (5 Suits)	2021-01-27 — 02:05:39 UTC	4head, caña, duckmedic, wump	9	5	25
+415925	4	25	White & Prism (5 Suits)	2021-01-27 — 01:40:39 UTC	4head, caña, voss, wump	11	5	25
+415587	6	0	Rainbow (5 Suits)	2021-01-26 — 19:58:50 UTC	Denchulitas, griff77, Lanvin, Plum, VerySloppyTwo, wump	9	5	25
+414720	4	25	No Variant	2021-01-25 — 19:12:14 UTC	Damian000, rz, sp00ky, wump	52	5	25
+414698	4	25	No Variant	2021-01-25 — 18:44:16 UTC	lolthisnotderk, rz, sp00ky, wump	54	5	25
+414466	3	24	White & Prism (5 Suits)	2021-01-25 — 08:35:31 UTC	ksfortson, rahsosprout, wump	10	5	25
+414461	3	0	White & Prism (5 Suits)	2021-01-25 — 07:40:02 UTC	ejwu, ksfortson, wump	16	5	25
+414342	4	0	Black & White (5 Suits)	2021-01-25 — 04:30:12 UTC	bjnh, ksfortson, Onen, wump	14	5	25
+414307	4	0	Black & White (5 Suits)	2021-01-25 — 04:02:56 UTC	bjnh, ksfortson, Onen, wump	16	5	25
+413961	3	29	Dual-Color Mix	2021-01-24 — 21:48:23 UTC	dobi, rz, wump	13	6	30
+413859	3	29	Dual-Color Mix	2021-01-24 — 20:25:29 UTC	dobi, rz, wump	4	6	30
+413779	3	0	Dual-Color Mix	2021-01-24 — 19:40:21 UTC	dobi, rz, wump	5	6	30
+413732	3	0	Black (5 Suits)	2021-01-24 — 19:03:33 UTC	CaitlinSmith, voss, wump	43	5	25
+413721	3	0	Black (5 Suits)	2021-01-24 — 18:52:29 UTC	CaitlinSmith, voss, wump	44	5	25
+413711	3	23	Black (5 Suits)	2021-01-24 — 18:38:20 UTC	CaitlinSmith, voss, wump	51	5	25
+413345	3	29	Dual-Color Mix	2021-01-24 — 06:11:21 UTC	dobi, rz, wump	12	6	30
+413240	3	29	Dual-Color Mix	2021-01-24 — 04:44:37 UTC	dobi, rz, wump	7	6	30
+412769	3	0	Dual-Color Mix	2021-01-23 — 21:18:19 UTC	dobi, rz, wump	5	6	30
+412716	3	0	Dual-Color Mix	2021-01-23 — 20:43:01 UTC	dobi, rz, wump	6	6	30
+412684	3	29	Dual-Color Mix	2021-01-23 — 20:05:47 UTC	dobi, rz, wump	7	6	30
+411847	3	0	Dual-Color Mix	2021-01-23 — 02:17:17 UTC	dobi, rz, wump	8	6	30
+411831	3	0	Dual-Color Mix	2021-01-23 — 02:05:18 UTC	dobi, rz, wump	7	6	30
+411815	3	0	Dual-Color Mix	2021-01-23 — 01:50:39 UTC	dobi, rz, wump	8	6	30
+411532	3	0	Alternating Clues (4 Suits)	2021-01-22 — 20:07:08 UTC	indego, rachyrules, wump	7	4	20
+411036	3	25	White (5 Suits)	2021-01-22 — 02:38:19 UTC	4head, louietyj, wump	61	5	25
+410990	3	25	White (5 Suits)	2021-01-22 — 02:02:27 UTC	4head, louietyj, wump	81	5	25
+410773	5	25	No Variant	2021-01-21 — 21:21:57 UTC	cockdestroyer, exfret, jack67889, Stinkydude63, wump	20	5	25
+410718	4	25	Pink (5 Suits)	2021-01-21 — 19:54:05 UTC	4head, dobi, MangoPie, wump	69	5	25
+410702	3	0	Pink (5 Suits)	2021-01-21 — 19:21:18 UTC	4head, MangoPie, wump	11	5	25
+410690	3	0	Pink (5 Suits)	2021-01-21 — 19:04:33 UTC	4head, MangoPie, wump	18	5	25
+410387	3	18	Prism (4 Suits)	2021-01-21 — 08:11:07 UTC	indego, ksfortson, wump	45	4	20
+409887	4	21	Brown-Fives & Dark Pink (5 Suits)	2021-01-20 — 20:48:39 UTC	indego, kevincaseytdk1, Lanvin, wump	3	5	25
+409770	5	25	Pink (5 Suits)	2021-01-20 — 18:48:58 UTC	nitawa, Nitrate2, Stinkydude63, wump, XMIL	12	5	25
+409376	5	0	Rainbow (5 Suits)	2021-01-20 — 06:08:46 UTC	eljavi, ksfortson, kupoke, MarcLovesDogs, wump	14	5	25
+408779	3	28	Dual-Color Mix	2021-01-19 — 18:47:10 UTC	indego, rz, wump	9	6	30
+408741	5	29	Black & White (6 Suits)	2021-01-19 — 18:10:43 UTC	Floriman, indego, rz, Sucubis, wump	4	6	30
+408701	3	0	Dual-Color Mix	2021-01-19 — 17:38:47 UTC	nitawa, Sucubis, wump	42	6	30
+408304	4	23	Dark Prism (6 Suits)	2021-01-19 — 04:49:08 UTC	ksfortson, otterful, torp, wump	23	6	30
+408258	5	0	No Variant	2021-01-19 — 03:59:00 UTC	dobi, eljavi, pianoblook, rz, wump	29	5	25
+408233	3	30	Dual-Color Mix	2021-01-19 — 03:32:25 UTC	dobi, rz, wump	14	6	30
+408166	3	0	Dual-Color Mix	2021-01-19 — 02:38:11 UTC	dobi, rz, wump	14	6	30
+408104	3	30	Dual-Color Mix	2021-01-19 — 01:29:27 UTC	dobi, rz, wump	8	6	30
+408063	3	27	Dual-Color Mix	2021-01-19 — 00:40:44 UTC	dobi, rz, wump	8	6	30
+408035	5	0	Black & Pink (5 Suits)	2021-01-19 — 00:13:54 UTC	dobi, Nitrate, rachyrules, sephiroth, wump	5	5	25
+407143	3	30	Dual-Color Mix	2021-01-18 — 06:42:01 UTC	dobi, rz, wump	7	6	30
+407096	3	30	Dual-Color Mix	2021-01-18 — 06:01:10 UTC	dobi, rz, wump	7	6	30
+406830	3	25	No Variant	2021-01-18 — 00:59:23 UTC	griff77, sankala, wump	69	5	25
+406811	3	25	No Variant	2021-01-18 — 00:19:29 UTC	griff77, sankala, wump	68	5	25
+404492	3	27	Dual-Color Mix	2021-01-16 — 00:18:27 UTC	dobi, rz, wump	8	6	30
+404473	3	25	Omni (5 Suits)	2021-01-15 — 23:41:52 UTC	dobi, Onen, wump	50	5	25
+403579	4	24	No Variant	2021-01-15 — 02:44:08 UTC	bjnh, ksfortson, rz, wump	38	5	25
+403557	3	0	No Variant	2021-01-15 — 02:23:07 UTC	ksfortson, rz, wump	71	5	25
+403540	3	23	No Variant	2021-01-15 — 01:57:47 UTC	ksfortson, rz, wump	71	5	25
+403398	3	30	Dual-Color Mix	2021-01-14 — 22:44:45 UTC	dobi, rz, wump	9	6	30
+401631	3	30	Dual-Color Mix	2021-01-13 — 02:45:29 UTC	dobi, rz, wump	9	6	30
+401589	3	0	Dual-Color Mix	2021-01-13 — 02:15:12 UTC	dobi, rz, wump	11	6	30
+401565	3	0	Dual-Color Mix	2021-01-13 — 01:50:37 UTC	dobi, rz, wump	10	6	30
+401556	3	0	Dual-Color Mix	2021-01-13 — 01:38:50 UTC	dobi, rz, wump	11	6	30
+401546	3	0	Dual-Color Mix	2021-01-13 — 01:19:20 UTC	dobi, rz, wump	11	6	30
+401512	3	23	Pink & Prism (5 Suits)	2021-01-13 — 00:31:07 UTC	ChristopheAF, melwen, wump	3	5	25
+401220	3	0	Gray Pink (5 Suits)	2021-01-12 — 18:38:27 UTC	ADrone, wump, XMIL	18	5	25
+401193	3	25	No Variant	2021-01-12 — 18:10:23 UTC	ADrone, Donna, wump	69	5	25
+401149	5	20	White-Ones (4 Suits)	2021-01-12 — 17:07:18 UTC	Fey, Lanvin, MangoPie, nkkarpov, wump	1	4	20
+401140	5	18	White-Ones (4 Suits)	2021-01-12 — 16:42:02 UTC	Fey, Lanvin, MangoPie, nkkarpov, wump	1	4	20
+400907	4	25	No Variant	2021-01-12 — 05:57:41 UTC	cockdestroyer, ksfortson, MarcLovesDogs, wump	41	5	25
+400894	4	0	Deceptive-Ones (5 Suits)	2021-01-12 — 05:41:45 UTC	duckmedic, ksfortson, MarcLovesDogs, wump	2	5	25
+400881	4	25	Deceptive-Ones (5 Suits)	2021-01-12 — 05:30:20 UTC	duckmedic, ksfortson, MarcLovesDogs, wump	7	5	25
+400857	4	0	Deceptive-Ones (5 Suits)	2021-01-12 — 05:09:16 UTC	duckmedic, ksfortson, MarcLovesDogs, wump	16	5	25
+400817	5	25	Brown (5 Suits)	2021-01-12 — 04:42:20 UTC	duckmedic, ksfortson, MarcLovesDogs, wump, XMIL	7	5	25
+400790	5	25	Light Pink (5 Suits)	2021-01-12 — 04:11:00 UTC	ksfortson, Lanvin, rz, wump, XMIL	5	5	25
+400749	5	0	Light Pink (5 Suits)	2021-01-12 — 03:38:11 UTC	ksfortson, Lanvin, rz, wump, XMIL	6	5	25
+400702	4	29	White & Muddy Rainbow (6 Suits)	2021-01-12 — 03:03:01 UTC	indego, Lanvin, rz, wump	5	6	30
+400659	3	20	Rainbow & White (4 Suits)	2021-01-12 — 02:29:27 UTC	indego, Lanvin, wump	27	4	20
+400552	5	0	Rainbow (5 Suits)	2021-01-11 — 23:48:15 UTC	IsabeltheCat, louietyj, nkkarpov, torp, wump	22	5	25
+400528	4	25	No Variant	2021-01-11 — 23:14:27 UTC	indego, louietyj, nkkarpov, wump	53	5	25
+400205	3	30	Dual-Color & Prism (6 Suits)	2021-01-11 — 16:49:10 UTC	Nitrate2, Pablo-, wump	5	6	30
+400198	3	0	Dual-Color & Prism (6 Suits)	2021-01-11 — 16:30:57 UTC	Nitrate2, Pablo-, wump	7	6	30
+400185	3	25	Muddy-Rainbow-Ones (5 Suits)	2021-01-11 — 16:09:34 UTC	Nitrate2, Pablo-, wump	1	5	25
+400169	4	0	Muddy-Rainbow-Ones & Prism (5 Suits)	2021-01-11 — 15:49:26 UTC	Nitrate2, Pablo-, VerySloppyTwo, wump	1	5	25
+400161	4	20	Brown (4 Suits)	2021-01-11 — 15:24:53 UTC	ChristopheAF, macanek, skyblueexo, wump	22	4	20
+399938	3	30	Dual-Color Mix	2021-01-11 — 05:33:49 UTC	dobi, HelanaAshryvr, wump	12	6	30
+399889	3	0	Dual-Color Mix	2021-01-11 — 04:40:06 UTC	dobi, rz, wump	12	6	30
+399838	3	27	Dual-Color Mix	2021-01-11 — 03:51:20 UTC	dobi, rz, wump	16	6	30
+399503	5	0	Prism (4 Suits)	2021-01-10 — 21:55:52 UTC	function, Onen, rahsosprout, wump, zeinab001	10	4	20
+399479	3	30	Brown (6 Suits)	2021-01-10 — 21:32:34 UTC	Pablo-, VerySloppyTwo, wump	52	6	30
+399390	6	22	Rainbow (5 Suits)	2021-01-10 — 20:01:13 UTC	indego, JackFrost, nitawa, rachyrules, rz, wump	9	5	25
+399355	4	0	Light Pink (4 Suits)	2021-01-10 — 19:15:39 UTC	JackFrost, nitawa, rz, wump	15	4	20
+399329	6	30	Omni (6 Suits)	2021-01-10 — 18:44:08 UTC	HelanaAshryvr, nitawa, PMP, rz, Sucubis, wump	7	6	30
+399310	6	0	Black (5 Suits)	2021-01-10 — 18:05:26 UTC	nitawa, Pablo-, Stinkydude63, Sucubis, wump, XMIL	4	5	25
+399301	6	0	Black (5 Suits)	2021-01-10 — 17:55:26 UTC	nitawa, Pablo-, Stinkydude63, Sucubis, wump, XMIL	5	5	25
+399295	6	0	Black (5 Suits)	2021-01-10 — 17:44:06 UTC	nitawa, Pablo-, Stinkydude63, Sucubis, wump, XMIL	7	5	25
+399294	5	0	Black (5 Suits)	2021-01-10 — 17:42:24 UTC	nitawa, Stinkydude63, Sucubis, wump, XMIL	4	5	25
+399291	5	0	Black (5 Suits)	2021-01-10 — 17:38:30 UTC	nitawa, Stinkydude63, Sucubis, wump, XMIL	4	5	25
+399283	4	25	Dark Brown (5 Suits)	2021-01-10 — 17:22:35 UTC	nitawa, Sucubis, wump, XMIL	7	5	25
+398683	3	0	Dual-Color Mix	2021-01-10 — 04:01:04 UTC	dobi, rz, wump	16	6	30
+398610	3	0	Dual-Color Mix	2021-01-10 — 03:07:13 UTC	dobi, rz, wump	19	6	30
+397938	3	0	Dual-Color Mix	2021-01-09 — 18:55:47 UTC	dobi, rz, wump	20	6	30
+397906	5	0	Pink-Ones & Brown (6 Suits)	2021-01-09 — 18:09:28 UTC	indego, Lanvin, MangoPie, rz, wump	2	6	30
+397899	5	0	Light-Pink-Ones & Black (6 Suits)	2021-01-09 — 17:56:43 UTC	indego, Lanvin, MangoPie, rz, wump	2	6	30
+397892	4	20	Rainbow-Ones & White (4 Suits)	2021-01-09 — 17:40:49 UTC	indego, Lanvin, MangoPie, wump	1	4	20
+396837	4	30	Omni (6 Suits)	2021-01-08 — 19:42:40 UTC	ChristopheAF, colton, rz, wump	18	6	30
+395955	6	20	Special Mix (5 Suits)	2021-01-08 — 00:11:27 UTC	ejwu, HelanaAshryvr, indego, rz, sin_faith, wump	5	5	25
+395157	4	22	No Variant	2021-01-07 — 03:36:06 UTC	desymo99, eljavi, nkkarpov, wump	55	5	25
+395124	3	25	No Variant	2021-01-07 — 03:02:27 UTC	desymo99, eljavi, wump	74	5	25
+395002	3	0	Dual-Color Mix	2021-01-07 — 01:00:59 UTC	Jake_Stiles, scharkbite, wump	25	6	30
+394994	3	0	Dual-Color Mix	2021-01-07 — 00:46:48 UTC	Jake_Stiles, scharkbite, wump	29	6	30
+394955	5	24	Black (5 Suits)	2021-01-06 — 23:58:41 UTC	ejwu, melwen, nitawa, Sucubis, wump	5	5	25
+394926	4	0	Dark Rainbow (5 Suits)	2021-01-06 — 23:29:14 UTC	nitawa, Sucubis, wump, XMIL	11	5	25
+394894	3	25	No Variant	2021-01-06 — 22:59:57 UTC	mystus, rahsosprout, wump	78	5	25
+394846	3	22	No Variant	2021-01-06 — 22:26:52 UTC	mystus, rahsosprout, wump	77	5	25
+394642	4	22	Rainbow (5 Suits)	2021-01-06 — 19:07:28 UTC	CaitlinSmith, rahsosprout, Spieler42, wump	26	5	25
+394619	4	0	Rainbow (5 Suits)	2021-01-06 — 18:28:18 UTC	CaitlinSmith, rahsosprout, Spieler42, wump	30	5	25
+394570	4	30	Light Pink (6 Suits)	2021-01-06 — 17:41:59 UTC	kevincaseytdk1, plus, rz, wump	3	6	30
+394544	4	0	Muddy Rainbow (5 Suits)	2021-01-06 — 17:22:26 UTC	kevincaseytdk1, plus, rz, wump	9	5	25
+394527	4	24	Dark Rainbow (5 Suits)	2021-01-06 — 16:40:47 UTC	jack67889, nitawa, wump, XMIL	8	5	25
+394518	4	22	Dark Rainbow (5 Suits)	2021-01-06 — 16:08:09 UTC	jack67889, nitawa, wump, XMIL	17	5	25
+394503	3	0	Brown (6 Suits)	2021-01-06 — 15:36:21 UTC	Animex52, nitawa, wump	61	6	30
+394498	3	0	Brown (6 Suits)	2021-01-06 — 15:17:29 UTC	Animex52, nitawa, wump	84	6	30
+394347	4	21	No Variant	2021-01-06 — 07:43:57 UTC	Cration, indego, ksfortson, wump	40	5	25
+394337	4	23	No Variant	2021-01-06 — 07:03:11 UTC	Cration, indego, ksfortson, wump	39	5	25
+394303	4	22	Black & Pink (5 Suits)	2021-01-06 — 06:19:43 UTC	indego, ksfortson, melwen, wump	5	5	25
+394287	4	0	Rainbow & Dark Prism (6 Suits)	2021-01-06 — 05:56:33 UTC	indego, Kyle, melwen, wump	7	6	30
+394285	4	0	Rainbow & Dark Prism (6 Suits)	2021-01-06 — 05:55:45 UTC	indego, Kyle, melwen, wump	7	6	30
+394257	6	26	Gray (6 Suits)	2021-01-06 — 05:12:11 UTC	ejwu, melwen, Onen, pianoblook, rz, wump	2	6	30
+394222	6	0	Gray (6 Suits)	2021-01-06 — 04:43:22 UTC	ejwu, melwen, Onen, pianoblook, rz, wump	2	6	30
+394205	3	20	Light Pink (4 Suits)	2021-01-06 — 04:25:03 UTC	Onen, wump, XMIL	4	4	20
+394006	4	0	Muddy Rainbow (5 Suits)	2021-01-06 — 00:45:10 UTC	colton, hailey, Onen, wump	23	5	25
+392535	3	24	No Variant	2021-01-04 — 17:05:40 UTC	diael, knaphill, wump	77	5	25
+392515	3	25	No Variant	2021-01-04 — 16:27:06 UTC	ArualEIs, diael, wump	89	5	25
+392498	4	25	No Variant	2021-01-04 — 15:51:45 UTC	banjoleb, diael, MangoPie, wump	61	5	25
+392476	3	22	No Variant	2021-01-04 — 15:19:48 UTC	diael, knaphill, wump	76	5	25
+392459	3	24	No Variant	2021-01-04 — 14:41:24 UTC	diael, Plum, wump	93	5	25
+392289	6	29	Black (6 Suits)	2021-01-04 — 06:17:58 UTC	boba, colton, doctorabi, katian, Onen, wump	8	6	30
+392272	6	27	Black (6 Suits)	2021-01-04 — 05:51:03 UTC	boba, colton, doctorabi, Lel0uch, Onen, wump	28	6	30
+392249	3	19	Muddy Rainbow (4 Suits)	2021-01-04 — 05:23:47 UTC	doctorabi, Onen, wump	4	4	20
+391967	5	23	Black (5 Suits)	2021-01-04 — 01:37:47 UTC	antitelharsic, nitawa, Nitrate2, wump, XMIL	9	5	25
+391928	5	24	Light Pink (5 Suits)	2021-01-04 — 00:52:19 UTC	antitelharsic, nitawa, Stinkydude63, wump, XMIL	7	5	25
+391919	4	0	Light Pink (5 Suits)	2021-01-04 — 00:28:18 UTC	antitelharsic, nitawa, wump, XMIL	9	5	25
+391913	4	0	Light Pink (5 Suits)	2021-01-04 — 00:17:20 UTC	antitelharsic, nitawa, wump, XMIL	10	5	25
+391900	4	0	Light Pink (5 Suits)	2021-01-04 — 00:00:37 UTC	antitelharsic, nitawa, wump, XMIL	12	5	25
+391656	5	0	Brown (6 Suits)	2021-01-03 — 20:20:43 UTC	eljavi, Lanvin, Nitrate, nwajfromoz, wump	8	6	30
+391630	5	0	Brown (6 Suits)	2021-01-03 — 19:47:38 UTC	eljavi, Lanvin, Nitrate, nwajfromoz, wump	12	6	30
+391610	4	0	Rainbow & White (6 Suits)	2021-01-03 — 19:25:37 UTC	Lanvin, narabio, sean1815, wump	23	6	30
+391567	5	18	Rainbow (4 Suits)	2021-01-03 — 18:41:13 UTC	Lanvin, Plum, rz, sean1815, wump	9	4	20
+391538	4	26	Black & Rainbow (6 Suits)	2021-01-03 — 18:01:10 UTC	colton, robense, rz, wump	28	6	30
+391517	4	0	Black & Rainbow (6 Suits)	2021-01-03 — 17:19:05 UTC	colton, robense, rz, wump	34	6	30
+391509	4	19	Muddy Rainbow (4 Suits)	2021-01-03 — 17:02:24 UTC	doctorabi, frosty104, rz, wump	8	4	20
+391496	4	20	Pink (4 Suits)	2021-01-03 — 16:35:54 UTC	Lanvin, rz, sin_faith, wump	22	4	20
+391482	4	28	Rainbow (6 Suits)	2021-01-03 — 16:00:35 UTC	kinkajusrevenge, macanek, sean1815, wump	15	6	30
+391460	4	29	Rainbow (6 Suits)	2021-01-03 — 15:12:58 UTC	kinkajusrevenge, macanek, sean1815, wump	15	6	30
+391450	3	0	Rainbow (6 Suits)	2021-01-03 — 14:39:36 UTC	kinkajusrevenge, sean1815, wump	56	6	30
+391445	4	14	Rainbow (3 Suits)	2021-01-03 — 14:28:19 UTC	bob65536, macanek, sean1815, wump	24	3	15
+391216	4	30	Brown (6 Suits)	2021-01-03 — 05:18:20 UTC	duckmedic, JackFrost, ksfortson, wump	14	6	30
+391153	4	0	Brown (6 Suits)	2021-01-03 — 04:43:33 UTC	duckmedic, JackFrost, ksfortson, wump	12	6	30
+391106	5	23	Light Pink (5 Suits)	2021-01-03 — 04:14:30 UTC	duckmedic, indego, ksfortson, rz, wump	7	5	25
+391015	5	23	No Variant	2021-01-03 — 03:15:10 UTC	CaitlinSmith, rahsosprout, torp, wump, wvh	29	5	25
+390950	5	22	Rainbow (5 Suits)	2021-01-03 — 02:31:14 UTC	CaitlinSmith, rahsosprout, torp, wump, wvh	23	5	25
+390923	5	0	Rainbow (5 Suits)	2021-01-03 — 02:10:08 UTC	CaitlinSmith, rahsosprout, torp, wump, wvh	26	5	25
+390906	4	25	Rainbow (5 Suits)	2021-01-03 — 01:50:52 UTC	CaitlinSmith, geenar, rahsosprout, wump	32	5	25
+390874	3	0	Rainbow (5 Suits)	2021-01-03 — 01:30:42 UTC	CaitlinSmith, rahsosprout, wump	57	5	25
+390851	2	19	Rainbow (4 Suits)	2021-01-03 — 01:12:16 UTC	CaitlinSmith, wump	132	4	20
+390408	5	29	Rainbow & White (6 Suits)	2021-01-02 — 18:10:06 UTC	doctorabi, rachyrules, rz, wump, zeinab001	11	6	30
+390384	6	0	Brown (5 Suits)	2021-01-02 — 17:23:40 UTC	bob65536, doctorabi, rachyrules, rz, wump, zeinab001	8	5	25
+390370	3	0	No Variant	2021-01-02 — 17:04:19 UTC	knaphill, wump, zeinab001	101	5	25
+390340	4	24	No Variant	2021-01-02 — 16:29:33 UTC	Doge, knaphill, nkkarpov, wump	63	5	25
+390322	2	25	No Variant	2021-01-02 — 15:47:16 UTC	diael, wump	719	5	25
+390023	3	27	6 Suits	2021-01-02 — 05:03:06 UTC	CaitlinSmith, nwajfromoz, wump	66	6	30
+389987	2	16	White (4 Suits)	2021-01-02 — 04:24:01 UTC	CaitlinSmith, wump	94	4	20
+389966	2	25	No Variant	2021-01-02 — 04:03:50 UTC	CaitlinSmith, wump	78	5	25
+389506	6	30	Pink (6 Suits)	2021-01-01 — 20:26:21 UTC	colton, HelanaAshryvr, JackFrost, macanek, rz, wump	10	6	30
+389476	4	0	Brown (6 Suits)	2021-01-01 — 19:42:55 UTC	colton, JackFrost, macanek, wump	27	6	30
+389205	3	0	Black (5 Suits)	2021-01-01 — 09:31:27 UTC	ksfortson, MarcLovesDogs, wump	68	5	25
+389114	3	30	Black (6 Suits)	2021-01-01 — 08:44:57 UTC	ksfortson, MarcLovesDogs, wump	149	6	30
+389081	2	0	Rainbow (6 Suits)	2021-01-01 — 08:21:58 UTC	ksfortson, wump	269	6	30
+389063	2	24	Rainbow (6 Suits)	2021-01-01 — 08:06:21 UTC	ksfortson, wump	288	6	30
+389011	5	0	White (5 Suits)	2021-01-01 — 07:23:00 UTC	antitelharsic, catula, sin_faith, wump, XMIL	6	5	25
+388667	4	0	Dark Rainbow (6 Suits)	2021-01-01 — 00:58:16 UTC	cockdestroyer, Nitrate2, wump, XMIL	18	6	30
+388646	4	0	Dark Rainbow (6 Suits)	2021-01-01 — 00:27:53 UTC	cockdestroyer, Nitrate2, wump, XMIL	18	6	30
+388630	4	0	Dark Rainbow (6 Suits)	2021-01-01 — 00:15:48 UTC	cockdestroyer, Nitrate2, wump, XMIL	19	6	30
+388392	3	0	Dark Brown (5 Suits)	2020-12-31 — 20:37:25 UTC	nitawa, Nitrate2, wump	11	5	25
+388386	3	22	Dark Brown (5 Suits)	2020-12-31 — 20:29:37 UTC	nitawa, Nitrate2, wump	17	5	25
+388366	3	24	Dark Brown (5 Suits)	2020-12-31 — 20:06:11 UTC	nitawa, Nitrate2, wump	26	5	25
+388302	4	0	Light Pink (6 Suits)	2020-12-31 — 18:08:16 UTC	eljavi, ksfortson, macanek, wump	7	6	30
+388287	4	0	Light Pink (6 Suits)	2020-12-31 — 17:39:03 UTC	eljavi, ksfortson, macanek, wump	8	6	30
+388262	4	23	Light Pink (5 Suits)	2020-12-31 — 17:05:02 UTC	kevincaseytdk1, ksfortson, macanek, wump	20	5	25
+388248	4	0	Rainbow (6 Suits)	2020-12-31 — 16:33:29 UTC	kevincaseytdk1, macanek, narabio, wump	10	6	30
+388201	5	0	Brown-Ones & Cocoa Rainbow (6 Suits)	2020-12-31 — 15:30:51 UTC	jack67889, Kyle, melwen, TimeHoodie, wump	1	6	30
+388059	5	21	Light Pink (5 Suits)	2020-12-31 — 06:15:20 UTC	eljavi, JackFrost, ksfortson, wump, XMIL	11	5	25
+388024	3	23	Light Pink (5 Suits)	2020-12-31 — 05:34:37 UTC	eljavi, ksfortson, wump	13	5	25
+387975	4	0	Light Pink (6 Suits)	2020-12-31 — 04:44:49 UTC	eljavi, ksfortson, rz, wump	13	6	30
+387882	5	21	No Variant	2020-12-31 — 03:41:11 UTC	eljavi, ksfortson, rz, tezeteta, wump	28	5	25
+387820	4	0	No Variant	2020-12-31 — 02:54:06 UTC	eljavi, ksfortson, tezeteta, wump	43	5	25
+387727	4	30	6 Suits	2020-12-31 — 01:56:08 UTC	Doge, oliana, tezeteta, wump	68	6	30
+387683	4	29	6 Suits	2020-12-31 — 01:16:13 UTC	Doge, oliana, tezeteta, wump	151	6	30
+385791	5	0	Prism (6 Suits)	2020-12-29 — 04:39:02 UTC	eljavi, indego, JackFrost, ksfortson, wump	3	6	30
+385759	5	0	Prism (6 Suits)	2020-12-29 — 04:09:55 UTC	eljavi, indego, JackFrost, ksfortson, wump	5	6	30
+385723	6	29	Prism (6 Suits)	2020-12-29 — 03:37:23 UTC	bob65536, eljavi, indego, JackFrost, ksfortson, wump	6	6	30
+385678	5	30	Pink & White (6 Suits)	2020-12-29 — 02:56:35 UTC	bob65536, indego, JackFrost, ksfortson, wump	5	6	30
+385639	4	0	Omni (6 Suits)	2020-12-29 — 02:29:51 UTC	bob65536, JackFrost, ksfortson, wump	19	6	30
+385619	5	0	Omni (6 Suits)	2020-12-29 — 02:18:31 UTC	bob65536, JackFrost, ksfortson, sephiroth, wump	5	6	30
+385599	5	0	Omni (6 Suits)	2020-12-29 — 02:03:56 UTC	bob65536, JackFrost, ksfortson, sephiroth, wump	8	6	30
+385508	4	0	Light Pink (6 Suits)	2020-12-29 — 00:28:21 UTC	jack67889, JackFrost, ksfortson, wump	14	6	30
+385479	4	29	Light Pink (6 Suits)	2020-12-28 — 23:53:50 UTC	jack67889, JackFrost, ksfortson, wump	19	6	30
+385444	5	21	Light Pink (5 Suits)	2020-12-28 — 23:21:32 UTC	jack67889, JackFrost, ksfortson, Onen, wump	12	5	25
+385411	6	25	Brown-Ones (5 Suits)	2020-12-28 — 22:44:51 UTC	jack67889, JackFrost, ksfortson, Onen, Pablo-, wump	2	5	25
+385385	5	25	Brown-Ones (5 Suits)	2020-12-28 — 22:16:19 UTC	JackFrost, ksfortson, Onen, Pablo-, wump	5	5	25
+385346	2	23	No Variant	2020-12-28 — 21:34:43 UTC	Donna, wump	741	5	25
+385243	6	0	6 Suits	2020-12-28 — 20:05:07 UTC	banjoleb, jack_0f_hearts, macanek, rz, witcher, wump	7	6	30
+385204	4	30	Rainbow & Muddy Rainbow (6 Suits)	2020-12-28 — 19:27:29 UTC	jack_0f_hearts, macanek, rz, wump	6	6	30
+385165	3	0	Muddy Rainbow (5 Suits)	2020-12-28 — 18:47:11 UTC	macanek, rz, wump	46	5	25
+385140	4	24	Rainbow & Brown (5 Suits)	2020-12-28 — 18:13:25 UTC	macanek, orucsoraihc, rz, wump	17	5	25
+385106	4	24	No Variant	2020-12-28 — 17:38:56 UTC	Damian000, hanabornoob, macanek, wump	60	5	25
+385071	3	0	Rainbow & Pink (6 Suits)	2020-12-28 — 16:19:09 UTC	asaelr, Wittvector, wump	10	6	30
+385045	3	0	Rainbow & Pink (6 Suits)	2020-12-28 — 15:47:13 UTC	asaelr, Wittvector, wump	12	6	30
+384846	4	24	Rainbow (5 Suits)	2020-12-28 — 07:16:29 UTC	bjnh, ejwu, ksfortson, wump	29	5	25
+384815	5	27	Black (6 Suits)	2020-12-28 — 06:41:15 UTC	bjnh, colton, ejwu, ksfortson, wump	28	6	30
+384759	4	30	Prism (6 Suits)	2020-12-28 — 05:56:16 UTC	colton, ejwu, ksfortson, wump	2	6	30
+384713	4	27	6 Suits	2020-12-28 — 05:13:10 UTC	CaitlinSmith, colton, ksfortson, wump	100	6	30
+384674	5	24	No Variant	2020-12-28 — 04:33:25 UTC	colton, HelanaAshryvr, Lel0uch, rahsosprout, wump	28	5	25
+384641	4	0	No Variant	2020-12-28 — 04:03:50 UTC	bfine, ksfortson, rahsosprout, wump	47	5	25
+384603	5	30	Reversed (6 Suits)	2020-12-28 — 03:34:02 UTC	doctorabi, ejwu, ksfortson, rz, wump	6	6	30
+384550	5	0	Reversed (6 Suits)	2020-12-28 — 02:52:06 UTC	doctorabi, ejwu, ksfortson, rz, wump	14	6	30
+384514	4	0	Omni (6 Suits)	2020-12-28 — 02:16:17 UTC	doctorabi, ksfortson, rz, wump	26	6	30
+384480	4	25	Omni (5 Suits)	2020-12-28 — 01:39:35 UTC	ChristopheAF, ksfortson, orucsoraihc, wump	24	5	25
+384454	3	0	Pink & White (4 Suits)	2020-12-28 — 01:07:48 UTC	ChristopheAF, plus, wump	9	4	20
+384437	3	18	Pink & White (4 Suits)	2020-12-28 — 00:50:26 UTC	ChristopheAF, plus, wump	13	4	20
+384415	3	25	White & Dark Brown (5 Suits)	2020-12-28 — 00:30:47 UTC	MarkusKahlsen, plus, wump	3	5	25
+384399	3	0	White & Dark Brown (5 Suits)	2020-12-28 — 00:12:31 UTC	MarkusKahlsen, plus, wump	4	5	25
+384028	3	22	No Variant	2020-12-27 — 18:47:13 UTC	PMP, sean1815, wump	77	5	25
+383916	4	22	No Variant	2020-12-27 — 15:39:20 UTC	Daryl, narabio, oliana, wump	64	5	25
+383905	5	25	No Variant	2020-12-27 — 15:06:27 UTC	Daryl, indego, kinkajusrevenge, oliana, wump	135	5	25
+383898	4	25	No Variant	2020-12-27 — 14:35:31 UTC	indego, kinkajusrevenge, oliana, wump	70	5	25
+383889	4	25	No Variant	2020-12-27 — 14:00:04 UTC	indego, katian, macanek, wump	74	5	25
+382907	6	20	4 Suits	2020-12-26 — 19:11:19 UTC	banjoleb, eljavi, Lanvin, macanek, orucsoraihc, wump	11	4	20
+382890	4	22	Rainbow-Ones (5 Suits)	2020-12-26 — 18:49:00 UTC	banjoleb, Lanvin, orucsoraihc, wump	12	5	25
+382858	4	0	Rainbow (5 Suits)	2020-12-26 — 18:07:47 UTC	banjoleb, indego, sean1815, wump	42	5	25
+382833	4	20	White (4 Suits)	2020-12-26 — 17:44:01 UTC	indego, oliana, sean1815, wump	20	4	20
+382815	4	20	White-Ones (4 Suits)	2020-12-26 — 17:20:43 UTC	Lanvin, oliana, sean1815, wump	5	4	20
+382800	3	29	6 Suits	2020-12-26 — 16:52:45 UTC	Lanvin, oliana, wump	196	6	30
+382614	4	20	White (4 Suits)	2020-12-26 — 07:38:12 UTC	eljavi, JackFrost, ksfortson, wump	34	4	20
+382588	4	20	Rainbow (4 Suits)	2020-12-26 — 07:13:01 UTC	eljavi, JackFrost, ksfortson, wump	25	4	20
+382572	4	0	Rainbow (4 Suits)	2020-12-26 — 06:48:47 UTC	eljavi, JackFrost, ksfortson, wump	45	4	20
+382557	4	25	No Variant	2020-12-26 — 06:27:24 UTC	eljavi, JackFrost, ksfortson, wump	54	5	25
+382522	4	0	No Variant	2020-12-26 — 05:57:53 UTC	eljavi, JackFrost, ksfortson, wump	70	5	25
+382487	4	22	No Variant	2020-12-26 — 05:27:06 UTC	eljavi, JackFrost, ksfortson, wump	68	5	25
+382446	5	0	No Variant	2020-12-26 — 04:56:08 UTC	eljavi, IsabeltheCat, ksfortson, rz, wump	30	5	25
+382387	5	23	Dual-Color (5 Suits)	2020-12-26 — 04:17:31 UTC	esakach, ksfortson, MarcLovesDogs, rz, wump	15	5	25
+382338	6	0	Dual-Color (5 Suits)	2020-12-26 — 03:36:53 UTC	esakach, IsabeltheCat, ksfortson, MarcLovesDogs, rz, wump	4	5	25
+382289	4	0	Brown (6 Suits)	2020-12-26 — 03:03:19 UTC	esakach, ksfortson, rz, wump	14	6	30
+382267	4	0	Brown (6 Suits)	2020-12-26 — 02:46:31 UTC	esakach, ksfortson, rz, wump	16	6	30
+382240	4	0	Brown (6 Suits)	2020-12-26 — 02:25:23 UTC	esakach, ksfortson, rz, wump	17	6	30
+382228	4	0	Brown (6 Suits)	2020-12-26 — 02:09:52 UTC	esakach, ksfortson, rz, wump	21	6	30
+382188	4	20	Prism (4 Suits)	2020-12-26 — 01:43:23 UTC	eljavi, IsabeltheCat, rz, wump	13	4	20
+382168	4	0	Prism (6 Suits)	2020-12-26 — 01:27:37 UTC	eljavi, IsabeltheCat, Pablo-, wump	2	6	30
+382166	4	27	Prism (6 Suits)	2020-12-26 — 01:21:04 UTC	eljavi, IsabeltheCat, Pablo-, wump	3	6	30
+382043	4	0	Prism Reversed (5 Suits)	2020-12-25 — 22:42:57 UTC	antitelharsic, nitawa, wump, XMIL	3	5	25
+382018	4	0	Prism Reversed (5 Suits)	2020-12-25 — 22:20:56 UTC	antitelharsic, nitawa, wump, XMIL	5	5	25
+381993	3	25	Pink (5 Suits)	2020-12-25 — 21:48:01 UTC	nitawa, wump, XMIL	62	5	25
+381624	5	25	No Variant	2020-12-25 — 07:12:12 UTC	eljavi, esakach, indego, voss, wump	31	5	25
+381593	4	23	No Variant	2020-12-25 — 06:37:34 UTC	eljavi, esakach, indego, wump	88	5	25
+381094	3	24	Rainbow (5 Suits)	2020-12-24 — 21:12:53 UTC	Kernel, macanek, wump	56	5	25
+380868	3	30	Rainbow (6 Suits)	2020-12-24 — 14:18:43 UTC	kinkajusrevenge, tezeteta, wump	61	6	30
+379809	4	23	Rainbow & White (5 Suits)	2020-12-23 — 12:37:02 UTC	frosty104, Lanvin, sean1815, wump	17	5	25
+379729	5	0	Dark Rainbow (6 Suits)	2020-12-23 — 08:26:05 UTC	catula, cockdestroyer, duckmedic, wump, XMIL	33	6	30
+379716	3	24	Brown (5 Suits)	2020-12-23 — 08:01:50 UTC	cockdestroyer, wump, XMIL	16	5	25
+379694	3	0	Brown (3 Suits)	2020-12-23 — 07:33:38 UTC	cockdestroyer, wump, XMIL	37	3	15
+378941	4	24	No Variant	2020-12-22 — 17:51:38 UTC	banjoleb, rz, sean1815, wump	82	5	25
+378921	4	24	No Variant	2020-12-22 — 17:21:18 UTC	Daryl, PMP, sean1815, wump	78	5	25
+378891	5	0	No Variant	2020-12-22 — 16:35:19 UTC	banjoleb, Daryl, Lanvin, sean1815, wump	195	5	25
+378719	3	23	No Variant	2020-12-22 — 09:22:26 UTC	banjoleb, frosty104, wump	98	5	25
+378680	3	0	No Variant	2020-12-22 — 08:41:00 UTC	banjoleb, pianoblook, wump	77	5	25
+378363	4	0	Black & Prism (5 Suits)	2020-12-22 — 03:50:03 UTC	bob65536, ksfortson, rz, wump	10	5	25
+378343	6	13	White (3 Suits)	2020-12-22 — 03:28:12 UTC	bob65536, crixy_osheal, esakach, Lanvin, rz, wump	2	3	15
+378320	6	13	White (3 Suits)	2020-12-22 — 03:09:03 UTC	bob65536, crixy_osheal, esakach, Lanvin, rz, wump	2	3	15
+378297	6	0	6 Suits	2020-12-22 — 02:48:14 UTC	bob65536, crixy_osheal, esakach, Lanvin, rz, wump	16	6	30
+378273	4	19	Rainbow (4 Suits)	2020-12-22 — 02:24:59 UTC	crixy_osheal, esakach, Lanvin, wump	32	4	20
+377853	5	0	Black (5 Suits)	2020-12-21 — 17:16:48 UTC	Fey, jack67889, rz, Sucubis, wump	13	5	25
+377835	3	21	Black (5 Suits)	2020-12-21 — 16:44:38 UTC	Lanvin, Wittvector, wump	55	5	25
+377639	4	25	No Variant	2020-12-21 — 07:11:31 UTC	indego, jack_0f_hearts, ksfortson, wump	79	5	25
+377623	4	24	No Variant	2020-12-21 — 06:48:12 UTC	indego, jack_0f_hearts, ksfortson, wump	81	5	25
+377610	3	0	No Variant	2020-12-21 — 06:23:34 UTC	indego, ksfortson, wump	82	5	25
+377578	3	24	No Variant	2020-12-21 — 05:43:44 UTC	indego, ksfortson, wump	83	5	25
+377557	3	24	No Variant	2020-12-21 — 05:14:47 UTC	indego, ksfortson, wump	97	5	25
+377537	4	0	Brown (6 Suits)	2020-12-21 — 04:46:41 UTC	doctorabi, ksfortson, rz, wump	27	6	30
+377502	5	29	Brown (6 Suits)	2020-12-21 — 04:11:53 UTC	doctorabi, ksfortson, Lanvin, rz, wump	16	6	30
+377455	5	30	Pink (6 Suits)	2020-12-21 — 03:34:33 UTC	doctorabi, ksfortson, Lanvin, rz, wump	9	6	30
+377419	4	0	Black & Prism (5 Suits)	2020-12-21 — 03:03:14 UTC	ksfortson, Lanvin, rz, wump	11	5	25
+377340	3	20	Black & White (5 Suits)	2020-12-21 — 01:56:55 UTC	esakach, Pablo-, wump	31	5	25
+377314	3	0	Black & White (5 Suits)	2020-12-21 — 01:34:04 UTC	esakach, Pablo-, wump	40	5	25
+376848	5	0	Black (5 Suits)	2020-12-20 — 16:59:30 UTC	jack67889, nitawa, Sucubis, wump, XMIL	8	5	25
+376841	5	0	Black (5 Suits)	2020-12-20 — 16:41:25 UTC	jack67889, nitawa, Sucubis, wump, XMIL	11	5	25
+376836	5	21	Black (5 Suits)	2020-12-20 — 16:30:22 UTC	jack67889, nitawa, Sucubis, wump, XMIL	9	5	25
+376825	4	25	Special Mix (5 Suits)	2020-12-20 — 16:06:09 UTC	jack67889, Sucubis, wump, XMIL	15	5	25
+376817	4	25	White-Ones & Brown (5 Suits)	2020-12-20 — 15:44:34 UTC	jack67889, Sucubis, wump, XMIL	1	5	25
+376774	3	30	Pink (6 Suits)	2020-12-20 — 14:12:39 UTC	magikarp, rachyrules, wump	53	6	30
+376572	3	0	Black & Rainbow (5 Suits)	2020-12-20 — 07:31:29 UTC	ksfortson, Onen, wump	58	5	25
+376556	3	25	Black & Gray (6 Suits)	2020-12-20 — 07:10:15 UTC	doctorabi, Onen, wump	10	6	30
+375999	3	24	No Variant	2020-12-19 — 21:24:34 UTC	HariKrishnan, Lanvin, wump	106	5	25
+375910	3	0	Light Pink (5 Suits)	2020-12-19 — 19:57:28 UTC	doctorabi, Lanvin, wump	12	5	25
+375684	5	30	Rainbow (6 Suits)	2020-12-19 — 09:00:27 UTC	antitelharsic, ejwu, ksfortson, pianoblook, wump	59	6	30
+375664	5	25	Brown (5 Suits)	2020-12-19 — 08:21:42 UTC	hughjanus, nitawa, penisman, Stinkydude63, wump	15	5	25
+375638	5	23	Brown (5 Suits)	2020-12-19 — 07:43:59 UTC	hughjanus, nitawa, penisman, Stinkydude63, wump	17	5	25
+374724	4	23	Dark Prism (5 Suits)	2020-12-18 — 15:10:58 UTC	Animex52, cockdestroyer, jack67889, wump	11	5	25
+374713	4	0	Dark Prism (5 Suits)	2020-12-18 — 14:51:10 UTC	Animex52, cockdestroyer, jack67889, wump	13	5	25
+374703	5	0	Dark Prism (5 Suits)	2020-12-18 — 14:36:43 UTC	Animex52, catula, cockdestroyer, jack67889, wump	4	5	25
+374384	5	0	Dark Pink (5 Suits)	2020-12-18 — 03:29:21 UTC	doctorabi, ejwu, frosty104, kodomazer, wump	6	5	25
+374310	5	23	Dark Pink (5 Suits)	2020-12-18 — 03:02:17 UTC	doctorabi, ejwu, frosty104, kodomazer, wump	8	5	25
+373638	3	29	Rainbow (6 Suits)	2020-12-17 — 07:22:32 UTC	3luff, Jarapiri, wump	68	6	30
+373615	3	20	No Variant	2020-12-17 — 06:26:30 UTC	3luff, voss, wump	77	5	25
+373495	4	29	Rainbow (6 Suits)	2020-12-17 — 03:53:40 UTC	eljavi, ksfortson, rz, wump	16	6	30
+373444	4	28	Rainbow (6 Suits)	2020-12-17 — 03:01:36 UTC	eljavi, ksfortson, rz, wump	16	6	30
+373370	3	28	Rainbow (6 Suits)	2020-12-17 — 02:09:09 UTC	eljavi, ksfortson, wump	72	6	30
+373308	4	0	Rainbow (6 Suits)	2020-12-17 — 01:35:27 UTC	eljavi, ksfortson, timotree, wump	19	6	30
+373080	3	23	No Variant	2020-12-16 — 20:49:54 UTC	HariKrishnan, PMP, wump	102	5	25
+373001	4	0	No Variant	2020-12-16 — 20:12:40 UTC	HariKrishnan, Lanvin, supom, wump	90	5	25
+372406	3	24	No Variant	2020-12-16 — 02:18:13 UTC	kinkajusrevenge, ksfortson, wump	82	5	25
+372385	6	0	Brown & Prism (6 Suits)	2020-12-16 — 01:50:22 UTC	duckmedic, Feich59, frosty104, ksfortson, rz, wump	2	6	30
+372365	6	0	Brown & Prism (6 Suits)	2020-12-16 — 01:25:44 UTC	duckmedic, Feich59, frosty104, ksfortson, rz, wump	2	6	30
+372338	4	30	White-Ones (6 Suits)	2020-12-16 — 00:55:49 UTC	duckmedic, ksfortson, rz, wump	9	6	30
+372307	4	24	White & Prism (5 Suits)	2020-12-16 — 00:19:37 UTC	ksfortson, Onen, PMP, wump	14	5	25
+371924	4	25	Rainbow (5 Suits)	2020-12-15 — 15:00:39 UTC	jack67889, Lanvin, Pablo-, wump	38	5	25
+371920	4	0	Rainbow & Pink (6 Suits)	2020-12-15 — 14:28:45 UTC	jack67889, Lanvin, Pablo-, wump	6	6	30
+371828	4	0	White & Dark Prism (6 Suits)	2020-12-15 — 13:29:44 UTC	GemmyBean, katian, Lel0uch, wump	2	6	30
+371809	3	0	White & Prism (6 Suits)	2020-12-15 — 13:20:01 UTC	GemmyBean, Lel0uch, wump	13	6	30
+371787	5	0	Brown (6 Suits)	2020-12-15 — 13:08:06 UTC	catula, derekcheah, GemmyBean, swineherd, wump	5	6	30
+371773	5	0	Brown (6 Suits)	2020-12-15 — 12:59:44 UTC	catula, derekcheah, GemmyBean, swineherd, wump	5	6	30
+371220	5	0	Rainbow & Pink (6 Suits)	2020-12-15 — 00:15:45 UTC	Jake_Stiles, Kyle, solarstar92, Wittvector, wump	10	6	30
+370827	3	0	Dark Rainbow (5 Suits)	2020-12-14 — 13:30:16 UTC	Lanvin, PMP, wump	36	5	25
+370821	3	0	Dark Rainbow (5 Suits)	2020-12-14 — 13:05:06 UTC	Lanvin, PMP, wump	52	5	25
+370814	5	0	Brown (6 Suits)	2020-12-14 — 12:36:40 UTC	catula, eevee, GemmyBean, Sucubis, wump	21	6	30
+370654	4	0	Rainbow (6 Suits)	2020-12-14 — 04:45:59 UTC	duckmedic, Jake_Stiles, rz, wump	7	6	30
+370594	4	27	Rainbow (6 Suits)	2020-12-14 — 03:36:47 UTC	duckmedic, Jake_Stiles, rz, wump	7	6	30
+370530	4	28	Rainbow (6 Suits)	2020-12-14 — 02:25:43 UTC	duckmedic, Jake_Stiles, rz, wump	17	6	30
+370510	4	0	Rainbow (6 Suits)	2020-12-14 — 01:55:15 UTC	duckmedic, Jake_Stiles, rz, wump	17	6	30
+370503	4	0	Rainbow (6 Suits)	2020-12-14 — 01:45:33 UTC	duckmedic, Jake_Stiles, rz, wump	19	6	30
+370472	4	0	Rainbow (6 Suits)	2020-12-14 — 01:17:10 UTC	duckmedic, Jake_Stiles, rz, wump	19	6	30
+369852	5	23	Pink (5 Suits)	2020-12-13 — 13:35:34 UTC	Animex52, hughjanus, nitawa, Sucubis, wump	9	5	25
+369848	5	23	Dark Rainbow (5 Suits)	2020-12-13 — 13:02:20 UTC	Animex52, catula, nitawa, Sucubis, wump	7	5	25
+369843	5	20	Dark Rainbow (5 Suits)	2020-12-13 — 12:35:58 UTC	Animex52, catula, nitawa, Sucubis, wump	9	5	25
+369839	5	0	Dark Rainbow (5 Suits)	2020-12-13 — 12:09:15 UTC	Animex52, catula, nitawa, Sucubis, wump	9	5	25
+369655	4	28	Dual-Color (6 Suits)	2020-12-13 — 05:28:16 UTC	doctorabi, ejwu, orucsoraihc, wump	39	6	30
+369618	5	0	Dual-Color (6 Suits)	2020-12-13 — 04:44:22 UTC	doctorabi, ejwu, orucsoraihc, rz, wump	11	6	30
+369566	4	29	Rainbow (6 Suits)	2020-12-13 — 03:52:56 UTC	doctorabi, duckmedic, rz, wump	19	6	30
+369513	4	0	Rainbow (6 Suits)	2020-12-13 — 03:05:44 UTC	doctorabi, duckmedic, rz, wump	34	6	30
+369409	4	29	Rainbow (6 Suits)	2020-12-13 — 01:14:00 UTC	duckmedic, Jake_Stiles, rz, wump	18	6	30
+369364	4	0	Rainbow (6 Suits)	2020-12-13 — 00:35:29 UTC	duckmedic, Jake_Stiles, rz, wump	19	6	30
+369083	4	0	Dark Rainbow (5 Suits)	2020-12-12 — 19:47:35 UTC	doctorabi, frosty104, rz, wump	9	5	25
+369015	4	24	Dark Rainbow (5 Suits)	2020-12-12 — 18:49:29 UTC	doctorabi, rz, voss, wump	24	5	25
+368996	3	28	Muddy Rainbow (6 Suits)	2020-12-12 — 18:22:00 UTC	Carunty, rz, wump	37	6	30
+368984	3	21	Prism Reversed (5 Suits)	2020-12-12 — 17:57:02 UTC	Carunty, Feich59, wump	11	5	25
+368268	4	0	Rainbow (6 Suits)	2020-12-12 — 01:19:47 UTC	doctorabi, duckmedic, rz, wump	34	6	30
+368241	4	0	Rainbow (6 Suits)	2020-12-12 — 00:43:17 UTC	doctorabi, duckmedic, rz, wump	50	6	30
+368214	3	0	Rainbow (6 Suits)	2020-12-12 — 00:14:44 UTC	duckmedic, rz, wump	74	6	30
+368195	4	0	Dual-Color & White (6 Suits)	2020-12-11 — 23:40:20 UTC	JackFrost, Pablo-, robense, wump	6	6	30
+368181	4	30	Dual-Color & White (6 Suits)	2020-12-11 — 23:20:00 UTC	JackFrost, Pablo-, robense, wump	6	6	30
+367807	3	0	Black (6 Suits)	2020-12-11 — 14:47:56 UTC	Carunty, GemmyBean, wump	193	6	30
+367547	4	28	Rainbow (6 Suits)	2020-12-11 — 05:43:25 UTC	duckmedic, Jake_Stiles, rz, wump	8	6	30
+367486	4	30	Rainbow (6 Suits)	2020-12-11 — 04:16:50 UTC	duckmedic, Jake_Stiles, rz, wump	7	6	30
+367413	4	30	Rainbow (6 Suits)	2020-12-11 — 03:12:53 UTC	duckmedic, Jake_Stiles, rz, wump	20	6	30
+367350	4	0	Rainbow (6 Suits)	2020-12-11 — 02:31:11 UTC	duckmedic, Jake_Stiles, rz, wump	22	6	30
+367323	4	0	Rainbow (6 Suits)	2020-12-11 — 01:59:04 UTC	duckmedic, Jake_Stiles, rz, wump	23	6	30
+366810	5	28	Pink & White (6 Suits)	2020-12-10 — 16:25:30 UTC	ChristopheAF, melwen, Nitrate2, Pablo-, wump	5	6	30
+366791	3	0	Black (5 Suits)	2020-12-10 — 14:26:16 UTC	bob65536, Feich59, wump	71	5	25
+366444	4	0	Rainbow (6 Suits)	2020-12-10 — 02:32:42 UTC	duckmedic, Jake_Stiles, rz, wump	26	6	30
+366427	4	0	Rainbow (6 Suits)	2020-12-10 — 02:00:20 UTC	duckmedic, Jake_Stiles, rz, wump	26	6	30
+366416	4	0	Rainbow (6 Suits)	2020-12-10 — 01:40:09 UTC	duckmedic, Jake_Stiles, rz, wump	34	6	30
+366411	4	0	Rainbow (6 Suits)	2020-12-10 — 01:27:52 UTC	duckmedic, Jake_Stiles, rz, wump	35	6	30
+366404	4	30	Rainbow (6 Suits)	2020-12-10 — 01:04:38 UTC	duckmedic, Jake_Stiles, rz, wump	38	6	30
+366360	6	24	Rainbow (5 Suits)	2020-12-09 — 23:49:10 UTC	cockdestroyer, ejwu, nitawa, Nitrate2, wump, XMIL	14	5	25
+366313	4	23	Duck (5 Suits)	2020-12-09 — 23:00:33 UTC	duckmedic, ejwu, nitawa, wump	5	5	25
+365231	4	0	Rainbow (6 Suits)	2020-12-09 — 02:42:19 UTC	doctorabi, Jake_Stiles, rz, wump	37	6	30
+365136	3	0	Rainbow (6 Suits)	2020-12-09 — 01:49:33 UTC	Jake_Stiles, rz, wump	91	6	30
+365073	4	0	Rainbow (6 Suits)	2020-12-09 — 01:10:19 UTC	ejwu, Jake_Stiles, rz, wump	38	6	30
+364998	3	29	Pink (6 Suits)	2020-12-08 — 23:19:52 UTC	ricardodd, Wittvector, wump	92	6	30
+364977	3	0	Pink (6 Suits)	2020-12-08 — 22:54:19 UTC	ricardodd, Wittvector, wump	131	6	30
+364584	4	20	4 Suits	2020-12-08 — 14:03:19 UTC	katian, Lanvin, macanek, wump	101	4	20
+364565	5	0	Dark Brown (6 Suits)	2020-12-08 — 12:50:27 UTC	catula, jack67889, Lanvin, sin_faith, wump	10	6	30
+364530	5	23	No Variant	2020-12-08 — 09:27:12 UTC	BillaVGC, eljavi, macanek, narabio, wump	344	5	25
+364522	3	24	No Variant	2020-12-08 — 08:44:46 UTC	BillaVGC, eljavi, wump	106	5	25
+364183	4	29	Rainbow (6 Suits)	2020-12-08 — 02:11:19 UTC	duckmedic, Jake_Stiles, rz, wump	38	6	30
+364146	4	0	Rainbow (6 Suits)	2020-12-08 — 01:26:18 UTC	duckmedic, Jake_Stiles, rz, wump	39	6	30
+364134	4	0	Rainbow (6 Suits)	2020-12-08 — 01:14:44 UTC	duckmedic, Jake_Stiles, rz, wump	41	6	30
+364125	4	25	Rainbow (6 Suits)	2020-12-08 — 01:00:07 UTC	duckmedic, Jake_Stiles, rz, wump	44	6	30
+364087	4	0	Rainbow (6 Suits)	2020-12-08 — 00:13:50 UTC	duckmedic, Jake_Stiles, rz, wump	47	6	30
+363967	4	23	Special Mix (5 Suits)	2020-12-07 — 21:19:55 UTC	duckmedic, nitawa, wump, XMIL	25	5	25
+363909	4	0	Special Mix (5 Suits)	2020-12-07 — 20:38:09 UTC	duckmedic, penisman, wump, XMIL	39	5	25
+363893	4	24	Null-Ones (5 Suits)	2020-12-07 — 20:25:18 UTC	duckmedic, penisman, wump, XMIL	7	5	25
+363840	4	0	No Variant	2020-12-07 — 19:45:10 UTC	nitawa, penisman, wump, XMIL	55	5	25
+363816	3	0	No Variant	2020-12-07 — 19:15:16 UTC	antitelharsic, nitawa, wump	40	5	25
+363031	5	0	6 Suits	2020-12-07 — 01:55:17 UTC	bob65536, frosty104, JackFrost, ksfortson, wump	23	6	30
+362981	5	27	6 Suits	2020-12-07 — 00:59:50 UTC	bob65536, frosty104, JackFrost, ksfortson, wump	31	6	30
+362917	6	0	6 Suits	2020-12-07 — 00:13:18 UTC	bob65536, frosty104, JackFrost, ksfortson, wump, xmaiton	19	6	30
+362878	6	0	Dark Brown (6 Suits)	2020-12-06 — 23:39:05 UTC	doctorabi, frosty104, JackFrost, jeff10, ksfortson, wump	4	6	30
+362862	4	23	Dark Brown (5 Suits)	2020-12-06 — 23:13:41 UTC	doctorabi, frosty104, JackFrost, wump	14	5	25
+362844	3	0	Rainbow (5 Suits)	2020-12-06 — 22:57:39 UTC	frosty104, JackFrost, wump	74	5	25
+362835	5	0	Brown (5 Suits)	2020-12-06 — 22:49:07 UTC	doctorabi, frosty104, JackFrost, Lanvin, wump	24	5	25
+362707	2	25	Dark Pink (5 Suits)	2020-12-06 — 20:45:49 UTC	doctorabi, wump	58	5	25
+362435	3	0	Cow & Pig (5 Suits)	2020-12-06 — 12:24:33 UTC	cute_girl, duckmedic, wump	13	5	25
+362426	3	0	Cow & Pig (5 Suits)	2020-12-06 — 11:56:11 UTC	cute_girl, duckmedic, wump	18	5	25
+362425	3	0	Cow & Pig (5 Suits)	2020-12-06 — 11:51:33 UTC	cute_girl, duckmedic, wump	33	5	25
+362421	4	0	Cow & Pig (5 Suits)	2020-12-06 — 11:36:05 UTC	catula, nitawa, penisman, wump	12	5	25
+362405	4	27	Black (6 Suits)	2020-12-06 — 10:57:48 UTC	catula, cute_girl, nitawa, wump	128	6	30
+362241	3	25	No Variant	2020-12-06 — 06:35:23 UTC	eljavi, ksfortson, wump	109	5	25
+362226	4	0	No Variant	2020-12-06 — 06:06:12 UTC	eljavi, ksfortson, Onen, wump	97	5	25
+362215	3	0	White (4 Suits)	2020-12-06 — 05:57:57 UTC	ksfortson, Onen, wump	59	4	20
+361903	4	0	White & Gray Pink (6 Suits)	2020-12-06 — 00:21:26 UTC	duckmedic, ejwu, JackFrost, wump	7	6	30
+361874	3	29	White & Gray Pink (6 Suits)	2020-12-05 — 23:39:30 UTC	ejwu, JackFrost, wump	5	6	30
+361852	6	0	Muddy Rainbow (5 Suits)	2020-12-05 — 23:02:37 UTC	derekcheah, Floriman, JackFrost, jeff10, kimbifille, wump	3	5	25
+361820	3	15	3 Suits	2020-12-05 — 22:25:50 UTC	bob65536, eljavi, wump	74	3	15
+361793	4	23	No Variant	2020-12-05 — 21:53:15 UTC	carpdiem, JackFrost, Lanvin, wump	99	5	25
+361294	4	29	Rainbow (6 Suits)	2020-12-05 — 04:57:50 UTC	eljavi, JackFrost, ricardodd, wump	57	6	30
+361057	4	30	Rainbow (6 Suits)	2020-12-05 — 02:38:12 UTC	duckmedic, Jake_Stiles, rz, wump	47	6	30
+361008	4	0	Rainbow (6 Suits)	2020-12-05 — 01:45:41 UTC	duckmedic, Jake_Stiles, rz, wump	53	6	30
+360724	4	30	Gray (6 Suits)	2020-12-04 — 20:23:23 UTC	doctorabi, Nitrate2, Pablo-, wump	6	6	30
+360698	6	0	Dark Rainbow (5 Suits)	2020-12-04 — 19:52:13 UTC	bjnh, doctorabi, hakha3, ricardodd, rz, wump	5	5	25
+360160	4	0	Rainbow (6 Suits)	2020-12-04 — 02:32:56 UTC	Jake_Stiles, orucsoraihc, rz, wump	50	6	30
+360131	4	0	Rainbow (6 Suits)	2020-12-04 — 01:39:17 UTC	ejwu, Jake_Stiles, rz, wump	70	6	30
+360103	3	28	Rainbow (6 Suits)	2020-12-04 — 00:42:14 UTC	Jake_Stiles, rz, wump	91	6	30
+360058	3	0	Duck (5 Suits)	2020-12-03 — 23:36:00 UTC	nitawa, penisman, wump	15	5	25
+360044	3	0	Duck (5 Suits)	2020-12-03 — 23:20:08 UTC	nitawa, penisman, wump	14	5	25
+360017	4	0	Duck (5 Suits)	2020-12-03 — 22:49:04 UTC	doctorabi, nitawa, penisman, wump	4	5	25
+359326	4	28	Rainbow (6 Suits)	2020-12-03 — 01:35:30 UTC	duckmedic, Jake_Stiles, rz, wump	55	6	30
+359304	4	0	Rainbow (6 Suits)	2020-12-03 — 00:43:17 UTC	duckmedic, Jake_Stiles, rz, wump	63	6	30
+359292	4	0	Rainbow (6 Suits)	2020-12-03 — 00:19:52 UTC	duckmedic, Jake_Stiles, rz, wump	65	6	30
+358882	3	25	No Variant	2020-12-02 — 09:52:57 UTC	Lel0uch, macanek, wump	112	5	25
+358868	5	0	Light Pink (4 Suits)	2020-12-02 — 08:32:33 UTC	Carunty, frosty104, Lel0uch, StKildaFan, wump	4	4	20
+358865	5	0	Black (6 Suits)	2020-12-02 — 08:03:10 UTC	Carunty, frosty104, ksfortson, micerang, wump	23	6	30
+358862	5	0	Black (6 Suits)	2020-12-02 — 07:49:28 UTC	Carunty, frosty104, ksfortson, micerang, wump	35	6	30
+358605	5	23	No Variant	2020-12-02 — 00:43:40 UTC	HelanaAshryvr, Pablo-, rz, superbipbip, wump	31	5	25
+358595	6	25	White-Ones (5 Suits)	2020-12-02 — 00:03:35 UTC	ChristopheAF, Kyle, Pablo-, rz, superbipbip, wump	3	5	25
+358580	5	23	No Variant	2020-12-01 — 23:22:58 UTC	ChristopheAF, ksfortson, MarcLovesDogs, superbipbip, wump	28	5	25
+358558	4	23	Rainbow (5 Suits)	2020-12-01 — 22:45:24 UTC	MarcLovesDogs, Minja100, Onen, wump	68	5	25
+358161	4	15	White (3 Suits)	2020-12-01 — 08:39:12 UTC	Carunty, frosty104, Lel0uch, wump	27	3	15
+358155	3	20	Brown (4 Suits)	2020-12-01 — 08:21:00 UTC	Carunty, frosty104, wump	47	4	20
+358082	5	0	Rainbow (6 Suits)	2020-12-01 — 05:18:10 UTC	duckmedic, ejwu, Onen, rz, wump	42	6	30
+358056	3	27	Rainbow (6 Suits)	2020-12-01 — 04:32:47 UTC	duckmedic, rz, wump	75	6	30
+357986	3	0	Pink & Cocoa Rainbow (5 Suits)	2020-12-01 — 03:28:42 UTC	doctorabi, frosty104, wump	2	5	25
+357960	3	0	Pink & Cocoa Rainbow (5 Suits)	2020-12-01 — 03:10:28 UTC	doctorabi, frosty104, wump	3	5	25
+357940	3	0	Pink & Cocoa Rainbow (5 Suits)	2020-12-01 — 02:53:49 UTC	doctorabi, frosty104, wump	7	5	25
+357262	3	20	Rainbow & Prism (4 Suits)	2020-11-30 — 04:04:54 UTC	doctorabi, frosty104, wump	3	4	20
+357063	4	22	Cocoa Rainbow (5 Suits)	2020-11-30 — 01:03:18 UTC	doctorabi, ejwu, Veexliat, wump	8	5	25
+357045	4	0	Cocoa Rainbow (5 Suits)	2020-11-30 — 00:39:56 UTC	doctorabi, ejwu, Veexliat, wump	7	5	25
+357038	4	0	Cocoa Rainbow (5 Suits)	2020-11-30 — 00:29:25 UTC	duckmedic, ejwu, Veexliat, wump	20	5	25
+357031	5	0	Cocoa Rainbow (5 Suits)	2020-11-30 — 00:19:08 UTC	doctorabi, duckmedic, ejwu, Veexliat, wump	9	5	25
+357018	5	24	No Variant	2020-11-29 — 23:50:24 UTC	bob65536, doctorabi, duckmedic, Veexliat, wump	383	5	25
+356999	4	24	No Variant	2020-11-29 — 23:15:31 UTC	bob65536, duckmedic, macanek, wump	129	5	25
+356963	4	22	Cocoa Rainbow (5 Suits)	2020-11-29 — 22:42:23 UTC	asaelr, doctorabi, swineherd, wump	5	5	25
+356946	4	0	Cocoa Rainbow (5 Suits)	2020-11-29 — 22:23:55 UTC	asaelr, doctorabi, swineherd, wump	5	5	25
+356938	4	0	Cocoa Rainbow (5 Suits)	2020-11-29 — 22:17:01 UTC	asaelr, doctorabi, swineherd, wump	5	5	25
+356927	4	0	Cocoa Rainbow (5 Suits)	2020-11-29 — 22:06:26 UTC	asaelr, doctorabi, swineherd, wump	10	5	25
+356919	4	0	Cocoa Rainbow (5 Suits)	2020-11-29 — 21:57:48 UTC	asaelr, doctorabi, swineherd, wump	14	5	25
+356906	4	0	Cocoa Rainbow (5 Suits)	2020-11-29 — 21:46:56 UTC	asaelr, doctorabi, swineherd, wump	15	5	25
+356896	4	23	Cocoa Rainbow (5 Suits)	2020-11-29 — 21:38:01 UTC	asaelr, doctorabi, swineherd, wump	15	5	25
+356443	4	30	Muddy Rainbow (6 Suits)	2020-11-29 — 03:34:01 UTC	Kyle, rz, Smandon, wump	4	6	30
+356405	6	26	Rainbow (6 Suits)	2020-11-29 — 02:57:39 UTC	frosty104, Kyle, rz, Smandon, TimeHoodie, wump	4	6	30
+356372	3	28	Rainbow (6 Suits)	2020-11-29 — 02:19:23 UTC	frosty104, rz, wump	102	6	30
+356249	3	23	No Variant	2020-11-28 — 23:08:25 UTC	macanek, Onen, wump	119	5	25
+356229	4	25	Brown (5 Suits)	2020-11-28 — 22:28:31 UTC	bob65536, frosty104, Onen, wump	46	5	25
+355835	3	0	Dark Pink (5 Suits)	2020-11-28 — 09:34:22 UTC	doctorabi, frosty104, wump	19	5	25
+355832	3	22	Dark Pink (5 Suits)	2020-11-28 — 09:08:11 UTC	doctorabi, frosty104, wump	22	5	25
+355826	4	25	Light Pink (5 Suits)	2020-11-28 — 08:41:42 UTC	frosty104, ksfortson, micerang, wump	2	5	25
+355821	4	20	White Reversed (4 Suits)	2020-11-28 — 08:17:19 UTC	frosty104, kevincaseytdk1, ksfortson, wump	5	4	20
+355817	4	25	White (5 Suits)	2020-11-28 — 07:53:19 UTC	frosty104, kevincaseytdk1, ksfortson, wump	60	5	25
+355809	4	25	White (5 Suits)	2020-11-28 — 06:59:53 UTC	Fey, ksfortson, StKildaFan, wump	31	5	25
+355589	5	27	Black (6 Suits)	2020-11-28 — 02:56:31 UTC	ejwu, spartacle, voss, willwin4sure, wump	58	6	30
+354260	3	13	3 Suits	2020-11-26 — 07:31:41 UTC	frosty104, JackFrost, wump	88	3	15
+354254	4	0	3 Suits	2020-11-26 — 07:20:00 UTC	frosty104, JackFrost, Onen, wump	49	3	15
+353899	3	23	No Variant	2020-11-25 — 23:53:22 UTC	orucsoraihc, voss, wump	110	5	25
+353875	3	25	Up or Down & Rainbow (5 Suits)	2020-11-25 — 23:14:45 UTC	ejwu, Onen, wump	23	5	25
+353823	3	28	Brown & Light Pink (6 Suits)	2020-11-25 — 21:38:38 UTC	Div, doctorabi, wump	3	6	30
+353801	3	0	Brown & Light Pink (6 Suits)	2020-11-25 — 21:13:09 UTC	Div, doctorabi, wump	4	6	30
+353416	4	27	Black (6 Suits)	2020-11-25 — 09:09:07 UTC	frosty104, ksfortson, piper, wump	175	6	30
+353410	5	30	Black (6 Suits)	2020-11-25 — 08:32:59 UTC	Carunty, frosty104, orucsoraihc, StKildaFan, wump	23	6	30
+353406	6	30	6 Suits	2020-11-25 — 08:01:17 UTC	Carunty, doctorabi, frosty104, Lel0uch, StKildaFan, wump	8	6	30
+353405	6	0	6 Suits	2020-11-25 — 07:42:26 UTC	Carunty, doctorabi, frosty104, Lel0uch, StKildaFan, wump	50	6	30
+353136	5	0	Rainbow & Prism (5 Suits)	2020-11-25 — 02:03:15 UTC	doctorabi, JackFrost, rz, TimeHoodie, wump	2	5	25
+353119	5	0	Rainbow & Prism (5 Suits)	2020-11-25 — 01:39:24 UTC	doctorabi, JackFrost, rz, TimeHoodie, wump	3	5	25
+353105	4	0	Rainbow & Prism (5 Suits)	2020-11-25 — 01:11:06 UTC	doctorabi, rz, TimeHoodie, wump	2	5	25
+353095	3	16	Prism (4 Suits)	2020-11-25 — 00:49:52 UTC	Onen, TimeHoodie, wump	27	4	20
+353035	4	0	Rainbow & Prism (5 Suits)	2020-11-24 — 22:04:24 UTC	doctorabi, jack67889, mattnabi, wump	4	5	25
+353016	5	21	Black & Prism (5 Suits)	2020-11-24 — 21:43:43 UTC	avanderwalde, jack67889, mattnabi, TimeHoodie, wump	2	5	25
+352991	3	22	Up or Down (5 Suits)	2020-11-24 — 21:13:30 UTC	Onen, TimeHoodie, wump	113	5	25
+352962	3	0	Pink (4 Suits)	2020-11-24 — 20:53:42 UTC	Onen, TimeHoodie, wump	12	4	20
+352947	3	0	Pink (4 Suits)	2020-11-24 — 20:44:25 UTC	Onen, TimeHoodie, wump	17	4	20
+352401	6	30	Rainbow & Prism (6 Suits)	2020-11-24 — 07:43:31 UTC	asaelr, Carunty, doctorabi, frosty104, micerang, wump	3	6	30
+352398	6	0	Muddy Rainbow & Prism (6 Suits)	2020-11-24 — 07:09:15 UTC	Carunty, doctorabi, frosty104, micerang, rz, wump	1	6	30
+352394	6	0	Muddy Rainbow & Prism (6 Suits)	2020-11-24 — 06:56:19 UTC	Carunty, doctorabi, frosty104, micerang, rz, wump	1	6	30
+352385	5	23	No Variant	2020-11-24 — 06:23:42 UTC	Carunty, frosty104, ProfNinja, rz, wump	31	5	25
+352351	3	30	Pink & Light Pink (6 Suits)	2020-11-24 — 05:44:50 UTC	frosty104, rz, wump	6	6	30
+352326	3	20	Rainbow (4 Suits)	2020-11-24 — 05:15:25 UTC	frosty104, JackFrost, wump	68	4	20
+352311	3	0	Rainbow (4 Suits)	2020-11-24 — 04:49:48 UTC	frosty104, JackFrost, wump	84	4	20
+351830	2	15	White & Light Pink (3 Suits)	2020-11-23 — 19:28:29 UTC	Div, wump	10	3	15
+351825	2	0	White & Light Pink (3 Suits)	2020-11-23 — 19:15:55 UTC	Div, wump	10	3	15
+351611	4	25	No Variant	2020-11-23 — 07:18:02 UTC	doctorabi, orucsoraihc, sin_faith, wump	36	5	25
+351609	3	0	Muddy Rainbow & Dark Prism (6 Suits)	2020-11-23 — 06:57:12 UTC	doctorabi, sin_faith, wump	1	6	30
+351605	3	0	Muddy Rainbow & Dark Prism (6 Suits)	2020-11-23 — 06:44:16 UTC	doctorabi, sin_faith, wump	2	6	30
+351561	5	0	Ambiguous (6 Suits)	2020-11-23 — 05:05:14 UTC	doctorabi, duckmedic, frosty104, JackFrost, wump	18	6	30
+351543	5	0	Ambiguous (6 Suits)	2020-11-23 — 04:39:37 UTC	doctorabi, duckmedic, frosty104, JackFrost, wump	19	6	30
+351517	4	25	Black (5 Suits)	2020-11-23 — 04:16:01 UTC	Feich59, jeff10, ksfortson, wump	28	5	25
+351477	2	24	Black (5 Suits)	2020-11-23 — 03:43:54 UTC	ksfortson, wump	169	5	25
+351092	4	0	No Variant	2020-11-22 — 22:23:35 UTC	duckmedic, ksfortson, rz, wump	103	5	25
+351079	5	0	No Variant	2020-11-22 — 21:53:15 UTC	anser, duckmedic, ksfortson, rz, wump	38	5	25
+351072	5	0	No Variant	2020-11-22 — 21:47:00 UTC	anser, duckmedic, ksfortson, rz, wump	41	5	25
+351039	4	0	Gray Pink (5 Suits)	2020-11-22 — 21:21:45 UTC	anser, duckmedic, Kyle, wump	1	5	25
+351016	4	0	Gray Pink (5 Suits)	2020-11-22 — 21:00:40 UTC	anser, duckmedic, Kyle, wump	1	5	25
+350985	4	30	Pink (6 Suits)	2020-11-22 — 20:33:25 UTC	duckmedic, rachyrules, rz, wump	35	6	30
+350931	2	25	Deceptive-Ones (5 Suits)	2020-11-22 — 19:37:13 UTC	rz, wump	21	5	25
+350921	2	0	Deceptive-Ones (5 Suits)	2020-11-22 — 19:23:27 UTC	rz, wump	27	5	25
+350905	2	0	Gray (5 Suits)	2020-11-22 — 19:05:06 UTC	Kyle, wump	33	5	25
+350904	2	0	Gray (5 Suits)	2020-11-22 — 19:04:35 UTC	Kyle, wump	39	5	25
+350902	2	0	Gray (5 Suits)	2020-11-22 — 19:01:46 UTC	Kyle, wump	51	5	25
+350895	2	24	Gray (5 Suits)	2020-11-22 — 18:56:19 UTC	Kyle, wump	58	5	25
+350890	2	23	Gray (5 Suits)	2020-11-22 — 18:48:55 UTC	Kyle, wump	66	5	25
+350882	2	0	Gray (5 Suits)	2020-11-22 — 18:41:28 UTC	Kyle, wump	79	5	25
+350656	5	21	No Variant	2020-11-22 — 08:56:28 UTC	duckmedic, ksfortson, orucsoraihc, rz, wump	51	5	25
+350646	5	0	Prism (6 Suits)	2020-11-22 — 08:23:27 UTC	duckmedic, ksfortson, orucsoraihc, rz, wump	5	6	30
+350639	5	0	Prism (6 Suits)	2020-11-22 — 08:09:09 UTC	duckmedic, ksfortson, orucsoraihc, rz, wump	5	6	30
+350638	5	0	Prism (6 Suits)	2020-11-22 — 08:06:08 UTC	duckmedic, ksfortson, orucsoraihc, rz, wump	7	6	30
+350623	5	20	Special Mix (5 Suits)	2020-11-22 — 07:28:33 UTC	duckmedic, ksfortson, orucsoraihc, rz, wump	16	5	25
+350591	4	20	Up or Down (5 Suits)	2020-11-22 — 06:42:00 UTC	brendonitis, duckmedic, Onen, wump	25	5	25
+350571	4	25	Reversed (5 Suits)	2020-11-22 — 06:13:49 UTC	brendonitis, catula, Onen, wump	5	5	25
+350411	3	25	Prism (5 Suits)	2020-11-22 — 04:10:32 UTC	colton, ksfortson, wump	3	5	25
+350211	5	23	Muddy Rainbow (5 Suits)	2020-11-22 — 01:18:29 UTC	Carunty, doctorabi, frosty104, rz, wump	9	5	25
+350165	4	0	No Variant	2020-11-22 — 00:37:30 UTC	Carunty, Kyle, rmitra5, wump	17	5	25
+350136	3	24	No Variant	2020-11-22 — 00:12:32 UTC	Kyle, rmitra5, wump	56	5	25
+350111	3	0	No Variant	2020-11-21 — 23:44:14 UTC	ksfortson, rmitra5, wump	111	5	25
+350100	4	0	No Variant	2020-11-21 — 23:27:20 UTC	ksfortson, Onen, rmitra5, wump	130	5	25
+350085	3	0	6 Suits	2020-11-21 — 23:08:38 UTC	brendonitis, rmitra5, wump	305	6	30
+350044	6	0	No Variant	2020-11-21 — 22:37:13 UTC	brendonitis, I_am_a_L00Zer, JackFrost, rachyrules, sylvan_rose, wump	75	5	25
+349584	5	25	Black (6 Suits)	2020-11-21 — 08:07:24 UTC	Carunty, frosty104, JackFrost, ksfortson, wump	48	6	30
+349547	3	25	Rainbow (5 Suits)	2020-11-21 — 07:09:30 UTC	doctorabi, ksfortson, wump	185	5	25
+349527	5	0	Rainbow (4 Suits)	2020-11-21 — 06:44:36 UTC	catula, doctorabi, duckmedic, ksfortson, wump	10	4	20
+349502	4	0	6 Suits	2020-11-21 — 06:14:07 UTC	catula, doctorabi, duckmedic, wump	120	6	30
+348786	5	24	White & Brown (5 Suits)	2020-11-20 — 19:44:21 UTC	doctorabi, rz, sin_faith, Sucubis, wump	6	5	25
+348760	5	0	White & Brown (5 Suits)	2020-11-20 — 19:01:05 UTC	doctorabi, ebin_noob, Fey, sin_faith, wump	8	5	25
+348577	5	30	Muddy Rainbow (6 Suits)	2020-11-20 — 09:54:10 UTC	frosty104, Pablo-, pianoblook, rz, wump	7	6	30
+348566	5	0	Muddy Rainbow (6 Suits)	2020-11-20 — 09:18:03 UTC	frosty104, Pablo-, pianoblook, rz, wump	6	6	30
+348556	4	0	White & Brown (5 Suits)	2020-11-20 — 08:39:30 UTC	doctorabi, frosty104, rz, wump	8	5	25
+348498	5	0	Rainbow (5 Suits)	2020-11-20 — 05:52:09 UTC	Carunty, duckmedic, JackFrost, Onen, wump	54	5	25
+348403	4	0	Black (5 Suits)	2020-11-20 — 04:11:32 UTC	Carunty, JackFrost, ksfortson, wump	63	5	25
+348378	3	0	Rainbow (3 Suits)	2020-11-20 — 03:39:13 UTC	jeff10, ksfortson, wump	43	3	15
+348370	3	0	Rainbow (3 Suits)	2020-11-20 — 03:30:14 UTC	jeff10, ksfortson, wump	53	3	15
+348344	3	14	Prism (3 Suits)	2020-11-20 — 03:02:36 UTC	doctorabi, jeff10, wump	10	3	15
+348332	3	0	Prism (3 Suits)	2020-11-20 — 02:46:00 UTC	doctorabi, jeff10, wump	20	3	15
+347941	3	29	Black (6 Suits)	2020-11-19 — 20:00:32 UTC	jack67889, timotree, wump	125	6	30
+347927	3	0	Black (6 Suits)	2020-11-19 — 19:34:09 UTC	jack67889, timotree, wump	134	6	30
+347914	3	28	Black (6 Suits)	2020-11-19 — 19:08:34 UTC	jack67889, timotree, wump	172	6	30
+347887	5	19	Black (5 Suits)	2020-11-19 — 18:31:00 UTC	Onen, rachyrules, rz, TimeHoodie, wump	27	5	25
+347855	5	0	Black (5 Suits)	2020-11-19 — 18:02:54 UTC	Fey, Onen, rz, TimeHoodie, wump	12	5	25
+347851	5	23	Black (5 Suits)	2020-11-19 — 17:59:04 UTC	Fey, Onen, rz, TimeHoodie, wump	13	5	25
+347840	4	0	Muddy Rainbow (6 Suits)	2020-11-19 — 17:37:29 UTC	Bonja97, Fey, Lel0uch, wump	19	6	30
+347705	4	23	Rainbow (5 Suits)	2020-11-19 — 07:54:43 UTC	doctorabi, JackFrost, ksfortson, wump	54	5	25
+347696	4	0	Rainbow (5 Suits)	2020-11-19 — 07:24:55 UTC	doctorabi, JackFrost, ksfortson, wump	63	5	25
+347680	4	0	Rainbow (5 Suits)	2020-11-19 — 07:01:28 UTC	doctorabi, JackFrost, ksfortson, wump	92	5	25
+347673	5	0	Pink (5 Suits)	2020-11-19 — 06:37:56 UTC	Carunty, doctorabi, JackFrost, sephiroth, wump	7	5	25
+347664	4	0	Reversed (5 Suits)	2020-11-19 — 06:14:12 UTC	doctorabi, JackFrost, ksfortson, wump	4	5	25
+347656	4	22	Reversed (5 Suits)	2020-11-19 — 05:51:57 UTC	doctorabi, JackFrost, ksfortson, wump	6	5	25
+347639	4	21	Up or Down (5 Suits)	2020-11-19 — 05:18:29 UTC	doctorabi, ksfortson, Onen, wump	52	5	25
+347366	3	23	White & Brown (5 Suits)	2020-11-18 — 23:36:30 UTC	kevincaseytdk1, Onen, wump	15	5	25
+347345	4	23	White & Brown (5 Suits)	2020-11-18 — 23:00:25 UTC	doctorabi, kevincaseytdk1, Onen, wump	18	5	25
+347235	4	30	6 Suits	2020-11-18 — 20:24:42 UTC	colton, hailey, Kernel, wump	354	6	30
+347157	4	0	Dual-Color & White (6 Suits)	2020-11-18 — 18:42:55 UTC	Onen, orucsoraihc, rz, wump	8	6	30
+347128	5	25	No Variant	2020-11-18 — 18:04:57 UTC	Lel0uch, Onen, orucsoraihc, rz, wump	60	5	25
+347121	5	17	Rainbow Reversed (4 Suits)	2020-11-18 — 17:47:55 UTC	doctorabi, Kyle, Lel0uch, Onen, wump	2	4	20
+347114	4	30	Reversed (6 Suits)	2020-11-18 — 17:21:32 UTC	doctorabi, Kyle, Lel0uch, wump	12	6	30
+347096	3	22	Clue Starved & Pink (5 Suits)	2020-11-18 — 16:49:49 UTC	Kyle, pianoblook, wump	2	5	25
+347004	5	0	Up or Down (5 Suits)	2020-11-18 — 07:57:39 UTC	kevincaseytdk1, ksfortson, Lel0uch, Onen, wump	8	5	25
+346990	5	25	Rainbow & Prism (5 Suits)	2020-11-18 — 07:23:33 UTC	doctorabi, kevincaseytdk1, ksfortson, Onen, wump	9	5	25
+346803	6	25	Rainbow & Prism (5 Suits)	2020-11-18 — 04:16:05 UTC	Carunty, doctorabi, frosty104, Lel0uch, rachyrules, wump	3	5	25
+346773	6	0	Rainbow & Prism (5 Suits)	2020-11-18 — 03:47:10 UTC	Carunty, doctorabi, frosty104, Lel0uch, rachyrules, wump	2	5	25
+346751	6	24	Rainbow (5 Suits)	2020-11-18 — 03:25:46 UTC	Carunty, frosty104, JackFrost, Lel0uch, rachyrules, wump	8	5	25
+346715	4	27	Brown (6 Suits)	2020-11-18 — 02:46:41 UTC	frosty104, JackFrost, rachyrules, wump	41	6	30
+346666	6	0	White & Dark Rainbow (6 Suits)	2020-11-18 — 01:56:22 UTC	avanderwalde, Kyle, melwen, pianoblook, TimeHoodie, wump	1	6	30
+346650	6	27	White & Dark Rainbow (6 Suits)	2020-11-18 — 01:32:45 UTC	avanderwalde, Kyle, melwen, pianoblook, TimeHoodie, wump	1	6	30
+346626	6	0	White & Dark Rainbow (6 Suits)	2020-11-18 — 01:05:55 UTC	avanderwalde, Kyle, melwen, pianoblook, TimeHoodie, wump	1	6	30
+346621	6	26	White & Dark Rainbow (6 Suits)	2020-11-18 — 00:47:34 UTC	avanderwalde, Kyle, melwen, pianoblook, TimeHoodie, wump	1	6	30
+346595	5	0	Gray & Gray Pink (6 Suits)	2020-11-18 — 00:10:23 UTC	doctorabi, kevincaseytdk1, melwen, robense, wump	1	6	30
+346573	4	0	Light-Pink-Ones & Dark Rainbow (6 Suits)	2020-11-17 — 23:35:17 UTC	doctorabi, kevincaseytdk1, robense, wump	1	6	30
+346276	3	23	Black (5 Suits)	2020-11-17 — 18:32:19 UTC	Onen, rz, wump	74	5	25
+346271	3	0	Black (5 Suits)	2020-11-17 — 18:20:31 UTC	Onen, rz, wump	84	5	25
+346260	3	21	Black (5 Suits)	2020-11-17 — 18:05:46 UTC	Onen, rz, wump	92	5	25
+346249	3	0	Black (5 Suits)	2020-11-17 — 17:48:35 UTC	Onen, rz, wump	101	5	25
+346239	3	23	Black (5 Suits)	2020-11-17 — 17:34:57 UTC	Onen, rz, wump	119	5	25
+346218	4	0	Rainbow-Ones & Dark Pink (6 Suits)	2020-11-17 — 17:07:31 UTC	jack67889, melwen, Wittvector, wump	2	6	30
+346082	5	0	Black (5 Suits)	2020-11-17 — 05:53:56 UTC	doctorabi, ksfortson, Lel0uch, Onen, wump	36	5	25
+346059	6	28	Prism (6 Suits)	2020-11-17 — 05:10:25 UTC	Carunty, doctorabi, jack_0f_hearts, ksfortson, Lel0uch, wump	3	6	30
+346013	5	0	Prism (6 Suits)	2020-11-17 — 04:15:21 UTC	Carunty, duckmedic, jack_0f_hearts, ksfortson, wump	6	6	30
+345975	4	22	Dark Prism (5 Suits)	2020-11-17 — 03:25:37 UTC	duckmedic, ksfortson, rz, wump	17	5	25
+345925	4	0	Dark Prism (5 Suits)	2020-11-17 — 02:55:19 UTC	duckmedic, ksfortson, rz, wump	17	5	25
+345911	3	30	Extremely Ambiguous (6 Suits)	2020-11-17 — 02:41:06 UTC	duckmedic, rz, wump	8	6	30
+345894	3	25	Duck (5 Suits)	2020-11-17 — 02:17:01 UTC	duckmedic, rz, wump	14	5	25
+345878	3	0	Duck (5 Suits)	2020-11-17 — 01:57:08 UTC	duckmedic, rz, wump	15	5	25
+345872	3	0	Duck (5 Suits)	2020-11-17 — 01:53:28 UTC	duckmedic, rz, wump	17	5	25
+345853	3	29	Black & Prism (6 Suits)	2020-11-17 — 01:35:28 UTC	asaelr, rz, wump	11	6	30
+345814	3	25	No Variant	2020-11-17 — 00:59:25 UTC	doctorabi, duckmedic, wump	125	5	25
+345793	3	25	Rainbow & Prism (5 Suits)	2020-11-17 — 00:37:53 UTC	doctorabi, Onen, wump	16	5	25
+345361	5	22	Up or Down (5 Suits)	2020-11-16 — 20:06:43 UTC	Carunty, Onen, StKildaFan, superbipbip, wump	13	5	25
+345269	5	19	Black (5 Suits)	2020-11-16 — 19:34:30 UTC	StKildaFan, superbipbip, voss, will.i.am, wump	18	5	25
+345200	2	0	4 Suits	2020-11-16 — 19:13:06 UTC	StKildaFan, wump	110	4	20
+345183	2	0	4 Suits	2020-11-16 — 19:06:51 UTC	StKildaFan, wump	128	4	20
+345145	2	19	4 Suits	2020-11-16 — 18:53:00 UTC	StKildaFan, wump	171	4	20
+345119	2	0	4 Suits	2020-11-16 — 18:43:32 UTC	StKildaFan, wump	244	4	20
+345103	4	30	White (6 Suits)	2020-11-16 — 18:31:55 UTC	baads, StKildaFan, superbipbip, wump	35	6	30
+345071	2	30	Rainbow & Prism (6 Suits)	2020-11-16 — 18:06:44 UTC	baads, wump	27	6	30
+344865	4	0	Brown-Fives & Dark Prism (6 Suits)	2020-11-16 — 09:04:45 UTC	Carunty, doctorabi, Lel0uch, wump	1	6	30
+344851	3	25	Rainbow & White (5 Suits)	2020-11-16 — 08:32:53 UTC	doctorabi, Lel0uch, wump	37	5	25
+344842	2	25	No Variant	2020-11-16 — 08:18:03 UTC	doctorabi, wump	770	5	25
+344838	2	0	Black (6 Suits)	2020-11-16 — 08:03:12 UTC	doctorabi, wump	643	6	30
+344833	5	29	Black (6 Suits)	2020-11-16 — 07:14:22 UTC	Carunty, duckmedic, Onen, pianoblook, wump	14	6	30
+344825	6	23	Rainbow (5 Suits)	2020-11-16 — 06:29:49 UTC	Carunty, doctorabi, duckmedic, Onen, pianoblook, wump	8	5	25
+344818	4	20	Up or Down (5 Suits)	2020-11-16 — 05:54:23 UTC	doctorabi, Fey, Onen, wump	27	5	25
+344804	2	22	No Variant	2020-11-16 — 05:32:50 UTC	Onen, wump	794	5	25
+344205	3	0	Prism (5 Suits)	2020-11-15 — 17:41:07 UTC	Isaac176, PMP, wump	38	5	25
+344197	3	24	No Variant	2020-11-15 — 17:21:04 UTC	Isaac176, PMP, wump	137	5	25
+344193	3	25	No Variant	2020-11-15 — 16:49:17 UTC	Isaac176, PMP, wump	134	5	25
+344046	3	24	Rainbow (5 Suits)	2020-11-15 — 07:30:27 UTC	duckmedic, Onen, wump	84	5	25
+344031	3	22	Rainbow (5 Suits)	2020-11-15 — 07:00:45 UTC	duckmedic, Onen, wump	116	5	25
+343992	5	30	Pink (6 Suits)	2020-11-15 — 06:13:36 UTC	Animex52, Bonja97, catula, derekcheah, wump	8	6	30
+343959	5	0	Pink (6 Suits)	2020-11-15 — 05:30:12 UTC	Animex52, Bonja97, catula, derekcheah, wump	15	6	30
+343216	5	0	Null-Ones & White (5 Suits)	2020-11-14 — 08:35:36 UTC	coathanger, fetusdeletus, hughjanus, wina, wump	1	5	25
+343212	4	25	Null-Ones (5 Suits)	2020-11-14 — 08:22:55 UTC	coathanger, fetusdeletus, wina, wump	9	5	25
+343043	3	25	No Variant	2020-11-14 — 04:06:46 UTC	Isaac176, rz, wump	141	5	25
+343025	2	23	No Variant	2020-11-14 — 03:50:43 UTC	rz, wump	818	5	25
+343020	2	0	No Variant	2020-11-14 — 03:44:26 UTC	rz, wump	854	5	25
+343018	2	0	No Variant	2020-11-14 — 03:42:25 UTC	rz, wump	883	5	25
+343015	2	0	No Variant	2020-11-14 — 03:37:34 UTC	rz, wump	921	5	25
+342438	4	0	Pink (6 Suits)	2020-11-13 — 19:14:21 UTC	Carunty, JackFrost, rachyrules, wump	54	6	30
+342414	5	0	No Variant	2020-11-13 — 18:37:43 UTC	Carunty, Onen, rachyrules, rz, wump	92	5	25
+342400	5	25	Dark Omni (6 Suits)	2020-11-13 — 17:55:13 UTC	Carunty, melwen, rachyrules, rz, wump	3	6	30
+342384	4	0	Dark Omni (6 Suits)	2020-11-13 — 17:17:25 UTC	Carunty, melwen, rachyrules, wump	8	6	30
+342224	3	20	Pink (4 Suits)	2020-11-13 — 08:36:32 UTC	Carunty, MKQ, wump	59	4	20
+342167	5	0	No Variant	2020-11-13 — 05:08:28 UTC	ejwu, newduke, Onen, StKildaFan, wump	45	5	25
+342146	4	25	No Variant	2020-11-13 — 04:38:18 UTC	Lel0uch, newduke, Onen, wump	985	5	25
+342128	4	0	Rainbow & Prism (5 Suits)	2020-11-13 — 04:10:07 UTC	Carunty, Lel0uch, newduke, wump	5	5	25
+342105	5	22	Rainbow (5 Suits)	2020-11-13 — 03:38:12 UTC	Carunty, Lel0uch, newduke, StKildaFan, wump	34	5	25
+342046	4	25	Rainbow & Prism (5 Suits)	2020-11-13 — 02:33:23 UTC	doctorabi, ejwu, jeff10, wump	5	5	25
+341991	4	28	Black (6 Suits)	2020-11-13 — 01:19:08 UTC	jack_0f_hearts, rz, timotree, wump	62	6	30
+341981	4	0	Black (6 Suits)	2020-11-13 — 00:49:12 UTC	jack_0f_hearts, rz, timotree, wump	64	6	30
+341973	3	25	Light Pink (5 Suits)	2020-11-13 — 00:22:55 UTC	StKildaFan, timotree, wump	23	5	25
+341943	5	21	No Variant	2020-11-12 — 23:39:30 UTC	Isaac176, jack67889, MarcLovesDogs, timotree, wump	11	5	25
+341907	3	23	No Variant	2020-11-12 — 23:02:51 UTC	Isaac176, timotree, wump	17	5	25
+341891	5	0	No Variant	2020-11-12 — 22:44:46 UTC	Carunty, doctorabi, Isaac176, timotree, wump	14	5	25
+341847	4	0	Rainbow & Prism (5 Suits)	2020-11-12 — 21:32:15 UTC	Carunty, doctorabi, robense, wump	7	5	25
+341831	4	0	Rainbow & Prism (5 Suits)	2020-11-12 — 21:16:16 UTC	Carunty, doctorabi, robense, wump	9	5	25
+341805	3	25	No Variant	2020-11-12 — 20:49:32 UTC	Feich59, Kowalski1337, wump	148	5	25
+341769	3	24	No Variant	2020-11-12 — 20:14:48 UTC	Feich59, Kowalski1337, wump	167	5	25
+341246	3	0	Light Pink (5 Suits)	2020-11-12 — 02:15:52 UTC	Carunty, rz, wump	40	5	25
+341221	3	27	Light Pink (6 Suits)	2020-11-12 — 01:42:38 UTC	Carunty, rz, wump	34	6	30
+341208	3	27	Light Pink (6 Suits)	2020-11-12 — 01:15:03 UTC	Carunty, rz, wump	38	6	30
+341196	4	22	No Variant	2020-11-12 — 00:47:54 UTC	Carunty, Fusilli, rz, wump	125	5	25
+341190	3	24	No Variant	2020-11-12 — 00:28:29 UTC	Fusilli, rz, wump	164	5	25
+341186	3	0	Omni & Muddy Rainbow (5 Suits)	2020-11-12 — 00:06:44 UTC	rz, will.i.am, wump	1	5	25
+341170	3	0	Omni-Ones (5 Suits)	2020-11-11 — 23:04:51 UTC	MarcLovesDogs, newduke, wump	7	5	25
+340552	4	0	Duck (5 Suits)	2020-11-11 — 04:02:08 UTC	duckmedic, JackFrost, rz, wump	6	5	25
+340531	4	0	Duck (5 Suits)	2020-11-11 — 03:42:13 UTC	duckmedic, JackFrost, rz, wump	5	5	25
+340514	4	0	Duck (5 Suits)	2020-11-11 — 03:26:04 UTC	duckmedic, JackFrost, rz, wump	6	5	25
+340512	4	0	Duck (5 Suits)	2020-11-11 — 03:24:29 UTC	duckmedic, JackFrost, rz, wump	8	5	25
+340499	4	0	Duck (5 Suits)	2020-11-11 — 03:09:18 UTC	duckmedic, JackFrost, rz, wump	10	5	25
+340487	4	0	Duck (5 Suits)	2020-11-11 — 02:54:59 UTC	duckmedic, JackFrost, rz, wump	13	5	25
+340446	4	25	No Variant	2020-11-11 — 02:17:39 UTC	duckmedic, JackFrost, rz, wump	131	5	25
+340414	3	28	Up or Down (6 Suits)	2020-11-11 — 01:40:08 UTC	duckmedic, JackFrost, wump	17	6	30
+340395	3	0	Prism (5 Suits)	2020-11-11 — 01:07:41 UTC	doctorabi, MarcLovesDogs, wump	45	5	25
+340373	4	0	Omni (6 Suits)	2020-11-11 — 00:29:42 UTC	Carunty, JackFrost, newduke, wump	33	6	30
+340357	3	13	Pink (3 Suits)	2020-11-11 — 00:12:15 UTC	Carunty, newduke, wump	33	3	15
+340348	3	12	Pink (3 Suits)	2020-11-10 — 23:52:01 UTC	anser, newduke, wump	44	3	15
+340076	5	0	Black (6 Suits)	2020-11-10 — 16:53:42 UTC	anser, jack67889, Lel0uch, will.i.am, wump	16	6	30
+340069	4	30	Black & Rainbow (6 Suits)	2020-11-10 — 16:22:37 UTC	Carunty, frosty104, Lel0uch, wump	46	6	30
+340052	5	27	Omni (6 Suits)	2020-11-10 — 15:43:35 UTC	Carunty, frosty104, Lel0uch, orucsoraihc, wump	5	6	30
+339933	4	0	Rainbow (6 Suits)	2020-11-10 — 08:04:26 UTC	frosty104, KristaTheCute, Lel0uch, wump	73	6	30
+339927	3	21	No Variant	2020-11-10 — 07:40:12 UTC	doctorabi, KristaTheCute, wump	175	5	25
+339920	3	0	No Variant	2020-11-10 — 07:17:05 UTC	doctorabi, KristaTheCute, wump	178	5	25
+339907	3	0	Gray (6 Suits)	2020-11-10 — 06:45:58 UTC	catula, StKildaFan, wump	55	6	30
+339794	3	29	Prism (6 Suits)	2020-11-10 — 04:08:52 UTC	doctorabi, rz, wump	16	6	30
+339749	3	0	Prism (6 Suits)	2020-11-10 — 03:32:50 UTC	doctorabi, rz, wump	24	6	30
+339711	5	25	Prism (5 Suits)	2020-11-10 — 03:08:20 UTC	Darth_Calculus, rz, scharkbite, timotree, wump	8	5	25
+339683	5	25	Prism (5 Suits)	2020-11-10 — 02:46:41 UTC	Darth_Calculus, rz, scharkbite, timotree, wump	9	5	25
+339219	6	28	Black (6 Suits)	2020-11-09 — 17:51:37 UTC	Carunty, Lel0uch, rz, sankala, superbipbip, wump	38	6	30
+339197	4	25	Black (6 Suits)	2020-11-09 — 16:50:09 UTC	baads, Carunty, Lel0uch, wump	77	6	30
+338485	4	25	Muddy-Rainbow-Fives (5 Suits)	2020-11-08 — 18:40:58 UTC	Carunty, Pablo-, rz, wump	2	5	25
+338455	4	0	Muddy-Rainbow-Fives (5 Suits)	2020-11-08 — 18:03:08 UTC	Carunty, Pablo-, rz, wump	3	5	25
+338437	4	27	Black (6 Suits)	2020-11-08 — 17:40:11 UTC	asaelr, Carunty, Pablo-, wump	17	6	30
+337815	5	0	Black (6 Suits)	2020-11-07 — 22:40:31 UTC	Carunty, jack67889, JackFrost, rz, wump	18	6	30
+337793	5	27	Black (6 Suits)	2020-11-07 — 22:21:05 UTC	Carunty, jack67889, JackFrost, rz, wump	21	6	30
+337752	5	0	Black (6 Suits)	2020-11-07 — 21:29:10 UTC	Carunty, jack67889, nitawa, rz, wump	21	6	30
+337730	5	26	Black (6 Suits)	2020-11-07 — 20:57:54 UTC	Carunty, jack67889, nitawa, rz, wump	22	6	30
+337711	3	25	White Reversed (5 Suits)	2020-11-07 — 20:28:39 UTC	Carunty, jack67889, wump	14	5	25
+337684	4	25	Light-Pink-Ones & White (5 Suits)	2020-11-07 — 19:59:25 UTC	Carunty, jack67889, Pablo-, wump	2	5	25
+337660	3	28	White (6 Suits)	2020-11-07 — 19:27:15 UTC	Carunty, Pablo-, wump	70	6	30
+337640	5	29	Rainbow (6 Suits)	2020-11-07 — 18:43:26 UTC	Carunty, Lel0uch, nitawa, sephiroth, wump	50	6	30
+337318	3	25	Null-Ones (5 Suits)	2020-11-07 — 05:27:05 UTC	duckmedic, ejwu, wump	8	5	25
+337301	3	0	Null-Ones (5 Suits)	2020-11-07 — 05:07:32 UTC	duckmedic, ejwu, wump	12	5	25
+337293	4	0	No Variant	2020-11-07 — 05:00:48 UTC	duckmedic, ejwu, pmuething, wump	156	5	25
+337278	3	30	Dual-Color (6 Suits)	2020-11-07 — 04:39:38 UTC	ejwu, StKildaFan, wump	43	6	30
+337257	3	0	Dual-Color (6 Suits)	2020-11-07 — 04:06:19 UTC	ejwu, StKildaFan, wump	66	6	30
+336917	5	0	Pink (5 Suits)	2020-11-06 — 19:32:10 UTC	Carunty, frosty104, JackFrost, rz, wump	14	5	25
+336896	5	24	Pink (5 Suits)	2020-11-06 — 18:33:04 UTC	Carunty, frosty104, JackFrost, rz, wump	20	5	25
+336796	4	0	White (6 Suits)	2020-11-06 — 10:47:05 UTC	Fey, Pepepe, RaKXeR, wump	41	6	30
+336786	4	27	White (6 Suits)	2020-11-06 — 10:08:56 UTC	Fey, Pepepe, RaKXeR, wump	60	6	30
+336781	4	0	Up or Down (6 Suits)	2020-11-06 — 09:03:14 UTC	Fey, RaKXeR, rz, wump	19	6	30
+336775	3	0	Duck (6 Suits)	2020-11-06 — 08:15:10 UTC	duckmedic, rz, wump	7	6	30
+336767	3	0	Duck (6 Suits)	2020-11-06 — 07:45:49 UTC	duckmedic, rz, wump	8	6	30
+336765	3	23	Up or Down (5 Suits)	2020-11-06 — 07:41:17 UTC	duckmedic, rz, wump	25	5	25
+336753	4	0	Up or Down (5 Suits)	2020-11-06 — 07:14:22 UTC	duckmedic, rz, sin_faith, wump	31	5	25
+336749	5	22	No Variant	2020-11-06 — 06:58:44 UTC	antitelharsic, duckmedic, ksfortson, newduke, wump	67	5	25
+336733	4	25	No Variant	2020-11-06 — 06:07:38 UTC	duckmedic, ksfortson, newduke, wump	89	5	25
+336725	4	0	No Variant	2020-11-06 — 05:43:06 UTC	duckmedic, ksfortson, newduke, wump	103	5	25
+336713	4	24	No Variant	2020-11-06 — 05:24:57 UTC	duckmedic, ksfortson, newduke, wump	116	5	25
+336680	5	25	No Variant	2020-11-06 — 04:48:54 UTC	doctorabi, duckmedic, ksfortson, newduke, wump	65	5	25
+336658	4	21	No Variant	2020-11-06 — 04:12:57 UTC	antslayer23, jack_0f_hearts, ksfortson, wump	158	5	25
+336628	4	0	No Variant	2020-11-06 — 03:35:22 UTC	antslayer23, jack_0f_hearts, ksfortson, wump	162	5	25
+336594	4	23	No Variant	2020-11-06 — 03:02:07 UTC	antslayer23, jack_0f_hearts, ksfortson, wump	167	5	25
+336505	5	0	No Variant	2020-11-06 — 02:24:16 UTC	antslayer23, Carunty, jack_0f_hearts, ksfortson, wump	75	5	25
+336475	4	25	No Variant	2020-11-06 — 02:04:54 UTC	antslayer23, Carunty, jack_0f_hearts, wump	1092	5	25
+335999	3	25	Brown (5 Suits)	2020-11-05 — 08:25:56 UTC	ebin_noob, StKildaFan, wump	17	5	25
+335986	3	25	Brown (5 Suits)	2020-11-05 — 08:04:45 UTC	ebin_noob, StKildaFan, wump	31	5	25
+335359	3	30	Rainbow & Brown (6 Suits)	2020-11-04 — 19:49:52 UTC	ebin_noob, will.i.am, wump	3	6	30
+335344	3	0	Rainbow & Brown (6 Suits)	2020-11-04 — 19:27:03 UTC	ebin_noob, will.i.am, wump	3	6	30
+335337	3	0	Rainbow & Brown (6 Suits)	2020-11-04 — 19:19:12 UTC	ebin_noob, will.i.am, wump	3	6	30
+335319	4	0	Rainbow-Ones (6 Suits)	2020-11-04 — 18:40:19 UTC	Carunty, rz, timotree, wump	15	6	30
+335302	4	25	White-Ones (5 Suits)	2020-11-04 — 18:00:00 UTC	Carunty, rz, timotree, wump	7	5	25
+335289	4	20	Prism (4 Suits)	2020-11-04 — 17:30:13 UTC	asaelr, ebin_noob, Kyle, wump	2	4	20
+335284	4	0	Prism (4 Suits)	2020-11-04 — 17:10:54 UTC	asaelr, ebin_noob, Kyle, wump	4	4	20
+334341	5	0	Up or Down & Prism (6 Suits)	2020-11-03 — 08:53:27 UTC	Carunty, rz, sephiroth, wump, XMIL	7	6	30
+334338	6	30	6 Suits	2020-11-03 — 08:11:04 UTC	Animex52, hughjanus, kodomazer, Stinkydude63, whalesgomoo, wump	12	6	30
+333833	3	15	3 Suits	2020-11-02 — 19:24:47 UTC	Carunty, nitawa, wump	115	3	15
+333812	4	25	Black (5 Suits)	2020-11-02 — 19:00:48 UTC	Carunty, nitawa, orucsoraihc, wump	44	5	25
+333778	3	22	Black (5 Suits)	2020-11-02 — 18:13:28 UTC	Carunty, nitawa, wump	134	5	25
+333763	4	0	Brown & Cocoa Rainbow (5 Suits)	2020-11-02 — 17:43:27 UTC	MarkusKahlsen, robense, will.i.am, wump	2	5	25
+333660	5	0	No Variant	2020-11-02 — 09:28:29 UTC	catula, cockdestroyer, ebin_noob, Nitrate2, wump	27	5	25
+333655	3	0	No Variant	2020-11-02 — 09:01:11 UTC	cockdestroyer, Nitrate2, wump	170	5	25
+333650	6	24	No Variant	2020-11-02 — 08:10:48 UTC	cockdestroyer, Jtjg, MarcLovesDogs, Nitrate2, wump, XMIL	16	5	25
+333640	3	25	Pink (5 Suits)	2020-11-02 — 07:16:06 UTC	Bonja97, Jtjg, wump	75	5	25
+333623	5	0	White-Ones & Rainbow (5 Suits)	2020-11-02 — 06:34:24 UTC	cockdestroyer, Jtjg, vEnhance, wump, XMIL	6	5	25
+333612	5	0	Rainbow (4 Suits)	2020-11-02 — 06:09:58 UTC	cockdestroyer, Jtjg, vEnhance, wump, XMIL	20	4	20
+333038	5	26	Black (6 Suits)	2020-11-01 — 21:40:58 UTC	Carunty, nitawa, Pepepe, rz, wump	36	6	30
+332990	4	24	Black (6 Suits)	2020-11-01 — 20:53:31 UTC	Carunty, Pepepe, rz, wump	112	6	30
+332960	4	26	Black (6 Suits)	2020-11-01 — 20:09:30 UTC	Carunty, moeski, Pepepe, wump	142	6	30
+332937	4	24	Black (6 Suits)	2020-11-01 — 19:31:00 UTC	Carunty, moeski, Pepepe, wump	213	6	30
+332911	5	0	Black (6 Suits)	2020-11-01 — 19:08:07 UTC	Carunty, moeski, newduke, Pepepe, wump	27	6	30
+332887	4	25	Black (5 Suits)	2020-11-01 — 18:25:27 UTC	jack67889, sankala, wump, XMIL	32	5	25
+332676	3	0	No Variant	2020-11-01 — 08:44:30 UTC	nitawa, sin_faith, wump	48	5	25
+332669	5	23	No Variant	2020-11-01 — 08:02:46 UTC	Carunty, eevee, ksfortson, timotree, wump	13	5	25
+332667	4	25	Prism (5 Suits)	2020-11-01 — 07:35:43 UTC	eevee, ksfortson, timotree, wump	4	5	25
+332661	4	0	Prism (5 Suits)	2020-11-01 — 07:11:00 UTC	eevee, ksfortson, timotree, wump	7	5	25
+332174	5	0	No Variant	2020-10-31 — 19:05:40 UTC	adi1, anusha2, ds11, Kaushiks88, wump	1510	5	25
+332160	5	25	White-Ones & Brown (5 Suits)	2020-10-31 — 18:42:08 UTC	Fey, sephiroth, swineherd, wump, XMIL	2	5	25
+332155	5	0	White-Ones & Brown (5 Suits)	2020-10-31 — 18:21:06 UTC	cockdestroyer, Fey, rachyrules, wump, XMIL	2	5	25
+332148	4	24	Dark Brown (5 Suits)	2020-10-31 — 18:04:03 UTC	Bonja97, rachyrules, wump, XMIL	14	5	25
+332139	4	0	Dark Brown (5 Suits)	2020-10-31 — 17:31:38 UTC	Bonja97, rachyrules, wump, XMIL	17	5	25
+332120	5	18	Rainbow (4 Suits)	2020-10-31 — 17:07:11 UTC	Carunty, Puzzle, rachyrules, wump, XMIL	11	4	20
+332104	5	0	Rainbow (4 Suits)	2020-10-31 — 16:37:18 UTC	Carunty, Puzzle, rachyrules, wump, XMIL	16	4	20
+331584	3	25	No Variant	2020-10-31 — 01:14:36 UTC	marcogilbert, orucsoraihc, wump	187	5	25
+331303	4	0	Rainbow-Ones & White (5 Suits)	2020-10-30 — 19:12:21 UTC	ksfortson, Pepepe, wump, XMIL	4	5	25
+331291	3	0	Rainbow-Ones & White (6 Suits)	2020-10-30 — 18:50:27 UTC	ksfortson, wump, XMIL	3	6	30
+331280	4	23	No Variant	2020-10-30 — 18:28:16 UTC	ksfortson, moeski, wump, XMIL	51	5	25
+331254	4	0	No Variant	2020-10-30 — 17:45:09 UTC	kiele, moeski, rz, wump	180	5	25
+331073	3	25	Brown (5 Suits)	2020-10-30 — 08:56:29 UTC	Carunty, ebin_noob, wump	38	5	25
+331071	3	0	Brown (5 Suits)	2020-10-30 — 08:34:26 UTC	Carunty, ebin_noob, wump	39	5	25
+331069	3	24	Brown (5 Suits)	2020-10-30 — 08:17:47 UTC	Carunty, ebin_noob, wump	63	5	25
+330986	3	0	Rainbow (5 Suits)	2020-10-30 — 05:11:16 UTC	honzas, ksfortson, wump	135	5	25
+330951	3	25	No Variant	2020-10-30 — 04:42:34 UTC	honzas, ksfortson, wump	154	5	25
+330933	3	0	No Variant	2020-10-30 — 04:28:25 UTC	honzas, ksfortson, wump	156	5	25
+330926	3	25	No Variant	2020-10-30 — 04:18:22 UTC	honzas, ksfortson, wump	157	5	25
+330912	3	24	No Variant	2020-10-30 — 03:52:57 UTC	honzas, ksfortson, wump	160	5	25
+330878	4	0	No Variant	2020-10-30 — 03:15:54 UTC	dj.narayanan, ksfortson, wump, XMIL	57	5	25
+330871	4	0	Rainbow (4 Suits)	2020-10-30 — 02:59:33 UTC	dj.narayanan, ksfortson, wump, XMIL	20	4	20
+330852	3	18	No Variant	2020-10-30 — 02:35:29 UTC	ksfortson, wump, XMIL	57	5	25
+330813	3	0	No Variant	2020-10-30 — 02:01:08 UTC	JackFrost, ksfortson, wump	194	5	25
+330406	4	25	No Variant	2020-10-29 — 07:26:25 UTC	cockdestroyer, Jtjg, wump, XMIL	59	5	25
+330382	5	0	No Variant	2020-10-29 — 06:30:16 UTC	cockdestroyer, Jtjg, mdavidson1, wump, XMIL	39	5	25
+330365	5	28	Pink (6 Suits)	2020-10-29 — 05:54:58 UTC	Carunty, cockdestroyer, Jtjg, wump, XMIL	18	6	30
+330322	6	21	No Variant	2020-10-29 — 05:09:51 UTC	alphabeta, Carunty, cockdestroyer, Jtjg, wump, XMIL	26	5	25
+330296	5	23	No Variant	2020-10-29 — 04:38:57 UTC	alphabeta, jeff10, ksfortson, wump, XMIL	38	5	25
+330277	5	0	No Variant	2020-10-29 — 04:01:43 UTC	alphabeta, jeff10, ksfortson, wump, XMIL	41	5	25
+330256	5	22	No Variant	2020-10-29 — 03:30:53 UTC	alphabeta, jeff10, ksfortson, wump, XMIL	45	5	25
+330233	5	0	No Variant	2020-10-29 — 02:58:00 UTC	alphabeta, cockdestroyer, ksfortson, wump, XMIL	44	5	25
+329900	4	24	No Variant	2020-10-28 — 17:54:20 UTC	nitawa, Pilukno, rz, wump	204	5	25
+329875	4	22	Throw It in a Hole (5 Suits)	2020-10-28 — 17:05:31 UTC	Carunty, nitawa, rz, wump	40	5	25
+329862	3	25	Throw It in a Hole (5 Suits)	2020-10-28 — 16:22:28 UTC	nitawa, TimeHoodie, wump	52	5	25
+329758	3	22	No Variant	2020-10-28 — 06:27:36 UTC	duckmedic, JackFrost, wump	201	5	25
+329753	3	0	No Variant	2020-10-28 — 06:13:15 UTC	duckmedic, JackFrost, wump	199	5	25
+329750	3	0	Duck (5 Suits)	2020-10-28 — 06:07:19 UTC	duckmedic, JackFrost, wump	22	5	25
+329739	3	0	Duck (5 Suits)	2020-10-28 — 05:45:02 UTC	duckmedic, JackFrost, wump	25	5	25
+329728	3	23	Duck (5 Suits)	2020-10-28 — 05:24:46 UTC	duckmedic, JackFrost, wump	35	5	25
+329717	3	0	Duck (5 Suits)	2020-10-28 — 05:03:17 UTC	duckmedic, JackFrost, wump	52	5	25
+329608	5	21	Black (5 Suits)	2020-10-28 — 02:34:43 UTC	AshleyBridge, duckmedic, JackFrost, wump, XMIL	20	5	25
+329313	5	19	Pink (4 Suits)	2020-10-27 — 18:06:44 UTC	Carunty, Kyle, sephiroth, Veexliat, wump	2	4	20
+328875	3	25	Dual-Color (5 Suits)	2020-10-26 — 23:32:40 UTC	asaelr, JackFrost, wump	69	5	25
+328863	4	24	Dual-Color (5 Suits)	2020-10-26 — 22:51:10 UTC	capncook, JackFrost, StKildaFan, wump	31	5	25
+328834	4	22	No Variant	2020-10-26 — 22:14:22 UTC	capncook, JackFrost, StKildaFan, wump	95	5	25
+328679	5	0	No Variant	2020-10-26 — 18:21:01 UTC	ksfortson, melwen, TimeHoodie, wump, XMIL	15	5	25
+328650	4	24	Black (5 Suits)	2020-10-26 — 17:40:48 UTC	jeff10, superbipbip, wump, XMIL	36	5	25
+328638	4	0	Black (5 Suits)	2020-10-26 — 17:15:18 UTC	jeff10, superbipbip, wump, XMIL	41	5	25
+328546	5	12	3 Suits	2020-10-26 — 08:19:57 UTC	Carunty, cockdestroyer, ksfortson, orucsoraihc, wump	24	3	15
+328542	5	11	3 Suits	2020-10-26 — 08:03:26 UTC	Carunty, cockdestroyer, ksfortson, orucsoraihc, wump	27	3	15
+328534	6	22	Gray (5 Suits)	2020-10-26 — 07:26:07 UTC	Carunty, cockdestroyer, ksfortson, micerang, orucsoraihc, wump	3	5	25
+328526	6	30	6 Suits	2020-10-26 — 06:40:55 UTC	Jtjg, ksfortson, Kyle, orucsoraihc, timotree, wump	9	6	30
+328512	5	25	White (5 Suits)	2020-10-26 — 06:02:04 UTC	Jtjg, Kyle, orucsoraihc, timotree, wump	1	5	25
+327567	4	25	No Variant	2020-10-24 — 22:50:48 UTC	harrisonk, veigar, wump, XMIL	64	5	25
+327383	3	0	Muddy Rainbow (6 Suits)	2020-10-24 — 18:24:30 UTC	ADrone, rz, wump	11	6	30
+327378	3	0	Muddy Rainbow (6 Suits)	2020-10-24 — 18:13:47 UTC	ADrone, rz, wump	49	6	30
+327368	4	0	Muddy Rainbow (6 Suits)	2020-10-24 — 17:55:21 UTC	ADrone, rz, sin_faith, wump	6	6	30
+327362	4	0	Muddy Rainbow (6 Suits)	2020-10-24 — 17:38:12 UTC	ADrone, rz, sin_faith, wump	9	6	30
+327357	4	29	Muddy Rainbow (6 Suits)	2020-10-24 — 17:18:06 UTC	ADrone, rz, sin_faith, wump	9	6	30
+327352	3	25	No Variant	2020-10-24 — 16:49:13 UTC	ADrone, rz, wump	130	5	25
+327260	5	29	White (6 Suits)	2020-10-24 — 08:32:03 UTC	Carunty, cockdestroyer, orucsoraihc, Pablo-, wump	8	6	30
+327256	4	0	Duck (5 Suits)	2020-10-24 — 07:53:39 UTC	duckmedic, ejwu, orucsoraihc, wump	27	5	25
+327199	3	29	Dark Rainbow (6 Suits)	2020-10-24 — 06:53:09 UTC	ejwu, orucsoraihc, wump	91	6	30
+327152	5	30	6 Suits	2020-10-24 — 06:08:42 UTC	ejwu, JackFrost, ksfortson, orucsoraihc, wump	35	6	30
+327135	5	0	6 Suits	2020-10-24 — 05:38:54 UTC	ejwu, JackFrost, ksfortson, orucsoraihc, wump	40	6	30
+327102	4	29	Clue Starved (6 Suits)	2020-10-24 — 05:09:14 UTC	duckmedic, ksfortson, rz, wump	5	6	30
+327063	4	0	Clue Starved (6 Suits)	2020-10-24 — 04:24:32 UTC	duckmedic, ksfortson, rz, wump	6	6	30
+327043	4	0	Clue Starved (6 Suits)	2020-10-24 — 04:05:10 UTC	duckmedic, ksfortson, rz, wump	7	6	30
+327035	4	0	Clue Starved (6 Suits)	2020-10-24 — 04:00:46 UTC	duckmedic, ksfortson, rz, wump	9	6	30
+326993	5	0	Omni (6 Suits)	2020-10-24 — 03:43:23 UTC	Carunty, duckmedic, ksfortson, rz, wump	9	6	30
+326948	5	0	Omni (6 Suits)	2020-10-24 — 03:26:50 UTC	Carunty, duckmedic, ksfortson, rz, wump	15	6	30
+326938	3	0	Extremely Ambiguous (6 Suits)	2020-10-24 — 03:19:01 UTC	duckmedic, rz, wump	17	6	30
+326924	5	25	No Variant	2020-10-24 — 03:06:20 UTC	Carunty, duckmedic, ksfortson, rz, wump	100	5	25
+326908	6	22	Cow & Pig (5 Suits)	2020-10-24 — 02:28:49 UTC	Carunty, duckmedic, ksfortson, orucsoraihc, rz, wump	1	5	25
+326889	6	0	Cow & Pig (5 Suits)	2020-10-24 — 01:55:15 UTC	Carunty, duckmedic, ksfortson, orucsoraihc, rz, wump	3	5	25
+326875	4	0	Dual-Color (5 Suits)	2020-10-24 — 01:31:32 UTC	Carunty, orucsoraihc, rz, wump	37	5	25
+326851	4	25	Rainbow Reversed (5 Suits)	2020-10-24 — 00:53:05 UTC	JackFrost, orucsoraihc, rz, wump	3	5	25
+326835	4	0	Rainbow Reversed (5 Suits)	2020-10-24 — 00:17:11 UTC	ADrone, JackFrost, penisman, wump	4	5	25
+326826	4	0	Rainbow Reversed (5 Suits)	2020-10-24 — 00:02:26 UTC	ADrone, JackFrost, penisman, wump	5	5	25
+326812	3	25	Reversed (5 Suits)	2020-10-23 — 23:44:47 UTC	ADrone, penisman, wump	17	5	25
+326510	5	0	Black (6 Suits)	2020-10-23 — 14:46:12 UTC	jack67889, nitawa, Pablo-, Pepepe, wump	39	6	30
+326503	5	0	Rainbow-Ones (6 Suits)	2020-10-23 — 14:17:08 UTC	Fey, jack67889, nitawa, Pablo-, wump	2	6	30
+326497	5	0	Rainbow-Ones (6 Suits)	2020-10-23 — 13:59:29 UTC	Fey, jack67889, nitawa, Pablo-, wump	5	6	30
+326332	3	25	No Variant	2020-10-23 — 06:36:44 UTC	ksfortson, orucsoraihc, wump	206	5	25
+326315	4	14	3 Suits	2020-10-23 — 06:06:54 UTC	Carunty, ksfortson, orucsoraihc, wump	62	3	15
+326310	4	13	3 Suits	2020-10-23 — 05:53:12 UTC	Carunty, ksfortson, orucsoraihc, wump	73	3	15
+326294	5	28	White & Brown (6 Suits)	2020-10-23 — 05:21:41 UTC	Carunty, duckmedic, JackFrost, ksfortson, wump	10	6	30
+326263	5	24	Throw It in a Hole (5 Suits)	2020-10-23 — 04:33:20 UTC	Carunty, duckmedic, JackFrost, ksfortson, wump	15	5	25
+326245	6	25	Up or Down (5 Suits)	2020-10-23 — 03:50:27 UTC	catula, cockdestroyer, duckmedic, JackFrost, newduke, wump	4	5	25
+326218	5	0	Up or Down & White (5 Suits)	2020-10-23 — 03:21:37 UTC	catula, duckmedic, JackFrost, newduke, wump	2	5	25
+326210	4	0	Gray (6 Suits)	2020-10-23 — 03:03:11 UTC	cockdestroyer, JackFrost, newduke, wump	29	6	30
+326196	3	25	No Variant	2020-10-23 — 02:38:42 UTC	imu_96, Kyle, wump	55	5	25
+326175	3	25	No Variant	2020-10-23 — 02:11:06 UTC	imu_96, Kyle, wump	57	5	25
+326069	4	25	No Variant	2020-10-22 — 23:52:44 UTC	banonogon, Carunty, Jtjg, wump	198	5	25
+326052	3	24	No Variant	2020-10-22 — 23:21:14 UTC	banonogon, Jtjg, wump	213	5	25
+326041	3	23	No Variant	2020-10-22 — 22:49:14 UTC	banonogon, Jtjg, wump	218	5	25
+326033	3	24	No Variant	2020-10-22 — 22:22:56 UTC	banonogon, Jtjg, wump	223	5	25
+326005	4	20	Rainbow & Prism (4 Suits)	2020-10-22 — 21:30:26 UTC	jack67889, newduke, Pepepe, wump	6	4	20
+325996	4	17	Rainbow & Prism (4 Suits)	2020-10-22 — 21:02:22 UTC	jack67889, newduke, Pepepe, wump	7	4	20
+325985	3	0	Brown (5 Suits)	2020-10-22 — 20:35:14 UTC	jack67889, Veexliat, wump	79	5	25
+325970	3	0	Prism (5 Suits)	2020-10-22 — 20:14:08 UTC	angel-a, jack67889, wump	80	5	25
+325963	4	0	Prism (5 Suits)	2020-10-22 — 20:04:43 UTC	angel-a, jack67889, VerySloppyTwo, wump	5	5	25
+325953	4	23	Prism (5 Suits)	2020-10-22 — 19:55:24 UTC	angel-a, jack67889, VerySloppyTwo, wump	9	5	25
+325934	4	0	Prism (5 Suits)	2020-10-22 — 19:36:12 UTC	angel-a, jack67889, VerySloppyTwo, wump	10	5	25
+325679	5	25	No Variant	2020-10-22 — 07:17:16 UTC	ejwu, Jtjg, ksfortson, orucsoraihc, wump	49	5	25
+325660	5	25	No Variant	2020-10-22 — 06:46:50 UTC	ejwu, Jtjg, ksfortson, orucsoraihc, wump	77	5	25
+325628	5	24	No Variant	2020-10-22 — 05:58:55 UTC	Carunty, Jtjg, ksfortson, StKildaFan, wump	81	5	25
+325593	6	29	6 Suits	2020-10-22 — 05:10:19 UTC	Carunty, duckmedic, JackFrost, Jtjg, ksfortson, wump	20	6	30
+325565	6	0	6 Suits	2020-10-22 — 04:29:56 UTC	Carunty, duckmedic, JackFrost, Jtjg, ksfortson, wump	34	6	30
+325546	4	0	Black (5 Suits)	2020-10-22 — 04:10:11 UTC	Carunty, JackFrost, ksfortson, wump	98	5	25
+325522	5	0	6 Suits	2020-10-22 — 03:45:45 UTC	Carunty, JackFrost, ksfortson, lil__bawree, wump	96	6	30
+325516	3	13	3 Suits	2020-10-22 — 03:36:29 UTC	Carunty, ksfortson, wump	144	3	15
+325495	4	24	No Variant	2020-10-22 — 03:05:44 UTC	Carunty, ksfortson, orucsoraihc, wump	308	5	25
+325459	5	23	Dual-Color (5 Suits)	2020-10-22 — 02:30:53 UTC	duckmedic, rz, sin_faith, wump, XMIL	7	5	25
+325424	4	24	Rainbow Reversed (5 Suits)	2020-10-22 — 01:52:49 UTC	duckmedic, ksfortson, rz, wump	11	5	25
+325386	4	24	Rainbow (5 Suits)	2020-10-22 — 01:10:00 UTC	Carunty, duckmedic, ksfortson, wump	130	5	25
+325357	4	23	Reversed (5 Suits)	2020-10-22 — 00:32:22 UTC	Carunty, duckmedic, JackFrost, wump	6	5	25
+325335	5	0	6 Suits	2020-10-21 — 23:48:50 UTC	Carunty, JackFrost, ksfortson, wump, XMIL	45	6	30
+324993	4	25	No Variant	2020-10-21 — 07:52:47 UTC	micerang, orucsoraihc, rz, wump	31	5	25
+324989	4	22	No Variant	2020-10-21 — 07:21:28 UTC	micerang, orucsoraihc, rz, wump	32	5	25
+324984	4	25	Brown-Ones & White (5 Suits)	2020-10-21 — 06:51:01 UTC	orucsoraihc, rz, wump, XMIL	3	5	25
+324979	4	0	Brown-Ones & White (5 Suits)	2020-10-21 — 06:27:02 UTC	orucsoraihc, rz, wump, XMIL	5	5	25
+324976	5	29	6 Suits	2020-10-21 — 05:59:19 UTC	duckmedic, JackFrost, StKildaFan, wump, XMIL	54	6	30
+324954	5	0	6 Suits	2020-10-21 — 05:13:58 UTC	duckmedic, JackFrost, StKildaFan, wump, XMIL	69	6	30
+324938	4	30	Black (6 Suits)	2020-10-21 — 04:43:14 UTC	duckmedic, JackFrost, wump, XMIL	45	6	30
+324916	6	21	Reversed (5 Suits)	2020-10-21 — 04:00:17 UTC	Carunty, dartheron, Jtjg, ksfortson, wump, XMIL	3	5	25
+324854	4	24	No Variant	2020-10-21 — 02:51:21 UTC	ksfortson, parrotdoxair, veigar, wump	655	5	25
+324807	6	22	No Variant	2020-10-21 — 01:52:23 UTC	avanderwalde, ejwu, rkass, ronykrell, veigar, wump	29	5	25
+324563	3	24	No Variant	2020-10-20 — 19:50:02 UTC	lotem, witcher, wump	114	5	25
+324334	4	25	Reversed (5 Suits)	2020-10-20 — 08:17:28 UTC	Carunty, Jtjg, ksfortson, wump	6	5	25
+324329	4	22	Reversed (5 Suits)	2020-10-20 — 07:37:46 UTC	Carunty, Jtjg, ksfortson, wump	11	5	25
+324322	3	0	Reversed (5 Suits)	2020-10-20 — 07:01:00 UTC	Jtjg, ksfortson, wump	35	5	25
+324320	5	0	No Variant	2020-10-20 — 06:42:40 UTC	arianaclark, Jtjg, ksfortson, noahband, wump	109	5	25
+324314	5	23	White-Ones (5 Suits)	2020-10-20 — 06:17:17 UTC	Jtjg, ksfortson, orucsoraihc, wump, XMIL	2	5	25
+324304	4	29	6 Suits	2020-10-20 — 05:38:17 UTC	duckmedic, JackFrost, ksfortson, wump	191	6	30
+324291	4	0	6 Suits	2020-10-20 — 05:05:27 UTC	duckmedic, JackFrost, ksfortson, wump	250	6	30
+324285	3	25	Up or Down (5 Suits)	2020-10-20 — 04:56:26 UTC	duckmedic, JackFrost, wump	54	5	25
+324233	6	27	Prism (6 Suits)	2020-10-20 — 03:29:27 UTC	Carunty, JackFrost, ksfortson, orucsoraihc, parrotdoxair, wump	8	6	30
+324074	5	0	Up or Down (5 Suits)	2020-10-20 — 00:15:43 UTC	antitelharsic, duckmedic, JackFrost, newduke, wump	23	5	25
+323634	3	23	Black (5 Suits)	2020-10-19 — 08:03:37 UTC	Carunty, ksfortson, wump	171	5	25
+323618	5	25	No Variant	2020-10-19 — 07:19:46 UTC	Carunty, Jtjg, ksfortson, timotree, wump	21	5	25
+323605	5	23	No Variant	2020-10-19 — 06:44:12 UTC	Carunty, Jtjg, ksfortson, timotree, wump	25	5	25
+323600	5	24	No Variant	2020-10-19 — 06:06:18 UTC	Carunty, Jtjg, ksfortson, timotree, wump	25	5	25
+323585	4	0	Reversed (5 Suits)	2020-10-19 — 05:37:01 UTC	Carunty, ksfortson, wump, XMIL	10	5	25
+323573	4	22	Reversed (5 Suits)	2020-10-19 — 05:16:19 UTC	Carunty, ksfortson, wump, XMIL	17	5	25
+323541	4	23	Prism (5 Suits)	2020-10-19 — 04:27:43 UTC	Carunty, ksfortson, wump, XMIL	20	5	25
+323504	5	25	White-Ones (5 Suits)	2020-10-19 — 03:41:55 UTC	Carunty, ksfortson, rz, wump, XMIL	2	5	25
+323478	5	0	White-Ones (5 Suits)	2020-10-19 — 03:09:31 UTC	Carunty, ksfortson, rz, wump, XMIL	3	5	25
+323282	4	21	Gray Reversed (5 Suits)	2020-10-18 — 23:32:14 UTC	Carunty, JackFrost, wump, XMIL	5	5	25
+323264	5	0	Throw It in a Hole (5 Suits)	2020-10-18 — 22:57:36 UTC	duckmedic, JackFrost, ksfortson, wump, XMIL	3	5	25
+323220	6	25	No Variant	2020-10-18 — 22:12:36 UTC	Carunty, duckmedic, JackFrost, ksfortson, wump, XMIL	36	5	25
+323180	5	25	No Variant	2020-10-18 — 21:39:55 UTC	Carunty, duckmedic, JackFrost, ksfortson, wump	126	5	25
+323135	3	28	Duck (6 Suits)	2020-10-18 — 21:03:42 UTC	duckmedic, rz, wump	9	6	30
+323104	3	0	Null (6 Suits)	2020-10-18 — 20:29:06 UTC	duckmedic, rz, wump	57	6	30
+323091	3	25	Up or Down (5 Suits)	2020-10-18 — 20:17:19 UTC	duckmedic, rz, wump	62	5	25
+323077	3	0	Up or Down (5 Suits)	2020-10-18 — 19:56:29 UTC	duckmedic, rz, wump	88	5	25
+323063	3	0	Special Mix (6 Suits)	2020-10-18 — 19:40:38 UTC	duckmedic, rz, wump	23	6	30
+323053	4	29	Gray Reversed (6 Suits)	2020-10-18 — 19:28:32 UTC	duckmedic, Pablo-, sephiroth, wump	3	6	30
+323023	5	23	White-Ones & Brown (5 Suits)	2020-10-18 — 18:48:49 UTC	duckmedic, MarkusKahlsen, robense, wump, XMIL	2	5	25
+323009	4	0	Brown-Ones & White (5 Suits)	2020-10-18 — 18:22:06 UTC	duckmedic, MarkusKahlsen, wump, XMIL	7	5	25
+322992	4	24	Brown (5 Suits)	2020-10-18 — 17:59:24 UTC	duckmedic, MarkusKahlsen, wump, XMIL	4	5	25
+322978	4	30	Black (6 Suits)	2020-10-18 — 17:37:24 UTC	Puzzle, swineherd, wump, XMIL	55	6	30
+322961	5	0	No Variant	2020-10-18 — 17:06:04 UTC	Animex52, Puzzle, TimeHoodie, wump, XMIL	21	5	25
+322843	5	0	White (6 Suits)	2020-10-18 — 08:01:46 UTC	Carunty, parrotdoxair, sin_faith, Wittvector, wump	14	6	30
+322817	5	29	Prism (6 Suits)	2020-10-18 — 06:32:10 UTC	duckmedic, JackFrost, timotree, wump, XMIL	9	6	30
+322791	4	0	Rainbow (6 Suits)	2020-10-18 — 05:48:05 UTC	duckmedic, JackFrost, rz, wump	69	6	30
+322766	4	0	Rainbow (6 Suits)	2020-10-18 — 05:12:48 UTC	duckmedic, JackFrost, rz, wump	76	6	30
+322740	4	0	Rainbow (6 Suits)	2020-10-18 — 04:50:12 UTC	duckmedic, JackFrost, rz, wump	85	6	30
+322717	4	23	No Variant	2020-10-18 — 04:15:19 UTC	Carunty, ksfortson, rz, wump	336	5	25
+322500	6	0	No Variant	2020-10-17 — 23:11:39 UTC	Carunty, CStryker, duckmedic, JackFrost, ksfortson, wump	115	5	25
+322470	6	24	No Variant	2020-10-17 — 22:35:37 UTC	Carunty, CStryker, JackFrost, ksfortson, letical, wump	23	5	25
+322451	6	0	No Variant	2020-10-17 — 22:07:04 UTC	Carunty, CStryker, JackFrost, ksfortson, letical, wump	42	5	25
+322423	4	0	No Variant	2020-10-17 — 21:42:13 UTC	CStryker, ksfortson, letical, wump	111	5	25
+322338	3	15	Prism (3 Suits)	2020-10-17 — 19:12:08 UTC	dmigor3, Kowalski1337, wump	32	3	15
+322317	3	15	Rainbow (3 Suits)	2020-10-17 — 18:47:28 UTC	dmigor3, Kowalski1337, wump	71	3	15
+322231	6	0	Pink (5 Suits)	2020-10-17 — 16:06:17 UTC	Carunty, jack67889, rz, sephiroth, swineherd, wump	3	5	25
+322227	6	0	Pink (5 Suits)	2020-10-17 — 15:48:49 UTC	Carunty, jack67889, rz, sephiroth, swineherd, wump	4	5	25
+321563	4	27	Pink (6 Suits)	2020-10-16 — 16:44:26 UTC	angel-a, pianoblook, Puzzle, wump	42	6	30
+321560	4	0	Pink (6 Suits)	2020-10-16 — 15:58:08 UTC	angel-a, pianoblook, Puzzle, wump	70	6	30
+321478	3	25	No Variant	2020-10-16 — 07:37:20 UTC	Carunty, ksfortson, wump	220	5	25
+321474	3	20	No Variant	2020-10-16 — 07:03:42 UTC	Carunty, ksfortson, wump	224	5	25
+321468	3	24	No Variant	2020-10-16 — 06:29:11 UTC	Carunty, ksfortson, wump	250	5	25
+321458	3	24	No Variant	2020-10-16 — 05:54:01 UTC	Jtjg, ksfortson, wump	259	5	25
+321442	5	24	No Variant	2020-10-16 — 05:11:25 UTC	Carunty, rz, StKildaFan, timotree, wump	35	5	25
+321425	4	25	No Variant	2020-10-16 — 04:39:37 UTC	Carunty, rz, timotree, wump	71	5	25
+321392	6	0	No Variant	2020-10-16 — 03:36:09 UTC	antitelharsic, Carunty, JackFrost, rz, timotree, wump	32	5	25
+321371	5	0	Black (6 Suits)	2020-10-16 — 03:06:51 UTC	antitelharsic, Carunty, JackFrost, timotree, wump	72	6	30
+321351	5	26	Black (6 Suits)	2020-10-16 — 02:35:00 UTC	antitelharsic, JackFrost, orucsoraihc, StKildaFan, wump	101	6	30
+321324	3	29	Black (6 Suits)	2020-10-16 — 02:03:43 UTC	JackFrost, orucsoraihc, wump	236	6	30
+321284	6	27	Rainbow (6 Suits)	2020-10-16 — 01:33:46 UTC	angel-a, antitelharsic, Carunty, duckmedic, JackFrost, wump	60	6	30
+321263	5	0	Null (6 Suits)	2020-10-16 — 01:03:27 UTC	angel-a, Carunty, duckmedic, JackFrost, wump	13	6	30
+321255	4	0	No Variant	2020-10-16 — 00:46:33 UTC	angel-a, duckmedic, JackFrost, wump	601	5	25
+321248	5	24	No Variant	2020-10-16 — 00:33:38 UTC	angel-a, Carunty, duckmedic, ksfortson, wump	176	5	25
+320945	5	0	6 Suits	2020-10-15 — 17:39:01 UTC	Carunty, ebin_noob, Pepepe, VerySloppyTwo, wump	199	6	30
+320805	4	24	No Variant	2020-10-15 — 08:03:28 UTC	Jtjg, ksfortson, StKildaFan, wump	138	5	25
+320802	5	19	No Variant	2020-10-15 — 07:20:55 UTC	Carunty, Jtjg, ksfortson, timotree, wump	50	5	25
+320795	5	23	No Variant	2020-10-15 — 06:28:29 UTC	Carunty, Jtjg, ksfortson, timotree, wump	120	5	25
+320742	3	30	Rainbow (6 Suits)	2020-10-15 — 05:10:23 UTC	JackFrost, ksfortson, wump	77	6	30
+320700	3	0	Rainbow (6 Suits)	2020-10-15 — 04:34:05 UTC	JackFrost, ksfortson, wump	79	6	30
+320679	3	30	White (6 Suits)	2020-10-15 — 04:15:15 UTC	JackFrost, ksfortson, wump	33	6	30
+320669	2	0	No Variant	2020-10-15 — 03:59:12 UTC	JackFrost, wump	948	5	25
+320667	2	0	No Variant	2020-10-15 — 03:56:59 UTC	JackFrost, wump	976	5	25
+320665	2	0	No Variant	2020-10-15 — 03:54:01 UTC	JackFrost, wump	1376	5	25
+320661	2	0	No Variant	2020-10-15 — 03:49:36 UTC	JackFrost, wump	1448	5	25
+320659	2	0	No Variant	2020-10-15 — 03:45:53 UTC	JackFrost, wump	1532	5	25
+320657	2	0	No Variant	2020-10-15 — 03:43:33 UTC	JackFrost, wump	1621	5	25
+320656	2	0	No Variant	2020-10-15 — 03:42:12 UTC	JackFrost, wump	1703	5	25
+320644	5	26	Prism (6 Suits)	2020-10-15 — 03:27:10 UTC	Carunty, DoubleJay, duckmedic, JackFrost, wump	8	6	30
+320598	5	0	Prism (6 Suits)	2020-10-15 — 02:36:27 UTC	Carunty, DoubleJay, duckmedic, JackFrost, wump	11	6	30
+320553	4	24	No Variant	2020-10-15 — 01:44:31 UTC	benana, carrotstalker, ksfortson, wump	899	5	25
+320146	5	26	White (6 Suits)	2020-10-14 — 05:41:07 UTC	angel-a, Carunty, JackFrost, ksfortson, wump	17	6	30
+320121	5	0	White (6 Suits)	2020-10-14 — 04:58:56 UTC	angel-a, Carunty, JackFrost, ksfortson, wump	20	6	30
+320097	4	28	White (6 Suits)	2020-10-14 — 04:26:11 UTC	Carunty, JackFrost, ksfortson, wump	75	6	30
+320053	3	29	White (6 Suits)	2020-10-14 — 03:34:00 UTC	JackFrost, ksfortson, wump	37	6	30
+320002	5	25	Prism (5 Suits)	2020-10-14 — 02:35:46 UTC	angel-a, Animex52, JackFrost, ksfortson, wump	9	5	25
+319955	5	25	No Variant	2020-10-14 — 01:56:41 UTC	angel-a, JackFrost, newduke, wump, XMIL	837	5	25
+319933	5	0	Dark Prism (5 Suits)	2020-10-14 — 01:30:04 UTC	angel-a, JackFrost, newduke, wump, XMIL	7	5	25
+319914	3	0	Duck (5 Suits)	2020-10-14 — 01:11:09 UTC	angel-a, wump, XMIL	16	5	25
+319375	3	25	No Variant	2020-10-13 — 06:06:02 UTC	Carunty, orucsoraihc, wump	243	5	25
+319355	5	29	Rainbow (6 Suits)	2020-10-13 — 05:26:55 UTC	angel-a, JackFrost, ksfortson, StKildaFan, wump	67	6	30
+319311	3	0	Rainbow (6 Suits)	2020-10-13 — 04:42:24 UTC	JackFrost, StKildaFan, wump	83	6	30
+319292	5	28	White (6 Suits)	2020-10-13 — 04:12:08 UTC	duckmedic, JackFrost, ksfortson, StKildaFan, wump	27	6	30
+319255	5	0	White (6 Suits)	2020-10-13 — 03:34:31 UTC	duckmedic, JackFrost, ksfortson, StKildaFan, wump	37	6	30
+319114	5	30	Rainbow (6 Suits)	2020-10-13 — 00:46:13 UTC	Carunty, duckmedic, JackFrost, ksfortson, wump	101	6	30
+319087	4	0	Rainbow (6 Suits)	2020-10-13 — 00:03:37 UTC	Carunty, JackFrost, ksfortson, wump	91	6	30
+319085	4	0	Rainbow (6 Suits)	2020-10-13 — 00:00:56 UTC	Carunty, JackFrost, ksfortson, wump	96	6	30
+318714	3	28	Black (6 Suits)	2020-10-12 — 07:42:09 UTC	ksfortson, Pablo-, wump	213	6	30
+318693	4	0	Rainbow (6 Suits)	2020-10-12 — 06:23:40 UTC	duckmedic, JackFrost, ksfortson, wump	104	6	30
+318679	4	0	Rainbow (6 Suits)	2020-10-12 — 05:46:48 UTC	duckmedic, JackFrost, ksfortson, wump	122	6	30
+318670	4	0	Rainbow (6 Suits)	2020-10-12 — 05:32:41 UTC	duckmedic, JackFrost, ksfortson, wump	156	6	30
+318328	5	0	6 Suits	2020-10-11 — 22:10:17 UTC	angel-a, Carunty, honzas, Pepepe, wump	132	6	30
+318299	3	0	6 Suits	2020-10-11 — 21:40:34 UTC	angel-a, Pepepe, wump	365	6	30
+318224	3	25	No Variant	2020-10-11 — 20:11:24 UTC	angel-a, wump, XMIL	65	5	25
+317961	6	26	Black (6 Suits)	2020-10-11 — 06:49:08 UTC	angel-a, Animex52, catula, sin_faith, swineherd, wump	15	6	30
+317642	3	25	No Variant	2020-10-10 — 23:41:27 UTC	angel-a, ksfortson, wump	269	5	25
+317609	3	25	No Variant	2020-10-10 — 23:03:31 UTC	angel-a, duckmedic, wump	275	5	25
+317572	4	22	No Variant	2020-10-10 — 22:17:00 UTC	angel-a, asaelr, duckmedic, wump	14	5	25
+317537	4	0	No Variant	2020-10-10 — 21:45:33 UTC	angel-a, asaelr, duckmedic, wump	14	5	25
+317518	5	20	No Variant	2020-10-10 — 21:21:20 UTC	angel-a, antitelharsic, asaelr, swineherd, wump	12	5	25
+317489	4	25	No Variant	2020-10-10 — 20:32:55 UTC	angel-a, Carunty, VerySloppyTwo, wump	793	5	25
+317478	4	0	No Variant	2020-10-10 — 19:59:22 UTC	angel-a, IsabeltheCat, VerySloppyTwo, wump	473	5	25
+317470	4	0	No Variant	2020-10-10 — 19:40:37 UTC	angel-a, IsabeltheCat, VerySloppyTwo, wump	501	5	25
+317451	4	25	No Variant	2020-10-10 — 19:09:20 UTC	angel-a, Fey, VerySloppyTwo, wump	213	5	25
+317432	4	0	No Variant	2020-10-10 — 18:51:33 UTC	angel-a, Fey, VerySloppyTwo, wump	384	5	25
+317430	3	0	No Variant	2020-10-10 — 18:48:29 UTC	angel-a, Fey, wump	79	5	25
+317424	3	25	No Variant	2020-10-10 — 18:37:35 UTC	angel-a, Fey, wump	89	5	25
+317249	4	0	Prism (6 Suits)	2020-10-10 — 09:22:46 UTC	antitelharsic, JackFrost, ksfortson, wump	3	6	30
+317239	4	0	Prism (6 Suits)	2020-10-10 — 08:39:48 UTC	antitelharsic, JackFrost, ksfortson, wump	4	6	30
+317221	3	25	No Variant	2020-10-10 — 07:44:55 UTC	JackFrost, ksfortson, wump	285	5	25
+317206	4	26	Up or Down (6 Suits)	2020-10-10 — 07:01:15 UTC	angel-a, JackFrost, ksfortson, wump	40	6	30
+317173	5	25	No Variant	2020-10-10 — 05:57:15 UTC	angel-a, duckmedic, JackFrost, VipersOracle, wump	457	5	25
+317125	5	30	Prism (6 Suits)	2020-10-10 — 05:16:34 UTC	angie123, JackFrost, ksfortson, VipersOracle, wump	17	6	30
+317074	5	0	Prism (6 Suits)	2020-10-10 — 04:27:15 UTC	angie123, JackFrost, ksfortson, VipersOracle, wump	24	6	30
+316997	6	21	No Variant	2020-10-10 — 02:44:15 UTC	angel-a, angie123, JackFrost, ksfortson, VipersOracle, wump	179	5	25
+316949	6	22	No Variant	2020-10-10 — 01:51:51 UTC	angel-a, angie123, JackFrost, ksfortson, VipersOracle, wump	282	5	25
+316926	3	25	No Variant	2020-10-10 — 01:28:20 UTC	angel-a, ksfortson, wump	307	5	25
+316904	3	0	No Variant	2020-10-10 — 01:04:27 UTC	angel-a, ksfortson, wump	324	5	25
+316884	3	24	No Variant	2020-10-10 — 00:19:11 UTC	angel-a, StKildaFan, wump	62	5	25
+316849	3	24	No Variant	2020-10-09 — 23:33:20 UTC	angel-a, StKildaFan, wump	66	5	25
+316798	3	25	No Variant	2020-10-09 — 22:48:59 UTC	angel-a, StKildaFan, wump	63	5	25
+316700	3	24	No Variant	2020-10-09 — 20:45:33 UTC	angel-a, newduke, wump	320	5	25
+316434	3	30	Prism (6 Suits)	2020-10-09 — 08:37:08 UTC	duckmedic, VipersOracle, wump	18	6	30
+316432	3	29	Prism (6 Suits)	2020-10-09 — 08:11:48 UTC	duckmedic, VipersOracle, wump	18	6	30
+316429	4	0	Prism (6 Suits)	2020-10-09 — 07:53:43 UTC	duckmedic, ksfortson, VipersOracle, wump	6	6	30
+316425	2	21	Pink (6 Suits)	2020-10-09 — 07:39:47 UTC	ksfortson, wump	172	6	30
+316416	2	27	Pink (6 Suits)	2020-10-09 — 07:04:15 UTC	ksfortson, wump	219	6	30
+316395	3	0	Prism (6 Suits)	2020-10-09 — 06:13:37 UTC	ksfortson, VipersOracle, wump	20	6	30
+316389	5	26	Prism (6 Suits)	2020-10-09 — 05:46:20 UTC	antitelharsic, duckmedic, JackFrost, ksfortson, wump	10	6	30
+316367	5	0	Prism (6 Suits)	2020-10-09 — 05:06:06 UTC	antitelharsic, duckmedic, JackFrost, ksfortson, wump	12	6	30
+316364	5	0	Dual-Color (6 Suits)	2020-10-09 — 05:02:15 UTC	antitelharsic, duckmedic, JackFrost, ksfortson, wump	18	6	30
+316333	5	24	No Variant	2020-10-09 — 04:34:34 UTC	duckmedic, JackFrost, ksfortson, orucsoraihc, wump	541	5	25
+316313	5	0	No Variant	2020-10-09 — 04:06:24 UTC	duckmedic, JackFrost, ksfortson, orucsoraihc, wump	1119	5	25
+316286	5	0	Rainbow (6 Suits)	2020-10-09 — 03:34:18 UTC	duckmedic, JackFrost, orucsoraihc, StKildaFan, wump	133	6	30
+316261	5	21	No Variant	2020-10-09 — 02:53:51 UTC	duckmedic, JackFrost, orucsoraihc, StKildaFan, wump	207	5	25
+316204	5	0	No Variant	2020-10-09 — 02:12:56 UTC	duckmedic, JackFrost, ksfortson, StKildaFan, wump	223	5	25
+316188	5	0	No Variant	2020-10-09 — 01:43:41 UTC	duckmedic, JackFrost, ksfortson, StKildaFan, wump	658	5	25
+316179	5	0	No Variant	2020-10-09 — 01:30:48 UTC	duckmedic, JackFrost, ksfortson, StKildaFan, wump	1995	5	25
+316173	3	23	No Variant	2020-10-09 — 01:18:14 UTC	duckmedic, ksfortson, wump	344	5	25
+316158	3	0	No Variant	2020-10-09 — 00:58:39 UTC	duckmedic, ksfortson, wump	354	5	25
+315935	4	25	Up or Down (5 Suits)	2020-10-08 — 19:20:37 UTC	emilyzhao, IsabeltheCat, squidgetx, wump	27	5	25
+315829	4	25	Pink (5 Suits)	2020-10-08 — 16:42:56 UTC	Hapotata, lotem, MarkusKahlsen, wump	23	5	25
+315566	3	29	Prism (6 Suits)	2020-10-08 — 03:42:55 UTC	duckmedic, ksfortson, wump	25	6	30
+315543	3	0	Prism (6 Suits)	2020-10-08 — 03:13:29 UTC	duckmedic, ksfortson, wump	36	6	30
+315511	5	25	No Variant	2020-10-08 — 02:49:24 UTC	duckmedic, honzas, ksfortson, timotree, wump	143	5	25
+315474	5	0	No Variant	2020-10-08 — 02:12:14 UTC	duckmedic, honzas, ksfortson, timotree, wump	163	5	25
+315436	5	25	No Variant	2020-10-08 — 01:45:14 UTC	duckmedic, honzas, ksfortson, timotree, wump	262	5	25
+315397	5	25	No Variant	2020-10-08 — 00:59:20 UTC	duckmedic, honzas, ksfortson, timotree, wump	296	5	25
+315361	3	25	No Variant	2020-10-08 — 00:22:15 UTC	duckmedic, ksfortson, wump	375	5	25
+315213	3	29	Up or Down (6 Suits)	2020-10-07 — 20:45:48 UTC	nitawa, Veexliat, wump	20	6	30
+315188	2	25	Prism (5 Suits)	2020-10-07 — 20:10:39 UTC	nitawa, wump	30	5	25
+315169	2	23	Prism (5 Suits)	2020-10-07 — 19:49:09 UTC	nitawa, wump	36	5	25
+315149	2	0	Prism (5 Suits)	2020-10-07 — 19:31:02 UTC	nitawa, wump	52	5	25
+315119	4	0	No Variant	2020-10-07 — 18:54:57 UTC	DMoney, Jo_anne, rachyrules, wump	419	5	25
+315105	4	0	No Variant	2020-10-07 — 18:35:26 UTC	DMoney, Jo_anne, rachyrules, wump	541	5	25
+315093	4	23	Black (5 Suits)	2020-10-07 — 18:14:05 UTC	jack_0f_hearts, rachyrules, Veexliat, wump	79	5	25
+314968	2	25	No Variant	2020-10-07 — 15:36:43 UTC	Jo_anne, wump	1840	5	25
+314961	2	0	No Variant	2020-10-07 — 15:19:00 UTC	Jo_anne, wump	1952	5	25
+314955	2	0	No Variant	2020-10-07 — 14:58:03 UTC	Jo_anne, wump	2147	5	25
+314952	2	0	No Variant	2020-10-07 — 14:47:44 UTC	Jo_anne, wump	2288	5	25
+314835	5	25	No Variant	2020-10-07 — 07:35:18 UTC	antitelharsic, duckmedic, JackFrost, ksfortson, wump	80	5	25
+314808	4	27	Duck (6 Suits)	2020-10-07 — 06:44:37 UTC	antitelharsic, duckmedic, JackFrost, wump	3	6	30
+314775	4	25	No Variant	2020-10-07 — 05:34:10 UTC	duckmedic, JackFrost, ksfortson, wump	1449	5	25
+314754	4	22	No Variant	2020-10-07 — 04:56:27 UTC	duckmedic, JackFrost, ksfortson, wump	1744	5	25
+314721	4	0	No Variant	2020-10-07 — 04:19:40 UTC	duckmedic, JackFrost, ksfortson, wump	2076	5	25
+314707	4	22	No Variant	2020-10-07 — 04:01:50 UTC	duckmedic, JackFrost, ksfortson, wump	3581	5	25
+314675	4	23	No Variant	2020-10-07 — 03:06:41 UTC	JackFrost, Jake_Stiles, ksfortson, wump	233	5	25
+314657	4	0	No Variant	2020-10-07 — 02:31:39 UTC	JackFrost, Jake_Stiles, ksfortson, wump	243	5	25
+314639	4	24	No Variant	2020-10-07 — 01:59:39 UTC	JackFrost, Jake_Stiles, ksfortson, wump	287	5	25
+314615	4	25	No Variant	2020-10-07 — 01:22:59 UTC	JackFrost, Jake_Stiles, ksfortson, wump	326	5	25
+314578	3	0	No Variant	2020-10-07 — 00:41:02 UTC	Jake_Stiles, ksfortson, wump	100	5	25
+314562	4	0	No Variant	2020-10-07 — 00:26:19 UTC	JackFrost, Jake_Stiles, ksfortson, wump	442	5	25
+314558	4	24	No Variant	2020-10-07 — 00:15:01 UTC	JackFrost, Jake_Stiles, ksfortson, wump	717	5	25
+314468	4	25	No Variant	2020-10-06 — 21:26:13 UTC	asaelr, Feich59, wump, XMIL	13	5	25
+314452	3	27	Up or Down (6 Suits)	2020-10-06 — 20:52:55 UTC	Feich59, nitawa, wump	55	6	30
+314423	3	28	Up or Down (6 Suits)	2020-10-06 — 20:08:44 UTC	IsabeltheCat, nitawa, wump	24	6	30
+314392	3	0	Up or Down (6 Suits)	2020-10-06 — 19:36:34 UTC	ejwu, IsabeltheCat, wump	34	6	30
+314376	2	28	Up or Down (6 Suits)	2020-10-06 — 19:02:12 UTC	IsabeltheCat, wump	15	6	30
+314349	3	24	No Variant	2020-10-06 — 18:23:17 UTC	nitawa, Pilukno, wump	386	5	25
+314332	3	24	No Variant	2020-10-06 — 17:43:59 UTC	nitawa, Pilukno, wump	411	5	25
+314152	4	24	No Variant	2020-10-06 — 07:23:24 UTC	antitelharsic, ksfortson, VipersOracle, wump	74	5	25
+314130	4	24	No Variant	2020-10-06 — 05:59:22 UTC	AnnaTheNerd, ksfortson, StKildaFan, wump	190	5	25
+314095	6	25	No Variant	2020-10-06 — 05:19:21 UTC	duckmedic, JackFrost, ksfortson, lingomaniac88, StKildaFan, wump	60	5	25
+314062	6	0	No Variant	2020-10-06 — 04:43:06 UTC	duckmedic, JackFrost, ksfortson, orucsoraihc, StKildaFan, wump	91	5	25
+314045	3	23	No Variant	2020-10-06 — 04:18:42 UTC	JackFrost, ksfortson, wump	422	5	25
+314028	3	0	No Variant	2020-10-06 — 03:46:21 UTC	JackFrost, ksfortson, wump	451	5	25
+314021	3	0	No Variant	2020-10-06 — 03:33:29 UTC	JackFrost, ksfortson, wump	485	5	25
+314007	3	0	No Variant	2020-10-06 — 03:17:29 UTC	JackFrost, ksfortson, wump	516	5	25
+313990	3	29	White (6 Suits)	2020-10-06 — 02:58:26 UTC	JackFrost, ksfortson, wump	124	6	30
+313833	4	28	Rainbow & Gray (6 Suits)	2020-10-05 — 22:57:37 UTC	DMoney, honzas, StKildaFan, wump	15	6	30
+313518	3	26	Rainbow (6 Suits)	2020-10-05 — 18:37:17 UTC	orucsoraihc, Pepepe, wump	104	6	30
+313333	4	29	Duck (6 Suits)	2020-10-05 — 07:20:21 UTC	duckmedic, ksfortson, VipersOracle, wump	7	6	30
+313328	4	0	Duck (6 Suits)	2020-10-05 — 06:47:45 UTC	duckmedic, ksfortson, VipersOracle, wump	9	6	30
+313327	3	0	Duck (6 Suits)	2020-10-05 — 06:44:31 UTC	duckmedic, ksfortson, wump	12	6	30
+313325	3	0	Duck (6 Suits)	2020-10-05 — 06:39:47 UTC	duckmedic, ksfortson, wump	17	6	30
+313322	3	29	Black (6 Suits)	2020-10-05 — 06:18:14 UTC	duckmedic, ksfortson, wump	399	6	30
+313304	3	28	6 Suits	2020-10-05 — 05:37:13 UTC	ksfortson, lingomaniac88, wump	503	6	30
+313294	6	0	6 Suits	2020-10-05 — 04:48:46 UTC	AnnaTheNerd, ksfortson, lingomaniac88, StKildaFan, VipersOracle, wump	84	6	30
+313284	4	0	Rainbow (6 Suits)	2020-10-05 — 04:25:42 UTC	lingomaniac88, StKildaFan, VipersOracle, wump	132	6	30
+312695	3	30	Rainbow & Prism (6 Suits)	2020-10-04 — 09:38:59 UTC	JackFrost, ksfortson, wump	18	6	30
+312685	3	28	Black (6 Suits)	2020-10-04 — 08:54:03 UTC	asaelr, nitawa, wump	23	6	30
+312671	4	22	Up or Down (5 Suits)	2020-10-04 — 08:17:59 UTC	duckmedic, JackFrost, ksfortson, wump	75	5	25
+312658	4	0	Prism (6 Suits)	2020-10-04 — 07:47:08 UTC	duckmedic, JackFrost, ksfortson, wump	6	6	30
+312649	4	26	Prism (6 Suits)	2020-10-04 — 07:29:48 UTC	duckmedic, JackFrost, ksfortson, wump	5	6	30
+312636	4	0	Prism (6 Suits)	2020-10-04 — 06:54:42 UTC	duckmedic, JackFrost, ksfortson, wump	6	6	30
+312635	4	0	Prism (6 Suits)	2020-10-04 — 06:52:57 UTC	duckmedic, JackFrost, ksfortson, wump	7	6	30
+312634	4	0	Prism (6 Suits)	2020-10-04 — 06:52:47 UTC	duckmedic, JackFrost, ksfortson, wump	10	6	30
+312628	4	0	Prism (6 Suits)	2020-10-04 — 06:35:24 UTC	duckmedic, JackFrost, ksfortson, wump	8	6	30
+312613	4	0	Prism (6 Suits)	2020-10-04 — 06:02:32 UTC	duckmedic, JackFrost, ksfortson, wump	14	6	30
+312602	4	0	Prism (6 Suits)	2020-10-04 — 05:48:12 UTC	duckmedic, JackFrost, ksfortson, wump	15	6	30
+312587	4	25	Prism (6 Suits)	2020-10-04 — 05:24:03 UTC	duckmedic, JackFrost, ksfortson, wump	15	6	30
+312560	4	0	Prism (6 Suits)	2020-10-04 — 04:46:17 UTC	duckmedic, JackFrost, ksfortson, wump	22	6	30
+312545	4	0	Prism (6 Suits)	2020-10-04 — 04:21:43 UTC	ksfortson, Kyle, Puzzle, wump	23	6	30
+312530	4	28	Prism (6 Suits)	2020-10-04 — 03:56:29 UTC	ksfortson, Kyle, Puzzle, wump	26	6	30
+312510	3	30	Prism (6 Suits)	2020-10-04 — 03:25:18 UTC	ksfortson, scharkbite, wump	45	6	30
+311171	3	30	Prism (6 Suits)	2020-10-02 — 19:35:24 UTC	ksfortson, Veexliat, wump	60	6	30
+311155	3	27	Prism (6 Suits)	2020-10-02 — 19:06:00 UTC	ksfortson, Veexliat, wump	84	6	30
+311136	3	27	Black (6 Suits)	2020-10-02 — 18:29:38 UTC	ksfortson, nitawa, wump	261	6	30
+311123	2	25	White (5 Suits)	2020-10-02 — 18:04:06 UTC	nitawa, wump	184	5	25
+311109	2	25	Black (5 Suits)	2020-10-02 — 17:48:10 UTC	nitawa, wump	244	5	25
+311096	3	0	Black (6 Suits)	2020-10-02 — 17:28:49 UTC	nitawa, Veexliat, wump	325	6	30
+310947	2	22	No Variant	2020-10-02 — 09:33:05 UTC	catula, wump	354	5	25
+310942	3	24	No Variant	2020-10-02 — 09:03:47 UTC	duckmedic, JackFrost, wump	551	5	25
+310941	3	0	No Variant	2020-10-02 — 08:56:15 UTC	duckmedic, JackFrost, wump	573	5	25
+310939	3	23	No Variant	2020-10-02 — 08:48:38 UTC	duckmedic, JackFrost, wump	624	5	25
+310937	3	21	No Variant	2020-10-02 — 08:41:40 UTC	duckmedic, JackFrost, wump	680	5	25
+310935	3	25	No Variant	2020-10-02 — 08:30:15 UTC	duckmedic, JackFrost, wump	750	5	25
+310933	3	24	No Variant	2020-10-02 — 08:21:10 UTC	duckmedic, JackFrost, wump	940	5	25
+310932	3	22	No Variant	2020-10-02 — 08:11:08 UTC	duckmedic, JackFrost, wump	1291	5	25
+310914	4	26	Prism (6 Suits)	2020-10-02 — 06:43:59 UTC	duckmedic, JackFrost, ksfortson, wump	35	6	30
+310904	4	27	Prism (6 Suits)	2020-10-02 — 06:01:02 UTC	duckmedic, JackFrost, ksfortson, wump	53	6	30
+310679	3	27	Up or Down (6 Suits)	2020-10-01 — 22:24:00 UTC	IsabeltheCat, newduke, wump	41	6	30
+310673	5	0	Up or Down (6 Suits)	2020-10-01 — 21:56:27 UTC	IsabeltheCat, jeff10, micerang, newduke, wump	11	6	30
+310390	2	27	Prism (6 Suits)	2020-10-01 — 07:46:06 UTC	ksfortson, wump	87	6	30
+310380	2	27	Prism (6 Suits)	2020-10-01 — 07:22:01 UTC	ksfortson, wump	112	6	30
+310347	3	21	No Variant	2020-10-01 — 06:26:13 UTC	ksfortson, parrotdoxair, wump	840	5	25
+310334	4	0	No Variant	2020-10-01 — 05:57:50 UTC	ksfortson, parrotdoxair, StKildaFan, wump	257	5	25
+310327	4	0	No Variant	2020-10-01 — 05:46:40 UTC	ksfortson, parrotdoxair, StKildaFan, wump	278	5	25
+309617	2	28	Rainbow (6 Suits)	2020-09-30 — 08:10:14 UTC	ksfortson, wump	306	6	30
+309612	3	25	No Variant	2020-09-30 — 07:19:43 UTC	ksfortson, timotree, wump	121	5	25
+309607	2	24	No Variant	2020-09-30 — 06:41:52 UTC	ejwu, wump	3051	5	25
+309602	3	0	No Variant	2020-09-30 — 06:19:12 UTC	edens, ejwu, wump	801	5	25
+309242	3	30	6 Suits	2020-09-29 — 20:50:44 UTC	asdfasdf, finessa, wump	83	6	30
+309215	3	28	6 Suits	2020-09-29 — 20:22:38 UTC	asdfasdf, finessa, wump	93	6	30
+309112	4	24	Prism (5 Suits)	2020-09-29 — 17:24:07 UTC	nitawa, sephiroth, TimeHoodie, wump	29	5	25
+308851	2	22	No Variant	2020-09-29 — 03:16:11 UTC	a1b2, wump	3507	5	25
+308835	2	20	No Variant	2020-09-29 — 03:01:34 UTC	a1b2, wump	4109	5	25
+308537	3	30	Rainbow & Prism (6 Suits)	2020-09-28 — 20:53:59 UTC	orucsoraihc, timotree, wump	22	6	30
+308506	4	23	No Variant	2020-09-28 — 20:11:32 UTC	orucsoraihc, pettzar, timotree, wump	95	5	25
+308480	4	24	Prism (5 Suits)	2020-09-28 — 19:26:56 UTC	Hapotata, nitawa, timotree, wump	23	5	25
+308453	4	23	Prism (5 Suits)	2020-09-28 — 18:49:18 UTC	Hapotata, nitawa, timotree, wump	47	5	25
+308408	3	25	Prism (5 Suits)	2020-09-28 — 18:10:13 UTC	nitawa, timotree, wump	6	5	25
+308385	2	23	Prism (5 Suits)	2020-09-28 — 17:42:57 UTC	nitawa, wump	95	5	25
+308378	3	0	No Variant	2020-09-28 — 17:28:07 UTC	capncook, nitawa, wump	1465	5	25
+308372	2	25	No Variant	2020-09-28 — 17:17:43 UTC	nitawa, wump	2532	5	25
+308367	2	0	No Variant	2020-09-28 — 17:06:53 UTC	nitawa, wump	2750	5	25
+308199	2	30	Rainbow (6 Suits)	2020-09-28 — 06:34:30 UTC	ksfortson, wump	327	6	30
+308192	2	30	Rainbow (6 Suits)	2020-09-28 — 06:00:17 UTC	ksfortson, wump	349	6	30
+308170	2	29	Rainbow (6 Suits)	2020-09-28 — 05:08:02 UTC	ksfortson, wump	395	6	30
+308141	3	29	Rainbow (6 Suits)	2020-09-28 — 04:24:18 UTC	JackFrost, ksfortson, wump	118	6	30
+308127	4	0	Rainbow (6 Suits)	2020-09-28 — 03:48:28 UTC	Galandria, JackFrost, ksfortson, wump	163	6	30
+308105	3	26	Rainbow (6 Suits)	2020-09-28 — 03:26:31 UTC	Galandria, JackFrost, wump	120	6	30
+308074	3	0	Rainbow (6 Suits)	2020-09-28 — 02:51:15 UTC	Galandria, JackFrost, wump	126	6	30
+307575	3	25	No Variant	2020-09-27 — 11:03:48 UTC	parrotdoxair, pettzar, wump	1636	5	25
+307568	5	23	No Variant	2020-09-27 — 09:56:22 UTC	asaelr, MKQ, Pablo-, parrotdoxair, wump	14	5	25
+307567	4	0	No Variant	2020-09-27 — 09:18:09 UTC	asaelr, MKQ, parrotdoxair, wump	15	5	25
+307564	3	25	No Variant	2020-09-27 — 09:08:35 UTC	asaelr, parrotdoxair, wump	9	5	25
+307553	3	30	Rainbow (6 Suits)	2020-09-27 — 08:31:03 UTC	JackFrost, ksfortson, wump	141	6	30
+307540	3	26	Rainbow (6 Suits)	2020-09-27 — 07:53:51 UTC	JackFrost, ksfortson, wump	146	6	30
+307525	3	24	Rainbow (6 Suits)	2020-09-27 — 07:20:10 UTC	Galandria, ksfortson, wump	165	6	30
+307517	3	0	Rainbow (6 Suits)	2020-09-27 — 06:44:25 UTC	Galandria, ksfortson, wump	183	6	30
+307354	3	24	No Variant	2020-09-27 — 03:31:38 UTC	parrotdoxair, rachyrules, wump	459	5	25
+307138	2	25	No Variant	2020-09-26 — 23:10:30 UTC	capncook, wump	5374	5	25
+306347	3	0	No Variant	2020-09-25 — 21:52:37 UTC	arnino, nitawa, wump	1017	5	25
+306324	3	25	No Variant	2020-09-25 — 21:26:11 UTC	arnino, nitawa, wump	1095	5	25
+306304	3	24	No Variant	2020-09-25 — 20:48:34 UTC	arnino, nitawa, wump	1174	5	25
+306291	3	22	No Variant	2020-09-25 — 20:20:03 UTC	arnino, nitawa, wump	1881	5	25
+306264	3	24	No Variant	2020-09-25 — 19:41:36 UTC	nitawa, TheDaniMan, wump	57	5	25
+306177	3	25	White (5 Suits)	2020-09-25 — 17:08:52 UTC	nitawa, Pablo-, wump	126	5	25
+306150	3	25	No Variant	2020-09-25 — 16:32:17 UTC	nitawa, Pablo-, wump	151	5	25
+305545	4	25	No Variant	2020-09-24 — 21:07:14 UTC	Darth_Calculus, nitawa, philipxjm, wump	117	5	25
+305462	4	25	No Variant	2020-09-24 — 19:16:17 UTC	egerdm, Hapotata, nitawa, wump	373	5	25
+305448	4	23	No Variant	2020-09-24 — 18:44:53 UTC	egerdm, Hapotata, nitawa, wump	1253	5	25
+305361	5	0	No Variant	2020-09-24 — 15:04:03 UTC	nitawa, orucsoraihc, StKildaFan, vEnhance, wump	35	5	25
+305357	4	21	No Variant	2020-09-24 — 14:35:25 UTC	nitawa, StKildaFan, vEnhance, wump	149	5	25
+302374	2	25	No Variant	2020-09-20 — 16:13:54 UTC	dhruvpillai6, wump	1031	5	25
+302371	2	0	No Variant	2020-09-20 — 16:06:15 UTC	dhruvpillai6, wump	1078	5	25
+302367	2	23	No Variant	2020-09-20 — 16:02:42 UTC	dhruvpillai6, wump	1117	5	25
+302353	2	21	No Variant	2020-09-20 — 15:49:16 UTC	dhruvpillai6, wump	1148	5	25
+302342	2	23	No Variant	2020-09-20 — 15:30:28 UTC	dhruvpillai6, wump	1206	5	25
+302331	2	23	No Variant	2020-09-20 — 15:17:18 UTC	dhruvpillai6, wump	1249	5	25
+302327	2	22	No Variant	2020-09-20 — 15:08:02 UTC	dhruvpillai6, wump	1299	5	25
+302233	4	0	Rainbow (6 Suits)	2020-09-20 — 08:35:15 UTC	duckmedic, JackFrost, stitch, wump	185	6	30
+302222	4	0	Rainbow (6 Suits)	2020-09-20 — 07:49:43 UTC	duckmedic, JackFrost, stitch, wump	200	6	30
+302216	4	29	Rainbow (6 Suits)	2020-09-20 — 07:15:32 UTC	duckmedic, JackFrost, stitch, wump	238	6	30
+302197	5	0	Rainbow (6 Suits)	2020-09-20 — 06:26:14 UTC	CDC, duckmedic, JackFrost, stitch, wump	209	6	30
+302184	4	27	Rainbow (6 Suits)	2020-09-20 — 05:50:42 UTC	CDC, JackFrost, stitch, wump	275	6	30
+302165	4	0	Rainbow (6 Suits)	2020-09-20 — 05:10:15 UTC	CDC, JackFrost, stitch, wump	344	6	30
+302148	4	28	Rainbow (6 Suits)	2020-09-20 — 04:43:20 UTC	CDC, JackFrost, stitch, wump	493	6	30
+300056	4	27	Black (6 Suits)	2020-09-17 — 17:39:43 UTC	kevincaseytdk1, newduke, vEnhance, wump	102	6	30
+300016	3	20	4 Suits	2020-09-17 — 16:10:02 UTC	rachyrules, vEnhance, wump	90	4	20
+299575	2	0	Rainbow (6 Suits)	2020-09-17 — 08:10:24 UTC	ksfortson, wump	441	6	30
+299567	2	28	Rainbow (6 Suits)	2020-09-17 — 07:42:50 UTC	ksfortson, wump	500	6	30
+299561	2	28	Rainbow (6 Suits)	2020-09-17 — 07:10:47 UTC	ksfortson, wump	593	6	30
+299544	3	30	Rainbow (6 Suits)	2020-09-17 — 06:18:33 UTC	Galandria, ksfortson, wump	196	6	30
+299502	3	0	Rainbow (6 Suits)	2020-09-17 — 05:31:28 UTC	Galandria, ksfortson, wump	215	6	30
+299485	3	0	Rainbow (6 Suits)	2020-09-17 — 04:49:53 UTC	Galandria, ksfortson, wump	237	6	30
+299454	3	28	Rainbow (6 Suits)	2020-09-17 — 04:13:07 UTC	Galandria, ksfortson, wump	282	6	30
+299419	3	28	Rainbow (6 Suits)	2020-09-17 — 03:32:15 UTC	Galandria, ksfortson, wump	332	6	30
+299349	3	20	Rainbow (6 Suits)	2020-09-17 — 02:43:19 UTC	Galandria, ksfortson, wump	396	6	30
+298868	4	30	Rainbow (6 Suits)	2020-09-16 — 16:39:54 UTC	honobu, rachyrules, TimeHoodie, wump	27	6	30
+298848	5	28	Rainbow (6 Suits)	2020-09-16 — 16:03:13 UTC	honobu, Pepepe, rachyrules, TimeHoodie, wump	31	6	30
+298830	5	0	Rainbow (6 Suits)	2020-09-16 — 15:32:15 UTC	honobu, Pepepe, rachyrules, TimeHoodie, wump	83	6	30
+298124	3	25	No Variant	2020-09-15 — 06:31:09 UTC	parrotdoxair, savoryoatmeal, wump	645	5	25
+298116	4	24	No Variant	2020-09-15 — 05:41:50 UTC	jack_0f_hearts, nukelauncher, parrotdoxair, wump	2763	5	25
+281747	2	0	Rainbow (6 Suits)	2020-08-27 — 09:11:24 UTC	stitchinla, wump	717	6	30
+281734	2	26	Rainbow (6 Suits)	2020-08-27 — 08:29:03 UTC	stitchinla, wump	971	6	30
+275672	3	0	Rainbow (6 Suits)	2020-08-20 — 06:04:42 UTC	duckmedic, JackFrost, wump	508	6	30
+275665	3	0	Rainbow (6 Suits)	2020-08-20 — 05:39:52 UTC	duckmedic, JackFrost, wump	689	6	30
+275660	3	24	No Variant	2020-08-20 — 05:33:32 UTC	duckmedic, JackFrost, wump	2163	5	25
+275635	3	25	No Variant	2020-08-20 — 04:53:29 UTC	duckmedic, JackFrost, wump	2606	5	25
+275605	3	22	No Variant	2020-08-20 — 04:18:52 UTC	duckmedic, JackFrost, wump	3260	5	25
+275579	3	0	No Variant	2020-08-20 — 03:53:46 UTC	duckmedic, JackFrost, wump	4221	5	25

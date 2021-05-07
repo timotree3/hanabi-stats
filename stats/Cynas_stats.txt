@@ -1,0 +1,249 @@
+485967	3	15	Prism (3 Suits)	2021-03-31 — 01:13:45 UTC	BlueNovember, Cynas, Nitrate	20	3	15
+485950	3	0	Prism (3 Suits)	2021-03-31 — 00:56:50 UTC	BlueNovember, Cynas, Nitrate	32	3	15
+485936	3	20	Prism (4 Suits)	2021-03-31 — 00:39:54 UTC	BlueNovember, Cynas, Nitrate	21	4	20
+485922	3	0	Prism (4 Suits)	2021-03-31 — 00:17:45 UTC	BlueNovember, Cynas, Nitrate	27	4	20
+483044	5	23	No Variant	2021-03-28 — 03:47:21 UTC	Bot-Fiora, Cynas, griff77, HelanaAshryvr, timotree	11	5	25
+483012	4	25	No Variant	2021-03-28 — 03:10:20 UTC	Bot-Fiora, Cynas, HelanaAshryvr, timotree	31	5	25
+289481	5	0	Black (5 Suits)	2020-09-05 — 03:32:52 UTC	Cynas, ejwu, joelwool, scharkbite, will.i.am	20	5	25
+288591	4	28	Rainbow & White (6 Suits)	2020-09-04 — 04:03:11 UTC	Cynas, melwen, scharkbite, timotree	16	6	30
+288565	4	0	Rainbow & White (6 Suits)	2020-09-04 — 03:30:46 UTC	Cynas, melwen, scharkbite, timotree	23	6	30
+288530	4	30	Light Pink (6 Suits)	2020-09-04 — 02:56:49 UTC	Cynas, melwen, scharkbite, timotree	8	6	30
+285998	4	0	Prism (5 Suits)	2020-09-01 — 03:16:04 UTC	Cynas, ejwu, jeff10, Puzzle	47	5	25
+285974	6	25	No Variant	2020-09-01 — 02:43:09 UTC	Cynas, ejwu, jeff10, joelwool, Puzzle, XMIL	42	5	25
+285166	4	0	No Variant	2020-08-31 — 04:14:42 UTC	Cold, Cynas, newduke, timotree	54	5	25
+285140	4	0	No Variant	2020-08-31 — 03:57:01 UTC	Cold, Cynas, newduke, timotree	74	5	25
+285120	4	23	No Variant	2020-08-31 — 03:37:38 UTC	Cold, Cynas, newduke, timotree	149	5	25
+281604	4	0	Brown (5 Suits)	2020-08-27 — 04:22:36 UTC	crossproduct, Cynas, nukelauncher, timotree	36	5	25
+281581	6	23	Special Mix (5 Suits)	2020-08-27 — 03:49:30 UTC	crossproduct, Cynas, melwen, scharkbite, Smandon, timotree	3	5	25
+281565	6	24	Cow & Pig (5 Suits)	2020-08-27 — 03:07:43 UTC	crossproduct, Cynas, melwen, Nitrate2, scharkbite, timotree	3	5	25
+281535	3	0	Cow & Pig (5 Suits)	2020-08-27 — 02:17:57 UTC	crossproduct, Cynas, Nitrate2	18	5	25
+281525	3	0	Cow & Pig (5 Suits)	2020-08-27 — 01:57:41 UTC	crossproduct, Cynas, Nitrate2	33	5	25
+280908	3	29	Dark Rainbow (6 Suits)	2020-08-26 — 05:18:13 UTC	Cynas, Smandon, timotree	62	6	30
+280841	3	0	Dark Rainbow (6 Suits)	2020-08-26 — 04:30:19 UTC	Cynas, Smandon, timotree	91	6	30
+280031	4	0	No Variant	2020-08-25 — 05:17:32 UTC	crossproduct, Cynas, ejwu, honobu	57	5	25
+279985	6	22	No Variant	2020-08-25 — 04:25:41 UTC	Cold, crossproduct, Cynas, ejwu, honobu, Smandon	115	5	25
+279928	6	0	No Variant	2020-08-25 — 03:36:32 UTC	Cold, crossproduct, Cynas, honobu, RespectCaviar, schemetrical	179	5	25
+274789	4	25	No Variant	2020-08-19 — 02:17:27 UTC	crossproduct, Cynas, jet082, lamguinparttwo	61	5	25
+274723	3	0	No Variant	2020-08-19 — 01:38:03 UTC	crossproduct, Cynas, jet082	89	5	25
+274098	3	25	No Variant	2020-08-18 — 05:57:23 UTC	crossproduct, Cynas, lamguinparttwo	93	5	25
+274060	3	25	No Variant	2020-08-18 — 05:05:06 UTC	crossproduct, Cynas, lamguinparttwo	101	5	25
+272363	3	24	No Variant	2020-08-16 — 06:14:17 UTC	crossproduct, Cynas, lamguinparttwo	97	5	25
+272353	3	0	No Variant	2020-08-16 — 05:43:26 UTC	crossproduct, Cynas, lamguinparttwo	98	5	25
+272317	3	21	No Variant	2020-08-16 — 05:07:32 UTC	crossproduct, Cynas, lamguinparttwo	100	5	25
+272280	3	0	No Variant	2020-08-16 — 04:28:08 UTC	crossproduct, Cynas, lamguinparttwo	106	5	25
+272231	3	0	No Variant	2020-08-16 — 03:52:06 UTC	crossproduct, Cynas, lamguinparttwo	102	5	25
+270582	4	24	Dual-Color (5 Suits)	2020-08-14 — 05:30:04 UTC	crossproduct, Cynas, Lamguin, mokesmoe	20	5	25
+270523	4	25	No Variant	2020-08-14 — 04:21:31 UTC	crossproduct, Cynas, Lamguin, mokesmoe	60	5	25
+270502	3	0	No Variant	2020-08-14 — 03:49:42 UTC	crossproduct, Cynas, mokesmoe	106	5	25
+270453	3	24	No Variant	2020-08-14 — 03:16:32 UTC	crossproduct, Cynas, mokesmoe	109	5	25
+269620	4	0	Rainbow (5 Suits)	2020-08-13 — 06:01:30 UTC	crossproduct, Cynas, Lamguin, mokesmoe	130	5	25
+269559	5	24	Rainbow (5 Suits)	2020-08-13 — 04:54:41 UTC	crossproduct, Cynas, jet082, Lamguin, mokesmoe	54	5	25
+269470	4	25	No Variant	2020-08-13 — 03:34:19 UTC	crossproduct, Cynas, jet082, mokesmoe	59	5	25
+269385	5	25	White (5 Suits)	2020-08-13 — 01:38:58 UTC	ADrone, crossproduct, Cynas, mokesmoe, will.i.am	37	5	25
+268819	2	14	White (3 Suits)	2020-08-12 — 06:08:00 UTC	crossproduct, Cynas	95	3	15
+268795	3	13	White (3 Suits)	2020-08-12 — 05:50:08 UTC	crossproduct, Cynas, Lamguin	29	3	15
+268743	4	25	No Variant	2020-08-12 — 05:10:51 UTC	2BootsAreBeet, crossproduct, Cynas, Lamguin	63	5	25
+268691	4	25	No Variant	2020-08-12 — 04:10:17 UTC	2BootsAreBeet, crossproduct, Cynas, Lamguin	64	5	25
+268635	4	0	No Variant	2020-08-12 — 03:08:36 UTC	2BootsAreBeet, crossproduct, Cynas, Lamguin	64	5	25
+267931	6	0	Dark Brown (6 Suits)	2020-08-11 — 06:27:05 UTC	Animex52, antitelharsic, Bonja97, crossproduct, Cynas, Dr_Kakashi	6	6	30
+267887	5	0	No Variant	2020-08-11 — 05:33:00 UTC	Animex52, Bonja97, crossproduct, Cynas, Dr_Kakashi	10	5	25
+266877	3	20	White (4 Suits)	2020-08-10 — 04:22:58 UTC	crossproduct, Cynas, Lamguin	59	4	20
+266851	4	24	No Variant	2020-08-10 — 03:37:54 UTC	2BootsAreBeet, crossproduct, Cynas, Lamguin	70	5	25
+266802	4	25	No Variant	2020-08-10 — 02:44:20 UTC	2BootsAreBeet, crossproduct, Cynas, Lamguin	70	5	25
+266739	3	25	White (5 Suits)	2020-08-10 — 01:56:53 UTC	crossproduct, Cynas, Lamguin	126	5	25
+266058	3	0	Dual-Color (6 Suits)	2020-08-09 — 05:58:41 UTC	crossproduct, Cynas, Lamguin	43	6	30
+265979	4	25	No Variant	2020-08-09 — 04:49:35 UTC	2BootsAreBeet, crossproduct, Cynas, Lamguin	68	5	25
+265919	4	30	6 Suits	2020-08-09 — 04:04:15 UTC	2BootsAreBeet, crossproduct, Cynas, Lamguin	151	6	30
+265854	4	25	No Variant	2020-08-09 — 03:04:15 UTC	2BootsAreBeet, crossproduct, Cynas, Lamguin	71	5	25
+264966	4	25	No Variant	2020-08-08 — 05:38:59 UTC	2BootsAreBeet, crossproduct, Cynas, Lamguin	74	5	25
+264878	5	25	No Variant	2020-08-08 — 04:29:55 UTC	2BootsAreBeet, crossproduct, Cynas, Lamguin, xcpenguin	75	5	25
+264763	4	25	Dual-Color (5 Suits)	2020-08-08 — 03:05:41 UTC	crossproduct, Cynas, Lamguin, xcpenguin	31	5	25
+264713	2	0	Rainbow Reversed (6 Suits)	2020-08-08 — 02:17:08 UTC	crossproduct, Cynas	23	6	30
+264106	4	22	Dual-Color (5 Suits)	2020-08-07 — 06:40:02 UTC	crossproduct, Cynas, Lamguin, mokesmoe	37	5	25
+264063	5	24	Dual-Color (5 Suits)	2020-08-07 — 05:33:12 UTC	crossproduct, Cynas, Lamguin, mokesmoe, xcpenguin	15	5	25
+263996	6	23	No Variant	2020-08-07 — 04:26:03 UTC	2BootsAreBeet, crossproduct, Cynas, Lamguin, mokesmoe, xcpenguin	282	5	25
+263931	4	22	No Variant	2020-08-07 — 03:20:02 UTC	2BootsAreBeet, Cynas, Lamguin, mokesmoe	156	5	25
+263894	3	22	Dual-Color (5 Suits)	2020-08-07 — 02:34:56 UTC	Cynas, Lamguin, mokesmoe	69	5	25
+262329	4	30	White (6 Suits)	2020-08-05 — 05:01:38 UTC	crossproduct, Cynas, Lamguin, mokesmoe	60	6	30
+262244	4	26	Black (6 Suits)	2020-08-05 — 03:52:12 UTC	crossproduct, Cynas, Lamguin, mokesmoe	112	6	30
+262164	3	25	No Variant	2020-08-05 — 02:48:34 UTC	crossproduct, Cynas, mokesmoe	110	5	25
+261296	5	25	No Variant	2020-08-04 — 04:41:15 UTC	crossproduct, Cynas, Lamguin, mokesmoe, xcpenguin	77	5	25
+261139	5	28	Rainbow (6 Suits)	2020-08-04 — 03:35:58 UTC	crossproduct, Cynas, jet082, Lamguin, mokesmoe	133	6	30
+261027	5	25	No Variant	2020-08-04 — 02:27:16 UTC	crossproduct, Cynas, jet082, Lamguin, mokesmoe	81	5	25
+256725	4	30	Rainbow (6 Suits)	2020-07-31 — 03:45:53 UTC	crossproduct, Cynas, Lamguin, mokesmoe	275	6	30
+256054	3	30	6 Suits	2020-07-30 — 05:33:50 UTC	crossproduct, Cynas, Lamguin	305	6	30
+255980	4	28	Black (6 Suits)	2020-07-30 — 04:22:22 UTC	crossproduct, Cynas, jet082, Lamguin	128	6	30
+255904	4	25	No Variant	2020-07-30 — 03:09:33 UTC	crossproduct, Cynas, jet082, Lamguin	78	5	25
+255821	3	25	No Variant	2020-07-30 — 02:02:00 UTC	Cynas, jet082, Lamguin	112	5	25
+253857	3	25	No Variant	2020-07-28 — 05:11:03 UTC	Cynas, jet082, Lamguin	114	5	25
+253716	4	25	No Variant	2020-07-28 — 04:04:45 UTC	crossproduct, Cynas, jet082, Lamguin	82	5	25
+253568	4	25	No Variant	2020-07-28 — 02:50:28 UTC	crossproduct, Cynas, jet082, Lamguin	79	5	25
+253502	3	25	No Variant	2020-07-28 — 02:01:04 UTC	Cynas, jet082, Lamguin	148	5	25
+249629	5	26	6 Suits	2020-07-24 — 07:02:38 UTC	crossproduct, Cynas, Lamguin, mokesmoe, xcpenguin	199	6	30
+249536	4	30	6 Suits	2020-07-24 — 04:54:22 UTC	crossproduct, Cynas, Lamguin, mokesmoe	250	6	30
+249476	4	0	6 Suits	2020-07-24 — 04:15:35 UTC	crossproduct, Cynas, Lamguin, mokesmoe	354	6	30
+249424	4	23	No Variant	2020-07-24 — 03:35:40 UTC	crossproduct, Cynas, Lamguin, mokesmoe	81	5	25
+247635	4	25	No Variant	2020-07-22 — 06:30:23 UTC	crossproduct, Cynas, Lamguin, mokesmoe	89	5	25
+247598	4	24	No Variant	2020-07-22 — 05:45:29 UTC	crossproduct, Cynas, Lamguin, mokesmoe	88	5	25
+247575	4	0	No Variant	2020-07-22 — 05:08:46 UTC	crossproduct, Cynas, Lamguin, mokesmoe	90	5	25
+247526	4	0	Rainbow (6 Suits)	2020-07-22 — 04:12:00 UTC	crossproduct, Cynas, Lamguin, mokesmoe	493	6	30
+246708	3	30	Rainbow (6 Suits)	2020-07-21 — 07:10:07 UTC	crossproduct, Cynas, Lamguin	689	6	30
+246648	4	28	Black (6 Suits)	2020-07-21 — 05:34:57 UTC	crossproduct, Cynas, Lamguin, xcpenguin	175	6	30
+246553	3	29	Black (6 Suits)	2020-07-21 — 04:28:42 UTC	Cynas, Lamguin, xcpenguin	213	6	30
+245784	3	28	Black (6 Suits)	2020-07-20 — 07:08:11 UTC	crossproduct, Cynas, Lamguin	236	6	30
+245740	4	30	Black (6 Suits)	2020-07-20 — 05:45:45 UTC	crossproduct, Cynas, Lamguin, xcpenguin	213	6	30
+245673	4	0	Black (6 Suits)	2020-07-20 — 04:39:59 UTC	crossproduct, Cynas, Lamguin, xcpenguin	273	6	30
+245630	3	0	Black (6 Suits)	2020-07-20 — 03:59:40 UTC	crossproduct, Cynas, Lamguin	261	6	30
+245608	3	25	No Variant	2020-07-20 — 03:31:38 UTC	crossproduct, Cynas, xcpenguin	119	5	25
+244831	4	23	No Variant	2020-07-19 — 06:09:17 UTC	crossproduct, Cynas, jet082, xcpenguin	95	5	25
+241219	3	0	No Variant	2020-07-16 — 04:30:36 UTC	crossproduct, Cynas, mokesmoe	121	5	25
+241145	3	23	No Variant	2020-07-16 — 03:35:02 UTC	crossproduct, Cynas, mokesmoe	125	5	25
+241086	4	0	No Variant	2020-07-16 — 02:55:16 UTC	crossproduct, Cynas, mokesmoe, xcpenguin	95	5	25
+240146	4	25	No Variant	2020-07-15 — 05:02:44 UTC	crossproduct, Cynas, Lamguin, mokesmoe	97	5	25
+240063	4	23	No Variant	2020-07-15 — 04:16:22 UTC	crossproduct, Cynas, Lamguin, mokesmoe	99	5	25
+238934	5	25	No Variant	2020-07-14 — 04:52:34 UTC	crossproduct, Cynas, Lamguin, mokesmoe, xcpenguin	80	5	25
+238868	3	25	No Variant	2020-07-14 — 03:50:07 UTC	crossproduct, Cynas, Lamguin	137	5	25
+238833	3	0	No Variant	2020-07-14 — 03:10:10 UTC	crossproduct, Cynas, Lamguin	134	5	25
+238169	4	24	No Variant	2020-07-13 — 06:51:11 UTC	crossproduct, Cynas, Lamguin, mokesmoe	103	5	25
+238070	4	25	No Variant	2020-07-13 — 04:31:52 UTC	crossproduct, Cynas, mokesmoe, xcpenguin	111	5	25
+237235	3	30	Black (6 Suits)	2020-07-12 — 05:44:48 UTC	Cynas, Lamguin, xcpenguin	325	6	30
+237166	3	27	Black (6 Suits)	2020-07-12 — 04:54:12 UTC	Cynas, Lamguin, xcpenguin	399	6	30
+237100	3	23	No Variant	2020-07-12 — 04:14:41 UTC	Cynas, Lamguin, xcpenguin	154	5	25
+237047	3	23	No Variant	2020-07-12 — 03:36:42 UTC	Cynas, Lamguin, xcpenguin	151	5	25
+236084	3	25	No Variant	2020-07-11 — 05:51:04 UTC	Cynas, Lamguin, xcpenguin	156	5	25
+236032	4	25	No Variant	2020-07-11 — 05:01:22 UTC	crossproduct, Cynas, Lamguin, xcpenguin	116	5	25
+235969	3	23	No Variant	2020-07-11 — 04:15:37 UTC	crossproduct, Cynas, Lamguin	157	5	25
+235897	3	24	No Variant	2020-07-11 — 03:24:26 UTC	crossproduct, Cynas, Lamguin	160	5	25
+235847	2	24	No Variant	2020-07-11 — 02:46:54 UTC	Cynas, Lamguin	1299	5	25
+235025	3	24	No Variant	2020-07-10 — 07:06:48 UTC	Cynas, Lamguin, mokesmoe	167	5	25
+235005	3	25	No Variant	2020-07-10 — 06:40:40 UTC	Cynas, Lamguin, mokesmoe	164	5	25
+234973	2	24	No Variant	2020-07-10 — 05:57:42 UTC	Cynas, mokesmoe	3051	5	25
+234905	3	24	No Variant	2020-07-10 — 05:08:19 UTC	crossproduct, Cynas, mokesmoe	170	5	25
+234781	5	22	No Variant	2020-07-10 — 03:46:05 UTC	crossproduct, Cynas, Lamguin, mokesmoe, xcpenguin	92	5	25
+234048	4	25	No Variant	2020-07-09 — 06:56:02 UTC	crossproduct, Cynas, Lamguin, mokesmoe	117	5	25
+234010	4	22	No Variant	2020-07-09 — 06:00:35 UTC	crossproduct, Cynas, Lamguin, mokesmoe	129	5	25
+233918	4	0	No Variant	2020-07-09 — 04:42:31 UTC	crossproduct, Cynas, Lamguin, mokesmoe	130	5	25
+233870	4	23	No Variant	2020-07-09 — 03:49:38 UTC	crossproduct, Cynas, Lamguin, mokesmoe	125	5	25
+233841	4	25	No Variant	2020-07-09 — 03:05:59 UTC	crossproduct, Cynas, Lamguin, mokesmoe	131	5	25
+232952	4	25	No Variant	2020-07-08 — 04:55:33 UTC	crossproduct, Cynas, Lamguin, mokesmoe	138	5	25
+232914	4	25	No Variant	2020-07-08 — 04:02:56 UTC	crossproduct, Cynas, Lamguin, mokesmoe	158	5	25
+232865	4	23	No Variant	2020-07-08 — 03:04:22 UTC	crossproduct, Cynas, Lamguin, mokesmoe	162	5	25
+231123	2	24	No Variant	2020-07-06 — 07:05:52 UTC	Cynas, Lamguin	1376	5	25
+231117	2	22	No Variant	2020-07-06 — 06:44:42 UTC	Cynas, Lamguin	1448	5	25
+231070	5	24	No Variant	2020-07-06 — 05:57:23 UTC	crossproduct, Cynas, jet082, Lamguin, xcpenguin	109	5	25
+230991	5	24	No Variant	2020-07-06 — 04:57:14 UTC	crossproduct, Cynas, jet082, Lamguin, xcpenguin	120	5	25
+229984	3	0	No Variant	2020-07-05 — 06:22:04 UTC	Cynas, Lamguin, xcpenguin	175	5	25
+229950	3	23	No Variant	2020-07-05 — 05:54:11 UTC	Cynas, Lamguin, xcpenguin	178	5	25
+229891	3	23	No Variant	2020-07-05 — 05:14:46 UTC	Cynas, Lamguin, xcpenguin	187	5	25
+229846	3	23	No Variant	2020-07-05 — 04:41:36 UTC	Cynas, Lamguin, xcpenguin	194	5	25
+229808	2	25	No Variant	2020-07-05 — 04:05:16 UTC	Cynas, Lamguin	1532	5	25
+229785	2	0	No Variant	2020-07-05 — 03:44:57 UTC	Cynas, Lamguin	1621	5	25
+229766	2	23	No Variant	2020-07-05 — 03:30:03 UTC	Cynas, Lamguin	1703	5	25
+229744	2	23	No Variant	2020-07-05 — 03:09:02 UTC	Cynas, Lamguin	1840	5	25
+229703	2	25	No Variant	2020-07-05 — 02:34:18 UTC	Cynas, Lamguin	1952	5	25
+228995	3	0	No Variant	2020-07-04 — 06:45:58 UTC	Cynas, hk_112, Lamguin	201	5	25
+228889	4	23	No Variant	2020-07-04 — 05:22:18 UTC	Cynas, hk_112, Lamguin, xcpenguin	167	5	25
+228843	2	25	No Variant	2020-07-04 — 04:42:33 UTC	Cynas, Lamguin	2147	5	25
+228804	2	24	No Variant	2020-07-04 — 04:12:16 UTC	Cynas, Lamguin	2288	5	25
+228761	2	22	No Variant	2020-07-04 — 03:42:47 UTC	Cynas, Lamguin	2532	5	25
+227732	4	25	No Variant	2020-07-03 — 06:26:19 UTC	Cynas, jet082, Lamguin, xcpenguin	180	5	25
+227698	4	24	No Variant	2020-07-03 — 05:21:56 UTC	Cynas, jet082, Lamguin, xcpenguin	190	5	25
+227651	3	25	No Variant	2020-07-03 — 04:30:48 UTC	Cynas, Lamguin, xcpenguin	199	5	25
+227607	3	0	No Variant	2020-07-03 — 03:56:53 UTC	Cynas, Lamguin, xcpenguin	206	5	25
+227548	3	0	No Variant	2020-07-03 — 03:08:11 UTC	Cynas, Lamguin, xcpenguin	213	5	25
+226632	2	0	No Variant	2020-07-02 — 07:33:21 UTC	Cynas, mokesmoe	3507	5	25
+226626	2	25	No Variant	2020-07-02 — 07:20:13 UTC	Cynas, mokesmoe	4109	5	25
+226609	4	24	No Variant	2020-07-02 — 06:48:18 UTC	Cynas, Lamguin, mokesmoe, xcpenguin	198	5	25
+226582	4	0	No Variant	2020-07-02 — 06:06:33 UTC	Cynas, Lamguin, mokesmoe, xcpenguin	204	5	25
+226556	4	25	No Variant	2020-07-02 — 05:38:51 UTC	Cynas, Lamguin, mokesmoe, xcpenguin	213	5	25
+226496	5	24	No Variant	2020-07-02 — 04:49:27 UTC	Cynas, jet082, Lamguin, mokesmoe, xcpenguin	126	5	25
+226405	3	25	No Variant	2020-07-02 — 03:41:16 UTC	Cynas, jet082, Lamguin	218	5	25
+226324	3	24	No Variant	2020-07-02 — 02:47:36 UTC	Cynas, jet082, Lamguin	223	5	25
+225433	2	21	No Variant	2020-07-01 — 06:45:03 UTC	Cynas, Lamguin	2750	5	25
+225385	5	24	No Variant	2020-07-01 — 05:55:39 UTC	crossproduct, Cynas, Lamguin, mokesmoe, xcpenguin	135	5	25
+225316	5	25	No Variant	2020-07-01 — 05:10:37 UTC	crossproduct, Cynas, Lamguin, mokesmoe, xcpenguin	143	5	25
+225277	4	0	No Variant	2020-07-01 — 04:38:44 UTC	Cynas, Lamguin, mokesmoe, xcpenguin	233	5	25
+225248	4	22	No Variant	2020-07-01 — 04:17:50 UTC	Cynas, Lamguin, mokesmoe, xcpenguin	326	5	25
+225159	3	25	No Variant	2020-07-01 — 03:15:56 UTC	Cynas, Lamguin, xcpenguin	220	5	25
+225105	3	22	No Variant	2020-07-01 — 02:44:20 UTC	Cynas, Lamguin, xcpenguin	224	5	25
+224277	3	21	No Variant	2020-06-30 — 06:26:40 UTC	Cynas, Lamguin, xcpenguin	243	5	25
+224242	3	25	No Variant	2020-06-30 — 05:50:15 UTC	Cynas, Lamguin, xcpenguin	250	5	25
+223088	3	25	No Variant	2020-06-29 — 06:31:57 UTC	Cynas, Lamguin, xcpenguin	269	5	25
+223058	4	22	No Variant	2020-06-29 — 05:56:24 UTC	crossproduct, Cynas, Lamguin, xcpenguin	243	5	25
+222979	4	25	No Variant	2020-06-29 — 04:40:26 UTC	crossproduct, Cynas, jet082, Lamguin	257	5	25
+222901	3	25	No Variant	2020-06-29 — 03:40:28 UTC	Cynas, jet082, Lamguin	285	5	25
+216976	5	22	No Variant	2020-06-24 — 05:50:20 UTC	crossproduct, Cynas, Lamguin, mokesmoe, xcpenguin	163	5	25
+216815	3	25	No Variant	2020-06-24 — 04:33:52 UTC	Cynas, jet082, mokesmoe	307	5	25
+216732	5	25	No Variant	2020-06-24 — 03:44:18 UTC	Cynas, jet082, Lamguin, mokesmoe, xcpenguin	176	5	25
+216655	5	23	No Variant	2020-06-24 — 02:57:53 UTC	Cynas, jet082, Lamguin, mokesmoe, xcpenguin	195	5	25
+216583	3	25	No Variant	2020-06-24 — 02:05:06 UTC	Cynas, jet082, mokesmoe	324	5	25
+216527	3	0	No Variant	2020-06-24 — 01:27:03 UTC	Cynas, jet082, mokesmoe	344	5	25
+216512	3	0	6 Suits	2020-06-24 — 01:16:44 UTC	Cynas, jet082, Lamguin	365	6	30
+214951	3	30	6 Suits	2020-06-22 — 05:25:37 UTC	Cynas, jet082, xcpenguin	503	6	30
+214887	3	0	No Variant	2020-06-22 — 04:31:08 UTC	Cynas, jet082, xcpenguin	516	5	25
+214832	6	24	No Variant	2020-06-22 — 03:57:16 UTC	crossproduct, Cynas, dealiah, jet082, Lamguin, xcpenguin	478	5	25
+211525	5	22	No Variant	2020-06-19 — 06:09:15 UTC	crossproduct, Cynas, Lamguin, mokesmoe, xcpenguin	207	5	25
+211455	5	25	No Variant	2020-06-19 — 05:06:06 UTC	crossproduct, Cynas, Lamguin, mokesmoe, xcpenguin	223	5	25
+211390	3	0	No Variant	2020-06-19 — 04:19:25 UTC	crossproduct, Cynas, Lamguin	375	5	25
+210410	3	25	No Variant	2020-06-18 — 05:16:57 UTC	Cynas, jet082, Lamguin	645	5	25
+210329	5	24	No Variant	2020-06-18 — 04:22:42 UTC	crossproduct, Cynas, jet082, Lamguin, mokesmoe	262	5	25
+209455	5	22	No Variant	2020-06-17 — 06:47:39 UTC	crossproduct, Cynas, dealiah, Lamguin, mokesmoe	296	5	25
+209423	5	21	No Variant	2020-06-17 — 05:58:25 UTC	crossproduct, Cynas, dealiah, Lamguin, mokesmoe	344	5	25
+209371	5	24	No Variant	2020-06-17 — 05:00:13 UTC	crossproduct, Cynas, Lamguin, mokesmoe, xcpenguin	383	5	25
+209290	5	23	No Variant	2020-06-17 — 04:15:14 UTC	crossproduct, Cynas, Lamguin, mokesmoe, xcpenguin	457	5	25
+209215	3	0	No Variant	2020-06-17 — 03:23:45 UTC	crossproduct, Cynas, Lamguin	411	5	25
+208504	3	25	No Variant	2020-06-16 — 06:32:25 UTC	Cynas, Lamguin, mokesmoe	551	5	25
+208472	3	25	No Variant	2020-06-16 — 05:52:15 UTC	Cynas, Lamguin, mokesmoe	680	5	25
+208432	5	0	No Variant	2020-06-16 — 05:01:35 UTC	crossproduct, Cynas, dealiah, Lamguin, xcpenguin	541	5	25
+208394	3	25	No Variant	2020-06-16 — 04:14:50 UTC	crossproduct, Cynas, Lamguin	422	5	25
+208313	3	24	No Variant	2020-06-16 — 03:08:41 UTC	crossproduct, Cynas, Lamguin	451	5	25
+208015	4	0	No Variant	2020-06-15 — 23:43:37 UTC	crossproduct, Cynas, jet082, Lamguin	278	5	25
+207960	4	0	No Variant	2020-06-15 — 22:52:54 UTC	crossproduct, Cynas, jet082, Lamguin	287	5	25
+207928	4	24	No Variant	2020-06-15 — 22:19:51 UTC	crossproduct, Cynas, jet082, Lamguin	308	5	25
+207855	2	0	No Variant	2020-06-15 — 21:18:08 UTC	Cynas, Lamguin	5374	5	25
+207510	4	29	Rainbow (6 Suits)	2020-06-15 — 10:45:03 UTC	asaelr, Cynas, LaFayetteX, MarkusKahlsen	26	6	30
+207493	4	23	Rainbow (6 Suits)	2020-06-15 — 10:08:07 UTC	arnino, Cynas, LaFayetteX, metta	76	6	30
+207420	3	22	No Variant	2020-06-15 — 06:11:35 UTC	Cynas, Lamguin, xcpenguin	1174	5	25
+207340	3	0	No Variant	2020-06-15 — 05:08:28 UTC	Cynas, Lamguin, xcpenguin	1291	5	25
+207232	3	21	No Variant	2020-06-15 — 04:03:40 UTC	Boozewizard, Cynas, Lamguin	1465	5	25
+207162	3	22	No Variant	2020-06-15 — 03:20:03 UTC	Cynas, Lamguin, mokesmoe	801	5	25
+206974	4	21	No Variant	2020-06-15 — 01:35:50 UTC	AaronDobbe, Cynas, jet082, Lamguin	419	5	25
+206119	4	25	No Variant	2020-06-14 — 06:00:39 UTC	crossproduct, Cynas, mokesmoe, xcpenguin	336	5	25
+206035	4	0	No Variant	2020-06-14 — 05:02:46 UTC	crossproduct, Cynas, mokesmoe, xcpenguin	384	5	25
+205965	3	0	No Variant	2020-06-14 — 04:04:33 UTC	crossproduct, Cynas, mokesmoe	573	5	25
+205851	3	24	No Variant	2020-06-14 — 02:49:22 UTC	crossproduct, Cynas, mokesmoe	624	5	25
+205051	4	25	No Variant	2020-06-13 — 10:25:58 UTC	butterywombat, Cynas, NoMercy, swineherd	373	5	25
+205037	5	25	No Variant	2020-06-13 — 09:40:35 UTC	butterywombat, Cynas, NoMercy, sin_faith, swineherd	21	5	25
+204915	3	25	No Variant	2020-06-13 — 07:04:38 UTC	crossproduct, Cynas, mokesmoe	750	5	25
+204870	4	21	No Variant	2020-06-13 — 06:10:38 UTC	crossproduct, Cynas, mokesmoe, xcpenguin	442	5	25
+204732	5	25	No Variant	2020-06-13 — 05:01:06 UTC	crossproduct, Cynas, jet082, mokesmoe, xcpenguin	658	5	25
+204599	5	25	No Variant	2020-06-13 — 03:42:03 UTC	crossproduct, Cynas, jet082, mokesmoe, xcpenguin	837	5	25
+204505	4	0	No Variant	2020-06-13 — 02:54:17 UTC	crossproduct, Cynas, mokesmoe, xcpenguin	473	5	25
+203540	4	22	No Variant	2020-06-12 — 07:16:51 UTC	Boozewizard, crossproduct, Cynas, mokesmoe	501	5	25
+203515	4	0	No Variant	2020-06-12 — 06:18:52 UTC	Boozewizard, crossproduct, Cynas, mokesmoe	541	5	25
+203458	4	23	No Variant	2020-06-12 — 05:31:01 UTC	Boozewizard, crossproduct, Cynas, mokesmoe	601	5	25
+203423	3	0	No Variant	2020-06-12 — 05:04:00 UTC	crossproduct, Cynas, mokesmoe	840	5	25
+203297	3	25	No Variant	2020-06-12 — 03:41:26 UTC	crossproduct, Cynas, mokesmoe	940	5	25
+203240	3	0	No Variant	2020-06-12 — 03:06:04 UTC	crossproduct, Cynas, mokesmoe	1017	5	25
+203148	3	24	No Variant	2020-06-12 — 02:10:12 UTC	crossproduct, Cynas, mokesmoe	1095	5	25
+203008	4	25	No Variant	2020-06-12 — 00:36:46 UTC	crossproduct, Cynas, jet082, mokesmoe	655	5	25
+202936	4	22	No Variant	2020-06-11 — 23:41:16 UTC	crossproduct, Cynas, jet082, mokesmoe	717	5	25
+202898	4	0	No Variant	2020-06-11 — 22:46:30 UTC	crossproduct, Cynas, jet082, mokesmoe	793	5	25
+202460	4	25	No Variant	2020-06-11 — 07:00:58 UTC	crossproduct, Cynas, mokesmoe, xcpenguin	899	5	25
+202429	5	21	No Variant	2020-06-11 — 05:57:44 UTC	crossproduct, Cynas, jet082, mokesmoe, xcpenguin	1119	5	25
+202370	5	21	No Variant	2020-06-11 — 04:50:45 UTC	crossproduct, Cynas, jet082, mokesmoe, xcpenguin	1510	5	25
+202280	5	0	No Variant	2020-06-11 — 03:50:49 UTC	crossproduct, Cynas, jet082, mokesmoe, xcpenguin	1995	5	25
+202196	3	23	No Variant	2020-06-11 — 02:52:33 UTC	crossproduct, Cynas, jet082	1636	5	25
+202115	3	25	No Variant	2020-06-11 — 01:45:41 UTC	crossproduct, Cynas, jet082	1881	5	25
+202034	3	22	No Variant	2020-06-11 — 00:56:43 UTC	crossproduct, Cynas, jet082	2163	5	25
+201276	3	25	No Variant	2020-06-10 — 06:58:45 UTC	Boozewizard, crossproduct, Cynas	2606	5	25
+201245	4	24	No Variant	2020-06-10 — 06:19:46 UTC	Boozewizard, crossproduct, Cynas, jet082	985	5	25
+201192	4	24	No Variant	2020-06-10 — 05:19:16 UTC	crossproduct, Cynas, jet082, xcpenguin	1092	5	25
+201134	4	23	No Variant	2020-06-10 — 04:15:13 UTC	crossproduct, Cynas, jet082, xcpenguin	1253	5	25
+201072	4	0	No Variant	2020-06-10 — 03:19:37 UTC	crossproduct, Cynas, jet082, xcpenguin	1449	5	25
+201051	4	0	No Variant	2020-06-10 — 03:01:21 UTC	crossproduct, Cynas, jet082, xcpenguin	1744	5	25
+201017	3	21	No Variant	2020-06-10 — 02:34:31 UTC	crossproduct, Cynas, jet082	3260	5	25
+200933	3	24	No Variant	2020-06-10 — 01:39:23 UTC	crossproduct, Cynas, jet082	4221	5	25
+200097	4	23	No Variant	2020-06-09 — 06:55:38 UTC	crossproduct, Cynas, jet082, xcpenguin	2076	5	25
+200032	4	0	No Variant	2020-06-09 — 05:45:35 UTC	crossproduct, Cynas, jet082, xcpenguin	2763	5	25
+199979	4	21	No Variant	2020-06-09 — 05:01:53 UTC	crossproduct, Cynas, jet082, xcpenguin	3581	5	25

@@ -1,0 +1,1887 @@
+510836	4	24	Gray (5 Suits)	2021-04-24 — 00:57:41 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	9	5	25
+510753	4	23	Gray (5 Suits)	2021-04-24 — 00:10:08 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	7	5	25
+508955	4	24	Gray (5 Suits)	2021-04-22 — 00:35:20 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	9	5	25
+508890	4	24	Gray (5 Suits)	2021-04-21 — 23:40:54 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	12	5	25
+508007	4	0	Gray (5 Suits)	2021-04-21 — 00:59:33 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	12	5	25
+507965	4	24	Gray (5 Suits)	2021-04-21 — 00:13:36 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	13	5	25
+507945	4	22	Gray (5 Suits)	2021-04-20 — 23:28:51 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	14	5	25
+503809	3	23	Null (5 Suits)	2021-04-17 — 03:14:51 UTC	avanderwalde, JerryYang, rkass	12	5	25
+503738	3	23	Null (5 Suits)	2021-04-17 — 02:18:33 UTC	avanderwalde, JerryYang, rkass	12	5	25
+503679	3	25	Null (5 Suits)	2021-04-17 — 01:18:25 UTC	avanderwalde, JerryYang, rkass	12	5	25
+503566	3	25	Null (5 Suits)	2021-04-17 — 00:02:49 UTC	avanderwalde, JerryYang, rkass	3	5	25
+503536	3	0	Null (5 Suits)	2021-04-16 — 23:37:45 UTC	avanderwalde, JerryYang, rkass	3	5	25
+503530	3	23	Null (5 Suits)	2021-04-16 — 23:26:27 UTC	avanderwalde, JerryYang, rkass	3	5	25
+502385	3	25	Null (5 Suits)	2021-04-16 — 01:04:15 UTC	avanderwalde, JerryYang, rkass	12	5	25
+502323	3	25	Null (5 Suits)	2021-04-15 — 23:55:28 UTC	avanderwalde, JerryYang, rkass	3	5	25
+501393	3	25	Null (5 Suits)	2021-04-15 — 00:21:09 UTC	avanderwalde, JerryYang, rkass	3	5	25
+501338	3	25	Null (5 Suits)	2021-04-14 — 23:34:42 UTC	avanderwalde, JerryYang, rkass	4	5	25
+500479	3	24	Null (5 Suits)	2021-04-14 — 02:16:00 UTC	avanderwalde, JerryYang, rkass	5	5	25
+500464	3	0	Null (5 Suits)	2021-04-14 — 01:47:43 UTC	avanderwalde, JerryYang, rkass	5	5	25
+500446	3	25	Null (5 Suits)	2021-04-14 — 01:26:35 UTC	avanderwalde, JerryYang, rkass	5	5	25
+500400	3	0	Null (5 Suits)	2021-04-14 — 00:48:27 UTC	avanderwalde, JerryYang, rkass	6	5	25
+500373	3	24	Null (5 Suits)	2021-04-14 — 00:17:46 UTC	avanderwalde, JerryYang, rkass	5	5	25
+499280	3	25	Null (5 Suits)	2021-04-13 — 02:08:04 UTC	avanderwalde, JerryYang, rkass	5	5	25
+499223	3	25	Null (5 Suits)	2021-04-13 — 01:23:09 UTC	avanderwalde, JerryYang, rkass	5	5	25
+499200	3	0	Null (5 Suits)	2021-04-13 — 00:48:23 UTC	avanderwalde, JerryYang, rkass	5	5	25
+499176	3	24	Null (5 Suits)	2021-04-13 — 00:06:10 UTC	avanderwalde, JerryYang, rkass	5	5	25
+495501	3	25	Null (5 Suits)	2021-04-10 — 00:21:31 UTC	avanderwalde, JerryYang, rkass	5	5	25
+495476	3	0	Null (5 Suits)	2021-04-09 — 23:39:39 UTC	avanderwalde, JerryYang, rkass	5	5	25
+494423	3	0	No Variant	2021-04-09 — 00:47:16 UTC	avanderwalde, mattnabi, rkass	213	5	25
+494421	3	0	No Variant	2021-04-09 — 00:45:24 UTC	avanderwalde, mattnabi, rkass	218	5	25
+494416	3	0	No Variant	2021-04-09 — 00:39:21 UTC	avanderwalde, mattnabi, rkass	223	5	25
+494402	3	0	No Variant	2021-04-09 — 00:20:05 UTC	avanderwalde, mattnabi, rkass	220	5	25
+494391	3	0	No Variant	2021-04-09 — 00:04:36 UTC	avanderwalde, mattnabi, rkass	224	5	25
+494385	3	0	No Variant	2021-04-08 — 23:52:24 UTC	avanderwalde, mattnabi, rkass	243	5	25
+494378	3	0	No Variant	2021-04-08 — 23:49:54 UTC	avanderwalde, mattnabi, rkass	259	5	25
+493618	3	24	Null (5 Suits)	2021-04-08 — 01:28:39 UTC	avanderwalde, JerryYang, rkass	6	5	25
+493603	3	0	Null (5 Suits)	2021-04-08 — 01:06:52 UTC	avanderwalde, JerryYang, rkass	6	5	25
+493576	3	25	Null (5 Suits)	2021-04-08 — 00:29:20 UTC	avanderwalde, JerryYang, rkass	6	5	25
+493548	3	0	Null (5 Suits)	2021-04-07 — 23:38:19 UTC	avanderwalde, JerryYang, rkass	7	5	25
+493534	3	0	Null (5 Suits)	2021-04-07 — 23:08:13 UTC	avanderwalde, JerryYang, rkass	8	5	25
+492727	3	25	Null (5 Suits)	2021-04-07 — 02:12:21 UTC	avanderwalde, JerryYang, rkass	8	5	25
+492674	3	25	Null (5 Suits)	2021-04-07 — 01:06:35 UTC	avanderwalde, JerryYang, rkass	8	5	25
+492638	3	23	Null (5 Suits)	2021-04-07 — 00:15:04 UTC	avanderwalde, JerryYang, rkass	8	5	25
+491676	3	25	Null (5 Suits)	2021-04-06 — 01:10:35 UTC	avanderwalde, JerryYang, rkass	9	5	25
+491647	3	25	Null (5 Suits)	2021-04-06 — 00:24:43 UTC	avanderwalde, JerryYang, rkass	13	5	25
+491625	3	0	Null (5 Suits)	2021-04-05 — 23:35:22 UTC	avanderwalde, JerryYang, rkass	13	5	25
+488923	3	22	Null (5 Suits)	2021-04-03 — 01:46:04 UTC	avanderwalde, JerryYang, rkass	14	5	25
+488887	3	0	Null (5 Suits)	2021-04-03 — 01:01:43 UTC	avanderwalde, JerryYang, rkass	14	5	25
+488857	3	0	Null (5 Suits)	2021-04-03 — 00:47:19 UTC	avanderwalde, JerryYang, rkass	15	5	25
+488827	3	0	Null (5 Suits)	2021-04-03 — 00:28:02 UTC	avanderwalde, JerryYang, rkass	16	5	25
+488816	3	0	Null (5 Suits)	2021-04-03 — 00:13:56 UTC	avanderwalde, JerryYang, rkass	17	5	25
+488804	3	0	Null (5 Suits)	2021-04-03 — 00:00:23 UTC	avanderwalde, JerryYang, rkass	18	5	25
+488783	3	0	Null (5 Suits)	2021-04-02 — 23:15:35 UTC	avanderwalde, JerryYang, rkass	18	5	25
+487931	5	25	White-Ones & Pink (5 Suits)	2021-04-02 — 01:30:02 UTC	avanderwalde, griff77, MangoPie, qqqq, rkass	2	5	25
+487918	5	0	White-Ones & Pink (5 Suits)	2021-04-02 — 01:04:39 UTC	avanderwalde, griff77, MangoPie, qqqq, rkass	2	5	25
+487897	4	24	Dark Brown (5 Suits)	2021-04-02 — 00:40:32 UTC	avanderwalde, kevincaseytdk1, MangoPie, rkass	14	5	25
+487881	5	21	Black & White (5 Suits)	2021-04-02 — 00:03:01 UTC	avanderwalde, MangoPie, melwen, ricardodd, rkass	4	5	25
+487867	5	0	Black & White (5 Suits)	2021-04-01 — 23:40:41 UTC	avanderwalde, MangoPie, melwen, ricardodd, rkass	5	5	25
+487861	4	25	Black (5 Suits)	2021-04-01 — 23:30:59 UTC	avanderwalde, MangoPie, ricardodd, rkass	41	5	25
+486932	6	30	Dual-Color & Prism (6 Suits)	2021-04-01 — 01:39:04 UTC	avanderwalde, HelanaAshryvr, indego, Lanvin, melwen, rkass	2	6	30
+486914	6	30	White & Brown (6 Suits)	2021-04-01 — 01:04:16 UTC	avanderwalde, HelanaAshryvr, Lanvin, melwen, rkass, squirrel1988	3	6	30
+486893	4	30	Omni-Ones & Pink (6 Suits)	2021-04-01 — 00:23:21 UTC	avanderwalde, Lanvin, melwen, rkass	1	6	30
+486870	5	0	3 Suits	2021-03-31 — 23:46:59 UTC	avanderwalde, indego, Lanvin, newduke, rkass	4	3	15
+485043	6	20	No Variant	2021-03-30 — 02:01:38 UTC	avanderwalde, Lanvin, melwen, Meowie, newduke, squirrel1988	10	5	25
+485004	5	0	No Variant	2021-03-30 — 01:29:50 UTC	avanderwalde, Lanvin, melwen, Meowie, newduke	35	5	25
+484978	5	24	Clue Starved & Rainbow (5 Suits)	2021-03-30 — 00:58:11 UTC	avanderwalde, Lanvin, melwen, newduke, rkass	1	5	25
+484958	5	0	Clue Starved & Rainbow (5 Suits)	2021-03-30 — 00:27:17 UTC	avanderwalde, Lanvin, melwen, newduke, rkass	2	5	25
+484936	3	0	Alternating Clues (6 Suits)	2021-03-29 — 23:57:27 UTC	avanderwalde, JerryYang, rkass	12	6	30
+482868	3	30	Brown (6 Suits)	2021-03-28 — 01:56:55 UTC	avanderwalde, JerryYang, rkass	11	6	30
+482811	3	0	Brown (6 Suits)	2021-03-28 — 00:44:22 UTC	avanderwalde, JerryYang, rkass	1	6	30
+482804	3	0	Brown (6 Suits)	2021-03-28 — 00:28:06 UTC	avanderwalde, JerryYang, rkass	1	6	30
+481813	3	30	Brown (6 Suits)	2021-03-27 — 01:23:53 UTC	avanderwalde, JerryYang, rkass	11	6	30
+481731	3	29	Brown (6 Suits)	2021-03-27 — 00:23:45 UTC	avanderwalde, JerryYang, rkass	11	6	30
+481677	3	0	Brown (6 Suits)	2021-03-26 — 23:16:36 UTC	avanderwalde, JerryYang, rkass	1	6	30
+480730	3	30	Brown (6 Suits)	2021-03-26 — 01:17:31 UTC	avanderwalde, JerryYang, rkass	11	6	30
+480678	3	30	Brown (6 Suits)	2021-03-26 — 00:06:45 UTC	avanderwalde, JerryYang, rkass	1	6	30
+479648	3	30	Brown (6 Suits)	2021-03-25 — 00:01:09 UTC	avanderwalde, JerryYang, rkass	1	6	30
+478592	3	30	Brown (6 Suits)	2021-03-24 — 02:03:25 UTC	avanderwalde, JerryYang, rkass	2	6	30
+478524	3	0	Brown (6 Suits)	2021-03-24 — 01:16:00 UTC	avanderwalde, JerryYang, rkass	2	6	30
+478482	3	0	Brown (6 Suits)	2021-03-24 — 00:36:14 UTC	avanderwalde, JerryYang, rkass	2	6	30
+478465	3	0	Brown (6 Suits)	2021-03-24 — 00:09:05 UTC	avanderwalde, JerryYang, rkass	2	6	30
+478453	3	28	Brown (6 Suits)	2021-03-23 — 23:51:20 UTC	avanderwalde, JerryYang, rkass	2	6	30
+477509	3	29	Brown (6 Suits)	2021-03-23 — 01:46:42 UTC	avanderwalde, JerryYang, rkass	2	6	30
+477482	3	0	Brown (6 Suits)	2021-03-23 — 01:12:25 UTC	avanderwalde, JerryYang, rkass	2	6	30
+477469	3	0	Brown (6 Suits)	2021-03-23 — 00:56:30 UTC	avanderwalde, JerryYang, rkass	2	6	30
+477463	3	0	Brown (6 Suits)	2021-03-23 — 00:51:38 UTC	avanderwalde, JerryYang, rkass	3	6	30
+477453	3	0	Brown (6 Suits)	2021-03-23 — 00:41:58 UTC	avanderwalde, JerryYang, rkass	3	6	30
+477410	3	30	Brown (6 Suits)	2021-03-23 — 00:08:32 UTC	avanderwalde, JerryYang, rkass	3	6	30
+476460	3	30	Brown (6 Suits)	2021-03-22 — 00:20:15 UTC	avanderwalde, JerryYang, rkass	3	6	30
+476429	3	30	Brown (6 Suits)	2021-03-21 — 23:35:41 UTC	avanderwalde, JerryYang, rkass	3	6	30
+476393	3	0	Brown (6 Suits)	2021-03-21 — 23:03:40 UTC	avanderwalde, JerryYang, rkass	3	6	30
+476287	3	30	Brown (6 Suits)	2021-03-21 — 21:29:32 UTC	avanderwalde, JerryYang, rkass	3	6	30
+476212	3	0	Brown (6 Suits)	2021-03-21 — 20:28:26 UTC	avanderwalde, JerryYang, rkass	4	6	30
+473086	3	30	Brown (6 Suits)	2021-03-19 — 01:46:05 UTC	avanderwalde, JerryYang, rkass	4	6	30
+473006	3	29	Brown (6 Suits)	2021-03-19 — 00:45:24 UTC	avanderwalde, JerryYang, rkass	4	6	30
+472977	3	0	Brown (6 Suits)	2021-03-19 — 00:08:29 UTC	avanderwalde, JerryYang, rkass	4	6	30
+472966	3	0	Brown (6 Suits)	2021-03-18 — 23:55:28 UTC	avanderwalde, JerryYang, rkass	4	6	30
+472958	3	0	Brown (6 Suits)	2021-03-18 — 23:39:37 UTC	avanderwalde, JerryYang, rkass	4	6	30
+472028	3	30	Brown (6 Suits)	2021-03-18 — 01:48:59 UTC	avanderwalde, JerryYang, rkass	6	6	30
+472002	3	0	Brown (6 Suits)	2021-03-18 — 01:10:58 UTC	avanderwalde, JerryYang, rkass	6	6	30
+471990	3	0	Brown (6 Suits)	2021-03-18 — 00:52:47 UTC	avanderwalde, JerryYang, rkass	6	6	30
+470805	3	30	Brown (6 Suits)	2021-03-17 — 02:15:58 UTC	avanderwalde, JerryYang, rkass	6	6	30
+470716	3	0	Brown (6 Suits)	2021-03-17 — 01:07:40 UTC	avanderwalde, JerryYang, rkass	6	6	30
+470678	3	0	Brown (6 Suits)	2021-03-17 — 00:24:20 UTC	avanderwalde, JerryYang, rkass	7	6	30
+469679	3	30	Brown (6 Suits)	2021-03-16 — 01:33:01 UTC	avanderwalde, JerryYang, rkass	9	6	30
+469649	3	0	Brown (6 Suits)	2021-03-16 — 00:45:32 UTC	avanderwalde, JerryYang, rkass	9	6	30
+469590	3	30	Brown (6 Suits)	2021-03-15 — 23:46:33 UTC	avanderwalde, JerryYang, rkass	9	6	30
+469503	3	0	Brown (6 Suits)	2021-03-15 — 23:09:26 UTC	avanderwalde, JerryYang, rkass	8	6	30
+468682	3	30	Brown (6 Suits)	2021-03-15 — 01:56:10 UTC	avanderwalde, JerryYang, rkass	12	6	30
+468621	3	0	Brown (6 Suits)	2021-03-15 — 01:08:12 UTC	avanderwalde, JerryYang, rkass	11	6	30
+468590	3	30	Brown (6 Suits)	2021-03-15 — 00:45:11 UTC	avanderwalde, JerryYang, rkass	11	6	30
+468548	3	0	Brown (6 Suits)	2021-03-15 — 00:06:13 UTC	avanderwalde, JerryYang, rkass	18	6	30
+468520	3	29	Brown (6 Suits)	2021-03-14 — 23:37:29 UTC	avanderwalde, JerryYang, rkass	17	6	30
+461975	5	30	Pink & Light Pink (6 Suits)	2021-03-09 — 01:14:57 UTC	ADrone, avanderwalde, hakha3, kimbifille, MangoPie	4	6	30
+458560	4	30	Pink & Light Pink (6 Suits)	2021-03-06 — 05:16:09 UTC	avanderwalde, kimbifille, pianoblook, Zamiel	4	6	30
+458529	3	28	Brown & Gray (6 Suits)	2021-03-06 — 04:44:44 UTC	avanderwalde, kimbifille, pianoblook	5	6	30
+458500	3	0	Brown & Gray (6 Suits)	2021-03-06 — 04:24:55 UTC	avanderwalde, kimbifille, pianoblook	7	6	30
+458427	4	20	Omni-Ones & Light Pink (4 Suits)	2021-03-06 — 03:32:33 UTC	avanderwalde, kimbifille, Lel0uch, Zamiel	1	4	20
+458389	4	25	Omni-Fives & Omni (5 Suits)	2021-03-06 — 03:05:33 UTC	avanderwalde, kevincaseytdk1, kimbifille, Zamiel	2	5	25
+458359	3	0	Omni-Fives & Omni (5 Suits)	2021-03-06 — 02:41:49 UTC	avanderwalde, kevincaseytdk1, Zamiel	1	5	25
+458338	3	0	Omni-Fives & Omni (5 Suits)	2021-03-06 — 02:27:19 UTC	avanderwalde, kevincaseytdk1, Zamiel	1	5	25
+458316	3	0	Dark Rainbow (6 Suits)	2021-03-06 — 02:15:07 UTC	avanderwalde, kevincaseytdk1, nkkarpov	31	6	30
+458291	3	0	Dark Rainbow (6 Suits)	2021-03-06 — 02:00:05 UTC	avanderwalde, kevincaseytdk1, nkkarpov	34	6	30
+458266	3	0	Dark Rainbow (6 Suits)	2021-03-06 — 01:32:47 UTC	avanderwalde, kevincaseytdk1, nkkarpov	37	6	30
+458253	3	25	Dark Rainbow (6 Suits)	2021-03-06 — 01:14:27 UTC	avanderwalde, dobi, nkkarpov	41	6	30
+457097	4	30	Throw It in a Hole (6 Suits)	2021-03-05 — 02:13:04 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	12	6	30
+456955	4	0	Throw It in a Hole (6 Suits)	2021-03-05 — 00:36:14 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	1	6	30
+455886	4	30	Throw It in a Hole (6 Suits)	2021-03-04 — 02:38:22 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	7	6	30
+455801	4	0	Throw It in a Hole (6 Suits)	2021-03-04 — 01:07:23 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	1	6	30
+455775	3	0	Throw It in a Hole (6 Suits)	2021-03-04 — 00:33:12 UTC	avanderwalde, JerryYang, rkass	5	6	30
+454761	4	30	Throw It in a Hole (6 Suits)	2021-03-03 — 01:39:18 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	7	6	30
+454704	4	0	Throw It in a Hole (6 Suits)	2021-03-03 — 00:14:52 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	1	6	30
+454689	3	0	Throw It in a Hole (6 Suits)	2021-03-02 — 23:52:37 UTC	avanderwalde, JerryYang, rkass	5	6	30
+453780	4	30	Throw It in a Hole (6 Suits)	2021-03-02 — 03:07:05 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	6	6	30
+453696	4	30	Throw It in a Hole (6 Suits)	2021-03-02 — 01:42:54 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	1	6	30
+453650	4	0	Throw It in a Hole (6 Suits)	2021-03-02 — 00:51:16 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	1	6	30
+453625	3	0	Throw It in a Hole (6 Suits)	2021-03-02 — 00:15:04 UTC	avanderwalde, JerryYang, rkass	10	6	30
+449558	4	0	Throw It in a Hole (6 Suits)	2021-02-26 — 04:16:13 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	1	6	30
+449522	4	0	Throw It in a Hole (6 Suits)	2021-02-26 — 03:47:52 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	1	6	30
+449487	4	29	Throw It in a Hole (6 Suits)	2021-02-26 — 03:14:06 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	1	6	30
+448303	4	0	Black (6 Suits)	2021-02-25 — 02:26:50 UTC	avanderwalde, rkass, roborob, telseys	62	6	30
+448246	4	0	Black (6 Suits)	2021-02-25 — 01:40:11 UTC	avanderwalde, rkass, roborob, telseys	64	6	30
+447296	4	30	Throw It in a Hole (6 Suits)	2021-02-24 — 02:42:48 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	1	6	30
+447275	4	0	Throw It in a Hole (6 Suits)	2021-02-24 — 02:05:31 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	2	6	30
+447264	4	0	Throw It in a Hole (6 Suits)	2021-02-24 — 01:44:36 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	2	6	30
+447254	4	30	Throw It in a Hole (6 Suits)	2021-02-24 — 01:25:05 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	3	6	30
+446256	4	19	Pink & Dark Prism (5 Suits)	2021-02-23 — 02:56:26 UTC	avanderwalde, melwen, rz, TimeHoodie	2	5	25
+446202	4	21	Pink & Dark Prism (5 Suits)	2021-02-23 — 02:27:45 UTC	avanderwalde, melwen, rz, TimeHoodie	2	5	25
+446135	3	24	Pink & Dark Prism (5 Suits)	2021-02-23 — 01:54:43 UTC	avanderwalde, melwen, rz	3	5	25
+446099	5	24	Rainbow & Prism (5 Suits)	2021-02-23 — 01:26:29 UTC	avanderwalde, indego, melwen, rkass, rz	5	5	25
+445122	4	28	Throw It in a Hole (6 Suits)	2021-02-22 — 03:54:52 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	3	6	30
+445052	4	0	Throw It in a Hole (6 Suits)	2021-02-22 — 02:53:37 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	3	6	30
+445009	4	30	Throw It in a Hole (6 Suits)	2021-02-22 — 02:07:20 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	3	6	30
+444949	3	0	Throw It in a Hole (6 Suits)	2021-02-22 — 01:18:37 UTC	avanderwalde, rkass, TimeHoodie	15	6	30
+444065	4	30	Throw It in a Hole (6 Suits)	2021-02-21 — 05:13:21 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	3	6	30
+444019	4	0	Throw It in a Hole (6 Suits)	2021-02-21 — 04:33:40 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	3	6	30
+443965	4	28	Throw It in a Hole (6 Suits)	2021-02-21 — 04:01:04 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	4	6	30
+443881	3	0	Throw It in a Hole (5 Suits)	2021-02-21 — 03:16:37 UTC	avanderwalde, rkass, TimeHoodie	14	5	25
+442811	4	22	Brown & Dark Rainbow (5 Suits)	2021-02-20 — 03:57:07 UTC	avanderwalde, indego, rkass, TimeHoodie	3	5	25
+442775	3	25	Brown & Dark Rainbow (5 Suits)	2021-02-20 — 03:24:36 UTC	avanderwalde, rkass, TimeHoodie	4	5	25
+442740	3	23	Brown & Dark Rainbow (5 Suits)	2021-02-20 — 02:52:40 UTC	avanderwalde, rkass, TimeHoodie	5	5	25
+442688	3	25	Brown & Muddy Rainbow (5 Suits)	2021-02-20 — 02:14:46 UTC	avanderwalde, JerryYang, rkass	6	5	25
+441518	4	30	Throw It in a Hole (6 Suits)	2021-02-19 — 02:29:12 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	5	6	30
+441464	4	0	Throw It in a Hole (6 Suits)	2021-02-19 — 01:39:16 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	5	6	30
+440569	4	0	Throw It in a Hole (6 Suits)	2021-02-18 — 03:08:58 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	6	6	30
+440519	4	30	Throw It in a Hole (6 Suits)	2021-02-18 — 01:51:47 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	6	6	30
+440482	3	0	Throw It in a Hole (6 Suits)	2021-02-18 — 00:58:35 UTC	avanderwalde, JerryYang, rkass	21	6	30
+439590	4	30	Throw It in a Hole (6 Suits)	2021-02-17 — 02:05:57 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	6	6	30
+439549	4	29	Throw It in a Hole (6 Suits)	2021-02-17 — 00:52:52 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	7	6	30
+438672	4	29	Throw It in a Hole (6 Suits)	2021-02-16 — 01:29:31 UTC	avanderwalde, rkass, rkasstst0, rkasstst1	15	6	30
+438637	4	0	Throw It in a Hole (6 Suits)	2021-02-16 — 00:52:35 UTC	avanderwalde, rkass, rkasstst0, rkasstst1	21	6	30
+438564	5	27	Light Pink & Dark Prism (6 Suits)	2021-02-15 — 23:11:15 UTC	avanderwalde, Floriman, kimbifille, melwen, TimeHoodie	1	6	30
+438528	5	0	Light Pink & Dark Prism (6 Suits)	2021-02-15 — 22:36:14 UTC	avanderwalde, Floriman, kimbifille, melwen, TimeHoodie	1	6	30
+437728	3	25	Dark Pink (5 Suits)	2021-02-15 — 03:27:25 UTC	avanderwalde, JerryYang, rkass	38	5	25
+437674	3	25	Pink (5 Suits)	2021-02-15 — 02:32:19 UTC	avanderwalde, JerryYang, rkass	62	5	25
+436433	4	22	Brown & Gray (5 Suits)	2021-02-14 — 04:29:43 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	5	5	25
+436383	3	25	Brown & Gray (5 Suits)	2021-02-14 — 03:48:36 UTC	avanderwalde, JerryYang, rkass	6	5	25
+436331	3	24	Brown & Gray (5 Suits)	2021-02-14 — 03:00:54 UTC	avanderwalde, JerryYang, rkass	6	5	25
+436298	3	0	Brown & Gray (5 Suits)	2021-02-14 — 02:24:03 UTC	avanderwalde, JerryYang, rkass	5	5	25
+434045	5	0	Clue Starved & Prism (6 Suits)	2021-02-12 — 03:47:04 UTC	avanderwalde, frosty104, kimbifille, melwen, TimeHoodie	1	6	30
+433980	6	21	Black & White (5 Suits)	2021-02-12 — 03:02:38 UTC	avanderwalde, Bot-Fiora, dobi, indego, newduke, rkass	2	5	25
+433921	6	0	Black & White (5 Suits)	2021-02-12 — 02:34:08 UTC	avanderwalde, Bot-Fiora, dobi, indego, newduke, rkass	2	5	25
+433861	4	30	Gray (6 Suits)	2021-02-12 — 01:57:52 UTC	avanderwalde, Bot-Fiora, indego, rkass	18	6	30
+433066	5	0	Rainbow & Dark Brown (6 Suits)	2021-02-11 — 03:48:47 UTC	avanderwalde, indego, kimbifille, telsey, TimeHoodie	2	6	30
+432993	4	24	Rainbow (5 Suits)	2021-02-11 — 02:57:37 UTC	avanderwalde, JerryYang, rkass, telsey	68	5	25
+432929	4	0	Brown & Prism (6 Suits)	2021-02-11 — 01:58:31 UTC	avanderwalde, JerryYang, pianoblook, rkass	5	6	30
+431749	3	29	Rainbow & Brown (6 Suits)	2021-02-10 — 02:34:17 UTC	avanderwalde, dobi, rkass	13	6	30
+431703	4	25	Dark Rainbow (5 Suits)	2021-02-10 — 01:48:10 UTC	avanderwalde, colton, dobi, rkass	14	5	25
+431598	3	0	Rainbow & Brown (6 Suits)	2021-02-09 — 23:33:47 UTC	avanderwalde, melwen, Onen	6	6	30
+429632	6	28	Rainbow & Dark Brown (6 Suits)	2021-02-08 — 04:04:51 UTC	avanderwalde, indego, kinkajusrevenge, pianoblook, rkass, TimeHoodie	1	6	30
+429603	4	25	White & Brown (5 Suits)	2021-02-08 — 03:29:35 UTC	avanderwalde, pianoblook, rkass, TimeHoodie	8	5	25
+428356	5	28	Black & White (6 Suits)	2021-02-07 — 00:23:02 UTC	avanderwalde, indego, JerryYang, rkass, telsey	15	6	30
+428236	4	0	Black & White (6 Suits)	2021-02-06 — 23:21:25 UTC	avanderwalde, JerryYang, rkass, telsey	29	6	30
+428062	3	30	Black & Prism (6 Suits)	2021-02-06 — 21:56:17 UTC	avanderwalde, dobi, indego	6	6	30
+427965	3	25	Black (5 Suits)	2021-02-06 — 20:37:42 UTC	avanderwalde, rkass, telsey	25	5	25
+427930	3	0	Black (5 Suits)	2021-02-06 — 20:12:42 UTC	avanderwalde, rkass, telsey	27	5	25
+427918	3	24	Black (5 Suits)	2021-02-06 — 20:00:43 UTC	avanderwalde, rkass, telsey	29	5	25
+427897	3	0	Black (5 Suits)	2021-02-06 — 19:42:43 UTC	avanderwalde, rkass, telsey	31	5	25
+427324	3	25	Black & White (5 Suits)	2021-02-06 — 04:05:03 UTC	avanderwalde, rkass, telsey	26	5	25
+427290	3	0	Black & White (5 Suits)	2021-02-06 — 03:38:19 UTC	avanderwalde, rkass, telsey	25	5	25
+427264	3	20	Black & White (5 Suits)	2021-02-06 — 03:25:01 UTC	avanderwalde, rkass, telsey	31	5	25
+427203	3	0	Black & White (5 Suits)	2021-02-06 — 02:55:22 UTC	avanderwalde, rkass, telsey	40	5	25
+427178	3	0	Black & White (5 Suits)	2021-02-06 — 02:40:42 UTC	avanderwalde, rkass, telsey	45	5	25
+427153	3	0	No Variant	2021-02-06 — 02:26:10 UTC	avanderwalde, rkass, telsey	285	5	25
+426799	5	29	Brown-Ones & White (6 Suits)	2021-02-05 — 21:27:01 UTC	avanderwalde, HariKrishnan, Lanvin, rkass, telsey	1	6	30
+426753	4	0	Rainbow & White (4 Suits)	2021-02-05 — 20:41:57 UTC	avanderwalde, Kernel, Lanvin, sephiroth	3	4	20
+426722	3	28	Rainbow & Brown (6 Suits)	2021-02-05 — 20:20:11 UTC	avanderwalde, hailey, Lanvin	23	6	30
+426585	2	28	Black (6 Suits)	2021-02-05 — 18:05:50 UTC	avanderwalde, rkass	157	6	30
+426573	2	0	Black (6 Suits)	2021-02-05 — 17:53:18 UTC	avanderwalde, rkass	157	6	30
+425022	4	0	Black (6 Suits)	2021-02-04 — 03:59:03 UTC	avanderwalde, rkass, roborob, telsey	71	6	30
+424960	4	0	Black (6 Suits)	2021-02-04 — 03:10:39 UTC	avanderwalde, rkass, roborob, telsey	74	6	30
+424940	4	28	Black (6 Suits)	2021-02-04 — 02:58:25 UTC	avanderwalde, rkass, roborob, telsey	77	6	30
+424888	2	28	Black (6 Suits)	2021-02-04 — 02:20:36 UTC	avanderwalde, rkass	165	6	30
+424843	3	15	3 Suits	2021-02-04 — 01:50:12 UTC	avanderwalde, rkass, telsey	115	3	15
+424821	3	23	Black (5 Suits)	2021-02-04 — 01:34:47 UTC	avanderwalde, rkass, telsey	31	5	25
+424803	3	0	Black (5 Suits)	2021-02-04 — 01:12:49 UTC	avanderwalde, rkass, telsey	31	5	25
+423642	3	26	Black (6 Suits)	2021-02-03 — 02:51:53 UTC	avanderwalde, rkass, telsey	193	6	30
+423595	3	0	Black (6 Suits)	2021-02-03 — 02:09:40 UTC	avanderwalde, rkass, telsey	213	6	30
+423568	3	29	Black (6 Suits)	2021-02-03 — 01:52:46 UTC	avanderwalde, rkass, telsey	236	6	30
+423512	4	29	Black (6 Suits)	2021-02-03 — 00:59:29 UTC	avanderwalde, rkass, roborob, telsey	90	6	30
+423461	4	0	Black (6 Suits)	2021-02-03 — 00:08:52 UTC	avanderwalde, rkass, roborob, telsey	102	6	30
+422563	2	25	Black (6 Suits)	2021-02-02 — 00:54:55 UTC	avanderwalde, rkass	167	6	30
+422551	2	27	Black (6 Suits)	2021-02-02 — 00:42:36 UTC	avanderwalde, rkass	174	6	30
+421696	4	25	Black (6 Suits)	2021-02-01 — 02:14:03 UTC	avanderwalde, rkass, roborob, telsey	112	6	30
+421634	4	0	Black (6 Suits)	2021-02-01 — 01:09:14 UTC	avanderwalde, rkass, roborob, telsey	121	6	30
+421505	5	30	Pink & Omni (6 Suits)	2021-01-31 — 23:28:52 UTC	avanderwalde, ChristopheAF, derekcheah, rkass, sephiroth	3	6	30
+421478	4	0	Pink & Omni (5 Suits)	2021-01-31 — 22:58:31 UTC	avanderwalde, ChristopheAF, rkass, sephiroth	4	5	25
+420335	2	0	Black (6 Suits)	2021-01-31 — 00:21:18 UTC	avanderwalde, rkass	179	6	30
+420329	2	0	Black (6 Suits)	2021-01-31 — 00:12:04 UTC	avanderwalde, rkass	186	6	30
+420325	2	0	Black (6 Suits)	2021-01-31 — 00:05:48 UTC	avanderwalde, rkass	186	6	30
+420317	2	0	Black (6 Suits)	2021-01-30 — 23:59:07 UTC	avanderwalde, rkass	192	6	30
+420316	2	0	Black (6 Suits)	2021-01-30 — 23:57:35 UTC	avanderwalde, rkass	201	6	30
+420314	2	30	Black (6 Suits)	2021-01-30 — 23:55:44 UTC	avanderwalde, rkass	214	6	30
+420307	2	29	Black (6 Suits)	2021-01-30 — 23:46:37 UTC	avanderwalde, rkass	221	6	30
+417254	4	30	Black (6 Suits)	2021-01-28 — 04:00:15 UTC	avanderwalde, rkass, telsey, TimeHoodie	67	6	30
+417204	3	22	Black (5 Suits)	2021-01-28 — 03:26:14 UTC	avanderwalde, rkass, telsey	36	5	25
+417168	3	0	Black (5 Suits)	2021-01-28 — 03:04:55 UTC	avanderwalde, rkass, telsey	35	5	25
+417144	3	25	No Variant	2021-01-28 — 02:48:55 UTC	avanderwalde, rkass, telsey	307	5	25
+417102	3	23	No Variant	2021-01-28 — 02:23:43 UTC	avanderwalde, rkass, telsey	324	5	25
+417077	3	0	No Variant	2021-01-28 — 02:03:57 UTC	avanderwalde, rkass, telsey	375	5	25
+416001	3	25	Throw It in a Hole (5 Suits)	2021-01-27 — 03:06:43 UTC	avanderwalde, JerryYang, rkass	23	5	25
+415165	3	0	No Variant	2021-01-26 — 03:24:57 UTC	avanderwalde, rkass, telsey	451	5	25
+415137	3	0	No Variant	2021-01-26 — 02:54:06 UTC	avanderwalde, rkass, telsey	459	5	25
+415122	3	0	No Variant	2021-01-26 — 02:34:21 UTC	avanderwalde, rkass, telsey	485	5	25
+415111	3	25	No Variant	2021-01-26 — 02:17:38 UTC	avanderwalde, rkass, telsey	516	5	25
+413972	3	25	No Variant	2021-01-24 — 22:02:53 UTC	avanderwalde, rkass, telsey	551	5	25
+413943	3	25	No Variant	2021-01-24 — 21:32:05 UTC	avanderwalde, rkass, telsey	801	5	25
+413007	3	30	Dual-Color Mix	2021-01-24 — 00:34:10 UTC	avanderwalde, JerryYang, rkass	14	6	30
+412859	3	0	Dual-Color Mix	2021-01-23 — 22:23:42 UTC	avanderwalde, JerryYang, rkass	7	6	30
+411660	3	25	No Variant	2021-01-22 — 22:41:08 UTC	avanderwalde, rkass, telsey	840	5	25
+411113	5	23	No Variant	2021-01-22 — 04:23:47 UTC	avanderwalde, indego, kevincaseytdk1, rkass, telsey	344	5	25
+411092	3	0	No Variant	2021-01-22 — 03:43:20 UTC	avanderwalde, rkass, telsey	1017	5	25
+410980	3	30	Dual-Color Mix	2021-01-22 — 01:52:45 UTC	avanderwalde, JerryYang, rkass	14	6	30
+410925	3	0	Dual-Color Mix	2021-01-22 — 00:20:23 UTC	avanderwalde, JerryYang, rkass	8	6	30
+410283	4	24	No Variant	2021-01-21 — 04:45:04 UTC	avanderwalde, rkass, roborob, telsey	985	5	25
+410183	3	0	Dual-Color Mix	2021-01-21 — 02:44:17 UTC	avanderwalde, JerryYang, rkass	12	6	30
+410121	3	0	Dual-Color Mix	2021-01-21 — 00:58:54 UTC	avanderwalde, JerryYang, rkass	7	6	30
+409180	4	25	No Variant	2021-01-20 — 02:34:47 UTC	avanderwalde, JerryYang, rkass, telsey	162	5	25
+409143	3	30	Dual-Color Mix	2021-01-20 — 01:42:05 UTC	avanderwalde, JerryYang, rkass	8	6	30
+409109	3	0	Dual-Color Mix	2021-01-20 — 00:54:36 UTC	avanderwalde, JerryYang, rkass	8	6	30
+408275	3	23	No Variant	2021-01-19 — 04:15:00 UTC	avanderwalde, rkass, telsey	1095	5	25
+408216	3	0	No Variant	2021-01-19 — 03:19:28 UTC	avanderwalde, rkass, telsey	1174	5	25
+408194	3	25	No Variant	2021-01-19 — 02:56:22 UTC	avanderwalde, rkass, telsey	1291	5	25
+404729	3	29	Dual-Color Mix	2021-01-16 — 03:50:45 UTC	avanderwalde, JerryYang, KevinDurant	1	6	30
+404627	3	0	Dual-Color Mix	2021-01-16 — 02:55:38 UTC	avanderwalde, JerryYang, rkass	8	6	30
+404583	3	30	Dual-Color Mix	2021-01-16 — 02:22:31 UTC	avanderwalde, JerryYang, rkass	13	6	30
+404510	3	0	Dual-Color Mix	2021-01-16 — 00:42:01 UTC	avanderwalde, JerryYang, rkass	7	6	30
+402642	3	30	Dual-Color Mix	2021-01-14 — 02:49:06 UTC	avanderwalde, rkass, unglitchme	7	6	30
+402587	3	0	Dual-Color Mix	2021-01-14 — 02:03:07 UTC	avanderwalde, JerryYang, rkass	8	6	30
+402573	3	30	Dual-Color Mix	2021-01-14 — 01:39:21 UTC	avanderwalde, JerryYang, rkass	9	6	30
+402557	3	0	Dual-Color Mix	2021-01-14 — 00:59:29 UTC	avanderwalde, JerryYang, rkass	9	6	30
+402544	3	0	Dual-Color Mix	2021-01-14 — 00:45:16 UTC	avanderwalde, JerryYang, rkass	8	6	30
+401618	3	29	Dual-Color Mix	2021-01-13 — 02:38:46 UTC	avanderwalde, JerryYang, rkass	8	6	30
+401549	3	29	Dual-Color Mix	2021-01-13 — 01:22:26 UTC	avanderwalde, JerryYang, rkass	9	6	30
+400719	3	30	Dual-Color Mix	2021-01-12 — 03:17:55 UTC	avanderwalde, JerryYang, rkass	9	6	30
+400603	3	29	Dual-Color Mix	2021-01-12 — 01:03:46 UTC	avanderwalde, JerryYang, rkass	11	6	30
+398594	3	30	Dual-Color Mix	2021-01-10 — 02:56:16 UTC	avanderwalde, JerryYang, rkass	10	6	30
+398519	3	0	Dual-Color Mix	2021-01-10 — 01:46:03 UTC	avanderwalde, JerryYang, rkass	11	6	30
+398432	3	0	Dual-Color Mix	2021-01-10 — 00:37:35 UTC	avanderwalde, JerryYang, rkass	11	6	30
+397291	3	29	Dual-Color Mix	2021-01-09 — 02:20:11 UTC	avanderwalde, JerryYang, rkass	12	6	30
+397193	3	26	Dual-Color Mix	2021-01-09 — 00:53:13 UTC	avanderwalde, JerryYang, rkass	12	6	30
+397020	3	0	Dual-Color Mix	2021-01-08 — 22:16:40 UTC	avanderwalde, JerryYang, rkass	16	6	30
+396990	3	0	Dual-Color Mix	2021-01-08 — 21:51:37 UTC	avanderwalde, JerryYang, rkass	16	6	30
+396941	3	30	Dual-Color Mix	2021-01-08 — 21:11:34 UTC	avanderwalde, JerryYang, rkass	19	6	30
+396872	3	0	Dual-Color Mix	2021-01-08 — 20:16:16 UTC	avanderwalde, JerryYang, rkass	18	6	30
+396869	3	0	Dual-Color Mix	2021-01-08 — 20:09:28 UTC	avanderwalde, JerryYang, rkass	17	6	30
+396188	3	29	Dual-Color Mix	2021-01-08 — 02:02:38 UTC	avanderwalde, JerryYang, rkass	20	6	30
+396007	3	0	Dual-Color Mix	2021-01-08 — 01:01:55 UTC	avanderwalde, JerryYang, rkass	19	6	30
+395070	3	27	Dual-Color Mix	2021-01-07 — 02:17:26 UTC	avanderwalde, JerryYang, rkass	19	6	30
+394037	3	0	Dual-Color Mix	2021-01-06 — 01:23:04 UTC	avanderwalde, JerryYang, rkass	25	6	30
+393979	3	0	Dual-Color Mix	2021-01-06 — 00:17:22 UTC	avanderwalde, JerryYang, rkass	29	6	30
+393085	6	0	4 Suits	2021-01-05 — 04:01:31 UTC	avanderwalde, FerKeth, hakha3, indego, JerryYang, Lel0uch	4	4	20
+393068	6	18	4 Suits	2021-01-05 — 03:41:34 UTC	avanderwalde, FerKeth, hakha3, indego, JerryYang, Lel0uch	6	4	20
+392995	3	29	Dual-Color Mix	2021-01-05 — 02:55:16 UTC	avanderwalde, JerryYang, rkass	33	6	30
+392920	3	26	Dual-Color Mix	2021-01-05 — 02:02:54 UTC	avanderwalde, JerryYang, rkass	42	6	30
+392889	4	0	Dark Null (6 Suits)	2021-01-05 — 01:21:46 UTC	avanderwalde, Lanvin, melwen, XMIL	8	6	30
+392157	6	25	Prism (5 Suits)	2021-01-04 — 04:01:35 UTC	ADrone, avanderwalde, fishcat, kimbifille, pianoblook, piper	6	5	25
+392098	6	30	6 Suits	2021-01-04 — 03:18:23 UTC	ADrone, avanderwalde, fishcat, kimbifille, pianoblook, piper	20	6	30
+392028	6	23	Dark Brown (6 Suits)	2021-01-04 — 02:29:03 UTC	ADrone, avanderwalde, kimbifille, pianoblook, piper, rkass	4	6	30
+391995	5	0	Dark Brown (6 Suits)	2021-01-04 — 01:59:24 UTC	ADrone, avanderwalde, pianoblook, piper, rkass	5	6	30
+391980	3	27	Dark Brown (6 Suits)	2021-01-04 — 01:50:07 UTC	ADrone, avanderwalde, rkass	32	6	30
+391951	3	25	Throw It in a Hole & Rainbow (5 Suits)	2021-01-04 — 01:15:59 UTC	ADrone, avanderwalde, rkass	3	5	25
+391242	3	24	Throw It in a Hole (5 Suits)	2021-01-03 — 05:42:03 UTC	avanderwalde, JerryYang, rkass	30	5	25
+391189	3	0	Throw It in a Hole (5 Suits)	2021-01-03 — 05:05:41 UTC	avanderwalde, JerryYang, rkass	52	5	25
+391119	5	0	Deceptive-Ones & Black (6 Suits)	2021-01-03 — 04:24:12 UTC	avanderwalde, doctorabi, rkass, scharkbite, Zamiel	1	6	30
+391090	4	0	Deceptive-Ones & Black (6 Suits)	2021-01-03 — 04:05:07 UTC	avanderwalde, rkass, scharkbite, Zamiel	1	6	30
+391067	4	0	Deceptive-Ones & Black (6 Suits)	2021-01-03 — 03:50:19 UTC	avanderwalde, rkass, scharkbite, Zamiel	1	6	30
+391039	5	0	Deceptive-Ones & Black (6 Suits)	2021-01-03 — 03:30:50 UTC	ADrone, avanderwalde, kimbifille, scharkbite, Zamiel	1	6	30
+391007	5	0	Deceptive-Ones & Black (6 Suits)	2021-01-03 — 03:10:13 UTC	ADrone, avanderwalde, kimbifille, scharkbite, Zamiel	1	6	30
+390569	4	20	Throw It in a Hole (4 Suits)	2021-01-02 — 20:54:00 UTC	avanderwalde, hakha3, rkass, TimeHoodie	4	4	20
+390546	4	18	Throw It in a Hole (4 Suits)	2021-01-02 — 20:35:55 UTC	avanderwalde, hakha3, rkass, TimeHoodie	5	4	20
+390534	2	20	Throw It in a Hole (4 Suits)	2021-01-02 — 20:18:57 UTC	avanderwalde, rkass	31	4	20
+390518	2	0	Throw It in a Hole (4 Suits)	2021-01-02 — 20:07:59 UTC	avanderwalde, rkass	52	4	20
+389995	5	0	Brown (4 Suits)	2021-01-02 — 04:31:35 UTC	avanderwalde, derekcheah, indego, JerryYang, XMIL	4	4	20
+389953	5	0	Brown (4 Suits)	2021-01-02 — 03:49:45 UTC	avanderwalde, derekcheah, indego, JerryYang, XMIL	5	4	20
+389907	5	20	Pink (4 Suits)	2021-01-02 — 03:05:33 UTC	avanderwalde, derekcheah, ejwu, piper, rkass	6	4	20
+389864	4	30	Omni (6 Suits)	2021-01-02 — 02:27:51 UTC	avanderwalde, kevincaseytdk1, piper, rkass	26	6	30
+389830	4	0	Omni (6 Suits)	2021-01-02 — 01:47:09 UTC	avanderwalde, kevincaseytdk1, piper, rkass	33	6	30
+389801	4	24	Dark Brown (5 Suits)	2021-01-02 — 01:15:36 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	17	5	25
+389761	3	23	Gray Pink (5 Suits)	2021-01-02 — 00:39:27 UTC	avanderwalde, JerryYang, rkass	18	5	25
+388949	5	12	3 Suits	2021-01-01 — 06:04:38 UTC	avanderwalde, ejwu, JerryYang, pianoblook, rkass	9	3	15
+388933	3	25	Gray (5 Suits)	2021-01-01 — 05:40:37 UTC	avanderwalde, JerryYang, rkass	16	5	25
+388902	3	0	Gray (5 Suits)	2021-01-01 — 05:15:20 UTC	avanderwalde, JerryYang, rkass	20	5	25
+388893	3	0	Gray (5 Suits)	2021-01-01 — 05:06:12 UTC	avanderwalde, JerryYang, rkass	19	5	25
+388887	3	0	Gray (5 Suits)	2021-01-01 — 05:01:26 UTC	avanderwalde, JerryYang, rkass	35	5	25
+388857	3	25	Dark Brown (5 Suits)	2021-01-01 — 04:35:35 UTC	avanderwalde, JerryYang, rkass	17	5	25
+388835	3	25	Brown (5 Suits)	2021-01-01 — 04:00:00 UTC	avanderwalde, JerryYang, rkass	38	5	25
+388781	4	0	6 Suits	2021-01-01 — 02:58:33 UTC	avanderwalde, IAMJEFF, pianoblook, rkass	92	6	30
+388756	4	0	6 Suits	2021-01-01 — 02:34:26 UTC	avanderwalde, IAMJEFF, pianoblook, rkass	191	6	30
+388703	4	20	6 Suits	2021-01-01 — 01:37:42 UTC	avanderwalde, JerryYang, pianoblook, rkass	250	6	30
+388536	4	0	6 Suits	2020-12-31 — 22:47:29 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	151	6	30
+388474	4	0	Muddy Rainbow & Dark Rainbow (6 Suits)	2020-12-31 — 21:51:59 UTC	avanderwalde, kevincaseytdk1, Kyle, rkass	1	6	30
+387829	5	25	No Variant	2020-12-31 — 03:01:28 UTC	avanderwalde, JerryYang, kevincaseytdk1, Kyle, rkass	2	5	25
+387717	5	24	No Variant	2020-12-31 — 01:49:13 UTC	avanderwalde, JerryYang, kevincaseytdk1, Kyle, rkass	2	5	25
+387665	5	24	No Variant	2020-12-31 — 00:48:22 UTC	avanderwalde, JerryYang, kevincaseytdk1, Kyle, rkass	7	5	25
+387653	4	0	No Variant	2020-12-31 — 00:26:28 UTC	avanderwalde, JerryYang, Kyle, rkass	16	5	25
+387599	4	0	Rainbow & Gray (6 Suits)	2020-12-30 — 22:51:16 UTC	avanderwalde, kevincaseytdk1, mattnabi, rkass	8	6	30
+387588	4	0	Rainbow & Gray (6 Suits)	2020-12-30 — 22:32:42 UTC	avanderwalde, kevincaseytdk1, mattnabi, rkass	10	6	30
+387584	4	0	Rainbow & Gray (6 Suits)	2020-12-30 — 22:26:44 UTC	avanderwalde, kevincaseytdk1, mattnabi, rkass	10	6	30
+387566	5	26	Rainbow & Gray (6 Suits)	2020-12-30 — 22:05:12 UTC	avanderwalde, mattnabi, Onen, Pablo-, rkass	2	6	30
+386886	5	30	Brown & Omni (6 Suits)	2020-12-30 — 03:31:34 UTC	avanderwalde, doctorabi, pianoblook, rkass, sephiroth	2	6	30
+386848	5	0	Brown & Omni (6 Suits)	2020-12-30 — 02:57:35 UTC	avanderwalde, doctorabi, pianoblook, rkass, sephiroth	3	6	30
+386818	5	25	White & Muddy Rainbow (5 Suits)	2020-12-30 — 02:27:56 UTC	avanderwalde, doctorabi, pianoblook, rkass, sephiroth	6	5	25
+386791	4	25	Rainbow & Dark Prism (5 Suits)	2020-12-30 — 01:59:45 UTC	avanderwalde, doctorabi, pianoblook, sephiroth	4	5	25
+386752	3	23	Rainbow & Dark Omni (5 Suits)	2020-12-30 — 01:38:43 UTC	avanderwalde, jeff10, rkass	5	5	25
+386693	5	0	Rainbow & Dark Omni (5 Suits)	2020-12-30 — 01:05:36 UTC	asaelr, avanderwalde, fuckthiswebsite, melwen, rkass	1	5	25
+386351	5	25	No Variant	2020-12-29 — 19:46:36 UTC	avanderwalde, JerryYang, kevincaseytdk1, Kyle, rkass	8	5	25
+386319	5	25	No Variant	2020-12-29 — 19:09:51 UTC	avanderwalde, JerryYang, kevincaseytdk1, Kyle, rkass	9	5	25
+386274	4	25	Clue Starved & White (5 Suits)	2020-12-29 — 18:31:27 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	2	5	25
+386248	4	17	4 Suits	2020-12-29 — 17:52:10 UTC	avanderwalde, JerryYang, rkass, tezeteta	101	4	20
+385664	5	25	No Variant	2020-12-29 — 02:49:50 UTC	avanderwalde, JerryYang, kevincaseytdk1, Kyle, rkass	2	5	25
+385570	5	25	No Variant	2020-12-29 — 01:40:46 UTC	avanderwalde, JerryYang, kevincaseytdk1, Kyle, rkass	1	5	25
+385519	5	25	No Variant	2020-12-29 — 00:41:32 UTC	avanderwalde, JerryYang, kevincaseytdk1, Kyle, rkass	9	5	25
+384625	5	0	Omni (6 Suits)	2020-12-28 — 03:52:05 UTC	avanderwalde, IAMJEFF, kimbifille, Kyle, pianoblook	3	6	30
+384594	5	0	Omni (6 Suits)	2020-12-28 — 03:28:34 UTC	avanderwalde, IAMJEFF, kimbifille, pianoblook, StKildaFan	5	6	30
+384563	5	0	Omni (6 Suits)	2020-12-28 — 03:01:55 UTC	avanderwalde, IAMJEFF, kimbifille, pianoblook, piper	5	6	30
+384527	5	0	Omni (6 Suits)	2020-12-28 — 02:25:17 UTC	avanderwalde, IAMJEFF, kimbifille, pianoblook, piper	8	6	30
+384476	5	0	Special Mix (5 Suits)	2020-12-28 — 01:36:35 UTC	avanderwalde, JerryYang, kimbifille, pianoblook, rkass	5	5	25
+384458	5	0	No Variant	2020-12-28 — 01:12:53 UTC	avanderwalde, JerryYang, kimbifille, pianoblook, rkass	41	5	25
+384457	4	0	Special Mix (5 Suits)	2020-12-28 — 01:11:32 UTC	avanderwalde, JerryYang, kimbifille, rkass	28	5	25
+384442	5	0	Special Mix (5 Suits)	2020-12-28 — 00:54:39 UTC	avanderwalde, ejwu, JerryYang, kevincaseytdk1, rkass	16	5	25
+384380	3	25	Special Mix (5 Suits)	2020-12-28 — 00:01:29 UTC	avanderwalde, JerryYang, rkass	38	5	25
+383508	5	0	No Variant	2020-12-27 — 03:41:53 UTC	avanderwalde, JerryYang, kevincaseytdk1, Kyle, rkass	10	5	25
+383493	5	0	No Variant	2020-12-27 — 03:25:17 UTC	avanderwalde, JerryYang, kevincaseytdk1, Kyle, rkass	11	5	25
+383440	5	0	No Variant	2020-12-27 — 02:48:34 UTC	avanderwalde, JerryYang, kevincaseytdk1, Kyle, rkass	11	5	25
+383385	5	0	No Variant	2020-12-27 — 02:05:30 UTC	avanderwalde, JerryYang, kevincaseytdk1, Kyle, rkass	11	5	25
+383329	5	25	No Variant	2020-12-27 — 01:19:47 UTC	avanderwalde, JerryYang, kevincaseytdk1, Kyle, rkass	12	5	25
+383262	4	25	No Variant	2020-12-27 — 00:16:08 UTC	avanderwalde, kevincaseytdk1, Kyle, rkass	17	5	25
+383237	4	24	No Variant	2020-12-26 — 23:46:09 UTC	avanderwalde, kevincaseytdk1, Kyle, rkass	16	5	25
+382325	4	30	Rainbow & Muddy Rainbow (6 Suits)	2020-12-26 — 03:30:28 UTC	avanderwalde, IAMJEFF, kimbifille, rkass	2	6	30
+382290	4	0	Rainbow & Muddy Rainbow (6 Suits)	2020-12-26 — 03:05:03 UTC	avanderwalde, IAMJEFF, kimbifille, rkass	3	6	30
+382276	4	0	Rainbow & Muddy Rainbow (6 Suits)	2020-12-26 — 02:53:22 UTC	avanderwalde, IAMJEFF, kimbifille, rkass	3	6	30
+382256	4	30	Prism (6 Suits)	2020-12-26 — 02:36:54 UTC	avanderwalde, IAMJEFF, kimbifille, rkass	53	6	30
+382230	3	30	Dark Pink (6 Suits)	2020-12-26 — 02:12:38 UTC	avanderwalde, kimbifille, rkass	34	6	30
+382201	3	25	Rainbow & Dark Prism (5 Suits)	2020-12-26 — 01:51:55 UTC	avanderwalde, kimbifille, rkass	4	5	25
+382176	3	23	Rainbow & Dark Prism (5 Suits)	2020-12-26 — 01:34:45 UTC	avanderwalde, kimbifille, rkass	4	5	25
+382162	3	0	Rainbow & Dark Prism (5 Suits)	2020-12-26 — 01:14:38 UTC	avanderwalde, kimbifille, rkass	4	5	25
+382153	3	25	Rainbow & Brown (5 Suits)	2020-12-26 — 01:05:10 UTC	avanderwalde, kimbifille, rkass	24	5	25
+381991	3	25	Dark Prism (5 Suits)	2020-12-25 — 21:45:25 UTC	avanderwalde, mattnabi, rkass	18	5	25
+381961	3	25	Gray (5 Suits)	2020-12-25 — 21:02:07 UTC	avanderwalde, mattnabi, rkass	37	5	25
+381952	3	25	Dark Brown (5 Suits)	2020-12-25 — 20:41:41 UTC	avanderwalde, mattnabi, rkass	18	5	25
+381940	3	0	Dark Brown (5 Suits)	2020-12-25 — 20:20:58 UTC	avanderwalde, mattnabi, rkass	18	5	25
+381936	3	24	Dark Brown (5 Suits)	2020-12-25 — 20:12:15 UTC	avanderwalde, mattnabi, rkass	26	5	25
+381343	5	25	No Variant	2020-12-25 — 03:32:05 UTC	avanderwalde, JerryYang, kevincaseytdk1, Kyle, rkass	13	5	25
+381306	5	0	No Variant	2020-12-25 — 02:57:44 UTC	avanderwalde, JerryYang, kevincaseytdk1, Kyle, rkass	15	5	25
+381276	6	22	Rainbow (5 Suits)	2020-12-25 — 02:17:43 UTC	avanderwalde, JerryYang, kevincaseytdk1, kimbifille, piper, rkass	14	5	25
+381251	5	0	Gray Pink (5 Suits)	2020-12-25 — 01:34:12 UTC	avanderwalde, JerryYang, kimbifille, piper, rkass	4	5	25
+380625	5	23	Gray Pink (5 Suits)	2020-12-24 — 04:13:35 UTC	avanderwalde, JerryYang, Kyle, melwen, rkass	1	5	25
+380574	6	25	No Variant	2020-12-24 — 03:36:00 UTC	avanderwalde, JerryYang, Kyle, Lel0uch, melwen, rkass	12	5	25
+380527	4	25	No Variant	2020-12-24 — 02:58:57 UTC	avanderwalde, JerryYang, Kyle, rkass	16	5	25
+380476	4	25	No Variant	2020-12-24 — 02:23:52 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	180	5	25
+380344	3	0	No Variant	2020-12-24 — 00:27:03 UTC	avanderwalde, JerryYang, rkass	269	5	25
+379360	4	25	No Variant	2020-12-23 — 02:50:44 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	213	5	25
+379311	4	0	No Variant	2020-12-23 — 02:10:07 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	233	5	25
+379293	5	25	No Variant	2020-12-23 — 01:46:00 UTC	avanderwalde, JerryYang, kevincaseytdk1, Kyle, rkass	15	5	25
+379259	5	25	No Variant	2020-12-23 — 00:46:24 UTC	avanderwalde, JerryYang, kevincaseytdk1, Kyle, rkass	15	5	25
+378376	5	23	Gray Pink (5 Suits)	2020-12-22 — 04:00:16 UTC	avanderwalde, kimbifille, Kyle, pianoblook, TimeHoodie	1	5	25
+378339	5	0	Gray Pink (5 Suits)	2020-12-22 — 03:25:21 UTC	avanderwalde, kimbifille, Kyle, pianoblook, TimeHoodie	1	5	25
+378312	5	0	Gray Pink (5 Suits)	2020-12-22 — 03:00:58 UTC	avanderwalde, kevincaseytdk1, kimbifille, Kyle, rkass	1	5	25
+378280	5	0	Gray Pink (5 Suits)	2020-12-22 — 02:26:47 UTC	avanderwalde, kevincaseytdk1, kimbifille, Kyle, rkass	1	5	25
+378261	5	0	Gray Pink (5 Suits)	2020-12-22 — 02:11:21 UTC	avanderwalde, kevincaseytdk1, kimbifille, Kyle, rkass	1	5	25
+378241	5	0	Gray Pink (5 Suits)	2020-12-22 — 01:55:38 UTC	avanderwalde, kevincaseytdk1, kimbifille, Kyle, rkass	3	5	25
+378226	4	0	Gray (6 Suits)	2020-12-22 — 01:42:58 UTC	avanderwalde, kevincaseytdk1, kimbifille, rkass	18	6	30
+378211	4	29	Gray (6 Suits)	2020-12-22 — 01:25:43 UTC	avanderwalde, kevincaseytdk1, kimbifille, rkass	22	6	30
+377504	5	0	Dark Pink (5 Suits)	2020-12-21 — 04:13:33 UTC	avanderwalde, IAMJEFF, JerryYang, kimbifille, TimeHoodie	3	5	25
+377450	5	0	Dark Pink (5 Suits)	2020-12-21 — 03:30:55 UTC	avanderwalde, IAMJEFF, JerryYang, kimbifille, TimeHoodie	5	5	25
+377402	5	0	Gray Pink (5 Suits)	2020-12-21 — 02:49:35 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass, TimeHoodie	4	5	25
+377365	5	0	Dark Rainbow (5 Suits)	2020-12-21 — 02:19:37 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass, TimeHoodie	6	5	25
+377343	4	0	Dark Rainbow (5 Suits)	2020-12-21 — 02:00:28 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	19	5	25
+376998	5	0	Dark Omni (5 Suits)	2020-12-20 — 20:36:45 UTC	avanderwalde, kimbifille, pianoblook, piper, rkass	1	5	25
+376365	6	30	Dark Pink (6 Suits)	2020-12-20 — 03:28:22 UTC	avanderwalde, JerryYang, melwen, pianoblook, piper, rkass	4	6	30
+376289	6	30	Dark Brown (6 Suits)	2020-12-20 — 02:38:31 UTC	avanderwalde, JerryYang, kevincaseytdk1, pianoblook, piper, rkass	6	6	30
+376255	5	25	Dark Brown (5 Suits)	2020-12-20 — 01:49:47 UTC	avanderwalde, JerryYang, kevincaseytdk1, pianoblook, piper	6	5	25
+376234	4	0	Rainbow & Prism (5 Suits)	2020-12-20 — 01:07:59 UTC	avanderwalde, JerryYang, pianoblook, piper	16	5	25
+375509	4	0	Black & Dark Rainbow (6 Suits)	2020-12-19 — 05:13:38 UTC	avanderwalde, kimbifille, pianoblook, Zamiel	1	6	30
+375497	4	0	Black & Dark Rainbow (6 Suits)	2020-12-19 — 05:04:16 UTC	avanderwalde, kimbifille, pianoblook, Zamiel	1	6	30
+375480	4	0	Black & Dark Rainbow (6 Suits)	2020-12-19 — 04:47:26 UTC	avanderwalde, kimbifille, pianoblook, Zamiel	1	6	30
+375464	4	0	Black & Dark Rainbow (6 Suits)	2020-12-19 — 04:34:46 UTC	avanderwalde, kimbifille, pianoblook, Zamiel	1	6	30
+375429	6	28	Dark Pink (6 Suits)	2020-12-19 — 04:13:13 UTC	avanderwalde, kimbifille, pianoblook, rkass, sin_faith, Zamiel	4	6	30
+375385	6	0	Dark Pink (5 Suits)	2020-12-19 — 03:44:27 UTC	avanderwalde, kimbifille, pianoblook, piper, rkass, Zamiel	2	5	25
+375367	6	0	Dark Pink (5 Suits)	2020-12-19 — 03:31:16 UTC	avanderwalde, kimbifille, pianoblook, piper, rkass, Zamiel	2	5	25
+375354	6	0	Dark Pink (5 Suits)	2020-12-19 — 03:17:54 UTC	avanderwalde, kimbifille, pianoblook, piper, rkass, Zamiel	4	5	25
+375330	6	0	Dark Pink (5 Suits)	2020-12-19 — 03:01:08 UTC	avanderwalde, kimbifille, pianoblook, piper, rkass, Zamiel	4	5	25
+375323	5	0	Dark Pink (5 Suits)	2020-12-19 — 02:49:16 UTC	avanderwalde, kimbifille, pianoblook, piper, rkass	3	5	25
+375292	5	0	Dark Pink (5 Suits)	2020-12-19 — 02:27:58 UTC	avanderwalde, kimbifille, pianoblook, piper, rkass	3	5	25
+375242	4	30	Black & Rainbow (6 Suits)	2020-12-19 — 01:48:27 UTC	avanderwalde, kimbifille, pianoblook, piper	7	6	30
+374423	4	0	Clue Starved & Pink (6 Suits)	2020-12-18 — 04:16:45 UTC	avanderwalde, JerryYang, kimbifille, pianoblook	4	6	30
+374382	4	0	Clue Starved & Pink (6 Suits)	2020-12-18 — 03:28:38 UTC	avanderwalde, JerryYang, kimbifille, pianoblook	4	6	30
+374348	4	0	Rainbow & Muddy Rainbow (5 Suits)	2020-12-18 — 03:16:49 UTC	avanderwalde, JerryYang, kimbifille, pianoblook	4	5	25
+374302	5	0	Dark Pink (5 Suits)	2020-12-18 — 02:57:22 UTC	avanderwalde, JerryYang, kevincaseytdk1, pianoblook, rkass	7	5	25
+374241	5	0	Dark Pink (5 Suits)	2020-12-18 — 02:23:38 UTC	avanderwalde, JerryYang, kevincaseytdk1, pianoblook, rkass	7	5	25
+374218	5	0	Dark Pink (5 Suits)	2020-12-18 — 01:54:46 UTC	avanderwalde, JerryYang, kevincaseytdk1, pianoblook, rkass	8	5	25
+373789	3	23	Pink (5 Suits)	2020-12-17 — 16:27:25 UTC	avanderwalde, mattnabi, rkass	75	5	25
+373548	5	25	Gray (5 Suits)	2020-12-17 — 04:57:47 UTC	avanderwalde, JerryYang, kimbifille, pianoblook, TimeHoodie	1	5	25
+373504	5	21	Gray (5 Suits)	2020-12-17 — 04:00:16 UTC	avanderwalde, JerryYang, kimbifille, pianoblook, TimeHoodie	1	5	25
+373475	5	0	Gray (5 Suits)	2020-12-17 — 03:33:27 UTC	avanderwalde, JerryYang, kimbifille, pianoblook, TimeHoodie	1	5	25
+373464	5	0	Gray (5 Suits)	2020-12-17 — 03:24:43 UTC	avanderwalde, JerryYang, kimbifille, pianoblook, TimeHoodie	1	5	25
+373442	5	23	Gray (5 Suits)	2020-12-17 — 03:01:03 UTC	avanderwalde, JerryYang, kimbifille, pianoblook, TimeHoodie	1	5	25
+373394	5	0	Gray (5 Suits)	2020-12-17 — 02:23:31 UTC	avanderwalde, JerryYang, kimbifille, pianoblook, TimeHoodie	1	5	25
+373363	6	0	Gray (5 Suits)	2020-12-17 — 02:06:29 UTC	avanderwalde, JerryYang, kevincaseytdk1, kimbifille, pianoblook, TimeHoodie	2	5	25
+373313	6	0	Gray (5 Suits)	2020-12-17 — 01:40:10 UTC	avanderwalde, JerryYang, kevincaseytdk1, kimbifille, pianoblook, TimeHoodie	2	5	25
+373287	6	0	Gray (5 Suits)	2020-12-17 — 01:17:39 UTC	avanderwalde, JerryYang, kevincaseytdk1, kimbifille, pianoblook, TimeHoodie	2	5	25
+373271	6	0	Gray (5 Suits)	2020-12-17 — 01:00:29 UTC	avanderwalde, JerryYang, kevincaseytdk1, kimbifille, pianoblook, TimeHoodie	3	5	25
+372502	4	20	Reversed (4 Suits)	2020-12-16 — 03:57:44 UTC	avanderwalde, frosty104, MarcLovesDogs, ricardodd	5	4	20
+372488	5	0	Gray (5 Suits)	2020-12-16 — 03:39:45 UTC	avanderwalde, doctorabi, frosty104, Kyle, ricardodd	2	5	25
+372479	5	0	Gray (5 Suits)	2020-12-16 — 03:25:09 UTC	avanderwalde, doctorabi, frosty104, Kyle, ricardodd	3	5	25
+372464	6	22	Gray (5 Suits)	2020-12-16 — 03:08:43 UTC	avanderwalde, doctorabi, Kyle, ricardodd, rkass, TimeHoodie	3	5	25
+372428	5	0	Gray (5 Suits)	2020-12-16 — 02:40:25 UTC	avanderwalde, doctorabi, ricardodd, rkass, TimeHoodie	6	5	25
+372411	5	21	Gray (5 Suits)	2020-12-16 — 02:24:28 UTC	avanderwalde, doctorabi, ricardodd, rkass, TimeHoodie	7	5	25
+372390	4	0	3 Suits	2020-12-16 — 01:56:59 UTC	avanderwalde, doctorabi, ricardodd, rkass	31	3	15
+371103	6	30	Rainbow & Pink (6 Suits)	2020-12-14 — 21:52:06 UTC	avanderwalde, frosty104, kevincaseytdk1, kimbifille, pianoblook, StKildaFan	5	6	30
+371029	6	19	4 Suits	2020-12-14 — 20:44:16 UTC	avanderwalde, ejwu, frosty104, kimbifille, pianoblook, StKildaFan	11	4	20
+371007	3	0	Pink & Gray (6 Suits)	2020-12-14 — 20:21:48 UTC	avanderwalde, MarkusKahlsen, pianoblook	10	6	30
+370518	4	29	Rainbow (6 Suits)	2020-12-14 — 02:10:55 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	7	6	30
+370399	4	0	Rainbow (6 Suits)	2020-12-14 — 00:15:57 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	9	6	30
+369496	3	24	Dark Pink (5 Suits)	2020-12-13 — 02:38:12 UTC	avanderwalde, kevincaseytdk1, rkass	42	5	25
+369467	4	27	Dark Pink (6 Suits)	2020-12-13 — 02:05:15 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	18	6	30
+369415	4	29	Dark Pink (6 Suits)	2020-12-13 — 01:20:47 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	23	6	30
+369376	4	0	Dark Pink (6 Suits)	2020-12-13 — 00:45:35 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	29	6	30
+368039	4	0	Rainbow (6 Suits)	2020-12-11 — 21:22:35 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	10	6	30
+367963	4	30	Rainbow (6 Suits)	2020-12-11 — 20:14:16 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	7	6	30
+367875	4	27	Rainbow (6 Suits)	2020-12-11 — 18:03:35 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	8	6	30
+367841	4	0	Rainbow (6 Suits)	2020-12-11 — 16:33:28 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	7	6	30
+367835	4	0	Rainbow (6 Suits)	2020-12-11 — 16:14:15 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	9	6	30
+366468	4	29	Rainbow (6 Suits)	2020-12-10 — 02:52:29 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	7	6	30
+366386	4	0	Rainbow (6 Suits)	2020-12-10 — 00:27:10 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	9	6	30
+365204	4	30	Rainbow (6 Suits)	2020-12-09 — 02:23:47 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	10	6	30
+365060	4	30	Rainbow (6 Suits)	2020-12-09 — 00:55:29 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	11	6	30
+362993	4	0	Rainbow (6 Suits)	2020-12-07 — 01:10:53 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	12	6	30
+362916	4	0	Rainbow (6 Suits)	2020-12-07 — 00:13:10 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	11	6	30
+362858	4	0	Rainbow (6 Suits)	2020-12-06 — 23:10:23 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	12	6	30
+362815	4	0	Rainbow (6 Suits)	2020-12-06 — 22:29:12 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	12	6	30
+362754	4	30	Rainbow (6 Suits)	2020-12-06 — 21:24:45 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	12	6	30
+362701	4	0	Rainbow (6 Suits)	2020-12-06 — 20:37:36 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	13	6	30
+361266	4	29	Rainbow (6 Suits)	2020-12-05 — 04:28:39 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	15	6	30
+361060	4	30	Rainbow (6 Suits)	2020-12-05 — 02:42:37 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	15	6	30
+361023	4	0	Rainbow (6 Suits)	2020-12-05 — 01:57:55 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	16	6	30
+361022	4	0	Rainbow (6 Suits)	2020-12-05 — 01:57:45 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	16	6	30
+361021	4	0	Rainbow (6 Suits)	2020-12-05 — 01:57:37 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	19	6	30
+361020	4	0	Rainbow (6 Suits)	2020-12-05 — 01:57:25 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	17	6	30
+360794	4	30	Rainbow (6 Suits)	2020-12-04 — 21:39:37 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	17	6	30
+360735	4	0	Rainbow (6 Suits)	2020-12-04 — 20:40:21 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	19	6	30
+360722	4	0	Rainbow (6 Suits)	2020-12-04 — 20:21:56 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	19	6	30
+360237	4	30	Rainbow (6 Suits)	2020-12-04 — 04:12:35 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	26	6	30
+360137	4	0	Rainbow (6 Suits)	2020-12-04 — 01:52:13 UTC	avanderwalde, kevincaseytdk1, rkass, will.i.am	26	6	30
+360127	3	0	Rainbow (6 Suits)	2020-12-04 — 01:29:36 UTC	avanderwalde, kevincaseytdk1, rkass	35	6	30
+359462	5	0	Up or Down (5 Suits)	2020-12-03 — 04:28:02 UTC	avanderwalde, derekcheah, IsabeltheCat, JerryYang, melwen	6	5	25
+359429	4	30	Up or Down & White (6 Suits)	2020-12-03 — 03:46:55 UTC	avanderwalde, derekcheah, melwen, TheDaniMan	6	6	30
+359378	4	28	Up or Down & White (6 Suits)	2020-12-03 — 02:55:30 UTC	avanderwalde, derekcheah, melwen, TheDaniMan	8	6	30
+359352	6	0	Rainbow & Brown (5 Suits)	2020-12-03 — 02:22:01 UTC	avanderwalde, doctorabi, JerryYang, Kyle, TheDaniMan, TimeHoodie	4	5	25
+359339	4	26	Rainbow & Gray (6 Suits)	2020-12-03 — 02:03:37 UTC	avanderwalde, doctorabi, kevincaseytdk1, TimeHoodie	11	6	30
+359323	4	28	Rainbow & Gray (6 Suits)	2020-12-03 — 01:29:11 UTC	avanderwalde, doctorabi, kevincaseytdk1, TimeHoodie	15	6	30
+359308	3	23	Gray (5 Suits)	2020-12-03 — 00:54:36 UTC	avanderwalde, kevincaseytdk1, voss	21	5	25
+358732	3	30	Rainbow (6 Suits)	2020-12-02 — 04:24:13 UTC	avanderwalde, JerryYang, kevincaseytdk1	118	6	30
+358685	3	0	Rainbow (6 Suits)	2020-12-02 — 03:08:50 UTC	avanderwalde, JerryYang, kevincaseytdk1	126	6	30
+358664	3	21	Gray (5 Suits)	2020-12-02 — 02:35:15 UTC	avanderwalde, JerryYang, kevincaseytdk1	26	5	25
+358032	4	0	Rainbow (6 Suits)	2020-12-01 — 03:55:48 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	27	6	30
+357959	4	0	Rainbow (6 Suits)	2020-12-01 — 03:10:18 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	34	6	30
+357937	6	25	Null (5 Suits)	2020-12-01 — 02:49:12 UTC	avanderwalde, ejwu, jeff10, kevincaseytdk1, rkass, TimeHoodie	1	5	25
+357917	6	0	Null (5 Suits)	2020-12-01 — 02:18:27 UTC	avanderwalde, ejwu, jeff10, kevincaseytdk1, rkass, TimeHoodie	2	5	25
+357905	6	0	Null (5 Suits)	2020-12-01 — 01:40:09 UTC	avanderwalde, ejwu, kevincaseytdk1, rkass, TimeHoodie, timotree	5	5	25
+357902	5	18	Null (4 Suits)	2020-12-01 — 01:28:49 UTC	avanderwalde, kevincaseytdk1, newduke, rkass, timotree	3	4	20
+357896	3	0	Null (4 Suits)	2020-12-01 — 00:53:28 UTC	avanderwalde, rkass, timotree	23	4	20
+357891	3	20	4 Suits	2020-12-01 — 00:39:20 UTC	avanderwalde, HelanaAshryvr, rkass	160	4	20
+357226	4	30	Rainbow (6 Suits)	2020-11-30 — 03:36:55 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	18	6	30
+357168	4	0	Rainbow (6 Suits)	2020-11-30 — 02:44:09 UTC	avanderwalde, JerryYang, rkass, TimeHoodie	19	6	30
+357142	3	30	Rainbow (6 Suits)	2020-11-30 — 02:15:58 UTC	avanderwalde, JerryYang, rkass	36	6	30
+356455	4	30	Rainbow (6 Suits)	2020-11-29 — 03:44:46 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	34	6	30
+356396	4	0	Rainbow (6 Suits)	2020-11-29 — 02:49:55 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	34	6	30
+356323	4	30	Rainbow (6 Suits)	2020-11-29 — 01:21:08 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	35	6	30
+356211	4	0	Rainbow (6 Suits)	2020-11-28 — 22:03:19 UTC	avanderwalde, kevincaseytdk1, rkass, TimeHoodie	19	6	30
+356187	4	30	Rainbow (6 Suits)	2020-11-28 — 21:30:01 UTC	avanderwalde, kevincaseytdk1, rkass, TimeHoodie	20	6	30
+356155	4	0	Rainbow (6 Suits)	2020-11-28 — 20:46:45 UTC	avanderwalde, kevincaseytdk1, rkass, TimeHoodie	22	6	30
+355365	3	25	Black & Brown (5 Suits)	2020-11-27 — 22:00:50 UTC	avanderwalde, mattnabi, rkass	5	5	25
+355352	3	0	Black & Brown (5 Suits)	2020-11-27 — 21:38:18 UTC	avanderwalde, mattnabi, rkass	6	5	25
+355340	3	0	Black & Brown (5 Suits)	2020-11-27 — 21:27:11 UTC	avanderwalde, mattnabi, rkass	7	5	25
+355329	3	24	Black & Brown (5 Suits)	2020-11-27 — 21:15:52 UTC	avanderwalde, mattnabi, rkass	9	5	25
+355311	3	0	Black & Brown (5 Suits)	2020-11-27 — 20:51:04 UTC	avanderwalde, mattnabi, rkass	10	5	25
+355297	3	0	Black & Brown (5 Suits)	2020-11-27 — 20:43:08 UTC	avanderwalde, mattnabi, rkass	11	5	25
+355292	3	0	Black & Brown (5 Suits)	2020-11-27 — 20:36:54 UTC	avanderwalde, mattnabi, rkass	14	5	25
+355258	3	0	Black & Brown (5 Suits)	2020-11-27 — 20:09:20 UTC	avanderwalde, mattnabi, rkass	16	5	25
+354991	4	0	Rainbow (6 Suits)	2020-11-27 — 06:46:32 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	38	6	30
+354976	4	0	Rainbow (6 Suits)	2020-11-27 — 06:12:26 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	37	6	30
+354907	4	0	Rainbow (6 Suits)	2020-11-27 — 04:58:33 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	38	6	30
+354844	3	0	Rainbow (6 Suits)	2020-11-27 — 03:57:44 UTC	avanderwalde, JerryYang, rkass	40	6	30
+354144	4	0	Black & Dark Rainbow (6 Suits)	2020-11-26 — 05:03:25 UTC	avanderwalde, IAMJEFF, kimbifille, Zamiel	1	6	30
+354128	4	0	Black & Dark Rainbow (6 Suits)	2020-11-26 — 04:45:23 UTC	avanderwalde, IAMJEFF, kimbifille, Zamiel	1	6	30
+354111	4	0	Black & Dark Rainbow (6 Suits)	2020-11-26 — 04:29:38 UTC	avanderwalde, IAMJEFF, kimbifille, Zamiel	1	6	30
+354097	4	0	Black & Dark Rainbow (6 Suits)	2020-11-26 — 04:19:13 UTC	avanderwalde, IAMJEFF, kimbifille, Zamiel	1	6	30
+354083	4	0	Black & Dark Rainbow (6 Suits)	2020-11-26 — 04:08:20 UTC	avanderwalde, IAMJEFF, kimbifille, Zamiel	1	6	30
+354071	5	0	Dark Brown (6 Suits)	2020-11-26 — 03:51:22 UTC	avanderwalde, IAMJEFF, JerryYang, kimbifille, Zamiel	6	6	30
+354051	5	0	Dark Brown (6 Suits)	2020-11-26 — 03:39:45 UTC	avanderwalde, IAMJEFF, JerryYang, kimbifille, Zamiel	6	6	30
+354023	4	0	Rainbow & Dark Null (6 Suits)	2020-11-26 — 03:26:09 UTC	avanderwalde, IAMJEFF, kimbifille, Zamiel	1	6	30
+354003	3	0	Rainbow & Dark Null (6 Suits)	2020-11-26 — 03:06:43 UTC	avanderwalde, kimbifille, Zamiel	1	6	30
+353989	3	0	Rainbow & Dark Null (6 Suits)	2020-11-26 — 02:53:57 UTC	avanderwalde, kimbifille, Zamiel	1	6	30
+353975	4	0	Rainbow & Dark Null (6 Suits)	2020-11-26 — 02:37:13 UTC	avanderwalde, kimbifille, timotree, Zamiel	1	6	30
+353954	4	0	Rainbow & Dark Null (6 Suits)	2020-11-26 — 02:13:29 UTC	avanderwalde, kimbifille, timotree, Zamiel	1	6	30
+353950	4	0	Rainbow & Dark Null (6 Suits)	2020-11-26 — 02:00:57 UTC	avanderwalde, kimbifille, timotree, Zamiel	1	6	30
+353945	4	0	Rainbow & Dark Null (6 Suits)	2020-11-26 — 01:51:49 UTC	avanderwalde, kimbifille, timotree, Zamiel	1	6	30
+353942	4	0	Rainbow & Dark Null (6 Suits)	2020-11-26 — 01:45:09 UTC	avanderwalde, kimbifille, timotree, Zamiel	1	6	30
+353937	4	0	Rainbow & Dark Null (6 Suits)	2020-11-26 — 01:28:45 UTC	avanderwalde, kimbifille, timotree, Zamiel	1	6	30
+353934	4	0	Rainbow & Dark Null (6 Suits)	2020-11-26 — 01:13:22 UTC	avanderwalde, kimbifille, timotree, Zamiel	1	6	30
+353847	4	0	Rainbow (6 Suits)	2020-11-25 — 22:30:22 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	38	6	30
+353771	4	0	Rainbow (6 Suits)	2020-11-25 — 20:31:18 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	39	6	30
+353733	4	30	Rainbow (6 Suits)	2020-11-25 — 19:49:21 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	41	6	30
+353299	4	22	Pink-Ones & Gray (5 Suits)	2020-11-25 — 04:31:34 UTC	avanderwalde, JerryYang, Kyle, TimeHoodie	1	5	25
+353246	5	21	Pink-Ones & Gray (5 Suits)	2020-11-25 — 03:44:05 UTC	avanderwalde, JerryYang, Kyle, rkass, TimeHoodie	1	5	25
+353212	5	0	Pink-Ones & Gray (5 Suits)	2020-11-25 — 03:10:50 UTC	avanderwalde, JerryYang, Kyle, rkass, TimeHoodie	1	5	25
+353206	5	0	Pink-Ones & Gray (5 Suits)	2020-11-25 — 03:01:40 UTC	avanderwalde, JerryYang, Kyle, rkass, TimeHoodie	1	5	25
+353148	3	25	Pink-Ones & Gray (5 Suits)	2020-11-25 — 02:17:50 UTC	avanderwalde, JerryYang, rkass	2	5	25
+353113	3	0	Pink-Ones & Gray (5 Suits)	2020-11-25 — 01:28:10 UTC	avanderwalde, JerryYang, rkass	2	5	25
+353099	5	0	Black (6 Suits)	2020-11-25 — 00:57:20 UTC	avanderwalde, derekcheah, Feich59, frosty104, rkass	36	6	30
+353016	5	21	Black & Prism (5 Suits)	2020-11-24 — 21:43:43 UTC	avanderwalde, jack67889, mattnabi, TimeHoodie, wump	2	5	25
+352211	6	30	Rainbow & Prism (6 Suits)	2020-11-24 — 03:18:38 UTC	avanderwalde, doctorabi, frosty104, Lel0uch, rkass, TimeHoodie	4	6	30
+352178	6	23	Black & Rainbow (5 Suits)	2020-11-24 — 02:44:39 UTC	avanderwalde, doctorabi, Lel0uch, mattnabi, rkass, TimeHoodie	1	5	25
+352157	6	0	Black & Rainbow (5 Suits)	2020-11-24 — 02:22:50 UTC	avanderwalde, doctorabi, Lel0uch, mattnabi, rkass, TimeHoodie	1	5	25
+352141	4	23	Black & Brown (5 Suits)	2020-11-24 — 02:04:20 UTC	avanderwalde, doctorabi, mattnabi, TimeHoodie	6	5	25
+352118	4	23	Black & Brown (5 Suits)	2020-11-24 — 01:40:38 UTC	avanderwalde, doctorabi, mattnabi, TimeHoodie	11	5	25
+352107	4	25	Rainbow-Ones & Gray Pink (5 Suits)	2020-11-24 — 01:16:32 UTC	avanderwalde, jeff10, mattnabi, TimeHoodie	1	5	25
+352094	4	0	Rainbow-Ones & Gray Pink (5 Suits)	2020-11-24 — 00:53:49 UTC	avanderwalde, jeff10, mattnabi, TimeHoodie	1	5	25
+351495	5	25	Cocoa Rainbow (5 Suits)	2020-11-23 — 03:59:15 UTC	avanderwalde, doctorabi, Kyle, melwen, TimeHoodie	3	5	25
+351473	5	0	Cocoa Rainbow (5 Suits)	2020-11-23 — 03:40:29 UTC	avanderwalde, doctorabi, Kyle, melwen, TimeHoodie	4	5	25
+351459	4	27	Rainbow & Null (6 Suits)	2020-11-23 — 03:22:52 UTC	avanderwalde, Kyle, melwen, TimeHoodie	5	6	30
+351425	4	25	Black & Null (5 Suits)	2020-11-23 — 02:57:37 UTC	avanderwalde, Kyle, melwen, TimeHoodie	2	5	25
+351366	3	0	Rainbow & Dark Brown (5 Suits)	2020-11-23 — 02:37:05 UTC	avanderwalde, mattnabi, rkass	7	5	25
+351316	4	0	Black & Rainbow (6 Suits)	2020-11-23 — 02:18:44 UTC	avanderwalde, ejwu, mattnabi, rkass	8	6	30
+351306	4	0	Black & Rainbow (6 Suits)	2020-11-23 — 02:15:02 UTC	avanderwalde, ejwu, mattnabi, rkass	7	6	30
+351286	4	0	Black & Rainbow (6 Suits)	2020-11-23 — 01:59:13 UTC	avanderwalde, ejwu, mattnabi, rkass	8	6	30
+351268	3	0	Black & Brown (6 Suits)	2020-11-23 — 01:34:59 UTC	avanderwalde, mattnabi, rkass	23	6	30
+351246	4	0	No Variant	2020-11-23 — 01:08:21 UTC	avanderwalde, mattnabi, rkass, ronyk	1253	5	25
+351213	4	25	No Variant	2020-11-23 — 00:28:59 UTC	avanderwalde, Kyle, rkass, ronyk	17	5	25
+351188	3	0	No Variant	2020-11-22 — 23:54:35 UTC	avanderwalde, rkass, ronyk	1465	5	25
+351103	5	22	Rainbow & Light Pink (5 Suits)	2020-11-22 — 22:41:24 UTC	avanderwalde, Kyle, MarkusKahlsen, nitawa, sephiroth	4	5	25
+351086	5	0	Pink (6 Suits)	2020-11-22 — 22:08:16 UTC	avanderwalde, jeff10, MarkusKahlsen, sephiroth, VerySloppyTwo	18	6	30
+351071	5	0	Gray (5 Suits)	2020-11-22 — 21:46:29 UTC	avanderwalde, jeff10, MarkusKahlsen, rkass, sephiroth	2	5	25
+351050	5	18	Brown (4 Suits)	2020-11-22 — 21:28:46 UTC	avanderwalde, dmigor3, Feich59, rkass, swineherd	4	4	20
+351025	5	18	Brown (4 Suits)	2020-11-22 — 21:08:27 UTC	avanderwalde, dmigor3, Feich59, rkass, swineherd	5	4	20
+350998	5	19	Brown (4 Suits)	2020-11-22 — 20:45:44 UTC	avanderwalde, dmigor3, Feich59, rkass, swineherd	7	4	20
+350973	5	0	Brown (4 Suits)	2020-11-22 — 20:23:38 UTC	avanderwalde, dmigor3, Feich59, rkass, swineherd	7	4	20
+350955	5	29	Black & Rainbow (6 Suits)	2020-11-22 — 20:05:10 UTC	avanderwalde, ebin_noob, Feich59, rkass, swineherd	5	6	30
+350936	5	0	Black & Rainbow (6 Suits)	2020-11-22 — 19:41:19 UTC	avanderwalde, ebin_noob, Feich59, rkass, swineherd	5	6	30
+350919	4	0	Black & Rainbow (6 Suits)	2020-11-22 — 19:21:12 UTC	avanderwalde, ebin_noob, Feich59, rkass	8	6	30
+350899	4	0	Black & Rainbow (6 Suits)	2020-11-22 — 18:59:38 UTC	avanderwalde, ebin_noob, Feich59, rkass	8	6	30
+350403	6	30	Black & Rainbow (6 Suits)	2020-11-22 — 04:02:06 UTC	avanderwalde, JerryYang, kodomazer, rkass, StKildaFan, TimeHoodie	3	6	30
+350360	6	0	Black & Rainbow (6 Suits)	2020-11-22 — 03:23:54 UTC	avanderwalde, JerryYang, kodomazer, rkass, StKildaFan, TimeHoodie	6	6	30
+350326	5	23	Black & Pink (5 Suits)	2020-11-22 — 02:55:01 UTC	avanderwalde, kodomazer, rkass, StKildaFan, TimeHoodie	4	5	25
+350278	6	30	Pink (6 Suits)	2020-11-22 — 02:22:51 UTC	avanderwalde, derekcheah, doctorabi, frosty104, StKildaFan, will.i.am	10	6	30
+350238	5	19	Muddy Rainbow (4 Suits)	2020-11-22 — 01:54:26 UTC	avanderwalde, derekcheah, doctorabi, frosty104, will.i.am	3	4	20
+350222	3	25	Deceptive-Ones (5 Suits)	2020-11-22 — 01:33:41 UTC	avanderwalde, derekcheah, will.i.am	8	5	25
+350206	4	30	Black & Prism (6 Suits)	2020-11-22 — 01:14:35 UTC	avanderwalde, derekcheah, TheDaniMan, will.i.am	14	6	30
+350178	3	0	Rainbow & Pink (5 Suits)	2020-11-22 — 00:46:40 UTC	avanderwalde, derekcheah, TheDaniMan	10	5	25
+350156	3	0	Omni-Ones & Brown (3 Suits)	2020-11-22 — 00:30:28 UTC	avanderwalde, derekcheah, TheDaniMan	2	3	15
+349355	5	23	Deceptive-Ones (5 Suits)	2020-11-21 — 05:04:23 UTC	avanderwalde, frosty104, melwen, micerang, Zamiel	4	5	25
+349327	5	30	Deceptive-Ones (6 Suits)	2020-11-21 — 04:40:13 UTC	avanderwalde, melwen, micerang, timotree, Zamiel	3	6	30
+349308	2	0	Clue Starved (6 Suits)	2020-11-21 — 04:14:07 UTC	avanderwalde, melwen	11	6	30
+349269	4	25	Rainbow & Null (5 Suits)	2020-11-21 — 03:42:00 UTC	avanderwalde, derekcheah, melwen, TimeHoodie	1	5	25
+349212	4	24	Rainbow & Null (5 Suits)	2020-11-21 — 03:08:45 UTC	avanderwalde, derekcheah, melwen, TimeHoodie	1	5	25
+349167	3	25	Null (5 Suits)	2020-11-21 — 02:43:36 UTC	avanderwalde, melwen, TimeHoodie	32	5	25
+349128	5	29	White & Brown (6 Suits)	2020-11-21 — 02:03:48 UTC	avanderwalde, frosty104, melwen, StKildaFan, TimeHoodie	10	6	30
+348955	4	30	Up or Down & Prism (6 Suits)	2020-11-20 — 22:10:49 UTC	avanderwalde, Bonja97, Kyle, Sucubis	6	6	30
+348937	4	0	Up or Down & Prism (6 Suits)	2020-11-20 — 21:46:13 UTC	avanderwalde, Bonja97, Kyle, Sucubis	7	6	30
+348896	3	30	Gray Pink (6 Suits)	2020-11-20 — 21:09:55 UTC	avanderwalde, Kyle, MarkusKahlsen	24	6	30
+348445	6	0	Cocoa Rainbow (5 Suits)	2020-11-20 — 05:06:22 UTC	avanderwalde, catula, derekcheah, melwen, penisman, TimeHoodie	1	5	25
+348426	5	0	Cocoa Rainbow (5 Suits)	2020-11-20 — 04:40:07 UTC	avanderwalde, derekcheah, Kyle, melwen, TimeHoodie	2	5	25
+348414	5	0	Cocoa Rainbow (5 Suits)	2020-11-20 — 04:22:32 UTC	avanderwalde, derekcheah, Kyle, melwen, TimeHoodie	2	5	25
+348389	5	23	Cocoa Rainbow (5 Suits)	2020-11-20 — 03:57:15 UTC	avanderwalde, derekcheah, Kyle, melwen, TimeHoodie	2	5	25
+348372	5	0	Cocoa Rainbow (5 Suits)	2020-11-20 — 03:33:28 UTC	avanderwalde, derekcheah, Kyle, melwen, TimeHoodie	2	5	25
+348352	6	23	Prism (5 Suits)	2020-11-20 — 03:13:43 UTC	avanderwalde, derekcheah, Kyle, melwen, rkass, TimeHoodie	3	5	25
+348330	4	25	Muddy Rainbow & Prism (5 Suits)	2020-11-20 — 02:45:02 UTC	avanderwalde, mattnabi, rkass, StKildaFan	1	5	25
+348310	6	0	Muddy Rainbow & Prism (5 Suits)	2020-11-20 — 02:16:24 UTC	avanderwalde, derekcheah, kevincaseytdk1, mattnabi, rkass, TimeHoodie	1	5	25
+348296	4	0	Muddy Rainbow & Prism (5 Suits)	2020-11-20 — 01:54:35 UTC	avanderwalde, kevincaseytdk1, mattnabi, rkass	1	5	25
+348264	4	0	Muddy Rainbow & Prism (5 Suits)	2020-11-20 — 01:35:28 UTC	avanderwalde, ejwu, mattnabi, rkass	1	5	25
+348256	4	0	Muddy Rainbow & Prism (5 Suits)	2020-11-20 — 01:12:18 UTC	avanderwalde, ejwu, mattnabi, rkass	3	5	25
+348252	4	0	Muddy Rainbow & Prism (5 Suits)	2020-11-20 — 01:06:52 UTC	avanderwalde, ejwu, mattnabi, rkass	5	5	25
+348243	3	25	Rainbow & Prism (5 Suits)	2020-11-20 — 00:53:38 UTC	avanderwalde, mattnabi, rkass	12	5	25
+347644	5	0	Rainbow & Null (6 Suits)	2020-11-19 — 05:24:32 UTC	avanderwalde, melwen, pianoblook, timotree, Zamiel	1	6	30
+347628	5	0	Rainbow & Null (6 Suits)	2020-11-19 — 05:04:37 UTC	avanderwalde, melwen, pianoblook, timotree, Zamiel	1	6	30
+347598	5	0	Rainbow & Null (6 Suits)	2020-11-19 — 04:31:01 UTC	avanderwalde, melwen, pianoblook, timotree, Zamiel	1	6	30
+347582	5	0	Rainbow & Null (6 Suits)	2020-11-19 — 04:16:42 UTC	avanderwalde, melwen, pianoblook, timotree, Zamiel	1	6	30
+347561	5	0	Rainbow & Null (6 Suits)	2020-11-19 — 03:55:33 UTC	avanderwalde, kimbifille, Kyle, timotree, Zamiel	1	6	30
+347545	5	0	Rainbow & Null (6 Suits)	2020-11-19 — 03:43:44 UTC	avanderwalde, kimbifille, Kyle, timotree, Zamiel	1	6	30
+347537	5	0	Rainbow & Null (6 Suits)	2020-11-19 — 03:36:23 UTC	avanderwalde, kimbifille, Kyle, timotree, Zamiel	1	6	30
+347515	5	0	Rainbow & Null (6 Suits)	2020-11-19 — 03:17:00 UTC	avanderwalde, kimbifille, melwen, timotree, Zamiel	1	6	30
+347502	5	0	Rainbow & Null (6 Suits)	2020-11-19 — 03:03:12 UTC	avanderwalde, kimbifille, Kyle, melwen, Zamiel	1	6	30
+347498	5	0	Rainbow & Null (6 Suits)	2020-11-19 — 03:00:23 UTC	avanderwalde, kimbifille, Kyle, melwen, Zamiel	1	6	30
+347465	5	0	Rainbow & Null (6 Suits)	2020-11-19 — 02:22:43 UTC	avanderwalde, kimbifille, Kyle, melwen, Zamiel	1	6	30
+347440	5	0	Rainbow & Null (6 Suits)	2020-11-19 — 01:55:05 UTC	avanderwalde, kimbifille, Kyle, melwen, Zamiel	1	6	30
+347420	5	0	Rainbow & Null (6 Suits)	2020-11-19 — 01:28:09 UTC	avanderwalde, kimbifille, Kyle, melwen, Zamiel	1	6	30
+347411	4	0	Rainbow & Null (6 Suits)	2020-11-19 — 01:16:07 UTC	avanderwalde, kimbifille, melwen, Zamiel	1	6	30
+347403	5	0	Rainbow & Null (6 Suits)	2020-11-19 — 01:00:40 UTC	avanderwalde, Kyle, melwen, timotree, Zamiel	2	6	30
+347387	5	0	Rainbow & Null (6 Suits)	2020-11-19 — 00:36:32 UTC	avanderwalde, Kyle, melwen, timotree, Zamiel	3	6	30
+346771	6	27	White & Dark Rainbow (6 Suits)	2020-11-18 — 03:46:48 UTC	avanderwalde, Kyle, melwen, pianoblook, rkass, TimeHoodie	1	6	30
+346741	6	0	White & Dark Rainbow (6 Suits)	2020-11-18 — 03:14:59 UTC	avanderwalde, Kyle, melwen, pianoblook, rkass, TimeHoodie	1	6	30
+346711	6	28	White & Dark Rainbow (6 Suits)	2020-11-18 — 02:43:53 UTC	avanderwalde, Kyle, melwen, pianoblook, rkass, TimeHoodie	1	6	30
+346686	5	0	White & Dark Rainbow (6 Suits)	2020-11-18 — 02:11:25 UTC	avanderwalde, Kyle, melwen, pianoblook, TimeHoodie	2	6	30
+346666	6	0	White & Dark Rainbow (6 Suits)	2020-11-18 — 01:56:22 UTC	avanderwalde, Kyle, melwen, pianoblook, TimeHoodie, wump	1	6	30
+346650	6	27	White & Dark Rainbow (6 Suits)	2020-11-18 — 01:32:45 UTC	avanderwalde, Kyle, melwen, pianoblook, TimeHoodie, wump	1	6	30
+346626	6	0	White & Dark Rainbow (6 Suits)	2020-11-18 — 01:05:55 UTC	avanderwalde, Kyle, melwen, pianoblook, TimeHoodie, wump	1	6	30
+346621	6	26	White & Dark Rainbow (6 Suits)	2020-11-18 — 00:47:34 UTC	avanderwalde, Kyle, melwen, pianoblook, TimeHoodie, wump	1	6	30
+346094	5	0	Dark Brown (6 Suits)	2020-11-17 — 06:38:38 UTC	avanderwalde, JerryYang, kimbifille, pianoblook, piper	6	6	30
+346079	5	0	Dark Brown (6 Suits)	2020-11-17 — 05:47:27 UTC	avanderwalde, JerryYang, kimbifille, pianoblook, piper	9	6	30
+346062	6	0	Rainbow & Prism (5 Suits)	2020-11-17 — 05:16:44 UTC	avanderwalde, derekcheah, JerryYang, kimbifille, pianoblook, will.i.am	3	5	25
+346023	5	24	Rainbow & Prism (5 Suits)	2020-11-17 — 04:24:36 UTC	avanderwalde, derekcheah, JerryYang, kimbifille, pianoblook	7	5	25
+345994	5	0	Rainbow & Prism (5 Suits)	2020-11-17 — 03:47:59 UTC	avanderwalde, derekcheah, JerryYang, kimbifille, pianoblook	9	5	25
+345938	5	0	Black & Muddy Rainbow (6 Suits)	2020-11-17 — 03:03:13 UTC	avanderwalde, ejwu, JerryYang, kevincaseytdk1, rkass	2	6	30
+345898	5	29	Black & Muddy Rainbow (6 Suits)	2020-11-17 — 02:19:01 UTC	avanderwalde, ejwu, kevincaseytdk1, mattnabi, rkass	4	6	30
+345858	4	0	Muddy Rainbow (5 Suits)	2020-11-17 — 01:40:44 UTC	avanderwalde, ejwu, mattnabi, rkass	18	5	25
+345837	3	30	Omni-Fives & Rainbow (6 Suits)	2020-11-17 — 01:22:05 UTC	avanderwalde, rkass, TimeHoodie	2	6	30
+345796	5	0	Omni-Fives & Rainbow (6 Suits)	2020-11-17 — 00:40:20 UTC	avanderwalde, JackFrost, rkass, superbipbip, TimeHoodie	1	6	30
+345677	5	30	Pink-Fives & Light Pink (6 Suits)	2020-11-16 — 22:45:19 UTC	avanderwalde, jack67889, kevincaseytdk1, Sucubis, TimeHoodie	1	6	30
+345623	5	0	Pink-Fives & Light Pink (6 Suits)	2020-11-16 — 22:26:08 UTC	avanderwalde, jack67889, kevincaseytdk1, Sucubis, TimeHoodie	1	6	30
+345616	5	0	Pink-Fives & Light Pink (6 Suits)	2020-11-16 — 22:17:18 UTC	avanderwalde, jack67889, kevincaseytdk1, Sucubis, TimeHoodie	1	6	30
+345601	5	27	Pink-Fives & Light Pink (6 Suits)	2020-11-16 — 21:54:30 UTC	avanderwalde, jack67889, kevincaseytdk1, Sucubis, TimeHoodie	1	6	30
+345585	4	0	Pink-Fives & Light Pink (6 Suits)	2020-11-16 — 21:31:23 UTC	avanderwalde, jack67889, Sucubis, TimeHoodie	1	6	30
+345580	4	0	Pink-Fives & Light Pink (6 Suits)	2020-11-16 — 21:21:21 UTC	avanderwalde, jack67889, Sucubis, TimeHoodie	1	6	30
+345534	4	0	Pink-Fives & Light Pink (6 Suits)	2020-11-16 — 20:50:26 UTC	avanderwalde, jack67889, Sucubis, TimeHoodie	2	6	30
+345468	3	30	Rainbow-Ones & Cocoa Rainbow (6 Suits)	2020-11-16 — 20:32:21 UTC	avanderwalde, kimbifille, TimeHoodie	1	6	30
+345363	3	26	Rainbow-Ones & Cocoa Rainbow (6 Suits)	2020-11-16 — 20:07:54 UTC	avanderwalde, kimbifille, TimeHoodie	1	6	30
+345283	3	0	Rainbow-Ones & Cocoa Rainbow (6 Suits)	2020-11-16 — 19:37:02 UTC	avanderwalde, kimbifille, TimeHoodie	1	6	30
+345246	3	0	Rainbow-Ones & Cocoa Rainbow (6 Suits)	2020-11-16 — 19:26:45 UTC	avanderwalde, kimbifille, TimeHoodie	1	6	30
+344807	6	30	Rainbow & Brown (6 Suits)	2020-11-16 — 05:34:42 UTC	avanderwalde, Lel0uch, melwen, pianoblook, piper, TimeHoodie	2	6	30
+344773	6	0	Rainbow & Brown (6 Suits)	2020-11-16 — 04:45:58 UTC	avanderwalde, Lel0uch, melwen, pianoblook, piper, TimeHoodie	4	6	30
+344734	5	0	Dark Brown (5 Suits)	2020-11-16 — 04:11:14 UTC	avanderwalde, melwen, pianoblook, piper, TimeHoodie	4	5	25
+344715	4	23	Brown & Dark Rainbow (5 Suits)	2020-11-16 — 03:37:11 UTC	avanderwalde, melwen, pianoblook, TimeHoodie	4	5	25
+344679	5	25	White & Brown (5 Suits)	2020-11-16 — 03:07:59 UTC	avanderwalde, melwen, pianoblook, rkass, TimeHoodie	6	5	25
+344605	5	0	White & Brown (5 Suits)	2020-11-16 — 02:28:44 UTC	avanderwalde, jeff10, melwen, pianoblook, TimeHoodie	6	5	25
+344575	5	0	Muddy Rainbow (5 Suits)	2020-11-16 — 02:08:28 UTC	avanderwalde, jeff10, melwen, pianoblook, TimeHoodie	2	5	25
+344564	4	0	White & Brown (5 Suits)	2020-11-16 — 01:59:13 UTC	avanderwalde, jeff10, melwen, pianoblook	18	5	25
+344544	5	25	White & Brown (5 Suits)	2020-11-16 — 01:30:13 UTC	avanderwalde, jeff10, mattnabi, melwen, rkass	8	5	25
+344528	3	0	White & Brown (5 Suits)	2020-11-16 — 01:02:32 UTC	avanderwalde, jeff10, mattnabi	23	5	25
+344438	3	0	No Variant	2020-11-15 — 23:02:28 UTC	avanderwalde, rkass, ronykrell	1636	5	25
+344421	3	0	No Variant	2020-11-15 — 22:45:56 UTC	avanderwalde, rkass, ronykrell	1881	5	25
+344413	3	0	No Variant	2020-11-15 — 22:39:48 UTC	avanderwalde, rkass, ronykrell	2163	5	25
+344396	3	25	No Variant	2020-11-15 — 22:26:06 UTC	avanderwalde, rkass, ronykrell	2606	5	25
+344374	3	19	Rainbow & Muddy Rainbow (4 Suits)	2020-11-15 — 22:01:08 UTC	avanderwalde, jeff10, rkass	6	4	20
+343933	6	25	Dark Pink (5 Suits)	2020-11-15 — 04:48:15 UTC	avanderwalde, melwen, rkass, scharkbite, StKildaFan, TimeHoodie	1	5	25
+343909	5	18	Dark Pink (5 Suits)	2020-11-15 — 04:23:13 UTC	avanderwalde, melwen, newduke, scharkbite, TimeHoodie	1	5	25
+343876	5	24	Dark Pink (5 Suits)	2020-11-15 — 03:49:40 UTC	avanderwalde, melwen, newduke, scharkbite, TimeHoodie	1	5	25
+343853	5	21	Dark Pink (5 Suits)	2020-11-15 — 03:27:51 UTC	avanderwalde, melwen, newduke, scharkbite, TimeHoodie	1	5	25
+343839	5	22	Dark Pink (5 Suits)	2020-11-15 — 03:06:09 UTC	avanderwalde, melwen, newduke, scharkbite, TimeHoodie	1	5	25
+343817	6	30	Rainbow & White (6 Suits)	2020-11-15 — 02:42:42 UTC	avanderwalde, melwen, newduke, pianoblook, scharkbite, TimeHoodie	1	6	30
+343797	3	25	Pink & Omni (5 Suits)	2020-11-15 — 02:14:10 UTC	avanderwalde, melwen, scharkbite	9	5	25
+343784	4	27	White & Prism (6 Suits)	2020-11-15 — 01:49:19 UTC	avanderwalde, melwen, rz, scharkbite	8	6	30
+343768	4	0	White & Prism (6 Suits)	2020-11-15 — 01:13:22 UTC	avanderwalde, melwen, rz, scharkbite	7	6	30
+343679	4	25	Cocoa Rainbow (5 Suits)	2020-11-14 — 22:49:16 UTC	avanderwalde, JerryYang, newduke, rkass	14	5	25
+343647	3	0	Cocoa Rainbow (6 Suits)	2020-11-14 — 22:12:24 UTC	avanderwalde, JerryYang, rkass	32	6	30
+343640	4	24	Cocoa Rainbow (5 Suits)	2020-11-14 — 22:03:32 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	15	5	25
+343094	5	23	Cocoa Rainbow (5 Suits)	2020-11-14 — 04:59:52 UTC	avanderwalde, derekcheah, pianoblook, TimeHoodie, XMIL	6	5	25
+343061	6	24	Rainbow (5 Suits)	2020-11-14 — 04:24:34 UTC	avanderwalde, kimbifille, Lel0uch, pianoblook, TimeHoodie, XMIL	11	5	25
+343028	5	22	Gray (5 Suits)	2020-11-14 — 03:52:10 UTC	avanderwalde, kimbifille, Lel0uch, pianoblook, TimeHoodie	7	5	25
+343006	5	21	Gray (5 Suits)	2020-11-14 — 03:26:46 UTC	avanderwalde, kimbifille, Lel0uch, pianoblook, TimeHoodie	10	5	25
+342990	5	0	Gray (6 Suits)	2020-11-14 — 03:07:21 UTC	avanderwalde, Carunty, kimbifille, Lel0uch, TimeHoodie	3	6	30
+342967	5	29	Cocoa Rainbow (6 Suits)	2020-11-14 — 02:45:58 UTC	avanderwalde, hakha3, kimbifille, melwen, rkass	4	6	30
+342915	5	0	Cocoa Rainbow (6 Suits)	2020-11-14 — 02:05:19 UTC	avanderwalde, hakha3, kimbifille, melwen, rkass	4	6	30
+342898	5	0	Cocoa Rainbow (6 Suits)	2020-11-14 — 01:47:12 UTC	avanderwalde, hakha3, kimbifille, melwen, rkass	5	6	30
+342860	4	29	Black & Rainbow (6 Suits)	2020-11-14 — 01:08:36 UTC	avanderwalde, hakha3, kimbifille, melwen	11	6	30
+342444	4	25	Brown-Fives & White (5 Suits)	2020-11-13 — 19:29:15 UTC	avanderwalde, hakha3, Sucubis, TimeHoodie	1	5	25
+342132	2	25	Clue Starved (6 Suits)	2020-11-13 — 04:15:05 UTC	avanderwalde, rkass	21	6	30
+342118	2	24	Clue Starved (6 Suits)	2020-11-13 — 03:57:25 UTC	avanderwalde, rkass	27	6	30
+342112	2	0	Clue Starved (6 Suits)	2020-11-13 — 03:45:38 UTC	avanderwalde, rkass	33	6	30
+342099	5	28	Gray (6 Suits)	2020-11-13 — 03:30:33 UTC	avanderwalde, kevincaseytdk1, mattnabi, rkass, XMIL	8	6	30
+342069	5	0	Gray (6 Suits)	2020-11-13 — 02:49:47 UTC	avanderwalde, kevincaseytdk1, mattnabi, rkass, XMIL	7	6	30
+342032	5	0	Gray (6 Suits)	2020-11-13 — 02:22:01 UTC	avanderwalde, kevincaseytdk1, mattnabi, rkass, XMIL	9	6	30
+342014	5	0	Gray (6 Suits)	2020-11-13 — 01:57:59 UTC	avanderwalde, kevincaseytdk1, mattnabi, rkass, XMIL	14	6	30
+341990	5	23	No Variant	2020-11-13 — 01:16:48 UTC	avanderwalde, Isaac176, kevincaseytdk1, mattnabi, rkass	1510	5	25
+341978	4	22	Gray (5 Suits)	2020-11-13 — 00:45:35 UTC	avanderwalde, ejwu, MarkusKahlsen, rkass	14	5	25
+341972	4	0	Gray (6 Suits)	2020-11-13 — 00:21:15 UTC	avanderwalde, ejwu, jack_0f_hearts, rkass	29	6	30
+341325	5	23	Brown-Fives & White (5 Suits)	2020-11-12 — 03:41:45 UTC	avanderwalde, Carunty, rkass, TimeHoodie, timotree	1	5	25
+341296	4	24	Brown-Fives & White (5 Suits)	2020-11-12 — 03:07:06 UTC	avanderwalde, Lel0uch, TimeHoodie, timotree	1	5	25
+341271	3	25	Muddy Rainbow (5 Suits)	2020-11-12 — 02:40:45 UTC	avanderwalde, TimeHoodie, timotree	8	5	25
+341237	6	30	Prism (6 Suits)	2020-11-12 — 02:06:27 UTC	avanderwalde, MarcLovesDogs, orucsoraihc, StKildaFan, TimeHoodie, timotree	6	6	30
+341218	4	0	Muddy Rainbow (5 Suits)	2020-11-12 — 01:36:30 UTC	avanderwalde, orucsoraihc, StKildaFan, timotree	12	5	25
+341201	6	0	Omni (6 Suits)	2020-11-12 — 01:01:43 UTC	avanderwalde, kimbifille, pianoblook, TimeHoodie, timotree, Zamiel	3	6	30
+341174	4	30	Brown (6 Suits)	2020-11-11 — 23:11:19 UTC	avanderwalde, emilyzhao, jack67889, squidgetx	27	6	30
+341153	4	0	Brown (6 Suits)	2020-11-11 — 22:40:10 UTC	avanderwalde, emilyzhao, jack67889, squidgetx	41	6	30
+340527	4	23	Gray (5 Suits)	2020-11-11 — 03:37:46 UTC	avanderwalde, rkass, StKildaFan, timotree	22	5	25
+340500	4	0	Gray (5 Suits)	2020-11-11 — 03:11:43 UTC	avanderwalde, jeff10, rkass, timotree	27	5	25
+340477	5	0	Gray (6 Suits)	2020-11-11 — 02:48:13 UTC	avanderwalde, jeff10, mattnabi, rkass, timotree	8	6	30
+340440	5	0	Gray (6 Suits)	2020-11-11 — 02:13:57 UTC	avanderwalde, jeff10, mattnabi, rkass, timotree	10	6	30
+340422	5	28	Dark Prism (6 Suits)	2020-11-11 — 01:52:35 UTC	avanderwalde, mattnabi, rkass, timotree, XMIL	4	6	30
+340394	6	0	Omni & Muddy Rainbow (5 Suits)	2020-11-11 — 01:04:35 UTC	avanderwalde, Kyle, mattnabi, TimeHoodie, timotree, will.i.am	1	5	25
+340387	6	0	Omni & Muddy Rainbow (5 Suits)	2020-11-11 — 00:52:03 UTC	avanderwalde, Kyle, mattnabi, TimeHoodie, timotree, will.i.am	1	5	25
+340384	5	0	Omni & Muddy Rainbow (5 Suits)	2020-11-11 — 00:44:44 UTC	avanderwalde, Kyle, TimeHoodie, timotree, will.i.am	3	5	25
+340370	6	19	Rainbow (4 Suits)	2020-11-11 — 00:28:14 UTC	avanderwalde, mattnabi, melwen, TimeHoodie, timotree, Wittvector	6	4	20
+340291	5	0	Dark Prism (6 Suits)	2020-11-10 — 22:13:13 UTC	avanderwalde, Kyle, methmatics, timotree, Wittvector	5	6	30
+340269	3	0	Dark Prism (6 Suits)	2020-11-10 — 21:39:15 UTC	avanderwalde, Kyle, methmatics	3	6	30
+339682	5	22	Clue Starved & Brown (5 Suits)	2020-11-10 — 02:45:28 UTC	avanderwalde, melwen, newduke, rkass, TimeHoodie	1	5	25
+339660	5	0	Clue Starved & Muddy Rainbow (6 Suits)	2020-11-10 — 02:17:51 UTC	avanderwalde, melwen, newduke, rkass, TimeHoodie	1	6	30
+339650	5	0	Clue Starved & Muddy Rainbow (6 Suits)	2020-11-10 — 02:07:08 UTC	avanderwalde, melwen, newduke, rkass, TimeHoodie	1	6	30
+339636	5	0	Clue Starved & Muddy Rainbow (6 Suits)	2020-11-10 — 01:51:19 UTC	avanderwalde, melwen, newduke, rkass, TimeHoodie	1	6	30
+339629	4	25	Clue Starved & Brown (5 Suits)	2020-11-10 — 01:38:49 UTC	avanderwalde, Kyle, TimeHoodie, timotree	4	5	25
+339614	3	27	Clue Starved & Brown (6 Suits)	2020-11-10 — 01:08:33 UTC	avanderwalde, Kyle, rkass	3	6	30
+339603	3	0	Clue Starved & Brown (6 Suits)	2020-11-10 — 00:32:58 UTC	avanderwalde, ejwu, rkass	4	6	30
+339549	5	0	Clue Starved & White (5 Suits)	2020-11-09 — 22:55:14 UTC	asaelr, avanderwalde, melwen, rkass, TimeHoodie	1	5	25
+339530	3	25	Clue Starved & White (5 Suits)	2020-11-09 — 22:31:23 UTC	asaelr, avanderwalde, melwen	6	5	25
+338836	6	25	Dark Brown (5 Suits)	2020-11-09 — 02:19:53 UTC	avanderwalde, Kyle, mattnabi, melwen, rkass, timotree	3	5	25
+338813	6	25	Rainbow & Dark Brown (5 Suits)	2020-11-09 — 01:46:41 UTC	avanderwalde, Kyle, mattnabi, melwen, rkass, timotree	1	5	25
+338791	6	24	Rainbow & Dark Brown (5 Suits)	2020-11-09 — 01:06:58 UTC	avanderwalde, Kyle, mattnabi, melwen, rkass, timotree	1	5	25
+338728	4	24	Clue Starved & White (5 Suits)	2020-11-08 — 23:26:47 UTC	avanderwalde, melwen, rkass, scharkbite	4	5	25
+338601	3	15	3 Suits	2020-11-08 — 20:59:21 UTC	avanderwalde, JerryYang, rkass	144	3	15
+338584	3	0	Clue Starved & White (5 Suits)	2020-11-08 — 20:34:55 UTC	avanderwalde, JerryYang, rkass	7	5	25
+337247	3	25	No Variant	2020-11-07 — 03:39:27 UTC	avanderwalde, JerryYang, rkass	320	5	25
+337206	3	26	Prism (6 Suits)	2020-11-07 — 03:00:14 UTC	avanderwalde, JerryYang, rkass	11	6	30
+337172	3	0	Prism (6 Suits)	2020-11-07 — 01:56:58 UTC	avanderwalde, JerryYang, rkass	11	6	30
+337139	3	0	Prism (6 Suits)	2020-11-07 — 00:55:50 UTC	avanderwalde, JerryYang, rkass	3	6	30
+337016	6	27	Black & Brown (6 Suits)	2020-11-06 — 21:49:38 UTC	avanderwalde, Kyle, Pepepe, rachyrules, Sucubis, TimeHoodie	4	6	30
+336994	4	30	Light Pink (6 Suits)	2020-11-06 — 21:08:29 UTC	avanderwalde, Kyle, Pepepe, Sucubis	19	6	30
+336617	3	30	Prism (6 Suits)	2020-11-06 — 03:23:18 UTC	avanderwalde, JerryYang, rkass	13	6	30
+336454	3	0	Prism (6 Suits)	2020-11-06 — 01:46:40 UTC	avanderwalde, JerryYang, rkass	3	6	30
+335765	3	27	Prism (6 Suits)	2020-11-05 — 03:38:50 UTC	avanderwalde, JerryYang, rkass	14	6	30
+335633	3	0	Prism (6 Suits)	2020-11-05 — 01:35:20 UTC	avanderwalde, JerryYang, rkass	3	6	30
+335616	3	0	Prism (6 Suits)	2020-11-05 — 01:21:34 UTC	avanderwalde, JerryYang, rkass	3	6	30
+335518	4	20	Rainbow & Brown (4 Suits)	2020-11-04 — 22:40:45 UTC	avanderwalde, jeff10, JerryYang, newduke	11	4	20
+335371	3	30	Up or Down & Pink (6 Suits)	2020-11-04 — 20:08:12 UTC	avanderwalde, Kyle, melwen	7	6	30
+335352	3	26	Up or Down & Pink (6 Suits)	2020-11-04 — 19:37:59 UTC	avanderwalde, Kyle, melwen	13	6	30
+335015	6	0	Gray (6 Suits)	2020-11-04 — 03:34:55 UTC	avanderwalde, cockdestroyer, emilyzhao, Puzzle, swineherd, timotree	4	6	30
+334986	4	23	Gray (5 Suits)	2020-11-04 — 02:55:23 UTC	avanderwalde, Bonja97, swineherd, timotree	33	5	25
+334902	3	30	Prism (6 Suits)	2020-11-04 — 01:23:34 UTC	avanderwalde, JerryYang, rkass	3	6	30
+334790	5	30	Black & Prism (6 Suits)	2020-11-03 — 23:08:54 UTC	avanderwalde, emilyzhao, JerryYang, melwen, TimeHoodie	3	6	30
+334762	3	28	Black & Prism (6 Suits)	2020-11-03 — 22:22:44 UTC	avanderwalde, melwen, TimeHoodie	7	6	30
+334727	4	0	Black & Prism (6 Suits)	2020-11-03 — 21:54:17 UTC	avanderwalde, melwen, TimeHoodie, Wittvector	3	6	30
+334705	4	0	Black & Prism (6 Suits)	2020-11-03 — 21:37:57 UTC	avanderwalde, melwen, TimeHoodie, Wittvector	3	6	30
+334674	5	0	Black & Prism (6 Suits)	2020-11-03 — 21:12:50 UTC	avanderwalde, jack67889, JerryYang, TimeHoodie, Wittvector	2	6	30
+334616	4	0	Black & Prism (6 Suits)	2020-11-03 — 20:33:57 UTC	avanderwalde, JerryYang, TimeHoodie, Wittvector	14	6	30
+334590	5	0	Black & Prism (6 Suits)	2020-11-03 — 20:06:21 UTC	avanderwalde, JerryYang, melwen, TimeHoodie, Wittvector	3	6	30
+334229	3	30	Prism (6 Suits)	2020-11-03 — 04:28:14 UTC	avanderwalde, JerryYang, rkass	4	6	30
+334194	3	0	Prism (6 Suits)	2020-11-03 — 03:37:01 UTC	avanderwalde, JerryYang, rkass	5	6	30
+334165	3	30	Prism (6 Suits)	2020-11-03 — 03:00:07 UTC	avanderwalde, JerryYang, rkass	5	6	30
+334127	4	20	Prism (4 Suits)	2020-11-03 — 02:08:34 UTC	avanderwalde, mattnabi, rkass, squidgetx	21	4	20
+334098	5	27	Black & Prism (6 Suits)	2020-11-03 — 01:37:38 UTC	avanderwalde, ejwu, mattnabi, rkass, squidgetx	6	6	30
+334053	3	0	Black & Prism (6 Suits)	2020-11-03 — 00:43:08 UTC	avanderwalde, mattnabi, rkass	12	6	30
+333976	4	0	Up or Down & Rainbow (5 Suits)	2020-11-02 — 22:39:23 UTC	avanderwalde, Floriman, timotree, Zamiel	15	5	25
+333200	3	30	Prism (6 Suits)	2020-11-02 — 01:35:59 UTC	avanderwalde, JerryYang, rkass	6	6	30
+333033	5	30	6 Suits	2020-11-01 — 21:38:08 UTC	avanderwalde, ebin_noob, kimbifille, TimeHoodie, VerySloppyTwo	54	6	30
+333016	5	0	6 Suits	2020-11-01 — 21:14:14 UTC	avanderwalde, ebin_noob, kimbifille, TimeHoodie, VerySloppyTwo	96	6	30
+333009	5	0	6 Suits	2020-11-01 — 21:06:38 UTC	avanderwalde, ebin_noob, kimbifille, TimeHoodie, VerySloppyTwo	132	6	30
+332977	3	0	Prism (6 Suits)	2020-11-01 — 20:31:50 UTC	avanderwalde, JerryYang, rkass	6	6	30
+332944	3	0	Prism (6 Suits)	2020-11-01 — 19:43:20 UTC	avanderwalde, JerryYang, rkass	6	6	30
+332571	3	30	Prism (6 Suits)	2020-11-01 — 04:07:17 UTC	avanderwalde, JerryYang, rkass	8	6	30
+332532	3	30	Prism (6 Suits)	2020-11-01 — 03:02:44 UTC	avanderwalde, JerryYang, rkass	10	6	30
+332314	3	0	Prism (6 Suits)	2020-10-31 — 22:15:01 UTC	avanderwalde, JerryYang, rkass	10	6	30
+332297	3	0	Prism (6 Suits)	2020-10-31 — 21:48:13 UTC	avanderwalde, JerryYang, rkass	11	6	30
+332282	3	0	Prism (6 Suits)	2020-10-31 — 21:31:53 UTC	avanderwalde, JerryYang, rkass	12	6	30
+332266	3	0	Prism (6 Suits)	2020-10-31 — 21:14:33 UTC	avanderwalde, JerryYang, rkass	11	6	30
+332255	3	0	Prism (6 Suits)	2020-10-31 — 20:59:52 UTC	avanderwalde, JerryYang, rkass	11	6	30
+331677	3	30	Prism (6 Suits)	2020-10-31 — 02:47:05 UTC	avanderwalde, JerryYang, rkass	12	6	30
+331591	3	29	Prism (6 Suits)	2020-10-31 — 01:27:04 UTC	avanderwalde, JerryYang, rkass	13	6	30
+331548	3	0	Prism (6 Suits)	2020-10-31 — 00:34:07 UTC	avanderwalde, JerryYang, rkass	15	6	30
+331534	3	0	Prism (6 Suits)	2020-10-30 — 23:56:07 UTC	avanderwalde, JerryYang, rkass	16	6	30
+331445	4	24	Dark Prism (5 Suits)	2020-10-30 — 21:29:24 UTC	avanderwalde, Kyle, MarkusKahlsen, timotree	11	5	25
+330822	5	23	Dark Prism (5 Suits)	2020-10-30 — 02:09:42 UTC	avanderwalde, mattnabi, melwen, rkass, TimeHoodie	4	5	25
+330783	5	21	Dark Prism (5 Suits)	2020-10-30 — 01:22:38 UTC	avanderwalde, mattnabi, melwen, rkass, TimeHoodie	3	5	25
+330751	4	24	Dark Prism (5 Suits)	2020-10-30 — 00:42:01 UTC	avanderwalde, mattnabi, rkass, TimeHoodie	13	5	25
+330733	3	23	Dark Prism (5 Suits)	2020-10-30 — 00:03:47 UTC	avanderwalde, mattnabi, rkass	23	5	25
+330658	4	22	Dark Prism (5 Suits)	2020-10-29 — 21:54:14 UTC	avanderwalde, JerryYang, mattnabi, rkass	17	5	25
+330249	3	30	Prism (6 Suits)	2020-10-29 — 03:27:19 UTC	avanderwalde, JerryYang, rkass	18	6	30
+330220	3	0	Prism (6 Suits)	2020-10-29 — 02:44:10 UTC	avanderwalde, JerryYang, rkass	18	6	30
+330209	3	0	Prism (6 Suits)	2020-10-29 — 02:23:20 UTC	avanderwalde, JerryYang, rkass	20	6	30
+330206	3	0	Prism (6 Suits)	2020-10-29 — 02:18:02 UTC	avanderwalde, JerryYang, rkass	21	6	30
+330202	3	0	Prism (6 Suits)	2020-10-29 — 02:14:01 UTC	avanderwalde, JerryYang, rkass	24	6	30
+330195	3	0	Prism (6 Suits)	2020-10-29 — 02:07:56 UTC	avanderwalde, JerryYang, rkass	25	6	30
+330189	3	0	Prism (6 Suits)	2020-10-29 — 02:03:07 UTC	avanderwalde, JerryYang, rkass	36	6	30
+330175	3	0	Prism (6 Suits)	2020-10-29 — 01:41:28 UTC	avanderwalde, JerryYang, rkass	45	6	30
+330148	3	0	Prism (6 Suits)	2020-10-29 — 00:39:20 UTC	avanderwalde, JerryYang, rkass	60	6	30
+329574	5	0	Dark Rainbow (5 Suits)	2020-10-28 — 02:05:06 UTC	avanderwalde, mattnabi, melwen, rkass, TimeHoodie	9	5	25
+329537	5	25	Prism (5 Suits)	2020-10-28 — 01:20:20 UTC	avanderwalde, honzas, melwen, rkass, TimeHoodie	9	5	25
+329520	6	0	Prism (5 Suits)	2020-10-28 — 00:56:24 UTC	Animex52, avanderwalde, honzas, melwen, rkass, TimeHoodie	4	5	25
+329512	3	25	Prism (5 Suits)	2020-10-28 — 00:33:29 UTC	avanderwalde, JerryYang, rkass	38	5	25
+329488	3	24	Prism (5 Suits)	2020-10-27 — 23:45:46 UTC	avanderwalde, JerryYang, rkass	45	5	25
+329468	3	0	Prism (5 Suits)	2020-10-27 — 23:27:36 UTC	avanderwalde, JerryYang, rkass	80	5	25
+328979	3	0	Null (5 Suits)	2020-10-27 — 02:43:59 UTC	avanderwalde, JerryYang, rkass	40	5	25
+328957	3	0	Null (5 Suits)	2020-10-27 — 02:24:18 UTC	avanderwalde, JerryYang, rkass	54	5	25
+328951	3	15	Brown (3 Suits)	2020-10-27 — 02:09:40 UTC	avanderwalde, JerryYang, rkass	37	3	15
+328934	4	25	Light Pink (5 Suits)	2020-10-27 — 01:44:03 UTC	avanderwalde, jeff10, JerryYang, rkass	20	5	25
+328442	5	21	Dark Rainbow (5 Suits)	2020-10-26 — 03:49:03 UTC	avanderwalde, JerryYang, newduke, TimeHoodie, timotree	3	5	25
+328411	6	0	Dark Rainbow (6 Suits)	2020-10-26 — 03:07:27 UTC	avanderwalde, JerryYang, newduke, orucsoraihc, TimeHoodie, timotree	5	6	30
+328389	5	21	Dark Rainbow (5 Suits)	2020-10-26 — 02:42:15 UTC	avanderwalde, JerryYang, orucsoraihc, TimeHoodie, timotree	5	5	25
+328373	5	25	No Variant	2020-10-26 — 02:03:59 UTC	avanderwalde, JerryYang, orucsoraihc, rkass, timotree	17	5	25
+328358	5	0	No Variant	2020-10-26 — 01:26:46 UTC	avanderwalde, JerryYang, orucsoraihc, rkass, timotree	21	5	25
+328349	5	0	No Variant	2020-10-26 — 00:55:16 UTC	avanderwalde, JerryYang, orucsoraihc, rkass, timotree	21	5	25
+328329	5	25	No Variant	2020-10-26 — 00:29:09 UTC	avanderwalde, JerryYang, orucsoraihc, rkass, StKildaFan	75	5	25
+328307	3	22	No Variant	2020-10-26 — 00:02:44 UTC	avanderwalde, JerryYang, rkass	354	5	25
+327606	3	24	Duck (5 Suits)	2020-10-24 — 23:51:16 UTC	avanderwalde, JerryYang, rkass	9	5	25
+327517	3	25	Duck (5 Suits)	2020-10-24 — 21:41:04 UTC	avanderwalde, JerryYang, rkass	10	5	25
+327428	3	25	Duck (5 Suits)	2020-10-24 — 19:15:47 UTC	avanderwalde, JerryYang, rkass	10	5	25
+327358	3	23	Duck (5 Suits)	2020-10-24 — 17:25:20 UTC	avanderwalde, JerryYang, rkass	5	5	25
+326903	3	0	Clue Starved (5 Suits)	2020-10-24 — 02:17:06 UTC	avanderwalde, ejwu, JerryYang	33	5	25
+326878	3	0	Duck (5 Suits)	2020-10-24 — 01:36:12 UTC	avanderwalde, JerryYang, rkass	5	5	25
+326849	3	25	Duck (5 Suits)	2020-10-24 — 00:50:11 UTC	avanderwalde, JerryYang, rkass	10	5	25
+326805	3	25	Duck (5 Suits)	2020-10-23 — 23:33:12 UTC	avanderwalde, JerryYang, rkass	5	5	25
+326195	4	0	Cocoa Rainbow (5 Suits)	2020-10-23 — 02:38:09 UTC	avanderwalde, newduke, orucsoraihc, rkass	15	5	25
+326180	5	0	Cocoa Rainbow (5 Suits)	2020-10-23 — 02:14:55 UTC	avanderwalde, mattnabi, newduke, orucsoraihc, rkass	6	5	25
+326158	5	20	Cocoa Rainbow (5 Suits)	2020-10-23 — 02:01:39 UTC	avanderwalde, mattnabi, newduke, orucsoraihc, rkass	6	5	25
+326134	5	0	Cocoa Rainbow (5 Suits)	2020-10-23 — 01:33:45 UTC	avanderwalde, mattnabi, newduke, orucsoraihc, rkass	9	5	25
+326121	3	24	Cocoa Rainbow (5 Suits)	2020-10-23 — 01:23:47 UTC	avanderwalde, mattnabi, rkass	21	5	25
+326106	3	0	Cocoa Rainbow (5 Suits)	2020-10-23 — 00:56:43 UTC	avanderwalde, mattnabi, rkass	22	5	25
+326101	3	24	Cocoa Rainbow (5 Suits)	2020-10-23 — 00:46:10 UTC	avanderwalde, mattnabi, rkass	23	5	25
+326079	4	0	Cocoa Rainbow (5 Suits)	2020-10-23 — 00:16:34 UTC	avanderwalde, mattnabi, rkass, TheDaniMan	20	5	25
+324896	3	22	Duck (5 Suits)	2020-10-21 — 03:31:16 UTC	avanderwalde, JerryYang, rkass	5	5	25
+324850	3	0	Duck (5 Suits)	2020-10-21 — 02:42:36 UTC	avanderwalde, JerryYang, rkass	6	5	25
+324827	3	0	Duck (5 Suits)	2020-10-21 — 02:16:57 UTC	avanderwalde, JerryYang, rkass	6	5	25
+324807	6	22	No Variant	2020-10-21 — 01:52:23 UTC	avanderwalde, ejwu, rkass, ronykrell, veigar, wump	29	5	25
+324779	3	0	Duck (5 Suits)	2020-10-21 — 00:48:53 UTC	avanderwalde, JerryYang, rkass	6	5	25
+324746	3	23	Duck (5 Suits)	2020-10-20 — 23:42:45 UTC	avanderwalde, JerryYang, rkass	6	5	25
+324160	3	24	Duck (5 Suits)	2020-10-20 — 02:05:59 UTC	avanderwalde, JerryYang, rkass	6	5	25
+324122	4	28	Cocoa Rainbow (6 Suits)	2020-10-20 — 01:15:34 UTC	avanderwalde, Kyle, pianoblook, rkass	7	6	30
+323403	3	0	Duck (5 Suits)	2020-10-19 — 01:44:25 UTC	avanderwalde, JerryYang, rkass	6	5	25
+323356	3	25	Duck (5 Suits)	2020-10-19 — 00:51:04 UTC	avanderwalde, JerryYang, rkass	6	5	25
+323312	3	25	Duck (5 Suits)	2020-10-19 — 00:09:25 UTC	avanderwalde, JerryYang, rkass	6	5	25
+323291	3	0	Duck (5 Suits)	2020-10-18 — 23:40:52 UTC	avanderwalde, JerryYang, rkass	6	5	25
+322686	5	25	No Variant	2020-10-18 — 03:41:46 UTC	avanderwalde, derekcheah, Jake_Stiles, TheDaniMan, Zamiel	1	5	25
+322678	5	0	No Variant	2020-10-18 — 03:34:28 UTC	avanderwalde, derekcheah, Jake_Stiles, TheDaniMan, Zamiel	1	5	25
+322671	5	0	No Variant	2020-10-18 — 03:26:41 UTC	avanderwalde, derekcheah, Jake_Stiles, TheDaniMan, Zamiel	1	5	25
+322664	5	0	No Variant	2020-10-18 — 03:17:33 UTC	avanderwalde, derekcheah, Jake_Stiles, TheDaniMan, Zamiel	1	5	25
+322660	5	0	No Variant	2020-10-18 — 03:11:46 UTC	avanderwalde, derekcheah, Jake_Stiles, TheDaniMan, Zamiel	1	5	25
+322652	5	0	No Variant	2020-10-18 — 03:04:52 UTC	avanderwalde, derekcheah, Jake_Stiles, TheDaniMan, Zamiel	1	5	25
+322646	5	0	No Variant	2020-10-18 — 02:58:16 UTC	avanderwalde, derekcheah, Jake_Stiles, TheDaniMan, Zamiel	1	5	25
+322639	5	0	No Variant	2020-10-18 — 02:49:43 UTC	avanderwalde, derekcheah, Jake_Stiles, TheDaniMan, Zamiel	1	5	25
+322631	5	23	No Variant	2020-10-18 — 02:39:36 UTC	avanderwalde, derekcheah, Jake_Stiles, TheDaniMan, Zamiel	1	5	25
+322621	5	0	No Variant	2020-10-18 — 02:30:08 UTC	avanderwalde, derekcheah, Jake_Stiles, TheDaniMan, Zamiel	1	5	25
+322614	5	24	No Variant	2020-10-18 — 02:21:43 UTC	avanderwalde, derekcheah, Jake_Stiles, TheDaniMan, Zamiel	1	5	25
+322608	5	0	No Variant	2020-10-18 — 02:14:21 UTC	avanderwalde, derekcheah, Jake_Stiles, TheDaniMan, Zamiel	1	5	25
+322603	5	0	No Variant	2020-10-18 — 02:11:45 UTC	avanderwalde, derekcheah, Jake_Stiles, TheDaniMan, Zamiel	1	5	25
+322597	5	0	No Variant	2020-10-18 — 02:07:58 UTC	avanderwalde, derekcheah, Jake_Stiles, TheDaniMan, Zamiel	1	5	25
+322594	4	25	No Variant	2020-10-18 — 02:01:13 UTC	avanderwalde, Jake_Stiles, TheDaniMan, Zamiel	1	5	25
+322571	5	22	No Variant	2020-10-18 — 01:30:22 UTC	avanderwalde, Jake_Stiles, ksfortson, TheDaniMan, Zamiel	1	5	25
+322543	3	30	White & Prism (6 Suits)	2020-10-18 — 00:51:42 UTC	avanderwalde, Jake_Stiles, TheDaniMan	13	6	30
+322393	4	0	Cocoa Rainbow (6 Suits)	2020-10-17 — 21:01:37 UTC	avanderwalde, honzas, jack67889, MarkusKahlsen	11	6	30
+322386	4	0	Cocoa Rainbow (6 Suits)	2020-10-17 — 20:49:13 UTC	avanderwalde, honzas, jack67889, MarkusKahlsen	11	6	30
+322381	5	0	Cocoa Rainbow (6 Suits)	2020-10-17 — 20:27:25 UTC	avanderwalde, ebin_noob, honzas, MarkusKahlsen, TheDaniMan	6	6	30
+321952	3	25	Duck (5 Suits)	2020-10-17 — 02:58:18 UTC	avanderwalde, JerryYang, rkass	7	5	25
+321861	3	25	Duck (5 Suits)	2020-10-17 — 00:32:45 UTC	avanderwalde, JerryYang, rkass	7	5	25
+321832	3	0	Duck (5 Suits)	2020-10-17 — 00:02:07 UTC	avanderwalde, JerryYang, rkass	7	5	25
+321809	3	0	Duck (5 Suits)	2020-10-16 — 23:34:31 UTC	avanderwalde, JerryYang, rkass	7	5	25
+320670	3	23	Duck (5 Suits)	2020-10-15 — 03:59:42 UTC	avanderwalde, JerryYang, rkass	7	5	25
+320625	3	0	Duck (5 Suits)	2020-10-15 — 03:02:29 UTC	avanderwalde, JerryYang, rkass	8	5	25
+320590	3	0	Duck (5 Suits)	2020-10-15 — 02:25:34 UTC	avanderwalde, JerryYang, rkass	8	5	25
+320546	3	0	Duck (5 Suits)	2020-10-15 — 01:37:39 UTC	avanderwalde, JerryYang, rkass	9	5	25
+320515	3	0	Duck (5 Suits)	2020-10-15 — 01:06:27 UTC	avanderwalde, JerryYang, rkass	10	5	25
+320497	5	17	White (4 Suits)	2020-10-15 — 00:41:41 UTC	angel-a, avanderwalde, Carunty, melwen, newduke	5	4	20
+320486	5	0	White (4 Suits)	2020-10-15 — 00:18:06 UTC	angel-a, avanderwalde, Carunty, melwen, newduke	16	4	20
+320480	5	20	Rainbow (4 Suits)	2020-10-15 — 00:08:19 UTC	angel-a, avanderwalde, Carunty, ejwu, newduke	20	4	20
+320060	3	22	Duck (5 Suits)	2020-10-14 — 03:37:35 UTC	avanderwalde, JerryYang, rkass	11	5	25
+319988	3	0	Duck (5 Suits)	2020-10-14 — 02:18:43 UTC	avanderwalde, JerryYang, rkass	13	5	25
+319938	3	0	Duck (5 Suits)	2020-10-14 — 01:37:03 UTC	avanderwalde, JerryYang, rkass	15	5	25
+319921	3	0	Duck (5 Suits)	2020-10-14 — 01:18:32 UTC	avanderwalde, JerryYang, rkass	14	5	25
+319916	3	0	Duck (5 Suits)	2020-10-14 — 01:12:28 UTC	avanderwalde, JerryYang, rkass	14	5	25
+319899	3	0	Duck (5 Suits)	2020-10-14 — 00:48:55 UTC	avanderwalde, JerryYang, rkass	15	5	25
+319194	3	24	Duck (5 Suits)	2020-10-13 — 02:20:05 UTC	avanderwalde, JerryYang, rkass	17	5	25
+319150	3	19	Duck (5 Suits)	2020-10-13 — 01:24:55 UTC	antitelharsic, avanderwalde, rkass	16	5	25
+319110	3	23	Duck (5 Suits)	2020-10-13 — 00:42:47 UTC	antitelharsic, avanderwalde, rkass	22	5	25
+319080	3	0	Duck (5 Suits)	2020-10-12 — 23:50:59 UTC	avanderwalde, JerryYang, rkass	25	5	25
+319032	3	24	Duck (5 Suits)	2020-10-12 — 22:05:04 UTC	avanderwalde, JerryYang, rkass	35	5	25
+319005	3	0	Duck (5 Suits)	2020-10-12 — 21:17:58 UTC	avanderwalde, JerryYang, rkass	52	5	25
+318558	5	24	Black & Light Pink (5 Suits)	2020-10-12 — 02:59:59 UTC	avanderwalde, melwen, rkass, scharkbite, TimeHoodie	1	5	25
+318527	5	22	Black & Light Pink (5 Suits)	2020-10-12 — 02:30:10 UTC	avanderwalde, melwen, rkass, scharkbite, TimeHoodie	1	5	25
+318501	5	0	Black & Light Pink (5 Suits)	2020-10-12 — 02:02:03 UTC	avanderwalde, melwen, rkass, scharkbite, TimeHoodie	1	5	25
+318485	4	0	Black & Light Pink (5 Suits)	2020-10-12 — 01:36:03 UTC	avanderwalde, melwen, scharkbite, TimeHoodie	1	5	25
+318479	4	21	Black & Light Pink (5 Suits)	2020-10-12 — 01:18:59 UTC	avanderwalde, DMoney, melwen, scharkbite	1	5	25
+318459	6	22	Dark Omni (5 Suits)	2020-10-12 — 00:51:09 UTC	ADrone, avanderwalde, derekcheah, DMoney, melwen, scharkbite	2	5	25
+318445	4	0	Dark Omni (5 Suits)	2020-10-12 — 00:33:38 UTC	ADrone, avanderwalde, DMoney, melwen	9	5	25
+318435	4	0	Dark Omni (5 Suits)	2020-10-12 — 00:27:00 UTC	ADrone, avanderwalde, DMoney, melwen	15	5	25
+318427	3	0	Gray (6 Suits)	2020-10-12 — 00:17:37 UTC	ADrone, avanderwalde, DMoney	20	6	30
+318420	6	25	No Variant	2020-10-12 — 00:06:18 UTC	ADrone, avanderwalde, DMoney, Kyle, Puzzle, rkass	23	5	25
+317378	3	20	Light Pink (4 Suits)	2020-10-10 — 16:50:56 UTC	avanderwalde, pianoblook, rkass	21	4	20
+317034	5	19	Muddy Rainbow (4 Suits)	2020-10-10 — 03:30:56 UTC	avanderwalde, ejwu, emilyzhao, squidgetx, StKildaFan	5	4	20
+317019	5	0	Muddy Rainbow (4 Suits)	2020-10-10 — 03:13:39 UTC	avanderwalde, ejwu, emilyzhao, squidgetx, StKildaFan	6	4	20
+317009	5	17	Muddy Rainbow (4 Suits)	2020-10-10 — 03:02:01 UTC	avanderwalde, emilyzhao, JerryYang, squidgetx, StKildaFan	6	4	20
+316976	4	0	Muddy Rainbow (4 Suits)	2020-10-10 — 02:22:17 UTC	avanderwalde, squidgetx, StKildaFan, XMIL	16	4	20
+316953	3	25	Cocoa Rainbow (5 Suits)	2020-10-10 — 01:58:04 UTC	avanderwalde, ejwu, squidgetx	29	5	25
+316919	4	30	Dark Rainbow (6 Suits)	2020-10-10 — 01:22:25 UTC	avanderwalde, ejwu, kevincaseytdk1, rkass	32	6	30
+316896	5	29	Dark Rainbow (6 Suits)	2020-10-10 — 00:44:22 UTC	avanderwalde, ejwu, kevincaseytdk1, mattnabi, rkass	23	6	30
+316867	3	0	Dark Rainbow (6 Suits)	2020-10-09 — 23:52:16 UTC	avanderwalde, mattnabi, rkass	41	6	30
+316834	3	0	Dark Rainbow (6 Suits)	2020-10-09 — 23:20:17 UTC	avanderwalde, mattnabi, rkass	53	6	30
+316827	3	0	Dark Rainbow (6 Suits)	2020-10-09 — 23:12:40 UTC	avanderwalde, mattnabi, rkass	62	6	30
+316818	3	0	Dark Rainbow (6 Suits)	2020-10-09 — 23:05:18 UTC	avanderwalde, mattnabi, rkass	77	6	30
+316722	3	24	Gray (5 Suits)	2020-10-09 — 21:10:41 UTC	avanderwalde, rkass, TheDaniMan	42	5	25
+316704	3	15	Muddy Rainbow (3 Suits)	2020-10-09 — 20:51:02 UTC	avanderwalde, rkass, TheDaniMan	1	3	15
+316556	6	30	Clue Starved & Prism (6 Suits)	2020-10-09 — 16:54:14 UTC	avanderwalde, DMoney, Kyle, plus, scharkbite, TimeHoodie	1	6	30
+316263	3	25	Black & Brown (5 Suits)	2020-10-09 — 02:57:30 UTC	avanderwalde, melwen, rkass	19	5	25
+316217	4	21	Dark Prism (5 Suits)	2020-10-09 — 02:20:59 UTC	avanderwalde, Kyle, melwen, rkass	17	5	25
+316184	5	22	Dark Brown (5 Suits)	2020-10-09 — 01:38:42 UTC	avanderwalde, Kyle, newduke, rkass, squidgetx	5	5	25
+316164	5	25	Muddy Rainbow (5 Suits)	2020-10-09 — 01:02:54 UTC	avanderwalde, newduke, rkass, squidgetx, StKildaFan	14	5	25
+316136	5	25	Brown (5 Suits)	2020-10-09 — 00:20:50 UTC	avanderwalde, emilyzhao, newduke, rkass, squidgetx	24	5	25
+316127	3	25	Rainbow & Gray (5 Suits)	2020-10-08 — 23:52:34 UTC	avanderwalde, rkass, squidgetx	11	5	25
+314631	4	25	Rainbow & Pink (5 Suits)	2020-10-07 — 01:48:11 UTC	avanderwalde, jeff10, melwen, rkass	1	5	25
+314605	4	24	Rainbow & Pink (5 Suits)	2020-10-07 — 01:09:52 UTC	avanderwalde, melwen, orucsoraihc, rkass	4	5	25
+314563	4	0	Rainbow & Pink (5 Suits)	2020-10-07 — 00:26:29 UTC	avanderwalde, melwen, orucsoraihc, rkass	4	5	25
+314536	4	0	Rainbow & Pink (5 Suits)	2020-10-06 — 23:53:42 UTC	avanderwalde, Feich59, melwen, orucsoraihc	5	5	25
+313933	5	0	Rainbow & Gray (6 Suits)	2020-10-06 — 01:52:17 UTC	anser, avanderwalde, DMoney, Jake_Stiles, rkass	4	6	30
+313917	5	0	Rainbow & Gray (6 Suits)	2020-10-06 — 01:21:17 UTC	anser, avanderwalde, DMoney, Jake_Stiles, rkass	5	6	30
+313908	5	0	Rainbow & Gray (6 Suits)	2020-10-06 — 01:10:18 UTC	anser, avanderwalde, DMoney, Jake_Stiles, rkass	7	6	30
+313900	6	0	Rainbow & Gray (6 Suits)	2020-10-06 — 01:01:07 UTC	anser, avanderwalde, DMoney, Jake_Stiles, micerang, rkass	1	6	30
+313893	6	29	Rainbow & Gray (6 Suits)	2020-10-06 — 00:52:12 UTC	anser, avanderwalde, DMoney, Jake_Stiles, micerang, rkass	3	6	30
+313874	5	19	Brown (4 Suits)	2020-10-06 — 00:13:28 UTC	avanderwalde, Feich59, Jake_Stiles, lotem, rkass	10	4	20
+313849	3	27	Dark Rainbow (6 Suits)	2020-10-05 — 23:38:34 UTC	avanderwalde, Jake_Stiles, lotem	91	6	30
+313212	5	30	Rainbow & Prism (6 Suits)	2020-10-05 — 02:43:29 UTC	avanderwalde, DMoney, melwen, Nitrate2, scharkbite	11	6	30
+313157	3	22	Dark Rainbow (5 Suits)	2020-10-05 — 01:41:56 UTC	avanderwalde, mattnabi, rkass	52	5	25
+313125	3	25	Black (5 Suits)	2020-10-05 — 01:06:23 UTC	avanderwalde, mattnabi, rkass	40	5	25
+313107	3	25	Black (5 Suits)	2020-10-05 — 00:40:06 UTC	avanderwalde, mattnabi, rkass	44	5	25
+313097	3	0	Black (5 Suits)	2020-10-05 — 00:14:21 UTC	avanderwalde, mattnabi, rkass	43	5	25
+313090	3	0	Dark Pink (6 Suits)	2020-10-05 — 00:03:43 UTC	avanderwalde, Nitrate2, TheDaniMan	15	6	30
+313084	3	0	Dark Pink (6 Suits)	2020-10-04 — 23:53:33 UTC	avanderwalde, Nitrate2, TheDaniMan	17	6	30
+313026	4	30	Dark Rainbow (6 Suits)	2020-10-04 — 22:21:12 UTC	avanderwalde, ejwu, orucsoraihc, rkass	41	6	30
+312908	4	28	Dark Rainbow (6 Suits)	2020-10-04 — 20:07:58 UTC	avanderwalde, newduke, rkass, sephiroth	48	6	30
+312875	4	29	Dark Rainbow (6 Suits)	2020-10-04 — 19:23:35 UTC	avanderwalde, newduke, rkass, sephiroth	53	6	30
+312843	5	0	Brown (5 Suits)	2020-10-04 — 18:46:58 UTC	asaelr, avanderwalde, MarkusKahlsen, newduke, rkass	15	5	25
+312834	3	27	Black & Prism (6 Suits)	2020-10-04 — 18:30:01 UTC	avanderwalde, MarkusKahlsen, rkass	11	6	30
+312497	5	25	Clue Starved (5 Suits)	2020-10-04 — 03:10:01 UTC	avanderwalde, ejwu, Feich59, JerryYang, rkass	8	5	25
+312449	5	23	Clue Starved (5 Suits)	2020-10-04 — 01:56:43 UTC	avanderwalde, ejwu, Feich59, JerryYang, rkass	7	5	25
+312369	6	30	Ambiguous (6 Suits)	2020-10-04 — 01:03:23 UTC	avanderwalde, ejwu, Feich59, honzas, JerryYang, rkass	8	6	30
+311636	4	27	Dark Prism (6 Suits)	2020-10-03 — 04:02:23 UTC	avanderwalde, Kyle, melwen, Zamiel	10	6	30
+311605	4	0	Dark Prism (6 Suits)	2020-10-03 — 03:24:21 UTC	avanderwalde, Kyle, melwen, Zamiel	14	6	30
+311586	5	20	Prism (4 Suits)	2020-10-03 — 02:58:07 UTC	avanderwalde, ejwu, Kyle, melwen, Zamiel	3	4	20
+311549	4	0	Rainbow & Omni (5 Suits)	2020-10-03 — 02:25:02 UTC	avanderwalde, melwen, newduke, rkass	5	5	25
+311511	4	20	Omni (4 Suits)	2020-10-03 — 01:48:28 UTC	avanderwalde, melwen, newduke, rkass	2	4	20
+311473	4	19	Omni (4 Suits)	2020-10-03 — 01:18:06 UTC	avanderwalde, melwen, newduke, rkass	4	4	20
+311429	5	23	Omni (5 Suits)	2020-10-03 — 00:38:26 UTC	avanderwalde, Div, Kyle, melwen, newduke	1	5	25
+311405	5	0	Omni (5 Suits)	2020-10-03 — 00:15:14 UTC	avanderwalde, Div, Kyle, melwen, newduke	1	5	25
+311389	5	0	Omni (5 Suits)	2020-10-03 — 00:01:35 UTC	avanderwalde, Div, Kyle, melwen, newduke	1	5	25
+311369	4	0	Omni (4 Suits)	2020-10-02 — 23:41:21 UTC	avanderwalde, Div, melwen, newduke	5	4	20
+310797	5	0	Rainbow & Omni (6 Suits)	2020-10-02 — 02:48:26 UTC	avanderwalde, jeff10, melwen, TimeHoodie, will.i.am	3	6	30
+310775	5	0	Rainbow & Omni (6 Suits)	2020-10-02 — 02:06:42 UTC	avanderwalde, jeff10, melwen, TimeHoodie, will.i.am	5	6	30
+310765	4	0	Rainbow & Omni (6 Suits)	2020-10-02 — 01:51:15 UTC	avanderwalde, jeff10, melwen, TimeHoodie	6	6	30
+310749	4	0	Rainbow & Omni (6 Suits)	2020-10-02 — 01:30:41 UTC	avanderwalde, jeff10, melwen, TimeHoodie	8	6	30
+310739	5	23	Dark Prism (5 Suits)	2020-10-02 — 01:04:02 UTC	avanderwalde, jeff10, melwen, rkass, TimeHoodie	7	5	25
+310726	5	30	Light Pink (6 Suits)	2020-10-02 — 00:31:37 UTC	avanderwalde, Feich59, melwen, rkass, TimeHoodie	11	6	30
+310173	6	0	Muddy Rainbow (5 Suits)	2020-10-01 — 03:36:08 UTC	avanderwalde, derekcheah, melwen, newduke, pianoblook, scharkbite	1	5	25
+310156	6	24	Muddy Rainbow (5 Suits)	2020-10-01 — 03:15:34 UTC	avanderwalde, derekcheah, melwen, newduke, pianoblook, scharkbite	3	5	25
+310137	5	0	Pink & Dark Prism (5 Suits)	2020-10-01 — 02:43:44 UTC	avanderwalde, derekcheah, melwen, pianoblook, will.i.am	2	5	25
+310120	3	0	Pink & Dark Prism (5 Suits)	2020-10-01 — 02:21:34 UTC	avanderwalde, melwen, will.i.am	1	5	25
+310099	3	0	Pink & Dark Prism (5 Suits)	2020-10-01 — 01:58:58 UTC	avanderwalde, melwen, will.i.am	1	5	25
+310083	3	0	Pink & Dark Prism (5 Suits)	2020-10-01 — 01:42:22 UTC	avanderwalde, rkass, will.i.am	1	5	25
+310052	3	20	Pink & Dark Prism (5 Suits)	2020-10-01 — 01:14:08 UTC	avanderwalde, rkass, will.i.am	1	5	25
+310032	5	0	Pink & Dark Prism (5 Suits)	2020-10-01 — 00:45:15 UTC	avanderwalde, rachyrules, rkass, Rubix, will.i.am	3	5	25
+310017	6	22	Prism (5 Suits)	2020-10-01 — 00:29:32 UTC	avanderwalde, ejwu, newduke, rachyrules, rkass, timotree	7	5	25
+309862	3	28	Gray (6 Suits)	2020-09-30 — 21:15:01 UTC	avanderwalde, emilyzhao, TheDaniMan	23	6	30
+309842	3	29	Gray (6 Suits)	2020-09-30 — 20:50:09 UTC	avanderwalde, emilyzhao, TheDaniMan	21	6	30
+309833	3	20	Muddy Rainbow (4 Suits)	2020-09-30 — 20:29:59 UTC	avanderwalde, emilyzhao, TheDaniMan	18	4	20
+309813	2	0	White Reversed (6 Suits)	2020-09-30 — 20:02:15 UTC	avanderwalde, rkass	49	6	30
+309441	4	25	Omni-Ones & Brown (5 Suits)	2020-09-30 — 02:27:05 UTC	avanderwalde, melwen, newduke, TimeHoodie	1	5	25
+309428	5	0	Omni-Ones & Brown (5 Suits)	2020-09-30 — 02:10:38 UTC	avanderwalde, melwen, newduke, rkass, TimeHoodie	1	5	25
+309409	5	24	Omni-Ones & Brown (5 Suits)	2020-09-30 — 01:48:33 UTC	avanderwalde, melwen, newduke, rkass, TimeHoodie	2	5	25
+308728	5	25	Pink-Fives (5 Suits)	2020-09-29 — 01:04:12 UTC	avanderwalde, kimbifille, Kyle, pianoblook, plus	4	5	25
+308693	4	30	Rainbow & Pink (6 Suits)	2020-09-29 — 00:23:49 UTC	avanderwalde, kimbifille, Kyle, plus	16	6	30
+308672	6	0	Dark Rainbow (6 Suits)	2020-09-28 — 23:50:47 UTC	avanderwalde, IsabeltheCat, kimbifille, Kyle, pianoblook, plus	3	6	30
+308631	5	19	Rainbow & White (4 Suits)	2020-09-28 — 23:20:03 UTC	avanderwalde, kimbifille, Kyle, pianoblook, sephiroth	4	4	20
+308607	3	20	Rainbow & White (4 Suits)	2020-09-28 — 22:54:02 UTC	avanderwalde, kimbifille, sephiroth	27	4	20
+308531	6	0	Black (5 Suits)	2020-09-28 — 20:45:47 UTC	avanderwalde, DMoney, Feich59, Floriman, Kyle, TimeHoodie	9	5	25
+308495	5	25	Black (5 Suits)	2020-09-28 — 19:51:57 UTC	avanderwalde, DMoney, Floriman, Kyle, TimeHoodie	9	5	25
+308125	4	26	Rainbow (6 Suits)	2020-09-28 — 03:45:51 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	5	6	30
+308035	4	0	Rainbow (6 Suits)	2020-09-28 — 01:57:26 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	44	6	30
+308009	4	0	Rainbow (6 Suits)	2020-09-28 — 01:35:10 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	47	6	30
+307980	4	0	Rainbow (6 Suits)	2020-09-28 — 01:15:28 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	47	6	30
+307728	3	25	Rainbow & Prism (5 Suits)	2020-09-27 — 19:51:05 UTC	avanderwalde, ejwu, rkass	16	5	25
+307713	3	0	Rainbow & Prism (5 Suits)	2020-09-27 — 19:23:30 UTC	avanderwalde, ejwu, rkass	26	5	25
+307429	3	28	Black & Prism (6 Suits)	2020-09-27 — 04:27:20 UTC	avanderwalde, melwen, scharkbite	12	6	30
+307385	3	0	Black & Prism (6 Suits)	2020-09-27 — 03:59:01 UTC	avanderwalde, melwen, scharkbite	18	6	30
+307357	3	28	Black & Prism (6 Suits)	2020-09-27 — 03:37:44 UTC	avanderwalde, melwen, scharkbite	22	6	30
+307330	6	25	Rainbow & Pink (5 Suits)	2020-09-27 — 03:07:37 UTC	avanderwalde, melwen, newduke, scharkbite, Smandon, timotree	1	5	25
+307311	6	0	Rainbow & Pink (5 Suits)	2020-09-27 — 02:40:09 UTC	avanderwalde, melwen, newduke, scharkbite, Smandon, timotree	1	5	25
+307293	6	0	Rainbow & Pink (5 Suits)	2020-09-27 — 02:20:35 UTC	avanderwalde, melwen, newduke, scharkbite, Smandon, timotree	1	5	25
+307274	6	0	Rainbow & Pink (5 Suits)	2020-09-27 — 01:50:56 UTC	avanderwalde, melwen, newduke, scharkbite, Smandon, timotree	1	5	25
+307256	6	25	Omni (5 Suits)	2020-09-27 — 01:22:41 UTC	avanderwalde, melwen, newduke, scharkbite, Smandon, timotree	1	5	25
+306521	4	30	Rainbow (6 Suits)	2020-09-26 — 01:41:18 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	5	6	30
+306447	4	29	Rainbow (6 Suits)	2020-09-26 — 00:18:30 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	53	6	30
+306427	4	0	Rainbow (6 Suits)	2020-09-25 — 23:56:32 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	50	6	30
+306418	4	0	Rainbow (6 Suits)	2020-09-25 — 23:39:31 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	50	6	30
+306306	5	20	Pink & Dark Prism (5 Suits)	2020-09-25 — 20:52:24 UTC	avanderwalde, MarkusKahlsen, melwen, squidgetx, will.i.am	2	5	25
+305853	5	28	Black (6 Suits)	2020-09-25 — 04:26:20 UTC	avanderwalde, derekcheah, newduke, squidgetx, will.i.am	9	6	30
+305826	5	0	Black (6 Suits)	2020-09-25 — 03:59:34 UTC	avanderwalde, derekcheah, newduke, squidgetx, will.i.am	9	6	30
+305814	6	0	Black (6 Suits)	2020-09-25 — 03:35:28 UTC	avanderwalde, derekcheah, newduke, savoryoatmeal, squidgetx, TheDaniMan	15	6	30
+305797	3	0	Ambiguous (6 Suits)	2020-09-25 — 03:06:20 UTC	avanderwalde, newduke, TheDaniMan	11	6	30
+305781	3	28	Ambiguous (6 Suits)	2020-09-25 — 02:49:54 UTC	avanderwalde, newduke, TheDaniMan	12	6	30
+305730	4	30	Rainbow (6 Suits)	2020-09-25 — 01:54:52 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	6	6	30
+305688	4	0	Rainbow (6 Suits)	2020-09-25 — 00:52:55 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	55	6	30
+305683	4	0	Rainbow (6 Suits)	2020-09-25 — 00:38:41 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	57	6	30
+305574	4	22	Pink & Dark Prism (5 Suits)	2020-09-24 — 21:37:00 UTC	avanderwalde, Nitrate2, scharkbite, will.i.am	4	5	25
+305520	5	0	Prism (5 Suits)	2020-09-24 — 20:43:27 UTC	avanderwalde, Kyle, newduke, TimeHoodie, Zamiel	20	5	25
+305046	4	25	Ambiguous Mix	2020-09-24 — 02:32:37 UTC	avanderwalde, derekcheah, melwen, TimeHoodie	10	6	30
+304973	4	28	Rainbow (6 Suits)	2020-09-24 — 00:30:11 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	9	6	30
+304943	4	25	No Variant	2020-09-23 — 23:02:03 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	287	5	25
+304464	4	0	Omni (4 Suits)	2020-09-23 — 03:25:27 UTC	avanderwalde, melwen, newduke, TimeHoodie	7	4	20
+304427	4	0	Omni (4 Suits)	2020-09-23 — 02:51:44 UTC	avanderwalde, melwen, newduke, TimeHoodie	11	4	20
+304409	4	20	Prism (4 Suits)	2020-09-23 — 02:28:19 UTC	avanderwalde, melwen, newduke, TimeHoodie	3	4	20
+304391	5	19	Prism (4 Suits)	2020-09-23 — 02:04:27 UTC	avanderwalde, jeff10, melwen, newduke, TimeHoodie	6	4	20
+304369	5	0	Prism (4 Suits)	2020-09-23 — 01:28:39 UTC	avanderwalde, jeff10, Kyle, melwen, newduke	10	4	20
+304330	4	30	Rainbow (6 Suits)	2020-09-23 — 00:36:43 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	63	6	30
+304294	4	0	Rainbow (6 Suits)	2020-09-22 — 23:32:02 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	65	6	30
+303763	4	30	Rainbow (6 Suits)	2020-09-22 — 03:04:44 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	70	6	30
+303699	4	0	Rainbow (6 Suits)	2020-09-22 — 02:02:39 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	73	6	30
+303680	4	25	Black & Prism (5 Suits)	2020-09-22 — 01:44:57 UTC	avanderwalde, melwen, rkass, TimeHoodie	5	5	25
+302955	4	0	Special Mix (6 Suits)	2020-09-21 — 03:11:58 UTC	avanderwalde, melwen, scharkbite, TimeHoodie	2	6	30
+302949	4	0	Special Mix (6 Suits)	2020-09-21 — 03:02:04 UTC	avanderwalde, melwen, scharkbite, TimeHoodie	2	6	30
+302921	4	0	Special Mix (6 Suits)	2020-09-21 — 02:33:06 UTC	avanderwalde, melwen, pianoblook, scharkbite	2	6	30
+302850	4	0	Rainbow (6 Suits)	2020-09-21 — 01:40:29 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	69	6	30
+302784	4	29	Rainbow (6 Suits)	2020-09-21 — 00:42:27 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	85	6	30
+302751	4	0	Rainbow (6 Suits)	2020-09-20 — 23:43:08 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	91	6	30
+302743	4	0	Rainbow (6 Suits)	2020-09-20 — 23:26:27 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	96	6	30
+302011	3	22	Pink (5 Suits)	2020-09-20 — 02:18:00 UTC	anser, avanderwalde, jeff10	108	5	25
+301963	4	0	Dark Rainbow (5 Suits)	2020-09-20 — 01:38:54 UTC	Animex52, avanderwalde, emilyzhao, rkass	24	5	25
+301929	4	0	Prism (5 Suits)	2020-09-20 — 01:09:33 UTC	Animex52, avanderwalde, emilyzhao, rkass	47	5	25
+301910	6	0	No Variant	2020-09-20 — 00:56:42 UTC	antitelharsic, avanderwalde, emilyzhao, methmatics, orucsoraihc, rkass	10	5	25
+301775	2	0	No Variant	2020-09-19 — 22:07:28 UTC	avanderwalde, lotem	450	5	25
+301773	2	0	No Variant	2020-09-19 — 22:06:19 UTC	avanderwalde, lotem	455	5	25
+301771	2	0	No Variant	2020-09-19 — 22:05:20 UTC	avanderwalde, lotem	2288	5	25
+301768	4	0	No Variant	2020-09-19 — 22:03:51 UTC	avanderwalde, lotem, plus, rkass	326	5	25
+301764	4	0	No Variant	2020-09-19 — 22:02:04 UTC	avanderwalde, lotem, plus, rkass	1092	5	25
+301756	6	0	Cocoa Rainbow (5 Suits)	2020-09-19 — 21:55:00 UTC	avanderwalde, Dr_Kakashi, Floriman, kimbifille, lotem, piper	3	5	25
+301640	5	25	Rainbow & White (5 Suits)	2020-09-19 — 18:45:32 UTC	avanderwalde, Dr_Kakashi, kimbifille, piper, rkass	10	5	25
+301630	4	30	Rainbow & White (6 Suits)	2020-09-19 — 18:20:10 UTC	avanderwalde, kimbifille, piper, rkass	12	6	30
+301614	6	30	Rainbow (6 Suits)	2020-09-19 — 17:40:54 UTC	ADrone, avanderwalde, jack67889, kimbifille, piper, rkass	33	6	30
+301603	4	25	Prism (5 Suits)	2020-09-19 — 16:55:21 UTC	avanderwalde, jeff10, MarkusKahlsen, rkass	23	5	25
+301285	4	25	Pink (5 Suits)	2020-09-19 — 04:05:02 UTC	avanderwalde, ejwu, JerryYang, rkass	51	5	25
+301209	3	25	Rainbow & White (5 Suits)	2020-09-19 — 03:07:08 UTC	avanderwalde, JerryYang, rkass	37	5	25
+300937	3	0	Black & Rainbow (5 Suits)	2020-09-18 — 21:24:46 UTC	avanderwalde, jeff10, XMIL	1	5	25
+300926	3	0	Black & Rainbow (5 Suits)	2020-09-18 — 21:07:43 UTC	avanderwalde, jeff10, XMIL	1	5	25
+300915	3	0	Black & Rainbow (5 Suits)	2020-09-18 — 20:57:53 UTC	avanderwalde, jeff10, XMIL	1	5	25
+299253	4	30	Rainbow (6 Suits)	2020-09-17 — 01:01:05 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	104	6	30
+299220	4	0	Rainbow (6 Suits)	2020-09-17 — 00:07:01 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	122	6	30
+299205	4	0	Rainbow (6 Suits)	2020-09-16 — 23:44:03 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	132	6	30
+299003	5	19	Light Pink (4 Suits)	2020-09-16 — 20:54:54 UTC	avanderwalde, pianoblook, postmans, scharkbite, XMIL	3	4	20
+298615	5	23	Special Mix (5 Suits)	2020-09-16 — 02:43:43 UTC	avanderwalde, emilyzhao, melwen, squidgetx, TimeHoodie	4	5	25
+298599	5	0	Special Mix (5 Suits)	2020-09-16 — 02:19:49 UTC	avanderwalde, emilyzhao, melwen, squidgetx, TimeHoodie	4	5	25
+298588	5	0	Special Mix (5 Suits)	2020-09-16 — 01:57:49 UTC	avanderwalde, emilyzhao, melwen, newduke, will.i.am	2	5	25
+298543	4	23	Special Mix (5 Suits)	2020-09-16 — 01:13:17 UTC	avanderwalde, emilyzhao, newduke, timotree	29	5	25
+298509	4	0	Special Mix (5 Suits)	2020-09-16 — 00:34:20 UTC	avanderwalde, emilyzhao, newduke, timotree	39	5	25
+298501	4	25	Muddy Rainbow (5 Suits)	2020-09-16 — 00:14:43 UTC	avanderwalde, kevincaseytdk1, newduke, timotree	23	5	25
+297948	5	27	Up or Down & White (6 Suits)	2020-09-15 — 02:07:02 UTC	avanderwalde, melwen, newduke, rkass, timotree	3	6	30
+297874	5	0	Up or Down & White (6 Suits)	2020-09-15 — 01:19:58 UTC	avanderwalde, melwen, newduke, rkass, timotree	3	6	30
+297851	5	0	Up or Down & White (6 Suits)	2020-09-15 — 01:02:53 UTC	avanderwalde, JerryYang, newduke, rkass, timotree	4	6	30
+297845	5	0	Up or Down & White (6 Suits)	2020-09-15 — 00:59:50 UTC	avanderwalde, JerryYang, newduke, rkass, timotree	7	6	30
+297825	6	25	No Variant	2020-09-15 — 00:36:56 UTC	avanderwalde, JerryYang, kevincaseytdk1, newduke, rkass, timotree	42	5	25
+297738	3	0	Rainbow (4 Suits)	2020-09-14 — 22:04:38 UTC	avanderwalde, rkass, swineherd	68	4	20
+296787	4	23	Black & Prism (5 Suits)	2020-09-13 — 19:40:09 UTC	avanderwalde, JerryYang, MarkusKahlsen, rkass	6	5	25
+296767	4	19	Black & Prism (5 Suits)	2020-09-13 — 18:54:59 UTC	avanderwalde, JerryYang, plus, rkass	11	5	25
+296449	4	24	Black & Prism (5 Suits)	2020-09-13 — 02:56:54 UTC	avanderwalde, Kyle, melwen, timotree	10	5	25
+296376	3	25	No Variant	2020-09-13 — 01:28:48 UTC	avanderwalde, JerryYang, rkass	15	5	25
+296311	3	25	No Variant	2020-09-13 — 00:22:46 UTC	avanderwalde, JerryYang, rkass	16	5	25
+296265	3	25	No Variant	2020-09-12 — 23:38:31 UTC	avanderwalde, JerryYang, rkass	386	5	25
+295177	4	25	Rainbow & White (5 Suits)	2020-09-12 — 00:23:59 UTC	avanderwalde, melwen, plus, rkass	23	5	25
+295154	5	20	4 Suits	2020-09-11 — 23:56:05 UTC	avanderwalde, melwen, plus, rkass, swineherd	12	4	20
+295140	5	19	4 Suits	2020-09-11 — 23:34:31 UTC	avanderwalde, melwen, plus, rkass, swineherd	16	4	20
+295119	5	25	No Variant	2020-09-11 — 23:13:52 UTC	avanderwalde, melwen, plus, sephiroth, Zamiel	12	5	25
+294465	4	24	Up or Down & Rainbow (5 Suits)	2020-09-11 — 01:29:11 UTC	avanderwalde, jeff10, rkass, squidgetx	18	5	25
+294422	4	30	Up or Down & Rainbow (6 Suits)	2020-09-11 — 00:34:15 UTC	avanderwalde, emilyzhao, rkass, squidgetx	12	6	30
+294392	4	0	Up or Down & Rainbow (6 Suits)	2020-09-10 — 23:38:12 UTC	avanderwalde, emilyzhao, rkass, squidgetx	11	6	30
+293711	5	21	Special Mix (5 Suits)	2020-09-10 — 01:38:36 UTC	avanderwalde, Bonja97, plus, rkass, will.i.am	3	5	25
+293685	5	20	Special Mix (5 Suits)	2020-09-10 — 01:00:04 UTC	avanderwalde, Bonja97, plus, rkass, will.i.am	3	5	25
+293665	3	24	Clue Starved & Prism (5 Suits)	2020-09-10 — 00:26:20 UTC	avanderwalde, Bonja97, will.i.am	3	5	25
+293590	6	0	Up or Down (5 Suits)	2020-09-09 — 21:58:13 UTC	avanderwalde, jeff10, JerryYang, kacasey1, newduke, rkass	6	5	25
+293558	3	30	Up or Down & Prism (6 Suits)	2020-09-09 — 21:17:01 UTC	avanderwalde, rkass, XMIL	13	6	30
+292958	3	25	Brown (5 Suits)	2020-09-09 — 01:58:46 UTC	avanderwalde, melwen, rkass	63	5	25
+292210	6	24	Rainbow-Ones & Brown (5 Suits)	2020-09-08 — 02:45:53 UTC	avanderwalde, ejwu, melwen, Nitrate2, sephiroth, swineherd	1	5	25
+292184	6	0	Rainbow-Ones & Brown (5 Suits)	2020-09-08 — 02:13:35 UTC	avanderwalde, ejwu, melwen, Nitrate2, sephiroth, swineherd	1	5	25
+292170	5	20	Rainbow & Prism (4 Suits)	2020-09-08 — 01:54:06 UTC	avanderwalde, ejwu, melwen, Nitrate2, sephiroth	3	4	20
+292148	3	30	Omni (6 Suits)	2020-09-08 — 01:25:03 UTC	avanderwalde, melwen, plus	70	6	30
+291821	3	0	No Variant	2020-09-07 — 18:19:22 UTC	avanderwalde, JerryYang, rkass	18	5	25
+291774	3	24	No Variant	2020-09-07 — 16:53:54 UTC	avanderwalde, JerryYang, rkass	411	5	25
+291330	3	25	No Variant	2020-09-07 — 01:04:21 UTC	avanderwalde, JerryYang, rkass	19	5	25
+291114	3	25	No Variant	2020-09-06 — 20:49:52 UTC	avanderwalde, JerryYang, rkass	164	5	25
+291046	5	0	Black (6 Suits)	2020-09-06 — 19:57:08 UTC	avanderwalde, Fey, honobu, rkass, Wittvector	39	6	30
+290858	5	28	Black (6 Suits)	2020-09-06 — 18:25:16 UTC	avanderwalde, ejwu, MarkusKahlsen, rkass, swineherd	14	6	30
+290842	5	28	Black (6 Suits)	2020-09-06 — 17:50:58 UTC	avanderwalde, ejwu, MarkusKahlsen, rkass, swineherd	18	6	30
+290824	5	0	Black (6 Suits)	2020-09-06 — 17:33:33 UTC	avanderwalde, ejwu, MarkusKahlsen, rkass, swineherd	21	6	30
+290808	3	20	Prism (4 Suits)	2020-09-06 — 17:18:23 UTC	ADrone, avanderwalde, rkass	45	4	20
+290257	3	25	No Variant	2020-09-06 — 00:29:58 UTC	avanderwalde, JerryYang, rkass	422	5	25
+290236	3	0	No Variant	2020-09-05 — 23:58:46 UTC	avanderwalde, JerryYang, rkass	750	5	25
+290118	6	25	No Variant	2020-09-05 — 21:48:19 UTC	anser, avanderwalde, ejwu, JerryYang, Veexliat, vEnhance	52	5	25
+290101	4	0	No Variant	2020-09-05 — 21:27:55 UTC	anser, avanderwalde, JerryYang, Veexliat	793	5	25
+288501	4	25	No Variant	2020-09-04 — 02:29:09 UTC	avanderwalde, ejwu, newduke, StKildaFan	717	5	25
+288243	3	25	No Variant	2020-09-03 — 21:07:00 UTC	avanderwalde, JerryYang, rkass	344	5	25
+287631	3	25	No Variant	2020-09-03 — 01:27:35 UTC	avanderwalde, JerryYang, rkass	250	5	25
+286785	6	30	White & Prism (6 Suits)	2020-09-02 — 00:46:39 UTC	ADrone, avanderwalde, CastlesInTheAir, melwen, Nitrate2, rkass	2	6	30
+286706	5	24	White & Prism (5 Suits)	2020-09-01 — 22:23:37 UTC	avanderwalde, melwen, Nitrate2, vEnhance, will.i.am	7	5	25
+285969	3	25	No Variant	2020-09-01 — 02:33:40 UTC	avanderwalde, JerryYang, rkass	573	5	25
+285931	3	25	No Variant	2020-09-01 — 01:27:39 UTC	avanderwalde, JerryYang, rkass	624	5	25
+285911	3	0	No Variant	2020-09-01 — 00:44:02 UTC	avanderwalde, JerryYang, rkass	645	5	25
+285905	5	0	Dark Prism (6 Suits)	2020-09-01 — 00:22:58 UTC	avanderwalde, frollo9386, honobu, melwen, rkass	9	6	30
+285891	3	22	Dark Prism (5 Suits)	2020-08-31 — 23:42:42 UTC	avanderwalde, frollo9386, honobu	26	5	25
+285685	4	0	Dark Prism (6 Suits)	2020-08-31 — 21:51:19 UTC	asaelr, avanderwalde, lotem, timotree	7	6	30
+285092	5	23	No Variant	2020-08-31 — 02:51:27 UTC	avanderwalde, emilyzhao, rkass, skyscraperz, squidgetx	4	5	25
+285042	6	0	Rainbow (6 Suits)	2020-08-31 — 01:50:29 UTC	avanderwalde, DMoney, jeff10, melwen, rkass, TheDaniMan	19	6	30
+285009	6	29	Rainbow (6 Suits)	2020-08-31 — 01:10:25 UTC	antitelharsic, avanderwalde, jeff10, joelwool, melwen, rkass	23	6	30
+284981	4	19	White (4 Suits)	2020-08-31 — 00:20:50 UTC	avanderwalde, joelwool, melwen, rkass	34	4	20
+284929	6	29	Dark Prism (6 Suits)	2020-08-30 — 22:16:41 UTC	avanderwalde, BalloonHail, JerryYang, joelwool, rkass, timotree	3	6	30
+284853	6	29	Dark Prism (6 Suits)	2020-08-30 — 21:15:04 UTC	avanderwalde, jeff10, joelwool, MarkusKahlsen, rkass, timotree	4	6	30
+284823	4	0	Dark Prism (6 Suits)	2020-08-30 — 20:38:46 UTC	avanderwalde, MarkusKahlsen, rkass, timotree	23	6	30
+284810	5	0	Dark Prism (6 Suits)	2020-08-30 — 20:28:14 UTC	avanderwalde, IsabeltheCat, joelwool, MarkusKahlsen, rkass	10	6	30
+284788	5	0	Dark Prism (6 Suits)	2020-08-30 — 19:57:19 UTC	avanderwalde, IsabeltheCat, joelwool, MarkusKahlsen, rkass	14	6	30
+284743	3	21	No Variant	2020-08-30 — 18:51:23 UTC	avanderwalde, howiekass, rkass	3260	5	25
+284042	5	22	No Variant	2020-08-29 — 22:02:57 UTC	avanderwalde, emilyzhao, rkass, skyscraperz, squidgetx	5	5	25
+283952	4	0	No Variant	2020-08-29 — 21:02:20 UTC	avanderwalde, emilyzhao, rkass, squidgetx	419	5	25
+283826	5	0	No Variant	2020-08-29 — 17:41:41 UTC	avanderwalde, emilyzhao, rkass, skyscraperz, squidgetx	5	5	25
+283816	5	24	No Variant	2020-08-29 — 17:06:07 UTC	avanderwalde, emilyzhao, rkass, skyscraperz, squidgetx	100	5	25
+283169	5	23	No Variant	2020-08-29 — 02:16:21 UTC	avanderwalde, emilyzhao, rkass, skyscraperz, squidgetx	5	5	25
+283137	5	0	No Variant	2020-08-29 — 01:42:43 UTC	avanderwalde, emilyzhao, rkass, skyscraperz, squidgetx	109	5	25
+283093	3	30	White (6 Suits)	2020-08-29 — 00:58:00 UTC	avanderwalde, JerryYang, rkass	11	6	30
+283019	3	0	White (6 Suits)	2020-08-28 — 23:31:23 UTC	avanderwalde, JerryYang, rkass	5	6	30
+282820	3	23	No Variant	2020-08-28 — 19:39:17 UTC	avanderwalde, emilyzhao, squidgetx	680	5	25
+282790	3	25	No Variant	2020-08-28 — 19:04:08 UTC	avanderwalde, emilyzhao, squidgetx	750	5	25
+282768	4	0	No Variant	2020-08-28 — 18:35:04 UTC	avanderwalde, emilyzhao, skyscraperz, squidgetx	473	5	25
+282269	6	27	Up or Down & Prism (6 Suits)	2020-08-28 — 01:54:55 UTC	avanderwalde, melwen, rkass, rs1, scharkbite, timotree	1	6	30
+282225	6	27	Up or Down & Prism (6 Suits)	2020-08-28 — 01:12:29 UTC	avanderwalde, melwen, rkass, rs1, scharkbite, timotree	1	6	30
+282165	4	30	Muddy Rainbow (6 Suits)	2020-08-28 — 00:22:36 UTC	avanderwalde, melwen, rkass, scharkbite	19	6	30
+282080	5	18	Black (5 Suits)	2020-08-27 — 22:43:29 UTC	avanderwalde, Feich59, timotree, vEnhance, willwin4sure	23	5	25
+282037	6	30	White (6 Suits)	2020-08-27 — 22:04:11 UTC	avanderwalde, ejwu, Feich59, tyrcho, vEnhance, willwin4sure	12	6	30
+281982	3	19	4 Suits	2020-08-27 — 21:11:02 UTC	avanderwalde, jeff10, tyrcho	90	4	20
+281567	4	23	No Variant	2020-08-27 — 03:10:58 UTC	avanderwalde, emilyzhao, rkass, squidgetx	501	5	25
+281541	4	25	No Variant	2020-08-27 — 02:34:01 UTC	avanderwalde, Bonja97, rkass, Slonimsky	257	5	25
+281506	3	29	White (6 Suits)	2020-08-27 — 01:27:59 UTC	avanderwalde, JerryYang, rkass	11	6	30
+281475	3	0	White (6 Suits)	2020-08-27 — 00:27:04 UTC	avanderwalde, JerryYang, rkass	5	6	30
+281465	3	0	White (6 Suits)	2020-08-27 — 00:13:39 UTC	avanderwalde, JerryYang, rkass	6	6	30
+280692	3	30	White (6 Suits)	2020-08-26 — 02:29:07 UTC	avanderwalde, emilyzhao, squidgetx	7	6	30
+280651	3	0	White (6 Suits)	2020-08-26 — 01:56:25 UTC	avanderwalde, JerryYang, rkass	6	6	30
+280619	3	30	White (6 Suits)	2020-08-26 — 01:19:00 UTC	avanderwalde, JerryYang, rkass	13	6	30
+280567	3	29	White (6 Suits)	2020-08-25 — 23:38:36 UTC	avanderwalde, JerryYang, rkass	7	6	30
+279870	5	0	No Variant	2020-08-25 — 02:33:31 UTC	avanderwalde, emilyzhao, rkass, skyscraperz, squidgetx	120	5	25
+279843	5	0	No Variant	2020-08-25 — 02:04:44 UTC	avanderwalde, emilyzhao, rkass, skyscraperz, squidgetx	126	5	25
+279811	5	0	No Variant	2020-08-25 — 01:30:09 UTC	avanderwalde, emilyzhao, rkass, skyscraperz, squidgetx	135	5	25
+279771	3	28	Brown (6 Suits)	2020-08-25 — 00:57:35 UTC	avanderwalde, marcogilbert, rkass	21	6	30
+279748	3	0	Brown (6 Suits)	2020-08-25 — 00:33:32 UTC	avanderwalde, marcogilbert, rkass	22	6	30
+278770	3	29	White (6 Suits)	2020-08-23 — 20:51:06 UTC	avanderwalde, JerryYang, rkass	15	6	30
+278708	3	30	White (6 Suits)	2020-08-23 — 19:03:58 UTC	avanderwalde, JerryYang, rkass	8	6	30
+278648	3	0	White (6 Suits)	2020-08-23 — 18:32:55 UTC	avanderwalde, JerryYang, rkass	9	6	30
+278630	3	0	White (6 Suits)	2020-08-23 — 18:20:35 UTC	avanderwalde, JerryYang, rkass	9	6	30
+276902	4	27	White (6 Suits)	2020-08-22 — 00:46:10 UTC	avanderwalde, kevincaseytdk1, rkass, timotree	16	6	30
+276865	4	27	White (6 Suits)	2020-08-21 — 23:57:32 UTC	avanderwalde, JerryYang, kevincaseytdk1, timotree	16	6	30
+276833	6	0	Omni (6 Suits)	2020-08-21 — 23:14:55 UTC	avanderwalde, BalloonHail, impostor, JerryYang, kevincaseytdk1, timotree	4	6	30
+276791	6	0	Omni (6 Suits)	2020-08-21 — 22:40:04 UTC	avanderwalde, BalloonHail, impostor, JerryYang, kevincaseytdk1, timotree	7	6	30
+276772	6	25	Brown (5 Suits)	2020-08-21 — 22:25:30 UTC	avanderwalde, BalloonHail, impostor, JerryYang, kevincaseytdk1, timotree	4	5	25
+276736	6	23	Brown (5 Suits)	2020-08-21 — 21:39:56 UTC	avanderwalde, BalloonHail, impostor, JerryYang, kevincaseytdk1, timotree	5	5	25
+276705	4	23	Brown (5 Suits)	2020-08-21 — 20:57:47 UTC	avanderwalde, JerryYang, kevincaseytdk1, XMIL	12	5	25
+276686	3	0	Brown (5 Suits)	2020-08-21 — 20:31:37 UTC	avanderwalde, JerryYang, XMIL	17	5	25
+276671	3	0	Brown (5 Suits)	2020-08-21 — 20:14:53 UTC	avanderwalde, JerryYang, XMIL	20	5	25
+276669	4	0	Brown (5 Suits)	2020-08-21 — 20:12:13 UTC	avanderwalde, JerryYang, timotree, XMIL	14	5	25
+276660	6	23	Brown (5 Suits)	2020-08-21 — 19:59:47 UTC	avanderwalde, JerryYang, joelwool, kevincaseytdk1, timotree, XMIL	8	5	25
+276211	5	26	Dark Rainbow (6 Suits)	2020-08-21 — 03:29:50 UTC	avanderwalde, JerryYang, scharkbite, Smandon, timotree	33	6	30
+276195	4	26	Dark Rainbow (6 Suits)	2020-08-21 — 02:42:51 UTC	avanderwalde, JerryYang, scharkbite, timotree	4	6	30
+276162	4	0	Dark Rainbow (6 Suits)	2020-08-21 — 01:58:38 UTC	avanderwalde, rkass, scharkbite, timotree	4	6	30
+276127	3	22	Black (5 Suits)	2020-08-21 — 01:26:49 UTC	avanderwalde, kevincaseytdk1, rkass	44	5	25
+276014	6	19	4 Suits	2020-08-20 — 22:53:08 UTC	avanderwalde, honobu, Nitrate2, swineherd, TheDaniMan, timotree	17	4	20
+275927	5	29	Black (6 Suits)	2020-08-20 — 20:38:37 UTC	avanderwalde, MarkusKahlsen, Pablo-, TheDaniMan, timotree	14	6	30
+275894	4	29	Black (6 Suits)	2020-08-20 — 20:04:27 UTC	asaelr, avanderwalde, impostor, Pablo-	21	6	30
+275495	4	23	Pink (5 Suits)	2020-08-20 — 02:15:18 UTC	avanderwalde, scharkbite, swineherd, timotree	17	5	25
+275453	5	25	Pink (5 Suits)	2020-08-20 — 01:41:41 UTC	avanderwalde, scharkbite, swineherd, timotree, XMIL	3	5	25
+275427	4	0	Pink (5 Suits)	2020-08-20 — 01:11:03 UTC	avanderwalde, scharkbite, swineherd, timotree	23	5	25
+275405	4	29	Rainbow & White (6 Suits)	2020-08-20 — 00:47:40 UTC	avanderwalde, emilyzhao, squidgetx, swineherd	16	6	30
+275377	4	0	Rainbow & White (6 Suits)	2020-08-20 — 00:09:21 UTC	avanderwalde, emilyzhao, squidgetx, swineherd	23	6	30
+275368	3	0	Rainbow & White (6 Suits)	2020-08-19 — 23:46:43 UTC	avanderwalde, emilyzhao, swineherd	46	6	30
+275137	3	30	White (6 Suits)	2020-08-19 — 18:28:56 UTC	avanderwalde, JerryYang, rkass	10	6	30
+274725	3	30	White (6 Suits)	2020-08-19 — 01:39:11 UTC	avanderwalde, JerryYang, rkass	13	6	30
+274643	3	0	White (6 Suits)	2020-08-19 — 00:36:13 UTC	avanderwalde, JerryYang, rkass	18	6	30
+274582	3	0	White (6 Suits)	2020-08-19 — 00:04:32 UTC	avanderwalde, JerryYang, rkass	18	6	30
+274475	3	24	No Variant	2020-08-18 — 22:17:10 UTC	avanderwalde, emilyzhao, rkass	940	5	25
+273836	6	17	Dark Rainbow (5 Suits)	2020-08-18 — 01:38:52 UTC	avanderwalde, emilyzhao, JerryYang, rkass, squidgetx, timotree	4	5	25
+273815	6	22	Dark Rainbow (5 Suits)	2020-08-18 — 01:16:14 UTC	avanderwalde, emilyzhao, JerryYang, rkass, squidgetx, timotree	5	5	25
+273787	4	0	Dark Rainbow (5 Suits)	2020-08-18 — 00:41:18 UTC	avanderwalde, JerryYang, kevincaseytdk1, timotree	23	5	25
+273760	4	19	Dark Rainbow (5 Suits)	2020-08-18 — 00:10:27 UTC	avanderwalde, JerryYang, kevincaseytdk1, timotree	29	5	25
+272933	4	0	Black (6 Suits)	2020-08-17 — 00:24:12 UTC	avanderwalde, honobu, kevincaseytdk1, rkass	128	6	30
+272734	3	29	White (6 Suits)	2020-08-16 — 20:40:40 UTC	avanderwalde, JerryYang, rkass	18	6	30
+272664	3	27	White (6 Suits)	2020-08-16 — 19:44:35 UTC	avanderwalde, JerryYang, rkass	19	6	30
+272610	3	28	White (6 Suits)	2020-08-16 — 18:45:19 UTC	avanderwalde, JerryYang, rkass	20	6	30
+272552	3	30	White (6 Suits)	2020-08-16 — 16:54:31 UTC	avanderwalde, JerryYang, rkass	27	6	30
+272537	3	30	White (6 Suits)	2020-08-16 — 16:08:24 UTC	avanderwalde, rkass, timotree	101	6	30
+271182	4	25	Null (5 Suits)	2020-08-15 — 01:44:01 UTC	avanderwalde, Nitrate2, rkass, swineherd	20	5	25
+271152	4	0	Null (5 Suits)	2020-08-15 — 01:14:25 UTC	avanderwalde, Nitrate2, rkass, swineherd	26	5	25
+270330	5	30	White (6 Suits)	2020-08-14 — 01:38:59 UTC	avanderwalde, frollo9386, kevincaseytdk1, pianoblook, rkass	14	6	30
+270301	4	0	White (6 Suits)	2020-08-14 — 01:09:13 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	20	6	30
+270268	4	30	White (6 Suits)	2020-08-14 — 00:50:04 UTC	avanderwalde, JerryYang, kevincaseytdk1, rkass	27	6	30
+270226	3	29	White (6 Suits)	2020-08-14 — 00:15:35 UTC	avanderwalde, JerryYang, rkass	53	6	30
+270201	3	0	White (6 Suits)	2020-08-13 — 23:50:20 UTC	avanderwalde, JerryYang, rkass	124	6	30
+269981	4	26	Black (6 Suits)	2020-08-13 — 20:45:27 UTC	avanderwalde, impostor, mugsly, Syrah	142	6	30
+269944	4	0	Black (6 Suits)	2020-08-13 — 20:11:58 UTC	avanderwalde, impostor, kevincaseytdk1, timotree	175	6	30
+269443	5	0	Brown (6 Suits)	2020-08-13 — 03:03:06 UTC	avanderwalde, RespectCaviar, rkass, schemetrical, timotree	16	6	30
+269417	5	0	Brown (6 Suits)	2020-08-13 — 02:30:26 UTC	avanderwalde, RespectCaviar, rkass, schemetrical, timotree	21	6	30
+269402	6	22	No Variant	2020-08-13 — 02:07:03 UTC	avanderwalde, emilyzhao, RespectCaviar, rkass, schemetrical, timotree	478	5	25
+269375	5	26	Black (6 Suits)	2020-08-13 — 01:24:57 UTC	anser, avanderwalde, emilyzhao, schemetrical, timotree	10	6	30
+269343	5	0	Black (6 Suits)	2020-08-13 — 00:41:29 UTC	anser, avanderwalde, emilyzhao, frollo9386, schemetrical	10	6	30
+269198	3	23	Black (5 Suits)	2020-08-12 — 21:37:58 UTC	avanderwalde, frollo9386, rkass	51	5	25
+269181	3	25	No Variant	2020-08-12 — 21:07:03 UTC	avanderwalde, frollo9386, rkass	275	5	25
+268602	4	29	Black (6 Suits)	2020-08-12 — 02:39:01 UTC	avanderwalde, pianoblook, rkass, timotree	91	6	30
+268559	3	0	Muddy Rainbow (6 Suits)	2020-08-12 — 02:00:49 UTC	avanderwalde, mattnabi, rkass	10	6	30
+268546	3	0	Muddy Rainbow (6 Suits)	2020-08-12 — 01:45:44 UTC	avanderwalde, mattnabi, rkass	11	6	30
+268537	3	0	Muddy Rainbow (6 Suits)	2020-08-12 — 01:39:27 UTC	avanderwalde, mattnabi, rkass	18	6	30
+268521	3	0	Muddy Rainbow (6 Suits)	2020-08-12 — 01:24:49 UTC	avanderwalde, mattnabi, rkass	25	6	30
+268502	3	0	Muddy Rainbow (6 Suits)	2020-08-12 — 01:11:07 UTC	avanderwalde, mattnabi, rkass	37	6	30
+268492	3	0	Muddy Rainbow (6 Suits)	2020-08-12 — 01:00:17 UTC	avanderwalde, mattnabi, rkass	49	6	30
+267488	4	28	White (6 Suits)	2020-08-10 — 20:51:37 UTC	avanderwalde, MarkusKahlsen, swineherd, Zakisan	75	6	30
+267438	5	0	White-Fives & White (6 Suits)	2020-08-10 — 20:06:54 UTC	avanderwalde, DMoney, joelwool, MarkusKahlsen, swineherd	1	6	30
+267414	5	29	White-Fives & White (6 Suits)	2020-08-10 — 19:43:10 UTC	avanderwalde, DMoney, joelwool, MarkusKahlsen, swineherd	1	6	30
+267379	5	0	White-Fives & White (6 Suits)	2020-08-10 — 19:12:35 UTC	avanderwalde, DMoney, joelwool, MarkusKahlsen, swineherd	2	6	30
+266783	5	28	Black & Rainbow (6 Suits)	2020-08-10 — 02:32:48 UTC	avanderwalde, JerryYang, rkass, rs1, XMIL	12	6	30
+266734	5	0	Black & Rainbow (6 Suits)	2020-08-10 — 01:54:30 UTC	avanderwalde, JerryYang, Kyle, rkass, rs1	11	6	30
+266704	4	0	Black & Rainbow (6 Suits)	2020-08-10 — 01:30:22 UTC	avanderwalde, rkass, rs1, XMIL	11	6	30
+266673	4	27	Black & Rainbow (6 Suits)	2020-08-10 — 01:01:11 UTC	avanderwalde, rkass, rs1, XMIL	13	6	30
+266635	5	0	Black & Rainbow (6 Suits)	2020-08-10 — 00:14:22 UTC	Ahming, avanderwalde, pianoblook, rkass, XMIL	6	6	30
+266618	3	0	Black & Rainbow (6 Suits)	2020-08-09 — 23:42:23 UTC	avanderwalde, rkass, XMIL	11	6	30
+265761	3	24	Black (5 Suits)	2020-08-09 — 01:16:49 UTC	avanderwalde, Nitrate2, rkass	55	5	25
+265739	4	23	Black (5 Suits)	2020-08-09 — 00:53:03 UTC	avanderwalde, Nitrate2, rkass, rs1	32	5	25
+265703	3	23	Black (5 Suits)	2020-08-09 — 00:26:58 UTC	avanderwalde, Nitrate2, rkass	66	5	25
+265677	4	0	Black (5 Suits)	2020-08-09 — 00:01:50 UTC	avanderwalde, Nitrate2, qbphoenix, rkass	36	5	25
+265653	4	22	Black (5 Suits)	2020-08-08 — 23:40:14 UTC	avanderwalde, Nitrate2, qbphoenix, rkass	44	5	25
+265388	6	0	Brown (5 Suits)	2020-08-08 — 17:42:26 UTC	avanderwalde, DMoney, MarkusKahlsen, Nitrate2, rkass, XMIL	8	5	25
+265374	4	22	Brown (5 Suits)	2020-08-08 — 17:10:13 UTC	avanderwalde, DMoney, MarkusKahlsen, rkass	6	5	25
+265353	4	25	Omni-Ones (5 Suits)	2020-08-08 — 16:31:17 UTC	avanderwalde, DMoney, joelwool, rkass	9	5	25
+265344	4	25	Gray Pink (5 Suits)	2020-08-08 — 15:57:18 UTC	avanderwalde, DMoney, joelwool, rkass	14	5	25
+264646	3	25	White-Ones & Brown (6 Suits)	2020-08-08 — 01:23:02 UTC	ADrone, avanderwalde, rkass	2	6	30
+264613	4	0	White-Ones & Brown (6 Suits)	2020-08-08 — 00:40:30 UTC	ADrone, avanderwalde, pianoblook, rkass	2	6	30
+264579	4	0	White-Ones & Brown (6 Suits)	2020-08-07 — 23:59:28 UTC	ADrone, avanderwalde, pianoblook, rkass	4	6	30
+264561	5	27	Black (6 Suits)	2020-08-07 — 23:28:23 UTC	ADrone, avanderwalde, impostor, JerryYang, rkass	48	6	30
+264457	6	28	Pink-Ones & Pink (6 Suits)	2020-08-07 — 21:18:28 UTC	ADrone, antitelharsic, avanderwalde, joelwool, MarkusKahlsen, Pablo-	1	6	30
+263847	3	21	No Variant	2020-08-07 — 01:51:00 UTC	avanderwalde, barnheartowl, rkass	4221	5	25
+263727	4	0	No Variant	2020-08-06 — 23:35:54 UTC	Ahming, avanderwalde, Clarendon, rs1	1744	5	25
+263657	3	27	Dual-Color (6 Suits)	2020-08-06 — 21:52:43 UTC	avanderwalde, mattnabi, rkass	16	6	30
+263612	3	0	Dual-Color (6 Suits)	2020-08-06 — 21:02:09 UTC	avanderwalde, mattnabi, rkass	7	6	30
+263608	3	0	Dual-Color (6 Suits)	2020-08-06 — 20:58:02 UTC	avanderwalde, mattnabi, rkass	6	6	30
+263599	3	0	Dual-Color (6 Suits)	2020-08-06 — 20:50:24 UTC	avanderwalde, mattnabi, rkass	7	6	30
+263061	4	25	Black (5 Suits)	2020-08-06 — 02:23:31 UTC	avanderwalde, emilyzhao, rkass, squidgetx	32	5	25
+263032	4	30	White-Ones & Brown (6 Suits)	2020-08-06 — 01:53:21 UTC	avanderwalde, emilyzhao, rkass, squidgetx	4	6	30
+262993	3	30	White-Ones & Brown (6 Suits)	2020-08-06 — 01:18:34 UTC	avanderwalde, rkass, rs1	2	6	30
+262974	3	0	White-Ones & Brown (6 Suits)	2020-08-06 — 00:54:16 UTC	avanderwalde, rkass, rs1	3	6	30
+262886	3	30	Dual-Color (6 Suits)	2020-08-05 — 21:59:29 UTC	avanderwalde, mattnabi, rkass	18	6	30
+262859	3	0	Dual-Color (6 Suits)	2020-08-05 — 21:08:02 UTC	avanderwalde, mattnabi, rkass	7	6	30
+262782	3	24	No Variant	2020-08-05 — 18:23:50 UTC	avanderwalde, MarekU, XMIL	112	5	25
+262155	3	28	Brown (6 Suits)	2020-08-05 — 02:42:53 UTC	avanderwalde, rkass, XMIL	25	6	30
+262112	4	0	Black & Rainbow (6 Suits)	2020-08-05 — 01:58:47 UTC	avanderwalde, mattnabi, rkass, XMIL	14	6	30
+262080	3	0	Dual-Color (6 Suits)	2020-08-05 — 01:36:11 UTC	avanderwalde, mattnabi, rkass	7	6	30
+262058	3	0	Dual-Color (6 Suits)	2020-08-05 — 01:27:01 UTC	avanderwalde, mattnabi, rkass	7	6	30
+262039	3	18	Black (5 Suits)	2020-08-05 — 01:09:04 UTC	avanderwalde, rkass, XMIL	68	5	25
+262022	6	0	Black (6 Suits)	2020-08-05 — 00:49:31 UTC	avanderwalde, JerryYang, kevincaseytdk1, ramya09, rkass, XMIL	28	6	30
+262013	6	0	Black (5 Suits)	2020-08-05 — 00:41:31 UTC	avanderwalde, JerryYang, kevincaseytdk1, ramya09, rkass, XMIL	9	5	25
+261819	4	29	Black (6 Suits)	2020-08-04 — 21:29:01 UTC	avanderwalde, BalloonHail, JerryYang, kevincaseytdk1	213	6	30
+261038	3	29	Black & Rainbow (6 Suits)	2020-08-04 — 02:35:29 UTC	avanderwalde, JerryYang, rkass	11	6	30
+261003	3	0	Black & Rainbow (6 Suits)	2020-08-04 — 02:05:10 UTC	avanderwalde, JerryYang, rkass	10	6	30
+260984	3	29	Dual-Color (6 Suits)	2020-08-04 — 01:47:02 UTC	avanderwalde, mattnabi, rkass	7	6	30
+260953	3	29	Dual-Color (6 Suits)	2020-08-04 — 01:08:50 UTC	avanderwalde, mattnabi, rkass	7	6	30
+260756	3	23	Rainbow (5 Suits)	2020-08-03 — 21:23:52 UTC	Andrew_UK, avanderwalde, sheamol	57	5	25
+260730	3	0	Rainbow (5 Suits)	2020-08-03 — 21:02:47 UTC	Andrew_UK, avanderwalde, sheamol	56	5	25
+260711	5	23	Pink (5 Suits)	2020-08-03 — 20:47:01 UTC	avanderwalde, DMoney, joelwool, scharkbite, sheamol	4	5	25
+260684	3	0	Black (6 Suits)	2020-08-03 — 20:05:30 UTC	amenaquale, avanderwalde, stephberger	261	6	30
+259383	3	29	Black (6 Suits)	2020-08-03 — 00:29:07 UTC	avanderwalde, Kyle, will.i.am	41	6	30
+259357	3	26	Black (6 Suits)	2020-08-03 — 00:05:30 UTC	avanderwalde, Kyle, will.i.am	43	6	30
+259113	4	29	Brown (6 Suits)	2020-08-02 — 19:28:24 UTC	Ahming, avanderwalde, rkass, XMIL	14	6	30
+259085	4	0	Brown (6 Suits)	2020-08-02 — 18:42:16 UTC	Ahming, avanderwalde, rkass, XMIL	16	6	30
+259071	3	27	Black & Rainbow (6 Suits)	2020-08-02 — 18:13:24 UTC	avanderwalde, rkass, XMIL	11	6	30
+259052	3	0	Black & Rainbow (6 Suits)	2020-08-02 — 17:46:07 UTC	avanderwalde, rkass, XMIL	11	6	30
+259010	3	0	Black & Rainbow (6 Suits)	2020-08-02 — 16:00:45 UTC	avanderwalde, plus, rkass	14	6	30
+258616	4	28	Ambiguous Mix	2020-08-02 — 03:01:13 UTC	Ahming, antitelharsic, avanderwalde, rkass	12	6	30
+258576	4	0	Ambiguous Mix	2020-08-02 — 02:27:54 UTC	Ahming, antitelharsic, avanderwalde, rkass	18	6	30
+258560	3	0	Ambiguous Mix	2020-08-02 — 02:12:22 UTC	antitelharsic, avanderwalde, rkass	3	6	30
+258548	3	0	Ambiguous Mix	2020-08-02 — 02:01:38 UTC	antitelharsic, avanderwalde, rkass	3	6	30
+258524	3	0	Ambiguous Mix	2020-08-02 — 01:32:44 UTC	antitelharsic, avanderwalde, rkass	4	6	30
+258164	4	25	Ambiguous Mix	2020-08-01 — 19:22:21 UTC	avanderwalde, emilyzhao, rkass, squidgetx	8	6	30
+257561	3	0	Black & Rainbow (6 Suits)	2020-08-01 — 02:49:09 UTC	avanderwalde, bazzy, rkass	13	6	30
+257530	4	0	Black & Rainbow (6 Suits)	2020-08-01 — 02:21:42 UTC	avanderwalde, bazzy, JerryYang, rkass	25	6	30
+257507	5	0	Black & Rainbow (6 Suits)	2020-08-01 — 02:00:04 UTC	avanderwalde, bazzy, IsabeltheCat, JerryYang, rkass	20	6	30
+257493	3	29	Dual-Color (6 Suits)	2020-08-01 — 01:48:34 UTC	avanderwalde, mattnabi, rkass	8	6	30
+257440	3	30	Dual-Color (6 Suits)	2020-08-01 — 00:57:56 UTC	avanderwalde, mattnabi, rkass	8	6	30
+257414	3	0	Dual-Color (6 Suits)	2020-08-01 — 00:34:36 UTC	avanderwalde, mattnabi, rkass	8	6	30
+257405	3	0	Dual-Color (6 Suits)	2020-08-01 — 00:22:19 UTC	avanderwalde, mattnabi, rkass	10	6	30
+257401	3	0	Dual-Color (6 Suits)	2020-08-01 — 00:19:15 UTC	avanderwalde, mattnabi, rkass	8	6	30
+257386	3	0	Dual-Color (6 Suits)	2020-08-01 — 00:02:34 UTC	avanderwalde, mattnabi, rkass	7	6	30
+257292	3	0	Dual-Color (6 Suits)	2020-07-31 — 21:26:26 UTC	avanderwalde, mattnabi, rkass	9	6	30
+257287	3	0	Dual-Color (6 Suits)	2020-07-31 — 21:19:53 UTC	avanderwalde, mattnabi, rkass	12	6	30
+257283	3	0	Dual-Color (6 Suits)	2020-07-31 — 21:13:57 UTC	avanderwalde, mattnabi, rkass	13	6	30
+257278	3	0	Dual-Color (6 Suits)	2020-07-31 — 21:06:34 UTC	avanderwalde, mattnabi, rkass	12	6	30
+257275	3	0	Dual-Color (6 Suits)	2020-07-31 — 21:03:14 UTC	avanderwalde, mattnabi, rkass	11	6	30
+257265	3	30	Dual-Color (6 Suits)	2020-07-31 — 20:44:18 UTC	avanderwalde, mattnabi, rkass	13	6	30
+256667	3	28	Black & Rainbow (6 Suits)	2020-07-31 — 02:56:11 UTC	avanderwalde, melwen, rkass	13	6	30
+256597	3	30	Dual-Color (6 Suits)	2020-07-31 — 01:54:50 UTC	avanderwalde, mattnabi, rkass	13	6	30
+256552	3	0	Dual-Color (6 Suits)	2020-07-31 — 01:15:56 UTC	avanderwalde, mattnabi, rs1	14	6	30
+256526	3	0	Dual-Color (6 Suits)	2020-07-31 — 00:45:03 UTC	avanderwalde, mattnabi, rs1	12	6	30
+256415	4	29	6 Suits	2020-07-30 — 21:52:03 UTC	Andrew_UK, avanderwalde, Mishka, TheDaniMan	68	6	30
+256282	3	0	Dual-Color (6 Suits)	2020-07-30 — 17:17:02 UTC	avanderwalde, mattnabi, rkass	15	6	30
+256281	3	0	Dual-Color (6 Suits)	2020-07-30 — 17:04:31 UTC	avanderwalde, mattnabi, rkass	16	6	30
+256276	3	0	Dual-Color (6 Suits)	2020-07-30 — 16:51:14 UTC	avanderwalde, mattnabi, rkass	17	6	30
+255888	3	27	Black & Dark Rainbow (6 Suits)	2020-07-30 — 02:50:13 UTC	avanderwalde, rkass, rs1	19	6	30
+255847	3	0	Black & Dark Rainbow (6 Suits)	2020-07-30 — 02:16:46 UTC	avanderwalde, rkass, rs1	20	6	30
+255806	3	26	Black & Dark Rainbow (6 Suits)	2020-07-30 — 01:52:54 UTC	avanderwalde, rkass, rs1	21	6	30
+255768	3	0	Black & Dark Rainbow (6 Suits)	2020-07-30 — 01:28:42 UTC	avanderwalde, rkass, rs1	28	6	30
+255751	3	30	Black & Rainbow (6 Suits)	2020-07-30 — 01:12:38 UTC	avanderwalde, rkass, rs1	18	6	30
+255730	3	0	Black & Rainbow (6 Suits)	2020-07-30 — 00:40:56 UTC	avanderwalde, rkass, rs1	19	6	30
+255727	3	22	Black & Rainbow (6 Suits)	2020-07-30 — 00:29:49 UTC	avanderwalde, rkass, rs1	19	6	30
+254926	5	28	Dual-Color (6 Suits)	2020-07-29 — 02:13:04 UTC	avanderwalde, bazzy, mattnabi, rkass, rs1	11	6	30
+254869	5	30	Dual-Color (6 Suits)	2020-07-29 — 01:35:22 UTC	avanderwalde, bazzy, mattnabi, rkass, rs1	18	6	30
+254781	3	30	Dual-Color (6 Suits)	2020-07-29 — 00:52:04 UTC	avanderwalde, kevincaseytdk1, rkass	21	6	30
+254689	4	26	Black & Rainbow (6 Suits)	2020-07-28 — 22:05:52 UTC	Ahming, avanderwalde, emilyzhao, squidgetx	16	6	30
+254660	3	29	Dual-Color (6 Suits)	2020-07-28 — 21:29:53 UTC	avanderwalde, emilyzhao, squidgetx	24	6	30
+254601	6	0	Black (6 Suits)	2020-07-28 — 20:32:22 UTC	avanderwalde, Kyle, Nitrate2, pianoblook, scharkbite, Wittvector	2	6	30
+253590	6	28	Black (6 Suits)	2020-07-28 — 03:07:59 UTC	avanderwalde, ColdBrew, IsabeltheCat, JerryYang, rkass, tofuhime	38	6	30
+253524	5	27	Black (6 Suits)	2020-07-28 — 02:23:51 UTC	avanderwalde, ColdBrew, JerryYang, rkass, tofuhime	101	6	30
+253362	5	29	Black (6 Suits)	2020-07-28 — 00:04:23 UTC	Ahming, avanderwalde, ColdBrew, kevincaseytdk1, rkass	35	6	30
+253252	3	30	Dual-Color (6 Suits)	2020-07-27 — 20:58:12 UTC	avanderwalde, mattnabi, rkass	26	6	30
+253226	3	0	Dual-Color (6 Suits)	2020-07-27 — 20:13:58 UTC	avanderwalde, mattnabi, rkass	34	6	30
+253211	3	0	Dual-Color (6 Suits)	2020-07-27 — 19:57:43 UTC	avanderwalde, mattnabi, rkass	43	6	30
+253202	3	0	Dual-Color (6 Suits)	2020-07-27 — 19:51:40 UTC	avanderwalde, mattnabi, rkass	66	6	30
+251369	4	0	No Variant	2020-07-26 — 02:48:30 UTC	avanderwalde, JerryYang, Kyle, rkass	21	5	25
+251328	4	25	No Variant	2020-07-26 — 02:22:29 UTC	avanderwalde, JerryYang, Kyle, rkass	19	5	25
+251284	4	0	No Variant	2020-07-26 — 01:49:56 UTC	avanderwalde, JerryYang, Kyle, rkass	23	5	25
+251255	4	23	No Variant	2020-07-26 — 01:26:54 UTC	avanderwalde, JerryYang, qbphoenix, rkass	1449	5	25
+251233	4	0	No Variant	2020-07-26 — 01:00:04 UTC	avanderwalde, JerryYang, qbphoenix, rkass	2076	5	25
+251195	3	0	Brown (5 Suits)	2020-07-26 — 00:25:08 UTC	avanderwalde, IsabeltheCat, rkass	79	5	25
+251164	2	29	6 Suits	2020-07-26 — 00:00:56 UTC	avanderwalde, rkass	30	6	30
+251150	2	30	6 Suits	2020-07-25 — 23:43:53 UTC	avanderwalde, rkass	75	6	30
+250339	3	0	Brown (6 Suits)	2020-07-25 — 02:50:09 UTC	avanderwalde, mattnabi, rkass	26	6	30
+250314	3	30	Brown (6 Suits)	2020-07-25 — 02:17:20 UTC	avanderwalde, mattnabi, rkass	31	6	30
+250287	3	0	Brown (6 Suits)	2020-07-25 — 01:57:37 UTC	avanderwalde, mattnabi, rkass	40	6	30
+250281	3	0	Brown (6 Suits)	2020-07-25 — 01:54:02 UTC	avanderwalde, mattnabi, rkass	52	6	30
+250274	3	0	Brown (6 Suits)	2020-07-25 — 01:49:26 UTC	avanderwalde, mattnabi, rkass	61	6	30
+250266	3	0	Brown (6 Suits)	2020-07-25 — 01:44:37 UTC	avanderwalde, mattnabi, rkass	84	6	30
+249320	4	25	Black (6 Suits)	2020-07-24 — 01:57:44 UTC	Ahming, avanderwalde, mattnabi, rkass	273	6	30
+249260	3	0	Black (6 Suits)	2020-07-24 — 01:20:11 UTC	avanderwalde, mattnabi, rkass	32	6	30
+249238	3	0	No Variant	2020-07-24 — 01:05:27 UTC	avanderwalde, mattnabi, rkass	1	5	25
+249222	3	0	Black & Rainbow (5 Suits)	2020-07-24 — 00:56:26 UTC	avanderwalde, mattnabi, rkass	1	5	25
+248366	6	0	Black & Rainbow (5 Suits)	2020-07-23 — 02:43:58 UTC	avanderwalde, Kyle, rkass, rs1, Smandon, Tiramisu1th	5	5	25
+248341	5	0	Black & Rainbow (5 Suits)	2020-07-23 — 02:24:45 UTC	avanderwalde, Kyle, rkass, Smandon, Tiramisu1th	6	5	25
+248327	4	0	Black & Rainbow (5 Suits)	2020-07-23 — 02:16:40 UTC	avanderwalde, Kyle, rkass, Tiramisu1th	2	5	25
+248316	4	22	Black & Rainbow (5 Suits)	2020-07-23 — 02:10:20 UTC	avanderwalde, Kyle, rkass, Tiramisu1th	17	5	25
+248285	3	24	Black & Rainbow (5 Suits)	2020-07-23 — 01:47:41 UTC	avanderwalde, rkass, Tiramisu1th	1	5	25
+248251	3	24	Black & Rainbow (5 Suits)	2020-07-23 — 01:19:39 UTC	avanderwalde, mattnabi, rkass	1	5	25
+248236	3	0	Black & Rainbow (5 Suits)	2020-07-23 — 01:06:10 UTC	avanderwalde, mattnabi, rkass	1	5	25
+248230	3	0	Black & Rainbow (5 Suits)	2020-07-23 — 01:01:42 UTC	avanderwalde, mattnabi, rkass	1	5	25
+248224	3	0	Black & Rainbow (5 Suits)	2020-07-23 — 00:59:20 UTC	avanderwalde, mattnabi, rkass	1	5	25
+248214	3	0	Black & Rainbow (5 Suits)	2020-07-23 — 00:55:24 UTC	avanderwalde, mattnabi, rkass	1	5	25
+248182	2	27	6 Suits	2020-07-23 — 00:33:13 UTC	avanderwalde, rkass	30	6	30
+248164	2	30	6 Suits	2020-07-23 — 00:15:32 UTC	avanderwalde, rkass	31	6	30
+248151	2	30	6 Suits	2020-07-23 — 00:03:59 UTC	avanderwalde, rkass	76	6	30
+248143	2	0	6 Suits	2020-07-22 — 23:54:21 UTC	avanderwalde, rkass	78	6	30
+248140	2	0	6 Suits	2020-07-22 — 23:49:01 UTC	avanderwalde, rkass	80	6	30
+247270	2	0	6 Suits	2020-07-21 — 23:37:30 UTC	avanderwalde, rkass	85	6	30
+247268	2	0	6 Suits	2020-07-21 — 23:32:52 UTC	avanderwalde, rkass	88	6	30
+247266	2	0	6 Suits	2020-07-21 — 23:29:35 UTC	avanderwalde, rkass	89	6	30
+247264	2	0	6 Suits	2020-07-21 — 23:28:45 UTC	avanderwalde, rkass	89	6	30
+247262	2	0	6 Suits	2020-07-21 — 23:26:22 UTC	avanderwalde, rkass	98	6	30
+247232	3	0	Black & Rainbow (5 Suits)	2020-07-21 — 22:18:27 UTC	avanderwalde, mattnabi, rkass	1	5	25
+247224	2	0	6 Suits	2020-07-21 — 22:09:41 UTC	avanderwalde, rkass	102	6	30
+247221	2	30	6 Suits	2020-07-21 — 22:07:31 UTC	avanderwalde, rkass	106	6	30
+246337	4	21	Black & Rainbow (5 Suits)	2020-07-21 — 01:49:45 UTC	avanderwalde, kevincaseytdk1, rkass, whalion	23	5	25
+246311	4	25	Black & Rainbow (5 Suits)	2020-07-21 — 01:19:23 UTC	avanderwalde, kevincaseytdk1, rkass, whalion	32	5	25
+246262	2	30	6 Suits	2020-07-21 — 00:29:46 UTC	avanderwalde, rkass	30	6	30
+246252	2	30	6 Suits	2020-07-21 — 00:17:12 UTC	avanderwalde, rkass	112	6	30
+246247	2	30	6 Suits	2020-07-21 — 00:07:08 UTC	avanderwalde, rkass	117	6	30
+246242	2	0	6 Suits	2020-07-20 — 23:57:40 UTC	avanderwalde, rkass	120	6	30
+246237	2	30	6 Suits	2020-07-20 — 23:49:08 UTC	avanderwalde, rkass	132	6	30
+245518	4	24	Black & Rainbow (5 Suits)	2020-07-20 — 01:33:12 UTC	avanderwalde, pianoblook, plus, rkass	16	5	25
+245480	2	30	6 Suits	2020-07-20 — 00:51:45 UTC	avanderwalde, rkass	137	6	30
+245473	2	0	6 Suits	2020-07-20 — 00:38:20 UTC	avanderwalde, rkass	147	6	30
+245462	2	0	6 Suits	2020-07-20 — 00:25:59 UTC	avanderwalde, rkass	160	6	30
+245441	2	30	6 Suits	2020-07-19 — 23:50:55 UTC	avanderwalde, rkass	169	6	30
+245286	2	30	6 Suits	2020-07-19 — 21:16:42 UTC	avanderwalde, rkass	174	6	30
+245267	2	0	6 Suits	2020-07-19 — 21:06:06 UTC	avanderwalde, rkass	180	6	30
+245240	2	0	6 Suits	2020-07-19 — 20:54:00 UTC	avanderwalde, rkass	189	6	30
+245236	2	0	6 Suits	2020-07-19 — 20:52:00 UTC	avanderwalde, rkass	200	6	30
+245218	2	0	6 Suits	2020-07-19 — 20:44:18 UTC	avanderwalde, rkass	207	6	30
+245210	2	0	6 Suits	2020-07-19 — 20:36:50 UTC	avanderwalde, rkass	211	6	30
+245204	2	0	6 Suits	2020-07-19 — 20:33:01 UTC	avanderwalde, rkass	221	6	30
+245199	2	0	6 Suits	2020-07-19 — 20:29:02 UTC	avanderwalde, rkass	236	6	30
+245197	2	0	6 Suits	2020-07-19 — 20:27:31 UTC	avanderwalde, rkass	248	6	30
+245194	2	0	6 Suits	2020-07-19 — 20:26:43 UTC	avanderwalde, rkass	274	6	30
+245183	2	0	6 Suits	2020-07-19 — 20:21:39 UTC	avanderwalde, rkass	304	6	30
+245180	2	0	6 Suits	2020-07-19 — 20:18:36 UTC	avanderwalde, rkass	340	6	30
+245177	2	0	6 Suits	2020-07-19 — 20:16:17 UTC	avanderwalde, rkass	378	6	30
+243468	4	27	Black & Rainbow (6 Suits)	2020-07-18 — 03:35:01 UTC	avanderwalde, emilyzhao, rkass, squidgetx	28	6	30
+243425	4	0	Black & Rainbow (6 Suits)	2020-07-18 — 03:04:44 UTC	avanderwalde, emilyzhao, rkass, squidgetx	34	6	30
+243402	4	0	Black & Rainbow (6 Suits)	2020-07-18 — 02:50:07 UTC	avanderwalde, emilyzhao, mattnabi, rkass	46	6	30
+243361	3	0	Black & Rainbow (6 Suits)	2020-07-18 — 02:24:07 UTC	avanderwalde, mattnabi, rkass	20	6	30
+243344	3	0	Black & Rainbow (6 Suits)	2020-07-18 — 02:13:25 UTC	avanderwalde, mattnabi, rkass	23	6	30
+243337	3	0	Black & Rainbow (6 Suits)	2020-07-18 — 02:08:46 UTC	avanderwalde, mattnabi, rkass	25	6	30
+243323	3	26	Black & Rainbow (6 Suits)	2020-07-18 — 01:59:01 UTC	avanderwalde, mattnabi, rkass	26	6	30
+243273	3	0	Black & Rainbow (6 Suits)	2020-07-18 — 01:29:05 UTC	avanderwalde, mattnabi, rkass	27	6	30
+243260	3	0	Black & Rainbow (6 Suits)	2020-07-18 — 01:24:29 UTC	avanderwalde, mattnabi, rkass	30	6	30
+243254	3	0	Black & Rainbow (6 Suits)	2020-07-18 — 01:22:18 UTC	avanderwalde, mattnabi, rkass	36	6	30
+242777	2	30	6 Suits	2020-07-17 — 18:35:48 UTC	avanderwalde, rkass	401	6	30
+242761	2	0	6 Suits	2020-07-17 — 18:19:52 UTC	avanderwalde, rkass	444	6	30
+242328	2	0	6 Suits	2020-07-17 — 03:42:41 UTC	avanderwalde, rkass	505	6	30
+242318	2	23	6 Suits	2020-07-17 — 03:32:12 UTC	avanderwalde, rkass	593	6	30
+242310	2	27	6 Suits	2020-07-17 — 03:20:53 UTC	avanderwalde, rkass	666	6	30
+242278	5	21	Black (5 Suits)	2020-07-17 — 02:51:35 UTC	avanderwalde, Kyle, qbphoenix, rkass, Smandon	13	5	25
+242234	3	24	Black (5 Suits)	2020-07-17 — 02:14:58 UTC	avanderwalde, qbphoenix, rkass	71	5	25
+242195	3	24	Black (5 Suits)	2020-07-17 — 01:46:36 UTC	avanderwalde, qbphoenix, rkass	74	5	25
+242153	5	0	Black (5 Suits)	2020-07-17 — 01:07:06 UTC	ADrone, avanderwalde, derekcheah, Kyle, will.i.am	12	5	25
+241883	2	0	6 Suits	2020-07-16 — 21:15:33 UTC	avanderwalde, rkass	851	6	30
+241015	3	23	Black & Rainbow (5 Suits)	2020-07-16 — 02:08:14 UTC	avanderwalde, mattnabi, rkass	1	5	25
+240979	3	0	Black & Rainbow (5 Suits)	2020-07-16 — 01:44:27 UTC	avanderwalde, mattnabi, rkass	1	5	25
+240966	3	0	Pink-Ones & Black (6 Suits)	2020-07-16 — 01:34:37 UTC	avanderwalde, mattnabi, rkass	2	6	30
+240944	3	0	Pink-Ones & Black (6 Suits)	2020-07-16 — 01:14:00 UTC	avanderwalde, mattnabi, rkass	2	6	30
+240932	3	0	Pink-Ones & Black (6 Suits)	2020-07-16 — 01:02:18 UTC	avanderwalde, mattnabi, rkass	2	6	30
+240914	3	26	Pink-Ones & Black (6 Suits)	2020-07-16 — 00:42:49 UTC	avanderwalde, mattnabi, rkass	2	6	30
+240873	3	0	Pink-Ones & Black (6 Suits)	2020-07-16 — 00:00:38 UTC	avanderwalde, mattnabi, rkass	2	6	30
+239913	3	0	Pink-Ones & Black (6 Suits)	2020-07-15 — 02:35:12 UTC	avanderwalde, DMoney, rkass	2	6	30
+239868	3	0	Pink-Ones & Black (6 Suits)	2020-07-15 — 02:11:35 UTC	avanderwalde, DMoney, rkass	2	6	30
+239800	4	26	Pink-Ones & Black (6 Suits)	2020-07-15 — 01:28:02 UTC	avanderwalde, DMoney, mattnabi, rkass	2	6	30
+239737	3	0	Pink-Ones & Black (6 Suits)	2020-07-15 — 00:51:59 UTC	avanderwalde, DMoney, rkass	2	6	30
+239682	4	25	Pink-Ones & Black (5 Suits)	2020-07-15 — 00:32:47 UTC	avanderwalde, DMoney, rkass, will.i.am	2	5	25
+239395	3	0	Black (5 Suits)	2020-07-14 — 22:28:17 UTC	avanderwalde, mattnabi, rkass	84	5	25
+239367	3	0	Black (5 Suits)	2020-07-14 — 22:04:11 UTC	avanderwalde, mattnabi, rkass	92	5	25
+239348	3	0	Black (5 Suits)	2020-07-14 — 21:44:18 UTC	avanderwalde, mattnabi, rkass	101	5	25
+239336	3	24	Black (5 Suits)	2020-07-14 — 21:26:54 UTC	avanderwalde, mattnabi, rkass	119	5	25
+238811	5	22	Black (5 Suits)	2020-07-14 — 02:53:17 UTC	Ahming, avanderwalde, emilyzhao, rkass, squidgetx	11	5	25
+238771	5	22	Black (5 Suits)	2020-07-14 — 02:14:31 UTC	Ahming, avanderwalde, emilyzhao, rkass, squidgetx	17	5	25
+238738	5	20	Black (5 Suits)	2020-07-14 — 01:42:05 UTC	Ahming, avanderwalde, emilyzhao, rkass, squidgetx	20	5	25
+238677	5	0	Pink-Ones & Black (5 Suits)	2020-07-14 — 00:41:47 UTC	avanderwalde, DMoney, melwen, scharkbite, will.i.am	1	5	25
+238652	5	0	Pink-Ones & Black (5 Suits)	2020-07-14 — 00:11:35 UTC	avanderwalde, DMoney, melwen, scharkbite, will.i.am	1	5	25
+238622	4	25	No Variant	2020-07-13 — 23:44:04 UTC	avanderwalde, guava, joelwool, Scaramouche129	2763	5	25
+237830	4	22	Black (5 Suits)	2020-07-13 — 00:50:23 UTC	Aluap, avanderwalde, mattnabi, rkass	79	5	25
+237786	3	21	Black & Rainbow (5 Suits)	2020-07-13 — 00:21:27 UTC	Aluap, avanderwalde, rkass	1	5	25
+237645	5	22	Black (5 Suits)	2020-07-12 — 21:11:45 UTC	avanderwalde, MarekU, Pablo-, rs1, sheamol	27	5	25
+237613	4	0	Black (5 Suits)	2020-07-12 — 20:37:29 UTC	avanderwalde, MarekU, mattnabi, rs1	98	5	25
+237592	5	23	Black (5 Suits)	2020-07-12 — 20:08:05 UTC	avanderwalde, emilyzhao, mattnabi, rs1, squidgetx	30	5	25
+237576	5	23	Black (5 Suits)	2020-07-12 — 19:35:22 UTC	avanderwalde, emilyzhao, mattnabi, rs1, squidgetx	36	5	25
+237562	4	0	Black (5 Suits)	2020-07-12 — 19:17:36 UTC	avanderwalde, emilyzhao, mattnabi, squidgetx	49	5	25
+237557	3	18	Black (5 Suits)	2020-07-12 — 19:08:10 UTC	avanderwalde, mattnabi, rs1	134	5	25
+236976	4	0	Up or Down (5 Suits)	2020-07-12 — 02:35:49 UTC	avanderwalde, bazzy, rkass, rs1	12	5	25
+236889	4	22	Up or Down (5 Suits)	2020-07-12 — 01:40:20 UTC	avanderwalde, bazzy, rkass, rs1	14	5	25
+236791	4	23	Up or Down (5 Suits)	2020-07-12 — 00:39:14 UTC	avanderwalde, bazzy, rkass, will.i.am	13	5	25
+236553	4	0	Up or Down (5 Suits)	2020-07-11 — 21:14:42 UTC	avanderwalde, mattnabi, rkass, rs1	15	5	25
+236520	4	0	Up or Down (5 Suits)	2020-07-11 — 20:50:58 UTC	avanderwalde, mattnabi, rkass, rs1	18	5	25
+236513	4	25	Up or Down (5 Suits)	2020-07-11 — 20:42:53 UTC	avanderwalde, mattnabi, rkass, rs1	16	5	25
+236500	3	23	Up or Down (5 Suits)	2020-07-11 — 20:25:32 UTC	avanderwalde, mattnabi, rkass	4	5	25
+236397	3	0	Up or Down (5 Suits)	2020-07-11 — 17:44:54 UTC	avanderwalde, mattnabi, rkass	5	5	25
+236393	3	0	Up or Down (5 Suits)	2020-07-11 — 17:41:26 UTC	avanderwalde, mattnabi, rkass	5	5	25
+236388	3	0	Up or Down (5 Suits)	2020-07-11 — 17:33:02 UTC	avanderwalde, MarkusKahlsen, rkass	6	5	25
+236377	4	0	Up or Down (5 Suits)	2020-07-11 — 17:08:22 UTC	avanderwalde, lrovner, MarkusKahlsen, rkass	16	5	25
+235638	4	23	Up or Down (5 Suits)	2020-07-10 — 23:59:57 UTC	avanderwalde, emilyzhao, rkass, squidgetx	20	5	25
+235597	3	24	Up or Down (5 Suits)	2020-07-10 — 23:29:47 UTC	avanderwalde, emilyzhao, rkass	6	5	25
+235570	3	0	Up or Down (5 Suits)	2020-07-10 — 23:01:15 UTC	avanderwalde, mattnabi, rkass	6	5	25
+235463	3	23	Up or Down (5 Suits)	2020-07-10 — 21:45:07 UTC	avanderwalde, mattnabi, rkass	6	5	25
+235437	4	0	Up or Down (5 Suits)	2020-07-10 — 21:21:07 UTC	avanderwalde, guava, mattnabi, rkass	19	5	25
+235409	3	0	Up or Down (5 Suits)	2020-07-10 — 21:01:18 UTC	avanderwalde, guava, rkass	8	5	25
+235387	3	23	Up or Down (5 Suits)	2020-07-10 — 20:43:34 UTC	avanderwalde, mattnabi, rkass	8	5	25
+234384	3	0	Up or Down (5 Suits)	2020-07-09 — 20:42:04 UTC	avanderwalde, rkass, robense	8	5	25
+233832	4	23	Up or Down (5 Suits)	2020-07-09 — 02:56:19 UTC	avanderwalde, rkass, rs1, theandrewni	21	5	25
+233778	5	0	Up or Down (5 Suits)	2020-07-09 — 02:00:21 UTC	avanderwalde, emilyzhao, rkass, rs1, squidgetx	13	5	25
+232758	3	0	Up or Down (5 Suits)	2020-07-08 — 01:26:53 UTC	avanderwalde, Bonja97, rkass	9	5	25
+232727	3	0	Up or Down (5 Suits)	2020-07-08 — 01:03:31 UTC	avanderwalde, Bonja97, rkass	10	5	25
+232691	3	25	Up or Down (5 Suits)	2020-07-08 — 00:27:25 UTC	ADrone, avanderwalde, rkass	9	5	25
+231796	3	25	Up or Down (5 Suits)	2020-07-07 — 01:00:36 UTC	avanderwalde, bazzy, rkass	9	5	25
+231705	3	0	Up or Down (5 Suits)	2020-07-07 — 00:20:42 UTC	avanderwalde, bazzy, rkass	11	5	25
+231679	4	0	Up or Down (5 Suits)	2020-07-07 — 00:08:26 UTC	avanderwalde, bazzy, mattnabi, rkass	27	5	25
+231624	4	0	Up or Down (5 Suits)	2020-07-06 — 23:45:37 UTC	avanderwalde, bazzy, mattnabi, rkass	27	5	25
+231605	4	0	Up or Down (5 Suits)	2020-07-06 — 23:35:37 UTC	avanderwalde, bazzy, mattnabi, rkass	31	5	25
+231581	3	0	Up or Down (5 Suits)	2020-07-06 — 23:18:51 UTC	avanderwalde, mattnabi, rkass	12	5	25
+230685	3	25	Up or Down (5 Suits)	2020-07-06 — 01:47:37 UTC	avanderwalde, Pablo-, rkass	12	5	25
+230637	3	23	Up or Down (5 Suits)	2020-07-06 — 01:17:25 UTC	avanderwalde, Pablo-, rkass	14	5	25
+230611	3	0	Up or Down (5 Suits)	2020-07-06 — 00:54:43 UTC	avanderwalde, guava, rkass	14	5	25
+230587	3	0	Up or Down (5 Suits)	2020-07-06 — 00:31:58 UTC	avanderwalde, guava, rkass	19	5	25
+230554	5	0	6 Suits	2020-07-05 — 23:53:25 UTC	avanderwalde, clemonmp, kapowski, kbocks, rkass	69	6	30
+230551	3	0	Up or Down (5 Suits)	2020-07-05 — 23:50:35 UTC	avanderwalde, kapowski, rkass	24	5	25
+229315	3	25	Up or Down (5 Suits)	2020-07-04 — 20:33:39 UTC	avanderwalde, mattnabi, rkass	25	5	25
+229306	3	0	Up or Down (5 Suits)	2020-07-04 — 20:19:39 UTC	avanderwalde, mattnabi, rkass	29	5	25
+229296	3	0	Up or Down (5 Suits)	2020-07-04 — 20:11:40 UTC	avanderwalde, mattnabi, rkass	36	5	25
+229276	3	23	Up or Down (5 Suits)	2020-07-04 — 19:49:38 UTC	avanderwalde, mattnabi, rkass	42	5	25
+228511	4	23	Up or Down (5 Suits)	2020-07-04 — 01:04:08 UTC	avanderwalde, lotem, rkass, scharkbite	25	5	25
+228487	3	0	Up or Down (5 Suits)	2020-07-04 — 00:40:08 UTC	avanderwalde, rkass, scharkbite	12	5	25
+228481	3	24	Up or Down (5 Suits)	2020-07-04 — 00:34:00 UTC	avanderwalde, rkass, scharkbite	15	5	25
+228459	3	25	Up or Down (5 Suits)	2020-07-04 — 00:13:34 UTC	avanderwalde, rkass, scharkbite	17	5	25
+228180	4	21	Up or Down (5 Suits)	2020-07-03 — 19:23:42 UTC	avanderwalde, bazzy, mattnabi, rkass	35	5	25
+228133	3	25	Up or Down (5 Suits)	2020-07-03 — 18:52:07 UTC	avanderwalde, mattnabi, rkass	54	5	25
+228094	3	24	Up or Down (5 Suits)	2020-07-03 — 18:34:32 UTC	avanderwalde, mattnabi, rkass	57	5	25
+227418	3	24	Up or Down (5 Suits)	2020-07-03 — 01:41:42 UTC	avanderwalde, bazzy, rkass	62	5	25
+227362	3	22	Up or Down (5 Suits)	2020-07-03 — 01:07:05 UTC	avanderwalde, bazzy, rkass	88	5	25
+227306	3	25	Up or Down (5 Suits)	2020-07-03 — 00:21:45 UTC	avanderwalde, bazzy, rkass	113	5	25
+227231	4	21	Up or Down (5 Suits)	2020-07-02 — 23:47:49 UTC	avanderwalde, bazzy, mattnabi, rkass	41	5	25
+227128	4	0	Up or Down (5 Suits)	2020-07-02 — 23:11:44 UTC	avanderwalde, bazzy, mattnabi, rkass	52	5	25
+227118	4	0	Up or Down (5 Suits)	2020-07-02 — 23:06:16 UTC	avanderwalde, bazzy, mattnabi, rkass	75	5	25
+226359	3	0	Black & Rainbow (5 Suits)	2020-07-02 — 03:11:03 UTC	avanderwalde, mattnabi, rkass	1	5	25
+226288	3	0	Black & Rainbow (5 Suits)	2020-07-02 — 02:25:04 UTC	avanderwalde, mattnabi, rkass	1	5	25
+226258	3	0	Black & Rainbow (5 Suits)	2020-07-02 — 02:07:21 UTC	avanderwalde, mattnabi, rkass	1	5	25
+225032	3	0	Black & Rainbow (5 Suits)	2020-07-01 — 01:51:16 UTC	avanderwalde, mattnabi, rkass	1	5	25
+225025	3	0	Black & Rainbow (5 Suits)	2020-07-01 — 01:37:54 UTC	avanderwalde, mattnabi, rkass	1	5	25
+225020	3	0	Black & Rainbow (5 Suits)	2020-07-01 — 01:33:31 UTC	avanderwalde, mattnabi, rkass	1	5	25
+225005	3	0	Black & Rainbow (5 Suits)	2020-07-01 — 01:22:02 UTC	avanderwalde, mattnabi, rkass	1	5	25
+224587	3	25	Black & Rainbow (5 Suits)	2020-06-30 — 20:27:13 UTC	avanderwalde, mattnabi, rkass	1	5	25
+224570	3	0	Black & Rainbow (5 Suits)	2020-06-30 — 20:06:11 UTC	avanderwalde, mattnabi, rkass	1	5	25
+223770	3	0	Black & Rainbow (5 Suits)	2020-06-30 — 01:33:56 UTC	avanderwalde, mattnabi, rkass	1	5	25
+223765	3	0	Black & Rainbow (5 Suits)	2020-06-30 — 01:33:16 UTC	avanderwalde, mattnabi, rkass	1	5	25
+223750	3	0	Black & Rainbow (5 Suits)	2020-06-30 — 01:27:03 UTC	avanderwalde, mattnabi, rkass	1	5	25
+223743	3	23	Black & Rainbow (5 Suits)	2020-06-30 — 01:22:48 UTC	avanderwalde, mattnabi, rkass	1	5	25
+223697	3	0	Black & Rainbow (5 Suits)	2020-06-30 — 01:02:43 UTC	avanderwalde, mattnabi, rkass	1	5	25
+223689	3	0	Black & Rainbow (5 Suits)	2020-06-30 — 01:00:52 UTC	avanderwalde, mattnabi, rkass	1	5	25
+223680	3	0	Black & Rainbow (5 Suits)	2020-06-30 — 00:58:37 UTC	avanderwalde, mattnabi, rkass	1	5	25
+223209	3	24	Black & Rainbow (5 Suits)	2020-06-29 — 16:19:26 UTC	avanderwalde, mattnabi, rkass	1	5	25
+223200	3	0	Black & Rainbow (5 Suits)	2020-06-29 — 15:45:03 UTC	avanderwalde, mattnabi, rkass	1	5	25
+222675	3	28	Black & Rainbow (6 Suits)	2020-06-29 — 01:16:05 UTC	avanderwalde, mattnabi, rkass	42	6	30
+222651	3	0	Black & Rainbow (6 Suits)	2020-06-29 — 00:55:31 UTC	avanderwalde, mattnabi, rkass	51	6	30
+222647	3	26	Black & Rainbow (6 Suits)	2020-06-29 — 00:51:14 UTC	avanderwalde, mattnabi, rkass	59	6	30
+217826	4	0	Cow & Pig (5 Suits)	2020-06-25 — 03:25:57 UTC	avanderwalde, rkass, tofuhime, whalion	28	5	25
+217778	4	30	Rainbow (6 Suits)	2020-06-25 — 02:45:14 UTC	avanderwalde, rkass, tofuhime, whalion	156	6	30
+217682	4	23	Rainbow (6 Suits)	2020-06-25 — 01:49:14 UTC	avanderwalde, rkass, tofuhime, whalion	163	6	30
+216651	4	25	No Variant	2020-06-24 — 02:56:55 UTC	avanderwalde, mattnabi, rkass, zbs	3581	5	25
+216517	3	0	Ambiguous & Black (5 Suits)	2020-06-24 — 01:19:05 UTC	avanderwalde, mattnabi, rkass	7	5	25
+216506	3	30	Very Ambiguous (6 Suits)	2020-06-24 — 01:13:14 UTC	avanderwalde, mattnabi, rkass	18	6	30
+216484	3	0	Very Ambiguous (6 Suits)	2020-06-24 — 00:48:28 UTC	avanderwalde, mattnabi, rkass	37	6	30
+214678	3	30	Rainbow (6 Suits)	2020-06-22 — 02:00:31 UTC	avanderwalde, mattnabi, rkass	24	6	30
+214629	3	0	Rainbow (6 Suits)	2020-06-22 — 01:21:52 UTC	avanderwalde, mattnabi, rkass	40	6	30
+214612	3	0	Rainbow (6 Suits)	2020-06-22 — 01:01:11 UTC	avanderwalde, mattnabi, rkass	38	6	30
+214487	3	29	Rainbow (6 Suits)	2020-06-21 — 22:40:06 UTC	avanderwalde, mattnabi, rkass	1	6	30
+214462	3	30	Rainbow (6 Suits)	2020-06-21 — 22:04:47 UTC	avanderwalde, mattnabi, rkass	39	6	30
+214446	3	0	Rainbow (6 Suits)	2020-06-21 — 21:47:33 UTC	avanderwalde, mattnabi, rkass	43	6	30
+214434	2	0	Pink (6 Suits)	2020-06-21 — 21:31:23 UTC	avanderwalde, rkass	6	6	30
+214430	2	0	Pink (6 Suits)	2020-06-21 — 21:23:55 UTC	avanderwalde, rkass	6	6	30
+214428	2	30	Pink (6 Suits)	2020-06-21 — 21:21:26 UTC	avanderwalde, rkass	6	6	30
+214416	2	0	Pink (6 Suits)	2020-06-21 — 21:11:14 UTC	avanderwalde, rkass	7	6	30
+214412	2	0	Pink (6 Suits)	2020-06-21 — 21:06:11 UTC	avanderwalde, rkass	7	6	30
+214401	3	0	Rainbow (6 Suits)	2020-06-21 — 20:54:24 UTC	avanderwalde, mattnabi, rkass	42	6	30
+213566	2	30	Rainbow (6 Suits)	2020-06-21 — 01:25:33 UTC	avanderwalde, rkass	395	6	30
+213553	2	0	Rainbow (6 Suits)	2020-06-21 — 01:15:40 UTC	avanderwalde, rkass	441	6	30
+213550	2	0	Rainbow (6 Suits)	2020-06-21 — 01:13:44 UTC	avanderwalde, rkass	500	6	30
+213549	2	0	Rainbow (6 Suits)	2020-06-21 — 01:13:02 UTC	avanderwalde, rkass	593	6	30
+213546	2	0	Rainbow (6 Suits)	2020-06-21 — 01:11:00 UTC	avanderwalde, rkass	717	6	30
+213543	2	30	Rainbow (6 Suits)	2020-06-21 — 01:09:03 UTC	avanderwalde, rkass	971	6	30
+213528	2	0	Black & Omni (5 Suits)	2020-06-21 — 00:55:26 UTC	avanderwalde, rkass	25	5	25
+212238	3	0	Black & Rainbow (5 Suits)	2020-06-20 — 01:29:32 UTC	avanderwalde, mattnabi, rkass	1	5	25
+212209	3	30	Rainbow (6 Suits)	2020-06-20 — 01:04:30 UTC	avanderwalde, mattnabi, rkass	27	6	30
+212169	3	0	Rainbow (6 Suits)	2020-06-20 — 00:38:59 UTC	avanderwalde, mattnabi, rkass	1	6	30
+212166	3	0	Rainbow (6 Suits)	2020-06-20 — 00:37:17 UTC	avanderwalde, mattnabi, rkass	46	6	30
+211895	3	30	Rainbow (6 Suits)	2020-06-19 — 20:49:13 UTC	avanderwalde, mattnabi, rkass	35	6	30
+211825	3	0	Rainbow (6 Suits)	2020-06-19 — 20:02:11 UTC	avanderwalde, mattnabi, rkass	47	6	30
+211814	3	0	Rainbow (6 Suits)	2020-06-19 — 19:48:04 UTC	avanderwalde, mattnabi, rkass	47	6	30
+211637	3	0	Rainbow (6 Suits)	2020-06-19 — 15:05:39 UTC	avanderwalde, mattnabi, rkass	52	6	30
+211628	3	30	Rainbow (6 Suits)	2020-06-19 — 14:38:13 UTC	avanderwalde, mattnabi, rkass	54	6	30
+211623	3	30	Rainbow (6 Suits)	2020-06-19 — 14:14:29 UTC	avanderwalde, mattnabi, rkass	53	6	30
+210617	3	0	Rainbow (6 Suits)	2020-06-18 — 15:20:14 UTC	avanderwalde, mattnabi, rkass	55	6	30
+210613	3	0	Rainbow (6 Suits)	2020-06-18 — 15:13:52 UTC	avanderwalde, mattnabi, rkass	56	6	30
+210607	3	29	Rainbow (6 Suits)	2020-06-18 — 14:54:07 UTC	avanderwalde, mattnabi, rkass	58	6	30
+210130	3	0	Rainbow (6 Suits)	2020-06-18 — 02:17:12 UTC	avanderwalde, mattnabi, rkass	61	6	30
+210102	3	0	Rainbow (6 Suits)	2020-06-18 — 02:01:17 UTC	avanderwalde, mattnabi, rkass	68	6	30
+210080	3	0	Rainbow (6 Suits)	2020-06-18 — 01:52:55 UTC	avanderwalde, mattnabi, rkass	72	6	30
+210070	3	0	Rainbow (6 Suits)	2020-06-18 — 01:44:36 UTC	avanderwalde, mattnabi, rkass	74	6	30
+210040	3	0	Rainbow (6 Suits)	2020-06-18 — 01:33:14 UTC	avanderwalde, mattnabi, rkass	75	6	30
+209040	3	0	Rainbow (6 Suits)	2020-06-17 — 01:12:30 UTC	avanderwalde, mattnabi, rkass	396	6	30
+209012	3	0	Rainbow (6 Suits)	2020-06-17 — 00:41:49 UTC	avanderwalde, mattnabi, rkass	508	6	30
+209001	3	0	Rainbow (6 Suits)	2020-06-17 — 00:20:22 UTC	avanderwalde, mattnabi, rkass	689	6	30
+207889	3	0	Black & Rainbow (5 Suits)	2020-06-15 — 21:45:34 UTC	avanderwalde, mattnabi, rkass	1	5	25
+207829	3	0	Black & Rainbow (5 Suits)	2020-06-15 — 20:48:26 UTC	avanderwalde, mattnabi, rkass	1	5	25
+207799	3	23	Black & Rainbow (5 Suits)	2020-06-15 — 20:24:40 UTC	avanderwalde, mattnabi, rkass	1	5	25
+207754	3	22	Black & Rainbow (5 Suits)	2020-06-15 — 19:54:06 UTC	avanderwalde, mattnabi, rkass	1	5	25
+207728	3	0	Black & Rainbow (5 Suits)	2020-06-15 — 19:34:52 UTC	avanderwalde, mattnabi, rkass	1	5	25
+207044	3	0	Black & Rainbow (5 Suits)	2020-06-15 — 02:11:10 UTC	avanderwalde, mattnabi, rkass	1	5	25
+207024	3	0	Black & Rainbow (5 Suits)	2020-06-15 — 02:00:07 UTC	avanderwalde, mattnabi, rkass	1	5	25
+207009	3	0	Black & Rainbow (5 Suits)	2020-06-15 — 01:53:09 UTC	avanderwalde, mattnabi, rkass	1	5	25
+207004	3	0	Black & Rainbow (5 Suits)	2020-06-15 — 01:50:12 UTC	avanderwalde, mattnabi, rkass	1	5	25
+206985	3	0	Black & Rainbow (5 Suits)	2020-06-15 — 01:41:46 UTC	avanderwalde, mattnabi, rkass	1	5	25
+206978	3	0	Black & Rainbow (5 Suits)	2020-06-15 — 01:37:48 UTC	avanderwalde, mattnabi, rkass	1	5	25
+206958	3	0	Black & Rainbow (5 Suits)	2020-06-15 — 01:28:45 UTC	avanderwalde, mattnabi, rkass	1	5	25
+206945	3	0	Black & Rainbow (5 Suits)	2020-06-15 — 01:22:28 UTC	avanderwalde, mattnabi, rkass	1	5	25
+206929	3	22	Black & Rainbow (5 Suits)	2020-06-15 — 01:12:18 UTC	avanderwalde, mattnabi, rkass	1	5	25
+206375	2	25	Black & Null (5 Suits)	2020-06-14 — 16:59:05 UTC	avanderwalde, rkass	5	5	25
+206368	2	21	Black & Null (5 Suits)	2020-06-14 — 16:48:59 UTC	avanderwalde, rkass	5	5	25
+206357	2	22	Black & Null (5 Suits)	2020-06-14 — 16:39:37 UTC	avanderwalde, rkass	5	5	25
+206353	2	0	Black & Null (5 Suits)	2020-06-14 — 16:29:43 UTC	avanderwalde, rkass	5	5	25
+206350	2	0	Black & Null (5 Suits)	2020-06-14 — 16:24:58 UTC	avanderwalde, rkass	8	5	25
+206344	2	0	Black & Null (5 Suits)	2020-06-14 — 16:17:20 UTC	avanderwalde, rkass	8	5	25
+206334	2	22	Black & Null (5 Suits)	2020-06-14 — 15:52:53 UTC	avanderwalde, rkass	8	5	25
+206328	2	0	Black & Null (5 Suits)	2020-06-14 — 15:43:08 UTC	avanderwalde, rkass	8	5	25
+205805	3	24	Black & Rainbow (5 Suits)	2020-06-14 — 02:10:37 UTC	avanderwalde, mattnabi, rkass	1	5	25
+205772	3	0	Black & Rainbow (5 Suits)	2020-06-14 — 01:47:33 UTC	avanderwalde, mattnabi, rkass	1	5	25
+205758	3	0	Black & Rainbow (5 Suits)	2020-06-14 — 01:42:49 UTC	avanderwalde, mattnabi, rkass	1	5	25
+205747	3	0	Black & Rainbow (5 Suits)	2020-06-14 — 01:32:43 UTC	avanderwalde, mattnabi, rkass	1	5	25
+205737	3	0	Black & Rainbow (5 Suits)	2020-06-14 — 01:25:55 UTC	avanderwalde, mattnabi, rkass	1	5	25
+205710	3	0	Black & Rainbow (5 Suits)	2020-06-14 — 01:08:00 UTC	avanderwalde, mattnabi, rkass	1	5	25
+205695	3	0	Black & Rainbow (5 Suits)	2020-06-14 — 00:52:57 UTC	avanderwalde, mattnabi, rkass	1	5	25
+205685	3	0	Black & Rainbow (5 Suits)	2020-06-14 — 00:40:36 UTC	avanderwalde, mattnabi, rkass	1	5	25
+205679	3	0	Black & Rainbow (5 Suits)	2020-06-14 — 00:34:17 UTC	avanderwalde, mattnabi, rkass	1	5	25
+205675	3	0	Black & Rainbow (5 Suits)	2020-06-14 — 00:28:51 UTC	avanderwalde, mattnabi, rkass	1	5	25
+205290	3	25	Black & Rainbow (5 Suits)	2020-06-13 — 19:09:32 UTC	avanderwalde, mattnabi, rkass	1	5	25
+205281	3	24	Black & Rainbow (5 Suits)	2020-06-13 — 18:55:55 UTC	avanderwalde, mattnabi, rkass	1	5	25
+205271	3	0	Black & Rainbow (5 Suits)	2020-06-13 — 18:38:18 UTC	avanderwalde, mattnabi, rkass	1	5	25
+205264	3	0	Black & Rainbow (5 Suits)	2020-06-13 — 18:29:31 UTC	avanderwalde, mattnabi, rkass	1	5	25
+205257	3	0	Black & Rainbow (5 Suits)	2020-06-13 — 18:25:18 UTC	avanderwalde, mattnabi, rkass	1	5	25
+205250	3	0	Black & Rainbow (5 Suits)	2020-06-13 — 18:15:37 UTC	avanderwalde, mattnabi, rkass	1	5	25
+205235	3	0	Black & Rainbow (5 Suits)	2020-06-13 — 17:54:50 UTC	avanderwalde, mattnabi, rkass	1	5	25
+205228	2	0	Omni & Null (6 Suits)	2020-06-13 — 17:42:14 UTC	avanderwalde, rkass	1	6	30
+205218	2	0	Omni & Null (6 Suits)	2020-06-13 — 17:31:32 UTC	avanderwalde, rkass	1	6	30
+205212	2	0	Omni & Null (6 Suits)	2020-06-13 — 17:26:46 UTC	avanderwalde, rkass	1	6	30
+205204	3	0	Black & Rainbow (5 Suits)	2020-06-13 — 17:19:33 UTC	avanderwalde, mattnabi, rkass	1	5	25
+205196	3	0	Black & Rainbow (5 Suits)	2020-06-13 — 17:10:39 UTC	avanderwalde, mattnabi, rkass	1	5	25
+205192	3	0	Black & Rainbow (5 Suits)	2020-06-13 — 17:06:09 UTC	avanderwalde, mattnabi, rkass	1	5	25
+205190	3	0	Black & Rainbow (5 Suits)	2020-06-13 — 17:03:58 UTC	avanderwalde, mattnabi, rkass	1	5	25
+205186	3	0	Black & Rainbow (5 Suits)	2020-06-13 — 17:01:16 UTC	avanderwalde, mattnabi, rkass	1	5	25
+205133	2	0	Pink (6 Suits)	2020-06-13 — 15:37:35 UTC	avanderwalde, rkass	31	6	30
+205121	2	30	Pink (6 Suits)	2020-06-13 — 15:15:57 UTC	avanderwalde, rkass	32	6	30
+205114	2	30	Pink (6 Suits)	2020-06-13 — 14:52:35 UTC	avanderwalde, rkass	7	6	30
+204354	2	30	Pink (6 Suits)	2020-06-13 — 01:27:44 UTC	avanderwalde, rkass	6	6	30
+204337	2	0	Pink (6 Suits)	2020-06-13 — 01:16:07 UTC	avanderwalde, rkass	7	6	30
+204320	2	0	Pink (6 Suits)	2020-06-13 — 01:00:57 UTC	avanderwalde, rkass	8	6	30
+204316	2	0	Pink (6 Suits)	2020-06-13 — 00:53:36 UTC	avanderwalde, rkass	10	6	30
+204305	2	0	Pink (6 Suits)	2020-06-13 — 00:45:05 UTC	avanderwalde, rkass	11	6	30
+203198	2	30	Pink (6 Suits)	2020-06-12 — 02:40:18 UTC	avanderwalde, rkass	11	6	30
+203171	2	0	Pink (6 Suits)	2020-06-12 — 02:25:48 UTC	avanderwalde, rkass	11	6	30
+203165	2	30	Pink (6 Suits)	2020-06-12 — 02:21:55 UTC	avanderwalde, rkass	13	6	30
+203151	2	29	Pink (6 Suits)	2020-06-12 — 02:12:42 UTC	avanderwalde, rkass	16	6	30
+203136	2	0	Pink (6 Suits)	2020-06-12 — 02:00:42 UTC	avanderwalde, rkass	16	6	30
+203129	2	0	Pink (6 Suits)	2020-06-12 — 01:55:32 UTC	avanderwalde, rkass	17	6	30
+203118	2	0	Pink (6 Suits)	2020-06-12 — 01:49:30 UTC	avanderwalde, rkass	17	6	30
+203106	2	0	Pink (6 Suits)	2020-06-12 — 01:43:59 UTC	avanderwalde, rkass	19	6	30
+202837	2	30	Pink (6 Suits)	2020-06-11 — 21:36:43 UTC	avanderwalde, rkass	21	6	30
+202828	2	30	Pink (6 Suits)	2020-06-11 — 21:28:15 UTC	avanderwalde, rkass	24	6	30
+202819	2	0	Pink (6 Suits)	2020-06-11 — 21:20:54 UTC	avanderwalde, rkass	26	6	30
+202811	2	30	Pink (6 Suits)	2020-06-11 — 21:16:05 UTC	avanderwalde, rkass	30	6	30
+202620	2	30	Pink (6 Suits)	2020-06-11 — 17:11:45 UTC	avanderwalde, rkass	34	6	30
+202612	2	0	Pink (6 Suits)	2020-06-11 — 17:00:06 UTC	avanderwalde, rkass	35	6	30
+202608	2	0	Pink (6 Suits)	2020-06-11 — 16:55:36 UTC	avanderwalde, rkass	44	6	30
+202606	2	0	Pink (6 Suits)	2020-06-11 — 16:50:52 UTC	avanderwalde, rkass	49	6	30
+202566	2	0	Pink (6 Suits)	2020-06-11 — 14:50:10 UTC	avanderwalde, rkass	52	6	30
+202562	2	25	Black & Rainbow (5 Suits)	2020-06-11 — 14:36:28 UTC	avanderwalde, rkass	6	5	25
+201004	2	28	Pink (6 Suits)	2020-06-10 — 02:20:46 UTC	avanderwalde, rkass	54	6	30
+200983	2	0	Pink (6 Suits)	2020-06-10 — 02:06:26 UTC	avanderwalde, rkass	60	6	30
+200977	2	0	Pink (6 Suits)	2020-06-10 — 02:03:44 UTC	avanderwalde, rkass	64	6	30
+200961	2	0	Pink (6 Suits)	2020-06-10 — 01:54:34 UTC	avanderwalde, rkass	79	6	30
+200947	2	23	Pink (6 Suits)	2020-06-10 — 01:47:26 UTC	avanderwalde, rkass	85	6	30
+200923	3	0	Black & Rainbow (5 Suits)	2020-06-10 — 01:32:42 UTC	avanderwalde, mattnabi, rkass	1	5	25
+200921	3	24	Black & Rainbow (5 Suits)	2020-06-10 — 01:32:24 UTC	avanderwalde, mattnabi, rkass	1	5	25
+200896	3	0	Black & Rainbow (5 Suits)	2020-06-10 — 01:15:43 UTC	avanderwalde, mattnabi, rkass	1	5	25
+200893	3	0	Black & Rainbow (5 Suits)	2020-06-10 — 01:13:34 UTC	avanderwalde, mattnabi, rkass	1	5	25
+200886	3	0	Black & Rainbow (5 Suits)	2020-06-10 — 01:08:34 UTC	avanderwalde, mattnabi, rkass	1	5	25
+200877	3	0	Black & Rainbow (5 Suits)	2020-06-10 — 00:59:35 UTC	avanderwalde, mattnabi, rkass	1	5	25
+200873	3	0	Black & Rainbow (5 Suits)	2020-06-10 — 00:57:32 UTC	avanderwalde, mattnabi, rkass	1	5	25
+200853	3	0	Black & Rainbow (5 Suits)	2020-06-10 — 00:38:04 UTC	avanderwalde, mattnabi, rkass	1	5	25
+200846	2	30	Pink (6 Suits)	2020-06-10 — 00:31:38 UTC	avanderwalde, rkass	93	6	30
+200830	2	0	Pink (6 Suits)	2020-06-10 — 00:21:38 UTC	avanderwalde, rkass	93	6	30
+200581	3	0	Black & Rainbow (5 Suits)	2020-06-09 — 20:27:52 UTC	avanderwalde, mattnabi, rkass	1	5	25
+200514	3	0	Black & Rainbow (5 Suits)	2020-06-09 — 19:43:54 UTC	avanderwalde, mattnabi, rkass	1	5	25
+200491	3	0	Black & Rainbow (5 Suits)	2020-06-09 — 19:30:46 UTC	avanderwalde, mattnabi, rkass	1	5	25
+200484	3	0	Black & Rainbow (5 Suits)	2020-06-09 — 19:25:42 UTC	avanderwalde, mattnabi, rkass	1	5	25
+200475	3	0	Black & Rainbow (5 Suits)	2020-06-09 — 19:17:50 UTC	avanderwalde, mattnabi, rkass	1	5	25
+200455	3	0	Black (5 Suits)	2020-06-09 — 19:03:57 UTC	avanderwalde, mattnabi, rkass	171	5	25
+199700	2	0	Pink (6 Suits)	2020-06-09 — 02:09:35 UTC	avanderwalde, rkass	104	6	30
+199674	2	0	Pink (6 Suits)	2020-06-09 — 01:55:26 UTC	avanderwalde, rkass	115	6	30
+199672	2	30	Pink (6 Suits)	2020-06-09 — 01:54:47 UTC	avanderwalde, rkass	143	6	30
+199645	2	0	Pink (6 Suits)	2020-06-09 — 01:41:02 UTC	avanderwalde, rkass	157	6	30
+199638	2	0	Pink (6 Suits)	2020-06-09 — 01:38:12 UTC	avanderwalde, rkass	172	6	30
+199625	2	0	Pink (6 Suits)	2020-06-09 — 01:30:06 UTC	avanderwalde, rkass	219	6	30
+199607	3	24	Black & Rainbow (5 Suits)	2020-06-09 — 01:17:31 UTC	avanderwalde, mattnabi, rkass	1	5	25
+199573	3	0	Black & Rainbow (5 Suits)	2020-06-09 — 00:52:40 UTC	avanderwalde, mattnabi, rkass	1	5	25
+199567	3	0	Black & Rainbow (5 Suits)	2020-06-09 — 00:47:00 UTC	avanderwalde, mattnabi, rkass	1	5	25
+199559	3	0	Black & Rainbow (5 Suits)	2020-06-09 — 00:41:24 UTC	avanderwalde, mattnabi, rkass	1	5	25
+199550	3	0	Black & Rainbow (5 Suits)	2020-06-09 — 00:34:24 UTC	avanderwalde, mattnabi, rkass	1	5	25
+199531	3	0	Black & Rainbow (5 Suits)	2020-06-09 — 00:20:53 UTC	avanderwalde, mattnabi, rkass	1	5	25
+199521	3	0	Black & Rainbow (5 Suits)	2020-06-09 — 00:15:14 UTC	avanderwalde, mattnabi, rkass	1	5	25
+199515	3	0	Black & Rainbow (5 Suits)	2020-06-09 — 00:10:49 UTC	avanderwalde, mattnabi, rkass	1	5	25
+199511	3	0	Black & Rainbow (5 Suits)	2020-06-09 — 00:08:40 UTC	avanderwalde, mattnabi, rkass	1	5	25
+199508	3	0	Black & Rainbow (5 Suits)	2020-06-09 — 00:07:14 UTC	avanderwalde, mattnabi, rkass	2	5	25
+199450	3	0	Black & Rainbow (5 Suits)	2020-06-08 — 22:11:45 UTC	avanderwalde, mattnabi, rkass	2	5	25
+199411	3	0	Black & Rainbow (5 Suits)	2020-06-08 — 21:39:05 UTC	avanderwalde, mattnabi, rkass	2	5	25
+199395	3	0	Black & Rainbow (5 Suits)	2020-06-08 — 21:30:50 UTC	avanderwalde, mattnabi, rkass	2	5	25
+199376	3	0	Black & Rainbow (5 Suits)	2020-06-08 — 21:19:53 UTC	avanderwalde, mattnabi, rkass	2	5	25
+198507	3	0	Black & Rainbow (5 Suits)	2020-06-08 — 01:09:22 UTC	avanderwalde, mattnabi, rkass	2	5	25
+198492	3	0	Black & Rainbow (5 Suits)	2020-06-08 — 00:54:24 UTC	avanderwalde, mattnabi, rkass	2	5	25
+198483	3	25	Black & Rainbow (5 Suits)	2020-06-08 — 00:44:03 UTC	avanderwalde, mattnabi, rkass	2	5	25
+198448	3	0	Black & Rainbow (5 Suits)	2020-06-08 — 00:07:21 UTC	avanderwalde, mattnabi, rkass	2	5	25
+197876	3	0	Black & Rainbow (5 Suits)	2020-06-07 — 14:09:04 UTC	abbeschmabbe, avanderwalde, rkass	2	5	25
+197857	3	0	Black & Rainbow (5 Suits)	2020-06-07 — 13:23:50 UTC	abbeschmabbe, avanderwalde, rkass	2	5	25
+197855	3	0	Black & Rainbow (5 Suits)	2020-06-07 — 13:22:24 UTC	abbeschmabbe, avanderwalde, rkass	3	5	25
+197854	3	0	Black & Rainbow (5 Suits)	2020-06-07 — 13:20:30 UTC	abbeschmabbe, avanderwalde, rkass	3	5	25
+197852	3	0	Black & Rainbow (5 Suits)	2020-06-07 — 13:10:22 UTC	abbeschmabbe, avanderwalde, rkass	3	5	25
+197843	3	0	Black & Rainbow (5 Suits)	2020-06-07 — 12:42:31 UTC	abbeschmabbe, avanderwalde, rkass	3	5	25
+196719	3	24	Black & Rainbow (5 Suits)	2020-06-06 — 21:09:13 UTC	avanderwalde, mattnabi, rkass	3	5	25
+196678	3	0	Black & Rainbow (5 Suits)	2020-06-06 — 20:45:27 UTC	avanderwalde, mattnabi, rkass	3	5	25
+196669	3	0	Black & Rainbow (5 Suits)	2020-06-06 — 20:40:08 UTC	avanderwalde, mattnabi, rkass	3	5	25
+196666	3	0	Black & Rainbow (5 Suits)	2020-06-06 — 20:36:46 UTC	avanderwalde, mattnabi, rkass	3	5	25
+196641	3	24	Black & Rainbow (5 Suits)	2020-06-06 — 20:15:52 UTC	avanderwalde, mattnabi, rkass	3	5	25
+196608	3	0	Black & Rainbow (5 Suits)	2020-06-06 — 19:54:10 UTC	avanderwalde, mattnabi, rkass	3	5	25
+196600	3	0	Black & Rainbow (5 Suits)	2020-06-06 — 19:47:04 UTC	avanderwalde, mattnabi, rkass	3	5	25
+194272	3	0	Black & Rainbow (5 Suits)	2020-06-05 — 01:03:19 UTC	avanderwalde, mattnabi, rkass	3	5	25
+194229	3	0	Black & Rainbow (5 Suits)	2020-06-05 — 00:47:26 UTC	avanderwalde, mattnabi, rkass	3	5	25
+194223	3	20	Black & Rainbow (5 Suits)	2020-06-05 — 00:38:57 UTC	avanderwalde, mattnabi, rkass	3	5	25
+194207	3	0	Black & Rainbow (5 Suits)	2020-06-05 — 00:16:05 UTC	avanderwalde, mattnabi, rkass	3	5	25
+194204	3	0	Black & Rainbow (5 Suits)	2020-06-05 — 00:13:33 UTC	avanderwalde, mattnabi, rkass	3	5	25
+194202	3	0	Black & Rainbow (5 Suits)	2020-06-05 — 00:12:43 UTC	avanderwalde, mattnabi, rkass	3	5	25
+194128	3	0	Black & Rainbow (5 Suits)	2020-06-04 — 22:18:53 UTC	avanderwalde, mattnabi, rkass	3	5	25
+194112	3	0	Black & Rainbow (5 Suits)	2020-06-04 — 22:05:24 UTC	avanderwalde, mattnabi, rkass	3	5	25
+194108	3	0	Black & Rainbow (5 Suits)	2020-06-04 — 22:00:58 UTC	avanderwalde, mattnabi, rkass	2	5	25
+194096	3	0	Black & Rainbow (5 Suits)	2020-06-04 — 21:51:24 UTC	avanderwalde, mattnabi, rkass	5	5	25
+194092	3	0	Black & Rainbow (5 Suits)	2020-06-04 — 21:50:06 UTC	avanderwalde, mattnabi, rkass	5	5	25
+194075	3	0	Black & Rainbow (5 Suits)	2020-06-04 — 21:27:58 UTC	avanderwalde, mattnabi, rkass	6	5	25
+194061	3	0	Black & Rainbow (5 Suits)	2020-06-04 — 21:16:35 UTC	avanderwalde, mattnabi, rkass	6	5	25
+193157	2	0	Omni & Null (6 Suits)	2020-06-04 — 00:51:04 UTC	avanderwalde, rkass	1	6	30
+193130	2	0	Omni & Null (6 Suits)	2020-06-04 — 00:16:30 UTC	avanderwalde, rkass	1	6	30
+193120	2	0	Omni & Null (6 Suits)	2020-06-04 — 00:08:17 UTC	avanderwalde, rkass	1	6	30
+193116	2	0	Omni & Null (6 Suits)	2020-06-04 — 00:04:36 UTC	avanderwalde, rkass	1	6	30
+193104	2	0	Omni & Null (6 Suits)	2020-06-03 — 23:54:56 UTC	avanderwalde, rkass	1	6	30
+193103	2	0	Omni & Null (6 Suits)	2020-06-03 — 23:53:31 UTC	avanderwalde, rkass	1	6	30
+193100	2	0	Omni & Null (6 Suits)	2020-06-03 — 23:52:26 UTC	avanderwalde, rkass	1	6	30
+190975	2	30	Omni & Null (6 Suits)	2020-06-02 — 02:00:21 UTC	avanderwalde, rkass	1	6	30
+190958	2	28	Omni & Null (6 Suits)	2020-06-02 — 01:47:47 UTC	avanderwalde, rkass	1	6	30
+190938	2	0	Omni & Null (6 Suits)	2020-06-02 — 01:33:27 UTC	avanderwalde, rkass	1	6	30
+189840	3	0	Black & Rainbow (5 Suits)	2020-06-01 — 01:23:21 UTC	avanderwalde, mattnabi, rkass	24	5	25
+189798	3	0	Black & Rainbow (5 Suits)	2020-06-01 — 01:00:36 UTC	avanderwalde, mattnabi, rkass	26	5	25
+189769	2	0	Black & Rainbow (5 Suits)	2020-06-01 — 00:41:27 UTC	avanderwalde, rkass	6	5	25
+189765	2	0	Black & Rainbow (5 Suits)	2020-06-01 — 00:38:28 UTC	avanderwalde, rkass	8	5	25
+189757	2	0	Black & Rainbow (5 Suits)	2020-06-01 — 00:33:46 UTC	avanderwalde, rkass	10	5	25
+189743	2	22	Black & Rainbow (5 Suits)	2020-06-01 — 00:24:34 UTC	avanderwalde, rkass	10	5	25
+189732	2	0	Black & Rainbow (5 Suits)	2020-06-01 — 00:16:13 UTC	avanderwalde, rkass	10	5	25
+189731	2	0	Black & Rainbow (5 Suits)	2020-06-01 — 00:15:58 UTC	avanderwalde, rkass	10	5	25
+189723	2	0	Black & Rainbow (5 Suits)	2020-06-01 — 00:09:27 UTC	avanderwalde, rkass	10	5	25
+188055	3	0	Black & Rainbow (5 Suits)	2020-05-30 — 20:34:28 UTC	avanderwalde, mattnabi, rkass	30	5	25
+188028	3	22	Black & Rainbow (5 Suits)	2020-05-30 — 20:03:17 UTC	avanderwalde, mattnabi, rkass	31	5	25
+188006	3	0	Black & Rainbow (5 Suits)	2020-05-30 — 19:37:42 UTC	avanderwalde, mattnabi, rkass	6	5	25
+187990	3	0	Black & Rainbow (5 Suits)	2020-05-30 — 19:22:07 UTC	avanderwalde, mattnabi, rkass	6	5	25
+187978	3	0	Black & Rainbow (5 Suits)	2020-05-30 — 19:12:34 UTC	avanderwalde, mattnabi, rkass	6	5	25
+187974	3	0	Black & Rainbow (5 Suits)	2020-05-30 — 19:08:37 UTC	avanderwalde, mattnabi, rkass	6	5	25
+187969	3	0	Black & Rainbow (5 Suits)	2020-05-30 — 19:00:55 UTC	avanderwalde, mattnabi, rkass	7	5	25
+187965	3	0	Black & Rainbow (5 Suits)	2020-05-30 — 18:58:17 UTC	avanderwalde, mattnabi, rkass	9	5	25
+187958	3	0	Black & Rainbow (5 Suits)	2020-05-30 — 18:46:38 UTC	avanderwalde, mattnabi, rkass	8	5	25
+187951	3	0	Black & Rainbow (5 Suits)	2020-05-30 — 18:36:35 UTC	avanderwalde, mattnabi, rkass	7	5	25
+187938	3	25	Black & Rainbow (5 Suits)	2020-05-30 — 18:21:43 UTC	avanderwalde, mattnabi, rkass	7	5	25
+186955	2	0	Reversed (6 Suits)	2020-05-30 — 00:37:21 UTC	avanderwalde, rkass	17	6	30
+186944	2	0	Reversed (6 Suits)	2020-05-30 — 00:32:33 UTC	avanderwalde, rkass	19	6	30
+186937	2	0	Reversed (6 Suits)	2020-05-30 — 00:30:14 UTC	avanderwalde, rkass	22	6	30
+186924	2	0	Reversed (6 Suits)	2020-05-30 — 00:24:37 UTC	avanderwalde, rkass	37	6	30
+186906	2	25	Black & Rainbow (5 Suits)	2020-05-30 — 00:17:05 UTC	avanderwalde, rkass	11	5	25
+186889	2	21	Black & Rainbow (5 Suits)	2020-05-30 — 00:07:28 UTC	avanderwalde, rkass	11	5	25
+186687	2	0	Black & Rainbow (5 Suits)	2020-05-29 — 21:30:49 UTC	avanderwalde, rkass	11	5	25
+186668	2	25	Black & Rainbow (5 Suits)	2020-05-29 — 21:22:16 UTC	avanderwalde, rkass	11	5	25
+186650	2	0	Black & Rainbow (5 Suits)	2020-05-29 — 21:14:30 UTC	avanderwalde, rkass	11	5	25
+185644	3	23	Black & Rainbow (5 Suits)	2020-05-29 — 02:00:55 UTC	avanderwalde, mattnabi, rkass	7	5	25
+185569	3	0	Black & Rainbow (5 Suits)	2020-05-29 — 01:20:51 UTC	avanderwalde, mattnabi, rkass	7	5	25
+185558	3	0	Black & Rainbow (5 Suits)	2020-05-29 — 01:14:14 UTC	avanderwalde, mattnabi, rkass	9	5	25
+185546	3	22	Black & Rainbow (5 Suits)	2020-05-29 — 01:07:56 UTC	avanderwalde, mattnabi, rkass	9	5	25
+185529	3	0	Black & Rainbow (5 Suits)	2020-05-29 — 00:42:21 UTC	avanderwalde, mattnabi, rkass	13	5	25
+185528	3	21	Black & Rainbow (5 Suits)	2020-05-29 — 00:39:19 UTC	avanderwalde, mattnabi, rkass	15	5	25
+185510	3	0	Black & Rainbow (5 Suits)	2020-05-29 — 00:02:57 UTC	avanderwalde, mattnabi, rkass	19	5	25
+184205	2	25	Black & Rainbow (5 Suits)	2020-05-28 — 01:11:55 UTC	avanderwalde, rkass	12	5	25
+184196	2	0	Black & Rainbow (5 Suits)	2020-05-28 — 01:04:15 UTC	avanderwalde, rkass	13	5	25
+184180	2	25	Black & Rainbow (5 Suits)	2020-05-28 — 00:55:35 UTC	avanderwalde, rkass	14	5	25
+184169	2	0	Black & Rainbow (5 Suits)	2020-05-28 — 00:46:40 UTC	avanderwalde, rkass	15	5	25
+184158	2	0	Black & Rainbow (5 Suits)	2020-05-28 — 00:37:58 UTC	avanderwalde, rkass	15	5	25
+184149	2	0	Black & Rainbow (5 Suits)	2020-05-28 — 00:31:47 UTC	avanderwalde, rkass	15	5	25
+184145	2	0	Black & Rainbow (5 Suits)	2020-05-28 — 00:28:53 UTC	avanderwalde, rkass	15	5	25
+184142	2	0	Black & Rainbow (5 Suits)	2020-05-28 — 00:26:36 UTC	avanderwalde, rkass	16	5	25
+184136	2	0	Black & Rainbow (5 Suits)	2020-05-28 — 00:20:47 UTC	avanderwalde, rkass	16	5	25
+183202	2	25	Black & Rainbow (5 Suits)	2020-05-27 — 02:18:07 UTC	avanderwalde, rkass	20	5	25
+183191	2	0	Black & Rainbow (5 Suits)	2020-05-27 — 02:05:52 UTC	avanderwalde, rkass	26	5	25
+183183	2	0	Black & Rainbow (5 Suits)	2020-05-27 — 02:01:59 UTC	avanderwalde, rkass	25	5	25
+183173	2	0	Black & Rainbow (5 Suits)	2020-05-27 — 01:55:36 UTC	avanderwalde, rkass	26	5	25
+183164	2	19	Black & Rainbow (5 Suits)	2020-05-27 — 01:52:40 UTC	avanderwalde, rkass	27	5	25
+183148	3	0	Black & Rainbow (5 Suits)	2020-05-27 — 01:45:35 UTC	avanderwalde, mattnabi, rkass	20	5	25
+183146	3	0	Black & Rainbow (5 Suits)	2020-05-27 — 01:44:48 UTC	avanderwalde, mattnabi, rkass	23	5	25
+183117	3	0	Black & Rainbow (5 Suits)	2020-05-27 — 01:26:56 UTC	avanderwalde, mattnabi, rkass	24	5	25
+183114	3	0	Black & Rainbow (5 Suits)	2020-05-27 — 01:25:56 UTC	avanderwalde, mattnabi, rkass	26	5	25
+183108	3	0	Black & Rainbow (5 Suits)	2020-05-27 — 01:22:49 UTC	avanderwalde, mattnabi, rkass	27	5	25
+183104	3	24	Black & Rainbow (5 Suits)	2020-05-27 — 01:18:31 UTC	avanderwalde, mattnabi, rkass	33	5	25
+183088	3	0	Black & Rainbow (5 Suits)	2020-05-27 — 01:05:28 UTC	avanderwalde, mattnabi, rkass	33	5	25
+183067	3	0	Black & Rainbow (5 Suits)	2020-05-27 — 00:41:52 UTC	avanderwalde, mattnabi, rkass	40	5	25
+183059	3	0	Black & Rainbow (5 Suits)	2020-05-27 — 00:35:08 UTC	avanderwalde, mattnabi, rkass	46	5	25
+183053	3	0	Black & Rainbow (5 Suits)	2020-05-27 — 00:26:25 UTC	avanderwalde, mattnabi, rkass	58	5	25
+182010	2	0	Black & Rainbow (5 Suits)	2020-05-26 — 02:07:05 UTC	avanderwalde, rkass	28	5	25
+182003	2	0	Black & Rainbow (5 Suits)	2020-05-26 — 02:03:15 UTC	avanderwalde, rkass	28	5	25
+181989	2	0	Black & Rainbow (5 Suits)	2020-05-26 — 02:00:05 UTC	avanderwalde, rkass	29	5	25
+181980	2	24	Black & Rainbow (5 Suits)	2020-05-26 — 01:56:23 UTC	avanderwalde, rkass	32	5	25
+181959	2	0	Black & Rainbow (5 Suits)	2020-05-26 — 01:47:14 UTC	avanderwalde, rkass	39	5	25
+181951	2	0	Black & Rainbow (5 Suits)	2020-05-26 — 01:44:43 UTC	avanderwalde, rkass	45	5	25
+181948	2	0	Black & Rainbow (5 Suits)	2020-05-26 — 01:42:47 UTC	avanderwalde, rkass	47	5	25
+181938	2	23	Black & Rainbow (5 Suits)	2020-05-26 — 01:35:40 UTC	avanderwalde, rkass	55	5	25
+181913	2	0	Black & Rainbow (5 Suits)	2020-05-26 — 01:24:18 UTC	avanderwalde, rkass	61	5	25
+181902	2	0	Black & Rainbow (5 Suits)	2020-05-26 — 01:17:42 UTC	avanderwalde, rkass	73	5	25
+181892	2	0	Black & Null (5 Suits)	2020-05-26 — 01:13:20 UTC	avanderwalde, rkass	16	5	25
+181867	2	30	Omni & Null (6 Suits)	2020-05-26 — 00:49:27 UTC	avanderwalde, rkass	2	6	30
+181854	2	0	Omni & Null (6 Suits)	2020-05-26 — 00:37:06 UTC	avanderwalde, rkass	2	6	30
+181845	2	0	Omni & Null (6 Suits)	2020-05-26 — 00:31:31 UTC	avanderwalde, rkass	2	6	30
+181837	2	0	Omni & Null (6 Suits)	2020-05-26 — 00:23:59 UTC	avanderwalde, rkass	2	6	30
+181832	2	0	Omni & Null (6 Suits)	2020-05-26 — 00:19:53 UTC	avanderwalde, rkass	2	6	30
+181825	2	30	Omni & Null (6 Suits)	2020-05-26 — 00:11:33 UTC	avanderwalde, rkass	2	6	30
+181804	2	0	Omni & Null (6 Suits)	2020-05-25 — 23:56:49 UTC	avanderwalde, rkass	2	6	30
+181796	2	0	Omni & Null (6 Suits)	2020-05-25 — 23:46:29 UTC	avanderwalde, rkass	2	6	30
+181795	2	0	Omni & Null (6 Suits)	2020-05-25 — 23:42:52 UTC	avanderwalde, rkass	2	6	30
+180471	2	30	Omni & Null (6 Suits)	2020-05-25 — 00:47:09 UTC	avanderwalde, rkass	2	6	30
+178615	3	0	Omni & Null (6 Suits)	2020-05-23 — 21:28:03 UTC	avanderwalde, mattnabi, rkass	1	6	30
+178598	3	0	Omni & Null (6 Suits)	2020-05-23 — 21:17:38 UTC	avanderwalde, mattnabi, rkass	1	6	30
+178584	3	0	Omni & Null (6 Suits)	2020-05-23 — 21:06:16 UTC	avanderwalde, mattnabi, rkass	1	6	30
+178530	3	28	Black (6 Suits)	2020-05-23 — 20:40:29 UTC	avanderwalde, mattnabi, rkass	24	6	30
+178480	3	29	Black (6 Suits)	2020-05-23 — 19:55:10 UTC	avanderwalde, mattnabi, rkass	26	6	30
+178325	3	28	Black (6 Suits)	2020-05-23 — 17:08:07 UTC	avanderwalde, mattnabi, rkass	31	6	30
+178305	3	26	Black (6 Suits)	2020-05-23 — 16:46:38 UTC	avanderwalde, mattnabi, rkass	32	6	30
+178283	3	28	Black (6 Suits)	2020-05-23 — 16:20:06 UTC	avanderwalde, mattnabi, rkass	325	6	30
+178267	3	27	Black (6 Suits)	2020-05-23 — 16:03:53 UTC	avanderwalde, mattnabi, rkass	399	6	30
+178248	2	0	Black (6 Suits)	2020-05-23 — 15:41:54 UTC	avanderwalde, rkass	232	6	30
+178239	2	0	Black (6 Suits)	2020-05-23 — 15:32:34 UTC	avanderwalde, rkass	239	6	30
+178235	2	0	Black (6 Suits)	2020-05-23 — 15:27:28 UTC	avanderwalde, rkass	255	6	30
+178231	2	0	Black (6 Suits)	2020-05-23 — 15:24:15 UTC	avanderwalde, rkass	275	6	30
+177379	2	30	Black (6 Suits)	2020-05-23 — 01:26:29 UTC	avanderwalde, rkass	294	6	30
+177357	2	0	Black (6 Suits)	2020-05-23 — 01:17:31 UTC	avanderwalde, rkass	300	6	30
+177351	2	0	Black (6 Suits)	2020-05-23 — 01:13:17 UTC	avanderwalde, rkass	325	6	30
+177349	2	0	Black (6 Suits)	2020-05-23 — 01:11:43 UTC	avanderwalde, rkass	350	6	30
+177343	2	0	Black (6 Suits)	2020-05-23 — 01:08:17 UTC	avanderwalde, rkass	391	6	30
+177341	2	0	Black (6 Suits)	2020-05-23 — 01:06:28 UTC	avanderwalde, rkass	442	6	30
+177332	2	30	Black (6 Suits)	2020-05-23 — 00:58:29 UTC	avanderwalde, rkass	546	6	30
+177318	2	0	Black (6 Suits)	2020-05-23 — 00:49:23 UTC	avanderwalde, rkass	643	6	30
+177280	3	0	Omni & Null (6 Suits)	2020-05-23 — 00:24:11 UTC	avanderwalde, mattnabi, rkass	1	6	30
+177271	3	0	Omni & Null (6 Suits)	2020-05-23 — 00:18:36 UTC	avanderwalde, mattnabi, rkass	1	6	30
+177265	3	0	Omni & Null (6 Suits)	2020-05-23 — 00:12:00 UTC	avanderwalde, mattnabi, rkass	1	6	30
+177261	3	30	Omni & Null (6 Suits)	2020-05-23 — 00:10:10 UTC	avanderwalde, mattnabi, rkass	1	6	30
+177221	3	0	Omni & Null (6 Suits)	2020-05-22 — 23:40:44 UTC	avanderwalde, mattnabi, rkass	1	6	30
+177116	2	30	Omni & Null (6 Suits)	2020-05-22 — 22:11:23 UTC	avanderwalde, rkass	2	6	30
+175952	3	30	Omni & Null (6 Suits)	2020-05-22 — 01:13:22 UTC	avanderwalde, mattnabi, rkass	1	6	30
+175924	3	0	Omni & Null (6 Suits)	2020-05-22 — 00:50:14 UTC	avanderwalde, mattnabi, rkass	1	6	30
+175905	3	30	Omni & Null (6 Suits)	2020-05-22 — 00:36:16 UTC	avanderwalde, mattnabi, rkass	1	6	30
+175870	2	29	Omni & Null (6 Suits)	2020-05-21 — 23:57:05 UTC	avanderwalde, rkass	2	6	30
+175846	2	0	Omni & Null (6 Suits)	2020-05-21 — 23:36:00 UTC	avanderwalde, rkass	2	6	30
+175844	2	0	Omni & Null (6 Suits)	2020-05-21 — 23:35:21 UTC	avanderwalde, rkass	2	6	30
+174566	2	30	Omni & Null (6 Suits)	2020-05-20 — 23:41:31 UTC	avanderwalde, rkass	2	6	30
+174556	2	29	Omni & Null (6 Suits)	2020-05-20 — 23:29:56 UTC	avanderwalde, rkass	2	6	30
+174546	2	26	Omni & Null (6 Suits)	2020-05-20 — 23:18:12 UTC	avanderwalde, rkass	2	6	30
+172184	2	30	Omni & Null (6 Suits)	2020-05-19 — 01:12:57 UTC	avanderwalde, rkass	2	6	30
+172166	2	0	Omni & Null (6 Suits)	2020-05-19 — 00:58:01 UTC	avanderwalde, rkass	2	6	30
+172161	2	0	Omni & Null (6 Suits)	2020-05-19 — 00:55:25 UTC	avanderwalde, rkass	2	6	30
+172159	2	0	Omni & Null (6 Suits)	2020-05-19 — 00:53:02 UTC	avanderwalde, rkass	2	6	30
+172157	3	30	Omni & Null (6 Suits)	2020-05-19 — 00:49:44 UTC	avanderwalde, mattnabi, rkass	1	6	30
+172122	3	30	Omni & Null (6 Suits)	2020-05-19 — 00:21:28 UTC	avanderwalde, mattnabi, rkass	1	6	30
+170379	2	30	Omni & Null (6 Suits)	2020-05-17 — 17:12:30 UTC	avanderwalde, rkass	2	6	30
+170358	2	30	Omni & Null (6 Suits)	2020-05-17 — 16:49:17 UTC	avanderwalde, rkass	2	6	30
+168704	2	0	Omni & Null (6 Suits)	2020-05-16 — 17:39:31 UTC	avanderwalde, rkass	2	6	30
+168667	2	30	Omni & Null (6 Suits)	2020-05-16 — 17:08:58 UTC	avanderwalde, rkass	2	6	30
+168657	2	0	Omni & Null (6 Suits)	2020-05-16 — 16:58:00 UTC	avanderwalde, rkass	2	6	30
+168656	2	0	Omni & Null (6 Suits)	2020-05-16 — 16:57:06 UTC	avanderwalde, rkass	2	6	30
+168649	2	30	Omni & Null (6 Suits)	2020-05-16 — 16:51:14 UTC	avanderwalde, rkass	2	6	30
+168636	2	30	Omni & Null (6 Suits)	2020-05-16 — 16:37:48 UTC	avanderwalde, rkass	2	6	30
+168602	2	30	Omni & Null (6 Suits)	2020-05-16 — 15:57:55 UTC	avanderwalde, rkass	2	6	30
+168592	2	30	Omni & Null (6 Suits)	2020-05-16 — 15:47:38 UTC	avanderwalde, rkass	2	6	30
+168570	2	30	Omni & Null (6 Suits)	2020-05-16 — 15:22:13 UTC	avanderwalde, rkass	2	6	30
+168560	2	0	Omni & Null (6 Suits)	2020-05-16 — 15:01:09 UTC	avanderwalde, rkass	2	6	30
+167626	3	30	Omni & Null (6 Suits)	2020-05-16 — 01:59:12 UTC	avanderwalde, mattnabi, rkass	1	6	30
+167565	3	30	Omni & Null (6 Suits)	2020-05-16 — 01:26:21 UTC	avanderwalde, mattnabi, rkass	1	6	30
+167518	3	0	Omni & Null (6 Suits)	2020-05-16 — 00:56:12 UTC	avanderwalde, mattnabi, rkass	1	6	30
+167512	3	29	Omni & Null (6 Suits)	2020-05-16 — 00:41:05 UTC	avanderwalde, mattnabi, rkass	1	6	30
+166202	2	29	Omni & Null (6 Suits)	2020-05-15 — 00:51:32 UTC	avanderwalde, rkass	2	6	30
+166170	2	0	Omni & Null (6 Suits)	2020-05-15 — 00:29:02 UTC	avanderwalde, rkass	2	6	30
+162387	2	30	Omni & Null (6 Suits)	2020-05-12 — 01:08:03 UTC	avanderwalde, rkass	2	6	30
+162371	2	30	Omni & Null (6 Suits)	2020-05-12 — 00:54:21 UTC	avanderwalde, rkass	2	6	30
+162345	2	30	Omni & Null (6 Suits)	2020-05-12 — 00:36:53 UTC	avanderwalde, rkass	2	6	30
+161277	3	30	Omni & Null (6 Suits)	2020-05-11 — 01:32:11 UTC	avanderwalde, mattnabi, rkass	1	6	30
+161228	3	30	Omni & Null (6 Suits)	2020-05-11 — 01:06:20 UTC	avanderwalde, mattnabi, rkass	1	6	30
+161195	3	0	Omni & Null (6 Suits)	2020-05-11 — 00:45:59 UTC	avanderwalde, mattnabi, rkass	1	6	30
+161191	3	0	Omni & Null (6 Suits)	2020-05-11 — 00:43:13 UTC	avanderwalde, mattnabi, rkass	1	6	30
+161180	3	0	Omni & Null (6 Suits)	2020-05-11 — 00:35:51 UTC	avanderwalde, mattnabi, rkass	1	6	30
+159443	2	30	Omni & Null (6 Suits)	2020-05-10 — 00:59:45 UTC	avanderwalde, rkass	2	6	30
+159435	2	30	Omni & Null (6 Suits)	2020-05-10 — 00:47:46 UTC	avanderwalde, rkass	2	6	30
+159420	2	0	Omni & Null (6 Suits)	2020-05-10 — 00:38:03 UTC	avanderwalde, rkass	2	6	30
+159395	2	30	Omni & Null (6 Suits)	2020-05-10 — 00:26:10 UTC	avanderwalde, rkass	2	6	30
+159379	2	0	Omni & Null (6 Suits)	2020-05-10 — 00:12:42 UTC	avanderwalde, rkass	2	6	30
+158877	2	30	Omni & Null (6 Suits)	2020-05-09 — 19:55:48 UTC	avanderwalde, rkass	3	6	30
+158855	2	30	Omni & Null (6 Suits)	2020-05-09 — 19:38:27 UTC	avanderwalde, rkass	3	6	30
+158831	2	30	Omni & Null (6 Suits)	2020-05-09 — 19:20:34 UTC	avanderwalde, rkass	3	6	30
+158808	2	30	Omni & Null (6 Suits)	2020-05-09 — 19:05:12 UTC	avanderwalde, rkass	3	6	30
+158788	2	0	No Variant	2020-05-09 — 18:53:41 UTC	avanderwalde, rkass	5374	5	25

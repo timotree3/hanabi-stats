@@ -1,0 +1,1290 @@
+512060	2	23	No Variant	2021-04-25 — 07:08:00 UTC	ksfortson, louietyj	1148	5	25
+512055	2	25	No Variant	2021-04-25 — 06:45:10 UTC	ksfortson, louietyj	1206	5	25
+512048	4	13	Omni (3 Suits)	2021-04-25 — 06:24:48 UTC	cockdestroyer, ksfortson, louietyj, wump	11	3	15
+512037	4	0	Dark Rainbow (5 Suits)	2021-04-25 — 06:03:57 UTC	bjnh, cockdestroyer, ksfortson, wump	29	5	25
+512020	3	25	No Variant	2021-04-25 — 05:43:34 UTC	GoodMorningJay, ksfortson, MarcLovesDogs	63	5	25
+511994	3	25	No Variant	2021-04-25 — 05:21:12 UTC	GoodMorningJay, ksfortson, MarcLovesDogs	69	5	25
+510935	3	30	Black & Brown (6 Suits)	2021-04-24 — 02:50:20 UTC	ksfortson, rz, wump	13	6	30
+510907	3	28	Black & Brown (6 Suits)	2021-04-24 — 02:25:03 UTC	ksfortson, rz, wump	16	6	30
+510878	3	22	Black & Brown (6 Suits)	2021-04-24 — 01:53:18 UTC	ksfortson, rz, wump	17	6	30
+509208	4	0	No Variant	2021-04-22 — 06:35:51 UTC	ksfortson, mgce, Quantumplation, wump	26	5	25
+509202	3	0	Black & Rainbow (5 Suits)	2021-04-22 — 06:14:40 UTC	indego, ksfortson, wump	46	5	25
+501720	3	23	No Variant	2021-04-15 — 06:45:33 UTC	ksfortson, MarcLovesDogs, newduke	66	5	25
+501702	5	28	Rainbow & Prism (6 Suits)	2021-04-15 — 06:16:11 UTC	bjnh, kimbifille, ksfortson, micerang, wump	4	6	30
+501668	4	0	Gray (6 Suits)	2021-04-15 — 05:33:19 UTC	kimbifille, ksfortson, micerang, sin_faith	2	6	30
+501643	4	30	Rainbow-Fives & Prism (6 Suits)	2021-04-15 — 05:02:08 UTC	cockdestroyer, ksfortson, sin_faith, voss	2	6	30
+501624	4	0	Rainbow-Fives & Prism (6 Suits)	2021-04-15 — 04:35:11 UTC	cockdestroyer, ksfortson, sin_faith, voss	3	6	30
+501616	3	0	Rainbow-Fives & Prism (6 Suits)	2021-04-15 — 04:22:42 UTC	cockdestroyer, ksfortson, wump	1	6	30
+501599	3	29	Rainbow-Fives & Prism (6 Suits)	2021-04-15 — 03:54:05 UTC	cockdestroyer, ksfortson, wump	1	6	30
+501575	5	25	Brown & Prism (5 Suits)	2021-04-15 — 03:21:00 UTC	ksfortson, louietyj, otterful, torp, wump	3	5	25
+501555	5	22	Brown & Prism (5 Suits)	2021-04-15 — 03:02:43 UTC	ksfortson, louietyj, otterful, torp, wump	4	5	25
+497061	3	25	No Variant	2021-04-11 — 05:24:24 UTC	Bot-Fiora, ksfortson, possum	58	5	25
+497043	3	25	No Variant	2021-04-11 — 05:00:41 UTC	ksfortson, timotree, wolfpack	11	5	25
+497009	4	0	Omni (6 Suits)	2021-04-11 — 04:32:04 UTC	kinkajusrevenge, ksfortson, timotree, wolfpack	13	6	30
+489953	6	25	Rainbow & Brown (5 Suits)	2021-04-04 — 03:09:40 UTC	Aluap, bob65536, griff77, ksfortson, ricardodd, timotree	3	5	25
+488178	4	0	Omni (6 Suits)	2021-04-02 — 07:17:06 UTC	griff77, IsabeltheCat, ksfortson, louietyj	15	6	30
+488170	4	0	Omni (6 Suits)	2021-04-02 — 06:42:48 UTC	griff77, IsabeltheCat, ksfortson, louietyj	18	6	30
+488166	4	0	Omni (6 Suits)	2021-04-02 — 06:26:14 UTC	griff77, IsabeltheCat, ksfortson, louietyj	33	6	30
+488158	3	25	No Variant	2021-04-02 — 06:08:20 UTC	GoodMorningJay, ksfortson, MarcLovesDogs	78	5	25
+488146	3	25	No Variant	2021-04-02 — 05:44:27 UTC	GoodMorningJay, ksfortson, MarcLovesDogs	77	5	25
+488029	4	0	Null-Ones & Null (5 Suits)	2021-04-02 — 03:41:04 UTC	Bot-Fiora, griff77, ksfortson, wump	3	5	25
+487997	4	20	Null-Fives & Black (5 Suits)	2021-04-02 — 03:06:20 UTC	Bot-Fiora, griff77, ksfortson, wump	1	5	25
+487959	4	18	Rainbow (4 Suits)	2021-04-02 — 02:09:28 UTC	ksfortson, newduke, rz, wolfpack	4	4	20
+487943	4	19	Rainbow (4 Suits)	2021-04-02 — 01:42:35 UTC	ksfortson, newduke, rz, wolfpack	4	4	20
+487926	3	0	Omni (4 Suits)	2021-04-02 — 01:16:24 UTC	ksfortson, newduke, rz	2	4	20
+487478	3	0	Rainbow & Brown (5 Suits)	2021-04-01 — 17:30:22 UTC	Fey, ksfortson, swineherd	14	5	25
+487471	3	0	Rainbow & Brown (5 Suits)	2021-04-01 — 17:24:29 UTC	Fey, ksfortson, swineherd	24	5	25
+487457	3	29	Black & Brown (6 Suits)	2021-04-01 — 17:10:28 UTC	Fey, ksfortson, rz	13	6	30
+487431	3	0	White & Muddy Rainbow (5 Suits)	2021-04-01 — 16:37:22 UTC	HelanaAshryvr, kinkajusrevenge, ksfortson	6	5	25
+487042	4	0	Rainbow & Gray (5 Suits)	2021-04-01 — 02:48:13 UTC	griff77, ksfortson, rz, wump	7	5	25
+487029	4	0	Rainbow & Gray (5 Suits)	2021-04-01 — 02:38:13 UTC	griff77, ksfortson, rz, wump	9	5	25
+486292	2	30	White (6 Suits)	2021-03-31 — 06:52:49 UTC	ksfortson, wump	184	6	30
+486284	2	21	No Variant	2021-03-31 — 06:28:03 UTC	ksfortson, MarcLovesDogs	133	5	25
+486270	5	23	No Variant	2021-03-31 — 05:45:25 UTC	Alkaven5, BunsenHoneydew, ksfortson, kupoke, MarcLovesDogs	21	5	25
+486252	5	23	No Variant	2021-03-31 — 05:03:09 UTC	Alkaven5, BunsenHoneydew, ksfortson, kupoke, MarcLovesDogs	24	5	25
+486234	4	22	White & Muddy Rainbow (5 Suits)	2021-03-31 — 04:22:47 UTC	IsabeltheCat, kinkajusrevenge, ksfortson, nkkarpov	5	5	25
+486213	3	22	White & Muddy Rainbow (5 Suits)	2021-03-31 — 03:50:54 UTC	IsabeltheCat, kinkajusrevenge, ksfortson	5	5	25
+486185	3	25	No Variant	2021-03-31 — 03:25:17 UTC	dobi, ksfortson, PotatoLatte	1291	5	25
+484150	4	30	6 Suits	2021-03-29 — 03:28:16 UTC	kinkajusrevenge, ksfortson, nkkarpov, timotree	92	6	30
+484124	4	24	Up or Down (6 Suits)	2021-03-29 — 02:51:06 UTC	kinkajusrevenge, ksfortson, nkkarpov, timotree	15	6	30
+484095	4	0	Up or Down (6 Suits)	2021-03-29 — 02:13:03 UTC	kinkajusrevenge, ksfortson, nkkarpov, timotree	15	6	30
+484070	3	23	Dark Rainbow (5 Suits)	2021-03-29 — 01:35:13 UTC	ksfortson, nkkarpov, timotree	25	5	25
+484032	4	0	Dark Rainbow (5 Suits)	2021-03-29 — 01:09:50 UTC	IsabeltheCat, ksfortson, nkkarpov, timotree	9	5	25
+484009	4	0	Dark Rainbow (5 Suits)	2021-03-29 — 00:52:16 UTC	IsabeltheCat, ksfortson, nkkarpov, timotree	13	5	25
+483235	6	23	Prism (5 Suits)	2021-03-28 — 07:08:59 UTC	Bot-Fiora, ksfortson, louietyj, newduke, qqqq, wump	4	5	25
+483214	5	28	Rainbow & Dark Prism (6 Suits)	2021-03-28 — 06:15:34 UTC	Bot-Fiora, griff77, ksfortson, nkkarpov, qqqq	2	6	30
+483185	4	0	Black & Dark Prism (6 Suits)	2021-03-28 — 05:35:01 UTC	Bot-Fiora, griff77, ksfortson, nkkarpov	7	6	30
+482131	4	30	Null-Ones (6 Suits)	2021-03-27 — 06:14:28 UTC	Bot-Fiora, griff77, ksfortson, wortel	2	6	30
+482112	5	0	Null-Ones (6 Suits)	2021-03-27 — 05:43:36 UTC	Bot-Fiora, griff77, ksfortson, louietyj, wortel	2	6	30
+482103	4	0	Null-Ones (6 Suits)	2021-03-27 — 05:31:49 UTC	Bot-Fiora, griff77, ksfortson, louietyj	3	6	30
+482088	3	0	Null-Ones (6 Suits)	2021-03-27 — 05:18:19 UTC	Bot-Fiora, griff77, ksfortson	4	6	30
+482063	3	0	Null-Ones (6 Suits)	2021-03-27 — 04:48:58 UTC	Bot-Fiora, griff77, ksfortson	6	6	30
+482029	4	0	Null (6 Suits)	2021-03-27 — 04:23:07 UTC	Bot-Fiora, kinkajusrevenge, ksfortson, timotree	13	6	30
+482001	4	0	Null (6 Suits)	2021-03-27 — 03:48:22 UTC	Bot-Fiora, kinkajusrevenge, ksfortson, timotree	18	6	30
+481936	3	30	Rainbow-Fives & Brown (6 Suits)	2021-03-27 — 03:09:59 UTC	kinkajusrevenge, ksfortson, timotree	1	6	30
+481882	3	0	Rainbow-Fives & Brown (6 Suits)	2021-03-27 — 02:32:26 UTC	kinkajusrevenge, ksfortson, timotree	1	6	30
+481855	3	28	Rainbow-Fives & Brown (6 Suits)	2021-03-27 — 02:02:44 UTC	kinkajusrevenge, ksfortson, timotree	1	6	30
+481831	3	0	Rainbow-Fives & Brown (6 Suits)	2021-03-27 — 01:39:32 UTC	kinkajusrevenge, ksfortson, timotree	2	6	30
+481571	2	0	No Variant	2021-03-26 — 21:55:56 UTC	ksfortson, seischems	2288	5	25
+481059	5	24	Null-Ones (5 Suits)	2021-03-26 — 07:08:52 UTC	bjnh, Bot-Fiora, ksfortson, louietyj, wump	3	5	25
+481054	5	0	Null-Ones (5 Suits)	2021-03-26 — 06:38:06 UTC	bjnh, Bot-Fiora, ksfortson, louietyj, wump	3	5	25
+481046	5	26	Dark Brown (6 Suits)	2021-03-26 — 06:16:38 UTC	bjnh, Bot-Fiora, IsabeltheCat, ksfortson, wump	10	6	30
+481028	4	0	Dark Rainbow (6 Suits)	2021-03-26 — 05:40:19 UTC	Bot-Fiora, IsabeltheCat, ksfortson, wump	25	6	30
+481005	3	0	Dark Brown (6 Suits)	2021-03-26 — 05:12:42 UTC	IsabeltheCat, ksfortson, wump	28	6	30
+480967	3	0	Dark Brown (6 Suits)	2021-03-26 — 04:47:13 UTC	IsabeltheCat, ksfortson, wump	32	6	30
+480623	3	15	3 Suits	2021-03-25 — 22:59:17 UTC	Arcee, DarthGandalf, ksfortson	25	3	15
+480589	3	14	3 Suits	2021-03-25 — 22:32:32 UTC	Arcee, DarthGandalf, ksfortson	29	3	15
+480566	3	14	3 Suits	2021-03-25 — 22:15:31 UTC	Arcee, DarthGandalf, ksfortson	39	3	15
+480534	3	14	3 Suits	2021-03-25 — 21:54:18 UTC	Arcee, DarthGandalf, ksfortson	43	3	15
+480509	3	14	3 Suits	2021-03-25 — 21:32:49 UTC	Arcee, DarthGandalf, ksfortson	51	3	15
+480494	3	13	3 Suits	2021-03-25 — 21:19:04 UTC	Arcee, DarthGandalf, ksfortson	74	3	15
+480298	4	0	Dark Brown (6 Suits)	2021-03-25 — 18:33:26 UTC	ksfortson, Onen, possum, Spieler42	17	6	30
+479639	3	30	Rainbow Reversed (6 Suits)	2021-03-24 — 23:48:53 UTC	kevincaseytdk1, knaphill, ksfortson	4	6	30
+479609	3	0	Rainbow Reversed (6 Suits)	2021-03-24 — 23:10:58 UTC	kevincaseytdk1, knaphill, ksfortson	7	6	30
+479602	3	0	Rainbow Reversed (6 Suits)	2021-03-24 — 23:00:41 UTC	knaphill, ksfortson, Wittvector	12	6	30
+478911	3	25	No Variant	2021-03-24 — 06:52:46 UTC	ksfortson, kupoke, MarcLovesDogs	77	5	25
+478905	3	25	No Variant	2021-03-24 — 06:31:30 UTC	ksfortson, kupoke, MarcLovesDogs	76	5	25
+478896	3	0	No Variant	2021-03-24 — 06:17:59 UTC	ksfortson, kupoke, MarcLovesDogs	77	5	25
+478893	5	24	No Variant	2021-03-24 — 06:00:59 UTC	Alkaven5, GoodMorningJay, ksfortson, kupoke, MarcLovesDogs	23	5	25
+478888	5	0	No Variant	2021-03-24 — 05:40:53 UTC	Alkaven5, BunsenHoneydew, ksfortson, kupoke, MarcLovesDogs	21	5	25
+478882	5	22	No Variant	2021-03-24 — 05:26:57 UTC	Alkaven5, BunsenHoneydew, ksfortson, kupoke, MarcLovesDogs	20	5	25
+478500	3	0	Dark Rainbow (5 Suits)	2021-03-24 — 01:00:56 UTC	ksfortson, qqqq, wump	48	5	25
+478479	3	25	White-Ones & Dark Prism (5 Suits)	2021-03-24 — 00:31:08 UTC	Doge, ksfortson, wump	1	5	25
+477831	3	21	White-Ones & Dark Prism (5 Suits)	2021-03-23 — 06:40:42 UTC	bjnh, ksfortson, wump	1	5	25
+477817	3	22	White-Ones & Dark Prism (5 Suits)	2021-03-23 — 06:07:21 UTC	bjnh, ksfortson, wump	2	5	25
+477297	3	0	Pink (3 Suits)	2021-03-22 — 22:19:37 UTC	ksfortson, voss, Wittvector	10	3	15
+477277	3	13	Pink (3 Suits)	2021-03-22 — 22:05:43 UTC	ksfortson, voss, Wittvector	12	3	15
+477254	3	0	Pink (3 Suits)	2021-03-22 — 21:45:24 UTC	ksfortson, voss, Wittvector	13	3	15
+476747	4	23	White-Ones & Dark Prism (5 Suits)	2021-03-22 — 07:51:11 UTC	ksfortson, louietyj, possum, wump	1	5	25
+476744	4	21	White-Ones & Dark Prism (5 Suits)	2021-03-22 — 07:16:27 UTC	ksfortson, louietyj, possum, wump	1	5	25
+476738	4	19	Pink (4 Suits)	2021-03-22 — 06:39:33 UTC	ksfortson, MarcLovesDogs, possum, wump	5	4	20
+476733	4	0	Pink (4 Suits)	2021-03-22 — 06:14:36 UTC	ksfortson, MarcLovesDogs, possum, wump	19	4	20
+476728	3	0	Rainbow & Pink (6 Suits)	2021-03-22 — 05:54:28 UTC	ksfortson, possum, wump	39	6	30
+476715	3	29	White & Brown (6 Suits)	2021-03-22 — 05:18:01 UTC	IsabeltheCat, ksfortson, wump	5	6	30
+476694	3	0	White & Brown (6 Suits)	2021-03-22 — 04:54:37 UTC	IsabeltheCat, ksfortson, wump	6	6	30
+476686	3	0	White & Brown (6 Suits)	2021-03-22 — 04:45:03 UTC	IsabeltheCat, ksfortson, wump	10	6	30
+476677	5	0	White & Brown (6 Suits)	2021-03-22 — 04:35:20 UTC	IsabeltheCat, ksfortson, nwajfromoz, qqqq, wump	4	6	30
+476662	5	29	White & Brown (6 Suits)	2021-03-22 — 04:18:23 UTC	IsabeltheCat, ksfortson, nwajfromoz, qqqq, wump	7	6	30
+476641	5	24	Pink (5 Suits)	2021-03-22 — 03:41:24 UTC	IsabeltheCat, ksfortson, MarcLovesDogs, qqqq, wump	10	5	25
+476587	5	29	Pink (6 Suits)	2021-03-22 — 02:48:54 UTC	griff77, kinkajusrevenge, ksfortson, otterful, possum	18	6	30
+475653	3	25	No Variant	2021-03-21 — 07:32:23 UTC	GoodMorningJay, ksfortson, MarcLovesDogs	77	5	25
+475646	3	25	No Variant	2021-03-21 — 07:06:08 UTC	GoodMorningJay, ksfortson, MarcLovesDogs	79	5	25
+475641	3	24	No Variant	2021-03-21 — 06:40:02 UTC	GoodMorningJay, ksfortson, MarcLovesDogs	106	5	25
+474865	6	29	Rainbow (6 Suits)	2021-03-20 — 17:31:48 UTC	dancherp, DarthGandalf, knaphill, ksfortson, nkkarpov, possum	33	6	30
+474841	6	0	Rainbow (6 Suits)	2021-03-20 — 16:51:11 UTC	dancherp, DarthGandalf, knaphill, ksfortson, nkkarpov, possum	60	6	30
+474638	5	0	Pink (5 Suits)	2021-03-20 — 07:41:42 UTC	Bot-Fiora, kopen, ksfortson, MarcLovesDogs, newduke	9	5	25
+474624	5	22	Black (5 Suits)	2021-03-20 — 07:15:53 UTC	Bot-Fiora, griff77, kopen, ksfortson, newduke	10	5	25
+474608	5	23	Black (5 Suits)	2021-03-20 — 06:43:37 UTC	Bot-Fiora, griff77, kopen, ksfortson, newduke	9	5	25
+474585	5	0	Null-Ones (5 Suits)	2021-03-20 — 06:09:17 UTC	Bot-Fiora, BraydonM, griff77, ksfortson, newduke	3	5	25
+474540	3	25	Muddy Rainbow (5 Suits)	2021-03-20 — 05:28:30 UTC	Bot-Fiora, griff77, ksfortson	37	5	25
+474489	4	30	Rainbow (6 Suits)	2021-03-20 — 04:48:43 UTC	Bot-Fiora, griff77, ksfortson, MarcLovesDogs	185	6	30
+474441	5	29	Brown (6 Suits)	2021-03-20 — 04:11:55 UTC	griff77, indego, jeff10, ksfortson, MarcLovesDogs	12	6	30
+474388	5	25	Rainbow & White (5 Suits)	2021-03-20 — 03:23:40 UTC	cockdestroyer, griff77, indego, ksfortson, timotree	10	5	25
+474328	4	0	Gray (5 Suits)	2021-03-20 — 02:39:52 UTC	griff77, indego, ksfortson, timotree	4	5	25
+474288	4	0	Gray (5 Suits)	2021-03-20 — 02:06:17 UTC	indego, ksfortson, Lel0uch, timotree	4	5	25
+473412	4	25	No Variant	2021-03-19 — 05:52:55 UTC	IsabeltheCat, ksfortson, possum, RaeF	27	5	25
+473396	4	0	No Variant	2021-03-19 — 05:22:10 UTC	IsabeltheCat, ksfortson, possum, RaeF	31	5	25
+472819	4	24	No Variant	2021-03-18 — 21:54:23 UTC	ksfortson, Onen, RaeF, swineherd	31	5	25
+472288	4	25	No Variant	2021-03-18 — 07:23:25 UTC	kevincaseytdk1, ksfortson, MarcLovesDogs, possum	33	5	25
+472281	4	0	White & Prism (6 Suits)	2021-03-18 — 07:02:27 UTC	kevincaseytdk1, ksfortson, possum, wump	10	6	30
+472249	4	0	Dual-Color & White (6 Suits)	2021-03-18 — 05:23:00 UTC	corys, ksfortson, possum, xor	8	6	30
+472239	6	30	Rainbow-Ones & Muddy Rainbow (6 Suits)	2021-03-18 — 05:03:43 UTC	corys, griff77, ksfortson, MarcLovesDogs, possum, xor	1	6	30
+472190	3	25	No Variant	2021-03-18 — 04:00:09 UTC	ksfortson, mestrepoke, wump	49	5	25
+472165	3	25	No Variant	2021-03-18 — 03:34:22 UTC	ksfortson, mestrepoke, wump	49	5	25
+471231	3	27	Brown-Ones & Rainbow (6 Suits)	2021-03-17 — 07:33:00 UTC	ksfortson, louietyj, Spieler42	4	6	30
+471224	3	25	Reversed (5 Suits)	2021-03-17 — 06:45:21 UTC	ksfortson, louietyj, possum	10	5	25
+471211	3	0	Reversed (5 Suits)	2021-03-17 — 06:14:41 UTC	ksfortson, louietyj, possum	17	5	25
+471162	4	0	Reversed (6 Suits)	2021-03-17 — 05:47:51 UTC	bjnh, ksfortson, louietyj, username5	14	6	30
+470036	4	25	Brown-Ones & Prism (5 Suits)	2021-03-16 — 07:04:12 UTC	ksfortson, Lel0uch, orucsoraihc, wump	1	5	25
+469986	4	0	White (6 Suits)	2021-03-16 — 06:33:30 UTC	ksfortson, Lel0uch, MarcLovesDogs, wump	20	6	30
+469933	4	0	Brown & Dark Rainbow (6 Suits)	2021-03-16 — 05:56:33 UTC	Bot-Fiora, griff77, ksfortson, wump	5	6	30
+469896	5	0	White-Ones & Light Pink (4 Suits)	2021-03-16 — 05:07:14 UTC	Bot-Fiora, griff77, kinkajusrevenge, ksfortson, nkkarpov	1	4	20
+469849	5	0	White-Ones & Light Pink (4 Suits)	2021-03-16 — 04:28:40 UTC	Bot-Fiora, griff77, kinkajusrevenge, ksfortson, nkkarpov	1	4	20
+469808	5	22	Prism (5 Suits)	2021-03-16 — 03:59:52 UTC	Arcee, Bot-Fiora, ksfortson, nkkarpov, Onen	3	5	25
+469788	5	0	Prism (5 Suits)	2021-03-16 — 03:34:21 UTC	Arcee, Bot-Fiora, ksfortson, nkkarpov, Onen	3	5	25
+468845	4	26	Rainbow & Prism (6 Suits)	2021-03-15 — 04:31:54 UTC	corys, IsabeltheCat, ksfortson, xor	9	6	30
+468818	4	0	Rainbow & Prism (6 Suits)	2021-03-15 — 03:59:09 UTC	corys, IsabeltheCat, ksfortson, xor	13	6	30
+468801	5	0	Rainbow & Prism (6 Suits)	2021-03-15 — 03:40:02 UTC	bjnh, corys, IsabeltheCat, ksfortson, xor	11	6	30
+468730	3	24	Omni (5 Suits)	2021-03-15 — 02:37:56 UTC	ksfortson, MarcLovesDogs, rz	21	5	25
+468705	3	20	Brown (4 Suits)	2021-03-15 — 02:14:59 UTC	ksfortson, MarcLovesDogs, rz	9	4	20
+468684	3	25	Pink (5 Suits)	2021-03-15 — 01:58:37 UTC	ksfortson, MarcLovesDogs, rz	33	5	25
+467823	3	0	Black & Rainbow (5 Suits)	2021-03-14 — 06:34:48 UTC	corys, IsabeltheCat, ksfortson	24	5	25
+467813	3	0	Black & Rainbow (5 Suits)	2021-03-14 — 06:17:42 UTC	corys, IsabeltheCat, ksfortson	26	5	25
+467807	3	22	Black & Rainbow (5 Suits)	2021-03-14 — 06:04:40 UTC	IsabeltheCat, ksfortson, voss	27	5	25
+467790	4	21	Black & Rainbow (5 Suits)	2021-03-14 — 05:41:18 UTC	IsabeltheCat, ksfortson, voss, wump	9	5	25
+467761	4	0	Black & Rainbow (5 Suits)	2021-03-14 — 05:10:06 UTC	IsabeltheCat, ksfortson, voss, wump	9	5	25
+467739	4	23	Black & Rainbow (5 Suits)	2021-03-14 — 04:51:33 UTC	IsabeltheCat, ksfortson, voss, wump	17	5	25
+467716	2	29	Ambiguous (6 Suits)	2021-03-14 — 04:27:26 UTC	ksfortson, wump	105	6	30
+467674	4	0	Omni (3 Suits)	2021-03-14 — 04:02:39 UTC	kinkajusrevenge, ksfortson, lolthisnotderk, wump	11	3	15
+466595	2	23	Dark Pink (5 Suits)	2021-03-13 — 07:56:54 UTC	ksfortson, MarcLovesDogs	58	5	25
+466565	4	25	No Variant	2021-03-13 — 07:05:57 UTC	GoodMorningJay, ksfortson, MarcLovesDogs, Seyrr	32	5	25
+466536	5	30	Pink (6 Suits)	2021-03-13 — 06:27:57 UTC	Bot-Fiora, corys, ksfortson, possum, wortel	8	6	30
+466506	5	29	Pink (6 Suits)	2021-03-13 — 05:52:18 UTC	Bot-Fiora, corys, ksfortson, possum, wortel	13	6	30
+466484	4	24	Pink (5 Suits)	2021-03-13 — 05:21:45 UTC	Bot-Fiora, corys, ksfortson, possum	69	5	25
+466436	3	0	Rainbow (4 Suits)	2021-03-13 — 04:35:37 UTC	corys, ksfortson, possum	84	4	20
+465496	5	0	Light Pink (6 Suits)	2021-03-12 — 06:36:59 UTC	bjnh, corys, ksfortson, rahsosprout, xor	11	6	30
+464449	4	23	Rainbow & Prism (5 Suits)	2021-03-11 — 07:38:42 UTC	corys, ksfortson, rahsosprout, xor	9	5	25
+464374	5	20	Brown (4 Suits)	2021-03-11 — 05:11:24 UTC	Bot-Fiora, griff77, ksfortson, nkkarpov, otterful	5	4	20
+464348	5	0	Brown (4 Suits)	2021-03-11 — 04:49:16 UTC	Bot-Fiora, griff77, ksfortson, nkkarpov, otterful	7	4	20
+464326	5	17	Brown (4 Suits)	2021-03-11 — 04:20:01 UTC	Bot-Fiora, griff77, ksfortson, nkkarpov, otterful	7	4	20
+464303	5	23	White & Brown (5 Suits)	2021-03-11 — 03:45:00 UTC	griff77, ksfortson, nkkarpov, otterful, torp	6	5	25
+464275	5	25	No Variant	2021-03-11 — 03:08:53 UTC	chris-hamper, griff77, ksfortson, nkkarpov, otterful	22	5	25
+464241	5	0	No Variant	2021-03-11 — 02:37:13 UTC	amartinez, chris-hamper, griff77, ksfortson, otterful	21	5	25
+464216	5	24	No Variant	2021-03-11 — 02:12:36 UTC	amartinez, chris-hamper, griff77, ksfortson, otterful	21	5	25
+461207	4	24	Null (5 Suits)	2021-03-08 — 07:39:40 UTC	Bot-Fiora, griff77, ksfortson, louietyj	8	5	25
+461201	5	0	Null (6 Suits)	2021-03-08 — 07:06:33 UTC	Bot-Fiora, griff77, ksfortson, louietyj, rahsosprout	10	6	30
+461198	5	0	Null (6 Suits)	2021-03-08 — 06:50:11 UTC	Bot-Fiora, griff77, ksfortson, louietyj, rahsosprout	13	6	30
+461191	4	0	Null (5 Suits)	2021-03-08 — 06:34:10 UTC	Bot-Fiora, griff77, ksfortson, rahsosprout	20	5	25
+461129	5	22	Muddy Rainbow (5 Suits)	2021-03-08 — 05:04:52 UTC	Bot-Fiora, griff77, IsabeltheCat, kopen, ksfortson	7	5	25
+461087	5	22	Muddy Rainbow (5 Suits)	2021-03-08 — 04:24:07 UTC	Bot-Fiora, griff77, IsabeltheCat, kopen, ksfortson	8	5	25
+461032	4	23	Muddy Rainbow (5 Suits)	2021-03-08 — 03:47:44 UTC	griff77, IsabeltheCat, kopen, ksfortson	6	5	25
+460989	5	23	Muddy Rainbow (5 Suits)	2021-03-08 — 03:04:28 UTC	griff77, IsabeltheCat, kopen, ksfortson, nkkarpov	9	5	25
+460931	4	23	Muddy Rainbow (5 Suits)	2021-03-08 — 02:18:55 UTC	corys, griff77, ksfortson, nkkarpov	23	5	25
+459892	5	30	Ambiguous (6 Suits)	2021-03-07 — 06:38:43 UTC	Bot-Fiora, griff77, ksfortson, louietyj, possum	4	6	30
+459866	5	0	Ambiguous (6 Suits)	2021-03-07 — 05:58:25 UTC	Bot-Fiora, griff77, ksfortson, louietyj, possum	3	6	30
+459841	5	28	Ambiguous (6 Suits)	2021-03-07 — 05:29:27 UTC	Bot-Fiora, griff77, ksfortson, louietyj, possum	3	6	30
+459174	3	30	Ambiguous (6 Suits)	2021-03-06 — 21:24:15 UTC	bjnh, ksfortson, orucsoraihc	28	6	30
+459152	3	0	Ambiguous (6 Suits)	2021-03-06 — 20:58:31 UTC	bjnh, ksfortson, orucsoraihc	42	6	30
+459134	3	0	Ambiguous (6 Suits)	2021-03-06 — 20:47:35 UTC	bjnh, ksfortson, orucsoraihc	69	6	30
+458702	6	0	Null (5 Suits)	2021-03-06 — 07:14:21 UTC	Bot-Fiora, corys, griff77, ksfortson, possum, xor	2	5	25
+458659	6	0	Null (5 Suits)	2021-03-06 — 06:29:19 UTC	Bot-Fiora, corys, griff77, ksfortson, possum, xor	5	5	25
+458234	3	25	White-Ones & Brown (5 Suits)	2021-03-06 — 00:51:27 UTC	ksfortson, nkkarpov, torp	4	5	25
+458222	3	24	White-Ones & Brown (5 Suits)	2021-03-06 — 00:33:47 UTC	ksfortson, nkkarpov, torp	7	5	25
+458200	3	0	White-Ones & Brown (5 Suits)	2021-03-06 — 00:08:06 UTC	ksfortson, nkkarpov, torp	8	5	25
+458166	4	25	No Variant	2021-03-05 — 23:47:56 UTC	HariKrishnan, ksfortson, nkkarpov, torp	32	5	25
+458124	3	25	No Variant	2021-03-05 — 23:22:26 UTC	HariKrishnan, ksfortson, nkkarpov	89	5	25
+457651	4	0	Ambiguous (6 Suits)	2021-03-05 — 16:29:14 UTC	doctorabi, ksfortson, Spieler42, Wittvector	13	6	30
+457423	3	25	Brown-Ones & Pink (5 Suits)	2021-03-05 — 07:34:26 UTC	ksfortson, louietyj, torp	1	5	25
+457413	3	25	Brown-Ones & Pink (5 Suits)	2021-03-05 — 07:13:35 UTC	ksfortson, louietyj, torp	3	5	25
+457394	4	19	Prism (4 Suits)	2021-03-05 — 06:48:20 UTC	ksfortson, lolthisnotderk, louietyj, torp	13	4	20
+457375	4	18	Prism (4 Suits)	2021-03-05 — 06:30:06 UTC	ksfortson, lolthisnotderk, louietyj, torp	21	4	20
+457340	3	25	No Variant	2021-03-05 — 05:50:57 UTC	GoodMorningJay, ksfortson, MarcLovesDogs	110	5	25
+455133	4	25	Black & White (6 Suits)	2021-03-03 — 08:30:57 UTC	kevincaseytdk1, ksfortson, possum, wortel	9	6	30
+455123	4	28	Black & White (6 Suits)	2021-03-03 — 07:51:35 UTC	dobi, kevincaseytdk1, ksfortson, MarcLovesDogs	22	6	30
+455120	2	0	4 Suits	2021-03-03 — 07:20:08 UTC	indego, ksfortson	128	4	20
+455116	4	0	Rainbow & Omni (6 Suits)	2021-03-03 — 07:01:18 UTC	bjnh, ksfortson, MarcLovesDogs, wump	8	6	30
+454032	4	30	Black (6 Suits)	2021-03-02 — 08:39:55 UTC	ksfortson, lolthisnotderk, possum, robense	25	6	30
+454014	5	0	Black (6 Suits)	2021-03-02 — 08:14:46 UTC	ksfortson, lolthisnotderk, possum, robense, wump	23	6	30
+454004	3	0	Black (6 Suits)	2021-03-02 — 07:55:51 UTC	ksfortson, lolthisnotderk, possum	56	6	30
+453997	3	28	Black (6 Suits)	2021-03-02 — 07:35:20 UTC	ksfortson, lolthisnotderk, possum	66	6	30
+453915	3	0	Black (6 Suits)	2021-03-02 — 05:06:10 UTC	griff77, ksfortson, louietyj	69	6	30
+453866	3	0	Black (6 Suits)	2021-03-02 — 04:23:00 UTC	griff77, ksfortson, louietyj	83	6	30
+453841	4	0	Black (6 Suits)	2021-03-02 — 03:57:40 UTC	griff77, ksfortson, louietyj, other	213	6	30
+453825	4	0	Black (6 Suits)	2021-03-02 — 03:45:59 UTC	griff77, ksfortson, louietyj, other	273	6	30
+453808	3	0	Black (6 Suits)	2021-03-02 — 03:26:15 UTC	griff77, ksfortson, louietyj	95	6	30
+453792	3	0	Black (6 Suits)	2021-03-02 — 03:16:53 UTC	griff77, ksfortson, louietyj	97	6	30
+453773	3	0	Black (6 Suits)	2021-03-02 — 03:01:50 UTC	griff77, ksfortson, louietyj	108	6	30
+453752	3	0	Black (6 Suits)	2021-03-02 — 02:40:30 UTC	griff77, ksfortson, louietyj	119	6	30
+452923	4	25	No Variant	2021-03-01 — 06:59:50 UTC	bjnh, ksfortson, MarcLovesDogs, torp	31	5	25
+452910	4	0	No Variant	2021-03-01 — 06:39:55 UTC	bjnh, ksfortson, MarcLovesDogs, torp	33	5	25
+452902	4	25	No Variant	2021-03-01 — 06:32:36 UTC	bjnh, ksfortson, MarcLovesDogs, torp	36	5	25
+452889	4	23	No Variant	2021-03-01 — 06:12:44 UTC	bjnh, ksfortson, MarcLovesDogs, torp	33	5	25
+452748	5	0	Ambiguous (6 Suits)	2021-03-01 — 03:48:47 UTC	griff77, ksfortson, nkkarpov, otterful, torp	8	6	30
+452712	5	0	Ambiguous (6 Suits)	2021-03-01 — 03:13:46 UTC	griff77, ksfortson, nkkarpov, otterful, torp	9	6	30
+452677	5	26	Ambiguous (6 Suits)	2021-03-01 — 02:51:57 UTC	griff77, ksfortson, nkkarpov, otterful, torp	12	6	30
+452619	3	0	Ambiguous (6 Suits)	2021-03-01 — 02:12:44 UTC	griff77, ksfortson, torp	22	6	30
+452583	5	29	Ambiguous (6 Suits)	2021-03-01 — 01:40:03 UTC	griff77, ksfortson, MarcLovesDogs, otterful, torp	14	6	30
+451783	6	30	Rainbow & Brown (6 Suits)	2021-02-28 — 07:06:10 UTC	Bot-Fiora, colton, griff77, ksfortson, possum, wortel	4	6	30
+451756	6	0	Rainbow & Brown (6 Suits)	2021-02-28 — 06:35:03 UTC	Bot-Fiora, colton, griff77, ksfortson, possum, wortel	4	6	30
+451735	4	0	Rainbow & Brown (6 Suits)	2021-02-28 — 06:12:35 UTC	Bot-Fiora, griff77, ksfortson, possum	14	6	30
+451211	5	0	Black & White (6 Suits)	2021-02-27 — 22:23:54 UTC	Bot-Fiora, CaitlinSmith, eljavi, ksfortson, Spieler42	13	6	30
+450664	3	0	Gray (6 Suits)	2021-02-27 — 06:25:30 UTC	derekcheah, ksfortson, Lel0uch	9	6	30
+450658	3	0	Gray (6 Suits)	2021-02-27 — 06:20:04 UTC	derekcheah, ksfortson, Lel0uch	10	6	30
+450634	3	0	Gray (6 Suits)	2021-02-27 — 06:03:19 UTC	derekcheah, ksfortson, Lel0uch	12	6	30
+450623	3	0	Gray (6 Suits)	2021-02-27 — 05:54:34 UTC	derekcheah, ksfortson, Lel0uch	16	6	30
+450619	3	0	Gray (6 Suits)	2021-02-27 — 05:48:57 UTC	derekcheah, ksfortson, Lel0uch	16	6	30
+450310	4	0	Pink (5 Suits)	2021-02-27 — 00:32:56 UTC	kopen, ksfortson, otterful, torp	6	5	25
+450302	3	25	White-Ones & White (5 Suits)	2021-02-27 — 00:12:59 UTC	kopen, ksfortson, torp	5	5	25
+450294	3	25	Brown (5 Suits)	2021-02-26 — 23:55:08 UTC	kopen, ksfortson, torp	31	5	25
+450280	5	29	White-Ones (6 Suits)	2021-02-26 — 23:32:10 UTC	DarthGandalf, Daryl, kopen, ksfortson, torp	8	6	30
+450264	5	24	No Variant	2021-02-26 — 23:04:28 UTC	DarthGandalf, Daryl, kopen, ksfortson, torp	23	5	25
+449509	4	0	Rainbow-Ones & Rainbow (4 Suits)	2021-02-26 — 03:37:17 UTC	eljavi, griff77, ksfortson, possum	3	4	20
+449480	5	17	Rainbow-Ones & Rainbow (4 Suits)	2021-02-26 — 03:06:05 UTC	eljavi, griff77, ksfortson, possum, wump	1	4	20
+448505	4	25	Rainbow-Ones & Black (5 Suits)	2021-02-25 — 05:40:01 UTC	eljavi, ksfortson, possum, wump	2	5	25
+448479	4	0	Rainbow-Ones & Black (5 Suits)	2021-02-25 — 05:07:55 UTC	eljavi, ksfortson, possum, wump	2	5	25
+448461	4	21	Rainbow-Ones & Black (5 Suits)	2021-02-25 — 04:44:17 UTC	eljavi, ksfortson, possum, wump	3	5	25
+448335	4	27	Gray (6 Suits)	2021-02-25 — 03:01:48 UTC	ksfortson, newduke, Nitrate, nwajfromoz	13	6	30
+447615	6	0	4 Suits	2021-02-24 — 08:55:54 UTC	4head, CptAggro, eliclax, griff77, ksfortson, louietyj	6	4	20
+447606	6	18	4 Suits	2021-02-24 — 08:31:30 UTC	4head, CptAggro, eliclax, griff77, ksfortson, louietyj	11	4	20
+447598	5	19	4 Suits	2021-02-24 — 08:03:31 UTC	4head, eliclax, griff77, ksfortson, xor	23	4	20
+447576	4	24	Rainbow & White (5 Suits)	2021-02-24 — 07:23:42 UTC	corys, griff77, ksfortson, xor	17	5	25
+447236	3	20	Prism (4 Suits)	2021-02-24 — 00:47:39 UTC	griff77, ksfortson, nkkarpov	6	4	20
+447213	3	0	Prism (4 Suits)	2021-02-24 — 00:20:37 UTC	griff77, ksfortson, nkkarpov	27	4	20
+447176	3	30	6 Suits	2021-02-23 — 23:46:07 UTC	asaelr, griff77, ksfortson	7	6	30
+446949	3	22	Up or Down (5 Suits)	2021-02-23 — 20:53:44 UTC	eljavi, ksfortson, Spieler42	57	5	25
+446909	3	21	Up or Down (5 Suits)	2021-02-23 — 20:27:04 UTC	eljavi, ksfortson, Spieler42	88	5	25
+446419	5	22	Rainbow & Brown (5 Suits)	2021-02-23 — 05:31:57 UTC	eljavi, griff77, ksfortson, louietyj, rahsosprout	6	5	25
+446387	5	0	Rainbow & Brown (5 Suits)	2021-02-23 — 05:06:51 UTC	eljavi, griff77, ksfortson, louietyj, rahsosprout	6	5	25
+446367	5	21	Dark Rainbow (5 Suits)	2021-02-23 — 04:46:46 UTC	eljavi, griff77, ksfortson, louietyj, rahsosprout	5	5	25
+446353	5	0	Dark Rainbow (5 Suits)	2021-02-23 — 04:13:26 UTC	eljavi, griff77, ksfortson, louietyj, rahsosprout	6	5	25
+446328	5	21	Dark Rainbow (5 Suits)	2021-02-23 — 03:41:11 UTC	eljavi, griff77, ksfortson, louietyj, rahsosprout	6	5	25
+446261	5	25	White (5 Suits)	2021-02-23 — 02:57:23 UTC	BlueNovember, griff77, ksfortson, louietyj, Nitrate	11	5	25
+445839	6	0	Gray (5 Suits)	2021-02-22 — 21:05:08 UTC	4head, ChristopheAF, ksfortson, Lanvin, MangoPie, squirrel1988	2	5	25
+445787	6	21	Gray (5 Suits)	2021-02-22 — 20:29:59 UTC	4head, ChristopheAF, ksfortson, Lanvin, MangoPie, squirrel1988	2	5	25
+445759	6	0	Gray (5 Suits)	2021-02-22 — 19:56:35 UTC	4head, ChristopheAF, ksfortson, Lanvin, MangoPie, squirrel1988	2	5	25
+445747	6	0	Gray (5 Suits)	2021-02-22 — 19:40:58 UTC	4head, ChristopheAF, ksfortson, Lanvin, MangoPie, squirrel1988	3	5	25
+445372	4	30	Pink (6 Suits)	2021-02-22 — 07:59:05 UTC	ksfortson, MarcLovesDogs, torp, wortel	54	6	30
+445332	4	25	Brown (5 Suits)	2021-02-22 — 07:31:09 UTC	ksfortson, MarcLovesDogs, torp, wortel	11	5	25
+445304	5	17	Brown (4 Suits)	2021-02-22 — 07:05:37 UTC	4head, griff77, ksfortson, rahsosprout, torp	10	4	20
+445294	4	0	Ambiguous (6 Suits)	2021-02-22 — 06:49:26 UTC	bjnh, griff77, ksfortson, torp	20	6	30
+445293	4	0	Ambiguous (6 Suits)	2021-02-22 — 06:47:24 UTC	bjnh, griff77, ksfortson, torp	32	6	30
+445284	4	0	Ambiguous (6 Suits)	2021-02-22 — 06:38:32 UTC	bjnh, griff77, ksfortson, torp	40	6	30
+445275	5	0	Ambiguous (6 Suits)	2021-02-22 — 06:29:37 UTC	bjnh, griff77, ksfortson, possum, torp	18	6	30
+445254	5	0	Ambiguous (6 Suits)	2021-02-22 — 05:58:25 UTC	bjnh, griff77, ksfortson, possum, torp	19	6	30
+445218	5	24	Gray (5 Suits)	2021-02-22 — 05:19:32 UTC	bjnh, griff77, ksfortson, Onen, possum	7	5	25
+445121	3	25	No Variant	2021-02-22 — 03:52:32 UTC	GoodMorningJay, ksfortson, MarcLovesDogs	112	5	25
+445092	3	24	No Variant	2021-02-22 — 03:29:07 UTC	GoodMorningJay, ksfortson, MarcLovesDogs	114	5	25
+445054	4	0	Muddy Rainbow (6 Suits)	2021-02-22 — 02:56:34 UTC	Doge, ksfortson, Nitrate, rahsosprout	25	6	30
+445026	3	0	Muddy Rainbow (6 Suits)	2021-02-22 — 02:25:58 UTC	Doge, ksfortson, Nitrate	37	6	30
+444998	3	0	Muddy Rainbow (6 Suits)	2021-02-22 — 01:58:37 UTC	Doge, ksfortson, Nitrate	49	6	30
+443014	4	25	Brown & Prism (5 Suits)	2021-02-20 — 07:46:40 UTC	katian, ksfortson, Lel0uch, TheDaniMan	10	5	25
+442952	6	0	Prism (6 Suits)	2021-02-20 — 06:13:39 UTC	corys, FerKeth, ksfortson, Lel0uch, Onen, xor	3	6	30
+442889	3	20	Pink (4 Suits)	2021-02-20 — 05:06:02 UTC	Bot-Fiora, griff77, ksfortson	27	4	20
+442854	3	18	Pink (4 Suits)	2021-02-20 — 04:42:54 UTC	Bot-Fiora, griff77, ksfortson	29	4	20
+442818	3	19	Pink (4 Suits)	2021-02-20 — 04:03:21 UTC	Bot-Fiora, griff77, ksfortson	59	4	20
+442788	3	25	Black (5 Suits)	2021-02-20 — 03:36:47 UTC	Bot-Fiora, griff77, ksfortson	31	5	25
+442769	3	0	Black (5 Suits)	2021-02-20 — 03:18:24 UTC	Bot-Fiora, griff77, ksfortson	84	5	25
+442752	3	22	Black (5 Suits)	2021-02-20 — 03:05:18 UTC	Bot-Fiora, griff77, ksfortson	119	5	25
+442728	4	20	Rainbow (4 Suits)	2021-02-20 — 02:40:54 UTC	Bot-Fiora, DarthGandalf, griff77, ksfortson	6	4	20
+442693	4	18	Rainbow (4 Suits)	2021-02-20 — 02:15:59 UTC	Bot-Fiora, DarthGandalf, griff77, ksfortson	11	4	20
+442655	4	0	Rainbow (4 Suits)	2021-02-20 — 01:57:19 UTC	Bot-Fiora, DarthGandalf, griff77, ksfortson	32	4	20
+442052	5	16	4 Suits	2021-02-19 — 17:48:19 UTC	BraydonM, ksfortson, possum, Spieler42, torp	17	4	20
+442044	5	16	4 Suits	2021-02-19 — 17:28:35 UTC	BraydonM, ksfortson, possum, Spieler42, torp	16	4	20
+442031	4	24	Gray (5 Suits)	2021-02-19 — 17:06:10 UTC	BraydonM, ksfortson, ontak, possum	4	5	25
+442017	4	23	Gray (5 Suits)	2021-02-19 — 16:38:32 UTC	BraydonM, ksfortson, ontak, possum	5	5	25
+442009	4	0	Gray (5 Suits)	2021-02-19 — 16:21:32 UTC	BraydonM, ksfortson, ontak, possum	9	5	25
+442003	5	22	White (5 Suits)	2021-02-19 — 16:02:55 UTC	BraydonM, DarthGandalf, ksfortson, ontak, possum	21	5	25
+441833	6	22	Gray (5 Suits)	2021-02-19 — 08:31:29 UTC	4head, Fey, indego, ksfortson, rahsosprout, robense	5	5	25
+441828	4	20	Gray (5 Suits)	2021-02-19 — 08:00:33 UTC	4head, IsabeltheCat, ksfortson, rahsosprout	12	5	25
+441822	4	0	Gray (5 Suits)	2021-02-19 — 07:43:34 UTC	4head, IsabeltheCat, ksfortson, rahsosprout	12	5	25
+441819	4	0	Gray (5 Suits)	2021-02-19 — 07:36:15 UTC	4head, IsabeltheCat, ksfortson, rahsosprout	13	5	25
+441807	5	23	Gray (5 Suits)	2021-02-19 — 07:18:55 UTC	4head, IsabeltheCat, ksfortson, nwajfromoz, rahsosprout	6	5	25
+441609	6	23	No Variant	2021-02-19 — 03:58:05 UTC	eliclax, eljavi, griff77, ksfortson, wolfpack, wump	13	5	25
+441554	4	18	Rainbow (4 Suits)	2021-02-19 — 03:08:58 UTC	griff77, ksfortson, nkkarpov, wump	14	4	20
+441525	4	19	Rainbow (4 Suits)	2021-02-19 — 02:37:51 UTC	griff77, ksfortson, nkkarpov, wump	17	4	20
+441173	3	27	White & Brown (6 Suits)	2021-02-18 — 21:24:45 UTC	ksfortson, MangoPie, Spieler42	12	6	30
+441140	3	0	White & Brown (6 Suits)	2021-02-18 — 20:57:06 UTC	ksfortson, MangoPie, Spieler42	16	6	30
+441111	3	0	White & Brown (6 Suits)	2021-02-18 — 20:36:02 UTC	ksfortson, MangoPie, Spieler42	20	6	30
+440375	5	29	Light Pink (6 Suits)	2021-02-17 — 23:11:23 UTC	indego, ksfortson, Lanvin, newduke, rz	1	6	30
+440321	5	0	Light Pink (6 Suits)	2021-02-17 — 22:26:27 UTC	indego, ksfortson, Lanvin, newduke, rz	1	6	30
+440296	5	0	Light Pink (6 Suits)	2021-02-17 — 22:03:04 UTC	indego, ksfortson, Lanvin, newduke, rz	1	6	30
+440265	3	0	Gray (5 Suits)	2021-02-17 — 21:37:54 UTC	indego, ksfortson, rz	35	5	25
+440048	3	21	Gray (5 Suits)	2021-02-17 — 18:12:30 UTC	Fey, ksfortson, robense	4	5	25
+440023	3	0	Gray (5 Suits)	2021-02-17 — 17:46:28 UTC	Fey, ksfortson, robense	11	5	25
+440016	4	20	Gray (5 Suits)	2021-02-17 — 17:25:29 UTC	DarthGandalf, ksfortson, Onen, robense	22	5	25
+439773	4	25	No Variant	2021-02-17 — 06:03:20 UTC	Alkaven5, ksfortson, kupoke, MarcLovesDogs	32	5	25
+439650	6	0	Prism (5 Suits)	2021-02-17 — 03:38:15 UTC	4head, Bot-Fiora, griff77, ksfortson, nwajfromoz, padi	2	5	25
+439639	5	0	Prism (4 Suits)	2021-02-17 — 03:21:10 UTC	4head, Bot-Fiora, griff77, ksfortson, nwajfromoz	7	4	20
+439634	5	0	Prism (4 Suits)	2021-02-17 — 03:17:36 UTC	4head, Bot-Fiora, griff77, ksfortson, nwajfromoz	7	4	20
+439624	5	0	Prism (4 Suits)	2021-02-17 — 03:00:49 UTC	4head, Bot-Fiora, griff77, ksfortson, nwajfromoz	6	4	20
+439618	5	18	Prism (4 Suits)	2021-02-17 — 02:49:48 UTC	4head, Bot-Fiora, griff77, ksfortson, nwajfromoz	10	4	20
+439489	3	24	Gray (5 Suits)	2021-02-16 — 23:13:38 UTC	jeff10, ksfortson, Wittvector	17	5	25
+439295	3	22	Black (5 Suits)	2021-02-16 — 20:02:58 UTC	ksfortson, Onen, VerySloppyTwo	36	5	25
+439279	3	22	Black (5 Suits)	2021-02-16 — 19:47:25 UTC	ksfortson, Onen, VerySloppyTwo	55	5	25
+439260	4	30	Prism (6 Suits)	2021-02-16 — 19:23:08 UTC	Denchulitas, eljavi, ksfortson, Onen	1	6	30
+438965	4	24	No Variant	2021-02-16 — 07:06:57 UTC	Alkaven5, ArmyKnife, ksfortson, MarcLovesDogs	34	5	25
+438942	4	24	No Variant	2021-02-16 — 06:27:10 UTC	Alkaven5, GoodMorningJay, ksfortson, MarcLovesDogs	34	5	25
+438909	3	25	No Variant	2021-02-16 — 05:56:22 UTC	GoodMorningJay, ksfortson, MarcLovesDogs	130	5	25
+438877	5	0	White-Ones & Black (5 Suits)	2021-02-16 — 05:30:19 UTC	eljavi, ksfortson, nkkarpov, torp, wump	1	5	25
+438858	5	20	White-Ones & Black (5 Suits)	2021-02-16 — 05:09:21 UTC	eljavi, ksfortson, nkkarpov, torp, wump	2	5	25
+438834	4	26	Prism (6 Suits)	2021-02-16 — 04:39:14 UTC	eljavi, ksfortson, wolfpack, wump	1	6	30
+438819	3	22	No Variant	2021-02-16 — 04:10:02 UTC	eljavi, ksfortson, wolfpack	137	5	25
+438795	2	19	4 Suits	2021-02-16 — 03:49:09 UTC	eljavi, ksfortson	171	4	20
+438779	2	0	4 Suits	2021-02-16 — 03:33:24 UTC	eljavi, ksfortson	244	4	20
+437903	4	19	Pink (4 Suits)	2021-02-15 — 06:51:36 UTC	4head, ksfortson, newduke, torp	8	4	20
+437891	4	0	Pink (4 Suits)	2021-02-15 — 06:30:33 UTC	4head, ksfortson, newduke, torp	10	4	20
+437881	4	0	Pink (4 Suits)	2021-02-15 — 06:13:43 UTC	4head, ksfortson, newduke, torp	13	4	20
+437879	3	30	Brown (6 Suits)	2021-02-15 — 06:06:53 UTC	4head, ksfortson, torp	61	6	30
+437858	3	0	Brown (6 Suits)	2021-02-15 — 05:45:51 UTC	4head, ksfortson, torp	84	6	30
+437835	4	22	White & Dark Pink (5 Suits)	2021-02-15 — 05:21:42 UTC	4head, griff77, ksfortson, torp	4	5	25
+437818	4	0	White & Dark Pink (5 Suits)	2021-02-15 — 05:02:27 UTC	4head, griff77, ksfortson, torp	3	5	25
+437807	4	0	White & Dark Pink (5 Suits)	2021-02-15 — 04:51:53 UTC	4head, griff77, ksfortson, torp	3	5	25
+437799	4	0	White & Dark Pink (5 Suits)	2021-02-15 — 04:45:35 UTC	4head, griff77, ksfortson, torp	3	5	25
+437784	4	22	White & Dark Pink (5 Suits)	2021-02-15 — 04:30:31 UTC	4head, griff77, ksfortson, torp	4	5	25
+437762	4	21	White & Dark Pink (5 Suits)	2021-02-15 — 04:09:24 UTC	4head, griff77, ksfortson, torp	4	5	25
+437734	4	0	No Variant	2021-02-15 — 03:35:10 UTC	bot_41, ksfortson, mestrepoke, ukass666	793	5	25
+437601	4	0	Dark Pink (6 Suits)	2021-02-15 — 01:13:13 UTC	ksfortson, Lanvin, TimeHoodie, torp	3	6	30
+437597	4	0	Dark Pink (6 Suits)	2021-02-15 — 01:03:20 UTC	ksfortson, Lanvin, TimeHoodie, torp	4	6	30
+437581	4	27	Black & Pink (6 Suits)	2021-02-15 — 00:44:29 UTC	4head, ksfortson, Lanvin, TimeHoodie	18	6	30
+437139	3	22	White-Ones & Black (5 Suits)	2021-02-14 — 18:55:55 UTC	ksfortson, newduke, wump	6	5	25
+437084	3	30	Prism (6 Suits)	2021-02-14 — 17:59:58 UTC	Damian000, Denchulitas, ksfortson	11	6	30
+437050	3	0	Prism (6 Suits)	2021-02-14 — 17:30:44 UTC	Damian000, Denchulitas, ksfortson	12	6	30
+437025	6	30	Prism (6 Suits)	2021-02-14 — 17:09:11 UTC	ChristopheAF, Damian000, Denchulitas, frosty104, ksfortson, sephiroth	2	6	30
+436724	3	29	White Reversed (6 Suits)	2021-02-14 — 09:22:24 UTC	ksfortson, rz, wump	21	6	30
+436718	2	28	Rainbow (6 Suits)	2021-02-14 — 08:57:32 UTC	ksfortson, wump	254	6	30
+436705	2	30	6 Suits	2021-02-14 — 08:28:10 UTC	ksfortson, wump	851	6	30
+436409	5	24	Muddy Rainbow (5 Suits)	2021-02-14 — 04:10:18 UTC	catula, eljavi, griff77, ksfortson, ricardodd	14	5	25
+436343	5	27	Black (6 Suits)	2021-02-14 — 03:17:18 UTC	eljavi, griff77, ksfortson, louietyj, ricardodd	13	6	30
+436307	5	20	Black & Prism (5 Suits)	2021-02-14 — 02:35:28 UTC	griff77, IsabeltheCat, ksfortson, nkkarpov, ricardodd	2	5	25
+436266	5	20	Black & Prism (5 Suits)	2021-02-14 — 01:56:13 UTC	griff77, IsabeltheCat, ksfortson, nkkarpov, ricardodd	2	5	25
+436149	5	24	No Variant	2021-02-13 — 23:54:58 UTC	Denchulitas, griff77, ksfortson, ontak, sephiroth	19	5	25
+435571	3	25	White (5 Suits)	2021-02-13 — 08:12:51 UTC	4head, ksfortson, Stormylu	48	5	25
+435562	3	22	White (5 Suits)	2021-02-13 — 07:50:30 UTC	4head, ksfortson, Stormylu	126	5	25
+435420	3	22	No Variant	2021-02-13 — 05:46:19 UTC	GoodMorningJay, ksfortson, MarcLovesDogs	141	5	25
+435375	3	25	No Variant	2021-02-13 — 05:23:33 UTC	GoodMorningJay, ksfortson, MarcLovesDogs	151	5	25
+435287	3	22	No Variant	2021-02-13 — 04:46:10 UTC	GoodMorningJay, ksfortson, MarcLovesDogs	167	5	25
+435227	6	30	Black (6 Suits)	2021-02-13 — 04:16:46 UTC	dobi, eljavi, ksfortson, nkkarpov, rz, wump	8	6	30
+435143	5	0	Brown (6 Suits)	2021-02-13 — 03:25:55 UTC	eljavi, ksfortson, Lanvin, rz, wump	6	6	30
+435098	4	20	Pink & Prism (4 Suits)	2021-02-13 — 02:51:34 UTC	ksfortson, Lanvin, ricardodd, wump	5	4	20
+434917	3	30	Pink & White (6 Suits)	2021-02-13 — 00:16:59 UTC	ksfortson, rz, wump	15	6	30
+434887	2	22	White-Ones & Black (5 Suits)	2021-02-12 — 23:53:12 UTC	ksfortson, wump	8	5	25
+434805	4	23	Dark Prism (5 Suits)	2021-02-12 — 22:08:25 UTC	4head, dobi, ksfortson, wump	10	5	25
+434199	5	23	Light Pink (5 Suits)	2021-02-12 — 06:02:32 UTC	ksfortson, lolthisnotderk, nkkarpov, otterful, torp	3	5	25
+434191	5	0	Light Pink (5 Suits)	2021-02-12 — 05:45:19 UTC	ksfortson, lolthisnotderk, nkkarpov, otterful, torp	7	5	25
+434176	5	23	Light Pink (5 Suits)	2021-02-12 — 05:29:36 UTC	ksfortson, lolthisnotderk, nkkarpov, otterful, torp	6	5	25
+434150	3	10	Light Pink (3 Suits)	2021-02-12 — 05:06:31 UTC	ksfortson, nkkarpov, torp	19	3	15
+433581	4	20	Rainbow (4 Suits)	2021-02-11 — 21:24:20 UTC	HariKrishnan, kevincaseytdk1, ksfortson, newduke	17	4	20
+433536	4	19	Rainbow (4 Suits)	2021-02-11 — 20:53:34 UTC	HariKrishnan, kevincaseytdk1, ksfortson, newduke	19	4	20
+433514	4	23	Dark Rainbow (5 Suits)	2021-02-11 — 20:32:52 UTC	4head, eljavi, ksfortson, Pimak	11	5	25
+433497	4	23	Dark Rainbow (5 Suits)	2021-02-11 — 20:13:19 UTC	4head, eljavi, ksfortson, Pimak	14	5	25
+433211	5	25	Pink (5 Suits)	2021-02-11 — 07:24:01 UTC	ksfortson, lolthisnotderk, MarcLovesDogs, rahsosprout, torp	12	5	25
+433193	4	21	Black (5 Suits)	2021-02-11 — 06:43:42 UTC	ksfortson, lolthisnotderk, rahsosprout, torp	23	5	25
+433185	4	24	Black (5 Suits)	2021-02-11 — 06:13:31 UTC	ksfortson, lolthisnotderk, rahsosprout, torp	22	5	25
+433057	3	0	Black (5 Suits)	2021-02-11 — 03:39:26 UTC	ksfortson, nkkarpov, torp	43	5	25
+433031	3	0	Black (5 Suits)	2021-02-11 — 03:24:10 UTC	ksfortson, nkkarpov, torp	44	5	25
+433005	3	30	Prism (6 Suits)	2021-02-11 — 03:09:28 UTC	ksfortson, MathNoob, torp	15	6	30
+432968	3	0	Black (5 Suits)	2021-02-11 — 02:35:25 UTC	ksfortson, MathNoob, torp	51	5	25
+432832	5	0	Dark Rainbow (5 Suits)	2021-02-11 — 00:31:20 UTC	griff77, ksfortson, nkkarpov, rahsosprout, torp	7	5	25
+432800	5	20	Dark Rainbow (5 Suits)	2021-02-10 — 23:51:54 UTC	griff77, ksfortson, nkkarpov, rahsosprout, torp	9	5	25
+432776	5	21	Dark Rainbow (5 Suits)	2021-02-10 — 23:17:11 UTC	griff77, ksfortson, nkkarpov, rahsosprout, torp	9	5	25
+432744	5	14	4 Suits	2021-02-10 — 22:46:42 UTC	jeff10, ksfortson, rahsosprout, torp, vergoodhanabi	12	4	20
+431296	6	22	Rainbow (5 Suits)	2021-02-09 — 19:30:21 UTC	4head, CaitlinSmith, griff77, jian01, ksfortson, LautiManzano	14	5	25
+430911	5	21	Black (5 Suits)	2021-02-09 — 07:01:46 UTC	bjnh, eljavi, ksfortson, lolthisnotderk, rahsosprout	20	5	25
+430899	4	0	Black (5 Suits)	2021-02-09 — 06:35:10 UTC	eljavi, ksfortson, lolthisnotderk, rahsosprout	32	5	25
+430895	4	0	No Variant	2021-02-09 — 06:19:18 UTC	cykai, ksfortson, lolthisnotderk, rahsosprout	35	5	25
+430889	3	25	No Variant	2021-02-09 — 05:58:06 UTC	GoodMorningJay, ksfortson, MarcLovesDogs	164	5	25
+430528	3	29	White (6 Suits)	2021-02-08 — 23:02:28 UTC	Denchulitas, ksfortson, Onen	10	6	30
+430462	3	25	No Variant	2021-02-08 — 22:33:38 UTC	DarthGandalf, ksfortson, wump	53	5	25
+430382	3	24	Black (5 Suits)	2021-02-08 — 21:50:59 UTC	dobi, ksfortson, wump	35	5	25
+430347	3	0	No Variant	2021-02-08 — 21:33:06 UTC	DarthGandalf, ksfortson, PMP	77	5	25
+426867	3	27	Prism (6 Suits)	2021-02-05 — 22:08:31 UTC	ksfortson, narabio, nkkarpov	18	6	30
+426806	3	0	Prism (6 Suits)	2021-02-05 — 21:30:57 UTC	ksfortson, narabio, nkkarpov	18	6	30
+426777	3	20	4 Suits	2021-02-05 — 21:08:37 UTC	ksfortson, narabio, nkkarpov	59	4	20
+426322	3	25	Rainbow & White (5 Suits)	2021-02-05 — 08:03:22 UTC	4head, ksfortson, rahsosprout	37	5	25
+426317	4	29	Light Pink & Prism (6 Suits)	2021-02-05 — 07:40:17 UTC	4head, ksfortson, rahsosprout, wump	4	6	30
+426131	3	0	Pink-Fives & Rainbow (6 Suits)	2021-02-05 — 03:39:17 UTC	ksfortson, rz, wump	7	6	30
+426110	3	0	Pink-Fives & Rainbow (6 Suits)	2021-02-05 — 03:14:04 UTC	ksfortson, rz, wump	9	6	30
+425121	5	0	Gray (5 Suits)	2021-02-04 — 05:32:02 UTC	4head, griff77, ksfortson, nkkarpov, rahsosprout	7	5	25
+425083	5	23	Gray (5 Suits)	2021-02-04 — 04:52:30 UTC	4head, griff77, ksfortson, nkkarpov, rahsosprout	10	5	25
+425043	4	22	Gray (5 Suits)	2021-02-04 — 04:19:23 UTC	4head, griff77, ksfortson, nkkarpov	33	5	25
+424999	3	25	Brown (5 Suits)	2021-02-04 — 03:34:48 UTC	griff77, ksfortson, nkkarpov	38	5	25
+423802	5	30	White (6 Suits)	2021-02-03 — 05:20:08 UTC	bjnh, eljavi, ksfortson, nkkarpov, possum	14	6	30
+423308	4	23	Pink & White (5 Suits)	2021-02-02 — 21:29:37 UTC	CaitlinSmith, ksfortson, newduke, padi	2	5	25
+423261	4	0	Pink & White (5 Suits)	2021-02-02 — 20:57:05 UTC	CaitlinSmith, ksfortson, newduke, padi	2	5	25
+423246	5	0	Black (5 Suits)	2021-02-02 — 20:44:04 UTC	CaitlinSmith, eljavi, ksfortson, newduke, padi	9	5	25
+423236	5	0	Black (5 Suits)	2021-02-02 — 20:37:34 UTC	CaitlinSmith, eljavi, ksfortson, newduke, padi	9	5	25
+423217	5	22	Black (5 Suits)	2021-02-02 — 20:17:40 UTC	CaitlinSmith, eljavi, ksfortson, newduke, padi	13	5	25
+423194	4	0	Up or Down (5 Suits)	2021-02-02 — 19:57:38 UTC	bjnh, ksfortson, narabio, newduke	19	5	25
+423183	4	0	Up or Down (5 Suits)	2021-02-02 — 19:48:59 UTC	bjnh, ksfortson, narabio, newduke	21	5	25
+423134	4	24	Up or Down (5 Suits)	2021-02-02 — 19:19:44 UTC	bjnh, ksfortson, narabio, newduke	25	5	25
+422847	4	0	Gray Pink (5 Suits)	2021-02-02 — 07:57:40 UTC	dobi, ksfortson, TheDaniMan, wump	12	5	25
+422781	5	0	Black (6 Suits)	2021-02-02 — 05:20:26 UTC	Bot-Fiora, eljavi, ksfortson, newduke, nkkarpov	23	6	30
+422765	5	26	Black (6 Suits)	2021-02-02 — 04:48:32 UTC	Bot-Fiora, eljavi, ksfortson, newduke, nkkarpov	21	6	30
+422738	5	0	Black (6 Suits)	2021-02-02 — 04:10:48 UTC	Bot-Fiora, eljavi, ksfortson, newduke, nkkarpov	21	6	30
+422718	6	19	Brown (4 Suits)	2021-02-02 — 03:46:57 UTC	Bot-Fiora, indego, jeff10, ksfortson, newduke, nkkarpov	2	4	20
+422698	3	0	Brown (4 Suits)	2021-02-02 — 03:23:00 UTC	indego, ksfortson, newduke	11	4	20
+422583	5	29	Brown-Ones & Rainbow (6 Suits)	2021-02-02 — 01:16:52 UTC	ksfortson, Lanvin, thejazzagent, TimeHoodie, voss	1	6	30
+421990	4	25	No Variant	2021-02-01 — 08:05:54 UTC	4head, ksfortson, possum, skyblueexo	36	5	25
+421967	4	25	No Variant	2021-02-01 — 07:36:42 UTC	ksfortson, possum, skyblueexo, wump	36	5	25
+421944	3	22	Gray (5 Suits)	2021-02-01 — 06:57:42 UTC	dobi, ksfortson, MarcLovesDogs	37	5	25
+421926	4	23	Gray (5 Suits)	2021-02-01 — 06:26:21 UTC	dobi, ksfortson, MangoPie, rahsosprout	27	5	25
+421842	4	29	Black (6 Suits)	2021-02-01 — 04:27:52 UTC	Denchulitas, ksfortson, nkkarpov, rahsosprout	55	6	30
+421815	4	0	Black (6 Suits)	2021-02-01 — 04:03:14 UTC	Denchulitas, ksfortson, nkkarpov, rahsosprout	74	6	30
+421785	4	0	Black (6 Suits)	2021-02-01 — 03:33:26 UTC	Denchulitas, ksfortson, nkkarpov, rahsosprout	90	6	30
+421745	3	0	Black (6 Suits)	2021-02-01 — 02:56:02 UTC	Denchulitas, ksfortson, nkkarpov	125	6	30
+421703	3	25	Black (6 Suits)	2021-02-01 — 02:18:23 UTC	4head, ksfortson, MarcLovesDogs	134	6	30
+421566	3	0	Black (5 Suits)	2021-02-01 — 00:02:17 UTC	ksfortson, nkkarpov, wump	40	5	25
+421540	3	0	Black (5 Suits)	2021-01-31 — 23:45:20 UTC	ksfortson, nkkarpov, wump	66	5	25
+421529	4	20	Brown-Ones & Rainbow (4 Suits)	2021-01-31 — 23:39:28 UTC	ksfortson, Lanvin, nkkarpov, wump	3	4	20
+421460	6	23	No Variant	2021-01-31 — 22:44:37 UTC	Bot-Fiora, Daryl, Denchulitas, Doge, ksfortson, MarcLovesDogs	17	5	25
+421420	6	0	No Variant	2021-01-31 — 22:09:42 UTC	Bot-Fiora, Daryl, Denchulitas, Doge, ksfortson, MarcLovesDogs	18	5	25
+420730	5	17	Rainbow (4 Suits)	2021-01-31 — 05:06:32 UTC	ksfortson, lolthisnotderk, nkkarpov, possum, torp	20	4	20
+420685	5	25	Rainbow-Ones & White (5 Suits)	2021-01-31 — 04:39:21 UTC	ksfortson, lolthisnotderk, nkkarpov, possum, torp	2	5	25
+420650	5	21	Rainbow-Ones & White (5 Suits)	2021-01-31 — 04:17:58 UTC	ksfortson, lolthisnotderk, nkkarpov, possum, torp	2	5	25
+420457	3	0	White & Prism (5 Suits)	2021-01-31 — 02:23:59 UTC	Doge, ksfortson, poofart123	2	5	25
+420428	4	17	Rainbow & Prism (4 Suits)	2021-01-31 — 01:56:36 UTC	Doge, ksfortson, Lanvin, poofart123	7	4	20
+420402	3	27	Black & White (6 Suits)	2021-01-31 — 01:32:57 UTC	ksfortson, Lanvin, poofart123	47	6	30
+419634	5	22	Rainbow (5 Suits)	2021-01-30 — 07:06:23 UTC	4head, eljavi, ksfortson, otterful, wump	12	5	25
+419609	5	23	Rainbow (5 Suits)	2021-01-30 — 06:31:45 UTC	4head, eljavi, ksfortson, otterful, wump	12	5	25
+419517	3	20	Prism (4 Suits)	2021-01-30 — 04:38:15 UTC	ksfortson, Onen, poofart123	11	4	20
+418819	3	24	White & Prism (5 Suits)	2021-01-29 — 20:48:15 UTC	bjnh, dobi, ksfortson	7	5	25
+418471	3	30	Light Pink (6 Suits)	2021-01-29 — 08:07:12 UTC	duckmedic, ksfortson, wump	16	6	30
+418441	3	25	White & Prism (5 Suits)	2021-01-29 — 07:05:17 UTC	derekcheah, ksfortson, orucsoraihc	3	5	25
+418419	3	0	Black & Prism (6 Suits)	2021-01-29 — 06:32:04 UTC	ksfortson, Onen, orucsoraihc	22	6	30
+418407	3	25	White & Prism (5 Suits)	2021-01-29 — 06:18:13 UTC	ksfortson, Onen, orucsoraihc	6	5	25
+418328	3	0	Black (6 Suits)	2021-01-29 — 04:38:50 UTC	ksfortson, PMP, StKildaFan	60	6	30
+418320	3	0	Black (6 Suits)	2021-01-29 — 04:34:42 UTC	ksfortson, PMP, StKildaFan	62	6	30
+418312	3	25	Black (6 Suits)	2021-01-29 — 04:28:30 UTC	ksfortson, PMP, StKildaFan	71	6	30
+418275	3	0	Black (6 Suits)	2021-01-29 — 04:03:02 UTC	ksfortson, PMP, StKildaFan	74	6	30
+418263	3	0	Black (6 Suits)	2021-01-29 — 03:49:39 UTC	ksfortson, PMP, StKildaFan	80	6	30
+418246	2	20	Light Pink (4 Suits)	2021-01-29 — 03:31:57 UTC	ksfortson, StKildaFan	25	4	20
+417801	4	25	No Variant	2021-01-28 — 20:09:27 UTC	4head, HariKrishnan, ksfortson, lolthisnotderk	39	5	25
+417787	3	25	No Variant	2021-01-28 — 19:47:09 UTC	4head, HariKrishnan, ksfortson	148	5	25
+417771	3	0	No Variant	2021-01-28 — 19:28:35 UTC	4head, HariKrishnan, ksfortson	170	5	25
+417759	3	0	No Variant	2021-01-28 — 19:14:07 UTC	4head, HariKrishnan, ksfortson	201	5	25
+417736	3	24	No Variant	2021-01-28 — 18:52:27 UTC	HariKrishnan, ksfortson, Onen	199	5	25
+417719	4	0	No Variant	2021-01-28 — 18:38:12 UTC	dobi, jian01, ksfortson, Onen	39	5	25
+417311	4	0	Color Mute (5 Suits)	2021-01-28 — 04:46:33 UTC	indego, ksfortson, Lanvin, newduke	1	5	25
+417298	4	0	Color Mute (5 Suits)	2021-01-28 — 04:37:06 UTC	indego, ksfortson, Lanvin, newduke	3	5	25
+415718	4	22	Prism (5 Suits)	2021-01-26 — 21:48:00 UTC	Daryl, Denchulitas, griff77, ksfortson	4	5	25
+415704	4	0	Prism (5 Suits)	2021-01-26 — 21:28:49 UTC	Daryl, Denchulitas, griff77, ksfortson	4	5	25
+415685	6	21	Rainbow (5 Suits)	2021-01-26 — 21:06:28 UTC	Daryl, Denchulitas, griff77, ksfortson, Lanvin, VerySloppyTwo	5	5	25
+415641	6	23	Rainbow (5 Suits)	2021-01-26 — 20:32:30 UTC	Daryl, Denchulitas, griff77, ksfortson, Lanvin, VerySloppyTwo	8	5	25
+414945	5	25	Brown & Prism (5 Suits)	2021-01-25 — 22:43:52 UTC	asaelr, Feich59, ksfortson, rahsosprout, torp	5	5	25
+414912	4	25	Pink & Brown (5 Suits)	2021-01-25 — 22:02:36 UTC	ksfortson, rahsosprout, robense, torp	10	5	25
+414903	4	0	Pink & Brown (5 Suits)	2021-01-25 — 21:43:08 UTC	ksfortson, rahsosprout, robense, torp	15	5	25
+414466	3	24	White & Prism (5 Suits)	2021-01-25 — 08:35:31 UTC	ksfortson, rahsosprout, wump	10	5	25
+414461	3	0	White & Prism (5 Suits)	2021-01-25 — 07:40:02 UTC	ejwu, ksfortson, wump	16	5	25
+414342	4	0	Black & White (5 Suits)	2021-01-25 — 04:30:12 UTC	bjnh, ksfortson, Onen, wump	14	5	25
+414307	4	0	Black & White (5 Suits)	2021-01-25 — 04:02:56 UTC	bjnh, ksfortson, Onen, wump	16	5	25
+414030	3	0	White & Prism (5 Suits)	2021-01-24 — 23:50:16 UTC	Asddsa76, kinkajusrevenge, ksfortson	17	5	25
+414018	4	23	No Variant	2021-01-24 — 23:18:07 UTC	4head, ksfortson, MarcLovesDogs, otterful	70	5	25
+413360	5	0	Rainbow & White (5 Suits)	2021-01-24 — 06:27:04 UTC	eljavi, ksfortson, lolthisnotderk, rahsosprout, torp	7	5	25
+413326	4	0	Brown (5 Suits)	2021-01-24 — 05:55:42 UTC	eljavi, ksfortson, rahsosprout, torp	27	5	25
+413301	5	0	White & Prism (5 Suits)	2021-01-24 — 05:41:28 UTC	eljavi, ksfortson, lolthisnotderk, rahsosprout, torp	5	5	25
+413286	5	24	White & Prism (5 Suits)	2021-01-24 — 05:29:56 UTC	eljavi, ksfortson, lolthisnotderk, rahsosprout, torp	7	5	25
+413260	4	0	White & Prism (5 Suits)	2021-01-24 — 05:03:35 UTC	eljavi, ksfortson, lolthisnotderk, torp	11	5	25
+413236	4	25	Prism (5 Suits)	2021-01-24 — 04:39:43 UTC	eljavi, ksfortson, lolthisnotderk, torp	4	5	25
+413200	4	24	White & Brown (5 Suits)	2021-01-24 — 04:09:35 UTC	4head, ksfortson, lolthisnotderk, torp	18	5	25
+413032	4	0	Dark Prism (6 Suits)	2021-01-24 — 01:11:31 UTC	indego, ksfortson, Lanvin, Zamiel	20	6	30
+412974	5	0	No Variant	2021-01-23 — 23:52:25 UTC	andre05, Hoodie, indego, ksfortson, sephiroth	23	5	25
+412950	5	23	No Variant	2021-01-23 — 23:33:09 UTC	andre05, Hoodie, indego, ksfortson, sephiroth	25	5	25
+412164	5	0	Prism (5 Suits)	2021-01-23 — 07:12:54 UTC	ksfortson, lolthisnotderk, otterful, rahsosprout, torp	3	5	25
+412155	5	0	Prism (5 Suits)	2021-01-23 — 06:55:54 UTC	ksfortson, lolthisnotderk, otterful, rahsosprout, torp	3	5	25
+412151	5	0	Prism (5 Suits)	2021-01-23 — 06:51:42 UTC	ksfortson, lolthisnotderk, otterful, rahsosprout, torp	5	5	25
+412138	4	24	Rainbow & Brown (5 Suits)	2021-01-23 — 06:34:34 UTC	ksfortson, otterful, rahsosprout, torp	9	5	25
+412113	4	24	Rainbow & Brown (5 Suits)	2021-01-23 — 06:01:00 UTC	ksfortson, otterful, rahsosprout, torp	17	5	25
+412093	6	0	Rainbow (4 Suits)	2021-01-23 — 05:38:17 UTC	IsabeltheCat, ksfortson, lolthisnotderk, otterful, rahsosprout, torp	6	4	20
+412070	6	19	Rainbow (4 Suits)	2021-01-23 — 05:15:12 UTC	IsabeltheCat, ksfortson, lolthisnotderk, otterful, rahsosprout, torp	6	4	20
+412036	6	25	Prism (5 Suits)	2021-01-23 — 04:52:43 UTC	IsabeltheCat, ksfortson, lolthisnotderk, otterful, skyblueexo, torp	6	5	25
+411969	4	23	No Variant	2021-01-23 — 04:13:24 UTC	ksfortson, lolthisnotderk, otterful, skyblueexo	41	5	25
+411942	5	0	No Variant	2021-01-23 — 03:47:48 UTC	FerKeth, ksfortson, lolthisnotderk, otterful, skyblueexo	457	5	25
+411659	3	0	4 Suits	2021-01-22 — 22:39:09 UTC	indego, ksfortson, Spieler42	70	4	20
+411640	3	0	4 Suits	2021-01-22 — 22:18:47 UTC	indego, ksfortson, Spieler42	90	4	20
+411627	2	25	No Variant	2021-01-22 — 22:02:30 UTC	ksfortson, Spieler42	948	5	25
+411273	3	18	Prism (4 Suits)	2021-01-22 — 09:15:54 UTC	ksfortson, louietyj, rahsosprout	13	4	20
+411266	3	16	Prism (4 Suits)	2021-01-22 — 08:43:31 UTC	ksfortson, louietyj, rahsosprout	21	4	20
+411262	3	0	Prism (6 Suits)	2021-01-22 — 08:16:17 UTC	duckmedic, ksfortson, rahsosprout	16	6	30
+410812	5	24	Rainbow-Ones & White (5 Suits)	2021-01-21 — 22:02:29 UTC	indego, kevincaseytdk1, ksfortson, robense, rz	3	5	25
+410387	3	18	Prism (4 Suits)	2021-01-21 — 08:11:07 UTC	indego, ksfortson, wump	45	4	20
+410312	4	25	Brown (5 Suits)	2021-01-21 — 05:32:40 UTC	4head, bjnh, ksfortson, torp	36	5	25
+410301	4	24	Brown (5 Suits)	2021-01-21 — 05:05:45 UTC	4head, bjnh, ksfortson, torp	46	5	25
+410169	4	25	Pink (5 Suits)	2021-01-21 — 02:18:16 UTC	griff77, ksfortson, louietyj, torp	14	5	25
+410148	4	20	Pink (5 Suits)	2021-01-21 — 01:50:07 UTC	griff77, ksfortson, louietyj, torp	16	5	25
+410024	6	0	No Variant	2021-01-20 — 23:10:07 UTC	4head, Daryl, Denchulitas, griff77, ksfortson, louietyj	19	5	25
+409988	6	21	No Variant	2021-01-20 — 22:24:18 UTC	4head, Daryl, Denchulitas, griff77, ksfortson, louietyj	26	5	25
+409967	6	0	No Variant	2021-01-20 — 21:57:28 UTC	4head, Daryl, Denchulitas, griff77, ksfortson, louietyj	29	5	25
+409948	6	0	No Variant	2021-01-20 — 21:40:28 UTC	4head, Daryl, Denchulitas, griff77, ksfortson, louietyj	52	5	25
+409376	5	0	Rainbow (5 Suits)	2021-01-20 — 06:08:46 UTC	eljavi, ksfortson, kupoke, MarcLovesDogs, wump	14	5	25
+409340	5	20	No Variant	2021-01-20 — 05:19:15 UTC	Alkaven5, eljavi, ksfortson, kupoke, MarcLovesDogs	21	5	25
+409194	4	0	Rainbow (5 Suits)	2021-01-20 — 02:50:27 UTC	dobi, eljavi, ksfortson, orucsoraihc	23	5	25
+409174	4	0	Rainbow (5 Suits)	2021-01-20 — 02:26:04 UTC	dobi, eljavi, ksfortson, orucsoraihc	26	5	25
+409160	4	0	Rainbow (5 Suits)	2021-01-20 — 02:07:05 UTC	dobi, eljavi, ksfortson, orucsoraihc	30	5	25
+408981	5	23	No Variant	2021-01-19 — 21:47:44 UTC	4head, Denchulitas, indego, ksfortson, macanek	27	5	25
+408952	5	0	No Variant	2021-01-19 — 21:17:19 UTC	4head, Denchulitas, indego, ksfortson, macanek	26	5	25
+408394	6	25	No Variant	2021-01-19 — 06:01:38 UTC	dobi, frosty104, ksfortson, MarcLovesDogs, otterful, torp	32	5	25
+408356	5	25	Black (6 Suits)	2021-01-19 — 05:25:29 UTC	bjnh, ksfortson, MarcLovesDogs, otterful, torp	101	6	30
+408304	4	23	Dark Prism (6 Suits)	2021-01-19 — 04:49:08 UTC	ksfortson, otterful, torp, wump	23	6	30
+408278	3	0	Brown & Prism (6 Suits)	2021-01-19 — 04:17:43 UTC	Denchulitas, ksfortson, torp	8	6	30
+408200	6	0	Rainbow (5 Suits)	2021-01-19 — 03:02:28 UTC	bjnh, ksfortson, Lanvin, lolthisnotderk, MarcLovesDogs, torp	9	5	25
+408161	6	0	Rainbow (5 Suits)	2021-01-19 — 02:32:59 UTC	bjnh, ksfortson, Lanvin, lolthisnotderk, MarcLovesDogs, torp	11	5	25
+408146	6	0	Rainbow (5 Suits)	2021-01-19 — 02:14:53 UTC	bjnh, ksfortson, Lanvin, lolthisnotderk, MarcLovesDogs, torp	15	5	25
+408126	5	0	Brown (6 Suits)	2021-01-19 — 01:54:36 UTC	ksfortson, Lanvin, lolthisnotderk, MarcLovesDogs, torp	7	6	30
+408045	4	29	White-Ones & Rainbow (6 Suits)	2021-01-19 — 00:22:51 UTC	IsabeltheCat, ksfortson, Lanvin, MarcLovesDogs	2	6	30
+408022	4	20	Brown (4 Suits)	2021-01-18 — 23:54:26 UTC	IsabeltheCat, ksfortson, Lanvin, MarcLovesDogs	9	4	20
+407993	4	21	Gray (5 Suits)	2021-01-18 — 23:13:40 UTC	ChristopheAF, ksfortson, robense, swineherd	5	5	25
+407159	5	25	Prism (5 Suits)	2021-01-18 — 07:27:10 UTC	bjnh, eljavi, indego, ksfortson, torp	5	5	25
+407156	5	0	Prism (5 Suits)	2021-01-18 — 07:06:59 UTC	bjnh, eljavi, indego, ksfortson, torp	4	5	25
+407146	5	28	Black (6 Suits)	2021-01-18 — 06:44:27 UTC	bjnh, eljavi, ksfortson, otterful, torp	24	6	30
+407106	5	0	Black (6 Suits)	2021-01-18 — 06:08:44 UTC	bjnh, eljavi, ksfortson, otterful, torp	24	6	30
+407088	5	27	Black (6 Suits)	2021-01-18 — 05:53:34 UTC	bjnh, eljavi, ksfortson, otterful, torp	27	6	30
+407060	3	25	White-Ones & Rainbow (5 Suits)	2021-01-18 — 05:26:50 UTC	ksfortson, otterful, torp	9	5	25
+406895	6	18	4 Suits	2021-01-18 — 02:28:36 UTC	ksfortson, lolthisnotderk, nkkarpov, rahsosprout, torp, Veenar	17	4	20
+406872	5	23	Prism (5 Suits)	2021-01-18 — 02:04:03 UTC	ksfortson, nkkarpov, rahsosprout, torp, Veenar	8	5	25
+406852	5	29	6 Suits	2021-01-18 — 01:34:19 UTC	ksfortson, nkkarpov, rahsosprout, torp, Veenar	132	6	30
+405656	5	0	Brown & Dark Pink (6 Suits)	2021-01-16 — 22:49:29 UTC	arnino, indego, ksfortson, Lanvin, sephiroth	1	6	30
+405631	5	26	Brown & Dark Pink (6 Suits)	2021-01-16 — 22:29:51 UTC	arnino, indego, ksfortson, Lanvin, sephiroth	1	6	30
+404722	5	24	White-Ones (5 Suits)	2021-01-16 — 03:48:35 UTC	eljavi, HelanaAshryvr, indego, ksfortson, sin_nofaith	1	5	25
+404183	5	0	Black (6 Suits)	2021-01-15 — 18:54:14 UTC	ADrone, bjnh, ksfortson, MarkusKahlsen, newduke	8	6	30
+403728	5	21	No Variant	2021-01-15 — 05:27:18 UTC	4head, GoodMorningJay, ksfortson, MarcLovesDogs, newduke	29	5	25
+403579	4	24	No Variant	2021-01-15 — 02:44:08 UTC	bjnh, ksfortson, rz, wump	38	5	25
+403557	3	0	No Variant	2021-01-15 — 02:23:07 UTC	ksfortson, rz, wump	71	5	25
+403540	3	23	No Variant	2021-01-15 — 01:57:47 UTC	ksfortson, rz, wump	71	5	25
+403227	4	29	Pink (6 Suits)	2021-01-14 — 20:05:01 UTC	bjnh, ksfortson, Lanvin, torp	70	6	30
+403205	4	25	Brown-Ones (5 Suits)	2021-01-14 — 19:31:10 UTC	bjnh, ksfortson, Lanvin, MarcLovesDogs	2	5	25
+403191	4	0	Brown-Ones (5 Suits)	2021-01-14 — 19:16:13 UTC	bjnh, ksfortson, Lanvin, MarcLovesDogs	2	5	25
+403176	4	18	Rainbow & Brown (4 Suits)	2021-01-14 — 18:58:02 UTC	ksfortson, MangoPie, nkkarpov, Onen	11	4	20
+402892	4	25	No Variant	2021-01-14 — 08:14:33 UTC	bjnh, ksfortson, MarcLovesDogs, torp	71	5	25
+402885	5	23	Prism (5 Suits)	2021-01-14 — 07:50:54 UTC	bjnh, ksfortson, MarcLovesDogs, rahsosprout, torp	9	5	25
+402871	4	24	Prism (5 Suits)	2021-01-14 — 07:20:11 UTC	bjnh, ksfortson, rahsosprout, torp	4	5	25
+402851	4	22	Prism (5 Suits)	2021-01-14 — 06:53:38 UTC	bjnh, FerKeth, ksfortson, torp	5	5	25
+402831	4	0	Prism (5 Suits)	2021-01-14 — 06:31:53 UTC	bjnh, FerKeth, ksfortson, torp	5	5	25
+402238	5	0	Rainbow & White (6 Suits)	2021-01-13 — 19:53:36 UTC	ChristopheAF, knaphill, ksfortson, Kyle, TimeHoodie	5	6	30
+401877	3	24	No Variant	2021-01-13 — 07:06:21 UTC	GoodMorningJay, ksfortson, MarcLovesDogs	213	5	25
+401859	3	23	No Variant	2021-01-13 — 06:39:07 UTC	GoodMorningJay, ksfortson, MarcLovesDogs	218	5	25
+401831	3	24	No Variant	2021-01-13 — 06:05:41 UTC	GoodMorningJay, ksfortson, MarcLovesDogs	223	5	25
+401723	5	0	Prism (6 Suits)	2021-01-13 — 04:11:49 UTC	4head, eljavi, ksfortson, Lanvin, nkkarpov	3	6	30
+401687	5	0	Prism (6 Suits)	2021-01-13 — 03:33:16 UTC	4head, eljavi, ksfortson, Lanvin, nkkarpov	3	6	30
+401645	4	23	Brown-Ones (5 Suits)	2021-01-13 — 02:56:45 UTC	4head, eljavi, ksfortson, Lanvin	4	5	25
+401602	4	30	Brown-Ones (6 Suits)	2021-01-13 — 02:28:35 UTC	ksfortson, Lanvin, nkkarpov, torp	2	6	30
+401575	4	0	Brown-Ones (6 Suits)	2021-01-13 — 01:58:36 UTC	ksfortson, Lanvin, nkkarpov, torp	3	6	30
+401553	4	28	Brown-Ones (6 Suits)	2021-01-13 — 01:32:29 UTC	ksfortson, Lanvin, nkkarpov, torp	4	6	30
+400907	4	25	No Variant	2021-01-12 — 05:57:41 UTC	cockdestroyer, ksfortson, MarcLovesDogs, wump	41	5	25
+400894	4	0	Deceptive-Ones (5 Suits)	2021-01-12 — 05:41:45 UTC	duckmedic, ksfortson, MarcLovesDogs, wump	2	5	25
+400881	4	25	Deceptive-Ones (5 Suits)	2021-01-12 — 05:30:20 UTC	duckmedic, ksfortson, MarcLovesDogs, wump	7	5	25
+400857	4	0	Deceptive-Ones (5 Suits)	2021-01-12 — 05:09:16 UTC	duckmedic, ksfortson, MarcLovesDogs, wump	16	5	25
+400817	5	25	Brown (5 Suits)	2021-01-12 — 04:42:20 UTC	duckmedic, ksfortson, MarcLovesDogs, wump, XMIL	7	5	25
+400790	5	25	Light Pink (5 Suits)	2021-01-12 — 04:11:00 UTC	ksfortson, Lanvin, rz, wump, XMIL	5	5	25
+400749	5	0	Light Pink (5 Suits)	2021-01-12 — 03:38:11 UTC	ksfortson, Lanvin, rz, wump, XMIL	6	5	25
+400472	5	0	Black (6 Suits)	2021-01-11 — 22:12:20 UTC	doctorabi, Feich59, indego, ksfortson, ricardodd	72	6	30
+400028	4	25	No Variant	2021-01-11 — 08:10:18 UTC	Feich59, ksfortson, louietyj, MarcLovesDogs	78	5	25
+400007	6	28	Rainbow-Fives (6 Suits)	2021-01-11 — 07:37:13 UTC	bjnh, ksfortson, lolthisnotderk, louietyj, MarcLovesDogs, torp	2	6	30
+399989	4	24	No Variant	2021-01-11 — 06:59:12 UTC	bjnh, ksfortson, lolthisnotderk, torp	88	5	25
+399977	3	23	No Variant	2021-01-11 — 06:31:21 UTC	ksfortson, lolthisnotderk, torp	178	5	25
+399963	3	24	No Variant	2021-01-11 — 06:12:55 UTC	ksfortson, lolthisnotderk, torp	187	5	25
+399598	4	0	No Variant	2021-01-10 — 22:56:34 UTC	eljavi, ksfortson, lovesblank, robense	42	5	25
+398585	6	24	No Variant	2021-01-10 — 02:46:53 UTC	function, ksfortson, nkkarpov, rahsosprout, torp, Vensahn	75	5	25
+398161	5	20	Rainbow & Prism (4 Suits)	2021-01-09 — 21:57:56 UTC	indego, ksfortson, Lanvin, Wittvector, Zamiel	2	4	20
+398131	5	19	Rainbow & Prism (4 Suits)	2021-01-09 — 21:37:13 UTC	indego, ksfortson, Lanvin, Wittvector, Zamiel	3	4	20
+398099	5	0	Rainbow & Prism (4 Suits)	2021-01-09 — 21:09:41 UTC	indego, ksfortson, Lanvin, Wittvector, Zamiel	4	4	20
+397107	5	24	No Variant	2021-01-08 — 23:48:37 UTC	ksfortson, MarcLovesDogs, nkkarpov, Onen, torp	28	5	25
+397089	4	14	3 Suits	2021-01-08 — 23:24:59 UTC	ksfortson, nkkarpov, Onen, torp	31	3	15
+397070	3	24	Pink (5 Suits)	2021-01-08 — 23:04:07 UTC	ksfortson, newduke, torp	75	5	25
+397041	3	22	Dark Pink (5 Suits)	2021-01-08 — 22:36:07 UTC	ksfortson, newduke, torp	42	5	25
+395747	3	14	Brown (3 Suits)	2021-01-07 — 20:52:54 UTC	ksfortson, Onen, rahsosprout	7	3	15
+395735	3	11	Brown (3 Suits)	2021-01-07 — 20:37:24 UTC	ksfortson, Onen, rahsosprout	6	3	15
+395387	4	0	Prism (6 Suits)	2021-01-07 — 08:26:23 UTC	eljavi, ksfortson, MarcLovesDogs, torp	1	6	30
+395369	5	27	Prism (6 Suits)	2021-01-07 — 07:49:46 UTC	eljavi, ksfortson, MarcLovesDogs, nkkarpov, torp	11	6	30
+395338	4	0	Prism (6 Suits)	2021-01-07 — 06:57:01 UTC	eljavi, ksfortson, MarcLovesDogs, nkkarpov	1	6	30
+395306	3	25	No Variant	2021-01-07 — 06:22:22 UTC	eljavi, ksfortson, nkkarpov	551	5	25
+395269	5	22	No Variant	2021-01-07 — 05:45:31 UTC	eljavi, IsabeltheCat, ksfortson, MangoPie, nkkarpov	31	5	25
+395039	4	28	Black (6 Suits)	2021-01-07 — 01:51:35 UTC	doctorabi, ejwu, JackFrost, ksfortson	102	6	30
+395014	5	0	Black (6 Suits)	2021-01-07 — 01:13:58 UTC	doctorabi, indego, JackFrost, kevincaseytdk1, ksfortson	36	6	30
+394988	5	0	Black (6 Suits)	2021-01-07 — 00:40:03 UTC	doctorabi, indego, JackFrost, kevincaseytdk1, ksfortson	39	6	30
+394966	5	0	Black (5 Suits)	2021-01-07 — 00:09:47 UTC	doctorabi, indego, JackFrost, kevincaseytdk1, ksfortson	17	5	25
+394945	5	0	Black (5 Suits)	2021-01-06 — 23:49:00 UTC	doctorabi, indego, JackFrost, kevincaseytdk1, ksfortson	18	5	25
+394918	4	24	Omni (5 Suits)	2021-01-06 — 23:19:28 UTC	indego, JackFrost, ksfortson, Onen	16	5	25
+394885	4	0	Omni (5 Suits)	2021-01-06 — 22:52:36 UTC	indego, JackFrost, ksfortson, Onen	26	5	25
+394347	4	21	No Variant	2021-01-06 — 07:43:57 UTC	Cration, indego, ksfortson, wump	40	5	25
+394337	4	23	No Variant	2021-01-06 — 07:03:11 UTC	Cration, indego, ksfortson, wump	39	5	25
+394303	4	22	Black & Pink (5 Suits)	2021-01-06 — 06:19:43 UTC	indego, ksfortson, melwen, wump	5	5	25
+394274	4	30	Prism (6 Suits)	2021-01-06 — 05:35:02 UTC	ksfortson, Matir, torp, wvh	3	6	30
+394213	5	22	No Variant	2021-01-06 — 04:35:14 UTC	ksfortson, MarcLovesDogs, Matir, torp, wvh	31	5	25
+394186	5	19	4 Suits	2021-01-06 — 04:01:24 UTC	ksfortson, MarcLovesDogs, Matir, torp, wvh	47	4	20
+393259	2	27	Prism (6 Suits)	2021-01-05 — 08:45:18 UTC	ksfortson, MarcLovesDogs	44	6	30
+393252	2	0	Prism (6 Suits)	2021-01-05 — 08:25:29 UTC	ksfortson, MarcLovesDogs	59	6	30
+393005	3	20	Brown (5 Suits)	2021-01-05 — 03:04:53 UTC	doctorabi, ksfortson, rz	39	5	25
+392958	3	24	Brown (5 Suits)	2021-01-05 — 02:29:41 UTC	doctorabi, ksfortson, rz	63	5	25
+392338	4	25	No Variant	2021-01-04 — 07:53:10 UTC	eljavi, ksfortson, MarcLovesDogs, nkkarpov	82	5	25
+392321	4	25	No Variant	2021-01-04 — 07:20:32 UTC	eljavi, ksfortson, MarcLovesDogs, nkkarpov	180	5	25
+392300	4	23	No Variant	2021-01-04 — 06:37:11 UTC	banjoleb, eljavi, ksfortson, nkkarpov	2763	5	25
+392273	5	24	No Variant	2021-01-04 — 05:52:01 UTC	banjoleb, eljavi, ksfortson, nkkarpov, SevenSpirits	35	5	25
+392240	6	0	6 Suits	2021-01-04 — 05:13:03 UTC	banjoleb, boba, eljavi, ksfortson, SevenSpirits, Vensahn	12	6	30
+392076	3	25	No Variant	2021-01-04 — 03:06:18 UTC	doctorabi, ksfortson, tenbens1010	1465	5	25
+391216	4	30	Brown (6 Suits)	2021-01-03 — 05:18:20 UTC	duckmedic, JackFrost, ksfortson, wump	14	6	30
+391153	4	0	Brown (6 Suits)	2021-01-03 — 04:43:33 UTC	duckmedic, JackFrost, ksfortson, wump	12	6	30
+391106	5	23	Light Pink (5 Suits)	2021-01-03 — 04:14:30 UTC	duckmedic, indego, ksfortson, rz, wump	7	5	25
+390741	5	0	No Variant	2021-01-02 — 23:27:44 UTC	knaphill, ksfortson, Kyle, MarcLovesDogs, rz	7	5	25
+390712	5	24	No Variant	2021-01-02 — 23:04:33 UTC	knaphill, ksfortson, Kyle, MarcLovesDogs, rz	7	5	25
+390129	5	0	White (4 Suits)	2021-01-02 — 07:36:25 UTC	doctorabi, ksfortson, ricardodd, sephiroth, sin_faith	4	4	20
+389205	3	0	Black (5 Suits)	2021-01-01 — 09:31:27 UTC	ksfortson, MarcLovesDogs, wump	68	5	25
+389114	3	30	Black (6 Suits)	2021-01-01 — 08:44:57 UTC	ksfortson, MarcLovesDogs, wump	149	6	30
+389081	2	0	Rainbow (6 Suits)	2021-01-01 — 08:21:58 UTC	ksfortson, wump	269	6	30
+389063	2	24	Rainbow (6 Suits)	2021-01-01 — 08:06:21 UTC	ksfortson, wump	288	6	30
+388780	3	0	Light Pink (6 Suits)	2021-01-01 — 02:58:10 UTC	IsabeltheCat, ksfortson, rz	25	6	30
+388738	2	28	Light Pink (6 Suits)	2021-01-01 — 02:18:49 UTC	IsabeltheCat, ksfortson	47	6	30
+388712	2	0	Light Pink (6 Suits)	2021-01-01 — 01:52:16 UTC	IsabeltheCat, ksfortson	61	6	30
+388694	2	0	Light Pink (6 Suits)	2021-01-01 — 01:29:38 UTC	IsabeltheCat, ksfortson	79	6	30
+388679	4	0	No Variant	2021-01-01 — 01:11:14 UTC	CaitlinSmith, colton, IsabeltheCat, ksfortson	384	5	25
+388675	4	0	No Variant	2021-01-01 — 01:02:19 UTC	CaitlinSmith, colton, IsabeltheCat, ksfortson	541	5	25
+388302	4	0	Light Pink (6 Suits)	2020-12-31 — 18:08:16 UTC	eljavi, ksfortson, macanek, wump	7	6	30
+388287	4	0	Light Pink (6 Suits)	2020-12-31 — 17:39:03 UTC	eljavi, ksfortson, macanek, wump	8	6	30
+388262	4	23	Light Pink (5 Suits)	2020-12-31 — 17:05:02 UTC	kevincaseytdk1, ksfortson, macanek, wump	20	5	25
+388059	5	21	Light Pink (5 Suits)	2020-12-31 — 06:15:20 UTC	eljavi, JackFrost, ksfortson, wump, XMIL	11	5	25
+388024	3	23	Light Pink (5 Suits)	2020-12-31 — 05:34:37 UTC	eljavi, ksfortson, wump	13	5	25
+387975	4	0	Light Pink (6 Suits)	2020-12-31 — 04:44:49 UTC	eljavi, ksfortson, rz, wump	13	6	30
+387882	5	21	No Variant	2020-12-31 — 03:41:11 UTC	eljavi, ksfortson, rz, tezeteta, wump	28	5	25
+387820	4	0	No Variant	2020-12-31 — 02:54:06 UTC	eljavi, ksfortson, tezeteta, wump	43	5	25
+387762	3	19	4 Suits	2020-12-31 — 02:16:42 UTC	CaitlinSmith, ksfortson, voss	118	4	20
+387144	5	0	No Variant	2020-12-30 — 08:50:47 UTC	eljavi, indego, ksfortson, MangoPie, MarcLovesDogs	35	5	25
+387133	5	0	No Variant	2020-12-30 — 08:33:41 UTC	eljavi, indego, ksfortson, MangoPie, MarcLovesDogs	39	5	25
+387128	4	0	No Variant	2020-12-30 — 08:24:37 UTC	indego, ksfortson, MangoPie, MarcLovesDogs	90	5	25
+387121	4	23	No Variant	2020-12-30 — 08:08:49 UTC	eljavi, indego, katian, ksfortson	95	5	25
+387080	4	0	No Variant	2020-12-30 — 07:16:50 UTC	eljavi, indego, katian, ksfortson	117	5	25
+387060	5	0	Special Mix (5 Suits)	2020-12-30 — 06:39:06 UTC	doctorabi, HelanaAshryvr, ksfortson, Onen, XMIL	12	5	25
+387058	5	0	Rainbow (3 Suits)	2020-12-30 — 06:36:10 UTC	eljavi, HelanaAshryvr, ksfortson, Onen, XMIL	7	3	15
+387026	3	0	Light Pink (4 Suits)	2020-12-30 — 05:53:45 UTC	doctorabi, ksfortson, Onen	7	4	20
+387008	3	19	Light Pink (4 Suits)	2020-12-30 — 05:33:26 UTC	doctorabi, ksfortson, Onen	12	4	20
+386981	2	0	Light Pink (4 Suits)	2020-12-30 — 05:10:31 UTC	doctorabi, ksfortson	43	4	20
+386961	3	0	Light Pink (4 Suits)	2020-12-30 — 04:47:30 UTC	doctorabi, ksfortson, Onen	17	4	20
+386942	3	30	Dark Prism (6 Suits)	2020-12-30 — 04:29:45 UTC	ksfortson, Lel0uch, Onen	20	6	30
+385791	5	0	Prism (6 Suits)	2020-12-29 — 04:39:02 UTC	eljavi, indego, JackFrost, ksfortson, wump	3	6	30
+385759	5	0	Prism (6 Suits)	2020-12-29 — 04:09:55 UTC	eljavi, indego, JackFrost, ksfortson, wump	5	6	30
+385741	3	0	No Variant	2020-12-29 — 03:53:17 UTC	indego, JackFrost, ksfortson	459	5	25
+385723	6	29	Prism (6 Suits)	2020-12-29 — 03:37:23 UTC	bob65536, eljavi, indego, JackFrost, ksfortson, wump	6	6	30
+385678	5	30	Pink & White (6 Suits)	2020-12-29 — 02:56:35 UTC	bob65536, indego, JackFrost, ksfortson, wump	5	6	30
+385639	4	0	Omni (6 Suits)	2020-12-29 — 02:29:51 UTC	bob65536, JackFrost, ksfortson, wump	19	6	30
+385619	5	0	Omni (6 Suits)	2020-12-29 — 02:18:31 UTC	bob65536, JackFrost, ksfortson, sephiroth, wump	5	6	30
+385599	5	0	Omni (6 Suits)	2020-12-29 — 02:03:56 UTC	bob65536, JackFrost, ksfortson, sephiroth, wump	8	6	30
+385508	4	0	Light Pink (6 Suits)	2020-12-29 — 00:28:21 UTC	jack67889, JackFrost, ksfortson, wump	14	6	30
+385479	4	29	Light Pink (6 Suits)	2020-12-28 — 23:53:50 UTC	jack67889, JackFrost, ksfortson, wump	19	6	30
+385444	5	21	Light Pink (5 Suits)	2020-12-28 — 23:21:32 UTC	jack67889, JackFrost, ksfortson, Onen, wump	12	5	25
+385411	6	25	Brown-Ones (5 Suits)	2020-12-28 — 22:44:51 UTC	jack67889, JackFrost, ksfortson, Onen, Pablo-, wump	2	5	25
+385385	5	25	Brown-Ones (5 Suits)	2020-12-28 — 22:16:19 UTC	JackFrost, ksfortson, Onen, Pablo-, wump	5	5	25
+384846	4	24	Rainbow (5 Suits)	2020-12-28 — 07:16:29 UTC	bjnh, ejwu, ksfortson, wump	29	5	25
+384815	5	27	Black (6 Suits)	2020-12-28 — 06:41:15 UTC	bjnh, colton, ejwu, ksfortson, wump	28	6	30
+384759	4	30	Prism (6 Suits)	2020-12-28 — 05:56:16 UTC	colton, ejwu, ksfortson, wump	2	6	30
+384713	4	27	6 Suits	2020-12-28 — 05:13:10 UTC	CaitlinSmith, colton, ksfortson, wump	100	6	30
+384641	4	0	No Variant	2020-12-28 — 04:03:50 UTC	bfine, ksfortson, rahsosprout, wump	47	5	25
+384603	5	30	Reversed (6 Suits)	2020-12-28 — 03:34:02 UTC	doctorabi, ejwu, ksfortson, rz, wump	6	6	30
+384550	5	0	Reversed (6 Suits)	2020-12-28 — 02:52:06 UTC	doctorabi, ejwu, ksfortson, rz, wump	14	6	30
+384514	4	0	Omni (6 Suits)	2020-12-28 — 02:16:17 UTC	doctorabi, ksfortson, rz, wump	26	6	30
+384480	4	25	Omni (5 Suits)	2020-12-28 — 01:39:35 UTC	ChristopheAF, ksfortson, orucsoraihc, wump	24	5	25
+382614	4	20	White (4 Suits)	2020-12-26 — 07:38:12 UTC	eljavi, JackFrost, ksfortson, wump	34	4	20
+382588	4	20	Rainbow (4 Suits)	2020-12-26 — 07:13:01 UTC	eljavi, JackFrost, ksfortson, wump	25	4	20
+382572	4	0	Rainbow (4 Suits)	2020-12-26 — 06:48:47 UTC	eljavi, JackFrost, ksfortson, wump	45	4	20
+382557	4	25	No Variant	2020-12-26 — 06:27:24 UTC	eljavi, JackFrost, ksfortson, wump	54	5	25
+382522	4	0	No Variant	2020-12-26 — 05:57:53 UTC	eljavi, JackFrost, ksfortson, wump	70	5	25
+382487	4	22	No Variant	2020-12-26 — 05:27:06 UTC	eljavi, JackFrost, ksfortson, wump	68	5	25
+382446	5	0	No Variant	2020-12-26 — 04:56:08 UTC	eljavi, IsabeltheCat, ksfortson, rz, wump	30	5	25
+382387	5	23	Dual-Color (5 Suits)	2020-12-26 — 04:17:31 UTC	esakach, ksfortson, MarcLovesDogs, rz, wump	15	5	25
+382338	6	0	Dual-Color (5 Suits)	2020-12-26 — 03:36:53 UTC	esakach, IsabeltheCat, ksfortson, MarcLovesDogs, rz, wump	4	5	25
+382289	4	0	Brown (6 Suits)	2020-12-26 — 03:03:19 UTC	esakach, ksfortson, rz, wump	14	6	30
+382267	4	0	Brown (6 Suits)	2020-12-26 — 02:46:31 UTC	esakach, ksfortson, rz, wump	16	6	30
+382240	4	0	Brown (6 Suits)	2020-12-26 — 02:25:23 UTC	esakach, ksfortson, rz, wump	17	6	30
+382228	4	0	Brown (6 Suits)	2020-12-26 — 02:09:52 UTC	esakach, ksfortson, rz, wump	21	6	30
+381685	4	21	No Variant	2020-12-25 — 09:09:01 UTC	ejwu, indego, ksfortson, moeski	95	5	25
+381673	4	0	No Variant	2020-12-25 — 08:36:10 UTC	ejwu, indego, ksfortson, moeski	99	5	25
+381669	5	0	No Variant	2020-12-25 — 08:27:57 UTC	ejwu, indego, ksfortson, moeski, wavychips	60	5	25
+381655	5	24	No Variant	2020-12-25 — 08:01:00 UTC	ejwu, indego, ksfortson, moeski, wavychips	383	5	25
+381641	4	0	No Variant	2020-12-25 — 07:39:20 UTC	ejwu, indego, ksfortson, moeski	125	5	25
+381626	4	24	No Variant	2020-12-25 — 07:17:45 UTC	ducky, ksfortson, moeski, wavychips	131	5	25
+381587	4	0	No Variant	2020-12-25 — 06:33:45 UTC	ducky, ksfortson, moeski, wavychips	198	5	25
+381528	4	24	No Variant	2020-12-25 — 05:50:09 UTC	ducky, eljavi, esakach, ksfortson	204	5	25
+379492	3	25	Black & Prism (5 Suits)	2020-12-23 — 04:17:27 UTC	doctorabi, IsabeltheCat, ksfortson	9	5	25
+379447	5	30	Rainbow (6 Suits)	2020-12-23 — 03:45:32 UTC	ejwu, IsabeltheCat, Jake_Stiles, ksfortson, solarstar92	133	6	30
+379374	4	0	Rainbow (6 Suits)	2020-12-23 — 02:55:37 UTC	ejwu, Jake_Stiles, ksfortson, solarstar92	200	6	30
+378658	3	0	No Variant	2020-12-22 — 08:13:50 UTC	ksfortson, micerang, sjdrodge	40	5	25
+378647	3	24	No Variant	2020-12-22 — 07:48:33 UTC	ksfortson, piper, sjdrodge	40	5	25
+378634	3	22	No Variant	2020-12-22 — 07:24:38 UTC	ksfortson, piper, sjdrodge	40	5	25
+378363	4	0	Black & Prism (5 Suits)	2020-12-22 — 03:50:03 UTC	bob65536, ksfortson, rz, wump	10	5	25
+377639	4	25	No Variant	2020-12-21 — 07:11:31 UTC	indego, jack_0f_hearts, ksfortson, wump	79	5	25
+377623	4	24	No Variant	2020-12-21 — 06:48:12 UTC	indego, jack_0f_hearts, ksfortson, wump	81	5	25
+377610	3	0	No Variant	2020-12-21 — 06:23:34 UTC	indego, ksfortson, wump	82	5	25
+377578	3	24	No Variant	2020-12-21 — 05:43:44 UTC	indego, ksfortson, wump	83	5	25
+377557	3	24	No Variant	2020-12-21 — 05:14:47 UTC	indego, ksfortson, wump	97	5	25
+377537	4	0	Brown (6 Suits)	2020-12-21 — 04:46:41 UTC	doctorabi, ksfortson, rz, wump	27	6	30
+377502	5	29	Brown (6 Suits)	2020-12-21 — 04:11:53 UTC	doctorabi, ksfortson, Lanvin, rz, wump	16	6	30
+377455	5	30	Pink (6 Suits)	2020-12-21 — 03:34:33 UTC	doctorabi, ksfortson, Lanvin, rz, wump	9	6	30
+377419	4	0	Black & Prism (5 Suits)	2020-12-21 — 03:03:14 UTC	ksfortson, Lanvin, rz, wump	11	5	25
+376572	3	0	Black & Rainbow (5 Suits)	2020-12-20 — 07:31:29 UTC	ksfortson, Onen, wump	58	5	25
+375707	5	0	Rainbow (6 Suits)	2020-12-19 — 09:43:34 UTC	antitelharsic, derekcheah, Floriman, frosty104, ksfortson	22	6	30
+375684	5	30	Rainbow (6 Suits)	2020-12-19 — 09:00:27 UTC	antitelharsic, ejwu, ksfortson, pianoblook, wump	59	6	30
+375553	4	24	Prism (5 Suits)	2020-12-19 — 06:11:02 UTC	jack_0f_hearts, ksfortson, moeski, wavychips	9	5	25
+375516	4	25	No Variant	2020-12-19 — 05:22:16 UTC	jack_0f_hearts, ksfortson, moeski, wavychips	213	5	25
+374090	5	23	Up or Down (5 Suits)	2020-12-17 — 22:49:17 UTC	cockdestroyer, duckmedic, ksfortson, nitawa, rz	13	5	25
+374007	5	30	Rainbow (6 Suits)	2020-12-17 — 21:53:20 UTC	Fey, ksfortson, MarcLovesDogs, MarkusKahlsen, ricardodd	39	6	30
+373495	4	29	Rainbow (6 Suits)	2020-12-17 — 03:53:40 UTC	eljavi, ksfortson, rz, wump	16	6	30
+373444	4	28	Rainbow (6 Suits)	2020-12-17 — 03:01:36 UTC	eljavi, ksfortson, rz, wump	16	6	30
+373370	3	28	Rainbow (6 Suits)	2020-12-17 — 02:09:09 UTC	eljavi, ksfortson, wump	72	6	30
+373308	4	0	Rainbow (6 Suits)	2020-12-17 — 01:35:27 UTC	eljavi, ksfortson, timotree, wump	19	6	30
+373229	3	0	No Variant	2020-12-16 — 23:43:21 UTC	kinkajusrevenge, ksfortson, Onen	801	5	25
+373207	5	28	Black & Prism (6 Suits)	2020-12-16 — 23:19:27 UTC	doctorabi, frosty104, hakha3, ksfortson, scharkbite	4	6	30
+372711	5	0	Rainbow (5 Suits)	2020-12-16 — 09:28:36 UTC	doctorabi, ksfortson, MarcLovesDogs, sephiroth, StKildaFan	12	5	25
+372701	4	25	Rainbow (5 Suits)	2020-12-16 — 08:56:27 UTC	ksfortson, MarcLovesDogs, orucsoraihc, StKildaFan	32	5	25
+372688	2	22	White (5 Suits)	2020-12-16 — 08:32:55 UTC	ksfortson, StKildaFan	32	5	25
+372676	2	25	White (5 Suits)	2020-12-16 — 08:18:04 UTC	ksfortson, StKildaFan	42	5	25
+372669	2	0	White (5 Suits)	2020-12-16 — 08:06:34 UTC	ksfortson, StKildaFan	48	5	25
+372662	2	25	White (5 Suits)	2020-12-16 — 07:56:21 UTC	ksfortson, StKildaFan	69	5	25
+372658	4	0	Brown (5 Suits)	2020-12-16 — 07:45:35 UTC	Alkaven5, ksfortson, MarcLovesDogs, StKildaFan	14	5	25
+372652	4	0	Brown (5 Suits)	2020-12-16 — 07:40:22 UTC	Alkaven5, ksfortson, MarcLovesDogs, StKildaFan	17	5	25
+372641	4	0	Brown (5 Suits)	2020-12-16 — 07:25:00 UTC	Alkaven5, ksfortson, MarcLovesDogs, StKildaFan	19	5	25
+372406	3	24	No Variant	2020-12-16 — 02:18:13 UTC	kinkajusrevenge, ksfortson, wump	82	5	25
+372385	6	0	Brown & Prism (6 Suits)	2020-12-16 — 01:50:22 UTC	duckmedic, Feich59, frosty104, ksfortson, rz, wump	2	6	30
+372365	6	0	Brown & Prism (6 Suits)	2020-12-16 — 01:25:44 UTC	duckmedic, Feich59, frosty104, ksfortson, rz, wump	2	6	30
+372338	4	30	White-Ones (6 Suits)	2020-12-16 — 00:55:49 UTC	duckmedic, ksfortson, rz, wump	9	6	30
+372307	4	24	White & Prism (5 Suits)	2020-12-16 — 00:19:37 UTC	ksfortson, Onen, PMP, wump	14	5	25
+372104	4	29	Rainbow (6 Suits)	2020-12-15 — 20:39:40 UTC	Hyphen-ated, ksfortson, Lanvin, robense	70	6	30
+371713	3	21	Black (5 Suits)	2020-12-15 — 08:25:26 UTC	eljavi, ksfortson, sephiroth	134	5	25
+371089	4	0	Rainbow & Prism (5 Suits)	2020-12-14 — 21:34:07 UTC	asaelr, ksfortson, PMP, ricardodd	16	5	25
+370558	4	0	Dark Rainbow (5 Suits)	2020-12-14 — 02:57:38 UTC	doctorabi, frosty104, IsabeltheCat, ksfortson	7	5	25
+370512	4	0	Up or Down (6 Suits)	2020-12-14 — 01:59:36 UTC	ada.yukie, frosty104, IsabeltheCat, ksfortson	10	6	30
+370114	5	24	No Variant	2020-12-13 — 19:20:03 UTC	Fey, frosty104, ksfortson, orucsoraihc, rake	45	5	25
+369746	4	0	White & Brown (5 Suits)	2020-12-13 — 07:04:53 UTC	catula, doctorabi, kevincaseytdk1, ksfortson	6	5	25
+369575	2	28	6 Suits	2020-12-13 — 03:59:40 UTC	JackFrost, ksfortson	444	6	30
+369554	2	0	6 Suits	2020-12-13 — 03:43:37 UTC	JackFrost, ksfortson	505	6	30
+369533	2	22	6 Suits	2020-12-13 — 03:21:08 UTC	JackFrost, ksfortson	593	6	30
+368495	4	0	Black & White (6 Suits)	2020-12-12 — 04:35:01 UTC	esakach, HelanaAshryvr, jack_0f_hearts, ksfortson	24	6	30
+368423	4	0	Black & White (6 Suits)	2020-12-12 — 03:56:09 UTC	esakach, HelanaAshryvr, jack_0f_hearts, ksfortson	29	6	30
+368364	3	0	Black & White (6 Suits)	2020-12-12 — 03:25:46 UTC	esakach, HelanaAshryvr, ksfortson	34	6	30
+368341	6	0	Rainbow (6 Suits)	2020-12-12 — 03:13:13 UTC	Carunty, esakach, ksfortson, Lel0uch, TimeHoodie, timotree	19	6	30
+368074	5	23	No Variant	2020-12-11 — 21:52:14 UTC	doctorabi, Jillb363636, ksfortson, Lanvin, timotree	12	5	25
+368028	2	25	No Variant	2020-12-11 — 21:18:15 UTC	Jillb363636, ksfortson	2532	5	25
+367604	3	20	White (4 Suits)	2020-12-11 — 07:28:32 UTC	ksfortson, Onen, orucsoraihc	46	4	20
+367595	4	16	Pink (4 Suits)	2020-12-11 — 07:09:01 UTC	ksfortson, Lel0uch, Onen, StKildaFan	22	4	20
+367588	3	0	Brown (4 Suits)	2020-12-11 — 06:52:12 UTC	ksfortson, Lel0uch, Onen	19	4	20
+367581	3	0	Brown (4 Suits)	2020-12-11 — 06:45:13 UTC	ksfortson, Lel0uch, Onen	31	4	20
+367575	3	0	Brown (4 Suits)	2020-12-11 — 06:36:23 UTC	ksfortson, Lel0uch, Onen	47	4	20
+367524	4	28	6 Suits	2020-12-11 — 05:13:04 UTC	ejwu, jack_0f_hearts, JackFrost, ksfortson	120	6	30
+367487	3	0	6 Suits	2020-12-11 — 04:16:56 UTC	ejwu, JackFrost, ksfortson	252	6	30
+367419	3	0	6 Suits	2020-12-11 — 03:18:23 UTC	ejwu, JackFrost, ksfortson	305	6	30
+367370	2	0	No Variant	2020-12-11 — 02:45:49 UTC	JackFrost, ksfortson	2750	5	25
+367358	2	0	No Variant	2020-12-11 — 02:36:14 UTC	JackFrost, ksfortson	3051	5	25
+367315	5	25	Reversed (5 Suits)	2020-12-11 — 01:52:00 UTC	ADrone, doctorabi, JackFrost, ksfortson, Kyle	5	5	25
+366351	2	0	No Variant	2020-12-09 — 23:40:15 UTC	ksfortson, StKildaFan	91	5	25
+366342	2	25	No Variant	2020-12-09 — 23:31:53 UTC	ksfortson, StKildaFan	92	5	25
+366335	2	0	No Variant	2020-12-09 — 23:23:20 UTC	ksfortson, StKildaFan	93	5	25
+366331	2	23	No Variant	2020-12-09 — 23:17:16 UTC	ksfortson, StKildaFan	92	5	25
+366322	2	25	No Variant	2020-12-09 — 23:06:30 UTC	ksfortson, StKildaFan	93	5	25
+366311	2	0	No Variant	2020-12-09 — 22:57:40 UTC	ksfortson, StKildaFan	96	5	25
+366276	3	25	No Variant	2020-12-09 — 22:23:00 UTC	BillaVGC, ksfortson, MarcLovesDogs	680	5	25
+365032	3	23	No Variant	2020-12-09 — 00:18:09 UTC	Jake_Stiles, ksfortson, solarstar92	89	5	25
+365020	3	24	No Variant	2020-12-08 — 23:47:22 UTC	Jake_Stiles, ksfortson, solarstar92	93	5	25
+364996	5	26	Black & Rainbow (6 Suits)	2020-12-08 — 23:19:13 UTC	colton, frosty104, kevincaseytdk1, ksfortson, Lanvin	20	6	30
+364970	5	0	Black & Rainbow (6 Suits)	2020-12-08 — 22:45:25 UTC	doctorabi, frosty104, IsabeltheCat, ksfortson, Lanvin	15	6	30
+364927	4	22	Black & White (5 Suits)	2020-12-08 — 22:15:54 UTC	doctorabi, IsabeltheCat, ksfortson, sephiroth	23	5	25
+364665	4	22	No Variant	2020-12-08 — 17:49:42 UTC	Carunty, ChristopheAF, Kernel, ksfortson	501	5	25
+364054	5	25	Black (5 Suits)	2020-12-07 — 23:36:51 UTC	Alkaven5, frosty104, ksfortson, MarcLovesDogs, StKildaFan	23	5	25
+364044	4	0	Black (5 Suits)	2020-12-07 — 23:22:26 UTC	frosty104, ksfortson, MarcLovesDogs, StKildaFan	36	5	25
+364036	4	22	Black (5 Suits)	2020-12-07 — 23:13:10 UTC	frosty104, ksfortson, MarcLovesDogs, StKildaFan	41	5	25
+364027	5	19	White (4 Suits)	2020-12-07 — 22:51:56 UTC	frosty104, jack67889, jeff10, ksfortson, MarcLovesDogs	16	4	20
+363031	5	0	6 Suits	2020-12-07 — 01:55:17 UTC	bob65536, frosty104, JackFrost, ksfortson, wump	23	6	30
+362981	5	27	6 Suits	2020-12-07 — 00:59:50 UTC	bob65536, frosty104, JackFrost, ksfortson, wump	31	6	30
+362917	6	0	6 Suits	2020-12-07 — 00:13:18 UTC	bob65536, frosty104, JackFrost, ksfortson, wump, xmaiton	19	6	30
+362878	6	0	Dark Brown (6 Suits)	2020-12-06 — 23:39:05 UTC	doctorabi, frosty104, JackFrost, jeff10, ksfortson, wump	4	6	30
+362241	3	25	No Variant	2020-12-06 — 06:35:23 UTC	eljavi, ksfortson, wump	109	5	25
+362226	4	0	No Variant	2020-12-06 — 06:06:12 UTC	eljavi, ksfortson, Onen, wump	97	5	25
+362215	3	0	White (4 Suits)	2020-12-06 — 05:57:57 UTC	ksfortson, Onen, wump	59	4	20
+362206	3	28	Black (6 Suits)	2020-12-06 — 05:45:43 UTC	frosty104, ksfortson, Onen	159	6	30
+362181	3	0	Black (6 Suits)	2020-12-06 — 05:21:17 UTC	frosty104, ksfortson, Onen	172	6	30
+362156	3	23	No Variant	2020-12-06 — 04:49:35 UTC	andre_smaira, ksfortson, Onen	1636	5	25
+362133	3	0	No Variant	2020-12-06 — 04:26:57 UTC	andre_smaira, ksfortson, Onen	1881	5	25
+362036	5	25	Rainbow (5 Suits)	2020-12-06 — 02:39:37 UTC	Carunty, colton, JackFrost, ksfortson, rz	26	5	25
+361998	5	19	Rainbow (5 Suits)	2020-12-06 — 01:56:54 UTC	Carunty, JackFrost, ksfortson, rz, sephiroth	13	5	25
+358865	5	0	Black (6 Suits)	2020-12-02 — 08:03:10 UTC	Carunty, frosty104, ksfortson, micerang, wump	23	6	30
+358862	5	0	Black (6 Suits)	2020-12-02 — 07:49:28 UTC	Carunty, frosty104, ksfortson, micerang, wump	35	6	30
+358858	4	24	Black (5 Suits)	2020-12-02 — 07:37:04 UTC	doctorabi, frosty104, ksfortson, micerang	14	5	25
+358855	4	0	Black (5 Suits)	2020-12-02 — 07:17:16 UTC	doctorabi, frosty104, ksfortson, micerang	14	5	25
+358769	4	0	Up or Down (5 Suits)	2020-12-02 — 05:11:16 UTC	ksfortson, Lel0uch, Smandon, timotree	27	5	25
+358743	4	25	Reversed (5 Suits)	2020-12-02 — 04:39:50 UTC	frosty104, ksfortson, Smandon, timotree	4	5	25
+358716	5	0	Reversed (5 Suits)	2020-12-02 — 04:01:25 UTC	frosty104, ksfortson, rz, Smandon, timotree	5	5	25
+358693	4	24	Reversed (5 Suits)	2020-12-02 — 03:21:57 UTC	frosty104, ksfortson, rz, timotree	5	5	25
+358666	4	25	Reversed (5 Suits)	2020-12-02 — 02:38:35 UTC	frosty104, ksfortson, rz, timotree	6	5	25
+358580	5	23	No Variant	2020-12-01 — 23:22:58 UTC	ChristopheAF, ksfortson, MarcLovesDogs, superbipbip, wump	28	5	25
+358397	3	0	Up or Down (5 Suits)	2020-12-01 — 18:50:44 UTC	Carunty, ksfortson, newduke	54	5	25
+358381	3	0	Up or Down (5 Suits)	2020-12-01 — 18:27:49 UTC	Carunty, ksfortson, newduke	62	5	25
+358134	4	23	Rainbow (5 Suits)	2020-12-01 — 06:55:42 UTC	doctorabi, duckmedic, ksfortson, Onen	38	5	25
+358129	3	26	Black (6 Suits)	2020-12-01 — 06:30:39 UTC	duckmedic, ksfortson, Onen	193	6	30
+358112	3	27	Black (6 Suits)	2020-12-01 — 06:01:23 UTC	duckmedic, ksfortson, Onen	236	6	30
+357402	3	15	Rainbow (3 Suits)	2020-11-30 — 06:07:40 UTC	frosty104, ksfortson, Onen	71	3	15
+357394	2	25	No Variant	2020-11-30 — 05:55:40 UTC	ksfortson, Onen	1448	5	25
+357380	5	0	Black (5 Suits)	2020-11-30 — 05:33:06 UTC	frosty104, ksfortson, Onen, orucsoraihc, StKildaFan	17	5	25
+355826	4	25	Light Pink (5 Suits)	2020-11-28 — 08:41:42 UTC	frosty104, ksfortson, micerang, wump	2	5	25
+355821	4	20	White Reversed (4 Suits)	2020-11-28 — 08:17:19 UTC	frosty104, kevincaseytdk1, ksfortson, wump	5	4	20
+355817	4	25	White (5 Suits)	2020-11-28 — 07:53:19 UTC	frosty104, kevincaseytdk1, ksfortson, wump	60	5	25
+355809	4	25	White (5 Suits)	2020-11-28 — 06:59:53 UTC	Fey, ksfortson, StKildaFan, wump	31	5	25
+354135	3	21	Black (5 Suits)	2020-11-26 — 04:52:57 UTC	Carunty, ksfortson, sankala	71	5	25
+354084	3	21	Black (5 Suits)	2020-11-26 — 04:09:39 UTC	Carunty, ksfortson, sankala	92	5	25
+354063	3	0	Black (5 Suits)	2020-11-26 — 03:45:31 UTC	Carunty, ksfortson, sankala	101	5	25
+353416	4	27	Black (6 Suits)	2020-11-25 — 09:09:07 UTC	frosty104, ksfortson, piper, wump	175	6	30
+353408	3	27	Black (6 Suits)	2020-11-25 — 08:21:06 UTC	ksfortson, MarcLovesDogs, piper	325	6	30
+353404	6	25	Prism (5 Suits)	2020-11-25 — 07:30:57 UTC	doctorabi, Feich59, frosty104, Hyphen-ated, ksfortson, Lel0uch	7	5	25
+353399	4	0	Prism (5 Suits)	2020-11-25 — 06:59:28 UTC	doctorabi, Feich59, ksfortson, Lel0uch	10	5	25
+353394	3	24	Black (5 Suits)	2020-11-25 — 06:36:09 UTC	Feich59, ksfortson, Lel0uch	74	5	25
+352065	4	21	Black (5 Suits)	2020-11-24 — 00:03:09 UTC	frosty104, hakha3, ksfortson, micerang	16	5	25
+352050	5	30	Rainbow Reversed (6 Suits)	2020-11-23 — 23:31:44 UTC	asaelr, frosty104, hakha3, jack67889, ksfortson	7	6	30
+351630	4	30	6 Suits	2020-11-23 — 09:08:06 UTC	ksfortson, Lel0uch, robense, StKildaFan	151	6	30
+351619	4	24	Rainbow (5 Suits)	2020-11-23 — 08:29:42 UTC	doctorabi, ksfortson, Lel0uch, StKildaFan	42	5	25
+351618	5	24	Rainbow (5 Suits)	2020-11-23 — 07:56:15 UTC	doctorabi, ksfortson, Lel0uch, orucsoraihc, sin_faith	17	5	25
+351613	5	0	Rainbow (5 Suits)	2020-11-23 — 07:33:11 UTC	doctorabi, ksfortson, Lel0uch, orucsoraihc, sin_faith	23	5	25
+351584	3	22	Prism Reversed (5 Suits)	2020-11-23 — 05:42:09 UTC	doctorabi, ksfortson, rz	11	5	25
+351517	4	25	Black (5 Suits)	2020-11-23 — 04:16:01 UTC	Feich59, jeff10, ksfortson, wump	28	5	25
+351477	2	24	Black (5 Suits)	2020-11-23 — 03:43:54 UTC	ksfortson, wump	169	5	25
+351455	2	21	Black (5 Suits)	2020-11-23 — 03:18:56 UTC	Feich59, ksfortson	219	5	25
+351092	4	0	No Variant	2020-11-22 — 22:23:35 UTC	duckmedic, ksfortson, rz, wump	103	5	25
+351079	5	0	No Variant	2020-11-22 — 21:53:15 UTC	anser, duckmedic, ksfortson, rz, wump	38	5	25
+351072	5	0	No Variant	2020-11-22 — 21:47:00 UTC	anser, duckmedic, ksfortson, rz, wump	41	5	25
+350656	5	21	No Variant	2020-11-22 — 08:56:28 UTC	duckmedic, ksfortson, orucsoraihc, rz, wump	51	5	25
+350646	5	0	Prism (6 Suits)	2020-11-22 — 08:23:27 UTC	duckmedic, ksfortson, orucsoraihc, rz, wump	5	6	30
+350639	5	0	Prism (6 Suits)	2020-11-22 — 08:09:09 UTC	duckmedic, ksfortson, orucsoraihc, rz, wump	5	6	30
+350638	5	0	Prism (6 Suits)	2020-11-22 — 08:06:08 UTC	duckmedic, ksfortson, orucsoraihc, rz, wump	7	6	30
+350623	5	20	Special Mix (5 Suits)	2020-11-22 — 07:28:33 UTC	duckmedic, ksfortson, orucsoraihc, rz, wump	16	5	25
+350596	4	11	Brown (3 Suits)	2020-11-22 — 06:47:23 UTC	catula, ksfortson, methmatics, XMIL	14	3	15
+350411	3	25	Prism (5 Suits)	2020-11-22 — 04:10:32 UTC	colton, ksfortson, wump	3	5	25
+350377	3	0	Prism (5 Suits)	2020-11-22 — 03:41:16 UTC	Carunty, colton, ksfortson	6	5	25
+350355	5	29	Prism (6 Suits)	2020-11-22 — 03:17:50 UTC	Carunty, colton, hailey, ksfortson, rz	7	6	30
+350294	4	26	White (6 Suits)	2020-11-22 — 02:29:55 UTC	Carunty, colton, ksfortson, rz	35	6	30
+350243	4	0	White (6 Suits)	2020-11-22 — 01:58:40 UTC	Carunty, colton, ksfortson, rz	60	6	30
+350111	3	0	No Variant	2020-11-21 — 23:44:14 UTC	ksfortson, rmitra5, wump	111	5	25
+350100	4	0	No Variant	2020-11-21 — 23:27:20 UTC	ksfortson, Onen, rmitra5, wump	130	5	25
+349584	5	25	Black (6 Suits)	2020-11-21 — 08:07:24 UTC	Carunty, frosty104, JackFrost, ksfortson, wump	48	6	30
+349547	3	25	Rainbow (5 Suits)	2020-11-21 — 07:09:30 UTC	doctorabi, ksfortson, wump	185	5	25
+349527	5	0	Rainbow (4 Suits)	2020-11-21 — 06:44:36 UTC	catula, doctorabi, duckmedic, ksfortson, wump	10	4	20
+348525	6	29	Rainbow (6 Suits)	2020-11-20 — 06:38:14 UTC	Carunty, duckmedic, frosty104, ksfortson, micerang, Onen	3	6	30
+348429	4	20	Black (5 Suits)	2020-11-20 — 04:45:37 UTC	Carunty, JackFrost, ksfortson, Onen	49	5	25
+348403	4	0	Black (5 Suits)	2020-11-20 — 04:11:32 UTC	Carunty, JackFrost, ksfortson, wump	63	5	25
+348378	3	0	Rainbow (3 Suits)	2020-11-20 — 03:39:13 UTC	jeff10, ksfortson, wump	43	3	15
+348370	3	0	Rainbow (3 Suits)	2020-11-20 — 03:30:14 UTC	jeff10, ksfortson, wump	53	3	15
+347705	4	23	Rainbow (5 Suits)	2020-11-19 — 07:54:43 UTC	doctorabi, JackFrost, ksfortson, wump	54	5	25
+347696	4	0	Rainbow (5 Suits)	2020-11-19 — 07:24:55 UTC	doctorabi, JackFrost, ksfortson, wump	63	5	25
+347680	4	0	Rainbow (5 Suits)	2020-11-19 — 07:01:28 UTC	doctorabi, JackFrost, ksfortson, wump	92	5	25
+347664	4	0	Reversed (5 Suits)	2020-11-19 — 06:14:12 UTC	doctorabi, JackFrost, ksfortson, wump	4	5	25
+347656	4	22	Reversed (5 Suits)	2020-11-19 — 05:51:57 UTC	doctorabi, JackFrost, ksfortson, wump	6	5	25
+347639	4	21	Up or Down (5 Suits)	2020-11-19 — 05:18:29 UTC	doctorabi, ksfortson, Onen, wump	52	5	25
+347621	3	19	4 Suits	2020-11-19 — 04:59:47 UTC	doctorabi, ksfortson, Onen	160	4	20
+347004	5	0	Up or Down (5 Suits)	2020-11-18 — 07:57:39 UTC	kevincaseytdk1, ksfortson, Lel0uch, Onen, wump	8	5	25
+346990	5	25	Rainbow & Prism (5 Suits)	2020-11-18 — 07:23:33 UTC	doctorabi, kevincaseytdk1, ksfortson, Onen, wump	9	5	25
+346826	4	24	Prism (5 Suits)	2020-11-18 — 04:32:40 UTC	Hyphen-ated, ksfortson, scharkbite, will.i.am	14	5	25
+346759	4	0	Rainbow (6 Suits)	2020-11-18 — 03:35:21 UTC	colton, hailey, Hyphen-ated, ksfortson	238	6	30
+346707	4	0	Rainbow (6 Suits)	2020-11-18 — 02:35:20 UTC	colton, hailey, Hyphen-ated, ksfortson	344	6	30
+346693	3	0	Prism (5 Suits)	2020-11-18 — 02:16:58 UTC	colton, Hyphen-ated, ksfortson	45	5	25
+346682	4	14	Rainbow (3 Suits)	2020-11-18 — 02:07:34 UTC	Hyphen-ated, JackFrost, ksfortson, rachyrules	24	3	15
+346590	5	0	Brown (6 Suits)	2020-11-18 — 00:02:52 UTC	frosty104, JackFrost, ksfortson, Onen, StKildaFan	21	6	30
+346577	5	0	Up or Down (6 Suits)	2020-11-17 — 23:38:39 UTC	frosty104, JackFrost, ksfortson, Onen, StKildaFan	17	6	30
+346567	4	0	Up or Down (5 Suits)	2020-11-17 — 23:21:51 UTC	frosty104, JackFrost, ksfortson, Onen	27	5	25
+346565	4	0	Up or Down (5 Suits)	2020-11-17 — 23:19:00 UTC	frosty104, JackFrost, ksfortson, Onen	31	5	25
+346563	4	22	Up or Down (5 Suits)	2020-11-17 — 23:13:09 UTC	frosty104, JackFrost, ksfortson, Onen	35	5	25
+346082	5	0	Black (5 Suits)	2020-11-17 — 05:53:56 UTC	doctorabi, ksfortson, Lel0uch, Onen, wump	36	5	25
+346059	6	28	Prism (6 Suits)	2020-11-17 — 05:10:25 UTC	Carunty, doctorabi, jack_0f_hearts, ksfortson, Lel0uch, wump	3	6	30
+346013	5	0	Prism (6 Suits)	2020-11-17 — 04:15:21 UTC	Carunty, duckmedic, jack_0f_hearts, ksfortson, wump	6	6	30
+345975	4	22	Dark Prism (5 Suits)	2020-11-17 — 03:25:37 UTC	duckmedic, ksfortson, rz, wump	17	5	25
+345925	4	0	Dark Prism (5 Suits)	2020-11-17 — 02:55:19 UTC	duckmedic, ksfortson, rz, wump	17	5	25
+345792	3	0	Prism (5 Suits)	2020-11-17 — 00:28:02 UTC	Carunty, duckmedic, ksfortson	9	5	25
+345786	3	0	Prism (5 Suits)	2020-11-17 — 00:15:37 UTC	Carunty, duckmedic, ksfortson	10	5	25
+344470	4	0	Prism (5 Suits)	2020-11-15 — 23:36:46 UTC	Carunty, doctorabi, duckmedic, ksfortson	23	5	25
+344447	4	25	Prism (5 Suits)	2020-11-15 — 23:12:47 UTC	Carunty, doctorabi, duckmedic, ksfortson	29	5	25
+344423	3	22	Prism (5 Suits)	2020-11-15 — 22:46:33 UTC	Carunty, doctorabi, ksfortson	19	5	25
+344387	3	0	Prism (5 Suits)	2020-11-15 — 22:18:46 UTC	Carunty, doctorabi, ksfortson	22	5	25
+344366	4	0	Prism (5 Suits)	2020-11-15 — 21:48:54 UTC	Carunty, doctorabi, ksfortson, rz	47	5	25
+344345	3	0	Prism (5 Suits)	2020-11-15 — 21:20:17 UTC	Carunty, ksfortson, VerySloppyTwo	24	5	25
+344331	3	0	Prism (5 Suits)	2020-11-15 — 20:56:15 UTC	Carunty, ksfortson, VerySloppyTwo	38	5	25
+343721	3	25	Prism (5 Suits)	2020-11-14 — 23:44:26 UTC	Feich59, honzas, ksfortson	14	5	25
+343696	3	24	No Variant	2020-11-14 — 23:14:36 UTC	Feich59, honzas, ksfortson	125	5	25
+343676	3	25	No Variant	2020-11-14 — 22:45:29 UTC	Feich59, honzas, ksfortson	134	5	25
+342676	3	29	Dark Pink (6 Suits)	2020-11-13 — 23:09:36 UTC	duckmedic, JackFrost, ksfortson	24	6	30
+342575	3	26	Dark Pink (6 Suits)	2020-11-13 — 22:27:34 UTC	duckmedic, JackFrost, ksfortson	41	6	30
+342550	3	0	Dark Pink (6 Suits)	2020-11-13 — 21:48:11 UTC	Carunty, JackFrost, ksfortson	34	6	30
+342524	5	28	Dark Pink (6 Suits)	2020-11-13 — 21:19:57 UTC	Carunty, doctorabi, duckmedic, JackFrost, ksfortson	12	6	30
+342488	3	21	Pink (5 Suits)	2020-11-13 — 20:39:19 UTC	Carunty, JackFrost, ksfortson	43	5	25
+342474	3	0	Pink (5 Suits)	2020-11-13 — 20:10:49 UTC	Carunty, JackFrost, ksfortson	49	5	25
+337299	3	25	No Variant	2020-11-07 — 05:05:01 UTC	ksfortson, Puzzle, squidgetx	243	5	25
+337274	4	24	No Variant	2020-11-07 — 04:35:42 UTC	doctorabi, ksfortson, Puzzle, squidgetx	149	5	25
+337250	3	20	Reversed (4 Suits)	2020-11-07 — 03:46:53 UTC	IAMJEFF, ksfortson, Kyle	18	4	20
+336778	4	20	Dark Pink (5 Suits)	2020-11-06 — 08:27:12 UTC	Fey, ksfortson, sin_faith, swineherd	10	5	25
+336769	3	0	No Variant	2020-11-06 — 07:50:55 UTC	ksfortson, MarcLovesDogs, sin_faith	47	5	25
+336754	3	0	No Variant	2020-11-06 — 07:22:52 UTC	ksfortson, MarcLovesDogs, sin_faith	1095	5	25
+336749	5	22	No Variant	2020-11-06 — 06:58:44 UTC	antitelharsic, duckmedic, ksfortson, newduke, wump	67	5	25
+336733	4	25	No Variant	2020-11-06 — 06:07:38 UTC	duckmedic, ksfortson, newduke, wump	89	5	25
+336725	4	0	No Variant	2020-11-06 — 05:43:06 UTC	duckmedic, ksfortson, newduke, wump	103	5	25
+336713	4	24	No Variant	2020-11-06 — 05:24:57 UTC	duckmedic, ksfortson, newduke, wump	116	5	25
+336680	5	25	No Variant	2020-11-06 — 04:48:54 UTC	doctorabi, duckmedic, ksfortson, newduke, wump	65	5	25
+336658	4	21	No Variant	2020-11-06 — 04:12:57 UTC	antslayer23, jack_0f_hearts, ksfortson, wump	158	5	25
+336628	4	0	No Variant	2020-11-06 — 03:35:22 UTC	antslayer23, jack_0f_hearts, ksfortson, wump	162	5	25
+336594	4	23	No Variant	2020-11-06 — 03:02:07 UTC	antslayer23, jack_0f_hearts, ksfortson, wump	167	5	25
+336505	5	0	No Variant	2020-11-06 — 02:24:16 UTC	antslayer23, Carunty, jack_0f_hearts, ksfortson, wump	75	5	25
+335982	5	24	Prism (5 Suits)	2020-11-05 — 08:00:28 UTC	Carunty, jack_0f_hearts, ksfortson, sin_faith, timotree	8	5	25
+335950	5	20	Prism (5 Suits)	2020-11-05 — 07:24:00 UTC	Carunty, jack_0f_hearts, ksfortson, sin_faith, timotree	7	5	25
+335912	5	23	No Variant	2020-11-05 — 06:35:41 UTC	KristaTheCute, ksfortson, rz, timotree, vEnhance	13	5	25
+335886	5	0	No Variant	2020-11-05 — 05:58:06 UTC	KristaTheCute, ksfortson, rz, timotree, vEnhance	13	5	25
+335866	3	0	Prism (5 Suits)	2020-11-05 — 05:25:15 UTC	ksfortson, rz, timotree	2	5	25
+335843	4	22	No Variant	2020-11-05 — 04:57:29 UTC	ksfortson, rz, StKildaFan, timotree	43	5	25
+335818	3	25	Prism (5 Suits)	2020-11-05 — 04:29:23 UTC	ksfortson, StKildaFan, timotree	2	5	25
+335798	3	21	Prism (5 Suits)	2020-11-05 — 04:05:39 UTC	Jake_Stiles, ksfortson, timotree	2	5	25
+335170	3	23	No Variant	2020-11-04 — 08:04:14 UTC	Carunty, ksfortson, timotree	21	5	25
+335168	5	24	No Variant	2020-11-04 — 07:24:44 UTC	Carunty, jack_0f_hearts, ksfortson, MarcLovesDogs, timotree	14	5	25
+335153	4	25	No Variant	2020-11-04 — 06:43:48 UTC	jack_0f_hearts, ksfortson, MarcLovesDogs, timotree	45	5	25
+335127	5	0	No Variant	2020-11-04 — 05:57:40 UTC	jack_0f_hearts, ksfortson, MarcLovesDogs, rz, timotree	12	5	25
+334855	2	26	Prism (6 Suits)	2020-11-04 — 00:24:43 UTC	jack_0f_hearts, ksfortson	64	6	30
+334836	2	25	No Variant	2020-11-03 — 23:55:40 UTC	jack_0f_hearts, ksfortson	3507	5	25
+334827	2	0	No Variant	2020-11-03 — 23:44:46 UTC	jack_0f_hearts, ksfortson	4109	5	25
+334337	4	25	No Variant	2020-11-03 — 08:09:57 UTC	ksfortson, rz, timotree, XMIL	43	5	25
+334334	4	0	No Variant	2020-11-03 — 07:36:20 UTC	ksfortson, rz, timotree, XMIL	48	5	25
+334331	3	25	No Variant	2020-11-03 — 07:03:43 UTC	duckmedic, ksfortson, timotree	21	5	25
+334314	3	25	No Variant	2020-11-03 — 06:05:02 UTC	cockdestroyer, KristaTheCute, ksfortson	2606	5	25
+333626	3	0	Rainbow & White (5 Suits)	2020-11-02 — 06:36:40 UTC	ksfortson, orucsoraihc, timotree	21	5	25
+333616	2	0	Rainbow & White (5 Suits)	2020-11-02 — 06:18:57 UTC	ksfortson, timotree	30	5	25
+333598	2	0	Rainbow & White (5 Suits)	2020-11-02 — 05:48:17 UTC	ksfortson, timotree	46	5	25
+333578	3	24	Rainbow & White (5 Suits)	2020-11-02 — 05:15:40 UTC	duckmedic, ksfortson, timotree	20	5	25
+333556	3	22	Rainbow & White (5 Suits)	2020-11-02 — 04:43:46 UTC	jeff10, ksfortson, timotree	26	5	25
+333486	4	30	White (6 Suits)	2020-11-02 — 04:09:53 UTC	jeff10, ksfortson, swineherd, timotree	41	6	30
+333139	5	23	Prism (5 Suits)	2020-11-01 — 23:49:40 UTC	Carunty, ksfortson, rachyrules, StKildaFan, timotree	9	5	25
+332669	5	23	No Variant	2020-11-01 — 08:02:46 UTC	Carunty, eevee, ksfortson, timotree, wump	13	5	25
+332667	4	25	Prism (5 Suits)	2020-11-01 — 07:35:43 UTC	eevee, ksfortson, timotree, wump	4	5	25
+332661	4	0	Prism (5 Suits)	2020-11-01 — 07:11:00 UTC	eevee, ksfortson, timotree, wump	7	5	25
+332458	3	21	Black (5 Suits)	2020-11-01 — 01:07:03 UTC	honzas, ksfortson, willwin4sure	31	5	25
+332446	3	22	Black (5 Suits)	2020-11-01 — 00:41:30 UTC	honzas, ksfortson, willwin4sure	44	5	25
+332426	3	22	No Variant	2020-11-01 — 00:14:32 UTC	ksfortson, moeski, willwin4sure	320	5	25
+332395	6	24	Rainbow (5 Suits)	2020-10-31 — 23:47:22 UTC	Jake_Stiles, ksfortson, Kyle, micerang, moeski, willwin4sure	5	5	25
+332372	5	0	Rainbow (5 Suits)	2020-10-31 — 23:21:25 UTC	Jake_Stiles, ksfortson, micerang, moeski, willwin4sure	14	5	25
+332354	4	21	Gray (5 Suits)	2020-10-31 — 23:01:20 UTC	asaelr, Jake_Stiles, ksfortson, newduke	9	5	25
+332335	4	0	Gray (5 Suits)	2020-10-31 — 22:39:07 UTC	asaelr, Jake_Stiles, ksfortson, newduke	7	5	25
+332320	4	20	Gray (5 Suits)	2020-10-31 — 22:21:51 UTC	asaelr, Jake_Stiles, ksfortson, newduke	14	5	25
+332150	5	23	No Variant	2020-10-31 — 18:06:30 UTC	Carunty, ksfortson, moeski, parrotdoxair, rz	837	5	25
+331872	5	24	No Variant	2020-10-31 — 06:06:09 UTC	Carunty, ksfortson, moeski, rz, timotree	15	5	25
+331839	5	22	No Variant	2020-10-31 — 05:29:33 UTC	Carunty, ksfortson, moeski, rz, timotree	21	5	25
+331818	5	0	No Variant	2020-10-31 — 05:03:06 UTC	Carunty, ksfortson, moeski, rz, timotree	207	5	25
+331794	5	0	Gray (6 Suits)	2020-10-31 — 04:32:24 UTC	Carunty, ejwu, ksfortson, rz, timotree	19	6	30
+331303	4	0	Rainbow-Ones & White (5 Suits)	2020-10-30 — 19:12:21 UTC	ksfortson, Pepepe, wump, XMIL	4	5	25
+331291	3	0	Rainbow-Ones & White (6 Suits)	2020-10-30 — 18:50:27 UTC	ksfortson, wump, XMIL	3	6	30
+331280	4	23	No Variant	2020-10-30 — 18:28:16 UTC	ksfortson, moeski, wump, XMIL	51	5	25
+331060	4	0	No Variant	2020-10-30 — 06:50:32 UTC	frosty104, ksfortson, orucsoraihc, StKildaFan	52	5	25
+331057	4	25	No Variant	2020-10-30 — 06:43:09 UTC	frosty104, ksfortson, orucsoraihc, StKildaFan	52	5	25
+331051	4	0	No Variant	2020-10-30 — 06:21:27 UTC	frosty104, ksfortson, orucsoraihc, StKildaFan	53	5	25
+331041	3	0	Rainbow (6 Suits)	2020-10-30 — 05:54:28 UTC	frosty104, ksfortson, StKildaFan	508	6	30
+330986	3	0	Rainbow (5 Suits)	2020-10-30 — 05:11:16 UTC	honzas, ksfortson, wump	135	5	25
+330951	3	25	No Variant	2020-10-30 — 04:42:34 UTC	honzas, ksfortson, wump	154	5	25
+330933	3	0	No Variant	2020-10-30 — 04:28:25 UTC	honzas, ksfortson, wump	156	5	25
+330926	3	25	No Variant	2020-10-30 — 04:18:22 UTC	honzas, ksfortson, wump	157	5	25
+330912	3	24	No Variant	2020-10-30 — 03:52:57 UTC	honzas, ksfortson, wump	160	5	25
+330878	4	0	No Variant	2020-10-30 — 03:15:54 UTC	dj.narayanan, ksfortson, wump, XMIL	57	5	25
+330871	4	0	Rainbow (4 Suits)	2020-10-30 — 02:59:33 UTC	dj.narayanan, ksfortson, wump, XMIL	20	4	20
+330852	3	18	No Variant	2020-10-30 — 02:35:29 UTC	ksfortson, wump, XMIL	57	5	25
+330813	3	0	No Variant	2020-10-30 — 02:01:08 UTC	JackFrost, ksfortson, wump	194	5	25
+330759	3	0	Rainbow (5 Suits)	2020-10-30 — 00:53:49 UTC	Jake_Stiles, ksfortson, timotree	31	5	25
+330296	5	23	No Variant	2020-10-29 — 04:38:57 UTC	alphabeta, jeff10, ksfortson, wump, XMIL	38	5	25
+330277	5	0	No Variant	2020-10-29 — 04:01:43 UTC	alphabeta, jeff10, ksfortson, wump, XMIL	41	5	25
+330256	5	22	No Variant	2020-10-29 — 03:30:53 UTC	alphabeta, jeff10, ksfortson, wump, XMIL	45	5	25
+330233	5	0	No Variant	2020-10-29 — 02:58:00 UTC	alphabeta, cockdestroyer, ksfortson, wump, XMIL	44	5	25
+329569	3	0	Gray (6 Suits)	2020-10-28 — 01:58:18 UTC	Jake_Stiles, ksfortson, timotree	21	6	30
+329541	4	24	No Variant	2020-10-28 — 01:26:39 UTC	Jake_Stiles, ksfortson, timotree, veigar	48	5	25
+329517	3	25	No Variant	2020-10-28 — 00:49:35 UTC	Jake_Stiles, ksfortson, veigar	101	5	25
+329499	3	25	No Variant	2020-10-28 — 00:13:08 UTC	Jake_Stiles, ksfortson, veigar	98	5	25
+328760	4	29	Dark Rainbow (6 Suits)	2020-10-26 — 19:58:44 UTC	Carunty, ksfortson, Kyle, timotree	48	6	30
+328734	3	0	Dark Rainbow (6 Suits)	2020-10-26 — 19:26:46 UTC	Carunty, ksfortson, timotree	53	6	30
+328710	4	25	White-Ones & Rainbow (5 Suits)	2020-10-26 — 18:58:30 UTC	Carunty, ksfortson, TimeHoodie, XMIL	3	5	25
+328697	4	0	White-Ones & Rainbow (5 Suits)	2020-10-26 — 18:39:00 UTC	Carunty, ksfortson, TimeHoodie, XMIL	5	5	25
+328679	5	0	No Variant	2020-10-26 — 18:21:01 UTC	ksfortson, melwen, TimeHoodie, wump, XMIL	15	5	25
+328546	5	12	3 Suits	2020-10-26 — 08:19:57 UTC	Carunty, cockdestroyer, ksfortson, orucsoraihc, wump	24	3	15
+328542	5	11	3 Suits	2020-10-26 — 08:03:26 UTC	Carunty, cockdestroyer, ksfortson, orucsoraihc, wump	27	3	15
+328534	6	22	Gray (5 Suits)	2020-10-26 — 07:26:07 UTC	Carunty, cockdestroyer, ksfortson, micerang, orucsoraihc, wump	3	5	25
+328526	6	30	6 Suits	2020-10-26 — 06:40:55 UTC	Jtjg, ksfortson, Kyle, orucsoraihc, timotree, wump	9	6	30
+327735	5	0	No Variant	2020-10-25 — 02:57:34 UTC	Carunty, ksfortson, rz, timotree, XMIL	23	5	25
+327713	4	25	No Variant	2020-10-25 — 02:24:30 UTC	Carunty, ksfortson, rz, timotree	55	5	25
+327701	3	0	No Variant	2020-10-25 — 02:05:53 UTC	Carunty, ksfortson, timotree	27	5	25
+327682	4	0	Rainbow (5 Suits)	2020-10-25 — 01:42:33 UTC	Carunty, ksfortson, orucsoraihc, timotree	68	5	25
+327152	5	30	6 Suits	2020-10-24 — 06:08:42 UTC	ejwu, JackFrost, ksfortson, orucsoraihc, wump	35	6	30
+327135	5	0	6 Suits	2020-10-24 — 05:38:54 UTC	ejwu, JackFrost, ksfortson, orucsoraihc, wump	40	6	30
+327102	4	29	Clue Starved (6 Suits)	2020-10-24 — 05:09:14 UTC	duckmedic, ksfortson, rz, wump	5	6	30
+327063	4	0	Clue Starved (6 Suits)	2020-10-24 — 04:24:32 UTC	duckmedic, ksfortson, rz, wump	6	6	30
+327043	4	0	Clue Starved (6 Suits)	2020-10-24 — 04:05:10 UTC	duckmedic, ksfortson, rz, wump	7	6	30
+327035	4	0	Clue Starved (6 Suits)	2020-10-24 — 04:00:46 UTC	duckmedic, ksfortson, rz, wump	9	6	30
+326993	5	0	Omni (6 Suits)	2020-10-24 — 03:43:23 UTC	Carunty, duckmedic, ksfortson, rz, wump	9	6	30
+326948	5	0	Omni (6 Suits)	2020-10-24 — 03:26:50 UTC	Carunty, duckmedic, ksfortson, rz, wump	15	6	30
+326924	5	25	No Variant	2020-10-24 — 03:06:20 UTC	Carunty, duckmedic, ksfortson, rz, wump	100	5	25
+326908	6	22	Cow & Pig (5 Suits)	2020-10-24 — 02:28:49 UTC	Carunty, duckmedic, ksfortson, orucsoraihc, rz, wump	1	5	25
+326889	6	0	Cow & Pig (5 Suits)	2020-10-24 — 01:55:15 UTC	Carunty, duckmedic, ksfortson, orucsoraihc, rz, wump	3	5	25
+326332	3	25	No Variant	2020-10-23 — 06:36:44 UTC	ksfortson, orucsoraihc, wump	206	5	25
+326315	4	14	3 Suits	2020-10-23 — 06:06:54 UTC	Carunty, ksfortson, orucsoraihc, wump	62	3	15
+326310	4	13	3 Suits	2020-10-23 — 05:53:12 UTC	Carunty, ksfortson, orucsoraihc, wump	73	3	15
+326294	5	28	White & Brown (6 Suits)	2020-10-23 — 05:21:41 UTC	Carunty, duckmedic, JackFrost, ksfortson, wump	10	6	30
+326263	5	24	Throw It in a Hole (5 Suits)	2020-10-23 — 04:33:20 UTC	Carunty, duckmedic, JackFrost, ksfortson, wump	15	5	25
+325679	5	25	No Variant	2020-10-22 — 07:17:16 UTC	ejwu, Jtjg, ksfortson, orucsoraihc, wump	49	5	25
+325660	5	25	No Variant	2020-10-22 — 06:46:50 UTC	ejwu, Jtjg, ksfortson, orucsoraihc, wump	77	5	25
+325628	5	24	No Variant	2020-10-22 — 05:58:55 UTC	Carunty, Jtjg, ksfortson, StKildaFan, wump	81	5	25
+325593	6	29	6 Suits	2020-10-22 — 05:10:19 UTC	Carunty, duckmedic, JackFrost, Jtjg, ksfortson, wump	20	6	30
+325565	6	0	6 Suits	2020-10-22 — 04:29:56 UTC	Carunty, duckmedic, JackFrost, Jtjg, ksfortson, wump	34	6	30
+325546	4	0	Black (5 Suits)	2020-10-22 — 04:10:11 UTC	Carunty, JackFrost, ksfortson, wump	98	5	25
+325522	5	0	6 Suits	2020-10-22 — 03:45:45 UTC	Carunty, JackFrost, ksfortson, lil__bawree, wump	96	6	30
+325516	3	13	3 Suits	2020-10-22 — 03:36:29 UTC	Carunty, ksfortson, wump	144	3	15
+325495	4	24	No Variant	2020-10-22 — 03:05:44 UTC	Carunty, ksfortson, orucsoraihc, wump	308	5	25
+325424	4	24	Rainbow Reversed (5 Suits)	2020-10-22 — 01:52:49 UTC	duckmedic, ksfortson, rz, wump	11	5	25
+325386	4	24	Rainbow (5 Suits)	2020-10-22 — 01:10:00 UTC	Carunty, duckmedic, ksfortson, wump	130	5	25
+325335	5	0	6 Suits	2020-10-21 — 23:48:50 UTC	Carunty, JackFrost, ksfortson, wump, XMIL	45	6	30
+325305	5	0	Cocoa Rainbow (6 Suits)	2020-10-21 — 22:53:22 UTC	Div, Jake_Stiles, ksfortson, Valetta6789, Zamiel	3	6	30
+325299	5	0	Cocoa Rainbow (6 Suits)	2020-10-21 — 22:39:17 UTC	Div, Jake_Stiles, ksfortson, Valetta6789, Zamiel	4	6	30
+325294	5	25	No Variant	2020-10-21 — 22:30:39 UTC	Div, Jake_Stiles, ksfortson, Valetta6789, Zamiel	1	5	25
+325281	3	30	Rainbow & Prism (6 Suits)	2020-10-21 — 21:59:14 UTC	asaelr, Floriman, ksfortson	10	6	30
+325267	3	0	Rainbow & Prism (6 Suits)	2020-10-21 — 21:31:20 UTC	asaelr, Floriman, ksfortson	12	6	30
+324991	5	0	Prism (5 Suits)	2020-10-21 — 07:39:03 UTC	Carunty, Jtjg, ksfortson, timotree, VerySloppyTwo	13	5	25
+324988	3	24	Prism (5 Suits)	2020-10-21 — 07:08:37 UTC	Carunty, ksfortson, timotree	3	5	25
+324980	2	25	Prism (5 Suits)	2020-10-21 — 06:37:59 UTC	ksfortson, timotree	95	5	25
+324978	2	24	Clue Starved (6 Suits)	2020-10-21 — 06:16:56 UTC	ksfortson, timotree	33	6	30
+324953	4	0	No Variant	2020-10-21 — 05:13:15 UTC	Carunty, dartheron, Jtjg, ksfortson	419	5	25
+324934	4	24	No Variant	2020-10-21 — 04:37:48 UTC	Carunty, dartheron, Jtjg, ksfortson	473	5	25
+324916	6	21	Reversed (5 Suits)	2020-10-21 — 04:00:17 UTC	Carunty, dartheron, Jtjg, ksfortson, wump, XMIL	3	5	25
+324854	4	24	No Variant	2020-10-21 — 02:51:21 UTC	ksfortson, parrotdoxair, veigar, wump	655	5	25
+324772	5	27	Pink (6 Suits)	2020-10-21 — 00:39:49 UTC	ADrone, Carunty, ksfortson, newduke, pianoblook	15	6	30
+324745	5	0	Up or Down (5 Suits)	2020-10-20 — 23:38:14 UTC	ADrone, Carunty, ksfortson, newduke, StKildaFan	19	5	25
+324591	5	24	No Variant	2020-10-20 — 20:35:04 UTC	jack67889, ksfortson, Pablo-, pianoblook, VerySloppyTwo	92	5	25
+324578	4	24	No Variant	2020-10-20 — 20:08:54 UTC	jack67889, ksfortson, VerySloppyTwo, Zakisan	156	5	25
+324337	4	0	No Variant	2020-10-20 — 09:19:45 UTC	Carunty, Jtjg, ksfortson, StKildaFan	129	5	25
+324334	4	25	Reversed (5 Suits)	2020-10-20 — 08:17:28 UTC	Carunty, Jtjg, ksfortson, wump	6	5	25
+324329	4	22	Reversed (5 Suits)	2020-10-20 — 07:37:46 UTC	Carunty, Jtjg, ksfortson, wump	11	5	25
+324322	3	0	Reversed (5 Suits)	2020-10-20 — 07:01:00 UTC	Jtjg, ksfortson, wump	35	5	25
+324320	5	0	No Variant	2020-10-20 — 06:42:40 UTC	arianaclark, Jtjg, ksfortson, noahband, wump	109	5	25
+324314	5	23	White-Ones (5 Suits)	2020-10-20 — 06:17:17 UTC	Jtjg, ksfortson, orucsoraihc, wump, XMIL	2	5	25
+324304	4	29	6 Suits	2020-10-20 — 05:38:17 UTC	duckmedic, JackFrost, ksfortson, wump	191	6	30
+324291	4	0	6 Suits	2020-10-20 — 05:05:27 UTC	duckmedic, JackFrost, ksfortson, wump	250	6	30
+324266	4	0	No Variant	2020-10-20 — 04:07:36 UTC	Carunty, ksfortson, orucsoraihc, parrotdoxair	601	5	25
+324233	6	27	Prism (6 Suits)	2020-10-20 — 03:29:27 UTC	Carunty, JackFrost, ksfortson, orucsoraihc, parrotdoxair, wump	8	6	30
+324192	4	25	No Variant	2020-10-20 — 02:35:23 UTC	Carunty, JackFrost, ksfortson, orucsoraihc	373	5	25
+324166	3	25	No Variant	2020-10-20 — 02:09:41 UTC	Carunty, JackFrost, ksfortson	645	5	25
+324130	3	23	Black & Prism (6 Suits)	2020-10-20 — 01:24:07 UTC	ksfortson, melwen, scharkbite	12	6	30
+324102	3	0	Black & Prism (6 Suits)	2020-10-20 — 00:55:31 UTC	ksfortson, melwen, scharkbite	11	6	30
+324048	5	24	Rainbow (5 Suits)	2020-10-19 — 23:36:39 UTC	ADrone, cockdestroyer, DMoney, ksfortson, timotree	22	5	25
+324028	4	25	No Variant	2020-10-19 — 23:02:35 UTC	ADrone, duckmedic, ksfortson, timotree	54	5	25
+324001	4	0	No Variant	2020-10-19 — 22:39:46 UTC	ADrone, duckmedic, ksfortson, timotree	53	5	25
+323992	4	25	No Variant	2020-10-19 — 22:30:04 UTC	ADrone, duckmedic, ksfortson, timotree	55	5	25
+323974	2	25	No Variant	2020-10-19 — 21:59:18 UTC	ADrone, ksfortson	1840	5	25
+323634	3	23	Black (5 Suits)	2020-10-19 — 08:03:37 UTC	Carunty, ksfortson, wump	171	5	25
+323618	5	25	No Variant	2020-10-19 — 07:19:46 UTC	Carunty, Jtjg, ksfortson, timotree, wump	21	5	25
+323605	5	23	No Variant	2020-10-19 — 06:44:12 UTC	Carunty, Jtjg, ksfortson, timotree, wump	25	5	25
+323600	5	24	No Variant	2020-10-19 — 06:06:18 UTC	Carunty, Jtjg, ksfortson, timotree, wump	25	5	25
+323585	4	0	Reversed (5 Suits)	2020-10-19 — 05:37:01 UTC	Carunty, ksfortson, wump, XMIL	10	5	25
+323573	4	22	Reversed (5 Suits)	2020-10-19 — 05:16:19 UTC	Carunty, ksfortson, wump, XMIL	17	5	25
+323541	4	23	Prism (5 Suits)	2020-10-19 — 04:27:43 UTC	Carunty, ksfortson, wump, XMIL	20	5	25
+323504	5	25	White-Ones (5 Suits)	2020-10-19 — 03:41:55 UTC	Carunty, ksfortson, rz, wump, XMIL	2	5	25
+323478	5	0	White-Ones (5 Suits)	2020-10-19 — 03:09:31 UTC	Carunty, ksfortson, rz, wump, XMIL	3	5	25
+323461	4	0	White-Ones (5 Suits)	2020-10-19 — 02:48:35 UTC	Carunty, ksfortson, rz, XMIL	10	5	25
+323431	3	25	No Variant	2020-10-19 — 02:14:16 UTC	ksfortson, rz, XMIL	57	5	25
+323401	3	0	No Variant	2020-10-19 — 01:43:12 UTC	ksfortson, rz, XMIL	57	5	25
+323264	5	0	Throw It in a Hole (5 Suits)	2020-10-18 — 22:57:36 UTC	duckmedic, JackFrost, ksfortson, wump, XMIL	3	5	25
+323220	6	25	No Variant	2020-10-18 — 22:12:36 UTC	Carunty, duckmedic, JackFrost, ksfortson, wump, XMIL	36	5	25
+323180	5	25	No Variant	2020-10-18 — 21:39:55 UTC	Carunty, duckmedic, JackFrost, ksfortson, wump	126	5	25
+322770	3	24	White (5 Suits)	2020-10-18 — 05:19:37 UTC	Carunty, ksfortson, XMIL	10	5	25
+322750	3	0	White (5 Suits)	2020-10-18 — 04:58:38 UTC	Carunty, ksfortson, XMIL	10	5	25
+322737	3	0	White (5 Suits)	2020-10-18 — 04:47:36 UTC	Carunty, ksfortson, XMIL	10	5	25
+322717	4	23	No Variant	2020-10-18 — 04:15:19 UTC	Carunty, ksfortson, rz, wump	336	5	25
+322682	4	25	No Variant	2020-10-18 — 03:39:47 UTC	Carunty, ksfortson, rz, timotree	63	5	25
+322653	5	24	No Variant	2020-10-18 — 03:04:58 UTC	Carunty, JerryYang, ksfortson, rz, timotree	31	5	25
+322613	4	24	No Variant	2020-10-18 — 02:21:03 UTC	Carunty, JerryYang, ksfortson, timotree	64	5	25
+322571	5	22	No Variant	2020-10-18 — 01:30:22 UTC	avanderwalde, Jake_Stiles, ksfortson, TheDaniMan, Zamiel	1	5	25
+322500	6	0	No Variant	2020-10-17 — 23:11:39 UTC	Carunty, CStryker, duckmedic, JackFrost, ksfortson, wump	115	5	25
+322470	6	24	No Variant	2020-10-17 — 22:35:37 UTC	Carunty, CStryker, JackFrost, ksfortson, letical, wump	23	5	25
+322451	6	0	No Variant	2020-10-17 — 22:07:04 UTC	Carunty, CStryker, JackFrost, ksfortson, letical, wump	42	5	25
+322423	4	0	No Variant	2020-10-17 — 21:42:13 UTC	CStryker, ksfortson, letical, wump	111	5	25
+321983	4	24	No Variant	2020-10-17 — 03:27:20 UTC	antitelharsic, Carunty, duckmedic, ksfortson	44	5	25
+321944	4	24	No Variant	2020-10-17 — 02:48:54 UTC	antitelharsic, Carunty, duckmedic, ksfortson	47	5	25
+321747	4	18	Prism (4 Suits)	2020-10-16 — 21:17:40 UTC	ksfortson, Kyle, TimeHoodie, timotree	4	4	20
+321731	4	19	Prism (4 Suits)	2020-10-16 — 20:56:29 UTC	ksfortson, Kyle, TimeHoodie, timotree	11	4	20
+321478	3	25	No Variant	2020-10-16 — 07:37:20 UTC	Carunty, ksfortson, wump	220	5	25
+321474	3	20	No Variant	2020-10-16 — 07:03:42 UTC	Carunty, ksfortson, wump	224	5	25
+321468	3	24	No Variant	2020-10-16 — 06:29:11 UTC	Carunty, ksfortson, wump	250	5	25
+321458	3	24	No Variant	2020-10-16 — 05:54:01 UTC	Jtjg, ksfortson, wump	259	5	25
+321248	5	24	No Variant	2020-10-16 — 00:33:38 UTC	angel-a, Carunty, duckmedic, ksfortson, wump	176	5	25
+321213	5	0	No Variant	2020-10-15 — 23:47:58 UTC	angel-a, Carunty, duckmedic, ksfortson, rz	1510	5	25
+321191	4	24	No Variant	2020-10-15 — 23:15:08 UTC	angel-a, antitelharsic, ksfortson, rz	64	5	25
+321165	5	24	No Variant	2020-10-15 — 22:41:13 UTC	honzas, Jtjg, ksfortson, rz, timotree	27	5	25
+321150	5	0	No Variant	2020-10-15 — 22:07:07 UTC	honzas, Jtjg, ksfortson, rz, timotree	25	5	25
+321137	5	0	No Variant	2020-10-15 — 21:33:34 UTC	honzas, Jtjg, ksfortson, rz, timotree	29	5	25
+320805	4	24	No Variant	2020-10-15 — 08:03:28 UTC	Jtjg, ksfortson, StKildaFan, wump	138	5	25
+320802	5	19	No Variant	2020-10-15 — 07:20:55 UTC	Carunty, Jtjg, ksfortson, timotree, wump	50	5	25
+320795	5	23	No Variant	2020-10-15 — 06:28:29 UTC	Carunty, Jtjg, ksfortson, timotree, wump	120	5	25
+320742	3	30	Rainbow (6 Suits)	2020-10-15 — 05:10:23 UTC	JackFrost, ksfortson, wump	77	6	30
+320700	3	0	Rainbow (6 Suits)	2020-10-15 — 04:34:05 UTC	JackFrost, ksfortson, wump	79	6	30
+320679	3	30	White (6 Suits)	2020-10-15 — 04:15:15 UTC	JackFrost, ksfortson, wump	33	6	30
+320660	3	24	No Variant	2020-10-15 — 03:46:15 UTC	angel-a, ksfortson, timotree	59	5	25
+320553	4	24	No Variant	2020-10-15 — 01:44:31 UTC	benana, carrotstalker, ksfortson, wump	899	5	25
+320146	5	26	White (6 Suits)	2020-10-14 — 05:41:07 UTC	angel-a, Carunty, JackFrost, ksfortson, wump	17	6	30
+320121	5	0	White (6 Suits)	2020-10-14 — 04:58:56 UTC	angel-a, Carunty, JackFrost, ksfortson, wump	20	6	30
+320097	4	28	White (6 Suits)	2020-10-14 — 04:26:11 UTC	Carunty, JackFrost, ksfortson, wump	75	6	30
+320053	3	29	White (6 Suits)	2020-10-14 — 03:34:00 UTC	JackFrost, ksfortson, wump	37	6	30
+320002	5	25	Prism (5 Suits)	2020-10-14 — 02:35:46 UTC	angel-a, Animex52, JackFrost, ksfortson, wump	9	5	25
+319856	4	30	6 Suits	2020-10-13 — 23:43:37 UTC	angel-a, JackFrost, ksfortson, rz	354	6	30
+319839	4	23	No Variant	2020-10-13 — 23:07:49 UTC	duckmedic, JackFrost, ksfortson, rz	985	5	25
+319822	3	0	6 Suits	2020-10-13 — 22:35:47 UTC	duckmedic, JackFrost, ksfortson	365	6	30
+319797	6	18	No Variant	2020-10-13 — 21:50:18 UTC	Carunty, jack67889, ksfortson, newduke, TimeHoodie, timotree	12	5	25
+319732	5	23	No Variant	2020-10-13 — 20:56:57 UTC	angel-a, Carunty, ksfortson, Kyle, timotree	20	5	25
+319355	5	29	Rainbow (6 Suits)	2020-10-13 — 05:26:55 UTC	angel-a, JackFrost, ksfortson, StKildaFan, wump	67	6	30
+319292	5	28	White (6 Suits)	2020-10-13 — 04:12:08 UTC	duckmedic, JackFrost, ksfortson, StKildaFan, wump	27	6	30
+319255	5	0	White (6 Suits)	2020-10-13 — 03:34:31 UTC	duckmedic, JackFrost, ksfortson, StKildaFan, wump	37	6	30
+319233	3	27	White (6 Suits)	2020-10-13 — 03:11:25 UTC	duckmedic, JackFrost, ksfortson	53	6	30
+319203	3	0	White (6 Suits)	2020-10-13 — 02:32:05 UTC	duckmedic, JackFrost, ksfortson	70	6	30
+319183	3	0	White (6 Suits)	2020-10-13 — 02:09:55 UTC	duckmedic, JackFrost, ksfortson	101	6	30
+319174	3	28	Up or Down (6 Suits)	2020-10-13 — 01:59:02 UTC	duckmedic, JackFrost, ksfortson	55	6	30
+319146	3	23	Up or Down (5 Suits)	2020-10-13 — 01:23:14 UTC	duckmedic, JackFrost, ksfortson	113	5	25
+319114	5	30	Rainbow (6 Suits)	2020-10-13 — 00:46:13 UTC	Carunty, duckmedic, JackFrost, ksfortson, wump	101	6	30
+319087	4	0	Rainbow (6 Suits)	2020-10-13 — 00:03:37 UTC	Carunty, JackFrost, ksfortson, wump	91	6	30
+319085	4	0	Rainbow (6 Suits)	2020-10-13 — 00:00:56 UTC	Carunty, JackFrost, ksfortson, wump	96	6	30
+319071	2	21	No Variant	2020-10-12 — 23:27:51 UTC	JackFrost, ksfortson	5374	5	25
+319050	3	0	Rainbow (6 Suits)	2020-10-12 — 22:46:40 UTC	duckmedic, JackFrost, ksfortson	91	6	30
+319038	3	0	Rainbow (6 Suits)	2020-10-12 — 22:13:15 UTC	duckmedic, JackFrost, ksfortson	91	6	30
+319027	3	25	Prism (5 Suits)	2020-10-12 — 21:52:10 UTC	duckmedic, JackFrost, ksfortson	80	5	25
+319015	3	0	6 Suits	2020-10-12 — 21:33:20 UTC	asaelr, Jake_Stiles, ksfortson	7	6	30
+319003	3	0	6 Suits	2020-10-12 — 21:15:46 UTC	asaelr, Jake_Stiles, ksfortson	7	6	30
+318928	4	0	Rainbow (6 Suits)	2020-10-12 — 19:33:03 UTC	angel-a, Carunty, ksfortson, XMIL	275	6	30
+318889	4	0	Rainbow (6 Suits)	2020-10-12 — 18:46:22 UTC	angel-a, Carunty, ksfortson, Pepepe	493	6	30
+318714	3	28	Black (6 Suits)	2020-10-12 — 07:42:09 UTC	ksfortson, Pablo-, wump	213	6	30
+318693	4	0	Rainbow (6 Suits)	2020-10-12 — 06:23:40 UTC	duckmedic, JackFrost, ksfortson, wump	104	6	30
+318679	4	0	Rainbow (6 Suits)	2020-10-12 — 05:46:48 UTC	duckmedic, JackFrost, ksfortson, wump	122	6	30
+318670	4	0	Rainbow (6 Suits)	2020-10-12 — 05:32:41 UTC	duckmedic, JackFrost, ksfortson, wump	156	6	30
+318650	3	29	Rainbow (6 Suits)	2020-10-12 — 05:09:16 UTC	duckmedic, JackFrost, ksfortson	102	6	30
+318619	3	0	Rainbow (6 Suits)	2020-10-12 — 04:33:03 UTC	duckmedic, JackFrost, ksfortson	104	6	30
+318605	3	0	No Variant	2020-10-12 — 04:16:15 UTC	JackFrost, ksfortson, StKildaFan	55	5	25
+318589	3	0	No Variant	2020-10-12 — 03:45:10 UTC	JackFrost, ksfortson, StKildaFan	57	5	25
+318557	4	24	No Variant	2020-10-12 — 02:59:14 UTC	duckmedic, JackFrost, Jwpogue, ksfortson	1092	5	25
+318517	4	0	No Variant	2020-10-12 — 02:20:48 UTC	duckmedic, JackFrost, Jwpogue, ksfortson	1253	5	25
+317966	5	24	No Variant	2020-10-11 — 07:03:25 UTC	Carunty, duckmedic, JackFrost, ksfortson, orucsoraihc	135	5	25
+317957	5	0	No Variant	2020-10-11 — 06:29:04 UTC	Carunty, duckmedic, JackFrost, ksfortson, orucsoraihc	195	5	25
+317948	5	23	No Variant	2020-10-11 — 05:55:21 UTC	Carunty, duckmedic, JackFrost, ksfortson, orucsoraihc	344	5	25
+317642	3	25	No Variant	2020-10-10 — 23:41:27 UTC	angel-a, ksfortson, wump	269	5	25
+317605	4	25	No Variant	2020-10-10 — 23:00:23 UTC	antitelharsic, Carunty, ksfortson, swineherd	61	5	25
+317578	4	0	No Variant	2020-10-10 — 22:24:05 UTC	antitelharsic, Carunty, ksfortson, swineherd	60	5	25
+317546	4	22	No Variant	2020-10-10 — 21:54:17 UTC	antitelharsic, Carunty, ksfortson, swineherd	59	5	25
+317249	4	0	Prism (6 Suits)	2020-10-10 — 09:22:46 UTC	antitelharsic, JackFrost, ksfortson, wump	3	6	30
+317239	4	0	Prism (6 Suits)	2020-10-10 — 08:39:48 UTC	antitelharsic, JackFrost, ksfortson, wump	4	6	30
+317221	3	25	No Variant	2020-10-10 — 07:44:55 UTC	JackFrost, ksfortson, wump	285	5	25
+317206	4	26	Up or Down (6 Suits)	2020-10-10 — 07:01:15 UTC	angel-a, JackFrost, ksfortson, wump	40	6	30
+317125	5	30	Prism (6 Suits)	2020-10-10 — 05:16:34 UTC	angie123, JackFrost, ksfortson, VipersOracle, wump	17	6	30
+317074	5	0	Prism (6 Suits)	2020-10-10 — 04:27:15 UTC	angie123, JackFrost, ksfortson, VipersOracle, wump	24	6	30
+317044	6	27	6 Suits	2020-10-10 — 03:43:52 UTC	angie123, duckmedic, JackFrost, ksfortson, parrotdoxair, VipersOracle	50	6	30
+316997	6	21	No Variant	2020-10-10 — 02:44:15 UTC	angel-a, angie123, JackFrost, ksfortson, VipersOracle, wump	179	5	25
+316949	6	22	No Variant	2020-10-10 — 01:51:51 UTC	angel-a, angie123, JackFrost, ksfortson, VipersOracle, wump	282	5	25
+316930	6	0	No Variant	2020-10-10 — 01:33:39 UTC	angel-a, angie123, JackFrost, ksfortson, squidgetx, VipersOracle	478	5	25
+316926	3	25	No Variant	2020-10-10 — 01:28:20 UTC	angel-a, ksfortson, wump	307	5	25
+316904	3	0	No Variant	2020-10-10 — 01:04:27 UTC	angel-a, ksfortson, wump	324	5	25
+316429	4	0	Prism (6 Suits)	2020-10-09 — 07:53:43 UTC	duckmedic, ksfortson, VipersOracle, wump	6	6	30
+316425	2	21	Pink (6 Suits)	2020-10-09 — 07:39:47 UTC	ksfortson, wump	172	6	30
+316416	2	27	Pink (6 Suits)	2020-10-09 — 07:04:15 UTC	ksfortson, wump	219	6	30
+316395	3	0	Prism (6 Suits)	2020-10-09 — 06:13:37 UTC	ksfortson, VipersOracle, wump	20	6	30
+316389	5	26	Prism (6 Suits)	2020-10-09 — 05:46:20 UTC	antitelharsic, duckmedic, JackFrost, ksfortson, wump	10	6	30
+316367	5	0	Prism (6 Suits)	2020-10-09 — 05:06:06 UTC	antitelharsic, duckmedic, JackFrost, ksfortson, wump	12	6	30
+316364	5	0	Dual-Color (6 Suits)	2020-10-09 — 05:02:15 UTC	antitelharsic, duckmedic, JackFrost, ksfortson, wump	18	6	30
+316333	5	24	No Variant	2020-10-09 — 04:34:34 UTC	duckmedic, JackFrost, ksfortson, orucsoraihc, wump	541	5	25
+316313	5	0	No Variant	2020-10-09 — 04:06:24 UTC	duckmedic, JackFrost, ksfortson, orucsoraihc, wump	1119	5	25
+316204	5	0	No Variant	2020-10-09 — 02:12:56 UTC	duckmedic, JackFrost, ksfortson, StKildaFan, wump	223	5	25
+316188	5	0	No Variant	2020-10-09 — 01:43:41 UTC	duckmedic, JackFrost, ksfortson, StKildaFan, wump	658	5	25
+316179	5	0	No Variant	2020-10-09 — 01:30:48 UTC	duckmedic, JackFrost, ksfortson, StKildaFan, wump	1995	5	25
+316173	3	23	No Variant	2020-10-09 — 01:18:14 UTC	duckmedic, ksfortson, wump	344	5	25
+316158	3	0	No Variant	2020-10-09 — 00:58:39 UTC	duckmedic, ksfortson, wump	354	5	25
+315673	2	22	Up or Down (5 Suits)	2020-10-08 — 05:48:45 UTC	JackFrost, ksfortson	105	5	25
+315653	2	0	Up or Down (5 Suits)	2020-10-08 — 05:21:42 UTC	JackFrost, ksfortson	141	5	25
+315632	3	27	Prism (6 Suits)	2020-10-08 — 04:45:16 UTC	duckmedic, JackFrost, ksfortson	21	6	30
+315587	3	0	Prism (6 Suits)	2020-10-08 — 04:03:55 UTC	duckmedic, JackFrost, ksfortson	24	6	30
+315566	3	29	Prism (6 Suits)	2020-10-08 — 03:42:55 UTC	duckmedic, ksfortson, wump	25	6	30
+315543	3	0	Prism (6 Suits)	2020-10-08 — 03:13:29 UTC	duckmedic, ksfortson, wump	36	6	30
+315511	5	25	No Variant	2020-10-08 — 02:49:24 UTC	duckmedic, honzas, ksfortson, timotree, wump	143	5	25
+315474	5	0	No Variant	2020-10-08 — 02:12:14 UTC	duckmedic, honzas, ksfortson, timotree, wump	163	5	25
+315436	5	25	No Variant	2020-10-08 — 01:45:14 UTC	duckmedic, honzas, ksfortson, timotree, wump	262	5	25
+315397	5	25	No Variant	2020-10-08 — 00:59:20 UTC	duckmedic, honzas, ksfortson, timotree, wump	296	5	25
+315361	3	25	No Variant	2020-10-08 — 00:22:15 UTC	duckmedic, ksfortson, wump	375	5	25
+314835	5	25	No Variant	2020-10-07 — 07:35:18 UTC	antitelharsic, duckmedic, JackFrost, ksfortson, wump	80	5	25
+314775	4	25	No Variant	2020-10-07 — 05:34:10 UTC	duckmedic, JackFrost, ksfortson, wump	1449	5	25
+314754	4	22	No Variant	2020-10-07 — 04:56:27 UTC	duckmedic, JackFrost, ksfortson, wump	1744	5	25
+314721	4	0	No Variant	2020-10-07 — 04:19:40 UTC	duckmedic, JackFrost, ksfortson, wump	2076	5	25
+314707	4	22	No Variant	2020-10-07 — 04:01:50 UTC	duckmedic, JackFrost, ksfortson, wump	3581	5	25
+314675	4	23	No Variant	2020-10-07 — 03:06:41 UTC	JackFrost, Jake_Stiles, ksfortson, wump	233	5	25
+314657	4	0	No Variant	2020-10-07 — 02:31:39 UTC	JackFrost, Jake_Stiles, ksfortson, wump	243	5	25
+314639	4	24	No Variant	2020-10-07 — 01:59:39 UTC	JackFrost, Jake_Stiles, ksfortson, wump	287	5	25
+314615	4	25	No Variant	2020-10-07 — 01:22:59 UTC	JackFrost, Jake_Stiles, ksfortson, wump	326	5	25
+314578	3	0	No Variant	2020-10-07 — 00:41:02 UTC	Jake_Stiles, ksfortson, wump	100	5	25
+314562	4	0	No Variant	2020-10-07 — 00:26:19 UTC	JackFrost, Jake_Stiles, ksfortson, wump	442	5	25
+314558	4	24	No Variant	2020-10-07 — 00:15:01 UTC	JackFrost, Jake_Stiles, ksfortson, wump	717	5	25
+314527	3	24	No Variant	2020-10-06 — 23:41:44 UTC	JackFrost, Jake_Stiles, ksfortson	106	5	25
+314516	3	0	No Variant	2020-10-06 — 23:17:22 UTC	DMoney, Jake_Stiles, ksfortson	102	5	25
+314181	4	25	No Variant	2020-10-06 — 08:48:41 UTC	antitelharsic, ejwu, ksfortson, VipersOracle	74	5	25
+314172	3	25	No Variant	2020-10-06 — 08:03:40 UTC	antitelharsic, ksfortson, VipersOracle	65	5	25
+314152	4	24	No Variant	2020-10-06 — 07:23:24 UTC	antitelharsic, ksfortson, VipersOracle, wump	74	5	25
+314142	6	23	No Variant	2020-10-06 — 06:35:29 UTC	AnnaTheNerd, antitelharsic, ejwu, ksfortson, StKildaFan, VipersOracle	25	5	25
+314130	4	24	No Variant	2020-10-06 — 05:59:22 UTC	AnnaTheNerd, ksfortson, StKildaFan, wump	190	5	25
+314095	6	25	No Variant	2020-10-06 — 05:19:21 UTC	duckmedic, JackFrost, ksfortson, lingomaniac88, StKildaFan, wump	60	5	25
+314062	6	0	No Variant	2020-10-06 — 04:43:06 UTC	duckmedic, JackFrost, ksfortson, orucsoraihc, StKildaFan, wump	91	5	25
+314045	3	23	No Variant	2020-10-06 — 04:18:42 UTC	JackFrost, ksfortson, wump	422	5	25
+314028	3	0	No Variant	2020-10-06 — 03:46:21 UTC	JackFrost, ksfortson, wump	451	5	25
+314021	3	0	No Variant	2020-10-06 — 03:33:29 UTC	JackFrost, ksfortson, wump	485	5	25
+314007	3	0	No Variant	2020-10-06 — 03:17:29 UTC	JackFrost, ksfortson, wump	516	5	25
+313990	3	29	White (6 Suits)	2020-10-06 — 02:58:26 UTC	JackFrost, ksfortson, wump	124	6	30
+313333	4	29	Duck (6 Suits)	2020-10-05 — 07:20:21 UTC	duckmedic, ksfortson, VipersOracle, wump	7	6	30
+313328	4	0	Duck (6 Suits)	2020-10-05 — 06:47:45 UTC	duckmedic, ksfortson, VipersOracle, wump	9	6	30
+313327	3	0	Duck (6 Suits)	2020-10-05 — 06:44:31 UTC	duckmedic, ksfortson, wump	12	6	30
+313325	3	0	Duck (6 Suits)	2020-10-05 — 06:39:47 UTC	duckmedic, ksfortson, wump	17	6	30
+313322	3	29	Black (6 Suits)	2020-10-05 — 06:18:14 UTC	duckmedic, ksfortson, wump	399	6	30
+313304	3	28	6 Suits	2020-10-05 — 05:37:13 UTC	ksfortson, lingomaniac88, wump	503	6	30
+313294	6	0	6 Suits	2020-10-05 — 04:48:46 UTC	AnnaTheNerd, ksfortson, lingomaniac88, StKildaFan, VipersOracle, wump	84	6	30
+312913	2	24	No Variant	2020-10-04 — 20:15:52 UTC	ksfortson, timotree	90	5	25
+312897	2	0	No Variant	2020-10-04 — 19:49:00 UTC	ksfortson, timotree	90	5	25
+312879	2	25	No Variant	2020-10-04 — 19:30:02 UTC	ksfortson, timotree	90	5	25
+312848	3	21	No Variant	2020-10-04 — 18:51:38 UTC	ksfortson, merlinworks3636, timotree	119	5	25
+312695	3	30	Rainbow & Prism (6 Suits)	2020-10-04 — 09:38:59 UTC	JackFrost, ksfortson, wump	18	6	30
+312671	4	22	Up or Down (5 Suits)	2020-10-04 — 08:17:59 UTC	duckmedic, JackFrost, ksfortson, wump	75	5	25
+312658	4	0	Prism (6 Suits)	2020-10-04 — 07:47:08 UTC	duckmedic, JackFrost, ksfortson, wump	6	6	30
+312649	4	26	Prism (6 Suits)	2020-10-04 — 07:29:48 UTC	duckmedic, JackFrost, ksfortson, wump	5	6	30
+312636	4	0	Prism (6 Suits)	2020-10-04 — 06:54:42 UTC	duckmedic, JackFrost, ksfortson, wump	6	6	30
+312635	4	0	Prism (6 Suits)	2020-10-04 — 06:52:57 UTC	duckmedic, JackFrost, ksfortson, wump	7	6	30
+312634	4	0	Prism (6 Suits)	2020-10-04 — 06:52:47 UTC	duckmedic, JackFrost, ksfortson, wump	10	6	30
+312628	4	0	Prism (6 Suits)	2020-10-04 — 06:35:24 UTC	duckmedic, JackFrost, ksfortson, wump	8	6	30
+312613	4	0	Prism (6 Suits)	2020-10-04 — 06:02:32 UTC	duckmedic, JackFrost, ksfortson, wump	14	6	30
+312602	4	0	Prism (6 Suits)	2020-10-04 — 05:48:12 UTC	duckmedic, JackFrost, ksfortson, wump	15	6	30
+312587	4	25	Prism (6 Suits)	2020-10-04 — 05:24:03 UTC	duckmedic, JackFrost, ksfortson, wump	15	6	30
+312560	4	0	Prism (6 Suits)	2020-10-04 — 04:46:17 UTC	duckmedic, JackFrost, ksfortson, wump	22	6	30
+312545	4	0	Prism (6 Suits)	2020-10-04 — 04:21:43 UTC	ksfortson, Kyle, Puzzle, wump	23	6	30
+312530	4	28	Prism (6 Suits)	2020-10-04 — 03:56:29 UTC	ksfortson, Kyle, Puzzle, wump	26	6	30
+312510	3	30	Prism (6 Suits)	2020-10-04 — 03:25:18 UTC	ksfortson, scharkbite, wump	45	6	30
+312084	3	23	No Variant	2020-10-03 — 19:51:40 UTC	ksfortson, Kyle, scharkbite	60	5	25
+312065	4	0	No Variant	2020-10-03 — 19:33:21 UTC	DMoney, ksfortson, Kyle, scharkbite	17	5	25
+311667	4	25	No Variant	2020-10-03 — 04:38:11 UTC	Fireheart, ksfortson, Nitrate2, Zamiel	1	5	25
+311171	3	30	Prism (6 Suits)	2020-10-02 — 19:35:24 UTC	ksfortson, Veexliat, wump	60	6	30
+311155	3	27	Prism (6 Suits)	2020-10-02 — 19:06:00 UTC	ksfortson, Veexliat, wump	84	6	30
+311136	3	27	Black (6 Suits)	2020-10-02 — 18:29:38 UTC	ksfortson, nitawa, wump	261	6	30
+310914	4	26	Prism (6 Suits)	2020-10-02 — 06:43:59 UTC	duckmedic, JackFrost, ksfortson, wump	35	6	30
+310904	4	27	Prism (6 Suits)	2020-10-02 — 06:01:02 UTC	duckmedic, JackFrost, ksfortson, wump	53	6	30
+310390	2	27	Prism (6 Suits)	2020-10-01 — 07:46:06 UTC	ksfortson, wump	87	6	30
+310380	2	27	Prism (6 Suits)	2020-10-01 — 07:22:01 UTC	ksfortson, wump	112	6	30
+310347	3	21	No Variant	2020-10-01 — 06:26:13 UTC	ksfortson, parrotdoxair, wump	840	5	25
+310334	4	0	No Variant	2020-10-01 — 05:57:50 UTC	ksfortson, parrotdoxair, StKildaFan, wump	257	5	25
+310327	4	0	No Variant	2020-10-01 — 05:46:40 UTC	ksfortson, parrotdoxair, StKildaFan, wump	278	5	25
+309617	2	28	Rainbow (6 Suits)	2020-09-30 — 08:10:14 UTC	ksfortson, wump	306	6	30
+309612	3	25	No Variant	2020-09-30 — 07:19:43 UTC	ksfortson, timotree, wump	121	5	25
+309609	2	24	No Variant	2020-09-30 — 06:49:33 UTC	ksfortson, timotree	102	5	25
+309603	2	23	No Variant	2020-09-30 — 06:21:27 UTC	ksfortson, timotree	101	5	25
+309599	2	0	No Variant	2020-09-30 — 06:07:03 UTC	ksfortson, timotree	109	5	25
+309592	2	25	No Variant	2020-09-30 — 05:51:39 UTC	ksfortson, timotree	109	5	25
+309569	4	0	No Variant	2020-09-30 — 05:16:29 UTC	AnnaTheNerd, ksfortson, timotree, Zamiel	1	5	25
+308199	2	30	Rainbow (6 Suits)	2020-09-28 — 06:34:30 UTC	ksfortson, wump	327	6	30
+308192	2	30	Rainbow (6 Suits)	2020-09-28 — 06:00:17 UTC	ksfortson, wump	349	6	30
+308170	2	29	Rainbow (6 Suits)	2020-09-28 — 05:08:02 UTC	ksfortson, wump	395	6	30
+308141	3	29	Rainbow (6 Suits)	2020-09-28 — 04:24:18 UTC	JackFrost, ksfortson, wump	118	6	30
+308127	4	0	Rainbow (6 Suits)	2020-09-28 — 03:48:28 UTC	Galandria, JackFrost, ksfortson, wump	163	6	30
+307553	3	30	Rainbow (6 Suits)	2020-09-27 — 08:31:03 UTC	JackFrost, ksfortson, wump	141	6	30
+307540	3	26	Rainbow (6 Suits)	2020-09-27 — 07:53:51 UTC	JackFrost, ksfortson, wump	146	6	30
+307525	3	24	Rainbow (6 Suits)	2020-09-27 — 07:20:10 UTC	Galandria, ksfortson, wump	165	6	30
+307517	3	0	Rainbow (6 Suits)	2020-09-27 — 06:44:25 UTC	Galandria, ksfortson, wump	183	6	30
+299575	2	0	Rainbow (6 Suits)	2020-09-17 — 08:10:24 UTC	ksfortson, wump	441	6	30
+299567	2	28	Rainbow (6 Suits)	2020-09-17 — 07:42:50 UTC	ksfortson, wump	500	6	30
+299561	2	28	Rainbow (6 Suits)	2020-09-17 — 07:10:47 UTC	ksfortson, wump	593	6	30
+299544	3	30	Rainbow (6 Suits)	2020-09-17 — 06:18:33 UTC	Galandria, ksfortson, wump	196	6	30
+299502	3	0	Rainbow (6 Suits)	2020-09-17 — 05:31:28 UTC	Galandria, ksfortson, wump	215	6	30
+299485	3	0	Rainbow (6 Suits)	2020-09-17 — 04:49:53 UTC	Galandria, ksfortson, wump	237	6	30
+299454	3	28	Rainbow (6 Suits)	2020-09-17 — 04:13:07 UTC	Galandria, ksfortson, wump	282	6	30
+299419	3	28	Rainbow (6 Suits)	2020-09-17 — 03:32:15 UTC	Galandria, ksfortson, wump	332	6	30
+299349	3	20	Rainbow (6 Suits)	2020-09-17 — 02:43:19 UTC	Galandria, ksfortson, wump	396	6	30

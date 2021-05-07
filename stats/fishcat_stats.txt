@@ -1,0 +1,934 @@
+508947	3	25	No Variant	2021-04-22 — 00:28:55 UTC	fishcat, hamsterox, hotdave2	40	5	25
+497582	3	0	No Variant	2021-04-11 — 21:31:50 UTC	fishcat, hamsterox, hotdave2	40	5	25
+497550	3	0	No Variant	2021-04-11 — 21:05:41 UTC	fishcat, hamsterox, hotdave2	40	5	25
+494041	2	0	Rainbow (5 Suits)	2021-04-08 — 16:36:38 UTC	ADrone, fishcat	7	5	25
+494032	2	0	Rainbow (5 Suits)	2021-04-08 — 16:21:15 UTC	ADrone, fishcat	7	5	25
+494026	2	30	Rainbow (6 Suits)	2021-04-08 — 16:09:02 UTC	ADrone, fishcat	327	6	30
+489783	3	25	No Variant	2021-04-03 — 23:30:42 UTC	fishcat, hamsterox, hotdave2	40	5	25
+486907	5	25	No Variant	2021-04-01 — 00:46:03 UTC	ADrone, fishcat, qwertyelmer, XMIL, zyzzvays	38	5	25
+486887	2	0	Black & Pink (5 Suits)	2021-04-01 — 00:12:53 UTC	ADrone, fishcat	37	5	25
+484990	3	25	No Variant	2021-03-30 — 01:09:57 UTC	fishcat, hamsterox, hotdave2	40	5	25
+483988	3	30	Pink (6 Suits)	2021-03-29 — 00:29:31 UTC	ADrone, fishcat, Huxley	92	6	30
+483961	3	25	No Variant	2021-03-28 — 23:49:24 UTC	ADrone, fishcat, Huxley	41	5	25
+481866	3	20	Rainbow & Omni (4 Suits)	2021-03-27 — 02:14:53 UTC	ADrone, fishcat, pianoblook	4	4	20
+481841	3	25	Rainbow & Omni (5 Suits)	2021-03-27 — 01:49:50 UTC	ADrone, fishcat, pianoblook	6	5	25
+479730	3	0	No Variant	2021-03-25 — 01:08:43 UTC	fishcat, hamsterox, hotdave2	41	5	25
+479704	3	0	No Variant	2021-03-25 — 00:47:14 UTC	fishcat, hamsterox, hotdave2	42	5	25
+479642	3	24	No Variant	2021-03-24 — 23:56:21 UTC	fishcat, hamsterox, hotdave2	40	5	25
+477288	4	30	Pink & Brown (6 Suits)	2021-03-22 — 22:11:59 UTC	fishcat, Floriman, pianoblook, swineherd	13	6	30
+477252	3	20	Pink & Brown (4 Suits)	2021-03-22 — 21:44:58 UTC	fishcat, Floriman, pianoblook	5	4	20
+476451	3	25	No Variant	2021-03-22 — 00:05:16 UTC	fishcat, hamsterox, hotdave2	39	5	25
+471926	3	25	No Variant	2021-03-17 — 23:36:25 UTC	fishcat, hamsterox, hotdave2	37	5	25
+469216	3	30	Rainbow & Omni (6 Suits)	2021-03-15 — 19:14:03 UTC	ADrone, fishcat, pianoblook	3	6	30
+469150	3	0	Rainbow & Omni (6 Suits)	2021-03-15 — 18:19:20 UTC	ADrone, fishcat, pianoblook	10	6	30
+469118	3	0	Rainbow & Omni (6 Suits)	2021-03-15 — 17:32:22 UTC	ADrone, fishcat, pianoblook	10	6	30
+469080	2	0	Prism (5 Suits)	2021-03-15 — 16:37:05 UTC	fishcat, null	18	5	25
+464209	3	15	Rainbow & Pink (3 Suits)	2021-03-11 — 02:02:52 UTC	ADrone, fishcat, pianoblook	8	3	15
+464195	3	13	Rainbow & Pink (3 Suits)	2021-03-11 — 01:43:01 UTC	ADrone, fishcat, pianoblook	8	3	15
+464172	3	0	Rainbow & Pink (3 Suits)	2021-03-11 — 01:22:06 UTC	ADrone, fishcat, pianoblook	9	3	15
+464124	3	25	No Variant	2021-03-11 — 00:13:07 UTC	fishcat, hamsterox, hotdave2	38	5	25
+458400	3	25	No Variant	2021-03-06 — 03:11:22 UTC	fishcat, hamsterox, hotdave2	39	5	25
+458290	3	0	No Variant	2021-03-06 — 01:59:37 UTC	fishcat, hamsterox, hotdave2	42	5	25
+456550	2	25	Brown-Fives (5 Suits)	2021-03-04 — 19:09:55 UTC	ADrone, fishcat	5	5	25
+456537	2	24	Brown-Fives (5 Suits)	2021-03-04 — 18:50:36 UTC	ADrone, fishcat	8	5	25
+456528	2	0	Brown-Fives (5 Suits)	2021-03-04 — 18:31:09 UTC	ADrone, fishcat	9	5	25
+456514	2	25	Brown & Light Pink (5 Suits)	2021-03-04 — 18:18:43 UTC	ADrone, fishcat	2	5	25
+456105	2	0	Brown & Light Pink (5 Suits)	2021-03-04 — 05:35:13 UTC	ADrone, fishcat	2	5	25
+456053	2	0	Brown & Light Pink (5 Suits)	2021-03-04 — 05:15:39 UTC	ADrone, fishcat	2	5	25
+456035	2	0	Brown & Light Pink (5 Suits)	2021-03-04 — 05:09:33 UTC	ADrone, fishcat	2	5	25
+455822	3	25	No Variant	2021-03-04 — 01:45:09 UTC	fishcat, hamsterox, hotdave2	41	5	25
+455764	3	0	No Variant	2021-03-04 — 00:24:46 UTC	fishcat, hamsterox, hotdave2	41	5	25
+455715	2	0	Brown & Light Pink (5 Suits)	2021-03-03 — 23:38:31 UTC	ADrone, fishcat	2	5	25
+455704	2	0	Brown & Light Pink (5 Suits)	2021-03-03 — 23:29:24 UTC	ADrone, fishcat	2	5	25
+455701	2	0	Brown & Light Pink (5 Suits)	2021-03-03 — 23:23:45 UTC	ADrone, fishcat	2	5	25
+455692	2	0	Brown & Light Pink (5 Suits)	2021-03-03 — 23:09:41 UTC	ADrone, fishcat	4	5	25
+452655	3	25	No Variant	2021-03-01 — 02:32:29 UTC	fishcat, hamsterox, hotdave2	41	5	25
+448201	3	23	No Variant	2021-02-25 — 00:39:20 UTC	fishcat, hamsterox, hotdave2	40	5	25
+446242	3	30	Pink & Dark Rainbow (6 Suits)	2021-02-23 — 02:49:49 UTC	ADrone, fishcat, pianoblook	7	6	30
+446154	3	30	Rainbow & Gray (6 Suits)	2021-02-23 — 02:04:00 UTC	ADrone, fishcat, pianoblook	1	6	30
+444659	3	29	Rainbow & Gray (6 Suits)	2021-02-21 — 21:01:04 UTC	ADrone, fishcat, pianoblook	1	6	30
+444594	3	0	Rainbow & Gray (6 Suits)	2021-02-21 — 20:12:58 UTC	ADrone, fishcat, pianoblook	1	6	30
+444567	3	0	Rainbow & Gray (6 Suits)	2021-02-21 — 19:46:48 UTC	ADrone, fishcat, pianoblook	1	6	30
+440478	3	0	No Variant	2021-02-18 — 00:55:15 UTC	fishcat, hamsterox, hotdave2	42	5	25
+439482	3	0	Rainbow & Gray (6 Suits)	2021-02-16 — 23:01:01 UTC	ADrone, fishcat, pianoblook	2	6	30
+439468	3	0	Rainbow & Gray (6 Suits)	2021-02-16 — 22:37:23 UTC	ADrone, fishcat, pianoblook	2	6	30
+438623	3	0	Rainbow & Gray (6 Suits)	2021-02-16 — 00:31:20 UTC	ADrone, fishcat, pianoblook	3	6	30
+437677	3	25	No Variant	2021-02-15 — 02:36:28 UTC	fishcat, hamsterox, hotdave2	44	5	25
+437600	3	0	No Variant	2021-02-15 — 01:10:41 UTC	fishcat, hamsterox, hotdave2	46	5	25
+434536	2	0	Prism (5 Suits)	2021-02-12 — 17:57:41 UTC	fishcat, null	30	5	25
+432896	4	24	No Variant	2021-02-11 — 01:31:32 UTC	fishcat, hamsterox, hotdave2, naynay	52	5	25
+432813	4	0	No Variant	2021-02-11 — 00:11:18 UTC	fishcat, hamsterox, hotdave2, naynay	52	5	25
+429735	3	30	6 Suits	2021-02-08 — 06:44:02 UTC	fishcat, indego, pianoblook	93	6	30
+428530	2	30	6 Suits	2021-02-07 — 03:32:25 UTC	fishcat, null	851	6	30
+427844	3	0	No Variant	2021-02-06 — 18:52:45 UTC	fishcat, hamsterox, hotdave2	47	5	25
+427763	3	0	No Variant	2021-02-06 — 17:17:10 UTC	fishcat, hamsterox, hotdave2	49	5	25
+427352	5	30	Black (6 Suits)	2021-02-06 — 04:29:48 UTC	ADrone, fishcat, kimbifille, pianoblook, piper	13	6	30
+427305	5	0	Black (6 Suits)	2021-02-06 — 03:46:46 UTC	ADrone, fishcat, kimbifille, pianoblook, piper	13	6	30
+427272	5	0	Black (6 Suits)	2021-02-06 — 03:27:50 UTC	ADrone, fishcat, kimbifille, pianoblook, piper	14	6	30
+427243	5	0	Black (6 Suits)	2021-02-06 — 03:14:36 UTC	ADrone, fishcat, kimbifille, pianoblook, piper	39	6	30
+427214	3	0	Rainbow & Pink (3 Suits)	2021-02-06 — 03:01:55 UTC	ADrone, fishcat, pianoblook	13	3	15
+427166	3	0	Rainbow & Pink (3 Suits)	2021-02-06 — 02:33:28 UTC	ADrone, fishcat, pianoblook	14	3	15
+424781	3	0	No Variant	2021-02-04 — 00:53:29 UTC	fishcat, hamsterox, hotdave2	48	5	25
+424727	3	0	No Variant	2021-02-04 — 00:03:05 UTC	fishcat, hamsterox, hotdave2	50	5	25
+423061	2	0	Rainbow & Prism (5 Suits)	2021-02-02 — 17:40:05 UTC	fishcat, null	6	5	25
+421533	3	24	No Variant	2021-01-31 — 23:41:31 UTC	fishcat, hamsterox, hotdave2	48	5	25
+417056	4	0	No Variant	2021-01-28 — 01:47:03 UTC	fishcat, hamsterox, hotdave2, naynay	53	5	25
+416997	4	23	No Variant	2021-01-28 — 00:46:20 UTC	fishcat, hamsterox, hotdave2, naynay	54	5	25
+414824	3	24	Dark Null (5 Suits)	2021-01-25 — 20:41:05 UTC	ADrone, fishcat, pianoblook	7	5	25
+414750	3	0	Dark Null (5 Suits)	2021-01-25 — 19:43:12 UTC	ADrone, fishcat, pianoblook	8	5	25
+414711	3	0	Dark Null (5 Suits)	2021-01-25 — 19:01:44 UTC	ADrone, fishcat, pianoblook	8	5	25
+414012	3	0	No Variant	2021-01-24 — 23:03:29 UTC	fishcat, hamsterox, hotdave2	49	5	25
+413999	3	0	No Variant	2021-01-24 — 22:33:03 UTC	fishcat, hamsterox, hotdave2	49	5	25
+413986	3	24	No Variant	2021-01-24 — 22:16:02 UTC	fishcat, hamsterox, hotdave2	53	5	25
+413912	3	0	No Variant	2021-01-24 — 21:06:42 UTC	fishcat, hamsterox, hotdave2	51	5	25
+411606	3	30	Rainbow & Pink (6 Suits)	2021-01-22 — 21:38:08 UTC	ADrone, fishcat, pianoblook	12	6	30
+411553	3	29	Rainbow & Pink (6 Suits)	2021-01-22 — 20:35:21 UTC	ADrone, fishcat, pianoblook	16	6	30
+411512	3	25	Null (5 Suits)	2021-01-22 — 19:43:39 UTC	ADrone, fishcat, pianoblook	13	5	25
+410889	3	0	No Variant	2021-01-21 — 23:18:09 UTC	fishcat, hamsterox, hotdave2	53	5	25
+410840	3	0	No Variant	2021-01-21 — 22:26:16 UTC	fishcat, hamsterox, hotdave2	50	5	25
+409687	2	25	Rainbow & Prism (5 Suits)	2021-01-20 — 17:28:42 UTC	fishcat, null	10	5	25
+403560	2	0	Rainbow & Prism (5 Suits)	2021-01-15 — 02:24:45 UTC	fishcat, null	20	5	25
+402594	4	25	No Variant	2021-01-14 — 02:07:59 UTC	fishcat, hamsterox, hotdave2, naynay	53	5	25
+402527	4	25	No Variant	2021-01-14 — 00:24:06 UTC	fishcat, hamsterox, hotdave2, naynay	55	5	25
+402125	2	25	Rainbow & Prism (5 Suits)	2021-01-13 — 17:44:49 UTC	fishcat, null	30	5	25
+401454	3	0	Null (5 Suits)	2021-01-12 — 23:04:24 UTC	ADrone, fishcat, pianoblook	13	5	25
+401423	3	0	Null (5 Suits)	2021-01-12 — 22:39:33 UTC	ADrone, fishcat, pianoblook	14	5	25
+401414	3	0	Null (5 Suits)	2021-01-12 — 22:27:01 UTC	ADrone, fishcat, pianoblook	14	5	25
+400239	2	0	Dark Prism (5 Suits)	2021-01-11 — 17:49:45 UTC	fishcat, null	1	5	25
+400236	2	0	Dark Prism (5 Suits)	2021-01-11 — 17:35:45 UTC	fishcat, null	1	5	25
+399342	2	25	Dark Omni (5 Suits)	2021-01-10 — 18:58:31 UTC	ADrone, fishcat	4	5	25
+399332	2	0	Dark Omni (5 Suits)	2021-01-10 — 18:46:11 UTC	ADrone, fishcat	6	5	25
+399327	2	0	Dark Omni (5 Suits)	2021-01-10 — 18:42:14 UTC	ADrone, fishcat	6	5	25
+397913	3	24	No Variant	2021-01-09 — 18:27:18 UTC	fishcat, hamsterox, hotdave2	53	5	25
+397881	3	0	No Variant	2021-01-09 — 17:15:18 UTC	fishcat, hamsterox, hotdave2	56	5	25
+396760	2	0	Dark Prism (5 Suits)	2021-01-08 — 18:08:50 UTC	fishcat, null	1	5	25
+396751	2	0	Dark Prism (5 Suits)	2021-01-08 — 17:57:11 UTC	fishcat, null	1	5	25
+396749	2	0	Dark Prism (5 Suits)	2021-01-08 — 17:55:22 UTC	fishcat, null	1	5	25
+396732	2	0	Dark Prism (5 Suits)	2021-01-08 — 17:35:58 UTC	fishcat, null	1	5	25
+396194	2	0	Dark Prism (5 Suits)	2021-01-08 — 02:10:07 UTC	fishcat, null	1	5	25
+396160	2	25	Dark Prism (5 Suits)	2021-01-08 — 01:51:06 UTC	fishcat, null	1	5	25
+393892	2	0	Dark Omni (5 Suits)	2021-01-05 — 22:18:27 UTC	ADrone, fishcat	6	5	25
+393858	2	0	Dark Omni (5 Suits)	2021-01-05 — 21:48:15 UTC	ADrone, fishcat	7	5	25
+393848	2	0	Dark Omni (5 Suits)	2021-01-05 — 21:39:55 UTC	ADrone, fishcat	10	5	25
+393839	2	0	Dark Omni (5 Suits)	2021-01-05 — 21:33:29 UTC	ADrone, fishcat	19	5	25
+393805	2	0	Dark Omni (5 Suits)	2021-01-05 — 21:08:05 UTC	ADrone, fishcat	20	5	25
+393784	2	0	Dark Omni (5 Suits)	2021-01-05 — 20:53:32 UTC	ADrone, fishcat	20	5	25
+393765	2	0	Dark Omni (5 Suits)	2021-01-05 — 20:31:46 UTC	ADrone, fishcat	35	5	25
+393754	2	0	Dark Omni (5 Suits)	2021-01-05 — 20:19:43 UTC	ADrone, fishcat	47	5	25
+392157	6	25	Prism (5 Suits)	2021-01-04 — 04:01:35 UTC	ADrone, avanderwalde, fishcat, kimbifille, pianoblook, piper	6	5	25
+392098	6	30	6 Suits	2021-01-04 — 03:18:23 UTC	ADrone, avanderwalde, fishcat, kimbifille, pianoblook, piper	20	6	30
+389797	2	0	Dark Prism (5 Suits)	2021-01-02 — 01:13:05 UTC	fishcat, null	1	5	25
+389785	2	0	Dark Prism (5 Suits)	2021-01-02 — 00:57:48 UTC	fishcat, null	1	5	25
+389766	2	0	Dark Prism (5 Suits)	2021-01-02 — 00:42:51 UTC	fishcat, null	1	5	25
+388651	4	25	No Variant	2021-01-01 — 00:33:21 UTC	fishcat, hamsterox, hotdave2, null	55	5	25
+388591	4	0	No Variant	2020-12-31 — 23:38:48 UTC	fishcat, hamsterox, hotdave2, null	54	5	25
+388521	3	24	No Variant	2020-12-31 — 22:34:52 UTC	fishcat, hamsterox, hotdave2	57	5	25
+387453	5	0	Dual-Color & Light Pink (6 Suits)	2020-12-30 — 20:17:28 UTC	ADrone, fishcat, kimbifille, piper, TimeHoodie	2	6	30
+387395	5	30	Dual-Color & White (6 Suits)	2020-12-30 — 19:16:29 UTC	ADrone, fishcat, kimbifille, piper, TimeHoodie	3	6	30
+386419	2	25	Dark Brown (5 Suits)	2020-12-29 — 20:44:35 UTC	ADrone, fishcat	11	5	25
+386398	2	0	Dark Brown (5 Suits)	2020-12-29 — 20:28:04 UTC	ADrone, fishcat	11	5	25
+386378	2	0	Dark Brown (5 Suits)	2020-12-29 — 20:15:52 UTC	ADrone, fishcat	12	5	25
+386363	2	0	Dark Brown (5 Suits)	2020-12-29 — 20:02:35 UTC	ADrone, fishcat	13	5	25
+386344	2	0	Dark Brown (5 Suits)	2020-12-29 — 19:38:33 UTC	ADrone, fishcat	13	5	25
+386339	2	0	Dark Brown (5 Suits)	2020-12-29 — 19:29:47 UTC	ADrone, fishcat	16	5	25
+386326	2	0	Dark Brown (5 Suits)	2020-12-29 — 19:16:51 UTC	ADrone, fishcat	17	5	25
+386251	2	0	Dark Prism (5 Suits)	2020-12-29 — 17:54:38 UTC	fishcat, null	1	5	25
+386242	2	0	Dark Prism (5 Suits)	2020-12-29 — 17:36:55 UTC	fishcat, null	1	5	25
+384217	4	29	Rainbow & Gray (6 Suits)	2020-12-27 — 21:40:46 UTC	fishcat, Floriman, pianoblook, scharkbite	8	6	30
+384167	6	30	Muddy Rainbow (6 Suits)	2020-12-27 — 20:55:24 UTC	ADrone, doctorabi, fishcat, Floriman, Lanvin, pianoblook	4	6	30
+384132	3	30	Rainbow & White (6 Suits)	2020-12-27 — 20:18:43 UTC	ADrone, fishcat, pianoblook	24	6	30
+383049	2	25	Dark Prism (5 Suits)	2020-12-26 — 21:20:45 UTC	fishcat, null	1	5	25
+382248	3	0	No Variant	2020-12-26 — 02:30:15 UTC	fishcat, null, shiftyginger	55	5	25
+380402	3	24	No Variant	2020-12-24 — 01:14:42 UTC	fishcat, hamsterox, hotdave2	57	5	25
+380329	3	0	No Variant	2020-12-24 — 00:14:53 UTC	fishcat, hamsterox, hotdave2	58	5	25
+380228	3	23	No Variant	2020-12-23 — 22:42:38 UTC	fishcat, hamsterox, hotdave2	57	5	25
+378068	3	24	No Variant	2020-12-21 — 21:47:18 UTC	fishcat, hamsterox, hotdave2	57	5	25
+377303	5	21	No Variant	2020-12-21 — 01:20:19 UTC	coopersusa, fishcat, hotdave2, maypo67, naynay	457	5	25
+377209	5	0	No Variant	2020-12-20 — 23:47:33 UTC	coopersusa, fishcat, maypo67, naynay, Sosogogo	541	5	25
+375446	4	25	No Variant	2020-12-19 — 04:23:41 UTC	fishcat, null, shiftyginger, void	63	5	25
+375365	4	0	No Variant	2020-12-19 — 03:30:56 UTC	fishcat, null, shiftyginger, void	64	5	25
+375333	4	0	No Variant	2020-12-19 — 03:04:08 UTC	fishcat, null, shiftyginger, void	64	5	25
+375137	2	0	Rainbow & Dark Prism (5 Suits)	2020-12-18 — 23:59:58 UTC	fishcat, null	10	5	25
+373299	3	21	No Variant	2020-12-17 — 01:26:22 UTC	fishcat, hamsterox, hotdave2	59	5	25
+371498	3	0	Brown (3 Suits)	2020-12-15 — 04:14:45 UTC	ADrone, fishcat, Huxley	29	3	15
+371453	3	13	Brown (3 Suits)	2020-12-15 — 03:54:49 UTC	ADrone, fishcat, Huxley	37	3	15
+371412	3	0	Pink (6 Suits)	2020-12-15 — 03:31:47 UTC	ADrone, fishcat, Huxley	131	6	30
+367594	4	0	Dark Rainbow (6 Suits)	2020-12-11 — 07:08:15 UTC	ADrone, fishcat, Huxley, pianoblook	21	6	30
+367576	4	0	Dark Rainbow (6 Suits)	2020-12-11 — 06:38:57 UTC	ADrone, fishcat, Huxley, pianoblook	26	6	30
+367556	4	28	Dark Rainbow (6 Suits)	2020-12-11 — 06:02:13 UTC	ADrone, fishcat, Huxley, pianoblook	48	6	30
+366873	2	0	White & Dark Prism (5 Suits)	2020-12-10 — 18:05:36 UTC	fishcat, null	7	5	25
+366843	2	0	White & Dark Prism (5 Suits)	2020-12-10 — 17:50:05 UTC	fishcat, null	8	5	25
+366840	2	0	White & Dark Prism (5 Suits)	2020-12-10 — 17:47:19 UTC	fishcat, null	8	5	25
+366834	2	0	White & Dark Prism (5 Suits)	2020-12-10 — 17:38:10 UTC	fishcat, null	8	5	25
+366827	2	0	White & Prism (5 Suits)	2020-12-10 — 17:27:00 UTC	fishcat, null	21	5	25
+366365	3	23	No Variant	2020-12-09 — 23:57:39 UTC	fishcat, hamsterox, hotdave2	60	5	25
+366302	3	25	No Variant	2020-12-09 — 22:47:47 UTC	fishcat, hamsterox, hotdave2	61	5	25
+365996	2	0	Dark Prism (5 Suits)	2020-12-09 — 17:25:46 UTC	fishcat, null	1	5	25
+364893	2	0	Deceptive-Ones (5 Suits)	2020-12-08 — 21:54:16 UTC	ADrone, fishcat	10	5	25
+364878	2	0	Pink & Muddy Rainbow (5 Suits)	2020-12-08 — 21:47:25 UTC	ADrone, fishcat	6	5	25
+364819	2	0	Pink & Muddy Rainbow (5 Suits)	2020-12-08 — 21:02:02 UTC	ADrone, fishcat	6	5	25
+364782	2	24	Pink & Muddy Rainbow (5 Suits)	2020-12-08 — 20:30:32 UTC	ADrone, fishcat	11	5	25
+364229	2	0	Deceptive-Ones (5 Suits)	2020-12-08 — 02:49:18 UTC	fishcat, null	21	5	25
+364172	2	0	Gray (5 Suits)	2020-12-08 — 02:03:36 UTC	fishcat, null	1	5	25
+363820	2	0	Deceptive-Ones (5 Suits)	2020-12-07 — 19:18:46 UTC	ADrone, fishcat	27	5	25
+363801	2	25	Rainbow & Pink (5 Suits)	2020-12-07 — 18:54:39 UTC	ADrone, fishcat	8	5	25
+363779	2	24	Rainbow & Pink (5 Suits)	2020-12-07 — 18:18:20 UTC	ADrone, fishcat	9	5	25
+363761	2	0	Rainbow & Pink (5 Suits)	2020-12-07 — 17:49:54 UTC	ADrone, fishcat	11	5	25
+363747	2	0	Rainbow & Pink (5 Suits)	2020-12-07 — 17:26:49 UTC	ADrone, fishcat	12	5	25
+363733	2	0	Rainbow & Pink (5 Suits)	2020-12-07 — 17:08:07 UTC	ADrone, fishcat	19	5	25
+361886	2	25	Dark Prism (5 Suits)	2020-12-06 — 00:01:12 UTC	fishcat, null	2	5	25
+361865	2	0	Dark Prism (5 Suits)	2020-12-05 — 23:28:56 UTC	fishcat, null	2	5	25
+361841	2	0	Dark Prism (5 Suits)	2020-12-05 — 22:51:51 UTC	fishcat, null	3	5	25
+360770	2	0	Dark Prism (5 Suits)	2020-12-04 — 21:13:32 UTC	fishcat, null	3	5	25
+360760	2	0	Dark Prism (5 Suits)	2020-12-04 — 21:04:58 UTC	fishcat, null	3	5	25
+360745	2	0	Dark Prism (5 Suits)	2020-12-04 — 20:52:06 UTC	fishcat, null	3	5	25
+360188	2	0	Dark Prism (5 Suits)	2020-12-04 — 03:03:51 UTC	fishcat, null	3	5	25
+360180	2	0	Dark Prism (5 Suits)	2020-12-04 — 02:55:21 UTC	fishcat, null	3	5	25
+360169	2	0	Dark Prism (5 Suits)	2020-12-04 — 02:44:22 UTC	fishcat, null	3	5	25
+359457	3	0	Null (5 Suits)	2020-12-03 — 04:22:45 UTC	ADrone, fishcat, pianoblook	15	5	25
+359425	3	0	Null (5 Suits)	2020-12-03 — 03:40:32 UTC	ADrone, fishcat, pianoblook	16	5	25
+359396	3	30	Light Pink (6 Suits)	2020-12-03 — 03:09:33 UTC	ADrone, fishcat, pianoblook	4	6	30
+359367	3	0	Light Pink (6 Suits)	2020-12-03 — 02:34:21 UTC	ADrone, fishcat, pianoblook	4	6	30
+359317	3	25	No Variant	2020-12-03 — 01:10:47 UTC	fishcat, hamsterox, hotdave2	63	5	25
+359190	3	12	Pink (3 Suits)	2020-12-02 — 21:32:53 UTC	ADrone, fishcat, Huxley	44	3	15
+359061	5	25	Omni (5 Suits)	2020-12-02 — 19:24:44 UTC	ADrone, fishcat, Floriman, pianoblook, Valetta6789	8	5	25
+356265	2	0	Dark Prism (5 Suits)	2020-11-28 — 23:30:34 UTC	fishcat, null	3	5	25
+356261	2	0	Dark Prism (5 Suits)	2020-11-28 — 23:22:36 UTC	fishcat, null	3	5	25
+355753	4	0	No Variant	2020-11-28 — 05:03:11 UTC	britality, fishcat, null, sambackus	74	5	25
+355695	3	0	No Variant	2020-11-28 — 04:07:14 UTC	fishcat, null, sambackus	65	5	25
+355407	2	0	Dark Brown (5 Suits)	2020-11-27 — 22:46:50 UTC	ADrone, fishcat	23	5	25
+355383	2	30	Dark Rainbow (6 Suits)	2020-11-27 — 22:29:18 UTC	ADrone, fishcat	75	6	30
+355369	2	0	Dark Rainbow (6 Suits)	2020-11-27 — 22:07:42 UTC	ADrone, fishcat	88	6	30
+353070	3	24	No Variant	2020-11-24 — 23:15:13 UTC	fishcat, hamsterox, hotdave2	62	5	25
+352019	2	0	Dark Prism (5 Suits)	2020-11-23 — 22:32:55 UTC	fishcat, null	3	5	25
+351866	3	0	Light Pink (6 Suits)	2020-11-23 — 20:08:57 UTC	ADrone, fishcat, pianoblook	6	6	30
+351853	3	0	Light Pink (6 Suits)	2020-11-23 — 19:57:08 UTC	ADrone, fishcat, pianoblook	11	6	30
+351819	3	15	White (3 Suits)	2020-11-23 — 19:05:41 UTC	ADrone, fishcat, pianoblook	3	3	15
+351814	3	0	White (3 Suits)	2020-11-23 — 18:48:06 UTC	ADrone, fishcat, pianoblook	4	3	15
+351807	2	0	Dark Rainbow (6 Suits)	2020-11-23 — 18:37:07 UTC	ADrone, fishcat	91	6	30
+351780	2	0	Dark Rainbow (6 Suits)	2020-11-23 — 18:07:10 UTC	ADrone, fishcat	95	6	30
+351769	2	25	Light Pink (5 Suits)	2020-11-23 — 17:42:36 UTC	ADrone, fishcat	6	5	25
+351757	2	0	Light Pink (5 Suits)	2020-11-23 — 17:22:48 UTC	ADrone, fishcat	8	5	25
+351746	2	0	Light Pink (5 Suits)	2020-11-23 — 16:57:51 UTC	ADrone, fishcat	8	5	25
+350314	4	22	No Variant	2020-11-22 — 02:46:08 UTC	Agrajag, fishcat, Huxley, marnee	70	5	25
+350245	4	0	No Variant	2020-11-22 — 02:01:19 UTC	Agrajag, fishcat, Huxley, marnee	71	5	25
+350228	5	24	No Variant	2020-11-22 — 01:40:40 UTC	ADrone, Agrajag, fishcat, Huxley, marnee	383	5	25
+350133	5	21	No Variant	2020-11-22 — 00:08:57 UTC	ADrone, Agrajag, fishcat, Huxley, marnee	658	5	25
+350075	5	24	No Variant	2020-11-21 — 22:59:32 UTC	ADrone, Agrajag, fishcat, Huxley, marnee	837	5	25
+349069	2	0	Light Pink (5 Suits)	2020-11-21 — 00:56:19 UTC	ADrone, fishcat	13	5	25
+349061	2	0	Light Pink (5 Suits)	2020-11-21 — 00:48:52 UTC	ADrone, fishcat	13	5	25
+349054	2	0	Light Pink (5 Suits)	2020-11-21 — 00:40:30 UTC	ADrone, fishcat	18	5	25
+349046	2	23	Light Pink (5 Suits)	2020-11-21 — 00:25:29 UTC	ADrone, fishcat	23	5	25
+349037	2	15	Rainbow (3 Suits)	2020-11-21 — 00:08:02 UTC	ADrone, fishcat	127	3	15
+349031	2	20	Rainbow (4 Suits)	2020-11-20 — 23:58:02 UTC	ADrone, fishcat	132	4	20
+348719	2	0	Dark Prism (5 Suits)	2020-11-20 — 17:50:03 UTC	fishcat, null	3	5	25
+348712	2	0	Dark Prism (5 Suits)	2020-11-20 — 17:35:48 UTC	fishcat, null	3	5	25
+348422	2	0	Dark Prism (5 Suits)	2020-11-20 — 04:35:45 UTC	fishcat, null	3	5	25
+347852	2	24	Dark Prism (5 Suits)	2020-11-19 — 18:01:03 UTC	fishcat, null	3	5	25
+347844	2	0	Dark Prism (5 Suits)	2020-11-19 — 17:50:19 UTC	fishcat, null	3	5	25
+347788	2	25	Dark Prism (5 Suits)	2020-11-19 — 14:33:16 UTC	fishcat, null	3	5	25
+347782	2	0	Dark Prism (5 Suits)	2020-11-19 — 14:21:49 UTC	fishcat, null	3	5	25
+347781	2	0	Dark Prism (5 Suits)	2020-11-19 — 14:18:09 UTC	fishcat, null	3	5	25
+347775	2	0	Dark Prism (5 Suits)	2020-11-19 — 14:01:52 UTC	fishcat, null	3	5	25
+347510	3	22	No Variant	2020-11-19 — 03:08:02 UTC	fishcat, hamsterox, hotdave2	66	5	25
+347413	3	24	No Variant	2020-11-19 — 01:16:52 UTC	fishcat, hamsterox, hotdave2	63	5	25
+346647	2	0	Dark Prism (5 Suits)	2020-11-18 — 01:29:58 UTC	fishcat, null	4	5	25
+346633	2	0	Dark Prism (5 Suits)	2020-11-18 — 01:17:29 UTC	fishcat, null	5	5	25
+344720	3	24	No Variant	2020-11-16 — 03:44:32 UTC	fishcat, hamsterox, hotdave2	69	5	25
+344592	2	25	Dark Prism (5 Suits)	2020-11-16 — 02:25:26 UTC	fishcat, null	5	5	25
+342882	3	25	No Variant	2020-11-14 — 01:32:00 UTC	fishcat, hamsterox, hotdave2	68	5	25
+342101	3	0	Muddy Rainbow (6 Suits)	2020-11-13 — 03:32:21 UTC	ADrone, fishcat, pianoblook	7	6	30
+342093	3	0	Muddy Rainbow (6 Suits)	2020-11-13 — 03:22:54 UTC	ADrone, fishcat, pianoblook	10	6	30
+342079	3	0	Null (5 Suits)	2020-11-13 — 03:03:55 UTC	ADrone, fishcat, pianoblook	17	5	25
+342052	3	30	Null (6 Suits)	2020-11-13 — 02:36:09 UTC	ADrone, fishcat, pianoblook	57	6	30
+342007	4	29	Dark Rainbow (6 Suits)	2020-11-13 — 01:45:39 UTC	fishcat, kimbifille, pianoblook, plus	53	6	30
+341988	3	14	White (3 Suits)	2020-11-13 — 01:12:52 UTC	fishcat, kimbifille, pianoblook	30	3	15
+341302	3	25	No Variant	2020-11-12 — 03:14:41 UTC	fishcat, hamsterox, hotdave2	71	5	25
+341230	3	0	No Variant	2020-11-12 — 01:59:31 UTC	fishcat, hamsterox, hotdave2	71	5	25
+339216	2	24	Dark Prism (5 Suits)	2020-11-09 — 17:42:08 UTC	fishcat, null	7	5	25
+339210	2	0	Dark Prism (5 Suits)	2020-11-09 — 17:28:20 UTC	fishcat, null	9	5	25
+338432	2	25	Dark Prism (5 Suits)	2020-11-08 — 17:32:07 UTC	fishcat, null	15	5	25
+338417	2	0	Dark Prism (5 Suits)	2020-11-08 — 17:17:45 UTC	fishcat, null	16	5	25
+338406	2	0	Dark Prism (5 Suits)	2020-11-08 — 17:09:31 UTC	fishcat, null	20	5	25
+338400	2	0	Dark Prism (5 Suits)	2020-11-08 — 16:59:35 UTC	fishcat, null	20	5	25
+338097	2	0	Dark Prism (5 Suits)	2020-11-08 — 04:41:19 UTC	fishcat, null	27	5	25
+338091	2	0	Dark Prism (5 Suits)	2020-11-08 — 04:22:31 UTC	fishcat, null	29	5	25
+337135	3	0	No Variant	2020-11-07 — 00:51:01 UTC	fishcat, gkrackerr, Huxley	69	5	25
+337115	2	0	Prism (5 Suits)	2020-11-07 — 00:14:48 UTC	fishcat, Huxley	36	5	25
+337056	4	0	No Variant	2020-11-06 — 22:43:59 UTC	derposaur, fishcat, karble, null	74	5	25
+336126	2	25	Dark Prism (5 Suits)	2020-11-05 — 17:49:36 UTC	fishcat, null	40	5	25
+335714	3	24	No Variant	2020-11-05 — 02:38:16 UTC	fishcat, hamsterox, hotdave2	74	5	25
+335296	2	0	Dark Prism (5 Suits)	2020-11-04 — 17:42:01 UTC	fishcat, null	38	5	25
+334710	2	22	Dark Prism (5 Suits)	2020-11-03 — 21:39:34 UTC	fishcat, null	41	5	25
+334666	2	0	Dark Prism (5 Suits)	2020-11-03 — 21:09:30 UTC	fishcat, null	42	5	25
+334484	2	0	Prism (5 Suits)	2020-11-03 — 17:20:58 UTC	fishcat, null	52	5	25
+334029	2	25	Prism (5 Suits)	2020-11-03 — 00:13:10 UTC	fishcat, null	95	5	25
+334006	2	0	Gray (5 Suits)	2020-11-02 — 23:33:01 UTC	fishcat, null	1	5	25
+333982	2	25	Gray (5 Suits)	2020-11-02 — 22:53:00 UTC	fishcat, null	2	5	25
+333975	2	0	Gray (5 Suits)	2020-11-02 — 22:39:01 UTC	fishcat, null	2	5	25
+333752	2	0	Gray (5 Suits)	2020-11-02 — 17:20:06 UTC	fishcat, null	2	5	25
+331592	2	24	Gray (5 Suits)	2020-10-31 — 01:28:11 UTC	fishcat, null	3	5	25
+331580	2	0	Gray (5 Suits)	2020-10-31 — 01:06:30 UTC	fishcat, null	3	5	25
+330662	2	0	Gray (5 Suits)	2020-10-29 — 21:57:32 UTC	fishcat, null	3	5	25
+330647	2	0	Gray (5 Suits)	2020-10-29 — 21:34:24 UTC	fishcat, null	3	5	25
+330131	2	0	Gray (5 Suits)	2020-10-28 — 23:45:34 UTC	fishcat, null	3	5	25
+330122	2	0	Gray (5 Suits)	2020-10-28 — 23:29:05 UTC	fishcat, null	3	5	25
+330119	2	0	Gray (5 Suits)	2020-10-28 — 23:20:46 UTC	fishcat, null	3	5	25
+330049	2	25	Gray (5 Suits)	2020-10-28 — 20:49:37 UTC	fishcat, null	3	5	25
+329869	2	0	Gray (5 Suits)	2020-10-28 — 16:46:36 UTC	fishcat, null	3	5	25
+329863	2	0	Gray (5 Suits)	2020-10-28 — 16:23:05 UTC	fishcat, null	3	5	25
+329549	2	0	Gray (5 Suits)	2020-10-28 — 01:37:37 UTC	fishcat, null	4	5	25
+328810	2	25	Gray (5 Suits)	2020-10-26 — 21:54:32 UTC	fishcat, null	6	5	25
+328802	2	0	Gray (5 Suits)	2020-10-26 — 21:39:49 UTC	fishcat, null	6	5	25
+328793	2	0	Gray (5 Suits)	2020-10-26 — 21:26:37 UTC	fishcat, null	6	5	25
+328631	2	0	Gray (5 Suits)	2020-10-26 — 16:53:15 UTC	fishcat, null	8	5	25
+328630	2	0	Gray (5 Suits)	2020-10-26 — 16:48:36 UTC	fishcat, null	8	5	25
+328629	2	0	Gray (5 Suits)	2020-10-26 — 16:45:37 UTC	fishcat, null	10	5	25
+328627	2	0	Gray (5 Suits)	2020-10-26 — 16:39:32 UTC	fishcat, null	10	5	25
+326785	3	23	No Variant	2020-10-23 — 22:58:53 UTC	fishcat, hamsterox, hotdave2	78	5	25
+326193	3	0	Light Pink (6 Suits)	2020-10-23 — 02:36:34 UTC	ADrone, fishcat, pianoblook	25	6	30
+326146	3	0	Light Pink (6 Suits)	2020-10-23 — 01:47:32 UTC	ADrone, fishcat, pianoblook	34	6	30
+326136	3	0	Light Pink (6 Suits)	2020-10-23 — 01:37:10 UTC	ADrone, fishcat, pianoblook	38	6	30
+324476	3	30	Cocoa Rainbow (6 Suits)	2020-10-20 — 18:13:44 UTC	ADrone, fishcat, pianoblook	30	6	30
+324465	3	28	Cocoa Rainbow (6 Suits)	2020-10-20 — 17:42:28 UTC	ADrone, fishcat, pianoblook	32	6	30
+324447	3	25	Muddy Rainbow (5 Suits)	2020-10-20 — 17:14:39 UTC	ADrone, fishcat, pianoblook	22	5	25
+323839	3	0	Muddy Rainbow (6 Suits)	2020-10-19 — 18:56:53 UTC	ADrone, fishcat, pianoblook	18	6	30
+323801	3	0	Muddy Rainbow (6 Suits)	2020-10-19 — 18:21:42 UTC	ADrone, fishcat, pianoblook	25	6	30
+323784	3	0	Muddy Rainbow (6 Suits)	2020-10-19 — 18:00:09 UTC	ADrone, fishcat, pianoblook	37	6	30
+322267	2	25	Gray (5 Suits)	2020-10-17 — 17:38:20 UTC	fishcat, null	11	5	25
+322258	2	23	Gray (5 Suits)	2020-10-17 — 17:15:21 UTC	fishcat, null	11	5	25
+322249	2	25	Gray (5 Suits)	2020-10-17 — 16:49:56 UTC	fishcat, null	12	5	25
+321382	2	25	Gray (5 Suits)	2020-10-16 — 03:17:57 UTC	fishcat, null	16	5	25
+321365	2	0	Gray (5 Suits)	2020-10-16 — 02:59:44 UTC	fishcat, null	16	5	25
+321128	2	0	Gray (5 Suits)	2020-10-15 — 21:11:09 UTC	fishcat, null	18	5	25
+321113	2	0	Gray (5 Suits)	2020-10-15 — 20:47:46 UTC	fishcat, null	20	5	25
+320619	2	0	Gray (5 Suits)	2020-10-15 — 02:58:20 UTC	fishcat, null	21	5	25
+320291	2	0	3 Suits	2020-10-14 — 16:24:14 UTC	fishcat, null	71	3	15
+320279	2	0	Gray (5 Suits)	2020-10-14 — 16:08:37 UTC	fishcat, null	25	5	25
+320270	2	0	Gray (5 Suits)	2020-10-14 — 15:49:10 UTC	fishcat, null	25	5	25
+320004	2	25	Gray (5 Suits)	2020-10-14 — 02:42:26 UTC	fishcat, null	29	5	25
+319996	2	0	Gray (5 Suits)	2020-10-14 — 02:24:27 UTC	fishcat, null	34	5	25
+319715	2	15	3 Suits	2020-10-13 — 20:34:02 UTC	fishcat, null	105	3	15
+319707	2	12	3 Suits	2020-10-13 — 20:20:57 UTC	fishcat, null	124	3	15
+318836	2	15	3 Suits	2020-10-12 — 17:22:19 UTC	fishcat, null	193	3	15
+318830	2	13	3 Suits	2020-10-12 — 17:15:25 UTC	fishcat, null	271	3	15
+318432	3	23	No Variant	2020-10-12 — 00:20:40 UTC	fishcat, hamsterox, hotdave2	77	5	25
+318159	3	0	Black (5 Suits)	2020-10-11 — 16:43:20 UTC	fishcat, null, void	171	5	25
+317694	3	0	No Variant	2020-10-11 — 00:50:03 UTC	fishcat, null, void	77	5	25
+316852	2	0	Black & Gray (6 Suits)	2020-10-09 — 23:37:06 UTC	fishcat, null	17	6	30
+316830	2	0	Black & Gray (6 Suits)	2020-10-09 — 23:15:34 UTC	fishcat, null	18	6	30
+316811	2	0	Black & Gray (6 Suits)	2020-10-09 — 23:02:03 UTC	fishcat, null	19	6	30
+316803	2	0	Black & Gray (6 Suits)	2020-10-09 — 22:53:56 UTC	fishcat, null	19	6	30
+316786	2	0	Black & Gray (6 Suits)	2020-10-09 — 22:32:13 UTC	fishcat, null	24	6	30
+316765	2	25	No Variant	2020-10-09 — 22:03:00 UTC	fishcat, null	231	5	25
+316750	3	0	White (3 Suits)	2020-10-09 — 21:47:38 UTC	ADrone, fishcat, pianoblook	6	3	15
+316740	3	0	White (3 Suits)	2020-10-09 — 21:33:47 UTC	ADrone, fishcat, pianoblook	8	3	15
+316733	3	14	White (3 Suits)	2020-10-09 — 21:26:47 UTC	ADrone, fishcat, pianoblook	8	3	15
+315514	3	25	No Variant	2020-10-08 — 02:52:26 UTC	fishcat, hamsterox, hotdave2	77	5	25
+315380	3	22	No Variant	2020-10-08 — 00:38:29 UTC	fishcat, hamsterox, hotdave2	76	5	25
+314504	3	14	White (3 Suits)	2020-10-06 — 22:47:01 UTC	ADrone, fishcat, pianoblook	10	3	15
+314493	3	14	White (3 Suits)	2020-10-06 — 22:32:33 UTC	ADrone, fishcat, pianoblook	14	3	15
+314485	3	13	White (3 Suits)	2020-10-06 — 22:17:22 UTC	ADrone, fishcat, pianoblook	16	3	15
+314473	3	30	Omni (6 Suits)	2020-10-06 — 21:50:14 UTC	ADrone, fishcat, pianoblook	36	6	30
+314458	3	0	Omni (6 Suits)	2020-10-06 — 20:58:04 UTC	ADrone, fishcat, pianoblook	70	6	30
+312105	2	0	Brown (5 Suits)	2020-10-03 — 20:04:05 UTC	fishcat, null	50	5	25
+312070	2	0	Brown (5 Suits)	2020-10-03 — 19:39:53 UTC	fishcat, null	56	5	25
+312062	2	0	Brown (5 Suits)	2020-10-03 — 19:30:44 UTC	fishcat, null	59	5	25
+310782	4	23	No Variant	2020-10-02 — 02:18:47 UTC	ADrone, fishcat, Huxley, Ritz	70	5	25
+310751	3	0	No Variant	2020-10-02 — 01:33:07 UTC	ADrone, fishcat, Ritz	77	5	25
+310648	2	0	Brown (5 Suits)	2020-10-01 — 20:52:02 UTC	fishcat, null	76	5	25
+310643	2	0	Brown (5 Suits)	2020-10-01 — 20:37:04 UTC	fishcat, null	87	5	25
+310631	2	0	Brown (5 Suits)	2020-10-01 — 20:23:23 UTC	fishcat, null	124	5	25
+310590	2	20	4 Suits	2020-10-01 — 19:39:01 UTC	fishcat, null	244	4	20
+309103	3	15	Rainbow (3 Suits)	2020-09-29 — 17:15:33 UTC	ADrone, fishcat, pianoblook	16	3	15
+309090	3	0	Rainbow (3 Suits)	2020-09-29 — 16:57:36 UTC	ADrone, fishcat, pianoblook	24	3	15
+303661	2	0	Black (5 Suits)	2020-09-22 — 00:59:17 UTC	fishcat, null	16	5	25
+303644	2	25	No Variant	2020-09-22 — 00:31:10 UTC	fishcat, null	244	5	25
+302804	3	23	No Variant	2020-09-21 — 00:57:54 UTC	fishcat, hamsterox, hotdave2	77	5	25
+302737	3	23	No Variant	2020-09-20 — 23:14:32 UTC	fishcat, hamsterox, hotdave2	79	5	25
+301070	2	25	No Variant	2020-09-19 — 00:33:53 UTC	fishcat, null	249	5	25
+300472	3	23	No Variant	2020-09-18 — 03:18:42 UTC	fishcat, hamsterox, hotdave2	82	5	25
+300365	3	24	No Variant	2020-09-18 — 00:42:05 UTC	fishcat, hamsterox, hotdave2	83	5	25
+299273	2	25	No Variant	2020-09-17 — 01:25:06 UTC	fishcat, null	254	5	25
+299250	2	0	No Variant	2020-09-17 — 00:59:36 UTC	fishcat, null	259	5	25
+299243	2	0	No Variant	2020-09-17 — 00:49:26 UTC	fishcat, null	257	5	25
+296903	3	25	No Variant	2020-09-13 — 21:49:29 UTC	ADrone, fishcat, Huxley	15	5	25
+296862	3	25	No Variant	2020-09-13 — 21:12:33 UTC	ADrone, fishcat, Huxley	16	5	25
+296830	3	25	No Variant	2020-09-13 — 20:33:18 UTC	ADrone, fishcat, Huxley	18	5	25
+296795	3	23	No Variant	2020-09-13 — 19:50:43 UTC	ADrone, fishcat, Huxley	19	5	25
+296771	3	25	No Variant	2020-09-13 — 19:05:30 UTC	ADrone, fishcat, Huxley	82	5	25
+295866	3	24	No Variant	2020-09-12 — 16:19:58 UTC	ADrone, fishcat, Huxley	89	5	25
+295851	3	25	No Variant	2020-09-12 — 14:41:08 UTC	ADrone, fishcat, Huxley	89	5	25
+293713	3	19	No Variant	2020-09-10 — 01:42:23 UTC	fishcat, hamsterox, hotdave2	93	5	25
+292641	3	0	Light Pink (4 Suits)	2020-09-08 — 18:45:23 UTC	ADrone, fishcat, pianoblook	21	4	20
+292624	3	20	White (4 Suits)	2020-09-08 — 18:18:27 UTC	ADrone, fishcat, pianoblook	16	4	20
+292613	3	0	White (4 Suits)	2020-09-08 — 18:01:53 UTC	ADrone, fishcat, pianoblook	18	4	20
+291436	4	0	Prism (5 Suits)	2020-09-07 — 03:00:19 UTC	ADrone, fishcat, Huxley, pianoblook	23	5	25
+291414	4	0	Prism (5 Suits)	2020-09-07 — 02:30:14 UTC	ADrone, fishcat, Huxley, pianoblook	29	5	25
+291384	4	0	Prism (5 Suits)	2020-09-07 — 02:01:44 UTC	ADrone, fishcat, Huxley, pianoblook	47	5	25
+290160	3	0	Prism (5 Suits)	2020-09-05 — 22:19:12 UTC	ADrone, fishcat, pianoblook	24	5	25
+290122	3	23	Prism (5 Suits)	2020-09-05 — 21:50:29 UTC	ADrone, fishcat, pianoblook	38	5	25
+290094	3	23	Prism (5 Suits)	2020-09-05 — 21:17:04 UTC	ADrone, fishcat, pianoblook	45	5	25
+290079	3	23	Prism (5 Suits)	2020-09-05 — 20:47:28 UTC	ADrone, fishcat, pianoblook	80	5	25
+281502	3	22	No Variant	2020-08-27 — 01:18:56 UTC	fishcat, hamsterox, hotdave2	101	5	25
+278910	3	24	No Variant	2020-08-23 — 23:55:36 UTC	fishcat, hamsterox, hotdave2	97	5	25
+277610	4	0	No Variant	2020-08-22 — 18:40:18 UTC	ADrone, fishcat, gkrackerr, Huxley	68	5	25
+277599	3	0	No Variant	2020-08-22 — 18:25:30 UTC	ADrone, fishcat, gkrackerr	98	5	25
+275369	3	0	Null (5 Suits)	2020-08-19 — 23:48:32 UTC	ADrone, fishcat, pianoblook	27	5	25
+275362	3	0	Null (5 Suits)	2020-08-19 — 23:31:00 UTC	ADrone, fishcat, pianoblook	32	5	25
+275356	3	0	Null (5 Suits)	2020-08-19 — 23:19:12 UTC	ADrone, fishcat, pianoblook	36	5	25
+275354	3	0	Null (5 Suits)	2020-08-19 — 23:11:41 UTC	ADrone, fishcat, pianoblook	40	5	25
+275348	3	0	Null (5 Suits)	2020-08-19 — 22:58:16 UTC	ADrone, fishcat, pianoblook	54	5	25
+275314	3	24	Up or Down (5 Suits)	2020-08-19 — 22:24:29 UTC	ADrone, fishcat, pianoblook	19	5	25
+275295	3	0	Up or Down (5 Suits)	2020-08-19 — 21:58:58 UTC	ADrone, fishcat, pianoblook	24	5	25
+273959	2	0	Gray (5 Suits)	2020-08-18 — 03:28:43 UTC	fishcat, null	33	5	25
+273953	2	0	Gray (5 Suits)	2020-08-18 — 03:21:33 UTC	fishcat, null	39	5	25
+273936	2	0	Gray (5 Suits)	2020-08-18 — 03:06:55 UTC	fishcat, null	51	5	25
+273921	2	24	Gray (5 Suits)	2020-08-18 — 02:45:20 UTC	fishcat, null	58	5	25
+273897	2	0	Gray (5 Suits)	2020-08-18 — 02:30:52 UTC	fishcat, null	66	5	25
+272858	3	23	No Variant	2020-08-16 — 23:14:05 UTC	fishcat, hamsterox, hotdave3	100	5	25
+271222	3	22	Brown & Gray (5 Suits)	2020-08-15 — 02:32:55 UTC	ADrone, fishcat, pianoblook	4	5	25
+271194	3	0	Brown & Gray (5 Suits)	2020-08-15 — 02:01:32 UTC	ADrone, fishcat, pianoblook	6	5	25
+271177	3	22	Brown & Gray (5 Suits)	2020-08-15 — 01:37:33 UTC	ADrone, fishcat, pianoblook	6	5	25
+271147	3	0	Brown & Gray (5 Suits)	2020-08-15 — 01:13:27 UTC	ADrone, fishcat, pianoblook	5	5	25
+271133	3	25	Clue Starved (5 Suits)	2020-08-15 — 00:57:04 UTC	ADrone, fishcat, pianoblook	18	5	25
+271101	3	0	Clue Starved (5 Suits)	2020-08-15 — 00:21:40 UTC	ADrone, fishcat, pianoblook	22	5	25
+271089	3	0	Clue Starved (5 Suits)	2020-08-15 — 00:08:24 UTC	ADrone, fishcat, pianoblook	33	5	25
+271082	3	0	White (6 Suits)	2020-08-15 — 00:02:57 UTC	ADrone, fishcat, pianoblook	101	6	30
+269424	3	25	Gray (5 Suits)	2020-08-13 — 02:38:27 UTC	ADrone, fishcat, pianoblook	7	5	25
+267618	2	0	Black & White (5 Suits)	2020-08-10 — 23:26:39 UTC	fishcat, null	9	5	25
+267333	2	0	Black & White (5 Suits)	2020-08-10 — 17:55:03 UTC	fishcat, null	9	5	25
+266487	3	30	Dual-Color (6 Suits)	2020-08-09 — 20:52:27 UTC	ADrone, fishcat, Huxley	15	6	30
+265543	3	0	Dual-Color (6 Suits)	2020-08-08 — 21:40:47 UTC	ADrone, fishcat, Huxley	15	6	30
+265473	3	30	Dual-Color (6 Suits)	2020-08-08 — 20:19:25 UTC	ADrone, fishcat, Huxley	16	6	30
+265429	3	30	Dual-Color (6 Suits)	2020-08-08 — 19:00:19 UTC	ADrone, fishcat, Huxley	21	6	30
+263916	2	0	Gray (5 Suits)	2020-08-07 — 02:59:27 UTC	fishcat, null	79	5	25
+263763	3	29	Dual-Color (6 Suits)	2020-08-07 — 00:26:36 UTC	ADrone, fishcat, Huxley	18	6	30
+263711	3	29	Dual-Color (6 Suits)	2020-08-06 — 23:06:53 UTC	ADrone, fishcat, Huxley	24	6	30
+262755	2	0	Black & White (5 Suits)	2020-08-05 — 16:50:43 UTC	fishcat, null	10	5	25
+261930	2	0	Black & White (5 Suits)	2020-08-04 — 23:33:29 UTC	fishcat, null	10	5	25
+261106	2	25	Black & White (5 Suits)	2020-08-04 — 03:24:24 UTC	fishcat, null	10	5	25
+261062	2	0	Black & White (5 Suits)	2020-08-04 — 03:01:34 UTC	fishcat, null	11	5	25
+261056	2	0	Black & White (5 Suits)	2020-08-04 — 02:52:36 UTC	fishcat, null	14	5	25
+260954	3	27	Dual-Color (6 Suits)	2020-08-04 — 01:09:09 UTC	ADrone, fishcat, Huxley	26	6	30
+260914	3	30	Dual-Color (6 Suits)	2020-08-04 — 00:10:22 UTC	ADrone, fishcat, Huxley	34	6	30
+260875	2	23	Black & White (5 Suits)	2020-08-03 — 23:06:28 UTC	fishcat, null	18	5	25
+260851	2	23	Black & White (5 Suits)	2020-08-03 — 22:36:34 UTC	fishcat, null	25	5	25
+260830	2	0	Black & White (5 Suits)	2020-08-03 — 22:16:52 UTC	fishcat, null	24	5	25
+260546	2	0	Rainbow & White (5 Suits)	2020-08-03 — 17:01:24 UTC	fishcat, null	46	5	25
+260540	2	25	Black & White (5 Suits)	2020-08-03 — 16:32:55 UTC	fishcat, null	30	5	25
+260536	2	0	Black & White (5 Suits)	2020-08-03 — 16:15:19 UTC	fishcat, null	31	5	25
+258475	2	0	White (5 Suits)	2020-08-02 — 00:20:39 UTC	fishcat, null	78	5	25
+258470	2	0	White (5 Suits)	2020-08-02 — 00:13:56 UTC	fishcat, null	90	5	25
+258466	2	0	White (5 Suits)	2020-08-02 — 00:07:04 UTC	fishcat, null	123	5	25
+258445	3	0	Rainbow (5 Suits)	2020-08-01 — 23:42:24 UTC	fishcat, null, void	116	5	25
+258409	3	0	Rainbow (5 Suits)	2020-08-01 — 23:00:10 UTC	fishcat, null, void	135	5	25
+258376	3	25	No Variant	2020-08-01 — 22:17:25 UTC	fishcat, null, void	106	5	25
+257571	2	0	Black & White (5 Suits)	2020-08-01 — 03:00:28 UTC	fishcat, null	45	5	25
+257560	2	0	Black & White (5 Suits)	2020-08-01 — 02:48:07 UTC	fishcat, null	51	5	25
+257542	2	25	White (5 Suits)	2020-08-01 — 02:33:46 UTC	fishcat, null	184	5	25
+257516	2	0	Duck (5 Suits)	2020-08-01 — 02:07:34 UTC	fishcat, null	63	5	25
+257504	2	0	Cow & Pig (5 Suits)	2020-08-01 — 01:58:55 UTC	fishcat, null	65	5	25
+256490	3	30	Dual-Color (6 Suits)	2020-07-31 — 00:13:24 UTC	ADrone, fishcat, Huxley	43	6	30
+256462	4	0	Dual-Color (6 Suits)	2020-07-30 — 23:13:06 UTC	ADrone, fishcat, Huxley, pianoblook	39	6	30
+256456	3	0	Dual-Color (6 Suits)	2020-07-30 — 22:50:32 UTC	ADrone, fishcat, pianoblook	66	6	30
+256442	3	25	Dual-Color (5 Suits)	2020-07-30 — 22:31:54 UTC	ADrone, fishcat, pianoblook	10	5	25
+256279	2	25	No Variant	2020-07-30 — 16:57:44 UTC	fishcat, null	264	5	25
+255733	4	24	No Variant	2020-07-30 — 00:43:17 UTC	fishcat, hamsterox, hashrick7, hotdave2	78	5	25
+254784	2	0	Black (5 Suits)	2020-07-29 — 00:53:28 UTC	fishcat, null	16	5	25
+254760	2	0	Black (5 Suits)	2020-07-29 — 00:34:45 UTC	fishcat, null	16	5	25
+254755	2	0	Black (5 Suits)	2020-07-29 — 00:23:35 UTC	fishcat, null	16	5	25
+254746	2	0	Black (5 Suits)	2020-07-29 — 00:12:21 UTC	fishcat, null	16	5	25
+254741	2	0	Black (5 Suits)	2020-07-29 — 00:03:14 UTC	fishcat, null	15	5	25
+254732	2	0	Black (5 Suits)	2020-07-28 — 23:46:14 UTC	fishcat, null	16	5	25
+254729	2	0	Black (5 Suits)	2020-07-28 — 23:38:33 UTC	fishcat, null	16	5	25
+254719	2	0	Black (5 Suits)	2020-07-28 — 23:18:52 UTC	fishcat, null	17	5	25
+254715	2	0	Black (5 Suits)	2020-07-28 — 23:01:53 UTC	fishcat, null	18	5	25
+253460	3	22	Dual-Color (5 Suits)	2020-07-28 — 01:19:19 UTC	ADrone, fishcat, pianoblook	14	5	25
+253413	3	24	Dual-Color (5 Suits)	2020-07-28 — 00:31:06 UTC	ADrone, fishcat, Huxley	18	5	25
+253333	3	0	Dual-Color (5 Suits)	2020-07-27 — 23:35:50 UTC	ADrone, fishcat, Huxley	24	5	25
+251237	3	0	Extremely Ambiguous (6 Suits)	2020-07-26 — 01:06:14 UTC	ADrone, fishcat, Huxley	17	6	30
+251205	3	25	No Variant	2020-07-26 — 00:32:56 UTC	ADrone, fishcat, gkrackerr	102	5	25
+251167	2	0	No Variant	2020-07-26 — 00:05:30 UTC	ADrone, fishcat	271	5	25
+251057	2	25	Black (5 Suits)	2020-07-25 — 21:34:15 UTC	fishcat, null	19	5	25
+251044	2	0	Black (5 Suits)	2020-07-25 — 21:24:24 UTC	fishcat, null	19	5	25
+251033	2	0	Black (5 Suits)	2020-07-25 — 21:12:22 UTC	fishcat, null	19	5	25
+251011	2	0	Black (5 Suits)	2020-07-25 — 20:47:00 UTC	fishcat, null	20	5	25
+251008	2	0	Black (5 Suits)	2020-07-25 — 20:43:12 UTC	fishcat, null	20	5	25
+250996	2	0	Black (5 Suits)	2020-07-25 — 20:27:42 UTC	fishcat, null	22	5	25
+250954	2	24	Black (5 Suits)	2020-07-25 — 19:58:52 UTC	fishcat, null	24	5	25
+250933	2	0	Black (5 Suits)	2020-07-25 — 19:43:47 UTC	fishcat, null	24	5	25
+250336	3	24	No Variant	2020-07-25 — 02:46:49 UTC	fishcat, hamsterox, hotdave	109	5	25
+250229	4	0	No Variant	2020-07-25 — 01:03:57 UTC	fishcat, hamsterox, hotdave, watertail27	82	5	25
+246288	2	0	Pink (5 Suits)	2020-07-21 — 00:57:00 UTC	fishcat, null	29	5	25
+246272	2	0	Pink (5 Suits)	2020-07-21 — 00:41:04 UTC	fishcat, null	29	5	25
+246258	2	0	Pink (5 Suits)	2020-07-21 — 00:25:10 UTC	fishcat, null	30	5	25
+246250	2	0	Pink (5 Suits)	2020-07-21 — 00:15:27 UTC	fishcat, null	33	5	25
+246241	2	0	Pink (5 Suits)	2020-07-20 — 23:56:18 UTC	fishcat, null	37	5	25
+245392	2	0	Pink (5 Suits)	2020-07-19 — 22:56:23 UTC	fishcat, null	48	5	25
+245362	2	0	Pink (5 Suits)	2020-07-19 — 22:17:25 UTC	fishcat, null	58	5	25
+245337	2	0	Pink (5 Suits)	2020-07-19 — 21:47:59 UTC	fishcat, null	77	5	25
+245323	2	0	Pink (5 Suits)	2020-07-19 — 21:36:00 UTC	fishcat, null	88	5	25
+245298	2	0	Pink (5 Suits)	2020-07-19 — 21:20:57 UTC	fishcat, null	95	5	25
+245260	2	25	Pink (5 Suits)	2020-07-19 — 21:01:04 UTC	fishcat, null	200	5	25
+243416	2	25	Black (5 Suits)	2020-07-18 — 02:57:48 UTC	fishcat, null	24	5	25
+243387	2	0	Black (5 Suits)	2020-07-18 — 02:39:24 UTC	fishcat, null	26	5	25
+243375	2	0	Black (5 Suits)	2020-07-18 — 02:30:29 UTC	fishcat, null	26	5	25
+243333	2	0	Black (5 Suits)	2020-07-18 — 02:07:45 UTC	fishcat, null	27	5	25
+243316	2	0	Black (5 Suits)	2020-07-18 — 01:55:23 UTC	fishcat, null	27	5	25
+243308	2	0	Black (5 Suits)	2020-07-18 — 01:48:29 UTC	fishcat, null	27	5	25
+242054	2	25	Black (5 Suits)	2020-07-16 — 23:52:16 UTC	fishcat, null	30	5	25
+242022	2	0	Black (5 Suits)	2020-07-16 — 23:27:58 UTC	fishcat, null	30	5	25
+242006	2	0	Black (5 Suits)	2020-07-16 — 23:14:46 UTC	fishcat, null	30	5	25
+240929	3	20	Muddy Rainbow (4 Suits)	2020-07-16 — 00:58:30 UTC	ADrone, fishcat, pianoblook	29	4	20
+240902	3	20	Pink (4 Suits)	2020-07-16 — 00:29:33 UTC	ADrone, fishcat, pianoblook	59	4	20
+239499	2	25	Black (5 Suits)	2020-07-14 — 23:17:19 UTC	fishcat, null	30	5	25
+239456	2	0	Black (5 Suits)	2020-07-14 — 22:55:45 UTC	fishcat, null	30	5	25
+239402	2	22	Black (5 Suits)	2020-07-14 — 22:31:07 UTC	fishcat, null	30	5	25
+239361	2	0	Black (5 Suits)	2020-07-14 — 21:59:09 UTC	fishcat, null	30	5	25
+238410	2	25	Black (5 Suits)	2020-07-13 — 19:32:00 UTC	fishcat, null	31	5	25
+237937	3	21	No Variant	2020-07-13 — 02:20:01 UTC	fishcat, hamsterox, hotdave	112	5	25
+237829	4	0	No Variant	2020-07-13 — 00:50:07 UTC	fishcat, hamsterox, hotdave, watertail27	79	5	25
+235604	2	25	Black (5 Suits)	2020-07-10 — 23:33:03 UTC	fishcat, null	33	5	25
+235584	2	0	Black (5 Suits)	2020-07-10 — 23:13:16 UTC	fishcat, null	34	5	25
+235572	2	0	Black (5 Suits)	2020-07-10 — 23:02:57 UTC	fishcat, null	35	5	25
+235567	2	0	Black (5 Suits)	2020-07-10 — 22:57:59 UTC	fishcat, null	35	5	25
+235532	2	0	Black (5 Suits)	2020-07-10 — 22:34:01 UTC	fishcat, null	36	5	25
+233728	2	23	No Variant	2020-07-09 — 01:18:27 UTC	fishcat, hamsterox	275	5	25
+233545	2	25	Black (5 Suits)	2020-07-08 — 22:48:30 UTC	fishcat, null	38	5	25
+233507	2	0	Black (5 Suits)	2020-07-08 — 22:26:55 UTC	fishcat, null	39	5	25
+231482	2	25	Black (5 Suits)	2020-07-06 — 21:38:51 UTC	fishcat, null	43	5	25
+231449	2	24	Black (5 Suits)	2020-07-06 — 21:10:04 UTC	fishcat, null	48	5	25
+231428	2	0	Black (5 Suits)	2020-07-06 — 20:50:57 UTC	fishcat, null	49	5	25
+231413	2	0	Black (5 Suits)	2020-07-06 — 20:36:23 UTC	fishcat, null	51	5	25
+230791	4	25	No Variant	2020-07-06 — 02:37:55 UTC	ADrone, fishcat, Huxley, pianoblook	36	5	25
+230745	3	0	No Variant	2020-07-06 — 02:13:30 UTC	fishcat, Huxley, pianoblook	106	5	25
+230716	3	0	No Variant	2020-07-06 — 02:02:09 UTC	fishcat, Huxley, pianoblook	110	5	25
+230674	3	0	Rainbow & Brown (5 Suits)	2020-07-06 — 01:39:55 UTC	ADrone, fishcat, pianoblook	5	5	25
+230599	3	25	Up or Down (5 Suits)	2020-07-06 — 00:43:14 UTC	ADrone, fishcat, pianoblook	25	5	25
+230562	2	25	No Variant	2020-07-06 — 00:05:46 UTC	fishcat, pianoblook	277	5	25
+228089	2	25	Black (5 Suits)	2020-07-03 — 18:29:59 UTC	fishcat, null	55	5	25
+228062	2	0	Black (5 Suits)	2020-07-03 — 18:15:37 UTC	fishcat, null	56	5	25
+228032	2	0	Black (5 Suits)	2020-07-03 — 18:00:56 UTC	fishcat, null	60	5	25
+228007	2	0	Black (5 Suits)	2020-07-03 — 17:43:12 UTC	fishcat, null	60	5	25
+227997	2	0	Black (5 Suits)	2020-07-03 — 17:26:42 UTC	fishcat, null	63	5	25
+227980	2	0	Black (5 Suits)	2020-07-03 — 17:11:44 UTC	fishcat, null	64	5	25
+227970	2	0	Black (5 Suits)	2020-07-03 — 16:59:46 UTC	fishcat, null	69	5	25
+227961	2	0	Black (5 Suits)	2020-07-03 — 16:44:51 UTC	fishcat, null	78	5	25
+227952	2	0	Black (5 Suits)	2020-07-03 — 16:31:25 UTC	fishcat, null	85	5	25
+227929	2	0	Black (5 Suits)	2020-07-03 — 15:59:57 UTC	fishcat, null	97	5	25
+227555	2	22	No Variant	2020-07-03 — 03:16:21 UTC	fishcat, hamsterox	279	5	25
+227512	2	0	No Variant	2020-07-03 — 02:37:20 UTC	fishcat, hamsterox	281	5	25
+227448	2	0	No Variant	2020-07-03 — 02:02:25 UTC	fishcat, hamsterox	299	5	25
+227393	3	0	No Variant	2020-07-03 — 01:28:56 UTC	fishcat, hamsterox, watertail27	114	5	25
+227129	2	25	Black (5 Suits)	2020-07-02 — 23:12:22 UTC	fishcat, null	108	5	25
+227104	2	0	Black (5 Suits)	2020-07-02 — 22:56:30 UTC	fishcat, null	115	5	25
+227098	2	0	Black (5 Suits)	2020-07-02 — 22:53:11 UTC	fishcat, null	124	5	25
+227069	2	25	Black (5 Suits)	2020-07-02 — 22:36:16 UTC	fishcat, null	169	5	25
+226765	2	0	Black (5 Suits)	2020-07-02 — 16:48:38 UTC	fishcat, null	219	5	25
+226763	2	0	Black (5 Suits)	2020-07-02 — 16:40:57 UTC	fishcat, null	244	5	25
+226754	2	25	Rainbow (5 Suits)	2020-07-02 — 16:22:23 UTC	fishcat, null	9	5	25
+226067	2	25	Rainbow (5 Suits)	2020-07-02 — 00:08:36 UTC	fishcat, null	9	5	25
+225992	2	24	Rainbow (5 Suits)	2020-07-01 — 23:43:08 UTC	fishcat, null	11	5	25
+225782	2	25	Rainbow (5 Suits)	2020-07-01 — 20:50:19 UTC	fishcat, null	11	5	25
+223752	2	0	Rainbow (5 Suits)	2020-06-30 — 01:27:13 UTC	fishcat, null	11	5	25
+222839	2	25	Rainbow (5 Suits)	2020-06-29 — 02:59:38 UTC	fishcat, null	13	5	25
+222810	2	0	Rainbow (5 Suits)	2020-06-29 — 02:42:32 UTC	fishcat, null	14	5	25
+222804	2	0	Rainbow (5 Suits)	2020-06-29 — 02:38:34 UTC	fishcat, null	14	5	25
+222775	2	24	Rainbow (5 Suits)	2020-06-29 — 02:24:16 UTC	fishcat, null	16	5	25
+218673	2	0	Rainbow (5 Suits)	2020-06-26 — 00:15:31 UTC	fishcat, null	18	5	25
+218655	2	0	Rainbow (5 Suits)	2020-06-25 — 23:58:58 UTC	fishcat, null	18	5	25
+218634	2	0	Rainbow (5 Suits)	2020-06-25 — 23:42:21 UTC	fishcat, null	18	5	25
+218618	2	0	Rainbow (5 Suits)	2020-06-25 — 23:28:44 UTC	fishcat, null	20	5	25
+217423	2	25	Rainbow (5 Suits)	2020-06-24 — 21:56:17 UTC	fishcat, null	22	5	25
+215765	2	24	No Variant	2020-06-23 — 03:30:38 UTC	fishcat, hamstersheep	292	5	25
+215596	2	25	Rainbow (5 Suits)	2020-06-23 — 01:51:38 UTC	fishcat, null	23	5	25
+215382	2	23	Rainbow (5 Suits)	2020-06-22 — 21:08:16 UTC	fishcat, null	25	5	25
+215369	2	0	Rainbow (5 Suits)	2020-06-22 — 20:52:43 UTC	fishcat, null	28	5	25
+215354	2	22	Rainbow (5 Suits)	2020-06-22 — 20:41:17 UTC	fishcat, null	33	5	25
+214737	2	21	No Variant	2020-06-22 — 02:48:05 UTC	fishcat, Hamsterdog	302	5	25
+212545	2	25	No Variant	2020-06-20 — 04:21:15 UTC	fishcat, null	308	5	25
+212527	2	0	No Variant	2020-06-20 — 04:07:26 UTC	fishcat, null	303	5	25
+212495	2	0	No Variant	2020-06-20 — 03:47:30 UTC	fishcat, null	311	5	25
+212215	2	25	Rainbow (5 Suits)	2020-06-20 — 01:09:07 UTC	fishcat, null	33	5	25
+212170	2	0	Rainbow (5 Suits)	2020-06-20 — 00:40:25 UTC	fishcat, null	35	5	25
+212136	2	0	Rainbow (5 Suits)	2020-06-20 — 00:15:10 UTC	fishcat, null	37	5	25
+211667	2	25	Rainbow (5 Suits)	2020-06-19 — 16:29:52 UTC	fishcat, null	43	5	25
+211378	2	25	No Variant	2020-06-19 — 04:07:23 UTC	fishcat, null	315	5	25
+211362	2	0	No Variant	2020-06-19 — 03:58:43 UTC	fishcat, null	321	5	25
+211325	2	0	No Variant	2020-06-19 — 03:34:03 UTC	fishcat, null	328	5	25
+210979	2	22	Rainbow (5 Suits)	2020-06-18 — 23:04:43 UTC	fishcat, null	46	5	25
+210953	2	21	Rainbow (5 Suits)	2020-06-18 — 22:38:16 UTC	fishcat, null	51	5	25
+208138	2	0	Rainbow (5 Suits)	2020-06-16 — 01:34:52 UTC	fishcat, null	64	5	25
+208107	2	0	Rainbow (5 Suits)	2020-06-16 — 01:17:10 UTC	fishcat, null	75	5	25
+208096	2	0	Rainbow (5 Suits)	2020-06-16 — 01:10:30 UTC	fishcat, null	95	5	25
+205833	2	24	Rainbow (5 Suits)	2020-06-14 — 02:32:35 UTC	fishcat, null	129	5	25
+205781	2	0	Rainbow (5 Suits)	2020-06-14 — 01:54:43 UTC	fishcat, null	154	5	25
+205746	2	25	Rainbow (5 Suits)	2020-06-14 — 01:32:20 UTC	fishcat, null	248	5	25
+204280	2	25	No Variant	2020-06-13 — 00:21:08 UTC	fishcat, null	335	5	25
+204240	2	0	No Variant	2020-06-12 — 23:56:14 UTC	fishcat, null	344	5	25
+204220	2	0	No Variant	2020-06-12 — 23:41:39 UTC	fishcat, null	348	5	25
+204193	2	0	No Variant	2020-06-12 — 23:24:08 UTC	fishcat, null	354	5	25
+204187	2	0	No Variant	2020-06-12 — 23:20:17 UTC	fishcat, null	357	5	25
+204166	2	24	No Variant	2020-06-12 — 23:08:47 UTC	fishcat, null	362	5	25
+204143	2	0	No Variant	2020-06-12 — 22:51:03 UTC	fishcat, null	369	5	25
+204105	2	24	No Variant	2020-06-12 — 22:19:12 UTC	fishcat, null	381	5	25
+204082	2	23	No Variant	2020-06-12 — 21:54:15 UTC	fishcat, null	387	5	25
+202618	2	23	No Variant	2020-06-11 — 17:09:58 UTC	fishcat, null	393	5	25
+202610	2	0	No Variant	2020-06-11 — 16:57:20 UTC	fishcat, null	393	5	25
+200686	2	25	No Variant	2020-06-09 — 21:56:19 UTC	fishcat, null	406	5	25
+200669	2	0	No Variant	2020-06-09 — 21:43:09 UTC	fishcat, null	411	5	25
+200654	2	0	No Variant	2020-06-09 — 21:28:02 UTC	fishcat, null	423	5	25
+199705	2	25	No Variant	2020-06-09 — 02:12:56 UTC	fishcat, null	432	5	25
+199639	2	0	No Variant	2020-06-09 — 01:38:28 UTC	fishcat, null	440	5	25
+199595	2	25	No Variant	2020-06-09 — 01:10:07 UTC	fishcat, null	450	5	25
+199386	2	25	No Variant	2020-06-08 — 21:24:36 UTC	fishcat, null	455	5	25
+199354	2	0	No Variant	2020-06-08 — 21:12:39 UTC	fishcat, null	458	5	25
+199325	2	25	No Variant	2020-06-08 — 20:55:52 UTC	fishcat, null	476	5	25
+199053	2	24	No Variant	2020-06-08 — 16:51:20 UTC	fishcat, null	496	5	25
+199034	2	25	No Variant	2020-06-08 — 16:29:31 UTC	fishcat, null	506	5	25
+198470	3	0	Rainbow & Muddy Rainbow (4 Suits)	2020-06-08 — 00:33:46 UTC	ADrone, fishcat, pianoblook	6	4	20
+198445	4	0	Special Mix (5 Suits)	2020-06-08 — 00:04:50 UTC	fishcat, pianoblook, sephiroth, will.i.am	16	5	25
+198424	3	0	Special Mix (5 Suits)	2020-06-07 — 23:38:38 UTC	fishcat, pianoblook, will.i.am	17	5	25
+195680	4	25	No Variant	2020-06-06 — 02:39:04 UTC	ADrone, fishcat, Huxley, pianoblook	18	5	25
+195557	4	24	No Variant	2020-06-06 — 01:30:39 UTC	ADrone, fishcat, Huxley, pianoblook	20	5	25
+195453	3	25	No Variant	2020-06-06 — 00:13:44 UTC	fishcat, Huxley, pianoblook	111	5	25
+195382	4	0	No Variant	2020-06-05 — 23:03:33 UTC	fishcat, lornacurran, null, void	81	5	25
+194296	4	25	No Variant	2020-06-05 — 01:16:48 UTC	ADrone, fishcat, Huxley, pianoblook	21	5	25
+194179	4	24	No Variant	2020-06-04 — 23:34:17 UTC	ADrone, fishcat, Huxley, pianoblook	25	5	25
+194115	3	25	White Reversed (5 Suits)	2020-06-04 — 22:05:46 UTC	fishcat, Huxley, pianoblook	14	5	25
+192730	3	0	Omni-Ones (5 Suits)	2020-06-03 — 16:41:24 UTC	ADrone, fishcat, Huxley	7	5	25
+191954	4	24	No Variant	2020-06-03 — 00:08:09 UTC	ADrone, fishcat, pianoblook, will.i.am	57	5	25
+190947	4	25	No Variant	2020-06-02 — 01:41:19 UTC	ADrone, fishcat, Huxley, pianoblook	61	5	25
+190876	4	0	No Variant	2020-06-02 — 00:46:41 UTC	ADrone, fishcat, Huxley, pianoblook	60	5	25
+190817	4	25	No Variant	2020-06-01 — 23:57:55 UTC	ADrone, fishcat, Huxley, pianoblook	59	5	25
+190804	3	0	No Variant	2020-06-01 — 23:24:49 UTC	ADrone, fishcat, Huxley	119	5	25
+189880	3	25	White-Ones & Brown (5 Suits)	2020-06-01 — 01:48:23 UTC	ADrone, fishcat, pianoblook	7	5	25
+189433	2	25	No Variant	2020-05-31 — 20:28:50 UTC	fishcat, null	513	5	25
+189392	2	0	No Variant	2020-05-31 — 20:01:40 UTC	fishcat, null	526	5	25
+189383	2	0	No Variant	2020-05-31 — 19:56:19 UTC	fishcat, null	534	5	25
+189378	2	0	No Variant	2020-05-31 — 19:54:04 UTC	fishcat, null	548	5	25
+189355	2	0	No Variant	2020-05-31 — 19:35:18 UTC	fishcat, null	555	5	25
+189342	2	0	No Variant	2020-05-31 — 19:26:40 UTC	fishcat, null	581	5	25
+189315	2	23	No Variant	2020-05-31 — 19:07:44 UTC	fishcat, null	593	5	25
+188721	2	25	No Variant	2020-05-31 — 04:31:43 UTC	fishcat, null	597	5	25
+188674	2	23	No Variant	2020-05-31 — 04:09:59 UTC	fishcat, null	626	5	25
+185638	2	0	No Variant	2020-05-29 — 01:58:52 UTC	fishcat, null	654	5	25
+185573	3	23	Black & Rainbow (5 Suits)	2020-05-29 — 01:23:49 UTC	fishcat, Huxley, pianoblook	33	5	25
+185541	3	0	Black & Rainbow (5 Suits)	2020-05-29 — 01:00:29 UTC	fishcat, Huxley, pianoblook	33	5	25
+180744	3	30	Black (6 Suits)	2020-05-25 — 03:20:13 UTC	ADrone, fishcat, pianoblook	24	6	30
+180610	3	30	Black (6 Suits)	2020-05-25 — 02:09:52 UTC	ADrone, fishcat, pianoblook	97	6	30
+178696	3	26	Black (6 Suits)	2020-05-23 — 22:24:39 UTC	ADrone, fishcat, pianoblook	108	6	30
+178574	3	0	Black (6 Suits)	2020-05-23 — 21:01:11 UTC	ADrone, fishcat, pianoblook	125	6	30
+177472	3	30	Black (6 Suits)	2020-05-23 — 02:18:38 UTC	ADrone, fishcat, pianoblook	26	6	30
+177327	3	30	Black (6 Suits)	2020-05-23 — 00:55:32 UTC	ADrone, fishcat, pianoblook	31	6	30
+177239	3	0	Black (6 Suits)	2020-05-22 — 23:53:06 UTC	ADrone, fishcat, pianoblook	134	6	30
+177170	4	23	No Variant	2020-05-22 — 22:56:38 UTC	fishcat, lornacurran, null, void	89	5	25
+176086	3	30	Black (6 Suits)	2020-05-22 — 02:39:59 UTC	ADrone, fishcat, pianoblook	32	6	30
+175984	3	30	Black (6 Suits)	2020-05-22 — 01:36:51 UTC	ADrone, fishcat, pianoblook	149	6	30
+174573	3	0	Black (6 Suits)	2020-05-20 — 23:52:40 UTC	ADrone, fishcat, pianoblook	159	6	30
+174558	3	0	Black (6 Suits)	2020-05-20 — 23:32:04 UTC	ADrone, fishcat, pianoblook	172	6	30
+173220	3	23	No Variant	2020-05-19 — 22:40:35 UTC	fishcat, Huxley, pianoblook	121	5	25
+173206	2	0	No Variant	2020-05-19 — 22:23:01 UTC	fishcat, Huxley	677	5	25
+173193	2	0	No Variant	2020-05-19 — 22:03:32 UTC	fishcat, Huxley	699	5	25
+173183	2	0	No Variant	2020-05-19 — 21:51:45 UTC	fishcat, Huxley	719	5	25
+172885	2	22	No Variant	2020-05-19 — 16:28:26 UTC	fishcat, null	741	5	25
+172880	2	0	No Variant	2020-05-19 — 16:15:57 UTC	fishcat, null	770	5	25
+169534	2	0	No Variant	2020-05-17 — 02:36:27 UTC	fishcat, null	794	5	25
+169524	2	0	No Variant	2020-05-17 — 02:30:00 UTC	fishcat, null	818	5	25
+169513	2	24	No Variant	2020-05-17 — 02:22:51 UTC	fishcat, null	854	5	25
+169503	2	0	No Variant	2020-05-17 — 02:15:00 UTC	fishcat, null	883	5	25
+167770	3	22	Black & Dark Rainbow (6 Suits)	2020-05-16 — 02:59:21 UTC	ADrone, fishcat, pianoblook	20	6	30
+167649	3	0	Black & Dark Rainbow (6 Suits)	2020-05-16 — 02:08:50 UTC	ADrone, fishcat, pianoblook	21	6	30
+167508	3	24	No Variant	2020-05-16 — 00:37:42 UTC	fishcat, lornacurran, null	125	5	25
+167447	3	0	No Variant	2020-05-15 — 23:45:03 UTC	fishcat, lornacurran, null	130	5	25
+167395	2	25	No Variant	2020-05-15 — 23:17:15 UTC	ADrone, fishcat	921	5	25
+166392	3	0	Brown & Light Pink (5 Suits)	2020-05-15 — 02:26:58 UTC	ADrone, fishcat, pianoblook	3	5	25
+166304	3	0	Brown & Light Pink (5 Suits)	2020-05-15 — 01:46:21 UTC	ADrone, fishcat, pianoblook	5	5	25
+165824	3	24	No Variant	2020-05-14 — 19:01:50 UTC	ADrone, fishcat, Huxley	137	5	25
+165806	3	0	Omni (5 Suits)	2020-05-14 — 18:42:28 UTC	ADrone, fishcat, Huxley	21	5	25
+165054	3	25	Special Mix (5 Suits)	2020-05-14 — 02:45:16 UTC	ADrone, fishcat, pianoblook	16	5	25
+164929	3	28	Pink & Dark Brown (6 Suits)	2020-05-14 — 01:46:18 UTC	ADrone, fishcat, pianoblook	3	6	30
+164854	3	0	Pink & Dark Brown (6 Suits)	2020-05-14 — 00:55:10 UTC	ADrone, fishcat, pianoblook	5	6	30
+162259	3	24	Brown & Light Pink (5 Suits)	2020-05-11 — 22:47:42 UTC	ADrone, fishcat, pianoblook	6	5	25
+161963	3	25	Black & Brown (5 Suits)	2020-05-11 — 17:42:51 UTC	ADrone, fishcat, pianoblook	19	5	25
+159017	4	25	No Variant	2020-05-09 — 21:14:41 UTC	BroomSabers, fishcat, lornacurran, null	88	5	25
+158938	4	0	No Variant	2020-05-09 — 20:32:08 UTC	BroomSabers, fishcat, lornacurran, null	90	5	25
+158641	4	0	Up or Down (5 Suits)	2020-05-09 — 16:04:27 UTC	ADrone, fishcat, Huxley, pianoblook	75	5	25
+158622	3	0	Up or Down (5 Suits)	2020-05-09 — 15:33:00 UTC	ADrone, fishcat, pianoblook	29	5	25
+158601	3	25	Pink & Brown (5 Suits)	2020-05-09 — 15:06:10 UTC	ADrone, fishcat, pianoblook	7	5	25
+157589	3	0	Cow & Pig (5 Suits)	2020-05-08 — 22:55:47 UTC	ADrone, fishcat, Huxley	18	5	25
+157538	3	0	Cow & Pig (5 Suits)	2020-05-08 — 22:28:25 UTC	ADrone, fishcat, Huxley	33	5	25
+157502	3	0	Pink & Brown (5 Suits)	2020-05-08 — 22:10:31 UTC	ADrone, fishcat, pianoblook	8	5	25
+155013	3	0	Dual-Color (5 Suits)	2020-05-06 — 23:47:31 UTC	ADrone, fishcat, pianoblook	44	5	25
+154995	3	0	Dual-Color (5 Suits)	2020-05-06 — 23:26:15 UTC	ADrone, fishcat, pianoblook	69	5	25
+154978	2	0	Dual-Color (5 Suits)	2020-05-06 — 23:08:02 UTC	ADrone, fishcat	53	5	25
+154966	2	0	Dual-Color (5 Suits)	2020-05-06 — 22:57:54 UTC	ADrone, fishcat	63	5	25
+154962	2	0	Dual-Color (5 Suits)	2020-05-06 — 22:53:39 UTC	ADrone, fishcat	74	5	25
+154950	2	0	Dual-Color (5 Suits)	2020-05-06 — 22:41:49 UTC	ADrone, fishcat	85	5	25
+153637	5	20	No Variant	2020-05-06 — 00:19:13 UTC	falafelraptor, fishcat, lornacurran, null, StarsLikeDust	1510	5	25
+153570	4	23	No Variant	2020-05-05 — 23:29:32 UTC	fishcat, lornacurran, null, StarsLikeDust	95	5	25
+149492	4	23	Pink & Brown (5 Suits)	2020-05-03 — 03:56:22 UTC	ADrone, fishcat, Huxley, pianoblook	6	5	25
+149432	4	0	Pink & Brown (5 Suits)	2020-05-03 — 03:20:42 UTC	ADrone, fishcat, Huxley, pianoblook	10	5	25
+149398	4	0	Pink & Brown (5 Suits)	2020-05-03 — 02:57:30 UTC	ADrone, fishcat, Huxley, pianoblook	15	5	25
+149306	3	23	No Variant	2020-05-03 — 02:24:19 UTC	fishcat, lornacurran, null	134	5	25
+149242	3	0	No Variant	2020-05-03 — 02:00:13 UTC	fishcat, lornacurran, null	154	5	25
+147518	4	25	Black (5 Suits)	2020-05-02 — 02:38:45 UTC	ADrone, fishcat, Huxley, pianoblook	21	5	25
+147408	4	0	Black (5 Suits)	2020-05-02 — 01:54:56 UTC	ADrone, fishcat, Huxley, pianoblook	23	5	25
+145707	3	0	Black (5 Suits)	2020-05-01 — 01:11:51 UTC	ADrone, fishcat, pianoblook	29	5	25
+145640	3	0	Black (5 Suits)	2020-05-01 — 00:28:53 UTC	ADrone, fishcat, pianoblook	31	5	25
+145597	4	0	Black (5 Suits)	2020-05-01 — 00:00:00 UTC	ADrone, fishcat, Huxley, pianoblook	22	5	25
+145580	4	23	Black (5 Suits)	2020-04-30 — 23:51:04 UTC	ADrone, fishcat, Huxley, pianoblook	21	5	25
+145543	3	0	Black (5 Suits)	2020-04-30 — 23:15:10 UTC	ADrone, fishcat, Huxley	31	5	25
+145521	3	0	Black (5 Suits)	2020-04-30 — 22:57:11 UTC	ADrone, fishcat, Huxley	31	5	25
+145487	3	0	Black (5 Suits)	2020-04-30 — 22:32:40 UTC	ADrone, fishcat, Huxley	36	5	25
+144374	4	22	Black (5 Suits)	2020-04-30 — 03:26:12 UTC	ADrone, fishcat, Huxley, pianoblook	23	5	25
+144298	4	0	Black (5 Suits)	2020-04-30 — 02:53:32 UTC	ADrone, fishcat, Huxley, pianoblook	24	5	25
+142720	4	21	No Variant	2020-04-29 — 00:17:13 UTC	fishcat, lornacurran, null, StarsLikeDust	95	5	25
+142294	3	0	No Variant	2020-04-28 — 18:09:16 UTC	fishcat, null, shiitakethemush	151	5	25
+141539	3	23	Special Mix (5 Suits)	2020-04-28 — 01:33:25 UTC	ADrone, fishcat, pianoblook	17	5	25
+141446	3	0	Special Mix (5 Suits)	2020-04-27 — 23:58:23 UTC	ADrone, fishcat, pianoblook	19	5	25
+141400	3	23	Special Mix (5 Suits)	2020-04-27 — 22:57:41 UTC	ADrone, fishcat, pianoblook	18	5	25
+140538	3	21	Gray (5 Suits)	2020-04-27 — 02:48:27 UTC	fishcat, Huxley, pianoblook	26	5	25
+140474	3	0	Gray (5 Suits)	2020-04-27 — 02:16:13 UTC	fishcat, Huxley, pianoblook	35	5	25
+140412	4	0	Null (5 Suits)	2020-04-27 — 01:39:39 UTC	ADrone, fishcat, Huxley, pianoblook	20	5	25
+140346	4	25	Null (5 Suits)	2020-04-27 — 00:56:33 UTC	ADrone, fishcat, Huxley, pianoblook	26	5	25
+140237	4	25	Gray (5 Suits)	2020-04-26 — 23:57:00 UTC	ADrone, fishcat, Huxley, pianoblook	27	5	25
+140188	4	0	Gray (5 Suits)	2020-04-26 — 23:25:24 UTC	ADrone, fishcat, Huxley, pianoblook	33	5	25
+140160	3	0	Gray (5 Suits)	2020-04-26 — 22:57:06 UTC	fishcat, Huxley, pianoblook	37	5	25
+140130	3	0	Gray (5 Suits)	2020-04-26 — 22:29:55 UTC	fishcat, Huxley, pianoblook	42	5	25
+138296	4	0	Black (5 Suits)	2020-04-25 — 22:05:08 UTC	ADrone, fishcat, Huxley, pianoblook	28	5	25
+138250	4	0	Black (5 Suits)	2020-04-25 — 21:39:09 UTC	ADrone, fishcat, Huxley, pianoblook	32	5	25
+137122	3	0	Black (5 Suits)	2020-04-25 — 04:04:31 UTC	ADrone, fishcat, pianoblook	44	5	25
+137085	3	0	Black (5 Suits)	2020-04-25 — 03:49:10 UTC	ADrone, fishcat, pianoblook	51	5	25
+137008	3	23	Black (5 Suits)	2020-04-25 — 03:26:13 UTC	ADrone, fishcat, pianoblook	74	5	25
+136622	3	22	No Variant	2020-04-25 — 00:56:58 UTC	fishcat, lornacurran, StarsLikeDust	187	5	25
+136577	2	0	No Variant	2020-04-25 — 00:35:40 UTC	fishcat, StarsLikeDust	948	5	25
+136544	4	22	No Variant	2020-04-25 — 00:13:31 UTC	fishcat, lornacurran, null, StarsLikeDust	97	5	25
+136455	3	22	Black (5 Suits)	2020-04-24 — 23:13:56 UTC	ADrone, fishcat, Huxley	84	5	25
+136393	3	0	Black (5 Suits)	2020-04-24 — 22:46:51 UTC	ADrone, fishcat, Huxley	92	5	25
+136374	3	0	Black (5 Suits)	2020-04-24 — 22:41:12 UTC	ADrone, fishcat, Huxley	101	5	25
+134903	3	24	Dark Rainbow (5 Suits)	2020-04-23 — 23:24:19 UTC	ADrone, fishcat, padi	48	5	25
+132660	4	24	No Variant	2020-04-22 — 02:22:20 UTC	fishcat, lornacurran, null, StarsLikeDust	99	5	25
+132596	4	0	No Variant	2020-04-22 — 01:47:30 UTC	fishcat, lornacurran, null, StarsLikeDust	129	5	25
+132527	4	22	No Variant	2020-04-22 — 01:14:56 UTC	fishcat, lornacurran, null, StarsLikeDust	130	5	25
+131087	3	25	No Variant	2020-04-21 — 00:36:52 UTC	ADrone, fishcat, Huxley	141	5	25
+131055	3	0	Duck (5 Suits)	2020-04-21 — 00:18:26 UTC	ADrone, fishcat, Huxley	35	5	25
+131051	3	0	Duck (5 Suits)	2020-04-21 — 00:13:22 UTC	ADrone, fishcat, Huxley	52	5	25
+123685	3	22	Black (5 Suits)	2020-04-16 — 02:52:16 UTC	ADrone, fishcat, pianoblook	119	5	25
+123594	3	0	Black (5 Suits)	2020-04-16 — 02:03:57 UTC	ADrone, fishcat, pianoblook	134	5	25
+123537	2	0	Special Mix (5 Suits)	2020-04-16 — 01:28:54 UTC	fishcat, pianoblook	15	5	25
+123461	4	23	No Variant	2020-04-16 — 00:43:07 UTC	fishcat, lornacurran, null, StarsLikeDust	131	5	25
+123407	4	24	No Variant	2020-04-15 — 23:45:07 UTC	fishcat, lornacurran, null, StarsLikeDust	138	5	25
+121286	4	0	Black (5 Suits)	2020-04-14 — 02:35:59 UTC	ADrone, fishcat, Huxley, pianoblook	32	5	25
+121197	4	0	Black (5 Suits)	2020-04-14 — 01:52:48 UTC	ADrone, fishcat, Huxley, pianoblook	36	5	25
+121122	3	25	Rainbow (5 Suits)	2020-04-14 — 01:18:24 UTC	ADrone, fishcat, Huxley	74	5	25
+119947	2	0	Special Mix (5 Suits)	2020-04-13 — 01:20:33 UTC	ADrone, fishcat	17	5	25
+119170	2	0	Special Mix (5 Suits)	2020-04-12 — 16:43:33 UTC	ADrone, fishcat	17	5	25
+119150	2	0	Special Mix (5 Suits)	2020-04-12 — 16:28:46 UTC	ADrone, fishcat	17	5	25
+119123	2	0	Special Mix (5 Suits)	2020-04-12 — 16:09:14 UTC	ADrone, fishcat	18	5	25
+119119	2	0	Special Mix (5 Suits)	2020-04-12 — 16:06:09 UTC	ADrone, fishcat	19	5	25
+119114	2	0	Special Mix (5 Suits)	2020-04-12 — 16:00:05 UTC	ADrone, fishcat	19	5	25
+119055	3	0	Rainbow (5 Suits)	2020-04-12 — 15:06:08 UTC	ADrone, fishcat, Huxley	84	5	25
+118365	2	0	Special Mix (5 Suits)	2020-04-12 — 01:33:53 UTC	ADrone, fishcat	20	5	25
+116523	4	23	No Variant	2020-04-11 — 02:01:31 UTC	fishcat, lornacurran, null, StarsLikeDust	162	5	25
+116446	4	0	No Variant	2020-04-11 — 01:17:24 UTC	fishcat, lornacurran, null, StarsLikeDust	180	5	25
+116373	4	20	No Variant	2020-04-11 — 00:27:01 UTC	fishcat, lornacurran, null, StarsLikeDust	190	5	25
+115284	3	30	Rainbow (6 Suits)	2020-04-10 — 04:11:27 UTC	ADrone, fishcat, pianoblook	237	6	30
+115189	3	0	Black & Dark Rainbow (6 Suits)	2020-04-10 — 03:10:43 UTC	ADrone, fishcat, pianoblook	28	6	30
+115166	4	0	No Variant	2020-04-10 — 02:57:09 UTC	ADrone, fishcat, Huxley, pianoblook	103	5	25
+115111	4	0	No Variant	2020-04-10 — 02:34:17 UTC	ADrone, fishcat, Huxley, pianoblook	103	5	25
+115061	4	0	No Variant	2020-04-10 — 02:02:01 UTC	ADrone, fishcat, Huxley, pianoblook	111	5	25
+114803	3	0	Special Mix (5 Suits)	2020-04-09 — 23:05:50 UTC	ADrone, fishcat, pianoblook	20	5	25
+114767	3	0	Special Mix (5 Suits)	2020-04-09 — 22:24:16 UTC	ADrone, fishcat, pianoblook	22	5	25
+114747	3	0	Special Mix (5 Suits)	2020-04-09 — 22:03:51 UTC	ADrone, fishcat, pianoblook	24	5	25
+114692	3	0	Special Mix (5 Suits)	2020-04-09 — 21:34:42 UTC	ADrone, fishcat, pianoblook	23	5	25
+114358	4	21	No Variant	2020-04-08 — 22:30:49 UTC	fishcat, lornacurran, null, StarsLikeDust	198	5	25
+113962	2	0	Special Mix (5 Suits)	2020-04-08 — 17:21:18 UTC	fishcat, pianoblook	19	5	25
+113947	2	0	Special Mix (5 Suits)	2020-04-08 — 17:04:22 UTC	fishcat, pianoblook	20	5	25
+113222	3	21	No Variant	2020-04-07 — 23:46:56 UTC	fishcat, lornacurran, null	194	5	25
+112301	4	25	No Variant	2020-04-07 — 03:52:59 UTC	ADrone, fishcat, Huxley, pianoblook	116	5	25
+112266	4	0	No Variant	2020-04-07 — 03:18:27 UTC	ADrone, fishcat, Huxley, pianoblook	117	5	25
+112220	4	21	Throw It in a Hole (5 Suits)	2020-04-07 — 02:41:05 UTC	ADrone, fishcat, Huxley, pianoblook	40	5	25
+111228	3	0	Special Mix (5 Suits)	2020-04-06 — 04:32:37 UTC	ADrone, fishcat, pianoblook	28	5	25
+111181	4	0	Special Mix (5 Suits)	2020-04-06 — 03:54:25 UTC	ADrone, fishcat, Huxley, pianoblook	28	5	25
+111168	4	0	Special Mix (5 Suits)	2020-04-06 — 03:46:29 UTC	ADrone, fishcat, Huxley, pianoblook	29	5	25
+111123	4	0	Special Mix (5 Suits)	2020-04-06 — 03:18:51 UTC	ADrone, fishcat, Huxley, pianoblook	39	5	25
+111100	3	0	Special Mix (5 Suits)	2020-04-06 — 03:02:45 UTC	ADrone, fishcat, pianoblook	30	5	25
+111093	2	0	Special Mix (5 Suits)	2020-04-06 — 02:57:24 UTC	fishcat, pianoblook	22	5	25
+110897	3	0	Special Mix (5 Suits)	2020-04-06 — 00:35:57 UTC	ADrone, fishcat, pianoblook	38	5	25
+110833	3	0	Special Mix (5 Suits)	2020-04-05 — 23:35:06 UTC	ADrone, fishcat, pianoblook	48	5	25
+110416	2	24	Special Mix (5 Suits)	2020-04-05 — 19:38:08 UTC	ADrone, fishcat	24	5	25
+110312	2	22	Special Mix (5 Suits)	2020-04-05 — 18:35:59 UTC	ADrone, fishcat	24	5	25
+110243	3	27	Black & White (6 Suits)	2020-04-05 — 17:40:39 UTC	ADrone, fishcat, Huxley	47	6	30
+108262	5	30	Rainbow (6 Suits)	2020-04-04 — 04:52:07 UTC	ADrone, fishcat, gkrackerr, Huxley, pianoblook	133	6	30
+108104	5	0	Rainbow (6 Suits)	2020-04-04 — 03:17:24 UTC	ADrone, fishcat, gkrackerr, Huxley, pianoblook	209	6	30
+108036	3	0	Rainbow (6 Suits)	2020-04-04 — 02:41:39 UTC	ADrone, fishcat, gkrackerr	396	6	30
+107823	4	21	No Variant	2020-04-03 — 23:38:36 UTC	fishcat, lornacurran, null, StarsLikeDust	243	5	25
+107741	4	23	No Variant	2020-04-03 — 22:33:16 UTC	fishcat, lornacurran, null, StarsLikeDust	257	5	25
+104913	3	23	No Variant	2020-04-01 — 19:26:19 UTC	ADrone, fishcat, pianoblook	148	5	25
+104844	3	0	Pink & Brown (5 Suits)	2020-04-01 — 18:36:28 UTC	ADrone, fishcat, pianoblook	8	5	25
+104817	3	0	Pink & Brown (5 Suits)	2020-04-01 — 18:06:34 UTC	ADrone, fishcat, pianoblook	11	5	25
+104801	3	0	Pink & Brown (5 Suits)	2020-04-01 — 17:35:09 UTC	ADrone, fishcat, pianoblook	12	5	25
+104062	4	22	No Variant	2020-04-01 — 00:17:41 UTC	fishcat, lornacurran, null, StarsLikeDust	278	5	25
+104013	4	23	No Variant	2020-03-31 — 23:15:26 UTC	fishcat, lornacurran, null, StarsLikeDust	326	5	25
+103955	3	24	No Variant	2020-03-31 — 22:15:28 UTC	ADrone, fishcat, Huxley	156	5	25
+103928	3	0	No Variant	2020-03-31 — 21:52:19 UTC	ADrone, fishcat, Huxley	157	5	25
+103927	2	0	No Variant	2020-03-31 — 21:50:44 UTC	fishcat, Huxley	976	5	25
+101917	4	25	No Variant	2020-03-29 — 22:39:56 UTC	ADrone, fishcat, Huxley, pianoblook	125	5	25
+101876	3	0	Black (6 Suits)	2020-03-29 — 22:14:01 UTC	fishcat, Huxley, pianoblook	193	6	30
+101817	3	0	Black (6 Suits)	2020-03-29 — 21:43:25 UTC	fishcat, Huxley, pianoblook	213	6	30
+101779	3	0	Black (6 Suits)	2020-03-29 — 21:18:53 UTC	fishcat, Huxley, pianoblook	325	6	30
+99191	3	25	No Variant	2020-03-28 — 01:08:04 UTC	ADrone, fishcat, pianoblook	160	5	25
+98107	4	24	No Variant	2020-03-26 — 23:46:28 UTC	fishcat, lornacurran, null, StarsLikeDust	373	5	25
+98078	4	23	No Variant	2020-03-26 — 23:05:03 UTC	fishcat, lornacurran, null, StarsLikeDust	384	5	25
+97753	3	0	No Variant	2020-03-26 — 16:41:23 UTC	fishcat, null, shiitakethemush	206	5	25
+94959	4	22	Rainbow & White (5 Suits)	2020-03-23 — 04:49:19 UTC	ADrone, fishcat, Huxley, pianoblook	12	5	25
+94940	4	0	Rainbow & White (5 Suits)	2020-03-23 — 04:22:35 UTC	ADrone, fishcat, Huxley, pianoblook	12	5	25
+94921	4	0	Rainbow & White (5 Suits)	2020-03-23 — 04:03:07 UTC	ADrone, fishcat, Huxley, pianoblook	23	5	25
+94673	4	28	Black & White (6 Suits)	2020-03-22 — 23:02:50 UTC	DoubleDown11, fishcat, Floriman, pianoblook	9	6	30
+94405	4	0	Pink (5 Suits)	2020-03-22 — 17:52:10 UTC	ADrone, fishcat, Huxley, pianoblook	69	5	25
+93761	5	22	Rainbow & Pink (5 Suits)	2020-03-21 — 23:24:54 UTC	ADrone, fishcat, Floriman, padi, pianoblook	5	5	25
+93682	3	25	Rainbow & Pink (5 Suits)	2020-03-21 — 22:20:38 UTC	ADrone, fishcat, pianoblook	22	5	25
+93648	3	0	Rainbow & Pink (5 Suits)	2020-03-21 — 21:57:34 UTC	ADrone, fishcat, pianoblook	29	5	25
+93593	3	0	Omni (5 Suits)	2020-03-21 — 21:24:17 UTC	fishcat, Huxley, pianoblook	31	5	25
+93532	3	0	Omni (5 Suits)	2020-03-21 — 20:38:10 UTC	fishcat, Huxley, pianoblook	50	5	25
+93126	4	19	No Variant	2020-03-21 — 03:31:12 UTC	fishcat, goat, Huxley, pianoblook	149	5	25
+93077	4	24	No Variant	2020-03-21 — 02:25:17 UTC	fishcat, goat, Huxley, pianoblook	156	5	25
+93047	4	0	No Variant	2020-03-21 — 01:35:28 UTC	fishcat, goat, Huxley, pianoblook	158	5	25
+93034	3	0	Black & White (5 Suits)	2020-03-21 — 01:11:56 UTC	fishcat, Huxley, pianoblook	31	5	25
+93015	3	0	Black & White (5 Suits)	2020-03-21 — 00:37:29 UTC	fishcat, Huxley, pianoblook	40	5	25
+92704	5	17	White & Brown (4 Suits)	2020-03-20 — 17:08:40 UTC	ADrone, fishcat, Floriman, pianoblook, Yuga Suggah	1	4	20
+92692	5	0	White & Brown (4 Suits)	2020-03-20 — 16:31:24 UTC	ADrone, fishcat, Floriman, pianoblook, Yuga Suggah	2	4	20
+92484	4	25	No Variant	2020-03-20 — 03:41:08 UTC	fishcat, Huxley, null, pianoblook	167	5	25
+92424	3	28	Rainbow (6 Suits)	2020-03-20 — 02:37:52 UTC	fishcat, null, pianoblook	332	6	30
+92360	3	25	No Variant	2020-03-20 — 01:03:51 UTC	fishcat, null, pianoblook	167	5	25
+92293	3	23	No Variant	2020-03-19 — 23:46:33 UTC	fishcat, null, pianoblook	164	5	25
+92266	3	0	No Variant	2020-03-19 — 23:11:43 UTC	fishcat, null, pianoblook	170	5	25
+92091	2	0	No Variant	2020-03-19 — 19:52:34 UTC	fishcat, jesserae	1031	5	25
+91686	4	0	No Variant	2020-03-19 — 01:15:39 UTC	couchcreature, fishcat, null, StarsLikeDust	419	5	25
+91544	2	0	No Variant	2020-03-18 — 21:38:44 UTC	fishcat, pianoblook	1078	5	25
+91062	3	23	No Variant	2020-03-18 — 01:39:26 UTC	fishcat, null, pianoblook	175	5	25
+91011	3	25	No Variant	2020-03-18 — 00:12:23 UTC	ADrone, fishcat, pianoblook	178	5	25
+89477	4	24	Black (5 Suits)	2020-03-15 — 04:33:34 UTC	ADrone, fishcat, Huxley, pianoblook	41	5	25
+89470	4	0	Black (5 Suits)	2020-03-15 — 04:00:25 UTC	ADrone, fishcat, Huxley, pianoblook	44	5	25
+89464	4	0	Black (5 Suits)	2020-03-15 — 03:45:36 UTC	ADrone, fishcat, Huxley, pianoblook	49	5	25
+89457	4	22	Black (5 Suits)	2020-03-15 — 03:18:04 UTC	ADrone, fishcat, Huxley, pianoblook	63	5	25
+89448	4	23	Black (5 Suits)	2020-03-15 — 02:51:57 UTC	ADrone, fishcat, Huxley, pianoblook	79	5	25
+89368	3	20	No Variant	2020-03-14 — 21:33:55 UTC	fishcat, null, StarsLikeDust	213	5	25
+88622	3	0	No Variant	2020-03-14 — 03:31:20 UTC	fishcat, null, pianoblook	201	5	25
+88616	3	24	No Variant	2020-03-14 — 03:02:29 UTC	fishcat, null, pianoblook	199	5	25
+88607	3	24	No Variant	2020-03-14 — 01:36:25 UTC	fishcat, null, StarsLikeDust	218	5	25
+88594	2	0	No Variant	2020-03-14 — 00:49:51 UTC	fishcat, null	1117	5	25
+88575	4	0	No Variant	2020-03-13 — 23:40:30 UTC	ADrone, fishcat, Huxley, pianoblook	204	5	25
+88564	4	0	No Variant	2020-03-13 — 23:03:11 UTC	ADrone, fishcat, Huxley, pianoblook	213	5	25
+88552	4	0	No Variant	2020-03-13 — 22:39:48 UTC	ADrone, fishcat, Huxley, pianoblook	233	5	25
+88139	4	25	Black (6 Suits)	2020-03-13 — 04:54:34 UTC	ADrone, fishcat, Huxley, pianoblook	175	6	30
+88067	4	0	Black (6 Suits)	2020-03-13 — 04:16:19 UTC	ADrone, fishcat, Huxley, pianoblook	213	6	30
+88053	4	0	Black (6 Suits)	2020-03-13 — 03:37:07 UTC	ADrone, fishcat, Huxley, pianoblook	273	6	30
+88014	4	21	No Variant	2020-03-13 — 00:59:09 UTC	couchcreature, fishcat, null, shiitakethemush	717	5	25
+87468	2	0	Black (6 Suits)	2020-03-11 — 17:40:41 UTC	fishcat, null	546	6	30
+87464	2	0	Black (6 Suits)	2020-03-11 — 17:12:36 UTC	fishcat, null	643	6	30
+87076	3	0	No Variant	2020-03-11 — 02:47:40 UTC	fishcat, null, pianoblook	223	5	25
+86977	3	22	No Variant	2020-03-11 — 01:49:54 UTC	fishcat, null, StarsLikeDust	220	5	25
+86730	2	0	No Variant	2020-03-10 — 18:16:44 UTC	fishcat, null	1148	5	25
+86726	2	0	No Variant	2020-03-10 — 16:55:20 UTC	fishcat, null	1206	5	25
+86665	3	25	Pink & Brown (5 Suits)	2020-03-10 — 03:32:20 UTC	ADrone, fishcat, Huxley	22	5	25
+86590	4	0	Black (5 Suits)	2020-03-10 — 02:27:31 UTC	ADrone, fishcat, Huxley, null	98	5	25
+86387	2	24	No Variant	2020-03-09 — 18:43:52 UTC	fishcat, null	1249	5	25
+86298	3	24	Rainbow & White (5 Suits)	2020-03-09 — 04:08:10 UTC	ADrone, fishcat, pianoblook	37	5	25
+86231	3	0	No Variant	2020-03-09 — 02:15:46 UTC	fishcat, null, StarsLikeDust	224	5	25
+86222	3	25	No Variant	2020-03-09 — 01:13:52 UTC	fishcat, null, StarsLikeDust	243	5	25
+86201	5	0	No Variant	2020-03-08 — 20:43:41 UTC	ADrone, fishcat, gkrackerr, Huxley, pianoblook	1119	5	25
+86190	4	25	No Variant	2020-03-08 — 19:34:32 UTC	ADrone, fishcat, gkrackerr, pianoblook	287	5	25
+86189	4	0	No Variant	2020-03-08 — 18:31:42 UTC	ADrone, fishcat, gkrackerr, pianoblook	308	5	25
+86156	3	21	No Variant	2020-03-08 — 05:21:53 UTC	fishcat, null, shiitakethemush	250	5	25
+86152	3	0	No Variant	2020-03-08 — 03:22:18 UTC	fishcat, null, shiitakethemush	375	5	25
+86150	3	19	No Variant	2020-03-08 — 02:13:33 UTC	fishcat, null, shiitakethemush	386	5	25
+86140	3	0	No Variant	2020-03-08 — 00:55:21 UTC	fishcat, null, shiitakethemush	411	5	25
+86108	3	25	No Variant	2020-03-07 — 21:20:12 UTC	fishcat, null, pianoblook	344	5	25
+86092	3	0	No Variant	2020-03-07 — 20:14:38 UTC	fishcat, null, pianoblook	354	5	25
+86087	2	25	No Variant	2020-03-07 — 19:27:34 UTC	fishcat, null	1299	5	25
+86003	3	25	No Variant	2020-03-07 — 04:21:38 UTC	ADrone, fishcat, null	259	5	25
+85992	5	0	No Variant	2020-03-07 — 03:25:31 UTC	ADrone, fishcat, Huxley, null, pianoblook	1995	5	25
+85987	3	0	No Variant	2020-03-07 — 02:46:59 UTC	fishcat, Huxley, null	516	5	25
+85982	3	24	No Variant	2020-03-07 — 01:56:23 UTC	fishcat, Huxley, null	551	5	25
+85979	2	24	Pink (5 Suits)	2020-03-07 — 01:25:44 UTC	ADrone, fishcat	119	5	25
+85964	2	25	No Variant	2020-03-06 — 23:29:39 UTC	fishcat, null	1376	5	25
+85960	2	20	No Variant	2020-03-06 — 22:55:29 UTC	fishcat, null	1448	5	25
+85887	3	29	Black (6 Suits)	2020-03-06 — 06:25:07 UTC	ADrone, fishcat, pianoblook	399	6	30
+85808	4	25	No Variant	2020-03-06 — 04:44:17 UTC	ADrone, fishcat, null, pianoblook	336	5	25
+85680	2	0	No Variant	2020-03-06 — 03:37:34 UTC	fishcat, null	1532	5	25
+85679	2	25	No Variant	2020-03-06 — 03:36:12 UTC	fishcat, null	1621	5	25
+85666	2	0	No Variant	2020-03-06 — 03:06:03 UTC	fishcat, null	1703	5	25
+85369	2	25	No Variant	2020-03-05 — 14:57:36 UTC	fishcat, null	1840	5	25
+85239	2	23	No Variant	2020-03-05 — 02:52:05 UTC	fishcat, null	1952	5	25
+85169	2	19	No Variant	2020-03-05 — 01:13:35 UTC	fishcat, SethraLavode	4109	5	25
+84848	3	23	No Variant	2020-03-04 — 04:10:30 UTC	fishcat, letical, pianoblook	573	5	25
+84765	3	0	No Variant	2020-03-04 — 03:14:25 UTC	fishcat, pianoblook, SethraLavode	624	5	25
+84668	2	0	No Variant	2020-03-04 — 02:01:26 UTC	fishcat, SethraLavode	5374	5	25
+84602	3	25	Pink (5 Suits)	2020-03-03 — 06:32:31 UTC	ADrone, fishcat, pianoblook	75	5	25
+84573	3	0	Pink (5 Suits)	2020-03-03 — 05:10:54 UTC	ADrone, fishcat, pianoblook	108	5	25
+84566	3	25	No Variant	2020-03-03 — 04:36:59 UTC	ADrone, fishcat, pianoblook	269	5	25
+84285	4	25	No Variant	2020-02-29 — 05:41:14 UTC	ADrone, fishcat, Huxley, pianoblook	442	5	25
+84274	4	0	No Variant	2020-02-29 — 04:56:26 UTC	ADrone, fishcat, Huxley, pianoblook	473	5	25
+84265	3	0	No Variant	2020-02-29 — 04:22:51 UTC	ADrone, fishcat, pianoblook	275	5	25
+84259	3	0	No Variant	2020-02-29 — 03:50:30 UTC	ADrone, fishcat, pianoblook	285	5	25
+83410	3	30	Rainbow (6 Suits)	2020-02-26 — 04:37:40 UTC	ADrone, fishcat, pianoblook	508	6	30
+82756	3	0	No Variant	2020-02-23 — 19:54:23 UTC	ADrone, fishcat, pianoblook	307	5	25
+82753	4	24	No Variant	2020-02-23 — 18:55:53 UTC	ADrone, fishcat, Huxley, pianoblook	501	5	25
+82750	3	0	No Variant	2020-02-23 — 18:16:04 UTC	ADrone, fishcat, Huxley	320	5	25
+82746	3	25	No Variant	2020-02-23 — 17:53:16 UTC	ADrone, fishcat, Huxley	324	5	25
+82603	4	24	No Variant	2020-02-23 — 01:05:10 UTC	ADrone, fishcat, Huxley, pianoblook	541	5	25
+82601	4	0	No Variant	2020-02-23 — 00:27:29 UTC	ADrone, fishcat, Huxley, pianoblook	601	5	25
+82600	4	0	No Variant	2020-02-23 — 00:13:20 UTC	ADrone, fishcat, Huxley, pianoblook	655	5	25
+82599	4	0	No Variant	2020-02-23 — 00:03:44 UTC	ADrone, fishcat, Huxley, pianoblook	793	5	25
+82597	4	0	Rainbow (5 Suits)	2020-02-22 — 23:39:50 UTC	ADrone, fishcat, Huxley, pianoblook	68	5	25
+82594	4	0	Rainbow (5 Suits)	2020-02-22 — 23:00:14 UTC	ADrone, fishcat, Huxley, pianoblook	92	5	25
+82591	4	0	Rainbow (5 Suits)	2020-02-22 — 22:25:28 UTC	ADrone, fishcat, Huxley, pianoblook	130	5	25
+82329	4	25	No Variant	2020-02-22 — 06:30:35 UTC	ADrone, fishcat, Huxley, pianoblook	899	5	25
+82307	3	0	Rainbow (5 Suits)	2020-02-22 — 05:32:19 UTC	ADrone, fishcat, pianoblook	185	5	25
+82294	3	0	Brown (5 Suits)	2020-02-22 — 04:43:45 UTC	ADrone, fishcat, pianoblook	38	5	25
+82290	3	0	Brown (5 Suits)	2020-02-22 — 04:20:46 UTC	ADrone, fishcat, pianoblook	39	5	25
+82284	3	0	Brown (5 Suits)	2020-02-22 — 03:40:23 UTC	ADrone, fishcat, pianoblook	63	5	25
+82276	3	0	Brown (5 Suits)	2020-02-22 — 03:04:38 UTC	ADrone, fishcat, pianoblook	79	5	25
+81506	4	24	No Variant	2020-02-20 — 05:04:18 UTC	ADrone, fishcat, Huxley, pianoblook	985	5	25
+81465	4	0	White (6 Suits)	2020-02-20 — 04:32:31 UTC	ADrone, fishcat, Huxley, pianoblook	75	6	30
+80787	3	30	Brown (6 Suits)	2020-02-18 — 04:54:13 UTC	ADrone, fishcat, pianoblook	84	6	30
+80716	3	25	No Variant	2020-02-18 — 04:02:13 UTC	ADrone, fishcat, pianoblook	422	5	25
+80657	3	0	No Variant	2020-02-18 — 03:24:04 UTC	ADrone, fishcat, Huxley	451	5	25
+80633	3	0	No Variant	2020-02-18 — 03:09:31 UTC	ADrone, fishcat, Huxley	459	5	25
+80620	3	0	No Variant	2020-02-18 — 02:58:57 UTC	ADrone, fishcat, Huxley	485	5	25
+80610	2	0	White (6 Suits)	2020-02-18 — 02:27:02 UTC	ADrone, fishcat	184	6	30
+80608	2	25	No Variant	2020-02-18 — 02:06:47 UTC	ADrone, fishcat	2147	5	25
+80606	4	0	No Variant	2020-02-18 — 01:39:29 UTC	ADrone, Emmsley, fishcat, metaltailz	1092	5	25
+80602	4	0	No Variant	2020-02-18 — 01:20:41 UTC	ADrone, Emmsley, fishcat, metaltailz	1253	5	25
+80599	2	0	No Variant	2020-02-18 — 01:06:18 UTC	ADrone, fishcat	2288	5	25
+80596	2	0	No Variant	2020-02-18 — 00:57:14 UTC	ADrone, fishcat	3507	5	25
+80140	2	25	No Variant	2020-02-15 — 23:55:49 UTC	fishcat, pianoblook	2532	5	25
+80138	2	0	No Variant	2020-02-15 — 23:37:55 UTC	fishcat, pianoblook	2750	5	25
+80136	2	0	No Variant	2020-02-15 — 23:32:32 UTC	fishcat, pianoblook	3051	5	25
+79877	4	0	No Variant	2020-02-14 — 05:47:04 UTC	ADrone, fishcat, Huxley, pianoblook	1449	5	25
+79872	4	0	No Variant	2020-02-14 — 05:06:39 UTC	ADrone, fishcat, Huxley, pianoblook	1744	5	25
+79871	4	0	No Variant	2020-02-14 — 05:06:31 UTC	ADrone, fishcat, Huxley, pianoblook	2076	5	25
+79868	3	0	No Variant	2020-02-14 — 04:56:47 UTC	fishcat, Huxley, pianoblook	1017	5	25
+79867	3	0	No Variant	2020-02-14 — 04:55:10 UTC	ADrone, fishcat, Huxley	645	5	25
+79865	4	0	No Variant	2020-02-14 — 04:34:43 UTC	ADrone, fishcat, Huxley, pianoblook	2763	5	25
+79863	4	0	No Variant	2020-02-14 — 04:19:16 UTC	ADrone, fishcat, Huxley, pianoblook	3581	5	25
+79850	3	0	Rainbow (6 Suits)	2020-02-14 — 02:35:12 UTC	fishcat, Huxley, pianoblook	689	6	30
+79691	3	25	No Variant	2020-02-13 — 05:27:22 UTC	ADrone, fishcat, Huxley	680	5	25
+79688	3	0	No Variant	2020-02-13 — 04:49:33 UTC	ADrone, fishcat, Huxley	750	5	25
+79685	3	0	No Variant	2020-02-13 — 04:16:22 UTC	ADrone, fishcat, Huxley	801	5	25
+79468	3	25	No Variant	2020-02-12 — 06:30:03 UTC	ADrone, fishcat, pianoblook	840	5	25
+79465	3	0	6 Suits	2020-02-12 — 05:12:18 UTC	ADrone, fishcat, pianoblook	503	6	30
+78244	3	0	No Variant	2020-02-09 — 00:54:46 UTC	ADrone, fishcat, pianoblook	940	5	25
+78242	3	0	No Variant	2020-02-09 — 00:43:11 UTC	ADrone, fishcat, pianoblook	1095	5	25
+78239	3	0	No Variant	2020-02-08 — 23:37:20 UTC	ADrone, fishcat, pianoblook	1174	5	25
+78230	3	0	No Variant	2020-02-08 — 22:49:15 UTC	ADrone, fishcat, pianoblook	1291	5	25
+78221	3	0	No Variant	2020-02-08 — 21:55:53 UTC	ADrone, fishcat, pianoblook	1465	5	25
+77954	3	24	No Variant	2020-02-06 — 02:59:28 UTC	ADrone, fishcat, Huxley	1636	5	25
+77945	3	25	No Variant	2020-02-06 — 01:52:51 UTC	ADrone, fishcat, taps	1881	5	25
+77944	3	0	No Variant	2020-02-06 — 01:13:30 UTC	ADrone, fishcat, taps	2163	5	25
+77767	3	25	No Variant	2020-02-04 — 05:03:21 UTC	ADrone, fishcat, pianoblook	2606	5	25
+77763	3	0	No Variant	2020-02-04 — 04:13:01 UTC	ADrone, fishcat, pianoblook	3260	5	25
+77747	3	0	No Variant	2020-02-04 — 03:34:07 UTC	ADrone, fishcat, pianoblook	4221	5	25

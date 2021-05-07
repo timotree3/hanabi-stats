@@ -1,0 +1,906 @@
+492901	3	23	Dual-Color (5 Suits)	2021-04-07 — 05:02:05 UTC	Instantiation, Milldawg, swamplor	31	5	25
+485230	3	0	Rainbow (5 Suits)	2021-03-30 — 05:03:49 UTC	Instantiation, Milldawg, swamplor	116	5	25
+484139	4	23	Dual-Color (5 Suits)	2021-03-29 — 03:08:21 UTC	felllix, Hyphen-ated, Instantiation, swamplor	20	5	25
+484025	3	30	6 Suits	2021-03-29 — 01:06:24 UTC	felllix, Hyphen-ated, Instantiation	503	6	30
+483269	4	23	Rainbow (5 Suits)	2021-03-28 — 08:04:05 UTC	Chronometrics, Dragonah, Instantiation, Twinge	54	5	25
+482785	3	25	Dual-Color (5 Suits)	2021-03-27 — 23:44:59 UTC	Hyphen-ated, Instantiation, NumerateClutter	44	5	25
+482766	3	21	Dark Rainbow (5 Suits)	2021-03-27 — 23:12:59 UTC	Hyphen-ated, Instantiation, NumerateClutter	36	5	25
+475060	5	29	Muddy Rainbow (6 Suits)	2021-03-20 — 21:19:12 UTC	felllix, Hyphen-ated, Instantiation, NumerateClutter, swamplor	10	6	30
+473261	4	23	Dual-Color (5 Suits)	2021-03-19 — 03:57:06 UTC	felllix, Hyphen-ated, Instantiation, Milldawg	31	5	25
+465494	3	24	Prism (5 Suits)	2021-03-12 — 06:25:51 UTC	Instantiation, Milldawg, swamplor	80	5	25
+465423	5	0	Prism (5 Suits)	2021-03-12 — 05:15:58 UTC	felllix, Hyphen-ated, Instantiation, Milldawg, swamplor	20	5	25
+465371	4	0	Rainbow & Prism (5 Suits)	2021-03-12 — 04:32:30 UTC	Hyphen-ated, Instantiation, Milldawg, swamplor	16	5	25
+464316	3	25	Rainbow (5 Suits)	2021-03-11 — 04:05:48 UTC	Hyphen-ated, Instantiation, NumerateClutter	135	5	25
+461022	3	30	Rainbow (6 Suits)	2021-03-08 — 03:39:50 UTC	felllix, Hyphen-ated, Instantiation	5	6	30
+459987	4	25	Rainbow (5 Suits)	2021-03-07 — 09:46:30 UTC	Dragonah, Instantiation, squirleon, Twinge	63	5	25
+458511	3	30	Rainbow (6 Suits)	2021-03-06 — 04:31:30 UTC	Instantiation, NumerateClutter, swamplor	6	6	30
+457380	4	30	Rainbow (6 Suits)	2021-03-05 — 06:35:39 UTC	felllix, Hyphen-ated, Instantiation, Milldawg	4	6	30
+457313	4	0	Rainbow (6 Suits)	2021-03-05 — 05:27:23 UTC	felllix, Hyphen-ated, Instantiation, Milldawg	5	6	30
+452362	4	24	Rainbow (5 Suits)	2021-02-28 — 22:21:53 UTC	felllix, Hyphen-ated2, Instantiation, swamplor	92	5	25
+451446	3	25	White (5 Suits)	2021-02-28 — 02:31:22 UTC	felllix, Instantiation, swamplor	61	5	25
+451394	3	23	White (5 Suits)	2021-02-28 — 01:33:35 UTC	felllix, Instantiation, Milldawg	81	5	25
+449705	3	0	White (5 Suits)	2021-02-26 — 06:51:24 UTC	Hyphen-ated2, Instantiation, Milldawg	126	5	25
+446490	3	29	Rainbow (6 Suits)	2021-02-23 — 06:35:04 UTC	Hyphen-ated2, Instantiation, Milldawg	6	6	30
+445087	3	30	Rainbow (6 Suits)	2021-02-22 — 03:27:10 UTC	Hyphen-ated2, Instantiation, swamplor	7	6	30
+444784	3	0	Rainbow (6 Suits)	2021-02-21 — 22:37:18 UTC	Instantiation, Milldawg, swamplor	7	6	30
+444121	4	0	Rainbow (6 Suits)	2021-02-21 — 06:01:02 UTC	Instantiation, Milldawg, NumerateClutter, swamplor	5	6	30
+438616	3	30	Black (6 Suits)	2021-02-16 — 00:10:33 UTC	Instantiation, Milldawg, swamplor	213	6	30
+437656	3	0	Dual-Color & Rainbow (6 Suits)	2021-02-15 — 02:06:04 UTC	Hyphen-ated, Instantiation, Milldawg	24	6	30
+436529	3	30	Rainbow (6 Suits)	2021-02-14 — 05:44:35 UTC	Hyphen-ated, Instantiation, Milldawg	7	6	30
+436217	3	27	Black (6 Suits)	2021-02-14 — 01:10:51 UTC	Instantiation, Milldawg, swamplor	236	6	30
+436133	3	26	Black (6 Suits)	2021-02-13 — 23:36:10 UTC	Instantiation, Milldawg, swamplor	261	6	30
+433148	3	28	Rainbow (6 Suits)	2021-02-11 — 05:05:03 UTC	Hyphen-ated, Instantiation, Milldawg	7	6	30
+431859	3	24	No Variant	2021-02-10 — 04:07:13 UTC	Hyphen-ated, Instantiation, swamplor	206	5	25
+431803	3	0	No Variant	2021-02-10 — 03:21:58 UTC	Hyphen-ated, Instantiation, swamplor	213	5	25
+427540	3	15	Dual-Color (3 Suits)	2021-02-06 — 08:56:02 UTC	Dalek_Kahn, Dragonah, Instantiation	30	3	15
+427532	3	29	Dual-Color (6 Suits)	2021-02-06 — 08:01:19 UTC	Dalek_Kahn, Dragonah, Instantiation	14	6	30
+414432	3	20	Rainbow (4 Suits)	2021-01-25 — 06:16:43 UTC	Chronometrics, Instantiation, Twinge	68	4	20
+414411	3	0	Rainbow (4 Suits)	2021-01-25 — 05:31:34 UTC	Chronometrics, Instantiation, Twinge	84	4	20
+414374	3	25	Rainbow (5 Suits)	2021-01-25 — 04:56:49 UTC	Chronometrics, Instantiation, Twinge	185	5	25
+406806	3	28	Rainbow (6 Suits)	2021-01-18 — 00:10:56 UTC	Chronometrics, Instantiation, rocket	7	6	30
+406773	4	27	Rainbow (6 Suits)	2021-01-17 — 23:38:47 UTC	Chronometrics, Hyphen-ated, Instantiation, rocket	5	6	30
+399919	3	0	No Variant	2021-01-11 — 05:07:05 UTC	drayzed3412, Hyphen-ated, Instantiation	218	5	25
+399890	3	0	No Variant	2021-01-11 — 04:40:29 UTC	drayzed3412, Hyphen-ated, Instantiation	223	5	25
+399867	3	0	No Variant	2021-01-11 — 04:20:28 UTC	drayzed3412, Hyphen-ated, Instantiation	259	5	25
+393195	5	30	Pink (6 Suits)	2021-01-05 — 06:33:47 UTC	Chronometrics, Instantiation, speedfrog, ToastedZergling, Twinge	29	6	30
+389079	4	28	Rainbow & Prism (6 Suits)	2021-01-01 — 08:20:53 UTC	chthonicone, Instantiation, Twinge, zztraider	16	6	30
+388985	6	19	4 Suits	2021-01-01 — 06:59:11 UTC	chthonicone, Instantiation, Slugmercenary, speedfrog, Twinge, zztraider	17	4	20
+381496	4	29	Rainbow (6 Suits)	2020-12-25 — 05:25:21 UTC	chthonicone, Instantiation, Twinge, zztraider	3	6	30
+379751	4	27	Rainbow (6 Suits)	2020-12-23 — 09:05:50 UTC	Dragonah, Instantiation, Kirisu, speedfrog	5	6	30
+379720	3	29	Rainbow (6 Suits)	2020-12-23 — 08:12:00 UTC	Dragonah, Instantiation, speedfrog	8	6	30
+379677	3	25	No Variant	2020-12-23 — 07:19:27 UTC	Dragonah, Instantiation, speedfrog	269	5	25
+379657	3	21	No Variant	2020-12-23 — 06:49:32 UTC	Dragonah, Instantiation, speedfrog	275	5	25
+374556	4	30	Rainbow (6 Suits)	2020-12-18 — 06:31:34 UTC	Chronometrics, Instantiation, rocket, Slugmercenary	5	6	30
+372644	3	0	Rainbow (6 Suits)	2020-12-16 — 07:27:55 UTC	Hyphen-ated, Instantiation, Yaodema	8	6	30
+372616	5	28	Rainbow (6 Suits)	2020-12-16 — 06:24:29 UTC	chthonicone, Hyphen-ated, Instantiation, speedfrog, Yaodema	17	6	30
+372583	5	0	Rainbow (6 Suits)	2020-12-16 — 05:26:55 UTC	chthonicone, Hyphen-ated, Instantiation, speedfrog, Yaodema	18	6	30
+368643	4	30	Rainbow (6 Suits)	2020-12-12 — 06:21:40 UTC	Chronometrics, Instantiation, rocket, Twinge	5	6	30
+368570	3	0	Rainbow (6 Suits)	2020-12-12 — 05:22:18 UTC	Chronometrics, Instantiation, rocket	7	6	30
+362252	3	30	Rainbow (6 Suits)	2020-12-06 — 06:49:28 UTC	Instantiation, JustSparky, speedfrog	8	6	30
+362199	3	30	Rainbow (6 Suits)	2020-12-06 — 05:38:28 UTC	Instantiation, speedfrog, Yaodema	7	6	30
+358058	4	29	Rainbow (6 Suits)	2020-12-01 — 04:44:40 UTC	Chronometrics, Instantiation, rocket, speedfrog	5	6	30
+358036	4	25	Rainbow (6 Suits)	2020-12-01 — 04:03:50 UTC	Chronometrics, Instantiation, rocket, speedfrog	7	6	30
+353409	4	29	Rainbow (6 Suits)	2020-11-25 — 08:25:52 UTC	Chronometrics, Instantiation, speedfrog, zztraider	7	6	30
+353401	4	0	Rainbow (6 Suits)	2020-11-25 — 07:13:16 UTC	Chronometrics, Instantiation, rocket, speedfrog	8	6	30
+353390	4	30	Rainbow (6 Suits)	2020-11-25 — 06:25:30 UTC	Chronometrics, Instantiation, rocket, speedfrog	6	6	30
+350661	4	28	Rainbow (6 Suits)	2020-11-22 — 09:18:04 UTC	Dragonah, Instantiation, Slugmercenary, speedfrog	6	6	30
+350637	4	28	Rainbow (6 Suits)	2020-11-22 — 07:55:32 UTC	Instantiation, Slugmercenary, speedfrog, Yaodema	7	6	30
+346953	4	30	Rainbow (6 Suits)	2020-11-18 — 05:59:23 UTC	Chronometrics, Instantiation, Slugmercenary, zztraider	7	6	30
+344112	4	23	No Variant	2020-11-15 — 10:55:02 UTC	chthonicone, Instantiation, tysathem, zztraider	95	5	25
+344097	4	0	No Variant	2020-11-15 — 09:49:26 UTC	chthonicone, Instantiation, tysathem, zztraider	95	5	25
+343984	6	30	Rainbow (6 Suits)	2020-11-15 — 06:03:45 UTC	chthonicone, Dragonah, Instantiation, Pyronaut, Twinge, zztraider	60	6	30
+343245	4	30	Rainbow (6 Suits)	2020-11-14 — 10:26:59 UTC	Dragonah, Instantiation, Yaodema, zztraider	7	6	30
+343222	5	0	Rainbow (6 Suits)	2020-11-14 — 08:55:06 UTC	Dragonah, Instantiation, speedfrog, Yaodema, zztraider	20	6	30
+343200	4	0	Rainbow (6 Suits)	2020-11-14 — 07:47:44 UTC	Dragonah, Instantiation, speedfrog, Yaodema	7	6	30
+342206	5	0	Rainbow (6 Suits)	2020-11-13 — 07:35:20 UTC	Chronometrics, Instantiation, Karisa, rocket, zztraider	20	6	30
+342195	4	27	Rainbow (6 Suits)	2020-11-13 — 07:11:15 UTC	Chronometrics, Instantiation, rocket, zztraider	6	6	30
+342187	3	0	Rainbow (6 Suits)	2020-11-13 — 06:34:04 UTC	Chronometrics, Instantiation, zztraider	7	6	30
+338695	5	30	Rainbow (6 Suits)	2020-11-08 — 22:47:43 UTC	Chronometrics, Instantiation, rocket, TomV, zztraider	21	6	30
+337930	4	22	No Variant	2020-11-08 — 00:39:28 UTC	Instantiation, Pyronaut, Yaodema, zztraider	99	5	25
+337898	5	29	Rainbow (6 Suits)	2020-11-07 — 23:49:03 UTC	Chronometrics, Instantiation, Pyronaut, rocket, zztraider	22	6	30
+337818	3	0	Rainbow (6 Suits)	2020-11-07 — 22:43:46 UTC	Chronometrics, Instantiation, zztraider	7	6	30
+336774	4	21	No Variant	2020-11-06 — 08:12:44 UTC	Dragonah, Instantiation, Twinge, Yaodema	97	5	25
+335132	4	30	Rainbow (6 Suits)	2020-11-04 — 06:06:37 UTC	incnone, Instantiation, Pyronaut, zztraider	6	6	30
+335098	4	0	Rainbow (6 Suits)	2020-11-04 — 05:21:07 UTC	incnone, Instantiation, Pyronaut, zztraider	7	6	30
+333635	4	30	Rainbow (6 Suits)	2020-11-02 — 07:02:02 UTC	chthonicone, Instantiation, Pyronaut, zztraider	7	6	30
+333607	4	0	Rainbow (6 Suits)	2020-11-02 — 06:00:12 UTC	chthonicone, Instantiation, Pyronaut, zztraider	7	6	30
+333588	4	27	Rainbow (6 Suits)	2020-11-02 — 05:33:13 UTC	chthonicone, Instantiation, Pyronaut, zztraider	7	6	30
+333562	4	0	Rainbow (6 Suits)	2020-11-02 — 04:51:05 UTC	chthonicone, Instantiation, Pyronaut, zztraider	7	6	30
+333501	4	0	Rainbow (6 Suits)	2020-11-02 — 04:15:36 UTC	chthonicone, Instantiation, Pyronaut, zztraider	7	6	30
+333372	4	25	No Variant	2020-11-02 — 03:32:08 UTC	chthonicone, Instantiation, Pyronaut, zztraider	103	5	25
+333292	3	25	No Variant	2020-11-02 — 02:58:01 UTC	Instantiation, Pyronaut, zztraider	285	5	25
+333239	3	24	No Variant	2020-11-02 — 02:20:52 UTC	Instantiation, Pyronaut, zztraider	324	5	25
+332666	3	25	No Variant	2020-11-01 — 07:33:05 UTC	Drayzed, Hyphen-ated, Instantiation	344	5	25
+332655	3	0	No Variant	2020-11-01 — 06:51:56 UTC	Drayzed, Hyphen-ated, Instantiation	354	5	25
+332645	3	0	No Variant	2020-11-01 — 06:24:10 UTC	Drayzed, Hyphen-ated, Instantiation	375	5	25
+332629	3	22	No Variant	2020-11-01 — 05:57:56 UTC	Drayzed, Hyphen-ated, Instantiation	386	5	25
+332619	3	0	No Variant	2020-11-01 — 05:40:31 UTC	Drayzed, Hyphen-ated, Instantiation	411	5	25
+332611	3	0	No Variant	2020-11-01 — 05:29:06 UTC	Drayzed, Hyphen-ated, Instantiation	422	5	25
+332535	3	24	No Variant	2020-11-01 — 03:08:21 UTC	Instantiation, Pyronaut, zztraider	451	5	25
+332518	3	25	No Variant	2020-11-01 — 02:23:31 UTC	Instantiation, Pyronaut, zztraider	485	5	25
+332489	3	21	No Variant	2020-11-01 — 01:37:21 UTC	Instantiation, Pyronaut, zztraider	516	5	25
+331950	3	0	Rainbow (6 Suits)	2020-10-31 — 08:24:05 UTC	Chronometrics, Instantiation, zztraider	7	6	30
+331928	4	0	No Variant	2020-10-31 — 07:27:20 UTC	Chronometrics, Instantiation, JustSparky, zztraider	116	5	25
+331900	3	24	No Variant	2020-10-31 — 06:40:35 UTC	Instantiation, JustSparky, zztraider	624	5	25
+326270	4	0	Rainbow (6 Suits)	2020-10-23 — 04:42:55 UTC	Instantiation, speedfrog, Twinge, zztraider	7	6	30
+324986	3	25	Rainbow (6 Suits)	2020-10-21 — 06:54:35 UTC	Instantiation, Twinge, zztraider	7	6	30
+324977	3	0	Rainbow (6 Suits)	2020-10-21 — 06:07:58 UTC	Instantiation, Twinge, zztraider	7	6	30
+324945	4	26	Rainbow (6 Suits)	2020-10-21 — 04:56:23 UTC	Chronometrics, Instantiation, rocket, zztraider	7	6	30
+324918	3	0	Rainbow (6 Suits)	2020-10-21 — 04:03:15 UTC	Chronometrics, Instantiation, rocket	7	6	30
+322855	5	0	Rainbow (6 Suits)	2020-10-18 — 09:28:19 UTC	Chronometrics, Instantiation, rocket, Twinge, zztraider	21	6	30
+320811	4	0	Rainbow (6 Suits)	2020-10-15 — 08:56:32 UTC	chthonicone, incnone, Instantiation, Twinge	8	6	30
+320801	4	30	Prism (6 Suits)	2020-10-15 — 07:17:09 UTC	Instantiation, Twinge, TwingeBot, zztraider	53	6	30
+317952	4	30	Dual-Color (6 Suits)	2020-10-11 — 06:03:15 UTC	Instantiation, Tricky, Twinge, zztraider	24	6	30
+317216	3	0	Rainbow (6 Suits)	2020-10-10 — 07:36:25 UTC	Chronometrics, Instantiation, zztraider	7	6	30
+317207	3	0	Rainbow (6 Suits)	2020-10-10 — 07:02:47 UTC	Chronometrics, Instantiation, zztraider	7	6	30
+314107	4	30	Rainbow (6 Suits)	2020-10-06 — 05:33:25 UTC	Chronometrics, Instantiation, rocket, zztraider	8	6	30
+313190	3	25	No Variant	2020-10-05 — 02:17:03 UTC	Chronometrics, Instantiation, speedfrog	750	5	25
+313146	3	0	No Variant	2020-10-05 — 01:31:58 UTC	Chronometrics, Instantiation, speedfrog	1017	5	25
+313117	4	0	Rainbow (6 Suits)	2020-10-05 — 00:58:09 UTC	Chronometrics, Instantiation, rocket, Twinge	8	6	30
+312392	4	28	Rainbow (6 Suits)	2020-10-04 — 01:24:11 UTC	Chronometrics, Instantiation, rocket, zztraider	8	6	30
+312331	4	28	Rainbow (6 Suits)	2020-10-04 — 00:13:18 UTC	Chronometrics, Instantiation, rocket, zztraider	7	6	30
+311761	3	30	Rainbow (6 Suits)	2020-10-03 — 08:26:13 UTC	incnone, Instantiation, zztraider	7	6	30
+311746	3	29	Rainbow (6 Suits)	2020-10-03 — 07:28:56 UTC	incnone, Instantiation, zztraider	6	6	30
+311724	3	0	Rainbow (6 Suits)	2020-10-03 — 06:40:04 UTC	incnone, Instantiation, zztraider	7	6	30
+310387	4	26	Rainbow (6 Suits)	2020-10-01 — 07:43:32 UTC	Chronometrics, chthonicone, Instantiation, Slugmercenary	9	6	30
+310356	4	25	No Variant	2020-10-01 — 06:37:43 UTC	chthonicone, Instantiation, Slugmercenary, zztraider	117	5	25
+305923	4	24	No Variant	2020-09-25 — 05:53:12 UTC	chthonicone, Instantiation, katgamingftw, Twinge	129	5	25
+284572	4	29	Rainbow (6 Suits)	2020-08-30 — 06:36:37 UTC	Chronometrics, Instantiation, Karisa, rocket	8	6	30
+278292	5	24	No Variant	2020-08-23 — 08:01:09 UTC	Chronometrics, chthonicone, Instantiation, rocket, TwingeBot	1119	5	25
+198371	3	25	Rainbow (6 Suits)	2020-06-07 — 22:40:20 UTC	Instantiation, rs1, scharkbite	7	6	30
+198280	6	0	Rainbow (6 Suits)	2020-06-07 — 21:15:18 UTC	Darth_Calculus, Instantiation, postmans, qwertyelmer, rs1, scharkbite	9	6	30
+187677	3	30	Rainbow (6 Suits)	2020-05-30 — 07:41:32 UTC	Chronometrics, Instantiation, Karisa	7	6	30
+187596	3	30	Rainbow (6 Suits)	2020-05-30 — 06:54:18 UTC	Chronometrics, Instantiation, rocket	7	6	30
+171589	4	30	Rainbow (6 Suits)	2020-05-18 — 07:19:47 UTC	Chronometrics, Instantiation, rocket, Twinge	8	6	30
+171561	4	0	Rainbow (6 Suits)	2020-05-18 — 06:45:08 UTC	Chronometrics, Instantiation, rocket, Twinge	8	6	30
+171464	4	0	Rainbow (6 Suits)	2020-05-18 — 05:14:46 UTC	Chronometrics, Instantiation, rocket, Twinge	10	6	30
+171441	3	0	Rainbow (6 Suits)	2020-05-18 — 04:57:07 UTC	Chronometrics, Instantiation, rocket	6	6	30
+165471	4	30	Rainbow (6 Suits)	2020-05-14 — 07:12:53 UTC	Chronometrics, Instantiation, rocket, Twinge	10	6	30
+165397	4	0	Rainbow (6 Suits)	2020-05-14 — 06:15:51 UTC	Chronometrics, Instantiation, rocket, Twinge	7	6	30
+152631	3	28	Rainbow (6 Suits)	2020-05-05 — 03:54:49 UTC	Chronometrics, Instantiation, rocket	7	6	30
+152563	3	30	Rainbow (6 Suits)	2020-05-05 — 03:08:26 UTC	Chronometrics, Instantiation, rocket	7	6	30
+149861	3	24	White (5 Suits)	2020-05-03 — 07:15:43 UTC	Instantiation, piper, TimeHoodie	48	5	25
+137409	3	28	Rainbow (6 Suits)	2020-04-25 — 07:20:23 UTC	Chronometrics, Instantiation, rocket	7	6	30
+137366	3	30	Rainbow (6 Suits)	2020-04-25 — 06:34:34 UTC	Chronometrics, Instantiation, rocket	8	6	30
+137300	3	0	Rainbow (6 Suits)	2020-04-25 — 05:46:42 UTC	Chronometrics, Instantiation, rocket	9	6	30
+122795	3	27	Rainbow (6 Suits)	2020-04-15 — 06:54:18 UTC	Chronometrics, Instantiation, rocket	8	6	30
+122763	3	28	Rainbow (6 Suits)	2020-04-15 — 06:11:28 UTC	Chronometrics, Instantiation, rocket	9	6	30
+109825	4	30	Rainbow (6 Suits)	2020-04-05 — 06:36:19 UTC	Chronometrics, Instantiation, Karisa, rocket	38	6	30
+109772	3	0	Rainbow (6 Suits)	2020-04-05 — 05:35:19 UTC	Chronometrics, Instantiation, rocket	9	6	30
+106819	3	28	Rainbow (6 Suits)	2020-04-03 — 05:32:33 UTC	Chronometrics, Instantiation, rocket	9	6	30
+106788	3	0	Rainbow (6 Suits)	2020-04-03 — 04:41:16 UTC	Chronometrics, Instantiation, rocket	9	6	30
+97601	3	30	Rainbow (6 Suits)	2020-03-26 — 05:49:54 UTC	Chronometrics, Instantiation, rocket	13	6	30
+97541	4	0	No Variant	2020-03-26 — 04:51:37 UTC	Chronometrics, Instantiation, Jamie Hargrove, rocket	131	5	25
+95884	4	30	Rainbow (6 Suits)	2020-03-24 — 06:20:55 UTC	Chronometrics, Instantiation, Karisa, rocket	9	6	30
+95818	4	0	Rainbow (5 Suits)	2020-03-24 — 04:53:03 UTC	Chronometrics, Instantiation, Karisa, rocket	130	5	25
+86317	4	25	No Variant	2020-03-09 — 05:35:16 UTC	Chronometrics, Instantiation, jamiehargrove, rocket	149	5	25
+86311	4	22	No Variant	2020-03-09 — 04:59:54 UTC	Chronometrics, Instantiation, jamiehargrove, rocket	156	5	25
+86303	4	0	No Variant	2020-03-09 — 04:19:39 UTC	Chronometrics, Instantiation, jamiehargrove, rocket	158	5	25
+86302	4	0	No Variant	2020-03-09 — 04:19:07 UTC	Chronometrics, Instantiation, jamiehargrove, rocket	167	5	25
+86235	4	0	No Variant	2020-03-09 — 03:30:11 UTC	Chronometrics, Instantiation, jamiehargrove, rocket	204	5	25
+85361	4	0	No Variant	2020-03-05 — 10:34:26 UTC	Chronometrics, honnza, incnone, Instantiation	233	5	25
+85360	4	0	No Variant	2020-03-05 — 10:26:30 UTC	Chronometrics, honnza, incnone, Instantiation	243	5	25
+85359	3	0	No Variant	2020-03-05 — 10:13:38 UTC	Chronometrics, incnone, Instantiation	1465	5	25
+85354	4	23	No Variant	2020-03-05 — 07:33:07 UTC	Chthon, incnone, Instantiation, Twinge	257	5	25
+75509	4	21	No Variant	2020-01-17 — 10:35:08 UTC	Instantiation, progamingwithed, thatnumbersguy_, Twinge	326	5	25
+59764	4	24	No Variant	2019-10-20 — 01:43:40 UTC	Instantiation, kopen, Libster, Zy	8	5	25
+59763	4	0	No Variant	2019-10-20 — 01:18:32 UTC	Instantiation, kopen, Libster, Zy	9	5	25
+59760	4	24	No Variant	2019-10-20 — 00:58:22 UTC	Instantiation, kopen, Libster, Zy	7	5	25
+59757	4	0	No Variant	2019-10-20 — 00:40:52 UTC	Instantiation, kopen, Libster, Zy	9	5	25
+59755	4	25	No Variant	2019-10-20 — 00:23:22 UTC	Instantiation, jeep, kopen, Zy	384	5	25
+59754	3	24	No Variant	2019-10-20 — 00:02:34 UTC	Instantiation, jeep, kopen	551	5	25
+59753	3	0	No Variant	2019-10-19 — 23:53:24 UTC	Instantiation, jeep, kopen	573	5	25
+59752	3	22	No Variant	2019-10-19 — 23:46:03 UTC	Instantiation, jeep, kopen	801	5	25
+52968	4	30	Black (6 Suits)	2019-09-02 — 21:26:19 UTC	Instantiation, invarse, Livia, Valetta6789	55	6	30
+52942	4	0	Black (6 Suits)	2019-09-02 — 20:51:39 UTC	Instantiation, invarse, Livia, Valetta6789	57	6	30
+52938	4	0	Black (6 Suits)	2019-09-02 — 20:36:33 UTC	Instantiation, invarse, Livia, Valetta6789	62	6	30
+52934	5	0	Black (6 Suits)	2019-09-02 — 20:09:55 UTC	Instantiation, invarse, Kyle, Livia, Valetta6789	36	6	30
+52446	3	0	Rainbow (4 Suits)	2019-08-30 — 06:45:20 UTC	Dr_Kakashi, Instantiation, RaKXeR	5	4	20
+52443	3	0	Rainbow (4 Suits)	2019-08-30 — 06:29:11 UTC	Dr_Kakashi, Instantiation, RaKXeR	5	4	20
+52441	3	0	Rainbow (4 Suits)	2019-08-30 — 06:22:32 UTC	Dr_Kakashi, Instantiation, RaKXeR	5	4	20
+52440	3	0	Rainbow (4 Suits)	2019-08-30 — 06:13:08 UTC	Dr_Kakashi, Instantiation, RaKXeR	6	4	20
+52437	3	0	3 Suits	2019-08-30 — 05:58:03 UTC	Dr_Kakashi, Instantiation, RaKXeR	7	3	15
+52433	3	24	Black (5 Suits)	2019-08-30 — 05:25:33 UTC	Dr_Kakashi, Instantiation, RaKXeR	10	5	25
+50051	3	15	Pink (3 Suits)	2019-08-12 — 01:51:44 UTC	Instantiation, Libster, Razvogor	3	3	15
+50049	3	0	Pink (3 Suits)	2019-08-12 — 01:33:47 UTC	Instantiation, Libster, Razvogor	3	3	15
+39544	4	25	No Variant	2019-05-27 — 02:18:52 UTC	Ahming, florrat2, Instantiation, Libster	16	5	25
+39542	4	0	No Variant	2019-05-27 — 01:59:02 UTC	Ahming, florrat2, Instantiation, Libster	16	5	25
+39537	3	24	No Variant	2019-05-27 — 01:44:22 UTC	florrat2, Instantiation, Libster	6	5	25
+39530	3	0	No Variant	2019-05-27 — 01:22:23 UTC	florrat2, Instantiation, Libster	6	5	25
+16933	5	25	No Variant	2019-01-07 — 07:05:10 UTC	cak199164, grayfox, Hunter, Instantiation, qqqq	383	5	25
+16929	3	25	No Variant	2019-01-07 — 06:26:35 UTC	grayfox, Hunter, Instantiation	459	5	25
+16902	3	0	Dark Rainbow (5 Suits)	2019-01-07 — 01:35:22 UTC	Asddsa76, Instantiation, scharkbite	48	5	25
+16898	3	0	Dark Rainbow (5 Suits)	2019-01-07 — 01:16:28 UTC	Asddsa76, Instantiation, scharkbite	52	5	25
+16894	3	12	Rainbow (3 Suits)	2019-01-07 — 01:02:47 UTC	Asddsa76, Instantiation, scharkbite	16	3	15
+16892	5	0	Rainbow (5 Suits)	2019-01-07 — 00:23:05 UTC	Andrew_UK, Hunter, Instantiation, Razgovor, scharkbite	34	5	25
+16891	4	20	Rainbow (4 Suits)	2019-01-06 — 23:54:56 UTC	Andrew_UK, Instantiation, Razgovor, scharkbite	19	4	20
+16890	5	16	Rainbow (4 Suits)	2019-01-06 — 23:26:28 UTC	Andrew_UK, Asddsa76, Instantiation, Razgovor, scharkbite	10	4	20
+16887	5	18	Rainbow (4 Suits)	2019-01-06 — 22:36:17 UTC	Asddsa76, Instantiation, Libster, Razgovor, scharkbite	11	4	20
+16885	5	0	Rainbow (4 Suits)	2019-01-06 — 22:14:39 UTC	Asddsa76, Instantiation, Libster, Razgovor, scharkbite	16	4	20
+16881	5	0	Rainbow (4 Suits)	2019-01-06 — 21:51:46 UTC	Asddsa76, Instantiation, Libster, Razgovor, scharkbite	20	4	20
+15900	3	0	No Variant	2018-12-29 — 08:24:52 UTC	Andrey Khesin, Instantiation, Zamiel	7	5	25
+15898	3	0	No Variant	2018-12-29 — 08:15:04 UTC	Andrey Khesin, Instantiation, Zamiel	7	5	25
+15897	3	0	No Variant	2018-12-29 — 08:11:13 UTC	Andrey Khesin, Instantiation, Zamiel	7	5	25
+15896	3	23	No Variant	2018-12-29 — 08:04:03 UTC	Andrey Khesin, Instantiation, Zamiel	7	5	25
+15894	3	0	No Variant	2018-12-29 — 07:55:57 UTC	Andrey Khesin, Instantiation, Zamiel	7	5	25
+15893	3	0	No Variant	2018-12-29 — 07:44:47 UTC	Andrey Khesin, Instantiation, Zamiel	7	5	25
+15892	3	0	No Variant	2018-12-29 — 07:32:31 UTC	Andrey Khesin, Instantiation, Zamiel	7	5	25
+15891	3	0	No Variant	2018-12-29 — 07:29:16 UTC	Andrey Khesin, Instantiation, Zamiel	7	5	25
+15890	3	0	No Variant	2018-12-29 — 07:28:44 UTC	Andrey Khesin, Instantiation, Zamiel	7	5	25
+15887	3	22	No Variant	2018-12-29 — 07:20:43 UTC	Andrey Khesin, Instantiation, Zamiel	7	5	25
+15886	3	0	No Variant	2018-12-29 — 07:15:06 UTC	Andrey Khesin, Instantiation, Zamiel	7	5	25
+15885	3	0	No Variant	2018-12-29 — 07:11:21 UTC	Andrey Khesin, Instantiation, Zamiel	7	5	25
+15884	3	0	No Variant	2018-12-29 — 07:08:35 UTC	Andrey Khesin, Instantiation, Zamiel	6	5	25
+15882	3	0	No Variant	2018-12-29 — 07:02:20 UTC	Andrey Khesin, Instantiation, Zamiel	7	5	25
+15880	3	25	No Variant	2018-12-29 — 06:46:53 UTC	Andrey Khesin, Instantiation, Zamiel	7	5	25
+15879	3	0	No Variant	2018-12-29 — 06:39:21 UTC	Andrey Khesin, Instantiation, Zamiel	7	5	25
+15878	3	0	No Variant	2018-12-29 — 06:36:18 UTC	Andrey Khesin, Instantiation, Zamiel	7	5	25
+15876	3	0	No Variant	2018-12-29 — 06:25:31 UTC	Andrey Khesin, Instantiation, Zamiel	7	5	25
+15872	3	21	No Variant	2018-12-29 — 06:13:21 UTC	Andrey Khesin, Instantiation, Zamiel	7	5	25
+15870	3	0	No Variant	2018-12-29 — 06:01:36 UTC	Andrey Khesin, Instantiation, Zamiel	7	5	25
+15867	3	25	No Variant	2018-12-29 — 05:52:49 UTC	Andrey Khesin, Instantiation, Zamiel	7	5	25
+15866	3	0	No Variant	2018-12-29 — 05:47:10 UTC	Andrey Khesin, Instantiation, Zamiel	7	5	25
+15864	3	0	No Variant	2018-12-29 — 05:45:16 UTC	Andrey Khesin, Instantiation, Zamiel	7	5	25
+15802	3	29	Rainbow (6 Suits)	2018-12-28 — 09:58:20 UTC	Andrey Khesin, cak199164, Instantiation	13	6	30
+15799	4	28	Dark Rainbow (6 Suits)	2018-12-28 — 09:13:34 UTC	Andrey Khesin, cak199164, Instantiation, Libster	32	6	30
+14592	4	0	Black & Dark Rainbow (6 Suits)	2018-12-08 — 07:10:29 UTC	Asddsa76, florrat2, Instantiation, Zamiel	1	6	30
+14591	4	0	Black & Dark Rainbow (6 Suits)	2018-12-08 — 06:57:50 UTC	Asddsa76, florrat2, Instantiation, Zamiel	1	6	30
+14590	4	0	Black & Dark Rainbow (6 Suits)	2018-12-08 — 06:40:21 UTC	Asddsa76, florrat2, Instantiation, Zamiel	1	6	30
+14589	3	0	Black & Dark Rainbow (6 Suits)	2018-12-08 — 06:23:12 UTC	florrat2, Instantiation, Zamiel	1	6	30
+14245	3	0	Rainbow (6 Suits)	2018-12-03 — 04:48:47 UTC	Instantiation, Libster, scharkbite	6	6	30
+14239	3	24	No Variant	2018-12-03 — 00:21:28 UTC	Instantiation, Libster, scharkbite	307	5	25
+14238	3	24	No Variant	2018-12-03 — 00:02:06 UTC	Instantiation, Libster, scharkbite	320	5	25
+14237	4	0	No Variant	2018-12-02 — 23:44:03 UTC	Instantiation, Libster, RaKXeR, scharkbite	36	5	25
+14236	4	0	No Variant	2018-12-02 — 23:31:54 UTC	Instantiation, Libster, RaKXeR, scharkbite	39	5	25
+14233	4	30	Dark Rainbow (6 Suits)	2018-12-02 — 22:47:12 UTC	Asddsa76, Instantiation, RaKXeR, scharkbite	25	6	30
+13685	3	30	Rainbow (6 Suits)	2018-11-22 — 07:57:48 UTC	Instantiation, jeep, qqqq	9	6	30
+13682	3	0	Rainbow (6 Suits)	2018-11-22 — 07:15:27 UTC	Instantiation, jeep, qqqq	9	6	30
+13679	3	0	Rainbow (6 Suits)	2018-11-22 — 06:46:09 UTC	Instantiation, jeep, qqqq	8	6	30
+13676	3	0	Rainbow (6 Suits)	2018-11-22 — 06:24:50 UTC	Instantiation, jeep, qqqq	9	6	30
+13671	3	0	Rainbow (6 Suits)	2018-11-22 — 06:05:44 UTC	Instantiation, jeep, qqqq	9	6	30
+13310	4	23	No Variant	2018-11-15 — 02:56:34 UTC	Asddsa76, florrat2, Instantiation, NoMercy	70	5	25
+13309	4	0	No Variant	2018-11-15 — 02:21:44 UTC	Asddsa76, florrat2, Instantiation, NoMercy	213	5	25
+13173	5	0	Black & Dark Rainbow (6 Suits)	2018-11-12 — 01:56:00 UTC	Cory, florrat2, garbo late game, Instantiation, Zamiel	1	6	30
+13172	5	0	Black & Dark Rainbow (6 Suits)	2018-11-12 — 01:51:53 UTC	Cory, florrat2, garbo late game, Instantiation, Zamiel	1	6	30
+12958	5	0	Black & Dark Rainbow (6 Suits)	2018-11-09 — 04:58:42 UTC	florrat2, garbo late game, Instantiation, scharkbite, Zamiel	1	6	30
+12957	5	0	Black & Dark Rainbow (6 Suits)	2018-11-09 — 04:51:30 UTC	florrat2, garbo late game, Instantiation, scharkbite, Zamiel	1	6	30
+12875	5	0	Black & Dark Rainbow (6 Suits)	2018-11-08 — 02:47:59 UTC	910dan, florrat2, Instantiation, Libster, scharkbite	1	6	30
+12874	5	0	Black & Dark Rainbow (6 Suits)	2018-11-08 — 02:33:40 UTC	910dan, florrat2, garbo late game, Instantiation, scharkbite	1	6	30
+12873	5	0	Black & Dark Rainbow (6 Suits)	2018-11-08 — 02:16:21 UTC	910dan, florrat2, garbo late game, Instantiation, scharkbite	2	6	30
+12872	5	0	Black & Dark Rainbow (6 Suits)	2018-11-08 — 02:10:18 UTC	910dan, florrat2, garbo late game, Instantiation, scharkbite	2	6	30
+12871	5	0	Black & Dark Rainbow (6 Suits)	2018-11-08 — 02:01:26 UTC	910dan, florrat2, garbo late game, Instantiation, scharkbite	1	6	30
+12804	5	28	Black & Dark Rainbow (6 Suits)	2018-11-06 — 04:48:14 UTC	florrat2, Instantiation, Libster, sankala, Zamiel	1	6	30
+12798	5	0	Black & Dark Rainbow (6 Suits)	2018-11-06 — 04:14:31 UTC	florrat2, Instantiation, Libster, sankala, Zamiel	1	6	30
+12687	3	0	No Variant	2018-11-04 — 02:26:40 UTC	Instantiation, sankala, Zamiel	13	5	25
+12686	3	0	No Variant	2018-11-04 — 02:22:19 UTC	Instantiation, sankala, Zamiel	13	5	25
+12684	3	0	No Variant	2018-11-04 — 02:18:04 UTC	Instantiation, sankala, Zamiel	13	5	25
+12683	4	0	No Variant	2018-11-04 — 02:14:13 UTC	florrat2, Instantiation, sankala, Zamiel	7	5	25
+12682	4	0	No Variant	2018-11-04 — 02:10:26 UTC	florrat2, Instantiation, sankala, Zamiel	8	5	25
+12681	4	0	No Variant	2018-11-04 — 02:08:09 UTC	florrat2, Instantiation, sankala, Zamiel	8	5	25
+12680	4	0	No Variant	2018-11-04 — 02:03:48 UTC	florrat2, Instantiation, sankala, Zamiel	8	5	25
+12679	4	0	No Variant	2018-11-04 — 01:56:57 UTC	florrat2, Instantiation, sankala, Zamiel	7	5	25
+12678	4	0	No Variant	2018-11-04 — 01:52:27 UTC	florrat2, Instantiation, sankala, Zamiel	8	5	25
+12677	4	0	No Variant	2018-11-04 — 01:49:11 UTC	florrat2, Instantiation, sankala, Zamiel	8	5	25
+12676	4	0	No Variant	2018-11-04 — 01:47:39 UTC	florrat2, Instantiation, sankala, Zamiel	8	5	25
+12675	4	0	No Variant	2018-11-04 — 01:46:47 UTC	florrat2, Instantiation, sankala, Zamiel	8	5	25
+12674	4	0	No Variant	2018-11-04 — 01:42:07 UTC	florrat2, Instantiation, sankala, Zamiel	9	5	25
+12673	4	0	No Variant	2018-11-04 — 01:37:50 UTC	florrat2, Instantiation, sankala, Zamiel	9	5	25
+12672	4	0	No Variant	2018-11-04 — 01:35:07 UTC	florrat2, Instantiation, sankala, Zamiel	9	5	25
+12671	4	0	No Variant	2018-11-04 — 01:33:36 UTC	florrat2, Instantiation, sankala, Zamiel	8	5	25
+12670	4	0	No Variant	2018-11-04 — 01:31:05 UTC	florrat2, Instantiation, sankala, Zamiel	9	5	25
+12669	4	25	No Variant	2018-11-04 — 01:28:49 UTC	florrat2, Instantiation, sankala, Zamiel	9	5	25
+12668	4	24	No Variant	2018-11-04 — 01:24:20 UTC	florrat2, Instantiation, sankala, Zamiel	10	5	25
+12667	4	0	No Variant	2018-11-04 — 01:20:07 UTC	florrat2, Instantiation, sankala, Zamiel	9	5	25
+12666	4	22	No Variant	2018-11-04 — 01:15:13 UTC	florrat2, Instantiation, sankala, Zamiel	10	5	25
+12663	4	30	Rainbow (6 Suits)	2018-11-04 — 00:53:06 UTC	florrat2, Instantiation, sankala, Zamiel	2	6	30
+12662	5	0	Black & Dark Rainbow (6 Suits)	2018-11-04 — 00:29:16 UTC	910dan, florrat2, Instantiation, sankala, Zamiel	1	6	30
+12660	4	0	Black (6 Suits)	2018-11-04 — 00:11:55 UTC	910dan, Instantiation, sankala, Zamiel	6	6	30
+12659	5	0	Black & Dark Rainbow (6 Suits)	2018-11-04 — 00:00:30 UTC	910dan, Instantiation, Libster, sankala, Zamiel	1	6	30
+12658	5	0	Black & Dark Rainbow (6 Suits)	2018-11-03 — 23:48:34 UTC	910dan, Instantiation, Libster, sankala, Zamiel	1	6	30
+12655	5	0	Black & Dark Rainbow (6 Suits)	2018-11-03 — 23:19:51 UTC	910dan, Instantiation, Libster, sankala, Zamiel	1	6	30
+12654	5	0	Black & Dark Rainbow (6 Suits)	2018-11-03 — 22:52:05 UTC	910dan, Instantiation, Libster, sankala, Zamiel	1	6	30
+12653	5	0	Black & Dark Rainbow (6 Suits)	2018-11-03 — 22:42:52 UTC	910dan, Instantiation, Libster, sankala, Zamiel	1	6	30
+12652	3	30	Black (6 Suits)	2018-11-03 — 22:35:29 UTC	Instantiation, Libster, sankala	12	6	30
+12651	3	0	Black (6 Suits)	2018-11-03 — 22:25:44 UTC	Instantiation, Libster, sankala	12	6	30
+12644	4	0	Black (6 Suits)	2018-11-03 — 20:43:24 UTC	Instantiation, Libster, sankala, Yeesh	13	6	30
+12328	3	30	Rainbow (6 Suits)	2018-10-28 — 23:35:05 UTC	Instantiation, scharkbite, SedNegi	8	6	30
+12327	5	0	Rainbow (6 Suits)	2018-10-28 — 22:57:24 UTC	Andrew_UK, Cory, Instantiation, scharkbite, SedNegi	13	6	30
+12325	3	30	Rainbow (6 Suits)	2018-10-28 — 22:17:56 UTC	Andrew_UK, Instantiation, scharkbite	8	6	30
+12078	4	29	Rainbow (6 Suits)	2018-10-21 — 23:55:54 UTC	910dan, Instantiation, Libster, SedNegi	11	6	30
+12065	5	23	No Variant	2018-10-21 — 19:29:43 UTC	florrat2, Instantiation, Libster, PtitMax, Swifter	7	5	25
+12064	5	0	No Variant	2018-10-21 — 18:59:41 UTC	florrat2, Instantiation, Libster, PtitMax, Swifter	7	5	25
+12060	3	30	Rainbow (6 Suits)	2018-10-21 — 07:52:35 UTC	910dan, Instantiation, qqqq	13	6	30
+12059	3	0	Rainbow (6 Suits)	2018-10-21 — 07:21:23 UTC	910dan, Instantiation, qqqq	13	6	30
+12058	5	27	Black & Dark Rainbow (6 Suits)	2018-10-21 — 06:54:07 UTC	910dan, Instantiation, jeep, qqqq, Zamiel	2	6	30
+12057	5	0	Black & Dark Rainbow (6 Suits)	2018-10-21 — 06:19:13 UTC	910dan, Instantiation, jeep, qqqq, Zamiel	2	6	30
+12055	3	0	Rainbow (6 Suits)	2018-10-21 — 05:57:03 UTC	910dan, Instantiation, jeep	9	6	30
+11884	5	25	No Variant	2018-10-18 — 03:16:58 UTC	florrat2, Instantiation, Libster, sankala, scharkbite	3	5	25
+11882	5	0	Black & Dark Rainbow (6 Suits)	2018-10-18 — 02:33:21 UTC	Cory, florrat2, Instantiation, Libster, sankala	3	6	30
+11881	5	0	Black & Dark Rainbow (6 Suits)	2018-10-18 — 01:49:50 UTC	Cory, florrat2, Instantiation, Libster, sankala	3	6	30
+11830	3	27	Black (6 Suits)	2018-10-17 — 03:39:10 UTC	Andrey Khesin, florrat2, Instantiation	3	6	30
+11827	3	0	6 Suits	2018-10-17 — 03:08:20 UTC	Andrey Khesin, florrat2, Instantiation	12	6	30
+11787	3	30	Black (6 Suits)	2018-10-16 — 03:10:04 UTC	Andrey Khesin, Instantiation, qqqq	74	6	30
+11783	3	28	Black (6 Suits)	2018-10-16 — 02:41:28 UTC	Andrey Khesin, Instantiation, qqqq	97	6	30
+11778	3	0	Black (6 Suits)	2018-10-16 — 02:16:56 UTC	Andrey Khesin, florrat2, Instantiation	3	6	30
+11775	3	0	Black (6 Suits)	2018-10-16 — 02:11:36 UTC	Andrey Khesin, florrat2, Instantiation	3	6	30
+11773	3	0	Black (6 Suits)	2018-10-16 — 01:56:58 UTC	Andrey Khesin, florrat2, Instantiation	3	6	30
+11734	5	25	No Variant	2018-10-14 — 21:50:56 UTC	Andrew_UK, Andrey Khesin, Instantiation, Libster, sankala	4	5	25
+11733	5	25	No Variant	2018-10-14 — 21:32:13 UTC	Andrew_UK, Andrey Khesin, Instantiation, Libster, sankala	5	5	25
+11732	5	25	No Variant	2018-10-14 — 21:09:24 UTC	Andrew_UK, Instantiation, Libster, RaKXeR, sankala	4	5	25
+11731	5	25	No Variant	2018-10-14 — 20:45:47 UTC	Andrew_UK, Instantiation, Libster, RaKXeR, sankala	4	5	25
+11730	5	25	No Variant	2018-10-14 — 20:24:47 UTC	Andrew_UK, Instantiation, Libster, RaKXeR, sankala	4	5	25
+11729	5	28	Rainbow (6 Suits)	2018-10-14 — 19:44:09 UTC	Andrew_UK, Andrey Khesin, Instantiation, Libster, sankala	7	6	30
+11728	3	30	Rainbow (6 Suits)	2018-10-14 — 18:58:10 UTC	Andrey Khesin, Instantiation, sankala	13	6	30
+11685	3	29	Rainbow (6 Suits)	2018-10-13 — 08:52:09 UTC	Andrey Khesin, Instantiation, jeep	10	6	30
+11684	3	0	Rainbow (6 Suits)	2018-10-13 — 08:22:24 UTC	Andrey Khesin, Instantiation, jeep	11	6	30
+11683	3	0	Rainbow (6 Suits)	2018-10-13 — 07:57:45 UTC	Andrey Khesin, Instantiation, jeep	10	6	30
+11680	3	29	Rainbow (6 Suits)	2018-10-13 — 07:25:41 UTC	Andrey Khesin, Instantiation, jeep	13	6	30
+11677	3	25	Rainbow (6 Suits)	2018-10-13 — 06:45:16 UTC	Andrey Khesin, Instantiation, jeep	12	6	30
+11676	3	27	Rainbow (6 Suits)	2018-10-13 — 05:56:10 UTC	Andrey Khesin, Instantiation, jeep	12	6	30
+11672	3	0	Rainbow (6 Suits)	2018-10-13 — 05:12:02 UTC	Andrey Khesin, Instantiation, jeep	13	6	30
+11664	3	0	Rainbow (6 Suits)	2018-10-13 — 04:23:10 UTC	Andrey Khesin, Instantiation, jeep	13	6	30
+11663	3	30	Rainbow (6 Suits)	2018-10-13 — 03:16:28 UTC	Andrey Khesin, florrat2, Instantiation	2	6	30
+11662	3	29	Dual-Color (6 Suits)	2018-10-13 — 02:29:43 UTC	florrat2, Instantiation, jeep	7	6	30
+11631	3	25	Black (6 Suits)	2018-10-12 — 07:10:09 UTC	Andrey Khesin, Instantiation, jeep	193	6	30
+11630	3	30	Rainbow (6 Suits)	2018-10-12 — 06:33:26 UTC	Andrey Khesin, Instantiation, jeep	13	6	30
+11629	3	27	Rainbow (6 Suits)	2018-10-12 — 05:47:46 UTC	Andrey Khesin, Instantiation, jeep	12	6	30
+11628	3	0	Rainbow (6 Suits)	2018-10-12 — 05:11:07 UTC	Andrey Khesin, Instantiation, jeep	13	6	30
+11482	4	29	Very Ambiguous (6 Suits)	2018-10-08 — 05:35:03 UTC	Cory, Instantiation, jeep, scharkbite	6	6	30
+11481	4	0	Very Ambiguous (6 Suits)	2018-10-08 — 04:44:10 UTC	Cory, Instantiation, jeep, scharkbite	8	6	30
+11480	3	0	Color Blind (6 Suits)	2018-10-08 — 04:17:09 UTC	Cory, Instantiation, scharkbite	3	6	30
+11479	4	27	Black & Dark Rainbow (6 Suits)	2018-10-08 — 03:46:58 UTC	Cory, florrat2, Instantiation, scharkbite	2	6	30
+11473	5	0	Black & Dark Rainbow (6 Suits)	2018-10-08 — 03:01:53 UTC	Cory, florrat2, Instantiation, Libster, scharkbite	2	6	30
+11472	4	0	Black & Dark Rainbow (6 Suits)	2018-10-08 — 02:37:45 UTC	Cory, florrat2, Instantiation, scharkbite	2	6	30
+11470	5	27	Black & Dark Rainbow (6 Suits)	2018-10-08 — 02:05:23 UTC	910dan, Cory, florrat2, Instantiation, scharkbite	1	6	30
+11467	4	30	Dark Rainbow (6 Suits)	2018-10-08 — 01:12:11 UTC	910dan, florrat2, Instantiation, scharkbite	9	6	30
+11458	4	25	No Variant	2018-10-07 — 22:32:12 UTC	Andrew_UK, Doge, Instantiation, PtitMax	442	5	25
+11457	4	22	No Variant	2018-10-07 — 21:44:29 UTC	Andrew_UK, Doge, Instantiation, PtitMax	1744	5	25
+11455	4	0	Rainbow (6 Suits)	2018-10-07 — 21:02:27 UTC	Andrew_UK, Doge, Instantiation, PtitMax	10	6	30
+11454	5	0	6 Suits	2018-10-07 — 20:32:15 UTC	florrat2, Instantiation, Libster, PtitMax, RaKXeR	2	6	30
+11392	5	28	Black & Dark Rainbow (6 Suits)	2018-10-05 — 02:59:54 UTC	florrat2, Instantiation, jeep, scharkbite, Zamiel	1	6	30
+11389	5	28	Black & Dark Rainbow (6 Suits)	2018-10-05 — 02:06:41 UTC	florrat2, Instantiation, Libster, scharkbite, Zamiel	1	6	30
+10861	5	30	Dual-Color (6 Suits)	2018-09-24 — 01:23:11 UTC	Cory, Instantiation, qqqq, RaKXeR, Swifter	4	6	30
+10858	4	28	Dual-Color (6 Suits)	2018-09-24 — 00:50:15 UTC	Cory, Instantiation, RaKXeR, Swifter	4	6	30
+10855	4	0	Dual-Color (6 Suits)	2018-09-24 — 00:21:28 UTC	Cory, Instantiation, RaKXeR, Swifter	5	6	30
+10854	4	30	Rainbow (6 Suits)	2018-09-24 — 00:06:48 UTC	Cory, Instantiation, RaKXeR, sankala	9	6	30
+10853	3	0	Rainbow (6 Suits)	2018-09-23 — 23:42:07 UTC	Cory, Instantiation, Libster	8	6	30
+10852	3	0	Rainbow (6 Suits)	2018-09-23 — 23:23:06 UTC	Cory, Instantiation, Libster	15	6	30
+10851	5	29	Rainbow (6 Suits)	2018-09-23 — 23:00:10 UTC	Andrew_UK, Instantiation, jeep, RaKXeR, scharkbite	22	6	30
+10849	3	30	Rainbow (6 Suits)	2018-09-23 — 22:31:40 UTC	Andrew_UK, Instantiation, scharkbite	14	6	30
+10846	3	30	Rainbow (6 Suits)	2018-09-23 — 22:00:44 UTC	Andrew_UK, Instantiation, scharkbite	15	6	30
+10843	3	25	Rainbow (6 Suits)	2018-09-23 — 21:32:32 UTC	Andrew_UK, Instantiation, scharkbite	15	6	30
+10789	3	29	Dual-Color (6 Suits)	2018-09-22 — 22:12:06 UTC	910dan, Instantiation, Libster	8	6	30
+10788	3	0	Dual-Color (6 Suits)	2018-09-22 — 21:47:43 UTC	910dan, Instantiation, Libster	10	6	30
+10787	3	0	Dual-Color (6 Suits)	2018-09-22 — 21:37:28 UTC	910dan, Instantiation, Libster	7	6	30
+10786	3	30	Rainbow (6 Suits)	2018-09-22 — 21:18:46 UTC	910dan, Instantiation, Libster	14	6	30
+10785	3	0	Dual-Color & Rainbow (6 Suits)	2018-09-22 — 20:55:46 UTC	910dan, Instantiation, Libster	7	6	30
+10776	4	30	Ambiguous (6 Suits)	2018-09-22 — 06:27:38 UTC	Cory, Instantiation, jeep, scharkbite	4	6	30
+10775	4	0	Ambiguous (6 Suits)	2018-09-22 — 05:55:44 UTC	Cory, Instantiation, jeep, scharkbite	4	6	30
+10774	4	29	Ambiguous (6 Suits)	2018-09-22 — 05:41:36 UTC	Cory, Instantiation, jeep, scharkbite	8	6	30
+10765	5	0	Rainbow (6 Suits)	2018-09-22 — 02:15:48 UTC	Cory, Instantiation, qqqq, RaKXeR, scharkbite	16	6	30
+10738	3	0	Rainbow (6 Suits)	2018-09-21 — 07:03:15 UTC	Cory, Instantiation, jeep	16	6	30
+10730	3	0	Rainbow (6 Suits)	2018-09-21 — 06:16:02 UTC	Cory, Instantiation, scharkbite	17	6	30
+10720	4	27	Rainbow (6 Suits)	2018-09-21 — 05:42:06 UTC	Cory, Instantiation, scharkbite, smallman	11	6	30
+10714	4	26	Rainbow (6 Suits)	2018-09-21 — 04:53:27 UTC	Cory, Instantiation, scharkbite, smallman	12	6	30
+10693	4	25	No Variant	2018-09-20 — 02:28:47 UTC	Cory, Instantiation, RaKXeR, scharkbite	74	5	25
+10692	4	0	No Variant	2018-09-20 — 02:07:30 UTC	Cory, Instantiation, RaKXeR, scharkbite	78	5	25
+10691	5	0	Black (6 Suits)	2018-09-20 — 01:51:11 UTC	Cory, Instantiation, Libster, RaKXeR, scharkbite	4	6	30
+10690	4	0	Black (6 Suits)	2018-09-20 — 01:24:56 UTC	Instantiation, Libster, RaKXeR, scharkbite	17	6	30
+10605	5	0	Black (6 Suits)	2018-09-17 — 01:23:50 UTC	Cory, Instantiation, NoMercy, qqqq, RaKXeR	13	6	30
+10604	5	0	Black (6 Suits)	2018-09-17 — 00:58:15 UTC	Cory, Instantiation, NoMercy, qqqq, RaKXeR	13	6	30
+10603	5	29	Black (6 Suits)	2018-09-17 — 00:37:14 UTC	Cory, Instantiation, NoMercy, qqqq, RaKXeR	13	6	30
+10602	4	25	No Variant	2018-09-17 — 00:06:20 UTC	Instantiation, NoMercy, qqqq, RaKXeR	125	5	25
+10550	3	27	Rainbow (6 Suits)	2018-09-16 — 05:30:38 UTC	Cory, Instantiation, Zamiel	7	6	30
+10549	3	0	Rainbow (6 Suits)	2018-09-16 — 05:11:48 UTC	Cory, Instantiation, Zamiel	6	6	30
+10548	3	0	Rainbow (6 Suits)	2018-09-16 — 04:58:08 UTC	Cory, Instantiation, Zamiel	6	6	30
+10547	3	0	Rainbow (6 Suits)	2018-09-16 — 04:48:43 UTC	Cory, Instantiation, Zamiel	6	6	30
+10546	4	0	Black & Dark Rainbow (6 Suits)	2018-09-16 — 04:16:35 UTC	910dan, Cory, Instantiation, Zamiel	1	6	30
+10543	4	0	Black & Dark Rainbow (6 Suits)	2018-09-16 — 03:50:08 UTC	910dan, Cory, Instantiation, Zamiel	1	6	30
+10540	4	0	Black & Dark Rainbow (6 Suits)	2018-09-16 — 03:29:58 UTC	Cory, Instantiation, Libster, Zamiel	1	6	30
+10538	4	0	Black & Dark Rainbow (6 Suits)	2018-09-16 — 03:06:32 UTC	Cory, Instantiation, Libster, Zamiel	1	6	30
+10406	3	0	Black (6 Suits)	2018-09-09 — 23:51:50 UTC	Andrew_UK, Instantiation, SeldeGuérande	399	6	30
+10405	3	0	Dark Rainbow (6 Suits)	2018-09-09 — 23:24:25 UTC	Andrew_UK, Instantiation, SeldeGuérande	91	6	30
+10404	3	0	Rainbow (6 Suits)	2018-09-09 — 22:53:21 UTC	Andrew_UK, Instantiation, SeldeGuérande	17	6	30
+10402	3	29	Rainbow (6 Suits)	2018-09-09 — 22:29:10 UTC	Andrew_UK, Instantiation, SeldeGuérande	18	6	30
+10397	3	26	Black & Dark Rainbow (6 Suits)	2018-09-09 — 05:08:24 UTC	Cory, Instantiation, SeldeGuérande	19	6	30
+10395	4	0	Black & Dark Rainbow (6 Suits)	2018-09-09 — 04:39:02 UTC	Cory, Instantiation, qqqq, SeldeGuérande	4	6	30
+10394	4	0	Black & Dark Rainbow (6 Suits)	2018-09-09 — 04:20:35 UTC	Cory, Instantiation, qqqq, SeldeGuérande	4	6	30
+10393	4	0	Black & Dark Rainbow (6 Suits)	2018-09-09 — 04:17:42 UTC	Cory, Instantiation, qqqq, SeldeGuérande	6	6	30
+10392	4	0	Black & Dark Rainbow (6 Suits)	2018-09-09 — 04:12:34 UTC	Cory, Instantiation, qqqq, SeldeGuérande	7	6	30
+10391	4	0	Black & Dark Rainbow (6 Suits)	2018-09-09 — 03:59:40 UTC	Cory, Instantiation, qqqq, SeldeGuérande	7	6	30
+10390	4	0	Black & Dark Rainbow (6 Suits)	2018-09-09 — 03:48:56 UTC	Cory, Instantiation, qqqq, SeldeGuérande	7	6	30
+10388	4	28	Black & Dark Rainbow (6 Suits)	2018-09-09 — 02:55:45 UTC	Cory, Instantiation, qqqq, SeldeGuérande	15	6	30
+10387	5	24	Black & Dark Rainbow (6 Suits)	2018-09-09 — 02:05:55 UTC	Andrew_UK, Cory, Instantiation, qqqq, SeldeGuérande	3	6	30
+10386	4	0	Black & Dark Rainbow (6 Suits)	2018-09-09 — 01:17:41 UTC	Andrew_UK, Cory, Instantiation, SeldeGuérande	16	6	30
+10385	4	0	Rainbow (6 Suits)	2018-09-09 — 00:52:05 UTC	Andrew_UK, Cory, Instantiation, SeldeGuérande	12	6	30
+10384	5	0	Rainbow (6 Suits)	2018-09-09 — 00:03:05 UTC	Andrew_UK, Cory, Instantiation, PtitMax, smallman	17	6	30
+10383	4	0	Rainbow (6 Suits)	2018-09-08 — 23:26:06 UTC	Andrew_UK, Instantiation, PtitMax, smallman	493	6	30
+10382	3	25	No Variant	2018-09-08 — 22:19:26 UTC	Andrew_UK, Instantiation, PtitMax	645	5	25
+10381	3	0	No Variant	2018-09-08 — 21:44:58 UTC	Andrew_UK, Instantiation, PtitMax	840	5	25
+10380	3	22	No Variant	2018-09-08 — 20:51:35 UTC	Andrew_UK, Instantiation, PtitMax	1174	5	25
+10375	3	27	Black & Dark Rainbow (6 Suits)	2018-09-08 — 05:25:24 UTC	Cory, Instantiation, Zamiel	1	6	30
+10374	4	0	Black & Dark Rainbow (6 Suits)	2018-09-08 — 05:00:54 UTC	Cory, Instantiation, qqqq, Zamiel	1	6	30
+10373	3	27	Black & Dark Rainbow (6 Suits)	2018-09-08 — 04:49:36 UTC	Instantiation, qqqq, Zamiel	1	6	30
+10249	3	30	Rainbow (6 Suits)	2018-09-03 — 19:41:41 UTC	Instantiation, sankala, Zamiel	8	6	30
+10248	3	0	Rainbow (6 Suits)	2018-09-03 — 19:30:11 UTC	Instantiation, sankala, Zamiel	8	6	30
+10247	3	0	Rainbow (6 Suits)	2018-09-03 — 19:26:01 UTC	Instantiation, sankala, Zamiel	8	6	30
+10246	3	0	No Variant	2018-09-03 — 19:20:50 UTC	Instantiation, sankala, Zamiel	16	5	25
+10245	3	30	Rainbow (6 Suits)	2018-09-03 — 17:59:10 UTC	Andrew_UK, Instantiation, Libster	15	6	30
+10231	4	0	Black & Dark Rainbow (6 Suits)	2018-09-02 — 05:09:47 UTC	Instantiation, jeep, scharkbite, Zamiel	1	6	30
+10228	4	0	Black & Dark Rainbow (6 Suits)	2018-09-02 — 04:26:09 UTC	Instantiation, jeep, scharkbite, Zamiel	1	6	30
+10226	4	25	Black & Dark Rainbow (6 Suits)	2018-09-02 — 04:03:17 UTC	Instantiation, qqqq, scharkbite, Zamiel	1	6	30
+10224	4	0	Black & Dark Rainbow (6 Suits)	2018-09-02 — 03:26:27 UTC	Instantiation, qqqq, scharkbite, Zamiel	1	6	30
+10222	4	0	Black & Dark Rainbow (6 Suits)	2018-09-02 — 03:05:07 UTC	Instantiation, qqqq, scharkbite, Zamiel	1	6	30
+10188	3	0	Rainbow (6 Suits)	2018-09-01 — 18:25:04 UTC	florrat2, Instantiation, SeldeGuérande	2	6	30
+10160	3	0	Dual-Color (6 Suits)	2018-08-31 — 07:58:50 UTC	Instantiation, jeep, scharkbite	8	6	30
+10159	3	0	Dual-Color (6 Suits)	2018-08-31 — 07:31:49 UTC	Instantiation, jeep, scharkbite	9	6	30
+10158	3	27	Dual-Color (6 Suits)	2018-08-31 — 06:57:16 UTC	Instantiation, jeep, scharkbite	13	6	30
+10157	3	29	Dual-Color (6 Suits)	2018-08-31 — 06:22:41 UTC	Instantiation, jeep, scharkbite	12	6	30
+10156	4	23	No Variant	2018-08-31 — 05:41:18 UTC	Instantiation, rat, scharkbite, Zamiel	14	5	25
+10155	4	25	No Variant	2018-08-31 — 04:59:03 UTC	Instantiation, rat, scharkbite, Zamiel	14	5	25
+10026	4	27	Rainbow (6 Suits)	2018-08-26 — 20:10:56 UTC	Cory, Instantiation, jeep, Swifter	12	6	30
+10025	4	30	Rainbow (6 Suits)	2018-08-26 — 19:26:05 UTC	Andrew_UK, Instantiation, scharkbite, Swifter	12	6	30
+10024	4	0	Rainbow (6 Suits)	2018-08-26 — 18:44:30 UTC	Andrew_UK, Instantiation, scharkbite, Swifter	13	6	30
+9966	5	0	Black & Dark Rainbow (6 Suits)	2018-08-23 — 06:44:00 UTC	alercah, Instantiation, jeep, NoMercy, Zamiel	1	6	30
+9965	5	24	Black & Dark Rainbow (6 Suits)	2018-08-23 — 05:53:50 UTC	alercah, Instantiation, jeep, NoMercy, Zamiel	2	6	30
+9964	5	0	Black & Dark Rainbow (6 Suits)	2018-08-23 — 05:21:04 UTC	alercah, Instantiation, jeep, NoMercy, Zamiel	2	6	30
+9963	5	0	Black & Dark Rainbow (6 Suits)	2018-08-23 — 05:08:45 UTC	alercah, Instantiation, jeep, NoMercy, Zamiel	3	6	30
+9962	4	0	Black & Dark Rainbow (6 Suits)	2018-08-23 — 04:48:46 UTC	alercah, Instantiation, jeep, Zamiel	2	6	30
+9960	4	0	Black & Dark Rainbow (6 Suits)	2018-08-23 — 04:10:12 UTC	alercah, Instantiation, NoMercy, Zamiel	4	6	30
+9959	4	0	Black & Dark Rainbow (6 Suits)	2018-08-23 — 03:50:31 UTC	alercah, Instantiation, NoMercy, Zamiel	3	6	30
+9958	3	0	Black & Dark Rainbow (6 Suits)	2018-08-23 — 03:27:36 UTC	alercah, Instantiation, Zamiel	1	6	30
+9957	4	0	Black & Dark Rainbow (6 Suits)	2018-08-23 — 02:57:22 UTC	alercah, Instantiation, scharkbite, Zamiel	3	6	30
+9956	4	0	Black & Dark Rainbow (6 Suits)	2018-08-23 — 02:45:50 UTC	alercah, Instantiation, scharkbite, Zamiel	3	6	30
+9822	3	30	Rainbow (6 Suits)	2018-08-20 — 00:45:30 UTC	910dan, Instantiation, jeep	18	6	30
+9820	3	0	Rainbow (6 Suits)	2018-08-20 — 00:19:19 UTC	910dan, Instantiation, jeep	19	6	30
+9819	3	0	Rainbow (6 Suits)	2018-08-19 — 23:39:08 UTC	alercah, Instantiation, jeep	19	6	30
+9818	4	0	Rainbow (6 Suits)	2018-08-19 — 22:59:32 UTC	alercah, Andrew_UK, Instantiation, jeep	15	6	30
+9817	4	0	Rainbow (6 Suits)	2018-08-19 — 22:29:01 UTC	alercah, Andrew_UK, Instantiation, jeep	15	6	30
+9816	3	0	Rainbow (6 Suits)	2018-08-19 — 21:50:00 UTC	Andrew_UK, Instantiation, jeep	19	6	30
+9815	4	28	Rainbow (6 Suits)	2018-08-19 — 20:03:58 UTC	Andrew_UK, Cory, Instantiation, jeep	16	6	30
+9814	4	0	Rainbow (6 Suits)	2018-08-19 — 19:23:06 UTC	Andrew_UK, Cory, Instantiation, jeep	16	6	30
+9813	3	0	Rainbow (6 Suits)	2018-08-19 — 18:50:01 UTC	alercah, Andrew_UK, Instantiation	19	6	30
+9812	3	0	Rainbow (6 Suits)	2018-08-19 — 18:39:59 UTC	alercah, Andrew_UK, Instantiation	20	6	30
+9811	3	30	Rainbow (6 Suits)	2018-08-19 — 18:20:51 UTC	alercah, Andrew_UK, Instantiation	19	6	30
+9791	5	0	Black & Dark Rainbow (6 Suits)	2018-08-19 — 04:58:51 UTC	Cory, Instantiation, jeep, scharkbite, Zamiel	3	6	30
+9781	5	0	Black & Dark Rainbow (6 Suits)	2018-08-19 — 04:02:27 UTC	Cory, Instantiation, jeep, scharkbite, Zamiel	3	6	30
+9779	5	0	Black & Dark Rainbow (6 Suits)	2018-08-19 — 03:41:37 UTC	Cory, Instantiation, jeep, scharkbite, Zamiel	3	6	30
+9774	4	27	Black & Dark Rainbow (6 Suits)	2018-08-19 — 02:56:20 UTC	Cory, Instantiation, scharkbite, Zamiel	4	6	30
+9772	4	0	Black & Dark Rainbow (6 Suits)	2018-08-19 — 02:26:03 UTC	Cory, Instantiation, scharkbite, Zamiel	3	6	30
+9771	4	0	Black & Dark Rainbow (6 Suits)	2018-08-19 — 02:22:45 UTC	Cory, Instantiation, scharkbite, Zamiel	4	6	30
+9770	5	0	Black & Dark Rainbow (6 Suits)	2018-08-19 — 02:02:10 UTC	Cory, Instantiation, Libster, scharkbite, Zamiel	1	6	30
+9769	5	0	Black & Dark Rainbow (6 Suits)	2018-08-19 — 01:45:33 UTC	Cory, Instantiation, Libster, scharkbite, Zamiel	1	6	30
+9767	5	0	Black & Dark Rainbow (6 Suits)	2018-08-19 — 01:18:33 UTC	Cory, Instantiation, Libster, scharkbite, Zamiel	2	6	30
+9764	5	0	Rainbow (6 Suits)	2018-08-19 — 00:31:35 UTC	alercah, Instantiation, jeep, NoMercy, scharkbite	42	6	30
+9763	5	0	Rainbow (6 Suits)	2018-08-19 — 00:03:50 UTC	alercah, Instantiation, jeep, NoMercy, scharkbite	49	6	30
+9762	4	0	Rainbow (6 Suits)	2018-08-18 — 23:34:08 UTC	alercah, Instantiation, jeep, NoMercy	19	6	30
+9761	4	0	Rainbow (6 Suits)	2018-08-18 — 23:15:27 UTC	alercah, Instantiation, jeep, NoMercy	17	6	30
+9760	3	0	Dual-Color (6 Suits)	2018-08-18 — 23:10:17 UTC	Instantiation, jeep, NoMercy	13	6	30
+9759	4	30	Rainbow (6 Suits)	2018-08-18 — 22:44:28 UTC	910dan, alercah, Instantiation, scharkbite	17	6	30
+9758	4	0	Rainbow (6 Suits)	2018-08-18 — 22:09:44 UTC	910dan, alercah, Instantiation, scharkbite	19	6	30
+9757	4	0	Rainbow (6 Suits)	2018-08-18 — 21:34:25 UTC	910dan, alercah, Cory, Instantiation	19	6	30
+9756	4	0	Rainbow (6 Suits)	2018-08-18 — 21:02:08 UTC	910dan, alercah, Cory, Instantiation	18	6	30
+9562	3	28	Rainbow (6 Suits)	2018-08-15 — 06:49:40 UTC	Instantiation, NoMercy, scharkbite	18	6	30
+9561	3	29	Rainbow (6 Suits)	2018-08-15 — 06:11:59 UTC	Instantiation, NoMercy, scharkbite	20	6	30
+9560	3	0	Rainbow (6 Suits)	2018-08-15 — 05:35:42 UTC	Instantiation, NoMercy, scharkbite	20	6	30
+9555	4	0	Black & Dark Rainbow (6 Suits)	2018-08-15 — 04:48:30 UTC	Instantiation, Libster, scharkbite, Zamiel	1	6	30
+9554	4	0	Black & Dark Rainbow (6 Suits)	2018-08-15 — 04:40:05 UTC	Instantiation, Libster, scharkbite, Zamiel	1	6	30
+9552	4	0	Black & Dark Rainbow (6 Suits)	2018-08-15 — 04:29:01 UTC	Instantiation, Libster, scharkbite, Zamiel	1	6	30
+9477	3	0	Dual-Color (6 Suits)	2018-08-13 — 06:54:30 UTC	Instantiation, NoMercy, Zamiel	5	6	30
+9457	4	26	Rainbow (6 Suits)	2018-08-12 — 23:23:11 UTC	Andrew_UK, Instantiation, Libster, scharkbite	19	6	30
+9455	4	0	Rainbow (6 Suits)	2018-08-12 — 22:29:51 UTC	Andrew_UK, Instantiation, Libster, scharkbite	19	6	30
+9452	4	0	Rainbow (6 Suits)	2018-08-12 — 22:12:46 UTC	Andrew_UK, Instantiation, Libster, scharkbite	20	6	30
+9451	4	0	Rainbow (6 Suits)	2018-08-12 — 22:03:12 UTC	Andrew_UK, Instantiation, Libster, scharkbite	22	6	30
+9449	3	27	Rainbow (6 Suits)	2018-08-12 — 21:42:55 UTC	Andrew_UK, Instantiation, scharkbite	23	6	30
+9448	3	0	Rainbow (6 Suits)	2018-08-12 — 21:04:10 UTC	Andrew_UK, Instantiation, scharkbite	23	6	30
+9434	3	30	Rainbow (6 Suits)	2018-08-11 — 22:01:23 UTC	Andrew_UK, Instantiation, scharkbite	23	6	30
+9433	4	27	Rainbow (6 Suits)	2018-08-11 — 21:27:37 UTC	Andrew_UK, Instantiation, scharkbite, Swifter	23	6	30
+9432	4	25	No Variant	2018-08-11 — 20:56:35 UTC	Andrew_UK, Instantiation, scharkbite, Swifter	190	5	25
+9431	5	0	No Variant	2018-08-11 — 20:32:50 UTC	Andrew_UK, Instantiation, Libster, scharkbite, Swifter	6	5	25
+9430	5	24	No Variant	2018-08-11 — 20:12:41 UTC	Andrew_UK, Instantiation, Libster, scharkbite, Swifter	6	5	25
+9429	4	0	No Variant	2018-08-11 — 19:36:50 UTC	Andrew_UK, Instantiation, Libster, scharkbite	180	5	25
+9350	4	24	No Variant	2018-08-09 — 08:00:50 UTC	Instantiation, Mapwarrior, NoMercy, qqqq	473	5	25
+9349	4	0	No Variant	2018-08-09 — 07:13:25 UTC	Instantiation, Mapwarrior, NoMercy, qqqq	601	5	25
+9348	4	21	No Variant	2018-08-09 — 06:39:47 UTC	910dan, Instantiation, Mapwarrior, qqqq	501	5	25
+9347	3	0	No Variant	2018-08-09 — 05:44:18 UTC	910dan, Instantiation, Mapwarrior	1636	5	25
+9186	3	0	Rainbow (6 Suits)	2018-08-02 — 02:32:46 UTC	Instantiation, NoMercy, qqqq	24	6	30
+9185	3	30	Rainbow (6 Suits)	2018-08-02 — 02:00:56 UTC	Instantiation, NoMercy, qqqq	25	6	30
+9045	4	28	Rainbow (6 Suits)	2018-08-01 — 03:42:30 UTC	Instantiation, qqqq, scharkbite, Zamiel	3	6	30
+9044	4	30	Rainbow (6 Suits)	2018-08-01 — 02:59:37 UTC	Instantiation, potatochips, qqqq, Zamiel	4	6	30
+9043	3	25	Rainbow (6 Suits)	2018-08-01 — 02:23:35 UTC	Instantiation, potatochips, Zamiel	8	6	30
+9041	3	0	Rainbow (6 Suits)	2018-08-01 — 01:56:57 UTC	Instantiation, potatochips, Zamiel	8	6	30
+8769	4	26	Black & Dark Rainbow (6 Suits)	2018-07-29 — 00:29:40 UTC	Instantiation, Libster, NoMercy, Zamiel	2	6	30
+8768	4	0	Black & Dark Rainbow (6 Suits)	2018-07-29 — 00:07:25 UTC	Instantiation, Libster, NoMercy, Zamiel	2	6	30
+8767	4	0	Black & Dark Rainbow (6 Suits)	2018-07-28 — 23:54:00 UTC	Instantiation, Libster, NoMercy, Zamiel	2	6	30
+8765	4	0	Black & Dark Rainbow (6 Suits)	2018-07-28 — 23:46:57 UTC	Instantiation, Libster, NoMercy, Zamiel	2	6	30
+8764	4	0	Black & Dark Rainbow (6 Suits)	2018-07-28 — 23:38:46 UTC	Instantiation, Libster, NoMercy, Zamiel	2	6	30
+8763	4	0	Black & Dark Rainbow (6 Suits)	2018-07-28 — 23:23:35 UTC	Instantiation, Libster, NoMercy, Zamiel	2	6	30
+8762	4	0	Black & Dark Rainbow (6 Suits)	2018-07-28 — 23:09:14 UTC	Instantiation, Libster, NoMercy, Zamiel	2	6	30
+8761	3	0	Black & Dark Rainbow (6 Suits)	2018-07-28 — 22:57:30 UTC	Instantiation, Libster, Zamiel	1	6	30
+8760	3	0	Black & Dark Rainbow (6 Suits)	2018-07-28 — 22:45:01 UTC	Instantiation, Libster, Zamiel	1	6	30
+8759	4	0	Black & Dark Rainbow (6 Suits)	2018-07-28 — 22:34:24 UTC	Instantiation, Libster, RaKXeR, Zamiel	3	6	30
+8758	3	0	Black & Dark Rainbow (6 Suits)	2018-07-28 — 22:23:09 UTC	Instantiation, Libster, RaKXeR	4	6	30
+8757	3	0	Black & Dark Rainbow (6 Suits)	2018-07-28 — 22:22:00 UTC	Instantiation, Libster, RaKXeR	4	6	30
+8756	3	0	Black & Dark Rainbow (6 Suits)	2018-07-28 — 22:20:02 UTC	Instantiation, Libster, RaKXeR	4	6	30
+8721	5	0	No Variant	2018-07-28 — 05:52:10 UTC	Cory, Hyakinthus, Instantiation, scharkbite, Zamiel	16	5	25
+8720	5	0	No Variant	2018-07-28 — 05:43:02 UTC	Cory, Hyakinthus, Instantiation, scharkbite, Zamiel	15	5	25
+8719	4	25	No Variant	2018-07-28 — 05:31:54 UTC	Cory, Instantiation, scharkbite, Zamiel	17	5	25
+8625	5	0	Dual-Color & Rainbow (6 Suits)	2018-07-27 — 05:42:52 UTC	Instantiation, Libster, qqqq, scharkbite, Swifter	3	6	30
+8624	4	26	Black & Dark Rainbow (6 Suits)	2018-07-27 — 05:12:57 UTC	Instantiation, Libster, sankala, scharkbite	3	6	30
+8623	4	0	Black & Dark Rainbow (6 Suits)	2018-07-27 — 04:50:07 UTC	Instantiation, Libster, sankala, scharkbite	4	6	30
+8620	5	0	Dual-Color & Rainbow (6 Suits)	2018-07-27 — 03:54:17 UTC	Instantiation, jeep, Libster, qqqq, scharkbite	3	6	30
+8619	3	28	Black & Dark Rainbow (6 Suits)	2018-07-27 — 03:36:05 UTC	Instantiation, Libster, qqqq	6	6	30
+8483	3	0	Dark Rainbow (6 Suits)	2018-07-23 — 03:47:34 UTC	Instantiation, jeep, Libster	34	6	30
+8478	5	27	Dark Rainbow (6 Suits)	2018-07-22 — 22:15:07 UTC	florrat2, Instantiation, jeep, Swifter, Zamiel	3	6	30
+8439	4	30	Rainbow (6 Suits)	2018-07-21 — 08:02:55 UTC	Instantiation, jeep, NoMercy, qqqq	26	6	30
+8438	5	25	Black (6 Suits)	2018-07-21 — 06:59:14 UTC	Cory, Instantiation, jeep, qqqq, scharkbite	21	6	30
+8385	4	29	Rainbow (6 Suits)	2018-07-18 — 08:21:29 UTC	Instantiation, jeep, NoMercy, qqqq	34	6	30
+8384	4	0	Rainbow (6 Suits)	2018-07-18 — 07:38:47 UTC	Instantiation, jeep, NoMercy, qqqq	37	6	30
+8383	4	0	Rainbow (6 Suits)	2018-07-18 — 07:11:06 UTC	Instantiation, jeep, NoMercy, qqqq	47	6	30
+8382	3	30	Rainbow (6 Suits)	2018-07-18 — 06:49:45 UTC	Instantiation, jeep, qqqq	25	6	30
+8381	3	27	Rainbow (6 Suits)	2018-07-18 — 06:01:17 UTC	Instantiation, jeep, qqqq	29	6	30
+8269	5	28	Dark Rainbow (6 Suits)	2018-07-14 — 05:26:11 UTC	bradz, Instantiation, Libster, potatochips, Zamiel	7	6	30
+8268	5	0	Dark Rainbow (6 Suits)	2018-07-14 — 04:55:25 UTC	bradz, Instantiation, Libster, potatochips, Zamiel	8	6	30
+8252	5	28	Black (6 Suits)	2018-07-13 — 05:22:36 UTC	bradz, Hyakinthus, Instantiation, Libster, scharkbite	8	6	30
+8251	5	30	Rainbow (6 Suits)	2018-07-13 — 04:47:00 UTC	bradz, Hyakinthus, Instantiation, qqqq, scharkbite	24	6	30
+8250	5	0	Rainbow (6 Suits)	2018-07-13 — 03:41:21 UTC	Hyakinthus, Instantiation, Libster, qqqq, scharkbite	7	6	30
+8249	4	0	Rainbow (6 Suits)	2018-07-13 — 03:08:36 UTC	Hyakinthus, Instantiation, qqqq, scharkbite	26	6	30
+8239	5	29	Rainbow (6 Suits)	2018-07-12 — 06:10:18 UTC	bradz, Instantiation, jeep, qqqq, scharkbite	59	6	30
+8238	5	30	Rainbow (6 Suits)	2018-07-12 — 05:26:15 UTC	bradz, Hyakinthus, Instantiation, jeep, scharkbite	24	6	30
+8237	4	30	Rainbow (6 Suits)	2018-07-12 — 04:58:27 UTC	bradz, Hyakinthus, Instantiation, scharkbite	27	6	30
+8219	3	0	Rainbow (6 Suits)	2018-07-11 — 05:24:58 UTC	Instantiation, jeep, scharkbite	28	6	30
+8217	3	26	Rainbow (6 Suits)	2018-07-11 — 04:54:25 UTC	Instantiation, jeep, scharkbite	30	6	30
+8215	4	29	Rainbow (6 Suits)	2018-07-11 — 04:14:42 UTC	Instantiation, jeep, qqqq, scharkbite	47	6	30
+8208	3	0	Rainbow (6 Suits)	2018-07-10 — 07:23:55 UTC	Instantiation, jeep, qqqq	31	6	30
+8207	4	30	Rainbow (6 Suits)	2018-07-10 — 06:36:33 UTC	Instantiation, jeep, qqqq, scharkbite	53	6	30
+8206	3	0	Rainbow (6 Suits)	2018-07-10 — 05:47:39 UTC	Instantiation, qqqq, scharkbite	35	6	30
+8205	3	0	Rainbow (6 Suits)	2018-07-10 — 05:15:58 UTC	cak199164, Instantiation, scharkbite	40	6	30
+8204	3	0	Rainbow (6 Suits)	2018-07-10 — 04:51:13 UTC	cak199164, Instantiation, scharkbite	42	6	30
+8203	3	29	Rainbow (6 Suits)	2018-07-10 — 04:20:09 UTC	Instantiation, qqqq, scharkbite	40	6	30
+8182	4	0	Rainbow (6 Suits)	2018-07-08 — 22:05:23 UTC	Instantiation, jeep, potatochips, scharkbite	70	6	30
+8181	5	0	Rainbow (6 Suits)	2018-07-08 — 21:23:23 UTC	Instantiation, jeep, Libster, potatochips, scharkbite	83	6	30
+8180	4	0	Rainbow (6 Suits)	2018-07-08 — 20:54:27 UTC	Instantiation, jeep, potatochips, scharkbite	122	6	30
+8179	4	26	Rainbow (6 Suits)	2018-07-08 — 20:35:14 UTC	Instantiation, jeep, potatochips, scharkbite	163	6	30
+8100	5	29	Rainbow (6 Suits)	2018-07-06 — 05:01:10 UTC	cak199164, Instantiation, Libster, scharkbite, Zamiel	3	6	30
+8099	3	30	Rainbow (6 Suits)	2018-07-06 — 04:22:06 UTC	Instantiation, scharkbite, Zamiel	10	6	30
+8098	3	0	Rainbow (6 Suits)	2018-07-06 — 03:49:16 UTC	Instantiation, scharkbite, Zamiel	11	6	30
+8097	4	25	No Variant	2018-07-06 — 03:28:52 UTC	Instantiation, Libster, scharkbite, Zamiel	25	5	25
+8096	5	23	No Variant	2018-07-06 — 02:57:01 UTC	Cory, Instantiation, Libster, scharkbite, Zamiel	35	5	25
+8017	4	27	Rainbow (6 Suits)	2018-07-05 — 02:45:50 UTC	BlameItOnRaz:D, Doge, Instantiation, qqqq	65	6	30
+8015	4	0	Rainbow (6 Suits)	2018-07-05 — 02:08:07 UTC	BlameItOnRaz:D, Doge, Instantiation, qqqq	76	6	30
+8013	3	0	Rainbow (6 Suits)	2018-07-05 — 01:33:42 UTC	BlameItOnRaz:D, Instantiation, qqqq	36	6	30
+7847	2	0	No Variant	2018-07-02 — 05:01:55 UTC	Instantiation, Zamiel	411	5	25
+7839	3	25	No Variant	2018-07-02 — 04:15:47 UTC	Instantiation, Zamiel, zztraider	28	5	25
+7838	4	25	No Variant	2018-07-02 — 03:43:08 UTC	Instantiation, qqqq, Zamiel, zztraider	33	5	25
+7837	4	0	No Variant	2018-07-02 — 02:55:01 UTC	Cory, Doge, Instantiation, qqqq	336	5	25
+7836	4	23	No Variant	2018-07-02 — 02:14:30 UTC	Cory, Doge, Instantiation, qqqq	541	5	25
+7835	4	0	Rainbow (6 Suits)	2018-07-01 — 21:28:42 UTC	Instantiation, ivanovsky, Mike, RaKXeR	34	6	30
+7834	3	0	Rainbow (6 Suits)	2018-07-01 — 20:50:38 UTC	bradz, Instantiation, ivanovsky	56	6	30
+7833	3	29	Rainbow (6 Suits)	2018-07-01 — 19:18:17 UTC	Doge, GamerSKTrashCan, Instantiation	38	6	30
+7832	3	0	Rainbow (6 Suits)	2018-07-01 — 18:44:30 UTC	Doge, GamerSKTrashCan, Instantiation	39	6	30
+7831	3	0	Rainbow (6 Suits)	2018-07-01 — 18:25:28 UTC	Doge, GamerSKTrashCan, Instantiation	104	6	30
+7722	5	28	Rainbow (6 Suits)	2018-06-29 — 02:48:58 UTC	910dan, Bob Dole, Instantiation, jeep, Zamiel	4	6	30
+7721	5	26	Black & Dark Rainbow (6 Suits)	2018-06-29 — 01:53:09 UTC	910dan, Bob Dole, Instantiation, Libster, Zamiel	6	6	30
+7692	4	29	Dual-Color (6 Suits)	2018-06-28 — 06:21:44 UTC	Bob Dole, Hyakinthus, Instantiation, Swifter	10	6	30
+7691	4	0	Dual-Color (6 Suits)	2018-06-28 — 05:44:46 UTC	Bob Dole, Hyakinthus, Instantiation, Swifter	15	6	30
+7690	5	0	Dual-Color (6 Suits)	2018-06-28 — 05:19:15 UTC	Bob Dole, cak199164, Hyakinthus, Instantiation, Swifter	4	6	30
+7689	5	0	Dual-Color (6 Suits)	2018-06-28 — 04:40:14 UTC	BlameItOnRaz:D, cak199164, Hyakinthus, Instantiation, Swifter	5	6	30
+7688	4	30	Rainbow (6 Suits)	2018-06-28 — 03:59:04 UTC	BlameItOnRaz:D, cak199164, Instantiation, Swifter	34	6	30
+7687	3	0	Rainbow (6 Suits)	2018-06-28 — 03:30:13 UTC	BlameItOnRaz:D, Instantiation, Swifter	72	6	30
+7655	4	25	No Variant	2018-06-26 — 06:55:02 UTC	Bob Dole, Instantiation, jeep, Swifter	899	5	25
+7646	5	30	Rainbow (6 Suits)	2018-06-26 — 06:17:07 UTC	Bob Dole, Hyakinthus, Instantiation, jeep, Swifter	27	6	30
+7645	4	29	Rainbow (6 Suits)	2018-06-26 — 05:26:04 UTC	Bob Dole, Instantiation, jeep, Swifter	35	6	30
+7584	3	30	Dark Rainbow (6 Suits)	2018-06-24 — 22:06:53 UTC	Doge, florrat2, Instantiation	37	6	30
+7583	4	28	Black & Dark Rainbow (6 Suits)	2018-06-24 — 21:35:34 UTC	Doge, florrat2, Instantiation, Libster	8	6	30
+7581	4	25	Black & Dark Rainbow (6 Suits)	2018-06-24 — 21:07:25 UTC	Doge, florrat2, Instantiation, Libster	9	6	30
+7555	3	27	Black & Dark Rainbow (6 Suits)	2018-06-24 — 00:23:29 UTC	Instantiation, sankala, Zamiel	20	6	30
+7554	3	0	Black & Dark Rainbow (6 Suits)	2018-06-24 — 00:13:52 UTC	Instantiation, sankala, Zamiel	21	6	30
+7553	3	0	Black & Dark Rainbow (6 Suits)	2018-06-24 — 00:07:30 UTC	Instantiation, sankala, Zamiel	28	6	30
+7551	4	30	Dark Rainbow (6 Suits)	2018-06-23 — 23:27:39 UTC	Instantiation, Libster, sankala, Zamiel	41	6	30
+7550	3	28	Dark Rainbow (6 Suits)	2018-06-23 — 23:00:07 UTC	Instantiation, sankala, Zamiel	41	6	30
+7549	3	0	Dark Rainbow (6 Suits)	2018-06-23 — 22:42:25 UTC	Instantiation, sankala, Zamiel	53	6	30
+7548	3	0	Dark Rainbow (6 Suits)	2018-06-23 — 22:39:29 UTC	Instantiation, sankala, Zamiel	62	6	30
+7547	3	0	Dark Rainbow (6 Suits)	2018-06-23 — 22:30:51 UTC	Instantiation, sankala, Zamiel	77	6	30
+7545	4	28	Dual-Color (6 Suits)	2018-06-23 — 21:18:24 UTC	florrat2, Instantiation, postmans, Zamiel	3	6	30
+7544	5	0	Dark Rainbow (6 Suits)	2018-06-23 — 20:47:07 UTC	florrat2, Instantiation, jeep, postmans, Zamiel	14	6	30
+7543	5	0	Dark Rainbow (6 Suits)	2018-06-23 — 20:30:36 UTC	florrat2, Instantiation, jeep, postmans, Zamiel	14	6	30
+7542	5	0	Dark Rainbow (6 Suits)	2018-06-23 — 20:11:31 UTC	Cory, florrat2, Instantiation, jeep, Zamiel	13	6	30
+7541	5	0	Dark Rainbow (6 Suits)	2018-06-23 — 19:54:38 UTC	Cory, florrat2, Instantiation, jeep, Zamiel	14	6	30
+7540	5	0	Dark Rainbow (6 Suits)	2018-06-23 — 19:45:51 UTC	Cory, florrat2, Instantiation, jeep, Zamiel	18	6	30
+7539	4	30	Dark Rainbow (6 Suits)	2018-06-23 — 19:24:44 UTC	florrat2, Instantiation, jeep, Zamiel	48	6	30
+7538	3	30	Dark Rainbow (6 Suits)	2018-06-23 — 19:01:55 UTC	florrat2, Instantiation, Zamiel	41	6	30
+7529	4	26	Dark Rainbow (6 Suits)	2018-06-23 — 07:11:14 UTC	910dan, Instantiation, jeep, Zamiel	53	6	30
+7528	4	0	Rainbow (6 Suits)	2018-06-23 — 06:05:46 UTC	Cory, Instantiation, jeep, Zamiel	6	6	30
+7497	4	0	Rainbow (6 Suits)	2018-06-22 — 06:59:02 UTC	cak199164, Instantiation, jeep, Zamiel	6	6	30
+7496	3	25	No Variant	2018-06-22 — 06:31:32 UTC	Instantiation, jeep, Zamiel	28	5	25
+7432	3	0	Rainbow (6 Suits)	2018-06-21 — 06:51:08 UTC	cak199164, Instantiation, jeep	126	6	30
+7430	3	30	Rainbow (6 Suits)	2018-06-21 — 06:29:14 UTC	cak199164, Hyakinthus, Instantiation	43	6	30
+7403	4	0	Rainbow (6 Suits)	2018-06-20 — 04:57:32 UTC	BlameItOnRaz:D, Bob Dole, Instantiation, jeep	73	6	30
+7401	4	0	Rainbow (6 Suits)	2018-06-20 — 04:25:00 UTC	BlameItOnRaz:D, Bob Dole, Instantiation, jeep	91	6	30
+7399	4	0	No Variant	2018-06-20 — 03:56:00 UTC	BlameItOnRaz:D, Bob Dole, Instantiation, jeep	1253	5	25
+7143	3	29	Black (6 Suits)	2018-06-15 — 03:58:41 UTC	BlameItOnRaz:D, Instantiation, Libster	119	6	30
+7142	3	0	Black (6 Suits)	2018-06-15 — 03:44:55 UTC	BlameItOnRaz:D, Instantiation, Libster	159	6	30
+7141	3	30	Rainbow (6 Suits)	2018-06-15 — 03:25:44 UTC	BlameItOnRaz:D, Bob Dole, Instantiation	52	6	30
+7140	3	0	Rainbow (6 Suits)	2018-06-15 — 02:57:40 UTC	BlameItOnRaz:D, Bob Dole, Instantiation	54	6	30
+6964	3	0	Rainbow (6 Suits)	2018-06-11 — 00:53:58 UTC	cak199164, Cory, Instantiation	141	6	30
+6963	4	0	Rainbow (6 Suits)	2018-06-11 — 00:23:08 UTC	Bob Dole, cak199164, Cory, Instantiation	132	6	30
+6962	3	0	Rainbow (6 Suits)	2018-06-10 — 23:58:18 UTC	Bob Dole, cak199164, Instantiation	68	6	30
+6961	3	0	Rainbow (6 Suits)	2018-06-10 — 23:45:07 UTC	Bob Dole, Cory, Instantiation	53	6	30
+6960	3	0	Rainbow (6 Suits)	2018-06-10 — 23:15:29 UTC	Bob Dole, Cory, Instantiation	55	6	30
+6959	3	0	Rainbow (6 Suits)	2018-06-10 — 22:54:11 UTC	Bob Dole, Cory, Instantiation	58	6	30
+6958	5	0	Rainbow (6 Suits)	2018-06-10 — 22:35:47 UTC	Bob Dole, Cory, Instantiation, Libster, sankala	4	6	30
+6957	5	0	6 Suits	2018-06-10 — 20:22:40 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	2	6	30
+6956	5	0	6 Suits	2018-06-10 — 20:18:42 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	2	6	30
+6954	5	0	6 Suits	2018-06-10 — 20:16:30 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	2	6	30
+6953	5	0	6 Suits	2018-06-10 — 20:14:27 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	3	6	30
+6952	5	0	6 Suits	2018-06-10 — 20:13:53 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	3	6	30
+6951	5	0	6 Suits	2018-06-10 — 20:12:15 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	4	6	30
+6950	5	0	6 Suits	2018-06-10 — 20:10:17 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	4	6	30
+6949	5	0	6 Suits	2018-06-10 — 20:06:46 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	4	6	30
+6948	5	0	6 Suits	2018-06-10 — 19:59:31 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	4	6	30
+6947	5	0	6 Suits	2018-06-10 — 19:55:28 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	5	6	30
+6946	5	0	6 Suits	2018-06-10 — 19:47:20 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	5	6	30
+6945	5	0	6 Suits	2018-06-10 — 19:44:31 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	4	6	30
+6944	5	30	6 Suits	2018-06-10 — 19:40:34 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	5	6	30
+6943	5	0	6 Suits	2018-06-10 — 19:33:00 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	5	6	30
+6942	5	0	6 Suits	2018-06-10 — 19:30:43 UTC	florrat2, Instantiation, Libster, NotRaKXeR, sankala	9	6	30
+6941	5	0	6 Suits	2018-06-10 — 19:23:35 UTC	florrat2, Instantiation, Libster, RaKXeR, sankala	4	6	30
+6940	5	0	6 Suits	2018-06-10 — 19:18:50 UTC	florrat2, Instantiation, Libster, RaKXeR, sankala	4	6	30
+6939	5	0	6 Suits	2018-06-10 — 19:15:11 UTC	florrat2, Instantiation, Libster, RaKXeR, sankala	10	6	30
+6895	3	29	Black (6 Suits)	2018-06-10 — 01:53:26 UTC	Instantiation, sankala, Zamiel	2	6	30
+6894	3	0	No Variant	2018-06-10 — 01:34:20 UTC	Instantiation, Libster, sankala	1095	5	25
+6893	3	30	Dual-Color & Rainbow (6 Suits)	2018-06-10 — 01:25:53 UTC	Instantiation, Libster, sankala	8	6	30
+6742	4	25	No Variant	2018-06-03 — 22:47:12 UTC	cak199164, Instantiation, RaKXeR, Tiberyus	162	5	25
+6741	4	0	No Variant	2018-06-03 — 22:25:54 UTC	cak199164, Instantiation, RaKXeR, Tiberyus	198	5	25
+6740	3	0	Dual-Color (6 Suits)	2018-06-03 — 22:01:33 UTC	Instantiation, RaKXeR, Tiberyus	12	6	30
+6739	4	30	Rainbow (6 Suits)	2018-06-03 — 21:23:13 UTC	cak199164, Instantiation, RaKXeR, Tiberyus	38	6	30
+6738	4	0	Rainbow (6 Suits)	2018-06-03 — 20:29:04 UTC	cak199164, Instantiation, RaKXeR, Tiberyus	44	6	30
+6737	3	0	Rainbow (6 Suits)	2018-06-03 — 20:03:49 UTC	cak199164, Instantiation, Tiberyus	74	6	30
+6736	3	27	Rainbow (6 Suits)	2018-06-03 — 19:42:20 UTC	cak199164, Instantiation, Tiberyus	75	6	30
+6735	3	0	Rainbow (6 Suits)	2018-06-03 — 19:16:05 UTC	cak199164, Instantiation, Tiberyus	91	6	30
+6734	3	0	Rainbow (6 Suits)	2018-06-03 — 18:51:34 UTC	cak199164, Instantiation, Tiberyus	102	6	30
+6733	3	27	Rainbow (6 Suits)	2018-06-03 — 18:26:23 UTC	Instantiation, RaKXeR, Tiberyus	29	6	30
+6732	5	0	Rainbow (6 Suits)	2018-06-03 — 17:49:29 UTC	Instantiation, Mike, RaKXeR, Swifter, Tiberyus	31	6	30
+6724	3	0	Black (6 Suits)	2018-06-03 — 01:51:52 UTC	BlameItOnRaz:D, Instantiation, Zamiel	7	6	30
+6723	3	0	Black (6 Suits)	2018-06-03 — 01:48:17 UTC	BlameItOnRaz:D, Instantiation, Zamiel	15	6	30
+6722	3	0	Black (6 Suits)	2018-06-03 — 01:17:16 UTC	BlameItOnRaz:D, Instantiation, Zamiel	16	6	30
+6721	3	0	Black (6 Suits)	2018-06-03 — 01:08:03 UTC	BlameItOnRaz:D, Instantiation, Zamiel	17	6	30
+6720	3	0	Black (6 Suits)	2018-06-03 — 00:55:25 UTC	BlameItOnRaz:D, Instantiation, Zamiel	16	6	30
+6719	3	27	Black (6 Suits)	2018-06-03 — 00:47:29 UTC	BlameItOnRaz:D, Instantiation, Zamiel	31	6	30
+6716	3	0	Dual-Color & Rainbow (6 Suits)	2018-06-02 — 02:08:50 UTC	BlameItOnRaz:D, Instantiation, Zamiel	1	6	30
+6707	4	28	Black (6 Suits)	2018-06-01 — 05:03:49 UTC	Cory, fyermind, Instantiation, Zamiel	42	6	30
+6706	5	30	6 Suits	2018-06-01 — 04:24:35 UTC	Cory, fyermind, Instantiation, Mike, Zamiel	9	6	30
+6703	4	25	No Variant	2018-06-01 — 03:40:31 UTC	Cory, fyermind, Instantiation, Zamiel	43	5	25
+6701	5	25	No Variant	2018-06-01 — 03:06:46 UTC	Cory, florrat2, fyermind, Instantiation, Zamiel	135	5	25
+6640	4	30	Dual-Color & Rainbow (6 Suits)	2018-05-28 — 06:01:19 UTC	910dan, Instantiation, Swifter, Zamiel	1	6	30
+6639	4	0	Dual-Color & Rainbow (6 Suits)	2018-05-28 — 05:25:56 UTC	910dan, Instantiation, Swifter, Zamiel	2	6	30
+6626	5	30	Rainbow (6 Suits)	2018-05-27 — 19:56:37 UTC	cak199164, Cory, Instantiation, RaKXeR, Tiberyus	101	6	30
+6625	5	0	No Variant	2018-05-27 — 19:10:08 UTC	cak199164, Cory, florrat2, Instantiation, Tiberyus	457	5	25
+6624	5	22	No Variant	2018-05-27 — 18:38:24 UTC	Cory, florrat2, GamerSKTrashCan, Instantiation, RaKXeR	195	5	25
+6607	5	29	Rainbow (6 Suits)	2018-05-27 — 00:09:20 UTC	Hyakinthus, Instantiation, Libster, RaKXeR, Tiberyus	10	6	30
+6606	4	0	Rainbow (6 Suits)	2018-05-26 — 23:33:10 UTC	Hyakinthus, Instantiation, Libster, Tiberyus	50	6	30
+6605	4	23	No Variant	2018-05-26 — 22:54:38 UTC	fyermind, Hyakinthus, Instantiation, Tiberyus	138	5	25
+6604	4	0	No Variant	2018-05-26 — 22:07:11 UTC	fyermind, Instantiation, Tiberyus, Zamiel	43	5	25
+6588	5	27	Dual-Color (6 Suits)	2018-05-25 — 05:32:11 UTC	cak199164, Instantiation, Mike, Swifter, Zamiel	5	6	30
+6587	4	0	Dual-Color (6 Suits)	2018-05-25 — 04:48:58 UTC	cak199164, Instantiation, Swifter, Zamiel	4	6	30
+6586	5	30	Rainbow (6 Suits)	2018-05-25 — 04:02:47 UTC	BlameItOnRaz:D, cak199164, Instantiation, Swifter, Zamiel	4	6	30
+6585	4	30	Rainbow (6 Suits)	2018-05-25 — 03:34:19 UTC	BlameItOnRaz:D, cak199164, Instantiation, Zamiel	156	6	30
+6562	3	29	Rainbow (6 Suits)	2018-05-24 — 05:19:01 UTC	BlameItOnRaz:D, florrat2, Instantiation	4	6	30
+6561	4	30	Rainbow (6 Suits)	2018-05-24 — 04:31:22 UTC	BlameItOnRaz:D, florrat2, Instantiation, Mike	9	6	30
+6526	4	25	No Variant	2018-05-22 — 06:35:50 UTC	Instantiation, Swifter, Zamiel, Zy	44	5	25
+6497	3	30	Very Ambiguous (6 Suits)	2018-05-21 — 05:46:29 UTC	Instantiation, RaKXeR, Swifter	7	6	30
+6493	4	0	Very Ambiguous (6 Suits)	2018-05-21 — 03:55:03 UTC	florrat2, Instantiation, RaKXeR, Swifter	5	6	30
+6492	3	0	Very Ambiguous (6 Suits)	2018-05-21 — 03:36:59 UTC	florrat2, Instantiation, Swifter	6	6	30
+6491	3	30	Ambiguous (6 Suits)	2018-05-21 — 03:21:14 UTC	florrat2, Instantiation, Swifter	28	6	30
+6490	3	30	Dual-Color (6 Suits)	2018-05-21 — 02:22:47 UTC	Cory, Instantiation, Zamiel	6	6	30
+6489	4	30	Dual-Color (6 Suits)	2018-05-21 — 01:45:39 UTC	Cory, Instantiation, Libster, RaKXeR	4	6	30
+6488	3	28	Black (6 Suits)	2018-05-21 — 01:06:49 UTC	Instantiation, Libster, RaKXeR	80	6	30
+6487	3	0	Black (6 Suits)	2018-05-21 — 00:54:11 UTC	Instantiation, Libster, RaKXeR	83	6	30
+6482	3	28	Rainbow (6 Suits)	2018-05-20 — 02:58:51 UTC	florrat2, Instantiation, Swifter	5	6	30
+6481	3	29	Black (6 Suits)	2018-05-19 — 23:29:16 UTC	Instantiation, Libster, Swifter	108	6	30
+6480	3	0	Black (6 Suits)	2018-05-19 — 23:16:27 UTC	Instantiation, Libster, Swifter	134	6	30
+6479	4	29	Dual-Color (6 Suits)	2018-05-19 — 22:50:42 UTC	Instantiation, Libster, Swifter, Zamiel	3	6	30
+6478	3	30	Dual-Color (6 Suits)	2018-05-19 — 22:04:35 UTC	Instantiation, Swifter, Zamiel	7	6	30
+6477	3	30	Dual-Color (6 Suits)	2018-05-19 — 21:33:16 UTC	Instantiation, Swifter, Zamiel	7	6	30
+6471	3	0	Black (6 Suits)	2018-05-19 — 04:44:53 UTC	Instantiation, Libster, Swifter	172	6	30
+6335	4	30	Rainbow (6 Suits)	2018-05-15 — 03:45:01 UTC	Instantiation, Mike, nmego, Swifter	38	6	30
+6334	3	0	Dual-Color & Rainbow (6 Suits)	2018-05-15 — 03:20:24 UTC	Instantiation, Mike, Swifter	4	6	30
+6311	4	27	Rainbow (6 Suits)	2018-05-13 — 18:33:40 UTC	Cory, Instantiation, Libster, Swifter	50	6	30
+6302	5	0	Rainbow (6 Suits)	2018-05-13 — 00:17:47 UTC	Hyakinthus, Instantiation, Libster, Swifter, Tiberyus	5	6	30
+6300	4	0	Rainbow (6 Suits)	2018-05-12 — 23:31:42 UTC	Instantiation, Libster, Mike, Tiberyus	69	6	30
+6299	4	0	Rainbow (6 Suits)	2018-05-12 — 22:51:04 UTC	Instantiation, Libster, Mike, Tiberyus	85	6	30
+6298	3	27	Rainbow (6 Suits)	2018-05-12 — 22:06:44 UTC	Instantiation, Mike, Tiberyus	61	6	30
+6297	4	27	Rainbow (6 Suits)	2018-05-12 — 20:53:12 UTC	Instantiation, Mike, Swifter, Tiberyus	39	6	30
+6296	5	0	Rainbow (6 Suits)	2018-05-12 — 20:09:20 UTC	Hyakinthus, Instantiation, Mike, Swifter, Tiberyus	39	6	30
+6295	4	29	Rainbow (6 Suits)	2018-05-12 — 19:20:47 UTC	Hyakinthus, Instantiation, Swifter, Tiberyus	41	6	30
+6294	4	25	No Variant	2018-05-12 — 18:22:38 UTC	Hyakinthus, Instantiation, Swifter, Tiberyus	103	5	25
+6252	3	25	No Variant	2018-05-11 — 04:17:02 UTC	BlameItOnRaz:D, Cory, Instantiation	1	5	25
+6230	5	27	Rainbow (6 Suits)	2018-05-09 — 03:59:39 UTC	Instantiation, Libster, Mike, Swifter, Zamiel	3	6	30
+6228	5	27	Rainbow (6 Suits)	2018-05-09 — 03:06:52 UTC	Hyakinthus, Instantiation, Libster, Mike, Zamiel	3	6	30
+6226	4	0	Rainbow (6 Suits)	2018-05-09 — 02:17:50 UTC	Instantiation, Libster, Mike, Zamiel	7	6	30
+6213	5	0	Very Ambiguous (6 Suits)	2018-05-07 — 04:21:40 UTC	BlameItOnRaz:D, Instantiation, Libster, Swifter, Zamiel	2	6	30
+6207	3	29	Rainbow (6 Suits)	2018-05-07 — 01:38:39 UTC	florrat2, Instantiation, Mike	2	6	30
+5497	3	0	Color Blind (6 Suits)	2018-04-23 — 06:02:34 UTC	Instantiation, Mike, Zamiel	1	6	30
+5496	3	30	Color Blind (6 Suits)	2018-04-23 — 05:02:40 UTC	florrat2, Instantiation, Zamiel	1	6	30
+5495	3	0	Color Blind (6 Suits)	2018-04-23 — 04:37:06 UTC	florrat2, Instantiation, Zamiel	1	6	30
+5494	3	0	Color Blind (6 Suits)	2018-04-23 — 04:18:01 UTC	Instantiation, Razgovor, Zamiel	1	6	30
+5493	3	0	Color Blind (6 Suits)	2018-04-23 — 04:05:08 UTC	Instantiation, Razgovor, Zamiel	1	6	30
+5492	3	0	Color Blind (6 Suits)	2018-04-23 — 04:01:24 UTC	Instantiation, Razgovor, Zamiel	1	6	30
+5491	3	0	Color Blind (6 Suits)	2018-04-23 — 03:57:02 UTC	Instantiation, Razgovor, Zamiel	1	6	30
+5490	3	30	Dual-Color (6 Suits)	2018-04-23 — 03:33:55 UTC	Instantiation, Razgovor, Zamiel	8	6	30
+5489	3	0	Dual-Color (6 Suits)	2018-04-23 — 03:00:31 UTC	Instantiation, Razgovor, Zamiel	8	6	30
+5488	4	30	Dual-Color & Rainbow (6 Suits)	2018-04-23 — 02:20:40 UTC	florrat2, Instantiation, Razgovor, Zamiel	2	6	30
+5483	5	30	Rainbow (6 Suits)	2018-04-22 — 19:22:06 UTC	florrat2, GamerSKTrashCan, Instantiation, Libster, Mike	6	6	30
+5482	5	28	Rainbow (6 Suits)	2018-04-22 — 18:46:11 UTC	florrat2, GamerSKTrashCan, Instantiation, Libster, Mike	6	6	30
+5481	4	30	Dual-Color & Rainbow (6 Suits)	2018-04-22 — 04:56:34 UTC	florrat2, Instantiation, Libster, Razgovor	4	6	30
+5473	5	0	Dual-Color & Rainbow (6 Suits)	2018-04-22 — 01:26:46 UTC	Cory, florrat2, Instantiation, Mike, Zamiel	2	6	30
+5472	5	23	No Variant	2018-04-22 — 00:48:50 UTC	Instantiation, Kaito Kid, Mike, Razgovor, Zamiel	77	5	25
+5471	4	25	No Variant	2018-04-22 — 00:00:03 UTC	Instantiation, Kaito Kid, Razgovor, Zamiel	51	5	25
+5470	4	0	No Variant	2018-04-21 — 23:26:52 UTC	Instantiation, Kaito Kid, Razgovor, Zamiel	52	5	25
+5178	4	30	Rainbow (6 Suits)	2018-04-16 — 00:20:05 UTC	Instantiation, Libster, RaKXeR, Razgovor	55	6	30
+5177	3	0	Rainbow (6 Suits)	2018-04-15 — 23:46:23 UTC	Instantiation, RaKXeR, Razgovor	42	6	30
+5176	3	0	Rainbow (6 Suits)	2018-04-15 — 23:31:39 UTC	Instantiation, RaKXeR, Razgovor	46	6	30
+5175	3	0	Rainbow (6 Suits)	2018-04-15 — 23:21:20 UTC	Instantiation, RaKXeR, Razgovor	47	6	30
+5174	3	0	Rainbow (6 Suits)	2018-04-15 — 22:53:29 UTC	Instantiation, RaKXeR, Razgovor	47	6	30
+5173	3	30	Rainbow (6 Suits)	2018-04-15 — 22:24:24 UTC	Bob Dole, Instantiation, Razgovor	146	6	30
+5172	4	0	Rainbow (6 Suits)	2018-04-15 — 21:50:50 UTC	Bob Dole, Instantiation, Mike, Razgovor	96	6	30
+5016	5	0	No Variant	2018-04-14 — 19:49:07 UTC	Ahming, Instantiation, Libster, Mike, RaKXeR	80	5	25
+5015	5	0	No Variant	2018-04-14 — 19:41:07 UTC	Ahming, Instantiation, Libster, Mike, RaKXeR	262	5	25
+5013	4	0	No Variant	2018-04-14 — 19:37:25 UTC	Instantiation, Libster, Mike, RaKXeR	111	5	25
+5011	4	0	No Variant	2018-04-14 — 19:32:53 UTC	Instantiation, Libster, Mike, RaKXeR	130	5	25
+5007	5	0	Rainbow (6 Suits)	2018-04-14 — 18:46:09 UTC	Cory, florrat2, Instantiation, Mike, RaKXeR	50	6	30
+5006	4	0	Rainbow (6 Suits)	2018-04-14 — 18:19:49 UTC	Cory, Instantiation, Mike, RaKXeR	57	6	30
+5002	4	0	Rainbow (6 Suits)	2018-04-14 — 06:55:31 UTC	910dan, Instantiation, Mike, RaKXeR	63	6	30
+5001	4	29	Rainbow (6 Suits)	2018-04-14 — 06:10:59 UTC	910dan, Instantiation, Mike, RaKXeR	104	6	30
+4963	3	0	Rainbow (6 Suits)	2018-04-12 — 07:54:41 UTC	Instantiation, Mike, Naive_Riolu	77	6	30
+4962	3	29	Rainbow (6 Suits)	2018-04-12 — 07:17:47 UTC	Instantiation, Mike, Naive_Riolu	79	6	30
+4961	3	0	Rainbow (6 Suits)	2018-04-12 — 06:53:21 UTC	Instantiation, Mike, Naive_Riolu	83	6	30
+4902	5	0	6 Suits	2018-04-09 — 02:09:20 UTC	Cory, Instantiation, Mike, Razvogor, Zamiel	10	6	30
+4790	3	29	Rainbow (6 Suits)	2018-04-08 — 20:35:03 UTC	GamerSKTrashCan, Instantiation, RaKXeR	91	6	30
+4722	3	25	No Variant	2018-04-06 — 04:17:53 UTC	florrat2, Instantiation, Mike	680	5	25
+4404	3	30	6 Suits	2018-04-01 — 21:50:03 UTC	florrat2, GamerSKTrashCan, Instantiation	40	6	30
+4403	4	0	6 Suits	2018-04-01 — 21:14:48 UTC	Cory, florrat2, GamerSKTrashCan, Instantiation	100	6	30
+4402	4	0	6 Suits	2018-04-01 — 20:45:45 UTC	Cory, florrat2, GamerSKTrashCan, Instantiation	120	6	30
+4401	3	0	Black (6 Suits)	2018-04-01 — 19:50:36 UTC	florrat2, GamerSKTrashCan, Instantiation	149	6	30
+4388	3	25	No Variant	2018-03-31 — 21:29:02 UTC	GamerSKTrashCan, Instantiation, Razgovor	1291	5	25
+4387	4	0	No Variant	2018-03-31 — 20:56:24 UTC	GamerSKTrashCan, Instantiation, Razgovor, soxinfox	1092	5	25
+4386	4	25	No Variant	2018-03-31 — 20:23:17 UTC	GamerSKTrashCan, Instantiation, Razgovor, soxinfox	1449	5	25
+4327	3	25	No Variant	2018-03-27 — 06:04:28 UTC	Instantiation, Razgovor, Zamiel	77	5	25
+4326	3	24	No Variant	2018-03-27 — 05:26:12 UTC	Instantiation, Razgovor, Zamiel	77	5	25
+4325	3	22	No Variant	2018-03-27 — 04:39:37 UTC	Instantiation, Razgovor, Zamiel	76	5	25
+4279	5	0	Black (6 Suits)	2018-03-24 — 04:23:08 UTC	Cory, Hyakinthus, Instantiation, Swifter, Zamiel	14	6	30
+4278	5	0	Black (6 Suits)	2018-03-24 — 03:41:21 UTC	Cory, Hyakinthus, Instantiation, Swifter, Zamiel	21	6	30
+4277	4	28	Black (6 Suits)	2018-03-24 — 03:13:19 UTC	Hyakinthus, Instantiation, Swifter, Zamiel	54	6	30
+4276	5	0	Black (6 Suits)	2018-03-24 — 02:18:04 UTC	Hyakinthus, Instantiation, Swifter, Yeesh, Zamiel	23	6	30
+4265	5	29	Rainbow (6 Suits)	2018-03-23 — 07:35:47 UTC	Hyakinthus, Instantiation, Mike, Yeesh, Zy	67	6	30
+4264	4	0	Rainbow (6 Suits)	2018-03-23 — 06:48:57 UTC	Hyakinthus, Instantiation, Mike, Yeesh	185	6	30
+4263	4	0	Rainbow (6 Suits)	2018-03-23 — 06:15:39 UTC	Hyakinthus, Instantiation, Mike, Yeesh	200	6	30
+4262	4	27	Black (6 Suits)	2018-03-23 — 05:51:35 UTC	Hyakinthus, Instantiation, Mike, Yeesh	74	6	30
+4261	4	0	Black (6 Suits)	2018-03-23 — 05:17:52 UTC	Hyakinthus, Instantiation, Mike, Yeesh	91	6	30
+4260	4	0	Black (6 Suits)	2018-03-23 — 05:01:25 UTC	Hyakinthus, Instantiation, Mike, Yeesh	273	6	30
+4251	5	30	Dual-Color (6 Suits)	2018-03-22 — 03:50:06 UTC	florrat2, Instantiation, Libster, Mike, Zamiel	6	6	30
+4250	5	29	Dual-Color (6 Suits)	2018-03-22 — 02:44:58 UTC	florrat2, Instantiation, Libster, Mike, Zamiel	11	6	30
+4193	4	29	Dual-Color (6 Suits)	2018-03-18 — 21:26:04 UTC	florrat2, Instantiation, RaKXeR, Swifter	6	6	30
+4192	4	0	Dual-Color (6 Suits)	2018-03-18 — 20:43:44 UTC	florrat2, Instantiation, RaKXeR, Swifter	6	6	30
+4191	4	30	Dual-Color (6 Suits)	2018-03-18 — 20:01:20 UTC	florrat2, Instantiation, RaKXeR, Swifter	7	6	30
+4190	4	0	Dual-Color (6 Suits)	2018-03-18 — 19:31:11 UTC	florrat2, Instantiation, RaKXeR, Swifter	8	6	30
+4189	3	29	Rainbow (6 Suits)	2018-03-18 — 19:18:02 UTC	florrat2, Instantiation, Swifter	17	6	30
+4180	3	30	Dual-Color (6 Suits)	2018-03-18 — 02:56:11 UTC	florrat2, Instantiation, Zamiel	11	6	30
+4179	4	0	Dual-Color (6 Suits)	2018-03-18 — 02:24:53 UTC	florrat2, Instantiation, NotRaKXeR, Zamiel	7	6	30
+4178	4	30	6 Suits	2018-03-18 — 02:08:17 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	8	6	30
+4177	4	0	6 Suits	2018-03-18 — 02:03:50 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	8	6	30
+4176	4	0	6 Suits	2018-03-18 — 02:01:24 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	8	6	30
+4175	4	0	6 Suits	2018-03-18 — 01:59:23 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	9	6	30
+4173	4	0	6 Suits	2018-03-18 — 01:58:12 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	9	6	30
+4172	4	0	6 Suits	2018-03-18 — 01:56:36 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	9	6	30
+4171	4	0	6 Suits	2018-03-18 — 01:55:11 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	9	6	30
+4170	4	0	6 Suits	2018-03-18 — 01:52:45 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	9	6	30
+4169	4	0	6 Suits	2018-03-18 — 01:51:53 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	9	6	30
+4168	4	0	6 Suits	2018-03-18 — 01:46:48 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	10	6	30
+4167	4	0	6 Suits	2018-03-18 — 01:44:13 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	10	6	30
+4166	4	0	6 Suits	2018-03-18 — 01:42:51 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	10	6	30
+4165	4	0	6 Suits	2018-03-18 — 01:34:49 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	10	6	30
+4164	4	0	6 Suits	2018-03-18 — 01:29:46 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	12	6	30
+4163	4	0	6 Suits	2018-03-18 — 01:27:11 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	13	6	30
+4162	4	0	6 Suits	2018-03-18 — 01:26:13 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	12	6	30
+4161	4	0	6 Suits	2018-03-18 — 01:25:27 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	13	6	30
+4160	4	29	6 Suits	2018-03-18 — 01:20:51 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	14	6	30
+4159	4	0	6 Suits	2018-03-18 — 01:16:17 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	14	6	30
+4158	4	0	6 Suits	2018-03-18 — 01:15:19 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	13	6	30
+4157	4	0	6 Suits	2018-03-18 — 01:13:01 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	13	6	30
+4156	4	0	6 Suits	2018-03-18 — 01:10:40 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	13	6	30
+4155	4	0	6 Suits	2018-03-18 — 01:09:03 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	13	6	30
+4154	4	0	6 Suits	2018-03-18 — 01:03:07 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	14	6	30
+4153	4	0	6 Suits	2018-03-18 — 00:58:40 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	14	6	30
+4152	4	0	6 Suits	2018-03-18 — 00:55:37 UTC	Instantiation, NotRaKXeR, sankala, Zamiel	14	6	30
+4151	4	0	6 Suits	2018-03-18 — 00:51:39 UTC	Instantiation, RaKXeR, sankala, Zamiel	14	6	30
+4150	4	0	6 Suits	2018-03-18 — 00:46:59 UTC	Instantiation, RaKXeR, sankala, Zamiel	15	6	30
+4149	4	0	6 Suits	2018-03-18 — 00:45:26 UTC	Instantiation, RaKXeR, sankala, Zamiel	14	6	30
+4148	4	0	6 Suits	2018-03-18 — 00:43:55 UTC	Instantiation, RaKXeR, sankala, Zamiel	16	6	30
+4147	4	0	6 Suits	2018-03-18 — 00:41:26 UTC	Instantiation, RaKXeR, sankala, Zamiel	18	6	30
+4146	3	28	Black (6 Suits)	2018-03-18 — 00:37:50 UTC	Instantiation, sankala, Zamiel	36	6	30
+4145	3	26	Black (6 Suits)	2018-03-18 — 00:34:16 UTC	Instantiation, sankala, Zamiel	38	6	30
+4144	3	0	Black (6 Suits)	2018-03-18 — 00:29:20 UTC	Instantiation, sankala, Zamiel	41	6	30
+4143	3	0	Black (6 Suits)	2018-03-18 — 00:25:15 UTC	Instantiation, sankala, Zamiel	43	6	30
+4142	3	0	Black (6 Suits)	2018-03-18 — 00:23:36 UTC	Instantiation, sankala, Zamiel	46	6	30
+4140	3	23	Black (6 Suits)	2018-03-18 — 00:22:23 UTC	Instantiation, sankala, Zamiel	52	6	30
+4139	3	0	Black (6 Suits)	2018-03-18 — 00:18:23 UTC	Instantiation, sankala, Zamiel	55	6	30
+4138	3	0	Black (6 Suits)	2018-03-18 — 00:15:43 UTC	Instantiation, sankala, Zamiel	56	6	30
+4137	3	28	Black (6 Suits)	2018-03-18 — 00:11:27 UTC	Instantiation, sankala, Zamiel	60	6	30
+4136	3	0	Black (6 Suits)	2018-03-18 — 00:08:23 UTC	Instantiation, sankala, Zamiel	62	6	30
+4135	3	0	Black (6 Suits)	2018-03-18 — 00:05:57 UTC	Instantiation, sankala, Zamiel	66	6	30
+4134	3	0	Black (6 Suits)	2018-03-18 — 00:05:14 UTC	Instantiation, sankala, Zamiel	69	6	30
+4133	3	0	Black (6 Suits)	2018-03-18 — 00:01:57 UTC	Instantiation, sankala, Zamiel	71	6	30
+4132	3	30	6 Suits	2018-03-17 — 23:58:25 UTC	Instantiation, sankala, Zamiel	147	6	30
+4131	3	29	Dual-Color (6 Suits)	2018-03-17 — 23:41:42 UTC	Instantiation, Swifter, Zamiel	13	6	30
+4123	5	29	Black (6 Suits)	2018-03-17 — 17:54:25 UTC	910dan, florrat2, Instantiation, Libster, Zamiel	1	6	30
+4121	5	28	Black (6 Suits)	2018-03-17 — 16:52:43 UTC	910dan, florrat2, Instantiation, Libster, Zamiel	1	6	30
+3739	4	30	6 Suits	2018-03-09 — 03:37:28 UTC	florrat2, Hyakinthus, Instantiation, Mike	354	6	30
+3725	3	0	Color Blind (6 Suits)	2018-03-08 — 06:31:26 UTC	Instantiation, Libster, Zamiel	1	6	30
+3723	3	27	Color Blind (6 Suits)	2018-03-08 — 06:00:54 UTC	Instantiation, Libster, Zamiel	1	6	30
+3722	4	0	Color Blind (6 Suits)	2018-03-08 — 05:21:34 UTC	Ahming, Instantiation, Libster, Zamiel	1	6	30
+3721	4	27	Color Blind (6 Suits)	2018-03-08 — 04:55:24 UTC	Ahming, Instantiation, Libster, Zamiel	1	6	30
+3720	4	30	Color Blind (6 Suits)	2018-03-08 — 04:07:56 UTC	Ahming, Instantiation, Libster, Zamiel	2	6	30
+3719	4	0	Color Blind (6 Suits)	2018-03-08 — 03:18:41 UTC	Ahming, Instantiation, Libster, Zamiel	2	6	30
+3687	3	0	Dual-Color (6 Suits)	2018-03-06 — 08:22:17 UTC	Instantiation, Mike, Swifter	12	6	30
+3686	3	27	Dual-Color (6 Suits)	2018-03-06 — 07:46:00 UTC	Instantiation, Mike, Swifter	15	6	30
+3685	3	0	Dual-Color (6 Suits)	2018-03-06 — 07:02:33 UTC	Instantiation, Mike, Swifter	16	6	30
+3684	3	30	Rainbow (6 Suits)	2018-03-06 — 06:31:23 UTC	Instantiation, Mike, Swifter	165	6	30
+3683	3	0	Rainbow (6 Suits)	2018-03-06 — 06:00:47 UTC	Instantiation, Mike, Swifter	196	6	30
+3484	3	0	Very Ambiguous (6 Suits)	2018-02-26 — 02:52:15 UTC	Instantiation, Libster, Zamiel	11	6	30
+3483	3	0	Very Ambiguous (6 Suits)	2018-02-26 — 02:30:51 UTC	Instantiation, Libster, Zamiel	18	6	30
+3482	3	0	Color Blind (6 Suits)	2018-02-26 — 02:21:32 UTC	Instantiation, Libster, Zamiel	12	6	30
+3481	3	28	Very Ambiguous (6 Suits)	2018-02-26 — 01:59:09 UTC	Instantiation, Libster, Zamiel	37	6	30
+3462	3	0	Ambiguous (6 Suits)	2018-02-25 — 03:13:25 UTC	Instantiation, Libster, Zamiel	69	6	30
+3461	4	0	Ambiguous (6 Suits)	2018-02-25 — 02:34:21 UTC	florrat2, Instantiation, Libster, Zamiel	40	6	30
+3459	5	30	Black (6 Suits)	2018-02-25 — 00:52:33 UTC	910dan, florrat2, Instantiation, Libster, Zamiel	15	6	30
+3456	4	25	No Variant	2018-02-24 — 23:05:02 UTC	Instantiation, invarse, Libster, Yeesh	278	5	25
+3455	3	29	Rainbow (6 Suits)	2018-02-24 — 22:10:04 UTC	florrat2, Instantiation, nmego	118	6	30
+3454	3	30	Rainbow (6 Suits)	2018-02-24 — 21:39:07 UTC	florrat2, Instantiation, invarse	120	6	30
+3453	3	0	No Variant	2018-02-24 — 21:19:20 UTC	Instantiation, invarse, Zamiel	220	5	25
+3452	4	0	No Variant	2018-02-24 — 21:16:35 UTC	Instantiation, invarse, nmego, Zamiel	287	5	25
+3451	4	0	No Variant	2018-02-24 — 21:11:10 UTC	Instantiation, invarse, nmego, Zamiel	308	5	25
+3450	3	0	No Variant	2018-02-24 — 21:03:57 UTC	Instantiation, invarse, Zamiel	224	5	25
+3449	3	25	No Variant	2018-02-24 — 21:00:55 UTC	Instantiation, invarse, Zamiel	243	5	25
+3448	3	24	No Variant	2018-02-24 — 20:55:28 UTC	Instantiation, invarse, Zamiel	250	5	25
+3447	4	0	Dual-Color & Rainbow (6 Suits)	2018-02-24 — 09:52:35 UTC	Instantiation, Swifter, Yeesh, Zamiel	7	6	30
+3446	5	0	Dual-Color & Rainbow (6 Suits)	2018-02-24 — 09:18:18 UTC	Instantiation, Libster, Swifter, Yeesh, Zamiel	3	6	30
+3445	5	0	Dual-Color & Rainbow (6 Suits)	2018-02-24 — 08:44:01 UTC	Instantiation, Libster, Swifter, Yeesh, Zamiel	5	6	30
+3444	5	24	No Variant	2018-02-24 — 07:57:51 UTC	Instantiation, Outlaw, Swifter, Yeesh, Zamiel	223	5	25
+3423	3	25	No Variant	2018-02-23 — 08:04:39 UTC	Hyakinthus, Instantiation, Swifter	1881	5	25
+3422	4	23	No Variant	2018-02-23 — 07:10:30 UTC	Hyakinthus, Instantiation, Swifter, Zy	655	5	25
+3421	3	25	No Variant	2018-02-23 — 06:33:08 UTC	Hyakinthus, Instantiation, Zy	2163	5	25
+3420	3	0	No Variant	2018-02-23 — 04:15:22 UTC	Hyakinthus, Instantiation, Yeesh	3260	5	25
+3408	4	25	No Variant	2018-02-22 — 07:28:00 UTC	Hyakinthus, Instantiation, Swifter, Yeesh	373	5	25
+3407	4	0	No Variant	2018-02-22 — 07:00:59 UTC	Hyakinthus, Instantiation, Swifter, Yeesh	717	5	25
+3406	4	0	No Variant	2018-02-22 — 06:17:06 UTC	Hyakinthus, Instantiation, Swifter, Yeesh	793	5	25
+3403	5	21	No Variant	2018-02-22 — 05:27:40 UTC	910dan, Hyakinthus, Instantiation, Swifter, Yeesh	296	5	25
+3402	3	0	Rainbow (6 Suits)	2018-02-22 — 04:43:04 UTC	910dan, Instantiation, Yeesh	282	6	30
+3391	4	25	No Variant	2018-02-21 — 04:54:57 UTC	florrat2, Instantiation, Zamiel, Zy	419	5	25
+3390	5	0	No Variant	2018-02-21 — 04:09:45 UTC	florrat2, Instantiation, Yeesh, Zamiel, Zy	344	5	25
+3372	5	20	No Variant	2018-02-20 — 06:34:08 UTC	Gamer12, Gandalf, Hyakinthus, Instantiation, Yeesh	658	5	25
+3371	5	0	No Variant	2018-02-20 — 05:45:17 UTC	Gamer12, Gandalf, Hyakinthus, Instantiation, Yeesh	837	5	25
+3327	4	30	Rainbow (6 Suits)	2018-02-16 — 03:49:42 UTC	florrat2, Instantiation, invarse, Zamiel	238	6	30
+3313	3	28	Rainbow (6 Suits)	2018-02-15 — 04:29:41 UTC	Bob Dole, Instantiation, invarse	183	6	30
+3264	5	29	Black (6 Suits)	2018-02-11 — 21:04:58 UTC	910dan, Chronometrics, Instantiation, Libster, Zamiel	2	6	30
+3262	5	28	Black (6 Suits)	2018-02-11 — 20:02:32 UTC	910dan, Chronometrics, Instantiation, Libster, Zamiel	2	6	30
+3239	5	0	Rainbow (6 Suits)	2018-02-10 — 23:13:11 UTC	florrat2, Instantiation, nmego, postmans, RaKXeR	133	6	30
+3230	4	0	Black (6 Suits)	2018-02-10 — 17:08:48 UTC	Ahming, Instantiation, invarse, Libster	102	6	30
+3229	4	0	Black (6 Suits)	2018-02-10 — 16:56:08 UTC	Ahming, Instantiation, invarse, Libster	112	6	30
+3228	3	0	Black (6 Suits)	2018-02-10 — 16:37:35 UTC	Instantiation, invarse, Libster	325	6	30
+3113	5	0	Black (6 Suits)	2018-02-04 — 21:00:17 UTC	florrat2, Instantiation, Libster, nmego, RaKXeR	24	6	30
+3112	5	28	Black (6 Suits)	2018-02-04 — 20:25:42 UTC	florrat2, Instantiation, Lobster, nmego, RaKXeR	58	6	30
+3111	4	25	No Variant	2018-02-04 — 19:41:57 UTC	Instantiation, Lobster, nmego, RaKXeR	2076	5	25
+3108	4	25	No Variant	2018-02-04 — 17:56:59 UTC	Instantiation, invarse, Libster, RaKXeR	2763	5	25
+3095	3	29	Rainbow (6 Suits)	2018-02-04 — 04:04:03 UTC	florrat2, Instantiation, invarse	215	6	30
+3094	3	0	Rainbow (6 Suits)	2018-02-04 — 03:45:14 UTC	florrat2, Instantiation, invarse	237	6	30
+3093	4	25	No Variant	2018-02-04 — 03:35:02 UTC	Doge, florrat2, Instantiation, invarse	3581	5	25
+3092	3	28	Dual-Color (6 Suits)	2018-02-04 — 00:19:49 UTC	Instantiation, RaKXeR, Zamiel	17	6	30
+3091	3	0	Dual-Color (6 Suits)	2018-02-03 — 23:37:38 UTC	Instantiation, RaKXeR, Zamiel	21	6	30
+3090	4	30	Dual-Color & Rainbow (6 Suits)	2018-02-03 — 22:45:05 UTC	florrat2, Instantiation, RaKXeR, Zamiel	12	6	30
+3089	4	25	No Variant	2018-02-03 — 21:51:39 UTC	florrat2, Instantiation, RaKXeR, Zamiel	985	5	25
+3087	4	27	Rainbow (6 Suits)	2018-02-03 — 20:37:45 UTC	florrat2, Instantiation, nmego, RaKXeR	344	6	30
+3086	3	0	Rainbow (6 Suits)	2018-02-03 — 19:38:43 UTC	Instantiation, nmego, RaKXeR	689	6	30
+3030	4	30	Dual-Color (6 Suits)	2018-01-30 — 03:32:24 UTC	Instantiation, invarse, Libster, Zamiel	9	6	30
+3024	3	27	Dual-Color (6 Suits)	2018-01-29 — 01:11:40 UTC	Instantiation, invarse, RaKXeR	34	6	30
+3023	3	0	6 Suits	2018-01-29 — 00:46:40 UTC	Instantiation, invarse, RaKXeR	365	6	30
+3022	3	25	No Variant	2018-01-29 — 00:35:18 UTC	Instantiation, invarse, RaKXeR	940	5	25
+3020	4	30	Dual-Color (6 Suits)	2018-01-28 — 20:00:40 UTC	Chronometrics, Instantiation, Libster, postmans	9	6	30
+2993	5	27	Black (6 Suits)	2018-01-26 — 05:39:16 UTC	910dan, Chronometrics, Instantiation, Libster, Zamiel	72	6	30
+2992	5	0	Black (6 Suits)	2018-01-26 — 04:09:08 UTC	910dan, Chronometrics, Instantiation, Libster, Zamiel	101	6	30
+2978	3	30	Rainbow (6 Suits)	2018-01-24 — 07:20:23 UTC	910dan, Instantiation, Libster	332	6	30
+2977	3	30	Dual-Color (6 Suits)	2018-01-24 — 06:42:57 UTC	910dan, Instantiation, Libster	24	6	30
+2976	3	0	Dual-Color (6 Suits)	2018-01-24 — 06:24:07 UTC	910dan, Instantiation, Libster	26	6	30
+2948	3	28	Dual-Color (6 Suits)	2018-01-22 — 00:02:07 UTC	910dan, Instantiation, Zamiel	43	6	30
+2946	3	0	Dual-Color (6 Suits)	2018-01-21 — 23:30:02 UTC	910dan, Instantiation, Zamiel	66	6	30
+2945	5	23	Black (6 Suits)	2018-01-21 — 22:48:28 UTC	910dan, florrat2, GamerSKTrashCan, Instantiation, Zamiel	101	6	30
+2944	4	29	Rainbow (6 Suits)	2018-01-21 — 22:07:48 UTC	910dan, GamerSKTrashCan, Instantiation, Zamiel	275	6	30
+2939	5	29	Dual-Color (6 Suits)	2018-01-21 — 00:47:42 UTC	florrat2, Instantiation, Karisa, postmans, Zamiel	18	6	30
+2937	4	0	Dual-Color (6 Suits)	2018-01-21 — 00:01:00 UTC	florrat2, Instantiation, Karisa, Zamiel	39	6	30
+2935	5	30	Rainbow (6 Suits)	2018-01-20 — 22:47:48 UTC	florrat2, Instantiation, invarse, Libster, postmans	209	6	30
+2934	3	25	No Variant	2018-01-20 — 22:09:51 UTC	Instantiation, Libster, nmego	4221	5	25
+2933	3	0	Rainbow (6 Suits)	2018-01-20 — 21:40:08 UTC	Instantiation, invarse, Libster	396	6	30
+2932	5	0	No Variant	2018-01-20 — 21:16:28 UTC	Instantiation, invarse, Libster, nmego, postmans	1510	5	25
+2931	5	0	No Variant	2018-01-20 — 21:02:16 UTC	Instantiation, invarse, Libster, nmego, postmans	1995	5	25
+2930	3	0	Rainbow (6 Suits)	2018-01-20 — 20:49:58 UTC	Instantiation, invarse, Libster	508	6	30
+2929	3	25	No Variant	2018-01-20 — 20:34:50 UTC	Instantiation, invarse, RaKXeR	2606	5	25

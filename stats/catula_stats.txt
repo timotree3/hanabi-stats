@@ -1,0 +1,1208 @@
+508486	3	24	Deceptive-Ones & Brown (5 Suits)	2021-04-21 — 13:31:35 UTC	catula, jack67889, robense	2	5	25
+508475	4	0	Deceptive-Ones & Brown (5 Suits)	2021-04-21 — 13:07:36 UTC	Animex52, catula, jack67889, robense	1	5	25
+507523	3	25	Rainbow & Dark Pink (5 Suits)	2021-04-20 — 13:40:50 UTC	Animex52, catula, Sucubis	8	5	25
+507517	3	0	Rainbow & Dark Pink (5 Suits)	2021-04-20 — 13:20:12 UTC	Animex52, catula, Sucubis	9	5	25
+507511	5	22	Black (5 Suits)	2021-04-20 — 13:04:18 UTC	Animex52, aquarelle, boba, catula, Sucubis	9	5	25
+507502	5	24	Prism (5 Suits)	2021-04-20 — 12:27:57 UTC	boba, catula, jack67889, mgce, Wittvector	9	5	25
+507480	5	0	Brown-Fives (5 Suits)	2021-04-20 — 11:50:33 UTC	boba, catula, marvolo2, mgce, Wittvector	4	5	25
+506510	2	0	Null (4 Suits)	2021-04-19 — 13:28:11 UTC	Animex52, catula	40	4	20
+506506	2	17	Null (4 Suits)	2021-04-19 — 13:12:22 UTC	Animex52, catula	46	4	20
+506495	2	0	Light-Pink-Fives & Omni (3 Suits)	2021-04-19 — 12:49:51 UTC	Animex52, catula	2	3	15
+506480	3	24	Brown-Fives (5 Suits)	2021-04-19 — 12:29:31 UTC	Aluap, Animex52, catula	2	5	25
+506452	3	0	Brown-Fives (5 Suits)	2021-04-19 — 11:56:11 UTC	Aluap, Animex52, catula	4	5	25
+505116	3	13	Brown-Ones & Muddy Rainbow (3 Suits)	2021-04-18 — 06:36:32 UTC	catula, FerKeth, HelanaAshryvr	1	3	15
+505110	3	0	Brown-Ones & Muddy Rainbow (3 Suits)	2021-04-18 — 06:21:30 UTC	catula, FerKeth, HelanaAshryvr	1	3	15
+503967	4	24	Muddy Rainbow (5 Suits)	2021-04-17 — 06:36:45 UTC	bjnh, catula, Fey, possum	9	5	25
+503956	4	0	Rainbow & White (6 Suits)	2021-04-17 — 06:16:12 UTC	bjnh, catula, dobi, Fey	2	6	30
+503950	4	28	Rainbow & White (6 Suits)	2021-04-17 — 06:06:54 UTC	bjnh, catula, dobi, Fey	2	6	30
+503938	4	0	Rainbow & White (6 Suits)	2021-04-17 — 05:47:20 UTC	bjnh, catula, dobi, Fey	5	6	30
+501810	2	0	Duck (4 Suits)	2021-04-15 — 12:22:13 UTC	Animex52, catula	6	4	20
+500809	4	0	Rainbow (5 Suits)	2021-04-14 — 12:50:33 UTC	catula, Lel0uch, sin_faith, VerySloppyTwo	11	5	25
+500808	4	0	Rainbow (5 Suits)	2021-04-14 — 12:48:18 UTC	catula, Lel0uch, sin_faith, VerySloppyTwo	10	5	25
+500806	4	0	Rainbow (5 Suits)	2021-04-14 — 12:45:49 UTC	catula, Lel0uch, sin_faith, VerySloppyTwo	12	5	25
+500801	4	0	Rainbow (5 Suits)	2021-04-14 — 12:42:57 UTC	catula, Lel0uch, sin_faith, VerySloppyTwo	13	5	25
+500799	5	0	Muddy-Rainbow-Ones & Omni (6 Suits)	2021-04-14 — 12:37:41 UTC	catula, Lanvin, Lel0uch, sin_faith, squirrel1988	1	6	30
+500793	5	0	Muddy-Rainbow-Ones & Omni (6 Suits)	2021-04-14 — 12:23:02 UTC	catula, Lanvin, Lel0uch, sin_faith, squirrel1988	1	6	30
+500785	5	0	Muddy-Rainbow-Ones & Omni (6 Suits)	2021-04-14 — 12:08:17 UTC	catula, Lanvin, Lel0uch, sin_faith, squirrel1988	1	6	30
+500781	4	0	Rainbow Reversed (6 Suits)	2021-04-14 — 11:58:42 UTC	catula, Lanvin, MarkusKahlsen, squirrel1988	11	6	30
+499712	3	23	Brown-Ones & Brown (5 Suits)	2021-04-13 — 14:10:30 UTC	catula, sin_faith, Sucubis	4	5	25
+499703	3	25	Brown-Ones (5 Suits)	2021-04-13 — 13:49:11 UTC	catula, sin_faith, VerySloppyTwo	10	5	25
+499700	3	25	Gray (5 Suits)	2021-04-13 — 13:31:11 UTC	catula, Lanvin, VerySloppyTwo	17	5	25
+499696	2	0	Black & White (5 Suits)	2021-04-13 — 13:18:27 UTC	catula, Lanvin	45	5	25
+499695	2	0	Black & White (5 Suits)	2021-04-13 — 13:08:14 UTC	catula, Lanvin	51	5	25
+498408	6	0	Brown-Fives & Black (5 Suits)	2021-04-12 — 13:37:19 UTC	catula, jack67889, Lanvin, sin_faith, VerySloppyTwo, Wittvector	1	5	25
+498399	4	0	Brown & Muddy Rainbow (5 Suits)	2021-04-12 — 13:11:39 UTC	catula, jack67889, Lanvin, sin_faith	2	5	25
+498394	3	0	Duck (4 Suits)	2021-04-12 — 12:57:47 UTC	catula, jack67889, Lanvin	5	4	20
+498391	3	0	Duck (4 Suits)	2021-04-12 — 12:51:06 UTC	catula, jack67889, Lanvin	4	4	20
+498389	3	0	Duck (4 Suits)	2021-04-12 — 12:47:15 UTC	catula, jack67889, Lanvin	5	4	20
+498385	6	0	Brown & Light Pink (6 Suits)	2021-04-12 — 12:39:53 UTC	catula, Lanvin, Lel0uch, melwen, VerySloppyTwo, Wittvector	1	6	30
+496884	5	29	Gray (6 Suits)	2021-04-11 — 02:10:47 UTC	antitelharsic, aquarelle, boba, catula, qqqq	19	6	30
+493960	4	25	Rainbow-Ones & Rainbow (5 Suits)	2021-04-08 — 12:39:39 UTC	catula, Lel0uch, sin_faith, wolfpack	1	5	25
+493949	3	0	Dual-Color Mix	2021-04-08 — 12:13:08 UTC	catula, Lel0uch, sin_faith	11	6	30
+493935	3	0	Extremely Ambiguous & Brown (5 Suits)	2021-04-08 — 11:49:42 UTC	catula, sin_faith, Zakisan	2	5	25
+492010	3	24	Black & Prism (5 Suits)	2021-04-06 — 09:17:26 UTC	antitelharsic, boba, catula	12	5	25
+492005	3	0	Black & Prism (5 Suits)	2021-04-06 — 08:45:44 UTC	antitelharsic, boba, catula	12	5	25
+491162	5	0	Black & White (6 Suits)	2021-04-05 — 13:54:26 UTC	Aluap, Animex52, catula, sin_faith, Sucubis	13	6	30
+491146	4	0	Black & White (6 Suits)	2021-04-05 — 13:27:30 UTC	Aluap, Animex52, catula, Sucubis	24	6	30
+491127	3	25	No Variant	2021-04-05 — 13:01:04 UTC	Aluap, Animex52, catula	69	5	25
+491112	4	0	Up or Down & Prism (6 Suits)	2021-04-05 — 12:04:52 UTC	catula, Lanvin, Plum, sephiroth	4	6	30
+491109	4	0	Up or Down & Prism (6 Suits)	2021-04-05 — 11:54:06 UTC	catula, Lanvin, Plum, sephiroth	4	6	30
+491106	5	0	Up or Down & White (6 Suits)	2021-04-05 — 11:39:01 UTC	catula, Lanvin, Plum, sephiroth, Zakisan	3	6	30
+490312	5	23	Dark Prism (5 Suits)	2021-04-04 — 13:13:30 UTC	Aluap, Animex52, catula, sin_faith, Sucubis	1	5	25
+490306	5	21	Dark Prism (5 Suits)	2021-04-04 — 12:41:58 UTC	Aluap, Animex52, catula, sin_faith, Sucubis	2	5	25
+490301	5	0	Dark Prism (5 Suits)	2021-04-04 — 12:19:57 UTC	Aluap, Animex52, catula, sin_faith, Sucubis	3	5	25
+490300	5	0	Dark Prism (5 Suits)	2021-04-04 — 12:16:21 UTC	Aluap, Animex52, catula, sin_faith, Sucubis	5	5	25
+490293	4	24	Black (5 Suits)	2021-04-04 — 12:06:00 UTC	Aluap, Animex52, catula, sin_faith	21	5	25
+490262	2	25	Rainbow & Omni (5 Suits)	2021-04-04 — 09:54:10 UTC	catula, Lanvin	13	5	25
+488279	6	30	Dark Prism (6 Suits)	2021-04-02 — 13:39:16 UTC	catula, jack67889, Lanvin, MangoPie, ricardodd, sephiroth	3	6	30
+488269	5	0	Up or Down & White (6 Suits)	2021-04-02 — 13:04:23 UTC	catula, Lanvin, qqqq, robense, sephiroth	4	6	30
+488223	4	25	No Variant	2021-04-02 — 10:43:10 UTC	antitelharsic, catula, cockdestroyer, sin_faith	17	5	25
+488220	4	0	No Variant	2021-04-02 — 10:21:51 UTC	antitelharsic, catula, cockdestroyer, sin_faith	17	5	25
+488216	4	24	No Variant	2021-04-02 — 10:07:14 UTC	antitelharsic, catula, cockdestroyer, sin_faith	17	5	25
+488212	4	0	No Variant	2021-04-02 — 09:41:16 UTC	antitelharsic, catula, cockdestroyer, Lanvin	34	5	25
+488181	4	30	Muddy Rainbow & Dark Pink (6 Suits)	2021-04-02 — 07:35:16 UTC	catula, cockdestroyer, Dwu123, methmatics	4	6	30
+488171	3	20	Dark Prism (5 Suits)	2021-04-02 — 06:49:46 UTC	catula, Dwu123, wump	6	5	25
+488165	3	23	Dark Prism (5 Suits)	2021-04-02 — 06:21:02 UTC	catula, Dwu123, wump	8	5	25
+487352	5	0	Up or Down & Omni (6 Suits)	2021-04-01 — 12:30:46 UTC	catula, ChristopheAF, Lanvin, sephiroth, sin_faith	3	6	30
+487345	6	0	Cocoa Rainbow (6 Suits)	2021-04-01 — 12:11:43 UTC	Aluap, Animex52, catula, dobi, Lanvin, sephiroth	3	6	30
+487342	4	0	Cocoa Rainbow (6 Suits)	2021-04-01 — 12:01:02 UTC	Aluap, Animex52, catula, Lanvin	8	6	30
+487338	4	0	Cocoa Rainbow (6 Suits)	2021-04-01 — 11:52:28 UTC	Aluap, Animex52, catula, Lanvin	8	6	30
+486385	5	0	Muddy Rainbow & Gray Pink (6 Suits)	2021-03-31 — 13:03:32 UTC	Animex52, catula, indego, Lanvin, Pablo-	1	6	30
+485365	5	0	No Variant	2021-03-30 — 12:08:19 UTC	Aluap, BananaBum, catula, Sucubis, Zakisan	28	5	25
+485355	3	22	Dark Prism (5 Suits)	2021-03-30 — 11:32:18 UTC	BananaBum, Bonja97, catula	12	5	25
+485348	3	0	Dark Prism (5 Suits)	2021-03-30 — 11:08:48 UTC	BananaBum, Bonja97, catula	23	5	25
+484341	2	0	Rainbow (5 Suits)	2021-03-29 — 12:25:51 UTC	Animex52, catula	154	5	25
+484332	5	0	Rainbow-Ones & Prism (4 Suits)	2021-03-29 — 11:58:02 UTC	catula, HelanaAshryvr, jack67889, Lanvin, Syrah	1	4	20
+484328	2	25	Black (5 Suits)	2021-03-29 — 11:37:02 UTC	Animex52, catula	69	5	25
+484323	2	0	Black (5 Suits)	2021-03-29 — 11:21:54 UTC	Animex52, catula	78	5	25
+483337	6	0	Up or Down & White (6 Suits)	2021-03-28 — 11:41:27 UTC	catula, hakha3, Lanvin, sephiroth, Sucubis, Wittvector	1	6	30
+483335	3	0	Up or Down & Omni (5 Suits)	2021-03-28 — 11:19:06 UTC	catula, sephiroth, Sucubis	6	5	25
+478982	3	30	Dark Prism (6 Suits)	2021-03-24 — 12:05:19 UTC	Animex52, catula, sephiroth	1	6	30
+478972	2	0	Black (5 Suits)	2021-03-24 — 11:41:18 UTC	Animex52, catula	85	5	25
+478970	2	0	Black (5 Suits)	2021-03-24 — 11:37:38 UTC	Animex52, catula	97	5	25
+478963	2	0	Black (5 Suits)	2021-03-24 — 11:25:04 UTC	Animex52, catula	108	5	25
+474755	3	0	Dark Prism (5 Suits)	2021-03-20 — 12:38:19 UTC	Animex52, catula, cockdestroyer	15	5	25
+474725	5	23	Rainbow (5 Suits)	2021-03-20 — 11:22:26 UTC	Animex52, catula, jack67889, Lel0uch, wump	11	5	25
+472329	3	25	Pink-Ones & Omni (5 Suits)	2021-03-18 — 11:24:03 UTC	catula, jack67889, Nitrate2	2	5	25
+472323	3	0	Pink-Ones & Omni (5 Suits)	2021-03-18 — 10:52:04 UTC	catula, jack67889, Nitrate2	2	5	25
+472319	2	0	Black & Prism (6 Suits)	2021-03-18 — 10:37:34 UTC	catula, jack67889	31	6	30
+455202	5	27	White-Ones (6 Suits)	2021-03-03 — 12:06:15 UTC	catula, cockdestroyer, jack67889, nitawa, Sucubis	4	6	30
+455181	5	0	White-Ones (6 Suits)	2021-03-03 — 11:33:00 UTC	catula, cockdestroyer, jack67889, nitawa, Sucubis	8	6	30
+455152	5	24	Rainbow & Prism (5 Suits)	2021-03-03 — 10:23:59 UTC	catula, Denchulitas, eliclax, possum, sephiroth	7	5	25
+454106	4	24	Dark Prism (5 Suits)	2021-03-02 — 11:34:50 UTC	Animex52, catula, methmatics, Sucubis	5	5	25
+454097	4	22	Dark Prism (5 Suits)	2021-03-02 — 11:04:42 UTC	Animex52, catula, methmatics, Sucubis	8	5	25
+454088	3	0	Dark Prism (6 Suits)	2021-03-02 — 10:48:22 UTC	Animex52, catula, Sucubis	20	6	30
+454086	2	0	Black (6 Suits)	2021-03-02 — 10:39:19 UTC	Animex52, catula	25	6	30
+453025	6	27	Dark Rainbow (6 Suits)	2021-03-01 — 12:09:44 UTC	catula, cockdestroyer, Denchulitas, Lel0uch, possum, sephiroth	2	6	30
+453017	5	19	White & Prism (4 Suits)	2021-03-01 — 11:31:28 UTC	catula, cockdestroyer, Denchulitas, Lel0uch, sephiroth	2	4	20
+453013	5	0	White & Prism (4 Suits)	2021-03-01 — 11:17:47 UTC	catula, cockdestroyer, Denchulitas, Lel0uch, sephiroth	3	4	20
+453012	3	22	Black (5 Suits)	2021-03-01 — 11:09:30 UTC	antitelharsic, catula, cockdestroyer	68	5	25
+451879	4	25	Pink & Prism (5 Suits)	2021-02-28 — 12:13:14 UTC	asaelr, catula, derekcheah, sephiroth	2	5	25
+451873	4	0	Pink & Prism (5 Suits)	2021-02-28 — 11:53:24 UTC	asaelr, catula, derekcheah, sephiroth	5	5	25
+451868	3	25	Pink & Prism (5 Suits)	2021-02-28 — 11:39:36 UTC	asaelr, catula, derekcheah	11	5	25
+451859	3	0	Pink & Prism (5 Suits)	2021-02-28 — 11:19:43 UTC	asaelr, catula, derekcheah	13	5	25
+450809	3	13	Brown (3 Suits)	2021-02-27 — 13:28:28 UTC	catula, cockdestroyer, nitawa	21	3	15
+450806	3	0	Brown (3 Suits)	2021-02-27 — 13:17:06 UTC	catula, cockdestroyer, nitawa	23	3	15
+450802	3	13	Brown (3 Suits)	2021-02-27 — 13:07:48 UTC	catula, cockdestroyer, nitawa	29	3	15
+449826	4	27	Black (6 Suits)	2021-02-26 — 13:35:38 UTC	catula, jack67889, Lanvin, nitawa	213	6	30
+449815	6	0	Black (6 Suits)	2021-02-26 — 13:05:06 UTC	catula, jack67889, Lanvin, MKQ, nitawa, wolfpack	3	6	30
+449812	5	0	Black (6 Suits)	2021-02-26 — 13:01:17 UTC	catula, jack67889, Lanvin, nitawa, wolfpack	13	6	30
+449805	3	0	Brown-Ones & Light Pink (5 Suits)	2021-02-26 — 12:43:36 UTC	catula, jack67889, Lanvin	1	5	25
+449800	3	0	Brown-Ones & Light Pink (5 Suits)	2021-02-26 — 12:27:48 UTC	catula, jack67889, Lanvin	1	5	25
+449793	3	0	Brown-Ones & Light Pink (5 Suits)	2021-02-26 — 12:15:55 UTC	catula, jack67889, Lanvin	1	5	25
+448601	4	25	Brown-Ones & Light Pink (5 Suits)	2021-02-25 — 09:23:17 UTC	catula, Nitrate2, VerySloppyTwo, Wittvector	2	5	25
+447645	3	22	Muddy-Rainbow-Ones & Gray (5 Suits)	2021-02-24 — 11:25:10 UTC	catula, rachyrules, Wittvector	1	5	25
+447639	3	0	Rainbow-Ones & Pink (3 Suits)	2021-02-24 — 10:57:32 UTC	catula, rachyrules, Wittvector	4	3	15
+447636	5	21	Cocoa Rainbow (5 Suits)	2021-02-24 — 10:29:58 UTC	boba, catula, CptAggro, louietyj, Wittvector	5	5	25
+447633	5	0	Cocoa Rainbow (5 Suits)	2021-02-24 — 10:07:50 UTC	boba, catula, CptAggro, louietyj, Wittvector	6	5	25
+447631	3	23	Dark Rainbow (5 Suits)	2021-02-24 — 09:45:12 UTC	boba, catula, dobi	24	5	25
+447621	2	23	Dark Rainbow (5 Suits)	2021-02-24 — 09:14:24 UTC	catula, dobi	71	5	25
+446544	5	28	Dark Prism (6 Suits)	2021-02-23 — 10:05:32 UTC	Animex52, boba, catula, methmatics, Sucubis	9	6	30
+446537	4	23	Dark Prism (5 Suits)	2021-02-23 — 09:30:19 UTC	Animex52, boba, catula, Sucubis	17	5	25
+446500	5	0	Rainbow (6 Suits)	2021-02-23 — 06:52:02 UTC	catula, corys, kopen, Lel0uch, xor	31	6	30
+445432	3	25	White & Prism (5 Suits)	2021-02-22 — 12:00:08 UTC	catula, Dr_Kakashi, Pablo-	6	5	25
+445429	3	0	White & Prism (5 Suits)	2021-02-22 — 11:43:21 UTC	catula, Dr_Kakashi, Pablo-	7	5	25
+445426	3	0	White & Prism (5 Suits)	2021-02-22 — 11:34:30 UTC	catula, Dr_Kakashi, Sucubis	10	5	25
+445420	3	0	White & Prism (5 Suits)	2021-02-22 — 11:22:17 UTC	catula, Dr_Kakashi, Sucubis	16	5	25
+445416	3	0	White & Prism (5 Suits)	2021-02-22 — 11:16:27 UTC	catula, Dr_Kakashi, Sucubis	17	5	25
+445413	4	25	Black & Gray (6 Suits)	2021-02-22 — 10:53:40 UTC	asaelr, catula, Sucubis, swineherd	6	6	30
+444282	5	25	No Variant	2021-02-21 — 12:02:37 UTC	4head, catula, eliclax, louietyj, possum	49	5	25
+444277	4	0	Dark Prism (5 Suits)	2021-02-21 — 11:34:35 UTC	4head, catula, louietyj, possum	17	5	25
+443147	3	26	Clue Starved & White (6 Suits)	2021-02-20 — 13:57:13 UTC	Animex52, catula, wump	4	6	30
+443132	3	0	Clue Starved & White (6 Suits)	2021-02-20 — 13:09:19 UTC	Animex52, catula, wump	4	6	30
+443115	3	0	Clue Starved & White (6 Suits)	2021-02-20 — 12:44:03 UTC	Animex52, catula, wump	5	6	30
+442798	4	25	Brown (5 Suits)	2021-02-20 — 03:51:39 UTC	catula, Lanvin, Lel0uch, squirrel1988	9	5	25
+441902	3	30	White & Prism (6 Suits)	2021-02-19 — 12:11:48 UTC	boba, catula, jack67889	7	6	30
+441891	3	25	White-Ones & Rainbow (5 Suits)	2021-02-19 — 11:35:48 UTC	boba, catula, jack67889	9	5	25
+441881	3	0	Prism (5 Suits)	2021-02-19 — 11:06:39 UTC	BraydonM, catula, Spieler42	10	5	25
+441860	4	25	Black & Prism (5 Suits)	2021-02-19 — 10:02:06 UTC	catula, sephiroth, swineherd, VerySloppyTwo	2	5	25
+440818	3	23	Black & Brown (5 Suits)	2021-02-18 — 11:16:38 UTC	catula, cockdestroyer, sephiroth	6	5	25
+440814	3	0	Black & Brown (5 Suits)	2021-02-18 — 10:58:53 UTC	catula, cockdestroyer, sephiroth	7	5	25
+440812	4	0	Black & Brown (5 Suits)	2021-02-18 — 10:50:52 UTC	catula, cockdestroyer, sephiroth, VerySloppyTwo	6	5	25
+440807	4	0	Rainbow & Pink (6 Suits)	2021-02-18 — 10:35:37 UTC	catula, cockdestroyer, knaphill, sephiroth	6	6	30
+440805	4	0	Rainbow & Pink (6 Suits)	2021-02-18 — 10:27:11 UTC	catula, cockdestroyer, knaphill, sephiroth	6	6	30
+440803	4	0	Rainbow & Pink (6 Suits)	2021-02-18 — 10:21:09 UTC	catula, cockdestroyer, knaphill, sephiroth	6	6	30
+440801	6	0	Dark Rainbow & Dark Prism (6 Suits)	2021-02-18 — 10:12:41 UTC	catula, cockdestroyer, indego, sephiroth, VerySloppyTwo, Wittvector	1	6	30
+440800	4	0	Dark Rainbow & Dark Prism (6 Suits)	2021-02-18 — 10:01:32 UTC	catula, cockdestroyer, sephiroth, Wittvector	1	6	30
+440798	4	0	Dark Rainbow & Dark Prism (6 Suits)	2021-02-18 — 09:53:51 UTC	catula, cockdestroyer, sephiroth, Wittvector	1	6	30
+440795	3	0	Pink (3 Suits)	2021-02-18 — 09:45:19 UTC	catula, cockdestroyer, nitawa	33	3	15
+440792	3	0	Pink (3 Suits)	2021-02-18 — 09:32:06 UTC	catula, cockdestroyer, nitawa	44	3	15
+440791	3	15	White (3 Suits)	2021-02-18 — 09:25:25 UTC	catula, cockdestroyer, nitawa	45	3	15
+440784	3	20	Brown (4 Suits)	2021-02-18 — 09:14:29 UTC	catula, cockdestroyer, nitawa	31	4	20
+440776	2	0	Deceptive-Fives & Omni (4 Suits)	2021-02-18 — 09:01:30 UTC	catula, cockdestroyer	1	4	20
+439882	4	25	White-Ones & Rainbow (5 Suits)	2021-02-17 — 11:47:25 UTC	catula, nitawa, Sucubis, wump	2	5	25
+439874	4	0	White-Ones & Rainbow (5 Suits)	2021-02-17 — 11:21:25 UTC	catula, nitawa, Sucubis, wump	3	5	25
+439864	4	0	White-Ones & Rainbow (5 Suits)	2021-02-17 — 11:09:00 UTC	catula, nitawa, Sucubis, wump	5	5	25
+439858	4	0	White-Ones & Rainbow (5 Suits)	2021-02-17 — 11:01:11 UTC	catula, nitawa, Sucubis, wump	6	5	25
+439857	4	0	Rainbow-Fives & Black (6 Suits)	2021-02-17 — 10:58:17 UTC	catula, cockdestroyer, TheDaniMan, Wittvector	1	6	30
+439852	4	28	Rainbow-Fives & Black (6 Suits)	2021-02-17 — 10:49:10 UTC	catula, cockdestroyer, TheDaniMan, Wittvector	1	6	30
+439845	4	29	Rainbow-Fives & Black (6 Suits)	2021-02-17 — 10:18:57 UTC	catula, cockdestroyer, TheDaniMan, Wittvector	1	6	30
+439839	4	29	Rainbow-Fives & Black (6 Suits)	2021-02-17 — 09:53:38 UTC	catula, cockdestroyer, TheDaniMan, Wittvector	1	6	30
+439836	4	0	Rainbow-Fives & Black (6 Suits)	2021-02-17 — 09:28:49 UTC	catula, cockdestroyer, TheDaniMan, Wittvector	1	6	30
+439061	4	19	Rainbow (4 Suits)	2021-02-16 — 10:44:59 UTC	catula, cockdestroyer, nitawa, Nitrate2	17	4	20
+439051	4	0	Rainbow (4 Suits)	2021-02-16 — 10:25:24 UTC	catula, cockdestroyer, nitawa, Nitrate2	17	4	20
+439049	4	0	Rainbow (4 Suits)	2021-02-16 — 10:21:52 UTC	catula, cockdestroyer, nitawa, Nitrate2	19	4	20
+439043	3	0	Light Pink (5 Suits)	2021-02-16 — 10:08:58 UTC	catula, cockdestroyer, nitawa	23	5	25
+439034	3	29	Rainbow (6 Suits)	2021-02-16 — 09:51:57 UTC	BraydonM, catula, DarthGandalf	282	6	30
+438031	4	30	Pink & Prism (6 Suits)	2021-02-15 — 12:19:29 UTC	catula, ChristopheAF, frosty104, katian	8	6	30
+438021	4	0	Pink & Omni (6 Suits)	2021-02-15 — 11:48:00 UTC	catula, ChristopheAF, cockdestroyer, frosty104	7	6	30
+438008	5	28	Rainbow & Pink (6 Suits)	2021-02-15 — 11:15:31 UTC	catula, ChristopheAF, cockdestroyer, frosty104, Pablo-	7	6	30
+437957	2	29	Black (6 Suits)	2021-02-15 — 08:54:38 UTC	catula, robense	112	6	30
+437952	2	25	Dark Prism (5 Suits)	2021-02-15 — 08:42:06 UTC	catula, robense	40	5	25
+436728	2	23	Black (6 Suits)	2021-02-14 — 09:39:17 UTC	Animex52, catula	115	6	30
+436409	5	24	Muddy Rainbow (5 Suits)	2021-02-14 — 04:10:18 UTC	catula, eljavi, griff77, ksfortson, ricardodd	14	5	25
+435660	5	30	Muddy Rainbow (6 Suits)	2021-02-13 — 11:35:35 UTC	antitelharsic, catula, nitawa, Pablo-, rachyrules	11	6	30
+435655	4	0	Muddy Rainbow (6 Suits)	2021-02-13 — 11:06:40 UTC	antitelharsic, catula, nitawa, Pablo-	4	6	30
+435650	4	0	Muddy Rainbow (6 Suits)	2021-02-13 — 11:04:23 UTC	antitelharsic, catula, nitawa, Pablo-	6	6	30
+435630	3	30	Black (6 Suits)	2021-02-13 — 10:36:35 UTC	antitelharsic, catula, wump	74	6	30
+435612	3	0	Black (6 Suits)	2021-02-13 — 10:03:18 UTC	antitelharsic, catula, cockdestroyer	80	6	30
+435604	3	0	Black (6 Suits)	2021-02-13 — 09:42:22 UTC	antitelharsic, catula, cockdestroyer	83	6	30
+435597	3	0	Black (6 Suits)	2021-02-13 — 09:27:49 UTC	antitelharsic, catula, cockdestroyer	95	6	30
+435592	3	0	Black (6 Suits)	2021-02-13 — 09:14:27 UTC	antitelharsic, catula, cockdestroyer	119	6	30
+435590	3	0	Black (6 Suits)	2021-02-13 — 09:11:08 UTC	antitelharsic, catula, nitawa	125	6	30
+435517	5	0	Brown-Fives & Rainbow (5 Suits)	2021-02-13 — 06:57:35 UTC	catula, duckless, frosty104, indego, wortel	1	5	25
+435496	5	0	Brown-Fives & Rainbow (5 Suits)	2021-02-13 — 06:38:57 UTC	catula, duckless, frosty104, indego, wortel	1	5	25
+435481	5	0	Brown-Fives & Rainbow (5 Suits)	2021-02-13 — 06:29:01 UTC	catula, duckless, frosty104, indego, wortel	1	5	25
+435444	2	24	Black (6 Suits)	2021-02-13 — 06:04:17 UTC	catula, dobi	116	6	30
+435050	3	20	Black & Brown (5 Suits)	2021-02-13 — 02:08:56 UTC	catula, Lanvin, Sucubis	9	5	25
+435024	3	0	Black & Brown (5 Suits)	2021-02-13 — 01:55:00 UTC	catula, Lanvin, Sucubis	10	5	25
+435016	3	0	Black & Brown (5 Suits)	2021-02-13 — 01:49:19 UTC	catula, Lanvin, Sucubis	11	5	25
+434991	3	0	Black & Brown (5 Suits)	2021-02-13 — 01:33:56 UTC	catula, Lanvin, Sucubis	14	5	25
+434375	4	25	Brown-Ones & Gray (5 Suits)	2021-02-12 — 11:42:18 UTC	catula, jack67889, nitawa, Pablo-	1	5	25
+434367	4	23	Brown-Ones & Gray (5 Suits)	2021-02-12 — 11:25:51 UTC	catula, jack67889, nitawa, Pablo-	1	5	25
+434358	4	22	Brown-Ones & Gray (5 Suits)	2021-02-12 — 11:02:44 UTC	catula, jack67889, nitawa, Pablo-	2	5	25
+434351	4	30	Dark Rainbow Reversed (6 Suits)	2021-02-12 — 10:36:15 UTC	catula, jack67889, nitawa, Pablo-	6	6	30
+434341	2	27	Black (6 Suits)	2021-02-12 — 10:06:16 UTC	catula, nitawa	79	6	30
+433274	2	0	Black (6 Suits)	2021-02-11 — 11:37:22 UTC	Animex52, catula	122	6	30
+433261	2	27	Black (6 Suits)	2021-02-11 — 11:08:35 UTC	Animex52, catula	123	6	30
+433250	2	30	Black (6 Suits)	2021-02-11 — 10:47:44 UTC	Animex52, catula	133	6	30
+433247	2	0	Black (6 Suits)	2021-02-11 — 10:30:19 UTC	Animex52, catula	135	6	30
+433245	2	0	Black (6 Suits)	2021-02-11 — 10:16:32 UTC	Animex52, catula	136	6	30
+433240	5	0	White (6 Suits)	2021-02-11 — 09:57:13 UTC	catula, Denchulitas, frosty104, sephiroth, Wittvector	6	6	30
+432168	2	28	Black (6 Suits)	2021-02-10 — 12:39:33 UTC	Animex52, catula	137	6	30
+432164	2	0	Black (6 Suits)	2021-02-10 — 12:25:28 UTC	Animex52, catula	144	6	30
+432161	2	0	Black (6 Suits)	2021-02-10 — 12:16:38 UTC	Animex52, catula	152	6	30
+432159	2	0	Black (6 Suits)	2021-02-10 — 12:04:37 UTC	Animex52, catula	153	6	30
+432158	2	0	Black (6 Suits)	2021-02-10 — 11:58:24 UTC	Animex52, catula	157	6	30
+432155	2	0	Black (6 Suits)	2021-02-10 — 11:50:35 UTC	Animex52, catula	157	6	30
+432151	2	28	Black (6 Suits)	2021-02-10 — 11:46:03 UTC	Animex52, catula	165	6	30
+432141	2	28	Black (6 Suits)	2021-02-10 — 11:25:38 UTC	Animex52, catula	167	6	30
+432134	2	0	Black (6 Suits)	2021-02-10 — 11:14:33 UTC	Animex52, catula	221	6	30
+432122	3	22	Dark Prism (5 Suits)	2021-02-10 — 11:02:00 UTC	catula, nitawa, Sucubis	26	5	25
+432104	2	0	Black (6 Suits)	2021-02-10 — 10:35:18 UTC	catula, nitawa	89	6	30
+432019	2	24	Black (6 Suits)	2021-02-10 — 08:43:54 UTC	catula, nitawa	90	6	30
+430981	2	27	Black (6 Suits)	2021-02-09 — 13:04:01 UTC	Animex52, catula	294	6	30
+430975	2	21	Black (6 Suits)	2021-02-09 — 12:43:25 UTC	Animex52, catula	300	6	30
+430969	3	0	Black (6 Suits)	2021-02-09 — 12:12:03 UTC	catula, melwen, skyblueexo	8	6	30
+430965	3	0	Dark Prism (5 Suits)	2021-02-09 — 11:46:38 UTC	catula, melwen, skyblueexo	12	5	25
+429850	6	30	White-Ones & Brown (6 Suits)	2021-02-08 — 12:59:14 UTC	Animex52, catula, Lanvin, nitawa, Pablo-, Sucubis	1	6	30
+429833	6	0	White-Ones & Brown (6 Suits)	2021-02-08 — 12:30:16 UTC	Animex52, catula, Lanvin, nitawa, Pablo-, Sucubis	1	6	30
+429829	6	0	White-Ones & Brown (6 Suits)	2021-02-08 — 12:19:09 UTC	Animex52, catula, Lanvin, nitawa, Pablo-, Sucubis	2	6	30
+429825	5	24	White & Prism (5 Suits)	2021-02-08 — 11:52:09 UTC	CaitlinSmith, catula, eliclax, gchang02, Lanvin	4	5	25
+428882	3	30	6 Suits	2021-02-07 — 11:32:17 UTC	catula, nitawa, Sucubis	70	6	30
+428870	3	0	6 Suits	2021-02-07 — 11:05:46 UTC	catula, nitawa, Sucubis	76	6	30
+428860	2	0	Black (6 Suits)	2021-02-07 — 10:54:29 UTC	catula, nitawa	179	6	30
+428852	6	0	Light Pink & Dark Rainbow (6 Suits)	2021-02-07 — 10:42:53 UTC	Asddsa76, catula, Floriman, indego, Lel0uch, sephiroth	1	6	30
+428846	6	0	Light Pink & Dark Rainbow (6 Suits)	2021-02-07 — 10:28:29 UTC	Asddsa76, catula, Floriman, indego, Lel0uch, sephiroth	1	6	30
+425237	2	29	Black (6 Suits)	2021-02-04 — 11:07:40 UTC	catula, nitawa	214	6	30
+425224	4	23	White & Prism (5 Suits)	2021-02-04 — 10:43:31 UTC	Asddsa76, catula, TimeHoodie, Wittvector	14	5	25
+425206	4	0	White (5 Suits)	2021-02-04 — 10:08:36 UTC	Asddsa76, catula, TimeHoodie, Wittvector	12	5	25
+425202	5	27	Rainbow & Gray (6 Suits)	2021-02-04 — 09:30:32 UTC	4head, Asddsa76, catula, louietyj, Pimak	5	6	30
+423952	2	23	Black (6 Suits)	2021-02-03 — 11:49:21 UTC	Animex52, catula	325	6	30
+423943	2	26	Black (6 Suits)	2021-02-03 — 11:16:40 UTC	Animex52, catula	350	6	30
+423941	2	25	No Variant	2021-02-03 — 10:54:31 UTC	Animex52, catula	249	5	25
+423939	2	0	No Variant	2021-02-03 — 10:26:43 UTC	Animex52, catula	292	5	25
+422954	2	28	Black (6 Suits)	2021-02-02 — 12:32:16 UTC	Animex52, catula	391	6	30
+422948	2	27	Black (6 Suits)	2021-02-02 — 12:08:37 UTC	Animex52, catula	442	6	30
+422937	4	0	Brown & Prism (5 Suits)	2021-02-02 — 11:46:41 UTC	Animex52, catula, methmatics, Sucubis	11	5	25
+422930	4	28	Dark Prism (6 Suits)	2021-02-02 — 11:24:52 UTC	Animex52, catula, methmatics, Sucubis	14	6	30
+422919	3	0	Brown (6 Suits)	2021-02-02 — 10:56:36 UTC	Animex52, catula, nitawa	52	6	30
+422895	2	23	No Variant	2021-02-02 — 10:19:23 UTC	Animex52, catula	302	5	25
+422885	2	0	No Variant	2021-02-02 — 10:01:06 UTC	Animex52, catula	308	5	25
+422881	3	22	Black (5 Suits)	2021-02-02 — 09:47:15 UTC	CaitlinSmith, catula, Denchulitas	55	5	25
+422070	4	30	Black (6 Suits)	2021-02-01 — 12:03:51 UTC	boba, catula, cockdestroyer, Sucubis	67	6	30
+422066	4	0	Black (6 Suits)	2021-02-01 — 11:41:34 UTC	boba, catula, cockdestroyer, Sucubis	71	6	30
+422065	3	21	Rainbow & Cocoa Rainbow (5 Suits)	2021-02-01 — 11:34:28 UTC	catula, cockdestroyer, Sucubis	2	5	25
+422057	3	0	Rainbow & Cocoa Rainbow (5 Suits)	2021-02-01 — 11:12:46 UTC	catula, cockdestroyer, Sucubis	3	5	25
+422051	4	0	Rainbow & Cocoa Rainbow (6 Suits)	2021-02-01 — 10:55:22 UTC	asaelr, catula, cockdestroyer, Sucubis	6	6	30
+422046	4	0	Rainbow & Cocoa Rainbow (5 Suits)	2021-02-01 — 10:44:27 UTC	catula, derekcheah, sephiroth, Sucubis	2	5	25
+421029	5	25	Rainbow-Ones & Rainbow (5 Suits)	2021-01-31 — 11:47:36 UTC	catula, hakha3, Lanvin, Lel0uch, sephiroth	1	5	25
+421023	5	24	Rainbow-Ones & Rainbow (5 Suits)	2021-01-31 — 11:27:32 UTC	bbBgone, catula, hakha3, jack67889, Lel0uch	1	5	25
+421019	4	0	Rainbow-Ones & Rainbow (5 Suits)	2021-01-31 — 11:09:06 UTC	bbBgone, catula, hakha3, Lel0uch	4	5	25
+421012	3	24	No Variant	2021-01-31 — 10:30:16 UTC	Apathetic, catula, possum	223	5	25
+420373	5	24	Brown-Ones & Rainbow (5 Suits)	2021-01-31 — 01:05:06 UTC	catula, dobi, Lanvin, poofart123, Sucubis	1	5	25
+420357	4	0	Black & Prism (5 Suits)	2021-01-31 — 00:44:24 UTC	catula, dobi, Lanvin, Sucubis	1	5	25
+420353	6	0	No Variant	2021-01-31 — 00:37:19 UTC	4head, catula, InflatableKayak, Lanvin, sephiroth, Sucubis	2	5	25
+420345	6	24	No Variant	2021-01-31 — 00:30:53 UTC	4head, catula, InflatableKayak, Lanvin, sephiroth, Sucubis	2	5	25
+420323	5	0	Rainbow (5 Suits)	2021-01-31 — 00:04:43 UTC	4head, antitelharsic, catula, Lanvin, Sucubis	13	5	25
+419478	3	0	Black & Pink (6 Suits)	2021-01-30 — 04:16:47 UTC	catula, Lel0uch, scharkbite	12	6	30
+419427	3	28	Black & Pink (6 Suits)	2021-01-30 — 03:51:51 UTC	catula, Lel0uch, scharkbite	12	6	30
+417536	3	0	Rainbow-Fives & Dark Brown (6 Suits)	2021-01-28 — 12:30:10 UTC	catula, Lanvin, Plum	1	6	30
+417530	3	0	Rainbow-Fives & Dark Brown (6 Suits)	2021-01-28 — 12:18:52 UTC	catula, Lanvin, Plum	2	6	30
+417517	3	25	White (5 Suits)	2021-01-28 — 11:15:52 UTC	catula, eliclax, gchang02	61	5	25
+417434	4	0	Black (6 Suits)	2021-01-28 — 09:09:49 UTC	catula, derekcheah, dobi, Lel0uch	112	6	30
+417432	4	0	Black (6 Suits)	2021-01-28 — 08:47:03 UTC	catula, derekcheah, dobi, Lel0uch	175	6	30
+417424	4	0	Pink-Fives & Dark Prism (5 Suits)	2021-01-28 — 08:24:43 UTC	catula, derekcheah, dobi, Lel0uch	1	5	25
+417421	4	0	Pink-Fives & Dark Prism (5 Suits)	2021-01-28 — 08:19:02 UTC	catula, derekcheah, dobi, Lel0uch	2	5	25
+416329	5	24	White-Ones & Brown (5 Suits)	2021-01-27 — 12:11:51 UTC	catula, jack67889, robense, Sucubis, TimeHoodie	2	5	25
+416324	3	18	White-Ones & Brown (4 Suits)	2021-01-27 — 11:48:39 UTC	catula, jack67889, Sucubis	2	4	20
+416321	3	0	Pink-Ones & Dark Prism (6 Suits)	2021-01-27 — 11:30:40 UTC	catula, jack67889, Pablo-	2	6	30
+416317	4	23	No Variant	2021-01-27 — 10:54:42 UTC	catula, Denchulitas, eliclax, possum	204	5	25
+415348	5	24	White-Fives & Muddy Rainbow (5 Suits)	2021-01-26 — 09:14:23 UTC	antitelharsic, catula, dobi, sephiroth, VerySloppyTwo	1	5	25
+415340	4	0	White-Fives & Muddy Rainbow (5 Suits)	2021-01-26 — 08:45:15 UTC	antitelharsic, catula, dobi, sephiroth	1	5	25
+415332	3	23	No Variant	2021-01-26 — 08:22:55 UTC	catula, caña, Spieler42	187	5	25
+414555	3	0	Duck (6 Suits)	2021-01-25 — 14:12:12 UTC	Animex52, boba, catula	17	6	30
+414493	5	0	White-Ones & Gray Pink (5 Suits)	2021-01-25 — 11:04:11 UTC	catula, indego, Lel0uch, sephiroth, Wittvector	1	5	25
+414490	5	0	White-Ones & Gray Pink (5 Suits)	2021-01-25 — 10:53:03 UTC	catula, indego, Lel0uch, sephiroth, Wittvector	1	5	25
+414489	3	25	Pink-Ones & Dark Omni (5 Suits)	2021-01-25 — 10:30:08 UTC	catula, indego, Lel0uch	1	5	25
+414486	2	0	Gray (5 Suits)	2021-01-25 — 09:59:26 UTC	catula, Lel0uch	21	5	25
+414485	2	0	Gray (5 Suits)	2021-01-25 — 09:52:00 UTC	catula, Lel0uch	25	5	25
+414480	2	0	Gray (5 Suits)	2021-01-25 — 09:44:15 UTC	catula, Lel0uch	25	5	25
+413516	5	0	No Variant	2021-01-24 — 13:14:06 UTC	Animex52, boba, catula, Denchulitas, katian	20	5	25
+413508	4	23	Rainbow (5 Suits)	2021-01-24 — 12:55:58 UTC	Animex52, boba, catula, katian	63	5	25
+413434	4	22	Cocoa Rainbow (5 Suits)	2021-01-24 — 08:41:09 UTC	Animex52, boba, catula, nitawa	8	5	25
+413426	4	0	Cocoa Rainbow (5 Suits)	2021-01-24 — 08:17:21 UTC	Animex52, boba, catula, nitawa	10	5	25
+413423	4	0	Cocoa Rainbow (5 Suits)	2021-01-24 — 08:01:48 UTC	Animex52, boba, catula, Dwu123	14	5	25
+413413	3	0	Cocoa Rainbow (6 Suits)	2021-01-24 — 07:46:02 UTC	Animex52, boba, catula	32	6	30
+411917	3	25	Prism (5 Suits)	2021-01-23 — 03:29:59 UTC	catula, lolthisnotderk, otterful	14	5	25
+411775	3	0	Brown (4 Suits)	2021-01-23 — 01:05:21 UTC	antitelharsic, catula, XMIL	47	4	20
+411763	3	23	No Variant	2021-01-23 — 00:45:56 UTC	catula, Donitutasu, jian01	213	5	25
+411322	6	26	Black (6 Suits)	2021-01-22 — 12:39:36 UTC	ArualEIs, catula, Denchulitas, Lanvin, melwen, Spieler42	1	6	30
+411311	3	26	6 Suits	2021-01-22 — 11:57:54 UTC	catula, Denchulitas, sephiroth	147	6	30
+410416	3	25	Muddy Rainbow (5 Suits)	2021-01-21 — 09:23:14 UTC	Animex52, boba, catula	37	5	25
+408529	3	0	Pink-Fives (5 Suits)	2021-01-19 — 10:40:13 UTC	catula, Pimak, skyblueexo	9	5	25
+408517	3	0	Pink-Ones (5 Suits)	2021-01-19 — 10:09:19 UTC	catula, Pimak, skyblueexo	6	5	25
+407363	4	25	No Variant	2021-01-18 — 12:11:51 UTC	Animex52, catula, louietyj, nitawa	48	5	25
+407180	4	29	Dual-Color & Rainbow (6 Suits)	2021-01-18 — 08:20:21 UTC	4head, catula, indego, Lel0uch	12	6	30
+407167	3	0	Dual-Color & Rainbow (6 Suits)	2021-01-18 — 07:47:36 UTC	4head, catula, Lel0uch	24	6	30
+406292	3	23	Prism (5 Suits)	2021-01-17 — 11:41:45 UTC	CaitlinSmith, catula, Wittvector	19	5	25
+406285	3	0	Prism (5 Suits)	2021-01-17 — 11:12:09 UTC	CaitlinSmith, catula, Wittvector	45	5	25
+405155	3	0	Pink (5 Suits)	2021-01-16 — 13:20:55 UTC	catula, Lanvin, nitawa	12	5	25
+405147	3	0	Pink (5 Suits)	2021-01-16 — 13:00:18 UTC	catula, Lanvin, nitawa	20	5	25
+405139	3	24	Pink (5 Suits)	2021-01-16 — 12:41:56 UTC	catula, Lanvin, nitawa	49	5	25
+405132	3	25	Pink (5 Suits)	2021-01-16 — 12:12:17 UTC	catula, nitawa, Sucubis	23	5	25
+405124	6	25	No Variant	2021-01-16 — 11:34:17 UTC	CaitlinSmith, catula, derekcheah, Div, sephiroth, TheDaniMan	3	5	25
+405018	4	0	White & Dark Omni (5 Suits)	2021-01-16 — 07:24:24 UTC	catula, derekcheah, Fireheart, indego	3	5	25
+405003	4	0	White & Dark Omni (5 Suits)	2021-01-16 — 07:05:57 UTC	catula, derekcheah, Fireheart, indego	5	5	25
+404979	3	23	Rainbow & Prism (5 Suits)	2021-01-16 — 06:40:00 UTC	catula, derekcheah, Fireheart	26	5	25
+404959	2	25	Cocoa Rainbow (5 Suits)	2021-01-16 — 06:18:20 UTC	catula, derekcheah	40	5	25
+404945	2	0	Cocoa Rainbow (5 Suits)	2021-01-16 — 06:07:50 UTC	catula, derekcheah	50	5	25
+403952	6	0	Black & White (5 Suits)	2021-01-15 — 11:45:08 UTC	catula, indego, Lel0uch, sephiroth, Sucubis, Wittvector	3	5	25
+403950	6	23	Black & White (5 Suits)	2021-01-15 — 11:38:04 UTC	catula, indego, Lel0uch, sephiroth, Sucubis, Wittvector	3	5	25
+403943	5	21	Black & White (5 Suits)	2021-01-15 — 11:14:38 UTC	catula, Fey, sephiroth, Sucubis, Wittvector	4	5	25
+403933	5	21	Black & White (5 Suits)	2021-01-15 — 10:48:50 UTC	catula, Fey, sephiroth, Sucubis, Wittvector	4	5	25
+403924	2	29	Prism (6 Suits)	2021-01-15 — 10:18:06 UTC	catula, Fey	10	6	30
+403921	2	0	Prism (6 Suits)	2021-01-15 — 10:06:39 UTC	catula, Fey	10	6	30
+403919	2	0	Prism (6 Suits)	2021-01-15 — 10:03:26 UTC	catula, Fey	11	6	30
+403839	4	22	Gray (5 Suits)	2021-01-15 — 07:46:27 UTC	antitelharsic, catula, cockdestroyer, XMIL	9	5	25
+403819	4	0	Gray (5 Suits)	2021-01-15 — 07:23:26 UTC	antitelharsic, catula, cockdestroyer, XMIL	12	5	25
+403815	4	0	Gray (5 Suits)	2021-01-15 — 07:20:46 UTC	antitelharsic, catula, cockdestroyer, XMIL	12	5	25
+403802	4	21	Gray (5 Suits)	2021-01-15 — 07:08:32 UTC	antitelharsic, catula, cockdestroyer, XMIL	13	5	25
+403782	4	0	Gray (5 Suits)	2021-01-15 — 06:41:36 UTC	antitelharsic, catula, cockdestroyer, XMIL	33	5	25
+403764	3	25	White (5 Suits)	2021-01-15 — 06:15:18 UTC	antitelharsic, catula, XMIL	5	5	25
+403733	3	0	White (5 Suits)	2021-01-15 — 05:36:43 UTC	catula, Stinkydude63, XMIL	7	5	25
+402968	3	24	White (5 Suits)	2021-01-14 — 12:11:20 UTC	catula, Denchulitas, Lel0uch	81	5	25
+402958	4	22	White (5 Suits)	2021-01-14 — 11:16:05 UTC	catula, Denchulitas, macanek, Pimak	46	5	25
+402891	3	30	Cocoa Rainbow (6 Suits)	2021-01-14 — 08:12:21 UTC	catula, derekcheah, Lel0uch	5	6	30
+402886	3	0	Cocoa Rainbow (6 Suits)	2021-01-14 — 07:56:36 UTC	catula, derekcheah, Lel0uch	5	6	30
+402881	3	29	Cocoa Rainbow (6 Suits)	2021-01-14 — 07:43:07 UTC	catula, derekcheah, Lel0uch	5	6	30
+402868	3	0	Cocoa Rainbow (6 Suits)	2021-01-14 — 07:17:29 UTC	catula, derekcheah, Lel0uch	5	6	30
+402858	3	0	Cocoa Rainbow (6 Suits)	2021-01-14 — 07:03:22 UTC	catula, derekcheah, Lel0uch	5	6	30
+402856	3	0	Cocoa Rainbow (6 Suits)	2021-01-14 — 06:58:08 UTC	catula, derekcheah, Lel0uch	5	6	30
+402592	4	0	Dual-Color Mix	2021-01-14 — 02:06:35 UTC	Animex52, boba, catula, newduke	12	6	30
+402577	4	0	Dual-Color Mix	2021-01-14 — 01:44:42 UTC	Animex52, boba, catula, newduke	18	6	30
+401985	6	23	Black (5 Suits)	2021-01-13 — 13:02:28 UTC	boba, catula, hakha3, jack67889, Lel0uch, Sucubis	8	5	25
+401984	6	22	Black (5 Suits)	2021-01-13 — 12:42:23 UTC	boba, catula, hakha3, jack67889, Lel0uch, Sucubis	9	5	25
+401975	4	0	Black & Prism (5 Suits)	2021-01-13 — 12:22:17 UTC	boba, catula, Lel0uch, Sucubis	1	5	25
+401973	4	0	Black & Prism (5 Suits)	2021-01-13 — 12:15:22 UTC	boba, catula, Lel0uch, Sucubis	10	5	25
+401968	4	0	Black & Prism (5 Suits)	2021-01-13 — 12:01:21 UTC	boba, catula, Lel0uch, Sucubis	11	5	25
+401944	4	0	Black (5 Suits)	2021-01-13 — 10:36:47 UTC	catula, frosty104, Pimak, Sucubis	5	5	25
+401884	3	25	Dual-Color (5 Suits)	2021-01-13 — 07:24:16 UTC	catula, derekcheah, Lel0uch	14	5	25
+394420	4	0	Dual-Color Mix	2021-01-06 — 11:39:35 UTC	catula, indego, Lel0uch, sephiroth	11	6	30
+394418	3	0	Dual-Color Mix	2021-01-06 — 11:28:15 UTC	catula, indego, Lel0uch	29	6	30
+394416	3	0	Dual-Color Mix	2021-01-06 — 11:24:12 UTC	catula, indego, Lel0uch	33	6	30
+394410	3	0	Dual-Color Mix	2021-01-06 — 11:09:09 UTC	catula, indego, Lel0uch	42	6	30
+394406	4	18	4 Suits	2021-01-06 — 10:39:20 UTC	ArualEIs, catula, Lel0uch, rahsosprout	38	4	20
+394328	4	0	Dual-Color Mix	2021-01-06 — 06:50:12 UTC	bjnh, catula, doctorabi, pianoblook	20	6	30
+393387	5	24	Deceptive-Fives (5 Suits)	2021-01-05 — 12:15:55 UTC	catula, indego, jack67889, methmatics, sephiroth	3	5	25
+393381	3	25	Deceptive-Ones (5 Suits)	2021-01-05 — 11:46:30 UTC	catula, jack67889, methmatics	2	5	25
+393351	3	23	No Variant	2021-01-05 — 11:11:38 UTC	catula, lanxeny, methmatics	148	5	25
+393315	5	24	No Variant	2021-01-05 — 10:38:52 UTC	catula, katian, lanxeny, methmatics, Wittvector	60	5	25
+392430	4	23	Duck (5 Suits)	2021-01-04 — 12:12:12 UTC	Animex52, boba, catula, Lel0uch	5	5	25
+392423	3	25	White Reversed (5 Suits)	2021-01-04 — 11:38:38 UTC	Animex52, catula, sephiroth	14	5	25
+392411	2	0	White Reversed (6 Suits)	2021-01-04 — 11:09:09 UTC	Animex52, catula	44	6	30
+392408	2	0	White Reversed (6 Suits)	2021-01-04 — 10:57:34 UTC	Animex52, catula	49	6	30
+391436	5	23	Prism Reversed (5 Suits)	2021-01-03 — 13:58:13 UTC	Animex52, catula, Lanvin, methmatics, nitawa	3	5	25
+391422	4	0	Prism Reversed (5 Suits)	2021-01-03 — 13:22:57 UTC	Animex52, catula, Lanvin, nitawa	2	5	25
+391418	2	0	Black & White (6 Suits)	2021-01-03 — 12:51:17 UTC	catula, Lel0uch	41	6	30
+391414	2	0	Black & White (6 Suits)	2021-01-03 — 12:40:10 UTC	catula, Lel0uch	45	6	30
+391411	2	0	Black & White (6 Suits)	2021-01-03 — 12:32:56 UTC	catula, Lel0uch	46	6	30
+391410	2	0	Black & White (6 Suits)	2021-01-03 — 12:30:51 UTC	catula, Lel0uch	46	6	30
+391409	2	20	Pink & White (4 Suits)	2021-01-03 — 12:16:41 UTC	catula, Lel0uch	21	4	20
+390284	3	20	Dark Rainbow (5 Suits)	2021-01-02 — 13:40:57 UTC	catula, Kernel, Lanvin	31	5	25
+390278	3	22	Dark Rainbow (5 Suits)	2021-01-02 — 13:07:57 UTC	catula, Kernel, Lanvin	35	5	25
+390266	2	0	Rainbow (5 Suits)	2021-01-02 — 12:38:39 UTC	catula, Kernel	248	5	25
+390175	3	0	Dark Rainbow (5 Suits)	2021-01-02 — 08:39:34 UTC	catula, sephiroth, VerySloppyTwo	29	5	25
+390158	3	0	Dark Rainbow (5 Suits)	2021-01-02 — 08:15:05 UTC	catula, sephiroth, VerySloppyTwo	48	5	25
+389334	3	23	White & Brown (5 Suits)	2021-01-01 — 15:10:33 UTC	catula, hakha3, Lanvin	15	5	25
+389323	3	0	White & Brown (5 Suits)	2021-01-01 — 14:48:28 UTC	catula, hakha3, Lanvin	23	5	25
+389268	4	24	Dark Omni (5 Suits)	2021-01-01 — 12:13:45 UTC	catula, frosty104, Lel0uch, ricardodd	7	5	25
+389011	5	0	White (5 Suits)	2021-01-01 — 07:23:00 UTC	antitelharsic, catula, sin_faith, wump, XMIL	6	5	25
+388983	6	0	Muddy-Rainbow-Ones & Pink (5 Suits)	2021-01-01 — 06:55:53 UTC	Animex52, antitelharsic, catula, derekcheah, sin_faith, XMIL	1	5	25
+388970	6	25	White-Ones & Brown (5 Suits)	2021-01-01 — 06:32:10 UTC	Animex52, antitelharsic, catula, derekcheah, sin_faith, XMIL	2	5	25
+388937	5	22	No Variant	2021-01-01 — 05:44:45 UTC	antitelharsic, catula, cockdestroyer, methmatics, XMIL	23	5	25
+387658	5	0	Prism (5 Suits)	2020-12-31 — 00:40:21 UTC	boba, catula, oliana, Pablo-, tezeteta	10	5	25
+387209	5	26	Black & Rainbow (6 Suits)	2020-12-30 — 12:35:02 UTC	catula, macanek, Pablo-, sephiroth, VerySloppyTwo	5	6	30
+387187	5	0	Prism (6 Suits)	2020-12-30 — 10:28:44 UTC	catula, frosty104, iamfelix, indego, katian	11	6	30
+386116	3	28	Dark Prism (6 Suits)	2020-12-29 — 13:35:58 UTC	catula, Lanvin, sephiroth	6	6	30
+386083	3	0	Special Mix (5 Suits)	2020-12-29 — 12:59:55 UTC	catula, katian, Lanvin	48	5	25
+386063	3	24	Dark Brown (5 Suits)	2020-12-29 — 12:35:17 UTC	catula, katian, Lanvin	17	5	25
+386048	5	24	Rainbow & Brown (5 Suits)	2020-12-29 — 11:49:58 UTC	catula, jack67889, macanek, methmatics, Pablo-	6	5	25
+386031	3	25	No Variant	2020-12-29 — 10:57:56 UTC	catula, Ecojunky, Pablo-	93	5	25
+386018	3	25	Brown-Fives (5 Suits)	2020-12-29 — 10:26:29 UTC	asaelr, catula, Pablo-	5	5	25
+385753	3	25	No Variant	2020-12-29 — 04:05:12 UTC	bjnh, catula, XMIL	31	5	25
+384925	5	0	Rainbow & Prism (6 Suits)	2020-12-28 — 11:50:19 UTC	catula, indego, sephiroth, StKildaFan, Sucubis	4	6	30
+384920	5	0	Rainbow & Prism (6 Suits)	2020-12-28 — 11:29:17 UTC	catula, indego, sephiroth, StKildaFan, Sucubis	7	6	30
+384918	4	0	Rainbow & Prism (6 Suits)	2020-12-28 — 11:07:35 UTC	boba, catula, indego, sephiroth	16	6	30
+384840	4	22	Rainbow (5 Suits)	2020-12-28 — 07:12:18 UTC	catula, eljavi, micerang, XMIL	2	5	25
+384807	4	0	Rainbow (5 Suits)	2020-12-28 — 06:36:41 UTC	catula, eljavi, micerang, XMIL	2	5	25
+384777	4	23	Rainbow (5 Suits)	2020-12-28 — 06:11:33 UTC	catula, eljavi, micerang, XMIL	2	5	25
+384749	4	22	Rainbow (5 Suits)	2020-12-28 — 05:43:36 UTC	catula, eljavi, micerang, XMIL	2	5	25
+384726	3	0	Rainbow (5 Suits)	2020-12-28 — 05:23:43 UTC	catula, eljavi, XMIL	43	5	25
+383881	5	0	Dark Brown (6 Suits)	2020-12-27 — 13:22:50 UTC	asaelr, catula, Lanvin, sephiroth, Wittvector	5	6	30
+383875	5	0	Dark Brown (6 Suits)	2020-12-27 — 12:50:29 UTC	asaelr, catula, Lanvin, sephiroth, Wittvector	8	6	30
+383871	6	29	Pink (6 Suits)	2020-12-27 — 12:19:48 UTC	catula, hakha3, IAMJEFF, Lanvin, Lel0uch, sin_faith	2	6	30
+383868	6	0	Pink (6 Suits)	2020-12-27 — 11:58:42 UTC	catula, hakha3, IAMJEFF, Lanvin, Lel0uch, sin_faith	2	6	30
+383866	6	0	Pink (6 Suits)	2020-12-27 — 11:52:07 UTC	catula, hakha3, IAMJEFF, Lanvin, Lel0uch, sin_faith	3	6	30
+383858	5	29	White (6 Suits)	2020-12-27 — 11:05:18 UTC	catula, frosty104, indego, Lel0uch, methmatics	14	6	30
+383766	5	23	Dark Brown (5 Suits)	2020-12-27 — 07:43:43 UTC	antitelharsic, catula, frosty104, katian, kevincaseytdk1	5	5	25
+383733	3	23	Dark Brown (5 Suits)	2020-12-27 — 07:16:05 UTC	catula, frosty104, kevincaseytdk1	18	5	25
+383653	3	20	No Variant	2020-12-27 — 05:59:59 UTC	bjnh, catula, stinebean	259	5	25
+383340	5	0	Dual-Color (5 Suits)	2020-12-27 — 01:30:02 UTC	catula, ejwu, Lanvin, moeski, orucsoraihc	7	5	25
+383287	6	29	White & Prism (6 Suits)	2020-12-27 — 00:46:16 UTC	catula, ejwu, IsabeltheCat, Lanvin, moeski, orucsoraihc	3	6	30
+383251	4	0	White & Prism (6 Suits)	2020-12-27 — 00:05:36 UTC	catula, IsabeltheCat, Lanvin, orucsoraihc	10	6	30
+382738	6	29	Dark Pink (6 Suits)	2020-12-26 — 13:53:08 UTC	catula, frosty104, katian, Lel0uch, sephiroth, Sucubis	3	6	30
+382731	3	22	Cocoa Rainbow (5 Suits)	2020-12-26 — 13:24:46 UTC	catula, nitawa, Sucubis	9	5	25
+382725	3	0	Cocoa Rainbow (5 Suits)	2020-12-26 — 13:02:18 UTC	catula, nitawa, Sucubis	8	5	25
+382724	3	0	Cocoa Rainbow (5 Suits)	2020-12-26 — 12:52:49 UTC	catula, nitawa, Sucubis	9	5	25
+382719	2	0	Pink (5 Suits)	2020-12-26 — 12:31:24 UTC	catula, nitawa	200	5	25
+382715	4	25	No Variant	2020-12-26 — 12:19:49 UTC	catula, macanek, oliana, StKildaFan	32	5	25
+382710	3	25	No Variant	2020-12-26 — 11:51:19 UTC	catula, macanek, oliana	269	5	25
+382706	2	15	Rainbow (3 Suits)	2020-12-26 — 11:34:42 UTC	catula, macanek	127	3	15
+382589	5	24	Rainbow (5 Suits)	2020-12-26 — 07:14:04 UTC	antitelharsic, catula, ejwu, methmatics, XMIL	17	5	25
+382564	5	0	Rainbow (5 Suits)	2020-12-26 — 06:38:13 UTC	antitelharsic, catula, ejwu, methmatics, XMIL	22	5	25
+382541	5	0	Black & Rainbow (6 Suits)	2020-12-26 — 06:09:05 UTC	antitelharsic, catula, ejwu, methmatics, XMIL	20	6	30
+382497	5	0	Pink-Ones & Rainbow (5 Suits)	2020-12-26 — 05:34:33 UTC	antitelharsic, catula, ejwu, methmatics, XMIL	2	5	25
+380847	2	0	Black (5 Suits)	2020-12-24 — 12:58:47 UTC	catula, Lel0uch	115	5	25
+380842	2	24	Black (5 Suits)	2020-12-24 — 12:51:41 UTC	catula, Lel0uch	124	5	25
+380836	2	0	Black (5 Suits)	2020-12-24 — 12:37:35 UTC	catula, Lel0uch	169	5	25
+380835	2	24	Black (5 Suits)	2020-12-24 — 12:31:09 UTC	catula, Lel0uch	219	5	25
+380833	2	22	Black (5 Suits)	2020-12-24 — 12:20:07 UTC	catula, Lel0uch	244	5	25
+379825	4	0	Brown & Gray (6 Suits)	2020-12-23 — 13:17:35 UTC	catula, doctorabi, nitawa, sephiroth	7	6	30
+379810	6	24	White-Fives (5 Suits)	2020-12-23 — 12:40:57 UTC	catula, doctorabi, jack67889, melwen, Pablo-, Sucubis	1	5	25
+379729	5	0	Dark Rainbow (6 Suits)	2020-12-23 — 08:26:05 UTC	catula, cockdestroyer, duckmedic, wump, XMIL	33	6	30
+378801	3	0	Pink & Brown (5 Suits)	2020-12-22 — 12:19:49 UTC	catula, nitawa, robense	22	5	25
+378798	3	0	Pink & Brown (5 Suits)	2020-12-22 — 12:10:11 UTC	catula, nitawa, robense	20	5	25
+378796	2	25	Brown & Prism (5 Suits)	2020-12-22 — 11:53:06 UTC	catula, robense	10	5	25
+378491	5	22	Dark Pink (5 Suits)	2020-12-22 — 05:24:14 UTC	catula, ejwu, Lanvin, vEnhance, XMIL	7	5	25
+378302	3	0	No Variant	2020-12-22 — 02:52:06 UTC	Animex52, catula, XMIL	41	5	25
+377756	5	0	Black & Prism (6 Suits)	2020-12-21 — 12:29:34 UTC	catula, doctorabi, jack67889, sin_faith, Sucubis	3	6	30
+377754	5	0	Black & Prism (6 Suits)	2020-12-21 — 12:16:26 UTC	catula, doctorabi, jack67889, sin_faith, Sucubis	3	6	30
+377753	5	0	Black & Prism (6 Suits)	2020-12-21 — 12:14:15 UTC	catula, doctorabi, jack67889, sin_faith, Sucubis	4	6	30
+377749	4	22	Black & Prism (5 Suits)	2020-12-21 — 11:57:37 UTC	catula, doctorabi, sin_faith, Sucubis	1	5	25
+377745	4	0	Black & Prism (5 Suits)	2020-12-21 — 11:34:20 UTC	catula, doctorabi, sin_faith, Sucubis	5	5	25
+377742	4	0	Black & Prism (5 Suits)	2020-12-21 — 11:04:09 UTC	catula, doctorabi, sin_faith, Sucubis	6	5	25
+377738	3	0	Black & Prism (5 Suits)	2020-12-21 — 10:38:40 UTC	catula, sin_faith, Sucubis	14	5	25
+377731	4	24	Black & Brown (5 Suits)	2020-12-21 — 10:09:34 UTC	catula, Nitrate2, sin_faith, Sucubis	3	5	25
+377724	4	0	Black & Brown (5 Suits)	2020-12-21 — 09:51:58 UTC	catula, Nitrate2, sin_faith, Sucubis	3	5	25
+377722	4	0	Black & Brown (5 Suits)	2020-12-21 — 09:49:44 UTC	catula, Nitrate2, sin_faith, Sucubis	5	5	25
+377717	3	24	No Variant	2020-12-21 — 09:33:14 UTC	catula, cockdestroyer, Nitrate2	106	5	25
+376763	4	28	Black & Brown (6 Suits)	2020-12-20 — 13:22:38 UTC	catula, hakha3, Plum, sephiroth	5	6	30
+376757	4	0	Black & Brown (6 Suits)	2020-12-20 — 12:52:11 UTC	catula, hakha3, Plum, sephiroth	9	6	30
+376753	4	0	Black & Brown (6 Suits)	2020-12-20 — 12:34:25 UTC	catula, Lanvin, Plum, sephiroth	9	6	30
+376554	4	25	Dark Prism (5 Suits)	2020-12-20 — 07:06:48 UTC	catula, derekcheah, sin_faith, will.i.am	8	5	25
+376540	4	0	Dark Prism (5 Suits)	2020-12-20 — 06:49:26 UTC	catula, derekcheah, sin_faith, will.i.am	10	5	25
+376530	4	0	Dark Prism (5 Suits)	2020-12-20 — 06:39:23 UTC	catula, derekcheah, sin_faith, will.i.am	11	5	25
+376517	5	0	Muddy Rainbow & Dark Pink (6 Suits)	2020-12-20 — 06:18:47 UTC	Animex52, catula, derekcheah, sin_faith, will.i.am	1	6	30
+376509	5	0	Muddy Rainbow & Dark Pink (6 Suits)	2020-12-20 — 06:07:48 UTC	Animex52, catula, derekcheah, sin_faith, will.i.am	2	6	30
+376500	5	0	Muddy Rainbow & Dark Pink (6 Suits)	2020-12-20 — 05:59:49 UTC	Animex52, catula, derekcheah, sin_faith, will.i.am	2	6	30
+376489	3	0	Dark Pink (5 Suits)	2020-12-20 — 05:46:51 UTC	catula, Onen, sin_faith	42	5	25
+375741	5	23	No Variant	2020-12-19 — 13:17:35 UTC	Animex52, catula, nitawa, Nitrate2, Pablo-	21	5	25
+375736	6	25	Muddy Rainbow (5 Suits)	2020-12-19 — 12:29:53 UTC	Animex52, catula, jack67889, nitawa, Nitrate2, Sucubis	3	5	25
+375732	5	0	Muddy Rainbow (5 Suits)	2020-12-19 — 11:57:45 UTC	Animex52, catula, nitawa, Nitrate2, Sucubis	8	5	25
+375727	3	30	White & Prism (6 Suits)	2020-12-19 — 11:25:24 UTC	catula, frosty104, Lel0uch	3	6	30
+375722	3	0	White & Prism (6 Suits)	2020-12-19 — 11:04:16 UTC	catula, frosty104, Lel0uch	3	6	30
+375721	3	0	White & Prism (6 Suits)	2020-12-19 — 10:54:11 UTC	catula, frosty104, Lel0uch	3	6	30
+374703	5	0	Dark Prism (5 Suits)	2020-12-18 — 14:36:43 UTC	Animex52, catula, cockdestroyer, jack67889, wump	4	5	25
+373724	4	0	Duck (5 Suits)	2020-12-17 — 12:54:27 UTC	Animex52, catula, jack67889, Nitrate2	5	5	25
+373716	4	0	Rainbow & White (6 Suits)	2020-12-17 — 12:19:45 UTC	catula, frosty104, GemmyBean, Lel0uch	23	6	30
+372738	5	0	Rainbow & Prism (5 Suits)	2020-12-16 — 12:45:37 UTC	boba, catula, frosty104, Lel0uch, Sucubis	8	5	25
+372735	4	0	Rainbow & Dark Prism (6 Suits)	2020-12-16 — 12:18:10 UTC	boba, catula, frosty104, Lel0uch	5	6	30
+372733	4	0	Rainbow & Dark Prism (6 Suits)	2020-12-16 — 12:04:36 UTC	boba, catula, frosty104, Lel0uch	7	6	30
+372732	4	0	Rainbow & Dark Prism (6 Suits)	2020-12-16 — 11:56:07 UTC	boba, catula, frosty104, Lel0uch	7	6	30
+372729	5	30	Dark Omni (6 Suits)	2020-12-16 — 11:37:08 UTC	catula, doctorabi, frosty104, Lel0uch, sephiroth	4	6	30
+372727	2	20	Rainbow (4 Suits)	2020-12-16 — 11:00:40 UTC	catula, Lel0uch	132	4	20
+372725	2	0	Rainbow & Brown (3 Suits)	2020-12-16 — 10:52:41 UTC	catula, Lel0uch	29	3	15
+371873	4	0	Gray Pink (6 Suits)	2020-12-15 — 13:53:41 UTC	catula, derekcheah, robense, sephiroth	5	6	30
+371810	4	0	Gray Pink (6 Suits)	2020-12-15 — 13:21:11 UTC	catula, derekcheah, robense, sephiroth	6	6	30
+371787	5	0	Brown (6 Suits)	2020-12-15 — 13:08:06 UTC	catula, derekcheah, GemmyBean, swineherd, wump	5	6	30
+371773	5	0	Brown (6 Suits)	2020-12-15 — 12:59:44 UTC	catula, derekcheah, GemmyBean, swineherd, wump	5	6	30
+370823	5	19	White (4 Suits)	2020-12-14 — 13:06:41 UTC	catula, eevee, GemmyBean, jack67889, StKildaFan	6	4	20
+370814	5	0	Brown (6 Suits)	2020-12-14 — 12:36:40 UTC	catula, eevee, GemmyBean, Sucubis, wump	21	6	30
+369848	5	23	Dark Rainbow (5 Suits)	2020-12-13 — 13:02:20 UTC	Animex52, catula, nitawa, Sucubis, wump	7	5	25
+369843	5	20	Dark Rainbow (5 Suits)	2020-12-13 — 12:35:58 UTC	Animex52, catula, nitawa, Sucubis, wump	9	5	25
+369839	5	0	Dark Rainbow (5 Suits)	2020-12-13 — 12:09:15 UTC	Animex52, catula, nitawa, Sucubis, wump	9	5	25
+369782	4	0	Up or Down & Prism (5 Suits)	2020-12-13 — 08:10:11 UTC	catula, katian, kevincaseytdk1, Lel0uch	2	5	25
+369779	4	0	Up or Down & Prism (5 Suits)	2020-12-13 — 08:06:31 UTC	catula, katian, kevincaseytdk1, Lel0uch	12	5	25
+369769	5	0	Rainbow & Dark Prism (5 Suits)	2020-12-13 — 07:51:57 UTC	catula, doctorabi, katian, kevincaseytdk1, Lel0uch	2	5	25
+369765	5	0	Rainbow & Dark Prism (5 Suits)	2020-12-13 — 07:38:22 UTC	catula, doctorabi, katian, kevincaseytdk1, Lel0uch	2	5	25
+369753	3	0	Omni (3 Suits)	2020-12-13 — 07:18:03 UTC	catula, doctorabi, kevincaseytdk1	17	3	15
+369746	4	0	White & Brown (5 Suits)	2020-12-13 — 07:04:53 UTC	catula, doctorabi, kevincaseytdk1, ksfortson	6	5	25
+369670	5	22	Pink-Ones (5 Suits)	2020-12-13 — 05:41:45 UTC	Animex52, antitelharsic, catula, Stinkydude63, XMIL	5	5	25
+369627	5	20	Prism (4 Suits)	2020-12-13 — 04:52:37 UTC	Animex52, antitelharsic, catula, Stinkydude63, XMIL	10	4	20
+368871	3	22	Rainbow (5 Suits)	2020-12-12 — 12:51:02 UTC	catula, Lanvin, narabio	57	5	25
+368850	4	0	Black (6 Suits)	2020-12-12 — 11:53:49 UTC	catula, melwen, narabio, witcher	5	6	30
+368767	5	0	White (5 Suits)	2020-12-12 — 09:13:33 UTC	Animex52, catula, eljavi, Kernel, methmatics	21	5	25
+368747	3	0	Rainbow (3 Suits)	2020-12-12 — 08:48:38 UTC	catula, eljavi, methmatics	26	3	15
+368725	3	13	Rainbow (3 Suits)	2020-12-12 — 08:26:05 UTC	catula, eljavi, methmatics	36	3	15
+368688	5	0	Pink & Brown (6 Suits)	2020-12-12 — 07:18:45 UTC	catula, derekcheah, doctorabi, Onen, swineherd	2	6	30
+368684	5	0	Pink & Brown (6 Suits)	2020-12-12 — 07:10:57 UTC	catula, derekcheah, doctorabi, Onen, swineherd	3	6	30
+368675	5	0	Pink & Brown (6 Suits)	2020-12-12 — 06:55:47 UTC	catula, derekcheah, doctorabi, Onen, swineherd	4	6	30
+368662	5	0	Pink & Brown (6 Suits)	2020-12-12 — 06:43:26 UTC	catula, derekcheah, doctorabi, Onen, swineherd	5	6	30
+368660	5	0	Pink & Brown (6 Suits)	2020-12-12 — 06:39:14 UTC	catula, derekcheah, doctorabi, Onen, swineherd	7	6	30
+367722	4	0	Duck (5 Suits)	2020-12-11 — 12:05:54 UTC	Animex52, catula, methmatics, nitawa	2	5	25
+367707	4	0	Duck (5 Suits)	2020-12-11 — 11:43:34 UTC	Animex52, catula, methmatics, nitawa	2	5	25
+367704	3	0	Black & Brown (5 Suits)	2020-12-11 — 11:34:02 UTC	Animex52, catula, nitawa	16	5	25
+367699	3	0	Black & Brown (5 Suits)	2020-12-11 — 11:25:42 UTC	Animex52, catula, nitawa	19	5	25
+367686	3	0	Duck (5 Suits)	2020-12-11 — 10:57:49 UTC	Animex52, catula, nitawa	4	5	25
+367670	4	23	Duck (5 Suits)	2020-12-11 — 10:14:18 UTC	Animex52, catula, duckmedic, nitawa	2	5	25
+367657	3	0	Duck (5 Suits)	2020-12-11 — 09:39:04 UTC	Animex52, catula, duckmedic	5	5	25
+367606	5	0	Throw It in a Hole (5 Suits)	2020-12-11 — 07:29:14 UTC	antitelharsic, catula, derekcheah, sephiroth, Stinkydude63	15	5	25
+364565	5	0	Dark Brown (6 Suits)	2020-12-08 — 12:50:27 UTC	catula, jack67889, Lanvin, sin_faith, wump	10	6	30
+364558	3	0	Dark Brown (6 Suits)	2020-12-08 — 12:15:28 UTC	catula, Lanvin, sin_faith	32	6	30
+363456	6	25	Rainbow & Pink (5 Suits)	2020-12-07 — 12:48:21 UTC	catula, derekcheah, frosty104, Lel0uch, macanek, sin_faith	2	5	25
+363451	6	0	Rainbow & Pink (5 Suits)	2020-12-07 — 12:41:11 UTC	catula, derekcheah, frosty104, Lel0uch, macanek, sin_faith	2	5	25
+363449	6	0	Rainbow & Pink (5 Suits)	2020-12-07 — 12:39:10 UTC	catula, derekcheah, frosty104, Lel0uch, macanek, sin_faith	2	5	25
+363441	5	19	Rainbow & White (4 Suits)	2020-12-07 — 12:28:42 UTC	catula, frosty104, Lel0uch, macanek, Sucubis	1	4	20
+363435	5	19	Rainbow & White (4 Suits)	2020-12-07 — 12:05:40 UTC	catula, frosty104, Lel0uch, macanek, Sucubis	1	4	20
+363432	5	0	Rainbow & White (4 Suits)	2020-12-07 — 11:49:54 UTC	catula, frosty104, Lel0uch, macanek, Sucubis	4	4	20
+363428	3	25	No Variant	2020-12-07 — 11:30:25 UTC	catula, GemmyBean, orucsoraihc	275	5	25
+362421	4	0	Cow & Pig (5 Suits)	2020-12-06 — 11:36:05 UTC	catula, nitawa, penisman, wump	12	5	25
+362405	4	27	Black (6 Suits)	2020-12-06 — 10:57:48 UTC	catula, cute_girl, nitawa, wump	128	6	30
+362377	3	24	Dual-Color (5 Suits)	2020-12-06 — 09:56:05 UTC	catula, derekcheah, orucsoraihc	18	5	25
+362371	3	0	Dual-Color (5 Suits)	2020-12-06 — 09:32:40 UTC	catula, derekcheah, orucsoraihc	24	5	25
+362358	4	29	Black & Omni (6 Suits)	2020-12-06 — 09:00:32 UTC	asaelr, catula, derekcheah, orucsoraihc	9	6	30
+361501	5	0	Dual-Color (5 Suits)	2020-12-05 — 09:59:06 UTC	Carunty, catula, derekcheah, Lel0uch, postmans	3	5	25
+361490	5	0	3 Suits	2020-12-05 — 09:40:16 UTC	Carunty, catula, derekcheah, Lel0uch, postmans	8	3	15
+361486	6	0	Up or Down (6 Suits)	2020-12-05 — 09:22:04 UTC	Carunty, catula, derekcheah, Fey, Lel0uch, postmans	10	6	30
+360514	5	0	Cocoa Rainbow (5 Suits)	2020-12-04 — 14:53:07 UTC	catula, methmatics, nitawa, Nitrate2, Sucubis	6	5	25
+360513	5	0	Cocoa Rainbow (5 Suits)	2020-12-04 — 14:46:25 UTC	catula, methmatics, nitawa, Nitrate2, Sucubis	6	5	25
+360512	5	0	Cocoa Rainbow (5 Suits)	2020-12-04 — 14:39:45 UTC	catula, methmatics, nitawa, Nitrate2, Sucubis	9	5	25
+360509	4	0	Black & Brown (5 Suits)	2020-12-04 — 14:30:30 UTC	catula, methmatics, Nitrate2, Sucubis	8	5	25
+360505	4	0	Black & Brown (5 Suits)	2020-12-04 — 14:18:26 UTC	catula, methmatics, Nitrate2, Sucubis	8	5	25
+360493	4	23	Cocoa Rainbow (5 Suits)	2020-12-04 — 14:04:32 UTC	catula, methmatics, nitawa, Sucubis	20	5	25
+360468	4	0	Cow & Pig (5 Suits)	2020-12-04 — 13:41:32 UTC	catula, nitawa, rachyrules, Veexliat	28	5	25
+359787	2	25	No Variant	2020-12-03 — 13:31:48 UTC	catula, Feich59	303	5	25
+358914	5	0	Rainbow & Omni (5 Suits)	2020-12-02 — 12:32:57 UTC	catula, Div, Lel0uch, melwen, sin_faith	1	5	25
+358913	5	0	Rainbow & Omni (5 Suits)	2020-12-02 — 12:26:18 UTC	catula, Div, Lel0uch, melwen, sin_faith	1	5	25
+358910	4	0	Rainbow & Omni (5 Suits)	2020-12-02 — 12:01:36 UTC	catula, Div, Lel0uch, melwen	2	5	25
+358232	4	23	Dark Pink (5 Suits)	2020-12-01 — 13:00:50 UTC	Carunty, catula, frosty104, sephiroth	2	5	25
+358218	4	0	Up or Down (6 Suits)	2020-12-01 — 12:29:37 UTC	Carunty, catula, Feich59, frosty104	28	6	30
+358213	3	27	Dark Prism (6 Suits)	2020-12-01 — 12:15:12 UTC	Carunty, catula, frosty104	32	6	30
+358203	4	0	Dark Prism (6 Suits)	2020-12-01 — 11:53:55 UTC	Animex52, catula, sephiroth, VerySloppyTwo	20	6	30
+358198	4	0	Dark Prism (6 Suits)	2020-12-01 — 11:37:13 UTC	Animex52, catula, sephiroth, VerySloppyTwo	23	6	30
+357485	4	23	Dark Prism (5 Suits)	2020-11-30 — 11:02:26 UTC	Animex52, catula, sephiroth, Sucubis	4	5	25
+357479	4	23	Dark Prism (5 Suits)	2020-11-30 — 10:42:20 UTC	Animex52, catula, sephiroth, Sucubis	4	5	25
+357473	5	0	No Variant	2020-11-30 — 10:18:18 UTC	Animex52, catula, sephiroth, Sucubis, VerySloppyTwo	21	5	25
+357469	5	0	No Variant	2020-11-30 — 10:05:24 UTC	Animex52, catula, sephiroth, Sucubis, VerySloppyTwo	23	5	25
+357454	3	0	No Variant	2020-11-30 — 09:18:30 UTC	Animex52, catula, charmander	77	5	25
+356635	3	28	Black & White (6 Suits)	2020-11-29 — 08:52:28 UTC	Carunty, catula, doctorabi	39	6	30
+356629	3	0	Black & White (6 Suits)	2020-11-29 — 08:21:28 UTC	Carunty, catula, doctorabi	47	6	30
+355877	4	0	Black & White (5 Suits)	2020-11-28 — 14:09:16 UTC	Animex52, catula, jack67889, nitawa	23	5	25
+355803	3	28	Brown (6 Suits)	2020-11-28 — 06:38:35 UTC	catula, penisman, Stinkydude63	84	6	30
+355791	3	0	Null (5 Suits)	2020-11-28 — 06:16:16 UTC	catula, penisman, Stinkydude63	54	5	25
+355784	4	21	No Variant	2020-11-28 — 05:58:16 UTC	Animex52, catula, StKildaFan, voss	44	5	25
+355166	3	23	Dark Rainbow (5 Suits)	2020-11-27 — 17:58:33 UTC	catula, doctorabi, Sucubis	52	5	25
+355058	5	0	Rainbow & Dark Pink (6 Suits)	2020-11-27 — 12:24:10 UTC	Carunty, catula, Lel0uch, melwen, Sucubis	2	6	30
+355050	6	27	Rainbow & Dark Pink (6 Suits)	2020-11-27 — 11:59:20 UTC	Carunty, catula, Lel0uch, melwen, methmatics, Sucubis	2	6	30
+355014	5	24	No Variant	2020-11-27 — 07:52:49 UTC	Carunty, catula, justinjlee99, Lel0uch, voss	262	5	25
+354330	5	24	Rainbow & Pink (5 Suits)	2020-11-26 — 11:48:38 UTC	catula, derekcheah, sin_faith, Sucubis, swineherd	6	5	25
+354326	3	0	Dark Prism (5 Suits)	2020-11-26 — 11:22:24 UTC	catula, derekcheah, swineherd	18	5	25
+354321	4	30	Dark Pink (6 Suits)	2020-11-26 — 10:51:33 UTC	catula, derekcheah, orucsoraihc, sin_faith	29	6	30
+354316	3	0	Light Pink (6 Suits)	2020-11-26 — 10:25:12 UTC	catula, derekcheah, sin_faith	34	6	30
+354314	6	0	Rainbow (4 Suits)	2020-11-26 — 10:15:20 UTC	Carunty, catula, derekcheah, melwen, Pimak, sin_faith	6	4	20
+353454	5	0	White & Omni (5 Suits)	2020-11-25 — 11:49:59 UTC	Carunty, catula, melwen, sin_faith, Sucubis	2	5	25
+353452	4	23	White & Omni (5 Suits)	2020-11-25 — 11:25:40 UTC	Carunty, catula, melwen, Sucubis	4	5	25
+353446	6	24	White & Omni (5 Suits)	2020-11-25 — 10:47:36 UTC	Carunty, catula, Lel0uch, melwen, robense, Sucubis	1	5	25
+353440	3	21	Black (5 Suits)	2020-11-25 — 10:15:39 UTC	Carunty, catula, Pablo-	24	5	25
+353436	3	23	Black (5 Suits)	2020-11-25 — 10:00:13 UTC	Carunty, catula, Pablo-	22	5	25
+353424	3	0	Black (5 Suits)	2020-11-25 — 09:38:02 UTC	Carunty, catula, Pablo-	25	5	25
+353420	3	22	Black (5 Suits)	2020-11-25 — 09:22:23 UTC	Carunty, catula, Pablo-	27	5	25
+352413	4	0	Brown (5 Suits)	2020-11-24 — 10:25:48 UTC	Animex52, catula, sephiroth, VerySloppyTwo	27	5	25
+352409	4	0	Dark Omni (5 Suits)	2020-11-24 — 09:59:37 UTC	Carunty, catula, StKildaFan, VerySloppyTwo	15	5	25
+351648	5	0	Dark Omni (6 Suits)	2020-11-23 — 12:19:09 UTC	catula, Lel0uch, Nitrate2, Sucubis, VerySloppyTwo	5	6	30
+351646	5	0	Dark Omni (6 Suits)	2020-11-23 — 12:00:31 UTC	catula, Lel0uch, Nitrate2, Sucubis, VerySloppyTwo	5	6	30
+351644	5	0	Special Mix (5 Suits)	2020-11-23 — 11:42:10 UTC	catula, Nitrate2, sephiroth, Sucubis, VerySloppyTwo	6	5	25
+351641	3	24	Brown (5 Suits)	2020-11-23 — 11:15:04 UTC	catula, Pimak, sephiroth	23	5	25
+351638	5	30	Pink (6 Suits)	2020-11-23 — 10:41:31 UTC	catula, jack67889, Pimak, sephiroth, Sucubis	5	6	30
+350684	3	25	Deceptive-Ones (5 Suits)	2020-11-22 — 11:54:49 UTC	catula, sephiroth, Sucubis	2	5	25
+350682	3	0	Deceptive-Ones (5 Suits)	2020-11-22 — 11:37:11 UTC	catula, sephiroth, Sucubis	3	5	25
+350596	4	11	Brown (3 Suits)	2020-11-22 — 06:47:23 UTC	catula, ksfortson, methmatics, XMIL	14	3	15
+350571	4	25	Reversed (5 Suits)	2020-11-22 — 06:13:49 UTC	brendonitis, catula, Onen, wump	5	5	25
+349922	5	25	Brown (5 Suits)	2020-11-21 — 21:20:14 UTC	antitelharsic, catula, cockdestroyer, sephiroth, VerySloppyTwo	5	5	25
+349901	5	0	Dark Rainbow (6 Suits)	2020-11-21 — 20:56:56 UTC	antitelharsic, catula, cockdestroyer, ebin_noob, sephiroth	14	6	30
+349895	5	0	Dark Rainbow (6 Suits)	2020-11-21 — 20:51:06 UTC	antitelharsic, catula, cockdestroyer, ebin_noob, sephiroth	14	6	30
+349884	5	0	Dark Rainbow (6 Suits)	2020-11-21 — 20:37:27 UTC	antitelharsic, catula, cockdestroyer, ebin_noob, sephiroth	14	6	30
+349679	4	0	Up or Down (5 Suits)	2020-11-21 — 14:12:15 UTC	catula, Lel0uch, sin_faith, Sucubis	52	5	25
+349657	4	24	Deceptive-Ones (5 Suits)	2020-11-21 — 12:24:13 UTC	Carunty, catula, sin_faith, StKildaFan	16	5	25
+349653	5	0	Deceptive-Ones (5 Suits)	2020-11-21 — 12:00:32 UTC	Animex52, Carunty, catula, sin_faith, StKildaFan	4	5	25
+349646	3	25	Deceptive-Ones (5 Suits)	2020-11-21 — 11:22:58 UTC	Animex52, Carunty, catula	5	5	25
+349637	3	0	Deceptive-Ones (5 Suits)	2020-11-21 — 10:54:03 UTC	Animex52, Carunty, catula	8	5	25
+349615	3	0	Deceptive-Ones (5 Suits)	2020-11-21 — 09:23:10 UTC	Carunty, catula, kodomazer	14	5	25
+349527	5	0	Rainbow (4 Suits)	2020-11-21 — 06:44:36 UTC	catula, doctorabi, duckmedic, ksfortson, wump	10	4	20
+349502	4	0	6 Suits	2020-11-21 — 06:14:07 UTC	catula, doctorabi, duckmedic, wump	120	6	30
+349093	5	0	Pink & White (5 Suits)	2020-11-21 — 01:35:00 UTC	Carunty, catula, doctorabi, Pablo-, will.i.am	3	5	25
+348613	5	20	Pink (4 Suits)	2020-11-20 — 12:58:03 UTC	Animex52, Carunty, catula, frosty104, pianoblook	9	4	20
+348607	4	14	Prism (3 Suits)	2020-11-20 — 12:32:44 UTC	Animex52, Carunty, catula, robense	8	3	15
+348603	4	14	Prism (3 Suits)	2020-11-20 — 12:16:31 UTC	Animex52, Carunty, catula, robense	12	3	15
+348542	3	23	Clue Starved (5 Suits)	2020-11-20 — 07:51:51 UTC	Animex52, catula, Lel0uch	13	5	25
+348478	4	0	Cocoa Rainbow (5 Suits)	2020-11-20 — 05:36:14 UTC	catula, derekcheah, melwen, penisman	15	5	25
+348445	6	0	Cocoa Rainbow (5 Suits)	2020-11-20 — 05:06:22 UTC	avanderwalde, catula, derekcheah, melwen, penisman, TimeHoodie	1	5	25
+348424	2	25	No Variant	2020-11-20 — 04:38:29 UTC	catula, penisman	311	5	25
+348416	2	0	Special Mix (5 Suits)	2020-11-20 — 04:26:17 UTC	catula, penisman	88	5	25
+347739	6	22	Special Mix (5 Suits)	2020-11-19 — 11:17:10 UTC	Animex52, catula, cockdestroyer, sephiroth, sin_faith, Sucubis	4	5	25
+347736	5	0	Special Mix (5 Suits)	2020-11-19 — 10:44:30 UTC	Animex52, catula, sephiroth, sin_faith, Sucubis	6	5	25
+347734	4	25	Null (5 Suits)	2020-11-19 — 10:25:00 UTC	catula, cockdestroyer, Nitrate2, Sucubis	12	5	25
+347728	3	24	Pink (5 Suits)	2020-11-19 — 09:50:26 UTC	catula, cockdestroyer, Sucubis	33	5	25
+347722	3	0	Pink (5 Suits)	2020-11-19 — 09:37:01 UTC	catula, cockdestroyer, Sucubis	43	5	25
+347721	4	0	Pink (5 Suits)	2020-11-19 — 09:32:37 UTC	catula, sephiroth, Sucubis, VerySloppyTwo	11	5	25
+347719	4	0	Pink (5 Suits)	2020-11-19 — 09:07:09 UTC	Animex52, catula, sephiroth, VerySloppyTwo	26	5	25
+347708	4	0	Rainbow (6 Suits)	2020-11-19 — 08:02:35 UTC	boba, catula, HelanaAshryvr, Lel0uch	104	6	30
+347021	2	25	No Variant	2020-11-18 — 10:31:16 UTC	catula, sephiroth	315	5	25
+346156	3	0	Special Mix (5 Suits)	2020-11-17 — 13:27:05 UTC	catula, sephiroth, Sucubis	10	5	25
+346150	4	0	Special Mix (5 Suits)	2020-11-17 — 13:03:29 UTC	catula, nitawa, sephiroth, Sucubis	5	5	25
+346147	4	0	Special Mix (5 Suits)	2020-11-17 — 12:52:31 UTC	catula, nitawa, sephiroth, Sucubis	4	5	25
+346141	3	24	Special Mix (5 Suits)	2020-11-17 — 12:40:27 UTC	catula, nitawa, Sucubis	38	5	25
+346128	4	0	No Variant	2020-11-17 — 11:35:40 UTC	catula, jack67889, Lel0uch, whalesgomoo	336	5	25
+346127	5	0	Special Mix (5 Suits)	2020-11-17 — 11:02:36 UTC	catula, jack67889, Lel0uch, swineherd, whalesgomoo	11	5	25
+346126	5	0	Special Mix (5 Suits)	2020-11-17 — 10:40:41 UTC	catula, Lel0uch, methmatics, sephiroth, whalesgomoo	16	5	25
+345772	3	0	Rainbow (5 Suits)	2020-11-16 — 23:55:39 UTC	catula, doctorabi, Onen	74	5	25
+344910	5	29	Black (6 Suits)	2020-11-16 — 13:02:10 UTC	catula, cockdestroyer, Nitrate2, sephiroth, VerySloppyTwo	23	6	30
+344905	4	19	Brown (4 Suits)	2020-11-16 — 12:34:13 UTC	catula, kodomazer, MarkusKahlsen, robense	11	4	20
+344886	4	24	Dual-Color (5 Suits)	2020-11-16 — 10:31:46 UTC	catula, Lel0uch, sephiroth, VerySloppyTwo	31	5	25
+344884	5	0	No Variant	2020-11-16 — 09:59:13 UTC	Animex52, catula, sephiroth, VerySloppyTwo, wina	21	5	25
+344875	6	18	4 Suits	2020-11-16 — 09:36:56 UTC	Animex52, catula, hughjanus, sephiroth, Stinkydude63, whalesgomoo	6	4	20
+344126	5	28	Light Pink (6 Suits)	2020-11-15 — 12:28:47 UTC	catula, Fey, Lel0uch, Sucubis, Wittvector	7	6	30
+344122	5	22	Black (5 Suits)	2020-11-15 — 11:43:39 UTC	catula, Fey, Lel0uch, sephiroth, Sucubis	11	5	25
+344119	4	23	No Variant	2020-11-15 — 11:22:54 UTC	Animex52, catula, Fey, Lel0uch	54	5	25
+344116	4	0	No Variant	2020-11-15 — 11:05:53 UTC	Animex52, catula, Fey, Lel0uch	60	5	25
+344113	5	0	No Variant	2020-11-15 — 10:55:59 UTC	Animex52, catula, Fey, Lel0uch, robense	25	5	25
+344110	4	25	No Variant	2020-11-15 — 10:46:23 UTC	Animex52, catula, Lel0uch, Sucubis	61	5	25
+344108	4	0	No Variant	2020-11-15 — 10:35:04 UTC	Animex52, catula, sephiroth, Sucubis	54	5	25
+344087	5	0	No Variant	2020-11-15 — 09:04:53 UTC	Animex52, asaelr, catula, nitawa, Wittvector	11	5	25
+344080	4	0	Gray (6 Suits)	2020-11-15 — 08:43:11 UTC	Bonja97, catula, derekcheah, Fey	10	6	30
+344073	4	0	Gray (6 Suits)	2020-11-15 — 08:28:27 UTC	Bonja97, catula, derekcheah, Fey	15	6	30
+344040	4	25	Light Pink (5 Suits)	2020-11-15 — 07:21:39 UTC	Bonja97, catula, derekcheah, ejwu	10	5	25
+343992	5	30	Pink (6 Suits)	2020-11-15 — 06:13:36 UTC	Animex52, Bonja97, catula, derekcheah, wump	8	6	30
+343959	5	0	Pink (6 Suits)	2020-11-15 — 05:30:12 UTC	Animex52, Bonja97, catula, derekcheah, wump	15	6	30
+343295	5	0	Rainbow-Ones (6 Suits)	2020-11-14 — 13:21:33 UTC	catula, Pablo-, sephiroth, swineherd, TimeHoodie	2	6	30
+343291	3	0	Dark Brown (5 Suits)	2020-11-14 — 12:56:33 UTC	Animex52, catula, Pablo-	18	5	25
+343289	3	0	Dark Brown (5 Suits)	2020-11-14 — 12:42:25 UTC	Animex52, catula, Pablo-	26	5	25
+343184	5	22	No Variant	2020-11-14 — 07:12:06 UTC	catula, cockdestroyer, ejwu, Isaac176, StKildaFan	22	5	25
+343162	3	15	Prism (3 Suits)	2020-11-14 — 06:49:06 UTC	catula, cockdestroyer, ejwu	32	3	15
+342883	5	21	Black (5 Suits)	2020-11-14 — 01:33:11 UTC	catula, cockdestroyer, Nitrate2, Pablo-, XMIL	9	5	25
+342854	5	0	Black (5 Suits)	2020-11-14 — 01:03:56 UTC	catula, cockdestroyer, Nitrate2, Pablo-, XMIL	11	5	25
+342846	4	15	3 Suits	2020-11-14 — 00:53:55 UTC	catula, cockdestroyer, Nitrate2, XMIL	62	3	15
+341551	3	22	No Variant	2020-11-12 — 13:08:30 UTC	Animex52, catula, sephiroth	69	5	25
+341531	3	24	Clue Starved (5 Suits)	2020-11-12 — 11:56:36 UTC	catula, jack67889, Sucubis	16	5	25
+341523	3	0	Clue Starved (5 Suits)	2020-11-12 — 11:27:50 UTC	catula, jack67889, Sucubis	18	5	25
+341521	3	0	Clue Starved (5 Suits)	2020-11-12 — 11:10:05 UTC	catula, jack67889, Sucubis	22	5	25
+341518	3	0	Clue Starved (5 Suits)	2020-11-12 — 10:55:45 UTC	catula, jack67889, Sucubis	33	5	25
+341517	4	0	Clue Starved & Prism (6 Suits)	2020-11-12 — 10:42:44 UTC	catula, nitawa, sephiroth, Sucubis	1	6	30
+341513	4	0	Clue Starved & Prism (6 Suits)	2020-11-12 — 10:13:31 UTC	catula, nitawa, sephiroth, Sucubis	2	6	30
+341511	4	0	Clue Starved & Prism (6 Suits)	2020-11-12 — 09:54:19 UTC	catula, nitawa, sephiroth, Sucubis	3	6	30
+341508	4	0	Clue Starved & Prism (6 Suits)	2020-11-12 — 09:29:51 UTC	catula, nitawa, sephiroth, Sucubis	3	6	30
+340749	5	23	Omni (5 Suits)	2020-11-11 — 12:33:11 UTC	catula, Lel0uch, nitawa, StKildaFan, Sucubis	8	5	25
+340742	5	0	Omni (5 Suits)	2020-11-11 — 12:15:20 UTC	catula, Lel0uch, nitawa, StKildaFan, Sucubis	13	5	25
+340738	3	0	Clue Starved & Rainbow (5 Suits)	2020-11-11 — 12:05:05 UTC	catula, StKildaFan, Sucubis	4	5	25
+340733	3	0	Clue Starved & Rainbow (5 Suits)	2020-11-11 — 11:54:50 UTC	catula, StKildaFan, Sucubis	8	5	25
+340725	3	25	No Variant	2020-11-11 — 10:53:48 UTC	catula, sephiroth, VerySloppyTwo	250	5	25
+339962	6	25	White (5 Suits)	2020-11-10 — 10:53:35 UTC	catula, frosty104, Lel0uch, sephiroth, StKildaFan, Sucubis	4	5	25
+339923	4	23	No Variant	2020-11-10 — 07:28:26 UTC	catula, MarcLovesDogs, nitawa, StKildaFan	48	5	25
+339907	3	0	Gray (6 Suits)	2020-11-10 — 06:45:58 UTC	catula, StKildaFan, wump	55	6	30
+339676	3	25	No Variant	2020-11-10 — 02:38:59 UTC	catula, Nitrate2, penisman	134	5	25
+339667	3	0	No Variant	2020-11-10 — 02:23:29 UTC	catula, Nitrate2, penisman	157	5	25
+339118	5	0	White & Prism (6 Suits)	2020-11-09 — 12:06:07 UTC	Carunty, catula, Lel0uch, melwen, sephiroth	3	6	30
+339115	5	0	White & Prism (6 Suits)	2020-11-09 — 11:59:15 UTC	Carunty, catula, Lel0uch, melwen, sephiroth	5	6	30
+339107	3	0	No Variant	2020-11-09 — 11:35:04 UTC	Animex52, catula, Lel0uch	77	5	25
+339105	3	14	Muddy Rainbow (4 Suits)	2020-11-09 — 11:13:19 UTC	Animex52, catula, Sucubis	11	4	20
+339103	3	0	Muddy Rainbow (4 Suits)	2020-11-09 — 10:59:20 UTC	Animex52, catula, Sucubis	18	4	20
+339102	6	0	Ambiguous (6 Suits)	2020-11-09 — 10:50:41 UTC	catula, jack67889, methmatics, Pablo-, sephiroth, Sucubis	3	6	30
+339101	6	0	Ambiguous (6 Suits)	2020-11-09 — 10:41:52 UTC	catula, jack67889, methmatics, Pablo-, sephiroth, Sucubis	5	6	30
+339079	4	0	Brown (6 Suits)	2020-11-09 — 09:23:25 UTC	Animex52, catula, jack67889, Sucubis	17	6	30
+339059	3	0	White (4 Suits)	2020-11-09 — 08:15:55 UTC	catula, robense, swineherd	59	4	20
+338947	4	28	Rainbow (6 Suits)	2020-11-09 — 04:49:39 UTC	catula, doctorabi, Fey, kodomazer	122	6	30
+338766	3	0	Dark Rainbow (6 Suits)	2020-11-09 — 00:18:49 UTC	catula, cockdestroyer, XMIL	77	6	30
+338292	6	0	Dark Rainbow (6 Suits)	2020-11-08 — 12:49:31 UTC	Animex52, catula, cockdestroyer, methmatics, sephiroth, Sucubis	5	6	30
+338290	4	0	Rainbow & White (5 Suits)	2020-11-08 — 12:41:04 UTC	catula, methmatics, sephiroth, Sucubis	5	5	25
+338285	4	0	Rainbow & White (5 Suits)	2020-11-08 — 12:29:38 UTC	catula, methmatics, sephiroth, Sucubis	6	5	25
+338280	4	0	Rainbow & White (5 Suits)	2020-11-08 — 12:20:16 UTC	catula, methmatics, sephiroth, Sucubis	12	5	25
+338278	4	0	Rainbow & White (5 Suits)	2020-11-08 — 12:18:21 UTC	catula, methmatics, sephiroth, Sucubis	17	5	25
+338276	3	0	Light Pink (5 Suits)	2020-11-08 — 12:11:23 UTC	catula, methmatics, Sucubis	40	5	25
+338163	5	22	No Variant	2020-11-08 — 06:59:43 UTC	Animex52, catula, Stinkydude63, Tiramisu1th, whalesgomoo	344	5	25
+337906	5	24	Light Pink (5 Suits)	2020-11-08 — 00:00:49 UTC	catula, honzas, rachyrules, Sucubis, vEnhance	12	5	25
+337887	6	0	Prism (5 Suits)	2020-11-07 — 23:32:44 UTC	Animex52, catula, honzas, rachyrules, sephiroth, Sucubis	3	5	25
+337844	3	15	Rainbow (3 Suits)	2020-11-07 — 23:03:36 UTC	Animex52, catula, honzas	43	3	15
+337814	3	14	Rainbow (3 Suits)	2020-11-07 — 22:39:09 UTC	Animex52, catula, honzas	53	3	15
+337792	3	14	Rainbow (3 Suits)	2020-11-07 — 22:19:49 UTC	Animex52, catula, honzas	71	3	15
+337524	3	26	Dark Rainbow (6 Suits)	2020-11-07 — 14:01:52 UTC	Animex52, catula, sephiroth	91	6	30
+337518	3	0	No Variant	2020-11-07 — 13:44:37 UTC	Animex52, catula, sephiroth	82	5	25
+337514	3	30	Prism (6 Suits)	2020-11-07 — 13:29:22 UTC	Animex52, catula, nitawa	8	6	30
+337508	3	0	Prism (6 Suits)	2020-11-07 — 13:07:24 UTC	Animex52, catula, nitawa	36	6	30
+337504	3	23	No Variant	2020-11-07 — 12:59:14 UTC	Animex52, catula, nitawa	83	5	25
+337499	3	25	No Variant	2020-11-07 — 12:40:49 UTC	Animex52, catula, methmatics	89	5	25
+337479	5	18	Rainbow (4 Suits)	2020-11-07 — 11:14:07 UTC	Animex52, Carunty, catula, kimbifille, Sucubis	6	4	20
+337478	5	0	No Variant	2020-11-07 — 10:56:12 UTC	Carunty, catula, kimbifille, Pablo-, Sucubis	67	5	25
+337462	5	0	Dark Brown (6 Suits)	2020-11-07 — 09:31:46 UTC	catula, cockdestroyer, IAMJEFF, Nitrate2, sephiroth	6	6	30
+336815	5	0	Prism & Dark Rainbow (5 Suits)	2020-11-06 — 13:03:13 UTC	Animex52, catula, honzas, Pepepe, Sucubis	1	5	25
+336810	5	0	Prism & Dark Rainbow (5 Suits)	2020-11-06 — 12:38:28 UTC	Animex52, catula, honzas, Pepepe, Sucubis	1	5	25
+336809	4	0	Rainbow (5 Suits)	2020-11-06 — 12:30:36 UTC	catula, honzas, Pepepe, Sucubis	30	5	25
+336807	4	0	Rainbow (5 Suits)	2020-11-06 — 12:23:49 UTC	catula, honzas, Pepepe, Sucubis	32	5	25
+336803	6	0	Special Mix (5 Suits)	2020-11-06 — 11:57:01 UTC	catula, honzas, sin_faith, Sucubis, TimeHoodie, Tiramisu1th	5	5	25
+336802	4	0	Dual-Color (6 Suits)	2020-11-06 — 11:32:47 UTC	catula, cockdestroyer, jack67889, Nitrate2	39	6	30
+336799	6	28	Up or Down (6 Suits)	2020-11-06 — 10:58:44 UTC	catula, cockdestroyer, jack67889, nitawa, Pablo-, Sucubis	3	6	30
+336791	3	23	Black (5 Suits)	2020-11-06 — 10:26:13 UTC	catula, cockdestroyer, Sucubis	36	5	25
+336783	3	30	Light-Pink-Ones & Black (6 Suits)	2020-11-06 — 09:53:06 UTC	catula, cockdestroyer, Sucubis	2	6	30
+336772	3	25	No Variant	2020-11-06 — 08:05:32 UTC	catula, cockdestroyer, XMIL	42	5	25
+336766	3	0	No Variant	2020-11-06 — 07:42:36 UTC	catula, cockdestroyer, XMIL	44	5	25
+336043	3	0	Black (5 Suits)	2020-11-05 — 11:55:02 UTC	catula, jack67889, Sucubis	40	5	25
+336042	3	0	Black (5 Suits)	2020-11-05 — 11:40:45 UTC	catula, jack67889, Sucubis	44	5	25
+336038	3	0	Black (5 Suits)	2020-11-05 — 11:29:51 UTC	catula, jack67889, Sucubis	43	5	25
+336036	3	0	Black (5 Suits)	2020-11-05 — 11:20:28 UTC	catula, jack67889, Sucubis	44	5	25
+336034	3	0	Black (5 Suits)	2020-11-05 — 11:08:09 UTC	catula, jack67889, Sucubis	66	5	25
+336032	3	0	Black (5 Suits)	2020-11-05 — 10:57:07 UTC	catula, jack67889, Sucubis	71	5	25
+336031	4	22	Prism & Dark Rainbow (5 Suits)	2020-11-05 — 10:45:05 UTC	catula, honzas, robense, Sucubis	4	5	25
+336029	4	0	Prism & Dark Rainbow (5 Suits)	2020-11-05 — 10:18:19 UTC	catula, honzas, robense, Sucubis	4	5	25
+336027	4	0	Prism & Dark Rainbow (5 Suits)	2020-11-05 — 10:11:09 UTC	catula, honzas, robense, Sucubis	4	5	25
+336022	4	0	Brown-Fives & Prism (6 Suits)	2020-11-05 — 09:56:57 UTC	catula, ebin_noob, sephiroth, Sucubis	1	6	30
+336018	4	0	Brown-Fives & Prism (6 Suits)	2020-11-05 — 09:43:55 UTC	catula, ebin_noob, sephiroth, Sucubis	1	6	30
+335900	5	0	Black (5 Suits)	2020-11-05 — 06:24:35 UTC	Bonja97, catula, cockdestroyer, pianoblook, XMIL	12	5	25
+335895	5	0	Black (5 Suits)	2020-11-05 — 06:17:21 UTC	Bonja97, catula, cockdestroyer, pianoblook, XMIL	13	5	25
+335600	2	0	No Variant	2020-11-05 — 00:56:47 UTC	catula, rachyrules	24	5	25
+335597	2	0	No Variant	2020-11-05 — 00:54:10 UTC	catula, rachyrules	24	5	25
+335595	2	0	No Variant	2020-11-05 — 00:52:50 UTC	catula, rachyrules	24	5	25
+335591	2	0	No Variant	2020-11-05 — 00:51:09 UTC	catula, rachyrules	24	5	25
+335590	2	0	No Variant	2020-11-05 — 00:50:35 UTC	catula, rachyrules	23	5	25
+335587	2	0	No Variant	2020-11-05 — 00:49:49 UTC	catula, rachyrules	23	5	25
+335212	5	0	Prism & Dark Rainbow (6 Suits)	2020-11-04 — 12:21:30 UTC	Animex52, Carunty, catula, melwen, Sucubis	1	6	30
+335207	5	0	Prism & Dark Rainbow (6 Suits)	2020-11-04 — 11:47:41 UTC	Animex52, Carunty, catula, melwen, Sucubis	3	6	30
+335206	5	0	Prism & Dark Rainbow (6 Suits)	2020-11-04 — 11:25:34 UTC	Animex52, Carunty, catula, melwen, Sucubis	3	6	30
+335203	4	25	No Variant	2020-11-04 — 11:00:09 UTC	catula, doctorabi, melwen, Sucubis	16	5	25
+334357	4	24	No Variant	2020-11-03 — 09:44:01 UTC	Animex52, Carunty, catula, Pablo-	52	5	25
+333958	4	23	No Variant	2020-11-02 — 22:11:03 UTC	catula, rz, timotree, Zamiel	1	5	25
+333884	4	25	No Variant	2020-11-02 — 20:36:08 UTC	catula, Feich59, Kowalski1337, nitawa	501	5	25
+333860	4	0	No Variant	2020-11-02 — 20:02:56 UTC	catula, Feich59, Kowalski1337, nitawa	541	5	25
+333689	5	23	White-Fives & Brown (5 Suits)	2020-11-02 — 12:54:09 UTC	Carunty, catula, kodomazer, rz, Sucubis	1	5	25
+333679	5	25	White & Prism (5 Suits)	2020-11-02 — 12:25:29 UTC	Carunty, catula, honzas, kodomazer, Sucubis	7	5	25
+333660	5	0	No Variant	2020-11-02 — 09:28:29 UTC	catula, cockdestroyer, ebin_noob, Nitrate2, wump	27	5	25
+332738	4	0	White & Prism (6 Suits)	2020-11-01 — 12:58:24 UTC	catula, melwen, rachyrules, StKildaFan	6	6	30
+332732	4	0	White & Prism (6 Suits)	2020-11-01 — 12:35:44 UTC	catula, melwen, rachyrules, StKildaFan	7	6	30
+332727	4	20	Prism (4 Suits)	2020-11-01 — 12:16:26 UTC	catula, Floriman, melwen, robense	2	4	20
+332707	4	24	Rainbow (5 Suits)	2020-11-01 — 10:35:18 UTC	catula, charmander, Floriman, sin_faith	16	5	25
+332704	4	0	Rainbow (5 Suits)	2020-11-01 — 10:25:06 UTC	catula, charmander, Floriman, sin_faith	17	5	25
+332702	4	0	Rainbow (5 Suits)	2020-11-01 — 10:20:42 UTC	catula, charmander, Floriman, sin_faith	19	5	25
+332701	4	0	Rainbow (5 Suits)	2020-11-01 — 10:18:13 UTC	catula, charmander, Floriman, sin_faith	26	5	25
+332694	4	25	No Variant	2020-11-01 — 10:08:59 UTC	catula, sephiroth, sin_faith, VerySloppyTwo	23	5	25
+332691	4	0	No Variant	2020-11-01 — 10:02:42 UTC	catula, sephiroth, sin_faith, VerySloppyTwo	23	5	25
+332689	4	25	No Variant	2020-11-01 — 09:54:54 UTC	catula, sephiroth, sin_faith, VerySloppyTwo	25	5	25
+332681	5	25	No Variant	2020-11-01 — 09:16:58 UTC	asaelr, Carunty, catula, eevee, jack_0f_hearts	11	5	25
+332674	5	23	No Variant	2020-11-01 — 08:36:49 UTC	asaelr, Carunty, catula, eevee, jack_0f_hearts	13	5	25
+332628	3	0	Rainbow (6 Suits)	2020-11-01 — 05:55:22 UTC	Carunty, catula, doctorabi	332	6	30
+332620	5	22	No Variant	2020-11-01 — 05:40:44 UTC	catula, ejwu, parrotdoxair, StKildaFan, Tiramisu1th	50	5	25
+332022	5	27	Black (6 Suits)	2020-10-31 — 12:53:05 UTC	Carunty, catula, rachyrules, robense, Sucubis	16	6	30
+332004	6	25	Brown (5 Suits)	2020-10-31 — 11:39:51 UTC	Carunty, catula, jack67889, nitawa, sephiroth, Sucubis	8	5	25
+331999	4	22	Pink (5 Suits)	2020-10-31 — 11:03:25 UTC	Carunty, catula, jack67889, nitawa	34	5	25
+331989	3	24	No Variant	2020-10-31 — 10:09:41 UTC	catula, ebin_noob, nitawa	3260	5	25
+331087	3	24	Pink (5 Suits)	2020-10-30 — 11:28:25 UTC	Carunty, catula, Sucubis	75	5	25
+331084	3	0	Pink (5 Suits)	2020-10-30 — 11:10:14 UTC	Carunty, catula, Sucubis	108	5	25
+331081	3	22	Black (5 Suits)	2020-10-30 — 10:59:57 UTC	Carunty, catula, Sucubis	84	5	25
+331079	4	29	Pink-Fives & White (6 Suits)	2020-10-30 — 10:27:43 UTC	catula, cockdestroyer, jack67889, Pepepe	4	6	30
+331076	3	0	Pink-Fives & White (6 Suits)	2020-10-30 — 09:54:57 UTC	catula, jack67889, Pepepe	4	6	30
+330430	6	25	Throw It in a Hole (5 Suits)	2020-10-29 — 11:26:46 UTC	catula, eevee, jack67889, nitawa, rz, Sucubis	4	5	25
+330429	5	22	No Variant	2020-10-29 — 10:44:35 UTC	catula, eevee, jack67889, rz, StKildaFan	65	5	25
+330425	3	25	No Variant	2020-10-29 — 10:09:30 UTC	catula, jack67889, Sucubis	285	5	25
+330210	4	23	No Variant	2020-10-29 — 02:23:30 UTC	catula, CerdoNEFO, eevee, orucsoraihc	190	5	25
+329812	5	25	Throw It in a Hole (5 Suits)	2020-10-28 — 13:08:15 UTC	catula, nitawa, sin_faith, StKildaFan, Veexliat	2	5	25
+329799	4	0	Throw It in a Hole & Muddy Rainbow (5 Suits)	2020-10-28 — 12:28:24 UTC	catula, nitawa, sin_faith, Veexliat	1	5	25
+329790	6	0	Rainbow & Brown (6 Suits)	2020-10-28 — 11:55:46 UTC	catula, ebin_noob, Feich59, jack67889, sin_faith, Veexliat	2	6	30
+329788	5	29	Rainbow (6 Suits)	2020-10-28 — 11:33:20 UTC	catula, jack67889, StKildaFan, Sucubis, TheDaniMan	42	6	30
+329787	5	0	Rainbow (6 Suits)	2020-10-28 — 11:10:37 UTC	catula, jack67889, StKildaFan, Sucubis, TheDaniMan	59	6	30
+329778	3	25	No Variant	2020-10-28 — 08:31:44 UTC	Carunty, catula, VerySloppyTwo	459	5	25
+329161	4	24	Black (6 Suits)	2020-10-27 — 11:48:14 UTC	Carunty, catula, Pablo-, sephiroth	20	6	30
+329147	5	0	Pink (5 Suits)	2020-10-27 — 10:31:41 UTC	catula, cockdestroyer, jack67889, kodomazer, Sucubis	20	5	25
+329144	4	0	Pink (5 Suits)	2020-10-27 — 10:10:03 UTC	catula, jack67889, kodomazer, Sucubis	14	5	25
+329142	5	25	No Variant	2020-10-27 — 09:50:47 UTC	catula, jack67889, Pablo-, sephiroth, VerySloppyTwo	26	5	25
+329140	4	0	No Variant	2020-10-27 — 09:20:03 UTC	catula, jack67889, Pablo-, VerySloppyTwo	233	5	25
+329139	4	0	White & Prism (5 Suits)	2020-10-27 — 09:11:04 UTC	catula, jack67889, Pablo-, VerySloppyTwo	5	5	25
+329138	4	0	White & Prism (5 Suits)	2020-10-27 — 09:04:29 UTC	catula, jack67889, Pablo-, VerySloppyTwo	11	5	25
+329135	4	25	No Variant	2020-10-27 — 07:59:36 UTC	AshleyBridge, Carunty, catula, sin_faith	38	5	25
+329133	5	27	Black (6 Suits)	2020-10-27 — 07:29:18 UTC	AshleyBridge, Carunty, catula, Jtjg, sin_faith	28	6	30
+328568	3	24	No Variant	2020-10-26 — 12:09:15 UTC	catula, kodomazer, Pablo-	47	5	25
+328564	4	24	Muddy Rainbow (5 Suits)	2020-10-26 — 11:34:14 UTC	catula, cockdestroyer, Pablo-, Sucubis	12	5	25
+328562	4	0	Muddy Rainbow (5 Suits)	2020-10-26 — 10:59:27 UTC	catula, cockdestroyer, Pablo-, Sucubis	18	5	25
+328561	4	27	Cocoa Rainbow (6 Suits)	2020-10-26 — 10:26:15 UTC	catula, cockdestroyer, Pablo-, Sucubis	11	6	30
+328560	4	0	Cocoa Rainbow (6 Suits)	2020-10-26 — 09:58:26 UTC	catula, cockdestroyer, Pablo-, Sucubis	11	6	30
+328559	4	0	Cocoa Rainbow (6 Suits)	2020-10-26 — 09:50:28 UTC	catula, cockdestroyer, Pablo-, Sucubis	14	6	30
+328557	4	0	No Variant	2020-10-26 — 09:42:47 UTC	catula, cockdestroyer, Pablo-, Sucubis	213	5	25
+328555	4	0	No Variant	2020-10-26 — 09:31:31 UTC	catula, Pablo-, Sucubis, swineherd	103	5	25
+327957	3	21	Black (5 Suits)	2020-10-25 — 11:41:06 UTC	Carunty, catula, Wittvector	119	5	25
+327946	5	18	Pink (4 Suits)	2020-10-25 — 11:07:29 UTC	asaelr, catula, cockdestroyer, methmatics, sephiroth	7	4	20
+327940	3	25	No Variant	2020-10-25 — 10:18:19 UTC	Anubis, asaelr, catula	11	5	25
+327872	3	30	6 Suits	2020-10-25 — 06:01:40 UTC	catula, derekcheah, orucsoraihc	196	6	30
+327264	4	24	Brown (5 Suits)	2020-10-24 — 10:19:45 UTC	Bonja97, Carunty, catula, kodomazer	46	5	25
+327160	4	24	Pink (5 Suits)	2020-10-24 — 06:16:51 UTC	catula, Fey, newduke, timotree	51	5	25
+326464	6	25	No Variant	2020-10-23 — 13:04:08 UTC	Carunty, catula, nitawa, Pablo-, Pepepe, Sucubis	16	5	25
+326441	6	25	No Variant	2020-10-23 — 12:20:46 UTC	catula, MKQ, nitawa, Pepepe, TimeHoodie, Wittvector	5	5	25
+326394	5	30	Prism (6 Suits)	2020-10-23 — 09:38:07 UTC	Carunty, catula, jack67889, Sucubis, Wittvector	7	6	30
+326388	4	20	Pink (4 Suits)	2020-10-23 — 08:57:06 UTC	Carunty, catula, Sucubis, Wittvector	8	4	20
+326386	4	0	Pink (4 Suits)	2020-10-23 — 08:39:14 UTC	Carunty, catula, Sucubis, Wittvector	22	4	20
+326383	3	0	Prism (4 Suits)	2020-10-23 — 08:30:26 UTC	catula, Sucubis, Wittvector	45	4	20
+326347	4	21	No Variant	2020-10-23 — 07:06:22 UTC	catula, cockdestroyer, Fey, veigar	243	5	25
+326339	3	0	No Variant	2020-10-23 — 06:47:30 UTC	catula, Fey, veigar	74	5	25
+326330	3	22	No Variant	2020-10-23 — 06:29:32 UTC	catula, Fey, veigar	77	5	25
+326245	6	25	Up or Down (5 Suits)	2020-10-23 — 03:50:27 UTC	catula, cockdestroyer, duckmedic, JackFrost, newduke, wump	4	5	25
+326218	5	0	Up or Down & White (5 Suits)	2020-10-23 — 03:21:37 UTC	catula, duckmedic, JackFrost, newduke, wump	2	5	25
+325713	2	25	No Variant	2020-10-22 — 11:43:23 UTC	catula, rikkihirai	321	5	25
+325711	3	25	No Variant	2020-10-22 — 10:41:05 UTC	Animex52, catula, Sucubis	106	5	25
+325709	3	0	No Variant	2020-10-22 — 10:12:33 UTC	Animex52, catula, Sucubis	109	5	25
+325698	4	0	No Variant	2020-10-22 — 08:57:51 UTC	Carunty, catula, jack67889, orucsoraihc	326	5	25
+325696	3	24	No Variant	2020-10-22 — 08:35:52 UTC	Carunty, catula, rachyrules	201	5	25
+325693	4	0	No Variant	2020-10-22 — 08:18:39 UTC	Animex52, Carunty, catula, rachyrules	82	5	25
+325013	3	0	6 Suits	2020-10-21 — 11:05:29 UTC	asaelr, catula, cockdestroyer	7	6	30
+325011	5	23	No Variant	2020-10-21 — 10:33:02 UTC	catula, cockdestroyer, sephiroth, Sucubis, whalesgomoo	23	5	25
+325007	5	0	No Variant	2020-10-21 — 10:04:13 UTC	catula, cockdestroyer, sephiroth, Sucubis, whalesgomoo	21	5	25
+325001	5	0	No Variant	2020-10-21 — 09:35:10 UTC	catula, cockdestroyer, sephiroth, Sucubis, whalesgomoo	541	5	25
+324370	5	25	No Variant	2020-10-20 — 12:28:04 UTC	catula, jack67889, rachyrules, sephiroth, Sucubis	30	5	25
+324366	5	0	No Variant	2020-10-20 — 12:02:14 UTC	catula, jack67889, rachyrules, sephiroth, Sucubis	35	5	25
+324363	5	0	Throw It in a Hole (5 Suits)	2020-10-20 — 11:54:10 UTC	catula, jack67889, rachyrules, sephiroth, Sucubis	3	5	25
+324361	5	0	Throw It in a Hole & Rainbow (5 Suits)	2020-10-20 — 11:44:37 UTC	catula, jack67889, rachyrules, sephiroth, Sucubis	3	5	25
+324360	4	0	Black (5 Suits)	2020-10-20 — 11:42:08 UTC	catula, jack67889, rachyrules, Sucubis	4	5	25
+324356	4	20	Black (5 Suits)	2020-10-20 — 11:27:30 UTC	catula, jack67889, rachyrules, Sucubis	4	5	25
+324349	4	0	Black (5 Suits)	2020-10-20 — 11:01:51 UTC	catula, jack67889, rachyrules, Sucubis	5	5	25
+324344	5	0	Black (6 Suits)	2020-10-20 — 10:50:16 UTC	catula, jack67889, rachyrules, StKildaFan, Sucubis	23	6	30
+324342	5	0	Black (6 Suits)	2020-10-20 — 10:45:26 UTC	catula, jack67889, rachyrules, StKildaFan, Sucubis	35	6	30
+324339	5	25	No Variant	2020-10-20 — 10:03:05 UTC	Carunty, catula, Jtjg, StKildaFan, Wittvector	51	5	25
+324335	2	0	No Variant	2020-10-20 — 08:23:25 UTC	catula, robense	63	5	25
+324333	2	0	No Variant	2020-10-20 — 08:16:24 UTC	catula, robense	63	5	25
+324323	5	22	No Variant	2020-10-20 — 07:04:07 UTC	catula, ejwu, orucsoraihc, StKildaFan, veigar	120	5	25
+324318	4	0	No Variant	2020-10-20 — 06:39:08 UTC	catula, orucsoraihc, StKildaFan, veigar	130	5	25
+323669	4	22	Pink & Prism (5 Suits)	2020-10-19 — 12:24:09 UTC	catula, sephiroth, Sucubis, TimeHoodie	8	5	25
+323663	5	25	No Variant	2020-10-19 — 11:34:03 UTC	Animex52, catula, Sucubis, TimeHoodie, Zakisan	20	5	25
+323657	4	0	Rainbow (5 Suits)	2020-10-19 — 10:26:01 UTC	catula, jack67889, StKildaFan, swineherd	68	5	25
+323655	4	0	Rainbow (5 Suits)	2020-10-19 — 10:20:41 UTC	catula, jack67889, StKildaFan, swineherd	92	5	25
+323649	6	0	No Variant	2020-10-19 — 09:57:33 UTC	Animex52, catula, cockdestroyer, jack67889, StKildaFan, swineherd	4	5	25
+323645	5	24	No Variant	2020-10-19 — 09:27:06 UTC	Animex52, asaelr, catula, cockdestroyer, jack67889	12	5	25
+323518	2	0	Duck (5 Suits)	2020-10-19 — 04:00:36 UTC	catula, sandvichkin	63	5	25
+322878	5	0	Pink (5 Suits)	2020-10-18 — 12:24:28 UTC	Animex52, catula, sin_faith, StKildaFan, Veexliat	5	5	25
+322874	4	0	Pink (5 Suits)	2020-10-18 — 11:57:30 UTC	catula, StKildaFan, swineherd, TimeHoodie	16	5	25
+322870	4	24	Pink (5 Suits)	2020-10-18 — 11:34:34 UTC	catula, methmatics, Sucubis, TimeHoodie	13	5	25
+322869	5	0	Pink (5 Suits)	2020-10-18 — 11:08:40 UTC	catula, sin_faith, Sucubis, swineherd, TimeHoodie	7	5	25
+322868	5	23	Pink (5 Suits)	2020-10-18 — 10:40:01 UTC	catula, sin_faith, Sucubis, swineherd, TimeHoodie	10	5	25
+322836	2	25	No Variant	2020-10-18 — 07:24:41 UTC	catula, sandvichkin	328	5	25
+322767	3	0	No Variant	2020-10-18 — 05:16:54 UTC	catula, StKildaFan, timotree	40	5	25
+322736	3	24	No Variant	2020-10-18 — 04:42:36 UTC	catula, StKildaFan, timotree	39	5	25
+322212	5	0	Prism (6 Suits)	2020-10-17 — 14:14:28 UTC	Animex52, catula, jack67889, melwen, Sucubis	5	6	30
+322204	5	0	Prism (6 Suits)	2020-10-17 — 13:23:44 UTC	Animex52, catula, jack67889, melwen, Sucubis	12	6	30
+322199	4	22	No Variant	2020-10-17 — 12:38:34 UTC	Animex52, catula, melwen, Sucubis	16	5	25
+322192	5	25	No Variant	2020-10-17 — 12:04:12 UTC	Animex52, catula, ebin_noob, Sucubis, wortel	81	5	25
+322187	3	24	No Variant	2020-10-17 — 11:33:10 UTC	catula, ebin_noob, Sucubis	386	5	25
+322106	5	0	White (5 Suits)	2020-10-17 — 06:29:28 UTC	catula, cockdestroyer, Fey, orucsoraihc, rz	7	5	25
+322089	5	0	White (5 Suits)	2020-10-17 — 05:50:04 UTC	catula, cockdestroyer, Fey, orucsoraihc, rz	7	5	25
+322079	5	0	White (5 Suits)	2020-10-17 — 05:34:13 UTC	catula, cockdestroyer, Fey, orucsoraihc, rz	8	5	25
+322076	5	0	White (5 Suits)	2020-10-17 — 05:32:56 UTC	catula, cockdestroyer, Fey, orucsoraihc, rz	10	5	25
+322074	5	0	White (5 Suits)	2020-10-17 — 05:30:43 UTC	catula, cockdestroyer, Fey, orucsoraihc, rz	11	5	25
+322072	4	0	No Variant	2020-10-17 — 05:26:05 UTC	catula, cockdestroyer, lil_baootey, ricotita	793	5	25
+322015	4	25	No Variant	2020-10-17 — 04:14:15 UTC	antitelharsic, Carunty, catula, duckmedic	45	5	25
+321995	5	0	No Variant	2020-10-17 — 03:45:06 UTC	antitelharsic, Carunty, catula, duckmedic, ejwu	41	5	25
+321900	3	25	Pink (5 Suits)	2020-10-17 — 01:34:38 UTC	catula, sephiroth, TheDaniMan	62	5	25
+321890	2	23	Pink (5 Suits)	2020-10-17 — 01:14:09 UTC	catula, TheDaniMan	29	5	25
+321874	2	0	Pink (5 Suits)	2020-10-17 — 00:55:21 UTC	catula, TheDaniMan	29	5	25
+321869	2	23	Pink (5 Suits)	2020-10-17 — 00:44:34 UTC	catula, TheDaniMan	30	5	25
+320847	5	24	Pink (5 Suits)	2020-10-15 — 13:08:19 UTC	catula, jack67889, melwen, MKQ, StKildaFan	5	5	25
+320840	4	20	Throw It in a Hole (4 Suits)	2020-10-15 — 12:15:54 UTC	catula, jack67889, sephiroth, Sucubis	4	4	20
+320835	4	0	Throw It in a Hole (4 Suits)	2020-10-15 — 11:52:23 UTC	catula, jack67889, sephiroth, Sucubis	5	4	20
+320833	4	0	Throw It in a Hole (4 Suits)	2020-10-15 — 11:46:11 UTC	Animex52, catula, Sucubis, TimeHoodie	5	4	20
+320830	4	19	Throw It in a Hole (4 Suits)	2020-10-15 — 11:31:29 UTC	Animex52, catula, Sucubis, TimeHoodie	12	4	20
+320807	4	30	Pink (6 Suits)	2020-10-15 — 08:36:59 UTC	catula, jack67889, methmatics, sephiroth	54	6	30
+320804	2	19	4 Suits	2020-10-15 — 07:52:55 UTC	Animex52, catula	244	4	20
+320225	3	25	White (5 Suits)	2020-10-14 — 11:42:49 UTC	Animex52, catula, Tiramisu1th	126	5	25
+320217	4	0	White (5 Suits)	2020-10-14 — 11:07:36 UTC	catula, level_0, level_17, Phone_level4	79	5	25
+320214	2	22	No Variant	2020-10-14 — 10:23:01 UTC	catula, sandwichman	344	5	25
+319454	4	23	Throw It in a Hole (5 Suits)	2020-10-13 — 11:30:28 UTC	Animex52, catula, cockdestroyer, jack67889	10	5	25
+319444	5	25	Prism (5 Suits)	2020-10-13 — 10:46:08 UTC	catula, cockdestroyer, jack67889, robense, sephiroth	5	5	25
+319439	5	22	Prism (5 Suits)	2020-10-13 — 10:11:31 UTC	catula, cockdestroyer, jack67889, robense, sephiroth	8	5	25
+319435	5	0	Prism (5 Suits)	2020-10-13 — 09:46:00 UTC	Animex52, catula, cockdestroyer, jack67889, robense	13	5	25
+319431	6	20	4 Suits	2020-10-13 — 09:23:30 UTC	Animex52, catula, level_0, level_17, methmatics, StKildaFan	17	4	20
+319428	5	0	Black (6 Suits)	2020-10-13 — 08:51:24 UTC	antitelharsic, catula, derekcheah, robense, sephiroth	24	6	30
+319335	3	0	No Variant	2020-10-13 — 05:03:24 UTC	Carunty, catula, parrotdoxair	411	5	25
+319301	3	0	No Variant	2020-10-13 — 04:24:29 UTC	Carunty, catula, parrotdoxair	451	5	25
+318753	5	24	Throw It in a Hole (5 Suits)	2020-10-12 — 11:45:27 UTC	catula, cockdestroyer, rachyrules, sin_faith, StKildaFan	4	5	25
+318741	4	0	Throw It in a Hole (6 Suits)	2020-10-12 — 11:00:25 UTC	catula, jack67889, sephiroth, sin_faith	15	6	30
+318085	4	24	Throw It in a Hole (5 Suits)	2020-10-11 — 11:44:28 UTC	catula, cockdestroyer, jack67889, Nitrate2	20	5	25
+318076	4	25	Throw It in a Hole (5 Suits)	2020-10-11 — 11:00:26 UTC	antitelharsic, catula, cockdestroyer, derekcheah	40	5	25
+318070	4	25	Throw It in a Hole (5 Suits)	2020-10-11 — 10:22:33 UTC	antitelharsic, catula, cockdestroyer, sephiroth	8	5	25
+318048	4	24	Pink (5 Suits)	2020-10-11 — 09:33:10 UTC	catula, cockdestroyer, pettzar, sephiroth	69	5	25
+318028	5	0	White-Ones & White (6 Suits)	2020-10-11 — 09:06:18 UTC	asaelr, catula, cockdestroyer, derekcheah, Sucubis	4	6	30
+318025	5	0	Black (5 Suits)	2020-10-11 — 09:00:28 UTC	catula, cockdestroyer, Cold, methmatics, Sucubis	30	5	25
+318024	6	0	No Variant	2020-10-11 — 08:59:29 UTC	Carunty, catula, cockdestroyer, Cold, Sucubis, wortel	52	5	25
+318021	6	24	No Variant	2020-10-11 — 08:51:49 UTC	Carunty, catula, cockdestroyer, Cold, Sucubis, wortel	75	5	25
+317961	6	26	Black (6 Suits)	2020-10-11 — 06:49:08 UTC	angel-a, Animex52, catula, sin_faith, swineherd, wump	15	6	30
+317328	5	26	Black (6 Suits)	2020-10-10 — 14:54:44 UTC	catula, rachyrules, StKildaFan, Wittvector, wortel	58	6	30
+317308	4	29	Brown (6 Suits)	2020-10-10 — 14:06:44 UTC	catula, melwen, sephiroth, wortel	27	6	30
+317213	3	25	No Variant	2020-10-10 — 07:29:33 UTC	catula, Pablo-, StKildaFan	65	5	25
+317139	5	25	White (5 Suits)	2020-10-10 — 05:33:14 UTC	catula, ejwu, orucsoraihc, parrotdoxair, StKildaFan	26	5	25
+317095	3	25	No Variant	2020-10-10 — 04:45:41 UTC	catula, ejwu, parrotdoxair	1095	5	25
+317066	2	25	No Variant	2020-10-10 — 04:13:06 UTC	catula, ejwu	348	5	25
+316503	4	25	Gray (5 Suits)	2020-10-09 — 13:49:15 UTC	catula, jack67889, sephiroth, StKildaFan	27	5	25
+316501	3	0	Gray (5 Suits)	2020-10-09 — 13:23:58 UTC	catula, jack67889, sephiroth	37	5	25
+316488	2	15	3 Suits	2020-10-09 — 11:51:45 UTC	catula, StKildaFan	105	3	15
+316486	2	13	3 Suits	2020-10-09 — 11:45:40 UTC	catula, StKildaFan	124	3	15
+316480	2	14	3 Suits	2020-10-09 — 11:35:19 UTC	catula, StKildaFan	193	3	15
+316477	2	14	3 Suits	2020-10-09 — 11:26:09 UTC	catula, StKildaFan	271	3	15
+316470	4	0	Black (6 Suits)	2020-10-09 — 11:01:24 UTC	catula, jack67889, MarkusKahlsen, TimeHoodie	64	6	30
+316443	6	0	Black (6 Suits)	2020-10-09 — 10:15:26 UTC	asaelr, catula, jack67889, kodomazer, sephiroth, TimeHoodie	3	6	30
+316442	5	25	No Variant	2020-10-09 — 09:49:38 UTC	asaelr, catula, jack67889, kodomazer, TimeHoodie	14	5	25
+316439	6	0	No Variant	2020-10-09 — 09:22:21 UTC	asaelr, catula, cockdestroyer, jack67889, kodomazer, TimeHoodie	5	5	25
+316437	6	0	No Variant	2020-10-09 — 09:14:30 UTC	asaelr, catula, cockdestroyer, jack67889, kodomazer, TimeHoodie	5	5	25
+316431	3	25	No Variant	2020-10-09 — 08:01:52 UTC	Animex52, arc, catula	111	5	25
+315793	6	23	Rainbow (5 Suits)	2020-10-08 — 12:43:49 UTC	catula, cockdestroyer, nitawa, rachyrules, StKildaFan, Veexliat	11	5	25
+315763	4	0	Pink (5 Suits)	2020-10-08 — 11:11:16 UTC	asaelr, catula, jack67889, methmatics	2	5	25
+315759	4	0	Pink (5 Suits)	2020-10-08 — 10:49:29 UTC	asaelr, catula, jack67889, methmatics	3	5	25
+315758	4	0	Pink (5 Suits)	2020-10-08 — 10:34:17 UTC	asaelr, catula, jack67889, methmatics	3	5	25
+315757	5	0	Pink (5 Suits)	2020-10-08 — 10:13:14 UTC	asaelr, catula, methmatics, pianoblook, sephiroth	4	5	25
+315756	6	0	Pink (5 Suits)	2020-10-08 — 09:58:24 UTC	asaelr, catula, cockdestroyer, methmatics, pianoblook, sephiroth	2	5	25
+315755	6	0	Pink (5 Suits)	2020-10-08 — 09:58:19 UTC	asaelr, catula, cockdestroyer, methmatics, pianoblook, sephiroth	3	5	25
+315747	6	0	Omni (6 Suits)	2020-10-08 — 09:25:57 UTC	catula, cockdestroyer, Nitrate2, pianoblook, sephiroth, TimeHoodie	7	6	30
+314883	4	25	No Variant	2020-10-07 — 12:49:21 UTC	asaelr, catula, cockdestroyer, jack67889	13	5	25
+314875	4	0	No Variant	2020-10-07 — 12:16:09 UTC	asaelr, catula, cockdestroyer, Nitrate2	13	5	25
+314864	4	25	No Variant	2020-10-07 — 11:47:27 UTC	catula, cockdestroyer, nitawa, StKildaFan	167	5	25
+314853	3	0	No Variant	2020-10-07 — 11:03:47 UTC	catula, robense, StKildaFan	28	5	25
+314851	3	0	No Variant	2020-10-07 — 10:48:59 UTC	catula, robense, StKildaFan	26	5	25
+314846	2	24	No Variant	2020-10-07 — 10:32:34 UTC	catula, robense	66	5	25
+314837	3	24	No Variant	2020-10-07 — 08:04:17 UTC	catula, robense, StKildaFan	27	5	25
+314226	6	29	Brown (6 Suits)	2020-10-06 — 12:39:40 UTC	Animex52, catula, cockdestroyer, jack67889, rachyrules, sephiroth	10	6	30
+314214	6	25	No Variant	2020-10-06 — 11:40:17 UTC	Animex52, asaelr, catula, cockdestroyer, jack67889, Sucubis	8	5	25
+314207	4	0	No Variant	2020-10-06 — 10:59:55 UTC	Animex52, asaelr, catula, cockdestroyer	16	5	25
+314184	2	22	No Variant	2020-10-06 — 09:41:15 UTC	Animex52, catula	335	5	25
+313358	3	25	No Variant	2020-10-05 — 12:10:28 UTC	catula, StKildaFan, Veexliat	78	5	25
+313356	5	24	Brown (5 Suits)	2020-10-05 — 11:31:28 UTC	asaelr, catula, jack67889, Pablo-, Veexliat	17	5	25
+313348	5	0	Brown (5 Suits)	2020-10-05 — 10:48:38 UTC	asaelr, catula, jack67889, TimeHoodie, Veexliat	3	5	25
+313345	4	25	No Variant	2020-10-05 — 10:04:31 UTC	catula, jack67889, rachyrules, sephiroth	125	5	25
+312723	4	27	Black (6 Suits)	2020-10-04 — 10:37:51 UTC	catula, nitawa, sephiroth, Sucubis	22	6	30
+312708	4	0	Black (6 Suits)	2020-10-04 — 10:05:03 UTC	catula, nitawa, sephiroth, Sucubis	26	6	30
+312703	4	0	Black (6 Suits)	2020-10-04 — 09:55:44 UTC	catula, nitawa, sephiroth, Sucubis	121	6	30
+312692	5	27	Black (6 Suits)	2020-10-04 — 09:30:30 UTC	catula, Fey, nitawa, sephiroth, Sucubis	27	6	30
+312690	4	0	Black (6 Suits)	2020-10-04 — 09:07:05 UTC	catula, Fey, nitawa, sephiroth	142	6	30
+312629	4	25	No Variant	2020-10-04 — 06:38:39 UTC	catula, ejwu, parrotdoxair, Tiramisu1th	198	5	25
+311812	6	0	Pink (5 Suits)	2020-10-03 — 11:52:08 UTC	catula, cockdestroyer, jack67889, nitawa, Pablo-, sephiroth	9	5	25
+311802	5	22	Omni (5 Suits)	2020-10-03 — 11:17:32 UTC	catula, cockdestroyer, jack67889, nitawa, Sucubis	11	5	25
+311783	5	22	Black (5 Suits)	2020-10-03 — 10:18:47 UTC	catula, cockdestroyer, nitawa, Sucubis, Tiramisu1th	36	5	25
+311742	3	25	No Variant	2020-10-03 — 07:21:57 UTC	catula, ejwu, StKildaFan	76	5	25
+311726	2	27	Prism (6 Suits)	2020-10-03 — 06:47:29 UTC	catula, StKildaFan	112	6	30
+311713	3	25	No Variant	2020-10-03 — 05:56:38 UTC	catula, newduke, StKildaFan	71	5	25
+311703	4	0	No Variant	2020-10-03 — 05:34:00 UTC	catula, newduke, pianoblook, StKildaFan	27	5	25
+311035	6	0	Black (6 Suits)	2020-10-02 — 14:18:16 UTC	catula, cockdestroyer, jack67889, StKildaFan, Sucubis, vEnhance	28	6	30
+311033	6	28	Black (6 Suits)	2020-10-02 — 14:03:25 UTC	catula, cockdestroyer, jack67889, StKildaFan, Sucubis, vEnhance	38	6	30
+311023	3	26	Black (6 Suits)	2020-10-02 — 13:10:35 UTC	catula, cockdestroyer, jack67889	213	6	30
+310987	5	26	Black (6 Suits)	2020-10-02 — 12:16:21 UTC	catula, cockdestroyer, jack67889, TimeHoodie, Veexliat	72	6	30
+310964	6	0	Rainbow (6 Suits)	2020-10-02 — 11:32:49 UTC	asaelr, catula, cockdestroyer, TimeHoodie, Tiramisu1th, Veexliat	14	6	30
+310950	3	25	No Variant	2020-10-02 — 10:02:20 UTC	catula, jack67889, Veexliat	1636	5	25
+310947	2	22	No Variant	2020-10-02 — 09:33:05 UTC	catula, wump	354	5	25
+310439	6	24	No Variant	2020-10-01 — 14:04:29 UTC	catula, cockdestroyer, jack67889, sephiroth, StKildaFan, vEnhance	8	5	25
+310430	6	0	No Variant	2020-10-01 — 13:09:19 UTC	catula, cockdestroyer, sephiroth, Sucubis, TheDaniMan, TimeHoodie	6	5	25
+310429	6	25	No Variant	2020-10-01 — 13:04:10 UTC	catula, cockdestroyer, sephiroth, Sucubis, TheDaniMan, TimeHoodie	7	5	25
+310422	6	0	No Variant	2020-10-01 — 12:29:33 UTC	catula, cockdestroyer, sephiroth, Sucubis, TheDaniMan, TimeHoodie	7	5	25
+310415	6	0	No Variant	2020-10-01 — 12:07:21 UTC	catula, cockdestroyer, Dr_Kakashi, Sucubis, TheDaniMan, TimeHoodie	7	5	25
+310412	6	25	No Variant	2020-10-01 — 11:44:14 UTC	catula, cockdestroyer, Dr_Kakashi, Sucubis, TheDaniMan, TimeHoodie	23	5	25
+310411	6	24	No Variant	2020-10-01 — 11:06:52 UTC	catula, cockdestroyer, jack67889, Nitrate2, Sucubis, TimeHoodie	8	5	25
+309667	6	22	No Variant	2020-09-30 — 13:56:38 UTC	Animex52, catula, MarkusKahlsen, StKildaFan, Sucubis, vEnhance	8	5	25
+309657	6	0	No Variant	2020-09-30 — 13:13:04 UTC	Animex52, catula, MarkusKahlsen, StKildaFan, Sucubis, vEnhance	18	5	25
+309651	6	0	No Variant	2020-09-30 — 13:02:39 UTC	Animex52, catula, MarkusKahlsen, StKildaFan, Sucubis, vEnhance	26	5	25
+309649	4	0	No Variant	2020-09-30 — 12:51:44 UTC	catula, MarkusKahlsen, StKildaFan, Sucubis	131	5	25
+309636	6	30	White (6 Suits)	2020-09-30 — 12:25:35 UTC	catula, rachyrules, StKildaFan, Sucubis, swineherd, TimeHoodie	5	6	30
+309626	2	24	No Variant	2020-09-30 — 11:32:08 UTC	catula, StKildaFan	196	5	25
+309032	5	23	No Variant	2020-09-29 — 11:35:38 UTC	Animex52, catula, Feich59, orucsoraihc, Sucubis	38	5	25
+309026	2	0	No Variant	2020-09-29 — 10:56:54 UTC	catula, Dr_Kakashi	108	5	25
+309024	2	0	No Variant	2020-09-29 — 10:19:42 UTC	catula, Dr_Kakashi	108	5	25
+309020	2	25	No Variant	2020-09-29 — 09:54:21 UTC	catula, Dr_Kakashi	108	5	25
+308260	6	0	No Variant	2020-09-28 — 11:57:32 UTC	catula, chriswck, cockdestroyer, jack67889, Nitrate2, StKildaFan	19	5	25
+308258	6	24	No Variant	2020-09-28 — 11:34:11 UTC	catula, chriswck, cockdestroyer, jack67889, Nitrate2, StKildaFan	115	5	25
+308255	6	0	No Variant	2020-09-28 — 11:07:01 UTC	catula, chriswck, cockdestroyer, derekcheah, Nitrate2, sin_faith	17	5	25
+308254	6	0	No Variant	2020-09-28 — 10:50:43 UTC	catula, chriswck, cockdestroyer, derekcheah, Nitrate2, sin_faith	25	5	25
+308252	3	0	No Variant	2020-09-28 — 10:33:18 UTC	catula, chriswck, cockdestroyer	375	5	25
+307591	4	25	No Variant	2020-09-27 — 12:59:14 UTC	Animex52, catula, MarkusKahlsen, nitawa	88	5	25
+307587	6	24	No Variant	2020-09-27 — 12:23:44 UTC	catula, Hapotata, nitawa, orucsoraihc, StKildaFan, TimeHoodie	32	5	25
+307583	6	0	No Variant	2020-09-27 — 11:53:20 UTC	catula, Hapotata, nitawa, orucsoraihc, StKildaFan, TimeHoodie	42	5	25
+307576	5	0	Prism (5 Suits)	2020-09-27 — 11:22:26 UTC	Animex52, catula, Hapotata, nitawa, StKildaFan	20	5	25
+307570	3	0	Prism (5 Suits)	2020-09-27 — 10:34:33 UTC	catula, nitawa, sephiroth	24	5	25
+307551	3	0	Prism (5 Suits)	2020-09-27 — 08:22:53 UTC	catula, nitawa, Pablo-	80	5	25
+307541	2	0	Prism (5 Suits)	2020-09-27 — 07:54:24 UTC	catula, Pablo-	52	5	25
+307532	3	23	No Variant	2020-09-27 — 07:39:54 UTC	asaelr, catula, Fey	11	5	25
+307524	3	22	No Variant	2020-09-27 — 07:14:32 UTC	asaelr, catula, Fey	11	5	25
+307514	4	25	No Variant	2020-09-27 — 06:33:30 UTC	catula, Fey, StKildaFan, TimeHoodie	111	5	25
+307488	3	25	No Variant	2020-09-27 — 05:31:26 UTC	catula, Fey, TimeHoodie	82	5	25
+307476	3	0	No Variant	2020-09-27 — 05:11:51 UTC	catula, Fey, TimeHoodie	89	5	25
+307261	3	0	Rainbow (6 Suits)	2020-09-27 — 01:33:17 UTC	catula, nitawa, robense	40	6	30
+306860	4	25	No Variant	2020-09-26 — 13:36:26 UTC	Andrew_UK, catula, nitawa, vEnhance	39	5	25
+306840	4	24	No Variant	2020-09-26 — 13:00:12 UTC	catula, CoxZuckrMachine, nitawa, vEnhance	156	5	25
+306828	5	25	No Variant	2020-09-26 — 12:23:32 UTC	Bonja97, catula, CoxZuckrMachine, nitawa, rachyrules	77	5	25
+306823	4	0	No Variant	2020-09-26 — 11:49:21 UTC	catula, CoxZuckrMachine, nitawa, rachyrules	2763	5	25
+306816	4	24	No Variant	2020-09-26 — 11:31:23 UTC	catula, CoxZuckrMachine, rachyrules, robense	257	5	25
+306778	5	21	No Variant	2020-09-26 — 09:28:21 UTC	catula, CoxZuckrMachine, ejwu, nitawa, sephiroth	207	5	25
+306768	5	0	No Variant	2020-09-26 — 08:59:30 UTC	catula, CoxZuckrMachine, ejwu, nitawa, sephiroth	1995	5	25
+306764	6	0	No Variant	2020-09-26 — 08:41:19 UTC	catula, CoxZuckrMachine, ejwu, nitawa, sephiroth, StKildaFan	10	5	25
+306757	5	23	No Variant	2020-09-26 — 08:18:02 UTC	catula, CoxZuckrMachine, Dr_Kakashi, ejwu, nitawa	9	5	25
+306741	4	23	No Variant	2020-09-26 — 07:33:25 UTC	catula, CoxZuckrMachine, Dr_Kakashi, ejwu	8	5	25
+306720	2	0	No Variant	2020-09-26 — 06:53:45 UTC	catula, CoxZuckrMachine	357	5	25
+306654	3	21	No Variant	2020-09-26 — 05:01:17 UTC	catula, ejwu, parrotdoxair	1291	5	25
+306624	3	23	No Variant	2020-09-26 — 04:19:16 UTC	catula, ejwu, parrotdoxair	1465	5	25
+306128	6	22	Prism (5 Suits)	2020-09-25 — 15:57:48 UTC	Animex52, catula, CoxZuckrMachine, Kyle, nitawa, Pablo-	6	5	25
+306103	5	28	Prism (6 Suits)	2020-09-25 — 14:59:07 UTC	Animex52, catula, CoxZuckrMachine, melwen, Pablo-	6	6	30
+306095	5	0	Prism (6 Suits)	2020-09-25 — 14:18:35 UTC	Animex52, catula, CoxZuckrMachine, melwen, Pablo-	9	6	30
+306091	5	0	Prism (6 Suits)	2020-09-25 — 14:07:54 UTC	Animex52, catula, CoxZuckrMachine, melwen, Pablo-	8	6	30
+306087	5	0	Black (6 Suits)	2020-09-25 — 13:50:34 UTC	Animex52, catula, MarkusKahlsen, Pablo-, swineherd	13	6	30
+306084	6	0	6 Suits	2020-09-25 — 13:30:02 UTC	Animex52, catula, CoxZuckrMachine, MarkusKahlsen, Pablo-, sephiroth	50	6	30
+306074	5	22	No Variant	2020-09-25 — 12:51:54 UTC	catula, CoxZuckrMachine, Nitrate2, sephiroth, StKildaFan	38	5	25
+306045	4	25	No Variant	2020-09-25 — 12:06:53 UTC	catula, CoxZuckrMachine, Nitrate2, pettzar	899	5	25
+306016	5	0	No Variant	2020-09-25 — 11:29:58 UTC	catula, CoxZuckrMachine, Nitrate2, pettzar, swineherd	25	5	25
+305979	3	20	4 Suits	2020-09-25 — 10:55:02 UTC	catula, Div, egerdm	21	4	20
+305972	5	22	No Variant	2020-09-25 — 10:20:35 UTC	catula, egerdm, jack67889, Pablo-, sephiroth	44	5	25
+305355	5	0	No Variant	2020-09-24 — 14:10:16 UTC	Animex52, catula, CoxZuckrMachine, MKQ, vEnhance	29	5	25
+305347	5	0	No Variant	2020-09-24 — 13:43:25 UTC	Animex52, catula, CoxZuckrMachine, jack67889, vEnhance	28	5	25
+305338	5	0	No Variant	2020-09-24 — 12:59:02 UTC	catula, CoxZuckrMachine, jack67889, nitawa, vEnhance	39	5	25
+305331	6	25	No Variant	2020-09-24 — 12:23:22 UTC	Animex52, catula, CoxZuckrMachine, jack67889, Pablo-, sephiroth	10	5	25
+305317	4	0	No Variant	2020-09-24 — 11:45:04 UTC	catula, CoxZuckrMachine, jack67889, Pablo-	2076	5	25
+305308	5	0	No Variant	2020-09-24 — 11:15:25 UTC	catula, CoxZuckrMachine, jack67889, OPOP, Pablo-	658	5	25
+305305	2	0	No Variant	2020-09-24 — 10:56:14 UTC	catula, CoxZuckrMachine	362	5	25
+305302	2	0	No Variant	2020-09-24 — 10:44:13 UTC	catula, CoxZuckrMachine	369	5	25
+304675	5	27	Prism (6 Suits)	2020-09-23 — 14:22:09 UTC	Animex52, catula, CoxZuckrMachine, rachyrules, sin_faith	17	6	30
+304655	5	0	Prism (6 Suits)	2020-09-23 — 13:45:53 UTC	Animex52, catula, CoxZuckrMachine, rachyrules, sin_faith	24	6	30
+304647	5	0	White (5 Suits)	2020-09-23 — 13:22:47 UTC	Animex52, catula, CoxZuckrMachine, rachyrules, sin_faith	37	5	25
+304638	3	23	Pink (5 Suits)	2020-09-23 — 12:38:13 UTC	catula, Nitrate2, sin_faith	11	5	25
+304631	3	0	Pink (5 Suits)	2020-09-23 — 12:06:14 UTC	catula, Nitrate2, sin_faith	18	5	25
+304620	3	25	Prism (5 Suits)	2020-09-23 — 11:12:14 UTC	catula, MarkusKahlsen, rachyrules	22	5	25
+304609	3	0	Prism (5 Suits)	2020-09-23 — 10:50:24 UTC	catula, MarkusKahlsen, rachyrules	38	5	25
+304605	3	24	No Variant	2020-09-23 — 10:35:14 UTC	catula, MarkusKahlsen, rachyrules	125	5	25
+304600	4	30	Prism (6 Suits)	2020-09-23 — 08:43:45 UTC	asaelr, catula, cockdestroyer, jack67889	26	6	30
+303981	6	25	No Variant	2020-09-22 — 13:53:25 UTC	Animex52, Bonja97, catula, cockdestroyer, rachyrules, StKildaFan	179	5	25
+303975	5	22	No Variant	2020-09-22 — 13:09:12 UTC	Animex52, Bonja97, catula, cockdestroyer, StKildaFan	31	5	25
+303968	6	0	No Variant	2020-09-22 — 12:47:33 UTC	Animex52, Bonja97, catula, cockdestroyer, sephiroth, StKildaFan	10	5	25
+303965	4	0	No Variant	2020-09-22 — 12:36:44 UTC	catula, cockdestroyer, sephiroth, StKildaFan	373	5	25
+303960	5	19	No Variant	2020-09-22 — 12:08:30 UTC	catula, cockdestroyer, orucsoraihc, sephiroth, StKildaFan	1510	5	25
+303950	3	25	No Variant	2020-09-22 — 11:30:07 UTC	asaelr, catula, kodomazer	10	5	25
+303941	4	24	No Variant	2020-09-22 — 11:05:03 UTC	asaelr, catula, jack67889, kodomazer	16	5	25
+303338	3	0	Rainbow (5 Suits)	2020-09-21 — 13:48:45 UTC	catula, Pablo-, swineherd	56	5	25
+303333	2	25	No Variant	2020-09-21 — 13:30:47 UTC	catula, Pablo-	381	5	25
+303316	6	0	No Variant	2020-09-21 — 12:52:36 UTC	Animex52, catula, cockdestroyer, orucsoraihc, sephiroth, StKildaFan	10	5	25
+303314	6	22	No Variant	2020-09-21 — 12:25:56 UTC	Animex52, catula, cockdestroyer, orucsoraihc, sephiroth, StKildaFan	11	5	25
+303308	6	0	No Variant	2020-09-21 — 12:00:28 UTC	Animex52, catula, cockdestroyer, orucsoraihc, sephiroth, StKildaFan	12	5	25
+303304	3	23	No Variant	2020-09-21 — 11:39:30 UTC	catula, orucsoraihc, StKildaFan	114	5	25
+303296	4	23	No Variant	2020-09-21 — 10:59:36 UTC	catula, level_17, level_3, orucsoraihc	419	5	25
+303289	2	25	No Variant	2020-09-21 — 10:24:15 UTC	catula, orucsoraihc	387	5	25
+302297	5	24	No Variant	2020-09-20 — 13:19:27 UTC	Animex52, catula, cockdestroyer, StKildaFan, vEnhance	28	5	25
+302287	5	21	No Variant	2020-09-20 — 12:45:19 UTC	Animex52, catula, cockdestroyer, StKildaFan, vEnhance	31	5	25
+302274	5	0	No Variant	2020-09-20 — 12:07:21 UTC	Animex52, catula, cockdestroyer, Fireheart, orucsoraihc	126	5	25
+302270	5	24	No Variant	2020-09-20 — 11:31:32 UTC	Bonja97, catula, cockdestroyer, Fireheart, orucsoraihc	80	5	25
+302264	5	0	No Variant	2020-09-20 — 11:03:44 UTC	Bonja97, catula, cockdestroyer, Fireheart, orucsoraihc	92	5	25
+302262	3	23	No Variant	2020-09-20 — 10:45:39 UTC	catula, cockdestroyer, Fireheart	77	5	25
+302217	4	25	No Variant	2020-09-20 — 07:20:58 UTC	catula, ejwu, newduke, parrotdoxair	1449	5	25
+302202	5	23	No Variant	2020-09-20 — 06:37:12 UTC	catula, ejwu, parrotdoxair, sin_faith, StKildaFan	11	5	25
+301572	5	24	No Variant	2020-09-19 — 14:19:01 UTC	catula, cockdestroyer, jack67889, melwen, Wittvector	135	5	25
+301566	6	0	No Variant	2020-09-19 — 13:40:58 UTC	catula, cockdestroyer, rkass, StKildaFan, TimeHoodie, Tiramisu1th	36	5	25
+301564	5	23	No Variant	2020-09-19 — 13:17:42 UTC	Animex52, catula, cockdestroyer, MarkusKahlsen, swineherd	21	5	25
+301561	4	0	No Variant	2020-09-19 — 12:49:36 UTC	Animex52, catula, cockdestroyer, Mala	384	5	25
+301560	3	0	No Variant	2020-09-19 — 12:32:46 UTC	catula, cockdestroyer, sephiroth	551	5	25
+301559	3	0	No Variant	2020-09-19 — 12:23:52 UTC	catula, cockdestroyer, sephiroth	1174	5	25
+301556	6	24	No Variant	2020-09-19 — 11:43:31 UTC	catula, cockdestroyer, Div, jack67889, orucsoraihc, sephiroth	60	5	25
+301549	4	23	No Variant	2020-09-19 — 11:08:47 UTC	catula, Div, jack67889, orucsoraihc	717	5	25
+301538	3	0	No Variant	2020-09-19 — 10:42:08 UTC	catula, Div, jack67889	1881	5	25
+301535	3	0	No Variant	2020-09-19 — 10:23:10 UTC	catula, Div, jack67889	2163	5	25
+301378	4	0	No Variant	2020-09-19 — 05:46:50 UTC	catula, ejwu, orucsoraihc, StKildaFan	442	5	25
+301364	5	0	No Variant	2020-09-19 — 05:25:41 UTC	catula, ejwu, nukelauncher, orucsoraihc, StKildaFan	296	5	25
+301342	3	23	No Variant	2020-09-19 — 05:04:08 UTC	catula, orucsoraihc, StKildaFan	130	5	25
+301330	2	23	No Variant	2020-09-19 — 04:42:29 UTC	catula, orucsoraihc	393	5	25
+300653	5	0	4 Suits	2020-09-18 — 13:20:23 UTC	Animex52, catula, jack67889, MKQ, orucsoraihc	23	4	20
+300648	5	0	Rainbow (6 Suits)	2020-09-18 — 13:04:01 UTC	Animex52, catula, jack67889, MKQ, orucsoraihc	50	6	30
+300644	4	0	Rainbow (6 Suits)	2020-09-18 — 12:38:17 UTC	Animex52, catula, jack67889, orucsoraihc	238	6	30
+300636	4	0	Rainbow (6 Suits)	2020-09-18 — 12:22:43 UTC	Animex52, catula, jack67889, orucsoraihc	493	6	30
+300633	4	26	Black (6 Suits)	2020-09-18 — 12:02:41 UTC	Animex52, catula, cockdestroyer, orucsoraihc	273	6	30
+300620	5	27	6 Suits	2020-09-18 — 11:20:09 UTC	Animex52, catula, cockdestroyer, MKQ, orucsoraihc	45	6	30
+300608	6	30	6 Suits	2020-09-18 — 09:05:22 UTC	Animex52, antitelharsic, catula, methmatics, orucsoraihc, StKildaFan	16	6	30
+300603	6	0	6 Suits	2020-09-18 — 08:39:10 UTC	Animex52, antitelharsic, catula, methmatics, orucsoraihc, StKildaFan	19	6	30
+300601	3	0	No Variant	2020-09-18 — 08:16:05 UTC	Animex52, catula, methmatics	121	5	25
+299618	4	17	Rainbow (4 Suits)	2020-09-17 — 11:59:36 UTC	Bonja97, catula, cockdestroyer, Pablo-	32	4	20
+299580	4	28	6 Suits	2020-09-17 — 08:37:30 UTC	Animex52, catula, orucsoraihc, StKildaFan	100	6	30
+299572	4	0	6 Suits	2020-09-17 — 08:06:14 UTC	Animex52, catula, cockdestroyer, orucsoraihc	151	6	30
+298801	4	24	No Variant	2020-09-16 — 13:13:44 UTC	Bonja97, catula, MarkusKahlsen, TimeHoodie	90	5	25
+298797	4	22	No Variant	2020-09-16 — 12:43:14 UTC	Bonja97, catula, chriswck, Feich59	103	5	25
+298794	3	0	No Variant	2020-09-16 — 12:08:23 UTC	catula, chriswck, Feich59	354	5	25
+298791	3	22	No Variant	2020-09-16 — 11:48:28 UTC	catula, chriswck, sin_faith	53	5	25
+298788	3	0	No Variant	2020-09-16 — 11:23:52 UTC	catula, chriswck, StKildaFan	154	5	25
+298784	3	25	No Variant	2020-09-16 — 11:03:11 UTC	catula, sandwichman, StKildaFan	151	5	25
+298778	3	24	No Variant	2020-09-16 — 10:36:11 UTC	catula, sandwichman, StKildaFan	156	5	25
+298772	2	22	No Variant	2020-09-16 — 10:13:07 UTC	catula, sandwichman	393	5	25
+298769	2	0	No Variant	2020-09-16 — 09:53:51 UTC	catula, sandwichman	406	5	25
+298173	6	0	No Variant	2020-09-15 — 12:01:37 UTC	bobfasul, catula, cockdestroyer, sephiroth, sin_faith, StKildaFan	10	5	25
+298170	4	0	No Variant	2020-09-15 — 11:40:02 UTC	bobfasul, catula, cockdestroyer, StKildaFan	473	5	25
+298161	3	25	No Variant	2020-09-15 — 11:12:00 UTC	catula, cockdestroyer, jack67889	4221	5	25
+298158	5	0	No Variant	2020-09-15 — 10:41:36 UTC	catula, cockdestroyer, Feich59, jack67889, StKildaFan	1119	5	25
+298154	4	0	No Variant	2020-09-15 — 10:10:08 UTC	catula, cockdestroyer, jack67889, StKildaFan	655	5	25
+297460	4	20	No Variant	2020-09-14 — 13:53:32 UTC	Bonja97, catula, cockdestroyer, sephiroth	129	5	25
+297431	3	24	No Variant	2020-09-14 — 11:19:25 UTC	catula, cockdestroyer, StKildaFan	160	5	25
+297426	3	24	No Variant	2020-09-14 — 10:46:09 UTC	catula, cockdestroyer, StKildaFan	243	5	25
+297422	5	24	No Variant	2020-09-14 — 10:13:26 UTC	Animex52, catula, cockdestroyer, methmatics, sephiroth	31	5	25
+296669	5	25	No Variant	2020-09-13 — 13:34:01 UTC	catula, Pepepe, sephiroth, sin_faith, StKildaFan	13	5	25
+296664	3	30	Rainbow (6 Suits)	2020-09-13 — 12:53:58 UTC	catula, joelwool, Pepepe	508	6	30
+296657	4	0	Rainbow (6 Suits)	2020-09-13 — 12:12:19 UTC	asaelr, catula, joelwool, Pepepe	22	6	30
+296648	2	21	No Variant	2020-09-13 — 11:38:11 UTC	catula, level_17	411	5	25
+296644	2	0	No Variant	2020-09-13 — 11:10:53 UTC	catula, level_17	423	5	25
+296618	2	30	Rainbow (6 Suits)	2020-09-13 — 08:26:38 UTC	catula, StKildaFan	717	6	30
+296611	3	30	Rainbow (6 Suits)	2020-09-13 — 07:47:32 UTC	catula, nukelauncher, StKildaFan	396	6	30
+296598	2	25	No Variant	2020-09-13 — 07:10:07 UTC	catula, StKildaFan	254	5	25
+296459	4	25	No Variant	2020-09-13 — 03:13:54 UTC	314Nikki, Animex52, catula, penisman	985	5	25
+296432	4	23	No Variant	2020-09-13 — 02:39:07 UTC	314Nikki, Animex52, catula, penisman	1253	5	25
+295844	3	24	No Variant	2020-09-12 — 14:01:05 UTC	Bonja97, catula, melwen	50	5	25
+295826	2	30	Black (6 Suits)	2020-09-12 — 13:19:29 UTC	catula, StKildaFan	546	6	30
+295824	2	0	Black (6 Suits)	2020-09-12 — 13:05:38 UTC	catula, StKildaFan	643	6	30
+295823	2	25	No Variant	2020-09-12 — 12:59:00 UTC	catula, StKildaFan	259	5	25
+295821	2	30	Rainbow (6 Suits)	2020-09-12 — 12:39:28 UTC	catula, StKildaFan	971	6	30
+295817	3	0	Rainbow (6 Suits)	2020-09-12 — 12:05:53 UTC	catula, Pepepe, StKildaFan	689	6	30
+295751	2	22	No Variant	2020-09-12 — 08:57:45 UTC	catula, StKildaFan	257	5	25
+295740	3	25	No Variant	2020-09-12 — 08:27:41 UTC	catula, StKildaFan, Tiramisu1th	167	5	25
+295731	2	0	No Variant	2020-09-12 — 08:16:57 UTC	catula, StKildaFan	264	5	25
+295486	2	25	No Variant	2020-09-12 — 04:41:27 UTC	catula, sandwichman	432	5	25
+294753	3	25	No Variant	2020-09-11 — 13:42:00 UTC	catula, chriswck, Pepepe	422	5	25
+294732	2	22	No Variant	2020-09-11 — 13:07:36 UTC	catula, Pepepe	440	5	25
+294698	4	23	No Variant	2020-09-11 — 12:34:29 UTC	blastzit, catula, Hapotata, Pepepe	3581	5	25
+294675	3	22	No Variant	2020-09-11 — 11:45:35 UTC	blastzit, catula, StKildaFan	320	5	25
+294664	2	23	No Variant	2020-09-11 — 11:18:05 UTC	catula, StKildaFan	279	5	25
+294660	2	15	No Variant	2020-09-11 — 11:03:11 UTC	catula, StKildaFan	281	5	25
+294655	2	24	No Variant	2020-09-11 — 10:41:05 UTC	catula, StKildaFan	299	5	25
+294638	2	25	No Variant	2020-09-11 — 08:21:58 UTC	catula, sin_faith	455	5	25
+294016	6	0	No Variant	2020-09-10 — 13:13:23 UTC	blastzit, catula, chriswck, jack67889, Pepepe, StKildaFan	478	5	25
+294001	4	24	No Variant	2020-09-10 — 12:35:26 UTC	catula, MarkusKahlsen, Pepepe, rachyrules	1744	5	25
+293992	4	22	No Variant	2020-09-10 — 11:55:51 UTC	Bonja97, catula, jack67889, Kowalski1337	158	5	25
+293976	3	0	No Variant	2020-09-10 — 11:19:55 UTC	Bonja97, catula, jack67889	194	5	25
+293973	3	0	No Variant	2020-09-10 — 11:04:00 UTC	Bonja97, catula, jack67889	220	5	25
+293969	3	0	No Variant	2020-09-10 — 10:24:58 UTC	Bonja97, catula, jack67889	224	5	25
+293955	5	23	No Variant	2020-09-10 — 07:57:51 UTC	antitelharsic, blastzit, catula, KK47_Natural, StKildaFan	100	5	25
+293249	4	25	No Variant	2020-09-09 — 11:24:06 UTC	Animex52, catula, Feich59, sin_faith	47	5	25
+293246	5	24	No Variant	2020-09-09 — 10:47:43 UTC	Animex52, catula, jack67889, sin_faith, Tiramisu1th	15	5	25
+293243	3	22	No Variant	2020-09-09 — 10:09:40 UTC	catula, jack67889, Tiramisu1th	19	5	25
+293240	4	22	No Variant	2020-09-09 — 09:25:33 UTC	catula, honobu, jack67889, Tiramisu1th	1092	5	25
+292466	3	23	No Variant	2020-09-08 — 12:06:09 UTC	Animex52, catula, StKildaFan	164	5	25
+292431	3	24	No Variant	2020-09-08 — 11:34:33 UTC	Animex52, catula, StKildaFan	170	5	25
+292390	3	21	No Variant	2020-09-08 — 10:55:41 UTC	Animex52, catula, StKildaFan	175	5	25
+292385	2	25	No Variant	2020-09-08 — 10:23:34 UTC	Animex52, catula	450	5	25
+291676	3	24	No Variant	2020-09-07 — 12:04:26 UTC	catula, chriswck, StKildaFan	516	5	25
+291673	3	0	Black (6 Suits)	2020-09-07 — 11:40:14 UTC	catula, chriswck, StKildaFan	236	6	30
+291669	3	24	No Variant	2020-09-07 — 11:18:57 UTC	catula, rachyrules, StKildaFan	485	5	25
+291666	3	0	No Variant	2020-09-07 — 10:49:45 UTC	catula, rachyrules, StKildaFan	573	5	25
+291665	4	25	No Variant	2020-09-07 — 10:22:13 UTC	catula, rachyrules, sin_faith, StKildaFan	59	5	25
+290652	2	19	No Variant	2020-09-06 — 11:07:53 UTC	catula, chriswck	458	5	25
+290599	3	0	Black (6 Suits)	2020-09-06 — 07:10:47 UTC	catula, orucsoraihc, StKildaFan	261	6	30
+290593	3	28	Black (6 Suits)	2020-09-06 — 06:46:54 UTC	catula, orucsoraihc, StKildaFan	325	6	30
+290553	3	0	Black (6 Suits)	2020-09-06 — 06:16:02 UTC	catula, orucsoraihc, StKildaFan	399	6	30
+290347	3	23	No Variant	2020-09-06 — 02:29:48 UTC	catula, orucsoraihc, StKildaFan	624	5	25
+290324	3	22	No Variant	2020-09-06 — 02:07:01 UTC	catula, orucsoraihc, StKildaFan	645	5	25
+290315	2	23	No Variant	2020-09-06 — 01:47:30 UTC	catula, StKildaFan	476	5	25
+290286	2	24	No Variant	2020-09-06 — 01:18:10 UTC	catula, sin_faith	496	5	25
+289882	3	25	No Variant	2020-09-05 — 15:00:16 UTC	catula, StKildaFan, Veexliat	680	5	25
+289870	3	24	No Variant	2020-09-05 — 14:25:37 UTC	catula, StKildaFan, Veexliat	750	5	25
+289862	3	0	No Variant	2020-09-05 — 13:59:15 UTC	catula, StKildaFan, Veexliat	801	5	25
+289859	2	22	No Variant	2020-09-05 — 13:42:10 UTC	catula, StKildaFan	506	5	25
+289856	2	25	No Variant	2020-09-05 — 13:23:46 UTC	catula, StKildaFan	513	5	25
+289854	2	21	No Variant	2020-09-05 — 13:06:15 UTC	catula, StKildaFan	526	5	25
+289787	5	23	No Variant	2020-09-05 — 08:31:06 UTC	catula, MKQ, Rubix, StKildaFan, Tiramisu1th	163	5	25
+289765	5	23	No Variant	2020-09-05 — 07:58:02 UTC	catula, orucsoraihc, Rubix, StKildaFan, Tiramisu1th	383	5	25
+289724	5	19	No Variant	2020-09-05 — 07:26:17 UTC	catula, orucsoraihc, Rubix, StKildaFan, Tiramisu1th	457	5	25
+289677	5	20	No Variant	2020-09-05 — 06:47:58 UTC	catula, orucsoraihc, Rubix, StKildaFan, Tiramisu1th	837	5	25
+289500	3	23	No Variant	2020-09-05 — 04:05:17 UTC	catula, orucsoraihc, StKildaFan	840	5	25
+289485	3	21	No Variant	2020-09-05 — 03:37:48 UTC	catula, orucsoraihc, StKildaFan	940	5	25
+289465	2	0	No Variant	2020-09-05 — 03:12:50 UTC	catula, StKildaFan	534	5	25
+288798	2	23	No Variant	2020-09-04 — 11:25:53 UTC	asaelr, catula	109	5	25
+288792	2	23	No Variant	2020-09-04 — 10:59:27 UTC	asaelr, catula	109	5	25
+288770	5	23	No Variant	2020-09-04 — 09:24:47 UTC	catula, chriswck, Fey, sephiroth, sin_faith	23	5	25
+288762	3	22	No Variant	2020-09-04 — 08:49:09 UTC	catula, chriswck, Fey	112	5	25
+287963	3	0	No Variant	2020-09-03 — 13:23:59 UTC	catula, StKildaFan, Tiramisu1th	307	5	25
+287960	2	21	No Variant	2020-09-03 — 13:00:32 UTC	catula, StKildaFan	548	5	25
+287954	2	20	No Variant	2020-09-03 — 12:30:22 UTC	catula, StKildaFan	555	5	25
+287949	2	25	No Variant	2020-09-03 — 11:57:31 UTC	catula, StKildaFan	581	5	25
+287940	2	23	No Variant	2020-09-03 — 11:27:47 UTC	catula, StKildaFan	593	5	25
+287935	2	24	No Variant	2020-09-03 — 11:01:14 UTC	catula, StKildaFan	597	5	25
+287927	2	22	No Variant	2020-09-03 — 10:38:07 UTC	catula, StKildaFan	626	5	25
+287924	3	0	No Variant	2020-09-03 — 10:08:36 UTC	catula, StKildaFan, Tiramisu1th	324	5	25
+287916	3	22	No Variant	2020-09-03 — 09:34:32 UTC	catula, StKildaFan, Tiramisu1th	344	5	25
+287215	2	24	No Variant	2020-09-02 — 13:21:46 UTC	catula, StKildaFan	654	5	25
+287209	2	20	No Variant	2020-09-02 — 12:38:23 UTC	catula, StKildaFan	677	5	25
+287199	2	19	No Variant	2020-09-02 — 11:58:53 UTC	catula, StKildaFan	699	5	25
+287189	4	22	No Variant	2020-09-02 — 11:07:24 UTC	catula, methmatics, sandwichman, StKildaFan	601	5	25
+287187	2	25	No Variant	2020-09-02 — 10:35:55 UTC	catula, sandwichman	719	5	25
+287184	2	23	No Variant	2020-09-02 — 10:08:30 UTC	catula, sandwichman	741	5	25
+287182	2	0	No Variant	2020-09-02 — 09:49:26 UTC	catula, sandwichman	770	5	25
+286309	2	21	No Variant	2020-09-01 — 12:23:05 UTC	catula, StKildaFan	794	5	25
+286300	2	21	No Variant	2020-09-01 — 11:54:29 UTC	catula, StKildaFan	818	5	25
+286296	2	25	No Variant	2020-09-01 — 11:24:31 UTC	catula, StKildaFan	854	5	25
+286290	2	19	No Variant	2020-09-01 — 11:00:25 UTC	catula, StKildaFan	883	5	25
+285366	2	22	No Variant	2020-08-31 — 13:23:11 UTC	catula, StKildaFan	921	5	25
+285361	3	22	No Variant	2020-08-31 — 12:40:04 UTC	catula, ShinyWatermelon, StKildaFan	2606	5	25
+284668	2	23	No Variant	2020-08-30 — 13:13:18 UTC	catula, StKildaFan	948	5	25
+284659	2	24	No Variant	2020-08-30 — 12:40:55 UTC	catula, StKildaFan	976	5	25
+284651	2	25	No Variant	2020-08-30 — 12:15:30 UTC	catula, sandwichman	1031	5	25
+284645	2	0	No Variant	2020-08-30 — 10:58:26 UTC	catula, sandwichman	1078	5	25
+284617	3	0	No Variant	2020-08-30 — 09:35:15 UTC	antitelharsic, Bonja97, catula	77	5	25
+284614	3	24	No Variant	2020-08-30 — 08:59:16 UTC	antitelharsic, Bonja97, catula	79	5	25
+284456	2	23	No Variant	2020-08-30 — 04:59:03 UTC	catula, StKildaFan	1117	5	25
+284413	2	19	No Variant	2020-08-30 — 04:19:34 UTC	catula, StKildaFan	1299	5	25
+284395	2	0	No Variant	2020-08-30 — 04:07:00 UTC	catula, StKildaFan	1376	5	25
+284363	2	18	No Variant	2020-08-30 — 03:34:49 UTC	catula, StKildaFan	1448	5	25
+283672	2	25	No Variant	2020-08-29 — 12:09:51 UTC	catula, sandwichman	1148	5	25
+283624	2	22	No Variant	2020-08-29 — 11:37:14 UTC	catula, sandwichman	1206	5	25
+283598	2	0	No Variant	2020-08-29 — 11:15:43 UTC	catula, sandwichman	1249	5	25
+283593	2	0	No Variant	2020-08-29 — 11:09:41 UTC	catula, sandwichman	1532	5	25
+283529	2	25	No Variant	2020-08-29 — 08:16:26 UTC	catula, Fey	271	5	25
+283522	2	22	No Variant	2020-08-29 — 08:02:00 UTC	catula, Fey	275	5	25
+283500	2	22	No Variant	2020-08-29 — 07:27:31 UTC	catula, Fey	277	5	25
+283486	2	23	No Variant	2020-08-29 — 07:06:57 UTC	catula, sandwichman	1621	5	25
+283476	2	0	No Variant	2020-08-29 — 06:49:58 UTC	catula, sandwichman	1703	5	25
+283472	2	0	No Variant	2020-08-29 — 06:43:55 UTC	catula, sandwichman	1840	5	25
+282624	2	23	No Variant	2020-08-28 — 13:31:32 UTC	catula, sandwichman	1952	5	25
+282583	2	20	No Variant	2020-08-28 — 11:20:28 UTC	catula, sandwichman	2147	5	25
+282577	2	21	No Variant	2020-08-28 — 10:59:54 UTC	catula, sandwichman	2288	5	25
+282563	2	0	No Variant	2020-08-28 — 10:46:36 UTC	catula, sandwichman	2532	5	25
+282559	2	18	No Variant	2020-08-28 — 10:29:28 UTC	catula, sandwichman	2750	5	25
+282530	2	21	No Variant	2020-08-28 — 08:06:11 UTC	catula, sandwichman	3051	5	25
+282523	2	0	No Variant	2020-08-28 — 07:49:48 UTC	catula, sandwichman	3507	5	25
+282520	2	0	No Variant	2020-08-28 — 07:43:52 UTC	catula, sandwichman	4109	5	25
+282250	2	23	No Variant	2020-08-28 — 01:31:26 UTC	catula, sandwichman	5374	5	25
+281020	3	0	No Variant	2020-08-26 — 11:10:49 UTC	Bonja97, catula, sephiroth	1017	5	25

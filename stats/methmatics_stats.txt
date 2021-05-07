@@ -1,0 +1,898 @@
+493740	6	23	No Variant	2021-04-08 — 04:04:56 UTC	acorns, almonds, Fey, macadamia, methmatics, peanut	2	5	25
+488187	6	30	Pink (6 Suits)	2021-04-02 — 08:14:09 UTC	BraydonM, cockdestroyer, Lanvin, louietyj, methmatics, sin_faith	1	6	30
+488185	6	0	Pink (6 Suits)	2021-04-02 — 07:51:22 UTC	BraydonM, cockdestroyer, Lanvin, louietyj, methmatics, sin_faith	2	6	30
+488184	6	0	Pink (6 Suits)	2021-04-02 — 07:44:41 UTC	BraydonM, cockdestroyer, Lanvin, louietyj, methmatics, sin_faith	5	6	30
+488181	4	30	Muddy Rainbow & Dark Pink (6 Suits)	2021-04-02 — 07:35:16 UTC	catula, cockdestroyer, Dwu123, methmatics	4	6	30
+486355	5	29	Pink & Dark Omni (6 Suits)	2021-03-31 — 10:10:45 UTC	cockdestroyer, melwen, methmatics, Nitrate2, Wittvector	1	6	30
+486350	5	0	Pink & Dark Omni (6 Suits)	2021-03-31 — 09:50:11 UTC	cockdestroyer, melwen, methmatics, Nitrate2, Wittvector	1	6	30
+486344	5	0	Pink & Dark Omni (6 Suits)	2021-03-31 — 09:42:12 UTC	cockdestroyer, melwen, methmatics, Nitrate2, Wittvector	2	6	30
+486328	3	0	Rainbow (6 Suits)	2021-03-31 — 08:49:59 UTC	annoyingpi, methmatics, room456	165	6	30
+486319	3	0	Rainbow (6 Suits)	2021-03-31 — 08:28:55 UTC	annoyingpi, methmatics, room456	183	6	30
+486311	3	0	Rainbow (6 Suits)	2021-03-31 — 08:05:03 UTC	annoyingpi, methmatics, room456	196	6	30
+486310	3	0	Rainbow (6 Suits)	2021-03-31 — 08:01:56 UTC	annoyingpi, methmatics, room456	215	6	30
+485164	5	24	No Variant	2021-03-30 — 03:59:42 UTC	IsabeltheCat, kinkajusrevenge, louietyj, mestrepoke, methmatics	38	5	25
+485129	5	0	No Variant	2021-03-30 — 03:22:27 UTC	IsabeltheCat, kinkajusrevenge, mehdi_safi, mestrepoke, methmatics	41	5	25
+478916	5	30	Rainbow (6 Suits)	2021-03-24 — 07:24:44 UTC	cockdestroyer, duckmedic, methmatics, possum, wump	39	6	30
+478910	4	29	Rainbow (6 Suits)	2021-03-24 — 06:45:13 UTC	cockdestroyer, methmatics, possum, wump	12	6	30
+471237	4	25	Prism (5 Suits)	2021-03-17 — 08:07:51 UTC	indego, methmatics, spbsuitmo, XMIL	4	5	25
+471234	4	0	Prism (5 Suits)	2021-03-17 — 07:43:35 UTC	indego, methmatics, spbsuitmo, XMIL	5	5	25
+471227	4	0	Prism (5 Suits)	2021-03-17 — 06:59:45 UTC	indego, methmatics, spbsuitmo, XMIL	9	5	25
+471217	4	0	Prism (5 Suits)	2021-03-17 — 06:22:11 UTC	indego, methmatics, spbsuitmo, XMIL	10	5	25
+471141	4	0	Dark Omni (6 Suits)	2021-03-17 — 05:37:49 UTC	cockdestroyer, indego, methmatics, XMIL	14	6	30
+462861	5	24	No Variant	2021-03-09 — 21:33:34 UTC	imkSushi, methmatics, Morganlgd, reuzed, Smith	41	5	25
+462823	5	0	No Variant	2021-03-09 — 21:04:36 UTC	imkSushi, methmatics, Morganlgd, reuzed, Smith	50	5	25
+462777	5	0	No Variant	2021-03-09 — 20:39:26 UTC	imkSushi, methmatics, Morganlgd, reuzed, Smith	65	5	25
+457901	4	25	White (5 Suits)	2021-03-05 — 20:42:20 UTC	cockdestroyer, methmatics, Pablo-, XMIL	11	5	25
+457860	4	25	Pink (5 Suits)	2021-03-05 — 20:14:25 UTC	cockdestroyer, methmatics, nitawa, XMIL	14	5	25
+455105	6	23	No Variant	2021-03-03 — 06:27:58 UTC	Animex52, antitelharsic, cockdestroyer, indegoo, methmatics, spbsuitmo	3	5	25
+455087	3	0	Cocoa Rainbow (5 Suits)	2021-03-03 — 05:57:02 UTC	dobi, indego, methmatics	23	5	25
+454660	3	30	Rainbow & Omni (6 Suits)	2021-03-02 — 23:29:35 UTC	kopen, MangoPie, methmatics	2	6	30
+454630	3	0	Rainbow & Omni (6 Suits)	2021-03-02 — 23:03:08 UTC	kopen, MangoPie, methmatics	1	6	30
+454616	3	27	Rainbow & Omni (6 Suits)	2021-03-02 — 22:46:39 UTC	kopen, MangoPie, methmatics	3	6	30
+454106	4	24	Dark Prism (5 Suits)	2021-03-02 — 11:34:50 UTC	Animex52, catula, methmatics, Sucubis	5	5	25
+454097	4	22	Dark Prism (5 Suits)	2021-03-02 — 11:04:42 UTC	Animex52, catula, methmatics, Sucubis	8	5	25
+448628	6	21	Black (5 Suits)	2021-02-25 — 10:59:25 UTC	Animex52, boba, jack67889, methmatics, sin_faith, Sucubis	4	5	25
+448622	4	22	No Variant	2021-02-25 — 10:26:55 UTC	Animex52, boba, methmatics, Sucubis	43	5	25
+446544	5	28	Dark Prism (6 Suits)	2021-02-23 — 10:05:32 UTC	Animex52, boba, catula, methmatics, Sucubis	9	6	30
+442993	4	0	No Variant	2021-02-20 — 07:12:32 UTC	blin00, HorribleMoose, methmatics, spbsuitmo	51	5	25
+442974	4	25	No Variant	2021-02-20 — 06:51:59 UTC	blin00, HorribleMoose, methmatics, spbsuitmo	52	5	25
+441858	3	25	No Variant	2021-02-19 — 09:51:50 UTC	Dwu123, methmatics, spbsuitmo	137	5	25
+441852	3	0	No Variant	2021-02-19 — 09:31:03 UTC	Dwu123, methmatics, spbsuitmo	134	5	25
+441849	2	25	No Variant	2021-02-19 — 09:14:34 UTC	methmatics, spbsuitmo	406	5	25
+441845	2	0	No Variant	2021-02-19 — 09:01:51 UTC	methmatics, spbsuitmo	411	5	25
+441842	2	0	No Variant	2021-02-19 — 08:58:57 UTC	methmatics, spbsuitmo	432	5	25
+440160	4	29	Gray Pink (6 Suits)	2021-02-17 — 20:05:43 UTC	methmatics, nitawa, Nitrate2, Pablo-	5	6	30
+440120	4	0	Gray Pink (6 Suits)	2021-02-17 — 19:29:43 UTC	methmatics, nitawa, Nitrate2, Pablo-	6	6	30
+440078	3	20	White (4 Suits)	2021-02-17 — 18:48:17 UTC	methmatics, nitawa, Pablo-	10	4	20
+440064	3	0	White (4 Suits)	2021-02-17 — 18:33:17 UTC	methmatics, nitawa, Pablo-	13	4	20
+437741	5	23	Pink (5 Suits)	2021-02-15 — 03:41:29 UTC	4head, aquarelle, griff77, methmatics, torp	9	5	25
+437687	6	25	No Variant	2021-02-15 — 02:54:02 UTC	4head, aquarelle, eljavi, griff77, methmatics, torp	4	5	25
+437667	4	0	Pink & Light Pink (6 Suits)	2021-02-15 — 02:18:24 UTC	4head, aquarelle, methmatics, torp	2	6	30
+437639	4	0	Pink & Light Pink (6 Suits)	2021-02-15 — 01:55:46 UTC	4head, aquarelle, methmatics, torp	3	6	30
+436502	5	25	No Variant	2021-02-14 — 05:26:40 UTC	cockdestroyer, Dwu123, JYOKOTA, methmatics, spbsuitmo	30	5	25
+436471	5	25	No Variant	2021-02-14 — 05:02:49 UTC	cockdestroyer, Dwu123, JYOKOTA, methmatics, spbsuitmo	45	5	25
+436447	5	0	No Variant	2021-02-14 — 04:42:25 UTC	cockdestroyer, Dwu123, jamesleng100, methmatics, spbsuitmo	49	5	25
+436422	4	25	No Variant	2021-02-14 — 04:23:03 UTC	cockdestroyer, jamesleng100, methmatics, spbsuitmo	52	5	25
+436406	3	0	No Variant	2021-02-14 — 04:09:41 UTC	jamesleng100, methmatics, spbsuitmo	141	5	25
+428708	5	27	Rainbow (6 Suits)	2021-02-07 — 05:35:33 UTC	annoyingpi, Dwu123, JYOKOTA, methmatics, room456	49	6	30
+422937	4	0	Brown & Prism (5 Suits)	2021-02-02 — 11:46:41 UTC	Animex52, catula, methmatics, Sucubis	11	5	25
+422930	4	28	Dark Prism (6 Suits)	2021-02-02 — 11:24:52 UTC	Animex52, catula, methmatics, Sucubis	14	6	30
+418848	4	25	Pink-Ones (5 Suits)	2021-01-29 — 21:15:47 UTC	ChristopheAF, MarkusKahlsen, methmatics, Nitrate	3	5	25
+418796	3	30	Rainbow & Prism (6 Suits)	2021-01-29 — 20:29:51 UTC	aquarelle, HelanaAshryvr, methmatics	10	6	30
+416937	6	27	Rainbow (6 Suits)	2021-01-27 — 23:38:26 UTC	colton, Denchulitas, Lanvin, melwen, methmatics, sephiroth	14	6	30
+416907	5	0	Duck (6 Suits)	2021-01-27 — 22:50:18 UTC	Animex52, aquarelle, jack67889, melwen, methmatics	2	6	30
+416873	5	0	Duck (6 Suits)	2021-01-27 — 22:24:24 UTC	Animex52, aquarelle, jack67889, melwen, methmatics	3	6	30
+412949	4	19	Rainbow & White (4 Suits)	2021-01-23 — 23:32:52 UTC	4head, Lanvin, methmatics, Sucubis	3	4	20
+412926	4	0	Rainbow & White (4 Suits)	2021-01-23 — 23:12:34 UTC	4head, Lanvin, methmatics, Sucubis	8	4	20
+412913	4	0	Rainbow & White (4 Suits)	2021-01-23 — 23:05:03 UTC	4head, Lanvin, methmatics, Sucubis	12	4	20
+412868	4	30	6 Suits	2021-01-23 — 22:33:27 UTC	Dwu123, methmatics, nitawa, Stinkydude63	68	6	30
+412828	6	30	6 Suits	2021-01-23 — 22:04:31 UTC	cockdestroyer, Dwu123, methmatics, nitawa, Nitrate, XMIL	12	6	30
+410813	5	21	No Variant	2021-01-21 — 22:02:34 UTC	exfret, jack67889, keeganhess, methmatics, omfret	67	5	25
+409825	4	0	Pink (5 Suits)	2021-01-20 — 19:42:31 UTC	methmatics, nitawa, Nitrate2, Stinkydude63	11	5	25
+409821	4	0	Pink (5 Suits)	2021-01-20 — 19:38:01 UTC	methmatics, nitawa, Nitrate2, Stinkydude63	16	5	25
+409811	4	0	Pink (5 Suits)	2021-01-20 — 19:32:20 UTC	methmatics, nitawa, Nitrate2, Stinkydude63	17	5	25
+404983	5	21	No Variant	2021-01-16 — 06:42:56 UTC	Dwu123, ejwu, exfret, methmatics, Stinkydude63	44	5	25
+404950	3	20	No Variant	2021-01-16 — 06:11:19 UTC	Dwu123, exfret, methmatics	154	5	25
+404930	3	0	No Variant	2021-01-16 — 05:54:42 UTC	Dwu123, exfret, methmatics	156	5	25
+404921	3	25	No Variant	2021-01-16 — 05:49:07 UTC	Dwu123, exfret, methmatics	157	5	25
+404902	2	0	No Variant	2021-01-16 — 05:34:55 UTC	exfret, methmatics	440	5	25
+402939	2	21	Black (5 Suits)	2021-01-14 — 10:19:40 UTC	methmatics, Plum	244	5	25
+401969	2	27	Brown (6 Suits)	2021-01-13 — 12:06:04 UTC	methmatics, nitawa	81	6	30
+401962	2	0	Brown (6 Suits)	2021-01-13 — 11:40:22 UTC	methmatics, nitawa	94	6	30
+401956	2	0	Brown (6 Suits)	2021-01-13 — 11:21:55 UTC	methmatics, nitawa	129	6	30
+401054	5	28	Black & Dark Omni (6 Suits)	2021-01-12 — 10:21:42 UTC	boba, Lel0uch, methmatics, sephiroth, Sucubis	2	6	30
+401050	3	0	Dark Omni (5 Suits)	2021-01-12 — 09:53:00 UTC	boba, Lel0uch, methmatics	7	5	25
+401048	3	0	Dark Omni (5 Suits)	2021-01-12 — 09:50:16 UTC	boba, Lel0uch, methmatics	12	5	25
+401043	3	0	Dark Omni (5 Suits)	2021-01-12 — 09:35:41 UTC	boba, Lel0uch, methmatics	13	5	25
+398788	5	30	6 Suits	2021-01-10 — 05:16:40 UTC	dwu, jamesleng100, JYOKOTA, methmatics, room456	7	6	30
+398754	5	0	6 Suits	2021-01-10 — 04:51:20 UTC	dwu, jamesleng100, JYOKOTA, methmatics, room456	7	6	30
+398675	5	28	Muddy-Rainbow-Ones & Dark Prism (6 Suits)	2021-01-10 — 03:54:11 UTC	Lel0uch, melwen, methmatics, Pablo-, TimeHoodie	1	6	30
+397749	2	25	Pink (5 Suits)	2021-01-09 — 13:05:09 UTC	methmatics, nitawa	77	5	25
+396576	4	30	Dual-Color Mix	2021-01-08 — 11:45:38 UTC	indego, Lel0uch, methmatics, Sucubis	3	6	30
+396568	4	0	Dual-Color Mix	2021-01-08 — 11:15:26 UTC	indego, Lel0uch, methmatics, Sucubis	5	6	30
+395283	6	0	Dual-Color (6 Suits)	2021-01-07 — 05:57:48 UTC	aquarelle, boba, FerKeth, HelanaAshryvr, Lel0uch, methmatics	1	6	30
+395263	6	0	Dual-Color (6 Suits)	2021-01-07 — 05:41:39 UTC	aquarelle, boba, FerKeth, HelanaAshryvr, Lel0uch, methmatics	2	6	30
+395192	5	27	Black (6 Suits)	2021-01-07 — 04:10:45 UTC	aquarelle, boba, Etherealz, methmatics, missyalyssi	2	6	30
+394455	5	21	No Variant	2021-01-06 — 13:32:51 UTC	indego, louietyj, methmatics, Plum, sephiroth	28	5	25
+394433	4	24	No Variant	2021-01-06 — 12:31:31 UTC	louietyj, methmatics, Plum, skyblueexo	54	5	25
+394423	5	22	No Variant	2021-01-06 — 11:46:07 UTC	LamboXD, louietyj, methmatics, Plum, skyblueexo	75	5	25
+394415	5	0	Ambiguous Mix	2021-01-06 — 11:23:29 UTC	LamboXD, methmatics, Plum, skyblueexo, TimeHoodie	7	6	30
+394212	5	0	No Variant	2021-01-06 — 04:32:46 UTC	aagarwal_601, dwu, jamesleng100, methmatics, room456	77	5	25
+393387	5	24	Deceptive-Fives (5 Suits)	2021-01-05 — 12:15:55 UTC	catula, indego, jack67889, methmatics, sephiroth	3	5	25
+393381	3	25	Deceptive-Ones (5 Suits)	2021-01-05 — 11:46:30 UTC	catula, jack67889, methmatics	2	5	25
+393351	3	23	No Variant	2021-01-05 — 11:11:38 UTC	catula, lanxeny, methmatics	148	5	25
+393315	5	24	No Variant	2021-01-05 — 10:38:52 UTC	catula, katian, lanxeny, methmatics, Wittvector	60	5	25
+392259	6	24	No Variant	2021-01-04 — 05:36:54 UTC	methmatics, nitawa, Nitrate2, Stinkydude63, whalesgomoo, XMIL	3	5	25
+392243	5	0	Black (5 Suits)	2021-01-04 — 05:16:18 UTC	cockdestroyer, methmatics, nitawa, Nitrate2, XMIL	5	5	25
+392222	5	0	Black (5 Suits)	2021-01-04 — 05:00:48 UTC	cockdestroyer, methmatics, nitawa, Nitrate2, XMIL	6	5	25
+392211	5	0	Black (5 Suits)	2021-01-04 — 04:50:44 UTC	cockdestroyer, methmatics, nitawa, Nitrate2, XMIL	6	5	25
+391483	5	0	Duck (6 Suits)	2021-01-03 — 16:00:40 UTC	Animex52, Lanvin, methmatics, nitawa, sin_faith	5	6	30
+391458	5	19	Duck (4 Suits)	2021-01-03 — 15:09:58 UTC	Animex52, jack67889, Lanvin, methmatics, nitawa	1	4	20
+391448	5	0	Duck (4 Suits)	2021-01-03 — 14:32:35 UTC	Animex52, jack67889, Lanvin, methmatics, nitawa	1	4	20
+391436	5	23	Prism Reversed (5 Suits)	2021-01-03 — 13:58:13 UTC	Animex52, catula, Lanvin, methmatics, nitawa	3	5	25
+391120	3	23	Rainbow (5 Suits)	2021-01-03 — 04:24:30 UTC	aquarelle, boba, methmatics	185	5	25
+391049	5	22	No Variant	2021-01-03 — 03:39:29 UTC	aagarwal_601, dwu, jamesleng100, methmatics, room456	80	5	25
+391017	3	0	6 Suits	2021-01-03 — 03:16:11 UTC	jamesleng100, methmatics, room456	168	6	30
+390997	5	23	No Variant	2021-01-03 — 03:05:52 UTC	dwu, IsabeltheCat, jeff10, methmatics, vEnhance	27	5	25
+390225	4	24	No Variant	2021-01-02 — 10:47:21 UTC	Daryl, Div, Lel0uch, methmatics	53	5	25
+390217	3	27	Gray Pink (6 Suits)	2021-01-02 — 10:21:00 UTC	boba, Lel0uch, methmatics	29	6	30
+388937	5	22	No Variant	2021-01-01 — 05:44:45 UTC	antitelharsic, catula, cockdestroyer, methmatics, XMIL	23	5	25
+388890	5	0	Special Mix (5 Suits)	2021-01-01 — 05:04:43 UTC	antitelharsic, cockdestroyer, methmatics, vEnhance, XMIL	7	5	25
+388869	5	0	Special Mix (5 Suits)	2021-01-01 — 04:44:46 UTC	antitelharsic, cockdestroyer, methmatics, vEnhance, XMIL	9	5	25
+388816	3	22	Cow & Pig (5 Suits)	2021-01-01 — 03:41:26 UTC	aquarelle, Lanvin, methmatics	1	5	25
+388794	5	0	Duck (5 Suits)	2021-01-01 — 03:09:16 UTC	aquarelle, boba, HelanaAshryvr, Lanvin, methmatics	9	5	25
+387729	3	23	Black (5 Suits)	2020-12-31 — 01:58:17 UTC	antitelharsic, methmatics, XMIL	66	5	25
+387704	3	0	Black (5 Suits)	2020-12-31 — 01:40:29 UTC	antitelharsic, methmatics, XMIL	74	5	25
+386048	5	24	Rainbow & Brown (5 Suits)	2020-12-29 — 11:49:58 UTC	catula, jack67889, macanek, methmatics, Pablo-	6	5	25
+383858	5	29	White (6 Suits)	2020-12-27 — 11:05:18 UTC	catula, frosty104, indego, Lel0uch, methmatics	14	6	30
+382589	5	24	Rainbow (5 Suits)	2020-12-26 — 07:14:04 UTC	antitelharsic, catula, ejwu, methmatics, XMIL	17	5	25
+382564	5	0	Rainbow (5 Suits)	2020-12-26 — 06:38:13 UTC	antitelharsic, catula, ejwu, methmatics, XMIL	22	5	25
+382541	5	0	Black & Rainbow (6 Suits)	2020-12-26 — 06:09:05 UTC	antitelharsic, catula, ejwu, methmatics, XMIL	20	6	30
+382497	5	0	Pink-Ones & Rainbow (5 Suits)	2020-12-26 — 05:34:33 UTC	antitelharsic, catula, ejwu, methmatics, XMIL	2	5	25
+382462	3	0	No Variant	2020-12-26 — 05:06:12 UTC	ejwu, methmatics, XMIL	32	5	25
+382451	3	0	No Variant	2020-12-26 — 04:59:46 UTC	ejwu, methmatics, XMIL	34	5	25
+382443	3	0	No Variant	2020-12-26 — 04:54:40 UTC	ejwu, methmatics, XMIL	37	5	25
+382433	3	25	No Variant	2020-12-26 — 04:47:31 UTC	ejwu, methmatics, XMIL	40	5	25
+382421	3	0	No Variant	2020-12-26 — 04:41:36 UTC	ejwu, methmatics, XMIL	40	5	25
+382413	3	0	No Variant	2020-12-26 — 04:32:16 UTC	ejwu, methmatics, XMIL	40	5	25
+382396	3	22	No Variant	2020-12-26 — 04:24:08 UTC	ejwu, methmatics, XMIL	40	5	25
+382390	3	0	No Variant	2020-12-26 — 04:20:19 UTC	ejwu, methmatics, XMIL	40	5	25
+382388	3	0	No Variant	2020-12-26 — 04:18:11 UTC	ejwu, methmatics, XMIL	39	5	25
+381791	4	25	No Variant	2020-12-25 — 15:40:31 UTC	frosty104, Lel0uch, methmatics, StKildaFan	32	5	25
+381788	4	25	No Variant	2020-12-25 — 15:23:46 UTC	frosty104, Lel0uch, methmatics, StKildaFan	33	5	25
+381786	4	25	No Variant	2020-12-25 — 15:10:55 UTC	frosty104, Lel0uch, methmatics, StKildaFan	36	5	25
+380900	3	30	Rainbow (6 Suits)	2020-12-24 — 16:22:06 UTC	ChristopheAF, kinkajusrevenge, methmatics	282	6	30
+380764	6	0	Ambiguous (6 Suits)	2020-12-24 — 07:19:06 UTC	Animex52, aquarelle, boba, FerKeth, HelanaAshryvr, methmatics	1	6	30
+380753	6	0	Ambiguous (6 Suits)	2020-12-24 — 06:49:30 UTC	Animex52, aquarelle, boba, FerKeth, HelanaAshryvr, methmatics	8	6	30
+378643	4	25	Rainbow (5 Suits)	2020-12-22 — 07:42:27 UTC	boba, Lel0uch, methmatics, ricardodd	23	5	25
+378631	4	0	Rainbow (5 Suits)	2020-12-22 — 07:21:28 UTC	boba, Lel0uch, methmatics, ricardodd	23	5	25
+378625	4	22	Rainbow (5 Suits)	2020-12-22 — 07:12:10 UTC	boba, Lel0uch, methmatics, ricardodd	26	5	25
+378608	4	0	Duck (5 Suits)	2020-12-22 — 06:49:54 UTC	aquarelle, boba, methmatics, ricardodd	10	5	25
+378595	4	0	Duck (5 Suits)	2020-12-22 — 06:37:32 UTC	aquarelle, boba, methmatics, ricardodd	13	5	25
+378591	3	23	Cow & Pig (5 Suits)	2020-12-22 — 06:33:58 UTC	aquarelle, boba, methmatics	1	5	25
+378560	3	0	Cow & Pig (3 Suits)	2020-12-22 — 06:09:41 UTC	aquarelle, boba, methmatics	12	3	15
+377726	4	23	Black (5 Suits)	2020-12-21 — 09:54:18 UTC	doctorabi, katian, methmatics, Wittvector	24	5	25
+377715	4	0	Black (5 Suits)	2020-12-21 — 09:31:45 UTC	doctorabi, katian, methmatics, Wittvector	36	5	25
+377522	4	29	Black (6 Suits)	2020-12-21 — 04:28:58 UTC	eljavi, IsabeltheCat, methmatics, moeski	102	6	30
+377472	4	27	Black (6 Suits)	2020-12-21 — 03:48:43 UTC	eljavi, IsabeltheCat, methmatics, moeski	175	6	30
+376562	6	0	No Variant	2020-12-20 — 07:18:26 UTC	annoyingpi, dwu, JYOKOTA, methmatics, RockmanEX3, room456	4	5	25
+376549	6	0	No Variant	2020-12-20 — 07:02:02 UTC	annoyingpi, dwu, JYOKOTA, methmatics, RockmanEX3, room456	5	5	25
+376526	6	23	No Variant	2020-12-20 — 06:27:27 UTC	annoyingpi, dwu, JYOKOTA, methmatics, RockmanEX3, room456	4	5	25
+376139	6	24	No Variant	2020-12-19 — 23:01:55 UTC	aquarelle, filthycovid, JamesG555, methmatics, smeg_sock, YeetusDeletus	5	5	25
+376109	6	0	No Variant	2020-12-19 — 22:38:24 UTC	aquarelle, filthycovid, JamesG555, methmatics, smeg_sock, YeetusDeletus	5	5	25
+376085	6	0	No Variant	2020-12-19 — 22:23:39 UTC	aquarelle, filthycovid, JamesG555, methmatics, smeg_sock, YeetusDeletus	8	5	25
+376064	5	0	6 Suits	2020-12-19 — 22:08:37 UTC	filthycovid, JamesG555, methmatics, smeg_sock, YeetusDeletus	7	6	30
+376011	5	0	6 Suits	2020-12-19 — 21:30:40 UTC	filthycovid, JamesG555, methmatics, smeg_sock, YeetusDeletus	8	6	30
+375974	5	20	6 Suits	2020-12-19 — 21:01:34 UTC	filthycovid, JamesG555, methmatics, smeg_sock, YeetusDeletus	7	6	30
+375685	2	30	Rainbow (6 Suits)	2020-12-19 — 09:05:03 UTC	boba, methmatics	200	6	30
+373721	5	25	Pink (5 Suits)	2020-12-17 — 12:30:09 UTC	Animex52, jack67889, methmatics, nitawa, Nitrate2	14	5	25
+373710	3	25	Muddy Rainbow & Light Pink (5 Suits)	2020-12-17 — 11:49:26 UTC	level_17, methmatics, orucsoraihc	7	5	25
+373068	2	25	Deceptive-Fives (5 Suits)	2020-12-16 — 20:43:19 UTC	methmatics, Stinkydude63	6	5	25
+373037	2	0	Deceptive-Fives (5 Suits)	2020-12-16 — 20:29:00 UTC	methmatics, Stinkydude63	8	5	25
+373025	2	0	Deceptive-Fives (5 Suits)	2020-12-16 — 20:24:36 UTC	methmatics, Stinkydude63	9	5	25
+373010	2	0	Deceptive-Fives (5 Suits)	2020-12-16 — 20:18:45 UTC	methmatics, Stinkydude63	11	5	25
+371737	5	0	Rainbow & Dark Pink (6 Suits)	2020-12-15 — 10:43:28 UTC	asaelr, katian, Lel0uch, melwen, methmatics	1	6	30
+371734	5	0	Rainbow & Dark Pink (6 Suits)	2020-12-15 — 10:15:13 UTC	asaelr, katian, Lel0uch, melwen, methmatics	1	6	30
+371732	5	0	Rainbow & Dark Pink (6 Suits)	2020-12-15 — 10:08:04 UTC	asaelr, katian, Lel0uch, melwen, methmatics	1	6	30
+370991	4	0	Pink (5 Suits)	2020-12-14 — 20:06:58 UTC	ejwu, methmatics, Stinkydude63, XMIL	23	5	25
+370980	4	0	No Variant	2020-12-14 — 19:51:35 UTC	ejwu, methmatics, Stinkydude63, XMIL	53	5	25
+370968	4	0	Pink (5 Suits)	2020-12-14 — 19:35:08 UTC	antitelharsic, methmatics, Stinkydude63, XMIL	34	5	25
+370944	4	0	Pink (5 Suits)	2020-12-14 — 19:05:27 UTC	antitelharsic, methmatics, Stinkydude63, XMIL	51	5	25
+370905	5	25	Omni (5 Suits)	2020-12-14 — 17:59:02 UTC	ChristopheAF, frosty104, HelanaAshryvr, Lel0uch, methmatics	11	5	25
+370902	4	0	Omni (5 Suits)	2020-12-14 — 17:40:24 UTC	ChristopheAF, HelanaAshryvr, Lel0uch, methmatics	26	5	25
+370842	5	30	Rainbow & Prism (6 Suits)	2020-12-14 — 14:40:05 UTC	boba, eevee, katian, Lel0uch, methmatics	11	6	30
+370834	4	23	Rainbow & Prism (5 Suits)	2020-12-14 — 14:09:21 UTC	boba, katian, Lel0uch, methmatics	7	5	25
+370777	6	24	No Variant	2020-12-14 — 08:58:55 UTC	boba, Etherealz, HelanaAshryvr, katian, Lel0uch, methmatics	6	5	25
+370771	6	0	No Variant	2020-12-14 — 08:32:05 UTC	boba, Etherealz, HelanaAshryvr, katian, Lel0uch, methmatics	7	5	25
+369830	5	30	6 Suits	2020-12-13 — 11:17:58 UTC	annoyingpi, dwu, IsabeltheCat, methmatics, room456	8	6	30
+369825	5	0	Black (5 Suits)	2020-12-13 — 10:33:48 UTC	annoyingpi, dwu, IsabeltheCat, methmatics, room456	27	5	25
+369823	5	21	Black (5 Suits)	2020-12-13 — 10:27:41 UTC	annoyingpi, dwu, IsabeltheCat, methmatics, room456	36	5	25
+369806	4	0	Dual-Color & Light Pink (6 Suits)	2020-12-13 — 09:01:57 UTC	doctorabi, methmatics, orucsoraihc, robense	2	6	30
+369804	4	0	Dual-Color & Light Pink (6 Suits)	2020-12-13 — 08:48:36 UTC	doctorabi, methmatics, orucsoraihc, robense	2	6	30
+369800	4	0	Dual-Color & Light Pink (6 Suits)	2020-12-13 — 08:31:43 UTC	doctorabi, methmatics, orucsoraihc, robense	2	6	30
+369785	3	0	Dual-Color & Light Pink (6 Suits)	2020-12-13 — 08:11:56 UTC	methmatics, orucsoraihc, robense	3	6	30
+369720	4	0	Cow & Pig (5 Suits)	2020-12-13 — 06:37:36 UTC	Animex52, dwu, IsabeltheCat, methmatics	28	5	25
+368858	3	15	3 Suits	2020-12-12 — 12:09:58 UTC	katian, Lel0uch, methmatics	51	3	15
+368854	3	0	3 Suits	2020-12-12 — 12:00:35 UTC	katian, Lel0uch, methmatics	74	3	15
+368852	3	0	3 Suits	2020-12-12 — 11:56:27 UTC	katian, Lel0uch, methmatics	88	3	15
+368847	3	24	Omni (5 Suits)	2020-12-12 — 11:42:18 UTC	Lel0uch, methmatics, nitawa	31	5	25
+368831	3	0	Omni (5 Suits)	2020-12-12 — 11:09:29 UTC	Lel0uch, methmatics, nitawa	50	5	25
+368803	3	23	White (5 Suits)	2020-12-12 — 10:06:14 UTC	methmatics, narabio, nitawa	81	5	25
+368791	2	23	White (5 Suits)	2020-12-12 — 09:41:49 UTC	eljavi, methmatics	184	5	25
+368767	5	0	White (5 Suits)	2020-12-12 — 09:13:33 UTC	Animex52, catula, eljavi, Kernel, methmatics	21	5	25
+368747	3	0	Rainbow (3 Suits)	2020-12-12 — 08:48:38 UTC	catula, eljavi, methmatics	26	3	15
+368725	3	13	Rainbow (3 Suits)	2020-12-12 — 08:26:05 UTC	catula, eljavi, methmatics	36	3	15
+367799	4	0	Dark Rainbow (5 Suits)	2020-12-11 — 14:09:51 UTC	jack67889, methmatics, nitawa, XMIL	19	5	25
+367780	4	23	Dark Rainbow (5 Suits)	2020-12-11 — 13:33:43 UTC	jack67889, methmatics, nitawa, XMIL	29	5	25
+367751	3	24	Cow & Pig (5 Suits)	2020-12-11 — 12:51:39 UTC	jack67889, methmatics, nitawa	1	5	25
+367736	3	0	Cow & Pig (5 Suits)	2020-12-11 — 12:24:22 UTC	jack67889, methmatics, nitawa	1	5	25
+367722	4	0	Duck (5 Suits)	2020-12-11 — 12:05:54 UTC	Animex52, catula, methmatics, nitawa	2	5	25
+367707	4	0	Duck (5 Suits)	2020-12-11 — 11:43:34 UTC	Animex52, catula, methmatics, nitawa	2	5	25
+367644	3	0	Muddy-Rainbow-Ones & Gray Pink (6 Suits)	2020-12-11 — 08:53:54 UTC	methmatics, penisman, Stinkydude63	2	6	30
+367640	3	0	Muddy-Rainbow-Ones & Gray Pink (6 Suits)	2020-12-11 — 08:44:39 UTC	methmatics, penisman, Stinkydude63	3	6	30
+367633	3	25	Throw It in a Hole (5 Suits)	2020-12-11 — 08:31:14 UTC	antitelharsic, methmatics, penisman	12	5	25
+367619	3	0	Throw It in a Hole (5 Suits)	2020-12-11 — 07:58:04 UTC	antitelharsic, methmatics, penisman	14	5	25
+365849	4	25	Deceptive-Fives (5 Suits)	2020-12-09 — 14:25:19 UTC	jack67889, MarkusKahlsen, methmatics, penisman	4	5	25
+365793	3	0	Deceptive-Fives & Prism (5 Suits)	2020-12-09 — 13:46:26 UTC	Feich59, Lanvin, methmatics	1	5	25
+365641	4	30	Dual-Color & Rainbow (6 Suits)	2020-12-09 — 11:44:06 UTC	derekcheah, frosty104, methmatics, orucsoraihc	5	6	30
+365607	3	30	Dual-Color & Rainbow (6 Suits)	2020-12-09 — 11:06:45 UTC	frosty104, methmatics, orucsoraihc	24	6	30
+365366	4	24	Deceptive-Ones (5 Suits)	2020-12-09 — 04:06:51 UTC	antitelharsic, methmatics, penisman, XMIL	7	5	25
+365330	4	22	Deceptive-Ones (5 Suits)	2020-12-09 — 03:33:26 UTC	antitelharsic, methmatics, penisman, XMIL	16	5	25
+365249	6	0	Rainbow (6 Suits)	2020-12-09 — 02:53:49 UTC	Animex52, antitelharsic, aquarelle, methmatics, penisman, Stinkydude63	20	6	30
+365218	4	0	Rainbow (6 Suits)	2020-12-09 — 02:32:37 UTC	Animex52, methmatics, penisman, Stinkydude63	85	6	30
+365179	4	30	Black (6 Suits)	2020-12-09 — 02:10:50 UTC	Animex52, aquarelle, methmatics, orucsoraihc	90	6	30
+365130	4	0	Rainbow (6 Suits)	2020-12-09 — 01:46:55 UTC	andre_smaira, Animex52, methmatics, orucsoraihc	91	6	30
+364550	3	22	Dark Rainbow (5 Suits)	2020-12-08 — 11:04:47 UTC	methmatics, nitawa, Sucubis	35	5	25
+364547	3	0	Dark Rainbow (5 Suits)	2020-12-08 — 10:42:23 UTC	methmatics, nitawa, Sucubis	36	5	25
+364546	3	0	Dark Rainbow (5 Suits)	2020-12-08 — 10:37:19 UTC	methmatics, nitawa, Sucubis	48	5	25
+364545	3	25	Muddy Rainbow (5 Suits)	2020-12-08 — 10:29:07 UTC	methmatics, nitawa, Sucubis	46	5	25
+364535	6	0	No Variant	2020-12-08 — 09:49:43 UTC	frosty104, GemmyBean, katian, methmatics, orucsoraihc, zeinab001	7	5	25
+362385	5	0	Rainbow (6 Suits)	2020-12-06 — 10:15:39 UTC	annoyingpi, asdfjeffrey, JYOKOTA, methmatics, room456	50	6	30
+362375	5	29	Black (6 Suits)	2020-12-06 — 09:46:11 UTC	annoyingpi, asdfjeffrey, JYOKOTA, methmatics, spbsuitmo	39	6	30
+362346	4	28	6 Suits	2020-12-06 — 08:34:58 UTC	annoyingpi, JYOKOTA, methmatics, spbsuitmo	19	6	30
+361812	2	0	No Variant	2020-12-05 — 22:17:59 UTC	ada.yukie, methmatics	450	5	25
+361811	2	0	No Variant	2020-12-05 — 22:16:14 UTC	ada.yukie, methmatics	455	5	25
+361521	5	30	Pink (6 Suits)	2020-12-05 — 11:58:26 UTC	Carunty, Div, frosty104, Lel0uch, methmatics	8	6	30
+361518	5	0	Pink (6 Suits)	2020-12-05 — 11:23:12 UTC	Carunty, Div, frosty104, Lel0uch, methmatics	9	6	30
+361513	4	26	Pink & White (6 Suits)	2020-12-05 — 10:53:49 UTC	Carunty, frosty104, Lel0uch, methmatics	7	6	30
+361505	3	0	Light Pink (6 Suits)	2020-12-05 — 10:23:01 UTC	Animex52, Fey, methmatics	4	6	30
+361503	3	0	Light Pink (6 Suits)	2020-12-05 — 10:12:54 UTC	Animex52, Fey, methmatics	6	6	30
+360519	4	23	Cocoa Rainbow (5 Suits)	2020-12-04 — 15:25:08 UTC	methmatics, nitawa, Nitrate2, Sucubis	15	5	25
+360514	5	0	Cocoa Rainbow (5 Suits)	2020-12-04 — 14:53:07 UTC	catula, methmatics, nitawa, Nitrate2, Sucubis	6	5	25
+360513	5	0	Cocoa Rainbow (5 Suits)	2020-12-04 — 14:46:25 UTC	catula, methmatics, nitawa, Nitrate2, Sucubis	6	5	25
+360512	5	0	Cocoa Rainbow (5 Suits)	2020-12-04 — 14:39:45 UTC	catula, methmatics, nitawa, Nitrate2, Sucubis	9	5	25
+360509	4	0	Black & Brown (5 Suits)	2020-12-04 — 14:30:30 UTC	catula, methmatics, Nitrate2, Sucubis	8	5	25
+360505	4	0	Black & Brown (5 Suits)	2020-12-04 — 14:18:26 UTC	catula, methmatics, Nitrate2, Sucubis	8	5	25
+360493	4	23	Cocoa Rainbow (5 Suits)	2020-12-04 — 14:04:32 UTC	catula, methmatics, nitawa, Sucubis	20	5	25
+359786	5	23	Prism (5 Suits)	2020-12-03 — 13:22:17 UTC	aquarelle, BarneyRubble, katian, Lel0uch, methmatics	13	5	25
+359778	3	25	No Variant	2020-12-03 — 12:37:43 UTC	methmatics, nitawa, Nitrate2	160	5	25
+359770	3	25	Cow & Pig (5 Suits)	2020-12-03 — 11:41:24 UTC	methmatics, nitawa, Sucubis	2	5	25
+359761	3	0	Cow & Pig (5 Suits)	2020-12-03 — 11:10:11 UTC	methmatics, nitawa, Sucubis	5	5	25
+359760	3	0	Cow & Pig (5 Suits)	2020-12-03 — 11:07:47 UTC	methmatics, nitawa, Sucubis	6	5	25
+359759	3	0	Cow & Pig (5 Suits)	2020-12-03 — 11:06:29 UTC	methmatics, nitawa, Sucubis	6	5	25
+359755	3	0	Cow & Pig (5 Suits)	2020-12-03 — 10:58:48 UTC	methmatics, nitawa, Sucubis	7	5	25
+359749	3	0	Cow & Pig (5 Suits)	2020-12-03 — 10:28:27 UTC	methmatics, nitawa, Sucubis	13	5	25
+359744	4	24	Duck (5 Suits)	2020-12-03 — 09:46:03 UTC	antitelharsic, duckmedic, methmatics, nitawa	5	5	25
+357748	5	27	Dark Rainbow (6 Suits)	2020-11-30 — 20:34:03 UTC	cockdestroyer, methmatics, penisman, sephiroth, Sucubis	8	6	30
+357727	4	0	Dark Rainbow (6 Suits)	2020-11-30 — 20:02:10 UTC	cockdestroyer, methmatics, sephiroth, Sucubis	20	6	30
+357723	4	26	Dark Rainbow (6 Suits)	2020-11-30 — 19:53:47 UTC	cockdestroyer, methmatics, nitawa, sephiroth	21	6	30
+357696	4	0	Dark Rainbow (6 Suits)	2020-11-30 — 19:22:36 UTC	cockdestroyer, methmatics, nitawa, sephiroth	26	6	30
+357501	4	25	No Variant	2020-11-30 — 12:24:52 UTC	macanek, methmatics, sin_faith, swineherd	31	5	25
+357498	4	25	No Variant	2020-11-30 — 12:00:49 UTC	Animex52, methmatics, sephiroth, VerySloppyTwo	27	5	25
+357497	4	0	No Variant	2020-11-30 — 11:50:47 UTC	Animex52, methmatics, sephiroth, VerySloppyTwo	47	5	25
+357496	3	0	No Variant	2020-11-30 — 11:44:12 UTC	Animex52, methmatics, sephiroth	76	5	25
+357495	3	0	No Variant	2020-11-30 — 11:43:02 UTC	Animex52, methmatics, sephiroth	79	5	25
+356642	4	25	No Variant	2020-11-29 — 09:35:52 UTC	Dwu123, methmatics, room456, spbsuitmo	55	5	25
+356636	4	25	No Variant	2020-11-29 — 09:03:30 UTC	Dwu123, methmatics, room456, spbsuitmo	55	5	25
+356633	4	0	No Variant	2020-11-29 — 08:36:29 UTC	Dwu123, methmatics, room456, spbsuitmo	54	5	25
+355050	6	27	Rainbow & Dark Pink (6 Suits)	2020-11-27 — 11:59:20 UTC	Carunty, catula, Lel0uch, melwen, methmatics, Sucubis	2	6	30
+355046	5	27	Rainbow & Dark Pink (6 Suits)	2020-11-27 — 11:22:31 UTC	Carunty, Lel0uch, melwen, methmatics, Sucubis	3	6	30
+355043	5	19	Pink (4 Suits)	2020-11-27 — 10:42:17 UTC	Carunty, Lel0uch, methmatics, Nitrate2, Tiramisu1th	6	4	20
+354317	4	18	Pink (4 Suits)	2020-11-26 — 10:30:02 UTC	asaelr, doctorabi, frosty104, methmatics	22	4	20
+354308	5	0	Pink & Prism (6 Suits)	2020-11-26 — 10:00:47 UTC	derekcheah, doctorabi, frosty104, methmatics, Pablo-	3	6	30
+354302	5	0	White-Ones (6 Suits)	2020-11-26 — 09:28:24 UTC	derekcheah, doctorabi, methmatics, Pablo-, VerySloppyTwo	8	6	30
+354299	4	0	White-Ones & Black (5 Suits)	2020-11-26 — 08:57:28 UTC	derekcheah, methmatics, Pablo-, VerySloppyTwo	4	5	25
+354294	4	0	White-Ones & Brown (5 Suits)	2020-11-26 — 08:30:18 UTC	Animex52, cockdestroyer, methmatics, XMIL	1	5	25
+354281	4	0	White-Ones & Brown (5 Suits)	2020-11-26 — 08:03:12 UTC	Animex52, methmatics, Stinkydude63, XMIL	2	5	25
+351637	4	25	No Variant	2020-11-23 — 10:17:26 UTC	charmander, katian, Lel0uch, methmatics	57	5	25
+351632	5	25	No Variant	2020-11-23 — 09:36:03 UTC	charmander, katian, methmatics, Pablo-, StKildaFan	45	5	25
+351628	3	25	No Variant	2020-11-23 — 08:55:44 UTC	Carunty, katian, methmatics	187	5	25
+350675	4	25	No Variant	2020-11-22 — 10:34:13 UTC	asdfjeffrey, Dwu123, methmatics, room456	61	5	25
+350669	4	0	No Variant	2020-11-22 — 09:59:19 UTC	Dwu123, methmatics, room456, squashhime	60	5	25
+350626	3	0	Prism (4 Suits)	2020-11-22 — 07:31:05 UTC	HelanaAshryvr, Lel0uch, methmatics	13	4	20
+350596	4	11	Brown (3 Suits)	2020-11-22 — 06:47:23 UTC	catula, ksfortson, methmatics, XMIL	14	3	15
+348759	4	24	Brown (5 Suits)	2020-11-20 — 18:56:04 UTC	methmatics, sephiroth, Stinkydude63, VerySloppyTwo	36	5	25
+348743	3	0	Special Mix (5 Suits)	2020-11-20 — 18:34:56 UTC	methmatics, sephiroth, VerySloppyTwo	7	5	25
+346640	3	28	Rainbow-Fives & White (6 Suits)	2020-11-18 — 01:24:17 UTC	methmatics, Stinkydude63, whalesgomoo	3	6	30
+346618	3	24	No Variant	2020-11-18 — 00:44:30 UTC	methmatics, penisman, Stinkydude63	201	5	25
+346126	5	0	Special Mix (5 Suits)	2020-11-17 — 10:40:41 UTC	catula, Lel0uch, methmatics, sephiroth, whalesgomoo	16	5	25
+344861	5	23	Null-Ones (5 Suits)	2020-11-16 — 08:56:41 UTC	Animex52, methmatics, nitawa, sephiroth, Stinkydude63	2	5	25
+344840	5	22	Null-Ones (5 Suits)	2020-11-16 — 08:09:52 UTC	Animex52, Carunty, methmatics, nitawa, Stinkydude63	3	5	25
+344099	6	0	No Variant	2020-11-15 — 10:00:16 UTC	asdfjeffrey, atmchallenge, Dwu123, JYOKOTA, methmatics, room456	10	5	25
+344094	6	0	No Variant	2020-11-15 — 09:26:32 UTC	asdfjeffrey, atmchallenge, Dwu123, JYOKOTA, methmatics, room456	10	5	25
+344084	4	22	No Variant	2020-11-15 — 08:56:25 UTC	asdfjeffrey, atmchallenge, Dwu123, methmatics	59	5	25
+341453	3	20	Prism (4 Suits)	2020-11-12 — 05:57:28 UTC	Carunty, doctorabi, methmatics	21	4	20
+341440	3	18	Prism (4 Suits)	2020-11-12 — 05:32:31 UTC	Carunty, doctorabi, methmatics	45	4	20
+341415	5	25	No Variant	2020-11-12 — 05:01:06 UTC	cockdestroyer, Jar-Of-Smegma, methmatics, Nitrate2, penisman	35	5	25
+340291	5	0	Dark Prism (6 Suits)	2020-11-10 — 22:13:13 UTC	avanderwalde, Kyle, methmatics, timotree, Wittvector	5	6	30
+340269	3	0	Dark Prism (6 Suits)	2020-11-10 — 21:39:15 UTC	avanderwalde, Kyle, methmatics	3	6	30
+339957	6	0	Rainbow (5 Suits)	2020-11-10 — 10:32:05 UTC	BarneyRubble, Carunty, frosty104, Lel0uch, methmatics, StKildaFan	9	5	25
+339954	6	24	Rainbow (5 Suits)	2020-11-10 — 10:14:13 UTC	BarneyRubble, Carunty, frosty104, Lel0uch, methmatics, StKildaFan	14	5	25
+339102	6	0	Ambiguous (6 Suits)	2020-11-09 — 10:50:41 UTC	catula, jack67889, methmatics, Pablo-, sephiroth, Sucubis	3	6	30
+339101	6	0	Ambiguous (6 Suits)	2020-11-09 — 10:41:52 UTC	catula, jack67889, methmatics, Pablo-, sephiroth, Sucubis	5	6	30
+339099	5	0	Ambiguous (6 Suits)	2020-11-09 — 10:20:10 UTC	jack67889, methmatics, Pablo-, sephiroth, Sucubis	9	6	30
+339090	3	0	Ambiguous (6 Suits)	2020-11-09 — 09:43:20 UTC	jack67889, methmatics, Sucubis	22	6	30
+339089	3	0	Ambiguous (6 Suits)	2020-11-09 — 09:43:09 UTC	jack67889, methmatics, Sucubis	28	6	30
+339084	3	0	Ambiguous (6 Suits)	2020-11-09 — 09:33:11 UTC	jack67889, methmatics, Sucubis	42	6	30
+339083	3	0	Prism (4 Suits)	2020-11-09 — 09:31:32 UTC	jack67889, methmatics, Sucubis	27	4	20
+338977	5	22	Black (5 Suits)	2020-11-09 — 05:08:14 UTC	cockdestroyer, methmatics, Nitrate2, penisman, pianoblook	18	5	25
+338292	6	0	Dark Rainbow (6 Suits)	2020-11-08 — 12:49:31 UTC	Animex52, catula, cockdestroyer, methmatics, sephiroth, Sucubis	5	6	30
+338290	4	0	Rainbow & White (5 Suits)	2020-11-08 — 12:41:04 UTC	catula, methmatics, sephiroth, Sucubis	5	5	25
+338285	4	0	Rainbow & White (5 Suits)	2020-11-08 — 12:29:38 UTC	catula, methmatics, sephiroth, Sucubis	6	5	25
+338280	4	0	Rainbow & White (5 Suits)	2020-11-08 — 12:20:16 UTC	catula, methmatics, sephiroth, Sucubis	12	5	25
+338278	4	0	Rainbow & White (5 Suits)	2020-11-08 — 12:18:21 UTC	catula, methmatics, sephiroth, Sucubis	17	5	25
+338276	3	0	Light Pink (5 Suits)	2020-11-08 — 12:11:23 UTC	catula, methmatics, Sucubis	40	5	25
+337499	3	25	No Variant	2020-11-07 — 12:40:49 UTC	Animex52, catula, methmatics	89	5	25
+336643	4	25	No Variant	2020-11-06 — 03:55:43 UTC	BarneyRubble, methmatics, penisman, Stinkydude63	63	5	25
+334328	5	23	No Variant	2020-11-03 — 06:56:01 UTC	Animex52, kodomazer, methmatics, Stinkydude63, whalesgomoo	25	5	25
+333164	3	0	Duck (3 Suits)	2020-11-02 — 00:26:47 UTC	jamesleng100, methmatics, room456	21	3	15
+333138	3	0	3 Suits	2020-11-01 — 23:47:42 UTC	annoyingpi, methmatics, room456	115	3	15
+331074	4	30	Black (6 Suits)	2020-10-30 — 09:07:13 UTC	cockdestroyer, Fey, methmatics, robense	49	6	30
+329151	6	20	Cocoa Rainbow (5 Suits)	2020-10-27 — 11:06:58 UTC	cockdestroyer, jack67889, kodomazer, methmatics, orucsoraihc, Sucubis	3	5	25
+329121	6	25	No Variant	2020-10-27 — 06:29:27 UTC	AshleyBridge, Carunty, jack_0f_hearts, Jtjg, methmatics, sin_faith	10	5	25
+329108	4	15	3 Suits	2020-10-27 — 06:04:40 UTC	Carunty, Jtjg, kodomazer, methmatics	16	3	15
+329095	6	29	White (6 Suits)	2020-10-27 — 05:32:35 UTC	Carunty, cockdestroyer, kodomazer, melwen, methmatics, parrotdoxair	3	6	30
+329069	5	19	Black (5 Suits)	2020-10-27 — 04:44:54 UTC	cockdestroyer, kodomazer, melwen, methmatics, parrotdoxair	11	5	25
+327946	5	18	Pink (4 Suits)	2020-10-25 — 11:07:29 UTC	asaelr, catula, cockdestroyer, methmatics, sephiroth	7	4	20
+327927	5	29	Ambiguous (6 Suits)	2020-10-25 — 09:11:16 UTC	asdfjeffrey, cockdestroyer, Dwu123, methmatics, spbsuitmo	12	6	30
+327921	5	25	No Variant	2020-10-25 — 08:26:37 UTC	asdfjeffrey, cockdestroyer, Dwu123, methmatics, spbsuitmo	81	5	25
+327913	4	0	Omni (6 Suits)	2020-10-25 — 07:55:46 UTC	asdfjeffrey, Dwu123, methmatics, spbsuitmo	26	6	30
+327903	4	30	Rainbow (6 Suits)	2020-10-25 — 07:09:45 UTC	asdfjeffrey, Dwu123, methmatics, room456	96	6	30
+327890	3	0	Rainbow (6 Suits)	2020-10-25 — 06:34:57 UTC	asdfjeffrey, Dwu123, methmatics	332	6	30
+326406	4	0	Black & Dark Prism (6 Suits)	2020-10-23 — 10:17:24 UTC	Animex52, cockdestroyer, methmatics, Pablo-	7	6	30
+326397	3	0	Black & Dark Prism (6 Suits)	2020-10-23 — 09:56:49 UTC	Animex52, cockdestroyer, methmatics	7	6	30
+326389	4	28	Rainbow (6 Suits)	2020-10-23 — 09:04:00 UTC	cockdestroyer, Dwu123, methmatics, whalesgomoo	104	6	30
+326384	4	27	Rainbow (6 Suits)	2020-10-23 — 08:30:32 UTC	cockdestroyer, Dwu123, methmatics, whalesgomoo	122	6	30
+326374	4	0	Rainbow (6 Suits)	2020-10-23 — 08:05:20 UTC	cockdestroyer, Dwu123, methmatics, whalesgomoo	132	6	30
+326071	4	29	Rainbow (6 Suits)	2020-10-22 — 23:57:37 UTC	methmatics, penisman, Stinkydude63, whalesgomoo	156	6	30
+326057	4	0	Rainbow (6 Suits)	2020-10-22 — 23:35:41 UTC	methmatics, penisman, Stinkydude63, whalesgomoo	163	6	30
+326053	3	0	Rainbow (6 Suits)	2020-10-22 — 23:26:23 UTC	methmatics, Stinkydude63, whalesgomoo	396	6	30
+325499	6	20	No Variant	2020-10-22 — 03:12:44 UTC	lil_baootey, methmatics, papol, penisman, Stinkydude63, whalesgomoo	10	5	25
+324818	3	24	No Variant	2020-10-21 — 02:05:25 UTC	cockdestroyer, methmatics, Nitrate2	151	5	25
+324804	3	0	No Variant	2020-10-21 — 01:42:36 UTC	cockdestroyer, methmatics, Nitrate2	167	5	25
+323616	5	23	No Variant	2020-10-19 — 07:16:26 UTC	Animex52, methmatics, penisman, Stinkydude63, whalesgomoo	27	5	25
+323603	5	22	No Variant	2020-10-19 — 06:27:12 UTC	Animex52, methmatics, penisman, Stinkydude63, whalesgomoo	25	5	25
+323594	5	0	No Variant	2020-10-19 — 05:53:19 UTC	Animex52, methmatics, penisman, Stinkydude63, whalesgomoo	25	5	25
+323458	5	30	6 Suits	2020-10-19 — 02:42:30 UTC	Animex52, methmatics, penisman, Stinkydude63, whalesgomoo	7	6	30
+323435	5	0	6 Suits	2020-10-19 — 02:16:53 UTC	Animex52, methmatics, penisman, Stinkydude63, whalesgomoo	35	6	30
+322881	4	0	Cocoa Rainbow (6 Suits)	2020-10-18 — 12:38:34 UTC	asaelr, methmatics, swineherd, TimeHoodie	7	6	30
+322879	4	0	Cocoa Rainbow (6 Suits)	2020-10-18 — 12:31:52 UTC	asaelr, methmatics, swineherd, TimeHoodie	8	6	30
+322870	4	24	Pink (5 Suits)	2020-10-18 — 11:34:34 UTC	catula, methmatics, Sucubis, TimeHoodie	13	5	25
+322844	4	0	Prism (6 Suits)	2020-10-18 — 08:27:26 UTC	annoyingpi, Dwu123, methmatics, room456	15	6	30
+322693	5	25	No Variant	2020-10-18 — 03:47:36 UTC	Dwu123, JYOKOTA, meclifton, methmatics, room456	92	5	25
+322670	4	0	No Variant	2020-10-18 — 03:26:16 UTC	Dwu123, meclifton, methmatics, room456	64	5	25
+322654	4	0	No Variant	2020-10-18 — 03:05:48 UTC	Dwu123, meclifton, methmatics, room456	64	5	25
+321491	6	25	No Variant	2020-10-16 — 10:26:49 UTC	ebin_noob, jack67889, methmatics, squirtle, Veexliat, Wittvector	11	5	25
+321488	4	25	No Variant	2020-10-16 — 09:56:36 UTC	ebin_noob, jack67889, methmatics, Wittvector	70	5	25
+321486	3	22	No Variant	2020-10-16 — 09:30:16 UTC	ebin_noob, jack67889, methmatics	199	5	25
+320822	2	25	Pink-Ones & Prism (5 Suits)	2020-10-15 — 10:26:51 UTC	Animex52, methmatics	3	5	25
+320818	2	0	Pink-Ones & Prism (5 Suits)	2020-10-15 — 10:08:40 UTC	Animex52, methmatics	3	5	25
+320817	2	0	Pink-Ones & Prism (5 Suits)	2020-10-15 — 10:04:33 UTC	Animex52, methmatics	5	5	25
+320815	2	15	3 Suits	2020-10-15 — 09:45:42 UTC	Animex52, methmatics	105	3	15
+320813	4	30	Muddy Rainbow (6 Suits)	2020-10-15 — 09:24:36 UTC	asaelr, jack67889, methmatics, robense	19	6	30
+320807	4	30	Pink (6 Suits)	2020-10-15 — 08:36:59 UTC	catula, jack67889, methmatics, sephiroth	54	6	30
+320167	3	25	Cow & Pig (5 Suits)	2020-10-14 — 06:29:29 UTC	JYOKOTA, methmatics, spbsuitmo	18	5	25
+320163	3	0	Cow & Pig (5 Suits)	2020-10-14 — 06:06:13 UTC	JYOKOTA, methmatics, spbsuitmo	33	5	25
+320157	4	0	Ambiguous (6 Suits)	2020-10-14 — 05:57:18 UTC	JYOKOTA, methmatics, room456, spbsuitmo	8	6	30
+320139	4	0	Ambiguous (6 Suits)	2020-10-14 — 05:31:38 UTC	JYOKOTA, methmatics, room456, spbsuitmo	13	6	30
+320133	4	0	Ambiguous (6 Suits)	2020-10-14 — 05:20:12 UTC	JYOKOTA, methmatics, room456, spbsuitmo	20	6	30
+320131	4	0	Duck (5 Suits)	2020-10-14 — 05:15:03 UTC	JYOKOTA, methmatics, room456, spbsuitmo	27	5	25
+320129	5	23	No Variant	2020-10-14 — 05:12:23 UTC	ejwu, Kyle, methmatics, orucsoraihc, StKildaFan	21	5	25
+320118	4	0	Prism (5 Suits)	2020-10-14 — 04:52:19 UTC	Kyle, methmatics, orucsoraihc, StKildaFan	47	5	25
+320105	5	0	No Variant	2020-10-14 — 04:35:36 UTC	JYOKOTA, lidfeel, methmatics, room456, spbsuitmo	100	5	25
+320089	4	0	No Variant	2020-10-14 — 04:12:27 UTC	lidfeel, methmatics, room456, spbsuitmo	68	5	25
+319696	6	0	No Variant	2020-10-13 — 20:06:02 UTC	DiscardiB, emmaparsnip, Gamma_nife, mees, methmatics, tallestben	7	5	25
+319685	6	0	No Variant	2020-10-13 — 19:53:53 UTC	DiscardiB, emmaparsnip, Gamma_nife, mees, methmatics, tallestben	8	5	25
+319677	6	0	No Variant	2020-10-13 — 19:48:11 UTC	DiscardiB, emmaparsnip, Gamma_nife, mees, methmatics, tallestben	8	5	25
+319671	6	0	No Variant	2020-10-13 — 19:39:33 UTC	DiscardiB, emmaparsnip, Gamma_nife, mees, methmatics, tallestben	8	5	25
+319431	6	20	4 Suits	2020-10-13 — 09:23:30 UTC	Animex52, catula, level_0, level_17, methmatics, StKildaFan	17	4	20
+318729	3	30	Prism (6 Suits)	2020-10-12 — 09:16:30 UTC	Animex52, methmatics, sephiroth	45	6	30
+318725	5	22	No Variant	2020-10-12 — 08:43:23 UTC	Animex52, cockdestroyer, methmatics, robense, Stinkydude63	28	5	25
+318062	2	15	Rainbow (3 Suits)	2020-10-11 — 09:57:55 UTC	jeffreyasdf, methmatics	49	3	15
+318059	2	0	Rainbow (3 Suits)	2020-10-11 — 09:50:35 UTC	jeffreyasdf, methmatics	76	3	15
+318052	4	0	Prism (6 Suits)	2020-10-11 — 09:35:36 UTC	Dwu123, jeffreyasdf, methmatics, room456	22	6	30
+318036	4	0	Prism (6 Suits)	2020-10-11 — 09:15:59 UTC	Dwu123, jeffreyasdf, methmatics, room456	23	6	30
+318025	5	0	Black (5 Suits)	2020-10-11 — 09:00:28 UTC	catula, cockdestroyer, Cold, methmatics, Sucubis	30	5	25
+318023	5	0	Prism (6 Suits)	2020-10-11 — 08:59:19 UTC	Dwu123, jeffreyasdf, JYOKOTA, methmatics, room456	2	6	30
+318014	5	0	Prism (6 Suits)	2020-10-11 — 08:41:27 UTC	Dwu123, jeffreyasdf, JYOKOTA, methmatics, room456	2	6	30
+318010	5	0	Prism (6 Suits)	2020-10-11 — 08:35:02 UTC	Dwu123, jeffreyasdf, JYOKOTA, methmatics, room456	3	6	30
+318005	5	0	No Variant	2020-10-11 — 08:25:10 UTC	Dwu123, jeffreyasdf, JYOKOTA, methmatics, room456	120	5	25
+317989	6	0	Prism (6 Suits)	2020-10-11 — 07:56:04 UTC	Dwu123, IsabeltheCat, jeffreyasdf, JYOKOTA, methmatics, room456	3	6	30
+317983	6	0	Prism (6 Suits)	2020-10-11 — 07:42:42 UTC	Dwu123, IsabeltheCat, jeffreyasdf, JYOKOTA, methmatics, room456	2	6	30
+317979	6	0	Prism (6 Suits)	2020-10-11 — 07:35:06 UTC	Dwu123, IsabeltheCat, jeffreyasdf, JYOKOTA, methmatics, room456	3	6	30
+317978	6	0	Prism (6 Suits)	2020-10-11 — 07:32:40 UTC	Dwu123, IsabeltheCat, jeffreyasdf, JYOKOTA, methmatics, room456	6	6	30
+317976	5	0	Throw It in a Hole (5 Suits)	2020-10-11 — 07:25:03 UTC	cockdestroyer, Dwu123, Fey, methmatics, sin_faith	9	5	25
+317973	4	25	No Variant	2020-10-11 — 07:18:36 UTC	Dwu123, jeffreyasdf, methmatics, room456	89	5	25
+315763	4	0	Pink (5 Suits)	2020-10-08 — 11:11:16 UTC	asaelr, catula, jack67889, methmatics	2	5	25
+315759	4	0	Pink (5 Suits)	2020-10-08 — 10:49:29 UTC	asaelr, catula, jack67889, methmatics	3	5	25
+315758	4	0	Pink (5 Suits)	2020-10-08 — 10:34:17 UTC	asaelr, catula, jack67889, methmatics	3	5	25
+315757	5	0	Pink (5 Suits)	2020-10-08 — 10:13:14 UTC	asaelr, catula, methmatics, pianoblook, sephiroth	4	5	25
+315756	6	0	Pink (5 Suits)	2020-10-08 — 09:58:24 UTC	asaelr, catula, cockdestroyer, methmatics, pianoblook, sephiroth	2	5	25
+315755	6	0	Pink (5 Suits)	2020-10-08 — 09:58:19 UTC	asaelr, catula, cockdestroyer, methmatics, pianoblook, sephiroth	3	5	25
+314204	4	25	No Variant	2020-10-06 — 10:32:24 UTC	Animex52, cockdestroyer, methmatics, sephiroth	74	5	25
+314183	4	29	Rainbow (6 Suits)	2020-10-06 — 09:10:21 UTC	Animex52, Dwu123, methmatics, Stinkydude63	185	6	30
+310956	2	0	3 Suits	2020-10-02 — 10:41:31 UTC	Dwu123, methmatics	124	3	15
+310951	2	13	3 Suits	2020-10-02 — 10:03:14 UTC	Dwu123, methmatics	193	3	15
+310949	2	0	3 Suits	2020-10-02 — 09:56:30 UTC	Dwu123, methmatics	271	3	15
+310948	2	29	6 Suits	2020-10-02 — 09:50:55 UTC	Dwu123, methmatics	401	6	30
+310378	3	15	Rainbow (3 Suits)	2020-10-01 — 07:19:00 UTC	asdfjeffrey, methmatics, room456	43	3	15
+310374	3	0	Rainbow (3 Suits)	2020-10-01 — 07:05:55 UTC	asdfjeffrey, methmatics, room456	53	3	15
+310373	3	0	Rainbow (3 Suits)	2020-10-01 — 07:04:26 UTC	asdfjeffrey, methmatics, room456	71	3	15
+310371	3	0	No Variant	2020-10-01 — 06:59:14 UTC	asdfjeffrey, methmatics, room456	206	5	25
+310370	3	0	No Variant	2020-10-01 — 06:57:59 UTC	asdfjeffrey, methmatics, room456	213	5	25
+310369	3	0	Black (6 Suits)	2020-10-01 — 06:54:46 UTC	asdfjeffrey, methmatics, room456	172	6	30
+310352	3	15	Very Ambiguous (3 Suits)	2020-10-01 — 06:33:59 UTC	asdfjeffrey, methmatics, room456	8	3	15
+310290	3	0	No Variant	2020-10-01 — 05:12:02 UTC	ejwu, methmatics, StKildaFan	77	5	25
+310276	3	0	No Variant	2020-10-01 — 04:59:47 UTC	ejwu, methmatics, StKildaFan	77	5	25
+310243	3	24	No Variant	2020-10-01 — 04:33:07 UTC	ejwu, methmatics, StKildaFan	93	5	25
+310227	2	23	No Variant	2020-10-01 — 04:14:15 UTC	ejwu, methmatics	423	5	25
+301989	5	0	No Variant	2020-09-20 — 01:58:49 UTC	antitelharsic, methmatics, orucsoraihc, timotree, vEnhance	31	5	25
+301955	4	0	No Variant	2020-09-20 — 01:31:07 UTC	antitelharsic, methmatics, orucsoraihc, timotree	70	5	25
+301910	6	0	No Variant	2020-09-20 — 00:56:42 UTC	antitelharsic, avanderwalde, emilyzhao, methmatics, orucsoraihc, rkass	10	5	25
+301002	3	26	Dark Prism (6 Suits)	2020-09-18 — 22:43:37 UTC	methmatics, reuzed, st1ngr3y	32	6	30
+300974	3	23	Null-Fives & Cocoa Rainbow (5 Suits)	2020-09-18 — 22:10:46 UTC	methmatics, reuzed, st1ngr3y	1	5	25
+300608	6	30	6 Suits	2020-09-18 — 09:05:22 UTC	Animex52, antitelharsic, catula, methmatics, orucsoraihc, StKildaFan	16	6	30
+300603	6	0	6 Suits	2020-09-18 — 08:39:10 UTC	Animex52, antitelharsic, catula, methmatics, orucsoraihc, StKildaFan	19	6	30
+300601	3	0	No Variant	2020-09-18 — 08:16:05 UTC	Animex52, catula, methmatics	121	5	25
+298763	4	30	6 Suits	2020-09-16 — 08:36:29 UTC	Animex52, methmatics, Pablo-, rachyrules	92	6	30
+298760	2	0	Pink & White (5 Suits)	2020-09-16 — 08:07:27 UTC	Animex52, methmatics	31	5	25
+298758	2	24	Muddy Rainbow & Gray (5 Suits)	2020-09-16 — 07:49:24 UTC	Animex52, methmatics	5	5	25
+298473	4	0	No Variant	2020-09-15 — 23:02:30 UTC	jeff10, methmatics, newduke, Pablo-	71	5	25
+298456	4	0	No Variant	2020-09-15 — 22:21:34 UTC	jeff10, methmatics, newduke, Pablo-	78	5	25
+298446	4	21	No Variant	2020-09-15 — 21:57:13 UTC	jeff10, methmatics, newduke, Pablo-	82	5	25
+298157	3	20	4 Suits	2020-09-15 — 10:28:55 UTC	Draconica_, methmatics, xxchipxx	160	4	20
+298156	3	14	3 Suits	2020-09-15 — 10:13:47 UTC	Draconica_, methmatics, xxchipxx	144	3	15
+298153	3	22	No Variant	2020-09-15 — 10:03:06 UTC	Draconica_, methmatics, xxchipxx	218	5	25
+298151	3	24	No Variant	2020-09-15 — 09:44:38 UTC	Draconica_, methmatics, xxchipxx	223	5	25
+298149	3	0	No Variant	2020-09-15 — 09:29:07 UTC	Draconica_, methmatics, xxchipxx	220	5	25
+298137	2	0	White & Dark Rainbow (6 Suits)	2020-09-15 — 07:38:55 UTC	Animex52, methmatics	11	6	30
+298135	2	0	White & Dark Rainbow (6 Suits)	2020-09-15 — 07:24:46 UTC	Animex52, methmatics	13	6	30
+297611	2	0	No Variant	2020-09-14 — 19:40:02 UTC	methmatics, ratnam	458	5	25
+297422	5	24	No Variant	2020-09-14 — 10:13:26 UTC	Animex52, catula, cockdestroyer, methmatics, sephiroth	31	5	25
+297418	4	25	No Variant	2020-09-14 — 09:20:23 UTC	Animex52, cockdestroyer, methmatics, sephiroth	79	5	25
+296638	4	30	White-Fives (6 Suits)	2020-09-13 — 10:17:42 UTC	annoyingpi, Dwu123, methmatics, spbsuitmo	2	6	30
+296623	4	30	6 Suits	2020-09-13 — 09:08:56 UTC	annoyingpi, Dwu123, methmatics, spbsuitmo	20	6	30
+296563	4	23	No Variant	2020-09-13 — 06:19:13 UTC	honobu, methmatics, newduke, penisman	81	5	25
+296555	4	25	No Variant	2020-09-13 — 06:00:44 UTC	honobu, methmatics, newduke, penisman	88	5	25
+296536	6	21	No Variant	2020-09-13 — 05:29:29 UTC	Animex52, honobu, methmatics, penisman, Stinkydude63, whalesgomoo	10	5	25
+296516	5	23	No Variant	2020-09-13 — 04:48:30 UTC	Animex52, methmatics, penisman, Stinkydude63, whalesgomoo	109	5	25
+293241	5	0	Dual-Color (6 Suits)	2020-09-09 — 09:29:00 UTC	annoyingpi, JYOKOTA, methmatics, room456, spbsuitmo	8	6	30
+293238	5	0	Ambiguous (6 Suits)	2020-09-09 — 09:06:39 UTC	annoyingpi, JYOKOTA, methmatics, room456, spbsuitmo	14	6	30
+293237	5	0	Black (6 Suits)	2020-09-09 — 09:01:12 UTC	annoyingpi, JYOKOTA, methmatics, room456, spbsuitmo	48	6	30
+293229	5	29	Black (6 Suits)	2020-09-09 — 08:21:06 UTC	annoyingpi, JYOKOTA, methmatics, room456, spbsuitmo	58	6	30
+293225	5	0	Very Ambiguous & Omni (4 Suits)	2020-09-09 — 07:44:16 UTC	annoyingpi, JYOKOTA, methmatics, room456, spbsuitmo	1	4	20
+293221	5	0	Prism (6 Suits)	2020-09-09 — 07:34:57 UTC	annoyingpi, JYOKOTA, methmatics, room456, spbsuitmo	3	6	30
+293218	5	30	Prism (6 Suits)	2020-09-09 — 07:24:13 UTC	annoyingpi, JYOKOTA, methmatics, room456, spbsuitmo	3	6	30
+292935	2	27	Up or Down (6 Suits)	2020-09-09 — 01:35:48 UTC	IsabeltheCat, methmatics	24	6	30
+292918	2	0	Up or Down (6 Suits)	2020-09-09 — 01:11:52 UTC	IsabeltheCat, methmatics	28	6	30
+292910	2	0	Up or Down (6 Suits)	2020-09-09 — 01:06:14 UTC	IsabeltheCat, methmatics	33	6	30
+292904	2	27	Up or Down (6 Suits)	2020-09-09 — 01:00:57 UTC	IsabeltheCat, methmatics	49	6	30
+290644	5	12	3 Suits	2020-09-06 — 09:45:51 UTC	annoyingpi, Dwu123, JYOKOTA, methmatics, room456	16	3	15
+290641	5	0	3 Suits	2020-09-06 — 09:30:42 UTC	annoyingpi, Dwu123, JYOKOTA, methmatics, room456	19	3	15
+290638	5	0	3 Suits	2020-09-06 — 09:23:23 UTC	annoyingpi, Dwu123, JYOKOTA, methmatics, room456	24	3	15
+290636	5	0	3 Suits	2020-09-06 — 09:16:51 UTC	annoyingpi, Dwu123, JYOKOTA, methmatics, room456	27	3	15
+290634	4	0	Rainbow (3 Suits)	2020-09-06 — 09:10:51 UTC	annoyingpi, Dwu123, methmatics, room456	24	3	15
+290633	4	15	Very Ambiguous (3 Suits)	2020-09-06 — 09:06:03 UTC	annoyingpi, Dwu123, methmatics, room456	2	3	15
+290632	4	0	Very Ambiguous (3 Suits)	2020-09-06 — 08:48:39 UTC	annoyingpi, Dwu123, methmatics, room456	2	3	15
+290630	4	0	Very Ambiguous (3 Suits)	2020-09-06 — 08:37:32 UTC	annoyingpi, Dwu123, methmatics, room456	2	3	15
+290628	4	14	Very Ambiguous (3 Suits)	2020-09-06 — 08:30:47 UTC	annoyingpi, Dwu123, methmatics, room456	3	3	15
+290625	4	0	No Variant	2020-09-06 — 08:12:41 UTC	annoyingpi, Dwu123, methmatics, room456	95	5	25
+290618	4	0	No Variant	2020-09-06 — 07:56:07 UTC	annoyingpi, Dwu123, methmatics, room456	95	5	25
+290613	4	30	Prism (6 Suits)	2020-09-06 — 07:45:30 UTC	annoyingpi, Dwu123, methmatics, room456	26	6	30
+290603	4	0	Prism (6 Suits)	2020-09-06 — 07:19:37 UTC	annoyingpi, Dwu123, methmatics, room456	35	6	30
+290600	4	0	Prism (6 Suits)	2020-09-06 — 07:14:19 UTC	annoyingpi, Dwu123, methmatics, room456	53	6	30
+290598	3	29	Rainbow & Prism (6 Suits)	2020-09-06 — 07:04:39 UTC	Dwu123, JYOKOTA, methmatics	12	6	30
+290592	3	0	Rainbow & Prism (6 Suits)	2020-09-06 — 06:37:46 UTC	Dwu123, JYOKOTA, methmatics	18	6	30
+290576	3	0	Rainbow & Prism (6 Suits)	2020-09-06 — 06:28:25 UTC	Dwu123, JYOKOTA, methmatics	22	6	30
+290000	2	25	No Variant	2020-09-05 — 18:47:03 UTC	methmatics, nimarezaeian	476	5	25
+289989	2	0	No Variant	2020-09-05 — 18:33:09 UTC	methmatics, nimarezaeian	496	5	25
+289987	2	0	No Variant	2020-09-05 — 18:30:58 UTC	methmatics, nimarezaeian	555	5	25
+289980	2	0	No Variant	2020-09-05 — 18:26:31 UTC	methmatics, nimarezaeian	581	5	25
+289970	2	0	No Variant	2020-09-05 — 18:10:05 UTC	methmatics, nimarezaeian	593	5	25
+288671	3	25	No Variant	2020-09-04 — 05:22:06 UTC	frank57, methmatics, room456	224	5	25
+288629	6	24	No Variant	2020-09-04 — 04:42:30 UTC	andrew314, eunicesukarto, frank57, masonery123, methmatics, room456	12	5	25
+288604	6	0	No Variant	2020-09-04 — 04:17:13 UTC	andrew314, eunicesukarto, frank57, masonery123, methmatics, room456	13	5	25
+287708	6	24	No Variant	2020-09-03 — 03:25:27 UTC	Ahming, methmatics, orucsoraihc, parrotdoxair, Rubix, StKildaFan	16	5	25
+287686	6	22	No Variant	2020-09-03 — 02:50:59 UTC	Ahming, methmatics, orucsoraihc, parrotdoxair, Rubix, StKildaFan	17	5	25
+287189	4	22	No Variant	2020-09-02 — 11:07:24 UTC	catula, methmatics, sandwichman, StKildaFan	601	5	25
+287116	5	0	Prism (6 Suits)	2020-09-02 — 06:06:28 UTC	annoyingpi, Dwu123, lidfeel, methmatics, room456	5	6	30
+287110	5	0	Prism (6 Suits)	2020-09-02 — 06:00:21 UTC	annoyingpi, Dwu123, lidfeel, methmatics, room456	5	6	30
+287100	6	0	Rainbow & Prism (6 Suits)	2020-09-02 — 05:38:08 UTC	annoyingpi, Dwu123, JYOKOTA, lidfeel, methmatics, room456	1	6	30
+287089	6	0	Rainbow & Prism (6 Suits)	2020-09-02 — 05:23:01 UTC	annoyingpi, Dwu123, JYOKOTA, lidfeel, methmatics, room456	1	6	30
+287087	6	0	Rainbow & Prism (6 Suits)	2020-09-02 — 05:20:13 UTC	annoyingpi, Dwu123, JYOKOTA, lidfeel, methmatics, room456	1	6	30
+287082	6	0	Rainbow & Prism (6 Suits)	2020-09-02 — 05:12:03 UTC	annoyingpi, Dwu123, JYOKOTA, lidfeel, methmatics, room456	1	6	30
+287075	6	0	Rainbow & Prism (6 Suits)	2020-09-02 — 05:01:43 UTC	annoyingpi, Dwu123, JYOKOTA, lidfeel, methmatics, room456	3	6	30
+287061	6	27	Rainbow & Prism (6 Suits)	2020-09-02 — 04:40:56 UTC	annoyingpi, Dwu123, JYOKOTA, lidfeel, methmatics, room456	4	6	30
+286049	2	0	Pink & Prism (4 Suits)	2020-09-01 — 03:53:10 UTC	Dwu123, methmatics	14	4	20
+286014	2	0	Pink & Prism (4 Suits)	2020-09-01 — 03:29:43 UTC	Dwu123, methmatics	16	4	20
+286008	2	0	Brown-Fives & White (3 Suits)	2020-09-01 — 03:26:02 UTC	Dwu123, methmatics	2	3	15
+284608	5	0	Prism (6 Suits)	2020-08-30 — 08:31:09 UTC	annoyingpi, Dwu123, JYOKOTA, lidfeel, methmatics	5	6	30
+284596	6	0	Prism (6 Suits)	2020-08-30 — 07:37:34 UTC	annoyingpi, Dwu123, JYOKOTA, lidfeel, methmatics, room456	8	6	30
+284587	5	0	Prism (6 Suits)	2020-08-30 — 07:04:48 UTC	Dwu123, JYOKOTA, lidfeel, methmatics, room456	7	6	30
+284577	5	0	Prism (6 Suits)	2020-08-30 — 06:46:01 UTC	Dwu123, JYOKOTA, lidfeel, methmatics, room456	7	6	30
+284574	5	0	Prism (6 Suits)	2020-08-30 — 06:43:07 UTC	Dwu123, JYOKOTA, lidfeel, methmatics, room456	6	6	30
+284568	5	0	Prism (6 Suits)	2020-08-30 — 06:29:50 UTC	Dwu123, JYOKOTA, lidfeel, methmatics, room456	9	6	30
+284545	5	0	Prism (6 Suits)	2020-08-30 — 06:09:41 UTC	Dwu123, JYOKOTA, lidfeel, methmatics, room456	8	6	30
+284529	5	0	Prism (6 Suits)	2020-08-30 — 05:52:00 UTC	Dwu123, JYOKOTA, lidfeel, methmatics, room456	11	6	30
+284510	5	0	Prism (6 Suits)	2020-08-30 — 05:35:45 UTC	Dwu123, JYOKOTA, lidfeel, methmatics, room456	10	6	30
+284500	5	0	Prism (6 Suits)	2020-08-30 — 05:28:24 UTC	Dwu123, JYOKOTA, lidfeel, methmatics, room456	12	6	30
+284498	5	0	Prism (6 Suits)	2020-08-30 — 05:26:25 UTC	Dwu123, JYOKOTA, lidfeel, methmatics, room456	17	6	30
+284494	5	0	Prism (6 Suits)	2020-08-30 — 05:24:16 UTC	Dwu123, JYOKOTA, lidfeel, methmatics, room456	24	6	30
+284481	4	0	Rainbow (6 Suits)	2020-08-30 — 05:16:51 UTC	Dwu123, lidfeel, methmatics, room456	238	6	30
+284478	4	0	Rainbow (6 Suits)	2020-08-30 — 05:15:37 UTC	Dwu123, lidfeel, methmatics, room456	275	6	30
+284476	5	0	Rainbow (6 Suits)	2020-08-30 — 05:13:09 UTC	Dwu123, IsabeltheCat, lidfeel, methmatics, room456	59	6	30
+284459	5	0	Rainbow (6 Suits)	2020-08-30 — 05:00:43 UTC	Dwu123, IsabeltheCat, lidfeel, methmatics, room456	67	6	30
+284447	4	0	Very Ambiguous (3 Suits)	2020-08-30 — 04:51:10 UTC	Dwu123, IsabeltheCat, lidfeel, methmatics	5	3	15
+284443	5	0	Up or Down (6 Suits)	2020-08-30 — 04:48:37 UTC	Dwu123, IsabeltheCat, lidfeel, methmatics, room456	17	6	30
+284431	6	25	No Variant	2020-08-30 — 04:38:36 UTC	Dwu123, IsabeltheCat, jamesleng100, JYOKOTA, lidfeel, methmatics	18	5	25
+284399	3	25	No Variant	2020-08-30 — 04:11:05 UTC	jamesleng100, meclifton, methmatics	243	5	25
+284373	6	0	No Variant	2020-08-30 — 03:48:00 UTC	Dwu123, jamesleng100, JYOKOTA, lidfeel, meclifton, methmatics	282	5	25
+284359	6	0	No Variant	2020-08-30 — 03:33:38 UTC	Dwu123, jamesleng100, JYOKOTA, lidfeel, meclifton, methmatics	478	5	25
+284344	5	0	Reversed (5 Suits)	2020-08-30 — 03:19:54 UTC	Dwu123, JYOKOTA, lidfeel, methmatics, Spade37	6	5	25
+281433	4	23	Up or Down (5 Suits)	2020-08-26 — 23:43:56 UTC	methmatics, Morganlgd, reuzed, st1ngr3y	41	5	25
+281398	4	0	Black & Null (6 Suits)	2020-08-26 — 23:12:02 UTC	methmatics, Morganlgd, reuzed, st1ngr3y	3	6	30
+281375	4	28	Black & Null (6 Suits)	2020-08-26 — 22:50:56 UTC	methmatics, Morganlgd, reuzed, st1ngr3y	6	6	30
+281293	4	24	No Variant	2020-08-26 — 22:10:44 UTC	methmatics, Morganlgd, reuzed, st1ngr3y	99	5	25
+280955	5	0	Pink-Fives (6 Suits)	2020-08-26 — 06:07:50 UTC	Dwu123, IsabeltheCat, JYOKOTA, methmatics, room456	3	6	30
+280942	5	0	Pink-Fives (6 Suits)	2020-08-26 — 05:52:20 UTC	Dwu123, IsabeltheCat, JYOKOTA, methmatics, room456	4	6	30
+280932	5	0	Pink-Fives (6 Suits)	2020-08-26 — 05:42:12 UTC	Dwu123, IsabeltheCat, JYOKOTA, methmatics, room456	3	6	30
+280909	5	0	Pink-Fives (6 Suits)	2020-08-26 — 05:19:09 UTC	Dwu123, IsabeltheCat, JYOKOTA, methmatics, room456	4	6	30
+280884	4	0	Pink-Fives (6 Suits)	2020-08-26 — 04:57:46 UTC	Dwu123, JYOKOTA, methmatics, room456	4	6	30
+280852	4	0	Pink-Fives (6 Suits)	2020-08-26 — 04:40:23 UTC	Dwu123, JYOKOTA, methmatics, room456	6	6	30
+280806	4	30	Pink-Fives (6 Suits)	2020-08-26 — 04:10:39 UTC	Dwu123, JYOKOTA, methmatics, room456	9	6	30
+280776	3	0	Pink-Fives (6 Suits)	2020-08-26 — 03:48:54 UTC	JYOKOTA, methmatics, room456	7	6	30
+278885	4	0	No Variant	2020-08-23 — 23:34:21 UTC	joelwool, methmatics, timotree, XMIL	90	5	25
+278852	3	25	No Variant	2020-08-23 — 23:03:38 UTC	methmatics, mlshea, my_new_fakeNAME	250	5	25
+278832	3	0	No Variant	2020-08-23 — 22:32:08 UTC	methmatics, mlshea, my_new_fakeNAME	259	5	25
+278813	3	0	No Variant	2020-08-23 — 22:01:22 UTC	methmatics, mlshea, my_new_fakeNAME	269	5	25
+278286	4	25	Reversed (5 Suits)	2020-08-23 — 07:50:00 UTC	annoyingpi, dwu3, methmatics, room456	17	5	25
+278278	4	28	White (6 Suits)	2020-08-23 — 07:19:30 UTC	annoyingpi, IsabeltheCat, methmatics, room456	60	6	30
+278273	4	0	White (6 Suits)	2020-08-23 — 06:54:27 UTC	annoyingpi, IsabeltheCat, methmatics, room456	75	6	30
+278264	6	0	White (6 Suits)	2020-08-23 — 06:40:17 UTC	annoyingpi, dwu3, IsabeltheCat, JYOKOTA, methmatics, room456	4	6	30
+278262	6	0	White (6 Suits)	2020-08-23 — 06:38:43 UTC	annoyingpi, dwu3, IsabeltheCat, JYOKOTA, methmatics, room456	5	6	30
+278256	6	0	White (6 Suits)	2020-08-23 — 06:30:31 UTC	annoyingpi, dwu3, IsabeltheCat, JYOKOTA, methmatics, room456	6	6	30
+278255	6	0	White (6 Suits)	2020-08-23 — 06:29:37 UTC	annoyingpi, dwu3, IsabeltheCat, JYOKOTA, methmatics, room456	9	6	30
+278254	6	0	White (6 Suits)	2020-08-23 — 06:29:17 UTC	annoyingpi, dwu3, IsabeltheCat, JYOKOTA, methmatics, room456	12	6	30
+278253	5	13	Rainbow (3 Suits)	2020-08-23 — 06:26:04 UTC	annoyingpi, dwu3, IsabeltheCat, JYOKOTA, methmatics	6	3	15
+278235	5	0	Rainbow (3 Suits)	2020-08-23 — 06:07:37 UTC	annoyingpi, dwu3, IsabeltheCat, JYOKOTA, methmatics	7	3	15
+278228	5	0	Rainbow (3 Suits)	2020-08-23 — 06:00:29 UTC	annoyingpi, dwu3, IsabeltheCat, JYOKOTA, methmatics	8	3	15
+278218	6	0	Rainbow (3 Suits)	2020-08-23 — 05:52:07 UTC	annoyingpi, dwu3, IsabeltheCat, JYOKOTA, methmatics, room456	3	3	15
+278215	6	13	Rainbow (3 Suits)	2020-08-23 — 05:49:46 UTC	annoyingpi, dwu3, IsabeltheCat, JYOKOTA, methmatics, room456	3	3	15
+278197	6	0	Rainbow (3 Suits)	2020-08-23 — 05:32:28 UTC	annoyingpi, dwu3, IsabeltheCat, JYOKOTA, methmatics, room456	5	3	15
+278170	6	0	Dual-Color (6 Suits)	2020-08-23 — 05:11:32 UTC	annoyingpi, dwu3, IsabeltheCat, JYOKOTA, methmatics, room456	1	6	30
+278144	5	0	Dual-Color (6 Suits)	2020-08-23 — 04:52:29 UTC	dwu3, IsabeltheCat, JYOKOTA, methmatics, room456	6	6	30
+278134	5	0	Dual-Color (6 Suits)	2020-08-23 — 04:46:49 UTC	dwu3, IsabeltheCat, JYOKOTA, methmatics, room456	11	6	30
+278122	6	0	Dual-Color (6 Suits)	2020-08-23 — 04:38:59 UTC	dwu3, IsabeltheCat, jamesleng100, JYOKOTA, methmatics, room456	1	6	30
+278115	6	0	Dual-Color (6 Suits)	2020-08-23 — 04:32:36 UTC	dwu3, IsabeltheCat, jamesleng100, JYOKOTA, methmatics, room456	1	6	30
+278106	6	0	Dual-Color (6 Suits)	2020-08-23 — 04:27:07 UTC	dwu3, IsabeltheCat, jamesleng100, JYOKOTA, methmatics, room456	2	6	30
+278092	6	0	Dual-Color (6 Suits)	2020-08-23 — 04:14:19 UTC	dwu3, IsabeltheCat, jamesleng100, JYOKOTA, methmatics, room456	5	6	30
+274140	4	0	No Variant	2020-08-18 — 07:22:41 UTC	methmatics, shreyakannan, snehasridhar, sohum	17	5	25
+274136	4	0	No Variant	2020-08-18 — 07:13:30 UTC	methmatics, shreyakannan, snehasridhar, sohum	16	5	25
+274131	4	0	No Variant	2020-08-18 — 06:58:55 UTC	methmatics, shreyakannan, snehasridhar, sohum	16	5	25
+273160	3	0	White (6 Suits)	2020-08-17 — 03:55:18 UTC	methmatics, reyna, Wigglepus	124	6	30
+272947	5	0	White (6 Suits)	2020-08-17 — 00:37:26 UTC	dwu3, IsabeltheCat, JYOKOTA, methmatics, room456	17	6	30
+272921	5	0	White (6 Suits)	2020-08-17 — 00:11:51 UTC	dwu3, IsabeltheCat, JYOKOTA, methmatics, room456	27	6	30
+272900	5	30	White (6 Suits)	2020-08-16 — 23:54:19 UTC	dwu3, IsabeltheCat, JYOKOTA, methmatics, room456	37	6	30
+272868	3	24	Brown-Fives & Dark Pink (5 Suits)	2020-08-16 — 23:24:23 UTC	JYOKOTA, methmatics, room456	2	5	25
+272856	3	24	Brown-Fives & Dark Pink (5 Suits)	2020-08-16 — 23:10:13 UTC	JYOKOTA, methmatics, room456	2	5	25
+272455	3	0	No Variant	2020-08-16 — 09:42:03 UTC	cute_girl, methmatics, room456	275	5	25
+272454	3	0	No Variant	2020-08-16 — 09:28:32 UTC	cute_girl, methmatics, room456	285	5	25
+272450	3	0	No Variant	2020-08-16 — 09:18:12 UTC	cute_girl, methmatics, room456	307	5	25
+272447	3	0	Rainbow (6 Suits)	2020-08-16 — 09:04:57 UTC	cute_girl, methmatics, room456	508	6	30
+271452	5	30	6 Suits	2020-08-15 — 06:06:59 UTC	dwu3, IsabeltheCat, JYOKOTA, methmatics, room456	9	6	30
+271416	5	0	6 Suits	2020-08-15 — 05:39:40 UTC	dwu3, IsabeltheCat, JYOKOTA, methmatics, room456	8	6	30
+271386	5	0	6 Suits	2020-08-15 — 05:19:00 UTC	dwu3, jamesleng100, JYOKOTA, methmatics, room456	9	6	30
+271370	5	0	6 Suits	2020-08-15 — 05:02:52 UTC	dwu3, jamesleng100, JYOKOTA, methmatics, room456	9	6	30
+271359	4	0	6 Suits	2020-08-15 — 04:54:26 UTC	dwu3, jamesleng100, JYOKOTA, methmatics	100	6	30
+270704	2	0	Clue Starved (6 Suits)	2020-08-14 — 11:59:06 UTC	methmatics, reuzed	33	6	30
+270695	2	0	Null (3 Suits)	2020-08-14 — 11:32:10 UTC	methmatics, reuzed	26	3	15
+270692	2	0	Null (3 Suits)	2020-08-14 — 11:20:31 UTC	methmatics, reuzed	37	3	15
+270690	2	15	Null (3 Suits)	2020-08-14 — 11:08:57 UTC	methmatics, reuzed	56	3	15
+269664	3	0	Black (6 Suits)	2020-08-13 — 08:52:42 UTC	Draconica_, methmatics, xxchipxx	193	6	30
+269661	3	0	Black (6 Suits)	2020-08-13 — 08:25:17 UTC	Draconica_, methmatics, xxchipxx	236	6	30
+269660	3	26	Black (6 Suits)	2020-08-13 — 08:14:58 UTC	Draconica_, methmatics, xxchipxx	261	6	30
+269653	3	0	Light-Pink-Fives & Dark Rainbow (6 Suits)	2020-08-13 — 07:40:50 UTC	Draconica_, methmatics, xxchipxx	1	6	30
+269650	3	0	Light-Pink-Fives & Dark Rainbow (6 Suits)	2020-08-13 — 07:27:37 UTC	Draconica_, methmatics, xxchipxx	1	6	30
+267802	2	28	Black (6 Suits)	2020-08-11 — 03:51:59 UTC	iloveappi, methmatics	239	6	30
+267794	2	0	Black (6 Suits)	2020-08-11 — 03:42:10 UTC	iloveappi, methmatics	275	6	30
+267789	2	25	Black (6 Suits)	2020-08-11 — 03:37:09 UTC	iloveappi, methmatics	546	6	30
+267785	2	0	Black (6 Suits)	2020-08-11 — 03:23:27 UTC	iloveappi, methmatics	643	6	30
+267773	3	21	Black (5 Suits)	2020-08-11 — 03:06:55 UTC	iloveappi, methmatics, shh	68	5	25
+267749	3	18	Black (5 Suits)	2020-08-11 — 02:36:25 UTC	iloveappi, methmatics, shh	71	5	25
+267140	2	24	No Variant	2020-08-10 — 11:38:47 UTC	methmatics, rachyrules	597	5	25
+267112	2	0	No Variant	2020-08-10 — 11:14:08 UTC	methmatics, rachyrules	626	5	25
+267059	3	25	White (5 Suits)	2020-08-10 — 09:43:16 UTC	MarkusKahlsen, methmatics, Wittvector	126	5	25
+266123	3	0	No Variant	2020-08-09 — 07:13:47 UTC	dwu3, methmatics, room456	320	5	25
+266119	3	0	No Variant	2020-08-09 — 07:06:06 UTC	dwu3, methmatics, room456	344	5	25
+266105	3	0	No Variant	2020-08-09 — 06:52:53 UTC	dwu3, methmatics, room456	375	5	25
+266103	3	0	No Variant	2020-08-09 — 06:47:35 UTC	dwu3, methmatics, room456	386	5	25
+266096	3	0	No Variant	2020-08-09 — 06:34:40 UTC	dwu3, methmatics, room456	485	5	25
+266092	3	0	No Variant	2020-08-09 — 06:24:24 UTC	dwu3, methmatics, room456	516	5	25
+266075	4	0	No Variant	2020-08-09 — 06:14:09 UTC	dwu3, jamesleng100, methmatics, room456	103	5	25
+266056	4	0	No Variant	2020-08-09 — 05:58:19 UTC	dwu3, jamesleng100, methmatics, room456	116	5	25
+266037	4	0	6 Suits	2020-08-09 — 05:37:56 UTC	dwu3, jamesleng100, methmatics, spbsuitmo	24	6	30
+266018	4	0	6 Suits	2020-08-09 — 05:20:48 UTC	dwu3, jamesleng100, methmatics, spbsuitmo	24	6	30
+265998	4	0	Black (6 Suits)	2020-08-09 — 05:03:02 UTC	jamesleng100, kristylee, methmatics, spbsuitmo	112	6	30
+265984	4	0	Black (6 Suits)	2020-08-09 — 04:53:17 UTC	jamesleng100, kristylee, methmatics, spbsuitmo	121	6	30
+265968	4	0	Black (6 Suits)	2020-08-09 — 04:39:21 UTC	jamesleng100, kristylee, methmatics, spbsuitmo	128	6	30
+265899	4	29	Rainbow (6 Suits)	2020-08-09 — 03:50:49 UTC	jamesleng100, kristylee, methmatics, spbsuitmo	200	6	30
+265861	3	0	Rainbow (6 Suits)	2020-08-09 — 03:14:40 UTC	jamesleng100, methmatics, spbsuitmo	689	6	30
+265853	2	30	Rainbow (6 Suits)	2020-08-09 — 03:03:05 UTC	kristylee, methmatics	212	6	30
+265840	2	24	No Variant	2020-08-09 — 02:45:31 UTC	kristylee, methmatics	654	5	25
+264169	2	15	Rainbow (3 Suits)	2020-08-07 — 11:42:41 UTC	methmatics, reuzed	127	3	15
+264162	2	25	Pink (5 Suits)	2020-08-07 — 11:15:06 UTC	methmatics, reuzed	200	5	25
+264159	2	0	Pink (6 Suits)	2020-08-07 — 10:44:20 UTC	methmatics, reuzed	219	6	30
+264154	4	24	No Variant	2020-08-07 — 10:18:45 UTC	Fey, methmatics, ramya09, swineherd	97	5	25
+264150	4	0	No Variant	2020-08-07 — 09:41:05 UTC	Fey, methmatics, rachyrules, ramya09	129	5	25
+260396	4	21	Black (5 Suits)	2020-08-03 — 08:40:36 UTC	iloveappi, methmatics, shh, trickedya	79	5	25
+260386	4	20	Black (5 Suits)	2020-08-03 — 08:09:14 UTC	iloveappi, methmatics, shh, trickedya	98	5	25
+260360	5	23	No Variant	2020-08-03 — 07:16:36 UTC	iloveappi, methmatics, shh, trickedya, xxchipxx	126	5	25
+259585	4	22	No Variant	2020-08-03 — 02:54:34 UTC	Animex52, barnheartowl, IsabeltheCat, methmatics	103	5	25
+259505	4	25	No Variant	2020-08-03 — 02:06:51 UTC	Animex52, barnheartowl, IsabeltheCat, methmatics	111	5	25
+259435	4	22	No Variant	2020-08-03 — 01:22:26 UTC	Animex52, barnheartowl, IsabeltheCat, methmatics	117	5	25
+258914	4	30	6 Suits	2020-08-02 — 08:14:23 UTC	dwu3, IsabeltheCat, JYOKOTA, methmatics	120	6	30
+258899	4	0	6 Suits	2020-08-02 — 07:37:06 UTC	dwu3, IsabeltheCat, JYOKOTA, methmatics	151	6	30
+258894	4	0	6 Suits	2020-08-02 — 07:17:26 UTC	dwu3, IsabeltheCat, JYOKOTA, methmatics	191	6	30
+258889	5	0	6 Suits	2020-08-02 — 07:06:39 UTC	annoyingpi, dwu3, IsabeltheCat, JYOKOTA, methmatics	10	6	30
+258884	5	0	6 Suits	2020-08-02 — 06:54:46 UTC	dwu3, IsabeltheCat, JYOKOTA, methmatics, room456	9	6	30
+258883	5	0	6 Suits	2020-08-02 — 06:53:26 UTC	dwu3, IsabeltheCat, JYOKOTA, methmatics, room456	11	6	30
+258882	5	0	6 Suits	2020-08-02 — 06:52:35 UTC	dwu3, IsabeltheCat, JYOKOTA, methmatics, room456	10	6	30
+258880	5	0	6 Suits	2020-08-02 — 06:49:22 UTC	dwu3, IsabeltheCat, JYOKOTA, methmatics, room456	10	6	30
+258877	5	0	Black (6 Suits)	2020-08-02 — 06:41:23 UTC	dwu3, IsabeltheCat, JYOKOTA, methmatics, room456	72	6	30
+258720	4	0	No Variant	2020-08-02 — 04:13:49 UTC	methmatics, shilpishah, shreyakannan, sohum	17	5	25
+258703	4	0	No Variant	2020-08-02 — 04:04:18 UTC	methmatics, shilpishah, shreyakannan, sohum	20	5	25
+258687	4	0	No Variant	2020-08-02 — 03:58:18 UTC	methmatics, shilpishah, shreyakannan, sohum	20	5	25
+258679	4	0	No Variant	2020-08-02 — 03:54:31 UTC	methmatics, shilpishah, shreyakannan, sohum	19	5	25
+258671	4	0	No Variant	2020-08-02 — 03:48:55 UTC	methmatics, shilpishah, shreyakannan, sohum	18	5	25
+258655	4	0	Dual-Color (6 Suits)	2020-08-02 — 03:42:56 UTC	annoyingpi, JYOKOTA, methmatics, room456	15	6	30
+258637	4	0	Dual-Color (6 Suits)	2020-08-02 — 03:26:27 UTC	annoyingpi, JYOKOTA, methmatics, room456	24	6	30
+258609	3	0	Ambiguous (6 Suits)	2020-08-02 — 02:57:23 UTC	JYOKOTA, methmatics, room456	69	6	30
+257900	3	0	Dual-Color (6 Suits)	2020-08-01 — 07:42:04 UTC	antitelharsic, Littleinvad, methmatics	12	6	30
+257830	3	24	No Variant	2020-08-01 — 06:54:20 UTC	antitelharsic, Littleinvad, methmatics	164	5	25
+257771	3	0	No Variant	2020-08-01 — 06:13:16 UTC	antitelharsic, Littleinvad, methmatics	170	5	25
+257730	3	24	No Variant	2020-08-01 — 05:39:54 UTC	antitelharsic, Littleinvad, methmatics	175	5	25
+257691	2	21	No Variant	2020-08-01 — 04:58:47 UTC	IsabeltheCat, methmatics	677	5	25
+257679	2	23	No Variant	2020-08-01 — 04:50:20 UTC	IsabeltheCat, methmatics	699	5	25
+257652	2	25	No Variant	2020-08-01 — 04:25:44 UTC	IsabeltheCat, methmatics	719	5	25
+257634	4	21	No Variant	2020-08-01 — 04:01:28 UTC	belly, IsabeltheCat, methmatics, nukelauncher	130	5	25
+257116	2	25	No Variant	2020-07-31 — 13:39:26 UTC	methmatics, reuzed	770	5	25
+257107	2	24	No Variant	2020-07-31 — 13:15:20 UTC	methmatics, reuzed	794	5	25
+256180	4	25	No Variant	2020-07-30 — 08:45:58 UTC	8223monocles, crazycoder64, IsabeltheCat, methmatics	655	5	25
+256166	4	0	No Variant	2020-07-30 — 08:23:59 UTC	8223monocles, crazycoder64, IsabeltheCat, methmatics	793	5	25
+256140	5	0	No Variant	2020-07-30 — 07:36:43 UTC	8223monocles, cgw, crazycoder64, IsabeltheCat, methmatics	135	5	25
+255275	3	24	No Variant	2020-07-29 — 13:32:21 UTC	Animex52, methmatics, reuzed	324	5	25
+255272	3	23	No Variant	2020-07-29 — 12:52:19 UTC	Animex52, methmatics, reuzed	354	5	25
+255237	4	0	Black & Rainbow (6 Suits)	2020-07-29 — 09:07:36 UTC	cdmcfarland, methmatics, MrPenutbutter, west_world	46	6	30
+255235	3	24	No Variant	2020-07-29 — 08:45:00 UTC	antitelharsic, Bonja97, methmatics	178	5	25
+255231	4	0	No Variant	2020-07-29 — 08:08:27 UTC	antitelharsic, Bonja97, methmatics, robense	125	5	25
+255220	3	26	Black (6 Suits)	2020-07-29 — 07:14:08 UTC	IsabeltheCat, JerryYang, methmatics	213	6	30
+254196	2	0	No Variant	2020-07-28 — 08:28:14 UTC	EKMGaem, methmatics	818	5	25
+254186	2	25	No Variant	2020-07-28 — 07:53:45 UTC	methmatics, nimarezaeian	854	5	25
+254182	2	0	No Variant	2020-07-28 — 07:39:57 UTC	methmatics, nimarezaeian	883	5	25
+254178	2	0	No Variant	2020-07-28 — 07:29:51 UTC	methmatics, nimarezaeian	976	5	25
+254175	2	0	No Variant	2020-07-28 — 07:24:37 UTC	methmatics, nimarezaeian	1031	5	25
+252422	4	20	4 Suits	2020-07-27 — 01:30:38 UTC	IsabeltheCat, methmatics, Morganlgd, reuzed	77	4	20
+252410	4	19	4 Suits	2020-07-27 — 01:10:48 UTC	IsabeltheCat, methmatics, Morganlgd, reuzed	101	4	20
+252395	3	25	No Variant	2020-07-27 — 00:49:49 UTC	methmatics, Morganlgd, reuzed	411	5	25
+252378	3	25	No Variant	2020-07-27 — 00:26:06 UTC	methmatics, Morganlgd, reuzed	422	5	25
+252356	3	0	No Variant	2020-07-27 — 00:04:09 UTC	methmatics, Morganlgd, reuzed	451	5	25
+252323	3	30	Dual-Color (6 Suits)	2020-07-26 — 23:28:57 UTC	methmatics, Morganlgd, Smith	66	6	30
+252297	3	25	No Variant	2020-07-26 — 22:50:34 UTC	methmatics, Morganlgd, Smith	551	5	25
+252273	4	0	No Variant	2020-07-26 — 22:21:00 UTC	imkSushi, methmatics, Morganlgd, Smith	149	5	25
+252260	4	25	No Variant	2020-07-26 — 22:11:25 UTC	imkSushi, methmatics, Morganlgd, Smith	156	5	25
+252207	4	21	No Variant	2020-07-26 — 21:40:05 UTC	imkSushi, methmatics, Morganlgd, Smith	158	5	25
+252165	3	25	No Variant	2020-07-26 — 20:58:50 UTC	imkSushi, methmatics, Morganlgd	459	5	25
+252127	4	25	No Variant	2020-07-26 — 20:34:20 UTC	DiscardiB, emmaparsnip, imkSushi, methmatics	74	5	25
+251738	3	30	6 Suits	2020-07-26 — 10:35:50 UTC	Draconica_, methmatics, xxchipxx	252	6	30
+251736	3	26	6 Suits	2020-07-26 — 10:15:17 UTC	Draconica_, methmatics, xxchipxx	305	6	30
+251734	3	26	6 Suits	2020-07-26 — 10:05:04 UTC	Draconica_, methmatics, xxchipxx	365	6	30
+251731	3	26	Black (6 Suits)	2020-07-26 — 09:42:16 UTC	Draconica_, methmatics, xxchipxx	325	6	30
+251729	3	0	Black (6 Suits)	2020-07-26 — 09:24:56 UTC	Draconica_, methmatics, xxchipxx	399	6	30
+251716	4	0	Dual-Color (6 Suits)	2020-07-26 — 08:39:20 UTC	annoyingpi, dwu3, IsabeltheCat, methmatics	39	6	30
+251702	5	0	Dual-Color (5 Suits)	2020-07-26 — 08:10:11 UTC	annoyingpi, dwu3, IsabeltheCat, JYOKOTA, methmatics	15	5	25
+251684	6	0	No Variant	2020-07-26 — 07:39:25 UTC	aagarwal_601, annoyingpi, dwu3, IsabeltheCat, JYOKOTA, methmatics	19	5	25
+251662	5	30	6 Suits	2020-07-26 — 06:56:25 UTC	aagarwal_601, jamesleng100, JYOKOTA, methmatics, room456	10	6	30
+251647	5	0	6 Suits	2020-07-26 — 06:34:43 UTC	aagarwal_601, jamesleng100, JYOKOTA, methmatics, room456	10	6	30
+251638	5	0	6 Suits	2020-07-26 — 06:26:13 UTC	aagarwal_601, jamesleng100, JYOKOTA, methmatics, room456	11	6	30
+251633	5	0	6 Suits	2020-07-26 — 06:23:00 UTC	aagarwal_601, jamesleng100, JYOKOTA, methmatics, room456	12	6	30
+251612	5	30	6 Suits	2020-07-26 — 06:08:11 UTC	aagarwal_601, jamesleng100, JYOKOTA, methmatics, room456	14	6	30
+251564	5	0	6 Suits	2020-07-26 — 05:27:50 UTC	aagarwal_601, jamesleng100, JYOKOTA, methmatics, room456	16	6	30
+251532	5	0	6 Suits	2020-07-26 — 05:05:27 UTC	aagarwal_601, jamesleng100, JYOKOTA, methmatics, room456	20	6	30
+251516	5	0	6 Suits	2020-07-26 — 04:53:45 UTC	aagarwal_601, jamesleng100, JYOKOTA, methmatics, room456	23	6	30
+251497	5	0	6 Suits	2020-07-26 — 04:41:01 UTC	aagarwal_601, jamesleng100, JYOKOTA, methmatics, room456	31	6	30
+251472	4	0	6 Suits	2020-07-26 — 04:18:16 UTC	aagarwal_601, jamesleng100, JYOKOTA, methmatics	250	6	30
+251465	4	0	6 Suits	2020-07-26 — 04:12:06 UTC	aagarwal_601, jamesleng100, JYOKOTA, methmatics	354	6	30
+251446	6	0	6 Suits	2020-07-26 — 03:58:21 UTC	aagarwal_601, dwu3, IsabeltheCat, jamesleng100, JYOKOTA, methmatics	20	6	30
+251242	3	30	6 Suits	2020-07-26 — 01:19:09 UTC	IsabeltheCat, methmatics, nimarezaeian	503	6	30
+249689	2	28	6 Suits	2020-07-24 — 11:07:31 UTC	methmatics, xxchipxx	444	6	30
+249679	2	0	6 Suits	2020-07-24 — 10:54:14 UTC	methmatics, xxchipxx	505	6	30
+249676	2	22	6 Suits	2020-07-24 — 10:39:25 UTC	methmatics, xxchipxx	593	6	30
+249670	2	0	6 Suits	2020-07-24 — 10:23:21 UTC	methmatics, xxchipxx	666	6	30
+248514	2	30	Rainbow (6 Suits)	2020-07-23 — 04:58:06 UTC	IsabeltheCat, methmatics	269	6	30
+248488	2	0	Rainbow (6 Suits)	2020-07-23 — 04:37:39 UTC	IsabeltheCat, methmatics	288	6	30
+248478	2	25	Rainbow (6 Suits)	2020-07-23 — 04:28:33 UTC	IsabeltheCat, methmatics	306	6	30
+248446	2	27	Rainbow (6 Suits)	2020-07-23 — 04:00:36 UTC	IsabeltheCat, methmatics	327	6	30
+248418	2	0	Rainbow (6 Suits)	2020-07-23 — 03:34:30 UTC	IsabeltheCat, methmatics	349	6	30
+248400	2	28	Rainbow (6 Suits)	2020-07-23 — 03:19:28 UTC	IsabeltheCat, methmatics	395	6	30
+248387	2	0	Rainbow (6 Suits)	2020-07-23 — 03:04:10 UTC	IsabeltheCat, methmatics	441	6	30
+248375	2	0	Rainbow (6 Suits)	2020-07-23 — 02:54:25 UTC	IsabeltheCat, methmatics	500	6	30
+248374	2	28	Rainbow (6 Suits)	2020-07-23 — 02:53:52 UTC	IsabeltheCat, methmatics	593	6	30
+248347	2	0	No Variant	2020-07-23 — 02:31:28 UTC	IsabeltheCat, methmatics	1078	5	25
+248344	2	22	No Variant	2020-07-23 — 02:26:32 UTC	IsabeltheCat, methmatics	1299	5	25
+246969	2	25	No Variant	2020-07-21 — 17:51:50 UTC	DrJones, methmatics	182	5	25
+246968	2	0	No Variant	2020-07-21 — 17:45:30 UTC	DrJones, methmatics	186	5	25
+246966	2	0	No Variant	2020-07-21 — 17:43:37 UTC	DrJones, methmatics	187	5	25
+246965	2	0	No Variant	2020-07-21 — 17:40:58 UTC	DrJones, methmatics	191	5	25
+246963	2	0	No Variant	2020-07-21 — 17:38:42 UTC	DrJones, methmatics	196	5	25
+246315	3	0	Cow & Pig (6 Suits)	2020-07-21 — 01:24:12 UTC	methmatics, Morganlgd, reuzed	8	6	30
+246296	3	0	Cow & Pig (6 Suits)	2020-07-21 — 01:06:02 UTC	methmatics, Morganlgd, reuzed	13	6	30
+246286	5	26	Dual-Color (6 Suits)	2020-07-21 — 00:54:27 UTC	imkSushi, methmatics, Morganlgd, reuzed, Smith	18	6	30
+246253	5	12	Null-Ones & Null (3 Suits)	2020-07-21 — 00:17:45 UTC	imkSushi, methmatics, Morganlgd, reuzed, Smith	2	3	15
+246243	5	0	Rainbow (6 Suits)	2020-07-20 — 23:58:06 UTC	imkSushi, methmatics, Morganlgd, reuzed, Smith	83	6	30
+246236	5	23	No Variant	2020-07-20 — 23:46:17 UTC	imkSushi, methmatics, Morganlgd, reuzed, Smith	143	5	25
+246223	5	0	No Variant	2020-07-20 — 23:22:07 UTC	imkSushi, methmatics, Morganlgd, reuzed, Smith	163	5	25
+245834	3	22	No Variant	2020-07-20 — 10:27:11 UTC	antitelharsic, methmatics, xxchipxx	194	5	25
+245828	4	0	No Variant	2020-07-20 — 10:02:04 UTC	antitelharsic, methmatics, Pablo-, xxchipxx	131	5	25
+245827	4	25	No Variant	2020-07-20 — 10:01:13 UTC	antitelharsic, methmatics, Pablo-, xxchipxx	138	5	25
+245824	4	0	No Variant	2020-07-20 — 09:41:31 UTC	antitelharsic, methmatics, Pablo-, xxchipxx	162	5	25
+245822	2	0	No Variant	2020-07-20 — 09:29:40 UTC	methmatics, xxchipxx	741	5	25
+245821	2	0	No Variant	2020-07-20 — 09:27:56 UTC	methmatics, xxchipxx	921	5	25
+245820	2	0	No Variant	2020-07-20 — 09:22:52 UTC	methmatics, xxchipxx	948	5	25
+245819	2	0	No Variant	2020-07-20 — 09:21:50 UTC	methmatics, xxchipxx	1117	5	25
+245818	2	0	No Variant	2020-07-20 — 09:13:01 UTC	methmatics, xxchipxx	1148	5	25
+245817	2	0	No Variant	2020-07-20 — 09:08:51 UTC	methmatics, xxchipxx	1206	5	25
+245815	2	0	No Variant	2020-07-20 — 08:59:20 UTC	methmatics, xxchipxx	1249	5	25
+245810	2	20	No Variant	2020-07-20 — 08:33:31 UTC	methmatics, xxchipxx	1448	5	25
+245804	2	25	No Variant	2020-07-20 — 08:15:04 UTC	methmatics, xxchipxx	1532	5	25
+244933	3	0	No Variant	2020-07-19 — 12:25:04 UTC	erialC, methmatics, Pablo-	573	5	25
+244923	3	24	No Variant	2020-07-19 — 11:46:55 UTC	erialC, methmatics, Pablo-	624	5	25
+244917	2	23	No Variant	2020-07-19 — 11:10:59 UTC	methmatics, Pablo-	1621	5	25
+244915	2	0	No Variant	2020-07-19 — 10:53:51 UTC	methmatics, Pablo-	1703	5	25
+244846	5	0	No Variant	2020-07-19 — 06:31:11 UTC	annoyingpi, jamesleng, JYOKOTA, methmatics, spbsuitmo	207	5	25
+244833	5	25	No Variant	2020-07-19 — 06:10:23 UTC	Dwu123, jamesleng, JYOKOTA, methmatics, spbsuitmo	223	5	25
+244788	5	0	No Variant	2020-07-19 — 05:42:09 UTC	Dwu123, jamesleng, JYOKOTA, methmatics, spbsuitmo	262	5	25
+244752	4	0	No Variant	2020-07-19 — 05:17:12 UTC	Dwu123, jamesleng, methmatics, spbsuitmo	233	5	25
+244689	5	0	No Variant	2020-07-19 — 04:41:43 UTC	Dwu123, IsabeltheCat, jamesleng, methmatics, spbsuitmo	296	5	25
+244624	4	0	Rainbow (6 Suits)	2020-07-19 — 03:59:45 UTC	Dwu123, IsabeltheCat, jamesleng, methmatics	344	6	30
+244611	4	0	Rainbow (6 Suits)	2020-07-19 — 03:45:37 UTC	Dwu123, IsabeltheCat, jamesleng, methmatics	493	6	30
+244563	5	0	Ambiguous (6 Suits)	2020-07-19 — 03:08:05 UTC	Dwu123, IsabeltheCat, jamesleng, methmatics, room456	18	6	30
+244326	5	30	6 Suits	2020-07-19 — 00:08:32 UTC	imkSushi, methmatics, Morganlgd, reuzed, st1ngr3y	40	6	30
+244286	5	30	6 Suits	2020-07-18 — 23:35:21 UTC	imkSushi, methmatics, Morganlgd, reuzed, st1ngr3y	45	6	30
+244264	4	0	Null-Fives (5 Suits)	2020-07-18 — 23:07:17 UTC	imkSushi, methmatics, reuzed, st1ngr3y	3	5	25
+244259	3	23	No Variant	2020-07-18 — 23:03:10 UTC	imkSushi, methmatics, reuzed	645	5	25
+242535	5	0	Ambiguous (6 Suits)	2020-07-17 — 07:36:05 UTC	annoyingpi, Dwu123, methmatics, room456, spbsuitmo	19	6	30
+242495	4	0	Ambiguous (6 Suits)	2020-07-17 — 06:38:12 UTC	annoyingpi, Dwu123, JYOKOTA, methmatics	32	6	30
+242484	4	0	Ambiguous (6 Suits)	2020-07-17 — 06:13:27 UTC	annoyingpi, Dwu123, JYOKOTA, methmatics	40	6	30
+242482	4	0	Ambiguous (4 Suits)	2020-07-17 — 06:08:17 UTC	annoyingpi, Dwu123, methmatics, room456	1	4	20
+242479	4	0	Ambiguous (4 Suits)	2020-07-17 — 06:07:35 UTC	annoyingpi, Dwu123, methmatics, room456	1	4	20
+242463	4	0	Ambiguous (4 Suits)	2020-07-17 — 05:49:08 UTC	annoyingpi, Dwu123, methmatics, room456	1	4	20
+242436	4	0	Ambiguous (4 Suits)	2020-07-17 — 05:24:03 UTC	annoyingpi, Dwu123, methmatics, room456	2	4	20
+242427	4	0	Ambiguous (4 Suits)	2020-07-17 — 05:10:31 UTC	annoyingpi, Dwu123, methmatics, room456	1	4	20
+242341	2	22	No Variant	2020-07-17 — 03:54:54 UTC	methmatics, Morganlgd	1376	5	25
+242322	2	0	Null-Fives & Light Pink (6 Suits)	2020-07-17 — 03:37:23 UTC	methmatics, Morganlgd	1	6	30
+242297	2	0	Null-Fives & Light Pink (6 Suits)	2020-07-17 — 03:04:42 UTC	methmatics, Morganlgd	2	6	30
+242279	2	22	Brown & Gray (6 Suits)	2020-07-17 — 02:51:39 UTC	methmatics, Morganlgd	9	6	30
+242255	2	27	Dual-Color (6 Suits)	2020-07-17 — 02:30:51 UTC	methmatics, Morganlgd	71	6	30
+242231	2	0	Dual-Color (6 Suits)	2020-07-17 — 02:11:20 UTC	methmatics, Morganlgd	87	6	30
+242206	2	24	Dual-Color (5 Suits)	2020-07-17 — 01:58:26 UTC	methmatics, Morganlgd	63	5	25
+242190	2	0	Dual-Color (5 Suits)	2020-07-17 — 01:43:54 UTC	methmatics, Morganlgd	74	5	25
+242189	2	19	Dual-Color (5 Suits)	2020-07-17 — 01:43:07 UTC	methmatics, Morganlgd	85	5	25
+242171	2	30	Rainbow (6 Suits)	2020-07-17 — 01:22:44 UTC	methmatics, Morganlgd	717	6	30
+242156	2	0	Rainbow (6 Suits)	2020-07-17 — 01:07:39 UTC	methmatics, Morganlgd	971	6	30
+242115	6	24	No Variant	2020-07-17 — 00:37:05 UTC	imkSushi, methmatics, Morganlgd, reuzed, Smith, st1ngr3y	23	5	25
+242078	6	24	No Variant	2020-07-17 — 00:09:18 UTC	imkSushi, methmatics, Morganlgd, reuzed, Smith, st1ngr3y	32	5	25
+242043	6	0	No Variant	2020-07-16 — 23:45:46 UTC	imkSushi, methmatics, Morganlgd, reuzed, Smith, st1ngr3y	36	5	25
+239723	5	24	No Variant	2020-07-15 — 00:45:39 UTC	imkSushi, methmatics, Morganlgd, reuzed, st1ngr3y	344	5	25
+239655	5	22	No Variant	2020-07-15 — 00:21:24 UTC	imkSushi, methmatics, Morganlgd, reuzed, st1ngr3y	383	5	25
+239600	5	0	No Variant	2020-07-15 — 00:01:40 UTC	imkSushi, methmatics, Morganlgd, reuzed, st1ngr3y	457	5	25
+239539	5	23	No Variant	2020-07-14 — 23:37:23 UTC	imkSushi, methmatics, Morganlgd, reuzed, st1ngr3y	541	5	25
+239486	5	23	No Variant	2020-07-14 — 23:09:26 UTC	imkSushi, methmatics, Morganlgd, reuzed, st1ngr3y	837	5	25
+239428	5	21	No Variant	2020-07-14 — 22:43:51 UTC	imkSushi, methmatics, Morganlgd, reuzed, st1ngr3y	1510	5	25
+238202	2	28	Rainbow (6 Suits)	2020-07-13 — 09:23:09 UTC	antitelharsic, methmatics	49	6	30
+238200	2	25	No Variant	2020-07-13 — 09:02:29 UTC	antitelharsic, methmatics	506	5	25
+238199	2	21	No Variant	2020-07-13 — 08:53:04 UTC	antitelharsic, methmatics	513	5	25
+238198	2	23	No Variant	2020-07-13 — 08:44:29 UTC	antitelharsic, methmatics	526	5	25
+238196	2	0	No Variant	2020-07-13 — 08:28:46 UTC	antitelharsic, methmatics	534	5	25
+238187	2	23	No Variant	2020-07-13 — 08:13:54 UTC	antitelharsic, methmatics	549	5	25
+238178	3	20	No Variant	2020-07-13 — 07:45:55 UTC	Draconica_, methmatics, xxchipxx	680	5	25
+238175	3	25	No Variant	2020-07-13 — 07:29:29 UTC	Draconica_, methmatics, xxchipxx	750	5	25
+238174	3	0	No Variant	2020-07-13 — 07:16:25 UTC	Draconica_, methmatics, xxchipxx	801	5	25
+238172	3	22	No Variant	2020-07-13 — 06:59:34 UTC	Draconica_, methmatics, xxchipxx	840	5	25
+238161	3	23	No Variant	2020-07-13 — 06:39:07 UTC	Draconica_, methmatics, xxchipxx	1017	5	25
+237763	3	19	No Variant	2020-07-12 — 23:58:18 UTC	imu_96, methmatics, Pandaryn	1095	5	25
+237701	5	23	No Variant	2020-07-12 — 22:15:50 UTC	acorso, emmafifi, methmatics, sbane, st3v	658	5	25
+237277	5	0	Rainbow (6 Suits)	2020-07-12 — 06:42:10 UTC	annoyingpi, Dwu123, JYOKOTA, methmatics, room456	101	6	30
+237265	5	27	Rainbow (6 Suits)	2020-07-12 — 06:28:56 UTC	annoyingpi, Dwu123, JYOKOTA, methmatics, room456	133	6	30
+237238	5	0	Rainbow (6 Suits)	2020-07-12 — 05:48:13 UTC	annoyingpi, Dwu123, JYOKOTA, methmatics, room456	209	6	30
+237229	5	0	Ambiguous (4 Suits)	2020-07-12 — 05:42:36 UTC	annoyingpi, Dwu123, JYOKOTA, methmatics, room456	8	4	20
+237226	4	0	Ambiguous (4 Suits)	2020-07-12 — 05:41:15 UTC	Dwu123, JYOKOTA, methmatics, room456	3	4	20
+237217	4	19	Ambiguous (4 Suits)	2020-07-12 — 05:29:21 UTC	Dwu123, JYOKOTA, methmatics, room456	4	4	20
+237200	4	18	Ambiguous (4 Suits)	2020-07-12 — 05:13:42 UTC	Dwu123, JYOKOTA, methmatics, room456	20	4	20
+237160	5	30	6 Suits	2020-07-12 — 04:50:29 UTC	Dwu123, jamesleng, JYOKOTA, methmatics, room456	54	6	30
+237115	5	0	6 Suits	2020-07-12 — 04:25:28 UTC	Dwu123, jamesleng, JYOKOTA, methmatics, room456	69	6	30
+237078	5	27	6 Suits	2020-07-12 — 03:53:35 UTC	Dwu123, jamesleng, JYOKOTA, methmatics, room456	96	6	30
+237037	5	0	6 Suits	2020-07-12 — 03:27:14 UTC	Dwu123, jamesleng, JYOKOTA, methmatics, room456	132	6	30
+237022	5	0	6 Suits	2020-07-12 — 03:18:04 UTC	Dwu123, jamesleng, JYOKOTA, methmatics, room456	199	6	30
+231147	4	24	No Variant	2020-07-06 — 10:33:46 UTC	antitelharsic, joycheng, methmatics, serene	243	5	25
+231145	6	21	No Variant	2020-07-06 — 09:51:04 UTC	antitelharsic, charitycheng, evatseng, joycheng, methmatics, serene	26	5	25
+230080	4	25	No Variant	2020-07-05 — 08:47:49 UTC	IsabeltheCat, methmatics, room456, spbsuitmo	167	5	25
+230074	4	0	No Variant	2020-07-05 — 08:32:21 UTC	IsabeltheCat, methmatics, room456, spbsuitmo	180	5	25
+230069	4	0	No Variant	2020-07-05 — 08:26:05 UTC	IsabeltheCat, methmatics, room456, spbsuitmo	190	5	25
+230067	4	0	No Variant	2020-07-05 — 08:24:29 UTC	IsabeltheCat, methmatics, room456, spbsuitmo	198	5	25
+230064	4	23	No Variant	2020-07-05 — 08:18:13 UTC	IsabeltheCat, methmatics, room456, spbsuitmo	204	5	25
+230053	4	24	No Variant	2020-07-05 — 07:43:08 UTC	IsabeltheCat, methmatics, room456, spbsuitmo	213	5	25
+230043	3	0	No Variant	2020-07-05 — 07:22:09 UTC	methmatics, room456, spbsuitmo	1174	5	25
+230039	4	0	6 Suits	2020-07-05 — 07:06:15 UTC	kristylee, methmatics, room456, spbsuitmo	25	6	30
+230025	4	29	6 Suits	2020-07-05 — 06:54:45 UTC	kristylee, methmatics, room456, spbsuitmo	25	6	30
+230002	4	0	6 Suits	2020-07-05 — 06:37:33 UTC	kristylee, methmatics, room456, spbsuitmo	25	6	30
+229990	4	0	6 Suits	2020-07-05 — 06:28:37 UTC	kristylee, methmatics, room456, spbsuitmo	26	6	30
+229941	4	0	6 Suits	2020-07-05 — 05:46:39 UTC	kristylee, methmatics, room456, spbsuitmo	28	6	30
+229913	4	0	6 Suits	2020-07-05 — 05:29:20 UTC	kristylee, methmatics, room456, spbsuitmo	27	6	30
+229897	2	25	6 Suits	2020-07-05 — 05:17:35 UTC	kristylee, methmatics	851	6	30
+229061	6	0	6 Suits	2020-07-04 — 08:54:45 UTC	aagarwal_601, annoyingpi, Dwu123, JYOKOTA, methmatics, room456	34	6	30
+229057	6	0	6 Suits	2020-07-04 — 08:40:46 UTC	aagarwal_601, annoyingpi, Dwu123, JYOKOTA, methmatics, room456	50	6	30
+229054	6	0	6 Suits	2020-07-04 — 08:28:52 UTC	aagarwal_601, annoyingpi, Dwu123, JYOKOTA, methmatics, room456	84	6	30
+229042	4	30	6 Suits	2020-07-04 — 08:01:51 UTC	Dwu123, IsabeltheCat, methmatics, spbsuitmo	31	6	30
+229026	4	0	6 Suits	2020-07-04 — 07:28:46 UTC	Dwu123, IsabeltheCat, methmatics, spbsuitmo	32	6	30
+229019	4	0	6 Suits	2020-07-04 — 07:21:01 UTC	Dwu123, IsabeltheCat, methmatics, spbsuitmo	33	6	30
+229013	4	0	6 Suits	2020-07-04 — 07:11:29 UTC	Dwu123, IsabeltheCat, methmatics, spbsuitmo	39	6	30
+229007	4	0	6 Suits	2020-07-04 — 07:01:36 UTC	Dwu123, IsabeltheCat, methmatics, spbsuitmo	47	6	30
+228987	5	0	No Variant	2020-07-04 — 06:33:51 UTC	Dwu123, IsabeltheCat, jamesleng, methmatics, spbsuitmo	1119	5	25
+228942	4	0	No Variant	2020-07-04 — 05:56:43 UTC	IsabeltheCat, jamesleng, methmatics, spbsuitmo	257	5	25
+228908	4	25	No Variant	2020-07-04 — 05:36:23 UTC	IsabeltheCat, jamesleng, methmatics, spbsuitmo	287	5	25
+228871	4	25	No Variant	2020-07-04 — 05:05:26 UTC	IsabeltheCat, jamesleng, methmatics, spbsuitmo	308	5	25
+228842	4	0	No Variant	2020-07-04 — 04:42:22 UTC	IsabeltheCat, jamesleng, methmatics, spbsuitmo	326	5	25
+226659	2	29	Rainbow (6 Suits)	2020-07-02 — 09:48:06 UTC	methmatics, srip	227	6	30
+226656	2	25	No Variant	2020-07-02 — 09:28:20 UTC	methmatics, srip	1840	5	25
+226654	2	0	Rainbow (6 Suits)	2020-07-02 — 09:16:36 UTC	methmatics, srip	243	6	30
+226649	2	0	Rainbow (6 Suits)	2020-07-02 — 08:53:10 UTC	methmatics, srip	254	6	30
+226646	2	0	Black (6 Suits)	2020-07-02 — 08:42:55 UTC	methmatics, srip	255	6	30
+226602	5	19	No Variant	2020-07-02 — 06:41:25 UTC	Abigail, adeli, kalinrooney11, KelsJo, methmatics	1995	5	25
+226591	4	0	No Variant	2020-07-02 — 06:19:01 UTC	adeli, kalinrooney11, KelsJo, methmatics	278	5	25
+224432	6	21	No Variant	2020-06-30 — 16:03:14 UTC	bowtiebirdo, emmaparsnip, Gamma_nife, jb2221, methmatics, UnableTugBoat	25	5	25
+224425	6	0	No Variant	2020-06-30 — 15:44:49 UTC	bowtiebirdo, emmaparsnip, Gamma_nife, jb2221, methmatics, UnableTugBoat	29	5	25
+224418	5	0	No Variant	2020-06-30 — 15:31:39 UTC	bowtiebirdo, emmaparsnip, Gamma_nife, methmatics, UnableTugBoat	51	5	25
+221765	4	25	No Variant	2020-06-28 — 06:10:08 UTC	kristylee, methmatics, room456, spbsuitmo	336	5	25
+221739	4	25	No Variant	2020-06-28 — 05:48:18 UTC	kristylee, methmatics, room456, spbsuitmo	373	5	25
+221716	4	25	No Variant	2020-06-28 — 05:26:13 UTC	kristylee, methmatics, room456, spbsuitmo	384	5	25
+221664	4	24	No Variant	2020-06-28 — 04:44:17 UTC	kristylee, methmatics, room456, spbsuitmo	419	5	25
+221585	4	0	No Variant	2020-06-28 — 03:48:13 UTC	kristylee, methmatics, room456, spbsuitmo	442	5	25
+221567	4	23	No Variant	2020-06-28 — 03:32:56 UTC	kristylee, methmatics, room456, spbsuitmo	473	5	25
+221543	6	0	No Variant	2020-06-28 — 03:07:37 UTC	aagarwal_601, dwu3, jamesleng, kristylee, methmatics, room456	42	5	25
+221541	6	0	No Variant	2020-06-28 — 03:07:11 UTC	aagarwal_601, dwu3, jamesleng, kristylee, methmatics, room456	52	5	25
+214716	2	23	Rainbow (5 Suits)	2020-06-22 — 02:33:02 UTC	kristylee, methmatics	129	5	25
+214696	2	0	Rainbow (5 Suits)	2020-06-22 — 02:15:35 UTC	kristylee, methmatics	154	5	25
+214676	2	25	Rainbow (5 Suits)	2020-06-22 — 01:58:58 UTC	kristylee, methmatics	248	5	25
+214643	2	0	Totally Blind (5 Suits)	2020-06-22 — 01:34:49 UTC	kristylee, methmatics	11	5	25
+214639	2	0	Totally Blind (5 Suits)	2020-06-22 — 01:31:29 UTC	kristylee, methmatics	15	5	25
+214630	2	0	Totally Blind (5 Suits)	2020-06-22 — 01:22:10 UTC	kristylee, methmatics	29	5	25
+214623	2	25	No Variant	2020-06-22 — 01:15:43 UTC	kristylee, methmatics	1952	5	25
+214609	2	25	No Variant	2020-06-22 — 00:58:24 UTC	kristylee, methmatics	2147	5	25
+214593	2	23	No Variant	2020-06-22 — 00:43:15 UTC	kristylee, methmatics	2288	5	25
+214584	2	0	No Variant	2020-06-22 — 00:26:31 UTC	kristylee, methmatics	2532	5	25
+213966	3	0	No Variant	2020-06-21 — 06:53:47 UTC	dwu3, methmatics, room456	1291	5	25
+213957	3	0	No Variant	2020-06-21 — 06:37:51 UTC	dwu3, methmatics, room456	1465	5	25
+213949	3	25	No Variant	2020-06-21 — 06:30:24 UTC	dwu3, methmatics, room456	1636	5	25
+213936	3	25	No Variant	2020-06-21 — 06:10:08 UTC	dwu3, methmatics, room456	1881	5	25
+213922	3	0	No Variant	2020-06-21 — 05:51:57 UTC	dwu3, methmatics, room456	2163	5	25
+213906	4	22	No Variant	2020-06-21 — 05:37:37 UTC	BMTSOCIAL, dwu3, methmatics, room456	501	5	25
+213887	4	0	No Variant	2020-06-21 — 05:20:00 UTC	BMTSOCIAL, dwu3, methmatics, room456	541	5	25
+211566	3	23	No Variant	2020-06-19 — 08:45:09 UTC	cam, methmatics, wikkiden	940	5	25
+209490	4	25	No Variant	2020-06-17 — 08:32:18 UTC	Chethaaan, dwu3, IsabeltheCat, methmatics	899	5	25
+209482	4	23	No Variant	2020-06-17 — 08:01:41 UTC	Chethaaan, dwu3, IsabeltheCat, methmatics	985	5	25
+209464	4	23	No Variant	2020-06-17 — 07:02:59 UTC	cab16021, Chethaaan, methmatics, tumblestick	1092	5	25
+209433	4	0	No Variant	2020-06-17 — 06:11:23 UTC	cab16021, Chethaaan, methmatics, tumblestick	1253	5	25
+209416	3	0	No Variant	2020-06-17 — 05:53:03 UTC	cab16021, methmatics, tumblestick	2606	5	25
+209415	3	0	No Variant	2020-06-17 — 05:52:37 UTC	cab16021, methmatics, tumblestick	3260	5	25
+208566	2	20	No Variant	2020-06-16 — 09:40:13 UTC	methmatics, tumblestick	2750	5	25
+208562	2	0	No Variant	2020-06-16 — 09:04:06 UTC	methmatics, tumblestick	3051	5	25
+208561	2	0	No Variant	2020-06-16 — 08:57:08 UTC	methmatics, tumblestick	3507	5	25
+208557	2	0	No Variant	2020-06-16 — 08:37:19 UTC	methmatics, tumblestick	4109	5	25
+208544	2	0	No Variant	2020-06-16 — 07:53:46 UTC	methmatics, tumblestick	5374	5	25
+208064	5	0	No Variant	2020-06-16 — 00:34:23 UTC	Alex319, melwen, methmatics, newduke, Nitrate2	176	5	25
+208050	5	0	No Variant	2020-06-16 — 00:17:21 UTC	Alex319, melwen, methmatics, newduke, Nitrate2	195	5	25
+207979	3	24	No Variant	2020-06-15 — 23:08:46 UTC	melwen, methmatics, padi	62	5	25
+207942	3	0	No Variant	2020-06-15 — 22:35:10 UTC	melwen, methmatics, padi	66	5	25
+207925	3	24	No Variant	2020-06-15 — 22:15:39 UTC	melwen, methmatics, padi	69	5	25
+206090	4	0	No Variant	2020-06-14 — 05:37:10 UTC	aagarwal_601, BMTSOCIAL, methmatics, room456	717	5	25
+206083	4	25	No Variant	2020-06-14 — 05:31:13 UTC	aagarwal_601, BMTSOCIAL, methmatics, room456	1449	5	25
+206034	4	24	No Variant	2020-06-14 — 05:02:06 UTC	aagarwal_601, BMTSOCIAL, methmatics, room456	1744	5	25
+205991	4	24	No Variant	2020-06-14 — 04:28:04 UTC	aagarwal_601, BMTSOCIAL, methmatics, room456	2076	5	25
+205953	4	0	No Variant	2020-06-14 — 03:57:35 UTC	aagarwal_601, bmt2, BMTSOCIAL, methmatics	2763	5	25
+205934	4	0	No Variant	2020-06-14 — 03:46:51 UTC	aagarwal_601, bmt2, BMTSOCIAL, methmatics	3581	5	25
+205897	3	0	No Variant	2020-06-14 — 03:19:48 UTC	aagarwal_601, BMTSOCIAL, methmatics	4221	5	25
+188971	6	21	No Variant	2020-05-31 — 07:30:01 UTC	annoyingpi, BMTSOCIAL, IsabeltheCat, mathlobster, methmatics, room456	60	5	25
+188934	6	0	No Variant	2020-05-31 — 06:40:29 UTC	annoyingpi, BMTSOCIAL, IsabeltheCat, mathlobster, methmatics, room456	75	5	25
+188909	6	0	No Variant	2020-05-31 — 06:12:52 UTC	annoyingpi, BMTSOCIAL, IsabeltheCat, mathlobster, methmatics, room456	91	5	25
+188848	6	0	No Variant	2020-05-31 — 05:40:44 UTC	annoyingpi, BMTSOCIAL, IsabeltheCat, mathlobster, methmatics, room456	115	5	25
+188807	6	21	No Variant	2020-05-31 — 05:21:46 UTC	annoyingpi, BMTSOCIAL, IsabeltheCat, mathlobster, methmatics, room456	179	5	25

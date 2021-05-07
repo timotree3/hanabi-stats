@@ -1,0 +1,1253 @@
+511757	4	0	Pink-Fives & Prism (6 Suits)	2021-04-25 — 01:00:41 UTC	bob65536, IsabeltheCat, kinkajusrevenge, orucsoraihc	1	6	30
+511746	4	0	Pink-Fives & Prism (6 Suits)	2021-04-25 — 00:38:22 UTC	bob65536, IsabeltheCat, kinkajusrevenge, orucsoraihc	1	6	30
+511583	3	0	Dark Rainbow (5 Suits)	2021-04-24 — 21:29:06 UTC	DarthGandalf, newduke, orucsoraihc	6	5	25
+511570	3	0	Dark Rainbow (5 Suits)	2021-04-24 — 21:11:32 UTC	DarthGandalf, newduke, orucsoraihc	7	5	25
+511556	3	0	Dark Rainbow (5 Suits)	2021-04-24 — 20:58:41 UTC	DarthGandalf, newduke, orucsoraihc	5	5	25
+511551	3	0	Dark Rainbow (5 Suits)	2021-04-24 — 20:54:05 UTC	DarthGandalf, newduke, orucsoraihc	13	5	25
+511541	3	22	Dark Rainbow (5 Suits)	2021-04-24 — 20:45:25 UTC	DarthGandalf, newduke, orucsoraihc	48	5	25
+508562	3	30	Up or Down & Rainbow (6 Suits)	2021-04-21 — 17:38:47 UTC	ChristopheAF, nkkarpov, orucsoraihc	28	6	30
+508458	3	0	Gray Reversed (6 Suits)	2021-04-21 — 12:07:52 UTC	orucsoraihc, sephiroth, Wittvector	4	6	30
+508446	3	0	Gray Reversed (6 Suits)	2021-04-21 — 11:51:32 UTC	orucsoraihc, sephiroth, Wittvector	6	6	30
+504444	3	0	Null (5 Suits)	2021-04-17 — 20:26:10 UTC	Bonja97, orucsoraihc, rs1	12	5	25
+504404	3	0	Null (5 Suits)	2021-04-17 — 19:54:54 UTC	Bonja97, orucsoraihc, rs1	12	5	25
+504387	3	0	Null (5 Suits)	2021-04-17 — 19:31:36 UTC	Bonja97, orucsoraihc, rs1	12	5	25
+504244	3	24	Null (5 Suits)	2021-04-17 — 17:28:48 UTC	Bonja97, orucsoraihc, rs1	15	5	25
+504025	3	0	Black & Brown (5 Suits)	2021-04-17 — 09:12:45 UTC	Fey, Kernel, orucsoraihc	16	5	25
+504023	3	0	Black & Brown (5 Suits)	2021-04-17 — 09:00:54 UTC	Fey, Kernel, orucsoraihc	19	5	25
+504021	3	25	Prism Reversed (5 Suits)	2021-04-17 — 08:44:48 UTC	Fey, Kernel, orucsoraihc	4	5	25
+502729	3	25	Null (5 Suits)	2021-04-16 — 07:51:29 UTC	Bonja97, orucsoraihc, rs1	12	5	25
+502708	3	0	Null (5 Suits)	2021-04-16 — 06:54:22 UTC	Bonja97, orucsoraihc, rs1	16	5	25
+502706	3	25	Null (5 Suits)	2021-04-16 — 06:41:12 UTC	Bonja97, orucsoraihc, rs1	17	5	25
+502682	3	25	No Variant	2021-04-16 — 05:56:17 UTC	Fey, mestrepoke, orucsoraihc	18	5	25
+502668	3	23	No Variant	2021-04-16 — 05:31:27 UTC	Fey, mestrepoke, orucsoraihc	19	5	25
+502659	3	25	No Variant	2021-04-16 — 05:15:08 UTC	Fey, mestrepoke, orucsoraihc	19	5	25
+501744	2	0	Black & Gray (6 Suits)	2021-04-15 — 07:19:51 UTC	orucsoraihc, StKildaFan	1	6	30
+501742	2	0	Black & Gray (6 Suits)	2021-04-15 — 07:15:25 UTC	orucsoraihc, StKildaFan	1	6	30
+501738	2	0	Black & Gray (6 Suits)	2021-04-15 — 07:10:37 UTC	orucsoraihc, StKildaFan	1	6	30
+501736	2	0	Black & Gray (6 Suits)	2021-04-15 — 07:05:29 UTC	orucsoraihc, StKildaFan	1	6	30
+501733	2	0	Black & Gray (6 Suits)	2021-04-15 — 07:03:44 UTC	orucsoraihc, StKildaFan	1	6	30
+501731	2	0	Black & Gray (6 Suits)	2021-04-15 — 07:01:08 UTC	orucsoraihc, StKildaFan	1	6	30
+501730	2	0	Black & Gray (6 Suits)	2021-04-15 — 06:58:18 UTC	orucsoraihc, StKildaFan	1	6	30
+501728	2	0	Black & Gray (6 Suits)	2021-04-15 — 06:55:12 UTC	orucsoraihc, StKildaFan	1	6	30
+501725	2	27	Black & Gray (6 Suits)	2021-04-15 — 06:51:20 UTC	orucsoraihc, StKildaFan	1	6	30
+501722	2	0	Black & Gray (6 Suits)	2021-04-15 — 06:46:21 UTC	orucsoraihc, StKildaFan	1	6	30
+501719	2	0	Black & Gray (6 Suits)	2021-04-15 — 06:44:33 UTC	orucsoraihc, StKildaFan	1	6	30
+501717	2	0	Black & Gray (6 Suits)	2021-04-15 — 06:43:03 UTC	orucsoraihc, StKildaFan	2	6	30
+501716	2	0	Black & Gray (6 Suits)	2021-04-15 — 06:40:46 UTC	orucsoraihc, StKildaFan	2	6	30
+501713	2	0	Black & Gray (6 Suits)	2021-04-15 — 06:36:57 UTC	orucsoraihc, StKildaFan	2	6	30
+501712	2	0	Black & Gray (6 Suits)	2021-04-15 — 06:34:10 UTC	orucsoraihc, StKildaFan	2	6	30
+501711	2	0	Black & Gray (6 Suits)	2021-04-15 — 06:30:49 UTC	orucsoraihc, StKildaFan	2	6	30
+501707	2	0	Black & Gray (6 Suits)	2021-04-15 — 06:27:14 UTC	orucsoraihc, StKildaFan	2	6	30
+501703	2	29	Black & Gray (6 Suits)	2021-04-15 — 06:18:52 UTC	orucsoraihc, StKildaFan	2	6	30
+499456	4	0	Omni (6 Suits)	2021-04-13 — 04:07:01 UTC	IsabeltheCat, kinkajusrevenge, newduke, orucsoraihc	9	6	30
+499387	3	19	Brown (4 Suits)	2021-04-13 — 03:23:03 UTC	kinkajusrevenge, newduke, orucsoraihc	31	4	20
+499358	5	0	Brown & Muddy Rainbow (5 Suits)	2021-04-13 — 03:00:39 UTC	indego, Lanvin, melwen, newduke, orucsoraihc	1	5	25
+499354	5	0	Brown & Muddy Rainbow (5 Suits)	2021-04-13 — 02:58:03 UTC	indego, Lanvin, melwen, newduke, orucsoraihc	2	5	25
+498411	4	28	Dark Rainbow (6 Suits)	2021-04-12 — 13:49:24 UTC	HelanaAshryvr, orucsoraihc, possum, wolfpack	48	6	30
+498403	3	0	Dark Rainbow (6 Suits)	2021-04-12 — 13:20:38 UTC	orucsoraihc, possum, wolfpack	34	6	30
+498393	3	0	Dark Rainbow (6 Suits)	2021-04-12 — 12:55:41 UTC	orucsoraihc, possum, wolfpack	37	6	30
+498390	3	0	Dark Rainbow (6 Suits)	2021-04-12 — 12:47:23 UTC	orucsoraihc, possum, wolfpack	41	6	30
+498371	5	27	Brown & Light Pink (6 Suits)	2021-04-12 — 12:14:43 UTC	Lanvin, Lel0uch, orucsoraihc, squirrel1988, VerySloppyTwo	1	6	30
+498356	5	0	Brown & Light Pink (6 Suits)	2021-04-12 — 11:55:35 UTC	Lanvin, Lel0uch, orucsoraihc, squirrel1988, VerySloppyTwo	3	6	30
+498326	4	0	White & Brown (5 Suits)	2021-04-12 — 10:54:30 UTC	BananaBum, Lanvin, orucsoraihc, Wittvector	6	5	25
+498322	5	0	Light Pink & Prism (6 Suits)	2021-04-12 — 10:38:54 UTC	Lanvin, Lel0uch, melwen, orucsoraihc, sephiroth	1	6	30
+498316	5	0	Light Pink & Prism (6 Suits)	2021-04-12 — 10:12:32 UTC	Lanvin, Lel0uch, melwen, orucsoraihc, sephiroth	1	6	30
+498298	4	30	Dual-Color & Omni (6 Suits)	2021-04-12 — 07:41:25 UTC	asaelr, Lel0uch, orucsoraihc, sin_faith	1	6	30
+498290	4	0	Dual-Color & Omni (6 Suits)	2021-04-12 — 07:20:37 UTC	asaelr, Lel0uch, orucsoraihc, sin_faith	2	6	30
+496282	3	0	Null (5 Suits)	2021-04-10 — 16:52:48 UTC	Bonja97, orucsoraihc, rs1	18	5	25
+496270	3	0	Null (5 Suits)	2021-04-10 — 16:37:53 UTC	Bonja97, orucsoraihc, rs1	18	5	25
+496248	3	24	Null (5 Suits)	2021-04-10 — 16:10:56 UTC	Bonja97, orucsoraihc, rs1	18	5	25
+494725	3	21	Null (5 Suits)	2021-04-09 — 07:57:00 UTC	Bonja97, orucsoraihc, rs1	20	5	25
+494719	3	0	Null (5 Suits)	2021-04-09 — 07:30:47 UTC	Bonja97, orucsoraihc, rs1	21	5	25
+494712	3	23	Null (5 Suits)	2021-04-09 — 07:16:13 UTC	Bonja97, orucsoraihc, rs1	27	5	25
+494430	5	26	Black & Rainbow (6 Suits)	2021-04-09 — 00:58:06 UTC	Aluap, bjnh, BlueNovember, Nitrate, orucsoraihc	20	6	30
+494406	4	0	No Variant	2021-04-09 — 00:24:03 UTC	Aluap, bjnh, orucsoraihc, RHick	156	5	25
+488913	3	0	Omni (6 Suits)	2021-04-03 — 01:35:49 UTC	griff77, orucsoraihc, wump	36	6	30
+488453	3	0	Null (5 Suits)	2021-04-02 — 18:58:16 UTC	Bonja97, orucsoraihc, rs1	32	5	25
+488442	3	25	Null (5 Suits)	2021-04-02 — 18:39:41 UTC	Bonja97, orucsoraihc, rs1	36	5	25
+488426	3	0	Null (5 Suits)	2021-04-02 — 18:16:34 UTC	Bonja97, orucsoraihc, rs1	40	5	25
+488419	3	23	Null (5 Suits)	2021-04-02 — 18:00:09 UTC	Bonja97, orucsoraihc, rs1	54	5	25
+488083	3	0	Throw It in a Hole (4 Suits)	2021-04-02 — 04:40:59 UTC	Fey, orucsoraihc, qqqq	3	4	20
+488075	3	18	Throw It in a Hole (4 Suits)	2021-04-02 — 04:35:28 UTC	Fey, orucsoraihc, qqqq	4	4	20
+487179	5	24	Dark Rainbow (6 Suits)	2021-04-01 — 04:27:44 UTC	bjnh, griff77, IsabeltheCat, orucsoraihc, qqqq	18	6	30
+487142	3	0	Dark Rainbow (6 Suits)	2021-04-01 — 03:52:51 UTC	griff77, IsabeltheCat, orucsoraihc	41	6	30
+484941	5	29	White & Prism (6 Suits)	2021-03-30 — 00:01:36 UTC	Lanvin, melwen, Nitrate, orucsoraihc, wump	4	6	30
+484884	3	0	Black & Omni (6 Suits)	2021-03-29 — 23:29:33 UTC	Lanvin, orucsoraihc, wump	5	6	30
+484256	2	30	Dual-Color & Black (6 Suits)	2021-03-29 — 06:13:22 UTC	IsabeltheCat, orucsoraihc	13	6	30
+484253	2	0	Dual-Color & Black (6 Suits)	2021-03-29 — 06:02:46 UTC	IsabeltheCat, orucsoraihc	14	6	30
+484237	2	30	Dual-Color & Brown (6 Suits)	2021-03-29 — 05:29:26 UTC	IsabeltheCat, orucsoraihc	3	6	30
+484225	2	30	Dual-Color & Pink (6 Suits)	2021-03-29 — 05:13:35 UTC	IsabeltheCat, orucsoraihc	6	6	30
+484218	2	0	Dual-Color & Pink (6 Suits)	2021-03-29 — 05:04:44 UTC	IsabeltheCat, orucsoraihc	8	6	30
+484216	2	28	Dual-Color & Pink (6 Suits)	2021-03-29 — 04:59:17 UTC	IsabeltheCat, orucsoraihc	17	6	30
+484207	3	27	Dual-Color & Pink (6 Suits)	2021-03-29 — 04:41:21 UTC	IsabeltheCat, kinkajusrevenge, orucsoraihc	12	6	30
+483267	3	29	Brown (6 Suits)	2021-03-28 — 07:56:25 UTC	Bonja97, orucsoraihc, rs1	11	6	30
+483246	3	0	Brown (6 Suits)	2021-03-28 — 07:21:38 UTC	Bonja97, orucsoraihc, rs1	11	6	30
+483227	3	30	Brown (6 Suits)	2021-03-28 — 06:44:54 UTC	Bonja97, orucsoraihc, rs1	11	6	30
+483209	3	29	Brown (6 Suits)	2021-03-28 — 06:11:04 UTC	Bonja97, orucsoraihc, rs1	6	6	30
+482839	5	23	Rainbow & Brown (5 Suits)	2021-03-28 — 01:27:49 UTC	HelanaAshryvr, kinkajusrevenge, Lanvin, orucsoraihc, timotree	2	5	25
+482822	5	0	Rainbow & Brown (5 Suits)	2021-03-28 — 01:03:32 UTC	HelanaAshryvr, kinkajusrevenge, Lanvin, orucsoraihc, timotree	3	5	25
+482806	4	30	Pink & White (6 Suits)	2021-03-28 — 00:30:00 UTC	kinkajusrevenge, Lanvin, orucsoraihc, timotree	9	6	30
+482193	3	0	Brown (6 Suits)	2021-03-27 — 08:01:55 UTC	Bonja97, orucsoraihc, rs1	6	6	30
+482183	3	0	Brown (6 Suits)	2021-03-27 — 07:38:30 UTC	Bonja97, orucsoraihc, rs1	6	6	30
+482176	3	0	Brown (6 Suits)	2021-03-27 — 07:27:50 UTC	Bonja97, orucsoraihc, rs1	6	6	30
+482163	3	0	Brown (6 Suits)	2021-03-27 — 07:10:53 UTC	Bonja97, orucsoraihc, rs1	6	6	30
+481102	3	29	Brown (6 Suits)	2021-03-26 — 08:48:56 UTC	Bonja97, orucsoraihc, rs1	11	6	30
+481092	3	30	Brown (6 Suits)	2021-03-26 — 08:22:02 UTC	Bonja97, orucsoraihc, rs1	7	6	30
+481078	3	30	Brown (6 Suits)	2021-03-26 — 07:51:19 UTC	Bonja97, orucsoraihc, rs1	9	6	30
+480455	4	0	Up or Down & Muddy Rainbow (6 Suits)	2021-03-25 — 20:50:14 UTC	Lanvin, melwen, orucsoraihc, robense	2	6	30
+480430	4	0	Up or Down & Muddy Rainbow (6 Suits)	2021-03-25 — 20:30:28 UTC	Lanvin, melwen, orucsoraihc, robense	2	6	30
+478877	3	18	Pink & White (5 Suits)	2021-03-24 — 05:15:27 UTC	indego, orucsoraihc, StKildaFan	4	5	25
+478867	3	0	Pink & White (5 Suits)	2021-03-24 — 05:04:24 UTC	indego, orucsoraihc, StKildaFan	7	5	25
+478862	3	24	Pink & White (5 Suits)	2021-03-24 — 04:57:58 UTC	indego, orucsoraihc, StKildaFan	14	5	25
+478855	2	15	Prism (3 Suits)	2021-03-24 — 04:46:52 UTC	orucsoraihc, StKildaFan	52	3	15
+478848	2	15	Light Pink (3 Suits)	2021-03-24 — 04:41:43 UTC	orucsoraihc, StKildaFan	18	3	15
+478842	2	0	Light Pink (3 Suits)	2021-03-24 — 04:36:32 UTC	orucsoraihc, StKildaFan	22	3	15
+478840	2	0	Light Pink (3 Suits)	2021-03-24 — 04:33:14 UTC	orucsoraihc, StKildaFan	45	3	15
+478826	2	15	Rainbow & Prism (3 Suits)	2021-03-24 — 04:25:27 UTC	orucsoraihc, StKildaFan	20	3	15
+478812	2	15	Muddy Rainbow (3 Suits)	2021-03-24 — 04:18:32 UTC	orucsoraihc, StKildaFan	7	3	15
+478803	2	0	Muddy Rainbow (3 Suits)	2021-03-24 — 04:13:30 UTC	orucsoraihc, StKildaFan	7	3	15
+478796	2	0	Muddy Rainbow (3 Suits)	2021-03-24 — 04:10:04 UTC	orucsoraihc, StKildaFan	11	3	15
+478783	2	14	Muddy Rainbow (3 Suits)	2021-03-24 — 04:03:20 UTC	orucsoraihc, StKildaFan	16	3	15
+478767	2	0	Muddy Rainbow (3 Suits)	2021-03-24 — 03:58:07 UTC	orucsoraihc, StKildaFan	23	3	15
+478763	2	0	Muddy Rainbow (3 Suits)	2021-03-24 — 03:55:49 UTC	orucsoraihc, StKildaFan	36	3	15
+478751	2	0	Muddy Rainbow (3 Suits)	2021-03-24 — 03:51:45 UTC	orucsoraihc, StKildaFan	41	3	15
+478740	2	25	Pink & Omni (5 Suits)	2021-03-24 — 03:44:20 UTC	orucsoraihc, StKildaFan	1	5	25
+478723	2	0	Pink & Omni (5 Suits)	2021-03-24 — 03:37:31 UTC	orucsoraihc, StKildaFan	1	5	25
+478716	2	0	Pink & Omni (5 Suits)	2021-03-24 — 03:31:51 UTC	orucsoraihc, StKildaFan	1	5	25
+478708	2	0	Pink & Omni (5 Suits)	2021-03-24 — 03:29:00 UTC	orucsoraihc, StKildaFan	1	5	25
+478636	2	0	Black (5 Suits)	2021-03-24 — 02:27:55 UTC	nwajfromoz, orucsoraihc	97	5	25
+478628	2	0	Black (5 Suits)	2021-03-24 — 02:20:33 UTC	nwajfromoz, orucsoraihc	108	5	25
+478609	2	0	Black (5 Suits)	2021-03-24 — 02:13:10 UTC	nwajfromoz, orucsoraihc	115	5	25
+478599	2	22	Black (5 Suits)	2021-03-24 — 02:06:27 UTC	nwajfromoz, orucsoraihc	124	5	25
+478579	2	24	Black (5 Suits)	2021-03-24 — 01:52:44 UTC	nwajfromoz, orucsoraihc	169	5	25
+478331	2	22	Black (5 Suits)	2021-03-23 — 21:41:16 UTC	knaphill, orucsoraihc	219	5	25
+478311	2	0	Black (5 Suits)	2021-03-23 — 21:25:36 UTC	knaphill, orucsoraihc	244	5	25
+477316	4	0	No Variant	2021-03-22 — 22:34:57 UTC	Nitrate, Onen, orucsoraihc, ThomasW	95	5	25
+477312	3	0	No Variant	2021-03-22 — 22:30:11 UTC	Onen, orucsoraihc, ThomasW	89	5	25
+477293	3	22	No Variant	2021-03-22 — 22:18:05 UTC	Onen, orucsoraihc, ThomasW	89	5	25
+477269	3	0	No Variant	2021-03-22 — 22:00:25 UTC	Onen, orucsoraihc, ThomasW	93	5	25
+477259	3	0	Dual-Color (5 Suits)	2021-03-22 — 21:50:54 UTC	__, Onen, orucsoraihc	44	5	25
+476007	3	30	Null (6 Suits)	2021-03-21 — 18:45:14 UTC	newduke, orucsoraihc, robense	26	6	30
+475982	3	0	Null (6 Suits)	2021-03-21 — 18:23:16 UTC	newduke, orucsoraihc, robense	36	6	30
+475974	3	0	Null (6 Suits)	2021-03-21 — 18:15:38 UTC	newduke, orucsoraihc, robense	57	6	30
+475606	3	23	Rainbow & Prism (5 Suits)	2021-03-21 — 05:25:49 UTC	corys, orucsoraihc, xor	26	5	25
+475573	3	30	Rainbow & Prism (6 Suits)	2021-03-21 — 04:55:41 UTC	corys, orucsoraihc, xor	18	6	30
+475506	3	30	Dual-Color (6 Suits)	2021-03-21 — 04:12:23 UTC	kinkajusrevenge, orucsoraihc, timotree	66	6	30
+475445	4	25	No Variant	2021-03-21 — 03:33:04 UTC	kinkajusrevenge, orucsoraihc, PotatoLatte, timotree	25	5	25
+475398	4	23	No Variant	2021-03-21 — 02:55:35 UTC	kinkajusrevenge, orucsoraihc, PotatoLatte, timotree	27	5	25
+475323	4	25	No Variant	2021-03-21 — 02:04:22 UTC	kinkajusrevenge, orucsoraihc, PotatoLatte, timotree	26	5	25
+475305	4	25	No Variant	2021-03-21 — 01:40:21 UTC	kinkajusrevenge, orucsoraihc, PotatoLatte, timotree	27	5	25
+475293	3	25	No Variant	2021-03-21 — 01:18:19 UTC	orucsoraihc, PotatoLatte, timotree	11	5	25
+475276	4	25	No Variant	2021-03-21 — 00:52:15 UTC	Art3mis, orucsoraihc, PotatoLatte, timotree	31	5	25
+475262	3	0	No Variant	2021-03-21 — 00:35:11 UTC	Art3mis, orucsoraihc, PotatoLatte	101	5	25
+475253	3	0	No Variant	2021-03-21 — 00:26:00 UTC	Art3mis, orucsoraihc, PotatoLatte	97	5	25
+474919	4	24	No Variant	2021-03-20 — 18:51:45 UTC	Damian000, Doge, orucsoraihc, PotatoLatte	129	5	25
+474677	3	27	Brown (6 Suits)	2021-03-20 — 09:10:45 UTC	Bonja97, orucsoraihc, rs1	9	6	30
+474668	3	0	Brown (6 Suits)	2021-03-20 — 08:50:49 UTC	Bonja97, orucsoraihc, rs1	9	6	30
+474658	3	0	Brown (6 Suits)	2021-03-20 — 08:39:04 UTC	Bonja97, orucsoraihc, rs1	8	6	30
+474653	3	29	Brown (6 Suits)	2021-03-20 — 08:27:47 UTC	Bonja97, orucsoraihc, rs1	12	6	30
+474645	3	28	Brown (6 Suits)	2021-03-20 — 08:00:05 UTC	Bonja97, orucsoraihc, rs1	11	6	30
+474628	3	27	Brown (6 Suits)	2021-03-20 — 07:25:43 UTC	Bonja97, orucsoraihc, rs1	18	6	30
+474618	3	0	Brown (6 Suits)	2021-03-20 — 07:03:51 UTC	Bonja97, orucsoraihc, rs1	17	6	30
+474459	3	0	Dual-Color & White (6 Suits)	2021-03-20 — 04:31:09 UTC	corys, orucsoraihc, xor	3	6	30
+474396	4	0	White & Dark Omni (6 Suits)	2021-03-20 — 03:28:43 UTC	derekcheah, Lel0uch, melwen, orucsoraihc	5	6	30
+474377	3	30	White & Dark Pink (6 Suits)	2021-03-20 — 03:13:20 UTC	Lel0uch, melwen, orucsoraihc	2	6	30
+474345	3	28	White & Dark Pink (6 Suits)	2021-03-20 — 02:50:41 UTC	Lel0uch, melwen, orucsoraihc	2	6	30
+474321	3	0	White & Dark Pink (6 Suits)	2021-03-20 — 02:33:32 UTC	Lel0uch, melwen, orucsoraihc	2	6	30
+474223	5	0	Rainbow & Brown (6 Suits)	2021-03-20 — 01:08:16 UTC	Doge, indego, Lel0uch, orucsoraihc, timotree	7	6	30
+473964	2	0	Dual-Color & Brown (6 Suits)	2021-03-19 — 22:17:59 UTC	indego, orucsoraihc	3	6	30
+473953	2	0	Dual-Color & Brown (6 Suits)	2021-03-19 — 22:05:09 UTC	indego, orucsoraihc	4	6	30
+473937	2	0	Dual-Color & Brown (6 Suits)	2021-03-19 — 21:53:24 UTC	indego, orucsoraihc	4	6	30
+473915	2	0	Dual-Color & Brown (6 Suits)	2021-03-19 — 21:37:01 UTC	indego, orucsoraihc	4	6	30
+473670	4	0	Special Mix (5 Suits)	2021-03-19 — 17:19:44 UTC	kevincaseytdk1, orucsoraihc, rz, Wittvector	28	5	25
+473504	5	0	Dark Pink (6 Suits)	2021-03-19 — 10:26:04 UTC	boba, Denchulitas, orucsoraihc, sephiroth, Sucubis	2	6	30
+473501	5	0	Dark Pink (6 Suits)	2021-03-19 — 10:03:25 UTC	boba, Denchulitas, orucsoraihc, sephiroth, Sucubis	2	6	30
+473497	5	0	Dark Pink (6 Suits)	2021-03-19 — 09:52:57 UTC	boba, Denchulitas, orucsoraihc, sephiroth, Sucubis	3	6	30
+473483	3	28	Brown (6 Suits)	2021-03-19 — 09:00:46 UTC	Bonja97, orucsoraihc, rs1	21	6	30
+473476	3	0	Brown (6 Suits)	2021-03-19 — 08:30:02 UTC	Bonja97, orucsoraihc, rs1	22	6	30
+473467	3	0	Brown (6 Suits)	2021-03-19 — 08:02:28 UTC	Bonja97, orucsoraihc, rs1	25	6	30
+473464	3	0	Brown (6 Suits)	2021-03-19 — 07:57:50 UTC	Bonja97, orucsoraihc, rs1	26	6	30
+473457	3	30	Brown (6 Suits)	2021-03-19 — 07:44:31 UTC	Bonja97, orucsoraihc, rs1	52	6	30
+473004	5	0	Up or Down & Prism (5 Suits)	2021-03-19 — 00:43:26 UTC	Kyle, melwen, newduke, orucsoraihc, timotree	1	5	25
+472976	5	22	Rainbow & Brown (5 Suits)	2021-03-19 — 00:07:33 UTC	kinkajusrevenge, melwen, newduke, nwajfromoz, orucsoraihc	3	5	25
+472780	5	0	Special Mix (5 Suits)	2021-03-18 — 21:32:05 UTC	ChristopheAF, kevincaseytdk1, orucsoraihc, sephiroth, VerySloppyTwo	1	5	25
+472761	5	0	Special Mix (5 Suits)	2021-03-18 — 21:19:15 UTC	ChristopheAF, kevincaseytdk1, orucsoraihc, sephiroth, VerySloppyTwo	1	5	25
+472738	5	0	Special Mix (5 Suits)	2021-03-18 — 21:06:41 UTC	ChristopheAF, kevincaseytdk1, orucsoraihc, sephiroth, VerySloppyTwo	1	5	25
+472688	5	24	Special Mix (5 Suits)	2021-03-18 — 20:34:30 UTC	ChristopheAF, kevincaseytdk1, orucsoraihc, sephiroth, VerySloppyTwo	1	5	25
+472215	3	0	Up or Down & Brown (5 Suits)	2021-03-18 — 04:32:57 UTC	kinkajusrevenge, newduke, orucsoraihc	4	5	25
+472188	3	0	Omni-Ones (5 Suits)	2021-03-18 — 03:59:59 UTC	kinkajusrevenge, newduke, orucsoraihc	6	5	25
+471877	2	0	Pink & Omni (5 Suits)	2021-03-17 — 22:52:31 UTC	orucsoraihc, StKildaFan	4	5	25
+471872	2	0	Pink & Omni (5 Suits)	2021-03-17 — 22:48:57 UTC	orucsoraihc, StKildaFan	4	5	25
+471869	2	24	Pink & Omni (5 Suits)	2021-03-17 — 22:45:02 UTC	orucsoraihc, StKildaFan	4	5	25
+471861	2	0	Pink & Omni (5 Suits)	2021-03-17 — 22:37:50 UTC	orucsoraihc, StKildaFan	4	5	25
+471847	2	0	Pink & Omni (5 Suits)	2021-03-17 — 22:28:25 UTC	orucsoraihc, StKildaFan	5	5	25
+471838	2	0	Pink & Omni (5 Suits)	2021-03-17 — 22:22:14 UTC	orucsoraihc, StKildaFan	7	5	25
+471832	2	0	Pink & Omni (5 Suits)	2021-03-17 — 22:19:10 UTC	orucsoraihc, StKildaFan	7	5	25
+471827	2	0	Pink & Omni (5 Suits)	2021-03-17 — 22:13:57 UTC	orucsoraihc, StKildaFan	8	5	25
+471821	2	0	Pink & Omni (5 Suits)	2021-03-17 — 22:10:42 UTC	orucsoraihc, StKildaFan	8	5	25
+471813	4	0	Pink (5 Suits)	2021-03-17 — 22:01:08 UTC	ChristopheAF, knaphill, orucsoraihc, StKildaFan	51	5	25
+471774	2	15	White & Brown (3 Suits)	2021-03-17 — 21:44:48 UTC	orucsoraihc, StKildaFan	11	3	15
+471763	2	0	White & Brown (3 Suits)	2021-03-17 — 21:41:14 UTC	orucsoraihc, StKildaFan	17	3	15
+471759	2	0	White & Brown (3 Suits)	2021-03-17 — 21:39:32 UTC	orucsoraihc, StKildaFan	22	3	15
+471754	3	0	White & Brown (3 Suits)	2021-03-17 — 21:37:42 UTC	Kaktus, orucsoraihc, StKildaFan	6	3	15
+471742	2	20	White & Brown (4 Suits)	2021-03-17 — 21:34:50 UTC	orucsoraihc, StKildaFan	19	4	20
+471650	2	30	Black & Dark Rainbow (6 Suits)	2021-03-17 — 20:56:40 UTC	orucsoraihc, StKildaFan	4	6	30
+471642	2	0	Black & Dark Rainbow (6 Suits)	2021-03-17 — 20:48:17 UTC	orucsoraihc, StKildaFan	3	6	30
+471632	2	0	Black & Dark Rainbow (6 Suits)	2021-03-17 — 20:45:17 UTC	orucsoraihc, StKildaFan	4	6	30
+471626	2	25	White & Brown (5 Suits)	2021-03-17 — 20:40:44 UTC	orucsoraihc, StKildaFan	9	5	25
+471598	2	0	White & Brown (5 Suits)	2021-03-17 — 20:30:55 UTC	orucsoraihc, StKildaFan	21	5	25
+471575	2	30	White & Brown (6 Suits)	2021-03-17 — 20:16:43 UTC	orucsoraihc, StKildaFan	27	6	30
+471501	2	25	Dual-Color (5 Suits)	2021-03-17 — 19:11:40 UTC	Aluap, orucsoraihc	53	5	25
+471484	2	0	Dual-Color (5 Suits)	2021-03-17 — 18:59:31 UTC	Aluap, orucsoraihc	63	5	25
+471463	2	22	Dual-Color (5 Suits)	2021-03-17 — 18:49:53 UTC	Aluap, orucsoraihc	74	5	25
+471441	2	0	Dual-Color (5 Suits)	2021-03-17 — 18:34:24 UTC	Aluap, orucsoraihc	85	5	25
+471232	4	25	Omni-Ones (5 Suits)	2021-03-17 — 07:34:56 UTC	bjnh, dobi, newduke, orucsoraihc	9	5	25
+470911	3	23	White-Ones & Cocoa Rainbow (5 Suits)	2021-03-17 — 03:29:11 UTC	Bot-Fiora, griff77, orucsoraihc	1	5	25
+470869	3	0	White-Ones & Cocoa Rainbow (5 Suits)	2021-03-17 — 03:02:49 UTC	Bot-Fiora, griff77, orucsoraihc	1	5	25
+470841	3	0	White-Ones & Cocoa Rainbow (5 Suits)	2021-03-17 — 02:47:32 UTC	Bot-Fiora, griff77, orucsoraihc	1	5	25
+470808	3	0	White-Ones & Cocoa Rainbow (5 Suits)	2021-03-17 — 02:17:32 UTC	Bot-Fiora, griff77, orucsoraihc	1	5	25
+470794	3	20	Brown-Ones & Pink (4 Suits)	2021-03-17 — 01:51:25 UTC	Bot-Fiora, griff77, orucsoraihc	2	4	20
+470257	3	15	Reversed (3 Suits)	2021-03-16 — 17:49:11 UTC	kimbifille, Kyle, orucsoraihc	1	3	15
+470247	3	0	Reversed (3 Suits)	2021-03-16 — 17:37:42 UTC	kimbifille, Kyle, orucsoraihc	2	3	15
+470241	6	0	Black (5 Suits)	2021-03-16 — 17:24:57 UTC	bjnh, ChristopheAF, IsabeltheCat, kevincaseytdk1, knaphill, orucsoraihc	5	5	25
+470232	6	0	Black (5 Suits)	2021-03-16 — 17:12:46 UTC	bjnh, ChristopheAF, IsabeltheCat, kevincaseytdk1, knaphill, orucsoraihc	7	5	25
+470036	4	25	Brown-Ones & Prism (5 Suits)	2021-03-16 — 07:04:12 UTC	ksfortson, Lel0uch, orucsoraihc, wump	1	5	25
+469684	4	0	Black & Prism (6 Suits)	2021-03-16 — 01:38:17 UTC	asaelr, Bot-Fiora, kevincaseytdk1, orucsoraihc	5	6	30
+469672	4	0	Black & Prism (6 Suits)	2021-03-16 — 01:15:47 UTC	asaelr, Bot-Fiora, kevincaseytdk1, orucsoraihc	8	6	30
+469663	4	0	Black & Prism (6 Suits)	2021-03-16 — 01:03:14 UTC	asaelr, Bot-Fiora, kevincaseytdk1, orucsoraihc	10	6	30
+469490	4	0	Dark Null (6 Suits)	2021-03-15 — 23:00:40 UTC	indego, MarkusKahlsen, orucsoraihc, Wittvector	4	6	30
+469456	4	0	Dark Null (6 Suits)	2021-03-15 — 22:30:32 UTC	indego, MarkusKahlsen, orucsoraihc, Wittvector	5	6	30
+469439	3	25	No Variant	2021-03-15 — 22:06:44 UTC	orucsoraihc, username5, voss	35	5	25
+469131	4	0	Brown-Ones (6 Suits)	2021-03-15 — 17:52:34 UTC	flaaffy, Lel0uch, orucsoraihc, squirrel1988	2	6	30
+469124	4	0	Brown-Ones (6 Suits)	2021-03-15 — 17:40:51 UTC	flaaffy, Lel0uch, orucsoraihc, squirrel1988	3	6	30
+468065	4	0	Dark Omni (6 Suits)	2021-03-14 — 17:07:25 UTC	knaphill, newduke, orucsoraihc, wump	16	6	30
+468059	4	0	Dark Omni (6 Suits)	2021-03-14 — 16:58:56 UTC	knaphill, newduke, orucsoraihc, wump	17	6	30
+468051	3	24	No Variant	2021-03-14 — 16:48:37 UTC	narabio, orucsoraihc, rz	151	5	25
+466846	5	24	Black (5 Suits)	2021-03-13 — 18:01:22 UTC	dobi, griff77, Lanvin, orucsoraihc, rz	4	5	25
+466535	3	25	Prism (5 Suits)	2021-03-13 — 06:27:15 UTC	Fey, nwajfromoz, orucsoraihc	1	5	25
+466525	4	0	White (5 Suits)	2021-03-13 — 06:14:04 UTC	Fey, nwajfromoz, orucsoraihc, username5	12	5	25
+466516	4	23	White (5 Suits)	2021-03-13 — 05:59:17 UTC	Fey, nwajfromoz, orucsoraihc, username5	12	5	25
+466065	5	23	Black (5 Suits)	2021-03-12 — 23:11:37 UTC	Lanvin, MangoPie, Nitrate, Onen, orucsoraihc	6	5	25
+466035	4	0	Brown & Dark Rainbow (6 Suits)	2021-03-12 — 22:46:36 UTC	Lanvin, Onen, orucsoraihc, robense	4	6	30
+465158	3	23	No Variant	2021-03-12 — 01:51:17 UTC	mehdi_safi, orucsoraihc, username5	2606	5	25
+464638	3	25	Pink & Muddy Rainbow (5 Suits)	2021-03-11 — 15:06:48 UTC	hakha3, Lel0uch, orucsoraihc	2	5	25
+464626	3	0	Pink & Muddy Rainbow (5 Suits)	2021-03-11 — 14:51:05 UTC	hakha3, Lel0uch, orucsoraihc	2	5	25
+463715	4	0	Omni-Ones & Prism (3 Suits)	2021-03-10 — 18:11:53 UTC	Floriman, Lanvin, orucsoraihc, rz	1	3	15
+463708	4	0	Omni-Ones & Prism (3 Suits)	2021-03-10 — 18:05:17 UTC	Floriman, Lanvin, orucsoraihc, rz	1	3	15
+463702	4	14	Omni-Ones & Prism (3 Suits)	2021-03-10 — 17:51:22 UTC	Floriman, Lanvin, orucsoraihc, rz	1	3	15
+463696	4	0	Omni-Ones & Prism (3 Suits)	2021-03-10 — 17:39:35 UTC	Floriman, Lanvin, orucsoraihc, rz	1	3	15
+463689	3	30	Light-Pink-Fives & Muddy Rainbow (6 Suits)	2021-03-10 — 17:26:14 UTC	Floriman, Lanvin, orucsoraihc	2	6	30
+463663	3	24	Up or Down (5 Suits)	2021-03-10 — 16:38:24 UTC	eliclax, knaphill, orucsoraihc	62	5	25
+463655	3	0	Up or Down (5 Suits)	2021-03-10 — 16:16:09 UTC	eliclax, knaphill, orucsoraihc	88	5	25
+463637	3	23	Up or Down (5 Suits)	2021-03-10 — 15:57:45 UTC	eliclax, knaphill, orucsoraihc	113	5	25
+462427	3	14	Rainbow & Prism (3 Suits)	2021-03-09 — 16:11:57 UTC	orucsoraihc, Spieler42, superbipbip	1	3	15
+462420	3	0	Rainbow & Prism (3 Suits)	2021-03-09 — 16:01:17 UTC	orucsoraihc, Spieler42, superbipbip	1	3	15
+462419	3	0	Rainbow & Prism (3 Suits)	2021-03-09 — 15:56:38 UTC	orucsoraihc, Spieler42, superbipbip	1	3	15
+462416	3	0	Rainbow & Prism (3 Suits)	2021-03-09 — 15:47:01 UTC	orucsoraihc, Spieler42, superbipbip	1	3	15
+462412	3	0	Rainbow & Prism (3 Suits)	2021-03-09 — 15:37:30 UTC	orucsoraihc, Spieler42, superbipbip	1	3	15
+462410	3	0	Rainbow & Prism (3 Suits)	2021-03-09 — 15:33:19 UTC	orucsoraihc, Spieler42, superbipbip	1	3	15
+462234	3	25	Muddy Rainbow & Dark Pink (5 Suits)	2021-03-09 — 06:58:27 UTC	derekcheah, Lel0uch, orucsoraihc	1	5	25
+462223	3	0	Muddy Rainbow & Dark Pink (5 Suits)	2021-03-09 — 06:44:44 UTC	derekcheah, Lel0uch, orucsoraihc	1	5	25
+462217	3	0	Muddy Rainbow & Dark Pink (5 Suits)	2021-03-09 — 06:35:57 UTC	derekcheah, Lel0uch, orucsoraihc	1	5	25
+462209	3	23	Muddy Rainbow & Dark Pink (5 Suits)	2021-03-09 — 06:24:54 UTC	derekcheah, Lel0uch, orucsoraihc	1	5	25
+462199	3	0	Muddy Rainbow & Dark Pink (5 Suits)	2021-03-09 — 06:11:14 UTC	derekcheah, Lel0uch, orucsoraihc	1	5	25
+462196	3	0	Muddy Rainbow & Dark Pink (5 Suits)	2021-03-09 — 06:07:19 UTC	derekcheah, Lel0uch, orucsoraihc	1	5	25
+462194	3	0	Muddy Rainbow & Dark Pink (5 Suits)	2021-03-09 — 06:05:34 UTC	derekcheah, Lel0uch, orucsoraihc	1	5	25
+462192	3	0	Muddy Rainbow & Dark Pink (5 Suits)	2021-03-09 — 06:03:20 UTC	derekcheah, Lel0uch, orucsoraihc	2	5	25
+462191	3	0	Muddy Rainbow & Dark Pink (5 Suits)	2021-03-09 — 06:01:37 UTC	derekcheah, Lel0uch, orucsoraihc	2	5	25
+462089	5	26	Black & Muddy Rainbow (6 Suits)	2021-03-09 — 03:52:01 UTC	Bot-Fiora, griff77, orucsoraihc, possum, rz	4	6	30
+462062	3	0	Black & Muddy Rainbow (6 Suits)	2021-03-09 — 03:23:04 UTC	griff77, orucsoraihc, rz	11	6	30
+462027	5	0	Black & Light Pink (6 Suits)	2021-03-09 — 02:48:29 UTC	Bonja97, Lel0uch, orucsoraihc, rz, TimeHoodie	7	6	30
+462004	3	22	Black (5 Suits)	2021-03-09 — 02:16:01 UTC	nwajfromoz, orucsoraihc, thejazzagent	84	5	25
+461516	4	26	Black & White (6 Suits)	2021-03-08 — 18:01:42 UTC	bjnh, BraydonM, Fey, orucsoraihc	19	6	30
+461508	2	28	Up or Down (6 Suits)	2021-03-08 — 17:38:44 UTC	Fey, orucsoraihc	10	6	30
+461422	3	0	No Variant	2021-03-08 — 15:33:21 UTC	DarthGandalf, orucsoraihc, wolfpack	98	5	25
+461395	3	0	No Variant	2021-03-08 — 15:14:26 UTC	DarthGandalf, orucsoraihc, wolfpack	154	5	25
+460927	4	24	No Variant	2021-03-08 — 02:17:13 UTC	BraydonM, dancherp, orucsoraihc, possum	88	5	25
+460892	4	0	No Variant	2021-03-08 — 01:46:16 UTC	BraydonM, dancherp, orucsoraihc, possum	103	5	25
+460868	4	0	No Variant	2021-03-08 — 01:32:14 UTC	BraydonM, dancherp, orucsoraihc, possum	116	5	25
+460849	6	0	Black (5 Suits)	2021-03-08 — 01:20:24 UTC	dancherp, HelanaAshryvr, Lanvin, melwen, orucsoraihc, possum	4	5	25
+460831	5	29	White-Ones & Dark Pink (6 Suits)	2021-03-08 — 01:05:14 UTC	asaelr, HelanaAshryvr, Lanvin, melwen, orucsoraihc	1	6	30
+460787	3	29	Pink & Gray (6 Suits)	2021-03-08 — 00:26:10 UTC	Bonja97, melwen, orucsoraihc	9	6	30
+460367	4	25	Black & White (6 Suits)	2021-03-07 — 20:04:40 UTC	CaitlinSmith, Denchulitas, nkkarpov, orucsoraihc	13	6	30
+460328	4	26	Black & White (6 Suits)	2021-03-07 — 19:36:19 UTC	CaitlinSmith, Denchulitas, nkkarpov, orucsoraihc	16	6	30
+460235	4	30	Up or Down (6 Suits)	2021-03-07 — 17:58:15 UTC	Fey, orucsoraihc, rz, wump	22	6	30
+460208	4	30	Pink (6 Suits)	2021-03-07 — 17:26:33 UTC	Fey, orucsoraihc, rz, wump	30	6	30
+460184	4	25	Brown (5 Suits)	2021-03-07 — 17:00:21 UTC	Fey, orucsoraihc, rz, wump	14	5	25
+459915	3	24	No Variant	2021-03-07 — 07:13:13 UTC	blindedot, orucsoraihc, rinka	156	5	25
+459895	3	0	No Variant	2021-03-07 — 06:43:00 UTC	blindedot, orucsoraihc, rinka	160	5	25
+459876	3	24	No Variant	2021-03-07 — 06:16:37 UTC	blindedot, orucsoraihc, rinka	167	5	25
+459174	3	30	Ambiguous (6 Suits)	2021-03-06 — 21:24:15 UTC	bjnh, ksfortson, orucsoraihc	28	6	30
+459152	3	0	Ambiguous (6 Suits)	2021-03-06 — 20:58:31 UTC	bjnh, ksfortson, orucsoraihc	42	6	30
+459134	3	0	Ambiguous (6 Suits)	2021-03-06 — 20:47:35 UTC	bjnh, ksfortson, orucsoraihc	69	6	30
+459015	3	28	Gray (6 Suits)	2021-03-06 — 18:52:13 UTC	DarthGandalf, orucsoraihc, Wittvector	16	6	30
+458984	3	0	Gray (6 Suits)	2021-03-06 — 18:28:05 UTC	DarthGandalf, orucsoraihc, Wittvector	16	6	30
+458665	4	23	Rainbow & White (5 Suits)	2021-03-06 — 06:37:37 UTC	dobi, nwajfromoz, Onen, orucsoraihc	12	5	25
+458640	4	0	Rainbow & White (5 Suits)	2021-03-06 — 06:16:24 UTC	dobi, nwajfromoz, Onen, orucsoraihc	17	5	25
+458627	4	0	Dark Rainbow (5 Suits)	2021-03-06 — 06:09:53 UTC	eliclax, nwajfromoz, Onen, orucsoraihc	17	5	25
+458624	4	0	Dark Rainbow (5 Suits)	2021-03-06 — 06:07:18 UTC	eliclax, nwajfromoz, Onen, orucsoraihc	20	5	25
+458604	4	22	Dark Rainbow (5 Suits)	2021-03-06 — 05:53:27 UTC	eliclax, nwajfromoz, Onen, orucsoraihc	19	5	25
+458576	4	0	Dark Rainbow (5 Suits)	2021-03-06 — 05:34:37 UTC	eliclax, nwajfromoz, Onen, orucsoraihc	24	5	25
+458569	4	0	Dark Rainbow (5 Suits)	2021-03-06 — 05:26:25 UTC	eliclax, nwajfromoz, Onen, orucsoraihc	23	5	25
+458561	4	0	Dark Rainbow (5 Suits)	2021-03-06 — 05:17:03 UTC	eliclax, nwajfromoz, Onen, orucsoraihc	29	5	25
+458547	4	30	Rainbow (6 Suits)	2021-03-06 — 04:58:40 UTC	eliclax, orucsoraihc, otterful, torp	275	6	30
+458510	4	0	Rainbow (6 Suits)	2021-03-06 — 04:30:13 UTC	eliclax, orucsoraihc, otterful, torp	344	6	30
+458090	5	0	Cocoa Rainbow & Dark Prism (6 Suits)	2021-03-05 — 22:57:15 UTC	jeff10, Lanvin, MangoPie, orucsoraihc, rz	1	6	30
+457782	2	25	White & Prism (5 Suits)	2021-03-05 — 18:38:22 UTC	IsabeltheCat, orucsoraihc	10	5	25
+457728	3	29	Dark Omni (6 Suits)	2021-03-05 — 17:53:03 UTC	jeff10, Onen, orucsoraihc	13	6	30
+457714	3	0	Dark Omni (6 Suits)	2021-03-05 — 17:40:43 UTC	jeff10, Onen, orucsoraihc	20	6	30
+457709	3	0	Dark Omni (6 Suits)	2021-03-05 — 17:33:49 UTC	jeff10, Onen, orucsoraihc	26	6	30
+456703	4	0	6 Suits	2021-03-04 — 21:26:58 UTC	DarthGandalf, orucsoraihc, Spieler42, Virgil	47	6	30
+456683	4	0	6 Suits	2021-03-04 — 21:03:42 UTC	DarthGandalf, orucsoraihc, Spieler42, Virgil	49	6	30
+456662	4	0	6 Suits	2021-03-04 — 20:45:00 UTC	DarthGandalf, orucsoraihc, Spieler42, Virgil	68	6	30
+456615	4	0	No Variant	2021-03-04 — 20:16:28 UTC	DarthGandalf, MangoPie, orucsoraihc, Virgil	167	5	25
+456579	3	22	No Variant	2021-03-04 — 19:42:35 UTC	DarthGandalf, orucsoraihc, rem088	170	5	25
+456488	5	0	Black & Prism (6 Suits)	2021-03-04 — 17:27:47 UTC	eliclax, knaphill, Lanvin, orucsoraihc, rz	4	6	30
+456477	5	0	Black & Prism (6 Suits)	2021-03-04 — 17:11:23 UTC	eliclax, knaphill, Lanvin, orucsoraihc, rz	4	6	30
+455960	4	0	White & Dark Rainbow (6 Suits)	2021-03-04 — 03:51:05 UTC	eliclax, griff77, jeff10, orucsoraihc	3	6	30
+455942	4	0	White & Dark Rainbow (6 Suits)	2021-03-04 — 03:30:45 UTC	eliclax, griff77, jeff10, orucsoraihc	8	6	30
+455314	5	29	Black Reversed (6 Suits)	2021-03-03 — 16:05:49 UTC	jeff10, Lel0uch, MarkusKahlsen, orucsoraihc, Wittvector	2	6	30
+455306	5	0	Black Reversed (6 Suits)	2021-03-03 — 15:43:29 UTC	jeff10, Lel0uch, MarkusKahlsen, orucsoraihc, Wittvector	2	6	30
+455302	5	0	Black Reversed (6 Suits)	2021-03-03 — 15:26:34 UTC	jeff10, Lel0uch, MarkusKahlsen, orucsoraihc, Wittvector	3	6	30
+455297	5	0	Black Reversed (6 Suits)	2021-03-03 — 15:10:38 UTC	jeff10, Lel0uch, MarkusKahlsen, orucsoraihc, Wittvector	3	6	30
+454631	3	30	Black & Light Pink (6 Suits)	2021-03-02 — 23:04:06 UTC	asaelr, Onen, orucsoraihc	4	6	30
+454620	3	0	Black & Light Pink (6 Suits)	2021-03-02 — 22:52:11 UTC	asaelr, Onen, orucsoraihc	5	6	30
+454619	3	0	Black & Light Pink (6 Suits)	2021-03-02 — 22:50:31 UTC	asaelr, Onen, orucsoraihc	5	6	30
+454617	3	0	Black & Light Pink (6 Suits)	2021-03-02 — 22:46:40 UTC	asaelr, Onen, orucsoraihc	6	6	30
+454609	4	15	Deceptive-Ones (3 Suits)	2021-03-02 — 22:37:27 UTC	asaelr, bjnh, Lanvin, orucsoraihc	4	3	15
+454396	4	24	Rainbow Reversed (5 Suits)	2021-03-02 — 20:37:49 UTC	orucsoraihc, tenbens1010, TheDaniMan, TimeHoodie	11	5	25
+454180	5	23	Black (5 Suits)	2021-03-02 — 15:11:49 UTC	eliclax, MarkusKahlsen, orucsoraihc, qqqq, robense	10	5	25
+454175	5	0	Black (5 Suits)	2021-03-02 — 14:49:43 UTC	eliclax, MarkusKahlsen, orucsoraihc, qqqq, robense	9	5	25
+454168	5	0	Black (5 Suits)	2021-03-02 — 14:31:47 UTC	eliclax, MarkusKahlsen, orucsoraihc, qqqq, robense	8	5	25
+453767	5	0	Black & Pink (5 Suits)	2021-03-02 — 02:54:45 UTC	HelanaAshryvr, Lanvin, melwen, orucsoraihc, squirrel1988	3	5	25
+453750	6	22	Black & Pink (5 Suits)	2021-03-02 — 02:39:53 UTC	dobi, HelanaAshryvr, Lanvin, melwen, orucsoraihc, rahsosprout	1	5	25
+453726	6	22	Black & Pink (5 Suits)	2021-03-02 — 02:15:26 UTC	dobi, HelanaAshryvr, Lanvin, melwen, orucsoraihc, rahsosprout	1	5	25
+453709	6	0	Black & Pink (5 Suits)	2021-03-02 — 01:59:06 UTC	dobi, HelanaAshryvr, Lanvin, melwen, orucsoraihc, rahsosprout	1	5	25
+453674	3	0	Black (5 Suits)	2021-03-02 — 01:18:47 UTC	griff77, orucsoraihc, wolfpack	101	5	25
+452895	3	0	Black & Rainbow (5 Suits)	2021-03-01 — 06:20:55 UTC	eliclax, Onen, orucsoraihc	27	5	25
+452886	4	21	Black & Rainbow (5 Suits)	2021-03-01 — 06:08:40 UTC	eliclax, IsabeltheCat, Onen, orucsoraihc	23	5	25
+452875	3	0	Black & Rainbow (5 Suits)	2021-03-01 — 05:46:21 UTC	colton, IsabeltheCat, orucsoraihc	33	5	25
+452866	3	0	Black & Rainbow (5 Suits)	2021-03-01 — 05:31:57 UTC	colton, IsabeltheCat, orucsoraihc	46	5	25
+452860	3	0	Black & Rainbow (5 Suits)	2021-03-01 — 05:24:08 UTC	colton, IsabeltheCat, orucsoraihc	58	5	25
+452839	2	25	Rainbow (5 Suits)	2021-03-01 — 04:58:40 UTC	IsabeltheCat, orucsoraihc	95	5	25
+452833	2	0	Rainbow (5 Suits)	2021-03-01 — 04:52:08 UTC	IsabeltheCat, orucsoraihc	129	5	25
+452828	2	0	Rainbow (5 Suits)	2021-03-01 — 04:47:05 UTC	IsabeltheCat, orucsoraihc	154	5	25
+452821	2	30	Black (6 Suits)	2021-03-01 — 04:41:31 UTC	IsabeltheCat, orucsoraihc	255	6	30
+452809	2	0	Black (6 Suits)	2021-03-01 — 04:33:16 UTC	IsabeltheCat, orucsoraihc	275	6	30
+452801	2	0	Black (6 Suits)	2021-03-01 — 04:28:54 UTC	IsabeltheCat, orucsoraihc	294	6	30
+452794	2	0	Black (6 Suits)	2021-03-01 — 04:25:39 UTC	IsabeltheCat, orucsoraihc	300	6	30
+452783	2	0	Black (6 Suits)	2021-03-01 — 04:19:07 UTC	IsabeltheCat, orucsoraihc	325	6	30
+452778	2	20	4 Suits	2021-03-01 — 04:14:04 UTC	IsabeltheCat, orucsoraihc	110	4	20
+452773	2	18	4 Suits	2021-03-01 — 04:07:58 UTC	IsabeltheCat, orucsoraihc	128	4	20
+452766	2	0	4 Suits	2021-03-01 — 04:01:57 UTC	IsabeltheCat, orucsoraihc	244	4	20
+452758	2	30	Prism (6 Suits)	2021-03-01 — 03:55:15 UTC	IsabeltheCat, orucsoraihc	112	6	30
+452743	3	24	Black (5 Suits)	2021-03-01 — 03:43:44 UTC	dobi, IsabeltheCat, orucsoraihc	134	5	25
+452723	3	22	Black & Dark Rainbow (6 Suits)	2021-03-01 — 03:26:41 UTC	IsabeltheCat, kinkajusrevenge, orucsoraihc	28	6	30
+452505	3	19	Brown (4 Suits)	2021-03-01 — 00:16:35 UTC	griff77, kinkajusrevenge, orucsoraihc	47	4	20
+452480	3	19	White (4 Suits)	2021-02-28 — 23:51:15 UTC	griff77, kinkajusrevenge, orucsoraihc	30	4	20
+452371	4	25	Pink & White (5 Suits)	2021-02-28 — 22:26:36 UTC	asaelr, dobi, orucsoraihc, swineherd	11	5	25
+452340	2	28	Rainbow & Light Pink (6 Suits)	2021-02-28 — 22:03:12 UTC	orucsoraihc, StKildaFan	1	6	30
+452328	2	28	Rainbow & Light Pink (6 Suits)	2021-02-28 — 21:53:01 UTC	orucsoraihc, StKildaFan	1	6	30
+452316	2	0	Rainbow & Light Pink (6 Suits)	2021-02-28 — 21:41:02 UTC	orucsoraihc, StKildaFan	1	6	30
+452315	2	0	Rainbow & Light Pink (6 Suits)	2021-02-28 — 21:38:08 UTC	orucsoraihc, StKildaFan	1	6	30
+452312	2	0	Rainbow & Light Pink (6 Suits)	2021-02-28 — 21:35:34 UTC	orucsoraihc, StKildaFan	1	6	30
+452309	2	0	Rainbow & Light Pink (6 Suits)	2021-02-28 — 21:27:11 UTC	orucsoraihc, StKildaFan	1	6	30
+451572	4	25	Pink & Muddy Rainbow (5 Suits)	2021-02-28 — 04:00:04 UTC	derekcheah, dobi, orucsoraihc, swineherd	1	5	25
+451542	3	0	Pink & Muddy Rainbow (6 Suits)	2021-02-28 — 03:42:41 UTC	derekcheah, dobi, orucsoraihc	5	6	30
+451510	5	21	Rainbow & Dark Prism (5 Suits)	2021-02-28 — 03:22:56 UTC	ADrone, dobi, kimbifille, orucsoraihc, TimeHoodie	3	5	25
+451468	5	0	Rainbow & Dark Prism (5 Suits)	2021-02-28 — 02:54:51 UTC	ADrone, dobi, kimbifille, orucsoraihc, TimeHoodie	3	5	25
+451435	3	0	Cocoa Rainbow (5 Suits)	2021-02-28 — 02:22:41 UTC	griff77, MangoPie, orucsoraihc	21	5	25
+451411	3	23	Cocoa Rainbow (5 Suits)	2021-02-28 — 01:50:03 UTC	griff77, MangoPie, orucsoraihc	22	5	25
+449651	5	0	Dark Omni (6 Suits)	2021-02-26 — 05:41:47 UTC	4head, bjnh, dobi, newduke, orucsoraihc	10	6	30
+448863	4	25	White-Ones & Pink (5 Suits)	2021-02-25 — 19:09:17 UTC	griff77, orucsoraihc, Spieler42, torp	1	5	25
+448853	4	0	White-Ones & Pink (5 Suits)	2021-02-25 — 18:46:19 UTC	griff77, orucsoraihc, Spieler42, torp	2	5	25
+448837	4	0	White-Ones & Pink (5 Suits)	2021-02-25 — 18:32:34 UTC	griff77, orucsoraihc, Spieler42, torp	4	5	25
+448696	4	0	Pink & Muddy Rainbow (6 Suits)	2021-02-25 — 14:52:33 UTC	Lanvin, Lel0uch, orucsoraihc, VerySloppyTwo	2	6	30
+448695	4	0	Pink & Muddy Rainbow (6 Suits)	2021-02-25 — 14:44:49 UTC	Lanvin, Lel0uch, orucsoraihc, VerySloppyTwo	7	6	30
+448692	3	0	Pink & Muddy Rainbow (6 Suits)	2021-02-25 — 14:32:12 UTC	Lanvin, Lel0uch, orucsoraihc	4	6	30
+448686	3	0	Pink & Muddy Rainbow (6 Suits)	2021-02-25 — 14:19:50 UTC	Lanvin, Lel0uch, orucsoraihc	7	6	30
+448289	4	0	Rainbow-Ones & Rainbow (5 Suits)	2021-02-25 — 02:18:44 UTC	eljavi, griff77, orucsoraihc, rz	2	5	25
+448264	4	0	Rainbow-Ones & Rainbow (5 Suits)	2021-02-25 — 02:02:22 UTC	eljavi, griff77, orucsoraihc, rz	2	5	25
+448247	4	0	Rainbow-Ones & Rainbow (5 Suits)	2021-02-25 — 01:40:54 UTC	eljavi, griff77, orucsoraihc, rz	4	5	25
+448135	3	25	Dark Omni (5 Suits)	2021-02-24 — 23:37:05 UTC	newduke, Onen, orucsoraihc	12	5	25
+447200	3	20	Omni (4 Suits)	2021-02-24 — 00:03:34 UTC	orucsoraihc, rahsosprout, StKildaFan	5	4	20
+447183	3	0	Omni (4 Suits)	2021-02-23 — 23:49:09 UTC	orucsoraihc, rahsosprout, StKildaFan	5	4	20
+447160	3	0	Omni (4 Suits)	2021-02-23 — 23:32:52 UTC	orucsoraihc, rahsosprout, StKildaFan	12	4	20
+447145	3	0	Omni (4 Suits)	2021-02-23 — 23:21:28 UTC	orucsoraihc, possum, rahsosprout	15	4	20
+447131	3	0	Omni (4 Suits)	2021-02-23 — 23:15:46 UTC	orucsoraihc, possum, rahsosprout	21	4	20
+447107	3	0	Omni (4 Suits)	2021-02-23 — 22:59:00 UTC	orucsoraihc, possum, rahsosprout	29	4	20
+446658	4	28	Gray (6 Suits)	2021-02-23 — 16:34:57 UTC	eljavi, orucsoraihc, possum, wortel	10	6	30
+446636	4	27	Gray (6 Suits)	2021-02-23 — 15:55:11 UTC	eljavi, orucsoraihc, possum, wortel	13	6	30
+446621	4	0	Gray (6 Suits)	2021-02-23 — 15:22:24 UTC	eljavi, orucsoraihc, possum, wortel	15	6	30
+446337	4	0	Brown (5 Suits)	2021-02-23 — 03:52:49 UTC	4head, IsabeltheCat, newduke, orucsoraihc	3	5	25
+446333	4	0	Brown (5 Suits)	2021-02-23 — 03:46:40 UTC	4head, IsabeltheCat, newduke, orucsoraihc	3	5	25
+446332	4	0	Brown (5 Suits)	2021-02-23 — 03:44:57 UTC	4head, IsabeltheCat, newduke, orucsoraihc	2	5	25
+446331	4	0	Brown (5 Suits)	2021-02-23 — 03:42:37 UTC	4head, IsabeltheCat, newduke, orucsoraihc	2	5	25
+446325	4	0	Brown (5 Suits)	2021-02-23 — 03:39:34 UTC	4head, IsabeltheCat, newduke, orucsoraihc	3	5	25
+446322	4	0	Brown (5 Suits)	2021-02-23 — 03:37:52 UTC	4head, IsabeltheCat, newduke, orucsoraihc	3	5	25
+446320	4	24	Brown (5 Suits)	2021-02-23 — 03:32:51 UTC	4head, IsabeltheCat, newduke, orucsoraihc	3	5	25
+446313	4	0	Brown (5 Suits)	2021-02-23 — 03:27:36 UTC	4head, IsabeltheCat, newduke, orucsoraihc	3	5	25
+446311	4	0	Brown (5 Suits)	2021-02-23 — 03:22:26 UTC	4head, IsabeltheCat, newduke, orucsoraihc	4	5	25
+446306	4	0	Brown (5 Suits)	2021-02-23 — 03:19:10 UTC	4head, IsabeltheCat, newduke, orucsoraihc	4	5	25
+446301	4	0	Brown (5 Suits)	2021-02-23 — 03:16:41 UTC	4head, IsabeltheCat, newduke, orucsoraihc	6	5	25
+446298	4	0	Brown (5 Suits)	2021-02-23 — 03:14:37 UTC	4head, IsabeltheCat, newduke, orucsoraihc	7	5	25
+446294	4	0	Brown (5 Suits)	2021-02-23 — 03:13:02 UTC	4head, IsabeltheCat, newduke, orucsoraihc	7	5	25
+446290	4	0	Brown (5 Suits)	2021-02-23 — 03:11:16 UTC	4head, IsabeltheCat, newduke, orucsoraihc	8	5	25
+446288	4	0	Brown (5 Suits)	2021-02-23 — 03:10:21 UTC	4head, IsabeltheCat, newduke, orucsoraihc	9	5	25
+446287	4	0	Brown (5 Suits)	2021-02-23 — 03:09:24 UTC	4head, IsabeltheCat, newduke, orucsoraihc	14	5	25
+445656	4	0	Pink & Muddy Rainbow (6 Suits)	2021-02-22 — 17:42:20 UTC	orucsoraihc, rz, swineherd, Wittvector	2	6	30
+445644	4	0	Pink & Muddy Rainbow (6 Suits)	2021-02-22 — 17:25:58 UTC	orucsoraihc, rz, swineherd, Wittvector	3	6	30
+425778	6	0	Special Mix (5 Suits)	2021-02-04 — 22:08:45 UTC	ChristopheAF, frosty104, indego, Lanvin, orucsoraihc, TimeHoodie	3	5	25
+425367	5	21	Black (5 Suits)	2021-02-04 — 15:49:10 UTC	ChristopheAF, Lanvin, orucsoraihc, qqqq, sin_faith	4	5	25
+425231	3	0	Dark Rainbow (6 Suits)	2021-02-04 — 10:57:12 UTC	orucsoraihc, rachyrules, StKildaFan	53	6	30
+425222	2	28	Dark Rainbow (6 Suits)	2021-02-04 — 10:40:36 UTC	orucsoraihc, rachyrules	95	6	30
+418441	3	25	White & Prism (5 Suits)	2021-01-29 — 07:05:17 UTC	derekcheah, ksfortson, orucsoraihc	3	5	25
+418419	3	0	Black & Prism (6 Suits)	2021-01-29 — 06:32:04 UTC	ksfortson, Onen, orucsoraihc	22	6	30
+418407	3	25	White & Prism (5 Suits)	2021-01-29 — 06:18:13 UTC	ksfortson, Onen, orucsoraihc	6	5	25
+415285	3	0	Black & Rainbow (6 Suits)	2021-01-26 — 06:30:36 UTC	Lel0uch, orucsoraihc, StKildaFan	13	6	30
+415280	3	0	Black & Rainbow (6 Suits)	2021-01-26 — 06:15:46 UTC	Lel0uch, orucsoraihc, StKildaFan	13	6	30
+415274	3	26	Black & Rainbow (6 Suits)	2021-01-26 — 06:06:58 UTC	Lel0uch, orucsoraihc, StKildaFan	18	6	30
+415270	3	0	Black & Rainbow (6 Suits)	2021-01-26 — 05:56:34 UTC	Lel0uch, orucsoraihc, StKildaFan	19	6	30
+415266	2	25	Gray (5 Suits)	2021-01-26 — 05:48:47 UTC	orucsoraihc, StKildaFan	51	5	25
+415264	2	0	Gray (5 Suits)	2021-01-26 — 05:44:16 UTC	orucsoraihc, StKildaFan	58	5	25
+415257	2	22	Gray (5 Suits)	2021-01-26 — 05:38:34 UTC	orucsoraihc, StKildaFan	66	5	25
+409440	2	25	No Variant	2021-01-20 — 08:51:01 UTC	macanek, orucsoraihc	68	5	25
+409438	2	0	No Variant	2021-01-20 — 08:44:12 UTC	macanek, orucsoraihc	90	5	25
+409194	4	0	Rainbow (5 Suits)	2021-01-20 — 02:50:27 UTC	dobi, eljavi, ksfortson, orucsoraihc	23	5	25
+409174	4	0	Rainbow (5 Suits)	2021-01-20 — 02:26:04 UTC	dobi, eljavi, ksfortson, orucsoraihc	26	5	25
+409160	4	0	Rainbow (5 Suits)	2021-01-20 — 02:07:05 UTC	dobi, eljavi, ksfortson, orucsoraihc	30	5	25
+408052	3	0	No Variant	2021-01-19 — 00:27:09 UTC	Onen, orucsoraihc, poofart123	175	5	25
+407741	5	24	No Variant	2021-01-18 — 20:08:00 UTC	dobi, Floriman, hakha3, macanek, orucsoraihc	67	5	25
+407737	5	0	No Variant	2021-01-18 — 20:05:05 UTC	dobi, Floriman, hakha3, macanek, orucsoraihc	100	5	25
+407731	4	0	No Variant	2021-01-18 — 20:03:09 UTC	Floriman, hakha3, orucsoraihc, sephiroth	23	5	25
+407725	4	0	No Variant	2021-01-18 — 20:00:09 UTC	Floriman, hakha3, orucsoraihc, sephiroth	22	5	25
+407721	4	0	No Variant	2021-01-18 — 19:57:04 UTC	Floriman, hakha3, orucsoraihc, sephiroth	28	5	25
+407715	4	0	No Variant	2021-01-18 — 19:53:34 UTC	Floriman, hakha3, orucsoraihc, sephiroth	44	5	25
+407709	4	0	No Variant	2021-01-18 — 19:51:13 UTC	Floriman, hakha3, orucsoraihc, sephiroth	48	5	25
+407706	4	0	No Variant	2021-01-18 — 19:50:06 UTC	Floriman, hakha3, orucsoraihc, sephiroth	59	5	25
+407697	4	0	No Variant	2021-01-18 — 19:45:00 UTC	Floriman, macanek, orucsoraihc, sephiroth	70	5	25
+407626	3	25	Light Pink (5 Suits)	2021-01-18 — 18:18:02 UTC	Onen, orucsoraihc, zeinab001	10	5	25
+407611	3	0	Light Pink (5 Suits)	2021-01-18 — 18:03:35 UTC	Onen, orucsoraihc, zeinab001	13	5	25
+407596	3	0	Light Pink (5 Suits)	2021-01-18 — 17:50:18 UTC	Onen, orucsoraihc, zeinab001	23	5	25
+407587	3	0	Light Pink (5 Suits)	2021-01-18 — 17:43:16 UTC	Onen, orucsoraihc, zeinab001	40	5	25
+407566	3	25	Muddy Rainbow (5 Suits)	2021-01-18 — 17:20:44 UTC	Onen, orucsoraihc, zeinab001	37	5	25
+406769	3	25	Rainbow (5 Suits)	2021-01-17 — 23:34:23 UTC	4head, arnino, orucsoraihc	185	5	25
+403507	2	0	Black (6 Suits)	2021-01-15 — 00:57:09 UTC	Onen, orucsoraihc	442	6	30
+403497	2	27	Black (6 Suits)	2021-01-15 — 00:46:58 UTC	Onen, orucsoraihc	546	6	30
+403490	2	0	Black (6 Suits)	2021-01-15 — 00:38:25 UTC	Onen, orucsoraihc	643	6	30
+403259	3	0	Up or Down (6 Suits)	2021-01-14 — 20:34:25 UTC	IsabeltheCat, Lanvin, orucsoraihc	17	6	30
+402801	4	0	Rainbow & Dark Omni (5 Suits)	2021-01-14 — 05:50:53 UTC	Fireheart, Lel0uch, melwen, orucsoraihc	1	5	25
+402788	4	0	Rainbow & Dark Omni (5 Suits)	2021-01-14 — 05:25:31 UTC	Fireheart, Lel0uch, melwen, orucsoraihc	1	5	25
+400905	4	30	Black & Rainbow (6 Suits)	2021-01-12 — 05:56:16 UTC	dobi, newduke, orucsoraihc, StKildaFan	46	6	30
+400872	2	28	Black & White (6 Suits)	2021-01-12 — 05:25:21 UTC	orucsoraihc, StKildaFan	69	6	30
+400859	2	25	Dark Rainbow (5 Suits)	2021-01-12 — 05:13:43 UTC	orucsoraihc, StKildaFan	21	5	25
+400848	2	15	Brown (3 Suits)	2021-01-12 — 05:03:16 UTC	orucsoraihc, StKildaFan	23	3	15
+400837	2	0	Brown (3 Suits)	2021-01-12 — 04:57:55 UTC	orucsoraihc, StKildaFan	27	3	15
+400834	2	0	Brown (3 Suits)	2021-01-12 — 04:55:26 UTC	orucsoraihc, StKildaFan	47	3	15
+400831	2	14	Brown (3 Suits)	2021-01-12 — 04:52:42 UTC	orucsoraihc, StKildaFan	60	3	15
+400821	2	20	Omni (4 Suits)	2021-01-12 — 04:44:28 UTC	orucsoraihc, StKildaFan	59	4	20
+400810	2	20	Prism (4 Suits)	2021-01-12 — 04:33:31 UTC	orucsoraihc, StKildaFan	31	4	20
+400806	2	0	Prism (4 Suits)	2021-01-12 — 04:27:55 UTC	orucsoraihc, StKildaFan	66	4	20
+400200	5	30	White-Ones & Rainbow (6 Suits)	2021-01-11 — 16:38:39 UTC	dobi, hakha3, Lanvin, orucsoraihc, sephiroth	1	6	30
+398556	3	0	Dual-Color Mix	2021-01-10 — 02:27:10 UTC	dobi, orucsoraihc, TimeHoodie	18	6	30
+398541	3	0	Dual-Color Mix	2021-01-10 — 02:14:58 UTC	dobi, orucsoraihc, TimeHoodie	17	6	30
+392156	3	25	No Variant	2021-01-04 — 04:00:44 UTC	banjoleb, eljavi, orucsoraihc	178	5	25
+389456	3	0	Black (5 Suits)	2021-01-01 — 18:48:52 UTC	Lanvin, MangoPie, orucsoraihc	119	5	25
+385374	6	30	Rainbow (6 Suits)	2020-12-28 — 22:07:11 UTC	ChristopheAF, doctorabi, eljavi, frosty104, HelanaAshryvr, orucsoraihc	19	6	30
+385319	4	25	No Variant	2020-12-28 — 21:05:14 UTC	kevincaseytdk1, Lanvin, nmirson, orucsoraihc	198	5	25
+385140	4	24	Rainbow & Brown (5 Suits)	2020-12-28 — 18:13:25 UTC	macanek, orucsoraihc, rz, wump	17	5	25
+385021	5	25	Dual-Color (5 Suits)	2020-12-28 — 15:11:35 UTC	ChristopheAF, Lel0uch, orucsoraihc, Pablo-, sin_faith	2	5	25
+384480	4	25	Omni (5 Suits)	2020-12-28 — 01:39:35 UTC	ChristopheAF, ksfortson, orucsoraihc, wump	24	5	25
+384340	4	0	Brown-Fives & Black (6 Suits)	2020-12-27 — 23:29:50 UTC	colton, ejwu, Lanvin, orucsoraihc	1	6	30
+384310	4	0	Brown-Fives & Black (6 Suits)	2020-12-27 — 23:02:02 UTC	colton, ejwu, Lanvin, orucsoraihc	1	6	30
+384282	4	0	Brown-Fives & Black (6 Suits)	2020-12-27 — 22:39:08 UTC	colton, ejwu, Lanvin, orucsoraihc	2	6	30
+384231	3	25	No Variant	2020-12-27 — 21:53:23 UTC	colton, orucsoraihc, ricardodd	194	5	25
+384021	5	0	No Variant	2020-12-27 — 18:37:12 UTC	Fey, kimbifille, orucsoraihc, sjdrodge, timotree	2	5	25
+383970	5	0	No Variant	2020-12-27 — 17:27:21 UTC	Fey, kimbifille, orucsoraihc, sjdrodge, timotree	3	5	25
+383962	5	0	No Variant	2020-12-27 — 17:14:38 UTC	Fey, kimbifille, orucsoraihc, sjdrodge, timotree	2	5	25
+383470	3	30	Light Pink (6 Suits)	2020-12-27 — 03:10:24 UTC	macanek, orucsoraihc, StKildaFan	34	6	30
+383434	3	0	Light Pink (6 Suits)	2020-12-27 — 02:46:42 UTC	macanek, orucsoraihc, StKildaFan	38	6	30
+383340	5	0	Dual-Color (5 Suits)	2020-12-27 — 01:30:02 UTC	catula, ejwu, Lanvin, moeski, orucsoraihc	7	5	25
+383287	6	29	White & Prism (6 Suits)	2020-12-27 — 00:46:16 UTC	catula, ejwu, IsabeltheCat, Lanvin, moeski, orucsoraihc	3	6	30
+383251	4	0	White & Prism (6 Suits)	2020-12-27 — 00:05:36 UTC	catula, IsabeltheCat, Lanvin, orucsoraihc	10	6	30
+383233	3	25	Alternating Clues (5 Suits)	2020-12-26 — 23:43:20 UTC	IsabeltheCat, Lanvin, orucsoraihc	24	5	25
+382973	5	24	Pink (5 Suits)	2020-12-26 — 20:23:32 UTC	Lanvin, macanek, orucsoraihc, StKildaFan, witcher	11	5	25
+382955	5	0	Pink (5 Suits)	2020-12-26 — 20:06:53 UTC	Lanvin, macanek, orucsoraihc, StKildaFan, witcher	20	5	25
+382944	5	0	Rainbow & Prism (5 Suits)	2020-12-26 — 19:54:27 UTC	Animex52, Lanvin, macanek, orucsoraihc, XMIL	8	5	25
+382922	5	0	Rainbow & Prism (5 Suits)	2020-12-26 — 19:32:02 UTC	Animex52, Lanvin, macanek, orucsoraihc, XMIL	9	5	25
+382907	6	20	4 Suits	2020-12-26 — 19:11:19 UTC	banjoleb, eljavi, Lanvin, macanek, orucsoraihc, wump	11	4	20
+382890	4	22	Rainbow-Ones (5 Suits)	2020-12-26 — 18:49:00 UTC	banjoleb, Lanvin, orucsoraihc, wump	12	5	25
+382780	3	0	Rainbow (3 Suits)	2020-12-26 — 16:03:07 UTC	Fey, orucsoraihc, Sucubis	36	3	15
+382779	3	0	Rainbow (3 Suits)	2020-12-26 — 15:59:30 UTC	Fey, orucsoraihc, Sucubis	43	3	15
+382775	2	25	Prism (5 Suits)	2020-12-26 — 15:50:48 UTC	Fey, orucsoraihc	7	5	25
+382757	3	30	Rainbow (6 Suits)	2020-12-26 — 14:53:32 UTC	kinkajusrevenge, orucsoraihc, robense	42	6	30
+381210	4	20	Light Pink (4 Suits)	2020-12-25 — 00:11:42 UTC	doctorabi, jack67889, kevincaseytdk1, orucsoraihc	8	4	20
+381197	4	19	Light Pink (4 Suits)	2020-12-24 — 23:47:59 UTC	doctorabi, jack67889, kevincaseytdk1, orucsoraihc	11	4	20
+381182	3	0	Light Pink (4 Suits)	2020-12-24 — 23:24:23 UTC	doctorabi, Lanvin, orucsoraihc	21	4	20
+381176	3	14	White (3 Suits)	2020-12-24 — 23:08:46 UTC	jeff10, Lanvin, orucsoraihc	45	3	15
+381168	3	15	3 Suits	2020-12-24 — 22:58:32 UTC	jeff10, Lanvin, orucsoraihc	115	3	15
+381159	3	0	3 Suits	2020-12-24 — 22:47:02 UTC	jeff10, Lanvin, orucsoraihc	144	3	15
+381152	4	0	No Variant	2020-12-24 — 22:38:16 UTC	hadock, orucsoraihc, shaharocks, Yoavko	97	5	25
+381040	5	0	Null (6 Suits)	2020-12-24 — 20:03:21 UTC	doctorabi, duckington, Kyle, orucsoraihc, plus	5	6	30
+381032	5	0	Null (6 Suits)	2020-12-24 — 19:46:01 UTC	doctorabi, duckington, Kyle, orucsoraihc, plus	10	6	30
+381024	4	0	Null (6 Suits)	2020-12-24 — 19:30:03 UTC	doctorabi, duckington, orucsoraihc, plus	4	6	30
+381011	4	0	Null (6 Suits)	2020-12-24 — 19:07:06 UTC	doctorabi, duckington, orucsoraihc, plus	10	6	30
+380914	5	30	Gray (6 Suits)	2020-12-24 — 16:49:32 UTC	frosty104, jeff10, Lel0uch, orucsoraihc, Sucubis	9	6	30
+380903	4	25	Pink & Brown (5 Suits)	2020-12-24 — 16:26:30 UTC	frosty104, Lel0uch, orucsoraihc, Sucubis	10	5	25
+380894	3	19	Rainbow & Brown (4 Suits)	2020-12-24 — 16:07:17 UTC	Lel0uch, orucsoraihc, Sucubis	13	4	20
+380891	3	0	Rainbow & Brown (4 Suits)	2020-12-24 — 15:53:31 UTC	Lel0uch, orucsoraihc, Sucubis	20	4	20
+380889	3	0	Brown (4 Suits)	2020-12-24 — 15:48:53 UTC	kinkajusrevenge, Lel0uch, orucsoraihc	9	4	20
+380887	3	0	Brown (4 Suits)	2020-12-24 — 15:46:16 UTC	Lel0uch, orucsoraihc, sin_faith	11	4	20
+379972	3	30	Pink & Prism (6 Suits)	2020-12-23 — 18:10:58 UTC	ChristopheAF, Lel0uch, orucsoraihc	11	6	30
+379847	5	25	Brown (5 Suits)	2020-12-23 — 14:02:04 UTC	doctorabi, frosty104, Lel0uch, orucsoraihc, StKildaFan	17	5	25
+378901	3	24	Up or Down & Prism (5 Suits)	2020-12-22 — 16:52:28 UTC	Fey, orucsoraihc, Sucubis	9	5	25
+378809	4	0	White & Muddy Rainbow (6 Suits)	2020-12-22 — 12:56:27 UTC	boba, Lel0uch, orucsoraihc, StKildaFan	2	6	30
+378807	4	0	White & Muddy Rainbow (6 Suits)	2020-12-22 — 12:41:53 UTC	boba, Lel0uch, orucsoraihc, StKildaFan	3	6	30
+378806	4	0	White & Muddy Rainbow (6 Suits)	2020-12-22 — 12:38:41 UTC	boba, Lel0uch, orucsoraihc, StKildaFan	5	6	30
+378805	4	0	White & Muddy Rainbow (6 Suits)	2020-12-22 — 12:36:08 UTC	boba, Lel0uch, orucsoraihc, StKildaFan	4	6	30
+378803	3	0	Muddy Rainbow (5 Suits)	2020-12-22 — 12:26:57 UTC	boba, Lel0uch, orucsoraihc	46	5	25
+377923	3	23	Gray (5 Suits)	2020-12-21 — 19:02:31 UTC	Daryl, Onen, orucsoraihc	12	5	25
+377902	3	20	Gray (5 Suits)	2020-12-21 — 18:35:33 UTC	Daryl, Onen, orucsoraihc	17	5	25
+377896	3	0	Gray (5 Suits)	2020-12-21 — 18:22:26 UTC	Daryl, Onen, orucsoraihc	16	5	25
+377741	4	0	Gray Pink (6 Suits)	2020-12-21 — 10:58:59 UTC	katian, Lel0uch, orucsoraihc, Wittvector	7	6	30
+377739	4	0	Gray Pink (6 Suits)	2020-12-21 — 10:40:04 UTC	katian, Lel0uch, orucsoraihc, Wittvector	12	6	30
+377733	4	0	Light Pink (4 Suits)	2020-12-21 — 10:20:29 UTC	doctorabi, katian, orucsoraihc, Wittvector	15	4	20
+376748	4	0	Black & Brown (6 Suits)	2020-12-20 — 12:21:31 UTC	Lanvin, orucsoraihc, Plum, sephiroth	11	6	30
+376746	4	0	Black & Brown (6 Suits)	2020-12-20 — 12:16:53 UTC	Lanvin, orucsoraihc, Plum, sephiroth	12	6	30
+375881	3	0	Pink (5 Suits)	2020-12-19 — 19:09:03 UTC	Lanvin, orucsoraihc, rachyrules	43	5	25
+375730	3	30	White (6 Suits)	2020-12-19 — 11:42:11 UTC	Div, jack67889, orucsoraihc	124	6	30
+374727	3	28	6 Suits	2020-12-18 — 15:13:35 UTC	kinkajusrevenge, orucsoraihc, PMP	147	6	30
+374706	3	30	6 Suits	2020-12-18 — 14:38:36 UTC	kinkajusrevenge, orucsoraihc, PMP	168	6	30
+374598	3	20	Rainbow (4 Suits)	2020-12-18 — 07:39:44 UTC	Fey, MarcLovesDogs, orucsoraihc	43	4	20
+374589	3	19	Rainbow (4 Suits)	2020-12-18 — 07:14:52 UTC	Fey, MarcLovesDogs, orucsoraihc	46	4	20
+374540	4	0	Dark Rainbow (6 Suits)	2020-12-18 — 06:14:52 UTC	jack_0f_hearts, kodomazer, orucsoraihc, voss	53	6	30
+374516	3	0	Dark Rainbow (6 Suits)	2020-12-18 — 05:54:54 UTC	kodomazer, orucsoraihc, voss	62	6	30
+374500	3	0	Dark Rainbow (6 Suits)	2020-12-18 — 05:35:06 UTC	kodomazer, orucsoraihc, voss	77	6	30
+373739	3	25	Omni (5 Suits)	2020-12-17 — 13:53:13 UTC	frosty104, orucsoraihc, StKildaFan	50	5	25
+373732	3	15	Brown (3 Suits)	2020-12-17 — 13:30:38 UTC	frosty104, orucsoraihc, StKildaFan	23	3	15
+373729	3	13	Brown (3 Suits)	2020-12-17 — 13:19:14 UTC	frosty104, orucsoraihc, StKildaFan	29	3	15
+373723	3	30	Muddy Rainbow (6 Suits)	2020-12-17 — 12:42:53 UTC	MarkusKahlsen, orucsoraihc, StKildaFan	49	6	30
+373710	3	25	Muddy Rainbow & Light Pink (5 Suits)	2020-12-17 — 11:49:26 UTC	level_17, methmatics, orucsoraihc	7	5	25
+373684	4	15	Prism (3 Suits)	2020-12-17 — 09:30:31 UTC	frosty104, IAMJEFF, katian, orucsoraihc	3	3	15
+373680	3	0	Rainbow & Muddy Rainbow (6 Suits)	2020-12-17 — 09:10:34 UTC	IAMJEFF, Lel0uch, orucsoraihc	6	6	30
+373634	5	18	Rainbow & Brown (4 Suits)	2020-12-17 — 07:15:06 UTC	doctorabi, frosty104, HelanaAshryvr, melwen, orucsoraihc	1	4	20
+373625	4	0	4 Suits	2020-12-17 — 06:42:46 UTC	ejwu, Onen, orucsoraihc, timotree	8	4	20
+373613	4	0	4 Suits	2020-12-17 — 06:16:43 UTC	ejwu, Onen, orucsoraihc, timotree	7	4	20
+373603	4	0	4 Suits	2020-12-17 — 05:59:53 UTC	ejwu, Onen, orucsoraihc, timotree	8	4	20
+373596	4	0	4 Suits	2020-12-17 — 05:53:35 UTC	ejwu, Onen, orucsoraihc, timotree	10	4	20
+373595	4	0	4 Suits	2020-12-17 — 05:50:44 UTC	ejwu, Onen, orucsoraihc, timotree	10	4	20
+373591	4	0	4 Suits	2020-12-17 — 05:47:26 UTC	ejwu, Onen, orucsoraihc, timotree	12	4	20
+373588	4	0	4 Suits	2020-12-17 — 05:43:16 UTC	ejwu, Onen, orucsoraihc, timotree	13	4	20
+373582	4	0	4 Suits	2020-12-17 — 05:36:37 UTC	ejwu, Onen, orucsoraihc, timotree	38	4	20
+373578	4	0	4 Suits	2020-12-17 — 05:32:13 UTC	ejwu, Fey, orucsoraihc, timotree	51	4	20
+373567	4	0	4 Suits	2020-12-17 — 05:20:19 UTC	ejwu, Fey, orucsoraihc, timotree	77	4	20
+373535	2	25	No Variant	2020-12-17 — 04:44:02 UTC	ejwu, orucsoraihc	526	5	25
+373530	2	0	No Variant	2020-12-17 — 04:38:33 UTC	ejwu, orucsoraihc	549	5	25
+373528	2	0	No Variant	2020-12-17 — 04:35:40 UTC	ejwu, orucsoraihc	555	5	25
+372888	6	29	Dual-Color & Prism (6 Suits)	2020-12-16 — 17:20:27 UTC	kevincaseytdk1, Kyle, orucsoraihc, postmans, TimeHoodie, Wittvector	2	6	30
+372701	4	25	Rainbow (5 Suits)	2020-12-16 — 08:56:27 UTC	ksfortson, MarcLovesDogs, orucsoraihc, StKildaFan	32	5	25
+372614	5	24	White (5 Suits)	2020-12-16 — 06:22:18 UTC	doctorabi, Fey, Onen, orucsoraihc, voss	6	5	25
+372021	4	20	White (4 Suits)	2020-12-15 — 19:07:18 UTC	Fey, orucsoraihc, ricardodd, timotree	13	4	20
+372002	4	26	White (6 Suits)	2020-12-15 — 18:38:11 UTC	eljavi, orucsoraihc, ricardodd, Wittvector	41	6	30
+371754	5	25	Pink (5 Suits)	2020-12-15 — 12:21:10 UTC	derekcheah, frosty104, Lel0uch, orucsoraihc, StKildaFan	12	5	25
+371750	4	0	Rainbow & Light Pink (6 Suits)	2020-12-15 — 11:59:42 UTC	derekcheah, frosty104, Lel0uch, orucsoraihc	4	6	30
+371747	4	0	Rainbow & Light Pink (6 Suits)	2020-12-15 — 11:47:40 UTC	derekcheah, frosty104, Lel0uch, orucsoraihc	5	6	30
+371720	3	24	Rainbow (5 Suits)	2020-12-15 — 09:12:23 UTC	frosty104, katian, orucsoraihc	50	5	25
+371717	3	0	Rainbow (5 Suits)	2020-12-15 — 08:44:31 UTC	frosty104, katian, orucsoraihc	116	5	25
+371644	3	0	Rainbow (5 Suits)	2020-12-15 — 06:14:49 UTC	eljavi, FerKeth, orucsoraihc	84	5	25
+371379	3	0	Special Mix (5 Suits)	2020-12-15 — 03:04:23 UTC	HelanaAshryvr, jeff10, orucsoraihc	30	5	25
+371358	3	0	Special Mix (5 Suits)	2020-12-15 — 02:40:54 UTC	HelanaAshryvr, jeff10, orucsoraihc	38	5	25
+371338	3	0	No Variant	2020-12-15 — 02:20:32 UTC	HelanaAshryvr, jeff10, orucsoraihc	201	5	25
+370797	4	30	Black & Omni (6 Suits)	2020-12-14 — 10:24:32 UTC	doctorabi, melwen, orucsoraihc, pianoblook	7	6	30
+370793	3	15	Omni (3 Suits)	2020-12-14 — 09:45:13 UTC	doctorabi, orucsoraihc, pianoblook	8	3	15
+370790	3	0	Omni (3 Suits)	2020-12-14 — 09:35:37 UTC	doctorabi, orucsoraihc, pianoblook	11	3	15
+370789	3	0	Omni (3 Suits)	2020-12-14 — 09:33:00 UTC	doctorabi, orucsoraihc, pianoblook	14	3	15
+370692	5	18	Reversed (4 Suits)	2020-12-14 — 05:32:32 UTC	doctorabi, Fey, Kyle, orucsoraihc, Smandon	1	4	20
+370684	3	0	Black (6 Suits)	2020-12-14 — 05:16:01 UTC	Fey, Kyle, orucsoraihc	38	6	30
+370210	4	0	Dark Rainbow (5 Suits)	2020-12-13 — 21:00:50 UTC	doctorabi, frosty104, orucsoraihc, rz	8	5	25
+370114	5	24	No Variant	2020-12-13 — 19:20:03 UTC	Fey, frosty104, ksfortson, orucsoraihc, rake	45	5	25
+369831	5	0	Dual-Color Mix	2020-12-13 — 11:39:06 UTC	frosty104, Lel0uch, level_17, orucsoraihc, StKildaFan	7	6	30
+369829	4	30	Brown (6 Suits)	2020-12-13 — 11:11:22 UTC	Fey, Lel0uch, orucsoraihc, StKildaFan	16	6	30
+369806	4	0	Dual-Color & Light Pink (6 Suits)	2020-12-13 — 09:01:57 UTC	doctorabi, methmatics, orucsoraihc, robense	2	6	30
+369804	4	0	Dual-Color & Light Pink (6 Suits)	2020-12-13 — 08:48:36 UTC	doctorabi, methmatics, orucsoraihc, robense	2	6	30
+369800	4	0	Dual-Color & Light Pink (6 Suits)	2020-12-13 — 08:31:43 UTC	doctorabi, methmatics, orucsoraihc, robense	2	6	30
+369785	3	0	Dual-Color & Light Pink (6 Suits)	2020-12-13 — 08:11:56 UTC	methmatics, orucsoraihc, robense	3	6	30
+369698	4	0	Dark Rainbow (5 Suits)	2020-12-13 — 06:08:07 UTC	doctorabi, ejwu, Onen, orucsoraihc	13	5	25
+369686	3	0	Dark Rainbow (5 Suits)	2020-12-13 — 05:52:41 UTC	doctorabi, ejwu, orucsoraihc	25	5	25
+369655	4	28	Dual-Color (6 Suits)	2020-12-13 — 05:28:16 UTC	doctorabi, ejwu, orucsoraihc, wump	39	6	30
+369618	5	0	Dual-Color (6 Suits)	2020-12-13 — 04:44:22 UTC	doctorabi, ejwu, orucsoraihc, rz, wump	11	6	30
+368917	2	0	Gray (6 Suits)	2020-12-12 — 15:03:50 UTC	orucsoraihc, StKildaFan	7	6	30
+368914	2	28	Gray (6 Suits)	2020-12-12 — 14:54:44 UTC	orucsoraihc, StKildaFan	7	6	30
+368911	2	0	Gray (6 Suits)	2020-12-12 — 14:45:42 UTC	orucsoraihc, StKildaFan	7	6	30
+368907	2	30	Gray (6 Suits)	2020-12-12 — 14:37:52 UTC	orucsoraihc, StKildaFan	7	6	30
+368905	2	0	Gray (6 Suits)	2020-12-12 — 14:27:41 UTC	orucsoraihc, StKildaFan	7	6	30
+368903	2	0	Gray (6 Suits)	2020-12-12 — 14:23:53 UTC	orucsoraihc, StKildaFan	7	6	30
+368898	2	0	Gray (6 Suits)	2020-12-12 — 14:16:57 UTC	orucsoraihc, StKildaFan	7	6	30
+368897	2	0	Gray (6 Suits)	2020-12-12 — 14:14:26 UTC	orucsoraihc, StKildaFan	7	6	30
+368894	2	0	Gray (6 Suits)	2020-12-12 — 14:10:02 UTC	orucsoraihc, StKildaFan	7	6	30
+368893	2	0	Gray (6 Suits)	2020-12-12 — 14:01:22 UTC	orucsoraihc, StKildaFan	7	6	30
+368890	2	0	Gray (6 Suits)	2020-12-12 — 13:50:58 UTC	orucsoraihc, StKildaFan	8	6	30
+368887	2	0	Gray (6 Suits)	2020-12-12 — 13:42:31 UTC	orucsoraihc, StKildaFan	8	6	30
+368886	2	0	Gray (6 Suits)	2020-12-12 — 13:38:58 UTC	orucsoraihc, StKildaFan	9	6	30
+368885	2	0	Gray (6 Suits)	2020-12-12 — 13:35:56 UTC	orucsoraihc, StKildaFan	9	6	30
+368884	2	0	Gray (6 Suits)	2020-12-12 — 13:30:14 UTC	orucsoraihc, StKildaFan	10	6	30
+368824	2	0	Gray (6 Suits)	2020-12-12 — 10:52:55 UTC	orucsoraihc, robense	11	6	30
+368823	2	0	Gray (6 Suits)	2020-12-12 — 10:47:12 UTC	orucsoraihc, robense	11	6	30
+368820	2	0	Gray (6 Suits)	2020-12-12 — 10:44:10 UTC	orucsoraihc, robense	13	6	30
+368817	2	30	Gray (6 Suits)	2020-12-12 — 10:39:16 UTC	orucsoraihc, robense	14	6	30
+368802	6	0	No Variant	2020-12-12 — 10:05:22 UTC	derekcheah, GodMagneto, micerang, orucsoraihc, pianoblook, StKildaFan	23	5	25
+368770	4	30	Gray (6 Suits)	2020-12-12 — 09:21:54 UTC	derekcheah, orucsoraihc, pianoblook, piper	1	6	30
+368729	4	30	Black & Pink (6 Suits)	2020-12-12 — 08:28:55 UTC	doctorabi, orucsoraihc, pianoblook, piper	13	6	30
+368673	3	30	Gray (6 Suits)	2020-12-12 — 06:53:02 UTC	esakach, jack_0f_hearts, orucsoraihc	23	6	30
+368629	3	29	Gray (6 Suits)	2020-12-12 — 06:05:42 UTC	esakach, jack_0f_hearts, orucsoraihc	21	6	30
+368585	3	0	Gray (6 Suits)	2020-12-12 — 05:27:18 UTC	esakach, jack_0f_hearts, orucsoraihc	30	6	30
+368522	3	0	Gray (6 Suits)	2020-12-12 — 05:02:09 UTC	esakach, jack_0f_hearts, orucsoraihc	55	6	30
+368278	4	0	Gray (6 Suits)	2020-12-12 — 01:36:41 UTC	Carunty, derekcheah, kodomazer, orucsoraihc	29	6	30
+368254	3	0	Gray (6 Suits)	2020-12-12 — 01:07:25 UTC	derekcheah, Livia, orucsoraihc	20	6	30
+367761	3	0	Duck (5 Suits)	2020-12-11 — 13:02:59 UTC	katian, orucsoraihc, sin_faith	9	5	25
+367745	5	29	Gray (6 Suits)	2020-12-11 — 12:38:44 UTC	kodomazer, Lel0uch, orucsoraihc, sin_faith, StKildaFan	10	6	30
+367737	3	0	Gray (6 Suits)	2020-12-11 — 12:24:38 UTC	Lel0uch, orucsoraihc, StKildaFan	42	6	30
+367727	3	0	Gray (6 Suits)	2020-12-11 — 12:12:27 UTC	Lel0uch, orucsoraihc, StKildaFan	45	6	30
+367719	3	0	Gray (6 Suits)	2020-12-11 — 12:03:28 UTC	Lel0uch, orucsoraihc, StKildaFan	48	6	30
+367718	2	0	Gray (6 Suits)	2020-12-11 — 11:59:32 UTC	orucsoraihc, StKildaFan	14	6	30
+367714	2	0	Gray (6 Suits)	2020-12-11 — 11:55:47 UTC	orucsoraihc, StKildaFan	15	6	30
+367713	2	0	Gray (6 Suits)	2020-12-11 — 11:53:10 UTC	orucsoraihc, StKildaFan	14	6	30
+367709	2	0	Gray (6 Suits)	2020-12-11 — 11:46:57 UTC	orucsoraihc, StKildaFan	14	6	30
+367706	2	29	Gray (6 Suits)	2020-12-11 — 11:38:57 UTC	orucsoraihc, StKildaFan	17	6	30
+367700	2	29	Gray (6 Suits)	2020-12-11 — 11:27:43 UTC	orucsoraihc, StKildaFan	22	6	30
+367695	2	0	Gray (6 Suits)	2020-12-11 — 11:17:23 UTC	orucsoraihc, StKildaFan	24	6	30
+367690	2	0	Gray (6 Suits)	2020-12-11 — 11:10:31 UTC	orucsoraihc, StKildaFan	27	6	30
+367687	2	0	Gray (6 Suits)	2020-12-11 — 11:03:01 UTC	orucsoraihc, StKildaFan	27	6	30
+367685	2	0	Gray (6 Suits)	2020-12-11 — 10:56:26 UTC	orucsoraihc, StKildaFan	29	6	30
+367684	2	0	Gray (6 Suits)	2020-12-11 — 10:50:43 UTC	orucsoraihc, StKildaFan	29	6	30
+367682	2	0	Gray (6 Suits)	2020-12-11 — 10:44:59 UTC	orucsoraihc, StKildaFan	32	6	30
+367680	2	28	Gray (6 Suits)	2020-12-11 — 10:39:51 UTC	orucsoraihc, StKildaFan	33	6	30
+367678	2	0	Gray (6 Suits)	2020-12-11 — 10:30:32 UTC	orucsoraihc, StKildaFan	33	6	30
+367675	2	0	Gray (6 Suits)	2020-12-11 — 10:25:17 UTC	orucsoraihc, StKildaFan	37	6	30
+367672	2	0	Gray (6 Suits)	2020-12-11 — 10:17:38 UTC	orucsoraihc, StKildaFan	39	6	30
+367669	2	0	Gray (6 Suits)	2020-12-11 — 10:09:48 UTC	orucsoraihc, StKildaFan	40	6	30
+367665	2	0	Gray (6 Suits)	2020-12-11 — 10:02:34 UTC	orucsoraihc, StKildaFan	41	6	30
+367660	4	27	Dual-Color & Black (6 Suits)	2020-12-11 — 09:43:09 UTC	newduke, orucsoraihc, Pablo-, StKildaFan	3	6	30
+367651	4	0	Dual-Color & Black (6 Suits)	2020-12-11 — 09:19:11 UTC	newduke, orucsoraihc, Pablo-, StKildaFan	4	6	30
+367649	4	0	Dual-Color & Black (6 Suits)	2020-12-11 — 09:06:35 UTC	newduke, orucsoraihc, Pablo-, StKildaFan	4	6	30
+367642	4	0	Dual-Color & Black (6 Suits)	2020-12-11 — 08:49:55 UTC	newduke, orucsoraihc, Pablo-, StKildaFan	5	6	30
+367637	4	25	Dual-Color (5 Suits)	2020-12-11 — 08:33:50 UTC	newduke, orucsoraihc, Pablo-, StKildaFan	8	5	25
+367626	4	0	Dual-Color (5 Suits)	2020-12-11 — 08:17:20 UTC	newduke, orucsoraihc, Pablo-, StKildaFan	13	5	25
+367623	4	25	Brown (5 Suits)	2020-12-11 — 08:06:34 UTC	doctorabi, newduke, orucsoraihc, StKildaFan	27	5	25
+367604	3	20	White (4 Suits)	2020-12-11 — 07:28:32 UTC	ksfortson, Onen, orucsoraihc	46	4	20
+367554	5	18	Dual-Color & Rainbow (4 Suits)	2020-12-11 — 05:58:02 UTC	derekcheah, doctorabi, Lel0uch, orucsoraihc, voss	3	4	20
+367521	5	0	Up or Down & Brown (5 Suits)	2020-12-11 — 05:07:46 UTC	derekcheah, doctorabi, Lel0uch, melwen, orucsoraihc	2	5	25
+367500	4	21	Dark Prism (5 Suits)	2020-12-11 — 04:38:25 UTC	esakach, Lel0uch, melwen, orucsoraihc	1	5	25
+367489	4	0	Dark Prism (5 Suits)	2020-12-11 — 04:19:00 UTC	esakach, Lel0uch, melwen, orucsoraihc	1	5	25
+367482	4	0	Dark Prism (5 Suits)	2020-12-11 — 04:12:49 UTC	esakach, Lel0uch, melwen, orucsoraihc	2	5	25
+367477	5	0	Dark Prism (5 Suits)	2020-12-11 — 04:06:57 UTC	esakach, Lel0uch, melwen, orucsoraihc, XMIL	3	5	25
+367443	5	21	Dark Prism (5 Suits)	2020-12-11 — 03:33:38 UTC	esakach, Lel0uch, melwen, orucsoraihc, XMIL	5	5	25
+367064	4	19	Brown (4 Suits)	2020-12-10 — 21:50:47 UTC	bob65536, ChristopheAF, doctorabi, orucsoraihc	9	4	20
+366720	5	23	Dual-Color (5 Suits)	2020-12-10 — 09:16:34 UTC	doctorabi, frosty104, jack67889, Lel0uch, orucsoraihc	15	5	25
+366713	3	20	Pink & Prism (4 Suits)	2020-12-10 — 08:44:07 UTC	doctorabi, Lel0uch, orucsoraihc	5	4	20
+366707	4	0	Dark Brown (5 Suits)	2020-12-10 — 08:23:04 UTC	doctorabi, Fey, orucsoraihc, sephiroth	4	5	25
+366376	3	30	Dual-Color & Black (6 Suits)	2020-12-10 — 00:17:37 UTC	MarkusKahlsen, orucsoraihc, sephiroth	3	6	30
+365985	3	0	Dual-Color Mix	2020-12-09 — 16:56:25 UTC	jack67889, Nitrate2, orucsoraihc	25	6	30
+365967	3	0	Dual-Color Mix	2020-12-09 — 16:17:51 UTC	jack67889, Nitrate2, orucsoraihc	29	6	30
+365677	5	0	Dual-Color & Prism (6 Suits)	2020-12-09 — 12:17:27 UTC	derekcheah, frosty104, orucsoraihc, robense, sin_faith	3	6	30
+365641	4	30	Dual-Color & Rainbow (6 Suits)	2020-12-09 — 11:44:06 UTC	derekcheah, frosty104, methmatics, orucsoraihc	5	6	30
+365607	3	30	Dual-Color & Rainbow (6 Suits)	2020-12-09 — 11:06:45 UTC	frosty104, methmatics, orucsoraihc	24	6	30
+365590	2	30	6 Suits	2020-12-09 — 10:28:10 UTC	frosty104, orucsoraihc	340	6	30
+365587	3	20	Rainbow & Pink (4 Suits)	2020-12-09 — 10:11:47 UTC	frosty104, Lel0uch, orucsoraihc	11	4	20
+365485	3	25	Dual-Color (5 Suits)	2020-12-09 — 06:17:18 UTC	IsabeltheCat, orucsoraihc, vEnhance	69	5	25
+365460	4	20	Up or Down & Prism (5 Suits)	2020-12-09 — 05:41:19 UTC	Fey, IsabeltheCat, orucsoraihc, vEnhance	12	5	25
+365179	4	30	Black (6 Suits)	2020-12-09 — 02:10:50 UTC	Animex52, aquarelle, methmatics, orucsoraihc	90	6	30
+365130	4	0	Rainbow (6 Suits)	2020-12-09 — 01:46:55 UTC	andre_smaira, Animex52, methmatics, orucsoraihc	91	6	30
+365033	4	14	3 Suits	2020-12-09 — 00:19:04 UTC	BarneyRubble, bjnh, Onen, orucsoraihc	37	3	15
+365030	3	30	Black (6 Suits)	2020-12-09 — 00:05:04 UTC	bjnh, Onen, orucsoraihc	149	6	30
+365022	3	0	No Variant	2020-12-08 — 23:47:55 UTC	bjnh, Onen, orucsoraihc	213	5	25
+365011	3	0	No Variant	2020-12-08 — 23:37:18 UTC	bjnh, Onen, orucsoraihc	224	5	25
+364997	3	25	No Variant	2020-12-08 — 23:19:51 UTC	bjnh, Onen, orucsoraihc	269	5	25
+364820	4	0	Pink & Omni (5 Suits)	2020-12-08 — 21:02:47 UTC	ChristopheAF, HelanaAshryvr, Lel0uch, orucsoraihc	6	5	25
+364535	6	0	No Variant	2020-12-08 — 09:49:43 UTC	frosty104, GemmyBean, katian, methmatics, orucsoraihc, zeinab001	7	5	25
+364313	5	0	No Variant	2020-12-08 — 04:01:37 UTC	doctorabi, Kyle, orucsoraihc, ricardodd, swineherd	23	5	25
+364275	3	24	Dark Pink (5 Suits)	2020-12-08 — 03:34:42 UTC	doctorabi, ejwu, orucsoraihc	11	5	25
+364213	4	24	Prism (5 Suits)	2020-12-08 — 02:39:35 UTC	colton, doctorabi, hailey, orucsoraihc	14	5	25
+364173	4	0	Prism (5 Suits)	2020-12-08 — 02:04:24 UTC	colton, doctorabi, hailey, orucsoraihc	20	5	25
+364163	5	0	Prism (6 Suits)	2020-12-08 — 01:51:17 UTC	colton, doctorabi, hailey, orucsoraihc, swineherd	8	6	30
+363428	3	25	No Variant	2020-12-07 — 11:30:25 UTC	catula, GemmyBean, orucsoraihc	275	5	25
+363302	5	24	Rainbow (5 Suits)	2020-12-07 — 07:50:45 UTC	doctorabi, eljavi, Lel0uch, MarcLovesDogs, orucsoraihc	14	5	25
+363024	3	23	No Variant	2020-12-07 — 01:46:58 UTC	orucsoraihc, ricardodd, xmaiton	285	5	25
+362851	3	25	No Variant	2020-12-06 — 23:05:07 UTC	orucsoraihc, Peppix222, ricardodd	307	5	25
+362737	3	0	Dark Rainbow (5 Suits)	2020-12-06 — 21:09:59 UTC	frosty104, Onen, orucsoraihc	36	5	25
+362433	4	23	No Variant	2020-12-06 — 12:21:14 UTC	BillaVGC, ChristopheAF, orucsoraihc, wortel	81	5	25
+362417	3	0	No Variant	2020-12-06 — 11:27:28 UTC	BillaVGC, ChristopheAF, orucsoraihc	320	5	25
+362388	3	22	No Variant	2020-12-06 — 10:25:45 UTC	BillaVGC, ChristopheAF, orucsoraihc	344	5	25
+362377	3	24	Dual-Color (5 Suits)	2020-12-06 — 09:56:05 UTC	catula, derekcheah, orucsoraihc	18	5	25
+362371	3	0	Dual-Color (5 Suits)	2020-12-06 — 09:32:40 UTC	catula, derekcheah, orucsoraihc	24	5	25
+362358	4	29	Black & Omni (6 Suits)	2020-12-06 — 09:00:32 UTC	asaelr, catula, derekcheah, orucsoraihc	9	6	30
+362322	3	30	Dual-Color & White (6 Suits)	2020-12-06 — 08:24:32 UTC	asaelr, derekcheah, orucsoraihc	4	6	30
+362306	3	28	Dual-Color & White (6 Suits)	2020-12-06 — 07:57:03 UTC	asaelr, derekcheah, orucsoraihc	10	6	30
+362225	3	22	No Variant	2020-12-06 — 06:06:12 UTC	Feer, jeff10, orucsoraihc	46	5	25
+362217	3	0	No Variant	2020-12-06 — 05:59:45 UTC	Feer, jeff10, orucsoraihc	53	5	25
+362213	3	24	No Variant	2020-12-06 — 05:54:36 UTC	Feer, jeff10, orucsoraihc	60	5	25
+362208	3	24	No Variant	2020-12-06 — 05:47:53 UTC	Feer, jeff10, orucsoraihc	61	5	25
+362204	3	0	No Variant	2020-12-06 — 05:43:05 UTC	Feer, jeff10, orucsoraihc	63	5	25
+362201	3	0	No Variant	2020-12-06 — 05:39:33 UTC	Feer, jeff10, orucsoraihc	66	5	25
+362195	3	22	No Variant	2020-12-06 — 05:35:28 UTC	Feer, jeff10, orucsoraihc	71	5	25
+362187	3	0	No Variant	2020-12-06 — 05:29:40 UTC	Feer, jeff10, orucsoraihc	74	5	25
+361987	2	25	Brown (5 Suits)	2020-12-06 — 01:50:34 UTC	orucsoraihc, StKildaFan	21	5	25
+361979	2	24	Brown (5 Suits)	2020-12-06 — 01:40:05 UTC	orucsoraihc, StKildaFan	24	5	25
+361969	2	20	Pink (4 Suits)	2020-12-06 — 01:29:59 UTC	orucsoraihc, StKildaFan	105	4	20
+361751	4	22	No Variant	2020-12-05 — 21:04:40 UTC	Doge, flaaffy, Onen, orucsoraihc	257	5	25
+361498	4	25	No Variant	2020-12-05 — 09:54:12 UTC	Darshan, frosty104, orucsoraihc, voss	233	5	25
+360654	4	19	Rainbow & Brown (4 Suits)	2020-12-04 — 19:06:45 UTC	Carunty, macanek, orucsoraihc, swineherd	11	4	20
+360606	4	23	Muddy Rainbow (5 Suits)	2020-12-04 — 18:10:46 UTC	bob65536, Lanvin, orucsoraihc, PMP	23	5	25
+360160	4	0	Rainbow (6 Suits)	2020-12-04 — 02:32:56 UTC	Jake_Stiles, orucsoraihc, rz, wump	50	6	30
+359859	4	24	White (5 Suits)	2020-12-03 — 18:37:10 UTC	Lanvin, macanek, orucsoraihc, swineherd	32	5	25
+359825	3	0	Light-Pink-Ones & Prism (6 Suits)	2020-12-03 — 16:47:53 UTC	kevincaseytdk1, orucsoraihc, TimeHoodie	1	6	30
+359819	5	19	Rainbow & White (4 Suits)	2020-12-03 — 16:23:58 UTC	doctorabi, Fey, Lel0uch, orucsoraihc, TimeHoodie	4	4	20
+359712	5	0	Duck (5 Suits)	2020-12-03 — 07:02:36 UTC	Animex52, colton, nitawa, orucsoraihc, StKildaFan	9	5	25
+359565	4	0	No Variant	2020-12-03 — 05:14:54 UTC	esakach, orucsoraihc, roonsta820, voss	243	5	25
+359229	4	25	No Variant	2020-12-02 — 22:47:03 UTC	Daryl, Lanvin, orucsoraihc, Peppix222	278	5	25
+359176	4	23	No Variant	2020-12-02 — 21:19:06 UTC	Daryl, Lanvin, orucsoraihc, Peppix222	287	5	25
+359006	3	25	Brown (5 Suits)	2020-12-02 — 17:31:35 UTC	hanabornoob, orucsoraihc, Wittvector	38	5	25
+358601	3	25	White & Prism (5 Suits)	2020-12-02 — 00:22:04 UTC	melwen, Onen, orucsoraihc	7	5	25
+358599	3	0	White & Prism (5 Suits)	2020-12-02 — 00:06:10 UTC	melwen, Onen, orucsoraihc	10	5	25
+358594	3	0	White & Prism (5 Suits)	2020-12-02 — 00:00:10 UTC	melwen, Onen, orucsoraihc	16	5	25
+358473	5	25	No Variant	2020-12-01 — 20:23:01 UTC	flaaffy, orucsoraihc, timotree, vEnhance, XMIL	11	5	25
+358417	3	25	No Variant	2020-12-01 — 19:31:52 UTC	flaaffy, orucsoraihc, timotree	16	5	25
+358401	6	0	Black (5 Suits)	2020-12-01 — 19:07:32 UTC	bob65536, doctorabi, Kyle, orucsoraihc, postmans, willwin4sure	3	5	25
+358157	3	25	Pink & Cocoa Rainbow (5 Suits)	2020-12-01 — 08:22:48 UTC	Div, doctorabi, orucsoraihc	1	5	25
+358145	3	0	Pink & Cocoa Rainbow (5 Suits)	2020-12-01 — 08:01:24 UTC	Div, doctorabi, orucsoraihc	1	5	25
+358142	3	0	Pink & Cocoa Rainbow (5 Suits)	2020-12-01 — 07:45:04 UTC	Div, doctorabi, orucsoraihc	1	5	25
+358139	3	23	Pink & Cocoa Rainbow (5 Suits)	2020-12-01 — 07:22:37 UTC	doctorabi, orucsoraihc, StKildaFan	1	5	25
+357405	6	25	Rainbow (5 Suits)	2020-11-30 — 06:11:26 UTC	doctorabi, HelanaAshryvr, katian, Lel0uch, orucsoraihc, Romain672	7	5	25
+357391	5	0	Black (5 Suits)	2020-11-30 — 05:47:21 UTC	doctorabi, frosty104, orucsoraihc, StKildaFan, voss	27	5	25
+357380	5	0	Black (5 Suits)	2020-11-30 — 05:33:06 UTC	frosty104, ksfortson, Onen, orucsoraihc, StKildaFan	17	5	25
+357376	3	0	Black (6 Suits)	2020-11-30 — 05:27:20 UTC	Onen, orucsoraihc, StKildaFan	125	6	30
+357370	3	0	Black (6 Suits)	2020-11-30 — 05:19:01 UTC	Onen, orucsoraihc, StKildaFan	134	6	30
+357351	2	30	White (6 Suits)	2020-11-30 — 05:03:44 UTC	orucsoraihc, StKildaFan	77	6	30
+357328	2	30	White (6 Suits)	2020-11-30 — 04:42:27 UTC	orucsoraihc, StKildaFan	100	6	30
+357297	2	0	White (6 Suits)	2020-11-30 — 04:24:20 UTC	orucsoraihc, StKildaFan	123	6	30
+357281	2	30	White (6 Suits)	2020-11-30 — 04:15:45 UTC	orucsoraihc, StKildaFan	184	6	30
+356504	3	30	Black & Pink (6 Suits)	2020-11-29 — 04:33:40 UTC	Carunty, Fey, orucsoraihc	25	6	30
+355874	5	0	Black (5 Suits)	2020-11-28 — 13:18:24 UTC	Carunty, Lel0uch, orucsoraihc, rachyrules, StKildaFan	30	5	25
+355871	6	18	Light Pink (4 Suits)	2020-11-28 — 13:03:07 UTC	Carunty, Lel0uch, orucsoraihc, rachyrules, robense, StKildaFan	2	4	20
+355310	5	0	Rainbow (6 Suits)	2020-11-27 — 20:49:42 UTC	doctorabi, ejwu, jeff10, orucsoraihc, rachyrules	67	6	30
+354606	6	0	Rainbow (4 Suits)	2020-11-26 — 22:21:33 UTC	bob65536, ejwu, Feich59, jeff10, orucsoraihc, Wittvector	6	4	20
+354586	4	0	Light Pink (5 Suits)	2020-11-26 — 21:39:41 UTC	doctorabi, orucsoraihc, Sucubis, Wittvector	20	5	25
+354538	3	0	Special Mix (5 Suits)	2020-11-26 — 20:25:47 UTC	doctorabi, jeff10, orucsoraihc	48	5	25
+354526	3	0	Prism (4 Suits)	2020-11-26 — 19:58:05 UTC	doctorabi, jeff10, orucsoraihc	13	4	20
+354327	4	0	Dark Pink (6 Suits)	2020-11-26 — 11:23:15 UTC	doctorabi, frosty104, orucsoraihc, robense	18	6	30
+354325	4	0	Dark Pink (6 Suits)	2020-11-26 — 11:10:24 UTC	doctorabi, frosty104, orucsoraihc, robense	23	6	30
+354321	4	30	Dark Pink (6 Suits)	2020-11-26 — 10:51:33 UTC	catula, derekcheah, orucsoraihc, sin_faith	29	6	30
+353912	3	21	No Variant	2020-11-26 — 00:34:21 UTC	doctorabi, orucsoraihc, voss	100	5	25
+353903	2	0	No Variant	2020-11-26 — 00:11:51 UTC	orucsoraihc, voss	381	5	25
+353899	3	23	No Variant	2020-11-25 — 23:53:22 UTC	orucsoraihc, voss, wump	110	5	25
+353410	5	30	Black (6 Suits)	2020-11-25 — 08:32:59 UTC	Carunty, frosty104, orucsoraihc, StKildaFan, wump	23	6	30
+351618	5	24	Rainbow (5 Suits)	2020-11-23 — 07:56:15 UTC	doctorabi, ksfortson, Lel0uch, orucsoraihc, sin_faith	17	5	25
+351613	5	0	Rainbow (5 Suits)	2020-11-23 — 07:33:11 UTC	doctorabi, ksfortson, Lel0uch, orucsoraihc, sin_faith	23	5	25
+351611	4	25	No Variant	2020-11-23 — 07:18:02 UTC	doctorabi, orucsoraihc, sin_faith, wump	36	5	25
+350656	5	21	No Variant	2020-11-22 — 08:56:28 UTC	duckmedic, ksfortson, orucsoraihc, rz, wump	51	5	25
+350646	5	0	Prism (6 Suits)	2020-11-22 — 08:23:27 UTC	duckmedic, ksfortson, orucsoraihc, rz, wump	5	6	30
+350639	5	0	Prism (6 Suits)	2020-11-22 — 08:09:09 UTC	duckmedic, ksfortson, orucsoraihc, rz, wump	5	6	30
+350638	5	0	Prism (6 Suits)	2020-11-22 — 08:06:08 UTC	duckmedic, ksfortson, orucsoraihc, rz, wump	7	6	30
+350623	5	20	Special Mix (5 Suits)	2020-11-22 — 07:28:33 UTC	duckmedic, ksfortson, orucsoraihc, rz, wump	16	5	25
+349887	5	0	Muddy Rainbow (5 Suits)	2020-11-21 — 20:41:48 UTC	doctorabi, ejwu, MarkusKahlsen, orucsoraihc, swineherd	14	5	25
+349864	4	20	Brown (4 Suits)	2020-11-21 — 20:10:19 UTC	doctorabi, ejwu, MarkusKahlsen, orucsoraihc	22	4	20
+349846	3	25	Pink-Fives & Light Pink (5 Suits)	2020-11-21 — 19:42:21 UTC	doctorabi, MarkusKahlsen, orucsoraihc	2	5	25
+349605	3	15	Muddy Rainbow (3 Suits)	2020-11-21 — 08:54:15 UTC	Carunty, derekcheah, orucsoraihc	13	3	15
+349599	3	15	Pink (3 Suits)	2020-11-21 — 08:37:28 UTC	Carunty, derekcheah, orucsoraihc	13	3	15
+347316	5	22	Pink (5 Suits)	2020-11-18 — 22:24:45 UTC	ejwu, kevincaseytdk1, orucsoraihc, rachyrules, SriWang	14	5	25
+347282	6	21	No Variant	2020-11-18 — 21:29:07 UTC	ejwu, I_am_a_L00Zer, jeff10, kevincaseytdk1, orucsoraihc, rachyrules	478	5	25
+347157	4	0	Dual-Color & White (6 Suits)	2020-11-18 — 18:42:55 UTC	Onen, orucsoraihc, rz, wump	8	6	30
+347128	5	25	No Variant	2020-11-18 — 18:04:57 UTC	Lel0uch, Onen, orucsoraihc, rz, wump	60	5	25
+347019	4	0	Special Mix (5 Suits)	2020-11-18 — 09:57:22 UTC	cockdestroyer, orucsoraihc, sephiroth, Sucubis	4	5	25
+347018	4	0	Special Mix (5 Suits)	2020-11-18 — 09:31:14 UTC	cockdestroyer, orucsoraihc, sephiroth, Sucubis	4	5	25
+347013	3	0	Black (5 Suits)	2020-11-18 — 08:55:21 UTC	Lel0uch, orucsoraihc, StKildaFan	44	5	25
+347011	3	0	Black (5 Suits)	2020-11-18 — 08:46:58 UTC	Lel0uch, orucsoraihc, StKildaFan	51	5	25
+347010	3	0	Black (5 Suits)	2020-11-18 — 08:28:36 UTC	Lel0uch, orucsoraihc, StKildaFan	68	5	25
+347007	3	24	Black (5 Suits)	2020-11-18 — 08:12:05 UTC	Lel0uch, orucsoraihc, StKildaFan	71	5	25
+346619	3	25	No Variant	2020-11-18 — 00:46:33 UTC	frosty104, orucsoraihc, StKildaFan	40	5	25
+346342	5	23	Special Mix (5 Suits)	2020-11-17 — 20:07:47 UTC	Floriman, nitawa, orucsoraihc, sephiroth, Sucubis	11	5	25
+346309	4	23	Special Mix (5 Suits)	2020-11-17 — 19:31:08 UTC	Floriman, nitawa, orucsoraihc, sephiroth	4	5	25
+346285	4	25	No Variant	2020-11-17 — 18:49:58 UTC	doctorabi, frosty104, Kyle, orucsoraihc	17	5	25
+346274	4	20	Reversed (4 Suits)	2020-11-17 — 18:27:58 UTC	doctorabi, frosty104, Kyle, orucsoraihc	9	4	20
+345909	5	27	Rainbow-Ones & Dark Pink (6 Suits)	2020-11-17 — 02:34:37 UTC	Lel0uch, melwen, orucsoraihc, pianoblook, TimeHoodie	1	6	30
+345887	4	0	Rainbow-Ones & Dark Pink (6 Suits)	2020-11-17 — 02:08:13 UTC	melwen, orucsoraihc, pianoblook, TimeHoodie	1	6	30
+345869	4	30	Rainbow-Ones & Brown (6 Suits)	2020-11-17 — 01:52:23 UTC	melwen, orucsoraihc, pianoblook, TimeHoodie	2	6	30
+344962	5	25	No Variant	2020-11-16 — 16:13:06 UTC	Lel0uch, melwen, orucsoraihc, Plum, swineherd	15	5	25
+344952	5	22	Rainbow & Pink (5 Suits)	2020-11-16 — 15:39:04 UTC	Lel0uch, orucsoraihc, swineherd, TimeHoodie, willwin4sure	6	5	25
+344595	5	18	No Variant	2020-11-16 — 02:26:22 UTC	Carunty, HelanaAshryvr, orucsoraihc, Telpe, voss	65	5	25
+343137	3	0	Cocoa Rainbow (6 Suits)	2020-11-14 — 06:13:06 UTC	derekcheah, Fey, orucsoraihc	32	6	30
+343120	3	0	Muddy Rainbow (3 Suits)	2020-11-14 — 05:44:22 UTC	derekcheah, Fey, orucsoraihc	22	3	15
+342450	3	30	Pink (6 Suits)	2020-11-13 — 19:44:06 UTC	Carunty, JackFrost, orucsoraihc	131	6	30
+342080	5	0	Rainbow (5 Suits)	2020-11-13 — 03:05:25 UTC	Carunty, jeff10, orucsoraihc, StKildaFan, timotree	14	5	25
+342061	4	25	No Variant	2020-11-13 — 02:44:06 UTC	Isaac176, orucsoraihc, StKildaFan, timotree	38	5	25
+342042	4	0	No Variant	2020-11-13 — 02:31:28 UTC	Isaac176, orucsoraihc, StKildaFan, timotree	41	5	25
+342025	4	0	No Variant	2020-11-13 — 02:13:15 UTC	Isaac176, orucsoraihc, StKildaFan, timotree	43	5	25
+342005	3	24	No Variant	2020-11-13 — 01:44:53 UTC	Isaac176, orucsoraihc, StKildaFan	41	5	25
+341588	3	25	Rainbow & Prism (5 Suits)	2020-11-12 — 15:30:48 UTC	Carunty, Lel0uch, orucsoraihc	16	5	25
+341571	4	24	Black (6 Suits)	2020-11-12 — 14:56:31 UTC	Carunty, frosty104, Lel0uch, orucsoraihc	74	6	30
+341261	4	22	No Variant	2020-11-12 — 02:33:41 UTC	doctorabi, MarcLovesDogs, orucsoraihc, StKildaFan	48	5	25
+341237	6	30	Prism (6 Suits)	2020-11-12 — 02:06:27 UTC	avanderwalde, MarcLovesDogs, orucsoraihc, StKildaFan, TimeHoodie, timotree	6	6	30
+341218	4	0	Muddy Rainbow (5 Suits)	2020-11-12 — 01:36:30 UTC	avanderwalde, orucsoraihc, StKildaFan, timotree	12	5	25
+340938	4	0	Black (6 Suits)	2020-11-11 — 19:05:50 UTC	Bonja97, Floriman, MarkusKahlsen, orucsoraihc	45	6	30
+340895	3	25	No Variant	2020-11-11 — 18:39:10 UTC	Floriman, MarkusKahlsen, orucsoraihc	106	5	25
+340492	2	0	No Variant	2020-11-11 — 03:00:24 UTC	orucsoraihc, StKildaFan	145	5	25
+340486	2	25	No Variant	2020-11-11 — 02:54:29 UTC	orucsoraihc, StKildaFan	149	5	25
+340476	2	24	No Variant	2020-11-11 — 02:47:34 UTC	orucsoraihc, StKildaFan	152	5	25
+340465	2	23	No Variant	2020-11-11 — 02:36:18 UTC	orucsoraihc, StKildaFan	152	5	25
+340052	5	27	Omni (6 Suits)	2020-11-10 — 15:43:35 UTC	Carunty, frosty104, Lel0uch, orucsoraihc, wump	5	6	30
+340046	3	0	Black (6 Suits)	2020-11-10 — 15:11:51 UTC	Carunty, frosty104, orucsoraihc	213	6	30
+340039	6	0	Black (6 Suits)	2020-11-10 — 14:45:13 UTC	Carunty, jack67889, Lel0uch, melwen, orucsoraihc, TimeHoodie	2	6	30
+339168	3	23	No Variant	2020-11-09 — 15:28:34 UTC	baads, Lel0uch, orucsoraihc	354	5	25
+339158	4	29	6 Suits	2020-11-09 — 14:57:42 UTC	Carunty, orucsoraihc, robense, squirtle	81	6	30
+338302	6	0	Prism (5 Suits)	2020-11-08 — 13:22:17 UTC	ADrone, Lel0uch, melwen, orucsoraihc, StKildaFan, TimeHoodie	2	5	25
+337568	3	30	Rainbow (6 Suits)	2020-11-07 — 15:56:36 UTC	Lel0uch, orucsoraihc, rachyrules	332	6	30
+337548	3	0	Rainbow (6 Suits)	2020-11-07 — 15:08:21 UTC	Lel0uch, orucsoraihc, rachyrules	396	6	30
+336812	3	22	Duck (5 Suits)	2020-11-06 — 12:43:30 UTC	orucsoraihc, sin_faith, TimeHoodie	10	5	25
+336808	4	0	Duck (5 Suits)	2020-11-06 — 12:23:53 UTC	orucsoraihc, sin_faith, TimeHoodie, Tiramisu1th	5	5	25
+336159	4	22	Cocoa Rainbow (5 Suits)	2020-11-05 — 18:57:00 UTC	Carunty, melwen, orucsoraihc, TimeHoodie	20	5	25
+336141	5	21	Dark Pink (5 Suits)	2020-11-05 — 18:20:57 UTC	Carunty, Fey, melwen, orucsoraihc, TimeHoodie	2	5	25
+336133	5	24	Dark Pink (5 Suits)	2020-11-05 — 17:57:11 UTC	Fey, kimbifille, melwen, orucsoraihc, TimeHoodie	3	5	25
+334931	4	25	No Variant	2020-11-04 — 01:56:19 UTC	ejwu, orucsoraihc, timotree, vEnhance	47	5	25
+334860	4	0	No Variant	2020-11-04 — 00:36:56 UTC	orucsoraihc, sjdrodge, timotree, vEnhance	13	5	25
+334850	4	0	No Variant	2020-11-04 — 00:13:38 UTC	orucsoraihc, sjdrodge, timotree, vEnhance	13	5	25
+333812	4	25	Black (5 Suits)	2020-11-02 — 19:00:48 UTC	Carunty, nitawa, orucsoraihc, wump	44	5	25
+333653	3	23	Rainbow (5 Suits)	2020-11-02 — 08:49:13 UTC	Carunty, orucsoraihc, timotree	57	5	25
+333651	3	0	Rainbow (5 Suits)	2020-11-02 — 08:23:03 UTC	Carunty, orucsoraihc, timotree	56	5	25
+333649	3	25	Rainbow & White (5 Suits)	2020-11-02 — 08:01:07 UTC	orucsoraihc, savoryoatmeal, timotree	5	5	25
+333645	3	0	Rainbow & White (5 Suits)	2020-11-02 — 07:34:20 UTC	orucsoraihc, savoryoatmeal, timotree	9	5	25
+333638	3	23	Rainbow & White (5 Suits)	2020-11-02 — 07:08:50 UTC	orucsoraihc, savoryoatmeal, timotree	14	5	25
+333626	3	0	Rainbow & White (5 Suits)	2020-11-02 — 06:36:40 UTC	ksfortson, orucsoraihc, timotree	21	5	25
+332801	3	25	No Variant	2020-11-01 — 15:54:59 UTC	Carunty, orucsoraihc, sankala	386	5	25
+332792	3	23	No Variant	2020-11-01 — 15:32:55 UTC	Carunty, orucsoraihc, plus	485	5	25
+332665	3	22	No Variant	2020-11-01 — 07:24:11 UTC	ejwu, orucsoraihc, parrotdoxair	324	5	25
+332649	5	24	No Variant	2020-11-01 — 06:39:50 UTC	antitelharsic, ejwu, MarcLovesDogs, orucsoraihc, parrotdoxair	38	5	25
+332129	5	30	Muddy Rainbow (6 Suits)	2020-10-31 — 17:18:16 UTC	asaelr, Div, ebin_noob, orucsoraihc, swineherd	2	6	30
+332113	5	0	Muddy Rainbow (6 Suits)	2020-10-31 — 16:52:27 UTC	asaelr, Div, ebin_noob, orucsoraihc, swineherd	5	6	30
+332105	5	0	Black (6 Suits)	2020-10-31 — 16:37:23 UTC	asaelr, Div, ebin_noob, orucsoraihc, swineherd	24	6	30
+332058	4	0	Black (5 Suits)	2020-10-31 — 14:20:36 UTC	orucsoraihc, rachyrules, sin_faith, StKildaFan	23	5	25
+332044	4	23	Black (5 Suits)	2020-10-31 — 13:53:40 UTC	orucsoraihc, rachyrules, sin_faith, StKildaFan	49	5	25
+332039	4	0	Black (5 Suits)	2020-10-31 — 13:38:45 UTC	orucsoraihc, rachyrules, sin_faith, StKildaFan	63	5	25
+331584	3	25	No Variant	2020-10-31 — 01:14:36 UTC	marcogilbert, orucsoraihc, wump	187	5	25
+331078	3	23	No Variant	2020-10-30 — 10:09:03 UTC	Carunty, ebin_noob, orucsoraihc	375	5	25
+331075	4	30	Brown (6 Suits)	2020-10-30 — 09:44:31 UTC	Carunty, cockdestroyer, Fey, orucsoraihc	21	6	30
+331062	4	0	No Variant	2020-10-30 — 07:22:14 UTC	frosty104, orucsoraihc, parrotdoxair, StKildaFan	55	5	25
+331061	4	25	No Variant	2020-10-30 — 07:04:43 UTC	frosty104, orucsoraihc, parrotdoxair, StKildaFan	61	5	25
+331060	4	0	No Variant	2020-10-30 — 06:50:32 UTC	frosty104, ksfortson, orucsoraihc, StKildaFan	52	5	25
+331057	4	25	No Variant	2020-10-30 — 06:43:09 UTC	frosty104, ksfortson, orucsoraihc, StKildaFan	52	5	25
+331051	4	0	No Variant	2020-10-30 — 06:21:27 UTC	frosty104, ksfortson, orucsoraihc, StKildaFan	53	5	25
+330949	4	0	No Variant	2020-10-30 — 04:41:10 UTC	anser, newduke, orucsoraihc, vEnhance	74	5	25
+330945	4	25	No Variant	2020-10-30 — 04:35:34 UTC	anser, newduke, orucsoraihc, vEnhance	79	5	25
+330936	4	0	No Variant	2020-10-30 — 04:30:19 UTC	anser, newduke, orucsoraihc, vEnhance	90	5	25
+330934	4	0	No Variant	2020-10-30 — 04:28:52 UTC	anser, newduke, orucsoraihc, vEnhance	99	5	25
+330925	4	27	Prism (6 Suits)	2020-10-30 — 04:17:44 UTC	anser, newduke, orucsoraihc, vEnhance	22	6	30
+330909	4	0	Prism (6 Suits)	2020-10-30 — 03:48:51 UTC	anser, newduke, orucsoraihc, vEnhance	23	6	30
+330449	5	23	Rainbow & White (5 Suits)	2020-10-29 — 14:26:43 UTC	Carunty, orucsoraihc, Pablo-, Puzzle, StKildaFan	5	5	25
+330442	3	22	Black (5 Suits)	2020-10-29 — 13:53:09 UTC	orucsoraihc, Pablo-, StKildaFan	36	5	25
+330440	4	22	No Variant	2020-10-29 — 13:22:00 UTC	MarkusKahlsen, nitawa, orucsoraihc, sephiroth	111	5	25
+330437	3	0	No Variant	2020-10-29 — 12:50:33 UTC	MarkusKahlsen, nitawa, orucsoraihc	112	5	25
+330433	4	25	White (5 Suits)	2020-10-29 — 12:20:39 UTC	Carunty, orucsoraihc, rz, StKildaFan	60	5	25
+330424	4	20	4 Suits	2020-10-29 — 10:02:58 UTC	eevee, orucsoraihc, StKildaFan, Veexliat	17	4	20
+330423	4	0	4 Suits	2020-10-29 — 09:52:18 UTC	eevee, orucsoraihc, StKildaFan, Veexliat	19	4	20
+330421	4	0	4 Suits	2020-10-29 — 09:35:31 UTC	eevee, orucsoraihc, StKildaFan, Veexliat	21	4	20
+330420	4	0	4 Suits	2020-10-29 — 09:18:29 UTC	eevee, orucsoraihc, StKildaFan, Veexliat	32	4	20
+330419	4	30	6 Suits	2020-10-29 — 09:05:00 UTC	eevee, orucsoraihc, StKildaFan, Veexliat	92	6	30
+330418	4	24	No Variant	2020-10-29 — 08:33:47 UTC	cockdestroyer, Jtjg, orucsoraihc, XMIL	54	5	25
+330210	4	23	No Variant	2020-10-29 — 02:23:30 UTC	catula, CerdoNEFO, eevee, orucsoraihc	190	5	25
+329831	6	0	Rainbow & Brown (6 Suits)	2020-10-28 — 14:25:36 UTC	jack67889, nitawa, orucsoraihc, Pablo-, sin_faith, TheDaniMan	2	6	30
+329786	4	25	No Variant	2020-10-28 — 10:56:13 UTC	jack67889, orucsoraihc, StKildaFan, Sucubis	60	5	25
+329785	2	25	No Variant	2020-10-28 — 10:38:59 UTC	orucsoraihc, StKildaFan	156	5	25
+329783	3	0	Rainbow & Brown (6 Suits)	2020-10-28 — 10:07:23 UTC	ebin_noob, orucsoraihc, sin_faith	13	6	30
+329782	3	0	Rainbow & Brown (6 Suits)	2020-10-28 — 09:20:26 UTC	ebin_noob, orucsoraihc, robense	17	6	30
+329779	3	30	Rainbow & Brown (6 Suits)	2020-10-28 — 08:57:52 UTC	ebin_noob, orucsoraihc, robense	23	6	30
+329777	4	25	Throw It in a Hole & Light Pink (5 Suits)	2020-10-28 — 08:22:08 UTC	amyy, IAMJEFF, orucsoraihc, sin_faith	1	5	25
+329774	3	0	Throw It in a Hole & Light Pink (6 Suits)	2020-10-28 — 07:59:28 UTC	amyy, orucsoraihc, sin_faith	1	6	30
+329730	3	30	Brown (6 Suits)	2020-10-28 — 05:26:42 UTC	AshleyBridge, orucsoraihc, timotree	31	6	30
+329708	4	0	Brown (6 Suits)	2020-10-28 — 04:57:46 UTC	AshleyBridge, Carunty, orucsoraihc, timotree	17	6	30
+329690	4	0	Brown (6 Suits)	2020-10-28 — 04:28:50 UTC	AshleyBridge, Carunty, orucsoraihc, timotree	27	6	30
+329668	4	0	Brown (6 Suits)	2020-10-28 — 04:03:42 UTC	AshleyBridge, Carunty, orucsoraihc, timotree	27	6	30
+329660	5	29	Brown (6 Suits)	2020-10-28 — 03:48:19 UTC	AshleyBridge, Carunty, orucsoraihc, Puzzle, timotree	12	6	30
+329508	5	25	No Variant	2020-10-28 — 00:28:28 UTC	jack_0f_hearts, Kyle, orucsoraihc, RaKXeR, rz	14	5	25
+329480	5	21	No Variant	2020-10-27 — 23:40:12 UTC	jack_0f_hearts, Kyle, orucsoraihc, RaKXeR, rz	13	5	25
+329455	3	25	No Variant	2020-10-27 — 22:54:44 UTC	Kyle, orucsoraihc, rz	47	5	25
+329188	3	25	No Variant	2020-10-27 — 13:22:26 UTC	Carunty, MarkusKahlsen, orucsoraihc	111	5	25
+329178	3	24	No Variant	2020-10-27 — 12:32:48 UTC	Carunty, orucsoraihc, StKildaFan	41	5	25
+329151	6	20	Cocoa Rainbow (5 Suits)	2020-10-27 — 11:06:58 UTC	cockdestroyer, jack67889, kodomazer, methmatics, orucsoraihc, Sucubis	3	5	25
+328554	4	0	No Variant	2020-10-26 — 09:10:31 UTC	Carunty, cockdestroyer, orucsoraihc, StKildaFan	68	5	25
+328552	4	24	No Variant	2020-10-26 — 08:41:46 UTC	Carunty, cockdestroyer, orucsoraihc, StKildaFan	89	5	25
+328546	5	12	3 Suits	2020-10-26 — 08:19:57 UTC	Carunty, cockdestroyer, ksfortson, orucsoraihc, wump	24	3	15
+328542	5	11	3 Suits	2020-10-26 — 08:03:26 UTC	Carunty, cockdestroyer, ksfortson, orucsoraihc, wump	27	3	15
+328534	6	22	Gray (5 Suits)	2020-10-26 — 07:26:07 UTC	Carunty, cockdestroyer, ksfortson, micerang, orucsoraihc, wump	3	5	25
+328526	6	30	6 Suits	2020-10-26 — 06:40:55 UTC	Jtjg, ksfortson, Kyle, orucsoraihc, timotree, wump	9	6	30
+328512	5	25	White (5 Suits)	2020-10-26 — 06:02:04 UTC	Jtjg, Kyle, orucsoraihc, timotree, wump	1	5	25
+328499	5	25	Rainbow (5 Suits)	2020-10-26 — 05:36:17 UTC	Carunty, Jtjg, Kyle, orucsoraihc, timotree	6	5	25
+328411	6	0	Dark Rainbow (6 Suits)	2020-10-26 — 03:07:27 UTC	avanderwalde, JerryYang, newduke, orucsoraihc, TimeHoodie, timotree	5	6	30
+328389	5	21	Dark Rainbow (5 Suits)	2020-10-26 — 02:42:15 UTC	avanderwalde, JerryYang, orucsoraihc, TimeHoodie, timotree	5	5	25
+328373	5	25	No Variant	2020-10-26 — 02:03:59 UTC	avanderwalde, JerryYang, orucsoraihc, rkass, timotree	17	5	25
+328358	5	0	No Variant	2020-10-26 — 01:26:46 UTC	avanderwalde, JerryYang, orucsoraihc, rkass, timotree	21	5	25
+328349	5	0	No Variant	2020-10-26 — 00:55:16 UTC	avanderwalde, JerryYang, orucsoraihc, rkass, timotree	21	5	25
+328329	5	25	No Variant	2020-10-26 — 00:29:09 UTC	avanderwalde, JerryYang, orucsoraihc, rkass, StKildaFan	75	5	25
+328165	4	22	Gray (5 Suits)	2020-10-25 — 21:05:14 UTC	asaelr, honzas, orucsoraihc, timotree	14	5	25
+328151	3	24	Gray (5 Suits)	2020-10-25 — 20:38:20 UTC	honzas, orucsoraihc, timotree	20	5	25
+328130	3	23	Up or Down (5 Suits)	2020-10-25 — 20:12:36 UTC	honzas, orucsoraihc, timotree	29	5	25
+328117	3	0	Up or Down (5 Suits)	2020-10-25 — 19:52:45 UTC	honzas, orucsoraihc, timotree	54	5	25
+328106	3	25	No Variant	2020-10-25 — 19:37:25 UTC	honzas, orucsoraihc, timotree	23	5	25
+327906	3	25	No Variant	2020-10-25 — 07:24:30 UTC	orucsoraihc, parrotdoxair, StKildaFan	42	5	25
+327897	3	0	No Variant	2020-10-25 — 06:52:43 UTC	orucsoraihc, parrotdoxair, StKildaFan	44	5	25
+327872	3	30	6 Suits	2020-10-25 — 06:01:40 UTC	catula, derekcheah, orucsoraihc	196	6	30
+327682	4	0	Rainbow (5 Suits)	2020-10-25 — 01:42:33 UTC	Carunty, ksfortson, orucsoraihc, timotree	68	5	25
+327658	2	24	No Variant	2020-10-25 — 01:25:15 UTC	orucsoraihc, timotree	55	5	25
+327655	2	0	No Variant	2020-10-25 — 01:22:49 UTC	orucsoraihc, timotree	55	5	25
+327654	2	0	No Variant	2020-10-25 — 01:21:34 UTC	orucsoraihc, timotree	55	5	25
+327650	2	25	No Variant	2020-10-25 — 01:19:34 UTC	orucsoraihc, timotree	55	5	25
+327631	3	25	Black & White (5 Suits)	2020-10-25 — 00:59:41 UTC	newduke, orucsoraihc, timotree	40	5	25
+327615	3	24	Black & White (5 Suits)	2020-10-25 — 00:26:55 UTC	newduke, orucsoraihc, timotree	45	5	25
+327262	5	30	6 Suits	2020-10-24 — 09:41:59 UTC	Carunty, cockdestroyer, kodomazer, orucsoraihc, Pablo-	54	6	30
+327261	5	28	6 Suits	2020-10-24 — 09:05:08 UTC	Carunty, cockdestroyer, kodomazer, orucsoraihc, Pablo-	69	6	30
+327260	5	29	White (6 Suits)	2020-10-24 — 08:32:03 UTC	Carunty, cockdestroyer, orucsoraihc, Pablo-, wump	8	6	30
+327256	4	0	Duck (5 Suits)	2020-10-24 — 07:53:39 UTC	duckmedic, ejwu, orucsoraihc, wump	27	5	25
+327199	3	29	Dark Rainbow (6 Suits)	2020-10-24 — 06:53:09 UTC	ejwu, orucsoraihc, wump	91	6	30
+327152	5	30	6 Suits	2020-10-24 — 06:08:42 UTC	ejwu, JackFrost, ksfortson, orucsoraihc, wump	35	6	30
+327135	5	0	6 Suits	2020-10-24 — 05:38:54 UTC	ejwu, JackFrost, ksfortson, orucsoraihc, wump	40	6	30
+326908	6	22	Cow & Pig (5 Suits)	2020-10-24 — 02:28:49 UTC	Carunty, duckmedic, ksfortson, orucsoraihc, rz, wump	1	5	25
+326889	6	0	Cow & Pig (5 Suits)	2020-10-24 — 01:55:15 UTC	Carunty, duckmedic, ksfortson, orucsoraihc, rz, wump	3	5	25
+326875	4	0	Dual-Color (5 Suits)	2020-10-24 — 01:31:32 UTC	Carunty, orucsoraihc, rz, wump	37	5	25
+326851	4	25	Rainbow Reversed (5 Suits)	2020-10-24 — 00:53:05 UTC	JackFrost, orucsoraihc, rz, wump	3	5	25
+326332	3	25	No Variant	2020-10-23 — 06:36:44 UTC	ksfortson, orucsoraihc, wump	206	5	25
+326315	4	14	3 Suits	2020-10-23 — 06:06:54 UTC	Carunty, ksfortson, orucsoraihc, wump	62	3	15
+326310	4	13	3 Suits	2020-10-23 — 05:53:12 UTC	Carunty, ksfortson, orucsoraihc, wump	73	3	15
+326195	4	0	Cocoa Rainbow (5 Suits)	2020-10-23 — 02:38:09 UTC	avanderwalde, newduke, orucsoraihc, rkass	15	5	25
+326180	5	0	Cocoa Rainbow (5 Suits)	2020-10-23 — 02:14:55 UTC	avanderwalde, mattnabi, newduke, orucsoraihc, rkass	6	5	25
+326158	5	20	Cocoa Rainbow (5 Suits)	2020-10-23 — 02:01:39 UTC	avanderwalde, mattnabi, newduke, orucsoraihc, rkass	6	5	25
+326134	5	0	Cocoa Rainbow (5 Suits)	2020-10-23 — 01:33:45 UTC	avanderwalde, mattnabi, newduke, orucsoraihc, rkass	9	5	25
+326129	2	0	No Variant	2020-10-23 — 01:30:16 UTC	newduke, orucsoraihc	794	5	25
+325698	4	0	No Variant	2020-10-22 — 08:57:51 UTC	Carunty, catula, jack67889, orucsoraihc	326	5	25
+325679	5	25	No Variant	2020-10-22 — 07:17:16 UTC	ejwu, Jtjg, ksfortson, orucsoraihc, wump	49	5	25
+325660	5	25	No Variant	2020-10-22 — 06:46:50 UTC	ejwu, Jtjg, ksfortson, orucsoraihc, wump	77	5	25
+325495	4	24	No Variant	2020-10-22 — 03:05:44 UTC	Carunty, ksfortson, orucsoraihc, wump	308	5	25
+325366	3	22	Black & Pink (5 Suits)	2020-10-22 — 00:41:39 UTC	a_small_emu, dj.narayanan, orucsoraihc	15	5	25
+325343	4	22	Up or Down (5 Suits)	2020-10-22 — 00:07:13 UTC	a_small_emu, dj.narayanan, newduke, orucsoraihc	35	5	25
+324993	4	25	No Variant	2020-10-21 — 07:52:47 UTC	micerang, orucsoraihc, rz, wump	31	5	25
+324989	4	22	No Variant	2020-10-21 — 07:21:28 UTC	micerang, orucsoraihc, rz, wump	32	5	25
+324984	4	25	Brown-Ones & White (5 Suits)	2020-10-21 — 06:51:01 UTC	orucsoraihc, rz, wump, XMIL	3	5	25
+324979	4	0	Brown-Ones & White (5 Suits)	2020-10-21 — 06:27:02 UTC	orucsoraihc, rz, wump, XMIL	5	5	25
+324341	6	23	No Variant	2020-10-20 — 10:29:59 UTC	cockdestroyer, jack67889, Nitrate2, orucsoraihc, rachyrules, Sucubis	10	5	25
+324340	4	25	No Variant	2020-10-20 — 10:03:48 UTC	cockdestroyer, Nitrate2, orucsoraihc, rachyrules	138	5	25
+324323	5	22	No Variant	2020-10-20 — 07:04:07 UTC	catula, ejwu, orucsoraihc, StKildaFan, veigar	120	5	25
+324318	4	0	No Variant	2020-10-20 — 06:39:08 UTC	catula, orucsoraihc, StKildaFan, veigar	130	5	25
+324314	5	23	White-Ones (5 Suits)	2020-10-20 — 06:17:17 UTC	Jtjg, ksfortson, orucsoraihc, wump, XMIL	2	5	25
+324266	4	0	No Variant	2020-10-20 — 04:07:36 UTC	Carunty, ksfortson, orucsoraihc, parrotdoxair	601	5	25
+324233	6	27	Prism (6 Suits)	2020-10-20 — 03:29:27 UTC	Carunty, JackFrost, ksfortson, orucsoraihc, parrotdoxair, wump	8	6	30
+324192	4	25	No Variant	2020-10-20 — 02:35:23 UTC	Carunty, JackFrost, ksfortson, orucsoraihc	373	5	25
+323787	5	0	No Variant	2020-10-19 — 18:03:04 UTC	cockdestroyer, orucsoraihc, Pepepe, swineherd, XMIL	20	5	25
+323768	5	24	No Variant	2020-10-19 — 17:36:49 UTC	cockdestroyer, orucsoraihc, Pepepe, swineherd, XMIL	21	5	25
+323636	6	29	Rainbow (6 Suits)	2020-10-19 — 08:04:43 UTC	cockdestroyer, derekcheah, newduke, orucsoraihc, TheDaniMan, vEnhance	33	6	30
+323621	6	27	Rainbow (6 Suits)	2020-10-19 — 07:29:54 UTC	cockdestroyer, derekcheah, newduke, orucsoraihc, TheDaniMan, vEnhance	60	6	30
+323455	4	25	Black (6 Suits)	2020-10-19 — 02:38:43 UTC	duckmedic, JackFrost, orucsoraihc, parrotdoxair	213	6	30
+322146	3	0	No Variant	2020-10-17 — 09:06:07 UTC	ebin_noob, orucsoraihc, swineherd	451	5	25
+322110	3	23	No Variant	2020-10-17 — 07:02:27 UTC	orucsoraihc, rz, StKildaFan	49	5	25
+322106	5	0	White (5 Suits)	2020-10-17 — 06:29:28 UTC	catula, cockdestroyer, Fey, orucsoraihc, rz	7	5	25
+322089	5	0	White (5 Suits)	2020-10-17 — 05:50:04 UTC	catula, cockdestroyer, Fey, orucsoraihc, rz	7	5	25
+322079	5	0	White (5 Suits)	2020-10-17 — 05:34:13 UTC	catula, cockdestroyer, Fey, orucsoraihc, rz	8	5	25
+322076	5	0	White (5 Suits)	2020-10-17 — 05:32:56 UTC	catula, cockdestroyer, Fey, orucsoraihc, rz	10	5	25
+322074	5	0	White (5 Suits)	2020-10-17 — 05:30:43 UTC	catula, cockdestroyer, Fey, orucsoraihc, rz	11	5	25
+322056	4	25	Rainbow (5 Suits)	2020-10-17 — 05:08:53 UTC	Carunty, Jtjg, orucsoraihc, XMIL	92	5	25
+322017	4	22	White (5 Suits)	2020-10-17 — 04:17:05 UTC	JackFrost, Jtjg, orucsoraihc, XMIL	13	5	25
+321990	6	24	No Variant	2020-10-17 — 03:41:05 UTC	angel-a, Jtjg, orucsoraihc, Puzzle, StKildaFan, XMIL	10	5	25
+321534	5	25	No Variant	2020-10-16 — 14:19:56 UTC	jack67889, level_0, level_ofConcern, orucsoraihc, VerySloppyTwo	223	5	25
+321467	3	25	No Variant	2020-10-16 — 06:29:10 UTC	ejwu, orucsoraihc, savoryoatmeal	516	5	25
+321457	4	25	No Variant	2020-10-16 — 05:49:15 UTC	Carunty, orucsoraihc, StKildaFan, timotree	57	5	25
+321351	5	26	Black (6 Suits)	2020-10-16 — 02:35:00 UTC	antitelharsic, JackFrost, orucsoraihc, StKildaFan, wump	101	6	30
+321324	3	29	Black (6 Suits)	2020-10-16 — 02:03:43 UTC	JackFrost, orucsoraihc, wump	236	6	30
+320825	3	25	No Variant	2020-10-15 — 11:02:59 UTC	orucsoraihc, swineherd, VerySloppyTwo	750	5	25
+320165	3	23	No Variant	2020-10-14 — 06:14:57 UTC	ejwu, orucsoraihc, timotree	55	5	25
+320150	3	0	No Variant	2020-10-14 — 05:46:12 UTC	ejwu, orucsoraihc, timotree	62	5	25
+320135	2	0	No Variant	2020-10-14 — 05:26:26 UTC	ejwu, orucsoraihc	976	5	25
+320129	5	23	No Variant	2020-10-14 — 05:12:23 UTC	ejwu, Kyle, methmatics, orucsoraihc, StKildaFan	21	5	25
+320118	4	0	Prism (5 Suits)	2020-10-14 — 04:52:19 UTC	Kyle, methmatics, orucsoraihc, StKildaFan	47	5	25
+319390	3	23	No Variant	2020-10-13 — 07:15:22 UTC	Carunty, orucsoraihc, StKildaFan	53	5	25
+319382	3	23	No Variant	2020-10-13 — 06:36:25 UTC	Carunty, orucsoraihc, StKildaFan	56	5	25
+319375	3	25	No Variant	2020-10-13 — 06:06:02 UTC	Carunty, orucsoraihc, wump	243	5	25
+318895	4	25	No Variant	2020-10-12 — 18:51:09 UTC	cockdestroyer, orucsoraihc, sephiroth, TheDaniMan	11	5	25
+318655	4	24	Black (6 Suits)	2020-10-12 — 05:12:33 UTC	angel-a, Carunty, orucsoraihc, StKildaFan	121	6	30
+318616	4	0	Black (6 Suits)	2020-10-12 — 04:29:33 UTC	angel-a, Carunty, orucsoraihc, StKildaFan	175	6	30
+318433	4	0	No Variant	2020-10-12 — 00:21:08 UTC	Carunty, orucsoraihc, rkass, swineherd	158	5	25
+318186	5	0	No Variant	2020-10-11 — 18:44:14 UTC	angel-a, Carunty, orucsoraihc, rachyrules, VerySloppyTwo	1995	5	25
+318179	3	24	No Variant	2020-10-11 — 18:07:23 UTC	angel-a, orucsoraihc, rachyrules	411	5	25
+317966	5	24	No Variant	2020-10-11 — 07:03:25 UTC	Carunty, duckmedic, JackFrost, ksfortson, orucsoraihc	135	5	25
+317957	5	0	No Variant	2020-10-11 — 06:29:04 UTC	Carunty, duckmedic, JackFrost, ksfortson, orucsoraihc	195	5	25
+317948	5	23	No Variant	2020-10-11 — 05:55:21 UTC	Carunty, duckmedic, JackFrost, ksfortson, orucsoraihc	344	5	25
+317937	4	24	No Variant	2020-10-11 — 05:18:57 UTC	Carunty, duckmedic, JackFrost, orucsoraihc	655	5	25
+317905	3	20	No Variant	2020-10-11 — 04:38:06 UTC	Carunty, harrisonk, orucsoraihc	801	5	25
+317204	3	0	White (5 Suits)	2020-10-10 — 06:51:25 UTC	ejwu, orucsoraihc, parrotdoxair	81	5	25
+317139	5	25	White (5 Suits)	2020-10-10 — 05:33:14 UTC	catula, ejwu, orucsoraihc, parrotdoxair, StKildaFan	26	5	25
+317054	3	22	No Variant	2020-10-10 — 03:56:44 UTC	angel-a, orucsoraihc, supom	4221	5	25
+316746	3	0	Black & Prism (5 Suits)	2020-10-09 — 21:41:24 UTC	orucsoraihc, rachyrules, TheDaniMan	12	5	25
+316333	5	24	No Variant	2020-10-09 — 04:34:34 UTC	duckmedic, JackFrost, ksfortson, orucsoraihc, wump	541	5	25
+316313	5	0	No Variant	2020-10-09 — 04:06:24 UTC	duckmedic, JackFrost, ksfortson, orucsoraihc, wump	1119	5	25
+316286	5	0	Rainbow (6 Suits)	2020-10-09 — 03:34:18 UTC	duckmedic, JackFrost, orucsoraihc, StKildaFan, wump	133	6	30
+316261	5	21	No Variant	2020-10-09 — 02:53:51 UTC	duckmedic, JackFrost, orucsoraihc, StKildaFan, wump	207	5	25
+316073	3	24	No Variant	2020-10-08 — 22:12:48 UTC	HaSJ, honzas, orucsoraihc	164	5	25
+315709	3	25	No Variant	2020-10-08 — 06:51:02 UTC	antitelharsic, orucsoraihc, StKildaFan	57	5	25
+315694	3	24	No Variant	2020-10-08 — 06:24:03 UTC	antitelharsic, orucsoraihc, StKildaFan	59	5	25
+315686	4	25	No Variant	2020-10-08 — 06:04:47 UTC	antitelharsic, ejwu, orucsoraihc, StKildaFan	63	5	25
+315545	4	24	No Variant	2020-10-08 — 03:16:35 UTC	Animex52, orucsoraihc, penisman, Stinkydude63	103	5	25
+315377	4	0	White (6 Suits)	2020-10-08 — 00:36:03 UTC	ejwu, IsabeltheCat, orucsoraihc, StKildaFan	27	6	30
+315194	3	0	Black & Light Pink (6 Suits)	2020-10-07 — 20:20:20 UTC	asaelr, DMoney, orucsoraihc	10	6	30
+315187	3	30	Black & White (6 Suits)	2020-10-07 — 20:09:37 UTC	asaelr, DMoney, orucsoraihc	6	6	30
+315164	3	25	Gray (5 Suits)	2020-10-07 — 19:46:36 UTC	asaelr, DMoney, orucsoraihc	42	5	25
+315153	3	0	Light Pink (5 Suits)	2020-10-07 — 19:32:21 UTC	DMoney, orucsoraihc, rachyrules	11	5	25
+315139	3	0	Light Pink (5 Suits)	2020-10-07 — 19:24:19 UTC	DMoney, orucsoraihc, rachyrules	12	5	25
+315070	2	25	No Variant	2020-10-07 — 17:49:10 UTC	orucsoraihc, rachyrules	30	5	25
+315065	2	0	No Variant	2020-10-07 — 17:47:13 UTC	orucsoraihc, rachyrules	30	5	25
+315064	2	0	No Variant	2020-10-07 — 17:46:51 UTC	orucsoraihc, rachyrules	30	5	25
+315063	2	0	No Variant	2020-10-07 — 17:46:30 UTC	orucsoraihc, rachyrules	30	5	25
+315062	2	0	No Variant	2020-10-07 — 17:45:27 UTC	orucsoraihc, rachyrules	30	5	25
+315060	2	0	No Variant	2020-10-07 — 17:44:43 UTC	orucsoraihc, rachyrules	30	5	25
+315059	2	0	No Variant	2020-10-07 — 17:43:57 UTC	orucsoraihc, rachyrules	30	5	25
+315058	2	0	No Variant	2020-10-07 — 17:43:07 UTC	orucsoraihc, rachyrules	30	5	25
+315057	2	0	No Variant	2020-10-07 — 17:42:20 UTC	orucsoraihc, rachyrules	30	5	25
+315051	2	25	No Variant	2020-10-07 — 17:40:14 UTC	orucsoraihc, rachyrules	30	5	25
+315050	2	0	No Variant	2020-10-07 — 17:38:16 UTC	orucsoraihc, rachyrules	30	5	25
+315046	2	0	No Variant	2020-10-07 — 17:37:05 UTC	orucsoraihc, rachyrules	30	5	25
+315045	2	0	No Variant	2020-10-07 — 17:35:45 UTC	orucsoraihc, rachyrules	30	5	25
+315043	2	0	No Variant	2020-10-07 — 17:35:03 UTC	orucsoraihc, rachyrules	30	5	25
+315042	2	0	No Variant	2020-10-07 — 17:34:33 UTC	orucsoraihc, rachyrules	31	5	25
+315041	2	0	No Variant	2020-10-07 — 17:33:56 UTC	orucsoraihc, rachyrules	31	5	25
+315039	2	0	No Variant	2020-10-07 — 17:33:08 UTC	orucsoraihc, rachyrules	31	5	25
+315037	2	0	No Variant	2020-10-07 — 17:32:09 UTC	orucsoraihc, rachyrules	31	5	25
+315035	2	0	No Variant	2020-10-07 — 17:30:57 UTC	orucsoraihc, rachyrules	31	5	25
+315031	2	0	No Variant	2020-10-07 — 17:29:04 UTC	orucsoraihc, rachyrules	31	5	25
+315027	2	0	No Variant	2020-10-07 — 17:27:53 UTC	orucsoraihc, rachyrules	31	5	25
+315025	2	0	No Variant	2020-10-07 — 17:26:05 UTC	orucsoraihc, rachyrules	31	5	25
+315022	2	0	No Variant	2020-10-07 — 17:24:01 UTC	orucsoraihc, rachyrules	31	5	25
+315021	2	0	No Variant	2020-10-07 — 17:22:36 UTC	orucsoraihc, rachyrules	31	5	25
+315019	2	0	No Variant	2020-10-07 — 17:22:04 UTC	orucsoraihc, rachyrules	31	5	25
+315017	2	25	No Variant	2020-10-07 — 17:20:42 UTC	orucsoraihc, rachyrules	31	5	25
+315014	2	0	No Variant	2020-10-07 — 17:18:15 UTC	orucsoraihc, rachyrules	31	5	25
+315012	2	0	No Variant	2020-10-07 — 17:16:30 UTC	orucsoraihc, rachyrules	31	5	25
+314789	2	25	No Variant	2020-10-07 — 05:57:58 UTC	orucsoraihc, StKildaFan	181	5	25
+314782	2	25	No Variant	2020-10-07 — 05:45:28 UTC	orucsoraihc, StKildaFan	186	5	25
+314772	2	0	No Variant	2020-10-07 — 05:30:11 UTC	orucsoraihc, StKildaFan	187	5	25
+314766	2	25	No Variant	2020-10-07 — 05:18:00 UTC	orucsoraihc, StKildaFan	191	5	25
+314742	3	25	No Variant	2020-10-07 — 04:39:46 UTC	AnnaTheNerd, orucsoraihc, StKildaFan	68	5	25
+314720	3	24	No Variant	2020-10-07 — 04:19:30 UTC	AnnaTheNerd, orucsoraihc, StKildaFan	77	5	25
+314605	4	24	Rainbow & Pink (5 Suits)	2020-10-07 — 01:09:52 UTC	avanderwalde, melwen, orucsoraihc, rkass	4	5	25
+314563	4	0	Rainbow & Pink (5 Suits)	2020-10-07 — 00:26:29 UTC	avanderwalde, melwen, orucsoraihc, rkass	4	5	25
+314536	4	0	Rainbow & Pink (5 Suits)	2020-10-06 — 23:53:42 UTC	avanderwalde, Feich59, melwen, orucsoraihc	5	5	25
+314311	3	20	Pink (4 Suits)	2020-10-06 — 17:03:52 UTC	MarkusKahlsen, newduke, orucsoraihc	59	4	20
+314274	3	24	No Variant	2020-10-06 — 14:30:41 UTC	Kyle, orucsoraihc, robense	28	5	25
+314268	3	24	No Variant	2020-10-06 — 14:14:16 UTC	Kyle, orucsoraihc, robense	28	5	25
+314265	3	0	No Variant	2020-10-06 — 13:56:58 UTC	Kyle, orucsoraihc, robense	30	5	25
+314062	6	0	No Variant	2020-10-06 — 04:43:06 UTC	duckmedic, JackFrost, ksfortson, orucsoraihc, StKildaFan, wump	91	5	25
+314012	4	27	White (6 Suits)	2020-10-06 — 03:20:46 UTC	melwen, orucsoraihc, StKildaFan, VipersOracle	29	6	30
+313935	5	29	Prism (6 Suits)	2020-10-06 — 01:54:59 UTC	Bonja97, melwen, orucsoraihc, pianoblook, StKildaFan	24	6	30
+313798	3	28	Gray (6 Suits)	2020-10-05 — 22:14:28 UTC	DMoney, orucsoraihc, Pepepe	36	6	30
+313711	4	24	Rainbow (5 Suits)	2020-10-05 — 21:25:01 UTC	jack67889, MarkusKahlsen, orucsoraihc, sephiroth	63	5	25
+313654	3	0	Rainbow (5 Suits)	2020-10-05 — 20:47:21 UTC	jack67889, orucsoraihc, Veexliat	135	5	25
+313642	3	0	Black (5 Suits)	2020-10-05 — 20:23:59 UTC	newduke, orucsoraihc, rachyrules	74	5	25
+313635	3	0	Black (5 Suits)	2020-10-05 — 20:12:01 UTC	newduke, orucsoraihc, rachyrules	92	5	25
+313518	3	26	Rainbow (6 Suits)	2020-10-05 — 18:37:17 UTC	orucsoraihc, Pepepe, wump	104	6	30
+313450	3	25	No Variant	2020-10-05 — 17:30:55 UTC	level_0, level_17, orucsoraihc	680	5	25
+313429	2	25	No Variant	2020-10-05 — 16:57:34 UTC	orucsoraihc, rachyrules	55	5	25
+313426	2	24	No Variant	2020-10-05 — 16:54:02 UTC	orucsoraihc, rachyrules	55	5	25
+313425	2	25	No Variant	2020-10-05 — 16:51:14 UTC	orucsoraihc, rachyrules	56	5	25
+313421	2	0	No Variant	2020-10-05 — 16:48:57 UTC	orucsoraihc, rachyrules	55	5	25
+313420	2	0	No Variant	2020-10-05 — 16:48:27 UTC	orucsoraihc, rachyrules	56	5	25
+313419	2	25	No Variant	2020-10-05 — 16:46:12 UTC	orucsoraihc, rachyrules	56	5	25
+313418	2	0	No Variant	2020-10-05 — 16:43:38 UTC	orucsoraihc, rachyrules	55	5	25
+313415	2	0	No Variant	2020-10-05 — 16:42:21 UTC	orucsoraihc, rachyrules	58	5	25
+313412	2	0	No Variant	2020-10-05 — 16:40:24 UTC	orucsoraihc, rachyrules	60	5	25
+313411	2	0	No Variant	2020-10-05 — 16:39:05 UTC	orucsoraihc, rachyrules	61	5	25
+313410	2	0	No Variant	2020-10-05 — 16:37:07 UTC	orucsoraihc, rachyrules	62	5	25
+313409	2	0	No Variant	2020-10-05 — 16:35:32 UTC	orucsoraihc, rachyrules	62	5	25
+313408	2	25	No Variant	2020-10-05 — 16:34:09 UTC	orucsoraihc, rachyrules	62	5	25
+313405	2	0	No Variant	2020-10-05 — 16:29:38 UTC	orucsoraihc, rachyrules	63	5	25
+313403	2	0	No Variant	2020-10-05 — 16:28:30 UTC	orucsoraihc, rachyrules	62	5	25
+313260	4	26	Rainbow (6 Suits)	2020-10-05 — 03:53:39 UTC	banonogon, orucsoraihc, StKildaFan, VipersOracle	163	6	30
+313235	4	23	No Variant	2020-10-05 — 03:19:07 UTC	banonogon, orucsoraihc, StKildaFan, VipersOracle	204	5	25
+313218	5	21	No Variant	2020-10-05 — 02:50:44 UTC	banonogon, cockdestroyer, orucsoraihc, StKildaFan, VipersOracle	262	5	25
+313196	4	28	Rainbow (6 Suits)	2020-10-05 — 02:22:37 UTC	banonogon, orucsoraihc, rfrank27, VipersOracle	85	6	30
+313170	3	30	Rainbow (6 Suits)	2020-10-05 — 01:53:09 UTC	banonogon, orucsoraihc, rfrank27	19	6	30
+313133	3	21	No Variant	2020-10-05 — 01:18:23 UTC	nkj, orucsoraihc, rfrank27	69	5	25
+313026	4	30	Dark Rainbow (6 Suits)	2020-10-04 — 22:21:12 UTC	avanderwalde, ejwu, orucsoraihc, rkass	41	6	30
+312754	4	24	No Variant	2020-10-04 — 13:47:12 UTC	cockdestroyer, orucsoraihc, StKildaFan, TheDaniMan	12	5	25
+312749	3	0	No Variant	2020-10-04 — 13:25:07 UTC	cockdestroyer, orucsoraihc, TheDaniMan	37	5	25
+312747	3	0	No Variant	2020-10-04 — 13:21:02 UTC	cockdestroyer, orucsoraihc, TheDaniMan	50	5	25
+312746	3	0	No Variant	2020-10-04 — 13:09:04 UTC	cockdestroyer, orucsoraihc, TheDaniMan	57	5	25
+312744	3	0	No Variant	2020-10-04 — 12:58:52 UTC	cockdestroyer, orucsoraihc, TheDaniMan	58	5	25
+311386	4	25	No Variant	2020-10-02 — 23:58:17 UTC	ejwu, orucsoraihc, rachyrules, StKildaFan	213	5	25
+311067	3	0	Black (5 Suits)	2020-10-02 — 16:03:11 UTC	orucsoraihc, rachyrules, Veexliat	171	5	25
+309038	5	25	No Variant	2020-09-29 — 12:22:13 UTC	asaelr, Feich59, jack67889, nitawa, orucsoraihc	13	5	25
+309032	5	23	No Variant	2020-09-29 — 11:35:38 UTC	Animex52, catula, Feich59, orucsoraihc, Sucubis	38	5	25
+308537	3	30	Rainbow & Prism (6 Suits)	2020-09-28 — 20:53:59 UTC	orucsoraihc, timotree, wump	22	6	30
+308506	4	23	No Variant	2020-09-28 — 20:11:32 UTC	orucsoraihc, pettzar, timotree, wump	95	5	25
+307587	6	24	No Variant	2020-09-27 — 12:23:44 UTC	catula, Hapotata, nitawa, orucsoraihc, StKildaFan, TimeHoodie	32	5	25
+307583	6	0	No Variant	2020-09-27 — 11:53:20 UTC	catula, Hapotata, nitawa, orucsoraihc, StKildaFan, TimeHoodie	42	5	25
+305870	3	0	No Variant	2020-09-25 — 04:40:29 UTC	orucsoraihc, parrotdoxair, StKildaFan	102	5	25
+305829	3	24	No Variant	2020-09-25 — 04:04:04 UTC	orucsoraihc, parrotdoxair, StKildaFan	106	5	25
+305811	3	22	No Variant	2020-09-25 — 03:33:44 UTC	orucsoraihc, parrotdoxair, StKildaFan	109	5	25
+305361	5	0	No Variant	2020-09-24 — 15:04:03 UTC	nitawa, orucsoraihc, StKildaFan, vEnhance, wump	35	5	25
+305299	4	25	No Variant	2020-09-24 — 10:09:42 UTC	Nitrate2, orucsoraihc, Pablo-, StKildaFan	125	5	25
+305298	4	24	No Variant	2020-09-24 — 09:44:39 UTC	level_17, lvl4, Nitrate2, orucsoraihc	1092	5	25
+304510	4	23	No Variant	2020-09-23 — 04:00:16 UTC	cedarbags, orucsoraihc, parrotdoxair, StKildaFan	336	5	25
+304461	4	0	No Variant	2020-09-23 — 03:23:09 UTC	cedarbags, orucsoraihc, parrotdoxair, StKildaFan	384	5	25
+304008	5	0	Prism (6 Suits)	2020-09-22 — 15:52:10 UTC	Animex52, emilyzhao, MarkusKahlsen, orucsoraihc, pianoblook	10	6	30
+303960	5	19	No Variant	2020-09-22 — 12:08:30 UTC	catula, cockdestroyer, orucsoraihc, sephiroth, StKildaFan	1510	5	25
+303953	3	0	No Variant	2020-09-22 — 11:39:36 UTC	cockdestroyer, orucsoraihc, StKildaFan	121	5	25
+303946	3	0	No Variant	2020-09-22 — 11:21:51 UTC	cockdestroyer, lordmadara, orucsoraihc	3260	5	25
+303894	4	25	No Variant	2020-09-22 — 07:14:28 UTC	ejwu, orucsoraihc, savoryoatmeal, TimeHoodie	162	5	25
+303881	3	25	No Variant	2020-09-22 — 06:16:11 UTC	cockdestroyer, orucsoraihc, savoryoatmeal	573	5	25
+303316	6	0	No Variant	2020-09-21 — 12:52:36 UTC	Animex52, catula, cockdestroyer, orucsoraihc, sephiroth, StKildaFan	10	5	25
+303314	6	22	No Variant	2020-09-21 — 12:25:56 UTC	Animex52, catula, cockdestroyer, orucsoraihc, sephiroth, StKildaFan	11	5	25
+303308	6	0	No Variant	2020-09-21 — 12:00:28 UTC	Animex52, catula, cockdestroyer, orucsoraihc, sephiroth, StKildaFan	12	5	25
+303304	3	23	No Variant	2020-09-21 — 11:39:30 UTC	catula, orucsoraihc, StKildaFan	114	5	25
+303296	4	23	No Variant	2020-09-21 — 10:59:36 UTC	catula, level_17, level_3, orucsoraihc	419	5	25
+303289	2	25	No Variant	2020-09-21 — 10:24:15 UTC	catula, orucsoraihc	387	5	25
+302947	5	0	Black (5 Suits)	2020-09-21 — 02:59:44 UTC	Animex52, cockdestroyer, orucsoraihc, penisman, vEnhance	20	5	25
+302274	5	0	No Variant	2020-09-20 — 12:07:21 UTC	Animex52, catula, cockdestroyer, Fireheart, orucsoraihc	126	5	25
+302270	5	24	No Variant	2020-09-20 — 11:31:32 UTC	Bonja97, catula, cockdestroyer, Fireheart, orucsoraihc	80	5	25
+302264	5	0	No Variant	2020-09-20 — 11:03:44 UTC	Bonja97, catula, cockdestroyer, Fireheart, orucsoraihc	92	5	25
+302242	3	0	6 Suits	2020-09-20 — 09:27:21 UTC	derekcheah, orucsoraihc, rachyrules	252	6	30
+302234	3	0	6 Suits	2020-09-20 — 08:43:19 UTC	derekcheah, orucsoraihc, rachyrules	365	6	30
+302225	3	25	No Variant	2020-09-20 — 07:58:27 UTC	micerang, orucsoraihc, rachyrules	57	5	25
+302220	3	25	No Variant	2020-09-20 — 07:33:42 UTC	micerang, orucsoraihc, rachyrules	79	5	25
+302025	3	22	No Variant	2020-09-20 — 02:38:28 UTC	antitelharsic, orucsoraihc, timotree	69	5	25
+301989	5	0	No Variant	2020-09-20 — 01:58:49 UTC	antitelharsic, methmatics, orucsoraihc, timotree, vEnhance	31	5	25
+301955	4	0	No Variant	2020-09-20 — 01:31:07 UTC	antitelharsic, methmatics, orucsoraihc, timotree	70	5	25
+301910	6	0	No Variant	2020-09-20 — 00:56:42 UTC	antitelharsic, avanderwalde, emilyzhao, methmatics, orucsoraihc, rkass	10	5	25
+301883	3	24	No Variant	2020-09-20 — 00:25:34 UTC	antitelharsic, emilyzhao, orucsoraihc	71	5	25
+301556	6	24	No Variant	2020-09-19 — 11:43:31 UTC	catula, cockdestroyer, Div, jack67889, orucsoraihc, sephiroth	60	5	25
+301549	4	23	No Variant	2020-09-19 — 11:08:47 UTC	catula, Div, jack67889, orucsoraihc	717	5	25
+301475	3	29	Black & White (6 Suits)	2020-09-19 — 07:28:45 UTC	ejwu, orucsoraihc, savoryoatmeal	39	6	30
+301429	3	0	Black & White (6 Suits)	2020-09-19 — 06:49:45 UTC	ejwu, orucsoraihc, savoryoatmeal	47	6	30
+301403	2	24	No Variant	2020-09-19 — 06:19:08 UTC	ejwu, orucsoraihc	1031	5	25
+301378	4	0	No Variant	2020-09-19 — 05:46:50 UTC	catula, ejwu, orucsoraihc, StKildaFan	442	5	25
+301364	5	0	No Variant	2020-09-19 — 05:25:41 UTC	catula, ejwu, nukelauncher, orucsoraihc, StKildaFan	296	5	25
+301342	3	23	No Variant	2020-09-19 — 05:04:08 UTC	catula, orucsoraihc, StKildaFan	130	5	25
+301330	2	23	No Variant	2020-09-19 — 04:42:29 UTC	catula, orucsoraihc	393	5	25
+301132	3	25	No Variant	2020-09-19 — 01:43:53 UTC	orucsoraihc, parrotdoxair, StKildaFan	134	5	25
+301106	2	22	No Variant	2020-09-19 — 01:13:03 UTC	orucsoraihc, parrotdoxair	1117	5	25
+301068	4	24	No Variant	2020-09-19 — 00:27:49 UTC	anser, ejwu, orucsoraihc, parrotdoxair	473	5	25
+301044	3	25	No Variant	2020-09-18 — 23:42:12 UTC	orucsoraihc, parrotdoxair, vEnhance	199	5	25
+300661	3	24	No Variant	2020-09-18 — 13:54:50 UTC	jack67889, orucsoraihc, Pablo-	259	5	25
+300653	5	0	4 Suits	2020-09-18 — 13:20:23 UTC	Animex52, catula, jack67889, MKQ, orucsoraihc	23	4	20
+300648	5	0	Rainbow (6 Suits)	2020-09-18 — 13:04:01 UTC	Animex52, catula, jack67889, MKQ, orucsoraihc	50	6	30
+300644	4	0	Rainbow (6 Suits)	2020-09-18 — 12:38:17 UTC	Animex52, catula, jack67889, orucsoraihc	238	6	30
+300636	4	0	Rainbow (6 Suits)	2020-09-18 — 12:22:43 UTC	Animex52, catula, jack67889, orucsoraihc	493	6	30
+300633	4	26	Black (6 Suits)	2020-09-18 — 12:02:41 UTC	Animex52, catula, cockdestroyer, orucsoraihc	273	6	30
+300620	5	27	6 Suits	2020-09-18 — 11:20:09 UTC	Animex52, catula, cockdestroyer, MKQ, orucsoraihc	45	6	30
+300617	6	0	6 Suits	2020-09-18 — 10:42:48 UTC	Animex52, cockdestroyer, orucsoraihc, rachyrules, Stinkydude63, whalesgomoo	84	6	30
+300614	3	21	No Variant	2020-09-18 — 10:10:40 UTC	Animex52, orucsoraihc, rachyrules	119	5	25
+300611	3	25	No Variant	2020-09-18 — 09:34:01 UTC	orucsoraihc, rachyrules, Tiramisu1th	220	5	25
+300608	6	30	6 Suits	2020-09-18 — 09:05:22 UTC	Animex52, antitelharsic, catula, methmatics, orucsoraihc, StKildaFan	16	6	30
+300603	6	0	6 Suits	2020-09-18 — 08:39:10 UTC	Animex52, antitelharsic, catula, methmatics, orucsoraihc, StKildaFan	19	6	30
+300597	6	0	6 Suits	2020-09-18 — 07:30:41 UTC	Animex52, asaelr, emilyzhao, orucsoraihc, sephiroth, squidgetx	8	6	30
+300542	2	25	No Variant	2020-09-18 — 05:15:42 UTC	orucsoraihc, StKildaFan	249	5	25
+300530	2	22	No Variant	2020-09-18 — 05:00:01 UTC	orucsoraihc, StKildaFan	271	5	25
+300522	2	25	No Variant	2020-09-18 — 04:49:30 UTC	orucsoraihc, StKildaFan	275	5	25
+300515	2	22	No Variant	2020-09-18 — 04:36:27 UTC	orucsoraihc, StKildaFan	277	5	25
+300412	2	25	White (5 Suits)	2020-09-18 — 01:51:53 UTC	orucsoraihc, StKildaFan	184	5	25
+300363	3	24	No Variant	2020-09-18 — 00:40:28 UTC	kevincaseytdk1, orucsoraihc, StKildaFan	141	5	25
+300348	3	23	No Variant	2020-09-18 — 00:17:15 UTC	kevincaseytdk1, orucsoraihc, StKildaFan	148	5	25
+299599	5	24	No Variant	2020-09-17 — 10:24:06 UTC	cockdestroyer, Nitrate2, orucsoraihc, sephiroth, swineherd	27	5	25
+299594	5	0	No Variant	2020-09-17 — 10:04:10 UTC	cockdestroyer, Nitrate2, orucsoraihc, sephiroth, swineherd	25	5	25
+299590	3	20	4 Suits	2020-09-17 — 09:45:15 UTC	cockdestroyer, orucsoraihc, sephiroth	118	4	20
+299587	4	20	4 Suits	2020-09-17 — 09:20:06 UTC	Animex52, cockdestroyer, orucsoraihc, StKildaFan	101	4	20
+299585	3	0	4 Suits	2020-09-17 — 09:02:35 UTC	Animex52, cockdestroyer, orucsoraihc	59	4	20
+299580	4	28	6 Suits	2020-09-17 — 08:37:30 UTC	Animex52, catula, orucsoraihc, StKildaFan	100	6	30
+299572	4	0	6 Suits	2020-09-17 — 08:06:14 UTC	Animex52, catula, cockdestroyer, orucsoraihc	151	6	30
+299568	3	25	No Variant	2020-09-17 — 07:43:07 UTC	Animex52, cockdestroyer, orucsoraihc	125	5	25
+299564	5	0	No Variant	2020-09-17 — 07:23:22 UTC	Animex52, cockdestroyer, Dr_Kakashi, orucsoraihc, sephiroth	10	5	25
+299560	5	24	No Variant	2020-09-17 — 07:05:32 UTC	Animex22, cockdestroyer, Dr_Kakashi, orucsoraihc, Wolfiee	11	5	25
+299541	3	23	No Variant	2020-09-17 — 06:15:22 UTC	ikahimesama, orucsoraihc, vEnhance	218	5	25
+299234	3	24	No Variant	2020-09-17 — 00:32:06 UTC	dhruvpillai6, infinity00, orucsoraihc	422	5	25
+298284	3	0	White (5 Suits)	2020-09-15 — 17:57:00 UTC	orucsoraihc, pianoblook, vEnhance	17	5	25
+298082	3	25	No Variant	2020-09-15 — 04:34:49 UTC	orucsoraihc, rachyrules, StKildaFan	137	5	25
+298057	3	25	No Variant	2020-09-15 — 04:09:15 UTC	orucsoraihc, rachyrules, StKildaFan	157	5	25
+297387	4	24	No Variant	2020-09-14 — 06:24:20 UTC	AnnaTheNerd, KK47_Natural, orucsoraihc, StKildaFan	793	5	25
+297368	5	0	No Variant	2020-09-14 — 05:46:56 UTC	AnnaTheNerd, Bonja97, Flamehead90, orucsoraihc, StKildaFan	143	5	25
+297346	5	22	No Variant	2020-09-14 — 05:19:36 UTC	AnnaTheNerd, Bonja97, Flamehead90, orucsoraihc, StKildaFan	176	5	25
+293800	2	21	No Variant	2020-09-10 — 02:58:55 UTC	orucsoraihc, StKildaFan	321	5	25
+293783	2	25	No Variant	2020-09-10 — 02:44:49 UTC	orucsoraihc, StKildaFan	328	5	25
+293770	2	25	No Variant	2020-09-10 — 02:31:56 UTC	orucsoraihc, StKildaFan	335	5	25
+293758	2	25	No Variant	2020-09-10 — 02:20:03 UTC	orucsoraihc, StKildaFan	344	5	25
+293098	6	24	No Variant	2020-09-09 — 04:37:36 UTC	ADrone, ejwu, honobu, orucsoraihc, pianoblook, StKildaFan	75	5	25
+293071	5	27	6 Suits	2020-09-09 — 03:54:01 UTC	AnnaTheNerd, honobu, orucsoraihc, pianoblook, StKildaFan	96	6	30
+292273	4	0	No Variant	2020-09-08 — 04:29:31 UTC	orucsoraihc, Rubix, StKildaFan, Tiramisu1th	501	5	25
+292259	3	24	No Variant	2020-09-08 — 04:04:11 UTC	orucsoraihc, Rubix, StKildaFan	459	5	25
+292235	3	0	No Variant	2020-09-08 — 03:19:09 UTC	orucsoraihc, Rubix, StKildaFan	551	5	25
+292070	2	27	Rainbow (6 Suits)	2020-09-07 — 23:01:19 UTC	orucsoraihc, Rubix	500	6	30
+292048	2	0	Rainbow (6 Suits)	2020-09-07 — 22:33:58 UTC	orucsoraihc, Rubix	593	6	30
+292034	2	29	Rainbow (6 Suits)	2020-09-07 — 22:16:18 UTC	orucsoraihc, Rubix	717	6	30
+292012	2	0	Rainbow (6 Suits)	2020-09-07 — 21:55:33 UTC	orucsoraihc, Rubix	971	6	30
+291993	2	25	No Variant	2020-09-07 — 21:42:48 UTC	orucsoraihc, Rubix	1206	5	25
+291976	2	0	No Variant	2020-09-07 — 21:24:49 UTC	orucsoraihc, Rubix	1249	5	25
+291956	2	18	No Variant	2020-09-07 — 21:08:52 UTC	orucsoraihc, Rubix	1299	5	25
+291628	2	24	No Variant	2020-09-07 — 07:14:56 UTC	orucsoraihc, StKildaFan	406	5	25
+291626	2	18	No Variant	2020-09-07 — 07:04:01 UTC	orucsoraihc, StKildaFan	411	5	25
+291621	2	23	No Variant	2020-09-07 — 06:50:28 UTC	orucsoraihc, StKildaFan	423	5	25
+291616	2	24	No Variant	2020-09-07 — 06:36:17 UTC	orucsoraihc, StKildaFan	432	5	25
+291612	2	21	No Variant	2020-09-07 — 06:23:37 UTC	orucsoraihc, StKildaFan	440	5	25
+291608	2	25	No Variant	2020-09-07 — 06:12:56 UTC	orucsoraihc, StKildaFan	450	5	25
+291604	2	20	No Variant	2020-09-07 — 06:01:53 UTC	orucsoraihc, StKildaFan	455	5	25
+291593	2	23	No Variant	2020-09-07 — 05:48:14 UTC	orucsoraihc, StKildaFan	458	5	25
+291584	2	23	No Variant	2020-09-07 — 05:31:55 UTC	orucsoraihc, StKildaFan	496	5	25
+291570	2	23	No Variant	2020-09-07 — 05:14:26 UTC	orucsoraihc, StKildaFan	719	5	25
+291547	2	23	No Variant	2020-09-07 — 04:55:11 UTC	orucsoraihc, StKildaFan	741	5	25
+291506	5	24	No Variant	2020-09-07 — 04:20:27 UTC	antitelharsic, orucsoraihc, Rubix, sin_faith, StKildaFan	24	5	25
+291470	5	0	No Variant	2020-09-07 — 03:44:58 UTC	antitelharsic, orucsoraihc, Rubix, sin_faith, StKildaFan	30	5	25
+291442	4	24	No Variant	2020-09-07 — 03:11:35 UTC	orucsoraihc, Rubix, sin_faith, StKildaFan	64	5	25
+290599	3	0	Black (6 Suits)	2020-09-06 — 07:10:47 UTC	catula, orucsoraihc, StKildaFan	261	6	30
+290593	3	28	Black (6 Suits)	2020-09-06 — 06:46:54 UTC	catula, orucsoraihc, StKildaFan	325	6	30
+290553	3	0	Black (6 Suits)	2020-09-06 — 06:16:02 UTC	catula, orucsoraihc, StKildaFan	399	6	30
+290514	3	30	Rainbow (6 Suits)	2020-09-06 — 05:35:59 UTC	orucsoraihc, Rubix, XMIL	689	6	30
+290486	3	25	White (5 Suits)	2020-09-06 — 04:54:14 UTC	orucsoraihc, Rubix, XMIL	23	5	25
+290464	3	25	No Variant	2020-09-06 — 04:27:39 UTC	orucsoraihc, Rubix, XMIL	63	5	25
+290449	2	25	No Variant	2020-09-06 — 04:08:29 UTC	orucsoraihc, Rubix	1376	5	25
+290433	2	23	No Variant	2020-09-06 — 03:47:04 UTC	orucsoraihc, Rubix	1448	5	25
+290411	2	22	No Variant	2020-09-06 — 03:23:01 UTC	orucsoraihc, Rubix	1532	5	25
+290386	2	23	No Variant	2020-09-06 — 03:03:11 UTC	orucsoraihc, Rubix	1621	5	25
+290347	3	23	No Variant	2020-09-06 — 02:29:48 UTC	catula, orucsoraihc, StKildaFan	624	5	25
+290324	3	22	No Variant	2020-09-06 — 02:07:01 UTC	catula, orucsoraihc, StKildaFan	645	5	25
+289765	5	23	No Variant	2020-09-05 — 07:58:02 UTC	catula, orucsoraihc, Rubix, StKildaFan, Tiramisu1th	383	5	25
+289724	5	19	No Variant	2020-09-05 — 07:26:17 UTC	catula, orucsoraihc, Rubix, StKildaFan, Tiramisu1th	457	5	25
+289677	5	20	No Variant	2020-09-05 — 06:47:58 UTC	catula, orucsoraihc, Rubix, StKildaFan, Tiramisu1th	837	5	25
+289651	2	18	No Variant	2020-09-05 — 06:12:06 UTC	orucsoraihc, Rubix	1703	5	25
+289623	3	19	No Variant	2020-09-05 — 05:50:18 UTC	orucsoraihc, Rubix, StKildaFan	1017	5	25
+289580	4	19	No Variant	2020-09-05 — 05:28:09 UTC	orucsoraihc, Rubix, StKildaFan, Tiramisu1th	541	5	25
+289549	3	23	No Variant	2020-09-05 — 05:01:57 UTC	orucsoraihc, StKildaFan, Tiramisu1th	223	5	25
+289521	3	22	No Variant	2020-09-05 — 04:35:31 UTC	orucsoraihc, StKildaFan, Tiramisu1th	250	5	25
+289500	3	23	No Variant	2020-09-05 — 04:05:17 UTC	catula, orucsoraihc, StKildaFan	840	5	25
+289485	3	21	No Variant	2020-09-05 — 03:37:48 UTC	catula, orucsoraihc, StKildaFan	940	5	25
+289405	2	22	No Variant	2020-09-05 — 01:59:31 UTC	orucsoraihc, StKildaFan	1078	5	25
+289375	2	22	No Variant	2020-09-05 — 01:37:24 UTC	orucsoraihc, StKildaFan	1148	5	25
+289358	2	25	No Variant	2020-09-05 — 01:23:22 UTC	orucsoraihc, StKildaFan	1840	5	25
+287873	5	22	No Variant	2020-09-03 — 07:08:54 UTC	antitelharsic, asaelr, impostor, newduke, orucsoraihc	13	5	25
+287856	4	0	No Variant	2020-09-03 — 06:42:16 UTC	asaelr, orucsoraihc, robense, StKildaFan	16	5	25
+287755	4	25	No Variant	2020-09-03 — 04:22:32 UTC	orucsoraihc, parrotdoxair, Rubix, StKildaFan	899	5	25
+287732	4	0	No Variant	2020-09-03 — 03:52:45 UTC	orucsoraihc, parrotdoxair, Rubix, StKildaFan	1253	5	25
+287708	6	24	No Variant	2020-09-03 — 03:25:27 UTC	Ahming, methmatics, orucsoraihc, parrotdoxair, Rubix, StKildaFan	16	5	25
+287686	6	22	No Variant	2020-09-03 — 02:50:59 UTC	Ahming, methmatics, orucsoraihc, parrotdoxair, Rubix, StKildaFan	17	5	25
+287655	2	23	No Variant	2020-09-03 — 02:03:48 UTC	orucsoraihc, Rubix	1952	5	25
+287632	2	24	No Variant	2020-09-03 — 01:28:16 UTC	orucsoraihc, Rubix	2147	5	25
+287609	3	25	No Variant	2020-09-03 — 00:54:31 UTC	orucsoraihc, Rubix, StKildaFan	1095	5	25
+287587	2	25	No Variant	2020-09-03 — 00:23:09 UTC	orucsoraihc, StKildaFan	2288	5	25
+287161	4	25	No Variant	2020-09-02 — 07:49:18 UTC	orucsoraihc, Rubix, StKildaFan, Tiramisu1th	985	5	25
+287149	2	21	No Variant	2020-09-02 — 06:59:56 UTC	orucsoraihc, Rubix	5374	5	25
+287130	3	0	No Variant	2020-09-02 — 06:28:00 UTC	orucsoraihc, Rubix, StKildaFan	1174	5	25
+287109	3	20	No Variant	2020-09-02 — 05:59:59 UTC	orucsoraihc, Rubix, StKildaFan	1291	5	25
+287091	3	0	No Variant	2020-09-02 — 05:26:26 UTC	orucsoraihc, Rubix, StKildaFan	1465	5	25
+287080	3	0	No Variant	2020-09-02 — 05:08:39 UTC	orucsoraihc, Rubix, StKildaFan	1636	5	25
+287049	4	0	No Variant	2020-09-02 — 04:28:44 UTC	orucsoraihc, Rubix, StKildaFan, timotree	180	5	25
+286263	3	24	No Variant	2020-09-01 — 07:24:53 UTC	khm_rican, orucsoraihc, StKildaFan	1881	5	25
+286253	3	21	No Variant	2020-09-01 — 06:52:03 UTC	khm_rican, orucsoraihc, StKildaFan	2163	5	25
+286016	2	24	No Variant	2020-09-01 — 03:31:07 UTC	orucsoraihc, StKildaFan	2532	5	25
+286001	2	0	No Variant	2020-09-01 — 03:18:40 UTC	orucsoraihc, StKildaFan	2750	5	25
+285991	2	23	No Variant	2020-09-01 — 03:08:06 UTC	orucsoraihc, StKildaFan	3051	5	25
+285979	2	23	No Variant	2020-09-01 — 02:50:01 UTC	orucsoraihc, StKildaFan	3507	5	25
+285968	2	20	No Variant	2020-09-01 — 02:31:50 UTC	orucsoraihc, StKildaFan	4109	5	25
+285276	4	21	No Variant	2020-08-31 — 07:06:02 UTC	khm_rican, orucsoraihc, Rubix, StKildaFan	1449	5	25
+285269	4	0	No Variant	2020-08-31 — 06:42:23 UTC	khm_rican, orucsoraihc, Rubix, StKildaFan	1744	5	25
+285258	4	21	No Variant	2020-08-31 — 06:10:51 UTC	khm_rican, orucsoraihc, Rubix, StKildaFan	2076	5	25
+285222	4	22	No Variant	2020-08-31 — 05:08:28 UTC	khm_rican, orucsoraihc, Rubix, StKildaFan	2763	5	25
+285135	4	19	No Variant	2020-08-31 — 03:53:00 UTC	khm_rican, orucsoraihc, Rubix, StKildaFan	3581	5	25

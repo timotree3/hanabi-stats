@@ -1,0 +1,1497 @@
+488304	3	0	Up or Down & Muddy Rainbow (6 Suits)	2021-04-02 — 14:59:19 UTC	Kyle, MangoPie, padi	2	6	30
+485430	2	25	Dark Prism Reversed (5 Suits)	2021-03-30 — 14:17:22 UTC	Kyle, padi	4	5	25
+485429	2	0	Dark Prism Reversed (5 Suits)	2021-03-30 — 14:13:01 UTC	Kyle, padi	4	5	25
+485426	2	22	Dark Prism Reversed (5 Suits)	2021-03-30 — 14:08:06 UTC	Kyle, padi	5	5	25
+485422	2	0	Dark Prism Reversed (5 Suits)	2021-03-30 — 14:01:51 UTC	Kyle, padi	6	5	25
+485417	2	0	Dark Prism Reversed (5 Suits)	2021-03-30 — 13:53:55 UTC	Kyle, padi	6	5	25
+485411	2	0	Dark Prism Reversed (5 Suits)	2021-03-30 — 13:48:52 UTC	Kyle, padi	7	5	25
+485406	2	25	Dark Rainbow Reversed (5 Suits)	2021-03-30 — 13:41:13 UTC	Kyle, padi	10	5	25
+485405	2	0	Dark Rainbow Reversed (5 Suits)	2021-03-30 — 13:35:45 UTC	Kyle, padi	12	5	25
+480168	2	23	Gray Reversed (5 Suits)	2021-03-25 — 16:42:42 UTC	Kyle, padi	2	5	25
+480159	2	0	Gray Reversed (5 Suits)	2021-03-25 — 16:35:27 UTC	Kyle, padi	2	5	25
+480158	2	0	Gray Reversed (5 Suits)	2021-03-25 — 16:31:43 UTC	Kyle, padi	2	5	25
+480155	2	0	Gray Reversed (5 Suits)	2021-03-25 — 16:30:06 UTC	Kyle, padi	2	5	25
+480151	2	23	Gray Reversed (5 Suits)	2021-03-25 — 16:26:06 UTC	Kyle, padi	2	5	25
+480147	2	0	Gray Reversed (5 Suits)	2021-03-25 — 16:20:43 UTC	Kyle, padi	2	5	25
+480143	2	0	Gray Reversed (5 Suits)	2021-03-25 — 16:16:21 UTC	Kyle, padi	4	5	25
+480139	2	0	Gray Reversed (5 Suits)	2021-03-25 — 16:11:00 UTC	Kyle, padi	4	5	25
+480138	2	0	Gray Reversed (5 Suits)	2021-03-25 — 16:08:32 UTC	Kyle, padi	5	5	25
+480137	2	0	Gray Reversed (5 Suits)	2021-03-25 — 16:07:02 UTC	Kyle, padi	6	5	25
+480134	2	0	Gray Reversed (5 Suits)	2021-03-25 — 16:03:46 UTC	Kyle, padi	6	5	25
+480132	2	20	Rainbow Reversed (4 Suits)	2021-03-25 — 16:00:56 UTC	Kyle, padi	5	4	20
+480131	2	0	Rainbow Reversed (4 Suits)	2021-03-25 — 15:54:25 UTC	Kyle, padi	9	4	20
+480130	2	20	Reversed (4 Suits)	2021-03-25 — 15:51:22 UTC	Kyle, padi	20	4	20
+480127	2	0	Reversed (4 Suits)	2021-03-25 — 15:47:07 UTC	Kyle, padi	28	4	20
+477984	3	23	Up or Down & Muddy Rainbow (5 Suits)	2021-03-23 — 14:30:38 UTC	jeff10, Kyle, padi	3	5	25
+477979	2	30	Up or Down & Null (6 Suits)	2021-03-23 — 14:12:11 UTC	Kyle, padi	1	6	30
+477973	2	0	Up or Down & Null (6 Suits)	2021-03-23 — 14:01:53 UTC	Kyle, padi	1	6	30
+477971	2	0	Up or Down & Null (6 Suits)	2021-03-23 — 13:59:35 UTC	Kyle, padi	1	6	30
+472956	5	0	Clue Starved & Pink (6 Suits)	2021-03-18 — 23:37:09 UTC	jack67889, kevincaseytdk1, Lanvin, MarkusKahlsen, padi	2	6	30
+472919	5	29	Clue Starved & Pink (6 Suits)	2021-03-18 — 22:57:14 UTC	jack67889, kevincaseytdk1, Lanvin, MarkusKahlsen, padi	2	6	30
+472655	3	23	Up or Down & White (5 Suits)	2021-03-18 — 20:03:36 UTC	padi, sephiroth, VerySloppyTwo	6	5	25
+472580	4	24	White-Ones & White (5 Suits)	2021-03-18 — 19:29:35 UTC	indego, Lanvin, padi, VerySloppyTwo	1	5	25
+471975	3	23	No Variant	2021-03-18 — 00:30:05 UTC	Damian000, padi, wolfpack	164	5	25
+471514	3	29	Brown-Ones & Rainbow (6 Suits)	2021-03-17 — 19:26:33 UTC	colton, Lanvin, padi	1	6	30
+471433	5	0	Rainbow & White (5 Suits)	2021-03-17 — 18:29:32 UTC	CaitlinSmith, ChristopheAF, Lanvin, padi, possum	2	5	25
+470940	4	30	White-Ones & Prism (6 Suits)	2021-03-17 — 04:01:56 UTC	corys, padi, possum, xor	2	6	30
+470918	4	0	White-Ones & Prism (6 Suits)	2021-03-17 — 03:34:39 UTC	corys, Onen, padi, xor	3	6	30
+466150	4	0	Rainbow & Cocoa Rainbow (6 Suits)	2021-03-13 — 00:44:28 UTC	ChristopheAF, Lanvin, melwen, padi	6	6	30
+466136	5	0	Special Mix (5 Suits)	2021-03-13 — 00:27:16 UTC	ChristopheAF, HelanaAshryvr, Lanvin, melwen, padi	2	5	25
+466127	5	0	Special Mix (5 Suits)	2021-03-13 — 00:10:46 UTC	ChristopheAF, HelanaAshryvr, Lanvin, melwen, padi	2	5	25
+465113	3	25	Pink & Muddy Rainbow (5 Suits)	2021-03-12 — 00:34:01 UTC	asaelr, ChristopheAF, padi	3	5	25
+465103	3	0	Pink & Muddy Rainbow (5 Suits)	2021-03-12 — 00:05:15 UTC	asaelr, ChristopheAF, padi	5	5	25
+465092	3	0	Pink & Muddy Rainbow (5 Suits)	2021-03-11 — 23:49:16 UTC	asaelr, ChristopheAF, padi	6	5	25
+464150	5	30	Null (6 Suits)	2021-03-11 — 00:54:00 UTC	Bonja97, melwen, padi, rz, Zamiel	2	6	30
+464130	5	0	Null (6 Suits)	2021-03-11 — 00:18:57 UTC	Bonja97, melwen, padi, rz, Zamiel	2	6	30
+464102	4	0	Gray Pink (5 Suits)	2021-03-10 — 23:54:37 UTC	micerang, padi, rz, Zamiel	6	5	25
+464058	3	0	Gray Pink (5 Suits)	2021-03-10 — 23:36:17 UTC	padi, rz, Zamiel	15	5	25
+464035	4	25	Dark Pink (5 Suits)	2021-03-10 — 23:25:02 UTC	ChristopheAF, padi, rz, Zamiel	9	5	25
+461866	5	21	Dark Brown (5 Suits)	2021-03-08 — 23:16:19 UTC	Bot-Fiora, ChristopheAF, newduke, padi, robense	4	5	25
+461816	5	0	Dark Brown (5 Suits)	2021-03-08 — 22:43:49 UTC	Bot-Fiora, ChristopheAF, newduke, padi, robense	6	5	25
+461438	3	25	No Variant	2021-03-08 — 15:58:04 UTC	eliclax, padi, sjdrodge	13	5	25
+461429	3	25	No Variant	2021-03-08 — 15:45:17 UTC	eliclax, padi, sjdrodge	13	5	25
+461421	3	0	No Variant	2021-03-08 — 15:33:00 UTC	eliclax, padi, sjdrodge	13	5	25
+459709	6	0	Ambiguous & Brown (5 Suits)	2021-03-07 — 03:01:45 UTC	BraydonM, griff77, louietyj, newduke, padi, possum	1	5	25
+459657	5	20	Muddy-Rainbow-Ones (4 Suits)	2021-03-07 — 02:02:57 UTC	BraydonM, louietyj, newduke, padi, qqqq	1	4	20
+459646	5	0	Muddy-Rainbow-Ones (4 Suits)	2021-03-07 — 01:42:58 UTC	BraydonM, louietyj, newduke, padi, qqqq	1	4	20
+459632	5	0	Muddy-Rainbow-Ones (4 Suits)	2021-03-07 — 01:32:36 UTC	BraydonM, louietyj, newduke, padi, qqqq	1	4	20
+453748	4	22	Special Mix (5 Suits)	2021-03-02 — 02:38:36 UTC	ChristopheAF, jeff10, padi, scharkbite	4	5	25
+453734	4	0	Special Mix (5 Suits)	2021-03-02 — 02:20:46 UTC	ChristopheAF, jeff10, padi, scharkbite	4	5	25
+451710	4	23	Brown (5 Suits)	2021-02-28 — 05:42:26 UTC	4head, bjnh, padi, torp	9	5	25
+451675	3	24	Pink & Prism (5 Suits)	2021-02-28 — 05:10:06 UTC	4head, padi, torp	11	5	25
+451634	4	0	Pink & Prism (5 Suits)	2021-02-28 — 04:41:33 UTC	4head, padi, robense, torp	4	5	25
+451604	4	0	Pink & Prism (5 Suits)	2021-02-28 — 04:23:45 UTC	4head, padi, robense, torp	5	5	25
+449993	4	0	Rainbow-Ones & White (3 Suits)	2021-02-26 — 18:56:28 UTC	Kernel, MangoPie, newduke, padi	2	3	15
+439705	5	16	Prism (4 Suits)	2021-02-17 — 04:31:49 UTC	griff77, kopen, padi, poofart123, Stormylu	3	4	20
+439669	5	0	Prism (4 Suits)	2021-02-17 — 04:03:14 UTC	griff77, kopen, padi, poofart123, Stormylu	6	4	20
+439650	6	0	Prism (5 Suits)	2021-02-17 — 03:38:15 UTC	4head, Bot-Fiora, griff77, ksfortson, nwajfromoz, padi	2	5	25
+439476	5	20	No Variant	2021-02-16 — 22:51:02 UTC	Denchulitas, HumbleDumble, padi, sephiroth, TimeHoodie	14	5	25
+439441	6	23	No Variant	2021-02-16 — 22:15:54 UTC	4head, Denchulitas, HumbleDumble, padi, sephiroth, torp	2	5	25
+439410	6	0	No Variant	2021-02-16 — 21:51:04 UTC	4head, Denchulitas, HumbleDumble, padi, sephiroth, torp	2	5	25
+439364	6	23	No Variant	2021-02-16 — 21:13:13 UTC	4head, Denchulitas, HumbleDumble, padi, sephiroth, VerySloppyTwo	5	5	25
+437673	3	30	Rainbow (6 Suits)	2021-02-15 — 02:28:40 UTC	kinkajusrevenge, mestrepoke, padi	75	6	30
+437576	4	0	Prism (6 Suits)	2021-02-15 — 00:35:20 UTC	Denchulitas, nkkarpov, padi, sephiroth	22	6	30
+436181	3	0	Rainbow & Muddy Rainbow (6 Suits)	2021-02-14 — 00:38:59 UTC	asaelr, padi, ricardodd	2	6	30
+436168	3	0	Rainbow & Muddy Rainbow (6 Suits)	2021-02-14 — 00:25:06 UTC	asaelr, padi, ricardodd	4	6	30
+436151	3	0	Rainbow & Muddy Rainbow (6 Suits)	2021-02-14 — 00:04:44 UTC	asaelr, padi, ricardodd	3	6	30
+436132	3	28	Rainbow & Muddy Rainbow (6 Suits)	2021-02-13 — 23:35:00 UTC	asaelr, padi, ricardodd	4	6	30
+436121	3	0	Rainbow & Muddy Rainbow (6 Suits)	2021-02-13 — 23:13:40 UTC	asaelr, padi, ricardodd	6	6	30
+431237	3	25	No Variant	2021-02-09 — 18:29:28 UTC	HariKrishnan, macanek, padi	56	5	25
+428392	5	30	White (6 Suits)	2021-02-07 — 01:15:36 UTC	Denchulitas, indego, Lanvin, padi, rz	12	6	30
+428365	3	23	Light-Pink-Fives & Dark Pink (5 Suits)	2021-02-07 — 00:35:39 UTC	Lanvin, MarkusKahlsen, padi	2	5	25
+428341	4	0	Omni-Ones & Black (6 Suits)	2021-02-07 — 00:04:40 UTC	Doge, Lanvin, MarkusKahlsen, padi	1	6	30
+428295	3	0	Omni-Ones & Black (6 Suits)	2021-02-06 — 23:50:33 UTC	Doge, Lanvin, padi	1	6	30
+423308	4	23	Pink & White (5 Suits)	2021-02-02 — 21:29:37 UTC	CaitlinSmith, ksfortson, newduke, padi	2	5	25
+423261	4	0	Pink & White (5 Suits)	2021-02-02 — 20:57:05 UTC	CaitlinSmith, ksfortson, newduke, padi	2	5	25
+423246	5	0	Black (5 Suits)	2021-02-02 — 20:44:04 UTC	CaitlinSmith, eljavi, ksfortson, newduke, padi	9	5	25
+423236	5	0	Black (5 Suits)	2021-02-02 — 20:37:34 UTC	CaitlinSmith, eljavi, ksfortson, newduke, padi	9	5	25
+423217	5	22	Black (5 Suits)	2021-02-02 — 20:17:40 UTC	CaitlinSmith, eljavi, ksfortson, newduke, padi	13	5	25
+422587	5	0	Rainbow & Muddy Rainbow (5 Suits)	2021-02-02 — 01:21:44 UTC	dobi, kimbifille, melwen, padi, Zamiel	1	5	25
+422566	4	0	Pink & Cocoa Rainbow (5 Suits)	2021-02-02 — 01:01:02 UTC	dobi, kimbifille, padi, Zamiel	3	5	25
+422560	4	0	Pink & Cocoa Rainbow (5 Suits)	2021-02-02 — 00:53:37 UTC	dobi, kimbifille, padi, Zamiel	4	5	25
+422555	3	0	Pink & Cocoa Rainbow (5 Suits)	2021-02-02 — 00:45:48 UTC	kimbifille, padi, Zamiel	3	5	25
+422547	3	0	Pink & Cocoa Rainbow (5 Suits)	2021-02-02 — 00:39:51 UTC	kimbifille, padi, Zamiel	7	5	25
+422535	3	0	Pink & Null (3 Suits)	2021-02-02 — 00:27:26 UTC	kimbifille, padi, Zamiel	1	3	15
+419534	6	30	Black & Pink (6 Suits)	2021-01-30 — 04:46:33 UTC	dobi, indego, Lel0uch, melwen, padi, scharkbite	2	6	30
+419484	3	0	Rainbow & Gray (5 Suits)	2021-01-30 — 04:21:56 UTC	dobi, melwen, padi	11	5	25
+407904	3	20	White (4 Suits)	2021-01-18 — 21:53:13 UTC	Daryl, padi, rachyrules	59	4	20
+407876	2	25	No Variant	2021-01-18 — 21:34:34 UTC	padi, rachyrules	21	5	25
+407871	2	0	No Variant	2021-01-18 — 21:32:20 UTC	padi, rachyrules	21	5	25
+407870	2	0	No Variant	2021-01-18 — 21:30:40 UTC	padi, rachyrules	21	5	25
+407867	2	0	No Variant	2021-01-18 — 21:29:56 UTC	padi, rachyrules	21	5	25
+407862	2	0	No Variant	2021-01-18 — 21:28:17 UTC	padi, rachyrules	21	5	25
+407859	2	0	No Variant	2021-01-18 — 21:26:19 UTC	padi, rachyrules	21	5	25
+394158	3	0	Omni & Gray (6 Suits)	2021-01-06 — 03:25:48 UTC	doctorabi, hakha3, padi	6	6	30
+394119	4	30	Up or Down & Brown (6 Suits)	2021-01-06 — 02:37:30 UTC	doctorabi, hakha3, Lel0uch, padi	9	6	30
+384658	3	22	No Variant	2020-12-28 — 04:13:38 UTC	Damian000, hailey, padi	175	5	25
+380750	4	25	No Variant	2020-12-24 — 06:45:23 UTC	ducky, Hyphen-ated, Onen, padi	278	5	25
+367270	2	24	Gray (5 Suits)	2020-12-11 — 01:15:44 UTC	Kyle, padi	29	5	25
+367262	2	0	Gray (5 Suits)	2020-12-11 — 01:07:39 UTC	Kyle, padi	34	5	25
+328473	3	25	Duck (5 Suits)	2020-10-26 — 04:39:08 UTC	melwen, padi, scharkbite	9	5	25
+328452	3	25	Duck (5 Suits)	2020-10-26 — 04:06:00 UTC	melwen, padi, scharkbite	10	5	25
+328423	3	0	Duck (5 Suits)	2020-10-26 — 03:23:23 UTC	melwen, padi, scharkbite	10	5	25
+328398	3	24	Duck (5 Suits)	2020-10-26 — 02:54:01 UTC	melwen, padi, scharkbite	10	5	25
+328378	3	25	Duck (5 Suits)	2020-10-26 — 02:20:48 UTC	melwen, padi, scharkbite	1	5	25
+328367	3	0	Duck (5 Suits)	2020-10-26 — 01:51:35 UTC	melwen, padi, scharkbite	1	5	25
+328356	3	24	Duck (5 Suits)	2020-10-26 — 01:16:46 UTC	melwen, padi, scharkbite	1	5	25
+328347	3	0	Duck (5 Suits)	2020-10-26 — 00:51:31 UTC	melwen, padi, scharkbite	2	5	25
+328331	3	0	Duck (5 Suits)	2020-10-26 — 00:30:10 UTC	melwen, padi, scharkbite	2	5	25
+328299	3	0	Duck (5 Suits)	2020-10-25 — 23:51:13 UTC	melwen, padi, scharkbite	2	5	25
+326234	3	25	Duck (5 Suits)	2020-10-23 — 03:40:02 UTC	melwen, padi, scharkbite	2	5	25
+326209	3	24	Duck (5 Suits)	2020-10-23 — 02:59:06 UTC	melwen, padi, scharkbite	3	5	25
+326174	3	25	Duck (5 Suits)	2020-10-23 — 02:10:55 UTC	melwen, padi, scharkbite	3	5	25
+326131	3	21	Duck (5 Suits)	2020-10-23 — 01:31:22 UTC	melwen, padi, scharkbite	4	5	25
+326107	3	25	Duck (5 Suits)	2020-10-23 — 00:57:10 UTC	melwen, padi, scharkbite	3	5	25
+326094	3	25	Duck (5 Suits)	2020-10-23 — 00:32:15 UTC	melwen, padi, scharkbite	4	5	25
+326074	3	0	Duck (5 Suits)	2020-10-23 — 00:03:52 UTC	melwen, padi, scharkbite	5	5	25
+326055	3	0	Duck (5 Suits)	2020-10-22 — 23:32:38 UTC	melwen, padi, scharkbite	5	5	25
+326048	3	0	Duck (5 Suits)	2020-10-22 — 23:09:56 UTC	melwen, padi, scharkbite	5	5	25
+325363	3	0	Duck (5 Suits)	2020-10-22 — 00:36:48 UTC	melwen, padi, scharkbite	5	5	25
+324940	3	23	Duck (5 Suits)	2020-10-21 — 04:49:55 UTC	melwen, padi, scharkbite	6	5	25
+324926	3	22	Duck (5 Suits)	2020-10-21 — 04:20:13 UTC	melwen, padi, scharkbite	6	5	25
+324907	3	23	Duck (5 Suits)	2020-10-21 — 03:45:06 UTC	melwen, padi, scharkbite	6	5	25
+324886	3	0	Duck (5 Suits)	2020-10-21 — 03:20:35 UTC	melwen, padi, scharkbite	6	5	25
+324774	3	0	Duck (5 Suits)	2020-10-21 — 00:42:22 UTC	melwen, padi, scharkbite	6	5	25
+324753	3	0	Duck (5 Suits)	2020-10-21 — 00:08:07 UTC	melwen, padi, scharkbite	6	5	25
+324747	3	24	Duck (5 Suits)	2020-10-20 — 23:43:45 UTC	melwen, padi, scharkbite	6	5	25
+324736	3	0	Duck (5 Suits)	2020-10-20 — 23:14:34 UTC	melwen, padi, scharkbite	6	5	25
+324726	3	22	Duck (5 Suits)	2020-10-20 — 22:55:53 UTC	melwen, padi, scharkbite	6	5	25
+324688	3	0	Duck (5 Suits)	2020-10-20 — 22:22:57 UTC	melwen, padi, scharkbite	7	5	25
+324254	3	25	Duck (5 Suits)	2020-10-20 — 03:50:24 UTC	melwen, padi, scharkbite	7	5	25
+324214	3	0	Duck (5 Suits)	2020-10-20 — 03:05:43 UTC	melwen, padi, scharkbite	7	5	25
+324179	3	25	Duck (5 Suits)	2020-10-20 — 02:24:15 UTC	melwen, padi, scharkbite	7	5	25
+324155	3	21	Duck (5 Suits)	2020-10-20 — 02:00:10 UTC	melwen, padi, scharkbite	7	5	25
+323284	3	0	Duck (5 Suits)	2020-10-18 — 23:34:20 UTC	melwen, padi, scharkbite	8	5	25
+323271	3	0	Duck (5 Suits)	2020-10-18 — 23:10:08 UTC	melwen, padi, scharkbite	8	5	25
+322542	3	0	Duck (5 Suits)	2020-10-18 — 00:45:56 UTC	melwen, padi, scharkbite	9	5	25
+322530	3	23	Duck (5 Suits)	2020-10-18 — 00:25:48 UTC	melwen, padi, scharkbite	10	5	25
+317331	4	0	Rainbow-Ones & White (6 Suits)	2020-10-10 — 14:59:59 UTC	Fireheart, IAMJEFF, padi, Veexliat	4	6	30
+317323	3	30	Brown-Ones & Dark Prism (6 Suits)	2020-10-10 — 14:37:11 UTC	Fireheart, IAMJEFF, padi	2	6	30
+315331	5	29	Brown-Ones & White (6 Suits)	2020-10-07 — 23:45:22 UTC	DMoney, Dr_Kakashi, kimbifille, padi, Zamiel	2	6	30
+315303	5	0	Brown-Ones & White (6 Suits)	2020-10-07 — 23:16:13 UTC	DMoney, Dr_Kakashi, kimbifille, padi, Zamiel	2	6	30
+315278	3	24	Black (5 Suits)	2020-10-07 — 22:39:23 UTC	Hapotata, newduke, padi	40	5	25
+315271	3	0	Black (5 Suits)	2020-10-07 — 22:23:04 UTC	Hapotata, newduke, padi	43	5	25
+315269	3	0	Black (5 Suits)	2020-10-07 — 22:20:15 UTC	Hapotata, newduke, padi	44	5	25
+315266	3	0	Black (5 Suits)	2020-10-07 — 22:10:42 UTC	Hapotata, newduke, padi	51	5	25
+315257	3	0	Black (5 Suits)	2020-10-07 — 21:56:34 UTC	Hapotata, newduke, padi	68	5	25
+315242	3	22	Black (5 Suits)	2020-10-07 — 21:32:30 UTC	Hapotata, newduke, padi	71	5	25
+313745	6	0	Gray (6 Suits)	2020-10-05 — 21:41:52 UTC	DMoney, Floriman, Kyle, padi, pianoblook, plus	2	6	30
+313689	6	0	Gray (6 Suits)	2020-10-05 — 21:13:00 UTC	DMoney, Floriman, Kyle, padi, pianoblook, plus	2	6	30
+313657	6	24	Gray (6 Suits)	2020-10-05 — 20:49:54 UTC	DMoney, Floriman, Kyle, padi, pianoblook, plus	4	6	30
+312279	3	23	No Variant	2020-10-03 — 23:02:54 UTC	padi, rachyrules, timotree	58	5	25
+312278	3	0	No Variant	2020-10-03 — 23:01:20 UTC	padi, rachyrules, timotree	57	5	25
+312277	3	0	No Variant	2020-10-03 — 23:00:46 UTC	padi, rachyrules, timotree	60	5	25
+312276	3	24	No Variant	2020-10-03 — 22:58:48 UTC	padi, rachyrules, timotree	61	5	25
+312274	3	0	No Variant	2020-10-03 — 22:56:38 UTC	padi, rachyrules, timotree	63	5	25
+312270	3	0	No Variant	2020-10-03 — 22:55:04 UTC	padi, rachyrules, timotree	65	5	25
+312266	3	0	No Variant	2020-10-03 — 22:52:54 UTC	padi, rachyrules, timotree	69	5	25
+312264	3	0	No Variant	2020-10-03 — 22:51:21 UTC	padi, rachyrules, timotree	74	5	25
+312258	3	0	No Variant	2020-10-03 — 22:46:32 UTC	padi, rachyrules, timotree	78	5	25
+312256	3	0	No Variant	2020-10-03 — 22:45:06 UTC	padi, rachyrules, timotree	77	5	25
+312253	3	25	No Variant	2020-10-03 — 22:42:25 UTC	padi, rachyrules, timotree	77	5	25
+312246	3	0	No Variant	2020-10-03 — 22:38:25 UTC	padi, rachyrules, timotree	83	5	25
+312243	3	0	No Variant	2020-10-03 — 22:34:58 UTC	padi, rachyrules, timotree	109	5	25
+312239	3	0	No Variant	2020-10-03 — 22:32:42 UTC	padi, rachyrules, timotree	112	5	25
+312237	3	0	No Variant	2020-10-03 — 22:30:37 UTC	padi, rachyrules, timotree	111	5	25
+312234	2	25	No Variant	2020-10-03 — 22:26:31 UTC	padi, rachyrules	75	5	25
+312230	2	0	No Variant	2020-10-03 — 22:24:45 UTC	padi, rachyrules	77	5	25
+312228	2	0	No Variant	2020-10-03 — 22:23:22 UTC	padi, rachyrules	78	5	25
+312227	2	0	No Variant	2020-10-03 — 22:22:33 UTC	padi, rachyrules	78	5	25
+312225	2	23	No Variant	2020-10-03 — 22:19:48 UTC	padi, rachyrules	77	5	25
+307773	5	28	Pink & Muddy Rainbow (6 Suits)	2020-09-27 — 21:06:49 UTC	newduke, padi, sephiroth, TheDaniMan, TimeHoodie	4	6	30
+305124	6	30	Ambiguous (6 Suits)	2020-09-24 — 03:50:56 UTC	derekcheah, jeff10, newduke, padi, TheDaniMan, TimeHoodie	5	6	30
+305092	6	0	Ambiguous (6 Suits)	2020-09-24 — 03:04:07 UTC	derekcheah, jeff10, newduke, padi, TheDaniMan, TimeHoodie	8	6	30
+305070	5	0	Ambiguous (6 Suits)	2020-09-24 — 02:49:39 UTC	derekcheah, newduke, padi, TheDaniMan, TimeHoodie	12	6	30
+304952	2	0	No Variant	2020-09-23 — 23:14:06 UTC	padi, rachyrules	818	5	25
+304950	2	0	No Variant	2020-09-23 — 23:12:15 UTC	padi, rachyrules	854	5	25
+304949	2	0	No Variant	2020-09-23 — 23:11:29 UTC	padi, rachyrules	883	5	25
+304948	2	0	No Variant	2020-09-23 — 23:10:14 UTC	padi, rachyrules	921	5	25
+304947	2	0	No Variant	2020-09-23 — 23:08:12 UTC	padi, rachyrules	948	5	25
+304946	2	0	No Variant	2020-09-23 — 23:07:38 UTC	padi, rachyrules	976	5	25
+304944	2	25	No Variant	2020-09-23 — 23:05:06 UTC	padi, rachyrules	3507	5	25
+290789	5	24	Dark Prism (5 Suits)	2020-09-06 — 16:37:08 UTC	ADrone, asaelr, Fey, MarkusKahlsen, padi	7	5	25
+290780	4	0	Dark Prism (5 Suits)	2020-09-06 — 16:02:21 UTC	Dr_Kakashi, Fey, padi, Tiramisu1th	8	5	25
+290773	3	23	No Variant	2020-09-06 — 15:37:48 UTC	BottomDeck_k1, Fey, padi	106	5	25
+290766	2	25	Prism (5 Suits)	2020-09-06 — 15:17:05 UTC	Fey, padi	36	5	25
+290764	2	23	Prism (5 Suits)	2020-09-06 — 15:04:41 UTC	Fey, padi	52	5	25
+288008	5	24	Prism (5 Suits)	2020-09-03 — 16:06:16 UTC	Dr_Kakashi, Floriman, padi, plus, postmans	13	5	25
+287999	3	0	Prism (5 Suits)	2020-09-03 — 15:26:12 UTC	Dr_Kakashi, padi, plus	45	5	25
+287996	3	0	Prism (5 Suits)	2020-09-03 — 15:09:14 UTC	Dr_Kakashi, padi, plus	80	5	25
+287519	5	0	Pink (4 Suits)	2020-09-02 — 22:40:35 UTC	lotem, padi, plus, will.i.am, XMIL	6	4	20
+287508	5	0	Pink (4 Suits)	2020-09-02 — 22:26:59 UTC	lotem, padi, plus, will.i.am, XMIL	9	4	20
+283754	3	15	Brown (3 Suits)	2020-08-29 — 15:10:22 UTC	Bonja97, melwen, padi	21	3	15
+283750	3	13	Brown (3 Suits)	2020-08-29 — 14:59:07 UTC	Bonja97, melwen, padi	23	3	15
+281641	3	30	Prism (6 Suits)	2020-08-27 — 05:22:53 UTC	joelwool, padi, schemetrical	84	6	30
+281091	5	0	Dark Rainbow (5 Suits)	2020-08-26 — 15:58:09 UTC	DMoney, Pablo-, padi, plus, XMIL	5	5	25
+279690	6	25	Brown (5 Suits)	2020-08-24 — 23:03:06 UTC	DMoney, Dr_Kakashi, Floriman, Livia, padi, scharkbite	1	5	25
+279661	6	0	Brown (5 Suits)	2020-08-24 — 22:41:53 UTC	DMoney, Dr_Kakashi, Floriman, Livia, padi, scharkbite	2	5	25
+279639	6	0	Brown (5 Suits)	2020-08-24 — 22:24:47 UTC	DMoney, Dr_Kakashi, Floriman, Livia, padi, scharkbite	5	5	25
+272806	3	23	Black (5 Suits)	2020-08-16 — 22:15:47 UTC	asaelr, padi, rs1	55	5	25
+272787	3	20	Black (5 Suits)	2020-08-16 — 21:54:37 UTC	asaelr, padi, rs1	66	5	25
+258305	5	30	White Reversed (6 Suits)	2020-08-01 — 20:37:36 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258303	5	0	White Reversed (6 Suits)	2020-08-01 — 20:35:53 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258301	5	0	White Reversed (6 Suits)	2020-08-01 — 20:34:55 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258300	5	0	White Reversed (6 Suits)	2020-08-01 — 20:32:43 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258299	5	0	White Reversed (6 Suits)	2020-08-01 — 20:32:14 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258296	5	0	White Reversed (6 Suits)	2020-08-01 — 20:31:43 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258294	5	0	White Reversed (6 Suits)	2020-08-01 — 20:30:38 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258293	5	0	White Reversed (6 Suits)	2020-08-01 — 20:29:15 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258292	5	0	White Reversed (6 Suits)	2020-08-01 — 20:28:43 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258291	5	0	White Reversed (6 Suits)	2020-08-01 — 20:28:28 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258288	5	29	White Reversed (6 Suits)	2020-08-01 — 20:27:12 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258287	5	0	White Reversed (6 Suits)	2020-08-01 — 20:25:09 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258283	5	0	White Reversed (6 Suits)	2020-08-01 — 20:23:29 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258280	5	30	White Reversed (6 Suits)	2020-08-01 — 20:21:41 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258274	5	0	White Reversed (6 Suits)	2020-08-01 — 20:16:50 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258273	5	0	White Reversed (6 Suits)	2020-08-01 — 20:15:31 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258270	5	0	White Reversed (6 Suits)	2020-08-01 — 20:14:52 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258269	5	0	White Reversed (6 Suits)	2020-08-01 — 20:14:16 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258268	5	0	White Reversed (6 Suits)	2020-08-01 — 20:13:03 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258265	5	29	White Reversed (6 Suits)	2020-08-01 — 20:09:59 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258259	5	0	White Reversed (6 Suits)	2020-08-01 — 20:06:27 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258256	5	0	White Reversed (6 Suits)	2020-08-01 — 20:04:47 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258254	5	0	White Reversed (6 Suits)	2020-08-01 — 20:03:39 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258251	5	0	White Reversed (6 Suits)	2020-08-01 — 20:03:14 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258248	5	0	White Reversed (6 Suits)	2020-08-01 — 20:02:33 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258245	5	0	White Reversed (6 Suits)	2020-08-01 — 20:00:28 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258242	5	0	White Reversed (6 Suits)	2020-08-01 — 19:59:28 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258241	5	0	White Reversed (6 Suits)	2020-08-01 — 19:58:45 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258234	5	0	White Reversed (6 Suits)	2020-08-01 — 19:55:14 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258233	5	0	White Reversed (6 Suits)	2020-08-01 — 19:54:39 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258230	5	0	White Reversed (6 Suits)	2020-08-01 — 19:51:57 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258229	5	0	White Reversed (6 Suits)	2020-08-01 — 19:51:09 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258226	5	0	White Reversed (6 Suits)	2020-08-01 — 19:50:25 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258225	5	0	White Reversed (6 Suits)	2020-08-01 — 19:49:59 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258223	5	0	White Reversed (6 Suits)	2020-08-01 — 19:49:21 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258221	5	0	White Reversed (6 Suits)	2020-08-01 — 19:48:31 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258220	5	0	White Reversed (6 Suits)	2020-08-01 — 19:47:28 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258218	5	0	White Reversed (6 Suits)	2020-08-01 — 19:46:37 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258214	5	0	White Reversed (6 Suits)	2020-08-01 — 19:45:16 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258212	5	0	White Reversed (6 Suits)	2020-08-01 — 19:44:16 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258210	5	0	White Reversed (6 Suits)	2020-08-01 — 19:43:12 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258209	5	0	White Reversed (6 Suits)	2020-08-01 — 19:42:17 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258204	5	0	White Reversed (6 Suits)	2020-08-01 — 19:40:52 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258202	5	0	White Reversed (6 Suits)	2020-08-01 — 19:39:36 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258201	5	0	White Reversed (6 Suits)	2020-08-01 — 19:39:23 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258199	5	0	White Reversed (6 Suits)	2020-08-01 — 19:39:02 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258198	5	0	White Reversed (6 Suits)	2020-08-01 — 19:38:21 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258197	5	0	White Reversed (6 Suits)	2020-08-01 — 19:37:55 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258193	5	0	White Reversed (6 Suits)	2020-08-01 — 19:36:42 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258192	5	0	White Reversed (6 Suits)	2020-08-01 — 19:34:57 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258188	5	0	White Reversed (6 Suits)	2020-08-01 — 19:33:40 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258186	5	0	White Reversed (6 Suits)	2020-08-01 — 19:32:45 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258184	5	0	White Reversed (6 Suits)	2020-08-01 — 19:32:00 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258180	5	0	White Reversed (6 Suits)	2020-08-01 — 19:31:10 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258179	5	0	White Reversed (6 Suits)	2020-08-01 — 19:30:46 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258178	5	0	White Reversed (6 Suits)	2020-08-01 — 19:29:54 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258177	5	0	White Reversed (6 Suits)	2020-08-01 — 19:29:00 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258176	5	0	White Reversed (6 Suits)	2020-08-01 — 19:28:31 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258174	5	0	White Reversed (6 Suits)	2020-08-01 — 19:27:55 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258171	5	0	White Reversed (6 Suits)	2020-08-01 — 19:27:19 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258170	5	0	White Reversed (6 Suits)	2020-08-01 — 19:26:52 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258169	5	0	White Reversed (6 Suits)	2020-08-01 — 19:26:33 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258168	5	0	White Reversed (6 Suits)	2020-08-01 — 19:25:52 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258166	5	0	White Reversed (6 Suits)	2020-08-01 — 19:24:48 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258163	5	0	White Reversed (6 Suits)	2020-08-01 — 19:22:03 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258161	5	27	White Reversed (6 Suits)	2020-08-01 — 19:19:41 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258158	5	0	White Reversed (6 Suits)	2020-08-01 — 19:17:42 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258157	5	0	White Reversed (6 Suits)	2020-08-01 — 19:16:41 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258155	5	0	White Reversed (6 Suits)	2020-08-01 — 19:16:14 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258153	5	0	White Reversed (6 Suits)	2020-08-01 — 19:15:38 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258151	5	0	White Reversed (6 Suits)	2020-08-01 — 19:15:04 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258150	5	0	White Reversed (6 Suits)	2020-08-01 — 19:14:48 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258148	5	0	White Reversed (6 Suits)	2020-08-01 — 19:13:59 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258147	5	0	White Reversed (6 Suits)	2020-08-01 — 19:13:14 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258145	5	0	White Reversed (6 Suits)	2020-08-01 — 19:11:36 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258144	5	0	White Reversed (6 Suits)	2020-08-01 — 19:11:19 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+258143	5	0	White Reversed (6 Suits)	2020-08-01 — 19:10:38 UTC	florrat2, Libster, NoMercy, padi, Zamiel	1	6	30
+257133	4	25	Up or Down (5 Suits)	2020-07-31 — 15:13:15 UTC	asaelr, Bonja97, Fey, padi	41	5	25
+256876	4	30	White Reversed (6 Suits)	2020-07-31 — 05:20:30 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256873	4	0	White Reversed (6 Suits)	2020-07-31 — 05:18:53 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256872	4	0	White Reversed (6 Suits)	2020-07-31 — 05:18:37 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256871	4	0	White Reversed (6 Suits)	2020-07-31 — 05:18:02 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256869	4	0	White Reversed (6 Suits)	2020-07-31 — 05:17:17 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256867	4	0	White Reversed (6 Suits)	2020-07-31 — 05:16:42 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256866	4	0	White Reversed (6 Suits)	2020-07-31 — 05:16:03 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256865	4	0	White Reversed (6 Suits)	2020-07-31 — 05:15:25 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256864	4	0	White Reversed (6 Suits)	2020-07-31 — 05:14:52 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256863	4	0	White Reversed (6 Suits)	2020-07-31 — 05:14:15 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256862	4	0	White Reversed (6 Suits)	2020-07-31 — 05:13:35 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256861	4	0	White Reversed (6 Suits)	2020-07-31 — 05:13:25 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256858	4	0	White Reversed (6 Suits)	2020-07-31 — 05:12:55 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256856	4	0	White Reversed (6 Suits)	2020-07-31 — 05:12:06 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256855	4	0	White Reversed (6 Suits)	2020-07-31 — 05:11:23 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256854	4	0	White Reversed (6 Suits)	2020-07-31 — 05:10:18 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256853	4	0	White Reversed (6 Suits)	2020-07-31 — 05:09:26 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256852	4	0	White Reversed (6 Suits)	2020-07-31 — 05:09:14 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256851	4	0	White Reversed (6 Suits)	2020-07-31 — 05:08:33 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256850	4	0	White Reversed (6 Suits)	2020-07-31 — 05:08:13 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256848	4	0	White Reversed (6 Suits)	2020-07-31 — 05:07:16 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256847	4	0	White Reversed (6 Suits)	2020-07-31 — 05:06:34 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256846	4	0	White Reversed (6 Suits)	2020-07-31 — 05:06:03 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256845	4	0	White Reversed (6 Suits)	2020-07-31 — 05:05:40 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256844	4	0	White Reversed (6 Suits)	2020-07-31 — 05:05:09 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256842	4	0	White Reversed (6 Suits)	2020-07-31 — 05:04:06 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256841	4	0	White Reversed (6 Suits)	2020-07-31 — 05:03:47 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256840	4	0	White Reversed (6 Suits)	2020-07-31 — 05:03:22 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256839	4	0	White Reversed (6 Suits)	2020-07-31 — 05:02:54 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256838	4	0	White Reversed (6 Suits)	2020-07-31 — 05:02:27 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256836	4	0	White Reversed (6 Suits)	2020-07-31 — 05:01:21 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256835	4	0	White Reversed (6 Suits)	2020-07-31 — 05:01:08 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256834	4	0	White Reversed (6 Suits)	2020-07-31 — 05:00:49 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256833	4	0	White Reversed (6 Suits)	2020-07-31 — 05:00:33 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256832	4	0	White Reversed (6 Suits)	2020-07-31 — 04:59:50 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256830	4	0	White Reversed (6 Suits)	2020-07-31 — 04:58:52 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256829	4	0	White Reversed (6 Suits)	2020-07-31 — 04:58:33 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256828	4	0	White Reversed (6 Suits)	2020-07-31 — 04:57:38 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256827	4	0	White Reversed (6 Suits)	2020-07-31 — 04:57:20 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256826	4	0	White Reversed (6 Suits)	2020-07-31 — 04:56:05 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256823	4	0	White Reversed (6 Suits)	2020-07-31 — 04:55:29 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256822	4	0	White Reversed (6 Suits)	2020-07-31 — 04:54:48 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256820	4	0	White Reversed (6 Suits)	2020-07-31 — 04:53:43 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256818	4	0	White Reversed (6 Suits)	2020-07-31 — 04:52:23 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256817	4	0	White Reversed (6 Suits)	2020-07-31 — 04:51:45 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256815	4	0	White Reversed (6 Suits)	2020-07-31 — 04:51:15 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256814	4	30	White Reversed (6 Suits)	2020-07-31 — 04:50:44 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256810	4	0	White Reversed (6 Suits)	2020-07-31 — 04:48:49 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256808	4	0	White Reversed (6 Suits)	2020-07-31 — 04:47:25 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256807	4	0	White Reversed (6 Suits)	2020-07-31 — 04:46:54 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256806	4	0	White Reversed (6 Suits)	2020-07-31 — 04:46:14 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256803	4	0	White Reversed (6 Suits)	2020-07-31 — 04:45:03 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256801	4	0	White Reversed (6 Suits)	2020-07-31 — 04:44:29 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256800	4	0	White Reversed (6 Suits)	2020-07-31 — 04:42:23 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256799	4	0	White Reversed (6 Suits)	2020-07-31 — 04:41:22 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256798	4	0	White Reversed (6 Suits)	2020-07-31 — 04:41:02 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256797	4	0	White Reversed (6 Suits)	2020-07-31 — 04:40:49 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256795	4	0	White Reversed (6 Suits)	2020-07-31 — 04:40:33 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256794	4	0	White Reversed (6 Suits)	2020-07-31 — 04:39:56 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256792	4	0	White Reversed (6 Suits)	2020-07-31 — 04:38:33 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256789	4	0	White Reversed (6 Suits)	2020-07-31 — 04:37:25 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256788	4	0	White Reversed (6 Suits)	2020-07-31 — 04:36:36 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256787	4	0	White Reversed (6 Suits)	2020-07-31 — 04:35:30 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256786	4	0	White Reversed (6 Suits)	2020-07-31 — 04:35:04 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256785	4	0	White Reversed (6 Suits)	2020-07-31 — 04:33:58 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256783	4	0	White Reversed (6 Suits)	2020-07-31 — 04:33:21 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256782	4	28	White Reversed (6 Suits)	2020-07-31 — 04:32:45 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256776	4	0	White Reversed (6 Suits)	2020-07-31 — 04:30:22 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256775	4	0	White Reversed (6 Suits)	2020-07-31 — 04:29:56 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256773	4	0	White Reversed (6 Suits)	2020-07-31 — 04:28:57 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256770	4	0	White Reversed (6 Suits)	2020-07-31 — 04:27:45 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256769	4	0	White Reversed (6 Suits)	2020-07-31 — 04:27:18 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256768	4	0	White Reversed (6 Suits)	2020-07-31 — 04:26:18 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256766	4	0	White Reversed (6 Suits)	2020-07-31 — 04:24:16 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256764	4	0	White Reversed (6 Suits)	2020-07-31 — 04:22:29 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256761	4	0	White Reversed (6 Suits)	2020-07-31 — 04:21:47 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256758	4	0	White Reversed (6 Suits)	2020-07-31 — 04:20:59 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256756	4	0	White Reversed (6 Suits)	2020-07-31 — 04:19:22 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256755	4	0	White Reversed (6 Suits)	2020-07-31 — 04:17:45 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256754	4	0	White Reversed (6 Suits)	2020-07-31 — 04:16:37 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256753	4	0	White Reversed (6 Suits)	2020-07-31 — 04:16:06 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256752	4	0	White Reversed (6 Suits)	2020-07-31 — 04:15:22 UTC	florrat2, Libster, NoMercy, padi	1	6	30
+256744	5	0	Black & Dark Rainbow (6 Suits)	2020-07-31 — 04:07:31 UTC	florrat2, Libster, NoMercy, padi, sjdrodge	1	6	30
+256696	5	0	Black & Dark Rainbow (6 Suits)	2020-07-31 — 03:17:55 UTC	florrat2, Libster, NoMercy, padi, sjdrodge	1	6	30
+256690	5	0	Black & Dark Rainbow (6 Suits)	2020-07-31 — 03:13:33 UTC	florrat2, Libster, NoMercy, padi, sjdrodge	2	6	30
+256678	5	0	Black & Dark Rainbow (6 Suits)	2020-07-31 — 03:03:51 UTC	florrat2, Libster, NoMercy, padi, sjdrodge	1	6	30
+256662	5	0	Black & Dark Rainbow (6 Suits)	2020-07-31 — 02:52:39 UTC	florrat2, Libster, NoMercy, padi, sjdrodge	1	6	30
+256650	5	0	Black & Dark Rainbow (6 Suits)	2020-07-31 — 02:44:03 UTC	florrat2, Libster, NoMercy, padi, sjdrodge	1	6	30
+256632	5	0	Black & Dark Rainbow (6 Suits)	2020-07-31 — 02:26:45 UTC	florrat2, Libster, NoMercy, padi, sjdrodge	1	6	30
+256609	5	0	Black & Dark Rainbow (6 Suits)	2020-07-31 — 02:07:06 UTC	florrat2, Libster, NoMercy, padi, sjdrodge	1	6	30
+256594	5	0	Black & Dark Rainbow (6 Suits)	2020-07-31 — 01:49:48 UTC	florrat2, Libster, NoMercy, padi, sjdrodge	1	6	30
+256575	5	0	Black & Dark Rainbow (6 Suits)	2020-07-31 — 01:37:41 UTC	florrat2, Libster, NoMercy, padi, sjdrodge	1	6	30
+256557	5	0	Black & Dark Rainbow (6 Suits)	2020-07-31 — 01:21:34 UTC	florrat2, Libster, NoMercy, padi, sjdrodge	1	6	30
+256553	5	0	Black & Dark Rainbow (6 Suits)	2020-07-31 — 01:16:25 UTC	florrat2, Libster, NoMercy, padi, sjdrodge	2	6	30
+255725	3	0	White Reversed (6 Suits)	2020-07-30 — 00:27:40 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255724	3	0	White Reversed (6 Suits)	2020-07-30 — 00:27:14 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255722	3	0	White Reversed (6 Suits)	2020-07-30 — 00:25:36 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255721	3	0	White Reversed (6 Suits)	2020-07-30 — 00:24:16 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255719	3	0	White Reversed (6 Suits)	2020-07-30 — 00:23:26 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255717	3	0	White Reversed (6 Suits)	2020-07-30 — 00:21:46 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255715	3	0	White Reversed (6 Suits)	2020-07-30 — 00:20:52 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255714	3	0	White Reversed (6 Suits)	2020-07-30 — 00:20:18 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255713	3	0	White Reversed (6 Suits)	2020-07-30 — 00:19:39 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255710	3	0	White Reversed (6 Suits)	2020-07-30 — 00:18:46 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255709	3	0	White Reversed (6 Suits)	2020-07-30 — 00:17:55 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255708	3	0	White Reversed (6 Suits)	2020-07-30 — 00:16:54 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255707	3	0	White Reversed (6 Suits)	2020-07-30 — 00:16:17 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255706	3	0	White Reversed (6 Suits)	2020-07-30 — 00:15:35 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255705	3	0	White Reversed (6 Suits)	2020-07-30 — 00:15:09 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255704	3	0	White Reversed (6 Suits)	2020-07-30 — 00:14:34 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255703	3	0	White Reversed (6 Suits)	2020-07-30 — 00:14:11 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255702	3	0	White Reversed (6 Suits)	2020-07-30 — 00:13:33 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255701	3	0	White Reversed (6 Suits)	2020-07-30 — 00:12:10 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255700	3	0	White Reversed (6 Suits)	2020-07-30 — 00:10:56 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255699	3	0	White Reversed (6 Suits)	2020-07-30 — 00:10:26 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255698	3	0	White Reversed (6 Suits)	2020-07-30 — 00:09:51 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255695	3	0	White Reversed (6 Suits)	2020-07-30 — 00:09:00 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255692	3	0	White Reversed (6 Suits)	2020-07-30 — 00:08:17 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255691	3	0	White Reversed (6 Suits)	2020-07-30 — 00:07:58 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255690	3	0	White Reversed (6 Suits)	2020-07-30 — 00:07:27 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255688	3	0	White Reversed (6 Suits)	2020-07-30 — 00:05:52 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255687	3	0	White Reversed (6 Suits)	2020-07-30 — 00:05:17 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255686	3	0	White Reversed (6 Suits)	2020-07-30 — 00:04:27 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255685	3	0	White Reversed (6 Suits)	2020-07-30 — 00:03:54 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255683	3	0	White Reversed (6 Suits)	2020-07-30 — 00:03:11 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255681	3	0	White Reversed (6 Suits)	2020-07-30 — 00:02:21 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255680	3	0	White Reversed (6 Suits)	2020-07-30 — 00:01:59 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255679	3	0	White Reversed (6 Suits)	2020-07-30 — 00:01:42 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255678	3	0	White Reversed (6 Suits)	2020-07-30 — 00:00:50 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255677	3	0	White Reversed (6 Suits)	2020-07-29 — 23:59:56 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255676	3	0	White Reversed (6 Suits)	2020-07-29 — 23:58:43 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255674	3	0	White Reversed (6 Suits)	2020-07-29 — 23:56:06 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255671	3	0	White Reversed (6 Suits)	2020-07-29 — 23:55:28 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255670	3	0	White Reversed (6 Suits)	2020-07-29 — 23:54:58 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255669	3	0	White Reversed (6 Suits)	2020-07-29 — 23:54:42 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255667	3	0	White Reversed (6 Suits)	2020-07-29 — 23:54:09 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255665	3	0	White Reversed (6 Suits)	2020-07-29 — 23:53:37 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255664	3	0	White Reversed (6 Suits)	2020-07-29 — 23:52:39 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255663	3	0	White Reversed (6 Suits)	2020-07-29 — 23:52:11 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255662	3	0	White Reversed (6 Suits)	2020-07-29 — 23:52:00 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255660	3	0	White Reversed (6 Suits)	2020-07-29 — 23:50:57 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255659	3	0	White Reversed (6 Suits)	2020-07-29 — 23:49:55 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255656	3	0	White Reversed (6 Suits)	2020-07-29 — 23:49:13 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255655	3	0	White Reversed (6 Suits)	2020-07-29 — 23:48:19 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255654	3	0	White Reversed (6 Suits)	2020-07-29 — 23:47:48 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255653	3	0	White Reversed (6 Suits)	2020-07-29 — 23:46:53 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255652	3	0	White Reversed (6 Suits)	2020-07-29 — 23:45:41 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255651	3	0	White Reversed (6 Suits)	2020-07-29 — 23:44:30 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255650	3	0	White Reversed (6 Suits)	2020-07-29 — 23:43:48 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+255648	3	0	White Reversed (6 Suits)	2020-07-29 — 23:42:04 UTC	Dr_Kakashi, padi, RaKXeR	2	6	30
+254076	3	30	White Reversed (6 Suits)	2020-07-28 — 06:25:16 UTC	florrat2, padi, Valetta6789	1	6	30
+254071	3	0	White Reversed (6 Suits)	2020-07-28 — 06:23:09 UTC	florrat2, padi, Valetta6789	1	6	30
+254065	3	0	White Reversed (6 Suits)	2020-07-28 — 06:21:35 UTC	florrat2, padi, Valetta6789	1	6	30
+254063	3	0	White Reversed (6 Suits)	2020-07-28 — 06:21:03 UTC	florrat2, padi, Valetta6789	1	6	30
+254059	3	0	White Reversed (6 Suits)	2020-07-28 — 06:19:41 UTC	florrat2, padi, Valetta6789	1	6	30
+254055	3	0	White Reversed (6 Suits)	2020-07-28 — 06:18:40 UTC	florrat2, padi, Valetta6789	1	6	30
+254048	3	0	White Reversed (6 Suits)	2020-07-28 — 06:17:09 UTC	florrat2, padi, Valetta6789	1	6	30
+254046	3	0	White Reversed (6 Suits)	2020-07-28 — 06:16:14 UTC	florrat2, padi, Valetta6789	1	6	30
+254040	3	0	White Reversed (6 Suits)	2020-07-28 — 06:14:29 UTC	florrat2, padi, Valetta6789	1	6	30
+254039	3	0	White Reversed (6 Suits)	2020-07-28 — 06:14:18 UTC	florrat2, padi, Valetta6789	1	6	30
+254037	3	0	White Reversed (6 Suits)	2020-07-28 — 06:13:52 UTC	florrat2, padi, Valetta6789	1	6	30
+254036	3	0	White Reversed (6 Suits)	2020-07-28 — 06:13:16 UTC	florrat2, padi, Valetta6789	1	6	30
+254033	3	0	White Reversed (6 Suits)	2020-07-28 — 06:13:03 UTC	florrat2, padi, Valetta6789	1	6	30
+254031	3	0	White Reversed (6 Suits)	2020-07-28 — 06:12:22 UTC	florrat2, padi, Valetta6789	1	6	30
+254029	3	0	White Reversed (6 Suits)	2020-07-28 — 06:11:28 UTC	florrat2, padi, Valetta6789	1	6	30
+254027	3	0	White Reversed (6 Suits)	2020-07-28 — 06:10:25 UTC	florrat2, padi, Valetta6789	1	6	30
+254025	3	0	White Reversed (6 Suits)	2020-07-28 — 06:09:29 UTC	florrat2, padi, Valetta6789	1	6	30
+254023	3	0	White Reversed (6 Suits)	2020-07-28 — 06:08:52 UTC	florrat2, padi, Valetta6789	1	6	30
+254022	3	0	White Reversed (6 Suits)	2020-07-28 — 06:08:04 UTC	florrat2, padi, Valetta6789	1	6	30
+254020	3	0	White Reversed (6 Suits)	2020-07-28 — 06:07:10 UTC	florrat2, padi, Valetta6789	1	6	30
+254016	3	0	White Reversed (6 Suits)	2020-07-28 — 06:06:12 UTC	florrat2, padi, Valetta6789	1	6	30
+254015	3	0	White Reversed (6 Suits)	2020-07-28 — 06:06:01 UTC	florrat2, padi, Valetta6789	1	6	30
+254013	3	0	White Reversed (6 Suits)	2020-07-28 — 06:05:00 UTC	florrat2, padi, Valetta6789	1	6	30
+254007	3	0	White Reversed (6 Suits)	2020-07-28 — 06:02:36 UTC	florrat2, padi, Valetta6789	1	6	30
+254005	3	0	White Reversed (6 Suits)	2020-07-28 — 06:02:16 UTC	florrat2, padi, Valetta6789	1	6	30
+254003	3	0	White Reversed (6 Suits)	2020-07-28 — 06:01:44 UTC	florrat2, padi, Valetta6789	1	6	30
+253998	3	0	White Reversed (6 Suits)	2020-07-28 — 06:00:02 UTC	florrat2, padi, Valetta6789	1	6	30
+253996	3	0	White Reversed (6 Suits)	2020-07-28 — 05:59:03 UTC	florrat2, padi, Valetta6789	1	6	30
+253992	3	0	White Reversed (6 Suits)	2020-07-28 — 05:57:12 UTC	florrat2, padi, Valetta6789	1	6	30
+253988	3	0	White Reversed (6 Suits)	2020-07-28 — 05:55:09 UTC	florrat2, padi, Valetta6789	1	6	30
+253985	3	0	White Reversed (6 Suits)	2020-07-28 — 05:54:23 UTC	florrat2, padi, Valetta6789	1	6	30
+253981	3	0	White Reversed (6 Suits)	2020-07-28 — 05:52:43 UTC	florrat2, padi, Valetta6789	1	6	30
+253976	3	0	White Reversed (6 Suits)	2020-07-28 — 05:50:34 UTC	florrat2, padi, Valetta6789	1	6	30
+253971	3	0	White Reversed (6 Suits)	2020-07-28 — 05:48:36 UTC	florrat2, padi, Valetta6789	1	6	30
+253969	3	0	White Reversed (6 Suits)	2020-07-28 — 05:47:57 UTC	florrat2, padi, Valetta6789	1	6	30
+253964	3	0	White Reversed (6 Suits)	2020-07-28 — 05:47:24 UTC	florrat2, padi, Valetta6789	1	6	30
+253963	3	0	White Reversed (6 Suits)	2020-07-28 — 05:46:57 UTC	florrat2, padi, Valetta6789	1	6	30
+253953	3	0	White Reversed (6 Suits)	2020-07-28 — 05:44:57 UTC	florrat2, padi, Valetta6789	1	6	30
+253950	3	0	White Reversed (6 Suits)	2020-07-28 — 05:44:15 UTC	florrat2, padi, Valetta6789	1	6	30
+253947	3	0	White Reversed (6 Suits)	2020-07-28 — 05:43:40 UTC	florrat2, padi, Valetta6789	1	6	30
+253946	3	0	White Reversed (6 Suits)	2020-07-28 — 05:43:06 UTC	florrat2, padi, Valetta6789	1	6	30
+253944	3	0	White Reversed (6 Suits)	2020-07-28 — 05:42:36 UTC	florrat2, padi, Valetta6789	1	6	30
+253942	3	0	White Reversed (6 Suits)	2020-07-28 — 05:41:07 UTC	florrat2, padi, Valetta6789	1	6	30
+253939	3	0	White Reversed (6 Suits)	2020-07-28 — 05:40:37 UTC	florrat2, padi, Valetta6789	1	6	30
+253937	3	0	White Reversed (6 Suits)	2020-07-28 — 05:39:33 UTC	florrat2, padi, Valetta6789	1	6	30
+253935	3	0	White Reversed (6 Suits)	2020-07-28 — 05:38:12 UTC	florrat2, padi, Valetta6789	1	6	30
+253933	3	29	White Reversed (6 Suits)	2020-07-28 — 05:37:14 UTC	florrat2, padi, Valetta6789	1	6	30
+253926	3	0	White Reversed (6 Suits)	2020-07-28 — 05:35:15 UTC	florrat2, padi, Valetta6789	1	6	30
+253917	4	0	White Reversed (6 Suits)	2020-07-28 — 05:32:16 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253913	4	0	White Reversed (6 Suits)	2020-07-28 — 05:31:25 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253910	4	0	White Reversed (6 Suits)	2020-07-28 — 05:30:22 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253908	4	0	White Reversed (6 Suits)	2020-07-28 — 05:29:43 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253907	4	0	White Reversed (6 Suits)	2020-07-28 — 05:28:59 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253903	4	0	White Reversed (6 Suits)	2020-07-28 — 05:27:14 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253902	4	0	White Reversed (6 Suits)	2020-07-28 — 05:26:32 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253898	4	0	White Reversed (6 Suits)	2020-07-28 — 05:25:35 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253895	4	0	White Reversed (6 Suits)	2020-07-28 — 05:25:08 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253893	4	0	White Reversed (6 Suits)	2020-07-28 — 05:24:17 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253892	4	0	White Reversed (6 Suits)	2020-07-28 — 05:23:38 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253890	4	0	White Reversed (6 Suits)	2020-07-28 — 05:23:03 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253888	4	0	White Reversed (6 Suits)	2020-07-28 — 05:22:19 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253887	4	0	White Reversed (6 Suits)	2020-07-28 — 05:21:58 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253885	4	0	White Reversed (6 Suits)	2020-07-28 — 05:21:06 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253882	4	0	White Reversed (6 Suits)	2020-07-28 — 05:20:10 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253880	4	0	White Reversed (6 Suits)	2020-07-28 — 05:19:27 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253876	4	0	White Reversed (6 Suits)	2020-07-28 — 05:18:23 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253875	4	0	White Reversed (6 Suits)	2020-07-28 — 05:17:54 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253874	4	0	White Reversed (6 Suits)	2020-07-28 — 05:17:23 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253869	4	0	White Reversed (6 Suits)	2020-07-28 — 05:16:06 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253868	4	0	White Reversed (6 Suits)	2020-07-28 — 05:15:14 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253866	4	0	White Reversed (6 Suits)	2020-07-28 — 05:14:41 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253864	4	0	White Reversed (6 Suits)	2020-07-28 — 05:13:59 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253861	4	0	White Reversed (6 Suits)	2020-07-28 — 05:12:49 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253860	4	0	White Reversed (6 Suits)	2020-07-28 — 05:12:22 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253856	4	30	White Reversed (6 Suits)	2020-07-28 — 05:09:58 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253852	4	0	White Reversed (6 Suits)	2020-07-28 — 05:07:39 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253849	4	0	White Reversed (6 Suits)	2020-07-28 — 05:05:57 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253846	4	30	White Reversed (6 Suits)	2020-07-28 — 05:04:59 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253840	4	0	White Reversed (6 Suits)	2020-07-28 — 05:02:36 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253835	4	0	White Reversed (6 Suits)	2020-07-28 — 05:01:08 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253834	4	0	White Reversed (6 Suits)	2020-07-28 — 05:00:15 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253830	4	0	White Reversed (6 Suits)	2020-07-28 — 04:59:00 UTC	florrat2, padi, RaKXeR, Valetta6789	1	6	30
+253828	5	0	White Reversed (6 Suits)	2020-07-28 — 04:57:32 UTC	florrat2, padi, RaKXeR, Tiramisu1th, Valetta6789	1	6	30
+253814	5	0	White Reversed (6 Suits)	2020-07-28 — 04:51:02 UTC	florrat2, padi, RaKXeR, Tiramisu1th, Valetta6789	3	6	30
+253807	5	0	White Reversed (6 Suits)	2020-07-28 — 04:49:24 UTC	florrat2, padi, RaKXeR, Tiramisu1th, Valetta6789	4	6	30
+253803	5	0	No Variant	2020-07-28 — 04:47:01 UTC	florrat2, padi, RaKXeR, Tiramisu1th, Valetta6789	16	5	25
+253798	4	23	No Variant	2020-07-28 — 04:45:34 UTC	florrat2, padi, RaKXeR, Tiramisu1th	6	5	25
+253794	5	0	No Variant	2020-07-28 — 04:42:34 UTC	Bonja97, florrat2, padi, RaKXeR, Tiramisu1th	15	5	25
+253792	4	0	No Variant	2020-07-28 — 04:41:50 UTC	florrat2, padi, RaKXeR, Tiramisu1th	7	5	25
+253790	4	0	No Variant	2020-07-28 — 04:41:37 UTC	florrat2, padi, RaKXeR, Tiramisu1th	9	5	25
+252687	5	0	Black & Dark Rainbow (6 Suits)	2020-07-27 — 04:20:00 UTC	florrat2, Libster, NoMercy, padi, sjdrodge	2	6	30
+252621	5	0	Black & Dark Rainbow (6 Suits)	2020-07-27 — 03:33:37 UTC	florrat2, Libster, NoMercy, padi, sjdrodge	1	6	30
+252609	5	0	Black & Dark Rainbow (6 Suits)	2020-07-27 — 03:25:27 UTC	florrat2, Libster, NoMercy, padi, sjdrodge	1	6	30
+252601	5	0	Black & Dark Rainbow (6 Suits)	2020-07-27 — 03:17:41 UTC	florrat2, Libster, NoMercy, padi, sjdrodge	1	6	30
+252581	5	0	Black & Dark Rainbow (6 Suits)	2020-07-27 — 03:07:45 UTC	florrat2, Libster, NoMercy, padi, sjdrodge	2	6	30
+252570	5	0	Black & Dark Rainbow (6 Suits)	2020-07-27 — 03:01:05 UTC	florrat2, Libster, NoMercy, padi, sjdrodge	2	6	30
+252537	5	0	Black & Dark Rainbow (6 Suits)	2020-07-27 — 02:46:37 UTC	florrat2, Libster, NoMercy, padi, sjdrodge	1	6	30
+252501	5	0	Black & Dark Rainbow (6 Suits)	2020-07-27 — 02:25:50 UTC	florrat2, Libster, NoMercy, padi, sjdrodge	1	6	30
+252472	4	0	Black & Dark Rainbow (6 Suits)	2020-07-27 — 02:08:01 UTC	florrat2, NoMercy, padi, sjdrodge	3	6	30
+252455	4	0	Black & Dark Rainbow (6 Suits)	2020-07-27 — 01:59:56 UTC	florrat2, NoMercy, padi, sjdrodge	3	6	30
+252446	4	0	Black & Dark Rainbow (6 Suits)	2020-07-27 — 01:53:20 UTC	florrat2, NoMercy, padi, sjdrodge	4	6	30
+247831	3	0	Light Pink (6 Suits)	2020-07-22 — 16:34:11 UTC	eljobe, padi, Tiramisu1th	34	6	30
+247825	3	0	Light Pink (6 Suits)	2020-07-22 — 16:11:13 UTC	eljobe, padi, Tiramisu1th	38	6	30
+247814	4	0	Dark Pink (5 Suits)	2020-07-22 — 15:20:32 UTC	melwen, padi, sephiroth, TheDaniMan	10	5	25
+247812	4	0	Dark Pink (5 Suits)	2020-07-22 — 15:11:42 UTC	melwen, padi, sephiroth, TheDaniMan	9	5	25
+247808	5	0	Dark Pink (5 Suits)	2020-07-22 — 14:46:40 UTC	Dr_Kakashi, padi, RaKXeR, sephiroth, TheDaniMan	6	5	25
+247799	6	20	Dark Pink (5 Suits)	2020-07-22 — 14:17:07 UTC	ADrone, Dr_Kakashi, padi, sephiroth, TheDaniMan, Tiramisu1th	4	5	25
+247060	3	24	No Variant	2020-07-21 — 19:52:39 UTC	padi, robo1995, sjdrodge	40	5	25
+246153	5	24	No Variant	2020-07-20 — 21:20:45 UTC	asaelr, Dr_Kakashi, Floriman, joelwool, padi	11	5	25
+246066	4	25	Brown-Fives & Pink (5 Suits)	2020-07-20 — 19:38:48 UTC	DMoney, Dr_Kakashi, padi, will.i.am	1	5	25
+246054	5	0	Brown-Fives & Pink (5 Suits)	2020-07-20 — 19:05:27 UTC	DMoney, Dr_Kakashi, Kyle, padi, will.i.am	1	5	25
+246048	5	0	Brown-Fives & Pink (5 Suits)	2020-07-20 — 18:59:06 UTC	DMoney, Dr_Kakashi, Kyle, padi, will.i.am	1	5	25
+245444	4	20	Omni-Fives (4 Suits)	2020-07-19 — 23:54:46 UTC	DMoney, melwen, padi, swineherd	2	4	20
+245423	4	0	Omni-Fives (4 Suits)	2020-07-19 — 23:36:07 UTC	DMoney, melwen, padi, swineherd	2	4	20
+245405	4	17	Omni-Fives (4 Suits)	2020-07-19 — 23:19:11 UTC	DMoney, melwen, padi, swineherd	2	4	20
+245225	4	25	Omni (5 Suits)	2020-07-19 — 20:46:56 UTC	micerang, padi, scharkbite, TheDaniMan	3	5	25
+244949	5	0	Dark Rainbow (6 Suits)	2020-07-19 — 14:19:36 UTC	MarkusKahlsen, padi, piper, sephiroth, swineherd	33	6	30
+244282	4	0	Light-Pink-Fives & Gray (5 Suits)	2020-07-18 — 23:31:46 UTC	asaelr, DMoney, padi, Zamiel	1	5	25
+244272	4	0	Light-Pink-Fives & Gray (5 Suits)	2020-07-18 — 23:14:55 UTC	asaelr, DMoney, padi, Zamiel	2	5	25
+244251	4	24	Light-Pink-Fives & Gray (5 Suits)	2020-07-18 — 22:55:48 UTC	asaelr, DMoney, padi, Zamiel	2	5	25
+244233	3	28	Black & Pink (6 Suits)	2020-07-18 — 22:35:48 UTC	asaelr, DMoney, padi	4	6	30
+244218	3	0	Black & Pink (6 Suits)	2020-07-18 — 22:21:03 UTC	asaelr, DMoney, padi	4	6	30
+244208	3	25	Rainbow (5 Suits)	2020-07-18 — 22:11:24 UTC	asaelr, DMoney, padi	9	5	25
+243921	6	25	Black (5 Suits)	2020-07-18 — 15:32:26 UTC	Div, Dr_Kakashi, lotem, Nitrate2, padi, sephiroth	8	5	25
+243914	5	0	Rainbow (4 Suits)	2020-07-18 — 15:05:08 UTC	Div, Dr_Kakashi, lotem, Nitrate2, padi	6	4	20
+243910	5	19	Rainbow (4 Suits)	2020-07-18 — 14:47:27 UTC	Div, Dr_Kakashi, lotem, Nitrate2, padi	8	4	20
+241817	6	21	Up or Down & White (5 Suits)	2020-07-16 — 20:10:20 UTC	Bonja97, DMoney, Floriman, MarkusKahlsen, padi, will.i.am	2	5	25
+241795	6	24	Up or Down & White (5 Suits)	2020-07-16 — 19:39:07 UTC	MarkusKahlsen, padi, scharkbite, sephiroth, will.i.am, Zakisan	2	5	25
+241772	4	25	Ambiguous & Dark Brown (5 Suits)	2020-07-16 — 19:16:17 UTC	padi, scharkbite, sephiroth, Zakisan	1	5	25
+241757	3	25	Light-Pink-Fives & White (5 Suits)	2020-07-16 — 18:56:27 UTC	padi, scharkbite, Zakisan	1	5	25
+241746	3	24	Light-Pink-Fives & White (5 Suits)	2020-07-16 — 18:36:58 UTC	padi, scharkbite, sephiroth	1	5	25
+241727	6	29	Light Pink (6 Suits)	2020-07-16 — 18:09:46 UTC	padi, plus, scharkbite, sephiroth, will.i.am, Zakisan	3	6	30
+241605	2	20	White (4 Suits)	2020-07-16 — 16:20:53 UTC	padi, plus	94	4	20
+241593	2	22	White (5 Suits)	2020-07-16 — 16:08:46 UTC	padi, plus	123	5	25
+241576	2	25	Brown (5 Suits)	2020-07-16 — 15:52:20 UTC	padi, plus	124	5	25
+241496	6	25	No Variant	2020-07-16 — 13:31:52 UTC	asaelr, chriswck, eljobe, padi, RaKXeR, TheDaniMan	8	5	25
+240850	5	0	Pink-Ones (4 Suits)	2020-07-15 — 23:42:15 UTC	DMoney, Kyle, padi, will.i.am, Zamiel	1	4	20
+240836	5	25	Pink-Ones (5 Suits)	2020-07-15 — 23:21:58 UTC	DMoney, Floriman, Kyle, padi, Zamiel	1	5	25
+240681	5	0	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-15 — 20:40:04 UTC	MarkusKahlsen, padi, sephiroth, will.i.am, Zakisan	1	5	25
+240650	4	23	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-15 — 20:09:14 UTC	padi, sephiroth, will.i.am, Zakisan	3	5	25
+240625	3	21	Brown-Ones & Dark Rainbow (5 Suits)	2020-07-15 — 19:46:29 UTC	padi, will.i.am, Zakisan	2	5	25
+239281	4	20	Muddy Rainbow (4 Suits)	2020-07-14 — 20:06:10 UTC	Kyle, Livia, padi, Valetta6789	8	4	20
+239264	4	19	Muddy Rainbow (4 Suits)	2020-07-14 — 19:45:58 UTC	Kyle, Livia, padi, Valetta6789	16	4	20
+239245	3	0	Muddy Rainbow (5 Suits)	2020-07-14 — 19:29:44 UTC	Livia, padi, Valetta6789	17	5	25
+239237	2	0	Muddy Rainbow (5 Suits)	2020-07-14 — 19:22:55 UTC	Livia, padi	15	5	25
+239231	2	20	White & Omni (4 Suits)	2020-07-14 — 19:15:49 UTC	Livia, padi	12	4	20
+239139	5	27	Up or Down (6 Suits)	2020-07-14 — 15:45:38 UTC	MarkusKahlsen, Pablo-, padi, sephiroth, TheDaniMan	3	6	30
+239116	4	30	Reversed (6 Suits)	2020-07-14 — 14:23:25 UTC	asaelr, melwen, Nitrate2, padi	12	6	30
+239113	4	0	Reversed (6 Suits)	2020-07-14 — 14:09:38 UTC	asaelr, Nitrate2, padi, TheDaniMan	14	6	30
+239112	3	0	Pink-Ones & Black (5 Suits)	2020-07-14 — 14:07:05 UTC	melwen, Nitrate2, padi	3	5	25
+239107	4	0	Pink-Ones & Black (5 Suits)	2020-07-14 — 13:55:47 UTC	melwen, Nitrate2, padi, swineherd	1	5	25
+238483	6	0	No Variant	2020-07-13 — 20:39:59 UTC	derekcheah, DrJones, Floriman, Kyle, padi, sephiroth	2	5	25
+238473	6	0	No Variant	2020-07-13 — 20:32:51 UTC	derekcheah, DrJones, Floriman, Kyle, padi, sephiroth	3	5	25
+238466	6	23	No Variant	2020-07-13 — 20:28:02 UTC	derekcheah, DrJones, Floriman, Kyle, padi, qbphoenix	4	5	25
+238455	6	0	No Variant	2020-07-13 — 20:20:24 UTC	derekcheah, DrJones, Floriman, Kyle, padi, qbphoenix	5	5	25
+238450	6	21	No Variant	2020-07-13 — 20:16:21 UTC	derekcheah, DrJones, Floriman, Kyle, padi, qbphoenix	10	5	25
+238429	5	0	No Variant	2020-07-13 — 19:57:37 UTC	DrJones, Kyle, padi, qbphoenix, TheDaniMan	25	5	25
+238421	5	0	No Variant	2020-07-13 — 19:50:47 UTC	DrJones, Kyle, padi, qbphoenix, TheDaniMan	25	5	25
+238415	5	0	No Variant	2020-07-13 — 19:39:14 UTC	DrJones, Kyle, padi, qbphoenix, TheDaniMan	28	5	25
+238406	6	0	No Variant	2020-07-13 — 19:30:45 UTC	DrJones, joelwool, Kyle, padi, qbphoenix, TheDaniMan	10	5	25
+238391	6	0	No Variant	2020-07-13 — 19:13:18 UTC	DrJones, joelwool, Kyle, padi, qbphoenix, TheDaniMan	36	5	25
+238063	3	25	Light-Pink-Ones (5 Suits)	2020-07-13 — 04:26:19 UTC	padi, plus, scharkbite	4	5	25
+238042	3	23	Light-Pink-Ones (5 Suits)	2020-07-13 — 04:00:48 UTC	padi, plus, scharkbite	7	5	25
+238017	4	21	Light-Pink-Ones (5 Suits)	2020-07-13 — 03:28:13 UTC	DMoney, padi, plus, scharkbite	2	5	25
+238000	4	0	Light-Pink-Ones (5 Suits)	2020-07-13 — 03:10:01 UTC	DMoney, padi, plus, scharkbite	3	5	25
+237980	6	30	Pink-Fives (6 Suits)	2020-07-13 — 02:50:16 UTC	ADrone, DMoney, Kyle, padi, plus, scharkbite	1	6	30
+237444	3	25	Omni-Fives (5 Suits)	2020-07-12 — 15:23:59 UTC	Livia, padi, sephiroth	4	5	25
+237434	3	0	Omni-Fives (5 Suits)	2020-07-12 — 14:59:47 UTC	Livia, padi, sephiroth	6	5	25
+237423	4	30	Dark Rainbow (6 Suits)	2020-07-12 — 14:21:53 UTC	asaelr, Livia, Pablo-, padi	26	6	30
+237414	4	0	Dark Rainbow (6 Suits)	2020-07-12 — 14:05:11 UTC	asaelr, Livia, Pablo-, padi	25	6	30
+236295	6	27	Up or Down (6 Suits)	2020-07-11 — 14:27:37 UTC	chriswck, MarkusKahlsen, Pablo-, padi, sephiroth, Sucubis	10	6	30
+235420	5	30	White (6 Suits)	2020-07-10 — 21:10:21 UTC	Fey, Floriman, kimbifille, Nitrate2, padi	20	6	30
+234430	5	22	Up or Down & White (5 Suits)	2020-07-09 — 21:36:32 UTC	Kyle, padi, pianoblook, qbphoenix, scharkbite	2	5	25
+234410	4	22	Rainbow-Fives & Cocoa Rainbow (5 Suits)	2020-07-09 — 21:06:24 UTC	Kyle, padi, pianoblook, scharkbite	2	5	25
+234396	4	0	Rainbow-Fives & Cocoa Rainbow (5 Suits)	2020-07-09 — 20:51:37 UTC	Kyle, padi, pianoblook, scharkbite	2	5	25
+234379	4	20	Dual-Color & Brown (4 Suits)	2020-07-09 — 20:33:33 UTC	Kyle, padi, pianoblook, scharkbite	1	4	20
+234373	4	0	Dual-Color & Brown (4 Suits)	2020-07-09 — 20:22:59 UTC	Kyle, padi, pianoblook, scharkbite	2	4	20
+234362	6	21	Gray Pink (5 Suits)	2020-07-09 — 20:07:25 UTC	kooolant, Kyle, padi, pianoblook, scharkbite, sephiroth	1	5	25
+233646	3	23	Dark Omni (5 Suits)	2020-07-08 — 23:46:24 UTC	padi, qbphoenix, Zamiel	7	5	25
+233614	3	0	Dark Omni (5 Suits)	2020-07-08 — 23:29:14 UTC	padi, qbphoenix, Zamiel	13	5	25
+233603	4	0	Dark Omni (5 Suits)	2020-07-08 — 23:24:05 UTC	lotem, padi, qbphoenix, Zamiel	9	5	25
+233579	4	21	Dark Omni (5 Suits)	2020-07-08 — 23:06:33 UTC	lotem, padi, qbphoenix, Zamiel	15	5	25
+232280	5	23	Muddy Rainbow (5 Suits)	2020-07-07 — 16:33:49 UTC	MarkusKahlsen, padi, pianoblook, piper, plus	5	5	25
+231943	4	25	Pink & White (5 Suits)	2020-07-07 — 02:36:28 UTC	derekcheah, padi, pianoblook, will.i.am	3	5	25
+231904	4	0	Pink & White (5 Suits)	2020-07-07 — 02:10:57 UTC	derekcheah, padi, pianoblook, will.i.am	4	5	25
+231892	4	0	Pink & White (5 Suits)	2020-07-07 — 01:57:04 UTC	derekcheah, padi, pianoblook, will.i.am	3	5	25
+231852	4	0	Pink & White (5 Suits)	2020-07-07 — 01:34:59 UTC	derekcheah, padi, pianoblook, will.i.am	6	5	25
+231434	5	0	Omni-Fives (6 Suits)	2020-07-06 — 20:54:01 UTC	DMoney, MarkusKahlsen, padi, TheDaniMan, Zakisan	2	6	30
+231394	5	0	Omni-Fives (6 Suits)	2020-07-06 — 20:21:40 UTC	DMoney, MarkusKahlsen, padi, TheDaniMan, Zakisan	2	6	30
+231282	2	24	Omni (5 Suits)	2020-07-06 — 17:54:39 UTC	asaelr, padi	27	5	25
+231215	2	25	Dark Rainbow (5 Suits)	2020-07-06 — 16:13:28 UTC	Kyle, padi	71	5	25
+231198	3	25	No Variant	2020-07-06 — 15:32:43 UTC	asaelr, MarekU, padi	18	5	25
+231194	3	25	No Variant	2020-07-06 — 15:14:23 UTC	asaelr, MarekU, padi	19	5	25
+231192	4	0	Rainbow-Ones & Dark Brown (6 Suits)	2020-07-06 — 14:50:30 UTC	asaelr, melwen, padi, sephiroth	1	6	30
+230140	5	24	Rainbow Reversed (5 Suits)	2020-07-05 — 13:37:57 UTC	DrJones, melwen, Nitrate2, padi, robense	2	5	25
+229162	6	25	Rainbow Reversed (5 Suits)	2020-07-04 — 15:49:36 UTC	Dr_Kakashi, Floriman, kimbifille, letical, padi, sephiroth	1	5	25
+229155	6	0	Rainbow Reversed (5 Suits)	2020-07-04 — 15:21:24 UTC	Dr_Kakashi, Floriman, kimbifille, letical, padi, sephiroth	1	5	25
+229149	6	0	Rainbow Reversed (5 Suits)	2020-07-04 — 15:01:28 UTC	Dr_Kakashi, Floriman, kimbifille, letical, padi, sephiroth	1	5	25
+229142	6	0	Rainbow Reversed (5 Suits)	2020-07-04 — 14:42:16 UTC	Dr_Kakashi, Floriman, kimbifille, letical, padi, sephiroth	1	5	25
+228242	4	27	Gray & Dark Omni (6 Suits)	2020-07-03 — 20:45:31 UTC	Floriman, NoMercy, padi, pianoblook	1	6	30
+228206	4	0	Gray & Dark Omni (6 Suits)	2020-07-03 — 20:00:43 UTC	Kyle, NoMercy, padi, pianoblook	1	6	30
+227959	3	23	Brown-Fives & Black (5 Suits)	2020-07-03 — 16:42:18 UTC	Fey, padi, Sucubis	2	5	25
+227939	2	22	Brown-Fives & Black (5 Suits)	2020-07-03 — 16:09:41 UTC	Fey, padi	1	5	25
+227926	2	21	Brown-Fives & Black (5 Suits)	2020-07-03 — 15:48:00 UTC	Fey, padi	1	5	25
+226836	5	30	Rainbow & Brown (6 Suits)	2020-07-02 — 19:18:36 UTC	Floriman, Kyle, padi, plus, scharkbite	1	6	30
+226819	5	0	Rainbow & Brown (6 Suits)	2020-07-02 — 18:46:46 UTC	Floriman, Kyle, padi, plus, scharkbite	1	6	30
+226792	5	0	Omni-Fives & Light Pink (6 Suits)	2020-07-02 — 17:54:47 UTC	DMoney, Dr_Kakashi, Floriman, kimbifille, padi	2	6	30
+226789	6	0	Omni-Fives & Light Pink (6 Suits)	2020-07-02 — 17:35:47 UTC	DMoney, Dr_Kakashi, Fey, Floriman, kimbifille, padi	1	6	30
+226785	6	0	Omni-Fives & Light Pink (6 Suits)	2020-07-02 — 17:26:17 UTC	DMoney, Dr_Kakashi, Fey, Floriman, kimbifille, padi	1	6	30
+226781	4	0	Omni-Fives & Light Pink (5 Suits)	2020-07-02 — 17:21:11 UTC	DMoney, Dr_Kakashi, kimbifille, padi	1	5	25
+226779	4	0	Omni-Fives & Light Pink (5 Suits)	2020-07-02 — 17:19:05 UTC	DMoney, Dr_Kakashi, kimbifille, padi	1	5	25
+225899	5	23	Brown (5 Suits)	2020-07-01 — 22:38:16 UTC	derekcheah, Kyle, padi, plus, will.i.am	1	5	25
+225886	5	0	Brown (5 Suits)	2020-07-01 — 22:17:43 UTC	derekcheah, Kyle, padi, plus, will.i.am	1	5	25
+225872	5	0	Brown (5 Suits)	2020-07-01 — 22:01:54 UTC	derekcheah, Kyle, padi, plus, will.i.am	1	5	25
+225855	5	0	Brown (5 Suits)	2020-07-01 — 21:47:40 UTC	derekcheah, Kyle, padi, plus, will.i.am	1	5	25
+225839	4	0	Dark Brown (5 Suits)	2020-07-01 — 21:36:13 UTC	derekcheah, Kyle, padi, will.i.am	5	5	25
+225827	4	24	Dark Brown (5 Suits)	2020-07-01 — 21:24:41 UTC	derekcheah, Kyle, padi, will.i.am	8	5	25
+225741	5	0	Rainbow & Brown (6 Suits)	2020-07-01 — 20:06:25 UTC	DMoney, Floriman, padi, Tobythedog, tyrcho	2	6	30
+225730	5	0	Rainbow & Brown (6 Suits)	2020-07-01 — 19:55:51 UTC	DMoney, Floriman, padi, Tobythedog, tyrcho	2	6	30
+225724	5	0	Rainbow & Brown (6 Suits)	2020-07-01 — 19:51:22 UTC	DMoney, Floriman, padi, Tobythedog, tyrcho	2	6	30
+225713	4	0	Rainbow & Brown (5 Suits)	2020-07-01 — 19:42:44 UTC	DMoney, Floriman, padi, tyrcho	9	5	25
+225698	5	0	Rainbow & Brown (6 Suits)	2020-07-01 — 19:30:08 UTC	DMoney, Floriman, padi, sephiroth, tyrcho	3	6	30
+225684	6	0	Rainbow & Brown (6 Suits)	2020-07-01 — 19:12:37 UTC	DMoney, Nitrate2, padi, pianoblook, sephiroth, tyrcho	4	6	30
+224566	5	0	Dual-Color Mix	2020-06-30 — 20:02:08 UTC	derekcheah, padi, sephiroth, tyrcho, Zakisan	4	6	30
+224536	5	0	Dual-Color Mix	2020-06-30 — 19:39:07 UTC	derekcheah, padi, sephiroth, tyrcho, Zakisan	5	6	30
+224510	3	0	Light-Pink-Ones & Gray (5 Suits)	2020-06-30 — 19:08:49 UTC	Fey, Kyle, padi	2	5	25
+224492	3	23	Reversed (5 Suits)	2020-06-30 — 18:38:07 UTC	Fey, padi, sheamol	3	5	25
+224434	5	12	3 Suits	2020-06-30 — 16:25:50 UTC	Aluap, blueberry, Pablo-, padi, Wittvector	27	3	15
+224400	4	25	Alternating Clues & Brown (5 Suits)	2020-06-30 — 14:29:14 UTC	Floriman, padi, qbphoenix, sephiroth	1	5	25
+224394	3	0	Alternating Clues & Brown (5 Suits)	2020-06-30 — 14:02:26 UTC	Floriman, padi, sephiroth	1	5	25
+223300	3	30	Rainbow (6 Suits)	2020-06-29 — 18:59:32 UTC	asaelr, padi, scharkbite	24	6	30
+223286	3	28	Rainbow (6 Suits)	2020-06-29 — 18:38:17 UTC	asaelr, padi, scharkbite	26	6	30
+223248	3	26	Rainbow (6 Suits)	2020-06-29 — 17:43:50 UTC	asaelr, padi, scharkbite	27	6	30
+223235	3	30	Rainbow (6 Suits)	2020-06-29 — 17:17:05 UTC	asaelr, padi, scharkbite	35	6	30
+223201	4	18	Rainbow (4 Suits)	2020-06-29 — 15:47:46 UTC	blueberry, padi, Puzzle, Wittvector	32	4	20
+223198	4	0	Pink (6 Suits)	2020-06-29 — 15:20:33 UTC	padi, sephiroth, Tiramisu1th, Wittvector	42	6	30
+223188	6	25	Rainbow (5 Suits)	2020-06-29 — 13:09:14 UTC	honzas, MarkusKahlsen, melwen, metta, padi, sephiroth	11	5	25
+221554	4	15	3 Suits	2020-06-28 — 03:19:48 UTC	newduke, padi, swineherd, Zamiel	49	3	15
+221538	3	22	Dark Omni (5 Suits)	2020-06-28 — 03:05:49 UTC	Kyle, padi, Zamiel	22	5	25
+221029	4	25	Black & Null (5 Suits)	2020-06-27 — 21:26:17 UTC	DMoney, MarkusKahlsen, padi, will.i.am	2	5	25
+220945	4	0	Black & Null (5 Suits)	2020-06-27 — 20:44:18 UTC	DMoney, MarkusKahlsen, padi, will.i.am	2	5	25
+220928	4	0	Black & Null (5 Suits)	2020-06-27 — 20:29:45 UTC	DMoney, MarkusKahlsen, padi, will.i.am	2	5	25
+220894	5	0	Black & Null (5 Suits)	2020-06-27 — 19:59:08 UTC	asaelr, DMoney, MarkusKahlsen, padi, will.i.am	3	5	25
+220871	4	0	Black & Null (5 Suits)	2020-06-27 — 19:38:30 UTC	asaelr, DMoney, padi, will.i.am	2	5	25
+220858	4	0	Black & Null (5 Suits)	2020-06-27 — 19:27:07 UTC	asaelr, DMoney, padi, will.i.am	2	5	25
+220835	4	0	Black & Null (5 Suits)	2020-06-27 — 19:06:59 UTC	DMoney, padi, robense, will.i.am	5	5	25
+219668	3	25	No Variant	2020-06-26 — 20:49:48 UTC	julietteLT, padi, tyrcho	194	5	25
+219644	3	0	No Variant	2020-06-26 — 20:15:25 UTC	julietteLT, padi, tyrcho	201	5	25
+219376	5	24	Black (6 Suits)	2020-06-26 — 12:22:38 UTC	Animex52, letical, padi, sephiroth, Tiramisu1th	35	6	30
+218375	4	25	Special Mix (5 Suits)	2020-06-25 — 20:23:18 UTC	padi, pianoblook, TheDaniMan, will.i.am	4	5	25
+218174	5	25	Dark Pink (6 Suits)	2020-06-25 — 15:13:56 UTC	MarkusKahlsen, padi, swineherd, TimeHoodie, Tiramisu1th	13	6	30
+218159	4	0	Dark Pink (6 Suits)	2020-06-25 — 14:34:40 UTC	MarkusKahlsen, padi, TimeHoodie, Tiramisu1th	23	6	30
+218144	4	29	Cocoa Rainbow (6 Suits)	2020-06-25 — 13:43:01 UTC	asaelr, Nitrate2, padi, robense	11	6	30
+218141	4	26	Cocoa Rainbow (6 Suits)	2020-06-25 — 13:19:28 UTC	asaelr, Nitrate2, padi, sephiroth	11	6	30
+218139	4	28	Cocoa Rainbow (6 Suits)	2020-06-25 — 12:54:50 UTC	asaelr, Nitrate2, padi, sephiroth	14	6	30
+218134	3	30	Brown-Ones & Gray (6 Suits)	2020-06-25 — 12:25:54 UTC	Nitrate2, padi, sephiroth	1	6	30
+217284	3	0	Pink (5 Suits)	2020-06-24 — 18:28:18 UTC	Fey, Floriman, padi	33	5	25
+217251	3	25	Pink (5 Suits)	2020-06-24 — 17:49:42 UTC	Fey, Floriman, padi	33	5	25
+217223	4	0	Throw It in a Hole (5 Suits)	2020-06-24 — 16:01:30 UTC	asaelr, Fey, padi, piper	13	5	25
+217216	5	21	Special Mix (5 Suits)	2020-06-24 — 15:33:52 UTC	MarkusKahlsen, melwen, padi, will.i.am, Zakisan	7	5	25
+217208	3	0	Light-Pink-Fives (3 Suits)	2020-06-24 — 14:55:08 UTC	melwen, padi, sephiroth	1	3	15
+217201	3	13	Light-Pink-Fives (3 Suits)	2020-06-24 — 14:19:53 UTC	melwen, padi, sephiroth	1	3	15
+216410	5	27	Dual-Color Mix	2020-06-23 — 23:13:14 UTC	derekcheah, melwen, padi, pianoblook, swineherd	7	6	30
+216374	6	27	Muddy-Rainbow-Ones & Dark Brown (6 Suits)	2020-06-23 — 22:28:58 UTC	kimbifille, Kyle, melwen, padi, scharkbite, TimeHoodie	1	6	30
+216341	5	27	Muddy-Rainbow-Ones & Dark Brown (6 Suits)	2020-06-23 — 21:47:36 UTC	kimbifille, Kyle, padi, scharkbite, TimeHoodie	1	6	30
+216324	5	26	Muddy-Rainbow-Ones & Dark Brown (6 Suits)	2020-06-23 — 21:20:49 UTC	kimbifille, Kyle, padi, scharkbite, TimeHoodie	1	6	30
+216296	5	28	Muddy-Rainbow-Ones & Dark Brown (6 Suits)	2020-06-23 — 20:43:22 UTC	Floriman, kimbifille, padi, scharkbite, TimeHoodie	1	6	30
+216266	5	29	Muddy-Rainbow-Ones & Dark Brown (6 Suits)	2020-06-23 — 20:08:16 UTC	Floriman, kimbifille, padi, scharkbite, TimeHoodie	1	6	30
+216236	4	24	Up or Down & Muddy Rainbow (5 Suits)	2020-06-23 — 19:39:11 UTC	Fireheart, Floriman, padi, scharkbite	4	5	25
+216096	2	23	Pink (6 Suits)	2020-06-23 — 15:33:27 UTC	Fey, padi	157	6	30
+216091	2	0	Pink (6 Suits)	2020-06-23 — 15:15:19 UTC	Fey, padi	172	6	30
+215828	3	0	Muddy-Rainbow-Ones & Rainbow (4 Suits)	2020-06-23 — 04:03:31 UTC	kooolant, padi, TheDaniMan	1	4	20
+215785	3	18	Muddy-Rainbow-Ones & Rainbow (4 Suits)	2020-06-23 — 03:45:39 UTC	kooolant, padi, TheDaniMan	1	4	20
+215763	5	0	No Variant	2020-06-23 — 03:29:17 UTC	Kyle, micerang, padi, TheDaniMan, Zamiel	1	5	25
+215487	4	0	Dual-Color (5 Suits)	2020-06-22 — 23:28:37 UTC	derekcheah, melwen, padi, swineherd	31	5	25
+215474	4	23	Dual-Color (5 Suits)	2020-06-22 — 23:05:21 UTC	derekcheah, padi, sephiroth, swineherd	37	5	25
+215187	3	24	Gray (5 Suits)	2020-06-22 — 17:24:31 UTC	asaelr, Kyle, padi	2	5	25
+215178	3	0	Gray (5 Suits)	2020-06-22 — 17:00:26 UTC	asaelr, Kyle, padi	2	5	25
+215173	3	22	Gray (5 Suits)	2020-06-22 — 16:40:39 UTC	asaelr, Kyle, padi	4	5	25
+215166	3	0	Special Mix (5 Suits)	2020-06-22 — 16:21:59 UTC	Kyle, Livia, padi	22	5	25
+215159	3	0	Special Mix (5 Suits)	2020-06-22 — 16:11:11 UTC	Kyle, Livia, padi	23	5	25
+215152	3	0	Special Mix (5 Suits)	2020-06-22 — 15:59:58 UTC	Kyle, Livia, padi	28	5	25
+214314	3	0	Ambiguous & Black (5 Suits)	2020-06-21 — 19:26:06 UTC	Livia, padi, TheDaniMan	7	5	25
+214306	3	15	Ambiguous & White (3 Suits)	2020-06-21 — 19:15:42 UTC	Livia, padi, TheDaniMan	2	3	15
+214282	3	30	Extremely Ambiguous & White (6 Suits)	2020-06-21 — 18:55:31 UTC	Livia, padi, TheDaniMan	2	6	30
+214262	3	30	Dual-Color & White (6 Suits)	2020-06-21 — 18:29:51 UTC	Livia, padi, TheDaniMan	10	6	30
+214122	3	25	White-Ones (5 Suits)	2020-06-21 — 13:24:14 UTC	asaelr, honzas, padi	20	5	25
+214118	3	20	Rainbow-Ones (4 Suits)	2020-06-21 — 13:01:11 UTC	asaelr, honzas, padi	2	4	20
+213323	6	23	Black (5 Suits)	2020-06-20 — 22:04:46 UTC	Kyle, NoMercy, padi, qbphoenix, scharkbite, Smandon	5	5	25
+211948	6	22	Omni-Ones & Rainbow (5 Suits)	2020-06-19 — 21:30:24 UTC	MarkusKahlsen, melwen, padi, scharkbite, swineherd, will.i.am	1	5	25
+211892	5	23	Omni-Ones & Rainbow (5 Suits)	2020-06-19 — 20:48:17 UTC	Kyle, melwen, padi, scharkbite, will.i.am	1	5	25
+211829	6	23	Omni-Ones & Rainbow (5 Suits)	2020-06-19 — 20:06:46 UTC	Kyle, melwen, padi, scharkbite, swineherd, will.i.am	1	5	25
+211804	4	0	Omni-Ones & Rainbow (5 Suits)	2020-06-19 — 19:40:41 UTC	melwen, padi, scharkbite, swineherd	2	5	25
+211227	3	0	Dual-Color & White (6 Suits)	2020-06-19 — 02:36:31 UTC	Kyle, padi, TimeHoodie	3	6	30
+210867	5	24	Black Reversed (5 Suits)	2020-06-18 — 21:12:10 UTC	MarkusKahlsen, melwen, padi, sephiroth, will.i.am	3	5	25
+210833	4	0	Black Reversed (5 Suits)	2020-06-18 — 20:37:01 UTC	melwen, padi, sephiroth, will.i.am	6	5	25
+210752	5	26	Null-Ones & Rainbow (6 Suits)	2020-06-18 — 19:08:18 UTC	Kyle, Lilliana, padi, sephiroth, Zakisan	1	6	30
+210720	5	0	Null-Ones & Rainbow (6 Suits)	2020-06-18 — 18:27:00 UTC	Kyle, Lilliana, padi, sephiroth, Zakisan	1	6	30
+210710	5	0	Null-Ones & Rainbow (6 Suits)	2020-06-18 — 18:13:30 UTC	Kyle, Lilliana, padi, sephiroth, Zakisan	1	6	30
+210694	6	0	Dual-Color & Omni (6 Suits)	2020-06-18 — 17:48:40 UTC	Floriman, Kyle, Lilliana, padi, scharkbite, sephiroth	1	6	30
+209692	5	24	Ambiguous & Pink (5 Suits)	2020-06-17 — 19:26:16 UTC	kooolant, Lilliana, Livia, padi, TheDaniMan	2	5	25
+209675	5	23	Ambiguous & Pink (5 Suits)	2020-06-17 — 18:58:57 UTC	Animex52, Lilliana, Livia, padi, TheDaniMan	2	5	25
+209606	4	0	Dual-Color & Muddy Rainbow (4 Suits)	2020-06-17 — 16:34:28 UTC	LaFayetteX, melwen, padi, TheDaniMan	1	4	20
+209589	4	0	Dual-Color & Muddy Rainbow (4 Suits)	2020-06-17 — 16:08:39 UTC	LaFayetteX, melwen, padi, TheDaniMan	1	4	20
+209578	5	17	Dual-Color & Muddy Rainbow (4 Suits)	2020-06-17 — 15:43:13 UTC	LaFayetteX, melwen, padi, TheDaniMan, TimeHoodie	1	4	20
+209561	6	0	6 Suits	2020-06-17 — 15:01:00 UTC	Cory, LaFayetteX, metta, Pablo-, padi, Zakisan	8	6	30
+209559	6	30	6 Suits	2020-06-17 — 14:54:06 UTC	Cory, LaFayetteX, metta, Pablo-, padi, Zakisan	8	6	30
+208993	2	0	Black (5 Suits)	2020-06-17 — 00:06:08 UTC	padi, plus	219	5	25
+208817	4	0	Pink & Brown (6 Suits)	2020-06-16 — 20:08:23 UTC	duckmammal, kimbifille, padi, Valetta6789	6	6	30
+208790	4	0	Pink & Brown (6 Suits)	2020-06-16 — 19:45:27 UTC	duckmammal, kimbifille, padi, Valetta6789	13	6	30
+208785	4	0	Pink & Brown (6 Suits)	2020-06-16 — 19:37:33 UTC	duckmammal, kimbifille, padi, Valetta6789	13	6	30
+208773	5	0	Muddy Rainbow (5 Suits)	2020-06-16 — 19:10:30 UTC	duckmammal, kimbifille, Livia, padi, scharkbite	7	5	25
+208757	4	0	Pink & Dark Brown (6 Suits)	2020-06-16 — 18:45:25 UTC	duckmammal, kimbifille, padi, scharkbite	5	6	30
+208743	3	0	Pink & Dark Brown (6 Suits)	2020-06-16 — 18:22:05 UTC	duckmammal, kimbifille, padi	5	6	30
+207979	3	24	No Variant	2020-06-15 — 23:08:46 UTC	melwen, methmatics, padi	62	5	25
+207942	3	0	No Variant	2020-06-15 — 22:35:10 UTC	melwen, methmatics, padi	66	5	25
+207925	3	24	No Variant	2020-06-15 — 22:15:39 UTC	melwen, methmatics, padi	69	5	25
+207876	4	0	Alternating Clues & Pink (6 Suits)	2020-06-15 — 21:38:41 UTC	Floriman, Livia, padi, Zamiel	1	6	30
+207853	4	25	Black & Muddy Rainbow (5 Suits)	2020-06-15 — 21:15:36 UTC	Floriman, Livia, padi, Zamiel	8	5	25
+207814	4	24	Alternating Clues (5 Suits)	2020-06-15 — 20:35:43 UTC	LaFayetteX, padi, sephiroth, will.i.am	13	5	25
+207776	3	22	Alternating Clues (5 Suits)	2020-06-15 — 20:04:17 UTC	padi, sephiroth, will.i.am	24	5	25
+207624	5	25	Clue Starved (5 Suits)	2020-06-15 — 16:32:55 UTC	melwen, padi, sephiroth, swineherd, will.i.am	7	5	25
+207607	3	24	Clue Starved (5 Suits)	2020-06-15 — 15:43:11 UTC	padi, sephiroth, will.i.am	2	5	25
+207157	4	27	Black & Muddy Rainbow (6 Suits)	2020-06-15 — 03:17:35 UTC	micerang, padi, scharkbite, Zamiel	6	6	30
+207123	4	0	Black & Muddy Rainbow (6 Suits)	2020-06-15 — 02:57:41 UTC	micerang, padi, scharkbite, Zamiel	5	6	30
+207111	4	0	Black & Muddy Rainbow (6 Suits)	2020-06-15 — 02:53:30 UTC	micerang, padi, scharkbite, Zamiel	8	6	30
+206584	3	25	No Variant	2020-06-14 — 20:54:10 UTC	padi, Smandon, Wittvector	199	5	25
+206558	4	0	Black (6 Suits)	2020-06-14 — 20:26:07 UTC	asaelr, padi, Smandon, Wittvector	21	6	30
+206546	4	0	Black (6 Suits)	2020-06-14 — 20:14:14 UTC	asaelr, padi, Smandon, Wittvector	22	6	30
+206530	4	0	Black (6 Suits)	2020-06-14 — 19:53:56 UTC	asaelr, padi, Smandon, Wittvector	90	6	30
+206468	4	0	Black (6 Suits)	2020-06-14 — 18:46:20 UTC	padi, sephiroth, Smandon, TheDaniMan	45	6	30
+206458	4	0	Black (6 Suits)	2020-06-14 — 18:38:27 UTC	padi, sephiroth, Smandon, TheDaniMan	49	6	30
+206438	4	0	Black (6 Suits)	2020-06-14 — 18:19:22 UTC	padi, sephiroth, Smandon, TheDaniMan	55	6	30
+206422	4	0	Black (6 Suits)	2020-06-14 — 18:00:06 UTC	padi, sephiroth, Smandon, TheDaniMan	112	6	30
+206318	6	25	Throw It in a Hole (5 Suits)	2020-06-14 — 15:02:43 UTC	Animex52, MarkusKahlsen, melwen, padi, piper, sephiroth	1	5	25
+206269	5	0	White-Fives & Black (5 Suits)	2020-06-14 — 13:12:42 UTC	Dr_Kakashi, DrJones, Floriman, kimbifille, padi	1	5	25
+205922	4	0	Duck (5 Suits)	2020-06-14 — 03:39:12 UTC	melwen, padi, scharkbite, sephiroth	2	5	25
+205887	5	0	Duck (5 Suits)	2020-06-14 — 03:12:37 UTC	melwen, padi, qbphoenix, scharkbite, sephiroth	2	5	25
+205871	5	0	Duck (5 Suits)	2020-06-14 — 03:04:17 UTC	melwen, padi, qbphoenix, scharkbite, sephiroth	4	5	25
+205832	5	0	Duck (5 Suits)	2020-06-14 — 02:31:09 UTC	melwen, padi, qbphoenix, scharkbite, sephiroth	3	5	25
+205475	5	23	Muddy Rainbow (5 Suits)	2020-06-13 — 21:11:14 UTC	newduke, padi, scharkbite, Smandon, TheDaniMan	9	5	25
+205395	4	22	Muddy Rainbow (5 Suits)	2020-06-13 — 20:36:11 UTC	MarkusKahlsen, padi, Smandon, TheDaniMan	23	5	25
+205352	3	0	Muddy Rainbow (5 Suits)	2020-06-13 — 20:10:11 UTC	MarkusKahlsen, padi, TheDaniMan	37	5	25
+205327	3	22	Muddy Rainbow (5 Suits)	2020-06-13 — 19:48:56 UTC	MarkusKahlsen, padi, TheDaniMan	46	5	25
+204277	2	28	Pink (6 Suits)	2020-06-13 — 00:19:24 UTC	padi, robense	6	6	30
+204235	2	25	Pink (6 Suits)	2020-06-12 — 23:51:49 UTC	padi, robense	6	6	30
+204213	2	26	Pink (6 Suits)	2020-06-12 — 23:35:36 UTC	padi, robense	6	6	30
+204182	2	0	Pink (6 Suits)	2020-06-12 — 23:18:59 UTC	padi, robense	7	6	30
+203887	3	23	No Variant	2020-06-12 — 19:43:37 UTC	crossproduct, padi, Puzzle	213	5	25
+203830	3	24	No Variant	2020-06-12 — 19:10:47 UTC	crossproduct, padi, Puzzle	220	5	25
+203800	3	21	Black (5 Suits)	2020-06-12 — 18:30:28 UTC	MarkusKahlsen, padi, robense	44	5	25
+203326	2	15	3 Suits	2020-06-12 — 03:55:21 UTC	padi, rs1	193	3	15
+203292	3	14	3 Suits	2020-06-12 — 03:38:38 UTC	newduke, padi, rs1	88	3	15
+203268	3	14	3 Suits	2020-06-12 — 03:22:19 UTC	newduke, padi, rs1	115	3	15
+203238	3	14	3 Suits	2020-06-12 — 03:05:43 UTC	newduke, padi, rs1	144	3	15
+203216	3	0	3 Suits	2020-06-12 — 02:53:43 UTC	claudiob, newduke, padi	15	3	15
+203205	3	14	3 Suits	2020-06-12 — 02:44:42 UTC	claudiob, newduke, padi	16	3	15
+203170	3	13	3 Suits	2020-06-12 — 02:25:48 UTC	claudiob, newduke, padi	18	3	15
+202908	5	20	Reversed (4 Suits)	2020-06-11 — 23:10:56 UTC	melwen, Nitrate2, padi, TheDaniMan, Zamiel	2	4	20
+202873	4	0	Black & Dark Pink (6 Suits)	2020-06-11 — 22:15:01 UTC	Dr_Kakashi, Floriman, kimbifille, padi	2	6	30
+202868	4	0	Black & Dark Pink (6 Suits)	2020-06-11 — 22:02:51 UTC	Dr_Kakashi, Floriman, kimbifille, padi	3	6	30
+202841	4	0	Black & Dark Pink (6 Suits)	2020-06-11 — 21:40:37 UTC	Dr_Kakashi, Floriman, kimbifille, padi	3	6	30
+202822	4	0	Black & Dark Pink (6 Suits)	2020-06-11 — 21:24:02 UTC	Dr_Kakashi, Floriman, kimbifille, padi	3	6	30
+202810	5	0	Black & Dark Pink (6 Suits)	2020-06-11 — 21:15:52 UTC	Dr_Kakashi, Floriman, kimbifille, padi, TimeHoodie	1	6	30
+202798	4	0	Black & Dark Pink (6 Suits)	2020-06-11 — 21:03:59 UTC	Dr_Kakashi, kimbifille, padi, TimeHoodie	3	6	30
+202748	3	0	Dual-Color Mix	2020-06-11 — 20:18:43 UTC	Floriman, Kyle, padi	29	6	30
+202725	3	0	Dual-Color Mix	2020-06-11 — 20:01:32 UTC	Floriman, Kyle, padi	33	6	30
+202706	3	0	Dual-Color Mix	2020-06-11 — 19:49:49 UTC	Floriman, Kyle, padi	42	6	30
+202675	6	0	Black & Dark Pink (6 Suits)	2020-06-11 — 19:19:00 UTC	Dr_Kakashi, Floriman, kimbifille, Kyle, padi, sin_faith	1	6	30
+202563	5	29	Rainbow-Fives & Black (6 Suits)	2020-06-11 — 14:38:53 UTC	Dr_Kakashi, melwen, padi, sephiroth, TimeHoodie	1	6	30
+201805	4	0	No Variant	2020-06-10 — 21:43:13 UTC	crossproduct, Pablo-, padi, sseemaku	326	5	25
+201750	3	25	No Variant	2020-06-10 — 21:02:03 UTC	Pablo-, padi, sseemaku	243	5	25
+201584	3	0	Rainbow & White (5 Suits)	2020-06-10 — 18:46:02 UTC	MarkusKahlsen, padi, sephiroth	20	5	25
+201572	3	0	Rainbow & White (5 Suits)	2020-06-10 — 18:33:34 UTC	MarkusKahlsen, padi, sephiroth	26	5	25
+201551	3	24	Rainbow & White (5 Suits)	2020-06-10 — 18:17:11 UTC	MarkusKahlsen, padi, sephiroth	37	5	25
+201487	6	24	Rainbow Reversed (5 Suits)	2020-06-10 — 16:50:25 UTC	Dr_Kakashi, Kyle, padi, sin_faith, TheDaniMan, TimeHoodie	1	5	25
+201466	6	0	Rainbow Reversed (5 Suits)	2020-06-10 — 16:18:43 UTC	Dr_Kakashi, Kyle, padi, sin_faith, TheDaniMan, TimeHoodie	1	5	25
+201457	5	24	Rainbow Reversed (5 Suits)	2020-06-10 — 16:00:35 UTC	Dr_Kakashi, Kyle, padi, sin_faith, TimeHoodie	2	5	25
+201409	5	18	Muddy-Rainbow-Fives & Rainbow (4 Suits)	2020-06-10 — 14:19:47 UTC	Kyle, melwen, padi, pianoblook, sephiroth	1	4	20
+201402	4	0	Muddy-Rainbow-Fives & Rainbow (4 Suits)	2020-06-10 — 13:57:16 UTC	Kyle, padi, sephiroth, swineherd	2	4	20
+200601	6	25	Clue Starved (5 Suits)	2020-06-09 — 20:41:38 UTC	Dr_Kakashi, kimbifille, kooolant, padi, scharkbite, TimeHoodie	1	5	25
+200539	6	23	Clue Starved (5 Suits)	2020-06-09 — 19:58:13 UTC	Dr_Kakashi, kimbifille, kooolant, padi, scharkbite, TimeHoodie	1	5	25
+200509	6	24	Clue Starved (5 Suits)	2020-06-09 — 19:42:16 UTC	Dr_Kakashi, kimbifille, kooolant, padi, scharkbite, TimeHoodie	1	5	25
+200493	6	0	Clue Starved (5 Suits)	2020-06-09 — 19:31:36 UTC	Dr_Kakashi, kimbifille, kooolant, padi, scharkbite, TimeHoodie	1	5	25
+200487	6	0	Clue Starved (5 Suits)	2020-06-09 — 19:28:40 UTC	Dr_Kakashi, kimbifille, kooolant, padi, scharkbite, TimeHoodie	1	5	25
+200471	5	0	Clue Starved (5 Suits)	2020-06-09 — 19:15:25 UTC	Dr_Kakashi, kimbifille, kooolant, padi, TimeHoodie	3	5	25
+200438	5	0	Clue Starved (5 Suits)	2020-06-09 — 18:49:36 UTC	Dr_Kakashi, kimbifille, kooolant, padi, TimeHoodie	3	5	25
+200423	3	0	Clue Starved & White (5 Suits)	2020-06-09 — 18:28:30 UTC	Dr_Kakashi, kimbifille, padi	2	5	25
+200419	3	0	Clue Starved & White (5 Suits)	2020-06-09 — 18:23:28 UTC	Dr_Kakashi, kimbifille, padi	2	5	25
+200304	4	20	Brown-Fives & White (4 Suits)	2020-06-09 — 15:22:12 UTC	padi, swineherd, TheDaniMan, TimeHoodie	2	4	20
+200284	4	0	No Variant	2020-06-09 — 14:39:52 UTC	jerryK, padi, Puzzle, sephiroth	384	5	25
+200266	5	30	Light Pink (6 Suits)	2020-06-09 — 13:45:05 UTC	MarkusKahlsen, Nitrate2, padi, swineherd, Zakisan	11	6	30
+199512	4	25	No Variant	2020-06-09 — 00:09:03 UTC	jerryK, padi, Puzzle, XMIL	131	5	25
+199433	3	30	Rainbow & Gray (6 Suits)	2020-06-08 — 21:52:48 UTC	asaelr, Dr_Kakashi, padi	17	6	30
+199382	4	30	Pink-Fives & White (6 Suits)	2020-06-08 — 21:23:40 UTC	asaelr, Dr_Kakashi, padi, TheDaniMan	1	6	30
+199331	4	0	Pink-Fives & White (6 Suits)	2020-06-08 — 21:00:35 UTC	asaelr, Dr_Kakashi, padi, TheDaniMan	2	6	30
+199303	4	29	Pink-Fives & White (6 Suits)	2020-06-08 — 20:40:50 UTC	asaelr, Dr_Kakashi, padi, TheDaniMan	4	6	30
+199236	4	26	Black & Dark Pink (6 Suits)	2020-06-08 — 20:02:49 UTC	Dr_Kakashi, padi, TheDaniMan, Valetta6789	3	6	30
+199174	4	0	Black & Dark Pink (6 Suits)	2020-06-08 — 19:28:46 UTC	Dr_Kakashi, padi, TheDaniMan, Valetta6789	3	6	30
+199155	4	0	Black & Dark Pink (6 Suits)	2020-06-08 — 19:13:13 UTC	Dr_Kakashi, padi, TheDaniMan, Valetta6789	4	6	30
+199117	4	0	Black & Dark Pink (6 Suits)	2020-06-08 — 18:24:24 UTC	Dr_Kakashi, Floriman, padi, postmans	3	6	30
+199106	3	0	Black & Dark Pink (6 Suits)	2020-06-08 — 18:12:13 UTC	Dr_Kakashi, kooolant, padi	3	6	30
+198610	3	25	No Variant	2020-06-08 — 02:30:01 UTC	Kyle, padi, sylvia	68	5	25
+198565	3	0	No Variant	2020-06-08 — 01:56:37 UTC	Kyle, padi, sylvia	71	5	25
+198517	3	0	No Variant	2020-06-08 — 01:19:59 UTC	Kyle, padi, sylvia	71	5	25
+198488	4	0	Light Pink & Dark Omni (6 Suits)	2020-06-08 — 00:47:32 UTC	Dr_Kakashi, kimbifille, Kyle, padi	4	6	30
+198430	6	21	Gray (5 Suits)	2020-06-07 — 23:48:53 UTC	Dr_Kakashi, duckmammal, kimbifille, Kyle, micerang, padi	5	5	25
+198028	3	0	Muddy Rainbow (4 Suits)	2020-06-07 — 17:48:36 UTC	kimbifille, Livia, padi	18	4	20
+198005	5	0	3 Suits	2020-06-07 — 17:28:30 UTC	Dr_Kakashi, kimbifille, Livia, padi, sin_faith	4	3	15
+197950	5	0	3 Suits	2020-06-07 — 16:31:03 UTC	Dr_Kakashi, Livia, padi, postmans, Zakisan	5	3	15
+197946	5	0	3 Suits	2020-06-07 — 16:25:11 UTC	Dr_Kakashi, Livia, padi, postmans, Zakisan	5	3	15
+197942	5	13	3 Suits	2020-06-07 — 16:18:42 UTC	Dr_Kakashi, Livia, padi, postmans, Zakisan	5	3	15
+197935	5	0	3 Suits	2020-06-07 — 16:09:23 UTC	Dr_Kakashi, Livia, Nils, padi, postmans	7	3	15
+197931	5	12	3 Suits	2020-06-07 — 16:05:12 UTC	Dr_Kakashi, Livia, Nils, padi, postmans	8	3	15
+197925	5	11	3 Suits	2020-06-07 — 15:53:29 UTC	asaelr, Dr_Kakashi, Livia, Nils, padi	5	3	15
+197918	4	15	Pink (3 Suits)	2020-06-07 — 15:39:47 UTC	Dr_Kakashi, Livia, padi, sin_faith	13	3	15
+197913	5	0	Muddy Rainbow (6 Suits)	2020-06-07 — 15:31:37 UTC	Dr_Kakashi, Jake_Stiles, Livia, padi, sin_faith	3	6	30
+197910	5	0	Muddy Rainbow (6 Suits)	2020-06-07 — 15:27:37 UTC	Dr_Kakashi, Jake_Stiles, Livia, padi, sin_faith	11	6	30
+197859	3	30	Gray (6 Suits)	2020-06-07 — 13:34:46 UTC	padi, postmans, sin_faith	55	6	30
+197849	3	0	Black & Gray Pink (6 Suits)	2020-06-07 — 13:03:51 UTC	padi, postmans, sin_faith	4	6	30
+196830	4	25	Clue Starved & White (5 Suits)	2020-06-06 — 22:38:32 UTC	Dr_Kakashi, kimbifille, padi, piper	4	5	25
+195387	5	25	Rainbow (5 Suits)	2020-06-05 — 23:13:15 UTC	Floriman, florrat2, Lilliana, Livia, padi	12	5	25
+195360	5	23	Rainbow (5 Suits)	2020-06-05 — 22:29:24 UTC	Floriman, florrat2, Lilliana, Livia, padi	14	5	25
+195335	5	0	Dark Rainbow (5 Suits)	2020-06-05 — 22:04:45 UTC	Floriman, florrat2, Lilliana, Livia, padi	10	5	25
+195290	5	0	Gray (6 Suits)	2020-06-05 — 21:39:13 UTC	Floriman, florrat2, Kyle, Livia, padi	9	6	30
+195236	4	27	Gray (6 Suits)	2020-06-05 — 21:02:07 UTC	Floriman, florrat2, Livia, padi	5	6	30
+195100	4	23	Special Mix (5 Suits)	2020-06-05 — 18:18:46 UTC	padi, sephiroth, sin_faith, will.i.am	18	5	25
+194938	5	22	White-Ones & Brown (5 Suits)	2020-06-05 — 13:24:49 UTC	melwen, padi, robense, sephiroth, TimeHoodie	2	5	25
+194172	3	0	Black Reversed (6 Suits)	2020-06-04 — 23:24:34 UTC	Lilliana, padi, TheDaniMan	10	6	30
+194162	5	0	Black Reversed (6 Suits)	2020-06-04 — 22:57:43 UTC	asaelr, kooolant, padi, TheDaniMan, Zamiel	4	6	30
+193939	4	24	White-Ones (5 Suits)	2020-06-04 — 19:39:19 UTC	kooolant, Lilliana, MarkusKahlsen, padi	10	5	25
+193914	4	0	White-Ones (6 Suits)	2020-06-04 — 19:10:50 UTC	kooolant, Lilliana, padi, Zamiel	3	6	30
+193912	4	0	White-Ones (6 Suits)	2020-06-04 — 19:02:50 UTC	kooolant, Lilliana, padi, Zamiel	9	6	30
+193907	4	25	Brown-Fives (5 Suits)	2020-06-04 — 18:56:02 UTC	kooolant, Lilliana, padi, TimeHoodie	1	5	25
+193890	5	23	Brown (5 Suits)	2020-06-04 — 18:33:25 UTC	kooolant, Lilliana, padi, TimeHoodie, will.i.am	4	5	25
+193772	5	25	White (5 Suits)	2020-06-04 — 15:19:29 UTC	asaelr, hakha3, padi, sephiroth, Zakisan	11	5	25
+193749	5	19	No Variant	2020-06-04 — 14:40:26 UTC	Fey, Le_Codex, MarekU, padi, sephiroth	262	5	25
+193101	3	24	No Variant	2020-06-03 — 23:52:27 UTC	hakha3, newduke, padi	411	5	25
+193068	4	23	No Variant	2020-06-03 — 23:21:53 UTC	asaelr, newduke, padi, swineherd	18	5	25
+192720	5	23	White (5 Suits)	2020-06-03 — 16:19:22 UTC	Animex52, Kyle, padi, will.i.am, Zakisan	1	5	25
+192689	5	0	White (5 Suits)	2020-06-03 — 15:42:04 UTC	Animex52, Kyle, padi, will.i.am, Zakisan	2	5	25
+192634	5	18	Light-Pink-Fives & Rainbow (4 Suits)	2020-06-03 — 13:50:11 UTC	MarkusKahlsen, padi, sephiroth, TimeHoodie, Zakisan	1	4	20
+191727	5	30	White-Fives & Light Pink (6 Suits)	2020-06-02 — 20:10:22 UTC	Floriman, kooolant, padi, pianoblook, TimeHoodie	1	6	30
+191673	5	0	White-Fives & Light Pink (6 Suits)	2020-06-02 — 19:24:58 UTC	Floriman, kooolant, padi, TimeHoodie, XMIL	1	6	30
+191654	4	0	White-Fives & Light Pink (6 Suits)	2020-06-02 — 19:03:23 UTC	Floriman, kooolant, padi, XMIL	2	6	30
+191621	4	23	Black & Brown (5 Suits)	2020-06-02 — 18:12:06 UTC	hakha3, padi, TheDaniMan, TimeHoodie	8	5	25
+191608	4	0	Black & Brown (5 Suits)	2020-06-02 — 17:47:10 UTC	hakha3, padi, TheDaniMan, TimeHoodie	10	5	25
+191547	4	24	Black & Brown (5 Suits)	2020-06-02 — 15:53:37 UTC	hakha3, padi, TimeHoodie, Zakisan	13	5	25
+191489	2	0	3 Suits	2020-06-02 — 14:12:03 UTC	padi, test	271	3	15
+190581	3	30	Pink (6 Suits)	2020-06-01 — 19:37:18 UTC	MarkusKahlsen, padi, tyrcho	53	6	30
+190553	4	20	Rainbow (4 Suits)	2020-06-01 — 18:50:49 UTC	Kyle, MarkusKahlsen, padi, tyrcho	11	4	20
+190482	5	24	Brown (5 Suits)	2020-06-01 — 16:02:41 UTC	Nitrate2, padi, pianoblook, TimeHoodie, will.i.am	5	5	25
+187851	2	30	White (6 Suits)	2020-05-30 — 14:57:05 UTC	padi, tyrcho	48	6	30
+187836	2	0	White (6 Suits)	2020-05-30 — 14:24:44 UTC	padi, tyrcho	55	6	30
+186472	3	0	Black & Rainbow (5 Suits)	2020-05-29 — 19:06:41 UTC	Floriman, padi, sephiroth	6	5	25
+185138	3	20	Black & Rainbow (5 Suits)	2020-05-28 — 18:32:55 UTC	kimbifille, kooolant, padi	40	5	25
+183943	2	0	Rainbow-Ones & Black (6 Suits)	2020-05-27 — 20:25:37 UTC	padi, Valetta6789	4	6	30
+183924	2	27	Rainbow-Ones & Black (6 Suits)	2020-05-27 — 20:07:14 UTC	padi, Valetta6789	5	6	30
+183865	3	22	Up or Down (5 Suits)	2020-05-27 — 19:29:02 UTC	Fey, frollo9386, padi	57	5	25
+181352	4	26	Black (6 Suits)	2020-05-25 — 15:59:56 UTC	Floriman, padi, sephiroth, Zakisan	91	6	30
+177177	5	17	Black (5 Suits)	2020-05-22 — 23:02:38 UTC	alphabeta, kimbifille, melwen, Nitrate2, padi	11	5	25
+177128	5	0	Black (5 Suits)	2020-05-22 — 22:21:34 UTC	alphabeta, kimbifille, melwen, Nitrate2, padi	12	5	25
+177107	5	0	Black (5 Suits)	2020-05-22 — 22:05:36 UTC	alphabeta, kimbifille, melwen, Nitrate2, padi	12	5	25
+172888	4	24	Pink & White (5 Suits)	2020-05-19 — 16:32:26 UTC	Fey, kimbifille, kooolant, padi	11	5	25
+172875	3	0	Pink & White (5 Suits)	2020-05-19 — 16:01:02 UTC	Fey, kooolant, padi	17	5	25
+172864	4	25	Pink (5 Suits)	2020-05-19 — 15:19:17 UTC	Fey, Nitrate2, padi, will.i.am	69	5	25
+172524	3	20	White & Light Pink (4 Suits)	2020-05-19 — 04:36:15 UTC	Dr_Kakashi, kooolant, padi	2	4	20
+172483	3	0	White & Light Pink (4 Suits)	2020-05-19 — 04:06:49 UTC	Dr_Kakashi, kooolant, padi	3	4	20
+172446	3	0	White & Light Pink (4 Suits)	2020-05-19 — 03:41:06 UTC	Dr_Kakashi, kooolant, padi	3	4	20
+172426	3	0	White-Ones & Light Pink (5 Suits)	2020-05-19 — 03:31:06 UTC	Dr_Kakashi, padi, sin_faith	1	5	25
+172144	5	23	Muddy-Rainbow-Ones & Light Pink (5 Suits)	2020-05-19 — 00:40:13 UTC	Dr_Kakashi, Kyle, padi, sin_faith, TimeHoodie	1	5	25
+172105	5	0	Muddy-Rainbow-Ones & Light Pink (5 Suits)	2020-05-18 — 23:59:36 UTC	asaelr, Dr_Kakashi, padi, sin_faith, TimeHoodie	1	5	25
+172085	4	0	Null-Ones & Muddy Rainbow (5 Suits)	2020-05-18 — 23:32:41 UTC	asaelr, Dr_Kakashi, padi, sin_faith	1	5	25
+172076	4	0	Null-Ones & Muddy Rainbow (5 Suits)	2020-05-18 — 23:15:39 UTC	asaelr, Dr_Kakashi, padi, sin_faith	2	5	25
+172064	4	0	Null-Ones & Muddy Rainbow (5 Suits)	2020-05-18 — 23:04:33 UTC	asaelr, padi, sin_faith, 花火	2	5	25
+172055	4	0	Null-Ones & Muddy Rainbow (5 Suits)	2020-05-18 — 22:57:43 UTC	asaelr, padi, sin_faith, 花火	3	5	25
+172048	3	30	Rainbow & White (6 Suits)	2020-05-18 — 22:44:35 UTC	asaelr, padi, sin_faith	5	6	30
+172028	3	0	Rainbow & White (6 Suits)	2020-05-18 — 22:24:51 UTC	asaelr, padi, sin_faith	6	6	30
+171975	6	23	White & Light Pink (5 Suits)	2020-05-18 — 21:10:09 UTC	kimbifille, kooolant, padi, TheDaniMan, XMIL, Zakisan	2	5	25
+171939	5	0	White & Light Pink (4 Suits)	2020-05-18 — 20:34:31 UTC	kimbifille, kooolant, padi, TheDaniMan, Zakisan	1	4	20
+171901	5	16	White & Light Pink (4 Suits)	2020-05-18 — 20:00:16 UTC	Fey, kimbifille, kooolant, padi, TheDaniMan	2	4	20
+171847	4	25	White & Light Pink (5 Suits)	2020-05-18 — 19:16:52 UTC	kimbifille, kooolant, padi, TheDaniMan	6	5	25
+171825	5	0	White & Light Pink (5 Suits)	2020-05-18 — 18:51:39 UTC	Dr_Kakashi, kimbifille, kooolant, padi, TheDaniMan	3	5	25
+171721	4	23	No Variant	2020-05-18 — 15:20:31 UTC	Nitrate2, padi, prangle, XMIL	190	5	25
+170935	2	0	Dual-Color & Rainbow (4 Suits)	2020-05-17 — 23:48:26 UTC	padi, test	25	4	20
+170533	4	23	Omni (5 Suits)	2020-05-17 — 19:02:49 UTC	Animex52, Dr_Kakashi, Livia, padi	3	5	25
+170481	3	18	Dual-Color & Rainbow (4 Suits)	2020-05-17 — 18:30:33 UTC	Dr_Kakashi, Livia, padi	2	4	20
+170463	3	0	Dual-Color & Rainbow (4 Suits)	2020-05-17 — 18:16:12 UTC	Dr_Kakashi, Livia, padi	2	4	20
+170451	3	0	Dual-Color & Rainbow (4 Suits)	2020-05-17 — 18:07:39 UTC	Dr_Kakashi, Livia, padi	2	4	20
+170347	5	0	Brown & Gray Pink (6 Suits)	2020-05-17 — 16:31:57 UTC	Kyle, Nils, padi, TheDaniMan, TimeHoodie	2	6	30
+170324	6	0	Brown & Gray Pink (6 Suits)	2020-05-17 — 16:05:44 UTC	kooolant, Kyle, Nils, padi, TheDaniMan, TimeHoodie	1	6	30
+168852	3	0	Null (5 Suits)	2020-05-16 — 20:01:08 UTC	Dr_Kakashi, Livia, padi	13	5	25
+168844	3	0	Null (5 Suits)	2020-05-16 — 19:52:57 UTC	Dr_Kakashi, Livia, padi	14	5	25
+168832	3	0	Null (5 Suits)	2020-05-16 — 19:43:32 UTC	Dr_Kakashi, Livia, padi	14	5	25
+168828	3	0	Null (5 Suits)	2020-05-16 — 19:40:35 UTC	Dr_Kakashi, Livia, padi	15	5	25
+168813	3	0	Null (5 Suits)	2020-05-16 — 19:33:43 UTC	Dr_Kakashi, Livia, padi	16	5	25
+168808	3	0	Null (5 Suits)	2020-05-16 — 19:27:55 UTC	Dr_Kakashi, Livia, padi	17	5	25
+168789	3	0	Null (5 Suits)	2020-05-16 — 19:12:11 UTC	Dr_Kakashi, Livia, padi	18	5	25
+168761	3	0	Null (5 Suits)	2020-05-16 — 18:41:35 UTC	Dr_Kakashi, Livia, padi	18	5	25
+168751	3	0	Null (5 Suits)	2020-05-16 — 18:21:44 UTC	Dr_Kakashi, Livia, padi	20	5	25
+168735	3	0	Null (5 Suits)	2020-05-16 — 18:00:57 UTC	Dr_Kakashi, Livia, padi	21	5	25
+168724	3	0	Null (5 Suits)	2020-05-16 — 17:53:58 UTC	Dr_Kakashi, Livia, padi	27	5	25
+168698	3	0	Omni-Fives & Pink (6 Suits)	2020-05-16 — 17:36:03 UTC	Livia, padi, scharkbite	1	6	30
+168668	3	0	Omni-Fives & Pink (6 Suits)	2020-05-16 — 17:10:51 UTC	Livia, padi, scharkbite	1	6	30
+168549	4	28	Dark Brown (6 Suits)	2020-05-16 — 14:35:59 UTC	Dr_Kakashi, IAMJEFF, Livia, padi	6	6	30
+168529	4	0	Dark Brown (6 Suits)	2020-05-16 — 14:13:20 UTC	Dr_Kakashi, IAMJEFF, Livia, padi	9	6	30
+168522	4	0	Dark Brown (6 Suits)	2020-05-16 — 14:03:23 UTC	Dr_Kakashi, IAMJEFF, Livia, padi	13	6	30
+168521	4	0	Dark Brown (6 Suits)	2020-05-16 — 14:00:44 UTC	Dr_Kakashi, IAMJEFF, Livia, padi	17	6	30
+167475	4	0	No Variant	2020-05-16 — 00:09:56 UTC	duckmammal, lotem, padi, sin_faith	43	5	25
+167472	4	0	No Variant	2020-05-16 — 00:06:15 UTC	duckmammal, lotem, padi, sin_faith	45	5	25
+167467	4	0	No Variant	2020-05-16 — 00:02:59 UTC	duckmammal, lotem, padi, sin_faith	48	5	25
+167466	4	0	No Variant	2020-05-16 — 00:01:11 UTC	duckmammal, lotem, padi, sin_faith	51	5	25
+167461	4	0	No Variant	2020-05-15 — 23:55:58 UTC	duckmammal, lotem, padi, sin_faith	52	5	25
+167458	4	0	No Variant	2020-05-15 — 23:52:46 UTC	duckmammal, lotem, padi, sin_faith	52	5	25
+167455	4	0	No Variant	2020-05-15 — 23:51:25 UTC	duckmammal, lotem, padi, sin_faith	53	5	25
+167450	4	0	No Variant	2020-05-15 — 23:47:20 UTC	duckmammal, lotem, padi, sin_faith	61	5	25
+167445	4	0	No Variant	2020-05-15 — 23:44:38 UTC	duckmammal, lotem, padi, sin_faith	60	5	25
+167438	4	0	No Variant	2020-05-15 — 23:41:40 UTC	duckmammal, lotem, padi, sin_faith	63	5	25
+167433	4	0	No Variant	2020-05-15 — 23:38:08 UTC	duckmammal, lotem, padi, sin_faith	68	5	25
+167423	4	0	No Variant	2020-05-15 — 23:33:34 UTC	duckmammal, lotem, padi, sin_faith	71	5	25
+167414	3	0	No Variant	2020-05-15 — 23:28:10 UTC	duckmammal, lotem, padi	250	5	25
+167407	3	0	No Variant	2020-05-15 — 23:24:53 UTC	duckmammal, lotem, padi	285	5	25
+167399	5	24	No Variant	2020-05-15 — 23:20:24 UTC	duckmammal, Floriman, lotem, padi, sin_faith	20	5	25
+167394	5	0	No Variant	2020-05-15 — 23:16:13 UTC	duckmammal, Floriman, lotem, padi, sin_faith	23	5	25
+167389	5	0	No Variant	2020-05-15 — 23:13:20 UTC	duckmammal, Floriman, lotem, padi, sin_faith	21	5	25
+167384	5	0	No Variant	2020-05-15 — 23:12:14 UTC	duckmammal, Floriman, lotem, padi, sin_faith	25	5	25
+167379	6	0	No Variant	2020-05-15 — 23:09:20 UTC	duckmammal, Floriman, lotem, micerang, padi, sin_faith	12	5	25
+167375	6	0	No Variant	2020-05-15 — 23:06:40 UTC	duckmammal, Floriman, lotem, micerang, padi, sin_faith	13	5	25
+167372	4	0	No Variant	2020-05-15 — 23:04:24 UTC	Floriman, micerang, padi, sin_faith	23	5	25
+167369	4	0	No Variant	2020-05-15 — 23:01:54 UTC	Floriman, micerang, padi, sin_faith	24	5	25
+167365	4	24	No Variant	2020-05-15 — 22:58:34 UTC	Floriman, micerang, padi, sin_faith	25	5	25
+167363	4	0	No Variant	2020-05-15 — 22:55:43 UTC	Floriman, micerang, padi, sin_faith	25	5	25
+167362	3	0	No Variant	2020-05-15 — 22:54:32 UTC	Floriman, padi, sin_faith	223	5	25
+167360	3	0	No Variant	2020-05-15 — 22:52:15 UTC	Floriman, padi, sin_faith	224	5	25
+167357	3	0	No Variant	2020-05-15 — 22:49:51 UTC	Floriman, padi, sin_faith	259	5	25
+167353	3	0	No Variant	2020-05-15 — 22:47:39 UTC	Floriman, padi, sin_faith	275	5	25
+167340	6	20	No Variant	2020-05-15 — 22:34:59 UTC	Floriman, LaFayetteX, padi, SDPoisson, sin_faith, TheDaniMan	16	5	25
+167335	6	0	No Variant	2020-05-15 — 22:25:44 UTC	Floriman, LaFayetteX, padi, SDPoisson, sin_faith, TheDaniMan	18	5	25
+167317	6	21	Light-Pink-Ones (5 Suits)	2020-05-15 — 21:29:54 UTC	alphabeta, CastlesInTheAir, lotem, padi, scharkbite, TimeHoodie	1	5	25
+167269	5	20	Light-Pink-Ones (5 Suits)	2020-05-15 — 20:55:39 UTC	alphabeta, CastlesInTheAir, padi, scharkbite, TimeHoodie	1	5	25
+163628	5	30	Brown (6 Suits)	2020-05-12 — 23:43:08 UTC	Iullo, kalisa, Nitrate2, padi, XMIL	16	6	30
+161497	6	24	No Variant	2020-05-11 — 03:44:33 UTC	claudiob, dontmacme, melwen, padi, TheDaniMan, XMIL	29	5	25
+160756	3	24	Up or Down & Pink (5 Suits)	2020-05-10 — 20:19:07 UTC	lotem, padi, Valetta6789	7	5	25
+160378	5	25	Muddy Rainbow (5 Suits)	2020-05-10 — 15:17:04 UTC	Iullo, kooolant, padi, robense, TimeHoodie	14	5	25
+158643	4	25	Light-Pink-Ones & Muddy Rainbow (5 Suits)	2020-05-09 — 16:07:03 UTC	LaFayetteX, padi, scharkbite, sin_faith	1	5	25
+157372	4	20	Black (5 Suits)	2020-05-08 — 21:01:39 UTC	padi, plus, scharkbite, TimeHoodie	4	5	25
+157336	4	21	Black (5 Suits)	2020-05-08 — 20:39:18 UTC	padi, plus, scharkbite, TimeHoodie	5	5	25
+157293	6	27	Black (6 Suits)	2020-05-08 — 20:09:40 UTC	Floriman, Kyle, padi, plus, scharkbite, XMIL	2	6	30
+157260	4	0	Black (5 Suits)	2020-05-08 — 19:39:11 UTC	Floriman, Kyle, padi, scharkbite	4	5	25
+157253	3	0	Black (5 Suits)	2020-05-08 — 19:27:17 UTC	Floriman, Kyle, padi	29	5	25
+157252	3	0	Black (5 Suits)	2020-05-08 — 19:24:01 UTC	Floriman, Kyle, padi	31	5	25
+157226	4	29	Black (6 Suits)	2020-05-08 — 18:11:58 UTC	ADrone, Kyle, padi, Zakisan	67	6	30
+156128	6	24	Black & Rainbow (5 Suits)	2020-05-07 — 19:46:56 UTC	Libster, lotem, padi, sin_faith, TimeHoodie, Valetta6789	2	5	25
+156056	4	25	No Variant	2020-05-07 — 18:54:09 UTC	Kyle, padi, sin_faith, TimeHoodie	32	5	25
+155931	5	0	Special Mix (5 Suits)	2020-05-07 — 16:05:00 UTC	Kyle, lotem, padi, sin_faith, TimeHoodie	6	5	25
+155926	5	0	Special Mix (5 Suits)	2020-05-07 — 15:54:23 UTC	Kyle, lotem, padi, sin_faith, TimeHoodie	6	5	25
+155921	5	0	Black & Brown (6 Suits)	2020-05-07 — 15:21:18 UTC	Kyle, LaFayetteX, padi, sin_faith, TimeHoodie	8	6	30
+154604	5	25	Rainbow-Ones & White (5 Suits)	2020-05-06 — 18:53:15 UTC	asaelr, Kyle, padi, sin_faith, Valetta6789	2	5	25
+153483	5	20	Brown (4 Suits)	2020-05-05 — 22:16:40 UTC	Fireheart, padi, plus, scharkbite, Valetta6789	2	4	20
+153459	5	0	Brown (4 Suits)	2020-05-05 — 21:58:19 UTC	Fireheart, padi, plus, scharkbite, Valetta6789	2	4	20
+153442	5	16	Brown (4 Suits)	2020-05-05 — 21:45:23 UTC	Fireheart, padi, plus, scharkbite, Valetta6789	2	4	20
+153401	5	16	Brown (4 Suits)	2020-05-05 — 21:19:56 UTC	Fireheart, padi, plus, scharkbite, Valetta6789	3	4	20
+153031	6	26	Black (6 Suits)	2020-05-05 — 14:19:45 UTC	alphabeta, asaelr, Iullo, LaFayetteX, padi, robense	3	6	30
+152132	3	0	Special Mix (5 Suits)	2020-05-04 — 21:36:13 UTC	lotem, padi, scharkbite	30	5	25
+152091	4	0	Special Mix (5 Suits)	2020-05-04 — 20:58:55 UTC	lotem, padi, scharkbite, sin_faith	18	5	25
+152040	4	0	Special Mix (5 Suits)	2020-05-04 — 20:20:24 UTC	lotem, padi, scharkbite, sin_faith	21	5	25
+152009	4	0	Special Mix (5 Suits)	2020-05-04 — 19:56:32 UTC	lotem, padi, scharkbite, sin_faith	25	5	25
+151975	4	27	Brown & Omni (6 Suits)	2020-05-04 — 19:34:41 UTC	kimbifille, kooolant, padi, Romain672	5	6	30
+151794	5	29	Black (6 Suits)	2020-05-04 — 14:24:55 UTC	Animex52, arnino, hakha3, padi, TimeHoodie	101	6	30
+150812	3	20	Special Mix (5 Suits)	2020-05-03 — 22:56:21 UTC	honzas, lotem, padi	38	5	25
+150276	3	21	Special Mix (5 Suits)	2020-05-03 — 17:40:19 UTC	honzas, padi, sin_faith	48	5	25
+150201	5	24	No Variant	2020-05-03 — 16:12:05 UTC	Maverick, padi, Spieler42, TimeHoodie, Zakisan	81	5	25
+150171	5	22	No Variant	2020-05-03 — 15:26:14 UTC	eevee, padi, Spieler42, TimeHoodie, Zakisan	143	5	25
+150136	2	0	No Variant	2020-05-03 — 14:49:33 UTC	padi, Spieler42	1703	5	25
+148970	5	0	Rainbow (5 Suits)	2020-05-02 — 23:24:25 UTC	honzas, kalisa, micerang, padi, scharkbite	3	5	25
+147083	4	29	Up or Down & Rainbow (6 Suits)	2020-05-01 — 22:27:23 UTC	hakha3, NotAdmitted, padi, plus	20	6	30
+146775	6	30	Rainbow (6 Suits)	2020-05-01 — 18:59:06 UTC	CastlesInTheAir, DrJones, honzas, Nitrate2, padi, TimeHoodie	60	6	30
+145565	3	30	Dark Pink (6 Suits)	2020-04-30 — 23:37:48 UTC	asaelr, Dr_Kakashi, padi	24	6	30
+145544	3	0	Dark Pink (6 Suits)	2020-04-30 — 23:16:57 UTC	asaelr, Dr_Kakashi, padi	34	6	30
+145090	4	0	Light Pink (5 Suits)	2020-04-30 — 19:05:53 UTC	Kyle, NoAnni, padi, Valetta6789	20	5	25
+145050	2	23	No Variant	2020-04-30 — 18:37:29 UTC	Kyle, padi	201	5	25
+145044	2	23	No Variant	2020-04-30 — 18:28:31 UTC	Kyle, padi	201	5	25
+143690	4	30	Rainbow (6 Suits)	2020-04-29 — 19:45:13 UTC	asaelr, Fireheart, Kyle, padi	34	6	30
+142543	4	24	Rainbow (5 Suits)	2020-04-28 — 21:14:22 UTC	Buds, Kingstom, padi, sin_faith	38	5	25
+142389	3	29	White & Dark Null (6 Suits)	2020-04-28 — 19:30:30 UTC	padi, scharkbite, sin_faith	1	6	30
+141435	4	28	Rainbow (6 Suits)	2020-04-27 — 23:43:52 UTC	alphabeta, Nitrate2, padi, Sucubis	344	6	30
+141402	3	0	Rainbow (6 Suits)	2020-04-27 — 23:00:04 UTC	alphabeta, Nitrate2, padi	332	6	30
+141095	3	30	Rainbow (6 Suits)	2020-04-27 — 18:02:16 UTC	Floriman, padi, robense	77	6	30
+140585	3	20	Black (5 Suits)	2020-04-27 — 03:22:54 UTC	alphabeta, padi, pianoblook	84	5	25
+140529	4	0	Black (5 Suits)	2020-04-27 — 02:43:02 UTC	alphabeta, claudiob, kalisa, padi	79	5	25
+140269	5	0	Black (6 Suits)	2020-04-27 — 00:14:07 UTC	asaelr, honzas, joaep2, lotem, padi	36	6	30
+140220	5	0	Black (6 Suits)	2020-04-26 — 23:45:50 UTC	asaelr, honzas, joaep2, lotem, padi	58	6	30
+140195	6	0	Black (6 Suits)	2020-04-26 — 23:32:56 UTC	asaelr, Dr_Kakashi, honzas, joaep2, lotem, padi	3	6	30
+140171	5	0	Muddy Rainbow (5 Suits)	2020-04-26 — 23:07:25 UTC	asaelr, Dr_Kakashi, honzas, joaep2, padi	8	5	25
+140156	5	25	Pink & Muddy Rainbow (5 Suits)	2020-04-26 — 22:52:50 UTC	asaelr, Dr_Kakashi, Fireheart, Floriman, padi	4	5	25
+140109	3	22	No Variant	2020-04-26 — 22:18:00 UTC	claudiob, Floriman, padi	422	5	25
+138665	6	28	Up or Down (6 Suits)	2020-04-26 — 02:03:05 UTC	honzas, Kyle, lotem, padi, scharkbite, XMIL	3	6	30
+138566	6	28	Up or Down (6 Suits)	2020-04-26 — 01:15:56 UTC	honzas, Kyle, lotem, padi, scharkbite, XMIL	3	6	30
+136865	3	22	Black (5 Suits)	2020-04-25 — 02:39:04 UTC	lrovner, maxnorris13, padi	119	5	25
+136759	3	21	Black (5 Suits)	2020-04-25 — 01:57:06 UTC	lrovner, maxnorris13, padi	171	5	25
+136152	3	28	6 Suits	2020-04-24 — 20:47:55 UTC	Iullo, LaFayetteX, padi	126	6	30
+136024	4	25	No Variant	2020-04-24 — 19:35:12 UTC	Animex52, MarkusKahlsen, padi, Zamiel	1	5	25
+135984	4	0	Rainbow & Gray (6 Suits)	2020-04-24 — 19:09:27 UTC	Animex52, Feer, padi, Zamiel	15	6	30
+135968	3	0	White-Ones & Rainbow (5 Suits)	2020-04-24 — 18:57:05 UTC	Feer, padi, Zamiel	9	5	25
+135715	5	0	Pink-Ones & White (6 Suits)	2020-04-24 — 14:05:32 UTC	arnino, Dr_Kakashi, letical, padi, sin_faith	1	6	30
+135690	5	0	Pink-Ones & White (6 Suits)	2020-04-24 — 13:35:25 UTC	arnino, Dr_Kakashi, letical, padi, sin_faith	1	6	30
+135681	5	0	Pink-Ones & White (6 Suits)	2020-04-24 — 13:28:30 UTC	arnino, Dr_Kakashi, letical, padi, sin_faith	1	6	30
+134903	3	24	Dark Rainbow (5 Suits)	2020-04-23 — 23:24:19 UTC	ADrone, fishcat, padi	48	5	25
+134826	3	23	Up or Down & Rainbow (5 Suits)	2020-04-23 — 22:13:58 UTC	Floriman, Libster, padi	23	5	25
+134771	4	29	Gray (6 Suits)	2020-04-23 — 21:35:46 UTC	Feer, Floriman, padi, Yuga Suggah	29	6	30
+134732	3	30	Black (6 Suits)	2020-04-23 — 21:11:08 UTC	Feer, padi, Yuga Suggah	325	6	30
+134371	5	0	6 Suits	2020-04-23 — 15:52:47 UTC	Dr_Kakashi, LaFayetteX, padi, sin_faith, sjdrodge	5	6	30
+134362	5	0	6 Suits	2020-04-23 — 15:36:48 UTC	Dr_Kakashi, LaFayetteX, padi, sin_faith, sjdrodge	7	6	30
+134355	5	0	6 Suits	2020-04-23 — 15:24:25 UTC	Dr_Kakashi, LaFayetteX, padi, sin_faith, sjdrodge	7	6	30
+133823	4	0	Black (6 Suits)	2020-04-23 — 02:41:53 UTC	JDepp, joaep2, melwen, padi	7	6	30
+133733	4	0	Black (6 Suits)	2020-04-23 — 01:54:24 UTC	invarse, joaep2, melwen, padi	8	6	30
+133646	5	0	Black & White (6 Suits)	2020-04-23 — 00:58:17 UTC	aladdin3, Dr_Kakashi, duckmammal, Kyle, padi	2	6	30
+133640	5	0	Black & White (6 Suits)	2020-04-23 — 00:50:38 UTC	aladdin3, Dr_Kakashi, duckmammal, Kyle, padi	3	6	30
+133347	5	27	6 Suits	2020-04-22 — 20:33:46 UTC	alphabeta, asaelr, JDepp, padi, sin_faith	96	6	30
+133273	6	0	No Variant	2020-04-22 — 19:50:25 UTC	alphabeta, asaelr, JDepp, Nils, padi, sin_faith	19	5	25
+133233	6	24	No Variant	2020-04-22 — 19:16:14 UTC	alphabeta, asaelr, JDepp, Nils, padi, sin_faith	23	5	25
+132793	5	22	Gray (5 Suits)	2020-04-22 — 04:24:21 UTC	DoubleDown11, joaep2, maxnorris13, padi, Yuga Suggah	7	5	25
+132752	5	0	Gray (5 Suits)	2020-04-22 — 03:39:36 UTC	DoubleDown11, joaep2, maxnorris13, padi, Yuga Suggah	10	5	25
+132695	2	14	Duck (3 Suits)	2020-04-22 — 02:51:15 UTC	DoubleDown11, padi	6	3	15
+131965	5	0	No Variant	2020-04-21 — 19:07:09 UTC	alphabeta, padi, piper, XMIL, Yuga Suggah	135	5	25
+130730	5	0	6 Suits	2020-04-20 — 19:13:26 UTC	ADrone, Dr_Kakashi, Floriman, padi, sin_faith	7	6	30
+130633	3	25	Light Pink (5 Suits)	2020-04-20 — 17:51:35 UTC	ADrone, padi, sin_faith	40	5	25
+128166	5	24	No Variant	2020-04-19 — 02:46:12 UTC	honzas, joaep2, padi, piper, QueenVic	207	5	25
+128086	2	27	Pink (6 Suits)	2020-04-19 — 01:58:42 UTC	padi, piper	219	6	30
+127785	4	30	Rainbow (6 Suits)	2020-04-18 — 22:48:59 UTC	asaelr, micerang, padi, Yuga Suggah	37	6	30
+127732	5	0	Rainbow (6 Suits)	2020-04-18 — 22:18:48 UTC	asaelr, micerang, padi, piper, Yuga Suggah	10	6	30
+127680	5	0	Rainbow (6 Suits)	2020-04-18 — 21:56:47 UTC	asaelr, micerang, padi, piper, Yuga Suggah	10	6	30
+127599	4	29	Pink (6 Suits)	2020-04-18 — 21:15:43 UTC	maxnorris13, padi, piper, robense	54	6	30
+127228	4	25	Throw It in a Hole (5 Suits)	2020-04-18 — 17:42:41 UTC	Fey, kimbifille, kooolant, padi	20	5	25
+127192	4	30	6 Suits	2020-04-18 — 17:06:15 UTC	Fey, kimbifille, kooolant, padi	191	6	30
+124613	3	0	Cow & Pig (3 Suits)	2020-04-16 — 22:34:18 UTC	kimbifille, kooolant, padi	2	3	15
+124586	3	13	Cow & Pig (3 Suits)	2020-04-16 — 22:04:20 UTC	kimbifille, kooolant, padi	3	3	15
+124556	3	13	Cow & Pig (3 Suits)	2020-04-16 — 21:37:35 UTC	kimbifille, kooolant, padi	4	3	15
+124528	3	0	Cow & Pig (3 Suits)	2020-04-16 — 21:22:11 UTC	kimbifille, kooolant, padi	12	3	15
+124338	6	29	White & Brown (6 Suits)	2020-04-16 — 19:00:56 UTC	Dr_Kakashi, Floriman, honzas, Kyle, padi, sin_faith	1	6	30
+124300	6	0	White & Brown (6 Suits)	2020-04-16 — 18:36:50 UTC	Dr_Kakashi, Floriman, honzas, Kyle, padi, sin_faith	1	6	30
+124270	5	0	Brown (6 Suits)	2020-04-16 — 18:10:08 UTC	Dr_Kakashi, Kyle, LaFayetteX, padi, sin_faith	7	6	30
+124256	5	0	Brown (6 Suits)	2020-04-16 — 17:49:08 UTC	Dr_Kakashi, Kyle, LaFayetteX, padi, sin_faith	8	6	30
+124253	5	0	Brown (6 Suits)	2020-04-16 — 17:42:19 UTC	Dr_Kakashi, Kyle, LaFayetteX, padi, sin_faith	21	6	30
+124245	2	0	Throw It in a Hole (5 Suits)	2020-04-16 — 17:35:25 UTC	Kyle, padi	29	5	25
+124241	2	0	Throw It in a Hole (5 Suits)	2020-04-16 — 17:31:03 UTC	Kyle, padi	34	5	25
+124239	2	0	Throw It in a Hole (5 Suits)	2020-04-16 — 17:28:50 UTC	Kyle, padi	49	5	25
+123379	5	20	Up or Down (5 Suits)	2020-04-15 — 23:12:24 UTC	Floriman, Kyle, lotem, padi, sin_faith	8	5	25
+123347	5	0	Up or Down (5 Suits)	2020-04-15 — 22:44:37 UTC	Floriman, Kyle, lotem, padi, sin_faith	13	5	25
+123333	4	0	Duck (5 Suits)	2020-04-15 — 22:28:01 UTC	Kyle, padi, scharkbite, sin_faith	5	5	25
+123118	4	0	No Variant	2020-04-15 — 19:37:35 UTC	JDepp, Othnia, padi, XMIL	167	5	25
+123069	3	20	No Variant	2020-04-15 — 18:57:01 UTC	maia, padi, XMIL	324	5	25
+122972	4	15	3 Suits	2020-04-15 — 15:57:17 UTC	bunny_in_a_hat, charmander, duckmammal, padi	16	3	15
+122955	4	0	3 Suits	2020-04-15 — 15:34:05 UTC	bunny_in_a_hat, charmander, duckmammal, padi	20	3	15
+122948	4	0	3 Suits	2020-04-15 — 15:23:28 UTC	bunny_in_a_hat, charmander, duckmammal, padi	24	3	15
+122941	4	0	3 Suits	2020-04-15 — 15:16:05 UTC	bunny_in_a_hat, charmander, duckmammal, padi	37	3	15
+122925	5	0	4 Suits	2020-04-15 — 14:36:24 UTC	bunny_in_a_hat, charmander, MarkusKahlsen, padi, robense	8	4	20
+122547	3	22	Up or Down (5 Suits)	2020-04-15 — 03:24:38 UTC	MasN, padi, XMIL	88	5	25
+122498	3	0	Up or Down (5 Suits)	2020-04-15 — 02:50:36 UTC	MasN, padi, XMIL	113	5	25
+122445	4	0	Black (5 Suits)	2020-04-15 — 02:20:45 UTC	MasN, padi, XMIL, Yuga Suggah	98	5	25
+122398	3	0	Black (6 Suits)	2020-04-15 — 01:59:28 UTC	padi, XMIL, Yuga Suggah	236	6	30
+122344	3	25	No Variant	2020-04-15 — 01:27:44 UTC	padi, XMIL, Yuga Suggah	344	5	25
+121889	5	0	No Variant	2020-04-14 — 19:03:57 UTC	honzas, JDepp, Kyle, padi, XMIL	35	5	25
+121006	5	0	Pink (6 Suits)	2020-04-14 — 00:19:50 UTC	aladdin3, JDepp, lotem, micerang, padi	2	6	30
+120982	5	0	Pink (6 Suits)	2020-04-14 — 00:03:39 UTC	aladdin3, JDepp, lotem, micerang, padi	2	6	30
+120958	5	29	Pink (6 Suits)	2020-04-13 — 23:33:00 UTC	aladdin3, Kyle, Libster, micerang, padi	1	6	30
+120635	5	27	Black (6 Suits)	2020-04-13 — 19:31:24 UTC	JDepp, letical, NoAnni, padi, robense	4	6	30
+120529	5	23	No Variant	2020-04-13 — 18:04:29 UTC	Kyle, MarkusKahlsen, padi, XMIL, Yuga Suggah	77	5	25
+120423	3	0	No Variant	2020-04-13 — 16:15:00 UTC	Nils, padi, robense	156	5	25
+119655	4	23	Dark Pink (5 Suits)	2020-04-12 — 21:43:28 UTC	asaelr, Kyle, letical, padi	11	5	25
+113604	3	30	6 Suits	2020-04-08 — 03:47:27 UTC	ADrone, joaep2, padi	168	6	30
+112848	6	24	Brown (5 Suits)	2020-04-07 — 20:00:23 UTC	Floriman, Nils, padi, scharkbite, sin_faith, Yuga Suggah	8	5	25
+112788	5	24	Brown (5 Suits)	2020-04-07 — 19:25:22 UTC	Kyle, padi, scharkbite, sin_faith, Yuga Suggah	7	5	25
+112752	2	0	Up or Down & Omni (6 Suits)	2020-04-07 — 19:05:40 UTC	padi, Yuga Suggah	7	6	30
+112743	2	0	Up or Down & Omni (6 Suits)	2020-04-07 — 18:59:09 UTC	padi, Yuga Suggah	8	6	30
+112623	5	22	No Variant	2020-04-07 — 15:57:38 UTC	arnino, Elatekur, Kyle, padi, sin_faith	45	5	25
+112281	4	30	Rainbow (6 Suits)	2020-04-07 — 03:37:39 UTC	joaep2, padi, rfrank27, smallman	200	6	30
+112207	4	0	Rainbow (6 Suits)	2020-04-07 — 02:32:18 UTC	claudiob, padi, rfrank27, smallman	238	6	30
+111557	2	22	Throw It in a Hole (5 Suits)	2020-04-06 — 18:52:42 UTC	padi, Yuga Suggah	76	5	25
+111539	5	0	Throw It in a Hole (4 Suits)	2020-04-06 — 18:22:36 UTC	duckmammal, Kyle, padi, YacineH, Yuga Suggah	2	4	20
+111535	4	0	Throw It in a Hole (4 Suits)	2020-04-06 — 18:13:11 UTC	duckmammal, Kyle, padi, YacineH	12	4	20
+111075	5	22	Rainbow (5 Suits)	2020-04-06 — 02:42:37 UTC	claudiob, JDepp, joaep2, padi, TimeHoodie	54	5	25
+110081	5	25	No Variant	2020-04-05 — 14:28:17 UTC	hanabornoob, Nils, padi, robense, sin_faith	75	5	25
+110054	3	0	No Variant	2020-04-05 — 14:01:23 UTC	Nils, padi, sin_faith	354	5	25
+109087	2	25	Rainbow (5 Suits)	2020-04-04 — 19:38:43 UTC	padi, YacineH	129	5	25
+109038	2	22	Rainbow (5 Suits)	2020-04-04 — 19:12:53 UTC	padi, YacineH	154	5	25
+107801	4	30	6 Suits	2020-04-03 — 23:21:00 UTC	ADrone, aladdin3, padi, Sucubis	354	6	30
+107665	4	30	Rainbow (6 Suits)	2020-04-03 — 21:51:11 UTC	Nitrate, padi, sin_faith, Zakisan	493	6	30
+107438	4	25	Black & White (5 Suits)	2020-04-03 — 20:06:04 UTC	ADrone, Floriman, padi, scharkbite	7	5	25
+107376	4	0	Black & White (6 Suits)	2020-04-03 — 19:39:33 UTC	ADrone, Floriman, padi, scharkbite	19	6	30
+106352	4	0	White (5 Suits)	2020-04-02 — 23:58:26 UTC	alphabeta, Nils, padi, Yuga Suggah	31	5	25
+106309	6	0	6 Suits	2020-04-02 — 23:05:28 UTC	alphabeta, Nils, Othnia, padi, piper, Yuga Suggah	34	6	30
+106268	6	0	6 Suits	2020-04-02 — 22:28:49 UTC	alphabeta, Nils, Othnia, padi, piper, Yuga Suggah	84	6	30
+106043	4	0	Black (6 Suits)	2020-04-02 — 19:48:59 UTC	ADrone, elperzon, padi, robense	142	6	30
+105845	3	0	6 Suits	2020-04-02 — 15:02:37 UTC	asaelr, padi, robense	12	6	30
+105495	5	25	No Variant	2020-04-02 — 03:15:53 UTC	DoubleDown11, letical, padi, Sucubis, Yuga Suggah	109	5	25
+105390	3	0	6 Suits	2020-04-02 — 02:09:05 UTC	JDepp, joaep2, padi	196	6	30
+105317	2	24	Rainbow (5 Suits)	2020-04-02 — 01:24:13 UTC	joaep2, padi	248	5	25
+105146	4	0	Black & White (5 Suits)	2020-04-01 — 22:33:32 UTC	micerang, padi, Yeesh, Yuga Suggah	23	5	25
+104778	5	25	Pink (5 Suits)	2020-04-01 — 17:00:31 UTC	duckmammal, padi, pianoblook, sankala fan, sin_faith	20	5	25
+104762	5	28	6 Suits	2020-04-01 — 16:25:53 UTC	CompleteTrust, padi, pianoblook, sin_faith, Zakisan	132	6	30
+104231	3	25	Black & White (5 Suits)	2020-04-01 — 02:15:10 UTC	micerang, padi, scharkbite	10	5	25
+104194	3	0	Black & White (5 Suits)	2020-04-01 — 01:54:35 UTC	micerang, padi, scharkbite	13	5	25
+104161	3	23	Black & White (5 Suits)	2020-04-01 — 01:35:06 UTC	micerang, padi, scharkbite	40	5	25
+104046	4	0	Black & White (5 Suits)	2020-03-31 — 23:57:46 UTC	asaelr, padi, sin_faith, YacineH	14	5	25
+103653	2	0	Null & Muddy Rainbow (3 Suits)	2020-03-31 — 18:14:41 UTC	hanabornoob, padi	5	3	15
+103643	2	0	Null & Muddy Rainbow (3 Suits)	2020-03-31 — 18:07:30 UTC	hanabornoob, padi	6	3	15
+103527	5	18	Black (5 Suits)	2020-03-31 — 15:24:21 UTC	letical, maxnorris13, padi, sin_faith, Zakisan	27	5	25
+103223	5	30	White (6 Suits)	2020-03-31 — 02:56:55 UTC	ADrone, micerang, padi, TimeHoodie, Yuga Suggah	8	6	30
+102665	4	30	Rainbow-Ones (6 Suits)	2020-03-30 — 19:20:31 UTC	duckmammal, Floriman, padi, sin_faith	15	6	30
+102628	4	0	Throw It in a Hole (5 Suits)	2020-03-30 — 18:42:08 UTC	Dr_Kakashi, duckmammal, FullPunish, padi	40	5	25
+102597	3	22	Throw It in a Hole (5 Suits)	2020-03-30 — 18:12:47 UTC	duckmammal, FullPunish, padi	52	5	25
+102143	2	25	Black & White (5 Suits)	2020-03-30 — 02:03:36 UTC	kodomazer, padi	11	5	25
+102109	6	28	Brown (6 Suits)	2020-03-30 — 01:34:25 UTC	Dr_Kakashi, kodomazer, Kyle, padi, sin_faith, Yuga Suggah	2	6	30
+102074	6	0	Brown (6 Suits)	2020-03-30 — 01:02:15 UTC	Dr_Kakashi, kodomazer, Kyle, padi, sin_faith, Yuga Suggah	3	6	30
+101792	4	0	Rainbow & White (5 Suits)	2020-03-29 — 21:29:44 UTC	Jake_Stiles, padi, scharkbite, YacineH	4	5	25
+101751	3	0	Rainbow & White (6 Suits)	2020-03-29 — 21:06:20 UTC	Jake_Stiles, padi, YacineH	32	6	30
+101718	3	0	Rainbow & White (6 Suits)	2020-03-29 — 20:46:37 UTC	Jake_Stiles, padi, YacineH	46	6	30
+101481	4	25	No Variant	2020-03-29 — 17:13:13 UTC	kodomazer, padi, Pimak, Zakisan	257	5	25
+101379	4	20	White-Ones & White (4 Suits)	2020-03-29 — 15:21:56 UTC	Floriman, IAMJEFF, padi, Sucubis	2	4	20
+101365	4	0	White-Ones & White (4 Suits)	2020-03-29 — 15:10:26 UTC	Floriman, IAMJEFF, padi, Sucubis	2	4	20
+101355	3	0	White-Ones & White (4 Suits)	2020-03-29 — 14:59:09 UTC	Floriman, padi, Sucubis	3	4	20
+101348	3	25	Brown (5 Suits)	2020-03-29 — 14:45:19 UTC	Floriman, padi, Sucubis	20	5	25
+101336	4	0	Brown (5 Suits)	2020-03-29 — 14:27:47 UTC	Floriman, Jake_Stiles, padi, Sucubis	17	5	25
+101333	4	0	Brown (5 Suits)	2020-03-29 — 14:12:42 UTC	Floriman, Jake_Stiles, padi, Sucubis	19	5	25
+100576	3	25	No Variant	2020-03-29 — 00:41:49 UTC	aladdin3, cg505, padi	386	5	25
+100492	3	0	No Variant	2020-03-29 — 00:00:04 UTC	aladdin3, cg505, padi	451	5	25
+100246	3	0	Rainbow (6 Suits)	2020-03-28 — 21:32:07 UTC	Ahming, joaep2, padi	282	6	30
+100220	3	0	Rainbow (6 Suits)	2020-03-28 — 21:16:47 UTC	Ahming, joaep2, padi	508	6	30
+100048	4	20	4 Suits	2020-03-28 — 19:42:19 UTC	Nils, padi, sin_faith, TimeHoodie	101	4	20
+99008	4	23	Rainbow (5 Suits)	2020-03-27 — 23:28:20 UTC	micerang, padi, sckuzzle, YacineH	3	5	25
+98986	4	0	Rainbow (5 Suits)	2020-03-27 — 22:58:46 UTC	micerang, padi, sckuzzle, YacineH	5	5	25
+98952	5	0	White (6 Suits)	2020-03-27 — 22:30:41 UTC	Dr_Kakashi, Livia, micerang, padi, scharkbite	2	6	30
+98866	6	0	No Variant	2020-03-27 — 21:31:03 UTC	CompleteTrust, Floriman, padi, str8away, TimeHoodie, Yuga Suggah	91	5	25
+97702	3	24	No Variant	2020-03-26 — 14:30:23 UTC	JDepp, letical, padi	269	5	25
+97695	3	0	No Variant	2020-03-26 — 13:57:11 UTC	JDepp, letical, padi	375	5	25
+97673	3	25	No Variant	2020-03-26 — 12:23:30 UTC	Dr_Kakashi, padi, Zakisan	57	5	25
+97668	3	30	Rainbow-Ones & Brown (6 Suits)	2020-03-26 — 11:30:00 UTC	Dr_Kakashi, IAMJEFF, padi	1	6	30
+97405	4	15	Rainbow (4 Suits)	2020-03-26 — 02:32:17 UTC	DoubleDown11, padi, sckuzzle, sin_faith	45	4	20
+97369	3	0	Rainbow (4 Suits)	2020-03-26 — 01:45:29 UTC	imel, padi, sckuzzle	84	4	20
+97244	4	0	No Variant	2020-03-25 — 23:33:54 UTC	mdave3927, munchkin6, padi, sckuzzle	373	5	25
+96654	4	0	Dark Rainbow (5 Suits)	2020-03-25 — 03:09:22 UTC	ADrone, DoubleDown11, padi, pianoblook	24	5	25
+96624	4	0	Dark Rainbow (5 Suits)	2020-03-25 — 02:44:19 UTC	ADrone, DoubleDown11, padi, pianoblook	23	5	25
+96605	4	0	Dark Rainbow (5 Suits)	2020-03-25 — 02:28:29 UTC	ADrone, DoubleDown11, padi, pianoblook	29	5	25
+96583	2	21	Black & White (5 Suits)	2020-03-25 — 02:04:13 UTC	kealariser, padi	51	5	25
+96500	5	24	No Variant	2020-03-25 — 00:18:36 UTC	asaelr, JDepp, Nitrate, padi, pianoblook	27	5	25
+96472	3	0	No Variant	2020-03-24 — 23:37:55 UTC	asaelr, JDepp, padi	37	5	25
+96411	5	0	Black & Brown (6 Suits)	2020-03-24 — 22:47:03 UTC	Fireheart, Floriman, Jake_Stiles, padi, Valetta6789	3	6	30
+96391	5	0	Black & Brown (6 Suits)	2020-03-24 — 22:34:10 UTC	Fireheart, Floriman, Jake_Stiles, padi, Valetta6789	3	6	30
+96377	5	0	Black & Brown (6 Suits)	2020-03-24 — 22:26:55 UTC	Fireheart, Floriman, Jake_Stiles, padi, Valetta6789	3	6	30
+96365	5	0	Black & Brown (6 Suits)	2020-03-24 — 22:17:07 UTC	Fireheart, Floriman, Jake_Stiles, padi, Valetta6789	5	6	30
+96344	6	0	Black & Brown (6 Suits)	2020-03-24 — 22:04:52 UTC	Fireheart, Floriman, Jake_Stiles, Livia, padi, Valetta6789	2	6	30
+96257	4	22	No Variant	2020-03-24 — 20:53:59 UTC	ADrone, DoubleDown11, Floriman, padi	156	5	25
+96218	4	0	No Variant	2020-03-24 — 20:21:57 UTC	DoubleDown11, Floriman, JDepp, padi	336	5	25
+96200	4	22	No Variant	2020-03-24 — 19:56:07 UTC	DoubleDown11, JDepp, padi, superbipbip	442	5	25
+96176	4	0	No Variant	2020-03-24 — 19:33:14 UTC	DoubleDown11, JDepp, Nitrate, padi	501	5	25
+95764	4	0	No Variant	2020-03-24 — 03:55:33 UTC	elperzon, JDepp, padi, robense	541	5	25
+95756	3	22	No Variant	2020-03-24 — 03:50:26 UTC	elperzon, JDepp, padi	459	5	25
+95534	4	0	White & Omni (6 Suits)	2020-03-24 — 00:07:31 UTC	duckmammal, Livia, padi, Zamiel	3	6	30
+95512	5	18	White & Brown (4 Suits)	2020-03-23 — 23:30:53 UTC	duckmammal, Libster, Livia, padi, Zamiel	3	4	20
+95428	4	25	No Variant	2020-03-23 — 22:11:22 UTC	elperzon, Nitrate, padi, YacineH	793	5	25
+95374	5	0	No Variant	2020-03-23 — 21:26:06 UTC	camplise, Nitrate, other, padi, YacineH	658	5	25
+95336	4	22	No Variant	2020-03-23 — 20:56:51 UTC	ingakristina, Nitrate, padi, YacineH	899	5	25
+95266	4	18	White & Brown (4 Suits)	2020-03-23 — 20:03:47 UTC	ADrone, Livia, padi, TimeHoodie	4	4	20
+95237	4	19	White & Brown (4 Suits)	2020-03-23 — 19:34:32 UTC	ADrone, Livia, padi, TimeHoodie	8	4	20
+95211	4	0	White & Brown (4 Suits)	2020-03-23 — 19:08:46 UTC	ADrone, Livia, padi, TimeHoodie	11	4	20
+95189	3	0	No Variant	2020-03-23 — 18:25:32 UTC	elperzon, JDepp, padi	485	5	25
+95180	4	0	No Variant	2020-03-23 — 18:09:54 UTC	elperzon, JDepp, other, padi	985	5	25
+95174	4	0	No Variant	2020-03-23 — 17:51:13 UTC	elperzon, JDepp, other, padi	1092	5	25
+94966	3	28	Black & White (6 Suits)	2020-03-23 — 05:01:37 UTC	honzas, padi, scharkbite	28	6	30
+94945	4	0	Black & White (6 Suits)	2020-03-23 — 04:31:29 UTC	DoubleDown11, honzas, padi, scharkbite	8	6	30
+94926	4	28	Black & White (6 Suits)	2020-03-23 — 04:07:59 UTC	DoubleDown11, honzas, padi, scharkbite	22	6	30
+94389	5	26	6 Suits	2020-03-22 — 17:17:31 UTC	aladdin3, Floriman, Libster, Nils, padi	1	6	30
+94368	4	0	6 Suits	2020-03-22 — 16:34:24 UTC	aladdin3, Floriman, Nils, padi	31	6	30
+94344	6	0	No Variant	2020-03-22 — 15:49:05 UTC	charmander, fow, Nils, padi, Pimak, sin_faith	179	5	25
+94327	4	0	No Variant	2020-03-22 — 14:52:02 UTC	padi, Pimak, sin_faith, YacineH	601	5	25
+94032	6	30	Rainbow (6 Suits)	2020-03-22 — 03:49:23 UTC	DoubleDown11, joaep2, MasN, padi, RaKXeR, scharkbite	33	6	30
+93985	5	24	No Variant	2020-03-22 — 03:08:48 UTC	joaep2, MasN, padi, RaKXeR, scharkbite	4	5	25
+93914	5	0	Light Pink (5 Suits)	2020-03-22 — 02:14:04 UTC	asaelr, IAMJEFF, MasN, padi, scharkbite	7	5	25
+93901	5	0	Light Pink (5 Suits)	2020-03-22 — 02:05:15 UTC	asaelr, IAMJEFF, MasN, padi, scharkbite	6	5	25
+93875	5	19	Pink (4 Suits)	2020-03-22 — 01:50:59 UTC	asaelr, IAMJEFF, micerang, padi, scharkbite	2	4	20
+93761	5	22	Rainbow & Pink (5 Suits)	2020-03-21 — 23:24:54 UTC	ADrone, fishcat, Floriman, padi, pianoblook	5	5	25
+93480	4	24	No Variant	2020-03-21 — 19:23:03 UTC	asaelr, padi, sckuzzle, YacineH	35	5	25
+93467	3	0	Rainbow (5 Suits)	2020-03-21 — 18:54:17 UTC	asaelr, padi, YacineH	14	5	25
+93413	2	25	No Variant	2020-03-21 — 17:03:29 UTC	padi, robense	496	5	25
+93183	4	0	No Variant	2020-03-21 — 05:07:08 UTC	DoubleDown11, elperzon, letical, padi	655	5	25
+93146	4	0	No Variant	2020-03-21 — 04:17:31 UTC	DoubleDown11, elperzon, letical, padi	1253	5	25
+93110	3	0	No Variant	2020-03-21 — 03:08:46 UTC	DoubleDown11, elperzon, padi	320	5	25
+93010	5	24	White & Brown (5 Suits)	2020-03-21 — 00:31:57 UTC	aladdin3, Fireheart, Livia, micerang, padi	8	5	25
+92992	5	24	Pink (5 Suits)	2020-03-21 — 00:00:30 UTC	aladdin3, Livia, micerang, padi, sckuzzle_2	7	5	25
+92498	5	0	White (6 Suits)	2020-03-20 — 04:02:47 UTC	DoubleDown11, Fireheart, letical, micerang, padi	9	6	30
+92472	4	28	Black (6 Suits)	2020-03-20 — 03:22:29 UTC	DoubleDown11, Fireheart, micerang, padi	121	6	30
+92454	3	0	Dark Brown (6 Suits)	2020-03-20 — 03:02:58 UTC	DoubleDown11, micerang, padi	11	6	30
+92448	5	0	Dark Brown (6 Suits)	2020-03-20 — 02:59:19 UTC	DoubleDown11, Fireheart, Kyle, micerang, padi	9	6	30
+92445	4	0	Rainbow & Pink (5 Suits)	2020-03-20 — 02:57:15 UTC	Fireheart, Kyle, micerang, padi	4	5	25
+92431	4	24	Rainbow & Pink (5 Suits)	2020-03-20 — 02:41:41 UTC	Fireheart, Kyle, micerang, padi	5	5	25
+92407	4	23	Rainbow & Pink (5 Suits)	2020-03-20 — 02:21:42 UTC	Fireheart, Kyle, micerang, padi	9	5	25
+92298	3	29	6 Suits	2020-03-19 — 23:54:15 UTC	kodomazer, padi, sckuzzle	305	6	30
+92262	3	28	6 Suits	2020-03-19 — 23:10:42 UTC	kodomazer, padi, sckuzzle	503	6	30
+92217	4	25	No Variant	2020-03-19 — 22:22:53 UTC	corano500, kodomazer, padi, sckuzzle	473	5	25
+92185	2	18	White & Brown (4 Suits)	2020-03-19 — 21:50:04 UTC	padi, Yuga Suggah	9	4	20
+92162	2	0	White & Brown (4 Suits)	2020-03-19 — 21:29:12 UTC	padi, Yuga Suggah	10	4	20
+92147	2	18	White & Brown (4 Suits)	2020-03-19 — 21:10:50 UTC	padi, Yuga Suggah	19	4	20
+92138	2	0	Rainbow (4 Suits)	2020-03-19 — 20:58:09 UTC	padi, Yuga Suggah	55	4	20
+92118	2	20	Rainbow (4 Suits)	2020-03-19 — 20:37:10 UTC	padi, Yuga Suggah	76	4	20
+92101	2	19	Rainbow (4 Suits)	2020-03-19 — 20:15:48 UTC	padi, Yuga Suggah	132	4	20
+92055	2	24	No Variant	2020-03-19 — 18:15:26 UTC	padi, shem	2532	5	25
+91704	5	24	No Variant	2020-03-19 — 01:50:40 UTC	Kyle, letical, Nitrate, padi, Yuga Suggah	223	5	25
+91687	6	25	No Variant	2020-03-19 — 01:18:14 UTC	asaelr, letical, MasN, Nitrate, padi, Yuga Suggah	26	5	25
+91665	6	0	No Variant	2020-03-19 — 00:51:51 UTC	asaelr, letical, MasN, Nitrate, padi, Yuga Suggah	25	5	25
+91655	5	0	No Variant	2020-03-19 — 00:38:38 UTC	asaelr, letical, MasN, Nitrate, padi	25	5	25
+91647	4	0	No Variant	2020-03-19 — 00:22:59 UTC	asaelr, letical, MasN, padi	36	5	25
+91646	4	0	No Variant	2020-03-19 — 00:17:58 UTC	asaelr, letical, MasN, padi	36	5	25
+91605	5	23	No Variant	2020-03-18 — 22:56:34 UTC	asaelr, Floriman, padi, RaKXeR, Yuga Suggah	26	5	25
+91582	5	24	No Variant	2020-03-18 — 22:27:27 UTC	asaelr, Floriman, padi, scharkbite, Yuga Suggah	4	5	25
+91415	5	19	No Variant	2020-03-18 — 18:11:20 UTC	ADrone, padi, robense, sckuzzle, zhao.zhang	296	5	25
+91111	4	30	White (6 Suits)	2020-03-18 — 02:33:48 UTC	aladdin3, Kyle, padi, Yuga Suggah	6	6	30
+91065	2	0	White (6 Suits)	2020-03-18 — 01:45:42 UTC	padi, Yuga Suggah	77	6	30
+91048	2	0	White (6 Suits)	2020-03-18 — 01:22:13 UTC	padi, Yuga Suggah	100	6	30
+90986	5	22	No Variant	2020-03-17 — 23:11:38 UTC	ADrone, Kyle, padi, pianoblook, yaiir	344	5	25
+90965	2	23	No Variant	2020-03-17 — 22:27:15 UTC	padi, yaiir	5374	5	25
+90867	5	0	No Variant	2020-03-17 — 18:51:30 UTC	alejo7797, Libster, Nitrate, padi, sckuzzle	2	5	25
+90853	5	21	No Variant	2020-03-17 — 18:07:59 UTC	Nitrate, padi, sckuzzle, shem, yaiir	1995	5	25
+90845	5	0	No Variant	2020-03-17 — 17:31:13 UTC	MasN, Nitrate, padi, sckuzzle, yaiir	541	5	25
+90522	3	24	No Variant	2020-03-17 — 02:10:55 UTC	aladdin3, letical, padi	516	5	25
+90352	6	25	No Variant	2020-03-16 — 19:51:02 UTC	duckmammal, Kyle, padi, sckuzzle, Teferi , yaiir	75	5	25
+90310	3	0	Black & White (5 Suits)	2020-03-16 — 17:00:08 UTC	Kyle, MasN, padi	31	5	25
+90294	2	28	Ambiguous (6 Suits)	2020-03-16 — 15:43:50 UTC	Kyle, padi	82	6	30
+90290	2	0	Ambiguous (6 Suits)	2020-03-16 — 15:33:57 UTC	Kyle, padi	105	6	30
+90289	2	20	Ambiguous (4 Suits)	2020-03-16 — 15:28:18 UTC	Kyle, padi	84	4	20
+89909	4	0	No Variant	2020-03-16 — 02:35:13 UTC	joaep2, kealariser, padi, yaiir	1449	5	25
+89884	4	0	No Variant	2020-03-16 — 02:03:43 UTC	joaep2, kealariser, padi, yaiir	1744	5	25
+89877	3	0	No Variant	2020-03-16 — 01:25:17 UTC	kealariser, padi, yaiir	573	5	25
+89852	4	0	Ambiguous (4 Suits)	2020-03-15 — 23:15:11 UTC	aladdin3, duckmammal, letical, padi	20	4	20
+89842	4	24	Black (5 Suits)	2020-03-15 — 22:46:46 UTC	aladdin3, duckmammal, letical, padi	49	5	25
+89530	3	0	No Variant	2020-03-15 — 17:16:10 UTC	padi, shem, yaiir	1465	5	25
+89518	5	25	No Variant	2020-03-15 — 15:18:15 UTC	aladdin3, Kyle, Libster, Nitrate, padi	2	5	25
+89512	3	20	Gray (5 Suits)	2020-03-15 — 14:38:23 UTC	aladdin3, Nitrate, padi	42	5	25
+89511	2	0	Gray (5 Suits)	2020-03-15 — 14:21:00 UTC	Nitrate, padi	79	5	25
+89509	4	0	No Variant	2020-03-15 — 13:38:05 UTC	letical, padi, Shemetz, yaiir	2076	5	25
+89506	4	0	No Variant	2020-03-15 — 12:14:59 UTC	letical, padi, Shemetz, yaiir	3581	5	25
+89446	3	25	Pink (5 Suits)	2020-03-15 — 02:45:57 UTC	DoubleDown11, kodomazer, padi	108	5	25
+89439	2	30	Black (6 Suits)	2020-03-15 — 02:05:57 UTC	DoubleDown11, padi	546	6	30
+89294	4	24	No Variant	2020-03-14 — 19:13:52 UTC	asaelr, Kyle, padi, Shos	40	5	25
+89270	4	0	No Variant	2020-03-14 — 18:58:46 UTC	asaelr, Kyle, padi, Shos	39	5	25
+89247	6	0	No Variant	2020-03-14 — 18:36:05 UTC	ADrone, asaelr, Kyle, Libster, padi, Shos	3	5	25
+88630	6	23	No Variant	2020-03-14 — 04:03:04 UTC	DoubleDown11, duckmammal, kealariser, lailie.ahava, padi, pianoblook	478	5	25
+88624	6	0	No Variant	2020-03-14 — 03:38:25 UTC	duckmammal, kealariser, kodomazer, lailie.ahava, padi, pianoblook	282	5	25
+88619	5	23	No Variant	2020-03-14 — 03:21:01 UTC	duckmammal, kealariser, Kyle, lailie.ahava, padi	383	5	25
+88532	4	27	Black (6 Suits)	2020-03-13 — 21:20:43 UTC	Floriman, Kyle, Maiorskills, padi	74	6	30
+88531	4	24	No Variant	2020-03-13 — 20:42:35 UTC	Elatekur, Kyle, Maiorskills, padi	59	5	25
+88530	3	0	No Variant	2020-03-13 — 20:11:12 UTC	GamerSKTrashCan, Kyle, padi	167	5	25
+88529	3	0	Up or Down & Brown (5 Suits)	2020-03-13 — 20:06:51 UTC	GamerSKTrashCan, Kyle, padi	5	5	25
+88517	2	20	4 Suits	2020-03-13 — 19:12:21 UTC	ADrone, padi	171	4	20
+88516	2	0	4 Suits	2020-03-13 — 18:51:00 UTC	ADrone, padi	244	4	20
+88022	3	24	No Variant	2020-03-13 — 01:33:50 UTC	Elatekur, letical, padi	1095	5	25
+87980	5	27	Black & White (6 Suits)	2020-03-12 — 21:50:15 UTC	aladdin3, DoubleDown11, duckmammal, Floriman, padi	15	6	30
+87971	4	0	Null (6 Suits)	2020-03-12 — 21:24:56 UTC	Floriman, kodomazer, Kyle, padi	18	6	30
+87969	4	0	Null (6 Suits)	2020-03-12 — 21:21:57 UTC	Floriman, kodomazer, Kyle, padi	21	6	30
+87954	4	25	No Variant	2020-03-12 — 20:54:44 UTC	kodomazer, Kyle, padi, Shos	82	5	25
+87943	4	25	No Variant	2020-03-12 — 20:27:29 UTC	Floriman, kodomazer, padi, Shos	287	5	25
+87913	3	24	No Variant	2020-03-12 — 18:54:28 UTC	Elatekur, padi, pianoblook	551	5	25
+87907	2	0	Null (6 Suits)	2020-03-12 — 18:12:40 UTC	Kyle, padi	12	6	30
+87906	2	29	Null (6 Suits)	2020-03-12 — 17:57:52 UTC	Kyle, padi	12	6	30
+87905	2	0	Null (6 Suits)	2020-03-12 — 17:49:13 UTC	Kyle, padi	12	6	30
+87904	2	0	Null (6 Suits)	2020-03-12 — 17:48:32 UTC	Kyle, padi	12	6	30
+87903	2	0	Null (6 Suits)	2020-03-12 — 17:44:20 UTC	Kyle, padi	14	6	30
+87516	5	21	No Variant	2020-03-11 — 21:50:54 UTC	ejwu, fow, kodomazer, padi, Shos	1119	5	25
+87500	5	0	No Variant	2020-03-11 — 20:58:30 UTC	ejwu, fow, kodomazer, padi, Shos	1510	5	25
+87490	6	27	Rainbow (6 Suits)	2020-03-11 — 20:23:28 UTC	fow, kodomazer, micerang, padi, Shos, Valetta6789	13	6	30
+87471	5	25	No Variant	2020-03-11 — 18:38:05 UTC	Fey, Floriman, kodomazer, Kyle, padi	126	5	25
+87470	5	0	No Variant	2020-03-11 — 18:13:53 UTC	Fey, Floriman, kodomazer, Kyle, padi	163	5	25
+87469	5	16	Rainbow (4 Suits)	2020-03-11 — 17:52:33 UTC	Fey, jumbojerry, kodomazer, Kyle, padi	11	4	20
+86743	4	25	No Variant	2020-03-10 — 19:54:47 UTC	MasN, nakk, NoMercy, padi	2763	5	25
+86739	3	24	No Variant	2020-03-10 — 19:30:29 UTC	nakk, NoMercy, padi	624	5	25
+86408	5	30	Rainbow (6 Suits)	2020-03-09 — 22:25:58 UTC	aladdin3, duckmammal, Floriman, padi, RaKXeR	21	6	30
+86407	5	0	Rainbow (6 Suits)	2020-03-09 — 21:56:15 UTC	aladdin3, Floriman, Kyle, padi, RaKXeR	11	6	30
+86406	5	0	Rainbow (6 Suits)	2020-03-09 — 21:44:22 UTC	aladdin3, Floriman, Kyle, padi, RaKXeR	21	6	30
+86359	3	0	No Variant	2020-03-09 — 15:24:02 UTC	Elatekur, Kyle, padi	178	5	25
+86358	3	0	No Variant	2020-03-09 — 15:06:16 UTC	Elatekur, Kyle, padi	187	5	25
+86186	3	0	No Variant	2020-03-08 — 17:12:00 UTC	kiti, padi, Shos	1017	5	25
+86185	3	21	No Variant	2020-03-08 — 17:10:51 UTC	kiti, padi, Shos	1174	5	25
+86151	4	23	No Variant	2020-03-08 — 02:20:13 UTC	ADrone, micerang, padi, Zamiel	1	5	25
+86148	4	22	No Variant	2020-03-08 — 01:47:21 UTC	ADrone, Jake_Stiles, padi, Zamiel	1	5	25
+86125	3	30	Black (6 Suits)	2020-03-07 — 23:37:31 UTC	micerang, padi, Shos	95	6	30
+86124	3	27	Black (6 Suits)	2020-03-07 — 23:14:03 UTC	micerang, padi, Shos	97	6	30
+86122	2	0	Black (6 Suits)	2020-03-07 — 22:56:38 UTC	padi, Shos	643	6	30
+86117	3	24	No Variant	2020-03-07 — 22:14:56 UTC	bobthebob, marina_feme, padi	2606	5	25
+85990	3	20	Brown (4 Suits)	2020-03-07 — 03:09:52 UTC	Dr_Kakashi, Kyle, padi	11	4	20
+85986	3	30	Brown (6 Suits)	2020-03-07 — 02:45:41 UTC	Dr_Kakashi, Kyle, padi	21	6	30
+85985	3	25	Brown (5 Suits)	2020-03-07 — 02:24:38 UTC	Dr_Kakashi, Kyle, padi	23	5	25
+85984	4	30	White & Brown (6 Suits)	2020-03-07 — 02:01:07 UTC	Dr_Kakashi, invarse, Livia, padi	20	6	30
+85981	3	25	No Variant	2020-03-07 — 01:30:03 UTC	invarse, Livia, padi	307	5	25
+85967	3	30	Dark Rainbow (6 Suits)	2020-03-06 — 23:57:58 UTC	Dr_Kakashi, Livia, padi	37	6	30
+85965	3	0	Dark Rainbow (6 Suits)	2020-03-06 — 23:31:23 UTC	Dr_Kakashi, Livia, padi	41	6	30
+85963	3	0	Dark Rainbow (6 Suits)	2020-03-06 — 23:18:40 UTC	Dr_Kakashi, Livia, padi	41	6	30
+85962	3	28	Dark Rainbow (6 Suits)	2020-03-06 — 23:05:46 UTC	Dr_Kakashi, Livia, padi	53	6	30
+85958	3	0	Dark Rainbow (6 Suits)	2020-03-06 — 22:47:30 UTC	Dr_Kakashi, Livia, padi	77	6	30
+85401	3	29	6 Suits	2020-03-05 — 22:50:51 UTC	aladdin3, Floriman, padi	365	6	30
+85400	3	20	4 Suits	2020-03-05 — 21:59:04 UTC	aladdin3, Floriman, padi	160	4	20
+85374	3	0	Rainbow (5 Suits)	2020-03-05 — 17:22:09 UTC	fow, Kyle, padi	5	5	25
+84941	3	25	Rainbow (5 Suits)	2020-03-04 — 20:15:46 UTC	ADrone, Floriman, padi	50	5	25
+84644	4	23	No Variant	2020-03-03 — 21:41:29 UTC	Kyle, letical, padi, pianoblook	95	5	25
+84638	4	0	No Variant	2020-03-03 — 21:13:22 UTC	Kyle, letical, padi, pianoblook	95	5	25
+84631	3	0	No Variant	2020-03-03 — 20:31:30 UTC	letical, padi, pianoblook	2163	5	25
+84557	5	24	No Variant	2020-03-03 — 03:06:52 UTC	Kyle, letical, micerang, padi, Teferi	31	5	25
+84553	4	22	No Variant	2020-03-03 — 02:24:04 UTC	Kyle, letical, micerang, padi	39	5	25
+84544	4	0	No Variant	2020-03-03 — 01:40:34 UTC	Jake_Stiles, Kyle, letical, padi	97	5	25
+84537	4	0	No Variant	2020-03-03 — 00:41:27 UTC	ADrone, aladdin3, letical, padi	717	5	25
+84533	3	0	No Variant	2020-03-02 — 23:11:31 UTC	fow, letical, padi	3260	5	25
+84531	2	0	Black (6 Suits)	2020-03-02 — 22:33:09 UTC	Kyle, padi	101	6	30
+84530	2	0	Black (6 Suits)	2020-03-02 — 22:27:22 UTC	Kyle, padi	103	6	30
+84529	2	0	Black (6 Suits)	2020-03-02 — 22:23:10 UTC	Kyle, padi	102	6	30
+84528	2	0	Black (6 Suits)	2020-03-02 — 22:17:51 UTC	Kyle, padi	105	6	30
+84527	2	0	Black (6 Suits)	2020-03-02 — 22:12:06 UTC	Kyle, padi	109	6	30
+84493	4	25	Black (5 Suits)	2020-03-02 — 02:54:11 UTC	Feer, kopen, micerang, padi	21	5	25
+84492	2	25	Black (5 Suits)	2020-03-02 — 02:36:51 UTC	micerang, padi	78	5	25
+84491	2	0	Black (5 Suits)	2020-03-02 — 02:22:57 UTC	micerang, padi	85	5	25
+84490	2	24	Black (5 Suits)	2020-03-02 — 02:11:53 UTC	micerang, padi	97	5	25
+84489	2	24	Black (5 Suits)	2020-03-02 — 02:00:32 UTC	micerang, padi	108	5	25
+84476	3	0	Rainbow (6 Suits)	2020-03-01 — 17:32:12 UTC	Fey, padi, Shos	396	6	30
+84473	4	25	No Variant	2020-03-01 — 16:53:53 UTC	ADrone, Fey, Libster, padi	3	5	25
+84472	3	25	No Variant	2020-03-01 — 16:31:55 UTC	Fey, Libster, padi	98	5	25
+84370	4	30	Dual-Color (6 Suits)	2020-03-01 — 00:02:00 UTC	asaelr, Feer, micerang, padi	2	6	30
+84369	4	0	Dual-Color (6 Suits)	2020-02-29 — 23:42:32 UTC	asaelr, Feer, micerang, padi	2	6	30
+84368	4	0	Dual-Color (6 Suits)	2020-02-29 — 23:35:18 UTC	asaelr, Feer, micerang, padi	3	6	30
+84367	4	29	Dual-Color (6 Suits)	2020-02-29 — 23:15:50 UTC	asaelr, Feer, micerang, padi	4	6	30
+84365	3	25	Rainbow-Ones (5 Suits)	2020-02-29 — 22:16:01 UTC	kopen, micerang, padi	1	5	25
+84326	4	24	No Variant	2020-02-29 — 12:39:27 UTC	Floriman, fow, kodomazer, padi	419	5	25
+84240	3	30	White (6 Suits)	2020-02-29 — 00:54:41 UTC	Kyle, micerang, padi	18	6	30
+84238	4	29	White (6 Suits)	2020-02-29 — 00:25:42 UTC	Feer, Kyle, MasN, padi	6	6	30
+84237	3	30	Rainbow (6 Suits)	2020-02-28 — 23:49:52 UTC	Kyle, MasN, padi	237	6	30
+84236	3	0	Rainbow (6 Suits)	2020-02-28 — 23:18:11 UTC	MasN, padi, Shos	689	6	30
+84235	3	21	Rainbow (5 Suits)	2020-02-28 — 22:44:09 UTC	MasN, padi, Shos	135	5	25
+83855	4	29	6 Suits	2020-02-27 — 21:53:24 UTC	Floriman, Kyle, padi, Shos	32	6	30
+83852	4	0	6 Suits	2020-02-27 — 21:34:56 UTC	Floriman, Kyle, padi, Shos	33	6	30
+83846	4	0	6 Suits	2020-02-27 — 21:07:11 UTC	Floriman, Kyle, padi, Shos	49	6	30
+83844	4	0	6 Suits	2020-02-27 — 20:44:47 UTC	Floriman, Kyle, padi, Shos	59	6	30
+83842	2	22	Black (5 Suits)	2020-02-27 — 20:31:49 UTC	padi, Shos	244	5	25
+83840	3	0	6 Suits	2020-02-27 — 20:17:59 UTC	Kyle, padi, Shos	252	6	30
+83590	4	25	Rainbow (5 Suits)	2020-02-27 — 04:37:49 UTC	Kyle, MasN, micerang, padi	4	5	25
+83584	3	25	No Variant	2020-02-27 — 04:12:17 UTC	henryprior, Kyle, padi	206	5	25
+83576	3	0	No Variant	2020-02-27 — 03:44:05 UTC	henryprior, Kyle, padi	218	5	25
+83537	5	0	Rainbow (5 Suits)	2020-02-27 — 01:14:33 UTC	DoubleDown11, Kyle, Libster, padi, RaKXeR	1	5	25
+83536	3	25	Rainbow (5 Suits)	2020-02-27 — 00:54:17 UTC	Kyle, Libster, padi	6	5	25
+83534	4	0	No Variant	2020-02-27 — 00:37:41 UTC	DoubleDown11, Kyle, Libster, padi	7	5	25
+83533	2	25	No Variant	2020-02-27 — 00:21:19 UTC	DoubleDown11, padi	1840	5	25
+83532	2	0	No Variant	2020-02-27 — 00:10:41 UTC	DoubleDown11, padi	1952	5	25
+83530	2	0	No Variant	2020-02-26 — 23:51:38 UTC	DoubleDown11, padi	2147	5	25
+83516	4	0	Rainbow (5 Suits)	2020-02-26 — 20:44:11 UTC	Kyle, padi, Razvogor, Shos	6	5	25
+83515	3	0	Rainbow (5 Suits)	2020-02-26 — 20:18:16 UTC	padi, Razvogor, Shos	57	5	25
+83513	3	0	Rainbow (5 Suits)	2020-02-26 — 20:12:57 UTC	padi, Razvogor, Shos	56	5	25
+83512	5	0	Dark Brown (6 Suits)	2020-02-26 — 19:55:46 UTC	asaelr, padi, Razvogor, Shos, Zamiel	3	6	30
+83351	4	0	Dual-Color (6 Suits)	2020-02-25 — 22:48:46 UTC	asaelr, Kyle, padi, Shos	3	6	30
+83349	4	0	Dual-Color (6 Suits)	2020-02-25 — 22:34:59 UTC	asaelr, Kyle, padi, Shos	2	6	30
+83348	4	0	Dual-Color (6 Suits)	2020-02-25 — 22:08:52 UTC	asaelr, Kyle, padi, Shos	4	6	30
+83346	4	0	Dual-Color (6 Suits)	2020-02-25 — 21:55:05 UTC	asaelr, Kyle, padi, Shos	3	6	30
+83344	4	25	White (5 Suits)	2020-02-25 — 21:31:26 UTC	asaelr, Kyle, padi, Shos	5	5	25
+83341	4	25	White (5 Suits)	2020-02-25 — 20:59:05 UTC	asaelr, Kyle, padi, Shos	11	5	25
+83340	3	25	White (5 Suits)	2020-02-25 — 20:26:27 UTC	Kyle, padi, Shos	10	5	25
+83231	5	0	Dark Brown (6 Suits)	2020-02-25 — 00:33:27 UTC	asaelr, Jake_Stiles, padi, sankala fan, Zamiel	3	6	30
+83226	4	0	Light Pink (5 Suits)	2020-02-24 — 23:43:41 UTC	asaelr, Floriman, padi, Zamiel	12	5	25
+83221	5	0	Dark Brown (6 Suits)	2020-02-24 — 22:43:45 UTC	Floriman, Jake_Stiles, Kyle, padi, Zamiel	10	6	30
+83219	4	0	Gray (5 Suits)	2020-02-24 — 22:14:48 UTC	Floriman, Jake_Stiles, Kyle, padi	33	5	25
+83218	3	0	Gray (5 Suits)	2020-02-24 — 22:06:19 UTC	Floriman, Jake_Stiles, padi	35	5	25
+83051	3	0	No Variant	2020-02-24 — 04:42:24 UTC	Kyle, Libster, padi	102	5	25
+83050	4	0	Color Mute (3 Suits)	2020-02-24 — 04:20:58 UTC	IAMJEFF, Kyle, Libster, padi	1	3	15
+83049	4	0	Color Mute (3 Suits)	2020-02-24 — 04:08:05 UTC	IAMJEFF, Kyle, Libster, padi	1	3	15
+83045	4	13	Color Mute (3 Suits)	2020-02-24 — 03:57:39 UTC	IAMJEFF, Kyle, micerang, padi	1	3	15
+83044	5	0	Pink (6 Suits)	2020-02-24 — 03:41:09 UTC	IAMJEFF, Jake_Stiles, Kyle, micerang, padi	1	6	30
+83042	5	0	Pink (6 Suits)	2020-02-24 — 03:19:33 UTC	IAMJEFF, Jake_Stiles, Kyle, micerang, padi	1	6	30
+83041	5	0	Pink (6 Suits)	2020-02-24 — 03:06:20 UTC	IAMJEFF, Jake_Stiles, Kyle, micerang, padi	1	6	30
+83040	3	14	Color Mute (3 Suits)	2020-02-24 — 02:55:12 UTC	IAMJEFF, Jake_Stiles, padi	1	3	15
+82754	4	23	No Variant	2020-02-23 — 19:12:09 UTC	Dr_Kakashi, Floriman, padi, Valetta6789	43	5	25
+82752	4	0	No Variant	2020-02-23 — 18:42:42 UTC	Dr_Kakashi, Floriman, padi, Valetta6789	47	5	25
+82744	4	0	No Variant	2020-02-23 — 17:29:21 UTC	ADrone, Dr_Kakashi, padi, Valetta6789	48	5	25
+82743	4	25	No Variant	2020-02-23 — 17:17:51 UTC	ADrone, Dr_Kakashi, padi, Valetta6789	55	5	25
+82741	4	0	No Variant	2020-02-23 — 16:54:47 UTC	Dr_Kakashi, padi, Shos, Valetta6789	64	5	25
+82740	4	0	No Variant	2020-02-23 — 16:44:41 UTC	Dr_Kakashi, padi, Shos, Valetta6789	64	5	25
+82739	4	0	No Variant	2020-02-23 — 16:20:31 UTC	Dr_Kakashi, padi, Shos, Valetta6789	70	5	25
+82635	4	24	No Variant	2020-02-23 — 03:34:08 UTC	Kyle, MasN, NoMercy, padi	103	5	25
+82633	4	25	No Variant	2020-02-23 — 03:03:52 UTC	Fireheart, MasN, NoMercy, padi	130	5	25
+82598	4	28	Rainbow (6 Suits)	2020-02-23 — 00:00:56 UTC	aladdin3, asaelr, Feer, padi	53	6	30
+82596	4	27	Rainbow (6 Suits)	2020-02-22 — 23:35:49 UTC	aladdin3, asaelr, Feer, padi	50	6	30
+82595	3	0	Rainbow (6 Suits)	2020-02-22 — 23:14:59 UTC	asaelr, Fireheart, padi	72	6	30
+82593	3	0	Rainbow (6 Suits)	2020-02-22 — 22:59:25 UTC	asaelr, Fireheart, padi	74	6	30
+82592	4	0	Rainbow (6 Suits)	2020-02-22 — 22:49:12 UTC	asaelr, DoubleDown11, Fireheart, padi	63	6	30
+82213	4	24	Rainbow (5 Suits)	2020-02-21 — 19:03:04 UTC	ADrone, Floriman, Kyle, padi	32	5	25
+82203	3	22	No Variant	2020-02-21 — 16:43:11 UTC	Fey, MB22, padi	1881	5	25
+81724	5	24	White (5 Suits)	2020-02-20 — 23:44:55 UTC	aladdin3, DoubleDown11, Floriman, Nitrate, padi	14	5	25
+81722	5	0	White (5 Suits)	2020-02-20 — 23:24:06 UTC	aladdin3, DoubleDown11, Floriman, Nitrate, padi	21	5	25
+81721	5	24	White (5 Suits)	2020-02-20 — 23:02:04 UTC	aladdin3, DoubleDown11, Floriman, Nitrate, padi	26	5	25
+81696	3	22	No Variant	2020-02-20 — 19:41:31 UTC	Fey, padi, Shos	1291	5	25
+81694	3	24	No Variant	2020-02-20 — 19:06:35 UTC	Fey, padi, Shos	1636	5	25
+81686	4	0	No Variant	2020-02-20 — 18:04:05 UTC	duckmammal, Fey, Libster, padi	8	5	25
+81677	3	0	No Variant	2020-02-20 — 17:35:04 UTC	Fey, Floriman, padi	645	5	25
+81674	3	25	No Variant	2020-02-20 — 17:14:02 UTC	Fey, Floriman, padi	680	5	25
+81454	3	0	Brown (5 Suits)	2020-02-20 — 03:58:19 UTC	DoubleDown11, MasN, padi	25	5	25
+81433	3	0	Brown (5 Suits)	2020-02-20 — 03:43:57 UTC	DoubleDown11, MasN, padi	38	5	25
+81399	3	0	Brown (5 Suits)	2020-02-20 — 03:18:09 UTC	DoubleDown11, MasN, padi	79	5	25
+81355	3	20	Pink (4 Suits)	2020-02-20 — 02:45:49 UTC	DoubleDown11, MasN, padi	59	4	20
+81349	3	25	No Variant	2020-02-20 — 02:09:49 UTC	DoubleDown11, MasN, padi	750	5	25
+81335	3	23	No Variant	2020-02-20 — 00:30:30 UTC	aladdin3, padi, RaKXeR	11	5	25
+81328	4	0	No Variant	2020-02-20 — 00:06:42 UTC	aladdin3, asaelr, padi, RaKXeR	13	5	25
+80910	4	25	No Variant	2020-02-19 — 02:59:12 UTC	florrat2, Libster, padi, sankala fan	2	5	25
+80908	4	23	No Variant	2020-02-19 — 02:24:31 UTC	florrat2, padi, RaKXeR, sankala fan	5	5	25
+80884	5	0	Rainbow (5 Suits)	2020-02-18 — 22:09:16 UTC	duckmammal, Floriman, Kyle, padi, Shos	11	5	25
+80883	5	0	Rainbow (5 Suits)	2020-02-18 — 21:50:52 UTC	duckmammal, Floriman, Kyle, padi, Shos	12	5	25
+80882	4	22	Rainbow (5 Suits)	2020-02-18 — 21:31:42 UTC	duckmammal, Fey, Floriman, padi	130	5	25
+80616	2	25	White (5 Suits)	2020-02-18 — 02:47:04 UTC	DoubleDown11, padi	184	5	25
+80601	3	24	Black (5 Suits)	2020-02-18 — 01:14:47 UTC	aladdin3, MasN, padi	134	5	25
+80592	4	0	White (5 Suits)	2020-02-18 — 00:32:19 UTC	aladdin3, DoubleDown11, MasN, padi	32	5	25
+80589	3	0	White (5 Suits)	2020-02-18 — 00:11:20 UTC	aladdin3, DoubleDown11, padi	81	5	25
+80582	6	0	6 Suits	2020-02-17 — 22:01:04 UTC	Floriman, Kyle, MasN, Nitrate, padi, Yuga Suggah	4	6	30
+80578	6	0	6 Suits	2020-02-17 — 21:18:22 UTC	Floriman, Kyle, MasN, Nitrate, padi, Yuga Suggah	7	6	30
+80576	2	30	6 Suits	2020-02-17 — 20:48:46 UTC	Nitrate, padi	851	6	30
+80575	5	30	6 Suits	2020-02-17 — 20:19:21 UTC	Floriman, Kyle, Nitrate, padi, Shos	199	6	30
+80418	4	0	No Variant	2020-02-17 — 16:54:23 UTC	Kyle, Libster, MasN, padi	8	5	25
+80416	3	0	No Variant	2020-02-17 — 16:24:04 UTC	Libster, MasN, padi	110	5	25
+80415	3	23	No Variant	2020-02-17 — 16:00:50 UTC	Libster, MasN, padi	119	5	25
+79845	5	24	No Variant	2020-02-14 — 00:05:18 UTC	aladdin3, DoubleDown11, Floriman, hanabornoob, padi	457	5	25
+79588	3	25	No Variant	2020-02-12 — 20:57:21 UTC	padi, sjdrodge, Yuga Suggah	53	5	25
+79583	3	0	No Variant	2020-02-12 — 20:38:08 UTC	padi, sjdrodge, Yuga Suggah	51	5	25
+79581	3	0	No Variant	2020-02-12 — 20:23:00 UTC	honzas, padi, Yuga Suggah	4221	5	25
+79081	3	22	Rainbow & White (5 Suits)	2020-02-12 — 00:51:46 UTC	duckmammal, Fireheart, padi	4	5	25
+79078	4	0	Rainbow & White (5 Suits)	2020-02-12 — 00:21:30 UTC	asaelr, duckmammal, Fireheart, padi	12	5	25
+79077	4	23	Brown (5 Suits)	2020-02-11 — 23:51:59 UTC	asaelr, duckmammal, padi, scharkbite	14	5	25
+79076	3	21	Brown (5 Suits)	2020-02-11 — 23:23:23 UTC	duckmammal, padi, scharkbite	31	5	25
+79075	3	24	Brown (5 Suits)	2020-02-11 — 22:53:51 UTC	duckmammal, hanabornoob, padi	39	5	25
+79074	5	0	Brown (5 Suits)	2020-02-11 — 22:33:30 UTC	duckmammal, Floriman, hanabornoob, MasN, padi	15	5	25
+79073	4	0	Brown (5 Suits)	2020-02-11 — 22:25:56 UTC	duckmammal, Floriman, hanabornoob, padi	27	5	25
+79072	4	0	Brown (5 Suits)	2020-02-11 — 22:17:37 UTC	duckmammal, Floriman, hanabornoob, padi	46	5	25
+79071	3	0	Brown (5 Suits)	2020-02-11 — 22:01:06 UTC	Floriman, hanabornoob, padi	63	5	25
+78971	2	28	White (6 Suits)	2020-02-11 — 17:23:00 UTC	padi, Yuga Suggah	123	6	30
+78970	2	0	White (6 Suits)	2020-02-11 — 17:08:32 UTC	padi, Yuga Suggah	184	6	30
+78969	2	23	No Variant	2020-02-11 — 16:54:29 UTC	padi, Yuga Suggah	4109	5	25
+78865	2	30	Rainbow (6 Suits)	2020-02-11 — 03:09:16 UTC	padi, Yuga Suggah	971	6	30
+78814	3	0	Rainbow (5 Suits)	2020-02-11 — 02:30:16 UTC	micerang, padi, Yuga Suggah	11	5	25
+78765	3	25	Rainbow (5 Suits)	2020-02-11 — 02:01:31 UTC	micerang, padi, Yuga Suggah	14	5	25
+78727	3	25	No Variant	2020-02-11 — 01:31:25 UTC	micerang, padi, Yuga Suggah	63	5	25
+78698	5	24	No Variant	2020-02-11 — 00:58:12 UTC	florrat2, Libster, micerang, padi, RaKXeR	2	5	25
+78692	3	25	No Variant	2020-02-11 — 00:26:04 UTC	florrat2, padi, RaKXeR	9	5	25
+78691	3	0	No Variant	2020-02-11 — 00:14:56 UTC	florrat2, padi, RaKXeR	9	5	25
+78686	5	0	6 Suits	2020-02-10 — 23:37:58 UTC	aladdin3, Floriman, padi, RaKXeR, scharkbite	3	6	30
+78683	5	0	6 Suits	2020-02-10 — 23:19:08 UTC	aladdin3, Floriman, padi, RaKXeR, scharkbite	3	6	30
+78241	3	25	No Variant	2020-02-09 — 00:01:57 UTC	asaelr, duckmammal, padi	57	5	25
+78238	3	0	No Variant	2020-02-08 — 23:30:36 UTC	asaelr, duckmammal, padi	59	5	25
+78164	4	25	White (5 Suits)	2020-02-08 — 06:27:11 UTC	duckmammal, MasN, padi, wortel	60	5	25
+78162	3	23	No Variant	2020-02-08 — 05:01:46 UTC	DoubleDown11, Nitrate, padi	801	5	25
+78161	3	0	No Variant	2020-02-08 — 04:24:34 UTC	DoubleDown11, Nitrate, padi	840	5	25
+78159	3	0	No Variant	2020-02-08 — 03:56:58 UTC	DoubleDown11, Nitrate, padi	940	5	25
+78138	5	22	No Variant	2020-02-08 — 00:30:16 UTC	DoubleDown11, Kyle, Libster, micerang, padi	2	5	25
+78136	4	29	6 Suits	2020-02-07 — 23:56:20 UTC	DoubleDown11, Floriman, hanabornoob, padi	92	6	30
+78135	4	0	6 Suits	2020-02-07 — 23:28:43 UTC	DoubleDown11, Floriman, hanabornoob, padi	100	6	30
+78133	4	26	6 Suits	2020-02-07 — 23:07:18 UTC	DoubleDown11, Floriman, hanabornoob, padi	120	6	30
+78131	4	0	6 Suits	2020-02-07 — 22:43:26 UTC	DoubleDown11, Floriman, hanabornoob, padi	250	6	30
+78129	6	23	No Variant	2020-02-07 — 22:11:35 UTC	aladdin3, Floriman, Kyle, padi, scharkbite, Shos	52	5	25
+78128	5	23	No Variant	2020-02-07 — 21:31:37 UTC	aladdin3, Kyle, padi, scharkbite, Shos	7	5	25
+78127	4	24	No Variant	2020-02-07 — 20:57:54 UTC	Kyle, padi, scharkbite, Shos	33	5	25

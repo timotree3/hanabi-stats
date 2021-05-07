@@ -4,7 +4,7 @@ with open("input/list_of_players.txt") as players:
     for player in players:
         player = player.strip()
         print(player)
-        with open("temp/{}_stats.txt".format(player)) as f:
+        with open("stats/{}_stats.txt".format(player)) as f:
             seq = 0
             max_seq = 0
             max_seq_ender = None

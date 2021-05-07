@@ -1,0 +1,472 @@
+512331	4	27	Prism (6 Suits)	2021-04-25 — 17:39:00 UTC	Bot-Fiora, Fey, mystus, robense	14	6	30
+512308	4	15	3 Suits	2021-04-25 — 17:13:26 UTC	Bot-Fiora, Fey, mystus, VBVBVBVB	24	3	15
+512298	4	14	3 Suits	2021-04-25 — 16:56:36 UTC	Bot-Fiora, Fey, mystus, VBVBVBVB	37	3	15
+512289	4	0	3 Suits	2021-04-25 — 16:36:53 UTC	Bot-Fiora, Fey, mystus, VBVBVBVB	49	3	15
+512262	3	0	Rainbow & Cocoa Rainbow (6 Suits)	2021-04-25 — 15:55:33 UTC	Bot-Fiora, ChristopheAF, sephiroth	2	6	30
+512259	3	0	Rainbow & Cocoa Rainbow (6 Suits)	2021-04-25 — 15:51:33 UTC	Bot-Fiora, ChristopheAF, sephiroth	4	6	30
+512248	3	28	Rainbow & Cocoa Rainbow (6 Suits)	2021-04-25 — 15:36:16 UTC	Bot-Fiora, ChristopheAF, sephiroth	5	6	30
+512241	4	30	Rainbow & Gray (6 Suits)	2021-04-25 — 15:04:26 UTC	Bot-Fiora, ChristopheAF, duckless, sephiroth	10	6	30
+512237	3	30	White (6 Suits)	2021-04-25 — 14:42:12 UTC	Bot-Fiora, ChristopheAF, duckless	70	6	30
+511051	5	29	White (6 Suits)	2021-04-24 — 04:35:07 UTC	antitelharsic, boba, Bot-Fiora, dobi, griff77	17	6	30
+511011	5	0	White (6 Suits)	2021-04-24 — 03:49:59 UTC	antitelharsic, boba, Bot-Fiora, dobi, griff77	27	6	30
+510986	5	0	White & Dark Rainbow (5 Suits)	2021-04-24 — 03:33:31 UTC	antitelharsic, boba, Bot-Fiora, griff77, voss	1	5	25
+510962	5	0	White & Dark Rainbow (5 Suits)	2021-04-24 — 03:18:13 UTC	antitelharsic, boba, Bot-Fiora, griff77, voss	2	5	25
+510928	4	25	Gray (5 Suits)	2021-04-24 — 02:45:35 UTC	antitelharsic, Bot-Fiora, griff77, voss	3	5	25
+510886	4	21	Black & Rainbow (5 Suits)	2021-04-24 — 02:01:53 UTC	Bot-Fiora, griff77, Meowie, voss	32	5	25
+509175	3	20	Pink & Brown (4 Suits)	2021-04-22 — 05:05:03 UTC	Bot-Fiora, IsabeltheCat, newduke	12	4	20
+509156	4	0	Gray Pink (5 Suits)	2021-04-22 — 04:35:28 UTC	Bot-Fiora, IsabeltheCat, newduke, voss	14	5	25
+509136	5	19	Prism (4 Suits)	2021-04-22 — 04:04:25 UTC	Bot-Fiora, IsabeltheCat, newduke, voss, wolfpack	6	4	20
+509109	5	0	Prism & Dark Omni (6 Suits)	2021-04-22 — 03:33:18 UTC	Bot-Fiora, derekcheah, indego, Lel0uch, melwen	1	6	30
+509083	5	0	Prism & Dark Omni (6 Suits)	2021-04-22 — 03:08:29 UTC	Bot-Fiora, derekcheah, indego, Lel0uch, melwen	1	6	30
+507028	3	0	Muddy Rainbow (6 Suits)	2021-04-19 — 23:59:41 UTC	Bot-Fiora, DarthGandalf, newduke	37	6	30
+507014	3	25	Light Pink (5 Suits)	2021-04-19 — 23:22:58 UTC	Bot-Fiora, DarthGandalf, newduke	40	5	25
+497061	3	25	No Variant	2021-04-11 — 05:24:24 UTC	Bot-Fiora, ksfortson, possum	58	5	25
+497024	4	22	Gray (5 Suits)	2021-04-11 — 04:42:49 UTC	Bot-Fiora, griff77, possum, qqqq	9	5	25
+496975	4	0	Rainbow & White (6 Suits)	2021-04-11 — 03:53:07 UTC	Bot-Fiora, griff77, kinkajusrevenge, timotree	10	6	30
+496659	4	0	White-Ones & White (5 Suits)	2021-04-10 — 22:25:38 UTC	Bot-Fiora, DarthGandalf, griff77, Meowie	6	5	25
+496594	4	23	Muddy Rainbow (5 Suits)	2021-04-10 — 21:43:58 UTC	Bot-Fiora, DarthGandalf, griff77, Syrah	9	5	25
+495807	4	20	Pink & Prism (4 Suits)	2021-04-10 — 05:47:40 UTC	bob65536, Bot-Fiora, griff77, wortel	5	4	20
+495789	4	20	White & Brown (4 Suits)	2021-04-10 — 05:19:23 UTC	bob65536, Bot-Fiora, griff77, wortel	11	4	20
+495775	3	0	Gray (5 Suits)	2021-04-10 — 04:59:05 UTC	bob65536, Bot-Fiora, griff77	7	5	25
+495757	3	24	Gray (5 Suits)	2021-04-10 — 04:44:14 UTC	bob65536, Bot-Fiora, griff77	10	5	25
+495732	3	25	Dark Brown (5 Suits)	2021-04-10 — 04:10:44 UTC	bob65536, Bot-Fiora, griff77	26	5	25
+488091	4	28	Black (6 Suits)	2021-04-02 — 04:46:46 UTC	Bot-Fiora, griff77, kinkajusrevenge, newduke	175	6	30
+488053	5	0	Black (5 Suits)	2021-04-02 — 04:09:05 UTC	Bot-Fiora, griff77, kinkajusrevenge, newduke, wump	8	5	25
+488029	4	0	Null-Ones & Null (5 Suits)	2021-04-02 — 03:41:04 UTC	Bot-Fiora, griff77, ksfortson, wump	3	5	25
+487997	4	20	Null-Fives & Black (5 Suits)	2021-04-02 — 03:06:20 UTC	Bot-Fiora, griff77, ksfortson, wump	1	5	25
+487968	3	20	Null-Fives & Black (5 Suits)	2021-04-02 — 02:33:21 UTC	Bot-Fiora, griff77, wump	2	5	25
+483235	6	23	Prism (5 Suits)	2021-03-28 — 07:08:59 UTC	Bot-Fiora, ksfortson, louietyj, newduke, qqqq, wump	4	5	25
+483214	5	28	Rainbow & Dark Prism (6 Suits)	2021-03-28 — 06:15:34 UTC	Bot-Fiora, griff77, ksfortson, nkkarpov, qqqq	2	6	30
+483185	4	0	Black & Dark Prism (6 Suits)	2021-03-28 — 05:35:01 UTC	Bot-Fiora, griff77, ksfortson, nkkarpov	7	6	30
+483092	3	26	Black & Dark Prism (6 Suits)	2021-03-28 — 04:44:49 UTC	Bot-Fiora, griff77, nkkarpov	2	6	30
+483066	3	0	Black & Dark Prism (6 Suits)	2021-03-28 — 04:14:13 UTC	Bot-Fiora, griff77, nkkarpov	2	6	30
+483044	5	23	No Variant	2021-03-28 — 03:47:21 UTC	Bot-Fiora, Cynas, griff77, HelanaAshryvr, timotree	11	5	25
+483012	4	25	No Variant	2021-03-28 — 03:10:20 UTC	Bot-Fiora, Cynas, HelanaAshryvr, timotree	31	5	25
+482131	4	30	Null-Ones (6 Suits)	2021-03-27 — 06:14:28 UTC	Bot-Fiora, griff77, ksfortson, wortel	2	6	30
+482112	5	0	Null-Ones (6 Suits)	2021-03-27 — 05:43:36 UTC	Bot-Fiora, griff77, ksfortson, louietyj, wortel	2	6	30
+482103	4	0	Null-Ones (6 Suits)	2021-03-27 — 05:31:49 UTC	Bot-Fiora, griff77, ksfortson, louietyj	3	6	30
+482088	3	0	Null-Ones (6 Suits)	2021-03-27 — 05:18:19 UTC	Bot-Fiora, griff77, ksfortson	4	6	30
+482063	3	0	Null-Ones (6 Suits)	2021-03-27 — 04:48:58 UTC	Bot-Fiora, griff77, ksfortson	6	6	30
+482029	4	0	Null (6 Suits)	2021-03-27 — 04:23:07 UTC	Bot-Fiora, kinkajusrevenge, ksfortson, timotree	13	6	30
+482001	4	0	Null (6 Suits)	2021-03-27 — 03:48:22 UTC	Bot-Fiora, kinkajusrevenge, ksfortson, timotree	18	6	30
+481059	5	24	Null-Ones (5 Suits)	2021-03-26 — 07:08:52 UTC	bjnh, Bot-Fiora, ksfortson, louietyj, wump	3	5	25
+481054	5	0	Null-Ones (5 Suits)	2021-03-26 — 06:38:06 UTC	bjnh, Bot-Fiora, ksfortson, louietyj, wump	3	5	25
+481046	5	26	Dark Brown (6 Suits)	2021-03-26 — 06:16:38 UTC	bjnh, Bot-Fiora, IsabeltheCat, ksfortson, wump	10	6	30
+481028	4	0	Dark Rainbow (6 Suits)	2021-03-26 — 05:40:19 UTC	Bot-Fiora, IsabeltheCat, ksfortson, wump	25	6	30
+480269	3	0	Dark Rainbow (5 Suits)	2021-03-25 — 18:06:46 UTC	Bot-Fiora, newduke, Wittvector	24	5	25
+480247	4	0	Gray Pink (5 Suits)	2021-03-25 — 17:53:05 UTC	Bot-Fiora, kinkajusrevenge, Kyle, newduke	1	5	25
+480245	4	0	Gray Pink (5 Suits)	2021-03-25 — 17:50:32 UTC	Bot-Fiora, kinkajusrevenge, Kyle, newduke	1	5	25
+480241	4	0	Gray Pink (5 Suits)	2021-03-25 — 17:46:02 UTC	Bot-Fiora, kinkajusrevenge, Kyle, newduke	1	5	25
+477639	4	25	Brown (6 Suits)	2021-03-23 — 03:33:37 UTC	Bot-Fiora, Lel0uch, melwen, newduke	14	6	30
+477600	5	0	Black & Muddy Rainbow (6 Suits)	2021-03-23 — 02:53:29 UTC	Bot-Fiora, indego, Lel0uch, melwen, newduke	2	6	30
+474638	5	0	Pink (5 Suits)	2021-03-20 — 07:41:42 UTC	Bot-Fiora, kopen, ksfortson, MarcLovesDogs, newduke	9	5	25
+474624	5	22	Black (5 Suits)	2021-03-20 — 07:15:53 UTC	Bot-Fiora, griff77, kopen, ksfortson, newduke	10	5	25
+474608	5	23	Black (5 Suits)	2021-03-20 — 06:43:37 UTC	Bot-Fiora, griff77, kopen, ksfortson, newduke	9	5	25
+474585	5	0	Null-Ones (5 Suits)	2021-03-20 — 06:09:17 UTC	Bot-Fiora, BraydonM, griff77, ksfortson, newduke	3	5	25
+474540	3	25	Muddy Rainbow (5 Suits)	2021-03-20 — 05:28:30 UTC	Bot-Fiora, griff77, ksfortson	37	5	25
+474489	4	30	Rainbow (6 Suits)	2021-03-20 — 04:48:43 UTC	Bot-Fiora, griff77, ksfortson, MarcLovesDogs	185	6	30
+470911	3	23	White-Ones & Cocoa Rainbow (5 Suits)	2021-03-17 — 03:29:11 UTC	Bot-Fiora, griff77, orucsoraihc	1	5	25
+470869	3	0	White-Ones & Cocoa Rainbow (5 Suits)	2021-03-17 — 03:02:49 UTC	Bot-Fiora, griff77, orucsoraihc	1	5	25
+470841	3	0	White-Ones & Cocoa Rainbow (5 Suits)	2021-03-17 — 02:47:32 UTC	Bot-Fiora, griff77, orucsoraihc	1	5	25
+470808	3	0	White-Ones & Cocoa Rainbow (5 Suits)	2021-03-17 — 02:17:32 UTC	Bot-Fiora, griff77, orucsoraihc	1	5	25
+470794	3	20	Brown-Ones & Pink (4 Suits)	2021-03-17 — 01:51:25 UTC	Bot-Fiora, griff77, orucsoraihc	2	4	20
+470676	4	0	White & Dark Pink (6 Suits)	2021-03-17 — 00:23:52 UTC	Bot-Fiora, dobi, kevincaseytdk1, robense	5	6	30
+470380	5	0	Black & White (5 Suits)	2021-03-16 — 20:17:44 UTC	asaelr, Bot-Fiora, CaitlinSmith, HariKrishnan, Kyle	2	5	25
+470358	5	0	Black & White (5 Suits)	2021-03-16 — 19:58:04 UTC	asaelr, Bot-Fiora, CaitlinSmith, HariKrishnan, Kyle	2	5	25
+470332	3	25	No Variant	2021-03-16 — 19:42:14 UTC	Bot-Fiora, CaitlinSmith, HariKrishnan	53	5	25
+470304	3	25	No Variant	2021-03-16 — 19:13:39 UTC	Bot-Fiora, CaitlinSmith, HariKrishnan	51	5	25
+470277	6	0	Special Mix (5 Suits)	2021-03-16 — 18:38:45 UTC	4head, Bot-Fiora, CaitlinSmith, ChristopheAF, hakha3, newduke	5	5	25
+470037	5	0	Brown (5 Suits)	2021-03-16 — 07:15:43 UTC	Arcee, Bot-Fiora, griff77, louietyj, possum	24	5	25
+469992	3	0	Brown (6 Suits)	2021-03-16 — 06:36:02 UTC	Arcee, Bot-Fiora, griff77	84	6	30
+469933	4	0	Brown & Dark Rainbow (6 Suits)	2021-03-16 — 05:56:33 UTC	Bot-Fiora, griff77, ksfortson, wump	5	6	30
+469896	5	0	White-Ones & Light Pink (4 Suits)	2021-03-16 — 05:07:14 UTC	Bot-Fiora, griff77, kinkajusrevenge, ksfortson, nkkarpov	1	4	20
+469849	5	0	White-Ones & Light Pink (4 Suits)	2021-03-16 — 04:28:40 UTC	Bot-Fiora, griff77, kinkajusrevenge, ksfortson, nkkarpov	1	4	20
+469808	5	22	Prism (5 Suits)	2021-03-16 — 03:59:52 UTC	Arcee, Bot-Fiora, ksfortson, nkkarpov, Onen	3	5	25
+469788	5	0	Prism (5 Suits)	2021-03-16 — 03:34:21 UTC	Arcee, Bot-Fiora, ksfortson, nkkarpov, Onen	3	5	25
+469778	4	0	Brown (6 Suits)	2021-03-16 — 03:20:54 UTC	Arcee, Bot-Fiora, Feich59, nkkarpov	6	6	30
+469774	4	30	Brown (6 Suits)	2021-03-16 — 03:14:56 UTC	Arcee, Bot-Fiora, Feich59, nkkarpov	6	6	30
+469752	4	0	Brown (6 Suits)	2021-03-16 — 02:48:54 UTC	Arcee, Bot-Fiora, Feich59, nkkarpov	8	6	30
+469744	4	0	Brown (6 Suits)	2021-03-16 — 02:40:01 UTC	Arcee, Bot-Fiora, Feich59, nkkarpov	21	6	30
+469729	5	0	Pink (3 Suits)	2021-03-16 — 02:30:17 UTC	Arcee, Bot-Fiora, IsabeltheCat, newduke, nkkarpov	2	3	15
+469724	5	11	Pink (3 Suits)	2021-03-16 — 02:25:18 UTC	Arcee, Bot-Fiora, IsabeltheCat, newduke, nkkarpov	2	3	15
+469712	5	0	Pink (3 Suits)	2021-03-16 — 02:16:17 UTC	Arcee, Bot-Fiora, IsabeltheCat, newduke, nkkarpov	4	3	15
+469684	4	0	Black & Prism (6 Suits)	2021-03-16 — 01:38:17 UTC	asaelr, Bot-Fiora, kevincaseytdk1, orucsoraihc	5	6	30
+469672	4	0	Black & Prism (6 Suits)	2021-03-16 — 01:15:47 UTC	asaelr, Bot-Fiora, kevincaseytdk1, orucsoraihc	8	6	30
+469663	4	0	Black & Prism (6 Suits)	2021-03-16 — 01:03:14 UTC	asaelr, Bot-Fiora, kevincaseytdk1, orucsoraihc	10	6	30
+469435	4	28	Throw It in a Hole (6 Suits)	2021-03-15 — 22:02:19 UTC	Bot-Fiora, CaitlinSmith, jack67889, jeff10	7	6	30
+469370	3	0	Throw It in a Hole (6 Suits)	2021-03-15 — 21:19:25 UTC	Bot-Fiora, CaitlinSmith, MangoPie	21	6	30
+468871	4	22	Black (5 Suits)	2021-03-15 — 05:58:48 UTC	Arcee, Bot-Fiora, griff77, MarcLovesDogs	44	5	25
+468861	3	0	Rainbow (6 Suits)	2021-03-15 — 05:17:22 UTC	Arcee, Bot-Fiora, griff77	689	6	30
+468848	4	23	Black (5 Suits)	2021-03-15 — 04:38:05 UTC	Arcee, Bot-Fiora, dobi, griff77	79	5	25
+468822	4	0	Rainbow (5 Suits)	2021-03-15 — 04:02:38 UTC	Arcee, Bot-Fiora, griff77, possum	26	5	25
+468794	4	24	Rainbow (5 Suits)	2021-03-15 — 03:27:09 UTC	Arcee, Bot-Fiora, griff77, possum	30	5	25
+468736	4	0	Rainbow (5 Suits)	2021-03-15 — 02:40:25 UTC	Arcee, Bot-Fiora, griff77, possum	38	5	25
+468461	4	29	Dark Prism (6 Suits)	2021-03-14 — 22:34:51 UTC	Bot-Fiora, griff77, IsabeltheCat, wump	14	6	30
+468411	4	0	Dark Prism (6 Suits)	2021-03-14 — 22:01:59 UTC	Bot-Fiora, griff77, IsabeltheCat, wump	14	6	30
+467791	5	30	Rainbow (6 Suits)	2021-03-14 — 05:41:19 UTC	Bot-Fiora, Damian000, griff77, mestrepoke, possum	209	6	30
+467721	4	23	Rainbow (5 Suits)	2021-03-14 — 04:35:28 UTC	Bot-Fiora, griff77, mestrepoke, possum	54	5	25
+466973	5	25	Black & Omni (5 Suits)	2021-03-13 — 20:52:29 UTC	Bot-Fiora, indego, kevincaseytdk1, MarkusKahlsen, sephiroth	2	5	25
+466957	5	0	Black & Omni (5 Suits)	2021-03-13 — 20:33:15 UTC	Bot-Fiora, indego, kevincaseytdk1, MarkusKahlsen, sephiroth	2	5	25
+466948	5	0	Black & Omni (5 Suits)	2021-03-13 — 20:24:56 UTC	Bot-Fiora, indego, kevincaseytdk1, MarkusKahlsen, sephiroth	3	5	25
+466919	3	30	Dark Null (6 Suits)	2021-03-13 — 19:47:40 UTC	Bot-Fiora, indego, kevincaseytdk1	6	6	30
+466901	3	0	Dark Null (6 Suits)	2021-03-13 — 19:22:30 UTC	Bot-Fiora, indego, kevincaseytdk1	6	6	30
+466896	3	0	Dark Null (6 Suits)	2021-03-13 — 19:14:47 UTC	Bot-Fiora, indego, kevincaseytdk1	8	6	30
+466881	3	0	Dark Null (6 Suits)	2021-03-13 — 18:51:43 UTC	Bot-Fiora, indego, kevincaseytdk1	11	6	30
+466869	3	0	Dark Null (6 Suits)	2021-03-13 — 18:36:54 UTC	Bot-Fiora, indego, kevincaseytdk1	12	6	30
+466854	5	29	Dark Null (6 Suits)	2021-03-13 — 18:09:52 UTC	Bot-Fiora, indego, kevincaseytdk1, MarkusKahlsen, newduke	1	6	30
+466819	6	0	Brown (6 Suits)	2021-03-13 — 17:23:52 UTC	Bot-Fiora, Daryl, indego, kevincaseytdk1, newduke, nkkarpov	8	6	30
+466778	4	0	Pink (5 Suits)	2021-03-13 — 16:58:58 UTC	Bot-Fiora, Denchulitas, griff77, sephiroth	13	5	25
+466536	5	30	Pink (6 Suits)	2021-03-13 — 06:27:57 UTC	Bot-Fiora, corys, ksfortson, possum, wortel	8	6	30
+466506	5	29	Pink (6 Suits)	2021-03-13 — 05:52:18 UTC	Bot-Fiora, corys, ksfortson, possum, wortel	13	6	30
+466484	4	24	Pink (5 Suits)	2021-03-13 — 05:21:45 UTC	Bot-Fiora, corys, ksfortson, possum	69	5	25
+464374	5	20	Brown (4 Suits)	2021-03-11 — 05:11:24 UTC	Bot-Fiora, griff77, ksfortson, nkkarpov, otterful	5	4	20
+464348	5	0	Brown (4 Suits)	2021-03-11 — 04:49:16 UTC	Bot-Fiora, griff77, ksfortson, nkkarpov, otterful	7	4	20
+464326	5	17	Brown (4 Suits)	2021-03-11 — 04:20:01 UTC	Bot-Fiora, griff77, ksfortson, nkkarpov, otterful	7	4	20
+463332	4	29	Brown (6 Suits)	2021-03-10 — 05:28:43 UTC	Bot-Fiora, corys, griff77, TimeHoodie	16	6	30
+463299	4	29	Brown (6 Suits)	2021-03-10 — 04:55:05 UTC	Bot-Fiora, corys, griff77, TimeHoodie	17	6	30
+463089	5	0	Rainbow-Ones & White (6 Suits)	2021-03-10 — 01:44:06 UTC	Bot-Fiora, Lanvin, Lel0uch, melwen, squirrel1988	1	6	30
+463058	5	0	Rainbow-Ones & White (6 Suits)	2021-03-10 — 01:15:44 UTC	Bot-Fiora, Lanvin, Lel0uch, melwen, squirrel1988	1	6	30
+463046	5	30	Brown-Ones & Black (6 Suits)	2021-03-10 — 00:41:42 UTC	Bot-Fiora, Lanvin, Lel0uch, melwen, TheDaniMan	1	6	30
+463038	5	0	Dark Pink (5 Suits)	2021-03-10 — 00:15:42 UTC	Bot-Fiora, ChristopheAF, hakha3, Lanvin, Lel0uch	3	5	25
+463031	5	0	Dark Pink (5 Suits)	2021-03-10 — 00:03:53 UTC	Bot-Fiora, ChristopheAF, hakha3, Lanvin, Lel0uch	6	5	25
+462164	4	15	Muddy-Rainbow-Ones & Rainbow (3 Suits)	2021-03-09 — 05:36:39 UTC	Bot-Fiora, griff77, newduke, possum	1	3	15
+462135	5	0	Dark Brown (6 Suits)	2021-03-09 — 05:05:53 UTC	Bot-Fiora, griff77, indego, newduke, possum	5	6	30
+462115	5	0	Dark Brown (6 Suits)	2021-03-09 — 04:37:52 UTC	Bot-Fiora, griff77, indego, newduke, possum	8	6	30
+462101	5	0	Alternating Clues & Omni (5 Suits)	2021-03-09 — 04:16:43 UTC	Bot-Fiora, dobi, griff77, newduke, possum	1	5	25
+462089	5	26	Black & Muddy Rainbow (6 Suits)	2021-03-09 — 03:52:01 UTC	Bot-Fiora, griff77, orucsoraihc, possum, rz	4	6	30
+462048	4	24	No Variant	2021-03-09 — 03:10:48 UTC	Arcee, Bot-Fiora, Damian000, dancherp	125	5	25
+462008	4	22	No Variant	2021-03-09 — 02:27:27 UTC	Arcee, Bot-Fiora, Damian000, dancherp	149	5	25
+461993	4	0	No Variant	2021-03-09 — 01:53:39 UTC	Arcee, Bot-Fiora, Damian000, dancherp	167	5	25
+461979	4	23	No Variant	2021-03-09 — 01:23:14 UTC	Arcee, Bot-Fiora, Damian000, dancherp	204	5	25
+461944	3	0	No Variant	2021-03-09 — 00:51:05 UTC	Bot-Fiora, Damian000, dancherp	1636	5	25
+461919	4	24	No Variant	2021-03-09 — 00:19:18 UTC	Bot-Fiora, dancherp, DarthGandalf, wump	43	5	25
+461893	4	25	No Variant	2021-03-08 — 23:51:05 UTC	Bot-Fiora, dancherp, DarthGandalf, wump	45	5	25
+461866	5	21	Dark Brown (5 Suits)	2021-03-08 — 23:16:19 UTC	Bot-Fiora, ChristopheAF, newduke, padi, robense	4	5	25
+461816	5	0	Dark Brown (5 Suits)	2021-03-08 — 22:43:49 UTC	Bot-Fiora, ChristopheAF, newduke, padi, robense	6	5	25
+461777	4	21	Black (5 Suits)	2021-03-08 — 22:10:28 UTC	Bot-Fiora, CaitlinSmith, DarthGandalf, jeff10	13	5	25
+461528	3	25	No Variant	2021-03-08 — 18:23:28 UTC	Bot-Fiora, DarthGandalf, Lel0uch	750	5	25
+461515	4	26	Muddy Rainbow & Dark Pink (6 Suits)	2021-03-08 — 17:58:55 UTC	Bot-Fiora, hakha3, TimeHoodie, Wittvector	4	6	30
+461465	3	30	Pink-Ones & Dark Prism (6 Suits)	2021-03-08 — 16:39:25 UTC	Bot-Fiora, hakha3, Wittvector	1	6	30
+461454	3	0	Pink-Ones & Dark Prism (6 Suits)	2021-03-08 — 16:18:00 UTC	Bot-Fiora, hakha3, Wittvector	2	6	30
+461230	5	0	Rainbow & Prism (5 Suits)	2021-03-08 — 09:02:20 UTC	Bot-Fiora, eliclax, indego, pianoblook, possum	3	5	25
+461224	5	0	Rainbow & Prism (5 Suits)	2021-03-08 — 08:46:38 UTC	Bot-Fiora, eliclax, indego, pianoblook, possum	8	5	25
+461219	4	0	Color Mute (5 Suits)	2021-03-08 — 08:26:13 UTC	Bot-Fiora, newduke, possum, skyblueexo	1	5	25
+461207	4	24	Null (5 Suits)	2021-03-08 — 07:39:40 UTC	Bot-Fiora, griff77, ksfortson, louietyj	8	5	25
+461201	5	0	Null (6 Suits)	2021-03-08 — 07:06:33 UTC	Bot-Fiora, griff77, ksfortson, louietyj, rahsosprout	10	6	30
+461198	5	0	Null (6 Suits)	2021-03-08 — 06:50:11 UTC	Bot-Fiora, griff77, ksfortson, louietyj, rahsosprout	13	6	30
+461191	4	0	Null (5 Suits)	2021-03-08 — 06:34:10 UTC	Bot-Fiora, griff77, ksfortson, rahsosprout	20	5	25
+461184	3	0	Null (5 Suits)	2021-03-08 — 06:17:24 UTC	Bot-Fiora, griff77, rahsosprout	20	5	25
+461155	3	0	Null (5 Suits)	2021-03-08 — 05:45:04 UTC	Bot-Fiora, griff77, rahsosprout	21	5	25
+461129	5	22	Muddy Rainbow (5 Suits)	2021-03-08 — 05:04:52 UTC	Bot-Fiora, griff77, IsabeltheCat, kopen, ksfortson	7	5	25
+461087	5	22	Muddy Rainbow (5 Suits)	2021-03-08 — 04:24:07 UTC	Bot-Fiora, griff77, IsabeltheCat, kopen, ksfortson	8	5	25
+459892	5	30	Ambiguous (6 Suits)	2021-03-07 — 06:38:43 UTC	Bot-Fiora, griff77, ksfortson, louietyj, possum	4	6	30
+459866	5	0	Ambiguous (6 Suits)	2021-03-07 — 05:58:25 UTC	Bot-Fiora, griff77, ksfortson, louietyj, possum	3	6	30
+459841	5	28	Ambiguous (6 Suits)	2021-03-07 — 05:29:27 UTC	Bot-Fiora, griff77, ksfortson, louietyj, possum	3	6	30
+459800	5	0	Black (5 Suits)	2021-03-07 — 04:35:03 UTC	Bot-Fiora, BraydonM, griff77, louietyj, possum	13	5	25
+459770	5	0	Black (5 Suits)	2021-03-07 — 03:55:17 UTC	Bot-Fiora, BraydonM, griff77, louietyj, possum	13	5	25
+459754	5	0	Black (5 Suits)	2021-03-07 — 03:44:00 UTC	Bot-Fiora, BraydonM, griff77, louietyj, possum	11	5	25
+459745	5	23	Black (5 Suits)	2021-03-07 — 03:32:39 UTC	Bot-Fiora, BraydonM, griff77, louietyj, possum	12	5	25
+459426	3	30	Dark Prism (6 Suits)	2021-03-07 — 00:01:59 UTC	Bot-Fiora, MangoPie, Pimak	25	6	30
+459379	3	0	Dark Prism (6 Suits)	2021-03-06 — 23:35:25 UTC	Bot-Fiora, MangoPie, Pimak	32	6	30
+459332	3	25	White (5 Suits)	2021-03-06 — 23:10:20 UTC	Bot-Fiora, MangoPie, Pimak	126	5	25
+459314	5	0	White & Prism (6 Suits)	2021-03-06 — 23:00:21 UTC	bjnh, Bot-Fiora, HelanaAshryvr, Pimak, squirrel1988	4	6	30
+459302	3	0	Pink (6 Suits)	2021-03-06 — 22:54:06 UTC	Bot-Fiora, MangoPie, nkkarpov	131	6	30
+459271	5	20	No Variant	2021-03-06 — 22:32:14 UTC	Bot-Fiora, dancherp, kopen, MangoPie, nkkarpov	143	5	25
+459225	5	0	Brown & Dark Prism (6 Suits)	2021-03-06 — 21:59:55 UTC	asaelr, Bot-Fiora, kopen, newduke, nkkarpov	2	6	30
+458702	6	0	Null (5 Suits)	2021-03-06 — 07:14:21 UTC	Bot-Fiora, corys, griff77, ksfortson, possum, xor	2	5	25
+458659	6	0	Null (5 Suits)	2021-03-06 — 06:29:19 UTC	Bot-Fiora, corys, griff77, ksfortson, possum, xor	5	5	25
+458601	4	24	Null (5 Suits)	2021-03-06 — 05:51:01 UTC	Bot-Fiora, corys, griff77, possum	26	5	25
+458554	5	25	Omni (5 Suits)	2021-03-06 — 05:08:29 UTC	Bot-Fiora, BraydonM, griff77, kinkajusrevenge, possum	11	5	25
+458519	5	0	Omni (5 Suits)	2021-03-06 — 04:39:46 UTC	Bot-Fiora, BraydonM, griff77, kinkajusrevenge, possum	13	5	25
+455108	5	0	Brown (6 Suits)	2021-03-03 — 06:37:25 UTC	Bot-Fiora, corys, griff77, lolthisnotderk, xor	21	6	30
+455085	5	30	6 Suits	2021-03-03 — 05:54:35 UTC	Bot-Fiora, corys, eliclax, griff77, xor	132	6	30
+455035	3	25	Rainbow (5 Suits)	2021-03-03 — 05:13:41 UTC	Bot-Fiora, eliclax, griff77	74	5	25
+454973	4	20	Brown (4 Suits)	2021-03-03 — 04:36:16 UTC	bjnh, Bot-Fiora, eliclax, griff77	13	4	20
+454942	5	25	Dual-Color (5 Suits)	2021-03-03 — 04:11:42 UTC	bjnh, Bot-Fiora, eliclax, griff77, torp	8	5	25
+452068	5	0	Black Reversed (6 Suits)	2021-02-28 — 18:35:28 UTC	Bot-Fiora, Fey, MangoPie, MarkusKahlsen, wortel	4	6	30
+452045	4	0	Black Reversed (6 Suits)	2021-02-28 — 18:13:23 UTC	Bot-Fiora, Fey, MangoPie, MarkusKahlsen	9	6	30
+452035	3	0	Black Reversed (6 Suits)	2021-02-28 — 18:08:03 UTC	Bot-Fiora, Fey, MangoPie	3	6	30
+452020	3	18	Rainbow & Prism (4 Suits)	2021-02-28 — 17:48:53 UTC	Bot-Fiora, Fey, jeff10	5	4	20
+452012	3	0	Rainbow & Prism (4 Suits)	2021-02-28 — 17:32:57 UTC	Bot-Fiora, Fey, jeff10	14	4	20
+452000	5	30	White-Fives & Rainbow (6 Suits)	2021-02-28 — 17:12:08 UTC	Bot-Fiora, Fey, jeff10, melwen, robense	1	6	30
+451783	6	30	Rainbow & Brown (6 Suits)	2021-02-28 — 07:06:10 UTC	Bot-Fiora, colton, griff77, ksfortson, possum, wortel	4	6	30
+451756	6	0	Rainbow & Brown (6 Suits)	2021-02-28 — 06:35:03 UTC	Bot-Fiora, colton, griff77, ksfortson, possum, wortel	4	6	30
+451735	4	0	Rainbow & Brown (6 Suits)	2021-02-28 — 06:12:35 UTC	Bot-Fiora, griff77, ksfortson, possum	14	6	30
+451698	3	30	Ambiguous (6 Suits)	2021-02-28 — 05:27:48 UTC	Bot-Fiora, griff77, possum	28	6	30
+451643	3	0	Ambiguous (6 Suits)	2021-02-28 — 04:46:50 UTC	Bot-Fiora, griff77, possum	42	6	30
+451614	3	0	Ambiguous (6 Suits)	2021-02-28 — 04:27:42 UTC	Bot-Fiora, griff77, possum	69	6	30
+451578	5	20	Cocoa Rainbow (5 Suits)	2021-02-28 — 04:04:51 UTC	4head, Bot-Fiora, griff77, robense, torp	3	5	25
+451537	5	21	Cocoa Rainbow (5 Suits)	2021-02-28 — 03:37:28 UTC	4head, Bot-Fiora, griff77, robense, torp	5	5	25
+451502	5	0	Cocoa Rainbow (5 Suits)	2021-02-28 — 03:17:02 UTC	4head, bathtubed, Bot-Fiora, griff77, robense	6	5	25
+451487	3	0	Cocoa Rainbow (5 Suits)	2021-02-28 — 03:08:40 UTC	Bot-Fiora, griff77, robense	14	5	25
+451233	4	0	Ambiguous (6 Suits)	2021-02-27 — 22:44:24 UTC	Bot-Fiora, CaitlinSmith, eljavi, Spieler42	20	6	30
+451211	5	0	Black & White (6 Suits)	2021-02-27 — 22:23:54 UTC	Bot-Fiora, CaitlinSmith, eljavi, ksfortson, Spieler42	13	6	30
+447842	4	24	Null (5 Suits)	2021-02-24 — 18:32:16 UTC	Bot-Fiora, MangoPie, newduke, vEnhance	7	5	25
+447826	4	0	Null (5 Suits)	2021-02-24 — 18:07:34 UTC	Bot-Fiora, MangoPie, newduke, vEnhance	8	5	25
+447819	4	24	Null (5 Suits)	2021-02-24 — 17:53:28 UTC	Bot-Fiora, MangoPie, newduke, vEnhance	12	5	25
+447803	4	0	Null (5 Suits)	2021-02-24 — 17:30:58 UTC	Bot-Fiora, MangoPie, newduke, vEnhance	14	5	25
+447786	5	28	Null (6 Suits)	2021-02-24 — 17:09:25 UTC	Bot-Fiora, jeff10, MangoPie, newduke, vEnhance	5	6	30
+447755	5	0	Cocoa Rainbow (6 Suits)	2021-02-24 — 16:30:29 UTC	Bot-Fiora, indego, Lel0uch, melwen, Wittvector	3	6	30
+447753	4	0	Pink & Cocoa Rainbow (6 Suits)	2021-02-24 — 16:21:31 UTC	Bot-Fiora, indego, Lel0uch, melwen	2	6	30
+444063	6	22	Brown (5 Suits)	2021-02-21 — 05:11:16 UTC	Bot-Fiora, BraydonM, griff77, nwajfromoz, otterful, rahsosprout	3	5	25
+444031	6	0	Brown (5 Suits)	2021-02-21 — 04:38:40 UTC	Bot-Fiora, BraydonM, griff77, nwajfromoz, otterful, rahsosprout	8	5	25
+443983	6	24	Brown (5 Suits)	2021-02-21 — 04:09:10 UTC	Bot-Fiora, BraydonM, griff77, nwajfromoz, otterful, rahsosprout	8	5	25
+443899	4	25	Rainbow & Prism (5 Suits)	2021-02-21 — 03:25:34 UTC	Bot-Fiora, BraydonM, griff77, otterful	16	5	25
+443814	4	25	Rainbow & White (5 Suits)	2021-02-21 — 02:39:46 UTC	Bot-Fiora, BraydonM, griff77, qqqq	23	5	25
+443757	5	22	Dark Prism (5 Suits)	2021-02-21 — 01:58:54 UTC	Bot-Fiora, griff77, HelanaAshryvr, IsabeltheCat, Lanvin	4	5	25
+443741	5	0	Pink (5 Suits)	2021-02-21 — 01:36:03 UTC	Bot-Fiora, griff77, PMP, poofart123, usnavi	20	5	25
+443608	4	0	Rainbow & Dark Pink (5 Suits)	2021-02-20 — 23:47:39 UTC	Bot-Fiora, indego, katian, Wittvector	6	5	25
+443589	3	0	Null (5 Suits)	2021-02-20 — 23:28:37 UTC	Bot-Fiora, indego, Wittvector	18	5	25
+443554	5	0	Black & Prism (5 Suits)	2021-02-20 — 23:07:55 UTC	asaelr, Bot-Fiora, eljavi, griff77, newduke	1	5	25
+443509	5	0	Dual-Color (5 Suits)	2021-02-20 — 22:40:06 UTC	Bot-Fiora, griff77, newduke, otterful, poofart123	7	5	25
+443492	5	0	Dual-Color (5 Suits)	2021-02-20 — 22:23:05 UTC	Bot-Fiora, griff77, newduke, otterful, poofart123	15	5	25
+442889	3	20	Pink (4 Suits)	2021-02-20 — 05:06:02 UTC	Bot-Fiora, griff77, ksfortson	27	4	20
+442854	3	18	Pink (4 Suits)	2021-02-20 — 04:42:54 UTC	Bot-Fiora, griff77, ksfortson	29	4	20
+442818	3	19	Pink (4 Suits)	2021-02-20 — 04:03:21 UTC	Bot-Fiora, griff77, ksfortson	59	4	20
+442788	3	25	Black (5 Suits)	2021-02-20 — 03:36:47 UTC	Bot-Fiora, griff77, ksfortson	31	5	25
+442769	3	0	Black (5 Suits)	2021-02-20 — 03:18:24 UTC	Bot-Fiora, griff77, ksfortson	84	5	25
+442752	3	22	Black (5 Suits)	2021-02-20 — 03:05:18 UTC	Bot-Fiora, griff77, ksfortson	119	5	25
+442728	4	20	Rainbow (4 Suits)	2021-02-20 — 02:40:54 UTC	Bot-Fiora, DarthGandalf, griff77, ksfortson	6	4	20
+442693	4	18	Rainbow (4 Suits)	2021-02-20 — 02:15:59 UTC	Bot-Fiora, DarthGandalf, griff77, ksfortson	11	4	20
+442655	4	0	Rainbow (4 Suits)	2021-02-20 — 01:57:19 UTC	Bot-Fiora, DarthGandalf, griff77, ksfortson	32	4	20
+442597	3	23	Rainbow (5 Suits)	2021-02-20 — 01:32:54 UTC	Bot-Fiora, DarthGandalf, griff77	135	5	25
+442484	5	0	Pink (4 Suits)	2021-02-20 — 00:26:38 UTC	Bot-Fiora, indego, kevincaseytdk1, rz, Wittvector	3	4	20
+442344	6	23	Dark Brown (5 Suits)	2021-02-19 — 22:14:24 UTC	4head, Bot-Fiora, emilyzhao, indego, MarkusKahlsen, squidgetx	3	5	25
+442260	4	0	No Variant	2021-02-19 — 21:14:14 UTC	banjoleb, Bot-Fiora, Kyle, MangoPie	14	5	25
+442223	4	28	White (6 Suits)	2021-02-19 — 20:49:26 UTC	Bot-Fiora, Denchulitas, MangoPie, robense	10	6	30
+442173	5	0	Ambiguous (4 Suits)	2021-02-19 — 20:13:46 UTC	Bot-Fiora, Denchulitas, Lanvin, MangoPie, rz	8	4	20
+442000	4	0	Omni (6 Suits)	2021-02-19 — 16:02:33 UTC	Bot-Fiora, MangoPie, qqqq, Wittvector	9	6	30
+441986	4	0	Omni (6 Suits)	2021-02-19 — 15:33:53 UTC	Bot-Fiora, MangoPie, qqqq, Wittvector	33	6	30
+441672	5	30	White (6 Suits)	2021-02-19 — 04:54:58 UTC	Bot-Fiora, dobi, HelanaAshryvr, newduke, squirrel1988	37	6	30
+439650	6	0	Prism (5 Suits)	2021-02-17 — 03:38:15 UTC	4head, Bot-Fiora, griff77, ksfortson, nwajfromoz, padi	2	5	25
+439639	5	0	Prism (4 Suits)	2021-02-17 — 03:21:10 UTC	4head, Bot-Fiora, griff77, ksfortson, nwajfromoz	7	4	20
+439634	5	0	Prism (4 Suits)	2021-02-17 — 03:17:36 UTC	4head, Bot-Fiora, griff77, ksfortson, nwajfromoz	7	4	20
+439624	5	0	Prism (4 Suits)	2021-02-17 — 03:00:49 UTC	4head, Bot-Fiora, griff77, ksfortson, nwajfromoz	6	4	20
+439618	5	18	Prism (4 Suits)	2021-02-17 — 02:49:48 UTC	4head, Bot-Fiora, griff77, ksfortson, nwajfromoz	10	4	20
+439608	4	0	Black & White (6 Suits)	2021-02-17 — 02:27:27 UTC	bjnh, Bot-Fiora, kopen, voss	24	6	30
+439593	5	0	Black & Prism (5 Suits)	2021-02-17 — 02:07:23 UTC	4head, Bot-Fiora, griff77, nwajfromoz, qqqq	1	5	25
+438247	5	24	White & Brown (5 Suits)	2021-02-15 — 18:45:19 UTC	Bot-Fiora, frosty104, indego, thejazzagent, voss	1	5	25
+438209	5	30	Rainbow & White (6 Suits)	2021-02-15 — 18:12:19 UTC	Bot-Fiora, frosty104, indego, thejazzagent, voss	11	6	30
+438178	5	29	Rainbow & White (6 Suits)	2021-02-15 — 17:42:04 UTC	Bot-Fiora, frosty104, indego, thejazzagent, voss	14	6	30
+438144	6	29	Rainbow (6 Suits)	2021-02-15 — 16:47:41 UTC	4head, BananaBum, Bot-Fiora, ChristopheAF, griff77, Spieler42	23	6	30
+438105	6	0	Rainbow (6 Suits)	2021-02-15 — 15:57:34 UTC	4head, BananaBum, Bot-Fiora, ChristopheAF, griff77, Spieler42	60	6	30
+438086	6	24	Muddy-Rainbow-Ones & White (5 Suits)	2021-02-15 — 15:26:26 UTC	Bot-Fiora, indego, Pablo-, robense, sephiroth, VerySloppyTwo	1	5	25
+436464	5	0	Ambiguous (6 Suits)	2021-02-14 — 04:54:48 UTC	4head, Bot-Fiora, frosty104, katian, melwen	3	6	30
+436435	5	0	Ambiguous (6 Suits)	2021-02-14 — 04:30:58 UTC	4head, Bot-Fiora, frosty104, katian, melwen	4	6	30
+436412	5	0	Ambiguous (6 Suits)	2021-02-14 — 04:14:23 UTC	4head, Bot-Fiora, frosty104, katian, melwen	8	6	30
+436354	5	0	Ambiguous (6 Suits)	2021-02-14 — 03:28:30 UTC	4head, Bot-Fiora, frosty104, katian, melwen	9	6	30
+436322	5	0	Ambiguous (6 Suits)	2021-02-14 — 02:51:21 UTC	4head, Bot-Fiora, frosty104, katian, melwen	12	6	30
+436296	4	29	Ambiguous (6 Suits)	2021-02-14 — 02:22:47 UTC	4head, Bot-Fiora, katian, melwen	32	6	30
+436244	4	29	Ambiguous (6 Suits)	2021-02-14 — 01:43:28 UTC	Bot-Fiora, Lanvin, melwen, Pimak	40	6	30
+436211	5	0	Ambiguous (6 Suits)	2021-02-14 — 01:06:42 UTC	4head, Bot-Fiora, Lanvin, melwen, Pimak	14	6	30
+436185	5	0	Ambiguous (6 Suits)	2021-02-14 — 00:41:04 UTC	4head, Bot-Fiora, Lanvin, melwen, Pimak	18	6	30
+436162	5	28	Ambiguous (6 Suits)	2021-02-14 — 00:18:51 UTC	4head, Bot-Fiora, Lanvin, melwen, Pimak	19	6	30
+436137	3	0	White-Fives & Light Pink (5 Suits)	2021-02-13 — 23:38:18 UTC	Bot-Fiora, Lanvin, Pimak	1	5	25
+435959	5	0	Light Pink & Dark Brown (6 Suits)	2021-02-13 — 20:30:33 UTC	4head, Bot-Fiora, griff77, nkkarpov, torp	1	6	30
+435930	5	0	Light Pink & Dark Brown (6 Suits)	2021-02-13 — 20:08:55 UTC	4head, Bot-Fiora, griff77, nkkarpov, torp	1	6	30
+435921	5	0	Light Pink & Dark Brown (6 Suits)	2021-02-13 — 20:02:11 UTC	4head, Bot-Fiora, griff77, nkkarpov, torp	1	6	30
+435910	5	0	Light Pink & Dark Brown (6 Suits)	2021-02-13 — 19:49:54 UTC	4head, Bot-Fiora, griff77, nkkarpov, torp	2	6	30
+435876	5	22	White-Ones & White (5 Suits)	2021-02-13 — 19:22:01 UTC	Bot-Fiora, Denchulitas, griff77, nkkarpov, torp	6	5	25
+435852	4	24	Black & Pink (5 Suits)	2021-02-13 — 18:51:56 UTC	Bot-Fiora, griff77, rz, torp	13	5	25
+435824	4	21	Black & Pink (5 Suits)	2021-02-13 — 18:18:19 UTC	Bot-Fiora, griff77, rz, torp	16	5	25
+435804	3	25	White-Ones & Prism (5 Suits)	2021-02-13 — 17:47:33 UTC	asaelr, Bot-Fiora, torp	2	5	25
+435793	3	0	White-Ones & Prism (5 Suits)	2021-02-13 — 17:23:00 UTC	asaelr, Bot-Fiora, torp	3	5	25
+435189	5	24	Pink (5 Suits)	2021-02-13 — 03:54:14 UTC	4head, Bot-Fiora, griff77, nwajfromoz, torp	10	5	25
+435150	5	0	Pink (5 Suits)	2021-02-13 — 03:30:32 UTC	4head, Bot-Fiora, griff77, nwajfromoz, torp	11	5	25
+435126	5	25	White & Brown (5 Suits)	2021-02-13 — 03:11:54 UTC	4head, Bot-Fiora, griff77, otterful, torp	6	5	25
+435096	5	0	Black & Brown (5 Suits)	2021-02-13 — 02:48:41 UTC	4head, Bot-Fiora, griff77, otterful, torp	5	5	25
+435085	5	0	Black & Brown (5 Suits)	2021-02-13 — 02:39:54 UTC	4head, Bot-Fiora, griff77, otterful, torp	6	5	25
+435077	5	20	Black & Brown (5 Suits)	2021-02-13 — 02:33:00 UTC	4head, Bot-Fiora, griff77, otterful, torp	7	5	25
+435055	4	0	Black & Brown (5 Suits)	2021-02-13 — 02:12:44 UTC	Bot-Fiora, griff77, otterful, torp	10	5	25
+435027	4	0	Black & Brown (5 Suits)	2021-02-13 — 01:56:51 UTC	Bot-Fiora, griff77, otterful, torp	13	5	25
+434196	4	19	Brown (4 Suits)	2021-02-12 — 05:57:28 UTC	4head, Bot-Fiora, newduke, rahsosprout	7	4	20
+434179	4	18	Brown (4 Suits)	2021-02-12 — 05:33:38 UTC	4head, Bot-Fiora, newduke, rahsosprout	9	4	20
+434158	5	0	Brown & Prism (5 Suits)	2021-02-12 — 05:10:51 UTC	Bot-Fiora, indego, newduke, rahsosprout, vEnhance	1	5	25
+434140	5	0	Brown & Prism (5 Suits)	2021-02-12 — 04:54:57 UTC	Bot-Fiora, indego, newduke, rahsosprout, vEnhance	3	5	25
+434122	5	0	Brown & Prism (5 Suits)	2021-02-12 — 04:37:06 UTC	Bot-Fiora, indego, newduke, rahsosprout, vEnhance	4	5	25
+434074	3	23	Null (5 Suits)	2021-02-12 — 04:05:30 UTC	bjnh, Bot-Fiora, vEnhance	27	5	25
+434026	3	24	Null (5 Suits)	2021-02-12 — 03:34:02 UTC	bjnh, Bot-Fiora, vEnhance	40	5	25
+433980	6	21	Black & White (5 Suits)	2021-02-12 — 03:02:38 UTC	avanderwalde, Bot-Fiora, dobi, indego, newduke, rkass	2	5	25
+433921	6	0	Black & White (5 Suits)	2021-02-12 — 02:34:08 UTC	avanderwalde, Bot-Fiora, dobi, indego, newduke, rkass	2	5	25
+433861	4	30	Gray (6 Suits)	2021-02-12 — 01:57:52 UTC	avanderwalde, Bot-Fiora, indego, rkass	18	6	30
+433818	5	21	Gray Pink (5 Suits)	2021-02-12 — 01:12:22 UTC	bjnh, Bot-Fiora, indego, Lanvin, TheDaniMan	4	5	25
+433782	5	25	Muddy Rainbow (5 Suits)	2021-02-12 — 00:44:32 UTC	bjnh, Bot-Fiora, Lanvin, Onen, TheDaniMan	4	5	25
+433763	5	0	Dark Rainbow (6 Suits)	2021-02-12 — 00:25:24 UTC	bjnh, Bot-Fiora, Lanvin, Onen, TheDaniMan	14	6	30
+433740	4	21	White & Gray Pink (5 Suits)	2021-02-12 — 00:03:32 UTC	Bot-Fiora, melwen, Nitrate2, sephiroth	1	5	25
+433716	6	30	Light Pink (6 Suits)	2021-02-11 — 23:29:58 UTC	Bot-Fiora, indego, Lanvin, Nitrate2, Pimak, sephiroth	1	6	30
+433182	4	25	Light Pink (5 Suits)	2021-02-11 — 06:10:50 UTC	4head, Bot-Fiora, newduke, Onen	20	5	25
+433161	5	22	Null (5 Suits)	2021-02-11 — 05:45:01 UTC	4head, Bot-Fiora, newduke, Onen, torp	9	5	25
+433152	5	24	Null (5 Suits)	2021-02-11 — 05:17:24 UTC	4head, Bot-Fiora, newduke, Onen, torp	11	5	25
+433127	3	0	Null (5 Suits)	2021-02-11 — 04:42:56 UTC	Bot-Fiora, newduke, vEnhance	32	5	25
+433096	3	0	Null (5 Suits)	2021-02-11 — 04:20:29 UTC	Bot-Fiora, newduke, vEnhance	36	5	25
+433087	3	0	Null (5 Suits)	2021-02-11 — 04:13:10 UTC	Bot-Fiora, newduke, vEnhance	54	5	25
+433074	3	0	Up or Down & Null (5 Suits)	2021-02-11 — 03:58:53 UTC	Bot-Fiora, newduke, vEnhance	2	5	25
+432551	4	23	No Variant	2021-02-10 — 20:32:23 UTC	Bot-Fiora, indego, InflatableKayak, Zahard	131	5	25
+432507	4	0	No Variant	2021-02-10 — 20:07:36 UTC	Bot-Fiora, indego, InflatableKayak, Zahard	138	5	25
+432487	4	0	No Variant	2021-02-10 — 19:50:39 UTC	Bot-Fiora, indego, InflatableKayak, Zahard	190	5	25
+432476	5	0	Brown-Ones & White (5 Suits)	2021-02-10 — 19:29:34 UTC	Bot-Fiora, ChristopheAF, InflatableKayak, Lanvin, Onen	2	5	25
+432461	3	0	Omni-Fives & White (5 Suits)	2021-02-10 — 19:03:14 UTC	Bot-Fiora, Onen, torp	1	5	25
+432456	3	0	Omni-Fives & White (5 Suits)	2021-02-10 — 18:58:22 UTC	Bot-Fiora, Onen, torp	2	5	25
+432444	3	0	Omni-Fives & White (5 Suits)	2021-02-10 — 18:46:31 UTC	Bot-Fiora, Onen, torp	2	5	25
+432432	3	25	Prism (5 Suits)	2021-02-10 — 18:33:56 UTC	Bot-Fiora, Onen, torp	19	5	25
+432414	4	20	4 Suits	2021-02-10 — 18:09:32 UTC	Bot-Fiora, Espen, griff77, HariKrishnan	101	4	20
+432379	4	0	No Variant	2021-02-10 — 17:41:06 UTC	ADrone, Bot-Fiora, eljavi, HariKrishnan	95	5	25
+431938	4	0	Dark Rainbow (5 Suits)	2021-02-10 — 05:53:16 UTC	4head, Bot-Fiora, griff77, lolthisnotderk	20	5	25
+431931	4	0	Dark Rainbow (5 Suits)	2021-02-10 — 05:40:40 UTC	4head, Bot-Fiora, griff77, lolthisnotderk	19	5	25
+431918	4	0	Dark Rainbow (5 Suits)	2021-02-10 — 05:15:03 UTC	4head, Bot-Fiora, griff77, lolthisnotderk	24	5	25
+431901	4	0	Dark Rainbow (5 Suits)	2021-02-10 — 04:52:31 UTC	4head, Bot-Fiora, griff77, lolthisnotderk	23	5	25
+431860	3	25	Brown (5 Suits)	2021-02-10 — 04:08:32 UTC	Bot-Fiora, griff77, IsabeltheCat	39	5	25
+431816	6	0	Black (6 Suits)	2021-02-10 — 03:32:50 UTC	BlueNovember, Bot-Fiora, griff77, IsabeltheCat, lolthisnotderk, Nitrate	15	6	30
+431774	6	25	Rainbow (5 Suits)	2021-02-10 — 02:54:32 UTC	BlueNovember, Bot-Fiora, griff77, lolthisnotderk, Nitrate, stardust	7	5	25
+431723	4	0	Rainbow (5 Suits)	2021-02-10 — 02:03:34 UTC	Bot-Fiora, griff77, Nitrate, stardust	92	5	25
+431684	5	0	Rainbow (5 Suits)	2021-02-10 — 01:28:57 UTC	Bot-Fiora, griff77, Nitrate, poofart123, stardust	26	5	25
+431540	4	29	Up or Down (6 Suits)	2021-02-09 — 22:32:47 UTC	4head, Bot-Fiora, Kernel, Pimak	8	6	30
+431496	4	0	Up or Down (6 Suits)	2021-02-09 — 22:03:25 UTC	4head, Bot-Fiora, Kernel, Pimak	9	6	30
+430758	4	30	Up or Down (6 Suits)	2021-02-09 — 03:17:20 UTC	Bot-Fiora, micerang, newduke, rahsosprout	10	6	30
+429793	3	0	Pink & Omni (5 Suits)	2021-02-08 — 09:40:55 UTC	Bot-Fiora, indego, pianoblook	3	5	25
+429782	4	0	Rainbow-Ones & Prism (5 Suits)	2021-02-08 — 09:18:17 UTC	Bot-Fiora, melwen, pianoblook, Wittvector	1	5	25
+429775	4	0	Rainbow-Ones & Prism (5 Suits)	2021-02-08 — 08:52:52 UTC	Bot-Fiora, melwen, pianoblook, Wittvector	1	5	25
+429768	5	0	Special Mix (5 Suits)	2021-02-08 — 08:29:41 UTC	Bot-Fiora, Lel0uch, melwen, pianoblook, Wittvector	3	5	25
+429757	5	0	Dark Brown (6 Suits)	2021-02-08 — 07:53:13 UTC	Bot-Fiora, Lel0uch, melwen, pianoblook, Wittvector	6	6	30
+429724	4	25	White & Prism (5 Suits)	2021-02-08 — 06:15:48 UTC	Bot-Fiora, dobi, eljavi, TimeHoodie	1	5	25
+429715	4	0	White & Prism (6 Suits)	2021-02-08 — 05:58:31 UTC	Bot-Fiora, dobi, indego, pianoblook	10	6	30
+429659	5	23	White (5 Suits)	2021-02-08 — 04:43:27 UTC	Bot-Fiora, colton, hailey, kinkajusrevenge, rahsosprout	21	5	25
+429582	4	25	No Variant	2021-02-08 — 03:12:46 UTC	Bot-Fiora, Doge, indego, InflatableKayak	198	5	25
+429565	4	0	No Variant	2021-02-08 — 02:52:49 UTC	Bot-Fiora, Doge, indego, InflatableKayak	278	5	25
+429545	5	0	Rainbow-Ones & White (6 Suits)	2021-02-08 — 02:27:53 UTC	4head, Bot-Fiora, Lanvin, melwen, TimeHoodie	3	6	30
+429529	5	0	Black & Light Pink (5 Suits)	2021-02-08 — 02:03:43 UTC	Bot-Fiora, dobi, Lanvin, melwen, TimeHoodie	1	5	25
+427875	4	23	Pink & Omni (5 Suits)	2021-02-06 — 19:19:31 UTC	bjnh, Bot-Fiora, indego, MangoPie	6	5	25
+424614	6	20	Rainbow (4 Suits)	2021-02-03 — 22:13:04 UTC	Bot-Fiora, Denchulitas, dobi, jack67889, Lanvin, newduke	1	4	20
+424596	6	0	Rainbow (4 Suits)	2021-02-03 — 21:52:52 UTC	Bot-Fiora, Denchulitas, dobi, jack67889, Lanvin, newduke	1	4	20
+424565	5	0	Up or Down (5 Suits)	2021-02-03 — 21:32:16 UTC	Bot-Fiora, Kyle, newduke, nkkarpov, TimeHoodie	1	5	25
+424540	5	23	Up or Down (5 Suits)	2021-02-03 — 21:13:58 UTC	Bot-Fiora, Kyle, newduke, nkkarpov, TimeHoodie	4	5	25
+424521	4	14	3 Suits	2021-02-03 — 20:50:03 UTC	Bot-Fiora, newduke, Spieler42, TimeHoodie	13	3	15
+424492	4	0	3 Suits	2021-02-03 — 20:35:25 UTC	Bot-Fiora, newduke, Spieler42, TimeHoodie	20	3	15
+424412	4	23	No Variant	2021-02-03 — 19:59:33 UTC	4head, Bot-Fiora, Denchulitas, eljavi	52	5	25
+424270	5	0	No Variant	2021-02-03 — 18:56:33 UTC	4head, banjoleb, Bot-Fiora, griff77, knaphill	67	5	25
+424214	4	25	No Variant	2021-02-03 — 18:24:04 UTC	4head, Bot-Fiora, CaitlinSmith, Onen	52	5	25
+424211	2	0	Null (6 Suits)	2021-02-03 — 18:19:21 UTC	Bot-Fiora, bot_21	91	6	30
+424191	4	0	No Variant	2021-02-03 — 18:06:58 UTC	Bot-Fiora, bot_23, MathNoob, quadrocket	3581	5	25
+424166	3	0	No Variant	2021-02-03 — 17:21:36 UTC	Bot-Fiora, bot_13, trace888	4221	5	25
+424164	2	0	No Variant	2021-02-03 — 17:18:19 UTC	Bot-Fiora, cardgame	5374	5	25
+423399	3	25	White & Brown (5 Suits)	2021-02-02 — 22:39:26 UTC	4head, Bot-Fiora, rahsosprout	10	5	25
+423361	6	0	Rainbow & Brown (5 Suits)	2021-02-02 — 22:09:08 UTC	4head, Bot-Fiora, ChristopheAF, Denchulitas, PMP, rahsosprout	4	5	25
+423280	4	0	Dark Rainbow (6 Suits)	2021-02-02 — 21:12:44 UTC	Bot-Fiora, ChristopheAF, MarkusKahlsen, XMIL	41	6	30
+423255	6	0	Light-Pink-Ones & White (6 Suits)	2021-02-02 — 20:52:25 UTC	Bot-Fiora, ChristopheAF, Lanvin, MangoPie, sin_faith, TimeHoodie	1	6	30
+423230	6	0	Light-Pink-Ones & White (6 Suits)	2021-02-02 — 20:30:14 UTC	Bot-Fiora, ChristopheAF, Lanvin, MangoPie, sin_faith, TimeHoodie	1	6	30
+423219	6	0	Light-Pink-Ones & White (6 Suits)	2021-02-02 — 20:19:38 UTC	Bot-Fiora, ChristopheAF, Lanvin, MangoPie, sin_faith, TimeHoodie	1	6	30
+423207	5	0	Pink (6 Suits)	2021-02-02 — 20:10:13 UTC	Bot-Fiora, ChristopheAF, Kernel, MangoPie, sin_faith	18	6	30
+423190	5	28	Pink (6 Suits)	2021-02-02 — 19:53:41 UTC	Bot-Fiora, ChristopheAF, Kernel, MangoPie, sin_faith	29	6	30
+423146	6	25	Rainbow (5 Suits)	2021-02-02 — 19:24:11 UTC	Bot-Fiora, ChristopheAF, Kernel, MangoPie, PMP, sin_faith	14	5	25
+423121	6	0	Rainbow (5 Suits)	2021-02-02 — 19:08:27 UTC	Bot-Fiora, ChristopheAF, Kernel, MangoPie, PMP, sin_faith	15	5	25
+423112	4	30	Pink & Brown (6 Suits)	2021-02-02 — 18:57:13 UTC	Bot-Fiora, ChristopheAF, MangoPie, Pablo-	13	6	30
+423095	4	0	Pink & Brown (6 Suits)	2021-02-02 — 18:28:58 UTC	Bot-Fiora, ChristopheAF, MangoPie, Pablo-	13	6	30
+423066	5	29	White-Fives & White (6 Suits)	2021-02-02 — 17:49:51 UTC	Bot-Fiora, ChristopheAF, Lanvin, MangoPie, Pablo-	2	6	30
+423042	3	30	White-Ones & Brown (6 Suits)	2021-02-02 — 17:16:17 UTC	Bot-Fiora, Lanvin, MangoPie	3	6	30
+423024	4	24	Omni-Fives & Pink (5 Suits)	2021-02-02 — 16:43:10 UTC	Bot-Fiora, Lanvin, MangoPie, Wittvector	2	5	25
+422800	3	0	Dark Rainbow (6 Suits)	2021-02-02 — 06:08:02 UTC	Bot-Fiora, eljavi, nkkarpov	62	6	30
+422781	5	0	Black (6 Suits)	2021-02-02 — 05:20:26 UTC	Bot-Fiora, eljavi, ksfortson, newduke, nkkarpov	23	6	30
+422765	5	26	Black (6 Suits)	2021-02-02 — 04:48:32 UTC	Bot-Fiora, eljavi, ksfortson, newduke, nkkarpov	21	6	30
+422738	5	0	Black (6 Suits)	2021-02-02 — 04:10:48 UTC	Bot-Fiora, eljavi, ksfortson, newduke, nkkarpov	21	6	30
+422718	6	19	Brown (4 Suits)	2021-02-02 — 03:46:57 UTC	Bot-Fiora, indego, jeff10, ksfortson, newduke, nkkarpov	2	4	20
+422689	3	20	Brown (4 Suits)	2021-02-02 — 03:10:53 UTC	Bot-Fiora, dobi, jeff10	47	4	20
+422340	4	20	Throw It in a Hole & Brown (4 Suits)	2021-02-01 — 21:00:05 UTC	Bot-Fiora, Lanvin, rachyrules, TimeHoodie	1	4	20
+422320	4	0	Throw It in a Hole & Brown (4 Suits)	2021-02-01 — 20:41:41 UTC	Bot-Fiora, Lanvin, rachyrules, robense	1	4	20
+422304	3	0	Pink-Ones & Rainbow (6 Suits)	2021-02-01 — 20:20:29 UTC	arnino, Bot-Fiora, Lanvin	1	6	30
+422285	3	0	Pink-Ones & Rainbow (6 Suits)	2021-02-01 — 20:00:49 UTC	arnino, Bot-Fiora, Lanvin	1	6	30
+422263	3	0	Pink-Ones & Rainbow (6 Suits)	2021-02-01 — 19:37:28 UTC	arnino, Bot-Fiora, Lanvin	2	6	30
+422214	5	23	Pink & Dark Rainbow (5 Suits)	2021-02-01 — 18:43:07 UTC	Bot-Fiora, Lanvin, rachyrules, rz, sephiroth	1	5	25
+422198	5	0	Pink & Dark Rainbow (5 Suits)	2021-02-01 — 18:13:29 UTC	Bot-Fiora, Lanvin, rachyrules, rz, sephiroth	2	5	25
+422192	4	25	Rainbow-Ones & Pink (5 Suits)	2021-02-01 — 17:54:52 UTC	Bot-Fiora, Kernel, Lanvin, rz	6	5	25
+422181	5	30	Reversed (6 Suits)	2021-02-01 — 17:24:12 UTC	Bot-Fiora, Fey, Lanvin, MarkusKahlsen, sin_faith	2	6	30
+421631	4	25	Brown (5 Suits)	2021-02-01 — 01:06:53 UTC	Bot-Fiora, louietyj, otterful, torp	19	5	25
+421613	5	22	Brown & Prism (5 Suits)	2021-02-01 — 00:41:00 UTC	Bot-Fiora, louietyj, otterful, rahsosprout, torp	3	5	25
+421592	5	0	Brown & Prism (5 Suits)	2021-02-01 — 00:20:40 UTC	Bot-Fiora, louietyj, otterful, rahsosprout, torp	5	5	25
+421571	5	0	Brown & Prism (5 Suits)	2021-02-01 — 00:06:10 UTC	Bot-Fiora, louietyj, otterful, rahsosprout, torp	4	5	25
+421557	5	25	No Variant	2021-01-31 — 23:55:41 UTC	Bot-Fiora, louietyj, otterful, tenbens1010, torp	344	5	25
+421520	4	25	No Variant	2021-01-31 — 23:34:58 UTC	Bot-Fiora, otterful, tenbens1010, torp	162	5	25
+421494	4	0	Dark Rainbow (6 Suits)	2021-01-31 — 23:20:38 UTC	Bot-Fiora, Lanvin, nkkarpov, wump	53	6	30
+421460	6	23	No Variant	2021-01-31 — 22:44:37 UTC	Bot-Fiora, Daryl, Denchulitas, Doge, ksfortson, MarcLovesDogs	17	5	25
+421420	6	0	No Variant	2021-01-31 — 22:09:42 UTC	Bot-Fiora, Daryl, Denchulitas, Doge, ksfortson, MarcLovesDogs	18	5	25
+421399	6	24	Rainbow (5 Suits)	2021-01-31 — 21:46:03 UTC	Bot-Fiora, Daryl, frosty104, knaphill, Lanvin, MarcLovesDogs	7	5	25
+421372	6	0	Black & White (6 Suits)	2021-01-31 — 21:21:51 UTC	Bot-Fiora, Daryl, Denchulitas, frosty104, knaphill, MarcLovesDogs	4	6	30
+421360	5	0	Brown-Ones & Brown (6 Suits)	2021-01-31 — 21:09:05 UTC	Bot-Fiora, frosty104, indego, Lanvin, VerySloppyTwo	1	6	30
+421343	5	0	Brown-Ones & Brown (6 Suits)	2021-01-31 — 20:51:11 UTC	Bot-Fiora, frosty104, indego, Lanvin, VerySloppyTwo	2	6	30
+421330	5	0	Brown-Ones & Brown (6 Suits)	2021-01-31 — 20:38:29 UTC	Bot-Fiora, frosty104, indego, Lanvin, VerySloppyTwo	2	6	30
+421310	4	0	Dark Omni (5 Suits)	2021-01-31 — 20:22:44 UTC	Bot-Fiora, frosty104, indego, Lanvin	9	5	25
+421290	4	0	Dark Omni (5 Suits)	2021-01-31 — 19:55:15 UTC	Bot-Fiora, frosty104, indego, Lanvin	9	5	25
+421246	6	29	Black & Brown (6 Suits)	2021-01-31 — 18:42:43 UTC	4head, Bot-Fiora, Kernel, Lanvin, MarcLovesDogs, VerySloppyTwo	3	6	30
+421228	6	0	Black & Brown (6 Suits)	2021-01-31 — 18:21:01 UTC	4head, Bot-Fiora, Kernel, Lanvin, MarcLovesDogs, VerySloppyTwo	4	6	30
+421214	4	30	Gray Pink (6 Suits)	2021-01-31 — 18:03:35 UTC	Bot-Fiora, ChristopheAF, Lanvin, MarkusKahlsen	12	6	30
+421203	5	0	Rainbow & Pink (6 Suits)	2021-01-31 — 17:37:11 UTC	Bot-Fiora, ChristopheAF, frosty104, Lanvin, Lel0uch	8	6	30
+421189	5	0	Rainbow & Pink (6 Suits)	2021-01-31 — 17:14:52 UTC	Bot-Fiora, Fey, frosty104, Lanvin, Lel0uch	8	6	30
+421172	5	29	Rainbow & Pink (6 Suits)	2021-01-31 — 16:45:56 UTC	Bot-Fiora, Fey, frosty104, Lanvin, Lel0uch	10	6	30
+421157	3	30	Light Pink (6 Suits)	2021-01-31 — 16:17:02 UTC	Bot-Fiora, Fey, Lanvin	4	6	30
+420233	4	30	White-Ones & Rainbow (6 Suits)	2021-01-30 — 22:20:24 UTC	Bot-Fiora, Lanvin, poofart123, torp	1	6	30
+420204	4	0	White-Ones & Rainbow (6 Suits)	2021-01-30 — 22:03:05 UTC	Bot-Fiora, Lanvin, poofart123, torp	1	6	30
+420180	4	0	White-Ones & Rainbow (6 Suits)	2021-01-30 — 21:51:00 UTC	Bot-Fiora, Lanvin, poofart123, torp	1	6	30
+420127	5	20	Brown-Ones (4 Suits)	2021-01-30 — 21:25:50 UTC	4head, Bot-Fiora, Lanvin, rahsosprout, VerySloppyTwo	1	4	20
+420082	5	0	Brown-Ones (4 Suits)	2021-01-30 — 21:02:15 UTC	4head, Bot-Fiora, Lanvin, rahsosprout, VerySloppyTwo	1	4	20
+420054	3	24	Prism (5 Suits)	2021-01-30 — 20:44:45 UTC	Bot-Fiora, nkkarpov, torp	22	5	25
+420021	3	0	Prism (5 Suits)	2021-01-30 — 20:21:51 UTC	Bot-Fiora, nkkarpov, torp	24	5	25
+419556	4	0	No Variant	2021-01-30 — 04:58:36 UTC	4head, Bot-Fiora, katian, rahsosprout	55	5	25
+419492	4	0	No Variant	2021-01-30 — 04:25:52 UTC	4head, Bot-Fiora, katian, rahsosprout	54	5	25
+419451	4	0	No Variant	2021-01-30 — 04:03:50 UTC	4head, Bot-Fiora, katian, rahsosprout	61	5	25
+419379	4	23	No Variant	2021-01-30 — 03:32:19 UTC	Bot-Fiora, griff77, rahsosprout, TimeHoodie	156	5	25
+418382	5	24	Prism (5 Suits)	2021-01-29 — 05:43:38 UTC	4head, Bot-Fiora, MangoPie, newduke, RaKXeR	13	5	25
+418313	5	0	Brown-Ones & White (5 Suits)	2021-01-29 — 04:29:12 UTC	aquarelle, Bot-Fiora, FerKeth, HelanaAshryvr, Lanvin	3	5	25
+418280	5	16	Brown-Ones (4 Suits)	2021-01-29 — 04:06:01 UTC	aquarelle, Bot-Fiora, FerKeth, HelanaAshryvr, Lanvin	1	4	20
+418251	3	0	Brown-Ones & Rainbow (6 Suits)	2021-01-29 — 03:36:22 UTC	Bot-Fiora, HelanaAshryvr, Lanvin	1	6	30
+418234	4	0	Dual-Color & White (6 Suits)	2021-01-29 — 03:18:55 UTC	Bot-Fiora, Lanvin, nwajfromoz, TimeHoodie	8	6	30
+418210	3	0	Dual-Color (6 Suits)	2021-01-29 — 02:58:19 UTC	Bot-Fiora, Lanvin, TimeHoodie	66	6	30
+418178	6	29	White-Ones & Rainbow (6 Suits)	2021-01-29 — 02:38:13 UTC	Bot-Fiora, dobi, HelanaAshryvr, Lanvin, MangoPie, TimeHoodie	1	6	30
+418141	6	0	White-Ones & Rainbow (6 Suits)	2021-01-29 — 02:08:03 UTC	Bot-Fiora, dobi, HelanaAshryvr, Lanvin, MangoPie, TimeHoodie	1	6	30
+418115	6	30	Brown-Ones (6 Suits)	2021-01-29 — 01:38:15 UTC	Bot-Fiora, hailey, HelanaAshryvr, Lanvin, MangoPie, TimeHoodie	1	6	30
+418103	4	0	No Variant	2021-01-29 — 01:09:15 UTC	Bot-Fiora, DarthGandalf, nkkarpov, rahsosprout	308	5	25
+418093	6	0	No Variant	2021-01-29 — 00:46:25 UTC	4head, Bot-Fiora, caña, DarthGandalf, nkkarpov, rahsosprout	42	5	25
+418084	3	0	No Variant	2021-01-29 — 00:23:41 UTC	Bot-Fiora, DarthGandalf, nkkarpov	1881	5	25
+418065	3	22	No Variant	2021-01-29 — 00:00:17 UTC	Bot-Fiora, DarthGandalf, nkkarpov	2163	5	25
+415985	3	0	Rainbow (5 Suits)	2021-01-27 — 02:49:23 UTC	Bot-Fiora, griff77, nwajfromoz	185	5	25
+415952	4	0	Rainbow & Pink (5 Suits)	2021-01-27 — 02:13:15 UTC	aquarelle, Bot-Fiora, HelanaAshryvr, Lanvin	9	5	25
+415931	4	0	Rainbow & Pink (5 Suits)	2021-01-27 — 01:49:18 UTC	aquarelle, Bot-Fiora, HelanaAshryvr, Lanvin	10	5	25
+415918	4	0	Rainbow & Pink (5 Suits)	2021-01-27 — 01:32:56 UTC	aquarelle, Bot-Fiora, HelanaAshryvr, Lanvin	14	5	25
+415899	3	0	Rainbow & Pink (6 Suits)	2021-01-27 — 01:10:05 UTC	Bot-Fiora, HelanaAshryvr, Lanvin	39	6	30
+415885	4	23	Brown-Ones & Rainbow (5 Suits)	2021-01-27 — 00:49:34 UTC	bjnh, Bot-Fiora, HelanaAshryvr, Lanvin	3	5	25
+415868	5	0	Dark Brown (6 Suits)	2021-01-27 — 00:25:21 UTC	bjnh, Bot-Fiora, dobi, HelanaAshryvr, Lanvin	9	6	30
+415854	4	15	White (3 Suits)	2021-01-26 — 23:59:15 UTC	aquarelle, Bot-Fiora, HelanaAshryvr, Lanvin	27	3	15
+415841	3	0	Dark Rainbow (5 Suits)	2021-01-26 — 23:42:11 UTC	4head, Bot-Fiora, 火花	24	5	25
+415835	3	0	Dark Rainbow (5 Suits)	2021-01-26 — 23:34:29 UTC	4head, Bot-Fiora, 火花	29	5	25
+415832	3	0	Dark Rainbow (5 Suits)	2021-01-26 — 23:28:34 UTC	4head, Bot-Fiora, 火花	31	5	25
+415826	3	0	Dark Rainbow (5 Suits)	2021-01-26 — 23:24:26 UTC	4head, Bot-Fiora, 火花	35	5	25
+415819	3	22	Dark Rainbow (5 Suits)	2021-01-26 — 23:15:17 UTC	4head, Bot-Fiora, 火花	36	5	25
+415797	3	0	Dark Rainbow (5 Suits)	2021-01-26 — 22:55:01 UTC	4head, Bot-Fiora, 火花	48	5	25
+415770	3	0	Dark Rainbow (5 Suits)	2021-01-26 — 22:35:35 UTC	4head, Bot-Fiora, 火花	52	5	25
+415755	4	25	No Variant	2021-01-26 — 22:23:58 UTC	4head, Bot-Fiora, knaphill, Spieler42	71	5	25
+415726	4	23	No Variant	2021-01-26 — 21:57:19 UTC	4head, Bot-Fiora, knaphill, Spieler42	74	5	25
+415709	4	0	No Variant	2021-01-26 — 21:34:13 UTC	4head, Bot-Fiora, knaphill, Spieler42	74	5	25
+415691	4	0	No Variant	2021-01-26 — 21:11:01 UTC	Bot-Fiora, CaitlinSmith, knaphill, Spieler42	213	5	25
+415666	3	0	No Variant	2021-01-26 — 20:49:48 UTC	Bot-Fiora, CaitlinSmith, knaphill	77	5	25
+415649	3	0	No Variant	2021-01-26 — 20:40:50 UTC	Bot-Fiora, CaitlinSmith, knaphill	77	5	25
+415637	3	0	No Variant	2021-01-26 — 20:29:25 UTC	Bot-Fiora, CaitlinSmith, knaphill	77	5	25
+415601	4	24	No Variant	2021-01-26 — 20:07:06 UTC	4head, Bot-Fiora, CaitlinSmith, HariKrishnan	82	5	25
+415577	3	0	No Variant	2021-01-26 — 19:38:31 UTC	Bot-Fiora, CaitlinSmith, HariKrishnan	79	5	25
+415559	4	24	No Variant	2021-01-26 — 19:16:41 UTC	Bot-Fiora, CaitlinSmith, ChristopheAF, HariKrishnan	233	5	25
+415545	4	0	No Variant	2021-01-26 — 18:51:19 UTC	Bot-Fiora, CaitlinSmith, ChristopheAF, HariKrishnan	243	5	25
+415527	4	0	No Variant	2021-01-26 — 18:35:28 UTC	Bot-Fiora, CaitlinSmith, ChristopheAF, HariKrishnan	473	5	25
+415520	4	0	No Variant	2021-01-26 — 18:27:16 UTC	Bot-Fiora, CaitlinSmith, ChristopheAF, HariKrishnan	601	5	25
+415507	4	25	No Variant	2021-01-26 — 18:06:18 UTC	4head, Bot-Fiora, CaitlinSmith, ChristopheAF	79	5	25
+415496	5	22	No Variant	2021-01-26 — 17:45:31 UTC	4head, Bot-Fiora, CaitlinSmith, ChristopheAF, Spieler42	92	5	25
+415489	5	25	No Variant	2021-01-26 — 17:18:38 UTC	4head, Bot-Fiora, CaitlinSmith, ChristopheAF, Spieler42	120	5	25
+415481	3	24	No Variant	2021-01-26 — 16:59:02 UTC	Bot-Fiora, CaitlinSmith, robense	23	5	25
+413016	6	30	Rainbow (6 Suits)	2021-01-24 — 00:50:49 UTC	4head, Bot-Fiora, eljavi, griff77, jian01, ricardodd	33	6	30
+412996	4	23	No Variant	2021-01-24 — 00:12:55 UTC	Bot-Fiora, CaitlinSmith, griff77, jian01	442	5	25
+412973	4	0	No Variant	2021-01-23 — 23:51:21 UTC	Bot-Fiora, CaitlinSmith, griff77, jian01	501	5	25
+412959	4	0	No Variant	2021-01-23 — 23:43:20 UTC	Bot-Fiora, CaitlinSmith, griff77, jian01	793	5	25
+412947	4	0	No Variant	2021-01-23 — 23:32:21 UTC	Bot-Fiora, CaitlinSmith, griff77, jian01	899	5	25
+412908	6	24	No Variant	2021-01-23 — 23:02:56 UTC	Bot-Fiora, CaitlinSmith, Denchulitas, eljavi, griff77, jian01	478	5	25
+412862	4	22	No Variant	2021-01-23 — 22:27:51 UTC	Bot-Fiora, HariKrishnan, kinkajusrevenge, Spieler42	419	5	25
+412822	4	24	No Variant	2021-01-23 — 21:58:12 UTC	Bot-Fiora, HariKrishnan, kinkajusrevenge, Spieler42	717	5	25
+412782	4	0	No Variant	2021-01-23 — 21:27:47 UTC	Bot-Fiora, HariKrishnan, possum, Spieler42	655	5	25
+412725	2	25	No Variant	2021-01-23 — 20:50:51 UTC	Bot-Fiora, Spieler42	921	5	25
+412695	4	0	No Variant	2021-01-23 — 20:18:30 UTC	Bot-Fiora, Denchulitas, Spieler42, witcher	985	5	25
+412646	3	23	No Variant	2021-01-23 — 19:30:14 UTC	ADrone, ArualEIs, Bot-Fiora	82	5	25

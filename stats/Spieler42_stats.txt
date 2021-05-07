@@ -1,0 +1,827 @@
+512125	3	0	Prism Reversed (6 Suits)	2021-04-25 — 09:57:01 UTC	MalachiteMoa, sephiroth, Spieler42	2	6	30
+511819	3	20	Pink-Ones & Brown (4 Suits)	2021-04-25 — 02:45:31 UTC	newduke, nkkarpov, Spieler42	1	4	20
+511807	3	0	Pink-Ones & Brown (4 Suits)	2021-04-25 — 02:23:23 UTC	newduke, nkkarpov, Spieler42	1	4	20
+511550	3	30	Black (6 Suits)	2021-04-24 — 20:53:58 UTC	rz, Spieler42, voss	41	6	30
+511525	3	0	Black (6 Suits)	2021-04-24 — 20:29:06 UTC	rz, Spieler42, voss	43	6	30
+511502	3	0	No Variant	2021-04-24 — 20:07:38 UTC	desymo99, Gabriel_fknewz, Spieler42	89	5	25
+511339	3	0	Rainbow & Light Pink (6 Suits)	2021-04-24 — 16:53:46 UTC	bob65536, Spieler42, Wittvector	6	6	30
+511326	3	0	Rainbow & Light Pink (6 Suits)	2021-04-24 — 16:25:04 UTC	bob65536, Spieler42, Wittvector	11	6	30
+511313	3	30	Black & Rainbow (6 Suits)	2021-04-24 — 15:52:59 UTC	bob65536, Spieler42, Wittvector	23	6	30
+511308	3	0	Black & Rainbow (6 Suits)	2021-04-24 — 15:35:58 UTC	bob65536, Spieler42, Wittvector	25	6	30
+510634	4	28	Black (6 Suits)	2021-04-23 — 22:21:14 UTC	MangoPie, mystus, NumerateClutter, Spieler42	175	6	30
+510590	4	0	Black (6 Suits)	2021-04-23 — 21:42:38 UTC	MangoPie, mystus, NumerateClutter, Spieler42	273	6	30
+510249	3	0	Rainbow & Gray (6 Suits)	2021-04-23 — 15:11:36 UTC	duckless, robense, Spieler42	10	6	30
+510233	3	29	Rainbow & Gray (6 Suits)	2021-04-23 — 14:51:06 UTC	duckless, robense, Spieler42	17	6	30
+509423	4	0	Brown & Muddy Rainbow (6 Suits)	2021-04-22 — 18:01:53 UTC	ChristopheAF, indego, MangoPie, Spieler42	1	6	30
+509412	4	0	Brown & Muddy Rainbow (6 Suits)	2021-04-22 — 17:34:46 UTC	ChristopheAF, indego, MangoPie, Spieler42	3	6	30
+508709	3	30	Prism (6 Suits)	2021-04-21 — 20:30:14 UTC	MalachiteMoa, nkkarpov, Spieler42	25	6	30
+508691	3	0	Prism (6 Suits)	2021-04-21 — 20:08:31 UTC	MalachiteMoa, nkkarpov, Spieler42	36	6	30
+508676	3	0	Prism (6 Suits)	2021-04-21 — 19:52:56 UTC	MalachiteMoa, nkkarpov, Spieler42	45	6	30
+508654	4	0	White-Ones & Prism (6 Suits)	2021-04-21 — 19:35:20 UTC	Lanvin, MalachiteMoa, nkkarpov, Spieler42	1	6	30
+508470	4	0	Dark Prism (5 Suits)	2021-04-21 — 12:52:51 UTC	rz, Spieler42, Wittvector, wolfpack	11	5	25
+508467	4	24	Dark Prism (5 Suits)	2021-04-21 — 12:32:47 UTC	rz, Spieler42, Wittvector, wolfpack	13	5	25
+508460	4	0	White (6 Suits)	2021-04-21 — 12:09:43 UTC	hakha3, mgce, robense, Spieler42	29	6	30
+508441	4	29	White (6 Suits)	2021-04-21 — 11:45:18 UTC	hakha3, mgce, robense, Spieler42	35	6	30
+506555	4	25	Reversed (5 Suits)	2021-04-19 — 15:29:40 UTC	PotatoLatte, Spieler42, VBVBVBVB, Wittvector	10	5	25
+506538	4	0	Reversed (5 Suits)	2021-04-19 — 15:09:09 UTC	PotatoLatte, Spieler42, VBVBVBVB, Wittvector	17	5	25
+504356	5	0	Dark Rainbow (6 Suits)	2021-04-17 — 19:04:36 UTC	bjnh, griff77, kopen, rz, Spieler42	12	6	30
+504343	5	0	Dark Rainbow (6 Suits)	2021-04-17 — 18:54:40 UTC	bjnh, griff77, kopen, rz, Spieler42	14	6	30
+504332	5	0	Dark Rainbow (6 Suits)	2021-04-17 — 18:43:28 UTC	bjnh, griff77, kopen, rz, Spieler42	13	6	30
+504297	4	0	Dark Rainbow (5 Suits)	2021-04-17 — 18:21:00 UTC	griff77, kopen, Spieler42, wump	11	5	25
+504172	5	23	No Variant	2021-04-17 — 15:03:16 UTC	FizzyLizzy123, knaphill, narabio, possum, Spieler42	41	5	25
+504156	5	23	No Variant	2021-04-17 — 14:28:21 UTC	FizzyLizzy123, knaphill, narabio, possum, Spieler42	44	5	25
+504140	5	24	No Variant	2021-04-17 — 13:56:51 UTC	FizzyLizzy123, knaphill, narabio, possum, Spieler42	45	5	25
+504123	5	23	No Variant	2021-04-17 — 13:28:08 UTC	FizzyLizzy123, knaphill, narabio, possum, Spieler42	51	5	25
+504109	5	0	No Variant	2021-04-17 — 13:06:08 UTC	FizzyLizzy123, knaphill, narabio, possum, Spieler42	75	5	25
+504102	3	0	Pink (6 Suits)	2021-04-17 — 12:52:29 UTC	knaphill, possum, Spieler42	31	6	30
+504088	3	0	Pink (6 Suits)	2021-04-17 — 12:21:22 UTC	knaphill, possum, Spieler42	47	6	30
+503001	3	25	No Variant	2021-04-16 — 17:01:57 UTC	sin_faith, Spieler42, vjk	25	5	25
+502977	3	0	No Variant	2021-04-16 — 16:47:30 UTC	sin_faith, Spieler42, vjk	27	5	25
+502850	3	0	White (6 Suits)	2021-04-16 — 12:09:51 UTC	Spieler42, Wittvector, wolfpack	37	6	30
+500981	3	27	Pink (6 Suits)	2021-04-14 — 18:23:29 UTC	MangoPie, possum, Spieler42	70	6	30
+500768	4	22	Black & Light Pink (5 Suits)	2021-04-14 — 10:43:19 UTC	sephiroth, Spieler42, Wittvector, Zakisan	7	5	25
+499736	3	23	No Variant	2021-04-13 — 15:59:46 UTC	bebkoglorius, Spieler42, vjk	112	5	25
+499726	3	25	No Variant	2021-04-13 — 15:33:27 UTC	bebkoglorius, Spieler42, vjk	119	5	25
+499659	2	0	6 Suits	2021-04-13 — 11:35:03 UTC	possum, Spieler42	378	6	30
+499655	3	0	No Variant	2021-04-13 — 11:18:43 UTC	deathmaster, possum, Spieler42	57	5	25
+499649	2	29	Black (6 Suits)	2021-04-13 — 10:54:08 UTC	possum, Spieler42	350	6	30
+499647	2	0	Black (6 Suits)	2021-04-13 — 10:43:04 UTC	possum, Spieler42	391	6	30
+499643	3	0	No Variant	2021-04-13 — 09:39:31 UTC	CptAggro, sjdrodge, Spieler42	11	5	25
+499641	4	24	No Variant	2021-04-13 — 09:12:48 UTC	chriswck, CptAggro, sjdrodge, Spieler42	8	5	25
+499637	4	25	No Variant	2021-04-13 — 08:46:34 UTC	chriswck, CptAggro, sjdrodge, Spieler42	9	5	25
+499634	2	22	No Variant	2021-04-13 — 08:24:04 UTC	CptAggro, Spieler42	308	5	25
+499631	2	0	No Variant	2021-04-13 — 08:13:57 UTC	CptAggro, Spieler42	303	5	25
+498480	4	30	White (6 Suits)	2021-04-12 — 15:40:49 UTC	possum, PotatoLatte, Spieler42, wolfpack	41	6	30
+498450	4	0	White (6 Suits)	2021-04-12 — 15:04:05 UTC	possum, PotatoLatte, Spieler42, wolfpack	60	6	30
+498439	5	22	No Variant	2021-04-12 — 14:46:30 UTC	mgce, possum, PotatoLatte, Spieler42, wolfpack	223	5	25
+498425	5	0	No Variant	2021-04-12 — 14:25:44 UTC	mgce, possum, PotatoLatte, Spieler42, wolfpack	1510	5	25
+498417	5	0	No Variant	2021-04-12 — 14:15:00 UTC	mgce, possum, PotatoLatte, Spieler42, wolfpack	1995	5	25
+498416	2	25	No Variant	2021-04-12 — 14:06:18 UTC	mgce, Spieler42	311	5	25
+498413	2	0	No Variant	2021-04-12 — 13:56:31 UTC	mgce, Spieler42	315	5	25
+498412	2	0	No Variant	2021-04-12 — 13:50:43 UTC	mgce, Spieler42	321	5	25
+496194	4	25	Omni (5 Suits)	2021-04-10 — 15:23:37 UTC	MangoPie, rz, Spieler42, timotree	9	5	25
+496170	4	0	Omni (5 Suits)	2021-04-10 — 14:54:33 UTC	MangoPie, rz, Spieler42, timotree	11	5	25
+496089	2	25	Rainbow (5 Suits)	2021-04-10 — 12:37:50 UTC	Spieler42, VBVBVBVB	95	5	25
+496080	2	24	Rainbow (5 Suits)	2021-04-10 — 12:23:47 UTC	Spieler42, VBVBVBVB	129	5	25
+496071	2	0	Rainbow (5 Suits)	2021-04-10 — 12:14:14 UTC	Spieler42, VBVBVBVB	154	5	25
+496068	2	0	Rainbow (5 Suits)	2021-04-10 — 12:08:30 UTC	Spieler42, VBVBVBVB	248	5	25
+494936	5	20	Pink (4 Suits)	2021-04-09 — 16:27:15 UTC	bjnh, bob65536, possum, rz, Spieler42	9	4	20
+494916	4	0	Rainbow (6 Suits)	2021-04-09 — 15:57:02 UTC	bjnh, bob65536, dobi, Spieler42	493	6	30
+494246	6	21	No Variant	2021-04-08 — 21:04:47 UTC	CaitlinSmith, DarthGandalf, kevincaseytdk1, knaphill, newduke, Spieler42	29	5	25
+494218	6	0	No Variant	2021-04-08 — 20:36:18 UTC	CaitlinSmith, DarthGandalf, kevincaseytdk1, knaphill, newduke, Spieler42	32	5	25
+494206	5	0	Black (5 Suits)	2021-04-08 — 20:19:16 UTC	CaitlinSmith, DarthGandalf, knaphill, newduke, Spieler42	6	5	25
+494182	5	21	Black (5 Suits)	2021-04-08 — 19:54:08 UTC	CaitlinSmith, DarthGandalf, knaphill, newduke, Spieler42	6	5	25
+494160	4	0	Black & Rainbow (6 Suits)	2021-04-08 — 19:35:41 UTC	CaitlinSmith, DarthGandalf, knaphill, Spieler42	46	6	30
+493312	5	0	Alternating Clues (6 Suits)	2021-04-07 — 19:57:13 UTC	CaitlinSmith, IsabeltheCat, Lanvin, newduke, Spieler42	3	6	30
+493269	5	25	White (5 Suits)	2021-04-07 — 19:24:45 UTC	CaitlinSmith, Damian000, IsabeltheCat, Meowie, Spieler42	37	5	25
+493237	4	0	Black & Brown (5 Suits)	2021-04-07 — 19:04:41 UTC	CaitlinSmith, Damian000, Meowie, Spieler42	1	5	25
+493206	3	24	Black & Light Pink (5 Suits)	2021-04-07 — 18:40:49 UTC	CaitlinSmith, kinkajusrevenge, Spieler42	2	5	25
+493129	6	0	White & Omni (6 Suits)	2021-04-07 — 17:33:04 UTC	indego, kopen, Lel0uch, sin_faith, Spieler42, squirrel1988	1	6	30
+492522	5	22	Rainbow (5 Suits)	2021-04-06 — 21:46:20 UTC	CaitlinSmith, Damian000, PotatoLatte, ReaverSe, Spieler42	13	5	25
+492473	5	0	Rainbow (5 Suits)	2021-04-06 — 21:14:07 UTC	CaitlinSmith, Damian000, PotatoLatte, ReaverSe, Spieler42	12	5	25
+492440	5	0	Rainbow (5 Suits)	2021-04-06 — 20:52:36 UTC	CaitlinSmith, Damian000, PotatoLatte, ReaverSe, Spieler42	14	5	25
+492410	5	0	Rainbow (5 Suits)	2021-04-06 — 20:29:55 UTC	CaitlinSmith, Damian000, PotatoLatte, ReaverSe, Spieler42	14	5	25
+492399	5	0	Rainbow (5 Suits)	2021-04-06 — 20:19:51 UTC	CaitlinSmith, Damian000, PotatoLatte, ReaverSe, Spieler42	17	5	25
+491279	3	25	White (5 Suits)	2021-04-05 — 17:20:06 UTC	MathNoob, narabio, Spieler42	126	5	25
+491254	5	22	White (5 Suits)	2021-04-05 — 16:47:54 UTC	Kyle, MathNoob, narabio, Spieler42, wump	1	5	25
+491240	4	25	No Variant	2021-04-05 — 16:16:13 UTC	mgce, Nitrate, Spieler42, Syrah	90	5	25
+491113	3	24	No Variant	2021-04-05 — 12:06:08 UTC	CaitlinSmith, mgce, Spieler42	49	5	25
+491103	3	0	No Variant	2021-04-05 — 11:35:52 UTC	CaitlinSmith, mgce, Spieler42	48	5	25
+491098	3	0	No Variant	2021-04-05 — 11:13:37 UTC	CaitlinSmith, mgce, Spieler42	50	5	25
+491087	3	25	No Variant	2021-04-05 — 10:46:24 UTC	CaitlinSmith, sin_faith, Spieler42	27	5	25
+491080	3	0	No Variant	2021-04-05 — 10:32:32 UTC	CaitlinSmith, sin_faith, Spieler42	27	5	25
+490434	5	25	Muddy Rainbow (5 Suits)	2021-04-04 — 17:41:02 UTC	griff77, MangoPie, Nitrate, rz, Spieler42	5	5	25
+490414	5	0	Black (5 Suits)	2021-04-04 — 17:09:34 UTC	griff77, MangoPie, Nitrate, rz, Spieler42	5	5	25
+490409	5	21	Black (5 Suits)	2021-04-04 — 16:43:37 UTC	griff77, MangoPie, Nitrate, rz, Spieler42	11	5	25
+489756	3	25	Black (5 Suits)	2021-04-03 — 22:50:21 UTC	newduke, Pimak, Spieler42	10	5	25
+489737	3	0	Black (5 Suits)	2021-04-03 — 22:28:11 UTC	newduke, Pimak, Spieler42	10	5	25
+489438	3	0	White-Fives (4 Suits)	2021-04-03 — 16:46:32 UTC	Doge, griff77, Spieler42	1	4	20
+489431	3	0	White-Fives (4 Suits)	2021-04-03 — 16:31:45 UTC	Doge, griff77, Spieler42	1	4	20
+489426	3	19	White-Fives (4 Suits)	2021-04-03 — 16:24:03 UTC	Doge, griff77, Spieler42	1	4	20
+489412	3	0	White-Fives (4 Suits)	2021-04-03 — 16:01:57 UTC	Doge, griff77, Spieler42	5	4	20
+489401	3	30	Omni (6 Suits)	2021-04-03 — 15:31:06 UTC	Doge, griff77, Spieler42	51	6	30
+487367	5	0	Black & Muddy Rainbow (6 Suits)	2021-04-01 — 13:49:07 UTC	indego, jack67889, Lel0uch, melwen, Spieler42	1	6	30
+486415	5	12	Omni (3 Suits)	2021-03-31 — 15:21:57 UTC	DarthGandalf, knaphill, macanek, sin_faith, Spieler42	2	3	15
+486408	5	0	Omni (3 Suits)	2021-03-31 — 15:01:00 UTC	DarthGandalf, knaphill, macanek, sin_faith, Spieler42	3	3	15
+485597	5	25	Brown (5 Suits)	2021-03-30 — 18:23:08 UTC	ADrone, CaitlinSmith, kinkajusrevenge, Kyle, Spieler42	1	5	25
+485584	5	0	Brown (5 Suits)	2021-03-30 — 18:03:20 UTC	ADrone, CaitlinSmith, kinkajusrevenge, Kyle, Spieler42	2	5	25
+485571	5	0	Omni-Fives & Light Pink (5 Suits)	2021-03-30 — 17:46:28 UTC	CaitlinSmith, kinkajusrevenge, Kyle, robense, Spieler42	1	5	25
+483469	3	25	Pink (5 Suits)	2021-03-28 — 16:15:48 UTC	DarthGandalf, Spieler42, timotree	62	5	25
+483457	2	0	Rainbow (6 Suits)	2021-03-28 — 15:57:38 UTC	Spieler42, timotree	593	6	30
+483455	2	0	Rainbow (6 Suits)	2021-03-28 — 15:55:47 UTC	Spieler42, timotree	717	6	30
+482622	4	0	Black (6 Suits)	2021-03-27 — 21:23:48 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat, Spieler42	91	6	30
+482611	4	0	Black (6 Suits)	2021-03-27 — 21:12:31 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat, Spieler42	121	6	30
+482599	4	0	Black (6 Suits)	2021-03-27 — 21:01:31 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat, Spieler42	128	6	30
+482582	4	28	Black (6 Suits)	2021-03-27 — 20:49:34 UTC	CaitlinSmith, DarthGandalf, IsabeltheCat, Spieler42	142	6	30
+480298	4	0	Dark Brown (6 Suits)	2021-03-25 — 18:33:26 UTC	ksfortson, Onen, possum, Spieler42	17	6	30
+480287	5	0	Brown (3 Suits)	2021-03-25 — 18:27:12 UTC	bjnh, HelanaAshryvr, kinkajusrevenge, possum, Spieler42	2	3	15
+480278	5	0	Brown (3 Suits)	2021-03-25 — 18:17:34 UTC	bjnh, HelanaAshryvr, kinkajusrevenge, possum, Spieler42	2	3	15
+480273	5	0	Brown (3 Suits)	2021-03-25 — 18:11:58 UTC	bjnh, HelanaAshryvr, kinkajusrevenge, possum, Spieler42	2	3	15
+480261	3	25	No Variant	2021-03-25 — 18:02:20 UTC	LookAway, possum, Spieler42	62	5	25
+480229	3	0	No Variant	2021-03-25 — 17:34:16 UTC	LookAway, possum, Spieler42	66	5	25
+480220	3	25	No Variant	2021-03-25 — 17:17:26 UTC	LookAway, possum, Spieler42	63	5	25
+480179	4	0	No Variant	2021-03-25 — 16:48:38 UTC	kinkajusrevenge, LookAway, possum, Spieler42	95	5	25
+479576	2	30	Dark Omni (6 Suits)	2021-03-24 — 22:41:21 UTC	IsabeltheCat, Spieler42	16	6	30
+479567	2	0	Dark Omni (6 Suits)	2021-03-24 — 22:31:51 UTC	IsabeltheCat, Spieler42	19	6	30
+479559	2	0	Dark Omni (6 Suits)	2021-03-24 — 22:26:22 UTC	IsabeltheCat, Spieler42	21	6	30
+479557	2	0	Dark Omni (6 Suits)	2021-03-24 — 22:22:43 UTC	IsabeltheCat, Spieler42	22	6	30
+479545	2	0	Dark Omni (6 Suits)	2021-03-24 — 22:13:30 UTC	IsabeltheCat, Spieler42	26	6	30
+479537	2	0	Dark Omni (6 Suits)	2021-03-24 — 22:02:03 UTC	IsabeltheCat, Spieler42	39	6	30
+479523	4	0	Dark Omni (6 Suits)	2021-03-24 — 21:51:50 UTC	IsabeltheCat, MangoPie, newduke, Spieler42	14	6	30
+479487	4	0	Dark Omni (6 Suits)	2021-03-24 — 21:24:53 UTC	IsabeltheCat, MangoPie, newduke, Spieler42	13	6	30
+479051	2	23	No Variant	2021-03-24 — 13:56:11 UTC	mgce, Spieler42	328	5	25
+479043	2	0	No Variant	2021-03-24 — 13:37:58 UTC	mgce, Spieler42	335	5	25
+479032	2	24	No Variant	2021-03-24 — 13:17:26 UTC	mgce, Spieler42	344	5	25
+479011	2	23	No Variant	2021-03-24 — 12:51:36 UTC	mgce, Spieler42	348	5	25
+478997	2	0	No Variant	2021-03-24 — 12:36:00 UTC	mgce, Spieler42	354	5	25
+478069	4	24	No Variant	2021-03-23 — 17:02:16 UTC	asaelr, LookAway, PotatoLatte, Spieler42	7	5	25
+478050	4	0	No Variant	2021-03-23 — 16:35:58 UTC	asaelr, LookAway, PotatoLatte, Spieler42	9	5	25
+478047	4	0	No Variant	2021-03-23 — 16:30:28 UTC	asaelr, LookAway, PotatoLatte, Spieler42	12	5	25
+478042	4	0	No Variant	2021-03-23 — 16:17:21 UTC	asaelr, LookAway, PotatoLatte, Spieler42	11	5	25
+478028	4	0	No Variant	2021-03-23 — 16:01:05 UTC	asaelr, LookAway, PotatoLatte, Spieler42	12	5	25
+478027	4	0	No Variant	2021-03-23 — 16:00:44 UTC	asaelr, LookAway, PotatoLatte, Spieler42	13	5	25
+475940	3	24	Dark Pink (5 Suits)	2021-03-21 — 17:24:23 UTC	rz, Spieler42, swineherd	26	5	25
+475924	3	0	Dark Pink (5 Suits)	2021-03-21 — 17:00:53 UTC	rz, Spieler42, swineherd	38	5	25
+475917	3	0	Dark Pink (5 Suits)	2021-03-21 — 16:42:24 UTC	rz, Spieler42, swineherd	42	5	25
+475904	3	0	Rainbow (3 Suits)	2021-03-21 — 16:26:15 UTC	rz, Spieler42, swineherd	24	3	15
+475884	5	24	No Variant	2021-03-21 — 15:58:48 UTC	possum, rz, Spieler42, timotree, wortel	10	5	25
+475683	3	0	Pink & Prism (6 Suits)	2021-03-21 — 08:38:53 UTC	Aluap, possum, Spieler42	2	6	30
+475670	3	0	Pink & Prism (6 Suits)	2021-03-21 — 08:09:20 UTC	Aluap, possum, Spieler42	4	6	30
+475666	3	0	Pink & Prism (6 Suits)	2021-03-21 — 07:53:08 UTC	Aluap, possum, Spieler42	7	6	30
+474735	3	14	Rainbow (3 Suits)	2021-03-20 — 11:42:36 UTC	knaphill, possum, Spieler42	43	3	15
+474726	3	0	Rainbow (3 Suits)	2021-03-20 — 11:24:02 UTC	knaphill, possum, Spieler42	53	3	15
+474723	3	0	Rainbow (3 Suits)	2021-03-20 — 11:17:01 UTC	knaphill, possum, Spieler42	71	3	15
+473908	2	30	Dual-Color Mix	2021-03-19 — 21:27:29 UTC	IsabeltheCat, Spieler42	43	6	30
+473894	2	0	Dual-Color Mix	2021-03-19 — 21:14:56 UTC	IsabeltheCat, Spieler42	43	6	30
+473880	2	0	Dual-Color Mix	2021-03-19 — 21:09:08 UTC	IsabeltheCat, Spieler42	47	6	30
+473834	3	0	Rainbow & Gray Pink (5 Suits)	2021-03-19 — 20:13:25 UTC	CaitlinSmith, hakha3, Spieler42	6	5	25
+473826	3	0	Rainbow & Gray Pink (5 Suits)	2021-03-19 — 20:02:18 UTC	CaitlinSmith, hakha3, Spieler42	7	5	25
+473589	3	0	White & Dark Pink (6 Suits)	2021-03-19 — 14:38:50 UTC	HelanaAshryvr, Lel0uch, Spieler42	4	6	30
+472943	2	25	Black (5 Suits)	2021-03-18 — 23:21:21 UTC	DarthGandalf, Spieler42	108	5	25
+472936	2	0	Black (5 Suits)	2021-03-18 — 23:13:16 UTC	DarthGandalf, Spieler42	115	5	25
+472934	2	0	Black (5 Suits)	2021-03-18 — 23:10:35 UTC	DarthGandalf, Spieler42	124	5	25
+472925	2	0	Black (5 Suits)	2021-03-18 — 23:02:35 UTC	DarthGandalf, Spieler42	169	5	25
+472907	3	26	Black (6 Suits)	2021-03-18 — 22:43:29 UTC	DarthGandalf, Daryl, Spieler42	236	6	30
+472335	4	0	Dark Pink (5 Suits)	2021-03-18 — 11:55:38 UTC	Aluap, Denchulitas, possum, Spieler42	10	5	25
+472332	4	0	Dark Pink (5 Suits)	2021-03-18 — 11:37:11 UTC	Aluap, Denchulitas, possum, Spieler42	9	5	25
+472331	4	0	Dark Pink (5 Suits)	2021-03-18 — 11:29:46 UTC	Aluap, Denchulitas, possum, Spieler42	11	5	25
+472327	4	20	Dark Pink (5 Suits)	2021-03-18 — 10:58:25 UTC	Aluap, Denchulitas, possum, Spieler42	20	5	25
+471289	3	22	Prism (5 Suits)	2021-03-17 — 13:40:44 UTC	Aluap, jack67889, Spieler42	24	5	25
+471282	3	0	Prism (5 Suits)	2021-03-17 — 13:19:06 UTC	Aluap, jack67889, Spieler42	38	5	25
+471279	4	0	Pink-Ones & Omni (5 Suits)	2021-03-17 — 12:58:54 UTC	Aluap, jack67889, qqqq, Spieler42	3	5	25
+471231	3	27	Brown-Ones & Rainbow (6 Suits)	2021-03-17 — 07:33:00 UTC	ksfortson, louietyj, Spieler42	4	6	30
+470501	3	0	No Variant	2021-03-16 — 21:50:08 UTC	knaphill, nkkarpov, Spieler42	111	5	25
+470469	3	0	No Variant	2021-03-16 — 21:31:42 UTC	knaphill, nkkarpov, Spieler42	114	5	25
+470443	3	24	No Variant	2021-03-16 — 21:15:45 UTC	knaphill, nkkarpov, Spieler42	121	5	25
+470429	2	0	No Variant	2021-03-16 — 20:58:58 UTC	nkkarpov, Spieler42	357	5	25
+470420	2	0	No Variant	2021-03-16 — 20:55:38 UTC	nkkarpov, Spieler42	362	5	25
+470212	3	0	Black (5 Suits)	2021-03-16 — 16:36:51 UTC	fowill, knaphill, Spieler42	36	5	25
+470211	3	0	Black (5 Suits)	2021-03-16 — 16:33:33 UTC	fowill, knaphill, Spieler42	35	5	25
+470207	3	21	Black (5 Suits)	2021-03-16 — 16:25:30 UTC	fowill, knaphill, Spieler42	40	5	25
+470195	3	0	Black (5 Suits)	2021-03-16 — 16:11:01 UTC	fowill, knaphill, Spieler42	92	5	25
+470188	3	0	Black (5 Suits)	2021-03-16 — 16:07:52 UTC	fowill, knaphill, Spieler42	101	5	25
+470179	4	0	Black (5 Suits)	2021-03-16 — 15:59:43 UTC	fowill, knaphill, Onen, Spieler42	16	5	25
+470169	4	0	Black (5 Suits)	2021-03-16 — 15:53:15 UTC	fowill, knaphill, Onen, Spieler42	19	5	25
+470165	4	0	Black (5 Suits)	2021-03-16 — 15:46:55 UTC	fowill, knaphill, Onen, Spieler42	22	5	25
+467930	4	0	Black & Omni (6 Suits)	2021-03-14 — 12:06:38 UTC	hakha3, Lanvin, Lel0uch, Spieler42	4	6	30
+467927	3	0	Black & Omni (6 Suits)	2021-03-14 — 11:54:05 UTC	Lanvin, Lel0uch, Spieler42	4	6	30
+466758	3	24	No Variant	2021-03-13 — 16:37:48 UTC	knaphill, possum, Spieler42	69	5	25
+466742	3	24	No Variant	2021-03-13 — 16:03:02 UTC	knaphill, possum, Spieler42	78	5	25
+466726	3	0	No Variant	2021-03-13 — 15:28:38 UTC	knaphill, possum, Spieler42	77	5	25
+466717	6	23	Rainbow (5 Suits)	2021-03-13 — 15:03:56 UTC	Aluap, CaitlinSmith, Lanvin, possum, Spieler42, VerySloppyTwo	2	5	25
+466667	2	0	No Variant	2021-03-13 — 12:21:23 UTC	possum, Spieler42	369	5	25
+466663	2	0	No Variant	2021-03-13 — 12:06:01 UTC	possum, Spieler42	381	5	25
+466660	3	0	No Variant	2021-03-13 — 11:56:28 UTC	Denchulitas, possum, Spieler42	77	5	25
+466659	3	0	No Variant	2021-03-13 — 11:55:28 UTC	Denchulitas, possum, Spieler42	83	5	25
+466657	5	30	Prism & Gray (6 Suits)	2021-03-13 — 11:33:29 UTC	Denchulitas, narabio, possum, sephiroth, Spieler42	3	6	30
+466650	3	27	Black & White (6 Suits)	2021-03-13 — 11:03:15 UTC	Denchulitas, narabio, Spieler42	13	6	30
+465806	4	0	Pink-Fives & Omni (5 Suits)	2021-03-12 — 19:23:06 UTC	knaphill, Spieler42, TimeHoodie, Wittvector	1	5	25
+465751	2	0	No Variant	2021-03-12 — 18:17:50 UTC	Spieler42, username5	387	5	25
+465741	2	0	No Variant	2021-03-12 — 18:04:30 UTC	Spieler42, username5	393	5	25
+465740	2	0	No Variant	2021-03-12 — 18:02:28 UTC	Spieler42, username5	393	5	25
+465728	2	25	No Variant	2021-03-12 — 17:34:52 UTC	Spieler42, username5	406	5	25
+465544	4	30	White-Ones & White (6 Suits)	2021-03-12 — 10:11:36 UTC	DarthGandalf, knaphill, possum, Spieler42	1	6	30
+465536	4	0	White-Ones & White (6 Suits)	2021-03-12 — 09:44:57 UTC	DarthGandalf, knaphill, possum, Spieler42	4	6	30
+465529	4	0	White-Ones & White (6 Suits)	2021-03-12 — 09:23:23 UTC	DarthGandalf, knaphill, possum, Spieler42	4	6	30
+465523	5	20	4 Suits	2021-03-12 — 08:56:11 UTC	DarthGandalf, knaphill, possum, rahsosprout, Spieler42	23	4	20
+464653	5	13	Rainbow (3 Suits)	2021-03-11 — 15:34:42 UTC	Aluap, indego, Spieler42, Wittvector, wolfpack	5	3	15
+464643	5	13	Rainbow (3 Suits)	2021-03-11 — 15:16:38 UTC	Aluap, indego, Spieler42, Wittvector, wolfpack	5	3	15
+464636	5	0	Rainbow (3 Suits)	2021-03-11 — 15:03:55 UTC	Aluap, indego, Spieler42, Wittvector, wolfpack	6	3	15
+464629	6	0	Rainbow (3 Suits)	2021-03-11 — 14:52:50 UTC	Aluap, aquarelle, indego, Spieler42, Wittvector, wolfpack	3	3	15
+464615	4	0	Rainbow (5 Suits)	2021-03-11 — 14:32:23 UTC	Aluap, Denchulitas, Spieler42, wolfpack	63	5	25
+464601	4	0	Rainbow (5 Suits)	2021-03-11 — 14:10:50 UTC	Aluap, Denchulitas, Spieler42, wolfpack	92	5	25
+463779	4	0	Throw It in a Hole (5 Suits)	2021-03-10 — 19:16:35 UTC	CaitlinSmith, kevincaseytdk1, Spieler42, Wittvector	40	5	25
+463754	4	15	Rainbow (3 Suits)	2021-03-10 — 18:50:32 UTC	bjnh, CaitlinSmith, Spieler42, torp	13	3	15
+463732	4	0	Gray (6 Suits)	2021-03-10 — 18:29:00 UTC	bjnh, CaitlinSmith, Spieler42, voss	13	6	30
+463524	3	0	Black & Omni (6 Suits)	2021-03-10 — 13:06:51 UTC	rachyrules, robense, Spieler42	5	6	30
+463507	3	0	Black & Omni (6 Suits)	2021-03-10 — 12:43:09 UTC	rachyrules, robense, Spieler42	9	6	30
+463501	3	0	Black & Omni (6 Suits)	2021-03-10 — 12:30:49 UTC	rachyrules, robense, Spieler42	9	6	30
+463498	3	0	Black & Omni (6 Suits)	2021-03-10 — 12:14:43 UTC	rachyrules, robense, Spieler42	10	6	30
+462717	4	0	Dark Pink (5 Suits)	2021-03-09 — 20:15:14 UTC	CaitlinSmith, ChristopheAF, rahsosprout, Spieler42	9	5	25
+462668	4	23	Dark Pink (5 Suits)	2021-03-09 — 19:54:12 UTC	CaitlinSmith, ChristopheAF, rahsosprout, Spieler42	11	5	25
+462615	4	22	Dark Pink (5 Suits)	2021-03-09 — 19:32:05 UTC	CaitlinSmith, ChristopheAF, rahsosprout, Spieler42	13	5	25
+462593	4	0	Dark Pink (5 Suits)	2021-03-09 — 19:09:55 UTC	CaitlinSmith, ChristopheAF, rahsosprout, Spieler42	15	5	25
+462563	5	0	Deceptive-Fives & Light Pink (4 Suits)	2021-03-09 — 18:51:18 UTC	colton, MarkusKahlsen, rachyrules, Spieler42, Wittvector	1	4	20
+462546	5	0	Deceptive-Fives & Light Pink (4 Suits)	2021-03-09 — 18:38:24 UTC	colton, MarkusKahlsen, rachyrules, Spieler42, Wittvector	1	4	20
+462458	2	25	Totally Blind (5 Suits)	2021-03-09 — 16:55:49 UTC	knaphill, Spieler42	8	5	25
+462451	2	0	Totally Blind (5 Suits)	2021-03-09 — 16:45:44 UTC	knaphill, Spieler42	11	5	25
+462448	2	0	Totally Blind (5 Suits)	2021-03-09 — 16:40:37 UTC	knaphill, Spieler42	15	5	25
+462443	2	0	Totally Blind (5 Suits)	2021-03-09 — 16:34:02 UTC	knaphill, Spieler42	29	5	25
+462434	3	0	No Variant	2021-03-09 — 16:22:33 UTC	knaphill, musiclover23, Spieler42	154	5	25
+462427	3	14	Rainbow & Prism (3 Suits)	2021-03-09 — 16:11:57 UTC	orucsoraihc, Spieler42, superbipbip	1	3	15
+462420	3	0	Rainbow & Prism (3 Suits)	2021-03-09 — 16:01:17 UTC	orucsoraihc, Spieler42, superbipbip	1	3	15
+462419	3	0	Rainbow & Prism (3 Suits)	2021-03-09 — 15:56:38 UTC	orucsoraihc, Spieler42, superbipbip	1	3	15
+462416	3	0	Rainbow & Prism (3 Suits)	2021-03-09 — 15:47:01 UTC	orucsoraihc, Spieler42, superbipbip	1	3	15
+462412	3	0	Rainbow & Prism (3 Suits)	2021-03-09 — 15:37:30 UTC	orucsoraihc, Spieler42, superbipbip	1	3	15
+462410	3	0	Rainbow & Prism (3 Suits)	2021-03-09 — 15:33:19 UTC	orucsoraihc, Spieler42, superbipbip	1	3	15
+462311	2	0	Alternating Clues (6 Suits)	2021-03-09 — 12:28:28 UTC	possum, Spieler42	19	6	30
+462291	3	27	Black (6 Suits)	2021-03-09 — 11:43:55 UTC	CaitlinSmith, kopen, Spieler42	399	6	30
+462281	5	23	Dark Brown (5 Suits)	2021-03-09 — 11:12:58 UTC	asaelr, indego, kopen, Lel0uch, Spieler42	1	5	25
+462279	5	30	Rainbow & Muddy Rainbow (6 Suits)	2021-03-09 — 10:48:54 UTC	asaelr, indego, kopen, Lel0uch, Spieler42	5	6	30
+462277	4	0	White & Brown (6 Suits)	2021-03-09 — 10:23:55 UTC	indego, kopen, Lel0uch, Spieler42	2	6	30
+462275	4	0	White & Brown (6 Suits)	2021-03-09 — 10:14:05 UTC	indego, kopen, Lel0uch, Spieler42	6	6	30
+462274	3	0	White & Brown (6 Suits)	2021-03-09 — 10:09:29 UTC	kopen, Lel0uch, Spieler42	10	6	30
+461352	6	0	Rainbow (5 Suits)	2021-03-08 — 14:26:00 UTC	4head, eliclax, Lanvin, possum, skyblueexo, Spieler42	2	5	25
+461344	6	0	Rainbow (5 Suits)	2021-03-08 — 14:12:09 UTC	4head, eliclax, Lanvin, possum, skyblueexo, Spieler42	6	5	25
+461337	6	0	Rainbow (5 Suits)	2021-03-08 — 13:55:49 UTC	4head, eliclax, Lanvin, possum, skyblueexo, Spieler42	7	5	25
+461333	5	0	Brown-Ones & Black (6 Suits)	2021-03-08 — 13:40:49 UTC	4head, eliclax, Lanvin, possum, Spieler42	1	6	30
+460107	5	0	Black & White (6 Suits)	2021-03-07 — 14:37:53 UTC	Denchulitas, eliclax, Lanvin, robense, Spieler42	3	6	30
+460095	5	22	Rainbow & Gray Pink (5 Suits)	2021-03-07 — 14:11:46 UTC	indego, Lel0uch, MarkusKahlsen, Nitrate2, Spieler42	2	5	25
+460069	4	0	Black (5 Suits)	2021-03-07 — 13:15:25 UTC	eliclax, knaphill, possum, Spieler42	13	5	25
+460055	4	23	Black (5 Suits)	2021-03-07 — 12:37:42 UTC	eliclax, knaphill, possum, Spieler42	14	5	25
+460038	4	0	Black (5 Suits)	2021-03-07 — 12:05:20 UTC	eliclax, knaphill, possum, Spieler42	23	5	25
+460016	5	0	Dark Brown (6 Suits)	2021-03-07 — 11:11:48 UTC	eliclax, knaphill, possum, sephiroth, Spieler42	5	6	30
+460009	5	0	Dark Brown (6 Suits)	2021-03-07 — 10:39:21 UTC	eliclax, knaphill, possum, sephiroth, Spieler42	10	6	30
+457651	4	0	Ambiguous (6 Suits)	2021-03-05 — 16:29:14 UTC	doctorabi, ksfortson, Spieler42, Wittvector	13	6	30
+457610	5	0	Rainbow (6 Suits)	2021-03-05 — 15:32:28 UTC	eliclax, Lel0uch, melwen, Nitrate2, Spieler42	21	6	30
+457604	5	29	Rainbow (6 Suits)	2021-03-05 — 15:18:35 UTC	eliclax, Lel0uch, melwen, Nitrate2, Spieler42	22	6	30
+456823	3	22	Black (5 Suits)	2021-03-04 — 23:06:48 UTC	CaitlinSmith, DarthGandalf, Spieler42	24	5	25
+456792	3	0	Black (5 Suits)	2021-03-04 — 22:47:50 UTC	CaitlinSmith, DarthGandalf, Spieler42	22	5	25
+456755	4	0	No Variant	2021-03-04 — 22:27:45 UTC	DarthGandalf, knaphill, Spieler42, Virgil	97	5	25
+456719	4	0	No Variant	2021-03-04 — 21:48:22 UTC	DarthGandalf, knaphill, Spieler42, Virgil	156	5	25
+456703	4	0	6 Suits	2021-03-04 — 21:26:58 UTC	DarthGandalf, orucsoraihc, Spieler42, Virgil	47	6	30
+456683	4	0	6 Suits	2021-03-04 — 21:03:42 UTC	DarthGandalf, orucsoraihc, Spieler42, Virgil	49	6	30
+456662	4	0	6 Suits	2021-03-04 — 20:45:00 UTC	DarthGandalf, orucsoraihc, Spieler42, Virgil	68	6	30
+456500	3	0	Black & Brown (5 Suits)	2021-03-04 — 17:43:53 UTC	Onen, Spieler42, TimeHoodie	11	5	25
+456491	3	23	Black & Brown (5 Suits)	2021-03-04 — 17:33:00 UTC	Onen, Spieler42, TimeHoodie	16	5	25
+456424	5	0	Pink & Prism (5 Suits)	2021-03-04 — 15:28:14 UTC	Feich59, Fey, indego, Kowalski1337, Spieler42	2	5	25
+456402	5	0	Pink & Prism (5 Suits)	2021-03-04 — 14:57:04 UTC	Feich59, Fey, indego, Kowalski1337, Spieler42	2	5	25
+456227	4	30	Prism (6 Suits)	2021-03-04 — 09:33:06 UTC	eliclax, kopen, possum, Spieler42	53	6	30
+455533	3	15	Rainbow & Prism (3 Suits)	2021-03-03 — 20:06:18 UTC	CaitlinSmith, sean1815, Spieler42	1	3	15
+455526	3	0	Rainbow & Prism (3 Suits)	2021-03-03 — 19:59:26 UTC	CaitlinSmith, sean1815, Spieler42	1	3	15
+455499	3	13	Rainbow & Prism (3 Suits)	2021-03-03 — 19:36:58 UTC	CaitlinSmith, sean1815, Spieler42	1	3	15
+455465	5	0	4 Suits	2021-03-03 — 19:17:39 UTC	antitelharsic, CaitlinSmith, IsabeltheCat, sean1815, Spieler42	47	4	20
+455281	5	24	Dark Brown (5 Suits)	2021-03-03 — 14:31:39 UTC	Lanvin, Nitrate2, sephiroth, Spieler42, VerySloppyTwo	2	5	25
+454264	5	0	Pink & White (6 Suits)	2021-03-02 — 17:57:57 UTC	bjnh, IsabeltheCat, jeff10, rz, Spieler42	5	6	30
+454254	5	0	Pink & White (6 Suits)	2021-03-02 — 17:40:21 UTC	bjnh, IsabeltheCat, jeff10, rz, Spieler42	5	6	30
+454242	3	0	Gray (6 Suits)	2021-03-02 — 17:19:29 UTC	Lel0uch, Onen, Spieler42	8	6	30
+454206	4	20	Gray (5 Suits)	2021-03-02 — 16:43:44 UTC	HelanaAshryvr, Lel0uch, Spieler42, squirrel1988	12	5	25
+454135	3	24	Black (5 Suits)	2021-03-02 — 12:58:27 UTC	eliclax, possum, Spieler42	119	5	25
+454124	4	0	Black (5 Suits)	2021-03-02 — 12:35:21 UTC	Denchulitas, eliclax, possum, Spieler42	14	5	25
+454121	3	0	Black (5 Suits)	2021-03-02 — 12:20:38 UTC	Denchulitas, eliclax, Spieler42	134	5	25
+454111	4	21	Black (5 Suits)	2021-03-02 — 11:58:41 UTC	Denchulitas, eliclax, possum, Spieler42	21	5	25
+454105	4	21	Black (5 Suits)	2021-03-02 — 11:30:53 UTC	Denchulitas, eliclax, possum, Spieler42	28	5	25
+451978	4	25	Dual-Color (5 Suits)	2021-02-28 — 16:29:51 UTC	asaelr, BraydonM, Kernel, Spieler42	4	5	25
+451858	4	27	Dark Omni & Gray Pink (6 Suits)	2021-02-28 — 11:14:41 UTC	doctorabi, robense, Spieler42, Wittvector	1	6	30
+451233	4	0	Ambiguous (6 Suits)	2021-02-27 — 22:44:24 UTC	Bot-Fiora, CaitlinSmith, eljavi, Spieler42	20	6	30
+451211	5	0	Black & White (6 Suits)	2021-02-27 — 22:23:54 UTC	Bot-Fiora, CaitlinSmith, eljavi, ksfortson, Spieler42	13	6	30
+450815	2	0	No Variant	2021-02-27 — 13:45:31 UTC	Nils, Spieler42	411	5	25
+450810	2	21	No Variant	2021-02-27 — 13:32:10 UTC	Nils, Spieler42	423	5	25
+450805	2	0	No Variant	2021-02-27 — 13:16:20 UTC	Nils, Spieler42	432	5	25
+450803	2	23	No Variant	2021-02-27 — 13:09:37 UTC	Nils, Spieler42	440	5	25
+450760	5	29	Light Pink & Prism (6 Suits)	2021-02-27 — 10:49:23 UTC	Fey, Kernel, Lel0uch, Spieler42, TimeHoodie	2	6	30
+450754	4	25	No Variant	2021-02-27 — 10:25:43 UTC	Fey, MarkusKahlsen, robense, Spieler42	52	5	25
+450751	4	25	No Variant	2021-02-27 — 10:04:42 UTC	Fey, MarkusKahlsen, robense, Spieler42	53	5	25
+450086	3	15	Rainbow & Prism (3 Suits)	2021-02-26 — 21:02:32 UTC	BraydonM, kevincaseytdk1, Spieler42	1	3	15
+450076	3	14	Rainbow & Prism (3 Suits)	2021-02-26 — 20:53:56 UTC	BraydonM, kevincaseytdk1, Spieler42	1	3	15
+450070	3	0	Rainbow & Prism (3 Suits)	2021-02-26 — 20:43:47 UTC	BraydonM, kevincaseytdk1, Spieler42	1	3	15
+450064	3	0	Rainbow & Prism (3 Suits)	2021-02-26 — 20:36:31 UTC	BraydonM, kevincaseytdk1, Spieler42	1	3	15
+450058	3	0	Rainbow & Prism (3 Suits)	2021-02-26 — 20:29:50 UTC	BraydonM, kevincaseytdk1, Spieler42	1	3	15
+450055	3	0	Rainbow & Prism (3 Suits)	2021-02-26 — 20:25:21 UTC	BraydonM, kevincaseytdk1, Spieler42	1	3	15
+450051	3	0	Rainbow & Prism (3 Suits)	2021-02-26 — 20:21:49 UTC	BraydonM, kevincaseytdk1, Spieler42	1	3	15
+450041	3	0	Rainbow & Prism (3 Suits)	2021-02-26 — 20:11:17 UTC	BraydonM, kevincaseytdk1, Spieler42	1	3	15
+450034	3	25	No Variant	2021-02-26 — 19:55:30 UTC	BraydonM, kevincaseytdk1, Spieler42	125	5	25
+449923	4	24	Rainbow-Ones (5 Suits)	2021-02-26 — 17:50:07 UTC	bjnh, eljavi, rz, Spieler42	2	5	25
+449878	3	25	No Variant	2021-02-26 — 16:32:06 UTC	dobi, robense, Spieler42	19	5	25
+449872	3	23	No Variant	2021-02-26 — 16:14:56 UTC	dobi, robense, Spieler42	19	5	25
+449831	2	24	No Variant	2021-02-26 — 13:59:34 UTC	robense, Spieler42	62	5	25
+449828	2	23	No Variant	2021-02-26 — 13:49:40 UTC	robense, Spieler42	62	5	25
+449827	2	23	No Variant	2021-02-26 — 13:41:33 UTC	robense, Spieler42	62	5	25
+449824	2	23	No Variant	2021-02-26 — 13:32:24 UTC	robense, Spieler42	63	5	25
+449795	3	23	No Variant	2021-02-26 — 12:17:44 UTC	banjoleb, possum, Spieler42	76	5	25
+449782	3	0	No Variant	2021-02-26 — 11:50:07 UTC	banjoleb, possum, Spieler42	79	5	25
+449776	2	0	No Variant	2021-02-26 — 11:33:27 UTC	bingchin, Spieler42	450	5	25
+449774	2	0	No Variant	2021-02-26 — 11:29:27 UTC	bingchin, Spieler42	455	5	25
+449769	2	0	No Variant	2021-02-26 — 11:16:36 UTC	bingchin, Spieler42	458	5	25
+449766	2	0	No Variant	2021-02-26 — 11:10:22 UTC	bingchin, Spieler42	476	5	25
+449764	3	0	No Variant	2021-02-26 — 10:57:29 UTC	bingchin, hamood, Spieler42	178	5	25
+448863	4	25	White-Ones & Pink (5 Suits)	2021-02-25 — 19:09:17 UTC	griff77, orucsoraihc, Spieler42, torp	1	5	25
+448853	4	0	White-Ones & Pink (5 Suits)	2021-02-25 — 18:46:19 UTC	griff77, orucsoraihc, Spieler42, torp	2	5	25
+448837	4	0	White-Ones & Pink (5 Suits)	2021-02-25 — 18:32:34 UTC	griff77, orucsoraihc, Spieler42, torp	4	5	25
+448814	4	0	Rainbow-Ones & White (5 Suits)	2021-02-25 — 18:15:02 UTC	griff77, rz, Spieler42, torp	4	5	25
+448719	2	0	Pink & White (6 Suits)	2021-02-25 — 15:37:41 UTC	robense, Spieler42	15	6	30
+448714	2	0	Pink & White (6 Suits)	2021-02-25 — 15:32:38 UTC	robense, Spieler42	15	6	30
+448710	2	0	Pink & White (6 Suits)	2021-02-25 — 15:23:14 UTC	robense, Spieler42	20	6	30
+448706	2	0	Pink & White (6 Suits)	2021-02-25 — 15:17:47 UTC	robense, Spieler42	23	6	30
+448704	2	0	Pink & White (6 Suits)	2021-02-25 — 15:11:29 UTC	robense, Spieler42	26	6	30
+448701	2	0	Pink & White (6 Suits)	2021-02-25 — 15:05:46 UTC	robense, Spieler42	31	6	30
+447995	5	19	Rainbow (4 Suits)	2021-02-24 — 21:00:22 UTC	4head, banjoleb, griff77, robense, Spieler42	6	4	20
+447967	4	18	Rainbow (4 Suits)	2021-02-24 — 20:36:59 UTC	Feich59, griff77, robense, Spieler42	17	4	20
+447951	4	0	Rainbow (4 Suits)	2021-02-24 — 20:14:50 UTC	Feich59, griff77, Kowalski1337, Spieler42	20	4	20
+447882	5	23	Null (5 Suits)	2021-02-24 — 19:02:35 UTC	indego, MangoPie, melwen, newduke, Spieler42	6	5	25
+447847	3	0	Totally Blind (5 Suits)	2021-02-24 — 18:37:51 UTC	knaphill, nkkarpov, Spieler42	14	5	25
+447836	3	25	No Variant	2021-02-24 — 18:23:27 UTC	knaphill, nkkarpov, Spieler42	137	5	25
+447823	3	24	No Variant	2021-02-24 — 18:02:00 UTC	knaphill, nkkarpov, Spieler42	151	5	25
+447807	3	0	No Variant	2021-02-24 — 17:42:00 UTC	knaphill, rz, Spieler42	156	5	25
+447797	3	0	No Variant	2021-02-24 — 17:19:45 UTC	knaphill, rz, Spieler42	157	5	25
+447744	3	0	Rainbow & Prism (3 Suits)	2021-02-24 — 15:52:11 UTC	banjoleb, Nitrate, Spieler42	1	3	15
+447740	3	0	Rainbow & Prism (3 Suits)	2021-02-24 — 15:39:10 UTC	banjoleb, Nitrate, Spieler42	1	3	15
+447733	3	14	Rainbow & Prism (3 Suits)	2021-02-24 — 15:28:35 UTC	banjoleb, Nitrate, Spieler42	1	3	15
+447727	3	14	Rainbow & Prism (3 Suits)	2021-02-24 — 15:18:57 UTC	banjoleb, Nitrate, Spieler42	1	3	15
+447719	3	13	Rainbow & Prism (3 Suits)	2021-02-24 — 15:09:04 UTC	banjoleb, Nitrate, Spieler42	2	3	15
+447650	3	0	Rainbow & Prism (3 Suits)	2021-02-24 — 11:47:19 UTC	BraydonM, Denchulitas, Spieler42	2	3	15
+447649	3	0	Rainbow & Prism (3 Suits)	2021-02-24 — 11:41:05 UTC	BraydonM, Denchulitas, Spieler42	2	3	15
+447648	3	0	Rainbow & Prism (3 Suits)	2021-02-24 — 11:32:32 UTC	BraydonM, Denchulitas, Spieler42	6	3	15
+447646	3	0	Rainbow & Prism (3 Suits)	2021-02-24 — 11:25:30 UTC	BraydonM, Denchulitas, Spieler42	8	3	15
+447644	3	0	Rainbow & Prism (3 Suits)	2021-02-24 — 11:21:02 UTC	BraydonM, Denchulitas, Spieler42	10	3	15
+447643	3	0	Prism (6 Suits)	2021-02-24 — 11:13:08 UTC	BraydonM, Denchulitas, Spieler42	10	6	30
+447640	3	28	Prism (6 Suits)	2021-02-24 — 11:01:20 UTC	BraydonM, Denchulitas, Spieler42	11	6	30
+447637	3	27	Prism (6 Suits)	2021-02-24 — 10:38:29 UTC	BraydonM, Denchulitas, Spieler42	12	6	30
+447625	2	25	No Variant	2021-02-24 — 09:25:14 UTC	bingchin, Spieler42	506	5	25
+447620	2	0	No Variant	2021-02-24 — 09:11:53 UTC	bingchin, Spieler42	526	5	25
+447618	2	0	No Variant	2021-02-24 — 09:08:07 UTC	bingchin, Spieler42	534	5	25
+447616	2	0	No Variant	2021-02-24 — 08:59:38 UTC	bingchin, Spieler42	549	5	25
+447612	2	0	No Variant	2021-02-24 — 08:50:09 UTC	bingchin, Spieler42	555	5	25
+447607	2	0	No Variant	2021-02-24 — 08:32:27 UTC	bingchin, Spieler42	581	5	25
+447604	2	0	No Variant	2021-02-24 — 08:24:09 UTC	bingchin, Spieler42	593	5	25
+447599	2	0	No Variant	2021-02-24 — 08:07:02 UTC	bingchin, Spieler42	597	5	25
+447596	2	0	No Variant	2021-02-24 — 08:01:15 UTC	bingchin, Spieler42	626	5	25
+447594	2	22	No Variant	2021-02-24 — 07:53:55 UTC	bingchin, Spieler42	654	5	25
+446949	3	22	Up or Down (5 Suits)	2021-02-23 — 20:53:44 UTC	eljavi, ksfortson, Spieler42	57	5	25
+446909	3	21	Up or Down (5 Suits)	2021-02-23 — 20:27:04 UTC	eljavi, ksfortson, Spieler42	88	5	25
+446847	3	0	6 Suits	2021-02-23 — 19:45:22 UTC	griff77, Spieler42, torp	147	6	30
+446792	3	0	6 Suits	2021-02-23 — 19:13:08 UTC	griff77, Spieler42, torp	168	6	30
+446602	2	0	Black & Prism (6 Suits)	2021-02-23 — 14:19:11 UTC	robense, Spieler42	25	6	30
+446601	2	0	Black & Prism (6 Suits)	2021-02-23 — 14:12:15 UTC	robense, Spieler42	25	6	30
+446599	2	0	Black & Prism (6 Suits)	2021-02-23 — 14:09:12 UTC	robense, Spieler42	31	6	30
+445995	3	17	White (4 Suits)	2021-02-22 — 23:09:27 UTC	4head, PotatoLatte, Spieler42	46	4	20
+445981	4	0	White (4 Suits)	2021-02-22 — 22:53:28 UTC	4head, PotatoLatte, rahsosprout, Spieler42	13	4	20
+445969	4	0	White (4 Suits)	2021-02-22 — 22:44:06 UTC	4head, PotatoLatte, rahsosprout, Spieler42	20	4	20
+445942	4	25	No Variant	2021-02-22 — 22:25:47 UTC	4head, PotatoLatte, rahsosprout, Spieler42	36	5	25
+445921	4	0	Ambiguous (4 Suits)	2021-02-22 — 22:10:31 UTC	4head, rahsosprout, Spieler42, torp	11	4	20
+445913	4	0	Ambiguous (4 Suits)	2021-02-22 — 22:00:13 UTC	4head, rahsosprout, Spieler42, torp	20	4	20
+445890	3	20	Brown (4 Suits)	2021-02-22 — 21:40:22 UTC	rahsosprout, Spieler42, torp	31	4	20
+445525	5	0	Black (5 Suits)	2021-02-22 — 15:28:21 UTC	dobi, PotatoLatte, rz, Spieler42, Wittvector	18	5	25
+445508	4	0	Rainbow & Pink (6 Suits)	2021-02-22 — 14:46:30 UTC	Lanvin, sephiroth, Spieler42, VerySloppyTwo	3	6	30
+445506	4	0	Rainbow & Pink (6 Suits)	2021-02-22 — 14:46:12 UTC	Lanvin, sephiroth, Spieler42, VerySloppyTwo	3	6	30
+444378	2	23	No Variant	2021-02-21 — 15:23:48 UTC	Nico123, Spieler42	496	5	25
+443255	4	24	No Variant	2021-02-20 — 18:01:56 UTC	griff77, ontak, possum, Spieler42	99	5	25
+443234	3	25	No Variant	2021-02-20 — 17:31:22 UTC	indego, possum, Spieler42	130	5	25
+443219	3	0	No Variant	2021-02-20 — 17:01:47 UTC	DarthGandalf, knaphill, Spieler42	160	5	25
+443205	3	24	No Variant	2021-02-20 — 16:40:04 UTC	DarthGandalf, knaphill, Spieler42	164	5	25
+443191	6	21	Rainbow (5 Suits)	2021-02-20 — 16:09:58 UTC	DarthGandalf, eljavi, Espen, knaphill, ontak, Spieler42	11	5	25
+443183	6	0	Rainbow (5 Suits)	2021-02-20 — 15:37:10 UTC	DarthGandalf, eljavi, Espen, knaphill, ontak, Spieler42	14	5	25
+443179	6	0	Rainbow (5 Suits)	2021-02-20 — 15:25:21 UTC	DarthGandalf, eljavi, Espen, knaphill, ontak, Spieler42	15	5	25
+443177	4	23	No Variant	2021-02-20 — 15:15:45 UTC	Espen, ontak, possum, Spieler42	111	5	25
+443169	4	25	No Variant	2021-02-20 — 14:48:03 UTC	Espen, ontak, possum, Spieler42	138	5	25
+443164	4	0	No Variant	2021-02-20 — 14:31:12 UTC	Espen, ontak, possum, Spieler42	149	5	25
+443154	4	0	No Variant	2021-02-20 — 14:11:55 UTC	Espen, ontak, possum, Spieler42	158	5	25
+443149	4	0	No Variant	2021-02-20 — 13:58:58 UTC	Espen, ontak, possum, Spieler42	167	5	25
+443143	5	0	Rainbow (5 Suits)	2021-02-20 — 13:44:33 UTC	MangoPie, ontak, possum, robense, Spieler42	34	5	25
+442382	5	17	Rainbow (4 Suits)	2021-02-19 — 22:43:31 UTC	griff77, MangoPie, ontak, possum, Spieler42	9	4	20
+442333	5	17	Rainbow (4 Suits)	2021-02-19 — 22:08:43 UTC	griff77, Nitrate, ontak, possum, Spieler42	11	4	20
+442276	5	18	Rainbow (4 Suits)	2021-02-19 — 21:26:56 UTC	griff77, Nitrate, ontak, possum, Spieler42	16	4	20
+442224	5	0	Black (5 Suits)	2021-02-19 — 20:52:18 UTC	griff77, Nitrate, ontak, possum, Spieler42	12	5	25
+442185	5	0	Black (5 Suits)	2021-02-19 — 20:24:17 UTC	griff77, Nitrate, ontak, possum, Spieler42	13	5	25
+442160	5	0	Black (5 Suits)	2021-02-19 — 19:57:34 UTC	griff77, Nitrate, ontak, possum, Spieler42	17	5	25
+442142	5	0	Black (5 Suits)	2021-02-19 — 19:31:12 UTC	griff77, Nitrate, ontak, possum, Spieler42	17	5	25
+442122	5	0	Black (5 Suits)	2021-02-19 — 19:10:54 UTC	griff77, Nitrate, ontak, possum, Spieler42	20	5	25
+442095	3	20	White-Ones (4 Suits)	2021-02-19 — 18:26:18 UTC	possum, Spieler42, torp	3	4	20
+442079	3	19	White-Ones (4 Suits)	2021-02-19 — 18:14:56 UTC	possum, Spieler42, torp	7	4	20
+442062	3	0	White-Ones (6 Suits)	2021-02-19 — 18:03:41 UTC	possum, Spieler42, torp	7	6	30
+442052	5	16	4 Suits	2021-02-19 — 17:48:19 UTC	BraydonM, ksfortson, possum, Spieler42, torp	17	4	20
+442044	5	16	4 Suits	2021-02-19 — 17:28:35 UTC	BraydonM, ksfortson, possum, Spieler42, torp	16	4	20
+442030	4	28	6 Suits	2021-02-19 — 17:06:09 UTC	Kyle, MathNoob, narabio, Spieler42	81	6	30
+441971	4	20	Rainbow (4 Suits)	2021-02-19 — 14:59:28 UTC	BraydonM, ontak, possum, Spieler42	25	4	20
+441962	4	19	Rainbow (4 Suits)	2021-02-19 — 14:44:10 UTC	BraydonM, ontak, possum, Spieler42	32	4	20
+441951	4	0	Gray (6 Suits)	2021-02-19 — 14:20:58 UTC	BraydonM, ontak, possum, Spieler42	18	6	30
+441946	4	0	Gray (6 Suits)	2021-02-19 — 14:03:42 UTC	BraydonM, ontak, possum, Spieler42	18	6	30
+441942	4	0	Gray (6 Suits)	2021-02-19 — 13:46:03 UTC	BraydonM, ontak, possum, Spieler42	22	6	30
+441930	4	28	Gray (6 Suits)	2021-02-19 — 13:31:13 UTC	BraydonM, ontak, possum, Spieler42	29	6	30
+441898	4	27	Black (6 Suits)	2021-02-19 — 12:06:27 UTC	BraydonM, indego, Spieler42, Wittvector	102	6	30
+441889	4	24	Black (6 Suits)	2021-02-19 — 11:33:44 UTC	BraydonM, indego, Spieler42, Wittvector	112	6	30
+441881	3	0	Prism (5 Suits)	2021-02-19 — 11:06:39 UTC	BraydonM, catula, Spieler42	10	5	25
+441173	3	27	White & Brown (6 Suits)	2021-02-18 — 21:24:45 UTC	ksfortson, MangoPie, Spieler42	12	6	30
+441140	3	0	White & Brown (6 Suits)	2021-02-18 — 20:57:06 UTC	ksfortson, MangoPie, Spieler42	16	6	30
+441111	3	0	White & Brown (6 Suits)	2021-02-18 — 20:36:02 UTC	ksfortson, MangoPie, Spieler42	20	6	30
+440910	2	0	Black (6 Suits)	2021-02-18 — 16:00:17 UTC	BananaBum, Spieler42	442	6	30
+440905	2	28	Black (6 Suits)	2021-02-18 — 15:44:56 UTC	BananaBum, Spieler42	546	6	30
+440900	2	0	Black (6 Suits)	2021-02-18 — 15:32:04 UTC	BananaBum, Spieler42	643	6	30
+440898	2	20	4 Suits	2021-02-18 — 15:24:46 UTC	BananaBum, Spieler42	244	4	20
+440851	4	22	Black (5 Suits)	2021-02-18 — 12:50:56 UTC	knaphill, possum, Spieler42, swineherd	44	5	25
+440846	4	0	Black (5 Suits)	2021-02-18 — 12:32:02 UTC	knaphill, ontak, possum, Spieler42	24	5	25
+440844	4	0	Black (5 Suits)	2021-02-18 — 12:26:41 UTC	knaphill, ontak, possum, Spieler42	32	5	25
+440843	4	0	Black (5 Suits)	2021-02-18 — 12:23:59 UTC	knaphill, ontak, possum, Spieler42	36	5	25
+439998	4	20	4 Suits	2021-02-17 — 16:32:16 UTC	knaphill, ontak, possum, Spieler42	101	4	20
+439994	3	27	Black (6 Suits)	2021-02-17 — 16:07:44 UTC	ontak, possum, Spieler42	83	6	30
+439988	3	0	Black (6 Suits)	2021-02-17 — 15:47:44 UTC	ontak, possum, Spieler42	95	6	30
+439985	3	0	Black (6 Suits)	2021-02-17 — 15:36:17 UTC	ontak, possum, Spieler42	97	6	30
+439981	3	0	Black (6 Suits)	2021-02-17 — 15:29:04 UTC	ontak, possum, Spieler42	108	6	30
+439980	3	0	Black (6 Suits)	2021-02-17 — 15:19:43 UTC	ontak, possum, Spieler42	119	6	30
+439927	5	24	No Variant	2021-02-17 — 13:08:02 UTC	BananaBum, frosty104, possum, Spieler42, Wittvector	163	5	25
+439911	5	0	Prism (6 Suits)	2021-02-17 — 12:37:34 UTC	BananaBum, ontak, possum, Spieler42, Wittvector	24	6	30
+439096	4	25	No Variant	2021-02-16 — 12:55:22 UTC	banjoleb, possum, skyblueexo, Spieler42	233	5	25
+439088	3	25	No Variant	2021-02-16 — 12:25:12 UTC	DarthGandalf, possum, Spieler42	148	5	25
+439082	3	22	No Variant	2021-02-16 — 12:03:30 UTC	DarthGandalf, possum, Spieler42	167	5	25
+438383	2	0	Dark Prism (6 Suits)	2021-02-15 — 20:50:25 UTC	rachyrules, Spieler42	33	6	30
+438361	2	0	Dark Prism (6 Suits)	2021-02-15 — 20:31:29 UTC	rachyrules, Spieler42	34	6	30
+438353	2	0	Dark Prism (6 Suits)	2021-02-15 — 20:24:03 UTC	rachyrules, Spieler42	38	6	30
+438144	6	29	Rainbow (6 Suits)	2021-02-15 — 16:47:41 UTC	4head, BananaBum, Bot-Fiora, ChristopheAF, griff77, Spieler42	23	6	30
+438105	6	0	Rainbow (6 Suits)	2021-02-15 — 15:57:34 UTC	4head, BananaBum, Bot-Fiora, ChristopheAF, griff77, Spieler42	60	6	30
+438093	2	19	No Variant	2021-02-15 — 15:42:44 UTC	jaeger0, Spieler42	677	5	25
+438083	2	0	No Variant	2021-02-15 — 15:14:55 UTC	jaeger0, Spieler42	699	5	25
+437125	4	0	Pink (4 Suits)	2021-02-14 — 18:41:55 UTC	CaitlinSmith, ontak, Spieler42, torp	19	4	20
+437101	4	0	Pink (4 Suits)	2021-02-14 — 18:18:53 UTC	CaitlinSmith, ontak, Spieler42, torp	22	4	20
+437065	3	23	Black (5 Suits)	2021-02-14 — 17:41:11 UTC	DarthGandalf, ontak, Spieler42	171	5	25
+437028	2	0	No Variant	2021-02-14 — 17:10:06 UTC	DarthGandalf, Spieler42	719	5	25
+436872	4	22	Ambiguous & Muddy Rainbow (5 Suits)	2021-02-14 — 13:27:20 UTC	jeff10, Lanvin, Spieler42, TimeHoodie	1	5	25
+436842	3	0	Rainbow & Pink (4 Suits)	2021-02-14 — 13:02:11 UTC	Lanvin, sephiroth, Spieler42	14	4	20
+436695	5	0	No Variant	2021-02-14 — 08:10:20 UTC	4head, CaitlinSmith, rahsosprout, Spieler42, Wittvector	45	5	25
+436683	3	25	No Variant	2021-02-14 — 07:46:17 UTC	Dr_Kakashi, indego, Spieler42	16	5	25
+436672	3	0	No Variant	2021-02-14 — 07:26:10 UTC	Dr_Kakashi, indego, Spieler42	19	5	25
+436578	4	0	Number Blind (4 Suits)	2021-02-14 — 06:20:59 UTC	4head, lolthisnotderk, Spieler42, torp	2	4	20
+436568	6	30	6 Suits	2021-02-14 — 06:13:37 UTC	4head, Damian000, lolthisnotderk, otterful, Spieler42, torp	16	6	30
+436540	6	0	6 Suits	2021-02-14 — 05:54:38 UTC	4head, Damian000, lolthisnotderk, otterful, Spieler42, torp	19	6	30
+436019	5	0	Pink & Light Pink (5 Suits)	2021-02-13 — 21:26:43 UTC	4head, ChristopheAF, nkkarpov, Spieler42, torp	3	5	25
+435997	5	0	Pink & Light Pink (5 Suits)	2021-02-13 — 21:08:05 UTC	4head, ChristopheAF, nkkarpov, Spieler42, torp	5	5	25
+435735	4	0	White & Dark Prism (5 Suits)	2021-02-13 — 15:17:14 UTC	MangoPie, skyblueexo, Spieler42, Wittvector	2	5	25
+435723	4	0	White & Dark Prism (5 Suits)	2021-02-13 — 15:02:06 UTC	MangoPie, skyblueexo, Spieler42, Wittvector	2	5	25
+435718	4	0	White & Dark Prism (5 Suits)	2021-02-13 — 14:41:21 UTC	MangoPie, skyblueexo, Spieler42, Wittvector	3	5	25
+434629	4	24	Dual-Color (5 Suits)	2021-02-12 — 19:45:01 UTC	Daryl, narabio, Pimak, Spieler42	5	5	25
+434594	4	0	Dual-Color (5 Suits)	2021-02-12 — 19:09:17 UTC	Daryl, narabio, Pimak, Spieler42	7	5	25
+434577	4	0	Dual-Color (5 Suits)	2021-02-12 — 18:50:37 UTC	Daryl, duckless, Pimak, Spieler42	13	5	25
+434561	5	0	Rainbow (4 Suits)	2021-02-12 — 18:33:03 UTC	4head, bjnh, dobi, sephiroth, Spieler42	10	4	20
+434556	5	0	Rainbow (4 Suits)	2021-02-12 — 18:18:47 UTC	4head, bjnh, dobi, sephiroth, Spieler42	20	4	20
+434481	4	0	Gray (5 Suits)	2021-02-12 — 16:25:58 UTC	BananaBum, nwajfromoz, ontak, Spieler42	14	5	25
+434473	4	0	Gray (5 Suits)	2021-02-12 — 16:00:28 UTC	BananaBum, nwajfromoz, ontak, Spieler42	33	5	25
+434465	2	0	No Variant	2021-02-12 — 15:49:24 UTC	BananaBum, Spieler42	741	5	25
+434463	2	0	No Variant	2021-02-12 — 15:48:30 UTC	BananaBum, Spieler42	770	5	25
+434460	2	24	No Variant	2021-02-12 — 15:44:21 UTC	BananaBum, Spieler42	794	5	25
+432733	4	25	Dual-Color (5 Suits)	2021-02-10 — 22:30:31 UTC	colton, rz, Spieler42, torp	31	5	25
+432300	2	0	No Variant	2021-02-10 — 16:05:51 UTC	MEENASURESH, Spieler42	818	5	25
+432026	3	0	Dual-Color & Black (6 Suits)	2021-02-10 — 09:02:30 UTC	IsabeltheCat, Spieler42, wortel	4	6	30
+432017	3	0	Dual-Color & Black (6 Suits)	2021-02-10 — 08:42:59 UTC	IsabeltheCat, Spieler42, wortel	5	6	30
+432011	3	0	Dual-Color & Black (6 Suits)	2021-02-10 — 08:30:06 UTC	IsabeltheCat, Spieler42, wortel	8	6	30
+431981	2	21	White-Ones (5 Suits)	2021-02-10 — 06:53:09 UTC	eliclax, Spieler42	18	5	25
+431972	2	0	White-Ones (5 Suits)	2021-02-10 — 06:42:35 UTC	eliclax, Spieler42	23	5	25
+431959	3	29	Black (6 Suits)	2021-02-10 — 06:29:49 UTC	eliclax, skyblueexo, Spieler42	261	6	30
+430955	3	29	Rainbow & Prism (6 Suits)	2021-02-09 — 11:31:07 UTC	CaitlinSmith, macanek, Spieler42	3	6	30
+430944	3	0	Brown (6 Suits)	2021-02-09 — 10:51:20 UTC	CaitlinSmith, macanek, Spieler42	61	6	30
+430941	3	0	Brown (6 Suits)	2021-02-09 — 10:26:50 UTC	CaitlinSmith, macanek, Spieler42	84	6	30
+430939	2	25	No Variant	2021-02-09 — 10:15:44 UTC	macanek, Spieler42	45	5	25
+430937	2	0	No Variant	2021-02-09 — 10:02:44 UTC	macanek, Spieler42	45	5	25
+430936	2	0	No Variant	2021-02-09 — 09:54:38 UTC	macanek, Spieler42	44	5	25
+429892	3	0	Brown (6 Suits)	2021-02-08 — 13:59:55 UTC	indego, macanek, Spieler42	40	6	30
+429873	3	28	Brown (6 Suits)	2021-02-08 — 13:28:19 UTC	indego, macanek, Spieler42	52	6	30
+429409	4	25	No Variant	2021-02-07 — 22:55:31 UTC	4head, rahsosprout, Spieler42, voss	42	5	25
+429386	3	0	No Variant	2021-02-07 — 22:29:29 UTC	rahsosprout, Spieler42, voss	49	5	25
+429366	4	25	Brown (5 Suits)	2021-02-07 — 22:09:50 UTC	Denchulitas, newduke, Spieler42, voss	17	5	25
+429333	3	0	Brown (5 Suits)	2021-02-07 — 21:48:10 UTC	Denchulitas, newduke, Spieler42	38	5	25
+429319	4	20	Prism (4 Suits)	2021-02-07 — 21:29:24 UTC	Denchulitas, newduke, robense, Spieler42	21	4	20
+428880	4	25	Black & Pink (5 Suits)	2021-02-07 — 11:18:24 UTC	asaelr, CaitlinSmith, Lel0uch, Spieler42	4	5	25
+428865	4	0	Black & Pink (5 Suits)	2021-02-07 — 11:01:31 UTC	asaelr, CaitlinSmith, Lel0uch, Spieler42	6	5	25
+428824	2	0	No Variant	2021-02-07 — 09:56:29 UTC	louietyj, Spieler42	854	5	25
+428821	2	19	No Variant	2021-02-07 — 09:50:00 UTC	louietyj, Spieler42	883	5	25
+427698	3	0	No Variant	2021-02-06 — 16:22:41 UTC	griff77, MathNoob, Spieler42	194	5	25
+427685	4	0	Prism (5 Suits)	2021-02-06 — 15:53:47 UTC	CaitlinSmith, Daryl, MathNoob, Spieler42	23	5	25
+427670	4	25	Prism (5 Suits)	2021-02-06 — 15:26:27 UTC	CaitlinSmith, Daryl, MathNoob, Spieler42	29	5	25
+427577	4	25	Pink (5 Suits)	2021-02-06 — 11:27:31 UTC	4head, caña, louietyj, Spieler42	26	5	25
+427569	4	0	No Variant	2021-02-06 — 10:54:17 UTC	4head, caña, louietyj, Spieler42	43	5	25
+426911	4	19	Black (5 Suits)	2021-02-05 — 22:46:43 UTC	CaitlinSmith, DarthGandalf, Onen, Spieler42	21	5	25
+426885	4	22	Black (5 Suits)	2021-02-05 — 22:23:12 UTC	CaitlinSmith, DarthGandalf, Onen, Spieler42	32	5	25
+426839	4	0	No Variant	2021-02-05 — 21:52:41 UTC	Denchulitas, griff77, rahsosprout, Spieler42	117	5	25
+426818	5	0	No Variant	2021-02-05 — 21:37:59 UTC	Denchulitas, griff77, matchalatte, rahsosprout, Spieler42	50	5	25
+426787	5	22	No Variant	2021-02-05 — 21:18:10 UTC	Denchulitas, eljavi, griff77, rahsosprout, Spieler42	49	5	25
+426755	4	0	Pink (5 Suits)	2021-02-05 — 20:45:20 UTC	Denchulitas, griff77, rahsosprout, Spieler42	23	5	25
+426490	3	0	No Variant	2021-02-05 — 15:47:32 UTC	rahsosprout, robense, Spieler42	21	5	25
+426474	3	25	No Variant	2021-02-05 — 15:28:35 UTC	rahsosprout, robense, Spieler42	21	5	25
+426422	2	30	Rainbow & Pink (6 Suits)	2021-02-05 — 13:21:14 UTC	Spieler42, StKildaFan	18	6	30
+426415	2	0	Rainbow & Pink (6 Suits)	2021-02-05 — 13:10:29 UTC	Spieler42, StKildaFan	18	6	30
+426412	2	0	Rainbow & Pink (6 Suits)	2021-02-05 — 13:06:15 UTC	Spieler42, StKildaFan	24	6	30
+426408	2	0	Rainbow & Pink (6 Suits)	2021-02-05 — 13:01:44 UTC	Spieler42, StKildaFan	31	6	30
+426405	2	0	Rainbow & Pink (6 Suits)	2021-02-05 — 12:52:56 UTC	Spieler42, StKildaFan	40	6	30
+426402	2	0	Rainbow & Pink (6 Suits)	2021-02-05 — 12:49:16 UTC	Spieler42, StKildaFan	43	6	30
+426393	5	0	White (6 Suits)	2021-02-05 — 12:22:21 UTC	3swag3pro, Denchulitas, eliclax, Spieler42, Wittvector	20	6	30
+426388	4	23	No Variant	2021-02-05 — 11:53:50 UTC	3swag3pro, eliclax, Lel0uch, Spieler42	257	5	25
+425675	4	23	Black (5 Suits)	2021-02-04 — 20:42:25 UTC	Daryl, HariKrishnan, rahsosprout, Spieler42	36	5	25
+425644	4	0	Black (5 Suits)	2021-02-04 — 20:19:40 UTC	Daryl, HariKrishnan, rahsosprout, Spieler42	49	5	25
+425614	4	21	Black (5 Suits)	2021-02-04 — 20:01:51 UTC	Daryl, HariKrishnan, rahsosprout, Spieler42	63	5	25
+425300	4	21	White-Ones & Prism (5 Suits)	2021-02-04 — 13:40:43 UTC	Denchulitas, Floriman, Spieler42, TimeHoodie	5	5	25
+425281	4	25	White & Prism (5 Suits)	2021-02-04 — 13:16:02 UTC	Denchulitas, Floriman, Spieler42, TimeHoodie	11	5	25
+425221	3	29	6 Suits	2021-02-04 — 10:38:28 UTC	Denchulitas, possum, Spieler42	58	6	30
+425208	3	30	6 Suits	2021-02-04 — 10:10:23 UTC	Denchulitas, possum, Spieler42	60	6	30
+425203	3	0	6 Suits	2021-02-04 — 09:50:49 UTC	Denchulitas, possum, Spieler42	66	6	30
+424521	4	14	3 Suits	2021-02-03 — 20:50:03 UTC	Bot-Fiora, newduke, Spieler42, TimeHoodie	13	3	15
+424492	4	0	3 Suits	2021-02-03 — 20:35:25 UTC	Bot-Fiora, newduke, Spieler42, TimeHoodie	20	3	15
+424400	4	0	White & Brown (5 Suits)	2021-02-03 — 19:56:12 UTC	ChristopheAF, frosty104, Spieler42, Wittvector	8	5	25
+424361	4	0	White & Brown (5 Suits)	2021-02-03 — 19:41:01 UTC	ChristopheAF, frosty104, Spieler42, Wittvector	18	5	25
+424327	5	23	White & Brown (5 Suits)	2021-02-03 — 19:22:23 UTC	ChristopheAF, frosty104, Spieler42, Wittvector, wump	6	5	25
+424100	2	0	6 Suits	2021-02-03 — 16:14:59 UTC	Spieler42, vijayakumari	505	6	30
+423987	2	23	No Variant	2021-02-03 — 13:35:40 UTC	possum, Spieler42	513	5	25
+423980	2	15	3 Suits	2021-02-03 — 13:21:17 UTC	possum, Spieler42	271	3	15
+423339	5	25	Pink (5 Suits)	2021-02-02 — 21:50:53 UTC	Daryl, knaphill, Kyle, robense, Spieler42	2	5	25
+423305	4	0	Pink (5 Suits)	2021-02-02 — 21:28:43 UTC	knaphill, Kyle, robense, Spieler42	3	5	25
+423278	4	24	No Variant	2021-02-02 — 21:10:47 UTC	4head, knaphill, socerman, Spieler42	53	5	25
+423249	4	24	No Variant	2021-02-02 — 20:48:09 UTC	4head, knaphill, socerman, Spieler42	54	5	25
+422999	6	25	Pink & Light Pink (5 Suits)	2021-02-02 — 15:11:18 UTC	frosty104, indego, Lanvin, Lel0uch, sin_faith, Spieler42	1	5	25
+422929	4	29	6 Suits	2021-02-02 — 11:19:13 UTC	Denchulitas, eliclax, MKQ, Spieler42	39	6	30
+422910	3	0	6 Suits	2021-02-02 — 10:46:27 UTC	Denchulitas, eliclax, Spieler42	196	6	30
+422899	4	0	6 Suits	2021-02-02 — 10:27:11 UTC	Denchulitas, eliclax, Spieler42, StKildaFan	120	6	30
+422389	4	27	Black (6 Suits)	2021-02-01 — 21:45:51 UTC	asaelr, Denchulitas, newduke, Spieler42	20	6	30
+422170	5	20	Black (5 Suits)	2021-02-01 — 16:53:03 UTC	eliclax, eljavi, LautiManzano, possum, Spieler42	30	5	25
+422160	5	0	Black (5 Suits)	2021-02-01 — 16:18:10 UTC	eliclax, eljavi, LautiManzano, possum, Spieler42	36	5	25
+422151	4	25	Pink (5 Suits)	2021-02-01 — 15:48:44 UTC	eliclax, nwajfromoz, possum, Spieler42	34	5	25
+422139	4	24	Pink (5 Suits)	2021-02-01 — 15:07:12 UTC	eliclax, nwajfromoz, possum, Spieler42	51	5	25
+421414	2	25	Pink (5 Suits)	2021-01-31 — 22:05:56 UTC	Lanvin, Spieler42	200	5	25
+421396	5	0	Black (6 Suits)	2021-01-31 — 21:44:51 UTC	Denchulitas, eljavi, Spieler42, thejazzagent, voss	23	6	30
+421146	4	23	Gray (5 Suits)	2021-01-31 — 16:00:24 UTC	banjoleb, ChristopheAF, rz, Spieler42	13	5	25
+421139	4	23	Gray (5 Suits)	2021-01-31 — 15:41:00 UTC	banjoleb, ChristopheAF, rz, Spieler42	14	5	25
+421133	4	0	Gray (5 Suits)	2021-01-31 — 15:22:08 UTC	banjoleb, ChristopheAF, rz, Spieler42	22	5	25
+421127	4	0	Gray (5 Suits)	2021-01-31 — 15:09:06 UTC	banjoleb, ChristopheAF, rz, Spieler42	27	5	25
+421120	3	0	Gray Pink (6 Suits)	2021-01-31 — 14:51:12 UTC	banjoleb, ChristopheAF, Spieler42	13	6	30
+421112	3	0	Gray Pink (6 Suits)	2021-01-31 — 14:30:20 UTC	banjoleb, ChristopheAF, Spieler42	29	6	30
+421099	6	28	6 Suits	2021-01-31 — 14:08:23 UTC	DarthGandalf, eliclax, louietyj, possum, skyblueexo, Spieler42	50	6	30
+421061	6	0	6 Suits	2021-01-31 — 12:58:12 UTC	DarthGandalf, eliclax, louietyj, possum, skyblueexo, Spieler42	84	6	30
+420213	3	28	6 Suits	2021-01-30 — 22:07:06 UTC	Denchulitas, Spieler42, TimeHoodie	99	6	30
+420167	3	29	6 Suits	2021-01-30 — 21:44:40 UTC	Denchulitas, Spieler42, TimeHoodie	112	6	30
+420129	3	30	6 Suits	2021-01-30 — 21:26:16 UTC	Denchulitas, Spieler42, TimeHoodie	126	6	30
+419916	6	0	Black (6 Suits)	2021-01-30 — 17:57:27 UTC	4head, BlueNovember, griff77, HariKrishnan, Lanvin, Spieler42	38	6	30
+419906	5	19	Black (5 Suits)	2021-01-30 — 17:23:38 UTC	BlueNovember, griff77, HariKrishnan, Lanvin, Spieler42	27	5	25
+419888	3	25	Black & White (5 Suits)	2021-01-30 — 16:57:28 UTC	Lanvin, Spieler42, wump	45	5	25
+419813	5	0	Rainbow-Ones & Prism (6 Suits)	2021-01-30 — 15:02:51 UTC	indego, Lanvin, robense, rz, Spieler42	3	6	30
+419800	5	0	4 Suits	2021-01-30 — 14:31:45 UTC	indego, jack67889, Lel0uch, MarkusKahlsen, Spieler42	6	4	20
+419792	6	0	White & Muddy Rainbow (6 Suits)	2021-01-30 — 14:12:57 UTC	Floriman, indego, jack67889, Lel0uch, MarkusKahlsen, Spieler42	1	6	30
+419774	6	30	Black & Rainbow (6 Suits)	2021-01-30 — 13:46:17 UTC	Floriman, jack67889, Lel0uch, MarkusKahlsen, Spieler42, Sucubis	3	6	30
+418825	6	19	No Variant	2021-01-29 — 20:56:02 UTC	4head, CaitlinSmith, griff77, HariKrishnan, nkkarpov, Spieler42	91	5	25
+418785	4	25	Light-Pink-Ones & White (5 Suits)	2021-01-29 — 20:17:08 UTC	hakha3, Lanvin, Spieler42, TimeHoodie	2	5	25
+418634	3	30	Pink & White (6 Suits)	2021-01-29 — 17:26:41 UTC	Lel0uch, Spieler42, TimeHoodie	4	6	30
+418624	3	0	Pink & White (6 Suits)	2021-01-29 — 17:11:38 UTC	Lel0uch, Spieler42, TimeHoodie	8	6	30
+418568	5	0	Rainbow-Ones (5 Suits)	2021-01-29 — 14:39:04 UTC	Lanvin, sephiroth, Spieler42, TimeHoodie, Wittvector	5	5	25
+418560	3	17	White-Ones & Rainbow (4 Suits)	2021-01-29 — 14:14:31 UTC	Lanvin, Spieler42, TimeHoodie	3	4	20
+418530	3	0	No Variant	2021-01-29 — 12:31:38 UTC	macanek, sean1815, Spieler42	57	5	25
+418521	3	24	No Variant	2021-01-29 — 12:10:38 UTC	macanek, sean1815, Spieler42	58	5	25
+418511	3	25	No Variant	2021-01-29 — 11:48:52 UTC	macanek, sean1815, Spieler42	57	5	25
+418505	2	0	No Variant	2021-01-29 — 11:31:18 UTC	macanek, Spieler42	44	5	25
+418019	4	23	No Variant	2021-01-28 — 23:13:09 UTC	4head, bjnh, Denchulitas, Spieler42	70	5	25
+417990	4	22	No Variant	2021-01-28 — 22:46:31 UTC	4head, bjnh, Denchulitas, Spieler42	68	5	25
+417762	3	25	No Variant	2021-01-28 — 19:17:17 UTC	banjoleb, eljavi, Spieler42	170	5	25
+417747	3	0	No Variant	2021-01-28 — 19:03:48 UTC	banjoleb, eljavi, Spieler42	175	5	25
+417738	4	23	No Variant	2021-01-28 — 18:54:35 UTC	banjoleb, eljavi, robense, Spieler42	59	5	25
+417672	4	28	Pink (6 Suits)	2021-01-28 — 17:47:10 UTC	4head, ArualEIs, eljavi, Spieler42	54	6	30
+417651	4	0	Pink (6 Suits)	2021-01-28 — 17:18:55 UTC	4head, ArualEIs, eljavi, Spieler42	70	6	30
+417641	4	0	Black & Brown (5 Suits)	2021-01-28 — 16:58:26 UTC	4head, bjnh, eljavi, Spieler42	10	5	25
+417631	4	0	Black & Brown (5 Suits)	2021-01-28 — 16:38:26 UTC	4head, bjnh, eljavi, Spieler42	13	5	25
+417621	5	24	Brown-Ones & Rainbow (5 Suits)	2021-01-28 — 16:23:37 UTC	Floriman, HelanaAshryvr, Lanvin, Spieler42, TimeHoodie	1	5	25
+417570	2	0	No Variant	2021-01-28 — 14:34:16 UTC	robense, Spieler42	63	5	25
+417568	2	0	No Variant	2021-01-28 — 14:28:04 UTC	robense, Spieler42	63	5	25
+417565	2	23	No Variant	2021-01-28 — 14:20:08 UTC	robense, Spieler42	64	5	25
+416929	5	24	Prism (5 Suits)	2021-01-27 — 23:21:05 UTC	4head, nkkarpov, Plum, rahsosprout, Spieler42	8	5	25
+416914	5	0	Light-Pink-Ones & White (6 Suits)	2021-01-27 — 22:56:00 UTC	4head, nkkarpov, Plum, rahsosprout, Spieler42	1	6	30
+416893	5	11	Rainbow (3 Suits)	2021-01-27 — 22:39:10 UTC	4head, nkkarpov, Plum, rahsosprout, Spieler42	8	3	15
+416501	3	15	3 Suits	2021-01-27 — 17:38:54 UTC	eljavi, lolthisnotderk, Spieler42	39	3	15
+416495	3	0	3 Suits	2021-01-27 — 17:31:36 UTC	eljavi, lolthisnotderk, Spieler42	43	3	15
+416482	5	22	White & Prism (5 Suits)	2021-01-27 — 17:16:21 UTC	banjoleb, bjnh, eljavi, lolthisnotderk, Spieler42	1	5	25
+416473	3	0	White & Prism (5 Suits)	2021-01-27 — 16:57:58 UTC	banjoleb, eljavi, Spieler42	17	5	25
+416350	4	0	3 Suits	2021-01-27 — 13:00:54 UTC	banjoleb, eliclax, possum, Spieler42	49	3	15
+416346	4	15	3 Suits	2021-01-27 — 12:46:46 UTC	banjoleb, eliclax, possum, Spieler42	62	3	15
+416333	4	0	3 Suits	2021-01-27 — 12:21:46 UTC	banjoleb, eliclax, possum, Spieler42	73	3	15
+415755	4	25	No Variant	2021-01-26 — 22:23:58 UTC	4head, Bot-Fiora, knaphill, Spieler42	71	5	25
+415726	4	23	No Variant	2021-01-26 — 21:57:19 UTC	4head, Bot-Fiora, knaphill, Spieler42	74	5	25
+415709	4	0	No Variant	2021-01-26 — 21:34:13 UTC	4head, Bot-Fiora, knaphill, Spieler42	74	5	25
+415691	4	0	No Variant	2021-01-26 — 21:11:01 UTC	Bot-Fiora, CaitlinSmith, knaphill, Spieler42	213	5	25
+415496	5	22	No Variant	2021-01-26 — 17:45:31 UTC	4head, Bot-Fiora, CaitlinSmith, ChristopheAF, Spieler42	92	5	25
+415489	5	25	No Variant	2021-01-26 — 17:18:38 UTC	4head, Bot-Fiora, CaitlinSmith, ChristopheAF, Spieler42	120	5	25
+415332	3	23	No Variant	2021-01-26 — 08:22:55 UTC	catula, caña, Spieler42	187	5	25
+415326	4	0	6 Suits	2021-01-26 — 07:57:10 UTC	caña, MissedFinesse, possum, Spieler42	151	6	30
+415322	4	30	6 Suits	2021-01-26 — 07:33:09 UTC	caña, MissedFinesse, possum, Spieler42	250	6	30
+415304	4	24	No Variant	2021-01-26 — 07:03:03 UTC	eljavi, MissedFinesse, possum, Spieler42	308	5	25
+415246	4	25	Pink (5 Suits)	2021-01-26 — 05:11:54 UTC	caña, griff77, indego, Spieler42	69	5	25
+415233	4	25	Brown (5 Suits)	2021-01-26 — 04:48:25 UTC	caña, griff77, lolthisnotderk, Spieler42	36	5	25
+414982	4	23	No Variant	2021-01-25 — 23:19:54 UTC	4head, griff77, Plum, Spieler42	81	5	25
+414948	4	0	No Variant	2021-01-25 — 22:47:46 UTC	4head, griff77, Plum, Spieler42	89	5	25
+414923	5	0	6 Suits	2021-01-25 — 22:16:52 UTC	4head, CaitlinSmith, griff77, Plum, Spieler42	40	6	30
+414622	5	0	White (6 Suits)	2021-01-25 — 16:54:41 UTC	HariKrishnan, Kernel, MangoPie, Pimak, Spieler42	37	6	30
+413568	3	24	No Variant	2021-01-24 — 15:22:46 UTC	eliclax, skyblueexo, Spieler42	206	5	25
+413547	4	22	Rainbow & White (5 Suits)	2021-01-24 — 14:51:39 UTC	Denchulitas, Lanvin, Plum, Spieler42	12	5	25
+413537	4	0	Rainbow & White (5 Suits)	2021-01-24 — 14:25:11 UTC	Denchulitas, Lanvin, Plum, Spieler42	12	5	25
+412862	4	22	No Variant	2021-01-23 — 22:27:51 UTC	Bot-Fiora, HariKrishnan, kinkajusrevenge, Spieler42	419	5	25
+412822	4	24	No Variant	2021-01-23 — 21:58:12 UTC	Bot-Fiora, HariKrishnan, kinkajusrevenge, Spieler42	717	5	25
+412782	4	0	No Variant	2021-01-23 — 21:27:47 UTC	Bot-Fiora, HariKrishnan, possum, Spieler42	655	5	25
+412725	2	25	No Variant	2021-01-23 — 20:50:51 UTC	Bot-Fiora, Spieler42	921	5	25
+412695	4	0	No Variant	2021-01-23 — 20:18:30 UTC	Bot-Fiora, Denchulitas, Spieler42, witcher	985	5	25
+411659	3	0	4 Suits	2021-01-22 — 22:39:09 UTC	indego, ksfortson, Spieler42	70	4	20
+411640	3	0	4 Suits	2021-01-22 — 22:18:47 UTC	indego, ksfortson, Spieler42	90	4	20
+411627	2	25	No Variant	2021-01-22 — 22:02:30 UTC	ksfortson, Spieler42	948	5	25
+411541	3	0	6 Suits	2021-01-22 — 20:17:46 UTC	Denchulitas, Nitrate, Spieler42	503	6	30
+411483	3	22	Black (5 Suits)	2021-01-22 — 19:09:18 UTC	ArualEIs, knaphill, Spieler42	55	5	25
+411420	4	25	No Variant	2021-01-22 — 17:04:33 UTC	4head, eljavi, griff77, Spieler42	103	5	25
+411403	4	0	No Variant	2021-01-22 — 16:40:04 UTC	4head, eljavi, griff77, Spieler42	103	5	25
+411398	3	0	No Variant	2021-01-22 — 16:29:11 UTC	eljavi, griff77, Spieler42	201	5	25
+411391	3	0	No Variant	2021-01-22 — 16:12:08 UTC	eljavi, griff77, Spieler42	199	5	25
+411379	5	23	No Variant	2021-01-22 — 15:48:44 UTC	banjoleb, eljavi, griff77, macanek, Spieler42	135	5	25
+411322	6	26	Black (6 Suits)	2021-01-22 — 12:39:36 UTC	ArualEIs, catula, Denchulitas, Lanvin, melwen, Spieler42	1	6	30
+410846	4	23	No Variant	2021-01-21 — 22:29:11 UTC	4head, CaitlinSmith, Spieler42, tacobot5000	116	5	25
+410804	4	0	No Variant	2021-01-21 — 21:55:34 UTC	4head, CaitlinSmith, Spieler42, tacobot5000	129	5	25
+410795	4	0	No Variant	2021-01-21 — 21:49:40 UTC	4head, CaitlinSmith, Spieler42, tacobot5000	130	5	25
+410785	4	25	No Variant	2021-01-21 — 21:41:01 UTC	4head, CaitlinSmith, Spieler42, tacobot5000	131	5	25
+410674	3	25	No Variant	2021-01-21 — 18:42:16 UTC	HariKrishnan, macanek, Spieler42	71	5	25
+410665	4	0	No Variant	2021-01-21 — 18:27:39 UTC	bjnh, HariKrishnan, macanek, Spieler42	180	5	25
+410658	4	25	No Variant	2021-01-21 — 18:12:49 UTC	bjnh, HariKrishnan, macanek, Spieler42	198	5	25
+410641	3	22	No Variant	2021-01-21 — 17:42:07 UTC	ArualEIs, macanek, Spieler42	74	5	25
+409624	3	24	No Variant	2021-01-20 — 15:30:54 UTC	eliclax, gchang02, Spieler42	213	5	25
+409606	3	25	No Variant	2021-01-20 — 14:49:28 UTC	eliclax, gchang02, Spieler42	218	5	25
+409594	3	25	No Variant	2021-01-20 — 14:03:58 UTC	eliclax, gchang02, Spieler42	285	5	25
+408763	5	24	No Variant	2021-01-19 — 18:32:41 UTC	ArualEIs, knaphill, Spieler42, torp, zeinab001	383	5	25
+408739	5	24	No Variant	2021-01-19 — 18:06:40 UTC	ArualEIs, knaphill, Spieler42, torp, zeinab001	658	5	25
+408711	6	0	No Variant	2021-01-19 — 17:43:59 UTC	ArualEIs, bjnh, Daryl, knaphill, Spieler42, zeinab001	282	5	25
+408626	3	22	No Variant	2021-01-19 — 15:32:02 UTC	eliclax, gchang02, Spieler42	307	5	25
+408614	3	22	No Variant	2021-01-19 — 14:50:55 UTC	eliclax, gchang02, Spieler42	354	5	25
+408601	3	0	No Variant	2021-01-19 — 14:01:51 UTC	eliclax, gchang02, Spieler42	375	5	25
+408553	5	0	Black (5 Suits)	2021-01-19 — 11:42:17 UTC	MarkusKahlsen, Pimak, rachyrules, sephiroth, Spieler42	12	5	25
+408547	4	23	Black & Prism (5 Suits)	2021-01-19 — 11:20:15 UTC	Pimak, rachyrules, sephiroth, Spieler42	5	5	25
+408028	4	0	No Variant	2021-01-18 — 23:58:37 UTC	griff77, jian01, LautiManzano, Spieler42	278	5	25
+408005	4	23	No Variant	2021-01-18 — 23:29:23 UTC	griff77, jian01, LautiManzano, Spieler42	601	5	25
+407988	3	0	No Variant	2021-01-18 — 23:07:54 UTC	griff77, LautiManzano, Spieler42	220	5	25
+407979	3	0	No Variant	2021-01-18 — 22:59:23 UTC	griff77, LautiManzano, Spieler42	224	5	25
+407962	3	23	No Variant	2021-01-18 — 22:42:30 UTC	griff77, LautiManzano, Spieler42	243	5	25
+407937	5	0	No Variant	2021-01-18 — 22:21:57 UTC	Denchulitas, griff77, kinkajusrevenge, LautiManzano, Spieler42	195	5	25
+407918	5	0	No Variant	2021-01-18 — 22:06:34 UTC	Denchulitas, griff77, kinkajusrevenge, LautiManzano, Spieler42	344	5	25
+406831	4	25	No Variant	2021-01-18 — 01:00:03 UTC	4head, Denchulitas, LautiManzano, Spieler42	442	5	25
+406815	4	19	No Variant	2021-01-18 — 00:34:13 UTC	4head, Denchulitas, LautiManzano, Spieler42	501	5	25
+406808	4	0	No Variant	2021-01-18 — 00:17:32 UTC	4head, Denchulitas, LautiManzano, Spieler42	541	5	25
+406804	3	25	No Variant	2021-01-18 — 00:09:34 UTC	Denchulitas, LautiManzano, Spieler42	269	5	25
+406779	3	0	No Variant	2021-01-17 — 23:45:51 UTC	Denchulitas, LautiManzano, Spieler42	275	5	25
+406410	4	29	6 Suits	2021-01-17 — 17:59:22 UTC	BananaBum, Fey, jeff10, Spieler42	59	6	30
+405514	3	28	6 Suits	2021-01-16 — 21:18:17 UTC	ChristopheAF, sankala, Spieler42	252	6	30
+405473	6	0	No Variant	2021-01-16 — 20:57:07 UTC	bjnh, ChristopheAF, Daryl, indego, sankala, Spieler42	478	5	25
+405447	4	26	Rainbow (6 Suits)	2021-01-16 — 20:42:33 UTC	bjnh, ChristopheAF, indego, Spieler42	122	6	30
+405398	4	0	Rainbow (6 Suits)	2021-01-16 — 20:12:32 UTC	bjnh, ChristopheAF, indego, Spieler42	156	6	30
+405373	4	0	Rainbow (6 Suits)	2021-01-16 — 19:52:59 UTC	bjnh, ChristopheAF, indego, Spieler42	275	6	30
+405192	3	20	Rainbow (4 Suits)	2021-01-16 — 15:36:37 UTC	ArualEIs, macanek, Spieler42	16	4	20
+405185	3	19	Rainbow (4 Suits)	2021-01-16 — 15:14:47 UTC	ArualEIs, macanek, Spieler42	22	4	20
+405126	3	0	No Variant	2021-01-16 — 11:40:49 UTC	indego, robense, Spieler42	24	5	25
+404396	3	0	Rainbow (5 Suits)	2021-01-15 — 22:04:52 UTC	Daryl, Div, Spieler42	43	5	25
+404269	4	0	No Variant	2021-01-15 — 20:16:42 UTC	Daryl, duckington, HariKrishnan, Spieler42	793	5	25
+403504	4	0	6 Suits	2021-01-15 — 00:55:36 UTC	4head, griff77, knaphill, Spieler42	191	6	30
+403474	4	29	6 Suits	2021-01-15 — 00:10:35 UTC	4head, griff77, knaphill, Spieler42	354	6	30
+403431	3	25	No Variant	2021-01-14 — 23:13:43 UTC	4head, griff77, Spieler42	386	5	25
+403400	3	0	No Variant	2021-01-14 — 22:45:44 UTC	4head, griff77, Spieler42	411	5	25
+403254	4	25	No Variant	2021-01-14 — 20:32:06 UTC	dobi, Floriman, Kyle, Spieler42	13	5	25
+403237	4	24	White-Fives (5 Suits)	2021-01-14 — 20:12:49 UTC	dobi, Floriman, Spieler42, XMIL	8	5	25
+403214	4	25	No Variant	2021-01-14 — 19:49:02 UTC	Floriman, Kyle, Spieler42, XMIL	16	5	25
+403206	3	0	No Variant	2021-01-14 — 19:32:45 UTC	Floriman, Kyle, Spieler42	46	5	25
+402457	3	0	No Variant	2021-01-13 — 22:54:29 UTC	4head, griff77, Spieler42	451	5	25
+402429	3	22	No Variant	2021-01-13 — 22:25:17 UTC	4head, griff77, Spieler42	516	5	25
+402358	3	23	No Variant	2021-01-13 — 21:32:12 UTC	4head, griff77, Spieler42	1881	5	25
+402286	3	23	No Variant	2021-01-13 — 20:40:43 UTC	CaitlinSmith, griff77, Spieler42	134	5	25
+402234	3	24	No Variant	2021-01-13 — 19:49:16 UTC	bjnh, CaitlinSmith, Spieler42	141	5	25
+402207	3	29	6 Suits	2021-01-13 — 19:16:19 UTC	4head, banjoleb, Spieler42	305	6	30
+402161	3	0	6 Suits	2021-01-13 — 18:36:57 UTC	4head, banjoleb, Spieler42	365	6	30
+402147	3	15	3 Suits	2021-01-13 — 18:16:52 UTC	ArualEIs, knaphill, Spieler42	115	3	15
+402130	3	13	3 Suits	2021-01-13 — 17:48:40 UTC	ArualEIs, knaphill, Spieler42	144	3	15
+402100	2	23	No Variant	2021-01-13 — 17:14:07 UTC	knaphill, Spieler42	976	5	25
+399205	4	30	Reversed (6 Suits)	2021-01-10 — 14:53:23 UTC	Feich59, rz, Spieler42, zeinab001	12	6	30
+399200	4	0	Reversed (6 Suits)	2021-01-10 — 14:37:02 UTC	Feich59, rz, Spieler42, zeinab001	14	6	30
+399156	5	23	No Variant	2021-01-10 — 11:29:55 UTC	ArualEIs, CaitlinSmith, knaphill, narabio, Spieler42	457	5	25
+399150	4	22	No Variant	2021-01-10 — 10:56:34 UTC	CaitlinSmith, knaphill, narabio, Spieler42	2076	5	25
+399142	5	0	No Variant	2021-01-10 — 10:23:49 UTC	banjoleb, CaitlinSmith, Fey, raramra, Spieler42	77	5	25
+399130	5	0	No Variant	2021-01-10 — 10:12:14 UTC	banjoleb, CaitlinSmith, Fey, raramra, Spieler42	80	5	25
+398060	3	0	No Variant	2021-01-09 — 20:34:13 UTC	banjoleb, raramra, Spieler42	320	5	25
+394642	4	22	Rainbow (5 Suits)	2021-01-06 — 19:07:28 UTC	CaitlinSmith, rahsosprout, Spieler42, wump	26	5	25
+394619	4	0	Rainbow (5 Suits)	2021-01-06 — 18:28:18 UTC	CaitlinSmith, rahsosprout, Spieler42, wump	30	5	25
+394583	5	0	Throw It in a Hole (5 Suits)	2021-01-06 — 17:48:08 UTC	hanajo, indego, sean1815, Spieler42, TimeHoodie	9	5	25
+394563	4	0	No Variant	2021-01-06 — 17:40:20 UTC	indego, PMP, sean1815, Spieler42	326	5	25
+394459	4	25	No Variant	2021-01-06 — 13:41:04 UTC	Lanvin, Pimak, Spieler42, StKildaFan	31	5	25
+393686	3	0	No Variant	2021-01-05 — 18:28:06 UTC	Spieler42, torp, XMIL	28	5	25
+393676	3	25	No Variant	2021-01-05 — 18:08:00 UTC	rahsosprout, Spieler42, XMIL	30	5	25
+393658	4	24	No Variant	2021-01-05 — 17:32:12 UTC	Fey, knaphill, Spieler42, XMIL	45	5	25
+393645	4	25	No Variant	2021-01-05 — 17:04:46 UTC	knaphill, Pimak, Spieler42, XMIL	47	5	25
+393634	3	25	White-Ones & Rainbow (5 Suits)	2021-01-05 — 16:33:16 UTC	Lanvin, Pimak, Spieler42	9	5	25
+393624	3	30	White (6 Suits)	2021-01-05 — 16:07:52 UTC	Lanvin, Pimak, Spieler42	8	6	30
+392696	4	18	Rainbow (4 Suits)	2021-01-04 — 21:23:08 UTC	Daryl, Onen, Spieler42, tezeteta	45	4	20
+392660	3	28	White (6 Suits)	2021-01-04 — 20:49:14 UTC	Daryl, rahsosprout, Spieler42	101	6	30
+392615	3	0	White (6 Suits)	2021-01-04 — 20:15:53 UTC	Daryl, rahsosprout, Spieler42	124	6	30
+391708	5	24	No Variant	2021-01-03 — 21:10:05 UTC	ChristopheAF, Daryl, HelanaAshryvr, Spieler42, torp	109	5	25
+391673	5	0	No Variant	2021-01-03 — 20:39:41 UTC	ChristopheAF, Daryl, HelanaAshryvr, Spieler42, torp	126	5	25
+391646	3	25	No Variant	2021-01-03 — 20:04:54 UTC	ChristopheAF, Daryl, Spieler42	551	5	25
+391541	5	23	No Variant	2021-01-03 — 18:04:59 UTC	Kyle, Lanvin, Nitrate, Spieler42, XMIL	7	5	25
+391526	2	0	No Variant	2021-01-03 — 17:44:17 UTC	rapunzel20, Spieler42	1031	5	25
+391522	2	0	No Variant	2021-01-03 — 17:33:21 UTC	rapunzel20, Spieler42	1078	5	25
+391518	2	0	No Variant	2021-01-03 — 17:20:09 UTC	rapunzel20, Spieler42	1117	5	25
+390621	4	25	No Variant	2021-01-02 — 21:38:36 UTC	HariKrishnan, Pimak, rahsosprout, Spieler42	287	5	25
+390580	4	0	No Variant	2021-01-02 — 21:03:27 UTC	HariKrishnan, Pimak, rahsosprout, Spieler42	384	5	25
+390551	4	24	No Variant	2021-01-02 — 20:40:58 UTC	CaitlinSmith, HariKrishnan, Pimak, Spieler42	373	5	25
+390498	2	23	No Variant	2021-01-02 — 19:46:28 UTC	nwajfromoz, Spieler42	1148	5	25
+390394	6	23	No Variant	2021-01-02 — 17:51:19 UTC	ArualEIs, asaelr, banjoleb, binomial0, Spieler42, voss	7	5	25
+390378	3	25	No Variant	2021-01-02 — 17:11:57 UTC	banjoleb, rapunzel20, Spieler42	459	5	25
+390249	4	24	No Variant	2021-01-02 — 12:10:09 UTC	diael, macanek, oliana, Spieler42	336	5	25
+389639	5	0	Rainbow & Prism (5 Suits)	2021-01-01 — 22:35:41 UTC	Daryl, frosty104, Lanvin, MarcLovesDogs, Spieler42	5	5	25
+389621	5	0	Rainbow & Prism (5 Suits)	2021-01-01 — 22:14:24 UTC	Daryl, frosty104, Lanvin, MarcLovesDogs, Spieler42	7	5	25
+389595	5	0	Prism (6 Suits)	2021-01-01 — 21:49:45 UTC	bjnh, Daryl, frosty104, Lanvin, Spieler42	12	6	30
+389554	5	29	White & Prism (6 Suits)	2021-01-01 — 21:16:02 UTC	bjnh, Daryl, indego, Lanvin, Spieler42	3	6	30
+389515	5	0	White & Prism (6 Suits)	2021-01-01 — 20:34:58 UTC	bjnh, Daryl, indego, Lanvin, Spieler42	5	6	30
+389487	4	0	White & Prism (6 Suits)	2021-01-01 — 20:02:53 UTC	Daryl, indego, Lanvin, Spieler42	8	6	30
+389469	5	24	White-Ones (5 Suits)	2021-01-01 — 19:27:26 UTC	HariKrishnan, indego, Lanvin, MangoPie, Spieler42	3	5	25
+389458	3	19	No Variant	2021-01-01 — 18:52:19 UTC	HariKrishnan, indego, Spieler42	485	5	25
+389433	3	0	No Variant	2021-01-01 — 18:15:24 UTC	HariKrishnan, indego, Spieler42	573	5	25
+389421	3	0	No Variant	2021-01-01 — 17:49:30 UTC	HariKrishnan, indego, Spieler42	1291	5	25
+386204	2	27	White (6 Suits)	2020-12-29 — 16:24:23 UTC	binomial0, Spieler42	100	6	30
+386194	2	0	White (6 Suits)	2020-12-29 — 15:59:33 UTC	binomial0, Spieler42	123	6	30
+386189	2	27	White (6 Suits)	2020-12-29 — 15:46:53 UTC	binomial0, Spieler42	184	6	30
+385373	4	0	White (6 Suits)	2020-12-28 — 22:06:34 UTC	Lanvin, oliana, Shemetz, Spieler42	75	6	30
+385333	5	21	No Variant	2020-12-28 — 21:22:14 UTC	BillaVGC, Daryl, macanek, Shemetz, Spieler42	207	5	25
+385292	5	0	White-Fives (5 Suits)	2020-12-28 — 20:45:32 UTC	BillaVGC, Daryl, Lanvin, macanek, Spieler42	2	5	25
+385260	3	25	White-Ones (5 Suits)	2020-12-28 — 20:20:43 UTC	Daryl, Lanvin, Spieler42	20	5	25
+385242	5	0	No Variant	2020-12-28 — 20:04:46 UTC	Daryl, jian01, Lanvin, nmirson, Spieler42	262	5	25
+385213	5	24	No Variant	2020-12-28 — 19:36:53 UTC	doctorabi, frosty104, jack67889, Spieler42, witcher	296	5	25
+385178	4	22	No Variant	2020-12-28 — 18:58:56 UTC	banjoleb, binomial0, raramra, Spieler42	3581	5	25
+385131	3	23	No Variant	2020-12-28 — 18:02:38 UTC	binomial0, JohannesM, Spieler42	2163	5	25
+385085	3	25	No Variant	2020-12-28 — 17:02:27 UTC	binomial0, JohannesM, Spieler42	2606	5	25
+385053	2	23	No Variant	2020-12-28 — 15:55:24 UTC	macanek, Spieler42	1206	5	25
+385030	3	25	No Variant	2020-12-28 — 15:20:54 UTC	binomial0, fukurou, Spieler42	4221	5	25
+384988	2	25	No Variant	2020-12-28 — 14:20:47 UTC	binomial0, Spieler42	1249	5	25
+384160	5	25	No Variant	2020-12-27 — 20:49:48 UTC	binomial0, frosty104, indego, sin_faith, Spieler42	6	5	25
+384123	5	21	No Variant	2020-12-27 — 20:08:17 UTC	binomial0, frosty104, indego, sin_faith, Spieler42	8	5	25
+384062	4	25	No Variant	2020-12-27 — 19:18:39 UTC	binomial0, indego, sin_faith, Spieler42	19	5	25
+383988	3	0	No Variant	2020-12-27 — 17:58:12 UTC	binomial0, eljavi, Spieler42	624	5	25
+383967	3	25	No Variant	2020-12-27 — 17:21:20 UTC	binomial0, eljavi, Spieler42	680	5	25
+383895	2	25	No Variant	2020-12-27 — 14:24:58 UTC	binomial0, Spieler42	1299	5	25
+379879	3	0	No Variant	2020-12-23 — 15:22:41 UTC	indego, PMP, Spieler42	89	5	25
+379869	3	0	No Variant	2020-12-23 — 15:02:15 UTC	indego, PMP, Spieler42	93	5	25
+379861	3	0	No Variant	2020-12-23 — 14:34:59 UTC	indego, PMP, Spieler42	98	5	25
+375778	3	21	No Variant	2020-12-19 — 15:46:01 UTC	eevee, PMP, Spieler42	100	5	25
+375772	3	0	No Variant	2020-12-19 — 15:21:57 UTC	eevee, PMP, Spieler42	106	5	25
+375739	4	25	No Variant	2020-12-19 — 12:52:31 UTC	Divinusable, plumjo, Quentinoo, Spieler42	473	5	25
+375098	3	25	No Variant	2020-12-18 — 23:18:40 UTC	ChristopheAF, hakha3, Spieler42	645	5	25
+375078	2	0	No Variant	2020-12-18 — 23:03:26 UTC	kolibasili, Spieler42	5374	5	25
+374769	4	25	No Variant	2020-12-18 — 16:32:50 UTC	GemmyBean, jack67889, sankala, Spieler42	899	5	25
+374740	3	23	No Variant	2020-12-18 — 15:37:29 UTC	GemmyBean, sankala, Spieler42	801	5	25
+374711	3	25	No Variant	2020-12-18 — 14:48:43 UTC	GemmyBean, sankala, Spieler42	840	5	25
+374543	5	0	No Variant	2020-12-18 — 06:19:37 UTC	Doge, frosty104, MarcLovesDogs, Spieler42, StKildaFan	38	5	25
+374532	5	0	No Variant	2020-12-18 — 06:07:55 UTC	Doge, frosty104, MarcLovesDogs, Spieler42, StKildaFan	41	5	25
+374525	4	0	No Variant	2020-12-18 — 06:03:58 UTC	Doge, frosty104, Spieler42, StKildaFan	33	5	25
+374517	4	23	No Variant	2020-12-18 — 05:56:09 UTC	Doge, frosty104, Spieler42, StKildaFan	34	5	25
+374494	4	25	No Variant	2020-12-18 — 05:25:29 UTC	Doge, Lel0uch, Spieler42, StKildaFan	32	5	25
+373728	2	23	No Variant	2020-12-17 — 13:14:13 UTC	hakha3, Spieler42	4109	5	25
+372794	4	21	No Variant	2020-12-16 — 14:55:57 UTC	boba, katian, Lel0uch, Spieler42	1253	5	25
+366361	2	22	No Variant	2020-12-09 — 23:50:00 UTC	Spieler42, xmaiton	1376	5	25
+366349	2	0	No Variant	2020-12-09 — 23:37:51 UTC	Spieler42, xmaiton	1448	5	25
+366344	2	0	No Variant	2020-12-09 — 23:33:26 UTC	Spieler42, xmaiton	1532	5	25
+366334	2	23	No Variant	2020-12-09 — 23:22:32 UTC	Spieler42, xmaiton	1621	5	25
+366324	2	21	No Variant	2020-12-09 — 23:09:14 UTC	Spieler42, xmaiton	1840	5	25
+296975	3	0	No Variant	2020-09-13 — 23:07:25 UTC	Romain672, Spieler42, timotree	223	5	25
+296935	4	0	No Variant	2020-09-13 — 22:35:39 UTC	Romain672, Spieler42, timotree, Veexliat	125	5	25
+296913	3	22	No Variant	2020-09-13 — 22:05:08 UTC	Romain672, Spieler42, Veexliat	3260	5	25
+150266	6	22	No Variant	2020-05-03 — 17:33:40 UTC	alphabeta, asaelr, CastlesInTheAir, NoAnni, Spieler42, TimeHoodie	17	5	25
+150239	6	0	No Variant	2020-05-03 — 17:10:48 UTC	alphabeta, asaelr, CastlesInTheAir, NoAnni, Spieler42, TimeHoodie	18	5	25
+150229	4	24	No Variant	2020-05-03 — 16:57:19 UTC	asaelr, CastlesInTheAir, Spieler42, TimeHoodie	23	5	25
+150220	4	0	No Variant	2020-05-03 — 16:35:49 UTC	asaelr, CastlesInTheAir, Spieler42, TimeHoodie	24	5	25
+150201	5	24	No Variant	2020-05-03 — 16:12:05 UTC	Maverick, padi, Spieler42, TimeHoodie, Zakisan	81	5	25
+150171	5	22	No Variant	2020-05-03 — 15:26:14 UTC	eevee, padi, Spieler42, TimeHoodie, Zakisan	143	5	25
+150136	2	0	No Variant	2020-05-03 — 14:49:33 UTC	padi, Spieler42	1703	5	25
+146571	2	25	6 Suits	2020-05-01 — 15:18:20 UTC	DrJones, Spieler42	248	6	30
+146529	2	26	6 Suits	2020-05-01 — 14:44:11 UTC	DrJones, Spieler42	274	6	30
+146500	2	30	6 Suits	2020-05-01 — 14:24:45 UTC	DrJones, Spieler42	304	6	30
+146489	2	0	6 Suits	2020-05-01 — 14:11:29 UTC	DrJones, Spieler42	593	6	30
+146483	2	0	6 Suits	2020-05-01 — 14:03:08 UTC	DrJones, Spieler42	666	6	30
+146481	2	0	6 Suits	2020-05-01 — 14:01:21 UTC	DrJones, Spieler42	851	6	30
+146472	2	25	No Variant	2020-05-01 — 13:48:59 UTC	DrJones, Spieler42	1952	5	25
+146458	2	0	No Variant	2020-05-01 — 13:35:51 UTC	DrJones, Spieler42	2147	5	25
+146450	2	22	No Variant	2020-05-01 — 13:28:32 UTC	DrJones, Spieler42	2288	5	25
+146439	2	0	No Variant	2020-05-01 — 13:17:46 UTC	DrJones, Spieler42	2532	5	25
+146437	2	0	No Variant	2020-05-01 — 13:16:14 UTC	DrJones, Spieler42	2750	5	25
+146434	2	0	No Variant	2020-05-01 — 13:14:24 UTC	DrJones, Spieler42	3051	5	25
+145282	4	24	No Variant	2020-04-30 — 20:58:31 UTC	edens, eran, salonka, Spieler42	2763	5	25
+145162	3	19	No Variant	2020-04-30 — 19:53:56 UTC	Maverick, rotem, Spieler42	750	5	25
+144832	3	20	No Variant	2020-04-30 — 12:37:22 UTC	DrJones, Spieler42, twoheadedbutt	1017	5	25
+144819	3	0	No Variant	2020-04-30 — 12:09:38 UTC	DrJones, Spieler42, twoheadedbutt	1095	5	25
+144809	3	0	No Variant	2020-04-30 — 11:44:54 UTC	DrJones, Spieler42, twoheadedbutt	1174	5	25
+144804	3	0	No Variant	2020-04-30 — 11:23:55 UTC	DrJones, Spieler42, twoheadedbutt	1465	5	25
+144803	3	23	No Variant	2020-04-30 — 11:16:05 UTC	DrJones, Spieler42, twoheadedbutt	1636	5	25
+143825	3	24	No Variant	2020-04-29 — 21:37:49 UTC	asdfasdf, Spieler42, tylerama	422	5	25
+143766	3	21	No Variant	2020-04-29 — 20:50:33 UTC	JDepp, Maverick, Spieler42	250	5	25
+143739	3	0	No Variant	2020-04-29 — 20:23:05 UTC	JDepp, Maverick, Spieler42	259	5	25
+143611	2	0	No Variant	2020-04-29 — 18:50:34 UTC	robense, Spieler42	85	5	25
+143588	2	23	No Variant	2020-04-29 — 18:27:08 UTC	robense, Spieler42	86	5	25
+143569	3	25	No Variant	2020-04-29 — 18:04:26 UTC	Maverick, robense, Spieler42	77	5	25
+143541	3	23	No Variant	2020-04-29 — 17:30:03 UTC	Maverick, robense, Spieler42	77	5	25
+143525	2	0	6 Suits	2020-04-29 — 16:55:43 UTC	Spieler42, Steve Backshall	340	6	30
+143451	4	24	No Variant	2020-04-29 — 15:14:55 UTC	Cory, Doctor Poop, melwen, Spieler42	61	5	25
+143329	3	25	No Variant	2020-04-29 — 10:21:31 UTC	Artificial, Nitrate2, Spieler42	940	5	25
+143314	3	0	No Variant	2020-04-29 — 09:52:16 UTC	LaFayetteX, Nitrate2, Spieler42	324	5	25
+143293	3	24	No Variant	2020-04-29 — 09:16:43 UTC	Buds, LaFayetteX, Spieler42	344	5	25
+143276	2	22	No Variant	2020-04-29 — 08:46:56 UTC	augusto, Spieler42	3507	5	25
+143266	4	22	No Variant	2020-04-29 — 07:53:54 UTC	GunPetal, smallman, Spieler42, ssunfly	1449	5	25
+142415	4	24	No Variant	2020-04-28 — 19:44:15 UTC	frollo9386, Nils, Spieler42, toby mctobyface	1092	5	25
+142315	4	0	No Variant	2020-04-28 — 18:37:27 UTC	duckmammal, frollo9386, Nils, Spieler42	1744	5	25
+142296	2	0	Rainbow (6 Suits)	2020-04-28 — 18:14:17 UTC	robense, Spieler42	167	6	30

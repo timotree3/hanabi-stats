@@ -1,0 +1,259 @@
+472705	5	24	Black (6 Suits)	2021-03-18 — 20:45:56 UTC	Aluap, HariKrishnan, nkkarpov, NumerateClutter, rahsosprout	101	6	30
+472656	4	22	Black (6 Suits)	2021-03-18 — 20:04:32 UTC	Aluap, HariKrishnan, Plum, rahsosprout	112	6	30
+472587	3	25	No Variant	2021-03-18 — 19:33:46 UTC	Aluap, HariKrishnan, Plum	19	5	25
+472556	3	25	No Variant	2021-03-18 — 19:06:52 UTC	Aluap, HariKrishnan, VerySloppyTwo	110	5	25
+472525	3	15	Light Pink (3 Suits)	2021-03-18 — 18:43:28 UTC	HariKrishnan, Onen, rz	1	3	15
+472511	3	0	Light Pink (3 Suits)	2021-03-18 — 18:37:03 UTC	HariKrishnan, Onen, rz	1	3	15
+472492	3	14	Light Pink (3 Suits)	2021-03-18 — 18:27:46 UTC	HariKrishnan, Onen, rz	1	3	15
+471756	5	22	No Variant	2021-03-17 — 21:37:56 UTC	Doge, HariKrishnan, ksbystrom, possum, voss	60	5	25
+471630	4	25	No Variant	2021-03-17 — 20:44:06 UTC	HariKrishnan, ksbystrom, possum, thejazzagent	103	5	25
+471556	3	25	No Variant	2021-03-17 — 20:05:10 UTC	HariKrishnan, possum, thejazzagent	49	5	25
+470408	3	25	Rainbow & Prism (5 Suits)	2021-03-16 — 20:44:09 UTC	asaelr, HariKrishnan, swineherd	26	5	25
+470380	5	0	Black & White (5 Suits)	2021-03-16 — 20:17:44 UTC	asaelr, Bot-Fiora, CaitlinSmith, HariKrishnan, Kyle	2	5	25
+470358	5	0	Black & White (5 Suits)	2021-03-16 — 19:58:04 UTC	asaelr, Bot-Fiora, CaitlinSmith, HariKrishnan, Kyle	2	5	25
+470332	3	25	No Variant	2021-03-16 — 19:42:14 UTC	Bot-Fiora, CaitlinSmith, HariKrishnan	53	5	25
+470304	3	25	No Variant	2021-03-16 — 19:13:39 UTC	Bot-Fiora, CaitlinSmith, HariKrishnan	51	5	25
+467006	4	25	No Variant	2021-03-13 — 21:22:39 UTC	Arcee, Damian000, HariKrishnan, wump	39	5	25
+466961	4	25	No Variant	2021-03-13 — 20:39:00 UTC	Arcee, Damian000, HariKrishnan, wump	42	5	25
+466930	4	24	No Variant	2021-03-13 — 20:05:31 UTC	Arcee, Damian000, HariKrishnan, wump	43	5	25
+458166	4	25	No Variant	2021-03-05 — 23:47:56 UTC	HariKrishnan, ksfortson, nkkarpov, torp	32	5	25
+458124	3	25	No Variant	2021-03-05 — 23:22:26 UTC	HariKrishnan, ksfortson, nkkarpov	89	5	25
+458060	5	24	Rainbow (5 Suits)	2021-03-05 — 22:41:24 UTC	flaaffy, HariKrishnan, HelanaAshryvr, JerryYang, Lel0uch	12	5	25
+458020	5	23	Rainbow (5 Suits)	2021-03-05 — 22:00:06 UTC	flaaffy, HariKrishnan, HelanaAshryvr, JerryYang, Lel0uch	13	5	25
+457965	5	23	No Variant	2021-03-05 — 21:15:42 UTC	flaaffy, HariKrishnan, HelanaAshryvr, Lel0uch, lolthisnotderk	67	5	25
+454454	4	13	3 Suits	2021-03-02 — 21:13:02 UTC	HariKrishnan, knaphill, newduke, Nils	4	3	15
+454422	4	0	3 Suits	2021-03-02 — 20:53:19 UTC	HariKrishnan, knaphill, newduke, Nils	4	3	15
+454365	4	25	No Variant	2021-03-02 — 20:20:52 UTC	HariKrishnan, knaphill, newduke, Nils	70	5	25
+454331	3	25	No Variant	2021-03-02 — 19:42:00 UTC	HariKrishnan, newduke, Nils	130	5	25
+454295	4	0	No Variant	2021-03-02 — 18:47:32 UTC	DarthGandalf, HariKrishnan, Nils, Plum	162	5	25
+454271	3	25	No Variant	2021-03-02 — 18:16:55 UTC	HariKrishnan, Nils, Plum	40	5	25
+453385	2	22	No Variant	2021-03-01 — 20:55:48 UTC	CaitlinSmith, HariKrishnan	63	5	25
+453370	2	0	No Variant	2021-03-01 — 20:42:50 UTC	CaitlinSmith, HariKrishnan	63	5	25
+453354	2	23	No Variant	2021-03-01 — 20:31:12 UTC	CaitlinSmith, HariKrishnan	64	5	25
+453334	2	25	No Variant	2021-03-01 — 20:18:48 UTC	CaitlinSmith, HariKrishnan	63	5	25
+453304	3	29	Black (6 Suits)	2021-03-01 — 19:54:25 UTC	CaitlinSmith, eljavi, HariKrishnan	236	6	30
+453271	3	0	Black (6 Suits)	2021-03-01 — 19:20:16 UTC	CaitlinSmith, eljavi, HariKrishnan	261	6	30
+452307	3	25	No Variant	2021-02-28 — 21:22:06 UTC	DarthGandalf, HariKrishnan, robense	19	5	25
+452251	3	25	No Variant	2021-02-28 — 20:44:54 UTC	bingchin, HariKrishnan, narabio	134	5	25
+452153	3	0	No Variant	2021-02-28 — 19:58:49 UTC	bingchin, HariKrishnan, narabio	154	5	25
+451288	5	25	No Variant	2021-02-27 — 23:24:29 UTC	ADrone, BraydonM, Daryl, HariKrishnan, kopen	100	5	25
+451230	3	21	No Variant	2021-02-27 — 22:37:53 UTC	ADrone, Daryl, HariKrishnan	77	5	25
+451198	4	0	No Variant	2021-02-27 — 22:15:05 UTC	ADrone, Daryl, HariKrishnan, MathNoob	138	5	25
+451118	4	24	No Variant	2021-02-27 — 20:47:17 UTC	caña, DarthGandalf, HariKrishnan, poofart123	129	5	25
+451059	4	23	No Variant	2021-02-27 — 19:59:33 UTC	caña, DarthGandalf, HariKrishnan, poofart123	190	5	25
+450093	4	25	Prism (5 Suits)	2021-02-26 — 21:12:03 UTC	Denchulitas, HariKrishnan, sephiroth, VerySloppyTwo	7	5	25
+450015	4	0	Prism (5 Suits)	2021-02-26 — 19:23:53 UTC	Denchulitas, HariKrishnan, Lel0uch, VerySloppyTwo	23	5	25
+448937	3	25	No Variant	2021-02-25 — 20:22:07 UTC	HariKrishnan, PotatoLatte, Quentinoo	137	5	25
+448901	3	24	No Variant	2021-02-25 — 19:55:59 UTC	HariKrishnan, PotatoLatte, Quentinoo	141	5	25
+448872	3	23	No Variant	2021-02-25 — 19:27:09 UTC	HariKrishnan, PotatoLatte, Quentinoo	164	5	25
+448862	3	25	No Variant	2021-02-25 — 19:07:56 UTC	bjnh, HariKrishnan, PotatoLatte	206	5	25
+448845	3	25	No Variant	2021-02-25 — 18:37:47 UTC	HariKrishnan, knaphill, PotatoLatte	167	5	25
+447007	5	30	6 Suits	2021-02-23 — 21:33:05 UTC	Damian000, DarthGandalf, Daryl, HariKrishnan, knaphill	69	6	30
+446924	4	0	Black (6 Suits)	2021-02-23 — 20:39:55 UTC	Damian000, DarthGandalf, Daryl, HariKrishnan	213	6	30
+446855	3	23	No Variant	2021-02-23 — 19:49:25 UTC	Damian000, Daryl, HariKrishnan	157	5	25
+446812	3	0	No Variant	2021-02-23 — 19:24:49 UTC	Damian000, Daryl, HariKrishnan	160	5	25
+444581	3	24	No Variant	2021-02-21 — 20:02:01 UTC	HariKrishnan, MathNoob, mestrepoke	175	5	25
+443395	3	25	No Variant	2021-02-20 — 20:42:08 UTC	Damian000, DarthGandalf, HariKrishnan	151	5	25
+443374	3	24	No Variant	2021-02-20 — 20:21:04 UTC	Damian000, DarthGandalf, HariKrishnan	156	5	25
+443333	3	23	No Variant	2021-02-20 — 19:50:00 UTC	Damian000, Feich59, HariKrishnan	187	5	25
+443312	3	0	No Variant	2021-02-20 — 19:23:38 UTC	Damian000, Feich59, HariKrishnan	194	5	25
+443300	3	28	Black Reversed (6 Suits)	2021-02-20 — 18:58:46 UTC	Fey, HariKrishnan, rachyrules	5	6	30
+443280	3	0	Black Reversed (6 Suits)	2021-02-20 — 18:40:42 UTC	Fey, HariKrishnan, rachyrules	7	6	30
+443267	3	29	Black Reversed (6 Suits)	2021-02-20 — 18:25:25 UTC	Fey, HariKrishnan, rachyrules	8	6	30
+442402	4	25	No Variant	2021-02-19 — 23:07:50 UTC	Damian000, DarthGandalf, HariKrishnan, possum	117	5	25
+442373	3	22	No Variant	2021-02-19 — 22:39:33 UTC	Damian000, Directive, HariKrishnan	213	5	25
+442305	5	23	White-Ones & Prism (5 Suits)	2021-02-19 — 21:51:47 UTC	bjnh, CaitlinSmith, Feich59, HariKrishnan, Lanvin	1	5	25
+442271	5	0	White-Ones & Prism (5 Suits)	2021-02-19 — 21:23:14 UTC	bjnh, CaitlinSmith, Feich59, HariKrishnan, Lanvin	2	5	25
+442248	5	0	White-Ones & Prism (5 Suits)	2021-02-19 — 21:05:45 UTC	bjnh, CaitlinSmith, Feich59, HariKrishnan, Lanvin	3	5	25
+442172	3	23	No Variant	2021-02-19 — 20:12:15 UTC	Aurune1, dsaldonid, HariKrishnan	218	5	25
+434762	3	25	No Variant	2021-02-12 — 21:31:47 UTC	CaitlinSmith, HariKrishnan, ontak	61	5	25
+434733	3	0	No Variant	2021-02-12 — 21:11:23 UTC	CaitlinSmith, HariKrishnan, ontak	65	5	25
+434726	3	0	No Variant	2021-02-12 — 21:05:36 UTC	CaitlinSmith, HariKrishnan, ontak	62	5	25
+434701	3	0	No Variant	2021-02-12 — 20:46:16 UTC	CaitlinSmith, HariKrishnan, ontak	66	5	25
+434670	3	25	No Variant	2021-02-12 — 20:19:40 UTC	CaitlinSmith, HariKrishnan, ontak	63	5	25
+434649	3	0	No Variant	2021-02-12 — 19:58:53 UTC	CaitlinSmith, HariKrishnan, ontak	69	5	25
+434616	4	0	No Variant	2021-02-12 — 19:33:15 UTC	Damian000, HariKrishnan, MathNoob, ontak	131	5	25
+434563	5	25	6 Suits	2021-02-12 — 18:35:16 UTC	caña, Damian000, HariKrishnan, MathNoob, ontak	132	6	30
+434521	3	25	No Variant	2021-02-12 — 17:29:44 UTC	HariKrishnan, MathNoob, ontak	250	5	25
+433581	4	20	Rainbow (4 Suits)	2021-02-11 — 21:24:20 UTC	HariKrishnan, kevincaseytdk1, ksfortson, newduke	17	4	20
+433536	4	19	Rainbow (4 Suits)	2021-02-11 — 20:53:34 UTC	HariKrishnan, kevincaseytdk1, ksfortson, newduke	19	4	20
+433487	3	0	Black (6 Suits)	2021-02-11 — 19:58:05 UTC	DarthGandalf, Daryl, HariKrishnan	325	6	30
+433459	3	0	Black (6 Suits)	2021-02-11 — 19:17:20 UTC	DarthGandalf, Daryl, HariKrishnan	399	6	30
+433437	2	0	No Variant	2021-02-11 — 18:47:54 UTC	HariKrishnan, mahen	5374	5	25
+432633	4	17	White-Ones & Prism (4 Suits)	2021-02-10 — 21:14:38 UTC	HariKrishnan, Lanvin, macanek, VerySloppyTwo	1	4	20
+432597	4	0	White-Ones & Prism (4 Suits)	2021-02-10 — 20:51:25 UTC	HariKrishnan, Lanvin, robense, VerySloppyTwo	2	4	20
+432504	3	25	No Variant	2021-02-10 — 20:03:16 UTC	HariKrishnan, VerySloppyTwo, wolfpack	243	5	25
+432472	3	20	No Variant	2021-02-10 — 19:20:46 UTC	HariKrishnan, wolfpack, wump	60	5	25
+432453	3	0	No Variant	2021-02-10 — 18:55:55 UTC	girilaxmi, HariKrishnan, Nitrate	259	5	25
+432433	3	0	No Variant	2021-02-10 — 18:36:59 UTC	bot_11, girilaxmi, HariKrishnan	269	5	25
+432414	4	20	4 Suits	2021-02-10 — 18:09:32 UTC	Bot-Fiora, Espen, griff77, HariKrishnan	101	4	20
+432379	4	0	No Variant	2021-02-10 — 17:41:06 UTC	ADrone, Bot-Fiora, eljavi, HariKrishnan	95	5	25
+431391	3	24	No Variant	2021-02-09 — 21:09:02 UTC	HariKrishnan, InflatableKayak, macanek	50	5	25
+431368	3	22	No Variant	2021-02-09 — 20:41:23 UTC	HariKrishnan, InflatableKayak, macanek	53	5	25
+431337	3	24	White-Ones (5 Suits)	2021-02-09 — 20:08:25 UTC	HariKrishnan, lolthisnotderk, macanek	1	5	25
+431316	3	0	White-Ones (5 Suits)	2021-02-09 — 19:49:12 UTC	HariKrishnan, lolthisnotderk, macanek	1	5	25
+431295	3	24	White-Ones (5 Suits)	2021-02-09 — 19:28:54 UTC	HariKrishnan, lolthisnotderk, macanek	1	5	25
+431261	3	23	White-Ones (5 Suits)	2021-02-09 — 19:00:10 UTC	HariKrishnan, lolthisnotderk, macanek	3	5	25
+431237	3	25	No Variant	2021-02-09 — 18:29:28 UTC	HariKrishnan, macanek, padi	56	5	25
+430290	5	23	White (5 Suits)	2021-02-08 — 20:59:34 UTC	CaitlinSmith, DarthGandalf, Denchulitas, eljavi, HariKrishnan	26	5	25
+430232	6	0	Prism (5 Suits)	2021-02-08 — 20:20:05 UTC	CaitlinSmith, Denchulitas, eljavi, griff77, HariKrishnan, wump	3	5	25
+430204	5	0	6 Suits	2021-02-08 — 19:59:01 UTC	CaitlinSmith, caña, eljavi, griff77, HariKrishnan	20	6	30
+430186	5	28	6 Suits	2021-02-08 — 19:40:28 UTC	CaitlinSmith, caña, eljavi, griff77, HariKrishnan	23	6	30
+430130	5	23	No Variant	2021-02-08 — 18:49:19 UTC	DarthGandalf, griff77, HariKrishnan, macanek, MathNoob	45	5	25
+429247	3	21	Black (5 Suits)	2021-02-07 — 20:18:16 UTC	CaitlinSmith, Denchulitas, HariKrishnan	36	5	25
+429221	3	0	Black (5 Suits)	2021-02-07 — 19:55:19 UTC	CaitlinSmith, Denchulitas, HariKrishnan	35	5	25
+428298	3	15	3 Suits	2021-02-06 — 23:52:07 UTC	Daryl, griff77, HariKrishnan	74	3	15
+428220	3	14	3 Suits	2021-02-06 — 23:16:57 UTC	Daryl, griff77, HariKrishnan	115	3	15
+428159	4	14	3 Suits	2021-02-06 — 22:49:35 UTC	Daryl, griff77, HariKrishnan, kondain	37	3	15
+428117	4	0	3 Suits	2021-02-06 — 22:31:18 UTC	Daryl, griff77, HariKrishnan, kondain	49	3	15
+428091	3	13	3 Suits	2021-02-06 — 22:12:34 UTC	Daryl, HariKrishnan, kondain	144	3	15
+427987	5	30	Rainbow (6 Suits)	2021-02-06 — 21:03:32 UTC	4head, caña, DarthGandalf, eljavi, HariKrishnan	50	6	30
+427944	5	0	Rainbow (6 Suits)	2021-02-06 — 20:24:27 UTC	4head, caña, DarthGandalf, eljavi, HariKrishnan	59	6	30
+427841	4	14	3 Suits	2021-02-06 — 18:50:54 UTC	Damian000, griff77, HariKrishnan, narabio	62	3	15
+427814	4	13	3 Suits	2021-02-06 — 18:24:32 UTC	Damian000, griff77, HariKrishnan, narabio	73	3	15
+427784	4	25	No Variant	2021-02-06 — 17:43:37 UTC	banjoleb, Damian000, griff77, HariKrishnan	213	5	25
+426799	5	29	Brown-Ones & White (6 Suits)	2021-02-05 — 21:27:01 UTC	avanderwalde, HariKrishnan, Lanvin, rkass, telsey	1	6	30
+426738	3	0	White (4 Suits)	2021-02-05 — 20:29:21 UTC	CaitlinSmith, HariKrishnan, Kernel	46	4	20
+426690	3	18	White (4 Suits)	2021-02-05 — 20:03:04 UTC	CaitlinSmith, HariKrishnan, Kernel	59	4	20
+426646	4	19	Rainbow (4 Suits)	2021-02-05 — 19:19:41 UTC	CaitlinSmith, HariKrishnan, Kernel, rahsosprout	25	4	20
+426619	4	0	Rainbow (4 Suits)	2021-02-05 — 18:50:22 UTC	CaitlinSmith, HariKrishnan, Kernel, rahsosprout	32	4	20
+426594	4	28	Black (6 Suits)	2021-02-05 — 18:22:38 UTC	Damian000, HariKrishnan, narabio, rahsosprout	121	6	30
+425719	4	25	No Variant	2021-02-04 — 21:10:53 UTC	Daryl, eljavi, HariKrishnan, robense	60	5	25
+425675	4	23	Black (5 Suits)	2021-02-04 — 20:42:25 UTC	Daryl, HariKrishnan, rahsosprout, Spieler42	36	5	25
+425644	4	0	Black (5 Suits)	2021-02-04 — 20:19:40 UTC	Daryl, HariKrishnan, rahsosprout, Spieler42	49	5	25
+425614	4	21	Black (5 Suits)	2021-02-04 — 20:01:51 UTC	Daryl, HariKrishnan, rahsosprout, Spieler42	63	5	25
+425545	3	23	No Variant	2021-02-04 — 19:12:08 UTC	DarthGandalf, HariKrishnan, NumerateClutter	375	5	25
+425482	3	0	No Variant	2021-02-04 — 18:28:00 UTC	DarthGandalf, HariKrishnan, NumerateClutter	801	5	25
+424644	3	25	No Variant	2021-02-03 — 22:40:41 UTC	griff77, HariKrishnan, Zamiel	6	5	25
+424606	3	0	No Variant	2021-02-03 — 22:01:22 UTC	griff77, HariKrishnan, Zamiel	6	5	25
+424571	5	0	Black (6 Suits)	2021-02-03 — 21:38:40 UTC	4head, griff77, HariKrishnan, knaphill, Nitrate	58	6	30
+424542	5	27	Black (6 Suits)	2021-02-03 — 21:15:10 UTC	4head, griff77, HariKrishnan, knaphill, Nitrate	72	6	30
+424477	4	26	Black (6 Suits)	2021-02-03 — 20:29:51 UTC	asaelr, griff77, HariKrishnan, knaphill	18	6	30
+423138	6	26	Black (6 Suits)	2021-02-02 — 19:21:33 UTC	4head, griff77, HariKrishnan, jian01, knaphill, rahsosprout	28	6	30
+423102	4	25	No Variant	2021-02-02 — 18:39:46 UTC	4head, griff77, HariKrishnan, knaphill	53	5	25
+423069	3	0	Rainbow (6 Suits)	2021-02-02 — 17:52:57 UTC	4head, griff77, HariKrishnan	508	6	30
+421317	3	25	No Variant	2021-01-31 — 20:28:52 UTC	Daryl, HariKrishnan, nkkarpov	940	5	25
+421285	4	25	No Variant	2021-01-31 — 19:50:28 UTC	bjnh, Denchulitas, HariKrishnan, nwajfromoz	149	5	25
+421264	5	20	No Variant	2021-01-31 — 19:12:09 UTC	Denchulitas, HariKrishnan, jian01, LautiManzano, mordred	143	5	25
+419994	4	27	Rainbow (6 Suits)	2021-01-30 — 19:56:54 UTC	griff77, HariKrishnan, indego, sean1815	344	6	30
+419953	5	24	Brown-Ones & Rainbow (5 Suits)	2021-01-30 — 18:55:59 UTC	4head, griff77, HariKrishnan, Lanvin, sean1815	1	5	25
+419916	6	0	Black (6 Suits)	2021-01-30 — 17:57:27 UTC	4head, BlueNovember, griff77, HariKrishnan, Lanvin, Spieler42	38	6	30
+419906	5	19	Black (5 Suits)	2021-01-30 — 17:23:38 UTC	BlueNovember, griff77, HariKrishnan, Lanvin, Spieler42	27	5	25
+418939	5	24	No Variant	2021-01-29 — 22:21:06 UTC	4head, CaitlinSmith, griff77, HariKrishnan, rahsosprout	65	5	25
+418893	5	0	No Variant	2021-01-29 — 21:44:42 UTC	4head, CaitlinSmith, griff77, HariKrishnan, rahsosprout	75	5	25
+418825	6	19	No Variant	2021-01-29 — 20:56:02 UTC	4head, CaitlinSmith, griff77, HariKrishnan, nkkarpov, Spieler42	91	5	25
+418788	5	23	No Variant	2021-01-29 — 20:19:17 UTC	4head, CaitlinSmith, griff77, HariKrishnan, nkkarpov	383	5	25
+418730	4	24	No Variant	2021-01-29 — 19:19:49 UTC	caña, griff77, HariKrishnan, Lel0uch	541	5	25
+418703	4	25	No Variant	2021-01-29 — 18:42:19 UTC	caña, griff77, HariKrishnan, rahsosprout	167	5	25
+417801	4	25	No Variant	2021-01-28 — 20:09:27 UTC	4head, HariKrishnan, ksfortson, lolthisnotderk	39	5	25
+417787	3	25	No Variant	2021-01-28 — 19:47:09 UTC	4head, HariKrishnan, ksfortson	148	5	25
+417771	3	0	No Variant	2021-01-28 — 19:28:35 UTC	4head, HariKrishnan, ksfortson	170	5	25
+417759	3	0	No Variant	2021-01-28 — 19:14:07 UTC	4head, HariKrishnan, ksfortson	201	5	25
+417736	3	24	No Variant	2021-01-28 — 18:52:27 UTC	HariKrishnan, ksfortson, Onen	199	5	25
+417706	3	0	No Variant	2021-01-28 — 18:29:37 UTC	HariKrishnan, jian01, Onen	178	5	25
+417685	3	0	No Variant	2021-01-28 — 18:09:04 UTC	HariKrishnan, jian01, Onen	275	5	25
+417670	3	24	No Variant	2021-01-28 — 17:46:09 UTC	HariKrishnan, jian01, Onen	307	5	25
+417653	3	0	No Variant	2021-01-28 — 17:22:58 UTC	HariKrishnan, jian01, Onen	320	5	25
+416576	4	20	No Variant	2021-01-27 — 18:56:43 UTC	griff77, HariKrishnan, rahsosprout, swamplor	204	5	25
+416522	4	0	No Variant	2021-01-27 — 18:11:10 UTC	HariKrishnan, oriun, rahsosprout, swamplor	326	5	25
+415601	4	24	No Variant	2021-01-26 — 20:07:06 UTC	4head, Bot-Fiora, CaitlinSmith, HariKrishnan	82	5	25
+415577	3	0	No Variant	2021-01-26 — 19:38:31 UTC	Bot-Fiora, CaitlinSmith, HariKrishnan	79	5	25
+415559	4	24	No Variant	2021-01-26 — 19:16:41 UTC	Bot-Fiora, CaitlinSmith, ChristopheAF, HariKrishnan	233	5	25
+415545	4	0	No Variant	2021-01-26 — 18:51:19 UTC	Bot-Fiora, CaitlinSmith, ChristopheAF, HariKrishnan	243	5	25
+415527	4	0	No Variant	2021-01-26 — 18:35:28 UTC	Bot-Fiora, CaitlinSmith, ChristopheAF, HariKrishnan	473	5	25
+415520	4	0	No Variant	2021-01-26 — 18:27:16 UTC	Bot-Fiora, CaitlinSmith, ChristopheAF, HariKrishnan	601	5	25
+414922	6	28	White-Ones & Rainbow (6 Suits)	2021-01-25 — 22:16:09 UTC	ChristopheAF, HariKrishnan, HelanaAshryvr, Lanvin, nkkarpov, Onen	1	6	30
+414906	6	0	White-Ones & Rainbow (6 Suits)	2021-01-25 — 21:46:49 UTC	ChristopheAF, HariKrishnan, HelanaAshryvr, Lanvin, nkkarpov, Onen	2	6	30
+414890	2	0	6 Suits	2021-01-25 — 21:26:14 UTC	HariKrishnan, Lanvin	221	6	30
+414877	2	0	6 Suits	2021-01-25 — 21:17:08 UTC	HariKrishnan, Lanvin	236	6	30
+414841	3	0	No Variant	2021-01-25 — 20:51:00 UTC	DarthGandalf, HariKrishnan, knaphill	411	5	25
+414784	3	23	No Variant	2021-01-25 — 20:11:54 UTC	DarthGandalf, HariKrishnan, knaphill	422	5	25
+414710	4	0	No Variant	2021-01-25 — 18:59:50 UTC	4head, HariKrishnan, HelanaAshryvr, rachyrules	88	5	25
+414664	4	25	Prism (5 Suits)	2021-01-25 — 18:09:10 UTC	HariKrishnan, Kernel, MangoPie, Pimak	29	5	25
+414637	4	24	Prism (5 Suits)	2021-01-25 — 17:27:20 UTC	HariKrishnan, Kernel, MangoPie, Pimak	47	5	25
+414622	5	0	White (6 Suits)	2021-01-25 — 16:54:41 UTC	HariKrishnan, Kernel, MangoPie, Pimak, Spieler42	37	6	30
+414001	4	25	No Variant	2021-01-24 — 22:34:34 UTC	Asddsa76, HariKrishnan, HelanaAshryvr, possum	257	5	25
+413945	3	23	No Variant	2021-01-24 — 21:33:49 UTC	HariKrishnan, HelanaAshryvr, possum	224	5	25
+413704	3	25	No Variant	2021-01-24 — 18:32:12 UTC	HariKrishnan, Onen, robense	20	5	25
+412862	4	22	No Variant	2021-01-23 — 22:27:51 UTC	Bot-Fiora, HariKrishnan, kinkajusrevenge, Spieler42	419	5	25
+412822	4	24	No Variant	2021-01-23 — 21:58:12 UTC	Bot-Fiora, HariKrishnan, kinkajusrevenge, Spieler42	717	5	25
+412782	4	0	No Variant	2021-01-23 — 21:27:47 UTC	Bot-Fiora, HariKrishnan, possum, Spieler42	655	5	25
+412732	3	25	No Variant	2021-01-23 — 20:55:47 UTC	HariKrishnan, jian01, possum	516	5	25
+412702	3	0	No Variant	2021-01-23 — 20:27:51 UTC	HariKrishnan, jian01, possum	551	5	25
+412678	5	17	Brown-Ones & Rainbow (4 Suits)	2021-01-23 — 19:58:26 UTC	4head, HariKrishnan, jian01, Lanvin, possum	1	4	20
+412543	3	20	4 Suits	2021-01-23 — 18:22:15 UTC	Denchulitas, HariKrishnan, witcher	118	4	20
+411490	4	25	No Variant	2021-01-22 — 19:14:54 UTC	HariKrishnan, MarkusKahlsen, PMP, rachyrules	97	5	25
+410764	3	0	No Variant	2021-01-21 — 21:12:25 UTC	Denchulitas, HariKrishnan, Onen	223	5	25
+410755	3	0	No Variant	2021-01-21 — 20:54:42 UTC	Denchulitas, HariKrishnan, Onen	220	5	25
+410745	3	24	No Variant	2021-01-21 — 20:34:53 UTC	Denchulitas, HariKrishnan, Onen	285	5	25
+410731	3	24	No Variant	2021-01-21 — 20:08:22 UTC	Denchulitas, HariKrishnan, Onen	324	5	25
+410713	3	0	No Variant	2021-01-21 — 19:45:17 UTC	Denchulitas, HariKrishnan, Onen	354	5	25
+410705	4	0	Black (5 Suits)	2021-01-21 — 19:25:46 UTC	CaitlinSmith, Denchulitas, HariKrishnan, Onen	41	5	25
+410674	3	25	No Variant	2021-01-21 — 18:42:16 UTC	HariKrishnan, macanek, Spieler42	71	5	25
+410665	4	0	No Variant	2021-01-21 — 18:27:39 UTC	bjnh, HariKrishnan, macanek, Spieler42	180	5	25
+410658	4	25	No Variant	2021-01-21 — 18:12:49 UTC	bjnh, HariKrishnan, macanek, Spieler42	198	5	25
+409850	4	30	6 Suits	2021-01-20 — 20:05:13 UTC	bjnh, Denchulitas, griff77, HariKrishnan	250	6	30
+409714	3	24	No Variant	2021-01-20 — 17:58:47 UTC	Damian000, HariKrishnan, kinkajusrevenge	386	5	25
+409696	3	0	No Variant	2021-01-20 — 17:37:16 UTC	Damian000, HariKrishnan, kinkajusrevenge	451	5	25
+409685	3	22	No Variant	2021-01-20 — 17:24:22 UTC	Damian000, HariKrishnan, kinkajusrevenge	459	5	25
+408881	3	24	No Variant	2021-01-19 — 20:28:32 UTC	arnino, Daryl, HariKrishnan	624	5	25
+408837	3	25	No Variant	2021-01-19 — 19:48:48 UTC	arnino, Daryl, HariKrishnan	750	5	25
+408808	5	0	Black (5 Suits)	2021-01-19 — 19:20:24 UTC	4head, HariKrishnan, Lanvin, newduke, torp	20	5	25
+408796	5	0	Brown-Ones (4 Suits)	2021-01-19 — 19:06:23 UTC	BananaBum, CaitlinSmith, HariKrishnan, Lanvin, newduke	1	4	20
+408764	5	16	Brown-Ones (4 Suits)	2021-01-19 — 18:33:48 UTC	BananaBum, CaitlinSmith, eljavi, HariKrishnan, Lanvin	1	4	20
+408753	5	0	Brown-Ones (4 Suits)	2021-01-19 — 18:20:21 UTC	BananaBum, CaitlinSmith, eljavi, HariKrishnan, Lanvin	1	4	20
+408748	5	0	No Variant	2021-01-19 — 18:16:38 UTC	BananaBum, CaitlinSmith, eljavi, HariKrishnan, Lanvin	223	5	25
+407782	4	22	No Variant	2021-01-18 — 20:33:28 UTC	Denchulitas, griff77, HariKrishnan, poofart123	2076	5	25
+407714	3	25	No Variant	2021-01-18 — 19:53:00 UTC	Denchulitas, griff77, HariKrishnan	1465	5	25
+405479	3	0	Rainbow (6 Suits)	2021-01-16 — 21:00:11 UTC	4head, HariKrishnan, knaphill	196	6	30
+405397	3	0	Rainbow (6 Suits)	2021-01-16 — 20:12:08 UTC	4head, HariKrishnan, knaphill	215	6	30
+405321	4	25	No Variant	2021-01-16 — 19:16:51 UTC	4head, BananaBum, HariKrishnan, knaphill	899	5	25
+405298	4	0	No Variant	2021-01-16 — 18:48:33 UTC	BananaBum, HariKrishnan, Kannan, yummya	1449	5	25
+405292	4	0	No Variant	2021-01-16 — 18:43:14 UTC	BananaBum, HariKrishnan, Kannan, yummya	1744	5	25
+405266	3	22	No Variant	2021-01-16 — 17:51:48 UTC	4head, Denchulitas, HariKrishnan	1017	5	25
+405244	3	0	No Variant	2021-01-16 — 16:56:16 UTC	4head, Denchulitas, HariKrishnan	1174	5	25
+405227	3	0	No Variant	2021-01-16 — 16:36:29 UTC	4head, Denchulitas, HariKrishnan	1636	5	25
+404481	5	21	No Variant	2021-01-16 — 00:00:27 UTC	4head, HariKrishnan, socerman, tacobot5000, willwin4sure	296	5	25
+404461	5	24	No Variant	2021-01-15 — 23:15:36 UTC	4head, HariKrishnan, socerman, tacobot5000, willwin4sure	837	5	25
+404429	5	24	No Variant	2021-01-15 — 22:31:32 UTC	4head, HariKrishnan, socerman, tacobot5000, willwin4sure	1119	5	25
+404348	3	0	Rainbow (6 Suits)	2021-01-15 — 21:21:37 UTC	Daryl, HariKrishnan, kinkajusrevenge	91	6	30
+404277	3	0	No Variant	2021-01-15 — 20:27:29 UTC	BananaBum, CaitlinSmith, HariKrishnan	111	5	25
+404271	3	0	No Variant	2021-01-15 — 20:22:46 UTC	BananaBum, CaitlinSmith, HariKrishnan	114	5	25
+404269	4	0	No Variant	2021-01-15 — 20:16:42 UTC	Daryl, duckington, HariKrishnan, Spieler42	793	5	25
+404266	4	0	No Variant	2021-01-15 — 20:15:49 UTC	BananaBum, CaitlinSmith, duckington, HariKrishnan	2763	5	25
+404246	3	19	4 Suits	2021-01-15 — 19:55:18 UTC	BananaBum, CaitlinSmith, HariKrishnan	160	4	20
+404213	3	0	No Variant	2021-01-15 — 19:27:06 UTC	BananaBum, HariKrishnan, voss	63	5	25
+390621	4	25	No Variant	2021-01-02 — 21:38:36 UTC	HariKrishnan, Pimak, rahsosprout, Spieler42	287	5	25
+390580	4	0	No Variant	2021-01-02 — 21:03:27 UTC	HariKrishnan, Pimak, rahsosprout, Spieler42	384	5	25
+390551	4	24	No Variant	2021-01-02 — 20:40:58 UTC	CaitlinSmith, HariKrishnan, Pimak, Spieler42	373	5	25
+390489	4	24	No Variant	2021-01-02 — 19:35:30 UTC	bob65536, colton, HariKrishnan, macanek	308	5	25
+390410	4	0	No Variant	2021-01-02 — 18:10:43 UTC	GodMagneto, HariKrishnan, Shyambaggins, vishal	985	5	25
+389546	3	25	No Variant	2021-01-01 — 21:08:32 UTC	Doge, HariKrishnan, macanek	344	5	25
+389469	5	24	White-Ones (5 Suits)	2021-01-01 — 19:27:26 UTC	HariKrishnan, indego, Lanvin, MangoPie, Spieler42	3	5	25
+389458	3	19	No Variant	2021-01-01 — 18:52:19 UTC	HariKrishnan, indego, Spieler42	485	5	25
+389433	3	0	No Variant	2021-01-01 — 18:15:24 UTC	HariKrishnan, indego, Spieler42	573	5	25
+389421	3	0	No Variant	2021-01-01 — 17:49:30 UTC	HariKrishnan, indego, Spieler42	1291	5	25
+389410	4	25	No Variant	2021-01-01 — 17:26:46 UTC	Fey, HariKrishnan, Kernel, Sucubis	70	5	25
+378023	5	0	4 Suits	2020-12-21 — 20:49:25 UTC	Daryl, HariKrishnan, Kyle, Lanvin, StKildaFan	4	4	20
+378003	3	0	No Variant	2020-12-21 — 20:29:11 UTC	HariKrishnan, paloma21, pichinto	3260	5	25
+377173	3	25	No Variant	2020-12-20 — 22:55:44 UTC	HariKrishnan, kinkajusrevenge, Pimak	645	5	25
+377135	3	0	No Variant	2020-12-20 — 22:23:08 UTC	HariKrishnan, kinkajusrevenge, Pimak	680	5	25
+377080	5	24	No Variant	2020-12-20 — 21:50:44 UTC	Daryl, HariKrishnan, kinkajusrevenge, Lanvin, Pimak	541	5	25
+377034	5	23	No Variant	2020-12-20 — 21:06:12 UTC	bob65536, HariKrishnan, Lanvin, PMP, sweety530	1510	5	25
+376061	3	21	No Variant	2020-12-19 — 22:06:02 UTC	Doge, HariKrishnan, JackFrost	840	5	25
+375999	3	24	No Variant	2020-12-19 — 21:24:34 UTC	HariKrishnan, Lanvin, wump	106	5	25
+374858	4	23	No Variant	2020-12-18 — 18:46:32 UTC	GodMagneto, HariKrishnan, heemi, vishal	1092	5	25
+373918	4	25	No Variant	2020-12-17 — 20:28:47 UTC	HariKrishnan, Plum, PMP, ricardodd	278	5	25
+373888	4	25	No Variant	2020-12-17 — 20:02:27 UTC	HariKrishnan, Plum, PMP, ricardodd	336	5	25
+373080	3	23	No Variant	2020-12-16 — 20:49:54 UTC	HariKrishnan, PMP, wump	102	5	25
+373001	4	0	No Variant	2020-12-16 — 20:12:40 UTC	HariKrishnan, Lanvin, supom, wump	90	5	25
+372139	3	24	No Variant	2020-12-15 — 21:09:07 UTC	Fey, HariKrishnan, nobo	40	5	25
+372096	3	0	No Variant	2020-12-15 — 20:33:31 UTC	Fey, HariKrishnan, nobo	40	5	25
+372048	5	0	No Variant	2020-12-15 — 19:40:48 UTC	Fey, HariKrishnan, Hyphen-ated, MarcLovesDogs, Plum	1995	5	25
+369193	3	20	No Variant	2020-12-12 — 21:10:20 UTC	HariKrishnan, Hyphen-ated, nobo	1095	5	25
+369132	3	0	No Variant	2020-12-12 — 20:19:21 UTC	HariKrishnan, heemi, vishal	1881	5	25
+369131	3	18	No Variant	2020-12-12 — 20:18:58 UTC	HariKrishnan, heemi, vishal	2163	5	25
+368013	3	19	No Variant	2020-12-11 — 21:00:16 UTC	GodMagneto, HariKrishnan, vishal	2606	5	25
+367954	4	20	No Variant	2020-12-11 — 20:05:33 UTC	GodMagneto, HariKrishnan, heemi, vishal	1253	5	25
+367907	4	19	No Variant	2020-12-11 — 19:09:19 UTC	GodMagneto, HariKrishnan, heemi, vishal	3581	5	25
+367876	3	0	No Variant	2020-12-11 — 18:03:43 UTC	HariKrishnan, heemi, Shahan	4221	5	25
