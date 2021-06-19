@@ -63,7 +63,8 @@ with open("input/list_of_players.txt") as players:
 # # current_strength_per_player = {"bob": 1, "cathy": 1}
 
 for player in current_strength_per_player:
-    print(player, current_strength_per_player[player], num_games_per_player[player])
+    print(
+        player, current_strength_per_player[player], num_games_per_player[player])
 
 while min(num_games_per_player.values()) < 1:
     too_small_sample_size_player = None
@@ -90,7 +91,8 @@ while min(num_games_per_player.values()) < 1:
         games.pop(replay)
 
 for player in current_strength_per_player:
-    print(player, current_strength_per_player[player], num_games_per_player[player])
+    print(
+        player, current_strength_per_player[player], num_games_per_player[player])
 
 
 for iteration in range(100):
@@ -101,7 +103,8 @@ for iteration in range(100):
         game = games[replay]
 
         product_strengths = product(
-            [current_strength_per_player[player] for player in game["players"]],
+            [current_strength_per_player[player]
+                for player in game["players"]],
         )
         for alice in game["players"]:
             if current_strength_per_player[alice] == 0:
@@ -115,14 +118,8 @@ for iteration in range(100):
             alice_strength_producing_perfect_prediction = (
                 game["fraction_max_score"] / product_strengths_excluding_alice
             )
-            alice_performance = alice_strength_producing_perfect_prediction ** (
-                1 / float(len(game["players"]))
-            )
-            avg_strength_excluding_alice = product_strengths_excluding_alice / (
-                len(game["players"]) - 1
-            )
 
-            sum_performances_per_player[alice] += alice_performance
+            sum_performances_per_player[alice] += alice_strength_producing_perfect_prediction
 
     next_strength_per_player = {}
     for player in sum_performances_per_player:
